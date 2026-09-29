@@ -284,31 +284,8 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 
 > **Logic:** Mesolithic domestication fact = **Bagor** (and Adamgarh in older twin keys). **Odai, Bori, and Lakhnia** are distractors. **Bori** in Maharashtra is a claimed **Lower Paleolithic** site, not Mesolithic domestication. Triple burial = **Damdama**. Four-skeleton grave = **Sarai Nahar Rai**.
 
-**PYQ — UPPCS Prelims 2018, Q18**
-
-Which among the following sites provides evidence of domestication of animals in the Mesolithic period?
-
-A. Odai
-B. Bori
-C. Bagor
-D. Lakhnia
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Bagor)
-
-**Detailed Explanation:**
-- **Archaeological Context:** Systematically excavated evidence of animal domestication in India emerges in the **Mesolithic period** (c. 5000–4000 BCE). The two benchmark sites confirming this transition are **Bagor** in Rajasthan and **Adamgarh** in Madhya Pradesh.
-- **Excavations at Bagor:** Located on the Kothari River in Bhilwara district, Rajasthan, Bagor was excavated by **V.N. Misra** of Deccan College between 1968 and 1970. Phase I (Mesolithic) revealed abundant microliths, stone-paved living floors, and charred/cut bones of domesticated animals (sheep, goat, cattle, and pig).
-- **Distractor Analysis:**
-  - **Odai:** Minor prehistoric site in Tamil Nadu, not associated with the primary animal domestication horizon of the subcontinent.
-  - **Bori:** Situated in the Kukdi river valley (Pune district, Maharashtra); famous for Lower Paleolithic Acheulian tools and volcanic ash (tephra) layers dated to ~1.4 Ma, representing early hominin presence rather than Mesolithic herding.
-  - **Lakhnia (Lakhakhia / Lekhahia):** A rock-shelter in Mirzapur (Vindhyan Uttar Pradesh) renowned for prehistoric rock art and human skeletal remains, not the primary evidence of animal domestication.
-
-**Key Exam Takeaway / Trap:**
-- UPPCS repeatedly tests the dual Mesolithic animal domestication sites: **Bagor (Rajasthan)** and **Adamgarh (Madhya Pradesh)**. Do not confuse **Bagor (Rajasthan - Mesolithic)** with **Baghor (Madhya Pradesh - Upper Paleolithic stone shrine in Son Valley)**!
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2018, Q18]:** Early evidence of animal domestication in Mesolithic India at **Bagor** (Kothari River, Bhilwara, RJ) and **Adamgarh** (MP). *(See Q2 in Complete PYQ Bank below)*
 
 ---
 
@@ -619,31 +596,8 @@ D. Lakhnia
 
 > **Logic:** Bhimbetka was excavated by **Wakankar** (1957–58). Vatsa is the Harappan trap.
 
-**PYQ — UPPCS Prelims 2020, Q10**
-
-Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
-
-A. Madho Swaroop Vatsa
-B. H.D. Sankalia
-C. V.S. Wakankar
-D. V.N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (V.S. Wakankar)
-
-**Detailed Explanation:**
-- **Discovery of Bhimbetka:** Dr. **Vishnu Shridhar Wakankar** (Vikram University, Ujjain), while travelling by train from Bhopal to Itarsi in **1957–1958**, observed the striking sandstone hills of the Vindhyan range. Upon trekking through the forest near Abdullahganj, Raisen district (MP), he discovered the world-famous Bhimbetka rock shelters.
-- **Cultural Significance:** Bhimbetka contains over 750 rock shelters, of which more than 500 are adorned with prehistoric rock paintings. The rock art sequence extends continuously from the Upper Paleolithic through the Mesolithic (densest phase), Neolithic, Chalcolithic, down to the early historic and medieval periods.
-- **Distractor Analysis:**
-  - **Madho Swaroop Vatsa (M.S. Vats):** Renowned archaeologist associated with the Indus Valley Civilization; led major excavations at Harappa in the 1920s and 1930s.
-  - **H.D. Sankalia:** Pioneering prehistorian from Deccan College, Pune; celebrated for excavating Navdatoli, Nevasa, Langhnaj, and Inamgaon.
-  - **V.N. Mishra (Misra):** Conducted extensive later excavations and statistical classifications of tools and rock art at Bhimbetka during the 1970s, but was not its initial discoverer.
-
-**Key Exam Takeaway / Trap:**
-- UPPCS / MPPCS frequently tests two key dates for Bhimbetka: Discovered by **V.S. Wakankar in 1957–1958**; inscribed as a **UNESCO World Heritage Site in 2003**.
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2020, Q10]:** Discovery of **Bhimbetka Caves** rock paintings by Dr. **V.S. Wakankar** in **1957–1958** (UNESCO 2003). *(See Q1 in Complete PYQ Bank below)*
 
 ---
 
@@ -2506,6 +2460,40 @@ D. Cleavers only — Pottery — Iron
   - **Middle Paleolithic = Flakes, Scrapers, Points, Borers**
   - **Upper Paleolithic = Blades, Burins**.
 </details>
+
+---
+
+**Q-GC51. M.P. P.C.S. (Pre) 2019 / standard**
+
+Country's biggest museum showing history of human development, The Indira Gandhi Rashtriya Manav Sangrahalaya is located at which place?
+
+A. Bhopal
+
+B. New Delhi
+
+C. Mumbai
+
+D. Ahmedabad
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A** (Bhopal, Madhya Pradesh)
+
+**Detailed Explanation:**
+- **Indira Gandhi Rashtriya Manav Sangrahalaya (IGRMS) / National Museum of Mankind:**
+  - Located on the Shamla Hills overlooking the upper lake in **Bhopal (Madhya Pradesh)**.
+  - Spread over 200 acres, it is an autonomous organisation functioning under the **Ministry of Culture**, Government of India.
+  - It is India's premier and largest anthropological museum, depicting the evolutionary narrative of human biological development, prehistoric technology, and the living bio-cultural traditions of Indian indigenous communities.
+- **Distractor Analysis:**
+  - **New Delhi:** Houses the National Museum (Janpath) and Archaeological Survey of India (ASI) headquarters.
+  - **Mumbai:** Houses the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (formerly Prince of Wales Museum).
+  - **Ahmedabad:** Renowned for the Calico Museum of Textiles and Lalbhai Dalpatbhai Museum.
+
+**Key Exam Takeaway / Trap:**
+- **National Museum of Mankind (Indira Gandhi Rashtriya Manav Sangrahalaya)** = **Bhopal (M.P.)**, under the **Ministry of Culture**.
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 

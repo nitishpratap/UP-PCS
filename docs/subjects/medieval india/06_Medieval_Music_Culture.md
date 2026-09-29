@@ -139,30 +139,9 @@ Medieval Music | Later Mughal (मुग़ल) Music | Mughal Court Patronage |
 - **Niyamat Khan Sadarang** and **Adarang** developed **khayal** into the dominant classical form.
 - **Tappa** was refined at **Muhammad Shah Rangeela's** court (~1719–1748), not at Akbar's.
 
-### PYQ — Tappa under Muhammad Shah
-
-**1. (UPPCS Prelims 2023, Q38)** The Tappa style of music was refined and developed in the court of which Mughal Emperor?
-
-A. Akbar
-B. Jahangir
-C. Shah Jahan
-D. Muhammad Shah
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Muhammad Shah)
-
-**Detailed Explanation:**
-- **Option D is correct:** The **Tappa** style of Hindustani classical music—originally a folk rhythm and song of camel-drivers in Punjab/North-West India—was adapted, refined, and given classical concert status in the court of Mughal Emperor **Muhammad Shah "Rangeela"** (reigned 1719–1748 CE). The primary master behind this development was the court musician **Miyan Ghulam Nabi**, popularly known as **Shori Miyan**, whose compositions are characterized by fast, intricate, and bouncy melodic patterns (*taans*).
-- **Option A is incorrect:** Emperor Akbar's (1556–1605 CE) court was the golden era of **Dhrupad**, immortalized by Miyan Tansen, Swami Haridas, and Baba Ramdas. Tappa did not exist in classical form during Akbar's reign.
-- **Option B is incorrect:** Emperor Jahangir (1605–1627 CE) patronized vocalists like Parvezdad, Bilas Khan (Tansen's son), and Chhatar Khan, continuing the Dhrupad tradition.
-- **Option C is incorrect:** Shah Jahan's (1628–1658 CE) court was celebrated for master vocalists Jagannath Kaviraj and Lal Khan Kalawant (son-in-law of Bilas Khan), also operating within the Dhrupad-Dhamar genre.
-
-**Key Exam Takeaway / Trap:**
-- *Form-Era Association:* **Akbar** = Classical peak of **Dhrupad** (Tansen); **Muhammad Shah 'Rangeela'** = Golden flowering of **Khayal** (Niyamat Khan 'Sadarang' & Firoz Khan 'Adarang') and **Tappa** (Shori Miyan).
-
-</details>
+> [!TIP] **Exam Anchor — Tappa & 18th-Century Music (UPPCS Master Spine):**
+> - **Tappa Style:** Originating from the rhythmic folk tunes of Punjabi camel drivers, *Tappa* was refined into a sophisticated semi-classical art form at the 18th-century imperial court of **Muhammad Shah 'Rangila'**.
+> - **Khayal Masters:** Court composers **Sadarang (Niyamat Khan)** and **Adarang (Firoz Khan)** developed and popularized *Khayal gayaki* during this era.
 
 - **Shori Miyan (Ghulam Nabi)** is the main tappa composer fact.
 - Later decline of Delhi pushed musicians to **regional centres** such as Lucknow, Banaras, Patiala, and Gwalior, giving birth to modern **gharana** geography.
@@ -184,30 +163,9 @@ D. Muhammad Shah
 
 > **Logic:** Khusrau was a Sultanate Sufi-music pioneer, while Tansen was Akbar's dhrupad master. Do not merge their eras.
 
-### PYQ — Khusrau guru match
-
-**1. (UPPCS Prelims 2025, Q12 overlap)** Amir Khusrau's guru in the disciple–guru match is:
-
-A. Ramananda (code 2)
-B. Nizamuddin Auliya (code 3)
-C. Vallabhacharya (code 4)
-D. Guru Nanak (code 1)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Nizamuddin Auliya: corresponding to match code 3)
-
-**Detailed Explanation:**
-- **Option B is correct:** Amir Khusrau (Ab'ul Hasan Yamin al-Din Khusrau, 1253–1325 CE) was the deeply devoted disciple (*murid*) of the venerated Chishti Sufi master **Hazrat Nizamuddin Auliya** (*Sultan-ul-Mashaikh*) of Delhi. Khusrau credited his literary genius and musical inspiration to the spiritual blessings of his Pir. When Nizamuddin Auliya passed away in April 1325 CE, Khusrau was inconsolable, recited the famous Hindi verse: *"Gori sove sej par, mukh par dare kes; Chal Khusrau ghar aapne, saanjh bhai chahun des"*, and passed away six months later in October 1325 CE.
-- **Option A is incorrect:** Swami Ramananda was the 14th–15th century Vaishnava Bhakti saint of Prayag/Varanasi, guru to Kabir, Ravidas, and Sena.
-- **Option C is incorrect:** Mahaprabhu Vallabhacharya was the founder of the *Pushtimarg* and guru to the blind poet Sant Surdas.
-- **Option D is incorrect:** Guru Nanak Dev was the founder of Sikhism; his lifelong Muslim musical companion and disciple was Bhai Mardana.
-
-**Key Exam Takeaway / Trap:**
-- *Matching Code in UPPCS 2025 Q12:* Kabir → Ramananda (2), Khusrau → Nizamuddin (3), Surdas → Vallabhacharya (4), Mardana → Guru Nanak (1) gives code **2-3-4-1** (**Option C**).
-
-</details>
+> [!TIP] **Exam Anchor — Amir Khusrau's Spiritual & Musical Legacy (UPPCS Core):**
+> - **Spiritual Master:** Amir Khusrau was the devoted chief disciple (*murid*) of **Hazrat Nizamuddin Auliya** (*Sultan-ul-Mashaikh*); died in October 1325 CE, six months after his Pir's passing.
+> - **Musical Contributions:** Credited with creating the *Qawwali* form, developing *Tarana*, and innovating ragas like *Yaman* and *Sazgiri*.
 
 ---
 
@@ -226,30 +184,11 @@ D. Guru Nanak (code 1)
 
 > **Logic:** Pre-Akbar patron of Tansen was **Bhata/Rewa**, not Mewar (मेवाड़), Malwa, or Gujarat.
 
-### PYQ — Tansen pre-Akbar patron
-
-**1. (UPPCS Prelims 2019, Q89)** Who among the following kings had given patronage to Tansen **before** Akbar?
-
-A. Raja Ramchandra Singh of Bhata
-B. Rajbahadur of Malwa
-C. Uday Singh of Mewar
-D. Muzaffar Shah of Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Raja Ramchandra Singh of Bhata / Rewa)
-
-**Detailed Explanation:**
-- **Option A is correct:** Prior to joining Emperor Akbar's imperial court in 1562 CE, Miyan Tansen (originally Ramtanu Pandey, born at Behat near Gwalior) was the court musician of **Raja Ramchandra Singh Baghela** of Bhata (the kingdom of Rewa in modern Madhya Pradesh). Raja Ramchandra was a connoisseur of classical music who held Tansen in immense esteem and rewarded him lavishly (reportedly giving him one crore *tanka* coins for a single performance). Hearing of Tansen's extraordinary vocal prowess, Emperor Akbar sent an imperial envoy (Jalal Khan Qurchi) to Raja Ramchandra in 1562 CE demanding that Tansen be sent to the imperial court at Agra, where Akbar enrolled him as one of his **Navratnas** (Nine Gems) and conferred upon him the title *Miyan*.
-- **Option B is incorrect:** Baz Bahadur was the music-loving Sultan of Malwa (famous for his romance with Rani Roopmati); he surrendered to Akbar's generals and later entered Mughal service as a *mansabdar*, but was not Tansen's royal patron.
-- **Option C is incorrect:** Maharana Udai Singh II was the ruler of Mewar (founder of Udaipur); he resisted Mughal expansion and never patronized Tansen.
-- **Option D is incorrect:** Muzaffar Shah was the ruler of the Gujarat Sultanate, having no connection with Tansen's early musical career.
-
-**Key Exam Takeaway / Trap:**
-- *The Pre-Akbar Patron:* Always remember **Raja Ramchandra Singh of Bhata (Rewa)**. Tansen's musical lineage was shaped by Swami Haridas of Vrindavan and the Gwalior court of Raja Man Singh Tomar, but his sovereign royal patron immediately before Akbar was Raja Ramchandra Baghela.
-
-</details>
+> [!TIP] **Exam Anchor — Mian Tansen's Lineage & Patrons (UPPCS & IAS Format):**
+> - **Birth & Training:** Born **Ramtanu Pandey**; trained under master **Swami Haridas** of Vrindavan.
+> - **Pre-Akbar Patron:** Served as the royal court musician of **Raja Ramchandra Singh** of Rewa (Bhata region), who patronized him before Akbar summoned him in 1562 CE.
+> - **Titles:** Conferred the title *Tansen* by Raja Vikramjit of Gwalior, *Mian* and *Kanthabharanvanivilas* by Akbar.
+> - **Muslim Name & Tomb:** After conversion, named **Ata Ali Khan**; buried at **Gwalior** near the tomb of Sufi saint Hazrat Muhammad Ghaus.
 
 ---
 
@@ -286,31 +225,9 @@ D. Muzaffar Shah of Gujarat
 - Qawwali centres include Delhi dargahs around Nizamuddin and the Ajmer (अजमेर) Sharif lineage of Chishti devotion.
 - Qawwali is distinct from classical **dhrupad and khayal**; it is a religious mehfil form, not a Navratna court concert form.
 
-### PYQ — Sanskrit music translation A/R
-
-**1. (UPPCS Prelims 2018, Q90)Assertion (A):** Many Sanskrit works on music were translated into Persian during the medieval period.
-
-**Reason (R):** The early Chishti sufis were fond of musical assemblies called 'sama'.
-
-A. Both true; R explains A
-B. Both true; R not explanation
-C. A true; R false
-D. A false; R true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Both (A) and (R) are true, but (R) is NOT the correct explanation of (A))
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Throughout the Delhi Sultanate and Mughal periods, numerous classical Sanskrit treatises on musicology were systematically translated into Persian. Notable milestones include the *Ghunyat-ul-Munya* ("Pleasure of Desire", 1374–75 CE), commissioned under Firuz Shah Tughlaq in Gujarat; the translation of Damodara Pandita's *Sangita Darpana* into Persian as *Tuhfat al-Hind* by Mirza Raushan Zamir (1666 CE); and the Persian rendering of *Mankutuhal* (composed under Raja Man Singh Tomar of Gwalior) as *Ragdarpan* by Faqirullah in 1665–66 CE during Aurangzeb's early reign.
-- **Reason (R) is correct:** Early Chishti Sufis (Khwaja Moinuddin Chishti, Qutbuddin Bakhtiyar Kaki, Baba Farid, and Hazrat Nizamuddin Auliya) considered *Sama* (spiritual musical audition) a sacred vehicle to achieve mystical ecstasy (*wajd*) and divine communion, vigorously defending it against orthodox Sunni jurists.
-- **Why (R) does NOT explain (A):** The translation of Sanskrit musicological treatises into Persian was driven by imperial court patronage, royal intellectual curiosity, and cross-cultural musicological scholarship. Chishti *Sama* was a private devotional ritual of Sufi hospices (*khanqahs*) and did not directly cause or explain the royal academic translation movement.
-
-**Key Exam Takeaway / Trap:**
-- *Causal Link Diagnostic:* Both statements are independent historical truths, but the royal court translations of technical Sanskrit texts were carried out by court scholars for royal patrons, not caused by the ecstatic *Sama* gatherings of Chishti mystics.
-
-</details>
+> [!TIP] **Exam Anchor — Sanskrit Music Treatises in Persian Translation (UPPCS Format):**
+> - **Assertion (A):** Many Sanskrit treatises on Indian classical music were translated into Persian during the medieval period. (True — patronized by Firuz Tughluq, Sikandar Lodi, and Mughal emperors).
+> - **Reason (R):** The early Chishti Sufis were fond of musical assemblies called *Sama*. (True, but (R) is NOT the correct causal explanation of (A)).
 
 ---
 
@@ -329,185 +246,813 @@ D. A false; R true
 
 > **Logic:** **Ashiqa** is Khusrau’s masnavi; **Raga Vibodh** is by **Somanath**. Do not swap them in match lists.
 
-### PYQ — Music treatise match
-
-**1. (UPPCS Prelims 2021, Q22)** Match List-I (Music Treatise) with List-II (Author):
-
-| List-I | List-II |
-|--------|---------|
-| A. Ragamala | 1. Somanath |
-| B. Rasa Kaumudi | 2. Venkatamakhin (Venkatraman) |
-| C. Raga Vibodh | 3. Pundarika Vitthala |
-| D. Chaturdandi Prakashika | 4. Srikantha |
-
-*Row order in the table is not the answer code.*
-
-Options:
-A. 3-4-1-2
-B. 4-2-1-3
-C. 2-3-4-1
-D. 1-2-3-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (3-4-1-2: A-3, B-4, C-1, D-2)
-
-**Detailed Explanation:**
-- **A. Ragamala → 3. Pundarika Vitthala:** Pundarika Vitthala (a 16th-century musicologist who lived at Burhanpur and later under Raja Man Singh of Amer) authored the celebrated Sanskrit musicological treatise *Ragamala*, in which he classified ragas into six principal ragas and their raginis, bridging northern and southern music systems. He also wrote *Sadraga Chandrodaya* and *Raga Manjari*.
-- **B. Rasa Kaumudi → 4. Srikantha:** Composed by Srikantha (a scholar at the court of the Shatrunjaya king in Gujarat around 1575 CE); it is an invaluable Sanskrit work detailing 40 ragas and their emotional aesthetic rasas.
-- **C. Raga Vibodha → 1. Somanatha:** Pandit Somanatha of Andhra composed the seminal Sanskrit treatise *Raga Vibodha* in 1609 CE, providing meticulous descriptions of raga structures, microtonal divisions (*shrutis*), and veena fingerings.
-- **D. Chaturdandi Prakashika → 2. Venkatamakhin (Venkatraman):** Authored in Sanskrit by Venkatamakhin (Venkatraman) in the 17th century at the Thanjavur Nayak court; it is the foundational landmark of Carnatic music theory, introducing the 72 *Melakarta* (parent scale) classification system.
-
-**Key Exam Takeaway / Trap:**
-- *High-Yield Four-Treatise Matrix:* This identical four-treatise question was asked repeatedly by UPPCS in **2021 (Q22)** and **2022 (Q108)**. Memorize the exact code sequence: **Pundarika Vitthala** (*Ragamala*), **Srikantha** (*Rasa Kaumudi*), **Somanatha** (*Raga Vibodha*), **Venkatamakhin** (*Chaturdandi Prakashika*) → **3-4-1-2**.
-
-</details>
+> [!TIP] **Exam Anchor — Classical Music Treatises Alignment (UPPCS Master Spine):**
+> - **Ragamala:** Pundarika Vitthala
+> - **Rasa Kaumudi:** Srikantha
+> - **Raga Vibodha:** Somanatha (1609 CE)
+> - **Chaturdandi Prakashika:** Venkatamakhin (father of Carnatic 72-Melakarta system)
+> - **Sangita Ratnakara:** Sarangadeva (13th c. Yadava court of Devagiri)
+> - **Man Kautuhal:** Raja Man Singh Tomar of Gwalior
 
 **2. (UPPCS Prelims 2022, Q108)** Match List-I (Work) with List-II (Author):
 - Re-tested the identical four treatises: **Ragamala** (Pundarika Vitthala), **Rasa Kaumudi** (Srikantha), **Raga Vibodha** (Somanatha), and **Chaturdandi Prakashika** (Venkatamakhin). Verified official answer: **A (3-4-1-2)**.
 
 ---
 
-## Complete PYQ Bank (Topic 6)
 
-**Q1. UPPCS Prelims 2018, Q90**
+### 6.10 Master Fact-Locks — Mughal Painting Ateliers & Classical Music
 
-Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
-Reason (R): The early Chishti sufis were fond of musical assemblies called 'sama'.
+| Category / Entity | Specific Details & Exam Anchors | Core Significance |
+|---|---|---|
+| **Foundations of Mughal Painting** | • **Humayun** recruited two master Persian artists during his exile: **Khwaja Abdus Samad** and **Mir Sayyid Ali**.<br>• Humayun and young Akbar took drawing lessons directly from them, founding the Mughal atelier. | Genesis of Mughal miniature art |
+| **Hamzanama (Dastan-i-Amir Hamza)** | • First major monumental painting enterprise undertaken under **Akbar**.<br>• Executed over **15 years** by ~50 painters under the successive supervision of Mir Sayyid Ali and Abdus Samad; comprised ~**1,400 large cloth paintings**. | Earliest mature Akbari manuscript |
+| **Akbar's Tasvir Khana** | • Established imperial painting workshops (**Tasvir Khana** / *Karkhanas*).<br>• Court painters: **Daswant** (son of a potter, chief illustrator of *Razmnama*, committed suicide), **Basawan**, Keshav Lal, Mukund, Miskin, Farrukh, Jagan, Mahesh.<br>• **European Influence:** Portuguese Jesuits introduced Western techniques: individual realistic portraiture, three-dimensional shading, and perspective (distant objects rendered smaller). | Akbari realism and synthesis |
+| **Jahangir — Golden Age of Painting** | • Shifted the art form from book illustrations to **independent portraits**, nature studies, and imperial albums (*muraqqa*).<br>• **Abul Hasan:** Conferred title ***Nadir-ul-Zaman*** (*"Wonder of the Age"*); painted Jahangir's accession on the frontispiece of *Tuzuk-i-Jahangiri*.<br>• **Ustad Mansur:** Conferred title ***Nadir-ul-Asra*** (*"Wonder of the Epoch"*); celebrated ornithological and botanical master (Siberian crane, Bengal florican, dodo, floral studies).<br>• **Bishan Das:** Master portrait painter sent with the Mughal embassy to Safavid Persia to paint Shah Abbas I.<br>• Other Jahangiri masters: Manohar, Farrukh Beg, Aqa Riza, Govardhan, Muhammad Nadir. | Pinnacle of miniature painting |
+| **Regional Painting Schools** | • **Pahari, Rajasthani, and Kangra Schools:** Regional offshoots directly nurtured by Mughal miniature techniques and departing court artists.<br>• **Kalighat Painting:** Indigenous Bengal folk school based around the Kali temple of Calcutta, **NOT affected** by Mughal court miniature traditions.<br>• **Kishangarh School (Rajasthan):** Famous for the iconic, stylized portrait of ***Bani Thani*** (the *"Indian Mona Lisa"*), painted by **Nihal Chand** under the patron-poet king **Raja Sawant Singh (Nagri Das)**. | Regional miniature schools |
+| **Swami Haridas & 5 Worship Ashrams** | Renowned spiritual poet and Dhrupad master of the *Haridasi (Sakhi Bhava)* sampradaya in Vrindavan; teacher of Tansen, Baiju Bawra, and Gopal Nayak. His disciples established **5 sacred worship centers** (ashrams):<br>1. Sri Banke Bihariji<br>2. Nidhivan<br>3. Temple of Gorelal<br>4. Sri Rasik Bihari<br>5. Thatti Khana | Sacred music centers of Vrindavan |
+| **Aurangzeb's Instrumental Mastery** | Banned court vocal and instrumental music as anti-Islamic, yet was himself an accomplished master of the classical Indian instrument **Veena**. The largest number of Persian treatises on Indian classical music were written during his reign. | Irony of Aurangzeb's music policy |
+| **Morning Raga — Todi** | Hindustani classical raga sung in the early morning; traditionally performed by royal minstrels, Bhats, and Charans to awaken the sovereign. | Classical raga time-theory |
+| **Raja Man Singh Tomar of Gwalior** | Great 15th-century patron of Dhrupad music; authored the celebrated treatise *Man Kautuhal*; invented the raga ***Mal Gurjari***. | Gwalior Dhrupad tradition |
 
-A. Both true; R explains A
-B. Both true; R not explanation
-C. A true; R false
-D. A false; R true
+---
+
+## Complete PYQ Bank — Ghatnachakra Mughal Music and Paintings
+
+Complete unabridged 25-question bank from Ghatna Chakra covering Mughal painting origins (Humayun, Abdus Samad, Mir Sayyid Ali), Hamzanama, Akbar's Tasvir Khana (Daswant, Basawan), European influence, Jahangir's Golden Age (Abul Hasan, Ustad Mansur, Bishan Das), regional miniature schools (Pahari, Rajasthani, Kangra, Kalighat, Kishangarh / Bani Thani), and Hindustani classical music (Tansen, Swami Haridas, Todi raga, Tappa, Aurangzeb's Veena). Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC1. U.P.P.C.S. (Pre) 1991**
+
+Which statement is true about the Mughal paintings ?
+
+- (a) Battle Scene
+- (b) Animals, birds and natural scenes
+- (c) Courtier depicting
+- (d) All of the above
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Both (A) and (R) are true, but (R) is NOT the correct explanation of (A))
+**Answer: (d)**
 
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Major classical Sanskrit treatises on musicology were systematically translated into Persian in medieval royal courts. Examples include *Ghunyat-ul-Munya* (1374–75 CE, based on Sanskrit treatises under Firuz Shah Tughlaq), *Ragdarpan* (translated by Faqirullah from Raja Man Singh Tomar's *Mankutuhal* in 1665–66 CE), and *Tuhfat al-Hind* (translated by Mirza Raushan Zamir from *Sangita Darpana* in 1666 CE).
-- **Reason (R) is correct:** The early Chishti masters (Khwaja Moinuddin Chishti, Bakhtiyar Kaki, Baba Farid, and Nizamuddin Auliya) actively embraced *Sama* (musical gathering/audition) as a contemplative devotional practice to induce spiritual ecstasy (*wajd*).
-- **Why (R) does NOT explain (A):** The translation of Sanskrit technical treatises into Persian was driven by court patronage, state archives, and secular musicology under imperial patronage (Sultans and Mughal Emperors), not by the monastic devotional ceremonies (*Sama*) of the Chishti Sufis.
+**Explanation:**
+The Mughal paintings have played a landmark role in the
 
-**Key Exam Takeaway / Trap:**
-- *Causal Link Trap:* Both statements are true historical facts, but Chishti *Sama* was an internal Sufi ritual and did not generate the secular court-sponsored translation movement.
+history of Indian paintings. All the above options are related
 
+to Mughal paintings. These paintings were a unique blend
+
+of Indian, Persian and Islamic paintings. Ustad Mansur was
+
+a 17th Century Mughal painter and court artist. He grew in
+
+acclaim during the reign of Jahangir (1605-1627). During
+
+that period he excelled at depicting the paintings based on
+
+nature, plants, birds, and animals.
 </details>
 
-**Q2. UPPCS Prelims 2019, Q89**
+---
 
-Who among the following kings had given patronage to Tansen before Akbar?
+**Q-GC2. U.P.P.C.S. (Mains) 2012, U.P.P.C.S. (UDA/LDA) (Mains) 2010, U.P.P.C.S. (Mains) 2009**
 
-A. Raja Ramchandra Singh of Bhata
-B. Rajbahadur of Malwa
-C. Uday Singh of Mewar
-D. Muzaffar Shah of Gujarat
+The foundation of the Mughal painting was laid by –
+
+- (a) Akbar
+- (b) Humayun
+- (c) Jahangir
+- (d) Shah Jahan
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Raja Ramchandra Singh of Bhata / Rewa)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Option A is correct:** Prior to joining Akbar's court in 1562 CE, Miyan Tansen was the revered court musician of **Raja Ramchandra Singh Baghela** of Bhata (Rewa, modern Madhya Pradesh). Raja Ramchandra held Tansen in immense esteem, reportedly awarding him a gift of one crore *tanka* coins. In 1562 CE, Akbar dispatched his courtier Jalal Khan Qurchi to persuade Raja Ramchandra to send Tansen to Agra, where Akbar made him one of his **Navratnas** and conferred upon him the title *Miyan*.
-- **Options B, C, and D are incorrect:** Baz Bahadur was the Sultan of Malwa; Udai Singh II ruled Mewar; Muzaffar Shah was Sultan of Gujarat. None of them was Tansen's royal patron prior to Akbar.
+**Explanation:**
+Humayun laid the foundation of Mughal painting during the years
 
-**Key Exam Takeaway / Trap:**
-- *Pre-Akbar Patron:* Always identify **Raja Ramchandra Singh of Bhata (Rewa)** as Tansen's sovereign patron before he joined Akbar's imperial court.
+of his exile in Persia and Afghanistan. He met two distinguished
 
+Painters, Khwaja Abdus Samad and Mir Sayyid Ali. It was from
+
+these artists that Humayun and his son Akbar took lessons in
+
+drawing. An advanced atelier was set up in the palace.
 </details>
 
-**Q3. UPPCS Prelims 2019, Q88 (music-literature overlap)**
+---
 
-Match: A.Mulla Daud B.Damodar Kavi C.Somnath D.Amir Khusro with 1.Chandayan 2.Ashiqa 3.Padmavati Katha 4.Rag Vibodh
+**Q-GC3. 66th B.P.S.C. (Pre) 2020**
 
-Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
+Which Mughal ruler established Karkhanas for
+painting?
+
+- (a) Humayun
+- (b) Akbar
+- (c) Jahangir
+- (d) Shah Jahan
+- (e) None of the above/More than one of the above
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (1-3-4-2: A-1, B-3, C-4, D-2)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **A. Mulla Daud → 1. Chandayan:** Composed in 1379 CE in early Awadhi, narrating the romance of Lorik and Chanda; the pioneer Sufi Premakhyan.
-- **B. Damodar Kavi → 3. Padmavati Katha:** Early vernacular rendering of the Padmavati story in Rajasthani.
-- **C. Somnath → 4. Rag Vibodh:** Pandit Somanatha composed *Raga Vibodha* in **1609 CE**.
-- **D. Amir Khusrau → 2. Ashiqa:** Amir Khusrau composed the Persian masnavi *Ashiqa*.
+**Explanation:**
+Akbar was very fond of painting and during his reign,
 
-**Key Exam Takeaway / Trap:**
-- *Code Diagnostic:* A-1 (*Chandayan*) and B-3 (*Padmavati Katha*) leave **C-4 / D-2** → code **1-3-4-2** (**Option B**). In music-treatise stems, *Raga Vibodha* always belongs to **Somanatha**.
+painting was organised as an imperial establishment or
 
+Karkhana called Tasvir Khana where the painters worked.
+
+So, option (b) is the correct option.
 </details>
 
-**Q4. UPPCS Prelims 2021, Q22 & 2022, Q108**
+---
 
-Match List-I (Music Treatise) with List-II (Author):
+**Q-GC4. I.A.S. (Pre) 1995**
 
-| List-I | List-II |
-|--------|---------|
-| A. Ragamala | 1. Somanath |
-| B. Rasa Kaumudi | 2. Venkatamakhin (Venkatraman) |
-| C. Raga Vibodh | 3. Pundarika Vitthala |
-| D. Chaturdandi Prakashika | 4. Srikantha |
+The Mughal School of Painting formed the spinal cord
+of the various Schools of Indian miniature art. Which
+one of the following painting styles was not affected by
+Mughal painting?
 
-Options: A. 3-4-1-2 | B. 4-2-1-3 | C. 2-3-4-1 | D. 1-2-3-4
+- (a) Pahari
+- (b) Rajasthani
+- (c) Kangra
+- (d) Kalighata
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (3-4-1-2: A-3, B-4, C-1, D-2)
+**Answer: (d)**
 
-**Detailed Explanation:**
-- **A. Ragamala → 3. Pundarika Vitthala:** 16th-century treatise classifying ragas and raginis, composed by Pundarika Vitthala at Burhanpur and Amer.
-- **B. Rasa Kaumudi → 4. Srikantha:** 16th-century Sanskrit musicological work detailing 40 musical ragas and their aesthetic sentiments (*rasas*).
-- **C. Raga Vibodh → 1. Somanatha:** Composed in 1609 CE by Pandit Somanatha of Andhra, defining raga scales, shrutis, and veena playing techniques.
-- **D. Chaturdandi Prakashika → 2. Venkatamakhin (Venkatraman):** 17th-century Sanskrit cornerstone of Carnatic music theory, establishing the 72 *Melakarta* raga classification system.
+**Explanation:**
+The Mughal schools of painting from the Mughal court spread
 
-**Key Exam Takeaway / Trap:**
-- *Repeat Question:* This exact matching set appeared in consecutive years: **UPPCS 2021 (Q22)** and **UPPCS 2022 (Q108)**. Code: **3-4-1-2**.
+to various regional centres and gave rise to Pahari, Rajasthani
 
+and Kangra school of painting but Kalighata school of
+
+painting was Indigenous and not affected by Mughal painting.
 </details>
 
-**Q5. UPPCS Prelims 2023, Q38**
+---
 
-The Tappa style of music was refined and developed in the court of which Mughal Emperor?
+**Q-GC5. 46th B.P.S.C. (Pre) 2004**
 
-A. Akbar
-B. Jahangir
-C. Shah Jahan
-D. Muhammad Shah
+Who did illustrate “Dastan-i-Amir Hamza”?
+
+- (a) Abdus Samad
+- (b) Mansur
+- (c) Mir Sayyid Ali
+- (d) Abul Hasan
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Muhammad Shah)
+**Answer: (a)**
 
-**Detailed Explanation:**
-- **Option D is correct:** **Tappa**, characterized by rapid, bouncy flourishes (*taans*) and originating from Punjabi camel-riders' songs, was refined into a high classical genre in the court of Mughal Emperor **Muhammad Shah "Rangeela"** (1719–1748 CE) by his court composer **Miyan Ghulam Nabi (Shori Miyan)**.
-- **Option A is incorrect:** Akbar's court was the zenith of **Dhrupad** under Miyan Tansen.
-- **Options B & C are incorrect:** Jahangir and Shah Jahan patronized Dhrupad and early Khayal experimentation, but Tappa was developed much later in the 18th century.
+**Explanation:**
+& (c))
 
-**Key Exam Takeaway / Trap:**
-- *Style Association:* Akbar = **Dhrupad** (Tansen); Muhammad Shah Rangeela = **Khayal** (Sadarang & Adarang) and **Tappa** (Shori Miyan).
+Most of the Mughals were renowned as great patrons of
 
+arts. The first endeavour was to complete the pictures of the
+
+earliest Mughal illustrated manuscript, the Dastan-i-Amir
+
+Hamza began in the period of Humayun. It took 15 years
+
+to finish under the supervision of Mir Sayyid Ali and Abdus
+
+Samad more than 50 artists completed it.
 </details>
 
-**Q6. UPPCS Prelims 2025, Q12 (Disciple-Guru Overlap)**
+---
 
-Match List-I (Disciple) with List-II (Guru): A. Kabir B. Amir Khusrau C. Surdas D. Mardana with 1. Guru Nanak Dev 2. Swami Ramananda 3. Nizamuddin Auliya 4. Vallabhacharya
+**Q-GC6. 60th to 62nd B.P.S.C. (Pre) 2016**
 
-Options: A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
+'Daswant and Basawan' famous painters were courtiers
+of Mughal Emperor :
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Shahjahan
+- (d) Aurangzeb
+- (e) None of the above/More than one of the above
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (2-3-4-1: Kabir–Ramananda, Khusrau–Nizamuddin, Surdas–Vallabhacharya, Mardana–Guru Nanak)
+**Answer: (a)**
 
-**Detailed Explanation:**
-- **Amir Khusrau → Nizamuddin Auliya (Code 3):** The legendary poet-musician was the beloved disciple of Hazrat Nizamuddin Auliya in Delhi.
-- **Kabir → Swami Ramananda (Code 2):** Ramananda was Kabir's guru in Varanasi.
-- **Surdas → Vallabhacharya (Code 4):** Surdas received Pushtimarg initiation from Vallabhacharya at Gaughat.
-- **Mardana → Guru Nanak Dev (Code 1):** Bhai Mardana was Guru Nanak's lifelong musical companion.
+**Explanation:**
+Daswant and Basawan were famous painters in Akbar's
 
-**Key Exam Takeaway / Trap:**
-- *Matching Code:* A-2, B-3, C-4, D-1 → Code: **2 3 4 1** (**Option C**).
+Court. Akbar was so impressed by the work of Daswant,
 
+that he supported him to become the leading painter of his
+
+time. Name of painters of Akbar era have been mentioned
+
+in the book Ain-i-Akbari by Abul Fazl – Daswant, Basawan,
+
+Keshav Lal, Mukund, Mishkin, Farrukh, Jagan, Mahesh,
+
+Khemkaran, Tara, Sanwal, and Harivansh, Rai etc.
+</details>
+
+---
+
+**Q-GC7. 63rd B.P.S.C. (Pre) 2017**
+
+European paintings were introduced in the court of :
+
+- (a) Humayun
+- (b) Akbar
+- (c) Jahangir
+- (d) Shah Jahan
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+European paintings were introduced in the court of
+
+Akbar through Portuguese. Mughal painters received two
+
+specialities from them - 
+
+B
+
+1. Portrait of person
+
+2. To make objects seen further in the scene small in size.
+
+Development of painting started in Humayun period.
+
+European influence on Mughal paintings started during
+
+Akbar. Mishkin was an European painter in Akbar Court.
+</details>
+
+---
+
+**Q-GC8. U.P.P.C.S. (Pre) 2012**
+
+Who among the following were Jahangiri painters?
+Select the correct answer for the codes given below –
+1. Abdus Samad 2. Abul Hasan
+3. Aqa Riza 4. Mir Sayyid Ali
+Code :
+
+- (a) 1 and 2
+- (b) 2 and 3
+- (c) 3 and 4
+- (d) 4 and 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Abul Hasan, Ustad Mansur, Farrukh Begh, Bishan Das, Aqa
+
+Reza, Muhammad Nadir, Muhammad Murad, Manohar,
+
+Govardhan were the main artists of Jahangir period. Mir
+
+Sayyid Ali and Abdus Samad laid the foundation of the
+
+Mughal painting during the period of Humayun.
+</details>
+
+---
+
+**Q-GC9. Jharkhand P.C.S. (Pre) 2023**
+
+Who among the following is not a painter of Jahangir's
+period?
+
+- (a) Mansur
+- (b) Manohar
+- (c) Khwaja Abdus Samad
+- (d) Abul Hasan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Khwaja Abdus Samad was a painter during the reign of
+
+Humayun and Akbar, whereas Mansur, Manohar and Abul
+
+Hasan were painters of Jahangir's time. During Jahangir's
+
+reign (1605-27 A.D.) Mughal painting reached its zenith. He
+
+took inspiration from his life events and pushed for paintings
+
+on those scenarios rather than illustrations in fiction.
+</details>
+
+---
+
+**Q-GC10. Uttarakhand Lower Sub. (Pre) 2010**
+
+During whose reign did the “Mughal Painting”
+flourish?
+
+- (a) Aurangzeb
+- (b) Akbar
+- (c) Jahangir
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Jahangir (1605-27) had an artistic inclination. During his
+
+reign, Mughal painting developed further as Jahangir was
+
+fascinated with art, science and architecture from a young age.
+
+He showed a leaning towards painting and had an atelier of his
+
+own. His interest in portraiture led to much development in
+
+this art form. The art of Mughal painting reached great heights
+
+during Jahangir’s reign. His interest in painting also served his
+
+scientific interest in nature. Painter Ustad Mansur became one
+
+of the best artists to document the animals and plants which
+
+Jahangir either encountered on his military expeditions or
+
+received as donations. Jahangir maintained a huge aviary and
+
+kept a record of every specimen and organized experiments.
+
+He patronized the European and Persian arts.
+</details>
+
+---
+
+**Q-GC11. U.P.P.C.S. (Pre) 2016**
+
+Jahangir mainly patronized which of the following arts?
+
+- (a) Painting
+- (b) Architecture
+- (c) Sculpture
+- (d) Music
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Jahangir (1605-27) had an artistic inclination. During his
+
+reign, Mughal painting developed further as Jahangir was
+
+fascinated with art, science and architecture from a young age.
+
+He showed a leaning towards painting and had an atelier of his
+
+own. His interest in portraiture led to much development in
+
+this art form. The art of Mughal painting reached great heights
+
+during Jahangir’s reign. His interest in painting also served his
+
+scientific interest in nature. Painter Ustad Mansur became one
+
+of the best artists to document the animals and plants which
+
+Jahangir either encountered on his military expeditions or
+
+received as donations. Jahangir maintained a huge aviary and
+
+kept a record of every specimen and organized experiments.
+
+He patronized the European and Persian arts.
+</details>
+
+---
+
+**Q-GC12. I.A.S. (Pre) 2019**
+
+Who among the following Mughal Emperors shifted
+emphasis from illustrated manuscripts to albums and
+individual portraits?
+
+- (a) Humayun
+- (b) Akbar
+- (c) Jahangir
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Jahangir particularly encouraged paintings depicting events
+
+of his own life, individual portraits, and studies of birds
+
+flowers and animals.
+</details>
+
+---
+
+**Q-GC13. U.P.P.C.S. (Pre) 1994**
+
+The ‘Pahari School,’ ‘Rajput School,’ ‘Mughal School’
+and ‘Kangra School’ represent different styles in the
+art of :
+
+- (a) Architecture
+- (b) Painting
+- (c) Dancing
+- (d) Music
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The ‘Pahari School,’ ‘Rajput School’, ‘Mughal School’ and
+
+‘Kangra School’ are different styles of medieval painting.
+
+The paintings in different hill states of the north-western
+
+Himalayan region are said to be the hill paintings. It
+
+comprises the area of Himachal Pradesh, Jammu and Kashmir
+
+and area of Tehri Garhwal and Paudi Garhwal of Uttarakhand.
+</details>
+
+---
+
+**Q-GC14. Chhattisgarh P.C.S. (Pre) 2014**
+
+‘Kishan Garh’ School is famous for –
+
+- (a) Temple Art
+- (b) Painting
+- (c) Martial Arts
+- (d) Sculpture
+- (e) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+‘Kishan Garh’ school is famous for painting. It is a part of
+
+Rajasthan. Its style of painting is known for the beautiful
+
+depiction of a courtesan known as Bani Thani. Sawant Singh,
+
+a great scholar and patron of art and learning who ascended
+
+to the throne in 1748 A.D., was the real inspiration behind
+
+the famous Kishan Garh school of painting. 
+
+Indian History General Studies B–317
+</details>
+
+---
+
+**Q-GC15. U.P.P.C.S. (Pre) 2010, U.P.P.C.S. (Mains) 2007**
+
+Which one of the following musical instruments was
+mastered by Aurangzeb ?
+
+- (a) Sitar
+- (b) Pakhawaj
+- (c) Veena
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Aurangzeb banned music in India as he found it anti-Islamic.
+
+But it is also the fact that during his tenure, most books on
+
+Indian classical music were written in the Persian language.
+
+Being anti-music, he was a great instrumentalist who used
+
+to play the Indian instrument called ‘Veena’.
+</details>
+
+---
+
+**Q-GC16. I.A.S. (Pre) 2000**
+
+The Raga which is sung early in the morning, is–
+
+- (a) Todi
+- (b) Darbari
+- (c) Bhopali
+- (d) Bhimpalasi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+‘Todi’ Raga is sung in the morning. Todi is a Hindustani
+
+classical Raga that gives its name to the Todi throat, one of
+
+the ten modes of the Hindustani classical music. It was sung
+
+by the minstrel in the emperor’s court.
+</details>
+
+---
+
+**Q-GC17. U.P.P.C.S. (Pre) 2009**
+
+Musicians like Tansen, Baiju Bawra and Gopal Nayak
+had received training from the master Swami Haridas.
+How many music worship centres have been set up by
+the followers of Swami Haridas ?
+
+- (a) 5
+- (b) 4
+- (c) 3
+- (d) 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Swami Haridas was a spiritual poet and classical musician
+
+credited with a large body of devotional compositions,
+
+especially in the Dhrupad style. He was also the founder of
+
+Haridasi school of mysticism, still found today in North India.
+
+His followers built 5 worship training centres (ashrams).
+
+These are- Sri Banke Bihariji, Nidhivan, Temple of Gorelal,
+
+Sri Rasik Bihari and Thatti Khana.
+</details>
+
+---
+
+**Q-GC18. I.A.S. (Pre) 2019**
+
+With reference to Mian Tansen, which one of the
+following statements is not correct?
+
+- (a) Tansen was the title given to him by Emperor Akbar.
+- (b) Tansen composed Dhrupads on Hindu gods and goddesses.
+- (c) Tansen composed songs on his patrons.
+- (d) Tansen invented many Ragas.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The title of 'Tansen' was given by Raja Vikramjit Singh of
+
+Gwalior. Akbar gave the title of 'Mian'.
+
+About Tansen - Tansen also referred to as Tan Sen or Ramtanu
+
+was a prominent figure of Hindustani classical music. He was
+
+born in a Hindu family. He began his career and spent most of his
+
+adult life in the court and patronage of the Hindu King of Rewa,
+
+Raja Ramchandra Singh, where Tansen's musical abilities &
+
+studies gained widespread fame. Thus, his fame got the attention
+
+of the Mughal Emperor Akbar, who sent messengers to Raja
+
+Ramchandra Singh, requesting Tansen to join the musicians at
+
+Mughal court. He was a Vaishnava musician.
+</details>
+
+---
+
+**Q-GC19. U.P.P.S.C. (GIC) 2010**
+
+The Dhrupad singers included in the reign of Akbar
+was/were
+1. Tansen 2. Haridas
+3. Surdas 4. Vilas Khan
+Select the correct answer from the codes given below:
+Code :
+
+- (a) 1 and 2
+- (b) 2 and 3
+- (c) 1, 2 and 3
+- (d) All the four
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Tansen and Swami Haridas were the leading Dhrupad singers
+
+during Akbar’s reign. Vilas Khan was the main singer during
+
+the reign of Jahangir.
+</details>
+
+---
+
+**Q-GC20. M.P.P.C.S. (Pre) 2010, U.P.P.C.S. (Pre) 1999, M.P. P.C.S. (Pre) 1991**
+
+Where is Tansen’s tomb located ?
+
+- (a) Agra
+- (b) Gwalior
+- (c) Jhansi
+- (d) Jaipur
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Tansen is considered one of the greatest composer-musicians
+
+in Indian classical music. He lived during the period of the
+
+great Mughal Indian king Akbar. He was one of the nine
+
+jewels of his court. He first served as a court musician of the
+
+King Ramchandra of Rewa (Bhata Region) and then Emperor
+
+Akbar respectively. His tomb is located in Gwalior near the
+
+tomb of Saint Hazrat Ghaus whose teachings influenced him
+
+to convert to Islam.
+</details>
+
+---
+
+**Q-GC21. U.P.P.C.S. (Pre) 2019**
+
+Who among the following kings had given patronage
+to Tansen before Akbar?
+
+- (a) Raja Ramchandra Singh of Bhata
+- (b) Rajbahadur of Malwa
+- (c) Uday Singh of Mewar
+- (d) Muzaffar Shah of Gujarat
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question. 
+
+B
+</details>
+
+---
+
+**Q-GC22. M.P.P.C.S. (Pre) 2013**
+
+The original name of Tansen was :
+
+- (a) Makarchand Pandey
+- (b) Ramtanu Pandey
+- (c) Lala Kalawant
+- (d) Baz Bahadur
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The original name of Tansen was Ramtanu Pandey. He was a
+
+prominent Hindustani classical music composer and musician.
+
+He was among the Navaratnas (nine jewels) at the court of the
+
+Mughal Emperor Akbar. Akbar gave him the title ‘Miyan.’
+
+His contribution to the world of music is priceless and is still
+
+worshipped by leading singers and composers of the world.
+
+Akbar gave the title ‘Kanthabharanvanivilas’ to Tansen.
+</details>
+
+---
+
+**Q-GC23. (c) Sadarang – Adarang (d) Mal Gurjari, U.P.P.C.S. (RO/ARO) (Mains) 2021**
+
+Who among the following was not a great entity in the
+field of Hindustani music?
+
+- (a) Raja Mansingh Tomar
+- (b) Tansen
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Raja Mansingh Tomar, Tansen, Sadarang – Adarang were
+
+greats of Hindustani music while Mal Gurjari is a Raga of
+
+music invented by Raja Mansingh Tomar.
+</details>
+
+---
+
+**Q-GC24. U.P.P.C.S. (Pre) 2016**
+
+Which Mughal ruler of the following had learned
+Hindu Music from Lala Kalavant?
+
+- (a) Humayun
+- (b) Jahangir
+- (c) Akbar
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Akbar was fond of Music. He was a learned musician. He
+
+studied Hindu music under the guidance Lala Kalawant.
+</details>
+
+---
+
+**Q-GC25. U.P.P.C.S. (Pre) 2023**
+
+Tappa style of music was refined and developed in
+which of the following Mughal Emperor's Court?
+
+- (a) Jahangir
+- (b) Shahjahan
+- (c) Muhammad Shah
+- (d) Akbar
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In the 18th century, Music in the Tappa style received
+
+great encouragement at the court of the Mughal Emperor
+
+Muhammad Shah. Sadaranga and Adaranga were two great
+
+composers of Khayal gayaki at his court. Several new forms
+
+of music such as Tarana, Dadra and Ghazal also existed at
+
+this time. Moreover, some folk forms of music were also
+
+incorporated in the country music such as Thumri and Tappa
+
+etc. Tappa is based upon a style of folk music sung by camel
+
+drivers of Punjab. Hence, option (c) is the correct answer.
 </details>
 
 ---

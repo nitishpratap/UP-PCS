@@ -158,30 +158,10 @@ Babur (बाबर) | Establishment of the Mughal Empire | Literary Contributio
 
 > **Logic:** Establishment year = **1526 Panipat**, not Khanwa 1527.
 
-### PYQ — Baburnama language A/R
-
-**1. (UPPCS Prelims 2025, Q3)Assertion (A):** Babur wrote Tuzk-e-Babri in Chagatai Turki.
-
-**Reason (R):** Turki was the official language of the Mughal Court.
-
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true, R explains A
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Assertion (A) is true, but Reason (R) is false)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Emperor Babur wrote his candid and celebrated memoirs, *Tuzk-e-Babri* (*Baburnama*), in **Chagatai Turki** (the eastern Turkic dialect native to his homeland of Fergana). It was translated into Persian by Abdur Rahim Khan-i-Khanan during Akbar's reign in 1589 CE.
-- **Reason (R) is incorrect:** Turki was **never** the official administrative or court language of the Mughal Empire. From the Delhi Sultanate through the Mughal era, **Persian** (*Farsi*) served as the sole language of royal chanceries, revenue records, diplomacy, judicial decrees, and high historiography.
-
-**Key Exam Takeaway / Trap:**
-- *Language Exception Trap:* Babur's *Baburnama* is an isolated literary exception written in Chagatai Turki. Every other official Mughal court chronicle—including *Humayunnama*, *Akbarnama*, *Ain-i-Akbari*, *Tuzuk-i-Jahangiri*, *Padshahnama*, and *Alamgirnama*—was written in **Persian**.
-
-</details>
+> [!TIP] **Exam Anchor — Baburnama & Court Language (UPPCS Format):**
+> - **Assertion (A):** Babur wrote his personal memoirs (*Tuzuk-i-Babri* / *Baburnama*) in his mother tongue, **Chagatai Turkish**. (True)
+> - **Reason (R):** Turkish was the official court language of the Mughal Empire. (False — **Persian** was the official court, administrative, and literary language of the Mughal Empire).
+> - **Key Translation:** Akbar ordered **Abdur Rahim Khan-i-Khanan** to translate the *Baburnama* from Turkish into Persian.
 
 ---
 
@@ -251,37 +231,11 @@ D. Both true, R explains A
 - Another common order is **Bilgram (1540)** → **Sarnal (1572)** → **Dharmat (1658)** → **Jajau (1707)**.
 - Aurangzeb’s succession sequence runs **Shuja beaten near Banaras** → **Dharmat** → **Samugarh** → **Deorai**.
 
-### PYQ — Battle chronology
-
-**1. (UPPCS Prelims 2025, Q79)** Arrange the following battles in chronological order:
-
-1. Kannauj (Bilgram)
-2. Daurah
-3. Samugarh
-4. Chausa
-
-Options:
-A. 2-4-3-1
-B. 4-2-1-3
-C. 4-2-3-1
-D. 2-4-1-3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (2-4-1-3: Daurah → Chausa → Kannauj → Samugarh)
-
-**Detailed Explanation:**
-- **2. Battle of Daurah (1532 CE):** Humayun defeated the Afghan forces led by Mahmud Lodi and Sher Shah Suri (Sher Khan) at Daurah (near Gomti river in modern Barabanki district, UP).
-- **4. Battle of Chausa (26 June 1539 CE):** Fought on the banks of the Ganga (near modern Buxar, Bihar), where Sher Shah ambushed and routed Humayun's army; Humayun narrowly escaped drowning with the help of water-carrier Nizam. Sher Khan assumed the royal title *Sher Shah*.
-- **1. Battle of Kannauj / Bilgram (17 May 1540 CE):** Sher Shah decisively crushed Humayun's forces in Hardoi/Kannauj district, UP, expelling Humayun from India for fifteen years and establishing the Sur Empire.
-- **3. Battle of Samugarh (29 May 1658 CE):** Major confrontation during the Mughal War of Succession near Agra, where Aurangzeb and Murad Bakhsh decisively defeated Dara Shikoh, securing Aurangzeb's accession to the throne.
-- **Chronological Sequence:** 2 (Daurah, 1532) → 4 (Chausa, 1539) → 1 (Kannauj, 1540) → 3 (Samugarh, 1658) = **2-4-1-3**.
-
-**Key Exam Takeaway / Trap:**
-- *Name Trap:* Do not confuse **Daurah** (1532 CE, Humayun vs Afghans in UP) with **Dharmat** (April 1658 CE, Aurangzeb vs Jaswant Singh in MP) or **Deorai** (1659 CE, Aurangzeb vs Dara in Rajasthan).
-
-</details>
+> [!TIP] **Exam Anchor — Mughal-Afghan Major Battle Chronology (UPPCS Master Spine):**
+> - **Battle of Daurah (1532 CE):** Humayun defeats Afghan forces on Gomti River.
+> - **Battle of Chausa (1539 CE):** Sher Shah defeats Humayun near Buxar.
+> - **Battle of Kannauj / Bilgram (1540 CE):** Decisive Sur victory forcing Humayun into Persian exile.
+> - **Battle of Samugarh (1658 CE):** Aurangzeb defeats Dara Shikoh in the War of Succession.
 
 - Another battle chronology spine: **Bilgram/Kannauj (1540)** → **Sarnal (1572)** → **Dharmat (1658)** → **Jajau (1707)**.
 - Aurangzeb's succession order: **Shuja beaten near Banaras** → **Dharmat (Apr 1658)** → **Samugarh (May 1658)** → **Deorai (1659)**.
@@ -312,31 +266,9 @@ D. 2-4-1-3
 
 - The early Mughal state was essentially a **military state**. The strength of the central government rested on **military power**.
 
-### PYQ — Military state A/R
-
-**1. (UPPCS Prelims 2021, Q126)Assertion (A):** The Mughal Empire was originally a Military State.
-
-**Reason (R):** The vitality of the development of the Central Government System depended on its military power.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true, and (R) is the correct explanation of (A))
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Historians (such as J.N. Sarkar, Irfan Habib, and Satish Chandra) characterize the Mughal state fundamentally as a centralized military-bureaucratic state. The entire ruling apparatus—the *Mansabdari* system—was an institutionalized military hierarchy where every civil administrator, governor, and minister held an army rank (*zat* and *sawar*), maintained troops, and could be mobilized for military campaigns at a moment's notice.
-- **Reason (R) is correct:** The stability, territorial integration, tax collection, and administrative coherence of the central imperial government depended directly upon its coercive military supremacy and gun-powder superiority (artillery and mobile cavalry). Whenever imperial military discipline or coercive force waned, provincial governors and regional chieftains asserted autonomy.
-- **Why (R) explains (A):** Because the functional survival, tax realization, and enforcement capability of the central governance machinery rested upon its armed forces, the Mughal empire functioned essentially and structurally as a military state.
-
-**Key Exam Takeaway / Trap:**
-- *Mansabdari Nature:* In the Mughal administrative structure, there was no division between civil and military cadres; all civil servants were ranked military officers (*Mansabdars*).
-
-</details>
+> [!TIP] **Exam Anchor — Mughal Central Government Character (UPPCS Format):**
+> - **Assertion (A):** The Mughal Empire was fundamentally a **Military State**. (True)
+> - **Reason (R):** The vitality and development of the central administrative apparatus depended directly upon its organized military strength and Mansabdari recruitment. (True, and explains A).
 
 - At the centre, key offices were **Wakil/Vazir** (वक़ील / वज़ीर), **Diwan-i-Wizarat** (दीवान-ए-विज़ारत - finance), **Mir Bakhshi** (मीर बख़्शी - army and mansabs), **Sadr-us-Sudur / Risalat** (सद्र-उस-सुदूर - religious endowments and grants), **Mir Saman** (मीर-ए-सामां - imperial household), and **Diwan-i-Insha** (दीवान-ए-इंशा - drafting royal orders).
 - Provinces ran **Suba** (सूबा under Subahdar / सूबेदार), then **Sarkar** (सरकार under Faujdar / फ़ौजदार), then **Pargana** (परगना under Shiqdar (शिक़दार) / शिक़दार and Amil / आमिल), then the village (under Muqaddam / मुक़द्दम and Patwari / पटवारी). Each suba had dual heads: **Subahdar** (executive) and **Diwan** (revenue). The **Faujdar** handled military-police duties at the sarkar level.
@@ -377,31 +309,10 @@ D. A false, R true
 - Akbar issued **Ilahi** coins in the 1580s. Jahangir minted **zodiac** portrait coins.
 - Major mints included **Agra, Delhi, and Lahore**, with more added as subahs grew.
 
-### PYQ — Akbar currency A/R
-
-**1. (UPPCS Prelims 2019, Q12)Assertion (A):** Akbar, like Sher Shah, tried to regulate the currency of the state.
-
-**Reason (R):** As in Sher Shah's currency, the chief copper coin of Akbar's time was the Dam.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true, and (R) is the correct explanation of (A))
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Emperor Akbar adopted and refined the bimetallic/trimetallic monetary system pioneered by Sher Shah Suri. Akbar established uniform imperial mints across the provinces under Khwaja Abdus Samad, maintained strict metal purity, and eliminated debased regional coinage.
-- **Reason (R) is correct:** Sher Shah Suri had introduced the pure silver *Rupiya* (178 grains) and the standard copper coin called the **Dam** (around 380 grains, also known as *Paisa*). Akbar maintained the **Dam** as the primary copper currency of daily commerce and land revenue assessment, establishing an official exchange ratio of **40 Dams to one silver Rupiya**.
-- **Why (R) explains (A):** The institutional continuation and imperial standardization of the copper **Dam** at an unvarying official parity (40 Dams = 1 Rupiya) demonstrates precisely how Akbar systematically regulated the monetary mechanism of the empire based on Sher Shah's template.
-
-**Key Exam Takeaway / Trap:**
-- *Coinage Ratios:* Under Akbar, 1 gold *Mohur* ≈ 10 to 12 silver *Rupiyas*; 1 silver *Rupiya* = 40 copper *Dams*.
-
-</details>
+> [!TIP] **Exam Anchor — Currency Continuity from Sher Shah to Akbar:**
+> - **Assertion (A):** Akbar, following Sher Shah Suri, systematically reformed and regulated state coinage. (True)
+> - **Reason (R):** As in Sher Shah's monetary system, the ubiquitous copper coin of daily exchange in Akbar's realm was the **Dam** (~380 grains). (True, and explains A).
+> - **Official Ratio under Akbar:** Fixed tariff of **40 Dams to 1 Silver Rupee**.
 
 ---
 
@@ -435,30 +346,9 @@ D. A false, R true
 - **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**.
 - Dara Shikoh wrote *Majma-ul-Bahrain* and translated the Upanishads (उपनिषद्) into Persian as *Sirr-i-Akbar*.
 
-### PYQ — Buland Darwaza A/R
-
-**1. (UPPCS Prelims 2025, Q49)Assertion (A):** Akbar got Buland Darwaza constructed at Fatehpur Sikri.
-
-**Reason (R):** Constructed in memory of the birth of Jahangir.
-
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true, R explains A
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Assertion (A) is true, but Reason (R) is false)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Emperor Akbar ordered the construction of the monumental **Buland Darwaza** ("Lofty Gate") as the south gateway to the Jama Masjid complex at Fatehpur Sikri (rising 176 feet from ground level / 134 feet from the pavement).
-- **Reason (R) is incorrect:** The Buland Darwaza was constructed in **1601–02 CE** to commemorate Akbar's historic **victory over Gujarat** and the conquest of Khandesh/Asirgarh, **not** to mark the birth of Jahangir. (Jahangir's birth in 1569 was associated with the earlier establishment of Fatehpur Sikri and the blessing of Sufi saint Shaikh Salim Chishti).
-
-**Key Exam Takeaway / Trap:**
-- *Commemorative Reason Trap:* Buland Darwaza = Built to commemorate **Akbar's Gujarat campaign/victory**. Attributing it to Jahangir's birth is a classic UPPCS trap.
-
-</details>
+> [!TIP] **Exam Anchor — Buland Darwaza Commemoration (UPPCS Format):**
+> - **Assertion (A):** Akbar constructed the magnificent **Buland Darwaza** at Fatehpur Sikri. (True)
+> - **Reason (R):** It was built to commemorate the birth of his son Jahangir. (False — built as a victory arch to commemorate the **conquest of Gujarat** in 1572–73 CE / Deccan victory in 1601 CE; Salim/Jahangir's birth was commemorated by the foundation of Sikri itself).
 
 ---
 
@@ -651,41 +541,13 @@ D. Both true, R explains A
 
 **Emperor–tomb cities:** **Babur** at **Kabul**, **Humayun** at **Delhi**, **Jahangir** at **Lahore**, and **Shah Jahan** at **Agra**.
 
-### PYQ — Emperor tomb match
-
-**1. (UPPCS Prelims 2025, Q57)** Match List-I (Emperor) with List-II (Tomb City):
-
-| List-I | List-II |
-|--------|---------|
-| A. Babur | 1. Agra |
-| B. Humayun | 2. Lahore |
-| C. Jahangir | 3. Delhi |
-| D. Shah Jahan | 4. Kabul |
-
-*Row order in the table is not the answer code.*
-
-Options:
-A. 4-3-2-1
-B. 3-4-1-2
-C. 3-4-2-1
-D. 4-3-1-2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (4-3-2-1: A-4, B-3, C-2, D-1)
-
-**Detailed Explanation:**
-- **A. Babur → 4. Kabul:** Originally buried at Aram Bagh (Ram Bagh) in Agra, his mortal remains were later transferred, per his will, to **Bagh-e-Babur** in **Kabul** (Afghanistan).
-- **B. Humayun → 3. Delhi:** Buried in the monumental **Humayun's Tomb** in **Delhi**, commissioned by his senior widow Bega Begum (Haji Begum) and designed by Persian architect Mirak Mirza Ghiyath.
-- **C. Jahangir → 2. Lahore:** Buried at **Shahdara Bagh** in **Lahore** (Pakistan), along the banks of the Ravi river, in a magnificent mausoleum built under the supervision of Empress Nur Jahan.
-- **D. Shah Jahan → 1. Agra:** Buried alongside his beloved empress Mumtaz Mahal inside the **Taj Mahal** in **Agra**.
-
-**Key Exam Takeaway / Trap:**
-- *Foreign Soil Tombs:* Two Mughal emperors are buried outside modern India: **Babur** (Kabul, Afghanistan) and **Jahangir** (Lahore, Pakistan). Additionally, the last Mughal ruler, **Bahadur Shah Zafar**, died and is buried in **Yangon (Rangoon), Myanmar**.
-- *Complete Tomb Matrix:* Babur = Kabul; Humayun = Delhi; Akbar = Sikandra (Agra); Jahangir = Lahore; Shah Jahan = Agra; Aurangzeb = Khuldabad (Maharashtra).
-
-</details>
+> [!TIP] **Exam Anchor — Mughal Emperor Tombs Master Alignment (UPPCS / Civil Services):**
+> - **Babur:** Kabul, Afghanistan (Bagh-e Babur)
+> - **Humayun:** Delhi (Nizamuddin / Dinpanah)
+> - **Akbar:** Sikandra (Agra, Uttar Pradesh — domeless 5-storey apex)
+> - **Jahangir:** Shahdara (Lahore, Pakistan)
+> - **Shah Jahan:** Agra (Taj Mahal, Uttar Pradesh)
+> - **Aurangzeb:** Khuldabad (near Aurangabad, Maharashtra)
 
 | Emperor | Tomb city |
 |---------|-----------|
@@ -775,1113 +637,8239 @@ D. 4-3-1-2
 
 ---
 
-## Complete PYQ Bank (Topic 7)
 
-**Q1. UPPCS Prelims 2025, Q3**
+### 7.13 Master Fact-Locks — Babur & Akbar (Ghatnachakra Complete Alignment)
 
-Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.
-Reason (R): Turki was the official language of the Mughal Court.
+| Category / Entity | Specific Details & Exam Anchors | Historic Context |
+|---|---|---|
+| **Babur's Lineage & Invasions** | • Chagatai Turk lineage (named after Genghis Khan's 2nd son).<br>• Defeated at **Battle of Sar-e-Pul** (1501 CE) by **Shaybani Khan** using Uzbek *Tulughma* tactics.<br>• Assumed royal title **Padshah** at Kabul (1504 CE), discarding ancestral title *Mirza*.<br>• Invited to invade India by **Alam Khan** (uncle of Ibrahim Lodi), **Daulat Khan** (governor of Punjab, via son Dilawar Khan), and **Rana Sanga** of Mewar.<br>• First Battle of Panipat (21 April 1526): artillery commanded by **Ustad Ali Quli**, gunners by **Mustafa**. Earned title **Qalandar** for largesse.<br>• Declared **Jihad** at Battle of Khanwa (1527), assumed title **Ghazi**.<br>• Defeated Medini Rai at Chanderi (1528); defeated Mahmud Lodi at Ghaghra (1529).<br>• **Literary:** Composed *Tuzuk-i-Babri* in Turkish (mentions **Vijayanagara** and **Mewar**); authored *Mubaiyan* (Muslim law in verse) and invented *Khat-i-Baburi* (*Risal-i-Usaj*).<br>• **Babri Mosque:** Built at Ayodhya by commander **Mir Baqi**. | Foundation of Mughal Rule |
+| **Akbar's Coronation & Matrimony** | • Born 15 Oct 1542 at Amarkot in **Raja Veersaal's Palace** to Hamida Banu Begum.<br>• Coronated at **Kalanaur** (Gurdaspur, Punjab) on 14 Feb 1556 at age 13; **Shah Abdul Mali** refused to attend.<br>• Guardian **Bairam Khan** served as *Wazir* with title **Khan-i-Khanan**.<br>• First Rajput matrimonial alliance: with **Kachhwaha** Rajputs of Amber; Raja **Bihari Mal (Bharmal)** submitted at Sanganer and gave daughter **Harkhabai** (mother of Jahangir) in marriage (1562 CE).<br>• Executed foster-brother **Adham Khan** in 1562 for assassinating Prime Minister **Atgah Khan**. | Early Reign & Alliances |
+| **Unconquered Rajput Heroes** | • **Rao Chandrasen of Marwar:** Fought at Bhadrajun (1565), Siwana, and Sojat (1579); retreated to hills and died in 1581 without surrendering to Akbar (*"The Forgotten Hero / Pratap of Marwar"*).<br>• **Rani Durgavati of Gondwana:** Fought Mughal forces under Asaf Khan (1564) on behalf of minor son Vir Narayan; died defending Garh-Mandla. | Resistance to Imperial Expansion |
+| **Haldighati Details (1576 CE)** | • Deputed **Raja Man Singh** (with Asaf Khan) leading ~5,000 Mughal troops to subdue Maharana Pratap.<br>• Afghan commander leading Maharana Pratap's vanguard was **Hakim Khan Sur** (descendant of Sher Shah Suri). | Battle of Haldighati |
+| **Abul Fazl's Assassination** | In 1602 CE, Prince Salim (Jahangir), while in rebellion at Allahabad, conspired with **Vir Singh Deo Bundela**, who assassinated Abul Fazl while returning from the Deccan. | Late Akbari court intrigues |
+| **Administration & Revenue** | • **Mir Bakshi:** Head of imperial military department; oversaw recruitment, rolls (*chehra*), horse branding (*dagh*), and salary sanction; **NOT** the commander-in-chief.<br>• **Mansabdari System:** Introduced in 19th regnal year (1574–75 CE), borrowed from Mongolian decimal military division (Genghis Khan). Three classes: Mansabdar (10–499), Amir (500–2499), Amir-i-Azam (2500+). 10 horsemen maintained 20 horses (*du-aspa* replacement rule).<br>• **Ain-i-Dahsala (1580 CE / 24th regnal year):** Todarmal Bandobast; calculated 10-year average yield and prices; 1/3 fixed as state share (*maal*). Formulated by **Raja Todarmal**, **Khwaja Shah Mansoor**, and **Muzaffar Khan Turbati** (who first achieved proper status of imperial Diwan). | Civil & Military Framework |
+| **Social & Religious Reforms** | • Abolished slavery (1562), pilgrimage tax (1563), and Jizya (1564).<br>• Prohibited forced Sati and child marriage; fixed minimum marriage ages at **14 for girls** and **16 for boys**; allowed girls to marry by choice without parental coercion; enforced monogamy unless first wife was barren.<br>• **Ibadat Khana (1575 CE):** Opened to all religious traditions in 1578 CE.<br>• **Mahzarnama (1579 CE):** Infallibility decree prepared by **Shaikh Mubarak**; declared Akbar *Sultan-i-Adil* / *Imam-i-Adil*.<br>• **Fatwa from Jaunpur (1580 CE):** Issued by Mulla Muhammad Yazdi against Akbar.<br>• **Din-i-Ilahi (1582 CE):** Syncretic ideology based on Sufi pantheism and *Sulh-i-Kul* (universal peace); Abul Fazl was chief priest; only **Birbal** among Hindus accepted; Mohsin Fani described it in *Dabistan-i-Mazahib*. | Religious Policy & Syncretism |
+| **Jain Scholars in Akbar's Court** | • **Hari Vijay Suri:** Conferred the title **Jagadguru** by Akbar; persuaded Akbar to embrace vegetarianism and ban animal slaughter.<br>• **Jin Chandra Suri:** Conferred the title **Yug Pradhan** by Akbar. | Jain-Mughal dialogue |
+| **Arts, Literature & Architecture** | • **Zari Qalam ("Golden Pen"):** Imperial title conferred upon Kashmiri calligrapher **Muhammad Husain**.<br>• **Translation Department:** Headed by **Faizi**; *Mahabharata* translated into Persian as ***Razmnama*** by Faizi, Badauni, Naqib Khan; *Ramayana* by Badauni; *Leelavati* by Faizi; *Kaliyadaman* by Abul Fazl.<br>• **Painters:** Daswant (son of potter, painted *Razmnama*, committed suicide), Basawan, Keshav Lal, Mukund.<br>• **Discovery of America:** Explicitly recorded by **Abul Fazl** in *Ain-i-Akbari*.<br>• **Panch Mahal:** 5-storey pyramid palace in Fatehpur Sikri based on Buddhist monastery design (84 ground pillars).<br>• **Turkish Sultana's Palace:** Praised as *"Pearl of Architecture"* by Percy Brown.<br>• **Akbar's Tomb (Sikandra):** 5-storey mammoth monument with domeless square apex, planned by Akbar, completed 1613 CE by Jahangir. | Akbari Renaissance |
+| **Foreign Relations & Europeans** | • Contemporary of **Queen Elizabeth I** of England (1558–1603 CE; English East India Company founded 1600 CE under Akbar's reign).<br>• First English traveler: **Ralph Fitch** (1583–1586 CE), visited Agra and Fatehpur Sikri.<br>• Jesuit Missions from Goa: 1st (1580, Sikri), 2nd (1591, Lahore), 3rd (1595, Lahore) led by **Jerome Xavier** and including Father **Antonio Monserrate** (tutor to Prince Murad). | Global Connections |
+| **Bengal & Bihar Annexation (1576 CE)** | Daud Khan Karrani invaded Patna fort; Munim Khan took Bihar in 1574; Todarmal decisively defeated and executed Daud Khan on 12 July 1576, permanently integrating Bengal and Bihar into the Mughal Empire. | Territorial Consolidation |
 
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true, R explains A
+---
 
-<details><summary>Show answer</summary>
+## Complete PYQ Bank — Ghatnachakra Mughal Dynasty: Babur
 
-**Correct Answer:** **C** (Assertion (A) is true, but Reason (R) is false)
+Complete unabridged 27-question bank from Ghatna Chakra covering Babur's ancestry, early career in Ferghana & Kabul, invitations by Alam Khan & Daulat Khan, Battle of Panipat (Ottoman tactics, Tulughma, Ali Quli & Mustafa), Battle of Khanwa (Jihad, Ghazi), Battle of Chanderi & Ghaghra, Tuzuk-i-Babri (Turkish language, Vijayanagara & Mewar mentions, Persian translations), Diwan, Mubaiyan, Khat-i-Baburi, and Babri Masjid. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
 
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Babur composed his memoirs, *Tuzk-e-Babri* (*Baburnama*), in his native mother tongue **Chagatai Turki**. It was later translated into Persian by Abdur Rahim Khan-i-Khanan under Akbar's patronage.
-- **Reason (R) is incorrect:** Turki was **never** the official administrative language of the Mughal court. From the Sultanate through the Mughal period, **Persian** (*Farsi*) was the sole official language of administration, diplomacy, revenue accounts, and court historiography.
+---
 
-**Key Exam Takeaway / Trap:**
-- *Language Trap:* *Baburnama* is an isolated exception written in Chagatai Turki; all subsequent official Mughal chronicles were composed in **Persian**.
+**Q-GC1. (d) A high official in Punjab province who was very much, discontented with Ibrahim Lodi’s treatment of his tribe, I.A.S. (Pre) 2003**
 
-</details>
+Alam Khan, one of those who invited Babur to invade
+India was :
 
-**Q2. UPPCS Prelims 2025, Q79**
-
-Arrange the following battles in chronological order:
-1. Kannauj (Bilgram)
-2. Daurah
-3. Samugarh
-4. Chausa
-
-A. 2-4-3-1
-B. 4-2-1-3
-C. 4-2-3-1
-D. 2-4-1-3
+- (a) An uncle of Ibrahim Lodi and a pretender to the throne of Delhi
+- (b) A cousin of Ibrahim Lodi who was ill-treated and expelled from the country
+- (c) The father of Dilawar Khan to whom cruel treatment was meted out by Ibrahim Lodi
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (2-4-1-3: Daurah → Chausa → Kannauj → Samugarh)
+**Answer: (a)**
 
-**Detailed Explanation:**
-- **2. Battle of Daurah (1532 CE):** Humayun defeated Afghan forces under Mahmud Lodi and Sher Khan in Barabanki district, UP.
-- **4. Battle of Chausa (June 1539 CE):** Sher Shah decisively defeated Humayun on the banks of the Ganga near Buxar, Bihar.
-- **1. Battle of Kannauj / Bilgram (May 1540 CE):** Sher Shah routed Humayun, forcing him into 15 years of exile in Persia.
-- **3. Battle of Samugarh (May 1658 CE):** Aurangzeb defeated Dara Shikoh near Agra during the War of Succession.
-- **Chronological Sequence:** 2 → 4 → 1 → 3 = **2-4-1-3**.
+**Explanation:**
+Alam Khan was the uncle of Ibrahim Lodi, who invited Babur
 
-**Key Exam Takeaway / Trap:**
-- *Daurah vs Dharmat:* Do not confuse **Daurah** (1532, Humayun in UP) with **Dharmat** (1658, Aurangzeb in MP).
+to invade India. During the fourth Indian campaign of Babur,
 
+the relationship between Ibrahim Lodi and Daulat Khan
+
+became bad. Ibrahim Lodi ordered Daulat Khan to visit his
+
+capital, but Daulat Khan violated his orders and sent his son
+
+Dilawar Khan to Babur with a message to help him dethrone
+
+Ibrahim Lodi and enthrone Alam Khan in place of him. It was
+
+a golden opportunity for Babur as he already received the
+
+invitation of Rana Sanga, the king of Mewar. He was quite
+
+assured that the opportunity to win India had come. 
+
+Indian History General Studies B–275
 </details>
 
-**Q3. UPPCS Prelims 2025, Q49**
+---
 
-Assertion (A): Akbar got Buland Darwaza constructed at Fatehpur Sikri.
-Reason (R): Constructed in memory of the birth of Jahangir.
+**Q-GC2. U.P.P.C.S. (RO/ARO) (Mains) 2021**
 
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true, R explains A
+During the annexation of Afghanistan, who invited
+Babur to invade India?
+
+- (a) Ustad Ali
+- (b) Mustafa
+- (c) Daulat Khan
+- (d) Hasan Khan
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Assertion (A) is true, but Reason (R) is false)
+**Answer: (c)**
 
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Akbar constructed the colossal 176-foot **Buland Darwaza** at Fatehpur Sikri as the grand ceremonial entrance to the Jama Masjid.
-- **Reason (R) is incorrect:** Buland Darwaza was constructed in 1601–02 CE to commemorate Akbar's victorious conquest of **Gujarat** and Asirgarh, not the birth of Prince Salim (Jahangir).
+**Explanation:**
+See the explanation of the above question.
 
-**Key Exam Takeaway / Trap:**
-- *Commemorative Reason:* Buland Darwaza = **Gujarat Victory** (1572–73 CE).
+*(Reference Context from previous question:)*
+Alam Khan was the uncle of Ibrahim Lodi, who invited Babur
 
+to invade India. During the fourth Indian campaign of Babur,
+
+the relationship between Ibrahim Lodi and Daulat Khan
+
+became bad. Ibrahim Lodi ordered Daulat Khan to visit his
+
+capital, but Daulat Khan violated his orders and sent his son
+
+Dilawar Khan to Babur with a message to help him dethrone
+
+Ibrahim Lodi and enthrone Alam Khan in place of him. It was
+
+a golden opportunity for Babur as he already received the
+
+invitation of Rana Sanga, the king of Mewar. He was quite
+
+assured that the opportunity to win India had come. 
+
+Indian History General Studies B–275
 </details>
 
-**Q4. UPPCS Prelims 2025, Q57**
+---
 
-Match List-I (Emperor) with List-II (Tomb City): A. Babur B. Humayun C. Jahangir D. Shah Jahan with 1. Agra 2. Lahore 3. Delhi 4. Kabul
+**Q-GC3. U.P.P.C.S. (UDA/LDA) (Pre) 2010**
 
-Options: A. 4-3-2-1 | B. 3-4-1-2 | C. 3-4-2-1 | D. 4-3-1-2
+The Mughal rulers of medieval India were –
+
+- (a) Persian (Iranian)
+- (b) Afghans
+- (c) Chagatai Turk
+- (d) None of the above
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (4-3-2-1: A-4, B-3, C-2, D-1)
+**Answer: (c)**
 
-**Detailed Explanation:**
-- **A. Babur → 4. Kabul:** Buried in Bagh-e-Babur, Kabul (Afghanistan).
-- **B. Humayun → 3. Delhi:** Buried in Humayun's Tomb, Nizamuddin, Delhi.
-- **C. Jahangir → 2. Lahore:** Buried at Shahdara Bagh, Lahore (Pakistan).
-- **D. Shah Jahan → 1. Agra:** Buried in the Taj Mahal, Agra.
+**Explanation:**
+The Mughal rulers belonged to the Chagatai branch of Turks.
 
-**Key Exam Takeaway / Trap:**
-- *Matching Code:* A-4, B-3, C-2, D-1 gives **4-3-2-1** (**Option A**).
+This name was derived after the second son of Genghis Khan.
 
+He was the ruler of central Asia and Turkistan.
 </details>
 
-**Q5. UPPCS Prelims 2024, Q4**
+---
 
-With reference to Bairam Khan:
-1. Akbar gave him the title Khan-i-Khanan.
-2. The title was not given at his appointment as Vazir.
+**Q-GC4. State PCS**
 
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
+Who among the following defeated Babur in the Battle
+of Sar-e-Pul?
+
+- (a) Abdullah Khan Uzbeg
+- (b) Shaybani Khan
+- (c) Ubaydullah Khan
+- (d) Jani Begh U.P. Lower Sub. (Pre) 2015
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Only 1 is correct)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Statement 1 is correct:** Upon ascending the throne at Kalanaur in 1556 CE, the young Emperor Akbar appointed Bairam Khan as his guardian (*Ataliq*) and prime minister (*Wakil-us-Sultanat*), conferring upon him the highest imperial title of **Khan-i-Khanan** ("Lord of Lords").
-- **Statement 2 is incorrect:** The title was formally given alongside his appointment as the supreme regent and Vazir; stating that it was "not given at his appointment" is historically factually incorrect.
+**Explanation:**
+Shaybani Khan invaded Ferghana in 1501 A.D., defeated
 
-**Key Exam Takeaway / Trap:**
-- *Bairam Khan's Role:* Bairam Khan was Akbar's regent from 1556 to 1560 CE and won the decisive Second Battle of Panipat (1556) against Hemu.
+Babur at the Sar-e-Pul and occupied Samarqand. Babur fled
 
+and, for three years, wandered around the hills of Afghanistan
+
+and the plains of Khurasan. He made several attempts to
+
+recapture Samarkand, but each time, he suffered defeat at the
+
+hands of Shaybani Khan. Tulughuma technique was used by
+
+Shaybani to defeat Babur.
 </details>
 
-**Q6. UPPCS Prelims 2024, Q132**
+---
 
-Arrange in chronological order:
-1. Murder of Abul Fazl
-2. Death of Sheikh Mubarak
-3. Death of Faizi
-4. Death of Daniyal
+**Q-GC5. Jharkhand P.S.C. (Mains) 2016**
 
-Options: A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
+Which Mughal emperor followed Ottoman system of
+war in India?
+
+- (a) Akbar
+- (b) Shah Jahan
+- (c) Babur
+- (d) None of the above
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (2-3-1-4: Sheikh Mubarak → Faizi → Murder of Abul Fazl → Prince Daniyal)
+**Answer: (c)**
 
-**Detailed Explanation:**
-- **2. Death of Sheikh Mubarak (1593 CE):** Father of Faizi and Abul Fazl, who framed the *Mahzar* (1579), died in 1593 CE.
-- **3. Death of Faizi (1595 CE):** Akbar's poet laureate died of illness at Agra in October 1595 CE.
-- **1. Murder of Abul Fazl (August 1602 CE):** Assassinated near Antri by Bir Singh Deo Bundela on the orders of Prince Salim (Jahangir).
-- **4. Death of Prince Daniyal (April 1604/1605 CE):** Akbar's third son died of alcoholism at Burhanpur in 1604 CE.
-- **Chronological Sequence:** 2 (Mubarak, 1593) → 3 (Faizi, 1595) → 1 (Abul Fazl, 1602) → 4 (Daniyal, 1604) = **2-3-1-4**.
+**Explanation:**
+Mughal ruler Babur used Ottoman system of war during
 
-**Key Exam Takeaway / Trap:**
-- *Abul Fazl Murder Anchor:* Abul Fazl was murdered in **1602 CE**, placing him strictly *after* Faizi (1595) and Mubarak (1593), and *before* Daniyal (1604).
+the first Battle of Panipat (1526 AD). The most important
 
+reason for the victory of Babur in the battle was his artillery
+
+canons guns led by Ali Quli and use of Tulughma and Araba
+
+tactics by him.
 </details>
 
-**Q7. UPPCS Prelims 2023, Q31**
+---
 
-With reference to Captain William Hawkins:
-1. He came to India in 1611 as an envoy of James I.
-2. He was very well versed in the Turkish language.
+**Q-GC6. Chhattisgarh P.C.S. (Pre) 2005, U.P.P.C.S. (Pre) 1996**
 
-Select the correct answer from the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+The First Battle of Panipat was fought between –
+
+- (a) Babur and Rana Sanga
+- (b) Sher Shah Suri and Akbar
+- (c) Humayun and Ibrahim Lodi
+- (d) Babur and Ibrahim Lodi U. P. P. C. S. (Mains) 2012
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Only 2 is correct)
+**Answer: (d)**
 
-**Detailed Explanation:**
-- **Statement 1 is incorrect:** Captain William Hawkins arrived at the port of Surat on the English ship *Hector* in **August 1608 CE** (not 1611) and reached Emperor Jahangir's court at Agra in **April 1609 CE** as a representative of the English East India Company carrying a personal letter from King James I of England.
-- **Statement 2 is correct:** Hawkins was fluent in **Turkish** (which Jahangir spoke intimately). Jahangir was delighted to converse directly with Hawkins without an interpreter, granted him an audience, awarded him a *mansab* of 400 with a handsome salary, and conferred upon him the title of **"English Khan"**.
+**Explanation:**
+The first battle of Panipat took place on April 21, 1526 AD.
 
-**Key Exam Takeaway / Trap:**
-- *Year Trap:* Hawkins arrived at Jahangir's court in **1608/1609 CE**, not 1611. Sir Thomas Roe arrived later in **1615 CE** as the formal ambassador of James I.
+It was fought between Babur and Ibrahim Lodi. In North
 
+India, Babur had specific military tactics, including use of
+
+gunpowder firearms and field artillery. The army of Ibrahim
+
+Lodi lost the battle despite being more in numbers. Ibrahim
+
+Lodi was killed in this battle. As a result of the victory in
+
+this battle, the entire area up to Delhi and Agra came under
+
+Babur’s control. Babur declared himself the ruler on 27 April
+
+1526 AD and founded Mughal empire in India. Babur’s war
+
+tactics - Tulughuma war technique, artillery, gunners, and
+
+horsemen played an important role in his victory.
 </details>
 
-**Q8. UPPCS Prelims 2023, Q34 (Family Overlap)**
+---
 
-Which of the following is NOT correctly matched?
-A. Gulbadan Begum — Daughter of Babur
-B. Nur Jahan — Wife of Jahangir
-C. Hamida Banu Begum — Wife of Alauddin Khalji
-D. Bega Begum — Wife of Humayun
+**Q-GC7. 39th B.P.S.C. (Pre) 1994**
+
+The main reason for Babur’s victory in the battle of
+Panipat was –
+
+- (a) His horse-riding force
+- (b) His skilled warfare
+- (c) Tulughma system
+- (d) Internal disputes among Afghans
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Hamida Banu Begum — Wife of Alauddin Khalji is NOT correctly matched)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Option C is incorrectly matched (Correct Answer):** Hamida Banu Begum (given the title *Maryam Makani*) was the wife of Mughal Emperor **Humayun** and the mother of Emperor **Akbar**. She had no connection with Alauddin Khalji (who lived two centuries earlier in the 13th–14th century).
-- **Option A is correctly matched:** Princess Gulbadan Begum was Babur's daughter, Humayun's sister, and author of *Humayunnama*.
-- **Option B is correctly matched:** Mehr-un-Nisa (Nur Jahan) was the chief queen and co-ruler of Emperor Jahangir.
-- **Option D is correctly matched:** Bega Begum (Haji Begum) was Humayun's senior queen who oversaw the construction of Humayun's Tomb in Delhi.
+**Explanation:**
+The first battle of Panipat was fought between Babur and
 
-**Key Exam Takeaway / Trap:**
-- *Hamida Banu Identity:* Hamida Banu Begum = **Wife of Humayun** and **Mother of Akbar** (married in 1541 at Pat in Sindh; Akbar born at Amarkot in 1542).
+Ibrahim Lodi on 21 April 1526 AD. The main reason for
 
+Babur’s victory in the battle of Panipat was his skilled
+
+warfare. The army of Babur was smaller than the army of
+
+Ibrahim Lodi, even then, he won the battle with the help of
+
+his effective warfare policy. Babur noted, “Ibrahim Lodi was
+
+an inexperienced young man careless in his movements, who
+
+marched without order, halted or retired without method and
+
+engaged without foresight.”
 </details>
 
-**Q9. UPPCS Prelims 2022, Q103**
+---
 
-Arrange the following events of Aurangzeb's War of Succession in chronological order:
-1. Battle of Deorai
-2. Defeat of Shuja near Banaras (Bahadurpur)
-3. Battle of Samugarh
-4. Victory at Dharmat
+**Q-GC8. U.P.P.C.S. (Pre) 1990**
 
-Options: A. 2-4-3-1 | B. 1-3-4-2 | C. 3-4-2-1 | D. 4-2-1-3
+The reason for Babur’s victory over Ibrahim Lodi was-
+
+- (a) Bravery of Babur
+- (b) Artillery
+- (c) Weakness of Ibrahim
+- (d) Skilled commandant
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (2-4-3-1: Bahadurpur/Banaras → Dharmat → Samugarh → Deorai)
+**Answer: (d)**
 
-**Detailed Explanation:**
-- **2. Defeat of Shuja near Banaras (February 1658 CE):** At the Battle of Bahadurpur (near Varanasi), Prince Shah Shuja was defeated by imperial forces commanded by Prince Sulaiman Shikoh (Dara's son) and Raja Jai Singh.
-- **4. Victory at Dharmat (15 April 1658 CE):** Aurangzeb and Murad Bakhsh decisively defeated the imperial army led by Maharaja Jaswant Singh of Marwar and Qasim Khan near Ujjain.
-- **3. Battle of Samugarh (29 May 1658 CE):** Aurangzeb decisively crushed Dara Shikoh's main army near Agra, effectively sealing the crown.
-- **1. Battle of Deorai (March 1659 CE):** Near Ajmer, Rajasthan; Aurangzeb's final victory over Dara Shikoh, leading to Dara's capture, trial, and execution.
-- **Chronological Sequence:** 2 → 4 → 3 → 1 = **2-4-3-1**.
+**Explanation:**
+Skilled commandants were the primary reason for Babur's
 
-**Key Exam Takeaway / Trap:**
-- *Succession Battles Mnemonic:* **B-D-S-K-D** → **B**ahadurpur (Feb 1658) → **D**harmat (Apr 1658) → **S**amugarh (May 1658) → **K**hajwa (Jan 1659) → **D**eorai (Mar 1659).
-
+victory over Ibrahim Lodi.
 </details>
 
-**Q10. UPPCS Prelims 2022, Q146**
+---
 
-Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras?
+**Q-GC9. U.P.P.C.S. (Pre) 1996**
 
-A. Shah Jahan
-B. Jahangir
-C. Akbar
-D. Humayun
+At which of the following battles was artillery used for
+the first time by one of the two armies?
+
+- (a) First Battle of Panipat
+- (b) Battle of Khanwa
+- (c) Battle of Plassey
+- (d) Third Battle of Panipat
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Shah Jahan)
+**Answer: (a)**
 
-**Detailed Explanation:**
-- **Option A is correct:** Kavindra Acharya Saraswati, a renowned scholar and leader of the Sanskrit pandits of Varanasi, was patronized by Emperor **Shah Jahan**. He led a successful delegation to Shah Jahan's court pleading for the abolition of the pilgrimage tax (*Jizya/Ziyarat tax*) levied on Hindu pilgrims visiting Prayag (Allahabad) and Kashi (Varanasi). Impressed by Kavindra Acharya's eloquent Persian and Sanskrit discourses, Shah Jahan remitted the pilgrimage tax and bestowed gifts and the title *Sarvavidyanidhana*.
-- **Options B, C, and D are incorrect:** While Akbar patronized scholars like Todar Mal and Birbal, Kavindra Acharya's historic interaction and tax remission delegation occurred specifically during Shah Jahan's reign.
+**Explanation:**
+In India, artillery was used for the first time in the Battle of
 
-**Key Exam Takeaway / Trap:**
-- *Kavindra Acharya Anchor:* Kavindra Acharya Saraswati = **Varanasi Sanskrit Scholar** patronized by **Shah Jahan** (famous for persuading the emperor to revoke the pilgrimage tax on Kashi and Prayag).
+Panipat. But Babur mentioned the use of artillery and gun
 
+for the first time in the Battle of Bajaur (Pakistan) in 1519
+
+A.D. The first battle of Panipat was fought on April 21, 1526
+
+AD. It was fought between Babur and Ibrahim Lodi. The
+
+battalion of artillery was headed by Ustad Ali Quli, and the
+
+battalion of gunners was headed by Mustafa. 
+
+B
 </details>
 
-**Q11. UPPCS Prelims 2021, Q75**
+---
 
-Arrange the arrival of the following European travellers in chronological order:
-I. William Hawkins
-II. Ralph Fitch
-III. Sir Thomas Roe
-IV. Nicholas Downton
+**Q-GC10. (c) Sikandar Lodi (d) Sher Shah Suri, M.P.P.C.S. (Pre) 2005**
 
-A. II-I-IV-III
-B. IV-II-I-III
-C. I-III-II-IV
-D. III-II-IV-I
+Whom did Babur defeat in the first battle of Panipat?
+
+- (a) Rana Sanga
+- (b) Ibrahim Lodi
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (II-I-IV-III: Ralph Fitch → William Hawkins → Nicholas Downton → Sir Thomas Roe)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **II. Ralph Fitch (1583–1591 CE):** The pioneer English merchant-traveler who visited northern India during Emperor Akbar's reign, visiting Agra and Fatehpur Sikri ("much greater than London").
-- **I. Captain William Hawkins (1608–1611 CE):** Reached Surat in 1608 and visited Jahangir's court at Agra in 1609.
-- **IV. Nicholas Downton (1614–1615 CE):** English sea captain who defeated the Portuguese fleet at the Battle of Swally off Surat in January 1615.
-- **III. Sir Thomas Roe (1615–1619 CE):** Arrived at Surat in September 1615 and presented his credentials to Jahangir at Ajmer in January 1616 as King James I's official ambassador.
-- **Chronological Sequence:** II (1583) → I (1608) → IV (1614) → III (1615) = **II-I-IV-III**.
+**Explanation:**
+See the explanation of the above question.
 
-**Key Exam Takeaway / Trap:**
-- *English Travellers Order:* **Ralph Fitch (Akbar)** → **Hawkins (early Jahangir)** → **Downton** → **Thomas Roe (late Jahangir)**.
+*(Reference Context from previous question:)*
+In India, artillery was used for the first time in the Battle of
 
+Panipat. But Babur mentioned the use of artillery and gun
+
+for the first time in the Battle of Bajaur (Pakistan) in 1519
+
+A.D. The first battle of Panipat was fought on April 21, 1526
+
+AD. It was fought between Babur and Ibrahim Lodi. The
+
+battalion of artillery was headed by Ustad Ali Quli, and the
+
+battalion of gunners was headed by Mustafa. 
+
+B
 </details>
 
-**Q12. UPPCS Prelims 2020, Q34**
+---
 
-Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in 1687?
+**Q-GC11. U.P.P.C.S. (Pre) 2016**
 
-A. Abul Hasan Qutb Shah
-B. Sikandar Adil Shah
-C. Ali Adil Shah II
-D. Shayasta Khan
+In which year did Babur defeat Sultan Ibrahim Lodi
+at the battle of Panipat?
+
+- (a) 1527 A.D.
+- (b) 1526 A.D.
+- (c) 1525 A.D.
+- (d) 1524 A.D.
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Abul Hasan Qutb Shah / Tana Shah)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Option A is correct:** **Abul Hasan Qutb Shah**, popularly known as **Tana Shah** (reigned 1672–1687 CE), was the last Sultan of the Qutb Shahi dynasty of Golkonda. Aurangzeb besieged the impregnable Golkonda fort for eight months in 1687 CE; the fort was finally breached through treachery when an Afghan commander, Sarandaz Khan, opened the gate for a bribe. Abul Hasan was captured and imprisoned for life in Daulatabad fort.
-- **Option B is incorrect:** Sikandar Adil Shah was the last Sultan of the Adil Shahi dynasty of **Bijapur**, which fell to Aurangzeb earlier in 1686 CE.
-- **Option C is incorrect:** Ali Adil Shah II was the previous ruler of Bijapur who fought against Shivaji and Aurangzeb.
-- **Option D is incorrect:** Shaista Khan was Aurangzeb's maternal uncle and Mughal viceroy of the Deccan and Bengal.
+**Explanation:**
+Ibrahim Lodi became Sultan of Delhi in 1517 A.D. after the
 
-**Key Exam Takeaway / Trap:**
-- *Twin Deccan Annexations:* Bijapur (1686 CE) = **Sikandar Adil Shah**; Golkonda (1687 CE) = **Abul Hasan Qutb Shah (Tana Shah)**.
+death of his father. He was defeated and killed by Babur on
 
+21st April 1526 A.D. in the Battle of Panipat.
 </details>
 
-**Q13. UPPCS Prelims 2020, Q42**
+---
 
-Which Mughal canal was constructed by restoring the Rajabwah canal of Firuz Shah Tughlaq?
+**Q-GC12. (d) Battle of Chanderi - 1530, U.P.P.C.S. (Re. Exam) (Pre) 2015**
 
-A. Shekhnu-Ni
-B. Shahab Nahr
-C. Nahr-i-Bihisht
-D. Nahr-i-Agra
+Which one of the following pairs is not correctly
+matched?
+
+- (a) First Battle of Panipat - 1526
+- (b) Battle of Khanwa - 1527
+- (c) Battle of Ghaghara - 1529
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Nahr-i-Bihisht / Shah Nahr)
+**Answer: (d)**
 
-**Detailed Explanation:**
-- **Option C is correct:** Sultan Firuz Shah Tughlaq had originally constructed the **Rajabwah canal** from the Yamuna to Hissar. During Akbar's reign, governor Shihab-ud-din Ahmad Khan repaired it (known as *Nahr-i-Shihab*). Under Emperor Shah Jahan, his famous engineer Ali Mardan Khan extensively restored, deepened, and extended this canal to bring water directly into the newly built capital city of Shahjahanabad (Delhi) and into the Red Fort complex, where it was named **Nahr-i-Bihisht** ("Canal of Paradise").
-- **Options A, B, and D are incorrect:** While *Nahr-i-Shihab* (Option B) was the intermediate 16th-century repair, the celebrated Mughal canal built for Shahjahanabad was named **Nahr-i-Bihisht**.
+**Explanation:**
+The first Battle of Panipat (1526 A.D.) was fought between
 
-**Key Exam Takeaway / Trap:**
-- *Delhi Waterway Heritage:* Firuz Shah Tughlaq's **Rajabwah** → Akbar's **Nahr-i-Shihab** → Shah Jahan's **Nahr-i-Bihisht** (Red Fort canal).
+Babur and Ibrahim Lodi, the Battle of Khanwa was fought
 
+between Babur and Rana Sanga in 1527 A.D., the Battle
+
+of Ghaghra was fought in 1529 A.D. between Babur and
+
+Afghan rulers while the Battle of Chanderi was fought in
+
+1528 A.D. between Babur and Medini Rai. Thus, option (d)
+
+is not correctly matched.
 </details>
 
-**Q14. UPPCS Prelims 2019, Q12**
+---
 
-Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.
-Reason (R): As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the Dam.
+**Q-GC13. Uttarakhand P.C.S. (Pre) 2024**
 
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
+Arrange the following battles of Babur in chronological
+order:
+I. Battle of Ghaghra II. First Battle of Panipat
+III. Battle of Chanderi IV. Battle of Khanwa
+
+- (a) IV, II, I, III
+- (b) II, IV, III, I
+- (c) III, I, II, IV
+- (d) I, IV, III, II
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Both (A) and (R) are true, and (R) is the correct explanation of (A))
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Akbar standardized and reformed the Mughal imperial monetary system following the model of Sher Shah Suri, maintaining high metallic purity and centralized mint management.
-- **Reason (R) is correct:** Just as in Sher Shah's coinage system, the principal copper coin under Akbar was the **Dam** (weighing approx. 380 grains), which formed the backbone of day-to-day transactions and revenue collection, with 40 Dams officially exchanging for one silver *Rupiya*.
-- **Why (R) explains (A):** The continuous administrative adoption and standardized exchange ratio of the copper Dam demonstrates the exact institutional mechanism through which Akbar maintained currency regulation.
-
-**Key Exam Takeaway / Trap:**
-- *Currency Continuity:* Sher Shah introduced the tri-metallic standard: Gold *Mohur*, Silver *Rupiya* (178 grains), Copper *Dam* (380 grains). Akbar institutionalized and continued this exact framework.
-
+**Explanation:**
+See the explanation of above question.
 </details>
 
-**Q15. UPPCS Prelims 2019, Q13**
+---
 
-Arrange the following battles in chronological order:
+**Q-GC14. I.A.S. (Pre) 2015**
+
+Consider the following:
+The arrival of Babur in India led to the
+1. Introduction of gunpowder in the subcontinent
+2. Introduction of the arch and dome in the region
+architecture
+3. Establishment of Timurid dynasty in the region
+Select the correct answer using the codes given below:
+
+- (a) 1 and 2 only
+- (b) 3 only
+- (c) 1 and 3 only
+- (d) 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Gunpowder entered India before Babur. It was used to
+
+demolish fort walls. But, credit for using it in cannons and
+
+guns goes to Babur. Zahiruddin Babur descended from the
+
+Turk-Mongol Conquerer Timur on his father's side and
+
+Genghis Khan on his mother's side. Babur, the eldest son of
+
+Umar Shaikh Mirza, was born on 14th February 1483 AD. He
+
+ascended the throne of Ferghana in June 1494 AD at the age of
+
+Eleven years and four months. His accession saw the beginning
+
+of Timurid dynasty in the region. He established the Mughal
+
+dynasty in India after the victory at Panipat in 1526 AD.
+
+Arch and Dome were already introduced during the Sultanate
+
+period. Babur did not influence the architecture of India
+
+though he described the local architecture lacking shape and
+
+balance in 'Babur Nama'. Babur ordered the construction of
+
+a garden in Agra. He also constructed a mosque in Panipat
+
+which was made up of bricks. Sher Shah who defeated
+
+Humayun, the son of Babur, built Qila-i-Kuhna mosque.
+</details>
+
+---
+
+**Q-GC15. 69th B.P.S.C. (Pre) 2023**
+
+Consider the following statements :
+The arrival of Babur into India led to the
+1. Introduction of gunpowder in the subcontinent.
+2. Introduction of arch and dome in the region's
+architecture.
+3. Establishment of Timurid dynasty in the region.
+4. Introduction of cannons in warfare
+Which of the above statements are correct?
+
+- (a) Only 1 and 2
+- (b) 1, 2 and 3
+- (c) 3 and 4
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Gunpowder entered India before Babur. It was used to
+
+demolish fort walls. But, credit for using it in cannons and
+
+guns goes to Babur. Zahiruddin Babur descended from the
+
+Turk-Mongol Conquerer Timur on his father's side and
+
+Genghis Khan on his mother's side. Babur, the eldest son of
+
+Umar Shaikh Mirza, was born on 14th February 1483 AD. He
+
+ascended the throne of Ferghana in June 1494 AD at the age of
+
+Eleven years and four months. His accession saw the beginning
+
+of Timurid dynasty in the region. He established the Mughal
+
+dynasty in India after the victory at Panipat in 1526 AD.
+
+Arch and Dome were already introduced during the Sultanate
+
+period. Babur did not influence the architecture of India
+
+though he described the local architecture lacking shape and
+
+balance in 'Babur Nama'. Babur ordered the construction of
+
+a garden in Agra. He also constructed a mosque in Panipat
+
+which was made up of bricks. Sher Shah who defeated
+
+Humayun, the son of Babur, built Qila-i-Kuhna mosque.
+</details>
+
+---
+
+**Q-GC16. (c) Battle of Chanderi (d) None of the above, U.P.P.C.S. (Mains) 2009**
+
+During which one of the following battles did Babur
+declare ‘Jehad’ ?
+
+- (a) Battle of Panipat
+- (b) Battle of Khanwa
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Babur declared ‘Jehad’ in the battle of Khanwa. The battle of
+
+Khanwa was fought between Babur and Rana Sanga on 16
+
+March, 1527 AD. Babur defeated Rana Sanga in this battle
+
+and assumed the title of ‘Ghazi.’
+</details>
+
+---
+
+**Q-GC17. (c) Battle of Chanderi (d) Battle of Ghaghara, U.P.P.C.S. (UDA/LDA) (Pre) 2010**
+
+In which one of the following battles, Rana Sanga
+fought against Babur?
+Indian History General Studies B–277
+
+- (a) Battle of Panipat
+- (b) Battle of Khanwa
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Babur declared ‘Jehad’ in the battle of Khanwa. The battle of
+
+Khanwa was fought between Babur and Rana Sanga on 16
+
+March, 1527 AD. Babur defeated Rana Sanga in this battle
+
+and assumed the title of ‘Ghazi.’
+</details>
+
+---
+
+**Q-GC18. (c) Sawai Uday Singh (d) Rana Sanga, U.P.P.C.S. (Mains) 2004**
+
+The ruler of Mewar who was defeated in the Battle of
+Khanwa by Babur in 1527 was –
+
+- (a) Rana Pratap
+- (b) Man Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Babur declared ‘Jehad’ in the battle of Khanwa. The battle of
+
+Khanwa was fought between Babur and Rana Sanga on 16
+
+March, 1527 AD. Babur defeated Rana Sanga in this battle
+
+and assumed the title of ‘Ghazi.’
+</details>
+
+---
+
+**Q-GC19. Uttarakhand P.C.S. (Pre) 2010**
+
+Who was defeated in the Battle of Khanwa?
+
+- (a) Rana Pratap
+- (b) Hemu
+- (c) Rana Sanga
+- (d) Alauddin
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Babur declared ‘Jehad’ in the battle of Khanwa. The battle of
+
+Khanwa was fought between Babur and Rana Sanga on 16
+
+March, 1527 AD. Babur defeated Rana Sanga in this battle
+
+and assumed the title of ‘Ghazi.’
+</details>
+
+---
+
+**Q-GC20. Chhattisgarh P.C.S. (Pre) 2003**
+
+After becoming the Mughal Ruler in India, Zahiruddin
+Muhammad adopted the name :
+
+- (a) Babur
+- (b) Humayun
+- (c) Jahangir
+- (d) Bahadur Shah
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The full name of 'Babur' was Zahiruddin Muhammad Babur.
+
+He was born on February 14, 1483 AD, to Umar Shaikh Mirza
+
+and Qutlugh Nigar Khanum at Ferghana. After the death
+
+of his father, he ascended the throne of Ferghana (now in
+
+Uzbekistan) in June 1494 AD, as an 11 years and four months
+
+old minor. He declared himself the ruler on April 27, 1526
+
+AD and founded Mughal empire in India.
+</details>
+
+---
+
+**Q-GC21. U.P.P.C.S. (Mains) 2015**
+
+Babur adopted the title of ‘Padshah’ first at –
+
+- (a) Ferghana
+- (b) Kabul
+- (c) Delhi
+- (d) Samarqand
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Babur captured Samarkand during his reign in 1501 A.D.,
+
+which lasted only for eight months. After losing Samarkand
+
+and Ferghana, Babur moved towards Kabul. After the victory
+
+of Kabul in 1504, he gave up the title ‘Mirza’ held by his
+
+ancestors and adopted the title of ‘Padshah.’
+</details>
+
+---
+
+**Q-GC22. Uttarakhand P.C.S. (Pre) 2003**
+
+The empire of Babur included –
+1. The area of Kabul
+2. The area of Punjab
+3. The area of modern Uttar Pradesh
+4. The area of modern Rajasthan
+Which of these statements are correct?
+
+- (a) 1 and 2
+- (b) 2 and 3
+- (c) 1, 2 and 3
+- (d) 2, 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The empire of Babur included Kabul and the area of modern
+
+Uttar Pradesh and Punjab. He used different systems to run
+
+different states. The regime of Badakhshan out of India
+
+was given to Humayun, Mir Fakhr Ali, Hindal and Mirza
+
+Sulaiman. Mir Yusuf Ali was appointed as governor of
+
+Punjab and given control of Bheera, Lahore, Dipalpur,
+
+Sialkot, Sirhind and Hisar-Firoza. The governance of
+
+Kabul, Qandahar and Multan was given to Kamran. Babur
+
+implemented innovative governance in the region of Ballia
+
+to Hisar & Bayana, and Gwalior. The region of Bihar was
+
+spread up to Badakhshan from Bihar. But, the region of
+
+Rajasthan was not included in his empire as it was under the
+
+control of different Rajput rulers.
+</details>
+
+---
+
+**Q-GC23. R.A.S./R.T.S. (Pre) 1993**
+
+Identify the Mughal emperor whose success in life due
+to his patience and resolution is a lesson for everyone?
+
+- (a) Zahiruddin Muhammad Babur
+- (b) Nasiruddin Muhammad Humayun
+- (c) Jalaluddin Muhammad Akbar
+- (d) Abdul Muzaffar Muhiuddin Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The life of Zahiruddin Muhammad Babur gives a lesson of
+
+success in life due to his patience and resolution. The father
+
+of Babur died in his childhood days. It was the reward of his
+
+patience and resolution that he founded the Mughal Empire
+
+in India.
+</details>
+
+---
+
+**Q-GC24. U.P.P.C.S. (Pre) 1995**
+
+Which Hindu State has been mentioned by Babur in
+his Babur Nama :
+
+- (a) Orissa
+- (b) Gujarat
+- (c) Mewar
+- (d) Kashmir
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Babur mentioned two Hindu State, Vijayanagara and Mewar
+
+in his Babur Nama. He writes “when we were at Kabul, Rana
+
+Sanga had displayed his loyalty to be present on his behalf
+
+and decided that if the honoured king reaches Delhi from
+
+this side, I (Rana Sanga) will invade Agra from this side.”
+
+This text written by Babur has an important place among
+
+autobiographies all over the world. Abdul Rahim Khani-Khanan translated Babur Nama into Persian. The verse
+
+compositions written by Babur are composed in a Turkish text
+
+'Diwan'. He wrote 'Mubaiyan' in a new verse style which is a
+
+book of Muslim law. The text ‘Risal-i-Usaj (Khat-i-Baburi)
+
+written by Babur is considered as the most innovative style. 
+
+B
+</details>
+
+---
+
+**Q-GC25. I.A.S. (Pre) 1993**
+
+Given below are two statements, one is labelled
+Assertion (A), and other is labelled as Reason (R).
+Assertion (A) : Babur wrote his memoirs in Turki.
+Reason (R) : Turki was the official language of the
+Mughal Court.
+In the context of the above two statements, which one
+of the following is correct?
+
+- (a) Both
+- (A) and (R) are true, and (R) is the correct explanation of
+- (A) .
+- (b) Both
+- (A) and (R) are true, but (R) is not a correct explanation of
+- (A) .
+- (c) (A) is true, but (R) is false.
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c )**
+
+**Explanation:**
+The founder of the Mughal Empire, Zahiruddin Muhammad
+
+Babur wrote his memoirs (autobiography) ‘Tuzuk-i-Babri’
+
+also known as Baburnama written in Turkish language
+
+containing related events of his life. The Turkish language
+
+was not the official language of the Mughal Empire. The
+
+Persian language was the official language of Mughal empire.
+
+Thus, Assertion (A) is correct, but Reason (R) is incorrect.
+</details>
+
+---
+
+**Q-GC26. 56th to 59th B.P.S.C. (Pre) 2015**
+
+In which language was Tuzuk-i-Baburi’ written?
+
+- (a) Persian
+- (b) Arabic
+- (c) Turkish
+- (d) Urdu
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The founder of the Mughal Empire, Zahiruddin Muhammad
+
+Babur wrote his memoirs (autobiography) ‘Tuzuk-i-Babri’
+
+also known as Baburnama written in Turkish language
+
+containing related events of his life. The Turkish language
+
+was not the official language of the Mughal Empire. The
+
+Persian language was the official language of Mughal empire.
+
+Thus, Assertion (A) is correct, but Reason (R) is incorrect.
+</details>
+
+---
+
+**Q-GC27. U.P.P.C.S. (Pre) 1992**
+
+Who built the Babri mosque established in Ayodhya?
+
+- (a) Babur
+- (b) Humayun
+- (c) Nizam-ul-Mulk
+- (d) Mir Baqi
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+It is believed that Babri mosque in Ayodhya was built by Mir
+
+Baqi. He was the commandant of Babur.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Akbar
+
+Complete unabridged 81-question bank from Ghatna Chakra covering Akbar's birth at Amarkot, Kalanaur coronation, Bairam Khan regency, Kachhwaha matrimonial alliance (Bharmal / Harkhabai), religious reforms (abolition of slavery, pilgrim tax, Jizya), Battle of Haldighati (Hakim Khan Sur, Man Singh), Rao Chandrasen of Marwar, Rani Durgavati of Gondwana, Abul Fazl's assassination by Vir Singh Bundela, Mansabdari decimal system (Mongolian origins, 10:20 ratio), Ain-i-Dahsala / Todarmal Bandobast, Ibadat Khana, Mahzarnama, Din-i-Ilahi, Jain scholars (Hari Vijay Suri / Jagadguru, Jin Chandra Suri / Yug Pradhan), Persian translations (Razmnama, Ramayana, Leelavati), calligrapher Zari Qalam, court painters (Daswant, Basawan), English visitors (Ralph Fitch, Elizabeth I), Jesuit missions (Jerome Xavier, Monserrate), and Bengal-Bihar annexation (Daud Khan Karrani). Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC28. Chhattisgarh P.C.S. (Pre) 2015**
+
+In which of the following place Akbar was enthroned
+on getting the information of Humayun’s death?
+
+- (a) Kabul
+- (b) Lahore
+- (c) Sirhind
+- (d) Kalanaur
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Akbar was enthroned (coronated) at Kalanaur after getting the
+
+information of Humayun’s death, who died in a fatal accident
+
+by falling from the stairs of Dinpanah library.
+</details>
+
+---
+
+**Q-GC29. U.P.P.C.S. (Pre) 2024**
+
+Consider the following statements regarding Bairam
+Khan:
+1. Akbar gave the title of Khan-i-Khanan to Bairam
+Khan.
+2. This title was not conferred upon Bairam Khan at
+the time of his appointment as wazir of the empire.
+Which of the above statements is/are correct?
+
+- (a) Both 1 and 2
+- (b) Neither 1 nor 2
+- (c) Only 1
+- (d) Only 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Bairam Khan was Akbar's guardian. Akbar appointed him
+
+as his Wazir (minister) and honored him with the title of
+
+Khan-i-Khanan.
+
+Thus, statement 1 is true, and statement 2 is false.
+</details>
+
+---
+
+**Q-GC30. (d) Imperial policy, R.A.S. / R.T.S. (Pre) 1992**
+
+The main aim of Akbar in fighting the Battle of
+Haldighati was –
+
+- (a) To subdue Rana Pratap
+- (b) To polarise Rajputs
+- (c) To satisfy sentiments of Man Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The main aim of Akbar in fighting the Battle of Haldighati
+
+was to subdue Rana Pratap. In 1576 AD, he deputed Man
+
+Singh to lead a force of about 5000 soldiers against Maharana
+
+Pratap. This battle was fought in June, 1576 AD in which
+
+Rana was defeated and took refuge in Aravali Hills.
+</details>
+
+---
+
+**Q-GC31. Uttarakhand P.C.S. (Pre) 2010**
+
+The Battle of Haldighati was fought in –
+
+- (a) 1756 A.D.
+- (b) 1576 A.D.
+- (c) 1756 B.C.
+- (d) l576 B.C.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The main aim of Akbar in fighting the Battle of Haldighati
+
+was to subdue Rana Pratap. In 1576 AD, he deputed Man
+
+Singh to lead a force of about 5000 soldiers against Maharana
+
+Pratap. This battle was fought in June, 1576 AD in which
+
+Rana was defeated and took refuge in Aravali Hills.
+</details>
+
+---
+
+**Q-GC32. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Who was the commander of Rana Pratap’s army in
+the Battle of Haldighati?
+
+- (a) Amar Singh
+- (b) Man Singh
+- (c) Hakim Khan
+- (d) Shakti Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Hakim Khan Sur was the commander of Rana Pratap’s army
+
+in the Battle of Haldighati. He was a Pathan adventurer,
+
+member of Sur Dynasty who commanded an army of about
+
+5,000 Afghans in the battle of Haldighati.
+</details>
+
+---
+
+**Q-GC33. U.P.P.C.S. (RO/ARO) (Pre) (Re-Exam) 2016**
+
+Who was the Commander in Chief of the Rajput Army,
+besides Maharana Pratap in the Battle of Haldighati?
+
+- (a) Ibrahim Gardi
+- (b) Hakim Sur
+- (c) Tardi Beg
+- (d) Mahmood Lodi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Hakim Khan Sur was a descendant of Sher Shah Suri
+
+and was a general in Maharana Pratap's army. He was the
+
+commander in chief of the Rajput Army; besides Maharana
+
+Pratap's, during the Battle of Haldighati in 1576 A.D. He was
+
+commanding an army of Afghans during the battle.
+</details>
+
+---
+
+**Q-GC34. U.P.P.C.S. (RO/ARO) (Mains) 2016**
+
+Who was the Commander in Chief of Maharana
+Pratap's Rajput Army in the 'Battle of Haldighati'?
+
+- (a) Ibrahim Khan Gardi
+- (b) Hakim Khan Sur
+- (c) Tardi Beg
+- (d) Mohammed Lodi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Hakim Khan Sur was a descendant of Sher Shah Suri
+
+and was a general in Maharana Pratap's army. He was the
+
+commander in chief of the Rajput Army; besides Maharana
+
+Pratap's, during the Battle of Haldighati in 1576 A.D. He was
+
+commanding an army of Afghans during the battle.
+</details>
+
+---
+
+**Q-GC35. I.A.S. (Pre) 1998**
+
+In the given map, the shaded part represents Akbar’s
+empire at a certain juncture, ‘A’ stands for an
+independent state and ‘B’ marks the site of city. Which
+one of the following alternatives gives all correct
+information?
+B
+
+- (a) Akbar in 1557 :
+- (A) Golconda,
+- (B) Lahore
+- (b) Akbar in 1557 :
+- (A) Khandesh,
+- (B) Multan
+- (c) Akbar in 1605 :
+- (A) Gondwana,
+- (B) Multan
+- (d) Akbar in 1605 :
+- (A) Gondwana,
+- (B) Lahore
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The shaded portion in the map shows the empire of Akbar at
+
+the time of his death (1605 A.D.). The place marked “A” is
+
+Gondwana which was an independent state and “B” shows
+
+Lahore which was a part of Akbar’s empire.
+</details>
+
+---
+
+**Q-GC36. (d) Sisodias, U.P.P.C.S. (Pre) 2004**
+
+The first matrimonial alliance with the Rajputs was
+established by Akbar with the house of :
+
+- (a) Bundelas
+- (b) Kachhwahas
+- (c) Rathores
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The first matrimonial alliance with the Rajputs was established
+
+by Akbar with Kachhwaha Rajput. He went on a pilgrimage
+
+to the Mausoleum of Shaikh Muinuddin Chishti at Ajmer in
+
+1562 A.D. His route laid through the Rajput state of Amber. Its
+
+ruler Raja Bihari Mal (Bharmal), with a view of safeguarding
+
+his position, offered his submission to Akbar at Sanganer and
+
+voluntarily proposed his daughter, Princess Harkhabai (Jodha)
+
+marriage with the young monarch. Akbar accepted the offer and
+
+on his return from Ajmer, married in 1562 AD. It was the first
+
+marriage of Akbar with any Rajput girl. Thus, Raja Bharmal
+
+was the first Rajput king who accepted Akbar’s supremacy of
+
+his accord. Salim (later Jahangir), heir to the throne was born
+
+of this wedlock on August 30, 1569 AD.
+</details>
+
+---
+
+**Q-GC37. U.P.P.C.S. (RO/ARO) (Pre) 2016**
+
+Which of the following families was the first to have a
+matrimonial alliance with Akbar?
+
+- (a) Rathore
+- (b) Sisodiya
+- (c) Kachhwaha
+- (d) Chauhan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The first matrimonial alliance with the Rajputs was established
+
+by Akbar with Kachhwaha Rajput. He went on a pilgrimage
+
+to the Mausoleum of Shaikh Muinuddin Chishti at Ajmer in
+
+1562 A.D. His route laid through the Rajput state of Amber. Its
+
+ruler Raja Bihari Mal (Bharmal), with a view of safeguarding
+
+his position, offered his submission to Akbar at Sanganer and
+
+voluntarily proposed his daughter, Princess Harkhabai (Jodha)
+
+marriage with the young monarch. Akbar accepted the offer and
+
+on his return from Ajmer, married in 1562 AD. It was the first
+
+marriage of Akbar with any Rajput girl. Thus, Raja Bharmal
+
+was the first Rajput king who accepted Akbar’s supremacy of
+
+his accord. Salim (later Jahangir), heir to the throne was born
+
+of this wedlock on August 30, 1569 AD.
+</details>
+
+---
+
+**Q-GC38. (d) Shaikh Farid Sanj-ai-Shakar, U.P.P.C.S. (Mains) 2012**
+
+The Mausoleum (Dargah) of which Chishti Saint was
+visited by Akbar ?
+
+- (a) Muinuddin Chishti
+- (b) Shaikh Nasimuddin Chirag Dehalvi
+- (c) Qutbuddin Bakhtiyar Kaki
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Akbar supported Chishti sect expressing his faith in Sufism.
+
+He sought the company of the religious divine saints with
+
+whom he conversed with inborn zeal and humility. He
+
+frequently visited the Mausoleum of Khwaja Muinuddin
+
+Chishti at Ajmer and the shrine of contemporary Sufi sage
+
+Shaikh Salim Chishti at Sikri.
+</details>
+
+---
+
+**Q-GC39. U.P.P.C.S. (Mains) 2010**
+
+Who among the following was personally killed by
+Akbar?
+
+- (a) Adham Khan
+- (b) Bairam Khan
+- (c) Baz Bahadur
+- (d) Pir Muhammad Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Akbar killed Adham Khan, the son of Maham Anga in 1562
+
+AD as he assassinated Akbar’s prime minister, Atagh Khan.
+</details>
+
+---
+
+**Q-GC40. State PCS**
+
+Which of the following Rajputana states did not accept
+the supremacy of Akbar willingly ?
+
+- (a) Amber
+- (b) Mewar
+- (c) Marwar
+- (d) Bikaner U.P. Lower Sub. (Pre) 2004
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Mewar did not accept the supremacy of Akbar willingly. Rana
+
+Pratap of Mewar continued his struggle against Akbar for a
+
+long time. After the death of Rana Pratap, his son Rana Amar
+
+Singh signed a treaty with Jahangir in 1615 A.D.
+</details>
+
+---
+
+**Q-GC41. R.A.S./R.T.S.(Pre) 2012**
+
+Which Rajput ruler continued his struggle for
+independence against Mughals and did not surrender?
+
+- (a) Raja Rai Singh of Bikaner
+- (b) Rao Chandrasena of Marwar
+- (c) Raja Bharmal of Amber
+- (d) Maharana Amar Singh of Mewar
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Rao Chandrasena of Marwar fought against the Mughal army
+
+at Bhadrajun in 1565 A.D., but he fled away to Siwana as he
+
+was surrounded from all sides. Rao annexed Sojat in 1579
+
+AD. Akbar again besieged him, but he fled away on hills and
+
+died on January, 1581 AD. Similar to Maha Rana Pratap, Rao
+
+Chandrasena continued his struggle for independence against
+
+Mughals and did not surrender.
+</details>
+
+---
+
+**Q-GC42. M.P.P.C.S. (Pre) 2010**
+
+Durgavati, who fought against Akbar, was the queen
+of -
+
+- (a) Mandla
+- (b) Mandu
+- (c) Asirgarh
+- (d) Ramgarh
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Indian History General Studies B–287
+
+Akbar decided to invade Gondwana and sent a cavalry of about
+
+50,000 supported by heavy artillery. The King of Gondwana,
+
+Vir Narayan was a minor and his mother Durgavati ruled
+
+over the kingdom of Gondwana. She fought bravely but was
+
+defeated in the battle between Garh and Mandla (modern
+
+Mandla district of M.P.).
+</details>
+
+---
+
+**Q-GC43. (c) Prince Murad, (d) Prince Daniyal, Jharkhand P.C.S. (Pre) 2013**
+
+Abul Fazl’s death was caused by –
+
+- (a) Prince Salim
+- (b) Abdur Rahim Khan-i-Khanan
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Behind Abul Fazl’s death was Prince Salim. When Prince
+
+Salim started behaving as independent King at Allahabad
+
+(Prayagraj) and became rebellious, Akbar called Abul Fazal
+
+from Deccan in 1602 AD. Vir Singh Bundela assassinated
+
+Abul Fazl in a plot contrived by Mughal prince while he was
+
+returning from Deccan.
+</details>
+
+---
+
+**Q-GC44. R.A.S./R.T.S. (Pre) 1994**
+
+Which of one of the following factors is not conducive
+in establishing Akbar as a nationalist-
+
+- (a) Akbar had forsaken Islam
+- (b) Administrative unity and unity in Law
+- (c) Akbar’s effort at cultural unity
+- (d) Akbar’s religious policy
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Akbar was the first among the monarchs of medieval India
+
+to raise the policy of religious tolerance to the pinnacle of
+
+secularism. The socio-political condition of the country
+
+was such that Akbar thought it was advisable to adopt
+
+independent views in religious matters. The non-Muslims
+
+constituted the majority of his Indian subjects. Without
+
+winning their confidence and active support, Akbar could
+
+not hope to establish and consolidate the Mughal rule in
+
+India. Religion had played the role of a divisive force in
+
+Indian society ever since the advent of Islam which most of
+
+its people had refused to embrace. Akbar fully understood
+
+the centrifugal tendencies of the complex Indian sociopolitical order and made a serious attempt to eliminate these
+
+by separating religion from politics. To win the goodwill of
+
+Hindus, he abolished the pilgrimage tax and Jizya. Freedom
+
+of worship, matrimonial alliances with Hindus, high civil and
+
+military positions to Hindus, translation of Hindu scriptures,
+
+establishment of Ibadatkhana, issue of infallibility decree,
+
+freedom to construct temples, land grants, considerations
+
+of Hindu sentiments, reforms in Hindu society were some
+
+measures adopted by Akbar to establish religious harmony
+
+but he had not forsaken Islam.
+</details>
+
+---
+
+**Q-GC45. U.P.P.C.S. (Pre) 1990**
+
+Causes of Akbar’s popularity were -
+A. Mansabdari system B. Religious policy
+C. Land Revenue System D. Social reforms
+Select the correct answer by using codes given below :
+
+- (a) A and B
+- (b) B only
+- (c) C only
+- (d) A,B,C and D
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The establishment of Mughal administration is credited to
+
+Akbar. His central administrative policies and interpretation of
+
+designation of King, his duties and authorities, his provincial
+
+administration, his revenue system, his monetary policies, his
+
+mansabdari system, etc. are the measures of his success. Akbar
+
+was the first Muslim ruler who practised religious harmony
+
+between subjects and treated Hindus and Muslims alike. He
+
+abolished Jizya, the pilgrimage tax and the slavery in 1564 AD,
+
+1563 AD and 1562 AD respectively under his liberal religious
+
+policy. The abolishment of child marriage and ‘Sati’ took place
+
+during his reign. Thus, all the above four points are included
+
+in causes of the popularity of Akbar.
+</details>
+
+---
+
+**Q-GC46. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Who of the following Muslim rulers abolished the
+pilgrimage tax?
+
+- (a) Bahlul Lodi
+- (b) Sher Shah
+- (c) Humayun
+- (d) Akbar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The establishment of Mughal administration is credited to
+
+Akbar. His central administrative policies and interpretation of
+
+designation of King, his duties and authorities, his provincial
+
+administration, his revenue system, his monetary policies, his
+
+mansabdari system, etc. are the measures of his success. Akbar
+
+was the first Muslim ruler who practised religious harmony
+
+between subjects and treated Hindus and Muslims alike. He
+
+abolished Jizya, the pilgrimage tax and the slavery in 1564 AD,
+
+1563 AD and 1562 AD respectively under his liberal religious
+
+policy. The abolishment of child marriage and ‘Sati’ took place
+
+during his reign. Thus, all the above four points are included
+
+in causes of the popularity of Akbar.
+</details>
+
+---
+
+**Q-GC47. U.P.P.C.S. (Mains) 2009**
+
+Who among the following emperors may be called “an
+enlightened despot” ?
+
+- (a) Babur
+- (b) Humayun
+- (c) Akbar
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Akbar was a great ruler whose empire extended from Bengal
+
+to Afghanistan in the north and from Kashmir to the Godavari
+
+in the south. He was a secular emperor, and the complete
+
+authority of the empire was vested in him. Therefore, he is
+
+considered as ''an enlightened despot'' like Queen Elizabeth
+
+I of England and Frederick the Great, during whose reign all
+
+subjects were equal before the law.
+</details>
+
+---
+
+**Q-GC48. U.P.P.C.S. (RO/ARO) (Mains) 2021**
+
+Consider the following events and arrange them in
+chronological order –
+1. Akbar marries Princess of Amber
+2. Battle of Tukaroi
+3. Mughal invasion of Malwa
+4. Karrani's conquest of Orissa
+Select the correct answer using the code given below :
+Code :
+
+- (a) 1, 2, 3 and 4
+- (b) 2, 1, 4 and 3
+- (c) 2, 4, 3 and 1
+- (d) 3, 1, 4 and 2 B
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Correct order of sequence of events is :
+
+1. Akbar marries Princess of Amber – 1562 A.D.
+
+2. Battle of Tukaroi – 1575 A.D.
+
+3. Mughal invasion of Malwa – 1561 A.D.
+
+4. Karrani's conquest of Orissa – 1568 A.D.
+
+Hence correct order is (3, 1, 4, 2) in option (d)
+</details>
+
+---
+
+**Q-GC49. U.P.P.C.S. (Mains) 2002**
+
+Who among the following had ordered that a man
+should marry only one wife and could marry another
+only when the first wife was barren ?
+
+- (a) Alauddin Khalji
+- (b) Sher Shah
+- (c) Akbar
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Akbar banned some social customs and personal opinions,
+
+but he did that to (or “intended to”) improve the society.
+
+For example, he ordered that a man could marry only one
+
+woman and could marry another only when the first wife
+
+proved barren. He also tried to promote the social reforms
+
+by encouraging widow remarriage and by discouraging “Sati’
+
+practice forcefully.
+</details>
+
+---
+
+**Q-GC50. U.P.P.C.S. (Pre) 2020**
+
+Which of the following statement/s is/are correct?
+1. Akbar tried to fix the age of marriage for boys and
+girls.
+2. Akbar gave the freedom to girls to marry at their own
+will and not under parental pressure.
+Select the correct answer using the codes given below.
+Codes:
+
+- (a) Only 1
+- (b) Only 2
+- (c) Both 1 and 2
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Akbar had tried to fix the age of marriage for girls at 14 years
+
+& for boys at least 16 years. He gave freedom to girls to marry
+
+at their own will & not under parental pressure.
+</details>
+
+---
+
+**Q-GC51. Uttarakhand UDA/LDA (Pre) 2003**
+
+Reign of Akbar is known for :
+(1) Annexation of regions
+(2) Provincial administrative system
+(3) Judicial administration
+(4) His religious intolerance
+Select the correct answer by using codes given below :
+
+- (a) 1 and 2
+- (b) 1,2 and 3
+- (c) 2,3 and 4
+- (d) All above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Akbar is famous worldwide for his religious liberalism and
+
+tolerance. The policy of ‘Sulh-i-Kul’ propounded by him is
+
+strong evidence of this. Thus, statement 4 is not correct while
+
+statements 1,2,3 are correct. Therefore, the correct answer
+
+will be option (b).
+</details>
+
+---
+
+**Q-GC52. I.A.S. (Pre) 1997**
+
+The head of the military department under the
+recognised central machinery of administration during
+Akbar’s reign was :
+
+- (a) Diwan
+- (b) Mir Bakshi
+- (c) Mir Saman
+- (d) Bakshi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Under the reconstructed central administrative system in
+
+the reign of Akbar, Mir Bakshi was the head of the military
+
+department but was not the chief commander of the army.
+
+Bakshi was responsible for the recruitment and designation of
+
+proper rank and fixing of pay for soldiers. He was responsible
+
+for the inspection of mansabdars and troops and submission
+
+of these details to the emperor. Later, in 1574-75 A.D., Akbar
+
+organized his soldiers by Mansabdari System. Mansab means
+
+rank or status.
+</details>
+
+---
+
+**Q-GC53. (a) Mansabdari (b) Zamindari, (c) Feudalistic (d) Ain-i-Dahsala, U.P.P.C.S. (Pre) 1992**
+
+Military system in the reign of Akbar was based on :
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+It was essential to have a well-organised army for expansion
+
+of empire and maintenance of peace and order, Akbar
+
+reformed many loopholes of a military system for this
+
+purpose. He revived the practice of Chehra (descriptive image
+
+of each soldier maintained) and Dagh (branding of horses)
+
+in 1573-74 A.D. After this action, he organised soldiers by
+
+Mansabdari system in 1574-75 A.D. Mansab means rank
+
+or position. Mansabdar means the official who had a rank
+
+or designation in the royal army. This was based on the
+
+decimal system.
+</details>
+
+---
+
+**Q-GC54. 65th B.P.S.C. (Pre) 2019**
+
+In medieval India, why was Mansabdari system
+introduced?
+
+- (a) For revenue collection
+- (b) Facilitating recruitment to the army
+- (c) To establish religious harmony
+- (d) Ensuring clean administration
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In the given options, the reason for introduction of
+
+Mansabdari was to ensure clean administration. 
+
+Indian History General Studies B–289
+</details>
+
+---
+
+**Q-GC55. State PCS**
+
+The first person to be given proper status of the
+Diwan by Akbar was -
+
+- (a) Asaf Khan
+- (b) Munim Khan
+- (c) Muzaffar Khan Turbati
+- (d) Raja Todarmal U.P. Lower Sub. (Spl) (Pre) 2003 U.P. Lower Sub. (Spl) (Pre) 2002
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Diwan is a word in Persian vocabulary and was adopted
+
+by Muslims during the period of Umar Caliph. They used
+
+that term for the treasury department. From the 9th year of
+
+Akbar's reign till 30th year, Diwan designation was adorned
+
+by Muzaffar Khan Turbati, Raja Todarmal and Khwaja Shah
+
+Mansoor. The growth of the Diwan’s department began with
+
+the appointment of Muzaffar Khan Turbati. Diwan was a
+
+supreme official of financial affairs and revenues.
+</details>
+
+---
+
+**Q-GC56. I.A.S. (Pre) 1994**
+
+The Mansabdari System introduced by Akbar was
+borrowed from the system followed in –
+
+- (a) Afghanistan
+- (b) Turkey
+- (c) Mongolia
+- (d) Persia
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Mansabdari system introduced by Akbar was borrowed
+
+from Mongolia. This type of military division was
+
+implemented in the Mongolian (Central Asia) army under
+
+the leadership of Genghis Khan. However, the Mansabdari
+
+System was widely new. Nevertheless, originally, it was
+
+based on the Mongolian military division.
+</details>
+
+---
+
+**Q-GC57. I.A.S. (Pre) 1999**
+
+Assertion (A) : During the time of Akbar, for every
+ten cavalrymen, the mansabdars had
+to maintain twenty horses.
+Reason (R) : Horses had to be rested while on march
+and replacements were necessary in
+times of war.
+
+- (a) Both
+- (A) and (R) is true, and (R) is the correct explanation of
+- (A) .
+- (b) Both
+- (A) and (R) are true, but (R) is not a correct explanation of
+- (A) .
+- (c) (A) is true, but (R) is false.
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+During the reign of Akbar, for every ten cavalrymen, the
+
+Mansabdars had to maintain twenty horses. The main reason for
+
+this custom was that it was essential to give rest to the horses during
+
+the long journey and it was needed to replace horses during the war.
+
+Thus, Assertion (A) and Reason (R) both are correct, and Reason
+
+(R) is the correct explanation of Assertion (A).
+</details>
+
+---
+
+**Q-GC58. 39th B.P.S.C. (Pre) 1994**
+
+Zabti system was introduced by –
+
+- (a) Ghiyasuddin Tughluq
+- (b) Sikandar Lodi
+- (c) Sher Shah
+- (d) Akbar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Zabti System was introduced for land revenue in the reign of
+
+Akbar which was based on schedules of Dastur-ul-Amal and
+
+Zabti Khasre for land survey and land revenue determination.
+
+Most of the area was based on this system.
+</details>
+
+---
+
+**Q-GC59. U.P.P.C.S. (Pre) 1992**
+
+In which measures Todarmal achieved fame ?
+
+- (a) Military campaign
+- (b) Land Revenue
+- (c) Humor
+- (d) Painting
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Todarmal achieved fame in the field of land revenue. Akbar
+
+introduced the Dahsala or Zabti system of land revenue
+
+collection in 1580 A.D. to consolidate Mughal empire. The
+
+founder of this system was Todarmal. That’s why it is known
+
+as Todarmal settlement. Under this system, the average
+
+produce of different crops, as well as the average prices
+
+prevailing over the last ten years, was calculated. One-third
+
+of the average produce was state Share (Maal), rest two-third
+
+share was left to the cultivators (Kharaj).
+</details>
+
+---
+
+**Q-GC60. Jharkhand P.C.S. (Pre) 2013**
+
+Which revenue system among the following is also
+known as the Bandobast System?
+
+- (a) Zabti
+- (b) Dahsala
+- (c) Nasq
+- (d) Kankut
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+‘Dahsala’ was a land revenue system during Akbar’s reign
+
+which was also known as Bandobast system.
+</details>
+
+---
+
+**Q-GC61. U.P.P.C.S. (Mains) 2012**
+
+Todarmal was associated to –
+
+- (a) Law
+- (b) Land Revenue Reforms
+- (c) Literature
+- (d) Music
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Akbar appointed Raja Todarmal and Muzaffar Khan Turbati
+
+as finance minister for re-assessment of the land revenue
+
+system. He calculated the average produce of different crops
+
+as well as average price prevailing over the last ten years
+
+from 1571 to 1580 AD. One-third of that average was fixed
+
+as land revenue for state which was also called “Dahsala
+
+System”. Ain-i-Dahsala is known as Todarmal Bandobast.’ 
+
+B
+</details>
+
+---
+
+**Q-GC62. Chhattisgarh P.C.S. (Pre) 2020**
+
+Consider the following statements related to the
+Mughal emperor Akbar and choose the correct answer:
+Statement I : 'Tansen' was the title given to Rambali
+Pandey by the Mughal emperor Akbar
+Statement II : Akbar was married with the sister of
+Raja Man Singh
+Statement III : Abul Fazl was the author of 'Ain-iAkbari'
+Statement IV : Raja Todarmal was the commanderin-chief of Akbar's army
+
+- (a) Only Statements I and II are correct
+- (b) Only Statements III and IV are correct
+- (c) Only Statement III is correct
+- (d) Only Statement IV is correct
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The name of 'Tansen' was Ram Tanu Pandey. 'Tansen' was
+
+the title given to Ramtanu Pandey by the king of Gwalior/
+
+Rewa, hence statement I is wrong. Jahangir was married
+
+to the sister of Raja Man Singh of Amber (Amer), hence
+
+statement II is also incorrect. Raja Todarmal was head of the
+
+Revenue department not the commander-in-chief of Akbar's
+
+army. Hence, only statement III is correct. Abul Fazal wrote
+
+'Ain-i-Akbari'.
+</details>
+
+---
+
+**Q-GC63. U.P.P.C.S. (Mains) 2007**
+
+Who among the following was the connecting link
+between Sher Shah and Akbar in land revenue
+administrative measures ?
+
+- (a) Birbal
+- (b) Todarmal
+- (c) Bhagwandas
+- (d) Bharmal
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Raja Todarmal is honoured in Indian history for his land
+
+revenue reforms. Ain-i-Dahsala was introduced by Akbar.
+
+Raja Todarmal (Khwaja Shah Mansoor and Muzaffar Khan
+
+Turbati also helped in this) was the main propounders of this
+
+system. That’s why it is known as 'Todarmal Settlement'.
+</details>
+
+---
+
+**Q-GC64. R.A.S./R.T.S. (Pre) 2010**
+
+During Akbar period, land revenue system “ Ain-iDahsala” was developed by :
+
+- (a) Shahnawaz Khan
+- (b) Abdur Rahim Khan-i-Khanan
+- (c) Todarmal
+- (d) Mulla Do Pyaza
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Raja Todarmal is honoured in Indian history for his land
+
+revenue reforms. Ain-i-Dahsala was introduced by Akbar.
+
+Raja Todarmal (Khwaja Shah Mansoor and Muzaffar Khan
+
+Turbati also helped in this) was the main propounders of this
+
+system. That’s why it is known as 'Todarmal Settlement'.
+</details>
+
+---
+
+**Q-GC65. Chhattisgarh P.C.S. (Pre) 2011**
+
+Akbar launched “Din-i-Ilahi” in the year_____
+
+- (a) 1570
+- (b) 1578
+- (c) 1581
+- (d) 1582
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Akbar launched "Tauhid-i-Ilahi" or "Din-i-Ilahi" in 1582 AD.
+
+Din-i-Ilahi was a syncretic religion which intended to merge
+
+the best elements of all the religions of the community. Indeed,
+
+the prophet of this new sect was Abul Fazl. Among Hindus,
+
+only Birbal accepted Din-i-Ilahi. Raja Bhagawan Das and Man
+
+Singh bluntly refused to embrace Din-i-Ilahi.
+</details>
+
+---
+
+**Q-GC66. M.P.P.C.S. (Pre) 1998**
+
+Which ruler had promoted ‘’Din-i-Ilahi ?
+
+- (a) Babur
+- (b) Akbar
+- (c) Aurangzeb
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Akbar launched "Tauhid-i-Ilahi" or "Din-i-Ilahi" in 1582 AD.
+
+Din-i-Ilahi was a syncretic religion which intended to merge
+
+the best elements of all the religions of the community. Indeed,
+
+the prophet of this new sect was Abul Fazl. Among Hindus,
+
+only Birbal accepted Din-i-Ilahi. Raja Bhagawan Das and Man
+
+Singh bluntly refused to embrace Din-i-Ilahi.
+</details>
+
+---
+
+**Q-GC67. 66th B.P.S.C. Re-Exam (Pre) 2020**
+
+Who promulgated Din-i-Ilahi ?
+
+- (a) Babar
+- (b) Akbar
+- (c) Jahangir
+- (d) Shah Jahan
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Akbar launched "Tauhid-i-Ilahi" or "Din-i-Ilahi" in 1582 AD.
+
+Din-i-Ilahi was a syncretic religion which intended to merge
+
+the best elements of all the religions of the community. Indeed,
+
+the prophet of this new sect was Abul Fazl. Among Hindus,
+
+only Birbal accepted Din-i-Ilahi. Raja Bhagawan Das and Man
+
+Singh bluntly refused to embrace Din-i-Ilahi.
+</details>
+
+---
+
+**Q-GC68. U.P.P.C.S. (Pre) 2000**
+
+Which historian said ‘’Din-i-Ilahi’’ is a religion ?
+
+- (a) Abul Fazl
+- (b) Abdul Qadir Badauni
+- (c) Nizamuddin
+- (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+"Din-i-Ilahi" was not a religion but an ideology based on Sufi
+
+pantheism. Jahangir’s contemporary Mohsin Fani mentioned
+
+Din-i-Ilahi as an independent religion in his text ‘’Dabistani-Mazahib’’.
+</details>
+
+---
+
+**Q-GC69. M.P. P.C.S. (Pre) 1991**
+
+Who constructed Ibadat Khana ?
+
+- (a) Aurangzeb
+- (b) Alauddin Khalji
+- (c) Akbar
+- (d) Firuz Tughluq
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Akbar ordered the construction of Ibadat Khana in 1575
+
+A.D. for holding a philosophical and theological discussions
+
+with Ulemas, Sayyids, Shaikhs. But he opened the doors of
+
+Ibadat Khana for all schools of religion in 1578 A.D. These
+
+religious discussions in Ibadat Khana led to the declaration
+
+of Mahzarnama in 1579 AD. Mahzarnama put an end to the 
+
+Indian History General Studies B–291
+
+ predominance of the bigoted orthodox and allowed the free
+
+development of the generous spirit which Akbar wished
+
+to encourage. Mahzarnama is stated as infallibility decree
+
+by Smith and Wolseley Haig. Akbar was honoured with
+
+the title of Sultan-i-Adil or Imam-i-Adil after the issue of
+
+Mahzar. Smith said that "Din-i-Ilahi is monument of Akbar's
+
+foolishness, not of his wisdom".
+</details>
+
+---
+
+**Q-GC70. I.A.S. (Pre) 2014**
+
+Ibadat Khana at Fatehpur Sikri was –
+
+- (a) The mosque for the use of Royal Family
+- (b) Akbar’s private prayer chamber
+- (c) The hall in which Akbar held discussions with scholars of various religions
+- (d) The room in which the nobles belonging to different religions gathered to discuss religious affairs
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Akbar ordered the construction of Ibadat Khana in 1575
+
+A.D. for holding a philosophical and theological discussions
+
+with Ulemas, Sayyids, Shaikhs. But he opened the doors of
+
+Ibadat Khana for all schools of religion in 1578 A.D. These
+
+religious discussions in Ibadat Khana led to the declaration
+
+of Mahzarnama in 1579 AD. Mahzarnama put an end to the 
+
+Indian History General Studies B–291
+
+ predominance of the bigoted orthodox and allowed the free
+
+development of the generous spirit which Akbar wished
+
+to encourage. Mahzarnama is stated as infallibility decree
+
+by Smith and Wolseley Haig. Akbar was honoured with
+
+the title of Sultan-i-Adil or Imam-i-Adil after the issue of
+
+Mahzar. Smith said that "Din-i-Ilahi is monument of Akbar's
+
+foolishness, not of his wisdom".
+</details>
+
+---
+
+**Q-GC71. Uttarakhand P.C.S. (Pre) 2016**
+
+Which one of the following buildings is known as 'Shani-Fatehpur'?
+
+- (a) Buland Darwaja
+- (b) Turky Sultana Ka Mahal
+- (c) Jama Masjid
+- (d) Shahjadi Umber Ka Mahal
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Mughal emperor Akbar established Fatehpur Sikri (City of
+
+Victory) city. Established in present day Uttar Pradesh, it was
+
+capital of Mughal Kingdom from 1571 AD to 1585 AD. It
+
+houses monuments of Mughal architecture of likes of – Jama
+
+Masjid, Buland Darwaja, Panch Mahal, Tomb of Sheikh
+
+Salim Chishti etc. Jama Masjid situated here is also known
+
+as 'Shah-i-Fatehpur' or 'Shan-i-Sikri'.
+</details>
+
+---
+
+**Q-GC72. (c) Jodha Bai Palace (d) Akbari Mahal, Uttarakhand P.C.S. (Pre) 2012**
+
+Which monument is not at Fatehpur Sikri ?
+
+- (a) Golden Palace
+- (b) Panch Mahal
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Akbar had constructed palace with fort, around 37 km away
+
+from Agra at Fatehpur Sikri. Several buildings in Gujarat and
+
+Bengal styles have been found in this fort. Jodha Bai Mahal,
+
+Panch Mahal, Diwan-i-Aam, Diwan-i-Khas, Birbal ki Kothi
+
+are some of them. Akbari Mahal is located in the Fort of Agra.
+
+Other three are located in Fatehpur Sikri.
+</details>
+
+---
+
+**Q-GC73. R.A.S./R.T.S.(Pre) 2003**
+
+Which historical monument in Delhi is a synthesis of
+Persian and Indian styles of Architecture?
+
+- (a) Qutb Minar
+- (b) Lodi’s Tomb
+- (c) Humayun’s Tomb
+- (d) Red Fort
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Humayun’s tomb is located in Delhi which was constructed
+
+in the patronage of Humayun’s wife and designed by Mirak
+
+Mirza Ghiya. This tomb is an example of Persian and Indian
+
+architecture.
+</details>
+
+---
+
+**Q-GC74. Jharkhand P.C.S. (Pre) 2003**
+
+The theory of ‘’Sulh-i-Kul’’ was promulgated by :-
+
+- (a) Nizamuddin Auliya
+- (b) Akbar
+- (c) Zainul Abidin
+- (d) Shaikh Nasiruddin Chirag
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The major objective of the religious policy of Akbar was
+
+universal harmony better known as ‘’Sulh-i-Kul’’ policy.
+
+Akbar formulated the policy of Sulh-i-Kul in place of
+
+Islamic concept. He promulgated new sect "Din-i-Ilahi" for
+
+reconciliation between all religious schools in 1582 A.D.
+
+‘Sulh-i-Kul’ policy of Akbar reflects his political generosity
+
+and religious tolerance as well as his liberal cultural attitude.
+</details>
+
+---
+
+**Q-GC75. U.P.P.C.S. (Pre) 1998**
+
+The concept of ‘Sulh-i-Kul’ (universal peace and
+fraternity) adopted by Akbar was the result of :
+
+- (a) Political generosity
+- (b) Religious tolerance
+- (c) Liberal cultural attitude
+- (d) All the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The major objective of the religious policy of Akbar was
+
+universal harmony better known as ‘’Sulh-i-Kul’’ policy.
+
+Akbar formulated the policy of Sulh-i-Kul in place of
+
+Islamic concept. He promulgated new sect "Din-i-Ilahi" for
+
+reconciliation between all religious schools in 1582 A.D.
+
+‘Sulh-i-Kul’ policy of Akbar reflects his political generosity
+
+and religious tolerance as well as his liberal cultural attitude.
+</details>
+
+---
+
+**Q-GC76. U.P.P.C.S. (Mains) 2011**
+
+Against which Mughal Emperor was a ‘Fatwa’ issued
+from Jaunpur ?
+
+- (a) Humayun
+- (b) Akbar
+- (c) Shah Jahan
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+In 1580 A.D., a Ulema, Mulla Muhammad Yazdi from Jaunpur
+
+issued a ‘Fatwa’ against the Mughal emperor Akbar and asked
+
+all Muslims to rebel against the Mughal emperor, Akbar.
+</details>
+
+---
+
+**Q-GC77. State PCS**
+
+Consider the following statements :
+Assertion(A) : Constructed ''Buland Darwaza''at
+Fatehpur Sikri.
+Reason(R) : Akbar built this monument to
+commemorate the birth of his son
+Jahangir.
+Which one of the following is correct in reference of above:
+
+- (a) Both
+- (A) and (R) are true, and (R) is the correct explanation of
+- (A) . B
+- (b) Both
+- (A) and (R) are Wrong, but (R) is the correct explanation of
+- (A) .
+- (c) (A) is true, but (R) is false.
+- (d) (A) is false, but (R) is true. U.P. Lower Sub. (Pre) 1998
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Akbar annexed Gujarat in 1572-73 A.D. and named an
+
+earlier established city Fatehpur Sikri (Town in Agra
+
+district of Uttar Pradesh). A class of historians believes that
+
+Akbar erected Buland Darwaza of Sikri as victory tower to
+
+commemorate his victory over Gujarat while Percy Brown
+
+related its construction with the victory in South (1601).
+</details>
+
+---
+
+**Q-GC78. Uttarakhand P.C.S. (Pre) 2024**
+
+Akbar constructed the 'Buland Darwaza' to
+commemorate his victory in which region?
+
+- (a) Sindh
+- (b) Multan
+- (c) Odisha
+- (d) Gujarat
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Akbar annexed Gujarat in 1572-73 A.D. and named an
+
+earlier established city Fatehpur Sikri (Town in Agra
+
+district of Uttar Pradesh). A class of historians believes that
+
+Akbar erected Buland Darwaza of Sikri as victory tower to
+
+commemorate his victory over Gujarat while Percy Brown
+
+related its construction with the victory in South (1601).
+</details>
+
+---
+
+**Q-GC79. U.P.P.C.S. (Pre) 1993**
+
+Which of the following was built by Akbar ?
+
+- (a) Buland Darwaza
+- (b) Jama Masjid
+- (c) Qutb Minar
+- (d) Taj Mahal
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+& (b)
+
+Mughal emperor Akbar had built the Buland Darwaza and
+
+the Jama Masjid at Fatehpur Sikri.
+</details>
+
+---
+
+**Q-GC80. M.P.P.C.S. (Pre) 2014**
+
+Which of the following Mughal Emperors introduced
+educational reforms?
+
+- (a) Jahangir
+- (b) Shah Jahan
+- (c) Humayun
+- (d) Akbar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Akbar was the Mughal emperor who introduced educational
+
+reforms in the curriculum of learning, especially at the
+
+primary level. Certain important subjects like arithmetic,
+
+logic mensuration, geometry, astronomy, physiognomy,
+
+accountancy, public administration and agriculture were
+
+included in the course of study at his command. Though he
+
+received no formal education, he patronized men of learning.
+</details>
+
+---
+
+**Q-GC81. (c) Allahabad Fort (d) Fatehpur Sikri, R.A.S./R.T.S. (Pre) 1994**
+
+The finest monuments constructed by Akbar are found
+in–
+
+- (a) Agra Fort
+- (b) Lahore Fort
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+A village named Sikri was located around 37 Km away from
+
+Agra, the famous Sufi Sage Shaikh Salim Chishti resided
+
+there. Akbar used to visit Sikri frequently for his blessings.
+
+The finest monuments constructed by Akbar is found in
+
+Fatehpur Sikri-Diwan-i-Aam, Diwan-i-Khas, Treasury,
+
+Panch Mahal, Khas Mahal, Kothi of Turki Sultana, Jodha Bai
+
+Mahal, Kothi of Mariyam, Birbal Ki Kothi, etc. are major
+
+complexes of Sikri. Percy Brown stated Sikri as "Pearl of
+
+Architecture" due to its elegance.
+</details>
+
+---
+
+**Q-GC82. Jharkhand P.C.S. (Pre) 2003**
+
+Which monument built by Akbar architected alike
+Buddhist Monastery ?
+
+- (a) Panch Mahal
+- (b) Diwan-i-Khas
+- (c) Jodha Bai Mahal
+- (d) Buland Darwaza
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Akbar constructed various buildings at his new capital
+
+Fatehpur Sikri. Panch Mahal was a five-storey building and
+
+built on the pattern of a Buddhist monastery. This monument
+
+style is inspired by multi-storey buildings of Nalanda.
+</details>
+
+---
+
+**Q-GC83. Raj. P.C.S. (Pre) 2023**
+
+In which of the following palace built by Akbar
+in Fatehpur Sikri the Buddhist architecture was
+followed?
+
+- (a) Shaikh Salim Chisti's Tomb
+- (b) Buland Darwaja
+- (c) Panch Mahal
+- (d) Turki Sultana's Palace
+- (e) Question not attempted
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Panch Mahal's construction started under the regime of
+
+Emperor Akbar. Panch means five and the place has been
+
+named Panch Mahal because of its five storeys. Panch Mahal
+
+architecture resembles that of the Buddhist monasteries. The
+
+ground floor has 84 pillars that support the entire structure.
+</details>
+
+---
+
+**Q-GC84. U.P.P.C.S. (Spl) (Pre) 2004**
+
+Akbar constructed in Fatehpur Sikri –
+
+- (a) Moti Mahal
+- (b) Panch Mahal
+- (c) Rang Mahal
+- (d) Heera Mahal
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Panch Mahal's construction started under the regime of
+
+Emperor Akbar. Panch means five and the place has been
+
+named Panch Mahal because of its five storeys. Panch Mahal
+
+architecture resembles that of the Buddhist monasteries. The
+
+ground floor has 84 pillars that support the entire structure.
+</details>
+
+---
+
+**Q-GC85. M.P.P.C.S. (Pre) 1990**
+
+Jahangir Mahal is located at –
+
+- (a) Delhi
+- (b) Aurangabad
+- (c) Agra
+- (d) Lahore
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Agra Fort is the earliest example of Akbari style. This fort was
+
+built by Akbar. This monument was erected under the guidance
+
+of the chief architect of Akbar, Kasim Khan. Akbar had built 
+
+Indian History General Studies B–293
+
+more than 500 buildings in the fort by red sandstone. Jahangir
+
+Mahal is located inside of the Agra Fort. This palace was
+
+constructed for Shahzada Salim by Akbar. Jahangir Palace is
+
+one of the top examples of Mughal architecture with intricate
+
+Hindu and Islamic motifs. The architecture of Jahangir palace
+
+is inspired by the Palace of Man Singh of Gwalior.
+</details>
+
+---
+
+**Q-GC86. (c) Aurangabad (d) Fatehpur Sikri, U.P.P.C.S. (Pre) 1992**
+
+Where is the Tomb of Akbar located ?
+
+- (a) Sikandara
+- (b) Agra
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The tomb of Akbar is located at Sikandara, in a small
+
+village founded by Sikandar Lodi. Akbar named this place
+
+Bahistabad. It is situated on the outskirts of the Agra city.
+
+He commenced its construction plan but it was completed by
+
+his son Jahangir in 1613 A.D. This mammoth tomb has five
+
+story building. The speciality of the cenotaph is its domeless
+
+square apex.
+</details>
+
+---
+
+**Q-GC87. U.P.P.C.S. (Re. Exam) (Pre) 2015**
+
+Which of the following forts was not constructed in the
+reign of Akbar?
+
+- (a) Red Fort of Delhi
+- (b) Agra Fort
+- (c) Allahabad Fort
+- (d) Lahore Fort
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Red Fort of Delhi was not constructed during the period of
+
+Akbar. It was built in the period of Shah Jahan. It is famous as
+
+Red Fort as it is constructed with red sandstone. Its construction
+
+was completed in 1648 A.D. while Agra Fort, Allahabad Fort,
+
+and Lahore Fort were built in the reign of Akbar.
+</details>
+
+---
+
+**Q-GC88. U.P.P.C.S. (Mains) 2005**
+
+Match List-I with List-II and select the correct answer
+by using the codes given below the lists :
+List-I List-II
+(Emperors) (Tombs)
+A. Babur 1. Lahore
+B. Akbar 2. Agra
+C. Jahangir 3. Kabul
+D. Shah Jahan 4. Sikandara
+Code :
+A B C D
+
+- (a) 1 2 3 4
+- (b) 4 3 2 1
+- (c) 3 4 1 2
+- (d) 2 1 3 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Babur (1526-30 A.D.) - Kabul
+
+Akbar (1556-1605 A.D.) - Sikandara
+
+Jahangir (1605-1627 A.D.) - Lahore
+
+Shah Jahan (1628-1658 A.D.) - Agra
+</details>
+
+---
+
+**Q-GC89. Chhattisgarh P.C.S. (Pre) 2008**
+
+Match List- 1 (Mughal Ruler) with List- 2 (Place of
+Tomb) on the basis of codes –
+A. Babur 1.Delhi
+B. Humayun 2. Kabul
+C. Akbar 3. Lahore
+D. Jahangir 4. Sikandara
+Code :
+A B C D
+
+- (a) 1 2 3 4
+- (b) 2 1 4 3
+- (c) 3 4 1 2
+- (d) 4 3 2 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+(Ruler) - (Tomb)
+
+Babur - Kabul
+
+Humayun - Delhi
+
+Akbar - Sikandara
+
+Jahangir - Lahore
+</details>
+
+---
+
+**Q-GC90. R.A.S./R.T.S.(Pre) 1999**
+
+The translation of the Mahabharat into Persian in the
+time of Akbar was carried out under the supervision of :
+
+- (a) Utbi
+- (b) Naziri
+- (c) Abul Fazl
+- (d) Faizi
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Akbar established Translation Department under the
+
+supervision of his poet laureate Faizi. The translation of the
+
+Mahabharat into Persian at the time of Akbar was carried out
+
+under the direction of Faizi by the concerted effort of Naqib
+
+Khan, Badauni, Faizi etc.
+</details>
+
+---
+
+**Q-GC91. U.P.P.C.S. (RO/ARO) (Pre) 2016**
+
+Who among the following translated the Mahabharata
+into Persian?
+
+- (a) Abdul Qadir Badauni
+- (b) Abul Fazl
+- (c) Nizamuddin Ahmad
+- (d) Shaikh Mubarak
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Mahabharata was translated into the Persian language
+
+on the orders of Akbar, by Faizi, Naqib Khan, Abdul QadirBadauni etc. which was named as Razmnama (book of Wars).
+</details>
+
+---
+
+**Q-GC92. U.P.P.C.S. (Pre) 2003**
+
+The Persian translation of the Mahabharat is titled as–
+
+- (a) Anwar-i-Suhaili
+- (b) Razmnama
+- (c) Hasht Bahisht
+- (d) Ayar Danish U.P.P.C.S. (Pre) 2001 U.P.U.D.A./L.D.A. (Pre) 2002 B
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Mahabharata was translated into the Persian language
+
+named as ‘Razmnama’ with the joint effort of Badauni,
+
+Naqib Khan, Faizi, etc. Besides this, Badauni translated
+
+the ‘Ramayan,’ Faizi translated ‘‘Leelavati’’ and Abul Fazl
+
+‘‘Kaliyadaman’’ in the Persian language.
+</details>
+
+---
+
+**Q-GC93. R.A.S./R.T.S. (Pre) 2016**
+
+The Persian translation of Mahabharata, which was
+done in the 16th century is called
+
+- (a) Alamgirnama
+- (b) Razmnama
+- (c) Hamzanama
+- (d) Badshahnama
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The Mahabharata was translated into the Persian language
+
+named as ‘Razmnama’ with the joint effort of Badauni,
+
+Naqib Khan, Faizi, etc. Besides this, Badauni translated
+
+the ‘Ramayan,’ Faizi translated ‘‘Leelavati’’ and Abul Fazl
+
+‘‘Kaliyadaman’’ in the Persian language.
+</details>
+
+---
+
+**Q-GC94. U.P.P.C.S. (RO/ARO) (Pre) (Re-Exam) 2016**
+
+"Rajm-nama" is the Persian translation of which
+Hindu text?
+
+- (a) Ramayana
+- (b) Mahabashya
+- (c) Mahabharata
+- (d) Ashtadhyayi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The Mahabharata was translated into the Persian language
+
+named as ‘Razmnama’ with the joint effort of Badauni,
+
+Naqib Khan, Faizi, etc. Besides this, Badauni translated
+
+the ‘Ramayan,’ Faizi translated ‘‘Leelavati’’ and Abul Fazl
+
+‘‘Kaliyadaman’’ in the Persian language.
+</details>
+
+---
+
+**Q-GC95. U.P.P.C.S. (Pre) 2013**
+
+Who translated the Ramayan into the Persian
+language in accordance with the wishes of Akbar ?
+
+- (a) Abul Fazl
+- (b) Abdul Qadir Badauni
+- (c) Faizi
+- (d) Abdr Rahim Khan-i-Khanan
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The Mahabharata was translated into the Persian language
+
+named as ‘Razmnama’ with the joint effort of Badauni,
+
+Naqib Khan, Faizi, etc. Besides this, Badauni translated
+
+the ‘Ramayan,’ Faizi translated ‘‘Leelavati’’ and Abul Fazl
+
+‘‘Kaliyadaman’’ in the Persian language.
+</details>
+
+---
+
+**Q-GC96. U.P.P.C.S. (Mains) 2015**
+
+Who among the following translated Ramayana into
+the Persian language?
+
+- (a) Mulla Sheri
+- (b) Abul Fazl
+- (c) Faizi
+- (d) Abdul Qadir Badauni
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The Mahabharata was translated into the Persian language
+
+named as ‘Razmnama’ with the joint effort of Badauni,
+
+Naqib Khan, Faizi, etc. Besides this, Badauni translated
+
+the ‘Ramayan,’ Faizi translated ‘‘Leelavati’’ and Abul Fazl
+
+‘‘Kaliyadaman’’ in the Persian language.
+</details>
+
+---
+
+**Q-GC97. U.P.P.C.S. (Pre) 1995**
+
+Who of the following was awarded with the honour of
+“Zari qalam” by King Akbar :
+
+- (a) Muhammad Hussain
+- (b) Muqammal Khan
+- (c) Abdussamad
+- (d) Mir Sayyid Ali
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Muhammad Husain from Kashmir was one of the famous
+
+writers in Akbar’s court who was adorned with the honour
+
+of ‘Zari Qalam’ by King Akbar.
+</details>
+
+---
+
+**Q-GC98. U.P.P.C.S. (Mains) 2002**
+
+The Jain monk who stayed for a few years in the Court
+of Akbar and was honoured with the title of Jagadguru
+was
+
+- (a) Hemachandra
+- (b) Hari Vijay Suri
+- (c) Jinasena
+- (d) Umaswati
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Hari Vijay Suri was a Jain monk who stayed for a few years
+
+in the court of Akbar and was honoured with the title of
+
+Jagadguru. Emperor Akbar invited Hari Vijay Suri to explain
+
+the principles of Jainism. Akbar was so much influenced by
+
+the ideology of non-violence preached by Jain sage that he
+
+became vegetarian and prohibited slaughter of animals and
+
+birds. Another Jain scholar who resided in Mughal court was
+
+Jin Chandra Suri bestowed with the title of "Yug Pradhan"
+
+by Akbar.
+</details>
+
+---
+
+**Q-GC99. Chhattisgarh P.C.S. (Pre) 2024**
+
+Who among the following was conferred with the title
+of 'Jagat Guru' by Akbar?
+
+- (a) Jinachandra Suri
+- (b) Hir Vijay Suri
+- (c) Shanti Chandra
+- (d) Birbal
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the given question.
+</details>
+
+---
+
+**Q-GC100. U.P.P.C.S. (Pre) 2012**
+
+Famous Jain Scholar who was respected by Akbar?
+
+- (a) Chandraprabhu Suri
+- (b) Hari Vijay Suri
+- (c) Pushpadant
+- (d) Yashobhadra
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+See the explanation of the given question.
+</details>
+
+---
+
+**Q-GC101. R.A.S./R.T.S. (Pre) 1992**
+
+The famous painter of Mughal Emperor Akbar was –
+
+- (a) Abul Hasan
+- (b) Daswant
+- (c) Kisan Das
+- (d) Ustad Mansoor
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Abul Fazl had listed many outstanding painters in his text
+
+Ain-i-Akbari. Daswant, Basawan, Keshav Lal, Mukund,
+
+Miskin, Jagan, Mahesh, Khemkaran, Tara, Sanwal,
+
+Harivansh. Daswant , the son of a potter, impressed Akbar
+
+with his skills so much that he helped him become the first
+
+artist of his time. Unfortunately, when he was at the height
+
+of his glory, he became insane and committed suicide.
+</details>
+
+---
+
+**Q-GC102. U.P.P.C.S. (Mains) 2002**
+
+Indian ruler, contemporary of Queen Elizabeth-I of
+England, was
+
+- (a) Akbar
+- (b) Shah Jahan
+- (c) Aurangzeb
+- (d) Bahadur Shah
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Indian History General Studies B–295
+
+The Indian ruler, contemporary of Queen Elizabeth-I of
+
+England, was Akbar. It is notable that on the occasion of
+
+the establishment of East India Company in 1600 AD,
+
+Elizabeth was the empress of England. India had the reign
+
+of Akbar during that period (1556-1605 A.D.). The tenure
+
+of Elizabeth-I was 1558 to 1603 AD.
+</details>
+
+---
+
+**Q-GC103. 63rd B.P.S.C (Pre.) 2017**
+
+Who was the ruler of India when the English East India
+Company was formed?
+
+- (a) Aurangzeb
+- (b) Akbar
+- (c) Jahangir
+- (d) Humayun
+- (e) None of the above/ More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+English East India Company was formed in the year 1600
+
+A.D.. Elizabeth was the Empress of England and Akbar was
+
+the emperor of India at that time.
+</details>
+
+---
+
+**Q-GC104. (c) Raskhan (d) Abul Fazl, I.A.S. (Pre) 1997**
+
+The medieval Indian writer who refers to the discovery
+of America is :
+
+- (a) Malik Muhammad Jaisi
+- (b) Amir Khusrau
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Abul Fazl was a writer of medieval period who refers to the
+
+discovery of America.
+</details>
+
+---
+
+**Q-GC105. Jharkhand P.C.S. (Pre) 2003**
+
+First Englishman who visited Akbar’s court was –
+
+- (a) Ralph Fitch
+- (b) Sir Thomas Roe
+- (c) John Hawkins
+- (d) Peter Mundi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Ralph Fitch (1583-86 A.D.) was the first English merchant
+
+who visited Agra and Fatehpur Sikri. He observed various
+
+places of India by travelling and presented precious narrative
+
+about Indian trade points and township centres of the 16th
+
+century.
+</details>
+
+---
+
+**Q-GC106. U.P.P.C.S. (UDA/LDA) (Pre) 2006, U.P.P.C.S. (Mains) 2003**
+
+Arrange the following events of Akbar’s regime in their
+chronological order :
+1. Abolition of Jizya
+2. Construction of Ibadat Khana
+3. Signing of Mahzar
+4. Foundation of Din-i-Ilahi
+Select the correct answer from the codes given below :
+
+- (a) 1, 2, 3, 4
+- (b) 2, 3, 4, 1
+- (c) 1, 3, 2, 4
+- (d) 3, 4, 1, 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Akbar abolished Jizya in 1564 A.D.. The construction of
+
+Ibadat Khana occurred in 1575 A.D. whose main purpose was
+
+to facilitate philosophical and theological discussions. The
+
+declaration of Mahzarnama was held in 1579 A.D. which was
+
+prepared by Shaikh Mubarak, the father of Abul Fazl. Akbar
+
+founded Din-i-Ilahi in 1582 A.D. for religious harmony.
+</details>
+
+---
+
+**Q-GC107. Chhattisgarh P.C.S. (Pre) 2022**
+
+What among the following is/are true about the
+priests who were sent to Akbar's court to resolve his
+curiosities toward Christianity in 1595 by Goa Church
+Authorities?
+(i) This was the third mission of Goa Church
+Authorities which was sent to Akbar's court.
+(ii) This session met Akbar in Lahore.
+(iii)Antonio Monserrate was included in this mission.
+
+- (a) Only (i)
+- (b) (i) and (ii)
+- (c) (i) and (iii)
+- (d) (i), (ii) and (iii)
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Goa Church authorities sent a group of priests to Akbar in
+
+1595 AD to satisfy his curiosities towards Christianity. This
+
+was the third mission sent by Goa Church authorities to the
+
+court of Akbar, before this, the first mission had arrived.
+
+in Fatehpur Sikri in 1580 AD and the second mission had
+
+arrived in Lahore in 1591 AD. The third mission also met
+
+Akbar in Lahore. This mission was led by Jerome Xavier,
+
+nephew of missionary saint Francis Xavier. One member of
+
+this mission was Antonio Monserrate, whom Akbar hired as
+
+a tutor for his son Murad.
+</details>
+
+---
+
+**Q-GC108. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Akbar merged Bengal and Bihar in his empire :
+
+- (a) 1590 A.D.
+- (b) 1575 A.D.
+- (c) 1576 A.D.
+- (d) 1572 A.D.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Daud Khan succeeded his father Sulaiman Karrani in 1572
+
+AD after his death. Daud Khan invaded Patna Mughal fort
+
+after declaring himself an independent ruler. Akbar ordered
+
+Munim Khan to suppress this revolt and occupy Bihar.
+
+Munim Khan defeated Daud Khan in a battle and annexed
+
+Bihar in 1574 AD. Daud fled away to Bengal after his defeat.
+
+On 12 July, 1576 AD Todarmal, defeated Daud. Thus, Akbar
+
+merged Bengal and Bihar in his empire in 1576 AD.
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09-29T08:48:02+05:30.
+
+The user's current state is as follows:
+Active Document: c:\Users\Axeno\Desktop\UP-PCS\scratch\inspect_t3_pyqs.py (LANGUAGE_PYTHON)
+Cursor is on line: 1
+Other open documents:
+- c:\Users\Axeno\Desktop\UP-PCS\scratch\inspect_t3_pyqs.py (LANGUAGE_PYTHON)
+</ADDITIONAL_METADATA>
+</details>
+
+---
+
+
+### 7.14 Master Fact-Locks — Jahangir, Shah Jahan & Aurangzeb (Ghatnachakra Complete Alignment)
+
+| Category / Entity | Specific Details & Exam Anchors | Historic Context |
+|---|---|---|
+| **Jahangir's Reign & Reforms** | • Born 30 Aug 1569; married **Man Bai** (daughter of Bhagwan Das of Amber; mother of Khusrau) in 1584, and **Jagat Gosai** (daughter of Mota Raja Udai Singh of Marwar; mother of Khurram/Shah Jahan).<br>• Coronation in Agra fort (1605) taking title *Nuruddin Muhammad Jahangir Badshah Ghazi*.<br>• **Do-aspa and Sih-aspa System:** Introduced by Jahangir; mansabdars had to maintain double (*Do-aspa*) or triple (*Sih-aspa*) the number of horses relative to their Sawar rank without an elevation in their Zat rank.<br>• **Treaty of Chittor (1615 CE):** Signed between Jahangir and Rana Amar Singh of Mewar; Mewar accepted Mughal allegiance and Chittorgarh fort was restored to the Rana.<br>• **Nur Jahan's Junta:** Formed by Empress Nur Jahan, her mother Asmat Begum (inventor of rose *ittar*), her father Mirza Ghiyas Beg (Itmad-ud-Daula), her brother Asaf Khan, and Prince Khurram (until his revolt in 1622).<br>• **Foreign Delegations:** Captain **William Hawkins** (1608–1611, sent by EIC, given 400 mansab and title *English Khan*, married an Armenian lady); **Sir Thomas Roe** (1615–1619, official ambassador of King James I, received at Ajmer court in Jan 1616, visited Mandu and Ahmedabad with Emperor); Dutch merchant **Francisco Pelsaert** (*The Remonstrantie of Francisco Pelsaert*).<br>• **Rebellions:** Eldest son Prince Khusrau revolted in 1606 (suppressed at Bhairowal); Prince Khurram rebelled in 1623 (suppressed by Mahabat Khan); Mahabat Khan's coup occurred in 1626.<br>• **Architecture:** Tomb of **Itmad-ud-Daula** at Agra (built by Nur Jahan, 1622–1628; first monument in India made entirely of white marble; first extensive use of ***Pietra dura*** floral inlay work); **Govind Palace** in Datia (MP), 7-storey stone palace built by Raja Bir Singh Deo (1614); Jahangir's tomb at **Shahdara** (Lahore, Pakistan). | High Mughal Era (1605–1627) |
+| **Shah Jahan's Golden Age** | • Born 1592 in Lahore to Jagat Gosai; married Arjumand Banu Begum (**Mumtaz Mahal**, daughter of Asaf Khan) in 1612; crowned at Agra taking title *Abul Muzaffar Shihabuddin Muhammad Sahib Kiran-i-Sani*.<br>• Transferred capital from Agra to **Shahjahanabad** (Delhi) in 1638.<br>• **Deccan Annexation:** Ahmadnagar finally annexed to Mughal empire in 1633 (Hussain Shah III imprisoned at Gwalior); Shahaji Bhonsle fought until 1636 before surrendering Murtaza Nizam Shah III.<br>• **Qandahar Strategy:** Qandahar permanently lost to Safavid Persia under Shah Jahan (1649), exposing the northwestern frontier.<br>• **Balkh & Badakhshan Campaign:** Motive was to secure a friendly ruler in Balkh and Badakhshan as a buffer state bordering Kabul against Persians and Uzbeks.<br>• **Abolition of Sijda:** Abolished the Persian prostration court custom (*Sijda*) instituted by Balban in 1636–37 CE, replacing it with *Chahar Taslim*.<br>• **Scholarship & Dara Shikoh:** Dara Shikoh translated 52 Upanishads into Persian under the title ***Sirr-i-Akbar***; composed ***Majma-ul-Bahrain*** (*"Mingling of the Two Oceans"*); honored with title *Shah Buland Iqbal*, called "Little Akbar" by Lane-Poole; buried in Humayun's Tomb complex, Delhi.<br>• **Banaras Delegation:** Kavindra Acharya Saraswati led Banaras pandits and persuaded Shah Jahan to abolish the pilgrimage tax on Prayag and Kashi; composed *Kavindra Kalplata*.<br>• **Kohinoor Diamond:** Presented to Shah Jahan by the Persian noble and Golconda minister/diamond dealer **Mir Jumla** (Muhammad Said). | Zenith of Architecture (1628–1658) |
+| **Aurangzeb's Reign & Orthodoxy** | • Crowned twice: first on 21 July 1658 at Delhi; second on 5 June 1659 after victories at Khajwa and Deorai (*Abul Muzaffar Muhiuddin Muhammad Aurangzeb Bahadur Alamgir Padshah Ghazi*).<br>• **War of Succession Battles:** Dharmat (15 April 1658, Aurangzeb & Murad defeat Jaswant Singh near Ujjain), Samugarh (29 May 1658, defeat Dara Shikoh), Khajwa (5 Jan 1659, defeat Shuja), Deorai (April 1659, final capture of Dara).<br>• **Sulaiman Shikoh's Fate:** Dara's son took refuge in Srinagar Garhwal with Raja Prithvi Singh; betrayed by successor Medini Singh, handed over to Aurangzeb, poisoned with opium in Gwalior fort.<br>• **Treaty of Purandar (June 1665):** Raja Jai Singh forced Shivaji to surrender 23 of 35 forts.<br>• **Deccan Conquests:** Captured Bijapur (1686, Sikandar Adil Shah) and Golconda (1687, Abul Hasan Qutb Shah, fort opened by *keys of gold* bribing Sarandaz Khan).<br>• **High Hindu Representation:** Reached highest percentage of Hindu generals in Mughal history (**31.6%**, majority Marathas), surpassing Akbar (22.5%) and Shah Jahan (22.4%).<br>• **Re-imposition of Jizya (1679 CE):** Structured on 3 income tiers (12, 24, 48 dirhams); exempted women, children <14, slaves, disabled, and beggars; imposed on Brahmins and subordinate rulers.<br>• **Orthodoxy & Banning:** Banned court music, Jharokha Darshan, court Nauroz, and court celebration of Holi, Diwali, Basant; stopped putting imperial tilak on Rajput rajas; known as ***Zinda Peer*** ("Living Saint") and ***Shahi Darvesh***.<br>• **Monuments:** **Bibi Ka Maqbara** at Aurangabad (tomb of wife Rabia-ud-Daurani, built by son Azam Shah / Aurangzeb, styled *"Second Taj Mahal"* / *"Mini Taj"*); **Moti Masjid** inside Red Fort, Delhi.<br>• Daughters: Mehrunnisa, Zebunnisa, Zinatunnisa, Badrunnisa, Zubdatunnisa. Conferred title *Sahibat-uz-Zamani* upon sister Jahanara Begum. Contemporary of Maharashtra saint **Samarth Ramdas** (1608–1681). | Orthodox Imperialism (1658–1707) |
+
+### 7.15 Master Fact-Locks — Mughal Imperial Administration & Currency
+
+| Department / Office | Official Designation / Term | Scope & Functions |
+|---|---|---|
+| **Provincial Tiers** | **Suba $
+ightarrow$ Sarkar $
+ightarrow$ Pargana $
+ightarrow$ Gram** | *Chakla* introduced under Shah Jahan as an intermediate administrative tier between Suba and Pargana (not identical to Sarkar). |
+| **Sarkar Officials** | **Faujdar & Amalguzar** | • **Faujdar:** Executive military & police head of Sarkar.<br>• **Amalguzar:** Chief revenue assessment & collection officer.<br>• **Bitikchi:** Revenue scribe & record keeper.<br>• **Khajandar:** District treasurer.<br>• **Kotwal:** Urban municipal police chief. |
+| **Central Ministries** | **Mir Bakshi & Diwan-i-Tan** | • **Mir Bakshi:** Head of military administration, inspects *dagh* (branding) and *chehra* (rolls), issues pay certificate (*Sarkhat*); called *Vetanadhikari* (Pay Master) by Jadunath Sarkar.<br>• **Diwan-i-Tan:** In charge of salaries and jagir allotments.<br>• **Muhtasib:** Censor of public morals, checks weights and measures, enforces Shariat canon law. |
+| **Standing Troops** | **Ahadis & Dakhilis** | • **Ahadi:** Gentlemen troopers recruited directly by the Emperor, paid by imperial treasury, served as royal bodyguards.<br>• **Dakhili:** Troops recruited and paid by imperial treasury but assigned to serve under various Mansabdars. |
+| **Charity Grants** | **Madad-i-Mash (Sayurghal)** | Tax-free land grants given to scholars, theologians, and pious men; superintended by imperial **Sadr**; hereditary and non-transferable. |
+| **Coinage System** | **Mohur, Rupee, Dam** | • **Mohur:** Standard gold coin.<br>• **Rupee (रुपिया):** Standard silver coin (178 grains weight, 173 gr pure silver). Babur's silver coin was *Shahrukh*.<br>• **Dam (दाम):** Standard copper coin (380 grains weight; tariffed at 40 Dams to 1 Rupee under Akbar).<br>• *Ram-Siya coins:* Rare gold and silver coins issued by Akbar depicting Rama and Sita with Devanagari legend.<br>• *Portrait coins:* Jahangir issued coins bearing his portrait holding a wine cup and naming Nur Jahan.<br>• *Coin classifications:* **Taza Sikka** (newly minted), **Chalani** (current reign circulation), **Khazana** (coins of previous reigns). |
+| **Revenue Sharing** | **Bantai (Galla Bakshi)** | Real crop produce divided between state and cultivator: *Khet Bantai* (standing field), *Lank Bantai* (heaped sheaves before threshing), *Raasi Bantai* (grain heaps after threshing). In Deccan under Akbar, revenue assessed on *number of plows*. |
+| **Imperial Canals** | **Shahab Canal (Nahr-i-Bihisht)** | Restored from Firuz Shah Tughluq's ancient *Rajabwah* canal by governor Shihabuddin Khan under Akbar, and later renovated as *Shah Nahr* under Shah Jahan to supply water to Red Fort Delhi. |
+
+---
+
+
+### 7.16 Master Fact-Locks — Foreign Chroniclers, Strategic Geography & Syncretic Culture
+
+| Topic / Entity | Specific Details & High-ROI Exam Anchors | Official Exam Significance |
+|---|---|---|
+| **Foreign Chroniclers & Sovereigns Alignment** | • **Akbar:** Ralph Fitch (1583–1586, first English traveler to visit Mughal India); Father Antonio Monserrate (Jesuit mission).<br>• **Jahangir:** Captain William Hawkins (1608–1611, sent by EIC, received mansab of 400 and title *'English Khan'*); Nicholas Downton (1614–1615); Sir Thomas Roe (1615–1619, ambassador of King James I, received at Ajmer in 1616, visited Mandu & Ahmedabad); Francisco Pelsaert (Dutch merchant, author of *The Remonstrantie*).<br>• **Shah Jahan:** Peter Mundy (British traveler); Jean-Baptiste Tavernier (French gem merchant, six journeys between 1638–1663, provided elaborate accounts of Indian diamond mines and Golconda).<br>• **Aurangzeb:** Niccolao Manucci (Italian artilleryman under Dara Shikoh, later physician in Mughal service, author of *Storia do Mogor*). | Chronological sequence & royal courts alignment |
+| **Palace of Forty Pillars at Allahabad** | Described by English traveler **William Finch**, who recorded that **5,000 to 20,000 men** laboured continuously for **40 years** to construct Akbar's monumental palace fortress at Prayagraj (Allahabad). | Architecture chronicles |
+| **Gate of Mecca (Babul Mecca)** | The imperial seaport of **Surat** was celebrated throughout the Islamic world as ***Babul Mecca*** (Gate of Mecca), *Meccai Dwar*, and *Meccabari*, serving as the chief port of departure for Indian Hajj pilgrims sailing across the Arabian Sea. | Maritime & trade geography |
+| **Nowruz Festival** | National celebration adopted from ancient Persian/Zoroastrian traditions; celebrated with lavish royal splendor for **19 days**; historian Badauni referred to it as *Nowruz-i-Jalali*. | Imperial court rituals |
+| **Islamic Jurisprudence (Fiqh) Academy** | The celebrated **Farangi Mahal Madarsa at Lucknow** emerged during the Mughal period as India's preeminent center specializing in Islamic jurisprudence (*Fiqh*), founded on the standardized curriculum ***Dars-i-Nizami*** designed by scholar **Mulla Nizamuddin Sihalvi**. | Legal education & Islamic scholarship |
+| **Chronology of Akbari Court Landmarks** | 1. Death of Sheikh Mubarak (father of Abul Fazl & Faizi): **1593 CE**<br>2. Death of poet-laureate Faizi: **1595 CE**<br>3. Murder of Abul Fazl (by Raja Bir Singh Deo Bundela on Salim's order): **1602 CE**<br>4. Death of Prince Daniyal: **1605 CE** | Late Akbari court timeline |
+| **Iconic Heroines & Warriors of Medieval India** | 1. **Rani Padmini of Chittor:** Queen of Rana Ratan Singh; led mass *Jauhar* in **1303 CE** during Alauddin Khalji's siege.<br>2. **Rani Durgavati of Gondwana:** Warrior queen of Garha-Katanga; fought fiercely against Akbar's general Asaf Khan in **1564 CE** before stabbing herself to protect royal honor.<br>3. **Tarabai Bhonsle:** Brave widow of Rajaram; led Maratha resistance against Aurangzeb from **1700 to 1707 CE** and recovered major forts.<br>4. **Ahilyabai Holkar:** Benevolent philosopher-queen of the Holkar dynasty of Indore (r. **1767–1795 CE**); constructed temples, ghats, and pilgrim rest houses across India. | Chronological alignment of Indian heroines |
+| **Imperial Mausoleums Geography** | • **Shaikh Salim Chishti:** Fatehpur Sikri (Agra district, UP).<br>• **Itmad-ud-Daula:** Agra (Yamuna bank, UP; pure white marble with Pietra dura).<br>• **Abdur Rahim Khan-i-Khanan:** Nizamuddin, New Delhi (prototype for the Taj Mahal dome).<br>• **Aurangzeb:** Khuldabad (near Daulatabad / Chhatrapati Sambhaji Nagar, Maharashtra). | Tomb locations alignment |
+| **Lucknow Architecture Masterpieces** | **Bara Imambara** and **Rumi Darwaza** were built by Nawab **Asaf-ud-Daula** (1784 CE) during a severe famine relief program; constructed purely of **Lakhori bricks and lime plaster** (stucco moulding) **without any iron beams, stone, or marble**; the vaulted central hall is one of the world's largest unsupported brick arches. | Materiality & structural engineering |
+| **Chronological Sequence of Monumental Architecture** | 1. **Atala Mosque, Jaunpur:** c. **1408 CE** (Ibrahim Shah Sharqi).<br>2. **Sher Shah Suri's Tomb, Sasaram:** c. **1545 CE** (Octagonal island tomb in lake).<br>3. **Humayun's Tomb, Delhi:** **1565–1572 CE** (supervised by Haji Begum, architect Mirak Mirza Ghiyas).<br>4. **Rabia Daurani's Tomb (Bibi Ka Maqbara), Aurangabad:** **1678 CE** (architect Ataullah, built by Prince Azam Shah / Aurangzeb). | Monumental architectural evolution |
+| **Navigational Term — Muallim** | Traditional title for the **master navigator** on Indian Ocean merchant vessels, who employed spherical navigational instruments (astrolabes/kamal) and astronomical readings to chart course across the open sea. | Indian maritime commerce |
+| **Banjaras & Sarais in Medieval Economy** | • **Banjaras:** Specialized merchant-transporter community organized in massive bullock caravans (*tanda*), transporting surplus food grains, salt, and ghee over hundreds of miles to imperial cities and military camps.<br>• **Sarais:** Extensive network of brick/stone fortified rest-houses established along major imperial highways; provided free/cheap lodging to travelers, fostering syncretic cultural mixing across regions. | Agrarian economy & trade logistics |
+| **Land & Currency Terminology Matrix** | • **Dam:** Standard Mughal copper coin introduced by Akbar (40 dams = 1 silver rupee).<br>• **Desai:** Traditional hereditary district-level revenue collector in Maharashtra and the Deccan.<br>• **Diwan:** Provincial head of finance and revenue (*Diwan-i-Suba*), directly accountable to the imperial Diwan.<br>• **Jarib:** Standard land-measuring unit introduced under Akbar's *Zabti* system (bamboo rods connected with iron rings, replacing the older hemp ropes that shrank or stretched with humidity). | Administrative terminology |
+
+---
+## Complete PYQ Bank — Ghatnachakra Jahangir
+
+Complete unabridged 33-question bank from Ghatna Chakra covering Jahangir's accession, Do-aspa and Sih-aspa system, Treaty of Chittor (1615), Nur Jahan Junta, visits of William Hawkins (English Khan) & Sir Thomas Roe, Francisco Pelsaert, court painters (Ustad Mansur, Abul Hasan), Tuzuk-i-Jahangiri, rebellions of Khusrau & Shah Jahan, Tomb of Itmad-ud-Daula (first white marble, Pietra dura), and Govind Palace in Datia. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC109. 46th B.P.S.C. (Pre) 2004**
+
+Who introduced ‘Do-aspa and Sih-aspa’ system?
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Shah Jahan
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+‘Do-aspa and Sih-aspa’ system was introduced by Jahangir.
+
+Under the provision of this system, Mansabdars had to
+
+maintain an excess number of soldiers without increment
+
+in rank (zat).
+
+Do-aspa : In this system, Mansabdars had to maintain double
+
+horses in comparison to their ‘Sawar’ rank.
+
+Sih-aspa : In this system, Mansabdars had to maintain a
+
+triple number of horses in comparison to their ‘Sawar’ rank.
+</details>
+
+---
+
+**Q-GC110. U.P.P.C.S. (Pre) 2008**
+
+In whose reign was the ‘Treaty of Chittor’ signed
+between Mughal and the Rana of Mewar ?
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Shah Jahan
+- (d) Aurangzeb U.P. Lower Sub. (Pre) 2008
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Indian History General Studies B–297
+
+It was the reign of Jahangir in which the ‘’Treaty of Chittor’’
+
+was signed between Mughals and Rana of Mewar in 1615
+
+A.D. Rana accepted the allegiance of Mughal emperor and
+
+Jahangir returned Mewar and Chittorgarh to Rana which were
+
+annexed by Mughals during the reign of Akbar.
+</details>
+
+---
+
+**Q-GC111. U.P.P.C.S. (Pre) 1993**
+
+Who of the following was sent first by East India
+Company to the court of Jahangir ?
+
+- (a) Sir Thomas Roe
+- (b) Vasco-da-Gama
+- (c) Hawkins
+- (d) Job Chornok
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+William Hawkins (1608-11 A.D.) was the first English
+
+ambassador of English East India Company to visit the court
+
+of Jahangir. He was sent by East India Company in 1608 AD.
+
+He stayed at the royal court for 3 years. Jahangir honoured him
+
+with mansab of 400. Sir Thomas Roe was the leader of the second
+
+delegation to visit the court of Jahangir. Sir Thomas Roe was the first
+
+ambassador sent by British King James-I to the court of Jahangir.
+</details>
+
+---
+
+**Q-GC112. U.P.P.C.S. (Pre) 2013**
+
+Who among the following is the envoy of British King
+James- I was sent to Jahangir’s court?
+
+- (a) William Hawkins
+- (b) William Finch
+- (c) Pitra Della Villa
+- (d) Edward Terry
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC113. 40th B.P.S.C. (Pre) 1995**
+
+Whom of the following Englishmen did Jahangir
+respect with title ‘English Khan’?
+
+- (a) Hawkins
+- (b) Sir Thomas Roe
+- (c) Edward Terry
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Hawkins was the first English sent by English East India
+
+Company to visit the court of Jahangir in 1608 A.D. Jahangir
+
+was so much impressed by Hawkins that he gave him the
+
+title of ‘English Khan’ and also made him marry a lady
+
+from Armenia.
+</details>
+
+---
+
+**Q-GC114. U.P.P.C.S. (Re. Exam) (Pre) 2015**
+
+Mughal Emperor Jahangir gave the title ‘EnglishKhan’ to :
+
+- (a) Albuquerque
+- (b) Francisco Almeida
+- (c) William Hawkins
+- (d) Henry the Navigator
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Hawkins was the first English sent by English East India
+
+Company to visit the court of Jahangir in 1608 A.D. Jahangir
+
+was so much impressed by Hawkins that he gave him the
+
+title of ‘English Khan’ and also made him marry a lady
+
+from Armenia.
+</details>
+
+---
+
+**Q-GC115. U.P.P.C.S. (Mains) 2008**
+
+Sir Thomas Roe came to India as a British Ambassador
+during the reign of –
+
+- (a) Akbar
+- (b) Aurangzeb
+- (c) Jahangir
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Sir Thomas Roe visited India during the reign of Jahangir as
+
+a British ambassador. As a representative of England King
+
+James-I, Sir Thomas Roe (1615-1619 A.D.) narrated a clear
+
+picture of Jahangir’s rule. He was sent to Mughal Court to
+
+acquire favourable facilities for the trade of British with India.
+</details>
+
+---
+
+**Q-GC116. 67th B.P.S.C. (Pre) 2022**
+
+During the time of which Mughal Emperor did Sir
+Thomas Roe come to India?
+
+- (a) Babur
+- (b) Akbar
+- (c) Jahangir
+- (d) Shah Jahan
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC117. R.A.S./R.T.S. (Pre) 1997**
+
+Sir Thomas Roe, an Ambassador of James I of
+England came to India in year :
+
+- (a) 1616
+- (b) 1615
+- (c) 1516
+- (d) 1614
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Sir Thomas Roe arrived in Surat on 18 September, 1615 as
+
+Ambassador of British King James-I. He attended the court
+
+of Jahangir in Ajmer in 1616. He got the opportunity to visit
+
+Mandu, Ahmedabad and Ajmer with the emperor. He also went
+
+for hunting with the emperor. He stayed for one year in Agra.
+</details>
+
+---
+
+**Q-GC118. M.P. P.C.S. (Pre) 2010**
+
+Which British ambassador came behind Jahangir from
+Ajmer to Mandu ?
+
+- (a) Clive
+- (b) Sir Thomas Roe
+- (c) Lord Ester
+- (d) Clyde
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Thomas Roe arrived in Mughal court in 1616 A.D. He got
+
+the opportunity to visit Mandu, Ahmedabad, Ajmer, etc. with
+
+the emperor. He went with the emperor for hunting.
+</details>
+
+---
+
+**Q-GC119. (c) Delhi (d) Fatehpur Sikri, U.P.P.C.S. (Mains) 2007**
+
+Thomas Roe was received in audience by Jahangir at :
+
+- (a) Agra
+- (b) Ajmer
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Thomas Roe met Jahangir in 1616 A.D. at Ajmer. He stayed
+
+in India till 1619 AD. In 1619 AD, he returned England with
+
+the decree of Jahangir that the British would be welcomed
+
+in Mughal court with great zeal.
+</details>
+
+---
+
+**Q-GC120. U.P.P.C.S. (Pre) 2021**
+
+Arrange the following foreign travellers in chronological
+order of their arrival in India.
+I. William Hawkins II. Ralph Fitch
+B
+III. Sir Thomas Roe IV. Nicholas Dawnton
+Select the correct answer using the codes given below.
+Codes :
+
+- (a) II, I, IV and III
+- (b) IV, II, I and III
+- (c) I, III, II and IV
+- (d) III, II, IV and I
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+William Hawkins was ambassador of East India company
+
+who came to Surat in 1608 AD and went to Court of Jahangir
+
+in 1609 AD in Agra. Ralph Fitch was the first English traveller
+
+to come to India in 1583 AD. Sir Thomas Roe was British
+
+ambassador who came to Court of Jahangir in January, 1616
+
+AD. Nicholas Dawnton came to India in 1614-15 AD.
+</details>
+
+---
+
+**Q-GC121. U.P.P.C.S. (UDA/LDA) (Mains) 2010**
+
+A Dutch traveller, who has given a very valuable
+account of the reign of Jahangir was
+
+- (a) Francisco Pelsaert
+- (b) Hawkins
+- (c) Niccolo Manucci
+- (d) Peter Mundy
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Peter Mundy was a British traveller who came during the
+
+reign of Shahjahan. Niccolo Manucci was an Italian traveller
+
+who came to India at the time of succession war. William
+
+Hawkins arrived in India during the reign of Jahangir.
+
+Francisco Pelsaert was a Dutch traveller who came to India
+
+during Jahangir’s period. He left a unique account of Mughal
+
+empire in his text "Jahangir's India : The Remonstrantie of
+
+Francisco Pelsaert".
+</details>
+
+---
+
+**Q-GC122. U.P.P.C.S. (Pre) 2017**
+
+Who among the following foreign travellers visited
+India during the reign of Jahangir?
+
+- (a) Father Anthony Monserate
+- (b) Francisco Pelsaert
+- (c) Niccolo Manucci
+- (d) Francois Bernier
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC123. U.P.P.C.S. (Pre) 1991**
+
+Which Mughal emperor has no mausoleum in India?
+
+- (a) Aurangzeb
+- (b) Jahangir
+- (c) Humayun
+- (d) Babur
+
+<details><summary>Show answer</summary>
+
+**Answer: (b & d)**
+
+**Explanation:**
+The mausoleums of Mughal emperors Babur and Jahangir are
+
+located in Kabul and Shahdara (Lahore) respectively. Both of
+
+them are located in Afghanistan and Pakistan, respectively.
+
+Thus, both options (b) and (d) are correct.
+</details>
+
+---
+
+**Q-GC124. (c) Lahore (d) Srinagar, Uttarakhand Lower (Sub.) (Pre) 2010**
+
+Where was Emperor Jahangir buried ?
+
+- (a) Agra
+- (b) Delhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC125. U.P.P.C.S. (RO/ARO) (Pre) 2016**
+
+Among the following, whose tomb is situated outside
+India?
+
+- (a) Humayun
+- (b) Aurangzeb
+- (c) Jahandar Shah
+- (d) Jahangir
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Jahangir was buried in a tomb garden at Shahdara, outside India.
+
+Jahangir died in 1627 AD and was buried in Shahdara, Lahore.
+</details>
+
+---
+
+**Q-GC126. I.A.S. (Pre) 1996**
+
+Mughal painting reached its zenith under :
+
+- (a) Humayun
+- (b) Akbar
+- (c) Jahangir
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Mughal painting reached its zenith under the reign of
+
+Jahangir. Earlier, the paintings were concerned with the
+
+contents of manuscripts, but Jahangir freed it from this
+
+bondage. Farrukh Beg, Daulat, Mansur, Abul Hasan, etc.
+
+were such painters who had inscribed their names in a golden
+
+word in the history of Mughal painting with their talent.
+
+Ustad Mansur and Abul Hasan was an excellent painter of
+
+Jahangir’s reign. Emperor Jahangir bestowed both Nadirul-Asra (Ustad Mansur) and Nadir-ul-Zaman (Abul Hasan).
+
+Ustad Mansur was specialized in depicting plants and animals
+
+while Abul Hasan was a portrait artist.
+</details>
+
+---
+
+**Q-GC127. 65th B.P.S.C. (Pre) 2019**
+
+Mughal painting reached its zenith under :
+
+- (a) Jahangir
+- (b) Humayun
+- (c) Shahjahan
+- (d) Akbar
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC128. U.P.P.C.S. (Mains) 2013**
+
+Who among the following painters was given the title
+of ‘Nadir-ul-Zaman’ by Jahangir ?
+
+- (a) Abul Hasan
+- (b) Farrukh Beg
+- (c) Bishandas
+- (d) Agha Raza
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC129. U.P.P.C.S. (Mains) 2014**
+
+Who among of the following painters of Jahangir’s
+reign was conferred the title of ‘Nadir-ul-Asra’?
+
+- (a) Daulat
+- (b) Bishandas
+- (c) Manohar
+- (d) Mansur
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Indian History General Studies B–299
+
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC130. U.P.P.C.S. (Pre) 1998**
+
+The greatest painter of birds at Jahangir’s Court was:
+
+- (a) Khwaja Abdus Samad
+- (b) Sayyid Ali Tabrizi
+- (c) Basawan
+- (d) Mansur
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC131. U.P.P.C.S. (Pre) 2001, U.P.P.S.C. (GIC) 2010**
+
+Which of the following Mughal Emperors wrote his
+autobiography in Persian ?
+
+- (a) Babur
+- (b) Akbar
+- (c) Jahangir
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Jahangir was an outstanding author as well as a critic. He
+
+wrote his autobiography in Persian language and named it
+
+Tujuk-i-Jahangiri. Jahangir had recorded his merits as well as
+
+demerits in his autobiography. This memoir has been divided
+
+into three parts. The first part is the preface which was written
+
+by Muhammad Hadi after the death of Jahangir in which the
+
+early life of Jahangir is mentioned. The second part was an
+
+original piece of text narrated by Jahangir. The third part
+
+of the text was written by Muhammad Hadi. Babur wrote
+
+his autobiography ‘Tujuk-i-Babri’’ in the Turkish language.
+</details>
+
+---
+
+**Q-GC132. U.P.P.C.S. (Mains) 2003**
+
+The killer of Abul Fazl was rewarded by :
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Man Singh
+- (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The coronation of Jahangir took place in November, 1605
+
+AD. A week after the death of Akbar he assumed the title
+
+of ‘Nuruddin Muhammad Jahangir Badshah Ghazi.’ He
+
+provided high designations to his associates in his court in
+
+which the murderer of Abul Fazl, Raja Vir Singh Bundela
+
+was also rewarded. Jahangir started his reign with liberalism
+
+forwarding the customs and traditions of his father Akbar
+
+and issued the orders which demonstrated concern for the
+
+welfare of the people.
+</details>
+
+---
+
+**Q-GC133. U.P.P.C.S. (Pre) 2013**
+
+Of the following who had rebelled against the Mughal
+Emperor Jahangir ?
+(1) Asif Khan (2) Khurram
+(3) Mahabat Khan (4) Khusrau
+Code :
+
+- (a) 1 and 2 only
+- (b) 2 and 3 only
+- (c) 2 and 4 only
+- (d) 2,3 and 4 only
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Jahangir’s eldest son Khusrau revolted against Jahangir just
+
+after the coronation and was suppressed in 1606 A.D. The
+
+revolt of Shahzada Khurram was dismissed by the Mughal
+
+army under Mahabat Khan in 1623 A.D. In 1626 A.D.,
+
+Mahabat Khan revolted against Jahangir.
+</details>
+
+---
+
+**Q-GC134. M.P.P.C.S. (Pre) 2015**
+
+Khusrau was the son of which Mughal emperor ?
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Shah Jahan
+- (d) Bahadur Shah I
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Khusrau was the eldest son of Jahangir. His mother was
+
+Man Bai.
+</details>
+
+---
+
+**Q-GC135. U.P.P.C.S. (Mains) 2015**
+
+Who of the following was not a member of Noorjahan’s
+Junta?
+
+- (a) Jahangir
+- (b) Ghiyas Beg
+- (c) Asaf Khan
+- (d) Khurram
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Nur Jahan was a cultured, educated, intelligent dominating
+
+lady and ambitious wife of Mughal emperor Jahangir. Nur
+
+Jahan’s Junta consisted a group of five- herself, her mother
+
+Asmat Begum, her father Mirza Ghiyas Beg or Itmad-udDaula, her brother Asaf Khan and Prince Khurram (Son-inlaw of her brother Asaf Khan). Prince Khurram (known as
+
+Shah Jahan) had been allied with Nur Jahan through most
+
+of his father’s reign, but when she swung her support to her
+
+son-in-law Shaharyar, he left her Junta and rebelled.
+</details>
+
+---
+
+**Q-GC136. Uttarakhand P.C.S. (Pre) 2021**
+
+Who among the following was not a member of
+'Nurjahan's Junta'?
+
+- (a) Itimad-ud-Daulah
+- (b) Asaf Khan
+- (c) Mahabat Khan
+- (d) Khurram
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC137. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Itmad-ud-Daula’s tomb at Agra was built by
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Nur Jahan
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Tomb of Itmad-ud-Daula was built by Nur Jahan at Agra
+
+between 1622-1628 A.D. after the death of her father. This
+
+elegant monument is located on the left bank of river Yamuna.
+
+The main mausoleum is built with white marble. Itmad-udDaula has a special place in the chronicles of both history as 
+
+B
+
+well as architecture. The monument is priceless because this
+
+is the first tomb in India that is entirely made up of marble.
+
+In spite of marble and inlay work, it was for the first time
+
+when a new style of ornamentation, Pietradura, was used.
+</details>
+
+---
+
+**Q-GC138. 66th B.P.S.C. (Pre) 2020**
+
+Pietra dura is related to which of the following?
+
+- (a) Decorating the walls from floral designs made of semi-precious stones
+- (b) Building sloping walls in Minars
+- (c) Use of arch in construction
+- (d) Use of marble in buildings
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Pietra dura is related to decorating the walls from floral
+
+design made of semi-precious stone. It is noteworthy that in
+
+India, the inlay work named 'Pietra dura' was first done in the
+
+tomb of Itmad-ud-Daula. This tomb was built by Jahangir's
+
+wife Nur Jahan.
+</details>
+
+---
+
+**Q-GC139. U.P.P.C.S. (Mains) 2011**
+
+Match List-I with List-II and select the correct answer
+by using the codes given below the list :
+List-I List-II
+(Builder) (Monument)
+A. Babur 1. Jama Masjid (Sambhal)
+B. Humayun 2. Din Panah
+C. Akbar 3. Jahangiri Mahal
+D. Jahangir 4. Akbar’s Mausoleum’s
+completion
+Code :
+A B C D
+
+- (a) 1 2 3 4
+- (b) 1 2 4 3
+- (c) 2 1 4 3
+- (d) 4 3 2 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Jama Masjid (Sambhal) - Babur
+
+Din Panah (Delhi) - Humayun
+
+Completion of Akbar’s - Jahangir
+
+Mausoleum
+
+Jahangiri Mahal - Akbar
+</details>
+
+---
+
+**Q-GC140. U.P.P.C.S. (Pre) 2005**
+
+Govind Palace, an excellent specimen of Hindu
+architecture is located at –
+
+- (a) Datia
+- (b) Khajuraho
+- (c) Orchha
+- (d) Gwalior
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Govind Palace, a seven-storey building is located in Datia,
+
+Madhya Pradesh. It was constructed by Raja Bir Singh
+
+Deo in 1614 A.D. with bricks and stones. It is an excellent
+
+specimen of the architecture of Bundelas. Paintings and
+
+architecture ornamented on the walls of Govind Mahal
+
+attract travellers.
+</details>
+
+---
+
+**Q-GC141. U.P.P.C.S. (Mains) 2007**
+
+Which one of the following is not correctly matched ?
+
+- (a) Akbar’s Tomb - Sikandara
+- (b) Jahangir’s Tomb - Shahdara
+- (c) Tomb of Shaikh - Fatehpur Sikri Salim Chishti
+- (d) Tomb of Shaikh - Ajmer Nizamuddin Auliya
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The tomb of Shaikh Nizamuddin Auliya is in Delhi, not
+
+Ajmer. He died in 1325 AD and was buried at Ghiyaspur
+
+(Delhi). Hence, option (d) is not the correct answer. Amir
+
+Khusrau and Hasan Muhammad Dehlavi were eminent
+
+disciples of Auliya. Other pairs are correctly matched.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Shah Jahan
+
+Complete unabridged 27-question bank from Ghatna Chakra covering Shah Jahan's lineage, coronation, capital shift to Delhi (Shahjahanabad), Ahmadnagar annexation, Deccan governorship of Aurangzeb, loss of Qandahar, Balkh & Badakhshan campaign, court poet Kaleem, Mumtaz Mahal, Taj Mahal, Jama Masjid of Delhi, Red Fort (Lal Qila), translation of Upanishads (*Sirr-i-Akbar*) & *Majma-ul-Bahrain* by Dara Shikoh (Shah Buland Iqbal), Kavindracharya Banaras delegation, abolition of Sijda, and presentation of the Kohinoor diamond by Mir Jumla. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC142. I.A.S. (Pre) 2001**
+
+The shaded area in the above map shows the empire of:
+
+- (a) Alauddin Khalji
+- (b) Muhammad Tughluq
+- (c) Shah Jahan
+- (d) Aurangazeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The shaded area in the map shows the empire of Shah Jahan.
+
+Golconda was not the part of his territory as it was captured
+
+by Aurangzeb in 1687.
+</details>
+
+---
+
+**Q-GC143. 39th B.P.S.C. (Pre) 1994**
+
+What was the root of the dispute between the Shah of
+Iran and Mughal rulers?
+
+- (a) Kabul
+- (b) Qandahar
+- (c) Kunduz
+- (d) Ghazni
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Qandahar was the cause of dispute between the Shah of Iran
+
+and the Mughal rulers of Qandahar because it became an
+
+issue of prestige for Persians and Mughals. The expansion
+
+of colonialism of both the dynasties was mostly depended
+
+on suzerainty of Qandahar.
+</details>
+
+---
+
+**Q-GC144. empire from the viewpoint of :, (a) Natural resources (b) Buffer territory, (c) Communication (d) Strategic stronghold, I.A.S. (Pre) 1998**
+
+The loss of Qandahar was a big blow to the Mughal
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The loss of Qandahar was strategically a big blow to the
+
+Mughal empire. The loss of Qandahar exposed the Mughal
+
+Kingdom to outside attacks. Finally, Qandahar slipped out
+
+from the hands of the Mughals during the period of Shah Jahan. 
+
+B
+</details>
+
+---
+
+**Q-GC145. (c) Kavindracharya (d) Kavi Hariram, U.P.P.C.S. (Pre) 2000**
+
+Who had led a deputation of Banaras pandits before
+the Mughal emperor to seek the abolition of pilgrim
+tax on Banaras and Allahabad ?
+
+- (a) Haranth
+- (b) Jagannath
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Kavindracharya had led a delegation of Banaras pandits
+
+before the Mughal Emperor to seek the abolition of pilgrim
+
+tax on Banaras and Allahabad (Prayagraj). Kavindracharya
+
+was a dependent poet of Shah Jahan and had the perfect
+
+combination of Awadhi and Braj in his language.
+</details>
+
+---
+
+**Q-GC146. U.P.P.C.S. (Pre) 2022**
+
+Which Mughal ruler patronized Kavindra Acharya
+Saraswati of Banaras, a great scholar of Sanskrit and
+Hindi ?
+
+- (a) Jahangir
+- (b) Humayun
+- (c) Shahjahan
+- (d) Akbar
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above Question.
+</details>
+
+---
+
+**Q-GC147. I.A.S. (Pre) 2002**
+
+The motive behind Shah Jahan’s Balkh campaign was to :
+
+- (a) Secure a friendly ruler in Balkh and Badakshan which bordered Kabul
+- (b) Conquer Samarqand and Ferghana, the Mughal homelands
+- (c) Fix the Mughal frontier on the ‘scientific line’ the Amu Daria
+- (d) Expand the Mughal Empire beyond the sub-continent
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The motive behind Shah Jahan’s Balkh and Badakshan
+
+campaign was not to conquer Samarqand and Ferghana, the
+
+Mughal homelands but to remove the Persian representative
+
+and secure a friendly ruler in Balkh and Badakshan which
+
+bordered Kabul. This would help him in controlling the rebel
+
+Afghan tribes living near Ghazni and Khyber. So, it became
+
+a buffer state between Mughals and Persians.
+</details>
+
+---
+
+**Q-GC148. U.P.P.C.S. (Mains) 2015**
+
+Who was the ‘Poet-Laureate’ of Shah Jahan’s reign?
+
+- (a) Kaleem
+- (b) Kashi
+- (c) Qudsi
+- (d) Munir
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Poet Kaleem (Abu Jalih) became a member of the court of
+
+Shah Jahan.
+</details>
+
+---
+
+**Q-GC149. (c) Mehrunnisa (d) Roshan Ara, Jharkhand P.C.S. (Pre) 2003**
+
+The actual name of Mumtaz Mahal was –
+
+- (a) Arjumand Bano Begum
+- (b) Ladli Begum
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Arjumand Bano Begum, the daughter of Asaf Khan, was
+
+married to Prince Khurram, the son of Mughal Emperor
+
+Jahangir. Later on, Arjumand Bano Begum was known as
+
+Mumtaz Mahal.
+</details>
+
+---
+
+**Q-GC150. R.A.S./R.T.S. (Pre) 1992**
+
+The coordination of Hindu and Iranian architecture
+can be seen in –
+
+- (a) Taj Mahal
+- (b) Red Fort
+- (c) Panch Mahal
+- (d) Tomb of Sher Shah
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Shah Jahan had gathered engineers and architects from India,
+
+Persia, Middle Asia for the construction of Taj Mahal which
+
+is the best example of a balanced combination of Indian,
+
+Persian and Middle Asian architecture.
+</details>
+
+---
+
+**Q-GC151. State PCS**
+
+Which of the following among Mughal Emperors
+constructed Jama Masjid of Delhi ?
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Shah Jahan
+- (d) Aurangzeb U.P. Lower Sub. (Pre) 2004
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Jama Masjid of Delhi was built up by Shah Jahan. He left
+
+behind a great legacy of structures constructed during his
+
+reign. Buildings constructed by Shah Jahan are Diwan-eAam, Diwan-e-Khas, Sheesh Mahal, Moti Masjid (Agra),
+
+Khas Mahal, Musamman Burj, Nagina Masjid, Jama Masjid
+
+(Delhi), Taj Mahal Red Fort etc.
+</details>
+
+---
+
+**Q-GC152. R.A.S./R.T.S. (Pre) 1997**
+
+Who built famous Jama Masjid of Delhi ?
+
+- (a) Humayun
+- (b) Shah Jahan
+- (c) Akbar
+- (d) Ibrahim Lodi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC153. U.P.P.C.S. (Spl) (Mains) 2008**
+
+Who among the following shifted the capital of the
+Empire from Agra to Delhi ?
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Shah Jahan
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Shah Jahan shifted the capital from Agra to Shahjahanabad
+
+(Delhi).
+</details>
+
+---
+
+**Q-GC154. U.P.P.C.S. (Mains) 2006**
+
+Match List-I with List-II and select the correct answer
+using the codes given below the List :
+List-I List-II
+(Monuments) (Builders)
+A. Alai Darwaza, Delhi 1. Alauddin Khalji
+Indian History General Studies B–303
+B. Buland Darwaza, 2. Akbar
+Fatehpur Sikri
+C. Moti Masjid, Agra 3. Shah Jahan
+D. Moti Masjid, Delhi 4. Aurangzeb
+Code :
+A B C D
+
+- (a) 4 3 2 1
+- (b) 1 4 2 3
+- (c) 1 2 3 4
+- (d) 4 2 3 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The correctly matched list is as follows:
+
+(Monuments) (Builders)
+
+Alai Darwaza, Delhi – Alauddin Khalji
+
+Buland Darwaza, Fatehpur Sikri – Akbar
+
+Moti Masjid, Agra – Shah Jahan
+
+Moti Masjid , Delhi – Aurangzeb
+</details>
+
+---
+
+**Q-GC155. 42nd B.P.S.C. (Pre) 1997**
+
+Who made the Red Fort in Delhi?
+
+- (a) Akbar
+- (b) Nur Jahan
+- (c) Jahangir
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Shah Jahan transferred his capital from Agra to Shahjahanabad
+
+(Delhi) and laid the foundations of Shahjahanabad on his
+
+name. Red Fort is an important monument of Shah Jahan. It
+
+is an irregular octagon with two long sides on the west and
+
+east and with two main gates, one on the west and the other
+
+on the south called Lahori and Delhi gates respectively. It is
+
+unique in architecture and glory.
+</details>
+
+---
+
+**Q-GC156. U.P.P.S.C.(GIC) 2010, U.P.P.C.S. (Pre) 2002**
+
+Who among the following deserves the credit for the
+construction of ‘Lal Qila’
+
+- (a) Sikandar Lodi
+- (b) Akbar
+- (c) Jahangir
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC157. U.P.P.C.S. (Pre) 2009, U.P.P.C.S. (Mains) 2006, U.P.P.C.S. (Pre) 1992**
+
+Upanishadas were translated into Persian during the
+reign of :
+
+- (a) Shah Jahan
+- (b) Akbar
+- (c) Jahangir
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Upanishadas were translated into the Persian language
+
+during the reign of Shah Jahan by his son Dara Shikoh as
+
+"Sirr-i-Akbar". 52 Upanishadas were translated in this book.
+
+Lenpool named him "Little Akbar" due to his tolerance
+
+and generosity. Majma-ul-Bahrain is the original creation
+
+of Dara Shikoh. Shah Jahan gave him the title of "Shah
+
+Buland Iqbal".
+</details>
+
+---
+
+**Q-GC158. U.P.P.C.S. (RO/ARO) (Pre) 2014**
+
+Who among the following was given the title of ‘Shah
+Buland Iqbal’ by Shah Jahan?
+
+- (a) Dara Shikoh
+- (b) Shuja
+- (c) Aurangzeb
+- (d) Murad
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC159. Uttarakhand P.C.S. (Pre) 2024**
+
+Which son of Shah Jahan was honored with the title
+'Shah-i-Iqbal'?
+
+- (a) Dara Shikoh
+- (b) Shuja
+- (c) Aurangzeb
+- (d) Murad
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC160. U.P.P.C.S. (Pre) 2000**
+
+The Upanishads were translated into Persian by Dara
+Shikoh under the title:
+
+- (a) Al-Fihrist
+- (b) Kitab-ul-Bayan
+- (c) Majma-ul-Bahrain
+- (d) Sirr-i-Akbar U.P. Lower Sub. (Spl) (Pre) 2004
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC161. State PCS**
+
+Who was the author of Sirr-i-Akbar?
+
+- (a) Abul Fazl
+- (b) Dara Shikoh
+- (c) Mullah Shah Badakhshi
+- (d) Shah Waliullah U.P. Lower Sub. (Pre) 2002
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC162. Chhattisgarh P.S.C. (Pre) 2018**
+
+Among the following which is a composition of
+Darasikoh?
+
+- (a) Tabakat-e-Nasiri
+- (b) Kitab-ul-Hind
+- (c) Tahakik-e-hind
+- (d) Mazzmaul Bahainna
+- (e) Sirr-i-Akbar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Mazzamul Bahainna (Mazm-ul-Baharin) is original
+
+composition of Dara Sikoh while Sirra-e-Akbar is a
+
+translation of Upanishada in Persian by Dara Sikoh. 
+
+B
+</details>
+
+---
+
+**Q-GC163. U.P.P.C.S. (RO/ARO) (Mains) 2017**
+
+Where was Darashikoh buried?
+
+- (a) Delhi
+- (b) Agra
+- (c) Aurangabad
+- (d) Lahore
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Dara Shikoh was handed over to Aurangzeb by a Baluchi
+
+chieftain named Malik Jeevan. A special Judicial Committee
+
+appointed by Aurangzeb declared Dara a heretic and ordered
+
+the death penalty for him. Dara was killed in 1659 AD, his
+
+head was buried in Taj Mahal complex in Agra and the body
+
+was buried in Tomb of Humayun (Delhi). However many
+
+history books do not mention this. Dara's tomb is in the
+
+complex of Tomb of Humayun. Hence appropriate answer
+
+should be Delhi.
+</details>
+
+---
+
+**Q-GC164. U.P.P.C.S. (Mains) 2003**
+
+The First Muslim to study Hindu scriptures was :
+
+- (a) Amir Khusrau
+- (b) Dara Shikoh
+- (c) Amir Hasan
+- (d) Shuja
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+In the given options, the first Muslim to study Hindu
+
+scriptures was Dara Shikoh. The eldest son of Shah Jahan,
+
+Dara Shikoh was a highly educated scholar and author. He
+
+studied many Hindu scriptures and translated Yogvashita,
+
+Bhagwad Gita etc. in the Persian language.
+</details>
+
+---
+
+**Q-GC165. (c) A.L. Srivastava (d) None of the above, 41st B.P.S.C. (Pre) 1996**
+
+Who among the following historians declared the
+regime of Shah Jahan to be the Golden Era of the
+Mughal period?
+
+- (a) V.A. Smith
+- (b) J.N. Sarkar
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Dr. A.L. Srivastava wrote in his book ‘’Mughalkaleen
+
+Bharat’’ (1526-1803 A.D.) that the regime of Shah Jahan is
+
+the golden period in the medieval history of India. However,
+
+it is true only on the basis of art and especially architecture.
+
+J.N. Sarkar and V.A. Smith are not in favour to accept this
+
+fact, but R.S. Sharma also accepted this fact. Hence, option
+
+(c) is the correct answer.
+</details>
+
+---
+
+**Q-GC166. U.P.P.C.S. (Mains) 2015**
+
+The famous diamond ‘Kohinoor’ was presented to
+Shah Jahan by –
+
+- (a) Aurangzeb
+- (b) Murad
+- (c) Mir Jumla
+- (d) Abul Hasan Qutb Shah
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Kohinoor Diamond, one of the famous diamonds in the
+
+world, was discovered in the mines of Golconda. Mir Jumla
+
+was a minister of Sultan of Golconda, Abdullah Qutub
+
+Shah (1626-1672 A.D.) who got angry over Mir Jumla for
+
+accepting the Mansab of King Shah Jahan and seized all
+
+his property. Later, Shah Jahan sent Aurangzeb to attack
+
+Golconda, and the matter was resolved, and the treaty was
+
+signed between them. Later, Mir Jumla was called back to
+
+Agra and given the title of “Muazzam Khan.” Mir Jumla,
+
+the Persian noble and a reputed diamond dealer, visited the
+
+court of Shah Jahan and presented the Kohinoor diamond to
+
+the Mughal emperor.
+</details>
+
+---
+
+**Q-GC167. U.P.P.C.S. (Mains) 2010, U.P.P.C.S. (UDA/LDA) (Pre) 2010**
+
+Which Mughal Emperor abolished the Persian Court
+Custom of ‘Sijda’ which was begun by Balban?
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Shah Jahan
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Shah Jahan was the Mughal emperor who abolished the
+
+Persian (1636-37 AD) court custom of Sijda which was
+
+begun by Balban.
+</details>
+
+---
+
+**Q-GC168. State PCS**
+
+Who among the following was the governor of Deccan
+for the major part of Shah Jahan’s Reign ?
+
+- (a) Dara Shikoh
+- (b) Murad Baksh
+- (c) Shah Shuja
+- (d) Aurangzeb U.P.Lower Sub. (Pre) 2009
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Aurangzeb was the governor of Deccan first time during
+
+1636-44 A.D. in the reign of Shah Jahan, and he was the
+
+governor of Deccan second time during 1653-1658 A.D.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Aurangzeb
+
+Complete unabridged 27-question bank from Ghatna Chakra covering Aurangzeb's dual coronations, War of Succession battles (Dharmat, Samugarh, Khajwa, Deorai), fate of Sulaiman Shikoh, Treaty of Purandar (1665 with Jai Singh), rebellion of Prince Akbar, titles of *Zinda Peer* and *Shahi Darvesh*, conquests of Bijapur (1686) and Golconda (1687), 31.6% Hindu generals in army, re-imposition of Jizya (1679) with 3 income slabs, concept of Jihad (Dar-ul-Harb to Dar-ul-Islam), Bibi Ka Maqbara at Aurangabad (Second Taj Mahal), Moti Masjid inside Red Fort Delhi, daughters of Aurangzeb, and contemporary saint Samarth Ramdas. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC169. U.P.P.C.S. (Pre) 1994**
+
+Assertion(A) : Aurangzeb succeeded Shah Jahan to
+the Mughal throne.
+Reason (R) : The law of primogeniture was followed.
+Select the correct answer from the codes given below :
+
+- (a) Both
+- (A) and (R) are true, and (R) is the correct explanation of
+- (A) .
+- (b) Both
+- (A) and (R) are true, but (R) is not the correct explanation of
+- (A) .
+- (c) (A) is true, but (R) is false.
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Aurangzeb succeeded Shah Jahan to the Mughal throne, but
+
+the rule of primogeniture was not followed where the eldest
+
+son inherited his father’s estate. He succeeded the throne by
+
+force. There were no clear rules of succession; it was the
+
+subject of power. Dara was the eldest and Aurangzeb was
+
+the third son of Shah Jahan. So, Assertion (A) is correct, but
+
+Reason (R) is not correct.
+</details>
+
+---
+
+**Q-GC170. State PCS**
+
+Who of the following Mughal emperor was coronated
+twice?
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Shah Jahan
+- (d) Aurangzeb U.P.P.C.S. (Pre) 2009 U.P.P.C.S. (Mains) 2006 B
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The coronation of the Mughal emperor Aurangzeb occurred
+
+twice. His first coronation was held on 21 July, 1658 in
+
+Delhi and second was held on 5 June, 1659 on the success
+
+of Khajwa and Devrai battle.
+</details>
+
+---
+
+**Q-GC171. I.A.S. (Pre) 2003**
+
+The battle of Dharmat was fought between :
+
+- (a) Muhammad Ghori and Jai Chand
+- (b) Babur and Afghans
+- (c) Aurangzeb and Dara Shikoh
+- (d) Ahmad Shah Durrani and the Marathas
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Battle of Dharmat (Madhya Pradesh) was fought between
+
+Aurangzeb and Dara Shikoh for their father Shah Jahan’s
+
+throne. Dara Shikoh was supported by Raja Jaswant Singh,
+
+and Aurangzeb was supported by Prince Murad. On 15th April,
+
+1658 Aurangzeb became victorious.
+</details>
+
+---
+
+**Q-GC172. U.P.P.C.S. (Pre) 2019**
+
+Arrange the following battles in chronological order
+and select the correct answer from the codes given
+below :
 I. Battle of Sarnal
 II. Battle of Bilgram
 III. Battle of Dharmat
 IV. Battle of Jajau
+Codes :
 
-A. II-I-III-IV
-B. II-III-IV-I
-C. III-II-I-IV
-D. III-I-II-IV
+- (a) II, I, III, IV
+- (b) II, III, IV, I
+- (c) III, II, I, IV
+- (d) III, I, II, IV
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (II-I-III-IV: Bilgram → Sarnal → Dharmat → Jajau)
+**Answer: (a)**
 
-**Detailed Explanation:**
-- **II. Battle of Bilgram / Kannauj (May 1540 CE):** Sher Shah Suri defeated Humayun, driving him into exile.
-- **I. Battle of Sarnal (December 1572 CE):** Fought during Akbar's conquest of Gujarat, where Akbar with a small cavalry detachment personally defeated the rebellious Mirzas in Gujarat.
-- **III. Battle of Dharmat (April 1658 CE):** Aurangzeb defeated Maharaja Jaswant Singh in the War of Succession.
-- **IV. Battle of Jajau (June 1707 CE):** Fought near Agra after Aurangzeb's death, where Prince Muazzam (Bahadur Shah I) defeated his younger brother Muhammad Azam Shah to claim the Mughal throne.
-- **Chronological Sequence:** II (1540) → I (1572) → III (1658) → IV (1707) = **II-I-III-IV**.
+**Explanation:**
+Battle of Sarnal (Gujarat) took place in 1572 AD in which
 
-**Key Exam Takeaway / Trap:**
-- *Battle of Sarnal Anchor:* Fought in **1572 CE** during Akbar's Gujarat campaign (noted in *Akbarnama* for Akbar's personal bravery).
+Mughal army under the leadership of Akbar defeated Ibrahim
 
+Mirza. Shershah Suri defeated Humayun in Battle of Bilgram
+
+in 1540 AD. In 1658 AD army of Aurangzeb defeated
+
+Darasikoh in Battle of Dharmat. Battle of Jajau took place
+
+between Bahadurshah-I and Muhammad Azam Shah in 1707
+
+AD after the death of Aurangzeb for his succession. Hence
+
+option (a) is correct.
 </details>
 
-**Q16. UPPCS Prelims 2019, Q91**
+---
 
-Arrange the following monuments in chronological order of construction:
-I. Rabia Daurani’s Tomb (Bibi ka Maqbara), Aurangabad
-II. Sher Shah’s Tomb, Sasaram
-III. Humayun’s Tomb, Delhi
+**Q-GC173. R.A.S./R.T.S. (Pre) 2007**
+
+Aurangzeb defeated Jaswant Singh, the King of
+Jodhpur in the battle of Dharmat in 1658. Dharmat is
+situated in which state?
+
+- (a) Rajasthan
+- (b) Madhya Pradesh
+- (c) Gujarat
+- (d) Uttar Pradesh
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Battle of Dharmat (Madhya Pradesh) was fought between
+
+Aurangzeb and Dara Shikoh for their father Shah Jahan’s
+
+throne. Dara Shikoh was supported by Raja Jaswant Singh,
+
+and Aurangzeb was supported by Prince Murad. On 15th April,
+
+1658 Aurangzeb became victorious.
+</details>
+
+---
+
+**Q-GC174. U.P.P.C.S. (Pre) 2022**
+
+Consider the following events of the reign of
+Aurangzeb and arrange them in chronological order:
+1. Battle of Deorai
+2. Defeat of Shuja near Banaras
+3. Battle of Samugarh
+4. Victory at Dharmat
+Select the correct answer from the code given below.
+Code:
+
+- (a) 1, 3, 4 and 2
+- (b) 4, 2, 1 and 3
+- (c) 2, 4, 3 and 1
+- (d) 3,4, 2 and 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The correct Order is as follows—
+
+Defeat of Shuja near Banaras - February, 1658
+
+Victory of Dharmat - 15 April, 1658
+
+Battle of Samugarh - 29 May, 1658
+
+Battle of Deorai - 1659 A.D.
+</details>
+
+---
+
+**Q-GC175. Uttarakhand P.C.S.(Pre) 2004**
+
+Mughal Prince who took refuge in Srinagar Garhwal –
+
+- (a) Murad
+- (b) Aurangzeb
+- (c) Dara Shukoh
+- (d) Sulaiman Shikoh
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Prince Sulaiman Shikoh, the son of Dara Shikoh, after being
+
+defeated by Aurangzeb in the war for succession, took shelter
+
+in Srinagar which was the kingdom of Prithvi Singh. But
+
+his successor Medini Singh handed him over to Aurangzeb.
+
+He was imprisoned in Gwalior Fort and killed by giving an
+
+excessive dose of opium.
+</details>
+
+---
+
+**Q-GC176. U.P.P.C.S. (Mains) 2007**
+
+Which son of Aurangzeb revolted against his father,
+weakening his father’s position against the Rajputs?
+
+- (a) Azam
+- (b) Akbar
+- (c) Muazzam
+- (d) Kam Baksh
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Muhammad Akbar, the rebellious son, revolted against his
+
+father Aurangzeb in 1681 A.D., weakening Aurangzeb’s
+
+position against Rajputs.
+</details>
+
+---
+
+**Q-GC177. U.P.P.C.S. (Pre) 2011, U.P.P.C.S. (UDA/LDA) (Spl) (Pre) 2010, U.P.P.C.S. (UDA/LDA) (Spl) (Mains) 2010, U.P.P.C.S. (Mains) 2009, U.P.P.C.S. (Mains) 2008**
+
+With which Mughal General did Shivaji sign the Treaty
+of Purandar in 1665 ?
+
+- (a) Diler Khan
+- (b) Jai Singh
+- (c) Jaswant Singh
+- (d) Shaista Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Indian History General Studies B–307
+
+Aurangazeb sent Raja Jai Singh of Amber to fight against
+
+Shivaji. He made elaborated preparations and succedded in
+
+besieging the Purandar Fort where Shivaji lodged his family
+
+and treasure. Shivaji opened negotiations with Jai Singh and
+
+the Treaty of Purandar was signed in 1665 AD.
+</details>
+
+---
+
+**Q-GC178. Jharkhand P.C.S. (Pre) 2003**
+
+Which Mughal Emperor was known as "Zinda
+Peer" ?
+
+- (a) Akbar
+- (b) Aurangzeb
+- (c) Shah Jahan
+- (d) Jahangir
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Aurangzeb was a remarkable man. Among the Mughals, he
+
+possessed extraordinary personal qualities. He maintained
+
+high moral standards and was far from vices, pleasures and
+
+extravagance. Some recommended him ‘Shahi Darvesh’ and
+
+some Muslims accepted him as "Zinda Peer".
+</details>
+
+---
+
+**Q-GC179. U.P.P.C.S. (RO/ARO) (Mains) 2017**
+
+Who among the following was called as a 'Zindapir'?
+
+- (a) Bahadur Shah I
+- (b) Shah Alam II
+- (c) Aurangzeb
+- (d) Adil Shah
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Aurangzeb was the third son of Shah Jahan, who was the
+
+emperor of India from 1658 to 1707 A.D. He was called as
+
+'Zinda Pir'.
+</details>
+
+---
+
+**Q-GC180. Chhattisgarh P.C.S. (Pre) 2011**
+
+Which European traveller came to India during the
+reign of Aurangzeb?
+
+- (a) William Hawkins
+- (b) Thomas Roe
+- (c) Antonia Monserrate
+- (d) Peter Mundy
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+Peter Mundy, the British traveller, came to India during the
+
+reign of Shah Jahan. William Hawkins and Thomas Roe
+
+came to India during Jahangir’s reign whereas Antonio
+
+Monserrate came to India during Akbar’s reign. None of the
+
+above travellers came to India during the reign of Aurangzeb.
+</details>
+
+---
+
+**Q-GC181. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Who was the first Mughal ruler who fought against
+the British?
+
+- (a) Jahangir
+- (b) Aurangzeb
+- (c) Shah Jahan
+- (d) Bahadur Shah Zafar
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The first conflict between the Mughals and the British took
+
+place in 1686 A.D. during the reign of Aurangzeb. The
+
+Mughal governor Shaistha Khan had driven the British out
+
+of Hooghly, including Job Charnock.
+</details>
+
+---
+
+**Q-GC182. State PCS**
+
+Two of the following states, which Aurangzeb had
+conquered in Deccan, were :
+
+- (a) Ahmadnagar and Bijapur
+- (b) Bidar and Bijapur
+- (c) Bijapur and Golconda
+- (d) Golconda and Ahmednagar U.P.P.C.S. (Pre) 2004 U.P. Lower Sub. (Pre) 2004
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Aurangzeb captured Bijapur in 1686 A.D. and Golconda in
+
+1687 A.D.
+</details>
+
+---
+
+**Q-GC183. U.P.P.C.S. (Pre) 1992**
+
+When did Aurangzeb get the victory over Bijapur ?
+
+- (a) 1685
+- (b) 1686
+- (c) 1987
+- (d) 1684
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC184. U.P.P.C.S. (Pre) 2020**
+
+Who was the ruler of Golconda when Aurangzeb seized
+the fort of Golkonda in 1687?
+
+- (a) Abul Hasan Qutb Shah
+- (b) Sikandar Adil Shah
+- (c) Ali Adil Shah II
+- (d) Shayasta Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Aurangzeb captured Bijapur in 1686 & Golconda in 1687.
+
+Abul Hasan Qutb Shah was the King of Golconda at the time
+
+of seize by Aurangzeb. It is said that Aurangzeb opened the
+
+Fort of Golconda using the 'keys of gold', the same way Akbar
+
+opened the Fort of Asirgarh.
+</details>
+
+---
+
+**Q-GC185. I.A.S. (Pre) 2000**
+
+The given map refers to the kingdom of :
+B
+
+- (a) Akbar at the time of capture of Khandesh in 1601
+- (b) Akbar at the time of his death in 1605
+- (c) Aurangzeb at the time of capture of Hyderabad
+- (d) Aurangzeb at the time of his death in 1707
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The given map shows the extent of the kingdom of Aurangzeb
+
+at the time of his death in 1707 A.D. it included Bijapur and
+
+Golconda.
+</details>
+
+---
+
+**Q-GC186. U.P.P.C.S. (Pre) 2000**
+
+Which one of the following emperors had the highest
+number of Hindu Generals in the Mughal army:
+
+- (a) Humayun
+- (b) Akbar
+- (c) Nizamuddin
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Mughal army had the largest number of Hindu Generals
+
+during the reign of Aurangzeb. There were 31.6% Hindu
+
+commanders in Aurangzeb’s court in which most of the
+
+members were Marathas. This ratio was 22.5% in Akbar’s
+
+reign and 22.4% during Shah Jahan’s reign.
+</details>
+
+---
+
+**Q-GC187. State PCS**
+
+The Mughal Emperor who appointed the maximum
+number of Hindu officials was –
+
+- (a) Akbar
+- (b) Aurangzeb
+- (c) Humayun
+- (d) Shah Jahan U.P.P.C.S. (Pre) 1998 U.P. Lower Sub. (Spl) (Pre) 2004
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC188. U.P.P.C.S. (Pre) 2002**
+
+Who re-imposed Jizya ?
+
+- (a) Akbar
+- (b) Aurangzeb
+- (c) Jahangir
+- (d) Humayun
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Akbar had abolished Jizya during his reign but Aurangzeb
+
+re-imposed it on non-Muslims in 1679 A.D. The Hindus were
+
+categorised into three classes for the purpose of paying tax:
+
+(i) Those with income less than 200 Dirham per annum,
+
+had to pay 12 Dirham per annum as tax.
+
+(ii ) Those with income 200 to 10,000 Dirham per annum,
+
+had to pay 24 Dirham per annum as tax.
+
+(iii) Those with income more than 10,000 Dirham per
+
+annum, had to pay 48 Dirham per annum as tax.
+
+Women, slaves, children under 14 years, beggars and
+
+unemployed persons were exempted from it. The subordinate
+
+Hindu kings and Brahmins were compelled to pay this tax.
+
+About reviving Jizya, Europian traveller wrote that his motive
+
+was to increase his treasure but it seems to be partially true.
+</details>
+
+---
+
+**Q-GC189. 43rd B.P.S.C. (Pre) 1999**
+
+The meaning of ‘Jihad’ carried on by Aurangzeb is –
+
+- (a) Darul-Harb
+- (b) Dar-ul-Islam
+- (c) Holy War
+- (d) Jizya
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Aurangzeb was a Sunni Muslim. Aurangzeb tried to enforce
+
+the Quranic law, according to which it enjoins upon every
+
+pious Muslim to carry on Jihad (holy wars) against nonMuslim lands (Dar-ul-Harb) till they are converted to Islam
+
+(Dar-ul-Islam).
+</details>
+
+---
+
+**Q-GC190. R.A.S./R.T.S. (Pre) 1999**
+
+Creator of "Bibi Ka Maqbara/ Tomb of Bibi" was –
+
+- (a) Humayun
+- (b) Shah Jahan
+- (c) Akbar II
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Aurangzeb constructed "Bibi Ka Maqbara" for his wife
+
+Rabia-ud-Daurani which is an architectural wonder with
+
+intricate designs, carved motifs, imposing structures and
+
+beautifully landscaped Mughal style garden. It is known as
+
+'Tomb of Bibi.” It is called ‘The Mini Taj’ or second ‘Taj
+
+Mahal.’ It is also known as the tomb of Rabia-ud-Daurani.
+</details>
+
+---
+
+**Q-GC191. U.P.P.C.S. (Mains) 2013, U.P.P.C.S. (Pre) 2000**
+
+Which one of the following tombs is called the ‘Second
+Taj Mahal’:
+
+- (a) Tomb of Anarkali
+- (b) Tomb of Itmad-ud-Daula
+- (c) Tomb of Rabia-ud-Daurani
+- (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC192. U.P.P.C.S. (Mains) 2005**
+
+Who among the following was the daughter of Emperor
+Aurangzeb ?
+
+- (a) Jahan Ara
+- (b) Roshan Ara
+- (c) Gauhar Ara
+- (d) Mehrunnisa
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Mehrunnisa was the daughter of Aurangzeb while Jahan
+
+Ara, Roshan Ara, and Gauhar Ara were the daughters of
+
+Shah Jahan.
+</details>
+
+---
+
+**Q-GC193. (c) Jahan Ara (d) Roshan Ara, U.P.P.C.S. (Pre) 2014**
+
+To whom Aurangzeb bestowed upon the title of
+‘Sahibat-uz-Zamani’ ?
+
+- (a) Shaista Khan
+- (b) Amin Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Aurangzeb bestowed the title of ‘’Sahibat-uz-Zamani’’ to
+
+Jahan Ara. Jahan Ara was the eldest daughter of Emperor Shah
+
+Jahan and Mumtaz Mahal. She was also the elder sister of her
+
+father’s successor and the sixth Mughal emperor Aurangzeb. 
+
+Indian History General Studies B–309
+</details>
+
+---
+
+**Q-GC194. U.P.P.C.S. (Mains) 2009**
+
+Saint Ramdas is associated with the period of rule of :
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Shah Jahan
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Samarth Ramdas was the great saint of Maharashtra. He
+
+was born in 1608 A.D. and died in 1681 A.D. He was the
+
+contemporary to the Mughal King Aurangzeb. Guru Ramdas,
+
+the fourth Sikh guru, was a contemporary of Akbar.
+</details>
+
+---
+
+**Q-GC195. U.P.P.C.S. (UDA/LDA) (Pre) 2002, U.P.P.C.S. (Pre) 2001**
+
+Moti Masjid in the Red Fort at Delhi was built by :
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Shah Jahan
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Moti Masjid inside the Red Fort at Delhi was built by Aurangzeb.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Mughal Administration
+
+Complete unabridged 31-question bank from Ghatna Chakra covering Mughal administrative hierarchy (Suba, Sarkar, Pargana, Chakla), duties of Mir Bakshi, Diwan-i-Tan, and Muhtasib, military organization (Mansabdari 33 divisions, Ahadi & Dakhili troopers), revenue terms (Maal, Madad-i-Mash / Sayurghal, Bantai), tobacco introduction & prohibition (1617), currency system (Mohur, 178 gr silver Rupee, 380 gr copper Dam, Shahrukh, Ram-Siya coins, portrait coins, Taza Sikka, Chalani, Khazana), Niccolao Manucci, and imperial canals (Shahab Canal / Nahr-i-Bihisht). Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC196. Uttarakhand P.C.S. (Pre) 2004**
+
+What was ‘district’ known as during the Mughal
+administration?
+
+- (a) Ahar
+- (b) Vishyas
+- (c) Suba
+- (d) Sarkar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Akbar divided the empire into units for the convenience
+
+of administration. Entire empire was divided into Subas
+
+(provinces). These were further divided into Sarkars
+
+(districts) and Parganas (sub-districts). Several villages
+
+constituted a Paragana. Every Sarkar had a chief officer likeFaujdar, Amalguzar, Qazi, Kotwal, Bitiqhi and Khajandar.
+</details>
+
+---
+
+**Q-GC197. State PCS**
+
+What was the district called during the Mughal
+period?
+
+- (a) Iqta
+- (b) Sarkar
+- (c) Tarf
+- (d) Suba U.P. Lower Sub. (Pre) 2009
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC198. U.P.P.C.S. (Pre) 1992**
+
+Which of the following was the head of the army in
+Mughal period ?
+
+- (a) Shane-e-Peel
+- (b) Mir Bakshi
+- (c) Wazir
+- (d) Sawahenigar
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+B
+
+During the Mughal period, the head of the military was called
+
+Mir Bakshi, who was appointed by the leading nobles of the
+
+court. Mir Bakshi was in charge of intelligence gathering
+
+and also made recommendations to the emperor for military
+
+appointments and promotions.
+</details>
+
+---
+
+**Q-GC199. U.P.P.C.S. (Spl) (Pre) 2004**
+
+In Mughal era, the Duty of Mir Bakshi was :
+
+- (a) Charged Tax from farmers
+- (b) Maintaining accounts of income and Expenses
+- (c) Justice
+- (d) Supervisions of land revenue officials
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+During the Mughal period, the duty of Mir Bakshi was to
+
+supervise the land revenue officials in addition to the salaries
+
+of the military department. Sir Jadunath Sarkar called Mir
+
+Bakshi as Pay Master.
+</details>
+
+---
+
+**Q-GC200. U.P.P.C.S. (Pre.) 2021**
+
+Given below are two statements, one is labelled as
+Assertion (A) and other as Reason (R):
+Assertion (A) : The Mughal Empire was originally a
+Military State.
+Reason (R) : The vitality of the development of the Central
+Government System depended on its military power.
+Select the correct answer using the the codes given
+below.
+Codes :
+
+- (a) Both
+- (A) and (R) are true and (R) is correct explanation of
+- (A) .
+- (b) Both
+- (A) and (R) are true, but (R) is not the correct explanation of
+- (A) .
+- (c) (A) is true, but (R) is false.
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Although it is a matter of debate that Mughal Empire was a
+
+military state but most of historian accepts that Mansabdars
+
+were given military duties. Mughals also had large army
+
+which helped in expansion and strengthening of the empire.
+</details>
+
+---
+
+**Q-GC201. U.P.P.C.S. (Spl) (Mains) 2008**
+
+Who among the following was appointed as a physician
+in the Mughal service ?
+
+- (a) Bernier
+- (b) Coreri
+- (c) Manucci
+- (d) Tavernier
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Niccolao Manucci was appointed as a doctor in the Mughal
+
+army. He was an Italian traveller. He joined the army of Dara
+
+Shikoh as an artilleryman. He opted profession of medico
+
+after the death of Dara Shikoh in 1659.
+</details>
+
+---
+
+**Q-GC202. I.A.S. (Pre) 1998**
+
+Consider the following statements :
+Ahadis were those troopers who :
+1. offered their services singly
+2. did not attach themselves to any chief
+3. had the emperor as their immediate colonel
+4. attached themselves to Mirzas
+of these statements :
+
+- (a) 1, 3 and 4 are correct
+- (b) 1, 2 and 3 are correct
+- (c) 2 and 3 are correct
+- (d) 1 and 4 are correct
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Ahadis, part of Akbar's standing army of a few thousand,
+
+were equipped with several horses and had a reputation for
+
+being excellent archers. These gentlemen at arms were single
+
+men having no following of mounted retainers. Akbar’s
+
+ahadis were under the authority of the Emperor.
+</details>
+
+---
+
+**Q-GC203. 47th B.P.S.C. (Pre) 2005**
+
+In the Mughal administration ‘Muhtasib’ was –
+
+- (a) Military Officer
+- (b) Head of Foreign Affairs
+- (c) an Officer-in-Charge of public morals
+- (d) Officer of Correspondence Department
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Muhtasib, the censor of public morals acted as police cum
+
+Judge in the observance of the canon law by the Muslims.
+</details>
+
+---
+
+**Q-GC204. I.A.S. (Pre) 1996**
+
+In medieval India, Mansabdari system was introduced
+mainly for :
+
+- (a) Making recruitment to the army
+- (b) Facilitating revenue collection
+- (c) Ensuring religious harmony
+- (d) Effecting clean administration
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Akbar introduced a well-organised system in the military
+
+and civil service of the empire which came to be known as
+
+Mansabdari system. Very soon, this system became the main
+
+basis of the military and civil administration of the Mughals.
+
+The main intention to introduce Mansabdari was to provide
+
+a clean and better administration.
+</details>
+
+---
+
+**Q-GC205. Jharkhand P.C.S. (Pre) 2023**
+
+Who was responsible for the smooth functioning of
+the Mughal Mansabdari system?
+
+- (a) Vakil
+- (b) Wazir
+- (c) Mir Bakshi
+- (d) Sadr
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Indian History General Studies B–311
+
+Mir Bakshi was responsible for the smooth functioning of the
+
+Mughal Mansabdari system. The Mansabdari system was the
+
+administrative system introduced by Akbar in Mughal Empire.
+
+The word 'Mansab' is of Arabic origin meaning rank or position.
+
+Hence Mansabdari was a system of ranking the government
+
+officials and determining their civil & military duties, along
+
+with their renumeration. The recruitment and promotion of the
+
+Mansabdars was in the hands of the Emperor who could also
+
+dismiss them at will. Mostly the recruitment of the Mansabdars
+
+was done on the recommendation of Mir Bakshi.
+</details>
+
+---
+
+**Q-GC206. U.P.P.C.S. (Mains) 2009**
+
+Which one of the following is not true about the Mughal
+Mansabdari System ?
+
+- (a) There were 33 divisions.
+- (b) They got conditional or Mashut rank.
+- (c) Their ‘Sawar’ rank could exceed the ‘Zat’ rank.
+- (d) All civil and military officers were given mansabs.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Mansab meant rank or status. Mansabdars or officeholders
+
+were divided into 33 classes and were paid in cash according
+
+to their respective grades. There were exceptions to this rule,
+
+particularly when the mansabdar was serving in a difficult terrain
+
+amidst the rebels. In such cases, the state often increased the
+
+sawar rank without altering the zat rank. Obviously, the system
+
+was not a static one. It changed to meet the circumstances. Thus,
+
+reform was the use of conditional rank (Mashrut), which meant
+
+an ‘increase of sawar rank for a temporary period. So, option
+
+(c) is the correct answer.
+</details>
+
+---
+
+**Q-GC207. U.P.P.C.S. (UDA/LDA) (Spl) (Mains) 2010**
+
+Consider the following statements about Mughal
+Mansabdari and select the correct answer by using
+codes below:
+1.’Zat’ and ‘Mansab’ designations were granted.
+2. Mansabdars were hereditary officials.
+3. There were three classes of Mansabdars.
+4. Their salary was paid by Diwan Office.
+Code :
+
+- (a) Four statements are true.
+- (b) Four statements are false.
+- (c) Only 1,2 & 3 are true.
+- (d) Only 1 & 3 are true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The main features of the Mansabdari system were –
+
+1. The King himself appointed the mansabdars. He could
+
+enhance the mansab, lower it or remove it.
+
+2. A mansabdar could be asked to perform any civil or
+
+military service.
+
+3. There were 33 categories of the mansabdars. The lowest
+
+mansabdar commanded 10 soldiers and the highest had
+
+10,000 soldiers.
+
+4. The salary due to the soldiers was added to the personal
+
+salary of the mansabdar.
+
+5. The mansabdari system was not hereditary.
+
+6. In addition to meeting his personal expenses, the
+
+mansabdar had to maintain out of his salary a stipulated
+
+quota of horses, elephants camels, mules and carts.
+</details>
+
+---
+
+**Q-GC208. I.A.S. (Pre) 2019**
+
+With reference to Mughal India, what is/are the
+difference/differences between Jagirdar and Zamindar?
+1. Jagirdars were holders of land assignments in lieu
+of judicial and police duties, whereas Zamindars
+were holders of revenue rights without obligation
+to perform any duty other than revenue collection.
+2. Land assignments to Jagirdars were hereditary had
+revenue rights of Zamindars were not hereditary.
+Select the correct answer using code given below :
+
+- (a) 1 only
+- (b) 2 only
+- (c) Both 1 and 2
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+During Akbar's period, all the territory was broadly divided
+
+into two : Khalisa & Jagir. The revenue from the first went
+
+to imperial treasury & that from jagir was assigned to
+
+jagirdars in lieu of their salary in cash according to their
+
+rank. Right to collect revenue was to utilize the same for
+
+their salary & to meet their military obligation. The judicial
+
+& police functions were performed locally by Zamindars.
+
+An important feature of the Jagir System was shifting of
+
+jagir-holders from one jagir to another for administrative
+
+reasons. This system of transfers checked the jagirdars from
+
+developing local roots. Thus, jagirs were transferable & could
+
+be seized too. Zamindars, on the other hand, were hereditary.
+
+The Zamindars were present in practically every part of the
+
+Mughal Empire & held the most significant position in the
+
+agrarian structure of Mughal India. The word Zamindar is
+
+derived from two Persian words -Zamin (land) & dar (holder).
+</details>
+
+---
+
+**Q-GC209. U.P.P.C.S. (Pre) 1995**
+
+What was the principal source of State income in
+Mughal India :
+
+- (a) Booty
+- (b) Escheat
+- (c) Land Revenue
+- (d) Tax
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The central feature of the agrarian system under the Mughals
+
+was the alienation from the peasant of his surplus produce
+
+(produce over and above the subsistence level) in the form of
+
+land revenue which was the primary source of state’s income. 
+
+B
+</details>
+
+---
+
+**Q-GC210. State PCS**
+
+In Mughal administrative vocabulary ‘Maal’ represents–
+
+- (a) Land Revenue
+- (b) Salaried
+- (c) Allowance
+- (d) None of these U.P. Lower Sub. (Pre) 2009
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+It was related to Land Revenue.
+</details>
+
+---
+
+**Q-GC211. U.P.P.C.S. (Mains) 2005, Jharkhand P.C.S. (Pre) 2013**
+
+The Mughal Emperor who prohibited the use of
+tobacco was –
+
+- (a) Akbar
+- (b) Babur
+- (c) Jahangir
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In 1605 A.D., Portuguese introduced tobacco in India. Soon
+
+it became popular among the common man. The Mughal
+
+Emperor Jahangir noticed the harmful effects of tobacco and
+
+issued an order to ban in 1617 A.D.
+</details>
+
+---
+
+**Q-GC212. 46th B.P.S.C. (Pre) 2003**
+
+‘Madad-i-Mash’ indicates in Mughal administration –
+
+- (a) Toll Tax
+- (b) Revenue free land granted to learned persons
+- (c) Pension provided to military officials
+- (d) Cultivation Tax
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Sometimes, the Mughal administration issued grants as
+
+a Madad-i-Mash to pious or otherwise worthy recipients
+
+as charity. The spirit of composite culture and harmony
+
+expressed in revenue-free grants (Madad-i-Mash), which
+
+the nobles extended to the support of saints, maintenance
+
+of religious institutions, religious places and upkeep of
+
+Mashaikhs, etc.
+</details>
+
+---
+
+**Q-GC213. U.P.P.C.S. (Pre) 2018**
+
+The term 'Chakla' has been used in Medieval Indian
+History sources. This was
+
+- (a) Identical to Paragnah
+- (b) Identical to Sarkar
+- (c) Territorial unit between Subah and Paragnah, but not identical to Sarkar
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Chakla was an administrative division between subah and
+
+Paragnah (but not Sarkar) in the Indian subcontinent during
+
+Mughal Period, especially during Shah Jahan's rule.
+</details>
+
+---
+
+**Q-GC214. U.P.P.C.S. (Pre) 2019**
+
+With reference to Mansabdari system, which of the
+statements is/are correct?
+1. Mansabdari system was the official nobility of the
+state, started by Akbar.
+2. A Mansabdari was hereditary.
+Select the correct answer using the codes given below:
+
+- (a) 1 only
+- (b) Both 1 and 2
+- (c) 2 only
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Chakla was an administrative division between subah and
+
+Paragnah (but not Sarkar) in the Indian subcontinent during
+
+Mughal Period, especially during Shah Jahan's rule.
+</details>
+
+---
+
+**Q-GC215. Chhattisgarh P.C.S. (Pre) 2008**
+
+Assertion (A) : The Mansabdari system existed during
+the Mughal period.
+Reason (R) : Mansabdars were selected on the basis
+of qualification.
+Code :
+
+- (a) Both
+- (A) and (R) are true, and (R) is the correct explanation of
+- (A) .
+- (b) Both
+- (A) and (R) are true, but (R) is not the correct explanation of
+- (A) .
+- (c) (A) is true, but (R) is false.
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Mansabdari system was the administrative system of the
+
+Mughal Empire. Mansabdars were appointed on the basis of
+
+qualification and King himself appointed the Mansabdars.
+
+Hence, Assertion (A) and Reason (R) both are correct, but
+
+Reason (R) does not explain Assertion (A).
+</details>
+
+---
+
+**Q-GC216. R.A.S./R.T.S.(Pre) 2013**
+
+Read the statements (A) and (B) below and choose
+the correct answer from the codes given below:
+(A) Not all the mansabdars were military officers.
+(B) Those who held high civil posts under the Mughals
+were also mansabdars and were graded accordingly.
+Code :
+
+- (a) both
+- (A) and
+- (B) are false.
+- (b) both
+- (A) and
+- (B) are true.
+- (c) (A) is true, while
+- (B) is false.
+- (d) (A) is false, while
+- (B) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Mansabdari system was the administrative system of the
+
+Mughal Empire which was introduced by Akbar. The system
+
+was common to both the military and the civil department.
+
+Abul Fazl has mentioned 66 grades of Mansabdars but in
+
+practice only 33 categories were prevalent.
+</details>
+
+---
+
+**Q-GC217. U.P.P.C.S. (Pre) 2020**
+
+Match List-I with List-II and select the correct answer
+using the codes given below the lists:
+List–I List-II
+(Officer) (Assign Duty)
+Indian History General Studies B–313
+A. Diwan-i-Tan 1. Look after the office
+B. Mustarfi 2. Maintained a proper
+list of main events and
+firmans
+C. Mushrif 3. Look after the Jagir
+and Salaries
+D. Vakianvis 4. Examine the income -
+expenditure of State
+Codes :
+A B C D
+
+- (a) 2 4 1 3
+- (b) 3 4 1 2
+- (c) 1 3 2 4
+- (d) 4 1 2 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The correct match is as follows:-
+
+List–I List-II
+
+(Officer) (Assign Duty)
+
+Diwan-i-Tan Look after the Jagir and
+
+ Salaries
+
+Mustarfi Examine the incomeexpenditure of State
+
+Mushrif Look after the office
+
+Vakianvis Maintained a proper list
+
+of main events and
+
+ firmans
+</details>
+
+---
+
+**Q-GC218. U.P.P.C.S. (RO/ARO) (Mains) 2021**
+
+Match List-I with List-II and select the correct answer
+from the code given below the lists :
+List-I List-II
+(Emperor) (Diwan)
+A. Akbar 1. Ghiyas Beg Itmadud-
+Daulah
+B. Jahangir 2. Asad Khan
+C. Shah Jahan 3. Muzaffar Khan
+D. Aurangzeb 4. Sadullah Khan
+Code :
+A B C D
+
+- (a) 1 4 3 2
+- (b) 2 3 1 4
+- (c) 3 2 1 4
+- (d) 3 1 4 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The correct matched list is as follows :
+
+ (Emperor) (Diwan)
+
+Akbar – Muzaffar Khan
+
+Jahangir – Ghiyas Beg Itmadud-Daulah
+
+Shah Jahan – Sadullah Khan
+
+Aurangzeb – Asad Khan
+</details>
+
+---
+
+**Q-GC219. U.P.P.C.S. (Pre) 2019**
+
+Given below are two statements, one labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A) : Akbar, like Shershah, tried to regulate
+the currency of the state.
+Reason (R) : As in Shershah's currency, the chief
+copper coin of Akbar's time was the
+Dam.
+Select the correct answer from the codes given below:
+Code :
+
+- (a) Both
+- (A) and (R) are true, and (R) is the correct explanation of
+- (A) .
+- (b) Both
+- (A) and (R) are true, but (R) is not the correct explanation of
+- (A) .
+- (c) (A) is true, but (R) is false.
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Akbar tried to regulate the currency of the state like Sher Shah.
+
+As a result, during the rule of Akbar and his successors in the
+
+Mughal period, gold coins, silver rupees and Copper Dams
+
+were extensively circulated and regulated for trading activities.
+
+Even during Akbar's time, major copper coin was Dam.
+</details>
+
+---
+
+**Q-GC220. U.P.P.C.S. (Mains) 2011**
+
+Who among the following rulers issued some coins
+with figures of Rama and Sita and Devanagari legend
+‘Rama-Siya’ ?
+
+- (a) Bhoja
+- (b) Siddharaja Jayasimha
+- (c) Zain-ul-Abidin
+- (d) Akbar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Akbar issued the coins with figures of Ram and Sita and
+
+Devanagari legend ‘Ram Siya’.
+</details>
+
+---
+
+**Q-GC221. U.P.P.C.S. (Spl) (Pre) 2008**
+
+During the Mughal rule, the copper coin was known as:
+
+- (a) Rupee
+- (b) Daam
+- (c) Tanka
+- (d) Shamsi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+In the standard Mughal currency system, there were three
+
+basic coins : the Mohur of gold, the Rupee of silver and the
+
+Dam of copper.
+</details>
+
+---
+
+**Q-GC222. U.P.P.C.S. (RO/ARO) (Pre) 2017**
+
+Which of the following rulers popularized a silver coin
+named 'Shahrukh'?
+
+- (a) Akbar
+- (b) Babur
+- (c) Humayun
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Babur had introduced silver and copper coins. The silver coin
+
+was called 'Shahrukh'. 
+
+B
+</details>
+
+---
+
+**Q-GC223. Jharkhand P.C.S. (Pre) 2023**
+
+During the Mughal period, the coins minted during
+the previous reign were called
+
+- (a) Khajana
+- (b) Chalni
+- (c) Mohur
+- (d) Bikha
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The newly minted coin in the current or previous year was
+
+called Taza sikka (newly minted). The coins issued and in
+
+circulation in the reign of an emperor were called chalani
+
+(current), while the coins minted in the earlier reigns were
+
+called Khazana.
+</details>
+
+---
+
+**Q-GC224. (d) Property tax, 48th to 52nd B.P.S.C. (Pre) 2008**
+
+The meaning of word Bantai during the Medieval period
+was?
+
+- (a) Religious Tax
+- (b) System of calculating revenue
+- (c) Wealth tax
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The meaning of word ‘Bantai’ during the medieval period
+
+was a system of calculating revenue in which real produce
+
+was distributed between state and peasants. Sher Shah Suri
+
+opted 3 systems for calculating revenue :
+
+Nasq/Muktai/Kankut
+
+Nakadi or Jabti
+
+Galla Bakshi or Bantai
+
+Bantai was of 3 types (i) Khet Bantai (ii) Lank Bantai (iii)
+
+Raasi Bantai.
+</details>
+
+---
+
+**Q-GC225. U.P.P.C.S. (Pre) 2017**
+
+Which of the following systems were prevailing basis
+of land revenue collection in the Deccan during the
+reign of Akbar?
+
+- (a) Kankut
+- (b) Number of plows
+- (c) Zabt
+- (d) Gallabakshi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+In J.N. Sarkar's book 'History of Aurangzeb', it has been
+
+mentioned on page number 190, that in North India during
+
+the reign of Akbar systematic method of land revenue
+
+collection was established by Dewan Todarmal, but this type
+
+of systematic method was not found in the Deccan. During
+
+this period the farmers of the Deccan used to pay land revenue
+
+to the state on per plough (number of plough) basis.
+</details>
+
+---
+
+**Q-GC226. U.P.P.C.S. (Pre) 2020**
+
+Which of the following Mughal period canals, was
+constructed by restoring the Rajabwah of Firuz Shah?
+
+- (a) Shekhnu-Ni
+- (b) Shahab Nahr
+- (c) Nahr-i-Bihisht
+- (d) Nahr-i-Agra
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Mughal era Shahab (Shihab) Canal was constructed by
+
+reinvigorating Firuz Shah's canal Rajabwah. In the time of
+
+Akbar, first Shihabuddin Khan & later Nuruddin Muhammad
+
+tar reconstructed the canal. During the time of Akbar,
+
+Governor of Delhi, Sihabuddin Khan, repaired the canal for
+
+irrigation purposes & changed its name to Shahab Canal.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Mughal Period: Miscellaneous
+
+Complete unabridged 39-question bank from Ghatna Chakra covering Mughal foreign travellers (Hawkins, Roe, Tavernier, Manucci, Ralph Fitch, William Finch), chronology of foreign invasions (Genghis Khan, Timur, Nadir Shah, Abdali), decisive medieval battles (Khanwa, Chanderi, Ghaghra, Chausa, Kannauj, Talikota, Haldighati, Asirgarh, Samugarh, Khajwa), Hemu (Vikramaditya), maritime ports (Surat as Babul Mecca), court culture (Nawroz), Lucknow institutions (Farangi Mahal Madarsa / Dars-i-Nizami, Bara Imambara, Rumi Darwaza), monumental architecture chronology, Banjaras, Sarais, and administrative revenue terminology. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC227. I.A.S. (Pre) 1999**
+
+Which one of the following pairs is not correctly
+matched?
+
+- (a) Jahangir : William Hawkins
+- (b) Akbar : Sir Thomas Roe
+- (c) Shah Jahan : Tavernier
+- (d) Aurangzeb : Manucci
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Sir William Hawkins was a representative of the English
+
+East India Company. Hawkins visited Agra to negotiate
+
+consent for a factory from Jahangir in 1609 A.D. He was
+
+an expert in the Persian Language. Sir Thomas Roe came
+
+in 1615 A.D. during the reign of Jahangir, not Akbar’s reign
+
+as Akbar died in 1605 A.D. Tavernier was a 17th century
+
+French gem merchant and traveller. He visited the court of
+
+the Mughal Emperor Shah Jahan. He toured east six times in
+
+between 1638-1663 A.D. Manucci was an Italian writer and
+
+traveller. He worked in the Mughal courts during the reign
+
+of Aurangzeb. He was an expert in the gunnery department.
+</details>
+
+---
+
+**Q-GC228. I.A.S. (Pre) 2018**
+
+Which one of the following foreign travellers
+elaborately discussed about diamonds and diamond
+mines of India?
+
+- (a) Francois Bernier
+- (b) Jean-Baptiste Tavernier
+- (c) Jean de Thevenot
+- (d) Abbe Barthelemy Carre
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Jean-Baptiste Tavernier (1605-1689 A.D.) was a 17th century
+
+French gem merchant and traveller. He elaborately discussed
+
+about diamonds and diamond mines of India.
+</details>
+
+---
+
+**Q-GC229. B.P.S.C. (Pre) 2018**
+
+Who stated that five thousand to twenty thousand
+men worked for forty years to build the palace of forty
+pillars at Allahabad in Akbar’s time?
+
+- (a) Manucci
+- (b) Tavernier
+- (c) William Finch
+- (d) Abdul Hamid Lahori
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+According to William Finch, five thousand to twenty
+
+thousand men worked for forty years to build the palace of
+
+forty pillars at Allahabad (Prayagraj) in Akbar's tenure. 
+
+Indian History General Studies B–323
+</details>
+
+---
+
+**Q-GC230. U.P.P.C.S. (RO/ARO) (Pre) 2016**
+
+Match List-I with List-II and select the correct answer
+from the codes given below the lists:
+List-I List-II
+A. Hawkins 1. 1615-1619
+B. Thomas Roe 2. 1608-1611
+C. Manucci 3. 1585-1586
+D. Ralph Fitch 4. 1653-1708
+Code :
+A B C D
+
+- (a) 1 2 3 4
+- (b) 2 1 4 3
+- (c) 1 2 4 3
+- (d) 2 1 3 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+The correctly matched list is as follows:
+
+Hawkins - 1608-1611
+
+Thomas Roe - 1615-1619
+
+Manucci - 1653-1708
+
+Ralph Fitch - 1583-1586
+</details>
+
+---
+
+**Q-GC231. U.P.P.C.S. (Pre) 2003, U.P.P.C.S. (UDA/LDA) (Pre) 2002, U.P.P.C.S. (Pre) 2001**
+
+Select the correct chronological order for the following
+Muslim rulers from the codes given below the names :
+1. Ahmad Shah Abdali 2. Muhammad Shah
+3. Jahangir 4. Bahadur Shah II
+Code :
+
+- (a) 1, 2, 3, 4
+- (b) 4, 3, 2, 1
+- (c) 3, 2, 1, 4
+- (d) 2, 1, 3, 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The correct chronological order of the above-mentioned
+
+Muslim rulers is as follows. Jahangir ruled from 1605 to
+
+1627 A.D. Muhammad Shah ruled from 1719 to 1748 A.D.
+
+Ahmad Shah Abdali, an Afghan invader, fought in the third
+
+battle of Panipat (January 14, 1761). The reign of Bahadur
+
+Shah-II ‘Zafar’ was from 1837 to 1857 A.D.
+</details>
+
+---
+
+**Q-GC232. Uttarakhand P.C.S. (Pre) 2002**
+
+Arrange the following four foreign invasions in
+chronological order and find the correct answer from
+the codes given below :
+1. Ahmad Shah Abdali 2. Genghis Khan
+3. Nadir Shah 4. Timur
+Code :
+
+- (a) 1, 2, 3, 4
+- (b) 4, 3, 2, 1
+- (c) 2, 4, 3, 1
+- (d) 2, 4, 1, 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The correct sequence of the foreign invaders is Genghis Khan,
+
+Timur, Nadir Shah and Ahmad Shah Abdali. Genghis Khan
+
+attacked during the reign of Iltutmish (1211-1236 A.D.),
+
+Timur invaded during the reign of Nasiruddin Mahmud in
+
+1398 AD. Nadir Shah invaded during the reign of Muhammad
+
+Shah in 1739 A.D. and the year of the invasion of Ahmad
+
+Shah Abdali was 1748-69 A.D.
+</details>
+
+---
+
+**Q-GC233. U.P.P.S.C (GIC) 2010**
+
+Which of the following statements are correct?
+1. Ahmad Shah Abdali fought the third battle of
+Panipat.
+2. Babur established the Delhi Sultanate.
+3. Shah Jahan fought the war of succession.
+4. Jahangir was a lover of beauty and nature.
+Code :
+
+- (a) 1, 2 and 3 are correct
+- (b) 1 and 3 are correct
+- (c) 1 and 4 are correct
+- (d) 1, 2, 3 and 4 are correct
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The third battle of Panipat was fought between Ahmad Shah
+
+Abdali and Marathas in 1761 A.D. Qutbuddin Aybak was
+
+the first ruler of the Delhi Sultanate and also the founder
+
+of the Slave dynasty. Shah Jahan did not fight the war of
+
+succession while it was fought among his sons (Shah Shuja,
+
+Dara Shikoh, and Aurangzeb) and Jahangir was a lover of
+
+beauty and nature.
+</details>
+
+---
+
+**Q-GC234. M.P. P.C.S. (Pre) 1994**
+
+Match the following events with their respective years:
+A. Massacres in Delhi by Nadir Shah 1. 1556
+B. First battle of Panipat was 2. 1526
+fought between Babur and
+Ibrahim Lodi
+C. Second battle of Panipat was 3. 1761
+fought between Hemu and Akbar
+D. Third battle of Panipat was fought 4. 1739
+between Ahmad Shah Abdali and
+Marathas
+Code :
+A B C D
+
+- (a) 1 4 3 2
+- (b) 3 1 4 2
+- (c) 4 2 1 3
+- (d) 1 3 2 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The battle of Karnal (1739 A.D.) was fought between the
+
+forces of Nadir Shah, an Iranian adventurer and Muhammad
+
+Shah, the Mughal emperor of India, at Karnal, north of
+
+Delhi, in which Mughals suffered a decisive defeat. Nadir 
+
+B
+
+Shah massacred the populace. The first battle of Panipat
+
+was fought between Babur and Ibrahim Lodi on 21 April,
+
+1526 in which Babur was victorious and laid the foundation
+
+of the Mughal empire. The second battle of Panipat was
+
+fought between Hemu and Akbar on 5 November, 1556
+
+in which Hemu was defeated. The third battle of Panipat
+
+was fought between Ahmad Shah Abdali and Marathas on
+
+14 January 1761 in which Marathas were badly defeated.
+</details>
+
+---
+
+**Q-GC235. Jharkhand P.C.S. (Pre) 2013**
+
+Hem Chandra Vikramaditya is famous in Indian
+history as –
+
+- (a) Puran Mal
+- (b) Maldev
+- (c) Rana Sanga
+- (d) Hemu
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Hemu was also known as Hem Chandra Vikramaditya. Hemu
+
+rose to become chief of the army and Prime Minister to
+
+Adil Shah Suri of the Sur dynasty. He fought Afghan rebels
+
+across North India from Punjab to Bengal and the Mughal
+
+forces of Akbar and Humayun in Agra and Delhi, winning 22
+
+consecutive battles. Hemu won the Battle against Targi Begh
+
+and assumed the title of Vikramaditya that had been earlier
+
+adopted by many Hindu kings since Vedic times. He was
+
+defeated in the second battle of Panipat and was beheaded
+
+by Bairam Khan, the commander of Akbar’s army.
+</details>
+
+---
+
+**Q-GC236. U.P.P.C.S. (Pre) 2016**
+
+‘The last Sun of Indian glory’ has been used for –
+
+- (a) Shivaji
+- (b) Prithviraj
+- (c) Rana Pratap
+- (d) Hemu
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+According to the Historian B.N. Luniya Prithviraj Chauhan
+
+was the last sun of Indian glory.
+</details>
+
+---
+
+**Q-GC237. 68th B.P.S.C. (Pre) 2022**
+
+In which of the following battles are the opponents not
+correctly stated?
+
+- (a) Battle of Haldighati – Maharana Pratap and Akbar
+- (b) First Battle of Panipat – Babur and Ibrahim Lodi
+- (c) Second Battle of Panipat – Tipu Sultan and Marathas
+- (d) More than one of the above
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Battle of Haldighati was fought on 18 June 1576 between
+
+forces of Mewar led by Maharana Pratap and the forces of
+
+Mughals (Akbar) led by Man Singh I of Amber.
+
+First Battle of Panipat (1526) was fought between invading
+
+forces of Babur and Ibrahim Lodi of Lodi Empire.
+
+Second Battle of Panipat (1556) was fought between King
+
+of Delhi Hem Chandra Vikramaditya, popularly known as
+
+Hemu and army of Akbar.
+</details>
+
+---
+
+**Q-GC238. U.P.P.C.S. (Mains) 2005**
+
+Match the following :
+A. Third Battle of Panipat 1. 1192
+B. Second Battle of Tarain 2. 1707
+C. Death of Akbar 3. 1761
+D. Death of Aurangzeb 4. 1605
+Select the correct answer from the codes given below :
+Code :
+A B C D
+
+- (a) 1 2 3 4
+- (b) 4 3 2 1
+- (c) 3 1 4 2
+- (d) 2 4 3 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The correct order of the events is as followsSecond Battle of Tarain - 1192 AD
+
+Death of Aurangzeb - 1707 AD
+
+Third Battle of Panipat - 1761 AD
+
+Death of Akbar - 1605 AD
+</details>
+
+---
+
+**Q-GC239. U.P.P.C.S. (Mains) 2012**
+
+Match List-I with List-II and select the correct answer
+from the code given below the lists :
+List-I List-II
+A. Battle of Haldighati 1. Babur
+B. Battle of Bilgram 2. Akbar
+C. Revolt of Khusrau 3. Humayun
+D. Battle of Khanwa 4. Jahangir
+Code :
+A B C D
+
+- (a) 2 3 4 1
+- (b) 1 3 2 4
+- (c) 3 2 4 1
+- (d) 2 4 1 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched list is as follows –
+
+Battle of Haldighati - Akbar (against Rana Pratap)
+
+Battle of Bilgram - Humayun (against Sher Shah)
+
+Revolt of Khusrau - Jahangir
+
+Battle of Khanwa - Babur (against Rana Sanga)
+</details>
+
+---
+
+**Q-GC240. I.A.S. (Pre) 1998**
+
+Match List- I with List- II and select the correct answer
+using codes given below the lists:
+List I List- II
+A. 1556 1. Battle of Haldighati
+B. 1600 2. Nadir Shah’s capture of
+Delhi
+C. 1680 3. Death of Shivaji
+D. 1739 4. Grant of Charter to
+East India Company
+5. Accession of Akbar
+Indian History General Studies B–325
+Code :
+A B C D
+
+- (a) 3 4 2 1
+- (b) 5 4 3 2
+- (c) 5 2 1 4
+- (d) 1 5 3 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+Accession of Akbar - 1556 AD
+
+Grant of Charter to East India - 1600 AD
+
+Company
+
+Death of Shivaji - 1680 AD
+
+Nadir Shah’s capture of Delhi - 1739 AD
+</details>
+
+---
+
+**Q-GC241. U.P.P.C.S. (Pre) 1998**
+
+Select the correct chronological order of the following
+battles from the codes given :
+A. Third Battle of Panipat 1. 1601 A.D.
+B. Battle of Haldighati 2. 1761 A.D.
+C. Second Battle of Tarain 3. 1576 A.D.
+D. Battle of Asirgarh 4. 1192 A.D.
+Code :
+A B C D
+
+- (a) 1 2 3 4
+- (b) 4 3 2 1
+- (c) 2 3 4 1
+- (d) 3 4 2 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The third battle of Panipat was fought between Afghans and
+
+Marathas in 1761 A.D. in which Afghans were led by Ahmad
+
+Shah Abdali and Marathas were headed by Sadashivrao Bhau.
+
+Marathas were badly defeated in this battle. The battle of
+
+Haldighati was fought between Akbar and Maharana Pratap
+
+in 1576 A.D. in which Maharana Pratap was defeated. In
+
+the second battle of Tarain (1192 A.D.), Muhammad Ghori
+
+defeated Prithviraj Chauhan. The battle of Asirgarh was
+
+fought between Miran Bahadur and Akbar in 1601 A.D.
+
+The battle resulted in the defeat of Miran Bahadur and the
+
+possession of Asirgarh by the Mughals.
+</details>
+
+---
+
+**Q-GC242. Chhattisgarh P.C.S. (Pre) 2016**
+
+Which of the following pairs (battle during the Mughal
+and Maratha Period and its year) is correctly matched?
+
+- (a) Battle of Chausa - 1538 A.D.
+- (b) Battle of Kanauj - 1539 A.D.
+- (c) Battle of Haldighati - 1576 A.D.
+- (d) Battle of Khajwa - 1657 A.D.
+- (e) Battle of Khed - 1699 A.D.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Battle of Haldighati was fought between Maharana Pratap
+
+and Akbar's forces led by Man Singh of Amber in 1576 A.D.
+
+Battle of Chausa was fought between Humayun and Shershah
+
+in June, 1539. Battle of Kannauj or Bilgram was fought
+
+between Humayun and Shershah in May, 1540. Battle of
+
+Kheda was fought between Shahu and Tarabai for the Maratha
+
+throne in 1707 A.D. Battle of Khajwa was fought between
+
+Mughal emperor Aurangzeb and Shah Suza in January, 1659.
+</details>
+
+---
+
+**Q-GC243. Chhattisgarh P.C.S. (Pre) 2008**
+
+Arrange the following battles of the Mughal period in
+chronological order–
+1. Battle of Ghaghra 2. Battle of Khanwa
+3. Battle of Chausa 4. Battle of Samugarh
+Select the answer from the codes given below:
+
+- (a) 2, 1, 3 and 4
+- (b) 1, 3, 2 and 4
+- (c) 3, 2, 1 and 4
+- (d) 2, 3, 1 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correct chronological order is1. The battle of Khanwa was fought between Rana Sanga
+
+and Babur in 1527 A.D. Babur consolidated the new
+
+Mughal empire in India by this victory.
+
+2. The battle of Ghaghra was fought between Babur and
+
+Mahmud Lodi in 1529 A.D. Lodi was defeated by Babur.
+
+This was the last battle for Babur.
+
+3. The battle of Chausa was fought between Mughal
+
+emperor Humayun and Sher Shah Suri in 1539 A.D.
+
+Humayun was defeated in this battle.
+
+4. The battle of Samugarh was fought in 1658 AD between
+
+joint army of Aurangzeb and Murad Baksh with his elder
+
+brother Dara Shikoh in 1658 A.D. In this war, Dara Shikoh
+
+was badly defeated.
+</details>
+
+---
+
+**Q-GC244. State PCS**
+
+Consider the following battles and arrange these in
+chronological order.
+I. Battle of Kannauj
+II. Battle of Chanderi
+III. Battle of Talikota
+IV. Battle of Chausa
+Select the correct answer from the code given below.
+Codes:
+
+- (a) I, II, IV, III
+- (b) II, IV, I, III
+- (c) IV, II, I, III
+- (d) I, IV, II, III U.P.R.O./A.R.O. (Pre) (Re-Exam) 2016 B
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Following is the sequence of events:-
+
+Battle of Chanderi - 1528 AD
+
+Battle of Chausa - 1539 AD
+
+Battle of Talikota - 1565 AD
+
+Battle of Kannauj - 1540 AD
+</details>
+
+---
+
+**Q-GC245. U.P.P.C.S. (Pre) 2010**
+
+Which of the following is not correctly matched?
+
+- (a) Babur - Battle of Khanwa
+- (b) Humayun - Battle of Chausa
+- (c) Akbar - Battle of Haldighati
+- (d) Jahangir - Battle of Balkh
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Battle of Balkh took place during the reign of Shah Jahan.
+
+Rest of the options are correctly matched.
+</details>
+
+---
+
+**Q-GC246. Chhattisgarh P.C.S. (Pre) 2014**
+
+Whose name called Ata Ali Khan?
+
+- (a) Abul Fazl
+- (b) Abul Faizi
+- (c) Todarmal
+- (d) Adham Khan
+- (e) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (e)**
+
+**Explanation:**
+The real name of Tansen was Ramtanu Pandey. After his
+
+conversion to Islam, he was named Ata Ali Khan.
+</details>
+
+---
+
+**Q-GC247. I.A.S. (Pre) 2000**
+
+Match List - I with List - II and select the correct
+answer using the codes given below the lists :
+List - I List - II
+A. Iqta 1. Marathas
+B. Jagir 2. Delhi Sultans
+C. Amaram 3. Mughals
+D. Mokasa 4. Vijayanagara
+Code :
+A B C D
+
+- (a) 3 2 1 4
+- (b) 2 3 4 1
+- (c) 2 3 1 4
+- (d) 3 2 4 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+"Iqta" was allotted by Delhi Sultans, Jagir was allotted by
+
+Mughal rulers, Amaram land grant was made by Vijayanagara
+
+rulers and Mokasa land was granted by Maratha rulers.
+</details>
+
+---
+
+**Q-GC248. I.A.S. (Pre) 2001**
+
+Which among the following ports was called Babul
+Mecca (Gate of Mecca) during the Mughal Period?
+
+- (a) Calicut
+- (b) Bharuch
+- (c) Cambay
+- (d) Surat
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+During the Mughal period, pilgrims used to visit Mecca for
+
+Haj from Surat. Hence, Surat was known as ‘Meccai dwar,’
+
+‘Babul Mecca’ (Gate of Mecca) and ‘Meccabari.’
+</details>
+
+---
+
+**Q-GC249. (c) Cambay (d) Broach, 69th B.P.S.C. (Pre) 2023**
+
+Which among the following ports was called Babul
+Makka (Gate of Makka) during the Mughal period?
+
+- (a) Calicut
+- (b) Surat
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+During the Mughal period, pilgrims used to visit Mecca for
+
+Haj from Surat. Hence, Surat was known as ‘Meccai dwar,’
+
+‘Babul Mecca’ (Gate of Mecca) and ‘Meccabari.’
+</details>
+
+---
+
+**Q-GC250. U.P.P.C.S. (Pre) 2001**
+
+Mughals adopted “Nawruj” festival from –
+
+- (a) Zoroastrians
+- (b) Jews
+- (c) Mongols
+- (d) Turks
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Nawruz festival was adopted from Persia (Iran). It was a
+
+national festival which was celebrated for nineteen days.
+
+It had great significance during the Mughal period. The
+
+preparation of the festival used to begin quite long before.
+
+Abul Qadir Badauni stated Nawruz as “Nawruz-i-Jalali.”
+</details>
+
+---
+
+**Q-GC251. U.P.P.C.S. (Pre) 2016**
+
+During the Mughal period, the Madarsa, which was
+specialized in the teaching of ‘Muslim Jurisprudence,’
+was located in –
+
+- (a) Lucknow
+- (b) Delhi
+- (c) Sialkot
+- (d) Hyderabad (India)
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The teaching of ‘Muslim Jurisprudence’ was specialized in
+
+Lucknow Madrasa during Mughal period. Mulla Nizamuddin
+
+born in Sihali, (Lucknow) was the originator of ‘Darse
+
+Nizami,’ the new curriculum which included Tafsir (exegesis
+
+of Quran), Hadith (tradition of Prophet Muhammad) and Fiqh
+
+(Islamic Jurisprudence).
+</details>
+
+---
+
+**Q-GC252. State PCS**
+
+Consider the following events and arrange them in
+chronological order:
+1. Murder of Abul Fazl
+2. Death of Sheikh Mubarak
+3. Death of Faizi
+4. Death of Daniyal
+Choose the correct answer from the options given
+below:
+
+- (a) 2, 1, 4, 3
+- (b) 3, 2, 1, 4
+- (c) 2, 3, 1, 4
+- (d) 4, 3, 1, 2 U.P. P.C.S. (Pre) 2024 Indian History General Studies B–327
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Sheikh Mubarak, who was the father of Abul Fazl and
+
+Faizi, passed away in 1593 CE. Faizi died in 1595 CE. The
+
+assassination of Abul Fazl occurred in 1602 CE on the orders
+
+of Prince Salim. Akbar's son Daniyal passed away in 1605 CE.
+
+Thus, the correct chronological order is 2, 3, 1, 4.
+</details>
+
+---
+
+**Q-GC253. U.P.P.C.S. (UDA/LDA) (Pre) 2001**
+
+Arrange the chronological order of the following
+options and find out the correct answer with the help
+of the given codes :
+1. Ahilya Bai
+2. Durgawati
+3. Padmini
+4. Tara Bai
+Code :
+
+- (a) 1, 2, 3, 4
+- (b) 3, 2, 4, 1
+- (c) 3, 4, 1, 2
+- (d) 2, 1, 3, 4 U.P. Lower Sub. (Pre) 2002
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Padmini was the queen of Chittor and the wife of King Rana
+
+Ratan Singh. In the battle, Khalji defeated Rana Ratan Singh
+
+at Chittor. After killing Rana Ratan Singh, Khalji wanted
+
+Rani Padmini to make her own by force. After that, Padmini
+
+decided to take ‘Jauhar’ which was similar to the Sati
+
+system. Rani Durgavati was a great Hindu warrior queen of
+
+Gondwana. After being defeated by Akbar in the war, she
+
+daggered and killed herself. Tara Bai Bhonsle was the queen
+
+of Chhatrapati Rajaram, was acclaimed for her role in keeping
+
+alive the resistance against the Mughal occupation of Maratha
+
+territories after the death of her husband. Ahilya Bai was the
+
+Holkar Queen of the Maratha-ruled Malwa kingdom. Indore
+
+was occupied by the Holkar dynasty.
+</details>
+
+---
+
+**Q-GC254. U.P.P.C.S. (Pre) 2010**
+
+Which one of the following is correctly matched?
+
+- (a) Khuldabad - Tomb of Shaikh Salim Chishti
+- (b) Fatehpur Sikri - Tomb of Itmad-ud-Daula
+- (c) Agra - Tomb of Aurangzeb
+- (d) Delhi - Tomb of Abdur Rahim Khan-i-Khanan
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The famous Dargah or Tomb of Shaikh Salim Chishti is
+
+located in Fatehpur Sikri. Tomb of Itmad-ud-Daula is located
+
+in Agra and the tomb of Aurangzeb is situated at Khuldabad
+
+(Chhatrapati Sambhaji Nagar). The tomb of Abdur Rahim
+
+Khan-i-Khanan is situated in Delhi. Therefore, option (d) is
+
+correctly matched.
+</details>
+
+---
+
+**Q-GC255. I.A.S. (Pre) 2018**
+
+With reference to the cultural history of India, consider
+the following statements:
+1. White marble was used in making Buland Darwaza
+and Khankah at Fatehpur Sikri.
+2. Red sandstone and marble were used in making
+Bara Imambara and Rumi Darwaza at Lucknow.
+Which of the following given above is/are correct?
+
+- (a) 1 only
+- (b) 2 only
+- (c) both 1 and 2
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Buland Darwaza is constructed using red sandstone stone
+
+along with white marble to decorate it. It is situated in Fatehpur
+
+Sikri in Agra. However white marble was not used in the
+
+construction of Salim Chisti's Khankah, instead it was used
+
+in making his tomb. Bada Imambada and Rumi Darwaza are
+
+both situated in Lucknow and were built by Asaf-ud-Daula.
+
+Its roof is built using just bricks and without beams or garters.
+
+Bricks and lime were used in its construction instead of stone
+
+or marble. Rumi Darwaza which is main entrance gate was
+
+built using lime plaster and lime moulding along with Lakhori
+
+bricks. Hence neither statement 1 nor statement 2 is correct.
+</details>
+
+---
+
+**Q-GC256. Chhattisgarh P.C.S. (Pre) 2017**
+
+Which of the following pairs (building of Mughal
+period and place) is not correctly matched?
+
+- (a) Sher Shah's Tomb - Sasaram
+- (b) Humayun's Tomb - Delhi
+- (c) Jahangiri Mahal - Burhanpur
+- (d) Buland Darwaza - Fatehpur Sikri
+- (e) Bibi ka Maqbara - Aurangabad
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Jahangiri Mahal was built by Akbar in Agra. Rest of the
+
+options are correctly matched.
+</details>
+
+---
+
+**Q-GC257. U.P.P.C.S. (Pre) 2019**
+
+Arrange the following monuments in chronological
+order and select the correct answer from the codes
+given below :
+I. Rabia Daurani's Tomb, Aurangabad
+II. Sher Shah Suri's Tomb, Sasaram
+III. Humayun's Tomb, Delhi
 IV. Atala Mosque, Jaunpur
+Codes :
 
-A. I-II-IV-III
-B. IV-II-III-I
-C. II-I-III-IV
-D. III-IV-II-I
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (IV-II-III-I: Atala Mosque → Sher Shah Tomb → Humayun Tomb → Rabia Daurani Tomb)
-
-**Detailed Explanation:**
-- **IV. Atala Mosque, Jaunpur (1408 CE):** Built by Sultan Ibrahim Shah Sharqi; masterpiece of the Sharqi architectural style with prominent battered propylon screens.
-- **II. Sher Shah’s Tomb, Sasaram (1545 CE):** Built by architect Aliwal Khan as a massive octagonal mausoleum standing on a square stone plinth in the middle of an artificial lake.
-- **III. Humayun’s Tomb, Delhi (1565–1572 CE):** Commissioned by Bega Begum and designed by Mirak Mirza Ghiyath; pioneer of the Mughal Charbagh garden tomb and double dome.
-- **I. Rabia Daurani’s Tomb / Bibi ka Maqbara, Aurangabad (1678 CE):** Built by Prince Azam Shah in memory of his mother Dilras Banu Begum (Rabia-ud-Daurani), wife of Aurangzeb; known as the "Poor Man's Taj" or "Taj of the Deccan".
-- **Chronological Sequence:** IV (1408) → II (1545) → III (1572) → I (1678) = **IV-II-III-I**.
-
-**Key Exam Takeaway / Trap:**
-- *Architectural Milestones:* Atala Mosque (15th c. Sharqi) → Sasaram (mid-16th c. Suri) → Humayun's Tomb (late-16th c. Akbar) → Bibi ka Maqbara (late-17th c. Aurangzeb).
-
-</details>
-
-**Q17. UPPCS Prelims 2019, Q92**
-
-With reference to the Mansabdari system:
-1. It was an official nobility system started by Akbar.
-2. Mansabdari was strictly hereditary.
-
-A. 1 only
-B. Both 1 and 2
-C. 2 only
-D. Neither 1 nor 2
+- (a) I, II, IV, III
+- (b) IV, II, III, I
+- (c) II, I, III, IV
+- (d) III, IV, II, I
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (1 only is correct)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Statement 1 is correct:** Emperor Akbar institutionalized the **Mansabdari system** in 1571–1574 CE, organizing the entire nobility, bureaucracy, and military officers into a unified hierarchical cadre with dual numerical ranks: *Zat* (personal status and basic pay) and *Sawar* (number of cavalrymen required to maintain).
-- **Statement 2 is incorrect:** Mansabdari was **strictly non-hereditary**. A mansab could never be inherited by a son upon a noble's death. Upon the death of a mansabdar, all his jagirs and properties were seized by the crown under the law of escheat (*Zabti*), and his sons had to enter imperial service afresh based entirely on individual merit and royal pleasure.
+**Explanation:**
+Atala Mosque of Jaunpur was built by Ibrahim Shah Sharqi
 
-**Key Exam Takeaway / Trap:**
-- *Non-Hereditary Principle:* The non-hereditary nature of Mansabs was the foundational mechanism that prevented the Mughal nobility from transforming into entrenched hereditary feudal barons.
+around 1408 A.D. Sher Shah Suri (1540-45 AD) built his
 
+own tomb in Sasaram. Humayun's tomb of Delhi was built
+
+under the supervision of Hazi Begum during 1565-72 A.D.
+
+Aurangzeb built a tomb at Aurangabad (Chhatrapati Sambhaji
+
+Nagar) in the memory of his wife Rabia Daurani. 
+
+B
 </details>
 
-**Q18. UPPCS Prelims 2021, Q126**
+---
 
-Assertion (A): The Mughal Empire was originally a Military State.
-Reason (R): The vitality of the development of the Central Government System depended on its military power.
+**Q-GC258. U.P.P.C.S. (UDA/LDA) (Spl) (Pre) 2010**
 
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
+Match List – I with List – II and select the correct
+answer from the codes given below the list :
+List – I List – II
+A. Babur 1. Jama Masjid (Sambhal)
+B. Humayun 2. Din Panah
+C. Akbar 3. Jahangiri Mahal
+D. Jahangir 4. Itmad-ud-Daula’s
+Mausoleum
+Code :
+A B C D
+
+- (a) 1 2 3 4
+- (b) 4 3 2 1
+- (c) 3 4 1 2
+- (d) 2 1 4 3
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Both (A) and (R) are true, and (R) is the correct explanation of (A))
+**Answer: (a)**
 
-**Detailed Explanation:**
-- **Assertion (A) is correct:** The Mughal Empire originated as a military state through conquest (Panipat, Khanwa) and organized its civil governance through the military hierarchy of the *Mansabdari* system.
-- **Reason (R) is correct:** The coherence and stability of the centralized administrative system rested upon its armed strength and ability to enforce royal orders and collect agrarian revenue.
-- **Why (R) explains (A):** Because central government vitality and provincial control depended completely on coercive military organization, the empire was inherently a military state.
+**Explanation:**
+The correctly matched list is as follows -
 
-**Key Exam Takeaway / Trap:**
-- *Structural Identity:* In Mughal administration, civil administration and military organization were one and the same entity.
+Rulers Buildings
 
-</details>## Ghatnachakra Extra Drill — Babur to Aurangzeb (UPPCS first)
+Babur – Jama Masjid (Sambhal)
 
-Teaching for these stems sits in **7.1–7.13**. UPPCS keys aligned with Ghatnachakra.
+Humayun – Din Panah
 
-**Q1. UPPCS Prelims 2018 / Ghatnachakra pattern**
+Akbar – Jahangiri Mahal
 
-Who among the following was the uncle of Ibrahim Lodi and invited Babur to invade India?
-
-A. Daulat Khan Lodi
-B. Alam Khan
-C. Dilawar Khan
-D. Mahmud Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Alam Khan)
-
-**Detailed Explanation:**
-- **Alam Khan Lodi (Alauddin Lodi):** Paternal uncle of Sultan Ibrahim Lodi and a principal pretender to the throne of Delhi. Discontented with Ibrahim's tyrannical treatment of the Afghan nobility, Alam Khan fled to Kabul to seek Babur's military assistance to depose his nephew.
-- **Daulat Khan Lodi:** The powerful Afghan governor of Punjab, who, along with his son **Dilawar Khan**, also dispatched an envoy to Kabul inviting Babur to invade Punjab and Delhi.
-- **Rana Sanga (Sangram Singh):** King of Mewar, who sent an embassy to Babur agreeing to attack Agra while Babur attacked Delhi.
-
-**Key Exam Takeaway / Trap:**
-- Distinguish the Afghan inviters: **Alam Khan was the uncle** of Ibrahim Lodi; **Daulat Khan was the Governor of Punjab**.
-
+Jahangir – Itmad-ud-Daula’s Mausoleum
 </details>
 
-**Q2. UPPCS RO / Ghatnachakra standard**
+---
 
-The Mughals belonged to which Turkic lineage?
+**Q-GC259. Chhattisgarh P.C.S (Pre) 2013**
 
-A. Ottoman Turks
-B. Chagatai Turks
-C. Seljuk Turks
-D. Ghaznavid Turks
+Match the following buildings and rulers –
+A. Qutb Minar 1. Muhammad Adil Shah
+B. Gol Gumbad 2. Iltutmish
+C. Buland Darwaza 3. Aurangzeb
+D. Moti Masjid 4. Akbar
+Code :
+A B C D
 
-<details>
-<summary>Show answer</summary>
+- (a) 2 4 1 3
+- (b) 3 2 4 1
+- (c) 4 2 1 3
+- (d) 2 1 4 3
+- (e) 4 3 2 1
 
-**Correct Answer:** **B** (Chagatai Turks)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- The Mughals were descended from the **Chagatai** branch of the Turco-Mongol lineage, named after **Chagatai Khan**, the second son of Genghis Khan.
-- On his father's side, Babur was a fifth-generation direct descendant of the great Turco-Mongol conqueror **Amir Timur** (Tamerlane).
-- On his mother's (Qutlugh Nigar Khanum) side, Babur was a fourteenth-generation descendant of **Genghis Khan**.
-- Although commonly called "Mughal" (Persian corruption of Mongol), Babur and his successors proudly identified as **Gurkani** or **Chagatai Turks**, and their ancestral mother tongue was Chagatai Turki.
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Lineage classification: **Chagatai Turks** (paternal = Timur, maternal = Genghis Khan).
+**Explanation:**
+The correctly matched list is as follows –
 
+(Buildings) (Rulers)
+
+Qutb Minar - Iltutmish
+
+Gol Gumbad - Muhammad Adil Shah
+
+Buland Darwaza - Akbar
+
+Moti Masjid (Delhi) - Aurangzeb
 </details>
 
-**Q3. UPPCS / Ghatnachakra**
+---
 
-At which battle in 1501 was Babur defeated by the Uzbek leader Shaybani Khan using the famous Tulghuma flanking tactic?
+**Q-GC260. U.P.P.C.S. (RO/ARO) (Mains) 2016**
 
-A. Battle of Khanwa
-B. Battle of Sar-e-Pul
-C. Battle of Panipat
-D. Battle of Ghagra
+Consider the following events and arrange them in
+chronological order :
+I. Battle of Kannauj II. Battle of Chausa
+III. Battle of Talikota IV. Battle of Khanwa
+Select the correct answer from the code given below.
+Codes:
 
-<details>
-<summary>Show answer</summary>
+- (a) IV, II, I, III
+- (b) IV, I, II, III
+- (c) IV, II, III, I
+- (d) II, IV, I, III
 
-**Correct Answer:** **B** (Battle of Sar-e-Pul)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Battle of Sar-e-Pul (1501):** Fought near Samarkand between young Babur and the formidable Uzbek ruler **Muhammad Shaybani Khan**.
-- Shaybani Khan encircled and decimated Babur's army using the classic nomadic horse-archer flanking maneuver known as **Tulghuma** (dividing the army into center, wings, and fast-moving flanking detachments that swept around the enemy's rear).
-- Although Babur lost Samarkand and was forced to flee, he carefully studied and mastered the Tulghuma tactics and artillery coordination, which he later deployed with devastating effect at Panipat (1526) and Khanwa (1527).
+**Answer: (a)**
 
-**Key Exam Takeaway / Trap:**
-- Babur learned the **Tulghuma** tactic from his bitter Uzbek rival **Shaybani Khan** at the **Battle of Sar-e-Pul (1501)**.
+**Explanation:**
+Battle of Kannauj - 1540 A.D.
 
+Battle of Chausa - 1539 A.D.
+
+Battle of Talikota - 1565 A.D.
+
+Battle of Khanwa - 1527 A.D.
+
+Hence, the correct option is option (a)
 </details>
 
-**Q4. UPPCS Prelims 2019 / recurring**
+---
 
-The First Battle of Panipat was fought on:
+**Q-GC261. U.P.P.C.S. (Pre) 2010**
 
-A. 15 March 1526
-B. 21 April 1526
-C. 5 November 1556
-D. 14 January 1761
+Match List-I with List-II and select the correct answer
+using the codes given below the list:
+List-I List-II
+A. Alai Darwaza, Delhi   1. Alauddin Khalji
+B. Buland Darwaza, 2. Akbar
+Fatehpur Sikri
+C. Moti Masjid, Agra 3. Shah Jahan
+D. Moti Masjid, Delhi 4. Aurangzeb
+Code:
+A B C D
 
-<details>
-<summary>Show answer</summary>
+- (a) 1 2 3 4
+- (b) 3 2 1 4
+- (c) 4 1 2 3
+- (d) 1 4 3 2
 
-**Correct Answer:** **B** (21 April 1526)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **21 April 1526:** The historic date on which **Babur** met Sultan **Ibrahim Lodi** on the plains of Panipat.
-- Babur commanded roughly 12,000 to 15,000 disciplined troops, but held a revolutionary technological advantage: mobile field artillery (*Topkhana*) directed by **Ustad Ali Quli** and matchlock infantry directed by **Mustafa Rumi**, combined with the *Rumi* (Ottoman carts tied with rawhide ropes) and *Tulghuma* flanking tactics.
-- Ibrahim Lodi was killed on the battlefield, the Delhi Sultanate was extinguished, and the **Mughal Empire was established**.
+**Answer: (a)**
 
-**Key Exam Takeaway / Trap:**
-- Panipat I exact date = **21 April 1526**. (Panipat II = 5 Nov 1556; Panipat III = 14 Jan 1761).
+**Explanation:**
+Alai Darwaza was built by Alauddin Khalji, while Buland
 
+Darwaza was built by Akbar in Fatehpur Sikri. Moti Masjid
+
+(Agra) was built by Shah Jahan and Moti Masjid (Delhi) was
+
+built by Aurangzeb.
 </details>
 
-**Q5. UPPCS / Ghatnachakra**
+---
 
-Before which battle did Babur declare Jihad, renounce wine drinking, smash golden cups, and abolish the transit customs tax (Tamgha)?
+**Q-GC262. U.P.P.C.S. (Mains) 2014**
 
-A. First Battle of Panipat (1526)
-B. Battle of Khanwa (1527)
-C. Battle of Chanderi (1528)
-D. Battle of Ghagra (1529)
+During the Mughal period ‘Muallim ‘ was –
 
-<details>
-<summary>Show answer</summary>
+- (a) A tax
+- (b) An administrative unit
+- (c) A ruler
+- (d) A ship
 
-**Correct Answer:** **B** (Battle of Khanwa)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Battle of Khanwa (16 March 1527):** Fought near Fatehpur Sikri between **Babur** and the formidable Rajput confederacy led by **Rana Sanga of Mewar** (joined by Hasan Khan Mewati and Mahmud Lodi).
-- Facing an overwhelmingly larger Rajput army, Babur's soldiers were gripped by despair. To ignite religious fervor and boost morale, Babur dramatically smashed his golden wine goblets, swore never to drink wine again, abolished the **Tamgha** (stamp tax/transit customs duty for Muslims), and proclaimed the war a **Jihad** (holy war).
-- Babur's superior artillery and Tulghuma tactics carried the day; Rana Sanga was wounded and carried off the field.
+**Answer: (*)**
 
-**Key Exam Takeaway / Trap:**
-- Declarations of **Jihad**, smashing of wine cups, and abolition of **Tamgha** occurred specifically before the **Battle of Khanwa (1527)** against Rana Sanga.
+**Explanation:**
+Muallim or navigator was an employee on Indian merchant
 
+ships. He used to hold a spherical device on the ship to identify
+
+the position of stars and the sun. It helped him to identify the
+
+correct position of his ship. In the given options, option (d)
+
+seems to be near to the answer, but it is not an appropriate
+
+answer as Muallim was an employee/worker, not a ship.
 </details>
 
-**Q6. UPPCS / Ghatnachakra**
+---
 
-After his decisive victory in the Battle of Khanwa (1527), which title did Babur assume?
+**Q-GC263. I.A.S. (Pre) 2016**
 
-A. Qalandar
-B. Ghazi
-C. Padshah
-D. Sultan
+Banjaras during the medieval period of Indian history
+were generally
 
-<details>
-<summary>Show answer</summary>
+- (a) Agriculturists
+- (b) Warriors
+- (c) Weavers
+- (d) Traders
 
-**Correct Answer:** **B** (Ghazi)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- Following his victory over Rana Sanga at Khanwa in 1527, Babur assumed the prestigious title of **Ghazi** (Slayer of Infidels / Victorious Holy Warrior).
-- **Qalandar:** Title given to Babur by the people of Kabul after the First Battle of Panipat (1526) because of his generous distribution of silver coins from the Delhi treasury to every inhabitant of Kabul.
-- **Padshah (Emperor):** Babur adopted this supreme royal title in Kabul in **1507**, abandoning the traditional Timurid title of *Mirza*.
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Title sequence: **Padshah (Kabul, 1507)** $\rightarrow$ **Qalandar (Panipat, 1526)** $\rightarrow$ **Ghazi (Khanwa, 1527)**.
+**Explanation:**
+Banjaras during the medieval period of Indian history were
 
+traders. They used to move from one place to another,
+
+sometimes with thousands of oxen, laden with food grain,
+
+salt, ghee and other daily stuff. They were specialized in
+
+Caravan trading and also in textile embroidery, etc. 
+
+Indian History General Studies B–329
 </details>
 
-**Q7. UPPCS / Ghatnachakra**
+---
 
-The territory of Babur’s empire at the time of his death in 1530 included:
+**Q-GC264. Chhattisgarh P.C.S. (Pre) 2023**
 
-A. Kabul, Punjab, and the Deccan
-B. Bengal, Bihar, and Gujarat
-C. Kabul, Punjab, and modern Uttar Pradesh (up to the borders of Bihar)
-D. Whole of Northern and Southern India
+In the context of medieval India, the term "SARAIS"
+refers to
 
-<details>
-<summary>Show answer</summary>
+- (a) A land given to religious places which was tax free
+- (b) Type of tax imposed on peasants
+- (c) A place meant to provide temporary accommodation to Indian and Foreign travellers, pilgrims, merchants, traders, etc.
+- (d) None of the above
 
-**Correct Answer:** **C** (Kabul, Punjab, and modern Uttar Pradesh)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- At Babur's death in December 1530 at Agra, his empire comprised:
-  1. **Trans-Indus territories:** Badakhshan, Kabul, and Kandahar in modern Afghanistan.
-  2. **Indo-Gangetic plains:** Punjab, Multan, Delhi, the Doab, and modern Uttar Pradesh extending eastwards to Jaunpur and the borders of Bihar (following the Battle of Ghagra, 1529).
-- Babur's empire did **not** include Gujarat, Malwa, Bengal proper, Rajasthan (which remained under Rajput clans), or any part of the **Deccan** (which was governed by the Bahmani successor sultanates and Vijayanagara).
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Babur never crossed the Vindhyas into the Deccan, nor did he annex Gujarat or central Bengal.
+**Explanation:**
+A hugely interesting feature of medieval India was the 'Sarais'
 
+which ringed cities and dotted the vast space of the Indian
+
+sub-continent. Sarais were largely built on a simple square
+
+or rectangular plain and were meant to provide temporary
+
+accommodation to Indian and Foreign travellers, pilgrims,
+
+merchants, traders, etc. In effect, sarais were public domains
+
+which thronged with people of varied cultural backgrounds.
+
+This led to cross-cultural interaction, influences and syncretic
+
+tendencies in the cultural mores of the times and at the level
+
+of the people.
 </details>
 
-**Q8. UPPCS Prelims 2025, Q3 (Ghatnachakra repeat)**
+---
 
-In which language did Babur write his celebrated autobiography, the *Baburnama (Tuzuk-i-Baburi)*?
+**Q-GC265. (c) Diwan Revenue Chief of a province, (d) Jarib A type of tax, U.P.P.C.S. (Pre) 2019**
 
-A. Persian
-B. Arabic
-C. Chagatai Turki
-D. Urdu
+Which of the following is NOT correctly matched?
 
-<details>
-<summary>Show answer</summary>
+- (a) Dam Copper coin
+- (b) Desai Revenue Collector
 
-**Correct Answer:** **C** (Chagatai Turki)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- Babur wrote his intimate, candid, and naturalist autobiography, ***Tuzuk-i-Baburi (Baburnama)***, in his native mother tongue, **Chagatai Turki** (a classical Turkic language).
-- It is regarded as one of the finest autobiographies in world literature, describing the flora, fauna, geography, architecture, and political personalities of Central Asia and India.
-- During Akbar's reign, it was translated from Chagatai Turki into Persian by **Abdur Rahim Khan-i-Khanan** in 1589.
-- Note: Although the **official court language** of the Mughal Empire was **Persian**, Baburnama was originally written in **Chagatai Turki**.
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Original language of Baburnama = **Chagatai Turki**. Language of Mughal court and administration = **Persian**.
+**Explanation:**
+Shershah Suri promulgated copper coin 'Dam'. During
 
-</details>
+Mughal period one Rupiyah (silver coin) was equal to 40
 
-**Q9. UPPCS / Ghatnachakra**
+dam.
 
-Which two Hindu kingdoms/rulers are explicitly mentioned by Babur in his autobiography *Baburnama*?
+Desai was a revenue collector at the district level during
 
-A. Marathas and Vijayanagara
-B. Vijayanagara and Mewar
-C. Orissa and Bundelkhand
-D. Gujarat and Malwa
+Maratha period.
 
-<details>
-<summary>Show answer</summary>
+Diwan was revenue chief of a province in Mughal period.
 
-**Correct Answer:** **B** (Vijayanagara and Mewar)
+Jarib was a land measurement unit during Mughal period.
 
-**Detailed Explanation:**
-- In the *Baburnama*, while describing the political landscape of Hindustan upon his arrival, Babur explicitly mentions **five Muslim states** (Bengal, Delhi/Lodi, Gujarat, Malwa, Bahmani/Deccan) and **two powerful Hindu kingdoms**:
-  1. **Vijayanagara:** Ruled by **Krishnadevaraya** (whom Babur described as the most powerful and pre-eminent sovereign in the entire subcontinent).
-  2. **Mewar:** Ruled by **Rana Sanga** (whom Babur recognized as the foremost warrior-king of northern India).
-
-**Key Exam Takeaway / Trap:**
-- The two Hindu states recorded in *Baburnama* = **Vijayanagara** (Krishnadevaraya) and **Mewar** (Rana Sanga).
-
-</details>
-
-**Q10. UPPCS / Ghatnachakra**
-
-Arrange Babur’s four major battles in India in correct chronological order:
-
-1. Battle of Panipat
-2. Battle of Khanwa
-3. Battle of Chanderi
-4. Battle of Ghagra
-
-A. 1, 2, 4, 3
-B. 1, 2, 3, 4
-C. 2, 1, 3, 4
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1, 2, 3, 4)
-
-**Detailed Explanation:**
-- **1. Battle of Panipat (21 April 1526):** Defeated Ibrahim Lodi.
-- **2. Battle of Khanwa (16 March 1527):** Defeated Rana Sanga of Mewar.
-- **3. Battle of Chanderi (29 January 1528):** Defeated Rajput ruler Medini Rai of Malwa.
-- **4. Battle of Ghagra (6 May 1529):** Defeated the joint Afghan confederacy of Bihar and Bengal under Mahmud Lodi and Nusrat Shah.
-
-**Key Exam Takeaway / Trap:**
-- Famous Hindi mnemonic: **Panipat (1526) $\rightarrow$ Khanwa (1527) $\rightarrow$ Chanderi (1528) $\rightarrow$ Ghagra (1529)** (*Paani piya, Khaana khaaya, Chanderi gaya, Ghagra pehna, mar gaya 1530*).
-
-</details>
-
-**Q11. UPPCS / Ghatnachakra trap**
-
-The Battle of Chanderi (1528) was fought between Babur and:
-
-A. Rana Sanga
-B. Medini Rai
-C. Mahmud Lodi
-D. Daulat Khan Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Medini Rai)
-
-**Detailed Explanation:**
-- **Battle of Chanderi (29 January 1528):** Fought at the strategic hill fort of Chanderi (Malwa/Madhya Pradesh).
-- Babur besieged and defeated **Medini Rai**, a prominent Rajput chieftain and close lieutenant of Rana Sanga.
-- When defeat was imminent, the Rajput women performed *Jauhar*, and the garrison fought to the death. Babur captured the fort and gave it to Ahmad Shah, a scion of the Malwa sultans.
-
-**Key Exam Takeaway / Trap:**
-- Opponent at Chanderi = **Medini Rai (1528)**.
-
-</details>
-
-**Q12. UPPCS Prelims 2024, Q4**
-
-Where was young Akbar formally crowned Emperor on 14 February 1556 following the sudden death of Humayun?
-
-A. Sirhind
-B. Delhi
-C. Kalanaur
-D. Lahore
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Kalanaur)
-
-**Detailed Explanation:**
-- Following Humayun's accidental fall and death at the Dinpanah library in Delhi (January 1556), his 13-year-old son **Akbar** was in Punjab campaigning against Sikandar Suri under the tutelage of his guardian **Bairam Khan**.
-- To prevent succession chaos, Bairam Khan hastily arranged Akbar's formal coronation on a makeshift brick masonry platform (*Takht-i-Akbari*) at **Kalanaur** (Gurdaspur district, Punjab) on **14 February 1556**.
-- Akbar assumed the royal title *Jalal-ud-din Muhammad Akbar Badshah Ghazi*, with Bairam Khan serving as *Wakil-us-Sultanat* (Regent).
-
-**Key Exam Takeaway / Trap:**
-- Coronation site of Akbar = **Kalanaur (Gurdaspur, Punjab)**.
-
-</details>
-
-**Q13. UPPCS Prelims 2024, Q132**
-
-Arrange the following prominent figures of Akbar's court in chronological order of their deaths:
-1. Abul Fazl
-2. Sheikh Mubarak
-3. Faizi
-4. Raja Todar Mal
-
-A. 4, 2, 3, 1
-B. 2, 4, 3, 1
-C. 4, 2, 1, 3
-D. 2, 3, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (4, 2, 3, 1)
-
-**Detailed Explanation:**
-- **4. Raja Todar Mal:** Passed away in Lahore in **November 1589** (along with Raja Bhagwant Das).
-- **2. Sheikh Mubarak:** Celebrated liberal scholar, drafter of the 1579 *Mahzar*, and father of Faizi and Abul Fazl; died at Agra in **August 1593**.
-- **3. Faizi (Shaikh Abu al-Faiz):** Poet Laureate (*Malik-ush-Shu'ara*) of Akbar's court; died in **October 1595**.
-- **1. Abul Fazl:** Grand Vizier, historian of the *Akbarnama*, and younger brother of Faizi; murdered in **August 1602** near Antri (Gwalior) by Bir Singh Deo Bundela at the instigation of Prince Salim (Jahangir).
-
-**Key Exam Takeaway / Trap:**
-- Chronological anchor: **Todar Mal (1589) $\rightarrow$ Sheikh Mubarak (1593) $\rightarrow$ Faizi (1595) $\rightarrow$ Abul Fazl (1602)**.
-
-</details>
-
-**Q14. UPPCS / Ghatnachakra**
-
-At the age of thirteen, Akbar’s guardian and regent (*Ataliq / Wakil*) was:
-
-A. Munim Khan
-B. Bairam Khan
-C. Hemu
-D. Tardi Beg
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Bairam Khan)
-
-**Detailed Explanation:**
-- **Bairam Khan (Khan-i-Khanan):** A loyal Shia Turkoman general who had faithfully served Humayun. He acted as Akbar's supreme guardian (*Ataliq*), regent (*Wakil-us-Sultanat*), and Commander-in-Chief from **1556 to 1560** (the Regency Period).
-- He orchestrated the victory at the Second Battle of Panipat (1556) and secured the Mughal reconquest of Delhi, Agra, Gwalior, and Jaunpur before being dismissed by Akbar in 1560.
-
-**Key Exam Takeaway / Trap:**
-- Regent during Akbar's minority = **Bairam Khan (1556–1560)**.
-
-</details>
-
-**Q15. UPPCS / Ghatnachakra**
-
-Akbar’s matrimonial alliance with the Rajput state of Amber (Jaipur) was established in 1562 with the daughter of which Raja?
-
-A. Raja Man Singh
-B. Raja Bharmal (Bihari Mal)
-C. Raja Bhagwant Das
-D. Raja Jai Singh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Raja Bharmal / Bihari Mal)
-
-**Detailed Explanation:**
-- In January **1562**, while traveling on pilgrimage to the shrine of Khwaja Moinuddin Chishti at Ajmer, Akbar met **Raja Bharmal (Bihari Mal)**, the Kachhwaha Rajput ruler of **Amber**.
-- Raja Bharmal voluntarily submitted to Mughal suzerainty and offered his eldest daughter, **Harkha Bai** (conferred the posthumous title **Mariam-uz-Zamani**, mother of Prince Salim/Jahangir), in marriage to Akbar.
-- The marriage took place at **Sambhar** in February 1562, inaugurating Akbar's enduring policy of Rajput reconciliation and inclusion in imperial governance.
-
-**Key Exam Takeaway / Trap:**
-- First Rajput ruler to enter into voluntary matrimonial alliance with Akbar = **Raja Bharmal of Amber (1562)**.
-
-</details>
-
-**Q16. UPPCS / Ghatnachakra**
-
-Who commanded the Afghan contingent in the vanguard of Maharana Pratap's army at the Battle of Haldighati (1576)?
-
-A. Hasan Khan Mewati
-B. Hakim Khan Sur
-C. Mahmud Lodi
-D. Bahlol Khan
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Hakim Khan Sur)
-
-**Detailed Explanation:**
-- At the **Battle of Haldighati (18 June 1576)**:
-  - Maharana Pratap's vanguard was led by the Afghan warrior **Hakim Khan Sur** (a direct descendant of Sher Shah Suri), who fought with fierce loyalty for Mewar and died on the battlefield.
-  - In contrast, the imperial Mughal army was commanded by a Rajput general, **Raja Man Singh of Amber** (along with Asaf Khan).
-- **Hasan Khan Mewati:** Led the Afghan contingent for Rana Sanga at the Battle of Khanwa (1527).
-
-**Key Exam Takeaway / Trap:**
-- Famous communal nuance in medieval historiography: **Hakim Khan Sur (Afghan Muslim)** fought for Maharana Pratap; **Raja Man Singh (Hindu Rajput)** commanded the Mughal imperial army.
-
-</details>
-
-**Q17. UPPCS / Ghatnachakra chronology**
-
-Arrange the following conquests of Akbar in chronological order:
-1. Conquest of Malwa
-2. Conquest of Gujarat
-3. Conquest of Kashmir
-4. Conquest of Asirgarh
-
-A. 1, 2, 3, 4
-B. 2, 1, 3, 4
-C. 1, 3, 2, 4
-D. 3, 1, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1, 2, 3, 4)
-
-**Detailed Explanation:**
-- **1. Conquest of Malwa (1561–1562):** Led by Adham Khan and Pir Muhammad, defeating Baz Bahadur.
-- **2. Conquest of Gujarat (1572–1573):** Akbar personally led the campaign, visited the sea at Cambay, and built the colossal **Buland Darwaza** at Fatehpur Sikri to commemorate the victory.
-- **3. Conquest of Kashmir (1586):** Annexed by Raja Bhagwant Das and Qasim Khan.
-- **4. Conquest of Asirgarh (1601):** The heavily fortified citadel in Khandesh; Akbar's final military conquest, famously opened using "golden keys" (bribing the garrison).
-
-**Key Exam Takeaway / Trap:**
-- First major independent conquest = **Malwa (1561)**. Last military conquest of Akbar = **Asirgarh (1601)**.
-
-</details>
-
-**Q18. UPPCS / Ghatnachakra**
-
-Who among the following was the only prominent Hindu noble to accept Akbar’s Din-i-Ilahi?
-
-A. Raja Man Singh
-B. Raja Todar Mal
-C. Raja Birbal (Mahesh Das)
-D. Raja Bhagwant Das
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Raja Birbal / Mahesh Das)
-
-**Detailed Explanation:**
-- **Din-i-Ilahi (Tauhid-i-Ilahi):** Promulgated by Akbar in **1582** as an elite ethical order based on universal toleration (*Sulh-i-Kul*), virtue, and monotheism.
-- It was not an aggressive missionary religion and had only about 18 to 20 recorded court initiates.
-- **Raja Birbal (Mahesh Das):** Akbar's trusted advisor, wit, and court noble; was the **only prominent Hindu** who formally accepted initiation into Din-i-Ilahi. Prominent Rajput generals like **Raja Man Singh** politely declined to join.
-
-**Key Exam Takeaway / Trap:**
-- Only Hindu noble to accept Din-i-Ilahi = **Birbal (Mahesh Das)**.
-
-</details>
-
-**Q19. UPPCS Prelims 2023, Q31 (Ghatnachakra repeat)**
-
-Captain William Hawkins arrived at the court of Emperor Jahangir. In which language was he able to converse directly with the Emperor?
-
-A. Persian
-B. Turkish
-C. Arabic
-D. Portuguese
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Turkish)
-
-**Detailed Explanation:**
-- Captain William Hawkins arrived at Jahangir's court in Agra in **1609** carrying a letter from King James I of England.
-- Hawkins was well-versed in **Chagatai Turki**, Jahangir's ancestral family language. Because Hawkins could converse directly in Turkish without interpreters, Jahangir was delighted, welcomed him into royal intimacy, awarded him a mansab of 400, and granted him the title *English Khan*.
-
-**Key Exam Takeaway / Trap:**
-- Conversational language = **Turkish**.
-
-</details>
-
-**Q20. UPPCS Prelims 2020, Q34 (Ghatnachakra repeat)**
-
-Who was the last ruler of the Qutb Shahi dynasty of Golconda when Aurangzeb annexed the kingdom in 1687?
-
-A. Abul Hasan Qutb Shah (Tana Shah)
-B. Abdullah Qutb Shah
-C. Muhammad Quli Qutb Shah
-D. Jamsheed Quli
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Abul Hasan Qutb Shah / Tana Shah)
-
-**Detailed Explanation:**
-- **Abul Hasan Qutb Shah (popularly known as Tana Shah):** The eighth and final Sultan of Golconda (reign: 1672–1687).
-- In 1687, Emperor **Aurangzeb** personally directed the siege of the impregnable **Golconda Fort**. After an eight-month siege failed to breach the walls, the fortress was taken in September 1687 through the treachery of an Afghan officer, Abdullah Khan Panni, who opened the gate for a bribe.
-- Abul Hasan was captured, pensioned off with 50,000 rupees, and imprisoned in Daulatabad Fort until his death in 1699.
-
-**Key Exam Takeaway / Trap:**
-- Last Qutb Shahi Sultan = **Abul Hasan Tana Shah (1687)**. (Last Adil Shahi Sultan of Bijapur = Sikandar Adil Shah, annexed 1686).
-
-</details>
-
-**Q21. IAS / Ghatnachakra**
-
-Consider the following statements regarding the Mansabdari system:
-1. The Mansabdari system was introduced by Akbar in 1571.
-2. The ranks were divided into *Zat* (personal rank and salary) and *Sawar* (number of cavalrymen required to be maintained).
-3. The ranks of Mansabdars were hereditary from the beginning.
-
-Which of the statements given above are correct?
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1 and 2 only)
-
-**Detailed Explanation:**
-- **Statement 1 is correct:** Akbar introduced the **Mansabdari system** in **1571**, adapting military administrative structures from Central Asia and Persia.
-- **Statement 2 is correct:** Ranks were classified into two distinct numbers:
-  - **Zat:** Determined the personal status, prestige, and base salary of the noble.
-  - **Sawar:** Indicated the exact quota of mounted horsemen and horses the noble was obligated to maintain for state service.
-- **Statement 3 is incorrect:** Mansabs were **strictly non-hereditary**. A mansab lapsed immediately upon the death or dismissal of the officer. Under the law of escheat (*Zabti*), all property and horses of a deceased noble reverted to the crown until accounts were audited.
-
-**Key Exam Takeaway / Trap:**
-- Cardinal rule of Mansabdari: **Non-hereditary**. All appointments, promotions, and transfers were solely at the Emperor's discretion.
-
-</details>
-
-**Q22. UKPCS Prelims 2024 / Ghatnachakra**
-
-Arrange the following events in chronological order:
-I. First Battle of Panipat
-II. Battle of Khanwa
-III. Battle of Ghagra
-IV. Battle of Chanderi
-
-A. I, II, III, IV
-B. II, I, IV, III
-C. I, II, IV, III
-D. I, IV, II, III
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (I, II, IV, III)
-
-**Detailed Explanation:**
-- **I. First Battle of Panipat:** 21 April **1526**
-- **II. Battle of Khanwa:** 16 March **1527**
-- **IV. Battle of Chanderi:** 29 January **1528**
-- **III. Battle of Ghagra:** 6 May **1529**
-
-**Key Exam Takeaway / Trap:**
-- Chronological anchor: **Panipat (1526) $\rightarrow$ Khanwa (1527) $\rightarrow$ Chanderi (1528) $\rightarrow$ Ghagra (1529)**.
-
-</details>
-
-## UKPCS — Mughal stems
-
-**Q1. UKPCS / Ghatnachakra pattern**
-
-At which place in Punjab was Akbar coronated in 1556?
-
-A. Sirhind
-B. Kalanaur
-C. Lahore
-D. Panipat
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Kalanaur)
-
-**Detailed Explanation:**
-- On **14 February 1556**, thirteen-year-old **Akbar** was crowned Emperor at **Kalanaur** (Gurdaspur district, Punjab) by his guardian **Bairam Khan** following Humayun's death.
-
-**Key Exam Takeaway / Trap:**
-- Coronation site = **Kalanaur (Gurdaspur)**.
-
-</details>
-
-**Q2. UKPCS Prelims 2010 / standard**
-
-The Battle of Haldighati was fought in which year and between whom?
-
-A. 1576; Babur and Rana Sanga
-B. 1576; Akbar (commanded by Man Singh) and Maharana Pratap
-C. 1582; Akbar and Hemu
-D. 1565; Vijayanagara and Deccan Sultanates
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1576; Akbar / Man Singh and Maharana Pratap)
-
-**Detailed Explanation:**
-- The **Battle of Haldighati** took place on **18 June 1576** in Rajasthan between the Mughal imperial forces commanded by **Raja Man Singh of Amber** and the Mewar forces led by **Maharana Pratap**.
-
-**Key Exam Takeaway / Trap:**
-- Date: **18 June 1576**.
-
-</details>
-
-**Q3. UKPCS Prelims 2025, Q59**
-
-Arrange Babur’s four battles in correct chronological order:
-
-1. Battle of Panipat
-2. Battle of Khanwa
-3. Battle of Chanderi
-4. Battle of Ghagra
-
-A. 2, 1, 3, 4
-B. 1, 3, 2, 4
-C. 1, 2, 3, 4
-D. 1, 2, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (1, 2, 3, 4)
-
-**Detailed Explanation:**
-- **1. Panipat (1526) $\rightarrow$ 2. Khanwa (1527) $\rightarrow$ 3. Chanderi (1528) $\rightarrow$ 4. Ghagra (1529)**.
-
-**Key Exam Takeaway / Trap:**
-- Annual progression: **1526 $\rightarrow$ 1527 $\rightarrow$ 1528 $\rightarrow$ 1529**.
-
-</details>
-
-**Q4. UKPCS Prelims 2025, Q60**
-
-Manohar, Bishan Das, and Ustad Mansur were leading court painters during the reign of which Mughal emperor?
-
-A. Akbar
-B. Jahangir
-C. Shah Jahan
-D. Aurangzeb
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Jahangir)
-
-**Detailed Explanation:**
-- **Jahangir's reign (1605–1627)** represents the golden age of Mughal miniature painting.
-- Master painters of Jahangir's royal atelier included:
-  - **Ustad Mansur:** Conferred the title *Nadir-ul-Asr* (Wonder of the Age); unsurpassed genius in depicting rare birds, animals, flowers, and natural history (famous for the Siberian Crane and Dodo).
-  - **Abul Hasan:** Conferred the title *Nadir-uz-Zaman* (Wonder of the World); master of portraiture and allegorical imperial scenes.
-  - **Bishan Das:** Expert portrait painter dispatched on the diplomatic embassy to Shah Abbas of Persia.
-  - **Manohar:** Celebrated portraitist and hunting-scene specialist.
-
-**Key Exam Takeaway / Trap:**
-- **Golden Age of Painting = Jahangir** (Ustad Mansur, Abul Hasan, Bishan Das, Manohar). (Golden Age of Architecture = Shah Jahan).
-
+Hence, (d) is not correctly matched.
 </details>
 
 ---

@@ -393,25 +393,8 @@ Councils are remembered as meetings that **fixed the teaching** after the Buddha
 
 > **Logic:** Order = Rajagriha (1st) → Vaishali (2nd, Sthaviravada / Mahasanghika split) → Pataliputra (3rd) → Kundalvana (4th). Anuradhapura = separate Theravada council when Pali was written down.
 
-**PYQ — UPPCS Prelims 2025, Q105**
-
-The four Buddhist Councils were held at the following places. Arrange them in correct chronological order:
-
-1. Vaishali
-2. Rajagriha
-3. Kundalvana
-4. Pataliputra
-
-A. 1, 2, 4, 3 B. 2, 1, 3, 4 C. 2, 1, 4, 3 D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests **chronological order of council venues**, not presidents or outcomes. Trap = starting at Vaishali (2nd) or placing Kundalvana (4th) before Pataliputra (3rd).
-
-**Ans: C** — Rajagriha → Vaishali → Pataliputra → Kundalvana (**2-1-4-3**). First is **not** Vaishali. Kundalvana is **last**, not second.
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2025, Q105]:** Chronological order of 4 Buddhist Councils: Rajgriha (Ajatashatru) → Vaishali (Kalashoka) → Pataliputra (Ashoka) → Kundalvana (Kanishka). *(See Q1 in Complete PYQ Bank below)*
 
 ---
 
@@ -432,20 +415,8 @@ A. 1, 2, 4, 3 B. 2, 1, 3, 4 C. 2, 1, 4, 3 D. 1, 2, 3, 4
 
 - **Nagasena** answers Milinda. **Nagarjuna** wrote *Madhyamaka Karika*. **Kumarila Bhatta** is Mimamsa.
 
-**PYQ — UPPCS Prelims 2023, Q24**
-
-*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
-
-A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests the **Milinda Panha** pair — Menander and his interlocutor. Trap = **Nagarjuna** (Mahayana philosopher) or **Kumarila Bhatta** (Mimamsa).
-
-**Ans: C — Nagasena.** Nagarjuna wrote *Madhyamaka Karika*; Kumarila Bhatta was a Mimamsaka, not a Buddhist monk.
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2023, Q24]:** *Milindapanho* is a philosophical dialogue in Pali between Indo-Greek King **Menander I** and Buddhist monk **Nagasena**. *(See Q3 in Complete PYQ Bank below)*
 
 ---
 
@@ -651,20 +622,8 @@ A **bodhisattva** is an enlightened being who postpones final nirvana to help ot
 
 > **Logic:** Amaravati school uses ayaka platforms generally, but match-the-site traps often target **Ghantasala**. Bodh Gaya is the wrong architecture family.
 
-**PYQ — UPPCS Prelims 2022, Q80**
-
-In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
-
-A. Nagarjunakonda B. Ghantasala C. Amaravati D. Bodhgaya
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests **stupa architecture vocabulary** — aryaka-pillars on a platform. Trap = **Bodh Gaya** (Mahabodhi temple) or generic Amaravati without the named Andhra site.
-
-**Ans: B — Ghantasala.** Amaravati school uses ayaka generally; Bodh Gaya is the wrong architecture family.
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2022, Q80]:** **Ayaka platforms** and ayaka pillars are architectural signatures of Andhra Ikshvaku / Krishna Valley stupas (**Amaravati** & **Jaggayyapeta**). *(See Q4 in Complete PYQ Bank below)*
 
 ---
 
@@ -705,23 +664,8 @@ A. Nagarjunakonda B. Ghantasala C. Amaravati D. Bodhgaya
 - **Barabar Hill caves** (Bihar) were donated to **Ajivikas**, not to the Buddhist sangha. This proves Ashoka patronised non-Buddhist sects.
 - Rock Edict **XII** itself commands respect for **all sects** — not only his own.
 
-**PYQ — UPPCS Prelims 2024, Q20**
-
-Consider the following statements with respect to Ashoka:
-
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
-2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
-
-A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests two Ashokan Dhamma facts — Rahulovada as *source* (false) vs Dhamma-mahamatras in the 14th year (true). Stmt 1 is the doctrinal trap; Stmt 2 is the cadre fact.
-
-**Ans: D — Only 2.** Stmt 1 is false — Dhamma is Ashoka’s edict-ethic, not the Rahulovada-sutta definition. Stmt 2 is true — Dhamma-mahamatras are a real Ashokan cadre.
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2024, Q20]:** Early Jain monks wore garments; **Parshvanatha** taught 4 vows (Chaturyama); Mahavira added **Brahmacharya** (celibacy) as 5th vow and advocated nudity. *(See Q2 in Complete PYQ Bank below)*
 
 ---
 
@@ -910,22 +854,8 @@ Only **four** tirthankaras attained nirvana outside **Sammed Shikhar / Parasnath
 | **Neminatha** (#22) | **Girnar / Urjayanta** (Gujarat) |
 | **Rishabhanatha** (#1) | **Ashtapad** (Kailash) |
 
-**PYQ — UPPCS Prelims 2021, Q131**
-
-Which one of the following pairs is NOT correctly matched?
-(Tirthankar) — (Nirvan Place)
-
-A. Rishabhanath — Ashtapad
-B. Vasupujya — Sammedashikhar
-C. Neminath — Urjayanta
-D. Mahavira — Pavapuri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Vasupujya = **Champapuri**. A, C, D are right.
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2021, Q131]:** **Neminatha** (22nd Tirthankara) symbol = **Shankha** (Conch shell); Mallinatha = Kalasha. *(See Q5 in Complete PYQ Bank below)*
 
 ---
 
@@ -1286,6 +1216,44 @@ These accept **Veda authority**. They are **not** the nastika Shramana list.
 
 ---
 
+
+## 4.33 Master Literature & Author Matrix (Ghatnachakra Core)
+
+| Religion / Tradition | Text | Author / Composer | Core Subject / Key Exam Focus |
+|---|---|---|---|
+| **Buddhism** | *Milindapanho* | **Nagasena** | Dialogue between Indo-Greek king Menander (Milinda) and monk Nagasena |
+| **Buddhism** | *Buddhacharita*, *Saundarananda*, *Sariputra Prakarana* | **Ashvaghosha** | Sanskrit epics & drama; court of Kanishka |
+| **Buddhism** | *Madhyamikakarika* | **Nagarjuna** | Doctrine of Void (*Sunyata*) & relativity; "Indian Einstein" |
+| **Buddhism** | *Visuddhimagga* | **Buddhaghosa** | Theravada Abhidhamma & meditation manual |
+| **Buddhism** | *Abhidharmakosha* | **Vasubandhu** | Sarvastivada philosophical exposition |
+| **Jainism** | *Kalpasutra* | **Bhadrabahu** | Biographies of Tirthankaras; leader of Digambara migration south |
+| **Jainism** | *Parishishta Parvan* | **Hemachandra** | History of early Jain church and Mauryan conversions |
+| **Jainism** | *Syadvadamanjari* | **Mallisena** | Philosophical commentary on Syadvada |
+| **Jainism** | *Dravyasamgraha* | **Nemichandra** | Exposition of 6 Dravyas (substances) |
+| **Jainism** | *Tattvartha Sutra* | **Umaswami** | First Jain text in Sanskrit; accepted by BOTH Digambara & Svetambara |
+| **Jainism** | *Nyayavatara* | **Siddhasena Divakara** | First systematic Jain logic manual |
+| **Jainism** | *Nyayadipika* | **Dharmabhushana** | Manual of Jain epistemology |
+| **Jainism** | *Pravachanasara* | **Kundakunda** | Core Digambara philosophical scripture |
+
+## 4.34 Shaiva, Bhagavata & Shakta High-Yield Spines
+
+- **Cosmogonic Cycles:** 4 Epochs in order: **Krita → Treta → Dvapara → Kaliyuga**.
+- **Bhagavatism Origins:** Krishna (son of Devaki, disciple of **Ghor Angirasa**) mentioned in *Chhandogya Upanishad*. Panini records worshippers of Vasudeva as **Vasudevaka**. Megasthenes notes people of Shurasena (Mathura) worshipped **Heracles** (= Vasudeva-Krishna).
+- **Epigraphic Proof:** **Heliodorus Garuda Pillar** at Besnagar (Vidisha, MP) — Greek ambassador calls himself *Bhagavata* and Vasudeva *Devadevas* (God of Gods).
+- **Bhakti Saints of South India:**
+  - **Alvars (12):** Devoted to Vishnu; only female saint was **Andal** (god-intoxicated poetess).
+  - **Nayanars (63):** Devoted to Shiva; leading figures: **Tirujnanasambandar (Sambandar)**, **Appar**, **Sundaramurti (Sundarar)**, **Manikkavachakar**.
+  - **Chola temple conflict:** Staunch Shaiva Chola king **Kulottunga II** threw the idol of Govindaraja (Vishnu) from Chidambaram temple into the sea.
+- **Shaiva Sects (*Vamana Purana* 4 schools):**
+  1. *Shaiva* (ordinary devotees)
+  2. *Pashupata* — founded by **Lakulisha** (2nd century BCE; considered Shiva's incarnation)
+  3. *Kapalika* — worship Shiva as ferocious **Bhairava**; ascetic rituals with human skull (*naramunda*)
+  4. *Kalamukha* — extreme ascetic practices
+  - *Lingayat / Virashaiva* founded by **Basava** in Karnataka.
+  - *Nathpanth* founded by **Matsyendranatha** and organized by **Gorakhnatha**.
+- **12 Jyotirlingas:** Somnath (Gujarat), Nageshwar (Gujarat), Kedarnath (UK), Kashi Vishwanath (UP), Baidyanath (Jharkhand), Mahakaleshwar (Ujjain MP), Omkareshwar (MP), Bhimashankar (Maharashtra), Trimbakeshwar (Nashik MH), Ghushmeshwar (Rajasthan), Mallikarjuna (Srisailam AP), Rameshwaram (TN).
+- **Major Shakta Temples:** Kamakhya (Guwahati, Assam), Vindhyavasini Devi (Vindhyachal, Mirzapur UP), Chausath Yogini (Morena, MP), Parvati Temple (Nachna-Kuthara, MP), Dakshineswar Kali (WB).
+
 ## Complete PYQ Bank (Topic 4)
 
 > Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
@@ -1362,22 +1330,7 @@ A. Nagarjunakonda B. Ghantasala C. Amaravati D. Bodhgaya
 
 ### UPPCS Prelims 2021
 
-**Q5. UPPCS Prelims 2021, Q131**
 
-Which one of the following pairs is NOT correctly matched?
-(Tirthankar) (Nirvan Place)
-
-A. Rishabhanath — Ashtapad
-B. Vasupujya — Sammedashikhar
-C. Neminath — Urjayanta
-D. Mahavira — Pavapuri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Vasupujya = Champapuri.
-
-</details>
 
 ### Years with zero extra hits in local `pyq/`
 
@@ -1388,9 +1341,11 @@ UPPCS Prelims **2020, 2019, 2018** — no further GS-I question maps to this top
 
 ## Complete PYQ Bank — Ghatnachakra Buddhism / Jainism / Bhagavata (UPPCS / UKPCS / standard)
 
-Older stems from Ghatnachakra Buddhism–Jainism–Shaiva–Bhagavata (B–47+). Teaching lives in Topic 4 sections 4.1–4.32. Year-coded UPPCS stems already banked (2025 council order, 2024 Ashokan Dhamma, 2023 Milinda Panha, 2022 Ghantasala, 2021 Vasupujya nirvana pair) are not repeated as identical UPPCS-bank entries; older multi-state stems on the same facts are kept where useful.
+Older stems from Ghatnachakra Buddhism (145 Qs), Jainism (62 Qs), and Shaiva/Bhagavata (31 Qs) — complete 238-question bank. Year-coded UPPCS stems already banked are kept where useful.
 
-**Q-GC1. MPPCS (Spl) Pre 2004**
+### Buddhism (Q1 – Q145)
+
+**Q-GC1. M.P.P.C.S. (Spl) (Pre) 2004**
 
 When was Gautama Buddha born?
 
@@ -1405,12 +1360,13 @@ D. 544 B.C.
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Traditional date **563 BCE** at Lumbini near Kapilavastu.
+**Ans: A.** Gautama Buddha, also known as Siddhartha (childhood name), was born in 563 B.C. in Shakya Kshatriya family in Lumbini near Kapilvastu (Nepal). His father’s name was Shuddhodana who was the chief of the Shakya clan. His mother was Mayadevi who was from the ‘Koliya clan.’ At the age of 29, he left his home on his horse “Kanthaka” accompanied by Channa and this was called “Mahabhinishkramana”. He died at the age of 80 years in 483 B.C. at Kushinagar (the first capital city of Malla Kingdom) which is known as “Mahaparinirvana”.
 
 </details>
 
 ---
-**Q-GC2. UPPCS Mains 2014**
+
+**Q-GC2. U.P.P.C.S. (Mains) 2014**
 
 Which of the events of Buddha’s life is known as ‘Mahabhinishkramana’?
 
@@ -1425,14 +1381,15 @@ D. His attainment of enlightenment
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Mahabhinishkramana** is the Great Renunciation / departure from home (age 29).
+**Ans: C.** See the explanation of above question. (Gautama Buddha, also known as Siddhartha (childhood name), was born in 563 B.C. in Shakya Kshatriya family in Lumbini near Kapilvastu (Nepal). His father’s name was Shuddhodana who was the chief of the Shakya clan. His mother was Mayadevi who was from the ‘Koliya clan.’ At the age of 29, he left his home on his horse “Kanthaka” accompanied by Channa and this was called “Mahabhinishkramana”. He died at the age of 80 years in 483 B.C. at Kushinagar (the first capital city of Malla Kingdom) which is known as “Mahaparinirvana”.)
 
 </details>
 
 ---
-**Q-GC3. UPPCS Pre 2008**
 
-Gautama Buddha’s Mother was from which clan?
+**Q-GC3. U.P.P.C.S. (Pre) 2008**
+
+Gautama Buddha’s Mother was from which clan ?
 
 A. Shakya clan
 
@@ -1445,12 +1402,13 @@ D. Koliyan clan
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Mayadevi / Mahamaya** belonged to the **Koliyan** clan.
+**Ans: D.** See the explanation of above question. (Gautama Buddha, also known as Siddhartha (childhood name), was born in 563 B.C. in Shakya Kshatriya family in Lumbini near Kapilvastu (Nepal). His father’s name was Shuddhodana who was the chief of the Shakya clan. His mother was Mayadevi who was from the ‘Koliya clan.’ At the age of 29, he left his home on his horse “Kanthaka” accompanied by Channa and this was called “Mahabhinishkramana”. He died at the age of 80 years in 483 B.C. at Kushinagar (the first capital city of Malla Kingdom) which is known as “Mahaparinirvana”.)
 
 </details>
 
 ---
-**Q-GC4. UPPCS Pre 2002 / MPPCS**
+
+**Q-GC4. U.P.P.C.S. (Pre) 2002 / M.P.P.C.S. (Pre) 1992**
 
 Gautama Buddha was born at –
 
@@ -1465,14 +1423,39 @@ D. Patliputra
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Birth place is **Lumbini** (near Kapilavastu).
+**Ans: B.** See the explanation of above question. (Gautama Buddha, also known as Siddhartha (childhood name), was born in 563 B.C. in Shakya Kshatriya family in Lumbini near Kapilvastu (Nepal). His father’s name was Shuddhodana who was the chief of the Shakya clan. His mother was Mayadevi who was from the ‘Koliya clan.’ At the age of 29, he left his home on his horse “Kanthaka” accompanied by Channa and this was called “Mahabhinishkramana”. He died at the age of 80 years in 483 B.C. at Kushinagar (the first capital city of Malla Kingdom) which is known as “Mahaparinirvana”.)
 
 </details>
 
 ---
-**Q-GC5. UP UDA/LDA Pre 2006**
 
-From which inscriptions of the following dynasty was Lumbini known as Buddha’s birthplace?
+**Q-GC5. Chhattisgarh P.C.S. (Pre) 2014**
+
+Which of these is another name of Buddha?
+
+A. Parth
+
+B. Prachhanna
+
+C. Mihir
+
+D. Gudakesh
+
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: E.** Parth and Gudakesh were the names of Arjuna in Mahabharat. Mihir and Prachhanna were not the names of the Buddha. Hence intended answer is (e), but Chhattisgarh Public Service Commission has declared option (b) as the correct answer in initial answer key as well as in revised answer key.
+
+</details>
+
+---
+
+**Q-GC6. U.P. U.D.A./L.D.A. (Pre) 2006**
+
+From which inscriptions of the following dynasty was
+Lumbini known as Buddha’s birthplace ?
 
 A. Mauryan
 
@@ -1485,14 +1468,17 @@ D. Kushan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Ashoka’s **Rummindei** pillar (Mauryan) marks Lumbini as the birthplace.
+**Ans: A.** From the Mauryan dynasty emperor Ashoka’s Rummindei Pillar inscription, it is known that Lumbini is the birthplace of Gautam Buddha. According to this inscription King Ashoka came here (Lumbini) after the 20th year of his coronation and worshipped the place where Shakyamuni was born. In addition to that, he also exempted Lumbini from Bali tax and was asked to pay only an eighth share of the produce as it was the birthplace of Gautam Buddha.
 
 </details>
 
 ---
-**Q-GC6. UP UDA/LDA Mains 2010**
 
-Which one of the following inscriptions of Ashoka confirms the tradition that Gautama Buddha was born in Lumbini?
+**Q-GC7. U.P. U.D.A./L.D.A. (Mains) 2010**
+
+Which one of the following inscriptions of Ashoka
+confirms the tradition that Gautama Buddha was
+born in Lumbini?
 
 A. Basarh Pillar Inscription
 
@@ -1505,14 +1491,17 @@ D. Rummindei Pillar Inscription
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Rummindei** pillar confirms Lumbini as birthplace.
+**Ans: D.** BOOK
 
 </details>
 
 ---
-**Q-GC7. UPPCS Mains 2011 / 2007 / 2004**
 
-The inscription of which one of the following kings gives the information that Sakyamuni Buddha was born in Lumbini?
+**Q-GC8. U.P.P.C.S. (Mains) 2011 / U.P.P.C.S. (Mains) 2007 / U.P.P.C.S. (Mains) 2004**
+
+The inscription of which one of the following kings gives
+the information that Sakyamuni Buddha was born in
+Lumbini?
 
 A. Ashoka
 
@@ -1525,14 +1514,16 @@ D. Dharmapala
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Ashoka** (Rummindei).
+**Ans: A.** See the explanation of above question. (BOOK)
 
 </details>
 
 ---
-**Q-GC8. BPSC / UPPCS Pre 2011**
 
-Where did Mahatma Buddha’s ‘Mahaparinirvana’ take place?
+**Q-GC9. 47th B.P.S.C. (Pre) 2005 / U.P.P.C.S. (Pre) 2011 / 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Where did Mahatma Buddha’s ‘Mahaparinirvana’
+take place?
 
 A. Lumbini
 
@@ -1545,14 +1536,16 @@ D. Kapilvastu
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Mahaparinirvana** at **Kushinagar** (Malla).
+**Ans: C.** Mahatma Buddha delivered his first sermon at the site of Deer Park at Sarnath. Later he moved towards Koshala, Kapilavastu, Vaishali and Rajgriha to propagate the teachings of Buddhism. The king of Koshala Prasenjit with his entire family adopted discipleship of Buddha. During his campaign, he reached ‘Pava’, the capital of Mallas. At Pava, Buddha stayed in the mango grove of Chund, the blacksmith. There Chund provided him with large amount of Sukaramaddava, which resulted in sickness with the flow of blood and violent deadly pains, but Buddha reached Kushinara (Capital of Republic of Malla). Here he abandoned his body in 483 BC at the age of 80 years. It is also known as Mahaparinirvana.
 
 </details>
 
 ---
-**Q-GC9. UPPCS Pre 2011**
 
-Gautama Buddha attained “Mahaparinirvana” in kingdom of –
+**Q-GC10. U.P.P.C.S. (Pre) 2011**
+
+Gautama Buddha attained “Mahaparinirvana” in
+kingdom of –
 
 A. Aung
 
@@ -1565,12 +1558,13 @@ D. Vatsa
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Kushinagar was capital of the **Malla** republic.
+**Ans: C.** See the explanation of above question. (Mahatma Buddha delivered his first sermon at the site of Deer Park at Sarnath. Later he moved towards Koshala, Kapilavastu, Vaishali and Rajgriha to propagate the teachings of Buddhism. The king of Koshala Prasenjit with his entire family adopted discipleship of Buddha. During his campaign, he reached ‘Pava’, the capital of Mallas. At Pava, Buddha stayed in the mango grove of Chund, the blacksmith. There Chund provided him with large amount of Sukaramaddava, which resulted in sickness with the flow of blood and violent deadly pains, but Buddha reached Kushinara (Capital of Republic of Malla). Here he abandoned his body in 483 BC at the age of 80 years. It is also known as Mahaparinirvana.)
 
 </details>
 
 ---
-**Q-GC10. UPPCS Mains 2005**
+
+**Q-GC11. U.P.P.C.S. (Mains) 2005**
 
 Buddha attained Mahaparinirvana in the Republic of the–
 
@@ -1585,12 +1579,13 @@ D. Palas
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Mallas**.
+**Ans: A.** See the explanation of above question. (Mahatma Buddha delivered his first sermon at the site of Deer Park at Sarnath. Later he moved towards Koshala, Kapilavastu, Vaishali and Rajgriha to propagate the teachings of Buddhism. The king of Koshala Prasenjit with his entire family adopted discipleship of Buddha. During his campaign, he reached ‘Pava’, the capital of Mallas. At Pava, Buddha stayed in the mango grove of Chund, the blacksmith. There Chund provided him with large amount of Sukaramaddava, which resulted in sickness with the flow of blood and violent deadly pains, but Buddha reached Kushinara (Capital of Republic of Malla). Here he abandoned his body in 483 BC at the age of 80 years. It is also known as Mahaparinirvana.)
 
 </details>
 
 ---
-**Q-GC11. MPPCS / CGPCS**
+
+**Q-GC12. M.P.P.C.S. (Pre) 1997 / Chhattisgarh P.C.S. (Pre) 2011**
 
 Gautama Buddha attained Nirvana at which place?
 
@@ -1605,12 +1600,13 @@ D. Sarnath
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Kusinara / Kushinagar** (Mahaparinirvana).
+**Ans: A.** See the explanation of above question. (Mahatma Buddha delivered his first sermon at the site of Deer Park at Sarnath. Later he moved towards Koshala, Kapilavastu, Vaishali and Rajgriha to propagate the teachings of Buddhism. The king of Koshala Prasenjit with his entire family adopted discipleship of Buddha. During his campaign, he reached ‘Pava’, the capital of Mallas. At Pava, Buddha stayed in the mango grove of Chund, the blacksmith. There Chund provided him with large amount of Sukaramaddava, which resulted in sickness with the flow of blood and violent deadly pains, but Buddha reached Kushinara (Capital of Republic of Malla). Here he abandoned his body in 483 BC at the age of 80 years. It is also known as Mahaparinirvana.)
 
 </details>
 
 ---
-**Q-GC12. UP Lower Sub Mains 2015**
+
+**Q-GC13. U.P. Lower Sub. (Mains) 2015**
 
 Mahaparinirvana Temple is located at -
 
@@ -1625,17 +1621,18 @@ D. Shravasti
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Mahaparinirvana temple** is at **Kushinagar** (UP).
+**Ans: A.** Mahaparinirvana temple is situated in Kushinagar district of Uttar Pradesh. It has a very famous statue of Buddha. The image was unearthed during an excavation in 1876-77 A.D.. Carved from Chunar sandstone, the statue represents the dying Buddha reclining on his right side.
 
 </details>
 
 ---
-**Q-GC13. IAS Pre 2015 / 2014**
 
-Which of the following Kingdoms were associated with the life of the Buddha?
+**Q-GC14. I.A.S. (Pre) 2015 / I.A.S. (Pre) 2014**
 
-1. Avanti 2. Gandhara 3. Kosala 4. Magadha
-
+Which of the following Kingdoms were associated with
+the life of the Buddha?
+1. Avanti 2. Gandhara
+3. Kosala 4. Magadha
 Select the correct answer using the code given below.
 
 A. 1, 2 and 3
@@ -1649,14 +1646,16 @@ D. 1, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Strong life-association with **Kosala** and **Magadha**. Avanti/Gandhara are not the standard pair in this stem.
+**Ans: C.** From the given kingdoms, Gautama Buddha was associated with Koshala and Magadha kingdoms. He visited these two kingdoms to propagate his teachings.
 
 </details>
 
 ---
-**Q-GC14. UPPCS Pre 2013**
 
-Who was the last person to get enlightenment from Gautama Buddha?
+**Q-GC15. U.P. P.C.S. (Pre) 2013**
+
+Who was the last person to get enlightenment from
+Gautama Buddha?
 
 A. Anand
 
@@ -1669,14 +1668,16 @@ D. Subhadda
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Last convert / last sermon hearer = **Subhadda**.
+**Ans: D.** Gautama Buddha, in his last years, went to his disciple named Chund at Pava, where he suffered food poisoning after eating Sukaramaddava offered by Chund. Then he went to Kushinagar (capital city of the Mallas Kingdom) where he gave his last BOOK
 
 </details>
 
 ---
-**Q-GC15. UP RO/ARO Pre 2016**
 
-Who amongst the following was the last person converted by the Buddha?
+**Q-GC16. U.P. R.O./ A.R.O. (Pre) 2016**
+
+Who amongst the following was the last person
+converted by the Buddha?
 
 A. Anand
 
@@ -1689,14 +1690,16 @@ D. Subhadda
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Subhadda**.
+**Ans: D.** See the explanation of above question. (Gautama Buddha, in his last years, went to his disciple named Chund at Pava, where he suffered food poisoning after eating Sukaramaddava offered by Chund. Then he went to Kushinagar (capital city of the Mallas Kingdom) where he gave his last BOOK)
 
 </details>
 
 ---
-**Q-GC16. UPPCS Mains 2015**
 
-Where did Buddha reside during the last rainy season of his life?
+**Q-GC17. U.P.P.C.S. (Mains) 2015**
+
+Where did Buddha reside during the last rainy season
+of his life?
 
 A. Shravasti
 
@@ -1709,14 +1712,16 @@ D. Sarnath
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Last rains memory places him near **Vaishali** (Beluva).
+**Ans: B.** Buddha resided in Vaishali during the last rainy season of his life. Actually, Buddha reached Beluva which was in the suburb of Vaishali to spend his time during rainy season at the age of eighty years with his two disciples, one of them popularly known as ‘Ananda.’
 
 </details>
 
 ---
-**Q-GC17. IAS Pre 2013**
 
-Which one of the following describes best the concept of Nirvana in Buddhism?
+**Q-GC18. I.A.S. (Pre) 2013**
+
+Which one of the following describes best the concept
+of Nirvana in Buddhism?
 
 A. The extinction of the flame of desire
 
@@ -1729,12 +1734,13 @@ D. A mental stage beyond all comprehension
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Nirvana as extinction / blowing out of the flame of **desire**.
+**Ans: A.** Buddhism considers desire as the cause of all the pain. The State of Nirvana in Buddhism is considered as a state which is free from desire, pain, pleasure, etc. The literal meaning of the word Nirvana is ‘blown out’ and it can be seen as the state of extinction of the flame of desire. Hence, option (a) is the correct answer.
 
 </details>
 
 ---
-**Q-GC18. BPSC 67th Pre 2022**
+
+**Q-GC19. 67th B.P.S.C. (Pre) 2022**
 
 Who had attained enlightenment in Bodh Gaya?
 
@@ -1751,12 +1757,13 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Gautama Buddha** at Bodh Gaya.
+**Ans: B.** Gautama Buddha has attained enlightenment in Bodh Gaya, Bihar.
 
 </details>
 
 ---
-**Q-GC19. UPPSC GIC 2010**
+
+**Q-GC20. U.P.P.S.C. (GIC) 2010**
 
 Who was Alara Kalama?
 
@@ -1771,14 +1778,16 @@ D. A teacher of Buddha.
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Alara Kalama** was an early teacher of Siddhartha (Samkhya-linked).
+**Ans: D.** Alara Kalama was one of the best and well known religious teacher. Ascetic Buddha went to study under him. He stayed and learnt many things, including meditation. He worked hard and eventually equalled his teacher in learning. Finally, Alara Kalama could not teach Buddha anymore, and he said, “You are the same as I am now. There is no difference between us. Stay here and take my place and teach my students with me.” Alara Kalama was an Acharya of Samkhya philosophy and was renowned for his spiritual strength.
 
 </details>
 
 ---
-**Q-GC20. BPSC / UPPCS / MPPCS**
 
-At which place did Mahatma Buddha give his first ‘Dhammachakkhapavathana’?
+**Q-GC21. 53rd to 55th B.P.S.C. (Pre) 2011 / 47th B.P.S.C. (Pre) 2005 / U.P.P.C.S. (Mains) 2004 / M.P.P.C.S. (Pre), 1991 1999**
+
+At which place did Mahatma Buddha give his first
+‘Dhammachakkhapavathana’?
 
 A. Lumbini
 
@@ -1791,12 +1800,13 @@ D. Vaishali
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** First sermon at **Sarnath** (*Dharmachakra Pravartana*).
+**Ans: B.** After his enlightenment in Bodhgaya, Buddha went to Sarnath, where he delivered his first sermon which is known in Pali as the ‘Dhammachakkhapavathana’ or “Dharma Chakra Pravartana.” Sarnath is one of the four holy places associated with the life of Buddha. Other three important places related to Buddhism are Lumbini (birthplace of Buddha) Bodhgaya (the place of enlightenment of Buddha) and Kushinagar (place of death popularly known as Mahaparinirvana in Buddhism).
 
 </details>
 
 ---
-**Q-GC21. Jharkhand PCS Pre 2013**
+
+**Q-GC22. Jharkhand P.C.S. (Pre) 2013**
 
 Where did Buddha preach his first sermon?
 
@@ -1811,14 +1821,58 @@ D. Bodh Gaya
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Sarnath**.
+**Ans: B.** See the explanation of above question. (After his enlightenment in Bodhgaya, Buddha went to Sarnath, where he delivered his first sermon which is known in Pali as the ‘Dhammachakkhapavathana’ or “Dharma Chakra Pravartana.” Sarnath is one of the four holy places associated with the life of Buddha. Other three important places related to Buddhism are Lumbini (birthplace of Buddha) Bodhgaya (the place of enlightenment of Buddha) and Kushinagar (place of death popularly known as Mahaparinirvana in Buddhism).)
 
 </details>
 
 ---
-**Q-GC22. UP Lower Sub Pre 2004**
 
-In Buddhist text “Dharmachakra Parvartana” is known as –
+**Q-GC23. U.P.P.C.S. (Pre) 1993**
+
+Who gave his first sermon in Sarnath?
+
+A. Mahavira
+
+B. Sankaracharya
+
+C. Mahatma Buddha
+
+D. Guru Nanak
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (After his enlightenment in Bodhgaya, Buddha went to Sarnath, where he delivered his first sermon which is known in Pali as the ‘Dhammachakkhapavathana’ or “Dharma Chakra Pravartana.” Sarnath is one of the four holy places associated with the life of Buddha. Other three important places related to Buddhism are Lumbini (birthplace of Buddha) Bodhgaya (the place of enlightenment of Buddha) and Kushinagar (place of death popularly known as Mahaparinirvana in Buddhism).)
+
+</details>
+
+---
+
+**Q-GC24. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Gautama Buddha gave his first sermon at -
+
+A. Vaishali
+
+B. Kaushambi
+
+C. Sarnath
+
+D. Pawapuri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** BOOK
+
+</details>
+
+---
+
+**Q-GC25. U.P. Lower Sub. (Pre) 2004**
+
+In Buddhist text “Dharmachakra Parvartana” is
+known as –
 
 A. His (Buddha) sight
 
@@ -1831,14 +1885,37 @@ D. Buddha rituals
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** First sermon at **Sarnath**.
+**Ans: B.** See the explanation of above question. (BOOK)
 
 </details>
 
 ---
-**Q-GC23. UPPCS Pre 2011**
 
-Gautama Buddha gave the maximum sermons at which place?
+**Q-GC26. U.P. Lower Sub. (Pre) 2015**
+
+‘Dharmachakrapravartana’ was performed at –
+
+A. Sanchi
+
+B. Sravasti
+
+C. Sarnath
+
+D. Vaishali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (BOOK)
+
+</details>
+
+---
+
+**Q-GC27. U.P.P.C.S. (Pre) 2011**
+
+Gautama Buddha gave the maximum sermons at which
+place?
 
 A. Vaishali
 
@@ -1851,12 +1928,13 @@ D. Rajgriha
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Tradition of maximum sermons at **Shravasti** (Kosala).
+**Ans: B.** Most of the disciples of Gautama Buddha were from the Koshala region. He delivered his maximum sermons at Shravasti, the capital of Koshala.
 
 </details>
 
 ---
-**Q-GC24. UP UDA/LDA Pre 2010**
+
+**Q-GC28. U.P. U.D.A./L.D.A. (Pre) 2010**
 
 Buddha had visited Kaushambi during the reign of
 
@@ -1871,14 +1949,16 @@ D. Nicakshu
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Visit under **Udayana** of Kaushambi.
+**Ans: B.** Mahatma Buddha visited Kaushambi during the reign of “King Udayana”. Under the influence of Pindola Bharadwaj, Udayana turned to Buddhism and donated Ghoshitram Vihar to Bhikshu Sangh.
 
 </details>
 
 ---
-**Q-GC25. UPPCS Pre 2000**
 
-First Buddhist Conference after the death of Buddha was presided over by:
+**Q-GC29. U.P.P.C.S. (Pre) 2000**
+
+First Buddhist Conference after the death of Buddha
+was presided over by:
 
 A. Mahakashyapa
 
@@ -1891,12 +1971,13 @@ D. Nagasena
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** First Council president = **Mahakassapa / Mahakashyapa** (Ajatashatru patron).
+**Ans: A.** The first Buddhist Council was held soon after the Mahaparinirvana of the Buddha, under the patronage of King Ajatashatru with the monk Mahakassapa presiding at Rajgriha, in the Saptaparni Cave. The idea was to preserve Buddha’s teachings (Sutta) and rules for disciples (Vinaya). Ananda, one of the great disciples of Buddha, recited Suttas and Upali; another disciple recited Vinaya. Abhidhamma Pitaka was also included.
 
 </details>
 
 ---
-**Q-GC26. BPSC 67th Pre 2022**
+
+**Q-GC30. 67th B.P.S.C. (Pre) 2022**
 
 Who was the President of the First Buddhist Council?
 
@@ -1913,12 +1994,34 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Mahakashyapa**.
+**Ans: B.** See the explanation of above question. (The first Buddhist Council was held soon after the Mahaparinirvana of the Buddha, under the patronage of King Ajatashatru with the monk Mahakassapa presiding at Rajgriha, in the Saptaparni Cave. The idea was to preserve Buddha’s teachings (Sutta) and rules for disciples (Vinaya). Ananda, one of the great disciples of Buddha, recited Suttas and Upali; another disciple recited Vinaya. Abhidhamma Pitaka was also included.)
 
 </details>
 
 ---
-**Q-GC27. BPSC 67th Re-Exam 2022**
+
+**Q-GC31. U.P. U.D.A./L.D.A. (Mains) 2010**
+
+Who among the following conducted the first Buddhist Council ?
+
+A. Ananda
+
+B. Mahakassapa
+
+C. Moggaliputta Tissa
+
+D. Upali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (The first Buddhist Council was held soon after the Mahaparinirvana of the Buddha, under the patronage of King Ajatashatru with the monk Mahakassapa presiding at Rajgriha, in the Saptaparni Cave. The idea was to preserve Buddha’s teachings (Sutta) and rules for disciples (Vinaya). Ananda, one of the great disciples of Buddha, recited Suttas and Upali; another disciple recited Vinaya. Abhidhamma Pitaka was also included.)
+
+</details>
+
+---
+
+**Q-GC32. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
 
 Where was the first Buddhist Council convened?
 
@@ -1935,12 +2038,13 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Rajagriha / Rajgir** (Saptaparni cave).
+**Ans: B.** See the explanation of above question. (The first Buddhist Council was held soon after the Mahaparinirvana of the Buddha, under the patronage of King Ajatashatru with the monk Mahakassapa presiding at Rajgriha, in the Saptaparni Cave. The idea was to preserve Buddha’s teachings (Sutta) and rules for disciples (Vinaya). Ananda, one of the great disciples of Buddha, recited Suttas and Upali; another disciple recited Vinaya. Abhidhamma Pitaka was also included.)
 
 </details>
 
 ---
-**Q-GC28. UP RO/ARO Pre 2014**
+
+**Q-GC33. U.P.R.O./A.R.O. (Pre) 2014**
 
 ‘Saptaparni Cave’ is situated in –
 
@@ -1955,14 +2059,40 @@ D. Pawapuri
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Saptaparni** cave at **Rajgriha**.
+**Ans: C.** See the explanation of above question. (The first Buddhist Council was held soon after the Mahaparinirvana of the Buddha, under the patronage of King Ajatashatru with the monk Mahakassapa presiding at Rajgriha, in the Saptaparni Cave. The idea was to preserve Buddha’s teachings (Sutta) and rules for disciples (Vinaya). Ananda, one of the great disciples of Buddha, recited Suttas and Upali; another disciple recited Vinaya. Abhidhamma Pitaka was also included.)
 
 </details>
 
 ---
-**Q-GC29. IAS Pre 2001**
 
-Who among the following presided over the Buddhist Council held during the reign of Kanishka at Kashmir?
+**Q-GC34. B.P.S.C. (Pre) 2018**
+
+After the Mahaparinirvana of Lord Buddha, the first
+Buddhist Council was held at
+
+A. Rajgriha (Rajgir)
+
+B. Gaya
+
+C. Pataliputra
+
+D. Vaishali
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The first Buddhist council was held just after the death (Mahaparinirvana) of Lord Buddha during the tenure of Magadh king Ajatashatru in the Saptaparni Cave of Rajgriha (Rajgir).
+
+</details>
+
+---
+
+**Q-GC35. I.A.S. (Pre) 2001**
+
+Who among the following presided over the Buddhist
+Council held during the reign of Kanishka at Kashmir?
 
 A. Parsva
 
@@ -1975,14 +2105,16 @@ D. Vasumitra
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Fourth Council president = **Vasumitra** (Ashvaghosha deputy).
+**Ans: D.** BOOK The fourth Buddhist Council was held at Kundalavana, Kashmir under the patronage of Kushan King Kanishka and the president of this council was Vasumitra, with Ashvaghosa as his deputy president. This council distinctly divided Buddhism into two sects, namely Mahayana and Hinayana.
 
 </details>
 
 ---
-**Q-GC30. IAS Pre 1993**
 
-‘Mahayana’ sect and Buddhism emerged during the reign of –
+**Q-GC36. I.A.S. (Pre) 1993**
+
+‘Mahayana’ sect and Buddhism emerged during the
+reign of –
 
 A. Ajatashatru
 
@@ -1995,14 +2127,16 @@ D. Kanishka
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Mahayana framing linked to **Kanishka** age / Fourth Council patronage.
+**Ans: D.** See the explanation of above question (BOOK The fourth Buddhist Council was held at Kundalavana, Kashmir under the patronage of Kushan King Kanishka and the president of this council was Vasumitra, with Ashvaghosa as his deputy president. This council distinctly divided Buddhism into two sects, namely Mahayana and Hinayana.)
 
 </details>
 
 ---
-**Q-GC31. BPSC 47th Pre 2005**
 
-A Buddhist Council during the reign of Kanishka was held at –
+**Q-GC37. 47th B.P.S.C. (Pre) 2005**
+
+A Buddhist Council during the reign of Kanishka was
+held at –
 
 A. Magadha
 
@@ -2015,16 +2149,114 @@ D. Rajgriha
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Kundalvana, Kashmir**.
+**Ans: C.** See the explanation of above question. (BOOK The fourth Buddhist Council was held at Kundalavana, Kashmir under the patronage of Kushan King Kanishka and the president of this council was Vasumitra, with Ashvaghosa as his deputy president. This council distinctly divided Buddhism into two sects, namely Mahayana and Hinayana.)
 
 </details>
 
 ---
-**Q-GC32. UP Lower Sub Pre 2002**
 
-Four Buddhist Councils were held in the following places. Arrange them in chronological order by using the code given below :
+**Q-GC38. I.A.S. (Pre) 2001 / R.A.S./R.T.S.(Pre) 2010**
 
-1. Vaishali 2. Rajgriha 3. Kundalavana 4. Pataliputra
+The Fourth Buddhist Council was held in Kashmir
+during the reign of which king?
+
+A. Ashoka
+
+B. Kalasoka
+
+C. Kanishka
+
+D. Ajatashatru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (BOOK The fourth Buddhist Council was held at Kundalavana, Kashmir under the patronage of Kushan King Kanishka and the president of this council was Vasumitra, with Ashvaghosa as his deputy president. This council distinctly divided Buddhism into two sects, namely Mahayana and Hinayana.)
+
+</details>
+
+---
+
+**Q-GC39. U.P.R.O./A.R.O. (Mains) 2013**
+
+The Fourth Buddhist Council was held during the reign
+of –
+
+A. Kanishka
+
+B. Ashoka
+
+C. Harshvardhana
+
+D. Menander
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** See the explanation of above question. (BOOK The fourth Buddhist Council was held at Kundalavana, Kashmir under the patronage of Kushan King Kanishka and the president of this council was Vasumitra, with Ashvaghosa as his deputy president. This council distinctly divided Buddhism into two sects, namely Mahayana and Hinayana.)
+
+</details>
+
+---
+
+**Q-GC40. 66th B.P.S.C. (Pre.) 2020**
+
+Which of the following rulers convened the Fourth
+Buddhist Council in Kashmir?
+
+A. Ashoka
+
+B. Ajatashatru
+
+C. Kanishka
+
+D. Kalashoka
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question (BOOK The fourth Buddhist Council was held at Kundalavana, Kashmir under the patronage of Kushan King Kanishka and the president of this council was Vasumitra, with Ashvaghosa as his deputy president. This council distinctly divided Buddhism into two sects, namely Mahayana and Hinayana.)
+
+</details>
+
+---
+
+**Q-GC41. I.A.S. (Pre) 2019**
+
+Consider the following :
+1. Deification of the Buddha
+2. Treading the path of Bodhisattvas
+3. Image worship and rituals
+Which of the above is/are the feature/features of
+Mahayana Buddhism?
+
+A. 1 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Mahayana Buddhism believes in Buddha's extraterrestrial power and divinity. It believes in many forms and incarnations of Buddha. Mahayana Buddhism is based principally upon the path of Bodhisattva. Bodhisattva are enlightened beings who postpone their own salvation in order to help all sentient beings. Mahayana Buddhism believes in idol worship and rituals.
+
+</details>
+
+---
+
+**Q-GC42. U.P. Lower Sub. (Pre) 2002**
+
+Four Buddhist Councils were held in the following
+places. Arrange them in chronological order by using
+the code given below :
+1. Vaishali 2. Rajgriha
+3. Kundalavana 4. Pataliputra
+Code :
 
 A. 1, 2, 3, 4
 
@@ -2037,12 +2269,13 @@ D. 2, 1, 4, 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Rajgriha → Vaishali → Pataliputra → Kundalavana (**2-1-4-3**). (Same order as UPPCS 2025 Q105.)
+**Ans: D.** The first Buddhist council was held soon after the death of Buddha under the patronage of King Ajatashatru with the monk Mahakassapa presiding at Saptaparni Cave at Rajgriha. The second council took place during the reign of Kalasoka after 100 years of Buddha’s death in Vaishali and was presided over by Sabakami. The third council was held during the reign of Ashoka at Pataliputra, and the fourth council was held during the reign of Kanishka at Kashmir (Kundalavana).
 
 </details>
 
 ---
-**Q-GC33. UP RO/ARO Mains 2014**
+
+**Q-GC43. U.P.R.O./A.R.O. (Mains)2014**
 
 Second Buddhist Council was held at which place?
 
@@ -2057,12 +2290,13 @@ D. Kashi (Varanasi)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Second Council at **Vaishali**.
+**Ans: B.** See the explanation of above question. (The first Buddhist council was held soon after the death of Buddha under the patronage of King Ajatashatru with the monk Mahakassapa presiding at Saptaparni Cave at Rajgriha. The second council took place during the reign of Kalasoka after 100 years of Buddha’s death in Vaishali and was presided over by Sabakami. The third council was held during the reign of Ashoka at Pataliputra, and the fourth council was held during the reign of Kanishka at Kashmir (Kundalavana).)
 
 </details>
 
 ---
-**Q-GC34. BPSC 53–55 Pre 2011**
+
+**Q-GC44. 53rd to 55th B.P.S.C. (Pre) 2011**
 
 Where was the third Buddhist Council held?
 
@@ -2077,14 +2311,16 @@ D. Pataliputra
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Third Council at **Pataliputra** under Ashoka.
+**Ans: D.** BOOK
 
 </details>
 
 ---
-**Q-GC35. UPPCS Mains 2010**
 
-The first Buddhist Council was held during the reign of -
+**Q-GC45. U.P.P.C.S. (Mains) 2010**
+
+The first Buddhist Council was held during the reign
+of -
 
 A. Aniruddha
 
@@ -2097,12 +2333,35 @@ D. Udayabhadra
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Patron **Ajatashatru**.
+**Ans: B.** See the explanation of above question. (BOOK)
 
 </details>
 
 ---
-**Q-GC36. RAS/RTS Pre 1994**
+
+**Q-GC46. U.P.P.C.S. (Pre) 2000 / M.P.P.C.S. (Pre) 1990**
+
+The first Buddhist Council was held in which of the
+following cities?
+
+A. Nalanda
+
+B. Gaya
+
+C. Rajgir
+
+D. Bodhgaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (BOOK)
+
+</details>
+
+---
+
+**Q-GC47. R.A.S./R.T.S. (Pre) 1994**
 
 Second Buddhist Council was organized by -
 
@@ -2117,20 +2376,22 @@ D. Ashoka
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Patron **Kalasoka**.
+**Ans: B.** See the explanation of above question. (BOOK)
 
 </details>
 
 ---
-**Q-GC37. CGPCS Pre 2022**
+
+**Q-GC48. Chhattisgarh P.C.S. (Pre) 2022**
 
 Correctly match the following :
-
-Buddhist Councils — Presidents
-A. First — (i) Vasumitra
-B. Second — (ii) Mahakashyapa
-C. Third — (iii) Sabakami
-D. Fourth — (iv) Moggaliputta Tissa
+Buddhist Councils Presidents
+A. First Buddhist Council (i) Vasumitra
+B. Second Buddhist Council (ii) Mahakashyapa
+C. Third Buddhist Council (iii) Sabakami
+D. Fourth Buddhist Council (iv) Moggaliputta Tissa
+Code :
+A B C D
 
 A. (i) (ii) (iii) (iv)
 
@@ -2143,17 +2404,25 @@ D. (ii) (iii) (iv) (i)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 1st Mahakashyapa; 2nd Sabakami; 3rd Moggaliputta Tissa; 4th Vasumitra.
+**Ans: D.** The correctly matched list is as follows – Buddhist councils President First Buddhist Council Mahakashyapa Second Buddhist Council Sabakami Third Buddhist Council Moggaliputta Tissa Fourth Buddhist Council Vasumitra
 
 </details>
 
 ---
-**Q-GC38. BPSC 41st Pre 1996**
 
-Four important events of Buddha’s life and thereby related four places are mentioned below.
-Match Schedule-I and Schedule-II:
-A. Birth B. Enlightenment C. First preaching D. Death
-1. Sarnath 2. Bodhgaya 3. Lumbini 4. Kushinagar
+**Q-GC49. 41st B.P.S.C. (Pre) 1996**
+
+Four important events of Buddha’s life and thereby
+related four places are mentioned below.
+Match Schedule- I and Schedule- II and select correct
+answer from the codes given below -
+Schedule - I Schedule - II
+A. Birth 1. Sarnath
+B. Enlightenment 2. Bodhgaya
+C. First preaching 3. Lumbini
+D. Death 4. Kushinagar
+Code :
+A B C D
 
 A. 1 2 4 3
 
@@ -2166,14 +2435,16 @@ D. None of the above.
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Birth–Lumbini; Enlightenment–Bodhgaya; First sermon–Sarnath; Death–Kushinagar.
+**Ans: C.** Mahatma Buddha was born in 563 B.C. in Lumbini near Kapilavastu (Nepal). He got enlightenment at Bodh Gaya. Buddha gave his first sermon at Sarnath (Rishipattan), called “Dharmachakrapravartana” and died in Kushinagar, called "Mahaparinirvana".
 
 </details>
 
 ---
-**Q-GC39. UPPCS Mains 2002**
 
-Which event of Buddha’s life is represented by the wheel with deer, in Indian Art?
+**Q-GC50. U.P.P.C.S. (Mains) 2002**
+
+Which event of Buddha’s life is represented by the
+wheel with deer, in Indian Art?
 
 A. Great departure
 
@@ -2186,16 +2457,24 @@ D. Nirvana
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Wheel with deer = **first sermon** at Mrigadava (Sarnath).
+**Ans: C.** The first preaching event of Buddha’s life is represented by the wheel with deer in Indian art. Buddha delivered his first preaching in Mrigadava (Sarnath).
 
 </details>
 
 ---
-**Q-GC40. UPPCS Mains 2005**
 
-Match List-I (Sign) with List-II (Meaning):
-A. Birth B. First Sermon C. Enlightenment D. Great Departure
-1. Bodhi tree 2. Dharma Chakra Pravartana 3. Horse 4. Lotus
+**Q-GC51. U.P.P.C.S. (Mains) 2005**
+
+Match List- I (Sign) with List II (Meaning) and select
+the correct answer using the codes given below.
+List-I (Sign) List –II (Meaning)
+A. Birth 1. Bodhi tree
+B. First Sermon 2. Dharma Chakra
+Pravartana
+C. Enlightenment 3. Horse
+D. Great Departure 4. Lotus
+Code :
+A B C D
 
 A. 1 2 3 4
 
@@ -2208,14 +2487,16 @@ D. 4 2 1 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Birth–Lotus; First Sermon–Dharma Chakra; Enlightenment–Bodhi tree; Great Departure–Horse.
+**Ans: D.** The correctly matched list is as follows : List - I - List - II Birth - Lotus First Sermon - Dharma Chakra Pravartana Enlightenment - Bodhi Tree BOOK
 
 </details>
 
 ---
-**Q-GC41. UPPCS Pre 2000**
 
-Karmapa Lama belongs to which of the following sects of Tibetan Buddhism?
+**Q-GC52. U.P.P.C.S. (Pre) 2000**
+
+Karmapa Lama belongs to which of the following sects
+of Tibetan Buddhism?
 
 A. Gelugpa
 
@@ -2228,12 +2509,40 @@ D. Lingamapa
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Karmapa** belongs to the **Kagyupa / Kangyupa** line.
+**Ans: B.** Karmapa Lama belongs to the Kangyupa sect of Tibetan Buddhism.
 
 </details>
 
 ---
-**Q-GC42. BPSC 45th Pre 2001**
+
+**Q-GC53. U.P.P.S.C. (GIC) 2010**
+
+Which of the following statements is/are correct about
+Lord Buddha?
+1. He was born in Kapilavastu.
+2. He attained enlightenment at Bodh Gaya.
+3. He discarded the Vedic religion.
+4. He preached noble truths.
+Select the correct answer from the codes given below :
+
+A. 1 and 2
+
+B. 1 and 3
+
+C. 1, 2 and 3
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Gautama Buddha, the founder of Buddhism, was born in 563 BC in Lumbini (now in Nepal) in Shakya Kshatriya clan of Kapilavastu. He believed in the theory of Karma. Buddha discarded Vedas and Vedic rituals. Instead, he believed in noble deeds and acts in place of Vedic rituals. He has given four noble truths often known as Arya Satya : (1) Life means suffering. (2) The origin of suffering is attachment. (3) The cessation of suffering is attainable. (4) There is a path to the cessation of suffering. Hence, option (d) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC54. 45th B.P.S.C. (Pre) 2001**
 
 Mahabodhi Temple has been built at Bodh Gaya where-
 
@@ -2248,14 +2557,16 @@ D. Gautama Buddha passed away
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Site of **enlightenment**.
+**Ans: B.** For full six years, Gautama Buddha sought a due solution to the suffering, ultimately he got enlightenment at the age of 35 years at Bodhgaya under Pipal tree on a Vaisakh Purnima night. Hence he was called “Buddha.” Mahabodhi temple was built at this site.
 
 </details>
 
 ---
-**Q-GC43. BPSC 48–52 Pre 2008**
 
-The ‘Bodhi Vriksha’ in Bodh Gaya belongs to which generation of its family?
+**Q-GC55. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+The ‘Bodhi Vriksha’ in Bodh Gaya belongs to which
+generation of its family?
 
 A. Third
 
@@ -2268,12 +2579,13 @@ D. Sixth
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Present Bodhi tree is usually taught as **fifth generation** (Cunningham planting tradition).
+**Ans: C.** At present, the ‘Bodhi Vriksha’ at the Mahabodhi temple is not the real one, where Mahatma Buddha got the enlightenment. According to the Hiuen Tsang, a Chinese traveller, king Shashank destroyed the original tree in the seventh century. The present tree that we see was planted by the orders of Alexander Cunningham and is called the fifth generation tree. It is a heritage site and only fallen leaves of this tree are allowed to touch and pick.
 
 </details>
 
 ---
-**Q-GC44. UPPCS Pre 2012**
+
+**Q-GC56. U.P.P.C.S. (Pre) 2012**
 
 Which of the following Buddhist sacred place is situated on the bank of River Niranjana.
 
@@ -2288,14 +2600,37 @@ D. Rishipatan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Bodh Gaya** on the **Niranjana**.
+**Ans: A.** The Buddhist sacred place, Bodhgaya where Buddha got enlightenment, is situated on the bank of river Niranjana.
 
 </details>
 
 ---
-**Q-GC45. UPPCS Pre 1999**
 
-Who among the following wanted to become the leader of the Sangha even during the lifetime of Buddha –
+**Q-GC57. U.P.P.C.S. (Pre) 1991**
+
+The teachings of Buddha are related to –
+
+A. Spirit disputes
+
+B. Celibacy
+
+C. Religious rituals
+
+D. Purity and holiness of conduct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The teachings of Mahatma Buddha are mainly based on the purity and holiness of conduct.
+
+</details>
+
+---
+
+**Q-GC58. U.P.P.C.S. (Pre) 1999**
+
+Who among the following wanted to become the leader
+of the Sangha even during the lifetime of Buddha –
 
 A. Devadatta
 
@@ -2308,14 +2643,16 @@ D. Ananda
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Cousin **Devadatta** sought Sangha leadership.
+**Ans: A.** Devadatta, the cousin of Mahatma Buddha, in his early days, was a follower of Buddha and a good monk as well. But later he tried to become the leader of Sangha in place of Buddha but did not succeed. From the beginning, he was thinking of becoming the leader of Sangha.
 
 </details>
 
 ---
-**Q-GC46. Uttarakhand PCS Pre 2002**
 
-Whom of the following did Gautam of Buddha nominate for the leadership of Buddhist Sangha after his death?
+**Q-GC59. Uttarakhand P.C.S. (Pre) 2002**
+
+Whom of the following did Gautam of Buddha nominate
+for the leadership of Buddhist Sangha after his death?
 
 A. Ananda
 
@@ -2328,12 +2665,13 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Buddha **did not** nominate a successor as Sangha head.
+**Ans: D.** BOOK Gautama Buddha did not appoint any successor and asked his followers to work towards liberation. The teachings of Buddha existed only in oral traditions. The Sangha held a number of Buddhist councils to reach consensus on matters of Buddhist doctrines and practices.
 
 </details>
 
 ---
-**Q-GC47. IAS Pre 1998**
+
+**Q-GC60. I.A.S. (Pre) 1998**
 
 The concept of Eightfold path forms the theme of :
 
@@ -2348,14 +2686,16 @@ D. Dharma Chakra Pravartana Sutta
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Eightfold Path theme of **Dharma Chakra Pravartana Sutta**.
+**Ans: D.** The concept of ‘eight-fold’ path forms the theme of Dharma Chakra Pravartana Sutta. Buddha has given the eight-fold path to get rid of miseries of life and attain Nirvana.
 
 </details>
 
 ---
-**Q-GC48. CGPCS Pre 2024**
 
-According to Buddhist philosophy, the cause of Samskar (Impression) is
+**Q-GC61. Chhattisgarh P.C.S. (Pre) 2024**
+
+According to Buddhist philosophy, the cause of
+Samskar (Impression) is
 
 A. Vigyan (Consciousness)
 
@@ -2368,14 +2708,42 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** In the twelve-link chain, **avidya** conditions **samskara**.
+**Ans: C.** According to Buddhist philosophy, the primary cause of Samskara (Impression) is ignorance (Avidya). Avidya means the absence of knowledge or the lack of understanding of reality. Ignorance is the root cause of all suffering.
 
 </details>
 
 ---
-**Q-GC49. UPPCS Pre 2010**
 
-The entry of women as a “Bhikshuni” into the Buddhist Sangha was allowed by Gautam Buddha at –
+**Q-GC62. U.P.P.C.S. (Pre) 1992**
+
+Which of the following is/are true about Gautama Buddha?
+1. He believes in “Karma”
+2. He believes in rebirth
+3. Attaining Nirvana
+4. Belief in the power of God
+Code :
+
+A. Only 1, 2, 3
+
+B. Only 1, 2
+
+C. Only 1
+
+D. All are true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Mahatma Buddha believed in the doctrine of “Karma.” He used to believe in the concept of rebirth and attainment of Nirvana but did not believe in the existence of God and his power. Buddha believes in rebirth. Previous life of Buddha is recorded in Jataka.
+
+</details>
+
+---
+
+**Q-GC63. U.P.P.C.S. (Pre) 2010**
+
+The entry of women as a “Bhikshuni” into the Buddhist
+Sangha was allowed by Gautam Buddha at –
 
 A. Shravasti
 
@@ -2388,12 +2756,13 @@ D. Kushinagar
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Women admitted at **Vaishali** (Ananda’s request; first nun Mahapajapati).
+**Ans: B.** On the request of his disciple “Ananda”, Gautama Buddha allowed the entry of women as Bhikshuni into the Buddhist Sangha at Vaishali. The first woman who was admitted into the Buddhist Sangha was Mahaprajapati Gautami.
 
 </details>
 
 ---
-**Q-GC50. UP Lower Sub Pre 2003 / 2004**
+
+**Q-GC64. U.P. Lower Sub. (Pre) 2003 / U.P. Lower Sub. (Pre) 2004**
 
 What is “Tripitaka”?
 
@@ -2408,14 +2777,81 @@ D. Collection of the preachings of Buddha
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Three baskets of the Buddhist canon (Vinaya, Sutta, Abhidhamma).
+**Ans: D.** Tripitaka is the most important holy book of Buddhism. It has been divided into three parts, namely, Sutta Pitaka – which consists of sermons and teachings of Buddha, Vinaya Pitaka – the collection of the rules governing the Sangha and monks and Abhidhamma Pitaka - which deals with the philosophy of Buddhism.
 
 </details>
 
 ---
-**Q-GC51. UPPCS Pre 1996**
 
-Which of the following Buddhist texts contains the rules of Monastic life?
+**Q-GC65. R.A.S./R.T.S.(Pre) 2012**
+
+‘Tripitaka’ texts are related to which religion?
+
+A. Vedic religion
+
+B. Buddhism
+
+C. Jainism
+
+D. Shaivism
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (Tripitaka is the most important holy book of Buddhism. It has been divided into three parts, namely, Sutta Pitaka – which consists of sermons and teachings of Buddha, Vinaya Pitaka – the collection of the rules governing the Sangha and monks and Abhidhamma Pitaka - which deals with the philosophy of Buddhism.)
+
+</details>
+
+---
+
+**Q-GC66. 63rd B.P.S.C (Pre.) 2017**
+
+Tripitakas are the sacred books of the
+
+A. Jains
+
+B. Hindus
+
+C. Parsees
+
+D. Buddhists
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** See the explanation of above question. (Tripitaka is the most important holy book of Buddhism. It has been divided into three parts, namely, Sutta Pitaka – which consists of sermons and teachings of Buddha, Vinaya Pitaka – the collection of the rules governing the Sangha and monks and Abhidhamma Pitaka - which deals with the philosophy of Buddhism.)
+
+</details>
+
+---
+
+**Q-GC67. M.P.P.C.S. (Pre) 2012**
+
+‘Tripitaka’ is associated with which of the following?
+
+A. Jains
+
+B. Buddhists
+
+C. Sikhs
+
+D. Hindus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (Tripitaka is the most important holy book of Buddhism. It has been divided into three parts, namely, Sutta Pitaka – which consists of sermons and teachings of Buddha, Vinaya Pitaka – the collection of the rules governing the Sangha and monks and Abhidhamma Pitaka - which deals with the philosophy of Buddhism.)
+
+</details>
+
+---
+
+**Q-GC68. U.P.P.C.S. (Pre) 1996**
+
+Which of the following Buddhist texts contains the
+rules of Monastic life?
 
 A. Digha-Nikaya
 
@@ -2428,12 +2864,13 @@ D. Vibhasha Shastra
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Vinaya Pitaka** = monastic rules.
+**Ans: B.** BOOK
 
 </details>
 
 ---
-**Q-GC52. Jharkhand PCS Pre 2016**
+
+**Q-GC69. Jharkhand P.C.S. (Pre) 2016**
 
 "Yamaka" belongs to the Buddhist "Pitaka" -
 
@@ -2448,14 +2885,16 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Yamaka** is one of the seven Abhidhamma books.
+**Ans: C.** In order to preach the doctrine of Buddhism (Mahatma Buddha), the Buddhists compiled a new type of literature (Tripitaka) that can be divided into three categories - (1) Sutta Pitaka, (2) Vinaya Pitaka and (3) Abhidhamma Pitaka. Sutta Pitaka contains the sayings and teachings of the Buddha. Vinaya Pitaka deals with the rules to be observed by members of the Sangha and Abhidhamma Pitaka presents the philosophical exposition of the Dhamma. The Abhidhamma Pitaka consists of seven books - Yamaka, Patthana, Kathavatthu, Puggalapannatti, Dhatukatha, Vibhanga and Dhammasangani.
 
 </details>
 
 ---
-**Q-GC53. MPPCS Pre 2014**
 
-Which of the following Buddhist literature contains the Buddha’s sermons on matters of ethics and doctrine?
+**Q-GC70. M.P.P.C.S. (Pre) 2014**
+
+Which of the following Buddhist literature contains the
+Buddha’s sermons on matters of ethics and doctrine?
 
 A. Vinaya Pitaka
 
@@ -2468,12 +2907,13 @@ D. Sutta Pitaka
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Sutta Pitaka** = discourses / ethics and doctrine.
+**Ans: D.** Sutta Pitaka, which is also called Sutra Pitaka in Sanskrit, is an extensive body of text constituting the basic doctrinal section of the Buddhist canon. Sutta Pitaka is the book of discourses, dealing with ethical principles of Buddha’s teachings. One of the parts of Sutta Pitaka, known as Digha Nikaya, is a collection of 34 long Suttas including doctrinal expositions, legends and moral rules.
 
 </details>
 
 ---
-**Q-GC54. UP RO/ARO Pre 2017**
+
+**Q-GC71. U.P. R.O./A.R.O. (Pre) 2017**
 
 What does ‘Triratna’ means in Buddhism?
 
@@ -2488,14 +2928,44 @@ D. Satya, Ahimsa, Karuna
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Buddhist **Triratna** = Buddha, Dhamma, Sangha.
+**Ans: B.** Buddha, Dhamma and Sangha are three jewels (Triratna) of Buddhism. After the death of Buddha, his teachings were collected in three parts known as Tripitakas. The Tripitakas are Vinaya Pitaka, Sutta Pitaka and Abhidhamma Pitaka.
 
 </details>
 
 ---
-**Q-GC55. IAS Pre 2002**
 
-In ancient Indian Buddhist monasteries, a ceremony called Pavarana used to be held. It was the :
+**Q-GC72. Chhattisgarh P.C.S. (Pre) 2023**
+
+Consider the following about the features of Buddhist
+philosophy -
+(1) The seed of Buddhist philosophy is traced in the
+teachings of Gautama Buddha itself.
+(2) Buddha always emphasised on leading a moral life
+for the emancipation of human sufferings rather
+than indulging into philosophical problems.
+Which of the statement/s given above is/are correct?
+
+A. Only (1)
+
+B. Only (2)
+
+C. Both (1) and (2)
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The seed of the Buddhist Philosophy is traced in the teachings of Gautama Buddha. Buddha always emphasised leading a moral life for the emancipation of human sufferings rather than indulging into philosophical problems. But the later scholars of Buddhism developed a profound philosophy on the platform of the teachings of Gautama Buddha.
+
+</details>
+
+---
+
+**Q-GC73. I.A.S. (Pre) 2002**
+
+In ancient Indian Buddhist monasteries, a ceremony
+called Pavarana used to be held. It was the :
 
 A. Occasion to elect the Sanghparinayaka and two speakers one on Dhamma and the other on Vinaya.
 
@@ -2508,12 +2978,13 @@ D. Gathering of Buddhist monks on the next day to the full-moon day of Ashadha w
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Pavarana** = confession of offences after the rains retreat.
+**Ans: B.** During four months of the rainy season, the disciples of Buddha live in Bauddha Mahavihar. During this season, they stop preaching their religion. After the rainy season, they again start preaching with a welcoming ceremony called Pavarana. In this ceremony, the monks confess their offences and discuss future work plan.
 
 </details>
 
 ---
-**Q-GC56. UPPCS Mains 2015**
+
+**Q-GC74. U.P.P.C.S. (Mains) 2015**
 
 Ashokaram monastery was situated at –
 
@@ -2528,12 +2999,57 @@ D. Shravasti
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Ashokaram** at **Pataliputra**.
+**Ans: B.** According to the famous Buddhist text Mahavansh, the Mauryan ruler Ashoka built Ashokaram Vihar in Pataliputra under the supervision of a monk, named Indragupta.
 
 </details>
 
 ---
-**Q-GC57. CGPCS Pre 2015**
+
+**Q-GC75. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Where is, the highest in the world, ‘Vishwa Shanti
+Stupa’ located in Bihar?
+
+A. Vaishali
+
+B. Nalanda
+
+C. Rajgir
+
+D. Patna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Vishwa Shanti Stupa or the World Peace Pagoda (height 400 metres) situated on the hills of Rajgir in Bihar is the BOOK
+
+</details>
+
+---
+
+**Q-GC76. R.A.S./R.T.S. (Pre) 1993**
+
+The Giant Buddha statue of 80 feet at Bodhgaya was
+constructed by –
+
+A. Japanese
+
+B. People of Thailand (Thai)
+
+C. Srilankan
+
+D. Bhutanese
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Giant Buddha Statue in Bodh Gaya, Bihar is 80 feet high. It is in meditation posture or dhyana mudra where Buddha is seated on a lotus in the open air. It took seven years to complete and is made of sandstone blocks and red granite. This statue was built with the help of Daijokyo sect of Japan.
+
+</details>
+
+---
+
+**Q-GC77. Chhattisgarh P.C.S. (Pre) 2015**
 
 Where the word ‘Stupa’ has been used for the first time?
 
@@ -2550,12 +3066,13 @@ E. None of these
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Word **stupa** appears in the **Rigveda** (pile / raised heap sense).
+**Ans: A.** The word stupa has been used for the first time in Rig Veda. In Rig Veda texts, stupa means “tree stem.” Rigveda refers to a stupa raised by the king Varuna above the forest in a place having no foundation. Anything that is raised on the ground like a heap/pile might have been known as Stupa.
 
 </details>
 
 ---
-**Q-GC58. UPPCS Mains 2011 / Spl Pre 2008**
+
+**Q-GC78. U.P.P.C.S. (Mains) 2011 / U.P.P.C.S. (Spl) (Pre) 2008**
 
 The Stupa site which is not connected with any incident of Lord Buddha’s life, is :
 
@@ -2570,17 +3087,20 @@ D. Kusinara
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Sanchi** is not tied to a single life-episode of the Buddha.
+**Ans: B.** The Stupa at Bodhgaya is related to the enlightenment of Buddha. Sarnath is related to Dharma Chakra Pravartana and Kushinagar or Kusinara is related to the death of Buddha while Sanchi Stupa is not related to any incident of Buddha’s life.
 
 </details>
 
 ---
-**Q-GC59. IAS Pre 2023**
 
-With reference to ancient India, consider the following statements :
+**Q-GC79. I.A.S. (Pre) 2023**
+
+With reference to ancient India, consider the following
+statements :
 1. The concept of Stupa is Buddhist in origin.
 2. Stupa was generally a repository of relics.
-3. Stupa was a votive and commemorative structure in Buddhist tradition.
+3. Stupa was a votive and commemorative structure
+in Buddhist tradition.
 How many of the statements given above are correct?
 
 A. Only one
@@ -2594,12 +3114,34 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statement 1 is wrong (pre-Buddhist / Vedic use). 2 and 3 stand.
+**Ans: B.** The concept of Stupa predates Buddhism. Word Stupa is mentioned in texts like Rig Veda, Atharva Veda, Vajasaneyi Samhita, Taittiriya Samhita etc. Hence statement 1 is not correct. Stupas were usually repositories in which the remains and ashes of the dead were kept. As a result of the deep faith of common people in worshipping God and things related to God for the purpose of attaining salvation, the Stupa later on acquired its votive and commemorative structure.
 
 </details>
 
 ---
-**Q-GC60. CGPCS Pre 2024**
+
+**Q-GC80. U.P.P.C.S. (Mains) 2014**
+
+Which is the correct chronological order of the following stupas?
+
+A. Bharhut, Sanchi, Amaravati, Dhamekh
+
+B. Amaravati, Sanchi, Bharhut, Dhamekh
+
+C. Sanchi, Amaravati, Bharhut, Dhamekh
+
+D. Dhamekh, Bharhut, Amaravati, Sanchi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: *.** Bharhut and Sanchi stupas were constructed during the reign of Mauryan emperor Ashoka. Some historical sources also consider that Dhamekh stupa was built during the reign of Ashoka. Amaravati stupa was built during the period of Satvahanas. It is not possible to decide the chronological order of the construction of Bharhut, Sanchi and Dhamekh stupa. This question should be excluded from evaluation.
+
+</details>
+
+---
+
+**Q-GC81. Chhattisgarh PCS (Pre) 2024**
 
 Where is Devnimori Stupa situated?
 
@@ -2614,12 +3156,13 @@ D. Gujarat
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Devnimori** stupa / monastery remains in **Gujarat**.
+**Ans: D.** Devnimori or Devni Mori is an archaeological site in the Arvalli district of Gujarat. The remains of a Buddhist monastery and stupa belonging to the 3rd-4th century AD have been unearthed from this location.
 
 </details>
 
 ---
-**Q-GC61. CGPCS Pre 2017**
+
+**Q-GC82. [Chhattisgarh P.S.C. (Pre)-2017]**
 
 Anatmavada (no-self) is the doctrine of
 
@@ -2636,12 +3179,35 @@ E. None of these
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Anatta / anatman** is Buddhist.
+**Ans: C.** Buddhism preaches Anatmavada, which is clear from the principle of Pratityasamutpada of Gautama Buddha. Anatmavada means that there is no soul or atma. It is of the view that there is no permanent self, soul or essence in phenomena.
 
 </details>
 
 ---
-**Q-GC62. UPPCS Mains 2010**
+
+**Q-GC83. Standard PYQ**
+
+“World is unstable and transient “ is related to which
+of the following?
+
+A. Buddhism
+
+B. Jainism
+
+C. Gita
+
+D. Vedanta U.P. P.C.S. (Pre) 1992 @apna_channels Join Telegram: @pdfhub4u_all @apna_ghatnachakra CLICK HERE — UPPCS (PRE +MAINS) BOOK Made with Xodo PDF Reader and Editor B–60 General Studies Indian History
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Impermanence also called as Anitya, is one of the essential doctrines and a part of three marks of existence in Buddhism. The doctrine asserts that all of the conditioned existence, without exception, is transient, evanescent and inconstant. All temporal things, whether material or mental, are compounded objects in a continuous change of condition subject to decline and destruction.
+
+</details>
+
+---
+
+**Q-GC84. U.P.P.C.S. (Mains) 2010**
 
 Who among the following is known as the ‘Light of Asia’?
 
@@ -2656,15 +3222,41 @@ D. Swami Vivekanand
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Buddha; Edwin Arnold’s book *The Light of Asia*.
+**Ans: A.** Gautama Buddha, also known as Siddhartha, Gautama, Shakyamuni or simply the Buddha, was a sage on whose teachings Buddhism was founded. Buddha is also prominently known as the ‘Light of Asia’ or the Light Beam. Edwin Arnold wrote a book “The Light of Asia” based on the life of Buddha.
 
 </details>
 
 ---
-**Q-GC63. IAS Pre 2024**
 
-With reference to ancient India. Gautama Buddha was generally known by which of the following epithets?
-1. Nayaputta 2. Shakyamuni 3. Tathagata
+**Q-GC85. Uttarakhand P.C.S. (Pre) 2005**
+
+Who amongst the following is known as the “Light of
+Asia”?
+
+A. Jesus Christ
+
+B. Lord Buddha
+
+C. Paigamber Mohammad
+
+D. Zarathustra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (Gautama Buddha, also known as Siddhartha, Gautama, Shakyamuni or simply the Buddha, was a sage on whose teachings Buddhism was founded. Buddha is also prominently known as the ‘Light of Asia’ or the Light Beam. Edwin Arnold wrote a book “The Light of Asia” based on the life of Buddha.)
+
+</details>
+
+---
+
+**Q-GC86. I.A.S. (Pre) 2024**
+
+With reference to ancient India. Gautama Buddha was
+generally known by which of the following epithets?
+1. Nayaputta 2. Shakyamuni
+3. Tathagata
+Select the correct answer using the code given below:
 
 A. 1 only
 
@@ -2677,12 +3269,13 @@ D. None of the above are epithets of Gautama Buddha
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Shakyamuni** and **Tathagata** = Buddha. **Nayaputta** = Mahavira.
+**Ans: B.** Nayaputta : This is not an epithet of Gautama Buddha. The ancient texts refer to Mahavira (the 24th Tirthankara of Jainism) as Nayaputta (Son of Nayas) which referred to his clan of origin. Shakyamuni : This is an epithet of Gautama Buddha, meaning ‘Sage of the Shakyas'. Gautama Buddha belonged to the Shakya clan. Tathagata : This is another title or epithet of the Gautam Buddha. The Buddha used the term to refer to himself after he had attained enlightenment (bodhi), and it became one of the stock epithets of Buddha. Hence, option (b) is the correct answer.
 
 </details>
 
 ---
-**Q-GC64. CGPCS Pre 2019**
+
+**Q-GC87. Chhattisgarh P.C.S. (Pre) 2019**
 
 Who advocated ‘Neo-Buddhism’?
 
@@ -2697,14 +3290,40 @@ D. Vivekananda
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **B.R. Ambedkar** — Navayana / Neo-Buddhism.
+**Ans: C.** Navayana/Neo-Buddhism means "new Vehicle" and refers to the re-interpretation of Buddhism by B.R. Ambedkar. Navayana rejects practices and precepts such as renouncing monk and monasticism, Karma, rebirth after life, samsara, meditation, enlightenment and four noble truths considered to be foundational in the Buddhist traditions. It revises the original Buddha's teachings about class struggle and social equality.
 
 </details>
 
 ---
-**Q-GC65. IAS Pre 2020**
 
-With reference to the cultural history of India, which one of the following is the correct description of the term 'paramitas'?
+**Q-GC88. Chhattisgarh P.C.S. (Pre) 2017**
+
+Who has propounded the doctrine of momentariness?
+
+A. Buddha
+
+B. Jaina
+
+C. Charvaka
+
+D. Nyaya
+
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The doctrine of Momentariness was propounded by the Buddha. It is one of the most important doctrines of Buddhism. Through this doctrine, the Buddha expounded the basic principle of impermanence.
+
+</details>
+
+---
+
+**Q-GC89. I.A.S. (Pre.) 2020**
+
+With reference to the cultural history of India, which
+one of the following is the correct description of the
+term 'paramitas'?
 
 A. The earliest Dharmashastra texts are written in aphoristic (sutra) style
 
@@ -2717,14 +3336,16 @@ D. Powerful merchant guilds of early medieval South India.
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Paramitas** = perfections on the bodhisattva path.
+**Ans: C.** 'Paramitas' in Buddhist terms is translated as perfection. Towards the path of becoming Buddh, the paramitas represent qualities that the bodhisattva strives to perfect in order to purify karma and kleshas and develop bodhichitta.
 
 </details>
 
 ---
-**Q-GC66. UPPCS Mains 2014**
 
-Sir Edwin Arnold's book ‘The Light of the Asia’ is based on–
+**Q-GC90. U.P.P.C.S. (Mains) 2014**
+
+Sir Edwin Arnold's book ‘The Light of the Asia’ is based
+on–
 
 A. Divavadana
 
@@ -2737,14 +3358,16 @@ D. Abhidhammapitaka
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Based on ***Lalitavistara***.
+**Ans: B.** 'The Light of Asia' subtitled 'The Great Renunciation' is a book by Sir Edwin Arnold. The first edition of the book was published in July 1879. This book is based upon the contents BOOK
 
 </details>
 
 ---
-**Q-GC67. UPPCS Pre 1996**
 
-What is the fundamental difference between Hinayana and Mahayana sects of Buddhism?
+**Q-GC91. U.P.P.C.S. (Pre) 1996**
+
+What is the fundamental difference between Hinayana
+and Mahayana sects of Buddhism?
 
 A. Belief in Non-violence
 
@@ -2757,14 +3380,16 @@ D. Worship of stupas
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Core coaching contrast: Mahayana treats Buddha as **deity / idol worship**; Hinayana as great man / teacher.
+**Ans: C.** The fundamental difference between Hinayana and Mahayana sects of Buddhism is regarding treating Buddha as God. Hinayana believed in Buddha as a great man, whereas Mahayana started worshipping Buddha through idols treating him as God.
 
 </details>
 
 ---
-**Q-GC68. BPSC 45th Pre 2001**
 
-Gautama Buddha was elevated to the position of God during the period of –
+**Q-GC92. 45th B.P.S.C. (Pre) 2001**
+
+Gautama Buddha was elevated to the position of God
+during the period of –
 
 A. Ashoka
 
@@ -2777,12 +3402,56 @@ D. Harsha
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Deification framing linked to **Kanishka** / Mahayana rise.
+**Ans: B.** The fourth council, held during the reign of Kanishka, divided Buddhism into two sects, namely Hinayana and Mahayana. In Mahayana, Gautam Buddha was treated as God and they started worshipping Buddha through idols. Hence, Gautama Buddha was elevated to the position of God during the period of Kanishka.
 
 </details>
 
 ---
-**Q-GC69. IAS Pre 1994**
+
+**Q-GC93. R.A.S./R.T.S.(Pre) 2010**
+
+The first human statues worshipped in India were those
+of–
+
+A. Brahma
+
+B. Vishnu
+
+C. Buddha
+
+D. Shiva
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** In India, Gautam Buddha was worshipped first through idols by the Mahayana sect of Buddhism.
+
+</details>
+
+---
+
+**Q-GC94. U.P. Lower Sub. (Spl) (Pre) 2008**
+
+Which of the following laid the foundation of idol worship in the country?
+
+A. Jainism
+
+B. Buddhism
+
+C. Ajivikas
+
+D. Vedic religion
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** In context of the following, Buddhism laid the foundation of idol worship in the country. The followers of Mahayana primarily started worshipping the idols of Buddha.
+
+</details>
+
+---
+
+**Q-GC95. I.A.S. (Pre) 1994**
 
 Name the ‘Mudra’ which is represented by the Gandharan Buddha image of Sarnath first Sermon.
 
@@ -2797,34 +3466,87 @@ D. Bhumisparsha
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** First sermon image = **Dharmachakra** mudra.
+**Ans: C.** The Gandharan Buddha image was inspired by Hellenistic realism, tempered by Persian, Scythian and Parthian models. The main subject of this art is based on the life of Buddha. The images consist of Dharma Chakra posture, Meditation posture, Abhaya posture and Varada postures of Gautama Buddha.
 
 </details>
 
 ---
-**Q-GC70. IAS Pre 2012**
 
-Lord Buddha’s image is sometimes shown with the hand gesture called; 'Bhumisparsha Mudra'. It symbolizes -
+**Q-GC96. U.P.P.C.S. (Pre) 1992**
 
-A. Buddha’s calling of the Earth to watch over Mara and to prevent Mara from disturbing his meditation
+The standing statue of Gautama Buddha was built in
+which period?
 
-B. Buddha’s calling of the Earth to witness his purity and chastity despite the temptations of Mara
+A. Gupta period
 
-C. Buddha’s reminder to his followers that they all arise from the Earth and finally dissolve into the Earth, and thus life is transitory
+B. Kushana Period
 
-D. Both the statements (a) and (b) are correct in this context.
+C. Maurya Period
+
+D. Post Gupta Period
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Earth as **witness** of enlightenment against Mara’s temptations.
+**Ans: B.** In India, the Gandhara art flourished during the Kushana rule. Particularly Kanishka, the greatest of the Kushanas, was a great patron of art and architecture. It was during his reign that Gandhara school of art flourished. Both sitting and standing posture of Buddha’s statues were carved out in the Mathura school. The Kushana art of Gandhara is mainly known for the wealth of sculptures recovered from the numerous Buddhist stupas and monasteries.
 
 </details>
 
 ---
-**Q-GC71. UPPCS Mains 2009**
 
-Sarnath Buddha's image of Bhumisparsha Mudra belongs to –
+**Q-GC97. 66th B.P.S.C. Re-Exam (Pre) 2020**
+
+The oldest sculpture of Buddha is made in which style?
+
+A. Gandhara Style
+
+B. Mathura Style
+
+C. Mauryan Style
+
+D. Gupta Style
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: E.** During the Kushana period various statues of Buddha and Bodhisattva (both in standing and sitting position) were made in Mathura and Gandhara styles. As per V.S. Agrawal, Buddha statues were first made in Mathura only. As per Huein Tsang, first Buddha's statue was made in Kaushambi, but various other historian gives credit to Gandhara style for first statue of Buddha. Hence it can not be said conclusively where first statue of Buddha was made.
+
+</details>
+
+---
+
+**Q-GC98. I.A.S. (Pre) 2012**
+
+Lord Buddha’s image is sometimes shown with the hand
+gesture called; 'Bhumisparsha Mudra'. It symbolizes -
+
+A. Buddha’s calling of the Earth to watch over Mara and to prevent Mara from disturbing his meditation
+
+B. Buddha’s calling of the Earth to witness his purity and chastity despite the temptations of Mara @apna_channels Join Telegram: @pdfhub4u_all @apna_ghatnachakra CLICK HERE — UPPCS (PRE +MAINS) BOOK Made with Xodo PDF Reader and Editor B–62 General Studies Indian History
+
+C. Buddha’s reminder to his followers that they all arise from the Earth and finally dissolve into the Earth, and thus life is transitory
+
+D. Both the statements
+
+A. and
+
+B. are correct in this context.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** In Bhumisparsha Mudra, Buddha is seen seated with his right hand extended over the right knee stretching towards the ground with the palm inward while touching the lotus throne. The left hand can be seen with the palm upright in his lap. This gesture represents the moment of the Buddha's awakening as he claims the earth as the witness of his enlightenment just before he realized enlightenment. It is believed that the demon Mara tried to frighten him with the armies of demons which represent the defeat of Mara and his demonic army by Buddha.
+
+</details>
+
+---
+
+**Q-GC99. U.P.P.C.S.(Mains)2009**
+
+Sarnath Buddha's image of Bhumisparsha Mudra
+belongs to –
 
 A. Maurya period
 
@@ -2837,17 +3559,43 @@ D. Gupta period
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Famous Sarnath earth-touching Buddha = **Gupta** period.
+**Ans: D.** The Bhumisparsha Mudra of Gautama Buddha at Sarnath belongs to the Gupta period. This mudra represents steadfastness. The “Dhyani Buddha Akshobhya” is also associated with the earth witness mudra because he was immovable in keeping a vow never to feel anger or disgust at others. The mudra also symbolizes the union of skilful means (upaya), symbolized by the right hand touching the earth and wisdom (prajna), symbolized by the left hand on the lap in a meditation posture.
 
 </details>
 
 ---
-**Q-GC72. IAS Pre 2020**
 
-With reference to the cultural history of India, consider the following pairs :
-1. Parivrajaka - Renunciant and Wanderer
-2. Shramana - Priest with a high status
-3. Upasaka - Lay follower of Buddhism
+**Q-GC100. U.P. U.D.A./L.D.A. (Spl) (Pre) 2010 / U.P. U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+Sarnath Buddha image of Bhumi Sparsh mudra belongs to –
+
+A. Kushana period
+
+B. Gupta period
+
+C. Vardhana period
+
+D. Rajput period
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (The Bhumisparsha Mudra of Gautama Buddha at Sarnath belongs to the Gupta period. This mudra represents steadfastness. The “Dhyani Buddha Akshobhya” is also associated with the earth witness mudra because he was immovable in keeping a vow never to feel anger or disgust at others. The mudra also symbolizes the union of skilful means (upaya), symbolized by the right hand touching the earth and wisdom (prajna), symbolized by the left hand on the lap in a meditation posture.)
+
+</details>
+
+---
+
+**Q-GC101. I.A.S. (Pre.) 2020**
+
+With reference to the cultural history of India, consider
+the following pairs :
+1. Parivrajaka - Renunciant and
+Wanderer
+2. Shramana - Priest with a high
+status
+3. Upasaka - Lay follower of
+Buddhism
 Which of the pairs given above are correctly matched?
 
 A. 1 and 2 only
@@ -2861,14 +3609,16 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Pair 2 is wrong — **shramana** = wandering ascetic, not high-status Vedic priest.
+**Ans: B.** Upasaka are lay followers of Buddhism who are not monks. Parivrajaka literally means male renunciant & wanderer. Buddhist Bhikkhu is Primarily a parivrajaka. A Shramana is a wandering monk in certain ascetic traditions, including Jainism, Buddism & Ajvikism.
 
 </details>
 
 ---
-**Q-GC73. CGPCS Pre 2018**
 
-Which one of the following rulers did not contribute towards the expansion of Buddhism?
+**Q-GC102. Chhattisgarh P.C.S. (Pre) 2018**
+
+Which one of the following rulers did not contribute
+towards the expansion of Buddhism?
 
 A. Harshavardhana
 
@@ -2881,33 +3631,82 @@ D. Pushyamitra Shunga
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Pushyamitra Shunga** is remembered in Buddhist tradition as hostile, not a patron.
+**Ans: D.** Pushyamitra Shunga (184-149 BCE) was the founder and the first ruler of the Shunga empire in east India. Pushyamitra was originally a "General" of the Mauryan Empire. In 184 BCE, he assassinated the last Mauryan Emperor, Brihadratha and proclaimed himself emperor. Buddhist texts state that Pushyamitra cruelly persecuted the Buddhists.
 
 </details>
 
 ---
-**Q-GC74. UPPCS Spl Pre 2004**
 
-Assertion (A) : Kushinagar was the capital of Malla Republic.
-Reason (R) : Lord Buddha’s Mahaparinirvana took place in Kushinagar.
+**Q-GC103. U.P.P.C.S. (Spl) (Pre) 2004**
 
-A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+Assertion (A) : Kushinagar was the capital of Malla
+Republic.
+Reason (R) : Lord Buddha’s Mahaparinirvana took
+place in Kushinagar.
+Select the correct answer using the code given below :
 
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+A. Both
 
-C. (A) is true, but (R) is false.
+A. and (R) are true, and (R) is the correct explanation of
 
-D. (A) is false, but (R) is true.
+A. .
+
+B. Both
+
+A. and (R) are true, but (R) is not the correct explanation of
+
+A. .
+
+C. 
+
+A. is true, but (R) is false.
+
+D. 
+
+A. is false, but (R) is true.
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Both true; Mahaparinirvana does **not** explain why Kushinagar was Malla capital.
+**Ans: B.** Kushinagar was the capital of Malla and also one of the sixteen Mahajanpadas of the 6th century B.C. Lord Buddha’s Mahaparinirvana took place in Kushinagar. Therefore both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).
 
 </details>
 
 ---
-**Q-GC75. IAS Pre 1997**
+
+**Q-GC104. I.A.S. (Pre) 1998**
+
+Which of the following pairs are correctly matched?
+1. Lothal : Ancient dockyard
+2. Sarnath : First Sermon of Buddha
+3. Rajgir : Lion capital of Ashoka
+4. Nalanda : Great seat of Buddhist learning @apna_channels
+Join Telegram: @pdfhub4u_all @apna_ghatnachakra
+CLICK HERE — UPPCS (PRE +MAINS)
+BOOK
+Made with Xodo PDF Reader and Editor
+Indian History General Studies B–63
+Select the correct answer using the codes given below :
+Codes :
+
+A. 1, 2, 3 and 4
+
+B. 3 and 4
+
+C. 1, 2 and 4
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Rajgir is a pilgrimage centre for Buddhists, Hindus, and Jains and is famous for its hot water springs. Lion Capital of Ashoka is in Sarnath, not in Rajgir. The remains of an ancient dockyard are found from Lothal, Gujarat. Mahatma Buddha delivered his first sermon at Sarnath. Nalanda was a great seat of Buddhist learning.
+
+</details>
+
+---
+
+**Q-GC105. I.A.S. (Pre) 1997**
 
 In the Mahayana Buddhism, the Bodhisattva Avalokitesvara was also known as :
 
@@ -2922,17 +3721,43 @@ D. Maitreya
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Avalokiteshvara as **Padmapani** (lotus-bearer).
+**Ans: C.** “Padmapani" or “Lotus-Bearer” is one of the most common epithets of Avalokiteshvara, the Bodhisattva of infinite compassion. This superbly modelled sculpture stands in a tribhanga or tri-bent pose. A Bodhisattva is a living being (sattva), who aspires to enlightenment (bodhi) and carries out altruistic practices. The Bodhisattva ideal is central to the Mahayana Buddhist tradition as the individual, who seeks enlightenment both for himself or herself and for others.
 
 </details>
 
 ---
-**Q-GC76. IAS Pre 2020**
 
-With reference to the religious history of India, consider the following statements :
+**Q-GC106. M.P.P.C.S. (Pre) 2023**
+
+'Aryamanjushrimulakalpa' is related to which of the
+following?
+
+A. Mahayana
+
+B. Hinayana
+
+C. Theravada
+
+D. Vajrayana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: *.** The term "Aryamanjushrimulakalpa' refers to a Buddhist tantric text. It is associated with Mahayana and Vajrayana Buddhism. This text is a part of the broader corpus of Buddhist scriptures that provide instructions on various rituals, meditations and practices aimed at attaining enlightenment.
+
+</details>
+
+---
+
+**Q-GC107. I.A.S. (Pre.) 2020**
+
+With reference to the religious history of India,
+consider the following statements :
 1. Sthaviravadins belong to Mahayana Buddhism.
-2. Lokottaravadin sect was an offshoot of Mahasanghika sect of Buddhism.
-3. The deification of Buddha by Mahasanghikas fostered the Mahayana Buddhism.
+2. Lokottaravadin sect was an offshoot of
+Mahasanghika sect of Buddhism.
+3. The deification of Buddha by Mahasanghikas
+fostered the Mahayana Buddhism.
 Which of the statements given below is/are correct?
 
 A. 1 and 2 only
@@ -2946,14 +3771,17 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statement 1 is wrong — Sthaviravadins are early / Hinayana line, not Mahayana.
+**Ans: B.** Sthaviravadins belong to the Hinayana sect of Buddhism. Lokottaravadin sect was an offshoot of the Mahasanghika sect of Buddhism, while deification of Buddha by Mahasanghikas fostered the Mahayana Buddhism.
 
 </details>
 
 ---
-**Q-GC77. IAS Pre 2018**
 
-With reference to Indian history, who among the following is a future Buddha, yet to come to save the world?
+**Q-GC108. I.A.S. (Pre) 2018**
+
+With reference to Indian history, who among the
+following is a future Buddha, yet to come to save the
+world?
 
 A. Avalokiteshvara
 
@@ -2966,17 +3794,22 @@ D. Padmapani
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Maitreya** = future Buddha.
+**Ans: C.** Maitreya makes his first appearance in Buddhist scriptures in the Cakkavatti Sutta of Pali Tripitika. In this sutta, the Buddha spoke of a future time in which the dharma is entirely forgotten. Eventually, "Another Buddha- Maitreya will gain awakening, his monastic Sangh numbering in the thousand, the Buddha said. This is the only time the historical Buddha is recorded as mentioning Maitreya.
 
 </details>
 
 ---
-**Q-GC78. IAS Pre 2016**
 
-With reference to the religious history of India, consider the following statements:
-1. The concept of Bodhisattva is central to Hinayana sect of Buddhism.
-2. Bodhisattva is a compassionate one on his way to enlightenment.
-3. Bodhisattva delays achieving his salvation to help all sentient beings on their path to it.
+**Q-GC109. I.A.S. (Pre) 2016**
+
+With reference to the religious history of India,
+consider the following statements:
+1. The concept of Bodhisattva is central to Hinayana
+sect of Buddhism.
+2. Bodhisattva is a compassionate one on his way to
+enlightenment.
+3. Bodhisattva delays achieving his salvation to help
+all sentient beings on their path to it.
 Which of the statements given above is/are correct?
 
 A. 1 only
@@ -2990,14 +3823,16 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Bodhisattva ideal is **Mahayana**-central; 2 and 3 stand.
+**Ans: B.** The word Bodhisattva is a compound word from bodhi (enlightenment) and sattva (essence, spirit). Bodhisattva is the goal and ideal of Mahayana Buddhism. The Mahayana Buddhists do not aspire to enlightenment purely to free themselves from suffering, but they do so out of compassion to liberate other sentient beings. They delay achieving their salvation to help all sentient beings on their path to do it. Thus, statement (1) is wrong, whereas (2) and (3) are correct.
 
 </details>
 
 ---
-**Q-GC79. IAS Pre 2017**
 
-The painting of Bodhisattva Padmapani is one of the most famous and oft-illustrated paintings at –
+**Q-GC110. I.A.S. (Pre) 2017**
+
+The painting of Bodhisattva Padmapani is one of the
+most famous and oft-illustrated paintings at –
 
 A. Ajanta
 
@@ -3010,14 +3845,37 @@ D. Ellora
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Padmapani painting at **Ajanta**.
+**Ans: A.** BOOK The paintings of Bodhisattva Padmapani is one of the most famous art structure in the cave I of Ajanta. Padmapani in Sanskrit literally translates into "one who holds the lotus". The Bodhisattva Padmapani sits among a crowd of devotees, both princesses and commoners with long, dark hair hanging down below a jewelled crown, he stands holding his attribute, a blue lotus flower in his right hand.
 
 </details>
 
 ---
-**Q-GC80. UP RO/ARO Pre 2014**
 
-The largest and the most evolved rock-cut Chaitya hall of the Hinayana phase is situated at :
+**Q-GC111. 69th B.P.S.C. (Pre) 2023**
+
+The painting of 'Bodhisattva Padmapani' is located at
+
+A. Bagh
+
+B. Ellora
+
+C. Ajanta
+
+D. Badami
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC112. U.P.R.O./A.R.O. (Pre) 2014**
+
+The largest and the most evolved rock-cut Chaitya hall
+of the Hinayana phase is situated at :
 
 A. Pitalkhora
 
@@ -3030,14 +3888,16 @@ D. Bedsa
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Karle** chaitya.
+**Ans: C.** The Chaitya is the largest and most evolved cave temple of the Hinayana phase of Buddhism, situated at Karle in the Pune district of Maharashtra.
 
 </details>
 
 ---
-**Q-GC81. UPPCS Pre 2017**
 
-In which of the following rock-cut caves, eleven headed Bodhisattava image is depicted?
+**Q-GC113. [U.P.P.C.S. (Pre)-2017]**
+
+In which of the following rock-cut caves, eleven
+headed Bodhisattava image is depicted?
 
 A. Ajanta
 
@@ -3050,12 +3910,13 @@ D. Karle
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Eleven-headed Avalokiteshvara at **Kanheri**.
+**Ans: C.** The Kanheri caves located in Salsette Island are a major tourist destination of the city of Mumbai in Maharashtra. These caves are located in the Sanjay Gandhi National Park complex. Kanheri mentioned in ancient records as Kanhashail, Krishnagiri, Kanhagiri, was the main center of Buddhists. It has the largest number of caves built at a single hill. Kanheri caves were built in the first century B.C. and they were in use until 11th century AD. Cave number 41 (earlier it was numbered 23) houses an interesting idol of Avalokiteshavara with four arms and eleven heads. It is the only statue of its kind in India. The worship of this form of Bodhisattva was prevalent in China, Chinese Turkistan, Cambodia and Japan in 7th-8th CE.
 
 </details>
 
 ---
-**Q-GC82. CGPCS Pre 2021**
+
+**Q-GC114. Chhattisgarh P.C.S. (Pre) 2021**
 
 Who is the author of 'Visuddhimagga'?
 
@@ -3070,14 +3931,67 @@ D. Buddhaghosa
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** ***Visuddhimagga*** by **Buddhaghosa**.
+**Ans: D.** 'Visuddhimagga' is the treatise on Buddhist practice and Theravada Abhidhamma written by Buddhaghosa.
 
 </details>
 
 ---
-**Q-GC83. UPPCS Pre 1998**
 
-The Doctrine of void (Shunyata) was propounded by the Buddhist philosopher :
+**Q-GC115. Rajasthan P.C.S. (Pre) 2024**
+
+Which of the following Buddhist texts were written in
+the Sanskrit language?
+Choose the correct option from the following—
+(1) Divyavadana
+(2) Deepvamsa
+(3) Mahavamsa
+(4) Aryamanjushree Mulakalpa
+
+A. 1, 2
+
+B. 2, 3
+
+C. 1, 4
+
+D. 1, 3
+
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Buddhist scriptures Divyavadana and Aryamanjushree Mulakalpa were composed in Sanskrit. In contrast, the historical Buddhist scriptures Deepvamsa and Mahavamsa which give information about ancient history of India and Sri Lanka were composed in the Pali language.
+
+</details>
+
+---
+
+**Q-GC116. Uttarakhand P.C.S. (Pre) 2005**
+
+Which Indian Buddhist monk had been sent to China
+in the first century A.D.?
+
+A. Tsang
+
+B. Ashvaghosha
+
+C. Vasumitra
+
+D. Nagarjuna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Nagarjuna was an eminent personality in the court of Kanishka. Hiuen Tsang called him as one of the world's four great guiding powers. In the book "Madhyamikakarika" he has discussed the theory of relativity. He is also known as the Indian Einstein'. According to Chinese mythology, Nagarjuna travelled to China and preached Buddhism.
+
+</details>
+
+---
+
+**Q-GC117. U.P.P.C.S. (Pre) 1998**
+
+The Doctrine of void (Shunyata) was propounded by
+the Buddhist philosopher :
 
 A. Nagarjuna
 
@@ -3090,12 +4004,13 @@ D. Ashvaghosha
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Nagarjuna** — *sunyata* / Madhyamaka.
+**Ans: A.** Nagarjuna’s primary contribution to Buddhist philosophy was the use of the concept of Sunyata or doctrine of void. The famous literary work “Madhyamikakarika” provides one of the Nagarjuna’s most famous quotations on emptiness or co-arising.
 
 </details>
 
 ---
-**Q-GC84. Uttarakhand UDA/LDA Mains 2007**
+
+**Q-GC118. Uttrakhand U.D.A./L.D.A. (Mains) 2007**
 
 To which Buddhist School did Nagarjuna belong ?
 
@@ -3110,12 +4025,40 @@ D. Yogachara
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Madhyamika / Madhyamaka**.
+**Ans: C.** BOOK
 
 </details>
 
 ---
-**Q-GC85. MPPCS Pre 2004**
+
+**Q-GC119. I.A.S. (Pre) 2022**
+
+With reference to Indian history, consider the following
+pairs :
+Historical person Known as
+1. Aryadeva – Jaina scholar
+2. Dignaga – Buddhist scholar
+3. Nathamuni – Vaishnava scholar
+How many pairs given above are correctly matched?
+
+A. None of the pairs
+
+B. Only one pair
+
+C. Only two pairs
+
+D. All three pairs
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Aryadeva was Buddhist philosopher and disciple of Nagarjuna. Dignaga was also Buddhist. Nathmuni was Vaishnava scholar, who is considered as the first teacher of Vaishnava sect.
+
+</details>
+
+---
+
+**Q-GC120. M.P.P.C.S. (Pre) 2004**
 
 Buddhist centre of learning is -
 
@@ -3130,12 +4073,35 @@ D. Ujjain
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Vikramashila** (with Nalanda, Vallabhi).
+**Ans: A.** During the Buddhist period, some of the most important centres of learning in India were Nalanda, Vikramshila and Vallabhi. These centres of learning were not only popular among the different Janapadas, from where students came for learning but also attracted students from abroad i.e. China, Japan, Tibet and other countries of South-East Asia. Some of the educational centres like Taxila and Nalanda enjoyed the status of Universities.
 
 </details>
 
 ---
-**Q-GC86. UP RO/ARO Pre 2014**
+
+**Q-GC121. 70th B.P.S.C. Re-Exam 2024**
+
+Which of the following is not the famous centre for
+Buddhist Learning in Ancient India?
+
+A. Nagpur
+
+B. Vallabhi
+
+C. Vikramshila
+
+D. Nalanda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Among the given options, Nagpur was not a prominent center of Buddhist education in ancient India. In ancient India, the main centers of Buddhist education were Vallabhi, Vikramshila, and Nalanda. All of these were renowned for their advanced education systems and for Buddhist studies.
+
+</details>
+
+---
+
+**Q-GC122. U.P.R.O./A.R.O. (Pre) 2014**
 
 Vallabhi University was situated in –
 
@@ -3150,12 +4116,13 @@ D. Gujarat
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Vallabhi** in **Gujarat** (Hinayana memory).
+**Ans: D.** Vallabhi, one of the most important centres of Buddhist learning, was situated in Gujarat. It is also known as Vallabhipura and was the capital of ancient Maitraka dynasty.
 
 </details>
 
 ---
-**Q-GC87. BPSC 43rd Pre 1999**
+
+**Q-GC123. 43rd B.P.S.C. (Pre) 1999**
 
 Nalanda University was founded during the dynasty of
 
@@ -3170,12 +4137,13 @@ D. Pala
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Nalanda foundation tradition = **Gupta** age.
+**Ans: C.** Nalanda was a large Buddhist monastery in the ancient kingdom of Magadha (modern-day Bihar) in India. Historians often described Nalanda as a University. Nalanda flourished under Gupta Empire and was famous for Buddhist religious philosophy.
 
 </details>
 
 ---
-**Q-GC88. BPSC 56–59 Pre 2015**
+
+**Q-GC124. 56th to 59th B.P.S.C. (Pre) 2015**
 
 Who was the founder of Nalanda University?
 
@@ -3190,12 +4158,73 @@ D. Pushyagupta
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Tradition credits **Kumaragupta I**.
+**Ans: B.** Nalanda University was the world’s first International University founded in the 450 AD during the reign of the Kumar Gupta. The great archaeologist Alexander Cunningham identified this site as Nalanda University in 1915-16.
 
 </details>
 
 ---
-**Q-GC89. BPSC 48–52 Pre 2008**
+
+**Q-GC125. 42nd B.P.S.C. (Pre) 1997**
+
+Why was Nalanda University famous in the world?
+
+A. Medical Science
+
+B. Philosophy
+
+C. Buddhist Religious Philosophy
+
+D. Chemical Science
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (Nalanda University was the world’s first International University founded in the 450 AD during the reign of the Kumar Gupta. The great archaeologist Alexander Cunningham identified this site as Nalanda University in 1915-16.)
+
+</details>
+
+---
+
+**Q-GC126. 41st B.P.S.C. (Pre) 1996**
+
+Out of two statements below first is Assertion(A) and
+second is Reason (R), carefully read both statementsAssertion (A) : Till the end of twelfth century Nalanda
+Mahavihara lost its glory.
+Reason (R) : State protection ceased to be available
+to Mahavihara.
+With respect to the above-mentioned two statements,
+which of the following is true?
+
+A. 
+
+A. and (R) both are true, and (R) is the correct explanation of
+
+A. .
+
+B. 
+
+A. and (R) both are true, and (R) is not the correct explanation of
+
+A. .
+
+C. 
+
+A. is true, but (R) is false.
+
+D. 
+
+A. is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** BOOK In ancient India, Nalanda was a famous centre of Buddhist learning and University as well. It was located at Rajgriha (at present Rajgir) in Bihar. Nalanda University came into existence during the period of Guptas. By the end of the twelfth century, Mahavihara waned due to Muslim invasion. The importance of Nalanda started declining due to the Pala rulers of Bengal as they started giving protection to Vikramshila University. Hence, both Assertion (A) and Reason (R) are correct, and Reason (R) is the correct explanation of Assertion (A).
+
+</details>
+
+---
+
+**Q-GC127. 48th to 52nd B.P.S.C. (Pre) 2008**
 
 ‘Nava Nalanda Mahavihara’ is famous for –
 
@@ -3210,42 +4239,98 @@ D. Museum
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Modern **Pali / Buddhist research** centre (foundation 1951).
+**Ans: C.** Nava Nalanda Mahavihara is a modern Pali and Buddhist research center. Its foundation stone was laid on 20 November 1951.
 
 </details>
 
 ---
-**Q-GC90. IAS Pre 1996 / 2012**
 
-Which of the following were common to both Buddhism and Jainism ?
+**Q-GC128. I.A.S. (Pre) 1996**
+
+Which of the following were common to both Buddhism
+and Jainism ?
 1. Avoidance of extremities of penance and enjoyment
 2. Indifference to the authority of the Vedas
 3. Denial of efficiency of rituals
 4. Non-injury to animal life
+Select the answer using the codes given below :
+Codes :
 
 A. 1, 2, 3 and 4
 
 B. 2, 3 and 4
 
-C. 1, 3 and 4
+C. 1,3 and 4
 
 D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Extremes-avoidance (middle path) is Buddhist, not Jain. Shared: Vedas indifference, ritual denial, ahimsa.
+**Ans: B.** The avoidance of extremities of penance and enjoyment was a trait in Buddhism, not in Jainism. While denial of the efficiency of rituals, indifference to the authority of Vedas and injury to animals are prohibited by both religions. Both of them followed the path of Ahimsa.
 
 </details>
 
 ---
-**Q-GC91. UPPCS Pre 2006**
 
-Lord Buddha preached the following four noble truths - Put them in correct order :
+**Q-GC129. I.A.S. (Pre) 2012**
+
+With reference to the history of ancient India, which
+of the following was/were common to both Buddhism
+and Jainism?
+1. Avoidance of extremities of penance and enjoyment
+2. Indifference to the authority of the Vedas
+3. Denial of the efficiency of rituals
+Select the correct answer using the codes given below :
+
+A. Only 1
+
+B. Only 2 and 3
+
+C. Only 1 and 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (The avoidance of extremities of penance and enjoyment was a trait in Buddhism, not in Jainism. While denial of the efficiency of rituals, indifference to the authority of Vedas and injury to animals are prohibited by both religions. Both of them followed the path of Ahimsa.)
+
+</details>
+
+---
+
+**Q-GC130. 44th B.P.S.C. (Pre) 2000**
+
+Which one of the following is not common between
+Buddhism and Jainism?
+
+A. Ahimsa
+
+B. Indifference to Vedas
+
+C. Self-mortification
+
+D. Rejection of Rituals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (The avoidance of extremities of penance and enjoyment was a trait in Buddhism, not in Jainism. While denial of the efficiency of rituals, indifference to the authority of Vedas and injury to animals are prohibited by both religions. Both of them followed the path of Ahimsa.)
+
+</details>
+
+---
+
+**Q-GC131. U.P.P.C.S. (Pre) 2006**
+
+Lord Buddha preached the following four noble truths -
+Put them in correct order using the codes given below :
 A. There is suffering.
 B. There is a cessation of suffering.
 C. There is a path leading to the cessation of suffering.
 D. There is the cause of suffering.
+Codes :
 
 A. ADBC
 
@@ -3258,116 +4343,163 @@ D. ABDC
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Order: suffering → cause → cessation → path (**A-D-B-C**).
+**Ans: A.** After attaining enlightenment, to preach his thoughts, Gautama Buddha arrived at Rishipattan (Sarnath), where he delivered his sermon to five Brahmins. It is also known as Dharmachakra Pravartana. The sermon was related to suffering, the cause of suffering and its solution. The concept of the eightfold path forms the theme of ‘Dharma Chakra Pravartana Sutta’ which means sermon of the turning of the wheel of law. He prescribed ‘Noble Eightfold Path’ and ‘Four Noble Truths’ which were accepted as basic tenets by all Buddhist sects. The four noble truths in chronological order are as followsi. There is suffering. ii. There is the cause of suffering. iii. There is a cessation of suffering. iv. There is a path leading to the cessation of suffering.
 
 </details>
 
 ---
-**Q-GC92. UP UDA/LDA Pre 2001**
 
-Consider the following statements, what is the difference between Chaityas and Viharas?
+**Q-GC132. U.P.P.C.S. (Pre) 1996**
 
-A. Viharas are places of worship while Chaitya is dwelling place of the Buddhist monks.
+Both Jainism and Buddhism believe that:
 
-B. Chaitya is a place of worship while Vihara is a dwelling place.
+A. Philosophy of karma and transmigration of soul were correct.
 
-C. There is no particular difference between both of them.
+B. Salvation could be possible only after death.
 
-D. Viharas and Chaityas both are used as dwelling place.
+C. Both men and women could attain salvation.
+
+D. Middle course of life was the best one.
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Chaitya** = worship hall; **Vihara** = monastery dwelling.
+**Ans: A.** Both Buddhism and Jainism believe in the concept of Karma, which states that our past actions affect our present and future BOOK in the next life. Similarly, afflictions in this life are often explained away as the effects of Karma of a previous life (or from misdeeds earlier in this life). Both of them believe in the philosophy of Karma and rebirth.
 
 </details>
 
 ---
-**Q-GC93. IAS Pre 2013**
 
-Some Buddhist rock-cut caves are called Chaityas, while the others are called Viharas. What is the difference between the two?
+**Q-GC133. U.P.P.C.S. (Pre) 2006**
 
-A. Vihara is a place of worship, while Chaitya is the dwelling place of the monks.
+According to philosophy of Buddhism :
+Assertion (A) : Rejected the concept of Rebirth.
+Reason (R) : Soul is mortal.
+Choose the correct option:
 
-B. Chaitya is a place of worship, while Vihara is the dwelling place of the monks.
+A. 
 
-C. Chaitya is the stupa at the far end of the cave, while Vihara is the hall axial to it.
+A. and (R) both are true, and (R) is the proper explanation of
 
-D. There is no material difference between the two.
+A. .
+
+B. 
+
+A. and (R) both are true, and (R) is not the proper explanation of
+
+A. .
+
+C. 
+
+A. is true, but (R) is untrue.
+
+D. 
+
+A. is untrue, but (R) is true.
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Same chaitya / vihara split.
+**Ans: D.** Pratityasamutpada is the essence of Buddhist teachings. The invincibility of Vedas and immortalization of soul propounded by Brahmin Granthas were inadmissible in Buddhism. Even though they rejected the immortalization theory of soul, they accepted the principle of rebirth and theory of Karma. According to them, life originates due to the causes of various preconditions which are interdependent. One type of state comes into being as a result of another previous state. So it is clear that Assertion (A) is not correct, but Reason (R) is correct.
 
 </details>
 
 ---
-**Q-GC94. IAS Pre 2023**
 
-In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?
+**Q-GC134. U.P.P.C.S. (Pre) 1998**
 
-A. Andhra
+Which of the following statement(s) is/are correct about
+Buddhism?
+1. It did not reject caste and class.
+2. It challenged highest social ranked Brahmins.
+3. It pointed certain castes as low.
+Choose the correct answer from the codes given below.
+Codes :
 
-B. Gandhara
+A. 1 and 2
 
-C. Kalinga
+B. 2 and 3
 
-D. Magadha
+C. 1, 2 and 3
+
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Dhanyakataka** (Dharanikota) in **Andhra**.
+**Ans: C.** Although Buddhism had accepted the caste system up to some extent but they challenged the social rank of Brahmins who were at the top during that period. In Buddhism, some of the castes were placed as low.
 
 </details>
 
 ---
-**Q-GC95. Jharkhand PCS Pre 2013**
 
-Which form of Buddhism was prominent during the Sultanate period?
+**Q-GC135. U.P.P.C.S. (Pre) 2009**
 
-A. Theravada
+The reason included in the expansion of Buddhism–
+1. The simplicity of religion
+2. Special appeal towards Dalits
+3. Missionary concept of religion
+4. Regional language
+5. The soundness of Vedic spirit by Philosophers–
+Code :
 
-B. Hinayana
+A. 1, 2 and 3
 
-C. Vajrayana
+B. 2, 3 and 4
 
-D. Tantrayana
+C. 1, 2, 3 and 4
+
+D. 2, 3, 4 and 5
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Eastern India / medieval map often stresses **Vajrayana**.
+**Ans: C.** The main reason for the spread of Buddhism was its simplicity. Its eight-fold path known as ‘Arya-Satya’ and concept of non-violence were simple and understandable by the common people. Buddha spread his message in the simple language or the language of common people. Buddhism did not believe in caste-distinctions. The nonBrahmins, particularly Dalits were attracted by the simplicity of Buddhism. They also followed the missionary concept.
 
 </details>
 
 ---
-**Q-GC96. IAS Pre 2024**
 
-Sanghabhuti, an Indian Buddhist monk, who travelled to China at the end of the fourth century AD, was the author of a commentary on :
+**Q-GC136. I.A.S. (Pre) 2010**
 
-A. Prajnaparamita Sutra
+Why did Buddhism start declining in India in the early
+medieval times ?
+1. Buddha was by that time considered as one of the
+incarnations of Vishnu and thus became a part of
+Vaishnavism.
+2. The invading tribes from Central Asia till the
+time of last Gupta king adopted Hinduism and
+persecuted Buddhists.
+3. The Kings of Gupta dynasty were strongly opposed
+to Buddhism.
+Which of the statements given above is/are correct ?
 
-B. Visuddhimagga
+A. 1 only
 
-C. SarvastivadaVinaya
+B. 1 and 3
 
-D. Lalitavistara
+C. 2 and 3
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Commentary on **Sarvastivada Vinaya**.
+**Ans: A.** Buddhism started declining in India in the early medieval times because Buddha was by that time considered as one of the incarnations of Vishnu and thus became a part of Vaishnavism. The Kings of the Gupta dynasty were not opposed to Buddhism even though they supported Brahmanical faith. Statements (2) and (3) are not correct. Hence, option (a) is the correct answer.
 
 </details>
 
 ---
-**Q-GC97. IAS Pre 2017**
 
-With reference to the religious history of India, consider the following statements:
-1. Sautrantika and Sammitiya were the sects of Jainism.
-2. Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in a latent form.
+**Q-GC137. I.A.S. (Pre) 2017**
+
+With reference to the religious history of India,
+consider the following statements:
+1. Sautrantika and Sammitiya were the sects of
+Jainism.
+2. Sarvastivadin held that the constituents of
+phenomena were not wholly momentary, but
+existed forever in a latent form.
 Which of the statements given above is/are correct?
 
 A. 1 only
@@ -3381,36 +4513,205 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statement 1 wrong (Buddhist sects). Sarvastivada “all exists” reading stands.
+**Ans: B.** BOOK Sautrantika and Sammitiya were the sects of Buddhism, not Jainism. So, statement 1 is incorrect. Sarvastivada literally means "Doctrine that all exist". Sarvastivadin described a complex system in which past, present and future phenomena are all held to have some form of their own existence. Like all Buddhists, the Sarvastivadins consider everything empirical to be impermanent but they maintain that the dharma factors are eternally existing realities. Impermanence, also called Anitya, is one of essential doctrines and part of three marks of existence in Buddhism. This doctrine was presented by Buddha himself. The doctrine asserts that all of conditioned existence, without exception, is "transient, evanescent, inconstant". This impermanence is a source of Dukkha (suffering). Therefore, statement 2 is correct.
 
 </details>
 
 ---
-**Q-GC98. IAS Pre 2019**
 
-Consider the following :
-1. Deification of the Buddha
-2. Treading the path of Bodhisattvas
-3. Image worship and rituals
-Which of the above is/are the feature/features of Mahayana Buddhism?
+**Q-GC138. U.P. U.D.A./L.D.A. (Pre) 2001**
 
-A. 1 only
+Consider the following statements, what is the
+difference between Chaityas and Viharas?
 
-B. 1 and 2 only
+A. Viharas are places of worship while Chaitya is dwelling place of the Buddhist monks.
 
-C. 2 and 3 only
+B. Chaitya is a place of worship while Vihara is a dwelling place.
 
-D. 1, 2 and 3
+C. There is no particular difference between both of them.
+
+D. Viharas and Chaityas both are used as dwelling place.
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are Mahayana features.
+**Ans: B.** A Chaitya-Griha Buddhist cave is a meeting or assembly chamber which is often used for prayer, while Viharas are the shelter accommodations of the monks during the rainy season.
 
 </details>
 
 ---
-**Q-GC99. UPPCS Mains 2010**
+
+**Q-GC139. 69th B.P.S.C. (Pre) 2023**
+
+In Indian art, the construction of 'Stupa', 'Chaitya'
+and 'Vihara' is related to which of the following?
+
+A. Ajivika sect
+
+B. Vaishnava sect
+
+C. Buddhism
+
+D. Shaiva sect
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 'Stupa', 'Chaitya' and 'Vihara' all are related to Buddhism. Stupa is a dirt burial mound faced with stone. In Buddhism, the earliest stupas contained portions of the Buddha's ashes, and as a result, it began to be associated with the body of the Buddha. Chaitya is a place of worship, while Vihara is the dwelling place of monks.
+
+</details>
+
+---
+
+**Q-GC140. I.A.S. (Pre) 2013**
+
+Some Buddhist rock-cut caves are called Chaityas,
+while the others are called Viharas. What is the
+difference between the two?
+
+A. Vihara is a place of worship, while Chaitya is the dwelling place of the monks.
+
+B. Chaitya is a place of worship, while Vihara is the dwelling place of the monks.
+
+C. Chaitya is the stupa at the far end of the cave, while Vihara is the hall axial to it.
+
+D. There is no material difference between the two.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. ('Stupa', 'Chaitya' and 'Vihara' all are related to Buddhism. Stupa is a dirt burial mound faced with stone. In Buddhism, the earliest stupas contained portions of the Buddha's ashes, and as a result, it began to be associated with the body of the Buddha. Chaitya is a place of worship, while Vihara is the dwelling place of monks.)
+
+</details>
+
+---
+
+**Q-GC141. U.P.P.C.S. (Pre) 2017**
+
+Consider the following statements:
+1. The early Chaityagrihas and Viharas of Guntuphalli
+in West Godavari district are rock cut.
+2. The Chaityas and Viharas of Eastern Deccan are
+usually rock cut.
+Of these statements:
+
+A. Only 1 is correct
+
+B. Only 2 is correct
+
+C. Both 1 and 2 are correct
+
+D. Neither 1 nor 2 is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** When the question was asked Guntuphalli was in the West Godavari district of Andhra Pradesh (Now it is in the NTR district). It has rock-cut Chaityas and Viharas. Chaityas and Viharas of Eastern Deccan are usually rock cut.
+
+</details>
+
+---
+
+**Q-GC142. Rajasthan P.C.S. (Pre) 2024**
+
+Consider the following statements regarding stupas
+and choose the correct option—
+1. The word 'Stupa' is an architectural term
+and means something which is raised up by
+accumulation.
+2. The practice of building stupas in memory of the
+deceased existed even before the Buddhist era.
+
+A. Only statement 1 is true.
+
+B. Only statement 2 is true.
+
+C. Both statements 1 and 2 are true.
+
+D. Both statements 1 and 2 are false.
+
+E. Question not attempted.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The literal meaning of the word ‘Stupa’ is ‘to pile up’ or ‘to construct.’ It refers to an object or structure created through accumulation. In particular, in Buddhism, the word ‘stupa’ is used to denote a religious monument, the construction of which was intended to preserve the remains of Buddha and his followers securely. The tradition of building stupas in India did not begin with Buddhism; rather, it dates back to the pre-Buddhist era. This tradition emerged from the burial practices of ancient communities, in which tombs were built over the remains of departed leaders of the community. These tombs later evolved into stupas. This clearly suggests that the tradition of constructing stupas existed even before Buddhism. Therefore, both statements BOOK ha, 7. Suparshvanath, 8. Chandraprabha, 9. Pushpadant (Suvidhinath), 10. Sheetalnath, 11. Shreyansa-nath, 12. Vasupujya 13. Vimalnath, 14. Anantnath, 15. Dharmanath, 16 Shantinath, 17. Kunthunath 18. Aranath, 19. Mallinath, 20. Munisuvrata, 21. Naminath, 22. Neminath or Arishtanemi, 23. Parshvanath and 24. Mahavira Swami. *The first Tirthankara of Jainism was Rishabhdev. *His other names are Rishabhnath, Adinath and Vrishabhnath. *Rishabhdev and Arishtanemi are mentioned in the Rig Veda. *Parshvanath is the as 23rd Tirthankara of Jainism. *He was born in Kashi (Varanasi). *His father, Ashwasen was the king of Kashi. *Parshvanath obtained Kaivalya (complete knowledge) in Ashrampad Udyan near Varanasi and he attained Parinirvana on the mount Sammed Shikhar or Sammet Shikhar. Parshvanath asked his followers to follow four restraints. These were - Ahimsa (Non-violence), Aparigraha (forgoing-possession), Asteya (not-stealing) and Satya (truth). Mahavira Swami was born in Kundagram near Vaishali about 599 BC. *His father Siddhartha was the chief of the Gyatrik Kshatriya Sangh. *His mother Trishala or Videhdatta was the sister of Chetaka, the head of Lichchhavi Republic.* Mahavir Swami’s childhood name was Vardhaman. *His wife’s name was Yashoda (daughter of Kundinya Gotra). They had a daughter named Anojja (Priyadarshana). She was married to Jamali. *The word 'Kaivalya' is used for ‘Complete knowledge ‘ in Jain religion. Mahavira Swami obtained the Kaivalya (complete knowledge) under a tree of ‘ Sal ‘ on the bank of Rijupalika river near Jrimbhik village. Therefore he is called Kevalin. After Kaivalya he was called Kevalin, Arhat (Yogya), Jin (Vijeta) and Nirgranth (Bandhan Rahit). *After attaining Kaivalya, Mahavira Swami started propagating his principles. *Lichchhavi Chief of Vaishali, Chetaka, who was his uncle, made a major contribution in the promotion of Jainism. *Makkhali Gosala was a disciple of Mahavira in the early period, but later he fellout with Mahavira due to the difference of opinion and founded his own creed “Ajivika.”. The belief of the sect is known as ‘Niyatiwad’ according to which every matter in the world is being controlled and operated by destiny (fate). *In Jain philosophy, the people (e.g. monks) are very keen to uplift their souls and hence they sacrifice all worldly enjoyments and adopt five great ‘Vratas’ (vows) – Ahimsa, Satya, Brahmacharya, Asteya and Aparigraha. *These Mahavratas are difficult to practice by average human beings. So they follow Anuvratas i.e. Ahimsa Anuvrat, Satya Anuvrat, Brahmacharya Anuvrat, Asteya Anuvrat, and Aparigraha Anuvrat. *Mahavira Swami was the 24th and the last Tirthankara of Jain religion. He denied the unmanliness of Vedas and opposed related social-cultural traditions. By leaving the exclusive belief of selfish and atheists, he accepted the middle path known as ‘Syadvad’. Syadvad is also known as the name of Saptabhanginaya, which means knowledge is relative.
+
+</details>
+
+---
+
+**Q-GC143. I.A.S. (Pre) 2023**
+
+In which one of the following regions was
+Dhanyakataka, which flourished as a prominent
+Buddhist centre under the Mahasanghikas, located?
+
+A. Andhra
+
+B. Gandhara
+
+C. Kalinga
+
+D. Magadha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Dhanyakataka (present day Dharnikota) is an ancient site located in present day Palnadu district in Andhra Pradesh. It was an important town in Deccan and the capital of later Satvahanas. It was a major center of Buddhist learning & culture. Excavation at Dharnikota has revealed viharas here and in nearby areas.
+
+</details>
+
+---
+
+**Q-GC144. Jharkhand P.C.S. (Pre) 2013**
+
+Which form of Buddhism was prominent during the
+Sultanate period?
+
+A. Theravada
+
+B. Hinayana
+
+C. Vajrayana
+
+D. Tantrayana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** In the medieval period (Sultanate Period), Vajrayana sect of Buddhism was most prominent. Vajrayana mostly flourished in the 8th century A.D. The principles of Vajrayana is found in 'Arya Manjushrimulkalpa' and 'Guhyasamaja'.
+
+</details>
+
+---
+
+**Q-GC145. I.A.S. (Pre) 2024**
+
+Sanghabhuti, an Indian Bhuddhist monk, who
+travelled to China at the end of the fourth century
+AD, was the author of a commentary on :
+
+A. Prajnaparamita Sutra
+
+B. Visuddhimagga
+
+C. SarvastivadaVinaya
+
+D. Lalitavistara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Sanghabhuti, an Indian Buddhist monk, who travelled to China at the end of the fourth century AD, was the author of a commentary on Sarvastivada Vinaya, a significant text within the Sarvastivada school of Buddhism, which outlines the rules and regulations for monastic life. Sanghabhuti's commentary provided explanations and interpretations of the Vinaya rules, aiming to clarify and elaborate on the text for Chinese Buddhist practitioners. In its early history, the Sarvastivada Vinaya was the most common vinaya tradition in China.
+
+</details>
+
+---
+
+### Jainism (Q146 – Q207)
+
+**Q-GC146. U.P.P.C.S. (Mains) 2010**
 
 The originator of the Jain religion is –
 
@@ -3425,12 +4726,13 @@ D. Rishabh Dev
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** First tirthankara **Rishabhdev / Adinath** as originator in tradition.
+**Ans: D.** First Tirthankara Rishabhdev or Aadinath is known as the originator of Jain religion. Mahavira Swami was the 24th Tirthankar of Jain religion, who propagated the Jain philosophy during the 6th Century B.C.
 
 </details>
 
 ---
-**Q-GC100. CGPCS Pre 2013**
+
+**Q-GC147. Chhattisgarh P.C.S (Pre) 2013**
 
 Who was the first Tirthankara of Jain religion ?
 
@@ -3447,14 +4749,16 @@ E. Trisala
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Rishabhanath**.
+**Ans: B.** See the explanation of above question. (First Tirthankara Rishabhdev or Aadinath is known as the originator of Jain religion. Mahavira Swami was the 24th Tirthankar of Jain religion, who propagated the Jain philosophy during the 6th Century B.C.)
 
 </details>
 
 ---
-**Q-GC101. UPPCS Mains 2016**
 
-Parshvanatha, the Jain ‘Thirthankara’ was associated mainly with which of the following places?
+**Q-GC148. U.P.P.C.S. (Mains) 2016**
+
+Parshvanatha, the Jain ‘Thirthankara’ was associated
+mainly with which of the following places?
 
 A. Varanasi
 
@@ -3467,17 +4771,24 @@ D. Champa
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Parshvanatha** linked to **Varanasi / Kashi**.
+**Ans: A.** Lord Parshvanath was 23rd Tirthankara of Jain Religion. He was born in Varanasi and was the son of King Aswasena and Queen Vama of Varanasi. He obtained Kaivalya (complete knowledge) in Ashrampad Udyan near Varanasi and he attained Parinirvan on the Mount Sammed Shikhar or Sammeta.
 
 </details>
 
 ---
-**Q-GC102. UPPCS Pre 2017**
 
-Match List-I with List-II:
-(Tirthankara) — (Cognizance)
-A. Adinatha B. Mallinatha C. Parshavanatha D. Sambhavnatha
-1. Bull 2. Horse 3. Snake 4. Water Jar
+**Q-GC149. U.P.P.C.S. (Pre) 2017**
+
+Match List-I with List-II and select the correct answer
+using the codes given below:
+List-I List-II
+(Tirthankara) (Cognizance)
+A. Adinatha 1. Bull
+B. Mallinatha 2. Horse
+C. Parshavanatha 3. Snake
+D. Sambhavnatha 4. Water Jar
+Code :
+A B C D
 
 A. 1 4 3 2
 
@@ -3490,12 +4801,128 @@ D. 3 1 4 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Adinatha–Bull; Mallinatha–Kalasha; Parshva–Snake; Sambhavnatha–Horse.
+**Ans: A.** The correctly matched list is as follows – (Tirthankaras) (Cognizance) Adinatha - Bull Mallinatha - Water Jar Parshvanatha - Snake Sambhavnatha - Horse
 
 </details>
 
 ---
-**Q-GC103. BPSC / UPPCS**
+
+**Q-GC150. R.A.S./R.T.S. (Pre.) 2021**
+
+Match list-I with list-II and choose the correct answer
+from the code given below –
+List-I List-II
+(Tirthankara) (Their cognition)
+A. Parshvanath (i) Bull
+B. Adinath (ii) Lion
+C. Mahaveer (iii) Snake
+D. Shantinath (iv) Deer @apna_channels
+Join Telegram: @pdfhub4u_all @apna_ghatnachakra
+CLICK HERE — UPPCS (PRE +MAINS)
+BOOK
+Made with Xodo PDF Reader and Editor
+B–72 General Studies Indian History
+Code -
+
+A. A-(ii), B-(iii), C-(iv), D-(i)
+
+B. A-(iv), B-(iii), C-(ii), D-(i)
+
+C. A-(i), B-(ii), C-(iii), D-(iv)
+
+D. A-(iii), B-(i), C-(ii), D-(iv)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The correctly matched list is as follows - List-I List-II (Tirthankara) (Their cognition) Parshvanath Snake Adinath Bull Mahavira Lion Shantinath Deer
+
+</details>
+
+---
+
+**Q-GC151. U.P.P.C.S. (Pre.) 2021, Q131**
+
+Which one of the following pairs is NOT correctly
+matched?
+(Tirthankar) - (Nirvan Place)
+
+A. Rishabhanath - Ashtapad
+
+B. Vasupujya - Sammedashikhar
+
+C. Neminath - Urjayanta
+
+D. Mahavira - Pavapuri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Vasupujya was the 12th Tirthankar of Jainism. He attained Nirvana or Moksha in Champapur (Bihar). All other pairs are correctly matched.
+
+</details>
+
+---
+
+**Q-GC152. U.P. R.O./A.R.O. (Mains) 2021**
+
+Match List-I with List-II and select the correct answer
+using the code given below the lists :
+List-I List-II
+(Place) (Related Tirthankar)
+A. Shravasti 1. Rishabhanath
+B. Kakandi 2. Padmaprabhu
+C. Ayodhya 3. Suvidhanath
+D. Pabhosa 4. Sambhavnath
+Code :
+A B C D
+
+A. 3 1 2 4
+
+B. 2 4 1 3
+
+C. 4 3 1 2
+
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Correct match is as follows : List-I List-II (Place) (Related Tirthankar) Shravasti Sambhavnath Kakandi Suvidhinath (Pushpadant) Ayodhya Rishabhanath Pabhosa Padmaprabhu
+
+</details>
+
+---
+
+**Q-GC153. U.P.R.O./A.R.O. (Mains) 2016**
+
+Consider the following 'Tirthankara' and arrange them
+in chronological order:
+I. Abhinandan
+II. Vimal Nath
+III.Munishubratha Nath
+IV. Padmaprabhu
+Select the correct answer from the code given below.
+Code :
+
+A. I, IV, II and III
+
+B. III, I, II and IV
+
+C. IV, III, I and II
+
+D. IV, I, III and II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Abhinandana Natha was 4th Tirthankara, Padmaprabhu was 6th Tirthankara, Vimal Nath was 13th and Munishuvrata Nath was 20th Tirthankara.
+
+</details>
+
+---
+
+**Q-GC154. 53rd to 55thB.P.S.C. (Pre) 2011 / 47th B.P.S.C. (Pre) 2005 / 42nd B.P.S.C. (Pre) 1997**
 
 Where was Mahavira Swami born?
 
@@ -3510,14 +4937,187 @@ D. Vaishali
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Kundagram / Kundalpur** near Vaishali.
+**Ans: A.** Mahavira Swami was born in Kundagram (Kundalpur) near Vaishali in approx 599 BC. His mother Trishala was the sister of Chetak, the head of the Lichchhavi republic, and his father Siddhartha was the head of Gyatrik Kshatriya. Nandivardhan was his elder brother.
 
 </details>
 
 ---
-**Q-GC104. IAS Pre 1993**
 
-In Jain Religion, which word is used for ‘Complete Intellect’?
+**Q-GC155. U.P.P.C.S. (Spl) (Pre) 2004**
+
+Kundalpur is the birthplace of –
+
+A. Emperor Ashoka
+
+B. Gautam Buddha
+
+C. Mahavira Swami
+
+D. Chaitanya Mahaprabhu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (Mahavira Swami was born in Kundagram (Kundalpur) near Vaishali in approx 599 BC. His mother Trishala was the sister of Chetak, the head of the Lichchhavi republic, and his father Siddhartha was the head of Gyatrik Kshatriya. Nandivardhan was his elder brother.)
+
+</details>
+
+---
+
+**Q-GC156. 63rd B.P.S.C (Pre.) 2017**
+
+The salvation place of Mahavirji, the originator of Jain
+religion, is located at -:
+
+A. Maner
+
+B. Rajgir
+
+C. Pavapuri
+
+D. Jalan Port
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mahavira Swami was born in Kundagram near Vaishali in 599 BC. He attained Nirvana at the age of (approx) 72 years BOOK
+
+</details>
+
+---
+
+**Q-GC157. 45th B.P.S.C. (Pre) 2001**
+
+Mahavira Jain breathed his last at –
+
+A. Rajgir
+
+B. Sanchi
+
+C. Pavapuri
+
+D. Samastipur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (Mahavira Swami was born in Kundagram near Vaishali in 599 BC. He attained Nirvana at the age of (approx) 72 years BOOK)
+
+</details>
+
+---
+
+**Q-GC158. Chhattisgarh P.C.S. (Pre) 2022**
+
+What is not true in relation to Vardhamana Mahavir?
+
+A. He is considered to be 24th and last Tirthankara
+
+B. His mother was sister of Licchavi's king Chetaka
+
+C. He did not marry in this lifetime
+
+D. He left his body in 527 BCE at Pavapuri near Patna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mahavira Swami was born in Kundagram near Vaishali in about 599 BC. His father Siddhartha was the chief of the Gyatrik Kshatriya Sangh. His mother Trishala was the sister of Chetka, the head of Lichchhavi Republic. His wife's name was Yashoda. He was the 24th and the last Tirthankara of Jain religion. He attained Nirvana at the age of (approx) 72 years in 527 BC in Pavapuri, located near Patna.
+
+</details>
+
+---
+
+**Q-GC159. U.P.P.C.S. (Pre) 1993**
+
+The word Tirthankara is related to –
+
+A. Buddhists
+
+B. Christians
+
+C. Hindus
+
+D. Jains
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The term Tirthankara is related to Jain Religion. It is known that there were 24 Thirthankara who contributed to Jain religion and who propagated Jain philosophy from time to time. These are - (1) Rishabhnath (2) Ajitnath, (3) Sambhavnath, (4) Abhinandannath, (5) Sumatinath, (6) Padmaprabha, (7) Suparshvanath, (8) Chandraprabha, (9) Suvidhinatha, (10) Sheetalanath (11) Shreyanshnath, (12) Vasupujya (13) Vimalnath (14) Anantnath (15) Dharmanath (16) Shantinath, (17) Kunthunath, (18) Aranath, (19) Mallinath, (20) Munisuvrata, (21) Naminatha, (22) Arishtanemi, (23) Parshvanath, (24) Mahavira Swami.
+
+</details>
+
+---
+
+**Q-GC160. I.A.S. (Pre) 1993**
+
+Who was the last one in the order of Jain Tirthankaras?
+
+A. Parshvanath
+
+B. Risabhdev
+
+C. Mahavira
+
+D. Manisuvrata
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (The term Tirthankara is related to Jain Religion. It is known that there were 24 Thirthankara who contributed to Jain religion and who propagated Jain philosophy from time to time. These are - (1) Rishabhnath (2) Ajitnath, (3) Sambhavnath, (4) Abhinandannath, (5) Sumatinath, (6) Padmaprabha, (7) Suparshvanath, (8) Chandraprabha, (9) Suvidhinatha, (10) Sheetalanath (11) Shreyanshnath, (12) Vasupujya (13) Vimalnath (14) Anantnath (15) Dharmanath (16) Shantinath, (17) Kunthunath, (18) Aranath, (19) Mallinath, (20) Munisuvrata, (21) Naminatha, (22) Arishtanemi, (23) Parshvanath, (24) Mahavira Swami.)
+
+</details>
+
+---
+
+**Q-GC161. U.P.P.C.S. (Spl) (Mains) 2004**
+
+Which one of the following was not a Jain Tirthankara?
+
+A. Chandraprabhu
+
+B. Nathamuni
+
+C. Nemi
+
+D. Sambhav
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (The term Tirthankara is related to Jain Religion. It is known that there were 24 Thirthankara who contributed to Jain religion and who propagated Jain philosophy from time to time. These are - (1) Rishabhnath (2) Ajitnath, (3) Sambhavnath, (4) Abhinandannath, (5) Sumatinath, (6) Padmaprabha, (7) Suparshvanath, (8) Chandraprabha, (9) Suvidhinatha, (10) Sheetalanath (11) Shreyanshnath, (12) Vasupujya (13) Vimalnath (14) Anantnath (15) Dharmanath (16) Shantinath, (17) Kunthunath, (18) Aranath, (19) Mallinath, (20) Munisuvrata, (21) Naminatha, (22) Arishtanemi, (23) Parshvanath, (24) Mahavira Swami.)
+
+</details>
+
+---
+
+**Q-GC162. U.P.P.C.S. (Spl) (Pre) 2008**
+
+Prabhasgiri is a pilgrim spot of :
+
+A. Buddhists
+
+B. Jains
+
+C. Saivites
+
+D. Vaishnavites
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Prabhasgiri is a Jain pilgrimage site located in Kaushambi, U.P. The site Prabhasgiri is related to 6th Jain Tirthankar, Padmaprabha.
+
+</details>
+
+---
+
+**Q-GC163. I.A.S. (Pre) 1993**
+
+In Jain Religion, which word is used for ‘Complete
+Intellect’?
 
 A. Jin
 
@@ -3530,14 +5130,38 @@ D. Nirvana
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Kaivalya** = complete knowledge.
+**Ans: C.** The word ‘Kaivalya’ is used for ‘Complete knowledge’ in the Jain religion. Mahavira Swami obtained Kaivalya (complete knowledge) under a tree of ‘Sal’ on the bank of Rijupalika river near Jrimbhik village, after the rough austerity and practice of 12 years. Therefore he is called ‘Kevlin.’
 
 </details>
 
 ---
-**Q-GC105. UPPCS Pre 2004**
 
-The doctrine of three jewels-Right faith, Right action and Right Knowledge, is the crowning glory of :
+**Q-GC164. U.P. R.O./A.R.O. (Mains) 2017**
+
+On the banks of which river did Mahavira Swami
+attain enlightenment?
+
+A. Swarnasikta
+
+B. Palashini
+
+C. Ganga
+
+D. Rijupalika
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Mahavir Swami attained enlightenment at the bank of river Rijupalika in the village of Jrimbhik.
+
+</details>
+
+---
+
+**Q-GC165. U.P.P.C.S. (Pre) 2004**
+
+The doctrine of three jewels-Right faith, Right action
+and Right Knowledge, is the crowning glory of :
 
 A. Buddhism
 
@@ -3550,12 +5174,61 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Jain **Triratna** = right faith, knowledge, conduct.
+**Ans: C.** Three means are said to be important for ‘Moksha’ in Jain philosophy: Right faith, Right action and Right knowledge. These are known as ‘Triratna’ in Jain religion. Freedom from the bondage and effect of evil omens is called Sanvar Tattva to make the spirit free from the bondage of all. The destruction BOOK
 
 </details>
 
 ---
-**Q-GC106. IAS Pre 1995**
+
+**Q-GC166. 66th B.P.S.C. (Pre.) 2020**
+
+Triratna or Three Jewels, i.e., right knowledge, right
+faith and right action are related to which of the
+following?
+
+A. Buddhism
+
+B. Hinduism
+
+C. Jainism
+
+D. Christianity
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (Three means are said to be important for ‘Moksha’ in Jain philosophy: Right faith, Right action and Right knowledge. These are known as ‘Triratna’ in Jain religion. Freedom from the bondage and effect of evil omens is called Sanvar Tattva to make the spirit free from the bondage of all. The destruction BOOK)
+
+</details>
+
+---
+
+**Q-GC167. Chhattisgarh P.C.S. (Pre) 2017**
+
+Which philosophy accepts ‘Triratna’?
+
+A. Buddhism
+
+B. Nyaya philosophy
+
+C. Yoga philosophy
+
+D. Jainism
+
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: *.** The concept of Triratna is present in both Buddhism as well as Jainism. In Buddhism, the three jewels are the Buddha, the Dhamma and the Sangha. In Jainism, they are Samyagdarshana, Samyagjnan and Samyagcharitra.
+
+</details>
+
+---
+
+**Q-GC168. I.A.S. (Pre) 1995**
 
 The correct of Anuvrata was advocated by :
 
@@ -3570,12 +5243,13 @@ D. The Lokayata school
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Anuvratas** = householder vows in Jainism.
+**Ans: C.** In Jain philosophy, the persons (e.g. monks) are very keen to uplift their souls and hence they sacrifice all worldly enjoyments and adopt five great ‘Vratas’ (vows) – Mahavratas ; Ahimsa, Satya, Brahmacharya, Asteya and Aparigraha. These Mahavratas are difficult to practise by average human beings. So they follow Anuvratas i.e. Ahimsa Anuvrat, Satya Anuvrat, Brahmacharya Anuvrat, Asteya Anuvrat, and Aparigraha Anuvrat.
 
 </details>
 
 ---
-**Q-GC107. Uttarakhand PCS Pre 2005**
+
+**Q-GC169. Uttarakhand P.C.S. (Pre) 2005**
 
 Syadvad is a doctrine of –
 
@@ -3590,14 +5264,84 @@ D. Vaishnavism
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Syadvada** = Jain relative knowledge doctrine.
+**Ans: C.** Mahavira Swami was the 24th Tirthankara of Jain religion. He denied the unmanliness of Vedas and opposed related socialcultural traditions and humbugs. By leaving the exclusive belief of selfists and atheists, he accepted the middle path known as ‘Syadvad’. Syadvad is also known as the name of Saptabhanginaya, which means knowledge is relative.
 
 </details>
 
 ---
-**Q-GC108. IAS Pre 2009 / Jharkhand**
 
-Anekantavada is a core theory and philosophy of which one of the following
+**Q-GC170. Chhattisgarh P.C.S. (Pre) 2018**
+
+'Syadvada' is related to
+
+A. Charvaka
+
+B. Jaina
+
+C. Bauddha
+
+D. Samkhya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (Mahavira Swami was the 24th Tirthankara of Jain religion. He denied the unmanliness of Vedas and opposed related socialcultural traditions and humbugs. By leaving the exclusive belief of selfists and atheists, he accepted the middle path known as ‘Syadvad’. Syadvad is also known as the name of Saptabhanginaya, which means knowledge is relative.)
+
+</details>
+
+---
+
+**Q-GC171. R.A.S./R.T.S. (Pre.) 2021**
+
+Which of the following Doctrines are associated with
+Jainism?
+(i) Anekantavada (ii) Sarvastivada
+(iii)Sunyavada (iv) Syadvada
+Select the correct answer using the code given below –
+
+A. (i) and (iv)
+
+B. (ii) and (iv)
+
+C. (i), (ii) and (iii)
+
+D. (ii) and (iii)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Anekantvada and Syadvada are related to Jainism while Sunyavada and Sarvastivada are related to Buddhism.
+
+</details>
+
+---
+
+**Q-GC172. I.A.S. (Pre) 2011**
+
+The Jain philosophy holds that the world is created
+and maintained by
+
+A. Universal Law
+
+B. Universal Truth
+
+C. Universal Faith
+
+D. Universal Soul
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** As per Jain belief, universal law is the essential and real form of the universe. The universe and all its substances are eternal (everlasting). All substances gradually change. Previous forms give way to new ones without losing their inherent qualities. Jains believe that the universe is without beginning or end. The universe did not begin and end at any time. There is no need for some almighty to create or manage the affairs of the universe.  The universe runs on itself according to its cosmic laws (laws of nature).
+
+</details>
+
+---
+
+**Q-GC173. Jharkhand P.C.S. (Pre) 2011 / I.A.S. (Pre) 2009**
+
+Anekantavada is a core theory and philosophy of which
+one of the following
 
 A. Buddhism
 
@@ -3610,14 +5354,136 @@ D. Vaishnavism
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Anekantavada** = Jain.
+**Ans: B.** Anekantavada is the core theory and philosophy of Jainism. it is a metaphysical concept of Jain philosophy.
 
 </details>
 
 ---
-**Q-GC109. IAS Pre 2018**
 
-With reference to the religious practices in India, the "Sthanakvasi" sect belongs to
+**Q-GC174. Chhattisgarh P.C.S. (Pre) 2023**
+
+Consider the following statements about Jaina
+Philosophy.
+(1) The Jaina philosophy revolves around two main
+doctrines, i.e., Anekantavada and Syadvada.
+(2) According to anekantavada, every being has
+numerous properties. The permanent property that
+constitutes the nature of a thing is called attribute
+(guna).@apna_channels
+Join Telegram: @pdfhub4u_all @apna_ghatnachakra
+CLICK HERE — UPPCS (PRE +MAINS)
+BOOK
+Made with Xodo PDF Reader and Editor
+Indian History General Studies B–75
+Which of the statement/s given above is/are correct?
+
+A. (1) only
+
+B. (2) only
+
+C. Both (1) and (2)
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Jain philosophy revolves around two main doctrines, i.e., Anekantavada and 'Syadvada'. Both are extremely connected doctrines. According to Anekantavada, every being has numerous properties. The permanent property that constitutes the nature of a thing is called attribute (guna). The accidental property is called mode (Paryaya). According to syadvada, our knowledge is partial and relative because passion, anger, greed, etc., obstruct our knowledge. But we deem our partial and relative knowledge as complete and absolute.
+
+</details>
+
+---
+
+**Q-GC175. Chhattisgarh PCS (Pre) 2024**
+
+According to Jain philosophy, the characteristics of
+Tattva are—
+
+A. Origination
+
+B. Decay
+
+C. Permanence
+
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Jain philosophy defines reality (Tattva) in terms of origination, decay and permanence (Nityata) or as attributes and modifications. Origination and decay are not separate phenomena but rather changes in form. Permanence refers to essential attributes and characteristics that remain constant. Thus, reality (Tattva) consists of both change and permanence. Jain philosophy states that an entity is real (Sat) when it possesses both permanence and transformation.
+
+</details>
+
+---
+
+**Q-GC176. U.P.P.C.S. (Mains) 2014**
+
+Which of the following religions does not trust in the
+concept of ‘final annihilation of the world’?
+
+A. Buddhism
+
+B. Jainism
+
+C. Hinduism
+
+D. Islam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** As per Jainism, the Universe and all its substances are eternal. There is no concept of 'final annihilation of the world'.
+
+</details>
+
+---
+
+**Q-GC177. U.P.P.C.S. (Pre) 1993**
+
+The Basic point of Jainism is-
+
+A. Act
+
+B. Loyalty
+
+C. Non-violence
+
+D. Disfavour
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Jainism is also known as the religion of Ahimsa (nonviolence). Ahimsa supersedes all concepts, ideologies, rules, customs and practices. Ahimsa, Anekantvad and Aparigraha are the cardinal principles of Jainism.
+
+</details>
+
+---
+
+**Q-GC178. U.P.P.C.S (Pre) 2010**
+
+Yapaniya was the sect of-
+
+A. Buddhist
+
+B. Jainism
+
+C. Shaivists
+
+D. Vaishnavists
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Yapaniya was a sect of Jain religion; which is believed to have originated from Digambaras. However, they also used to follow certain Shwetambar opinions. The Yapaniyas worshipped nude images of the Tirthankaras in their temples.
+
+</details>
+
+---
+
+**Q-GC179. I.A.S. (Pre) 2018**
+
+With reference to the religious practices in India, the
+"Sthanakvasi" sect belongs to
 
 A. Buddhism
 
@@ -3630,14 +5496,37 @@ D. Shaivism
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Sthanakvasi** = Svetambara Jain (non-idol line).
+**Ans: B.** Sthanakvasi is a sect of Shwetambara Jainism. This sect originated from its predecessor reformist sect 'Lonka' which was founded by Lonkasha. It believes that idol worship is not essential in the path of soul purification and attainment of Nirvana.
 
 </details>
 
 ---
-**Q-GC110. UPPCS Mains 2006**
 
-In which one of the following languages was the earliest Jain literature compiled?
+**Q-GC180. 41st B.P.S.C. (Pre) 1995**
+
+Which of the following is the earliest holy book of Jain?
+
+A. Twelve Angas
+
+B. Twelve Upangas
+
+C. Fourteen Purvas
+
+D. Fourteen Uppurva
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Fourteen Purvas is the ancientJain scripture, which was preached by all Tirthankaras. At the time of the last Nand Ruler, Sambhutavijay and Bhadrabahu were the presidents of the Sangha. These two were the last to possess knowledge about the ancient Jain texts 14 purvas given by Mahavira.
+
+</details>
+
+---
+
+**Q-GC181. U.P.P.C.S. (Mains) 2006**
+
+In which one of the following languages was the earliest
+Jain literature compiled?
 
 A. Ardh-Magadhi
 
@@ -3650,14 +5539,38 @@ D. Sanskrit
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Earliest Jain texts in **Ardhamagadhi**.
+**Ans: A.** All the initial religious Jain literature has been written in the Ardha-Magadhi. Its twelve Angas are in ‘Ardha-Magadhi.’ These holy books were finally compiled in the sixth century A.D. at Vallabhi near Gujarat.
 
 </details>
 
 ---
-**Q-GC111. IAS Pre 1996**
 
-Which one of the following is not a part of early Jain literature?
+**Q-GC182. U.P.P.C.S. (Pre) 2002 / U.P. Lower Sub. (Pre) 2002**
+
+Which of the following place is known as a place of
+Pilgrimages because of being related to Parshvanath?
+
+A. Champa
+
+B. Pava
+
+C. Sammed Shikhar
+
+D. Urjyant
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** BOOK Parshvanatha was the 23rd Tirthankara of Jainism. Parshvanatha was born to King Aswasena and Queen Vama of Varanasi in 850 BC. He belonged to the Ikshvaku dynasty. He lived as the formal prince of Varanasi and at the age of thirty, he renounced the world to become a monk. He meditated for 84 days before attaining Kaivalya Jnana. He achieved Parinirvana at Sammed Shikhar that’s why this place is also known as a place of pilgrimage for Jains.
+
+</details>
+
+---
+
+**Q-GC183. I.A.S. (Pre) 1996**
+
+Which one of the following is not a part of early Jain
+literature?
 
 A. Therigatha
 
@@ -3670,14 +5583,16 @@ D. Brihatkalpasutra
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** ***Therigatha*** is **Buddhist** (nuns’ verses).
+**Ans: A.** TheTherigatha is a Buddhist scripture in which the early nuns (bhikshunis) recount their struggles and accomplishments along the road to spiritual attainment. Their stories are told with often heart-breaking honesty and beauty, revealing the deeply human side of these extraordinary women and thus serve as inspiring reminders of our potential to follow in their footsteps. Rest are the part of Jain scriptures.
 
 </details>
 
 ---
-**Q-GC112. RAS/RTS Pre 1999**
 
-Who was the first founder of Shwetambar creed during the first partition of Jain creed?
+**Q-GC184. R.A.S./R.T.S. (Pre) 1999**
+
+Who was the first founder of Shwetambar creed during
+the first partition of Jain creed?
 
 A. Sthulabhadra
 
@@ -3690,12 +5605,13 @@ D. Deverdhi Kshama Sharaman
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Northern white-clad line under **Sthulabhadra** vs Digambara under Bhadrabahu.
+**Ans: A.** About 150 years after Lord Mahavira’s departure, when Bhadrabahuswami was the head of the religious order and Nand dynasty was ruling over Magadha. Pataliputra the capital city became the centre of learning and knowledge. At that time there occurred a severe famine that seems to have raged for 12 long years. During that period of shortage and scarcity, it was hard for Jain monks to observe the code of conduct laid down by the Lord. Bhadrabahuswami, therefore, decided to migrate to the South along with many followers. For those who stayed behind, it was hard to remember accurately whatever they learnt. Venerable Sthulabhadra and most of those who stayed in the north used to cover their bodies with a plain, white cloth; while those who had migrated with Bhadrabahuswami were mostly unclad. The latter took pride in their being true unclad followers of the Lord and in due course came to be known as Digamabars which means skyclad. Those on the other side came to be known as Shwetamabars on account of white cloth that they wore.
 
 </details>
 
 ---
-**Q-GC113. BPSC 47th Pre 2005**
+
+**Q-GC185. 47th B.P.S.C. (Pre) 2005**
 
 The first disciple of Lord Mahavir was –
 
@@ -3710,14 +5626,59 @@ D. Prabhash
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Jamali** (son-in-law) as first disciple in tradition.
+**Ans: A.** Among the early visitors to Mahavira during his wandering was Jamali, his son-in- law. Jamali met Mahavira while the latter was in Kshatriya- Kundagram, the village where Mahavira was born. He took the vow together with five hundred of the warrior caste. Jamali was the first disciple of Lord Mahavira.
 
 </details>
 
 ---
-**Q-GC114. Uttarakhand PCS Pre 2021**
 
-In which of the following place the first Jain Council was held?
+**Q-GC186. U.P.P.C.S. (Pre) 2008**
+
+Who was the first follower of Mahavira?
+
+A. Jamali
+
+B. Yashoda
+
+C. Aanojja
+
+D. Trishala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** See the explanation of above question. (Among the early visitors to Mahavira during his wandering was Jamali, his son-in- law. Jamali met Mahavira while the latter was in Kshatriya- Kundagram, the village where Mahavira was born. He took the vow together with five hundred of the warrior caste. Jamali was the first disciple of Lord Mahavira.)
+
+</details>
+
+---
+
+**Q-GC187. U.P.P.C.S. (Mains) 2008**
+
+Svetambara Agama was finally edited at the Jain
+Council of –
+
+A. Vaishali
+
+B. Balabhi
+
+C. Pawa
+
+D. Pataliputra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** In the reign of Chandragupta Maurya, 1st Jain Council was held in which Shwetambara Agama were edited. Since all the ancient Jain text got destroyed, so to recompile them another Jain council was organised in 4th century BC in which followers of Bhadrabahu did not participate.
+
+</details>
+
+---
+
+**Q-GC188. Uttarakhand P.C.S. (Pre) 2021**
+
+In which of the following place the first Jain Council
+was held?
 
 A. Patliputra
 
@@ -3730,12 +5691,166 @@ D. Ujjain
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** First Jain Council at **Pataliputra** (Sthulabhadra).
+**Ans: A.** See the explanation of above question. (In the reign of Chandragupta Maurya, 1st Jain Council was held in which Shwetambara Agama were edited. Since all the ancient Jain text got destroyed, so to recompile them another Jain council was organised in 4th century BC in which followers of Bhadrabahu did not participate.)
 
 </details>
 
 ---
-**Q-GC115. UPPCS Pre 1996 / BPSC**
+
+**Q-GC189. Chhattisgarh P.C.S. (Pre) 2020**
+
+Read the following statements related to Jaina
+Literature and choose the appropriate option:
+Statement I : The Shvetambara Canon included the
+12 Angas
+Statement II: According to Shvetambara tradition, the
+Angas were compiled at a council held
+at Vallabhi
+
+A. Statement I and Statement II both are true
+
+B. Statement I is false, but Statement II is true
+
+C. Statement I and Statement II both are false
+
+D. Statement I is true, but Statement II is false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Shwetambara Canon includes 12 Angas. These are Canonical traits of Jainism based on Mahavira's teaching. Their compilation happened at 1st council held at Patliputra BOOK
+
+</details>
+
+---
+
+**Q-GC190. I.A.S. (Pre) 2003**
+
+Consider the following statements :
+1. Vardhamana Mahavira’s mother was the daughter
+of Lichchhavi King Chetaka
+2. Gautama Buddha’s mother was a princess from
+the Koliyan dynasty
+3. Parshvanatha, the twenty-third Tirthankara,
+belonged to Banaras
+Which of these statements is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. 2 and 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mahavira was born in 599 BC in a village named Kundagram near Vaishali in Bihar. Mahavira’s original name was Vardhamana. His father Siddhartha was the head of the Gyatrika Kshatriya clan under Vajji of Vaishali and his mother Trishala was the sister of Chetaka, the king of Lichchhavi. Mahavira was also related to Bimbisara, the ruler of Magadha who married Chellana, the daughter of Chetaka. Lord Gautam Buddha’s mother Maya, Suddhodana’s wife, was a Koliya princess. Parshvanatha was born to King Aswasena and Queen Vama of Varanasi.
+
+</details>
+
+---
+
+**Q-GC191. I.A.S. (Pre) 2004**
+
+With reference to ancient Jainism, which one of the
+following statements is correct?
+
+A. Jainism was spread in South India under the leadership of Sthulabhadra
+
+B. The Jains who remained under the leadership of Bhadrabahu were called Shvetambaras after the Council held at Pataliputra
+
+C. Jainism enjoyed the patronage of the Kalinga king Kharavela in the first century BC
+
+D. In the initial stage of Jainism, the Jainas worshipped image unlike Buddhist
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Option (c) is the correct answer. Bhadrabahuswami spread Jainism in South India. Their followers are called Digambars. Kalinga King Kharavela was the follower of Jainism. He gave patronage to Jain Monks and donated for their livelihood.
+
+</details>
+
+---
+
+**Q-GC192. I.A.S. (Pre) 2013**
+
+Which of the following statements is/are applicable to
+Jaina Doctrine?
+1. The surest way of annihilating karma is to practice
+penance.
+2. Every object, even the smallest particle has a soul.
+3. Karma is the bane of the soul and must be ended.
+Select the correct answer using the codes given below :
+
+A. Only 1
+
+B. 2 and 3
+
+C. 1 and 2
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Jainism believes that each object even a particle has a soul. They also uphold the universal law of Karma. According to this law, every action - thought, word or deed - produces an effect which in turn serves as the cause of another action and so on. This chain of cause and effect is known as Karma.  It follows that the state of the soul at any given time is due to the Karma accumulated over countless ages. Karma not only encompasses the causality of transmigration but is also conceived as an extremely subtle matter which infiltrates the soul obscuring its natural, transparent and pure qualities. Based on its karma, a soul undergoes transmigration and reincarnates in various states of existence like heaven or hell, or as humans or animals.
+
+</details>
+
+---
+
+**Q-GC193. Chhattisgarh P.C.S. (Pre) 2015**
+
+“Samadhi Maran” is related to which Philosophy?
+
+A. Buddhist Philosophy
+
+B. Jain Philosophy
+
+C. Yoga Philosophy
+
+D. Lokayat Philosophy
+
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Samadhi Maran, Sallekhana and Sanyasna Maran is the last vow prescribed by Jain ethical code of conduct. The vow of Samadhi Maran is observed by Jain ascetics and lay votaries at the end of their lives by gradually reducing the intake of food and liquid. It is allowed when normal life is not possible due to old age, incurable disease, or when a person is nearing his end.
+
+</details>
+
+---
+
+**Q-GC194. I.A.S. (Pre) 2006**
+
+Consider the following statements:
+1. The Ikshvaku rulers of Southern India were
+antagonistic towards Buddhism.
+2. The Pala rulers of Eastern India were Patrons of
+Buddhism.
+Which of the statement(s) given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 or 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** During 3rd and 4th century Ikshvaku dynasty ruled over southern India. Though Ikshvakus of southern India followed a Vedic religion but also supported the Buddhist religion. Bengal emerged as the prominent nucleus of Buddhism during Pala dynasty. It was due to the support of Pala reign behind Buddhist. Thus, statement (I) is wrong while statement BOOK
+
+</details>
+
+---
+
+**Q-GC195. U.P.P.C.S. (Pre) 1996 / 39th B.P.S.C. (Pre) 1994**
 
 ‘Ajivika’ sect was founded by:
 
@@ -3750,32 +5865,252 @@ D. Upali
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Popularised / founded attribution to **Makkhali Gosala**.
+**Ans: C.** Makkhali Gosala was a disciple of Mahavira in the early period, later fell out with Mahavira due to the difference of opinion with him. Although, various sources mention Ajivika scholars like Nanda Vaccha and Kisa Samkicca even before Makkhali Gosala, he is attributed to popularising the sect for first time. The belief of the sect is known as ‘Niyatiwad’ according to which every matter in the world is being controlled and operated by destiny (fate).
 
 </details>
 
 ---
-**Q-GC116. IAS Pre 2009**
 
-Mahamastakabhisheka, a great religious event, is associated with and done for which of the following?
+**Q-GC196. Uttarakhand P.C.S. (Pre) 2024**
 
-A. Bahubali
+Who founded the Ajivika sect?
 
-B. Buddha
+A. Makkhali Gosala
 
-C. Mahavir
+B. Vasubandhu
 
-D. Natraja
+C. Upagupta
+
+D. Dignaga
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Mahamastakabhisheka** for **Bahubali / Gomateshwara**.
+**Ans: A.** See the explanation of above question. (Makkhali Gosala was a disciple of Mahavira in the early period, later fell out with Mahavira due to the difference of opinion with him. Although, various sources mention Ajivika scholars like Nanda Vaccha and Kisa Samkicca even before Makkhali Gosala, he is attributed to popularising the sect for first time. The belief of the sect is known as ‘Niyatiwad’ according to which every matter in the world is being controlled and operated by destiny (fate).)
 
 </details>
 
 ---
-**Q-GC117. IAS Pre 1994 / UP Lower**
+
+**Q-GC197. U.P.P.C.S. (Pre) 2006**
+
+Who among these rendered that “Fate assigns
+everything, human is incapable.”
+
+A. Jains
+
+B. Buddhists
+
+C. Ajivikas
+
+D. Mimansakas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (Makkhali Gosala was a disciple of Mahavira in the early period, later fell out with Mahavira due to the difference of opinion with him. Although, various sources mention Ajivika scholars like Nanda Vaccha and Kisa Samkicca even before Makkhali Gosala, he is attributed to popularising the sect for first time. The belief of the sect is known as ‘Niyatiwad’ according to which every matter in the world is being controlled and operated by destiny (fate).)
+
+</details>
+
+---
+
+**Q-GC198. R.A.S./R.T.S. (Pre) (Re. Exam) 2013**
+
+The sect which believed in abiding nature of destiny:
+
+A. Jainism
+
+B. Ajivikas
+
+C. Charvaka
+
+D. Buddhism
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (Makkhali Gosala was a disciple of Mahavira in the early period, later fell out with Mahavira due to the difference of opinion with him. Although, various sources mention Ajivika scholars like Nanda Vaccha and Kisa Samkicca even before Makkhali Gosala, he is attributed to popularising the sect for first time. The belief of the sect is known as ‘Niyatiwad’ according to which every matter in the world is being controlled and operated by destiny (fate).)
+
+</details>
+
+---
+
+**Q-GC199. Rajasthan P.C.S. (Pre) 2024**
+
+Consider the following statements regarding the
+Ajivika sect:
+1. Belief in determinism
+2. The order of reincarnation can be changed.
+3. Belief in austerity.
+Select the correct answer using the codes given below:
+
+A. Only 1 is correct.
+
+B. Only 2 is correct.
+
+C. 1 and 2 are correct.
+
+D. 1 and 3 are correct.
+
+E. Question not attempted.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Ajivika sect, which is an ancient religious and philosophical tradition of India, believes in determinism (fatalism). According to this belief, all events that occur in a person's life—both joys and sorrows—are preordained and governed by an unchangeable cosmic order.They held that the universe follows a strict, predetermined course, where everything happens due to past conditions, and there is no scope for individual free will or moral efforts to change one's fate. They practised severe austerities, such as remaining silent for long periods and fasting, as they believed these acts were part of their predestined path. Because they did not believe in free will or individual effort, they also rejected the idea that one's rebirth cycle could be altered by personal or religious actions.Thus, it is clear that statements 1 and 3 are correct, while statement 2 is incorrect.
+
+</details>
+
+---
+
+**Q-GC200. 70th B.P.S.C. (Pre) 2024**
+
+Consider the following about Ajivika sect :
+A. Makhali Gosala was its most important leader.
+B. Central idea of the philosophy was “NIYATI” that
+is fate.
+C. The discrimination on the basis of caste and class.
+D. The Ajivikas had regular sabhas for meetings.
+
+A. B, C and D are correct
+
+B. A, B and D are correct
+
+C. A and D are correct
+
+D. More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Makkhali Gosala, a contemporary of Mahavira and Gautama Buddha, was the most prominent leader of the Ajivika sect. The Ajivikas' philosophy centered on "Niyati" (fate or destiny), emphasizing that life is entirely predetermined, leaving no room for free will. The Ajivikas were egalitarian and rejected the rigid caste and class system of their time. They also organized regular sabhas (meetings) as part of their community practices, making statements A, B and D correct, and Option (b) the right choice.
+
+</details>
+
+---
+
+**Q-GC201. I.A.S. (Pre) 2023**
+
+"Souls are not only the property of animal and plant
+life, but also of rocks, running water and many other
+natural objects not looked on as living by other
+religious sects."
+The above statement reflects one of the core beliefs of
+which one of the following religious sects of ancient
+India?
+
+A. Buddhism
+
+B. Jainism
+
+C. Shaivism
+
+D. Vaishnavism
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Under the Jain tradition, it is believed that there is an element inherent in all living beings, which is called soul. Jain acharya, Gurudev Chitrabhanu writes that "the universe is not for humanity alone; it is a field of evolution for all living beings." There are souls in non-mobile bodies, such as earth, water, fire, air and plants. According to Jainism, the soul BOOK
+
+</details>
+
+---
+
+**Q-GC202. U.P. R.O./A.R.O. (Pre)2017**
+
+Match List-I with List-II and select the correct answer
+from the codes given below :
+List-I List-II
+(Acharya) (Doctrine)
+A. Lakulisa 1. Ajivaka
+B. Nagarjuna 2. Sunyavada
+C. Bhadrabahu 3. Pasupat
+D. Gosala 4. Jain
+Codes :
+A B C D
+
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 1 2 3 4
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The correctly matched list is as follows - List-I List-II (Acharya) (Doctrine) Lakulisa Pashupat Nagarjuna Sunyavada Bhadrabahu Jain Gosala Ajivaka
+
+</details>
+
+---
+
+**Q-GC203. 40th B.P.S.C. (Pre) 1995**
+
+Who used the caves of Barabar as their shelter-house?
+
+A. Ajivikas
+
+B. Tharus
+
+C. Jains
+
+D. Tantrikas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The act of cutting the mountain caves and developing them as residences was fully developed during the period of Ashoka and his grandson Dasaratha. Residences were made for Ajivika followers after cutting the hills of Barabar and Nagarjuni.
+
+</details>
+
+---
+
+**Q-GC204. U.P.U.D.A./L.D.A. (Mains) 2010 / R.A.S./R.T.S. (Pre) 2007**
+
+The famous pilgrimage of Buddhists as well as of
+Jains in Uttar Pradesh is at
+
+A. Sarnath
+
+B. Kaushambi
+
+C. Devipatan
+
+D. Kushinagar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The present Kaushambi district, carved out of Prayagraj on 4th April 1997, is located 55 km away from the south-west of Prayagraj. Kaushambi has been mentioned several times in Vedic and Jain literature. According to Puranas, Nicakshu, the sixth in line from Parikshita, transferred his capital from Hastinapur to Kaushambi as Hastinapur was ravaged by floods, invasion of locusts and upheavals in the Kuru family itself. According to Jain texts, Kushambi was named due to an excess of Kushamb trees in the town. It is the famous pilgrimage site of Jains and Buddhists. Mahatma Buddha preached many times in this city and made a number of disciples here. There were many monasteries found here, but the most famous among them was Ghoshitram monastery, which was built by Shresthi Ghoshit.
+
+</details>
+
+---
+
+**Q-GC205. I.A.S. (Pre) 2002**
+
+Which one of the following statements is not correct?
+
+A. The statue of Gomateshwara at Sravanabelagola represents the last Tirthankara of Jains
+
+B. India’s largest Buddhist monastery is in Arunachal Pradesh
+
+C. The Khajuraho temples were built under Chandela Kings
+
+D. The Hoyseleswara temple is dedicated to Shiva
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Shravanabelagola is a city located in the state of Karnataka. The statue of Gomateshwara (Bahubali) at Shravanabelagola is one of the most important tirthas in Jainism. Bahubali is considered to be the son of the first Tirthankara Rishabhnath. Hence, option (a) is wrong while the Tawang Monastery is the largest Monastery in India, located in the Tawang district of Arunachal Pradesh. The Khajuraho group of monuments was built during the rule of the Rajput Chandela dynasty. Hoysaleshwara Temple is dedicated to Hindu God Shiva.
+
+</details>
+
+---
+
+**Q-GC206. U.P. Lower Sub.(Pre) 2009 / I.A.S. (Pre) 1994**
 
 Who built “Gommateshwara” statue at Sravanabelagola?
 
@@ -3790,14 +6125,40 @@ D. Tejpala.
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Minister **Chamundaraya**.
+**Ans: A.** It was built by Chamundraya who was a minister in the kingdom of Ganga ruler Rachmalla-IV (Panchmalla), approximately in 981 A.D.
 
 </details>
 
 ---
-**Q-GC118. IAS Pre 1996**
 
-According to ancient Indian cosmogonic ideas, the sequential order of the cycle of four epochs (yugas) is –
+**Q-GC207. I.A.S. (Pre) 2009**
+
+Mahamastakabhisheka, a great religious event, is
+associated with and done for which of the following?
+
+A. Bahubali
+
+B. Buddha
+
+C. Mahavir
+
+D. Natraja
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Mahamastakabhisheka, which is a great religious event, is associated with Lord Bahubali. This ceremony used to be held in the interval of twelve years time in Shravanbelgola town in Karnataka. There is a huge statue of God/Saint of Gomteshwara (Bahubali). Its height is 18 metres.
+
+</details>
+
+---
+
+### Shaiva, Bhagavata & Other Sects (Q208 – Q238)
+
+**Q-GC208. I.A.S. (Pre) 1996**
+
+According to ancient Indian cosmogonic ideas, the
+sequential order of the cycle of four epochs (yugas) is –
 
 A. Dvapara, Krita, Treta and Kali
 
@@ -3810,14 +6171,16 @@ D. Treta, Dvapara, Kali and Krita
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Krita → Treta → Dvapara → Kali**.
+**Ans: C.** According to the cosmogony related beliefs of ancient India, the four epochs are as follows – Krita, Treta, Dvapara and Kaliyuga.
 
 </details>
 
 ---
-**Q-GC119. IAS Pre 1996**
 
-Which one of the following was a Shaiva sect in ancient India?
+**Q-GC209. I.A.S. (Pre) 1996**
+
+Which one of the following was a Shaiva sect in ancient
+India?
 
 A. Ajivika
 
@@ -3830,12 +6193,35 @@ D. Isanasivagurudeva Paddhati
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Mattamayura** Shaiva sect.
+**Ans: B.** Shaiva sect named Mattamayura in ancient India was found in the inscriptions of Chedi Dynasty.
 
 </details>
 
 ---
-**Q-GC120. UP UDA/LDA Pre 2006**
+
+**Q-GC210. U.P.P.C.S. (Pre) 1997**
+
+Ardhanarisvara, a figure of half Shiva and half Parvati,
+represents :
+
+A. Union of male and female
+
+B. Union of God and Goddess
+
+C. Union of God with his Shakti
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Ardhanarishvara is a composite androgynous form of the Hindu God Shiva and his consort Parvati. Ardhanarishvara is depicted as half male and half female, split down the middle. The right half is usually the male Shiva, illustrating his traditional attributes. Ardhanarishvara represents the synthesis of masculine and feminine energies of the universe and illustrates how Shakti, the female principle of God, is inseparable from Shiva, the male principle of God.
+
+</details>
+
+---
+
+**Q-GC211. U.P. U.D.A./L.D.A. (Pre) 2006**
 
 Who were Nayanars?
 
@@ -3850,12 +6236,34 @@ D. Suryopasaka
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Nayanars** = Tamil **Shaiva** saints.
+**Ans: A.** BOOK In the medieval period, the devotional spirit was mainly spread in South India, especially in Tamil regions. There were two major sects behind the development of devotional spirit in the Tamil regions. The devotees worshipping God Vishnu were called Alvar and the devotees worshiping God Shiva were called Nayanara. They said that personal love and dedication towards God is the only way to Moksha and opposed the caste system and its rigidity.
 
 </details>
 
 ---
-**Q-GC121. UPPCS Pre 2013**
+
+**Q-GC212. U.P.R.O..A.R.O. (Pre) 2014**
+
+Who were the ‘Nayanars’?
+
+A. Vaishnavites
+
+B. Shaivites
+
+C. Shaktas
+
+D. Sun worshippers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (BOOK In the medieval period, the devotional spirit was mainly spread in South India, especially in Tamil regions. There were two major sects behind the development of devotional spirit in the Tamil regions. The devotees worshipping God Vishnu were called Alvar and the devotees worshiping God Shiva were called Nayanara. They said that personal love and dedication towards God is the only way to Moksha and opposed the caste system and its rigidity.)
+
+</details>
+
+---
+
+**Q-GC213. U.P. P.C.S. (Pre) 2013**
 
 Who among the following was not an ‘Alvar Saint’?
 
@@ -3870,14 +6278,168 @@ D. Thirumangai
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Tirugyan** is not an Alvar (Nayanar name).
+**Ans: B.** Poigai, Pudam and Thirumangai were Alvar Saints, while Tirugyan was not an Alvar saint.
 
 </details>
 
 ---
-**Q-GC122. IAS Pre 1998**
 
-The Besanagar inscription of Heliodorus is associated with–
+**Q-GC214. M.P. P.C.S. (Pre) 2025**
+
+Vaishnavism was propagated by Alvar saints of Tamil
+Nadu. Who was the only female Sadhvi among the
+Alvar saints?
+
+A. Nammalvar
+
+B. Poigai
+
+C. Thirumangayi
+
+D. Andal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Alvar saints propagated Vaishnavism in South India. There are a total of 12 Alvar saints, and among them, the only female saint was Andal.
+
+</details>
+
+---
+
+**Q-GC215. 39th B.P.S.C. (Pre) 1994**
+
+Who contributes the most in the development of
+Bhagavata sect?
+
+A. Persian
+
+B. Indo-Greek people
+
+C. Kushan
+
+D. Gupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Bhagavata or Vaishnava religion reached its peak in the reign of Gupta kings. Gupta kings were followers of the Vaishnava religion, and they made it a religion of the state. Most of the Gupta rulers held the title of ‘Parambhagavata.’ Garuda, the mount (Vahana) of Lord Vishnu was the state symbol of Guptas.
+
+</details>
+
+---
+
+**Q-GC216. R.A.S./R.T.S. (Pre) 1993**
+
+The originator of Bhagavata Religion was –
+
+A. Janak
+
+B. Krishna
+
+C. Yagyavalkya
+
+D. Surdas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Traditionally, the originator of the Bhagavata religion was Vrishni (Satvat) descendant, Lord Krishna who is also known as Vasudeva. He was basically from Mathura. He has been described as the son of Devaki and the disciple of Ghor Angirasa in the Chhandogya Upanishad.
+
+</details>
+
+---
+
+**Q-GC217. R.A.S./R.T.S.(Pre) 1999**
+
+Which of the following epic has primarily mentioned
+Krishna, son of Devaki?
+
+A. Mahabharata
+
+B. Chhandogya Upanishad
+
+C. Ashtadhyayi
+
+D. Bhagavata Purana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (Traditionally, the originator of the Bhagavata religion was Vrishni (Satvat) descendant, Lord Krishna who is also known as Vasudeva. He was basically from Mathura. He has been described as the son of Devaki and the disciple of Ghor Angirasa in the Chhandogya Upanishad.)
+
+</details>
+
+---
+
+**Q-GC218. U.P.P.C.S. (Pre) 1997**
+
+Who were the first to worship Vasudeva Krishna :
+
+A. Bhagavatas
+
+B. Vedic Aryans
+
+C. Tamilians
+
+D. Abhirs
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Under the Bhagavata religion, the initial form of Vaishnavism is shown in the worship of Lord Krishna, the son of Devaki. The initial name of Krishna was prevalent in the Panini age. The worshippers of Vasudev were known as Vasudevak (Bhagavata) in that age. According to Indian belief, Lord Krishna is considered as a supreme personality and has been worshipped since ancient ages.
+
+</details>
+
+---
+
+**Q-GC219. U.P.P.C.S. (Mains) 2007**
+
+Who among the following deities is represented in art
+as holding the plough?
+
+A. Krishna
+
+B. Balarama
+
+C. Kartikeya
+
+D. Maitreya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** According to Indian cultural traditions, Balaram, the brother of Krishna is shown as holding a plough in his arms. He is also known by the name of Haldhar.
+
+</details>
+
+---
+
+**Q-GC220. U.P. U.D.A./L.D.A. (Pre) 2010**
+
+The number of forms of bhakti in the Bhagvata cult is–
+
+A. 7
+
+B. 8
+
+C. 9
+
+D. 10
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Navadha (9) Bhakti (forms of Bhakti) has been recognised for acquiring Moksha in the Bhagavata cult. Thus, BOOK
+
+</details>
+
+---
+
+**Q-GC221. I.A.S. (Pre) 1998**
+
+The Besanagar inscription of Heliodorus is associated
+with–
 
 A. Sankarshan and Vasudeva
 
@@ -3890,14 +6452,16 @@ D. Only Vasudeva
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Heliodorus pillar centres on **Vasudeva** as Devadevas.
+**Ans: D.** The Garuda Pillar of Vidisha (Besanagar) is the first stone monument related to Bhagavata religion. This shows that the Yavana ambassador of Takshila (Taxila) accepted the Bhagavata religion and worshipped it after its establishment. Heliodorus is stated as ‘Bhagavata’ and Vasudeva is stated as ‘Devadevas’ (‘God of Gods’) in the article inscribed on it.
 
 </details>
 
 ---
-**Q-GC123. UPPCS Spl Mains 2008**
 
-The earliest archival evidence related to Bhagavat Religion is-
+**Q-GC222. U.P.P.C.S. (Spl) (Mains) 2008**
+
+The earliest archival evidence related to Bhagavat
+Religion is-
 
 A. Allahabad’s inscription of Samudragupta
 
@@ -3910,30 +6474,374 @@ D. Mehrauli’s pillar inscription
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Heliodorus / Besnagar** pillar.
+**Ans: B.** See the explanation of above question. (The Garuda Pillar of Vidisha (Besanagar) is the first stone monument related to Bhagavata religion. This shows that the Yavana ambassador of Takshila (Taxila) accepted the Bhagavata religion and worshipped it after its establishment. Heliodorus is stated as ‘Bhagavata’ and Vasudeva is stated as ‘Devadevas’ (‘God of Gods’) in the article inscribed on it.)
 
 </details>
 
 ---
-**Q-GC124. UP RO/ARO Pre 2017**
 
-Match List-I with List-II:
-(Acharya) — (Doctrine)
-A. Lakulisa B. Nagarjuna C. Bhadrabahu D. Gosala
-1. Ajivaka 2. Sunyavada 3. Pasupat 4. Jain
+**Q-GC223. Uttarakhand P.C.S. (Pre) 2012**
 
-A. 2 3 4 1
+The earliest known epigraphic evidence of Bhagvatism
+is :
 
-B. 3 2 4 1
+A. Prayaga Prashasti of Samudra Gupta
 
-C. 1 2 3 4
+B. Nasik inscription of Gautami Balshri
 
-D. 3 1 4 2
+C. Garuda Pillar at Besnagar
+
+D. Ayodhya inscription of Dhanadeva
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Lakulisha–Pashupata; Nagarjuna–Sunyavada; Bhadrabahu–Jain; Gosala–Ajivika.
+**Ans: C.** See the explanation of above question. (The Garuda Pillar of Vidisha (Besanagar) is the first stone monument related to Bhagavata religion. This shows that the Yavana ambassador of Takshila (Taxila) accepted the Bhagavata religion and worshipped it after its establishment. Heliodorus is stated as ‘Bhagavata’ and Vasudeva is stated as ‘Devadevas’ (‘God of Gods’) in the article inscribed on it.)
+
+</details>
+
+---
+
+**Q-GC224. U.P. U.D.A./L.D.A. (Pre) 2010**
+
+Heliodorus of ‘Besanagar inscription’ was a resident of–
+
+A. Pushkalavati
+
+B. Takshila (Taxila)
+
+C. Sakala
+
+D. Mathura
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (The Garuda Pillar of Vidisha (Besanagar) is the first stone monument related to Bhagavata religion. This shows that the Yavana ambassador of Takshila (Taxila) accepted the Bhagavata religion and worshipped it after its establishment. Heliodorus is stated as ‘Bhagavata’ and Vasudeva is stated as ‘Devadevas’ (‘God of Gods’) in the article inscribed on it.)
+
+</details>
+
+---
+
+**Q-GC225. U.P. U.D.A./L.D.A. (Spl) (Pre) 2010 / U.P. U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+Which incarnation of Vishnu is depicted as saving the
+Earth from the Sea?
+
+A. Kachhapa
+
+B. Matsya
+
+C. Varaha
+
+D. Narsingh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Lord Vishnu took the form of Varaha to kill the king of Giants, Hiranyaksha and released the Earth from his clutch. In the pictures of the Purana, God Varaha has been shown balancing the earth on his teeth and arising from the sea. In this incarnation, the head of Varaha is on the human body having four arms holding Shankha, Chakra, Gada and Padma in his hands like God Vishnu fighting with demon Hiranyaksha.
+
+</details>
+
+---
+
+**Q-GC226. U.P.P.C.S. (Mains) 2005**
+
+Which one of the following is the distinctive feature of
+a nastika and astika system in India ?
+
+A. Belief in the existence of God
+
+B. Belief in the doctrine of re-birth
+
+C. Belief in the authenticity of the Vedas
+
+D. Belief in the existence of heaven and hell
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** In the context of 6th century BC, Astika sect belonged to those who believed in the authenticity of Vedas and Nastika sect was of those who did not believe in the authenticity of Vedas. Thus, option (c) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC227. U.P.P.C.S. (Mains) 2005**
+
+Which one of the following gives equal importance to
+Jnana, Karma and Bhakti as a means of liberation?
+
+A. Advaita Vedanta
+
+B. Vishistadvaitvad Vedanta
+
+C. Bhagavad Gita
+
+D. Mimamsa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Jnana, Karma and Bhakti have equal importance in the Gita. Lord Krishna predicted the importance of all three in the following Shloka in GitaÙes leg meJee&efCe keâcee&efCe ceefÙe mebvÙemÙe celheje:~ DevevÙesvewJe Ùeesiesve ceeb OÙeeÙevle Gheemeles ~~ les<eecenb mecegælee& ce=lÙegmebmeejmeeiejeled~ YeJeeefce veefÛejelheeLe& ceÙÙeeJesefMeleÛeslemeeced ~~ In Advaita Vedanta, Shankaracharya accepted the Brahma as the only truth. Both Vedanta and Vishistadvaita Vedanta give supremacy to Bhakti (devotion toward God). Mimamsa has only propounded the Karma.
+
+</details>
+
+---
+
+**Q-GC228. [Chhattisgarh P.S.C. (Pre)-2017]**
+
+Which one of the following is main teaching of Gita?
+
+A. Karma Yoga
+
+B. Gyan Yoga
+
+C. Bhakti Yoga
+
+D. Nishkama Karma Yoga
+
+E. Asparsha Yoga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Nishkama Karma yoga is a central theme in the Bhagavad Gita. An important philosophical concept that means to act unselfishly, or without personal gain in mind. When acting out of Nishkama Karma, an individual is acting without any expectation that good will be returned to him/her. Bhagavad Gita, asserts supremacy of Nishkam Karma Yoga among all BOOK
+
+</details>
+
+---
+
+**Q-GC229. Chhattisgarh P.C.S. (Pre) 2016**
+
+In context of Indian culture who among the following
+is called Ananga?
+
+A. Shiva
+
+B. Krishna
+
+C. Kama
+
+D. Laxman
+
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Kamadeva is the Hindu god of human love or desire. Rati is the wife of Kamadeva. Other names used in reference to Kamadeva are Ananga (incorporeal), Kandarpa (inflamer even of a god), Madana (intoxicating), Manmatha (Churner of hearts) etc.
+
+</details>
+
+---
+
+**Q-GC230. U.P.P.C.S. (Pre) 1997**
+
+Which one of the following is not included in ‘Prasthan
+trayi’ :
+
+A. Bhagavata
+
+B. Bhagavad Gita
+
+C. Brahma Sutra
+
+D. Upanishad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Upanishad, Brahmasutra and Bhagavad Gita are said to be the ‘Prasthantrayi’ of Vedanta because these are the major epics of Vedanta. Among them, the Upanishad is the Prime Prasthan and the remaining two are known to be based on it. Shankaracharya is the oldest among all of Vedanta Acharyas who established their Vedanta sects by writing the commentaries on ‘Brahmasutra.’
+
+</details>
+
+---
+
+**Q-GC231. U.P.P.C.S. (Pre) 2006**
+
+The ancient place where the narration of entire
+Mahabharata was read in the conference of 60,000
+hermits –
+
+A. Ahichhatra
+
+B. Hastinapur
+
+C. Kampilya
+
+D. Naimisharanya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Naimisharanya in Sitapur district of U.P. is considered to be the residence of 60,000 hermits. Here, Sut Goswami narrated the entire Mahabharata in front of Saunak and other hermits, when he was accomplishing the Yagya. Earlier, Vaisampayana narrated the story of Mahabharata for King Janamejaya.
+
+</details>
+
+---
+
+**Q-GC232. U.P.P.C.S. (Mains) 2004**
+
+Which Kand of Ramayana describes the first meeting
+of Rama and Hanumana?
+
+A. Kishkindha Kand
+
+B. Sunder Kand
+
+C. Bal Kand
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Valmiki was the author of Ramayana. There are a total of seven Kands in this Adi Kavya written in Sanskrit. The fourth Kand of this Kavya is Kishkindha Kand in which the meeting of Rama and Hanuman, death of Bali and Sugriva becoming the king of Vanara are described.
+
+</details>
+
+---
+
+**Q-GC233. M.P.P.C.S. (Pre) 2018**
+
+With which religion is Kalika Purana associated ?
+
+A. Vaishnavism
+
+B. Shaktism
+
+C. Buddhism
+
+D. Jainism
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Kalika Purana also called the Kali Purana or Sati Purana is one of the main upapurana in the Shaktism tradition of Hinduism. The text was likely composed in the Assam region of India. The text is attributed to sage Markendeya and starts off with the legends of Devi trying to bring Shiva back from ascetic life into householder's life by making him fall in love again.
+
+</details>
+
+---
+
+**Q-GC234. U.P.P.C.S. (Pre) 2022**
+
+Match List – I with List – II and select the correct
+answer from the code given below the lists.
+List – I (God) List – II (Symbol)
+A. Shiva 1. Chakra
+B. Vishnu 2. Trident
+C. Ganesh 3. Veena
+D. Saraswati 4. Rope or noose
+Code:
+A B C D
+
+A. 4 3 1 2
+
+B. 2 1 4 3
+
+C. 1 2 3 4
+
+D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Correct match is as follows — List – I (God) List – II (Symbol) Shiva Trident Vishnu Chakra Ganesh Rope or noose Saraswati Veena
+
+</details>
+
+---
+
+**Q-GC235. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+The Rathyatra at Puri is celebrated in honour of which
+Hindu deity?
+
+A. Lord Rama
+
+B. Lord Vishnu
+
+C. Lord Jagannath
+
+D. Lord Shiva
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Rathyatra is celebrated every year at Puri, Odisha in Shukla Paksha of Ashadha month with all due respect to Lord Jagannath (Krishna), Balram (Balbhadra) and Subhadra.
+
+</details>
+
+---
+
+**Q-GC236. U.P.P.C.S. (Mains) 2003**
+
+Kumbh Mela at Nasik is held on which of the following
+river bank?
+
+A. Tapti River
+
+B. Narmada River
+
+C. Koyna River
+
+D. Godavari River
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** BOOK The Kumbha Mela is held on the bank of Godavari river at an interval of every twelve years. It is also held on the bank of Ganga at Haridwar, on the confluence place of the Ganga and Yamuna (and extinct Saraswati) at Prayag (Prayagraj) and on the bank of River Kshipra (Shipra) at Ujjain.
+
+</details>
+
+---
+
+**Q-GC237. 69th B.P.S.C. (Pre) 2023**
+
+Nathpanthis, Siddhas and Yogis made devotional
+religion popular in
+
+A. Northern India
+
+B. Southern India
+
+C. Eastern India
+
+D. Western India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nathpanthis, Siddhas and Yogis made Bhakti (devotional) religion popular in Northern India. They criticised the ritual and other aspects of conventional religion and the social order. They also advocated renunciation of the world.
+
+</details>
+
+---
+
+**Q-GC238. M.P.P.C.S. (Spl) (Pre) 2004**
+
+Match List-I with List-II and select the correct answer
+from the codes given below –
+A. Jainism 1. Madina
+B. Hinduism 2. Vatican
+C. Islam 3. Pavapuri
+D. Christianity 4. Varanasi
+Code :
+A B C D
+
+A. 3 1 4 2
+
+B. 1 2 4 3
+
+C. 3 4 1 2
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Medina is a city located in the Hejaz region of western Saudi Arabia. It is the second holiest city of Islam Religion after Mecca. Vatican City is a sovereign country located in Italy with a total area of 44 hectares which is also the smallest (both in population and area) independent country in the world. It is ruled by the Bishop of Rome who is also called the Pope. It is also known as the capital of the Roman Catholic Church. Pavapuri is the holiest place of Jains located near Rajgir. The founder of Jainism, ‘Mahavir Swami’ died at Pavapuri in 527 BC. Varanasi is the holiest place for Hindus located on the left bank of Ganga river. This was an important center for education and culture in ancient times.
 
 </details>
 

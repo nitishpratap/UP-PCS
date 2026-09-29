@@ -276,34 +276,9 @@ Later Mughals | Disintegration of the Mughal (मुग़ल) Empire | Nadir Sh
 - The **English** also held Pondicherry for a phase (**1793–1814**) before returning it under the **Treaty of Paris**.
 - The claim that the English never occupied Pondicherry is false.
 
-### PYQ — Aix-la-Chapelle 1748
-
-**1.** Consider the **Treaty of Aix-la-Chapelle (1748)**:
-
-1. The **First Carnatic War** ended.
-2. **Madras** was returned to the English.
-
-A. Only 1
-B. Neither
-C. Both
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Both 1 and 2)
-
-**Detailed Explanation:**
-- **Statement 1 is correct:** The **First Carnatic War (1746–1748)** was an Indian extension of the European War of the Austrian Succession (1740–1748). When the European war concluded with the signing of the **Treaty of Aix-la-Chapelle in October 1748**, hostilities between the French and English in India automatically terminated.
-- **Statement 2 is correct:** Under the terms of the Treaty of Aix-la-Chapelle, conquered colonial territories were mutually restored. **Madras**, which had been captured by the French under Governor-General Dupleix and Admiral La Bourdonnais in 1746, was returned to the British East India Company. In exchange, the British returned the fortress of Louisbourg in North America (Cape Breton Island) to the French.
-
-**Key Exam Takeaway / Trap:**
-- UPPCS repeatedly tests the pairing of Carnatic wars and concluding treaties:
-  - First Carnatic War (1746–48) $\rightarrow$ **Treaty of Aix-la-Chapelle (1748)** (Madras returned to English).
-  - Second Carnatic War (1749–54) $\rightarrow$ **Treaty of Pondicherry / Godeheu (1754)**.
-  - Third Carnatic War (1756–63) $\rightarrow$ **Treaty of Paris (1763)** (French factories restored without military fortifications).
-
-</details>
+> [!TIP] **Exam Anchor — Treaty of Aix-la-Chapelle (1748) (UPPCS Core):**
+> - **End of War:** Concluded both the **First Carnatic War (1746–1748)** in India and the European War of the Austrian Succession (1740–1748).
+> - **Restoration of Madras:** English settlement of **Madras** (seized by French forces under La Bourdonnais and Dupleix in 1746) was restored to the English East India Company in exchange for the French regaining the fortress of Louisbourg in North America.
 
 ---
 
@@ -339,32 +314,11 @@ D. Only 2
 - **Nicholas Downton** belongs to **1614** (Surat command).
 - **Sir Thomas Roe** arrived **1615**.
 
-### PYQ — Traveller chronology
-
-**1. (UPPCS Prelims 2021, Q75)** Arrange the following foreign travellers in chronological order of their arrival in India:
-
-I. William Hawkins
-II. Ralph Fitch
-III. Sir Thomas Roe
-IV. Nicholas Downton
-
-A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II, IV and I
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (II, I, IV and III)
-
-**Detailed Explanation:**
-- **II. Ralph Fitch (1583–1591):** Pioneering English merchant who traveled overland to India during Akbar's reign, visiting Agra and Fatehpur Sikri in **1585**. His glowing reports of Indian wealth and commerce motivated London merchants to form the East India Company.
-- **I. Captain William Hawkins (1608–1611):** Commander of the ship *Hector*; arrived at Surat in **1608** as envoy of King James I and proceeded to Jahangir's court in Agra in 1609, receiving a mansab of 400 and the title *English Khan*.
-- **IV. Captain Nicholas Downton (1614–1615):** English naval officer who arrived at Surat in **1614** and decisively defeated a superior Portuguese fleet at the Battle of Swally (*Swally Hole*) in early 1615.
-- **III. Sir Thomas Roe (1615–1619):** Formal Royal Ambassador of King James I to Emperor Jahangir; arrived at Surat in September **1615** and secured imperial farmans allowing the Company to establish factories across the Mughal Empire.
-
-**Key Exam Takeaway / Trap:**
-- Chronology anchor: **Ralph Fitch (1585, Akbar)** $\rightarrow$ **William Hawkins (1608, Jahangir)** $\rightarrow$ **Nicholas Downton (1614, Swally naval victory)** $\rightarrow$ **Sir Thomas Roe (1615, formal embassy)**.
-
-</details>
+> [!TIP] **Exam Anchor — Chronology of English Envoys to Mughal Court (UPPCS 2021 Spine):**
+> - **1. Ralph Fitch (1583–1586):** Earliest English merchant traveler to visit North India and the court of **Akbar** at Fatehpur Sikri and Agra.
+> - **2. Captain William Hawkins (1608–1611):** First English East India Company envoy to attend **Jahangir's** court at Agra; received mansab of 400 and title *'English Khan'*.
+> - **3. Nicholas Downton (1614–1615):** Commander who defeated Portuguese fleet off Swally and visited Mughal ports.
+> - **4. Sir Thomas Roe (1615–1619):** Formal ambassador of British King **James I** to Emperor Jahangir; presented credentials at Ajmer in January 1616.
 
 ---
 
@@ -454,6 +408,24 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 
 ---
 
+
+### 12.10 Master Fact-Locks — Disintegration of the Mughal Empire & 18th-Century Successor States
+
+| Sovereign / State | Key Historical Specifics & Events | Official Exam Anchors |
+|---|---|---|
+| **Bahadur Shah I (Muazzam / Shah Alam I, 1707–1712)** | • Eldest surviving son of Aurangzeb; ascended the throne in 1707 at the age of **63** after defeating brothers Azam (Battle of Jajau) and Kam Bakhsh.<br>• Contemporary chronicler Khafi Khan bestowed upon him the famous sobriquet ***'Shah-i-Bekhabar'*** (the Heedless King) due to his lax administration. | Successor to Aurangzeb |
+| **Jahandar Shah (1712–1713)** | First puppet emperor in Mughal history; ascended the throne with the backing of powerful noble **Zulfiqar Khan**; denounced by contemporaries as ***'Lampat Murkh'*** (the Lewd Moron); defeated and killed by his nephew **Farrukh Siyar** in February 1713. | Shortest early rule |
+| **Farrukh Siyar (1713–1719)** | • Placed on the throne by the **Sayyid Brothers** (**Abdullah Khan** as Wazir and **Husain Ali Khan** as Mir Bakshi), who became famous across Indian history as the ***'King Makers'***.<br>• **1717 Royal Farman:** Granted the English East India Company duty-free trading privileges (*Dastak*) in Bengal in exchange for a meager annual tribute of **Rs. 3,000** (hailed by Orme as the *"Magna Carta of the Company"*).<br>• Dethroned, blinded, and strangled by the Sayyid brothers in 1719. | Sayyid brothers & 1717 Farman |
+| **Muhammad Shah 'Rangeela' (1719–1748)** | • Nicknamed ***'Rangeela'*** due to his continuous indulgence in wine, music, animal fights, and court pleasures, leaving imperial governance dominated by a faction of palace women (Koki Jiu) and eunuchs.<br>• **Last emperor to sit on the Peacock Throne (*Takht-i-Taus*)** built by Shah Jahan.<br>• **Nadir Shah's Invasion (1739 CE):** Persian ruler Nadir Shah routed the imperial army at the **Battle of Karnal** (February 1739), entered Delhi, and orchestrated a horrific nine-hour general massacre (*Katl-i-Aam*). Historian Anand Ram Mukhlis recorded that Nadir Shah carried away **Rs. 60,000 in cash, crores in gold coin, the Kohinoor diamond, and the entire Peacock Throne** back to Iran. | Sack of Delhi & Peacock Throne |
+| **Shah Alam II (Ali Gauhar, 1759–1806)** | Escaped Delhi due to fear of Wazir Imad-ul-Mulk; fought at the Battle of Buxar (1764) and signed the Treaty of Allahabad (1765); restored to Delhi by Mahadji Shinde in 1772; blinded by Afghan chief Ghulam Qadir Rohilla in 1788; lived as a pensioner when the British captured Delhi under **Lord Lake in 1803 CE**. | British occupation of Delhi |
+| **Bahadur Shah II 'Zafar' (1837–1857)** | • Son of **Akbar II** (r. 1806–1837); proclaimed figurehead leader of the 1857 Revolt; dubbed *"The Emperor without an Empire"*; poet guided by master bards **Sheikh Ibrahim Zauq** and **Mirza Asadullah Khan Ghalib**; spiritual mentor was **Hasan Askari**.<br>• **Pension Terms:** Received **Rs. 1 lakh per month** as direct pension, Rs. 15 lakh for estate revenues, and Rs. 1,000 for regular family expenses.<br>• Exiled to Rangoon (Burma) where he died in **1862 CE**. | Last Mughal Emperor |
+| **Proverbial Tughluq Epitaph** | The popular satirical Persian couplet *"Sultanat-e-Shah-e-Alam, az Dilli ta Palam"* (*"The empire of the Emperor extends from Delhi to Palam"*) was originally coined for the late 14th-century Tughluq sultan **Nasir-ud-din Mahmud Shah**, reflecting the collapse of imperial authority to the immediate outskirts of the capital. | Historic dynastic proverb |
+| **Independent State of Awadh (1722)** | Founded by **Saadat Khan (Burhan-ul-Mulk)** in **1722 CE**; belonged to the Irani Shia faction; actively assisted Muhammad Shah in overthrowing the Sayyid brothers; succeeded by nephew Safdarjung. | Awadh dynasty founder |
+| **Independent Kingdom of Hyderabad (1724)** | Founded by **Mir Qamar-ud-din Khan (Chin Qilich Khan / Nizam-ul-Mulk)**, head of the Turani noble faction. In October 1724, he decisively defeated and killed the imperial viceroy **Mubariz Khan** at the **Battle of Sakhar-Kherda (Shakar Kheda)** in Berar, after which Muhammad Shah conferred upon him the title ***Asaf Jah***. | Hyderabad dynasty founder |
+| **Maharaja Sawai Jai Singh II (1688–1743)** | • Kachhwaha Rajput king of Amber; founded the planned city of **Jaipur** in 1727 as a royal center of art, astronomy, and science.<br>• Built **five state-of-the-art astronomical observatories (*Jantar Mantars*)** at **Delhi, Jaipur, Ujjain, Mathura, and Varanasi** (did **NOT** build one at Allahabad / Prayagraj).<br>• Authored the renowned astronomical observation tables titled ***Zij Muhammad Shahi*** (1733) dedicated to Emperor Muhammad Shah; translated Euclid's *Elements of Geometry* into Sanskrit; revived ancient Vedic rituals by performing two **Ashvamedha sacrifices**. | Royal astronomer & Jaipur founder |
+| **Origins of 18th-Century Regional States** | 1. **Mysore Kingdom:** Emerged under the Hindu **Wodeyar dynasty** as an autonomous state out of the disintegration of the southern **Vijayanagara Empire**.<br>2. **Nizamat of Arcot (Carnatic):** Established under Mughal Emperor Aurangzeb as a legal dependency/subah of Hyderabad, not carved directly out of the state.<br>3. **Rohilkhand:** Founded by Afghan chieftain **Ali Muhammad Khan** following the breakdown of central authority after Nadir Shah's 1739 invasion (NOT carved by Ahmad Shah Abdali). | Successor states origins matrix |
+
+---
 ## Complete PYQ Bank (Topic 12)
 
 **Q1. UPPCS Prelims 2021, Q75**
@@ -791,11 +763,16 @@ D. None of the above
 
 **Key Exam Takeaway / Trap:**
 - Bengal European settlements cheat-sheet:
-  - Portuguese $ightarrow$ **Hooghly & Bandel**
-  - Dutch $ightarrow$ **Chinsurah**
-  - Danes $ightarrow$ **Serampore (Sriramapur)**
-  - French $ightarrow$ **Chandernagore**
-  - English $ightarrow$ **Calcutta (Sutanuti)**
+  - Portuguese $
+ightarrow$ **Hooghly & Bandel**
+  - Dutch $
+ightarrow$ **Chinsurah**
+  - Danes $
+ightarrow$ **Serampore (Sriramapur)**
+  - French $
+ightarrow$ **Chandernagore**
+  - English $
+ightarrow$ **Calcutta (Sutanuti)**
 
 </details>
 
@@ -916,8 +893,10 @@ D. Babur
 
 **Key Exam Takeaway / Trap:**
 - Classic dual-fact trap:
-  - When the English EIC was **founded (1600)** $ightarrow$ Mughal Emperor was **Akbar**.
-  - When the first English envoy **arrived in India (1608)** $ightarrow$ Mughal Emperor was **Jahangir**.
+  - When the English EIC was **founded (1600)** $
+ightarrow$ Mughal Emperor was **Akbar**.
+  - When the first English envoy **arrived in India (1608)** $
+ightarrow$ Mughal Emperor was **Jahangir**.
 
 </details>
 
@@ -988,7 +967,9 @@ D. Spanish
 - In **1668**, King Charles II leased Bombay to the English East India Company for an annual nominal rent of just **£10 in gold**. Bombay was heavily fortified under Governor Gerald Aungier and became the headquarters of the Company's Western Presidency in 1687 (replacing Surat).
 
 **Key Exam Takeaway / Trap:**
-- Bombay dowry sequence: **Portuguese $ightarrow$ King Charles II (1661) $ightarrow$ English East India Company (1668)** for £10/year.
+- Bombay dowry sequence: **Portuguese $
+ightarrow$ King Charles II (1661) $
+ightarrow$ English East India Company (1668)** for £10/year.
 
 </details>
 
@@ -1189,9 +1170,12 @@ D. Treaty of Salbai
 
 **Key Exam Takeaway / Trap:**
 - Concluding treaty cheat-sheet:
-  - 1st Carnatic (1746–48) $ightarrow$ **Aix-la-Chapelle (1748)**
-  - 2nd Carnatic (1749–54) $ightarrow$ **Pondicherry / Godeheu (1754)**
-  - 3rd Carnatic (1756–63) $ightarrow$ **Paris (1763)**
+  - 1st Carnatic (1746–48) $
+ightarrow$ **Aix-la-Chapelle (1748)**
+  - 2nd Carnatic (1749–54) $
+ightarrow$ **Pondicherry / Godeheu (1754)**
+  - 3rd Carnatic (1756–63) $
+ightarrow$ **Paris (1763)**
 
 </details>
 
@@ -1319,7 +1303,12 @@ D. 1, 2, 3, 4
   - **4. French:** 1668 (First factory at Surat by François Caron).
 
 **Key Exam Takeaway / Trap:**
-- Golden chronological mnemonic: **P-D-E-D-F** $ightarrow$ **Portuguese (1498) $ightarrow$ Dutch (1605) $ightarrow$ English (1608/11) $ightarrow$ Danes (1620) $ightarrow$ French (1668)**.
+- Golden chronological mnemonic: **P-D-E-D-F** $
+ightarrow$ **Portuguese (1498) $
+ightarrow$ Dutch (1605) $
+ightarrow$ English (1608/11) $
+ightarrow$ Danes (1620) $
+ightarrow$ French (1668)**.
 
 </details>
 
@@ -1447,547 +1436,726 @@ D. None of the above
 
 ---
 
-## Ghatnachakra Extra Drill — Disintegration of the Mughal Empire
+## Complete PYQ Bank — Ghatnachakra Disintegration of the Mughal Empire
 
-**Q1. UPPCS (Mains) 2012**
+Complete unabridged 25-question bank from Ghatna Chakra covering the complete decline and fall of the Mughal Empire: accession of Bahadur Shah I (Shah-i-Bekhabar), fall of Jahandar Shah, Farrukh Siyar's 1717 Farman to the British, the Sayyid Brothers ("King Makers"), Muhammad Shah Rangeela and the 1739 invasion of Nadir Shah (Battle of Karnal, loot of the Peacock Throne and Kohinoor), Shah Alam II (Ali Gauhar) and the British capture of Delhi in 1803, Bahadur Shah II Zafar's pension and teachers (Zauq, Ghalib, Askari), the Nasiruddin Mahmud Palam proverb, foundation of independent Awadh by Saadat Khan Burhan-ul-Mulk, foundation of independent Hyderabad by Chin Qilich Khan / Nizam-ul-Mulk (Battle of Sakhar-Kherda 1724), origins of Mysore, Arcot, and Rohilkhand, and Maharaja Sawai Jai Singh II of Jaipur (5 Jantar Mantar observatories, Zij Muhammad Shahi). Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
 
-Who succeeded Aurangzeb after his death in 1707?
+---
 
-A. Bahadur Shah I (Muazzam)
-B. Jahandar Shah
-C. Muhammad Shah
-D. Akbar II
+**Q-GC1. U.P.P.C.S. (Mains) 2012**
 
-<details>
-<summary>Show answer</summary>
+Who succeeded Aurangzeb after his death in 1707 A.D.?
 
-**Correct Answer:** **A** (Bahadur Shah I / Muazzam)
+- (a) Bahadur Shah- I
+- (b) Jahandar Shah
+- (c) Muhammad Shah
+- (d) Akbar- II
 
-**Detailed Explanation:**
-- Following the death of Emperor Aurangzeb at Ahmadnagar in March 1707, a war of succession broke out among his three surviving sons: Prince Muazzam, Prince Muhammad Azam, and Prince Kam Bakhsh.
-- **Prince Muazzam** defeated and killed Muhammad Azam at the Battle of Jajau (near Agra, June 1707) and Kam Bakhsh near Hyderabad (1709).
-- Muazzam ascended the imperial throne at the age of 63 under the regnal title **Bahadur Shah I** (also known as *Shah Alam I*).
-- Because of his careless, generous administrative style and indifference to state governance, contemporary historian Khafi Khan famously conferred on him the sobriquet **Shah-i-Bekhabar** (the Heedless King).
+<details><summary>Show answer</summary>
 
-**Key Exam Takeaway / Trap:**
-- Immediate successor of Aurangzeb = **Prince Muazzam (Bahadur Shah I, 1707–1712)**. Do not confuse him with the last Mughal emperor, Bahadur Shah II (Zafar, 1837–1857).
+**Answer: (a)**
 
+**Explanation:**
+After the death of the Mughal emperor Aurangzeb, his sixtythree year old son Muazzam (Shah Alam) ascended the throne
+
+adopting the name of Bahadur Shah in 1707 A.D. He ruled
+
+over the duration of 1707-1712 A.D.
 </details>
 
-**Q2. IAS (Pre) 2003**
+---
 
-How did Jahandar Shah’s reign come to an early end in 1713?
+**Q-GC2. I.A.S. (Pre) 2003**
 
-A. He died of an accidental fall from his palace staircase
-B. He was deposed by his wazir Zulfiqar Khan
-C. He was defeated and killed by his nephew Farrukhsiyar
-D. He abdicated the throne in favor of Muhammad Shah
+How did the Mughal Emperor Jahandar Shah’s reign
+come to an early end?
 
-<details>
-<summary>Show answer</summary>
+- (a) He was deposed by his Wazir
+- (b) He died due to slip while climbing down steps
+- (c) He was defeated by his nephew in a battle
+- (d) He died of sickness due to too much consumption of wine.
 
-**Correct Answer:** **C** (He was defeated and killed by his nephew Farrukhsiyar)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Jahandar Shah (1712–1713):** A degenerate, pleasure-seeking ruler who ascended the throne with the backing of the powerful Irani noble **Zulfiqar Khan** (who served as his all-powerful Wazir).
-- Jahandar Shah's reign lasted less than a year. His nephew **Farrukhsiyar** (son of Azim-ush-Shan) raised the banner of rebellion in Bihar and Bengal, securing the armed support of the two powerful **Sayyid brothers** (Hasan Ali Khan Abdullah and Hussain Ali Khan of Barha).
-- Farrukhsiyar's forces defeated Jahandar Shah at the **Battle of Agra** (January 1713). Jahandar Shah fled to Delhi, was captured, strangled in prison, and his body dumped, while Zulfiqar Khan was also executed.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Jahandar Shah was ousted and killed by his nephew **Farrukhsiyar** with the assistance of the **Sayyid Brothers** in 1713.
+**Explanation:**
+Jahandar Shah was the first Mughal emperor who proved
 
+to be unfit for governance. He ascended the throne with the
+
+help of contemporary, powerful Amir Zulfiqar Khan. He was
+
+defeated by his nephew, Farrukh Siyar and killed on Feb,
+
+1713. People called him ‘’lewd Moron’’.
 </details>
 
-**Q3. UPPSC (GIC) 2010**
+---
 
-Which Mughal emperor granted duty-free trading facilities to the English East India Company in Bengal, Gujarat, and Hyderabad through the famous imperial farman of 1717?
+**Q-GC3. U.P.P.S.C. (GIC) 2010**
 
-A. Bahadur Shah I
-B. Jahandar Shah
-C. Muhammad Shah
-D. Farrukhsiyar
+Which of the following Mughal Emperors granted
+duty-free trading facilities to the English in Bengal?
 
-<details>
-<summary>Show answer</summary>
+- (a) Akbar
+- (b) Jahangir
+- (c) Bahadur Shah
+- (d) Farrukh Siyar
 
-**Correct Answer:** **D** (Farrukhsiyar)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- In **1715**, an English diplomatic mission led by **John Surman** (accompanied by Edward Stephenson and the Scottish surgeon **Dr. William Hamilton**) arrived at Delhi from Calcutta.
-- Dr. Hamilton successfully cured Emperor **Farrukhsiyar** of a painful debilitating disease. In gratitude, Farrukhsiyar issued three historic imperial decrees (**Farmans of 1717**):
-  1. **Bengal:** Exemption of all Company export and import trade from internal customs duties in exchange for a fixed annual payment of just Rs. 3,000; permission to issue trade passes (*Dastaks*); right to rent 38 villages around Calcutta.
-  2. **Surat:** Exemption from all customs duties for an annual lump sum of Rs. 10,000.
-  3. **Bombay:** Coins minted by the Company at Bombay were declared legal tender throughout the Mughal Empire.
-- English historian Orme rightly designated this decree the **"Magna Carta of the East India Company"**.
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Imperial Farman of 1717 (*Magna Carta of EIC*) = **Emperor Farrukhsiyar**.
+**Explanation:**
+Farrukh Siyar issued a decree in which he granted duty-free
 
+trading facilities to the Britishers in Bengal in 1717 A.D. It
+
+was mentioned in the contract that the East India Company
+
+could trade without duty (charge) after paying the annual
+
+tax of 3000.
 </details>
 
-**Q4. UP R.O./A.R.O. (Mains) 2017**
+---
 
-Who were the celebrated "king-makers" during the Later Mughal period?
+**Q-GC4. U.P.P.C.S. (RO/ARO) (Mains) 2017**
 
-A. The Sayyid brothers (Abdullah Khan and Hussain Ali Khan)
-B. Zulfiqar Khan and Asad Khan
-C. Chin Qilich Khan and Saadat Khan
-D. Mir Jafar and Mir Qasim
+Who among the following were the 'King makers'
+during Mughal period?
 
-<details>
-<summary>Show answer</summary>
+- (a) Hussain Ali and Abdullah
+- (b) Nasir Khan and Jakariya Khan
+- (c) Shah Hussain and Abdul Hussain
+- (d) Muhammad Zaman and Muhammad Junaidi
 
-**Correct Answer:** **A** (The Sayyid brothers / Abdullah Khan and Hussain Ali Khan)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- The **Sayyid brothers** of Barha—**Sayyid Abdullah Khan** (Wazir / *Qutb-ul-Mulk*) and **Sayyid Hussain Ali Khan** (Mir Bakhshi / Commander-in-Chief)—earned the title **"King-Makers" (*Badshah-gar*)** in Indian history.
-- From 1713 to 1720, they held total supreme power at the Mughal court, orchestrating the enthronement and deposition of multiple emperors:
-  1. Raised **Farrukhsiyar** to the throne (1713).
-  2. Blinded, deposed, and murdered Farrukhsiyar (1719).
-  3. Elevated **Rafi-ud-Darajat** (1719) and **Rafi-ud-Daulah (Shah Jahan II)** (1719) in rapid succession.
-  4. Placed **Muhammad Shah Rangeela** on the throne in late 1719.
-- Their dominance ended in 1720 when a rival coalition of Turani and Irani nobles led by Chin Qilich Khan (Nizam-ul-Mulk) and Muhammad Amin Khan assassinated Hussain Ali and defeated Abdullah Khan at the Battle of Hasanpur.
+**Answer: (a)**
 
-**Key Exam Takeaway / Trap:**
-- The King-makers = **The Sayyid Brothers** of Barha (Abdullah Khan & Hussain Ali Khan).
+**Explanation:**
+During the later Mughal period, Nobles came to power who
 
+were called king-makers. From 1713 to 1720 AD, Sayyid
+
+brothers, Hussain Ali and Abdullah were the most powerful.
+
+They were leaders of Hindustani group. They were famous
+
+as 'King Makers'. They made Farrukh Siyar king in 1713
+
+AD and dethroned him in 1719 AD. After that puppet king
+
+Rafi-ud-darjat, Rafi-ud-daula and Muhammad Shah sat on
+
+throne with their help. They lost power during Muhammad
+
+Shah's regin. 
+
+B
 </details>
 
-**Q5. BPSC / UPPCS Spl Mains / MPPCS 2023**
+---
 
-Who was the **last Mughal emperor to sit on the Peacock Throne (Takht-i-Taus)**?
+**Q-GC5. 40th B.P.S.C. (Pre) 1995**
 
-A. Shah Alam II
-B. Muhammad Shah Rangeela
-C. Jahandar Shah
-D. Bahadur Shah Zafar
+Who was the last Mughal Emperor to sit on Mayur
+Singhasan?
 
-<details>
-<summary>Show answer</summary>
+- (a) Shah Alam I
+- (b) Muhammad Shah
+- (c) Bahadur Shah
+- (d) Jahandar Shah
 
-**Correct Answer:** **B** (Muhammad Shah Rangeela)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- The world-famous **Peacock Throne (*Takht-i-Taus*)**, adorned with rubies, emeralds, diamonds, and pearls, was commissioned by Emperor **Shah Jahan** in the 17th century.
-- Emperor **Muhammad Shah Rangeela (1719–1748)** was the last Mughal ruler to sit upon it.
-- During **Nadir Shah's invasion of 1739**, following the Battle of Karnal, the Persian conqueror ransacked Delhi and carried away the Peacock Throne along with the legendary **Koh-i-Noor** diamond and tens of millions of rupees in plunder back to Persia.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Last emperor to sit on Peacock Throne = **Muhammad Shah Rangeela (1719–1748)**. Plundered by **Nadir Shah in 1739**.
+**Explanation:**
+Muhammad Shah (1719 - 1748 A.D.) was the last Mughal
 
+emperor to sit on Mayur Singhasan/ Takht-i-Taus during his reign.
+
+Nadir Shah attacked India in 1739 A.D. and defeated Mughals in
+
+Karnal Battle. The contemporary historian Anand Ram Mukhlis
+
+wrote, "Nadir Shah took sixty thousand rupees, many thousands of
+
+gold coins, gold worth of one crore rupees, jewels of fifty crores,
+
+Kohinoor and peacock throne with him to Iran".
 </details>
 
-**Q6. BPSC / UPPCS Spl Mains / MPPCS 2023**
+---
 
-Which Mughal emperor was on the throne when **Nadir Shah of Persia** invaded India and sacked Delhi?
+**Q-GC6. U.P.P.C.S. (Spl) (Mains) 2004**
 
-A. Farrukhsiyar
-B. Bahadur Shah I
-C. Muhammad Shah
-D. Ahmad Shah
+The Mughal Emperor at the time of Nadir Shah’s
+attack was –
 
-<details>
-<summary>Show answer</summary>
+- (a) Ahmad Shah
+- (b) Alamgir II
+- (c) Muhammad Shah
+- (d) Rafi-ud-Darjat
 
-**Correct Answer:** **C** (Muhammad Shah)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- When **Nadir Shah**, the Shah of Persia, launched his invasion of India across the Khyber Pass in 1738–1739, Emperor **Muhammad Shah "Rangeela"** (reign: 1719–1748) was on the Mughal throne.
-- The Mughal imperial army met Nadir Shah's forces at the **Battle of Karnal** on **24 February 1739**, suffering a catastrophic defeat in just three hours.
-- Nadir Shah entered Delhi alongside Muhammad Shah in March 1739, ordered a ruthless general massacre (*qatl-e-aam*) following an uprising, and stripped the Mughal treasury bare.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Invader = **Nadir Shah (1739)**. Mughal Emperor = **Muhammad Shah**. Defisive battle = **Battle of Karnal**.
-
+**Explanation:**
+See the explanation of above question
 </details>
 
-**Q7. BPSC / UPPCS Spl Mains / MPPCS 2023**
+---
 
-**Nadir Shah's invasion of India** and the sack of Delhi took place in which year, and at which battle was the Mughal army routed?
+**Q-GC7. M.P.P.C.S. (Pre) 2023**
 
-A. 1761; Panipat
-B. 1757; Plassey
-C. 1739; Karnal
-D. 1764; Buxar
+In which of the following year did Nadir Shah invade
+India?
 
-<details>
-<summary>Show answer</summary>
+- (a) 1736 A.D.
+- (b) 1737 A.D.
+- (c) 1738 A.D.
+- (d) 1739 A.D.
 
-**Correct Answer:** **C** (1739; Karnal)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- In **February 1739**, Nadir Shah intercepted the combined Mughal forces led by Muhammad Shah, Nizam-ul-Mulk, Khan-i-Dauran, and Saadat Khan at **Karnal** (Haryana).
-- The superior firepower and swivel falconets (*zamburaks*) of the Persian army decimated the Mughal forces. Mir Bakhshi Khan-i-Dauran was fatally wounded, and Saadat Khan was captured.
-- This shattered the prestige of the Mughal dynasty, accelerating the breakaway of autonomous regional states like Awadh, Hyderabad, and Bengal.
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Date and location: **1739** at **Karnal**.
+**Explanation:**
+Nadir Shah invaded India in the year 1739 AD. The invasion
 
+culminated in the sack of Delhi, during which the city
+
+suffered widespread destruction, looting and the loss of
+
+many lives. This event is known as the Battle of Karnal
+
+and it had significant repercussions for the Mughal Empire,
+
+contributing to its decline and the subsequent rise of regional
+
+powers in India.
 </details>
 
-**Q8. UPPCS (Mains) 2004 / MPPCS 2014**
+---
 
-A group of eunuchs and royal ladies dominated the Mughal administration during the reign of which later Mughal emperor?
+**Q-GC8. U.P.P.C.S. (Mains) 2004**
 
-A. Jahandar Shah
-B. Farrukhsiyar
-C. Muhammad Shah
-D. Ahmad Shah
+A group of eunuchs and ladies dominated in the
+Government under
 
-<details>
-<summary>Show answer</summary>
+- (a) Muhammad Shah (1719-48)
+- (b) Ahmad Shah (1748-54)
+- (c) Alamgir (1754-59)
+- (d) Shah Alam II (1759-1806)
 
-**Correct Answer:** **D** (Ahmad Shah)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- During the reign of Emperor **Ahmad Shah (1748–1754)**, son of Muhammad Shah, state administration fell entirely into the hands of a corrupt court clique.
-- The imperial government was dominated by the Queen Mother **Udham Bai** (a former dancing girl who assumed the grand title of *Qudsia Begum* or *Nawab Bai*) and her confidant, the influential head eunuch **Javed Khan** (conferred the title *Nawab Bahadur*).
-- Javed Khan virtually acted as prime minister until he was assassinated in 1752 by Safdarjung (Nawab of Awadh and Wazir of the Empire). Ahmad Shah was eventually deposed and blinded in 1754 by Imad-ul-Mulk.
+**Answer: (a)**
 
-**Key Exam Takeaway / Trap:**
-- Rule of eunuchs and ladies (Udham Bai & Javed Khan) = **Ahmad Shah (1748–1754)**.
+**Explanation:**
+Muhammad Shah (1719-48 A.D.) spent his most of his time
 
+in watching animal fights. People called him ‘’Rangeela’’ due
+
+to his obsession with wine and beauty and apathy towards
+
+administration. A group of eunuchs and ladies predominated
+
+in Mughal Darbar during the regime of Muhammad Shah.
 </details>
 
-**Q9. UPPCS (Pre) 2018 / UP R.O./A.R.O. (Pre) 2023**
+---
 
-Arrange the following Later Mughal emperors in **correct chronological order**:
-1. Jahandar Shah
-2. Farrukhsiyar
-3. Muhammad Shah
-4. Alamgir II
+**Q-GC9. M.P.P.C.S. (Pre) 2014**
 
-A. 1, 2, 3, 4
-B. 2, 1, 3, 4
-C. 1, 3, 2, 4
-D. 3, 1, 4, 2
+Which Mughal emperor is known by the name of
+‘Rangeela’?
 
-<details>
-<summary>Show answer</summary>
+- (a) Farrukh Siyar
+- (b) Rafi-ud-Darazat
+- (c) Muhammad Shah
+- (d) Rafi-ud-Daula
 
-**Correct Answer:** **A** (1, 2, 3, 4)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **1. Jahandar Shah:** Ruled **1712–1713**; succeeded Bahadur Shah I with the help of Zulfiqar Khan.
-- **2. Farrukhsiyar:** Ruled **1713–1719**; elevated by the Sayyid Brothers; issued the 1717 farman to the EIC.
-- **3. Muhammad Shah (Rangeela):** Ruled **1719–1748**; witnessed the collapse of central power, Nadir Shah's invasion (1739), and the founding of autonomous successor states.
-- **4. Alamgir II:** Ruled **1754–1759**; father of Shah Alam II; on the throne during the Battle of Plassey (1757); murdered by Wazir Imad-ul-Mulk.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Standard Later Mughal chronological anchor: **Bahadur Shah I (1707–12) $ightarrow$ Jahandar Shah (1712–13) $ightarrow$ Farrukhsiyar (1713–19) $ightarrow$ Muhammad Shah (1719–48) $ightarrow$ Ahmad Shah (1748–54) $ightarrow$ Alamgir II (1754–59) $ightarrow$ Shah Alam II (1759–1806)**.
-
+**Explanation:**
+See the explanation of above question.
 </details>
 
-**Q10. UPPCS (Pre) 2018 / UP R.O./A.R.O. (Pre) 2023**
+---
 
-Which of the following is the correct **early Later Mughal succession order**?
+**Q-GC10. U.P.P.C.S. (Pre) 2018**
 
-A. Bahadur Shah I $ightarrow$ Jahandar Shah $ightarrow$ Farrukhsiyar $ightarrow$ Muhammad Shah
-B. Jahandar Shah $ightarrow$ Bahadur Shah I $ightarrow$ Farrukhsiyar $ightarrow$ Muhammad Shah
-C. Bahadur Shah I $ightarrow$ Farrukhsiyar $ightarrow$ Jahandar Shah $ightarrow$ Muhammad Shah
-D. Farrukhsiyar $ightarrow$ Bahadur Shah I $ightarrow$ Jahandar Shah $ightarrow$ Muhammad Shah
+Arrange the following into chronological order and
+select the correct answer from the codes given below :
+A. Muhammand Shah B. Jahandar Shah
+C. Alamgir II D. Ahmadshah
+Codes :
 
-<details>
-<summary>Show answer</summary>
+- (a) A C D B
+- (b) B A D C
+- (c) C A B D
+- (d) D B C A
 
-**Correct Answer:** **A** (Bahadur Shah I $ightarrow$ Jahandar Shah $ightarrow$ Farrukhsiyar $ightarrow$ Muhammad Shah)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- Following Aurangzeb's death in 1707, the precise succession order of early Later Mughal emperors was:
-  1. **Bahadur Shah I (Shah Alam I):** 1707–1712.
-  2. **Jahandar Shah:** 1712–1713.
-  3. **Farrukhsiyar:** 1713–1719.
-  4. *(Interlude: Rafi-ud-Darajat and Rafi-ud-Daulah, 1719).*
-  5. **Muhammad Shah:** 1719–1748.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Memorize the quartet: **Bahadur Shah I $ightarrow$ Jahandar Shah $ightarrow$ Farrukhsiyar $ightarrow$ Muhammad Shah**.
+**Explanation:**
+The chronological order of Mughal rulers mentioned above
 
+is- Jahandar Shah (1712-13 A.D.) Muhammad Shah (1719-
+
+1748 A.D.), Ahmad Shah (1748-54 A.D.) and Alamgir II
+
+(1754-1759 A.D.).
 </details>
 
-**Q11. BPSC (Pre) 2000**
+---
 
-Which Mughal emperor was not allowed to enter Delhi for twelve years by his own wazir, Imad-ul-Mulk?
+**Q-GC11. U.P.P.C.S. (RO/ARO) (Pre) 2023**
 
-A. Alamgir II
-B. Shah Alam II (Ali Gauhar)
-C. Ahmad Shah
-D. Akbar II
+Consider the following Mughal Emperors and arrange
+them in chronological order :
+I. Farrukhsiyar II. Jahandar Shah
+III.Bahadur Shah IV. Muhammad Shah
+Select the correct answer using the code given below:
+Code -
 
-<details>
-<summary>Show answer</summary>
+- (a) I, IV, II, III
+- (b) I, III, IV, II
+- (c) III, II, I, IV
+- (d) IV, II, I, III
 
-**Correct Answer:** **B** (Shah Alam II / Ali Gauhar)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- When Emperor Alamgir II was assassinated in 1759 by his treacherous wazir **Ghazi-ud-din Feroze Jung III (Imad-ul-Mulk)**, the crown prince **Ali Gauhar** was in Bihar.
-- Ali Gauhar proclaimed himself emperor under the title **Shah Alam II (1759–1806)**.
-- However, Imad-ul-Mulk placed a puppet (Shah Jahan III) on the throne and barred Shah Alam II from entering Delhi. For twelve years, Shah Alam II lived in exile in eastern India (participating in the Battle of Buxar in 1764 and signing the Treaty of Allahabad in 1765).
-- It was only in **January 1772** that Shah Alam II finally entered Delhi, escorted and restored to his imperial throne by the powerful Maratha general **Mahadji Scindia**.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Emperor kept out of Delhi for 12 years = **Shah Alam II (Ali Gauhar)**. Escorted back to Delhi in 1772 by **Mahadji Scindia**.
+**Explanation:**
+The chronological order of Mughal emperors is as follows –
 
+Bahadur Shah -I (1707-1712 A.D.),
+
+Jahandar Shah (1712-1713 A.D.),
+
+Farrukhsiyar (1713-1719 A.D.),
+
+Muhammad Shah 'Rangeela' (1719-1748 A.D.)
+
+Hence, the correct option is option (c). 
+
+Indian History General Studies B–341
 </details>
 
-**Q12. UPPCS (Pre) 2005 / MPPCS / UPPCS (Mains) 2006**
+---
 
-Who was the **last Mughal emperor**, and who was his father?
+**Q-GC12. 44th B.P.S.C. (Pre) 2000**
 
-A. Bahadur Shah II (Zafar); Akbar Shah II
-B. Akbar II; Shah Alam II
-C. Bahadur Shah I; Aurangzeb
-D. Shah Alam II; Alamgir II
+Which of the following Mughal emperors was not
+allowed to enter into Delhi by Wazir Ghaziuddin?
 
-<details>
-<summary>Show answer</summary>
+- (a) Alamgir- II
+- (b) Shah Alam- II
+- (c) Akbar- II
+- (d) Bahadur Shah- II
 
-**Correct Answer:** **A** (Bahadur Shah II / Zafar; Akbar Shah II)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Bahadur Shah II (regnal name: Bahadur Shah Zafar)** was the twentieth and final Emperor of the Mughal dynasty (reign: **1837 to 1857**).
-- He was the son and successor of Emperor **Akbar Shah II** (reign: 1806–1837) and Queen Lalbai. Akbar Shah II was the emperor who conferred the title of *Raja* upon Ram Mohan Roy and sent him to England.
-- During the Revolt of 1857, the rebel sepoys proclaimed Bahadur Shah Zafar as the Emperor of Hindustan (*Shahenshah-e-Hindustan*).
-- After the fall of Delhi in September 1857, he was arrested by Major William Hodson at Humayun's Tomb, tried for treason, deposed, and exiled to **Rangoon (Burma)**, where he died in 1862.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Last Mughal emperor = **Bahadur Shah II (Zafar)**. Father = **Akbar Shah II**.
+**Explanation:**
+Shah Alam- II tenure was from 1759 to 1806 A.D. His real
 
+name was Ali Gauhar. He became the victim of conspiracies
+
+hatched at the royal court. He reached Delhi with the help of
+
+Marathas in 1772 A.D. During his rule only, English captured
+
+Delhi in 1803 A.D.
 </details>
 
-**Q13. UPPCS (Pre) 2005 / MPPCS / UPPCS (Mains) 2006**
+---
 
-Which of the following statements about **Bahadur Shah Zafar** is **FALSE**?
+**Q-GC13. U.P.P.C.S. (Pre) 2005**
 
-A. He was a noted Urdu poet with the pen name 'Zafar'
-B. He was proclaimed leader of the Revolt of 1857 by the sepoys
-C. He was the sovereign ruler of a vast, independent all-India empire
-D. He was exiled by the British to Rangoon where he died in 1862
+The last Mughal Emperor was Bahadur Shah. His
+father’s name was-
 
-<details>
-<summary>Show answer</summary>
+- (a) Akbar Shah- I
+- (b) Akbar Shah- II
+- (c) Aurangzeb
+- (d) Shah Jahan
 
-**Correct Answer:** **C** (He was the sovereign ruler of a vast, independent all-India empire)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Statement C is FALSE (hence the correct answer):** Bahadur Shah Zafar was purely a ceremonial, powerless figurehead residing in the Red Fort on a British pension. His effective royal authority did not extend beyond the perimeter walls of the palace in Delhi. A popular Persian couplet of the time mocked: *"Sultanat-e-Shah Alam, Az Dilli ta Palam"* (The dominion of the Emperor extends only from Delhi to Palam).
-- **Statement A is true:** He was an accomplished Urdu poet and patron of legendary poets Mirza Ghalib and Mohammad Ibrahim Zauq, writing under the pen name *Zafar*.
-- **Statement B is true:** On 11–12 May 1857, the rebellious sepoys from Meerut arrived at the Red Fort and declared him the symbolic supreme leader of the uprising.
-- **Statement D is true:** Following the suppression of the revolt, he was convicted in a military trial and deported to Rangoon in 1858, dying there in November 1862.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Bahadur Shah Zafar was a titular pensioner without real territorial sovereignty or independent armies.
+**Explanation:**
+The last Mughal Emperor was Bahadur Shah Zafar (1837-57
 
+A.D.). His father’s name was Akbar- II. He was a pensioner
+
+of British and head of the royal court of Red Fort of Delhi.
+
+He died in 1862 A.D.
 </details>
 
-**Q14. UPPCS Spl Mains 2008 / UP R.O./A.R.O. (Pre) 2023**
+---
 
-Who was the **first Nawab and founder of the autonomous state of Awadh (Oudh)**?
+**Q-GC14. M.P.P.C.S. (Pre) 2000**
 
-A. Safdarjung
-B. Saadat Khan (Burhan-ul-Mulk)
-C. Shuja-ud-Daulah
-D. Asaf-ud-Daulah
+Who was last Mughal emperor of India?
 
-<details>
-<summary>Show answer</summary>
+- (a) Aurangzeb
+- (b) Bahadur Shah Zafar
+- (c) Shah Alam
+- (d) Shah Jahan
 
-**Correct Answer:** **B** (Saadat Khan / Burhan-ul-Mulk)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Mir Muhammad Amin (Saadat Khan Burhan-ul-Mulk):** Appointed Subahdar (Governor) of **Awadh** by Mughal Emperor Muhammad Shah in **1722**.
-- A capable Nishapuri noble, Saadat Khan suppressed rebellious local zamindars, reorganized the provincial revenue system, and steadily transformed the subah into an autonomous hereditary principality, laying the foundation of the Nawab-Wazir dynasty of Awadh.
-- **Safdarjung (1739–1754):** Nephew and son-in-law of Saadat Khan; served as Nawab of Awadh and Wazir of the Mughal Empire.
-- **Shuja-ud-Daulah (1754–1775):** Nawab during Panipat III (1761) and the Battle of Buxar (1764).
-- **Asaf-ud-Daulah (1775–1797):** Shifted the capital from Faizabad to Lucknow and built the Bara Imambara.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Founder of autonomous Awadh = **Saadat Khan Burhan-ul-Mulk (1722)**.
-
+**Explanation:**
+See the explanation of above question.
 </details>
 
-**Q15. UPPCS Spl Mains 2008 / UP R.O./A.R.O. (Pre) 2023**
+---
 
-Consider the following statements about **Saadat Khan Burhan-ul-Mulk**:
-1. He founded the autonomous ruling house of Awadh in 1722.
-2. He committed suicide by taking poison during Nadir Shah’s invasion of Delhi in 1739.
+**Q-GC15. U.P.P.C.S. (Mains) 2006**
 
-Which of the statements given above is/are correct?
+Which one of the following statements is not correct
+about Bahadur Shah Zafar ?
 
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
+- (a) He was an emperor without an empire
+- (b) Ibrahim Zauq and Asad Ullah Khan Ghalib were his poetry teachers
+- (c) Hasan Askari was his spiritual guide
+- (d) He received less than one lakh rupees as pension from East India Company
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Both 1 and 2)
+**Answer: (d)**
 
-**Detailed Explanation:**
-- **Statement 1 is correct:** Saadat Khan was appointed Governor of Awadh in **1722** and established an autonomous hereditary dynastic regime with its initial capital at Faizabad.
-- **Statement 2 is correct:** During the Battle of Karnal (1739), Saadat Khan was captured by Nadir Shah. Hoping to become imperial Wazir, Saadat Khan convinced Nadir Shah to spare Delhi and accept an indemnity of 50 lakh rupees. However, when Nadir Shah reached Delhi and discovered the vast wealth of the Mughals, he furiously demanded 20 crore rupees from Saadat Khan. Utterly unable to raise this astronomical sum and terrified of Nadir Shah's wrath and public disgrace, Saadat Khan committed suicide by taking poison in Delhi in March **1739**.
+**Explanation:**
+Bahadur Shah Zafar received one lakh rupees per month as
 
-**Key Exam Takeaway / Trap:**
-- Both statements represent standard UPPCS questions regarding the tragic end of Awadh's founder. Both are correct.
+a pension, fifteen lakh rupees as rental expenses for his other
 
+estates and one thousand rupees for regular family expenses.
+
+So, option (d) is not correct, but other statements are correct.
 </details>
 
-**Q16. UPPCS (Mains) 2011 / Chhattisgarh PCS 2022**
+---
 
-Who founded the **independent state of Hyderabad (Asaf Jahi dynasty)** in 1724?
+**Q-GC16. 64th B.P.S.C. (Pre) 2018**
 
-A. Zulfiqar Khan
-B. Saadat Khan
-C. Mir Qamar-ud-din Khan (Chin Qilich Khan / Nizam-ul-Mulk)
-D. Nasir Jung
+About Mughal Emperor Bahadur Shah Zafar, it was
+said that his empire extended from :
 
-<details>
-<summary>Show answer</summary>
+- (a) Chandni Chowk to Palam
+- (b) Delhi to Bihar
+- (c) Peshawar to Bihar
+- (d) Peshawar to Varanasi
+- (e) None of the above/More than one of the above
 
-**Correct Answer:** **C** (Mir Qamar-ud-din Khan / Chin Qilich Khan / Nizam-ul-Mulk)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Mir Qamar-ud-din Siddiqi (Chin Qilich Khan / Nizam-ul-Mulk Asaf Jah I):** The pre-eminent leader of the Turani nobility at the Mughal court.
-- In 1722, Emperor Muhammad Shah appointed him imperial Wazir at Delhi. Frustrated by the rampant intrigue, frivolity, and corruption of the emperor's court, Nizam-ul-Mulk resigned his wazirship in late 1723 and marched south to the Deccan without imperial permission.
-- In October **1724**, at the **Battle of Shakar Kheda** (in Berar), he decisively defeated and killed the Mughal Subahdar of the Deccan, **Mubariz Khan**.
-- Reconciling with reality, Muhammad Shah granted him the viceroyalty of the Deccan and the supreme title of **Asaf Jah**. This marked the birth of the autonomous Asaf Jahi dynasty of **Hyderabad**.
+**Answer: (e)**
 
-**Key Exam Takeaway / Trap:**
-- Founder of Hyderabad = **Chin Qilich Khan / Nizam-ul-Mulk Asaf Jah I (1724)** at the **Battle of Shakar Kheda**.
+**Explanation:**
+It was said about last Tughalaq ruler Nasirruddin Mahmud
 
+that, "The rule of the Lord of the world extends from Delhi
+
+to Palam". BPSC had removed this question from evaluation.
 </details>
 
-**Q17. UPPCS (Mains) 2011 / Chhattisgarh PCS 2022**
+---
 
-Which of the following statements about **Chin Qilich Khan** is correct?
+**Q-GC17. U.P.P.C.S. (Spl) (Mains) 2008**
 
-A. He was defeated by Mubariz Khan in 1724
-B. He defeated Mubariz Khan at the Battle of Shakar Kheda (1724) to establish Hyderabad
-C. He was the founder of the kingdom of Awadh
-D. He invited Nadir Shah to invade India
+Who among the following was the first Nawab of Oudh?
 
-<details>
-<summary>Show answer</summary>
+- (a) Asaf-ud-Daula
+- (b) Saadat Khan
+- (c) Shuja-ud-Daula
+- (d) Safdarjung
 
-**Correct Answer:** **B** (He defeated Mubariz Khan at the Battle of Shakar Kheda (1724) to establish Hyderabad)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- At the **Battle of Shakar Kheda** (Berar) on **11 October 1724**, Chin Qilich Khan decisively defeated the imperial Deccan governor **Mubariz Khan**, establishing autonomous rule over the six Deccan subahs.
-- Statement A is inverted (Chin Qilich Khan was the victor, not the defeated party).
-- Statement C is incorrect (Awadh was founded by Saadat Khan).
-- Statement D is incorrect (Saadat Khan of Awadh was widely held responsible for inciting Nadir Shah to march onto Delhi).
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Decisive founding battle of Hyderabad: **Battle of Shakar Kheda (1724)** $ightarrow$ **Nizam-ul-Mulk defeated Mubariz Khan**.
+**Explanation:**
+The first Nawab of Oudh was Saadat Khan. Turanis
 
+established Hyderabad and Iranis established Oudh. In 1722
+
+A.D., Saadat Khan was appointed as the governor of Oudh
+
+where he governed through his heir nephew Safdarjung and
+
+played high politics in Awadh royal court. After his death,
+
+Safdarjung refused to give nominal loyalty to the Mughal
+
+Emperor.
 </details>
 
-**Q18. IAS (Pre) 2021**
+---
 
-Consider the following statements:
-1. The state of Hyderabad was carved out of the Golconda Sultanate by Nizam-ul-Mulk.
-2. Mysore state emerged as an autonomous kingdom out of the Vijayanagara Empire.
-3. Rohilkhand kingdom was formed out of the territories occupied by Ahmad Shah Durrani.
+**Q-GC18. U.P.P.C.S. (RO/ARO) (Pre) 2023**
 
-Which of the statements given above is/are correct?
+With reference to the Burhan-ul-Mulk Saadat Khan,
+which of the following statements is/are correct?
+1. Saadat Khan was the founder of Independent state
+of Awadh.
+2. He took part in the conspiracy against the Sayyid
+Brothers.
+Select the correct answer from the code given below :
+Code -
 
-A. 1 and 2 only
-B. 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+- (a) Only 2
+- (b) Both 1 and 2
+- (c) Neither 1 nor 2
+- (d) Only 1
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (2 only)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Statement 1 is incorrect:** Hyderabad was not carved directly out of the Golconda Sultanate; Golconda had already been annexed to the Mughal Empire by Aurangzeb in 1687. Nizam-ul-Mulk established Hyderabad in 1724 out of the **Mughal subahs of the Deccan**, not from an existing independent Golconda sultanate.
-- **Statement 2 is correct:** The kingdom of **Mysore** emerged in the late 16th/early 17th century under the **Wodeyar dynasty** (founded formally by Raja Wodeyar in 1610 at Srirangapatna) out of the ruins of the southern provinces of the disintegrating **Vijayanagara Empire**.
-- **Statement 3 is incorrect:** The state of **Rohilkhand** was carved out in the upper Gangetic Doab in the 1720s–1740s by Afghan adventurers led by **Ali Muhammad Khan**, taking advantage of the decline of the **Mughal Empire**, decades before Ahmad Shah Durrani's later invasions.
+**Explanation:**
+The independent state of Awadh was formed during reign of
 
-**Key Exam Takeaway / Trap:**
-- UPSC/UPPCS precision trap: Hyderabad was carved out of **Mughal Deccan subahs**, not Golconda; Mysore emerged from **Vijayanagara** (Wodeyars). Only statement 2 is correct.
+Mughal emperor Muhammad Shah. The founder of this state
 
+was Saadat Khan. Saadat Khan had taken the side of emperor
+
+Muhammad Shah in the conspiracy hatched against the Sayyid
+
+brothers. Pleased with his work, Muhammad Shah gave him
+
+the title of Burhan-ul-Mulk. Hence both statements are correct.
 </details>
 
-**Q19. UPPCS (Pre) 2005 / Mains 2007 / 2014 / RAS 2007**
+---
 
-Who built the **Jantar Mantar** astronomical observatories at Delhi, Jaipur, and other cities?
+**Q-GC19. U.P.P.C.S. (Mains) 2011**
 
-A. Raja Man Singh
-B. Mirza Raja Jai Singh
-C. Sawai Jai Singh II of Jaipur
-D. Jaswant Singh of Marwar
+Who among the following was the founder of
+independent Kingdom of Hyderabad?
 
-<details>
-<summary>Show answer</summary>
+- (a) Qamaruddin Khan
+- (b) Muhammad Amin Khan
+- (c) Asad Khan
+- (d) Chin Qilich Khan B
 
-**Correct Answer:** **C** (Sawai Jai Singh II of Jaipur)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Maharaja Sawai Jai Singh II of Amber/Jaipur (1688–1743):** A remarkable statesman, astronomer, mathematician, and town planner. He founded the planned city of **Jaipur** in 1727 (designed by Vidyadhar Bhattacharya).
-- Deeply passionate about astronomy, he found existing brass astrolabes and tables inaccurate. Consequently, he constructed five monumental open-air stone masonry astronomical observatories known as **Jantar Mantar** between 1724 and 1734.
-- **Mirza Raja Jai Singh I:** 17th-century general who served Shah Jahan and Aurangzeb (signed Treaty of Purandar with Shivaji in 1665).
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Do not confuse the two Jai Singhs:
-  - **Mirza Raja Jai Singh I** = 17th century (Treaty of Purandar 1665).
-  - **Sawai Jai Singh II** = 18th century (Founder of Jaipur 1727, builder of Jantar Mantar observatories).
+**Explanation:**
+Chin Qilich Khan aka Nizam-ul-Mulk founded the
 
+independent kingdom of Hyderabad in 1724 A.D. Nizam
+
+became the real king after the death of the Mughal governor
+
+Mubarij Khan in the battle of Sakhar-Kherda of Deccan,
+
+1724 A.D.
 </details>
 
-**Q20. UPPCS (Pre) 2005 / Mains 2007 / 2014 / RAS 2007**
+---
 
-**Sawai Jai Singh II** built **Jantar Mantar** observatories in five cities. Which of the following is the correct list?
+**Q-GC20. Chhattisgarh P.C.S. (Pre) 2022**
 
-A. Delhi, Jaipur, Ujjain, Varanasi, Mathura
-B. Delhi, Jaipur, Agra, Varanasi, Mathura
-C. Delhi, Jaipur, Ujjain, Lucknow, Varanasi
-D. Jaipur, Ujjain, Mathura, Agra, Gwalior
+Which of the following is/are not true?
+(i) Kilich Khan was also known as Mubariz Khan.
+(ii) Nizam-ul-Mulk defeated Mubariz Khan in Battle
+of Shakar Kheda.
+(iii) Julfikar Khan gave Nizam-ul-Mulk with the title
+of Asaf-Jah.
 
-<details>
-<summary>Show answer</summary>
+- (a) Only (i)
+- (b) (i) and (iii)
+- (c) (ii) and (iii)
+- (d) (i), (ii) and (iii)
 
-**Correct Answer:** **A** (Delhi, Jaipur, Ujjain, Varanasi, Mathura)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- Sawai Jai Singh II erected exactly **five** masonry observatories (*Jantar Mantar*) across North and Central India:
-  1. **Delhi** (oldest, built 1724)
-  2. **Jaipur** (largest, containing the world's largest stone sundial, *Vrihat Samrat Yantra*)
-  3. **Ujjain**
-  4. **Varanasi** (at Man Mandir Ghat)
-  5. **Mathura** (located inside the old fort; now largely ruined)
-- **Agra**, **Lucknow**, **Allahabad**, and **Gwalior** never had a Jantar Mantar observatory built by Sawai Jai Singh II.
+**Answer: (*)**
 
-**Key Exam Takeaway / Trap:**
-- Mnemonic for the 5 Jantar Mantars: **D-J-U-V-M** $ightarrow$ **Delhi, Jaipur, Ujjain, Varanasi, Mathura**. The recurring distractor is **Agra**.
+**Explanation:**
+Qilich Khan was called as Nizam-ul-Mulk Asaf Jah. The
 
+Battle of Sakhar Kherda was held in 1724 AD between
+
+Nizam-ul-Mulk and Mubariz Khan. He defeated and killed
+
+Mubariz Khan. Mughal emperor Mohammad Shah gave
+
+Nizam-ul-Mulk the title of Asaf-Jah.
 </details>
 
-**Q21. UPPCS (Pre) 2005 / Mains 2007 / 2014 / RAS 2007**
+---
 
-The astronomical tables known as **Zij Muhammad Shahi** were prepared under the patronage of which ruler?
+**Q-GC21. I.A.S. (Pre.) 2021**
 
-A. Muhammad Shah directly
-B. Sawai Jai Singh II
-C. Saadat Khan
-D. Asaf Jah I
+With reference to Indian history, which of the following
+statements is/are correct?
+1. The Nizamat of Arcot emerged out of Hyderabad
+state.
+2. The Mysore Kingdom emerged out of Vijayanagara
+Empire.
+3. Rohilkhand Kingdom was formed out of the
+territories occupied by Ahmad Shah Durrani.
+Select the correct answer using the code given below.
 
-<details>
-<summary>Show answer</summary>
+- (a) 1 and 2
+- (b) 2 only
+- (c) 2 and 3
+- (d) 3 only
 
-**Correct Answer:** **B** (Sawai Jai Singh II)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- In **1733**, **Maharaja Sawai Jai Singh II** compiled a set of remarkably accurate astronomical tables and star catalogues titled ***Zij Muhammad Shahi*** (The Tables of Muhammad Shah).
-- He dedicated the astronomical work to the reigning Mughal Emperor **Muhammad Shah**, who had officially sanctioned and encouraged his astronomical research and observations.
-- Jai Singh also translated Euclid's *Elements* into Sanskrit as *Rekhaganita* and Ptolemy's *Almagest* as *Siddhantasindhu*.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Author of ***Zij Muhammad Shahi*** = **Sawai Jai Singh II** (dedicated to Emperor Muhammad Shah).
+**Explanation:**
+Nizamat of Arcot was established by Mughal Emperor
 
+Aurangzeb and was the legal dependency of the Nizam of
+
+Hyderabad, it did not emerge from the Hyderabad state.
+
+Hence, statement 1 is not correct. Mysore kingdom emerged
+
+as a powerful state under the Wodeyar dynasty, which initially
+
+served as a vassal of the Vijayanagar empire. Hence statement
+
+2 is correct. Ali Muhammad Khan took advantage of the
+
+collapse of authority in north India following Nadir Shah's
+
+invasion (1739 A.D.), to set up a petty kingdom, Rohilkhand.
+
+Ahmad Shah Durrani started invading India in 1748 A.D.
+
+Hence, statement 3 is not correct.
+</details>
+
+---
+
+**Q-GC22. U.P.P.C.S. (Pre) 2005**
+
+Among the following who had constructed an
+astronomical observatory popularly known as JantarMantar in Delhi?
+
+- (a) Akbar
+- (b) Shah Jahan
+- (c) Suraj Mal
+- (d) Jai Singh- II
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Jai Singh- II constructed an astronomical observatory JantarMantar in Delhi. Rajput King of Amber’s Kachhwaha,
+
+Jai Singh had an interest in Astronomy. He established
+
+observatories in Ujjain, Mathura, Varanasi, Jaipur also
+
+besides Delhi.
+</details>
+
+---
+
+**Q-GC23. U.P.P.C.S. (Mains) 2007**
+
+Where observatories were constructed by Maharaja
+Jai Singh-II ?
+1. Delhi 2. Jaipur
+3. Ujjain 4. Varanasi
+Code :
+
+- (a) 1 and 2
+- (b) 1 and 3
+- (c) 2 and 3
+- (d) 1, 2, 3, and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC24. (d) Maharana Amar Singh of Udaipur, R.A.S./R.T.S.(Pre) 2007**
+
+The book’ Jiz Muhammad Shahi’ related to knowledge
+of Astrology produced in 1773 is written by :
+
+- (a) Darbar Jaswant Singh of Jodhpur
+- (b) Raja Bharmal of Amber
+- (c) Swai Jai Singh of Jaipur
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Sawai Jai Singh (Jai Singh II) of Amber was a great Rajput king
+
+of the 18th century. He established "Jaipur" city and made it a
+
+centre of science and art. He was a great renowned astronomer.
+
+He constructed well-equipped observatories in Delhi, Jaipur,
+
+Ujjain, Mathura and Varanasi. He prepared a set of chart named
+
+Jiz Muhammad Shahi for ease in astronomical observation
+
+journals. He conducted Euclid's "Geometry" in Sanskrit. He
+
+conducted two Ashwamedh sacrifices during his reign.
+</details>
+
+---
+
+**Q-GC25. U.P.P.C.S. (Mains) 2014**
+
+Maharaja Sawai Jai Singh of Jaipur had not built the
+observatory at-
+
+- (a) Ujjain
+- (b) Varanasi
+- (c) Mathura
+- (d) Allahabad
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question. 
+
+Indian History General Studies B–343
+
+III. Modern History of India
 </details>
 
 ---
@@ -2126,7 +2294,11 @@ D. 1, 2 and 3
 - **Statement 3 is correct:** The Dutch United East India Company (**VOC**) was chartered in **1602** and established its first commercial factory in India at **Masulipatnam in 1605**.
 
 **Key Exam Takeaway / Trap:**
-- Mnemonic for arrival order: **P-D-E-D-F** (Portuguese 1498 $ightarrow$ Dutch 1605 $ightarrow$ English 1608/1611 $ightarrow$ Danes 1620 $ightarrow$ French 1668).
+- Mnemonic for arrival order: **P-D-E-D-F** (Portuguese 1498 $
+ightarrow$ Dutch 1605 $
+ightarrow$ English 1608/1611 $
+ightarrow$ Danes 1620 $
+ightarrow$ French 1668).
 
 </details>
 
@@ -2152,7 +2324,9 @@ D. 1, 2 and 3
 - **Statement 3 is correct (Result):** Throughout the 16th century, Portugal maintained a near-monopoly on Indian Ocean sea lanes via their armed naval escort and permit pass system (**Cartaz system**). Their power declined in the 17th century due to internal corruption, religious intolerance, and decisive naval defeats inflicted by the English (Swally 1612) and the Dutch (loss of Malacca 1641 and Ceylon 1658).
 
 **Key Exam Takeaway / Trap:**
-- All three stages (Geopolitical Cause $ightarrow$ Maritime Course $ightarrow$ Hegemony & Decline Result) are historically coherent and accurate.
+- All three stages (Geopolitical Cause $
+ightarrow$ Maritime Course $
+ightarrow$ Hegemony & Decline Result) are historically coherent and accurate.
 
 </details>
 
@@ -2209,9 +2383,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Key Exam Takeaway / Trap:**
 - Do not confuse the early English visitors:
-  - 1585 (Akbar) $ightarrow$ **Ralph Fitch**
-  - 1608/09 (Jahangir) $ightarrow$ **William Hawkins**
-  - 1615 (Jahangir) $ightarrow$ **Sir Thomas Roe**
+  - 1585 (Akbar) $
+ightarrow$ **Ralph Fitch**
+  - 1608/09 (Jahangir) $
+ightarrow$ **William Hawkins**
+  - 1615 (Jahangir) $
+ightarrow$ **Sir Thomas Roe**
 
 </details>
 
@@ -2241,7 +2418,10 @@ D. 3, 1, 2, 4
 - **4. Sir Thomas Roe (September 1615):** Arrived at Surat as King James I's royal ambassador and met Jahangir at Ajmer in January 1616.
 
 **Key Exam Takeaway / Trap:**
-- Exact chronological order: **Fitch (1585) $ightarrow$ Hawkins (1608) $ightarrow$ Downton (1614) $ightarrow$ Roe (1615)**.
+- Exact chronological order: **Fitch (1585) $
+ightarrow$ Hawkins (1608) $
+ightarrow$ Downton (1614) $
+ightarrow$ Roe (1615)**.
 
 </details>
 
@@ -2358,8 +2538,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Key Exam Takeaway / Trap:**
 - Do not conflate the two great 18th-century foreign invasions:
-  - **1739:** **Nadir Shah of Persia** $ightarrow$ Battle of Karnal $ightarrow$ Defeated Muhammad Shah $ightarrow$ Plundered Delhi and Peacock Throne.
-  - **1761:** **Ahmad Shah Abdali of Afghanistan** $ightarrow$ Third Battle of Panipat $ightarrow$ Defeated Marathas under Sadashivrao Bhau.
+  - **1739:** **Nadir Shah of Persia** $
+ightarrow$ Battle of Karnal $
+ightarrow$ Defeated Muhammad Shah $
+ightarrow$ Plundered Delhi and Peacock Throne.
+  - **1761:** **Ahmad Shah Abdali of Afghanistan** $
+ightarrow$ Third Battle of Panipat $
+ightarrow$ Defeated Marathas under Sadashivrao Bhau.
 
 </details>
 
@@ -2415,7 +2600,10 @@ D. 3, 1, 4, 2
 - **4. Battle of Wandiwash:** **1760** (British defeated French in the Third Carnatic War).
 
 **Key Exam Takeaway / Trap:**
-- Chronological anchor: **1707 $ightarrow$ 1717 $ightarrow$ 1739 $ightarrow$ 1760**.
+- Chronological anchor: **1707 $
+ightarrow$ 1717 $
+ightarrow$ 1739 $
+ightarrow$ 1760**.
 
 </details>
 
@@ -2589,7 +2777,10 @@ D. 3, 1, 2, 4
 - **4. French East India Company (*Compagnie des Indes Orientales*):** Founded in **1664** by Jean-Baptiste Colbert under King Louis XIV.
 
 **Key Exam Takeaway / Trap:**
-- Company charter sequence: **English (1600) $ightarrow$ Dutch (1602) $ightarrow$ Danish (1616) $ightarrow$ French (1664)**. *(Note: Portuguese Estado da Índia was established in 1505 as a crown monopoly, not a chartered joint-stock company).*
+- Company charter sequence: **English (1600) $
+ightarrow$ Dutch (1602) $
+ightarrow$ Danish (1616) $
+ightarrow$ French (1664)**. *(Note: Portuguese Estado da Índia was established in 1505 as a crown monopoly, not a chartered joint-stock company).*
 
 </details>
 
@@ -2613,7 +2804,8 @@ D. Neither 1 nor 2
 - **Statement 2 is correct:** In **1632**, Emperor **Shah Jahan**, incensed by Portuguese piracy, unauthorized fortifications, and the abduction and forced baptism of Mughal subjects (including two slave-girls of Empress Mumtaz Mahal), ordered Subahdar **Qasim Khan** to besiege Hooghly. The town was stormed, hundreds of ships were burned, and over 4,000 Portuguese prisoners were marched to Agra.
 
 **Key Exam Takeaway / Trap:**
-- Hooghly milestones: Settled under **Akbar (1579)** $ightarrow$ Sacked and expelled under **Shah Jahan (1632, Qasim Khan)**. Both statements are correct.
+- Hooghly milestones: Settled under **Akbar (1579)** $
+ightarrow$ Sacked and expelled under **Shah Jahan (1632, Qasim Khan)**. Both statements are correct.
 
 </details>
 
@@ -2775,7 +2967,10 @@ D. 3, 1, 4, 2
 - **4. Ilbert Bill Controversy:** **1883–1884** (under Viceroy Lord Ripon).
 
 **Key Exam Takeaway / Trap:**
-- Chronology anchor: **1856 $ightarrow$ 1859 $ightarrow$ 1878 $ightarrow$ 1883**.
+- Chronology anchor: **1856 $
+ightarrow$ 1859 $
+ightarrow$ 1878 $
+ightarrow$ 1883**.
 
 </details>
 

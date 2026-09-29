@@ -189,39 +189,8 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 
 > **Logic:** Eastern boundary = **Alamgirpur**, not Rakhigarhi. IVC economy type = **Urban** (Rigvedic = pastoral). Marshall’s public announcement year is **1924** (excavations begin 1921–22).
 
-**PYQ — UPPCS Prelims 2020, Q21**
-
-Match List-I with List-II: A. Indus Valley Civilization B. Later Vedic Society C. Rigvedic Society D. Medieval Period
-with 1. Pastoral 2. Land Lordism 3. Agrarian 4. Urban
-
-A. 4 2 3 1
-
-B. 2 1 4 3
-
-C. 3 4 1 2
-
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (4, 3, 1, 2)
-
-**Detailed Explanation:**
-- **Historical & Socioeconomic Matching:**
-  - **A. Indus Valley Civilization → 4. Urban:** The hallmark of the Harappan civilization was its advanced urban planning, featuring grid-patterned streets, burnt-brick architecture, citadel-lower town divisions, specialized crafts, standard weights, and overseas trade (First Urbanization of India).
-  - **B. Later Vedic Society → 3. Agrarian:** With the widespread introduction of iron tools (*krishna-ayas*) around 1000 BCE in the Upper Ganga plain (e.g., Atranjikhera), agriculture replaced pastoralism as the primary subsistence mode, leading to sedentary territorial chiefdoms (*janapadas*).
-  - **C. Rigvedic Society → 1. Pastoral:** The early Vedic Aryans (*Rigveda*) were primarily semi-nomadic pastoralists where cattle (*gau*) formed the chief source of wealth, warfare (*gavishti* = search for cows), and identity, with agriculture playing a secondary role.
-  - **D. Medieval Period → 2. Land Lordism (Feudalism):** Characterized by the extensive alienation of land revenues through religious and secular land grants (brahmadeya, agrahara, iqta, and jagirdari systems), creating intermediary landlords between the state and the cultivating peasantry.
-- **Code Match:** A-4, B-3, C-1, D-2, matching Option **D**.
-
-**Key Exam Takeaway / Trap:**
-- Evolution of Indian socioeconomic stages:
-  - **Indus Valley = Urban (Bronze Age)**
-  - **Rigvedic = Pastoral (Cattle-centric)**
-  - **Later Vedic = Agrarian (Iron-enabled)**
-  - **Medieval = Land Lordism / Feudalism (Land grants & intermediaries)**.
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2020, Q21]:** IVC = Urban; Later Vedic = Agrarian; Rigvedic = Pastoral; Medieval = Land Lordism. *(See Q5 in Complete PYQ Bank below)*
 
 ---
 
@@ -367,35 +336,8 @@ D. 4 3 1 2
 
 > **Logic:** Mandi is not Manda**. Rakhigarhi is not in Uttar Pradesh. Padri is Gujarat. Balu is Haryana. Hulas is Uttar Pradesh.
 
-**PYQ — UPPCS Prelims 2020, Q12**
-
-Match: A. Balu B. Manda C. Padri D. Hulas
-with 1. UP 2. J&K 3. Haryana 4. Gujarat
-
-A. 3 2 1 4
-
-B. 2 3 4 1
-
-C. 2 4 3 1
-
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (3, 2, 4, 1)
-
-**Detailed Explanation:**
-- **Geographical Site Matching:**
-  - **A. Balu → 3. Haryana:** Located in Kaithal district, Haryana. Excavated by Kurukshetra University, Balu revealed Early, Mature, and Late Harappan levels with rich plant remains (garlic, horsegram).
-  - **B. Manda → 2. Jammu & Kashmir:** Situated on the right bank of the Chenab River in the foothills of the Pir Panjal range (Akhnoor tehsil, Jammu district). Excavated by J.P. Joshi in 1977, Manda marks the **northernmost limit** of the Harappan Civilization.
-  - **C. Padri → 4. Gujarat:** Located in Bhavnagar district on the Gulf of Khambhat, Gujarat. Excavated by Vasant Shinde; known for early pottery, coarse red ware, and copper fishhooks.
-  - **D. Hulas → 1. Uttar Pradesh:** Located in Nakur tehsil of Saharanpur district, UP, on the Katha Nala (Yamuna drainage). Excavated by K.N. Dikshit; a vital Late Harappan site yielding pottery, non-perforated seals, and crop remains.
-- **Code Match:** A-3, B-2, C-4, D-1, matching Option **D**.
-
-**Key Exam Takeaway / Trap:**
-- Memorize the state associations: **Balu (Haryana)**, **Manda (J&K - northernmost)**, **Padri (Gujarat)**, and **Hulas (Saharanpur, UP)**.
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2020, Q12]:** Balu (Haryana), Manda (J&K), Padri (Gujarat), Hulas (Saharanpur, UP). *(See Q6 in Complete PYQ Bank below)*
 
 ---
 
@@ -455,108 +397,17 @@ D. 3 2 4 1
 
 > **Logic:** UP site pair = **Mandi + Hulas**; Rakhigarhi is in Haryana. Eastern boundary = **Alamgirpur**; Kalibangan and Lothal are not the eastern edge. Hulas = **Saharanpur**; Sanauli = **Baghpat**.
 
-**PYQ — UPPCS Prelims 2025, Q87**
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2025, Q87]:** Harappan sites in UP include **Mandi** and **Hulas**; Rakhigarhi is in Haryana. *(See Q1 in Complete PYQ Bank below)*
 
-Which IVC sites are in present-day Uttar Pradesh? 1. Mandi 2. Rakhigarhi 3. Hulas
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2023, Q28]:** Easternmost boundary of Harappan culture is **Alamgirpur** on Hindon River (Meerut, UP). *(See Q2 in Complete PYQ Bank below)*
 
-A. 1 and 2
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2021, Q100]:** Harappan site **Mandi** is situated in Muzaffarnagar district, Uttar Pradesh. *(See Q-GC75 in Ghatna Chakra Bank below)*
 
-B. Only 3
-
-C. 1 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (1 and 3)
-
-**Detailed Explanation:**
-- **Analysis of Sites:**
-  - **1. Mandi (Present-day UP):** Located in Muzaffarnagar district of Western Uttar Pradesh. In May 2000, villagers leveling an agricultural field uncovered a sensational cache of Mature/Late Harappan gold jewelry (bangles, beads, micro-beads) weighing over 10 kg, making it a prominent UP Harappan site.
-  - **2. Rakhigarhi (Haryana):** Situated on the dry bed of the Ghaggar-Hakra (Drishadvati) River in Hisar district, **Haryana**. Excavated by Amarendra Nath and Vasant Shinde, Rakhigarhi is the largest Harappan site in India (~350–550 hectares), NOT in Uttar Pradesh!
-  - **3. Hulas (Present-day UP):** Situated in Saharanpur district of Western Uttar Pradesh, near the Upper Ganga-Yamuna Doab, excavated by K.N. Dikshit. It represents a vital Late Harappan settlement.
-- **Conclusion:** Sites 1 (Mandi) and 3 (Hulas) are situated in Uttar Pradesh, matching Option **C**.
-
-**Key Exam Takeaway / Trap:**
-- Key Harappan sites of Uttar Pradesh: **Alamgirpur (Meerut)**, **Hulas (Saharanpur)**, **Mandi (Muzaffarnagar)**, and **Sanauli (Baghpat)**. Rakhigarhi, Banawali, and Mitathal are in **Haryana**!
-</details>
-
-**PYQ — UPPCS Prelims 2023, Q28**
-
-The eastern boundary of the Harappan culture is indicated by which of the following?
-A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Alamgirpur)
-
-**Detailed Explanation:**
-- **The Four Cardinal Extremes of the Harappan Civilization:**
-  - **Eastern Extreme:** **Alamgirpur** (located on the Hindan River, a tributary of the Yamuna, in Meerut district, Uttar Pradesh). Excavated by Y.D. Sharma in 1958, it marks the easternmost boundary of the Harappan world.
-  - **Western Extreme:** **Sutkagen-dor** (located on the Dasht River near the Makran coast, Balochistan, Pakistan-Iran border).
-  - **Northern Extreme:** **Manda** (located on the Chenab River in Akhnoor, Jammu & Kashmir). (Shortugai in Badakhshan, Afghanistan, is an isolated Harappan trading outpost further north).
-  - **Southern Extreme:** **Daimabad** (located on the Pravara River, an arm of the Godavari, in Ahmednagar district, Maharashtra).
-- **Distractor Analysis:**
-  - Harappa: Core urban center in Punjab (Pakistan).
-  - Rakhigarhi: Largest Harappan site, situated in Hisar (Haryana).
-  - Manda: Marks the northernmost frontier in J&K.
-
-**Key Exam Takeaway / Trap:**
-- The four boundary anchors: **North = Manda (J&K) | South = Daimabad (Maharashtra) | East = Alamgirpur (UP) | West = Sutkagen-dor (Balochistan)**.
-</details>
-
-**PYQ — UPPCS Prelims 2021, Q100**
-
-In which State of India is the Harappan Civilization site Mandi situated?
-A. Gujarat B. Haryana C. Rajasthan D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Uttar Pradesh)
-
-**Detailed Explanation:**
-- **Discovery of Mandi:** In May **2000**, the village of **Mandi** in **Muzaffarnagar district, Western Uttar Pradesh**, came into national prominence when a massive hoard of Harappan gold ornaments, spacer beads, copper containers, and semi-precious stone beads was accidentally unearthed by villagers plowing a field.
-- **Site Significance:** Archaeological Survey of India (ASI) excavations confirmed Mandi as a major craft-specialization, trading, and bead-storing outpost of the Late/Mature Harappan phase in the Upper Doab.
-- **Phonological Distractor Warning:**
-  - Do not confuse **Mandi** (Muzaffarnagar district, Uttar Pradesh) with **Manda** (Jammu district, Jammu & Kashmir, the northernmost boundary on the Chenab).
-
-**Key Exam Takeaway / Trap:**
-- **Mandi = Uttar Pradesh (Muzaffarnagar)**. **Manda = Jammu & Kashmir (Akhnoor/Chenab)**.
-</details>
-
-**PYQ — UPPCS Prelims 2018, Q88**
-
-Which centres related to Indus Valley are in Uttar Pradesh?
-I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
-
-A. I, II, III, IV
-
-B. I, II
-
-C. II, III
-
-D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (III, IV)
-
-**Detailed Explanation:**
-- **Analysis of Sites:**
-  - **I. Kalibangan:** Located on the left bank of the dry Ghaggar River in Hanumangarh district, **Rajasthan**. Famous for ploughed fields, fire altars, and wooden furrows.
-  - **II. Lothal:** Located on the Bhogava River near the Gulf of Khambhat in Ahmedabad district, **Gujarat**. Famous for the tidal dockyard and rice husk.
-  - **III. Alamgirpur:** Located on the Hindan River in Meerut district, **Uttar Pradesh**. Marks the easternmost limit of the civilization.
-  - **IV. Hulas:** Located on the Katha Nala in Saharanpur district, **Uttar Pradesh**. Important Late Harappan settlement.
-- **Conclusion:** Only III (Alamgirpur) and IV (Hulas) are located in present-day Uttar Pradesh, matching Option **D**.
-
-**Key Exam Takeaway / Trap:**
-- Standard UPPCS elimination: Kalibangan is in **Rajasthan**, Lothal is in **Gujarat**.
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2018, Q88]:** Harappan centres in UP = **Alamgirpur** and **Hulas** (Kalibangan = RJ, Lothal = GJ). *(See Q7 in Complete PYQ Bank below)*
 
 ---
 
@@ -590,29 +441,8 @@ D. III, IV
 
 > **Logic:** The dockyard is **Lothal**. Boat models are **Mohenjo-daro and Lothal**. Dholavira is not the port in that question.
 
-**PYQ — UPPCS Prelims 2022, Q68**
-
-From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
-A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Mohenjo-daro and Lothal)
-
-**Detailed Explanation:**
-- **Diagnostic Monumental Features:**
-  - **Great Bath:** The most iconic public ritual structure of the Harappan civilization, built of finely fitted gypsum-mortared baked bricks and sealed with bitumen, discovered exclusively at **Mohenjo-daro** (Larkana district, Sindh) by John Marshall.
-  - **Tidal Dockyard:** The world's earliest engineered tidal brick basin for berthing overseas cargo ships, discovered exclusively at **Lothal** (Ahmedabad district, Gujarat) by S.R. Rao.
-  - **Double Burial:** The unique mortuary practice of interring a male and female skeleton together in a single brick-lined grave pit was excavated at **Lothal**.
-- **Distractor Analysis:**
-  - Dholavira: Famous for rock-cut water reservoirs and a 10-character signboard inscription, but has no tidal dockyard or Great Bath.
-  - Harappa: Famous for the Granaries (Great Granary), workmen's quarters, and Cemetery R-37.
-  - Kalibangan: Famous for the furrowed ploughed field and row of fire altars.
-
-**Key Exam Takeaway / Trap:**
-- Great Bath = **Mohenjo-daro**; Dockyard + Double Burial = **Lothal**.
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2022, Q68]:** Models/representations of boats excavated at **Mohenjo-daro** and **Lothal**. *(See Q3 in Complete PYQ Bank below)*
 
 ---
 
@@ -1057,25 +887,7 @@ D. Kalibangan and Ropar
 
 ### UPPCS Prelims 2021
 
-**Q4. UPPCS Prelims 2021, Q100**
 
-In which State of India is the Harappan Civilization site Mandi situated?
-
-A. Gujarat B. Haryana C. Rajasthan D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Uttar Pradesh)
-
-**Detailed Explanation:**
-- **Site Profile:** **Mandi** is a Late/Mature Harappan settlement located in **Muzaffarnagar district, Uttar Pradesh**.
-- **Sensational Hoard:** In 2000, accidental discovery of jewelry pots containing hundreds of gold foil beads, spacer beads, gold bangles, and precious stones proved the extensive trade penetration of Harappan craft guilds into the Upper Doab of Uttar Pradesh.
-- **Trap:** Do not confuse with **Manda** on the Chenab in Jammu & Kashmir.
-
-**Key Exam Takeaway / Trap:**
-- Mandi = **Muzaffarnagar, Uttar Pradesh**. Manda = **Jammu & Kashmir**.
-</details>
 
 ### UPPCS Prelims 2020
 
@@ -3533,6 +3345,8 @@ D. Geological change — Daya Ram Sahni as excavator theory only
   - **Climate change & river desiccation** = Aurel Stein & A.N. Ghosh.
   - **Ecological imbalance** = Walter Fairservis.
 </details>
+
+
 
 ## Practice Zone — UPPCS Format Drill
 

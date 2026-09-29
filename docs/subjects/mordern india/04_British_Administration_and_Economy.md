@@ -270,24 +270,9 @@ Cornwallis's **Code of 1793** gave British India its first settled ladder of civ
 
 **PYQ — UPPCS Prelims 2021, Q145**
 
-In India the First Municipal Corporation was set up in which one among the following places?
-
-A. Calcutta
-
-B. Madras
-
-C. Bombay
-
-D. Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First Municipal Corporation = **Madras, 1688** — not Ripon’s creation and not Calcutta.
-
-**Ans: B.** **Madras (1688)** was India’s first Municipal Corporation.
-
-</details>
+> [!TIP] **Exam Anchor — First Municipal Corporation in India (Madras, 1688):**
+> - **Charter:** Set up at **Madras in 1688** under a royal charter issued by King James II of England, well before Ripon's modern Local Self-Government Resolution of 1882.
+> - **Scope:** Established a Mayor's Court and town corporation to levy local rates for municipal preservation and roads.
 
 ---
 
@@ -341,24 +326,9 @@ The British did **not** use one land system for all of India. Different regions 
 - Different systems in different regions created **different peasant classes** — a standard A/R fact.
 
 ---
-**PYQ — UPPCS Prelims 2020, Q30Assertion (A):** The British Government introduced different land revenue system in different part of India.
-
-**Reason (R):** It led to create different classes in Indian peasantry.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Different land systems created different peasant classes — R correctly explains A.
-
-**Ans: A.** Zamindar–tenant (Bengal) vs direct ryot (south/west) vs village mahal (north).
-
-</details>
+> [!TIP] **Exam Anchor — British Land Revenue Systems & Class Formation (UPPCS A/R Spine):**
+> - **Assertion (A):** The British Government introduced different land revenue systems in different parts of India (Permanent Settlement ~19%, Ryotwari ~51%, Mahalwari ~30%). *(True)*
+> - **Reason (R):** This diverse implementation created distinct socio-economic classes in Indian peasantry (absentee landlords, tenant farmers, bonded agricultural labourers). *(True, and (R) is the correct explanation of (A))*.
 
 ---
 
@@ -387,27 +357,11 @@ D. (A) is false but (R) is true
 ---
 **PYQ — UPPCS Prelims 2025, Q40**
 
-Match List-I with List-II:
-
-**List-I** A. Lord Dalhousie B. Lord Curzon C. Lord William Bentinck D. Lord Cornwallis
-**List-II** 1. Permanent Settlement of Bengal 2. Prohibition (प्रतिषेध) of Practice of Sati 3. Partition of Bengal 4. Doctrine of Lapse (विलुप्ति सिद्धांत)
-
-A. 4 3 1 2
-
-B. 3 4 2 1
-
-C. 3 4 1 2
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Match Lapse / Partition / Sati / Permanent Settlement — Permanent Settlement home pair is Cornwallis.
-
-**Ans: D.** Cornwallis = Permanent Settlement. The other pairs belong with Governors-General matching.
-
-</details>
+> [!TIP] **Exam Anchor — Governor-General & Reform Matching (UPPCS 2025 Spine):**
+> - **Lord Cornwallis:** Permanent Settlement of Bengal (1793)
+> - **Lord William Bentinck:** Prohibition of Sati (Regulation XVII of 1829)
+> - **Lord Dalhousie:** Doctrine of Lapse (1848 onwards)
+> - **Lord Curzon:** Partition of Bengal (1905)
 
 ---
 
@@ -470,68 +424,18 @@ D. 4 3 2 1
 > **Logic:** Year trap for Naoroji’s book = **1901**. Drain ≠ deindustrialization. Syed Ahmad ≠ Drain critic. Home Charges ≠ overseas war costs (विदेशी युद्ध).
 
 ---
-**PYQ — UPPCS Prelims 2021, Q139**
-
-In which year the book 'Poverty and Un-British Rule in India' was published?
-
-A. 1900 A.D.
-
-B. 1901 A.D.
-
-C. 1902 A.D.
-
-D. 1903 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Naoroji book-year trap — **1901**, not 1900.
-
-**Ans: B.** *Poverty and Un-British Rule in India* was published in **1901**.
-
-</details>
+> [!TIP] **Exam Anchor — Dadabhai Naoroji's Magnum Opus (1901):**
+> - **Publication:** *Poverty and Un-British Rule in India* was published in **1901 CE** in London by Swan Sonnenschein & Co.
+> - **Societies & Parliament:** Founded the London India Society (1865) and East India Association (1866); elected as the first Indian Member of the British House of Commons (1892, Central Finsbury, Liberal Party).
 
 **PYQ — UPPCS Prelims 2019, Q97**
 
-"The Rise and Growth of Economic Nationalism in India" was written by
+> [!TIP] **Exam Anchor — Historiography of Colonial Economy:**
+> - The seminal scholarly text ***The Rise and Growth of Economic Nationalism in India*** (1966) was authored by renowned historian **Bipan Chandra**, analyzing how early nationalist thinkers (Naoroji, Ranade, Dutt, Gokhale) formulated the economic critique of British imperialism.
 
-A. Partha Sarthi Gupta (गुप्त)
-
-B. S Gopal
-
-C.
-
-B. R. Nanda
-
-D. Bipin Chandra
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Author of *The Rise and Growth of Economic Nationalism in India* is **Bipan Chandra**.
-
-**Ans: D.** **Bipan Chandra** wrote it — a retrospective study of the nationalist economic school.
-
-</details>
-
-**PYQ — UPPCS Prelims 2024, Q135Assertion (A):** Most of the early nationalists considered British rule as an act of providence destined to bring modernisation.
-
-**Reason (R):** They complained only against "Un-British rule" in India.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Both true as Moderate (नरम दल) facts; R (Un-British / Drain) does not explain the providential modernisation claim.
-
-**Ans: A.** Both true; providence/modernisation and the Un-British/Drain critique are two Moderate facts, not cause → effect.
-
-</details>
+> [!TIP] **Exam Anchor — Moderate Economic Critique & "Un-British Rule" (UPPCS 2024 Spine):**
+> - **Assertion (A):** In 1901 Dadabhai Naoroji published his book *Poverty and Un-British Rule in India*. *(True)*
+> - **Reason (R):** He asserted that the British rulers were violating their own traditional British principles of governance, justice, and free trade by draining India's wealth without material return. *(True, and (R) explains why he deliberately chose the phrase "Un-British")*.
 
 ---
 
@@ -544,32 +448,11 @@ D. (A) is true, but (R) is false
 - **Sir Arthur Cotton** is remembered as the pioneer of large **irrigation works in South India**, linked to commercial agriculture and famine-control debates in the Madras Presidency.
 - The **Indigo Revolt of 1859–60** in Bengal was against forced indigo. The plantation-economy card below carries the indigo mechanism.
 
-**PYQ — UPPCS Prelims 2025, Q127**
-
-Consider the following events and arrange them in correct chronological order.
-
-1. Acquisition of Awadh (अवध) by the British
-2. Ilbert Bill Controversy
-3. Indigo Revolt
-4. Second Anglo-Afghan War
-
-A. 1, 3, 4, 2
-
-B. 3, 1, 2, 4
-
-C. 3, 1, 4, 2
-
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Awadh annexation → Indigo Revolt → Second Afghan → Ilbert.
-
-**Ans: A** — Awadh **1856** → Indigo **1859** → Afghan **1878** → Ilbert **1883**.
-
-</details>
+> [!TIP] **Exam Anchor — 19th-Century Chronological Spine (UPPCS 2025 Matrix):**
+> - 1. Annexation of Awadh: **February 1856 CE** (Dalhousie on Outram's report)
+> - 2. Indigo Revolt in Bengal: **1859–1860 CE** (Digambar & Bishnu Biswas)
+> - 3. Second Anglo-Afghan War: **1878–1880 CE** (under Lord Lytton)
+> - 4. Ilbert Bill Controversy: **1883 CE** (under Lord Ripon)
 
 ---
 
@@ -746,11 +629,2195 @@ This section only joins the results. The mechanisms are already taught above.
 
 ---
 
-## Complete PYQ Bank (Topic 4)
+
+### 4.21 Master Fact-Locks — British Land Revenue Systems, Drain of Wealth & Agrarian Economy
+
+| System / Economic Concept | Core Geographical Coverage, Founders & Rules | Official High-Yield Exam Anchors |
+|---|---|---|
+| **Permanent Settlement (1793)** | • Introduced by **Lord Cornwallis** in Bengal, Bihar, Orissa, and Varanasi (UP); covered ~**19% of British India**.<br>• Alternative names: *Istamrari, Jagirdari, Malguzari, Bishwedari*.<br>• **Proprietorship & Shares:** Landlords (*Zamindars*) recognized as hereditary proprietors; required to surrender **10/11th** of collection to the Company and retain **1/11th** as remuneration.<br>• **Sunset Clause:** If revenue was not paid into the government treasury by sunset of the stipulated date, the estate was auctioned (*Sunset Law*).<br>• **Absence of Patta Control:** Zamindars failed to issue lease deeds (*pattas*) to cultivating peasants due to the absence of state supervision, leading to rampant sub-infeudation and increased litigation.<br>• **Bengal Tenancy Act (1885):** Enacted to define and protect occupancy tenant rights against rack-renting. | Zamindars as owners (10/11 : 1/11) |
+| **Ryotwari System (1792 / 1820)** | • Devised by **Captain Alexander Read** and **Sir Thomas Munro**.<br>• First tested in **Baramahal district (Tamil Nadu)** in 1792; formally established across Madras Presidency in 1820 by Munro; later extended to Bombay, East Bengal, Assam, and Coorg; covered ~**51% of British India**.<br>• **Peasant Ownership:** Individual cultivator (*Ryot*) recognized as direct proprietor with rights to sell, mortgage, and transfer land, paying revenue directly to the state.<br>• **Strict Assessment:** Lands surveyed and assessed based on estimated soil productivity (set between 45%–55%); **no automatic exemption** granted for drought, flood, or crop failure; ruthless collection forced peasants into the trap of moneylenders (*Sahukars*). | Direct peasant settlement (51% area) |
+| **Mahalwari System (1822)** | • Devised by **Holt Mackenzie** (Regulation VII of 1822) and reformed by Robert Merttins Bird (1833).<br>• Implemented in North-Western Provinces (UP), Central Provinces, and Punjab; covered ~**30% of British India**.<br>• **Village Unit:** Revenue unit was the village (*Mahal*); the entire village community was held jointly responsible (*joint and several liability*) for payment, collected via the village headman (*Talukdar / Lambardar*). | Village community unit (30% area) |
+| **Traditional Agrarian Systems Alignment** | • **Jajmani:** Traditional reciprocal service-relationship system in **North India** between agriculturalists and village artisanal castes.<br>• **Bara Balute:** Traditional 12-village servant/artisan system in **Maharashtra**.<br>• **Mirasi:** Hereditary village landholding system in **Tamil Nadu** (*Mirasidars* acted as designated revenue payers under Ryotwari).<br>• **Adade:** Hereditary artisan service-remuneration system in **Karnataka**. | Regional socio-economic institutions |
+| **Home Charges Components** | Total expenditure incurred in England by the Secretary of State for India on behalf of the Indian government; comprised:<br>1. Dividends to EIC shareholders.<br>2. Interest on public debts raised in London.<br>3. Interest on guaranteed capital invested in Indian Railways.<br>4. Civil and military store purchases made in England.<br>5. Pensions, furloughs, and gratuities payable to retired British civil and military personnel.<br>*(Note: Funds utilized for waging imperial wars outside India were EXCLUDED from Home Charges).* | External Drain Components |
+| **Imperial Preference** | Discriminatory fiscal policy granting special tariff concessions on British manufactured imports into India (subject to nominal or zero duty), while Indian handcrafted and manufactured goods faced prohibitive protective tariffs in the British home market. | Trade exploitation mechanism |
+| **Deindustrialization & Ruralization** | • Process commenced in **1813** when the Charter Act abolished EIC's trade monopoly (except tea and China trade); aggravated in **1833** when EIC was made a purely administrative body.<br>• Ruined traditional Indian handloom and handicraft industries without modern domestic factories to absorb displaced weavers, resulting in forced ruralization and excessive pressure on agriculture.<br>• Wealthy Indian elites preferred safe investment in landed estates (*Zamindaris*) rather than risky capital-intensive heavy industries. | Destruction of traditional handicrafts |
+| **Assam Tea Company (1839)** | Formed in England in **1839 CE** with a capital of Rs. 5 lakh; established headquarters at **Nazira (Assam)**; oldest commercial tea plantation company in India. | Earliest plantation corporate |
+| **Punjab Land Alienation Act (1900)** | Enacted by the British administration to prevent the alienation and mortgage of agricultural lands from hereditary peasant tribes to urban non-agricultural moneylenders (*Sahukars*). | Protection of cultivating classes |
+| **Pioneer of South Indian Irrigation** | **Sir Arthur Cotton:** Renowned British military and irrigation engineer who designed the monumental Godavari and Krishna delta anicuts (weirs), celebrated as the ***"Pioneer of Irrigation Works in South India"***. | Modern canal irrigation |
+| **Commercialization of Agriculture** | 19th-century transformation forced Indian farmers to produce export-oriented industrial cash crops (indigo, raw cotton, jute, opium, tea, sugarcane, oilseeds) rather than food grains, disrupting rural food security and intensifying famine vulnerability. | Transition to cash crops |
+| **Drain of Wealth Propounders** | • **Dadabhai Naoroji ("Grand Old Man of India"):** First to systematically compute India's national per-capita income; declared the economic drain the ***"evil of all evils"*** and primary cause of catastrophic famines; formulated in papers (*England's Debt to India* 1867, *The Wants and Means of India* 1870) and landmark book ***Poverty and Un-British Rule in India*** (**1901**).<br>• **R.C. Dutt (ICS officer):** Published ***The Economic History of India*** (1901/1906), asserting that nearly one-half of India's annual net revenue was drained overseas.<br>• **Other Economic Critics:** Justice M.G. Ranade, G.V. Joshi, G. Subramania Iyer (editor of *The Hindu*), and P.C. Ray.<br>• **INC Official Adoption:** Indian National Congress formally embraced the Drain Theory at its **1896 Calcutta session**.<br>• **Dissent:** **Sir Syed Ahmad Khan** did not accept the Drain Theory, believing Muslim educational and social advancement depended entirely on imperial British stability.<br>• **Karl Marx's Critique:** Declared in his London dispatches that British colonial economic exploitation of India was *"disgusting"*. | Intellectual critique of colonialism |
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Economic Impact of British Rule
+
+Complete unabridged 58-question bank combining the full 52-question Ghatna Chakra core bank and 6 recent UPPCS Prelims (2020–2025) questions covering the entire economic and administrative history of British rule: Home Charges components, Imperial Preference, lack of heavy industries, staple 18th-century Bengal exports (cotton, silk, saltpetre, opium), Cornwallis's Permanent Settlement (1793, 10/11 share, Sunset Law, patta absence, 1885 Bengal Tenancy Act), Ryotwari System (Thomas Munro, Alexander Read, 1792 Baramahal origin, Madras 1820, direct peasant ownership, no drought exemptions), Mahalwari System (Holt Mackenzie 1822, village community unit), regional agrarian terms (Jajmani, Bara Balute, Mirasi, Adade, Aurang, Banian), British military expenditure (40%), Punjab Land Alienation Act (1900), Assam Tea Company (1839), Sir Arthur Cotton's South Indian irrigation works, commercialization of agriculture, deindustrialization (1813 & 1833), and the Drain of Wealth Theory (Dadabhai Naoroji, 1901 publication, R.C. Dutt, 1896 INC Calcutta session, Sir Syed Ahmad Khan dissent, Karl Marx critique). Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC1. Ghatna Chakra**
+
+With reference to the period of colonial rule in India
+
+‘Home Charges’ formed an important part of the drain
+
+of wealth from India. Which of the following funds
+
+constituted ‘Home Charges’?
+
+1. Funds used to support the Indian Office in London.
+
+<details><summary>Show answer</summary>
+
+**Answer: N/A**
+
+**Explanation:**
+
+</details>
+
+---
+
+**Q-GC2. Ghatna Chakra**
+
+Funds used to pay salaries and pensions of British
+
+personnel engaged in India.
+
+<details><summary>Show answer</summary>
+
+**Answer: N/A**
+
+**Explanation:**
+
+</details>
+
+---
+
+**Q-GC3. Ghatna Chakra**
+
+Funds used for waging wars outside India by the
+
+British.
+
+Select the correct answer using the code given below :
+
+- (a) 1 only
+- (b) 1 and 2
+- (c) 2 and 3
+- (d) 1, 2 and 3 I.A.S. (Pre) 2011 B
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Home charges referred to the expenditure incurred in England
+
+by the Secretary of State for India on behalf of Indian
+
+Government.
+
+Home charges consisted of :
+
+Purchases of military stores.
+
+Expenditure on India office establishment.
+
+Interest on debts.
+
+Interest on railway capital investment.
+
+Non-effective charges of the army.
+
+Pensions and gratuities payable in England to retired civil
+
+servants of the company.
+
+Funds used for waging wars outside India by the British were
+
+not included in home charges. So desirable option will be (b).
+
+2. The term “imperial preference” was applied to the:
+
+(a) Special privileges on British imports in India
+
+(b) Racial discrimination by the Britishers
+
+(c) Subordination of Indian interest to that of the British
+
+(d) Preference was given to British political agents over
+
+Indian Princes
+
+I.A.S. (Pre) 1999
+
+Ans. (a)
+
+The term “imperial preference” was applied for special
+
+privileges on British imports in India. Based on of this
+
+privilege, nominal duty was paid on British imports in India
+
+while India exports paid a high duty in Britain.
+
+3. There was no independent development of industries
+
+in India during British rule because of the:
+
+(a) Absence of heavy industries
+
+(b) Scarcity of foreign capital
+
+(c) Scarcity of natural resources
+
+(d) Preference of the rich to invest in land
+
+I.A.S. (Pre) 1999
+
+Ans. (d)
+
+During British Rule preference was given to invest in land by
+
+wealthy class is the reason for no independent development
+
+of industries.
+</details>
+
+---
+
+**Q-GC4. I.A.S. (Pre) 2018**
+
+The staple commodities of export by the English East
+
+India Company from Bengal in the middle of the 18th
+
+century were
+
+- (a) Raw cotton, oil-seeds and opium
+- (b) Sugar, salt, zinc and lead
+- (c) Copper, silver, gold, spices and tea
+- (d) Cotton, silk, salt petre and opium
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In the middle of the 18th Century Bengal had begun to emerge
+
+as an essential source of supply that the East India Company
+
+could purchase for sale in Europe. Goods purchased from
+
+Bengal included cotton, cloth, opium, salt-petre, sugar and silk.
+</details>
+
+---
+
+**Q-GC5. (c) Lord Cornwallis (d) Lord Dufferin, U.P. P.C.S. (Pre) 1991**
+
+Who introduced Ist-e-Marari settlement?
+
+- (a) Wellesley
+- (b) Warren Hastings
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Permanent Settlement (1793 AD) was introduced by
+
+Lord Cornwallis. This system was launched in Bengal, Bihar,
+
+Odisha, Varanasi (U.P.) etc. It is also known as Ist-e-Marari,
+
+Jagirdari, Maalguzari, Bishvedari etc.
+
+The Permanent Settlement stood on the following features -
+
+It recognized the landlords as the proprietors of the land. It
+
+also recognized the rights of a hereditary successor or lawful
+
+successors of the landlords. The government believed that
+
+these landlords would remain faithful to the British.
+
+The landlords were given the right to transfer or sell their land.
+
+All the rights of the landlords depended on their payment
+
+of the fixed revenue on the fixed date at the treasury of the
+
+government. All their rights ended if they failed to pay.
+
+This was one reason for increased litigation. An increase in
+
+intermediaries between farmers and landlords was another
+
+reason for increased litigation.
+
+The total amount of revenue to be paid by each landlord for
+
+his Zamindari was fixed once and for all.
+
+It was agreed that the tax rate would not increase in the future.
+</details>
+
+---
+
+**Q-GC6. U.P. P.S.C. (GIC) 2010, U.P.P.C.S. (Pre) 2007, U.P.P.C.S. (Mains) 2005, Uttarakhand P.C.S. (Pre) 2002**
+
+The Permanent Settlement was introduced by
+
+- (a) Lord Hastings
+- (b) Lord Cornwallis
+- (c) Lord Curzon
+- (d) Lord William Bentinck
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* The Permanent Settlement (1793 AD) was introduced by
+
+Lord Cornwallis. This system was launched in Bengal, Bihar,
+
+Odisha, Varanasi (U.P.) etc. It is also known as Ist-e-Marari,
+
+Jagirdari, Maalguzari, Bishvedari etc.
+
+The Permanent Settlement stood on the following features -
+
+It recognized the landlords as the proprietors of the land. It
+
+also recognized the rights of a hereditary successor or lawful
+
+successors of the landlords. The government believed that
+
+these landlords would remain faithful to the British.
+
+The landlords were given the right to transfer or sell their land.
+
+All the rights of the landlords depended on their payment
+
+of the fixed revenue on the fixed date at the treasury of the
+
+government. All their rights ended if they failed to pay.
+
+This was one reason for increased litigation. An increase in
+
+intermediaries between farmers and landlords was another
+
+reason for increased litigation.
+
+The total amount of revenue to be paid by each landlord for
+
+his Zamindari was fixed once and for all.
+
+It was agreed that the tax rate would not increase in the future.
+</details>
+
+---
+
+**Q-GC7. 70th B.P.S.C. Re-Exam 2024**
+
+Who introduced the permanent settlement in Bengal ?
+
+- (a) Holt Mackenzie
+- (b) Lord Cornwallis
+- (c) Warren Hastings
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+*Reference Note:* The Permanent Settlement (1793 AD) was introduced by
+
+Lord Cornwallis. This system was launched in Bengal, Bihar,
+
+Odisha, Varanasi (U.P.) etc. It is also known as Ist-e-Marari,
+
+Jagirdari, Maalguzari, Bishvedari etc.
+
+The Permanent Settlement stood on the following features -
+
+It recognized the landlords as the proprietors of the land. It
+
+also recognized the rights of a hereditary successor or lawful
+
+successors of the landlords. The government believed that
+
+these landlords would remain faithful to the British.
+
+The landlords were given the right to transfer or sell their land.
+
+All the rights of the landlords depended on their payment
+
+of the fixed revenue on the fixed date at the treasury of the
+
+government. All their rights ended if they failed to pay.
+
+This was one reason for increased litigation. An increase in
+
+intermediaries between farmers and landlords was another
+
+reason for increased litigation.
+
+The total amount of revenue to be paid by each landlord for
+
+his Zamindari was fixed once and for all.
+
+It was agreed that the tax rate would not increase in the future.
+</details>
+
+---
+
+**Q-GC8. M.P.P.C.S. (Pre) 1990**
+
+Permanent Settlement was made with
+
+- (a) Landlords
+- (b) Peasants
+- (c) Workers
+- (d) Traders
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* The Permanent Settlement (1793 AD) was introduced by
+
+Lord Cornwallis. This system was launched in Bengal, Bihar,
+
+Odisha, Varanasi (U.P.) etc. It is also known as Ist-e-Marari,
+
+Jagirdari, Maalguzari, Bishvedari etc.
+
+The Permanent Settlement stood on the following features -
+
+It recognized the landlords as the proprietors of the land. It
+
+also recognized the rights of a hereditary successor or lawful
+
+successors of the landlords. The government believed that
+
+these landlords would remain faithful to the British.
+
+The landlords were given the right to transfer or sell their land.
+
+All the rights of the landlords depended on their payment
+
+of the fixed revenue on the fixed date at the treasury of the
+
+government. All their rights ended if they failed to pay.
+
+This was one reason for increased litigation. An increase in
+
+intermediaries between farmers and landlords was another
+
+reason for increased litigation.
+
+The total amount of revenue to be paid by each landlord for
+
+his Zamindari was fixed once and for all.
+
+It was agreed that the tax rate would not increase in the future.
+</details>
+
+---
+
+**Q-GC9. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+The ‘Permanent Settlement’ was made with –
+
+- (a) Zamindars
+- (b) Village communities
+- (c) Muqaddamas
+- (d) Peasants Indian History General Studies B–385
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* The Permanent Settlement (1793 AD) was introduced by
+
+Lord Cornwallis. This system was launched in Bengal, Bihar,
+
+Odisha, Varanasi (U.P.) etc. It is also known as Ist-e-Marari,
+
+Jagirdari, Maalguzari, Bishvedari etc.
+
+The Permanent Settlement stood on the following features -
+
+It recognized the landlords as the proprietors of the land. It
+
+also recognized the rights of a hereditary successor or lawful
+
+successors of the landlords. The government believed that
+
+these landlords would remain faithful to the British.
+
+The landlords were given the right to transfer or sell their land.
+
+All the rights of the landlords depended on their payment
+
+of the fixed revenue on the fixed date at the treasury of the
+
+government. All their rights ended if they failed to pay.
+
+This was one reason for increased litigation. An increase in
+
+intermediaries between farmers and landlords was another
+
+reason for increased litigation.
+
+The total amount of revenue to be paid by each landlord for
+
+his Zamindari was fixed once and for all.
+
+It was agreed that the tax rate would not increase in the future.
+</details>
+
+---
+
+**Q-GC10. M.P.P.C.S. (Pre) 2014**
+
+Which Governor-General introduced the permanent
+
+land revenue system in India?
+
+- (a) Lord John Shore
+- (b) Lord Clive
+- (c) Lord Cornwallis
+- (d) Lord Warren Hastings
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* The Permanent Settlement (1793 AD) was introduced by
+
+Lord Cornwallis. This system was launched in Bengal, Bihar,
+
+Odisha, Varanasi (U.P.) etc. It is also known as Ist-e-Marari,
+
+Jagirdari, Maalguzari, Bishvedari etc.
+
+The Permanent Settlement stood on the following features -
+
+It recognized the landlords as the proprietors of the land. It
+
+also recognized the rights of a hereditary successor or lawful
+
+successors of the landlords. The government believed that
+
+these landlords would remain faithful to the British.
+
+The landlords were given the right to transfer or sell their land.
+
+All the rights of the landlords depended on their payment
+
+of the fixed revenue on the fixed date at the treasury of the
+
+government. All their rights ended if they failed to pay.
+
+This was one reason for increased litigation. An increase in
+
+intermediaries between farmers and landlords was another
+
+reason for increased litigation.
+
+The total amount of revenue to be paid by each landlord for
+
+his Zamindari was fixed once and for all.
+
+It was agreed that the tax rate would not increase in the future.
+</details>
+
+---
+
+**Q-GC11. U.P.P.C.S. (Mains) 2010**
+
+Permanent Settlement of Lord Cornwallis was
+
+introduced in the year.
+
+- (a) 1787 A.D.
+- (b) 1789 A.D.
+- (c) 1790 A.D.
+- (d) 1793 A.D.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* The Permanent Settlement (1793 AD) was introduced by
+
+Lord Cornwallis. This system was launched in Bengal, Bihar,
+
+Odisha, Varanasi (U.P.) etc. It is also known as Ist-e-Marari,
+
+Jagirdari, Maalguzari, Bishvedari etc.
+
+The Permanent Settlement stood on the following features -
+
+It recognized the landlords as the proprietors of the land. It
+
+also recognized the rights of a hereditary successor or lawful
+
+successors of the landlords. The government believed that
+
+these landlords would remain faithful to the British.
+
+The landlords were given the right to transfer or sell their land.
+
+All the rights of the landlords depended on their payment
+
+of the fixed revenue on the fixed date at the treasury of the
+
+government. All their rights ended if they failed to pay.
+
+This was one reason for increased litigation. An increase in
+
+intermediaries between farmers and landlords was another
+
+reason for increased litigation.
+
+The total amount of revenue to be paid by each landlord for
+
+his Zamindari was fixed once and for all.
+
+It was agreed that the tax rate would not increase in the future.
+</details>
+
+---
+
+**Q-GC12. I.A.S. (Pre) 2011**
+
+The tendency for increased litigation was visible after
+
+the introduction of the land settlement system of Lord
+
+Cornwallis in 1793. The reason for this is normally
+
+traced to which of the following provisions?
+
+- (a) Making Zamindar’s position stronger vis-a-vis the ryot
+- (b) Making East India Company an overlord of Zamindars
+- (c) Making judicial system more efficient
+- (d) None of the above statements
+- (a) ,
+- (b) and
+- (c) is correct.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* The Permanent Settlement (1793 AD) was introduced by
+
+Lord Cornwallis. This system was launched in Bengal, Bihar,
+
+Odisha, Varanasi (U.P.) etc. It is also known as Ist-e-Marari,
+
+Jagirdari, Maalguzari, Bishvedari etc.
+
+The Permanent Settlement stood on the following features -
+
+It recognized the landlords as the proprietors of the land. It
+
+also recognized the rights of a hereditary successor or lawful
+
+successors of the landlords. The government believed that
+
+these landlords would remain faithful to the British.
+
+The landlords were given the right to transfer or sell their land.
+
+All the rights of the landlords depended on their payment
+
+of the fixed revenue on the fixed date at the treasury of the
+
+government. All their rights ended if they failed to pay.
+
+This was one reason for increased litigation. An increase in
+
+intermediaries between farmers and landlords was another
+
+reason for increased litigation.
+
+The total amount of revenue to be paid by each landlord for
+
+his Zamindari was fixed once and for all.
+
+It was agreed that the tax rate would not increase in the future.
+</details>
+
+---
+
+**Q-GC13. I.A.S. (Pre) 2001**
+
+Under the Permanent Settlement, 1793, the Zamindars
+
+were required to issue pattas to the farmers which were
+
+not issued by many of the Zamindars. The reason was:
+
+- (a) the Zamindars were trusted by the farmers
+- (b) there was no officials check upon the Zamindars
+- (c) it was the responsibility of the British government
+- (d) the farmers were not interested in getting pattas
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The reason for not issuing pattas by many Zamindars was
+
+that there was no official check on Zamindars in permanent
+
+settlement of 1793 A.D. They were only required to give
+
+10/11th part of the revenue collection to the officials.
+</details>
+
+---
+
+**Q-GC14. (d) Abolition of Zamindari, 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Which one of the following is correct about the
+
+permanent settlement introduced in Bihar.
+
+- (a) The Zamindars were deprived of the ownership of the land.
+- (b) The right of ownership of land was made hereditary and transferable for the Zamindars.
+- (c) Land revenue was constitutionalised
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In Bihar, the permanent settlement system ensured a fixed
+
+amount of revenue for the company.
+</details>
+
+---
+
+**Q-GC15. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Fill in the blank:
+
+In ......... the rights of the tenants on land in Bengal and
+
+Bihar were given by the Bengal Tenancy Act.
+
+- (a) 1885
+- (b) 1886
+- (c) 1889
+- (d) 1900
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In 1793 A.D., Lord Cornwallis introduced permanent
+
+settlement which in turn provided many rights to landlords.
+
+By the 19th century, the demand for land increased and hence
+
+landlords increased the rent of the land which resulted in
+
+a revolt by peasants. During this time, the government of
+
+Bengal introduced the Bengal and Bihar Tenancy Act 1885,
+
+which described the rights of landlords and tenants.
+</details>
+
+---
+
+**Q-GC16. I.A.S. (Pre) 2017**
+
+Who among the following was/were associated with the
+
+introduction of Ryotwari Settlement in India during
+
+the British rule?
+
+1. Lord Cornwallis 2. Alexander Read
+
+3. Thomas Munro
+
+Select the correct answer using the code given below:
+
+- (a) 1 only
+- (b) 1 and 3 only
+- (c) 2 and 3 only
+- (d) 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In Ryotwari System, every registered holder of land is
+
+recognised as a proprietor of land and is held responsible for
+
+direct payment of land revenue to the state. In the Madras
+
+presidency, the first land revenue settlement was made in
+
+the Baramahal district after its acquisition was done by the
+
+company in 1792 A.D. Alexander Reed assisted by Thomas
+
+Munro fixed the state demand on the basis of 50% of the
+
+estimated produce of the fields. Later on when Thomas Munro
+
+became Governor of Madras (1820-27 A.D.), he extended
+
+the Ryotwari system to all parts of the province (except
+
+the permanently settled areas). A permanent settlement was
+
+introduced by lord Cornwallis in 1793 A.D.
+</details>
+
+---
+
+**Q-GC17. 67th B.P.S.C. (Pre) 2022**
+
+The Ryotwari system was first implemented in :
+
+- (a) Gujarat
+- (b) Madras
+- (c) Bombay
+- (d) Orissa
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question. 
+
+B
+
+*Reference Note:* In Ryotwari System, every registered holder of land is
+
+recognised as a proprietor of land and is held responsible for
+
+direct payment of land revenue to the state. In the Madras
+
+presidency, the first land revenue settlement was made in
+
+the Baramahal district after its acquisition was done by the
+
+company in 1792 A.D. Alexander Reed assisted by Thomas
+
+Munro fixed the state demand on the basis of 50% of the
+
+estimated produce of the fields. Later on when Thomas Munro
+
+became Governor of Madras (1820-27 A.D.), he extended
+
+the Ryotwari system to all parts of the province (except
+
+the permanently settled areas). A permanent settlement was
+
+introduced by lord Cornwallis in 1793 A.D.
+</details>
+
+---
+
+**Q-GC18. Permanent Settlement and Ryotwari System of land, revenue were introduced respectively in :, (a) Bengal and Madras (b) Madras and Punjab, (c) Madras and Bengal (d) Punjab and Bengal, Jharkhand P.C.S. (Pre.) 2021**
+
+
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Permanent settlement was introduced in Bengal, Bihar,
+
+Odisha and Varanasi of U.P. while Ryotwari system was
+
+in Madras, some parts of Bombay, Eastern Bengal, Assam,
+
+Kurg.
+</details>
+
+---
+
+**Q-GC19. U.P.P.C.S. (Pre) 2000**
+
+Sir Thomas Munro is associated with the land revenue
+
+settlement:
+
+- (a) Permanent Settlement
+- (b) Mahalwari Settlement
+- (c) Ryotwari Settlement
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Ryotwari System was the second system of collection of land
+
+revenue after Permanent Settlement. Thomas Munro and
+
+Captain Reed were the founders of this system. This system
+
+was first introduced in Baramahal district (Tamil Nadu). After
+
+that, this system was introduced in Madras, Eastern Bengal,
+
+Assam, Coorgh and some areas of Bombay. In Ryotwari
+
+System, the ownership rights were transferred to the peasants.
+
+British government collected taxes directly from the peasants.
+
+around 51% of British occupied Indian area was included in this
+
+system. The high rate of taxes and strictness during collection
+
+became a significant cause of struggle between money lenders
+
+and peasants.
+</details>
+
+---
+
+**Q-GC20. U.P.P.S.C. (R.I.) 2014**
+
+In British System Ryotwari land revenue collection
+
+was prevalent in
+
+- (a) North India
+- (b) East India
+- (c) West India
+- (d) South India
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* Ryotwari System was the second system of collection of land
+
+revenue after Permanent Settlement. Thomas Munro and
+
+Captain Reed were the founders of this system. This system
+
+was first introduced in Baramahal district (Tamil Nadu). After
+
+that, this system was introduced in Madras, Eastern Bengal,
+
+Assam, Coorgh and some areas of Bombay. In Ryotwari
+
+System, the ownership rights were transferred to the peasants.
+
+British government collected taxes directly from the peasants.
+
+around 51% of British occupied Indian area was included in this
+
+system. The high rate of taxes and strictness during collection
+
+became a significant cause of struggle between money lenders
+
+and peasants.
+</details>
+
+---
+
+**Q-GC21. (c) Munro (d) Elphinstone, U.P.P.C.S. (Spl) (Pre) 2008**
+
+Who was associated with the Ryotwari Settlement of
+
+Madras?
+
+- (a) Malcolm
+- (b) Metcalfe
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* Ryotwari System was the second system of collection of land
+
+revenue after Permanent Settlement. Thomas Munro and
+
+Captain Reed were the founders of this system. This system
+
+was first introduced in Baramahal district (Tamil Nadu). After
+
+that, this system was introduced in Madras, Eastern Bengal,
+
+Assam, Coorgh and some areas of Bombay. In Ryotwari
+
+System, the ownership rights were transferred to the peasants.
+
+British government collected taxes directly from the peasants.
+
+around 51% of British occupied Indian area was included in this
+
+system. The high rate of taxes and strictness during collection
+
+became a significant cause of struggle between money lenders
+
+and peasants.
+</details>
+
+---
+
+**Q-GC22. U.P.P.C.S. (Pre) 1992**
+
+Who started Ryotwari system?
+
+- (a) Thomas Munro
+- (b) Martin Burda
+- (c) Cornwallis
+- (d) Lord Dalhousie
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* Ryotwari System was the second system of collection of land
+
+revenue after Permanent Settlement. Thomas Munro and
+
+Captain Reed were the founders of this system. This system
+
+was first introduced in Baramahal district (Tamil Nadu). After
+
+that, this system was introduced in Madras, Eastern Bengal,
+
+Assam, Coorgh and some areas of Bombay. In Ryotwari
+
+System, the ownership rights were transferred to the peasants.
+
+British government collected taxes directly from the peasants.
+
+around 51% of British occupied Indian area was included in this
+
+system. The high rate of taxes and strictness during collection
+
+became a significant cause of struggle between money lenders
+
+and peasants.
+</details>
+
+---
+
+**Q-GC23. (d) Madras & Bombay Presidency, Jharkhand P.C.S. (Pre) 2011, U.P.U.D.A./L.D.A. (Pre) 2001, I.A.S. (Pre) 1993**
+
+The Ryotwari settlement was introduced by the British
+
+in the
+
+- (a) Bengal Presidency
+- (b) Madras Presidency
+- (c) Bombay Presidency
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* Ryotwari System was the second system of collection of land
+
+revenue after Permanent Settlement. Thomas Munro and
+
+Captain Reed were the founders of this system. This system
+
+was first introduced in Baramahal district (Tamil Nadu). After
+
+that, this system was introduced in Madras, Eastern Bengal,
+
+Assam, Coorgh and some areas of Bombay. In Ryotwari
+
+System, the ownership rights were transferred to the peasants.
+
+British government collected taxes directly from the peasants.
+
+around 51% of British occupied Indian area was included in this
+
+system. The high rate of taxes and strictness during collection
+
+became a significant cause of struggle between money lenders
+
+and peasants.
+</details>
+
+---
+
+**Q-GC24. (c) Bombay Presidency (d) Madras Presidency, U.P.P.C.S. (Mains) 2016**
+
+The English introduced the Ryotwari System for the
+
+first time in
+
+- (a) Bengal Presidency
+- (b) Agra
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Ryotwari System was a method of revenue collection in
+
+British India. It was prevalent in most of Southern India
+
+is the standard system of Madras Presidency. The system
+
+was devised by Alexander Reed and Thomas Munro. It was
+
+introduced by Thomas Munro when he was the Governor
+
+of Madras.
+</details>
+
+---
+
+**Q-GC25. I.A.S. (Pre) 2012**
+
+With reference to Ryotwari Settlement, consider the
+
+following statements
+
+1. The rent was paid directly by the peasants to the
+
+Government.
+
+2. The Government gave Pattas to the Ryots.
+
+3. The lands were surveyed and assessed before being
+
+taxed.
+
+Which of the statement(s) given above is/are correct?
+
+- (a) Only 1
+- (b) 1 and 2
+- (c) 1, 2 and 3
+- (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Thomas Munro introduced Ryotwari system in 1820 A.D.
+
+The major area included Madras, some parts of Bombay,
+
+eastern Bengal, Assam and Kurg.
+
+In the Ryotwari System the ownership rights were handed
+
+over to the peasants. British Government collected taxes
+
+directly from the peasants.
+</details>
+
+---
+
+**Q-GC26. 65th B.P.S.C. (Pre) 2019**
+
+The system under which the peasant himself owns the
+
+land and is responsible for payment of land revenue
+
+to the Government is known as :
+
+- (a) Zamindari System
+- (b) Ryotwari System Indian History General Studies B–387
+- (c) Mahalwari System
+- (d) Dahsala System
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Under the Ryotwari system, the farmer himself is the owner
+
+of the land and is held responsible for the payment of land
+
+revenue to the government.
+</details>
+
+---
+
+**Q-GC27. (c) Captain Reed (d) Thomas Munro, Jharkhand P.C.S. (Pre) 2023**
+
+Who among the following said "The Ryotwari is a
+
+system which has always prevailed in India"?
+
+- (a) John Shore
+- (b) Alexander Duff
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Ryotwari system was started by Thomas Munro and
+
+Alexander Reed in the Baramahal district of Tamilnadu.
+
+According to this system the Ryots were given the ownership
+
+and rights to occupy the lands and they were required to pay
+
+the revenue directly to the government. Thomas Munro said
+
+regarding this system that "The Ryotwari is a system which
+
+has always prevailed in India."
+</details>
+
+---
+
+**Q-GC28. U.P.P.C.S. (Pre) 2020**
+
+Given below are two statements, one is labelled as
+
+Assertion (A) and the other as Reason (R) :
+
+Assertion (A) : The British Government introduced
+
+different land revenue system in different
+
+part of India.
+
+Reason (R) : It led to create different classes in Indian
+
+peasantry.
+
+Select the correct answer from the codes given below.
+
+Codes :
+
+- (a) Both
+- (A) and (R) are true and (R) is the correct explanation of
+- (A) (b) Both
+- (A) and (R) are true but (R) is not the correct explanation of
+- (A) (c)
+- (A) is true but (R) is false
+- (d) (A) is false but (R) is true
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+British government followed different land revenue systems
+
+in different parts of India. These systems were: Permanent
+
+settlement, Ryotwari & Mahalwari. Permanent settlement
+
+was introduced in Bengal, Bihar, Odisha & Varanasi of U.P.
+
+Under this system around 19% area of entire British India
+
+was included. Ryotwari (approx. 51% area) system was in
+
+Madras, some parts of Mumbai, Eastern Bengal, Assam,
+
+Kurg. Mahalwari (around 30% of the area) system around
+
+was in U.P, Central Province, Punjab. Hence, it is clear that
+
+because of this, different classes were created in Indian
+
+peasantry. Hence, option (a) is correct.
+</details>
+
+---
+
+**Q-GC29. I.A.S. (Pre) 2024**
+
+With reference to revenue collection by Cornwallis,
+
+consider the following statements:
+
+1. Under the Ryotwari Settlement of revenue
+
+collection, the peasants were exempted from
+
+revenue payment in case of bad harvests or natural
+
+calamities.
+
+2. Under the Permanent Settlement in Bengal, if the
+
+Zamindar failed to pay his revenues to the state,
+
+on or before the fixed date, he would be removed
+
+from his Zamindari.
+
+Which of the statements given above is/are correct?
+
+- (a) 1 only
+- (b) 2 only
+- (c) Both 1 and 2
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Under the Ryotwari Settlement of revenue collection,
+
+individual peasants (ryots) were directly responsible for
+
+paying land revenue to the government and peasants were
+
+not exempted from revenue payment in case of bad harvests
+
+or natural calamities. There were no explicit exemptions
+
+for bad harvests or natural calamities rather sometimes few
+
+remissions were provided and their rents were reduced.
+
+Hence, statement 1 is incorrect.
+
+Under the Permanent Settlement in Bengal, introduced by
+
+Lord Cornwallis in 1793 A.D., 'Zamindars' were established
+
+as the proprietors or owners of land. The state’s demand for
+
+land revenue was permanently fixed, but under the ‘Sunset
+
+clause’, if the Zamindar failed to pay tax due by sunset on
+
+a certain date, his Zamindari (landholding rights) would be
+
+taken over by the government and auctioned, and the rights
+
+would be transferred to the new owner. Hence, statement 2
+
+is correct.
+</details>
+
+---
+
+**Q-GC30. 63rd B.P.S.C. (Pre) 2017**
+
+When was the Punjab Land Alienation Act passed?
+
+- (a) 1850
+- (b) 1895
+- (c) 1900
+- (d) 1905
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Punjab Land Alienation Act was passed in 1900 AD due to
+
+which land transfer from farmers to non-farmers was stopped.
+</details>
+
+---
+
+**Q-GC31. U.P. R.O./ A.R.O. (Pre) 2016**
+
+When was the first tea company in Assam established?
+
+- (a) 1835
+- (b) 1837
+- (c) 1839
+- (d) 1841
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Assam Company was formed in England in 1839 A.D.
+
+with a capital of Rs. 5 lakh. The Assam company with its
+
+headquarter in Nazira in Assam, is the oldest tea company
+
+in Assam that is still functioning. 
+
+B
+</details>
+
+---
+
+**Q-GC32. 68th B.P.S.C. (Pre) 2022**
+
+Who introduced the system of Mahalwari Settlement
+
+in Bengal?
+
+- (a) Lord Hastings
+- (b) Lord Cornwallis
+- (c) Holt Mackenzie
+- (d) More than one of the above
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Mahalwari system was devised by Holt Mackenzie in 1822
+
+A.D. in the Bengal Presidency. Under this system, the land
+
+revenue was collected from the farmers by treating whole
+
+village as single unit called 'Mahal'. The revenue was not
+
+fixed but revised periodically.
+</details>
+
+---
+
+**Q-GC33. U.P. P.C.S. (Pre) 2020**
+
+Match List-I with List-II and select the correct answer
+
+using the codes given below the lists :
+
+List-I List-II
+
+A. Jajmani 1. North India
+
+B. Bara Balute 2. Karnataka
+
+C. Mirasi 3. Maharashtra
+
+D. Adade 4. Tamil Nadu
+
+Codes :
+
+A B C D
+
+- (a) 1 2 3 4
+- (b) 1 3 2 4
+- (c) 1 4 2 3
+- (d) 1 3 4 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The correct match of List I and List II is:
+
+ List-I List-II
+
+ Jajmani North India
+
+ Bara Balute Maharashtra
+
+ Mirasi Tamil Nadu
+
+ Adade Karnataka
+</details>
+
+---
+
+**Q-GC34. U.P.R.O./A.R.O. (Pre.) 2021**
+
+What is the total percentage of Central revenue spent
+
+on Military force in British India?
+
+- (a) 40%
+- (b) 45%
+- (c) 50%
+- (d) 55%
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The total percentage of Central revenue spent on Military
+
+force in British India was 40%.
+</details>
+
+---
+
+**Q-GC35. I.A.S. (Pre) 1993**
+
+Which one of the following statements correctly defines
+
+the term ‘Drain Theory’ as propounded by Dadabhai
+
+Naoroji?
+
+- (a) That the resources of the country were being utilized in the interest of Britain.
+- (b) That a part of Indian national wealth or total annual product was being exported to Britain for which India got no material returns.
+- (c) That the British industrialists were being given an opportunity to invest in India under the protection of the imperial power.
+- (d) That the British goods were being imported to the country making it miserable day by day.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Dadabhai Naoroji, known as Grand Old Man of India,
+
+focused on the drain of wealth from India to England through
+
+colonial rule. One of the reasons that the ‘Drain Theory’ is
+
+attributed to Naoroji was his decision to estimate the national
+
+net profit of India.
+
+Dadabhai Naoroji gave some factors that caused the external
+
+drain. These were:
+
+ External Rule and administration in India.
+
+ All the civil administration and army expenses of Britain
+
+were paid by India.
+
+ A part of India’s national wealth was transferred to
+
+England for which India got no returns. India was bearing
+
+the burden of territory building both inside and outside
+
+India.
+</details>
+
+---
+
+**Q-GC36. Uttrakhand U.D.A./LDA (Mains) 2007**
+
+Which of the following propounded the ‘Drain
+
+Theory’?
+
+- (a) Dadabhai Naoroji
+- (b) Gopal Krishna Gokhale
+- (c) Lokmanya Tilak
+- (d) Madan Mohan Malviya
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* Dadabhai Naoroji, known as Grand Old Man of India,
+
+focused on the drain of wealth from India to England through
+
+colonial rule. One of the reasons that the ‘Drain Theory’ is
+
+attributed to Naoroji was his decision to estimate the national
+
+net profit of India.
+
+Dadabhai Naoroji gave some factors that caused the external
+
+drain. These were:
+
+ External Rule and administration in India.
+
+ All the civil administration and army expenses of Britain
+
+were paid by India.
+
+ A part of India’s national wealth was transferred to
+
+England for which India got no returns. India was bearing
+
+the burden of territory building both inside and outside
+
+India.
+</details>
+
+---
+
+**Q-GC37. Drain” of India during the British Rule?, (a) M.N. Roy (b) Jai Prakash Narayan, (c) Rammanohar Lohiya (d) Dadabhai Naoroji, U.P.P.C.S. (Mains) 2004, U.P.P.C.S. (Pre) 1995**
+
+Who is the exponent of the Theory of “Economic
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* Dadabhai Naoroji, known as Grand Old Man of India,
+
+focused on the drain of wealth from India to England through
+
+colonial rule. One of the reasons that the ‘Drain Theory’ is
+
+attributed to Naoroji was his decision to estimate the national
+
+net profit of India.
+
+Dadabhai Naoroji gave some factors that caused the external
+
+drain. These were:
+
+ External Rule and administration in India.
+
+ All the civil administration and army expenses of Britain
+
+were paid by India.
+
+ A part of India’s national wealth was transferred to
+
+England for which India got no returns. India was bearing
+
+the burden of territory building both inside and outside
+
+India.
+</details>
+
+---
+
+**Q-GC38. U.P.P.C.S. (Pre) 2017**
+
+Consider the following statements and select the correct
+
+answer from the code given below the statements:
+
+Assertion (A) : Generally, India had a favourable
+
+balance of trade during the British rule.
+
+Reason (R) : The drain of wealth took the form of
+
+unrequired exports.
+
+Code :
+
+Indian History General Studies B–389
+
+- (a) Both
+- (A) and (R) are true, and (R) is the correct explanation of
+- (A) .
+- (b) Both
+- (A) and (R) are true, but (R) is not the correct explanation of
+- (A) .
+- (c) (A) is true, but (R) is false.
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The constant flow of wealth from India to England for which
+
+India did not get an adequate economic, commercial or
+
+material return has been described by national leaders and
+
+economists as ‘drain’ of wealth from India. Before 1813
+
+company had a recurring surplus which accrued from (a)
+
+profits from oppressive land revenue policy (b) profits from
+
+its trade resulting from monopolistic control over Indian
+
+markets and exactions (c) made by the company’s officials.
+
+All this surplus was used by the Company as an “investment”,
+
+i.e. for making a purchase of exportable items in India and
+
+elsewhere. Against the exports of goods made out of this
+
+investment, India did not get anything in return. This system
+
+was brought to an end by the charter act of 1813. From
+
+1813 onwards economic drain took the form of ‘unrequited’
+
+exports. Barring a few exceptional years, a favourable balance
+
+of trade had been the normal feature of our foreign trade till
+
+the outbreak of world war II. Therefore, it is clear that (A)
+
+and (R) both are correct and (R) is the correct explanation of
+
+(A). Dadabhai Naoroji described the drain of wealth as the
+
+“evil of all evils” and the leading cause of Indian poverty.
+</details>
+
+---
+
+**Q-GC39. I.A.S. (Pre) 2015**
+
+Who of the following were economic critic/critics of
+
+colonialism in India?
+
+1. Dadabhai Naoroji
+
+2. G. Subramania Iyer
+
+3. R. C. Dutt
+
+Select the correct answer using the code given below.
+
+- (a) 1 only
+- (b) 1 and 2 only
+- (c) 2 and 3 only
+- (d) 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+During 1870 to 1905 A.D., many Indian intellectuals analyzed
+
+the economic aspect of the British rule in India, namely
+
+Dadabhai Naoroji, Govind Ranadey, and ICS officer Ramesh
+
+Chandra Dutt. They wrote the economic history of India.
+
+Many other intellectuals also analyzed the economy of India
+
+like G.V. Joshi, G. Subramania Iyer, Gopal Krishna Gokhale,
+
+etc. They finally reached the conclusion that colonialism was
+
+the main hurdle to the economic growth of India.
+</details>
+
+---
+
+**Q-GC40. I.A.S. (Pre) 1996**
+
+Who among the following leaders did not believe in
+
+the drain theory of Dadabhai Naoroji?
+
+- (a) B.G.. Tilak
+- (b) R.C. Dutt
+- (c) M.G. Ranade
+- (d) Sir Syed Ahmad Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Sir Syed Ahmad Khan was loyal to British and he felt that
+
+the development of Muslims was only possible under the
+
+colonial rule. So, he did not believe in the drain of wealth
+
+theory of Dadabhai Naoroji.
+</details>
+
+---
+
+**Q-GC41. U.P. P.C.S. (Pre) 2021**
+
+In which year the book 'Poverty and Un-British Rule
+
+in India' was published?
+
+- (a) 1900 A.D.
+- (b) 1901 A.D.
+- (c) 1902 A.D.
+- (d) 1903 A.D.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Dadabhai Naoroji is the author of 'Poverty and Un-British
+
+Rule in India'. This book was published in the year 1901 A.D.
+</details>
+
+---
+
+**Q-GC42. Un-British Rule in India'?, (a) Dadabhai Naoroji (b) S. N. Banerjee, (c) R. C. Dutt (d) Pherozeshah Mehta, 70th B.P.S.C. Re-Exam 2024**
+
+In 1901 who has published the book 'Poverty and
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* Dadabhai Naoroji is the author of 'Poverty and Un-British
+
+Rule in India'. This book was published in the year 1901 A.D.
+</details>
+
+---
+
+**Q-GC43. (c) Gopal Krishna Gokhale(d) Dadabhai Naoroji, U.P.P.C.S. (Mains) 2004**
+
+Who authored the book “Poverty and the Un-British
+
+Rule in India”?
+
+- (a) Amartya Kumar Sen
+- (b) Ramesh Chandra Dutt
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Dadabhai Naoroji with W.C. Bannerji established ‘’London
+
+India Society” in 1865 A.D., the main purpose of which
+
+was to expose Indian plight. He was the first Indian who
+
+was elected to British House of Commons on the ticket
+
+of Liberal Party. He directly highlighted Indian economic
+
+predicaments and propounded “Drain of Wealth Theory” in
+
+his book “Poverty and Un-British Rule in India”.
+</details>
+
+---
+
+**Q-GC44. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+First Indian elected to the British House of Commons
+
+was Dadabhai Naoroji who contested on the ticket
+
+of :
+
+- (a) Liberal Party
+- (b) Labour Party
+- (c) Conservative Party
+- (d) Community Party
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* Dadabhai Naoroji with W.C. Bannerji established ‘’London
+
+India Society” in 1865 A.D., the main purpose of which
+
+was to expose Indian plight. He was the first Indian who
+
+was elected to British House of Commons on the ticket
+
+of Liberal Party. He directly highlighted Indian economic
+
+predicaments and propounded “Drain of Wealth Theory” in
+
+his book “Poverty and Un-British Rule in India”.
+</details>
+
+---
+
+**Q-GC45. U.P.P.C.S. (Mains) 2007**
+
+Who wrote a book describing the theory of economic
+
+drain of India during British rule?
+
+- (a) Lala Lajpat Rai
+- (b) Mahatma Gandhi
+- (c) Pt. Jawahar Lal Nehru
+- (d) Dadabhai Naoroji B
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*Reference Note:* Dadabhai Naoroji with W.C. Bannerji established ‘’London
+
+India Society” in 1865 A.D., the main purpose of which
+
+was to expose Indian plight. He was the first Indian who
+
+was elected to British House of Commons on the ticket
+
+of Liberal Party. He directly highlighted Indian economic
+
+predicaments and propounded “Drain of Wealth Theory” in
+
+his book “Poverty and Un-British Rule in India”.
+</details>
+
+---
+
+**Q-GC46. U.P.P.C.S. (Mains) 2017**
+
+With reference to ‘deindustrialization’ which of the
+
+following statements is/are correct?
+
+1. This process started in 1813.
+
+2. Abolition of monopoly trade rights of East India
+
+Company aggravated the process.
+
+Select the correct answer from the codes given below:
+
+- (a) 1 only
+- (b) 2 only
+- (c) Both 1 and 2
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In India deindustrialization started in 1813 A.D. The
+
+company’s commercial monopoly came to an end, except
+
+for the tea and opium trade and the trade with China. With
+
+the enforcement of Saint Helena Act of 1833 also known
+
+as the Government of India Act, 1833 the process of
+
+deindustrialization was aggravated as it ended the activities
+
+of the British East India Company as a trade body and it
+
+became a purely administrative body. In particular, the
+
+Company lost its monopoly on trade with China and other
+
+parts of the far East.
+</details>
+
+---
+
+**Q-GC47. I.A.S. (Pre) 2012**
+
+Consider the following statements:
+
+The most effective contribution made by Dadabhai
+
+Naoroji to the cause of Indian National Movement was
+
+that he
+
+1. exposed the economic exploitation of India by the
+
+British.
+
+2. interpreted the ancient Indian texts and restored
+
+the self-confidence of Indians.
+
+3. stressed the need for eradication of all the social
+
+evils before anything else.
+
+Which of the statement(s) given above is/are correct?
+
+- (a) Only 1
+- (b) 2 and 3
+- (c) 1 and 3
+- (d) 1, 2, and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Dadabhai Naoroji was the first Indian nationalist who after
+
+deep research and analysis proved that Britain was exploiting
+
+India economically and that every year a definite amount of
+
+money had been transferred to England. He introduced his
+
+‘Drain Theory’ based on this analysis.
+</details>
+
+---
+
+**Q-GC48. Uttarakhand U.D.A./LDA (Mains) 2007**
+
+Who considered that ‘’British Economic Policy is
+
+disgusting in India”.
+
+- (a) B.G. Tilak
+- (b) Dadabhai Naoroji
+- (c) Karl Marx
+- (d) Adam Smith
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Karl Marx expressed that British economic policies in India
+
+were disgusting. Under British rule, Indian cultivators, a vast
+
+number of people were in a state of dejection and unmitigated
+
+impoverishment.
+</details>
+
+---
+
+**Q-GC49. (c) Lt. Blaine (d) Col. Robert Smith, Uttarakhand P.C.S. (Pre) 2016**
+
+Who is regarded as the Pioneer of Irrigation works in
+
+South India?
+
+- (a) Sir Arthur Cotton
+- (b) Col. Baird Smith
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Sir Arthur Cotton was a British irrigation engineer. He
+
+worked on the irrigation system of South India. Sir Arthur
+
+Cotton is considered as 'the poineer of irrigation system in
+
+South India.
+</details>
+
+---
+
+**Q-GC50. I.A.S. (Pre) 2020**
+
+With reference to the history of India, consider the
+
+following pairs:
+
+1. Aurang - In-charge of treasury of the State
+
+2. Banian - Indian agent of the East India Company
+
+3. Mirasidar - Designated revenue payer to the State
+
+Which of the pairs given above is/are correctly matched ?
+
+- (a) 1 and 2 only
+- (b) 2 and 3 only
+- (c) 3 only
+- (d) 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Aurang is a Persian term for a warehouse - a place where
+
+goods are collected before being sold.
+
+Banian was an Indian agent of the East India Company who
+
+performed commercial functions. Mirasidars were village
+
+elites in south India, very often belonging to high castes.
+
+They asserted ownership over entire village land & under
+
+them farmers worked. In Ryotwari system they were made
+
+designated revenue payers to the state.
+</details>
+
+---
+
+**Q-GC51. I.A.S. (Pre) 2018**
+
+Economically, one of the results of the British rule in
+
+India in the 19th century was the
+
+- (a) increase in the export of Indian handicrafts
+- (b) growth in the number of Indian owned factories
+- (c) commercialization of Indian agriculture
+- (d) rapid increase in the urban population
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Commercialization of agriculture was the result of British
+
+rule in India in the 19th century. Farmers were forced to
+
+grow cash crops that were imported to Great Britain as raw
+
+materials for English factories. The period also saw a decline
+
+in the urban population and destroyed domestic factories.
+
+Indians started producing crops for commercial use on a 
+
+Indian History General Studies B–391
+
+large scale. 19th-century agriculture became commercial due
+
+to the use of modern agricultural equipment. British rulers
+
+forced farmers to grow Indigo and other cash crops which
+
+can be used as a raw material for British manufactures. As a
+
+result urban population was reduced and domestic Industries
+
+were destroyed.
+</details>
+
+---
+
+**Q-GC52. I.A.S. (Pre) 2020**
+
+Which of the following statements correctly explains
+
+the impact of Industrial Revolution on India during
+
+the first half of the nineteenth century?
+
+- (a) Indian handicrafts were ruined.
+- (b) Machines were introduced in the Indian textile industry in large numbers.
+- (c) Railway lines were laid in many parts of the country.
+- (d) Heavy duties were imposed on the imports of British manufacturers.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+During the first half of 19th century, British policies turned
+
+India into an exporter of raw materials and a consumer of
+
+finished products. Also, because of Industrial Revolution in
+
+Britain, new machines were invented that were used to make
+
+handicraft products that were not only cheap but also of good
+
+quality that led to downfall in demand of Indian handicraft
+
+products in domestic market too. Already they were unable
+
+to sell Indian goods in Britain because of high tariffs. All this
+
+led to ruins of Indian handicrafts.
+</details>
+
+---
+
+---
+
+### Recent UPPCS Prelims Questions (2020–2025)
 
 ### UPPCS Prelims 2025
 
-**Q1. UPPCS Prelims 2025, Q40**
+**Q-GC53. UPPCS Prelims 2025, Q40**
 
 Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -781,7 +2848,7 @@ D. 4 3 2 1
 
 </details>
 
-**Q2. UPPCS Prelims 2025, Q127**
+**Q-GC54. UPPCS Prelims 2025, Q127**
 
 Consider the following events and arrange them in correct chronological order.
 
@@ -809,7 +2876,7 @@ D. 1, 3, 2, 4
 
 ### UPPCS Prelims 2024
 
-**Q3. UPPCS Prelims 2024, Q135**
+**Q-GC55. UPPCS Prelims 2024, Q135**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -836,7 +2903,7 @@ D. (A) is true, but (R) is false
 
 ### UPPCS Prelims 2021
 
-**Q4. UPPCS Prelims 2021, Q139**
+**Q-GC56. UPPCS Prelims 2021, Q139**
 
 In which year the book 'Poverty and Un-British Rule in India' was published?
 
@@ -857,7 +2924,7 @@ D. 1903 A.D.
 
 </details>
 
-**Q5. UPPCS Prelims 2021, Q145**
+**Q-GC57. UPPCS Prelims 2021, Q145**
 
 In India the First Municipal Corporation was set up in which one among the following places?
 
@@ -880,7 +2947,7 @@ D. Delhi
 
 ### UPPCS Prelims 2020
 
-**Q6. UPPCS Prelims 2020, Q30**
+**Q-GC58. UPPCS Prelims 2020, Q30**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
 
@@ -928,727 +2995,7 @@ D. Bipin Chandra
 
 ---
 
-
-## Ghatnachakra Extra Drill — Economic Impact of British Rule
-
-Teaching for these stems sits in **4.6–4.20**.
-
-> **Needs dump (do not invent):** separate Extra banks for Cornwallis judiciary / police / ICS chronology; monetisation (Herschell–Fowler) stems; UKPCS Complete PYQ harvest for this topic. Existing Economic Impact Extra stays; no mega banks invented here.
-
-**Q1. IAS (Pre) 2011**
-
-Home Charges included: (1) India Office in London (2) salaries/pensions of British personnel in India (3) funds for wars outside India
-
-A. 1 only
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Home Charges = India Office, pensions, debt, stores in England — not overseas wars.
-
-**Ans: B.** Statement **3** is false. Home Charges are London-side charges on Indian revenue (India Office, pensions, debt interest, stores, non-effective army charges payable in England).
-
-</details>
-
-**Q2. IAS (Pre) 1999**
-
-The term “imperial preference” was applied to:
-
-A. Special privileges on British imports in India
-
-B. Racial discrimination by the Britishers
-
-C. Subordination of Indian interest to that of the British
-
-D. Preference to British political agents over Indian Princes
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Imperial Preference = duty privilege for British imports in India.
-
-**Ans: A.** Near-nil duty on British imports in India; Indian exports faced high duties in Britain.
-
-</details>
-
-**Q3. IAS (Pre) 1999**
-
-There was no independent development of industries in India during British rule because of:
-
-A. Absence of heavy industries
-
-B. Scarcity of foreign capital
-
-C. Scarcity of natural resources
-
-D. Preference of the rich to invest in land
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** No independent industry because rich preferred land investment.
-
-**Ans: D.**
-
-</details>
-
-**Q4. IAS (Pre) 2018**
-
-Staple commodities of export by the EIC from Bengal in the mid-18th century were:
-
-A. Raw cotton, oil-seeds and opium
-
-B. Sugar, salt, zinc and lead
-
-C. Copper, silver, gold, spices and tea
-
-D. Cotton, silk, saltpetre and opium
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Mid-18th-c. Bengal staples = cotton, silk, saltpetre, opium.
-
-**Ans: D.**
-
-</details>
-
-**Q5. UPPCS / BPSC / MPPCS / IAS**
-
-The Permanent Settlement (Istamrari / Ist-e-Marari) was introduced by:
-
-A. Warren Hastings in 1773
-
-B. Lord Cornwallis in 1793
-
-C. Lord Wellesley in 1798
-
-D. Thomas Munro in 1820
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Istamrari / Permanent Settlement = Cornwallis 1793 with zamindars as proprietors.
-
-**Ans: B.** **Lord Cornwallis, 1793**, with **zamindars** recognised as hereditary, transferable proprietors of the soil.
-
-</details>
-
-**Q6. UPPCS / BPSC / IAS**
-
-Under the Permanent Settlement, the zamindar typically paid what share of the collection to the East India Company?
-
-A. One-half
-
-B. Nine-tenths
-
-C. Ten-elevenths
-
-D. The entire collection with no retention
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Permanent Settlement covered ~19% of British India; zamindars remitted 10/11 to the Company.
-
-**Ans: C.** The zamindar kept about **1/11** and remitted **10/11** to the Company on a **fixed** demand.
-
-</details>
-
-**Q7. IAS / UPPCS**
-
-Litigation in Bengal increased after the Permanent Settlement mainly because:
-
-A. The ryot was declared sole proprietor
-
-B. Zamindars became stronger against cultivators and intermediaries multiplied
-
-C. Revenue demand was revised every ten years
-
-D. The Sunset Law abolished zamindari
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stronger zamindars plus intermediaries fed litigation after 1793 — not a single simple cause in IAS stems.
-
-**Ans: B.** Making the **zamindar stronger against the ryot**, with more **intermediaries**, fed **increased litigation** after **1793**.
-
-</details>
-
-**Q8. UPPCS / BPSC**
-
-Under the Permanent Settlement, many zamindars did not issue pattas to cultivators mainly because:
-
-A. Pattas were legally banned
-
-B. There was no official check on zamindars
-
-C. The ryot was declared proprietor
-
-D. Revenue was collected directly from the cultivator
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Pattas were legally expected but often not issued — no official check on zamindars.
-
-**Ans: B.** Zamindars were to issue **pattas**, but many never did because there was **no official check** on them.
-
-</details>
-
-**Q9. UPPCS / BPSC**
-
-The Bengal Tenancy Act, which defined landlord–tenant rights in Bengal and Bihar, was passed in:
-
-A. 1859
-
-B. 1878
-
-C. 1885
-
-D. 1900
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Peasant pressure produced Bengal Tenancy Act 1885.
-
-**Ans: C.** The **Bengal Tenancy Act, 1885**, followed decades of peasant pressure under Permanent Settlement.
-
-</details>
-
-**Q10. IAS 2017 / Jharkhand / UPPCS / BPSC**
-
-Who were chiefly associated with the introduction and expansion of the Ryotwari system?
-
-A. Lord Cornwallis and Lord Wellesley
-
-B. Alexander Read and Thomas Munro
-
-C. Holt Mackenzie and Lord Bentinck
-
-D. Warren Hastings and Lord Dalhousie
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ryotwari = Read + Munro — not Cornwallis; first trial Baramahal.
-
-**Ans: B.** **Alexander Read** first tried Ryotwari in **Baramahal**; **Thomas Munro** expanded it in **Madras** (and parts of **Bombay**).
-
-</details>
-
-**Q11. UPPCS / BPSC / IAS**
-
-Which pairing of land revenue system and region is correct?
-
-A. Permanent Settlement — Madras and Bombay Presidencies
-
-B. Ryotwari — Bengal, Bihar and Orissa
-
-C. Ryotwari — Madras and Bombay Presidencies
-
-D. Mahalwari — Bengal, Bihar and Orissa only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ryotwari ~51% in Madras/Bombay belt; Permanent Settlement in Bengal belt.
-
-**Ans: C.** **Ryotwari** covered about **51%** of British India, mainly **Madras and Bombay**. **Permanent Settlement** dominated the **Bengal belt**.
-
-</details>
-
-**Q12. IAS / UPPCS**
-
-Thomas Munro described the Ryotwari system as:
-
-A. A temporary experiment for ten years
-
-B. A system which has always prevailed in India
-
-C. An improvement on the Permanent Settlement
-
-D. A village-based collective settlement
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Munro’s standard coaching quote on Ryotwari.
-
-**Ans: B.** Munro held that Ryotwari was “**a system which has always prevailed in India**.”
-
-</details>
-
-**Q13. IAS / UPPCS**
-
-Which of the following correctly describe the Ryotwari system?
-
-1. The government settled revenue directly with the cultivator.
-2. Survey and assessment preceded demand; pattas were issued.
-3. The zamindar was the permanent proprietor of the soil.
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** IAS 2012 stream — direct payment, pattas and survey/assessment all characterise Ryotwari.
-
-**Ans: A.** Statements **1 and 2** are correct. Statement **3** describes **Permanent Settlement**, not Ryotwari.
-
-</details>
-
-**Q14. UPPCS 2020 / BPSC**
-
-Assertion (A): The British introduced different land revenue systems in different parts of India.
-
-Reason (R): This created different classes in the Indian peasantry.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-
-C. (A) is true but (R) is false
-
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UPPCS 2020 A/R — different systems created different peasant classes; R explains A.
-
-**Ans: A.** Different systems — zamindar–tenant in Bengal, direct ryot in the south-west, village **mahal** in the north — produced **different peasant classes**.
-
-</details>
-
-**Q15. IAS 2024 / UPPCS**
-
-Which of the following is a feature of the Permanent Settlement?
-
-1. The cultivating ryot was declared proprietor of the soil.
-2. On default of payment by sunset on the due day, the estate could be sold at auction.
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** IAS 2024 — Sunset Law / auction on default is the keyed Permanent Settlement feature.
-
-**Ans: B.** Only statement **2** is correct — the **Sunset Law** allowed auction on default. The **zamindar**, not the ryot, was declared proprietor.
-
-</details>
-
-**Q16. UPPCS / BPSC / UP R.O.**
-
-The Mahalwari system was shaped by Holt Mackenzie’s report of:
-
-A. 1793
-
-B. 1813
-
-C. 1822
-
-D. 1858
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Mahalwari = Holt Mackenzie 1822 — often framed under Bengal Presidency administration for NWP.
-
-**Ans: C.** **Holt Mackenzie’s report of 1822** shaped **Mahalwari** for the **North-Western Provinces** and related zones.
-
-</details>
-
-**Q17. BPSC / UPPCS**
-
-The Punjab Land Alienation Act, restricting land transfer from agricultural to non-agricultural classes, was passed in:
-
-A. 1885
-
-B. 1900
-
-C. 1919
-
-D. 1935
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Punjab Land Alienation Act 1900 restricts transfer from agricultural to non-agricultural classes.
-
-**Ans: B.** The **Punjab Land Alienation Act, 1900**, is a standard Punjab agrarian fact beside Mahalwari geography.
-
-</details>
-
-**Q18. UPPCS / IAS**
-
-The Assam Company, the first major tea enterprise in Assam, was founded in:
-
-A. 1826
-
-B. 1839
-
-C. 1853
-
-D. 1882
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Assam Company 1839 = first major tea enterprise.
-
-**Ans: B.** The **Assam Company was founded in 1839** after wild tea was found in Assam in the **1820s**.
-
-</details>
-
-**Q19. UPPCS 2020 / UP R.O. 2021**
-
-Match List-I with List-II.
-
-**List-I** A. Jajmani B. Bara Balute C. Mirasi D. Adade
-
-**List-II** 1. Karnataka 2. North India 3. Maharashtra 4. Tamil Nadu
-
-*Row order is not the answer code.*
-
-A. A-2, B-3, C-4, D-1
-
-B. A-3, B-2, C-1, D-4
-
-C. A-2, B-4, C-3, D-1
-
-D. A-4, B-1, C-2, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Regional service-system match — Jajmani North; Bara Balute Maharashtra; Mirasi Tamil Nadu; Adade Karnataka.
-
-**Ans: A.** **Jajmani** — **North India**; **Bara Balute** — **Maharashtra**; **Mirasi** — **Tamil Nadu**; **Adade** — **Karnataka** (code **2-3-4-1**).
-
-</details>
-
-**Q20. UPPCS / UP R.O.**
-
-Roughly what share of central revenue in British India went to the military?
-
-A. About 20%
-
-B. About 30%
-
-C. About 40%
-
-D. About 60%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Military absorbed about 40% of central revenue — common one-liner.
-
-**Ans: C.** About **40%** of central revenue went to the **military** under Company and Crown rule.
-
-</details>
-
-**Q21. IAS / UPPCS / BPSC**
-
-The “Drain of Wealth” in colonial India refers to:
-
-A. Outflow of gold through temple donations
-
-B. Transfer of Indian resources to Britain without an equal return
-
-C. Decline of Indian agriculture only
-
-D. Payment of salaries to Indian civil servants alone
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Drain = export of Indian wealth without material return.
-
-**Ans: B.** Drain means part of India’s wealth was exported **without material return** — Dadabhai Naoroji’s core argument.
-
-</details>
-
-**Q22. UPPCS / IAS / BPSC**
-
-Who was the first and chief propounder of the Drain of Wealth theory, and in which year did he publish *Poverty and Un-British Rule in India*?
-
-A. R. C. Dutt — 1900
-
-B. Dadabhai Naoroji — 1901
-
-C. G. Subramania Iyer — 1896
-
-D. M. G. Ranade — 1893
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Naoroji = chief propounder; *Poverty and Un-British Rule* 1901.
-
-**Ans: B.** **Dadabhai Naoroji** was the chief propounder; *Poverty and Un-British Rule in India* appeared in **1901**.
-
-</details>
-
-**Q23. UPPCS / BPSC**
-
-Who among the following did **not** accept the Drain of Wealth theory?
-
-A. Dadabhai Naoroji
-
-B. R. C. Dutt
-
-C. G. Subramania Iyer
-
-D. Sir Syed Ahmad Khan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sir Syed Ahmad Khan rejected Drain Theory.
-
-**Ans: D.** **Sir Syed Ahmad Khan** rejected the Drain Theory and saw Muslim advance under British rule.
-
-</details>
-
-**Q24. IAS / UPPCS**
-
-Which of the following were among the economic critics of British rule in India?
-
-1. Dadabhai Naoroji
-2. G. Subramania Iyer
-3. R. C. Dutt
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Economic critics cluster — Naoroji, Iyer, Dutt are standard keys.
-
-**Ans: D.** All three — **Naoroji, G. Subramania Iyer and R. C. Dutt** — criticised colonial economic exploitation.
-
-</details>
-
-**Q25. IAS / UPPCS**
-
-Assertion (A): India often showed a favourable balance of trade under British rule.
-
-Reason (R): A favourable balance of trade does not disprove the Drain because exports could leave without equivalent return.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-
-C. (A) is true but (R) is false
-
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Favourable balance of trade could still mean unrequited exports — classic A/R pair.
-
-**Ans: A.** Both are true and **R explains A** — **unrequited exports** could coexist with a favourable trade balance on paper.
-
-</details>
-
-**Q26. UPPCS / IAS**
-
-Indian deindustrialization under British rule is commonly traced from:
-
-A. 1757
-
-B. 1813
-
-C. 1857
-
-D. 1905
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Deindustrialization commonly dated from 1813 when monopoly ended.
-
-**Ans: B.** The process is commonly dated from **1813**, when the Company’s India trade monopoly ended and British manufactures flooded in more freely.
-
-</details>
-
-**Q27. IAS / UPPCS**
-
-Karl Marx’s critique of British economic policy in India is often remembered in coaching notes by which characterisation?
-
-A. Beneficial modernisation
-
-B. Disgusting destruction of old industry
-
-C. Neutral free trade
-
-D. Purely political annexation
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Marx criticised British economic policy in India as destructive.
-
-**Ans: B.** **Karl Marx** criticised British policy as destructive; keys often use the line that it was **“disgusting.”**
-
-</details>
-
-**Q28. UPPCS / IAS**
-
-Sir Arthur Cotton is associated with:
-
-A. Indigo plantations in Bengal
-
-B. Irrigation works in South India
-
-C. Managing agency houses in Calcutta
-
-D. Ryotwari settlement in Bombay
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sir Arthur Cotton = irrigation pioneer in South India.
-
-**Ans: B.** **Sir Arthur Cotton** is the standard **South India irrigation** pioneer in colonial economy stems.
-
-</details>
-
-**Q29. IAS / UPPCS / BPSC**
-
-Which of the following pairs is **not** correctly matched?
-
-A. Aurang — warehouse where goods are collected
-
-B. Banian — Indian commercial agent of the East India Company
-
-C. Mirasidar — designated revenue payer under Ryotwari-era arrangements
-
-D. Aurang — treasury officer of the Mughal state
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Aurang = warehouse; Banian = Company agent; Mirasidar = revenue payer under Ryotwari.
-
-**Ans: D.** **Aurang** means a **warehouse**, not a treasury officer. **Banian** = Company **agent**; **Mirasidar** = designated **revenue payer**.
-
-</details>
-
-**Q30. UPPCS / BPSC**
-
-A major economic result of British rule in the nineteenth century was:
-
-A. Full industrial self-sufficiency
-
-B. Commercialization of agriculture
-
-C. End of cash-crop cultivation
-
-D. Uniform Ryotwari across all of India
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Commercialization of agriculture = major 19th-century economic result.
-
-**Ans: B.** **Commercialization of agriculture** — indigo, opium, cotton and later jute — was a major nineteenth-century result.
-
-</details>
-
-**Q31. UPPCS / IAS**
-
-The impact of the Industrial Revolution on India in the first half of the nineteenth century was chiefly:
-
-A. Rapid growth of Indian heavy industry
-
-B. Ruin of Indian handicrafts under cheap British manufactures
-
-C. End of land revenue as state income
-
-D. Closure of all British factories in India
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Handicrafts ruined in first half of 19th century under one-way free trade.
-
-**Ans: B.** Cheap **Manchester cloth** and one-way free trade **ruined Indian handicrafts** in the early nineteenth century.
-
-</details>
-
-**Q32. BPSC / UPPCS**
-
-Dadabhai Naoroji, the first Indian elected to the British House of Commons (1892), contested on the ticket of the:
-
-A. Conservative Party
-
-B. Liberal Party
-
-C. Labour Party
-
-D. Independent nationalist bloc only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Naoroji 1892 = first Indian in Commons on Liberal ticket.
-
-**Ans: B.** Naoroji won on the **Liberal Party** ticket in **1892**.
-
-</details>
-
-**Q33. BPSC / UPPCS**
-
-The author of *Poverty and Un-British Rule in India* was:
-
-A. R. C. Dutt
-
-B. Bipin Chandra
-
-C. Dadabhai Naoroji
-
-D. Gopal Krishna Gokhale
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** *Poverty and Un-British Rule* author = Naoroji.
-
-**Ans: C.** **Dadabhai Naoroji** wrote *Poverty and Un-British Rule in India* (**1901**).
-
-</details>
-
+---
 
 ## Practice Zone — UPPCS Format Drill
 

@@ -318,25 +318,8 @@ The **Sutta Pitaka** (doctrine & dialogues of Buddha, recited by **Ananda** at t
 - **Magadha** has **Rajgir** (राजगीर), then **Pataliputra** after Udayin’s shift.
 - The 2020 paper spellings are **Sursena, Asmak, Potan, Virat Nagar**. Mathura is Surasena, never Matsya.
 
-**PYQ — UPPCS Prelims 2020, Q6**
-
-Match List-I with List-II:
-
-| List-I (Mahajanpadas) | List-II (Capitals) |
-|-----------------------|-------------------|
-| A. Matsya | 1. Mathura |
-| B. Kuru | 2. Potan |
-| C. Sursena | 3. Virat Nagar |
-| D. Asmak | 4. Indraprastha |
-
-A. 4 2 1 3 B. 3 1 4 2 C. 3 4 1 2 D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Matsya = Viratnagar (3); Kuru = Indraprastha (4); Surasena = Mathura (1); Asmaka = Potana (2). **3-4-1-2.**
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2020, Q6]:** Match Mahajanapada capitals: Matsya = Viratnagar; Kuru = Indraprastha; Shurasena = Mathura; Ashmaka = Potana/Potali. *(See Q1 in Complete PYQ Bank below)*
 
 > **Logic:** Mathura is **Surasena**, never Matsya.
 
@@ -549,6 +532,22 @@ The Shishunagas take Magadha after the Haryanka weak tail. Their territorial pri
 
 ---
 
+
+## 5.11 High-Yield Literature, Dynastic Locks & Coins (Ghatnachakra Spines)
+
+| Category | Key Exam Fact / Lock | Exam Context & Trap |
+|---|---|---|
+| **6 Great Metropolises** | *Mahaparinirvana-sutta* names **6 Metros**: Champa, Rajgriha, Varanasi (Benaras), Saket, Kaushambi, Shravasti | Buddha passed away in Kushinara; do not confuse Kushinara with the 6 metros |
+| **Panini's Grammar** | Born at **Pushkalavati** (Gandhara); *Ashtadhyayi* has **4000 sutras** (8 chapters, 4 padas each); lists **22 Janapadas** | Singles out 3 as most important: **Magadha, Ashmaka, Kamboja** |
+| **8 UP Mahajanapadas** | Exactly 8 of 16 were in present UP: **Kashi, Koshal, Vatsa, Malla, Kuru, Panchal, Shurasena, Chedi** | Matsya is Rajasthan; Anga & Magadha & Vajji are Bihar; Avanti is MP; Ashmaka is Maharashtra/Godavari; Gandhara & Kamboja are NW |
+| **Canal Inscription** | **Hathigumpha inscription** of Kharavela records King **Mahapadmananda** of Magadha excavated a canal in Kalinga | Earliest epigraphic record of canal excavation in India |
+| **Kalpi on Yamuna** | Situated in **Jalaun district (UP)** on bank of river **Yamuna**; ancient name *Kalpriya / Kalpriyanath* | Founded in 4th century by King Vasudeva |
+| **Romance Drama** | *Svapnavasavadattam* by **Bhasa**: love story of Vatsa king **Udayana** and Avanti princess **Vasavadatta** | Set in Ujjayini (Avanti) |
+| **Magadha Dynasties** | Chronology: **Haryanka (544–412 BCE) → Shishunaga (412–344 BCE) → Nanda (344–321 BCE) → Maurya (321–184 BCE) → Shunga (184–75 BCE)** | Shishunaga ended Haryanka; Nanda ended Shishunaga; Maurya ended Nanda |
+| **Nanda Dynasty Facts** | Founder **Mahapadmananda** (Ugrasena) took title **Ekrata** and *Sarvakshatrantaka* (*Aparoparashurama* in Puranas); 9 kings total (*Navanandas*) | Last ruler **Dhanananda** defeated by Chandragupta Maurya |
+| **Earliest Coins** | **Aahat / Punch-marked coins** were made of **silver** (circulated 7th–6th c. BCE through Mauryan period) | Not gold or lead; stamped with symbols |
+| **Karnata Dynasty (Mithila)** | Founded by **Nanyadeva** (1097 CE); capital **Simraon**; Golden Age of Mithila; last ruler **Harisimha Deva** | Harisimha Deva founded the famous **Panji system** of genealogical records |
+
 ## UP Focus
 
 | Mahajanapada | Capital / district fact |
@@ -571,20 +570,7 @@ The Shishunagas take Magadha after the Haryanka weak tail. Their territorial pri
 
 ### Silver coins / sources / lists
 
-**Q1. UPPCS (GIC) 2010**
 
-The earliest extant coins of India were of —
-
-A. Copper B. Gold C. Lead D. Silver
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Earliest extant = punch-marked silver (Aahat), not later gold.
-
-**Ans: D.** Punch-marked / Aahat coins are of **silver**.
-
-</details>
 
 ---
 
@@ -605,20 +591,7 @@ A. Digha Nikaya B. Tripitaka C. Deepavamsa D. Anguttara Nikaya
 
 ---
 
-**Q3. UPPCS Pre 2008 / Spl Mains 2008**
 
-Which one of the following Buddhist texts describes the sixteen Mahajanapadas?
-
-A. Anguttara Nikaya B. Majjhima Nikaya C. Khuddaka Nikaya D. Digha Nikaya
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same list-source trap across Nikayas.
-
-**Ans: A.** **Anguttara Nikaya**.
-
-</details>
 
 ---
 
@@ -746,20 +719,7 @@ A. Hastinapur B. Indraprastha C. Ahichchhatra D. Mathura
 
 ---
 
-**Q10. UP RO/ARO Mains 2014**
 
-Champa was the capital of which Mahajanapada?
-
-A. Magadha B. Vajji C. Kosala D. Anga 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Anga port vs Magadha Rajgir.
-
-**Ans: D.** Anga = **Champa** (Bhagalpur–Munger).
-
-</details>
 
 ---
 
@@ -797,71 +757,19 @@ A. Western Uttar Pradesh B. Rajasthan C. Bundelkhand D. Rohilkhand
 
 ---
 
-**Q13. UPPCS Pre 2010**
 
-What is the town configuration of ancient Shravasti?
-
-A. Circular B. Crescentic C. Triangular D. Quadratic 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Saheth–Maheth excavation plan.
-
-**Ans: B.** Crescentic.
-
-</details>
 
 ---
 
-**Q14. UPPCS Mains 2015**
 
-The town of Kalpi is situated on the bank of the river —
-
-A. Ganga B. Yamuna C. Narmada D. Krishna 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Jalaun Yamuna town.
-
-**Ans: B.** Yamuna.
-
-</details>
 
 ---
 
-**Q15. UP Lower Spl Pre 2008**
 
-The Legend of Udayan–Vasavadatta is related to —
-
-A. Ujjain B. Mathura C. Mahishmati D. Kaushambi 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Story setting is Ujjain imprisonment; Vatsa king loves Avanti princess.
-
-**Ans: A.** Related to **Ujjain** (Bhasa’s *Svapnavasavadattam*).
-
-</details>
 
 ---
 
-**Q16. UPPCS Pre 2009**
 
-What was the ancient name of Ujjain?
-
-A. Taxila B. Indraprastha C. Avantika D. None of the above 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Avantika / Ujjayini = northern Avanti capital.
-
-**Ans: C.** **Avantika**.
-
-</details>
 
 ---
 
@@ -891,88 +799,23 @@ A. 1 2 3 4 B. 4 3 2 1 C. 3 2 4 1 D. 4 1 3 2
 
 ---
 
-**Q18. UPPCS Pre 2007**
 
-Which initial ruler of Magadha killed his father for enthroning and was also killed by his son for the same reason?
-
-A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Middle link of the parricide chain.
-
-**Ans: B.** Ajatashatru.
-
-</details>
 
 ---
 
-**Q19. UPPCS Pre 2011**
 
-The Prince who was responsible for the death of his father was —
-
-A. Ajatashatru B. Chandapradyota C. Prasenjit D. Udayana 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same Ajatashatru fact; Udayana of Vatsa is a distractor.
-
-**Ans: A.** Ajatashatru.
-
-</details>
 
 ---
 
-**Q20. UP Lower Spl Pre 2008**
 
-Power of Magadha was extended over the Malwa region during the reign period of —
-
-A. Bimbisara B. Ajatashatru C. Udayabhadra D. Shishunaga 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Avanti / Malwa falls to Shishunaga, not Bimbisara.
-
-**Ans: D.** Shishunaga annexes Avanti (Malwa).
-
-</details>
 
 ---
 
-**Q21. UP UDA/LDA Spl Pre 2010**
 
-Which King of Magadha is known as Aparoparashurama?
-
-A. Bindusara B. Ajatasatru C. Kalasoka D. Mahapadmananda 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Nanda founder titles.
-
-**Ans: D.** Mahapadma Nanda.
-
-</details>
 
 ---
 
-**Q22. UP UDA/LDA Pre 2006**
 
-Jivaka, the famous physician of the time of Mahatma Buddha, was associated with the court of —
-
-A. Bimbisara B. Chanda Pradyota C. Prasenjit D. Udayana 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Magadha court physician; also sent to treat Pradyota.
-
-**Ans: A.** Court of **Bimbisara**.
-
-</details>
 
 ---
 
@@ -996,75 +839,23 @@ D. Ayodhya inscription of Dhandeva
 
 ---
 
-**Q24. UPPCS Pre 1999**
 
-The epigraphical evidence reveals that under the instructions of a Nanda king, a canal was dug in —
-
-A. Anga B. Vanga C. Kalinga D. Magadha 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same Hathigumpha canal fact.
-
-**Ans: C.** Kalinga.
-
-</details>
 
 ---
 
-**Q25. UP GIC Lecturer 2007 (key debate)**
 
-Who among the following made Varanasi his second capital?
-
-A. Ajatashatru B. Kalashoka C. Mahapadmananda D. Shishunaga 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ambiguous stem; accepted key = Shishunaga.
-
-**Ans: D (accepted).** Shishunaga / Varanasi deputy-king tradition.
-
-</details>
 
 ---
 
 ### Republics / polity
 
-**Q26. UPPCS Pre 1992**
 
-Which one was not in the earlier Republic?
-
-A. Shakya B. Lichchhavi C. Yaudheya D. All of the above 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Buddha-age gana list vs later Yaudheya gana.
-
-**Ans: C.** **Yaudheya** is not in the earlier Buddha-period republic list used by this stem.
-
-</details>
 
 ---
 
 ### UKPCS
 
-**Q27. Uttarakhand PCS Pre 2016**
 
-Who was the founder of Nanda Dynasty in Magadha?
-
-A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Founder vs last Nanda vs Shishunaga tail.
-
-**Ans: A.** Mahapadma Nanda (Ugrasena).
-
-</details>
 
 ---
 
@@ -1142,6 +933,1281 @@ A. 2-1-4-3 B. 4-1-3-2 C. 3-2-1-4 D. 1-3-4-2
 UPPCS Prelims **2025–2018** GS folder still shows the **2020 capital Match List** as the main recent Prelims hit; older UPPCS / RO-ARO / GIC / Lower / UKPCS stems above fill the Ghatnachakra gap so the book is not needed for this topic.
 
 ---
+
+## Complete PYQ Bank — Ghatnachakra Sixth Century BCE (UPPCS / UKPCS / standard)
+
+Complete PYQ collection from Ghatnachakra Sixth Century B.C.E. — Political Condition (56 questions).
+
+**Q-GC1. U.P.P.S.C. (GIC) 2010**
+
+The earliest extant coins of India were of –
+
+A. Copper
+
+B. Gold
+
+C. Lead
+
+D. Silver
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Aahat coins or Punch marked coins were the earliest extant coins in India made up of silver. The marks on them were made by the stamp, so they are called Aahat coins or Punch marked coins.
+
+</details>
+
+---
+
+**Q-GC2. U.P. R.O./A.R.O. (Mains) 2017**
+
+Which of the following is not correctly matched?
+
+A. Anga- Champa
+
+B. Koshala - Ahichchhatra
+
+C. Vatsa - Kaushambi
+
+D. Matsya - Viratnagar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The capital of the Koshala kingdom was Saket and Shravasti. Rest of the other options are correctly matched.
+
+</details>
+
+---
+
+**Q-GC3. U.P. Lower (Spl) (Pre) 2004 / U.P.P.C.S. (Pre) 2000**
+
+Match List-I with List-II and select the correct answer
+from the code given below the lists:
+List-I List-II
+(King) (State)
+A.Pradyot 1. Magadha
+B.Udyan 2. Vatsa
+C.Prasenjit 3. Avanti
+D.Ajatshatru 4. Koshala
+Code :
+A B C D
+
+A. 1 2 3 4
+
+B. 4 3 2 1
+
+C. 3 2 4 1
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** BOOK The Pali scriptures reveal that Pradyot was the king of Avanti. Udayana was the king of Vatsa Mahajanpada. Prasenjit was of Koshala and Ajatashatru was the king of Magadha.
+
+</details>
+
+---
+
+**Q-GC4. M.P.P.C.S. (Pre) 2019**
+
+Chand-pradyota was the ruler of which ancient republic?
+
+A. Kasi
+
+B. Anga
+
+C. Avanti
+
+D. Vajji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Pradyota is the ruler of Avanti. He is said to be the son of Pulika who is said to have killed his master at Ujjain, to make his son the King. Pradyota was a contemporary of Buddha & Bimbisara and found his name in Mahavagga (a part of Vinaya Pitaka) & Puranas. He is said to have ruled for 23 years. Bimbisara sends his Doctor (Raj Vaidhya) Jivak to Pradyota for treatment of Jaundice.
+
+</details>
+
+---
+
+**Q-GC5. U.P.P.C.S. (Pre) 1999**
+
+The epigraphical evidence reveals that under the
+instructions of a Nanda king, a canal was dug in :
+
+A. Anga
+
+B. Vanga
+
+C. Kalinga
+
+D. Magadha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Hathigumpha inscription indicates the Kalinga victory of Nanda’s King Mahapadmananda. According to this, King Nanda took away the statue of King Jinsen and built a canal in Kalinga.
+
+</details>
+
+---
+
+**Q-GC6. M.P.P.C.S. (Pre) 1993 / U.P.P.C.S. (Pre) 2009**
+
+What was the ancient name of Ujjain?
+
+A. Taxila
+
+B. Indraprastha
+
+C. Avantika
+
+D. None of above.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Ujjain, located in Malwa region of Madhya Pradesh, is considered as the ancient historical town of India. This was one of the two capitals of Avanti which was one among the 16 Mahajanapadas. It is also known as Avantika.
+
+</details>
+
+---
+
+**Q-GC7. I.A.S. (Pre) 1997**
+
+The following map shows four of the sixteen
+mahajanapadas that existed in ancient India :
+The places marked A, B, C and D respectively are :
+
+A. Matsya, Chedi, Kosala, Anga
+
+B. Surasena, Avanti, Vatsa, Magadha
+
+C. Matsya, Avanti, Vatsa, Anga
+
+D. Surasena, Chedi, Kosala, Magadha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Options A, B,C,D show Matsya, Avanti, Vatsa and Anga Mahajanapada respectively. Matsya Mahajanapada was located in the Jaipur, Alwar and Bharatpur districts of Rajasthan. Viratnagar was its capital. Avanti Mahajanapada was located in the west and central region of Malwa. It had two parts- Northern Avanti (capital-Ujjayini) and Southern Avanti (capital-Mahishmati). Modern Prayagraj and Kaushambi districts constituted Vatsa Mahajanapada in ancient times. Its capital was Kaushambi. Modern Bhagalpur and Munger districts of Bihar were under the Anga Mahajanapada. Its capital was Champa.
+
+</details>
+
+---
+
+**Q-GC8. R.A.S./R.T.S. (Pre) 2016**
+
+The ancient city which is mentioned in the Mahabharata
+and Mahabhashya both
+
+A. Madhyamika (Nagari)
+
+B. Karkot
+
+C. Viratnagar (Bairat)
+
+D. Raidh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: *.** The ancient city, which is mentioned in the Mahabharata and Mahabhashya is Madhyamika (Nagari) and Viratnagar. Viratnagar was founded by King Virat. It was the capital of Matsya Kingdom. Its history is found in both Mahabharata and Mahabhashya.
+
+</details>
+
+---
+
+**Q-GC9. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Who founded Pataliputra –
+
+A. Udayin
+
+B. Ashoka
+
+C. Bimbisara
+
+D. Mahapadmanada
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: *.** Pataliputra was founded by Ajatashatru, who was the successor of Bimbisara. Udayin shifted the capital of the Magadha Empire from Rajgriha to Pataliputra. It was also the capital of Sishunaga dynasty, Nanda dynasty, and Maurya dynasty.
+
+</details>
+
+---
+
+**Q-GC10. [Chhattisgarh P.C.S. (Pre)-2020]**
+
+Which of the following statements is true regarding
+Pataliputra, the capital of the Magadha Kingdom?
+
+A. Pataliputra was surrounded by the river Ganges in the East and by the river Champa in the North
+
+B. Pataliputra was surrounded by the river Ganges in the North and by the river Sone is the West
+
+C. Pataliputra was surrounded by the Vindhya mountain in the South and by the river Ganges in the East
+
+D. Pataliputra was surrounded by the Vindhya mountain in the South and by the river Champa in the West @apna_channels Join Telegram: @pdfhub4u_all @apna_ghatnachakra CLICK HERE — UPPCS (PRE +MAINS) BOOK Made with Xodo PDF Reader and Editor Indian History General Studies B–89
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ancient Pataliputra (Modern Patna) was surrounded by the river Ganga in the North and by the river Son in the West.
+
+</details>
+
+---
+
+**Q-GC11. 42nd B.P.S.C. (Pre) 1997**
+
+Which ruler had made Pataliputra the capital of his
+empire for the first time?
+
+A. Chandragupta Maurya
+
+B. Ashoka the Great
+
+C. Chandragupta Vikramaditya
+
+D. Kanishka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pataliputra was established by Ajatashatru, the ruler of Haryanka dynasty. Udayin transferred the capital from Rajgriha to Pataliputra. But Udayin is not mentioned in the above options. Here, Chandragupta Maurya will be the correct answer.
+
+</details>
+
+---
+
+**Q-GC12. 44th B.P.S.C. (Pre) 2000**
+
+Who among the following kings had founded Pataliputra?
+
+A. Sisunaga
+
+B. Bimbisara
+
+C. Ajatashatru
+
+D. Udayin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (Pataliputra was established by Ajatashatru, the ruler of Haryanka dynasty. Udayin transferred the capital from Rajgriha to Pataliputra. But Udayin is not mentioned in the above options. Here, Chandragupta Maurya will be the correct answer.)
+
+</details>
+
+---
+
+**Q-GC13. 46th B.P.S.C. (Pre) 2003**
+
+By which ruler was Pataliputra chosen as the capital
+for the first time?
+
+A. Ajatashatru
+
+B. Kalashoka
+
+C. Udayin
+
+D. Kanishka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (Pataliputra was established by Ajatashatru, the ruler of Haryanka dynasty. Udayin transferred the capital from Rajgriha to Pataliputra. But Udayin is not mentioned in the above options. Here, Chandragupta Maurya will be the correct answer.)
+
+</details>
+
+---
+
+**Q-GC14. 68th B.P.S.C. (Pre) 2022**
+
+In ancient times, the area to the south of the Ganga
+was known as
+
+A. Anarta
+
+B. Takshashila
+
+C. Chola
+
+D. More than one of the above
+
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: E.** In ancient times the area along river to the south of Ganga was known as Magadha. Takshashila was situated between Indus and Jhelum. Chola was situated in the south of Godavari river. Anarta was a Vedic era kingdom of ancient India. Hence option (e) none of the above is correct answer.
+
+</details>
+
+---
+
+**Q-GC15. U.P. Lower (Spl) (Pre) 2008**
+
+The Legend of Udayan-Vasavadatta is related to-
+
+A. Ujjain
+
+B. Mathura
+
+C. Mahishmati
+
+D. Kaushambi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The legend of Udayan-Vasavadatta is related to Ujjain. Great poet Bhaas has described this story in his drama ‘Svapnavasvadattam’, the love story of Vatsa king Udayan and Vasvadatta, the daughter of Avanti King Pradyot. The story is set during the time when Udayan was imprisoned in Ujjayini.
+
+</details>
+
+---
+
+**Q-GC16. 42nd B.P.S.C. (Pre) 1997**
+
+In which century did the first Magadhan Empire rise?
+
+A. Fourth Century B.C.
+
+B. Sixth Century B.C.
+
+C. Second Century B.C.
+
+D. First Century B.C.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The first Magadhan empire flourished in 6th century B.C. The actual founder of this empire was king Bimbisara (approximately 544-492 century B.C). He was related to Haryanka dynasty.
+
+</details>
+
+---
+
+**Q-GC17. I.A.S. (Pre) 1999**
+
+Which one of the following was initially the most
+powerful city-state in India in the 6th century B.C.?
+
+A. Gandhar
+
+B. Kamboj
+
+C. Kashi
+
+D. Magadha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Magadha was the most powerful city in the early 6th century B.C. It was one of the richest and most prosperous Mahajanapada among others. Magadha had a long rivalry with Koshala, Anga and Kashi. They always struggled for supremacy.
+
+</details>
+
+---
+
+**Q-GC18. U.P.P.C.S. (Pre) 1992 · UPPCS Complete Bank**
+
+Which one was not in the earlier Republic?
+
+A. Shakya
+
+B. Lichchhavi
+
+C. Yaudheya
+
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The evidence of the existence of lots of republics is found during the Buddha period. They were as follows- (1) Shakya of Kapilavastu, (2) Bhagga of Sumsumaragiri, (3) Buli of Alakappa, (4) Kalam of Kesaputta, (5) Koliya of Ramgama, (6) Malla of Kusinara, (7) Malla of Pava, (8) Moriya of Pipphalivan, (9) Lichchhavi of Vaishali and (10) Videha of Mithila. Yaudheya was not in the earlier republic.
+
+</details>
+
+---
+
+**Q-GC19. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+By whom the first republic of the world was established
+in Vaishali –
+
+A. Maurya
+
+B. Nanda
+
+C. Gupta
+
+D. Lichchhavi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** BOOK The Lichchhavi dynasty of Vaishali established the first republic in the world. Vaishali took its name from King Vishal of the Mahabharata era. Vaishali is a great Buddhist pilgrimage site and also the birthplace of Lord Mahavira.
+
+</details>
+
+---
+
+**Q-GC20. 46th B.P.S.C. (Pre) 2003**
+
+Where was the first republican system of the world
+during 6th century B.C. located?
+
+A. Vaishali
+
+B. Athens
+
+C. Sparta
+
+D. Pataliputra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** See the explanation of above question. (BOOK The Lichchhavi dynasty of Vaishali established the first republic in the world. Vaishali took its name from King Vishal of the Mahabharata era. Vaishali is a great Buddhist pilgrimage site and also the birthplace of Lord Mahavira.)
+
+</details>
+
+---
+
+**Q-GC21. R.A.S./R.T.S.(Pre) 2013**
+
+Which one of the following pair is correctly matched?
+
+A. Parsvanath - Janatrika
+
+B. Bindusara-Shakya
+
+C. Skandagupta-Maurya
+
+D. Chetak-Lichchhavi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** King Chetak was the emperor of the Lichchhavi republic. His daughter Chelana was married to Magadha King Bimbisara. Lichchhavi was one of the clans of the union of Vajji.
+
+</details>
+
+---
+
+**Q-GC22. U.P.P.C.S. (Spl.) (Pre) 2004**
+
+Which Buddha text has described 16 Mahajanpads of
+6th century B.C.?
+
+A. Digha Nikaya
+
+B. Tripitaka
+
+C. Deepavansh
+
+D. Anguattar Nikaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The 16 Mahajanapads of 6th century B.C. were mentioned in Buddhist text ‘Anguttara Nikaya’. They were as followsAnga, Magadha, Kashi, Koshala, Vajji, Malla, Chedi, Vatsa, Kuru, Panchal, Matsya, Shurasena, Ashmaka, Avanti, Gandhara and Kamboj. The list of 16 Mahajanapadas also finds mention in Jain text Bhagavati Sutra.
+
+</details>
+
+---
+
+**Q-GC23. 46th B.P.S.C. (Pre) 2003**
+
+The list of sixteen Mahajanapadas is available in –
+
+A. Mahabharata
+
+B. Anguttar Nikaya
+
+C. Chandogya Upanishad
+
+D. Samyukta Nikaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (The 16 Mahajanapads of 6th century B.C. were mentioned in Buddhist text ‘Anguttara Nikaya’. They were as followsAnga, Magadha, Kashi, Koshala, Vajji, Malla, Chedi, Vatsa, Kuru, Panchal, Matsya, Shurasena, Ashmaka, Avanti, Gandhara and Kamboj. The list of 16 Mahajanapadas also finds mention in Jain text Bhagavati Sutra.)
+
+</details>
+
+---
+
+**Q-GC24. U.P.P.C.S. (Pre) 2008 / U.P.P.C.S. (Spl) (Mains) 2008**
+
+Which one of the following Buddhist texts describes
+the sixteen Mahajanapadas?
+
+A. Anguttara Nikaya
+
+B. Majjhima Nikaya
+
+C. Khuddaka Nikaya
+
+D. Digha Nikaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** See the explanation of above question. (The 16 Mahajanapads of 6th century B.C. were mentioned in Buddhist text ‘Anguttara Nikaya’. They were as followsAnga, Magadha, Kashi, Koshala, Vajji, Malla, Chedi, Vatsa, Kuru, Panchal, Matsya, Shurasena, Ashmaka, Avanti, Gandhara and Kamboj. The list of 16 Mahajanapadas also finds mention in Jain text Bhagavati Sutra.)
+
+</details>
+
+---
+
+**Q-GC25. R.A.S./R.T.S. (Re. Exam) (Pre) 2013**
+
+16 Janpadas of the age of Mahajanapada have often
+been mentioned in the Buddhist literature which of the
+following Janapadas have been mentioned by Panini
+in his Ashtadhyayi?
+A. Magadh B. Ashmak
+C. Kamboj D. Chedi
+E. Vatsa
+Select the correct answer from the codes given below.
+Code :
+
+A. A, B and C
+
+B. D and E
+
+C. C, D and E
+
+D. A, C, D and E
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Panini is known for his Sanskrit grammar. He was born in Pushkalavati, Gandhara. The Ashtadhyayi is one of the earliest known grammars of Sanskrit. The Ashtadhyai consists of 4000 sutras or rules distributed among (eight chapters) which are each subdivided into four sections of padas. Panini mentioned as many as 22 different Janapadas but also mentioned 3 most important Janapadas viz. Magadha, Ashmak and Kamboj.
+
+</details>
+
+---
+
+**Q-GC26. R.A.S. /R.T.S. (Pre) 2016**
+
+In which of the following texts the list of the sixteen great
+states (Shodasha Mahajanapadas) of ancient India occur?
+Select the correct answer from the code given below:
+(i) Arthashastra (ii) Anguttara Nikaya
+(iii)Digha Nikaya (iv)Bhagavati Sutra
+Code :
+
+A. (ii) and (iv)
+
+B. (ii), (iii) and (iv)
+
+C. (i) and (ii)
+
+D. (i), (ii)and (iii)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** See the explanation of above question. (Panini is known for his Sanskrit grammar. He was born in Pushkalavati, Gandhara. The Ashtadhyayi is one of the earliest known grammars of Sanskrit. The Ashtadhyai consists of 4000 sutras or rules distributed among (eight chapters) which are each subdivided into four sections of padas. Panini mentioned as many as 22 different Janapadas but also mentioned 3 most important Janapadas viz. Magadha, Ashmak and Kamboj.)
+
+</details>
+
+---
+
+**Q-GC27. U.P.P.C.S. (Mains) 2006**
+
+The capital of North Panchal, according to Mahabharata,
+was located at :
+
+A. Hastinapur
+
+B. Indraprastha
+
+C. Ahichhatra
+
+D. Mathura
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The capital of Northern Panchala was Ahichchhatra and Kampilya was the capital of southern Panchala. Hastinapura and Indraprastha were the capital of Kuru while Mathura was the capital of Shurasena.
+
+</details>
+
+---
+
+**Q-GC28. Jharkhand P.C.S. (Pre) 2013**
+
+During the period of 16 Mahajanapadas, Mathura was
+the capital of –
+
+A. Vajji
+
+B. Vatsa
+
+C. Kashi
+
+D. Surasena
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** BOOK
+
+</details>
+
+---
+
+**Q-GC29. U.P.R.O./A.R.O. (Mains) 2014**
+
+Champa was the capital of which Mahajanapada?
+
+A. Magadha
+
+B. Vajji
+
+C. Kosala
+
+D. Anga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Champa (Campa) was the capital of Anga Mahajanapada. It covers the modern districts of Munger and Bhagalpur in Bihar. It was later annexed to Magadha by Bimbisara. Magadha was located to its west.
+
+</details>
+
+---
+
+**Q-GC30. U.P.P.C.S. (Mains) 2011**
+
+In the sixth century B.C. Suktimati was the capital of
+
+A. Panchala
+
+B. Kuru
+
+C. Chedi
+
+D. Avanti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** In sixth century BC, Chedi Mahajanapada was located in modern Bundelkhand and its adjacent parts. Its capital was ‘Sotthivati’ which is known as ‘Suktimati’ of Mahabharata.
+
+</details>
+
+---
+
+**Q-GC31. R.A.S./R.T.S.(Pre) 2008**
+
+Mahajanapada situated on the bank of river Godavari was-
+
+A. Avanti
+
+B. Vatsa
+
+C. Assaka
+
+D. Kamboja
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** According to the Buddhist text ‘Anguttara Nikaya’ and Jain text ‘Bhagavati Sutra,’ the ‘Assaka’ or ‘Ashmaka’ was located in between Godavari and Narmada rivers during the 6th century whose capital was Paithan/Potan or Potali (Ancient name Prathisthana).
+
+</details>
+
+---
+
+**Q-GC32. U.P.P.C.S. (Pre) 2017**
+
+Matsya Mahajanapada of 6th Century B.C. was located
+in:
+
+A. Western Uttar Pradesh
+
+B. Rajasthan
+
+C. Bundelkhand
+
+D. Rohilkhand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Matsya Mahajanapad (6th century B.C.) was situated around areas of Jaipur, Alwar and Bharatpur in Rajasthan. Its capital was Viratnagar.
+
+</details>
+
+---
+
+**Q-GC33. 47th B.P.S.C. (Pre) 2005**
+
+Which was the capital of Magadha?
+
+A. Pratishthan
+
+B. Vaishali
+
+C. Girivraj (Rajgriha)
+
+D. Champa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Rajgriha was the first capital of Magadha, (Where first ‘Buddhist Council’ was organized and Lord Mahavir sermoned first). According to Puranas, the first dynasty to rule over Magadh was Brihadrath dynasty. King Brihadrath's son, Jarasandha, made Girivraja (Rajgir) his capital. Later on, Udayin, son of Ajatashatru, moved the capital to Patliputra.
+
+</details>
+
+---
+
+**Q-GC34. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Which was the initial capital of Magadha?
+
+A. Pataliputra
+
+B. Vaishali
+
+C. Girivraja (Rajgriha)
+
+D. Champa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (Rajgriha was the first capital of Magadha, (Where first ‘Buddhist Council’ was organized and Lord Mahavir sermoned first). According to Puranas, the first dynasty to rule over Magadh was Brihadrath dynasty. King Brihadrath's son, Jarasandha, made Girivraja (Rajgir) his capital. Later on, Udayin, son of Ajatashatru, moved the capital to Patliputra.)
+
+</details>
+
+---
+
+**Q-GC35. 66th B.P.S.C. (Pre.) 2020**
+
+Which was the first capital of ancient Mahajanapada
+Magadh?
+
+A. Pataliputra
+
+B. Vaishali
+
+C. Champa
+
+D. Anga
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: E.** Magadh was an ancient kingdom in Bihar. Its first capital was Rajgriha (Modern day Rajgir) which was also known as Girivraj. During the reign of Udayin (Haryanka dynasty) Capital was moved to Pataliputra.
+
+</details>
+
+---
+
+**Q-GC36. 69th B.P.S.C. (Pre) 2023**
+
+Which city served as the capital of the ancient kingdom
+of Magadha during the early Vedic period?
+
+A. Rajgriha
+
+B. Campa
+
+C. Vaishali
+
+D. Pataliputra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC37. Chhattisgarh P.C.S. (Pre) 2011**
+
+Which one of the following was not a capital of
+Magadhan Empire?
+
+A. Girivraja
+
+B. Rajgriha
+
+C. Pataliputra
+
+D. Kaushambi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Girivraja or Rajgriha and Pataliputra were the capitals of the Magadha Empire respectively in ancient times while Kaushambi was ruled by Vatsa state. The capital of Magadha was shifted from Rajgriha to Pataliputra by Haryanka dynasty ruler Udayin.
+
+</details>
+
+---
+
+**Q-GC38. U.P.P.C.S. (Pre) 2010**
+
+What is the town configuration of ancient Shravasti?
+
+A. Circular
+
+B. Crescentic
+
+C. Triangular
+
+D. Quadratic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Alexander Cunningham identified the ancient Shravasti at Sahet-Mahet placed near Shravasti in Uttar Pradesh in 1861. It is known by excavations that the configuration of Shravasti BOOK
+
+</details>
+
+---
+
+**Q-GC39. U.P.P.C.S. (Pre) 2007**
+
+Which initial ruler of Magadha killed his father for
+enthroning and also was killed by his son for the same
+reason?
+
+A. Bimbisara
+
+B. Ajatshatru
+
+C. Udayin
+
+D. Nagdashak
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The ruler of Magadha, Ajatashatru (492-460 BC) killed his father Bimbisara, the founder of Haryanka dynasty and sat on the throne. He was also killed by his son Udayin (different from the king Udayan of Vatsa) for the same reason.
+
+</details>
+
+---
+
+**Q-GC40. 70th B.P.S.C. (Pre) 2024**
+
+Which of the following great ruler founded the
+"Haryanka Vansh" in ancient Bihar?
+
+A. Bimbisara
+
+B. Brihadrath
+
+C. Ajatshatru
+
+D. More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** See the explanation of above question. (The ruler of Magadha, Ajatashatru (492-460 BC) killed his father Bimbisara, the founder of Haryanka dynasty and sat on the throne. He was also killed by his son Udayin (different from the king Udayan of Vatsa) for the same reason.)
+
+</details>
+
+---
+
+**Q-GC41. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+What was the name of the dynasty of Ajatshatru?
+
+A. Maurya
+
+B. Haryanka
+
+C. Nanda
+
+D. Gupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (The ruler of Magadha, Ajatashatru (492-460 BC) killed his father Bimbisara, the founder of Haryanka dynasty and sat on the throne. He was also killed by his son Udayin (different from the king Udayan of Vatsa) for the same reason.)
+
+</details>
+
+---
+
+**Q-GC42. U.P.P.C.S. (Pre) 2011**
+
+The Prince who was responsible for the death of his
+father was-
+
+A. Ajatashatru
+
+B. Chandapradyota
+
+C. Prasenjit
+
+D. Udayan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** See the explanation of above question. (The ruler of Magadha, Ajatashatru (492-460 BC) killed his father Bimbisara, the founder of Haryanka dynasty and sat on the throne. He was also killed by his son Udayin (different from the king Udayan of Vatsa) for the same reason.)
+
+</details>
+
+---
+
+**Q-GC43. [Jharkhand P.S.C. (Mains)-2016]**
+
+Who defeated and assimilated the Vajjis into the
+empire of Magadha?
+
+A. Chandragupta Maurya
+
+B. Asoka
+
+C. Mahapadma Nanda
+
+D. Ajatshatru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Vaishali was the principal republic of the Vajji confederacy. The ruler of this place were Lichchhavi. From the time of Bimbisara, there was estrangement in the Magadha and Vajji Confederations, which turned into conflict during the time of Ajatashatru. It is known from Nirayavali sutra that at that time Chetak was chief of Lichchhavi. He prepared a united front of 9 Lichchhavis, 9 Mallas and 18 Ganrajayas (of Kashi-Koshala) against the king of Magadha. As per Bhagavati Sutta, Ajatashatru was winner of all of them. He defeated Lichchhavis and annexed the Vajjis to the Magadha.
+
+</details>
+
+---
+
+**Q-GC44. U.P. Lower Sub. (Spl) (Pre) 2008**
+
+Power of Magadha was extended over the Malwa
+region during the reign period of –
+
+A. Bimbisara
+
+B. Ajatshatru
+
+C. Udayabhadra
+
+D. Sisunaga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** According to Matsya Puranas, king of Magadha, Shishunaga annexed Avanti (Malwa) into his empire by defeating Nandivardhan.
+
+</details>
+
+---
+
+**Q-GC45. Uttarakhand P.C.S. (Pre) 2016 · UPPCS Complete Bank**
+
+Who was the founder of Nanda Dynasty in Magadha?
+
+A. Mahapadmananda
+
+B. Dhanananda
+
+C. Nandivardhan
+
+D. Mahanandin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** After Shishunaga dynasty, the Nanda dynasty started ruling Magadha. Mahapadmananda or Ugrasen was the founder of Nanda dynasty. He was also called as Sarvakshatrantaka and Aparoparashurama in Puranas.
+
+</details>
+
+---
+
+**Q-GC46. 70th B.P.S.C. (Pre) 2024**
+
+Which dynasty ruled Magadh (Bihar) after Shishunag
+dynasty ?
+
+A. Maurya Vansh
+
+B. Sunga Vansh
+
+C. Nanda Vansh
+
+D. More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above qeustion.
+
+</details>
+
+---
+
+**Q-GC47. U.P. U.D.A./L.D.A. (Spl) (Pre) 2010 · UPPCS Complete Bank**
+
+Which King of Magadha is known as Aparoparashurama?
+
+A. Bindusara
+
+B. Ajatasatru
+
+C. Kalasoka
+
+D. Mahapadmananda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** See the explanation of above question. (See the explanation of above qeustion.)
+
+</details>
+
+---
+
+**Q-GC48. [U.P.G.I.C. Lecturer, 2007]**
+
+Who among the following made Varanasi his second
+capital?
+
+A. Ajatashatru
+
+B. Kalashok
+
+C. Mahapadmananda
+
+D. Shishunag
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: *.** In 6th century BC Varanasi was the capital of Kashi Mahajanapada. It was received as dowry by Haryanka dynasty king Bimbisara when he married Mahakoshala, the sister of Koshala king Prasenjit. During the period of Ajatashatru, Prasenjit married his daughter Vajira with him and accepted his suzerainty over Kashi. Later on when Shishunag made Vaishali his capital, he appointed his son as deputy-king of Varanasi. Hence, it is not very clear from given options that who made Varanasi his second capital. However U.P.P.S.C. BOOK
+
+</details>
+
+---
+
+**Q-GC49. 44th B.P.S.C. (Pre) 2000**
+
+Which dynasty did rule over Magadha after Nanda
+Dynasty?
+
+A. Maurya
+
+B. Shunga
+
+C. Gupta
+
+D. Kushana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nanda dynasty of Magadha was founded after the end of Shishunaga dynasty. There were 9 kings in Nanda dynasty- (1) Ugrasen, called Mahapadmananda in Puranas (2) Panduk (3) Pandugati (4) Bhootpal (5) Rastrapal (6) Govishanak (7) Dashasiddhak (8) Kaivart (9) Dhanananda. During last years of Nanda dynasty, people became turbulent because of extortion and imposition of heavy taxes on small items. By taking advantage of this, Chandragupta Maurya with the help of Chanakya killed Dhananand and established Maurya Empire. Thus option (a) is correct.
+
+</details>
+
+---
+
+**Q-GC50. U.P. U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+Which inscription is the evidence of King Nand?
+
+A. Hathigumpha inscription of Kharvel
+
+B. Rummindei pillar inscription
+
+C. Junagarh inscription of Rudradamana
+
+D. Ayodhya inscription of Dhandeva.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kharvel was the most important emperor of Chedi dynasty of Kalinga. His Hathigumpha inscription is the major source of information about his reign. The engraving of canals in Kalinga by King Mahapadmananda is encrypted in this inscription. It is also the first inscription which tells about the engraving of canals. It mentions the donation of villages to Jain monks. This inscription also mentions that Kharvel defeated the three states Chola, Chera, and Pandyas of the south. Thus, option (a) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC51. Chhattisgarh P.C.S. (Pre) 2008**
+
+Arrange the following Magadhan dynasties in the
+chronological order
+1. Nandas 2. Sungas
+3. Mauryas 4. Haryankas
+Choose the answer from the following codes :
+
+A. 2, 1, 4 and 3
+
+B. 4, 1, 3 and 2
+
+C. 3, 2, 1 and 4
+
+D. 1, 3, 4 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The sequence of these dynasties are as follows:- Haryanka dynasty 544 BC - 412 BC Nanda dynasty 344 BC - 321 BC Mauryan dynasty 321 BC - 184 BC Shunga dynasty 184 BC - 75 BC
+
+</details>
+
+---
+
+**Q-GC52. U.P. U.D.A./L.D.A. (Pre) 2006**
+
+Jivaka, the famous physician of the time of Mahatma
+Buddha, was associated with the court of –
+
+A. Bimbisara
+
+B. Chanda Pradyota
+
+C. Prasenjit
+
+D. Udyana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The famous historical physician Jivaka, a contemporary of Lord Buddha, was related to the court of Bimbisara. Bimbisara had sent Jivaka to the state of Avanti’s king Chandapradyota for medicinal service.
+
+</details>
+
+---
+
+**Q-GC53. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Who was the Physician of Magadh ruler Bimbisara?
+
+A. Shilabhadra
+
+B. Vijayasena
+
+C. Jeevaka
+
+D. Manu
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (The famous historical physician Jivaka, a contemporary of Lord Buddha, was related to the court of Bimbisara. Bimbisara had sent Jivaka to the state of Avanti’s king Chandapradyota for medicinal service.)
+
+</details>
+
+---
+
+**Q-GC54. Uttarakhand P.C.S. (Pre) 2012**
+
+Read the statements (A) and (B) and choose the correct
+answer from the code given below :
+
+A. The sixth century B.C. was a period of great religious upheaval in all parts of the world.
+
+B. The Vedic religion had become very complex. Code :
+
+A. Both
+
+A. and
+
+B. are false.
+
+B. Both
+
+A. and
+
+B. are true.
+
+C. 
+
+A. is true, while
+
+B. is false.
+
+D. 
+
+A. is false, while
+
+B. is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Many religious sects came into existence across the middle Ganga valley of northern India during sixth century B.C., which witnessed an intellectual environment due to the emergence of many new faiths and beliefs. The hermits following different faiths started preaching their thoughts and disclaiming each other’s philosophies. It should be noted during that time, such type of intellectual movements also emerged in other countries of the world. Confucius, Zarathustra and Pythagoras were the people who challenged the traditional assumptions in China, Iran and Greece respectively. Vedic religion became complicated. There was more focus on purity of Shlokas and Yajnas. As a result, the importance of priests increased enormously. It began to spend much money on Yajnas and also motivated animal killings.
+
+</details>
+
+---
+
+**Q-GC55. U.P.P.C.S. (Mains) 2015**
+
+The town of Kalpi is situated on the bank of the river –
+
+A. Ganga
+
+B. Yamuna
+
+C. Narmada
+
+D. Krishna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The town Kalpi is situated in the Jalaun district of Uttar Pradesh on the bank of river Yamuna. During the ancient period, it was famous as Kalpriyanath or Kalpriya Nagari, which was later known as Kalpi. It was built during 4th century BOOK
+
+</details>
+
+---
+
+**Q-GC56. U.P.P.C.S. / Standard**
+
+Match List-I (A) with List-II (B) and select the correct answer from the codes given below the lists:
+
+List-I (Ancient Places of U.P.)
+A. Kuru
+B. Panchal
+C. Kosala
+D. Vatsa
+
+List-II (Capital)
+1. Saket
+2. Kaushambi
+3. Ahichhatra
+4. Indraprastha
+
+A. 1 2 3 4
+
+B. 4 3 1 2
+
+C. 3 4 2 1
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Kuru capital was Indraprastha (4). Panchal capital was Ahichchhatra (North) and Kampilya (South) (3). Kosala capital was Saket and Shravasti (1). Vatsa capital was Kaushambi (2). Correct matching code is 4 3 1 2.
+
+</details>
+
+---
+
 
 ## Practice Zone — UPPCS Format Drill
 

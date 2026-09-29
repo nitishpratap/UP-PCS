@@ -143,33 +143,12 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 - His successor **Islam Shah (Jalal Khan)** ruled from **1545 to 1553**. The Sur empire then collapsed, and **Humayun returned in 1555**.
 - **Todar Mal** served Sher Shah’s revenue system before joining Akbar.
 
-### PYQ — Battle chronology
-
-**1. (UPPCS Prelims 2025, Q79)** Arrange the following battles in chronological order:
-
-1. Kannauj (Bilgram)
-2. Daurah
-3. Samugarh
-4. Chausa
-
-A. 2-4-3-1 | B. 4-2-1-3 | C. 4-2-3-1 | D. 2-4-1-3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (2-4-1-3: Daurah → Chausa → Kannauj → Samugarh)
-
-**Detailed Explanation:**
-- **2. Battle of Daurah (1532 CE):** Humayun defeated the Afghan confederacy led by Mahmud Lodi and Sher Khan (Sher Shah) along the Gomti river in Barabanki district, UP.
-- **4. Battle of Chausa (26 June 1539 CE):** Fought on the banks of the Karmanasa/Ganga near Buxar, Bihar; Sher Shah launched a surprise dawn attack on Humayun's camp, routing the Mughal army and assuming the royal title *Sher Shah*.
-- **1. Battle of Kannauj / Bilgram (17 May 1540 CE):** Sher Shah decisively defeated Humayun, driving him out of Delhi and Agra into 15 years of Persian exile, thereby founding the Second Afghan (Sur) Empire.
-- **3. Battle of Samugarh (29 May 1658 CE):** Fought over a century later near Agra during the Mughal War of Succession, where Aurangzeb defeated Dara Shikoh.
-- **Chronological Sequence:** 2 (1532) → 4 (1539) → 1 (1540) → 3 (1658) = **2-4-1-3**.
-
-**Key Exam Takeaway / Trap:**
-- *Name Distinction:* Do not confuse **Daurah** (1532 CE, Humayun in UP) with **Dharmat** (1658 CE, Aurangzeb in MP) or **Deorai** (1659 CE, Ajmer).
-
-</details>
+> [!TIP] **Exam Anchor — Humayun & Sur Battle Chronology (UPPCS / State PCS Master Spine):**
+> - **1. Battle of Daurah (1532 CE):** Humayun defeated Afghan rebels led by Mahmud Lodi along the Gomti River (UP).
+> - **2. Battle of Chausa (26 June 1539 CE):** Sher Shah routed Humayun near Buxar, Bihar; water-carrier (bhishti) **Nizam** saved Humayun's life; Sher Khan assumed royal title *Sher Shah*, read Khutba, and minted coins.
+> - **3. Battle of Kannauj / Bilgram (17 May 1540 CE):** Decisive Sur victory forcing Humayun into 15-year exile and establishing the Second Afghan (Sur) Empire.
+> - **4. Battle of Sirhind (22 June 1555 CE):** Humayun defeated the Sur forces, triumphantly recapturing Delhi and Agra.
+> *(Distinction: Battle of Samugarh was in 1658 CE during Aurangzeb's war of succession).*
 
 ---
 
@@ -182,30 +161,12 @@ A. 2-4-3-1 | B. 4-2-1-3 | C. 4-2-3-1 | D. 2-4-1-3
 - At the sarkar level, **Shiqdar-i-Shiqdaran** and **Munshif-i-Munsifan** supervised the pargana officers.
 - At the centre, **Diwan-i-Wazarat** managed finance, **Diwan-i-Ariz** handled army rolls and pay, and **Diwan-i-Risalat** dealt with grants and foreign affairs.
 
-### PYQ — Jarib NOT-matched
-
-**1. (UPPCS Prelims 2019, Q87)** Which of the following pairs is **NOT** correctly matched?
-
-A. Dam — Copper
-B. Desai — Revenue Collector
-C. Diwan — Revenue Chief of a province
-D. Jarib — A type of tax
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Jarib — A type of tax is NOT correctly matched)
-
-**Detailed Explanation:**
-- **Option D is incorrectly matched (Correct Answer):** **Jarib** was **never** a tax. In Sher Shah Suri's administrative and land revenue reforms, the *Jarib* was the standard **measuring chain/rope** (made of hemp rope, later fitted with iron rings by Akbar) used to physically measure cultivable land and determine the standard land unit (**Bigha**). The surveyor's fee charged for measurement was called *Jaribana* (approx. 2.5%), but *Jarib* itself was strictly the measuring apparatus.
-- **Option A is correctly matched:** The **Dam** was the standard copper coin (weighing ~380 grains) introduced by Sher Shah and continued under Akbar.
-- **Option B is correctly matched:** **Desai** (or *Deshmukh*) was the traditional hereditary revenue collector/accountant at the pargana or district level, particularly in western India and the Deccan.
-- **Option C is correctly matched:** The **Diwan** served as the chief financial and provincial revenue officer responsible for land revenue assessments, collections, and treasury disbursements.
-
-**Key Exam Takeaway / Trap:**
-- *Revenue Vocabulary Trap:* **Jarib** = Measuring rope / survey apparatus; **Jaribana** = Surveyor's fee; **Muhasilana** = Tax collection fee; **Rai** = Crop yield schedule per bigha.
-
-</details>
+> [!TIP] **Exam Anchor — Sur Revenue Terminology & Apparatus (UPPCS Format):**
+> - **Jarib:** Standard land-measuring rope/chain (made of hemp rope, later improved with iron rings under Akbar); strictly the measuring apparatus, **NOT a tax**.
+> - **Jaribana:** Measurement fee / surveyor's charge (~2.5% of revenue).
+> - **Muhasilana:** Tax collector's fee (~5% of revenue).
+> - **Dam:** Standard copper coin (380 grains).
+> - **Desai / Deshmukh:** Hereditary local revenue collector/accountant at pargana level.
 
 ---
 
@@ -239,28 +200,11 @@ D. Jarib — A type of tax
 - He fixed weights and purity across mints at major towns.
 - Akbar later regulated currency on the same lines; the chief copper coin remained the **Dam**.
 
-### PYQ — Akbar–Sher Shah currency A/R
-
-**1. (UPPCS Prelims 2019, Q12)Assertion (A):** Akbar, like Sher Shah, tried to regulate the currency of the state.
-
-**Reason (R):** As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the **Dam**.
-
-A. Both true and R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true, and (R) is the correct explanation of (A))
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Sher Shah Suri dismantled the chaotic, debased, mixed-alloy currencies of the late Sultanate and introduced a pure tri-metallic monetary system. Akbar adopted Sher Shah's exact monetary framework, standardizing centralized imperial mints under Khwaja Abdus Samad and regulating silver, copper, and gold coinage.
-- **Reason (R) is correct:** Under both Sher Shah and Akbar, the standard, ubiquitous copper coin of daily exchange, market transactions, and fractional revenue accounting was the **Dam** (weighing approx. 380 grains), officially tariffed under Akbar at the unvarying ratio of **40 Dams to 1 silver Rupiya**.
-- **Why (R) explains (A):** The institutional retention and fixed imperial valuation of the copper Dam directly exemplifies the technical continuity and practical regulation of state currency that Akbar inherited from Sher Shah.
-
-**Key Exam Takeaway / Trap:**
-- *Tri-metallic Standard:* Gold = **Mohur**; Silver = **Rupiya** (178 grains pure silver); Copper = **Dam** (380 grains; 40 Dams = 1 Rupiya).
-
-</details>
+> [!TIP] **Exam Anchor — Currency System & Continuity (Sher Shah to Akbar):**
+> - **Tri-metallic Innovation:** Sher Shah established the reformed trimetallic standard that became the basis for Mughal and later British Indian currency.
+> - **Silver Rupee (रुपिया):** 178 grains weight (containing 173 grains pure silver). Inscribed with ruler's name, title, and mint in Arabic and Devanagari.
+> - **Copper Dam (दाम):** 380 grains weight; daily currency of the masses.
+> - **Official Exchange Ratio:** Under Sher Shah, **1 Silver Rupee = 64 Copper Dams (1 : 64)**. Under Akbar, the standardized revenue tariff was fixed at **40 Dams to 1 Rupee**.
 
 ---
 
@@ -282,360 +226,1066 @@ A. Both true and R explains A | B. Both true, R not explanation | C. A true, R f
 
 ---
 
-## Complete PYQ Bank (Topic 8)
 
-**Q1. UPPCS Prelims 2025, Q79**
+### 8.6 Master Fact-Locks — Humayun, Sur Administration & Mughal Architecture
 
-Arrange the following battles in chronological order:
-1. Kannauj
-2. Daurah
-3. Samugarh
-4. Chausa
+| Category / Entity | Specific Details & Exam Anchors | Historic Significance |
+|---|---|---|
+| **Babur's Sons & Mothers** | • **Humayun:** Eldest son, born 1508 in Kabul to **Maham Begum** (Shia lineage).<br>• **Kamran & Askari:** Born to **Gulrukh Begum**.<br>• **Hindal:** Born to **Dildar Begum**.<br>• *Rao Jaitsi of Bikaner:* Kamran Mirza was defeated in the 1530s by **Rao Jaitsi** of Bikaner, celebrated in Beethu Souza's text *Rao-Jaitsi-Ro-Chhanda*. | Mughal dynastic origins |
+| **Humayun's Early Campaigns** | • **Kalinjar Campaign (1531 CE)**<br>• **First Siege of Chunar (1532 CE):** Humayun besieged Chunar Fort for 4 months until Sher Khan submitted.<br>• **Raisina Fort (1532 CE):** Annexed by Humayun.<br>• *Sur Negotiation:* Sher Khan offered to surrender Bihar and pay an annual tribute of 10 lakh dinars if allowed to retain Bengal; Humayun rejected the offer. | Early Mughal-Afghan rivalry |
+| **Bengal Administrative Restructuring** | To prevent provincial insurrections, Sher Shah restructured Bengal into **19 Sirkars** (districts) under military Shiqdars, superintended by a civilian head titled **Amir-i-Bengal** (or *Amin-i-Bengal*). The renowned scholar **Qazi Fajilat** was the first appointed to this office. Across the rest of the empire, he instituted 47 Sirkars. | Administrative decentralization |
+| **Military Units of Islam Shah Suri** | Sher Shah's successor **Islam Shah Suri** (ruled 1545–1553 CE) divided his imperial troops into standardized decimal-like units of **200, 250, and 500** soldiers, a structure later preserved by Sikandar Shah Suri. | Sur military reforms |
+| **Humayun's Tomb Architecture** | Built at Delhi (1565–1572 CE) under the patronage of Humayun's senior widow **Haji Begum** (Bega Begum). Designed by the Persian architect **Mirak Mirza Ghiyas**. First mature **double-dome mausoleum** of Mughal architecture, set within a grand Persian Charbagh layout. | Precursor to the Taj Mahal |
 
-Options: A. 2-4-3-1 | B. 4-2-1-3 | C. 4-2-3-1 | D. 2-4-1-3
+---
 
-<details><summary>Show answer</summary>
+## Complete PYQ Bank — Ghatnachakra Humayun and Sher Shah Suri
 
-**Correct Answer:** **D** (2-4-1-3: Daurah → Chausa → Kannauj → Samugarh)
+Complete unabridged 33-question bank from Ghatna Chakra covering Humayun's lineage, battles (Daurah, Chausa, Kannauj/Bilgram, Sirhind), Sher Shah's education at Jaunpur, administrative & revenue reforms (Patta, Qabuliyat, Ryotwari, Bengal 19 Sirkars), currency system (178 gr Rupee, 380 gr Dam, 1:64 ratio), Battle of Sammel/Marwar (Jaita & Kumpa), Kalinjar expedition, Sasaram tomb, Purana Qila, and Humayun's Tomb. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
 
-**Detailed Explanation:**
-- **2. Battle of Daurah (1532 CE):** Humayun defeated Afghan forces under Mahmud Lodi and Sher Khan in Barabanki district, UP.
-- **4. Battle of Chausa (26 June 1539 CE):** Sher Shah surprised and routed Humayun near Buxar, Bihar; Sher Khan formally proclaimed himself *Sher Shah*.
-- **1. Battle of Kannauj / Bilgram (17 May 1540 CE):** Decisive confrontation in Hardoi/Kannauj, UP, in which Sher Shah completely expelled Humayun from India and established the Sur dynasty.
-- **3. Battle of Samugarh (29 May 1658 CE):** Fought over a century later near Agra during the War of Succession, where Aurangzeb defeated Dara Shikoh.
-- **Chronological Sequence:** 2 (1532) → 4 (1539) → 1 (1540) → 3 (1658) = **2-4-1-3**.
+---
 
-**Key Exam Takeaway / Trap:**
-- *Chronology Anchor:* Always distinguish 1532 **Daurah** (Humayun's early victory) from 1539 **Chausa** and 1540 **Kannauj** (Sher Shah's decisive triumphs).
+**Q-GC1. State PCS**
 
-</details>
+From the following names identify the one who was
+not the brother of Humayun.
 
-**Q2. UPPCS Prelims 2022, Q95**
-
-From which place were Jayata and Kumpa associated, who impressed Sher Shah with their valour?
-
-A. Bundelkhand
-B. Malwa
-C. Marwar
-D. Mewar
+- (a) Kamran
+- (b) Usman
+- (c) Askari
+- (d) Hindal U.P. Lower Sub. (Pre) 2008 Indian History General Studies B–279
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Marwar)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Option C is correct:** **Jayata** (Jaita) and **Kumpa** were legendary Rathore generals of **Marwar** serving under Rao Maldeo Rathore. In January 1544 CE, at the **Battle of Sammel** (or *Battle of Giri-Sumel*, near Jaitaran in modern Pali district, Rajasthan), Sher Shah used forged letters to create suspicion between Rao Maldeo and his generals. Although Maldeo retreated with the main army, Jayata and Kumpa refused to leave, attacked Sher Shah's 80,000-strong army with only 12,000 desperate Rathore warriors, and fought so ferociously that the Sur army was nearly routed before being saved by fresh reinforcements under Jalal Khan Julwani.
-- **Historical Outcome:** Impressed and shaken by their suicidal valor, Sher Shah famously uttered: *"For a handful of bajra (millet), I had almost lost the empire of Hindustan!"*
-- **Options A, B, and D are incorrect:** Bundelkhand was the Chandel territory of Kalinjar; Malwa was ruled by Qadir Shah; Mewar was ruled by Rana Udai Singh (Sisodia). Jayata and Kumpa were strictly Rathores of Marwar.
+**Explanation:**
+Kamran, Askari, and Hindal were the sons of Babur and the
 
-**Key Exam Takeaway / Trap:**
-- *Famous Quote Context:* Sher Shah's famous lament about "a handful of millet" was made after the **Battle of Giri-Sumel (1544 CE)** against the **Rathores of Marwar** (Jayata and Kumpa), NOT against Mewar or Malwa.
+brothers of Humayun. Humayun was the eldest son of Babur,
 
+born in Kabul in 1508 A.D. His mother, Maham Begum was
+
+related to Shia sect. Usman was not his brother.
 </details>
 
-**Q3. UPPCS Prelims 2019, Q12**
+---
 
-Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.
-Reason (R): As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the Dam.
+**Q-GC2. 41st B.P.S.C. (Pre) 1996**
 
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
+Arrange properly as per dates of four important battles
+fought by Humayun, the names of battlefields are given
+below –
+
+- (a) Chausa, Devara, Kanauj, Sirhind
+- (b) Devara, Kanauj, Chausa, Sirhind
+- (c) Sirhind, Devara, Chausa, Kanauj
+- (d) Devara, Chausa, Kanauj, Sirhind
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Both (A) and (R) are true, and (R) is the correct explanation of (A))
+**Answer: (d)**
 
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Akbar institutionalized and continued Sher Shah Suri's comprehensive currency reforms, replacing debased Sultanate coins with a uniform tri-metallic monetary system.
-- **Reason (R) is correct:** Under both rulers, the standard copper coin of day-to-day trade and revenue calculation was the **Dam** (approx. 380 grains), with Akbar fixing the official exchange rate at 40 Dams to 1 silver Rupiya.
-- **Why (R) explains (A):** The continuation and official tariffing of the copper Dam demonstrates the exact institutional continuity and regulatory mechanism Akbar adopted from Sher Shah.
+**Explanation:**
+The correct order of battles fought by Humayun is as followsDevara, Chausa, Kannauj and Sirhind. Humayun defeated
 
-**Key Exam Takeaway / Trap:**
-- *Tri-metallic Weight Anchor:* Silver **Rupiya** = 178 grains (pure silver); Copper **Dam** = 380 grains (pure copper); 1 Rupiya = 40 Dams.
+Afghan rebels on the banks of Gomati at Devara or Daurah
 
+in 1532 A.D. Sher Shah defeated Humayun in the Battle of
+
+Chausa on 26 June 1539 AD in which a water fetcher named
+
+Nizam saved his life. This victory against Humayun increased
+
+the prestige and power of Sher Shah. He read ‘Khutba’ by
+
+his name, occupying the title of Sher Shah and engraved
+
+this on the coins.
+
+On 17th May, 1540 AD Humayun was again defeated by Sher
+
+Shah in the Battle of Kanauj (Bilgram) and Humayun fled
+
+from one place to the other after this war. Humayun occupied
+
+Delhi again in the Battle of Sirhind on 22th June, 1555 AD.
 </details>
 
-**Q4. UPPCS Prelims 2019, Q13**
+---
 
-Arrange the following battles in chronological order:
-I. Battle of Sarnal
-II. Battle of Bilgram
-III. Battle of Dharmat
-IV. Battle of Jajau
+**Q-GC3. Rajasthan P.C.S. (Pre) 2024**
 
-A. II-I-III-IV
-B. II-III-IV-I
-C. III-II-I-IV
-D. III-I-II-IV
+According to ‘Rao-Jaitsi-Ro-Chhanda’, who among
+the following was defeated by Rao Jaitsi, the ruler of
+Bikaner?
+
+- (a) Humayun
+- (b) Kamran
+- (c) Shershah
+- (d) Akbar
+- (e) Question not attempted
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (II-I-III-IV: Bilgram → Sarnal → Dharmat → Jajau)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **II. Battle of Bilgram / Kannauj (17 May 1540 CE):** Sher Shah Suri decisively defeated Humayun, establishing the Sur Empire.
-- **I. Battle of Sarnal (December 1572 CE):** Fought during Akbar's conquest of Gujarat, where Akbar defeated the rebellious Mirzas along the Mahi river. *(Note: Do not confuse Sarnal [1572 CE] with Karnal [1739 CE]).*
-- **III. Battle of Dharmat (15 April 1658 CE):** Aurangzeb and Murad defeated Maharaja Jaswant Singh near Ujjain during the Mughal War of Succession.
-- **IV. Battle of Jajau (18 June 1707 CE):** Prince Muazzam (Bahadur Shah I) defeated Prince Muhammad Azam Shah near Agra after Aurangzeb's death.
-- **Chronological Sequence:** II (1540) → I (1572) → III (1658) → IV (1707) = **II-I-III-IV**.
+**Explanation:**
+After the death of Mughal Emperor Babur, his son Humayun
 
-**Key Exam Takeaway / Trap:**
-- *Sarnal vs Karnal:* **Sarnal (1572 CE)** = Akbar's Gujarat battle; **Karnal (1739 CE)** = Nadir Shah vs Muhammad Shah Rangeela.
+ascended the Mughal throne. After coming to power,
 
+Humayun wanted to establish firm control over northern India
+
+by subduing the Rajput states. To achieve this, he sent his
+
+brother Kamran Mirza against Rao Jaitsi (or Rao Jait Singh),
+
+the independent ruler of Bikaner, in the 1530s. According to
+
+Beethu Souza’s text Rao-Jaitsi-Ro-Chhanda, a battle took
+
+place between Kamran and Rao Jaitsi, in which Rao Jaitsi
+
+defeated Kamran.
 </details>
 
-**Q5. UPPCS Prelims 2019, Q87**
+---
 
-Which of the following is NOT correctly matched?
-A. Dam — Copper
-B. Desai — Revenue Collector
-C. Diwan — Revenue Chief of a province
-D. Jarib — A type of tax
+**Q-GC4. 68th B.P.S.C. (Pre) 2022**
+
+Who among the following made an offer to Humayun
+that he would surrender Bihar and pay an annual
+tribute of 10 lakh dinars if he was allowed to retain
+Bengal?
+
+- (a) Bahadur Shah
+- (b) Sher Khan
+- (c) Bairam Khan
+- (d) More than one of the above
+- (e) None of the above
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Jarib — A type of tax is NOT correctly matched)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Option D is incorrectly matched (Correct Answer):** **Jarib** was a **land measuring rope/chain** used to measure cultivable land and determine the standard bigha; it was never a tax.
-- **Option A is correctly matched:** Dam was the standard copper coin introduced by Sher Shah Suri.
-- **Option B is correctly matched:** Desai was the traditional hereditary revenue official at the pargana level.
-- **Option C is correctly matched:** Diwan was the chief provincial finance and revenue officer.
+**Explanation:**
+Sher Khan made an offer to Mughal emperor Humayun that
 
-**Key Exam Takeaway / Trap:**
-- *Jarib vs Jaribana:* **Jarib** = Measuring rope; **Jaribana** = Surveyor's assessment fee (approx. 2.5%).
+he would surrender Bihar and Pay an annual tribute of 10
 
+lakh dinars if he was allowed to retain Bengal, but Humayun
+
+declined the offer.
 </details>
 
-**Q6. UPPCS Prelims 2019, Q91**
+---
 
-Arrange the following monuments in chronological order of construction:
-I. Rabia Daurani’s Tomb (Bibi ka Maqbara), Aurangabad
-II. Sher Shah’s Tomb, Sasaram
-III. Humayun’s Tomb, Delhi
-IV. Atala Mosque, Jaunpur
+**Q-GC5. U.P.B.E.O. (Pre) 2019**
 
-A. I-II-IV-III
-B. IV-II-III-I
-C. II-I-III-IV
-D. III-IV-II-I
+Which of the following two rulers fought the battle
+near Kannauj of 17th May 1540?
+
+- (a) Humayun and Sultan Mohammad Nuhani
+- (b) Shershah and Humayun
+- (c) Shershah and Mirza Kamran
+- (d) Mohammad Shah and Humayun
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (IV-II-III-I: Atala Mosque → Sher Shah Tomb → Humayun Tomb → Rabia Daurani Tomb)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **IV. Atala Mosque, Jaunpur (1408 CE):** Built by Sultan Ibrahim Shah Sharqi; masterpiece of Sharqi architecture.
-- **II. Sher Shah’s Tomb, Sasaram (1545 CE):** Monumental octagonal red sandstone mausoleum designed by Aliwal Khan, rising from an artificial lake in Bihar; completed shortly after Sher Shah's death in 1545 CE.
-- **III. Humayun’s Tomb, Delhi (1565–1572 CE):** Commissioned by Bega Begum and designed by Persian architect Mirak Mirza Ghiyath; pioneer of the Charbagh garden tomb style.
-- **I. Rabia Daurani’s Tomb (Bibi ka Maqbara), Aurangabad (1678 CE):** Built by Prince Azam Shah in memory of his mother Dilras Banu Begum (Rabia Daurani).
-- **Chronological Sequence:** IV (1408) → II (1545) → III (1572) → I (1678) = **IV-II-III-I**.
+**Explanation:**
+Shershah Suri & Humayun fought the battle near Kannauj on
 
-**Key Exam Takeaway / Trap:**
-- *Sasaram Tomb Features:* Built in the middle of a square lake; octagonal design; Indo-Islamic architectural bridge between the Lodi style and Mughal architecture.
+17th May 1540 AD. Shershah defeated Humayun. Since the
 
+battle was fought in an ancient town, Bilgram (now municipal
+
+board in Hardoi district, U.P.), it is also called Battle of Bilgram.
 </details>
 
-**Q7. UPPCS Prelims 2018, Q94 (Purana Qila Overlap)**
+---
 
-Khayr-ul-Manazil opposite Purana Qila was constructed by?
+**Q-GC6. R.A.S./R.T.S. (Pre) 2013**
 
-A. Hamida Banu
-B. Salima Sultan
-C. Jiji Anga
-D. Maham Anaga
+From where did Fareed, who later on became Sher
+Shah Suri, get his education :
+
+- (a) Sasaram
+- (b) Patna
+- (c) Jaunpur
+- (d) Lahore
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Maham Anaga)
+**Answer: (c)**
 
-**Detailed Explanation:**
-- **Option D is correct:** **Khayr-ul-Manazil** (a mosque and madrasa located directly opposite the Purana Qila in Delhi) was constructed in **1561–62 CE** by **Maham Anaga**, Emperor Akbar's influential foster mother and head of the imperial harem during the "Petticoat Government" period (1560–1562 CE), with the assistance of Shihabuddin Ahmad Khan. In 1564 CE, an assassination attempt on Akbar took place near this mosque.
-- **Options A, B, and C are incorrect:** Hamida Banu was Akbar's mother; Salima Sultan was Bairam Khan's widow (later married by Akbar); Jiji Anga was another foster mother (mother of Mirza Aziz Koka).
-- **Purana Qila Connection:** The citadel itself (*Purana Qila*) was built by Sher Shah Suri (incorporating Humayun's *Dinpanah*), containing Sher Shah's *Qila-i-Kuhna Mosque* and *Sher Mandal*, but the mosque *opposite* the fort (*Khayr-ul-Manazil*) was built by Maham Anaga.
+**Explanation:**
+Farid Khan, who later became Sher Shah Suri, got his
 
-**Key Exam Takeaway / Trap:**
-- *Purana Qila Buildings:* Inside Purana Qila = **Qila-i-Kuhna Mosque** & **Sher Mandal** (built by Sher Shah). Opposite Purana Qila = **Khayr-ul-Manazil** (built by Maham Anaga under Akbar).
+education from Jaunpur. He left his home in 1494 AD and
 
-</details>## Ghatnachakra Extra Drill — Sher Shah (UPPCS first)
-
-Teaching for these stems sits in **8.1–8.6**.
-
-**Q1. UPPCS / Ghatnachakra**
-
-In Sher Shah's revenue system, **patta** and **qabuliat** respectively mean:
-
-A. Measuring rope and crop rate
-B. State document to peasant and peasant's acceptance
-C. Gold and silver coins
-D. Spy report and army roll
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** The state issued a **patta** showing area and demand; **qabuliat** was the cultivator's **written acceptance**. Both continued under Akbar's zabt.
-
+came to Jaunpur for studies which was famous as ‘’Siraj-iHind’’ during that time.
 </details>
 
-**Q2. UPPCS / Ghatnachakra**
+---
 
-Sher Shah died:
+**Q-GC7. U.P.P.C.S. (UDA/LDA) (Pre) 2010**
 
-A. At Chausa in 1539
-B. At Kannauj in 1540
-C. During the Kalinjar siege in 1545
-D. At Sasaram palace of old age
+Which one of the following medieval era rulers
+mentioned below was highly educated?
 
-<details>
-<summary>Show answer</summary>
+- (a) Balban
+- (b) Alauddin Khalji
+- (c) Ibrahim Lodi
+- (d) Sher Shah
 
-**Ans: C.** He died in **May 1545** at the **Kalinjar** siege from a **gunpowder/magazine explosion**. His tomb is the lake mausoleum at **Sasaram**.
+<details><summary>Show answer</summary>
 
+**Answer: (d)**
+
+**Explanation:**
+Sher Shah completed his formal education in Jaunpur, which
+
+was the center of education at that time.
 </details>
 
-**Q3. UPPCS / Ghatnachakra**
+---
 
-Sher Shah's famous quote about nearly losing the "empire of Hindustan" for a handful of millets refers to:
+**Q-GC8. (c) Sher Shah Suri (d) Islam Shah Suri, 44th B.P.S.C. (Pre) 2000**
 
-A. Battle of Chausa
-B. Battle of Kannauj
-C. Battle of Sammel/Giri-Sumel vs Rao Maldeo (1544)
-D. Siege of Chunar
+Which of the following rulers at first assumed the title
+of ‘Hazrat-e-Ala’ and afterwards ‘Sultan’?
 
-<details>
-<summary>Show answer</summary>
+- (a) Bahlul Lodi
+- (b) Sikandar Lodi
 
-**Ans: C.** After **Sammel (1544)** against **Rao Maldeo of Marwar**, Sher Shah said he nearly lost Hindustan for a handful of **bajra**. **Jayata** and **Kumpa** were the loyal Rathore captains.
+<details><summary>Show answer</summary>
 
+**Answer: (c)**
+
+**Explanation:**
+B
+
+Sher Khan assumed the title of ‘Hazrat-e-Ala’ after defeating
+
+the ruler of Bengal, Nusrat Shah. He assumed the royal title
+
+of ‘Sher Shah’ after defeating Humayun in the Battle of
+
+Chausa on June 26th, 1539 AD and ordered to read Khutba
+
+by his name and the coins to be minted his name.
 </details>
 
-**Q4. UPPCS Prelims 2019, Q91 (Ghatnachakra repeat)**
+---
 
-Monuments: I Rabia Daurani II Sher Shah tomb III Humayun IV Atala Jaunpur
+**Q-GC9. Uttarakhand P.C.S. (Pre) 2003**
 
-A. I-II-IV-III
-B. IV-II-III-I
-C. II-I-III-IV
-D. III-IV-II-I
+Which improvements among these were done by Sher
+Shah Suri?
+(1) Revenue reforms
+(2) Administrative reforms
+(3) Military reforms
+(4) Currency system reforms
+Select the right answer by using code given below –
 
-<details>
-<summary>Show answer</summary>
+- (a) 1 and 2
+- (b) 1,2 and 3
+- (c) 2,3 and 4
+- (d) all the above
 
-**Ans: B (IV-II-III-I).** **Atala Jaunpur** → **Sher Shah Sasaram (~1545)** → **Humayun Delhi (~1565)** → **Rabia Daurani Aurangabad (~1678)**.
+<details><summary>Show answer</summary>
 
+**Answer: (d)**
+
+**Explanation:**
+Sher Shah Suri had a significant role in medieval India. He
+
+is considered the antecedent of Akbar as an administrative
+
+imperialist.
+
+(1) Revenue reforms: Sher Shah believed that for the
+
+stability of the empire, it was essential to satisfy the
+
+peasants and make them happy. He introduced numerous
+
+reforms in land revenue administration. His land revenue
+
+collection was based on Rayatwari and was settled
+
+directly with cultivators. He adopted an improved and
+
+systematic method of measuring the land and assessing
+
+its revenue.
+
+(2) Administrative Reforms: Sher Shah managed his father’s
+
+manor as manager and obtained the essential knowledge
+
+of administration. He had a proper knowledge of military
+
+composition, administration and financial system of
+
+Mughals. He was the head of the central government.
+
+His administration was completely centralised before
+
+victory over Bengal. He divided the whole kingdom into
+
+47 Sirkars (districts) (According to Dr. Kanungo).
+
+ He arranged a different system for Bengal province. He
+
+divided the province into 19 Sirkars (districts) (According
+
+to Satish Chandra) and appointed a military official as
+
+Shiqdar to control.
+
+ A non-military official Amir-i-Bengal was also appointed
+
+for assistance. This arrangement was made for the
+
+abolishment of revolt threat.
+
+(3) Military Reforms: Sher Shah introduced many reforms
+
+in military sector for empire consolidation. He was
+
+inspired by reforms of Alauddin Khalji. He recruited and
+
+paid the soldiers directly and every soldier had his chehra
+
+(face) recorded and his horse branded with an imperial
+
+sign, to stop fraud.
+
+(4) Currency System Reforms: The reign of Sher Shah was
+
+an era of experiment in the history of coins. V.A. Smith
+
+rightly observes ‘’It is the basis of the existing British
+
+currency’’. He introduced pure gold, silver and copper
+
+coins in place of the beaten coins. His silver rupee coins
+
+weighed 178 grains and coppers Daam weighed 380 grains.
+
+Thus, credit of these reforms goes to Sher Shah Suri.
 </details>
 
-**Q5. UP RO/ARO Prelims 2021 / Ghatnachakra**
+---
 
-Consider Sher Shah Suri:
+**Q-GC10. Uttarakhand P.C.S. (Pre) 2012**
 
-1. His qualities as a ruler were more remarkable than his battlefield victories alone.
-2. He left no lasting administrative contribution.
+After the downfall of the Delhi Sultanate, who was the
+first ruler to issue the gold coin?
 
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
+- (a) Akbar
+- (b) Humayun
+- (c) Shah Jahan
+- (d) Sher Shah
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Ans: A (Only 1).** Statement **1** is true — roads, **patta/qabuliat**, coins, and pargana officers outlasted five years of rule. Statement **2** is false — Mughals copied his revenue and currency template.
+**Answer: (b)**
 
+**Explanation:**
+After the downfall of Delhi Sultanate, Humayun was the
+
+first ruler to issue a gold coin. It is also mentioned that after
+
+Humayun, Sher Shah also introduced a gold coin. UKPSC
+
+accepted option (a) as the right answer, which is wrong.
 </details>
 
-**Q6. UPPCS / Ghatnachakra**
+---
 
-The **Qila-i-Kuhna** mosque is located inside:
+**Q-GC11. 48th to 52ndB.P.S.C. (Pre) 2008**
 
-A. Fatehpur Sikri
-B. Purana Qila, Delhi
-C. Rohtas Fort, Bihar
-D. Kalinjar Fort
+When Humayun invaded Chunar Fort first time?
 
-<details>
-<summary>Show answer</summary>
+- (a) 1532
+- (b) 1531
+- (c) 1533
+- (d) 1536
 
-**Ans: B.** **Qila-i-Kuhna** is the old mosque **inside Purana Qila**, rebuilt by **Sher Shah** in Delhi. **Khayr-ul-Manazil** opposite the fort is **Maham Anaga's** (Akbar era).
+<details><summary>Show answer</summary>
 
+**Answer: (a)**
+
+**Explanation:**
+Humayun invaded Chunar Fort for the first time in 1532
+
+AD. Humayun besieged this fort for four months, and after
+
+that, Sher Khan accepted his supremacy. In addition to this,
+
+he invaded Kalinjar in 1531 AD and annexed Raisina fort
+
+in 1532 AD.
 </details>
 
-**Q7. UPPCS / Ghatnachakra**
+---
 
-Sher Shah's **Sadak-e-Azam** (Grand Trunk Road) connected:
+**Q-GC12. U.P.P.C.S. (RO/ARO) (Mains) 2017**
 
-A. Agra to Lahore only
-B. Sonargaon to Peshawar/Kabul
-C. Surat to Delhi
-D. Golkonda to Kannauj
+Consider the following events and arrange them in
+chronological order
+I. Battle of Daurah
+II. Battle of Kanauj
+III.Battle of Samugarh
+IV. Battle of Chausa
+Select the correct answer using the codes given below:
 
-<details>
-<summary>Show answer</summary>
+- (a) II, III, I, IV
+- (b) I, IV, II, III
+- (c) I, II, IV, III
+- (d) II, I, IV, III
 
-**Ans: B.** The **Sadak-e-Azam** ran **Sonargaon (Bengal)** to **Peshawar/Kabul** through the Gangetic heartland, with **sarais** about every **12 kos**.
+<details><summary>Show answer</summary>
 
+**Answer: (b)**
+
+**Explanation:**
+The correct chronological order of the above-mentioned
+
+events is - Battle of Daurah (1532 A.D.), Battle of Chausa
+
+(1539 A.D.), Battle of Kannauj (1540 A.D.) and Battle of
+
+Samugarh (1658 A.D.). Humayun defeated Mahmud Lodi in
+
+battle of Daurah. Sher Shah defeated Humayun in the Battle
+
+of Kannauj. The Battle of Samugarh was fought between
+
+Dara Shikoh and his two younger brothers, Aurangzeb and
+
+Murad Baksh. Battle of Chausa was fought between Sher
+
+Shah and Humayun. 
+
+Indian History General Studies B–281
 </details>
 
-**Q8. UPPCS Prelims 2019, Q87 (Ghatnachakra repeat)**
+---
 
-NOT correctly matched:
+**Q-GC13. 48th to 52nd B.P.S.C. (Pre) 2008**
 
-A. Dam — Copper
-B. Desai — Revenue Collector
-C. Diwan — Revenue Chief of a province
-D. Jarib — A type of tax
+Who among the following has constructed a mausoleum
+for her emperor husband?
 
-<details>
-<summary>Show answer</summary>
+- (a) Shah Begum
+- (b) Haji Begum
+- (c) Mumtaz Mahal Begum
+- (d) Nurnissa Begum
 
-**Correct Answer:** **D** (Jarib — A type of tax)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Option D is NOT correctly matched (hence the correct answer):** **Jarib** was a physical **land-measuring standard unit/rope** (made of hemp or bamboo links joined by iron rings) used during land surveys to demarcate bighas, not a tax. The tax levied to cover the surveying expenses was called **Jaribana** (survey fee, usually 2.5% of revenue).
-- **Option A is correctly matched:** **Dam** was the standard copper coin introduced by Sher Shah, weighing around 380 grains (1 silver Rupiya = 64 copper Dams).
-- **Option B is correctly matched:** **Desai** (or *Amil*) was the key local revenue-collecting official in parganas and rural districts.
-- **Option C is correctly matched:** **Diwan** was the chief provincial or imperial finance and revenue officer responsible for state accounts.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Watch the linguistic distinction: **Jarib = Survey measuring rope/instrument**. **Jaribana = Survey fee/cess**. **Muhasilana = Tax collection fee**.
+**Explanation:**
+Haji Begum constructed a mausoleum for her husband
 
+Humayun at Delhi in 1565-1572 A.D. as ‘tomb of Humayun.’
+
+Mirak Mirza Ghiyash, a Persian, was the architect employed
+
+by Haji Begum for this tomb. It is the first double dome
+
+mausoleum of Mughal Architecture A garden, surrounds
+
+outwards of the tomb.
 </details>
 
-### Other papers (Ghatnachakra Extra)
+---
 
-**Q9. RAS/RTS / Ghatnachakra**
+**Q-GC14. M.P. P.C.S. (Pre) 1991**
 
-Sher Shah (Farid Khan) received education at:
+Who introduced coin of silver?
 
-A. Delhi
-B. Jaunpur
-C. Sasaram only
-D. Gaur (Bengal)
+- (a) Akbar
+- (b) Sher Shah
+- (c) Alauddin Khalji
+- (d) Bakhtiyar Khalji
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Ans: B.** **Farid Khan** studied at **Jaunpur**, the **Siraj-i-Hind** educational centre, before returning to Bihar–Sasaram service.
+**Answer: (b)**
 
+**Explanation:**
+Sher Shah is honoured for the establishment of the reformed
+
+currency system, which circulated during the Mughal period
+
+and became the basis of British currency. He introduced pure
+
+gold, silver and copper coins as well as abolished currency
+
+coins of mixed metal, which had fixed-rate and sizes. His
+
+silver rupee coins weighed 178 grains of which 173 grains
+
+were pure silver. Sher Shah’s name, title and place of mint
+
+were invariably inscribed on the coins in Arabic language and
+
+Devanagari script.
 </details>
 
-**Q10. BPSC / Ghatnachakra**
+---
 
-Sher Shah assumed the title **Sher Shah** after which battle?
+**Q-GC15. U.P.P.C.S. (UDA/LDA) (Pre) 2006**
 
-A. Daurah (1532)
-B. Chausa (1539)
-C. Kannauj (1540)
-D. Sammel (1544)
+What was the exchange rate of silver’s rupiya ?
 
-<details>
-<summary>Show answer</summary>
+- (a) 16:1
+- (b) 32:1
+- (c) 48:1
+- (d) 64:1
 
-**Ans: B.** He rose as **Sher Khan** after the tiger kill; took **Hazrat-e-Ala** in Bengal service; assumed imperial **Sher Shah** after defeating Humayun at **Chausa (1539)**. **Kannauj (1540)** sealed Delhi.
+<details><summary>Show answer</summary>
 
+**Answer: (d)**
+
+**Explanation:**
+The currency system of Sher Shah was well-developed. He
+
+introduced pure silver’s Rupiya (Rupee) (178 grains) and
+
+Copper Daam (380 grains). At that time the exchange rate
+
+of Rupiya and Daam was 1 : 64.
 </details>
+
+---
+
+**Q-GC16. Jharkhand P.C.S. (Pre) 2016**
+
+The pure silver "rupiya" was issued by
+
+- (a) Akbar
+- (b) Sher Shah
+- (c) Jahangir
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The currency system of Sher Shah was well-developed. He
+
+introduced pure silver’s Rupiya (Rupee) (178 grains) and
+
+Copper Daam (380 grains). At that time the exchange rate
+
+of Rupiya and Daam was 1 : 64.
+</details>
+
+---
+
+**Q-GC17. U.P.P.C.S. (RO/ARO) (Mains) 2021**
+
+With reference to Sher Shah Suri, which of the
+following statements is/are correct?
+1. He was the architect of a brilliant administrative
+system.
+2. However his qualities as a ruler were not more
+remarkable than his victories on the field of battle.
+Select the correct answer from the code given below :
+Code :
+
+- (a) Only 1
+- (b) Only 2
+- (c) Both 1 and 2
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+A brave warrior and a successful conqueror, Sher Shah was
+
+the architect of a brilliant administrative system. In fact, his
+
+qualities as a ruler were more remarkable than his victories
+
+on the battlefields. His brief reign of five years was marked
+
+by the introduction of wise and salutary changes in every
+
+conceivable branch of administration. Hence, the first
+
+statement is true, while the second statement is false.
+</details>
+
+---
+
+**Q-GC18. (c) Rohtas (d) Sasaram, U.P.P.C.S. (Pre) 1993**
+
+Death of Sher Shah Suri occurred in :-
+
+- (a) Agra
+- (b) Kalinjar
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Sher Shah Suri died on May 22, 1545 AD, during the siege
+
+of the Kalinjar Fort of Rajputs. When all the tactics to
+
+subdue this fort failed, he ordered the walls of the fort to
+
+be blown up with gunpowder. He was seriously wounded by
+
+the explosion. The Kalinjar was last campaign of Shershah.
+</details>
+
+---
+
+**Q-GC19. U.P.P.C.S. (RO/ARO) (Mains) 2016**
+
+Last expedition of Sher Shah Suri was against which
+of the following States?
+
+- (a) Kalanjar
+- (b) Malwa
+- (c) Kannauj
+- (d) Gaur
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Sher Shah Suri died on May 22, 1545 AD, during the siege
+
+of the Kalinjar Fort of Rajputs. When all the tactics to
+
+subdue this fort failed, he ordered the walls of the fort to
+
+be blown up with gunpowder. He was seriously wounded by
+
+the explosion. The Kalinjar was last campaign of Shershah.
+</details>
+
+---
+
+**Q-GC20. U.P.P.C.S. (Mains) 2007**
+
+With which medieval ruler would you associate the
+statement ‘I would have lost the empire just for a
+handful of millet’ ?
+
+- (a) Alauddin Khalji
+- (b) Muhammad Tughluq
+- (c) Sher Shah
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Sher Shah Suri was extremely impressed by chivalry and
+
+courage of Rajputs during the battle of Marwar that he
+
+expressed his feelings in the above statement.
+</details>
+
+---
+
+**Q-GC21. U.P.P.C.S. (Pre) 2022**
+
+From which place were Jayata and Kumpa associated
+who impressed Shershah with their valour?
+
+- (a) Malwa
+- (b) Mewar
+- (c) Bundelkhand
+- (d) Marwar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+B
+
+In the Battle of Sammel with Sher Shah Suri, Maldeo Rathore
+
+lost. His Army Generals, Jaita and Kumpa, gave a tough fight
+
+with just a few thousand men against the larger army of Sher
+
+Shah. Due to the valour and courage of Jaita and Kumpa, Sher
+
+Shah Suri’s army suffered heavy losses. Sher Shah is said to
+
+have commented that “for a few grains of bajra (Millets), I
+
+almost lost the entire kingdom of Hindustan”.
+</details>
+
+---
+
+**Q-GC22. M.P.P.C.S. (Pre) 2016, U.P.P.C.S. (Pre) 2002**
+
+Where is Mausoleum of Sher Shah ?
+
+- (a) Sasaram
+- (b) Delhi
+- (c) Kalinjar
+- (d) Sonargaon
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The tomb of Sher Shah is an imposing brick structure partly
+
+veneered with stone standing in the middle of a tank. This
+
+tomb is located at Sasaram of Rohtas in Bihar. It is regarded as
+
+one of the noblest specimens of Afghan architecture in India.
+</details>
+
+---
+
+**Q-GC23. 67th B.P.S.C. (Pre) 2022**
+
+Where is Sher Shah's tomb located?
+
+- (a) Sasaram
+- (b) Maner
+- (c) Sitamarhi
+- (d) Pavapuri
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The tomb of Sher Shah is an imposing brick structure partly
+
+veneered with stone standing in the middle of a tank. This
+
+tomb is located at Sasaram of Rohtas in Bihar. It is regarded as
+
+one of the noblest specimens of Afghan architecture in India.
+</details>
+
+---
+
+**Q-GC24. U.P.P.C.S. (Mains) 2015**
+
+Sher Shah was buried at –
+
+- (a) Kalinjar
+- (b) Sasaram
+- (c) Jaunpur
+- (d) Patna
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Sher Shah was the son of an Afghan Jagirdar from Sasaram,
+
+Bihar. He was originally named Farid Khan but was given
+
+the title of ‘Sher’ after he killed a tiger. He died in 1545 A.D.
+
+and was buried at Sasaram.
+</details>
+
+---
+
+**Q-GC25. I.A.S. (Pre) 1993**
+
+Which one of the following is a monument
+constructed by Sher Shah?
+
+- (a) Qila-i-Kuhna at Delhi
+- (b) Atala Masjid at Jaunpur
+- (c) Bara Sona Masjid at Gaur
+- (d) Quwwat-ul-Islam mosque in Delhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The short reign of Sher Shah is a revolutionary era in the
+
+history of Indian architecture. Qila-i-Kuhna, built in 1541
+
+A.D., is famous for its elegant architectural qualities in
+
+historical monuments of northern India.
+</details>
+
+---
+
+**Q-GC26. State PCS**
+
+Building of ‘’Purana Qila’’ was constructed in Delhi
+by–
+
+- (a) Firuz Tughluq
+- (b) Ibrahim Lodi
+- (c) Sher Shah
+- (d) Babur U.P. Lower Sub. (Pre) 2009
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+‘‘Purana Qila’’ was constructed by Sher Shah & Humayun
+
+in Delhi. Here, Qila-i-Kuhna mosque and Sher Mandal
+
+monuments were built by Sher Shah.
+</details>
+
+---
+
+**Q-GC27. U.P.P.C.S. (RO/ARO) (Mains) 2021**
+
+Who built the mosque "Qila-E-Kuhna" inside Purana
+Qila of Delhi
+
+- (a) Humayun
+- (b) Sher Shah
+- (c) Akbar
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+‘‘Purana Qila’’ was constructed by Sher Shah & Humayun
+
+in Delhi. Here, Qila-i-Kuhna mosque and Sher Mandal
+
+monuments were built by Sher Shah.
+</details>
+
+---
+
+**Q-GC28. U.P.P.C.S. (Mains) 2016**
+
+Who amongst the following got ‘Purana Quila’ of Delhi
+built in the present form?
+
+- (a) Sher Shah Suri
+- (b) Akbar
+- (c) Babur
+- (d) Shah Jahan
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Purana Quila is one of the oldest forts in Delhi. Its current
+
+form was built by Sher Shah Suri, the founder of the Sur
+
+Empire. Humayun raised the citadel of Purana Qila, which
+
+had an extensive area sprawling around it.
+</details>
+
+---
+
+**Q-GC29. Rajasthan P.C.S. (Pre) 2024**
+
+Which of the following monuments were built by
+Emperor Shershah?
+1. Sasaram Tomb
+2. Qila-e-Kuhna Mosque
+3. Tomb of Sikandar
+4. Jama Masjid
+
+- (a) 1, 2
+- (b) 1, 3
+- (c) 1, 4
+- (d) 2, 4
+- (e) Question not attempted
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The tomb of Sasaram, also known as the tomb of Sher Shah
+
+Suri, is located in the Rohtas district of present-day Bihar.
+
+The construction of this tomb, built with an octagonal
+
+architectural plan, was started during the Shershah’s reign
+
+(1540–45 AD), but it was completed on August 16, 1545
+
+AD, during the reign of his son, Islam Shah. In Delhi, the
+
+Qila-e-Kuhna Mosque, located inside Purana Qila (Old
+
+Fort), was built by Shershah Suri in 1541 AD. The tomb
+
+of Akbar, located in Sikandra (Agra, Uttar Pradesh), was
+
+initiated during Akbar’s reign but was completed in 1612 AD
+
+during the rule of Jahangir. The Jama Masjid in Delhi was
+
+constructed under the patronage of Shah Jahan. Thus, only
+
+the Tomb of Sasaram and the Qila-e-Kuhna Mosque were
+
+built by Sher Shah Suri. 
+
+Indian History General Studies B–283
+</details>
+
+---
+
+**Q-GC30. State PCS**
+
+Which medieval ruler introduced the system of “patta”
+and “qabuliyat” to help the peasants?
+
+- (a) Alauddin Khalji
+- (b) Muhammad-Bin-Tughluq
+- (c) Sher Shah
+- (d) Akbar U.P.P.C.S. (Mains) 2009 U.P.P.C.S. (Pre) 2008 U. P. P. C. S. (Spl) (Mains) 2004
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Sher Shah was a medieval ruler who introduced the system
+
+of ‘’patta’’ and ‘’qabuliyat’’ to help the peasants.The peasants
+
+were given ‘’patta’’ by the central authority, in which the
+
+share of the government was clearly mentioned. The peasants
+
+accepted it through ‘’qabuliyat’’.
+</details>
+
+---
+
+**Q-GC31. Chhattisgarh P.C.S. (Pre) 2018**
+
+Who of the following rulers constructed a road from
+East Bengal to Peshawar called Sadak-e-Azam ?
+
+- (a) Akbar
+- (b) Jahangir
+- (c) Islamshah
+- (d) Sher Shah
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Sadak-e-Azam, also known as the Grand Trunk Road, is
+
+one of the Asia's oldest and longest major roads. The road
+
+was built by Shershah Suri from Sonargaon (Bangladesh) to
+
+Kabul (Afghanistan).
+</details>
+
+---
+
+**Q-GC32. M.P.P.C.S. (Pre) 2018**
+
+The successor of Sher Shah was
+
+- (a) Shujaat Khan
+- (b) Islam Shah
+- (c) Firuz Shah
+- (d) Muhammad Shah Adil
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Islam Shah Suri was the second ruler of Sur Dynasty. He was
+
+the second son of Sher Shah Suri.
+</details>
+
+---
+
+**Q-GC33. 64th B.P.S.C. (Pre) 2018**
+
+Who among the following rulers divided his troops
+into units of two hundred, two hundred fifty and five
+hundred?
+
+- (a) Bahlul Lodi
+- (b) Sikandar Shah
+- (c) Sher Shah
+- (d) Islam Shah
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (e)**
+
+**Explanation:**
+Islam Shah was son of Shershah. He ruled entire North India
+
+for 8 years. He divided his troops into units of two hundred,
+
+two hundred fifty and five hundred. Sikandar Shah continued
+
+this military practice during his rule.
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 

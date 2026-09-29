@@ -203,31 +203,8 @@ Turkish Invasions of India | Arab Invasion of Sind (सिंध) (Muhammad bin 
 
 > **Logic note:** UPPCS A/R on Turkish success → both true and R (no north Indian unity) **explains** A.
 
-### PYQ — Turkish invasions A/R
-
-**1. (UPPCS Prelims 2018, Q14 / also UPPCS 2024 same A/R)** Assertion (A): Turkish invasions of India were successful.
-
-**Reason (R):** There was no political unity in North India.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A).**
-
-**A true:** From **Ghori’s conquests (1191–1204)** through the **Delhi Sultanate (1206 onward)**, Turks established **territorial rule**, not just raids like Mahmud.
-
-**R true:** After **Pratihara** decline, **Chauhans, Gahadavalas, Chandelas, and Paramaras** fought separately; no pan-Rajput alliance blocked Ghori.
-
-**Why R explains A:** Disunity **prevented coordinated defence** at Tarain and afterward.
-
-**If the stem changed:** R false would mean **D**; “R true but unrelated cause” would mean **B**.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2018, Q14 · 2024, Q40]:** Turkish invasions of India were successful because there was no political unity in North India. *(See Q-GC40 in Muslim Invasion bank below)*
 
 ---
 
@@ -287,29 +264,8 @@ D. A false, R true
 
 > **Logic note:** Do not mix **Tarain (1192, Prithviraj)**, **Chandawar (1194, Jaichand, Firozabad/Yamuna)**, **Panipat (1526, Ibrahim Lodi)**. Ghori’s **first defeat** is **Naika Devi 1178**, not Tarain.
 
-### PYQ — Ghori vs Mahmud
-
-**1.** Assertion (A): Muhammad Ghori established **permanent territorial rule** in India, unlike Mahmud of Ghazni.
-
-Reason (R): Ghori posted **governors** and **garrisoned Delhi–Ajmer** after the Second Battle of Tarain.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A).**
-
-**A true:** **Ghori** left **governors**, **garrisons**, and **coinage**; **Mahmud** mostly **raided and withdrew**.
-
-**R true:** Ghori posted governors and garrisoned **Delhi–Ajmer** after **Tarain (1192)**.
-
-**Why R explains A:** Permanent administration (governors + garrisons) is **how** Ghori’s model differed from Ghaznavid raid-and-withdraw.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [Ghori vs Mahmud]:** Muhammad Ghori established permanent territorial dominion by garrisoning Delhi–Ajmer and posting Aibak, unlike Mahmud of Ghazni whose expeditions were plunder-driven. *(See Slave Dynasty bank below)*
 
 ---
 
@@ -334,31 +290,8 @@ D. A false, R true
 
 > **Logic:** Land was divided into **Khalsa** (crown land) and **Jagir (जागीर)/Iqta** (जागीर) (assigned land). Jagirs were **not** direct state land deposited straight into the Sultan's treasury.
 
-### PYQ — Khalsa vs Jagir
-
-**1. (UPPCS Prelims 2025, Q95)Assertion (A):** Sultanate territories divided into Khalsa and Jagirs.
-
-**Reason (R):** Jagirs comprised land under direct control of the State.
-
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true, R explains A
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (A true, R false).**
-
-**A is true:** Sultanate land was broadly **Khalsa** (direct) vs **Jagir/Iqta** (assigned to nobles for revenue and troops).
-
-**R is false:** Jagirs/Iqtas were held by **assignees** (Muqtis/Jagirdars), not “direct control” in the Khalsa sense. Direct crown land = **Khalsa**.
-
-**Why not D:** Never pair “Jagir = direct state land” — Jagirs were assigned noble land, not direct crown land.
-
-**If the stem changed:** If R said “Khalsa was under direct Sultan control,” both would be true and R would explain A → **D**.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2025, Q95]:** Sultanate territories were divided into Khalsa (directly administered by Crown) and Iqtas/Jagirs (assigned for maintenance of troops/salaries). *(See Q2 in UPPCS Bank below)*
 
 ---
 
@@ -423,31 +356,8 @@ D. Both true, R explains A
 
 > **Logic note:** UPPCS Balban A/R — both A and R true, but Mongol frontier does **not** explain noble-crushing centralisation (**2024** key **C** with that option order; **2013 Mains** same substance).
 
-### PYQ — Balban A/R
-
-**1. (UPPCS Prelims 2024, Q150 / compare UPPCS Mains 2013)** Assertion (A): Balban made his government firm and centralised all authority.
-
-**Reason (R):** He wanted to protect the north-west frontier against Mongol invasions.
-
-A. Both true, R explains A
-B. A false, R true
-C. Both true, R not explanation
-D. A true, R false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (Both true, R not explanation).**
-
-**A true:** Balban destroyed the **Chahalgani**, introduced **Sijda/Paibos**, and used **Blood and Iron** to concentrate authority.
-
-**R true:** He fortified the **northwest** and used **barid** spies against **Mongols**.
-
-**Why R does not explain A:** Mongol defence and war on the nobility were **parallel** policies.
-
-**If the stem changed:** If R said he crushed the Chahalgani to end factionalism, answer would be **A**.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2024, Q150 · Mains 2013]:** Balban centralised all executive, legislative, and judicial power to restore royal prestige and fortify the northwest against Mongol invasions. *(See Q-GC30/Q-GC31 in Slave Dynasty bank below)*
 
 ---
 
@@ -581,57 +491,11 @@ D. A true, R false
 - **Khusrau Khan**, a Hindu convert favourite, murdered Mubarak in **1320** and seized the throne for a few months. Orthodox and Turkish nobles rejected him.
 - **Ghazi Malik (Ghiyasuddin Tughlaq)** defeated and killed **Khusrau** on **8 September 1320** and founded the **Tughlaq** dynasty. That closes the Khalji line.
 
-### PYQ — Alauddin Dagh/Chehra
+#> [!TIP]
+> **Exam Anchor [Alauddin Army Reforms]:** Alauddin Khalji introduced **Dagh** (horse branding) and **Chehra / Huliya** (descriptive muster-rolls) to eliminate corruption in the cash-paid standing army. *(See Khalji Dynasty bank below)*
 
-**1.** Assertion (A): Alauddin Khalji introduced **Dagh** and **Chehra** in the army.
-
-Reason (R): He wanted to prevent fake musters and maintain a cash-paid standing army.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A).**
-
-**A true:** **Dagh** (horse branding) and **Chehra** (descriptive troop roll) were Alauddin’s army reforms.
-
-**R true:** He wanted to stop **fake musters** and fund a **cash-paid standing army**.
-
-**Why R explains A:** Branding and rolls existed **to** prevent noble inflation of troop numbers.
-
-**Trap:** Do not attribute **Dagh/Chehra** to Balban or Firuz.
-
-</details>
-
-### PYQs — Alauddin chronology
-
-**1. (UPPCS Prelims 2022, Q59)** Arrange Alauddin Khalji's conquests in chronological order:
-
-1. Ranthambor
-
-2. Gujarat
-
-3. Warangal
-
-4. Chittor
-
-A. 2-1-3-4
-B. 2-1-4-3
-C. 2-4-3-1
-D. 1-2-3-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (2-1-4-3).** Order: 2 Gujarat (**1299**) → 1 Ranthambor (**1301**) → 4 Chittor (**1303**) → 3 Warangal (**~1309–1311**)
-
-**Trap:** **Warangal** comes **after** Chittor.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2022, Q59]:** Chronology of Alauddin Khalji’s conquests: **Gujarat (1299) → Ranthambore (1301) → Chittor (1303) → Warangal (1310)**. *(See Q-GC11 in Khalji Dynasty bank below)*
 
 **2. (UPPCS Prelims 2025, Q30)** Arrange Alauddin Khalji's victories in chronological order:
 
@@ -741,23 +605,8 @@ D. 1-2-4-3
 
 > **Logic note:** Longest dynasty = **Tughlaq**; shortest major one often keyed as **Khalji**. **Tughlaqnama ≠ Ibn Battuta**. Token currency = **MbT**. Canals + **Haqq-i-Sharb** + **Diwan-i-Khairat/Bandagan** = **Firoz**.
 
-### PYQs — Tughlaq literature & Firoz
-
-**1. (UPPCS Prelims 2019, Q16)** Which of the following pairs is **NOT** correctly matched (Book–Author)?
-
-A. Tabaqat-i-Nasiri–Minhaj
-B. Tarikh-i-Firozshahi–Shams-i-Siruj-Alif
-C. Tughlaqnama–Ibn Battuta
-D. Humayunnama–Gulbadan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Tughlaqnama** is by **Amir Khusrau** (some keys loosely link Barani); **Ibn Battuta** wrote **Rihla**.
-
-**Trap:** Court presence ≠ authorship.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2019, Q16]:** *Tughlaqnama* was written by **Amir Khusrau**, NOT by Ibn Battuta (author of *Kitab-ur-Rihla*). *(See Q10 in UPPCS Bank below)*
 
 **2. (UPPCS Prelims 2023, Q37)** Who translated the **300 Sanskrit volumes** that Firoz Shah collected at Nagarkot?
 
@@ -892,31 +741,8 @@ The **Sultan** was supreme executive, military commander, and judge, but success
 
 > **Logic:** Diwan-i-Tan = military pay; Mustarfi = audit; Mushrif = records; Vakianvis = firmans register. **Khareetadar** despatches royal decrees.
 
-### PYQ — Administration match
-
-**1. (UPPCS Prelims 2020, Q38)** Match List-I (Officer) with List-II (Duty):
-
-| List-I | List-II |
-|--------|---------|
-| A. Diwan-i-Tan | 1. Records |
-| B. Mustarfi | 2. Firmans list |
-| C. Mushrif | 3. Salaries |
-| D. Vakianvis | 4. Audit |
-
-*Row order in the table is not the answer code.*
-
-Options include **B. 3-4-1-2**
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (3-4-1-2).**
-
-**Facts:** A–3 Diwan-i-Tan–salaries/jagirs | B–4 Mustarfi–audit | C–1 Mushrif–records | D–2 Vakianvis–firmans/events list
-
-**Trap:** **Mushrif** ≠ **Vakianvis** — records vs firmans register; **Khareetadar** despatches decrees.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2020, Q38]:** Diwan-i-Tan = Salaries/Jagirs; Mustarfi = Auditor General (audit of expenditure); Mushrif = Accounts/Income register; Nazir = Supervisor. *(See Q8 in UPPCS Bank below)*
 
 ---
 
@@ -947,55 +773,13 @@ Options include **B. 3-4-1-2**
 - **Firuz** imposed **jizya on Brahmins** and kept lighter rates (**one-sixth to one-third**) on Khalsa land.
 - The **silver tanka** and **copper jital** supported Sultanate revenue collection.
 
-### PYQ — Firuz jizya vs conciliation
-
-**1.** Assertion (A): **Firuz Shah** imposed **jizya on Brahmins**.
-
-Reason (R): Firuz followed a **conciliation and welfare** policy.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Both true, R not explanation).**
-
-**A is true:** Firuz Shah separately imposed **jizya on Brahmins** (alongside lighter Khalsa rates).
-
-**R is true:** His overall policy was **conciliation** (canals, welfare, hereditary iqta, lighter revenue).
-
-**Why R does not explain A:** Welfare/conciliation did **not cause** the Brahmin **jizya** levy — they were **contradictory strands** of the same reign, not cause and effect.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [Firoz Tughlaq Policies]:** Firoz Shah Tughlaq was the first Sultan to impose **Jizya on Brahmins**, while simultaneously pursuing orthodox Islamic theological appeasement and public welfare works. *(See Tughlaq bank below)*
 
 > **Logic:** Iqta revenue went to the **Muqti** first; it was **not** deposited directly in the Sultan's treasury. That direct-deposit trait belongs to **Khalsa** land.
 
-### PYQ — Iqta
-
-**1. (UPPCS Prelims 2019, Q15)** Which of the following is **NOT** a characteristic of the Iqta System?
-
-A. Iqta was a revenue collection system
-B. Siyasatnama was the source of information for the Iqta System
-C. Revenue from Iqta was directly deposited in the Sultan's account
-D. Muqti was supported to maintain troops out of the revenue collected from Iqta
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Iqta revenue was collected by the **Muqti** for local administration and troop maintenance; surplus (**fawazil**) reached the centre after audit — it was **not** deposited directly in the Sultan's account.
-
-**Why A is characteristic:** Iqta was the Sultanate’s main **revenue–military assignment** system.
-
-**Why B is characteristic:** **Siyasatnama** of **Nizam-ul-Mulk** (निजाम-उल-मुल्क) is the classical source on Muqti duties and limits.
-
-**Why D is characteristic:** The Muqti maintained troops out of the revenue of his iqta.
-
-**Trap:** Confusing **Iqta/Jagir** (assigned) with **Khalsa** (direct crown land) — direct deposit describes **Khalsa**, not Iqta. **Iltutmish** institutionalised Iqta in India; **Firoz** later made it hereditary.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2019, Q15]:** Revenue from Iqta did NOT go directly to the Sultan’s treasury; the Muqti/Iqtadar deducted administrative/military costs and remitted only the surplus (**Fawazil**) to the centre. *(See Q-GC10 in Administration bank below)*
 
 ---
 
@@ -1051,40 +835,43 @@ Persian was the court language of the Delhi Sultanate. Arabic served theology an
 
 > **Logic:** Qutub Minar ≠ Alai Darwaza — different builders.
 
-### PYQ — Architecture match
-
-**1. (UPPCS Prelims 2022, Q4)** Match List-I (Building) with List-II (Builder):
-
-| List-I | List-II |
-|--------|---------|
-| A. Sultan Garhi | 1. Alauddin |
-| B. Red Palace | 2. Aibak |
-| C. Jamat Khana | 3. Iltutmish |
-| D. Dhai Din Ka Jhopra | 4. Balban |
-
-*Row order in the table is not the answer code.*
-
-A. 3-4-1-2
-B. 3-4-2-1
-C. 4-3-1-2
-D. 4-3-2-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (3-4-1-2)Facts:** A–3 Sultan Garhi–Iltutmish | B–4 Red Palace–Balban | C–1 Jamat Khana–Alauddin | D–2 Dhai Din Ka Jhopra–Aibak
-
-**Trap:** Qutub Minar** (Aibak start/Iltutmish finish) ≠ **Alai Darwaza** (Alauddin **1311**) — different builders, same complex area.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2022, Q4]:** Sultan Garhi = Iltutmish; Red Palace = Balban; Jamat Khana Masjid = Alauddin Khalji; Kotla Firoz Shah = Firoz Shah Tughluq. *(See Q7 in UPPCS Bank below)*
 
 ---
 
-## Complete PYQ Bank — Muslim Invasion (UPPCS first)
+## 2.13 Ghatnachakra Master Fact-Locks — Delhi Sultanate Dynasties & Administration
 
-Teaching body for these stems is in **2.1–2.2**. Answers under **Show answer**.
+### ★ Master Fact-Lock: Early Muslim Invasions & Inscriptions
+- **Naming of India:** According to the *Rigveda*, India was named *Bharat* after the Rigvedic tribe *Bharat*; traditional lore attributes the name to Dushyanta's son *Bharata*; Jaina tradition derives it from Tirthankara Rishabhanatha's eldest son *Bharata*. Iranians termed the country **Hindustan**, Greeks called it **India**, and Arabians first coined the word **Hindu** for the people of Hind.
+- **Arab Conquest of Sindh (712 CE):** First successful invasion led by **Muhammad bin Qasim** (nephew/son-in-law of Al-Hajjaj). Overthrew King Dahir; capital was **Arod (Alor)**. Chronicled in the Arabic text ***Chachnama***, translated into Persian by **Muhammad Ali bin Abu Bakr Kufi** (1216 CE) and into English by **Mirza Kalich Beg**.
+- **Ghaznavid Dynasty (Yamini Dynasty):** Founded by **Alptigin** (capital Ghazni). **Mahmud Ghaznavi** mounted 17 expeditions (Sir Henry Elliot). Caliph Al-Qadir Billah bestowed titles **Yamin-ud-Daula** and **Amin-ul-Millah**. Raided **Somnath Temple (1025/26 CE)** during the reign of Chalukya/Solanki king **Bhimadeva I** (who later rebuilt it). **Pran Pratishtha** of the modern temple was attended by President **Dr. Rajendra Prasad**.
+- **Chandela Resistance:** King **Vidyadhara** of Jejakabhukti was the **only Hindu ruler** who successfully resisted and repulsed Mahmud Ghaznavi's attacks (1019–1020 CE).
+- **Ghaznavid Coins:** Mahmud issued bilingual silver dirhams with Arabic legend on the obverse and **Sanskrit legend in Devanagari script** on the reverse: *"Avyaktamekam Muhammad Avatar Nripati Mahmud"*.
+- **Ghaznavid Scholars:** **Utbi** (*Kitab-ul-Yamini*, *Tarikh-i-Yamini* - court historian); **Firdausi** (*Shahnama*, titled "Homer of the East"); **Al-Biruni** (*Kitab-ul-Hind* / *Tahqiq-i-Hind*, first Muslim scholar to study Puranas, translated into English by Edward Sachau and Hindi by Rajnikant Sharma).
+- **Muhammad Ghori:** First invasion 1175 CE (Multan). In 1178 CE, defeated near Mount Abu (Kayadara) by Gujarat ruler **Mularaja II / Bhimadeva II** under queen regent **Naika Devi** (Ghori's first defeat in India). Defeated Prithviraj Chauhan at **Second Battle of Tarain (1192)**; defeated Gahadavala king Jayachandra at **Battle of Chandawar (1194 CE)** in modern Firozabad district, UP. Issued coins depicting **Goddess Lakshmi** on the obverse and Arabic *Kalma* on the reverse. Granted first Indian *Iqta* to **Qutbuddin Aibak** (Kuhram & Samana).
+- **Bakhtiyar Khalji:** Ordinary commander under Ghori; conquered Bihar (captured capital Odantapuri, demolished Nalanda and Vikramshila); invaded Bengal (1198–1203 CE); king **Lakshmana Sena** fled capital Nadia without fighting; established capital at **Lakhnauti**.
 
-**Q1. UPPCS Prelims 1996**
+---
+
+### ★ Master Fact-Lock: Delhi Sultanate Kingship, Dynasties & Coinage
+- **Qutbuddin Aibak (1206–1210 CE):** Known as **Quran Khwan** for melodious recitation; never adopted the title of *Sultan*, content with **Malik** and **Sipahsalar**; called **Lakh Bakhsh** (Giver of Lakhs) for extreme generosity. Built **Quwwat-ul-Islam** (Delhi) and **Adhai Din Ka Jhopra** (Ajmer); started Qutub Minar. Died in 1210 falling from horse while playing **Chaugan (polo)**; buried in Lahore.
+- **Iltutmish (1211–1236 CE):** Ilbari Turk; former governor of Badaun; known as **"Slave of a Slave"**. Received investiture (*Khilat*) from Baghdad Caliph Al-Mustansir in 1229 CE with title **Sultan-i-Azam**, making Sultanate part of *Dar-ul-Islam*. Shifted capital from Lahore to **Delhi**. Introduced pure Arabic coinage: **Silver Tanka** (175 grains) and **Copper Jital** (ratio 1:48). Refused asylum to Khwarizm prince Jalaluddin Mingburni escaping **Genghis Khan (Temujin)** in 1221 CE. Defeated Hisamuddin Iwaz and appointed **Malik Jani** as subedar of Bihar. Placed two marble lions with justice bells outside palace.
+- **Balban (1266–1286 CE):** Original name Bahauddin, title **Ulugh Khan**. Adopted policy of **Blood and Iron** (*Lauh evam Rakta*). Established supreme Theory of Kingship: Sultan is **Niyamat-i-Khudai** (Representative of God on Earth) and **Zil-i-Ilahi / Zillillah** (Shadow/Reflection of God). Crushed Bengal revolt of **Tughril Khan** (1279 CE). Abolished *Turkan-i-Chahalgani*. Introduced Iranian court etiquette: **Sijada** (prostration) and **Paibos** (kissing the Sultan's feet), and the Persian spring festival **Nawruz**. Created military department **Diwan-i-Arz** under Imad-ul-Mulk. Inscribed himself as *"Helper of the Caliph"* (*Nasir-i-Amir-ul-Muminin*) on Garhmukteshwar mosque.
+- **Alauddin Khalji (1296–1316 CE):** Assumed title **Sikandar-i-Sani** (Second Alexander). First Sultan to free state policy from Ulema and Islamic Shariat (*Yamin-ul-Khilafat*). Promoted after quelling Malik Chhajju's revolt. Four ordinances: confiscation of *Milq* and *Waqf* lands to expand *Khalisa*, intelligence network (*barids* and *munhiyans*), ban on wine/gambling, ban on noble feasts/matrimony. Conquered Devagiri; honoured King Ramchandra Dev with title **Rai Rayan**, 1 lakh gold tankas, and Navsari district. Commander **Zafar Khan (Malik Yusuf Hizabruddin)** killed fighting Mongols. **Malik Kafur (Hazar-Dinari)** acquired in Gujarat. First Sultan to measure land for revenue assessment (*Kharaj* at 50% yield) via **Diwan-i-Mustakhraj**, eliminating privileges of *Khuts*, *Muqaddams*, and *Chaudharis*. Introduced **Market Control / Price Control** under *Shahna-i-Mandi* and Public Distribution System (PDS). Levied **Ghari** (house tax) and **Charai** (grazing tax). Ravi river formed boundary against Mongols.
+- **Mubarak Khalji & Khusrau Shah:** Qutbuddin Mubarak Khalji declared himself **Khalifa** (*Al-Imam*, *Ul-Imam*, *Khalifatullah*). Nasiruddin Khusrau Shah (converted Hindu) assumed title **Paigambar-ka-Senapati** (Commander of the Prophet); opponents raised slogan *"Islam in danger"*.
+- **Tughlaq Dynasty:** **Ghiyasuddin Tughlaq (Ghazi Malik):** Father Qaraunah Turk, mother Hindu Jat; repulsed Mongols 29 times; first to dig canals for irrigation; founded Tughlaqabad. **Muhammad bin Tughlaq (1325–1351 CE):** Most educated Sultan; created **Diwan-i-Amir-i-Kohi** for agriculture (crop rotation on 60 sq. miles); shifted capital to Daulatabad; issued token copper/brass currency; gold coins called **Dinar** by Ibn Battuta; celebrated Hindu festival **Holi**; Badayuni's epitaph: *"The king was freed from his people, and they from their king"*. **Firuz Shah Tughlaq (1351–1388 CE):** Built 300 cities (Jaunpur, Hisar, Firozabad, Fatehabad, Firozpur); chief architect Malik Ghazi Shahana; built largest canal network; levied irrigation tax **Haqq-i-Sharb** (10% produce); levied Jizya on Brahmins; created **Diwan-i-Khairat** (charity/orphan girls), **Diwan-i-Bandagan** (1,80,000 slaves), **Dar-ul-Shafa** (free hospital); planted 1200 fruit orchards; relocated 2 Ashokan pillars from **Topra** and **Meerut** to Delhi; organized state-sponsored Haj pilgrimage. Last ruler **Nasiruddin Mahmud Shah** witnessed **Timur's invasion (1398 CE)** (*"Dominion from Delhi to Palam"*).
+- **Lodi Dynasty (First Afghan Dynasty):** **Bahlul Lodi** issued *Bahlul coins*; conquered Jaunpur. **Sikandar Lodi (1489–1517 CE):** Mother Jaiband; founded **Agra in 1504 CE** as capital; introduced land measurement **Gaj-i-Sikandari** (39 digits / 32 inches); composed Persian poems under pen name **Gulrukhi**; abolished grain zakat; translated Ayurvedic treatise *Farhang-i-Sikandari*; music work *Lahjat-i-Sikandar Shahi*. **Ibrahim Lodi:** Defeated by Rana Sanga at **Battle of Khatoli (1518)**; killed at **First Battle of Panipat (21 April 1526)** by Babur (only Delhi Sultan killed on battlefield).
+- **Sultanate Currency Systems:** Three major coins: **Tanka** (silver, 175 grains), **Shashgani** (silver, equal to 6 jitals), and **Jital** (copper). 1 Tanka = 48 Jitals.
+- **Sultanate Architecture:** **Balban's Tomb** (Mehrauli) introduced the **first true arch** in India. **Alai Darwaza** (Alauddin Khalji, 1311 CE) introduced the **first horse-shoe arch** with red sandstone and white marble. **Qutub Minar** (72.5 m / 238 ft, 5 storeys; 4th and 5th storeys rebuilt by Firuz Tughlaq). **Kirti Stambha (Tower of Victory)** at Chittor built by **Rana Kumbha** of Mewar celebrating victory over Mahmud Khalji of Malwa; designed by architect **Jaita**; inscribed by poets **Atri and Mahesh**.
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Muslim Invasion of India
+
+Complete sequence of 40 questions from Ghatna Chakra Muslim Invasion of India (B–201 to B–206). Covers Prophet Muhammad, Arab conquest of Sindh, Mahmud Ghaznavi, Somnath raid, Al-Biruni, and Muhammad Ghori's campaigns.
+
+**Q-GC1. U.P.P.C.S. (Pre) 1996**
 
 Hazrat Muhammad, the Prophet, was born in the year:
 
@@ -1096,634 +883,20 @@ C. 642 A.D.
 
 D. 670 A.D.
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (570 A.D.)
-
-**Detailed Explanation:**
-- **Historical Context:** Born at **Mecca** about **570 CE**; died **632 CE**. **622** is the **Hijra** year trap.
-- **Key Fact:** The correct option is **A** (570 A.D.).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **570 A.D.** is standard UPPCS testing material.
-
-</details>
-
-**Q2. UPPCS Prelims 1991**
-
-When Muhammad-Bin-Qasim conquered Sindh:
-
-A. 173 A.D.
-
-B. 716 A.D.
-
-C. 712 A.D.
-
-D. 719 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (712 A.D.)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** **Muhammad bin Qasim** took Sindh from **Dahir** in **712 CE** (**Chachnama**). Some scholars prefer **711** (V.D. Mahajan).
-- **Key Fact:** The correct option is **C** (712 A.D.).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **712 A.D.** is standard UPPCS testing material.
-
-</details>
-
-**Q3. UP Lower Sub. (Pre) 2002**
-
-First Muslim invader in India was:
-
-A. Qutbuddin Aybak
-
-B. Muhammad Ghazni
-
-C. Muhammad-Bin-Qasim
-
-D. Muhammad Ghori
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Muhammad-Bin-Qasim)
-
-**Detailed Explanation:**
-- **Historical Context:** First **successful** Muslim invader = Arab **Muhammad bin Qasim** (**712**, Sindh). Turks came later.
-- **Key Fact:** The correct option is **C** (Muhammad-Bin-Qasim).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Muhammad-Bin-Qasim** is standard UPPCS testing material.
-
-</details>
-
-**Q4. UP Lower Sub. (Pre) 2015**
-
-The first Muslim invaders of India were:
-
-A. The Ghaznavids
-
-B. The Ghurids
-
-C. The Arabs
-
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (The Arabs)
-
-**Detailed Explanation:**
-- **Historical Context:** Arabs under **Qasim** in Sindh (**712**). Ghaznavids/Ghurids are later Turkish phases.
-- **Key Fact:** The correct option is **C** (The Arabs).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **The Arabs** is standard UPPCS testing material.
-
-</details>
-
-**Q5. UPPCS Prelims 1992**
-
-Muhammad-Bin-Qasim was a:
-
-A. Turk
-
-B. Mongol
-
-C. Arab
-
-D. Turk-Afghan
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Arab)
-
-**Detailed Explanation:**
-- **Historical Context:** **Arab** commander (~**695** birth), linked to **al-Hajjaj**, sent under Caliph **al-Walid**.
-- **Key Fact:** The correct option is **C** (Arab).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Arab** is standard UPPCS testing material.
-
-</details>
-
-**Q6. UP Lower Sub. (Pre) 2015**
-
-Who among the following was the founder of Ghaznavid dynasty?
-
-A. Alptigin
-
-B. Mahmud
-
-C. Sebuktigin
-
-D. Ismail
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Alptigin)
-
-**Detailed Explanation:**
-- **Historical Context:** **Alptigin** founded the Ghaznavid (**Yamini**) line at **Ghazni**. Mahmud is the famous later raider (**998+**).
-- **Key Fact:** The correct option is **A** (Alptigin).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Alptigin** is standard UPPCS testing material.
-
-</details>
-
-**Q7. UP Lower Sub. (Spl) (Pre) 2004**
-
-Assertion (A): Mohd. Ghazni invaded India seventeen times.
-
-Reason (R): He wanted to establish permanent Muslim Empire in India.
-
-A. Both (A) and (R) true, and (R) explains (A)
-
-B. Both (A) and (R) true, but (R) does not explain (A)
-
-C. (A) true, but (R) false
-
-D. (A) false, but (R) true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** ((A) true, but (R) false)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Mohd. Ghazni invaded India seventeen times.
-- **Reason (R) is incorrect:** He wanted to establish permanent Muslim Empire in India.. **A true:** About **17** raids (**1000–1027**).  **R false:** Motive was **plunder**, not a permanent Gangetic empire.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q8. UPPCS Prelims 1991**
-
-Which of the following Chandela Kings was not defeated by Mahmud Ghaznavi:
-
-A. Dhnaga
-
-B. Vidyadhar
-
-C. Jaishakti
-
-D. Danga
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Vidyadhar)
-
-**Detailed Explanation:**
-- **Historical Context:** **Vidyadhar** successfully resisted Mahmud in **1019–20**. Capitals: Khajuraho then Mahoba.
-- **Key Fact:** The correct option is **B** (Vidyadhar).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q9. UPPCS Prelims 1991**
-
-Who was the court historian of Mahmud of Ghazni:
-
-A. Hassan Nizami
-
-B. Utbi
-
-C. Firdausi
-
-D. Chand Bardai
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Utbi)
-
-**Detailed Explanation:**
-- **Historical Context:** **Utbi** wrote **Kitab-ul-Yamini** / **Tarikh-i-Yamini**. **Firdausi** = poet of **Shahnama**; Hasan Nizami is Ghori-era.
-- **Key Fact:** The correct option is **B** (Utbi).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Utbi** is standard UPPCS testing material.
-
-</details>
-
-**Q10. UP R.O./A.R.O. (Mains) 2013**
-
-Farista, the author of Shah-nama was associated with the court of:
-
-A. Subuktagin
-
-B. Mahmud Ghazanavi
-
-C. Muhammad Ghori
-
-D. Alaptigin
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Mahmud Ghazanavi)
-
-**Detailed Explanation:**
-- **Historical Context:** **Firdausi** wrote **Shahnama** at **Mahmud’s** court (“Homer of the East”). **Firishta** wrote **Tarikh-i-Firishta** for **Ibrahim Adil Shah II** of Bijapur — different person.
-- **Key Fact:** The correct option is **B** (Mahmud Ghazanavi).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Mahmud Ghazanavi** is standard UPPCS testing material.
-
-</details>
-
-**Q11. UP Lower Sub. (Spl) (Pre) 2002**
-
-The first Muslim who studied Puranas was:
-
-A. Abul Fazal
-
-B. Abdul Qadir Badayuni
-
-C. Al-Biruni
-
-D. Dara Shikoh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Al-Biruni)
-
-**Detailed Explanation:**
-- **Historical Context:** **Al-Biruni** studied Sanskrit/Puranas and wrote **Tahqiq-i-Hind / Kitab-ul-Hind**.
-- **Key Fact:** The correct option is **C** (Al-Biruni).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Al-Biruni** is standard UPPCS testing material.
-
-</details>
-
-**Q12. UP U.D.A./L.D.A. (Spl) (Pre) 2010**
-
-Al-Beruni came to India in:
-
-A. 9th century A.D.
-
-B. 10th century A.D.
-
-C. 11th century A.D.
-
-D. 12th Century A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (11th century A.D.)
-
-**Detailed Explanation:**
-- **Historical Context:** Came with **Mahmud** in the **11th century** (born **973**, Khwarizm/Khiva).
-- **Key Fact:** The correct option is **C** (11th century A.D.).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **11th century A.D.** is standard UPPCS testing material.
-
-</details>
-
-**Q13. UPPSC (R.I.) 2014**
-
-Which one of the following statements about Alberuni is not correct?
-
-A. He was a secular author
-
-B. His writing was influenced by India
-
-C. He was a Sanskrit Scholar
-
-D. He was an expert of trigonometry
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (He was a secular author)
-
-**Detailed Explanation:**
-- **Historical Context:** He is **not** treated as a secular apologist; he did not write sympathetically about the **Somnath** raid. Other statements fit his profile.
-- **Key Fact:** The correct option is **A** (He was a secular author).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q14. UPPCS Prelims 2000**
-
-Who among the following issued silver coins with Sanskrit legend on one side:
-
-A. Muhammad-Bin-Qasim
-
-B. Mahmud of Ghazni
-
-C. Sher Shah
-
-D. Akbar
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Mahmud of Ghazni)
-
-**Detailed Explanation:**
-- **Historical Context:** Mahmud’s silver: Arabic + Sanskrit (**“Avyaktamekam Muhammad Avatar Nripati Mahmud”**).
-- **Key Fact:** The correct option is **B** (Mahmud of Ghazni).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Mahmud of Ghazni** is standard UPPCS testing material.
-
-</details>
-
-**Q15. UPPCS Mains 2004**
-
-Which one of the following rulers from Central Asia conquered North India in 1192?
-
-A. Jalaluddin Mankbarni
-
-B. Mahmud of Ghazni
-
-C. Shihabuddin Muhammad Ghori
-
-D. Genghis Khan
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Shihabuddin Muhammad Ghori)
-
-**Detailed Explanation:**
-- **Historical Context:** **Second Tarain (1192)** — Ghori defeats Prithviraj and holds Delhi–Ajmer.
-- **Key Fact:** The correct option is **C** (Shihabuddin Muhammad Ghori).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Shihabuddin Muhammad Ghori** is standard UPPCS testing material.
-
-</details>
-
-**Q16. UPPCS Prelims 1990**
-
-Who defeated Muhammad Ghori for the first time?
-
-A. Mularaja- II
-
-B. Prithviraj Chauhan
-
-C. Jai Chand
-
-D. Prithviraj-II
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Mularaja- II)
-
-**Detailed Explanation:**
-- **Historical Context:** **Naika Devi** (regent for **Mularaja II / Bhimdev II**) defeated Ghori near **Mount Abu (1178)**. Prithviraj’s win is **Tarain 1191** — later.
-- **Key Fact:** The correct option is **A** (Mularaja- II).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Mularaja- II** is standard UPPCS testing material.
-
-</details>
-
-**Q17. UPPCS Prelims 2008**
-
-In which battle Muhammad Ghori defeated Jayachandra:
-
-A. Battle of Tarain (1191 A.D.)
-
-B. Battle of Tarain (1192 A.D.)
-
-C. Battle of Chandawar (1194 A.D.)
-
-D. Battle of Kannauj (1194 A.D.)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Battle of Chandawar (1194 A.D.))
-
-**Detailed Explanation:**
-- **Historical Context:** **Chandawar (1194)** — present **Firozabad** district, **Yamuna**. Kannauj is the kingdom, not the battle name preferred in keys.
-- **Key Fact:** The correct option is **C** (Battle of Chandawar (1194 A.D.)).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Battle of Chandawar (1194 A.D.)** is standard UPPCS testing material.
-
-</details>
-
-**Q18. UP R.O./A.R.O. (Pre) 2016**
-
-Which one of the following kings was defeated by Muhammad Ghori in the battle of Chandawar?
-
-A. Prithviraj Chauhan
-
-B. Jayachandra
-
-C. Kumarpala
-
-D. Bhima- II
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Jayachandra)
-
-**Detailed Explanation:**
-- **Historical Context:** **Jayachandra (Jaichand)** of Kannauj at **Chandawar 1194**.
-- **Key Fact:** The correct option is **B** (Jayachandra).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Jayachandra** is standard UPPCS testing material.
-
-</details>
-
-**Q19. UPPCS Prelims 1995**
-
-Battle that laid the foundation of Muslim domination in India was:
-
-A. First Battle of Tarain
-
-B. Second Battle of Tarain
-
-C. First Battle of Panipat
-
-D. Second Battle of Panipat
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Second Battle of Tarain)
-
-**Detailed Explanation:**
-- **Historical Context:** **Second Tarain (1192)** established lasting Turkish foothold in north India. First Tarain (**1191**) was Prithviraj’s win.
-- **Key Fact:** The correct option is **B** (Second Battle of Tarain).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Second Battle of Tarain** is standard UPPCS testing material.
-
-</details>
-
-**Q20. UPPCS Spl. Mains 2008**
-
-Arrange the following names chronologically:
-
-1. Genghis Khan
-
-2. Mahmud Ghaznavi
-
-3. Muhammad Ghori
-
-4. Taimur
-
-A. 1, 2, 3, 4
-
-B. 2, 3, 1, 4
-
-C. 3, 4, 1, 2
-
-D. 4, 1, 2, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (2, 3, 1, 4)
-
-**Detailed Explanation:**
-- **Chronological sequence:** **Mahmud (1000–1027 raids)** → **Ghori (1175–1206)** → **Genghis** pressure (~**1221**, chasing Jalaluddin) → **Timur 1398**.
-- **Correct match code:** Option **B** (2, 3, 1, 4).
-
-**Key Exam Takeaway / Trap:**
-- Pay close attention to relative dates and avoid swapping sequential rulers or campaigns.
-
-</details>
-
-**Q21. UPPCS Prelims 1991**
-
-Which slave of Muhammad Ghori conquered Bengal and Bihar:
-
-A. Qutbudin Aybak
-
-B. Iltutmish
-
-C. Bakhtiyar Khalji
-
-D. Yaldauj
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Bakhtiyar Khalji)
-
-**Detailed Explanation:**
-- **Historical Context:** **Ikhtiyar-ud-din Bakhtiyar Khalji** took **Odantapuri**, destroyed **Nalanda/Vikramshila**, took **Nadia**, capital **Lakhnauti**.
-- **Key Fact:** The correct option is **C** (Bakhtiyar Khalji).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Bakhtiyar Khalji** is standard UPPCS testing material.
-
-</details>
-
-**Q22. UPPCS Prelims 2018, Q14**
-
-Assertion (A): Turkish invasions on India were successful.
-
-Reason (R): There was no political unity in North India.
-
-A. Both true, R correct explanation of A
-
-B. Both true, R not correct explanation of A
-
-C. A true, R false
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both true, R correct explanation of A)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Turkish invasions on India were successful.
-- **Reason (R) is correct:** There was no political unity in North India.
-- **Why (R) explains (A):** Both true; fragmentation of Rajput states **explains** Turkish success. Repeated in **UPPCS 2024** with the same key.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q23. UPPCS Prelims 2024**
-
-Assertion (A): The Turkish invasion of India was successful.
-
-Reason (R): There was no political unity in northern India.
-
-A. Both (A) and (R) true, and (R) is the correct explanation of (A)
-
-B. (A) false, but (R) true
-
-C. Both (A) and (R) true, but (R) is not the correct explanation of (A)
-
-D. (A) true, but (R) false
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) true, and (R) is the correct explanation of (A))
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** The Turkish invasion of India was successful.
-- **Reason (R) is correct:** There was no political unity in northern India.
-- **Why (R) explains (A):** Rajput disunity enabled Ghori and the Sultanate foothold.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
+Hazrat Muhammad was born approximately in 570 A.D. in
+the Saudi Arabian city of Mecca. He is known as the "Holy
+Prophet" to Muslims. He died in 632 A.D.
 
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Muslim Invasion (other papers)
-
-Stems from Ghatnachakra B–201+ beyond UPPCS. Teaching already in **2.1–2.2**.
-
-**Q-GC1. MPPCS (Pre) 1995**
+**Q-GC2. M.P.P.C.S. (Pre) 1995**
 
 Where is Mecca?
 
@@ -1735,24 +908,25 @@ C. Iraq
 
 D. Saudi Arabia
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Saudi Arabia)
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Historical Context:** **Mecca** is in **Saudi Arabia**.
-- **Key Fact:** The correct option is **D** (Saudi Arabia).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Saudi Arabia** is standard UPPCS testing material.
+Hazrat Muhammad was born approximately in 570 A.D. in
+the Saudi Arabian city of Mecca. He is known as the "Holy
+Prophet" to Muslims. He died in 632 A.D.
+*(Refer to Q-GC1 for primary reference context)*
 
 </details>
 
-**Q-GC2. IAS (Pre) 1995**
+---
 
-The word ‘Hindu’ as a reference to the people of Hind (India) was first used by:
+**Q-GC3. I.A.S. (Pre) 1995**
+
+The word ‘Hindu’ as a reference to the people of Hind
+
+(India) was first used by:
 
 A. The Greeks
 
@@ -1762,23 +936,25 @@ C. The Chinese
 
 D. The Arabs
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (The Arabs)
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Chronological sequence:** **Arabs** first used **Hindu** for people of Hind. Iranians → Hindustan; Greeks → India.
-- **Correct match code:** Option **D** (The Arabs).
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **The Arabs** is standard UPPCS testing material.
+Most scholars feel that the name “Hindu” was pronounced
+by invaders who could not pronounce the name of the Indus
+River. As mentioned in Rigveda, Bharata is defined as ‘Sapta
+Sindhu.’ Iranians termed this country as Hindustan, and
+Greeks called it ‘India.’ About the Indian people, the word
+‘Hindu’ was first used by Arabians.
 
 </details>
 
-**Q-GC3. MPPCS (Pre) 1995**
+---
 
-First Muslim attack on India occurred in the year:
+**Q-GC4. M.P. P.C.S. (Pre) 1995**
+
+First Muslim attack on India occurred in the year
 
 A. 674
 
@@ -1788,24 +964,141 @@ C. 711
 
 D. None of these
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (None of these)
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Historical Context:** Successful conquest under Qasim is **712** (some **711**); listed **711** alone is treated as inadequate in this key.
-- **Key Fact:** The correct option is **D** (None of these).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **None of these** is standard UPPCS testing material.
+King Dahir of Sindh fought the battle with Muhammad-BinQasim, the first successful Muslim invader who defeated
+Dahir in this battle. He arrived at the coast of Sindh in 712
+A.D. (Now in Pakistan) and was successful in defeating and
+killing Dahir.
+Note : There is a dispute about the exact date of the first
+successful Muslim invasion of India. According to V.D.
+Mahajan, this date is 711 A.D. but according to Harish
+Chandra Verma, this date is 712 A.D.
 
 </details>
 
-**Q-GC4. MPPCS (Pre) 2020**
+---
 
-According to Chachnama, what was the Capital of the Indus Country in the 6th and 7th century?
+**Q-GC5. U.P.P.C.S. (Pre) 1991**
+
+When Muhammad-Bin-Qasim conquered Sindh
+
+A. 173 A.D.
+
+B. 716 A.D.
+
+C. 712 A.D.
+
+D. 719 A.D.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+King Dahir of Sindh fought the battle with Muhammad-BinQasim, the first successful Muslim invader who defeated
+Dahir in this battle. He arrived at the coast of Sindh in 712
+A.D. (Now in Pakistan) and was successful in defeating and
+killing Dahir.
+Note : There is a dispute about the exact date of the first
+successful Muslim invasion of India. According to V.D.
+Mahajan, this date is 711 A.D. but according to Harish
+Chandra Verma, this date is 712 A.D.
+*(Refer to Q-GC4 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC6. U.P. Lower Sub. (Pre) 2002**
+
+First Muslim invader in India was
+
+A. Qutbuddin Aybak
+
+B. Muhammad Ghazni
+
+C. Muhammad-Bin-Qasim
+
+D. Muhammad Ghori
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The first successful Muslim invader of India was MuhammadBin-Qasim. In the beginning of the 8th century A.D., under
+the leadership of Muhammad Bin-Qasim, a part of India
+was unsuccessfully attacked. The empire of Arabs couldn’t
+spread towards the east of Sindh and Multan, and it gradually
+declined. In the words of Dr. Stanley Lane-Poole “Although
+Arabs conquered Sindh, but it remained only an episode in
+history of India and Islam. This was an incomplete victory”.
+Their incomplete task was done by Turks.
+
+</details>
+
+---
+
+**Q-GC7. U.P. Lower Sub. (Pre) 2015**
+
+The first Muslim invaders of India were –
+
+A. The Ghaznavids
+
+B. The Ghurids
+
+C. The Arabs
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The very first successful Muslim invasion of India took
+place in Sindh in the year 712 A.D by the Arabs under the
+leadership of Muhammad-Bin-Qasim. He displaced Raja
+Dahir, who ruled Sindh from his capital, Arod (near modern
+Karachi).
+
+</details>
+
+---
+
+**Q-GC8. U.P.P.C.S. (Pre) 1992**
+
+Muhammad-Bin-Qasim was a –
+
+A. Turk
+
+B. Mongol
+
+C. Arab
+
+D. Turk-Afghan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Muhammad-Bin-Qasim was an Arab ruler born around 695
+A.D. He was the nephew and son-in-law of Iraq’s King AlHajjaj. At the age of seventeen, he was sent by Caliph-alWalid to lead an army to Sindh (India).
+
+</details>
+
+---
+
+**Q-GC9. M.P.P.C.S. (Pre.) 2020**
+
+According to Chachnama, what was the Capital of the
+
+Indus Country in the 6th and 7th century?
 
 A. Deval
 
@@ -1815,24 +1108,26 @@ C. Lodawa
 
 D. Barmer
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Arod)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** **Arod** (near modern Karachi area) in **Chachnama**; Dahir’s line vs Qasim.
-- **Key Fact:** The correct option is **B** (Arod).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Arod** is standard UPPCS testing material.
+Chachnama ("Story of Chach") is one of the main historical
+sources for the history of Sindh in the 7th to 8th century A.D,
+written in Arabic. It takes its name from Raja Chach of Sindh
+whose son Dahir stood against Muhammad Bin Qasim's
+invasion of Sindh in 8th Century A.D. Text states that Arod
+served as capital of the Indus country in the 6th and 7th century
+A.D. Hence option (b) is correct.
 
 </details>
 
-**Q-GC5. 70th BPSC Pre-2024**
+---
 
-“Chachnama” was translated to Persian by:
+**Q-GC10. 70th B.P.S.C. Pre-2024**
+
+“Chachnama” was translated to Persian by
 
 A. Nurrudin Muhammad Aufi
 
@@ -1842,22 +1137,127 @@ C. Muhammad Ali Bin Abu Bakr Kufi
 
 D. More than one of the above
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Muhammad Ali Bin Abu Bakr Kufi)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Historical Context:** Persian rendering by **Muhammad Ali bin Abu Bakr Kufi**; English by **Mirza Kalich Beg** (~1900).
-- **Key Fact:** The correct option is **C** (Muhammad Ali Bin Abu Bakr Kufi).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Muhammad Ali Bin Abu Bakr Kufi** is standard UPPCS testing material.
+The Persian translation of Chachnama was done by
+Muhammad Ali bin Abu Bakr Kufi. Chachnama is a
+book written in the Arabic language, but there is no clear
+information available about the author of this book.
+Chachnama describes the history of Sindh from 680 to 718
+A.D. The complete translation of this book from Persian to
+English was done in 1900 A.D. by Mirza Kalich Beg.
 
 </details>
 
-**Q-GC6. MPPCS (Pre) 2021**
+---
+
+**Q-GC11. U.P. Lower Sub. (Pre) 2015**
+
+Who among the following was the founder of
+
+Ghaznavid dynasty?
+
+A. Alptigin
+
+B. Mahmud
+
+C. Sebuktigin
+
+D. Ismail
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Towards the end of the ninth century, Trans-oxiana, Khurasan
+and parts of Iran were being ruled by the Samanids who
+were Iranian by descent. Among the Samanid governors
+there was a Turkish Slave, Alptigin, who, in course of time,
+established an independent kingdom with its capital at Ghazni
+and founded Ghaznavid dynasty, which soon took over the
+control of Samanid Kingdom.
+
+</details>
+
+---
+
+**Q-GC12. U.P. Lower Sub. (Spl) (Pre) 2004**
+
+Assertion (A) : Mohd. Ghazni invaded India seventeen
+
+times.
+
+Reason (R) : He wanted to establish permanent
+
+Muslim Empire in India.
+
+Select the correct answer from the given codes :
+
+Code :
+
+A. Both (A) and (R) are true, and (R) is the correct
+
+explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct
+
+explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Turkish conqueror Mahmud of Ghazni succeeded his father
+in 998 A.D. He established a huge empire in Central Asia
+with it's capital at Ghazni (Afghanistan). For 17 times, he
+attacked India from 1000 to 1027 A.D. He was a ruthless
+invader and plunderer of wealth. In these invasions, his aim
+was not to establish any permanent Muslim rule in India but
+to take away the huge wealth of the country.
+
+</details>
+
+---
+
+**Q-GC13. U.P. P.C.S. (Pre) 1991**
+
+Which of the following Chandela Kings was not
+
+defeated by Mahmud Ghaznavi –
+
+A. Dhnaga
+
+B. Vidyadhar
+
+C. Jaishakti
+
+D. Danga
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The Chandela dynasty is famous in Indian history for the King
+Vidyadhar, who repulsed the attacks of Mahmud Ghaznavi
+during 1019-20 A.D. From the ninth century to the 13th
+century, the Chandelas ruled over Central India. Their first
+capital city was Khajuraho, which was later shifted to Mahoba.
+
+</details>
+
+---
+
+**Q-GC14. M.P. P.C.S. (Pre) 2021**
 
 Which Chandela King faced Mahmud Ghaznavi?
 
@@ -1869,22 +1269,87 @@ C. Vidyadhar
 
 D. Arunoraja
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Vidyadhar)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Historical Context:** **Vidyadhar**, **1019–20**.
-- **Key Fact:** The correct option is **C** (Vidyadhar).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Vidyadhar** is standard UPPCS testing material.
+The Chandela dynasty is famous in Indian history for the King
+Vidyadhar, who repulsed the attacks of Mahmud Ghaznavi
+during 1019-20 A.D. From the ninth century to the 13th
+century, the Chandelas ruled over Central India. Their first
+capital city was Khajuraho, which was later shifted to Mahoba.
+*(Refer to Q-GC13 for primary reference context)*
 
 </details>
 
-**Q-GC7. MPPCS (Pre) 2015**
+---
+
+**Q-GC15. U.P. P.C.S. (Pre) 1991**
+
+Who was the court historian of Mahmud of Ghazni –
+
+A. Hassan Nizami
+
+B. Utbi
+
+C. Firdausi
+
+D. Chand Bardai
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Mahmud of Ghazni was just a plunderer who mounted at least
+17 raids in India. But in his kingdom in Afghanistan, he had
+shown love for art and culture. He patronized three persons:
+i. Firdausi (Persian Poet, known as Homer of the East)
+who wrote Shahnama.
+ii. Albiruni (a brilliant scholar from Central Asia) who
+wrote Tahqiq-I-Hind.
+iii. Utbi (court historian), who wrote Kitab-ul-Yamni and
+Tarikh-i-Yamini.
+
+</details>
+
+---
+
+**Q-GC16. U.P.R.O./A.R.O. (Mains) 2013**
+
+Farista, the author of Shah-nama was associated with
+
+the court of
+
+A. Subuktagin
+
+B. Mahmud Ghazanavi
+
+C. Muhammad Ghori
+
+D. Alaptigin
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** *****
+
+**Detailed Explanation:**
+The given question is incorrect because the writer of
+Shahnama is Firdausi, not Firishta. Firdausi was a scholarpoet of the Mahmud of Ghazni court. He was also known to
+be popular as the ‘Homer’ of the east. So option (b) should
+be the correct answer. Firishta wrote an authentic book
+Tareekh-i Firista. His full name was Muhammad Qasim
+Hindushah Astarabadi Firishta. For some time, he lived in
+Murtza Nizam Shah’s court in Ahmadnagar. After that, he
+went to Bijapur. His book Tarikh-i Firishta was devoted to
+the emperor of Bijapur, Ibrahim Adil Shah II.
+
+</details>
+
+---
+
+**Q-GC17. M.P.P.C.S. (Pre) 2015**
 
 Who was the author of ‘Shahnama’?
 
@@ -1896,24 +1361,118 @@ C. Al-Beruni
 
 D. Barani
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Firdausi)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** **Firdausi** — **Shahnama**; Mahmud’s court poet.
-- **Key Fact:** The correct option is **B** (Firdausi).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firdausi** is standard UPPCS testing material.
+The given question is incorrect because the writer of
+Shahnama is Firdausi, not Firishta. Firdausi was a scholarpoet of the Mahmud of Ghazni court. He was also known to
+be popular as the ‘Homer’ of the east. So option (b) should
+be the correct answer. Firishta wrote an authentic book
+Tareekh-i Firista. His full name was Muhammad Qasim
+Hindushah Astarabadi Firishta. For some time, he lived in
+Murtza Nizam Shah’s court in Ahmadnagar. After that, he
+went to Bijapur. His book Tarikh-i Firishta was devoted to
+the emperor of Bijapur, Ibrahim Adil Shah II.
+*(Refer to Q-GC16 for primary reference context)*
 
 </details>
 
-**Q-GC8. Jharkhand PCS (Pre) 2011**
+---
 
-Which scholar came to India with Mahmud Ghazni:
+**Q-GC18. U.P. Lower Sub. (Spl) (Pre) 2002**
+
+The first Muslim who studied Puranas was –
+
+A. Abul Fazal
+
+B. Abdul Qadir Badayuni
+
+C. Al-Biruni
+
+D. Dara Shikoh
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Al-Biruni was the first Muslim to study Puranas. He was not
+only a historian, but he also took a keen interest in a wide
+range of subjects e.g. Astronomy, Geography, Medicine,
+Mathematics, Reasoning, Religion and Theology. Due to his
+interests, he was attracted towards gaining knowledge of the
+religious culture of then India. He studied Sanskrit and used
+many references in his creations, mainly from the works of
+Brahmagupta, Balabhadra and Varahamihira.
+
+</details>
+
+---
+
+**Q-GC19. Uttarakhand P.C.S. (Pre) 2010**
+
+The famous historian who visited India with Mahmud
+
+of Ghazni was –
+
+A. Ferishta
+
+B. Al-Beruni
+
+C. Afif
+
+D. Ibn Battuta
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+During 11th century A.D. Al-Biruni, the father of Indian
+Historical writing accompanied Mahmud of Ghazni to
+India and stayed here for many years. Al-Biruni translated
+Patanjali’s Yoga-Sutra into Arabic (called Kitab Patanjal) but
+Tahqiq-I-Hind (Reality of Hindustan) was his most important
+work in which he gave a socio-cultural description of India.
+
+</details>
+
+---
+
+**Q-GC20. U.P. U.D.A./L.D.A. (Spl) (Pre) 2010**
+
+Al-Beruni came to India in –
+
+A. 9th century A.D.
+
+B. 10th century A.D.
+
+C. 11th century A.D.
+
+D. 12th Century A.D.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+During 11th century A.D. Al-Biruni, the father of Indian
+Historical writing accompanied Mahmud of Ghazni to
+India and stayed here for many years. Al-Biruni translated
+Patanjali’s Yoga-Sutra into Arabic (called Kitab Patanjal) but
+Tahqiq-I-Hind (Reality of Hindustan) was his most important
+work in which he gave a socio-cultural description of India.
+*(Refer to Q-GC19 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC21. Jharkhand P.C.S. (Pre) 2011**
+
+Which scholar came to India with Mahmud Ghazni –
 
 A. Ibn Battuta
 
@@ -1923,24 +1482,58 @@ C. Amir Khusrau
 
 D. Ferishta
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Al-Beruni)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** **Al-Biruni** with Mahmud; **Kitab-ul-Hind**.
-- **Key Fact:** The correct option is **B** (Al-Beruni).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Al-Beruni** is standard UPPCS testing material.
+During 11th century A.D. Al-Biruni, the father of Indian
+Historical writing accompanied Mahmud of Ghazni to
+India and stayed here for many years. Al-Biruni translated
+Patanjali’s Yoga-Sutra into Arabic (called Kitab Patanjal) but
+Tahqiq-I-Hind (Reality of Hindustan) was his most important
+work in which he gave a socio-cultural description of India.
+*(Refer to Q-GC19 for primary reference context)*
+*(Refer to Q-GC20 for primary reference context)*
 
 </details>
 
-**Q-GC9. Jharkhand PSC (Mains) 2016**
+---
 
-After the attack of Mahmud Ghazni, who among the following reconstructed the Somnath temple?
+**Q-GC22. U.P.P.S.C. (R.I.) 2014**
+
+Which one of the following statements about Alberuni
+
+is not correct?
+
+A. He was a secular author
+
+B. His writing was influenced by India
+
+C. He was a Sanskrit Scholar
+
+D. He was an expert of trigonometry
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Al-Biruni was born in 973 A.D. in the territory of Khwarizm,
+now called Khiva, in Central Asia. He was not a secular writer
+because Al-biruni never gave any sympathetic reference to
+the contemporary event of Somnath temple raid by Mahmud
+of Ghazni in 1025/1026.
+
+</details>
+
+---
+
+**Q-GC23. Jharkhand P.S.C. (Mains) 2016**
+
+After the attack of Mahmud Ghazni, who among the
+
+following reconstructed the Somnath temple?
 
 A. Bhimraja-I
 
@@ -1950,30 +1543,43 @@ C. Mularaja
 
 D. Jayasingh Siddhiraj
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Bhimdeva)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** **Bhimadeva / Bhimdev I** rebuilt after the **1025/26** raid.
-- **Key Fact:** The correct option is **B** (Bhimdeva).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Bhimdeva** is standard UPPCS testing material.
+Bhimadeva was the ruler during the attack of Mahmud
+Gazhani on Somnath Temple (1025/26 AD). After Gazhani
+left with the loot of Somnath, Bhimadeva-I reconstructed
+the temple.
 
 </details>
 
-**Q-GC10. IAS (Pre) 2022**
+---
 
-Regarding Somnath Temple, which are correct?
+**Q-GC24. I.A.S. (Pre) 2022**
+
+The Prime Minister recently inaugurated the new
+
+Circuit House near Somnath Temple at veraval. Which
+
+of the following statements are correct regarding
+
+Somnath Temple?
 
 1. Somnath Temple is one of the Jyotirlinga shrines.
 
-2. A description of Somnath Temple was given by Al-Biruni.
+2. A description of Somnath Temple was given by
 
-3. Pran Pratishtha of present-day temple was done by President S. Radhakrishnan.
+Al-Biruni.
+
+3. Pran Pratishtha of Somnath Temple (installation
+
+of the present day temple) was done by President
+
+S. Radhakrishnan.
+
+Select the correct answer using the code given below :
 
 A. 1 and 2 only
 
@@ -1983,24 +1589,168 @@ C. 1 and 3 only
 
 D. 1, 2 and 3
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (1 and 2 only)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** Statements **1** and **2** true. **3** false — **Dr Rajendra Prasad** was present at Pran Pratishtha, not Radhakrishnan.
-- **Key Fact:** The correct option is **A** (1 and 2 only).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **1 and 2 only** is standard UPPCS testing material.
+Somnath temple is situated in Gujarat State on the banks of
+Arabian Sea. It is one of the 12 Jyotirlingas. Al-Biruni has
+described this temple in his travelogue. India's first president
+Dr. Rajendra Prasad was present at the Pran Pratishtha of
+present day Somnath temple.
 
 </details>
 
-**Q-GC11. MPPCS (Pre) 2017**
+---
 
-Whom had Muhammad Ghori defeated in 1194 in the Battle of Chandawar?
+**Q-GC25. U.P.P.C.S. (Pre) 2000**
+
+Who among the following issued silver coins with
+
+Sanskrit legend on one side:
+
+A. Muhammad-Bin-Qasim
+
+B. Mahmud of Ghazni
+
+C. Sher Shah
+
+D. Akbar
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The silver coins introduced by Mahmud Ghazni were struck
+in India with Arabic and Sanskrit inscriptions on both sides.
+
+</details>
+
+---
+
+**Q-GC26. U.P.P.C.S. (Mains) 2004**
+
+Which one of the following rulers from Central Asia
+
+conquered North India in 1192?
+
+A. Jalaluddin Mankbarni
+
+B. Mahmud of Ghazni
+
+C. Shihabuddin Muhammad Ghori
+
+D. Genghis Khan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Shihabuddin Muhammad Ghori, the ruler of Central Asia,
+conquered north India in 1192 A.D. The first attack of
+Muhammad Ghori took place in 1175A.D. on Multan. He
+attacked Multan and Uch in 1175-76 A.D. and Gujarat in
+1178 A.D. In 1191 A.D., he fought the first battle of Tarain
+with Prithviraj Chauhan and was defeated. In the Second
+Battle of Tarain (1192 A.D.), Prithviraj was defeated by
+Ghori, and in this way, a central Muslim political system
+was established, which lasted for many years.
+
+</details>
+
+---
+
+**Q-GC27. U.P. P.C.S. (Pre) 1990**
+
+Who defeated Muhammad Ghori for the first time?
+
+A. Mularaja- II
+
+B. Prithviraj Chauhan
+
+C. Jai Chand
+
+D. Prithviraj-II
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The first battle of Muhammad Ghori was against a Hindu
+ruler Mularaja-II or Bhimadev-II of Gujarat. Mularaja-II
+or Bhimadev-II, was a young man, and real regent was
+his mother, Naika Devi. She inflicted a major defeat on
+Muhammad Ghori and hence, Ghori never tried to attack
+India from Gujarat's side.
+
+</details>
+
+---
+
+**Q-GC28. U.P.P.C.S. (Pre) 2008**
+
+In which battle Muhammad Ghori defeated Jayachandra-
+
+A. Battle of Tarain (1191 A.D.)
+
+B. Battle of Tarain (1192 A.D.)
+
+C. Battle of Chandawar (1194 A.D.)
+
+D. Battle of Kannauj (1194 A.D.)
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Muhammad Ghori defeated the king of Kannauj, Jayachandra
+in the battle of Chandawar during 1194 A.D. This battle was
+fought in Chandawar (In Modern Firozabad district in U.P.),
+on the bank of Yamuna River close to Agra.
+
+</details>
+
+---
+
+**Q-GC29. U.P.R.O./ A.R.O. (Pre) 2016**
+
+Which one of the following kings was defeated by
+
+Muhammad Ghori in the battle of Chandawar?
+
+A. Prithviraj Chauhan
+
+B. Jayachandra
+
+C. Kumarpala
+
+D. Bhima- II
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Muhammad Ghori defeated the king of Kannauj, Jayachandra
+in the battle of Chandawar during 1194 A.D. This battle was
+fought in Chandawar (In Modern Firozabad district in U.P.),
+on the bank of Yamuna River close to Agra.
+*(Refer to Q-GC28 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC30. M.P.P.C.S. (Pre) 2017**
+
+Whom had Muhammad Ghori defeated in 1194 in the
+
+Battle of Chandawar?
 
 A. Kumarpal
 
@@ -2010,24 +1760,123 @@ C. Govindraj
 
 D. Bhim II
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Jaichand)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** **Jaichand / Jayachandra**, **1194**.
-- **Key Fact:** The correct option is **B** (Jaichand).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Jaichand** is standard UPPCS testing material.
+Muhammad Ghori defeated the king of Kannauj, Jayachandra
+in the battle of Chandawar during 1194 A.D. This battle was
+fought in Chandawar (In Modern Firozabad district in U.P.),
+on the bank of Yamuna River close to Agra.
+*(Refer to Q-GC28 for primary reference context)*
+*(Refer to Q-GC29 for primary reference context)*
 
 </details>
 
-**Q-GC12. 39th BPSC (Pre) 1994**
+---
 
-Muhammad Ghori granted first Iqta in India to:
+**Q-GC31. U.P.P.C.S. (Pre) 1995**
+
+Battle that laid the foundation of Muslim domination
+
+in India was :
+
+A. First Battle of Tarain
+
+B. Second Battle of Tarain
+
+C. First Battle of Panipat
+
+D. Second Battle of Panipat
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The second battle of Tarain was fought between Muhammad
+Ghori and Rajput army of Prithviraj Chauhan. The battle
+took place in 1192 AD near Tarain. In this battle, Prithviraj
+Chauhan was defeated by Muhammad Ghori. After this battle,
+the Muslim power was strongly enrooted in northern India,
+which may be regarded as a turning point in Indian history.
+
+</details>
+
+---
+
+**Q-GC32. U.P.P.C.S. (Spl) (Mains) 2008**
+
+Arrange the following names chronologically and select
+
+correct answer from the codes given below:
+
+1. Genghis Khan
+
+2. Mahmud Ghaznavi
+
+3. Muhammad Ghori
+
+4. Taimur
+
+Code :
+
+A. 1, 2, 3, 4
+
+B. 2, 3, 1, 4
+
+C. 3, 4, 1, 2
+
+D. 4, 1, 2, 3
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+During 1000-1027 A.D. Mahmud Ghaznavi attacked India
+for 17 times. Muhammad Ghori’s first attack occurred in
+1175 A.D. and then he attacked again and again to expand
+his empire untill 1205 A.D.The fear of Genghis (Changiz)
+Khan’s attack haunted India when he was chasing son of the
+fugitive ruler of Khwarizm Shah, Jalaluddin Mingburni in
+1221 A.D. Taimur attacked India in 1398 A.D.
+
+</details>
+
+---
+
+**Q-GC33. Uttarakhand P.C.S. (Pre) 2006**
+
+Coins of which Muslim ruler bear an image of Devi
+
+Lakshmi?
+
+A. Muhammad Ghori
+
+B. Alauddin Khalji
+
+C. Akbar
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Coins issued by Ghori have an image of Goddess Lakshmi,
+while on the opposite side of the coin, Kalma was inscribed
+in Arabic.
+
+</details>
+
+---
+
+**Q-GC34. 39th B.P.S.C. (Pre) 1994**
+
+Muhammad Ghori granted first Iqta in India to –
 
 A. Tajuddin Yalduj
 
@@ -2037,22 +1886,63 @@ C. Shamsuddin Iltutmish
 
 D. Nazir-ud-din Qubacha
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Qutbuddin Aybak)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** **Qutbuddin Aibak** — **Kuhram** and **Samana** after **1192**.
-- **Key Fact:** The correct option is **B** (Qutbuddin Aybak).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Qutbuddin Aybak** is standard UPPCS testing material.
+Soon after the victories of Muhammad Ghori, Iqta system
+was established in North India. In 1192 A.D., Muhammad
+Sam of Ghori (Muhammad Ghori) appointed Qutb-ud-dinAybak, as in charge of his Indian territories. He played an
+important role in the second battle of Tarain. Pleased with
+his works, Ghori appointed him the administrator of Kuhram
+and Samana. He had taken care of the administration of
+North Indian territories conquered by them as representative
+of Ghori till 1206. During this period, Aibak also expanded
+Turkish power in northern India.
 
 </details>
 
-**Q-GC13. 60th–62nd BPSC (Pre) 2016**
+---
+
+**Q-GC35. U.P. P.C.S. (Pre) 1991**
+
+Which slave of Muhammad Ghori conquered Bengal
+
+and Bihar –
+
+A. Qutbudin Aybak
+
+B. Iltutmish
+
+C. Bakhtiyar Khalji
+
+D. Yaldauj
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Muhammad Ghori and Aybak didn’t ever think of conquering
+Bihar and Bengal. This task was accomplished by their
+ordinary slave Ikhtiyar Uddin Muhammad-Bin-Bakhtiyar
+Khalji. Between 1193 and 1203 AD, he conquered Bihar
+and destroyed Vikramshila, Nalanda and captured the capital
+Odantpur. He attacked Bengal between 1198 and 1203,
+where its ruler Lakshman Sen fled away without fighting in
+the battlefield. Turkish army entered the capital Nadiya and
+resorted to massive loot. In the absence of the King, the city
+surrendered. Lakshman Sen had taken refuge in East Bengal
+and ruled there for sometime. Bakhtiyar Khalji did not try
+to conquer the whole of the Bengal. Bakhtiyar Khalji made
+his capital in Lakhnauti.
+
+</details>
+
+---
+
+**Q-GC36. 60th to 62nd B.P.S.C. (Pre) 2016**
 
 Who was the first Muslim conqueror of Bihar?
 
@@ -2064,24 +1954,33 @@ C. Bakhtiyar Khalji
 
 D. Ali Mardan Khalji
 
-E. None of the above / More than one of the above
+E. None of the above/More than one of the above
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Bakhtiyar Khalji)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Historical Context:** **Bakhtiyar Khalji** — Odantapuri / Nalanda / Vikramshila.
-- **Key Fact:** The correct option is **C** (Bakhtiyar Khalji).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Bakhtiyar Khalji** is standard UPPCS testing material.
+Muhammad Ghori and Aybak didn’t ever think of conquering
+Bihar and Bengal. This task was accomplished by their
+ordinary slave Ikhtiyar Uddin Muhammad-Bin-Bakhtiyar
+Khalji. Between 1193 and 1203 AD, he conquered Bihar
+and destroyed Vikramshila, Nalanda and captured the capital
+Odantpur. He attacked Bengal between 1198 and 1203,
+where its ruler Lakshman Sen fled away without fighting in
+the battlefield. Turkish army entered the capital Nadiya and
+resorted to massive loot. In the absence of the King, the city
+surrendered. Lakshman Sen had taken refuge in East Bengal
+and ruled there for sometime. Bakhtiyar Khalji did not try
+to conquer the whole of the Bengal. Bakhtiyar Khalji made
+his capital in Lakhnauti.
+*(Refer to Q-GC35 for primary reference context)*
 
 </details>
 
-**Q-GC14. 67th BPSC (Pre) Re-Exam 2022**
+---
+
+**Q-GC37. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
 
 Who was the real founder of Turk rule in Bihar?
 
@@ -2093,26 +1992,36 @@ C. Ibrahim
 
 D. Dariya Khan Noohani
 
-E. None of the above / More than one of the above
+E. None of the above/More than one of the above
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Ibn Bakhtiyar Khilji)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** Same **Bakhtiyar Khalji** line.
-- **Key Fact:** The correct option is **B** (Ibn Bakhtiyar Khilji).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Ibn Bakhtiyar Khilji** is standard UPPCS testing material.
+Muhammad Ghori and Aybak didn’t ever think of conquering
+Bihar and Bengal. This task was accomplished by their
+ordinary slave Ikhtiyar Uddin Muhammad-Bin-Bakhtiyar
+Khalji. Between 1193 and 1203 AD, he conquered Bihar
+and destroyed Vikramshila, Nalanda and captured the capital
+Odantpur. He attacked Bengal between 1198 and 1203,
+where its ruler Lakshman Sen fled away without fighting in
+the battlefield. Turkish army entered the capital Nadiya and
+resorted to massive loot. In the absence of the King, the city
+surrendered. Lakshman Sen had taken refuge in East Bengal
+and ruled there for sometime. Bakhtiyar Khalji did not try
+to conquer the whole of the Bengal. Bakhtiyar Khalji made
+his capital in Lakhnauti.
+*(Refer to Q-GC35 for primary reference context)*
+*(Refer to Q-GC36 for primary reference context)*
 
 </details>
 
-**Q-GC15. 60th–62nd BPSC (Pre) 2016**
+---
 
-Nalanda Vihar was destroyed by:
+**Q-GC38. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Nalanda Vihar was destroyed by :
 
 A. Bakhtiyar Khalji
 
@@ -2122,88 +2031,135 @@ C. Muhammad Bin Tughlaq
 
 D. Alauddin Khalji
 
-E. None of the above / More than one of the above
+E. None of the above/More than one of the above
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Bakhtiyar Khalji)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** **Bakhtiyar Khalji** destroyed **Nalanda** (and **Vikramshila**).
-- **Key Fact:** The correct option is **A** (Bakhtiyar Khalji).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Bakhtiyar Khalji** is standard UPPCS testing material.
+Muhammad Ghori and Aybak didn’t ever think of conquering
+Bihar and Bengal. This task was accomplished by their
+ordinary slave Ikhtiyar Uddin Muhammad-Bin-Bakhtiyar
+Khalji. Between 1193 and 1203 AD, he conquered Bihar
+and destroyed Vikramshila, Nalanda and captured the capital
+Odantpur. He attacked Bengal between 1198 and 1203,
+where its ruler Lakshman Sen fled away without fighting in
+the battlefield. Turkish army entered the capital Nadiya and
+resorted to massive loot. In the absence of the King, the city
+surrendered. Lakshman Sen had taken refuge in East Bengal
+and ruled there for sometime. Bakhtiyar Khalji did not try
+to conquer the whole of the Bengal. Bakhtiyar Khalji made
+his capital in Lakhnauti.
+*(Refer to Q-GC35 for primary reference context)*
+*(Refer to Q-GC36 for primary reference context)*
+*(Refer to Q-GC37 for primary reference context)*
 
 </details>
 
 ---
 
-## UKPCS — Muslim Invasion stems
+**Q-GC39. U.P.P.C.S. (Pre) 2018**
 
-**Q-UK1. UKPCS Prelims 2010**
+Given below are two statements, one is labeled as
 
-The famous historian who visited India with Mahmud of Ghazni was:
+Assertion (A) and the other as Reason (R).
 
-A. Ferishta
+Assertion (A) : Turkish invasions on India were
 
-B. Al-Beruni
+successful.
 
-C. Afif
+Reason (R) : There was no political unity in North
 
-D. Ibn Battuta
+India.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the codes given below:
 
-**Correct Answer:** **B** (Al-Beruni)
+A. Both (A) and (R) are true, and (R) is correct
 
-**Detailed Explanation:**
-- **Historical Context:** **Al-Biruni** accompanied Mahmud; **Tahqiq-i-Hind / Kitab-ul-Hind**; also translated Patanjali (योग) (**Kitab Patanjal**).
-- **Key Fact:** The correct option is **B** (Al-Beruni).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+explanation of (A).
 
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Al-Beruni** is standard UPPCS testing material.
+B. Both (A) and (R) are true, but (R) is not the correct
 
-</details>
+explanation of (A).
 
-**Q-UK2. UKPCS Prelims 2006**
+C. (A) is true, but (R) is false.
 
-Coins of which Muslim ruler bear an image of Devi Lakshmi?
+D. (A) is false, but (R) is true.
 
-A. Muhammad Ghori
+<details><summary>Show answer</summary>
 
-B. Alauddin Khalji
-
-C. Akbar
-
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Muhammad Ghori)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** **Ghori** — **Lakshmi** on one side, Arabic **Kalma** on the other.
-- **Key Fact:** The correct option is **A** (Muhammad Ghori).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Muhammad Ghori** is standard UPPCS testing material.
+There are many reasons for the success of Turkish invasions
+in India, however, the most prominent of them was the
+constant warfare among the Indian rulers.
+India, at that time, was divided into small kingdoms. There
+were many small kingdoms in North and Western India
+(present-day Pakistan), and this made Turk's work easy.
+A strong kingdom in the north would have deterred Turks.
 
 </details>
 
 ---
 
-## Complete PYQ Bank — Slave Dynasty (UPPCS first)
+**Q-GC40. U.P. P.C.S. (Pre) 2024 · UPPCS Prelims 2018, Q14**
 
-Teaching body: **2.4**. Answers under **Show answer**.
+Below are two statements, one of which is an Assertion
 
-**Q1. UPPCS Prelims 1990**
+A. and the other is a Reason (R):
+
+Assertion (A): The Turkish invasion of India was
+
+successful.
+
+Reason (R): There was no political unity in northern
+
+India.
+
+Choose the correct answer from the options given below :
+
+A. Both (A) and (R) are true, and (R) is the correct
+
+explanation of (A).
+
+B. (A) is false, but (R) is true.
+
+C. Both (A) and (R) are true, but (R) is not the correct
+
+explanation of (A).
+
+D. (A) is true, but (R) is false.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Several Turkish rulers, including Mahmud of Ghazni and
+Muhammad Ghori, invaded northern India between the 11th
+and 12th centuries. Among these, Ghori's invasion had a
+more significant impact, leading to the establishment of the
+Delhi Sultanate, which laid the foundation for Muslim rule
+in India. During this period, the political conditions in India
+were highly fragmented, with many small and independent
+states. Due to this lack of unity, it was easy for the invaders
+to achieve victory and establish control. There was no unified
+resistance against them.
+Thus, both (A) and (R) are true, and (R) correctly explains (A).
+
+</details>
+
+---
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Slave Dynasty
+
+Complete sequence of 39 questions from Ghatna Chakra Slave Dynasty (B–207 to B–213). Covers Qutbuddin Aibak, Iltutmish, Raziyya Sultan, and Balban's theory of kingship and blood-and-iron policy.
+
+**Q-GC1. U.P. P.C.S. (Pre) 1990**
 
 Who was the founder of Slave dynasty?
 
@@ -2215,541 +2171,24 @@ C. Balban
 
 D. Qutbuddin Aybak
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Qutbuddin Aybak)
-
-**Detailed Explanation:**
-- **Historical Context:** **Qutbuddin Aibak** founded the line in **1206** at **Lahore**.
-- **Key Fact:** The correct option is **D** (Qutbuddin Aybak).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Qutbuddin Aybak** is standard UPPCS testing material.
-
-</details>
-
-**Q2. Jharkhand PCS (Pre) 2003 / Ghatnachakra standard**
-
-Which Sultan of Delhi Sultanate is known as “Lakh Baksh”?
-
-A. Iltutmish
-
-B. Balban
-
-C. Muhammad-Bin-Tughluq
-
-D. Qutbuddin Aybak
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Qutbuddin Aybak)
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Historical Context:** **Aibak** = **Lakh Baksh**; capital **Lahore**; never took the title Sultan.
-- **Key Fact:** The correct option is **D** (Qutbuddin Aybak).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Qutbuddin Aybak** is standard UPPCS testing material.
-
-</details>
-
-**Q3. UPPCS Mains 2013**
-
-Who among the following did not contribute to building the famous ‘Qutb-Minar’?
-
-A. Qutbuddin Aybak
-
-B. Iltutmish
-
-C. Ghiyasuddin Tughluq
-
-D. Firuz Shah Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Ghiyasuddin Tughluq)
-
-**Detailed Explanation:**
-- **Historical Context:** Aibak started; Iltutmish completed; Firuz rebuilt 4th and added 5th. **Ghiyasuddin Tughlaq** contributed nothing.
-- **Key Fact:** The correct option is **C** (Ghiyasuddin Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q4. UPPCS Prelims 1990**
-
-The capital of Qutbuddin Aybak was:
-
-A. Lahore
-
-B. Delhi
-
-C. Ajmer
-
-D. Lakhnauti
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Lahore)
-
-**Detailed Explanation:**
-- **Historical Context:** **Lahore** — he stayed there against Yalduz’s Punjab designs.
-- **Key Fact:** The correct option is **A** (Lahore).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Lahore** is standard UPPCS testing material.
-
-</details>
-
-**Q5. UPPCS Mains 2012 / Spl Mains 2004**
-
-Who among the following established Delhi as the capital of Sultanate?
-
-A. Qutbuddin Aybak
-
-B. Iltutmish
-
-C. Raziyya
-
-D. Muizzuddin Ghori
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Iltutmish)
-
-**Detailed Explanation:**
-- **Historical Context:** **Iltutmish** shifted lasting capital to **Delhi** (Aibak ruled from Lahore).
-- **Key Fact:** The correct option is **B** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
-
-</details>
-
-**Q6. UPPCS Mains 2014**
-
-Who was the first Sultan of Delhi who introduced regular coins and declared Delhi the capital of his empire?
-
-A. Nasiruddin Mahmud
-
-B. Iltutmish
-
-C. Aram Shah
-
-D. Balban
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Iltutmish)
-
-**Detailed Explanation:**
-- **Historical Context:** Silver **tanka**, copper **jital**, Delhi capital, Caliph recognition **1229**.
-- **Key Fact:** The correct option is **B** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
-
-</details>
-
-**Q7. UP R.O./A.R.O. (Pre) 2016**
-
-Which one of the following was the capital of the Sultanate during the reign of Iltutmish?
-
-A. Agra
-
-B. Lahore
-
-C. Badaun
-
-D. Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Delhi)
-
-**Detailed Explanation:**
-- **Historical Context:** **Delhi** after the shift from Lahore.
-- **Key Fact:** The correct option is **D** (Delhi).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Delhi** is standard UPPCS testing material.
-
-</details>
-
-**Q8. UPPCS Mains 2016**
-
-Who among the following Sultans of the Sultanate was the first to shift his capital to Delhi?
-
-A. Aram Shah
-
-B. Balban
-
-C. Iltutmish
-
-D. Qutbuddin Aybak
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Iltutmish)
-
-**Detailed Explanation:**
-- **Historical Context:** Same fact as Q5–Q7.
-- **Key Fact:** The correct option is **C** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
-
-</details>
-
-**Q9. UPPCS Prelims 2002**
-
-Who was the first Muslim ruler of Delhi?
-
-A. Qutbuddin Aybak
-
-B. Iltutmish
-
-C. Raziyya
-
-D. Balban
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Iltutmish)
-
-**Detailed Explanation:**
-- **Historical Context:** Stem means first **Caliph-recognised / legally independent** Sultan of Delhi — **Iltutmish** (**Sultan-e-Azam**, **1229**). Aibak ruled from Lahore without the Sultan title.
-- **Key Fact:** The correct option is **B** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
-
-</details>
-
-**Q10. UPPCS Prelims 2016**
-
-Who was called ‘a slave of a slave’?
-
-A. Mohd. Ghori
-
-B. Qutbuddin Aybak
-
-C. Balban
-
-D. Iltutmish
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Iltutmish)
-
-**Detailed Explanation:**
-- **Historical Context:** Slave of **Aibak**, who was Ghori’s slave.
-- **Key Fact:** The correct option is **D** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
-
-</details>
-
-**Q11. UPPSC (GIC) 2010 / UPPCS Mains 2004**
-
-Who of the following was the first woman ruler of medieval India?
-
-A. Raziyya Sultan
-
-B. Chand Bibi
-
-C. Durgavati
-
-D. Noorjahan
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Raziyya Sultan)
-
-**Detailed Explanation:**
-- **Historical Context:** **Razia (1236–40)** — only woman Sultan of Delhi.
-- **Key Fact:** The correct option is **A** (Raziyya Sultan).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Raziyya Sultan** is standard UPPCS testing material.
-
-</details>
-
-**Q12. UPPCS Prelims 1993**
-
-During whose reign Mongol invader Genghis Khan came through the North-West Frontier of India?
-
-A. Alauddin Khalji
-
-B. Iltutmish
-
-C. Balban
-
-D. Aybak
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Iltutmish)
-
-**Detailed Explanation:**
-- **Historical Context:** Chasing **Jalaluddin Mingburni**; Iltutmish refused asylum.
-- **Key Fact:** The correct option is **B** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
-
-</details>
-
-**Q13. UPPCS Mains 2007**
-
-Which Sultan of Delhi was a contemporary of the Mongol Leader Genghis Khan?
-
-A. Iltutmish
-
-B. Raziyya
-
-C. Balban
-
-D. Alauddin Khalji
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Iltutmish)
-
-**Detailed Explanation:**
-- **Historical Context:** Same Indus/Mingburni episode.
-- **Key Fact:** The correct option is **A** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
-
-</details>
-
-**Q14. UPPSC (GIC) 2010**
-
-In whose reign Mongols were seen on the bank of Indus river for the first time?
-
-A. Balban
-
-B. Iltutmish
-
-C. Qutbuddin Aybak
-
-D. Raziyya
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Iltutmish)
-
-**Detailed Explanation:**
-- **Key Fact:** The correct option is **B** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
-
-</details>
-
-**Q15. UPPCS Prelims 2015**
-
-The original name of Changez (Genghis) Khan was:
-
-A. Khasul Khan
-
-B. Yesugai
-
-C. Temuchin (Temujin)
-
-D. Ogadi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Temuchin (Temujin))
-
-**Detailed Explanation:**
-- **Historical Context:** **Temujin / Temuchin**.
-- **Key Fact:** The correct option is **C** (Temuchin (Temujin)).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Temuchin (Temujin)** is standard UPPCS testing material.
-
-</details>
-
-**Q16. UP Lower Sub. (Pre) 2004**
-
-Who was behind the dethroning of Raziyya Begum?
-
-A. Afghans
-
-B. Mongols
-
-C. Turks
-
-D. Arabs
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Turks)
-
-**Detailed Explanation:**
-- **Historical Context:** Turkish nobles under **Malik Altunia** of **Bhatinda**.
-- **Key Fact:** The correct option is **C** (Turks).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Turks** is standard UPPCS testing material.
-
-</details>
-
-**Q17. UPPCS Mains 2009**
-
-Which Sultan of Delhi is said to have followed the policy of “blood and iron”?
-
-A. Iltutmish
-
-B. Balban
-
-C. Jalaluddin Firuz Khalji
-
-D. Firuz Shah Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Balban)
-
-**Detailed Explanation:**
-- **Historical Context:** **Balban** — divine right + autocracy (**Niyabat-i-Khudai**, **Zil-i-Ilahi**).
-- **Key Fact:** The correct option is **B** (Balban).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
-
-</details>
-
-**Q18. UPPCS Mains 2013**
-
-Assertion (A): Balban made his government firm stable and centralized all authority in his hands.
-
-Reason (R): He wanted to protect North-West frontier against Mongol invasions.
-
-A. Both true, R explains A
-
-B. Both true, R not correct explanation of A
-
-C. A true, R false
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Both true, R not correct explanation of A)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Balban made his government firm stable and centralized all authority in his hands.
-- **Reason (R) is correct:** He wanted to protect North-West frontier against Mongol invasions.
-- **Why (R) does not explain (A):** Both statements are historically true, but Reason is not the direct causal explanation of Assertion. Same substance as **UPPCS 2024** (option letters differ by paper). Centralisation ≠ caused by Mongol frontier alone.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q19. UPPCS Prelims 2024**
-
-Assertion (A): Balban made his government firm and centralized all authority in his hands.
-
-Reason (R): He wanted to secure the northwestern border from Mongol invasions.
-
-A. Both true, R explains A
-
-B. A false, R true
-
-C. Both true, R not correct explanation of A
-
-D. A true, R false
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Both true, R not correct explanation of A)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Balban made his government firm and centralized all authority in his hands.
-- **Reason (R) is incorrect:** He wanted to secure the northwestern border from Mongol invasions.. 
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q20. UP R.O./A.R.O. (Mains) 2014**
-
-Which of the following Sultans called himself the ‘Helper of a Caliph’ in his inscription on the walls of the Mosque at Garhmukteshwar?
-
-A. Balban
-
-B. Kaiqubad
-
-C. Jalaluddin Khalji
-
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Balban)
-
-**Detailed Explanation:**
-- **Historical Context:** **Balban** at **Garhmukteshwar**.
-- **Key Fact:** The correct option is **A** (Balban).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
+Slave dynasty was the first of five unrelated dynasties
+to rule India during Sultanate period from 1206 A.D. to
+1290 A.D. Qutbuddin Aibak ascended the throne of Delhi
+Sultanate in 1206 AD and with him started a new line of
+successive kings in Delhi Sultanate. He was the founder
+of slave dynasty. Qutbuddin Aibak and all his successors
+were slaves to their respective predecessors.
 
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Slave Dynasty (other papers)
-
-**Q-GC1. BPSC**
+**Q-GC2. 53rd to 55th B.P.S.C. (Pre) 2011 · 47th B.P.S.C. (Pre) 2005**
 
 Who was the first ruler of the Slave Dynasty?
 
@@ -2761,22 +2200,84 @@ C. Raziyya
 
 D. Balban
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Qutbuddin Aybak)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** **1206–1210**, capital **Lahore**.
-- **Key Fact:** The correct option is **B** (Qutbuddin Aybak).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Qutbuddin Aybak** is standard UPPCS testing material.
+The first ruler of the Slave Dynasty (or Ghulam Dynasty)
+was Qutbuddin Aybak who ruled from 1206 A.D. to 1210
+A.D. He established his capital at Lahore. Qutbuddin Aibak
+was born in Turkistan. Though he was ugly in appearance,
+he was intelligent and impressive in behaviour. He was
+taken as a prisoner and sold to the Qazi of Nishapur named
+Fakhruddin as a slave in his childhood. He was taken care
+and provided with proper education and military training by
+the kind-hearted Qazi but soon after the death of the Qazi, his
+sons sold Aybak to Muhammad Ghori. He was well-versed
+in Islamic theology, horse riding and swordsmanship. Owing
+to his skill and qualities, he soon attracted the attention of
+his master and was appointed commander of a troop. Shortly
+after battles; he was promoted to the post of Amir-i- Akhur,
+the master of the royal stable. When Ghori invaded India,
+Aybak came with his master and provided him with active
+support during battles. The successes of his master by and
+large depended on his military skill. Ghori was immensely
+pleased with him, and he appointed him his governor of the
+Indian empire. In 1206 A.D., on his way to Ghazni, Ghori
+died. His empire was inherited by his slaves, as he had no
+son to succeed him. Aybak, who was a viceroy of his Indian
+Empire was invited by the Amirs of Lahore to assume the
+powers. He bestowed the title of Malik and Sipahasalaar
+on himself. Muhammad Ghori had no male successor to
+inherit his empire; hence his nephew, Ghiyasuddin Mahmud
+ascended the throne of Ghori after his death in 1206 A.D.
 
 </details>
 
-**Q-GC2. BPSC 2015**
+---
+
+**Q-GC3. Jharkhand P.C.S. (Pre) 2003**
+
+Which Sultan of Delhi Sultanate is known as “Lakh
+
+Baksh”?
+
+A. Iltutmish
+
+B. Balban
+
+C. Muhammad-Bin-Tughluq
+
+D. Qutbuddin Aybak
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Sultan Qutbuddin Aybak also called “Lakh Baksh” was
+the first Muslim ruler of India who ruled from his capital in
+Lahore. He patronized scholars such as Hasan Nizami and
+Fakhra-i-Mudabbir, both of whom dedicated their works to
+Aybak. Aybak was the first muslim ruler who setteld in india
+and ruled unlike the earlier muslims, who come and only raided
+and plundered. Though his tenure as a ruler was only four
+years, and most of them were spent in dealing with the revolts
+of nobles like Taj-ud-din Yalduz, Nasir-ud-din Qabacha and
+a few Hindu chiefs, yet he established a firm administrative
+system. He started the construction of Quwwat-ul-Islam
+mosque at Delhi and Adhai Din ka Jhopara (Ajmer). He also
+laid the foundation of the Qutub Minar, which was completed
+by his successor Iltutmish. He was known as Lakh Baksh for
+his generosity. He never took title of "Sultan" but according
+to question option (d) is the correct answer
+
+</details>
+
+---
+
+**Q-GC4. 56th to 59th B.P.S.C. (Pre) 2015**
 
 What is ‘Adhai Din ka Zhonpda’?
 
@@ -2788,24 +2289,38 @@ C. Saint’s hut
 
 D. Tower
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Mosque)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** Mosque at **Ajmer** (Aibak).
-- **Key Fact:** The correct option is **A** (Mosque).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Mosque** is standard UPPCS testing material.
+Sultan Qutbuddin Aybak also called “Lakh Baksh” was
+the first Muslim ruler of India who ruled from his capital in
+Lahore. He patronized scholars such as Hasan Nizami and
+Fakhra-i-Mudabbir, both of whom dedicated their works to
+Aybak. Aybak was the first muslim ruler who setteld in india
+and ruled unlike the earlier muslims, who come and only raided
+and plundered. Though his tenure as a ruler was only four
+years, and most of them were spent in dealing with the revolts
+of nobles like Taj-ud-din Yalduz, Nasir-ud-din Qabacha and
+a few Hindu chiefs, yet he established a firm administrative
+system. He started the construction of Quwwat-ul-Islam
+mosque at Delhi and Adhai Din ka Jhopara (Ajmer). He also
+laid the foundation of the Qutub Minar, which was completed
+by his successor Iltutmish. He was known as Lakh Baksh for
+his generosity. He never took title of "Sultan" but according
+to question option (d) is the correct answer
+*(Refer to Q-GC3 for primary reference context)*
 
 </details>
 
-**Q-GC3. Jharkhand PCS 2021**
+---
 
-Quwwat-ul-Islam Mosque and Arhai Din Ka Jhonpra are situated respectively at:
+**Q-GC5. Jharkhand P.C.S. (Pre) 2021**
+
+Quwwat-ul-Islam Mosque and Arhai Din Ka Jhonpra
+
+are situated respectively at :
 
 A. Delhi and Ajmer
 
@@ -2815,23 +2330,69 @@ C. Ajmer and Delhi
 
 D. Lahore and Ajmer
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Delhi and Ajmer)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **A** (Delhi and Ajmer).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Delhi and Ajmer** is standard UPPCS testing material.
+Sultan Qutbuddin Aybak also called “Lakh Baksh” was
+the first Muslim ruler of India who ruled from his capital in
+Lahore. He patronized scholars such as Hasan Nizami and
+Fakhra-i-Mudabbir, both of whom dedicated their works to
+Aybak. Aybak was the first muslim ruler who setteld in india
+and ruled unlike the earlier muslims, who come and only raided
+and plundered. Though his tenure as a ruler was only four
+years, and most of them were spent in dealing with the revolts
+of nobles like Taj-ud-din Yalduz, Nasir-ud-din Qabacha and
+a few Hindu chiefs, yet he established a firm administrative
+system. He started the construction of Quwwat-ul-Islam
+mosque at Delhi and Adhai Din ka Jhopara (Ajmer). He also
+laid the foundation of the Qutub Minar, which was completed
+by his successor Iltutmish. He was known as Lakh Baksh for
+his generosity. He never took title of "Sultan" but according
+to question option (d) is the correct answer
+*(Refer to Q-GC3 for primary reference context)*
+*(Refer to Q-GC4 for primary reference context)*
 
 </details>
 
-**Q-GC4. BPSC 2022**
+---
 
-The Qutub Minar was completed by:
+**Q-GC6. U.P.P.C.S. (Mains) 2013**
+
+Who among the following did not contribute to
+
+building the famous ‘Qutb-Minar’?
+
+A. Qutbuddin Aybak
+
+B. Iltutmish
+
+C. Ghiyasuddin Tughluq
+
+D. Firuz Shah Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Qutbuddin Aybak, the founder of the Delhi Sultanate, started
+construction of the Qutub Minar, which was completed by
+Iltutmish. The topmost storey was damaged by lightning,
+which was rebuilt by Firuz Shah Tughluq. Firuz Shah
+Tughluq rebuilt the fourth floor of Qutub Minar and built
+the fifth floor. Ghiyasuddin Tughluq contributed nothing to
+its construction. From the above options, option (c) is the
+correct answer.
+
+</details>
+
+---
+
+**Q-GC7. 67th B.P.S.C. (Pre) 2022**
+
+The Qutub Minar was completed by :
 
 A. Iltutmish
 
@@ -2841,52 +2402,268 @@ C. Ulugh Khan
 
 D. Raziya Sultana
 
-E. None / More than one
+E. None of the above/More than one of the above
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Iltutmish)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **A** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
+Qutbuddin Aybak, the founder of the Delhi Sultanate, started
+construction of the Qutub Minar, which was completed by
+Iltutmish. The topmost storey was damaged by lightning,
+which was rebuilt by Firuz Shah Tughluq. Firuz Shah
+Tughluq rebuilt the fourth floor of Qutub Minar and built
+the fifth floor. Ghiyasuddin Tughluq contributed nothing to
+its construction. From the above options, option (c) is the
+correct answer.
+*(Refer to Q-GC6 for primary reference context)*
 
 </details>
 
-**Q-GC5. IAS 2003**
+---
+
+**Q-GC8. 41st B.P.S.C. (Pre) 1996 · U.P.P.C.S. (Pre) 1990**
+
+The capital of Qutbuddin Aybak was
+
+A. Lahore
+
+B. Delhi
+
+C. Ajmer
+
+D. Lakhnauti
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+After the death of Muhammad Ghori in 1206 A.D., his
+General Qutbuddin Aybak, who was in charge of Lahore and
+north-Indian possessions, was invited by Amirs of Lahore
+to assume the powers of Ghori. The capital of Qutbuddin
+Aybak was Lahore. Taj-ud-Din Yalduz, Governor of Kirman
+ascended the throne of Ghazni. It seems that it was the
+desire of Muhammad Ghori that Qutbuddin Aybak should
+succeed him in India. In his brief reign of four years (1206-10
+A.D.), he moved his capital to Lahore to frustrate Yalduz’s
+ambition of annexing Punjab. He strengthened his position
+by matrimonial alliances with influential rival Turkish Chiefs.
+Nasiruddin Qabacha of Multan refused to accept Qutbuddin
+as the ruler of Delhi Sultanate. Due to this, Aybak always
+stayed in Lahore and never got the chance to move to Delhi.
+
+</details>
+
+---
+
+**Q-GC9. I.A.S. (Pre) 2003**
 
 How did Sultan Qutbuddin Aybak die?
 
-A. Stabbed by a noble
+A. He was treacherously stabbed to death by one of his
 
-B. Killed by Yalduz in battle
+ambitious nobles
 
-C. Died of Kalinjar siege wounds
+B. He was killed in a battle with Taj-ud-din Yalduz the
 
-D. Fell from his horse while playing Chaugan
+ruler of Ghazni who entered into a contest with him
 
-<details>
-<summary>Show answer</summary>
+over the capture of Punjab
 
-**Correct Answer:** **D** (Fell from his horse while playing Chaugan)
+C. He sustained injuries while besieging the fortress of
+
+Kalinjar in Bundelkhand and succumbed to them later
+
+D. He died after a fall from his horse while playing
+
+Chaugan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Historical Context:** Buried at **Lahore**.
-- **Key Fact:** The correct option is **D** (Fell from his horse while playing Chaugan).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Fell from his horse while playing Chaugan** is standard UPPCS testing material.
+In 1210 A.D., Qutbuddin Aybak died in an accident while he
+was playing Chaugan (polo). He fell from a horse and was
+severely injured. He was buried in Lahore near the Anarkali
+Bazaar. He was the founder of the Slave Dynasty in India.
 
 </details>
 
-**Q-GC6. BPSC 2022 Re-Exam**
+---
 
-The Muslim ruler whose empire was regarded as a part of Dar-ul-Islam was:
+**Q-GC10. U.P.P.C.S. (Mains) 2012 · U.P.P.C.S. (Spl) (Mains) 2004**
+
+Who among the following established Delhi as the
+
+capital of Sultanate?
+
+A. Qutbuddin Aybak
+
+B. Iltutmish
+
+C. Raziyya
+
+D. Muizzuddin Ghori
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Iltutmish (1211-36 AD) was the real founder of the Delhi
+Sultanate. Before this, Aybak ruled from Lahore. He is said
+to have introduced first Arabic silver (175 grain) and copper
+currency which were two basic coins of the Sultanate period.
+In 1229 A.D., Iltutmish got recognition as the Muslim Sultan
+of India by the Caliph of Baghdad. Iltutmish, after that,
+assumed the title of ‘Amir-ul- Mommini' or ‘Commander
+of the faithful’ and had the name of Khalifa inscribed on his
+coins. This was a great achievement of his life.
+
+</details>
+
+---
+
+**Q-GC11. U.P.P.C.S. (Mains) 2014**
+
+Who was the first Sultan of Delhi who introduced
+
+regular coins and declared Delhi the capital of his
+
+empire?
+
+A. Nasiruddin Mahmud
+
+B. Iltutmish
+
+C. Aram Shah
+
+D. Balban
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Iltutmish (1211-36 AD) was the real founder of the Delhi
+Sultanate. Before this, Aybak ruled from Lahore. He is said
+to have introduced first Arabic silver (175 grain) and copper
+currency which were two basic coins of the Sultanate period.
+In 1229 A.D., Iltutmish got recognition as the Muslim Sultan
+of India by the Caliph of Baghdad. Iltutmish, after that,
+assumed the title of ‘Amir-ul- Mommini' or ‘Commander
+of the faithful’ and had the name of Khalifa inscribed on his
+coins. This was a great achievement of his life.
+*(Refer to Q-GC10 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC12. U.P. R.O./ A.R.O. (Pre) 2016**
+
+Which one of the following was the capital of the
+
+Sultanate during the reign of Iltutmish?
+
+A. Agra
+
+B. Lahore
+
+C. Badaun
+
+D. Delhi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Iltutmish shifted his capital from Lahore to Delhi. He was
+the first Sultan of the Sultanate to shift his capital.
+
+</details>
+
+---
+
+**Q-GC13. U.P.P.C.S. (Mains) 2016**
+
+Who among the following Sultans of the Sultanate was
+
+the first to shift his capital to Delhi?
+
+A. Aram Shah
+
+B. Balban
+
+C. Iltutmish
+
+D. Qutbuddin Aybak
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Iltutmish shifted his capital from Lahore to Delhi. He was
+the first Sultan of the Sultanate to shift his capital.
+*(Refer to Q-GC12 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC14. U.P. P.C.S. (Pre) 2002**
+
+Who was the first Muslim ruler of Delhi?
+
+A. Qutbuddin Aybak
+
+B. Iltutmish
+
+C. Raziyya
+
+D. Balban
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Iltutmish was the first Sultan of Delhi who received the
+investiture from Caliph. In 1229 A.D., the Caliph of Baghdad,
+Al-Muntasir Billah, bestowed on Iltutmish the title of
+“Sultan-i- Azam” or the Sultan The Great. Thus, in this way,
+he was the first legally independent Sultan of Delhi. He was
+successful in keeping the throne of Delhi safe from the danger
+of Mongol invasion as well as from the attacks of both Taj
+ud-din Yalduz and Qabacha. He broke up the Rajput powers
+in the north and established his supremacy over them. He
+made his rule hereditary, issued coins with his name and made
+Delhi a beautiful capital. He is said to have introduced first
+Arabic silver (175gm) and copper currency which were two
+basic coins of the Sultanate period. Iltutmish belonged to the
+tribe of ‘Ilbari’ in the Eurasian Steppe of Turkestan. Iltutmish
+was first appointed governor of Badaun in recognition of
+his services during the campaign of Muhammad of Ghur
+against the Khokhars in 1205-06 A.D. Amirali Ismail invited
+Iltutmish for the coronation in Delhi with the approval of
+Turkish nobles after the death of Aybak. Iltutmish declared
+himself Sultan in 1211 A.D.
+
+</details>
+
+---
+
+**Q-GC15. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+The Muslim ruler whose empire was regarded as a
+
+part of Dar-ul-Islam was :
 
 A. Balban
 
@@ -2896,26 +2673,53 @@ C. Iltutmish
 
 D. Nasir-ud-Din
 
-E. None / More than one
+E. None of the above/More than one of the above
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Iltutmish)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Historical Context:** Caliph **khilat 1229**.
-- **Key Fact:** The correct option is **C** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
+During the period of Iltutmish, in 1229 A.D. the Caliph
+of Baghdad gave khillat to Iltulmish. Now the Sultanate
+theoretically became part of Dar-ul-Islam subject to the
+caliph of Baghdad.
 
 </details>
 
-**Q-GC7. UKPCS Prelims 2021**
+---
 
-Who among the following was not the rivals of Iltutmish?
+**Q-GC16. U.P.P.C.S. (Pre) 2016**
+
+Who was called ‘a slave of a slave’?
+
+A. Mohd. Ghori
+
+B. Qutbuddin Aybak
+
+C. Balban
+
+D. Iltutmish
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Iltutmish is called ‘A Slave of a Slave’ because Qutbuddin
+Aybak was the slave of Muhammad. Ghori, who became
+Sultan after the death of Ghori, and Iltutmish, was a slave of
+Qutbuddin Aybak, who later married the daughter of Qutbuddin Aybak and became Sultan.
+
+</details>
+
+---
+
+**Q-GC17. Uttarakhand P.C.S. (Pre) 2021**
+
+Who among the following was not the rivals of
+
+Iltutmish?
 
 A. Tajuddin Yalduz
 
@@ -2925,24 +2729,155 @@ C. Ali Mardan
 
 D. Malik Altunia
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Malik Altunia)
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Historical Context:** **Altunia** is Razia-era (**Bhatinda**). Rivals of Iltutmish = Yalduz, Qabacha, Ali Mardan.
-- **Key Fact:** The correct option is **D** (Malik Altunia).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
+In the given options, Malik Altunia was not the rival of
+Iltutmish. His main rivals included Tajuddin Yalduz in
+Gazhani, Nasiruddin Qabacha in Sindh and Ali Mardan in
+Lakhnauti. Iltutmish was a slave of Qutbuddin Aybak and
+after Aram Shah's death took control of the Delhi Sultanate
+as independent ruler.
 
 </details>
 
-**Q-GC8. IAS 2001 / Chhattisgarh PCS**
+---
 
-The Mongols under Genghis Khan invaded India during the reign of:
+**Q-GC18. U.P.P.S.C. (GIC) 2010 · U.P.P.C.S. (Mains) 2004**
+
+Who of the following was the first woman ruler of
+
+medieval India ?
+
+A. Raziyya Sultan
+
+B. Chand Bibi
+
+C. Durgavati
+
+D. Noorjahan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Raziyya Sultan, who reigned from 1236 to 1240 A.D., had
+the unique distinction of being the only woman to occupy the
+throne of Delhi Sultanate. She was the first female ruler of Delhi
+Sultanate. The Turkish nobles were reluctant to accept a woman
+as their ruler, especially when she challenged their power.
+
+</details>
+
+---
+
+**Q-GC19. U.P. P.C.S. (Pre) 1993**
+
+During whose reign Mongol invader Genghis Khan
+
+came through the North-West Frontier of India?
+
+A. Alauddin Khalji
+
+B. Iltutmish
+
+C. Balban
+
+D. Aybak
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Mongol invader Genghis Khan came through the northwest
+frontier of India during the reign of Iltutmish. Chasing son
+of the ruler of Khawarizm Shah, Jalaluddin Mingburni.
+Genghis Khan reached the bank of Indus river. Jalal-ud-dinMingburni sought refuge from Iltutmish. Iltutmish dared
+not risk the invasion by a dangerous and furious invader
+like Genghis. So, he prudently refused to give asylum to the
+Mingburni. Mongol invasion trouble also went back with
+Prince Mingburni in 1224 AD
+
+</details>
+
+---
+
+**Q-GC20. U.P.P.C.S. (Mains) 2007**
+
+Which Sultan of Delhi was a contemporary of the
+
+Mongol Leader Genghis Khan ?
+
+A. Iltutmish
+
+B. Raziyya
+
+C. Balban
+
+D. Alauddin Khalji
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Mongol invader Genghis Khan came through the northwest
+frontier of India during the reign of Iltutmish. Chasing son
+of the ruler of Khawarizm Shah, Jalaluddin Mingburni.
+Genghis Khan reached the bank of Indus river. Jalal-ud-dinMingburni sought refuge from Iltutmish. Iltutmish dared
+not risk the invasion by a dangerous and furious invader
+like Genghis. So, he prudently refused to give asylum to the
+Mingburni. Mongol invasion trouble also went back with
+Prince Mingburni in 1224 AD
+*(Refer to Q-GC19 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC21. U.P.P.S.C. (GIC) 2010**
+
+In whose reign Mongols were seen on the bank of Indus
+
+river for the first time?
+
+A. Balban
+
+B. Iltutmish
+
+C. Qutbuddin Aybak
+
+D. Raziyya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Mongol invader Genghis Khan came through the northwest
+frontier of India during the reign of Iltutmish. Chasing son
+of the ruler of Khawarizm Shah, Jalaluddin Mingburni.
+Genghis Khan reached the bank of Indus river. Jalal-ud-dinMingburni sought refuge from Iltutmish. Iltutmish dared
+not risk the invasion by a dangerous and furious invader
+like Genghis. So, he prudently refused to give asylum to the
+Mingburni. Mongol invasion trouble also went back with
+Prince Mingburni in 1224 AD
+*(Refer to Q-GC19 for primary reference context)*
+*(Refer to Q-GC20 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC22. Chhattisgarh P.C.S. (Pre) 2013 · I.A.S. (Pre) 2001**
+
+The Mongols under Genghis Khan invaded India
+
+during the reign of :
 
 A. Balban
 
@@ -2952,31 +2887,75 @@ C. Iltutmish
 
 D. Muhammad-Bin-Tughluq
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Iltutmish)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **C** (Iltutmish).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
+Mongol invader Genghis Khan came through the northwest
+frontier of India during the reign of Iltutmish. Chasing son
+of the ruler of Khawarizm Shah, Jalaluddin Mingburni.
+Genghis Khan reached the bank of Indus river. Jalal-ud-dinMingburni sought refuge from Iltutmish. Iltutmish dared
+not risk the invasion by a dangerous and furious invader
+like Genghis. So, he prudently refused to give asylum to the
+Mingburni. Mongol invasion trouble also went back with
+Prince Mingburni in 1224 AD
+*(Refer to Q-GC19 for primary reference context)*
+*(Refer to Q-GC20 for primary reference context)*
+*(Refer to Q-GC21 for primary reference context)*
 
 </details>
 
-**Q-GC9. IAS 2021**
+---
 
-Consider:
+**Q-GC23. U.P.P.C.S. (Pre) 2015**
 
-1. During Iltutmish, Chengiz Khan reached the Indus pursuing the Khwarezm prince.
+The original name of Changez (Genghis) Khan was
 
-2. During Muhammad bin Tughluq, Taimur occupied Multan and crossed the Indus.
+A. Khasul Khan
 
-3. During Deva Raya II, Vasco da Gama reached Kerala.
+B. Yesugai
 
-Which is/are correct?
+C. Temuchin (Temujin)
+
+D. Ogadi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Genghis Khan was a Mongolian ruler who played a significant
+role in Mongolian imperial expansion. The original name of
+Genghis Khan was Temujin (or Temuchin).
+
+</details>
+
+---
+
+**Q-GC24. I.A.S. (Pre) 2021**
+
+Consider the following statements :
+
+1. It was during the reign of Iltutmish that Chengiz
+
+Khan reached the Indus in pursuit of the fugitive
+
+Khwarezm prince.
+
+2. It was during the reign of Muhammad bin Tughluq
+
+that Taimur occupied Multan and crossed the
+
+Indus.
+
+3. It was during the reign of Deva Raya II of
+
+Vijayanagara Empire that Vasco da Gama reached
+
+the coast of Kerala
+
+Which of the statements given above is/are correct?
 
 A. 1 only
 
@@ -2986,24 +2965,29 @@ C. 3 only
 
 D. 2 and 3
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (1 only)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** Only statement **1** is correct. Timur is later than MbT; Vasco (**1498**) is not Deva Raya II’s moment as keyed.
-- **Key Fact:** The correct option is **A** (1 only).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **1 only** is standard UPPCS testing material.
+During the reign of Iltutmish, Genghis Khan pursued
+Khwarizm prince Jalaluddin, who fled to Delhi. Iltutmish
+refused the request for the asylum of prince, hence statement
+1 is correct. Taimur started his career of conquest in 1370 A.D.
+while Muhammad bin Tughluq's time period was 1325-1351
+A.D., hence Statement (2) is wrong. During the reign of Deva
+Rai II of Vijayanagara, Iranian ambassador Abdur Razzaq
+came to Vijayanagara. Vasco-da-Gama reached coast of Kerala
+in 1498 AD. At that time, Vijayanagara was being ruled by
+Narsa Nayaka's son Timma. Hence statement (3) is also wrong.
 
 </details>
 
-**Q-GC10. BPSC**
+---
 
-Iltutmish appointed his first Subedar in Bihar to:
+**Q-GC25. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Iltutmish appointed his first Subedar in Bihar to :
 
 A. Aivaj
 
@@ -3011,24 +2995,50 @@ B. Nasiruddin Mahmud
 
 C. Alimardan
 
-D. Malik-Jani
+D. Malik - Jani
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Malik-Jani)
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Historical Context:** After defeating **Hisamuddin Awaz** near Rajmahal/Teliagarhi.
-- **Key Fact:** The correct option is **D** (Malik-Jani).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Malik-Jani** is standard UPPCS testing material.
+In 1225 A.D., Iltutmish defeated Hisamuddin Awaz in
+mountains of Rajmahal near Teliyagarhi and annexed Bihar
+Shareef and Barh. Awaz had accepted the subordination of
+Iltutmish. Iltutmish had appointed Malik-Jani as the new
+Subedar of Bihar.
 
 </details>
 
-**Q-GC11. Chhattisgarh PCS 2004**
+---
+
+**Q-GC26. U. P. Lower Sub. (Pre) 2004**
+
+Who was behind the dethroning of Raziyya Begum?
+
+A. Afghans
+
+B. Mongols
+
+C. Turks
+
+D. Arabs
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Turkish nobles were behind dethroning of Raziyya Begum.
+They revolted against Raziyya Begum under the leadership of
+governor of Bhatinda, Malik Altunia and removed her from
+the power.
+
+</details>
+
+---
+
+**Q-GC27. Chhattisgarh P.C.S. (Pre) 2004**
 
 The full name of Sultan of Delhi Balban was?
 
@@ -3040,24 +3050,66 @@ C. Ghiyasuddin
 
 D. Qutbuddin
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Ghiyasuddin)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Historical Context:** **Ghiyasuddin Balban** / **Ulugh Khan**.
-- **Key Fact:** The correct option is **C** (Ghiyasuddin).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Ghiyasuddin** is standard UPPCS testing material.
+The full name of Balban was Ghiyasuddin Balban. He was the
+ninth Sultan of the Mamluk dynasty of Delhi. Ghiyasuddin
+was the Wazeer and heir of the last Shamsi Sultan, Nasiruddin
+Mahmud. He reduced the power of the treacherous nobility
+and heightened the stature of the Sultan. In spite of having
+only a few military achievements, he was the most powerful
+ruler of the Sultanate between Shamsuddin Iltutmish and
+Alauddin Khalji. He reached on the post of Amir-i-Shikar
+during Raziyya period. Like Iltutmish, he also was an Ilbari
+Turk. Balban married his daughter to Sultan Nasiruddin, on
+this occasion was given the title of Ulugh Khan and the post
+of Nayab-i- Mamlikat. Balban sat on the throne of Delhi in
+1266 A.D.
 
 </details>
 
-**Q-GC12. BPSC 2020**
+---
 
-Which Delhi Sultan is known for adopting the 'blood and iron' policy?
+**Q-GC28. U.P.P.C.S. (Mains) 2009**
+
+Which Sultan of Delhi is said to have followed the policy
+
+of “blood and iron”?
+
+A. Iltutmish
+
+B. Balban
+
+C. Jalaluddin Firuz Khalji
+
+D. Firuz Shah Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+It is said that Balban had adopted the policy of ‘blood and
+iron.’ The main characteristics of the leadership of
+Balban were- First, the divine right of kings and second,
+the Sultan must be autocratic. According to him, “Sultan
+is a representative of God (Niyamat-i-Khudai) on earth and
+his place comes after Paigambar. Sultan gets the inspiration
+and strength from God to work. Due to this, the public and
+the Sardars have no right to criticize his work.”
+
+</details>
+
+---
+
+**Q-GC29. 66th B.P.S.C. (Pre) 2020**
+
+Which Delhi Sultan is known for adopting the 'blood
+
+and iron' policy?
 
 A. Iltutmish
 
@@ -3067,25 +3119,129 @@ C. Ala-ud-din Khalji
 
 D. Muhammad bin Tughluq
 
-E. None / More than one
+E. None of the above/More than one of the above
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Balban)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **B** (Balban).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
+It is said that Balban had adopted the policy of ‘blood and
+iron.’ The main characteristics of the leadership of
+Balban were- First, the divine right of kings and second,
+the Sultan must be autocratic. According to him, “Sultan
+is a representative of God (Niyamat-i-Khudai) on earth and
+his place comes after Paigambar. Sultan gets the inspiration
+and strength from God to work. Due to this, the public and
+the Sardars have no right to criticize his work.”
+*(Refer to Q-GC28 for primary reference context)*
 
 </details>
 
-**Q-GC13. IAS 1997**
+---
 
-After consolidating his power, Balban assumed the grand title of:
+**Q-GC30. U.P.P.C.S. (Mains) 2013**
+
+Given below are two statements, one labelled as
+
+Assertion (A) and the other as Reason (R):
+
+Assertion (A) : Balban made his government firm
+
+stable and centralized all authority in
+
+his hands.
+
+Reason (R) : He wanted to protect North-West
+
+frontier against Mongol invasions.
+
+Code :
+
+A. Both (A) and (R) are true, and (R) is the correct
+
+explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct
+
+explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Ghiyasuddin Balban was the ruler of the Slave Dynasty
+in Delhi Sultanate. He ruled from 1266 to 1286 A.D. He
+assumed the title of emperor as a divine act of God and took
+all the powers into his hands. He introduced the custom
+of Sijada and Paibos. He constructed strong forts at the
+northwest border to defend from the attacks of Mongols.
+Assertion (A) and reason (R) both are correct, but Reason
+(R) is not the correct explanation of Assertion (A).
+
+</details>
+
+---
+
+**Q-GC31. U.P. P.C.S. (Pre) 2024**
+
+Below are two statements, one of which is an Assertion
+
+A. and the other is a Reason (R):
+
+Assertion (A): Balban made his government firm and
+
+centralized all authority in his hands.
+
+Reason (R): He wanted to secure the northwestern
+
+border from Mongol invasions.
+
+Choose the correct answer from the options given
+
+below:
+
+A. Both (A) and (R) are true, and (R) is the correct
+
+explanation of (A).
+
+B. (A) is false, but (R) is true.
+
+C. Both (A) and (R) are true, but (R) is not the correct
+
+explanation of (A).
+
+D. (A) is true, but (R) is false.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Ghiyasuddin Balban was the ruler of the Slave Dynasty
+in Delhi Sultanate. He ruled from 1266 to 1286 A.D. He
+assumed the title of emperor as a divine act of God and took
+all the powers into his hands. He introduced the custom
+of Sijada and Paibos. He constructed strong forts at the
+northwest border to defend from the attacks of Mongols.
+Assertion (A) and reason (R) both are correct, but Reason
+(R) is not the correct explanation of Assertion (A).
+*(Refer to Q-GC30 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC32. I.A.S. (Pre) 1997**
+
+After consolidating his power, Balban assumed the
+
+grand title of
 
 A. Tuti-e-Hind
 
@@ -3095,24 +3251,32 @@ C. Zil-e-Ilahi
 
 D. Din-e-Ilahi
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Zil-e-Ilahi)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Historical Context:** Shadow of God; also **Niyabat-i-Khudai**.
-- **Key Fact:** The correct option is **C** (Zil-e-Ilahi).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Zil-e-Ilahi** is standard UPPCS testing material.
+Balban established his political model inspired by famed
+public heroes. He tried to provide a highly respected
+reputation to his reign. He was considered the representative
+of God (Niyamat-e-Khudai) on the earth. According to
+Balban, he comes after Paigambar in dignity. The king is
+‘Zill-e-Allah’ or ‘Zil-i-Ilahi’ means ‘Image of God.’ Balban
+was the first Sultan, who had established kingship theory.
+He told his son- “ The position of Sultan is the symbol of
+autocracy.”
 
 </details>
 
-**Q-GC14. BPSC 2017**
+---
 
-Who was the first Muslim ruler to formulate the 'theory of kingship' similar to the 'theory of divine right of the kings'?
+**Q-GC33. 63rd B.P.S.C (Pre.) 2017**
+
+Who was the first Muslim ruler to formulate the 'theory
+
+of kingship' similar to the 'theory of divine right of the
+
+kings'?
 
 A. Aibak
 
@@ -3122,25 +3286,26 @@ C. Balban
 
 D. Alauddin
 
-E. None / More than one
+E. None of the above/ More than one of the above
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Balban)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **C** (Balban).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
+Balban was the first ruler to propound the 'theory of Kingship' similar to the 'theory of divine right of the kings. He
+said, "Sultan is representative of God on earth and his place
+comes after Paigambar".
 
 </details>
 
-**Q-GC15. IAS 1993 / BPSC 2023**
+---
 
-Who among the following introduced the famous Persian festival ‘Nawruz’ in India?
+**Q-GC34. I.A.S. (Pre) 1993**
+
+Who among the following introduced the famous
+
+Persian festival ‘Nawruz’ in India?
 
 A. Balban
 
@@ -3150,24 +3315,58 @@ C. Firuz Tughluq
 
 D. Alauddin Khalji
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Balban)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** Along with **Sijda** and **Paibos**.
-- **Key Fact:** The correct option is **A** (Balban).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
+Balban made some rules and regulations for his court and
+strictly enforced them. Iranian kings were his ideals in this
+field, and he introduced many of their traditions in his court. He
+introduced the rituals of Sijada (greeting lying on the ground)
+and Paibos (kissing the feet of the king). He also introduced
+the rituals to celebrate the Persian festival ‘Nawruz.’
 
 </details>
 
-**Q-GC16. Chhattisgarh PCS 2008**
+---
 
-Which one of the following statements is not true about Balban?
+**Q-GC35. 69th B.P.S.C. (Pre) 2023**
+
+Who among the following introduced the Persian
+
+festival Nawruz in India?
+
+A. Firuz Shah Tughlaq
+
+B. Alauddin Khilji
+
+C. Balban
+
+D. Iltutmish
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Balban made some rules and regulations for his court and
+strictly enforced them. Iranian kings were his ideals in this
+field, and he introduced many of their traditions in his court. He
+introduced the rituals of Sijada (greeting lying on the ground)
+and Paibos (kissing the feet of the king). He also introduced
+the rituals to celebrate the Persian festival ‘Nawruz.’
+*(Refer to Q-GC34 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC36. Chhattisgarh P.C.S. (Pre) 2008**
+
+Which one of the following statements is not true about
+
+Balban?
 
 A. He propounded the theory of Niyabat-e-Khudai.
 
@@ -3177,24 +3376,30 @@ C. He eliminated the power of Turkan-e-Chahalgani.
 
 D. He quelled down the revolt of Bengal.
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (He introduced the Iqtadari System.)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** **Iqta** is linked to **Iltutmish**, not Balban. Bengal revolt = **Tughril Khan**.
-- **Key Fact:** The correct option is **B** (He introduced the Iqtadari System.).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
+The actual name of Balban was Baha-ud-din. Nasiruddin
+Mahmud had given him the title of ‘Ulugh Khan’. He assumed
+the title ‘Zil-i-Ilahi’. His tenure was from 1266 to 1286 A.D.
+Balban is famous for his reign theory. His royal principle of
+nature and essence was inspired by Persian reign. Balban
+described the king as ‘Niyamat-e-Khudai’ (representative of
+God). After attaining the power, he abolished the ‘Turkan-eChahalgani’, established by Iltutmish. The only revolt in the
+period of Balban was done by Subedar of Bengal, Tughril
+Khan in 1279 A.D., which was quelled by Balban and the
+rebels were hanged. The system of Iqtadari was introduced
+by Iltutmish.
 
 </details>
 
-**Q-GC17. BPSC Re-Exam 2024**
+---
 
-The term Zillillah was first used by:
+**Q-GC37. 70th B.P.S.C. Re-Exam 2024**
+
+The term Zillillah was first used by
 
 A. Alauddin Khalji
 
@@ -3204,23 +3409,61 @@ C. Balban
 
 D. Iltutmish
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Balban)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **C** (Balban).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
+The actual name of Balban was Baha-ud-din. Nasiruddin
+Mahmud had given him the title of ‘Ulugh Khan’. He assumed
+the title ‘Zil-i-Ilahi’. His tenure was from 1266 to 1286 A.D.
+Balban is famous for his reign theory. His royal principle of
+nature and essence was inspired by Persian reign. Balban
+described the king as ‘Niyamat-e-Khudai’ (representative of
+God). After attaining the power, he abolished the ‘Turkan-eChahalgani’, established by Iltutmish. The only revolt in the
+period of Balban was done by Subedar of Bengal, Tughril
+Khan in 1279 A.D., which was quelled by Balban and the
+rebels were hanged. The system of Iqtadari was introduced
+by Iltutmish.
+*(Refer to Q-GC36 for primary reference context)*
 
 </details>
 
-**Q-GC18. BPSC 2022 Re-Exam**
+---
 
-Tughril Khan raised a standard of revolt during whose reign?
+**Q-GC38. U.P.R.O./A.R.O. (Mains) 2014**
+
+Which of the following Sultans called himself the
+
+‘Helper of a Caliph’ in his inscription on the walls of
+
+the Mosque at Garhmukteshwar?
+
+A. Balban
+
+B. Kaiqubad
+
+C. Jalaluddin Khalji
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Balban has called himself the ‘Helper of a Caliph’ in his
+inscription on the walls of the Mosque at Garhmukteshwar.
+
+</details>
+
+---
+
+**Q-GC39. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Tughril Khan raised a standard of revolt during whose
+
+reign?
 
 A. Balban
 
@@ -3230,461 +3473,33 @@ C. Feroz Tughluq
 
 D. Khizr Khan
 
-E. None / More than one
+E. None of the above/More than one of the above
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Balban)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** Bengal (~**1279**).
-- **Key Fact:** The correct option is **A** (Balban).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
+Tughril Khan revolted during the period of Balban. This
+rebellion took place in protest against the appointment of
+Amin Khan in Bengal. Over time, Tughril fled, fearing
+Balban's Bengal Campaign.
 
 </details>
 
 ---
 
-## UKPCS — Slave Dynasty stems
-
-**Q-UK1. UKPCS Prelims 2021**
-
-Who among the following was not the rivals of Iltutmish?
-
-A. Tajuddin Yalduz
-
-B. Nasiruddin Qabacha
-
-C. Ali Mardan
-
-D. Malik Altunia
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Malik Altunia)
-
-**Detailed Explanation:**
-- **Historical Context:** **Altunia** belongs to **Razia’s** overthrow, not Iltutmish’s early rivals.
-- **Key Fact:** The correct option is **D** (Malik Altunia).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
 ---
 
-## Complete PYQ Bank — Khalji Dynasty (UPPCS first)
+## Complete PYQ Bank — Ghatnachakra Khalji Dynasty
 
-Teaching body: **2.5**.
+Complete sequence of 32 questions from Ghatna Chakra Khalji Dynasty (B–214 to B–219). Covers Jalaluddin, Alauddin Khalji's market control and agrarian reforms, Chittor expedition, Malik Kafur's southern raids, and Mubarak Khalji.
 
-**Q1. UP Lower Sub. (Pre) 2008**
+**Q-GC1. Chhattisgarh P.C.S. (Pre) 2003**
 
-Which Sultan of Delhi assumed the title of Alexander the Second:
+Which Sultan wanted to launch a new religion but
 
-A. Balban
-
-B. Alauddin Khalji
-
-C. Muhammad-Bin-Tughluq
-
-D. Sikandar Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Alauddin Khalji)
-
-**Detailed Explanation:**
-- **Historical Context:** **Sikandar-i-Sani** on coins.
-- **Key Fact:** The correct option is **B** (Alauddin Khalji).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
-
-</details>
-
-**Q2. UPPCS Prelims 1997**
-
-Assertion (A): Alauddin’s Deccan expeditions were financial ventures.
-
-Reason (R): He wanted to annex the Deccan States.
-
-A. Both true, R explains A
-
-B. Both true, R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (A true, R false)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Alauddin’s Deccan expeditions were financial ventures.
-- **Reason (R) is incorrect:** He wanted to annex the Deccan States.. Plunder/tribute true; permanent annexation of the south was **not** the main aim.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q3. UP R.O./A.R.O. (Pre) 2017**
-
-Match List-I to List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Ranthambore | 1. Karnadeva |
-| B. Chittore | 2. Raja Rai Ramchandra |
-| C. Devagiri | 3. Hamirdeva |
-| D. Gujarat | 4. Rana Ratan Singh |
-
-*Row order is not the answer code.*
-
-A. 4-3-2-1
-
-B. 1-4-3-2
-
-C. 2-4-1-3
-
-D. 3-4-2-1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (3-4-2-1)
-
-**Detailed Explanation:**
-- **Matching analysis:** A–3 Hamirdeva | B–4 Ratan Singh | C–2 Ramchandra | D–1 Karnadeva
-- **Correct combination:** Option **D** (3-4-2-1).
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q4. UPPCS Prelims 2022**
-
-Arrange conquests of Alauddin Khilji:
-
-1. Ranthambor 2. Gujarat 3. Warangal 4. Chittor
-
-A. 3-4-1-2
-
-B. 4-2-3-1
-
-C. 1-3-2-4
-
-D. 2-1-4-3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (2-1-4-3)
-
-**Detailed Explanation:**
-- **Chronological sequence:** **1299 → 1301 → 1303 → ~1310**.
-- **Correct match code:** Option **D** (2-1-4-3).
-
-**Key Exam Takeaway / Trap:**
-- Pay close attention to relative dates and avoid swapping sequential rulers or campaigns.
-
-</details>
-
-**Q5. UPPCS Mains 2005**
-
-Assertion (A): Alauddin Khalji introduced price control in Delhi.
-
-Reason (R): He wanted to pay lower wages to the artisans building his palaces in Delhi.
-
-A. Both true, R explains A
-
-B. Both true, R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (A true, R false)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Alauddin Khalji introduced price control in Delhi.
-- **Reason (R) is incorrect:** He wanted to pay lower wages to the artisans building his palaces in Delhi.. Market control funded the **standing army** vs Mongols (Barani), not palace artisan wages.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q6. UPPCS Prelims 1992 / UP Lower / GIC**
-
-Who of the following Muslim rulers enforced a strict price control system during his time?
-
-A. Alauddin Khalji
-
-B. Iltutmish
-
-C. Muhammad Tughluq
-
-D. Sher Shah Suri
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Alauddin Khalji)
-
-**Detailed Explanation:**
-- **Historical Context:** **Shahna-i-Mandi** system.
-- **Key Fact:** The correct option is **A** (Alauddin Khalji).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
-
-</details>
-
-**Q7. UPPCS Mains 2017**
-
-The attempt of Alauddin Khalji to control the market prices:
-
-A. led to agricultural progress
-
-B. benefitted only Nobles/Courtiers
-
-C. was highly successful
-
-D. alienated ruler from masses
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (was highly successful)
-
-**Detailed Explanation:**
-- **Historical Context:** Coaching/Ghatnachakra key.
-- **Key Fact:** The correct option is **C** (was highly successful).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **was highly successful** is standard UPPCS testing material.
-
-</details>
-
-**Q8. UPPCS Mains 2010**
-
-Which one of the following Kings of the medieval India began the ‘Public Distribution System’?
-
-A. Alauddin Khalji
-
-B. Balban
-
-C. Firuz Shah Tughluq
-
-D. Muhammad-Bin-Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Alauddin Khalji)
-
-**Detailed Explanation:**
-- **Key Fact:** The correct option is **A** (Alauddin Khalji).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
-
-</details>
-
-**Q9. UPPCS Mains 2011**
-
-Which Sultan of Delhi was the first to charge ‘Ghari’ or House-tax?
-
-A. Balban
-
-B. Alauddin Khalji
-
-C. Muhammad-Bin-Tughluq
-
-D. Firuz Shah Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Alauddin Khalji)
-
-**Detailed Explanation:**
-- **Historical Context:** Also **Charai** (grazing) on milch animals.
-- **Key Fact:** The correct option is **B** (Alauddin Khalji).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
-
-</details>
-
-**Q10. UPPCS Prelims 2014**
-
-What was the boundary between the Delhi Sultan and Mongols during the period of Alauddin Khalji after 1306 A.D.?
-
-A. Byas
-
-B. Ravi
-
-C. Indus
-
-D. Sutlej
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Ravi)
-
-**Detailed Explanation:**
-- **Historical Context:** **Ravi**.
-- **Key Fact:** The correct option is **B** (Ravi).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Ravi** is standard UPPCS testing material.
-
-</details>
-
-**Q11. UPPCS Prelims 2018**
-
-Which of the following pairs is NOT correctly matched?
-
-A. Devgiri — Shankar Dev
-
-B. Warangal — Ramchandra Dev
-
-C. Hoysal — Veer Ballal
-
-D. Madura — Veer Pandya
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Warangal — Ramchandra Dev)
-
-**Detailed Explanation:**
-- **Historical Context:** **Warangal = Prataparudra**; **Ramachandra** ruled **Devgiri**. Shankar Dev was Ramachandra’s son at Devgiri.
-- **Key Fact:** The correct option is **B** (Warangal — Ramchandra Dev).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q12. UP R.O./A.R.O. (Re-Exam) (Pre) 2016**
-
-Which Ruler of Delhi Sultanate declared himself as "Khalifa"?
-
-A. Balban
-
-B. Alauddin Khilji
-
-C. Mubarak Khilji
-
-D. Muhammad bin Tuglaq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Mubarak Khilji)
-
-**Detailed Explanation:**
-- **Historical Context:** Titles **Al-Imam / Khalifatullah**.
-- **Key Fact:** The correct option is **C** (Mubarak Khilji).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Mubarak Khilji** is standard UPPCS testing material.
-
-</details>
-
-**Q13. UPPCS Prelims 2017**
-
-Whose army was defeated by the army of Kakatiya rulers in 1303 at Warangal?
-
-A. of Iltutmish
-
-B. of Balban
-
-C. of Alauddin Khalji
-
-D. of Muhammad Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (of Alauddin Khalji)
-
-**Detailed Explanation:**
-- **Historical Context:** First Warangal attempt failed; later success under **Malik Kafur**.
-- **Key Fact:** The correct option is **C** (of Alauddin Khalji).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **of Alauddin Khalji** is standard UPPCS testing material.
-
-</details>
-
-**Q14. UPPCS Prelims 1994**
-
-Statements on Alauddin Khalji:
-
-I. He collected revenue by measuring the cultivated land.
-
-II. He enforced revenue measures in his entire empire.
-
-III. He abolished the powers of provincial Governors.
-
-A. I and II
-
-B. II and III
-
-C. I and III
-
-D. I, II and III
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (I and III)
-
-**Detailed Explanation:**
-- **Historical Context:** Measurement true (**Diwan-i-Mustakharaj**) but mainly around Delhi/Doab — not the whole empire as keyed. Privileges of **Khut/Muqaddam** crushed.
-- **Key Fact:** The correct option is **C** (I and III).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **I and III** is standard UPPCS testing material.
-
-</details>
-
----
-
-## Ghatnachakra Extra Drill — Khalji Dynasty (other papers)
-
-**Q-GC1. Chhattisgarh PCS 2003**
-
-Which Sultan wanted to launch a new religion but Ulemas opposed the move?
+Ulemas opposed the move?
 
 A. Balban
 
@@ -3694,24 +3509,60 @@ C. Muhammad Tughluq
 
 D. Iltutmish
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Alauddin)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** Dropped on advice of Kotwal **Ala-ul-Mulk**.
-- **Key Fact:** The correct option is **B** (Alauddin).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Alauddin** is standard UPPCS testing material.
+Alauddin Khalji was an ambitious emperor. He assumed the
+title of ‘Sikandar -i- Sani’ (second Alexander) and made it
+imprinted on his coins. He had the ambition to win the entire
+world and also to introduce a new religion as well. But he
+abandoned the idea on the advice of his faithful friend and
+the Kotwal “Alla-ul-Mulk”.
 
 </details>
 
-**Q-GC2. BPSC 2004**
+---
 
-'When he attained Kingship, he was quite independent of rulers and orders of Shariat'. For which Sultan Barani made this statement?
+**Q-GC2. U.P. Lower Sub (Pre) 2008**
+
+Which Sultan of Delhi assumed the title of Alexander
+
+the Second –
+
+A. Balban
+
+B. Alauddin Khalji
+
+C. Muhammad-Bin-Tughluq
+
+D. Sikandar Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Alauddin Khalji was an ambitious emperor. He assumed the
+title of ‘Sikandar -i- Sani’ (second Alexander) and made it
+imprinted on his coins. He had the ambition to win the entire
+world and also to introduce a new religion as well. But he
+abandoned the idea on the advice of his faithful friend and
+the Kotwal “Alla-ul-Mulk”.
+*(Refer to Q-GC1 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC3. 46th B.P.S.C. (Pre) 2004**
+
+'When he attained Kingship, he was quite independent
+
+of rulers and orders of Shariat'. For which Sultan
+
+Barani made this statement?
 
 A. Iltutmish
 
@@ -3721,23 +3572,24 @@ C. Alauddin Khalji
 
 D. Mohammad-bin-Tughlaq
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Alauddin Khalji)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **C** (Alauddin Khalji).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
+When he attained Kingship, he was quite independent of
+rulers and orders of Shariat. This statement was made by
+Barani for Sultan Alauddin Khalji.
 
 </details>
 
-**Q-GC3. BPSC 1996**
+---
 
-Who among army commanders of Alauddin Khalji died fighting against Mongols?
+**Q-GC4. 41st B.P.S.C. (Pre) 1996**
+
+Who among army commanders of Alauddin Khalji
+
+died fighting against Mongols?
 
 A. Zafar Khan
 
@@ -3747,24 +3599,27 @@ C. Alp Khan
 
 D. Ulugh Khan
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Zafar Khan)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** **Malik Yusuf Hizabruddin**.
-- **Key Fact:** The correct option is **A** (Zafar Khan).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Zafar Khan** is standard UPPCS testing material.
+Zafar Khan, the famous army commander of Alauddin Khalji,
+died while fighting against Mongols. He was an excellent
+and courageous commander of his time. Mongols were so
+impressed by the bravery of Zafar Khan and the persistence
+of Khalji army that they backed down by 30 miles. The
+original name of Zafar Khan was Malik Yusuf Hizabruddin.
 
 </details>
 
-**Q-GC4. BPSC 1999**
+---
 
-Padmini is associated with Ala-ud-Din’s conquest of Chittor. She was the wife of:
+**Q-GC5. 43rd B.P.S.C. (Pre) 1999**
+
+Padmini is associated with Ala-ud-Din’s conquest of
+
+Chittor. She was the wife of
 
 A. Maharana Pratap Singh
 
@@ -3774,22 +3629,25 @@ C. Raja Man Singh
 
 D. Rana Ratan Singh
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Rana Ratan Singh)
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Historical Context:** Literary fame via **Padmavat (1540)**.
-- **Key Fact:** The correct option is **D** (Rana Ratan Singh).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Rana Ratan Singh** is standard UPPCS testing material.
+The story of Padmini is well depicted in ‘Padmavat’ written
+by Malik Muhammad Jayasi in 1540 AD. According to this,
+Padmini was the wife of King Ratan Singh. Amir Khusrau
+had mentioned the love-story of Suleman and Queen Shaiba
+in his text and compared Alauddin with Suleman and Padmini
+with Shaiba. Probably presuming this, Malik Muhammad
+Jayasi composed Padmavat and the story of Rana Ratan
+Singh and Queen Padmavati.
 
 </details>
 
-**Q-GC5. UKPCS Prelims 2021 / BPSC 2024**
+---
+
+**Q-GC6. Uttarakhand P.C.S. (Pre) 2021**
 
 Who was known as 'Hazar-Dinari'?
 
@@ -3801,24 +3659,94 @@ C. Sikandar Lodi
 
 D. Qutbuddin Aybak
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Malik Kafur)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** Seized in Gujarat campaign (**Nusrat Khan** presented him to Alauddin).
-- **Key Fact:** The correct option is **B** (Malik Kafur).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Malik Kafur** is standard UPPCS testing material.
+Malik Kafur was known as 'Hazar-Dinari'. He was obtained
+by Alauddin Khalji during his Gujarat victory.
 
 </details>
 
-**Q-GC6. BPSC**
+---
 
-Who was the ruler of Devgiri at the time of Alauddin Khalji’s invasion?
+**Q-GC7. 70th B.P.S.C. (Pre) 2024**
+
+Malik Kafur also known as "Hazar Dinari" was bought
+
+by whom?
+
+A. Alauddin Khilji
+
+B. Ghiyasuddin Tughlaq
+
+C. Nusrat Khan
+
+D. More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Malik Kafur was snatched by Nusrat Khan during the Gujarat
+campaign. It was here that the slave Kafur, who later played a
+prominent part in Deccan campaigns, was forcibly snatched
+away from his master, who had brought him for a thousand
+dinars.Nusrat Khan later presented Malik Kafur to Alauddin
+Khalji, under whom he rose to prominence as a skilled
+military commander in Khalji's court. Malik Kafur is also
+called "Hazar Dinari."
+
+</details>
+
+---
+
+**Q-GC8. U.P.P.C.S. (Pre) 1997**
+
+Assertion (A) : Alauddin’s Deccan expeditions were
+
+financial ventures.
+
+Reason (R) : He wanted to annex the Deccan States.
+
+Code:
+
+A. Both (A) and (R) are true, and (R) is the correct
+
+explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct
+
+explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Dr. K.S. Lal has written that “ the greed of wealth and lust
+of pride encouraged Alauddin Khalji to attack the states of
+South.” The purpose of attacking these states was wealth
+and victory. There was no intention of interference in their
+internal policy. He did not want the possession of southern
+states. Thus, Assertion (A) is true and Reason (R) is false.
+Therefore, option (c) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC9. 53rd to 55th B.P.S.C. (Pre) 2011 · 47th B.P.S.C. (Pre) 2005**
+
+Who was the ruler of Devgiri at the time of Alauddin
+
+Khalji’s invasion?
 
 A. Ramachandra Dev
 
@@ -3828,24 +3756,143 @@ C. Malik Kafur
 
 D. Rana Ratan Singh
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Ramachandra Dev)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** Later titled **Rai Rayan**.
-- **Key Fact:** The correct option is **A** (Ramachandra Dev).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Ramachandra Dev** is standard UPPCS testing material.
+Ramchandra Dev was the ruler of Devgiri at the time of
+Alauddin Khalji’s invasion. In 1296 A.D., the king of Devgiri,
+Ramchandra Dev after the successful invasion of Alauddin
+Khalji promised him to send the revenue from Ellichpur
+every year, but during 1305-1306 AD, he did not send the
+tax to Delhi. Consequently, Alauddin sent an army under
+the leadership of Malik Kafur to attack Devgiri in 1307.
+King Ramchandra Dev was defeated and surrendered. Malik
+Kafur looted Devgiri and took Ramchandra Dev including
+his relatives to Delhi. Alauddin behaved with dignity with
+Ramchandra Dev and gave him the title of ‘Rai Rayan’ and
+sent him back to his state offering 1 lakh golden ‘Tankas’ and
+‘Navsari’ district. Malik Kafur had also led a campaign against
+Shankar Dev, the son of Ramchandra in 1312 AD.
 
 </details>
 
-**Q-GC7. BPSC 1994**
+---
 
-During the regime of which Sultan was the Khalisa land developed on a large scale?
+**Q-GC10. U.P. R.O./A.R.O. (Pre) 2017**
+
+Match the List-I to List-II and choose the correct
+
+answer by selecting the options given below :
+
+List-I List-II
+
+A. Ranthambore 1. Karnadeva
+
+B. Chittore 2. Raja Rai Ramchandra
+
+C. Devagiri 3. Hamirdeva
+
+D. Gujarat 4. Rana Ratan Singh
+
+Code :
+
+A B C D
+
+A. 4 3 2 1
+
+B. 1 4 3 2
+
+C. 2 4 1 3
+
+D. 3 4 2 1
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Correctly matched list is as follows :
+List-I List-II
+Ranthambore Hamirdeva
+Chittore Rana Ratan Singh
+Devagiri Raja Rai Ramchandra
+Gujarat Karnadeva
+
+</details>
+
+---
+
+**Q-GC11. U.P.P.C.S. (Pre) 2022, Q59**
+
+Arrange the following conquests of Alauddin Khilji
+
+in chronological order.
+
+1. Ranthambor 2. Gujarat
+
+3. Warangal 4. Chittor
+
+Select the correct answer from the code given below :
+
+Code:
+
+A. 3, 4, 1, 2
+
+B. 4, 2, 3, 1
+
+C. 1, 3, 2, 4
+
+D. 2, 1, 4, 3
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The sequence of Alauddin Khalji's Victory is as folllowsGujarat (1299 A.D.), Ranthambor (1301 A.D.), Chittor (1303
+A.D.) and Warangal (1310 A.D.) Hence Correct option is (d)
+
+</details>
+
+---
+
+**Q-GC12. I.A.S. (Pre) 1995**
+
+Consider the map given below :
+
+The route indicated on the map was followed during
+
+the course of his military exploits by :
+
+A. Chandragupta- II
+
+B. Harshavardhana
+
+C. Rajendra Chola
+
+D. Malik Kafur
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The route indicated on the map was followed by Commander
+Malik Kafur during his victory of South during Sultanate
+period. Alauddin Khalji found Malik Kafur during his victory
+in Gujarat. Kafur was also called "Hazar-Dinari".
+
+</details>
+
+---
+
+**Q-GC13. 39th B.P.S.C. (Pre) 1994**
+
+During the regime of which Sultan was the Khalisa
+
+land developed on a large scale?
 
 A. Ghiyasuddin Balban
 
@@ -3855,24 +3902,27 @@ C. Muhammad-Bin-Tughluq
 
 D. Firuz Shah Tughluq
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Alauddin Khalji)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** Seizure of **Milq** and **Waqf**.
-- **Key Fact:** The correct option is **B** (Alauddin Khalji).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
+The main purpose of Alauddin behind the system of revenue
+and taxes system was to establish a powerful and autocratic
+state. He snatched all the lands from all those people who
+got the land as ‘Milq’ (Property given by the state, as prizes,
+Indarat, pension) and Waqf (land received in charity).
+Therefore, Khalisa land developed on a large scale.
 
 </details>
 
-**Q-GC8. Jharkhand PCS 2013 / UKPCS 2016**
+---
 
-The Sultan who is said to have raised the land revenue to one-half of the produce was:
+**Q-GC14. Jharkhand P.C.S. (Pre) 2013**
+
+The Sultan who is said to have raised the land revenue
+
+to one-half of the produce was
 
 A. Balban
 
@@ -3882,144 +3932,30 @@ C. Muhammad-Bin-Tughluq
 
 D. Firuz Tughluq
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Alauddin Khalji)
-
-**Detailed Explanation:**
-- **Historical Context:** Measurement-based **50%** under Alauddin. Some papers also key MbT Doab demand — know both, prefer Alauddin for “measurement” stems.
-- **Key Fact:** The correct option is **B** (Alauddin Khalji).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
-
-</details>
-
-**Q-GC9. MPPCS 2014**
-
-Which of the following Sultans introduced “Market Reforms”?
-
-A. Jalaluddin Khalji
-
-B. Alauddin Khalji
-
-C. Muhammad Tughluq
-
-D. Balban
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Alauddin Khalji)
+**Correct Answer:** **B & C**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **B** (Alauddin Khalji).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
-
-</details>
-
-**Q-GC10. BPSC 2020 Re-Exam**
-
-Who started Public Distribution System in Sultanate period?
-
-A. Ala-ud-din Khalji
-
-B. Sikandar Lodhi
-
-C. Muhammad bin Tughlaq
-
-D. Firuz Shah Tughluq
-
-E. None / More than one
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Ala-ud-din Khalji)
-
-**Detailed Explanation:**
-- **Key Fact:** The correct option is **A** (Ala-ud-din Khalji).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Ala-ud-din Khalji** is standard UPPCS testing material.
-
-</details>
-
-**Q-GC11. IAS 2022**
-
-With reference to Indian history:
-
-1. First Mongol invasion of India happened during Jalal-ud-din Khalji.
-
-2. During Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city.
-
-3. Muhammad-bin-Tughlaq temporarily lost portions of north-west to Mongols.
-
-Which is/are correct?
-
-A. 1 and 2
-
-B. 2 only
-
-C. 1 and 3
-
-D. 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (2 only)
-
-**Detailed Explanation:**
-- **Historical Context:** First Mongol pressure is **Iltutmish/Genghis** era, not Jalaluddin. Statement **2** true (**Qutlugh Khwaja** etc.).
-- **Key Fact:** The correct option is **B** (2 only).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **2 only** is standard UPPCS testing material.
+Alauddin Khalji fixed the land revenue (Kharaj) to onehalf of the produce. He was the first Indian Muslim king to
+impose a tax on the actual income of the land. He was the
+first ruler who started charging taxes by measuring the land.
+He fixed the revenue by measuring the land. Alauddin also
+levied the house and grazing taxes. It is also described that
+Muhammad-Bin-Tughluq had also charged the 50% land
+revenue. In Doab, area Muhammad-Bin-Tughluq's revenue
+demand was based upon estimate, but Alauddin Khalji's
+demand was based upon the measurement of land.
 
 </details>
 
 ---
 
-## UKPCS — Khalji Dynasty stems
+**Q-GC15. Uttarakhand P.C.S. (Pre) 2016**
 
-**Q-UK1. UKPCS Prelims 2021**
+Sultan who raised the land revenue to fifty percent of
 
-Who was known as 'Hazar-Dinari'?
-
-A. Balban
-
-B. Malik Kafur
-
-C. Sikandar Lodi
-
-D. Qutbuddin Aybak
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Malik Kafur)
-
-**Detailed Explanation:**
-- **Historical Context:** Gujarat captive under Alauddin; Deccan commander.
-- **Key Fact:** The correct option is **B** (Malik Kafur).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Malik Kafur** is standard UPPCS testing material.
-
-</details>
-
-**Q-UK2. UKPCS Prelims 2016**
-
-Sultan who raised the land revenue to fifty percent of the produce was:
+the produce was
 
 A. Muhammad-bin-Tughluq
 
@@ -4029,30 +3965,625 @@ C. Firuz Shah Tughluq
 
 D. Balban
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Muhammad-bin-Tughluq)
+**Correct Answer:** **A & B**
 
 **Detailed Explanation:**
-- **Historical Context:** & B appear in keys across papers.** Prefer **Alauddin** when the stem stresses **measurement**; **MbT** when it stresses **Doab estimate hike**. Know both.
-- **Key Fact:** The correct option is **A** (Muhammad-bin-Tughluq).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Muhammad-bin-Tughluq** is standard UPPCS testing material.
+Alauddin Khalji fixed the land revenue (Kharaj) to onehalf of the produce. He was the first Indian Muslim king to
+impose a tax on the actual income of the land. He was the
+first ruler who started charging taxes by measuring the land.
+He fixed the revenue by measuring the land. Alauddin also
+levied the house and grazing taxes. It is also described that
+Muhammad-Bin-Tughluq had also charged the 50% land
+revenue. In Doab, area Muhammad-Bin-Tughluq's revenue
+demand was based upon estimate, but Alauddin Khalji's
+demand was based upon the measurement of land.
+*(Refer to Q-GC14 for primary reference context)*
 
 </details>
 
 ---
 
-## Complete PYQ Bank — Tughlaq Dynasty (UPPCS first)
+**Q-GC16. 64th B.P.S.C. (Pre) 2018**
 
-Teaching body: **2.6**.
+Which Sultan demanded half the crops on land after
 
-**Q1. UPPCS Prelims 1999**
+measurement as revenue?
 
-Who amongst the following Generals of Alauddin Khalji, ultimately became the first Sultan of Tughluq dynasty:
+A. Iltutmish
+
+B. Balban
+
+C. Ala-ud-din Khilji
+
+D. Muhammad Bin Tughluq
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughlaq (1325-51 C.E.) is considered an
+ill-fated idealist owing to his ambitious schemes and novel
+experiments, which ended in miserable failures because
+they were all far ahead of their time. In order to overcome
+financial difficulties, Muhammad-Bin Tughluq increased the
+land revenue to half the produce on the farmers of Doab (land
+between Ganges and Yamuna rivers) but Demand was based
+on expected production while Alauddin Khalji had fixed the
+land revenue at the half of the produce of the land-based on
+measurement.
+
+</details>
+
+---
+
+**Q-GC17. U.P.P.C.S. (Pre) 1994**
+
+Consider the following statement connected with
+
+Alauddin Khalji :
+
+I. He collected revenue by measuring the cultivated
+
+land.
+
+II. He enforced revenue measures in his entire empire.
+
+III. He abolished the powers of provincial Governors.
+
+Select the correct answer from the coding scheme given
+
+below :
+
+A. I and II
+
+B. II and III
+
+C. I and III
+
+D. I, II and III
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The Lagaan system of Alauddin Khalji was not applicable
+across the state. The system of measuring the lands of
+peasants and charging taxes (Lagan) on them by government
+employees was limited up to Delhi and the nearby parts. He was
+the first ruler who started charging taxes by measuring the land. He
+made a separate department “Diwan-i-Mustakhraj” to implement
+this system. Alauddin had taken away the right to charge taxes
+from traditional officers (Khut, Muqaddam and Chaudhary) and
+also abolished their privileges. He started charging tax on them
+also. As a result of which, there was no difference between Khut
+(Landlord) and Balahar (ordinary farmer).
+
+</details>
+
+---
+
+**Q-GC18. U.P.P.C.S. (Mains) 2005**
+
+Assertion (A):Alauddin Khalji introduced price
+
+control in Delhi.
+
+Reason (R) : He wanted to pay lower wages to the
+
+artisans building his palaces in Delhi.
+
+Select the correct answer from the code given below :
+
+Code :
+
+A. Both (A) and (R) are true, and (R) is the correct
+
+explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not a correct
+
+explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Alauddin Khalji introduced the price control policy. He had
+appointed efficient officials for the success of his policy.
+He appointed Malik Kabool as Shehena, or inspector of the
+market, and provided him with a large detachment of cavalry
+and infantry to help him in the work. He gave him extensive
+authority. He controlled all the merchants and informed the
+king about fluctuations in price and general situation of the
+market. Barani describes the purpose of market reform to
+support a vast army against Mongols attacks and to control
+the potential rebellion by Hindus. He had nothing to do with
+paying low wages to the artisans. Hence, Assertion (A) is
+true, while Reason (R) is false.
+
+</details>
+
+---
+
+**Q-GC19. M.P.P.C.S. (Pre) 2014**
+
+Which of the following Sultans introduced “Market
+
+Reforms”?
+
+A. Jalaluddin Khalji
+
+B. Alauddin Khalji
+
+C. Muhammad Tughluq
+
+D. Balban
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Alauddin Khalji introduced the price control policy. He had
+appointed efficient officials for the success of his policy.
+He appointed Malik Kabool as Shehena, or inspector of the
+market, and provided him with a large detachment of cavalry
+and infantry to help him in the work. He gave him extensive
+authority. He controlled all the merchants and informed the
+king about fluctuations in price and general situation of the
+market. Barani describes the purpose of market reform to
+support a vast army against Mongols attacks and to control
+the potential rebellion by Hindus. He had nothing to do with
+paying low wages to the artisans. Hence, Assertion (A) is
+true, while Reason (R) is false.
+*(Refer to Q-GC18 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC20. U.P. P.S.C. (GIC) 2010 · U.P. Lower Sub. (Pre) 2004 · U.P. Lower Sub. (Pre) 1998**
+
+Who of the following Muslim rulers enforced a strict
+
+price control system during his time?
+
+A. Alauddin Khalji
+
+B. Iltutmish
+
+C. Muhammad Tughluq
+
+D. Sher Shah Suri
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The system of market control or price control was introduced
+by Alauddin Khalji during the Sultanate period. Alauddin had
+a vast army in the centre and gave them wages in cash. He
+was the first Sultan of Delhi to do so. The expenditure of the
+army was very high. According to Barani, ‘If the army had
+given the normal wages, then the treasury of the state will
+finish within 5-6 years.’ Thus, to reduce the expenditure of
+the army, he reduced the wages of the soldiers. He had fixed
+the price of the commodities and reduced their rates so that
+his soldiers could live comfortably.
+
+</details>
+
+---
+
+**Q-GC21. U.P.P.C.S. (Pre) 1992**
+
+The market control system was introduced by-
+
+A. Ghiyasuddin Tughluq
+
+B. Jalaluddin Khalji
+
+C. Alauddin Khalji
+
+D. Balban
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The system of market control or price control was introduced
+by Alauddin Khalji during the Sultanate period. Alauddin had
+a vast army in the centre and gave them wages in cash. He
+was the first Sultan of Delhi to do so. The expenditure of the
+army was very high. According to Barani, ‘If the army had
+given the normal wages, then the treasury of the state will
+finish within 5-6 years.’ Thus, to reduce the expenditure of
+the army, he reduced the wages of the soldiers. He had fixed
+the price of the commodities and reduced their rates so that
+his soldiers could live comfortably.
+*(Refer to Q-GC20 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC22. U.P.P.C.S. (Mains) 2017**
+
+The attempt of Alauddin Khalji to control the market
+
+prices
+
+A. led to agricultural progress
+
+B. benefitted only Nobles/Courtiers
+
+C. was highly successful
+
+D. alienated ruler from masses
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The attempt by Alauddin Khalji to control the market prices
+was highly successful.
+Alauddin Khalji's measures to control the market prices were
+one of the most important policy initiatives of his reign.
+Since Alauddin wanted to maintain a vast standing army, he
+therefore, lowered the prices of the commodities of daily use.
+He established separate markets in Delhi,
+(a) Grain Market (Mandi) for grain
+(b) Clothes and Groceries market for clothes, sugar, dry
+fruits, butter and oil
+(c) Market for horses, slaves, cattle etc.
+(d) Market for miscellaneous commodities.
+To ensure implementation, each market was under the
+control of a superintendent called Shahna-i-Mandi who
+was assisted by an intelligence officer. Apart from Shahnai-Mandi Alauddin received daily reports of the market from
+two other independent sources, barids (intelligence officer)
+and munhiyans (Secret spies).
+
+</details>
+
+---
+
+**Q-GC23. U.P.P.C.S. (Mains) 2010**
+
+Which one of the following Kings of the medieval India
+
+began the ‘Public Distribution System’?
+
+A. Alauddin Khalji
+
+B. Balban
+
+C. Firuz Shah Tughluq
+
+D. Muhammad-Bin-Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The ‘Public Distribution System’ was introduced by Alauddin
+Khalji during Sultanate period.
+
+</details>
+
+---
+
+**Q-GC24. 66th B.P.S.C. Re-Exam (Pre) 2020**
+
+Who started Public Distribution System in Sultanate
+
+period?
+
+A. Ala-ud-din Khalji
+
+B. Sikandar Lodhi
+
+C. Muhammad bin Tughlaq
+
+D. Firuz Shah Tughluq
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The ‘Public Distribution System’ was introduced by Alauddin
+Khalji during Sultanate period.
+*(Refer to Q-GC23 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC25. U.P.P.C.S. (Mains) 2011**
+
+Which Sultan of Delhi was the first to charge ‘Ghari’
+
+or House-tax ?
+
+A. Balban
+
+B. Alauddin Khalji
+
+C. Muhammad-Bin-Tughluq
+
+D. Firuz Shah Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The two types of taxes implemented by Alauddin Khalji
+were- ‘Ghari Tax’ which was implemented on houses and
+huts and ‘Grazing Tax’ on milk-giving animals.
+
+</details>
+
+---
+
+**Q-GC26. U.P.P.C.S. (Pre) 2014**
+
+What was the boundary between the Delhi Sultan and
+
+Mongols during the period of Alauddin Khalji after
+
+1306 A.D.?
+
+A. Byas
+
+B. Ravi
+
+C. Indus
+
+D. Sutlej
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+After 1306 A.D., during the period of Alauddin Khalji, Ravi
+river was the border between Delhi Sultanate and Mangol. In
+1306 A.D., under Kabak Mongols attacked but on the bank
+of Ravi river, Malik Kafur and Ghazi Malik stopped them.
+Hence, Ravi became the boundary between them.
+
+</details>
+
+---
+
+**Q-GC27. I.A.S. (Pre) 2022**
+
+With reference to Indian history, consider the following
+
+statements :
+
+1. The first Mongol invasion of India happened
+
+during the reign of Jalal-ud-din Khalji.
+
+2. During the reign of Ala-ud-din Khalji, one Mongol
+
+assault marched up to Delhi and besieged the city.
+
+3. Muhammad-bin-Tughlaq temporarily lost portions
+
+of north-west of his kingdom to Mongols.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2
+
+B. 2 only
+
+C. 1 and 3
+
+D. 3 only
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+First Mongol attack on India happened during the reign of
+Iltutmish. During the reign of Ala-ud-din Khalji, Qutlugh
+Khwaja (Mongol) marched up to Delhi and besieged the city.
+During that time Ala-ud-din Khalji was at Chittor advance.
+During Muhammad-bin-Tughlaq reign, Tarmashirin led a
+Mongol attack on India but Muhammad-bin-Tughluq failed
+the Mongol attacks by occupying Kalanaur and Peshawar.
+
+</details>
+
+---
+
+**Q-GC28. U.P.R.O./A.R.O. (Pre.) 2021**
+
+Which of the following Sultan appointed a special army
+
+to protect the boundaries of the empire?
+
+A. Iltutmish
+
+B. Nasiruddin Mahmud
+
+C. Balban
+
+D. Alauddin Khalji
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Alauddin Khalji took various steps to consolidate his empire.
+He set up a strong central government and raised a powerful
+and enormous army to protect his empire. Hence correct
+option is (d).
+
+</details>
+
+---
+
+**Q-GC29. U.P. P.C.S. (Pre) 2018**
+
+Which of the following pairs is NOT correctly
+
+matched?
+
+State Ruler
+
+A. Devgiri Shankar Dev
+
+B. Warangal Ramchandra Dev
+
+C. Hoysal Veer Ballal
+
+D. Madura Veer Pandya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+During the attack of Alauddin Khalji on South India,
+Ramchandra Dev was ruler of Devgiri. After his death, his
+son Shankar Dev became ruler of Devgiri. Other options are
+correctly matched.
+
+</details>
+
+---
+
+**Q-GC30. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Who among the following opposed the power of the
+
+Khalifa?
+
+A. Iltutmish
+
+B. Alauddin Khalji
+
+C. Muhammad-bin-Tughluq
+
+D. Balban
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **E**
+
+**Detailed Explanation:**
+As per options none of the sultans opposed the power of the
+Caliph. Iltutmish had definitely obtained recognition from the
+Khalifa, but sultan Ghiyasuddin of Bengal had also obtained
+recognition from the Khalifa, by attacking him, Iltutmish
+had in a way opposed the power of the Khalifa. Alauddin
+Khalji, balban, Muhahmad Bin Tughluq were practically
+independent rulers but none opposed the power of authority of
+the caliph. There was only Mubarak Khalji who himself took
+the title of Caliph thus he opposed the authority of the Caliph.
+
+</details>
+
+---
+
+**Q-GC31. U.P.R.O./A.R.O (Re-Exam) (Pre) 2016**
+
+Which Ruler of Delhi Sultanate declared himself as
+
+"Khalifa"?
+
+A. Balban
+
+B. Alauddin Khilji
+
+C. Mubarak Khilji
+
+D. Muhammad bin Tuglaq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+After Alauddin Khalji's death, Qutb-ud-din Mubarak Shah
+or Mubarak khalji was imprisoned by Malik Kafur. Later, he
+ascended the throne after getting out of prison. He assumed
+the title of Al Imam, Ul Imam. Khilafatullah. He was the only
+ruler who assumed the title of the caliph himself.
+
+</details>
+
+---
+
+**Q-GC32. U.P.P.C.S. (Pre) 2017**
+
+Whose army was defeated by the army of Kakatiya
+
+rulers in 1303 at Warangal?
+
+A. of Iltutmish
+
+B. of Balban
+
+C. of Alauddin Khalji
+
+D. of Muhammad Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+In 1303 A.D., the first attempt by Alauddin to conquer
+Warangal ended in a disaster as the army of the Kakatiya
+dynasty defeated him. The Kakatiya king, Prataprudradev
+II, raised a well-equipped army and Alauddin's army which
+was led by Fakhruddin Juna and Malik Chhajju was defeated
+by the Kakatiya army.
+
+</details>
+
+---
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Tughlaq Dynasty
+
+Complete sequence of 44 questions from Ghatna Chakra Tughlaq Dynasty (B–220 to B–226). Covers Ghiyasuddin Tughlaq, Muhammad bin Tughlaq's experiments, Ibn Battuta, Firuz Shah Tughlaq's welfare public works and canals, and Timur's 1398 invasion.
+
+**Q-GC1. U.P.P.C.S. (Pre) 1999**
+
+Who amongst the following Generals of Alauddin
+
+Khalji, ultimately became the first Sultan of Tughluq
+
+dynasty:
 
 A. Ghazi Malik
 
@@ -4062,612 +4593,29 @@ C. Zafar Khan
 
 D. Ubigh Khan
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Ghazi Malik)
-
-**Detailed Explanation:**
-- **Historical Context:** **Ghazi Malik / Ghiyasuddin Tughlaq** defeated **Khusrau** (**1320**).
-- **Key Fact:** The correct option is **A** (Ghazi Malik).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Ghazi Malik** is standard UPPCS testing material.
-
-</details>
-
-**Q2. UPPCS Mains 2017**
-
-With reference to digging canals for enriching agriculture, who among the following is given the credit of being the first ruler of 14th century?
-
-A. Balban
-
-B. Iltutmish
-
-C. Ghiyasuddin Tughluq
-
-D. Raziyya Begum
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Ghiyasuddin Tughluq)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** Early canal/farmer relief under **Ghiyasuddin**; later Firoz built the biggest network.
-- **Key Fact:** The correct option is **C** (Ghiyasuddin Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Ghiyasuddin Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q3. UP Lower Sub. (Spl) (Pre) 2008**
-
-The Sultans of which dynasty ruled the country for the longest period?
-
-A. Khalji dynasty
-
-B. Lodi dynasty
-
-C. Slave dynasty
-
-D. Tughluq dynasty
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Tughluq dynasty)
-
-**Detailed Explanation:**
-- **Historical Context:** Tughlaq **1320–1412/14** outlasts Slave, Khalji, Lodi spans.
-- **Key Fact:** The correct option is **D** (Tughluq dynasty).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Tughluq dynasty** is standard UPPCS testing material.
-
-</details>
-
-**Q4. UPPCS Mains 2012**
-
-The most learned ruler of the Delhi sultanate who was well versed in various branches of learning including Astronomy, Mathematics and Medicine was:
-
-A. Iltutmish
-
-B. Alauddin Khalji
-
-C. Muhammad-Bin-Tughluq
-
-D. Sikandar Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Muhammad-Bin-Tughluq)
-
-**Detailed Explanation:**
-- **Key Fact:** The correct option is **C** (Muhammad-Bin-Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Muhammad-Bin-Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q5. UPPCS Spl Mains 2004**
-
-Which Sultan introduced new department “Aamir-e-Kohi”?
-
-A. Alauddin Khalji
-
-B. Firuz Shah Tughluq
-
-C. Muhammad-Bin-Tughluq
-
-D. Sikandar Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Muhammad-Bin-Tughluq)
-
-**Detailed Explanation:**
-- **Historical Context:** **Diwan-i-Amir-i-Kohi** for agriculture (~60 sq miles experiment).
-- **Key Fact:** The correct option is **C** (Muhammad-Bin-Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Muhammad-Bin-Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q6. UP Lower Sub. (Pre) 2008 / 2004**
-
-Which Sultan of Delhi had established a separate Agriculture Department and had planned the ‘rotation of crops’?
-
-A. Iltutmish
-
-B. Balban
-
-C. Alauddin Khalji
-
-D. Muhammad-Bin-Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Muhammad-Bin-Tughluq)
-
-**Detailed Explanation:**
-- **Key Fact:** The correct option is **D** (Muhammad-Bin-Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Muhammad-Bin-Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q7. UPPCS Prelims 2002 / 2004**
-
-Muhammad-Bin-Tughluq had transferred his capital from Delhi to:
-
-A. Daulatabad
-
-B. Kalinjar
-
-C. Kanauj
-
-D. Lahore
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Daulatabad)
-
-**Detailed Explanation:**
-- **Chronological sequence:** **Devgiri → Daulatabad**.
-- **Correct match code:** Option **A** (Daulatabad).
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Daulatabad** is standard UPPCS testing material.
-
-</details>
-
-**Q8. UPPCS Spl Mains 2004 / Lower 2004 / Mains 2017**
-
-For the first time the token currency was introduced in India by:
-
-A. Akbar / Iltutmish / Bahlul Lodi (variants)
-
-B. Alauddin Khalji / Balban
-
-C. — 
-
-D. Muhammad-Bin-Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Akbar / Iltutmish / Bahlul Lodi (variants))
-
-**Detailed Explanation:**
-- **Historical Context:** **Ans: Muhammad-Bin-Tughluq.** Copper/bronze tokens; failed for lack of mint control.
-- **Key Fact:** The correct option is **A** (Akbar / Iltutmish / Bahlul Lodi (variants)).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Akbar / Iltutmish / Bahlul Lodi (variants)** is standard UPPCS testing material.
-
-</details>
-
-**Q9. UPPCS Prelims 2006**
-
-Assertion (A): The scheme of the token currency of Muhammad Tughluq proved unsuccessful.
-
-Reason (R): Muhammad Tughluq did not have the proper control over currency issue.
-
-A. Both true, R explains A
-
-B. Both true, R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both true, R explains A)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** The scheme of the token currency of Muhammad Tughluq proved unsuccessful.
-- **Reason (R) is correct:** Muhammad Tughluq did not have the proper control over currency issue.
-- **Why (R) explains (A):** Forgery and weak mint control wrecked face-value tokens.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
-
-</details>
-
-**Q10. UPPCS Prelims 1991 / Mains 2011 / Prelims 2000**
-
-Ibn Battuta visited India during the reign of / detailed postal system:
-
-A. Bahlul Lodi / Amir Khusrau
-
-B. Firuz Tughluq / Firuz Shah
-
-C. Ghiyasuddin Tughluq / Sultan Firuz
-
-D. Muhammad-Bin-Tughluq / Ibn Battuta
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Bahlul Lodi / Amir Khusrau)
-
-**Detailed Explanation:**
-- **Historical Context:** **Ans: Muhammad-Bin-Tughluq; postal detail = Ibn Battuta (*Rihla*). Moroccan; Qazi of Delhi; envoy to China **1342**.
-- **Key Fact:** The correct option is **A** (Bahlul Lodi / Amir Khusrau).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Bahlul Lodi / Amir Khusrau** is standard UPPCS testing material.
-
-</details>
-
-**Q11. UPPCS Spl Mains 2004**
-
-Who was the first Sultan of Delhi to participate in the public celebration of Holi?
-
-A. Firuz Shah Tughluq
-
-B. Muhammad-Bin-Tughluq
-
-C. Sikandar Lodi
-
-D. Ibrahim Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Muhammad-Bin-Tughluq)
-
-**Detailed Explanation:**
-- **Key Fact:** The correct option is **B** (Muhammad-Bin-Tughluq).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Muhammad-Bin-Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q12. UPPCS Spl Mains 2008**
-
-‘The king was freed from his people and they from their king.’ On whose death did Badayuni comment this?
-
-A. Alauddin Khalji
-
-B. Balban
-
-C. Iltutmish
-
-D. Muhammad-Bin-Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Muhammad-Bin-Tughluq)
-
-**Detailed Explanation:**
-- **Historical Context:** Died **1351** near Thatta.
-- **Key Fact:** The correct option is **D** (Muhammad-Bin-Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Muhammad-Bin-Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q13. UP UDA/LDA 2010**
-
-Who among the following Sultans of Delhi established an ‘Employment Exchange’ to help the unemployed?
-
-A. Balban
-
-B. Alauddin Khalji
-
-C. Muhammad-Bin-Tughluq
-
-D. Firuz Shah Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Firuz Shah Tughluq)
-
-**Detailed Explanation:**
-- **Key Fact:** The correct option is **D** (Firuz Shah Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Shah Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q14. RAS/RTS 1999 / Ghatnachakra**
-
-The Sultan of Delhi who was very concerned about charity and alms and established a department called ‘Diwan-i-Khairat’ for it, was:
-
-A. Iltutmish
-
-B. Firuz Tughluq
-
-C. Ghiyasuddin Shah
-
-D. Bahlul Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Firuz Tughluq)
-
-**Detailed Explanation:**
-- **Historical Context:** Poor Muslims, orphans, widows; marriages of poor girls.
-- **Key Fact:** The correct option is **B** (Firuz Tughluq).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q15. UPPCS Prelims 2000 / UDA 2006**
-
-Public Works Department was primarily established by:
-
-A. Iltutmish
-
-B. Balban
-
-C. Alauddin Khalji
-
-D. Firuz Shah Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Firuz Shah Tughluq)
-
-**Detailed Explanation:**
-- **Historical Context:** Cities, canals, Malik Ghazi Shahana.
-- **Key Fact:** The correct option is **D** (Firuz Shah Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Shah Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q16. UPPCS Mains 2010 / Lower 2008**
-
-Who was the first Sultan of Delhi to have levied ‘Haqq-i-Sharb’ or irrigation tax?
-
-A. Alauddin Khalji
-
-B. Ghiyasuddin Tughluq
-
-C. Muhammad-Bin-Tughluq
-
-D. Firuz Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Firuz Tughluq)
-
-**Detailed Explanation:**
-- **Historical Context:** ~**1/10** produce from royal canals.
-- **Key Fact:** The correct option is **D** (Firuz Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q17. UPPCS Prelims 2011**
-
-Which Sultan of Delhi had levied ‘Jizya’ on Brahmins?
-
-A. Balban
-
-B. Firuz Tughluq
-
-C. Alauddin Khalji
-
-D. Muhammad-Bin-Tughluq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Firuz Tughluq)
-
-**Detailed Explanation:**
-- **Key Fact:** The correct option is **B** (Firuz Tughluq).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q18. UPPCS Prelims 1996 / Mains 2009**
-
-Who brought two Ashoka Pillars to Delhi from Topra and Meerut?
-
-A. Alauddin Khalji
-
-B. Firuz Shah Tughluq
-
-C. Muhammad Ghori
-
-D. Sikandar Lodhi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Firuz Shah Tughluq)
-
-**Detailed Explanation:**
-- **Chronological sequence:** Topra → Firozabad; Meerut → near Bada Hindu Rao.
-- **Correct match code:** Option **B** (Firuz Shah Tughluq).
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Shah Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q19. UPPCS Spl Mains 2004**
-
-Which Sultan of Delhi established a ‘Translation Department’ to help both communities to understand each others’ ideas better?
-
-A. Alauddin Khalji
-
-B. Firuz Tughluq
-
-C. Iltutmish
-
-D. Sikandar Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Firuz Tughluq)
-
-**Detailed Explanation:**
-- **Chronological sequence:** Sanskrit → Persian translations.
-- **Correct match code:** Option **B** (Firuz Tughluq).
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
-
-</details>
-
-**Q20. UPPCS Prelims 2023**
-
-Who among the following translated 300 volumes Sanskrit books collected by Firuz Tughluq during the campaign of Nagarkot?
-
-A. Talib Amuli
-
-B. Mulla Abdul Baqi
-
-C. Mirza Muhammad Ali
-
-D. Azizuddin Khan
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Azizuddin Khan)
-
-**Detailed Explanation:**
-- **Key Fact:** The correct option is **D** (Azizuddin Khan).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Azizuddin Khan** is standard UPPCS testing material.
-
-</details>
-
-**Q21. UPPCS Prelims 2013**
-
-What was ‘Dar-ul-Shafa’ established by Firuz Tughluq?
-
-A. An almshouse
-
-B. A free hospital
-
-C. A library
-
-D. A guest house for pilgrims
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (A free hospital)
-
-**Detailed Explanation:**
-- **Historical Context:** Charitable hospital with hakims.
-- **Key Fact:** The correct option is **B** (A free hospital).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **A free hospital** is standard UPPCS testing material.
-
-</details>
-
-**Q22. IAS 2004 / Ghatnachakra**
-
-Who was the last ruler of the Tughluq dynasty of the Delhi Sultanate?
-
-A. Firuz Shah Tughluq
-
-B. Ghiyasuddin Tughluq Shah- II
-
-C. Nasiruddin Mahmud Shah
-
-D. Nusrat Shah
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Nasiruddin Mahmud Shah)
-
-**Detailed Explanation:**
-- **Historical Context:** Timur **1398** in his reign; dynasty ends **1412**.
-- **Key Fact:** The correct option is **C** (Nasiruddin Mahmud Shah).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Nasiruddin Mahmud Shah** is standard UPPCS testing material.
-
-</details>
-
-**Q23. UPPCS Mains 2003**
-
-Arrange chronologically: 1. Rukn-ud-din 2. Mubarak Khan 3. Firuz Shah Tughluq 4. Alam Shah
-
-A. 2-1-4-3
-
-B. 1-2-4-3
-
-C. 1-2-3-4
-
-D. 2-1-3-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (1-2-3-4)
-
-**Detailed Explanation:**
-- **Chronological sequence:** **1236 → 1316–20 → 1351–88 → 1445–51**.
-- **Correct match code:** Option **C** (1-2-3-4).
-
-**Key Exam Takeaway / Trap:**
-- Pay close attention to relative dates and avoid swapping sequential rulers or campaigns.
+Ghazi Malik, a commander of Alauddin, was the founder and
+first ruler of Tughluq dynasty a commander of Alauddin. His
+mother was a Hindu Jat lady, and his father was a Qaraunah
+Turk, the slave of Balban. Ghiyasuddin Tughluq was the
+chief commander of many major campaigns during the reign
+of Alauddin. He was appointed the governor of Multan and
+Depalpur. He chased and defeated Mongols 29 times, so he
+was famous as ‘Ghazi Malik’ He ascended the throne of Delhi
+as the first Sultan of Tughluq dynasty, assassinating Khusrau
+Shah on September 8, 1320 A.D. He was also called Ghazi
+Beigh Tughluq or Ghazi Tughluq. That’s why his descendants
+were also called ‘Tughluq.’
 
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Tughlaq (other papers)
-
-**Q-GC1. MPPCS 2017**
+**Q-GC2. M.P.P.C.S. (Pre) 2017**
 
 Ghazi Malik was the founder of which dynasty?
 
@@ -4679,51 +4627,484 @@ C. Sayyid
 
 D. Lodi
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Tughluq)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **A** (Tughluq).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Tughluq** is standard UPPCS testing material.
+Ghazi Malik, a commander of Alauddin, was the founder and
+first ruler of Tughluq dynasty a commander of Alauddin. His
+mother was a Hindu Jat lady, and his father was a Qaraunah
+Turk, the slave of Balban. Ghiyasuddin Tughluq was the
+chief commander of many major campaigns during the reign
+of Alauddin. He was appointed the governor of Multan and
+Depalpur. He chased and defeated Mongols 29 times, so he
+was famous as ‘Ghazi Malik’ He ascended the throne of Delhi
+as the first Sultan of Tughluq dynasty, assassinating Khusrau
+Shah on September 8, 1320 A.D. He was also called Ghazi
+Beigh Tughluq or Ghazi Tughluq. That’s why his descendants
+were also called ‘Tughluq.’
+*(Refer to Q-GC1 for primary reference context)*
 
 </details>
 
-**Q-GC2. IAS 2006**
+---
 
-Assertion (A): Muhammad-Bin-Tughluq issued a new gold coin which was called Dinar by Ibn Battuta.
+**Q-GC3. U.P.P.C.S. (Mains) 2017**
 
-Reason (R): He wanted to issue token currency in gold coins to promote trade with West Asian and North African countries.
+With reference to digging canals for enriching
 
-A. Both true, R explains A
+agriculture, who among the following is given the credit
 
-B. Both true, R not explanation
+of being the first ruler of 14th century?
 
-C. A true, R false
+A. Balban
 
-D. A false, R true
+B. Iltutmish
 
-<details>
-<summary>Show answer</summary>
+C. Ghiyasuddin Tughluq
 
-**Correct Answer:** **C** (A true, R false)
+D. Raziyya Begum
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Assertion (A) is correct:** Muhammad-Bin-Tughluq issued a new gold coin which was called Dinar by Ibn Battuta.
-- **Reason (R) is incorrect:** He wanted to issue token currency in gold coins to promote trade with West Asian and North African countries.. Token experiment was copper/bronze, not gold trade tokens.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
+Ghiyasuddin Tughluq was the founder of Tughluq dynasty.
+He took a number of steps to improve the standard of farmers.
+He restored the old rights of Khuts and Muqaddams. The rate
+of land revenue was fixed at 1/3. He built canals for irrigation.
 
 </details>
 
-**Q-GC3. Chhattisgarh PCS 2019**
+---
 
-Medieval traveller and writer Ibn Batuta belonged to which country?
+**Q-GC4. U.P. Lower Sub. (Spl) (Pre) 2008**
+
+The Sultans of which dynasty ruled the country for
+
+the longest period?
+
+A. Khalji dynasty
+
+B. Lodi dynasty
+
+C. Slave dynasty
+
+D. Tughluq dynasty
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The Sultans of Slave dynasty ruled from 1206-1290 A.D.
+Khalji dynasty ruled from 1290 to 1320 A.D. The ruler of
+Lodi dynasty ruled from 1451 to 1526 A.D. The ruler of
+Tughluq dynasty ruled from 1320 to 1412 A.D. Thus, Tughluq
+dynasty ruled for the longest period.
+
+</details>
+
+---
+
+**Q-GC5. U.P.P.C.S. (Mains) 2012**
+
+The most learned ruler of the Delhi sultanate who was
+
+well versed in various branches of learning including
+
+Astronomy, Mathematics and Medicine was
+
+A. Iltutmish
+
+B. Alauddin Khalji
+
+C. Muhammad-Bin-Tughluq
+
+D. Sikandar Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughluq (1325-1351 AD) was the most
+learned ruler among all the Sultans of Delhi Sultanate. He
+was well versed in astronomy, mathematics and medical
+science and other genres.
+
+</details>
+
+---
+
+**Q-GC6. U.P.P.C.S. (Spl) (Mains) 2004 · Jharkhand P.C.S. (Pre) 2003**
+
+Which Sultan introduced new department “Aamir-eKohi”?
+
+A. Alauddin Khalji
+
+B. Firuz Shah Tughluq
+
+C. Muhammad-Bin-Tughluq
+
+D. Sikandar Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughluq had established a new department,
+‘Diwan-i-Amir-i-Kohi’, also called Diwan-i-Kohi, for the
+development of agriculture. A land of 60 square miles was
+selected for that purpose. The agrarian reforms had taken
+place on land, and various crops were cultivated with
+alteration according to crop rotation.
+
+</details>
+
+---
+
+**Q-GC7. U.P. Lower Sub. (Pre) 2008 · U.P. Lower Sub. (Pre) 2004**
+
+Which Sultan of Delhi had established a separate
+
+Agriculture Department and had planned the ‘rotation
+
+of crops’ ?
+
+A. Iltutmish
+
+B. Balban
+
+C. Alauddin Khalji
+
+D. Muhammad-Bin-Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughluq had established a new department,
+‘Diwan-i-Amir-i-Kohi’, also called Diwan-i-Kohi, for the
+development of agriculture. A land of 60 square miles was
+selected for that purpose. The agrarian reforms had taken
+place on land, and various crops were cultivated with
+alteration according to crop rotation.
+*(Refer to Q-GC6 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC8. M.P.P.C.S. (Pre) 1991**
+
+Diwan-E-Kohi is associated with–
+
+A. Muhammad-Bin-Tughluq
+
+B. Firuz Shah Tughluq
+
+C. Akbar
+
+D. Alauddin Khalji
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughluq had established a new department,
+‘Diwan-i-Amir-i-Kohi’, also called Diwan-i-Kohi, for the
+development of agriculture. A land of 60 square miles was
+selected for that purpose. The agrarian reforms had taken
+place on land, and various crops were cultivated with
+alteration according to crop rotation.
+*(Refer to Q-GC6 for primary reference context)*
+*(Refer to Q-GC7 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC9. U.P. P.C.S. (Pre) 2002**
+
+Muhammad-Bin-Tughluq had transferred his capital
+
+from Delhi to –
+
+A. Daulatabad
+
+B. Kalinjar
+
+C. Kanauj
+
+D. Lahore
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughluq had shifted his capital from Delhi
+to Daulatabad (Devgiri). It was one of the most significant
+experiments of Muhammad-Bin-Tughluq. Various factors
+have been identified for this experiment. According to Barani,
+Devgiri probably was at the center of his empire. According
+to Ibn Battuta, the people of Delhi used to write undeferential
+letters to Sultan. To punish them he decided to make Devgiri his
+capital. Muhammad Tughluq was also the first Sultan of Delhi
+who tried to establish the administrative and cultural unity of
+northern and southern India. Probably this was also the main
+reason behind making Devgiri his capital. According to Dr.
+K.A. Nizami, Sultan Qutbuddin Mubarak Khalji had changed
+the name of Devgiri to Qutbabad and Muhammad Tughluq
+to Daulatabad. Devgiri is also known as Quwwat-ul-Islam.
+
+</details>
+
+---
+
+**Q-GC10. U.P.P.C.S. (Pre) 2004**
+
+The transfer of capital from Delhi to Daulatabad was
+
+ordered by :
+
+A. Sultan Firuz Tughluq
+
+B. Sultan Ghiyasuddin Tuqhluq
+
+C. Sultan Mubarak
+
+D. Sultan Muhammad-Bin-Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughluq had shifted his capital from Delhi
+to Daulatabad (Devgiri). It was one of the most significant
+experiments of Muhammad-Bin-Tughluq. Various factors
+have been identified for this experiment. According to Barani,
+Devgiri probably was at the center of his empire. According
+to Ibn Battuta, the people of Delhi used to write undeferential
+letters to Sultan. To punish them he decided to make Devgiri his
+capital. Muhammad Tughluq was also the first Sultan of Delhi
+who tried to establish the administrative and cultural unity of
+northern and southern India. Probably this was also the main
+reason behind making Devgiri his capital. According to Dr.
+K.A. Nizami, Sultan Qutbuddin Mubarak Khalji had changed
+the name of Devgiri to Qutbabad and Muhammad Tughluq
+to Daulatabad. Devgiri is also known as Quwwat-ul-Islam.
+*(Refer to Q-GC9 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC11. U.P.P.C.S. (Spl) (Mains) 2004 · U.P. Lower Sub. (Pre) 2004**
+
+For the first time the token currency was introduced
+
+in India by :
+
+A. Akbar
+
+B. Alauddin Khalji
+
+C. Bahlul Lodi
+
+D. Muhammad-Bin-Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughluq launched different types of coins
+during his period and also decided on their reasonable prices.
+But the circulation of token currency was his specialty.
+According to Barani, due to lack of silver in treasury and policy
+of expanding the empire, Muhammad Tughluq had to launch
+the token currency. The token currency was launched in Iran
+during the regime of Gaykhatu, though, the experiment was
+unsuccessful. The token currency was successfully launched
+during the period of Kublai Khan. Innovative MuhammadBin- Tughluq was inspired by them. The modern historian
+also notes that there was a shortage of silver all over the
+world, and there was a severe shortage of silver in India too.
+Due to this reason, he launched token currency.
+
+</details>
+
+---
+
+**Q-GC12. U.P.P.C.S. (Mains) 2017**
+
+Who among the following was the first Sultan to
+
+introduce token currency in India?
+
+A. Iltutmish
+
+B. Balban
+
+C. Muhammad-Bin Tughluq
+
+D. Bahlul Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughluq launched different types of coins
+during his period and also decided on their reasonable prices.
+But the circulation of token currency was his specialty.
+According to Barani, due to lack of silver in treasury and policy
+of expanding the empire, Muhammad Tughluq had to launch
+the token currency. The token currency was launched in Iran
+during the regime of Gaykhatu, though, the experiment was
+unsuccessful. The token currency was successfully launched
+during the period of Kublai Khan. Innovative MuhammadBin- Tughluq was inspired by them. The modern historian
+also notes that there was a shortage of silver all over the
+world, and there was a severe shortage of silver in India too.
+Due to this reason, he launched token currency.
+*(Refer to Q-GC11 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC13. I.A.S. (Pre) 2006**
+
+Assertion (A): Muhammad-Bin-Tughluq issued a new
+
+gold coin which was called Dinar by Ibn
+
+Battuta.
+
+Reason (R) : Muhammad-Bin-Tughluq wanted to
+
+issue token currency in gold coins to
+
+promote trade with West Asian and
+
+North African countries.
+
+Code :
+
+A. Both ‘A’ and ‘R’ are individually true and ‘R’ is the
+
+correct explanation of ‘A’.
+
+B. Both ‘A’ and ‘R’ are individually true but ‘R’ is not
+
+the correct explanation of ‘A’.
+
+C. ‘A’ is true but ‘R’ is false.
+
+D. ‘A’ is false but ‘R’ is true.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughluq issued the new gold coins which
+were called ‘Dinar’ by Ibn Battuta. He issue the token
+currency in copper or Bronze coins to promote his military
+power not for trade with the West Asian and the North African
+countries in token currency of gold. Thus, Assertion (A) is
+true, but Reason (R) is false.
+
+</details>
+
+---
+
+**Q-GC14. U.P.P.C.S. (Pre) 2006**
+
+Consider the following statementsAssertion (A) : The scheme of the token currency
+
+of Muhammad Tughluq proved
+
+unsuccessful.
+
+Reason (R) : Muhammad Tughluq did not have the
+
+proper control over currency issue.
+
+Choose the correct answer from the codes given below:
+
+A. Both (A) and (R) are individually true, and (R) is the
+
+correct explanation of (A).
+
+B. Both (A) and (R) are individually true, but (R) is not
+
+the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Barani describes the five main schemes of Muhammad
+Tughluq:- (1) Tax increase in Doab, (2) Devgiri (Daultabad) as
+Capital, (3) Issuing token currency, (4) Attack on Khurasan and
+(5) Qarachil expedition. The main reason behind the failure of
+token currency was that the state had no control over the minting
+of coins. The value of the token currency was equivalent to the
+silver value currency. As a result, many fraud mints were formed.
+The Lagan began to be paid by forged coins.
+
+</details>
+
+---
+
+**Q-GC15. Chhattisgarh P.C.S. (Pre) 2013 · U.P.P.C.S. (Pre) 1994**
+
+Ibn Battuta, the Moorish traveller, visited India during
+
+the reign of :
+
+A. Muhammad-Bin-Tughluq
+
+B. Babar
+
+C. Akbar
+
+D. Mahmud Ghazni
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Ibn Battuta (1333-1342 A.D.) was an African traveller
+of Moroccon origin. He came to India in the period of
+Muhammad-Bin-Tughluq. Muhammad-Bin-Tughluq
+appointed him as Qazi of Delhi. Later in 1342 AD, he was
+sent to China as an ambassador of Sultan. Ibn Battuta had
+mentioned about his journey in his book Kitab-ul- Rihla.
+
+</details>
+
+---
+
+**Q-GC16. Chattisgarh P.C.S. (Pre) 2019**
+
+Medieval traveller and writer Ibn Batuta belonged to
+
+which country?
 
 A. Persia
 
@@ -4733,23 +5114,293 @@ C. Egypt
 
 D. Afghanistan
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Morocco)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **B** (Morocco).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Morocco** is standard UPPCS testing material.
+Ibn Battuta (1333-1342 A.D.) was an African traveller
+of Moroccon origin. He came to India in the period of
+Muhammad-Bin-Tughluq. Muhammad-Bin-Tughluq
+appointed him as Qazi of Delhi. Later in 1342 AD, he was
+sent to China as an ambassador of Sultan. Ibn Battuta had
+mentioned about his journey in his book Kitab-ul- Rihla.
+*(Refer to Q-GC15 for primary reference context)*
 
 </details>
 
-**Q-GC4. BPSC 2001 / IAS 2002**
+---
 
-Which of the following Sultans had most number of slaves / set up a separate department for slaves?
+**Q-GC17. U.P.P.C.S. (Mains) 2011 · U.P.P.C.S. (Pre) 1991**
+
+Ibn Battuta visited India during the reign of :
+
+A. Bahlul Lodi
+
+B. Firuz Tughluq
+
+C. Ghiyasuddin Tughluq
+
+D. Muhammad-Bin-Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Ibn Battuta (1333-1342 A.D.) was an African traveller
+of Moroccon origin. He came to India in the period of
+Muhammad-Bin-Tughluq. Muhammad-Bin-Tughluq
+appointed him as Qazi of Delhi. Later in 1342 AD, he was
+sent to China as an ambassador of Sultan. Ibn Battuta had
+mentioned about his journey in his book Kitab-ul- Rihla.
+*(Refer to Q-GC15 for primary reference context)*
+*(Refer to Q-GC16 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC18. Uttarakhand P.C.S. (Pre) 2002 · U.P.P.C.S. (Pre) 2000**
+
+Who of the following has given a detailed description of
+
+the postal system found during the Sultanate period?
+
+A. Amir Khusrau
+
+B. Ibn Battuta
+
+C. Sultan Firuz Shah
+
+D. Ziyauddin Barani
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The detailed description of the postal system is obtained from
+the chronicle journey of Ibn Battuta. He was the resident of
+Tanzir region of Morocco and came to India during the period
+of Muhammad Tughluq. ‘Kitab-ul-Rihla’ is his famous book.
+
+</details>
+
+---
+
+**Q-GC19. 65th B.P.S.C. (Pre) 2019**
+
+Yousuf Shah Chak, the last Muslim ruler of Kashmir
+
+valley, who was exiled to Bihar by the Mughal emperor
+
+Akbar, was buried in :
+
+A. Patliputra
+
+B. Rajgir
+
+C. Munger
+
+D. Nalanda
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Yousuf Shah Chak, the last Muslim ruler of Kashmir valley
+was exiled to Bihar by Mughal emperor Akbar. During his
+exile, he died in Puri in 1592 AD and was buried in Nalanda.
+
+</details>
+
+---
+
+**Q-GC20. U. P. P. C. S. (Spl) (Mains) 2004**
+
+Who was the first Sultan of Delhi to participate in the
+
+public celebration of Holi ?
+
+A. Firuz Shah Tughluq
+
+B. Muhammad-Bin-Tughluq
+
+C. Sikandar Lodi
+
+D. Ibrahim Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Muhammad-Bin-Tughluq was the first among all Sultans
+of Delhi who participated in public celebrations of Hindus,
+especially Holi.
+
+</details>
+
+---
+
+**Q-GC21. M.P. P.C.S. (Pre) 1997**
+
+On the death of which Muslim ruler, a historian said
+
+‘the king was freed from his people and they from their
+
+king’?
+
+A. Balban
+
+B. Muhammad-Bin-Tughluq
+
+C. Alauddin Khalji
+
+D. Sher Shah
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+When Muhammad-Bin-Tughluq was in Daulatabad, a revolt
+took place in Gujarat led by Taghi. Sultan dashed to Gujarat
+to quell the revolt. Taghi was defeated and fled to Sindh.
+After restoring peace in Gujarat, Sultan moved to Sindh to
+kill Taghi. Sultan fell sick on the way and died on March 20,
+1351 A.D., near Thatta. On his death, Badayuni wrote, 'the
+king was freed from his people and they from their king'.
+
+</details>
+
+---
+
+**Q-GC22. U.P.P.C.S. (Spl) (Mains) 2008 · I.A.S. (Pre) 1999**
+
+‘The king was freed from his people and they from
+
+their king.’ On whose death did Badayuni comment
+
+this ?
+
+A. Alauddin Khalji
+
+B. Balban
+
+C. Iltutmish
+
+D. Muhammad-Bin-Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Badayuni made this statement about Muhammad-BinTughluq in his work “Muntakhab-ut-Tawarikh.”
+
+</details>
+
+---
+
+**Q-GC23. 45th B.P.S.C. (Pre) 2001**
+
+Which one of the following sultans provided
+
+employment to the unemployed?
+
+A. Alauddin Khalji
+
+B. Muhammad-Bin-Tughluq
+
+C. Firuz Tughluq
+
+D. Sher Shah Suri
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Firuz Shah Tughluq started some welfare programmes
+for common people. He tried to solve the problem of
+unemployment by opening an office for the appointment
+(employment office) and also appointed many qualified
+people by their qualification and merits.
+
+</details>
+
+---
+
+**Q-GC24. U.P.U.D.A./L.D.A. (Pre) 2010 · U.P.U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+Who among the following Sultans of Delhi established
+
+an ‘Employment Exchange’ to help the unemployed?
+
+A. Balban
+
+B. Alauddin Khalji
+
+C. Muhammad-Bin-Tughluq
+
+D. Firuz Shah Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Firuz Shah Tughluq started some welfare programmes
+for common people. He tried to solve the problem of
+unemployment by opening an office for the appointment
+(employment office) and also appointed many qualified
+people by their qualification and merits.
+*(Refer to Q-GC23 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC25. R.A.S./R.T.S.(Pre) 1999**
+
+The Sultan of Delhi who was very concerned about
+
+charity and alms and established a department called
+
+‘Diwan-i-Khairat’ for it, was:
+
+A. Iltutmish
+
+B. Firuz Tughluq
+
+C. Ghiyasuddin Shah
+
+D. Bahlul Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Firuz Shah Tughluq used to donate state and property to
+saints and religious people. He had established ‘Diwan-iKhairat’ to provide financial help to poor Muslims, orphans,
+women, and widows and also arranged marriages of poor
+Muslim girls.
+
+</details>
+
+---
+
+**Q-GC26. 45th B.P.S.C. (Pre) 2001**
+
+Which of the following Sultans had most number of
+
+slaves in his court?
 
 A. Balban
 
@@ -4759,24 +5410,106 @@ C. Muhammad-Bin-Tughluq
 
 D. Firuz Tughluq
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Firuz Tughluq)
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Historical Context:** ~**1.8 lakh**; **Diwan-i-Bandagan**.
-- **Key Fact:** The correct option is **D** (Firuz Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
+Firuz Shah Tughluq was fond of slaves. The number of his
+slaves reached up to one lakh eighty thousand. He established
+a separate department (Diwan-i-Bandgan) to take care of
+them. He kept his full attention on their education. Each
+slave was paid 10 to 100 Tankas and sometimes, they also got
+estates. This hobby of Firuz proved detrimental to the state.
 
 </details>
 
-**Q-GC5. IAS 1998 / BPSC 2019**
+---
 
-The Sultan of Delhi who is reputed to have built the biggest network of canals in India was:
+**Q-GC27. I.A.S. (Pre) 2002**
+
+With reference to medieval Indian rulers, which one
+
+of the following statements is correct?
+
+A. Alauddin Khalji first set up a separate Ariz’s
+
+department
+
+B. Balban introduced the branding system of horses in
+
+his military
+
+C. Muhammad-Bin-Tughluq was succeeded by his uncle
+
+in the military
+
+D. Firuz Tughluq set up a separate department for slaves
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+(i) Balban established an army department ‘Diwan-i-Arz’
+to look after a large standing army with a view to potential
+Mongol threats. He made Imad-ul-Mulk his commander who
+was very honest and hardworking. Balban freed him from
+financial control of Wazir to ensure his financial autonomy.
+The credit of good arrangement of Balban's army goes
+to Imad-ul-Mulk. (ii) The branding system of horses was
+introduced by Alauddin, not by Balban. (iii) Firuz Tughluq,
+the cousin of Muhammad-Bin-Tughluq, sat on the throne
+after him (1351-1388 A.D.). (iv) Firuz Shah Tughluq had
+established a separate department ‘Diwan-i-Bandgan’ of
+slaves. Firuz Shah Tughluq was fond of slaves. Thus, option
+(d) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC28. U.P. U.D.A./L.D.A. (Pre) 2006 · U.P. P.C.S. (Pre) 2000**
+
+Public Works Department was primarily established
+
+by-
+
+A. Iltutmish
+
+B. Balban
+
+C. Alauddin Khalji
+
+D. Firuz Shah Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The Public Works Department was primarily established by
+Firuz Shah Tughluq during the Sultanate period. It is said that
+he established 300 new cities. Fatehabad, Hisar, Firozpur,
+Jaunpur, Firozabad etc. are some of the main cities established
+by him. According to Firishta, Firuz had also constructed 40
+Mosques, 30 schools, 20 palaces, 100 Inns, 100 hospitals,
+five tombs, 100 public bathrooms, ten pillars and 150 bridges.
+He had converted the name Ikdala to Azadpur and Pandua to
+Firuzabad during his Bengal campaign. Malik Ghazi Shehana
+was the main architect in his empire. The policy of each
+building as per its expected expenditure was put in front of
+‘Diwan-i-Wazarat,’ only then could the fund be allowed on it.
+
+</details>
+
+---
+
+**Q-GC29. I.A.S. (Pre) 1998**
+
+The Sultan of Delhi who is reputed to have built the
+
+biggest network of canals in India was :
 
 A. Iltutmish
 
@@ -4786,23 +5519,131 @@ C. Firuz Shah Tughluq
 
 D. Sikandar Lodi
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Firuz Shah Tughluq)
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **C** (Firuz Shah Tughluq).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Shah Tughluq** is standard UPPCS testing material.
+The reign of Firuz Tughluq is famous for building the biggest
+network of canals for irrigation purpose. They were:- (1)
+Sutlej river to Ghaggar (96 miles) (2) Yamuna river to Hisar
+(150 miles), (3) Hill of Sirmor to Hansi, (4) Ghaggar river
+to Firozabad and (5) Yamuna river to Firozabad. He also
+engraved 150 wells for irrigation and betterment of passengers.
+According to Firista, Firuz built 50 dams and 30 lakes at
+different places. Firuz Shah was the first Sultan of Delhi who
+imposed ‘Haqq-i-Sharb’ tax on irrigation. Those farmers who
+used to irrigate their fields from the water of the royal canal had
+to give 1/10th part of the produce to the government.
 
 </details>
 
-**Q-GC6. BPSC 2000**
+---
 
-Which one of the following Sultans of Delhi introduced measures for improving the quality of fruits?
+**Q-GC30. 65th B.P.S.C. (Pre) 2019**
+
+Which Delhi Sultan built the maximum number of
+
+canals?
+
+A. Firuz Shah Tughluq
+
+B. Iltutmish
+
+C. Balban
+
+D. Sikandar Lodi
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The reign of Firuz Tughluq is famous for building the biggest
+network of canals for irrigation purpose. They were:- (1)
+Sutlej river to Ghaggar (96 miles) (2) Yamuna river to Hisar
+(150 miles), (3) Hill of Sirmor to Hansi, (4) Ghaggar river
+to Firozabad and (5) Yamuna river to Firozabad. He also
+engraved 150 wells for irrigation and betterment of passengers.
+According to Firista, Firuz built 50 dams and 30 lakes at
+different places. Firuz Shah was the first Sultan of Delhi who
+imposed ‘Haqq-i-Sharb’ tax on irrigation. Those farmers who
+used to irrigate their fields from the water of the royal canal had
+to give 1/10th part of the produce to the government.
+*(Refer to Q-GC29 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC31. U.P.P.C.S. (Mains) 2010 · U. P. Lower Sub. (Pre) 2008**
+
+Who was the first Sultan of Delhi to have levied
+
+‘Haqq-i-Sharb’ or irrigation tax ?
+
+A. Alauddin Khalji
+
+B. Ghiyasuddin Tughluq
+
+C. Muhammad-Bin-Tughluq
+
+D. Firuz Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The reign of Firuz Tughluq is famous for building the biggest
+network of canals for irrigation purpose. They were:- (1)
+Sutlej river to Ghaggar (96 miles) (2) Yamuna river to Hisar
+(150 miles), (3) Hill of Sirmor to Hansi, (4) Ghaggar river
+to Firozabad and (5) Yamuna river to Firozabad. He also
+engraved 150 wells for irrigation and betterment of passengers.
+According to Firista, Firuz built 50 dams and 30 lakes at
+different places. Firuz Shah was the first Sultan of Delhi who
+imposed ‘Haqq-i-Sharb’ tax on irrigation. Those farmers who
+used to irrigate their fields from the water of the royal canal had
+to give 1/10th part of the produce to the government.
+*(Refer to Q-GC29 for primary reference context)*
+*(Refer to Q-GC30 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC32. U.P.P.C.S. (Pre) 2011**
+
+Which Sultan of Delhi had levied ‘Jizya’ on Brahmins?
+
+A. Balban
+
+B. Firuz Tughluq
+
+C. Alauddin Khalji
+
+D. Muhammad-Bin-Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Sultan of Delhi Firuz Tughlaq levied 'Jizya' on Brahmins,
+which was a religious tax imposed on non-muslims.
+
+</details>
+
+---
+
+**Q-GC33. 44th B.P.S.C. (Pre) 2000**
+
+Which one of the following Sultans of Delhi introduced
+
+measures for improving the quality of fruits?
 
 A. Muhammad-Bin-Tughluq
 
@@ -4812,24 +5653,151 @@ C. Sikandar Lodi
 
 D. Sher Shah Suri
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Firuz Tughluq)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** ~1200 new orchards; restored Alauddin gardens.
-- **Key Fact:** The correct option is **B** (Firuz Tughluq).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
+Due to his interest in horticulture, Firuz planted 1200 new
+orchards near Delhi and also restored 30 old gardens of
+Alauddin. He also took measures to improve the quality of
+fruits in his orchards.
 
 </details>
 
-**Q-GC7. IAS 1994 / UPPCS 1998**
+---
 
-The first Indian ruler to organize Haj pilgrimage from the State Exchequer was:
+**Q-GC34. U.P.P.C.S. (Pre) 1996**
+
+Who brought two Ashoka Pillars to Delhi from Topra
+
+and Meerut?
+
+A. Alauddin Khalji
+
+B. Firuz Shah Tughluq
+
+C. Muhammad Ghori
+
+D. Sikandar Lodhi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The speciality of Firuz Shah Tughluq was that he focused
+on maintaining and reconstructing the buildings of his
+predecessors. He paid more attention to reconstructing those
+buildings. He brought two pillars of Ashoka from Meerut and
+Topra (now in Yamunanagar district of Haryana) to Delhi and
+reestablished the pillar of Topra in a palace, near the mosque
+of Firuzabad. The pillar of Meerut was reestablished at Bada
+Hindu Rao hospital in Delhi, near a mound ‘Kashke-Shikar’.
+
+</details>
+
+---
+
+**Q-GC35. U.P.P.C.S. (Mains) 2009**
+
+Which Sultan of Delhi brought Ashoka’s Pillar to
+
+Delhi?
+
+A. Firuz Shah Tughluq
+
+B. Jalaluddin Khalji
+
+C. Muhammad-Bin-Tughluq
+
+D. Qutbuddin Aybak
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The speciality of Firuz Shah Tughluq was that he focused
+on maintaining and reconstructing the buildings of his
+predecessors. He paid more attention to reconstructing those
+buildings. He brought two pillars of Ashoka from Meerut and
+Topra (now in Yamunanagar district of Haryana) to Delhi and
+reestablished the pillar of Topra in a palace, near the mosque
+of Firuzabad. The pillar of Meerut was reestablished at Bada
+Hindu Rao hospital in Delhi, near a mound ‘Kashke-Shikar’.
+*(Refer to Q-GC34 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC36. U.P.P.C.S. (Spl) (Mains) 2004**
+
+Which Sultan of Delhi established a ‘Translation
+
+Department’ to help both communities to understand
+
+each others’ ideas better ?
+
+A. Alauddin Khalji
+
+B. Firuz Tughluq
+
+C. Iltutmish
+
+D. Sikandar Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The Sultan of Delhi Firuz Tughluq established a ‘Translation
+Department’ for the purpose of enabling the people of both
+communities (Hindus and Muslims) could better exchange
+ideas. He translated some Sanskrit texts into the Persian
+language.
+
+</details>
+
+---
+
+**Q-GC37. U.P.P.C.S. (Pre) 2023**
+
+Who among the following translated 300 volumes
+
+Sanskrit books collected by Firuz Tughluq during the
+
+campaign of Nagarkot?
+
+A. Talib Amuli
+
+B. Mulla Abdul Baqi
+
+C. Mirza Muhammad Ali
+
+D. Azizuddin Khan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+During the Nagarkot expedition of Firuz Shah Tughlaq, he
+collected around 1300 Sanskrit manuscript from Jawalamukhi
+temple library along with other loots. Later on, he got them
+translated into Persian by Azizuddin Khan.
+
+</details>
+
+---
+
+**Q-GC38. U.P.P.C.S. (Pre) 1998 · I.A.S. (Pre) 1994**
+
+The first Indian ruler to organize Haj pilgrimage from
+
+the State Exchequer was:
 
 A. Alauddin Khalji
 
@@ -4839,48 +5807,118 @@ C. Akbar
 
 D. Aurangzeb
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Firuz Tughluq)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **B** (Firuz Tughluq).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
+Firuz Tughluq was the first Indian ruler to organize Haj
+pilgrimage from the state exchequer. He completed many
+welfare works, such as he opened an employment office and
+an orphanage, which was known as ‘Diwan-i-Khairat.’ He
+also opened a charitable hospital known as ‘Dar-ul-Shafa’
+and also placed qualified Hakeems in it.
 
 </details>
 
-**Q-GC8. BPSC 2001**
+---
 
-Which one of the following dynasties ruled over India after the invasion of Timur?
+**Q-GC39. U.P. P.C.S. (Pre) 2013 · 53rd to 55th B.P.S.C. (Pre) 2011**
 
-A. Lodi Dynasty
+What was ‘Dar-ul-Shafa’ established by Firuz
 
-B. Sayyid dynasty
+Tughluq?
 
-C. Tughluq dynasty
+A. An almshouse
 
-D. Khalji dynasty
+B. A free hospital
 
-<details>
-<summary>Show answer</summary>
+C. A library
 
-**Correct Answer:** **B** (Sayyid dynasty)
+D. A guest house for pilgrims
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** **Khizr Khan 1414**.
-- **Key Fact:** The correct option is **B** (Sayyid dynasty).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Sayyid dynasty** is standard UPPCS testing material.
+Firuz Tughluq was the first Indian ruler to organize Haj
+pilgrimage from the state exchequer. He completed many
+welfare works, such as he opened an employment office and
+an orphanage, which was known as ‘Diwan-i-Khairat.’ He
+also opened a charitable hospital known as ‘Dar-ul-Shafa’
+and also placed qualified Hakeems in it.
+*(Refer to Q-GC38 for primary reference context)*
 
 </details>
 
-**Q-GC9. MPPCS 2005**
+---
+
+**Q-GC40. I.A.S. (Pre) 2004**
+
+Who was the last ruler of the Tughluq dynasty of the
+
+Delhi Sultanate?
+
+A. Firuz Shah Tughluq
+
+B. Ghiyasuddin Tughluq Shah- II
+
+C. Nasiruddin Mahmud Shah
+
+D. Nusrat Shah
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Nasiruddin Mahmud Shah (1394-1412 A.D.) was the last
+ruler of Tughluq dynasty. During his reign, Khwaja Jahan
+founded the independent state of Jaunpur. Nusrat Shah,
+another son of Firuz Shah, had challenged Nasiruddin. As
+a result, Tughluq dynasty was divided into two parts. Both
+rulers ruled over Delhi at the same time. Nasiruddin was
+in Delhi and Nusrat Shah in Firozabad. The great Mongol
+commander Timur attacked (1398 A.D.) on India in the reign
+of Nasiruddin Mahmud. The statement “The dominion of
+the Shanshah Lord of the Universe extended from Delhi to
+Palam “ was famous saying for this ruler.
+
+</details>
+
+---
+
+**Q-GC41. U.P. P.C.S. (Pre) 2002**
+
+In whose reign did Timur invade India?
+
+A. Alauddin Khalji
+
+B. Bahlul Lodi
+
+C. Firuz Tughluq
+
+D. Muhammad-Bin-Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** *****
+
+**Detailed Explanation:**
+The invasion of Timur on India took place in the year 1398
+A.D. during the reign of Nasiruddin Mahmud Shah (1394-
+1412 A.D.). Timur himself mentioned the purposes of
+invasion of India. Timur’s objective of attacking India was
+to fight and destroy the Kafirs and plunder wealth.Before
+leaving India, he appointed Khizr Khan as subedar of Multan,
+Depalpur and Lahore. Thus, all the given options are incorrect.
+
+</details>
+
+---
+
+**Q-GC42. M.P.P.C.S. (Pre) 2005**
 
 In which year did Timur Lung attack India?
 
@@ -4892,61 +5930,104 @@ C. 1492 A.D.
 
 D. 1526 A.D.
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (1398 A.D.)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** Under **Nasiruddin Mahmud**.
-- **Key Fact:** The correct option is **B** (1398 A.D.).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **1398 A.D.** is standard UPPCS testing material.
+The invasion of Timur on India took place in the year 1398
+A.D. during the reign of Nasiruddin Mahmud Shah (1394-
+1412 A.D.). Timur himself mentioned the purposes of
+invasion of India. Timur’s objective of attacking India was
+to fight and destroy the Kafirs and plunder wealth.Before
+leaving India, he appointed Khizr Khan as subedar of Multan,
+Depalpur and Lahore. Thus, all the given options are incorrect.
+*(Refer to Q-GC41 for primary reference context)*
 
 </details>
 
 ---
 
-## UKPCS — Tughlaq stems
+**Q-GC43. 45th B.P.S.C. (Pre) 2001**
 
-**Q-UK1. UKPCS Prelims 2002**
+Which one of the following dynasties ruled over India
 
-Who of the following has given a detailed description of the postal system found during the Sultanate period?
+after the invasion of Timur?
 
-A. Amir Khusrau
+A. Lodi Dynasty
 
-B. Ibn Battuta
+B. Sayyid dynasty
 
-C. Sultan Firuz Shah
+C. Tughluq dynasty
 
-D. Ziyauddin Barani
+D. Khalji dynasty
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Ibn Battuta)
+**Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Historical Context:** From *Rihla* under **Muhammad bin Tughlaq**.
-- **Key Fact:** The correct option is **B** (Ibn Battuta).
-- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Ibn Battuta** is standard UPPCS testing material.
+The invasion of Timur (1398 A.D.) destroyed both Delhi
+Sultanate as well as the Tughluq dynasty. Tughluq dynasty
+came to an end with the death of Nasiruddin Mahmud Shah
+in 1412 AD; after that, Daulat Khan became the new Sultan
+of Delhi in 1413 AD. However, Khizr Khan defeated him,
+who was the Subedar of Lahore, appointed by Timur. He
+founded Sayyid dynasty in 1414 AD.
 
 </details>
 
 ---
 
-## Complete PYQ Bank — Lodi Dynasty (UPPCS first)
+**Q-GC44. U.P.P.C.S. (Mains) 2003**
 
-Teaching body: **2.7**.
+Arrange the following in their chronological order :
 
-**Q1. UPPCS Mains 2016**
+1. Rukn-ud-din 2. Mubarak Khan
 
-Who among the following Sultanate rulers was of Afghan origin?
+3. Firuz Shah Tughluq 4. Alam Shah
+
+Select the correct answer from the codes given below :
+
+A. 2, 1, 4, 3
+
+B. 1, 2, 4, 3
+
+C. 1, 2, 3, 4
+
+D. 2, 1, 3, 4
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Rukn-ud-din - 1236 A.D.
+Mubarak Khan - 1316-1320 A.D.
+Firuz Shah Tughluq - 1351-1388 A.D.
+Alam Shah - 1445-1451 A.D.
+After the death of Iltutmish, Rukn-ud-din became the ruler
+in 1236 AD while Iltutmish had appointed Raziyya as his
+successor. Mubarak Khan became the Sultan of Delhi by the
+name of Mubarak Khalji in 1316. Firuz Shah Tughluq ruled
+over Delhi from 1351 to 1388, and Alam Shah of Sayyid
+dynasty ruled from 1445 to 1451 AD.
+
+</details>
+
+---
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Lodi Dynasty
+
+Complete sequence of 12 questions from Ghatna Chakra Lodi Dynasty (B–226 to B–228). Covers Bahlul Lodi, Sikandar Lodi's founding of Agra and Gaj-i-Sikandari, and Ibrahim Lodi's battles at Khatoli and Panipat.
+
+**Q-GC1. U.P.P.C.S. (Mains) 2016**
+
+Who among the following Sultanate rulers was of
+
+Afghan origin?
 
 A. Khalji
 
@@ -4956,160 +6037,60 @@ C. Sayyid
 
 D. Lodi
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Lodi)
-
-**Detailed Explanation:**
-- **Historical Context:** Last Delhi Sultanate house (**1451–1526**).
-- **Key Fact:** The correct option is **D** (Lodi).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Lodi** is standard UPPCS testing material.
-
-</details>
-
-**Q2. UPPCS Prelims 1993 / Mains 2005 / 2008 / 2011 / UDA 2010**
-
-Which of the following Sultans founded a town where now stands Agra? / Who founded Agra?
-
-A. Muhammad-Bin-Tughluq / Balban / Firuz
-
-B. Firuz Tughluq / Bahlul
-
-C. Bahlul Lodi / Akbar
-
-D. Sikandar Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Muhammad-Bin-Tughluq / Balban / Firuz)
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Historical Context:** **Ans: Sikandar Lodi (1504)** — capital on the Yamuna.
-- **Key Fact:** The correct option is **A** (Muhammad-Bin-Tughluq / Balban / Firuz).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Muhammad-Bin-Tughluq / Balban / Firuz** is standard UPPCS testing material.
-
-</details>
-
-**Q3. UPPCS Mains 2015**
-
-Who among the following composed poems with the pen name ‘Gulrukhi’?
-
-A. Firuz Shah Tughluq
-
-B. Bahlul Lodi
-
-C. Sikandar Lodi
-
-D. Ibrahim Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Sikandar Lodi)
-
-**Detailed Explanation:**
-- **Key Fact:** The correct option is **C** (Sikandar Lodi).
-- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Sikandar Lodi** is standard UPPCS testing material.
-
-</details>
-
-**Q4. UP UDA/LDA Spl Pre 2010**
-
-Which one of the following Sultans is known for having abolished the tax on grains?
-
-A. Alauddin Khalji
-
-B. Ghiyasuddin Tughluq
-
-C. Firuz Tughluq
-
-D. Sikandar Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Sikandar Lodi)
-
-**Detailed Explanation:**
-- **Historical Context:** Also **Gaj-i-Sikandari** measure.
-- **Key Fact:** The correct option is **D** (Sikandar Lodi).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Sikandar Lodi** is standard UPPCS testing material.
-
-</details>
-
-**Q5. UPPCS Mains 2012**
-
-In which order did the following dynasties rule Delhi? 1 Khalji 2 Lodi 3 Sayyid 4 Slave
-
-A. 1-2-4-3
-
-B. 1-2-3-4
-
-C. 2-3-4-1
-
-D. 4-1-3-2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (4-1-3-2)
-
-**Detailed Explanation:**
-- **Chronological sequence:** Slave → Khalji → Sayyid → Lodi (Tughlaq omitted from list).
-- **Correct match code:** Option **D** (4-1-3-2).
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **4-1-3-2** is standard UPPCS testing material.
+Lodi Dynasty (1451-1526 A.D.) was the last ruling family
+of the Delhi Sultanate of India. The dynasty was of Afghan
+Origin. Babur defeated Ibrahim Lodi in the First Battle of
+Panipat (1526 A.D.), which ended the Lodi dynasty.
 
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Lodi (other papers)
+**Q-GC2. I.A.S. (Pre) 2006**
 
-**Q-GC1. IAS 2006**
+Which one of the following is the correct chronological
 
-Correct chronological order of Afghan rulers to the throne of Delhi:
+order of the Afghan rulers to the throne of Delhi?
 
-A. Sikandar–Ibrahim–Bahlul
+A. Sikandar Shah-Ibrahim Lodi-Bahlul Khan Lodi
 
-B. Sikandar–Bahlul–Ibrahim
+B. Sikandar Shah-Bahlul Khan Lodi or Lodi Ibrahim.
 
-C. Bahlul–Sikandar–Ibrahim
+C. Bahlul Khan Lodi or Lodi Sikandar Shah-Ibrahim
 
-D. Bahlul–Ibrahim–Sikandar
+Lodi.
 
-<details>
-<summary>Show answer</summary>
+D. Bahlul Khan Lodi or Ibrahim Lodi or Lodi Sikandar
 
-**Correct Answer:** **C** (Bahlul–Sikandar–Ibrahim)
+Shah.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Chronological sequence:** The events follow the historical sequence identified in the options.
-- **Correct match code:** Option **C** (Bahlul–Sikandar–Ibrahim).
-
-**Key Exam Takeaway / Trap:**
-- Pay close attention to relative dates and avoid swapping sequential rulers or campaigns.
+Bahlul Lodi was the founder of Lodi dynasty. The correct
+chronological order of the Afghan rulers to the throne of
+Delhi is Bahlul Khan Lodi (1451-1489 A.D.), Sikandar Shah
+(1489-1517 A.D.), Ibrahim Lodi (1517-1526 A.D.). Hence,
+option (c) is the correct answer.
 
 </details>
 
-**Q-GC2. IAS 1999**
+---
 
-To which Lodi Sultan does the given map relate and what town does side A represent?
+**Q-GC3. I.A.S. (Pre) 1999**
+
+To which Lodi Sultan does the given map relate and
+
+what town does the side marked A on the map represent ?
+
+A
 
 A. Bahlul Lodi, Jaunpur
 
@@ -5119,24 +6100,24 @@ C. Ibrahim Lodi, Jaunpur
 
 D. Ibrahim Lodi, Aligarh
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Bahlul Lodi, Jaunpur)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** Jaunpur = **Shiraz-i-Hind**.
-- **Key Fact:** The correct option is **A** (Bahlul Lodi, Jaunpur).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Bahlul Lodi, Jaunpur** is standard UPPCS testing material.
+The given map is related to the extension of the kingdom
+of Bahlul Lodi and the place marked ‘A’ is Jaunpur. It was
+known as Shiraz -i-Hind during this period.
 
 </details>
 
-**Q-GC3. RAS/RTS 2012**
+---
 
-In which battle did Maharana Sanga defeat Ibrahim Lodi?
+**Q-GC4. R.A.S./R.T.S.(Pre) 2012**
+
+In which battle did Maharana Sanga defeat Ibrahim
+
+Lodi?
 
 A. Battle of Khatoli
 
@@ -5146,53 +6127,266 @@ C. Battle of Siwana
 
 D. Battle of Khanua
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Battle of Khatoli)
-
-**Detailed Explanation:**
-- **Historical Context:** **1518** (Khanwa is Babur vs Sanga **1527**).
-- **Key Fact:** The correct option is **A** (Battle of Khatoli).
-- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Remember the core factual anchor: **Battle of Khatoli** is standard UPPCS testing material.
-
-</details>
-
-**Q-GC4. UKPCS Lower 2010**
-
-Who among these was not from the Slave dynasty?
-
-A. Balban
-
-B. Iltutmish
-
-C. Qutbuddin Aybak
-
-D. Ibrahim Lodi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Ibrahim Lodi)
+**Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Historical Context:** Lodi dynasty.
-- **Key Fact:** The correct option is **D** (Ibrahim Lodi).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
+The battle of Khatoli was fought between Maharana Sanga
+and Ibrahim Lodi in 1518 A.D. Ibrahim Lodi was badly
+defeated by Maharana Sanga.
 
 </details>
 
 ---
 
-## UKPCS — Lodi stems
+**Q-GC5. 44th B.P.S.C. (Pre) 2000 · U.P.P.C.S. (Pre) 1993**
 
-**Q-UK1. Uttarakhand (उत्तराखंड) Lower Sub. (Pre) 2010**
+Which of the following Sultans founded a town where
+
+now stands Agra?
+
+A. Muhammad-Bin-Tughluq
+
+B. Firuz Tughluq
+
+C. Bahlul Lodi
+
+D. Sikandar Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Nizam Khan, the third son of Bahlul Lodi, ascended the
+throne assuming the title of Sikandar Lodi on 17 July, 1489
+A.D. Sikandar Lodi was the greatest among three Lodi rulers.
+Sikandar Lodi is especially remembered for founding the
+city of Agra in 1504 A.D. with the purpose to control over
+the rulers of Rajasthan. His administration was noted for its
+efficiency. Roads were made safe and irrigation facilities were
+provided for the benefit of the peasantry. He had a knowledge
+of Persian poetry. He used to write poems under the nickname
+'Gulrukhi'. He was known to be a kind and generous ruler
+who cared for his subjects.
+
+</details>
+
+---
+
+**Q-GC6. U.P.P.C.S. (Mains) 2011 · U.P.P.C.S. (Mains) 2008**
+
+Which medieval Sultan has the credit of founding the
+
+city of Agra and making it the capital of the Sultanate?
+
+A. Iltutmish
+
+B. Muhammad-Bin-Tughluq
+
+C. Firuz Shah Tughluq
+
+D. Sikandar Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Nizam Khan, the third son of Bahlul Lodi, ascended the
+throne assuming the title of Sikandar Lodi on 17 July, 1489
+A.D. Sikandar Lodi was the greatest among three Lodi rulers.
+Sikandar Lodi is especially remembered for founding the
+city of Agra in 1504 A.D. with the purpose to control over
+the rulers of Rajasthan. His administration was noted for its
+efficiency. Roads were made safe and irrigation facilities were
+provided for the benefit of the peasantry. He had a knowledge
+of Persian poetry. He used to write poems under the nickname
+'Gulrukhi'. He was known to be a kind and generous ruler
+who cared for his subjects.
+*(Refer to Q-GC5 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC7. Chhattisgarh P.C.S. (Pre) 2018**
+
+Which ruler founded the city of Agra?
+
+A. Sikandar Lodi
+
+B. Akbar
+
+C. Firuz Tughluq
+
+D. Shahjahan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Nizam Khan, the third son of Bahlul Lodi, ascended the
+throne assuming the title of Sikandar Lodi on 17 July, 1489
+A.D. Sikandar Lodi was the greatest among three Lodi rulers.
+Sikandar Lodi is especially remembered for founding the
+city of Agra in 1504 A.D. with the purpose to control over
+the rulers of Rajasthan. His administration was noted for its
+efficiency. Roads were made safe and irrigation facilities were
+provided for the benefit of the peasantry. He had a knowledge
+of Persian poetry. He used to write poems under the nickname
+'Gulrukhi'. He was known to be a kind and generous ruler
+who cared for his subjects.
+*(Refer to Q-GC5 for primary reference context)*
+*(Refer to Q-GC6 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC8. U.P.P.C.S. (Mains) 2015**
+
+Who among the following composed poems with the
+
+pen name ‘Gulrukhi’?
+
+A. Firuz Shah Tughluq
+
+B. Bahlul Lodi
+
+C. Sikandar Lodi
+
+D. Ibrahim Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Nizam Khan, the third son of Bahlul Lodi, ascended the
+throne assuming the title of Sikandar Lodi on 17 July, 1489
+A.D. Sikandar Lodi was the greatest among three Lodi rulers.
+Sikandar Lodi is especially remembered for founding the
+city of Agra in 1504 A.D. with the purpose to control over
+the rulers of Rajasthan. His administration was noted for its
+efficiency. Roads were made safe and irrigation facilities were
+provided for the benefit of the peasantry. He had a knowledge
+of Persian poetry. He used to write poems under the nickname
+'Gulrukhi'. He was known to be a kind and generous ruler
+who cared for his subjects.
+*(Refer to Q-GC5 for primary reference context)*
+*(Refer to Q-GC6 for primary reference context)*
+*(Refer to Q-GC7 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC9. U.P.P.C.S. (Pre) 2011 · U.P. U.D.A./L.D.A. (Mains) 2010 · U.P.P.C.S. (Mains) 2005 · U.P.P.C.S. (Pre) 2004**
+
+Agra city was founded by :
+
+A. Balban
+
+B. Bahlul Lodi
+
+C. Sikandar Lodi
+
+D. Firuz Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Nizam Khan, the third son of Bahlul Lodi, ascended the
+throne assuming the title of Sikandar Lodi on 17 July, 1489
+A.D. Sikandar Lodi was the greatest among three Lodi rulers.
+Sikandar Lodi is especially remembered for founding the
+city of Agra in 1504 A.D. with the purpose to control over
+the rulers of Rajasthan. His administration was noted for its
+efficiency. Roads were made safe and irrigation facilities were
+provided for the benefit of the peasantry. He had a knowledge
+of Persian poetry. He used to write poems under the nickname
+'Gulrukhi'. He was known to be a kind and generous ruler
+who cared for his subjects.
+*(Refer to Q-GC5 for primary reference context)*
+*(Refer to Q-GC6 for primary reference context)*
+*(Refer to Q-GC7 for primary reference context)*
+*(Refer to Q-GC8 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC10. U.P. U.D.A./L.D.A. (Spl) (Pre) 2010**
+
+Which one of the following Sultans is known for having
+
+abolished the tax on grains?
+
+A. Alauddin Khalji
+
+B. Ghiyasuddin Tughluq
+
+C. Firuz Tughluq
+
+D. Sikandar Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The rule of Lodi dynasty persisted till the coronation of
+Sikandar Lodi. He took keen interest in land revenue
+management. He ordered his nobles to present the details of
+their expenditure and cases of embezzlement were severely
+punished. He introduced “Gaj-i-Sikandari for measurement
+of land which was later used by Sher Shah Suri and Akbar.
+Several grain levies were abolished by him.
+
+</details>
+
+---
+
+**Q-GC11. U.P.P.C.S. (Mains) 2012**
+
+In which order did the following dynasties rule Delhi?
+
+Select the correct answer from the codes given below :
+
+1. Khalji 2. Lodi
+
+3. Sayyid 4. Slave
+
+Code :
+
+A. 1, 2, 4, 3
+
+B. 1, 2, 3, 4
+
+C. 2, 3, 4, 1
+
+D. 4, 1, 3, 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The Ghulam (Slave) dynasty or Mamluk rulers ruled during
+1206-1290 AD. Khalji dynasty ruled during 1290-1320 AD.
+Sayyid dynasty during 1414-1451 AD and Lodi dynasty
+during 1451-1526 AD. So, option (d) is the right answer.
+
+</details>
+
+---
+
+**Q-GC12. Uttarakhand Lower Sub. (Pre) 2010**
 
 Who among these was not from the Slave dynasty?
 
@@ -5204,19 +6398,1433 @@ C. Qutbuddin Aybak
 
 D. Ibrahim Lodi
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Ibrahim Lodi)
+**Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Fact:** The correct option is **D** (Ibrahim Lodi).
-- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
-
-**Key Exam Takeaway / Trap:**
-- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
+The rulers of Delhi Sultanate during (1206-90 AD) were
+famed as Slave dynasty. Qutbuddin Aibak (1206-10 AD),
+Iltutmish (1211-36 AD), and Balban (1266-86 AD) were the
+eminent ruler of this dynasty while Ibrahim Lodi was related
+to Lodi dynasty. Thus, option (d) is the correct answer.
 
 </details>
+
+---
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Delhi Sultanate Administration
+
+Complete sequence of 29 questions from Ghatna Chakra Delhi Sultanate: Administration (B–236 to B–240). Covers central ministries (Diwan-i-Wizarat, Arz, Insha, Risalat), Iqta system, provincial administration (Muqti, Amil, Chaudhary), and Sultanate currency (Tanka, Jital, Shashgani).
+
+**Q-GC1. I.A.S. (Pre) 2002**
+
+The historian Barani did not consider the state in India
+
+under Delhi Sultans as truly Islamic because :
+
+A. The majority of the population did not follow Islam
+
+B. The Muslim theologists were often disregarded
+
+C. The Sultan supplemented the Muslim law by framing
+
+his regulations
+
+D. The religious freedom was accorded to non-Muslims
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Historian Barani refused to consider the state in India under
+Delhi sultans as truly Islamic because the majority of the
+population did not follow Islam.
+
+</details>
+
+---
+
+**Q-GC2. U.P. P.C.S. (Pre) 1991**
+
+Most of the rulers (amirs) and sultans of Sultanate
+
+period belonged to the class
+
+A. Turkish
+
+B. Mongols
+
+C. Tatars
+
+D. Arabs
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Most of the rulers and sultans of Sultanate age were from
+Turkish class. Sultan was the chief of the central authority.
+Thus, persons appointed on powerful designations were
+referred ‘Amir’ in Sultanate age. Their impact emerged
+strongly when Sultan was unworthy, weak or infant.
+
+</details>
+
+---
+
+**Q-GC3. I.A.S. (Pre) 2019**
+
+Consider the following statements:
+
+1. In the revenue administration of Delhi Sultanate,
+
+the in-charge of revenue collection was known as
+
+'Amil'.
+
+2. The Iqta system of Sultans of Delhi was an ancient
+
+indigenous institution.
+
+3. The office of 'Mir Bakshi' came into existence
+
+during the reign of Khalji Sultans of Delhi.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 1 and 2 only
+
+C. 3 only
+
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The province was divided into Parganas or Kasbas. The
+government official of a Pargana was Amil, who collected
+revenues. The Mushrif kept accounts at the Pargana level and
+the Khazandar was in charge of the treasury.
+Iqta was not indigenous.
+Mir Bakshi headed military department, nobility, information
+& intelligence agencies during Mughal Administration.
+
+</details>
+
+---
+
+**Q-GC4. revenue collected from Iqta · U.P.P.C.S. (Pre) 2019**
+
+Which one of the following is NOT the characteristic
+
+of 'Iqta System'?
+
+A. Iqta was a revenue collection system
+
+B. Siyasatnama was the source of information for Iqta
+
+system
+
+C. Revenue from Iqta was directly deposited in Sultan's
+
+account
+
+D. Muqti was supported to maintain troops out of the
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Iqta system in India was introduced by Iltutmish during
+Sultanate period. According to this system, the owner of
+Iqta (Iqtadar or Muqti) was given the responsibility of
+collecting revenue and taxes in his area. Revenue from Iqta
+was not directly deposited in Sultan's account, whereas it was
+used by the Muqti to meet his administrative and military
+expenditures. Muqti had to maintain troops out of this revenue
+collected from Iqta for the service of Sultan. Siyasatnama
+authored by Abu Ali Hasan Ibn Ali Tusi (Nizam-ul-Mulk) is
+the source of information for primary Iqta system.
+
+</details>
+
+---
+
+**Q-GC5. I.A.S. (Pre) 2021**
+
+With reference to medieval India, which one of the
+
+following is the correct sequence in ascending order
+
+in terms of size?
+
+A. Paragana – Sarkar – Suba
+
+B. Sarkar – Paragana – Suba
+
+C. Suba – Sarkar – Paragana
+
+D. Paragana – Suba – Sarkar
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+With reference to medieval India, entire empire was divided
+into Suba (province). 'Subedar' was head of administration
+of Suba. For better administration, every Suba was divided
+into smaller units called Sarkar whose head was 'Fauzdar'.
+Every Sarkar was further divided into 'Pargana' or 'Mahal'.
+Shiqdar was head of this unit. There were villages under
+Pargana, which were called 'Mavada' or 'Deeha'. 'Nagla' were
+small colonies under Mavada. During the reign of Shahjahan
+another unit was formed between Pargana and Sarkar called
+'Chakla' under which a few Parganas came. Hence with
+reference to medieval India, the correct sequence in ascending
+order in terms of size is – Pargana-Sarkar-Suba.
+
+</details>
+
+---
+
+**Q-GC6. R.A.S./R.T.S. (Pre) 2018**
+
+Who created the department of Diwan-i-Arz in Delhi
+
+Sultanate?
+
+A. Balban
+
+B. Iltutmish
+
+C. Alauddin Khalji
+
+D. Firuz Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Balban (1266-1286 A.D.) was undoubtedly one of the main
+architects of the Delhi Sultanate, particularly of its form of
+government and institutions. He separated Diwan-i-wizarat
+(Finance Department) and created a new Department
+Diwan-i-Arz (Military Department). He then reorganised
+the Diwan-i-Arz and deployed the army in different parts
+of the kingdom to put down the rebellion.
+
+</details>
+
+---
+
+**Q-GC7. U.P.P.C.S. (Mains) 2008**
+
+Which one of the following pairs is not correctly
+
+matched:
+
+A. Diwan-i-Mushtakharaj - Alauddin Khalji
+
+B. Diwan-i-Amir Kohi - Muhammad Bin Tughluq
+
+C. Diwan-i-Khairat - Firuz Tughluq
+
+D. Diwan-i-Riyasat - Balban
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Rulers who established new administrative departments
+mentioned in the options are as follows –
+Diwan-i-Mushtakharaj - Alauddin Khalji
+(Revenue Department)
+Diwan-i-Amir-i- Kohi - Muhammad-Bin Tughluq
+(Agriculture Department)
+Diwan-i-Khairat - Firuz Tughluq
+(Department of Charity)
+Diwan-i-Riyasat - Alauddin Khalji (Market
+Control Department)
+
+</details>
+
+---
+
+**Q-GC8. I.A.S. (Pre) 2001**
+
+Which of the following pairs is correctly matched?
+
+A. Diwan-i-Bandagan - Firuz Shah Tughluq
+
+B. Diwan-i-Mustakhraj - Balban
+
+C. Diwan -i-Kohi - Alauddin Khalji
+
+D. Diwan-i-Arz - Muhammad Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Diwan-i-Bandagan was established by Firuz Shah Tughluq.
+This department dealt with slaves. A new department
+Diwan-i- Mustakharaj was established by Alauddin Khalji
+to deal with corruption and loot from the revenue system.
+Muhammad-Bin-Tughluq created department ‘Diwani-Amir-i- Kohi’ for agrarian development. Diwan-i-Arz
+(Military Department) was created by Balban.
+
+</details>
+
+---
+
+**Q-GC9. U.P. P.C.S. (Mains) 2017**
+
+During Sultanate period, 'Diwan-i-Amir-Kohi' was
+
+related with which of the following?
+
+A. Army
+
+B. Revenue
+
+C. Agriculture
+
+D. Entertainment
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Muhammad bin Tughlaq introduced the department of
+Diwan-i-Amir-i-Kohi for the development of Agriculture.
+The purpose of the department was to provide direct aid to
+farmers so as to bring more land under agriculture.
+
+</details>
+
+---
+
+**Q-GC10. U.P.R.O./A.R.O. (Pre) 2017**
+
+Which ruler established 'Diwan-i-Amir-Kohi'
+
+department?
+
+A. Balban
+
+B. Allauddin Khilji
+
+C. Muhammad-bin-Tughlaq
+
+D. Firoz Shah Tughlaq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Muhammad bin Tughlaq introduced the department of
+Diwan-i-Amir-i-Kohi for the development of Agriculture.
+The purpose of the department was to provide direct aid to
+farmers so as to bring more land under agriculture.
+*(Refer to Q-GC9 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC11. R.A.S./R.T.S.(Pre) 2013**
+
+Match List-I and List-II and choose your answer from
+
+the codes given below:
+
+List-I List-II
+
+A. Diwan-i-Arz 1. Dealt with religious matters
+
+B. Diwan-i-Risalat 2. Dealt with state’s correspon-
+
+dence
+
+C. Diwan-i-Insha 3. Dealt with Finance Dept
+
+D. Diwan-i-Wizarat4. Dealt with Military Dept
+
+Code:
+
+A B C D
+
+A. 1 3 4 2
+
+B. 2 4 1 3
+
+C. 3 2 1 4
+
+D. 4 1 2 3
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The correctly matched departments and their activities are
+as follows :
+Diwan-i- Arz - Dealt with Military department
+Diwan-i-Risalat - Dealt with religious issues/
+matters/related to foreign matters.
+Diwan-i-Insha - Dealt with State correspondence
+Diwan-i-Wizarat - Dealt with financial matters
+
+</details>
+
+---
+
+**Q-GC12. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+'Diwan-i-Arj' department was associated with:
+
+A. Royal correspondence
+
+B. Foreign
+
+C. Defence
+
+D. Finance
+
+E. None of the above / more than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The correctly matched departments and their activities are
+as follows :
+Diwan-i- Arz - Dealt with Military department
+Diwan-i-Risalat - Dealt with religious issues/
+matters/related to foreign matters.
+Diwan-i-Insha - Dealt with State correspondence
+Diwan-i-Wizarat - Dealt with financial matters
+*(Refer to Q-GC11 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC13. U.P.P.C.S. (Pre) 1997**
+
+Which one of the following dynasties saw the heyday
+
+of the Wizarat:
+
+A. The Ilbari
+
+B. The Khalji
+
+C. The Tughluq
+
+D. The Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Wizarat was an institution recognized by the Islamic
+constitution. Non-Arabic institutions were being repealed,
+and nomenclature used for Minister for Council under
+emperor was used as Wizarat. The idea for adopting Wizarat
+as an institution was inspired by Persia by Abbasi Caliphs.
+Abbas Fazal-Bin-Ahmad was first Wazir in the reign of
+Mahmud Ghaznavi, who was accomplished in conducting
+the administration. The prime minister of state was known as
+Wazir. He headed the finance department called the Diwan-iWizarat and had the power not only to supervise the income
+and expenditure of the state but other departments as well.
+Tughluq era was the golden period of Indian Muslim Wizarat.
+
+</details>
+
+---
+
+**Q-GC14. Jharkhand P.C.S. (Pre) 2021**
+
+Government of medieval period was a composite
+
+structure. It was a fusion of :
+
+A. Perso-Arabic
+
+B. Turko-Mongol (Central Asian)
+
+C. Perso-Arabic, Turko-Mongol (Central Asian)
+
+D. Perso-Arabic, Turko-Mongol – Indian Elements
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Government of medieval period was a composite structure of
+Perso-Arabic, Turko-Mongol and Indian elements.
+
+</details>
+
+---
+
+**Q-GC15. 40th B.P.S.C. (Pre) 1995**
+
+Which of the following indicates taxes levied on the
+
+land product?
+
+i. Kharaj ii. Khums
+
+iii. Ushr iv. Muktai
+
+Select your answer from the following codes –
+
+A. only i
+
+B. ii and iii
+
+C. i, ii and iii
+
+D. I, iii, and iv
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+In Islamic traditions, Khums refers to the historically required
+religious delegation of the Muslim army to pay one-fifth of
+the spoils of war, the booty collected from non-believers
+after a military campaign.This tax was paid to the Caliph or
+Sultan, representing the state of Islam. Rest of the other are
+taxes levied on the land product.
+
+</details>
+
+---
+
+**Q-GC16. U. P. P. C. S. (Pre) 2010**
+
+Which medieval king of India introduced the ‘Iqta
+
+system’?
+
+A. Iltutmish
+
+B. Balban
+
+C. Alauddin Khalji
+
+D. None of these
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Iltutmish first introduced 'Iqta' system in Delhi Sultanate
+Period. In the Islamic empire of the Caliph, land was granted
+to army officials for limited periods in lieu of a regular wage.
+The Iqta system was introduced in the 9th century A.D. to
+relieve the state treasury when insufficient tax revenue and
+little booty from wars made it difficult for the government
+to pay salaries.
+
+</details>
+
+---
+
+**Q-GC17. 68th B.P.S.C. (Pre) 2022**
+
+During the Delhi Sultanate, the designation 'Muqaddam
+
+or Chaudhari' was used for
+
+A. Village headman
+
+B. Revenue officials
+
+C. Village accountant
+
+D. More than one of the above
+
+E. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+'Muqaddam or Chaudhari' were village headman and in this
+capacity only was the highest revenue authority in the village
+and not just any revenue official or village accountant.
+
+</details>
+
+---
+
+**Q-GC18. 70th B.P.S.C. Re-Exam 2024**
+
+During the Delhi Sultanate, the designation 'Muqaddam or Chaudhuri' was used for
+
+A. Village headmen
+
+B. Village accountant
+
+C. Revenue officials
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+'Muqaddam or Chaudhari' were village headman and in this
+capacity only was the highest revenue authority in the village
+and not just any revenue official or village accountant.
+*(Refer to Q-GC17 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC19. I.A.S. (Pre) 2004**
+
+Supreme rural officials of land revenue in Sultanate
+
+period?
+
+A. Chaudhary
+
+B. Ravat
+
+C. Malik
+
+D. Patwari
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+During the Sultanate period, Chaudhary played an important
+role in the traditional social structure. If we delineate traditional
+social structure, it will have at its top the Sultan followed
+by Sultan’s governors, a village headman who happened to
+be Chaudhary. At the time of the revolt, Sultanate started
+eliminating the influence of Rais and sought the help of
+Chaudhary to collect revenue. Hence, Chaudhary was the
+main revenue collector for villages during the Sultanate period.
+
+</details>
+
+---
+
+**Q-GC20. U.P.P.C.S. (Pre) 1996**
+
+‘Sharb’ was a tax levied on:
+
+A. Trade
+
+B. Irrigation
+
+C. Non-Muslims
+
+D. Industry
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Firuz Tughluq determined taxation according to Quran rules.
+He permitted four taxes approved by Quran: (1) Kharaj (2)
+Jizya (3) Khums (4) Zakat. He levied irrigation tax 'Haqq-esharb' at 10% rate of the crop yield on recommendations of
+religious scholars. Firuz Tughluq abolished 21 grievous taxes
+of his time.
+
+</details>
+
+---
+
+**Q-GC21. U.P. P.C.S. (Pre) 1997 · 39th B.P.S.C. (Pre) 1994**
+
+Zawabits were concerned with :
+
+A. State laws
+
+B. Law regulating mansab system
+
+C. Laws regulating mint house
+
+D. Agricultural taxes
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Zawabits were related to state laws in the administrative
+vocabulary of the Sultanate period.
+
+</details>
+
+---
+
+**Q-GC22. Chhattisgarh P.C.S. (Pre) 2014**
+
+Hadis is –
+
+A. Islamic Law
+
+B. Settlement Law
+
+C. Tax of Sultanate period
+
+D. Mansabdar
+
+E. None of these
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The Hadis (or Hadith) is the collection of biographic reports
+about the sayings, customs and doings of Muhammad and his
+companions. They also reflect on what Muhammad enjoined
+and tolerated in his presence or forbade.
+
+</details>
+
+---
+
+**Q-GC23. U.P.P.C.S. (Pre) 2023**
+
+Who was 'Khareetadar'?
+
+A. Chief Officer of Pargana
+
+B. Main custodian of royal palace
+
+C. An officer who was trained in keeping accounts
+
+D. Despatcher of royal decrees
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Khareetadar was a dispatcher of royal decrees.
+
+</details>
+
+---
+
+**Q-GC24. I.A.S. (Pre) 1998**
+
+Fawazil in the Sultanate period meant :
+
+A. Extra payment to the nobles
+
+B. Revenue assigned in lieu of salary
+
+C. Excess amount paid to the exchequer by the Iqtadars
+
+D. Illegal exactions extracted from the peasants
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+During the Sultanate period, the excess amount paid to the
+exchequer by Iqtadar was called ‘Fawazil”.
+
+</details>
+
+---
+
+**Q-GC25. U.P. P.C.S. (Pre) 2001**
+
+Find out the two main currencies of the Sultanate
+
+period from the code given below :
+
+1. Dam 2. Jital
+
+3. Rupiya 4. Tanka
+
+Code :
+
+A. 1 and 2
+
+B. 1 and 3
+
+C. 2 and 3
+
+D. 2 and 4
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The two main currencies of the Sultanate period are Jital and
+Tanka. Iltutmish was the first Turkish ruler who started the
+pure Arabian coins. He had a great contribution to the currency
+system of Delhi Sultanate as he was the first ruler who started
+the famous coins of silver (Tanka) and copper (Jital).
+
+</details>
+
+---
+
+**Q-GC26. U.P. Lower Sub. (Pre) 2008**
+
+Who among the following started ‘Tanka’ silver coin?
+
+A. Alauddin Khalji
+
+B. Qutbuddin Aybak
+
+C. Iltutmish
+
+D. Balban
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The two main currencies of the Sultanate period are Jital and
+Tanka. Iltutmish was the first Turkish ruler who started the
+pure Arabian coins. He had a great contribution to the currency
+system of Delhi Sultanate as he was the first ruler who started
+the famous coins of silver (Tanka) and copper (Jital).
+*(Refer to Q-GC25 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC27. U.P. P.C.S. (Pre) 2013**
+
+Who was the medieval king responsible for introducing
+
+the silver coin called ‘Tanka’ in North India?
+
+A. Iltutmish
+
+B. Raziyya
+
+C. Alauddin Khalji
+
+D. Muhammad Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The two main currencies of the Sultanate period are Jital and
+Tanka. Iltutmish was the first Turkish ruler who started the
+pure Arabian coins. He had a great contribution to the currency
+system of Delhi Sultanate as he was the first ruler who started
+the famous coins of silver (Tanka) and copper (Jital).
+*(Refer to Q-GC25 for primary reference context)*
+*(Refer to Q-GC26 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC28. 39th B.P.S.C. (Pre) 1994**
+
+Coins-Tanka, Shashgani and Jital of Sultanate period
+
+was made of which of the following metals-
+
+A. Silver, Copper
+
+B. Gold, Silver, Copper
+
+C. Silver, Zink, Copper
+
+D. Gold, Zink, Copper
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Iltutmish was the first to issue regular currency and declare
+Delhi as the capital of his empire. He started the ‘Tanka’ and
+the ‘Jital’ coins, made up of silver and copper, respectively,
+in the Sultanate period. Shashgani was also a silver coin. The
+ratio of Tanka and Jital was 1:48.
+
+</details>
+
+---
+
+**Q-GC29. U.P.P.C.S. (Pre) 2012**
+
+On whose coins the name of the last Caliph of Baghdad
+
+appeared for the first time?
+
+A. Qutbuddin Aybak
+
+B. Iltutmish
+
+C. Alauddin Khalji
+
+D. Alauddin Masud Shah
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+On the coins of Alauddin Masud Shah (1242-1246 A.D.),
+the name of the last Caliph of Baghdad appeared for the
+first time. The last Caliph of Baghdad was Al-Mustasim. He
+held this position from 1242-58 A.D. The name of Caliph
+Mustanasir was inscribed on the coins of Iltutmish (served
+from 1226 to 1242 A.D.)
+
+</details>
+
+---
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Delhi Sultanate Art and Architecture
+
+Complete sequence of 15 questions from Ghatna Chakra Delhi Sultanate: Art and Architecture (B–240 to B–242). Covers Quwwat-ul-Islam, Qutub Minar storeys, Balban's tomb (first true arch), Alai Darwaza (horse-shoe arch), Tughlaqabad, and Rana Kumbha's Kirti Stambha.
+
+**Q-GC1. 63rd B.P.S.C. (Pre) 2017**
+
+Use of paper started in India in -
+
+A. 12 century CE
+
+B. 13 century CE
+
+C. 14 century CE
+
+D. 15 century CE
+
+E. None of the above/ More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Paper was first discovered in China. Use of paper started in
+India in 12th century CE. The oldest evidence of paper in India
+is preserved at Ashutosh Museum, Kolkata, which houses
+paper from 1105 CE called Panchraksha.
+
+</details>
+
+---
+
+**Q-GC2. 42nd B.P.S.C. (Pre) 1997**
+
+Which Sultan built Alai Darwaza?
+
+A. Iltutmish
+
+B. Balban
+
+C. Alauddin Khalji
+
+D. Firuz Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Alai Darwaza was built by Alauddin Khalji. It has a domed
+entrance which was constructed using red sandstone and is
+adorned with white marble. It was completed in 1311 AD by
+Turkish craftsmen. It is one of the first buildings in India in
+Indo-Islamic architectural style.
+
+</details>
+
+---
+
+**Q-GC3. Uttarakhand P.C.S. (Pre) 2016**
+
+The Horse-Shoe arch was first introduced in the -
+
+A. Tomb of Iltutmish
+
+B. Tomb of Ghiyas-ud-din Tughluq
+
+C. Alai Darwaza
+
+D. Quwwat-ul-Islam Mosque
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The Horse-Shoe arch was first introduced in the Alai
+Darwaza. It was built by Alauddin Khalji.
+
+</details>
+
+---
+
+**Q-GC4. U.P. P.C.S. (Pre) 2003 · U.P. U.D.A./L.D.A. (Pre) 2002**
+
+Who among the following did not contribute to the
+
+construction of Qutub Minar :
+
+A. Qutbuddin Aybak
+
+B. Iltutmish
+
+C. Alauddin Khalji
+
+D. Firuz Shah Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Qutbuddin Aybak, the first Muslim ruler of Delhi Sultanate,
+commenced the construction of Qutub Minar, but could
+complete only its basement. Which was completed by
+Iltutmish. In the time of Firozshah Tughlaq, the fourth floor
+of the Qutub Minar was damaged, on which he got the fifth
+floor constructed along with the restoration of the fourth floor.
+Qutub Minar has been named after Qutbuddin Bakhtiar Kaki,
+the famous Sufi saint. Sultan Alauddin Khalji did not contribute
+in building the Qutub Minar.
+
+</details>
+
+---
+
+**Q-GC5. U.P. Lower Sub. (Spl) (Pre) 2004**
+
+Who among the following Sultans built the fifth storey
+
+of Qutub Minar?
+
+A. Qutbuddin Aybak
+
+B. Iltutmish
+
+C. Firuz Shah Tughluq
+
+D. Sikandar Lodi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Qutbuddin Aybak, the first Muslim ruler of Delhi Sultanate,
+commenced the construction of Qutub Minar, but could
+complete only its basement. Which was completed by
+Iltutmish. In the time of Firozshah Tughlaq, the fourth floor
+of the Qutub Minar was damaged, on which he got the fifth
+floor constructed along with the restoration of the fourth floor.
+Qutub Minar has been named after Qutbuddin Bakhtiar Kaki,
+the famous Sufi saint. Sultan Alauddin Khalji did not contribute
+in building the Qutub Minar.
+*(Refer to Q-GC4 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC6. Chhattisgarh P.C.S. (Pre) 2023**
+
+Consider the following statements about Minars
+
+(Tower) of middle India.
+
+(1) The Qutub Minar, built in the Thirteenth century,
+
+is a 180-feet-high tapering tower divided into five
+
+storeys.
+
+(2) Chand Minar, built in the fifteenth century, is a
+
+210-feet-high tapering tower divided into four
+
+storeys.
+
+Which of the statement/s given above is/are correct?
+
+A. (1) only
+
+B. (2) only
+
+C. Both (1) and (2)
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The Qutub Minar, built in the thirteenth century, is a 238 feet
+(72.5 M) high tapering tower divided into five storeys. The
+minar is a mix of polygonal and circular shapes. It is largely
+built of red and buff sandstone with some use of marble in
+the upper storey.
+Chnad Minar, built in the fifteenth century, is a 210 feet high
+tapering tower divided into four stories. Painted Peach now,
+its facade once boasted of chevron patterning on the encaustic
+tile work and bold bands of Quranic verses.
+
+</details>
+
+---
+
+**Q-GC7. U.P. P.C.S. (Spl) (Pre) 2004**
+
+India’s first tomb constructed in the Indo-Islamic style
+
+was –
+
+A. Humayun’s Tomb
+
+B. Balban’s Tomb
+
+C. Aybak’s Tomb
+
+D. Alauddin’s Tomb
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The Tomb of Ghiyasuddin Balban is located in Mehrauli,
+New Delhi. It was built in 1287 AD in rubble masonry. The
+tomb is a building of historical importance in the development
+of Indo-Islamic architecture.
+
+</details>
+
+---
+
+**Q-GC8. Jharkhand P.C.S. (Pre) 2016**
+
+The first true arch in the Sultanate memorial could be
+
+seen in
+
+A. Iltutmish’s tomb
+
+B. Tomb of Balban
+
+C. Alai Darwaza
+
+D. Quwwat-ul-Islam Mosque
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Tomb of Balban is located in Mehrauli, New Delhi. It was
+here that first true arches made their appearance in India.
+
+</details>
+
+---
+
+**Q-GC9. I.A.S. (Pre) 1998**
+
+Consider the following :
+
+1. Tughluqabad fort
+
+2. Lodi Garden
+
+3. Qutub Minar
+
+4. Fatehpur Sikri
+
+The correct chronological order in which they were
+
+built is :
+
+A. 3,1, 4, 2
+
+B. 3, 1, 2, 4
+
+C. 1, 3, 2, 4
+
+D. 1, 3, 4, 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Qutub Minar – Qutbuddin Aybak (1206-10AD)
+and Iltutmish (1211-36 AD)
+Tughluqabad fort – Ghiyasuddin Tughluq
+(1320-1325 AD)
+Lodi Garden – Lodi dynasty
+(1451-1526 AD)
+Fatehpur Sikri – Akbar (1556-1605 AD)
+Hence, option (b) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC10. U.P.P.C.S. (Pre) 2022**
+
+Match List – I with List – II and select the correct
+
+answer from the code given below the lists.
+
+List – I (Building)  List – II (Builders)
+
+A. Sultan Garhi  1. Alauddin Khilji
+
+B. Red Palace  2. Qutbuddin Aibak
+
+C. Jamat Khana Masjid  3. Iltutmish
+
+D. Dhai Din Ka Jhopra  4. Balban
+
+Code :
+
+A B C D
+
+A. 3 4 2 1
+
+B. 4 3 2 1
+
+C. 3 4 1 2
+
+D. 4 3 1 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** *****
+
+**Detailed Explanation:**
+Correctly matched list is as follows—
+List – I   List – II
+(Building) (Builders)
+Sultan garhi  Iltutmish
+Red Palace  Balban
+Jamat Khana Masjid  Khizr Khan
+Dhai Din Ka Jhopra  Qutbuddin Aybak
+Note: Jamat Khana masjid is the oldest monument found in
+the dargah complex of Hazrat Nizamuddin Aulia. It was
+built by Khizr Khan, son of Sultan Alauddin Khalji.
+
+</details>
+
+---
+
+**Q-GC11. Jharkhand P.C.S. (Pre) 2023**
+
+Which of the following is not correctly matched?
+
+Building Builder
+
+A. Lal Mahal – Balban
+
+B. Hindola Mahal – Hoshang Shah
+
+C. Jahaz Mahal – Ghiyasuddin
+
+D. Lal Darwaja Mosque – Bibi Raje
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The correct match is as follows :
+Building Builder
+Lal Mahal – Balban
+Hindola Mahal – Ghiyas-ud-din Khalji
+Jahaz Mahal – Ghiyas-ud-din Khalji
+Lal Darwaja Mosque – Bibi Raje
+
+</details>
+
+---
+
+**Q-GC12. R.A.S./R.T.S.(Pre) 1999**
+
+The composer of ‘Kirti-Stamba Prashasti’ was :
+
+A. Somdeva
+
+B. Jaita
+
+C. Napa
+
+D. Atri Kavi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Kirti Stambha was built by Rana Kumbha after his victory
+over Malwa. Kirti Stambh was built by Jaita while the
+panegyrists of Kriti Stambh were Atri and Mahesh.
+
+</details>
+
+---
+
+**Q-GC13. U.P.P.C.S. (Mains) 2011 · U.P.P.C.S. (Pre) 2010 · U.P.P.C.S. (Mains) 2008**
+
+‘Kirti Stambha’ of Chittor was constructed during the
+
+rule of –
+
+A. Rana Kumbha
+
+B. Rana Hammir
+
+C. Rana Ratan Singh
+
+D. Rana Sangram Singh
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+‘Kirti Stambha’ of Chittor was constructed during the reign
+of Rana Kumbha. The pillar is a unique monument of his
+achievements. It was constructed by Rana Kumbha in
+memory of his victory over Mahmud Khalji (Malwa).
+
+</details>
+
+---
+
+**Q-GC14. U.P.P.C.S. (Pre) 2011**
+
+Which of the following is not correctly matched?
+
+A. Ajmer - Quwwat-ul-Islam
+
+B. Jaunpur - Atala Masjid
+
+C. Malwa - Jahaz Mahal
+
+D. Gulberga - Jama Masjid
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The correct order of given sites and architecture is :
+Site - Architecture
+Delhi - Quwwat-ul-Islam
+Jaunpur - Atala Masjid
+Malwa - Jahaz Mahal
+Gulberga (Kalburgi) - Jama Masjid
+
+</details>
+
+---
+
+**Q-GC15. R.A.S./R.T.S. (Re. Exam) (Pre) 2013**
+
+Match the following :
+
+Architectural Style Associated Dynasty
+
+A. ‘Lotus bud’ fringe on 1. Sharqis
+
+the underside of the arch
+
+B. Emergence of octagonal 2. Vijayanagara
+
+tomb
+
+C. Use of Bodegoi in the 3. Khaljis
+
+Pillar
+
+D. Massive entrance gate 4. Tughluqs
+
+with inclined walls
+
+Code :
+
+A B C D
+
+A. 3 4 2 1
+
+B. 3 1 4 2
+
+C. 2 1 4 3
+
+D. 1 2 4 3
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Arhitectural Style Associated Dynasty
+‘Lotus bud’ fringe on the - Khaljis
+underside of the arch
+Emergence of octagonal tomb - Tughluqs
+Use of Bodegoi in the Pillar - Vijayanagara
+Massive entrance gate with - Sharqis
+inclined walls
+
+</details>
+
+---
 
 ---
 
@@ -5286,34 +7894,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 </details>
 
-**Q3. UPPCS Prelims 2024, Q150**
 
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Balban made his government firm and centralised all authority in his hands.
-Reason (R): He wanted to protect the north-west frontier against Mongol invasions.
-
-Select the correct answer from the codes given below:
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).
-B. (A) is false, but (R) is true.
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-D. (A) is true, but (R) is false.
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Both A and R are true, but R is not the correct explanation of A)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Ghiyasuddin Balban (reigned 1266–1287 CE) systematically centralized absolute despotic authority in his own hands. He neutralized the powerful Turkish oligarchy (*Chahalgani* or the Corps of Forty), established a pervasive intelligence and spy network (*Barids*), elevated royal majesty through Persian ceremonial rituals (*Sijda* and *Paibos*), and articulated the doctrine of divine kingship (*Niyabat-i-Khudai* and *Zill-i-Ilahi*).
-- **Reason (R) is correct:** Balban recognized the recurring menace of Mongol invasions and took aggressive defense measures along the northwest frontier. He constructed a chain of frontier fortresses at Bhatinda, Sunam, and Samana, deployed veteran commanders, and appointed his capable sons (Prince Muhammad and Bughra Khan) to ward off the Mongols.
-- **Why (R) does NOT explain (A):** The threat of Mongol invasions necessitated frontier military readiness, but Balban's intense internal centralization and ruthless suppression of the nobility was primarily motivated by domestic political survival—namely, crushing noble factionalism, restoring the fallen prestige of the Crown after decades of weak puppet Sultans, and preventing rebellions. Both statements are historically true, but (R) is an external defense measure, not the primary causal explanation of his internal centralizing policy.
-
-**Key Exam Takeaway / Trap:**
-- Balban's internal absolutism answered domestic noble factionalism (*Chahalgani*), while his frontier fortifications answered external Mongol raids.
-
-</details>
 
 **Q4. UPPCS Prelims 2023, Q34**
 
@@ -5363,36 +7944,7 @@ D. Azizuddin Khan
 
 </details>
 
-**Q6. UPPCS Prelims 2022, Q59**
 
-Arrange the following conquests of Alauddin Khilji in chronological order.
-
-1. Ranthambor
-2. Gujarat
-3. Warangal
-4. Chittor
-
-Options:
-A. 2, 1, 3, 4
-B. 2, 1, 4, 3
-C. 2, 4, 3, 1
-D. 1, 2, 3, 4
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (2–1–4–3 / Gujarat → Ranthambor → Chittor → Warangal)
-
-**Detailed Explanation:**
-The precise chronological order of Alauddin Khalji's military conquests is:
-1. **2. Gujarat (1299 CE):** Led by Nusrat Khan and Ulugh Khan; Rai Karan Baghela was defeated; Surat and Somnath were plundered, and the slave-general Malik Kafur was acquired at Cambay.
-2. **1. Ranthambor (1301 CE):** Captured after a protracted siege; Hammiradeva died fighting.
-3. **4. Chittor (1303 CE):** Captured from Rana Ratan Singh; legendary for Rani Padmini's *Jauhar*.
-4. **3. Warangal (1309–1310 CE):** Southern Deccan campaign conducted by Malik Kafur against Kakatiya king Prataparudra.
-
-**Key Exam Takeaway / Trap:**
-- The conquest of Gujarat (**1299**) took place **before** the sieges of Ranthambor (**1301**) and Chittor (**1303**).
-
-</details>
 
 **Q7. UPPCS Prelims 2022, Q4**
 
@@ -5450,30 +8002,7 @@ Options include: **B. 3-4-1-2** (Diwan-i-Tan→Jagirs/salaries; Mustarfi→audit
 
 </details>
 
-**Q9. UPPCS Prelims 2019, Q15**
 
-Which one of the following is NOT the characteristics of Iqta System?
-
-A. Iqta was a revenue collection system
-B. Siyasatnama was the source of information for Iqta System
-C. Revenue from Iqta was directly deposited in Sultan's account
-D. Muqti was supported to maintain troops out of the revenue collected from Iqta
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Revenue from Iqta was directly deposited in Sultan's account is NOT a characteristic)
-
-**Detailed Explanation:**
-- **Statement A is correct:** The *Iqta* system was primarily a grant of the right to collect land revenue from a designated territory in return for administrative and military services.
-- **Statement B is correct:** Nizam-ul-Mulk Tusi's 11th-century treatise **Siyasatnama** provides the foundational theoretical rules governing the obligations, tenure, and supervision of *Iqtadars*.
-- **Statement C is INCORRECT (Hence the answer):** Revenue from an *Iqta* was **never directly deposited into the Sultan's treasury**. Instead, the assignee (*Muqti* or *Iqtadar*) collected the local revenue, deducted his own salary and the costs of maintaining his required army corps, and only the surplus balance, called **Fawazil**, was sent to the imperial treasury.
-- **Statement D is correct:** Maintaining troops out of the proceeds of the assigned *Iqta* was the fundamental military obligation of every *Muqti*.
-
-**Key Exam Takeaway / Trap:**
-- Direct revenue deposit into the royal treasury was the defining feature of **Khalsa** lands, NOT *Iqtas*.
-- The surplus sent to the central treasury from an *Iqta* is termed **Fawazil**.
-
-</details>
 
 **Q10. UPPCS Prelims 2019, Q16**
 
@@ -5501,34 +8030,7 @@ D. Humayunnama — Gulbadan Begam
 
 </details>
 
-**Q11. UPPCS Prelims 2018, Q14**
 
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-Assertion (A): Turkish invasions of India were successful.
-Reason (R): There was no political unity in North India.
-
-Select the correct answer from the codes given below:
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both A and R are true, and R is the correct explanation of A)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** The Turkish invasions of India under Mahmud of Ghazni and subsequently under Muhammad Ghori and his generals (Qutbuddin Aibak, Bakhtiyar Khalji) achieved sweeping military breakthroughs across northern India in the late 12th and early 13th centuries, ultimately establishing the Delhi Sultanate in 1206 CE.
-- **Reason (R) is correct:** Post-Harsha and post-Pratihara northern India was severely fragmented into numerous mutually hostile Rajput principalities (Chauhans of Ajmer, Gahadavalas of Kannauj, Chandelas of Bundelkhand, Chalukyas/Solankis of Gujarat, and Senas of Bengal). They lacked a supreme sovereign coordinating authority, failed to form an enduring pan-Indian military coalition, and routinely celebrated the defeat of rival neighbors by foreign invaders.
-- **Why (R) explains (A):** The chronic absence of political unity, collective defense diplomacy, and strategic coordination enabled Turkish forces with superior mobility and unified command to isolate, attack, and defeat Indian kingdoms one by one. Thus, (R) directly explains the success asserted in (A).
-
-**Key Exam Takeaway / Trap:**
-- Rajput society possessed unmatched individual martial valor, but suffered from chronic political fragmentation and tactical rigidity (reliance on sluggish elephant corps vs. Turkish horse-archery mobility).
-
-</details>
 
 ### UKPCS Prelims 2025
 

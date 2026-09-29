@@ -34,19 +34,35 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="ancient-history-04-Religious-Movements-md" aria-label="Mark Topic 4 — Religious Movements done">
     <span class="ct-title">Topic 4 — Religious Movements</span>
-    <span class="ct-pills">46 Qs · UPPCS 42 · UKPCS 4</span>
+    <span class="ct-pills">80 Qs · UPPCS 73 · UKPCS 7</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#complete-pyq-bank-ghatnachakra-buddhism-jainism-bhagavata-uppcs-ukpcs-standard">Ghatnachakra Buddhism / Jainism / Bhagavata</a> — 41 questions (UPPCS 37 · UKPCS 4)</li>
+      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#complete-pyq-bank-ghatnachakra-buddhism-jainism-bhagavata-uppcs-ukpcs-standard">Ghatnachakra Buddhism / Jainism / Bhagavata</a> — 76 questions (UPPCS 69 · UKPCS 7)</li>
       <li><a href="../subjects/ancient%20history/04_Religious_Movements/#413-ashokan-patronage">Ashokan Patronage</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#46-buddhist-councils">Buddhist Councils</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#47-buddhist-texts">Buddhist Texts</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#412-cave-architecture">Cave Architecture</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#417-nirvana-sites-of-tirthankaras">Nirvana Sites of Tirthankaras</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#45-buddhist-philosophy">Buddhist Philosophy</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#council-order-spines">Council order spines</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#complete-pyq-bank-topic-4">PYQ Bank</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/04_Religious_Movements/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-03-Vedic-Civilization-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-03-Vedic-Civilization-md" aria-label="Mark Topic 3 — Vedic Civilization done">
+    <span class="ct-title">Topic 3 — Vedic Civilization</span>
+    <span class="ct-pills">46 Qs · UPPCS 40 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#complete-pyq-bank-ghatnachakra-vedic-age-uppcs-ukpcs-standard">Ghatnachakra Vedic Age</a> — 43 questions (UPPCS 38 · UKPCS 5)</li>
+      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#311-four-vedas">Four Vedas</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#complete-pyq-bank-topic-3">PYQ Bank</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#34-vedic-administration">Vedic Administration</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/03_Vedic_Civilization/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="ancient-history-07-Mauryan-Empire-md" data-group="high" data-uk="0">
@@ -77,62 +93,53 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/07_Mauryan_Empire/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="ancient-history-02-Indus-Valley-Civilization-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-02-Indus-Valley-Civilization-md" aria-label="Mark Topic 2 — Indus Valley Civilization (Harappan Civilization) done">
-    <span class="ct-title">Topic 2 — Indus Valley Civilization (Harappan Civilization)</span>
-    <span class="ct-pills">32 Qs · UPPCS 31 · UKPCS 2</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#complete-pyq-bank-ghatnachakra-indus-valley-uppcs-ukpcs-standard">Ghatnachakra Indus Valley</a> — 25 questions (UPPCS 24 · UKPCS 2)</li>
-      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#25-archaeological-sites-of-uttar-pradesh">Archaeological Sites of Uttar Pradesh</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#21-indus-valley-civilization">Indus Valley Civilization</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#23-major-harappan-sites">Major Harappan Sites</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#26-major-ports-of-ancient-india">Major Ports of Ancient India</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/02_Indus_Valley_Civilization/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="ancient-history-03-Vedic-Civilization-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-03-Vedic-Civilization-md" aria-label="Mark Topic 3 — Vedic Civilization done">
-    <span class="ct-title">Topic 3 — Vedic Civilization</span>
-    <span class="ct-pills">32 Qs · UPPCS 29 · UKPCS 3</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#complete-pyq-bank-ghatnachakra-vedic-age-uppcs-ukpcs-standard">Ghatnachakra Vedic Age</a> — 28 questions (UPPCS 26 · UKPCS 2)</li>
-      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#311-four-vedas">Four Vedas</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#34-vedic-administration">Vedic Administration</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#31-vedic-period">Vedic Period</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/03_Vedic_Civilization/">Open chapter</a>
-  </div>
-</details>
 <details class="ct-row" data-ct-id="ancient-history-08-Post-Mauryan-India-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="ancient-history-08-Post-Mauryan-India-md" aria-label="Mark Topic 8 — Post-Mauryan India done">
     <span class="ct-title">Topic 8 — Post-Mauryan India</span>
+    <span class="ct-pills">33 Qs · UPPCS 32 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#complete-pyq-bank-ghatnachakra-post-mauryan-period-uppcs-ukpcs-standard">Ghatnachakra Post-Mauryan Period</a> — 30 questions (UPPCS 29 · UKPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#82a-ikshvakus-and-nagarjunakonda">Ikshvakus and Nagarjunakonda</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#810-later-south-2025-match-only">Later South — 2025 match only</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#complete-pyq-bank-topic-8">PYQ Bank</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/08_Post_Mauryan_India/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-10-Post-Gupta-Period-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-10-Post-Gupta-Period-md" aria-label="Mark Topic 10 — Post-Gupta Period done">
+    <span class="ct-title">Topic 10 — Post-Gupta Period</span>
+    <span class="ct-pills">32 Qs · UPPCS 30 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/10_Post_Gupta_Period/#complete-pyq-bank-ghatnachakra-post-gupta-period-uppcs-ukpcs-standard">Ghatnachakra Post-Gupta Period</a> — 31 questions (UPPCS 29 · UKPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/10_Post_Gupta_Period/#books-and-writers-post-gupta-harsha-age">Books and Writers — Post-Gupta / Harsha Age</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/10_Post_Gupta_Period/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-02-Indus-Valley-Civilization-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-02-Indus-Valley-Civilization-md" aria-label="Mark Topic 2 — Indus Valley Civilization (Harappan Civilization) done">
+    <span class="ct-title">Topic 2 — Indus Valley Civilization (Harappan Civilization)</span>
     <span class="ct-pills">31 Qs · UPPCS 30 · UKPCS 2</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#complete-pyq-bank-topic-8">PYQ Bank</a> — 8 questions (UPPCS 8)</li>
-      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#88-kanishka">Kanishka</a> — 7 questions (UPPCS 7 · UKPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#82-satavahana-rulers">Satavahana Rulers</a> — 5 questions (UPPCS 5)</li>
-      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#84-indo-greeks">Indo-Greeks</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#87-kushanas">Kushanas</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#810-later-south-2025-match-only">Later South — 2025 match only</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#81-post-mauryan-period">Post-Mauryan Period</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#books-and-writers-post-mauryan-age">Books and Writers — Post-Mauryan Age</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#82a-ikshvakus-and-nagarjunakonda">Ikshvakus and Nagarjunakonda</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#83-south-indian-history">South Indian History</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#complete-pyq-bank-ghatnachakra-indus-valley-uppcs-ukpcs-standard">Ghatnachakra Indus Valley</a> — 25 questions (UPPCS 24 · UKPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#25-archaeological-sites-of-uttar-pradesh">Archaeological Sites of Uttar Pradesh</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#227-early-harappan-and-late-harappan-phases">Early Harappan and Late Harappan Phases</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#21-indus-valley-civilization">Indus Valley Civilization</a> — 2 questions (UPPCS 2)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/08_Post_Mauryan_India/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/02_Indus_Valley_Civilization/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="ancient-history-13-Archaeology-md" data-group="high" data-uk="0">
@@ -155,6 +162,24 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
 
 <h3 class="ct-group-title">Medium Important</h3>
 <div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="ancient-history-09-Gupta-Age-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-09-Gupta-Age-md" aria-label="Mark Topic 9 — Gupta Age done">
+    <span class="ct-title">Topic 9 — Gupta Age</span>
+    <span class="ct-pills">28 Qs · UPPCS 27 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#complete-pyq-bank-ghatnachakra-gupta-age-uppcs-ukpcs-standard">Ghatnachakra Gupta Age</a> — 22 questions (UPPCS 21 · UKPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#books-and-writers-gupta-age">Books and Writers — Gupta Age</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#920-fa-hien-faxian-gupta-age-chinese-traveller">Fa-Hien (Faxian) — Gupta-age Chinese Traveller</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#98-gupta-administration-system">Gupta Administration System</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#910-gupta-coins">Gupta Coins</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/09_Gupta_Age/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="ancient-history-01-Stone-Age-md" data-group="medium" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="ancient-history-01-Stone-Age-md" aria-label="Mark Topic 1 — Stone Age (Prehistoric India) done">
@@ -165,8 +190,8 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
       <li><a href="../subjects/ancient%20history/01_Stone_Age/#complete-pyq-bank-ghatnachakra-stone-age-uppcs-ukpcs-standard">Ghatnachakra Stone Age</a> — 23 questions (UPPCS 21 · UKPCS 2)</li>
-      <li><a href="../subjects/ancient%20history/01_Stone_Age/#113-bhimbetka-rock-shelters">Bhimbetka Rock Shelters</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/01_Stone_Age/#14-mesolithic-age">Mesolithic Age</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/01_Stone_Age/#111-cave-paintings">Cave Paintings</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/01_Stone_Age/#18-important-mesolithic-sites">Important Mesolithic Sites</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/01_Stone_Age/">Open chapter</a>
   </div>
@@ -175,35 +200,18 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="ancient-history-05-Sixth-Century-BCE-md" aria-label="Mark Topic 5 — Sixth Century BCE done">
     <span class="ct-title">Topic 5 — Sixth Century BCE</span>
-    <span class="ct-pills">18 Qs · UPPCS 16 · UKPCS 2</span>
+    <span class="ct-pills">23 Qs · UPPCS 20 · UKPCS 3</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#56-rise-of-magadha">Rise of Magadha</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#54-capitals-of-mahajanapadas">Capitals of Mahajanapadas</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#complete-pyq-bank-ghatnachakra-sixth-century-bce-uppcs-ukpcs-standard">Ghatnachakra Sixth Century BCE</a> — 15 questions (UPPCS 13 · UKPCS 2)</li>
       <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#53-mahajanapadas-of-uttar-pradesh">Mahajanapadas of Uttar Pradesh</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#51-political-condition-of-sixth-century-bce">Political Condition of Sixth Century BCE</a> — 3 questions (UPPCS 1 · UKPCS 2)</li>
-      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#complete-pyq-bank-topic-5">PYQ Bank</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#59-nanda-dynasty">Nanda Dynasty</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#51a-second-urbanisation-causes-and-features">Second Urbanisation — Causes and Features</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#52-sixteen-mahajanapadas">Sixteen Mahajanapadas</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#54-capitals-of-mahajanapadas">Capitals of Mahajanapadas</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#51-political-condition-of-sixth-century-bce">Political Condition of Sixth Century BCE</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#56-rise-of-magadha">Rise of Magadha</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/05_Sixth_Century_BCE/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="ancient-history-14-Ancient-India-Miscellaneous-md" data-group="medium" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-14-Ancient-India-Miscellaneous-md" aria-label="Mark Topic 14 — Ancient India Miscellaneous done">
-    <span class="ct-title">Topic 14 — Ancient India Miscellaneous</span>
-    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/ancient%20history/14_Ancient_India_Miscellaneous/#complete-pyq-bank-this-topic-uppcs-prelims-20182025">this topic (UPPCS Prelims 2018–2025)</a> — 10 questions (UPPCS 10)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/14_Ancient_India_Miscellaneous/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="ancient-history-06-Foreign-Invasions-md" data-group="medium" data-uk="0">
@@ -223,27 +231,24 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/06_Foreign_Invasions/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="ancient-history-09-Gupta-Age-md" data-group="medium" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-09-Gupta-Age-md" aria-label="Mark Topic 9 — Gupta Age done">
-    <span class="ct-title">Topic 9 — Gupta Age</span>
-    <span class="ct-pills">6 Qs · UPPCS 6 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#94-chandragupta-ii">Chandragupta II</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#917-gupta-literature">Gupta Literature</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#98-gupta-administration-system">Gupta Administration System</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#93-samudraguptas-military-campaigns">Samudragupta&#x27;s Military Campaigns</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/09_Gupta_Age/">Open chapter</a>
-  </div>
-</details>
 </div>
 
 <h3 class="ct-group-title">Least Important</h3>
 <div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="ancient-history-14-Ancient-India-Miscellaneous-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-14-Ancient-India-Miscellaneous-md" aria-label="Mark Topic 14 — Ancient India Miscellaneous done">
+    <span class="ct-title">Topic 14 — Ancient India Miscellaneous</span>
+    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/14_Ancient_India_Miscellaneous/#complete-pyq-bank-this-topic-uppcs-prelims-20182025">this topic (UPPCS Prelims 2018–2025)</a> — 10 questions (UPPCS 10)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/14_Ancient_India_Miscellaneous/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="ancient-history-11-Ancient-Indian-Administration-md" data-group="least" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="ancient-history-11-Ancient-Indian-Administration-md" aria-label="Mark Topic 11 — Ancient Indian Administration done">
@@ -276,21 +281,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/ancient%20history/12_Ancient_Indian_Economy/#125-trade-organisations-guilds-shreni">Trade Organisations / Guilds (Shreni)</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/12_Ancient_Indian_Economy/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="ancient-history-10-Post-Gupta-Period-md" data-group="least" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-10-Post-Gupta-Period-md" aria-label="Mark Topic 10 — Post-Gupta Period done">
-    <span class="ct-title">Topic 10 — Post-Gupta Period</span>
-    <span class="ct-pills">2 Qs · UPPCS 2 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/ancient%20history/10_Post_Gupta_Period/#107-hiuen-tsang">Hiuen Tsang</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/ancient%20history/10_Post_Gupta_Period/#101-post-gupta-age">Post-Gupta Age</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/10_Post_Gupta_Period/">Open chapter</a>
   </div>
 </details>
 </div>
@@ -371,121 +361,96 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-subject-body">
 <h3 class="ct-group-title">Highly Important</h3>
 <div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="medieval-india-07-Mughal-Empire-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-07-Mughal-Empire-md" aria-label="Mark Topic 7 — Mughal Empire done">
+    <span class="ct-title">Topic 7 — Mughal Empire</span>
+    <span class="ct-pills">146 Qs · UPPCS 130 · UKPCS 16</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#complete-pyq-bank-ghatnachakra-akbar">Ghatnachakra Akbar</a> — 39 questions (UPPCS 34 · UKPCS 5)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#complete-pyq-bank-ghatnachakra-jahangir">Ghatnachakra Jahangir</a> — 23 questions (UPPCS 21 · UKPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#complete-pyq-bank-ghatnachakra-mughal-administration">Ghatnachakra Mughal Administration</a> — 19 questions (UPPCS 18 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#complete-pyq-bank-ghatnachakra-mughal-dynasty-babur">Ghatnachakra Mughal Dynasty: Babur</a> — 18 questions (UPPCS 13 · UKPCS 5)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#complete-pyq-bank-ghatnachakra-mughal-period-miscellaneous">Ghatnachakra Mughal Period: Miscellaneous</a> — 17 questions (UPPCS 16 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#complete-pyq-bank-ghatnachakra-aurangzeb">Ghatnachakra Aurangzeb</a> — 16 questions (UPPCS 15 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#complete-pyq-bank-ghatnachakra-shah-jahan">Ghatnachakra Shah Jahan</a> — 14 questions (UPPCS 13 · UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/07_Mughal_Empire/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="medieval-india-02-Turkish-Invasions-Delhi-Sultanate-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="medieval-india-02-Turkish-Invasions-Delhi-Sultanate-md" aria-label="Mark Topic 2 — Turkish Invasions &amp; Delhi Sultanate done">
     <span class="ct-title">Topic 2 — Turkish Invasions &amp; Delhi Sultanate</span>
-    <span class="ct-pills">82 Qs · UPPCS 73 · UKPCS 9</span>
+    <span class="ct-pills">81 Qs · UPPCS 73 · UKPCS 9</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-tughlaq-dynasty-uppcs-first">Tughlaq Dynasty</a> — 20 questions (UPPCS 19 · UKPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-muslim-invasion-uppcs-first">Muslim Invasion</a> — 16 questions (UPPCS 14 · UKPCS 2)</li>
-      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-slave-dynasty-uppcs-first">Slave Dynasty</a> — 16 questions (UPPCS 15 · UKPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-khalji-dynasty-uppcs-first">Khalji Dynasty</a> — 14 questions (UPPCS 11 · UKPCS 3)</li>
-      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-delhi-sultanate-uppcs-20182025">Delhi Sultanate</a> — 11 questions (UPPCS 10 · UKPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-lodi-dynasty-uppcs-first">Lodi Dynasty</a> — 5 questions (UPPCS 4 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-ghatnachakra-tughlaq-dynasty">Ghatnachakra Tughlaq Dynasty</a> — 20 questions (UPPCS 20 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-ghatnachakra-khalji-dynasty">Ghatnachakra Khalji Dynasty</a> — 12 questions (UPPCS 10 · UKPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-ghatnachakra-muslim-invasion-of-india">Ghatnachakra Muslim Invasion of India</a> — 12 questions (UPPCS 10 · UKPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-ghatnachakra-slave-dynasty">Ghatnachakra Slave Dynasty</a> — 12 questions (UPPCS 11 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-delhi-sultanate-uppcs-20182025">Delhi Sultanate</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-ghatnachakra-lodi-dynasty">Ghatnachakra Lodi Dynasty</a> — 7 questions (UPPCS 6 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-ghatnachakra-delhi-sultanate-administration">Ghatnachakra Delhi Sultanate Administration</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-ghatnachakra-delhi-sultanate-art-and-architecture">Ghatnachakra Delhi Sultanate Art and Architecture</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="medieval-india-12-Later-Medieval-India-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="medieval-india-01-Early-Medieval-India-Regional-Kingdoms-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-12-Later-Medieval-India-md" aria-label="Mark Topic 12 — Later Medieval India done">
-    <span class="ct-title">Topic 12 — Later Medieval India</span>
-    <span class="ct-pills">36 Qs · UPPCS 32 · UKPCS 4</span>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-01-Early-Medieval-India-Regional-Kingdoms-md" aria-label="Mark Topic 1 — Early Medieval India (Regional Kingdoms) done">
+    <span class="ct-title">Topic 1 — Early Medieval India (Regional Kingdoms)</span>
+    <span class="ct-pills">64 Qs · UPPCS 58 · UKPCS 7</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#ghatnachakra-extra-drill-disintegration-of-the-mughal-empire">Disintegration of the Mughal Empire</a> — 20 questions (UPPCS 16 · UKPCS 4)</li>
-      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#ghatnachakra-extra-drill-advent-of-european-companies">Advent of European Companies</a> — 10 questions (UPPCS 10)</li>
-      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#124-english-east-india-company">English East India Company</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#127-foreign-travellers">Foreign travellers</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#125-french">French</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#129-independent-state-of-awadh">Independent State of Awadh</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#complete-pyq-bank-ghatnachakra-south-india-chola-chalukya-pallava-and-sangam-period">Ghatnachakra South India (Chola, Chalukya, Pallava and Sangam Period)</a> — 31 questions (UPPCS 29 · UKPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#complete-pyq-bank-ghatnachakra-pre-medieval-period">Ghatnachakra Pre-Medieval Period</a> — 26 questions (UPPCS 23 · UKPCS 4)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#12-major-dynasties-rulers-of-south-india">Major Dynasties &amp; Rulers of South India</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#16-chola-empire">Chola Empire</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#122-ghatnachakra-core-facts-south-india-pre-medieval-dynasties-lock-table">Ghatnachakra Core Facts — South India &amp; Pre-Medieval Dynasties Lock Table</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#118-hoysala-dynasty">Hoysala Dynasty</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#112-pala-dynasty">Pala Dynasty</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#13-pallava-dynasty">Pallava Dynasty</a> — 1 question (UPPCS 1)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/12_Later_Medieval_India/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="medieval-india-04-Bhakti-Sufi-Movements-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="medieval-india-04-Bhakti-Sufi-Movements-md" aria-label="Mark Topic 4 — Bhakti &amp; Sufi Movements done">
     <span class="ct-title">Topic 4 — Bhakti &amp; Sufi Movements</span>
-    <span class="ct-pills">29 Qs · UPPCS 25 · UKPCS 5</span>
+    <span class="ct-pills">49 Qs · UPPCS 45 · UKPCS 4</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/#ghatnachakra-extra-drill-bhakti-sufi-uppcs-first">Bhakti &amp; Sufi</a> — 21 questions (UPPCS 17 · UKPCS 5)</li>
-      <li><a href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/#47-guru-nanak">Guru Nanak</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/#414-moinuddin-chishti-chishti-order">Moinuddin Chishti &amp; Chishti Order</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/#42-major-bhakti-saints-master-table">Major Bhakti Saints — Master Table</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/#410-mirabai-bhakti-women-poets">Mirabai &amp; Bhakti Women Poets</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/#412-nath-sect-nathpanthis-related-ascetic-groups">Nath Sect (Nathpanthis) &amp; Related Ascetic Groups</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/#415-nizamuddin-auliya">Nizamuddin Auliya</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/#complete-pyq-bank-ghatnachakra-bhakti-and-sufi-movement">Ghatnachakra Bhakti and Sufi Movement</a> — 49 questions (UPPCS 45 · UKPCS 4)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="medieval-india-03-Regional-Kingdoms-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-03-Regional-Kingdoms-md" aria-label="Mark Topic 3 — Regional Kingdoms (Sharqi, Kashmir, Vijayanagara, Bahmani &amp; Deccan) done">
-    <span class="ct-title">Topic 3 — Regional Kingdoms (Sharqi, Kashmir, Vijayanagara, Bahmani &amp; Deccan)</span>
-    <span class="ct-pills">21 Qs · UPPCS 18 · UKPCS 5</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#ghatnachakra-extra-drill-provincial-dynasties-uppcs-first-then-others">Provincial Dynasties (UPPCS first, then others)</a> — 15 questions (UPPCS 12 · UKPCS 5)</li>
-      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#31-sharqi-sultanate-jaunpur">Sharqi Sultanate (Jaunpur)</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#32a-gujarat-sultanate">Gujarat Sultanate</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#32-kashmir-under-zain-ul-abidin">Kashmir under Zain-ul-Abidin</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#complete-pyq-bank-topic-3">PYQ Bank</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#33-vijayanagara-empire">Vijayanagara Empire</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/03_Regional_Kingdoms/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="medieval-india-07-Mughal-Empire-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-07-Mughal-Empire-md" aria-label="Mark Topic 7 — Mughal Empire done">
-    <span class="ct-title">Topic 7 — Mughal Empire</span>
-    <span class="ct-pills">20 Qs · UPPCS 16 · UKPCS 4</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#ghatnachakra-extra-drill-babur-to-aurangzeb-uppcs-first">Babur to Aurangzeb</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#73-humayun">Humayun</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#ukpcs-mughal-stems">Mughal</a> — 3 questions (UKPCS 3)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#712-aurangzeb-succession-campaigns">Aurangzeb — Succession &amp; Campaigns</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#74-administration-mansabdari">Administration &amp; Mansabdari</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#78-akbar-expansion-rajput-policy-religion">Akbar — Expansion, Rajput Policy, Religion</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#71-babur-foundation-literature">Babur — Foundation &amp; Literature</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#76-currency">Currency</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#710-jahangir-nur-jahan">Jahangir &amp; Nur Jahan</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#714-later-mughals-17071857">Later Mughals (1707–1857)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#complete-pyq-bank-topic-7">PYQ Bank</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#711-shah-jahan-dara-shikoh">Shah Jahan &amp; Dara Shikoh</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/07_Mughal_Empire/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="medieval-india-05-Medieval-Literature-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="medieval-india-05-Medieval-Literature-md" aria-label="Mark Topic 5 — Medieval Literature done">
     <span class="ct-title">Topic 5 — Medieval Literature</span>
-    <span class="ct-pills">8 Qs · UPPCS 7 · UKPCS 1</span>
+    <span class="ct-pills">38 Qs · UPPCS 33 · UKPCS 6</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#55-amir-khusrau-12531325">Amir Khusrau (1253–1325)</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#complete-pyq-bank-ghatnachakra-mughal-literature">Ghatnachakra Mughal Literature</a> — 17 questions (UPPCS 16 · UKPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#complete-pyq-bank-ghatnachakra-delhi-sultanate-literature">Ghatnachakra Delhi Sultanate Literature</a> — 13 questions (UPPCS 10 · UKPCS 3)</li>
+      <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#55-amir-khusrau-12531325">Amir Khusrau (1253–1325)</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
       <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#59-akbarnama-ain-i-akbari-abul-fazl">Akbarnama &amp; Ain-i-Akbari (Abul Fazl)</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#58-baburnama-tuzk-e-babri">Baburnama (Tuzk-e-Babri)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#53-delhi-sultanate-literature">Delhi Sultanate Literature</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#complete-pyq-bank-topic-5">PYQ Bank</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#57-tarikh-i-firoz-shahi-tabaqat-i-nasiri">Tarikh-i-Firoz Shahi &amp; Tabaqat-i-Nasiri</a> — 1 question (UPPCS 1)</li>
     </ul>
@@ -496,15 +461,12 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="medieval-india-08-Sher-Shah-Suri-md" aria-label="Mark Topic 8 — Sher Shah Suri done">
     <span class="ct-title">Topic 8 — Sher Shah Suri</span>
-    <span class="ct-pills">7 Qs · UPPCS 7 · UKPCS 0</span>
+    <span class="ct-pills">14 Qs · UPPCS 12 · UKPCS 2</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/08_Sher_Shah_Suri/#complete-pyq-bank-topic-8">PYQ Bank</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/medieval%20india/08_Sher_Shah_Suri/#85-currency-reforms">Currency Reforms</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/08_Sher_Shah_Suri/#81-life-rise-reign">Life, Rise, Reign</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/08_Sher_Shah_Suri/#83-revenue-reforms">Revenue Reforms</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/08_Sher_Shah_Suri/#complete-pyq-bank-ghatnachakra-humayun-and-sher-shah-suri">Ghatnachakra Humayun and Sher Shah Suri</a> — 14 questions (UPPCS 12 · UKPCS 2)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/08_Sher_Shah_Suri/">Open chapter</a>
   </div>
@@ -513,37 +475,52 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
 
 <h3 class="ct-group-title">Medium Important</h3>
 <div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="medieval-india-03-Regional-Kingdoms-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-03-Regional-Kingdoms-md" aria-label="Mark Topic 3 — Regional Kingdoms (Sharqi, Kashmir, Vijayanagara, Bahmani &amp; Deccan) done">
+    <span class="ct-title">Topic 3 — Regional Kingdoms (Sharqi, Kashmir, Vijayanagara, Bahmani &amp; Deccan)</span>
+    <span class="ct-pills">36 Qs · UPPCS 28 · UKPCS 8</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#complete-pyq-bank-ghatnachakra-provincial-dynasties-of-north-india-and-deccan">Ghatnachakra Provincial Dynasties of North India and Deccan</a> — 23 questions (UPPCS 20 · UKPCS 3)</li>
+      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#complete-pyq-bank-ghatnachakra-vijayanagara-empire">Ghatnachakra Vijayanagara Empire</a> — 13 questions (UPPCS 8 · UKPCS 5)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/03_Regional_Kingdoms/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="medieval-india-12-Later-Medieval-India-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-12-Later-Medieval-India-md" aria-label="Mark Topic 12 — Later Medieval India done">
+    <span class="ct-title">Topic 12 — Later Medieval India</span>
+    <span class="ct-pills">34 Qs · UPPCS 30 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#complete-pyq-bank-ghatnachakra-disintegration-of-the-mughal-empire">Ghatnachakra Disintegration of the Mughal Empire</a> — 18 questions (UPPCS 14 · UKPCS 4)</li>
+      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#ghatnachakra-extra-drill-advent-of-european-companies">Advent of European Companies</a> — 10 questions (UPPCS 10)</li>
+      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#124-english-east-india-company">English East India Company</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#127-foreign-travellers">Foreign travellers</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#125-french">French</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#129-independent-state-of-awadh">Independent State of Awadh</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/12_Later_Medieval_India/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="medieval-india-11-Marathas-md" data-group="medium" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="medieval-india-11-Marathas-md" aria-label="Mark Topic 11 — Marathas done">
     <span class="ct-title">Topic 11 — Marathas</span>
-    <span class="ct-pills">18 Qs · UPPCS 18 · UKPCS 0</span>
+    <span class="ct-pills">27 Qs · UPPCS 25 · UKPCS 3</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/11_Marathas/#ghatnachakra-extra-drill-maratha-state-confederacy">Maratha State &amp; Confederacy</a> — 13 questions (UPPCS 13)</li>
-      <li><a href="../subjects/medieval%20india/11_Marathas/#complete-pyq-bank-topic-11">PYQ Bank</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/medieval%20india/11_Marathas/#111-maratha-empire-phases">Maratha Empire — Phases</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/11_Marathas/#114-revenue-chauth-sardeshmukhi">Revenue — Chauth &amp; Sardeshmukhi</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/11_Marathas/#complete-pyq-bank-ghatnachakra-state-pcs-marathas">Ghatnachakra &amp; State PCS Marathas</a> — 27 questions (UPPCS 25 · UKPCS 3)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/11_Marathas/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="medieval-india-10-Sikhism-md" data-group="medium" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-10-Sikhism-md" aria-label="Mark Topic 10 — Sikhism done">
-    <span class="ct-title">Topic 10 — Sikhism</span>
-    <span class="ct-pills">13 Qs · UPPCS 9 · UKPCS 4</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/10_Sikhism/#ghatnachakra-extra-drill-sikh-sect">Sikh Sect</a> — 10 questions (UPPCS 6 · UKPCS 4)</li>
-      <li><a href="../subjects/medieval%20india/10_Sikhism/#102-guru-tradition">Guru Tradition</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/medieval%20india/10_Sikhism/#106-guru-gobind-singh">Guru Gobind Singh</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/10_Sikhism/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="medieval-india-09-Rajputs-md" data-group="medium" data-uk="0">
@@ -555,9 +532,11 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/09_Rajputs/#96-chittor-two-sieges">Chittor — Two Sieges</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/medieval%20india/09_Rajputs/#complete-pyq-bank-topic-9">PYQ Bank</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/09_Rajputs/#95-battle-of-haldighati">Battle of Haldighati</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/09_Rajputs/#96-chittor-two-sieges">Chittor — Two Sieges</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/09_Rajputs/#complete-pyq-bank-topic-9">PYQ Bank</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/medieval%20india/09_Rajputs/#92-rajput-states-ruler-match">Rajput States — Ruler Match</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/09_Rajputs/#91-rajput-warriors">Rajput Warriors</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/09_Rajputs/">Open chapter</a>
   </div>
@@ -566,22 +545,18 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
 
 <h3 class="ct-group-title">Least Important</h3>
 <div class="ct-list ct-list--least">
-<details class="ct-row" data-ct-id="medieval-india-01-Early-Medieval-India-Regional-Kingdoms-md" data-group="least" data-uk="0">
+<details class="ct-row" data-ct-id="medieval-india-10-Sikhism-md" data-group="least" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-01-Early-Medieval-India-Regional-Kingdoms-md" aria-label="Mark Topic 1 — Early Medieval India (Regional Kingdoms) done">
-    <span class="ct-title">Topic 1 — Early Medieval India (Regional Kingdoms)</span>
-    <span class="ct-pills">7 Qs · UPPCS 6 · UKPCS 1</span>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-10-Sikhism-md" aria-label="Mark Topic 10 — Sikhism done">
+    <span class="ct-title">Topic 10 — Sikhism</span>
+    <span class="ct-pills">14 Qs · UPPCS 10 · UKPCS 5</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#12-major-dynasties-rulers-of-south-india">Major Dynasties &amp; Rulers of South India</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#13-pallava-dynasty">Pallava Dynasty</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#16-chola-empire">Chola Empire</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#119-kakatiya-dynasty">Kakatiya Dynasty</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#112-pala-dynasty">Pala Dynasty</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/10_Sikhism/#complete-pyq-bank-ghatnachakra-state-pcs-sikhism">Ghatnachakra &amp; State PCS Sikhism</a> — 14 questions (UPPCS 10 · UKPCS 5)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/10_Sikhism/">Open chapter</a>
   </div>
 </details>
 </div>
@@ -652,132 +627,145 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-subject-body">
 <h3 class="ct-group-title">Highly Important</h3>
 <div class="ct-list ct-list--high">
-<details class="ct-row" data-ct-id="mordern-india-10-Books-and-Authors-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="mordern-india-09-Rise-of-Nationalism-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-10-Books-and-Authors-md" aria-label="Mark Topic 10 — Books &amp; Authors done">
-    <span class="ct-title">Topic 10 — Books &amp; Authors</span>
-    <span class="ct-pills">32 Qs · UPPCS 8 · UKPCS 25</span>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-09-Rise-of-Nationalism-md" aria-label="Mark Topic 9 — Rise of Nationalism done">
+    <span class="ct-title">Topic 9 — Rise of Nationalism</span>
+    <span class="ct-pills">94 Qs · UPPCS 86 · UKPCS 10</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#ghatnachakra-extra-drill-magazines-books-and-authors">Magazines, Books and Authors</a> — 29 questions (UPPCS 5 · UKPCS 25)</li>
-      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#1010-books-on-freedom-movement-and-political-books">Books on Freedom Movement and Political Books</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#1013-history-books-and-historiography">History Books and Historiography</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#103-poverty-and-un-british-rule-in-india">Poverty and Un-British Rule in India</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#complete-pyq-bank-ghatnachakra-indian-national-congress-82-questions">Ghatnachakra Indian National Congress (82 Questions)</a> — 30 questions (UPPCS 27 · UKPCS 5)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#complete-pyq-bank-ghatnachakra-moderates-and-extremists-in-congress-40-questions">Ghatnachakra Moderates and Extremists in Congress (40 Questions)</a> — 14 questions (UPPCS 12 · UKPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#complete-pyq-bank">PYQ Bank</a> — 14 questions (UPPCS 14)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#complete-pyq-bank-ghatnachakra-congress-benaras-calcutta-surat-26-questions">Ghatnachakra Congress: Benaras, Calcutta, Surat (26 Questions)</a> — 10 questions (UPPCS 8 · UKPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#94-congress-presidents-and-sessions">Congress Presidents and Sessions</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#93-establishment-of-the-indian-national-congress">Establishment of the Indian National Congress</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#complete-pyq-bank-ghatnachakra-delhi-durbar-and-change-of-capital-11-questions">Ghatnachakra Delhi Durbar and Change of Capital (11 Questions)</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#99-dadabhai-naoroji">Dadabhai Naoroji</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#910-freedom-leaders-of-the-early-nationalist-phase">Freedom Leaders of the Early Nationalist Phase</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#complete-pyq-bank-ghatnachakra-formation-of-muslim-league-1906-12-questions">Ghatnachakra Formation of Muslim League (1906) (12 Questions)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#96-moderates-naram-dal">Moderates (Naram Dal)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#92-political-organisations-before-inc">Political Organisations before INC</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#98-bal-gangadhar-tilak">Bal Gangadhar Tilak</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#90-one-clear-picture-the-arc-of-nationalism">One clear picture — the arc of nationalism</a> — 1 question (UPPCS 1)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/10_Books_and_Authors/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/09_Rise_of_Nationalism/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="mordern-india-11-Swadeshi-and-Revolutionary-Movement-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" aria-label="Mark Topic 2 — East India Company Expansion done">
-    <span class="ct-title">Topic 2 — East India Company Expansion</span>
-    <span class="ct-pills">24 Qs · UPPCS 22 · UKPCS 3</span>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-11-Swadeshi-and-Revolutionary-Movement-md" aria-label="Mark Topic 11 — Swadeshi &amp; Revolutionary Movement done">
+    <span class="ct-title">Topic 11 — Swadeshi &amp; Revolutionary Movement</span>
+    <span class="ct-pills">66 Qs · UPPCS 59 · UKPCS 8</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#ghatnachakra-extra-drill-regional-states-punjab-mysore">Regional States: Punjab &amp; Mysore</a> — 7 questions (UPPCS 6 · UKPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#211-anglo-maratha-wars">Anglo-Maratha Wars</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#ghatnachakra-extra-drill-eic-nawabs-of-bengal">EIC &amp; Nawabs of Bengal</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#210-anglo-mysore-wars-and-mysore-state">Anglo-Mysore Wars and Mysore State</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#213-anglo-nepal-war-and-treaty-of-sugauli-1816">Anglo-Nepal War and Treaty of Sugauli, 1816</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#29-doctrine-of-lapse-and-awadh-1856">Doctrine of Lapse and Awadh 1856</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#22-battle-of-plassey-23-june-1757">Battle of Plassey, 23 June 1757</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#23-from-mir-qasim-to-buxar-and-the-treaty-of-allahabad">From Mir Qasim to Buxar and the Treaty of Allahabad</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#212-sikh-empire-anglo-sikh-wars-treaty-of-lahore-punjab-annexation">Sikh Empire, Anglo-Sikh Wars, Treaty of Lahore, Punjab Annexation</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#26-warren-hastings-expansion-only">Warren Hastings (expansion only)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#complete-pyq-bank-ghatnachakra-revolutionary-movements-in-india-92-questions">Ghatnachakra Revolutionary Movements in India (92 Questions)</a> — 33 questions (UPPCS 29 · UKPCS 4)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#complete-pyq-bank-ghatnachakra-revolutionary-activities-outside-india-41-questions">Ghatnachakra Revolutionary Activities Outside India (41 Questions)</a> — 15 questions (UPPCS 14 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#complete-pyq-bank-ghatnachakra-partition-of-bengal-and-swadeshi-movement-31-questions">Ghatnachakra Partition of Bengal and Swadeshi Movement (31 Questions)</a> — 10 questions (UPPCS 8 · UKPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#112-partition-of-bengal-1905">Partition of Bengal (1905)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#118-abhinav-bharat-and-india-house">Abhinav Bharat and India House</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#116-anushilan-samiti">Anushilan Samiti</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#114-delhi-durbar-1877-and-1911">Delhi Durbar — 1877 and 1911</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#1110-ghadar-party">Ghadar Party</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#1113-hindustan-socialist-republican-association-hsra">Hindustan Socialist Republican Association (HSRA)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#1116-other-revolutionary-events">Other Revolutionary Events</a> — 1 question (UPPCS 1)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/02_East_India_Company_Expansion/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="mordern-india-03-Governors-General-and-Viceroys-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="mordern-india-03-Governors-General-and-Viceroys-md" aria-label="Mark Topic 3 — Governors-General &amp; Viceroys done">
     <span class="ct-title">Topic 3 — Governors-General &amp; Viceroys</span>
-    <span class="ct-pills">17 Qs · UPPCS 17 · UKPCS 0</span>
+    <span class="ct-pills">61 Qs · UPPCS 55 · UKPCS 7</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#339-lord-chelmsford-19161921">Lord Chelmsford (1916–1921)</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#321-lord-dalhousie-18481856">Lord Dalhousie (1848–1856)</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#34-warren-hastings-17721785">Warren Hastings (1772–1785)</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#324-government-of-india-act-1858">Government of India Act, 1858</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#335-lord-curzon-18991905">Lord Curzon (1899–1905)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#332-lord-dufferin-18841888">Lord Dufferin (1884–1888)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#338-lord-hardinge-ii-19101916">Lord Hardinge II (1910–1916)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#333-lord-lansdowne-18881894">Lord Lansdowne (1888–1894)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#345-lord-linlithgow-19361943">Lord Linlithgow (1936–1943)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#330-lord-lytton-18761880">Lord Lytton (1876–1880)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#316-lord-macaulay">Lord Macaulay</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#346-lord-wavell-19431947">Lord Wavell (1943–1947)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#39-lord-wellesley-वलजल-17981805">Lord Wellesley (वेलेज़ली) (1798–1805)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#complete-pyq-bank-ghatnachakra-governors-governor-generals-and-viceroys">Ghatnachakra Governors, Governor-Generals and Viceroys</a> — 61 questions (UPPCS 55 · UKPCS 7)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="mordern-india-15-Post-Independence-India-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-15-Post-Independence-India-md" aria-label="Mark Topic 15 — Post-Independence India done">
-    <span class="ct-title">Topic 15 — Post-Independence India</span>
-    <span class="ct-pills">14 Qs · UPPCS 13 · UKPCS 1</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#153-constitution-making">Constitution Making</a> — 5 questions (UPPCS 5)</li>
-      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#157-planning-commission">Planning Commission</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#156-states-reorganisation">States Reorganisation</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#155-community-development-programme-2-october-1952">Community Development Programme (2 October 1952)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#ghatnachakra-extra-drill-constituent-assembly">Constituent Assembly</a> — 1 question (UKPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#158-five-year-plans">Five-Year Plans</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#152-integration-of-princely-states">Integration of Princely States</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/15_Post_Independence_India/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="mordern-india-13-Gandhian-Era-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="mordern-india-13-Gandhian-Era-md" aria-label="Mark Topic 13 — Gandhian Era (1915–1948) done">
     <span class="ct-title">Topic 13 — Gandhian Era (1915–1948)</span>
-    <span class="ct-pills">12 Qs · UPPCS 10 · UKPCS 2</span>
+    <span class="ct-pills">59 Qs · UPPCS 48 · UKPCS 12</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-gandhi-and-his-early-movements-106-questions">Ghatnachakra Gandhi and His Early Movements (106 Questions)</a> — 29 questions (UPPCS 23 · UKPCS 6)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-rowlatt-act-and-jallianwala-bagh-massacre-1919-39-questions">Ghatnachakra Rowlatt Act and Jallianwala Bagh Massacre (1919) (39 Questions)</a> — 12 questions (UPPCS 10 · UKPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-khilafat-movement-17-questions">Ghatnachakra Khilafat Movement (17 Questions)</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
       <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#136-jallianwala-bagh-13-april-1919">Jallianwala Bagh (13 April 1919)</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1314-civil-disobedience-movement-and-dandi-march">Civil Disobedience Movement and Dandi March</a> — 2 questions (UPPCS 2)</li>
       <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#ghatnachakra-extra-drill-gandhiirwin-karachi-rtc-poona-pact">Gandhi–Irwin, Karachi, RTC, Poona Pact</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#131-indian-national-movement-chronology-gandhian-phase">Indian National Movement Chronology (Gandhian phase)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1314-civil-disobedience-movement-and-dandi-march">Civil Disobedience Movement and Dandi March</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1317-communal-award-and-poona-pact">Communal Award and Poona Pact</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1318-gandhis-constructive-programme">Gandhi&#x27;s Constructive Programme</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#131-indian-national-movement-chronology-gandhian-phase">Indian National Movement Chronology (Gandhian phase)</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1311-nehru-report-1928">Nehru Report (1928)</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1315-round-table-conferences">Round Table Conferences</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/13_Gandhian_Era/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="mordern-india-07-Education-and-Press-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" aria-label="Mark Topic 8 — Peasant, Tribal &amp; Labour Movements done">
-    <span class="ct-title">Topic 8 — Peasant, Tribal &amp; Labour Movements</span>
-    <span class="ct-pills">11 Qs · UPPCS 11 · UKPCS 0</span>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-07-Education-and-Press-md" aria-label="Mark Topic 7 — Education &amp; Press done">
+    <span class="ct-title">Topic 7 — Education &amp; Press</span>
+    <span class="ct-pills">51 Qs · UPPCS 44 · UKPCS 7</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#814-labour-movement-trade-union-congress-and-labour-organisations">Labour Movement, Trade Union Congress and Labour Organisations</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#89-tribal-revolts-and-tribal-leaders">Tribal Revolts and Tribal Leaders</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#81-early-uprisings-chronology">Early Uprisings Chronology</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#84-indigo-revolt-185960">Indigo Revolt (1859–60)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#810-moplah-rebellion-1921">Moplah Rebellion (1921)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#ghatnachakra-extra-drill-other-civil-uprisings">Other Civil Uprisings</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#complete-pyq-bank-ghatnachakra-development-of-press-72-questions">Ghatnachakra Development of Press (72 Questions)</a> — 28 questions (UPPCS 27 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#complete-pyq-bank-ghatnachakra-development-of-education-42-questions">Ghatnachakra Development of Education (42 Questions)</a> — 17 questions (UPPCS 12 · UKPCS 5)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#715-asiatic-society-of-bengal">Asiatic Society of Bengal</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#714-educational-centres-and-teachers">Educational Centres and Teachers</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#713-national-education-movement-and-the-national-council-of-education-1906">National Education Movement and the National Council of Education, 1906</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#717-newspapers-and-journals">Newspapers and Journals</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#75-woods-despatch-1854">Wood&#x27;s Despatch, 1854</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/07_Education_and_Press/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" aria-label="Mark Topic 8 — Peasant, Tribal &amp; Labour Movements done">
+    <span class="ct-title">Topic 8 — Peasant, Tribal &amp; Labour Movements</span>
+    <span class="ct-pills">38 Qs · UPPCS 35 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#complete-pyq-bank-ghatnachakra-other-civil-tribal-uprisings-89-questions">Ghatnachakra Other Civil &amp; Tribal Uprisings (89 Questions)</a> — 20 questions (UPPCS 18 · UKPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#complete-pyq-bank-ghatnachakra-peasant-movement-and-kisan-sabha-38-questions">Ghatnachakra Peasant Movement and Kisan Sabha (38 Questions)</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#814-labour-movement-trade-union-congress-and-labour-organisations">Labour Movement, Trade Union Congress and Labour Organisations</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#84-indigo-revolt-185960">Indigo Revolt (1859–60)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#86-santhal-rebellion-185556">Santhal Rebellion (1855–56)</a> — 2 questions (UPPCS 2)</li>
       <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#83-peasant-leaders">Peasant Leaders</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#86-santhal-rebellion-185556">Santhal Rebellion (1855–56)</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-05-Revolt-of-1857-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-05-Revolt-of-1857-md" aria-label="Mark Topic 5 — Revolt of 1857 done">
+    <span class="ct-title">Topic 5 — Revolt of 1857</span>
+    <span class="ct-pills">28 Qs · UPPCS 22 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#complete-pyq-bank-ghatnachakra-revolt-of-1857">Ghatnachakra Revolt of 1857</a> — 28 questions (UPPCS 22 · UKPCS 6)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/05_Revolt_of_1857/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="mordern-india-14-Final-Phase-of-Freedom-Struggle-md" data-group="high" data-uk="0">
@@ -802,130 +790,132 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="mordern-india-11-Swadeshi-and-Revolutionary-Movement-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-11-Swadeshi-and-Revolutionary-Movement-md" aria-label="Mark Topic 11 — Swadeshi &amp; Revolutionary Movement done">
-    <span class="ct-title">Topic 11 — Swadeshi &amp; Revolutionary Movement</span>
-    <span class="ct-pills">8 Qs · UPPCS 8 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#112-partition-of-bengal-1905">Partition of Bengal (1905)</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#118-abhinav-bharat-and-india-house">Abhinav Bharat and India House</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#116-anushilan-samiti">Anushilan Samiti</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#114-delhi-durbar-1877-and-1911">Delhi Durbar — 1877 and 1911</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#1110-ghadar-party">Ghadar Party</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#1113-hindustan-socialist-republican-association-hsra">Hindustan Socialist Republican Association (HSRA)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#1116-other-revolutionary-events">Other Revolutionary Events</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="mordern-india-05-Revolt-of-1857-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-05-Revolt-of-1857-md" aria-label="Mark Topic 5 — Revolt of 1857 done">
-    <span class="ct-title">Topic 5 — Revolt of 1857</span>
-    <span class="ct-pills">8 Qs · UPPCS 7 · UKPCS 1</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#ghatnachakra-extra-drill-revolt-of-1857">Revolt of 1857</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#53-beginning-of-revolt-mangal-pandey-and-meerut">Beginning of Revolt — Mangal Pandey and Meerut</a> — 1 question (UKPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#54-centres-of-revolt">Centres of Revolt</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#511-kunwar-singh">Kunwar Singh</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#55-leaders-of-revolt">Leaders of Revolt</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#514-role-of-awadh">Role of Awadh</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/05_Revolt_of_1857/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="mordern-india-09-Rise-of-Nationalism-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-09-Rise-of-Nationalism-md" aria-label="Mark Topic 9 — Rise of Nationalism done">
-    <span class="ct-title">Topic 9 — Rise of Nationalism</span>
-    <span class="ct-pills">8 Qs · UPPCS 8 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#93-establishment-of-the-indian-national-congress">Establishment of the Indian National Congress</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#98-bal-gangadhar-tilak">Bal Gangadhar Tilak</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#94-congress-presidents-and-sessions">Congress Presidents and Sessions</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#99-dadabhai-naoroji">Dadabhai Naoroji</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#910-freedom-leaders-of-the-early-nationalist-phase">Freedom Leaders of the Early Nationalist Phase</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#96-moderates-naram-dal">Moderates (Naram Dal)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#92-political-organisations-before-inc">Political Organisations before INC</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/09_Rise_of_Nationalism/">Open chapter</a>
-  </div>
-</details>
 </div>
 
 <h3 class="ct-group-title">Medium Important</h3>
 <div class="ct-list ct-list--medium">
-<details class="ct-row" data-ct-id="mordern-india-04-British-Administration-and-Economy-md" data-group="medium" data-uk="0">
+<details class="ct-row" data-ct-id="mordern-india-10-Books-and-Authors-md" data-group="medium" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-04-British-Administration-and-Economy-md" aria-label="Mark Topic 4 — British Administration &amp; Economy done">
-    <span class="ct-title">Topic 4 — British Administration &amp; Economy</span>
-    <span class="ct-pills">9 Qs · UPPCS 9 · UKPCS 0</span>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-10-Books-and-Authors-md" aria-label="Mark Topic 10 — Books &amp; Authors done">
+    <span class="ct-title">Topic 10 — Books &amp; Authors</span>
+    <span class="ct-pills">32 Qs · UPPCS 8 · UKPCS 25</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#411-drain-of-wealth-theory">Drain of Wealth Theory</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#ghatnachakra-extra-drill-economic-impact-of-british-rule">Economic Impact of British Rule</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#47-british-land-revenue-systems">British Land Revenue Systems</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#412-commercialization-of-agriculture">Commercialization of Agriculture</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#45-local-administration">Local Administration</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#48-permanent-settlement-1793">Permanent Settlement, 1793</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#ghatnachakra-extra-drill-magazines-books-and-authors">Magazines, Books and Authors</a> — 29 questions (UPPCS 5 · UKPCS 25)</li>
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#1010-books-on-freedom-movement-and-political-books">Books on Freedom Movement and Political Books</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#1013-history-books-and-historiography">History Books and Historiography</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#103-poverty-and-un-british-rule-in-india">Poverty and Un-British Rule in India</a> — 1 question (UPPCS 1)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/04_British_Administration_and_Economy/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/10_Books_and_Authors/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="mordern-india-06-Socio-Religious-Reform-Movements-md" data-group="medium" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="mordern-india-06-Socio-Religious-Reform-Movements-md" aria-label="Mark Topic 6 — Socio-Religious Reform Movements done">
     <span class="ct-title">Topic 6 — Socio-Religious Reform Movements</span>
-    <span class="ct-pills">8 Qs · UPPCS 7 · UKPCS 1</span>
+    <span class="ct-pills">30 Qs · UPPCS 23 · UKPCS 7</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#complete-pyq-bank-ghatnachakra-socio-religious-reform-movements-questions-193">Ghatnachakra Socio-Religious Reform Movements (Questions 1–93)</a> — 22 questions (UPPCS 16 · UKPCS 6)</li>
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#611-brahmo-samaj">Brahmo Samaj</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
       <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#65-behramji-malabari">Behramji Malabari</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#69-bengal-reform-movements">Bengal Reform Movements</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#63-jyotiba-phule">Jyotiba Phule</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#68-major-socio-religious-institutions">Major Socio-Religious Institutions</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#61-raja-ram-mohan-roy">Raja Ram Mohan Roy</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#64-satyashodhak-samaj">Satyashodhak Samaj</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#626-self-respect-movement-and-ev-ramaswami-naicker-periyar">Self-Respect Movement and E.V. Ramaswami Naicker (Periyar)</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#610-social-reformers-and-their-titles">Social Reformers and Their Titles</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#ghatnachakra-extra-drill-socio-religious-movements">Socio-Religious Movements</a> — 1 question (UKPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" aria-label="Mark Topic 12 — Home Rule &amp; Labour Politics done">
+    <span class="ct-title">Topic 12 — Home Rule &amp; Labour Politics</span>
+    <span class="ct-pills">25 Qs · UPPCS 23 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-trade-union-and-communist-party-16-questions">Ghatnachakra Trade Union and Communist Party (16 Questions)</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-home-rule-league-movement-13-questions">Ghatnachakra Home Rule League Movement (13 Questions)</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-lucknow-session-of-congress-the-lucknow-pact-10-questions">Ghatnachakra Lucknow Session of Congress (The Lucknow Pact) (10 Questions)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#1210-congress-socialist-party">Congress Socialist Party</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-morley-minto-reforms-4-questions">Ghatnachakra Morley-Minto Reforms (4 Questions)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#128-labour-politics-aituc-and-the-party-map">Labour Politics — AITUC and the Party Map</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#121-home-rule-movement">Home Rule Movement</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#129-left-parties">Left Parties</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#1211-regional-parties">Regional Parties</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" aria-label="Mark Topic 2 — East India Company Expansion done">
+    <span class="ct-title">Topic 2 — East India Company Expansion</span>
+    <span class="ct-pills">24 Qs · UPPCS 22 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#ghatnachakra-extra-drill-regional-states-punjab-mysore">Regional States: Punjab &amp; Mysore</a> — 7 questions (UPPCS 6 · UKPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#211-anglo-maratha-wars">Anglo-Maratha Wars</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#ghatnachakra-extra-drill-eic-nawabs-of-bengal">EIC &amp; Nawabs of Bengal</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#210-anglo-mysore-wars-and-mysore-state">Anglo-Mysore Wars and Mysore State</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#213-anglo-nepal-war-and-treaty-of-sugauli-1816">Anglo-Nepal War and Treaty of Sugauli, 1816</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#29-doctrine-of-lapse-and-awadh-1856">Doctrine of Lapse and Awadh 1856</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#22-battle-of-plassey-23-june-1757">Battle of Plassey, 23 June 1757</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#23-from-mir-qasim-to-buxar-and-the-treaty-of-allahabad">From Mir Qasim to Buxar and the Treaty of Allahabad</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#212-sikh-empire-anglo-sikh-wars-treaty-of-lahore-punjab-annexation">Sikh Empire, Anglo-Sikh Wars, Treaty of Lahore, Punjab Annexation</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#26-warren-hastings-expansion-only">Warren Hastings (expansion only)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/02_East_India_Company_Expansion/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-04-British-Administration-and-Economy-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-04-British-Administration-and-Economy-md" aria-label="Mark Topic 4 — British Administration &amp; Economy done">
+    <span class="ct-title">Topic 4 — British Administration &amp; Economy</span>
+    <span class="ct-pills">20 Qs · UPPCS 19 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#complete-pyq-bank-ghatnachakra-economic-impact-of-british-rule">Ghatnachakra Economic Impact of British Rule</a> — 17 questions (UPPCS 16 · UKPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#411-drain-of-wealth-theory">Drain of Wealth Theory</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#45-local-administration">Local Administration</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#48-permanent-settlement-1793">Permanent Settlement, 1793</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/04_British_Administration_and_Economy/">Open chapter</a>
   </div>
 </details>
 </div>
 
 <h3 class="ct-group-title">Least Important</h3>
 <div class="ct-list ct-list--least">
-<details class="ct-row" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" data-group="least" data-uk="0">
+<details class="ct-row" data-ct-id="mordern-india-15-Post-Independence-India-md" data-group="least" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" aria-label="Mark Topic 12 — Home Rule &amp; Labour Politics done">
-    <span class="ct-title">Topic 12 — Home Rule &amp; Labour Politics</span>
-    <span class="ct-pills">8 Qs · UPPCS 7 · UKPCS 1</span>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-15-Post-Independence-India-md" aria-label="Mark Topic 15 — Post-Independence India done">
+    <span class="ct-title">Topic 15 — Post-Independence India</span>
+    <span class="ct-pills">14 Qs · UPPCS 13 · UKPCS 1</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#128-labour-politics-aituc-and-the-party-map">Labour Politics — AITUC and the Party Map</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#129-left-parties">Left Parties</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#1210-congress-socialist-party">Congress Socialist Party</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#121-home-rule-movement">Home Rule Movement</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#1211-regional-parties">Regional Parties</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#ghatnachakra-extra-drill-trade-union-and-communist-party">Trade Union and Communist Party</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#153-constitution-making">Constitution Making</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#157-planning-commission">Planning Commission</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#156-states-reorganisation">States Reorganisation</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#155-community-development-programme-2-october-1952">Community Development Programme (2 October 1952)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#ghatnachakra-extra-drill-constituent-assembly">Constituent Assembly</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#158-five-year-plans">Five-Year Plans</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#152-integration-of-princely-states">Integration of Princely States</a> — 1 question (UPPCS 1)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/15_Post_Independence_India/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="mordern-india-01-Advent-of-Europeans-md" data-group="least" data-uk="0">
@@ -944,24 +934,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#114-second-carnatic-war-c17491754">Second Carnatic War, c.1749–1754</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/01_Advent_of_Europeans/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="mordern-india-07-Education-and-Press-md" data-group="least" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-07-Education-and-Press-md" aria-label="Mark Topic 7 — Education &amp; Press done">
-    <span class="ct-title">Topic 7 — Education &amp; Press</span>
-    <span class="ct-pills">6 Qs · UPPCS 5 · UKPCS 1</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#715-asiatic-society-of-bengal">Asiatic Society of Bengal</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#714-educational-centres-and-teachers">Educational Centres and Teachers</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#76-hunter-commission-1882">Hunter Commission, 1882</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#717-newspapers-and-journals">Newspapers and Journals</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#ghatnachakra-extra-drill-press">Press</a> — 1 question (UKPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/07_Education_and_Press/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="mordern-india-16-Miscellaneous-UPPCS-Frequently-Asked-md" data-group="least" data-uk="0">
@@ -1086,17 +1058,17 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-03-Indian-Architecture-md" aria-label="Mark Topic 3 — Indian Architecture done">
     <span class="ct-title">Topic 3 — Indian Architecture</span>
-    <span class="ct-pills">44 Qs · UPPCS 39 · UKPCS 5</span>
+    <span class="ct-pills">47 Qs · UPPCS 43 · UKPCS 6</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#complete-pyq-bank-ghatnachakra-architecture-in-ancient-india-uppcs-ukpcs-standard">Ghatnachakra Architecture in Ancient India</a> — 34 questions (UPPCS 29 · UKPCS 5)</li>
-      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#314-mughal-architecture">Mughal Architecture</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#313-indo-islamic-architecture">Indo-Islamic Architecture</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#36-pallava-and-chola-temples">Pallava and Chola Temples</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#312-cave-architecture">Cave Architecture</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#32-nagara-style">Nagara Style</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#complete-pyq-bank-ghatnachakra-architecture-in-ancient-india-uppcs-ukpcs-standard">Ghatnachakra Architecture in Ancient India</a> — 38 questions (UPPCS 34 · UKPCS 6)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#complete-pyq-bank-topic-3">PYQ Bank</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#317-important-monuments-cards">Important Monuments — Cards</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#31-indian-temple-architecture">Indian Temple Architecture</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#314-mughal-architecture">Mughal Architecture</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#36-pallava-and-chola-temples">Pallava and Chola Temples</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#38-stupa">Stupa</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/03_Indian_Architecture/">Open chapter</a>
@@ -1106,17 +1078,16 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-08-Indian-Languages-and-Literature-md" aria-label="Mark Topic 8 — Indian Languages &amp; Literature done">
     <span class="ct-title">Topic 8 — Indian Languages &amp; Literature</span>
-    <span class="ct-pills">41 Qs · UPPCS 34 · UKPCS 7</span>
+    <span class="ct-pills">39 Qs · UPPCS 32 · UKPCS 7</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#complete-pyq-bank-ghatnachakra-ancient-literature-and-litterateur-uppcs-ukpcs-standard">Ghatnachakra Ancient Literature and Litterateur</a> — 30 questions (UPPCS 23 · UKPCS 7)</li>
-      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#88-important-literary-works">Important Literary Works</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#87-indian-languages">Indian Languages</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#82-sanskrit-literature">Sanskrit Literature</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#85-puranic-literature">Puranic Literature</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#83-vedic-literature">Vedic Literature</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#complete-pyq-bank-ghatnachakra-ancient-literature-and-litterateur-uppcs-ukpcs-standard">Ghatnachakra Ancient Literature and Litterateur</a> — 28 questions (UPPCS 21 · UKPCS 7)</li>
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#87-indian-languages">Indian Languages</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#82-sanskrit-literature">Sanskrit Literature</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#complete-pyq-bank-topic-8">PYQ Bank</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#88-important-literary-works">Important Literary Works</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/">Open chapter</a>
   </div>
@@ -1252,7 +1223,8 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/art%20and%20culture/14_Cultural_Heritage/#143-unesco-world-heritage-sites">UNESCO World Heritage Sites</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/14_Cultural_Heritage/#143-unesco-world-heritage-sites">UNESCO World Heritage Sites</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/14_Cultural_Heritage/#culture-origin-theories-quick-pair">Culture origin theories (quick pair)</a> — 1 question (UKPCS 1)</li>
       <li><a href="../subjects/art%20and%20culture/14_Cultural_Heritage/#145-unesco-world-heritage-sites-in-india">UNESCO World Heritage Sites in India</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/14_Cultural_Heritage/">Open chapter</a>
@@ -3492,444 +3464,258 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <span class="ct-subject-title">Economy</span>
     <span class="ct-progress" data-ct-subject="economy"></span>
-    <span class="ct-subject-count">12 chapters</span>
+    <span class="ct-subject-count">13 chapters</span>
   </summary>
   <div class="ct-subject-body">
 <h3 class="ct-group-title">Highly Important</h3>
 <div class="ct-list ct-list--high">
-<details class="ct-row" data-ct-id="economy-01-Indian-Economy-Basics-Planning-md" data-group="high" data-uk="1">
+<details class="ct-row" data-ct-id="economy-08-Employment-Poverty-Human-Capital-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-01-Indian-Economy-Basics-Planning-md" aria-label="Mark Economy Topic 1 — Indian Economy Basics, Evolution and Planning done">
-    <span class="ct-title">Topic 1 — Indian Economy: Basics, Evolution and Planning</span>
-    <span class="ct-pills">10 Qs · UPPCS 5 · UKPCS 5</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#complete-pyq-bank-uppcs">UPPCS bank — mixed economy, development A/R, NITI VC, 12th Plan, AIM</a> — 5 questions (UPPCS 5)</li>
-      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#complete-pyq-bank-ukpcs">UKPCS bank — NITI statements, 11th Plan, Governing Council, NI problems, liberalisation phase</a> — 5 questions (UKPCS 5)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/economy/01_Indian_Economy_Basics_Planning/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="economy-02-Public-Finance-Budget-Taxation-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-02-Public-Finance-Budget-Taxation-md" aria-label="Mark Economy Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy done">
-    <span class="ct-title">Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy</span>
-    <span class="ct-pills">15 Qs · UPPCS 10 · UKPCS 5</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#complete-pyq-bank-uppcs">UPPCS bank — FC composition/report, GST 101st, CFI match, DTC, Contingency Fund, FC chairmen</a> — 10 questions (UPPCS 10)</li>
-      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#complete-pyq-bank-ukpcs">UKPCS bank — 14th FC 42%, degressive tax, Tobin tax, VAT under GST, 101st GST</a> — 5 questions (UKPCS 5)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/economy/02_Public_Finance_Budget_Taxation/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="economy-03-Money-Banking-RBI-Financial-System-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-03-Money-Banking-RBI-Financial-System-md" aria-label="Mark Economy Topic 3 — Money, Banking, RBI and Financial System done">
-    <span class="ct-title">Topic 3 — Money, Banking, RBI and Financial System</span>
-    <span class="ct-pills">7 Qs · UPPCS 4 · UKPCS 3</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#complete-pyq-bank-uppcs">UPPCS bank — RBI note issue, financial inclusion steps, Lead Banking Scheme, RRB–NABARD–SHG–KCC chronology</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#complete-pyq-bank-ukpcs">UKPCS bank — NABARD refinance, currency appreciation, RRB merger 26</a> — 3 questions (UKPCS 3)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/economy/03_Money_Banking_RBI_Financial_System/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="economy-04-Inflation-Prices-Savings-Investment-Markets-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-04-Inflation-Prices-Savings-Investment-Markets-md" aria-label="Mark Economy Topic 4 — Inflation, Prices, Savings, Investment and Markets done">
-    <span class="ct-title">Topic 4 — Inflation, Prices, Savings, Investment and Markets</span>
-    <span class="ct-pills">6 Qs · UPPCS 4 · UKPCS 2</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#complete-pyq-bank-uppcs">UPPCS bank — retail CPI, WPI ministry, Combined CPI headline, bottleneck inflation A/R</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#complete-pyq-bank-ukpcs">UKPCS bank — debtors benefit, headline vs core</a> — 2 questions (UKPCS 2)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="economy-05-Agriculture-Indian-Agricultural-Economy-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-05-Agriculture-Indian-Agricultural-Economy-md" aria-label="Mark Economy Topic 5 — Agriculture and Indian Agricultural Economy done">
-    <span class="ct-title">Topic 5 — Agriculture and Indian Agricultural Economy</span>
-    <span class="ct-pills">4 Qs · UPPCS 3 · UKPCS 1</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/economy/05_Agriculture_Indian_Agricultural_Economy/#complete-pyq-bank-uppcs">UPPCS bank — plantation tea, CACP recommends MSP, farm subsidy types</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/economy/05_Agriculture_Indian_Agricultural_Economy/#complete-pyq-bank-ukpcs">UKPCS bank — Punjab irrigation percent</a> — 1 question (UKPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/economy/05_Agriculture_Indian_Agricultural_Economy/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="economy-06-Agricultural-Policies-Schemes-MSP-Revolutions-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-06-Agricultural-Policies-Schemes-MSP-Revolutions-md" aria-label="Mark Economy Topic 6 — Agricultural Policies, Schemes, MSP and Revolutions done">
-    <span class="ct-title">Topic 6 — Agricultural Policies, Schemes, MSP and Revolutions</span>
-    <span class="ct-pills">9 Qs · UPPCS 6 · UKPCS 3</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/#complete-pyq-bank-uppcs">UPPCS bank — NFSA, tenancy reforms, Swaminathan match, food-security dimensions, CACP</a> — 6 questions (UPPCS 6)</li>
-      <li><a href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/#complete-pyq-bank-ukpcs">UKPCS bank — PM-KISAN date, NFSM year, NFSM commodities</a> — 3 questions (UKPCS 3)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="economy-07-Industry-MSME-Infrastructure-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-07-Industry-MSME-Infrastructure-md" aria-label="Mark Economy Topic 7 — Industry, MSME and Infrastructure done">
-    <span class="ct-title">Topic 7 — Industry, MSME and Infrastructure</span>
-    <span class="ct-pills">6 Qs · UPPCS 4 · UKPCS 2</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#complete-pyq-bank-uppcs">UPPCS bank — Make in India, Gati Shakti, SSI committees, Singapore FDI A/R</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#complete-pyq-bank-ukpcs">UKPCS bank — MSME 2020 classification, FDI services sector</a> — 2 questions (UKPCS 2)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/economy/07_Industry_MSME_Infrastructure/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="economy-08-Employment-Poverty-Human-Capital-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-08-Employment-Poverty-Human-Capital-md" aria-label="Mark Economy Topic 8 — Employment, Poverty, Human Capital and Social Economy done">
+    <input type="checkbox" class="ct-check" data-ct-id="economy-08-Employment-Poverty-Human-Capital-md" aria-label="Mark Topic 8 — Employment, Poverty, Human Capital and Social Economy done">
     <span class="ct-title">Topic 8 — Employment, Poverty, Human Capital and Social Economy</span>
-    <span class="ct-pills">10 Qs · UPPCS 9 · UKPCS 1</span>
+    <span class="ct-pills">192 Qs · UPPCS 175 · UKPCS 17</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#complete-pyq-bank-uppcs">UPPCS bank — Alagh, MPI/HPI, HDI indicators, demographic dividend, social indicators</a> — 9 questions (UPPCS 9)</li>
-      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#complete-pyq-bank-ukpcs">UKPCS bank — Naoroji jail cost of living</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#85-demography-transition-census-and-population-map">Demography — transition, Census and population map</a> — 36 questions (UPPCS 36)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#84-employment-and-welfare-schemes">Employment and welfare schemes</a> — 30 questions (UPPCS 30)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#complete-pyq-bank-uppcs">PYQ Bank</a> — 26 questions (UPPCS 26)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#83-human-capital-hdi-and-inclusive-growth">Human capital, HDI and inclusive growth</a> — 25 questions (UPPCS 25)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#ghatnachakra-extra-drill-employment-poverty-and-human-capital">Employment, Poverty and Human Capital</a> — 19 questions (UPPCS 10 · UKPCS 9)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#87-world-population-and-global-urbanization">World population and global urbanization</a> — 19 questions (UPPCS 19)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#81-poverty-lines-mpi-indicators">Poverty — lines, MPI, indicators</a> — 13 questions (UPPCS 12 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#86-urbanization-definitions-levels-and-city-hierarchy">Urbanization — definitions, levels and city hierarchy</a> — 13 questions (UPPCS 13)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#ukpcs">UKPCS</a> — 7 questions (UKPCS 7)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#82-employment-and-labour">Employment and labour</a> — 4 questions (UPPCS 4)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/08_Employment_Poverty_Human_Capital/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="economy-09-External-Sector-Foreign-Trade-md" data-group="high" data-uk="1">
+<details class="ct-row" data-ct-id="economy-02-Public-Finance-Budget-Taxation-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-09-External-Sector-Foreign-Trade-md" aria-label="Mark Economy Topic 9 — External Sector, Foreign Trade and Global Economy done">
-    <span class="ct-title">Topic 9 — External Sector, Foreign Trade and Global Economy</span>
-    <span class="ct-pills">10 Qs · UPPCS 4 · UKPCS 6</span>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-02-Public-Finance-Budget-Taxation-md" aria-label="Mark Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy done">
+    <span class="ct-title">Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy</span>
+    <span class="ct-pills">85 Qs · UPPCS 70 · UKPCS 15</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#complete-pyq-bank-uppcs">UPPCS bank — BoP current account, flexible exchange A/R, remittances 2022, Singapore FDI A/R</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#complete-pyq-bank-ukpcs">UKPCS bank — FEMA 1999 / 1 June 2000, appreciation, WTO criticism except, MC-13 Abu Dhabi, FDI services</a> — 6 questions (UKPCS 6)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#21-public-finance-revenue-expenditure-debt-subsidies">Public finance — revenue, expenditure, debt, subsidies</a> — 24 questions (UPPCS 24)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#26-finance-commission-and-fiscal-federalism">Finance Commission and fiscal federalism</a> — 12 questions (UPPCS 11 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#ghatnachakra-extra-drill-public-finance-budget-and-taxation">Public Finance, Budget and Taxation</a> — 12 questions (UPPCS 6 · UKPCS 6)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#22-budget-and-constitutional-funds">Budget and constitutional funds</a> — 11 questions (UPPCS 11)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#complete-pyq-bank-uppcs">PYQ Bank</a> — 10 questions (UPPCS 10)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#25-gst-and-tax-reforms">GST and tax reforms</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#24-taxation-structure">Taxation structure</a> — 5 questions (UPPCS 3 · UKPCS 2)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#ukpcs-prelims-bank">UKPCS Prelims Bank</a> — 5 questions (UKPCS 5)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/economy/09_External_Sector_Foreign_Trade/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/02_Public_Finance_Budget_Taxation/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="economy-10-International-Institutions-Groupings-md" data-group="high" data-uk="1">
+<details class="ct-row" data-ct-id="economy-01-Indian-Economy-Basics-Planning-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-10-International-Institutions-Groupings-md" aria-label="Mark Economy Topic 10 — International Institutions, Groupings and Summits done">
-    <span class="ct-title">Topic 10 — International Institutions, Groupings and Summits</span>
-    <span class="ct-pills">16 Qs · UPPCS 6 · UKPCS 10</span>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-01-Indian-Economy-Basics-Planning-md" aria-label="Mark Topic 1 — Indian Economy: Basics, Evolution and Planning done">
+    <span class="ct-title">Topic 1 — Indian Economy: Basics, Evolution and Planning</span>
+    <span class="ct-pills">69 Qs · UPPCS 58 · UKPCS 11</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#complete-pyq-bank-uppcs">UPPCS bank — Bretton Woods twins, BIMSTEC membership/summit, G20 logo &amp; UP venues, BRICS 2018</a> — 6 questions (UPPCS 6)</li>
-      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#complete-pyq-bank-ukpcs">UKPCS bank — IMF members, O’Neill/BRICS year, SAARC 1986, ASEAN/BIMSTEC secretariats, WEF GCI, BRICS expansion</a> — 10 questions (UKPCS 10)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#15-five-year-plans-theme-tags">Five-Year Plans — theme tags</a> — 24 questions (UPPCS 23 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#ghatnachakra-extra-drill-indian-economy-basics-and-planning">Indian Economy Basics and Planning</a> — 24 questions (UPPCS 18 · UKPCS 6)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#14-planning-commission-to-niti-aayog">Planning Commission to NITI Aayog</a> — 11 questions (UPPCS 9 · UKPCS 2)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#11-features-of-the-indian-economy">Features of the Indian economy</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#12-growth-versus-development">Growth versus development</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#13-national-income-gdp-family">National income — GDP family</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#16-reforms-and-the-cycle">Reforms and the cycle</a> — 1 question (UKPCS 1)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/economy/10_International_Institutions_Groupings/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/01_Indian_Economy_Basics_Planning/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="economy-11-Services-Cooperatives-Regulators-md" data-group="high" data-uk="1">
+<details class="ct-row" data-ct-id="economy-03-Money-Banking-RBI-Financial-System-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-11-Services-Cooperatives-Regulators-md" aria-label="Mark Economy Topic 11 — Services, Cooperatives, Companies and Regulators done">
-    <span class="ct-title">Topic 11 — Services, Cooperatives, Companies and Regulators</span>
-    <span class="ct-pills">4 Qs · UPPCS 3 · UKPCS 1</span>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-03-Money-Banking-RBI-Financial-System-md" aria-label="Mark Topic 3 — Money, Banking, RBI and Financial System done">
+    <span class="ct-title">Topic 3 — Money, Banking, RBI and Financial System</span>
+    <span class="ct-pills">67 Qs · UPPCS 57 · UKPCS 10</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#complete-pyq-bank-uppcs">UPPCS bank — CSR 2013/2%, ECOMARC, MRP ceiling A/R</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#complete-pyq-bank-ukpcs">UKPCS neighbour — services FDI sector (cross Topic 7)</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#31-money-functions-and-aggregates">Money — functions and aggregates</a> — 20 questions (UPPCS 20)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#32-banking-structure-nationalisation-npa-digital-rails">Banking structure, nationalisation, NPA, digital rails</a> — 11 questions (UPPCS 11)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#33-nabard-and-rural-credit-chronology">NABARD and rural credit chronology</a> — 11 questions (UPPCS 9 · UKPCS 2)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#ukpcs-prelims-bank">UKPCS Prelims Bank</a> — 11 questions (UPPCS 8 · UKPCS 3)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#34-rbi-and-monetary-policy-toolkit">RBI and monetary policy toolkit</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#ghatnachakra-extra-drill-money-banking-rbi-and-financial-system">Money, Banking, RBI and Financial System</a> — 5 questions (UKPCS 5)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#complete-pyq-bank-uppcs">PYQ Bank</a> — 3 questions (UPPCS 3)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/economy/11_Services_Cooperatives_Regulators/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/03_Money_Banking_RBI_Financial_System/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="economy-12-Economic-Laws-Reports-Rankings-Misc-md" data-group="high" data-uk="1">
+<details class="ct-row" data-ct-id="economy-12-Economic-Laws-Reports-Rankings-Misc-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="economy-12-Economic-Laws-Reports-Rankings-Misc-md" aria-label="Mark Economy Topic 12 — Economic Laws, Reports, Rankings and Misc done">
+    <input type="checkbox" class="ct-check" data-ct-id="economy-12-Economic-Laws-Reports-Rankings-Misc-md" aria-label="Mark Topic 12 — Economic Laws, Reports, Rankings and Misc done">
     <span class="ct-title">Topic 12 — Economic Laws, Reports, Rankings and Misc</span>
-    <span class="ct-pills">13 Qs · UPPCS 8 · UKPCS 5</span>
+    <span class="ct-pills">57 Qs · UPPCS 46 · UKPCS 11</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#complete-pyq-bank-uppcs">UPPCS bank — Economic Survey, HDR slip, Happiness/GPI/GHI/EoDB ranks, PQLI</a> — 8 questions (UPPCS 8)</li>
-      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#complete-pyq-bank-ukpcs">UKPCS bank — PMLA, GII 2010, HDI 2020 rank, WEF GCI, SDG India Index</a> — 5 questions (UKPCS 5)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#complete-pyq-bank-uppcs">PYQ Bank</a> — 21 questions (UPPCS 21)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#123-indices-and-rankings-publisher-year">Indices and rankings — publisher + year</a> — 11 questions (UPPCS 9 · UKPCS 2)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#121-economic-laws-and-codes-short-desk">Economic laws and codes — short desk</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#ukpcs">UKPCS</a> — 7 questions (UKPCS 7)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#ghatnachakra-extra-drill-economic-laws-reports-and-rankings">Economic Laws, Reports and Rankings</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#122-economic-survey-and-report-desk">Economic Survey and report desk</a> — 4 questions (UPPCS 4)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/">Open chapter</a>
   </div>
 </details>
 </div>
-<p class="ct-empty-note">All 12 national Economy chapters are written. UK state notes stay under <a href="../subjects/economy/uttarakhand/00_Syllabus/">Uttarakhand Economy</a>. Census / demography / urbanisation depth → <a href="../subjects/census%20and%20urbanisation/">Census and Urbanisation</a>.</p>
-  </div>
-</details>
 
-<details class="ct-subject" id="census-and-urbanisation" data-ct-subject="census-and-urbanisation" name="ct-subject">
-  <summary>
-    <span class="ct-subject-title">Census and Urbanisation</span>
-    <span class="ct-progress" data-ct-subject="census-and-urbanisation"></span>
-    <span class="ct-subject-count">7 chapters</span>
-  </summary>
-  <div class="ct-subject-body">
-<h3 class="ct-group-title">Highly Important</h3>
-<div class="ct-list ct-list--high">
-<details class="ct-row" data-ct-id="census-and-urbanisation-01-Census-and-Population-Data-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-01-Census-and-Population-Data-md" aria-label="Mark Census Topic 1 — Census and Population Data done">
-    <span class="ct-title">Topic 1 — Census and Population Data</span>
-    <span class="ct-pills">Written</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/census%20and%20urbanisation/01_Census_and_Population_Data/#complete-pyq-bank-uppcs">UPPCS / standard — Union List, 1881, Great Divide, density 382, UP population, Bihar density, agency</a></li>
-      <li><a href="../subjects/census%20and%20urbanisation/01_Census_and_Population_Data/#complete-pyq-bank-ukpcs">UKPCS — UK 2011 statements (2025), density/growth districts, SRS</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/01_Census_and_Population_Data/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="census-and-urbanisation-02-Population-Growth-Demographic-Transition-Theories-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-02-Population-Growth-Demographic-Transition-Theories-md" aria-label="Mark Census Topic 2 — Population Growth, Demographic Transition and Theories done">
-    <span class="ct-title">Topic 2 — Population Growth, Demographic Transition and Theories</span>
-    <span class="ct-pills">Written</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/census%20and%20urbanisation/02_Population_Growth_Demographic_Transition_Theories/#complete-pyq-bank-uppcs">UPPCS — theory match (2023), Malthus geometric/arithmetic (2024), DTT stages, Cannan, Great Divide, explosion phase</a></li>
-      <li><a href="../subjects/census%20and%20urbanisation/02_Population_Growth_Demographic_Transition_Theories/#complete-pyq-bank-ukpcs">UKPCS / standard — Thompson, Neo-Malthusian, Boserup, 2011 growth rate</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/02_Population_Growth_Demographic_Transition_Theories/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="census-and-urbanisation-03-Population-Composition-Demographic-Characteristics-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-03-Population-Composition-Demographic-Characteristics-md" aria-label="Mark Census Topic 3 — Population Composition and Demographic Characteristics done">
-    <span class="ct-title">Topic 3 — Population Composition and Demographic Characteristics</span>
-    <span class="ct-pills">Written</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/census%20and%20urbanisation/03_Population_Composition_Demographic_Characteristics/#complete-pyq-bank-uppcs">UPPCS — dividend 15–59, Shrawasti female literacy, SR/CSR, SC/ST absolute vs %</a></li>
-      <li><a href="../subjects/census%20and%20urbanisation/03_Population_Composition_Demographic_Characteristics/#complete-pyq-bank-ukpcs">UKPCS — Haryana lowest SR, Almora sex-ratio order, UK 963, literacy trough</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/03_Population_Composition_Demographic_Characteristics/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="census-and-urbanisation-04-Fertility-Mortality-Health-Population-Policies-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-04-Fertility-Mortality-Health-Population-Policies-md" aria-label="Mark Census Topic 4 — Fertility, Mortality, Health and Population Policies done">
-    <span class="ct-title">Topic 4 — Fertility, Mortality, Health and Population Policies</span>
-    <span class="ct-pills">Written</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/census%20and%20urbanisation/04_Fertility_Mortality_Health_Population_Policies/#complete-pyq-bank-uppcs">UPPCS — natural growth, TFR 2.1, UP Bill unit trap, NPP 2000, IMR, UNFPA / 11 July</a></li>
-      <li><a href="../subjects/census%20and%20urbanisation/04_Fertility_Mortality_Health_Population_Policies/#complete-pyq-bank-ukpcs">UKPCS / standard — natural increase, IMR vs MMR, NPP, SRS</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/04_Fertility_Mortality_Health_Population_Policies/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="census-and-urbanisation-05-Migration-and-Population-Distribution-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-05-Migration-and-Population-Distribution-md" aria-label="Mark Census Topic 5 — Migration and Population Distribution done">
-    <span class="ct-title">Topic 5 — Migration and Population Distribution</span>
-    <span class="ct-pills">Written</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/census%20and%20urbanisation/05_Migration_and_Population_Distribution/#complete-pyq-bank-uppcs">UPPCS — Arunachal density, state population order, density types, rural→rural stream, push–pull</a></li>
-      <li><a href="../subjects/census%20and%20urbanisation/05_Migration_and_Population_Distribution/#complete-pyq-bank-ukpcs">UKPCS / standard — immigration/emigration, arithmetic density, reverse migration, sparse belts</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/05_Migration_and_Population_Distribution/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="census-and-urbanisation-06-Urbanisation-and-Urban-Development-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-06-Urbanisation-and-Urban-Development-md" aria-label="Mark Census Topic 6 — Urbanisation and Urban Development done">
-    <span class="ct-title">Topic 6 — Urbanisation and Urban Development</span>
-    <span class="ct-pills">Written</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/census%20and%20urbanisation/06_Urbanisation_and_Urban_Development/#complete-pyq-bank-uppcs">UPPCS — acceleration stage, Jains urban, census town, Smart Cities, 74th, Kanpur 1971</a></li>
-      <li><a href="../subjects/census%20and%20urbanisation/06_Urbanisation_and_Urban_Development/#complete-pyq-bank-ukpcs">UKPCS / standard — statutory town, 12th Schedule, AMRUT, UA, Cantonment</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/06_Urbanisation_and_Urban_Development/">Open chapter</a>
-  </div>
-</details>
-</div>
 <h3 class="ct-group-title">Medium Important</h3>
 <div class="ct-list ct-list--medium">
-<details class="ct-row" data-ct-id="census-and-urbanisation-07-World-Population-and-Demographic-Misc-md" data-group="medium" data-uk="0">
+<details class="ct-row" data-ct-id="economy-11-Services-Cooperatives-Regulators-md" data-group="medium" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-07-World-Population-and-Demographic-Misc-md" aria-label="Mark Census Topic 7 — World Population and Demographic Misc done">
-    <span class="ct-title">Topic 7 — World Population and Demographic Misc</span>
-    <span class="ct-pills">Written</span>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-11-Services-Cooperatives-Regulators-md" aria-label="Mark Topic 11 — Services, Cooperatives, Companies and Regulators done">
+    <span class="ct-title">Topic 11 — Services, Cooperatives, Companies and Regulators</span>
+    <span class="ct-pills">31 Qs · UPPCS 30 · UKPCS 1</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/census%20and%20urbanisation/07_World_Population_and_Demographic_Misc/#complete-pyq-bank-uppcs">UPPCS — World Population Day 11 July, UNFPA World Population Report, wrong-pair IMF trap</a></li>
-      <li><a href="../subjects/census%20and%20urbanisation/07_World_Population_and_Demographic_Misc/#complete-pyq-bank-ukpcs">UKPCS / standard — WPP/DESA, UNFPA vs UNDP, density vs size, Ehrlich</a></li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#ghatnachakra-extra-drill-services-cooperatives-and-regulators">Services, Cooperatives and Regulators</a> — 12 questions (UPPCS 12)</li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#111-service-sector-tertiary-map">Service sector — tertiary map</a> — 9 questions (UPPCS 9)</li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#115-standards-quality-marks-and-consumer-protection">Standards, quality marks and consumer protection</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#113-companies-csr-and-corporate-governance">Companies, CSR and corporate governance</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#complete-pyq-bank-uppcs">PYQ Bank</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#ukpcs">UKPCS</a> — 1 question (UKPCS 1)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/07_World_Population_and_Demographic_Misc/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/11_Services_Cooperatives_Regulators/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-10-International-Institutions-Groupings-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-10-International-Institutions-Groupings-md" aria-label="Mark Topic 10 — International Institutions, Groupings and Summits done">
+    <span class="ct-title">Topic 10 — International Institutions, Groupings and Summits</span>
+    <span class="ct-pills">23 Qs · UPPCS 9 · UKPCS 14</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#105-asean-saarc-bimstec-sco">ASEAN, SAARC, BIMSTEC, SCO</a> — 6 questions (UPPCS 4 · UKPCS 2)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#ukpcs">UKPCS</a> — 6 questions (UKPCS 6)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#103-brics">BRICS</a> — 4 questions (UPPCS 1 · UKPCS 3)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#101-bretton-woods-twins-imf-and-world-bank-group">Bretton Woods twins — IMF and World Bank Group</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#104-g20-and-g7">G20 and G7</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#106-oecd-wto-organisation-desk-wef">OECD, WTO organisation desk, WEF</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#complete-pyq-bank-uppcs">PYQ Bank</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/10_International_Institutions_Groupings/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-07-Industry-MSME-Infrastructure-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-07-Industry-MSME-Infrastructure-md" aria-label="Mark Topic 7 — Industry, MSME and Infrastructure done">
+    <span class="ct-title">Topic 7 — Industry, MSME and Infrastructure</span>
+    <span class="ct-pills">16 Qs · UPPCS 13 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#71-industrial-structure-and-msme">Industrial structure and MSME</a> — 5 questions (UPPCS 4 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#ghatnachakra-extra-drill-industry-msme-and-infrastructure">Industry, MSME and Infrastructure</a> — 5 questions (UPPCS 4 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#72-industrial-policy-make-in-india-startups-corridors">Industrial policy — Make in India, startups, corridors</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#73-psu-disinvestment-and-fdi-industry-angle">PSU, disinvestment and FDI (industry angle)</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#74-infrastructure-and-pm-gati-shakti">Infrastructure and PM Gati Shakti</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/07_Industry_MSME_Infrastructure/">Open chapter</a>
   </div>
 </details>
 </div>
-<p class="ct-empty-note">All 7 Census &amp; Urbanisation topics written. Map: <a href="../subjects/census%20and%20urbanisation/01_Census_Urbanisation_Syllabus/">chapter map</a>.</p>
-  </div>
-</details>
 
-<details class="ct-subject" id="up-special" data-ct-subject="up-special" name="ct-subject">
+<h3 class="ct-group-title">Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="economy-09-External-Sector-Foreign-Trade-md" data-group="least" data-uk="0">
   <summary>
-    <span class="ct-subject-title">UP Special</span>
-    <span class="ct-progress" data-ct-subject="up-special"></span>
-    <span class="ct-subject-count">8 chapters</span>
-  </summary>
-  <div class="ct-subject-body">
-<h3 class="ct-group-title">Highly Important</h3>
-<div class="ct-list ct-list--high">
-<details class="ct-row" data-ct-id="up-special-01-Geography-Location-Physical-Features-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="up-special-01-Geography-Location-Physical-Features-md" aria-label="Mark UP Special Topic 1 — Geography, Location and Physical Features done">
-    <span class="ct-title">Topic 1 — Geography, Location and Physical Features</span>
-    <span class="ct-pills">Written</span>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-09-External-Sector-Foreign-Trade-md" aria-label="Mark Topic 9 — External Sector, Foreign Trade and Global Economy done">
+    <span class="ct-title">Topic 9 — External Sector, Foreign Trade and Global Economy</span>
+    <span class="ct-pills">13 Qs · UPPCS 6 · UKPCS 7</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/up%20special/01_Geography_Location_Physical_Features/#complete-pyq-bank-uppcs">UPPCS — ISFR &gt;20% forest, Devipatan, Lalitpur neighbour, forest %, Yamuna order, soils, Nepal-7</a></li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#92-forex-reserves-exchange-rates-and-convertibility">Forex reserves, exchange rates and convertibility</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#95-fema-fera-and-the-external-legal-frame">FEMA, FERA and the external legal frame</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#complete-pyq-bank-uppcs">PYQ Bank</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#94-trade-barriers-wto-desk-globalisation-and-partners">Trade barriers, WTO desk, globalisation and partners</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#ukpcs">UKPCS</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#93-capital-flows-fdi-fpi-remittances-debt">Capital flows — FDI, FPI, remittances, debt</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#91-trade-bot-and-balance-of-payments">Trade, BoT and Balance of Payments</a> — 1 question (UPPCS 1)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/01_Geography_Location_Physical_Features/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/09_External_Sector_Foreign_Trade/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="up-special-02-History-Culture-Art-Heritage-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="economy-04-Inflation-Prices-Savings-Investment-Markets-md" data-group="least" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="up-special-02-History-Culture-Art-Heritage-md" aria-label="Mark UP Special Topic 2 — History, Culture, Art and Heritage done">
-    <span class="ct-title">Topic 2 — History, Culture, Art and Heritage</span>
-    <span class="ct-pills">Written</span>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-04-Inflation-Prices-Savings-Investment-Markets-md" aria-label="Mark Topic 4 — Inflation, Prices, Savings, Investment and Markets done">
+    <span class="ct-title">Topic 4 — Inflation, Prices, Savings, Investment and Markets</span>
+    <span class="ct-pills">12 Qs · UPPCS 8 · UKPCS 4</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/up%20special/02_History_Culture_Art_Heritage/#complete-pyq-bank-uppcs">UPPCS / standard — Charkula, fairs, crafts, Buddhist triad, 1857, Kakori, Nautanki, Awadh 1856</a></li>
+      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#41-inflation-types-causes-effects">Inflation — types, causes, effects</a> — 3 questions (UPPCS 1 · UKPCS 2)</li>
+      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#42-price-indices-cpi-wpi-related-measures">Price indices — CPI, WPI, related measures</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#44-financial-markets-money-capital-sebi-funds-pensions">Financial markets — money, capital, SEBI, funds, pensions</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#complete-pyq-bank-uppcs">PYQ Bank</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#ukpcs-prelims-bank">UKPCS Prelims Bank</a> — 2 questions (UKPCS 2)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/02_History_Culture_Art_Heritage/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="up-special-03-Polity-Administration-Local-Government-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="economy-06-Agricultural-Policies-Schemes-MSP-Revolutions-md" data-group="least" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="up-special-03-Polity-Administration-Local-Government-md" aria-label="Mark UP Special Topic 3 — Polity, Administration and Local Government done">
-    <span class="ct-title">Topic 3 — Polity, Administration and Local Government</span>
-    <span class="ct-pills">Written</span>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-06-Agricultural-Policies-Schemes-MSP-Revolutions-md" aria-label="Mark Topic 6 — Agricultural Policies, Schemes, MSP and Revolutions done">
+    <span class="ct-title">Topic 6 — Agricultural Policies, Schemes, MSP and Revolutions</span>
+    <span class="ct-pills">5 Qs · UPPCS 3 · UKPCS 2</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/up%20special/03_Polity_Administration_Local_Government/#complete-pyq-bank-uppcs">UPPCS — LA 403 vs Manipur 60, LS 80/RS 31, SEC polls, UPPSC Art. 321, Council abolish, Noida 243Q</a></li>
+      <li><a href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/#ukpcs">UKPCS</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/#61-agricultural-revolutions">Agricultural Revolutions</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/#62-cacp-msp-and-cost-concepts">CACP, MSP and Cost Concepts</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/#65-tpds-nfsa-pmgkay-and-onorc">TPDS, NFSA, PMGKAY and ONORC</a> — 1 question (UPPCS 1)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/03_Polity_Administration_Local_Government/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="up-special-04-Economy-Industry-Infrastructure-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="economy-01-Economics-Syllabus-md" data-group="least" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="up-special-04-Economy-Industry-Infrastructure-md" aria-label="Mark UP Special Topic 4 — Economy, Industry and Infrastructure done">
-    <span class="ct-title">Topic 4 — Economy, Industry and Infrastructure</span>
-    <span class="ct-pills">Written</span>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-01-Economics-Syllabus-md" aria-label="Mark 12 master chapters (chapter map) done">
+    <span class="ct-title">12 master chapters (chapter map)</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
   </summary>
   <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/up%20special/04_Economy_Industry_Infrastructure/#complete-pyq-bank-uppcs">UPPCS — ODOP Moonj, Baghpat toys NOT, HINDALCO, sugar qty vs productivity, Smart Cities-10, expressways</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/04_Economy_Industry_Infrastructure/">Open chapter</a>
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/01_Economics_Syllabus/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="up-special-05-Agriculture-Irrigation-Rural-Economy-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="economy-05-Agriculture-Indian-Agricultural-Economy-md" data-group="least" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="up-special-05-Agriculture-Irrigation-Rural-Economy-md" aria-label="Mark UP Special Topic 5 — Agriculture, Irrigation and Rural Economy done">
-    <span class="ct-title">Topic 5 — Agriculture, Irrigation and Rural Economy</span>
-    <span class="ct-pills">Written</span>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-05-Agriculture-Indian-Agricultural-Economy-md" aria-label="Mark Topic 5 — Agriculture and Indian Agricultural Economy done">
+    <span class="ct-title">Topic 5 — Agriculture and Indian Agricultural Economy</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
   </summary>
   <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/up%20special/05_Agriculture_Irrigation_Rural_Economy/#complete-pyq-bank-uppcs">UPPCS — CIP Agra not Aligarh, tubewell share, canal offtakes, institutes, Badua trap, Ken–Betwa</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/05_Agriculture_Irrigation_Rural_Economy/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="up-special-06-Society-Population-Education-Social-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="up-special-06-Society-Population-Education-Social-md" aria-label="Mark UP Special Topic 6 — Society, Population, Education and Social Development done">
-    <span class="ct-title">Topic 6 — Society, Population, Education and Social Development</span>
-    <span class="ct-pills">Written</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/up%20special/06_Society_Population_Education_Social/#complete-pyq-bank-uppcs">UPPCS — Shrawasti literacy, SC % vs absolute, ST Sonbhadra, Census extremes, BHU 1916</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/06_Society_Population_Education_Social/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="up-special-07-Transport-Tourism-Environment-Disaster-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="up-special-07-Transport-Tourism-Environment-Disaster-md" aria-label="Mark UP Special Topic 7 — Transport, Tourism, Environment and Disaster Management done">
-    <span class="ct-title">Topic 7 — Transport, Tourism, Environment and Disaster Management</span>
-    <span class="ct-pills">Written</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/up%20special/07_Transport_Tourism_Environment_Disaster/#complete-pyq-bank-uppcs">UPPCS — Dudhwa, Ramsar NOT-in-UP, Katarniaghat 1975, Chandraprabha, forest cover, Smart City-10, Purvanchal/Mau</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/07_Transport_Tourism_Environment_Disaster/">Open chapter</a>
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/05_Agriculture_Indian_Agricultural_Economy/">Open chapter</a>
   </div>
 </details>
 </div>
-<h3 class="ct-group-title">Medium Important</h3>
-<div class="ct-list ct-list--medium">
-<details class="ct-row" data-ct-id="up-special-08-Current-Affairs-Schemes-Miscellaneous-md" data-group="medium" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="up-special-08-Current-Affairs-Schemes-Miscellaneous-md" aria-label="Mark UP Special Topic 8 — Current Affairs, Schemes and Miscellaneous done">
-    <span class="ct-title">Topic 8 — Current Affairs, Schemes and Miscellaneous</span>
-    <span class="ct-pills">Written · Dynamic</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/up%20special/08_Current_Affairs_Schemes_Miscellaneous/#complete-pyq-bank-uppcs">UPPCS — ODOP Moonj, Baghpat toys NOT, State symbols, Nand Baba, GI pairs; sync CA Topic 08</a></li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/08_Current_Affairs_Schemes_Miscellaneous/">Open chapter</a>
-  </div>
-</details>
-</div>
-<p class="ct-empty-note">All 8 topics written. Topic 8 is dynamic — refresh from <a href="../current-affairs/topics/08_UP_Special/">CA Topic 08</a>. Map: <a href="../subjects/up%20special/01_UP_Special_Syllabus/">chapter map</a>. UK state notes stay under each subject’s <code>uttarakhand/</code> folder.</p>
+
   </div>
 </details>
 
@@ -3937,386 +3723,440 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <span class="ct-subject-title">Science and Technology</span>
     <span class="ct-progress" data-ct-subject="science-and-technology"></span>
-    <span class="ct-subject-count">26 chapters</span>
+    <span class="ct-subject-count">29 chapters</span>
   </summary>
   <div class="ct-subject-body">
 <h3 class="ct-group-title">Highly Important</h3>
 <div class="ct-list ct-list--high">
-<details class="ct-row" data-ct-id="science-01-Cell-Genetics-and-Biotechnology-md" data-group="high" data-uk="1">
+<details class="ct-row" data-ct-id="science-and-technology-03-Nutrition-Diseases-and-Medicine-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-01-Cell-Genetics-and-Biotechnology-md" aria-label="Mark Topic 1 — Living World, Cell, Genetics and Biotechnology done">
-    <span class="ct-title">Topic 1 — Living World, Cell, Genetics and Biotechnology</span>
-    <span class="ct-pills">10 Qs · UPPCS 5 · UKPCS 5</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/01_Cell_Genetics_and_Biotechnology/#complete-pyq-bank-uppcs">UPPCS bank — DNA, mutation, nitrogen</a> — 5 questions (UPPCS 5)</li>
-      <li><a href="../subjects/science%20and%20technology/01_Cell_Genetics_and_Biotechnology/#complete-pyq-bank-ukpcs">UKPCS bank — Mendel, recombinant insulin, CRISPR</a> — 5 questions (UKPCS 5)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/01_Cell_Genetics_and_Biotechnology/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-02-Animal-Biology-and-Husbandry-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-02-Animal-Biology-and-Husbandry-md" aria-label="Mark Topic 2 — Animal Biology and Husbandry done">
-    <span class="ct-title">Topic 2 — Animal Biology and Husbandry</span>
-    <span class="ct-pills">12 Qs · UPPCS 11 · UKPCS 1</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/02_Animal_Biology_and_Husbandry/#complete-pyq-bank-uppcs">UPPCS bank — earthworm, silk, mammals, vultures</a> — 11 questions (UPPCS 11)</li>
-      <li><a href="../subjects/science%20and%20technology/02_Animal_Biology_and_Husbandry/#complete-pyq-bank-ukpcs">UKPCS bank — cattle semen storage</a> — 1 question (UKPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/02_Animal_Biology_and_Husbandry/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-03-Nutrition-Diseases-and-Medicine-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-03-Nutrition-Diseases-and-Medicine-md" aria-label="Mark Topic 3 — Nutrition, Vitamins, Diseases and Medicine done">
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-03-Nutrition-Diseases-and-Medicine-md" aria-label="Mark Topic 3 — Nutrition, Vitamins, Diseases and Medicine done">
     <span class="ct-title">Topic 3 — Nutrition, Vitamins, Diseases and Medicine</span>
-    <span class="ct-pills">16 Qs · UPPCS 15 · UKPCS 1</span>
+    <span class="ct-pills">166 Qs · UPPCS 147 · UKPCS 24</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/03_Nutrition_Diseases_and_Medicine/#complete-pyq-bank-uppcs">UPPCS bank — vitamins, Nipah, COVID-19 vaccines, insulin</a> — 15 questions (UPPCS 15)</li>
-      <li><a href="../subjects/science%20and%20technology/03_Nutrition_Diseases_and_Medicine/#complete-pyq-bank-ukpcs">UKPCS bank — scurvy</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/science%20and%20technology/03_Nutrition_Diseases_and_Medicine/#complete-pyq-bank-uppcs">UPPCS</a> — 147 questions (UPPCS 147 · UKPCS 5)</li>
+      <li><a href="../subjects/science%20and%20technology/03_Nutrition_Diseases_and_Medicine/#complete-pyq-bank-ukpcs">UKPCS</a> — 19 questions (UKPCS 19)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/03_Nutrition_Diseases_and_Medicine/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="science-04-Digestion-Respiration-and-Excretion-md" data-group="high" data-uk="1">
+<details class="ct-row" data-ct-id="science-and-technology-17-Scientists-Discoveries-and-Applications-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-04-Digestion-Respiration-and-Excretion-md" aria-label="Mark Topic 4 — Digestion, Respiration and Excretion done">
-    <span class="ct-title">Topic 4 — Digestion, Respiration and Excretion</span>
-    <span class="ct-pills">3 Qs · UPPCS 2 · UKPCS 1</span>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-17-Scientists-Discoveries-and-Applications-md" aria-label="Mark Physics Topic 9 — Scientists, Discoveries, Space, Defence &amp; Applied Science done">
+    <span class="ct-title">Physics Topic 9 — Scientists, Discoveries, Space, Defence &amp; Applied Science</span>
+    <span class="ct-pills">164 Qs · UPPCS 132 · UKPCS 33</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/04_Digestion_Respiration_and_Excretion/#complete-pyq-bank-uppcs">UPPCS bank — protein digestion, pepsin</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/science%20and%20technology/04_Digestion_Respiration_and_Excretion/#complete-pyq-bank-ukpcs">UKPCS bank — kidney transplant immunosuppressor</a> — 1 question (UKPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/04_Digestion_Respiration_and_Excretion/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-05-Blood-Heart-and-Circulation-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-05-Blood-Heart-and-Circulation-md" aria-label="Mark Topic 5 — Blood, Heart, Circulation and Lymph done">
-    <span class="ct-title">Topic 5 — Blood, Heart, Circulation and Lymph</span>
-    <span class="ct-pills">7 Qs · UPPCS 7 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/05_Blood_Heart_and_Circulation/#complete-pyq-bank-uppcs">UPPCS bank — blood, pulmonary vein, chambers, heart transplant</a> — 7 questions (UPPCS 7)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/05_Blood_Heart_and_Circulation/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-06-Control-Reproduction-and-Support-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-06-Control-Reproduction-and-Support-md" aria-label="Mark Topic 6 — Nervous System, Hormones, Reproduction and Support done">
-    <span class="ct-title">Topic 6 — Nervous System, Hormones, Reproduction and Support</span>
-    <span class="ct-pills">2 Qs · UPPCS 2 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/06_Control_Reproduction_and_Support/#complete-pyq-bank-uppcs">UPPCS bank — pancreas as mixed gland, calcium phosphate in bone</a> — 2 questions (UPPCS 2)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/06_Control_Reproduction_and_Support/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-07-Plants-Agriculture-and-Diseases-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-07-Plants-Agriculture-and-Diseases-md" aria-label="Mark Topic 7 — Plants, Agriculture and Plant Diseases done">
-    <span class="ct-title">Topic 7 — Plants, Agriculture and Plant Diseases</span>
-    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/07_Plants_Agriculture_and_Diseases/#complete-pyq-bank-uppcs">UPPCS bank — xylem, diseases, clove, nitrogen, herbicide</a> — 10 questions (UPPCS 10)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/07_Plants_Agriculture_and_Diseases/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-08-Microbiology-Environment-and-Applied-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-08-Microbiology-Environment-and-Applied-md" aria-label="Mark Topic 8 — Microbiology, Environment and Applied Science done">
-    <span class="ct-title">Topic 8 — Microbiology, Environment and Applied Science</span>
-    <span class="ct-pills">6 Qs · UPPCS 4 · UKPCS 2</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/08_Microbiology_Environment_and_Applied/#complete-pyq-bank-uppcs">UPPCS bank — Haemophilus, wool, DDT, pesticide</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/science%20and%20technology/08_Microbiology_Environment_and_Applied/#complete-pyq-bank-ukpcs">UKPCS bank — curd, penicillin</a> — 2 questions (UKPCS 2)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/08_Microbiology_Environment_and_Applied/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-09-Physics-Fundamentals-and-Measurement-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-09-Physics-Fundamentals-and-Measurement-md" aria-label="Mark Physics Topic 1 — Fundamentals, Measurement and Instruments done">
-    <span class="ct-title">Physics Topic 1 — Fundamentals, Measurement and Instruments</span>
-    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/09_Physics_Fundamentals_and_Measurement/#complete-pyq-bank-uppcs">UPPCS bank — ampere, Fahrenheit conversion, becquerel vs curie</a> — 3 questions (UPPCS 3)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/09_Physics_Fundamentals_and_Measurement/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-10-Mechanics-and-Properties-of-Matter-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-10-Mechanics-and-Properties-of-Matter-md" aria-label="Mark Physics Topic 2 — Mechanics and Properties of Matter done">
-    <span class="ct-title">Physics Topic 2 — Mechanics and Properties of Matter</span>
-    <span class="ct-pills">1 Q · UPPCS 0 · UKPCS 1</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/10_Mechanics_and_Properties_of_Matter/#complete-pyq-bank-ukpcs">UKPCS bank — liquid viscosity vs temperature</a> — 1 question (UKPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/10_Mechanics_and_Properties_of_Matter/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-11-Energy-Heat-and-Thermal-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-11-Energy-Heat-and-Thermal-md" aria-label="Mark Physics Topic 3 — Energy, Heat and Thermal Science done">
-    <span class="ct-title">Physics Topic 3 — Energy, Heat and Thermal Science</span>
-    <span class="ct-pills">8 Qs · UPPCS 7 · UKPCS 1</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/11_Energy_Heat_and_Thermal/#complete-pyq-bank-uppcs">UPPCS bank — thermos, petroleum, nuclear vs solar, non-conventional</a> — 7 questions (UPPCS 7)</li>
-      <li><a href="../subjects/science%20and%20technology/11_Energy_Heat_and_Thermal/#complete-pyq-bank-ukpcs">UKPCS bank — expansion coefficients dimension</a> — 1 question (UKPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/11_Energy_Heat_and_Thermal/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-12-Light-Optics-and-Laser-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-12-Light-Optics-and-Laser-md" aria-label="Mark Physics Topic 4 — Light, Optics and Laser Technology done">
-    <span class="ct-title">Physics Topic 4 — Light, Optics and Laser Technology</span>
-    <span class="ct-pills">3 Qs · UPPCS 2 · UKPCS 1</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/12_Light_Optics_and_Laser/#complete-pyq-bank-uppcs">UPPCS bank — optical fibre TIR, atmospheric dust diffusion</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/science%20and%20technology/12_Light_Optics_and_Laser/#complete-pyq-bank-ukpcs">UKPCS bank — speed of light vs refractive index</a> — 1 question (UKPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/12_Light_Optics_and_Laser/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-13-Sound-and-Wave-Motion-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-13-Sound-and-Wave-Motion-md" aria-label="Mark Physics Topic 5 — Sound and Wave Motion done">
-    <span class="ct-title">Physics Topic 5 — Sound and Wave Motion</span>
-    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/13_Sound_and_Wave_Motion/#complete-pyq-bank-uppcs">UPPCS bank — speed in steel, 20 dB leaves, Moradabad, noise limits</a> — 4 questions (UPPCS 4)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/13_Sound_and_Wave_Motion/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-14-Electricity-and-Magnetism-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-14-Electricity-and-Magnetism-md" aria-label="Mark Physics Topic 6 — Electricity, Magnetism and Electromagnetism done">
-    <span class="ct-title">Physics Topic 6 — Electricity, Magnetism and Electromagnetism</span>
-    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/14_Electricity_and_Magnetism/#complete-pyq-bank-uppcs">UPPCS bank — soap bubble, electric potential, fuse alloy A/R</a> — 3 questions (UPPCS 3)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/14_Electricity_and_Magnetism/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-15-Electronics-Semiconductors-and-Computers-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-15-Electronics-Semiconductors-and-Computers-md" aria-label="Mark Physics Topic 7 — Electronics, Semiconductors and Computers done">
-    <span class="ct-title">Physics Topic 7 — Electronics, Semiconductors and Computers</span>
-    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/15_Electronics_Semiconductors_and_Computers/#complete-pyq-bank-uppcs">UPPCS bank — silicon semiconductor, input devices, ROM non-volatile</a> — 3 questions (UPPCS 3)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/15_Electronics_Semiconductors_and_Computers/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-16-Nuclear-and-Atomic-Physics-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-16-Nuclear-and-Atomic-Physics-md" aria-label="Mark Physics Topic 8 — Nuclear and Atomic Physics done">
-    <span class="ct-title">Physics Topic 8 — Nuclear and Atomic Physics</span>
-    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/16_Nuclear_and_Atomic_Physics/#complete-pyq-bank-uppcs">UPPCS bank — neutrino, radioactivity vs H-bomb, isotopes, plant–state match</a> — 4 questions (UPPCS 4)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/16_Nuclear_and_Atomic_Physics/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-17-Scientists-Discoveries-and-Applications-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-17-Scientists-Discoveries-and-Applications-md" aria-label="Mark Physics Topic 9 — Scientists, Discoveries and Applications done">
-    <span class="ct-title">Physics Topic 9 — Scientists, Discoveries and Applications</span>
-    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/17_Scientists_Discoveries_and_Applications/#complete-pyq-bank-uppcs">UPPCS bank — Roentgen X-ray, Einstein photoelectric Nobel, Hawking book</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/science%20and%20technology/17_Scientists_Discoveries_and_Applications/#complete-pyq-bank-uppcs">UPPCS</a> — 135 questions (UPPCS 132 · UKPCS 4)</li>
+      <li><a href="../subjects/science%20and%20technology/17_Scientists_Discoveries_and_Applications/#complete-pyq-bank-ukpcs">UKPCS</a> — 29 questions (UKPCS 29)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/17_Scientists_Discoveries_and_Applications/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="science-18-Atomic-Structure-and-Periodic-Table-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="science-and-technology-15-Electronics-Semiconductors-and-Computers-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-18-Atomic-Structure-and-Periodic-Table-md" aria-label="Mark Chemistry Topic 1 — Atomic Structure and Periodic Table done">
-    <span class="ct-title">Chemistry Topic 1 — Atomic Structure and Periodic Table</span>
-    <span class="ct-pills">83 Qs · UPPCS 15 · UKPCS 1 · Other 41 · Drill 26</span>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-15-Electronics-Semiconductors-and-Computers-md" aria-label="Mark Physics Topic 7 — Electronics, Semiconductors and Computers done">
+    <span class="ct-title">Physics Topic 7 — Electronics, Semiconductors and Computers</span>
+    <span class="ct-pills">120 Qs · UPPCS 58 · UKPCS 68</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/18_Atomic_Structure_and_Periodic_Table/#complete-pyq-bank-uppcs">UPPCS bank — noble gas Actinium, isotopes, body Cu–Fe–Na–K order</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/science%20and%20technology/15_Electronics_Semiconductors_and_Computers/#complete-pyq-bank-ukpcs">UKPCS</a> — 62 questions (UKPCS 62)</li>
+      <li><a href="../subjects/science%20and%20technology/15_Electronics_Semiconductors_and_Computers/#complete-pyq-bank-uppcs">UPPCS</a> — 58 questions (UPPCS 58 · UKPCS 6)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/18_Atomic_Structure_and_Periodic_Table/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/15_Electronics_Semiconductors_and_Computers/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="science-19-Matter-Solutions-and-Purification-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="science-and-technology-07-Plants-Agriculture-and-Diseases-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-19-Matter-Solutions-and-Purification-md" aria-label="Mark Chemistry Topic 2 — Matter, Solutions and Purification done">
-    <span class="ct-title">Chemistry Topic 2 — Matter, Solutions and Purification</span>
-    <span class="ct-pills">64 Qs · UPPCS 12 · UKPCS 0 · Other 26 · Drill 26</span>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-07-Plants-Agriculture-and-Diseases-md" aria-label="Mark Topic 7 — Plants, Agriculture and Plant Diseases done">
+    <span class="ct-title">Topic 7 — Plants, Agriculture and Plant Diseases</span>
+    <span class="ct-pills">112 Qs · UPPCS 98 · UKPCS 14</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/19_Matter_Solutions_and_Purification/#complete-pyq-bank-uppcs">UPPCS bank — sublimation, salt-water homogeneous A/R, milk emulsion</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/science%20and%20technology/07_Plants_Agriculture_and_Diseases/#complete-pyq-bank-uppcs">UPPCS</a> — 99 questions (UPPCS 98 · UKPCS 1)</li>
+      <li><a href="../subjects/science%20and%20technology/07_Plants_Agriculture_and_Diseases/#complete-pyq-bank-ukpcs">UKPCS</a> — 13 questions (UKPCS 13)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/19_Matter_Solutions_and_Purification/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/07_Plants_Agriculture_and_Diseases/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="science-20-Metals-and-Chemical-Reactions-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="science-and-technology-01-Cell-Genetics-and-Biotechnology-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-20-Metals-and-Chemical-Reactions-md" aria-label="Mark Chemistry Topic 3 — Metals and Chemical Reactions done">
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-01-Cell-Genetics-and-Biotechnology-md" aria-label="Mark Topic 1 — Living World, Cell, Genetics and Biotechnology done">
+    <span class="ct-title">Topic 1 — Living World, Cell, Genetics and Biotechnology</span>
+    <span class="ct-pills">71 Qs · UPPCS 53 · UKPCS 18</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/01_Cell_Genetics_and_Biotechnology/#complete-pyq-bank-uppcs">UPPCS</a> — 53 questions (UPPCS 53)</li>
+      <li><a href="../subjects/science%20and%20technology/01_Cell_Genetics_and_Biotechnology/#complete-pyq-bank-ukpcs">UKPCS</a> — 18 questions (UKPCS 18)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/01_Cell_Genetics_and_Biotechnology/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-08-Microbiology-Environment-and-Applied-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-08-Microbiology-Environment-and-Applied-md" aria-label="Mark Topic 8 — Microbiology, Environment and Applied Science done">
+    <span class="ct-title">Topic 8 — Microbiology, Environment and Applied Science</span>
+    <span class="ct-pills">62 Qs · UPPCS 54 · UKPCS 9</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/08_Microbiology_Environment_and_Applied/#complete-pyq-bank-uppcs">UPPCS</a> — 54 questions (UPPCS 54 · UKPCS 1)</li>
+      <li><a href="../subjects/science%20and%20technology/08_Microbiology_Environment_and_Applied/#complete-pyq-bank-ukpcs">UKPCS</a> — 8 questions (UKPCS 8)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/08_Microbiology_Environment_and_Applied/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-10-Mechanics-and-Properties-of-Matter-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-10-Mechanics-and-Properties-of-Matter-md" aria-label="Mark Physics Topic 2 — Mechanics and Properties of Matter done">
+    <span class="ct-title">Physics Topic 2 — Mechanics and Properties of Matter</span>
+    <span class="ct-pills">39 Qs · UPPCS 32 · UKPCS 7</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/10_Mechanics_and_Properties_of_Matter/#complete-pyq-bank-uppcs">UPPCS</a> — 32 questions (UPPCS 32)</li>
+      <li><a href="../subjects/science%20and%20technology/10_Mechanics_and_Properties_of_Matter/#complete-pyq-bank-ukpcs">UKPCS</a> — 7 questions (UKPCS 7)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/10_Mechanics_and_Properties_of_Matter/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-16-Nuclear-and-Atomic-Physics-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-16-Nuclear-and-Atomic-Physics-md" aria-label="Mark Physics Topic 8 — Nuclear and Atomic Physics done">
+    <span class="ct-title">Physics Topic 8 — Nuclear and Atomic Physics</span>
+    <span class="ct-pills">39 Qs · UPPCS 32 · UKPCS 7</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/16_Nuclear_and_Atomic_Physics/#complete-pyq-bank-uppcs">UPPCS</a> — 32 questions (UPPCS 32)</li>
+      <li><a href="../subjects/science%20and%20technology/16_Nuclear_and_Atomic_Physics/#complete-pyq-bank-ukpcs">UKPCS</a> — 7 questions (UKPCS 7)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/16_Nuclear_and_Atomic_Physics/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-13-Sound-and-Wave-Motion-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-13-Sound-and-Wave-Motion-md" aria-label="Mark Physics Topic 5 — Sound and Wave Motion done">
+    <span class="ct-title">Physics Topic 5 — Sound and Wave Motion</span>
+    <span class="ct-pills">38 Qs · UPPCS 32 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/13_Sound_and_Wave_Motion/#complete-pyq-bank-uppcs">UPPCS</a> — 33 questions (UPPCS 32 · UKPCS 1)</li>
+      <li><a href="../subjects/science%20and%20technology/13_Sound_and_Wave_Motion/#complete-pyq-bank-ukpcs">UKPCS</a> — 5 questions (UKPCS 5)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/13_Sound_and_Wave_Motion/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-02-Animal-Biology-and-Husbandry-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-02-Animal-Biology-and-Husbandry-md" aria-label="Mark Topic 2 — Animal Biology and Husbandry done">
+    <span class="ct-title">Topic 2 — Animal Biology and Husbandry</span>
+    <span class="ct-pills">38 Qs · UPPCS 30 · UKPCS 8</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/02_Animal_Biology_and_Husbandry/#complete-pyq-bank-uppcs">UPPCS</a> — 30 questions (UPPCS 30)</li>
+      <li><a href="../subjects/science%20and%20technology/02_Animal_Biology_and_Husbandry/#complete-pyq-bank-ukpcs">UKPCS</a> — 8 questions (UKPCS 8)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/02_Animal_Biology_and_Husbandry/">Open chapter</a>
+  </div>
+</details>
+</div>
+
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="science-and-technology-05-Blood-Heart-and-Circulation-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-05-Blood-Heart-and-Circulation-md" aria-label="Mark Topic 5 — Blood, Heart, Circulation and Lymph done">
+    <span class="ct-title">Topic 5 — Blood, Heart, Circulation and Lymph</span>
+    <span class="ct-pills">34 Qs · UPPCS 25 · UKPCS 11</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/05_Blood_Heart_and_Circulation/#complete-pyq-bank-uppcs">UPPCS</a> — 26 questions (UPPCS 25 · UKPCS 3)</li>
+      <li><a href="../subjects/science%20and%20technology/05_Blood_Heart_and_Circulation/#complete-pyq-bank-ukpcs">UKPCS</a> — 8 questions (UKPCS 8)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/05_Blood_Heart_and_Circulation/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-06-Control-Reproduction-and-Support-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-06-Control-Reproduction-and-Support-md" aria-label="Mark Topic 6 — Nervous System, Hormones, Reproduction and Support done">
+    <span class="ct-title">Topic 6 — Nervous System, Hormones, Reproduction and Support</span>
+    <span class="ct-pills">34 Qs · UPPCS 32 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/06_Control_Reproduction_and_Support/#complete-pyq-bank-uppcs">UPPCS</a> — 32 questions (UPPCS 31 · UKPCS 2)</li>
+      <li><a href="../subjects/science%20and%20technology/06_Control_Reproduction_and_Support/#complete-pyq-bank-bpsc-ras-mppcs-ias-ghatnachakra-skeletal-muscular-focus">BPSC, RAS, MPPCS &amp; IAS (Ghatnachakra Skeletal &amp; Muscular Focus)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/science%20and%20technology/06_Control_Reproduction_and_Support/#complete-pyq-bank-ukpcs">UKPCS</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/06_Control_Reproduction_and_Support/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-20-Metals-and-Chemical-Reactions-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-20-Metals-and-Chemical-Reactions-md" aria-label="Mark Chemistry Topic 3 — Metals and Chemical Reactions done">
     <span class="ct-title">Chemistry Topic 3 — Metals and Chemical Reactions</span>
-    <span class="ct-pills">143 Qs · UPPCS 41 · UKPCS 7 · Other 69 · Drill 26</span>
+    <span class="ct-pills">31 Qs · UPPCS 24 · UKPCS 8</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/20_Metals_and_Chemical_Reactions/#complete-pyq-bank-uppcs">UPPCS bank — Na/Hg/Ag/Pb properties, graphite stability</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/science%20and%20technology/20_Metals_and_Chemical_Reactions/#complete-pyq-bank-uppcs-up-roaro">UPPCS &amp; UP RO/ARO</a> — 25 questions (UPPCS 24 · UKPCS 2)</li>
+      <li><a href="../subjects/science%20and%20technology/20_Metals_and_Chemical_Reactions/#complete-pyq-bank-ukpcs">UKPCS</a> — 6 questions (UKPCS 6)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/20_Metals_and_Chemical_Reactions/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="science-21-Acids-Bases-Salts-and-Sucrose-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="science-and-technology-22-Carbon-Organic-and-Polymers-md" data-group="medium" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-21-Acids-Bases-Salts-and-Sucrose-md" aria-label="Mark Chemistry Topic 4 — Acids, Bases, Salts and Sucrose done">
-    <span class="ct-title">Chemistry Topic 4 — Acids, Bases, Salts and Sucrose</span>
-    <span class="ct-pills">6 Qs · UPPCS 6 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/21_Acids_Bases_Salts_and_Sucrose/#complete-pyq-bank-uppcs">UPPCS bank — litmus, baking soda, pH, acid–source pairs</a> — 6 questions (UPPCS 6)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/21_Acids_Bases_Salts_and_Sucrose/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="science-22-Carbon-Organic-and-Polymers-md" data-group="high" data-uk="1">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-22-Carbon-Organic-and-Polymers-md" aria-label="Mark Chemistry Topic 5 — Carbon, Organic Chemistry and Polymers done">
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-22-Carbon-Organic-and-Polymers-md" aria-label="Mark Chemistry Topic 5 — Carbon, Organic Chemistry and Polymers done">
     <span class="ct-title">Chemistry Topic 5 — Carbon, Organic Chemistry and Polymers</span>
-    <span class="ct-pills">67 Qs · UPPCS 25 · UKPCS 1 · Other 15 · Drill 26</span>
+    <span class="ct-pills">31 Qs · UPPCS 24 · UKPCS 7</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/22_Carbon_Organic_and_Polymers/#complete-pyq-bank-uppcs">UPPCS bank — thermoplastic, fibroin, rayon, Kevlar, graphene chronology</a> — 7 questions (UPPCS 7)</li>
-      <li><a href="../subjects/science%20and%20technology/22_Carbon_Organic_and_Polymers/#complete-pyq-bank-ukpcs">UKPCS bank — Teflon / PTFE</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/science%20and%20technology/22_Carbon_Organic_and_Polymers/#complete-pyq-bank-state-pcs-98-questions">State PCS (98 Questions)</a> — 31 questions (UPPCS 24 · UKPCS 7)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/22_Carbon_Organic_and_Polymers/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="science-23-Gases-Fuels-and-Energy-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="science-and-technology-09-Physics-Fundamentals-and-Measurement-md" data-group="medium" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-23-Gases-Fuels-and-Energy-md" aria-label="Mark Chemistry Topic 6 — Gases, Fuels and Energy done">
-    <span class="ct-title">Chemistry Topic 6 — Gases, Fuels and Energy</span>
-    <span class="ct-pills">95 Qs · UPPCS 27 · UKPCS 5 · Other 37 · Drill 26</span>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-09-Physics-Fundamentals-and-Measurement-md" aria-label="Mark Physics Topic 1 — Fundamentals, Measurement and Instruments done">
+    <span class="ct-title">Physics Topic 1 — Fundamentals, Measurement and Instruments</span>
+    <span class="ct-pills">31 Qs · UPPCS 23 · UKPCS 8</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/23_Gases_Fuels_and_Energy/#complete-pyq-bank-uppcs">UPPCS bank — LPG, CNG, natural gas, biogas, petroleum / biomass</a> — 7 questions (UPPCS 7)</li>
+      <li><a href="../subjects/science%20and%20technology/09_Physics_Fundamentals_and_Measurement/#complete-pyq-bank-uppcs">UPPCS</a> — 23 questions (UPPCS 23)</li>
+      <li><a href="../subjects/science%20and%20technology/09_Physics_Fundamentals_and_Measurement/#complete-pyq-bank-ukpcs">UKPCS</a> — 8 questions (UKPCS 8)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/23_Gases_Fuels_and_Energy/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/09_Physics_Fundamentals_and_Measurement/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="science-24-Chemistry-Daily-Life-and-Agriculture-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="science-and-technology-11-Energy-Heat-and-Thermal-md" data-group="medium" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-24-Chemistry-Daily-Life-and-Agriculture-md" aria-label="Mark Chemistry Topic 7 — Chemistry in Daily Life, Industry and Agriculture done">
-    <span class="ct-title">Chemistry Topic 7 — Chemistry in Daily Life, Industry and Agriculture</span>
-    <span class="ct-pills">5 Qs · UPPCS 5 · UKPCS 0</span>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-11-Energy-Heat-and-Thermal-md" aria-label="Mark Physics Topic 3 — Energy, Heat and Thermal Science done">
+    <span class="ct-title">Physics Topic 3 — Energy, Heat and Thermal Science</span>
+    <span class="ct-pills">31 Qs · UPPCS 26 · UKPCS 5</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/24_Chemistry_Daily_Life_and_Agriculture/#complete-pyq-bank-uppcs">UPPCS bank — AgBr, herbicide, Crookes glass, DDT, pesticide</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/science%20and%20technology/11_Energy_Heat_and_Thermal/#complete-pyq-bank-uppcs">UPPCS</a> — 20 questions (UPPCS 20)</li>
+      <li><a href="../subjects/science%20and%20technology/11_Energy_Heat_and_Thermal/#complete-pyq-bank-bpsc-ias-other-state-pcs-ghatnachakra-focus">BPSC, IAS &amp; Other State PCS (Ghatnachakra Focus)</a> — 7 questions (UPPCS 6 · UKPCS 1)</li>
+      <li><a href="../subjects/science%20and%20technology/11_Energy_Heat_and_Thermal/#complete-pyq-bank-ukpcs">UKPCS</a> — 4 questions (UKPCS 4)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/24_Chemistry_Daily_Life_and_Agriculture/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/11_Energy_Heat_and_Thermal/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="science-25-Radiation-Nuclear-and-Environment-Chem-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="science-and-technology-14-Electricity-and-Magnetism-md" data-group="medium" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-25-Radiation-Nuclear-and-Environment-Chem-md" aria-label="Mark Chemistry Topic 8 — Radiation, Nuclear Chemistry, Explosives and Environmental Chemistry done">
-    <span class="ct-title">Chemistry Topic 8 — Radiation, Nuclear Chemistry, Explosives and Environmental Chemistry</span>
-    <span class="ct-pills">5 Qs · UPPCS 5 · UKPCS 0</span>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-14-Electricity-and-Magnetism-md" aria-label="Mark Physics Topic 6 — Electricity, Magnetism and Electromagnetism done">
+    <span class="ct-title">Physics Topic 6 — Electricity, Magnetism and Electromagnetism</span>
+    <span class="ct-pills">31 Qs · UPPCS 27 · UKPCS 6</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/25_Radiation_Nuclear_and_Environment_Chem/#complete-pyq-bank-uppcs">UPPCS bank — radioactivity, acid rain, ozone, argon GHG, photochemical smog</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/science%20and%20technology/14_Electricity_and_Magnetism/#complete-pyq-bank-uppcs">UPPCS</a> — 27 questions (UPPCS 27 · UKPCS 2)</li>
+      <li><a href="../subjects/science%20and%20technology/14_Electricity_and_Magnetism/#complete-pyq-bank-ukpcs">UKPCS</a> — 4 questions (UKPCS 4)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/25_Radiation_Nuclear_and_Environment_Chem/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/14_Electricity_and_Magnetism/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="science-26-Chemistry-Discoveries-and-Miscellaneous-md" data-group="high" data-uk="1">
+<details class="ct-row" data-ct-id="science-and-technology-04-Digestion-Respiration-and-Excretion-md" data-group="medium" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="science-26-Chemistry-Discoveries-and-Miscellaneous-md" aria-label="Mark Chemistry Topic 9 — Discoveries, Discoverers and Miscellaneous Chemistry done">
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-04-Digestion-Respiration-and-Excretion-md" aria-label="Mark Topic 4 — Digestion, Respiration and Excretion done">
+    <span class="ct-title">Topic 4 — Digestion, Respiration and Excretion</span>
+    <span class="ct-pills">26 Qs · UPPCS 22 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/04_Digestion_Respiration_and_Excretion/#complete-pyq-bank-uppcs">UPPCS</a> — 22 questions (UPPCS 22 · UKPCS 1)</li>
+      <li><a href="../subjects/science%20and%20technology/04_Digestion_Respiration_and_Excretion/#complete-pyq-bank-ukpcs">UKPCS</a> — 4 questions (UKPCS 4)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/04_Digestion_Respiration_and_Excretion/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-26-Chemistry-Discoveries-and-Miscellaneous-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-26-Chemistry-Discoveries-and-Miscellaneous-md" aria-label="Mark Chemistry Topic 9 — Discoveries, Discoverers and Miscellaneous Chemistry done">
     <span class="ct-title">Chemistry Topic 9 — Discoveries, Discoverers and Miscellaneous Chemistry</span>
-    <span class="ct-pills">6 Qs · UPPCS 4 · UKPCS 2</span>
+    <span class="ct-pills">24 Qs · UPPCS 20 · UKPCS 4</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/science%20and%20technology/26_Chemistry_Discoveries_and_Miscellaneous/#complete-pyq-bank-uppcs">UPPCS bank — blue vitriol match, laughing gas, actinium, gypsum</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/science%20and%20technology/26_Chemistry_Discoveries_and_Miscellaneous/#complete-pyq-bank-ukpcs">UKPCS bank — heavy water moderator, 2021 Chemistry Nobel</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/science%20and%20technology/26_Chemistry_Discoveries_and_Miscellaneous/#complete-pyq-bank-state-pcs-34-questions">State PCS (34 Questions)</a> — 24 questions (UPPCS 20 · UKPCS 4)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/26_Chemistry_Discoveries_and_Miscellaneous/">Open chapter</a>
   </div>
 </details>
 </div>
-<p class="ct-empty-note">Part 1 Biology, Part 2 Physics and Part 3 Chemistry are fully written. Wider Unit 5 (IT, space, organisations) still opens from the <a href="../subjects/science%20and%20technology/00_Syllabus/">S&amp;T syllabus</a>.</p>
+
+<h3 class="ct-group-title">Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="science-and-technology-23-Gases-Fuels-and-Energy-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-23-Gases-Fuels-and-Energy-md" aria-label="Mark Chemistry Topic 6 — Gases, Fuels and Energy done">
+    <span class="ct-title">Chemistry Topic 6 — Gases, Fuels and Energy</span>
+    <span class="ct-pills">21 Qs · UPPCS 18 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/23_Gases_Fuels_and_Energy/#complete-pyq-bank-state-pcs-69-questions">State PCS (69 Questions)</a> — 21 questions (UPPCS 18 · UKPCS 4)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/23_Gases_Fuels_and_Energy/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-12-Light-Optics-and-Laser-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-12-Light-Optics-and-Laser-md" aria-label="Mark Physics Topic 4 — Light, Optics and Laser Technology done">
+    <span class="ct-title">Physics Topic 4 — Light, Optics and Laser Technology</span>
+    <span class="ct-pills">21 Qs · UPPCS 16 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/12_Light_Optics_and_Laser/#complete-pyq-bank-uppcs">UPPCS</a> — 13 questions (UPPCS 13)</li>
+      <li><a href="../subjects/science%20and%20technology/12_Light_Optics_and_Laser/#complete-pyq-bank-ukpcs">UKPCS</a> — 5 questions (UKPCS 5)</li>
+      <li><a href="../subjects/science%20and%20technology/12_Light_Optics_and_Laser/#complete-pyq-bank-bpsc-ias-other-state-pcs-ghatnachakra-focus">BPSC, IAS &amp; Other State PCS (Ghatnachakra Focus)</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/12_Light_Optics_and_Laser/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-18-Atomic-Structure-and-Periodic-Table-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-18-Atomic-Structure-and-Periodic-Table-md" aria-label="Mark Chemistry Topic 1 — Atomic Structure and Periodic Table done">
+    <span class="ct-title">Chemistry Topic 1 — Atomic Structure and Periodic Table</span>
+    <span class="ct-pills">11 Qs · UPPCS 10 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/18_Atomic_Structure_and_Periodic_Table/#complete-pyq-bank-uppcs-up-roaro">UPPCS &amp; UP RO/ARO</a> — 10 questions (UPPCS 10)</li>
+      <li><a href="../subjects/science%20and%20technology/18_Atomic_Structure_and_Periodic_Table/#complete-pyq-bank-ukpcs">UKPCS</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/18_Atomic_Structure_and_Periodic_Table/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-21-Acids-Bases-Salts-and-Sucrose-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-21-Acids-Bases-Salts-and-Sucrose-md" aria-label="Mark Chemistry Topic 4 — Acids, Bases, Salts and Sucrose done">
+    <span class="ct-title">Chemistry Topic 4 — Acids, Bases, Salts and Sucrose</span>
+    <span class="ct-pills">11 Qs · UPPCS 10 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/21_Acids_Bases_Salts_and_Sucrose/#complete-pyq-bank-state-pcs-65-questions">State PCS (65 Questions)</a> — 11 questions (UPPCS 10 · UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/21_Acids_Bases_Salts_and_Sucrose/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-24-Chemistry-Daily-Life-and-Agriculture-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-24-Chemistry-Daily-Life-and-Agriculture-md" aria-label="Mark Chemistry Topic 7 — Chemistry in Daily Life, Industry and Agriculture done">
+    <span class="ct-title">Chemistry Topic 7 — Chemistry in Daily Life, Industry and Agriculture</span>
+    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/24_Chemistry_Daily_Life_and_Agriculture/#complete-pyq-bank-state-pcs-34-questions">State PCS (34 Questions)</a> — 10 questions (UPPCS 10)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/24_Chemistry_Daily_Life_and_Agriculture/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-19-Matter-Solutions-and-Purification-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-19-Matter-Solutions-and-Purification-md" aria-label="Mark Chemistry Topic 2 — Matter, Solutions and Purification done">
+    <span class="ct-title">Chemistry Topic 2 — Matter, Solutions and Purification</span>
+    <span class="ct-pills">9 Qs · UPPCS 9 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/19_Matter_Solutions_and_Purification/#complete-pyq-bank-uppcs-up-roaro">UPPCS &amp; UP RO/ARO</a> — 9 questions (UPPCS 9)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/19_Matter_Solutions_and_Purification/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-25-Radiation-Nuclear-and-Environment-Chem-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-25-Radiation-Nuclear-and-Environment-Chem-md" aria-label="Mark Chemistry Topic 8 — Radiation, Nuclear Chemistry, Explosives and Environmental Chemistry done">
+    <span class="ct-title">Chemistry Topic 8 — Radiation, Nuclear Chemistry, Explosives and Environmental Chemistry</span>
+    <span class="ct-pills">6 Qs · UPPCS 5 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/25_Radiation_Nuclear_and_Environment_Chem/#complete-pyq-bank-state-pcs-13-questions">State PCS (13 Questions)</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/25_Radiation_Nuclear_and_Environment_Chem/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-01-Biology-Syllabus-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-01-Biology-Syllabus-md" aria-label="Mark Part 1 — Biology (chapter map) done">
+    <span class="ct-title">Part 1 — Biology (chapter map)</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/01_Biology_Syllabus/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-02-Physics-Syllabus-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-02-Physics-Syllabus-md" aria-label="Mark Part 2 — Physics (chapter map) done">
+    <span class="ct-title">Part 2 — Physics (chapter map)</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/02_Physics_Syllabus/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-and-technology-03-Chemistry-Syllabus-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-and-technology-03-Chemistry-Syllabus-md" aria-label="Mark Part 3 — Chemistry (chapter map) done">
+    <span class="ct-title">Part 3 — Chemistry (chapter map)</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/03_Chemistry_Syllabus/">Open chapter</a>
+  </div>
+</details>
+</div>
+
   </div>
 </details>
 

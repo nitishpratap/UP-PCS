@@ -310,37 +310,7 @@ Use this table only to **order** revolts. Causes, course and results sit in the 
 
 > **Logic:** Kuka ≠ 1857. Kuka ≠ Pabna. Year tag for chronology is **1872**.
 
-**PYQ — UPPCS Prelims 2025, Q25**
-
-Consider the following revolts and arrange them in correct chronological order.
-
-1. Pabna Revolt
-
-2. Indigo Revolt
-
-3. Kuka Revolt
-
-4. Sanyasi Revolt
-
-Select the correct answer from the code given below:
-
-A. 4, 3, 2, 1
-
-B. 3, 4, 1, 2
-
-C. 3, 4, 2, 1
-
-D. 4, 2, 3, 1
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Four-revolt chronology opener — Sanyasi is earliest; Pabna is last.
-
-**Ans: D.** Sanyasi → Indigo → Kuka → Pabna.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2025 Q25):** Chronological order of key revolts: **Sanyasi Revolt (1763–1800)** → **Indigo Revolt (1859–60)** → **Kuka Movement (1840s–1872)** → **Pabna Peasant Uprising (1873–76)**.
 
 ---
 
@@ -540,25 +510,7 @@ D. 4, 2, 3, 1
 
 > **Logic:** **1918 = Dwivedi.** Ramchandra = Awadh mass leader. Sahajanand = AIKS **1936**.
 
-**PYQ — UPPCS Prelims 2023, Q41**
-
-In 1918, the **United Provinces Kisan Sabha** was formed by which of the following leaders?
-
-A. Baba Ramchandra
-
-B. Indra Narayan Dwivedi
-
-C. Swami Sahajanand Saraswati
-
-D. Pt. Jawaharlal Nehru
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2023 Q41):** The **United Provinces Kisan Sabha** was formed in February 1918 by **Indra Narayan Dwivedi**, **Gauri Shankar Mishra**, and supported by **Madan Mohan Malaviya**. Baba Ramchandra later organized the Oudh Kisan Sabha in October 1920.
 
 ---
 
@@ -664,35 +616,7 @@ D. Pt. Jawaharlal Nehru
 
 > **Logic:** Santhal = **1855–56 + Sidhu–Kanhu + *diku***. 2018 pair is correct. 2019 code = **1 (1855–56)**. Not Birsa. Not 1857.
 
-**PYQ — UPPCS Prelims 2019, Q18**
-
-Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
-
-**List-I (Movement)**  **List-II (Year)**
-
-A. Pabna  1. 1855-56
-
-B. Eka  2. 1873-85
-
-C. Santhal  3. 1922
-
-D. Tana Bhagat  4. 1914
-
-A. 1 2 4 3
-
-B. 2 3 1 4
-
-C. 3 1 4 2
-
-D. 4 3 2 1
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: B** — Pabna 1873–85; Eka 1922; Santhal 1855–56; Tana Bhagat 1914.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2019 Q18):** Chronology & years match: **Santhal Rebellion** (1855–56) → **Pabna Peasant Uprising** (1873–85) → **Tana Bhagat Movement** (1914) → **Eka Movement** (1921–22).
 
 ---
 
@@ -1100,57 +1024,9 @@ D. 4 3 2 1
 
 > **Logic:** 2024 four-leader map = **Paika–Jagabandhu, Bareilly–Aiwaz, Malabar–Edachena, Sylhet–Radharam (4 3 1 2)**. 2018 unmatched = **Ahom 1815**.
 
-**PYQ — UPPCS Prelims 2024, Q138**
+> [!TIP] **Exam Anchor (UPPCS 2024 Q138):** Crucial Leaders Match: **Paika Rebellion (1817)** led by **Bakshi Jagabandhu (Bidyadhar Mahapatra)**; **Bareilly (1816)** led by **Mufti Muhammad Aiwaz**; **Malabar (1802)** led by **Edachena Kungan**; **Sylhet (Pratapgarh)** led by **Radharam**.
 
-Match List-I with List-II and choose the correct answer using the codes given below the lists:
-
-**List-I (Revolt)**  **List-II (Leader)**
-
-A. Paika Revolt  1. Edachena Kungan
-
-B. Bareilly Revolt  2. Radharam
-
-C. Malabar Revolt  3. Mufti Muhammad Aiwaz
-
-D. Sylhet Revolt  4. Jagabandhu Bidyadhar Mahapatra
-
-A. 4 3 1 2
-
-B. 3 4 1 2
-
-C. 3 2 1 4
-
-D. 2 1 3 4
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**PYQ — UPPCS Prelims 2018, Q23**
-
-Which of the following pairs is NOT correctly matched?
-
-Rebellion  Year
-
-A. Santhal 1855
-
-B. Kol 1831 (कोल)
-
-C. Khasi 1829
-
-D. Ahom 1815
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D** — Ahom rising is **~1828**, not 1815.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2018 Q23):** Revolt year trap: **Ahom Revolt** occurred in **1828** (led by Gomdhar Kunwar), NOT 1815. Santhal = 1855, Kol = 1831, Khasi = 1829.
 
 ---
 
@@ -1188,25 +1064,7 @@ D. Ahom 1815
 
 > **Logic:** Moplah = **1921 Malabar tenants**. Not Bardoli 1928. Not 1919. Patel did not lead it.
 
-**PYQ — UPPCS Prelims 2023, Q47**
-
-Which of the following events was the **last** in chronological order?
-
-A. Home Rule Movement
-
-B. Khilafat Movement
-
-C. Jallianwala Bagh (जलियांवाला बाग) Massacre
-
-D. Moplah Revolt
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D** — Moplah, 1921.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2023 Q47):** Chronological sequence: Home Rule (1916) → Rowlatt / Jallianwala Bagh (April 1919) → Khilafat (1919–20) → **Moplah Rebellion (August 1921)** — Moplah was the latest event.
 
 ---
 
@@ -1401,77 +1259,11 @@ D. Moplah Revolt
 
 > **Logic:** Joshi = **ILO 1919**. AITUC = **1920**. INTUC = **1947 Congress**. BMS = **1955 BJP**.
 
-**PYQ — UPPCS Prelims 2020, Q16**
+> [!TIP] **Exam Anchor (UPPCS 2020 Q16):** At the **1919 Washington Summit of the International Labour Organisation (ILO)**, **N.M. Joshi** was deputed as the workers representative of India, with B.P. Wadia as advisor.
 
-Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
+> [!TIP] **Exam Anchor (UPPCS 2024 Q14):** **Workers and Peasants Party (WPP)** was formed across Bombay, Bengal, Punjab, and UP (1926–1928) and culminated in an All-India organization in **December 1928** (at Calcutta). Its primary objective was to radicalize the Congress from within.
 
-A. V.P. Wadia
-
-B. N.M. Joshi
-
-C. C.F. Andrews
-
-D. Joseph Baptista
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**PYQ — UPPCS Prelims 2024, Q14**
-
-Consider the following statements with reference to the Workers and Peasants Party:
-
-1. The Workers and Peasants Party was formed in 1927 and was given the form of an All India Organisation.
-
-2. The objective of this party was to work within the Congress so that it could be made a more revolution inclined party and an organisation of the common people.
-
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D** — All-India form is **December 1928**, not a clean 1927 All-India birth. Home **Topic 12**.
-
-</details>
-
-**PYQ — UPPCS Prelims 2022, Q123**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Trade Union)**  **List-II (Political Affiliation)**
-
-A. Bharatiya Mazdoor Sangh  1. Indian National Congress
-
-B. Indian National Trade Union Congress  2. Communist Party of India
-
-C. United Trade Union Congress  3. Communist Party of India (Marxist)
-
-D. All India Trade Union Congress  4. Bharatiya Janata Party
-
-Standard paper code: A. 2 4 3 1 B. 3 2 1 4 C. 1 3 2 4 D. **4 1 3 2**
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D** — BMS–BJP; INTUC–Congress; UTUC–CPI(M); AITUC–CPI.
-
-Local `pyq/2022` option strings do not list `4 1 3 2` (OCR/set mismatch). Learn the **pairs**, not a broken option letter.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2022 Q123):** Trade Union Political Affiliations: **BMS** (Bharatiya Mazdoor Sangh) ↔ **BJP**; **INTUC** ↔ **Indian National Congress**; **AITUC** ↔ **CPI**; **UTUC** ↔ **CPI(M)** (and Revolutionary Socialist Party).
 
 ---
 
@@ -1507,6 +1299,55 @@ Local `pyq/2022` option strings do not list `4 1 3 2` (OCR/set mismatch). Learn 
 | Awadh begar / bedakhli | Core tenant grievances |
 
 ---
+
+### 8.16 Master Fact-Locks — Civil & Tribal Uprisings High-Yield Repository
+
+| Concept / Uprising | Leader / Proponent | Year / Period | Key Diagnostic Fact & Exam Anchor |
+|---|---|---|---|
+| **Sanyasi Revolt** | Sanyasis & Fakirs, Bhavani Pathak, Debi Chaudhurani | 1763–1800 | Bengal; sparked by 1770 famine & pilgrimage bans; immortalized in Bankim Chandra's *Anandmath* (source of *Vande Mataram*); suppressed by Warren Hastings. |
+| **Chuar Revolt** | Jagannath Singh, Durjan Singh | 1767–1802 | Midnapore & Bankura (Jungle Mahals), Bengal; Paik / Bhumij warriors protesting revenue exploitation and forfeiture of Paikan lands. |
+| **Rangpur Dhing** | Dirjinarayan, Nuruddin | 1783 | Northern Bengal; against oppressive revenue farming of Raja Debi Singh (agent of East India Company). |
+| **Ganjam & Gumsur Uprisings** | Shrikar Bhanja & son Dhananjay Bhanja | 1800–1805 & 1808–1837 | Odisha; resistance against British land revenue demands. |
+| **Travancore (Kerala) Rebellion** | Diwan Velu Thampi | 1805–1809 | Against Wellesley's Subsidiary Alliance & rude British Resident; backed by Nair Battalion; Kundara Proclamation (1809). |
+| **Waghera Revolt** | Waghera Chiefs of Okha / Baroda | 1818–1819 | Baroda (Gujarat); armed attacks against Gaekwad & British encroaching revenues; peace concluded 1820. |
+| **Kutch Rebellion** | Rao Bharmal II / local Jadeja chiefs | 1819–1831 | Gujarat; British military interference in throne succession. |
+| **Bhil Uprisings** | Sevaram, Dashrath | 1818–1831, 1825 | Khandesh (Western Ghats / Maharashtra & MP border); provoked by agrarian hardship & fear of Company rule; Trimbakji Danglia accused of instigating. |
+| **Ho / Hauz Revolt** | Ho tribal chiefs | 1820–1821 | Singhbhum / Santhal subdivision (Chhotanagpur, Jharkhand); fought against Raja of Parahat & British. |
+| **Ramosi Uprising** | Chittur Singh (1822), Umaji Naik | 1822, 1825–1832 | Western Ghats (Satara / Maharashtra); Ramosi hill tribes plundered plains against British administration patterns; Vasudev Balwant Phadke later formed Ramosi Krishak Jatha (1879). |
+| **Kittur Rebellion** | Rani Chennamma, Rayanna | 1824 | Karnataka; resistance against British rejection of adopted heir under pre-Dalhousie lapse doctrine. |
+| **Pagal Panthi Movement** | Karam Shah (founder) & son Tipu | 1825–1835 | Mymensingh / Sherpur (Northern Bengal); semi-religious Hajong/Garo tribal peasantry; Tipu captured Sherpur in 1825, declared himself king, appointed judges & collectors. |
+| **Faraizi Movement** | Haji Shariatullah & son Dudu Miyan (Muhammad Muhsin) | 1818–1862 | Faridpur (Eastern Bengal); Islamic revivalist & radical peasant reform; expelled British landlords; later merged into Wahabi Movement. |
+| **Ahom Revolt** | Gomdhar Kunwar | 1828 | Assam; against British failure to withdraw after First Anglo-Burmese War. |
+| **Khasi Revolt** | Teerat (Tirot) Singh | 1829–1833 | Meghalaya (Garo-Khasi hills); opposed British road construction linking Brahmaputra & Surma valleys through tribal tracts. |
+| **Wahabi Movement** | Syed Ahmad Barelvi (Raebareli) | 1820s–1870s | Proponent inspired by Shah Waliullah (Delhi) & Abdul Wahab; captured Peshawar in 1830 & minted coins; martyred at Balakot (1831); Patna became chief centre under Vilayat Ali & Inayat Ali. |
+| **Kol Uprising** | Buddho Bhagat, Jindra Manki | 1831–1832 | Chhotanagpur (Singhbhum, Ranchi, Palamau, Hazaribagh); protest against land transfer to outsiders (*Dikus* — Hindu/Sikh/Muslim farmers & moneylenders). |
+| **Bhumij Revolt** | Ganga Narain | 1832–1833 | Barabhum / Jungle Mahals (West Bengal/Jharkhand); Succession dispute against British taxation (*Ganga Narain's Hungama*). |
+| **Kuka Movement** | Bhagat Jawahar Mal (Sian Sahib) & Baba Ram Singh | 1840s–1872 | Western Punjab; started as religious purification of Sikhism, transformed into political movement to expel British; Ram Singh exiled to Rangoon 1872 (died 1885). |
+| **Gadkari Rebellion** | Gadkaris (hereditary Maratha garrison troops) | 1844 | Kolhapur (Maharashtra); revolted against arbitrary revenue collection and disbandment by Mamlatdars. |
+| **Khond Uprising** | Chakra Bisoi | 1846–1855 | Hilly tracts from Odisha to Tamil Nadu; opposed British abolition of *Mariah* (human sacrifice) and creation of Mariah Agency, entry of Zamindars, and new taxes. |
+| **Santhal Hool (Rebellion)** | Sidhu, Kanhu, Chand, Bhairav | 1855–1856 | Damin-i-Koh (Bhagalpur to Rajmahal hills); against moneylenders charging 50–500% interest & British police; defeated Major Burrough at Pirpainati; suppressed by Gen. Lloyd & Brown; Santhal Pargana Tenancy Act enacted. |
+| **Indigo Revolt** | Digambar Biswas, Vishnu Biswas | 1859–1860 | Govindpur (Nadia, Bengal); first strike against forced indigo cultivation; supported by Harish Chandra Mukherjee (*Hindu Patriot*) and Dinabandhu Mitra (*Neel Darpan*). |
+| **Sambalpur Rebellion** | Surendra Sai | 1827–1862 | Sambalpur (Odisha); anti-British throne claimant struggle; surrendered in 1862. |
+| **Khairwar Movement** | Bhagirath Manjhi | 1874 | Santhal Pargana; socio-religious revivalist movement demanding ancient tribal rights. |
+| **Deccan Riots** | Kunbi Peasantry | 1875 | Poona & Ahmednagar (Maharashtra); against Marwari & Gujarati moneylenders (*sowcars*); led to Deccan Agriculturists' Relief Act 1879. |
+| **Rampa Rebellion** | Tribal mutineers (later Alluri Sitaram Raju 1922–24) | 1879–1880 | North of Godavari (Andhra Pradesh); against exploitative moneylenders and Madras Forest Act curbs on *Podu* (shifting cultivation). |
+| **Munda Ulgulan (Great Tumult)** | Birsa Munda (*Dharti Aaba* / *Jagat Pita*) | 1899–1900 | Chhotanagpur (Ranchi to Bhagalpur); against destruction of *Khuntkatti* (joint landholding); proclaimed *Sing Bonga* (One God); arrested at Jamkopai forest Feb 1900; died June 1900. |
+| **Lasodia Movement** | Govind Guru (Lasodhiya) & Surji Bhagat | 1883 onward | Mewar, Dungarpur, Banswara (Rajasthan); founded *Samp Sabha* (1883) for Bhil moral and social uplift. |
+| **Tana Bhagat Movement** | Jatra Bhagat, Balram Bhagat | 1914 | Chhotanagpur (Oraon tribe); non-violent socio-religious reform inspired by monotheism and later linked to Gandhi's Congress. |
+| **Kuki Rebellion** | Kuki Chiefs | 1917–1919 | Manipur & Tripura; against forced recruitment into British Labour Corps for World War I. |
+| **Haipou Jadonang & Rani Gaidinliu** | Haipou Jadonang | 1920s–1931 | Manipur (Rongmei Naga); first tribal leader profoundly inspired by Mahatma Gandhi; launched Heraka religious reform; executed 1931; movement led by Rani Gaidinliu. |
+| **Pioneer of Labour Movement** | Narayan Meghaji Lokhande (N.M. Lokhande) | 1880s–1890s | Bombay; founded Bombay Mill-Hands Association (1890); pioneer of organized labor in India. |
+| **Word *Adivasi*** | Thakkar Bappa (Amritlal Vithaldas Thakkar) | 1930s | General Secretary of Harijan Sevak Sangh; first used the term *Adivasi* for indigenous tribal population. |
+
+
+| **Bijolia Peasant Movement** | Sadhu Sitaram Das (1897), Vijay Singh Pathik (1915) | 1897–1941 (Mewar, Rajasthan) | First and longest peasant movement in India (~44 years); against excessive feudal exactions; publicized by *Abhyudaya* (Prayag) and *Bharat Mitra* (Calcutta). |
+| **U.P. Kisan Sabha** | Indra Narayan Dwivedi, Gauri Shankar Mishra, M.M. Malaviya | Feb 1918 (United Provinces) | Organized Oudh peasantry; J.L. Nehru was NOT a founder; prompted massive farmer participation at 1918 Delhi Congress. |
+| **Nai-Dhobi Band & Oudh Kisan Sabha** | Baba Ramchandra, Jhinguri Singh, Durgapal Singh | 1919–1920 (Pratapgarh, Awadh) | Grassroots social boycott (Nai-Dhobi Band) against exploiting landlords; Baba Ramchandra (ex-Fiji indentured labourer who recited Tulsidas Ramayana) formed Oudh Kisan Sabha in 1920. |
+| **Eka Movement** | Madari Pasi & low-caste leaders | 1921–1922 (Hardoi, Barabanki, Bahraich, Sitapur) | Peasant unity movement against 50% excess rent, oppression of thikedars, and produce rent; peasants insisted on paying recorded rent in cash; ritualistic oath meetings. |
+| **Bihar Kisan Sabha & AIKS** | Swami Sahajanand Saraswati ('Kisan-Pran'), N.G. Ranga | 1929 (Bihar), April 1936 (Lucknow) | Bihar Kisan Sabha founded 1929 by Sahajanand; All India Kisan Congress (later Sabha) founded April 1936 at Lucknow with Sahajanand as 1st President & N.G. Ranga as Gen. Sec.; published *Hunkar* (Hindi weekly from Patna) and *Lok Sangraha*; AIUKS demanded nationalization of land and waterways. |
+| **Bardoli Satyagraha** | Sardar Vallabhbhai Patel, Mehta brothers | 1928 (Bardoli, Surat, Gujarat) | Historic peasant revolt against 22% arbitrary revenue enhancement; women of Bardoli (via Mahatma Gandhi) bestowed the title of **'Sardar'** upon Vallabhbhai Patel. |
+| **Tebhaga Movement** | Bengal Provincial Kisan Sabha | Sept 1946 (Bengal, esp. North Bengal) | Sharecroppers (bargadars) demanded 2/3rd share of produce instead of 1/2; implementation of Floud Commission recommendations; Bargadari Act passed. |
+| **Bhoodan Movement** | Acharya Vinoba Bhave | 18 April 1951 (Pochampalli, Telangana) | Voluntary land gift movement; started from Pochampalli (Nalgonda/Yadadri district); first donor Zamindar Ram Chandra Reddy (100 acres to 40 Harijan families); JP Narayan joined 1954; most successful in Orissa. |
 
 ## Complete PYQ Bank
 
@@ -1802,1291 +1643,4488 @@ D. Ahom 1815
 
 ---
 
-## Ghatnachakra Extra Drill — Other Civil Uprisings
+## Complete PYQ Bank — Ghatnachakra Other Civil & Tribal Uprisings (89 Questions)
 
-Teaching sits in **8.1–8.9** (and Topic 6 for Wahabi/Faraizi orientation).
+Complete unabridged 89-question bank from the core Ghatna Chakra repository covering all civil, peasant, and tribal uprisings: Sanyasi Revolt & Bankim's *Anandmath*, Indigo Revolt (Nadia, Digambar & Vishnu Biswas, *Neel Darpan*, Harish Chandra Mukherjee), Wahabi Movement (Syed Ahmad Barelvi, Balakot, Patna center), Kuka Movement (Bhagat Jawahar Mal, Ram Singh), Pagal Panthis (Karam Shah & Tipu), Faraizis (Haji Shariatullah & Dudu Miyan), Travancore (Velu Thampi), Ramosis (Chittur Singh & Phadke), Gadkaris (Kolhapur), Khond & Mariah sacrifice abolition (Chakra Bisoi), Kol Revolt (Buddho Bhagat), Waghera Uprising (Baroda), Santhal Hool (Damin-i-Koh, Sidhu-Kanhu, Major Burrough defeat), Bhil Revolts & Govind Guru's *Samp Sabha*, Munda Ulgulan & Birsa Munda (*Khuntkatti*, *Dharti Aaba*), Khairwar (Bhagirath Manjhi), Sambalpur (Surendra Sai), Ahom (Gomdhar Kunwar), Tana Bhagat (Jatra Bhagat), Haipou Jadonang (Manipur), and N.M. Lokhande's labor movement. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
 
-**Q1. IAS / UKPCS / BPSC / UPPCS**
+---
 
-The major peasant upheaval in Bengal just after the Revolt of 1857 was:
+**Q-GC1. I.A.S. (Pre) 1994**
 
-A. Santhal Hul
+Which one of the following upheavals took place in
 
-B. Indigo Revolt
+Bengal immediately after Revolt of 1857?
 
-C. Deccan Riots
+- (a) Sanyasi
 
-D. Pabna Agrarian League
+- (b) Santhal Rebellion
 
-<details>
+- (c) Indigo revolt
 
-<summary>Show answer</summary>
+- (d) Pabna Disturbances
 
-**Logic:** Immediately after 1857 in Bengal = Indigo 1859–60 — not Santhal or Deccan.
+<details><summary>Show answer</summary>
 
-**Ans: B.** The **Indigo Revolt (1859–60)** followed 1857 in Bengal. Leaders included **Digambar and Bishnu Biswas** of Nadia; the spark is often placed at **Govindpur**.
+**Answer: (c)**
 
-</details>
+**Explanation:**
+The Indigo Revolt (1859-60 A.D.) took place in Bengal
 
-**Q2. UPPCS / BPSC / IAS**
+immediately after the revolt of 1857. Sanyasi Rebellion
 
-Who wrote the play *Neel Darpan* on the indigo ryots' plight?
+occurred in 1763-1800 A.D., Santhal Rebellion occurred
 
-A. Bankim Chandra Chatterjee
+in 1855-56 A.D., and Pabna uprising took place in 1873-76
 
-B. Dinabandhu Mitra
+A.D. Indigo Revolt began in Govindpur village of Nadia
 
-C. Harish Chandra Mukherjee
+district in West Bengal led by two former employees of
 
-D. Michael Madhusudan Dutt
+indigo producers. Digambar Viswas and Vishnu Viswas
 
-<details>
+organized the peasants into a counterforce and refused
 
-<summary>Show answer</summary>
+to sow indigo. This indigo revolt of Bengal was directed
 
-**Logic:** *Neel Darpan* = Dinabandhu Mitra — dramatises indigo ryot suffering.
+against British planters who forced peasants to take advances
 
-**Ans: B.** **Dinabandhu Mitra** wrote ***Neel Darpan* (1860)**. Rev. James Long was prosecuted for publishing its English translation.
+and sign fraudulent contracts which forced the peasants
 
-</details>
+to grow Indigo under terms that were least profitable to
 
-**Q3. UPPCS / IAS**
+them. In September, 1859 AD all the cultivators revolted
 
-Bankim Chandra Chatterjee's novel *Anandamath* is set against the background of which rising?
+against the landlords. The agitation spread to regions like
 
-A. Indigo Revolt of 1859–60
+Nadia, Pabana, Khulna, Dhaka, Malda, Dinajpur, etc.
 
-B. Santhal Hul of 1855–56
+All indigo factories were shut down due to this strike.
 
-C. Sanyasi–Fakir revolt in Bengal–Bihar
+The intellectual class of Bengal expressed support for the
 
-D. Kol rebellion of 1831–32
+Movement through their articles and rallies. The editor
 
-<details>
+of “Hindu Patriot” Harishchandra Mukherjee played a
 
-<summary>Show answer</summary>
+significant role in this agitation. This revolt was vividly
 
-**Logic:** *Anandamath* = Sanyasi–Fakir revolt background — not Indigo or Santhal.
-
-**Ans: C.** ***Anandamath* (1882)** draws on the **Sanyasi–Fakir** rising (~**1763–1800**), not the nineteenth-century indigo or Santhal revolts.
-
-</details>
-
-**Q4. UPPCS / BPSC**
-
-The song **Vande Mataram** was composed by:
-
-A. Rabindranath Tagore
-
-B. Bankim Chandra Chatterjee
-
-C. Subramania Bharati
-
-D. Hasrat Mohani
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Vande Mataram comes from *Anandamath*; first sung at Calcutta Congress 1896.
-
-**Ans: B.** **Bankim Chandra Chatterjee** wrote **Vande Mataram** in ***Anandamath***. It was first sung at the Calcutta Congress session of **1896**.
+portrayed by Dinbandhu Mitra in his play Neel Darpan.
 
 </details>
 
-**Q5. IAS 2020 / UP R.O. 2023**
+---
 
-Indigo cultivation in Bengal declined sharply by the early twentieth century mainly because:
+**Q-GC2. Uttarakhand P.C.S. (Pre) 2024**
 
-A. Gandhi's Champaran satyagraha banned all indigo
+The 1858-1859 play 'Neel Darpan' highlights the plight
 
-B. Synthetic dyes made natural indigo unprofitable
+of indigo farmers. Who wrote it?
 
-C. The British banned indigo exports after 1857
+- (a) Rabindranath Tagore
 
-D. Ryots refused indigo under Congress Non-Cooperation
+- (b) Dinabandhu Mitra
 
-<details>
+- (c) Bankim Chandra Chatterjee
 
-<summary>Show answer</summary>
+- (d) Akshay Kumar Datta
 
-**Logic:** Indigo decline early 20th c. = synthetic dyes / unprofitability — not mainly nationalist boycott.
+<details><summary>Show answer</summary>
 
-**Ans: B.** **Synthetic dyes** undercut the world price of natural indigo. Nationalist pressure was secondary to **commercial unprofitability**.
+**Answer: (b)**
 
-</details>
-
-**Q6. UP R.O. 2023 / IAS**
-
-Consider the following statements about Bankim Chandra Chatterjee:
-
-1. He was among the first graduates of Calcutta University.
-
-2. His last novel was *Sitaram*.
-
-Which is/are correct?
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Bankim = among first Calcutta University graduates; *Sitaram* was his last novel.
-
-**Ans: C.** **Both** statements are correct. Trap: do not confuse him with the author of *Neel Darpan* (**Dinabandhu Mitra**).
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
-**Q7. UPPCS**
+---
 
-Which of the following revolt–year pairs is **NOT** correctly matched?
+**Q-GC3. B.P.S.C. (Pre) 2018**
 
-A. Pabna Revolt — 1873
+The Indigo Rebellion was about
 
-B. Deccan Riots — 1875
+- (a) the peasant not wanting to grow indigo but being
 
-C. Sanyasi Revolt — 1894
+forced
 
-D. Kol Rebellion — 1831
+- (b) the peasant wanting to grow indigo but being forced
 
-<details>
+not to
 
-<summary>Show answer</summary>
+- (c) the peasant not wanting to grow indigo but being
 
-**Logic:** Wrong year pairs — Sanyasi ≠ 1894; Kol ≠ 1870; Ahom ≠ 1815.
+forced to grow at a price that was unacceptable
 
-**Ans: C.** The **Sanyasi–Fakir** rising ran ~**1763–1800**, not **1894**. **Kol 1831–32** and **Pabna 1873–85** are correct tags.
+- (d) a protest movement that carried an indigo-coloured
 
-</details>
+flag
 
-**Q8. UPPCS / BPSC**
+- (e) None of the above/More than one of the above
 
-After Sayyid Ahmad Shahid's death at Balakot (1831), the Wahabi movement's main centre in the nineteenth century shifted to:
+<details><summary>Show answer</summary>
 
-A. Delhi
+**Answer: (c)**
 
-B. Patna
-
-C. Lucknow
-
-D. Hyderabad
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Wahabi centre after Balakot 1831 = Patna — not Rae Bareli or Delhi.
-
-**Ans: B.** The **Patna** circle became the chief Wahabi centre after **Balakot 1831**. Sayyid Ahmad had begun from **Rae Bareli**.
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
-**Q9. UPPCS / BPSC**
+---
 
-The Kuka (Namdhari) movement of the 1870s is associated with which region and leader?
+**Q-GC4. 42nd B.P.S.C. (Pre) 1997**
 
-A. Bengal — Digambar Biswas
+Who is the author of ‘Neel Darpan’ a book written on
 
-B. Punjab — Baba Ram Singh
+the miserable condition of indigo farmers?
 
-C. Chotanagpur — Birsa Munda
+- (a) Bankim Chandra Chatterji
 
-D. Malabar — Variyamkunnath
+- (b) Dinabandhu Mitra
 
-<details>
+- (c) Sharat Chandra Chatterji
 
-<summary>Show answer</summary>
+- (d) Rabindranath Tagore
 
-**Logic:** Kuka = Punjab / Baba Ram Singh — not Bengal or Chotanagpur.
+<details><summary>Show answer</summary>
 
-**Ans: B.** **Baba Ram Singh** led the **Punjab** Namdhari/Kuka stream (~**1872**). Earlier shaping figures include **Bhagat Jawaharmal (Sian Sahab)**.
+**Answer: (b)**
 
-</details>
-
-**Q10. UPPCS / BPSC**
-
-The Pagal Panthi movement among the Garos was founded by:
-
-A. Birsa Munda
-
-B. Karam Shah
-
-C. Jatra Oraon
-
-D. Govind Guru
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Pagal Panthi = Garos / Karam Shah — Garo Hills stream.
-
-**Ans: B.** **Karam Shah** founded the **Pagal Panthi** stream among the **Garos**. Do not confuse with **Govind Guru** (Lasodia/Bhil) or **Birsa Munda**.
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
-**Q11. UPPCS / BPSC**
+---
 
-The Faraizi movement in Bengal was started by:
+**Q-GC5. 66th B.P.S.C. (Pre) 2020**
 
-A. Haji Shariatullah
+Who wrote the famous play, Neel Darpan in which
 
-B. Sayyid Ahmad of Rae Bareli
+oppression of Indigo farmers was displayed?
 
-C. Dudu Miyan alone as founder
+- (a) Sharat Chandra Chatterjee
 
-D. Wahabi leaders of Patna only
+- (b) Rabindranath Tagore
 
-<details>
+- (c) Barindra Ghosh
 
-<summary>Show answer</summary>
+- (d) Dinabandhu Mitra
 
-**Logic:** Faraizi = Haji Shariatullah / rebellion led by Dudu Miyan in Faridpur belt.
+- (e) None of the above/More than one of the above
 
-**Ans: A.** **Haji Shariatullah** founded the **Faraizi** reform stream; the later armed phase is linked to **Dudu Miyan** in the **Faridpur** belt.
+<details><summary>Show answer</summary>
 
-</details>
+**Answer: (d)**
 
-**Q12. UPPCS / BPSC**
-
-Velu Thampi's revolt against British influence took place in:
-
-A. Mysore
-
-B. Travancore (Kerala)
-
-C. Malabar
-
-D. Coorg
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Velu Thampi = Travancore (Kerala) — diwan-led anti-British rising.
-
-**Ans: B.** **Velu Thampi**, diwan of **Travancore**, led the Kerala rising (~**1809**). Trap: Malabar is the **Moplah** zone, not Velu Thampi's theatre.
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
-**Q13. BPSC / UPPCS / Jharkhand**
+---
 
-Vasudev Balwant Phadke organised peasants through:
+**Q-GC6. U.P.P.C.S. (Mains) 2015**
 
-A. Ramosi Krishak Jatha
+Who was the author of the play ‘Neel Darpan’?
 
-B. Bhil Samp Sabha
+- (a) Tara Nath Bandyopadhyay
 
-C. Khudai Khidmatgar
+- (b) Tara Nath Ghosh
 
-D. Eka Movement
+- (c) Dinabandhu Mitra
 
-<details>
+- (d) Bankim Chandra Chatterjee
 
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Logic:** Phadke = Ramosi Krishak Jatha — Western Ghats Ramosi stream.
+**Answer: (c)**
 
-**Ans: A.** Phadke built the **Ramosi Krishak Jatha** among Ramosi cultivators of the **Western Ghats** belt.
-
-</details>
-
-**Q14. BPSC / UPPCS**
-
-The Ramosi cultivators, linked to Phadke's rising, lived mainly in:
-
-A. Malabar coast
-
-B. Western Ghats
-
-C. Chotanagpur plateau
-
-D. Brahmaputra valley
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Ramosi geography = Western Ghats — not Deccan plateau or Malabar.
-
-**Ans: B.** The **Ramosi** belt lies in the **Western Ghats**, not the Malabar tenant zone or Chotanagpur tribal tract.
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
-**Q15. BPSC / UPPCS / Jharkhand**
+---
 
-The Gadakari revolt of 1844 broke out at:
+**Q-GC7. I.A.S. (Pre) 2020**
 
-A. Baroda
+Indigo cultivation in India declined by the beginning
 
-B. Kolhapur
+of the 20th century because of :
 
-C. Sambalpur
+- (a) peasant resistance to the oppressive conduct of
 
-D. Singhbhum
+planters
 
-<details>
+- (b) its unprofitability in the world market because of new
 
-<summary>Show answer</summary>
+inventions
 
-**Logic:** Gadakari = Kolhapur 1844 — fort hereditary servants' rising.
+- (c) national leaders opposition to the cultivation of indigo
 
-**Ans: B.** **Gadakari (1844)** was the rising of hereditary fort servants in **Kolhapur**. **Waghera** belongs to **Baroda (1818–19)**.
+- (d) Government control over the planters
 
-</details>
+<details><summary>Show answer</summary>
 
-**Q16. BPSC / UPPCS**
+**Answer: (b)**
 
-The colonial ban on **Mariah** (human sacrifice) among which tribe provoked prolonged hill resistance under leaders such as Chakra Bisoi?
+**Explanation:**
+During early 20th century, indigo use declined drastically in
 
-A. Santhal
+Europe due to increasing use of newly discovered artificial
 
-B. Khond
+colours and their respective technology. Due to this, Indigo
 
-C. Bhil
+cultivation became unprofitable in the world market and hence
 
-D. Munda
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Mariah human sacrifice ban = Khond / Chakra Bisoi — Odisha hills.
-
-**Ans: B.** The **Khond** rising in the **Odisha hills (1846–55)** followed interference with **Mariah** customs. Leader tag: **Chakra Bisoi**.
+its cultivation declined in India beginning in the 20th century.
 
 </details>
 
-**Q17. BPSC / UPPCS / Jharkhand**
+---
 
-The Kol rebellion of 1831–32 was led by Buddhu Bhagat in:
+**Q-GC8. U.P. R.O./A.R.O. (Pre) 2023**
 
-A. Santhal Parganas
+Consider the following statements with reference to
 
-B. Chotanagpur / Singhbhum
+Bankim Chandra Chattopadhyay :
 
-C. Malabar
+1. He was the first graduate of Calcutta University.
 
-D. Khandesh
+2. 'Sitaram' was his last Novel.
 
-<details>
+Select the correct answer using the code given below:
 
-<summary>Show answer</summary>
+Code -
 
-**Logic:** Kol = Buddhu Bhagat / Singhbhum–Chotanagpur 1831–32.
+- (a) Only 2
 
-**Ans: B.** **Buddhu Bhagat** led the **Kol** rising in **Chotanagpur / Singhbhum (1831–32)**. Santhal is **1855–56** with **Sidhu–Kanhu**.
+- (b) Only 1
 
-</details>
+- (c) Neither 1 nor 2
 
-**Q18. BPSC / UPPCS**
+- (d) Both 1 and 2
 
-The Waghera revolt (1818–19) occurred in:
+<details><summary>Show answer</summary>
 
-A. Kolhapur
+**Answer: (d)**
 
-B. Baroda
+**Explanation:**
+Joddu Nath Bose and Bankim Chandra Chattopadhyay
 
-C. Travancore
+(Chatterjee) were the first graduates of Calcutta University.
 
-D. Poona
+Hence, statement (1) is correct. 'Sitaram' was last novel
 
-<details>
+of Bankim Chandra Chattopadhyay (Chatterjee). Hence,
 
-<summary>Show answer</summary>
-
-**Logic:** Waghera = Baroda 1818–19 — not Kolhapur or Bengal.
-
-**Ans: B.** **Waghera (1818–19)** was a rising of Waghera chiefs against Company/Gaekwad pressure in **Baroda**.
+statement (2) is also correct.
 
 </details>
 
-**Q19. RAS / Chhattisgarh / UPPCS**
+---
 
-Arrange the following in chronological order:
+**Q-GC9. Chhattisgarh P.C.S. (Pre) 2005 / Uttarakhand U.D.A./L.D.A. (Mains) 2007**
 
-1. Kol Rebellion
+Who was the composer of the song ‘Vande Mataram’?
 
-2. Bengal Sepoy unrest (Buxar field)
+- (a) Rabindra Nath Tagore
 
-3. Vellore Mutiny
+- (b) Ramdhari Singh Dinkar
 
-4. Santhal Hul
+- (c) Sarojini Naidu
 
-5. Kutch rebellion
+- (d) Bankimchandra Chatterjee
 
-Select the correct code:
+<details><summary>Show answer</summary>
 
-A. 2, 3, 5, 1, 4
+**Answer: (d)**
 
-B. 3, 2, 1, 5, 4
+**Explanation:**
+The national song “Vande Mataram” has been taken from
 
-C. 2, 5, 3, 1, 4
+the famous creation of Bankim Chandra Chatterjee. “Anand
 
-D. 5, 2, 3, 4, 1
+Math.” The theme of this novel is based on the Sanyasi Revolt.
 
-<details>
+It was primarily sung by Rabindra Nath Tagore during the
 
-<summary>Show answer</summary>
-
-**Logic:** Pre-1857 order: Bengal Sepoy 1764 → Vellore 1806 → Kutch 1819–31 → Kol 1831–32 → Santhal 1855–56.
-
-**Ans: A.** Order: **Bengal Sepoy (1764) → Vellore (1806) → Kutch (1819–31) → Kol (1831–32) → Santhal (1855–56)**.
+Calcutta session of the Indian National Congress in 1896 A.D.
 
 </details>
 
-**Q20. RAS / Chhattisgarh**
+---
 
-The Vellore Mutiny of 1806 took place when which Governor-General was in office?
+**Q-GC10. 67th B.P.S.C. (Pre) 2022**
 
-A. Lord Wellesley
+In Anandamath of Bankim Chandra Chatterjee, which
 
-B. Sir George Barlow
+revolt is mentioned?
 
-C. Lord Minto
+- (a) Sannyasi
 
-D. Lord Hastings
+- (b) Kuka
 
-<details>
+- (c) Santhal
 
-<summary>Show answer</summary>
+- (d) Neel (Indigo)
 
-**Logic:** Vellore Mutiny 1806 — Governor-General Sir George Barlow.
+- (e) None of the above/More than one of the above
 
-**Ans: B.** **Sir George Barlow** was Governor-General during the **Vellore Mutiny (1806)**.
+<details><summary>Show answer</summary>
 
-</details>
+**Answer: (a)**
 
-**Q21. BPSC / IAS / Jharkhand / UPPCS**
-
-The Santhal Hul (1855–56) was led by:
-
-A. Birsa Munda and Gomke
-
-B. Sidhu and Kanhu Murmu
-
-C. Buddhu Bhagat and Bindrai Manki
-
-D. Jatra Oraon and Jadonang
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Santhal Hul 1855–56 — Sidhu and Kanhu with Chand and Bhairav.
-
-**Ans: B.** **Sidhu and Kanhu** (with **Chand and Bhairav**) led the **Santhal Hul (1855–56)** in the Rajmahal / Damin-i-Koh belt.
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
-**Q22. BPSC / Jharkhand / UPPCS**
+---
 
-During the Santhal rebellion, rebel bands initially defeated which British officer?
+**Q-GC11. U.P.P.C.S. (Pre) 1998**
 
-A. Major Burrough
+The theme of the novel Anandmath is based on:
 
-B. Major General Hearsay
+- (a) Chuar Revolt
 
-C. Sir Hugh Rose
+- (b) Sanyasi Revolt
 
-D. Colonel Neill
+- (c) Poligar Revolt
 
-<details>
+- (d) Talukdar’s Revolt
 
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Logic:** Santhal bands defeated Major Burrough early in the Hul.
+**Answer: (b)**
 
-**Ans: A.** Santhal fighters defeated **Major Burrough** in an early phase before martial law crushed the **Hul**.
+**Explanation:**
+The Composer of ‘Vande Mataram’ Bankim Chandra
 
-</details>
+Chatterjee mentioned Sanyasi Revolt in his novel “Anand
 
-**Q23. BPSC / Jharkhand / UPPCS**
+Math.” The peasants, landlords and artisans were ruined due
 
-Which measures followed the suppression of the Santhal Hul?
+to the establishment of the British Government and their
 
-A. Creation of Santhal Parganas and a ban on transfer of Santhal land to non-Santhals
+new economic policy. A gruesome famine occurred in 1770.
 
-B. Annexation of Santhal tracts into Bengal permanently without special status
+Sanyasis were humiliated by the ban on pilgrimage. Sanyasis
 
-C. Abolition of all zamindari in Rajmahal hills immediately
+had a tradition of protesting against injustice, and they began
 
-D. Settlement of Santhals only in Punjab
+a strong revolt against British rule. They fought against
 
-<details>
+British soldiers bravely. Warren Hastings had suppressed the
 
-<summary>Show answer</summary>
-
-**Logic:** After Santhal Hul — Santhal Parganas + ban on transfer of Santhal land to non-Santhals.
-
-**Ans: A.** The government created **Santhal Parganas** and barred **transfer of Santhal land to non-Santhals**. Both facts often appear together in multi-statement keys.
+uprising after a long campaign.
 
 </details>
 
-**Q24. Jharkhand / UPPCS**
+---
 
-The ancient name of the region later known as Santhal Parganas was:
+**Q-GC12. I.A.S. (Pre) 2006**
 
-A. Damin-i-Koh
+Which one of the following revolts was made famous
 
-B. Narikhand
+by Bankim Chandra Chatterjee in his novel ‘Anand
 
-C. Jharkhand
+Math’?
 
-D. Chhotanagpur
+- (a) Bhil uprising
 
-<details>
+- (b) Rangpur and Dinajpur uprising
 
-<summary>Show answer</summary>
+- (c) Bishnupur and Birbhum rebellion
 
-**Logic:** Ancient name of Santhal Pargana belt = Narikhand.
+- (d) Sanyasi rebellion
 
-**Ans: B.** **Narikhand** is the ancient name tag for the **Santhal Parganas** belt. **Damin-i-Koh** is the colonial settlement label, not the ancient name key.
+<details><summary>Show answer</summary>
 
-</details>
+**Answer: (d)**
 
-**Q25. UPPCS / RAS / IAS / UKPCS**
-
-Which tribal uprising is most closely linked to the Khandesh region of Maharashtra?
-
-A. Moplah rebellion
-
-B. Bhil rising
-
-C. Santhal Hul
-
-D. Kol rebellion
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Bhil uprising = Maharashtra/MP (Khandesh) — not Malabar or Chotanagpur.
-
-**Ans: B.** The **Bhil** rising belongs to **Khandesh (Maharashtra / MP border)**, not Malabar or Chotanagpur.
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
-**Q26. UPPCS / RAS / UKPCS**
+---
 
-The Lasodia movement among Bhils is associated with:
+**Q-GC13. U.P.P.C.S. (Mains) 2017**
 
-A. Birsa Munda
+Who among the following made ‘Sanyasi Rebellion’
 
-B. Govind Guru
+famous through his writings?
 
-C. Jatra Oraon
+- (a) Dina Bandhu Mitra
 
-D. Alluri Sitarama Raju
+- (b) Bankim Chandra Chatterjee
 
-<details>
+- (c) Sisir Kumar Ghosh
 
-<summary>Show answer</summary>
+- (d) Harish Chandra
 
-**Logic:** Lasodia Movement = Govind Guru / Samp Sabha 1883.
+<details><summary>Show answer</summary>
 
-**Ans: B.** **Govind Guru** led the **Lasodia** stream and helped shape the **Samp Sabha (1883)** among Bhils.
+**Answer: (b)**
 
-</details>
-
-**Q27. UPPCS / RAS / IAS / UKPCS**
-
-'Ulgulan' or the Great Tumult (1899–1900) was led by:
-
-A. Sidhu Murmu
-
-B. Birsa Munda
-
-C. Buddhu Bhagat
-
-D. Jadonang
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Ulgulan = Birsa Munda 1899–1900 — Great Tumult in Chotanagpur.
-
-**Ans: B.** **Birsa Munda** led **Ulgulan (1899–1900)** against *diku* landlords and colonial intrusion in **Chotanagpur**.
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
-**Q28. UPPCS / RAS / UKPCS**
+---
 
-The title **Dharti Aaba** (Father of the Earth) is applied to:
+**Q-GC14. U.P.P.C.S. (Pre) 2015**
 
-A. Birsa Munda
+The theme of Bankim Chandra Chatterjee’s famous
 
-B. Govind Guru
+novel ‘Anand Math’ is based on
 
-C. Jadonang
+- (a) Chuar revolt
 
-D. Alluri Sitarama Raju
+- (b) Rangpur and Dinajpur revolt
 
-<details>
+- (c) Vishnupur and Veerbhumi revolt
 
-<summary>Show answer</summary>
+- (d) Sanyasi revolt
 
-**Logic:** Dharti Aaba = Birsa Munda — Earth-Father title.
+<details><summary>Show answer</summary>
 
-**Ans: A.** **Dharti Aaba** is the devotional title for **Birsa Munda**, not Govind Guru or Jadonang.
+**Answer: (d)**
 
-</details>
-
-**Q29. UPPCS / RAS / UKPCS**
-
-The word **Adivasi** was popularised in modern political usage largely by:
-
-A. Mahatma Gandhi
-
-B. Thakkar Bapa
-
-C. Jawaharlal Nehru
-
-D. Vallabhbhai Patel
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Adivasi word popularised by Thakkar Bapa — not Gandhi or Nehru.
-
-**Ans: B.** **Thakkar Bapa** popularised **Adivasi** in twentieth-century social and political discourse.
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
-**Q30. BPSC / IAS / Jharkhand**
+---
 
-The Ho tribal rising took place in:
+**Q-GC15. U.P.P.C.S. (Pre) 2017**
 
-A. 1820–21
+Which one of the following pairs is not correctly
 
-B. 1831–32
+matched?
 
-C. 1855–56
+Revolt Year
 
-D. 1899–1900
+- (a) Pabna revolt - 1873
 
-<details>
+- (b) Deccan Kisan revolt - 1875
 
-<summary>Show answer</summary>
+- (c) Sanyasi revolt - 1894
 
-**Logic:** Ho rising = 1820–21 in Singhbhum / Santhal sub-division belt.
+- (d) Kol uprising - 1870
 
-**Ans: A.** The **Ho** rising belongs to **1820–21** in the Singhbhum belt — before Kol (**1831–32**) and Santhal (**1855–56**).
+<details><summary>Show answer</summary>
 
-</details>
+**Answer: (*)**
 
-**Q31. BPSC / Jharkhand / MPPCS**
+**Explanation:**
+The correctly matched list is as follows :
 
-The Khairwar rising of 1874 was led by:
+Revolt Year
 
-A. Bhagirath Manjhi
+Pabna revolt - 1873-76 AD
 
-B. Buddhu Bhagat
+Deccan Kisan revolt - 1875 AD
 
-C. Birsa Munda
+Sanyasi revolt - 1763-1800 AD
 
-D. Ganga Narain
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Khairwar 1874 — Bhagirath Manjhi.
-
-**Ans: A.** **Bhagirath Manjhi** led the **Khairwar** rising of **1874**. **Ganga Narain** belongs to the **Bhumij** stream.
+Kol uprising - 1831-32 AD
 
 </details>
 
-**Q32. BPSC / IAS / UPPCS**
+---
 
-Surendra Sai led prolonged resistance against British rule in:
+**Q-GC16. 39th B.P.S.C. (Pre) 1994**
 
-A. Sambalpur
+What was the purpose of Barhiyataal resistance in
 
-B. Kolhapur
+Munger?
 
-C. Malabar
+- (a) Demand of Bakast land restoration
 
-D. Awadh
+- (b) Muslim peasants may not be exploited
 
-<details>
+- (c) Abolishment of Zamindari custom
 
-<summary>Show answer</summary>
+- (d) Beginning of class struggle
 
-**Logic:** Surendra Sai = Sambalpur anti-British resistance — Odisha.
+<details><summary>Show answer</summary>
 
-**Ans: A.** **Surendra Sai** is the **Sambalpur** anti-British tag in match lists. Do not place him in Malabar or Awadh.
+**Answer: (a)**
 
-</details>
+**Explanation:**
+The main purpose of Barhiyataal revolt was the demand for
 
-**Q33. BPSC / IAS / UPPCS**
-
-The Moplah rebellion of 1921 occurred in:
-
-A. Gujarat
-
-B. Malabar (Kerala)
-
-C. Bengal
-
-D. Punjab
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Moplah = Malabar / Kerala 1921 — tenant grievance with violent phase.
-
-**Ans: B.** The **Moplah / Malabar** rising (**1921**) belongs to **Kerala**, not Gujarat's Bardoli belt or Bengal's Tebhaga zone.
+restoration of Bakasht Land.
 
 </details>
 
-**Q34. BPSC / IAS / UPPCS / Jharkhand**
+---
 
-The Eka movement (1921–22) in Awadh was led by:
+**Q-GC17. U.P.P.C.S. (Pre) 1994**
 
-A. Indra Narayan Dwivedi
+Chief centre of Wahabi Movement during 19th century
 
-B. Madari Pasi
+was:
 
-C. Baba Ramchandra
+- (a) Lahore
 
-D. Swami Sahajanand Saraswati
+- (b) Patna
 
-<details>
+- (c) Amritsar
 
-<summary>Show answer</summary>
+- (d) Pune
 
-**Logic:** Eka = Madari Pasi / Hardoi–Barabanki–Bahraich–Sitapur belt.
+<details><summary>Show answer</summary>
 
-**Ans: B.** **Madari Pasi** led **Eka (1921–22)** in **Hardoi, Barabanki, Bahraich, Sitapur** and neighbouring Awadh districts.
+**Answer: (b)**
 
-</details>
+**Explanation:**
+Wahabi Movement offered a serious and organized threat
 
-**Q35. BPSC / UPPCS / Jharkhand**
+to British supremacy in India during the 19th century. The
 
-The Tana Bhagat movement (1914) among the Oraons is linked to:
+movement was led by Syed Ahmad Barelavi, who was
 
-A. Birsa Munda
+greatly influenced by the teachings of Abdul Wahab of Arabia
 
-B. Jatra Oraon
+and Shah Walliullah, the saint of Delhi. It was a revivalist
 
-C. Jadonang
+movement that stated that the return to the true spirit of Islam
 
-D. Sidhu Murmu
+was the only way to get rid of the socio-political oppression.
 
-<details>
+Through the efforts of Syed Ahmad, Wahabi ideology was
 
-<summary>Show answer</summary>
+spread in Kabul, North-West Frontier Province, Bengal, Bihar
 
-**Logic:** Tana Bhagat 1914 — Jatra Oraon / Oraon faith stream.
+and Central Provincial regions. In 1830 A.D. Syed occupied
 
-**Ans: B.** **Jatra Oraon** led the **Tana Bhagat (1914)** stream among **Oraons** in Chotanagpur.
+Peshawar and sometimes issued coins bearing his name but
 
-</details>
+later in the following year Syed Ahmad lost his life in the
 
-**Q36. BPSC / IAS / UPPCS**
+Battle of Balakot. Patna became the centre of the Wahabi
 
-Who is often described as the first Gandhi-inspired tribal leader among the Nagas?
-
-A. Jadonang
-
-B. Birsa Munda
-
-C. Govind Guru
-
-D. Alluri Sitarama Raju
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Jadonang = first Gandhi-inspired Naga tribal leader.
-
-**Ans: A.** **Jadonang** is the standard tag for the **first Gandhi-inspired Naga tribal** leader. Birsa predates Gandhi; Alluri belongs to the Rampa/Manyam stream.
+Movement after the death of Syed Ahmad.
 
 </details>
 
-**Q37. BPSC / IAS / UPPCS**
+---
 
-The pioneer of organised mill labour in India was:
+**Q-GC18. 45th B.P.S.C. (Pre) 2001**
 
-A. N.M. Lokhande
+Kuka Movement was organized by –
 
-B. N.M. Joshi
+- (a) Guru Ram Das
 
-C. V.P. Wadia
+- (b) Guru Nanak
 
-D. Lala Lajpat Rai
+- (c) Guru Ram Singh
 
-<details>
+- (d) Guru Gobind Singh
 
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Logic:** N.M. Lokhande = pioneer of organised mill labour in India.
+**Answer: (c)**
 
-**Ans: A.** **N.M. Lokhande** pioneered organised **mill labour** agitation. **N.M. Joshi** is the **ILO 1919** representative tag; **Wadia** founded the **Madras Labour Union (1918)**.
+**Explanation:**
+The Kuka Movement was similar to the Wahabi Movement.
+
+Both movements began as religious revolts but converted
+
+into political movements, which had a general ideology of the
+
+removal of British rule from India. In Punjab, Kuka Movement
+
+was initiated by Bhagat Jawahar Mal in 1840s who was known
+
+as Sian Sahib. The origin of the Kuka Movement had its roots
+
+in the religious purification of Sikhism. The leader of Kuka
+
+Movement, Ram Singh, was expelled to Rangoon in 1872
+
+A.D. where he died in 1885 A.D.
 
 </details>
 
-**Q38. IAS / Chhattisgarh / UPPCS**
+---
 
-Arrange the following in chronological order:
+**Q-GC19. U.P. R.O./A.R.O. (Pre) 2017**
+
+Kuka Movement was founded in
+
+- (a) Bengal
+
+- (b) Bihar
+
+- (c) Punjab
+
+- (d) Maharashtra
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC20. U.P.P.C.S. (Pre) 1999**
+
+The Pagalpanthi rebellion was indeed a rebellion of :
+
+- (a) Bhils
+
+- (b) Garos
+
+- (c) Gonds
+
+- (d) Koliyas
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Pagalpanthi rebellion was indeed a rebellion of Garos
+
+Tribe which was a quasi-religious community or sect that was
+
+introduced by Karim/Karam Shah of North Bengal. Son of
+
+Karim Shah and successor Tipu was inspired by religious and
+
+political purposes. Tipu and Shah led these people to uphold
+
+the religion and rights of the peasants in Bengal. He captured
+
+Sherpur in 1825 A.D. and became king. He appointed a judge,
+
+a magistrate and a collector to control the administration.
+
+</details>
+
+---
+
+**Q-GC21. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Who founded the ‘Pagal Panth’?
+
+- (a) Bulleh Shah
+
+- (b) Karam Shah
+
+- (c) Yaduvendra Singh
+
+- (d) Swami Shajananda
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC22. U.P.P.C.S. (Pre) 1999**
+
+Who among the following was the leader of the Farazi
+
+rebellion:
+
+- (a) Aga Muhammad Raza
+
+- (b) Dadu Miyan
+
+- (c) Shamsher Gazi
+
+- (d) Wazir Ali
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Farazi Movement was founded by Haji Shariatullah in
+
+Faridpur of Bengal. They advocated radical changes in a
+
+religious, political and social phenomenon. Son of Haji
+
+Shariatullah, Dadu (Dudu) Miyan led the rebellion against
+
+the British and this movement later merged with Wahabis
+
+the after the death of Dadu Miyan.
+
+</details>
+
+---
+
+**Q-GC23. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Who were the Faraizis?
+
+- (a) Followers of Haji Shariatullah
+
+- (b) Followers of Dadu
+
+- (c) Followers of the Arya Samaj
+
+- (d) Followers of the Muslim League
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC24. U.P.P.C.S. (Mains) 2002**
+
+Velu Thampi led a rebellion against the British in
+
+- (a) Kerala
+
+- (b) Maharashtra
+
+- (c) Mysore
+
+- (d) Telangana
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Wellesley compelled King of Travancore (Kerala) to join the
+
+subsidiary alliance in 1805. The king was very displeased
+
+with the treaty and refused to pay a subsidy to the British. The
+
+behaviour of the British resident was rude, so Velu Thampi
+
+revolted and he was supported by Niar battalion.
+
+</details>
+
+---
+
+**Q-GC25. Chhattisgarh P.C.S. (Pre) 2021**
+
+Read the following statements and choose the correct
+
+option :
+
+(i) Ganjam Revolt occurred during AD 1800 to 1805
+
+(ii) Ganjam Revolt was led by Dhananjay
+
+(iii)Revolt of Gumsur was led by Shrikar Bhanja
+
+(iv) Dhananjay was father of Shrikar Bhanja
+
+Which of the above statements is/are true?
+
+- (a) (i), (ii) and (iii)
+
+- (b) (i), (ii) and (iv)
+
+- (c) (i) and (ii)
+
+- (d) Only (i)
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+There is a long history of rebellion in Ganjam and Gumsur in
+
+which rebellion of Ganjam (1800-1805 A.D.) and rebellion
+
+of Gumsur (1808-1837 A.D.) are important. In Gumsur,
+
+rebellions occurred first under Shrikar Bhanja and later
+
+under his son Dhananjay Bhanja II. Hence, options (i), (ii)
+
+and (iii) are correct.
+
+</details>
+
+---
+
+**Q-GC26. 39th B.P.S.C. (Pre) 1994**
+
+Who founded Ramosi Krishak Jatha in Maharashtra?
+
+- (a) Justice Ranade
+
+- (b) Gopal Krishna Gokhale
+
+- (c) Vasudeo Balwant Phadke
+
+- (d) Jyotiba Phule
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Ramosi Krishak Jatha was founded by Vasudeo Balwant
+
+Phadke in (1845-83 A.D.). He organised the people of
+
+Ramosi tribes and converted them into a combat force. He
+
+was arrested and sentenced to life and died in 1883 due to a
+
+hunger strike against colonial rule in Kala Pani.
+
+</details>
+
+---
+
+**Q-GC27. 56th to 59th B.P.S.C. (Pre) 2015**
+
+The correct geographical location for the Ramosi
+
+Uprising was –
+
+- (a) Western India
+
+- (b) Eastern Ghats
+
+- (c) Eastern India
+
+- (d) Western Ghats
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Ramosi hill tribes in the Western Ghats resented British
+
+rule and the British pattern of administration. In 1822, under
+
+Chittar Singh (Chittur Singh), they revolted and plundered
+
+the country around Satara. There were revolts again during
+
+1825-1826 and the area remained disturbed until 1831-32.
+
+</details>
+
+---
+
+**Q-GC28. U.P.P.C.S. (Pre) 1999**
+
+Which of the following places was the centre of the
+
+Gadakari rebellion:
+
+- (a) Bihar Sharif
+
+- (b) Kolhapur
+
+- (c) Surat
+
+- (d) Sylhet
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Gadakaris were hereditary servants of the Marathas and were
+
+attached to their forts. They rose in rebellion in Kolhapur in
+
+1844 due to pitiable land revenue and acquisition policies. The
+
+British army struggled hard for the suppression of this rebellion.
+
+</details>
+
+---
+
+**Q-GC29. 40th B.P.S.C. (Pre) 1995**
+
+Trace the tribe that rebelled against Britishers because
+
+human sacrifice system was banned –
+
+- (a) Kuki
+
+- (b) Khond
+
+- (c) Oraon
+
+- (d) Nackda
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Khond was an aboriginal tribe that stretched from Bengal
+
+to Tamil Nadu covering central provinces. They revolted
+
+against the British from 1846 to 1855. The people of Khond
+
+tribe were led by Chakra Bisoi. The main reason for the revolt
+
+was stopping the Mariah system (traditional human sacrifice
+
+practiced by Khonds), the introduction of the new taxes by
+
+the British Government rule, etc.
+
+</details>
+
+---
+
+**Q-GC30. Jharkhand P.C.S. (Pre) 2003**
+
+Who had led Kol Revolt?
+
+- (a) Budhu Bhagat
+
+- (b) Surga
+
+- (c) Bhagat
+
+- (d) Jatra Bhagat
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Kol Revolt was led by Buddho Bhagat in Chhota Nagpur
+
+region in 1831-32.
+
+</details>
+
+---
+
+**Q-GC31. 66th B.P.S.C. (Pre) 2020**
+
+Kol Mutiny of 1831 under Buddho Bhagat took place
+
+in which of the following regions?
+
+- (a) Kutch
+
+- (b) Singhbhum
+
+- (c) Western Ghats
+
+- (d) Satara
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Kols are the inhabitants of Chhotanagpur. This area covered
+
+Ranchi, Singhbhum, Hazaribagh, Palamu and Manbhum. With
+
+the application of new land laws, outsiders like Hindu, Sikh,
+
+Muslim farmers, money lenders etc. started coming into these
+
+tribals' area in 1831 A.D. This led to massive exploitation of
+
+tribes. In 1831 A.D., under the leadership of Buddho Bhagat,
+
+Kol rebels, revolted and killed about a thousand outsiders, but
+
+only after large-scale military operations could order be restored.
+
+</details>
+
+---
+
+**Q-GC32. 56th to 59th B.P.S.C. (Pre) 2015**
+
+The Waghera Uprising happened in –
+
+- (a) Surat
+
+- (b) Poona
+
+- (c) Calicut
+
+- (d) Baroda
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Gaekwad of Baroda supported by the British Government
+
+compelled the Waghera Chief to take up arms. The Wagheras
+
+attacked British territory during 1818-1819. A peace treaty
+
+concluded the revolt in 1820.
+
+</details>
+
+---
+
+**Q-GC33. R.A.S./R.T.S. (Pre) 2013**
+
+Arrange the following uprisings against the British
+
+colonial power in India prior to 1857 in the various
+
+parts of the country in the correct order:
+
+(i) Sepoy mutiny in Bengal
+
+(ii) Kutch Rebellion
+
+(iii)Sepoy mutiny at Vellore
+
+(iv) Santhal uprising
+
+(v) Kol uprising
+
+Code :
+
+- (a) (i), (iii), (ii), (v), (iv)
+
+- (b) (ii), (iii), (i), (v), (iv)
+
+- (c) (iv), (i), (iii), (ii), (v)
+
+- (d) (iii), (i), (ii), (iv), (v)
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correct order of above the uprisings against the British
+
+colonial power in India is as follows :
+
+Sepoy Mutiny in Bengal - 1764 A.D. In which one battalion of
+
+Hector Munro at the battlefield of Buxar joined Mir Quasim.
+
+Sepoy Mutiny at Vellore - 1806 A.D.
+
+Kutch Rebellion - 1819-31 A.D.
+
+Kol Uprising - 1831-1832 A.D.
+
+Santhal Revolt - 1855-56 A.D.
+
+</details>
+
+---
+
+**Q-GC34. Chhattisgarh P.C.S. (Pre) 2016**
+
+The revolt of Vellore occurred during the regime of
+
+which Governor?
+
+- (a) Wellesley
+
+- (b) Lord Minto
+
+- (c) Lord Cornwallis
+
+- (d) Sir George Barlow
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In 1806 AD, the soldiers mutinied at Vellore against
+
+interference in their social and religious customs and the
+
+flags of the Raja of Mysore. The Vellore rebellion took place
+
+during the time of Governor General of Bengal Sir George
+
+Barlow. The tenure of Governor General Sir George Barlow
+
+was from 1805 to 1807 AD.
+
+</details>
+
+---
+
+**Q-GC35. 39th B.P.S.C. (Pre) 1994**
+
+When did Chhotanagpur Tribal Revolt occur?
+
+- (a) 1807-1808
+
+- (b) 1820
+
+- (c) 1858-1859
+
+- (d) 1889
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+There was no revolt named Chhotanagpur Tribal revolt. But
+
+there were many revolts during a different periods like Cheron
+
+revolt (1800 A.D.), Kol revolt (1831-32 A.D.), Santhal revolt
+
+(1855-56 A.D.) and Munda revolt (1899-1900 A.D.). If Ho
+
+revolt (1820-21 A.D.) is considered then option (b) is the
+
+correct answer.
+
+</details>
+
+---
+
+**Q-GC36. 64th B.P.S.C. (Pre) 2018**
+
+In which territory did tribals rebel against the British?
+
+- (a) Bihar
+
+- (b) Punjab
+
+- (c) Sindh
+
+- (d) Kathiawar
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The ‘Munda’ and ‘Ho’ (1820-21 A.D.) tribes of Chhotanagpur
+
+region (Part of the then Bihar) challenged the British army
+
+in 1831 AD. The region was in a state of disharmony until
+
+1837 AD.
+
+</details>
+
+---
+
+**Q-GC37. Jharkhand P.C.S. (Pre) 2003**
+
+Who led the revolt of Santhals?
+
+- (a) Siddhu-Kanhu
+
+- (b) Bhairav-Chand
+
+- (c) Both
+
+- (a) and
+
+- (b)
+
+- (d) None of
+
+- (a) and
+
+- (b)
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In 1855-56 A.D., Sidhu, Kanhu, Chand and Bhairav the four
+
+brothers, gave a call for rebellion. The rebellious Santhals
+
+assembled and raised their arms against the British revenue
+
+system.
+
+</details>
+
+---
+
+**Q-GC38. 67th B.P.S.C. (Pre) 2022**
+
+Who took the lead of the Santhal Rebellion of 1855
+
+A.D.?
+
+- (a) Sidhu and Kanhu
+
+- (b) Budhu Bhagat and Teja Bhagat
+
+- (c) Mulu Manck and Jodha Manek
+
+- (d) Madari Pasi and Sahadev
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC39. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Which among the following year ‘Santhal revolt’ was
+
+occurred?
+
+- (a) 1831-32 AD
+
+- (b) 1844-46 AD
+
+- (c) 1851-52 AD
+
+- (d) 1855-56 AD
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC40. Jharkhand P.C.S. (Pre) 2011**
+
+Who led the Santhal rebellion?
+
+- (a) Jaipal Singh
+
+- (b) Master Tara Singh
+
+- (c) Shibu Soren
+
+- (d) Siddhu and Kanhu
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC41. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Who were the leaders of Santhal Revolt?
+
+- (a) Jara Bhagat and Balaram Bhagat
+
+- (b) Sidhu and Kanhu
+
+- (c) Gauraks hni Bhagat and Keshav Chandra Roy
+
+- (d) Shambhmath Pal and Korra Mallaya
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC42. M.P.P.C.S. (Pre) 2022**
+
+Who was the chief leader of the Santhal Revolt?
+
+- (a) Siddho
+
+- (b) Birsa Munda
+
+- (c) Bhima Nayak
+
+- (d) Swami Govindgiri
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC43. 70th B.P.S.C. Re-Exam 2024**
+
+The Tribal Movement-Santhal Hool (Rebellion) took
+
+place in
+
+- (a) 1857-58
+
+- (b) 1858-59
+
+- (c) 1855-56
+
+- (d) 1854
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC44. U.P.P.C.S. (Pre) 2018**
+
+Which of the above pairs is not correctly matched?
+
+Rebellion Year
+
+- (a) Santhal 1855
+
+- (b) Kol 1831
+
+- (c) Khasi 1829
+
+- (d) Ahom 1815
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Ahom Rebellion was held under the leadership of
+
+Gomdhar Kunwar in Ahom region in 1828. Khasi Rebellion
+
+(1829-33) broke out under the leadership of Teerat Singh.
+
+Kol Revolt (1831-1832 AD) was held under the leadership
+
+of Buddho Bhagat and Ganga Narayan in Chhotanagpur
+
+region. Santhal Rebellion (1855-56 AD) was a famous tribal
+
+revolt the leaders of which were four brothers named - Sidhu,
+
+Kanhu, Chand and Bhairav.
+
+</details>
+
+---
+
+**Q-GC45. 47th B.P.S.C. (Pre) 2005**
+
+Which British Commander was defeated by the
+
+Santhals in 1855?
+
+- (a) Captain Nek Feville
+
+- (b) Lt. Bastain
+
+- (c) Major Burrough
+
+- (d) Colonel White
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The rebels did not have many grievances against the ‘Whites’
+
+or ‘Sahibs.’ Their main enemy was the ‘Dikus’ (government
+
+officers). Over ten thousand Santhals assembled in the field of
+
+Bhognadih on 30th June, 1855 AD, and unanimously passed
+
+a resolution to fight the corrupt Government officials, the
+
+“Dikus.” The Dikus had betrayed them, forced them to 
+
+
+
+
+
+
+slavery and abused their women; they had no choice but to
+
+fight them. They assembled under their leaders Sidhu, Kanu,
+
+Chand, Bhairav and pledged to fight until their independence.
+
+A small contingent of forces under Major Burrough was
+
+called to suppress the rebels, but he met tremendous
+
+resistance and was defeated at Pirpainati. The victory of the
+
+Santhals over the almighty British further fueled the rebellion
+
+which spread like wildfire.
+
+</details>
+
+---
+
+**Q-GC46. U.P.P.C.S. (Mains) 2017**
+
+With reference to “Santhal Hool” of 1855, which of the
+
+following statement/s is/are correct?
+
+Select the correct answer from the codes given below:
+
+1. Major Baroz lost the battle with Santhals near
+
+Bhagalpur.
+
+2. Gokko was an important leader of Godda.
+
+3. Mahajan Deen Dayal Rai is also an important name
+
+in this context.
+
+4. There was a time when Santhals enjoyed full
+
+sovereignty over the area of Ganga Valley near
+
+Muzaffarpur.
+
+Codes:
+
+- (a) 1 only
+
+- (b) 1, 3, 4
+
+- (c) 1, 2, 3
+
+- (d) 2 & 3 only
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Santhal Rebellion, commonly known as the Santhal Hool
+
+was a rebellion in present-day Jharkhand, in eastern India
+
+against both the British colonial authority and Zamindari
+
+System by the Santhal people. The Rebellion started on
+
+30 June 1855 under the Santhal rebel leaders, Sido/Sidhu,
+
+Kanhu, Chand and Bhairav. Major Burrough's troops suffered
+
+a defeat in a fierce engagement with a body of armed Santhals.
+
+Gokko was an important leader of Godda and a respectable
+
+old Santhal headman. Mahajan Deen Dayal Rai is also an
+
+important name in this context. However, they did not enjoy
+
+sovereignty over the area of the Ganga Valley. The revolt was
+
+confined between Bhagalpur and the Rajmahal hill region.
+
+</details>
+
+---
+
+**Q-GC47. I.A.S. (Pre) 2018**
+
+After the Santhal Uprising subsided, what was/were the
+
+measure/measures taken by the colonial government?
+
+1. The territories called ‘Santhal Paraganas’ were
+
+created.
+
+2. It became illegal for a Santhal to transfer land to
+
+a non-Santhal.
+
+Select the correct answer using the code given below:
+
+- (a) 1 only
+
+- (b) 2 only
+
+- (c) Both 1 and 2
+
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Santhal Rebellion was a famous tribal revolt held in
+
+Bihar, Jharkhand and Odisha in 1855-56 AD. After the
+
+suppression of the revolt, the British Government accepted
+
+the demand for a separate Santhal Paragana. Later on,
+
+a new district, the Santhal Paragana, was created by the
+
+Government. Santhal Pargana Tenancy Act was passed which
+
+made it illegal to transfer their land to non-Santhals.
+
+</details>
+
+---
+
+**Q-GC48. Jharkhand P.C.S. (Pre) 2016**
+
+What was the Santhal Pargana region called in ancient
+
+times?
+
+- (a) Narikhand
+
+- (b) Man-Varjikah
+
+- (c) Kartasina
+
+- (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Santhal Pargana region was called ‘Narikhand’ in ancient
+
+times. According to Buddhist literature, this region was also
+
+called as ‘Kajangala’. During the Mahabharat period Santhal
+
+Pargana region was a part of Anga Mahajanapada.
+
+</details>
+
+---
+
+**Q-GC49. U.P.P.C.S. (Pre) 1998**
+
+Which one of the following uprisings occurred in
+
+Maharashtra?
+
+- (a) Bhil uprising
+
+- (b) Kol Uprising
+
+- (c) Rampa uprising
+
+- (d) Santhal uprising
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Uprising of the Bhils, 1818-31 A.D.:
+
+The Bhils were mostly concentrated in the hill ranges of
+
+Khandesh. The British occupation of Khandesh in 1818
+
+enraged the Bhils because they were suspicious of outsiders’
+
+incursions into their territory. Moreover, it was believed that
+
+Trimbakji, rebel minister of Baji Rao II, instigated the Bhils
+
+against the British occupation of Khandesh. There was a
+
+general insurrection in 1819 A.D. and the Bhils in several
+
+small groups ravaged the plains. There were similar types
+
+of insurrection quite often by the Bhil Chiefs against the
+
+British. The British government used its military force to
+
+suppress the rebels and at the same time, tried to win them
+
+over through various conciliatory measures. But the British
+
+measures failed to bring the Bhils to their side.
+
+The Kol Uprising, 1831-32 A.D.:
+
+The Kols of Singhbhum enjoyed independent power under
+
+their Chiefs. They successfully resisted attempts made by
+
+the Raja of Chota Nagpur and Mayurbhanj to subdue them.
+
+The rebellion spread over Ranchi, Hazaribagh, Palamau and
+
+Manbhum. The target of the attack was the settlers from other
+
+regions whose houses were burnt and property looted. The
+
+insurrection was ruthlessly suppressed by the British militia.
+
+Rampa Rebellion of 1879 A.D.
+
+After the passing of the 1882 Madras Forest Act, its restrictions
+
+on the free movement of tribal peoples in the forest prevented
+
+them from engaging in their traditional “Podu” agricultural
+
+system, which involved shifting cultivation in northern areas
+
+of Godavari area in Andhra Pradesh.
+
+Santhal Rebellion, 1855 -56 A.D.
+
+It extended from Bhagalpur in Bihar to Rajmahal.
+
+</details>
+
+---
+
+**Q-GC50. R.A.S./R.T.S.(Pre) 2008**
+
+Who launched the ‘Lasodia Movement’ for social
+
+reforms amongst the Bhils of Mewar, Bagar and nearby
+
+regions?
+
+- (a) Mavji
+
+- (b) Govind Giri
+
+- (c) Surmal Das
+
+- (d) Moti Lal Tejawat
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Social reformers like Surji Bhagat and Govind Giri launched
+
+the ‘Lasodia Movement’ for social reforms amongst the Bhils
+
+of Mewar, Pratapgarh and nearby regions in the latter half of
+
+the 19th century. Govind Giri founded “Samp Sabha” in 1883
+
+A.D. with a view to organising the Bhil community. He is
+
+considered as the founder of Lasodia Movement.
+
+</details>
+
+---
+
+**Q-GC51. 39th B.P.S.C. (Pre) 1994**
+
+Ulgulan Revolt was related to –
+
+- (a) Santhal
+
+- (b) Kachha Nagh
+
+- (c) Kol
+
+- (d) Birsa Munda
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Munda Rebellion was one of the most prominent 19th-Century
+
+tribal rebellions in the subcontinent. Birsa Munda led this
+
+movement in the region in 1899-1900 A.D. The Ulgulan,
+
+meaning ‘Great Tumult,’ sought to establish an independent
+
+Munda Raj. The Mundas traditionally enjoyed a preferential
+
+rent rate as the Khuntkatti or the original clearer of the forest.
+
+But in the course of the 19th century, they had seen this
+
+Khuntkatti land system being eroded by the jaghirdars and
+
+thikedars coming as merchants and moneylenders. In 1895
+
+A.D., Birsa claiming to have seen a vision of God, proclaimed
+
+himself a prophet with miraculous healing powers. Thousands
+
+flocked to hear the ‘new word’ of Birsa with its prophecy of
+
+an imminent deluge. The new prophet became a critic of the
+
+traditional tribal customs, religious beliefs, and practices. He
+
+called upon the Mundas to fight against superstition, give
+
+up animal sacrifice, stop taking intoxicants, wear the sacred
+
+thread and retain the tribal tradition of worship in the Sarna
+
+or the sacred grove. It was essentially a revivalist movement,
+
+which sought to purge Munda society of all foreign elements
+
+and restore its pristine character. Christianity influenced the
+
+movement as well and it used both Hindu-Christian idioms
+
+to create the Munda ideology and worldview. On Christmas
+
+Eve 1899 A.D., the Mundas shot arrows and tried to burn
+
+down churches over an area covering six police stations in the
+
+districts of Ranchi and Singhbhum. Next, in January 1900,
+
+the police stations were targeted and there were rumours
+
+that Birsa’s followers would attack Ranchi on 8th January,
+
+leading to panic there. However, on 9th January, the rebels
+
+were defeated. Birsa was captured and died in jail. Nearly
+
+350 Mundas were put on trial, and three of them were hanged
+
+and 44 transported for life.
+
+</details>
+
+---
+
+**Q-GC52. I.A.S. (Pre) 2020**
+
+With reference to the history of India, "Ulgulan" or
+
+the Great Tumult is the description of which of the
+
+following events?
+
+- (a) The Revolt of 1857
+
+- (b) The Mappila Rebellion of 1921
+
+- (c) The Indigo Revolt of 1859 -60
+
+- (d) Birsa Munda's Revolt of 1899 - 1900
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+'Ulgulan' meaning Great Tumult was a revolution to establish
+
+Munda Raj and Independence which was led by Birsa Munda
+
+in 1899-1900 A.D. It was a revolt to establish the right of
+
+indigenous people over their resources which were being
+
+snatched away from them by landlords and moneylenders and
+
+colonial rulers during pre-independence times.
+
+</details>
+
+---
+
+**Q-GC53. Uttarakhand P.C.S. (Mains) 2002**
+
+Which tribal leader known as ‘Dharti Aaba’ (Father
+
+of World)?
+
+- (a) Jiriya Bhagat
+
+- (b) Kanu Sanyal
+
+- (c) Roop Nayak
+
+- (d) Birsa Munda
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Birsa Munda, known as Dharti Aaba or father of earth, was
+
+born in 1875 A.D. In the year 1895 A.D., Birsa claimed to
+
+possess miraculous healing powers and declared himself a
+
+prophet. The Munda rebellion was essentially a revivalist
+
+movement that aimed to eliminate all the foreign elements
+
+from the Munda society to make it retain its original pure
+
+character. The political and agrarian elements were then
+
+included in the religious movement. Birsa was also captured
+
+and, he died in jail in June 1900.
+
+</details>
+
+---
+
+**Q-GC54. 47th B.P.S.C. (Pre) 2005 / U.P. P.C.S. (Pre) 1998**
+
+Who was the leader of Munda rebellion?
+
+- (a) Birsa
+
+- (b) Kanhu
+
+- (c) Tilak Manjhi
+
+- (d) Siddhu
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC55. 66th B.P.S.C. Re-Exam (Pre) 2020**
+
+Who was the leader of Munda Revolt?
+
+- (a) Siddhu
+
+- (b) Birsa
+
+- (c) Kanhu
+
+- (d) Tilka Manjhi
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC56. 45th B.P.S.C. (Pre) 2001**
+
+Mundas rose revolt in –
+
+- (a) 1885
+
+- (b) 1888
+
+- (c) 1890
+
+- (d) 1895
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+One of the prominent revolts of the nineteenth century on the
+
+Indian subcontinent was the Munda Rebellion. This rebellion
+
+was led by Birsa Munda in 1899 A.D. Traditionally, the
+
+Mundas enjoyed the system known as the Khuntkatti which
+
+meant the original clearing of the forest. However, over
+
+time, the Mundas realized that this system of Khuntkatti was
+
+being corroded by the jaghirdars and thikedars who came
+
+as moneylenders and traders. In the year 1895 A.D., Birsa
+
+declared himself a prophet. This movement was popularly
+
+known as Sardari ladai. Munda was arrested in 1900 A.D.,
+
+later died in jail.
+
+</details>
+
+---
+
+**Q-GC57. B.P.S.C. (Pre) 2016**
+
+Birsa was captured, while asleep on :
+
+- (a) 1 February, 1900
+
+- (b) 2 February, 1900
+
+- (c) 3 February, 1900
+
+- (d) 4 February, 1900
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Birsa Munda was captured from Jamkopai forest in
+
+Chakradharpur (West Singhbhoom) on 3 February, 1900 and
+
+he died ambiguously on 9th June, 1900 in prison.
+
+</details>
+
+---
+
+**Q-GC58. 44th B.P.S.C. (Pre) 2000**
+
+Birsa Munda was in favour of
+
+- (a) Jharkhand
+
+- (b) Uttaranchal
+
+- (c) Chhattisgarh
+
+- (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+One of the prominent revolts of the nineteenth century on the
+
+Indian subcontinent was the Munda Rebellion. This rebellion
+
+was led by Birsa Munda in Ranchi in the year 1899-1900. The
+
+“Great Tumult” aimed to establish an independent Munda Raj
+
+but he was not in favour of the establishment of an individual
+
+state. There were two reasons for the revitalization of the
+
+movement. One was agrarian discontent and the other was the
+
+advent of Christianity. The movement aimed to reconstruct
+
+the tribal society from disintegration which was staring in its
+
+face due to the stress and strains of the colonial rule.
+
+</details>
+
+---
+
+**Q-GC59. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Which was the working area of Birsa Munda?
+
+- (a) Champaran
+
+- (b) Ranchi
+
+- (c) Ballia
+
+- (d) Alipur
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The working region of Birsa Munda was expanded from
+
+Ranchi to Bhagalpur. The major objectives of Birsa were to
+
+introduce social reforms in tribal areas and keep away from
+
+British Rule. Birsa criticized the traditional tribal customs,
+
+beliefs and practices. He encouraged the Mundas to fight
+
+against superstitions, renounce animal sacrifices, stop
+
+taking intoxicants, wear the sacred thread, and continue the
+
+traditional tribal worship in the sacred grove. The British
+
+crushed this great movement.
+
+</details>
+
+---
+
+**Q-GC60. 70th B.P.S.C. Re-Exam 2024**
+
+Where did the revolt of Birsa Munda take place?
+
+- (a) Champaran
+
+- (b) Ballia
+
+- (c) Ranchi
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC61. I.A.S. (Pre) 1995**
+
+The word Adivasi was used for the first time to refer
+
+to the tribal people by :
+
+- (a) Mahatma Gandhi
+
+- (b) Thakkar Bappa
+
+- (c) Jyotiba Phule
+
+- (d) B.R. Ambedkar
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The word Adivasi was used for the first time to refer to the
+
+tribal people by Amritlal Vithaldas Thakkar, popularly known
+
+as Thakkar Bappa. He was a loyal member of Servants of
+
+India Society and advocated for the rights of untouchables
+
+and tribals. Thakkar Bappa was deeply influenced by the
+
+reform measures advocated by Gandhi. During 1933-34, he
+
+came into close contact with the great leader and undertook a
+
+Harijan tour with him. He was appointed as general secretary
+
+of the Harijan Sevak Sangh set up by Gandhi.
+
+</details>
+
+---
+
+**Q-GC62. I.A.S. (Pre) 2011**
+
+Which amongst the following provided a common
+
+factor for a tribal insurrection in India in the 19th
+
+century?
+
+- (a) Introduction of a new system of land revenue and
+
+taxation of tribal products
+
+- (b) Influence of foreign religious missionaries in tribal
+
+areas
+
+- (c) Rise of a large number of money lenders, traders and
+
+revenue farmers as middlemen in tribal areas
+
+- (d) The complete disruption of the old agrarian order of
+
+the tribal communities
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Factors mentioned in options a, b, and c, are reasons behind
+
+the tribal insurrection in India but factor mentioned in option
+
+(d) was the key factor behind the tribal insurrection in India
+
+during the 19th century. Hence, option (d) is the correct
+
+answer.
+
+</details>
+
+---
+
+**Q-GC63. 43rd B.P.S.C. (Pre) 1994**
+
+The Hoz revolt took place during –
+
+- (a) 1620 - 21
+
+- (b) 1720 - 21
+
+- (c) 1820 - 21
+
+- (d) 1920 - 21
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Hoz or Ho revolt took place in 1820-21 the centre of which
+
+was located in Santhal Pargana of Bihar (Now in Jharkhand).
+
+</details>
+
+---
+
+**Q-GC64. Jharkhand P.C.S. (Pre) 2003**
+
+When did Khairwar Tribal movement occur?
+
+- (a) 1874
+
+- (b) 1960
+
+- (c) 1865
+
+- (d) 1870
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Khairwar tribal movement occurred under the leadership of
+
+Bhagirath Manjhi in 1874.
+
+</details>
+
+---
+
+**Q-GC65. I.A.S. (Pre) 1994**
+
+Who among the following was the leader of some antiBritish revolts in Sambhalpur?
+
+- (a) Utirat Singh
+
+- (b) Surendra Sai
+
+- (c) Kattabomman
+
+- (d) Sayyid Ahmad Barelvi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The claimant of Sambalpur, Surendra Sai, led the revolt
+
+against Britishers. He surrendered in 1862.
+
+</details>
+
+---
+
+**Q-GC66. I.A.S. (Pre) 1999**
+
+Consider the following events:
 
 1. Indigo Revolt
 
-2. Santhal Hul
+2. Santhal Rebellion
 
-3. Deccan Riots
+3. Deccan Riot
 
-4. Revolt of 1857 (Sepoy Mutiny centre)
+4. Mutiny of the Sepoys
 
-Select the correct code:
+The correct chronological sequence of these events is:
 
-A. 2, 4, 1, 3
+- (a) 4, 2, 1, 3
 
-B. 4, 2, 1, 3
+- (b) 4, 2, 3, 1
 
-C. 2, 1, 4, 3
+- (c) 2, 4, 3, 1
 
-D. 1, 2, 4, 3
+- (d) 2, 4, 1, 3
 
-<details>
+<details><summary>Show answer</summary>
 
-<summary>Show answer</summary>
+**Answer: (d)**
 
-**Logic:** Chronology Santhal → Sepoy Mutiny → Indigo → Deccan.
+**Explanation:**
+Indigo Revolt occurred in 1859-60 A.D., Santhal Rebellion
 
-**Ans: A.** Order: **Santhal (1855–56) → 1857 → Indigo (1859–60) → Deccan (1875)** — code **2, 4, 1, 3**.
+under Sidhu, Kanhu, Chand and Bhairav in 1855-56 A.D.,
 
-</details>
-
-**Q39. IAS / UPPCS**
-
-Which of the following movements began **after** the Revolt of 1857?
-
-A. Santhal Hul
-
-B. Indigo Revolt
-
-C. Kol Rebellion
-
-D. Sanyasi–Fakir rising
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** After-1857 set = Indigo, Deccan, Birsa — Santhal is pre-1857.
-
-**Ans: B.** **Indigo (1859–60)** follows 1857. **Santhal (1855–56)**, **Kol (1831–32)** and the **Sanyasi** stream are all **before** 1857.
-
-</details>
-
-**Q40. IAS / Chhattisgarh / UPPCS**
-
-The Chuar rising is associated with:
-
-A. Bankura–Midnapore belt, Bengal
-
-B. Bastar, Madhya Pradesh
-
-C. Kolhapur, Maharashtra
-
-D. Malabar, Kerala
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Chuar = Bengal (Bankura–Midnapore) — not Madhya Pradesh.
-
-**Ans: A.** **Chuar** belongs to **Bengal (Bankura–Midnapore)**, not Madhya Pradesh or Malabar — a frequent region trap.
-
-</details>
-
-**Q41. UPPCS / Jharkhand**
-
-Which leader–movement pair is **NOT** correctly matched?
-
-A. Jatra Oraon — Tana Bhagat
-
-B. Birsa Munda — Ulgulan
-
-C. Nayak — Tana Bhagat
-
-D. Madari Pasi — Eka
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Nayak ≠ Tana Bhagat — Tana = Oraon / Jatra Bhagat stream.
-
-**Ans: C.** **Nayak–Tana Bhagat** is the wrong pair. Tana Bhagat belongs to the **Oraon / Jatra Oraon** stream.
-
-</details>
-
-**Q42. UPPCS 2024 / Jharkhand / BPSC**
-
-Match **List-I** with **List-II** and select the correct answer using the codes given below.
-
-**List-I (Revolt)** | **List-II (Leader)**
-
----|---
-
-A. Paika Rebellion | 1. Mufti Muhammad Aiwaz
-
-B. Bareilly Revolt (1816) | 2. Edachena Kungan
-
-C. Malabar rising | 3. Jagabandhu Bidyadhar
-
-D. Sylhet rising | 4. Radharam
-
-A. 3 1 2 4
-
-B. 3 1 4 2
-
-C. 1 3 2 4
-
-D. 4 3 1 2
-
-*Row order is not the answer code.*
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** UPPCS 2024 match — Paika Jagabandhu; Bareilly Mufti Muhammad Aiwaz; Malabar Edachena Kungan; Sylhet Radharam.
-
-**Ans: A.** Paika — **Jagabandhu**; Bareilly (1816) — **Mufti Muhammad Aiwaz**; Malabar — **Edachena Kungan**; Sylhet — **Radharam**. Trap: Bareilly **1816** ≠ Bareilly **1857** (Khan Bahadur Khan).
-
-</details>
-
-**Q43. Jharkhand / BPSC / UPPCS**
-
-The Bhumij tribal rising is associated with:
-
-A. Ganga Narain
-
-B. Buddhu Bhagat
-
-C. Birsa Munda
-
-D. Bhagirath Manjhi
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Bhumij rising = Ganga Narain — not Buddhu Bhagat or Birsa.
-
-**Ans: A.** **Ganga Narain** is the **Bhumij** leader tag. **Buddhu Bhagat** = Kol; **Bhagirath Manjhi** = Khairwar.
-
-</details>
-
-**Q44. Jharkhand / BPSC / UPPCS**
-
-The Tebhaga movement (1946–47) was organised under the leadership of:
-
-A. Indian National Congress village committees only
-
-B. Kisan Sabha / communist peasant stream in Bengal
-
-C. Bardoli Satyagraha volunteers
-
-D. All India Trade Union Congress alone
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Tebhaga leadership body = Kisan Sabha / CPI stream in Bengal.
-
-**Ans: B.** **Tebhaga** ran through the **Kisan Sabha / CPI** peasant stream in **Bengal**, demanding a **two-thirds** share for sharecroppers.
+Deccan Riot in 1875 and Sepoy mutiny in 1857.
 
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Peasant Movement and Kisan Sabha
+**Q-GC67. 64th B.P.S.C. (Pre) 2018**
 
-Teaching sits in **8.2–8.3**, Bardoli, Tebhaga, Bijolia and Bhoodan.
+The immediate cause of the Deccan Riots of 1875 was
 
-**Q45. IAS / UPPCS / BPSC**
+- (a) the shadow of famine
 
-Who among the following was **NOT** among the founders of the United Provinces Kisan Sabha (1918)?
+- (b) high interest rates charged by Mahajans
 
-A. Indra Narayan Dwivedi
+- (c) high land revenue rates
 
-B. Gauri Shankar Mishra
+- (d) protest against imposition
 
-C. Madan Mohan Malaviya
+- (e) none of the above/ more than one of the above
 
-D. Jawaharlal Nehru
+<details><summary>Show answer</summary>
 
-<details>
+**Answer: (e)**
 
-<summary>Show answer</summary>
+**Explanation:**
+The immediate cause of the Deccan Riots of 1875 A.D. was
 
-**Logic:** UP Kisan Sabha Feb 1918 = Dwivedi–Mishra–Malaviya — Nehru was not a founder.
+the shadow of famine and the high interest rates charged by
 
-**Ans: D.** **Jawaharlal Nehru** was not a founder. The **1918** Sabha was organised by **Dwivedi** and **Mishra** with **Malaviya's** support.
-
-</details>
-
-**Q46. IAS / UPPCS / BPSC**
-
-The **Nai-Dhobi Band** social boycott against exploiting landlords in Awadh was launched in:
-
-A. Lucknow
-
-B. Pratapgarh
-
-C. Bareilly
-
-D. Allahabad
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Nai-Dhobi Band = social boycott of exploiting landlords in Pratapgarh estates.
-
-**Ans: B.** **Nai-Dhobi Band** action began in **Pratapgarh** estates in the Awadh mobilisation that fed the **Oudh Kisan Sabha (1920)** stream.
+Mahajans.
 
 </details>
 
-**Q47. IAS / UPPCS / BPSC**
+---
 
-Baba Ramchandra is most closely associated with peasant mobilisation in:
+**Q-GC68. Chhattisgarh P.C.S. (Pre) 2017**
 
-A. Bihar (1936 Kisan Sabha)
+The following popular movements occurred after 1857 :
 
-B. Awadh (Oudh Kisan Sabha stream)
+1. Santhal Rebellion
 
-C. Bardoli, Gujarat
+2. Indigo Revolt
 
-D. Telangana, Hyderabad State
+3. Deccan Agriculturists Riots
 
-<details>
+4. Birsa Munda Uprising
 
-<summary>Show answer</summary>
+Select the correct answer:
 
-**Logic:** Baba Ramchandra = Awadh/Oudh Kisan Sabha mass organiser ~1920 — not 1918 UP Sabha founder.
+- (a) 1, 2, 3
 
-**Ans: B.** **Baba Ramchandra** mobilised Awadh tenants through the **Oudh Kisan Sabha (~1920)** stream, not the **1918 Lucknow** UP Sabha of Dwivedi.
+- (b) 2, 3, 4
 
-</details>
+- (c) 1, 2, 4
 
-**Q48. UPPCS / BPSC**
+- (d) 1, 3, 4
 
-The main immediate demand of the Eka movement (1921–22) was that tenants should:
+<details><summary>Show answer</summary>
 
-A. Refuse to pay any rent until zamindari was abolished
+**Answer: (b)**
 
-B. Pay only the recorded rent and take a receipt, often in cash
+**Explanation:**
+Indigo Revolt - 1859-60 A.D.
 
-C. Join the Non-Cooperation programme by boycotting British courts only
+Deccan Agriculturists - 1875 A.D.
 
-D. Hand over all surplus grain to the Kisan Sabha fund
+Riots
 
-<details>
+Birsa Munda Uprising - 1899-1900 A.D.
 
-<summary>Show answer</summary>
-
-**Logic:** Eka aim = insist on recorded / cash rent with receipt — not refuse all rent outright.
-
-**Ans: B.** **Eka** peasants swore to pay **only recorded rent**, insist on a **receipt**, and often on **cash** payment — not to refuse all rent.
+Santhal Rebellion - 1855-56 A.D.
 
 </details>
 
-**Q49. UPPCS / BPSC**
+---
 
-The Eka movement (1921–22) was strongest in which belt?
+**Q-GC69. I.A.S. (Pre) 1997**
 
-A. Hardoi, Barabanki, Bahraich and Sitapur
+Match List- I with List- II and select the correct answer
 
-B. Champaran and Muzaffarpur
+using the code given below the lists
 
-C. Bardoli and Surat
+List- I List- II
 
-D. Nadia and Jessore
+A. Moplah revolt 1. Kerala
 
-<details>
+B. Pabna revolt 2. Bihar
 
-<summary>Show answer</summary>
+C. Eka Movement 3. Bengal
 
-**Logic:** Eka centres = Hardoi, Barabanki, Bahraich, Sitapur — Awadh belt.
+D. Birsa Munda revolt 4. Oudh
 
-**Ans: A.** **Eka** ran through **Hardoi, Barabanki, Bahraich, Sitapur** and neighbouring **Awadh** districts under **Madari Pasi**.
+Code :
 
-</details>
+A B C D
 
-**Q50. UPPCS / BPSC / IAS**
+- (a) 1 3 4 2
 
-The first President of the All India Kisan Sabha (1936) was:
+- (b) 2 3 4 1
 
-A. N.G. Ranga
+- (c) 1 2 3 4
 
-B. Swami Sahajanand Saraswati
+- (d) 3 4 1 2
 
-C. Indra Narayan Dwivedi
+<details><summary>Show answer</summary>
 
-D. Baba Ramchandra
+**Answer: (a)**
 
-<details>
+**Explanation:**
+Moplah revolt occurred in 1921 A.D. in Malabar of Kerala.
 
-<summary>Show answer</summary>
+Pabna revolt from 1873-76 A.D. in Bengal, Eka movement in
 
-**Logic:** Sahajanand = first AIKS President 1936 Lucknow — Kisan-Pran tag.
+1921-22 in Oudh and Munda Rebellion under Birsa Munda
 
-**Ans: B.** **Swami Sahajanand Saraswati** presided at the **Lucknow (1936)** founding session. He is often tagged **Kisan-Pran**.
-
-</details>
-
-**Q51. UPPCS / BPSC / IAS**
-
-Who served as General Secretary when the All India Kisan Sabha was founded at Lucknow in 1936?
-
-A. Swami Sahajanand Saraswati
-
-B. N.G. Ranga
-
-C. Jawaharlal Nehru
-
-D. Vallabhbhai Patel
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** N.G. Ranga = General Secretary of AIKS 1936.
-
-**Ans: B.** **N.G. Ranga** was **General Secretary** at the **1936 Lucknow** founding. Sahajanand was **President**.
+took place in 1899-1900 A.D. in Bihar (now Jharkhand).
 
 </details>
 
-**Q52. UPPCS / BPSC / IAS**
+---
 
-The Bardoli Satyagraha (1928) was led by:
+**Q-GC70. 63rd B.P.S.C (Pre.) 2017**
 
-A. Mahatma Gandhi
+The Moplah Rebellion of 1921 broke out in -:
 
-B. Vallabhbhai Patel
+- (a) Assam
 
-C. Baba Ramchandra
+- (b) Kerala
 
-D. Madari Pasi
+- (c) Punjab
 
-<details>
+- (d) Bengal
 
-<summary>Show answer</summary>
+- (e) None of the above/More than one of the above
 
-**Logic:** Bardoli 1928 = Vallabhbhai Patel — Sardar title linked to Bardoli women / Gandhi's recognition.
+<details><summary>Show answer</summary>
 
-**Ans: B.** **Vallabhbhai Patel** led **Bardoli (1928)**. The **Sardar** title is linked to **Bardoli women** and **Gandhi's** recognition of Patel's leadership.
+**Answer: (b)**
 
-</details>
-
-**Q53. UPPCS / BPSC / IAS**
-
-The Tebhaga movement demanded that sharecroppers should retain what share of the produce?
-
-A. One-half
-
-B. Two-thirds
-
-C. One-fourth
-
-D. The entire crop without any landlord claim
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Tebhaga = reduce landlord share from half to one-third (two-thirds for sharecropper).
-
-**Ans: B.** **Tebhaga** meant the **two-thirds** share for the bargadar — cutting the landlord's customary **half** to **one-third**.
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
-**Q54. RAS / UPPCS / IAS**
+---
 
-Which peasant movement is often cited as among the earliest sustained peasant struggles in modern India?
+**Q-GC71. U.P.R.O./A.R.O. (Mains) 2016**
 
+Match List -I with List - II and select correct answer
+
+from the code given below the lists.
+
+List–I List-II
+
+(Revolt/Movement) (Year)
+
+A. Tebhaga Movement 1. 1859-60
+
+B. Mopla Rebellion 2. 1879-80
+
+C. Pabna Peasant Revolt 3. 1921
+
+D. Bengal Indigo Revolt 4. 1946-47
+
+Codes :
+
+A B C D
+
+- (a) 1 2 3 4
+
+- (b) 4 2 3 1
+
+- (c) 2 3 4 1
+
+- (d) 4 3 2 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+Following are the correct match:
+
+List–I List-II
+
+(Revolt/Movement) (Year)
+
+Bengal Indigo Revolt 1859-60 A.D.
+
+Pabna Peasant Revolt 1873-76 A.D.
+
+Mopla Rebellion 1921 A.D.
+
+Tebhaga Movement 1946-47 A.D.
+
+</details>
+
+---
+
+**Q-GC72. U.P.P.C.S. (Pre) 2019**
+
+Match List- I with List- II and select the correct answer
+
+using the code given below the lists :
+
+List- I List- II
+
+(Movement) (Year)
+
+A. Pabna rebellion 1. 1855-56
+
+B. Eka Movement 2. 1873-85
+
+C. Santhal Rebellion 3. 1922
+
+D. Tana Bhagal Movement 4. 1914
+
+Code :
+
+A B C D
+
+- (a) 1 2 4 3
+
+- (b) 2 3 1 4
+
+- (c) 3 1 4 2
+
+- (d) 4 3 2 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The correct match of List- I with List-II is as follows :
+
+(Movement) (Year)
+
+Pabna Rebellion - 1873-85 A.D.
+
+Eka Movement - 1922 A.D.
+
+Santhal Rebellion - 1855-56 A.D.
+
+Tana Bhagat Movement - 1914 A.D.
+
+Note : In 1885 A.D., the rights of farmers on land were
+
+clarified by the Bengal Tenancy Act, which was the main
+
+demand of the Pabna movement. This movement was intense
+
+during 1873-1876 A.D. After that it was just a legal dispute.
+
+</details>
+
+---
+
+**Q-GC73. U.P. P.C.S. (Mains) 2007**
+
+Who started the Eka movement?
+
+- (a) Farmers of Maharashtra
+
+- (b) Farmers of Bengal
+
+- (c) Farmers of Punjab
+
+- (d) Farmers of Hardoi, Barabanki and other places of
+
+Uttar Pradesh
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Eka movement (1921-22 A.D.) was started by farmers in
+
+Hardoi, Behraich, Sitapur etc. districts of Uttar Pradesh. The
+
+main point of contention of this Movement was a collection
+
+of 50% more tax than accepted tax. The Movement was led
+
+by Madari Pasi.
+
+</details>
+
+---
+
+**Q-GC74. U.P.R.O./A.R.O. (Pre) (Re-Exam) 2016**
+
+Match the List-I with List-II and select the correct
+
+answer from the codes given below:
+
+List–I List-II
+
+A. Rampa Rebellion 1. 1859-60
+
+B. Pabna Peasant Revolt 2. 1879-80
+
+C. Bengal Indigo Revolt 3. 1860-63
+
+D. Jaintia Rebellion 4. 1873-76
+
+Codes :
+
+A B C D
+
+- (a) 2 1 3 4
+
+- (b) 2 4 1 3
+
+- (c) 1 2 3 4
+
+- (d) 4 2 1 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Matches are as follows:-
+
+List–I List-II
+
+Rampa Rebellion 1879-80 A.D.
+
+Pabna Peasant Revolt 1873-76 A.D.
+
+Bengal Indigo Revolt 1859-60 A.D.
+
+Jaintia Rebellion 1860-63 A.D.
+
+</details>
+
+---
+
+**Q-GC75. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Moplah revolt of 1921 took place in
+
+- (a) Kashmir
+
+- (b) B.N.W.F.P.
+
+- (c) Kerala
+
+- (d) Assam
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Moplah revolt occurred in the Malabar region of Kerala in
+
+1921A.D. Most of the local tenants were Muslims while
+
+landlords were Hindu. The movement was against the
+
+exploitation of landlords.
+
+</details>
+
+---
+
+**Q-GC76. U.P.P.C.S. (Mains) 2016 / U.P.P.S.C. (GIC) 2010 / Jharkhand P.C.S. (Pre) 2003**
+
+The ‘Moplah Revolt’ of 1921 took place in :
+
+- (a) Telangana
+
+- (b) Vidarbha
+
+- (c) Malabar
+
+- (d) Marathwada
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Moplah Revolt of 1921 A.D. was a peasant movement
+
+that took place in Malabar region of Kerala. The Moplah
+
+tenants were Muslim and were agitated against Hindu
+
+Landlords and the British Government on grievances related
+
+to lack of any security of tenure, renewal fees, high rent and
+
+other oppressive landlord execution.
+
+</details>
+
+---
+
+**Q-GC77. U.P.P.C.S. (Mains) 2006**
+
+Match List-I with List-II and select the correct answer
+
+by using the code given below the lists :
+
+List-I List-II
+
+(Events) (Dates)
+
+A. Barrackpur Mutiny 1. July, 1806
+
+B. Berhampur Revolt 2. November, 1824
+
+C. Santhal Revolt 3. 1855-56
+
+D. Vellore Mutiny 4. February, 1857
+
+Code :
+
+A B C D
+
+- (a) 2 4 3 1
+
+- (b) 2 1 4 3
+
+- (c) 3 4 2 1
+
+- (d) 1 2 3 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+Barrackpur Mutiny - November 1824
+
+Berhampur Revolt - February 1857
+
+Santhal Revolt - 1855-56
+
+Vellore Mutiny - July 1806
+
+</details>
+
+---
+
+**Q-GC78. U.P. R.O./A.R.O. 2017**
+
+Match List-I with List-II and select the correct answer
+
+from the codes given below :
+
+List-I List-II
+
+(Rebellion) (Year A.D.)
+
+A. Ahom i. 1855-56
+
+B. Kol ii. 1828
+
+C. Santhal iii. 1921
+
+D. Moplah iv. 1831-32
+
+Codes :
+
+A B C D
+
+- (a) 2 4 1 3
+
+- (b) 1 3 2 4
+
+- (c) 2 1 3 4
+
+- (d) 3 1 4 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+List-I List - II
+
+(Rebellion) (Year A.D.)
+
+Ahom 1828
+
+Kol 1831-32
+
+Santhal 1855-56
+
+Moplah 1921
+
+</details>
+
+---
+
+**Q-GC79. U.P.P.C.S. (Mains) 2015**
+
+Which of the following is not correctly matched?
+
+- (a) Moplah revolt - Kerala
+
+- (b) Kuka revolt - Punjab
+
+- (c) Koli revolt - Gujarat
+
+- (d) Chuar revolt - Madhya Pradesh
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Moplah Rebellion or the Malabar Rebellion was an
+
+extended version of the Khilafat movement in Kerala in
+
+1921. The major centres of Kuka revolt were parts of Punjab
+
+region. The First War of Independence in 1857 saw various
+
+tribal communities fighting bravely to throw off the yoke
+
+of British exploitation. The uprising of the Koli tribes in
+
+the Taranga hills of Mehsana district in Gujarat and Chuar
+
+Revolt (1767-1802) was a massive rebellion that broke out
+
+in Bankura and Midnapore Region, Bengal. Thus, option
+
+(d) is not correctly matched.
+
+</details>
+
+---
+
+**Q-GC80. M.P.P.C.S. (Pre) 2008**
+
+Bhils revolted against the British in –
+
+- (a) M.P. and Maharashtra
+
+- (b) M.P. and Bihar
+
+- (c) Bihar and Bengal
+
+- (d) Bengal and Maharashtra
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The uprising of the Bhils (1818-1831 A.D.) was largely
+
+concentrated in Khandesh (present-day Maharashtra &
+
+Madhya Pradesh). Khandesh came under British occupation in
+
+1818. The Bhils considered them outsiders. On the instigation
+
+of Trimbakji, minister of Baji Rao II, revolted against the
+
+Britishers. Besides this, some agitation also occurred in
+
+Rajasthan and Madhya Pradesh in 19th - 20th Century.
+
+</details>
+
+---
+
+**Q-GC81. U.P.P.C.S. (Spl) (Pre) 2008**
+
+Which one of the following pairs is not correctly
+
+matched?
+
+- (a) Munda – Birsa
+
+- (b) Santhal – Kanhu
+
+- (c) Ahom – Gomdhar Kunwar
+
+- (d) Nayak – Tana Bhagat
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Munda rebellion was led by Birsa Munda in the south of
+
+Ranchi in the year 1899-1900 A.D. Santhal rebellion occurred
+
+in 1855-1856 A.D. Sidhu and Kanhu were leading Santhal
+
+rebellion leaders. Ahom Movement was led by Gomdhar
+
+Kunwar in 1828 A.D. Tana Bhagats were a tribal community
+
+of Chota Nagpur region. They are related to historical Tana
+
+Bhagat movement(1914 A.D.). Tana Bhagats were formed
+
+by Oraon saints Jatra Bhagat Balram Bhagat and Devmania
+
+Bhagat. Tana Bhagats opposed the taxes imposed on them
+
+by the British.
+
+</details>
+
+---
+
+**Q-GC82. Chhattisgarh P.C.S. (Mains) 2015**
+
+In which year Jatra Oraon started Tana Bhagat
+
+Movement?
+
+- (a) 1919
+
+- (b) 1917
+
+- (c) 1914
+
+- (d) 1922
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC83. U.P. P.C.S. (Pre) 2010**
+
+Match these former revolts in 19th century with these
+
+related areas –
+
+A. Kuki revolt 1. Punjab
+
+B. Kuka revolt 2. Bengal
+
+C. Pabna revolt 3. Bihar
+
+D. Birsa Munda revolt 4. Tripura
+
+Choose the right answer from this code :
+
+Code :
+
+A B C D
+
+- (a) 4 2 1 3
+
+- (b) 2 3 1 4
+
+- (c) 4 1 3 2
+
+- (d) 4 1 2 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Kuki revolt (1917-19 A.D.) - Manipur and Tripura
+
+Kuka revolt (1840-72 A.D.) - Punjab
+
+Pabna revolt (1873-1876 A.D.) - Bengal
+
+Birsa Munda revolt (1899-1900 A.D.) - Bihar (today’s
+
+ Jharkhand)
+
+</details>
+
+---
+
+**Q-GC84. U.P.B.E.O. (Pre) 2019**
+
+Which of the following is NOT correctly matched ?
+
+(Revolts) (Years)
+
+- (a) Neel Rebellion 1859-60
+
+- (b) Jaintiya Rebellion 1860-63
+
+- (c) Kuki Rebellion 1860-90
+
+- (d) Kuka Revolt 1832-34
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+Kuka rebellion was started by Bhagat Jawahar Mal in 1840s.
+
+The objective of this revolt was to purge Sikhism of superstition and uphold the religious purity of Sikhism.
+
+Kuki rebellion started in 1917 A.D. It was against British
+
+government's dictate to join Labour Corps for WWI effort.
+
+Kuki refused to join and rebelled against the British.
+
+Note: Since two options are correct, either this question needs
+
+to be cancelled or both options should be accepted as correct.
+
+</details>
+
+---
+
+**Q-GC85. U.P. P.C.S. (Pre) 2024**
+
+Match List-I with List-II and select the correct answer
+
+using the code given below:
+
+List-I (Revolts) List-II (Leaders)
+
+A. Paika Rebellion 1. Edachana Kungan
+
+B. Bareilly Rebellion 2. Radharam
+
+C. Malabar Rebellion 3. Mufti Mohammad
+
+Aiwaz
+
+D. Silhat Rebellion 4. Jagbandhu Bidyadhar Mahapatra
+
+Code :
+
+A B C D
+
+- (a) 4 3 1 2
+
+- (b) 3 4 1 2
+
+- (c) 3 2 1 4
+
+- (d) 2 1 3 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Bakshi Jagabandhu was the leader of the Paika Rebellion of
+
+1817 AD, which took place in Khordha (present-day Odisha).
+
+He was born in Rorunga, near Puri and his actual name was
+
+Jagabandhu Vidyadhar Mahapatra Bhramarbar Ray.
+
+The Bareilly Rebellion occurred in 1816 AD under the
+
+leadership of Mufti Muhammad Aiwaz, who opposed the
+
+police tax.
+
+Edachana Kungan Nair was the commander of the Nair Army
+
+of Kerala Varma Pazhassiraja in Wayanad (Malabar region).
+
+In 1802 AD he was the backbone of Pazhassiraja's attack
+
+on British Military Camp leading to a revolt in Wayanad in
+
+Malabar region.
+
+The Silhat Rebellion, also known as the Pratapgarh Rebellion,
+
+was led by local landlord Radharam, who opposed British
+
+rule in the Silhat region.
+
+</details>
+
+---
+
+**Q-GC86. Jharkhand P.C.S. (Pre.) 2021**
+
+Who was the leader of Bhumij Revolt?
+
+- (a) Bhagirath
+
+- (b) Dubia Gosain
+
+- (c) Jatra Bhagat
+
+- (d) Ganga Narain
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Bhumij (one who was born from the soil) revolt was led
+
+by Ganga Narain. It occurred in 1832-33 in the Jungle
+
+Mahal region of East India started as an inheritance issue
+
+in the Zamindari of Barabhum (West Bengal). The revolt
+
+snowballed into an armed conflict against British rule. The
+
+rebellion was the result of persecution of Bhumij tribe people
+
+by the king and the exploitative policies of British Raj.
+
+</details>
+
+---
+
+**Q-GC87. 66th B.P.S.C. (Pre) (Re-Exam) 2020**
+
+The Tebhaga Movement was started in 1946 from
+
+Bengal under the leadership of :
+
+- (a) Muslim League
+
+- (b) Kisan Sabha
+
+- (c) Indian National Congress
+
+- (d) Trade Union
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Tebhaga Movement (1946-47 AD) was a famous peasant
+
+movement in Bengal, under which peasants started a struggle
+
+to reduce the rate of rent by 1/3 as per the recommendation
+
+of the 'Floud Commission'. This movement started under
+
+the leadership of Bangiya Pradeshik Kisan Sabha. This
+
+movement was against the sharecroppers and Jotedars. The
+
+most prominent leaders of this movement were Kampram
+
+Singh and Bhuvan Singh.
+
+</details>
+
+---
+
+**Q-GC88. Jharkhand P.C.S. (Pre) 2013**
+
+The first tribal leader who was inspired by Mahatma
+
+Gandhi and his ideology was –
+
+- (a) Alluri Sitaram Raju
+
+- (b) Jodanang
+
+- (c) Jhabkar Bapa
+
+- (d) Rani Gaidinliu
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Haipou Jadonang was the first tribal leader who was inspired
+
+by Gandhiji. He was the main leader of Manipur’s Naga tribe.
+
+He, along with Rani Gaidinliu started social and religious
+
+reforms including freedom fighting.
+
+</details>
+
+---
+
+**Q-GC89. M.P. P.C.S. (Pre) 2017**
+
+Who among the following was the first leader to
+
+organize labour movement in India?
+
+- (a) B.P. Walia
+
+- (b) Lala Lajpat Rai
+
+- (c) N.M. Lokhande
+
+- (d) N.G. Ranga
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Narayanji Meghaji Lokhande (1848-1897 A.D.) is considered
+
+a pioneer of labour movement in India. He not only worked
+
+for workers of cotton mills in the 19th century but also for
+
+social and communal issues prevalent in Indian society.
+
+</details>
+
+---
+
+
+
+## Complete PYQ Bank — Ghatnachakra Peasant Movement and Kisan Sabha (38 Questions)
+
+---
+
+**Q-GC-KS-1. R.A.S./R.T.S. (Pre) 1992**
+
+The first peasant movement of India was:
+
+- (a) Champaran (b) Bardoli
+
+- (c) Begu (d) Bijolia
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Feudal exploitation of the peasantry was common in Mewar
+
+(Modern Rajasthan) in the latter half of the nineteenth
+
+century. This led to Bijolia Movement. It was the first Peasant
+
+Movement of India. The leadership of the Movement was
+
+initially provided by Sadhu Sitaram Das in 1913 A.D. and
+
+later in 1915 A.D. by Vijay Singh Pathik.
+
+</details>
+
+---
+
+**Q-GC-KS-2. Rajasthan P.C.S. (Pre) 2024**
+
+Consider the following statements related to Bijolia
+Peasant Movement:
+1. Vijay Singh Pathik went to meet Mahatma
+Gandhiji to give information regarding the Bijolia
+Peasant Movement.
+2. Prayag’s Abhyudaya and Calcutta’s Bharat Mitra
+newspaper regularly published news related to the
+Bijolia Peasant Movement.
+Select the correct answer using the codes given below:
+
+- (a) Only 1 is true. (b) Only 2 is true.
+
+- (c) Both 1 and 2 are true.(d) Neither 1 nor 2 is true.
+
+- (e) Question not attempted.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Bijolia Peasant Movement began in 1897 A.D. in the
+
+Mewar state of Rajasthan, led by the local farmers. This
+
+movement is considered one of the longest peasant movements
+
+in India, lasting approximately 44 years. The first phase of the
+
+movement was led by Sadhu Sitaram Das, while the second
+
+phase was led by Vijay Singh Pathik. Vijay Singh Pathik was a
+
+renowned freedom fighter and peasant leader. He organized the
+
+farmers of Mewar against the excessive taxes imposed by the
+
+rulers and raised his voice against these injustices. However,
+
+it is not true that Vijay Singh Pathik went to Mahatma Gandhi
+
+to provide information about the Bijolia Peasant Movement.
+
+On the other hand, newspapers such as Prayag’s Abhyudaya
+
+and Calcutta’s Bharat Mitra regularly published news related
+
+to the Bijolia Peasant Movement. Therefore, statement (1) is
+
+incorrect, while statement (2) is correct.
+
+</details>
+
+---
+
+**Q-GC-KS-3. I.A.S. (Pre) 2005**
+
+Who among the following was not associated with the
+formation of U.P. Kisan Sabha in February, 1918 ‘?
+
+- (a) Indra Narayan Dwivedi
+
+- (b) Gauri Shankar Misra
+
+- (c) Jawaharlal Nehru
+
+- (d) Madan Mohan Malviya.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The activists of Home Rule League Movement were very
+
+active in Oudh. Mainly due to the efforts of the Home Rule
+
+activists, Kisan Sabhas were organized in U.P. The U.P.
+
+Kisan Sabha was set up in February, 1918 A.D. by Gauri
+
+Shankar Mishra and Indra Narayan Dwivedi. Madan Mohan
+
+Malaviya supported their efforts. Pt. Jawaharlal Nehru was
+
+not associated with the formation of U.P. Kisan Sabha.
+
+</details>
+
+---
+
+**Q-GC-KS-4. U.P.P.C.S. (Pre) 2023**
+
+In 1918, the United Provinces Kisan Sabha was formed
+by which of the following leaders?
+
+- (a) Swami Sahajanand Saraswati
+
+- (b) Baba Ramchandra
+
+- (c) Indra Narayan Dwivedi
+
+- (d) Pt. Jawaharlal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-KS-5. 39th B.P.S.C. (Pre) 1994**
+
+‘Nai-Dhobi Band’ was a form of Social boycott in 1919
+which–
+
+- (a) was started by the farmers of Pratapgarh district
+
+- (b) was a movement started by saints for the emancipation
+of the people lower classes
+
+- (c) was a step against contractors of lower castes by
+landlords
+
+- (d) was a movement against contractors by lower castes
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Towards the end of 1919 A.D., the first signs of grass-roots
+
+peasant activity were evident in the reports of a Nai-Dhobi
+
+Band (a form of social boycott) in an estate 
+
+of Pratapgarh district. In the summer of 1920 A.D. in the
+
+villages of Taluqdari Oudh, Kisan meetings called by village
+
+panchayats became frequent. The names of Jhinguri Singh
+
+and Durgapal Singh were associated with this development.
+
+But soon another leader became famous by the name of Baba
+
+Ramchandra, who not only emerged as the leader but also
+
+played an important role in the Movement.
+
+In the middle of 1920 A.D., he emerged as a leader of the
+
+peasants of Oudh and soon demonstrated considerable
+
+leadership and organizational capacities. His efforts helped
+
+to form ‘Oudh Kisan Sabha’ in 1920 A.D.
+
+</details>
+
+---
+
+**Q-GC-KS-6. U.P. U.D.A./L.D.A. (Mains) 2010 / U.P.P.C.S. (Spl) (Pre) 2008**
+
+Where had Baba Ramchandra organized the farmers?
+
+- (a) Awadh (b) Bihar
+
+- (c) Bengal (d) Andhra
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-7. 68th B.P.S.C. (Pre) 2022**
+
+"A Sanyasi who came to that district after a spell as an
+indentured labourer in Fiji carrying a copy of Tulsidas
+Ramayana on his back from which he would recite
+verses to rural audience." The peasant leader referred
+to here is
+
+- (a) Baba Ram Chandra
+
+- (b) Jhinguri Singh
+
+- (c) Yadunandan Sharma
+
+- (d) More than one of the above
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Peasant leader referred here is Baba Ram Chandra. As
+
+an indentured labourer, he had been to Fiji, an island nation
+
+in Pacific. He was an active participant of non-cooperation
+
+movement in Oudh area and organised peasants against the
+
+landlords.
+
+</details>
+
+---
+
+**Q-GC-KS-8. U.P.P.C.S. (Pre) 1998**
+
+In the 1930s, peasant movements were started in
+different parts of the country at the instance of various
+leaders. Match them with their respective areas of
+influence.
+A. Sahajanand Saraswati1. Hyderabad
+B. Khudai Khidmatgars 2. Southern Assam
+C. Swami Ramanand 3. Bihar
+D. Abdul Hamid Khan 4. NWFP
+Code :
+A B C D
+
+- (a) 1 2 3 4
+
+- (b) 3 4 1 2
+
+- (c) 4 3 2 1
+
+- (d) 2 4 1 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Bihar Kisan Sabha was founded by Swami Sahajanand
+
+Saraswati. All India Kisan Congress was founded at
+
+Lucknow in April, 1936 A.D. with Swami Sahajanand
+
+Saraswati as the President and N.G. Ranga as the general
+
+secretary. Later it was renamed All India Kisan Sabha.
+
+Khudai Khidmatgar or Lalkurti Organisation played an
+
+active role in Civil Disobedience Movement in North-West
+
+Frontier Province (NWFP) in the leadership of Khan Abdul
+
+GhaffarKhan. Swami Ramanand was related with Hyderabad
+
+and Abdul Hamid Khan with Southern Assam.
+
+</details>
+
+---
+
+**Q-GC-KS-9. Jharkhand P.C.S. (Pre) 2013**
+
+Who among the following was linked closely with Kisan
+Sabha Movement in the 1930s?
+
+- (a) Swami Vidyananda (b) Swami Sahajananda
+
+- (c) Baba Ramananda (d) Sardar Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+During the decade of 1930 A.D., Swami Sahajanand was
+
+closely associated with the Kisan Sabha Movement. The
+
+Bihar Kisan Sabha was founded by Swami Sahajanand
+
+Saraswati, and he was elected as the President of first All
+
+India Kisan Conference held at Lucknow in 1936 A.D.
+
+</details>
+
+---
+
+**Q-GC-KS-10. 39th B.P.S.C. (Pre) 1994**
+
+What was the aim of Eka Movement in Oudh?
+
+- (a) To stop to give rent to the Government
+
+- (b) To protect the rights of landlords
+
+- (c) End of Satyagraha
+
+- (d) Transformation of rent into cash.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The grassroot leadership of the Eka Movement was Madari
+
+Pasi and other low-caste leaders and many small Zamindars.
+
+Towards the end of 1921 A.D., peasant discontent resurfaced
+
+in some northern districts of the United Provinces—Hardoi,
+
+Bahraich, Sitapur etc. The issues involved were:
+
+(i) High rents—50 per cent higher than the recorded rates;
+
+(ii) Oppression by Thikedars in charge of revenue collection;
+
+and
+
+(iii) The practice of share-rents.
+
+The meetings of the Eka or the Unity Movement involved
+
+a symbolic religious ritual in which the assembled peasants
+
+vowed that they would:
+
+i. Pay only the recorded rent but would pay it on time;
+
+ii. Not leave when evicted;
+
+iii. Refuse to do forced labour;
+
+iv. No help to the criminals;
+
+v. Abide by Panchayat decisions.
+
+By March 1922 A.D., however, severe repression on the part
+
+of the authorities succeeded in bringing the Eka Movement
+
+to its end.
+
+</details>
+
+---
+
+**Q-GC-KS-11. U.P.P.S.C. (GIC) 2017**
+
+EKA - Movement was started by :
+
+- (a) Peasants of Maharashtra
+
+- (b) Peasants of Bengal
+
+- (c) Peasants of Punjab
+
+- (d) Peasants of Hardoi, Barabanki and other places of U.P.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-12. 65th B.P.S.C. (Pre) 2019**
+
+Who formed Bihar Provincial Kisan Sabha?
+
+- (a) Swami Sahajanand Saraswati
+
+- (b) Ram Sundar Singh
+
+- (c) Ganga Sharan Sinha
+
+- (d) Ramanand Mishra
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+All India Kisan Congress was founded in Lucknow in
+
+April, 1936 A.D. with Swami Sahajanand Saraswati as the
+
+President and N.G. Ranga as the general secretary. Later, it
+
+was renamed All India Kisan Sabha. A Kisan manifesto was
+
+issued and started a periodical session under Indulal Yagnik.
+
+The Bihar Kisan Sabha was founded by Swami Sahajanand
+
+Saraswati. The All India Kisan Sabha and the Congress held
+
+their second session in Faizpur in 1936 A.D. The Congress
+
+manifesto (especially the agrarian policy) for the 1937 A.D.
+
+provincial elections was strongly influenced by the All India
+
+Kisan Sabha’s agenda.
+
+</details>
+
+---
+
+**Q-GC-KS-13. 70th B.P.S.C. (Pre) 2024**
+
+To highlight the hardships faced by the peasants,
+Sahajanand Saraswati published which newspaper?
+
+- (a) Lok Sangraha (b) The Broken Wing
+
+- (c) Indian Nation (d) Nirbal Sevak
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Sahajanand Saraswati, a prominent leader of the Peasant
+
+movement in India, published the newspaper "Lok Sangraha"
+
+to highlight the hardships faced by the peasants. This
+
+publication served as a platform to advocate for their rights
+
+and mobilize support for their cause.
+
+</details>
+
+---
+
+**Q-GC-KS-14. 63rd B.P.S.C (Pre.) 2017**
+
+Swami Sahajanand Saraswati published a journal
+named -:
+
+- (a) Jankranti (b) Hunkar
+
+- (c) Krishak Samachar (d) Vidrohi
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Swami Sahajanand Saraswati (1889-1950 A.D.) was a
+
+Sanyasi and a prominent farmers' right activist. He was also
+
+an Indian freedom fighter. He was a forceful writer and ran
+
+the Hindi weekly Hunkar from Patna.
+
+</details>
+
+---
+
+**Q-GC-KS-15. 66th B.P.S.C. (Pre) 2020**
+
+Swami Sahajananda was related to which of the following?
+
+- (a) Tribal Movement in Bihar
+
+- (b) Labour Movement in Bihar
+
+- (c) Peasant Movement in Bihar
+
+- (d) Caste Movement in Bihar
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-16. 47th B.P.S.C. (Pre) 2005**
+
+Who presided over the first session of All India Kisan
+Sabha?
+
+- (a) Swami Sahajananda (b) Indulal Yagnik
+
+- (c) N.N. Ranga (d) P.C. Joshi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+All India Kisan Congress was founded in Lucknow in
+
+April, 1936 A.D. with Swami Sahajanand Saraswati as the
+
+President and N.G. Ranga as the general secretary. Later, it
+
+was renamed All India Kisan Sabha. A Kisan manifesto was
+
+issued and started a periodical session under Indulal Yagnik.
+
+The Bihar Kisan Sabha was founded by Swami Sahajanand
+
+Saraswati. The All India Kisan Sabha and the Congress held
+
+their second session in Faizpur in 1936 A.D. The Congress
+
+manifesto (especially the agrarian policy) for the 1937 A.D.
+
+provincial elections was strongly influenced by the All India
+
+Kisan Sabha’s agenda.
+
+</details>
+
+---
+
+**Q-GC-KS-17. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Who was elected the first President of All India Kisan
+Sabha at Lucknow in 1936?
+
+- (a) N.G. Ranga
+
+- (b) E.M.S. Namboodiripad
+
+- (c) Swami Sahajanand Saraswati
+
+- (d) Acharya Narendra Dev
+
+- (e) None of the above/More than one of the above.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-18. U.P.R.O./A.R.O. (Mains) 2016**
+
+Who among the following was elected as General
+Secretary of ‘All India Kisan Congress’ established in
+Lucknow?
+
+- (a) Swami Sahajanand (b) N.G. Ranga
+
+- (c) Indu Lal Yagnik (d) Ram Manohar Lohia
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-19. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Akhil Bhartiya Kisan Congress was founded in:
+
+- (a) 1936 AD (b) 1939 AD
+
+- (c) 1942 AD (d) 1945 AD
+
+- (e) None of the above/More than one of the above.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-20. U.P. U.D.A./L.D.A. (Mains) 2010 / 48th to 52nd B.P.S.C. (Pre) 2008 / U.P.P.C.S. (Pre) 2008**
+
+Where was the first All India Kisan Maha Sabha
+formed?
+
+- (a) Allahabad (b) Kolkata
+
+- (c) Lucknow (d) Patna
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-21. U.P.P.C.S. (Pre) 2015**
+
+The founder President of All India Kisan Sabha was –
+
+- (a) Acharya Narendra Dev
+
+- (b) Swami Sahajanand Saraswati
+
+- (c) Bamkim Mukherjee
+
+- (d) Jayprakash Narayan
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-22. 42nd B.P.S.C. (Pre) 1997**
+
+Swami Sahajanand was related to –
+
+- (a) Tribal Movement in Bihar
+
+- (b) Caste Movement in Bihar
+
+- (c) Farmers Movement in Bihar
+
+- (d) Labour Movement in Bihar
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-23. 64th B.P.S.C. (Pre) 2018**
+
+Who was connected with the Bihar Kisan Sabha?
+
+- (a) Swami Sahajananda
+
+- (b) Karyanand Sharma
+
+- (c) Rahul Sankrityayan
+
+- (d) Yadunandan Sharma
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (e)**
+
+**Explanation:**
+Peasant Movement in Bihar was started under the leadership
+
+of Swami Sahajanand Saraswati. He founded Bihar Kisan
+
+Sabha in 1929 AD. He was helped by Karyanand Sharma,
+
+Rahul Sanskrityayan, Panchanan Sharma, Yadunandan
+
+Sharma and many other communist leaders to bring that
+
+movement at village level.
+
+</details>
+
+---
+
+**Q-GC-KS-24. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Swami Sahajanand Saraswati formed the All
+India United Kisan Sabha with the demand for the
+‘nationalization of land and waterways’ :
+
+- (a) Just before his death (b) At a very young age
+
+- (c) In the 1930s (d) In the 1920s
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Swami Sahajanand Saraswati formed the All India United
+
+Kisan Sabha with the demand for the ‘Nationalization of
+
+Land and Waterways’ just before his death (his death in
+
+1950). The All India Kisan Sabha was formed in April, 1936
+
+at Lucknow with Swami Sahajanand as President. Sahajanand
+
+just before his death focused on the future Peasant Movement
+
+by forming an All-India United Kisan Sabha (AIUKS) whose
+
+basic demand was the Nationalization of land and waterways
+
+and all sources of energy and wealth.
+
+</details>
+
+---
+
+**Q-GC-KS-25. U.P.P.C.S. (Mains) 2017**
+
+Which one of the following Congress leaders had
+participated in the first meeting of All India Kisan
+Sabha?
+
+- (a) Jawahar Lal Nehru (b) M.K. Gandhi
+
+- (c) Subhash Chandra Bose (d) Rajendra Prasad
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The first meeting of All India Kisan Sabha was held in April
+
+1936 A.D. in Lucknow. It was presided over by Swami
+
+Sahajanand Saraswati. This meeting was also addressed
+
+by Jawahar Lal Nehru. In this meeting, Swami Sahajanand
+
+Saraswati was chosen as the President and N.G. Ranga was
+
+the secretary of All India Kisan Sabha.
+
+</details>
+
+---
+
+**Q-GC-KS-26. 44th B.P.S.C. (Pre) 2000**
+
+Who was associated with Kisan Movement in Bihar?
+
+- (a) Rajendra Prasad (b) C.R. Das
+
+- (c) Motilal Nehru (d) Bhagat Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In the context of the question, Dr. Rajendra Prasad was
+
+associated with the Kisan Movement in Bihar. He was
+
+the President of the Constituent Assembly. After the
+
+commencement of the Constitution, he became the first
+
+President of India.
+
+</details>
+
+---
+
+**Q-GC-KS-27. U.P.P.C.S. (Mains) 2006**
+
+Match List-I with List-II and select the correct answer
+using the codes given below the Lists:
+List-I
 A. Bardoli Satyagraha
+B. Bhartiya Kisan Vidyalaya
+C. Bengal Praja Party
+D. Bakashat Agitation
+List-II
+1. Swami Shraddhananda Saraswati
+2. Sardar Vallabhbhai Patel
+3. Fazlul Haq
+4. N.G. Ranga
+Code :
+A B C D
 
-B. Bijolia movement (Mewar)
+- (a) 2 3 4 1
 
-C. Telangana armed struggle
+- (b) 2 4 3 1
 
-D. Bhoodan movement
+- (c) 1 4 2 3
 
-<details>
+- (d) 4 1 3 2
 
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Logic:** First peasant movement often keyed Bijolia (Mewar) — Sadhu Sitaram Das early phase.
+**Answer: (b)**
 
-**Ans: B.** **Bijolia (Mewar)** is the standard "first peasant movement" key, beginning with **Sadhu Sitaram Das** and later **Vijay Singh Pathik**.
+**Explanation:**
+The Bardoli taluka in Surat district had witnessed intense
 
-</details>
+politicization after the joining of Gandhi at the National level.
 
-**Q55. RAS / UPPCS / IAS**
+The Gandhian Movement and Satyagraha had huge success
 
-The later phase of the Bijolia peasant movement is associated with:
+in Bardoli in 1928 A.D. The followers of Mahatma Gandhi
 
-A. Madari Pasi
+like Mehta brothers, were running the sustained campaign since
 
-B. Vijay Singh Pathik
+1922 A.D. Vallabhbhai Patel led the Peasant Movement here
 
-C. Swami Sahajanand Saraswati
+in 1928 A.D., which became famous by the name of Bardoli
 
-D. Vinoba Bhave
+Satyagraha. Due to the success of this Movement, Mahatma
 
-<details>
+Gandhi, on behalf of the women of Bardoli gave him the title
 
-<summary>Show answer</summary>
+of ‘Sardar.’ The Bhartiya Kisan Vidyalaya was founded by N.
 
-**Logic:** Bijolia later leader = Vijay Singh Pathik.
+G. Ranga. In 1929 A.D., Fazlul Haq founded the Bengal Praja
 
-**Ans: B.** **Vijay Singh Pathik** led the later **Bijolia** phase in **Mewar**. Vinoba belongs to **Bhoodan (1951)**.
+Party (Krishak Praja Party). The Bakashat agitation of Bihar
 
-</details>
-
-**Q56. RAS / UPPCS / IAS**
-
-The Bhoodan movement began at Pochampalli on 18 April 1951 under:
-
-A. Mahatma Gandhi
-
-B. Vinoba Bhave
-
-C. Jayaprakash Narayan
-
-D. Sardar Vallabhbhai Patel
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Bhoodan begins Pochampalli 18 April 1951 — Vinoba Bhave.
-
-**Ans: B.** **Vinoba Bhave** launched **Bhoodan** at **Pochampalli, 18 April 1951**.
+is related to Swami Shraddhanand Saraswati.
 
 </details>
 
 ---
+
+**Q-GC-KS-28. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Who successfully led the Bardoli Satyagraha?
+
+- (a) Vallabhbhai Patel (b) Motilal Nehru
+
+- (c) J. B. Kripalani (d) Jawaharlal Nehru
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-29. Uttarakhand P.C.S. (Pre) 2005 / I.A.S. (Pre) 2003**
+
+The leader of the Bardoli Satyagraha (1928) was:
+
+- (a) Sardar Vallabhbhai Patel
+
+- (b) Mahatma Gandhi
+
+- (c) Vithalbhai J. Patel
+
+- (d) Mahadev Desai
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-30. U.P. P.S.C. (GIC) 2010 / U.P. P.C.S. (Pre) 2002**
+
+In which of the following movements Sardar Patel
+played an important role?
+
+- (a) Bijolia Movement
+
+- (b) Dandi March
+
+- (c) Strike of textile mill workers in Ahmedabad
+
+- (d) Bardoli Satyagrah
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-31. R.A.S./R.T.S. (Pre) 1997**
+
+Who gave Vallabhbhai Patel the title of ‘Sardar’?
+
+- (a) Mahatma Gandhi (b) Pandit Nehru
+
+- (c) Maulana Azad (d) Kasturba
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Kisan Movement at Bardoli was successful under the
+
+leadership of Vallabhbhai Patel. On behalf of the women
+
+of Bardoli, Mahatma Gandhi gave him the title of ‘Sardar.’
+
+</details>
+
+---
+
+**Q-GC-KS-32. Chhattisgarh P.C.S. (Pre) 2011**
+
+Mahatma Gandhi gave the title of ‘Sardar’ to
+Vallabhbhai Patel for his great organizational skills in
+
+- (a) The Kheda Satyagraha
+
+- (b) The Bardoli Satyagraha
+
+- (c) The Salt Satyagraha
+
+- (d) The Individual Satyagraha
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-33. I.A.S. (Pre) 2013**
+
+The demand for the Tebhaga Peasant Movement in
+Bengal was for –
+
+- (a) The reduction of the share of the landlords from onehalf of the crop to one-third
+
+- (b) The grant of ownership of land to peasants as they
+were the actual cultivators of the land
+
+- (c) The uprooting of Zamindari System and the end of
+serfdom
+
+- (d) Writing off all peasant debts
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Tebhaga Peasant Movement was initiated in Bengal
+
+in 1946 A.D. by the Bengal Provincial Kisan Sabha to
+
+implement the recommendations of Flood Commission,
+
+which asked for sharecroppers to give one-third of their
+
+harvest to the landowner instead of the one-half, which they
+
+were paying at that time. In its response, the Bargadari Act
+
+was passed which provided that sharecroppers pay only onethird of their harvest to the landlords. The Movement mostly
+
+affected the districts of Northern-Bengal.
+
+</details>
+
+---
+
+**Q-GC-KS-34. 66th B.P.S.C. Re-Exam (Pre) 2020**
+
+The Tebhaga Movement was started in 1946 from
+Bengal under the leadership of :
+
+- (a) Muslim League
+
+- (b) Kisan Sabha
+
+- (c) Indian National Congress
+
+- (d) Trade Union
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Tebhaga movement was peasant agitation started in Bengal
+
+in 1946 A.D. by Kisan Sabha.
+
+At that time sharecroppers had Contracted to give half of their
+
+harvest to the landlords. The demand of Tebhaga (sharing by
+
+third) movement was to reduce the landlord share to one third.
+
+</details>
+
+---
+
+**Q-GC-KS-35. U.P.R.O./A.R.O/ (Pre) 2014 / U.P.P.C.S. (Mains) 2013**
+
+In which State was the Bhoodan Movement first
+started?
+
+- (a) In Andhra Pradesh (b) In Karnataka
+
+- (c) In Tamil Nadu (d) In Uttar Pradesh
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Acharya Vinoba Bhave on April 18, 1951 A.D. started the
+
+Bhoodan Movement from Pochampalli in Andhra Pradesh
+
+(Now Telangana). It was an attempt at land reform and
+
+institutional change in agriculture. Jaya Prakash Narayan,
+
+leaving active politics joined Bhoodan Movement in 1954 A.D.
+
+</details>
+
+---
+
+**Q-GC-KS-36. I.A.S. (Pre) 2007**
+
+Which one of the following places was associated with
+Acharya Vinoba Bhave’s Bhoodan Movement at the
+beginning of the movement?
+
+- (a) Udaygiri (b) Raipur
+
+- (c) Pochampalli (d) Venkatagiri
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Vinoba Bhave organized Sarvodaya Samaj to bring about
+
+non-violent social transformation through land reforms with
+
+the willing cooperation of landlords. Large landlords were
+
+persuaded to gift at least one-sixth of their land. On 18th April,
+
+1951 AD, the first donation of the land took place in a village
+
+called Pochampalli in Telangana by a Zamindar Ramachandra
+
+Reddy who agreed to donate his 100 acres land but it was
+
+most successful in Orissa.
+
+</details>
+
+---
+
+**Q-GC-KS-37. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+The ‘Bhoodan Movement’ made its beginning in the
+State of –
+
+- (a) Uttar Pradesh (b) Madhya Pradesh
+
+- (c) Andhra Pradesh (d) Himachal Pradesh
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KS-38. M.P. P.C.S. (Pre) 1998**
+
+Who started Bhoodan movement?
+
+- (a) Jai Prakash Narayan (b) J. B. Kripalani
+
+- (c) Vinoba Bhave (d) Sri Guruji
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Vinoba Bhave was one of the great spiritual leaders &
+
+reformers of Modern India, whose work & personal example
+
+moved the hearts of countless Indians. He was the first person
+
+to be elected for Individual Satyagraha in 1940 AD. After
+
+getting Independence, he started Bhoodan Movement whose
+
+main objective was to distribute land to landless farmers.
+
+</details>
 
 ### UKPCS Complete PYQ Bank (Peasant, Tribal & Labour)
 

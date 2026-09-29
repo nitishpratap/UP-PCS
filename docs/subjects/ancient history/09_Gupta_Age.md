@@ -254,29 +254,8 @@ Samudragupta’s wars are remembered as a **digvijaya**. The main source is the 
 
 > **Logic:** South = **tribute and restore**. North = **uproot**. Vishnugopa ≠ a Magadha king.
 
-**PYQ — UPPCS Prelims 2018, Q87**
-
-Match List-I with List-II (Samudragupta’s contemporary kings of South India).
-
-| List-I | List-II |
-|--------|---------|
-| A. Dhananjaya | 1. Avamukta |
-| B. Nilaraja | 2. Kanchi |
-| C. Ugrasena | 3. Kusthalpura |
-| D. Vishnugopa | 4. Palaka |
-
-*Row order is not the answer code.*
-
-A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests south-king ↔ kingdom pairs from the Prayag Prashasti. Trap = swapping Kanchi and Kusthalapura.
-
-**Ans: C — 3 1 4 2.** Dhananjaya = Kusthalapura. Nilaraja = Avamukta. Ugrasena = Palaka. Vishnugopa = Kanchi. Trap = putting Vishnugopa at Kusthalapura.
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2018, Q87]:** Allahabad Prasasti (Prayag) of Samudragupta identifies contemporary kings: Dhananjaya = Kusthalapur; Nilraja = Avamukta; Damana = Erandapalla; Vishnugopa = Kanchi. *(See Q4 in Complete PYQ Bank below)*
 
 ---
 
@@ -304,39 +283,11 @@ A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
   - Noted that **cowrie shells (कौड़ी)** were used by common people as the daily medium of exchange for small purchases, while gold dinaras and silver rupakas were used for large/state transactions.
 - In traveller chronology he comes **before** Hiuen Tsang, I-Tsing, and Al-Biruni.
 
-**PYQ — UPPCS Prelims 2022, Q23**
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2022, Q23]:** Chandragupta II Vikramaditya was the first Gupta ruler to issue **silver coins (Rupaka)** after conquering the Western Sakas (Rudrasimha III). *(See Q5 in Complete PYQ Bank below)*
 
-With reference to Chandragupta-II, which of the following statements is/are correct?
-
-1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
-2. The weight of these coins used to be about 33 grains.
-
-A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Both 1 and 2.** Gold types are prestige. The 2022 proof is **silver**.
-
-</details>
-
-**PYQ — UPPCS Prelims 2024, Q149**
-
-Consider the following foreign travellers and arrange them in ascending chronological order:
-
-1. I-Tsing
-2. Al-Biruni
-3. Huentsang (Hiuen Tsang)
-4. Fahyan (Fa-Hien)
-
-A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 4, 3, 1, 2.** Fa-Hien (~400) → Xuanzang (~630) → Yijing (~670s) → Al-Biruni (~1017).
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2024, Q149]:** Chronology of foreign travellers: Megasthenes (c. 302 BCE) → Faxian/Fa-Hien (c. 399–414 CE) → Xuanzang/Hiuen Tsang (c. 629–645 CE) → Yijing/I-Tsing (c. 671–695 CE). *(See Q3 in Complete PYQ Bank below)*
 
 > **Logic:** Chandragupta **II** ≠ Chandragupta **I**. Chandragupta **II** ≠ Chandragupta **Maurya** (मौर्य).
 
@@ -642,42 +593,11 @@ Coaching lists **nine gems** at Vikramaditya / Chandragupta II’s court. Histor
 | **Jayadeva** (जयदेव) | **Gita Govinda** (गीत गोविंद) |
 | **Kshemendra** (क्षेमेन्द्र) | **Brihatkathamanjari** (बृहत्कथामंजरी) |
 
-**PYQ — UPPCS Prelims 2025, Q48**
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2025, Q48]:** *Janakiharana* was authored by **Kumaradasa** of Sri Lanka, NOT by Kalidasa (author of Meghaduta, Raghuvamsha, Kumarasambhava, etc.). *(See Q1 in Complete PYQ Bank below)*
 
-Which of the following works was NOT written by Kalidasa?
-
-1. Meghaduta
-2. Raghuvamsha
-3. Shringara Shataka
-
-A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Only 3.** Bhartrihari wrote the Shataka.
-
-</details>
-
-**PYQ — UPPCS Prelims 2025, Q86**
-
-Match List-I with List-II.
-
-| List-I (Writer) | List-II (Book) |
-|-----------------|----------------|
-| A. Trivikram Bhatta | 1. Gita Govinda |
-| B. Somdev | 2. Brihatkathamanjari |
-| C. Jaidev | 3. Nal Champu |
-| D. Kshemendra | 4. Kathasaritsagara |
-
-A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 3 4 1 2.**
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2025, Q86]:** Works and authors: Mrichhakatikam = Shudraka; Mudrarakshasa = Vishakhadatta; Harshacharita = Banabhatta; Dashakumaracharita = Dandin. *(See Q2 in Complete PYQ Bank below)*
 
 > **Logic:** Jayadeva, Somadeva, and Kshemendra are **later** than the Gupta court. Kalidasa belongs to **Chandragupta II**.
 
@@ -751,6 +671,22 @@ A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 - Vaishya caravan / guild heads appear as **sarthavaha** (सार्थवाह). Guild law is *samaya / shreni-dharma*.
 
 > **Logic:** Tamralipti ≠ Broach. Eran sati ≠ Junagadh lake. *Lilavati* ≠ Gupta.
+
+
+## 9.15 High-Yield Imperial, Inscriptional & Economic Locks (Ghatnachakra Spines)
+
+| Category | Key Exam Fact / Lock | Exam Context & Trap |
+|---|---|---|
+| **Imperial Genealogy & Titles** | • **Sri Gupta (c. 275 CE)** & **Ghatotkacha** used only *Maharaja*<br>• **Chandragupta I (319–335 CE)**: first *Maharajadhiraja*, founded **Gupta Samvat in 319 CE** | Do not confuse Sri Gupta (founder) with Chandragupta I (real imperial founder) |
+| **Samudragupta Titles & Deeds** | • *Napoleon of India* (V. A. Smith)<br>• *Prithivyah Pratham Veer / Pratiratha* (man without rival on earth)<br>• *Lichchhavi-Dauhitra* (maternal grandson of Lichchhavis)<br>• Permitted **Meghavarman of Ceylon** to build monastery at Bodh Gaya | 6 Gold coin types: Garuda, Archer, Battle-axe, Ashvamedha, Tiger-slayer, Veena / Lyrist |
+| **Chandragupta II Vikramaditya** | • Succeeded Ramagupta; other names: **Devagupta, Devaraja, Devashri**<br>• Defeated last Western Kshatrapa **Rudrasimha III** -> title **Sakari**<br>• Released **silver coins (Rupaka)** weighing **30–33 grains** | Nine Gems (*Navaratnas*): Kalidasa, Dhanvantari, Varahamihira, Amarasimha, Shanku, Kshapanaka, Vararuchi, Vetalabhatta, Ghatakarpara |
+| **Silk Weavers & Advertisement** | **Dashpur / Mandsaur Inscription** of Kumaragupta I & Bandhuvarman: records Sun Temple built & repaired by guild of silk weavers (*Tantuwayas*) from Lata (Gujarat); composed by **Vatsabhatti** | Known as the **first advertisement in the world** |
+| **First Epigraphic Sati** | **Eran Inscription (510 CE)** of Bhanugupta (MP): mentions self-immolation of wife of general **Goparaja** | Earliest undisputed inscriptional evidence of Sati in India |
+| **Towns & Demographics** | **Gradual decline of towns** was a prime feature of Gupta & post-Gupta age; Pataliputra reduced to a village by Hiuen Tsang's time; Mathura, Sonpur, Sohgaura declined | Chinese traveller **Fa-Hien** noted citizens maintained a charitable hospital at Pataliputra; petty daily trade used **clamshells (kaudi)** |
+| **Taxation & Land Types** | • Land revenue = **1/6th of produce** (*Bhaga, Udranga*)<br>• Cash tax = *Hiranya*<br>• Border / extra tax = *Uparika*<br>• Irrigation tax = *Udakabhaga*<br>• Uncultivated forest land = ***Aprahata***<br>• Land measurement units = ***Kulyavapa*** and ***Dronavapa*** | **Vishti** = unpaid forced labour treated as a state tax (mentioned in Junagadh & copper plates) |
+| **Ports & Hoards** | • Eastern port: **Tamralipti** (Bengal) for Southeast Asia, Sri Lanka, China<br>• Western port: **Bhrigukachchha / Bharuch** for Western trade | Largest hoard of Gupta gold coins found at **Bayana (Bharatpur, Rajasthan)** |
+| **Literature, Science & Society** | • **Aryabhatta** (*Aryabhatiya*): Earth's axial rotation causes day and night; trigonometry (sine/cosine)<br>• **Varahamihira**: astronomy (*Brihatsamhita*)<br>• **Brahmagupta**: cyclic quadrilaterals<br>• **Bhaskara II (12th c.)**: *Siddhanta Shiromani* & *Lilavati* (NOT Gupta-age)<br>• **Sudraka**: *Mrichchhakatika* (romance of Charudatta & Vasantasena; Shudras & women speak Prakrit)<br>• **Chaturanga** (Chess) invented in Gupta India | In Sanskrit plays, women and Shudras speak **Prakrit**, while elite males speak **Sanskrit** |
+| **Vakataka Dynasty** | Founder **Vindhyashakti**; actual imperial architect **Pravarasena I** (only ruler with title **Samrat**; performed **4 Ashvamedhas**); Pravarasena II composed ***Setubandha*** | Prabhavatigupta (daughter of Chandragupta II) ruled as Vakataka regent |
 
 ## UP Focus
 
@@ -882,6 +818,1979 @@ A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 **Out of boundary:** 2022 Q87 Ishanavarman / Jivitagupta II inscription pairs are **Maukhari / later Gupta**, not imperial Gupta. 2023 Prayag of Uttarakhand is geography.
 
 ---
+
+## Complete PYQ Bank — Ghatnachakra Gupta Age (UPPCS / UKPCS / standard)
+
+Complete PYQ collection from Ghatnachakra Gupta Age (Questions 1 to 86).
+
+**Q-GC1. Chhattisgarh P.C.S. (Pre) 2003**
+
+Gupta dynasty ruled during :
+
+A. 319-500 A.D.
+
+B. 319-324 A.D.
+
+C. 325-375 A.D.
+
+D. 566-597 A.D.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gupta dynasty ruled during 275-550 AD. This dynasty was established by King Srigupta around 275 AD, but the first powerful ruler of Gupta dynasty was Chandragupta I who ruled during 319-335 AD. He has held the title of ‘Maharajadhiraja’ (in contradiction to his predecessors) to show his importance. So option (a) is the most accurate answer.
+
+</details>
+
+---
+
+**Q-GC2. U.P.P.C.S. (Mains) 2003 / U.P.P.C.S. (Mains) 2011**
+
+Who of the following rulers had performed four
+Ashwamedhas?
+
+A. Pushyamitra Shunga
+
+B. Pravarasena-I
+
+C. Samudragupta
+
+D. Chandragupta-II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** King of Vakataka, Pravarasena-I had performed four Ashwamedhas. He also performed many Vedic oblations. Pravarasena-II, another ruler of the same dynasty, was BOOK
+
+</details>
+
+---
+
+**Q-GC3. U.P. Lower Sub. (Pre) 2009 / Chhattisgarh P.C.S. (Pre) 2005 / U.P.P.C.S. (Pre) 1990**
+
+Who is known as the Napoleon of India?
+
+A. Chandragupta Maurya
+
+B. Chandragupta- II Vikramaditya
+
+C. Great Ashoka
+
+D. Samudragupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Historian V.A. Smith in his composition ‘Early History of India’ called Samudragupta (335-375 AD) of Gupta dynasty as ‘Napoleon of India’ for his great military conquests.
+
+</details>
+
+---
+
+**Q-GC4. UPPCS / Standard**
+
+Who is called ‘the Napoleon of Ancient India’?
+(a) Chandragupta Maurya
+(b) Pushyamitra
+(c) Kanishka
+(d) Samudragupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See explanation in notes.
+
+</details>
+
+---
+
+**Q-GC5. 6th to 59th B.P.S.C. (Pre) 2015**
+
+
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** See the explanation of above question. 5. Who among the following Gupta Kings had another name Devagupta ? (a) Samudragupta (b) Chandragupta- II (c) Kumaragupta (d) None of the above U.P.P.C.S. (Mains) 2007 Ans. (b) Another name of Gupta ruler Chandragupta-II ‘Vikramaditya’ is found as Devagupta. Its evidence has been obtained from Sanchi and Vakataka inscriptions. Apart from the abovementioned names, he is also known as Devaraja and Devashri. (See explanation in notes.)
+
+</details>
+
+---
+
+**Q-GC6. U.P.P.C.S. (Pre) 2009**
+
+The first Gupta ruler to assume the title of “Param
+Bhagavata” was
+
+A. Chandragupta- I
+
+B. Samudragupta
+
+C. Chandragupta- II
+
+D. Srigupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The copperplate inscription of Samudragupta from Nalanda and Gaya describes param Bhagavata title of Samudragupta. Although UPPSC has given option (c) as correct answer while UGC has accepted Samudragupta as right answer.
+
+</details>
+
+---
+
+**Q-GC7. U.P.P.C.S. (Pre) 2015**
+
+The first Gupta ruler to assume the title of ‘Parama
+Bhagawat’ was
+
+A. Chandragupta- I
+
+B. Samudragupta
+
+C. Chandragupta- II
+
+D. Ramagupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (The copperplate inscription of Samudragupta from Nalanda and Gaya describes param Bhagavata title of Samudragupta. Although UPPSC has given option (c) as correct answer while UGC has accepted Samudragupta as right answer.)
+
+</details>
+
+---
+
+**Q-GC8. I.A.S. (Pre) 2006**
+
+The Allahabad Pillar inscription is associated with
+which one of the following?
+
+A. Mahapadma Nanda
+
+B. Chandragupta Maurya
+
+C. Ashoka
+
+D. Samudragupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Ashoka pillar inscription of Allahabad (Prayagraj) is associated with Samudragupta (335-375 AD). It is considered to be the most important historical document of the classical Gupta age, written in excellent Sanskrit written by Harisena. It is also known as ‘Prayag Prashasti.’ The inscription is a panegyric (tribute) praising Samudragupta and lists the political and military achievements of his reign including his expeditions to the south. Built by Ashoka, originally it was situated in Kaushambi, which was later shifted to Allahabad (Prayagraj) by Akbar. The names of Jahangir and Birbal is also mentioned there.
+
+</details>
+
+---
+
+**Q-GC9. U.P.P.C.S. (Spl) (Mains) 2004**
+
+The Ashoka Pillar at Allahabad provides information
+about the reign of?
+
+A. Chandragupta Maurya
+
+B. Chandragupta- I
+
+C. Chandragupta- II
+
+D. Samudragupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** See the explanation of above question. (The Ashoka pillar inscription of Allahabad (Prayagraj) is associated with Samudragupta (335-375 AD). It is considered to be the most important historical document of the classical Gupta age, written in excellent Sanskrit written by Harisena. It is also known as ‘Prayag Prashasti.’ The inscription is a panegyric (tribute) praising Samudragupta and lists the political and military achievements of his reign including his expeditions to the south. Built by Ashoka, originally it was situated in Kaushambi, which was later shifted to Allahabad (Prayagraj) by Akbar. The names of Jahangir and Birbal is also mentioned there.)
+
+</details>
+
+---
+
+**Q-GC10. U.P. Lower Sub. (Pre) 2004**
+
+Prayag Prashashti tells about the military campaign of -
+
+A. Chandragupta- I
+
+B. Samudragupta
+
+C. Chandragupta- II
+
+D. Kumaragupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (The Ashoka pillar inscription of Allahabad (Prayagraj) is associated with Samudragupta (335-375 AD). It is considered to be the most important historical document of the classical Gupta age, written in excellent Sanskrit written by Harisena. It is also known as ‘Prayag Prashasti.’ The inscription is a panegyric (tribute) praising Samudragupta and lists the political and military achievements of his reign including his expeditions to the south. Built by Ashoka, originally it was situated in Kaushambi, which was later shifted to Allahabad (Prayagraj) by Akbar. The names of Jahangir and Birbal is also mentioned there.)
+
+</details>
+
+---
+
+**Q-GC11. Chhattisgarh P.S.C. (Pre) 2017**
+
+What was the name of the ruler of Kosal in
+Samudragupta's "Prayag Prashasti"?
+
+A. Shiv Gupta
+
+B. Someshwar Deo
+
+C. Mahendra
+
+D. Mahipal
+
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Koshala has been mentioned in the 'Prayag Prashasti' of Samudragupta along with other kingdoms and their kings of 'Dakshinapath'. Mahendra is mentioned as king of Koshala BOOK
+
+</details>
+
+---
+
+**Q-GC12. U.P. R.O./ A.R.O. (Pre) 2016**
+
+An inscription by which of the following is found on the
+pillar containing Prayag Prasasti of Samudragupta?
+
+A. Jahangir
+
+B. Shahjahan
+
+C. Aurangzeb
+
+D. Dara Shikoh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Prayag Prashasti is the name given to Allahabad pillar. It is an Ashokan Pillar but has four different inscriptions: Ashokan inscription in Brahmi script. Queen edict regarding the charitable deed of Ashoka’s wife, Karuvaki. Samudragupta inscription written by Harisena in Sanskrit language and Brahmi script and Jahangir inscription in Persian.
+
+</details>
+
+---
+
+**Q-GC13. Chhattisgarh P.C.S. (Pre) 2024**
+
+Which one of the following Gupta rulers is referred to
+as ‘Lichchhavi-Dauhitra’ (Son of the daughter of the
+Lichchhavis)?
+
+A. Chandragupta I
+
+B. Samudragupta
+
+C. Chandragupta II
+
+D. Skandagupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Gupta ruler Samudragupta was referred to as ‘LichchhaviDauhitra’ (Grandson of the Lichchhavis). Samudragupta's mother, Kumaradevi, was a princess of the Lichchhavi dynasty, which is why he was given this title. Samudragupta's father was Chandragupta I.
+
+</details>
+
+---
+
+**Q-GC14. U.P.P.C.S. (Pre) 2016**
+
+‘Prithivyah Pratham Veer’ was the title of –
+
+A. Samudragupta
+
+B. Rajendra- I
+
+C. Amoghavarsha
+
+D. Gautamiputra Shatkarni
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** In his book "A Political History of the Imperial Guptas", Tej Ram Sharma describes Ashvamedha Yajna which was done by Samudragupta. After this ritual, he assumed the title of ‘Prithivyama Pratiratha’ which means a man who has no rival on the earth ( The first brave man on the Earth). Uttar Pradesh Public Service Commission excluded this question from the evaluation.
+
+</details>
+
+---
+
+**Q-GC15. [Chhattisgarh P.C.S. (Pre)-2017]**
+
+Read the following statements:
+1. Harisena was the famous poet of Samudragupta's
+Court.
+2. He composed the epic 'Devichandraguptam'.
+3. He was also the author of 'Prayagaprashasti'.
+Select the correct answer :
+
+A. 1, 2 and 3 are correct
+
+B. 1 and 2 are correct
+
+C. 2 and 3 are correct
+
+D. 1 and 3 are correct
+
+E. Only 1 is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Samudra Gupta Court poet and minister Harisena has presented a praiseworthy description in the Sanskrit language on Allahabad Pillar which has been called the Prayag Prashasti. This inscription is an eulogy of Samudragupta and mentions his conquests. 'Devichandraguptam' is a composition of Vishakhadatta. Hence statements 1 and 3 are correct while 2 is incorrect.
+
+</details>
+
+---
+
+**Q-GC16. [UPPCS (Pre)-2018]**
+
+Match List-I with List-II and select the correct answer
+from the codes given below.
+List-I		 List-II
+(Samudra Gupta's (Their Kingdoms)
+Contemporary
+Kings of South
+India)
+A. Dhananjaya 1. Avamukta
+B. Nilaraja 2. Kanchi
+C. Ugrasena 3. Kusthalpura
+D. Vishnugopa 4. Palaka
+Codes :
+A B C D
+
+A. 1 2 3 4
+
+B. 2 1 4 3
+
+C. 3 1 4 2
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The correctly matched list is as follows: List-I		 List-II Dhananjaya – Kusthalpura Nilaraja – Avamukta Ugrasena – Palaka Vishnugopa – Kanchi
+
+</details>
+
+---
+
+**Q-GC17. U.P. P.C.S. (Pre) 2002**
+
+The iron column, located in the courtyard of Delhi’s
+Quwwat-ul-Islam Mosque is retention of –
+
+A. Ashok
+
+B. Chandra
+
+C. Harsha
+
+D. Anangapal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mehrauli Iron Pillar inscription’ acquired from Mehrauli in Delhi is located in the center of the courtyard of Quwwatul-Islam mosque. It describes a king named “Chandra” who is assumed as Chandragupta II of Gupta clan. According to recognition, the Mehrauli iron pillar was situated at Vishnugiri near Udaigiri Hills during the period of Chandragupta II around 410 AD. Chandragupta II was the devotee of Lord Vishnu. He constructed this iron pillar in respect of Lord Vishnu. Emblem bearer of Lord Vishnu BOOK
+
+</details>
+
+---
+
+**Q-GC18. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Which Gupta ruler assumed the throne after killing
+his elder brother?
+
+A. Shri Gupta
+
+B. Samudragupta
+
+C. Chandragupta II
+
+D. Skandagupta
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** After Samudragupta, his son Ramagupta became the ruler, but due to his inability to oppose the invasion of Sakas, his brother Chandragupta II killed Ramgupta and married his wife Dhruv Devi and won against Sakas.
+
+</details>
+
+---
+
+**Q-GC19. U.P.P.C.S. (Pre) 1993**
+
+Which dynasty was distracted the most by the Hunas
+invasion?
+
+A. Maurya
+
+B. Kushan
+
+C. Gupta
+
+D. Shunga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The first invasion of Hunas took place during the reign of Skandagupta and Hunas were comprehensively defeated by him. This invasion was just like a raid, and there was no lasting impact on India, but this invasion intensified the decline of the Gupta Empire. Hunas annexed many regions of the northwest in the transition period of 5th-6th centuries after the death of Skandagupta.
+
+</details>
+
+---
+
+**Q-GC20. U.P.P.C.S. (Mains) 2006**
+
+The Hunas invaded India during the reign of :
+
+A. Chandragupta-II
+
+B. Kumaragupta-I
+
+C. Skandagupta
+
+D. Budhagupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (The first invasion of Hunas took place during the reign of Skandagupta and Hunas were comprehensively defeated by him. This invasion was just like a raid, and there was no lasting impact on India, but this invasion intensified the decline of the Gupta Empire. Hunas annexed many regions of the northwest in the transition period of 5th-6th centuries after the death of Skandagupta.)
+
+</details>
+
+---
+
+**Q-GC21. U.P.P.C.S. (Spl) (Mains) 2004**
+
+Who among the following Gupta rulers conquered
+Hunas?
+
+A. Chandragupta- II
+
+B. Kumaragupta- I
+
+C. Skandagupta
+
+D. Bhanugupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (The first invasion of Hunas took place during the reign of Skandagupta and Hunas were comprehensively defeated by him. This invasion was just like a raid, and there was no lasting impact on India, but this invasion intensified the decline of the Gupta Empire. Hunas annexed many regions of the northwest in the transition period of 5th-6th centuries after the death of Skandagupta.)
+
+</details>
+
+---
+
+**Q-GC22. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+The Gupta emperor who defeated the ‘Hunas’ was?
+
+A. Samudragupta
+
+B. Chandragupta- II
+
+C. Skandagupta
+
+D. Ramagupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (The first invasion of Hunas took place during the reign of Skandagupta and Hunas were comprehensively defeated by him. This invasion was just like a raid, and there was no lasting impact on India, but this invasion intensified the decline of the Gupta Empire. Hunas annexed many regions of the northwest in the transition period of 5th-6th centuries after the death of Skandagupta.)
+
+</details>
+
+---
+
+**Q-GC23. U.P. Lower Sub. (Pre) 2015**
+
+Who among the following Gupta rulers defeated Hunas?
+
+A. Samudragupta
+
+B. Chandragupta- II
+
+C. Kumaragupta
+
+D. Skandagupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** See the explanation of above question. (The first invasion of Hunas took place during the reign of Skandagupta and Hunas were comprehensively defeated by him. This invasion was just like a raid, and there was no lasting impact on India, but this invasion intensified the decline of the Gupta Empire. Hunas annexed many regions of the northwest in the transition period of 5th-6th centuries after the death of Skandagupta.)
+
+</details>
+
+---
+
+**Q-GC24. U.P.R.O./A.R.O. (Pre) 2014**
+
+From which inscription is it known that Skandagupta
+defeated Hunas?
+
+A. Bhitari Pillar Inscription
+
+B. Allahabad Pillar Inscription
+
+C. Mandsaur Inscription
+
+D. Udayagiri Inscription
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bhitari Pillar inscription is found at the place known as Bhitari in Saidpur tehsil of district Ghazipur, Uttar Pradesh. The description of the war between Skandagupta and Hunas is mentioned in Bhitari Pillar inscription. It is noteworthy that the first Indian invasion of Hunas took place during the reign of Skandagupta in which Hunas were badly defeated by Skandagupta.
+
+</details>
+
+---
+
+**Q-GC25. Uttarakhand P.C.S. (Pre) 2012**
+
+There were different causes for the downfall of the
+Gupta Empire.
+Which one among the statements given below was not
+a cause?
+
+A. Huna invasion
+
+B. Feudal set-up of administration
+
+C. Acceptance of Buddhism by the later Guptas
+
+D. Arab invasion
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The decline of the Gupta Empire was not due to the Arab invasion. Arabs invaded India during the medieval era, much later after the downfall of Gupta dynasty.
+
+</details>
+
+---
+
+**Q-GC26. U.P. U.D.A./L.D.A. (Pre) 2010**
+
+Who is known as ‘Saka-conqueror’?
+
+A. Chandragupta- I
+
+B. Samudragupta
+
+C. Chandragupta- II
+
+D. Kumaragupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Gupta Ruler Chandragupta- II ‘Vikramaditya’ was known as the ‘Saka Conqueror’ as he eliminated Saka power by defeating last Saka king Rudrasimha- III in the first decade of the 5th century. He adopted the title of 'Sakari' after this victory. He issued silver coins (Rupak) on this occasion.
+
+</details>
+
+---
+
+**Q-GC27. U.P. U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+Who was the first Gupta ruler to issue silver coins?
+
+A. Chandragupta- I
+
+B. Samudragupta
+
+C. Chandragupta- II
+
+D. Kumargupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** See the explanation of above question. (Gupta Ruler Chandragupta- II ‘Vikramaditya’ was known as the ‘Saka Conqueror’ as he eliminated Saka power by defeating last Saka king Rudrasimha- III in the first decade of the 5th century. He adopted the title of 'Sakari' after this victory. He issued silver coins (Rupak) on this occasion.)
+
+</details>
+
+---
+
+**Q-GC28. U.P.P.C.S. (Pre) 2022**
+
+With reference to Chandragupta – II, which of the
+following statements is/are correct? @apna_channels
+Join Telegram: @pdfhub4u_all @apna_ghatnachakra
+CLICK HERE — UPPCS (PRE +MAINS)
+BOOK
+Made with Xodo PDF Reader and Editor
+Indian History General Studies B–133
+1. The strongest evidence in the context of Saka
+Victory is the silver coins of this King.
+2. The weight of these coins used to be about 33 grains.
+Select the correct answer from the code given below:
+Code :
+
+A. Both 1 and 2
+
+B. Only 1
+
+C. Neither 1 nor 2
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** After victory over Saka, Chandragupta II released silver coins. These coins usually weighs around 30 to 33 grains. Hence both statement are true.
+
+</details>
+
+---
+
+**Q-GC29. M.P.P.C.S. (Pre) 2023**
+
+After conquering the Shakas, which of the following
+metal coins were introduced by Chandragupta II?
+
+A. Gold
+
+B. Silver
+
+C. Copper
+
+D. Bronze
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Chandragupta-II's victory over the mighty Sakas dynasty was his foremost success. The annexation of Sakas kingdom comprising Gujarat and part of Malwa strengthened the Gupta Empire, but also brought it into direct touch with western sea ports. After the victory over Sakas, Chandragupta-II adopted the title of 'Sakari' (Destroyer of the Sakas). Chandragupta-II issued dated silver coins to commemorate his victory over Saka Kshatrapas.
+
+</details>
+
+---
+
+**Q-GC30. 63rd B.P.S.C (Pre.) 2017**
+
+The famous Chinese pilgrim Fa-Hien visited India
+during the reign of -:
+
+A. Chandragupta I
+
+B. Chandragupta II
+
+C. Ramagupta
+
+D. Srigupta
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Fa-Hien visited India during the reign of Chandragupta-II.
+
+</details>
+
+---
+
+**Q-GC31. Raj. P.C.S. (Pre) 2023**
+
+In which dynasty did Chandragupta II marry his
+daughter Prabhavati and strengthen his position?
+
+A. Lichchhvi Dynasty
+
+B. Kadamb Dynasty
+
+C. Vakataka Dynasty
+
+D. Naga Dynasty
+
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Prabhavati was the daughter of Chandragupta II. She married Rudrasen II of the Vakataka dynasty. After her husband's death, she effectively ruled the Vakataka Empire as regent.
+
+</details>
+
+---
+
+**Q-GC32. Jharkhand P.C.S. (Pre) 2023**
+
+Prabhavati Gupta was the ruler of
+
+A. Gupta Dynasty
+
+B. Sunga Dynasty
+
+C. Vakataka Dynasty
+
+D. Maukhari Dynasty
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Prabhavati Gupta was the daughter of one of the most important rulers in early Indian history, Chandragupta II. She was married into another important ruling family, that of the Vakatakas, who were powerful in the Deccan. She was the Vakataka queen, who was the consort of Maharaja Rudrasena II. Following the death of her husband, she effectively ruled the Vakataka kingdom as regent.
+
+</details>
+
+---
+
+**Q-GC33. 70th B.P.S.C. (Pre) 2024**
+
+Consider the following about the King “Pravarasena” :
+
+A. He was the real founder of Vakataka dynasty.
+
+B. His empire extended from Bundelkhand in north to Hyderabad in South.
+
+C. He succeeded his father King Vindhyshakti.
+
+D. He is mentioned in Puranas. Which of the following statements is correct ?
+
+A. 
+
+A. and
+
+B. both
+
+B. 
+
+A. and
+
+C. both
+
+C. 
+
+B. ,
+
+C. and
+
+D. 
+
+D. More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Vakataka dynasty was an ancient Indian royal dynasty that ruled over the central and southern parts of India from the 3rd century CE to the end of the 5th century and the beginning of the 6th century CE. The founder of this dynasty was Vindhyashakti, whose successor was Pravarasena I, who is also considered the actual founder of the Vakataka dynasty. During the time of Pravarasena I, the boundaries of the Vakataka dynasty reached from Bundelkhand in north to Deccan (including modern Hyderabad) in the south. The Vakataka rulers expanded their territory to include vast regions under their influence. Among the rulers of the Vakataka dynasty, Pravarasena I assumed the title of Samrat (Emperor) and performed several Ashvamedha Yajnas (horse sacrifices) and Vedic rituals. According to the Puranas, he is referred to as Pravira. Thus, all the given statements are correct.
+
+</details>
+
+---
+
+**Q-GC34. [U.P.P.C.S. (Mains)-2017]**
+
+Which of the following is not correctly matched?
+
+A. Kumargupta I : Mandsaur inscription
+
+B. Patik : Takshashila inscription
+
+C. Prabhavati Gupta : Udayagiri cave inscription
+
+D. Samudragupta : Eran inscription
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** BOOK The correct matching is as follows– Kumargupta I : Mandsaur inscription Patik : Takshashila inscription Chandragupt II : Udayagiri cave inscription Samudragupta : Eran inscription No records of Prabhavati Gupta have been obtained from the Udayagiri Cave inscription.
+
+</details>
+
+---
+
+**Q-GC35. M.P. P.C.S. (Pre) 2021**
+
+Which of the following inscriptions is known as the
+first advertisement of the World?
+
+A. Dashpur inscription
+
+B. Sohgara inscription
+
+C. Supia inscription
+
+D. Eran inscription
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Dashpur inscription is the first advertisement of the world. Also known as Mandsaur inscription, it belongs to the period of Kumargupta-I and contains advertisements about silk trade.
+
+</details>
+
+---
+
+**Q-GC36. U.P. R.O./A.R.O. (Mains) 2021**
+
+Mandsaur – Prashasti presents the details of the
+achievements of which ruler?
+
+A. Skandagupta
+
+B. Chandragupta-II
+
+C. Ramagupta
+
+D. Kumaragupta-I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Vatsabhatta or Vatsabhatti was a contemporary of Kumargupta-I, composed the Mandsaur-Prashasti at Malwa. The Mandsaur-Prashasti presents the details of achievements of Kumargupta-I. It also describes that the silk workers had constructed a sun temple here which was repaired by Bandhuvarma.
+
+</details>
+
+---
+
+**Q-GC37. M.P.P.C.S. (Pre) 2019**
+
+Which of the following inscription reveals information
+about Silk Weavers Guild?
+
+A. Dashpur Inscription
+
+B. Prayag Prashasti
+
+C. Eran Inscription
+
+D. Hathigumpha Inscription
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Dashpur (Mandsaur) inscription of Kumargupta I mentions Tantuwayas (silk waver guild) and also mentions his governor Bndhuvarman and the erection of the sun temple. It was during his reign, a temple dedicated to Surya was constructed by the silk-weavers at Dashpur. The temple was renovated by the same guild.
+
+</details>
+
+---
+
+**Q-GC38. M.P.P.C.S. (Pre) 2024**
+
+In relation to the Dashpur inscription of Kumaragupta
+and Bandhuvarman, which statement is incorrect?
+
+A. The inscription mentions the construction of the Sun Temple by the guild of silk weavers.
+
+B. It is oldest example of the advertisement tradition in Bharat.
+
+C. The inscription also refers to Dashpur as Pashchimapur.
+
+D. The inscription was composed by Bhavabhuti.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** In the Dashpur (Mandsaur) inscription of Kumaragupta and Bandhuvarman, it is mentioned that the Sun Temple in Dashpur was constructed by the guild of silk weavers from the Lata region (Gujarat). It describes silk fabrics, which are considered oldest example of the advertisement tradition in India. The inscription also refers to Dashpur as Pashchimapur. The inscription was not composed by Bhavabhuti but rather by Vatsabhatti.
+
+</details>
+
+---
+
+**Q-GC39. U.P.B.E.O. (Pre) 2019**
+
+Match List-I with List-II and select the correct answer
+from the code given below the lists.
+List–I List-II
+(Kings) (Queens)
+A. Chandragupta 1. Duttadevi
+B. Samudragupta 2. Kubernaga
+C. Chandragupta II 3. Kumaradevi
+D. Kumargupta I 4. Anantdevi
+Code :
+A B C D
+
+A. 3 1 2 4
+
+B. 2 1 3 4
+
+C. 1 2 3 4
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Correct match is as follows – Chandragupta – Kumaradevi Samudragupta – Duttadevi Chandragupta-II – Kubernaga Kumargupta-I – Anantdevi
+
+</details>
+
+---
+
+**Q-GC40. U.P. R.O./A.R.O. (Pre) 2023**
+
+Which one of the following is the correct sequence of
+administrative division during the Gupta Period?
+
+A. Bhukti Vishaya Vithi Grama
+
+B. Vishaya Bhukti Vithi Grama
+
+C. Vithi Bhukti Vishaya Grama
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** During Gupta period, the empire was divided into provinces named Bhukti. Empire Bhukti Vishayas Vithi Gram (King) (Uparik) (Vishayapati) (Aayulan and Vithimahattar) (Gramik/Ashtakuladhikari) BOOK
+
+</details>
+
+---
+
+**Q-GC41. I.A.S. (Pre) 1999**
+
+From the third century AD when the Huna invasion
+ended the Roman Empire, the Indian merchants relied
+more and more on the :
+
+A. African trade
+
+B. Western-European trade
+
+C. South-East Asian trade
+
+D. Middle-Eastern trade
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** When the Huna invasion ended the Roman empire in 3rd century A.D. the Indian merchants relied more and more on the South East Asian trade.
+
+</details>
+
+---
+
+**Q-GC42. I.A.S. (Pre) 1999 / U.P.P.S.C. (R.I.) 2014**
+
+Which one of the following ports handled the North
+Indian trade during the Gupta period ?
+
+A. Tamralipti
+
+B. Bhadoch
+
+C. Kalyan
+
+D. Cambay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Tamralipti port in Bengal was a prominent port during the Gupta period from where trade was conducted with South-East Asia, China, Lanka, Java, Sumatra as well as northern India. Western coast had an important port of Bhrigu Kachchha (Bharuch) from where Gupta rulers used to trade with western countries.
+
+</details>
+
+---
+
+**Q-GC43. 65th B.P.S.C. (Pre) 2019**
+
+Which one of the following ports was in use for the
+North Indian trade during the Gupta period?
+
+A. Kalyan
+
+B. Tamralipti
+
+C. Broach
+
+D. Cambay
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: E.** During the Gupta period, Tamralipti of Bengal was an important port that was used for trading with South-East Asia, China, Lanka, Java, Sumatra etc. Bhrigukatchha (Bharuch) was an important port of western India from where trade of North India with western countries occurred through searoutes. During the Gupta period, most of the Indian trade happened with South-East Asia, hence Tamralipti was most important port of this period. However, Bharuch, Kalyan, Cambay etc. were also used for North Indian trade. Hence most suitable answer would be more than one which is option (e).
+
+</details>
+
+---
+
+**Q-GC44. I.A.S. (Pre) 2011**
+
+India maintained its early cultural contacts and trade
+links with South-East Asia across the Bay of Bengal.
+For this pre-eminence of the early maritime history
+of Bay of Bengal, which of the following could be the
+most convincing explanation/explanations?
+
+A. As compared to other countries, India had a better shipbuilding technology in ancient and medieval times
+
+B. The rulers of Southern India always patronized traders, brahmin priests and Buddhist monks in this context
+
+C. Monsoon winds across the Bay of Bengal facilitated sea voyages
+
+D. Both
+
+A. and
+
+B. are convincing explanations in this context
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** India maintained its early cultural contacts and trade links with South East Asia across the Bay of Bengal, as the monsoon winds originating from the Bay of Bengal facilitated the cruise, which in turn enhanced trade and cultural contacts. Hence, option (c) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC45. I.A.S. (Pre) 2012**
+
+With reference to the guilds (Shreni) of ancient India
+that played a very important role in the country’s
+economy which of the following statements is/are
+correct?
+1. Every guild was registered with the central
+authority of the state, and the King was the chief
+administrative authority on them.
+2. The wages, rules of work, standards and prices
+were fixed by the guild.
+3. The guild had judicial powers over its members.
+Select the correct answer using the codes given below:
+
+A. 1 and 2 only
+
+B. 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Guilds were very important in the economy of ancient India. These organizations were established by merchants for the proper regulation of their trade. Guilds had the judicial power over their members and also had the power to ensure the salaries, rules of job, standards and prices. Every guild had its head without any intervention by the kingdom. It was also important for governing the local bodies.
+
+</details>
+
+---
+
+**Q-GC46. R.A.S./R.T.S.(Pre) 2010**
+
+Centers located in Gujarat, Bengal, Deccan and Tamil
+Country during the Gupta period were associated with
+which of the following:
+
+A. Textile manufacture
+
+B. Gems and precious stones
+
+C. Handicrafts
+
+D. Opium cultivation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gujarat, Bengal, Deccan and Tamil Nadu were famous for the textile manufacturing industry. Thus, option (a) is the correct answer. The textile industry was a prime industry during the Gupta period.
+
+</details>
+
+---
+
+**Q-GC47. Standard PYQ**
+
+In ancient period, which Varna was also called as
+‘Sarthavaha’?
+
+A. Brahmana
+
+B. Kshatriya
+
+C. Vaishya
+
+D. Shudra M.P.P.C.S. (Pre) 2018 @apna_channels Join Telegram: @pdfhub4u_all @apna_ghatnachakra CLICK HERE — UPPCS (PRE +MAINS) BOOK Made with Xodo PDF Reader and Editor B–136 General Studies Indian History
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Proper rules of conduct for trade were prescribed by the head of trade guilds, known as Sarthavaha or Srenipramukh. The rules were called Samay and Srenidharma. Hence, the term Sarthavaha is associated with the Vaishya.
+
+</details>
+
+---
+
+**Q-GC48. 65th B.P.S.C. (Pre) 2019**
+
+Who among the following is known for his work on
+medicine during the Gupta period?
+
+A. Sushruta
+
+B. Saumilla
+
+C. Shudraka
+
+D. Shaunaka
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: E.** Sushruta is called the father of surgery. He was a resident of Kashi. It is believed that his period was around 600 BC. Shaunaka was a sage of the Rigveda. Shudraka was a dramatist of the Gupta period (literateur). Saumilla is a playwright of Gupta period who has been remembered by Kalidasa with language and poetry. Thus, none of the above had worked in the field of medicine during the Gupta period. Although Bihar Public Service Commission, in its initial answer sheet, has considered the correct answer as option (a). Since the Gupta period begins in 275 AD (Sri Gupta), which is about 875 years later than the valid period of Sushruta (usually 600 BC), it is not reasonable to consider Sushruta a contemporary of the Gupta period.
+
+</details>
+
+---
+
+**Q-GC49. U.P. Lower Sub. (Spl) (Pre) 2002 / I.A.S. (Pre) 1996**
+
+Who among the following is known for his Ayurvedic
+thematic composition during Gupta period?
+
+A. Saumilla
+
+B. Shudraka
+
+C. Shunaka
+
+D. Sushruta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: *.** See the explanation of above question. (Sushruta is called the father of surgery. He was a resident of Kashi. It is believed that his period was around 600 BC. Shaunaka was a sage of the Rigveda. Shudraka was a dramatist of the Gupta period (literateur). Saumilla is a playwright of Gupta period who has been remembered by Kalidasa with language and poetry. Thus, none of the above had worked in the field of medicine during the Gupta period. Although Bihar Public Service Commission, in its initial answer sheet, has considered the correct answer as option (a). Since the Gupta period begins in 275 AD (Sri Gupta), which is about 875 years later than the valid period of Sushruta (usually 600 BC), it is not reasonable to consider Sushruta a contemporary of the Gupta period.)
+
+</details>
+
+---
+
+**Q-GC50. I.A.S. (Pre) 1993**
+
+Who among the following is not associated with
+medicine in ancient India?
+
+A. Dhanvantari
+
+B. Bhaskaracharya
+
+C. Charaka
+
+D. Sushruta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Dhanvantari was one of the Navratnas of Chandragupta II. He was a master in Ayurveda. Charaka and Sushruta were also great scholars of Ayurveda. Charaka was the physician of Kanishka who wrote 'Charaka Samhita' while Bhaskaracharya was a great astronomer and mathematician. He composed ‘Siddhanta Shiromani’ and ‘Lilavati’ based on astronomy and mathematics.
+
+</details>
+
+---
+
+**Q-GC51. U.P.P.S.C. (GIC) 2017**
+
+‘Lilavati’ was written by :
+
+A. Mahaviracharya
+
+B. Hemchandraacharya
+
+C. Bhaskaracharya
+
+D. Kalkacharya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Bhaskarcharya (Bhaskara-II) wrote Lilavati.
+
+</details>
+
+---
+
+**Q-GC52. I.A.S. (Pre) 2012**
+
+With reference to the scientific progress of ancient
+India, which of the statements given below are correct?
+1. Different kinds of specialized surgical instruments
+were in common use by AD first century.
+2. Transplant of internal organs in the human body
+had begun by the beginning of AD third century.
+3. The concept of the sine of an angle was known in
+AD fifth century.
+4. The concept of cyclic quadrilaterals was known in
+AD seventh century.
+Select the correct answer using the codes given below
+
+A. 1 and 2
+
+B. 3 and 4
+
+C. 1, 3 and 4
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The ancient age is notable for scientific developments. Many surgical instruments were used in 1st century A.D., but the transplant of human internal organs was not possible untill then. Development in maths is notable in the Gupta period. Sine, Cosine, and inverse Sine were known in 5th century A.D. These are mentioned in ‘Surya Siddhanta’ and ‘Aryabhatiya.’ Brahmagupta described cyclic quadrilaterals in 700 A.D. Thus, statements 1, 3 and 4 are correct.
+
+</details>
+
+---
+
+**Q-GC53. Chhattisgarh P.C.S. (Pre) 2019**
+
+In his travels through India, Fahhien has mentioned
+a hospital, it was located at
+
+A. Ujjain
+
+B. Kaushambi
+
+C. Tamralipti
+
+D. Pataliputra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Fa Hien has mentioned a hospital at Pataliputra (capital) which was endowed by benevolent citizens. The poor and helpless patients suffering from any kind of disease were taken care of and doctors attended them and they were given food and medicine as per their wants.
+
+</details>
+
+---
+
+**Q-GC54. U.P. Lower Sub. (Spl) (Pre) 2008**
+
+Who of the following among the Nine Gems of
+Chandragupta was associated with astrology ?
+
+A. Vararuchi (h) Sanku
+
+C. Kshapanak
+
+D. Amar Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Nine Gems of Chandragupta II were (1) Kalidasa (Poet), (2) Dhanvantari (Physician), (3) Varahamihira (Astronomer), (4) Amar Singh (Lexicographer), (5) Shanku (Architect) (6) Kshapanak (Astrologer), (7) Vararuchi (Grammarian), (8) BOOK
+
+</details>
+
+---
+
+**Q-GC55. M.P.P.C.S. (Pre) 1990**
+
+Kalidasa was in the ruling period of –
+
+A. Samudragupta
+
+B. Ashoka
+
+C. Chandragupta- I
+
+D. Chandragupta- II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** See the explanation of above question. (The Nine Gems of Chandragupta II were (1) Kalidasa (Poet), (2) Dhanvantari (Physician), (3) Varahamihira (Astronomer), (4) Amar Singh (Lexicographer), (5) Shanku (Architect) (6) Kshapanak (Astrologer), (7) Vararuchi (Grammarian), (8) BOOK)
+
+</details>
+
+---
+
+**Q-GC56. [64th B.P.S.C. (Pre)-2018]**
+
+Who among the following was the first to explain that
+the rotation of the earth on its own axis accounts for
+the daily rising and setting of the sun?
+
+A. Aryabhatta
+
+B. Bhaskara
+
+C. Brahmagupta
+
+D. Varahamihira
+
+E. None of the above/more than one of the above.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Aryabhatta, a mathematician and astronomer, wrote 'Aryabhatiyam'. He stated that day and night were caused by the rotation of the earth on its axis.
+
+</details>
+
+---
+
+**Q-GC57. U.P.P.C.S. (Pre) 1992**
+
+Which (among these) are Gupta’s gold coins?
+
+A. Kaudi
+
+B. Dinara
+
+C. Nishka
+
+D. Pan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Gold coins issued by Gupta rulers were known as Dinar. According to Fa Hien, people used Dinar for daily business.
+
+</details>
+
+---
+
+**Q-GC58. U.P.R.O./A.R.O. (Mains) 2017**
+
+Gupta gold coin was called -
+
+A. Karshapana
+
+B. Dinara
+
+C. Nishka
+
+D. Suvarna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (Gold coins issued by Gupta rulers were known as Dinar. According to Fa Hien, people used Dinar for daily business.)
+
+</details>
+
+---
+
+**Q-GC59. I.A.S. (Pre) 1996 / U.P. Lower Sub. (Spl) (Pre) 2002**
+
+The silver coins issued by the Guptas were called :
+
+A. Karshapana
+
+B. Dinara
+
+C. Rupaka
+
+D. Nisc
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The silver coins issued by the Gupta ruler were known as “Rupaka”. The Gupta coins have been found in Uttar Pradesh, Bihar, Bengal, Madhya Pradesh, Rajasthan, and Odisha. Bharatpur (Bayana) in Rajasthan is the place from where a maximum number of coins have been found.
+
+</details>
+
+---
+
+**Q-GC60. U.P.P.C.S. (Mains) 2010 / U.P.P.C.S. (Pre) 2011**
+
+Who of the following was the first Gupta ruler to issue
+coins?
+
+A. Chandragupta-I
+
+B. Ghatotkacha
+
+C. Samudragupta
+
+D. Srigupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chandragupta-I was the first Gupta ruler who issued the coins. There is no evidence available for issuance of coins by Ghatotkacha and Srigupta, the early rulers of Gupta dynasty. Samudragupta also issued various types of coins, but his tenure was after Chandragupta-I.
+
+</details>
+
+---
+
+**Q-GC61. I.A.S. (Pre) 1995**
+
+In Sanskrit plays written during the Gupta period,
+women and Sudras speak:
+
+A. Sanskrit
+
+B. Prakrit
+
+C. Pali
+
+D. Sauraseni
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** In Sanskrit plays written during Gupta period, women and Sudras spoke in Prakrit language, while upper varnas (classes) person used Sanskrit to speak.
+
+</details>
+
+---
+
+**Q-GC62. U.P.P.C.S. (Mains) 2010**
+
+The first inscriptional evidence of the Satipratha has
+been found from –
+
+A. Eran
+
+B. Junagarh
+
+C. Mandsaur
+
+D. Sanchi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The first evidence of ‘Satipratha’ has been found from the inscription of Eran. This inscription belongs to 510 AD in which practice of Sati has been mentioned for a lady who was the wife of a war commander named ‘Gopraj.’
+
+</details>
+
+---
+
+**Q-GC63. M.P. P.C.S. (Pre) 1991**
+
+Who established Gupta Samvat?
+
+A. Chandragupta- I
+
+B. Srigupta
+
+C. Chandragupta- II
+
+D. Ghatotkach
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gupta Samvat was started by Chandragupta-I in 319 AD.
+
+</details>
+
+---
+
+**Q-GC64. U.P.P.C.S. (Re. Exam) (Pre) 2015**
+
+Match List-I with the List-II and select the correct
+answer from the codes given below:
+List - I List - II
+(Emperor) (Titles)
+A. Ashoka 1. Parakramank
+B. Samudragupta 2. Priyadarsin
+C. Chandragupta-II 3. Kramaditya
+D. Skandgupta 4. Vikramaditya
+Code :
+A B C D
+
+A. 1 2 3 4
+
+B. 3 2 1 4
+
+C. 2 1 4 3
+
+D. 4 3 2 1 @apna_channels Join Telegram: @pdfhub4u_all @apna_ghatnachakra CLICK HERE — UPPCS (PRE +MAINS) BOOK Made with Xodo PDF Reader and Editor B–138 General Studies Indian History
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The correctly matched list is as follows - Ashoka - Priyadarsin Samudragupta - Parakramanka Chandragupta-II - Vikramaditya Skandgupta - Kramaditya
+
+</details>
+
+---
+
+**Q-GC65. 40th B.P.S.C. (Pre) 1995**
+
+The gradual decline of towns was an important feature
+of which period?
+
+A. Gupta period
+
+B. Pratihara era
+
+C. Rashtrakut
+
+D. Satavahana era
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** During the Gupta period, towns declined gradually. Most of the towns that were prosperous in the valley, declined in that age. A major city, Pataliputra became a village when HiuenTsang came to India. Mathura, Sonpur, and Sohgaura- all major cities provided evidence of a decline in this age. So, we can say that the gradual decline of towns is an important feature of the Gupta period.
+
+</details>
+
+---
+
+**Q-GC66. 39th B.P.S.C. (Pre) 1994**
+
+Which ruling dynasty donated maximum villages to
+temples and Brahmins?
+
+A. Gupta Dynasty
+
+B. Pala Dynasty
+
+C. Rashtrakuta
+
+D. Pratihara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The rulers of the Gupta dynasty donated a maximum number of villages to temples and Brahmins. Also, the income generated from the land of the village used to be given to the owner of the land.
+
+</details>
+
+---
+
+**Q-GC67. U.P.P.C.S. (Spl) (Pre) 2004**
+
+In Ancient India, which dynasty’s rule is considered
+as the Golden Age?
+
+A. Mauryan
+
+B. Shunga
+
+C. Gupta
+
+D. Magadha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Gupta period in ancient India is considered as the Golden Age due to the excellent development in the field of art and culture.
+
+</details>
+
+---
+
+**Q-GC68. U.P.P.C.S. (Pre) 1994**
+
+During which age, did women enjoy equality with men?
+
+A. Gupta age
+
+B. Mauryan age
+
+C. Cholas
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Except for the Vedic age, the situation of women was never good in ancient India. In the age of Gupta, Maurya and Chola, the evidence of inferior condition of women has been found. Thus condition of women with men cannot be compared in any age.
+
+</details>
+
+---
+
+**Q-GC69. 42nd B.P.S.C. (Pre) 1997**
+
+What was the land revenue rate in Gupta age?
+
+A. Fourth part of the production
+
+B. Sixth part of the production
+
+C. Eighth part of the production
+
+D. Half part of the production
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A person who used to cultivate on the official land of the ruler they had to pay a part of crop-products as tax in Gupta period which was the sixth portion of the production. Land revenue is known as ‘Udrang’ and “Bhag” in Gupta inscriptions.
+
+</details>
+
+---
+
+**Q-GC70. 40th B.P.S.C. (Pre) 1995**
+
+What is the land revenue rate in religious books?
+
+A. 1/3
+
+B. 1/4
+
+C. 1/6
+
+D. 1/8
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** In every religious text, the land revenue rate is 1/6th of the produce.
+
+</details>
+
+---
+
+**Q-GC71. U.P.P.C.S. (Pre) 1992**
+
+What is the valid tax according to Hindu law?
+
+A. Half of the yields
+
+B. One-sixth of the yields
+
+C. One-third of the yields
+
+D. One-fourth of the yields
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** See the explanation of above question. (In every religious text, the land revenue rate is 1/6th of the produce.)
+
+</details>
+
+---
+
+**Q-GC72. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Which type of land was called 'Aprahat'?
+
+A. Without cultivated forest land.
+
+B. Irrigated land.
+
+C. Dense forest land.
+
+D. Cultivated land.
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Uncultivable lands were called 'Aprahat'. It was a term of the revenue system in the Gupta period.
+
+</details>
+
+---
+
+**Q-GC73. I.A.S. (Pre) 2020**
+
+With reference to the history of India, the terms
+"kulyavapa" and "dronavapa" denote
+
+A. measurement of land
+
+B. coins of different monetary value
+
+C. classification of urban land
+
+D. religious rituals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kulyavapa & dronavapa were different measurements of land BOOK
+
+</details>
+
+---
+
+**Q-GC74. M.P.P.C.S. (Pre) 2014**
+
+The Gupta Empire granted tax-free agrarian land to
+which of the following?
+
+A. Military officials
+
+B. Civil officials
+
+C. Brahmins
+
+D. Court scholars
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Gupta Empire granted tax-free agrarian land to religious functionaries, i.e. Brahmins.
+
+</details>
+
+---
+
+**Q-GC75. U.P.P.C.S. (Mains) 2009**
+
+In ancient India, the irrigation tax was called –
+
+A. Bidakabhagam
+
+B. Hiranya
+
+C. Udranga
+
+D. Uparnika
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: *.** In ancient India, the irrigation tax was known as ‘Udakbhog.’ Hiranya was the cash tax in the Mauryan period. The land tax was called Udrang in Gupta inscriptions.‘Uparnika’ was the tax on farmers living on the land.
+
+</details>
+
+---
+
+**Q-GC76. U.P. U.D.A./L.D.A. (Pre) 2001**
+
+In 3rd AD, Warangal was famous for–
+
+A. Copper pots
+
+B. Gold Jewelleries
+
+C. Iron implements
+
+D. Elephant-teeth work
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Warangal was famous for production of iron equipment. ‘Agaria’ people lived there, and iron making was their traditional occupation.
+
+</details>
+
+---
+
+**Q-GC77. I.A.S. (Pre) 2020**
+
+With reference to the period of Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul
+were well known as
+
+A. ports handling foreign trade
+
+B. capitals of powerful kingdoms
+
+C. places of exquisite stone art and architecture
+
+D. important Buddhist pilgrimage centers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** During Gupta period there was flourishing external and internal trade. Ghantasala, Kadura and Chaul were ports handling foreign trade.
+
+</details>
+
+---
+
+**Q-GC78. I.A.S. (Pre) 1995**
+
+Tormana was from the racial group of –
+
+A. Sithian
+
+B. Huna
+
+C. Yaochi
+
+D. Saka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Toramana was the leader of the second Huna invasion on India.
+
+</details>
+
+---
+
+**Q-GC79. U.P.P.C.S. (Mains) 2016**
+
+Who amongst the following had defeated Huna ruler
+Mihirakula?
+
+A. Budhagupta
+
+B. Yashodharman
+
+C. Shashanka
+
+D. Prabhakaravardhana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mihirakula was of central Asian Huna origin who was one of the most important Hephthalite emperors. The Gwalior inscription showed his territory which included Gwalior. Mihirakula suffered a defeat by the Aulikara king Yashodharman of Malwa in 528 A.D. (other sources mention 495 A.D.)
+
+</details>
+
+---
+
+**Q-GC80. Jharkhand P.C.S. (Pre) 2016**
+
+The Chinese pilgrim who visited India in the early 6th
+century was –
+
+A. Ywan Chwang
+
+B. Fahien
+
+C. Sungyun
+
+D. I-tsing
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chinese pilgrim Sungyun came to India in 518 AD and collected texts of Buddha's preaching during his three years of stay in India.
+
+</details>
+
+---
+
+**Q-GC81. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Chinese traveller 'Sungyun' came to India in:
+
+A. 515 AD to 520 AD
+
+B. 525 AD to 529 AD
+
+C. 545 AD to 552 AD
+
+D. 592 AD to 597 AD
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: E.** Chinese traveller 'Sungyun' travelled to India from 518 to 521 AD. He collected texts of Buddha's preaching in his three years of travel.
+
+</details>
+
+---
+
+**Q-GC82. 69th B.P.S.C. (Pre) 2023**
+
+According to Chinese source, Meghavarman, the
+ruler of Sri Lanka, sent a missionary to which of
+the following Gupta Kings for permission to build a
+Buddhist temple at Gaya?
+
+A. Chandragupta I
+
+B. Samudragupta
+
+C. Chandragupta II
+
+D. None of them
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Meghavarman sent a missionary to Samudragupta to build a Buddhist temple at Gaya. Samudragupta granted permission to Buddhist king of Ceylon (Sri Lanka) Meghavarman to build a monastery at Bodh Gaya.
+
+</details>
+
+---
+
+**Q-GC83. Standard PYQ**
+
+Read the following statements carefully–
+1. Gupta Emperors claimed divine rights for themselves
+2. Their administration was highly centralized
+3. They extended the tradition of land grants.
+Answer on the basis of the following codes :
+
+A. 1, 2 and 3 are true
+
+B. 1 and 2 are true
+
+C. 1 and 3 are true
+
+D. 2 and 3 are true Chhattisgarh P.C.S. (Pre) 2008 @apna_channels Join Telegram: @pdfhub4u_all @apna_ghatnachakra CLICK HERE — UPPCS (PRE +MAINS) BOOK Made with Xodo PDF Reader and Editor B–140 General Studies Indian History
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** There was a monarchy in the Gupta Empire. They believed in their supernatural origin (opposite to Mauryas). They extended the tradition of land donation. Though it was not centralised, a federal system was followed. So, options 1 and 3 are correct.
+
+</details>
+
+---
+
+**Q-GC84. I.A.S. (Pre) 2019**
+
+With reference to forced labour (Vishti) in India
+during the Gupta period, which one of the following
+statements is correct?
+
+A. It was considered a source of income for the state, a sort of tax paid by the people
+
+B. It was totally absent in the Madhya Pradesh and Kathiawar regions of the Gupta Empire
+
+C. The forced labourer was entitled to weekly wages.
+
+D. The eldest son of the labourer was sent as the forced labourer.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Vishti was a form of forced labour enforced by either state, provincial governor or local chief. It is also mentioned in Gupta copper inscriptions that list out a variety of taxes. Junagadh inscription mentions Vishti as one form of tax, which indicates that it was imposed in Gujarat and Malwa regions. Since it was forced labour in lieu of tax, it was not wage labour. Wage labour existed in ancient India, but it was not called Vishti. Vishti could be imposed on anyone, not in particular on eldest son only.
+
+</details>
+
+---
+
+**Q-GC85. U.P. Lower Sub. (Spl) (Pre) 2004**
+
+The game of ‘Chess’ is said to have originated in –
+
+A. China
+
+B. Iran
+
+C. Indonesia
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The game of chess originated in India during the Gupta period was known as ‘Chaturanga.’ It reached Iran and then Europe from India.
+
+</details>
+
+---
+
+**Q-GC86. of Kamarupa / I.A.S. (Pre) 2003**
+
+‘Mrichchhakatika’ an ancient Indian book written by
+Shudraka deals with :
+
+A. The love affair of a rich merchant with the daughter of a courtesan
+
+B. The victory of Chandragupta II over the Saka Kshatrapas of western India
+
+C. The military expeditions and exploits of Samudragupta
+
+D. The love affairs between a Gupta King and a princess
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** ‘Mrichchhakatika” or “The Little clay cart” written by Sudraka deals with the love story of a rich merchant with the daughter of a courtesan. It also tells about the changes in the society during the Gupta period. It also provides information about some Shudra officers in Ujjayini.
+
+</details>
+
+---
+
 
 ## Practice Zone — UPPCS Format Drill
 

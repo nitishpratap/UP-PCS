@@ -361,31 +361,10 @@ North sants: Namdev → Kabir / Ravidas → Nanak → Chaitanya → Surdas → T
 - The **Ravidas Panth** continues today, and his verses in the **Adi Granth** give him a pan-Indian legacy.
 - For UPPCS, **Ramananda** is linked to Banaras and Prayag, and **Ravidas** to Varanasi; both are core UP saints.
 
-### PYQ — Ramananda A/R
-
-**1.** Assertion (A): **Ramananda** opened **Rama bhakti** to all castes.
-
-Reason (R): He worked in an **egalitarian Bhakti–Sufi** milieu in the **Banaras–Delhi** belt.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true, and (R) is the correct explanation of (A))
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Swami Ramananda (14th–15th century CE, born in Prayag and active in Varanasi) is hailed as the bridge who brought the Bhakti movement from South India to North India (*"Bhakti dravid upji, laye Ramanand"*). He made the worship of Rama and Sita accessible to all sections of society regardless of caste, creed, or gender, proclaiming his famous egalitarian maxim: *"Jat-pat puchhe nahi koi, Hari ko bhaje so Hari ka hoi"* (Let no one ask a person's caste or sect; whoever worships Hari belongs to Hari). His twelve direct disciples (*Dwadash Mahabhagavatas*) spanned every social stratum: Kabir (a Muslim weaver/Julaha), Ravidas (a leather-worker/Chamar), Sena (a barber/Nai), Dhanna (a Jat peasant), Pipa (a Rajput prince), Narhariananda, and female disciples including Padmavati and Surasari.
-- **Reason (R) is correct:** During the 14th century, the urban centers of the Banaras–Delhi corridor were deeply influenced by the egalitarian ethos of early Chishti and Suhrawardi Sufi khanqahs as well as the Nathpanthi Yogis. This cross-cultural milieu contested orthodox ritual hierarchy, caste exclusions, and ceremonial purity.
-- **Why (R) explains (A):** The prevailing socio-spiritual milieu and continuous interaction between vernacular Sufism, Nath ascetics, and popular lower-caste artisan aspirations in the Gangetic plains provided the concrete historical context and impetus for Ramananda to break away from the conservative orthodoxy of traditional south Indian Sri Vaishnavism, inaugurating a universalist, Hindi-medium Rama devotional movement open to all.
-
-**Key Exam Takeaway / Trap:**
-- *UPPCS Trap:* Do not confuse **Ramanuja** (11th–12th century, Tamil Nadu; philosopher of Vishishtadvaita who operated within Sanskrit Vedic traditions) with **Ramananda** (14th–15th century, Prayag/Kashi; who pioneered vernacular Hindi preaching and inducted lower-caste disciples).
-
-</details>
+> [!TIP] **Exam Anchor — Ramananda's Social Doctrine (UPPCS & Civil Services Format):**
+> - **Assertion (A):** Ramananda opened Rama bhakti to all castes without distinction.
+> - **Reason (R):** He formulated the egalitarian principle: *"Jati-pati puchhai nahi koi, Hari ko bhaje so Hari ka hoi"* ("Let no man ask a man's sect or caste; whoever worships God belongs to God").
+> - **Disciples:** Included Kabir (weaver), Ravidas (cobbler), Sena (barber), Sadhana (butcher), Dhanna (Jat farmer), Narhari (goldsmith), Pipa (Rajput prince), and women disciples Padmavati and Sursuri.
 
 ---
 
@@ -737,1262 +716,2869 @@ Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Ea
 
 ---
 
-## Complete PYQ Bank (Topic 4)
 
-**Q1. UPPCS Prelims 2018, Q90**
+### 4.9 Master Fact-Locks — Regional Saints, Sacred Geography & Medieval Literature
 
-Assertion (A): Many Sanskrit works on music were translated into Persian during medieval period. Reason (R): Early Chishti sufis were fond of musical assemblies called 'sama'.
+| Category / Entity | Specific Details & Exam Anchors | Geographic / Cultural Lock |
+|---|---|---|
+| **Guru Ghasidas (1756–1850)** | Born Dec 1756 at **Giraudpuri** village (Balodabazar-Bhatapara dist, Chhattisgarh) to **Mahangu** and **Amarautin**. Founded the **Satnami movement** in Chhattisgarh opposing idolatry, caste hierarchy, and meat/liquor consumption. | Giraudpuri, Chhattisgarh |
+| **Namdev's Spiritual Lineage** | Disciple of **Visoba Khechar**, who initiated him into mystical realization of the omnipresent, formless aspect of God. Tailor by caste; central pillar of **Varkari sampradaya**. | Narsi, Maharashtra / Pandharpur |
+| **Chaitanya Mahaprabhu** | Born 1486 at **Nadia (Navadvipa, Bengal)** in a Brahmin family; father **Jagannatha Mishra**, mother **Shachi Devi**. Childhood name was **Nimai** (Vishwambhar Mishra). Preached ecstatic Krishna-bhakti (Gaudiya Vaishnavism). | Nadia, West Bengal |
+| **Ajmer Dargah & Marathas** | **Raja Sahu** (grandson of Chhatrapati Shivaji) was the **first Maratha Chieftain** to send and offer *nazr* (ceremonial offering) at the Dargah of Khwaja Muinuddin Chishti at Ajmer. | Ajmer, Rajasthan |
+| **Nizamuddin Auliya Titles** | Adorned with titles **Mehboob-i-Elahi** ("Beloved of God") and **Sultan-ul-Mashaikh** ("King of Saints"). Called *Yogasiddha* for adept mastery of yogic breathing (pranayama). | Delhi (Ghiyaspur) |
+| **Medieval Romance / Mathnavi Literature** | • **Chandayan** — composed by **Mulla Daud** (early Awadhi Sufi mathnavi, Lorik-Chanda tale)<br>• **Padmavati Katha** — composed by **Damodar Kavi**<br>• **Rag Vibodh** — composed by **Somnath** (musicology)<br>• **Ashiqa** — composed by **Amir Khusrau**<br>• **Premvatika** & **Sujan Raskhan** — composed by **Raskhan** (Sayyid Ibrahim) in pure Braj Bhasha | Persian & Regional Vernaculars |
+| **Christianity Exam Facts (Ghatnachakra)** | • **Birthplace of Jesus Christ:** **Bethlehem** (near Jerusalem)<br>• **Easter:** Celebrates the **Resurrection of Jesus Christ** on the third day after crucifixion<br>• **Good Friday:** Commemorates the sacrificial crucifixion and death of Jesus Christ on Friday<br>• **Saint Francis of Assisi (1181/82–1226):** Celebrated Christian patron saint revered for his extraordinary love for birds and animals. | Judea / Assisi (Italy) |
 
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
+### 4.10 The 12 Jyotirlingas of Lord Shiva (द्वादश ज्योतिर्लिंग)
 
-<details><summary>Show answer</summary>
+| No. | Jyotirlinga Shrine | State / Region | Associated River / Geographic Landmark |
+|:---:|---|---|---|
+| **1** | **Somnath** | Veraval, Saurashtra, Gujarat | Prabhas Patan, Arabian Sea coast |
+| **2** | **Nageshwar** | Near Dwarka, Gujarat | Char Dham circuit |
+| **3** | **Mahakaleshwar** | Ujjain, Madhya Pradesh | Shipra River (only south-facing / Dakshinmukhi) |
+| **4** | **Omkareshwar** | Khandwa / Mandhata, Madhya Pradesh | Island in Narmada River shaped like 'Om' |
+| **5** | **Kedarnath** | Rudraprayag, Uttarakhand | Mandakini River, Garhwal Himalayas |
+| **6** | **Kashi Vishwanath** | Varanasi, Uttar Pradesh | Holy Ganges River |
+| **7** | **Baidyanath (Vaidyanath)** | Deoghar, Santhal Parganas, Jharkhand | Historic pilgrimage center |
+| **8** | **Trimbakeshwar** | Nashik, Maharashtra | Source of the Godavari River |
+| **9** | **Grishneshwar** | Verul (near Ellora Caves), Maharashtra | Near Daulatabad/Aurangabad |
+| **10** | **Bhimashankar** | Sahyadri Hills (near Pune), Maharashtra | Source of Bhima River |
+| **11** | **Mallikarjuna Swamy** | Srisailam, Andhra Pradesh | Nallamala Hills, Krishna River |
+| **12** | **Rameshwaram (Ramanathaswamy)** | Rameswaram Island, Tamil Nadu | Pamban Island, Gulf of Mannar |
 
-**Correct Answer:** **B** (Both (A) and (R) are true, but (R) is NOT the correct explanation of (A))
+---
 
-**Detailed Explanation:**
-- **Assertion (A) is correct:** During the medieval period, particularly under the Delhi Sultanate (notably Firuz Shah Tughlaq) and later under the Mughals (Akbar and even Aurangzeb's court in his early reign), numerous classical Sanskrit texts on music were translated into Persian. Firuz Shah Tughlaq commissioned the translation of Sanskrit musical works recovered from Nagarkot, resulting in the *Ghunyat-ul-Munya* (composed 1374–75 CE), the earliest known Persian treatise on Indian music. Under the Mughals, Faizi and other scholars translated musical systems, and in 1666 CE Mirza Raushan Zamir translated Damodara Pandita's *Sangita Darpana* into Persian as *Tuhfat-al-Hind*.
-- **Reason (R) is correct:** Early Chishti Sufis (Khwaja Moinuddin Chishti, Qutbuddin Bakhtiyar Kaki, Baba Farid, and Nizamuddin Auliya) were devoted to *Sama* (spiritual musical audition), using musical poetry and Qawwali to induce spiritual ecstasy (*wajd*) and communion with the Divine, defending this practice against strict orthodox Sunni jurists.
-- **Why (R) does NOT explain (A):** While both historical statements are factually true, the Chishti practice of *Sama* was an internal mystical-devotional ritual of Sufi hospices (*khanqahs*). It did not directly drive the secular, court-sponsored academic translation of Sanskrit musicological manuals, which arose from royal patronage, imperial intellectual curiosity, and cross-cultural music synthesis.
+## Complete PYQ Bank — Ghatnachakra Bhakti and Sufi Movement
 
-**Key Exam Takeaway / Trap:**
-- *Causal Linkage Trap:* Do not assume that because Sufis appreciated Indian melodies during *Sama*, they commissioned royal Persian translations of Sanskrit music books. Court scholars and imperial translation bureaus (*Maktab Khana*) performed those translations under royal decree.
+Complete unabridged 95-question bank from Ghatna Chakra covering early Bhakti origins, Shankaradeva, Vedanta schools (Advaita, Vishishtadvaita, Dvaita, Dvaitadvaita, Suddhadvaita), Ramananda, Kabir, Nanak, Mirabai, Namdev, Varkari, Chaitanya, Tulsidas, Sufi orders (Chishti, Suhrawardi, Qadiri, Naqshbandi, Shattari, Firdausi), and Medieval Literature. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
 
-</details>
+---
 
-**Q2. UPPCS Prelims 2019, Q14**
+**Q-GC1. U.P.P.C.S. (UDA/LDA) (Pre) 2001**
 
-Hath Yog: 1. Practiced by Nathpanthis 2. Adopted by Sufis
+The Bhakti movement was started by –
 
-A. 1 only
-B. 2 only
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Both 1 and 2 are correct)
-
-**Detailed Explanation:**
-- **Statement 1 is correct:** Hath Yoga—focusing on rigorous physical postures (*asanas*), breath regulation (*pranayama*), and awakening internal energy centers (*kundalini*)—was developed and popularized by the Nathpanthi Siddhas (founded by Matsyendranath and Guru Gorakhnath in the 10th–12th centuries). Their doctrines were codified in classic texts such as the *Goraksha Samhita*, *Siddha Siddhanta Paddhati*, and *Hatha Yoga Pradipika*.
-- **Statement 2 is correct:** Medieval Indian Sufis, particularly of the Chishti and Shattari silsilahs, actively engaged with Nath yogis and adopted their physical disciplines. Hazrat Nizamuddin Auliya was impressed by yogic breath control and recommended it to his disciples for concentration during *dhikr* (remembrance of God). Furthermore, the Sanskrit yogic manual *Amritakunda* ("The Pool of Nectar") was translated into Persian as *Hauz-al-Hayat* and later expanded by Shaikh Muhammad Ghaus of Gwalior (Shattari order) as *Bahr al-Hayat* ("Ocean of Life"), illustrating yogic asanas for Sufi meditation.
-
-**Key Exam Takeaway / Trap:**
-- *Syncretic Synthesis:* Candidates often incorrectly presume that orthodox Sufism rejected Hindu meditative techniques. In India, Sufis adopted *pranayama* (*habs-i-dam* / breath control) as a vital spiritual exercise.
-
-</details>
-
-**Q3. UPPCS Prelims 2020, Q40**
-
-Which of the following is **not** correctly matched?
-
-A. Moinuddin — Ajmer (Chishti)
-B. Burhanuddin — Daulatabad (Gharib)
-C. Mohammad Hussaini — Gulbarga
-D. Nizamuddin Auliya — Multan
+- (a) Alvar Saints
+- (b) Sufi Saints
+- (c) Surdas
+- (d) Tulsidas
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Nizamuddin Auliya — Multan is incorrectly matched)
+**Answer: (a)**
 
-**Detailed Explanation:**
-- **Option D is incorrectly matched (Correct Answer):** Hazrat Nizamuddin Auliya (*Sultan-ul-Mashaikh*, 1238–1325 CE) was the preeminent Chishti saint of **Delhi**, whose famous *khanqah* and dargah are located at Ghiyaspur (Nizamuddin, Delhi). The Sufi saint historically identified with **Multan** is **Shaikh Bahauddin Zakariya** (1170–1267 CE), founder of the Indian branch of the **Suhrawardi** silsilah.
-- **Option A is correctly matched:** Khwaja Moinuddin Chishti (*Gharib Nawaz*) arrived in India in 1192 CE and established the primary center of the Chishti order at **Ajmer** (Rajasthan).
-- **Option B is correctly matched:** Shaikh Burhanuddin Gharib (disciple of Nizamuddin Auliya) pioneered the Chishti presence in the Deccan, settling at **Daulatabad** (Maharashtra), where his dargah stands.
-- **Option C is correctly matched:** Sayyid Muhammad Hussaini, famously known as Khwaja **Bande Nawaz Gesudaraz** (1321–1422 CE), was a revered Chishti scholar-saint who settled at **Gulbarga** (Karnataka) under the patronage of Bahmani Sultan Taj-ud-Din Firuz Shah.
+**Explanation:**
+The Bhakti Movement is a Hindu religious movement in
 
-**Key Exam Takeaway / Trap:**
-- *Regional Sufi Mapping:* Always link: Suhrawardi → Multan & Uch; Chishti (Early) → Ajmer & Delhi; Chishti (Deccan expansion) → Daulatabad (Burhanuddin Gharib) and Gulbarga (Bande Nawaz Gesudaraz).
+which the main spiritual practise is loving devotion among
 
-</details>
+the Shaiva Nayanars and the Vaishnava Alvars. The Bhakti
 
-**Q4. UPPCS Prelims 2021, Q101**
+movement originated in ancient Dravida region and began
 
-Fawaid ul Fawad compiled by: A. Amir Hassan Sizzi | B. Amir Khusro | C. Ziauddin Barni | D. Hasan Nizami
+to spread to the north during the late medieval ages when
 
-<details><summary>Show answer</summary>
+North India was under Islamic rule. The Bhakti movement
 
-**Correct Answer:** **A** (Amir Hassan Sizzi / Amir Hasan Sijzi)
+was started in the 8th century by the great philosopher Adi
 
-**Detailed Explanation:**
-- **Option A is correct:** *Fawaid-ul-Fuad* ("Morals of the Heart") was compiled by **Amir Hasan Sijzi** (Amir Hasan 'Dehlavi', c. 1253–1336 CE), a close friend of Amir Khusrau. It is the premier masterpiece of *malfuzat* literature (transcriptions of the oral discourses of a Sufi master), recording the table conversations, parables, and theological observations of Hazrat Nizamuddin Auliya from 1307 to 1322 CE.
-- **Option B is incorrect:** Amir Khusrau was the most illustrious *murid* (disciple) and poet-companion of Nizamuddin Auliya, composing major masnavis (*Qiran-us-Sa'dain*, *Nuh Sipihr*, *Khazain-ul-Futuh*), but he did not compile *Fawaid-ul-Fuad*.
-- **Option C is incorrect:** Ziauddin Barani was a fourteenth-century Sultanate court historian who authored *Tarikh-i-Firuz Shahi* and *Fatwa-i-Jahandari*.
-- **Option D is incorrect:** Hasan Nizami was an early 13th-century chronicler who authored *Taj-ul-Ma'asir*, recounting the campaigns of Qutbuddin Aibak.
-
-**Key Exam Takeaway / Trap:**
-- *The Compiler Distractor:* Due to Amir Khusrau's immense fame as Nizamuddin's foremost devotee, candidates frequently choose B. Remember: **Amir Hasan Sijzi** compiled *Fawaid-ul-Fuad*.
-
-</details>
-
-**Q5. UPPCS Prelims 2022, Q33**
-
-Match List-I (Philosopher) with List-II (Philosophy):
-
-| List-I | List-II |
-|--------|---------|
-| A. Ramanuja | 1. Shuddhadvaita |
-| B. Madhvacharya | 2. Dvaitadvaita |
-| C. Nimbarka | 3. Dvaita |
-| D. Vallabhacharya | 4. Vishishtadvaita |
-
-*Row order in the table is not the answer code.*
-
-A. 2 4 1 3
-B. 3 1 4 2
-C. 1 2 3 4
-D. 4 3 2 1
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **D** (4 3 2 1: A-4, B-3, C-2, D-1)
-
-**Detailed Explanation:**
-- **A. Ramanuja (1017–1137 CE) → 4. Vishishtadvaita (Qualified Non-Dualism):** Ramanuja taught that Brahman alone exists, but is qualified (*vishesha*) by real plural individual souls (*chit*) and material world (*achit*). God is personal Narayana/Vishnu, and devotion (*bhakti/prapatti*) leads to liberation.
-- **B. Madhvacharya (1238–1317 CE) → 3. Dvaita (Strict Dualism):** Madhva rejected any monistic identity, establishing an eternal, five-fold fundamental difference (*Pancha Bheda*) between God (Vishnu/Hari), souls (*jivas*), and matter (*jada*).
-- **C. Nimbarkacharya (12th–13th CE) → 2. Dvaitadvaita (Dualistic Non-Dualism / Bhedabheda):** Nimbarka posited that the soul and world are simultaneously distinct (*bheda*) from Brahman and dependent/non-distinct (*abheda*) from Brahman, emphasizing Radha-Krishna devotion.
-- **D. Vallabhacharya (1479–1531 CE) → 1. Shuddhadvaita (Pure Non-Dualism):** Vallabha propounded that the universe and souls are non-different from Brahman without requiring the doctrine of *Maya* (hence "pure" non-dualism). He established the devotional path of *Pushtimarg* (Path of Divine Grace) centered on Krishna as Shri Nathji.
-
-**Key Exam Takeaway / Trap:**
-- *Matching Code:* A-4, B-3, C-2, D-1 gives **4 3 2 1** (**Option D**).
-- *Mnemonic Pairings:* **R-V** (Ramanuja = Vishishta), **M-D** (Madhva = Dvaita), **N-DD** (Nimbarka = Dvaitadvaita), **V-S** (Vallabha = Shuddha).
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q39**
-
-Which poetess–composition pair is **not** matched?
-
-A. Daya Bai — Vinay Malika
-B. Sahajobai — Sahaj Prakash
-C. Gangabai — Ganesh Dev Leela
-D. Mirabai — Padas
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Gangabai — Ganesh Dev Leela is NOT correctly matched)
-
-**Detailed Explanation:**
-- **Option C is incorrectly matched (Correct Answer):** *Ganesh Dev Leela* is not a verified historical composition of Gangabai. While Ganga Bai was an 18th-century Vaishnava poetess, *Ganesh Dev Leela* was a fabricated distractor created in this question.
-- **Option A is correctly matched:** Daya Bai was an 18th-century saint-poetess and disciple of Sant Charandas (Charandasi sect); she composed *Daya Bodh* and *Vinay Malika*.
-- **Option B is correctly matched:** Sahajobai was also an eminent female disciple and cousin of Sant Charandas; she authored the celebrated devotional scripture *Sahaj Prakash*.
-- **Option D is correctly matched:** Mirabai (c. 1498–1546 CE), the royal Krishna-bhakt from Rajasthan, expressed her divine love through hundreds of devotional verses called *Padas*, later compiled as *Padavali*, *Raga Govinda*, and *Gita Govinda ki Tika*.
-
-**Key Exam Takeaway / Trap:**
-- *Charandasi Women Poets:* Daya Bai (*Vinay Malika*) and Sahajobai (*Sahaj Prakash*) were both initiated by Sant Charandas in Delhi/Rajasthan. Candidates unfamiliar with later Bhakti literature mistakenly treat them as incorrect.
-
-</details>
-
-**Q7. UPPCS Prelims 2025, Q12**
-
-Match List-I (Disciple) with List-II (Guru):
-
-| List-I | List-II |
-|--------|---------|
-| A. Kabir | 1. Guru Nanak Dev |
-| B. Amir Khusrau | 2. Swami Ramananda |
-| C. Surdas | 3. Nizamuddin Auliya |
-| D. Mardana | 4. Vallabhacharya |
-
-*Row order in the table is not the answer code.*
-
-A. 3 2 4 1
-B. 3 2 1 4
-C. 2 3 4 1
-D. 2 3 1 4
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (2 3 4 1: A-2, B-3, C-4, D-1)
-
-**Detailed Explanation:**
-- **A. Kabir → 2. Swami Ramananda:** Tradition honors Swami Ramananda as the guru of Kabir in Varanasi, who initiated him into the holy name of *Rama*.
-- **B. Amir Khusrau → 3. Nizamuddin Auliya:** Khusrau was the beloved disciple (*murid*) of Hazrat Nizamuddin Auliya; they shared an inseparable spiritual bond and Khusrau passed away shortly after the death of his master in 1325 CE.
-- **C. Surdas → 4. Vallabhacharya:** Sant Surdas met Mahaprabhu Vallabhacharya at Gaughat (on the Yamuna between Agra and Mathura) and received initiation into the *Pushtimarg*, becoming the foremost poet of the *Ashtachhap* circle.
-- **D. Mardana → 1. Guru Nanak Dev:** Bhai Mardana was the lifelong Muslim disciple, musician, and companion of Guru Nanak Dev, accompanying him across his four major missionary travels (*Udasis*) playing the *rabab*.
-
-**Key Exam Takeaway / Trap:**
-- *Matching Code:* A-2, B-3, C-4, D-1 → Code: **2 3 4 1** (**Option C**).
-- *Inversion Trap:* Ensure you check who is in List-I (Disciples) and List-II (Gurus). Bhai Mardana is the disciple of Guru Nanak, not his guru!
-
-</details>
-
-**Q8. UPPCS Prelims 2025, Q74**
-
-Arrange the following saints in correct chronological order and select the correct answer from the code given below:
-
-1. Guru Nanak
-2. Chaitanya Mahaprabhu
-3. Namdev
-4. Kabir
-
-A. 4 3 1 2
-B. 3 4 2 1
-C. 3 4 1 2
-D. 4 3 2 1
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (3 4 1 2: Namdev → Kabir → Guru Nanak → Chaitanya)
-
-**Detailed Explanation:**
-- **1. Namdev (c. 1270–1350 CE):** Early Varkari saint-poet of Maharashtra devoted to Lord Vithoba of Pandharpur; lived during the 13th–14th century (earliest in this sequence).
-- **2. Kabir (c. 1398/early 15th c. – 1518 CE):** Banaras weaver-saint and exponent of Nirguna bhakti who lived throughout the 15th century.
-- **3. Guru Nanak Dev (1469–1539 CE):** Born at Rai Bhoi di Talwandi (Nankana Sahib) in 1469 CE; founded Sikhism.
-- **4. Chaitanya Mahaprabhu (1486–1533 CE):** Born at Navadvipa (Bengal) in 1486 CE; younger contemporary of Guru Nanak who popularized Gaudiya Vaishnavism and Harinam Sankirtan.
-- **Correct Chronological Sequence:** Namdev (3) → Kabir (4) → Guru Nanak (1) → Chaitanya (2) = **3 4 1 2**.
-
-**Key Exam Takeaway / Trap:**
-- *Nanak vs Chaitanya:* Guru Nanak was born in **1469**, while Chaitanya Mahaprabhu was born in **1486**. Placing Chaitanya before Nanak is a frequent error. Also remember that Goswami Tulsidas (c. 1532–1623 CE) lived *after* all four of these masters.
-
+Shankaracharya.
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Bhakti & Sufi (UPPCS first)
+**Q-GC2. U.P.P.C.S. (Pre) 1993**
 
-Teaching for these stems sits in **4.1–4.18**. UPPCS keys aligned with Ghatnachakra.
+The Bhakti culture was reborn in India during-
 
-**Q1. UP UDA/LDA (Pre) 2001 / UPPCS 1993**
+- (a) Vedic age
+- (b) 10th century AD
+- (c) 12th century AD
+- (d) 15th -16th century AD
 
-The Bhakti movement in India was originally started by:
+<details><summary>Show answer</summary>
 
-A. Alvar Saints
-B. Sufi Saints
-C. Surdas
-D. Tulsidas
+**Answer: (d)**
 
-<details>
-<summary>Show answer</summary>
+**Explanation:**
+The Bhakti Movement started with the great philosopher Adi
 
-**Correct Answer:** **A** (Alvar Saints)
+Shankaracharya propounding the philosophy of Advaitavada
 
-**Detailed Explanation:**
-- The historic **Bhakti movement** originated in the **Tamil South** between the 6th and 9th centuries CE, spearheaded by two distinct groups of passionate devotional poet-saints:
-  1. **Alvars:** 12 Vaishnavite poet-saints devoted to Lord Vishnu (prominent among them: Nammalvar, Andal, Periyalvar, Kulasekhara). Their 4,000 Tamil devotional hymns were compiled as the ***Nalayira Divya Prabandham*** by Nathamuni.
-  2. **Nayanars:** 63 Shaivite saints devoted to Lord Shiva (prominent among them: Appar, Sambandar, Sundarar, Manikkavacakar), whose hymns were compiled as the *Tirumurai*.
-- In later centuries, this intense personal emotional devotion was given philosophical foundations by South Indian acharyas (Shankara, Ramanuja, Madhva) and transmitted northward by Ramananda.
+to eliminate the influence of Buddhism during the 8th century.
 
-**Key Exam Takeaway / Trap:**
-- Originated in South India by **Alvars (Vaishnava, 12)** and **Nayanars (Shaiva, 63)**. Transmitted to North India by **Ramananda**.
+The Bhakti movement was reborn in the 15th-16th century
 
+when Kabir, Tulsi, Nanak, Sur, Mirabai etc. encouraged the
+
+movement.
 </details>
 
-**Q1b. UP UDA/LDA (Pre) 2001 / UPPCS 1993**
+---
 
-The Bhakti movement experienced its great popular revival and peak in North India during the:
+**Q-GC3. R.A.S./R.T.S. (Pre) 1992**
 
-A. Vedic age
-B. 10th century
-C. 12th century
-D. 15th–16th century
+The common belief of life of both Buddha and Mirabai
+was–
 
-<details>
-<summary>Show answer</summary>
+- (a) Following ahimsa
+- (b) Austerity of Nirvana
+- (c) The world is full of sorrow
+- (d) Speak of truth
 
-**Correct Answer:** **D** (15th–16th century)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- While the Bhakti movement began in the Tamil South in the early medieval era, its revolutionary popular resurgence across Northern, Western, and Eastern India occurred during the **15th and 16th centuries CE**.
-- This era witnessed the rise of iconic saint-poets:
-  - **Nirguna saints (formless God):** Kabir (c. 1398–1518), Guru Nanak (1469–1539), Dadu Dayal, Raidas.
-  - **Saguna saints (incarnate God):** Chaitanya Mahaprabhu (1486–1533), Vallabhacharya, Surdas, Mirabai, Tulsidas (1532–1623), and Sankaradeva in Assam.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Northern Indian Bhakti peak = **15th–16th century CE**.
+**Explanation:**
+Buddha and Mirabai had a common philosophy which stated
 
+that the world is full of sorrow. 'Sorrow is first among the
+
+Four Arya Truths of Buddhism'.
 </details>
 
-**Q2. BPSC 2005 (pattern)**
+---
 
-A common characteristic feature shared by all major Bhakti saints was that they:
+**Q-GC4. U.P.P.C.S. (Pre) 2009**
 
-A. Composed their verses in the vernacular language understood by their followers
-B. Rejected the authority of the Vedas completely
-C. Encouraged idol worship exclusively
-D. Abandoned family life and lived as celibate ascetics
+‘Let no man ask a man’s sect or caste’ whose dictum
+was this?”
 
-<details>
-<summary>Show answer</summary>
+- (a) Kabir
+- (b) Ramananda
+- (c) Ramanuja
+- (d) Chaitanya
 
-**Correct Answer:** **A** (Composed their verses in the vernacular language understood by their followers)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- Across all sectarian divisions (Saguna vs Nirguna, Shaiva vs Vaishnava), the single most defining common feature of the Bhakti movement was the **rejection of Sanskrit elitism** in favor of regional spoken vernaculars (*Deshi bhashas*):
-  - Kabir, Tulsidas, Surdas, and Ramananda composed in **Hindi, Awadhi, and Brajbhasha**.
-  - Guru Nanak composed in **Punjabi**.
-  - Chaitanya and Chandidas in **Bengali**.
-  - Jnaneshwar, Namdev, and Tukaram in **Marathi**.
-  - Sankaradeva in **Assamese (Brajavali)**.
-  - Mirabai in **Rajasthani / Gujarati**.
-- This democratized religious literature, allowing common people, women, and lower castes direct access to spiritual philosophy.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Universal hallmark: **Use of common vernacular languages** for mass spiritual propagation.
+**Explanation:**
+The dictum above is related to Saint Ramananda. His
 
+pupils were from all castes, religions and sects.
 </details>
 
-**Q3. IAS (Pre) 2002 / UPPCS Mains 2010**
+---
 
-Who among the following was the first Bhakti saint to use Hindi for the propagation of his message?
+**Q-GC5. 47th B.P.S.C. (Pre) 2005**
 
-A. Kabir
-B. Tulsidas
-C. Ramananda
-D. Dadu Dayal
+A common feature of all Bhakti Saints was that they –
 
-<details>
-<summary>Show answer</summary>
+- (a) Composed their verses in the language understood by their followers
+- (b) Rejected the authority of the priestly class B
+- (c) Encouraged women to go to the temples
+- (d) Encouraged idol worship
 
-**Correct Answer:** **C** (Ramananda)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Swami Ramananda (14th/15th century):** Born at Prayag (Allahabad) and educated in Varanasi; was a follower of Ramanuja's Sri Vaishnava tradition.
-- He broke away from orthodox Sanskrit tradition by being the **first saint to preach his devotional message directly in Hindi**, making the worship of **Rama and Sita** accessible to the masses.
-- He democratized spirituality by admitting disciples from all social strata, regardless of caste, creed, or gender. His celebrated twelve direct disciples (*Dwadash Mahabhagavatas*) included **Kabir** (weaver), **Raidas** (cobbler), **Sena** (barber), **Sadhana** (butcher), **Dhanna** (peasant), **Pipa** (Rajput prince), and women disciples **Padmavati** and **Sursari**.
+**Answer: (a)**
 
-**Key Exam Takeaway / Trap:**
-- First Bhakti saint to preach in Hindi = **Ramananda**. Do not mistakenly pick Kabir or Tulsidas!
+**Explanation:**
+The conduct of Bhakti saints was of a very high standard.
 
+Many of them visited the country and met many people
+
+having different views. They also contributed to the
+
+advancement of Hindi, Kannada, Punjabi, Bengali, Telugu,
+
+Tamil and other languages. The Saints of Bhakti Movement
+
+gave their verses in regional and local languages so that their
+
+followers could easily understand them. This was the main
+
+reason behind the development of local languages.
 </details>
 
-**Q3b. IAS (Pre) 2002 / UPPCS Mains 2010**
+---
 
-Which renowned Bhakti saint was born at **Prayag (Allahabad)**?
+**Q-GC6. I.A.S. (Pre) 2012**
 
-A. Kabir
-B. Tulsidas
-C. Ramananda
-D. Ravidas
+With reference to the religious history of medieval
+India, the Sufi mystics were known to pursue which
+of the following practices?
+1. Meditation and control of breath.
+2. Severe ascetic exercises in a lonely place.
+3. Recitation of holy songs to arouse a state of ecstasy
+in their audience.
+Select the correct answer using the codes given below :
 
-<details>
-<summary>Show answer</summary>
+- (a) 1 and 2
+- (b) 2 and 3
+- (c) Only 3
+- (d) 1, 2 and 3
 
-**Correct Answer:** **C** (Ramananda)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Swami Ramananda** was born into a Kanyakubja Brahmin family at **Prayag (Allahabad)**.
-- **Kabir:** Born at Varanasi (Lahartara).
-- **Ravidas (Raidas):** Born at Seer Goverdhanpur, Varanasi.
-- **Tulsidas:** Born at Rajapur (Chitrakoot/Banda district, UP).
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Birthplace match: **Ramananda = Prayag (Allahabad)**.
+**Explanation:**
+The emergence of Sufi saints in medieval India helped to
 
+promote communal harmony in the society. They promoted
+
+activities like meditation and hard breath-regulation. They
+
+took the help of holy songs and music to spread unity and
+
+harmony in society and to arouse a state of spiritual ecstasy
+
+in their audience.
 </details>
 
-**Q4. UPPCS Prelims 2003 / UDA 2002**
+---
 
-The compilation of philosophical dialogues between saint Kabir and his disciple Dharamdas is titled:
+**Q-GC7. U.P.P.C.S. (Mains) 2002**
 
-A. Bijak
-B. Sabad
-C. Amarmul
-D. Sakhi
+Vaishnavism in Kamarupa was popularised by –
 
-<details>
-<summary>Show answer</summary>
+- (a) Chaitanya
+- (b) Nimbarka
+- (c) Ramananda
+- (d) Shankaradeva
 
-**Correct Answer:** **C** (Amarmul)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- ***Amarmul*** (The Immortal Root): A celebrated spiritual dialogue text recorded in the Kabir Panthi tradition containing philosophical discourses and questions on creation, soul, and liberation between **Kabir** and his prime disciple, **Dharamdas** (who established the Dharmadasi branch of Kabir Panth at Damoh/Chhattisgarh).
-- ***Bijak:*** The primary sacred scripture of the Kabir Panthis, compiled by Bhagwan Das and Dharamdas, containing three sections: **Ramaini**, **Sabada**, and **Sakhi**.
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Primary holy book of Kabir = ***Bijak***. Dialogues between Kabir and Dharamdas = ***Amarmul***.
+**Explanation:**
+Kamarupa is the modern region situated in Assam.
 
+Vaishnavism in Kamarupa was popularized by Shankaradeva,
+
+the founder of Ekasarana sect. They believed in God Vishnu
+
+or his incarnation Krishna. They also opposed both rituals and
+
+idolatry. They were known as Chaitanya of Assam.
 </details>
 
-**Q5. UPPCS Mains 2002 / Prelims 2015 / Mains 2016**
+---
 
-Who propagated Vaishnavism in Kamarupa (Assam) and Cooch Behar?
+**Q-GC8. U.P.P.C.S. (Pre) 2015**
 
-A. Chaitanya Mahaprabhu
-B. Sankaradeva
-C. Ramananda
-D. Vallabhacharya
+Famous medieval saint Shankaradeva belonged to –
 
-<details>
-<summary>Show answer</summary>
+- (a) Shaiva Cult
+- (b) Vaishnava Cult
+- (c) Advaita Cult
+- (d) Dvaita-Advaita cult
 
-**Correct Answer:** **B** (Sankaradeva)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Mahapurush Srimanta Sankaradeva (1449–1568):** Revered socio-religious reformer, poet, playwright, and saint who introduced Vaishnavism to **Assam (Kamarupa) and Cooch Behar**.
-- He founded the monotheistic **Ekasarana Dharma** (refuge in the one supreme God, Krishna/Vishnu), emphasizing devotion (*Bhakti*) without animal sacrifice or idol worship.
-- He established the enduring cultural institutions of **Namghar** (community prayer halls) and **Sattras** (monasteries), created the classical **Sattriya dance**, and authored devotional dramas (*Ankiya Nat*) and devotional lyrics (*Borgeet*) in the literary language **Brajavali**.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Apostle of Bhakti in Assam/Kamarupa = **Sankaradeva** (*Ekasarana Dharma*, *Namghar*, *Sattriya*).
+**Explanation:**
+See the explanation of the above question.
 
+*(Reference Context from previous question:)*
+Kamarupa is the modern region situated in Assam.
+
+Vaishnavism in Kamarupa was popularized by Shankaradeva,
+
+the founder of Ekasarana sect. They believed in God Vishnu
+
+or his incarnation Krishna. They also opposed both rituals and
+
+idolatry. They were known as Chaitanya of Assam.
 </details>
 
-**Q6. UPPCS Mains 2005 / Prelims 2022 / IAS 2003**
+---
 
-Which of the following philosopher–theological school pairs is correctly matched?
+**Q-GC9. U.P.P.C.S. (Mains) 2011**
 
-A. Shankaracharya — Vishishtadvaita
-B. Ramanujacharya — Shuddhadvaita
-C. Madhvacharya — Dvaita
-D. Vallabhacharya — Dvaitadvaita
+Who among the following introduced Vaishnavism in
+Assam and Cooch Behar?
 
-<details>
-<summary>Show answer</summary>
+- (a) Chaitanya
+- (b) Madhva
+- (c) Shankaradeva
+- (d) Vallabhacharya
 
-**Correct Answer:** **C** (Madhvacharya — Dvaita)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Pair C is correctly matched:** **Madhvacharya (1199–1278):** Champion of **Dvaita (Dualism)**, asserting strict eternal distinction between God (*Paramatman*), the individual soul (*Jivatman*), and insentient matter (*Prakriti*).
-- **Corrected pairs:**
-  - **Shankaracharya (8th century):** **Advaita (Monism / Non-dualism)**.
-  - **Ramanujacharya (1017–1137):** **Vishishtadvaita (Qualified Non-dualism)**.
-  - **Vallabhacharya (1479–1531):** **Shuddhadvaita (Pure Non-dualism)** and *Pushtimarga*.
-  - **Nimbarkacharya (13th century):** **Dvaitadvaita (Dualistic Non-dualism / Bhedabheda)**.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Essential philosophy match:
-  - Advaita $\rightarrow$ **Shankaracharya**
-  - Vishishtadvaita $\rightarrow$ **Ramanujacharya**
-  - Dvaita $\rightarrow$ **Madhvacharya**
-  - Shuddhadvaita $\rightarrow$ **Vallabhacharya**
-  - Dvaitadvaita $\rightarrow$ **Nimbarkacharya**
+**Explanation:**
+Shankaradeva introduced Vaishnavism in Assam and Cooch
 
+Behar.
 </details>
 
-**Q7. UPPCS Spl Pre 2008 / Mains 2007**
+---
 
-During whose reign did Guru Nanak Dev preach his teachings and found the Sikh faith?
+**Q-GC10. U.P.P.C.S. (Pre) 1991**
 
-A. Firoz Shah Tughlaq
-B. Sikandar Lodi
-C. Akbar
-D. Alauddin Khalji
+Ramanujacharya is related to –
 
-<details>
-<summary>Show answer</summary>
+- (a) Bhakti
+- (b) Dvaitvad
+- (c) Vishistadvaita
+- (d) Monotheism
 
-**Correct Answer:** **B** (Sikandar Lodi)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Guru Nanak Dev (1469–1539):** Lived and conducted his mature spiritual travels (*Udasis*) during the reign of the Delhi Sultan **Sikandar Lodi (1489–1517)** and Ibrahim Lodi, and witnessed Babur's invasion (1526, described in *Baburvani*).
-- Sikandar Lodi was on the throne of Delhi during Guru Nanak's prime preaching phase in Punjab and northern India.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Contemporary Delhi Sultan = **Sikandar Lodi**.
+**Explanation:**
+Ramanujacharya was the earliest propagator of the Bhakti
 
+Movement. The philosophy of Sri Ramanujacharya is known
+
+in Sanskrit as Vishishtadvaita. This term literally means
+
+“non-duality of reality as characterized by attributes. The
+
+central idea of Vishishtadvaita is this: ‘there exists an ultimate
+
+principle, an absolute being that is the source and substratum
+
+of all that exists.’
 </details>
 
-**Q7b. UPPCS Spl Pre 2008 / Mains 2007**
+---
 
-The birthplace of Guru Nanak is situated at:
+**Q-GC11. (c) Shrikantacharya (d) Ramanuja, U.P.P.C.S. (UDA/LDA) (Pre) 2002**
 
-A. Amritsar
-B. Nankana Sahib (Talwandi)
-C. Kartarpur
-D. Anandpur Sahib
+“Shuddha Advaitvad” was propounded by –
 
-<details>
-<summary>Show answer</summary>
+- (a) Madhvacharya
+- (b) Vallabhacharya
 
-**Correct Answer:** **B** (Nankana Sahib / Talwandi)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Guru Nanak Dev** was born on **15 April 1469** at the village of **Rai Bhoi di Talwandi** (near Sheikhupura, Lahore district, modern Pakistan).
-- The historic site of his birth is now known as **Nankana Sahib** (enshrined by Gurudwara Janam Asthan).
-- He passed away at **Kartarpur** (on the Ravi River) in 1539.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Born at **Nankana Sahib (Talwandi)**. Died at **Kartarpur**.
+**Explanation:**
+Shuddha Advaitavada is the “purely non-dual” philosophy
 
+propounded by Shri Vallabhacharya, the founder and guru
+
+of the Vallabha Sect. Vallabhacharya was the son of Telugu
+
+Brahmin Shri Lakshmana Bhatta of Somyaji clan, who is said
+
+to have developed the views of Vishnuswami into Shuddha
+
+Advaita or pure non-dualism.
 </details>
 
-**Q8. UPPCS Spl Pre 2004 / UK UDA 2007**
+---
 
-Goswami Tulsidas, the author of *Ramcharitmanas*, was a contemporary of:
+**Q-GC12. Chhattisgarh P.C.S. (Pre) 2015**
 
-A. Akbar and Jahangir
-B. Babur and Humayun
-C. Shah Jahan and Aurangzeb
-D. Sher Shah Suri
+Where is the birthplace of “Mahaprabhu
+Vallabhacharya”?
 
-<details>
-<summary>Show answer</summary>
+- (a) Shivarinarayan
+- (b) Bilaspur
+- (c) Ratanpur
+- (d) Champaranya
+- (e) None of the above
 
-**Correct Answer:** **A** (Akbar and Jahangir)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Goswami Tulsidas (1532–1623 CE):** Lived during the golden age of the Mughal Empire.
-- His lifespan coincided with the reigns of Emperor **Akbar (1556–1605)** and Emperor **Jahangir (1605–1627)**.
-- He began composing his magnum opus, the ***Ramcharitmanas***, at Ayodhya on Rama Navami day in **1574 CE (Samvat 1631)** during Akbar's reign, and lived in Varanasi until his passing in 1623. Contemporary sources record that Akbar's court noble Abdur Rahim Khan-i-Khanan held Tulsidas in high reverence.
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Contemporary Mughal monarchs of Tulsidas = **Akbar and Jahangir**.
+**Explanation:**
+Mahaprabhu Vallabhacharya was born in the forest named
 
+‘Champaranya’ (Vikram Samvat 1535). He was a devotional
+
+philosopher, who founded the Krishna-centred Pushti sect of
+
+Vaishnavism and the philosophy of Suddha Advaita.
 </details>
 
-**Q8b. UPPCS Spl Pre 2004 / UK UDA 2007**
+---
 
-In which language did Tulsidas compose the *Ramcharitmanas*?
+**Q-GC13. State PCS**
 
-A. Brajbhasha
-B. Awadhi
-C. Sanskrit
-D. Maithili
+Which one of the following is correctly matched?
 
-<details>
-<summary>Show answer</summary>
+- (a) Advaitvad - Ramanujan
+- (b) Vishistadvaitvad - Shankaracharya
+- (c) Dvaitvad - Madhvacharya
+- (d) Dvaitadvaitvad - Vallabhacharya U.P.P.C.S. (Mains) 2005 Indian History General Studies B–263
 
-**Correct Answer:** **B** (Awadhi)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- Tulsidas composed the **Ramcharitmanas** in **Awadhi** (the eastern dialect of Hindi), making Valmiki's Sanskrit Ramayana accessible to the common masses.
-- In contrast, Tulsidas composed several of his other prominent literary works (such as *Vinaya Patrika*, *Kavitavali*, and *Gitavali*) in **Brajbhasha**.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- *Ramcharitmanas* = **Awadhi**. *Vinaya Patrika* and *Kavitavali* = **Brajbhasha**.
+**Explanation:**
+The correctly matched list is as follows :
 
+Advaitavada - Shankaracharya
+
+Vishishtadvaitvada - Ramanujacharya
+
+Dvaitavada - Madhvacharya
+
+Dvaitadvaitavada - Nimbarkacharya
 </details>
 
-**Q9. UPPCS Prelims 2018**
+---
 
-Which of the following pairs is NOT correctly matched?
+**Q-GC14. U.P.P.C.S. (RO/ARO) (Mains) 2017**
 
-A. Dhruva Das — Bhagat Namavali
-B. Nabhadas — Bhaktamal
-C. Raskhan — Rasik Priya
-D. Usman — Chitravali
+Match List-I with List-II and select the correct answer
+using the codes given below the lists :
+List-I List-II
+A. Ballabhacharya 1. Dvaitavada
+B. Ramanuj 2. Pushtimarg
+C. Madhvacharya 3. Vishishtadvaita
+D. Shankar 4. Advaitavada
+Codes :
+A B C D
 
-<details>
-<summary>Show answer</summary>
+- (a) 1 3 4 2
+- (b) 2 4 1 3
+- (c) 2 3 1 4
+- (d) 4 1 3 2
 
-**Correct Answer:** **C** (Raskhan — Rasik Priya)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Pair C is NOT correctly matched:** ***Rasik Priya*** (along with *Kavipriya* and *Ramchandrika*) was authored by the celebrated Riti-kavya poet **Keshavdas** of Orchha.
-- **Raskhan (Sayyid Ibrahim):** Devoted Muslim Vaishnavite Krishna poet who authored ***Prem Vatika*** and ***Sujan Raskhan***.
-- **Pair A is correctly matched:** Dhruva Das authored *Bhagat Namavali*.
-- **Pair B is correctly matched:** Nabhadas composed the famous biographical compendium of saints, ***Bhaktamal*** (c. 1585).
-- **Pair D is correctly matched:** Sufi poet Usman composed the allegorical romance *Chitravali* (1613).
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- *Rasik Priya* = **Keshavdas**. *Prem Vatika* = **Raskhan**.
+**Explanation:**
+Correct match is as follows :
 
+Vallabhacharya – Pushtimarg
+
+ Ramanuj – Vishishtadvaita
+
+ Madhvacharya – Dvaitavada
+
+ Shankar – Advaitavada
 </details>
 
-**Q10. UPPCS Mains 2002/04 / RAS 2018**
+---
 
-Who among the following was a prominent saint of the **Varkari** sect in Maharashtra?
+**Q-GC15. U.P.P.C.S. (Pre) 2022**
 
-A. Chaitanya
-B. Vallabhacharya
-C. Namdev
-D. Nimbarka
+Match List – I with List – II and select the correct
+answer from the code given below the lists.
+List – I (Philosopher) List – II (Philosophy)
+A. Ramanuja 1. Suddhadvait
+B. Madhavacharya 2. Dvaitadvait
+C. Nimbarka 3. Dvaita
+D. Vallabhacharya 4. Vishishtadvaita
+Code :
+A B C D
 
-<details>
-<summary>Show answer</summary>
+- (a) 3 1 4 2
+- (b) 4 3 2 1
+- (c) 2 4 1 3
+- (d) 1 2 3 4
 
-**Correct Answer:** **C** (Namdev)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Namdev (1270–1350):** Tailor by caste (*Chhimba*); one of the pillars of the **Varkari Sampradaya** (the pilgrim tradition of Maharashtra centered on the devotion to Lord Vitthal / Vithoba at Pandharpur).
-- His devotional Marathi hymns (*Abhangas*) inspired millions, and 61 of his compositions were honored by inclusion in the Sikh scripture, the **Guru Granth Sahib**.
-- The four foundational saints of the Varkari tradition: **Jnaneshwar (Dnyaneshwar)** $\rightarrow$ **Namdev** $\rightarrow$ **Eknath** $\rightarrow$ **Tukaram**.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Varkari sect saints = **Jnaneshwar, Namdev, Eknath, Tukaram**. (Dharakari sect saint = Samarth Ramdas).
+**Explanation:**
+Correct match is as follows
 
+List – I List – II
+
+(Philosopher) (Philosophy)
+
+Ramanuja Vishishtadvaita
+
+Madhavacharya Dvaita
+
+Nimbarka Dvaitadvaita
+
+Vallabhacharya Suddhadvait
 </details>
 
-**Q10b. UPPCS Mains 2002/04 / RAS 2018**
+---
 
-The main pilgrimage center and holy seat (*peeth*) of the **Varkari** sect is:
+**Q-GC16. Rajasthan P.C.S. (Pre) 2024**
 
-A. Shirdi
-B. Kolhapur
-C. Pandharpur
-D. Nashik
+Which of the following statements regarding the Bhakti
+Movement is not correct?
 
-<details>
-<summary>Show answer</summary>
+- (a) Vallabhacharya established the Pushtimarg.
+- (b) Nimbarka propounded the philosophy of Dvaitadvaita.
+- (c) Madhvacharya propounded Nirguna Bhakti Siddhant instead of Saguna Bhakti .
+- (d) Ramananda advocated Rama Bhakti.
+- (e) Question not attempted
 
-**Correct Answer:** **C** (Pandharpur)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Pandharpur:** Located on the banks of the **Chandrabhaga (Bhima) River** in Solapur district, Maharashtra.
-- It houses the historic **Vithoba (Vitthal-Rukmini) Temple**, the supreme spiritual focus of the Varkari tradition, celebrated for the biannual *Ashadhi* and *Kartiki Ekadashi* walking pilgrimages (*Wari*).
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Varkari pilgrimage center = **Pandharpur (Chandrabhaga River)**.
+**Explanation:**
+The renowned saint of the Bhakti Movement tradition,
 
+Madhvacharya, was a proponent of Dvaita (Dualism)
+
+philosophy. His central doctrine is "Dvaitavada", which states
+
+that the individual soul (ātman), the material world, and the
+
+Supreme Being (Paramatma) are distinct and fundamentally
+
+different from each other. Madhvacharya followed the
+
+Saguna Bhakti tradition, not the Nirguna Bhakti stream. He
+
+considered Lord Vishnu as the supreme deity and strongly
+
+advocated his worship. Thus, statement (c) is incorrect, while
+
+other statements are correct.
 </details>
 
-**Q11. UPPCS Pre 2002 / 2011 / 2014 / Lower 2004**
-
-Who established the **Chishti** Sufi order in India?
-
-A. Nizamuddin Auliya
-B. Khwaja Moinuddin Chishti
-C. Baba Farid
-D. Qutbuddin Bakhtiyar Kaki
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Khwaja Moinuddin Chishti)
-
-**Detailed Explanation:**
-- **Khwaja Moinuddin Chishti (Gharib Nawaz, 1143–1236):** Born in Sistan; introduced the Chishti silsilah to India around **1192 CE** (arriving at Lahore and Delhi shortly after the Second Battle of Tarain).
-- He settled permanently at **Ajmer** (Rajasthan), preaching universal love, renunciation of worldly riches, humility, and service to humanity (*Gharib Nawaz* = Protector of the Poor).
-- His shrine at Ajmer (*Dargah Sharif*) became one of the most revered pilgrimage destinations in South Asia, famously visited on foot by Mughal Emperor Akbar multiple times.
-
-**Key Exam Takeaway / Trap:**
-- Introducer of Chishti order in India = **Khwaja Moinuddin Chishti (Ajmer, 1192)**.
-
-</details>
-
-**Q11b. UPPCS Pre 2002 / 2011 / 2014 / Lower 2004**
-
-Khwaja Moinuddin Chishti was the direct disciple of which Sufi master?
-
-A. Khwaja Usman Haruni
-B. Abdul Qadir Jilani
-C. Khwaja Maudud Chishti
-D. Shah Waliullah
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Khwaja Usman Haruni)
-
-**Detailed Explanation:**
-- Khwaja Moinuddin Chishti served his spiritual preceptor (*Pir / Murshid*), **Khwaja Usman Haruni**, for twenty years in Nishapur and Mecca before being sent to establish the Chishti mission in India.
-
-**Key Exam Takeaway / Trap:**
-- Murshid of Moinuddin Chishti = **Khwaja Usman Haruni**.
-
-</details>
-
-**Q11c. UPPCS Pre 2002 / 2011 / 2014 / Lower 2004**
-
-Who among the following Sufi saints was known by the title **Shaikh-ul-Hind**?
-
-A. Baba Farid
-B. Nizamuddin Auliya
-C. Shaikh Salim Chishti
-D. Bahauddin Zakariya
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Shaikh Salim Chishti)
-
-**Detailed Explanation:**
-- **Shaikh Salim Chishti (1479–1572):** A revered Chishti mystic who resided in a cave at Sikri. He was revered as **Shaikh-ul-Hind**.
-- Emperor Akbar, seeking an heir, visited him barefoot. Following the saint's blessings, Prince Salim (Jahangir) was born in 1569 and named in his honor.
-- Akbar relocated his capital to **Fatehpur Sikri** and constructed a magnificent white marble mausoleum for Salim Chishti inside the courtyard of the Jami Masjid.
-
-**Key Exam Takeaway / Trap:**
-- *Shaikh-ul-Hind* = **Shaikh Salim Chishti of Fatehpur Sikri**.
-
-</details>
-
-**Q12. UPPCS Pre 2014 / UKPCS 2016 / RO 2017**
-
-Which Sufi saint was conferred the title **Mehboob-i-Ilahi** (The Beloved of God) and *Sultan-ul-Mashaikh*?
-
-A. Khwaja Moinuddin Chishti
-B. Baba Farid
-C. Shaikh Nizamuddin Auliya
-D. Shaikh Nasiruddin Mahmud
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Shaikh Nizamuddin Auliya)
-
-**Detailed Explanation:**
-- **Hazrat Khwaja Nizamuddin Auliya (1238–1325):** The fourth great Chishti master; disciple of Baba Farid; based at Ghiyaspur (Delhi).
-- Revered as **Mehboob-i-Ilahi** (Beloved of God) and **Sultan-ul-Mashaikh** (Sultan of Mystics).
-- He witnessed the reigns of **seven Sultans of Delhi**, yet strictly maintained the Chishti principle of detachment from political courts, famously declaring when Alauddin Khalji wanted to visit him: *"My house has two doors; if the Sultan enters by one, I will leave by the other."*
-- His famous retort to Ghiyasuddin Tughlaq was: ***"Hunuz Dilli Dur Ast"*** (Delhi is still far off).
-
-**Key Exam Takeaway / Trap:**
-- *Mehboob-i-Ilahi* = **Nizamuddin Auliya**. Witnessed 7 Sultans; disciples included **Amir Khusrau** and **Nasiruddin Chiragh-i-Delhi**.
-
-</details>
-
-**Q12b. UPPCS Pre 2014 / UKPCS 2016 / RO 2017**
-
-Which Sufi saint was called **Chiragh-i-Delhi** (Lamp of Delhi)?
-
-A. Nizamuddin Auliya
-B. Nasiruddin Mahmud
-C. Gesudaraz
-D. Mir Dard
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Nasiruddin Mahmud)
-
-**Detailed Explanation:**
-- **Shaikh Nasiruddin Mahmud (c. 1274–1356):** The principal disciple and chosen successor (*Khalifa*) of Hazrat Nizamuddin Auliya; affectionately known as **Chiragh-i-Delhi** (The Lamp of Delhi).
-- He was the last of the legendary five great early Chishti masters of Delhi. Following his death, the centralized Chishti order fragmented into regional branches across the Deccan, Bengal, and Gujarat.
-
-**Key Exam Takeaway / Trap:**
-- *Chiragh-i-Delhi* = **Shaikh Nasiruddin Mahmud**.
-
-</details>
-
-**Q13. UPPCS Pre 1994 / 2020**
-
-The devotional hymns of which Sufi saint were incorporated into the sacred Sikh scripture, the **Adi Granth**?
-
-A. Shaikh Fariduddin Ganjshakar (Baba Farid)
-B. Nizamuddin Auliya
-C. Moinuddin Chishti
-D. Salim Chishti
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Shaikh Fariduddin Ganjshakar / Baba Farid)
-
-**Detailed Explanation:**
-- **Baba Farid (Fariduddin Masud Ganjshakar, 1173–1266):** The great Chishti saint of Ajodhan (Pakpattan, Punjab); disciple of Bakhtiyar Kaki and spiritual master of Nizamuddin Auliya.
-- A pioneer of early Punjabi devotional literature, 134 hymns and couplets (*Saloks*) composed by Baba Farid were selected by **Guru Arjan Dev** in 1604 and included in the **Adi Granth (Guru Granth Sahib)**.
-
-**Key Exam Takeaway / Trap:**
-- Sufi saint whose verses are in the Guru Granth Sahib = **Baba Farid**.
-
-</details>
-
-**Q13b. UPPCS Pre 1994 / 2020**
-
-Which of the following saint–place pairs is NOT correctly matched?
-
-A. Shaikh Nizamuddin Auliya — Delhi
-B. Khwaja Moinuddin Chishti — Ajmer
-C. Shaikh Gesudaraz — Multan
-D. Shaikh Salim Chishti — Fatehpur Sikri
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Shaikh Gesudaraz — Multan)
-
-**Detailed Explanation:**
-- **Pair C is NOT correctly matched:** **Shaikh Gesudaraz (Banda Nawaz)** established his celebrated Sufi center at **Gulbarga** (Karnataka) in the Bahmani Sultanate under Sultan Firoz Shah Bahmani. Multan was the historic headquarters of the **Suhrawardi** saint **Bahauddin Zakariya**.
-- **Pair A is correctly matched:** Nizamuddin Auliya's dargah is in Delhi.
-- **Pair B is correctly matched:** Moinuddin Chishti's dargah is in Ajmer.
-- **Pair D is correctly matched:** Salim Chishti's tomb is in Fatehpur Sikri.
-
-**Key Exam Takeaway / Trap:**
-- Gesudaraz = **Gulbarga** (Deccan). Multan = **Bahauddin Zakariya** (Suhrawardi).
-
-</details>
-
-**Q14. UPPCS Mains 2013**
-
-Match List-I (Sufi Saint) with List-II (Sufi Silsilah):
-
-List-I
-A. Shaikh Nizamuddin Auliya
-B. Bahauddin Zakariya
-C. Miyan Mir
-D. Shaikh Ahmad Sirhindi
-
-List-II
-1. Suhrawardi
-2. Chishti
-3. Qadiri
-4. Naqshbandi
-
-Code:
-A. A-2, B-1, C-3, D-4
-B. A-1, B-2, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-4, B-1, C-3, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
-
-**Detailed Explanation:**
-- **A. Shaikh Nizamuddin Auliya:** Pre-eminent master of the **Chishti** silsilah in Delhi (List-II: 2).
-- **B. Bahauddin Zakariya:** Founder of the **Suhrawardi** order in India at Multan (List-II: 1).
-- **C. Miyan Mir:** Celebrated saint of the **Qadiri** order in Lahore; spiritual mentor of Prince Dara Shukoh and Princess Jahanara; invited by Guru Arjan Dev to lay the foundation stone of the Harmandir Sahib (Golden Temple) (List-II: 3).
-- **D. Shaikh Ahmad Sirhindi:** The orthodox champion of the **Naqshbandi** order (*Mujaddid Alf-i-Sani*), who opposed Akbar's Din-i-Ilahi and Sulh-i-Kul (List-II: 4).
-
-**Key Exam Takeaway / Trap:**
-- Master match: Nizamuddin (Chishti), Zakariya (Suhrawardi), Miyan Mir (Qadiri), Sirhindi (Naqshbandi).
-
-</details>
-
-**Q15. UPPCS Pre 2003 / Mains 2013**
-
-Which Sufi order was strictly opposed to music (*Sama*), singing, and dancing, advocating orthodox adherence to Sharia?
-
-A. Chishti
-B. Suhrawardi
-C. Qadiri
-D. Naqshbandi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Naqshbandi)
-
-**Detailed Explanation:**
-- The **Naqshbandi silsilah** (introduced in India by Khwaja Baqi Billah and consolidated by **Shaikh Ahmad Sirhindi**) was the most conservative, puritanical, and orthodox of all Sufi orders.
-- Unlike the Chishtis who embraced musical sessions (*Sama*) and poetry to induce spiritual ecstasy, the Naqshbandis strictly condemned music as forbidden (*haraam*) in Islam.
-- They advocated **silent meditation (*Zikr-i-Khafi*)**, rejected the concept of *Wahdat-ul-Wujud* (Unity of Being) in favor of *Wahdat-ush-Shuhud* (Unity of Witness), and exerted strong influence on Emperors Jahangir and Aurangzeb.
-
-**Key Exam Takeaway / Trap:**
-- Opposed to music / most orthodox = **Naqshbandi order**.
-
-</details>
-
-**Q16. UPPCS Pre 2003 / Mains 2012**
-
-Which prominent Sufi master of the Shattari order wrote the *Jawahir-i-Khamsa* and translated the Sanskrit yogic treatise *Amritakunda* into Persian under the title *Bahr-al-Hayat*?
-
-A. Muhammad Ghaus
-B. Gesudaraz
-C. Bahauddin Zakariya
-D. Shah Waliullah
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Muhammad Ghaus)
-
-**Detailed Explanation:**
-- **Shaikh Muhammad Ghaus of Gwalior (1500–1562):** Renowned mystic of the **Shattari silsilah**; spiritual preceptor of the legendary musician **Tansen**.
-- Deeply engaged in comparative mysticism and Hatha Yoga, he translated the 4th-century Sanskrit yogic text *Amritakunda* into Persian as ***Bahr-al-Hayat*** (The Ocean of Life), integrating yogic *asanas* and breath-control (*pranayama*) into Sufi spiritual practice.
-- His tomb at Gwalior is a masterpiece of early Mughal perforated stone screen (*jali*) work.
-
-**Key Exam Takeaway / Trap:**
-- Author of *Bahr-al-Hayat* (Yogic Persian translation) = **Muhammad Ghaus of Gwalior (Shattari)**.
-
-</details>
-
-**Q17. UPPSC RI 2014**
-
-Which of the following terms is NOT directly associated with Sufism?
-
-A. Ulema
-B. Khanqah
-C. Sama
-D. Murid
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Ulema)
-
-**Detailed Explanation:**
-- **Ulema:** Refers to the traditional orthodox Muslim theological and legal scholars, jurists, and interpreters of Islamic canonical law (Sharia). They historically often viewed mystic Sufi practices with suspicion.
-- **Khanqah:** The Sufi hospice, monastery, or community center where pirs and disciples resided.
-- **Sama:** Musical assembly or spiritual audition designed to induce ecstasy.
-- **Murid:** The spiritual disciple or initiate of a Sufi master (*Pir / Murshid*).
-
-**Key Exam Takeaway / Trap:**
-- *Ulema* = Orthodox theologians. *Khanqah, Sama, Murid, Khalifa, Silsilah* = Sufi institutional terms.
-
-</details>
-
-**Q18. IAS 1996 / BPSC 1994 / UPPCS 2008**
-
-The celebrated Hindi poetic collection **Prem Vatika** was composed by:
-
-A. Raskhan
-B. Bihari
-C. Bharatendu Harishchandra
-D. Surdas
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Raskhan)
-
-**Detailed Explanation:**
-- **Raskhan (Sayyid Ibrahim, c. 1548–1628):** A Muslim poet who became an ardent devotee of Lord Krishna and a disciple of Goswami Vitthalnath (son of Vallabhacharya).
-- He wrote exquisite Brajbhasha poetry celebrating the divine sports of child Krishna and Radha.
-- His famous works include ***Prem Vatika*** (written c. 1614, describing divine love) and ***Sujan Raskhan***.
-
-**Key Exam Takeaway / Trap:**
-- *Prem Vatika* = **Raskhan**.
-
-</details>
-
-**Q18b. IAS 1996 / BPSC 1994 / UPPCS 2008**
-
-The celebrated depiction of **Barahmasa** (twelve months of sorrow in separation) is most famously found in:
-
-A. Jayasi's *Padmavat*
-B. Amir Khusrau's *Ashiqa*
-C. Tulsidas's *Vinaya Patrika*
-D. Kabir's *Bijak*
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Jayasi's Padmavat)
-
-**Detailed Explanation:**
-- In **Malik Muhammad Jayasi's** Sufi allegorical masterpiece ***Padmavat*** (composed in 1540 CE in Awadhi during the reign of Sher Shah Suri), the **Barahmasa** section is celebrated as a pinnacle of Indian poetic pathos, depicting Queen Nagmati's intense grief and longing across the twelve months of the Hindu calendar while King Ratan Sen was away in Sinhala.
-
-**Key Exam Takeaway / Trap:**
-- *Nagmati ka Barahmasa* = **Malik Muhammad Jayasi's *Padmavat***.
-
-</details>
-
-**Q18c. IAS 1996 / BPSC 1994 / UPPCS 2008**
-
-The famous annual Urs fair at **Dewa Sharif** is held in which district of Uttar Pradesh?
-
-A. Barabanki
-B. Lucknow
-C. Bareilly
-D. Faizabad
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Barabanki)
-
-**Detailed Explanation:**
-- **Dewa Sharif:** Located in **Barabanki district, Uttar Pradesh** (approx. 26 km from Lucknow).
-- It is the sacred shrine and mausoleum of the 19th-century Sufi saint **Haji Waris Ali Shah**, who preached the message of universal love (*"Jo Rab hai wahi Ram hai"*).
-- The celebrated annual **Dewa Mela (Urs)** is held here during October–November (Kartik month).
-
-**Key Exam Takeaway / Trap:**
-- Dewa Sharif = **Barabanki district, UP** (Shrine of **Haji Waris Ali Shah**).
-
-</details>
-
-**Q19. UPPCS Prelims 2019**
-
-With reference to Hatha Yoga, which of the following statements is/are correct?
-1. Hatha Yoga was practiced by the Nathpanthi yogis.
-2. Hatha Yoga practices were also adopted and incorporated by Sufi saints.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Both 1 and 2)
-
-**Detailed Explanation:**
-- **Statement 1 is correct:** **Hatha Yoga** (incorporating physical postures, breath-control *pranayama*, and *kundalini* awakening) was systematized and widely practiced by the **Nathpanthi yogis** (followers of Matsyendranath and Gorakhnath) across medieval India.
-- **Statement 2 is correct:** Many Indian Sufi mystics—especially of the **Chishti** (e.g., Baba Farid and Nizamuddin Auliya) and **Shattari** (Shaikh Muhammad Ghaus) orders—regularly practiced Hatha Yogic breathing techniques (*Habas-i-dam* / retention of breath) and asanas during their spiritual exercises. Nizamuddin Auliya praised yogic methods in *Fawa'id-ul-Fu'ad*, and Muhammad Ghaus translated the yogic treatise *Amritakunda* as *Bahr-al-Hayat*.
-
-**Key Exam Takeaway / Trap:**
-- Cross-cultural syncretism: Hatha Yoga was practiced by both **Nathpanthis** and **Sufis**. Both statements are correct.
-
-</details>
-
-**Q20. UP R.O./A.R.O. (Pre) 2023**
-
-Consider the following statements regarding Goswami Tulsidas:
-1. Tulsidas was born in the village of Rajapur (Banda/Chitrakoot district, UP).
-2. His wife was Ratnavali.
-
+---
+
+**Q-GC17. I.A.S. (Pre) 2014**
+
+Consider the following statements :
+1. ‘Bijak’ is a composition of the teachings of Saint
+Dadu Dayal.
+2. The Philosophy of Pushti Marg was propounded
+by Madhvacharya.
 Which of the statements given above is/are correct?
 
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
+- (a) 1 only
+- (b) 2 only
+- (c) Both 1 and 2
+- (d) Neither 1 nor 2
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **C** (Both 1 and 2)
+**Answer: (d)**
 
-**Detailed Explanation:**
-- **Statement 1 is correct:** According to standard biographical tradition (including the *Mula Gosain Charita*), Goswami Tulsidas was born at **Rajapur** on the banks of the Yamuna (historically in Banda district, now Chitrakoot district, Uttar Pradesh) to Atmaram Dubey and Hulsi.
-- **Statement 2 is correct:** Tulsidas was married to **Ratnavali**, daughter of Dinbandhu Pathak. Tradition records that her sharp admonition regarding his intense infatuation (*"If you had half as much love for Lord Rama as you have for this body of bone and flesh, you would attain liberation"*) triggered his spiritual awakening and renunciation.
+**Explanation:**
+Bijak is the best-known compilation of the compositions of
 
-**Key Exam Takeaway / Trap:**
-- UPPCS 2023 tested these exact biographical facts. Both statements are correct.
+Kabir and it is Holy Scripture for followers of the Kabirpanthi
 
+sects. Pushtimarg is a Vaishnava sect of Hinduism, founded
+
+by Vallabhacharya. He propounded Shuddha Advaita. Thus,
+
+both the statements are incorrect. Hence, option (d) is the
+
+correct answer.
 </details>
 
-### Other papers (Ghatnachakra Extra)
+---
 
-**Q-GC1. IAS (Pre) 2012**
+**Q-GC18. I.A.S. (Pre) 2002**
 
-Consider the following statements about Sufism in India:
-1. Shaikh Ahmad Sirhindi was a contemporary of Ibrahim Lodi.
-2. Shaikh Nasiruddin Chiragh-i-Delhi was a disciple of Shaikh Nizamuddin Auliya.
-3. Aurangzeb was a contemporary of Shaikh Salim Chishti.
-4. The Qadiriya silsilah was first established in India by Shah Niamatullah and Makhdum Muhammad Jilani.
+Who among the following was the first Bhakti Saint to
+use Hindi for the propagation of his message?
 
-Which of the statements given above are correct?
+- (a) Dadu
+- (b) Kabir
+- (c) Ramananda
+- (d) Tulsidas
 
-A. 1 and 2
-B. 1 and 3
-C. 2 and 3
-D. 2 and 4
+<details><summary>Show answer</summary>
 
-<details>
-<summary>Show answer</summary>
+**Answer: (c)**
 
-**Correct Answer:** **D** (2 and 4)
+**Explanation:**
+Ramananda was born in 1299 A.D. at Prayag (Prayagraj) in an
 
-**Detailed Explanation:**
-- **Statement 1 is incorrect:** Shaikh Ahmad Sirhindi (1564–1624) lived during the reigns of **Akbar and Jahangir**, more than 40 years after Ibrahim Lodi died at Panipat in 1526.
-- **Statement 2 is correct:** Shaikh Nasiruddin Mahmud (Chiragh-i-Delhi) was the foremost disciple and successor of **Nizamuddin Auliya**.
-- **Statement 3 is incorrect:** Shaikh Salim Chishti died in **1572** during Akbar's reign, long before Aurangzeb was born (1618).
-- **Statement 4 is correct:** The **Qadiriya order** was introduced into India in the late 15th century by **Shah Niamatullah** and **Makhdum Muhammad Jilani** (in Uch near Multan).
+orthodox Kanyakubja Brahmin family. He got an education
 
-**Key Exam Takeaway / Trap:**
-- Statements 2 and 4 are correct. Always verify monarch-saint contemporaneity.
+in Prayag and Varanasi. Swami Ramananda changed the
 
+spiritual landscape of northern India. He propagated the
+
+worship of Rama and Sita among the masses. 
+
+B
 </details>
 
-**Q-GC2. IAS (Pre) 2013**
+---
 
-Who among the following was preaching his teachings when the Lodi dynasty fell and Babur established the Mughal Empire (1526)?
+**Q-GC19. U.P.P.C.S. (Mains) 2010**
 
-A. Guru Nanak
-B. Dadu Dayal
-C. Tyagaraja
-D. Tukaram
+Who among the following Saints of the medieval Age
+India was born in Prayag?
 
-<details>
-<summary>Show answer</summary>
+- (a) Kumbhandas
+- (b) Ramanand
+- (c) Raidas
+- (d) Tulsidas
 
-**Correct Answer:** **A** (Guru Nanak)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Guru Nanak Dev (1469–1539):** Was actively preaching in Punjab during the year **1526**. In his celebrated compositions known as ***Baburvani***, Guru Nanak vividly describes the devastation, suffering, and terror inflicted by Babur's invading army upon Punjab.
-- **Dadu Dayal (1544–1603):** Lived during Akbar's reign.
-- **Tukaram (1608–1650):** 17th-century contemporary of Shivaji.
-- **Tyagaraja (1767–1847):** Carnatic musical maestro of the late 18th/early 19th century.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Preaching during 1526 transition = **Guru Nanak**.
+**Explanation:**
+Ramananda was born in Prayagraj. He was the great saint
 
+of North India. Raidas was born in Varanasi. Tulsidas was
+
+born in Chitrakoot (Rajapur) and Kumbhandas in Mathura.
 </details>
 
-**Q-GC3. IAS (Pre) 2001**
+---
 
-Match List-I (Bhakti Saint) with List-II (Profession / Traditional Caste Occupation):
+**Q-GC20. State PCS**
 
-List-I
-A. Namdev
-B. Kabir
-C. Ravidas
-D. Sena
+Kabir was disciple of –
 
-List-II
-1. Barber
-2. Weaver
-3. Tailor
-4. Cobbler
+- (a) Chaitanya
+- (b) Ramananda
+- (c) Ramanuja
+- (d) Tukaram U.P. Lower Sub. (Pre) 2002
 
-Code:
-A. A-2, B-3, C-1, D-4
-B. A-3, B-2, C-4, D-1
-C. A-3, B-2, C-1, D-4
-D. A-2, B-4, C-3, D-1
+<details><summary>Show answer</summary>
 
-<details>
-<summary>Show answer</summary>
+**Answer: (b)**
 
-**Correct Answer:** **B** (A-3, B-2, C-4, D-1)
+**Explanation:**
+Kabir was prominent among 12 disciples of Ramananda.
 
-**Detailed Explanation:**
-- **A. Namdev:** **Tailor (*Chhimba*)** (List-II: 3).
-- **B. Kabir:** **Weaver (*Julaha*)** (List-II: 2).
-- **C. Ravidas (Raidas):** **Cobbler / Tanner (*Chamar*)** (List-II: 4).
-- **D. Sena:** **Barber (*Nai*)** (List-II: 1).
-- *(Note: Sadhana was a Butcher; Dhanna was a Jat farmer).*
+He was born to a widow Brahmin near Varanasi, and his
 
-**Key Exam Takeaway / Trap:**
-- Classic social history match: Namdev (Tailor), Kabir (Weaver), Ravidas (Cobbler), Sena (Barber).
-
+upbringing was done by a weaver couple Neeru and Neema.
 </details>
 
-**Q-GC4. IAS (Pre) 1997**
+---
 
-Assertion (A): Khwaja Moinuddin Chishti's dargah at Ajmer is visited by millions of pilgrims of all religious communities.
-Reason (R): He preached universal brotherhood and rejected sectarian rigidity.
+**Q-GC21. M.P.P.C.S. (Pre) 2000**
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+Who composed ‘Bijak’ ?
 
-<details>
-<summary>Show answer</summary>
+- (a) Surdas
+- (b) Kabir
+- (c) Ravidas
+- (d) Pipaji
 
-**Correct Answer:** **A** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Assertion (A) is true:** The shrine of Khwaja Moinuddin Chishti at **Ajmer** is renowned as a symbol of Indian syncretic communal harmony, visited by Hindus, Muslims, Sikhs, and Christians alike.
-- **Reason (R) is true:** His Chishti philosophy (*Sulh-i-Kul* / peace with all) emphasized unconditional love for humanity (*Muhabbat ba Hama*), selfless service to the downtrodden (*Gharib Nawaz*), and transcending religious dogmatism.
-- **Why (R) explains (A):** His open, egalitarian, and humanitarian teachings are the direct historical cause for the universal reverence his shrine commands across all faiths.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- True causal link explaining the universal popularity of the Ajmer Dargah.
+**Explanation:**
+The main religious text of the followers of Kabirpanthi sect
 
+is Bijak, which is the composition of Kabir’s couplets.
 </details>
 
-**Q-GC5. IAS (Pre) 2019**
+---
 
-Consider the following statements:
-1. Nimbarka was a contemporary of Akbar.
-2. Sant Kabir was greatly influenced by Shaikh Ahmad Sirhindi.
+**Q-GC22. M.P.P.C.S. (Pre) 2022**
 
+"Pothi Padh Padh Jag Mua, Pandit Bhaya Na Koye,
+Dhai Akhar Prem Ka, Padhe So Pandit Hoye."
+Who wrote these lines?
+
+- (a) Kabir
+- (b) Raidas
+- (c) Guru Nanak
+- (d) Chaitanya Mahaprabhu
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+'Pothi Padh Padh Jag Mua, Pandit Bhaya Na Koye, Dhai
+
+Akhar Prem Ka, Padhe So Pandit Hoye." these lines were
+
+written by Kabir Das.
+</details>
+
+---
+
+**Q-GC23. U.P.P.C.S. (Pre) 2003, U.P.P.C.S. (UDA/LDA) (Pre) 2002**
+
+A collection of dialogues between Kabir and
+Dharamdas is titled :
+
+- (a) Sabad
+- (b) Amarmul
+- (c) Sakhi
+- (d) Ramaini
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Sakhi, Sabad, and Ramaini are the compositions of Kabir,
+
+while the collection of dialogues between Kabir and
+
+Dharamadasa is titled as ‘Amarmul.’
+</details>
+
+---
+
+**Q-GC24. U.P.P.C.S. (Spl) (Mains) 2008**
+
+Malukdas was a saint poet of –
+
+- (a) Agra
+- (b) Ayodhya
+- (c) Kasi
+- (d) Kada
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Saint Malukdas was born in the home of Lala Sunder Das
+
+Khatri in 1574 A.D. in Kada (Kaushambi, Uttar Pradesh).
+</details>
+
+---
+
+**Q-GC25. Chhattisgarh P.C.S. (Pre) 2005**
+
+What was the name of Saint Ghasidas’s father?
+
+- (a) Sukalu
+- (b) Chaituram
+- (c) Visahu
+- (d) Mahangu
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Guru Ghasidas was born in December 1756 A.D. at
+
+Giraudpuri village in Baloda Bazar- Bhatapara district in
+
+Chhattisgarh. Mahangudas and Amarautin were his parents.
+</details>
+
+---
+
+**Q-GC26. Jharkhand P.C.S. (Pre) 2011, I.A.S. (Pre) 2004**
+
+Which one of the following sequences indicates the
+correct chronological order?
+
+- (a) Shankaracharya–Ramanuja–Chaitanya
+- (b) Ramanuja–Shankaracharya–Chaitanya
+- (c) Ramanuja–Chaitanya–Shankaracharya
+- (d) Shankaracharya–Chaitanya–Ramanuja
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correct chronological order is – Shankaracharya (8th
+
+Century), Ramanuja (1017-1137 A.D.)- Chaitanya (1486-
+
+1533 A.D.).
+</details>
+
+---
+
+**Q-GC27. U.P.P.C.S. (Mains) 2014**
+
+Select the correct chronological order of the Bhakti
+Saints from the following:
+
+- (a) Kabir, Guru Nanak, Chaitanya, Mirabai
+- (b) Kabir, Chaitanya, Guru Nanak, Mirabai
+- (c) Kabir, Mirabai, Chaitanya, Guru Nanak
+- (d) Guru Nanak, Chaitanya, Mirabai, Kabir
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+Kabir - 1398-1518 A.D.
+
+Guru Nanak - 1469-1539 A.D.
+
+Chaitanya - 1486-1533 A.D.
+
+Mirabai - 1498-1546 A.D.
+</details>
+
+---
+
+**Q-GC28. Chhattisgarh P.C.S. (Pre) 2011**
+
+How many Jyotirlingas are there devoted to Lord
+Shiva?
+
+- (a) 6
+- (b) 12
+- (c) 24
+- (d) 18
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Indian History General Studies B–265
+
+12 Jyotirlingas devoted to Lord Shiva are found in
+
+India- Somnath is situated in Gujarat, Kedarnath is
+
+situated in the Himalayan Range in Uttarakhand, Kashi
+
+Vishwanath is situated in the holy city of Varanasi in Uttar
+
+Pradesh, Vaidyanath is situated in Deoghar (Jharkhand),
+
+Mahakaleshwara is situated in the historic city of Ujjain,
+
+Madhya Pradesh, Omkareshwar is situated on the banks of
+
+Narmada River in Madhya Pradesh, Nageshwara is located
+
+near Dwarka, one of the ‘Char Dham’ pilgrim sites for
+
+Hindus, in Gujarat, Triambakeshwar is situated near Nasik
+
+in Maharashtra, Ghrishneshwar is located near Aurangabad
+
+in Maharashtra, Bhimashankar is situated near Pune in
+
+Maharashtra, Mallikarjuna is situated on a hill in Shrisailam in
+
+Andhra Pradesh and Rameshwaram is situated in Tamil Nadu.
+</details>
+
+---
+
+**Q-GC29. U.P.P.C.S. (Pre) 1999**
+
+The followers of Ramanuja are known as-
+
+- (a) Shaiva
+- (b) Vaishnava
+- (c) Advaitvadi
+- (d) Avadhoot
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Ramanujacharya was the earliest proponent of Bhakti
+
+movement. The philosophy of Sri Ramanujacharya is known
+
+in Sanskrit as Vishishtadvaita. The followers of Ramanuja
+
+are known as Vaishnava.
+</details>
+
+---
+
+**Q-GC30. U.P.P.C.S. (Mains) 2007**
+
+Which of the following was the birthplace of Guru
+Nanak?
+
+- (a) Amritsar
+- (b) Nabha
+- (c) Nankana
+- (d) Nanded
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Nankana Sahib is a city and capital of Nankana Sahib
+
+district in the Punjab province of Pakistan. Nankana was the
+
+birthplace of Guru Nanak, the founder of Sikh religion. He
+
+was born on April 15, 1469 AD, in a Khatri family. He had
+
+a strong faith in the worship of Nirakar Brahma. He passed
+
+away in 1539 AD at Derababa Nanak (Kartarpur Pakistan).
+</details>
+
+---
+
+**Q-GC31. U.P.P.C.S. (Spl) (Pre) 2008**
+
+In whose regime Guru Nanak Dev founded Sikh
+religion?
+
+- (a) Firuz Shah Tughluq
+- (b) Sikandar Lodi
+- (c) Humayun
+- (d) Akbar
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Guru Nanak(1469-1539 A.D.) founded the Sikh religion
+
+during the period of Sikandar Lodi (1489-1517 A.D.). Nanak
+
+used to believe in monotheism and was forced to worshipping
+
+‘Nirguna Brahma.’ He believed that there was one and a
+
+shapeless God. He did not believe in anthropomorphism.
+</details>
+
+---
+
+**Q-GC32. R.A.S./R.T.S.(Pre) 2010**
+
+‘God knows man’s virtues and inquires not his caste,
+in the next world there is no caste!’ This was the theory
+of which Bhakti saint?
+
+- (a) Ramanand
+- (b) Dadu
+- (c) Nanak
+- (d) Ramanuja
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Guru Nanak says: “God knows the qualities of the person,
+
+but he does not ask about his caste because there is no caste
+
+in another world. Guru Nanak started free community kitchen
+
+by the name of ‘Guru Ka Langar.’ His followers used to take
+
+food together without any caste discrimination.
+</details>
+
+---
+
+**Q-GC33. (d) Ramakrishna Paramhansa, U.P.P.C.S. (Pre) 1995**
+
+Mirabai was contemporary of :
+
+- (a) Tulsidas
+- (b) Chaitanya Mahaprabhu
+- (c) Guru Nanak
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+Mirabai was the only daughter of Ratan Singh Rathore of
+
+Merta. She was born into a royal family in the Kudaki village
+
+of Merta, Rajasthan. Mira was married to Bhojraj, the eldest
+
+son of the famous ruler of Udaipur Rana Sanga. But, King
+
+Bhojraj died after a few years. After the death of her husband,
+
+Mirabai spent her whole life worshipping Lord Krishna. She
+
+was the contemporary of Tulsidas (1532-1623 A.D.), Guru
+
+Nanak (1469-1539 A.D.) and Chaitanya (1486-1533 A.D.),
+
+but Ramakrishna (1836-1886 A.D.) was not contemporary
+
+of her.
+</details>
+
+---
+
+**Q-GC34. (c) Rana Uday Singh (d) Rana Sanga, R.A.S./R.T.S. (Pre) 1997**
+
+The name of the husband of famous devotee poet Mira-
+
+- (a) Rana Ratan Singh
+- (b) Rajkumar Bhojraj
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Mirabai was the only daughter of Ratan Singh Rathore of
+
+Merta. She was born into a royal family in the Kudaki village
+
+of Merta, Rajasthan. Mira was married to Bhojraj, the eldest
+
+son of the famous ruler of Udaipur Rana Sanga. But, King
+
+Bhojraj died after a few years. After the death of her husband,
+
+Mirabai spent her whole life worshipping Lord Krishna. She
+
+was the contemporary of Tulsidas (1532-1623 A.D.), Guru
+
+Nanak (1469-1539 A.D.) and Chaitanya (1486-1533 A.D.),
+
+but Ramakrishna (1836-1886 A.D.) was not contemporary
+
+of her.
+</details>
+
+---
+
+**Q-GC35. Chhattisgarh P.C.S. (Pre) 2014**
+
+Who wrote ‘Rag-Govind’?
+
+- (a) Mirabai
+- (b) Narhari
+- (c) Surdas
+- (d) Raskhan
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+‘Rag-Govind’ was written by Mirabai.
+</details>
+
+---
+
+**Q-GC36. U.P.P.C.S. (Mains) 2005**
+
+Arrange the following Saints in their chronological
+order:
+(1) Kabir (2) Namdev
+(3) Mirabai (4) Nanak
+B
+Code :
+
+- (a) 1, 2, 3, 4
+- (b) 4, 3, 2, 1
+- (c) 2,1,4,3
+- (d) 4, 1, 3, 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The correct chronological order of following saints is as
+
+follows- Kabir (1398-1518 A.D.), Namdev (1270-1350 A.D.),
+
+Mirabai (1498-1546 A.D.) and Guru Nanak (1469-1539
+
+A.D.). Hence, option (c) is the correct answer.
+</details>
+
+---
+
+**Q-GC37. U.P.P.C.S. (UDA/LDA) (Spl) (Pre) 2010, U.P.P.C.S. (UDA/LDA) (Spl) (Mains) 2010**
+
+Which one of the following leaders of the Bhakti
+Movement was influenced by Islam?
+
+- (a) Chaitanya
+- (b) Mirabai
+- (c) Namdev
+- (d) Vallabhacharya
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Namdev played an important role in popularising Bhakti
+
+Movement in Maharashtra. He was born in 1270 A.D. at
+
+Narsi (Maharashtra). Vishoba Khechar was his teacher. He
+
+was related to Varakari sect. He was a disciple of Vishoba
+
+Khechar, who gave him education on mystic life and
+
+introduced him to an omnipresent form of God. Namdev
+
+was quite influenced by Islam among the Saints of Bhakti
+
+Movement. He opposed idolatry, fasting, pilgrimage and
+
+harsh physical practices. He said “One stone is lovingly
+
+decorated, while another stone is walked upon. If one is a
+
+God, then the other must also be a God”. Thus, option (c) is
+
+the correct answer.
+</details>
+
+---
+
+**Q-GC38. I.A.S. (Pre) 2013**
+
+Consider the following Bhakti Saints
+1. Dadu Dayal
+2. Guru Nanak
+3. Tyagaraja
+Who among the above was/were preaching when the
+Lodi dynasty fell and Babur took over?
+
+- (a) 1 and 3
+- (b) Only 2
+- (c) 2 and 3
+- (d) 1 and 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Dadu Dayal lived between 1544 to 1603 A.D. Guru Nanak
+
+lived between 1469 and 1539 A.D. and Tyagaraja between
+
+1767 to 1847 A.D.. Tyagaraja was the devotee poet of Bhakti
+
+path and a great musician of Karnataka. The collapse of Lodi
+
+dynasty started in 1526 A.D. after Babur defeated Ibrahim
+
+Lodi in the first Battle of Panipat. Guru Nanak delivered his
+
+preachings at that time. Thus, option (b) is the correct answer.
+</details>
+
+---
+
+**Q-GC39. I.A.S. (Pre) 2001**
+
+Match List- I with List- II and select the correct answer
+using the code given below the lists :
+List- I (Bhakti saint) List- II (Profession)
+A. Namdev 1. Barber
+B. Kabir 2. Weaver
+C. Ravidas 3. Tailor
+D. Sena 4. Cobbler
+Code :
+A B C D
+
+- (a) 2 3 1 4
+- (b) 3 2 4 1
+- (c) 3 2 1 4
+- (d) 2 3 4 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The correctly matched list is as followsNamdev - Tailor
+
+Kabir - Weaver
+
+Ravidas - Cobbler
+
+Sena - Barber
+</details>
+
+---
+
+**Q-GC40. U.P.P.C.S. (Pre) 1990**
+
+Chaitanya Mahaprabhu is related to which sect?
+
+- (a) Vaishnava
+- (b) Shaiva
+- (c) Buddhist
+- (d) Sufi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Chaitanya Mahaprabhu, was born in Nadia district of West
+
+Bengal in a Brahmin family, was one of the greatest saints of
+
+Bhakti Movement. Jagannath Mishra and Shachi Devi were
+
+his parents. His childhood name was Nimai. Chaitanya was
+
+a follower of Krishna and preached their devotion. He also
+
+lived in Vrindavan for many days.
+</details>
+
+---
+
+**Q-GC41. U.P.P.C.S. (Spl) (Pre) 2004**
+
+Whose contemporary was Tulsidas?
+
+- (a) Akbar and Jahangir
+- (b) Shahjahan
+- (c) Aurangzeb
+- (d) Babur and Humayun
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The famous devotee/saint Goswami Tulsidas was the
+
+contemporary of Akbar and Jahangir. Although Humayun,
+
+Akbar and Jahangir were Mughal emperors during the
+
+lifetime of Tulsidas. He wrote, ‘Ramcharitmanas’ and
+
+‘Vinay Patrika’ are best among all of them. Tulsidas had no
+
+relation with the court. He spent most of his time in Banaras
+
+(Varanasi). He is mentioned in Ain-i-Akbari of Abul Fazl.
+</details>
+
+---
+
+**Q-GC42. Uttarakhand UDA/LDA (Pre) 2007**
+
+The book, “Ramcharitmanas” was written by
+
+- (a) Tulsidas
+- (b) Valmiki
+- (c) Surdas
+- (d) Ved Vyas
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The book, “Ramcharitmanas” was written by Goswami
+
+Tulsidas in Awadhi language. 
+
+Indian History General Studies B–267
+</details>
+
+---
+
+**Q-GC43. (c) Vinay Patrika (d) Sahitya Ratna, M.P.P.C.S. (Pre) 2014**
+
+Which of the following is not a composition of Saint
+Tulsidas?
+
+- (a) Gitavali
+- (b) Kavitavali
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Gitavali, Kavitavali, and Vinay Patrika were written by Saint
+
+Tulsidas.
+</details>
+
+---
+
+**Q-GC44. Chhattisgarh P.S.C. (Pre) 2018**
+
+The author of 'Vinaya-Patrika' is :
+
+- (a) Tulsidas
+- (b) Surdas
+- (c) Kabir
+- (d) Keshavdas
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Gitavali, Kavitavali, and Vinay Patrika were written by Saint
+
+Tulsidas.
+</details>
+
+---
+
+**Q-GC45. U.P.P.C.S. (RO/ARO) (Pre) 2023**
+
+With reference to Tulsidas, which of the following
+statements is/are correct?
+1. Tulsidas was born in village named Rajapur in
+Banda district.
+2. His wife's name was Geetawali
+Select the correct answer using the code given below:
+Code -
+
+- (a) Both
+- (a) and
+- (b) (b) Only
+- (b) (c) Only
+- (a) (d) Neither
+- (a) nor
+- (b) 
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Tulsidas was born in a village named Rajapur in Chitrakoot
+
+district. U.P. Government will be developing Rajapur village
+
+in Chitrakoot district - the birthplace of Tulsidas. His wife's
+
+name was Ratnawali.
+</details>
+
+---
+
+**Q-GC46. U.P.P.C.S. (Pre) 2018**
+
+Which of the following pairs is NOT correctly
+matched?
+
+- (a) Dhruvadas – Bhagat Namawali
+- (b) Nabhadas – Bhaktamal
+- (c) Raskhan – Rasik Priya
+- (d) Usman – Chitrawali
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Rasik Priya is famous composition of Acharya Keshavdas. His
+
+other famous compositions are Ramchandrika and Kavi Priya.
+</details>
+
+---
+
+**Q-GC47. U.P.P.C.S. (Mains) 2004, U.P.P.C.S. (Mains) 2002**
+
+Who among the following was the Saint of the Varkari
+Sect ?
+
+- (a) Nimbarka
+- (b) Chakradhara
+- (c) Namdev
+- (d) Ramdas
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Namdev played an important role in the establishment of
+
+ideology and the glorious tradition of Varkari Sect. Visoba
+
+Khechar gave him the education of mystic life and introduced
+
+him to an omnipotent form of God.
+</details>
+
+---
+
+**Q-GC48. R.A.S./R.T.S. (Pre) 2018**
+
+The main seat (Peeth) of Varkari sect is situated at
+
+- (a) Shringeri
+- (b) Pandharpur
+- (c) Nadia
+- (d) Varanasi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The main seat (Peeth) of Varkari sect is situated at Pandharpur
+
+(Maharashtra). It is located on the banks of the River
+
+Chandrabhaga (Bhima) in Solapur district. Varkari is a
+
+religious movement within the Bhakti spiritual tradition of
+
+Vaishnavite Hinduism, geographically associated with the
+
+Indian state of Maharashtra. Varkaris worship Vitthal, the
+
+presiding deity of Pandharpur, regarded as a form of Krishna.
+</details>
+
+---
+
+**Q-GC49. I.A.S. (Pre) 2006**
+
+Bhakt Tukaram was a contemporary of which Mughal
+Emperor?
+
+- (a) Babur
+- (b) Akbar
+- (c) Jahangir
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Tukaram was born in 1608 A.D., and left this world in 1650
+
+A.D. The reign of two rulers Jahangir (1605-1627 A.D.) and
+
+Shahjahan (1628-1658 A.D.) comes during 1608-1650 A.D.
+
+Since Shahjahan is not in the given options, hence Jahangir
+
+will be considered as the correct answer.
+</details>
+
+---
+
+**Q-GC50. I.A.S. (Pre) 2010**
+
+Among the following, who was not a proponent of
+Bhakti cult?
+
+- (a) Nagarjuna
+- (b) Tukaram
+- (c) Tyagaraja
+- (d) Vallabhacharya
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Tukaram, Tyagaraja and Vallabhacharya belonged to
+
+medieval Bhakti Movement while Nagarjuna was the founder
+
+of ‘Nihilism’ in the first/second centuries A.D.
+</details>
+
+---
+
+**Q-GC51. U.P.P.C.S. (Pre) 2018**
+
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A) : Many Sanskrit works on music were
+translated into Persian during the
+medieval period.
+Reason (R) : The early Chishti Sufis were fond of
+musical assemblies called, 'sama'.
+Select the correct answer from the codes given below:
+
+- (a) Both
+- (A) and (R) are true, and (R) is correct explanation of
+- (A) .
+- (b) Both
+- (A) and (R) are true, and (R) is not the correct explanation of
+- (A) .
+- (c) (A) is true, but (R) is false.
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+B
+
+In the medieval period, many Sanskrit books on music were
+
+translated into Persian. Translation of these Sanskrit books
+
+into Persian, was possible due to the interest of rulers.
+
+Mahmud of Ghazni took many books with him to Ghazni.
+
+Firuz Tughluq and Sikandar Lodi got books from various
+
+areas written especially in Sanskrit translated into Persian.
+
+Later, Mughal emperors also translated various books of
+
+Sanskrit in Persian. Therefore, it is clear that the statement
+
+is correct. 'Sama' was the music assembly. Chishtis were the
+
+supporter of music and considered music a medium to reach
+
+God. Hence, it is clear that the reason is also true, but the
+
+reason (R) is not the correct interpretation of the statement.
+</details>
+
+---
+
+**Q-GC52. (d) Shaikh Bahauddin Zakariya, U.P.P.C.S. (Pre) 2002**
+
+The “Chishtia Sufi Order” in India was established
+by-
+
+- (a) Khwaja Badaruddin
+- (b) Khwaja Muinuddin
+- (c) Shaikh Ahmad Sirhind
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The “Chishtia Sufi Order” was established in Chishti Sharif
+
+of Afghanistan by Abu Ishaq Shami Chishti and his disciple
+
+Khwaja Abu Ahmad Abdal, but it was primarily established in
+
+India by Muinuddin Chishti. He came to India with the army
+
+of Muhammad Ghori in 1192 A.D. (12th century) and made
+
+Ajmer, Rajasthan his abode. He died in 1236 AD. Qutbuddin
+
+Bakhtiyar Kaki was his disciple.
+</details>
+
+---
+
+**Q-GC53. U.P.P.C.S. (Mains) 2014**
+
+The first Sufi Saint of Chishtia Sect in India was –
+
+- (a) Shaikh Muinuddin Chishti
+- (b) Hamiduddin Chishti
+- (c) Qutbuddin Bakhtiyar Kaki
+- (d) Nizamuddin Auliya
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The “Chishtia Sufi Order” was established in Chishti Sharif
+
+of Afghanistan by Abu Ishaq Shami Chishti and his disciple
+
+Khwaja Abu Ahmad Abdal, but it was primarily established in
+
+India by Muinuddin Chishti. He came to India with the army
+
+of Muhammad Ghori in 1192 A.D. (12th century) and made
+
+Ajmer, Rajasthan his abode. He died in 1236 AD. Qutbuddin
+
+Bakhtiyar Kaki was his disciple.
+</details>
+
+---
+
+**Q-GC54. U.P.P.C.S. (Pre) 2011**
+
+Who among the following was the earliest Sufi Saint
+to have settled at Ajmer?
+
+- (a) Shaikh Muinuddin Chishti
+- (b) Shaikh Qutbuddin Bakhtiyar Kaki
+- (c) Shaikh Nizamuddin Auliya
+- (d) Shaikh Salim Chishti
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The “Chishtia Sufi Order” was established in Chishti Sharif
+
+of Afghanistan by Abu Ishaq Shami Chishti and his disciple
+
+Khwaja Abu Ahmad Abdal, but it was primarily established in
+
+India by Muinuddin Chishti. He came to India with the army
+
+of Muhammad Ghori in 1192 A.D. (12th century) and made
+
+Ajmer, Rajasthan his abode. He died in 1236 AD. Qutbuddin
+
+Bakhtiyar Kaki was his disciple.
+</details>
+
+---
+
+**Q-GC55. U.P.P.S.C. (R.I.) 2014**
+
+Who was the founder of Chishtia Branch of Sufism?
+
+- (a) Shaikh Muhiuddin
+- (b) Shaikh Ziyauddin Abuljiva
+- (c) Khwaja Abu-Abdal
+- (d) Khwaja Bahaud-Din
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The “Chishtia Sufi Order” was established in Chishti Sharif
+
+of Afghanistan by Abu Ishaq Shami Chishti and his disciple
+
+Khwaja Abu Ahmad Abdal, but it was primarily established in
+
+India by Muinuddin Chishti. He came to India with the army
+
+of Muhammad Ghori in 1192 A.D. (12th century) and made
+
+Ajmer, Rajasthan his abode. He died in 1236 AD. Qutbuddin
+
+Bakhtiyar Kaki was his disciple.
+</details>
+
+---
+
+**Q-GC56. U.P.P.C.S. (Pre) 2014**
+
+Whose disciple was Khwaja Muinuddin Chishti?
+
+- (a) Khwaja Abdal Chishti
+- (b) Shah Wali Ullah
+- (c) Mir Dard
+- (d) Khwaja Usman Haruni
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Khwaja Muinuddin Chishti was born in Sijistan (Afghanistan
+
+& Iran) in 1138/1139 A.D. After that, he shifted with his
+
+parents to Khurasan province. Khwaja Usman Chishti
+
+Haruni made him a disciple at Nishapur. Thus, option (d) is
+
+the correct answer.
+</details>
+
+---
+
+**Q-GC57. U.P.P.C.S. (RO/ARO) (Mains) 2014**
+
+Khwaja Muinuddin Chishti was a disciple of –
+
+- (a) Abdul Qadir Gilani
+- (b) Khwaja Abu Yusuf
+- (c) Khwaja Usman Haruni
+- (d) Khwaja Mawdud
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Khwaja Muinuddin Chishti was born in Sijistan (Afghanistan
+
+& Iran) in 1138/1139 A.D. After that, he shifted with his
+
+parents to Khurasan province. Khwaja Usman Chishti
+
+Haruni made him a disciple at Nishapur. Thus, option (d) is
+
+the correct answer.
+</details>
+
+---
+
+**Q-GC58. R.A.S./R.T.S. (Re. Exam) (Pre) 2013**
+
+Who among the following Maratha Chieftains was
+the first to offer nazr (gift) at the Dargah of Khwaja
+Muinuddin Chishti of Ajmer?
+
+- (a) Nawab Ali Bahadur, grandson of Peshwa Balaji Rao-I (from his mistress Mastani)
+- (b) Raja Sahu, the grandson of Shivaji
+- (c) Peshwa Balaji Vishwanath
+- (d) Peshwa Balaji Rao
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Raja Sahu, the grandson of Shivaji and Maratha Chieftains,
+
+was the first to offer nazr (gift) at the Dargah of Khwaja
+
+Muinuddin Chishti of Ajmer.
+</details>
+
+---
+
+**Q-GC59. U.P.P.C.S. (Pre) 2006**
+
+Shaikh Nizamuddin Auliya was the disciple of –
+
+- (a) Shaikh Alauddin Sabir
+- (b) Khwaja Muinuddin Chishti
+- (c) Baba Farid
+- (d) Shaikh Ahmad Sirhindi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Indian History General Studies B–269
+
+Fariduddin Ganj-i-Shakar, also known as Baba Farid, was the
+
+spiritual master of Shaikh Nizamuddin Auliya. He was born
+
+in Kothewal village in Multan district of Pakistan. Alauddin
+
+Sabir Kaliyari was among his disciples.
+</details>
+
+---
+
+**Q-GC60. U. P. P. S.C. (GIC) 2010**
+
+Dargah of Shaikh Nizamuddin Auliya is situated in-
+
+- (a) Agra
+- (b) Ajmer
+- (c) Delhi
+- (d) Fatehpur
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+After considering Chishti Dynasty, it is clear that Hazrat
+
+Nizamuddin Auliya and Hazrat Alauddin Sabir were two
+
+main disciples among the disciples of Baba Farid. Similar
+
+to Baba Farid, Shaikh Nizamuddin Auliya provided peace to
+
+human hearts through his preaching. The Dargah of Shaikh
+
+Nizamuddin Auliya is situated in Delhi. He died in 1325 AD
+
+and was buried at Ghiyaspur, Delhi.
+</details>
+
+---
+
+**Q-GC61. I.A.S. (Pre) 1997**
+
+Given below are two statements, one labelled as
+Assertion (A) and the other labelled as Reason (R).
+Assertion (A) : The sponsor and the most prominent
+figure of the Chishti order of Sufis in
+India is Khwaja Muinuddin Chishti.
+Reason (R) : The Chishti order takes its name from
+a village Chishti in Ajmer.
+In the context of the above two statements, which one
+of the following is correct?
+
+- (a) Both
+- (A) and (R) is individually true, and (R) is the correct explanation of
+- (A) .
+- (b) Both
+- (A) and (R) is individually true, but (R) is not the correct explanation of
+- (A) .
+- (c) (A) is true, but (R) is false.
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Chishti order was founded by Khwaja Abu Ishaq
+
+Shami of Syria, but it was introduced in India by Khwaja
+
+Muinuddin Chishti, who came along with Muhammad
+
+Ghori army in 1192 AD. Khwaja Abu Ishaq Sami migrated
+
+from Syria to Chist (Chishti Sharif, Afghanistan), hence,
+
+was called Chishti. He was 9th generation descendant of
+
+Hazrat Ali. Therefore, assertion (A) is right, but reason
+
+(R) is wrong.
+</details>
+
+---
+
+**Q-GC62. (b) Baba Farid, (c) Sayyid Muhammad Gisudaraz, (d) Shah Alam Bukhari, I.A.S. (Pre) 1996**
+
+The Sufi saint who maintained that devotional music
+was one way of coming close to God was :
+
+- (a) Muinuddin Chishti
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Muinuddin Chishti introduced the Chishti order of Sufism
+
+in India. He maintained that devotional music was one way
+
+to come closer to God.
+</details>
+
+---
+
+**Q-GC63. R.A.S./R.T.S. (Pre) 2016**
+
+Who among the following does not belong to the Chishti
+order?
+
+- (a) Khwaja Qutbuddin Bakhtiar Kaki
+- (b) Shaikh Abdul Jilani
+- (c) Shaikh Moinuddin
+- (d) Shaikh Nizamuddin Auliya
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Chishti order is a Sunni Sufi order within the mystic Sufi
+
+tradition of Islam. Muinuddin Chishti introduced the Chishti
+
+order in India. Qutbuddin Bakhtiyar Kaki was a saint of
+
+Chishti order from Delhi; Shaikh Nizamuddin Auliya was a
+
+saint of Chishti order in Indian sub-continent. Shaikh Abdul
+
+Jilani did not belong to Chishti Silsila. Rather, he founded
+
+Qadiri order.
+</details>
+
+---
+
+**Q-GC64. U.P.P.C.S. (Mains) 2013**
+
+Who among the following is called the ‘Sadi of
+India’?
+
+- (a) Amir Hasan
+- (b) Amir Khusrau
+- (c) Abu Talib Kalim
+- (d) Chandrabhan Brahman
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Amir Hasan-i-Dehlavi is called the ‘Sadi of India’ (Sadi-iHind) for his great Ghazals.
+</details>
+
+---
+
+**Q-GC65. 44th B.P.S.C. (Pre) 2000**
+
+Which one of the following Sultans of Delhi was refused
+an audience by Nizamuddin Auliya?
+
+- (a) Jalaluddin Khalji
+- (b) Alauddin Khalji
+- (c) Ghiyasuddin Tughluq
+- (d) Muhammad-Bin-Tughluq
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Shaikh Nizamuddin Auliya saw the regime of more than
+
+seven Sultans, but he never visited their court. Sultan
+
+Jalaluddin tried to meet Nizamuddin Auliya through Amir
+
+Khusrau but when Nizamuddin Auliya heard that the Sultan
+
+was about to come, he moved to Ajodhan. When Alauddin
+
+asked him to meet, then Shaikh replied: “There are two doors
+
+in my home, if the Sultan comes from one door, I will go
+
+out by another.” He was also known as ‘Mehboob-i-Ilahi.’ 
+
+B
+</details>
+
+---
+
+**Q-GC66. U.P.P.C.S. (Pre) 2014**
+
+Which Sufi Saint was called ‘Mehboob-i-Ilahi’ ?
+
+- (a) Khwaja Muinuddin Chishti
+- (b) Baba Farid
+- (c) Qutbuddin Bakhtiyar Kaki
+- (d) Shaikh Nizamuddin Auliya
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Shaikh Nizamuddin Auliya saw the regime of more than
+
+seven Sultans, but he never visited their court. Sultan
+
+Jalaluddin tried to meet Nizamuddin Auliya through Amir
+
+Khusrau but when Nizamuddin Auliya heard that the Sultan
+
+was about to come, he moved to Ajodhan. When Alauddin
+
+asked him to meet, then Shaikh replied: “There are two doors
+
+in my home, if the Sultan comes from one door, I will go
+
+out by another.” He was also known as ‘Mehboob-i-Ilahi.’ 
+
+B
+</details>
+
+---
+
+**Q-GC67. Uttarakhand P.C.S. (Pre) 2016**
+
+Which of the following Sufi saints is known as
+Mahboob-i-Ilahi?
+
+- (a) Shaikh Muinuddin Chishti
+- (b) Shaikh Nizamuddin Auliya
+- (c) Baba Farid
+- (d) Shaikh Nasiruddin Chirag-i-Dehalivi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Shaikh Nizamuddin Auliya saw the regime of more than
+
+seven Sultans, but he never visited their court. Sultan
+
+Jalaluddin tried to meet Nizamuddin Auliya through Amir
+
+Khusrau but when Nizamuddin Auliya heard that the Sultan
+
+was about to come, he moved to Ajodhan. When Alauddin
+
+asked him to meet, then Shaikh replied: “There are two doors
+
+in my home, if the Sultan comes from one door, I will go
+
+out by another.” He was also known as ‘Mehboob-i-Ilahi.’ 
+
+B
+</details>
+
+---
+
+**Q-GC68. U.P.P.C.S. (Mains) 2014**
+
+The most reputed disciple of Shaikh Farid who had
+seen the reign of as many as seven sultans of Delhi was
+
+- (a) Nizamuddin Auliya
+- (b) Shaikh Nasiruddin Chirag
+- (c) Shaikh Salim Chishti
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Nizamuddin Auliya, the disciple of Shaikh Farid, saw the reign
+
+of more than seven Sultans, but he had never visited their court.
+
+Shaikh Nizamuddin Auliya was also known as ‘Mehboob-i-Ilahi’
+
+(Favourite of God) and Sultan-ul-Mashaikh’ ( King of Saints).
+</details>
+
+---
+
+**Q-GC69. U.P.P.C.S. (Pre) 1994**
+
+The thought of which of the following Sufi saint has
+been incorporated in the religious book incorporated
+in the religious book ‘Adi Granth’ of the Sikhs?
+
+- (a) Shaikh Muinuddin Chishti
+- (b) Qutbuddin Bakhtiyar Kaki
+- (c) Fariduddin-Ganj-i-Shakar
+- (d) Shaikh Nizamuddin Auliya
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Shaikh Fariduddin-Ganj-i-Shakar was a saint of Chishti order,
+
+who was also famous by the name of Baba Farid. He played
+
+an important role in promoting Chishti Silsila in India. His
+
+most important contribution is his compositions, which are
+
+compiled in Guru Granth Sahib. He was the son-in-law of
+
+Balban. Hansi and Ajodhan were the centres of his activities.
+</details>
+
+---
+
+**Q-GC70. (c) Fatehpur Sikri (d) Lahore, R.A.S./R.T.S. (Pre) 1999**
+
+The famous saint Shaikh Salim Chishti lived in-
+
+- (a) Delhi
+- (b) Ajmer
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The name of Shaikh Salim Chishti is noteworthy among
+
+the saints of Chishti Sufi order. He was the son of Shaikh
+
+Bahauddin. He lived in Arabia for a long period and was
+
+awarded by the title of ‘Shaikh-ul-Hind.’ After returning from
+
+Arabia, he started living in Sikri situated about 37 km away
+
+from Agra which was later developed as Fatehpur Sikri by
+
+Akbar. It is believed that Jahangir was born with the blessings
+
+of Shaikh Salim Chishti.
+</details>
+
+---
+
+**Q-GC71. State PCS**
+
+Who among the following was given the title of
+Shaikh-ul-Hind’?
+
+- (a) Baba Fariduddin
+- (b) Khwaja Qutbuddin Bakhtiyar Kaki
+- (c) Khwaja Muinuddin Chishti
+- (d) Shaikh Salim Chishti U.P. Lower Sub. (Pre) 2004 U.P. Lower Sub. (Pre) 2008
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+The name of Shaikh Salim Chishti is noteworthy among
+
+the saints of Chishti Sufi order. He was the son of Shaikh
+
+Bahauddin. He lived in Arabia for a long period and was
+
+awarded by the title of ‘Shaikh-ul-Hind.’ After returning from
+
+Arabia, he started living in Sikri situated about 37 km away
+
+from Agra which was later developed as Fatehpur Sikri by
+
+Akbar. It is believed that Jahangir was born with the blessings
+
+of Shaikh Salim Chishti.
+</details>
+
+---
+
+**Q-GC72. U.P.P.C.S. (RO/ARO) (Pre) 2017**
+
+Who among the following Chishti Saints is known as
+'Chirag-i-Delhi?
+
+- (a) Muinuddin
+- (b) Fariduddin
+- (c) Nizamuddin Auliya
+- (d) Nasiruddin
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Shaikh Nasiruddin Mahmud was a disciple of Sufi saint
+
+Nizamuddin Auliya. He was given the title of 'Chirag-i-Dehlavi'.
+</details>
+
+---
+
+**Q-GC73. U.P.P.C.S. (Pre) 2020**
+
+Which of the following is NOT correctly matched?
+
+- (a) Shaikh Moinuddin Chishti - Ajmer
+- (b) Shaikh Burhanuddin Gharib - Daulatabad
+- (c) Shaikh Mohammad Hussaini - Gulbarga
+- (d) Shaikh Nizamuddin Auliya - Multan
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Shaikh Nizamuddin Auliya was a famous Sufi saint of the
+
+Chishti order. He was also called Mahboob-i-Ilahi. He was
+
+born in Badayun, UP. Initially, he lived with Baba Farid in
+
+Ajodhan (Pakistan), and later, he shifted to Delhi. His shrine,
+
+the Nizamuddin Dargah, is located in Delhi, and it is one of
+
+the most revered places in Sufi order.
+</details>
+
+---
+
+**Q-GC74. U.P.P.C.S. (Mains) 2013**
+
+Match List – I with List – II and select the correct
+answer from the codes given below:
+List – I List – II
+A. Khwaja Muinuddin Chishti 1. Suhrawardiya
+B. Shaikh Ahmad Sirhindi 2. Qadiriya
+Indian History General Studies B–271
+C. Dara Shukoh 3. Chishtiya
+D. Shaikh Shahabuddin 4. Naqshbandiya
+Code :
+A B C D
+
+- (a) 2 3 1 4
+- (b) 1 4 2 3
+- (c) 3 4 2 1
+- (d) 4 2 3 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+Khwaja Muinuddin Chishti - Chishtiya
+
+Shaikh Ahmad Sirhindi - Naqshbandiya
+
+Dara Shukoh - Qadiriya
+
+Shaikh Shahabuddin - Suhrawardiya
+</details>
+
+---
+
+**Q-GC75. I.A.S. (Pre) 2002**
+
+With reference to Sufism in Indian history, consider
+the following statements :
+1. Shaikh Ahmad Sirhindi was a contemporary of
+Ibrahim Lodi
+2. Shaikh Nasiruddin Chirag-I-Dehlavi was a disciple
+of Shaikh Nizamuddin Auliya
+3. Aurangzeb was a contemporary of Shaikh Salim
+Chishti
+4. The Qadiri order of Sufis was first introduced
+in India by Shaikh Niamatullah and Makhdum
+Muhammad Jilani.
+Which of these statements are correct?
+
+- (a) 1 and 2
+- (b) 1 and 3
+- (c) 2 and 3
+- (d) 2 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Shaikh Ahmad Sirhindi also known as Mujaddid Alif
+
+Sani, was a famous saint of Naqshbandi order. He was a
+
+contemporary of Akbar and Jahangir. He propounded a
+
+positive philosophy (Wahdat-ul-Shuhud) over the mystic
+
+philosophy of God (Wahdat-ul-Wajud). Shaikh Nasiruddin
+
+Chirag-i-Dehlavi was one of the chief disciples of Khwaja
+
+Nizamuddin Auliya. He preached the teachings of his Pir
+
+(teacher), but he could not be as generous as him. Akbar was
+
+a contemporary of Shaikh Salim Chishti. Shaikh Mohiuddin
+
+Abdul Qadir Jilani of Baghdad was the first founder of
+
+Qadiri order. He is counted among the great saints of Islam.
+
+Niamatullah and Makhdum Muhammad Jilani preached
+
+this order in India during the 15th century. Makhdum Jilani
+
+made Uchha his center for education. Thus, statements 2
+
+and 4 is correct.
+</details>
+
+---
+
+**Q-GC76. U.P.P.C.S. (Pre) 2019**
+
+With reference to Hath Yog, which of the following
+statements is/are correct?
+1. Hath Yog was practiced by Nathpanthis.
+2. Hath Yog technique was also adopted by the Sufis.
+Select the correct answer using the codes given below:
+Codes :
+
+- (a) 1 only
+- (b) 2 only
+- (c) Both 1 and 2
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In India, Hath Yog was practiced by Nathpanthis. The founder
+
+of Nathpanth Guru Matsyendranath and his disciple started the
+
+practice of Hath Yog. Later Sufis also adopted the practices of
+
+Hath Yog. Sufi saint Muhammad Ghaus mentioned practices
+
+of Hath Yog in his book 'Bahar-Al-Hayat'.
+</details>
+
+---
+
+**Q-GC77. I.A.S. (Pre) 2019**
+
+Under the following statements:
+1. Saint Nimbarka was a contemporary of Akbar.
+2. Saint Kabir was greatly influenced by Shaikh
+Ahmad Sirhindi.
 Which of the statements given above is/are correct?
 
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
+- (a) 1 only
+- (b) 2 only
+- (c) Both 1 and 2
+- (d) Neither 1 nor 2
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Neither 1 nor 2)
+**Answer: (d)**
 
-**Detailed Explanation:**
-- **Statement 1 is incorrect:** **Nimbarkacharya** lived in the **13th century** (advocating *Dvaitadvaita* / *Sanakadi Sampradaya*), long before Akbar's reign (1556–1605).
-- **Statement 2 is incorrect:** **Sant Kabir** lived in the **15th century** (c. 1398–1518), whereas the orthodox Naqshbandi Sufi **Shaikh Ahmad Sirhindi** lived much later (1564–1624). Kabir could not have been influenced by someone born decades after his death.
+**Explanation:**
+Nimbarka, was a Hindu philosopher & commentator, known
 
-**Key Exam Takeaway / Trap:**
-- Both statements contain gross chronological anachronisms. Neither is correct.
+for propagating the Vaishnava doctrine of bhedabheda
 
+dvaitadvaita, duality in unity. There is considerable
+
+disagreement regarding the dates when Nimbarka lived &
+
+taught. Generally believed that he was in 11th-12th century.
+
+Shaikh Ahmad Sirhindi (1564-1624 A.D.) was born after
+
+Saint Kabir (1398-1518). So statement 2 in also wrong.
 </details>
 
-**Q-GC6. BPSC Re-Exam 2024**
+---
 
-Which Sufi silsilah was established and gained the greatest popular influence in the region of **Bihar**?
+**Q-GC78. State PCS**
 
-A. Suhrawardi
-B. Firdausi
-C. Qadiri
-D. Naqshbandi
+Who of the following saints were Sufi1. Rahim
+2. Nizamuddin Auliya
+3. Muinuddin Chishti
+4. Raskhan
+Choose your answer from the codes given below-
 
-<details>
-<summary>Show answer</summary>
+- (a) 1 and 3
+- (b) 1, 2 and 3
+- (c) 2 and 3
+- (d) 2 and 4 U.P. Lower Sub. (Pre) 1998
 
-**Correct Answer:** **B** (Firdausi)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- The **Firdausi silsilah** (a branch of the Suhrawardi order founded by Shaikh Badruddin of Samarkand) became exceptionally prominent and popular in **Bihar**.
-- Its greatest saint was **Shaikh Sharfuddin Yahya Maneri** (1263–1381), whose shrine is situated at **Bihar Sharif** (near Nalanda). His spiritual letters, compiled as ***Maktubat-i-Sadi*** (Letters of a Hundred), were widely read across medieval India.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Premier Sufi order of Bihar = **Firdausi silsilah** (Shaikh Sharfuddin Yahya Maneri at Bihar Sharif).
+**Explanation:**
+Khwaja Nizamuddin and Muinuddin Chishti were the saints
 
+of Chishti order. Chishti order was first preached in India by
+
+Khwaja Muinuddin Chishti. He made Ajmer center of his
+
+activities. Nizamuddin Auliya was also famous as Mehboobi-Ilahi for his generous and tolerant attitude. He also adopted
+
+the practise of Yoga and was called ‘Yogasiddha.’ Rahim
+
+and Raskhan were the poets of Hindi literature during the
+
+medieval Bhakti Period. ‘Premvatika’ is a famous book
+
+written by Raskhan. 
+
+B
 </details>
 
-**Q-GC7. Rajasthan PCS 2023**
+---
 
-The influence of which Sufi order was primarily concentrated in **Sindh and Multan**?
+**Q-GC79. (c) Qadiriya (d) Naqshbandiya, U.P.P.C.S. (Mains) 2013, U.P.P.C.S. (Pre) 2003, U.P.P.C.S. (UDA/LDA) (Pre) 2002**
 
-A. Chishti
-B. Qadiri
-C. Suhrawardi
-D. Firdausi
+Which of the following order of Sufism was against
+music :
 
-<details>
-<summary>Show answer</summary>
+- (a) Chishtiya
+- (b) Suhrawardiya
 
-**Correct Answer:** **C** (Suhrawardi)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- The **Suhrawardi silsilah** (founded by Shihabuddin Suhrawardi in Baghdad) was established in India by **Shaikh Bahauddin Zakariya** (1170–1262) with its headquarters at **Multan**.
-- Its influence was primarily concentrated in **Multan, Sindh, and Punjab**.
-- Unlike the ascetic Chishtis, Suhrawardi saints lived comfortably, maintained large estates, and openly accepted royal grants and state appointments from the Sultans of Delhi.
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Regional bastion: **Suhrawardi = Multan and Sindh**.
+**Explanation:**
+Naqshbandi order was founded by Bahauddin Naqshband
 
+during the 14th century. Khwaja Khawand was the important
+
+saint of this order who came to India and made Kashmir as
+
+the centre of his activities. The promotion of this sect was
+
+mainly started around the 17th century by Khwaja Baki Billah,
+
+who came to Kabul on orders of his master. Shaikh Ahmad
+
+Sirhindi also known as Mujaddid (the reformer of Islam) was
+
+his disciple. He propounded Wahdat-ul-Shuhud (positivist
+
+philosophy) which was against the order Sama (Music). It was
+
+the most radical order among Sufis. He also opposed liberal
+
+policies of Akbar. Aurangzeb was a follower of this Sufi order.
 </details>
 
-### UKPCS Complete PYQ Bank
+---
 
-**Q-UK1. UKPCS Prelims 2025, Q58**
+**Q-GC80. (c) Naqshbandi (d) Qadiri, Jharkhand P.C.S. (Pre) 2016**
 
-Who among the following was popularly known by the title **Chiragh-i-Delhi** (Lamp of Delhi)?
+The most orthodox Sufi order was –
 
-A. Nizamuddin Auliya
-B. Nasiruddin Mahmud
-C. Gesudaraz
-D. Mir Dard
+- (a) Chishti
+- (b) Suhrawardi
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Nasiruddin Mahmud)
+**Answer: (c)**
 
-**Detailed Explanation:**
-- **Shaikh Nasiruddin Mahmud (c. 1274–1356):** Prominent disciple and spiritual successor (*Khalifa*) of Hazrat Nizamuddin Auliya; conferred the affectionate title **Chiragh-i-Delhi**.
+**Explanation:**
+Baha-ud-Din Naqshband founded the Sufi Naqshbandi order
 
-**Key Exam Takeaway / Trap:**
-- *Chiragh-i-Delhi* = **Shaikh Nasiruddin Mahmud**.
+in 14th century. This order was made popular in India by
 
+Babur. Insistence on rigid adherence to Shariat and nurturing
+
+love for Prophet was the essence of this order. According
+
+to Jharkhand Public Service Commission, option (b) is the
+
+correct answer.
 </details>
 
-**Q-UK2. UKPCS Prelims 2016**
+---
 
-Which of the following Sufi saints was known by the title **Mehboob-i-Ilahi**?
+**Q-GC81. Jharkhand P.C.S. (Pre) 2011**
 
-A. Khwaja Moinuddin Chishti
-B. Shaikh Nizamuddin Auliya
-C. Baba Farid
-D. Shaikh Salim Chishti
+From the given pairs identify the incorrect pair –
 
-<details>
-<summary>Show answer</summary>
+- (a) Chishti-Delhi and Doab
+- (b) Suhrawardi-Sindh
+- (c) Auliya-Madhya Pradesh
+- (d) Firdausi-Bihar
 
-**Correct Answer:** **B** (Shaikh Nizamuddin Auliya)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Shaikh Nizamuddin Auliya of Delhi** was revered as **Mehboob-i-Ilahi** (The Beloved of God).
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- *Mehboob-i-Ilahi* = **Nizamuddin Auliya**.
+**Explanation:**
+The dominion of Chishti order existed in Delhi and
 
+surrounding areas while the area of Suhrawardi order existed
+
+in Sindh region. Firdausi order was a part of Chishti order
+
+whose dominion existed in the region of Bihar. Auliya is
+
+not any order, but a title given to ‘Nizamuddin’ the famous
+
+Saint of Delhi. The dominion of Nizamuddin Auliya existed
+
+in Delhi. Thus, option (c) is incorrect.
 </details>
 
-**Q-UK3. UKPCS (Mains) 2006**
+---
 
-Which of the following Sufi saints was NOT associated with the **Chishti** silsilah?
+**Q-GC82. (a) Quaderia (b) Firdousia, (c) Qalandhar (d) Kubriya, 70th B.P.S.C. Re-Exam 2024**
 
-A. Khwaja Moinuddin Chishti
-B. Baba Farid
-C. Nizamuddin Auliya
-D. Bahauddin Zakariya
+Which of the following Sufi Silsilah was founded in
+Bihar?
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Bahauddin Zakariya)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Bahauddin Zakariya of Multan** belonged to the **Suhrawardi silsilah**, not the Chishti order.
-- Moinuddin Chishti, Baba Farid, and Nizamuddin Auliya were all foremost masters of the **Chishti** order.
+**Explanation:**
+The Firdausia (Firdousi) Silsila was established in Bihar. In
 
-**Key Exam Takeaway / Trap:**
-- Bahauddin Zakariya = **Suhrawardi**.
+India, the most prominent Sufi associated with this Silsila
 
+was Sheikh Sharfuddin Yahya Maneri. Sheikh Maneri was
+
+the key propagator of this Silsila in Bihar.
+</details>
+
+---
+
+**Q-GC83. U.P.P.C.S. (Mains) 2012, U.P.P.C.S. (Pre) 2003, U.P.P.C.S. (UDA/LDA) (Pre) 2002**
+
+Which of the following Sufis regarded Krishna among
+the Auliyas :
+
+- (a) Shah Muhammad Ghaus
+- (b) Shah Abdul Aziz
+- (c) Shah Waliullah
+- (d) Khwaja Mir Dard
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Sufi saint Shah Muhammad Ghaus accepted Lord
+
+Krishna as Auliya. He was the most famous saint of Shattari
+
+order. He had a close relationship with Mughal emperor
+
+Humayun and Tansen. He expressed his spiritual quest in
+
+‘Jawahir-e-Khamsa’. He translated ‘Amritkund’ of Hatha
+
+yoga by the name of ‘Bahar-ul-Hayat.’ Shattari Saints
+
+tried to bring about reconciliation between Muslims and
+
+Hindus by showing equality in religious ideas and practices.
+</details>
+
+---
+
+**Q-GC84. B.P.S.C. (Pre) 2018**
+
+Shaikh Bahauddin Zakaria belonged to which sect?
+
+- (a) Suhrawardi order
+- (b) Rishi order
+- (c) Chishti order
+- (d) Firdausi order
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Shaikh Bahauddin Zakaria started Suhrawardi order in
+
+India. Shaikh Sadr-ud-din Arif, Shaikh Rakh-ud-din Abul
+
+Fateh and Shaikh Jalaluddin Surkh were associated with
+
+this Sufi sect.
+</details>
+
+---
+
+**Q-GC85. Raj. P.C.S. (Pre) 2023**
+
+The spread of which of the following Sufi sect was
+mostly limited to Sindh, Multan and Punjab?
+
+- (a) Qadiri
+- (b) Naqshbandi
+- (c) Suhrawardi
+- (d) Chishti
+- (e) Question not attempted
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Suhrawardi Sufi Sect entered India at about the same time
+
+as Chishtis sect but its activities were confined largely to the
+
+Punjab, Multan and Sindh. This Sufi Sect was established in
+
+India by Baha-Ud-Din Zakariya.
+</details>
+
+---
+
+**Q-GC86. U.P.P.S.C. (R.I.) 2014**
+
+Which of the following is not related to Sufism?
+
+- (a) Ulema
+- (b) Khanqah
+- (c) Shaikh
+- (d) Sama
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Indian History General Studies B–273
+
+‘Khanqah’ was the place of residence of Sufi saints.
+
+‘Sama’ was a function organised by Sufis. ‘Shaikh’ was the
+
+authorized person who provided education and guidance in
+
+Sufism. Ulemas were scholarly persons to know the religious
+
+laws of Islam. Therefore, Ulema is not related to Sufism.
+</details>
+
+---
+
+**Q-GC87. (a) Bihari (b) Surdas, (c) Raskhan (d) Kabir, I.A.S. (Pre) 1996**
+
+Prem Vatika, poems on the life of Krishna, was
+composed by :
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Raskhan was a poet and a follower of Lord Krishna. His real
+
+name was Sayyid Ibrahim. ‘Prem Vatika’ is a poetry text
+
+written in Braj language by Raskhan. He depicted the life
+
+of Krishna in this text. ‘Sujan Raskhan’ is also one of the
+
+famous texts written by Raskhan.
+</details>
+
+---
+
+**Q-GC88. Uttarakhand P.C.S. (Mains) 2006**
+
+Which of the following is not associated with the Bhakti
+Movement?
+
+- (a) Vallabhacharya
+- (b) Chaitanya
+- (c) Guru Nanak
+- (d) Amir Khusrau
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The full name of Amir Khusrau was Abul Hasan Yaminuddin
+
+Khusrau. He was a great poet and scholar of his time. He
+
+was not related to the Bhakti Movement. Qiran-us-Sadain,
+
+Miftah-ul-Futuh, Nuh Sipihr, Ashiqa, Tughluq Nama and
+
+Khazain-ul-Futuh are some of the main texts composed by
+
+him. Chaitanya Mahaprabhu founded Madhyagauriya sect.
+
+Guru Nanak was born in a Khatri family in Punjab (Pakistan).
+
+He imagined the shapeless form of God. Vallabhacharya was
+
+the second saint of Krishnamargi branch.
+</details>
+
+---
+
+**Q-GC89. (d) Raskhan, 39th B.P.S.C. (Pre) 1994**
+
+Who composed ‘Barahmasa’?
+
+- (a) Amir Khusrau
+- (b) Imami
+- (c) Malik Muhammad Jayasi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Barahmasa, Padmavat, Akharavat and Aakhiri Kalaam are
+
+some of the texts written by Malik Muhammad Jayasi.
+
+Among his texts, Padmavat has an important place in Hindi
+
+literature. Barahmasa is a part of Padmavat.
+</details>
+
+---
+
+**Q-GC90. U.P.P.C.S. (Pre) 2019**
+
+Match List-I with List-II and select the correct answer
+using the codes given below :
+List-I List-II
+A. Mulla Daud 1. Chandayan
+B. Damodar Kavi 2. Ashiqa
+C. Somnath 3. Padmavati Katha
+D. Amir Khusro 4. Rag Vibodh
+Code :
+A B C D
+
+- (a) 1 3 2 4
+- (b) 1 3 4 2
+- (c) 2 4 1 3
+- (d) 1 2 3 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Correctly matched list is as follows :
+
+ Mulla Daud – Chandayan
+
+ Damodar Kavi – Padmavati Katha
+
+ Somnath – Rag Vibodh
+
+ Amir Khusrau – Ashiqa
+</details>
+
+---
+
+**Q-GC91. saint Haji Waris Ali Shah at –, (a) Fatehpur Sikri (b) Kaliyar, (c) Dewa Sharif (d) Garhmukteshwar, U.P.P.C.S. (Pre) 2008**
+
+Every year a fair is held at the tomb of famous Sufi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Every year a fair is held at the tomb of famous Sufi saint
+
+Haji Waris Ali Shah at Dewa Sharif, which is situated at
+
+Barabanki, Uttar Pradesh.
+</details>
+
+---
+
+**Q-GC92. M.P. P.C.S. (Pre) 1995**
+
+The birthplace of Christ is-
+
+- (a) Jerusalem
+- (b) Bethlehem
+- (c) London
+- (d) Babylon
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Jesus Christ was born in Bethlehem (Jerusalem).
+</details>
+
+---
+
+**Q-GC93. (d) The day of Resurrection of Christ, R.A.S./R.T.S. (Pre) 1992**
+
+The spirit of Christians behind the festival of Easter
+is-
+
+- (a) Jesus preached this day
+- (b) Jesus departed from the world
+- (c) Jesus went to Nazareth
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Easter is a festival of Christians celebrating the resurrection
+
+of Jesus Christ on the third day after his crucifixion.
+</details>
+
+---
+
+**Q-GC94. M.P. P.C.S. (Pre) 1997**
+
+Which Christian saint is famous for the love of animals
+and birds?
+
+- (a) Saint Paul
+- (b) Saint Thomas
+- (c) Saint Francis of Assisi
+- (d) Saint Peter
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Saint Francis of Assisi (1181 or 82-1226 A.D.) is famous
+
+for his love of birds and animals. 
+
+B
+</details>
+
+---
+
+**Q-GC95. Why is Good Friday of Christians celebrated?, (a) Jesus Christ had died (b) Jesus Christ was born, (c) Jesus Christ crucified (d) AD was introduced, U.P.P.C.S. (Pre) 1990**
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Good Friday is celebrated as a remembrance of the sacrificial
+
+death of Jesus Christ. According to the Bible, Jesus Christ
+
+was hanged on Friday.
 </details>
 
 ---

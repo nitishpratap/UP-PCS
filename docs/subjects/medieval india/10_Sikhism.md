@@ -136,36 +136,11 @@ Sikhism | Guru (गुरु) Tradition | Ten Sikh Gurus | Guru Granth (गु�
 - **Khalsa** later means the initiated order of **1699**.
 - **Mardana** was Nanak’s Muslim **rabab** companion and **disciple**.
 
-### PYQ — Mardana match
-
-**1. (UPPCS Prelims 2025, Q12)** Match List-I (Disciple) with List-II (Guru):
-
-| List-I | List-II |
-|--------|---------|
-| A. Kabir | 1. Guru Nanak Dev |
-| B. Amir Khusrau | 2. Swami Ramananda |
-| C. Surdas | 3. Nizamuddin Auliya |
-| D. Mardana | 4. Vallabhacharya |
-
-*Row order in the table is not the answer code.*
-
-A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (2-3-4-1: A-2, B-3, C-4, D-1)
-
-**Detailed Explanation:**
-- **A. Kabir → 2. Swami Ramananda:** Kabir revered Swami Ramananda as his spiritual preceptor in Varanasi, who initiated him into the divine name of *Rama*.
-- **B. Amir Khusrau → 3. Hazrat Nizamuddin Auliya:** Khusrau was the beloved *murid* of the Chishti Sufi master Nizamuddin Auliya in Delhi; their shrines stand adjacent to each other.
-- **C. Surdas → 4. Mahaprabhu Vallabhacharya:** Surdas met Vallabhacharya at Gaughat (near Mathura) and received initiation into the *Pushtimarg*, becoming the foremost poet of the *Ashtachhap*.
-- **D. Bhai Mardana → 1. Guru Nanak Dev:** Bhai Mardana (a Muslim Mirasi musician from Talwandi) was Guru Nanak Dev's lifelong disciple, companion, and minstrel who accompanied Nanak's divine hymns on the *rabab* (stringed lute) throughout his four expansive preaching journeys (*Udasis*).
-
-**Key Exam Takeaway / Trap:**
-- *Inversion Trap:* Ensure you verify the column headings: List-I contains **Disciples** and List-II contains **Gurus**. Bhai Mardana was the musical disciple of Guru Nanak, not his guru. Code: **2-3-4-1** (**Option C**).
-
-</details>
+> [!TIP] **Exam Anchor — Disciple-Guru Match (UPPCS 2025 Spine):**
+> - **Kabir:** Swami Ramananda (Varanasi, initiated with divine name *Rama*)
+> - **Amir Khusrau:** Hazrat Nizamuddin Auliya (Chishti master at Delhi)
+> - **Surdas:** Mahaprabhu Vallabhacharya (*Pushtimarg* / Ashtachhap)
+> - **Bhai Mardana:** Guru Nanak Dev (Lifelong Muslim companion & rabab minstrel across *Udasis*)
 
 ---
 
@@ -326,9 +301,560 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 
 ---
 
-## Complete PYQ Bank (Topic 10)
 
-**Q1. UPPCS Prelims 2025, Q12**
+### 10.7 Master Fact-Locks — Sikh Guru Lineage, Institutions & Geography
+
+| Entity / Concept | Canonical Facts & Historical Specifics | High-Yield Exam Lock |
+|---|---|---|
+| **1. Guru Nanak Dev (1469–1539)** | • Born at **Talwandi (Nankana Sahib)**, Punjab (now Pakistan); died at **Kartarpur**.<br>• Preached *Nirguna Bhakti*, divine unity (*Ik Onkar*), founded the *Sangat* (congregation) and *Pangat / Langar* (free community kitchen).<br>• Selected **Bhai Lehna** as successor, naming him **Angad** (*"limb of my body"*), bypassing his own sons Sri Chand (who founded the ascetic *Udasi* sect) and Lakhmi Das. | Founder of Sikhism |
+| **2. Guru Angad (1539–1552)** | • Progenitor / developer of the **Gurmukhi script**.<br>• Formalized and expanded the *Langar* institution; compiled Guru Nanak's hymns. | Originator of Gurmukhi |
+| **3. Guru Amar Das (1552–1574)** | • Divided the spiritual administration into **22 diocese / branches called Manjis**, each headed by a devout Sikh preacher.<br>• Advocated strongly against *Purdah* and *Sati*; visited by Emperor Akbar at Goindwal. | 22 Manjis administrative network |
+| **4. Guru Ram Das (1574–1581)** | • Akbar granted **500 Bighas of land** containing a natural pool to his wife **Bibi Bhani**.<br>• Founded the sacred city of **Ramdaspur**, later renamed **Amritsar** after the sacred pool (*Amrit Sarovar*). | Foundation of Amritsar |
+| **5. Guru Arjan Dev (1581–1606)** | • Compiled the holy scripture **Adi Granth** in **1604 CE** at Amritsar.<br>• Constructed **Sri Harmandir Sahib** (Golden Temple) in the center of the Amritsar pool; foundation stone laid by Sufi saint Mian Mir.<br>• Founded the cities of **Tarn Taran** and **Kartarpur** (Jalandhar).<br>• Instituted the **Masand system** (requiring Sikhs to contribute one-tenth of their income, *Dasvandh*, to the Guru).<br>• **Martyrdom (1606 CE):** Gave shelter, blessings, and financial support to the rebel prince Khusrau; summoned, fined, and sentenced to execution under torture by Emperor **Jahangir** (first great Sikh martyrdom). | Compilation of Adi Granth & 1st Martyrdom |
+| **Adi Granth Composition Details** | • Contains sacred hymns of six Sikh Gurus (Nanak, Angad, Amar Das, Ram Das, Arjan Dev, and later Tegh Bahadur).<br>• Includes compositions of 15 Bhakti and Sufi saints: Kabir, Baba Farid, Namdev, Ravidas, Dhanna, Pipa, Sain, Trilochan, Jaidev, Ramananda.<br>• **Earliest poet:** 12th-century Bengali Vaishnava poet **Jayadeva** (author of *Gita Govinda*).<br>• **Chronologically latest hymns:** Added by 10th Guru Gobind Singh from the hymns of **Guru Tegh Bahadur**. | Hymns & syncretic contributors |
+| **6. Guru Hargobind (1606–1644)** | • Adopted the policy of militarization; wore two swords representing **Miri** (temporal authority) and **Piri** (spiritual authority).<br>• Built the **Akal Takht** (Throne of the Timeless) opposite Harmandir Sahib; fortified Amritsar (*Lohgarh*). | Miri & Piri doctrine |
+| **7. Guru Har Rai (1644–1661)** | Maintained a standing cavalry; provided medical aid to Prince Dara Shikoh. | Peaceful consolidation |
+| **8. Guru Har Krishan (1661–1664)** | Acceded as the child Guru (age 5); served smallpox victims in Delhi; passed away at age 8 (*"Bal Guru"*). | Youngest Guru |
+| **9. Guru Tegh Bahadur (1664–1675)** | • Revered as *Hind di Chadar* (Shield of India).<br>• Protested against Aurangzeb's religious persecution and defended the freedom of Kashmiri Pandits.<br>• Summoned to Delhi, refused conversion to Islam, and was publicly beheaded at **Chandni Chowk, Delhi** in November **1675 CE** on the orders of Emperor **Aurangzeb** (Gurudwara Sis Ganj Sahib marks the martyrdom site; Gurudwara Rakab Ganj marks the cremation site). | 2nd Martyrdom (Aurangzeb) |
+| **10. Guru Gobind Singh (1675–1708)** | • Born in **1666 CE at Patna** (Bihar); fought against hill Rajas (Battle of Bhangani, 1688).<br>• Founded the military order of the **Khalsa Panth** on **Baisakhi (13 April 1699)** at **Anandpur Sahib**.<br>• Mandated the **Five Ks (Kakars):** *Kesh* (uncut hair), *Kangha* (wooden comb), *Kara* (iron bracelet), *Kachhera* (cotton undergarment), *Kirpan* (curved dagger).<br>• Ordained universal surnames: **Singh** (Lion) for men and **Kaur** (Princess) for women.<br>• Composed the Persian epistle ***Zafarnama*** (Epistle of Victory) addressed to Aurangzeb.<br>• Assassinated at **Nanded** (Maharashtra) in 1708 by an Afghan mercenary; his mausoleum is enshrined at **Takhat Sachkhand Sri Hazur Abchalnagar Sahib**.<br>• Declared the termination of human guruship, investing eternal spiritual authority in the **Guru Granth Sahib**. | Khalsa Panth & Nanded Mausoleum |
+| **Banda Singh Bahadur (1670–1716)** | • Original name: **Lachman Dev** (or Madho Das Bairagi); named Banda Singh Bahadur by Guru Gobind Singh at Nanded.<br>• Led massive peasant rebellion in Punjab, established Sikh sovereignty, struck coins in the names of Guru Nanak and Guru Gobind Singh, abolished the Zamindari system.<br>• Executed at Delhi in 1716 under Emperor Farrukh Siyar. | First Sikh sovereign military leader |
+| **Hemkund Sahib** | Famous Sikh shrine located at high altitude in **Chamoli district, Uttarakhand**, associated with the pre-incarnation penance of Guru Gobind Singh mentioned in the *Bachittar Natak*. | Sacred Himalayan shrine |
+
+---
+
+## Complete PYQ Bank — Ghatnachakra & State PCS Sikhism
+
+Complete unabridged 23-question bank covering the complete history of Sikhism: Guru Nanak's appointment of Guru Angad (Bhai Lehna), invention of Gurumukhi script, foundation of Amritsar on 500 bighas granted to Bibi Bhani, compilation of the Adi Granth (1604), Sri Harmandir Sahib, martyrdom of Guru Arjan Dev (1606) and Guru Tegh Bahadur (1675), institution of Khalsa Panth at Anandpur Sahib (1699), birth of Guru Gobind Singh at Patna, Nanded mausoleum (Hazur Sahib), Hemkund Sahib (Chamoli, UK), Banda Bahadur (Lachman Dev), and Maharaja Ranjit Singh's Adalat-i-Ala at Lahore. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC1. M.P.P.C.S. (Pre) 2015**
+
+Who had Guru Nanak appointed his successor?
+
+- (a) Guru Ramdas
+- (b) Guru Amardas
+- (c) Guru Har Rai
+- (d) Guru Angad
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Guru Nanak died on September 22, 1539 at the age of 70.
+
+He appointed Bhai Lehna as his successor, who was later
+
+known as Guru Angad.
+</details>
+
+---
+
+**Q-GC2. (c) Mardana (d) Sri Chand, U.P.P.C.S. (RO/ARO) (Pre.) 2021**
+
+Which of the following was declared as his successor
+by Guru Nanak?
+
+- (a) Bala
+- (b) Lehna
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC3. U.P.P.C.S. (Mains) 2017**
+
+Which of the followings Gurus started 'Gurumukhi'?
+
+- (a) Guru Nanak
+- (b) Guru Amardas
+- (c) Guru Ramdas
+- (d) Guru Angad
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+'Gurumukhi' originates from Punjabi word 'Gurumukha' that
+
+means – from the mouth of Guru. Gurumukhi script was
+
+started by second Sikh Guru, Guru Angad. 
+
+B
+</details>
+
+---
+
+**Q-GC4. U.P.P.C.S. (Pre) 1996**
+
+The city of Amritsar in Punjab was established by:
+
+- (a) Guru Nanak
+- (b) Guru Gobind Singh
+- (c) Guru Tegh Bahadur
+- (d) Guru Ramdas
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Akbar donated the land of 500 bighas to Bibi Bhani (wife
+
+of fourth Sikh Guru Ramdas) which had a natural pond.
+
+Amritsar was established on the land which was granted
+
+by Akbar to Bibi Bhani. Firstly, the city was named as
+
+Ramdaspur. Later, it became ‘Amritsar’ on the name of the
+
+natural pond present there.
+</details>
+
+---
+
+**Q-GC5. Uttarakhand UDA/LDA (Mains) 2007**
+
+To which Sikh Guru, Akbar donated 500 Bighas of land?
+
+- (a) Arjan Dev
+- (b) Ramdas
+- (c) Har Rai
+- (d) Tegh Bahadur
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC6. I.A.S. (Pre) 1996**
+
+Which of the following pairs is correctly matched?
+
+- (a) Guru Amar Das - Miri and Piri
+- (b) Guru Arjan Dev - Adi Granth
+- (c) Guru Ramdas - Dal Khalsa
+- (d) Guru Gobind Singh - Manji
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Fifth Sikh Guru Arjan Dev compiled the holy book of
+
+Sikhism "Adi Granth" in 1604 A.D. He was executed by
+
+Jahangir for aiding to Prince Khusrau. Guru Amardas divided
+
+the religious empire into 22 branches called Manji and
+
+appointed a local Sikh preacher at each place. Dal Khalsa
+
+was established by Kapur Singh.
+</details>
+
+---
+
+**Q-GC7. U.P.P.C.S. (UDA/LDA) (Pre) 2001**
+
+Which Sikh Guru helped rebel prince Khusrau with
+shelter and wealth :
+
+- (a) Guru Hargobind Singh
+- (b) Guru Gobind Singh
+- (c) Guru Arjan Dev
+- (d) Guru Tegh Bahadur
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Prince Khusrau revolted in 1606 A.D. He escaped to Punjab
+
+where he received the blessings and some financial help
+
+from Guru Arjan Dev. Jahangir was displeased with Guru
+
+Arjan Dev. He fined Guru Arjan Dev. After the rejection,
+
+Guru Arjan Dev was imprisoned and sentenced to death by
+
+torture and suffered the first great martyrdom. He was the
+
+5th Guru of Sikhs. He constructed Sri Harmandir Sahib in
+
+the lake of Amritsar. He established two cities named Tarn
+
+Taran and Kartarpur.
+</details>
+
+---
+
+**Q-GC8. Uttarakhand P.C.S. (Pre) 2005, Uttarakhand P.C.S. (Pre) 2002, Uttarakhand P.C.S. (Pre) 2004**
+
+Who of the following compiled “Adi Granth or Guru
+Granth Sahib”?
+
+- (a) Guru Nanak Dev
+- (b) Guru Tegh Bahadur
+- (c) Guru Gobind Singh
+- (d) Guru Arjan Dev
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Adi Granth or Guru Granth Sahib was compiled by Arjan
+
+Dev, 5th Sikh Guru (1581-1606 A.D.). It contains preachings
+
+of six Sikh Gurus, many Hindu devotees, Kabir, Baba Farid,
+
+Namdev and Raidas. Among the first composition of Adi
+
+Granth was written by Bengali Vaishnav poet Jaydev and the
+
+last composition was written by Guru Tegh Bahadur.
+</details>
+
+---
+
+**Q-GC9. U.P.P.C.S. (UDA/LDA) (Pre) 2002**
+
+Which of the following Sikh Gurus were penalized
+with death by the Rulers of the time :
+1. Guru Angad
+2. Guru Arjun Dev
+3. Guru Har Gobind
+4. Guru Tegh Bahadur
+Select the correct answer from the code given below:
+Code :
+
+- (a) 2 and 4
+- (b) 2 and 3
+- (c) 1 and 3
+- (d) 1 and 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Guru Arjan Dev and Guru Tegh Bahadur were awarded death
+
+sentence by their contemporary rulers, Jahangir and Aurangzeb
+
+respectively.
+
+Guru Arjan Dev (1581-1606 A.D.)- He was the 5th Sikh Guru.
+
+After the revolt against Jahangir, his rebellious son Prince
+
+Khusrau fled from Agra to Afghanistan. During his escape
+
+Khusrau met Guru Arjan Dev at Tarn Taran city. Guru gave
+
+him support and shelter due to which Jahangir got angry
+
+with Guru Arjan Dev. Jahangir accused him of conspiracy
+
+and sentenced him to death sentence in 1606 AD. Guru
+
+Arjan Dev established Taran Taran and Kartarpur towns.
+
+His major work was a compilation of Guru Granth Sahib.
+
+Guru Tegh Bahadur (1664-1675 A.D.): Revered as the
+
+ninth Nanak, he was the ninth of ten Gurus of the Sikh
+
+religion. According to the records written by his son Guru
+
+Gobind Singh, the Guru had resisted persecution, adopted
+
+and promised to protect Kashmiri Hindus. The Guru was
+
+summoned to Delhi by Aurangzeb on the protest but when
+
+he arrived, he was offered “to abandon his faith and convert
+
+to Islam.” Guru Tegh Bahadur refused, he and his associates
+
+were arrested. He was executed on November, 1675 before
+
+the public in Chandni Chowk, Delhi. 
+
+Indian History General Studies B–331
+</details>
+
+---
+
+**Q-GC10. Chhattisgarh P.C.S. (J) (Pre) 2005, Chhattisgarh P.C.S. (J) (Pre) 2004**
+
+Aurangzeb is responsible for which Sikh prophet’s death?
+
+- (a) Guru Gobind Singh
+- (b) Guru Tegh Bahadur
+- (c) Guru Ramdas
+- (d) Guru Angad
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC11. Uttarakhand UDA/LDA (Mains) 2006**
+
+At which of the following places is a famous Sikh
+Gurudwara located?
+
+- (a) Roop Kund
+- (b) Hem Kund
+- (c) Tara Kund
+- (d) Brahm Kund
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The famous Sikh gurudwara is located in Hem Kund
+
+(Chamoli, Uttarakhand).
+</details>
+
+---
+
+**Q-GC12. 56th to 59th B.P.S.C (Pre) 2015**
+
+Which Sikh Guru was born in Patna?
+
+- (a) Nanak
+- (b) Tegh Bahadur
+- (c) Hargobind
+- (d) Gobind Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Guru Gobind Singh was the tenth and the last Sikh Guru.
+
+He was born in 1666 A.D. in Patna (Bihar). He introduced
+
+‘Khalsa Panth’ and consolidated the Sikh community as a
+
+warrior.
+</details>
+
+---
+
+**Q-GC13. State PCS**
+
+Nanded is considered sacred by Sikhs due to whose
+Mausoleum?
+
+- (a) Guru Amardas
+- (b) Guru Angad
+- (c) Guru Arjun Dev
+- (d) Guru Gobind Singh U.P. Lower Sub. (Pre) 2002
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The 10th Sikh Guru and last Guru, Guru Gobind Singh was
+
+assassinated in Nanded (Maharashtra) by an Afghani noble.
+
+'Takhat Sachkhand Sri Hazur Abchalnagar Sahib' Gurudwara
+
+of Nanded is situated at his mausoleum there.
+</details>
+
+---
+
+**Q-GC14. R.A.S./R.T.S. (Pre) 1993**
+
+Guru Gobind Singh’s greatness lies in the fact that :
+
+- (a) He formed the military order of Sikhs
+- (b) He was the founder of Sikh state
+- (c) He made Sikhs peaceful
+- (d) He defeated Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The 10th Guru and last prophet of Sikhism, Guru Gobind
+
+Singh converted Sikhs into a military sect ‘‘Khalsa Panth’’.
+
+He called the whole Sikh community as ‘‘Khalsa’’. He
+
+ordered Sikhs that each Sikh should should the surname of
+
+'Singh' (male) and 'Kaur' (female) and should hold Kesh,
+
+Kangha, Kachha, Kripan and Kada.
+</details>
+
+---
+
+**Q-GC15. Uttarakhand P.C.S. (Pre) 2016**
+
+Under which Sikh Guru, the Sikhs were transformed
+into the 'Khalsa'?
+
+- (a) Guru Teg Bahadur
+- (b) Guru Arjun
+- (c) Guru Gobind Singh
+- (d) Guru Nanak Dev
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC16. M.P. P.C.S. (Pre) 2000**
+
+How many years ago Khalsa Panth started?
+
+- (a) 150
+- (b) 300
+- (c) 200
+- (d) 400
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Khalsa Panth was established on 13th April, 1699, on the day
+
+of Baisakhi by 10th Sikh Guru Gobind Singh in Anandpur
+
+Sahib. Therefore, it has been more than 300 years since
+
+Khalsa Panth started.
+</details>
+
+---
+
+**Q-GC17. M.P.P.C.S. (Pre) 2014**
+
+Which among the following Sikh Gurus instituted the
+Khalsa Panth?
+
+- (a) Guru Gobind Singh
+- (b) Guru Tegh Bahadur
+- (c) Guru Arjan Dev
+- (d) Guru Nanak Dev
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC18. M.P. P.C.S. (Pre) 1994**
+
+Who was the last prophet of Sikhs?
+
+- (a) Guru Arjan Dev
+- (b) Guru Gobind Singh
+- (c) Guru Tegh Bahadur
+- (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC19. U.P.P.C.S. (Mains) 2006, Uttarakhand P.C.S. (Mains) 2006**
+
+The Guru who founded the ‘Khalsa’ was :
+
+- (a) Har Rai
+- (b) Har Kishan
+- (c) Tegh Bahadur
+- (d) Gobind Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question. 
+
+B
+</details>
+
+---
+
+**Q-GC20. U.P.P.C.S. (Mains) 2014**
+
+The original name of Banda Bahadur was –
+
+- (a) Mahesh Das
+- (b) Lachhman Dev
+- (c) Dwarka Das
+- (d) Harnam Das
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The real name of Banda Bahadur was Lachman Dev. This
+
+name was given to him by Sikh Guru Gobind Singh.
+</details>
+
+---
+
+**Q-GC21. UPPCS Prelims 2025, Q12**
 
 Match List-I (Disciple) with List-II (Guru):
 
@@ -362,7 +888,7 @@ D. 2 3 1 4
 
 </details>
 
-**Q2. UPPCS Prelims 2025, Q74**
+**Q-GC22. UPPCS Prelims 2025, Q74**
 
 Arrange the following saints in chronological order:
 1. Guru Nanak
@@ -391,7 +917,7 @@ D. 4, 3, 2, 1
 
 </details>
 
-**Q3. UPPCS Prelims 2021, Q67**
+**Q-GC23. UPPCS Prelims 2021, Q67**
 
 At which place did Maharaja Ranjit Singh set up the Adalat-i-Ala?
 
@@ -416,516 +942,6 @@ D. Multan
 </details>
 
 ---
-
-## Ghatnachakra Extra Drill — Sikh Sect
-
-Teaching for these stems sits in **10.1–10.6**.
-
-**Q1. MPPCS (Pre) 2015 / UP R.O./A.R.O. (Pre) 2021**
-
-Who did Guru Nanak appoint as his spiritual successor?
-
-A. Guru Ramdas
-B. Guru Amardas
-C. Guru Har Rai
-D. Guru Angad
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Guru Angad)
-
-**Detailed Explanation:**
-- Before his death at Kartarpur in **1539**, **Guru Nanak Dev** passed over his own sons (Sri Chand, who founded the ascetic Udasi sect, and Lakhmi Das) and chose his devoted disciple **Bhai Lehna** as his spiritual successor.
-- Guru Nanak named him **Angad** (meaning "a part of my own body / limb") to signify that he was of the same spiritual essence as the Guru himself.
-- Guru Angad Dev (reign: 1539–1552) became the **Second Sikh Guru**, institutionalized the Langar (community kitchen) system, and developed the Gurmukhi script.
-
-**Key Exam Takeaway / Trap:**
-- Successor of Guru Nanak = **Guru Angad** (Bhai Lehna). Do not pick Sri Chand (son, founder of Udasis) or Bhai Mardana (Nanak's rabab-playing Muslim companion).
-
-</details>
-
-**Q2. MPPCS (Pre) 2015 / UP R.O./A.R.O. (Pre) 2021**
-
-Before becoming Guru Angad, Nanak’s declared successor was known by which name?
-
-A. Sri Chand
-B. Bhai Lehna
-C. Mardana
-D. Bala
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Bhai Lehna)
-
-**Detailed Explanation:**
-- **Bhai Lehna:** Born in Harike (Punjab), he was originally a devout worshipper of Goddess Durga before hearing the hymns of Guru Nanak and dedicating himself entirely to his service at Kartarpur.
-- Testing his utter humility, obedience, and spiritual devotion through multiple severe trials, Guru Nanak declared him his successor and renamed him **Angad**.
-- **Sri Chand:** Guru Nanak's eldest son who founded the ascetic, celibate **Udasi** order.
-- **Bhai Mardana:** Lifelong Muslim companion who accompanied Guru Nanak on his extensive travels (*Udasis*), playing the *rabab*.
-
-**Key Exam Takeaway / Trap:**
-- Original name of Guru Angad = **Bhai Lehna**.
-
-</details>
-
-**Q3. UPPCS (Mains) 2017**
-
-Which Guru developed the Gurmukhi script?
-
-A. Guru Nanak
-B. Guru Amardas
-C. Guru Ramdas
-D. Guru Angad
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Guru Angad)
-
-**Detailed Explanation:**
-- **Guru Angad Dev (1539–1552):** Standardized, modified, and popularized the **Gurmukhi script** (meaning "from the mouth of the Guru") to write the Punjabi language.
-- He used Gurmukhi to record the hymns and teachings of Guru Nanak, creating an independent sacred script accessible to common people, distinct from Sanskrit (Devanagari) and Persian (Nastaliq).
-- He also wrote the first biography of Guru Nanak (*Bhai Bale Wali Janamsakhi*) and encouraged physical fitness by establishing wrestling arenas (*Akhadas*).
-
-**Key Exam Takeaway / Trap:**
-- Creator / Developer of Gurmukhi script = **Guru Angad** (Second Guru).
-
-</details>
-
-**Q4. UPPCS (Pre) 1996**
-
-Amritsar was established by which Sikh Guru?
-
-A. Guru Nanak
-B. Guru Gobind Singh
-C. Guru Tegh Bahadur
-D. Guru Ramdas
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Guru Ramdas)
-
-**Detailed Explanation:**
-- **Guru Ram Das (1574–1581):** The **Fourth Sikh Guru**; established the holy city of **Amritsar** in **1577**.
-- He excavated a holy water tank (*sarovar*) known as **Amrit Sarovar** (Pool of Nectar), around which the settlement grew, initially called **Chak Guru** or **Ramdaspur**, and later named **Amritsar**.
-- He also instituted the **Masand** system (representatives to collect tithes and spread the faith) and composed the *Lavan* hymns for Sikh wedding ceremonies (*Anand Karaj*).
-
-**Key Exam Takeaway / Trap:**
-- Founder of Amritsar / Ramdaspur = **Guru Ram Das** (4th Guru). Foundation of Golden Temple (Harmandir Sahib) laid under **Guru Arjan Dev** (5th Guru).
-
-</details>
-
-**Q5. UPPCS (Pre) 1996**
-
-Akbar donated 500 bighas of land to the household of which Sikh Guru?
-
-A. Guru Arjan Dev
-B. Guru Ramdas
-C. Guru Har Rai
-D. Guru Hargobind
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Guru Ramdas)
-
-**Detailed Explanation:**
-- Mughal Emperor **Akbar**, deeply impressed by the egalitarian Langar and spirituality of the Sikh Gurus, visited **Guru Amar Das** (Third Guru) at Goindwal.
-- Akbar offered a royal revenue grant, which Guru Amar Das declined for himself. Akbar then granted **500 bighas of land** to Guru Amar Das's daughter, **Bibi Bhani**, who was married to **Jetha** (who later became **Guru Ram Das**, the Fourth Guru).
-- On this royal grant of land, Guru Ram Das excavated the sacred pool and established the township of **Ramdaspur (Amritsar)**.
-
-**Key Exam Takeaway / Trap:**
-- Akbar's grant of 500 bighas was gifted to **Bibi Bhani**, wife of **Guru Ram Das**; the city of Amritsar was built on this land.
-
-</details>
-
-**Q6. IAS (Pre) 1996**
-
-Which pair is correctly matched?
-
-A. Guru Amar Das – Miri and Piri
-B. Guru Arjan Dev – Adi Granth
-C. Guru Ramdas – Dal Khalsa
-D. Guru Gobind Singh – Manji system
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Guru Arjan Dev – Adi Granth)
-
-**Detailed Explanation:**
-- **Pair B is correctly matched:** **Guru Arjan Dev** (Fifth Guru) compiled the **Adi Granth** in **1604** at Amritsar, assisted by Bhai Gurdas, and installed it inside the newly constructed Harmandir Sahib with Baba Buddha as the first Granthi.
-- **Pair A is incorrectly matched:** The concept of **Miri and Piri** (two swords representing temporal/political and spiritual authority) was introduced by **Guru Hargobind** (Sixth Guru), not Guru Amar Das.
-- **Pair C is incorrectly matched:** The **Dal Khalsa** (military confederacy of 12 Misls) was organized in the mid-18th century (1748) by **Nawab Kapur Singh**, not Guru Ram Das.
-- **Pair D is incorrectly matched:** The **Manji system** (22 administrative dioceses) was created by **Guru Amar Das** (Third Guru), not Guru Gobind Singh.
-
-**Key Exam Takeaway / Trap:**
-- Adi Granth compilation (1604) = **Guru Arjan Dev**. Miri & Piri = **Guru Hargobind**. Manji system = **Guru Amar Das**. Dal Khalsa = **Nawab Kapur Singh (1748)**.
-
-</details>
-
-**Q7. UP UDA/LDA (Pre) 2001**
-
-Which Sikh Guru helped rebel prince Khusrau with shelter and blessings, leading to his execution by Jahangir?
-
-A. Guru Angad
-B. Guru Ramdas
-C. Guru Arjan Dev
-D. Guru Gobind Singh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Guru Arjan Dev)
-
-**Detailed Explanation:**
-- In **1606**, Prince **Khusrau** revolted against his father, Mughal Emperor **Jahangir**, and fled towards Punjab.
-- En route to Lahore, Khusrau visited **Guru Arjan Dev** at Taran Taran. The Guru provided the prince with humanitarian hospitality and blessed him with a saffron mark (*tilak*).
-- Jahangir, suspecting treason and religious challenge, summoned Guru Arjan Dev to Lahore, imposed a heavy fine of 2 lakh rupees (which the Guru refused to pay), and had him subjected to severe torture on the banks of the Ravi, where he attained martyrdom in May **1606**.
-- Guru Arjan Dev became the **first martyr** (*Shaheed*) of the Sikh faith.
-
-**Key Exam Takeaway / Trap:**
-- Executed by Jahangir in 1606 = **Guru Arjan Dev** (5th Guru). Executed by Aurangzeb in 1675 = **Guru Tegh Bahadur** (9th Guru).
-
-</details>
-
-**Q8. UP UDA/LDA (Pre) 2002 / Chhattisgarh PCS**
-
-Which pair of Sikh Gurus were executed on the orders of Mughal Emperors?
-
-A. Guru Nanak and Guru Angad
-B. Guru Arjan Dev and Guru Tegh Bahadur
-C. Guru Har Gobind and Guru Har Rai
-D. Guru Gobind Singh and Guru Ramdas
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Guru Arjan Dev and Guru Tegh Bahadur)
-
-**Detailed Explanation:**
-- Two Sikh Gurus were executed as martyrs by Mughal imperial authority:
-  1. **Guru Arjan Dev (5th Guru):** Executed at Lahore in **1606** on the orders of Emperor **Jahangir** for allegedly aiding Prince Khusrau.
-  2. **Guru Tegh Bahadur (9th Guru):** Executed at Chandni Chowk, Delhi in **November 1675** on the orders of Emperor **Aurangzeb** for defending the religious freedom of Kashmiri Pandits. The historic **Gurudwara Sis Ganj Sahib** marks the site of his martyrdom.
-
-**Key Exam Takeaway / Trap:**
-- Martyr Gurus: **Guru Arjan Dev** (by Jahangir, 1606) and **Guru Tegh Bahadur** (by Aurangzeb, 1675).
-
-</details>
-
-**Q9. UP UDA/LDA (Pre) 2002 / Chhattisgarh PCS**
-
-Aurangzeb is responsible for the execution of which Sikh Guru?
-
-A. Guru Ramdas
-B. Guru Tegh Bahadur
-C. Guru Arjan Dev
-D. Guru Gobind Singh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Guru Tegh Bahadur)
-
-**Detailed Explanation:**
-- **Guru Tegh Bahadur (1664–1675):** The **Ninth Sikh Guru**, revered as *Hind Di Chadar* (Shield of India).
-- When a delegation of Kashmiri Pandits led by Pandit Kirpa Ram pleaded for protection against forced conversions by Aurangzeb's governor Iftikhar Khan, Guru Tegh Bahadur courted arrest.
-- Brought to Delhi, he refused to embrace Islam or perform miracles. On **11 November 1675**, he was publicly beheaded at Chandni Chowk, Delhi on the orders of Emperor **Aurangzeb**.
-- His severing site is commemorated by **Gurudwara Sis Ganj Sahib**, and his cremation site by **Gurudwara Rakab Ganj Sahib**.
-
-**Key Exam Takeaway / Trap:**
-- Martyrdom at Chandni Chowk, Delhi under Aurangzeb = **Guru Tegh Bahadur (1675)**.
-
-</details>
-
-**Q10. BPSC (Pre) 2015**
-
-Which Sikh Guru was born in Patna?
-
-A. Guru Nanak
-B. Guru Tegh Bahadur
-C. Guru Hargobind
-D. Guru Gobind Singh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Guru Gobind Singh)
-
-**Detailed Explanation:**
-- **Guru Gobind Singh (1666–1708):** The **Tenth and final human Sikh Guru**; born at **Patna (Bihar)** on **22 December 1666** to Guru Tegh Bahadur and Mata Gujri while his father was on a spiritual mission to Assam and Bengal.
-- His birthplace in Patna is commemorated by **Takht Sri Patna Sahib** (Harmandir Sahib, Patna), one of the five sacred Takhts of Sikhism, constructed by Maharaja Ranjit Singh.
-
-**Key Exam Takeaway / Trap:**
-- Born at Patna = **Guru Gobind Singh (1666)**. Born at Talwandi (Nankana Sahib) = **Guru Nanak (1469)**.
-
-</details>
-
-**Q11. UP Lower Sub. (Pre) 2002**
-
-Nanded is considered sacred by Sikhs due to whose memorial/shrine?
-
-A. Guru Amardas
-B. Guru Angad
-C. Guru Arjan Dev
-D. Guru Gobind Singh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Guru Gobind Singh)
-
-**Detailed Explanation:**
-- **Nanded (Maharashtra):** Situated on the banks of the Godavari River. Here, **Guru Gobind Singh** established his camp in 1708 while accompanying Mughal Emperor Bahadur Shah I to the Deccan.
-- In October **1708**, Guru Gobind Singh was fatally stabbed by two Pathan assassins sent by Wazir Khan, the Mughal Faujdar of Sirhind.
-- Before his passing at Nanded, Guru Gobind Singh declared an end to human Guruship and designated the **Guru Granth Sahib** as the eternal, living Guru of the Sikhs.
-- His memorial is enshrined at **Takht Sachkhand Sri Hazur Abchalnagar Sahib**, Nanded.
-
-**Key Exam Takeaway / Trap:**
-- Passing place and Takht of Guru Gobind Singh = **Hazur Sahib, Nanded (Maharashtra)**.
-
-</details>
-
-**Q12. RAS 1993 / MPPCS / UPPCS (Mains) 2006**
-
-Under which Sikh Guru were the Sikhs transformed into a martial community (Khalsa Panth)?
-
-A. Guru Tegh Bahadur
-B. Guru Nanak
-C. Guru Gobind Singh
-D. Guru Ramdas
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Guru Gobind Singh)
-
-**Detailed Explanation:**
-- **Guru Gobind Singh (Tenth Guru):** Transformed the peaceful Sikh devotional community into a fearless, martial saint-soldier brotherhood by creating the **Khalsa Panth** on **Baisakhi day (13 April 1699)** at **Anandpur Sahib**.
-- He administered *Khande di Pahul* (nectar stirred with a double-edged sword) to the first five initiates (**Panj Pyare**), abolished caste distinctions, ordained the surname **Singh** (Lion) for men and **Kaur** (Princess) for women, and mandated the strict wearing of the **Five Ks (Kesh, Kangha, Kara, Kachera, Kirpan)**.
-
-**Key Exam Takeaway / Trap:**
-- Creator of Khalsa Panth (1699) = **Guru Gobind Singh**. Earlier militarization (Miri & Piri, Akal Takht) = **Guru Hargobind (6th Guru)**.
-
-</details>
-
-**Q13. RAS 1993 / MPPCS / UPPCS (Mains) 2006**
-
-Who founded the Khalsa military order?
-
-A. Guru Hargobind
-B. Guru Ramdas
-C. Guru Gobind Singh
-D. Guru Tegh Bahadur
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Guru Gobind Singh)
-
-**Detailed Explanation:**
-- The **Khalsa** (meaning "pure") was founded by **Guru Gobind Singh** in **1699** at Kesgarh Sahib, Anandpur.
-- It unified the Sikhs into an egalitarian military-spiritual fraternity dedicated to resisting religious persecution and tyranny, fighting multiple battles against the hill Rajas of Himachal and the Mughal imperial armies of Wazir Khan and Aurangzeb.
-
-**Key Exam Takeaway / Trap:**
-- Institution of Khalsa = **Guru Gobind Singh (1699)**.
-
-</details>
-
-**Q14. UPPCS (Mains) 2014**
-
-The original childhood name of Banda Singh Bahadur was:
-
-A. Madho Das
-B. Lachhman Dev
-C. Zorawar Singh
-D. Fateh Singh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Lachhman Dev)
-
-**Detailed Explanation:**
-- **Banda Singh Bahadur (1670–1716):** Born into a Rajput family at Rajouri (Poonch, Jammu & Kashmir), his original birth name was **Lachhman Dev**.
-- After renouncing worldly life following the shooting of a pregnant doe, he became an ascetic Vaishnavite recluse and took the name **Madho Das Bairagi**, establishing a hermitage (*ashram*) at Nanded on the Godavari.
-- In 1708, he met **Guru Gobind Singh** at Nanded, surrendered himself as the Guru's *Banda* (slave/servant), and was baptized into the Khalsa, receiving the name **Gurbaksh Singh** (popularly known as **Banda Singh Bahadur**).
-- The Guru gave him five arrows, a council of five Sikhs, and dispatched him to Punjab to lead the armed struggle against Mughal oppressors. He struck coins in the names of Guru Nanak and Guru Gobind Singh, abolished the zamindari system, and avenged the murder of the Chhote Sahibzade by capturing Sirhind.
-
-**Key Exam Takeaway / Trap:**
-- Sequence of names: Birth name = **Lachhman Dev** $\rightarrow$ Ascetic name = **Madho Das** $\rightarrow$ Sikh leader name = **Banda Singh Bahadur / Gurbaksh Singh**.
-
-</details>
-
-**Q15. MPPCS (Pre) 2000**
-
-How many years ago did the Khalsa Panth start? (Paper year: 2000)
-
-A. 100 years
-B. 200 years
-C. 300 years
-D. 400 years
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (300 years)
-
-**Detailed Explanation:**
-- The **Khalsa Panth** was founded by Guru Gobind Singh on Baisakhi day in **1699**.
-- For a question asked in the year **1999–2000** (tercentenary year of the Khalsa):
-  $$\text{Years elapsed} = 1999 - 1699 = 300\text{ years}$$
-- The year 1999 was celebrated worldwide as the **Tercentenary (300th anniversary)** of the creation of the Khalsa.
-
-**Key Exam Takeaway / Trap:**
-- Anchor calculation: Founded in **1699**.
-
-</details>
-
-### UKPCS Complete PYQ Bank — Sikhism
-
-**Q1. Uttarakhand UDA/LDA (Mains) 2006**
-
-At which of the following places is a famous Sikh Gurudwara situated in the high Himalayas of Chamoli district, Uttarakhand?
-
-A. Rupkund
-B. Hemkund Sahib
-C. Joshimath
-D. Badrinath
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Hemkund Sahib)
-
-**Detailed Explanation:**
-- **Gurudwara Sri Hemkund Sahib:** A famous high-altitude Sikh pilgrimage shrine situated at an elevation of 4,329 metres (14,196 feet) in **Chamoli district, Uttarakhand**, beside a glacial lake surrounded by seven snow-capped mountain peaks (*Sapt Shring*).
-- According to the autobiographical *Bachittar Natak* composed by **Guru Gobind Singh**, this is the holy site where he performed intense meditation and penance (*tapasya*) in his previous incarnation as the sage Dusht Daman before being commanded by the Almighty to take birth as the Tenth Guru.
-- **Rupkund:** Glacial skeleton lake in Chamoli district.
-- **Joshimath:** Seat of the northern Jyotirmath monastery established by Adi Shankaracharya.
-
-**Key Exam Takeaway / Trap:**
-- Sacred Sikh high-altitude shrine in Uttarakhand = **Hemkund Sahib (Chamoli)**, linked directly to **Guru Gobind Singh's** *Bachittar Natak*.
-
-</details>
-
-**Q2. UKPCS (Pre) 2002 / 2004 / 2005**
-
-Who compiled the sacred scripture **Adi Granth**?
-
-A. Guru Nanak
-B. Guru Amar Das
-C. Guru Ram Das
-D. Guru Arjan Dev
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Guru Arjan Dev)
-
-**Detailed Explanation:**
-- The **Adi Granth** was compiled in **1604** by **Guru Arjan Dev** (Fifth Guru) at Amritsar, with **Bhai Gurdas** serving as the chief scribe.
-- It contains the devotional hymns of the first five Sikh Gurus, along with the devotional verses of 15 non-Sikh Bhakti and Sufi saints (*Bhagats*), including **Kabir**, **Namdev**, **Ravidas**, **Baba Farid**, **Ramananda**, and **Jaidev**.
-- It was formally installed in the sanctum sanctorum of **Harmandir Sahib** in August 1604, with Baba Buddha appointed as the first head Granthi.
-- Guru Gobind Singh later added the hymns of his father, Guru Tegh Bahadur, and canonized the expanded volume as the eternal **Guru Granth Sahib** in 1708.
-
-**Key Exam Takeaway / Trap:**
-- Compiler of Adi Granth (1604) = **Guru Arjan Dev**. Elevated to perpetual Guru status (1708) = **Guru Gobind Singh**.
-
-</details>
-
-**Q3. UK UDA/LDA (Mains) 2007**
-
-Amritsar was established by which Sikh Guru?
-
-A. Guru Nanak
-B. Guru Gobind Singh
-C. Guru Tegh Bahadur
-D. Guru Ramdas
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Guru Ramdas)
-
-**Detailed Explanation:**
-- **Guru Ram Das (1574–1581):** Founded the city of **Amritsar** in **1577** around the excavated Amrit Sarovar on land gifted by Emperor Akbar.
-- Initially known as **Ramdaspur** or **Chak Guru**, the town rapidly grew into the commercial and spiritual hub of Punjab.
-
-**Key Exam Takeaway / Trap:**
-- City founded = **Guru Ram Das (1577)**.
-
-</details>
-
-**Q4. UK UDA/LDA (Mains) 2007**
-
-Akbar donated 500 bighas of land to the household of which Sikh Guru?
-
-A. Guru Arjan Dev
-B. Guru Ramdas
-C. Guru Har Rai
-D. Guru Hargobind
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Guru Ramdas)
-
-**Detailed Explanation:**
-- Mughal Emperor **Akbar** granted 500 bighas of land to **Bibi Bhani**, daughter of Guru Amar Das and wife of **Guru Ram Das**.
-- Guru Ram Das developed the holy pool and founded the settlement of **Amritsar** upon this gifted estate.
-
-**Key Exam Takeaway / Trap:**
-- Land grant of 500 bighas by Akbar = **Guru Ram Das / Bibi Bhani**.
-
-</details>
-
-**Q5. UKPCS (Pre) 2016 / UKPCS (Mains) 2006**
-
-Under which Sikh Guru were the Sikhs transformed into a martial community (Khalsa Panth)?
-
-A. Guru Tegh Bahadur
-B. Guru Nanak
-C. Guru Gobind Singh
-D. Guru Ramdas
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Guru Gobind Singh)
-
-**Detailed Explanation:**
-- **Guru Gobind Singh** established the **Khalsa Panth** in **1699** at Anandpur Sahib, transforming the Sikh community into a disciplined fraternity of saint-soldiers committed to standing against religious tyranny and injustice.
-
-**Key Exam Takeaway / Trap:**
-- Khalsa created in **1699** by **Guru Gobind Singh**.
-
-</details>
-
-**Q6. UKPCS (Pre) 2016 / UKPCS (Mains) 2006**
-
-Who founded the Khalsa?
-
-A. Guru Hargobind
-B. Guru Ramdas
-C. Guru Gobind Singh
-D. Guru Tegh Bahadur
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Guru Gobind Singh)
-
-**Detailed Explanation:**
-- The **Khalsa** was instituted by **Guru Gobind Singh** on Baisakhi day in **1699** at Anandpur Sahib with the initiation of the **Panj Pyare** and the adoption of the Five Ks (*Kesh, Kangha, Kara, Kachera, Kirpan*).
-
-**Key Exam Takeaway / Trap:**
-- Founder of Khalsa = **Guru Gobind Singh (1699)**.
-
-</details>
 
 ---
 

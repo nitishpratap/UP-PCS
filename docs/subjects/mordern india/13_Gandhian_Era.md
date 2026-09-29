@@ -428,29 +428,7 @@ D. Shankaran Nair
 
 </details>
 
-**PYQ — UPPCS Prelims 2025, Q135**
-
-Who among the following resigned from the Viceroy's Executive Council in protest against the Jallianwala Bagh Massacre?
-
-1. Chettur Sankaran Nair
-2. Ishwari Prasad
-3. Muhammad Shafi
-4. Iqbal Narayan Gurtu
-
-A. 2 and 3
-
-B. Only 4
-
-C. 3 and 4
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS Prelims 2025, Q135)**: Sir Chettur Sankaran Nair resigned from the Viceroy's Executive Council in direct protest against the Jallianwala Bagh Massacre and military atrocities in Punjab.
 
 ---
 
@@ -683,24 +661,7 @@ D. I, IV, II and III
 
 > **Logic:** Dandi **1930** launches CDM. End of CDM is **1934**, after Poona Pact **1932**.
 
-**PYQ — UPPCS Prelims 2021, Q82**
-
-The name of the foreign journalist who reported about Satyagraha at Dharsana salt works was
-
-A. Francis Louis
-
-B. Mark Tully
-
-C. Web Miller
-
-D. Philip Sprat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Webb Miller**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS Prelims 2021, Q82)**: Webb Miller was the American journalist who reported on the heroic, peaceful satyagrahis brutally beaten by police during the Dharsana Salt Works raid in May 1930.
 
 ---
 
@@ -719,24 +680,7 @@ D. Philip Sprat
 
 > **Logic:** Gandhi attended **only the 2nd** RTC. Prasad is the 2020 odd man out.
 
-**PYQ — UPPCS Prelims 2020, Q24**
-
-Who among the following leaders did NOT participated in the Second Round Table Conference?
-
-A. M.K. Gandhi
-
-B. Sarojini Naidu
-
-C. Pt. Madan Mohan Malviya
-
-D. Dr. Rajendra Prasad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS Prelims 2020, Q24)**: Dr. Rajendra Prasad did NOT attend the Second Round Table Conference; Mahatma Gandhi attended as sole Congress representative, accompanied by Sarojini Naidu, Madan Mohan Malaviya, and C.F. Andrews.
 
 ---
 
@@ -901,6 +845,23 @@ D. Neither 1 nor 2
 > **Logic:** Individual Satyagraha = **October 1940**, first satyagrahi **Vinoba Bhave** — not a mass CDM-style campaign. Continuity: WWII deepens after this into the **Cripps Mission (1942)** and **Quit India (1942)**, taught fully in **Topic 14**.
 
 ---
+
+## 13.21 Master Fact-Locks — Gandhian Era, Early Satyagrahas, Rowlatt & Khilafat High-Yield Repository
+
+| Concept / Event / Entity | Leaders / Key Personalities | Year / Place | Key Diagnostic Fact & Exam Anchor |
+|---|---|---|---|
+| **Gandhi Early Life & Education** | M.K. Gandhi, Karamchand ('Kaba') Gandhi | Born 2 Oct 1869 (Porbandar, Gujarat) | Father Karamchand was Diwan of Porbandar, Rajkot, and Wankaner; married Kasturba at age 13; attended Samaldas College (Bhavnagar, 1885); trained as Barrister at Inner Temple (London). |
+| **South Africa Phase & Ashrams** | M.K. Gandhi, Dada Abdullah, Hermann Kallenbach | 1893–1914 (South Africa) | Arrived 1893 for Dada Abdullah legal suit; ejected from train at Pietermaritzburg (June 1893); founded Natal Indian Congress (1894); published *Indian Opinion* (English, Gujarati, Hindi, Tamil); established Phoenix Ashram (1904, Durban) & Tolstoy Farm (Johannesburg); returned to India Jan 1915 (21 years total stay). |
+| **Philosophical Influences** | John Ruskin, H.D. Thoreau, Leo Tolstoy | — | Ruskin's *Unto This Last* taught respect for physical labour & "good of individual in good of all" (Sarvodaya basis); Thoreau taught civil disobedience and duty of tax refusal; Tolstoy's *Kingdom of God is Within You* formed foundation of non-violence. |
+| **Gandhian Ideology & Politics** | M.K. Gandhi, G.K. Gokhale | — | Practical idealism and philosophical anarchism (stateless democracy via decentralized Gram Panchayats); Satyagraha = 'Agni-Baan' / moral force based on self-suffering (distinct from passive resistance); fasting = 1st weapon, strike = last option; inseparable means & ends ("wrong means never take us to right ends"); Gokhale advised 1st year in India "with ears open but mouth shut"; 1st public speech at BHU opening (Feb 1916); 1st INC session attended was Calcutta 1901 (Dinshaw Wacha chair). |
+| **Champaran Satyagraha** | M.K. Gandhi, Rajkumar Shukla, Dr. Rajendra Prasad, J.B. Kripalani, Mahadev Desai | April 1917 (Champaran, Bihar) | First Satyagraha & first Civil Disobedience in India; against Tinkathia system (compulsory indigo farming on 3/20th land); invited by Rajkumar Shukla (1916 Lucknow session); Champaran Agrarian Enquiry Committee (headed by F.G. Sly, Gandhi member); planters refunded 25% of illegal dues; Batak Mian (cook who foiled poisoning plot); Rabindranath Tagore gave title **'Mahatma'**; N.G. Ranga opposed movement. |
+| **Ahmedabad Mill Strike** | M.K. Gandhi, Anasuya Behn Sarabhai, Ambalal Sarabhai | Feb–March 1918 (Ahmedabad) | First use of hunger strike as a weapon by Gandhiji; dispute over withdrawal of Plague Bonus; workers demanded 50%, owners offered 20%; Gandhi led strike & fast unto death; tribunal awarded **35% bonus**. |
+| **Kheda Satyagraha** | M.K. Gandhi, Sardar Vallabhbhai Patel, Indulal Yagnik | March–June 1918 (Kheda, Gujarat) | First non-cooperation peasant struggle; crop failure and famine under plague conditions; British refused revenue remission under Revenue Code; farmers organized to withhold revenue until government exempted unable peasants. |
+| **Associates & Epithets** | Subhash Chandra Bose, Mountbatten, Jamnalal Bajaj, C.F. Andrews | — | Subhash Chandra Bose first addressed Gandhi as **'Father of the Nation'** (July 1944, Azad Hind Radio); Lord Mountbatten called him **'One-Man Boundary Force'** (1947 Bengal riots); Jamnalal Bajaj was adopted as "5th son" (AICC treasurer, renounced Rai Bahadur 1921, led 1923 Nagpur Flag Satyagraha); C.F. Andrews given title **'Deenbandhu'** (AITUC President 1925, 1927); Pyarelal Nayyar was secretary during Noakhali (sister Dr. Sushila Nayyar personal doctor); Yerawada Jail called **'Mandir'** by Gandhi. |
+| **Rowlatt Act (1919)** | Sir Sidney Rowlatt, Lord Chelmsford (Viceroy) | March 1919 | Anarchical and Revolutionary Crimes Act; authorized indefinite detention without trial and in-camera proceedings ("No Vakil, No Appeal, No Dalil"); sparked Rowlatt Satyagraha (Gandhi's 1st all-India mass movement, 6 April 1919 hartal); Swami Shraddhanand advocated no-tax campaign. |
+| **Jallianwala Bagh Massacre** | Brig. Gen. Reginald Dyer, Sir Michael O'Dwyer, Dr. Saifuddin Kitchlew, Dr. Satyapal | 13 April 1919 (Amritsar) | Unarmed gathering on Baisakhi protesting arrest of Kitchlew & Satyapal; Dyer ordered indiscriminate firing on enclosed ground killing ~1000; Rabindranath Tagore surrendered **'Knighthood' / 'Sir'** (31 May 1919); Sir Sankaran Nair resigned from Viceroy's Council; Hunter Committee (Disorders Inquiry Committee) whitewashed Dyer; Montagu called it "Preventive Murder"; Udham Singh assassinated Michael O'Dwyer in London (13 March 1940). |
+| **Khilafat Movement** | Ali Brothers (Shaukat Ali & Mohammad Ali), Abul Kalam Azad, Hakim Ajmal Khan | 1919–1924 (All-India) | Movement to preserve Caliphate & territorial integrity of Ottoman Empire post-WWI; All India Khilafat Conference (Delhi, 23–24 Nov 1919) elected Gandhi President; Gandhi viewed it as an unprecedented opportunity for Hindu-Muslim unity; Hakim Ajmal Khan renounced title *Haziq-ul-Mulk*; M.A. Jinnah and M.M. Malaviya opposed mixing religion with politics; Allahabad Khilafat Conference (June 1920) asked Gandhi to lead Non-Cooperation; linked with Moplah Rebellion (1921). |
+
 
 ## UP Focus
 
@@ -1142,317 +1103,4907 @@ D. III, I, IV, II
 
 </details>
 
-## Ghatnachakra Extra Drill — Gandhi: Life, South Africa and Ideology
+## Complete PYQ Bank — Ghatnachakra Gandhi and His Early Movements (106 Questions)
 
-Teaching sits in **13.1A–13.3**.
+---
 
-**Q1. UPPCS / MPPCS / BPSC**
+**Q-GC-GEM-1. U.P P.C.S. (Pre) 2001**
 
-Karamchand Gandhi (Kaba Gandhi) was Diwan of:
+Karamchand Gandhi was Diwan of-:
 
-A. Porbandar only
+- (a) Porbandar (b) Rajkot
 
-B. Rajkot only
+- (c) Wankaner (d) All of these
 
-C. Porbandar, Rajkot and Wankaner
+<details><summary>Show answer</summary>
 
-D. Bhavnagar and Junagadh
+**Answer: (d)**
 
-<details>
-<summary>Show answer</summary>
+**Explanation:**
+Karamchand Gandhi was the Diwan of all above States. He
 
-**Logic:** Karamchand Gandhi was Diwan of Porbandar, Rajkot and Wankaner — not one state alone.
-
-**Ans: C.** Diwan of **Porbandar, Rajkot and Wankaner**.
-
-</details>
-
-**Q2. UPPCS / BPSC**
-
-Which paper did Gandhi edit in South Africa?
-
-A. Young India
-
-B. Harijan
-
-C. Indian Opinion
-
-D. Navajivan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** South Africa paper = *Indian Opinion*; Phoenix Ashram near Durban.
-
-**Ans: C.** ***Indian Opinion***. Phoenix Ashram stood near **Durban** — his oldest ashram experiment.
-
-</details>
-
-**Q3. UPPCS / CGPCS**
-
-Gandhi returned to India from South Africa in:
-
-A. 1909
-
-B. 1915
-
-C. 1917
-
-D. 1919
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** About 21 years in South Africa; return **1915**; political guru = Gokhale.
-
-**Ans: B.** About **21 years** in South Africa; return **1915**. Political guru = **Gokhale**.
-
-</details>
-
-**Q4. IAS / UPPCS**
-
-Which book is most closely tied to transforming Gandhi’s outlook in South Africa?
-
-A. Civil Disobedience (Thoreau)
-
-B. Unto This Last (Ruskin)
-
-C. The Kingdom of God Is Within You (Tolstoy)
-
-D. Hind Swaraj (his own tract)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** *Unto This Last* (Ruskin) transformed him — good of the individual in the good of all.
-
-**Ans: B.** Ruskin’s ***Unto This Last*** — the good of the individual is contained in the good of all. Influences also include **Thoreau** and **Tolstoy**.
-
-</details>
-
-**Q5. UPPCS / IAS**
-
-At which railway station was Gandhi thrown out of a first-class compartment in South Africa?
-
-A. Durban
-
-B. Johannesburg
-
-C. Pietermaritzburg
-
-D. Pretoria
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Thrown off train at Pietermaritzburg; first INC session attended = Calcutta 1901.
-
-**Ans: C.** **Pietermaritzburg**. First INC session he attended: **Calcutta 1901**.
+was the father of Gandhiji. He is better known as Kaba Gandhi.
 
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Champaran, Kheda, Ahmedabad and Circle
+**Q-GC-GEM-2. 66th B.P.S.C. (Pre) 2020**
 
-Teaching sits in **13.4–13.4A**.
+In which of the following colleges, Gandhiji had studied?
 
-**Q6. UPPCS / BPSC / IAS / UKPCS**
+- (a) Samaldas College, Bhavnagar
 
-Gandhi’s first satyagraha in India was launched at:
+- (b) Dharmendrasinhji College, Rajkot
 
-A. Kheda
+- (c) Gujarat College, Ahmedabad
 
-B. Ahmedabad
+- (d) Bahauddin College, Junagadh
 
-C. Champaran
+- (e) None of the above/More than one of the above
 
-D. Bardoli
+<details><summary>Show answer</summary>
 
-<details>
-<summary>Show answer</summary>
+**Answer: (a)**
 
-**Logic:** First satyagraha in India = Champaran 1917; tinkathia = indigo on 3/20 of holding.
+**Explanation:**
+Gandhiji studied in Samaldas Arts College, Bhavnagar during
 
-**Ans: C.** **Champaran, 1917**. *Tinkathia* = indigo on **3/20** of the holding. Invite = **Raj Kumar Shukla**.
-
-</details>
-
-**Q7. UPPCS / BPSC**
-
-Who gave Gandhi the title ‘Mahatma’?
-
-A. Jawaharlal Nehru
-
-B. Rabindranath Tagore
-
-C. Annie Besant
-
-D. C.F. Andrews
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Mahatma title = Tagore (not Nehru / Annie Besant in standard keys).
-
-**Ans: B.** **Rabindranath Tagore**.
-
-</details>
-
-**Q8. UPPCS / IAS**
-
-Gandhi’s first hunger strike in India is linked to:
-
-A. Champaran
-
-B. Kheda
-
-C. Ahmedabad mill strike
-
-D. Rowlatt Satyagraha
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First hunger strike = Ahmedabad mill strike 1918; industrial workers struggle = Ahmedabad.
-
-**Ans: C.** **Ahmedabad mill strike, 1918** (~35% wage demand stream). Early order: **Champaran → Ahmedabad → Kheda → Rowlatt**.
-
-</details>
-
-**Q9. UPPCS / BPSC**
-
-Which of the following satyagrahas was NOT led by Mahatma Gandhi?
-
-A. Champaran
-
-B. Kheda
-
-C. Ahmedabad mill strike
-
-D. Bardoli
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bardoli was led by Patel — not Gandhi.
-
-**Ans: D.** **Bardoli** was led by **Vallabhbhai Patel**.
-
-</details>
-
-**Q10. UPPCS / BPSC / IAS**
-
-Who first called Gandhi the ‘Father of the Nation’?
-
-A. Jawaharlal Nehru
-
-B. Subhas Chandra Bose
-
-C. Rabindranath Tagore
-
-D. Vallabhbhai Patel
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Father of the Nation phrase first keyed to Subhas Bose; Dinabandhu = C.F. Andrews.
-
-**Ans: B.** **Subhas Chandra Bose**. **C.F. Andrews** = Dinabandhu. **Jamnalal Bajaj** = Congress treasurer / Flag Satyagraha associate.
-
-</details>
-
-**Q11. UPPCS / BPSC**
-
-Which of the following is correct about Champaran Satyagraha?
-
-A. It was Gandhi’s first all-India mass movement
-
-B. It was a local satyagraha confined mainly to indigo grievances
-
-C. It was led jointly by Gandhi and Jai Prakash Narayan
-
-D. It began after the Rowlatt Act
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Champaran is local — first all-India Gandhi venture = Rowlatt Satyagraha.
-
-**Ans: B.** Champaran is **local**. First all-India = **Rowlatt Satyagraha**. JP / Lohia are common false “colleague” traps. Swadeshi **1905** is not Gandhi-led (he was in South Africa).
+the year of 1885 A.D.
 
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Rowlatt, Jallianwala, Khilafat
+**Q-GC-GEM-3. U.P P.C.S. (Pre) 2002**
 
-Teaching sits in **13.5–13.8**.
+Name of the magazine published by Mahatma Gandhi
+during his stay in South Africa, was-:
 
-**Q12. UPPCS / IAS / BPSC**
+- (a) Navjeevan (b) India Gazette
 
-The Rowlatt Act (1919) is best remembered for allowing:
+- (c) Africaner (d) Indian Opinion
 
-A. Dyarchy in provinces
+<details><summary>Show answer</summary>
 
-B. Detention without trial
+**Answer: (d)**
 
-C. Separate electorates for Muslims
+**Explanation:**
+In 1894 A.D. Gandhiji founded ‘ Natal Indian Congress’
 
-D. Permanent Settlement extension
+in South Africa and during this long Movement in South
 
-<details>
-<summary>Show answer</summary>
+Africa he got imprisonment several times. He founded the
 
-**Logic:** Rowlatt 1919 = detention without trial; Viceroy Chelmsford; first all-India Gandhi venture.
+‘Tolstoy Farm’ with his associates and started living there.
 
-**Ans: B.** Detention without trial (“No Vakil, No Appeal, No Dalil”) under **Chelmsford**. First all-India Gandhi venture = **Rowlatt Satyagraha**.
+He published a newspaper “Indian Opinion” in South Africa
 
-</details>
-
-**Q13. UPPCS / IAS / BPSC**
-
-Who returned the knighthood after the Jallianwala Bagh massacre?
-
-A. Motilal Nehru
-
-B. Rabindranath Tagore
-
-C. Tej Bahadur Sapru
-
-D. Madan Mohan Malaviya
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Jallianwala 13 April 1919; Tagore returned knighthood; Sankaran Nair quit Council; Udham Singh killed O’Dwyer (1940).
-
-**Ans: B.** Massacre **13 April 1919**. **Sankaran Nair** resigned from the Viceroy’s Executive Council. **Udham Singh** killed **O’Dwyer** in **1940**.
-
-</details>
-
-**Q14. UPPCS / BPSC**
-
-Who among the following denounced Gandhi’s participation in the Khilafat movement?
-
-A. Abul Kalam Azad
-
-B. Hakim Ajmal Khan
-
-C. Muhammad Ali Jinnah
-
-D. Hasrat Mohani
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Khilafat starters = Ali brothers; Gandhi Delhi Khilafat Conference President Nov 1919; Jinnah opposed mixing.
-
-**Ans: C.** **Jinnah** opposed the mix. Main Khilafat stream: **Shaukat Ali and Muhammad Ali**. Gandhi chaired the Delhi Khilafat Conference (**Nov 1919**). **Hakim Ajmal Khan** renounced the title *Haziq-ul-Mulk*.
+and founded “ Phoenix Farm” in 1904 in Durban.
 
 </details>
 
 ---
+
+**Q-GC-GEM-4. Chhattisgarh P.C.S. (Pre) 2018**
+
+What was the name of newspaper published by Gandhiji
+in South Africa?
+
+- (a) The Indian Option (b) National Herald
+
+- (c) Leader (d) The Pioneer
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-5. M.P. P.C.S. (Pre) 1999**
+
+Where is Phoenix Farm?
+
+- (a) Suratgarh (b) Essex England
+
+- (c) Durban ( South Africa) (d) Kampala
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-6. U.P. Lower Sub. (Pre) 2009**
+
+M.K. Gandhi was a supporter of –
+
+- (a) Marxist socialism (b) Category socialism
+
+- (c) Idealism (d) Philosophical anarchism
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In Gandhiji’s thought the emphasis is not on idealism, but
+
+on practical idealism, Gandhi’s thought has also been linked
+
+to Utopian socialism and Philosophical Anarchism and can
+
+be compared with strands of Marxist (though not a western
+
+philosophy) and even western liberal thought. He believed that in
+
+the concept of ideal non-violent state, every citizen would have
+
+the feeling of self-governance and in this stage, there would be
+
+no need for the state to comply with the law of the land.
+
+</details>
+
+---
+
+**Q-GC-GEM-7. U.P P.C.S. (Pre) 1993**
+
+The twin principles of Mahatma Gandhi’s Ram Rajya
+were?
+
+- (a) Abolishment of untouchability and temperance
+
+- (b) Truth and non-violence
+
+- (c) Khadi and Spinning-wheel
+
+- (d) Right means and right ends
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Truth and non-violence are twin principles of Mahatma
+
+Gandhi’s ram rajya. He used truth and non-violence as the
+
+base to develop a new society of his dreams. Some people
+
+believe that the policy of truth of Mahatma Gandhi is inspired
+
+by Hindu religion and non-violence from Buddha, Jain, and
+
+Christian ideology.
+
+</details>
+
+---
+
+**Q-GC-GEM-8. U.P.P.C.S. (Pre) 1994**
+
+According to Gandhiji Non-Violence is:
+
+- (a) A way to attain truth
+
+- (b) A way to win political freedom
+
+- (c) The only way to realize God
+
+- (d) An end in itself
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+According to Gandhi’s philosophy ‘Truth’ stands for ‘reality.’
+
+He described Truth as existence, consciousness and Bliss.
+
+He said ‘Ahimsa’ or ‘Non-violence’ is the means; Truth
+
+is the end. They are so intertwined that it is impossible to
+
+separate them.
+
+</details>
+
+---
+
+**Q-GC-GEM-9. U.P. Lower Sub. (Mains) 2013**
+
+Which of the following may be true regarding Gandhi?
+
+- (a) A Marxist without Marxism
+
+- (b) A Socialist without Socialism
+
+- (c) An Individualist without Individualism
+
+- (d) An Individualist among Socialists and a Marxist
+among Socialists
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Gandhi’s thought has been linked to philosophical anarchism
+
+and can be compared with strands of Marxist thought. But
+
+during present circumstances, he was not in the favour to
+
+abolish the state. Human being are not capable enough to
+
+manage their collective affairs on their own. Hence, State
+
+and law are required in the society. In addition to this, he also
+
+believed that the jurisdiction of the State should be minimum.
+
+Gandhi told Louis Fischer "I am a true socialist. The meaning
+
+of my socialism is Sarvodaya." There is a great similarity
+
+between Gandhi and Marx, the final aim of both of them was
+
+to establish a stateless and classless society, but their means of
+
+achieving this aim were different. For Gandhi, it was through
+
+non-violence, but for Marx, it was through violent means.
+
+</details>
+
+---
+
+**Q-GC-GEM-10. U.P. Lower Sub. (Mains) 2013**
+
+Which one of the following was the last step in the
+Gandhian strategy of Satyagraha?
+
+- (a) Boycott (b) Picket
+
+- (c) Fast (d) Strike
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The strike was the last step in Gandhian strategy of
+
+Satyagraha while fasting was the first step in Gandhian
+
+strategy of Satyagraha. He termed fasting as ‘Fire Arrow.’
+
+</details>
+
+---
+
+**Q-GC-GEM-11. U.P. Lower Sub. (Mains) 2013**
+
+Which of the following statements is not true as per
+Gandhian Principle?
+
+- (a) The aim of Satyagrahi is to defeat the enemy
+
+- (b) The weapon of Satyagraha is Ahimsa
+
+- (c) Satyagrahi should be firm in his belief
+
+- (d) Satyagrahi should have no ill feeling towards his
+enemies.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Gandhi’s Satyagraha means non-violence, as a force greater
+
+than violence. Suffering was its driving force, once let the
+
+oppressors use as much force as they can on the non-violent
+
+protesters until a stage comes when they can incur no more
+
+violence. Hence there is no motive to defeat the enemy but
+
+to change their perception.
+
+</details>
+
+---
+
+**Q-GC-GEM-12. U.P. Lower Sub. (Mains) 2015**
+
+According to Gandhiji, the Cruelest form of violence is
+
+- (a) Persistence of poverty
+
+- (b) Killing of cows
+
+- (c) Killing of human beings
+
+- (d) Torture of women and children
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+According to Gandhiji, the cruelest form of violence is the
+
+persistence of poverty.
+
+</details>
+
+---
+
+**Q-GC-GEM-13. M.P P.C.S (Pre) 1990**
+
+What idea is given by Gandhiji for family planning?
+
+- (a) Self-control (b) Sterilization
+
+- (c) Restrain (d) Loop
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Gandhiji told ‘Self- Control’ is the best means for family
+
+planning.
+
+</details>
+
+---
+
+**Q-GC-GEM-14. M.P.P.C.S. (Pre) 2010**
+
+How many years did Gandhiji live in South Africa?
+
+- (a) 20 years (b) 21 years
+
+- (c) 16 years (d) 15 years
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Gandhiji lived approx 21 years in South Africa. In 1893 at
+
+the age of 24, he went to South Africa to appear in a case of
+
+Gujarati businessman Dada Abdullah. He returned to India
+
+in January, 1915.
+
+</details>
+
+---
+
+**Q-GC-GEM-15. M.P P.C.S. (Pre) 1997**
+
+In which year Gandhi returned from South Africa?
+
+- (a) 1915 (b) 1917
+
+- (c) 1916 (d) 1918
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In January, 1915 A.D. Mahatma Gandhi returned from South
+
+Africa and people warmly welcomed him. The struggles and
+
+successes in South Africa made him very popular in India. In
+
+India, he came in contact with Gopal Krishna Gokhale and
+
+accepted him as his political mentor. He linked himself to
+
+India’s active politics under the influence of Gopal Krishna
+
+Gokhale.
+
+</details>
+
+---
+
+**Q-GC-GEM-16. U.P.P.C.S. (Mains) 2015**
+
+In which of the following railway stations in South
+Africa, Mahatma Gandhi was thrown out of the train?
+
+- (a) Johannesburg (b) Pietermaritzburg
+
+- (c) Durban (d) Pretoria
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Gandhi arrived in Durban, South Africa in 1893 to serve as legal
+
+counsel to the businessman Dada Abdullah. In June, he was
+
+asked by Dada Abdullah to undertake a trip to Pretoria in the
+
+Transvaal, a journey which first took Gandhi to Pietermaritzburg.
+
+There Gandhi was seated in the first-class compartment since
+
+he had purchased a first-class ticket. A European who entered
+
+the compartment hastened to summon railway officials, who
+
+ordered Gandhi to shift himself to the van compartment since
+
+‘coolies’ and non-whites were apparently not permitted in
+
+first-class compartments. Gandhi protested and produced his
+
+ticket, but was warned that he would be forcibly removed if
+
+he did not make a gracious exit. As Gandhi refused to comply
+
+with the order, he was summarily pushed out of the train, and
+
+his luggage was tossed out on to the platform.
+
+</details>
+
+---
+
+**Q-GC-GEM-17. U.P.P.C.S. (Spl) (Mains) 2004 / U.P.P.C.S. (Mains) 2003**
+
+Which one of the following sessions of Indian National
+Congress was for the first time attended by M.K.
+Gandhi:
+
+- (a) Lucknow Session, 1916
+
+- (b) Calcutta Session, 1901
+
+- (c) Amritsar Session, 1919
+
+- (d) Nagpur Session, 1920
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Mahatma Gandhi attended the Calcutta session of Indian
+
+National Congress in the year 1901 AD for the first time.
+
+</details>
+
+---
+
+**Q-GC-GEM-18. Uttarakhand P.C.S. (Pre) 2005**
+
+Sabarmati Ashram, established by Mahatma Gandhi
+during India’s Independence movement, is located on
+the outskirts of :
+
+- (a) Gandhinagar (b) Ahmedabad
+
+- (c) Rajkot (d) Wardha
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Gandhi’s Satyagraha Ashram was originally established at
+
+the Kocharab Bungalow of Jivanlal Desai, a barrister, and
+
+friend of Gandhi. At that time, the Ashram was called the
+
+Satyagraha Ashram. But Gandhi wanted to carry out various
+
+activities such as farming and animal husbandry, in addition
+
+to other pursuits which required a much larger area of usable
+
+land. So two years later, on 17 June 1917 A.D., the Ashram
+
+was relocated to an area of thirty-six acres on the banks of the
+
+River Sabarmati, in Ahmedabad and later came to be known
+
+as the Sabarmati Ashram.
+
+</details>
+
+---
+
+**Q-GC-GEM-19. Chhattisgarh P.C.S. (Pre) 2003**
+
+Mahatma Gandhi set up an Ashram on the banks of
+Sabarmati near Ahmedabad is known as:
+
+- (a) Sabarmati Ashram (b) Harijan Ashram
+
+- (c) Satyagraha Ashram (d) Swaraj Ashram
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-20. Uttarakhand P.C.S. (Pre) 2012**
+
+Which one of the following Ashrams related to
+Mahatma Gandhi, is the oldest?
+
+- (a) Sabarmati (b) Phoenix
+
+- (c) Wardha (d) Sadaqat
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Gandhi purchased some land near Phoenix station and
+
+established the Phoenix Ashram in 1904 A.D. It was reopened
+
+on 27 February, 2000 A.D. It was the first Ashram established
+
+by Gandhiji.
+
+</details>
+
+---
+
+**Q-GC-GEM-21. U.P. Lower Sub. (Mains) 2015**
+
+Where did Gandhiji adopt ‘Seva Dharma’?
+
+- (a) Mumbai (b) Shantiniketan
+
+- (c) South Africa (d) Pune
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+During his stay in South Africa, Mahatma Gandhi rendered
+
+his services as an attendant to the helpless poor patients in the
+
+charity hospitals of Rustumji. Here, he gave his voluntary
+
+services as a compounder. He also served there the wounded
+
+soldiers of the Boer War.
+
+</details>
+
+---
+
+**Q-GC-GEM-22. U.P. R.O./A.R.O. (Pre) 2023**
+
+Given below are two statements, in which one is
+labelled as Assertion
+
+- (A)  and the other as Reason (R):
+Assertion
+
+- (A) : The struggles in South Africa
+prepared Gandhiji to lead the National
+Movement.
+Reason (R): Seeing the militancy of Indians in South
+Africa, Gandhiji was convinced that
+the Indian people would be ready for
+militant struggle and sacrifice for a
+cause.
+Select the correct answer using the code given below:
+Code -
+
+- (a) Both (A) and (R) are correct and (R) is correct
+explanation of
+
+- (A) .
+
+- (b) Both (A) and (R) are correct but (R) is not the correct
+explanation of
+
+- (A) .
+
+- (c) (A) is correct but (R) is incorrect.
+
+- (d) (A) is incorrect but (R) is correct.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+It was in South Africa that Gandhiji discovered himself. He
+
+emerged from shy and timid youth as a successful organiser
+
+and leader. It was only after the struggles of South Africa
+
+that he prepared himself for the leadership of Indian national
+
+movement.
+
+Militancy is generally associated with violent methods
+
+of struggle. But Gandhiji's struggle in South Africa was
+
+completely non-violent and based on Satyagraha. Hence
+
+Reason (R) cannot be considered right.
+
+</details>
+
+---
+
+**Q-GC-GEM-23. U.P P.C.S. (Pre) 1991**
+
+Who among the following was the ‘Political Guru’ of
+Mahatma Gandhi?
+
+- (a) C.R. Das (b) Dadabhai Nauroji
+
+- (c) Tilak (d) G. K. Gokhale
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Gopal Krishna Gokhale was one of the early social and
+
+political leaders during the Indian Independence Movement
+
+against the British Empire in India. Gokhale was famously a
+
+mentor of Mahatma Gandhi in his formative years. In 1912,
+
+Gokhale visited South Africa at Gandhi’s invitation. As a
+
+young barrister, Gandhi returned from his struggles against
+
+the Empire in South Africa and received personal guidance
+
+from Gokhale, including knowledge and understanding of
+
+India and the issues confronting common Indians. By 1920,
+
+Gandhi emerged as the leader of the Indian Independence
+
+Movement. In his autobiography, Gandhi calls Gokhale as
+
+his mentor and guide.
+
+</details>
+
+---
+
+**Q-GC-GEM-24. U.P. Lower Sub. (Mains) 2013**
+
+As per Mahatma Gandhi politics meant –
+
+- (a) Religionless politics
+
+- (b) Activity for public welfare
+
+- (c) Truthless politics
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+For Gandhi, politics meant social welfare and public welfare.
+
+The most important suggestion about politics from Gandhiji
+
+was ‘decentralization of power’. For him, the decentralization
+
+meant to encourage the village Panchayats and control their
+
+local administration.
+
+</details>
+
+---
+
+**Q-GC-GEM-25. U.P. Lower Sub. (Mains) 2013**
+
+Which of the following is not a feature of politics of the
+Gandhian model?
+
+- (a) Ethics (b) Religion
+
+- (c) Humanity (d) Authority
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The paradigm of politics presented by Gandhiji is the
+
+combination of three elements – morality, religion and
+
+humanity. But in Gandhian political model, there is no place
+
+for authority. He wanted to establish a Stateless Society.
+
+</details>
+
+---
+
+**Q-GC-GEM-26. 69th B.P.S.C. (Pre) 2023**
+
+The cook from Bihar who saved Mahatma Gandhi's
+life from a murder attempt by food poisoning in 1917
+was
+
+- (a) Muzaffar Ahmad (b) Batak Mian
+
+- (c) Mir Bakawal (d) None of them
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Batak Mian was a cook for a British manager of an Indigo
+
+plantation in Bihar known as Erwin in popular memory.
+
+During Champaran Satyagrah he invited Gandhiji for dinner
+
+and coerced Batak Mian to poison Gandhi through milk. But
+
+Batak Mian while serving milk to Gandhiji, broke down and
+
+told Gandhiji about the poison and Gandhiji escaped unhurt.
+
+This story was corroborated by Dr. Rajendra Prasad in one of
+
+his speeches given in 1950s at Motihari which is mentioned
+
+in Delhi University Professor Dr. Girish Mishra's article
+
+"Gandhi's Champaran Struggle".
+
+</details>
+
+---
+
+**Q-GC-GEM-27. 68th B.P.S.C. (Pre) 2022**
+
+Who saved the life of Gandhiji in Bihar during
+Champaran Satyagraha?
+
+- (a) Ravindra Pathak
+
+- (b) Batak Mian
+
+- (c) Hamid Ansari
+
+- (d) More than one of the above
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-28. U.P.P.C.S. (Mains) 2015**
+
+Who amongst the following coined the word
+‘Satyagraha’?
+
+- (a) Harilal Gandhi (b) Mahatma Gandhi
+
+- (c) Ramdas Gandhi (d) Manilal Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The nephew of Mahatma Gandhi, Magan Lal Gandhi first
+
+used the term ‘Sada Graha’ during a competition for which
+
+he was rewarded. Satyagraha means truth and rigidity. Later
+
+on, Gandhi improvised the word as ‘Satyagraha.’ Hence, it is
+
+clear that the word ‘Satyagraha’ was used firstly by Gandhi.
+
+</details>
+
+---
+
+**Q-GC-GEM-29. Uttarakhand P.C.S. (Pre) 2005**
+
+During the India’s struggle for Independence who was
+the first to start ‘Satyagraha’?
+
+- (a) Sardar Patel (b) Jawahar Lal Nehru
+
+- (c) Vinoba Bhave (d) Mahatma Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Satyagraha is a term comprising two words; Satya or
+
+truth, and Agrah or insistence. Hence, in its loose English
+
+interpretation, Satyagraha means 'insistence on truth'. The
+
+Champaran Satyagraha of 1917 A.D. was Mahatma Gandhi’s
+
+first successful Satyagraha in India.
+
+</details>
+
+---
+
+**Q-GC-GEM-30. 66th B.P.S.C. (Pre) 2020**
+
+Which of the following was Gandhiji's first Satyagraha
+Movement in India in which he used Civil Disobedience?
+
+- (a) Champaran (b) Kheda
+
+- (c) Ahmedabad (d) Rowlatt Satyagraha
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Champaran Satyagrah of 1917 A.D. was the first Civil
+
+Disobedience Movement led by Gandhiji in India.
+
+In 1917 A.D., in the Champaran of Bihar, farmers were
+
+protesting against having to grow indigo with barely any
+
+payment for it from British.
+
+On the invitation of Raj Kumar Shukla, Gandhiji went there
+
+and started non-violent protest against this, which eventually
+
+led to acceptance of the demands of farmers. This was the
+
+first victory of Satyagraha in India.
+
+</details>
+
+---
+
+**Q-GC-GEM-31. M.P.P.C.S. (Pre) 2022**
+
+During the Champaran Satyagraha, the cultivation of
+Indigo was known as _________.
+
+- (a) Tinkathia system
+
+- (b) Ryotwari system
+
+- (c) Slash and burn agriculture
+
+- (d) Neelkari
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+During the Champaran Satyagrah, the cultivation of Indigo
+
+was known as Tinkathia system. Tinkathia was the most
+
+prevalent system in Champaran. According to it, the factory
+
+owners convinced the tenant to grow indigo in a specific area
+
+of his holding for which a fixed price was paid. In this, the
+
+ryot was under an obligation to cultivate three kathas per
+
+beegha of his land with indigo i.e. 3/20th of his land holding.
+
+</details>
+
+---
+
+**Q-GC-GEM-32. U.P. Lower Sub. (Mains) 2013**
+
+Mohandas Karamchand Gandhi is best known for
+which of the following?
+
+- (a) Use of passive resistance to achieve Indian Independence.
+
+- (b) Desire to establish an Islamic nation.
+
+- (c) Opposition to Hindus holding political office.
+
+- (d) Encouragement of violence to end British rule.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Struggle done by Gandhi in South Africa was termed
+
+as ‘Inactive resistance ‘but later Gandhi chose the word
+
+‘Satyagraha’ in place of inactive resistance. Satyagraha was
+
+the term, which was used most during the freedom struggle.
+
+But Gandhi differentiated between Satyagraha and inactive
+
+resistance. As per him, inactive resistance is a political
+
+tool, whereas Satyagraha is moral power. He differentiated
+
+Inactive Resistance and Satyagraha by comparing it with the
+
+north and the south pole.
+
+</details>
+
+---
+
+**Q-GC-GEM-33. U.P. P.C.S. (Pre) 2010**
+
+Who among of the following had told: “destruction is
+the best method of dealing with the foreign clothes”?
+
+- (a) Rabindranath Tagore (b) Mahatma Gandhi
+
+- (c) Chitranjan Das (d) Subhas Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Mahatma Gandhi told destruction is the best method of
+
+dealing with foreign clothes. Gandhi related this destruction
+
+with the self-respect of Nation.
+
+</details>
+
+---
+
+**Q-GC-GEM-34. U.P. Lower Sub. (Mains) 2013**
+
+Gandhi’s boycott of British made products was effective
+because the British considered India, a major :
+
+- (a) Shipping centre
+
+- (b) Industrial centre
+
+- (c) Market for manufactured goods
+
+- (d) Source of mineral resources
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Gandhi’s boycott of British made products was effective as
+
+British considered India as a major market for manufactured
+
+goods. A boycott of British goods leads to advance the market
+
+of Indian made goods like crafts and homemade items.
+
+</details>
+
+---
+
+**Q-GC-GEM-35. I.A.S. (Pre) 1993 / Uttarakhand P.C.S. (Pre) 2010**
+
+What is the correct chronological sequence of the
+following events in the political life of Mahatma
+Gandhi?
+1. Champaran Satyagraha
+2. Ahmedabad Mill strike
+3. Kheda Satyagraha
+4. Non-cooperation Movement
+Code :
+
+- (a) 2, 4, 3, 1 (b) 1, 2, 3, 4
+
+- (c) 4, 3, 2, 1 (d) 3, 4, 2, 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The chronological sequence of the political life of Mahatma
+
+Gandhi is as follows :
+
+Event - Year
+
+Champaran Satyagraha - 1917
+
+Ahmedabad Mill strike - February-March,1918
+
+Kheda Satyagraha - March-June,1918
+
+Non-cooperation Movement - 1920-1922
+
+</details>
+
+---
+
+**Q-GC-GEM-36. 69th B.P.S.C. (Pre) 2023**
+
+In which of the following movements did Mahatma
+Gandhi make the first use of the hunger strike as a
+weapon?
+
+- (a) Non-Cooperation Movement
+
+- (b) Bardoli Satyagraha
+
+- (c) Ahmedabad Strike
+
+- (d) Rowlatt Satyagraha
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+During Ahmedabad mill strike (1918), Gandhiji used hunger
+
+strike as a weapon for first time.
+
+</details>
+
+---
+
+**Q-GC-GEM-37. U.P.P.C.S. (Pre) 2017**
+
+Arrange the following events in correct chronological
+sequence using the code given below:
+1. Satyagrah against the Rowlatt Act
+2. Champaran Satyagraha
+3. Kheda Peasant Struggle
+4. Ahmedabad Mill Strike
+Code :
+
+- (a) 2, 4, 3, 1 (b) 1, 2, 3, 4
+
+- (c) 2, 1, 4, 3 (d) 3, 2, 4, 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+All of the above events are related to Mahatma Gandhi, held
+
+after his return to India (1915). Champaran Satyagraha was
+
+against forced Indigo farming in 1917, Ahmedabad Mill strike
+
+due to issue of Plague bonus, Kheda Satyagraha was against
+
+the payment of high taxes levied by the British, that people
+
+were unable to pay due to crop failure and plague epidemic.
+
+Satyagraha against Rowlatt Act which was passed to curb
+
+the revolutionary activities in India was launched in 1919
+
+by Mahatma Gandhi. Chronologically option (a) is correct.
+
+</details>
+
+---
+
+**Q-GC-GEM-38. 64th B.P.S.C. (Pre) 2018**
+
+Which of the following was the first Satyagraha of
+Mahatma Gandhi in India?
+
+- (a) Ahmedabad (b) Bardoli
+
+- (c) Champaran (d) Individual
+
+- (e) None of the above/ More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Champaran Satyagraha of 1917 A.D. was the first Satyagraha Mahatma Gandhi in India.
+
+</details>
+
+---
+
+**Q-GC-GEM-39. U.P.P.S.C. (GIC) 2010**
+
+Which of the following statements about Mahatma
+Gandhi are true?
+1. He received his early education in Rajkot.
+2. He married Kasturba at the age of 13.
+3. He studied law at the Inner Temple, London.
+4. He was most influenced by Ruskin’s book 'Unto
+the Last'.
+Select the correct answer from the code given below:
+Code :
+
+- (a) 1 and 2 (b) 1, 2 and 3
+
+- (c) 1, 3 and 4 (d) 1, 2, 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Mohandas Karamchand Gandhi was born on 2nd October,1869
+
+at Porbandar in Gujarat. Gandhiji's education started in a
+
+Pathshala in Porbanadar but at the age of seven he moved
+
+to Rajkot due to transfer of his father and studied there till
+
+high school. Mahatma Gandhi was married to Kasturba at
+
+the age of 13. He studied law at the Inner Temple, London.
+
+He was most influenced by the book ‘Unto This Last’ written
+
+by John Ruskin.
+
+</details>
+
+---
+
+**Q-GC-GEM-40. I.A.S. (Pre) 2011**
+
+Mahatma Gandhi said that some of his deepest
+convictions were reflected in a book titled, “Unto The
+Last” and the book transformed his life. What was the
+message from the book that transformed Mahatma
+Gandhi?
+
+- (a) Uplifting the oppressed and poor is the moral
+responsibility of an educated man
+
+- (b) The good of individual is contained in the good of all
+
+- (c) The life of celibacy and spiritual pursuit is essential
+for a noble life
+
+- (d) All the statements (a), (b) and (c) is correct in this
+context
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+During his stay in South Africa, Gandhi read the book of
+
+John Ruskin “Unto This Last.” Gandhi mentioned in his
+
+autobiography that book transformed the life of Mahatma
+
+Gandhi. According to Gandhi, the message of this book was
+
+“The good of the individual is contained in the good of all.” By
+
+that fact, Gandhiji had rendered the concept of “Welfare of all.”
+
+</details>
+
+---
+
+**Q-GC-GEM-41. U.P. Lower Sub. (Mains) 2013**
+
+Whose work has influenced the Gandhian concept?
+
+- (a) Ruskin (b) Thoreau
+
+- (c) Tolstoy (d) All the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Secular writers like Ruskin and Thoreau and tolstoy much
+
+influenced Gandhian Ideology. One person that greatly
+
+influenced Gandhi and his tactics for achieving Indian
+
+Independence was Henry David Thoreau. Primarily his essay
+
+on Civil Disobedience. From Ruskin, Gandhiji learned to
+
+respect physical labour. Tolstoy famous quote 'the kingdom
+
+of God is within you,' inspired Gandhiji and it became the
+
+basis of his Non-Violence Movement.
+
+</details>
+
+---
+
+**Q-GC-GEM-42. U.P. Lower Sub. (Pre) 1998**
+
+Which of the following movements is not related to
+Gandhiji?
+
+- (a) Swadeshi Movement
+
+- (b) Khilafat Movement
+
+- (c) Individual Satyagraha
+
+- (d) Quit India Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Gandhiji was not related to the Swadeshi Movement.
+
+Swadeshi Movement was started to protest against the
+
+partition of Bengal in 1905 A.D. and continued up to 1911.
+
+During this period, Gandhi was residing in South Africa. The
+
+rest of the other movements were led by Mahatma Gandhi.
+
+</details>
+
+---
+
+**Q-GC-GEM-43. U.P.P.C.S. (Pre) 2005**
+
+Which one of the following Satyagrahas was not led
+by Mahatma Gandhi?
+
+- (a) Quit India Movement (b) Civil Disobedience
+
+- (c) Bardoli (d) Kheda
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Gandhi led Kheda Satyagrah (1918 A.D.), Civil Disobedience
+
+Movement (1930 A.D.) and Quit India Movement (1942
+
+A.D.). While Bardoli Satyagrah (1928 A.D.) was led by Sardar
+
+Vallabh Bhai Patel.
+
+</details>
+
+---
+
+**Q-GC-GEM-44. U.P. Lower Sub. (Mains) 2013**
+
+Which of the following statements is/are correct
+regarding Gandhi?
+
+- (a) Fought hard to improve the status of casteless
+untouchables
+
+- (b) Launched the Non-Cooperation Movement
+
+- (c) Began the Civil Disobedience Movement
+
+- (d) All the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Among all the constructive programs, ‘’Service to Harijans”
+
+was Gandhi’s prime priority. As he described it in his weekly
+
+Harijan, “It was a spiritual act of soul acting upon the soul.
+
+As Stanley Wolpert quoted Gandhi, “Harijan service would
+
+remain from now on the breath of life, more precious than
+
+the daily bread.” Gandhi started Non-Cooperation Movement
+
+and Civil Disobedience Movement. Hence, option (d) is the
+
+right answer.
+
+</details>
+
+---
+
+**Q-GC-GEM-45. U.P. P.S.C. (GIC) 2010 / U.P.P.C.S. (Pre) 2008 / Uttarakhand U.D.A./L.D.A. (Mains) 2007 / I.A.S (Pre) 1993**
+
+Who was the first person to call Mahatma Gandhi,
+‘Father of Nation’?
+
+- (a) Jawaharlal Nehru (b) Vallabhbhai Patel
+
+- (c) C. Raj Gopalachari (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Subhash Chandra Bose was the first person to call Mahatma
+
+Gandhi ‘Father of Nation’. In July,1944 ,Bose addressed to
+
+Gandhi on Azad Hind Radio from Rangoon and said: ‘India’s
+
+last war of Independence has begun… Father of our Nation,
+
+In this holy war of India’s liberation, we ask for your blessings
+
+and good wishes’.
+
+</details>
+
+---
+
+**Q-GC-GEM-46. U.P.U.D.A./L.D.A. (Pre) 2002 / U.P.P.C.S.(Pre) 2001**
+
+The prefix ‘Mahatma’ was added to the name of
+Gandhi:
+
+- (a) During Champaran Satyagraha
+
+- (b) During the Satyagraha against Rowlatt Act
+
+- (c) In the Amritsar Session of the Indian National
+Congress, 1919
+
+- (d) At the beginning of the Khilafat Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The prefix ‘Mahatma” was added to the name of Gandhi
+
+during Champaran Satyagraha by Rabindranath Tagore.
+
+</details>
+
+---
+
+**Q-GC-GEM-47. U.P.P.C.S. (Mains) 2010**
+
+Who of the following called Gandhiji ‘’Mahatma’’ for
+the first time?
+
+- (a) Jawahar Lal Nehru (b) Madan Mohan Malviya
+
+- (c) Rabindra Nath Tagore (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-48. 41st B.P.S.C. (Pre) 1996**
+
+Who was the secretary of Mahatma Gandhi during
+Noakhali?
+
+- (a) Nirmal Kumar Bose (b) Mahadeo Desai
+
+- (c) Pyare Lal (d) Vallabh Bhai Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Pyare Lal was the secretary of Mahatma Gandhi during the
+
+Noakhali period. His sister Dr. Susheela Nayyar was the
+
+personal doctor of Mahatma Gandhi. Pyare Lal also played
+
+a significant role in Dandi March.
+
+</details>
+
+---
+
+**Q-GC-GEM-49. 41st B.P.S.C. (Pre) 1996**
+
+In which of the following Satyagraha movements, did
+Gandhiji not participate directly?
+
+- (a) Rajkot Satyagrah
+
+- (b) Khera Satyagrah
+
+- (c) Vaikom Satyagraha
+
+- (d) Non-cooperation movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Gandhi did not participate in Vaikom Satyagraha directly. While
+
+Rajkot Satyagraha, Kheda, Satyagraha, and Non-cooperation
+
+Movement were led by Gandhi. He agreed to settle an agreement
+
+with the ruler of Rajkot by mediation with Viceroy after 4 days
+
+hunger strike in reference of Rajkot Satyagraha.
+
+</details>
+
+---
+
+**Q-GC-GEM-50. U.P.P.C.S. (Pre.) 2021**
+
+In the context of Indian history, which of the
+following statements is/are correct regarding Vaikom
+Satyagraha?
+1. It was a Satyagraha against untouchability and
+caste discrimination.
+2. Mahatma Gandhi particpated in this Satyagraha.
+Select the correct answer using the codes given below.
+Codes :
+
+- (a) 1 only (b) 2 only
+
+- (c) Both 1 and 2 (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+While discussing about Indian National Movement, Vaikom
+
+Satyagraha was a movement in Travancore (modern-day
+
+Kerala) for temple entry of the depressed classes. It was
+
+against untouchability and caste discrimination. It took
+
+place near a part of the princely state of Travancore. In 1925
+
+Mahatma Gandhi participated in this Satyagraha indirectly.
+
+</details>
+
+---
+
+**Q-GC-GEM-51. Chhattisgarh P.C.S (Pre) 2005**
+
+When did Mahatma Gandhi come to Chhattisgarh
+first?
+
+- (a) 2 October,1906 (b) 20 December, 1920
+
+- (c) 1 July, 1937 (d) 9 September,1942
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The first arrival of Mahatma Gandhi in Chhattisgarh was on
+
+20 December,1920 A.D. at Dhamtari district of Chhattisgarh.
+
+In addition to this, he came here on 24 November, 1933 A.D.
+
+</details>
+
+---
+
+**Q-GC-GEM-52. I.A.S. (Pre) 2008**
+
+Who among the, following Gandhian followers was a
+teacher by profession?
+
+- (a) A. N. Sinha (b) Braj Kishore Prasad
+
+- (c) J. B. Kripalani (d) Rajendra Prasad
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+J.B. Kripalani was basically a teacher by profession among the
+
+Gandhian followers. Although Rajendra Prashad also became
+
+a teacher for some time, but basically he was a Lawyer.
+
+</details>
+
+---
+
+**Q-GC-GEM-53. 47th B.P.S.C. (Pre) 2005**
+
+Who among the following capitalists served as an AICC
+treasurer for many years and went to jail in 1930?
+
+- (a) G. D. Birla (b) Jamnalal Bajaj
+
+- (c) J. R. D. Tata (d) Balchand Hirachand
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Jamnalal Bajaj was unique among capitalists as being a fulltime Congress activist (he served as an AICC treasurer for
+
+many years and went to jail in 1923 and 1930 A.D.). Balchand
+
+Hirachand urged fellow businessmen in a letter to the FICCI
+
+in April, 1930 to give up the policy of sitting on the fence and
+
+throw in their lot with those that were fighting for Swaraj. In
+
+May, 1930, FICCI also decided to boycott the Round Table
+
+Conference as long as Gandhi stayed away from it and the
+
+Viceroy made a definite promise regarding the dominion status.
+
+</details>
+
+---
+
+**Q-GC-GEM-54. I.A.S. (Pre) 1993**
+
+Indian cotton merchant, banker; Congressman and a
+close associate of Mahatma Gandhi” The description
+fits with:
+
+- (a) G. D. Birla (b) M. R. Jayakar
+
+- (c) Jamnalal Bajaj (d) V. S. Shrinivas Sastri
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Jamnalal Bajaj was an industrialist, a philanthropist, as
+
+well as a freedom fighter. He was also a close associate and
+
+follower of Mahatma Gandhi. Gandhiji used to call Jamnalal
+
+his ‘fifth son.’ A loyal member of the Indian National
+
+Congress, Bajaj has worked extensively on social initiatives
+
+such as abolishing untouchability, the prohibition of Harijans
+
+into Hindu temples and promotion of Khadi. He participated
+
+in the Non-Cooperation Movement and renounced his title
+
+of ‘Rai Bahadur’ conferred by the British Government in
+
+1921 A.D. In the same year, he succeeded in bringing Vinoba
+
+Bhave to Wardha to start a branch of Satyagraha Ashram.
+
+In 1923 A.D., in memory of Jallianwala Bagh Massacre, it
+
+was decided to organize tricolour flag procession in Nagpur
+
+and the Government banned it. Later, Jamnalal Bajaj took
+
+the challenge and organized the Flag Satyagraha and was
+
+sentenced to jail for 18 months and Rs. 3,000/- as fine. The
+
+leadership qualities he showed as the commander of Flag
+
+Satyagraha made him a real hero and a National leader.
+
+</details>
+
+---
+
+**Q-GC-GEM-55. 46th B.P.S.C. (Pre) 2004**
+
+Mahatma Gandhi’s close English compatriot during
+the freedom movement was :
+
+- (a) Thomas Moore (b) A. O. Hume
+
+- (c) Charles Andrews (d) William Wavell
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Charles Andrews (Deenbandhu Andrews) was Professor in
+
+St. Stephan’s College Delhi. He had affection for Indians
+
+and also wanted to be an Indian. He was very close to
+
+Rabindranath Tagore, Gopal Krishna Gokhale, and Mahatma
+
+Gandhi. He lived with Gandhiji in Phoenix Farm. Gandhiji
+
+gave the title of Deen Bandhu for his love and care to poor.
+
+Andrews also became President of All India Trade Union
+
+Congress from 1925 to 1927. He accompanied Gandhi as an
+
+associate to Round Table Conference in London.
+
+</details>
+
+---
+
+**Q-GC-GEM-56. Chhattisgarh P.C.S. (Pre) 2018**
+
+Who of the following Muslim leaders accompanied
+Mahatma Gandhi on his arrival in Chhattisgarh in
+1920?
+
+- (a) Maulana Muhammad Ali
+
+- (b) Maulana Shauqat Ali
+
+- (c) Maulana Azad
+
+- (d) Maulana Rahmat Ali
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Mahatma Gandhi was on tour of Chhattisgarh in 1920 A.D.,
+
+in which Maulana Shaukat Ali was with him. This tour of
+
+Gandhiji was taken up on the invitation of Sundarlal Sharma.
+
+Maulana Shaukat Ali was part of Khilafat movement and
+
+was a prominent nationalist leader. He took part in first and
+
+second round table conferences.
+
+</details>
+
+---
+
+**Q-GC-GEM-57. U.P. Lower Sub. (Mains) 2015**
+
+Which one of the following Jails was named as
+‘Mandir’ by Gandhiji?
+
+- (a) Naini (b) Yerawada
+
+- (c) Cellular (Port Blair) (d) Aghakhan Palace
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Yerawada Central Jail was in Pune, state of Maharashtra.
+
+Mahatma Gandhi spent several years during India’s struggle
+
+for freedom. He named Yerawada Jail as Mandir.
+
+</details>
+
+---
+
+**Q-GC-GEM-58. I.A.S. (Pre) 1993**
+
+At the time of India’s Independence, Mahatma Gandhi
+was:
+
+- (a) A member of Congress Working Committee
+
+- (b) Not a member of the Congress
+
+- (c) The President of the Congress
+
+- (d) The General Secretary of the Congress
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+At the time of India’s Independence, Gandhiji was not
+
+the member of Congress. In 1934 A.D. he resigned from
+
+Congress, and after that, he never became a formal member
+
+of Congress. However, his strong guidance influenced the
+
+political scenario of India.
+
+</details>
+
+---
+
+**Q-GC-GEM-59. M.P P.C.S. (Pre) 1995**
+
+On the death of Mahatma Gandhi who said, ‘the light
+has gone out of our lives':
+
+- (a) Lord Mountbatten (b) Dr. Rajendra Prasad
+
+- (c) Dr. S. Radhakrishnan (d) Jawaharlal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+On January 30th, 1948 A.D. Hindu extremist Nathuram Godse
+
+murdered Gandhi. On his death then Prime Minister of India.
+
+Pt. Jawahar Lal Nehru said “Friends and comrades, the light
+
+has gone out of our lives, and there is darkness everywhere. I
+
+do not know what to tell you and how to say it. Our beloved
+
+leader Bapu as we called him, the Father of the Nation, is
+
+no more.................
+
+</details>
+
+---
+
+**Q-GC-GEM-60. U.P.P.C.S. (Re. Exam) (Pre) 2015**
+
+Who addressed Gandhiji as ‘one-man boundary
+force’?
+
+- (a) Churchill (b) Attlee
+
+- (c) Mountbatten (d) Simon
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Lord Louis Mountbatten, wired Gandhi.” My Dear Gandhiji, in
+
+Punjab we have 50,000 soldiers and large scale rioting on our
+
+hands. In Bengal, our forces consist of one man and there is no
+
+rioting. As a serving officer as well as an administration, may I
+
+be allowed to pay my tribute to the One man Boundary Force.”
+
+</details>
+
+---
+
+**Q-GC-GEM-61. U.P.P.C.S. (Mains) 2014**
+
+Who one of the following had commanded Mahatma
+Gandhi to spend the first year in India ‘with his ears
+open but his mouth shut’?
+
+- (a) Dadabhai Naoroji (b) Bal Gangadhar Tilak
+
+- (c) Pherozeshah Mehta (d) Gopal Krishna Gokhale
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Mahatma Gandhi considered Gopal Krishna Gokhale as his
+
+political Guru. He therefore readily promised his “Political
+
+Guru,” Gokhale, that he would spend the first year in India
+
+studying the country, with “his ears open but his mouth shut.”
+
+</details>
+
+---
+
+**Q-GC-GEM-62. U.P. Lower Sub. (Mains) 2015**
+
+Who had advised Gandhiji to be as an observer and
+student in the country for one year before entering in
+Indian Politics?
+
+- (a) Annie Besant (b) Bal Gangadhar Tilak
+
+- (c) Gopal Krishna Gokhale (d) Rabindranath Tagore
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-63. U.P.P.C.S. (Mains) 2015**
+
+Who among the following used to say “Wrong means
+never take us to right ends”?
+
+- (a) Sardar Patel (b) M.K. Gandhi
+
+- (c) Lala Lajpat Rai (d) Jawaharlal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Mahatma Gandhi used to say that “means and ends are two
+
+sides of a coin. They cannot be separated. Immoral means
+
+cannot be used to achieve moral ends. If used, they will vitiate
+
+the end itself. Wrong means never take us to right ends”.
+
+Mahatma Gandhi was convinced that if we take care of our
+
+means, the end will be taken care of itself.
+
+</details>
+
+---
+
+**Q-GC-GEM-64. U.P.P.C.S. (Mains) 2015**
+
+Who among the following was the strong supporter of
+the principle that “Which is morally wrong, can never
+be politically right”?
+
+- (a) Jawaharlal Nehru (b) Sardar Patel
+
+- (c) M. K. Gandhi (d) C. Rajagopalachari
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+M.K. Gandhi was the strong supporter of the principle that
+
+“Which is morally wrong, can never be politically right.”
+
+</details>
+
+---
+
+**Q-GC-GEM-65. Uttarakhand P.C.S (Pre) 2002 / U.P Lower Sub. (Pre) 1998**
+
+Gandhiji started his first Satyagraha against:
+
+- (a) British attack on Turkey
+
+- (b) Government of India Act,1935
+
+- (c) Payment of low wages to workers
+
+- (d) Rowlatt Act.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Gandhi launched his first Satyagraha on Indian soil in
+
+1917 A.D.at Champaran, taking up the cause of the poor
+
+disinherited peasants and humbled the might of the British
+
+and proved to the world that Satyagraha in South Africa was
+
+not a fluke, a one-time wonder, but a powerful way of conflict
+
+resolution. In February-March 1918 A.D. on the issue of
+
+Plague Bonus of labour of Ahmedabad cotton Mill on Strike
+
+Gandhi joined the strike and first time he started the hunger
+
+strike. In the above question, the Champaran Satyagraha
+
+is not given in the option hence Ahmedabad Satyagraha is
+
+considered as a correct option.
+
+</details>
+
+---
+
+**Q-GC-GEM-66. U.P. P.C.S. (Pre) 2010**
+
+In which of the following movements did Mahatma
+Gandhi make the first use of hunger strike as a
+weapon?
+
+- (a) Non-Cooperation Movement
+
+- (b) Rowlatt Satyagraha
+
+- (c) Ahmedabad Strike
+
+- (d) Bardoli Satyagraha
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-67. U.P.P.C.S. (Mains) 2015**
+
+Mahatma Gandhi delivered his first public speech in
+India at –
+
+- (a) Bombay (b) Lucknow
+
+- (c) Champaran (d) Varanasi
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+His first major public speech in India was at the opening
+
+of the Banaras Hindu University (BHU) in February, 1916.
+
+</details>
+
+---
+
+**Q-GC-GEM-68. U.P. Lower Sub. (Mains) 2015**
+
+From where did Gandhiji launch his mission of freeing
+bonded labour?
+
+- (a) Patna (b) Calcutta
+
+- (c) Bombay (d) Gorakhpur
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+Gandhiji arrived in Patna on his way to Champaran with
+
+Rajkumar Shukla and launched his mission of freeing
+
+bonded labour with his first Satyagraha known as Champaran
+
+Satyagraha against forced indigo farming.
+
+</details>
+
+---
+
+**Q-GC-GEM-69. 39th B.P.S.C. (Pre) 1994**
+
+Who participated in ‘Satyagrah’ started by Gandhiji
+at Ahmedabad in 1917-18?
+
+- (a) Cultivators class (b) Industrial workers
+
+- (c) Public (d) Middle Class
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Gandhiji’s first great experiment in Satyagraha happened in
+
+1917 A.D., in Champaran, in Bihar. Gandhiji’s next activity
+
+was in 1918 A.D. at Ahmedabad where agitation was going
+
+on between the industrial workers and the owners of a
+
+cotton textile mill for the Plague bonus. While Gandhiji was
+
+negotiating with the mill owners, he advised the workers to
+
+go on strike and to demand increase Plague Bonus. Having
+
+advised the strikers to depend upon their conscience, Gandhiji
+
+himself went on a “fast unto death” to strengthen the workers
+
+resolve to continue the strike. The mill owners gave up,
+
+and a settlement was reached after 21 days of the strike. The
+
+mill owners agreed to submit the whole issue to a tribunal.
+
+The strike was withdrawn and later awarded the 35% Bonus
+
+that the workers had demanded. Ambalal Sarabhai’s sister,
+
+Anasuya Behn, was one of the main lieutenants of Gandhi
+
+in this struggle in which her brother and Gandhiji’s friend
+
+was one of the main advisor.
+
+</details>
+
+---
+
+**Q-GC-GEM-70. U.P P.C.S. (Pre) 2002**
+
+Which of the following struggles of Mahatma Gandhi
+was related to industrial workers-
+
+- (a) Champaran Satyagrah (b) Ahmadabad Satyagarah
+
+- (c) Kheda Satyagrah (d) None of the above.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-71. U.P. Lower Sub. (Mains) 2015**
+
+For whom among the following was Ahmedabad
+Satyagraha launched?
+
+- (a) Farmers (b) Cotton Mill Workers
+
+- (c) Jewellery artisans (d) Press Freedom
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-72. U.P. Lower Sub. (Mains) 2013**
+
+Which of the following pairs is correctly matched
+regarding propounding the principle of Trusteeship
+of Mahatma Gandhi?
+
+- (a) South Africa - 1903 (b) London - 1904
+
+- (c) Delhi - 1905 (d) Ahmedabad - 1906
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In 1903, Gandhiji established his law firm in Johannesburg
+
+and lived there till 1910. Gandhi had applied the principle
+
+of Trusteeship.
+
+</details>
+
+---
+
+**Q-GC-GEM-73. U.P. Lower Sub. (Mains) 2013**
+
+Which one of the following statements is not correct
+about Gandhian economy?
+
+- (a) He laid emphasis on the economy based on nonviolence.
+
+- (b) Centralisation lead to exploitation and inequality,
+hence centralisation is opponent of formation of nonviolent society
+
+- (c) He was not in favour of mechanisation in India
+
+- (d) He did not favour mechanisation in U.S.A.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+As per Gandhian ideology – ‘The economy of every country
+
+should be defined on the basis of its climate, land and the
+
+nature of its citizens. Hence, considering his ideology,
+
+he never opposed the mechanisation in USA. Gandhi
+
+supportedthe options (a), (b) and (c).
+
+</details>
+
+---
+
+**Q-GC-GEM-74. U.P. Lower Sub. (Mains) 2013**
+
+According to M.K. Gandhi socio-economic improvement
+of untouchables can be brought about :
+
+- (a) By their temple entry
+
+- (b) By providing grant-in-aid
+
+- (c) By earmarking funds for their socio-economic
+development
+
+- (d) By establishing cottage industry for them
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Gandhi’s socio-economic policy opposes all forms of
+
+exploitation. India lives in its villages. Naturally, the
+
+development of the country depends on the development of
+
+villages. That is why Gandhi stressed on the growth of rural
+
+industries such as khadi, handlooms, sericulture, handicrafts,
+
+etc. Rural industries are based on family labour and require
+
+less amount of capital. Raw materials are available in local
+
+and surrounding areas and the goods thus produced are
+
+sold in local markets. Therefore, there is no problem with
+
+production and market. Gandhi has strongly advocated the
+
+development of cottage industries in villages, which would
+
+reduce the burden on agriculture. Cottage industry can
+
+also work as a good support system for villagers. Thus, all
+
+villagers can get employment in their respective villages,
+
+which will check the migration to urban areas. According to
+
+Gandhi, socio-economic improvement of untouchables can
+
+be brought about by establishing cottage industry for them.
+
+</details>
+
+---
+
+**Q-GC-GEM-75. U.P. Lower Sub. (Mains) 2015**
+
+What does ‘Gandhian Innovation’ mean?
+
+- (a) To produce more
+
+- (b) To produce in domestic economy
+
+- (c) To produce for consumption
+
+- (d) To produce more from less input for more people
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The term Gandhian Innovation was coined by Prof. Prahlad
+
+and R.A. Mashelkar meaning, “serving people with fewer
+
+resources and at a lower cost.” Thus to produce more from
+
+less input for more people is the correct answer.
+
+</details>
+
+---
+
+**Q-GC-GEM-76. Uttarakhand P.C.S. (Mains) 2006**
+
+Which event occurred first?
+
+- (a) Kheda Satyagraha
+
+- (b) Civil Disobedience Movement
+
+- (c) Non-Cooperation Movement
+
+- (d) Champaran Satyagraha
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The time period of events given is as follows –
+
+Kheda Satyagraha - 1918
+
+Civil Disobedience Movement- 1930
+
+Non-Cooperation Movement - 1920
+
+Champaran Satyagraha - 1917
+
+Hence, Champaran Satyagraha was an event that occurred first.
+
+</details>
+
+---
+
+**Q-GC-GEM-77. U.P. P.C.S. (Pre) 2013**
+
+Tinkathia System in Champaran meant:
+
+- (a) Cultivation of Indigo on the 3/20 area of land.
+
+- (b) Cultivation of Indigo on 3/19 area of land
+
+- (c) Cultivation of Indigo on 3/18 area of land
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The story of Champaran began in the early 19th century
+
+when European planters had involved the cultivators in
+
+agreements that forced them to cultivate Indigo on 3/20th
+
+of their land (Tinkathia System).Towards the end of 19th
+
+century, German synthetic dyes forced Indigo out of the
+
+market and the European planters of Champaran, to remove
+
+the obligation of cultivating Indigo on the cultivators tried
+
+to secure enhancements in rents and other illegal dues as a
+
+price for the release. Resistance had surfaced in 1908, but
+
+momentum came when Rajkumar Shukla ( a local man)
+
+decided to follow Gandhiji and persuaded him to come to
+
+Champaran and investigate the problem.
+
+</details>
+
+---
+
+**Q-GC-GEM-78. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Who drew Mahatma Gandhi's attention towards the
+exploitation of the peasants by the European Indigo
+planters?
+
+- (a) Baba Ram Chandra
+
+- (b) Raj Kumar Shukla
+
+- (c) Swami Sahajananda Saraswati
+
+- (d) Sri Krishna Sinha
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-79. 66th B.P.S.C. (Pre) 2020**
+
+Who drew Gandhiji's attention to the plight of indigo
+peasants in Champaran?
+
+- (a) Rajendra Prasad
+
+- (b) Anugrah Narayan Sinha
+
+- (c) Acharya Kripalani
+
+- (d) Raj Kumar Shukla
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-80. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+At which place of Bihar, Gandhiji started Satyagraha
+movement for the first time in India :
+
+- (a) Patna (b) Gaya
+
+- (c) Madhubani (d) Champaran
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-81. U.P.P.C.S. (Mains) 2012**
+
+Gandhiji’s Champaran Movement was for :
+
+- (a) The Security of the rights of Harijans
+
+- (b) Civil Disobedience Movement
+
+- (c) Maintaining of unity of Hindu Society
+
+- (d) Solving the problems of Indigo workers
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-82. 39th B.P.S.C. (Pre) 1994**
+
+Champaran Satyagraha was related to :
+
+- (a) Ezaredari (b) Tinkathia
+
+- (c) Jenmis (d) None
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-83. U.P. P.C.S. (Pre) 2003 / U.P. U.D.A./L.D.A. (Pre) 2002**
+
+The system of ‘Tinkathia’ in the district of Champaran
+meant:
+
+- (a) Cultivation of Indigo by the peasant on 3/20 part of
+the land
+
+- (b) Cultivation of Indigo by the peasants on 3/21 part of
+the land
+
+- (c) Cultivation of Indigo by the peasants on 3/19 part of
+the land
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-84. U.P. Lower Sub. (Mains) 2015**
+
+With which place and cultivation ‘Tinkathia’ Kanoon
+is related?
+
+- (a) Gorakhpur - Opium
+
+- (b) Begusarai - Paddy
+
+- (c) Champaran - Indigo (Neel)
+
+- (d) Burdwan - Paddy
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Tinkathia Kanoon (System) was an agreement that forced
+
+the cultivator of Champaran to cultivate Indigo on 3/20th
+
+of their holdings. Gandhiji launched his first Satyagraha in
+
+Champaran in 1917.
+
+</details>
+
+---
+
+**Q-GC-GEM-85. I.A.S. (Pre) 2010**
+
+Consider the following statements:
+1. Dr. Rajendra Prasad persuaded Mahatma Gandhi
+to come to Champaran to investigate the problem
+of peasants.
+2. Acharya J.B. Kripalani was one of the Mahatma
+Gandhi’s colleagues in his Champaran investigation.
+Which of the statements given above is/are correct?
+
+- (a) 1 only (b) 2 only
+
+- (c) Both 1 and 2 (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Rajkumar Shukla decided to follow Gandhiji and persuaded
+
+him to come to Champaran and investigate the problem.
+
+Acharya J.B. Kripalani was one of the Mahatma Gandhi’s
+
+colleagues in his Champaran investigation. Rajendra Prasad,
+
+Mahadev Desai, C.F. Andrews, Dr. Anugrah Narayan Sinha,
+
+Braj Kishor Prasad, H.S. Polak were Gandhi’s colleagues in
+
+his Champaran Movement.
+
+</details>
+
+---
+
+**Q-GC-GEM-86. U.P.P.C.S. (Pre) 1999**
+
+Those who joined Mahatma Gandhi during the
+Champaran Satyagraha included:
+
+- (a) Vallabh Bhai Patel and Vinoba Bhave
+
+- (b) Jawaharlal Nehru and Rajendra Prasad
+
+- (c) Rajendra Prasad and Anugraha Narain Sinha
+
+- (d) Mahadev Desai and Maniben Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-87. U.P.P.C.S. (Mains) 2006**
+
+Which one of the following is associated with the
+Champaran Satyagraha of Mahatma Gandhi?
+
+- (a) Vallabhbhai Patel (b) Madan Mohan Malviya
+
+- (c) Shaukat Ali (d) Raj Kumar Shukla
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-88. 66th B.P.S.C. Re-Exam (Pre) 2020**
+
+The Champaran Movement was basically against
+
+- (a) Land revenue
+
+- (b) cash crops
+
+- (c) agricultural policies of the British Government
+
+- (d) Land grants
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Champaran movement was basically against cash crops.
+
+</details>
+
+---
+
+**Q-GC-GEM-89. U.P. P.C.S. (Pre) 2019**
+
+Who opposed Planned Development in India?
+
+- (a) Mahatma Gandhi (b) Jawaharlal Nehru
+
+- (c) Indira Gandhi (d) Rajiv Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+As per options, Mahatma Gandhi had opposed planned
+
+development in India. Gandhiji was in fact opposed to
+
+industrialization and mechanization. He supported cottage
+
+and village industries and considered the village as the basic
+
+unit of the economy. Instead of using machines, he gave
+
+more importance to labour-intensive enterprises so that more
+
+and more people could get employment. Under his concept
+
+of Gram Swaraj, the village was such an economic unit,
+
+where all the needs of the residents could be fulfilled by the
+
+products of the same.
+
+</details>
+
+---
+
+**Q-GC-GEM-90. 42nd B.P.S.C. (Pre) 1997**
+
+The person not connected with Champaran movement
+was-
+
+- (a) Rajendra Prasad
+
+- (b) Anugrah Narayan Sinha
+
+- (c) J.B. Kripalani
+
+- (d) Jai Prakash Narayan
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Jai Prakash Narayan was not associated with Champaran
+
+Movement, while other names given in options were
+
+associated with Champaran Movement.
+
+</details>
+
+---
+
+**Q-GC-GEM-91. 67th B.P.S.C. (Pre) 2022**
+
+Who is not related to the Champaran Satyagraha of
+1917 AD?
+
+- (a) J.B. Kripalani
+
+- (b) Raj Kumar Shukla
+
+- (c) Rajendra Prasad
+
+- (d) Ram Manohar Lohia
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-92. I.A.S. (Pre) 2018**
+
+Which one of the following is a very significant aspect
+of the Champaran Satyagraha?
+
+- (a) Active all-India participation of lawyers, students and
+women in the National Movement
+
+- (b) Active involvement of Dalit and Tribal communities
+of India in the National Movement
+
+- (c) Joining of peasant unrest to India’s National
+Movement
+
+- (d) Drastic decrease in the cultivation of plantation crops
+and commercial crops
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Champaran Satyagraha of 1917 was the first Satyagraha
+
+of Mahatma Gandhi. One of the very significant aspects of the
+
+Champaran Satyagraha was drastic decrease in the cultivation
+
+of Plantation crops and commercial crops.
+
+</details>
+
+---
+
+**Q-GC-GEM-93. U.P. R.O. A.R.O. (Pre) 2017**
+
+Who among the following was not the member of
+Champaran Agrarian Enquiry Committee?
+
+- (a) F.G. Slay (b) D.J. Reid
+
+- (c) Anugrah Narayan (d) Mahatma Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Champaran Agrarian Enquiry Committee was presided by
+
+F.G. Slay. Its members were D.J. Reid, Mahatma Gandhi,
+
+L.C. Adami, Raja Harihar Prasad, Narayan Singh, G. Rainny
+
+and M.E.L. Tainer.
+
+</details>
+
+---
+
+**Q-GC-GEM-94. 69th B.P.S.C. (Pre) 2023**
+
+In response to the mass agitation of the Champaran
+Movement, the British Government took which step
+to address the issue?
+
+- (a) Appointed Mahatma Gandhi as the Governor of
+Champaran
+
+- (b) Enforced strict curfew and imposed Martial law in the
+region
+
+- (c) Instituted the Champaran Agrarian Committee
+
+- (d) Declared Champaran as an independent State
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+To find a solution for the Champaran Movement (1917 A.D.),
+
+the British government set up the Champaran Agrarian
+
+Committee to look into the grievances of the peasants.
+
+</details>
+
+---
+
+**Q-GC-GEM-95. U.P.P.C.S. (Pre) 2011 / I.A.S. (Pre) 2000**
+
+After returning from South Africa, Gandhiji launched
+his first successful Satyagraha in :
+
+- (a) Chauri-Chaura (b) Dandi
+
+- (c) Champaran (d) Bardoli
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Gandhi, the exponent of the Satyagraha Movement, staged his
+
+first Satyagraha in Champaran, Bihar in 1917 A.D. The poor
+
+peasants, the indigo planters of the district, invited Gandhi
+
+to come there to see the grievances of the much-exploited
+
+peasants. Gandhiji returned from South Africa in 1915 A.D.,
+
+and in 1917 he launched his first successful Satyagraha in
+
+Champaran on the request of Rajkumar Shukla.
+
+</details>
+
+---
+
+**Q-GC-GEM-96. 70th B.P.S.C. Re-Exam 2024**
+
+Who led the Champaran Satyagraha in 1917 ?
+
+- (a) Jawaharlal Nehru (b) Subhas Chandra Bose
+
+- (c) Sardar Patel (d) Mahatma Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-97. 67th B.P.S.C. (Pre) 2022**
+
+Who invited Gandhiji to come to Champaran?
+
+- (a) Raj Kumar Shukla (b) Rajendra Prasad
+
+- (c) Jayaprakash Narayan (d) Krishna Sahay
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-98. 42nd B.P.S.C. (Pre) 1997**
+
+In which Farmers’ Movement did Mahatma Gandhi
+participate first of all?
+
+- (a) Khera (b) Champaran
+
+- (c) Bardoli (d) Baroda
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-99. Jharkhand P.C.S. (Pre) 2011 / U.P.P.C.S. (Mains) 2009 / I.A.S. (Pre) 2007 / U.P.P.C.S. (Spl) (Mains) 2004**
+
+At which one of the following places did Mahatma
+Gandhi first start his Satyagraha in India?
+
+- (a) Ahmedabad (b) Bardoli
+
+- (c) Champaran (d) Kheda
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-100. 56th to 59th B.P.S.C. (Pre) 2015**
+
+At which place in Bihar Gandhiji had his first
+Satyagraha?
+
+- (a) Champaran (b) Chhapra
+
+- (c) Bettiah (d) Patna
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GEM-101. U.P.P.C.S. (Mains) 2016**
+
+Who amongst the following invited Mahatma Gandhi
+to Champaran in connection with indigo cultivation?
+
+- (a) J. B. Kriplani (b) Rajendra Prasad
+
+- (c) Raj Kumar Shukla (d) Motilal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Raj Kumar Shukla, an indigo cultivator, persuaded and
+
+invited Mahatma Gandhi to Champaran in relation to indigo
+
+cultivation. Gandhi arrived in Champaran on 10th April 1917
+
+with eminent lawyers Brajkishore, Rajendra Prasad, Anugrah
+
+Narayan Sinha, Acharya Kriplani and others.
+
+</details>
+
+---
+
+**Q-GC-GEM-102. B.P.S.C. (Pre) 2018**
+
+Who invited Gandhiji Champaran?
+
+- (a) Rajendra Prasad (b) Raj Kumar Shukla
+
+- (c) Mazharul Haq (d) Krishna Sahay
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Rajkumar Shukla requested Mahatma Gandhi to visit Champaran meeting him in Lucknow
+
+</details>
+
+---
+
+**Q-GC-GEM-103. U.P.P.C.S. (Mains) 2011**
+
+Which one of the following statements is not correct
+about Champaran Satyagraha?
+
+- (a) It was connected with the peasants
+
+- (b) It was launched against ‘Tinkathia’ system
+
+- (c) Dr. Rajendra Prasad and J.B. Kripalani co-operated
+with M.K. Gandhi in it.
+
+- (d) It was the first movement launched by M.K. Gandhi
+on All India level.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Champaran Satyagraha was limited to Champaran only.
+
+The first Movement started by Gandhi at the National level
+
+was Rowlatt Satyagraha (1919 A.D.). First three options are
+
+correct regarding Champaran Satyagrah.
+
+</details>
+
+---
+
+**Q-GC-GEM-104. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Who was the National Leader of Champaran Indigo
+movement?
+
+- (a) Mahatma Gandhi (b) Birsa Munda
+
+- (c) Baba Ramchandra (d) Ram Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The national leader of Champaran Indigo Movement was
+
+Mahatma Gandhi.
+
+</details>
+
+---
+
+**Q-GC-GEM-105. U.P.P.C.S. (Mains) 2007**
+
+Who had opposed the Champaran Satyagraha of
+Mahatma Gandhi?
+
+- (a) Rabindranath Tagore (b) N.G Ranga
+
+- (c) Rajkumar Shukla (d) Rajendra Prasad
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+N.G. Ranga opposed the Champaran Satyagraha of Mahatma
+
+Gandhi. While Rabindranath Tagore gave him the title of
+
+‘Mahatma’ during Champaran Satyagraha.
+
+</details>
+
+---
+
+**Q-GC-GEM-106. I.A.S. (Pre) 2011**
+
+What was the reason for Mahatma Gandhi to organize
+a Satyagraha on behalf of the peasants of Kheda?
+1. The Administration did not suspend the land
+revenue collection in spite of a drought.
+2. The Administration proposed to introduce
+Permanent Settlement in Gujarat
+Which of the statements given above is/are correct?
+
+- (a) 1 only (b) 2 only
+
+- (c) Both 1 and 2 (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In Kheda, Gujarat, the peasants were frequently plagued by
+
+poverty, famine, and British discrimination. The famine had
+
+destroyed the agrarian economy of the region. The revolt was
+
+against the taxes and rents that had to be paid to Britishers. The
+
+Government said that if the taxes were not paid, the property
+
+would be seized. Hence, statement 1 is right while 2 is wrong.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Rowlatt Act and Jallianwala Bagh Massacre (1919) (39 Questions)
+
+---
+
+**Q-GC-RJ-1. I.A.S. (Pre) 2009**
+
+During the Indian Freedom Struggle, why did the
+Rowlatt Act arouse popular indignation?
+
+- (a) It curtailed the freedom of religion
+
+- (b) It suppressed the traditional Indian education.
+
+- (c) It authorized the Government to imprison people
+without trial
+
+- (d) It curbed the trade union activities.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+During the viceroyalty of Lord Chelmsford, a sedition
+
+committee was appointed by the Government in 1917 A.D.
+
+with Justice Rowlatt, which made certain recommendations
+
+to curb sedition activity in India. The Rowlatt Act, 1919
+
+A.D., gave unbridled powers to the Government to arrest
+
+and imprison suspects without trial. The Act caused a wave
+
+of anger among all sections of the society. A well-known
+
+description of the bill at that time was: No Vakil, No appeal,
+
+No Daleel which means No lawyer, No appeal, No Plea.
+
+</details>
+
+---
+
+**Q-GC-RJ-2. Jharkhand P.C.S. (Pre) 2013**
+
+The Rowlatt Act was passed to :
+
+- (a) Bring about Agrarian Reforms
+
+- (b) Curtail the National and Revolutionary Activities
+
+- (c) Have a favourable ‘Balance of Trade.’
+
+- (d) Put Second World War criminals on trial
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-3. U.P. P.C.S. (Pre) 1993 / 48th to 52nd B.P.S.C. (Pre) 2008**
+
+When was the Rowlatt Act passed?
+
+- (a) 1909 (b) 1919
+
+- (c) 1930 (d) 1942
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-4. I.A.S. (Pre) 2012**
+
+The Rowlatt Act aimed at :
+
+- (a) Compulsory economic support to war efforts
+
+- (b) Imprisonment without trial and summary procedures
+for trial
+
+- (c) Suppression of the Khilafat Movement
+
+- (d) Imposition of restrictions on freedom of the press
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-5. I.A.S. (Pre) 2015**
+
+With reference to Rowlatt Satyagraha, which of the
+following statements is/are correct?
+1. The Rowlatt Act was based on the recommendations
+of the ‘Sedition Committee.’
+2. In Rowlatt Satyagraha, Gandhiji tried to utilize
+the Home Rule League.
+3. Demonstrations against the arrival of Simon
+Commission coincided with Rowlatt Satyagraha.
+Select the correct answer using the code given below.
+
+- (a) 1 only (b) 1 and 2 only
+
+- (c) 2 and 3 only (d) 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Rowlatt Act also known as black Act (termed by Gandhiji) was
+
+a legislative Act passed by the Imperial Legislative Council in
+
+1919 A.D. The Act allowed the British Government to arrest
+
+any Indian without any trial or warrant. The Act was based
+
+on Sedition Committee. In Rowlatt Satyagraha, Gandhiji
+
+tried to utilize the Home Rule League. Simon Commission
+
+reached India on February 03, 1928 A.D. which resulted in
+
+strikes in major cities and towns and it was welcomed with
+
+the popular slogan ‘Simon ! Go Back’
+
+</details>
+
+---
+
+**Q-GC-RJ-6. I.A.S. (Pre) 2008**
+
+Who was the Viceroy of India when the Rowlatt Act
+was passed?
+
+- (a) Lord Irwin (b) Lord Reading
+
+- (c) Lord Chelmsford (d) Lord Wavell
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Lord Chelmsford (1916-1921 A.D.) was the Viceroy of India
+
+when the Rowlatt Act was passed.
+
+</details>
+
+---
+
+**Q-GC-RJ-7. U.P.R.O./A.R.O. (Pre) 2014**
+
+In whose Viceroyalty the ‘Rowlatt Act’ was passed?
+
+- (a) Lord Harding II (b) Lord Reading
+
+- (c) Lord Chelmsford (d) Lord Minto II
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-8. 41st B.P.S.C. (Pre) 1996**
+
+Indian National Congress opposed the Rowlatt Act
+because it aimed-
+
+- (a) To limit the individual liberty
+
+- (b) To ban on Indian National Congress
+
+- (c) To enlarge the communal delegations
+
+- (d) To imprison national leaders charging the traitors to
+the nation
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In March, 1919 A.D., the Imperial Legislative Council of
+
+British India passed the Rowlatt Act. The Imperial Legislative
+
+Council passed this law so they could try certain cases without
+
+a jury decision and detain people without fair and proper trial.
+
+Mostly the Indian public disliked this Act because it aimed
+
+to limit individual liberty.
+
+</details>
+
+---
+
+**Q-GC-RJ-9. Chhattisgarh P.C.S. (Pre) 2023**
+
+Consider the following statements about The Rowlatt
+Satyagraha.
+(1)The Rowlatt Satyagraha turned out to be the first
+all-India struggle against the British government
+although it was largely restricted to cities.
+(2)The Rowlatt Act curbed fundamental rights such as
+the freedom of expression and strengthened police
+powers.
+Choose the right option given below :
+
+- (a) Both the statements (1) and (2) are correct
+
+- (b) Only the statement (1) is correct
+
+- (c) Only the statement (2) is correct
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Rowlatt Act was passed by the Imperial legislative council
+
+in 1919 A.D. The act was an effective plan to suppress the
+
+increasing revolutionary activities in country. It curbed
+
+fundamental rights such as the freedom of expression and put
+
+severe restrictions on press. The act strengthened police powers
+
+so much that anybody could be arrested without any trial
+
+against them. In response Gandhiji started Rowlatt Satyagrah
+
+(1919 A.D.) which was although restricted to cities but turned
+
+to be the first all-India struggle against the British government.
+
+</details>
+
+---
+
+**Q-GC-RJ-10. I.A.S. (Pre) 1999**
+
+The first venture of Gandhi in all-India politics was the:
+
+- (a) Non-Cooperation Movement
+
+- (b) Rowlatt Satyagraha
+
+- (c) Champaran Movement
+
+- (d) Dandi March
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Every movement started by Gandhiji helped Indian Nationalism
+
+to attain an unprecedented height. The Movements conceived
+
+by Gandhiji like Champaran Peasant Movement (1917 A.D.),
+
+Ahmedabad Mill Workers Movement (1918 A.D.), Kheda
+
+Peasant Movement(1918 A.D.) were limited to the specific 
+
+issue of a particular section of the society. The scope of the
+
+area was also very limited. But Rowlatt Satyagraha (1919
+
+A.D.) against the censure of freedom of press and detention
+
+without trial was proactively joined by all the sections of the
+
+society. Sentiments of the aggrieved common people were
+
+addressed. Knitting of people from all religions, all castes, all
+
+age groups, and both the genders in the Nationalist Movement
+
+had a distinguished characteristic of the Rowlatt Satyagraha.
+
+National newspapers, political journals, etc. made Gandhi a
+
+popular figure. This was the first all India level Movement
+
+launched by Mahatma Gandhi.
+
+</details>
+
+---
+
+**Q-GC-RJ-11. U.P.P.C.S. (Mains) 2008**
+
+Who suggested launching of no tax campaign as a
+protest against Rowlatt Act?
+
+- (a) Abul Kalam Azad (b) Gandhiji
+
+- (c) Rabindranath Tagore (d) Swami Shraddhanand
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Rowlatt Act was also called as an Act without a lawyer,
+
+without appeal, without a plea or Black Law. According
+
+to this Act, the British Government was free to arrest and
+
+imprison suspects without trial. In protest to this Act, Swami
+
+Shraddhanand suggested starting the Movement with the
+
+non-payment of Lagaan (Rent).
+
+</details>
+
+---
+
+**Q-GC-RJ-12. I.A.S. (Pre) 1996**
+
+The Anarchical and Revolutionary Crime Act (1919)
+was popularly known as the:
+
+- (a) Rowlatt Act (b) Pitt’s India Act
+
+- (c) Indian Arms Act (d) Ilbert Bill
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Anarchical and Revolutionary Crime Act was popularly
+
+known as the Rowlatt Act. The Act was passed on the
+
+recommendations of a Committee under the chairmanship
+
+of Justice Sidney Rowlatt.
+
+</details>
+
+---
+
+**Q-GC-RJ-13. U.P.P.C.S. (Mains) 2012**
+
+Which important event immediately preceded
+Jallianwala Bagh massacre?
+
+- (a) Non-Cooperation Movement
+
+- (b) Enactment of Rowlatt Act
+
+- (c) Communal Award
+
+- (d) Arrival of Simon Commission
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Rowlatt Act was enacted in March, 1919 A.D. In protest
+
+to this Act Gandhi had organized a country-wide strike on
+
+April 06, 1919 A.D. Brigadier General Dyer orchestrated
+
+the brutal killing on April 13, 1919 A.D. at Jallianwala Bagh.
+
+Non-Cooperation Movement (start) took place in 1920 A.D.,
+
+Communal Award in 1932 AD and Simon Commission came
+
+to India in 1928 A.D.
+
+</details>
+
+---
+
+**Q-GC-RJ-14. 46th B.P.S.C. (Pre) 2003**
+
+The massacre of the crowd at Jallianwala Bag at
+Amritsar took place on :
+
+- (a) May 5, 1918 (b) April 1, 1919
+
+- (c) April 13, 1919 (d) July 29, 1919
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Jallianwala Bagh Massacre or Amritsar massacre was
+
+an important incident in the history of Indian Freedom
+
+Movement during the British rule. On April 13, 1919 the
+
+infamous Jallianwalla Bagh incident took place. On that day
+
+a large crowd gathered in the enclosed ground of Jallianwalla
+
+Bagh to protest against the Government’s new repressive
+
+measures and to protest against the arrest of two famous
+
+leaders of Punjab Dr. Saifuddin Kitchlew and Dr. Satyapal.
+
+Others had come to attend the annual Baisakhi fair. Being
+
+outside from the city, many villagers were unaware of the
+
+martial law that had been imposed. Dyer entered the area,
+
+blocked the exit points, and opened fire on the crowd, killing
+
+thousands of people.
+
+</details>
+
+---
+
+**Q-GC-RJ-15. B.P.S.C. (Pre) 2018**
+
+The Jallianwala Bagh Massacre happened in the
+context of which Gandhian Satyagraha?
+
+- (a) Swadeshi Satyagraha (b) Rowlatt Satyagraha
+
+- (c) Bardoli Satyagraha (d) Individual Satyagraha
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-16. 38th B.P.S.C. (Pre) 1992**
+
+The year 1919 in Indian history is related to :
+
+- (a) for the transfer of capital from Calcutta to Delhi
+
+- (b) for the tragedy of Jallianwala Bagh Massacre
+
+- (c) Partition of Bengal
+
+- (d) Khilafat Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-17. Uttarakhand P.C.S. (Pre) 2010**
+
+Jallianwala Bagh Massacre took place in the city :
+
+- (a) Meerut (b) Agra
+
+- (c) Amritsar (d) Lahore
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-18. M.P P.C.S. (Pre) 1993**
+
+General Dwyer name is associated with which of the
+following events?
+
+- (a) Black Hole of Calcutta (b) Battle of Rani Durgavati
+
+- (c) Battle of 1857 (d) Jallianwala Bagh
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-19. U.P.P.C.S. (Pre) 2002**
+
+During the Indian freedom struggle, a large unarmed
+crowd gathered in the Jallianwala Bagh at Amritsar
+on April 13, 1919 to protest against the arrest of:
+
+- (a) Swami Shraddhanand and Mazharul Haq
+
+- (b) Madan Mohan Malviya and Mohammad Ali Jinnah
+
+- (c) Mahatma Gandhi and Abul Kalam Azad
+
+- (d) Dr. Saifuddin Kitchlu and Dr. Satyapal
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-20. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Why did people gather to demonstrate at Jallianwala
+Bagh?
+
+- (a) To protest against the arrest of Gandhi and Lajpat Rai
+
+- (b) To protest against the arrest of Kitchlu and Satyapal
+
+- (c) To offer prayers on the Baisakhi Day
+
+- (d) To protest against the arbitrarily of inhuman acts of
+the Punjab Government.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-21. U.P. Lower Sub. (Pre) 2004 / U.P. P.C.S. (Pre) 2001**
+
+The person who returned his honour to the Indian
+Government on May 30, 1919 was –
+
+- (a) Jamnalal Bajaj (b) Tej Bahadur Sapru
+
+- (c) Mahatma Gandhi (d) Rabindranath Tagore
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+After the incident of Jallianwala Bagh (April 13, 1919 A.D.),
+
+Rabindranath Tagore returned his honour of ‘Knighthood’
+
+to Indian Government on May 31, 1919 A.D. In a letter to
+
+the Governor-General, he wrote: “..... The time has come
+
+when badges of honour make our shame glaring in their
+
+incongruous context of humiliation and I for my part wish
+
+to stand shorn of all special distinctions by the side of those
+
+of my countrymen who, for their so-called insignificance,
+
+are liable to suffer degradations not fit for human beings.....”
+
+</details>
+
+---
+
+**Q-GC-RJ-22. I.A.S. (Pre) 2004**
+
+The name of the famous person of India who returned
+the Knighthood conferred on him by the British
+Government as a token of protest against the atrocities
+in Punjab in1919 was:
+
+- (a) Tej Bahadur Sapru (b) Ashutosh Mukherjee
+
+- (c) Rabindra Nath Tagore (d) Syed Ahmed Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Rabindra Nath Tagore returned his Knighthood to the British
+
+Government as a token of protest against the Jallianwala Bagh
+
+massacre in 1919 A.D.
+
+</details>
+
+---
+
+**Q-GC-RJ-23. U.P. U.D.A./L.D.A. (Pre) 2006**
+
+As a means of protest against which of the following
+incident, Rabindranath Tagore gave up his honor of
+knighthood?
+
+- (a) Partition of Bengal
+
+- (b) Press Act of 1910
+
+- (c) Jallianwala Bagh Massacre
+
+- (d) Salt Law
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-24. U.P.P.C.S. (Pre) 2016**
+
+Rabindra Nath Tagore gave up his ‘Knighthood’ in
+protest to which one of the following?
+
+- (a) Rowlatt Act
+
+- (b) Massacre at Jallianwala Bagh
+
+- (c) Simon Commission
+
+- (d) Cripps Mission
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-25. U.P.P.C.S. (Pre) 2022**
+
+Who returned the ‘Knighthood’ title to the British
+Government in reaction against Jallianwala Bagh
+Massacre ?
+
+- (a) Rabindranath Tagore (b) Shankaran Nair
+
+- (c) Md. Ali Jinnah (d) Rameshwar Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above Question.
+
+</details>
+
+---
+
+**Q-GC-RJ-26. 65th B.P.S.C. (Pre) 2019**
+
+Rabindranath Tagore gave up his 'Knighthood'
+because of
+
+- (a) Brutal suppression of Civil Disobedience Movement
+
+- (b) Execution of Bhagat Singh
+
+- (c) Jallianwala Bagh Tragedy
+
+- (d) Chauri Chaura Incident
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-27. U.P.R.O./A.R.O. (Pre.) 2021**
+
+Given below are two statements, one labelled as
+Assertion
+
+- (A)  and other as Reason (R) -
+Assertion
+
+- (A)  : Rabindranath Tagore renounced
+Knighthood.
+Reason (R): He wanted to participate in the Noncooperation Movement.
+Choose the correct answer from the code given belowCode -
+
+- (a) Both (A) and (R) are true and (R) is the correct
+explanation of
+
+- (A)
+
+- (b) Both (A) and (R) are true and (R) is not the correct
+explanation of
+
+- (A)
+
+- (c) (A) is true but (R) is false
+
+- (d) (A) is false but (R) is true
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Rabindranath Tagore renounced his Knighthood or sir in
+
+protest against Jallianwala Bagh Massacre and not in support
+
+of non-cooperation movement.
+
+</details>
+
+---
+
+**Q-GC-RJ-28. U.P.P.C.S. (Mains) 2007**
+
+Who resigned from the membership of Viceroy’s
+Executive Council as a protest against Jallianwala
+Bagh Massacre?
+
+- (a) Mahatma Gandhi (b) Rabindranath Tagore
+
+- (c) Shankaran Nair (d) Jamnalal Bajaj
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Shankaran Nair resigned from the Viceroy's Executive
+
+Council as a protest against the Jallianwala Bagh massacre.
+
+</details>
+
+---
+
+**Q-GC-RJ-29. U.P. P.C.S. (Pre) 2013 / U.P. Lower Sub. (Pre) 2013**
+
+Who among the following had resigned from the
+Viceroy’s Executive Council protesting Jallianwala
+Bagh Massacre?
+
+- (a) Rabindranath Tagore (b) Madan Mohan Malviya
+
+- (c) Sir Shankar Nair (d) All three above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-30. U.P.P.C.S. (Mains) 2012 / Uttarakhand P.C.S. (Mains) 2006**
+
+Who among the following gave up the title of ‘Sir’ in
+protest against the Jallianwala Bagh incident?
+
+- (a) Mahatma Gandhi (b) Jawaharlal Nehru
+
+- (c) Rabindranath Tagore (d) Tej Bahadur Sapru
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Rabindranath Tagore gave up the title of 'Sir' in protest against
+
+Jallianwala Bagh incident.
+
+</details>
+
+---
+
+**Q-GC-RJ-31. U.P. Lower Sub. (Pre) 2003 / U.P. Lower Sub.(Spl.) (Pre) 2002**
+
+Select the correct sequence of the following events by
+using the codes given below:
+1. Jallianwala Bagh Massacre
+2. Dr. Satyapal’s incarceration
+3. Amritsar Congress Session, 1919
+Code :
+
+- (a) 2, 1, 3 (b) 1, 2, 3
+
+- (c) 2, 3, 1 (d) 3, 2,1
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Saifuddin Kitchlu and Dr. Satyapal were popular leaders who
+
+were arrested by Deputy Commissioner of Amritsar on April
+
+9, 1919 A.D. Jallianwala Bagh massacre took place on 13
+
+April, 1919 A.D. and the Amritsar Session of the Congress
+
+was held in December, 1919 A.D.
+
+</details>
+
+---
+
+**Q-GC-RJ-32. I.A.S. (Pre) 2001**
+
+The Hunter Committee was appointed after the:
+
+- (a) Blackhole incident
+
+- (b) Jallianwalla Bagh massacre
+
+- (c) Uprising of 1857
+
+- (d) Partition of Bengal
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Government established a Disorders Inquiry Committee
+
+headed by Lord William Hunter, a Senator of College of
+
+Justice of Scotland. The Committee had 7 members 4 British
+
+and 3 Indians. It was set up to investigate the Jallianwala
+
+Bagh Tragedy. Before the Committee could publish its report,
+
+Congress put forward its view. This view criticized Dyer’s act
+
+as inhuman and also said that there was no justification for
+
+the introduction of the martial law in Punjab. But the Hunter
+
+Report, as expected, saw the things differently. Although it
+
+condemned most of the decisions taken by Brigadier General
+
+Dyer, it agreed with the imposition of martial law in Punjab.
+
+It also criticized the method of Satyagraha adopted by Gandhi
+
+and held Gandhi partially responsible for “deteriorated” law
+
+and order situation. As a result, Dyer was sent to England
+
+relieved of his command. The British Government called
+
+Brigadier General Dyer ‘Lion of British Empire’ and gave
+
+‘Sword of Honour’ for his service.
+
+</details>
+
+---
+
+**Q-GC-RJ-33. U.P.P.C.S. (Pre) 1994 / 45th B.P.S.C. (Pre) 2001**
+
+Who from the following killed Michael O' Dwyer
+responsible for Jallianwala Bagh massacre?
+
+- (a) Prithvi Singh Azad (b) Sardar Kishan Singh
+
+- (c) Udham Singh (d) Sohan Singh Josh
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+On 13 March, 1940 A.D., at Caxton Hall in London, Udham
+
+Singh, an Indian Independence activist who had witnessed
+
+the events in Amritsar and was himself wounded, shot and
+
+killed Michael O’Dwyer, the British Lieutenant-Governor
+
+of Punjab at the time of the massacre, who had approved
+
+Dwyer’s action and was believed to be the main planner.
+
+</details>
+
+---
+
+**Q-GC-RJ-34. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Sir Michael O'Dwyer was shot dead on 13th March,
+1940 in London by:
+
+- (a) Madan Lal Dhingra (b) M.P.T. Acharya
+
+- (c) V.D. Savarkar (d) Udham Singh
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-35. Uttarakhand P.C.S. (Mains) 2006**
+
+Udham Singh killed in London :
+
+- (a) Lord Hoarding (b) General Dyer
+
+- (c) Sir Michael O’Dwyer (d) Lord Willingdon
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RJ-36. U.P.P.C.S. (Pre) 2014**
+
+The task of drafting Congress Inquiry Committee
+report on Jallianwala Bagh Massacre was entrusted to :
+
+- (a) Jawaharlal Nehru (b) Mahatma Gandhi
+
+- (c) C.R. Das (d) Fazlul Haq
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The task of drafting Congress Inquiry Committee report
+
+on Jallianwala Bagh Massacre was entrusted to Mahatma
+
+Gandhi. In the initial answer sheet of Uttar Pradesh Public
+
+Service Commission, option (b) was considered as a correct
+
+answer, but in its revised answer key, the commission has
+
+removed the question.
+
+</details>
+
+---
+
+**Q-GC-RJ-37. U.P. P.C.S. (Pre) 1990**
+
+Who was the Viceroy of India at the time of Jallianwala
+Bagh Massacre in 1919?
+
+- (a) Lord Chelmsford (b) Lord Minto
+
+- (c) Lord Dalhousie (d) Lord Canning
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Lord Chelmsford was the Viceroy of India at the time
+
+of Jallianwala Bagh Massacre in 1919 A.D. Some other
+
+important events during his tenure are the enactment of the
+
+Government of India, 1919 A.D. (Montague-Chelmsford
+
+Reforms) which introduced dyarchy in the Provinces;
+
+enactment of Rowlatt Act (1919 A.D.); the Jallianwala
+
+Bagh Tragedy (1919 A.D.); and the beginning of the Noncooperation Movement.
+
+</details>
+
+---
+
+**Q-GC-RJ-38. U.P.P.C.S. (Pre) 1998**
+
+Which one of the following events, was characterized
+by Montague as ‘Preventive Murder’?
+
+- (a) Killing of INA activists
+
+- (b) Massacre of Jallianwala Bagh
+
+- (c) Shooting of the Mahatma
+
+- (d) Shooting of Curzon-Wythe
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The massacre of Jallianwala Bagh in 1919 A.D. in which
+
+thousands of people were killed in the firing of Brigadier
+
+General Dyer was called “Preventive Murder” by Montague.
+
+</details>
+
+---
+
+**Q-GC-RJ-39. I.A.S. (Pre) 2007**
+
+Which one of the following aroused a wave of popular
+indignation that led to the massacre by the British a
+Jallianwala Bagh?
+
+- (a) The Arms Act (b) The Public Safety Act
+
+- (c) The Rowlatt Act (d) The Vernacular Press Act
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Government appointed a commission headed by Justice
+
+Sydney Rowlatt to investigate the nature of discontent and the
+
+cause of revolutionary activities. On the recommendation of
+
+the commission, Rowlatt Act was passed in March, 1919. The
+
+Act empowered the Government to arrest any person without
+
+assigning any reason or ground for the arrest; search any place
+
+without a warrant and imprison any person without a trial.
+
+The Rowlatt Act raised a storm of protests and a wave of
+
+popular indignation throughout the country. The Press and
+
+the Congress called it the ‘Black Act.’ There were strikes
+
+and public meetings at various places throughout the country.
+
+At Amritsar, the arrest of Gandhiji and two prominent local
+
+leaders Dr. Saifuddin Kitchlew and Dr. Satyapal aroused a
+
+wave of protests. On April 13, 1919 a peaceful and unarmed
+
+protest rally was held in the open, but enclosed ground called
+
+Jallianwala Bagh. While the meeting was in progress, a
+
+British officer Brigadier General Dyer along with his troops
+
+entered the park. Without any warning or asking the people to
+
+disperse, Brigadier General Dyer and his troops started firing
+
+at them. The park had a small exit gate; it too, was closed.
+
+In just ten minutes, about a thousand persons were killed,
+
+and many thousands wounded. The firing stopped only after
+
+ammunition had been exhausted.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Khilafat Movement (17 Questions)
+
+---
+
+**Q-GC-KM-1. U.P. Lower Sub. (Pre) 2008**
+
+Who of the following had started the Khilafat
+Movement? Choose the answer from the codes given
+below:
+1. Shaukat Ali 2. Mohammad Ali
+3. Shariatullah 4. Abul Kalam Azad
+Code :
+
+- (a) 1 and 2 (b) 1, 2 and 4
+
+- (c) I, 2 and 3 (d) 1, 2, 3, 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Khilafat Movement was mainly started by Maulana
+
+Muhammad Ali and Shaukat Ali, with some other Muslim
+
+leaders such as Hasrat Mohani, Maulana Abul Kalam Azad
+
+and Dr. Hakim Ajmal Khan joined hands and created an All
+
+India Khilafat Committee, at Lucknow. Haji Shariatullah
+
+was an eminent Islamic reformer of the Indian sub-continent
+
+in British India. He is known for founding the Faraizi
+
+Movement.
+
+</details>
+
+---
+
+**Q-GC-KM-2. U.P.P.C.S. (Pre) 2016**
+
+Who among the following, were prominent leaders of
+the ‘Khilafat Movement’?
+
+- (a) Maulana Mohammad Ali and Shaukat Ali
+
+- (b) Mohammad Ali Jinnah and Shaukat Ali
+
+- (c) Maulana Abul Kalam Azad and Rafi Ahmed Kidwai
+
+- (d) Rafi Ahmed Kidwai and Shaukat Ali
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KM-3. Ghatna Chakra PYQ**
+
+Which of the following were the main objectives of the
+Khilafat Movement?
+1. To rouse anti-British feelings among the Muslims of
+India.
+2. To reform the Muslim society.
+3. To demand separate electorates and preserve the
+Khilafat.
+
+<details><summary>Show answer</summary>
+
+**Answer: Pending**
+
+**Explanation:**
+See official answer key.
+
+</details>
+
+---
+
+**Q-GC-KM-4. I.A.S. (Pre) 1993**
+
+To save the Ottoman empire and preserve the
+Khilafat.
+Choose the correct answer from the codes given below:
+Code :
+
+- (a) 1 and 2 (b) 2 and 3
+
+- (c) 3 and 4 (d) 1 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Muslims of India considered the Sultan of Turkey as
+
+Khalifa (Caliph) of the Islamic empire. In the First World
+
+War Turkey was fighting against allied countries. Before the
+
+war, the British Government had promised a fair treatment
+
+towards Turkey to win the support of Indian Muslims. Turkey
+
+was dismembered and the Khalifa was stripped of his post.
+
+This act of the British angered Indian Muslims. As a result,
+
+they started a movement to defend the Ottoman Empire
+
+of Turkey and to retain Khalifa in his post. The Khilafat
+
+Movement started to protest against the partition of Turkey
+
+acquired an aggressive approach with the joining of Gandhi
+
+in the Movement.
+
+4. Who was elected as President of the All India Khilafat
+
+Conference in 1919?
+
+(a) Mahatma Gandhi (b) Muhammad Ali Jinnah
+
+(c) Maulana Shaukat Ali (d) Motilal Nehru
+
+U.P. P.C.S. (Pre) 1993
+
+Ans. (a)
+
+The Indian Muslims were incensed when they discovered
+
+that their loyalty had been ruined during the war and the
+
+assurances of generous treatment to Turkey after the war,
+
+a promise made by British statesmen had no intention of
+
+fulfilling it. The Muslims like Ali brothers, Muhammad Ali
+
+Hasrat Mohani and Shaukat Ali and Maulana Abul Kalam
+
+Azad had organized a Khilafat Party. Gandhi decided to
+
+extend their support to the Khilafat Movement as this was
+
+an opportunity of uniting Hindus and Muslims. Mahatma
+
+Gandhi was elected President of the All-India Khilafat
+
+Conference held at Delhi on November 23-24, 1919 A.D.
+
+on 24th November. The Amritsar Session of the Congress
+
+was held in December 1919, which gave a great fillip to the
+
+Khilafat agitation.
+
+</details>
+
+---
+
+**Q-GC-KM-5. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Why did Mahatma Gandhi support the Khilafat
+Movement?
+
+- (a) The Khalifa had given shelter to Indian revolutionaries
+
+- (b) Gandhiji wanted to win the support of the Indian
+Muslims against the British
+
+- (c) The Khalifa supported Indian struggle for freedom
+
+- (d) The Khalifa was a friend of Gandhiji
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KM-6. Uttarakhand P.C.S. (Mains) 2002**
+
+Khilafat Movement was supported by:
+
+- (a) Hume (b) Sir Sayyed
+
+- (c) Curzon (d) Gandhiji
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KM-7. 40th B.P.S.C. (Pre) 1995**
+
+Who viewed the Khilafat Movement as an opportunity
+for integrating Hindus and Muslims which would not
+appear again within coming hundred years?
+
+- (a) Ali Brothers (b) Abul Kalam Azad
+
+- (c) Mahatma Gandhi (d) Khan Abdul Gaffar Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KM-8. U.P.P.C.S. (Mains) 2014**
+
+Who one of the following had renounced the title of
+Haziq-ul-Mulk during Khilafat agitation?
+
+- (a) Maulana Abul Kalam Azad
+
+- (b) Mohammad Ali
+
+- (c) Shaukat Ali
+
+- (d) Hakim Ajmal Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Hakim Ajmal Khan had renounced the title of Haziq-ulMulk during Khilafat agitation. Hakim Ajmal Khan had
+
+been honoured with the title of Haziq-ul-Mulk in 1908 by
+
+the British Government.
+
+</details>
+
+---
+
+**Q-GC-KM-9. U.P. P.S.C. (GIC) 2010 / U.P. P.C.S. (Pre) 2002**
+
+Who warned Gandhiji not to encourage fanaticism of
+Muslim religious leaders and their followers :
+
+- (a) Agha Khan (b) Ajmal Khan
+
+- (c) Hasan Imam (d) Mohammad Ali Jinnah
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Gandhi linked the issue of Swaraj with the Khilafat issue
+
+to bring Hindus and Muslims together in one Movement.
+
+Muhammad Ali Jinnah opposed this. Jinnah criticized
+
+Gandhi’s support of the Khilafat Movement, which he
+
+saw as an endorsement of religious zealotry. According to
+
+K.M. Munshi, “Jinnah warned Gandhiji not to encourage
+
+the fanaticism of Muslim religious leaders” in the Khilafat
+
+Movement.
+
+</details>
+
+---
+
+**Q-GC-KM-10. U.P.P.C.S. (Mains) 2011**
+
+Who among the following had denounced the
+participation of Mahatma Gandhi in the Khilafat
+Movement?
+
+- (a) Mohammad Ali (b) Shaukat Ali
+
+- (c) Abul Kalam Azad (d) M.A. Jinnah
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KM-11. U.P.P.C.S. (Pre) 1996**
+
+Which one of the following was the result of Khilafat
+movement?
+
+- (a) Hindu-Muslim differences were narrowed down
+
+- (b) Language problem became acute
+
+- (c) Hindu-Muslim riots increased
+
+- (d) Hindus were suppressed
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Gandhi described Khilafat movement as the golden
+
+opportunity for the unity of Hindus and Muslims. Hence,
+
+outcome of this Movement came as the unity of Hindus
+
+and Muslim which arose due to the anger against British
+
+Government on the question of Turkey.
+
+</details>
+
+---
+
+**Q-GC-KM-12. U.P. Lower Sub. (Pre) 2004**
+
+The person who on April 4, 1919, delivered a speech on
+Hindu-Muslim unity from the pulpit of Jama Masjid
+in Delhi was –
+
+- (a) Mahatma Gandhi (b) Mahamana Malviya
+
+- (c) Lala Lajpat Rai (d) Swami Shraddhanand
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+On April 4, 1919 A.D. Swami Shraddhanand delivered a
+
+speech in front of 30,000 Muslims on Hindu-Muslim Unity
+
+from the pulpit of Jama Masjid in Delhi.
+
+</details>
+
+---
+
+**Q-GC-KM-13. U.P.P.C.S. (Pre) 2000**
+
+The Congress supported the Khilafat Movement
+mainly for:
+1. Reinstatement of Caliph
+2. Removal of Caliph
+3. Getting the sympathy of the Muslims
+4. Marginalising Jinnah in the Congress
+Code :
+
+- (a) 1 and 3 (b) 2 and 4
+
+- (c) 3 and 4 (d) 1 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Congress supported the Khilafat Movement mainly for
+
+reinstatement of the caliph and getting the sympathy of the
+
+Muslims. According to Gandhi, this was a golden opportunity
+
+for Hindu-Muslim unity.
+
+</details>
+
+---
+
+**Q-GC-KM-14. U.P. P.S.C. (GIC) 2010 / U.P. Lower Sub. (Spl) (Pre) 2008**
+
+Which of the following Indian leaders did not support
+the Khilafat Movement?
+
+- (a) Jawahar Lal Nehru
+
+- (b) Madan Mohan Malviya
+
+- (c) Mohammad Ali
+
+- (d) Swami Shraddhanand
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Pandit Madan Mohan Malviya was the foremost educationalist,
+
+legal luminary, scholar and editor of pre-Independent India.
+
+Pandit Malviya opposed Mahatma Gandhi’s endorsement of
+
+the Khilafat Movement.
+
+</details>
+
+---
+
+**Q-GC-KM-15. 39th B.P.S.C. (Pre) 1994**
+
+In which city was the conference of Khilafat Committee
+in 1920 held that requested Gandhiji to assume the
+leadership of Non-cooperation Movement?
+
+- (a) Lucknow (b) Lahore
+
+- (c) Allahabad (d) Karachi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In 1920 A.D., Gandhi suggested Khilafat Committee to adopt
+
+a programme of non-violent, non-cooperation to protest the
+
+Government behaviour. In June, 1920 the Khilafat Committee
+
+at Allahabad (now Prayagraj) unanimously accepted his
+
+suggestion and asked Gandhi to lead the Movement. In
+
+September, 1920, during the special Calcutta session under
+
+the presidentship of Lala Lajpat Rai, resolution of Noncooperation Movement was adopted.
+
+</details>
+
+---
+
+**Q-GC-KM-16. I.A.S. (Pre) 2000**
+
+“In this instance, we could not play off the
+Mohammedans against the Hindus.”
+To which one of the following events did this remark
+of Aitchison relate?
+
+- (a) Revolt of 1857
+
+- (b) Champaran Satyagraha (1917)
+
+- (c) Khilafat and Non-Cooperation Movement (1919-22)
+
+- (d) August Movement of 1942
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+This statement of Aitchison is related to the event of Khilafat
+
+and Non-Cooperation Movement of 1919-22 A.D. At this
+
+time, Muslims joined the Nationalist stream, and there was
+
+unprecedented unity between Hindus and Muslims. This was
+
+at the time when Jinnah announced that we are first Muslims
+
+then Indians.
+
+</details>
+
+---
+
+**Q-GC-KM-17. 43rd B.P.S.C. (Pre) 1999**
+
+Moplah Rebellion in 1921 was an offshoot of :
+
+- (a) Khilafat Movement
+
+- (b) Mutiny of 1857
+
+- (c) Swadeshi Movement
+
+- (d) Non-Cooperation Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Moplah peasants revolted against the Hindu landlord’s
+
+oppressive policies, which were in alliance with the British.
+
+The Hindu landlords redistributed their lands and the
+
+Moplahs, who had been suffering, tempted to in revolt, a
+
+pitched battle between the British regiment and the Moplahs
+
+which killed several Europeans. On the other hand, the
+
+Khilafat Movement also turned more aggressive, and the
+
+situation had become very confusing, and it was very difficult
+
+to make a difference between the meetings of Khilafat
+
+Movement and the meeting by Moplah peasants. Thus both
+
+the Movements were merged together.
+
+</details>
 
 ## Ghatnachakra Extra Drill — Non-Cooperation, Swaraj Party, Simon–Nehru
 

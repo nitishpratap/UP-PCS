@@ -130,30 +130,8 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate (दि
 
 > **Logic:** Book–author stems focus on **Persian chronicles and Mughal texts**; vernacular bhakti belongs in Topic 4.
 
-### PYQ — Baburnama vs court Persian A/R
-
-**1. (UPPCS Prelims 2025, Q3)Assertion (A):** Babur wrote Tuzk-e-Babri in Chagatai Turki.
-
-**Reason (R):** Turki was the official language of the Mughal Court.
-
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true, R explains A
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Assertion (A) is true, but Reason (R) is false)
-
-**Detailed Explanation:**
-- **Assertion (A) is correct:** Zahiruddin Muhammad Babur, the founder of the Mughal Empire, wrote his famous candid autobiography *Tuzk-e-Babri* (popularly known as *Baburnama* or *Waqiat-i-Baburi*) in his mother tongue, **Chagatai Turki** (a Turkic language spoken in Central Asia/Fergana). It was later translated into Persian during Akbar's reign by Abdur Rahim Khan-i-Khanan in 1589 CE, and later into English by John Leyden, William Erskine, and Annette Beveridge.
-- **Reason (R) is incorrect:** Turki was **never** the official administrative or court language of the Mughal Empire. From the time of the Delhi Sultanate through Akbar's administrative reforms (formalized by Raja Todar Mal), **Persian** (*Farsi*) served as the sole official language of government administration, revenue accounting, royal decrees (*farmans*), diplomacy, and high literature across the Mughal Empire.
-
-**Key Exam Takeaway / Trap:**
-- *Language Trap:* *Baburnama* is the **only** major original Mughal imperial text composed in Chagatai Turki. Every other major official imperial chronicle—such as *Humayunnama*, *Ain-i-Akbari*, *Akbarnama*, *Tuzuk-i-Jahangiri*, *Padshahnama*, and *Alamgirnama*—was composed in **Persian**.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2025, Q3]:** Assertion (A): Babur wrote *Tuzk-e-Babri* in **Chagatai Turki**. Reason (R): Turki was NOT the official court language of the Mughal Empire (Mughal court language was **Persian**). *(See Q4 in Complete PYQ Bank below)*
 
 ---
 
@@ -227,31 +205,8 @@ D. Both true, R explains A
 
 > **Logic:** **Tughlaqnama–Ibn Battuta** is **wrong** — **Barani** wrote **Tughlaqnama**. **Tarikh-i-Firozshahi–Shams-i-Siraj Alif** is also wrong; **Barani** wrote the standard **Tarikh-i-Firoz Shahi**.
 
-### PYQ — Book↔author NOT matched
-
-**1. (UPPCS Prelims 2019, Q16)** Which of the following is **NOT** correctly matched?
-
-A. Tabaqat-i-Nasiri — Minhaj-us-Siraj Juzjani
-B. Tarikh-i-Firozshahi — Shams-i-Siraj Alif
-C. Tughlaqnama — Ibn Battuta
-D. Humayunnama — Gulbadan Begum
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Tughlaqnama — Ibn Battuta is NOT correctly matched)
-
-**Detailed Explanation:**
-- **Option C is incorrectly matched (Correct Answer):** *Tughlaqnama* was composed by the legendary poet **Amir Khusrau** in 1320 CE. It was his final historical *masnavi*, composed to commemorate the victory of Ghiyasuddin Tughlaq over Khusrau Khan and the founding of the Tughlaq dynasty. Ibn Battuta was a Moroccan traveler who arrived in India during Muhammad bin Tughlaq's reign (serving as Qazi of Delhi for eight years) and authored the monumental Arabic travelogue **Kitab-ur-Rihla** (*The Journey*), not *Tughlaqnama*.
-- **Option A is correctly matched:** *Tabaqat-i-Nasiri* was written in Persian by Minhaj-us-Siraj Juzjani, dedicated to Sultan Nasiruddin Mahmud (reigned 1246–1266 CE); it provides the foremost contemporary account of the Ilbari/Mamluk dynasty.
-- **Option B is correctly matched:** *Tarikh-i-Firoz Shahi* was composed by Shams-i-Siraj Afif (often printed as Shams-i-Siraj 'Alif' in question papers). He wrote a detailed, sympathetic history focusing exclusively on the full reign of Sultan Firuz Shah Tughlaq, picking up where Ziauddin Barani's earlier chronicle of the same name ended.
-- **Option D is correctly matched:** *Humayunnama* was composed in Persian by Gulbadan Begum (Babur's daughter and Humayun's sister) at the request of Emperor Akbar, providing an intimate domestic perspective of the early Mughal court.
-
-**Key Exam Takeaway / Trap:**
-- *Two Tarikh-i-Firoz Shahis:* Both Ziauddin Barani and Shams-i-Siraj Afif authored independent works titled *Tarikh-i-Firoz Shahi*. Never mark Shams-i-Siraj Afif as incorrect for this title.
-- *Khusrau vs Ibn Battuta:* *Tughlaqnama* = Amir Khusrau; *Kitab-ur-Rihla* = Ibn Battuta.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2019, Q16]:** *Tabaqat-i-Nasiri* = Minhaj-us-Siraj; *Tarikh-i-Firozshahi* = Shams-i Siraj Afif & Ziauddin Barani; *Tughlaqnama* = **Amir Khusrau** (NOT Ibn Battuta); *Humayun-nama* = Gulbadan Begum. *(See Q1 in Complete PYQ Bank below)*
 
 ---
 
@@ -285,36 +240,8 @@ D. Humayunnama — Gulbadan Begum
 - Folklore attributes **sitar, tabla (तबला), qawwali (क़व्वाली), and tarana (तराना)** to Khusrau, and papers accept his pioneer status.
 - Khusrau was **not Mughal**: he is not Tansen (Akbar's court), and he did not translate **Tutinama** — that was **Nakhshabi**.
 
-### PYQ — Vernacular match + Tutinama
-
-**1. (UPPCS Prelims 2019, Q88)** Match List-I (Author) with List-II (Work):
-
-| List-I | List-II |
-|--------|---------|
-| A. Mulla Daud | 1. Chandayan |
-| B. Damodar Kavi | 2. Ashiqa |
-| C. Somnath | 3. Padmavati Katha |
-| D. Amir Khusrau | 4. Rag Vibodh |
-
-*Row order in the table is not the answer code.*
-
-A. 1-3-2-4 | B. 1-3-4-2 | C. 2-4-1-3 | D. 1-2-3-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1-3-4-2: A-1, B-3, C-4, D-2)
-
-**Detailed Explanation:**
-- **A. Mulla Daud → 1. Chandayan:** Mulla Daud composed *Chandayan* (also known as *Lorikayan*, the romance of Lorik and Chanda) in 1379 CE in early Awadhi/Hindavi under the patronage of Jauna Khan (minister of Firuz Shah Tughlaq); it is hailed as the first Sufi premakhyan in Hindi literature.
-- **B. Damodar Kavi → 3. Padmavati Katha:** Damodar Kavi composed *Padmavati Katha* (in early Rajasthani/Apabhramsha vernacular), an early rendering of the legendary romance distinct from Jayasi's Awadhi *Padmavat*.
-- **C. Somnath → 4. Rag Vibodh:** Pandit Somanatha wrote the Sanskrit music treatise *Raga Vibodha* (*Rag Vibodh*) in **1609 CE**.
-- **D. Amir Khusrau → 2. Ashiqa:** Amir Khusrau authored the Persian masnavi *Ashiqa* / *Deval Rani Khizr Khan*.
-
-**Key Exam Takeaway / Trap:**
-- *Matching Anchor:* Mulla Daud (*Chandayan*) → 1 and Damodar Kavi (*Padmavati Katha*) → 3 leave **C-4 / D-2**, which is code **1-3-4-2** (**Option B**). Do not swap Ashiqa and Rag Vibodh.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2022, Q43]:** **Zia Nakhshabi** was the first to translate Sanskrit stories into Persian (*Tutinama*, based on Chintamani Bhatt’s *Shukasaptati*). *(See Q6 in Complete PYQ Bank below)*
 
 **2. (UPPCS Prelims 2022, Q43)** Who translated *Suka Saptati* into Persian as *Tutinama*?
 
@@ -409,33 +336,8 @@ D. Amir Khusrau
 - Court death order: **Faizi (1595)** → **Sheikh Mubarak (1597)** → **Abul Fazl murdered (1602)** → **Daniyal (1604)**.
 - Abul Fazl was murdered by **Bir Singh Bundela**, an ally of Jahangir, in 1602.
 
-### PYQ — Abul Fazl family deaths
-
-**1. (UPPCS Prelims 2024, Q132)** Arrange in chronological order:
-
-1. Murder of Abul Fazl
-2. Death of Sheikh Mubarak
-3. Death of Faizi
-4. Death of Daniyal
-
-A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3-2-1-4: Death of Faizi → Death of Sheikh Mubarak → Murder of Abul Fazl → Death of Daniyal)
-
-**Detailed Explanation:**
-- **3. Death of Faizi (1595 CE):** Shaikh Abu al-Faiz (Faizi), the poet laureate (*Malik-ush-Shu'ara*) of Akbar's court and elder brother of Abul Fazl, passed away of asthma at Agra in October 1595 CE.
-- **2. Death of Sheikh Mubarak Nagauri (1593/1597 CE):** Shaikh Mubarak, the liberal scholar who drafted the *Mahzar* (Infallibility Decree of 1579) and father of Faizi and Abul Fazl, died in the 1590s (dated around 1597 in UPPCS chronology).
-- **1. Murder of Abul Fazl (August 1602 CE):** Abul Fazl, the author of *Akbarnama* and *Ain-i-Akbari*, was ambushed and assassinated near Antri (near Gwalior) by Bir Singh Deo Bundela at the instigation of Prince Salim (Jahangir) in August 1602 CE.
-- **4. Death of Prince Daniyal (April 1604 CE):** Akbar's third son, Prince Daniyal Mirza (subahdar of the Deccan), died of severe alcoholism at Burhanpur in April 1604 CE, deeply grieving Emperor Akbar shortly before his own demise in 1605 CE.
-- **Chronological Sequence:** 3 (Faizi, 1595) → 2 (Sheikh Mubarak, 1597) → 1 (Abul Fazl, 1602) → 4 (Daniyal, 1604) = **3-2-1-4**.
-
-**Key Exam Takeaway / Trap:**
-- *Abul Fazl Murder Anchor:* Abul Fazl was murdered in **1602 CE** by Bir Singh Bundela on the orders of Jahangir. Prince Daniyal died in **1604 CE**. Faizi died earlier in **1595 CE**.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2024, Q132]:** Chronology of deaths in Akbar’s court circle: **Faizi (1595)** → **Abul Fazl (1602, murdered by Bir Singh Bundela on Jahangir’s orders)** → **Akbar (1605)**. *(See Q3 in Complete PYQ Bank below)*
 
 ---
 
@@ -482,39 +384,8 @@ A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
 
 > **Logic:** **Mirat-e-Sikandari** narrates the **Gujarat** victory; **Burhan-e-Masir** covers **Ahmadnagar**; **Riyaz-us-Salatin** is **Bengal** history; **Riyaz-ul-Insha** collects **Gawan's** letters.
 
-### PYQ — Regional chronicle match
-
-**1. (UPPCS Prelims 2023, Q33)** Match List-I (Book) with List-II (Context):
-
-| List-I | List-II |
-|--------|---------|
-| A. Mirat-e-Sikandari | 1. History of Bengal |
-| B. Burhan-e-Masir | 2. History of Bahmani's Ahmad Nagar |
-| C. Riyaz-us-Salatin | 3. Collection of Mahmud Gawan's letters |
-| D. Riyaz-ul-Insha | 4. Victory of Gujarat |
-
-*Row order in the table is not the answer code.*
-
-A. 4 2 1 3
-B. 2 4 1 3
-C. 1 2 4 3
-D. 4 2 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (4 2 1 3: A-4, B-2, C-1, D-3)
-
-**Detailed Explanation:**
-- **A. Mirat-e-Sikandari → 4. Victory/History of Gujarat:** Written in Persian by Shaikh Sikandar ibn Muhammad Manjhu in 1611 CE, this text provides the authoritative history of the Gujarat Sultanate from its establishment under Zafar Khan to its conquest by Emperor Akbar.
-- **B. Burhan-e-Masir → 2. History of Bahmani's Ahmad Nagar:** Authored by Sayyid Ali bin Azizullah Tabataba in 1599 CE, this chronicle details the history of the Bahmani Sultanate and the Nizam Shahi dynasty of Ahmadnagar up to the reign of Burhan Nizam Shah II.
-- **C. Riyaz-us-Salatin → 1. History of Bengal:** Authored by Ghulam Husain Salim Zaidpuri in 1787–88 CE at Malda under British patronage; it represents the first complete formal Persian chronicle on the Muslim rulers and Nawabs of Bengal.
-- **D. Riyaz-ul-Insha → 3. Collection of Mahmud Gawan's letters:** Compiled by Khwaja Mahmud Gawan (the celebrated prime minister/*Wakil-us-Sultanat* of the Bahmani Sultanate); it contains his official diplomatic dispatches, state correspondence, and private letters illustrating 15th-century Deccan politics.
-
-**Key Exam Takeaway / Trap:**
-- *The "Riyaz" Pair Confusion:* Do not confuse **Riyaz-us-Salatin** (Salatin = Sultans of Bengal) with **Riyaz-ul-Insha** (Insha = Epistolary art / letters of Mahmud Gawan of the Bahmani kingdom).
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2023, Q33]:** Regional chronicles: *Mirat-e-Sikandari* = Gujarat; *Burhan-e-Masir* = Ahmadnagar; *Riyaz-us-Salatin* = Bengal; *Tazkirat-ul-Muluk* = Bijapur. *(See Q7 in Complete PYQ Bank below)*
 
 ---
 
@@ -838,6 +709,1462 @@ D. All 1, 2, 3 and 4
 **Key Exam Takeaway / Trap:**
 - *Khusrau's Historical Masnavis:* Master all five major narrative works of Amir Khusrau: **Qiran-us-Sa'dain** (Kaiqubad), **Miftah-ul-Futuh** (Jalaluddin Khalji), **Ashiqa / Deval Rani Khizr Khan** (Alauddin's era), **Nuh Sipihr** (Mubarak Shah Khalji), and **Tughlaqnama** (Ghiyasuddin Tughlaq).
 
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Delhi Sultanate Literature
+
+Sequence of 20 questions from Ghatna Chakra Delhi Sultanate: Literature (B–242 to B–244). Covers Amir Khusrau (Tuti-i-Hind, Sabaq-i-Hindi, Qawwali, sitar/tabla), Minhaj-us-Siraj (Tabaqat-i-Nasiri), and Ziauddin Barani (Tarikh-i-Firoz Shahi, Fatawa-i-Jahandari).
+
+**Q-GC1. R.A.S./R.T.S.(Pre) 2010**
+
+Who was the famous author of Kitab-ul-Hind?
+
+A. Hasan Nizami
+
+B. Minhaj-us-Siraj
+
+C. Al-Biruni
+
+D. Shams-e-Siraj Afif
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Kitab-ul-Hind was written by Al-Biruni. His real name was
+Abu Rehan. He studied India as a scientist and described
+the religious, literary and socio-political condition of India.
+
+</details>
+
+---
+
+**Q-GC2. M.P.P.C.S. (Pre) 2022**
+
+Who is the author of the book "Tahqiq-i-Hind"?
+
+A. Ziauddin Barani
+
+B. Amir Khusro
+
+C. Al-Biruni
+
+D. Abdur Razzaq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+"Tahqiq-i-Hind" is a historical work written by the 10-11th
+century A.D. Persian historian and scholar Al-Biruni. Tahqiq-iHind is one of his notable works, where he provided a detailed
+account of the history, Geography and culture of India.
+
+</details>
+
+---
+
+**Q-GC3. U.P.P.C.S. (Pre) 2003 · U.P.U.D.A./L.D.A. (Pre) 2002**
+
+Amir Khusrau was born in :
+
+A. Agra
+
+B. Barabanki
+
+C. Etah
+
+D. Etawah
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Abul Hasan Yaminuddin Khusrau was known as Amir
+Khusrau. He was born at Patiyali in district Etah (now named
+Kasganj) in 1253 A.D. Khusrau called himself “Tuti-i-Hind”
+(Parrot of India). He started composing poems at an early age
+of nine. His first Masnavi on the historical subject was Qiranus-Sadain. Miftah-ul-Futuh, Khazain-ul-Futuh, Ashika, Nuh
+Sipihr, Tughluq Nama etc. were the major creations of Amir
+Khusrau. Tughluq Nama is the last historical Masnavi of
+Amir Khusrau.
+
+</details>
+
+---
+
+**Q-GC4. U.P.P.C.S. (Mains) 2005**
+
+Amir Khusrau, the “Parrot of India,” was born at-
+
+A. Patti
+
+B. Patli
+
+C. Patiyali
+
+D. Patiala
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Abul Hasan Yaminuddin Khusrau was known as Amir
+Khusrau. He was born at Patiyali in district Etah (now named
+Kasganj) in 1253 A.D. Khusrau called himself “Tuti-i-Hind”
+(Parrot of India). He started composing poems at an early age
+of nine. His first Masnavi on the historical subject was Qiranus-Sadain. Miftah-ul-Futuh, Khazain-ul-Futuh, Ashika, Nuh
+Sipihr, Tughluq Nama etc. were the major creations of Amir
+Khusrau. Tughluq Nama is the last historical Masnavi of
+Amir Khusrau.
+*(Refer to Q-GC3 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC5. U.P.P.C.S. (Mains) 2013**
+
+Who among the following called himself the ‘Parrot
+
+of India’ ?
+
+A. Qutban
+
+B. Usman
+
+C. Amir Khusrau
+
+D. Amir Hasan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Abul Hasan Yaminuddin Khusrau was known as Amir
+Khusrau. He was born at Patiyali in district Etah (now named
+Kasganj) in 1253 A.D. Khusrau called himself “Tuti-i-Hind”
+(Parrot of India). He started composing poems at an early age
+of nine. His first Masnavi on the historical subject was Qiranus-Sadain. Miftah-ul-Futuh, Khazain-ul-Futuh, Ashika, Nuh
+Sipihr, Tughluq Nama etc. were the major creations of Amir
+Khusrau. Tughluq Nama is the last historical Masnavi of
+Amir Khusrau.
+*(Refer to Q-GC3 for primary reference context)*
+*(Refer to Q-GC4 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC6. U.P.P.C.S. (Pre) 2008 · U.P.P.C.S. (Pre) 2002**
+
+Amir Khusrau played a pioneering role in the
+
+development of –
+
+A. Braj Bhasha
+
+B. Awadhi
+
+C. Khari Boli
+
+D. Bhojpuri
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Amir Khusrau learned various Indian dialects, especially
+Hindavi, which he loved most. He was the first Muslim who
+admitted that he is an Indian. He played a pioneering role in
+the development of Khari Boli.
+
+</details>
+
+---
+
+**Q-GC7. U.P.P.C.S. (Mains) 2005 · I.A.S. (Pre) 1994**
+
+Who among the following witnessed the reign of Seven
+
+Sultans of Delhi?
+
+A. Amir Khusrau
+
+B. Shaikh Nizamuddin Auliya
+
+C. Khwaja Muinuddin Chishti
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** *****
+
+**Detailed Explanation:**
+Both Amir Khusrau and Shaikh Nizamuddin Auliya witnessed
+the reign of more than seven Sultans of Delhi Sultanate.
+
+</details>
+
+---
+
+**Q-GC8. Uttarakhand P.C.S. (Pre) 2004**
+
+The famous poet Amir Khusrau was associated with
+
+the court of –
+
+A. Nawab Asafuddaula
+
+B. Ghiyasuddin Balban
+
+C. Muhammad Shah ‘Rangila’
+
+D. Qutbuddin Aybak
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Amir Khusrau was associated with the courts of various
+Delhi rulers, i.e., Nasiruddin Mahmud, Balban, Kaiqubad,
+Samsuddin Kayumars, Jalaluddin Khalji, Alauddin Khalji,
+Shihabuddin Umar, Mubarakshah, Ghiyasuddin Tughluq and
+Muhammad-Bin- Tughluq. He was the disciple of a Sufi saint,
+Nizamuddin Auliya. Miftah-ul-Futuh, Khazain-ul-Futuh
+(Tarikh-i-Alai), Ashika, Nuh Sipihr, Tughluq Nama etc. are
+some of the masterpieces written by him. Amir Khusrau was
+the court poet of Alauddin Khalji.
+
+</details>
+
+---
+
+**Q-GC9. Uttarakhand P.C.S. (Pre) 2002**
+
+The famous poet Amir Khusrau lived at the court of :
+
+A. Alauddin Khalji
+
+B. Iltutmish
+
+C. Muhammad-Bin-Tughluq
+
+D. Qutbuddin Aybak
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Amir Khusrau was associated with the courts of various
+Delhi rulers, i.e., Nasiruddin Mahmud, Balban, Kaiqubad,
+Samsuddin Kayumars, Jalaluddin Khalji, Alauddin Khalji,
+Shihabuddin Umar, Mubarakshah, Ghiyasuddin Tughluq and
+Muhammad-Bin- Tughluq. He was the disciple of a Sufi saint,
+Nizamuddin Auliya. Miftah-ul-Futuh, Khazain-ul-Futuh
+(Tarikh-i-Alai), Ashika, Nuh Sipihr, Tughluq Nama etc. are
+some of the masterpieces written by him. Amir Khusrau was
+the court poet of Alauddin Khalji.
+*(Refer to Q-GC8 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC10. U.P.P.C.S. (Pre) 1995**
+
+Amir Khusrau was court poet of :
+
+A. Muhammad-Bin-Tughluq
+
+B. Alauddin Khalji
+
+C. Sher Shah Suri
+
+D. Humayun
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Amir Khusrau was associated with the courts of various
+Delhi rulers, i.e., Nasiruddin Mahmud, Balban, Kaiqubad,
+Samsuddin Kayumars, Jalaluddin Khalji, Alauddin Khalji,
+Shihabuddin Umar, Mubarakshah, Ghiyasuddin Tughluq and
+Muhammad-Bin- Tughluq. He was the disciple of a Sufi saint,
+Nizamuddin Auliya. Miftah-ul-Futuh, Khazain-ul-Futuh
+(Tarikh-i-Alai), Ashika, Nuh Sipihr, Tughluq Nama etc. are
+some of the masterpieces written by him. Amir Khusrau was
+the court poet of Alauddin Khalji.
+*(Refer to Q-GC8 for primary reference context)*
+*(Refer to Q-GC9 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC11. M.P.P.C.S. (Pre) 2012**
+
+‘Amir Khusrau’ was associated with whose reign
+
+among the following?
+
+A. Alauddin Khalji
+
+B. Muhammad-Bin-Tughluq
+
+C. Ibrahim Lodi
+
+D. Firuz Shah Tughluq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Amir Khusrau was associated with the courts of various
+Delhi rulers, i.e., Nasiruddin Mahmud, Balban, Kaiqubad,
+Samsuddin Kayumars, Jalaluddin Khalji, Alauddin Khalji,
+Shihabuddin Umar, Mubarakshah, Ghiyasuddin Tughluq and
+Muhammad-Bin- Tughluq. He was the disciple of a Sufi saint,
+Nizamuddin Auliya. Miftah-ul-Futuh, Khazain-ul-Futuh
+(Tarikh-i-Alai), Ashika, Nuh Sipihr, Tughluq Nama etc. are
+some of the masterpieces written by him. Amir Khusrau was
+the court poet of Alauddin Khalji.
+*(Refer to Q-GC8 for primary reference context)*
+*(Refer to Q-GC9 for primary reference context)*
+*(Refer to Q-GC10 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC12. Chhattisgarh P.C.S. (Pre) 2011**
+
+Amir Khusrau was a –
+
+A. Poet
+
+B. Historian
+
+C. Musician
+
+D. all the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Amir Khusrau was a poet, historian, and musician. He was
+nicknamed as “Tuti-i-Hind.” He was a promoter of Khari
+Boli of Hindi.
+
+</details>
+
+---
+
+**Q-GC13. R.A.S./R.T.S. (Pre) 1999**
+
+Father of new Persian poetry style “Sabak-i-Hindi or
+
+Hindustani style was :
+
+A. Ziyauddin Barani
+
+B. Afiq
+
+C. Isami
+
+D. Amir Khusrau
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Amir Khusrau is considered as the father of the new Persian
+poetry style “Sabak-i-Hindi” or Hindustani style. He
+called himself ‘Tuti-i-Hind; He used to say that “Na Lafze
+Hindiwast aj Farsi Kam” which means the words of Hindi
+are not less than those of the Persian.
+
+</details>
+
+---
+
+**Q-GC14. U.P.P.C.S. (Mains) 2012**
+
+Who among the following is known as the ‘Father of
+
+Hindi Khari Boli?
+
+A. Amir Khusrau
+
+B. Malik Muhammad Jaisi
+
+C. Kabir
+
+D. Abdur Rahim-Khan-e-Khanan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Amir Khusrau is known as the father of Hindi Khari Boli.
+He was a promoter of new poetic style ‘Sabak-i-Hindi’ or
+‘Hindustani Style.’
+
+</details>
+
+---
+
+**Q-GC15. U.P.P.C.S. (Pre) 1990**
+
+The savant of both languages “Hindi and Persian”
+
+was –
+
+A. Akbar
+
+B. Tansen
+
+C. Amir Khusrau
+
+D. Bairam Khan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Khusrau was a scholar of both the Hindi (Hindavi) and the Persian
+languages.
+
+</details>
+
+---
+
+**Q-GC16. U.P.P.C.S. (Mains) 2017**
+
+Who among the following was the first Persian poet to
+
+depict Indian environment in his poetry?
+
+A. Amir Khusrau
+
+B. Amir-Hasan
+
+C. Abu Talib Kaleem
+
+D. Faizi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Amir Khusrau was a prolific classical poet associated with
+the Royal courts of more than seven rulers of Delhi Sultanate.
+He was the first Persian poet to depict Indian environment
+in his poetry.
+
+</details>
+
+---
+
+**Q-GC17. I.A.S. (Pre) 2003**
+
+Consider the following statements :
+
+1. Kitab-i-Nauras, a collection of songs in praise of
+
+Hindu deities and Muslim saints, was written by
+
+Ibrahim Adil Shah II.
+
+2. Amir Khusrau was the originator in India of the
+
+early form of the musical style known as Qawwali.
+
+Which of these statements is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Sultan of Bijapur Ibrahim Adil Shah-II wrote the song
+collection 'Kitab-i-Nauras'. He established the city called
+Nauraspur and made it his capital. Amir Khusrau was the
+originator of the early form of musical style in India known
+as 'Qawwali'.
+
+</details>
+
+---
+
+**Q-GC18. 42nd B.P.S.C. (Pre) 1997**
+
+Who was the author of Tabaqat-i-Nasiri?
+
+A. Shaikh Jamaluddin
+
+B. Al-Biruni
+
+C. Minhaz-us-Siraj
+
+D. Ziyauddin Barani
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The text ‘Tabaqat-i-Nasiri’ written by Minhaj-us-Siraj
+(Minhaj-i-Siraj), was dedicated to Sultan Nasiruddin
+Mahmud. The text is divided into 23 volumes and was
+translated by H.G. Raverty into the English language. The
+text describes the victory of Muhammad Ghori over India.
+
+</details>
+
+---
+
+**Q-GC19. U.P.P.C.S. (Pre) 2020**
+
+Consider the following text and arrange them in
+
+chronological order:
+
+1. Fatawa-i-Jahandari
+
+2. Prithviraja-Raso
+
+3. Kitab-ul-Hind
+
+4. Tabaqat-i-Nasiri
+
+Select the correct answer from the codes given below.
+
+Codes:
+
+A. 2, 3, 4, 1
+
+B. 3, 1, 2, 4
+
+C. 4, 3, 1, 2
+
+D. 3, 2, 4, 1
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Fatawa-i-Jahandari was written by Ziauddin Barani.
+Prithviraja-Raso is written by Chandarbardai, Kitab-ul-hind
+is written by Al-Biruni & Tabaqat-i-Nasiri by Minhaz-i-siraj.
+Hence correct option is option (d).
+
+</details>
+
+---
+
+**Q-GC20. Uttarakhand P.C.S. (Pre) 2024**
+
+Which of the following works was written by Ziauddin
+
+Barani?
+
+A. Tarikh-i-Mubarak Shahi
+
+B. Fatwa-i-Jahandari
+
+C. Jami-ul-Akhbar
+
+D. Tarikh-i-Muhammadi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+<truncated 30720 bytes>
+NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+
+</details>
+
+---
+
+
+
+### 5.14 Master Fact-Locks — Mughal Literature, Chronicles & Translations
+
+| Book / Text | Author / Translator | Patron / Reign | Core Subject & Exam Lock |
+|---|---|---|---|
+| **Humayun Nama** | **Gulbadan Begum** | Akbar (commissioned by) | Daughter of Babur, sister of Humayun; detailed domestic and political account of Babur and Humayun; described Humayun-Kamran conflict. |
+| **Khair-ul-Manzil / Madarsa-e-Begum** | Built by **Maham Anaga** (1561 CE) | Akbar | Mosque and educational madrasa built opposite Purana Qila, Delhi. |
+| **Baburnama (English Translation)** | **John Leyden & William Erskine** (1826) | — | First major English translation from the Persian version; later translated directly from Turki by Annette Beveridge. |
+| **Tabaqat-i-Akbari (Tarikh-i-Nizami)** | **Khwaja Nizamuddin Ahmad** | Akbar | Comprehensive history of India up to 1593–94 CE; regarded by many modern historians as more sober and reliable than Abul Fazl's *Akbarnama*. |
+| **Padshahnama (Badshahnama)** | **Abdul Hamid Lahori** | Shah Jahan | Official court history of the first two decades of Shah Jahan's reign; continued by Muhammad Waris. |
+| **Shahjahannama** | **Inayat Khan** | Shah Jahan | Chronicle of Shah Jahan's reign; translated into English by A.R. Fuller in the 19th century. |
+| **Alamgir Nama** | **Munshi Muhammad Kazim** | Aurangzeb | Official history covering the first 10 years of Aurangzeb's reign (discontinued on Emperor's order). |
+| **Masir-i-Alamgiri** | **Saqi Mustaid Khan** | Post-Aurangzeb | Complete and authoritative chronicle of Aurangzeb's entire 50-year reign, composed after his death. |
+| **Futuhat-i-Alamgiri** | **Ishwardas Nagar** | Aurangzeb | Valuable eyewitness history written by a Gujarati Nagar Brahmin official in Mughal service. |
+| **Nuskha-i-Dilkusha (Tarikh-i-Dilkusha)** | **Bhimsen Kayastha** | Aurangzeb | Unique and candid memoir of Aurangzeb's Deccan campaigns, Mughal-Maratha warfare, and agrarian conditions. |
+| **Chahar Chaman** | **Chandrabhan Brahman** | Shah Jahan | Elegant Persian prose describing the Mughal court, festivals, and administration. |
+| **Khulasat-ut-Tawarikh** | **Sujanrai Bhandari** | Aurangzeb | General history of India from ancient times down to Aurangzeb's accession; rich geographic data. |
+| **Iqbal Nama-i-Jahangiri** | **Mutamad Khan** | Jahangir | Detailed history of Jahangir's reign. |
+| **Tarikh-i-Sher Shahi (Tuhfa-i-Akbar Shahi)** | **Abbas Khan Sarwani** | Akbar (commissioned by) | Most detailed historical record of Sher Shah Suri's life, wars, and administrative system. |
+| **Hitopadesha (Persian Translation)** | **Taj-ul-Din Mufti al-Maliki** | Akbar | Translated under the title ***Mufarrih-al-Qulub***. |
+| **Yogavashishta (Persian Translation)** | **Nizamuddin Panipati** | Akbar | Philosophical Sanskrit text translated into Persian. |
+| **Panchatantra (Persian Translations)** | • **Kalila-wa-Dimnah** (Nasrullah Munshi)<br>• **Anwar-i-Suhaili** (Mulla Husain Waiz Kashifi)<br>• **Ayar-i-Danish** (Abul Fazl) | Various / Akbar | Classic animal fables. |
+| **Nastaliq Script** | Persian Calligraphy Style | Mughal Court | The predominant cursive Persian script used in medieval India; Emperor Aurangzeb was a skilled master calligrapher of Nastaliq. |
+| **Braj / Riti-kaal Classics** | **Acharya Keshavdas** (1555–1617) | Orchha Court | Composed ***Rasik Priya***, ***Kavipriya***, ***Ramachandrika***, and ***Ratan Bavani*** (*Trap:* *Ram Rasayan* is by Padmakar, NOT Keshavdas). |
+| **Krishna Devotional Poetry** | **Raja Sawant Singh (Nagri Das)** | Kishangarh | Ruler of Kishangarh; wrote verses praising Lord Krishna/Radha; patron of Nimbarka sampradaya. |
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Mughal Literature
+
+Complete unabridged 32-question bank from Ghatna Chakra covering Mughal historical chronicles, royal autobiographies, Persian translations of Sanskrit classics, court historians, Riti-kaal vernacular literature, and calligraphic scripts. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC21. U.P.P.C.S. (RO/ARO) (Mains) 2017**
+
+Who translated 'Baburnama' into English?
+
+- (a) Leyden and Erskine
+- (b) William Hawkins
+- (c) Finch
+- (d) William Jones
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+'Baburnama' was translated (from persian) into English by
+
+John Leyden and William Erskine.
+</details>
+
+---
+
+**Q-GC22. State PCS**
+
+Gulbadan Begum was the daughter of-
+
+- (a) Babur
+- (b) Humayun
+- (c) Shah Jahan
+- (d) Aurangzeb U.P. P.C.S. (Pre) 2004 U.P. Lower Sub. (Pre) 2004
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Gulbadan Begum was the daughter of Babur. She was born
+
+in 1523 A.D. and died in 1603 A.D. She documented many
+
+historical events in her book ‘Humayun Nama’. Akbar had
+
+great respect for her. Gulbadan Begum wrote that she had
+
+written the history of Babur and Humayun on the orders
+
+of Akbar. She described the battle between Humayun and
+
+Kamran in her book.
+</details>
+
+---
+
+**Q-GC23. U.P.P.C.S. (Pre) 1998, I.A.S. (Pre) 1994**
+
+Who among the following wrote historical records in
+the Mughal period?
+
+- (a) Gulbadan Begum
+- (b) Nur Jahan Begum
+- (c) Jahanara Begum
+- (d) Zebunnisa Begum
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question. 
+
+Indian History General Studies B–319
+</details>
+
+---
+
+**Q-GC24. Uttarakhand P.C.S. (Pre) 2010, U.P.P.C.S. (Pre) 2004, U.P.P.C.S. (Mains) 2002, 42nd B.P.S.C. (Pre) 1997**
+
+Who wrote Humayun Nama?
+
+- (a) Babur
+- (b) Humayun
+- (c) Gulbadan Begum
+- (d) Jahangir
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC25. Jharkhand P.S.C. (Mains) 2016**
+
+Who wrote 'Humayun Nama'?
+
+- (a) Badayuni
+- (b) Abul Fazal
+- (c) Ahmad Yadgar
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC26. U.P.P.C.S. (Mains) 2012**
+
+Delhi’s education centre which was known as ‘Madarsae-Begum’ was established by whom?
+
+- (a) Gulbadan Begum
+- (b) Maham Anaga
+- (c) Ziaunnisa
+- (d) Zeenat Unnisa
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Maham Anaga built ‘Khairul Manzil mosque in Mughal
+
+architecture. Later, it served as a Madarsa and now stands
+
+opposite to Purana Qila, Delhi. Today, it is also known as
+
+‘Madarsa-e-Begum.
+</details>
+
+---
+
+**Q-GC27. U.P.P.C.S. (Pre) 2018**
+
+The mosque-the Khayr-ul-manzil opposite to the
+Purana Qila in Delhi was constructed by whom?
+
+- (a) Hamida Banu Begum
+- (b) Salima Sultan
+- (c) Jiji Anga
+- (d) Maham Anaga
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+</details>
+
+---
+
+**Q-GC28. U.P.P.C.S. (Mains) 2013**
+
+Who among the following had translated ‘Hitopadesha’
+into Persian ?
+
+- (a) Dara Shukoh
+- (b) Faizi
+- (c) Abdul Qadir Badauni
+- (d) Tajul Mali
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Hitopadesha is a collection of Sanskrit fables in prose and
+
+verse. It was translated into Persian by "Taj-ul-Din Muftial-Maliki" and named it "Mufarrih-al-Qubal.
+</details>
+
+---
+
+**Q-GC29. U.P.P.C.S. (Mains) 2003**
+
+Match List-I with List-II and select the correct answer
+by using the codes given below the lists :
+List-I List-II
+A. Hasan Nizami 1. Alamgir Nama
+B. Khwandamir 2. Nushkha-i-Dilkusha
+C. Muhammad Qazim 3. Humayun Nama
+D. Bhim Sen 4. Tazul Maasir
+Code :
+A B C D
+
+- (a) 4 3 1 2
+- (b) 3 2 4 1
+- (c) 2 4 3 1
+- (d) 1 3 2 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+Hasan Nizami - Tazul Maasir
+
+Khwandamir - Humayun Nama
+
+Muhammad Qazim - Alamgir Nama
+
+Bhim Sen - Nushkha-i-Dilkusha
+</details>
+
+---
+
+**Q-GC30. U.P.P.C.S. (Pre) 2019**
+
+Match List- I with List- II and select the correct answer
+using the codes given below :
+List- I List- II
+A. Mulla Daud 1. Chandayan
+B. Damodar Kavi 2. Ashiqa
+C. Somnath 3.Padmavati Katha
+D. Amir Khusro 4. Rag Vibodh
+Code :
+A B C D
+
+- (a) 1 3 2 4
+- (b) 1 3 4 2
+- (c) 2 4 1 3
+- (d) 1 2 3 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The correctly matched list of medieval writers and their
+
+works is as follows –
+
+Mulla Daud - Chandayan
+
+Damodar Kavi - Padmavati Katha
+
+Somnath - Rag Vibodh
+
+Amir Khusro - Ashiqa
+</details>
+
+---
+
+**Q-GC31. R.A.S./R.T.S.(Pre) 2013**
+
+Match the names of books with that of the authors,
+and choose your answer from the codes given below:
+Books Authors
+A. Alamgir Nama (i) Muitamad Khan
+B. Tabaqat-i-Akbari (ii) Munshi Mohd. Qazim
+C. Chahar Chaman (iii) Chandrabhan Barahman
+D. Iqbal Nama-Jahangiri (iv) Nizamuddin Ahmad
+Code:
+A B C D
+
+- (a) i iii iv ii
+- (b) iii ii i iv
+- (c) iv i ii iii
+- (d) ii iv iii i
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+B
+
+The correctly matched list is as follows :
+
+Alamgir Nama - Munshi Mohd. Qazim
+
+Tabaqat-i-Akbari - Nizamuddin Ahmed
+
+Chahar Chaman - Chandrabhan Barahman
+
+Iqbal Nama Jahangiri - Muitamad Khan
+</details>
+
+---
+
+**Q-GC32. Uttarakhand P.C.S. (Pre) 2016**
+
+Who wrote Tabaqat-i-Akbari?
+
+- (a) Abul Fazal
+- (b) Abdul Qadir Badauni
+- (c) Akbar Khan Sarwani
+- (d) Nizam-ud-din Ahmed
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Khwaja Nizam-ud-din Ahmed composed 'Tabakat-i-Akbari',
+
+which is also known as Tarikh-i-Nizami.
+</details>
+
+---
+
+**Q-GC33. 68th B.P.S.C. (Pre) 2022**
+
+Tabaqat-i-Akbari, which has been sometimes
+considered more reliable than Abul Fazl's Akbarnama,
+was written by
+
+- (a) Gulbadan Begum
+- (b) Nizamuddin Ahmad
+- (c) Abdul Hamid Lahori
+- (d) More than one of the above
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Khwaja Nizamuddin Ahmad wrote Tabaqat-i-Akbari.
+
+Gulbadan Begum wrote Humayun-Nama while Abdul Hamid
+
+Lahori wrote Padshahnama.
+</details>
+
+---
+
+**Q-GC34. R.A.S./R.T.S. (Pre) 1994**
+
+Which of the following Muslim scholars has most
+significant contribution into Hindi literature?
+
+- (a) Abul Fazl
+- (b) Faizi
+- (c) Abdur Rahim Khan-i-Khana
+- (d) Abdul Qadir Badauni
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The successful administration policy of tolerance and
+
+balanced attitude of Akbar provided such an opportunity for
+
+Hindi, to grow that his reign is called the golden era of Hindi
+
+poetry. Both Hindus and Muslims had equal rights on Hindi.
+
+Abdur Rahim Khan-i-Khana was a master in Arabic, Persian,
+
+Turkish, Sanskrit, Hindi and Rajasthani languages. ‘Rahim
+
+Satsai’ is his famous collection of couplets.
+</details>
+
+---
+
+**Q-GC35. I.A.S. (Pre) 2006**
+
+In Indian history, who was Abdul Hamid Lahori?
+
+- (a) An important military commander during Akbar’s reign.
+- (b) An official historian of the reign of Shah Jahan.
+- (c) An important noble and confidant of Aurangzeb.
+- (d) A chronicler and poet during the reign of Muhammad Shah.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Abdul Hamid Lahori was an official historian during the
+
+reign of Shah Jahan. He wrote the book ‘Padshahnama’,
+
+also known as ‘Badshahnama,’ the history of Shah Jahan.
+
+He joined the court of Shah Jahan as a traveller.
+</details>
+
+---
+
+**Q-GC36. Chhattisgarh P.C.S. (Pre) 2015**
+
+Who is the author of Shahjahannama?
+
+- (a) Gulbadan Begum
+- (b) Shahjahan
+- (c) Abdul Hamid Lahori
+- (d) Inayat Khan
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Shahjahannama (Chronicles of Shah Jahan) is a genre of
+
+works written about the Mughal emperor Shah Jahan. It was
+
+written by Inayat Khan in 17th century and was later translated
+
+into English by A.R. Fuller in 19th century A.D.
+</details>
+
+---
+
+**Q-GC37. (c) Sher Shah : Tarikh-i-Sher Shahi, (d) Akbar : Tabaqat-i-Akbari, U.P.P.C.S. (Mains) 2009**
+
+Which of the following pairs is correctly matched?
+
+- (a) Babur : Tuzuk-i-Baburi
+- (b) Humayun : Humayun Nama
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In the context of the above options, option (a) is correctly
+
+matched. ‘Tuzuk-i-Baburi’ is an autobiography of Babur is
+
+also known as ‘Baburnama’ written in the Turkish language.
+
+Humayun-Nama was written by Gulbadan Begum and
+
+Tarikh -i-Sher Shahi was written by Abbas Khan Sarwani
+
+while Tabaqat-i-Akbari was written by Khwaja Nizamuddin
+
+Ahmad.
+</details>
+
+---
+
+**Q-GC38. U.P.P.C.S. (Pre) 2019**
+
+Which of the following is not correctly matched?
+(books) (writers)
+
+- (a) Tabaqat-i-Nasiri Minhaj-i-Siraj-Juzjani
+- (b) Tarikh-i-Firuzshahi Shams-i-Siraj-Afif
+- (c) Tughluqnama Ibn Battuta
+- (d) Humayun Nama Gulbadan Begum
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Tughluqnama was written by Amir Khusro, while Ibn Battuta
+
+wrote his travelogue titled 'Rihla'. Rest of the options are
+
+correctly matched.
+</details>
+
+---
+
+**Q-GC39. U.P.P.C.S. (Pre) 1999**
+
+Anwar-e-Suhaili is a translation of :
+
+- (a) Panchtantra
+- (b) Mahabharata
+- (c) Ramayan
+- (d) Sur Sagar
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Indian History General Studies B–321
+
+Panchtantra was translated by Many scholars, Nashurullah
+
+Munshi Shiraji translated under the name of Kalila-waDimnah, and Mulla Husain Waaiz Kashifi translated under
+
+the name of "Anwar-i-Suheli'. Under the supervision of
+
+poet laureate Faizi, Akbar had established a translation
+
+department. It was the period when Abul Fazl translated the
+
+Sanskrit text ‘Panchatantra’ into the Persian language under
+
+the name ‘Ayar-i-Danish.’
+</details>
+
+---
+
+**Q-GC40. I.A.S. (Pre) 2022**
+
+"Yogavasistha" was translated into Persian by
+Nizamuddin Panipati during the reign of :
+
+- (a) Akbar
+- (b) Humayun
+- (c) Shahjahan
+- (d) Aurangzeb
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+"Yogavasistha" was translated into Persian by Nizamuddin
+
+Panipati during the reign of Akbar.
+</details>
+
+---
+
+**Q-GC41. U.P.P.C.S. (Pre) 2014**
+
+Akbar Nama was completed by Abul Fazl in –
+
+- (a) Seven years
+- (b) Eight years
+- (c) Nine years
+- (d) Ten years
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Akbarnama, written from 1590 to 1596 A.D. by Abul
+
+Fazl, one of the nine gems of Akbar’s court. Some books
+
+describe that it took more than 7 years (12 or 13 years) to
+
+complete Akbar Nama. Hence, Uttar Pradesh Public Service
+
+Commission did not evaluate this question.
+</details>
+
+---
+
+**Q-GC42. 67th B.P.S.C. (Pre) 2022**
+
+Ain-I-Akbari was written by :
+
+- (a) Abdul Qadir
+- (b) Akbar
+- (c) Khwaja Nizamuddin
+- (d) Abul Fazl
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Ain-i-Akbari was written by Akbar's court historian Abul
+
+Fazl in Persian language. It deals with the administration of
+
+Mughal Emperor Akbar.
+</details>
+
+---
+
+**Q-GC43. U.P.P.C.S. (Mains) 2012**
+
+Court Language during Mughal period was –
+
+- (a) Arabic
+- (b) Turkish
+- (c) Persian
+- (d) Urdu
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Court language of Mughal was Persian. Akbar was a
+
+protector of many languages. He established the ‘translation
+
+department’ for translating the works of languages like
+
+Sanskrit, Arabic, Turkish, Greek and also many other
+
+languages.
+</details>
+
+---
+
+**Q-GC44. M.P. P.C.S. (Pre) 1991**
+
+The court language of Mughals was –
+
+- (a) Turkish
+- (b) Persian
+- (c) Urdu
+- (d) Arabian
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Persian language was the official and administrative
+
+language of Mughals. While Urdu was the language of the
+
+princely courts such as Delhi and Lucknow.
+</details>
+
+---
+
+**Q-GC45. M.P.P.C.S. (Pre.) 2020**
+
+Who is the creator of the Mughal Text 'Masir-iAlamgiri'?
+
+- (a) Saqi Mustaid Khan
+- (b) Hatim Khan
+- (c) Kazim Shiraji
+- (d) Khafi Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+'Masir-i-Alamgiri' was written by Saqi Mustaid Khan. It
+
+chronicles the history of Mughal Emperor Aurangzeb.
+</details>
+
+---
+
+**Q-GC46. U.P.P.C.S. (Mains) 2017**
+
+Match List-I with List-II and select the correct answer
+from the codes given below :
+List-I List-II
+A. Bhimsen Kayestha 1. Chahar Chaman
+B. Chandrabhan Brahman 2. Futuhat-i-Alamgiri
+C. Ishwardas Nagar 3. Khulasat-ut-Tawarikh
+D. Sujanrai Bhandari 4. Tarikh-i-Dilkusha
+Codes :
+A B C D
+
+- (a) 1 2 3 4
+- (b) 2 3 4 1
+- (c) 3 4 1 2
+- (d) 4 1 2 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+Bhimsen Kayestha - Tarikh-i-Dilkusha
+
+Chandrabhan Brahman - Chahar Chaman
+
+Ishwardas Nagar - Futuhat-i-Alamgiri
+
+Sujanrai Bhandari - Khulasat-ut-Tawarikh
+</details>
+
+---
+
+**Q-GC47. (c) Haridas (d) None of them, 69th B.P.S.C. (Pre) 2023**
+
+Futuhat-i-Alamgiri was written by
+
+- (a) Ishwardas Nagar
+- (b) Bhimsen
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The book Futuhat-i-Alamgiri was written by Ishwardas
+
+Nagar who was a Mughal officer. This work contains some
+
+significant events of the reign of Aurangzeb.
+</details>
+
+---
+
+**Q-GC48. I.A.S. (Pre) 1996**
+
+Nastaliq was –
+
+- (a) A Persian script used in medieval India
+- (b) A raga composed by Tansen B
+- (c) A cess levied by the Mughal rulers
+- (d) A manual of code of conduct for the Ulemas
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Nastaliq was a Persian script used in medieval India during
+
+the Mughal period. The Mughal Emperor Aurangzeb was an
+
+expert in writing Nastaliq script.
+</details>
+
+---
+
+**Q-GC49. (c) Raja Chhatrasal (d) Raja Sawant Singh, U.P.P.S.C. (GIC) 2010, U.P.P.C.S. (Mains) 2004**
+
+The poet Heart King, who wrote praising verses for
+Lord Krishna under the name of Nagri Das was –
+
+- (a) Raja Ummed Singh
+- (b) Raja Ram Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Nagri Das (Servant of Radha) was the nickname of Raja
+
+Sawant Singh (17th-18th century) of Kishangarh state, Ajmer.
+
+He wrote many verses in praise of Lord Krishna. The rulers
+
+of Kishangarh patronized the Nimbarka sect.
+</details>
+
+---
+
+**Q-GC50. (c) Raskhan (d) Senapati, U.P.P.C.S. (Spl) (Mains) 2008**
+
+Which one of the following, wrote the famous works
+‘Rama Chandrika’ and ‘Rasik-Priya’ ?
+
+- (a) Keshav
+- (b) Matiram
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+‘Ramachandrika’ and ‘Rasik-Priya’ was written by Keshavdas
+
+(1555-1617 A.D.). He was a Sanskrit scholar and Hindi poet,
+
+best known for his ‘Rasik Priya’ a pioneering work of the
+
+Ritikaal of Hindi literature.
+</details>
+
+---
+
+**Q-GC51. M.P.P.C.S. (Pre) 2023**
+
+Whose famous work is 'Ramachandrika'?
+
+- (a) Padmakar
+- (b) Bhushan
+- (c) Keshavdas
+- (d) Bhavabhuti
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Ramachandrika is famous work of Keshavdas. Ratan Bavani,
+
+Rasikpriya, Kavipriya are poems attributed to him.
+</details>
+
+---
+
+**Q-GC52. (a) Ramachandrika (b) Kavipriya, (c) Ratan Bavani (d) Ram Rasayan, M.P. P.C.S. (Pre) 2025**
+
+Which of the following books was not written by
+Keshavdas?
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The major works of Keshavdas include Ramachandrika,
+
+Rasik Priya, Ratan Bavani, Kavipriya, Chhandamala, etc.
+
+Ram Rasayan, Ganga Lahari and Prabodh Pachasa etc. are
+
+works written by Padmakar.
 </details>
 
 ---

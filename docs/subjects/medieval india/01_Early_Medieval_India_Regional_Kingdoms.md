@@ -1069,6 +1069,80 @@ D. Madura–Veer Pandya
 
 ---
 
+## 1.22 Ghatnachakra Core Facts — South India & Pre-Medieval Dynasties Lock Table
+
+### ★ Master Lock: Three Tamil Sangams (मुवेन्दर संगम सम्मेलन)
+| Sangam (संगम) | Venue (स्थान) | Royal Patron | Chairman / President (अध्यक्ष) | Surviving Extant Texts |
+|---|---|---|---|---|
+| **First Sangam (प्रथम संगम)** | Madurai (पुराना मदुरै - submerged) | Pandya Kings | **Saint Agastya** | None survived (*Akattiyam* lost) |
+| **Second Sangam (द्वितीय संगम)** | Kapadapuram (कपाटपुरम / अलवै) | Pandya Kings | **Saint Agastya** & **Tolkappiyar** | ***Tolkappiyam*** (प्राचीनतम उपलब्ध तमिल व्याकरण) |
+| **Third Sangam (तृतीय संगम)** | Madurai (उत्तरी मदुरै) | Pandya Kings | **Nakkirar (नक्कीरर)** | *Ettuthokai*, *Pattupattu*, *Pathinenkilkanakku* |
+
+> **Key Facts to Lock:**
+> - **Sage Agastya (अगस्त्य ऋषि):** Revered as the sage who Aryanised South India; born in Kashi; honoured as the **"Father of Tamil Literature"**.
+> - **Tolkappiyam (तोल्काप्पियम):** Authored by **Tolkappiyar** (one of the 12 disciples of Agastya); written in formula/sutra style; comprises 3 divisions: *Ezhuttu* (letters/phonology), *Col* (words/morphology), and *Porul* (subject matter/poetics, social life, love, and war).
+> - **Kingship Titles in Sangam Texts:** The terms **Kon**, **Ko**, and **Mannan** were strictly attributed to the **King**.
+> - **Vattakirutal (वत्तकिरुतल):** A Tamil custom where a defeated king committed ritual suicide by fasting unto death facing North, surrounded by loyal companions.
+
+---
+
+### ★ Master Lock: Classical Tamil Literature & Bhakti Canon
+| Text / Canon | Author / Compiler | Nature & Key Theme | High-Yield Exam Note |
+|---|---|---|---|
+| ***Silappadikaram* (शिलप्पादिकारम)** | **Ilango Adigal** (grandson of Chola king Karikala) | Poignant tragic epic; love story of Kovalan, Kannagi & Madhavi | Kannagi's anklet; destruction of Madurai by divine wrath |
+| ***Manimekalai* (मणिमेकलै)** | **Sittalai Sattanar** (grain merchant of Madurai) | Buddhist ethical epic; story of Manimekalai (daughter of Kovalan & Madhavi) | Sequel to Silappadikaram; merchant and Buddhist philosophical story |
+| ***Tirukkural / Kural* (तिरुक्कुरल)** | **Tiruvalluvar** (saint-philosopher) | Universal ethical treatise in 133 chapters / 1330 couplets | Revered as the **"Bible of Tamil Literature"** and **"Laghuveda"** (*Muppal* = Aram, Porul, Inbam) |
+| ***Ramavataram* (रामावतारम)** | **Kamban** | Tamil poetic retelling of the Valmiki Ramayana | Revered as **Kamba Ramayanam** (composed during Chola era) |
+| ***Thirumurai* (तिरुमुरै)** | Compiled by Nambiyandar Nambi | 12-volume compendium of Shaivite devotional hymns (6th–11th c.) | Revered as the **"Fifth Veda"** of Tamil Shaivism; foundation of Saiva Siddhanta |
+| **Alvars (आलवार संत - 12)** | Prominent: Nammalvar, Andal (only female Alvar), Periyalvar | Tamil Vaishnavite saint-poets devoted to **Lord Vishnu** | Hymns compiled in *Nalayira Divya Prabandham* ("Tamil Veda") |
+| **Nayanars (नयनार संत - 63)** | Prominent: Appar, Sambandar, Sundarar, Manikkavacakar | Tamil Shaivite saint-poets devoted to **Lord Shiva** | Celebrated in Sekkizhar's *Periyapuranam* (12th volume of Thirumurai) |
+
+---
+
+### ★ Master Lock: Ancient Indo-Roman Maritime Trade & Coastal Ports
+| Port / Site | Coast / Modern State | Ancient Identification / Role | Signature Archaeological Evidence |
+|---|---|---|---|
+| **Arikamedu (अरिकामेडू)** | Coromandel Coast (Puducherry) | Identified as **Poduke** in *Periplus of the Erythraean Sea*; J.M. Casal & Mortimer Wheeler excavations | **"A True Roman City"** (Dubreuil); Roman Augustus Caesar intaglio gem, Arretine pottery, beads, and **Amphora jars** (tall double-handled jars for Roman wine and olive oil) |
+| **Muziris / Muchiri (मुज़िरिस)** | Malabar Coast (Kodungallur, Kerala) | Premier port of the **Chera** Kingdom on the Periyar river | Heavy Roman gold coin hoards; Augustus temple; centre of **Yavanapriya** (black pepper) export |
+| **Tondi & Nelisanda** | Western Coast (Kerala / Tamil Nadu) | Ancient western trade ports mentioned in *Periplus* | Major spice-exporting ports linking India to Roman Alexandria |
+| **Korkai (कोरकई)** | Gulf of Mannar (Tamil Nadu) | Primary seaport and pearl fishery capital of the **Pandyas** | Famous for pearl trade with the Roman and Hellenistic world |
+| **Poompuhar / Kaveripattinam** | Coromandel Coast (Cauvery mouth, TN) | Chief port and early capital of the **Cholas** (*Puhar*) | Hub of eastern maritime voyages to Suvarnabhumi (SE Asia) |
+| **Motupalli (मोटुपल्ली)** | Andhra Coast (Prakasam district, AP) | Leading international trading seaport of the **Kakatiya** Kingdom | Famous **Motupalli Epigraph** of Ganapatideva; visited and praised by Venetian traveller **Marco Polo** |
+
+---
+
+### ★ Master Lock: Imperial Chola Administration & Epigraphy
+| Institution / Feature | Mechanism & Key Inscriptions | High-Yield Exam Takeaway |
+|---|---|---|
+| **Village Autonomy (*Sabha* / *Ur*)** | Regulated by the **Uttaramerur Inscription** (919 & 921 CE) of **Parantaka I** | Complete local self-government; Kudavolai (pot-ticket lottery) election system with strict moral and property qualifications |
+| ***Variyams* (कार्यकारिणी समितियां)** | Executive sub-committees of the *Sabha* | - **Thotta Variyam:** Horticulture and garden supervision<br>- **Eri Variyam:** Tank maintenance, irrigation channels and water supply<br>- **Samvatsara Variyam:** Annual executive oversight committee<br>- **Pon Variyam:** Gold, bullion, and financial assessment |
+| **Naval Fleet & Chola Lake** | **Rajaraja I** created permanent navy; **Rajendra I** expanded overseas | Rajendra I conquered all of Ceylon (captured King Mahendra V), sacked Srivijaya, and turned the **Bay of Bengal into a "Chola Lake"** |
+| **Chola Gangam (चोलगंगम)** | Huge artificial reservoir near Gangaikonda Cholapuram | Excavated by **Rajendra I** as a "liquid pillar of victory" after his conquest of the Ganga basin |
+| **Nataraja Bronze (नटराज शिव)** | Cast by lost-wax (*cire perdue*) method by Chola *sthapatis* | Four-armed dancing Shiva: Upper right holds *damaru* (creation), upper left holds *agni* (destruction), lower right in *abhayamudra* (protection), lower left in *gajahasta* (salvation); tramples dwarf demon *Apasmara*; **right ear wears male earring, left ear female earring** (symbol of *Ardhanarishwara*) |
+| **Dakshinamurti (दक्षिणामूर्ति)** | Distinctive Chola stone iconographic form | Depicts Lord Shiva as the **supreme Guru / Mentor / Teacher** dispensing divine knowledge; installed facing **South** |
+| **Battle of Takkolam (तक्कोलम का युद्ध - 949 CE)** | Rashtrakuta king **Krishna III** vs Cholas | Cholas defeated; Crown Prince **Rajaditya** (son of Parantaka I) killed on elephant back; Rashtrakutas occupied Tondaimandalam |
+
+---
+
+### ★ Master Lock: Pre-Medieval Northern Dynasties & Key Rulers
+| Dynasty | Founder / Greatest Ruler | Capital | Key Historical & Literary Milestones |
+|---|---|---|---|
+| **Chauhans of Ajmer (चाहमान)** | Vasudeva / **Prithviraj III (Chauhan)** | Shakambhari / Ajmer | *Hammira Mahakavya* (Nayachandra Suri) identifies Chauhans as **Suryavanshi**; **Vigraharaja IV (Visaldev)** conquered Delhi from Tomars and wrote *Harakeli* drama; Prithviraj III won **1st Battle of Tarain (1191)**, lost **2nd Battle of Tarain (1192)** to Ghori; court poet **Chand Bardai** wrote *Prithviraj Raso*; **Jayanaka** wrote *Prithviraja Vijaya* |
+| **Tomars of Delhi (तोमर)** | **Anangpal Tomar** | Dhillika (Delhi) | Founded the city of **Dhillika (modern Delhi) in 736 CE**; originally feudatories of Gurjara-Pratiharas |
+| **Gurjara-Pratiharas (गुर्जर-प्रतिहार)** | Nagabhatta I / **Mihir Bhoja I (836–885 CE)** | Kannauj (Mahodaya) | Repulsed early Arab incursions (Gwalior Inscription); Mihir Bhoja assumed titles **Adivaraha** and **Prabhas**; Arab traveller **Suleman** visited; **Al-Masudi** termed the kingdom *Al-Juzr* and king *Baura*; patronized **Rajashekhara** (*Karpuramanjari*, *Kavyamimamsa*) |
+| **Palas of Bengal (पाल वंश)** | **Gopala (750 CE)** / **Dharmapala** / **Devapala** | Pataliputra / Gauda | Gopala elected by the people to end anarchy (**Matsya-nyaya**); founded Odantapuri; **Dharmapala** assumed title *Parama Saugata*, founded **Vikramshila University** (Bhagalpur, Bihar) and **Somapura Mahavihara** (Paharpur); **Devapala** granted 5 villages to **Balaputradeva** of Suvarnabhumi (Java) for Nalanda Vihara |
+| **Senas of Bengal (सेन वंश)** | Samantasena / **Vijayasena** / **Ballalasena** / **Lakshmanasena** | Nabadwip / Lakhnauti | Orthodox Brahmanical revival; chronological order: **Hemantasena → Vijayasena → Ballalasena → Lakshmanasena**; Ballalasena authored *Danasagara* and *Adbhutisagara*; Lakshmanasena initiated **Lakshmana Samvat (1178/79 CE)**; patronized Jayadeva (*Gita Govinda*) |
+| **Chandelas of Jejakabhukti (चंदेल)** | Nannuka / **Dhanga** / **Vidyadhara** | Khajuraho / Mahoba | Bundelkhand was named **Jejakabhukti** after prince Jeja/Jayashakti; **Dhanga** built Matangeshvara temple, drowned himself at Triveni Sangam (Prayagraj); **Vidyadhara** repulsed Mahmud of Ghazni and built Kandariya Mahadev temple; warriors **Alha and Udal** died fighting Prithviraj Chauhan (immortalized in Jagnik's *Alha-Khand* / *Parmal Raso*) |
+| **Paramaras of Malwa (परमार)** | Upendra / Krishnaraja / **Raja Bhoja (1018–1055 CE)** | Dhara (धार, MP) | **Raja Bhoja** was a polymath king: Founded **Bhojshala** (Sanskrit college dedicated to Goddess Saraswati at Dhar); authored *Samarangana Sutradhara* (architecture & scientific mechanical machines), *Saraswati Kanthabharana*, *Yuktikalpataru*, *Rajamartanda* |
+| **Kalachuris of Tripuri (कलचुरि)** | Kokalla I / **Gangeyadeva** | Tripuri (Tewar near Jabalpur, MP) | **Gangeyadeva** assumed the imperial title *Vikramaditya*; revived the issuance of **gold coinage** in early medieval northern India; capital Tripuri described by Arab scholar **Al-Biruni** in *Tarikh al-Hind* |
+| **Gahadavalas of Kannauj (गहड़वाल)** | Chandradeva / **Govindachandra** / **Jayachandra** | Kannauj & Varanasi | Govindachandra's Buddhist queen **Kumaradevi** constructed **Dharmachakra Jina Vihara** at Sarnath; royal minister **Lakshmidhara** compiled *Krityakalpataru* (administrative digest); Jayachandra defeated at Chandawar (1194) |
+| **Karnata Dynasty of Mithila (कर्नाट)** | **Nanyadeva (1097 CE)** | Simraungadh (Mithila) | Founded by Nanyadeva; last independent king was **Harisimha** (1295–1324 CE), who initiated the renowned **Panji Prabandha** genealogical recording system |
+| **Kashmir Sultanate (कश्मीर)** | Shah Mir / **Sultan Zain-ul-Abidin** | Srinagar | Sultan Zain-ul-Abidin (original name **Shahi Khan**, r. 1420–1470 CE) known as the **"Akbar of Kashmir"** for abolition of Jizya, cow slaughter ban, repair of Hindu temples, and patronage of Sanskrit translations (*Rajatarangini* continuation by Jonaraja & Srivara) |
+
+---
+
+---
+
 ## Complete PYQ Bank (Topic 1)
 
 **Q1. UPPCS Prelims 2025, Q121**
@@ -1291,6 +1365,5049 @@ D. A-2, B-3, C-4, D-1
 - Bilhana served the **Kalyani Chalukya** court, while Padmagupta served the **Paramara** court.
 
 </details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra South India (Chola, Chalukya, Pallava and Sangam Period)
+
+Complete sequence of 92 questions from Ghatna Chakra South India (B–168 to B–179). Covers early and imperial Cholas, Pallavas, Badami/Kalyani Chalukyas, Pandyas, Cheras, Sangam literature, and maritime trade.
+
+**Q-GC1. R.A.S./R.T.S. (Pre) 2016**
+
+Who among the following laid the foundation of the
+
+Chola Empire in the IXth century A.D.?
+
+A. Krishna-I
+
+B. Rajaraja Chola
+
+C. Vijayalaya
+
+D. Parantaka
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The history of early Cholas of Sangam literature, the
+interregnum between the fall of Sangam Chola and the rise
+of Chola under Vijayalaya (850 AD.) in the 9th century.
+
+</details>
+
+---
+
+**Q-GC2. 67th B.P.S.C. (Pre) 2022**
+
+Who was the founder of the Chola Dynasty?
+
+A. Vijayalaya
+
+B. Karikala
+
+C. Aditya I
+
+D. Rajaraja I
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The history of early Cholas of Sangam literature, the
+interregnum between the fall of Sangam Chola and the rise
+of Chola under Vijayalaya (850 AD.) in the 9th century.
+*(Refer to Q-GC1 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC3. U.P.P.C.S. (Pre) 1999**
+
+Which one of the following temple complexes has a massive
+
+statue of Nandi, considered to be the biggest in India:
+
+A. Brihadeeshwara Temple
+
+B. Lingaraja Temple
+
+C. Kandariya Mahadeo Temple
+
+D. Lepakshi Temple
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Brihadeeswara temple is an excellent piece of Dravidian style
+temple of Chola-style, which was constructed in the reign of
+Rajaraja-I. It is considered as the biggest and tallest temple
+of India. There are two idols of ‘Dwarpals’ around the main
+shrine. The gigantic 'Nandi' (carved out of single rock) is
+situated in the exterior of sacrarium which is believed to be
+the tallest Nandi idol in India.
+
+</details>
+
+---
+
+**Q-GC4. U.P.P.C.S. (Mains) 2008**
+
+Brihadeeshwara Temple of Thanjavur was built during
+
+the reign of Chola emperor –
+
+A. Parantaka-I
+
+B. Rajaraja-I
+
+C. Rajendra-I
+
+D. Rajadhiraja-I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Brihadeeswara temple is an excellent piece of Dravidian style
+temple of Chola-style, which was constructed in the reign of
+Rajaraja-I. It is considered as the biggest and tallest temple
+of India. There are two idols of ‘Dwarpals’ around the main
+shrine. The gigantic 'Nandi' (carved out of single rock) is
+situated in the exterior of sacrarium which is believed to be
+the tallest Nandi idol in India.
+*(Refer to Q-GC3 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC5. U.P.P.C.S. (Pre) 1991**
+
+In which region was the Chola empire expanded?
+
+A. Vijayanagara Area
+
+B. Malabar Coast
+
+C. Hoysala
+
+D. Coromandel Coast and some region of Deccan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The territories of the Chola Dynasty stretched from south
+to north, namely the banks of Tungabhadra river to Krishna
+river. The borderlines of Cholas included Coromandel coast
+and some areas of Deccan like - Uraiyur, Kaveripattinam,
+Thanjavur, etc.
+
+</details>
+
+---
+
+**Q-GC6. U.P. Lower Sub. (Pre) 2009**
+
+The capital of Cholas was -
+
+A. Kaveripattinam
+
+B. Mahabalipuram
+
+C. Kanchi
+
+D. Tanjore
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+According to the given options, the capital of Cholas was
+Tanjore. Apart from this, later Gangaikondacholapuram also
+became the capital of Cholas. The capital of Cholas was
+Uraiyur in Sangam era.
+
+</details>
+
+---
+
+**Q-GC7. U.P.P.C.S. (Pre) 1995**
+
+Which of the following was a special feature of Chola
+
+administration :
+
+A. Division of empire into mandalam
+
+B. Autonomy of village administration
+
+C. Full powers to Ministers of State
+
+D. Cheap and proper tax collection method
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+A special feature of the Chola dynasty was the autonomy
+of village administration, which was a speciality of theirs.
+The Chola village administration was very systematic and
+well-developed. In fact, the autonomous administration was
+implemented in the village only during the Chola era.
+
+</details>
+
+---
+
+**Q-GC8. 63rd B.P.S.C (Pre.) 2017**
+
+The Chola age was most famous for -:
+
+A. village assemblies
+
+B. war with the Rashtrakutas
+
+C. trade with Ceylon
+
+D. advancement of Tamil culture
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+A special feature of the Chola dynasty was the autonomy
+of village administration, which was a speciality of theirs.
+The Chola village administration was very systematic and
+well-developed. In fact, the autonomous administration was
+implemented in the village only during the Chola era.
+*(Refer to Q-GC7 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC9. R.A.S./R.T.S. (Pre) 1993**
+
+The Chola era was famous for:
+
+A. Religious development
+
+B. Village Assemblies
+
+C. Warfare with Rashtrakuta
+
+D. Trade from Sri Lanka
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+A special feature of the Chola dynasty was the autonomy
+of village administration, which was a speciality of theirs.
+The Chola village administration was very systematic and
+well-developed. In fact, the autonomous administration was
+implemented in the village only during the Chola era.
+*(Refer to Q-GC7 for primary reference context)*
+*(Refer to Q-GC8 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC10. U.P.P.C.S. (Pre) 1991**
+
+Which southern India state had excellent village
+
+administration?
+
+A. Chera
+
+B. Chalukya
+
+C. Chola
+
+D. Vatapi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+A special feature of the Chola dynasty was the autonomy
+of village administration, which was a speciality of theirs.
+The Chola village administration was very systematic and
+well-developed. In fact, the autonomous administration was
+implemented in the village only during the Chola era.
+*(Refer to Q-GC7 for primary reference context)*
+*(Refer to Q-GC8 for primary reference context)*
+*(Refer to Q-GC9 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC11. M.P. P.C.S. (Pre) 2021**
+
+The unique feature of whose administrative system
+
+was the development of village autonomy?
+
+A. Cher
+
+B. Chola
+
+C. Pandyas
+
+D. Pallavas
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+A special feature of the Chola dynasty was the autonomy
+of village administration, which was a speciality of theirs.
+The Chola village administration was very systematic and
+well-developed. In fact, the autonomous administration was
+implemented in the village only during the Chola era.
+*(Refer to Q-GC7 for primary reference context)*
+*(Refer to Q-GC8 for primary reference context)*
+*(Refer to Q-GC9 for primary reference context)*
+*(Refer to Q-GC10 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC12. M.P.P.C.S. (Pre) 2014**
+
+Dynasty famous for efficient rural administration was
+
+A. Cholas
+
+B. Rashtrakutas
+
+C. Chalukyas
+
+D. Pallavas
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+A special feature of the Chola dynasty was the autonomy
+of village administration, which was a speciality of theirs.
+The Chola village administration was very systematic and
+well-developed. In fact, the autonomous administration was
+implemented in the village only during the Chola era.
+*(Refer to Q-GC7 for primary reference context)*
+*(Refer to Q-GC8 for primary reference context)*
+*(Refer to Q-GC9 for primary reference context)*
+*(Refer to Q-GC10 for primary reference context)*
+*(Refer to Q-GC11 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC13. 66th B.P.S.C. (Pre) 2020**
+
+Which medieval Indian empire was famous for elaborated local self-government?
+
+A. Chalukya
+
+B. Chola
+
+C. Solanki
+
+D. Parmar
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+A special feature of the Chola dynasty was the autonomy
+of village administration, which was a speciality of theirs.
+The Chola village administration was very systematic and
+well-developed. In fact, the autonomous administration was
+implemented in the village only during the Chola era.
+*(Refer to Q-GC7 for primary reference context)*
+*(Refer to Q-GC8 for primary reference context)*
+*(Refer to Q-GC9 for primary reference context)*
+*(Refer to Q-GC10 for primary reference context)*
+*(Refer to Q-GC11 for primary reference context)*
+*(Refer to Q-GC12 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC14. I.A.S. (Pre) 1993**
+
+A lot of details regarding the village administration
+
+under the Cholas is provided by the inscription at:-
+
+A. Thanjavur
+
+B. Uraiyur
+
+C. Kanchipuram
+
+D. Uttaramerur
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+A detailed description of the working system of the executive
+committee of Gram Sabha (village assembly) in Chola
+village administration has been archived from Uttaramerur
+inscription, which states that every village had its own
+committee called 'Sabha' which was usually independent
+of Central command and independently administered the
+village administration.
+
+</details>
+
+---
+
+**Q-GC15. U.P.R.O./A.R.O. (Mains) 2013**
+
+During the rule of the Chola Kings which of the following
+
+Variyams looked after garden administration?
+
+A. Pon Variyam
+
+B. Airi Variyam
+
+C. Thotta Variyam
+
+D. Samvatsara Variyam
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+A working committee which supervised the activities of
+Chola era villages was known as Variyam. Thotta Variyam
+looked after Horticulture Board while Samvatsara Variyam
+was an annual committee; Eri Variyam was in charge of tanks
+(lakes) and water supply and Pon Variyam was related to
+gold/finance committee.
+
+</details>
+
+---
+
+**Q-GC16. I.A.S. (Pre) 2003**
+
+Consider the following statements :
+
+1. The Cholas defeated Pandya and Chera rulers and
+
+established their domination over peninsular India
+
+in the early medieval times.
+
+2. The Cholas sent an expedition against Sailendra
+
+empire of South East Asia and conquered some of
+
+the areas
+
+Which of these statements is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Chola dynasty was established by Parantak-I in Southern
+India. He defeated Madura King and assumed the title of
+“Madurai-Kond.” According to Thanjavur inscription,
+Rajaraja-I defeated Cheras naval army in Kandalloor and then
+Rajaraja-I and his son Rajendra-I sent an expedition against
+Sailendra empire of South East Asia and conquered some of
+the areas as they were facing difficulty in a trade with China.
+
+</details>
+
+---
+
+**Q-GC17. I.A.S. (Pre) 1995**
+
+Bronze icons of Nataraja cast during the Chola period
+
+invariably show the deity with :
+
+A. Eight hands
+
+B. Six hands
+
+C. Four hands
+
+D. Two hands
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Chola artists (Sthapati) were accomplished in carving art.
+They framed numerous portraits of stones and metals. Bronze
+sculptures were prepared vastly than stone sculptures. Most
+elegant idols of Nataraja (Shiva) are found in large numbers.
+They are included in the best sculptures of the world. These
+idols are four the handed.
+
+</details>
+
+---
+
+**Q-GC18. I.A.S. (Pre) 1993**
+
+Which one of the following is considered to be the world’s
+
+greatest iconographical creation made by sthapatis of
+
+South India, particularly during the Chola period?
+
+A. Mahishasuramardini
+
+B. Nataraja
+
+C. Rama
+
+D. Somaskanda
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Chola artists (Sthapati) were accomplished in carving art.
+They framed numerous portraits of stones and metals. Bronze
+sculptures were prepared vastly than stone sculptures. Most
+elegant idols of Nataraja (Shiva) are found in large numbers.
+They are included in the best sculptures of the world. These
+idols are four the handed.
+*(Refer to Q-GC17 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC19. R.A.S./R.T.S. (Pre) 1994**
+
+Most famous sculptures of Chola's age were:
+
+A. Stone sculptures
+
+B. Marble sculptures
+
+C. Vishnu sculptures
+
+D. Bronze sculptures of Nataraja Shiva
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Chola artists (Sthapati) were accomplished in carving art.
+They framed numerous portraits of stones and metals. Bronze
+sculptures were prepared vastly than stone sculptures. Most
+elegant idols of Nataraja (Shiva) are found in large numbers.
+They are included in the best sculptures of the world. These
+idols are four the handed.
+*(Refer to Q-GC17 for primary reference context)*
+*(Refer to Q-GC18 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC20. U.P.P.C.S. (Pre) 2006**
+
+The famous bronze image of Nataraja is a fine example
+
+of:
+
+A. Chola Art
+
+B. Gandhara Art
+
+C. Gupta Art
+
+D. Mauryan Art
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Chola artists (Sthapati) were accomplished in carving art.
+They framed numerous portraits of stones and metals. Bronze
+sculptures were prepared vastly than stone sculptures. Most
+elegant idols of Nataraja (Shiva) are found in large numbers.
+They are included in the best sculptures of the world. These
+idols are four the handed.
+*(Refer to Q-GC17 for primary reference context)*
+*(Refer to Q-GC18 for primary reference context)*
+*(Refer to Q-GC19 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC21. U.P. P.C.S. (Pre) 2013**
+
+The ‘Dakshinamurti’ idol of Shiva depicts him in which
+
+form?
+
+A. Teacher
+
+B. Dancing
+
+C. Reclining
+
+D. Meditating
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The Dakshinamurti idol of Shiva depicts him as a mentor
+(Guru, Teacher). Shiva is considered in this form as providing
+knowledge to his devotees. Dakshinamurti idol is installed
+facing south direction.
+
+</details>
+
+---
+
+**Q-GC22. U.P. R.O./A.R.O. (Mains) 2021**
+
+With reference to the statue of 'Nataraja the Lord
+
+of Dance', which of the following statements is/are
+
+correct?
+
+1. The image represents dancing Shiva having four
+
+hands.
+
+2. In his right ear, he wears a man's earring, a
+
+woman's in the left.
+
+Select the correct answer from the code given below :
+
+Code :
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The Nataraja statue of Lord Shiva represents dancing Shiva
+with four hands. It combines in a single image Shiva's role
+as creator, preserver and destroyer of universe. Shiva's dance
+is set within a flaming halo. The god holds the damru (drum
+that made the first sound of creation) in his upper right hand.
+His upper left hand holds agni (the fire that will destroy the
+universe). With his lower right hand he makes abhayamudra.
+Shiva's front left hand, pointing to his raised left foot, signifies
+refuge for the troubled soul. In his right ear he wears a man's
+earring, a woman's in the left as a symbol of Ardhanarishwara.
+
+</details>
+
+---
+
+**Q-GC23. U.P.P.C.S. (Pre) 1992**
+
+In whose tenure 72 traders were sent to China?
+
+A. Kulottunga-I
+
+B. Rajendra-I
+
+C. Rajaraja-I
+
+D. Rajadhiraja- I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The Chola sent a goodwill mission of 72 traders to China in
+the reign of Chola king Kulottunga-I in 1077 A.D.
+
+</details>
+
+---
+
+**Q-GC24. U.P. P.C.S. (Pre) 2004 · R.A.S./R.T.S. (Pre) 1993 · U.P. P.C.S. (Pre) 1992**
+
+Which of the following South Indian states was famous
+
+for its naval power :
+
+A. Chola
+
+B. Chera
+
+C. Pallava
+
+D. Rashtrakuta
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Chola Kings maintained massive consolidated troops with a
+proficient naval power wing. The Chola navy played a vital
+role in the expansion of the Chola Empire including the
+conquests of Ceylon (Sri Lanka) islands and naval raids on
+Srivijaya, Sinhala and Maldives.
+
+</details>
+
+---
+
+**Q-GC25. U.P. U.D.A./L.D.A. (Pre) 2001**
+
+Which among the following dynasties, King declared
+
+their successor in own tenure?
+
+A. Chalukya
+
+B. Chola
+
+C. Kadamba
+
+D. Kalchuri
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** *****
+
+**Detailed Explanation:**
+Generally, Chola emperors used to elect their ‘Yuvraj” during
+their tenure who becomes the heir of Empire after them. But
+in other empires also, information is available of emperors
+choosing the crown prince.
+
+</details>
+
+---
+
+**Q-GC26. U.P.P.C.S. (Spl) (Pre) 2008**
+
+Who among the following Chola rulers converted
+
+the Bay of Bengal into a ‘Chola Lake’?
+
+A. Rajaraja-I
+
+B. Rajendra-I
+
+C. Adhiraj
+
+D. Kulottunga
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Rajendra Chola-I was a Chola emperor, who is considered as
+one of the greatest rulers and military generals of India. He
+succeeded his father, Rajaraja Chola-I. Rajendra -I annexed
+the whole of Sri Lanka and he defeated Mahipal. After that
+he adopted the title of Gangaikonda. Rajendra-I founded a
+new capital called Gangaikonda Cholapuram. Chola navy
+was the strongest in the area, and they converted the Bay of
+Bengal into Chola lake.
+
+</details>
+
+---
+
+**Q-GC27. U.P.P.C.S. (Spl) (Mains) 2008**
+
+Who was the founder of ‘Gangai Konda Cholapuram’ ?
+
+A. Rajaraja-I
+
+B. Rajadhiraj
+
+C. Rajendra-I
+
+D. Vijayaditya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Rajendra Chola-I was a Chola emperor, who is considered as
+one of the greatest rulers and military generals of India. He
+succeeded his father, Rajaraja Chola-I. Rajendra -I annexed
+the whole of Sri Lanka and he defeated Mahipal. After that
+he adopted the title of Gangaikonda. Rajendra-I founded a
+new capital called Gangaikonda Cholapuram. Chola navy
+was the strongest in the area, and they converted the Bay of
+Bengal into Chola lake.
+*(Refer to Q-GC26 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC28. U.P.P.C.S. (Mains) 2016**
+
+Who among the following Chola rulers is credited to have
+
+built a huge artificial lake known as Chola Gangam?
+
+A. Rajaraja-I
+
+B. Rajendra
+
+C. Rajdhiraja
+
+D. Rajaraja-II
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Rajendra Chola-I was a Chola emperor, who is considered as
+one of the greatest rulers and military generals of India. He
+succeeded his father, Rajaraja Chola-I. Rajendra -I annexed
+the whole of Sri Lanka and he defeated Mahipal. After that
+he adopted the title of Gangaikonda. Rajendra-I founded a
+new capital called Gangaikonda Cholapuram. Chola navy
+was the strongest in the area, and they converted the Bay of
+Bengal into Chola lake.
+*(Refer to Q-GC26 for primary reference context)*
+*(Refer to Q-GC27 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC29. Chhattisgarh P.C.S. (Pre) 2014**
+
+Which Chola King started Naval Army?
+
+A. Rajendra Chola
+
+B. Parantak Chola
+
+C. Rajaraja I
+
+D. Rajaraja II
+
+E. None of these
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The golden era of the Chola empire started with the accession
+of Rajaraja- I (985 AD) to the throne. Rajaraja- I was the first
+Chola king who created the Naval Army.
+
+</details>
+
+---
+
+**Q-GC30. U.P.P.C.S. (Mains) 2014**
+
+Name the Chola King who conquered the northern part
+
+of Sri Lanka?
+
+A. Rajaraja-I
+
+B. Rajendra-I
+
+C. Parantaka-I
+
+D. Aditya-I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Rajaraja-I invaded Sri Lanka and destroyed Anuradhapura.
+Rajaraja-I captured only the northern part of Sri Lanka while
+southern part remained independent. His son Rajendra-I
+captured the southern island and hence whole of Sri Lanka
+(Ceylon) and defeated Mahendra V.
+
+</details>
+
+---
+
+**Q-GC31. I.A.S. (Pre) 2001**
+
+Which one of the Chola kings conquered Ceylon?
+
+A. Aditya- I
+
+B. Rajaraja- I
+
+C. Rajendra- I
+
+D. Vijayalaya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Rajaraja-I invaded Sri Lanka and destroyed Anuradhapura.
+Rajaraja-I captured only the northern part of Sri Lanka while
+southern part remained independent. His son Rajendra-I
+captured the southern island and hence whole of Sri Lanka
+(Ceylon) and defeated Mahendra V.
+*(Refer to Q-GC30 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC32. U.P.P.C.S. (Pre) 2012**
+
+Who was the Chola monarch who gave complete
+
+freedom to Sri Lanka and got his daughter married
+
+to the Sinhala Prince?
+
+A. Kulottunga I
+
+B. Rajendra
+
+C. Adhirajendra
+
+D. Rajadhiraj I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Vijayabahu, the Ceylon king proclaimed independent Sinhala
+Island during the period of Kulottunga-I but Kulottunga did
+not show any incivility and married his daughter with Sinhala
+prince Virapperumal.
+
+</details>
+
+---
+
+**Q-GC33. U.P.P.C.S. (Pre) 2020**
+
+Given below are two statements, one is labelled as
+
+Assertion (A) and other as Reason (R):
+
+Assertion (A) : We have much more information about
+
+Cholas than their predecessors.
+
+Reason (R) : The Chola rulers adopted the practice
+
+of having inscriptions written on the
+
+walls of temples giving a historical
+
+narrative of their victories.
+
+Select the correct answer from the codes given below.
+
+Code :
+
+A. Both (A) and (R) are true and (R) is the correct
+
+explanation of (A)
+
+B. Both (A) and (R) are true and (R) is not the correct
+
+explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+We have much more information about Cholas rather than
+their predecessors. Rajaraja - I & Rajendra - I had written
+inscriptions on the walls of temples. Rajaraja - I started the
+tradition of writing & collecting the tales of victories of
+his ancestors through written inscriptions. Kings after him
+followed his suit. Hence Assertion (A) & Reason (R) both
+are correct. So option (a) is correct.
+
+</details>
+
+---
+
+**Q-GC34. I.A.S. (Pre) 2016**
+
+In the context of the history of India, consider the
+
+following pairs:
+
+Term Description
+
+Eripatti : Land, revenue from which was
+
+set apart for the maintenance of
+
+the village tank
+
+Taniyurs : Villages donated to a single
+
+Brahmin or a group of Brahmins
+
+Ghatikas : Colleges generally attached to
+
+the temples
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2
+
+B. 3 only
+
+C. 2 and 3
+
+D. 1 and 3
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The correctly matched list is as follows:
+Term Description
+Eripatti : Land, revenue from which was set apart
+for the maintenance of village tank
+Taniyurs : A very large village would be administered
+as a single unit is called Taniyurs.
+Ghatikas : Colleges generally attached to the temples.
+Thus, in the given options, (1) and (3) are correctly matched.
+
+</details>
+
+---
+
+**Q-GC35. U.P.P.C.S. (Pre) 2018**
+
+Which of the following institutions belonged to foreign
+
+trade?
+
+A. Sreni
+
+B. Nagaram
+
+C. Nanadesis
+
+D. Manigrama
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C & D**
+
+**Detailed Explanation:**
+Sreni, in the context of Ancient India, was an association of
+traders, merchants and artisans. Nagaram was a local association of merchants conducting commercial activities. The
+Nanadesis and Manigrama were guilds of traders who organised themselves into one of the biggest trading associations at
+the time of the Hoysala empire. They developed significant
+trade contact with many areas, including foreign countries.
+
+</details>
+
+---
+
+**Q-GC36. I.A.S. (Pre) 1994**
+
+Which one of the following trade centres of ancient India
+
+was on the trade route connecting Kalyana with Vengi?
+
+A. Tagara
+
+B. Sripur
+
+C. Tripuri
+
+D. Tamralipti
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Tagara was a significant trade centre that was located between
+Kalyan and Vengi.
+
+</details>
+
+---
+
+**Q-GC37. U.P.P.C.S. (Pre) 1991**
+
+Who was the greatest king of Chalukya dynasty?
+
+A. Vikramaditya
+
+B. Manglesh
+
+C. Pulakesin - II
+
+D. Pulakesin - I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Pulakesin - II was the most capable and powerful ruler of
+Chalukyas, who ruled from 610 to 642 AD. Aihole inscription
+provides the saga of his achievements.
+
+</details>
+
+---
+
+**Q-GC38. U.P.P.C.S. (Mains) 2007**
+
+Which of the following dynasties frequently assigned to
+
+the ladies high ranking positions in administration?
+
+A. Chola
+
+B. Chalukya
+
+C. Pala
+
+D. Sena
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Women were appointed to high designations in Chalukya
+administration. Vijaya Bhattarika, the Queen of Chandraditya
+(brother of Vikramaditya - I), issued two copper plates in her
+name. She was an excellent poetess too. Vikramaditya granted
+a village to a scholar Brahmin on the recommendation of
+his younger sister Kumkumdevi. Vijaya Bhattarika ran the
+administration efficiently.
+
+</details>
+
+---
+
+**Q-GC39. U.P.P.C.S. (Pre) 1991**
+
+Where was the capital of Chalukyas located?
+
+A. Vatapi
+
+B. Shravasti
+
+C. Kanchi
+
+D. Kannauj
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+At present, the ancient city of Vatapi in Bagalkot district
+(Karnataka) is known as Badami. It was the capital of
+Chalukyas during the 6-7th century. Pulakesin - I was the real
+founder of Vatapi’s Chalukya dynasty.
+
+</details>
+
+---
+
+**Q-GC40. I.A.S. (Pre) 1994**
+
+The name of poet Kalidasa is mentioned in the:
+
+A. Allahabad Pillar Inscription
+
+B. Aihole Inscription
+
+C. Alapadu Grant
+
+D. Hanumankonda Inscription
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Aihole inscription is an authentic source for Pulakesin - II
+history. It is engraved in Sanskrit and southern Brahmi
+language and was written by Ravikirti. At the end of
+commendation, the author claimed that he had gained fame
+like Kalidasa and Bharavi by writing this. Thus, the name of
+poet Kalidasa is mentioned in the Aihole inscription.
+
+</details>
+
+---
+
+**Q-GC41. U.P.P.C.S. (Mains) 2013**
+
+The Sanskrit poet and dramatist Kalidasa finds a
+
+mention in –
+
+A. Aihole inscription of Pulakesin-II
+
+B. Gwalior inscription of Mihir Bhoja
+
+C. Karamdanda Sivalinga inscription of Kumargupta-I
+
+D. Mathura Pillar inscription of Chandragupta-II
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Aihole inscription is an authentic source for Pulakesin - II
+history. It is engraved in Sanskrit and southern Brahmi
+language and was written by Ravikirti. At the end of
+commendation, the author claimed that he had gained fame
+like Kalidasa and Bharavi by writing this. Thus, the name of
+poet Kalidasa is mentioned in the Aihole inscription.
+*(Refer to Q-GC40 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC42. U.P.R.O./A.R.O. (Mains) 2016**
+
+Which of the following King, did send two naval expeditions to Ceylon in 642 AD?
+
+A. Rajaraj
+
+B. Narasimha Verman I
+
+C. Kirti Verman I
+
+D. Jayasinha I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Narasimha Varman I was a king of the Pallava dynasty who
+ruled South India from 630-668 AD. He was also known as
+Mahamalla (great wrestler), and during his reign famous
+Panch Ratha Temples were constructed.
+He captured & destroyed capital of Chalukya (Vatapi) and assumed the title of Vatapikonda. In 642 AD, he sent two naval
+expeditions to Ceylon (Sri Lanka) to help a Sri Lankan prince.
+
+</details>
+
+---
+
+**Q-GC43. I.A.S. (Pre) 1995**
+
+The term ‘Yavanapriya’ mentioned in ancient Sanskrit
+
+text denoted :
+
+A. A fine variety of Indian muslin
+
+B. Ivory
+
+C. Damsels sent to the Greek court for dance performance
+
+D. Pepper
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Indian black pepper was a favourite ingredient of the most
+expensive Roman cookery. That is why in Sanskrit, it is called
+as ‘Yavanapriya’ (the favourite of Greeks).
+
+</details>
+
+---
+
+**Q-GC44. Chhattisgarh P.C.S. (Pre) 2018**
+
+Halbi is related to which language family?
+
+A. Aryan
+
+B. Dravidian
+
+C. Mundari
+
+D. None of these
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Halbi is an eastern Indo-Aryan language, of Bastar, Chhattisgarh transitional between Oriya and Marathi. Halbi is
+written in the Oriya and Devanagari script.
+
+</details>
+
+---
+
+**Q-GC45. U.P.P.C.S. (Pre) 1997**
+
+Tolkappiyam text deals with :
+
+A. Administration
+
+B. Law
+
+C. Grammar and Poetry
+
+D. All the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Tolkappiyam is not only the residual text of 2nd Sangam era
+but also the most ancient available text of Tamil literature.
+Author Tolkappiyar was one among the 12 disciples of saint
+Agastya. It is a treatise on grammar and poetry. It has been
+written in formula style.
+
+</details>
+
+---
+
+**Q-GC46. Jharkhand P.C.S. (Pre) 2023**
+
+The Sangam text Tolkappiyam is a work on
+
+A. Astronomy
+
+B. Grammar
+
+C. Music
+
+D. Medicine
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Tolkappiyam is the most ancient extant Tamil grammar
+text and the oldest extant long work of Tamil literature.
+Tolkappiyam is a unique work on grammar and poetics, in
+its three parts of nine sections, each dealing with Ezhuttu
+(letter), Col (word) and Porul (subject matter).
+
+</details>
+
+---
+
+**Q-GC47. U.P.P.C.S. (Mains) 2014**
+
+In Sangam Literature ‘Tolkappiyam’ is a text of –
+
+A. Tamil poetry
+
+B. Tamil grammar
+
+C. Tamil architecture
+
+D. Tamil polity
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Tolkappiyam is the most ancient extant Tamil grammar
+text and the oldest extant long work of Tamil literature.
+Tolkappiyam is a unique work on grammar and poetics, in
+its three parts of nine sections, each dealing with Ezhuttu
+(letter), Col (word) and Porul (subject matter).
+*(Refer to Q-GC46 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC48. U.P.P.C.S. (Mains) 2002**
+
+The author of the Silapadikaram was –
+
+A. Ilango
+
+B. Parmara
+
+C. Karikala
+
+D. Vishnu Swami
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The author of Tamil Literature Silappadikaram was Ilango
+Adigal, grandson of Chola King Karikal. The epic narrates
+the tragic and poignant story of Kannagi and her husband,
+Kovalan.
+
+</details>
+
+---
+
+**Q-GC49. U.P.P.S.C. (R.I.) 2014**
+
+Match items of List-I with those of List-II and select
+
+your correct answer from the codes given below in the
+
+lists :
+
+List-I List-II
+
+A. Thirukural 1. Love Story
+
+B. Tolkappiyam 2. Philosophy
+
+C. Silapadikaram 3. Merchant Story
+
+D. Manimekalai 4. Grammar
+
+Code :
+
+A B C D
+
+A. 1 2 4 3
+
+B. 2 3 4 1
+
+C. 4 2 3 1
+
+D. 2 4 1 3
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The correctly matched pairs are :
+List I List II
+Thirukural – Philosophy
+Tolkappiyam – Grammar
+Silapadikaram – Love Story
+Manimekalai – Merchant story
+
+</details>
+
+---
+
+**Q-GC50. Jharkhand P.C.S. (Pre.) 2021**
+
+The collection of the writings of the Saivite saints is
+
+considered as Fifth Veda. What is the name of the above
+
+collection?
+
+A. Tolkapium
+
+B. Silapaddikaran
+
+C. Manimekhalai
+
+D. Tirumurai
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Thirumurai is a twelve-volume compendium of songs or
+hymns in praise of Shiva in the Tamil language from the 6th
+to 11th century CE. It is compilation of writings of various
+poets. Thirumurai along with Vedas and Saiva agamas forms
+the basis of Saiva Siddhantha philosophy in South India.
+
+</details>
+
+---
+
+**Q-GC51. M.P.P.C.S. (Pre) 2022**
+
+How many Alvars and Nayanars are there according
+
+to tradition?
+
+A. 12 and 63
+
+B. 12 and 53
+
+C. 23 and 63
+
+D. 23 and 53
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The Alvars and Nayanars are two groups of saint- poets in
+Bhakti tradition of South India, particularly in the Tamilspeaking regions. The Alvars are devoted to Lord Vishnu.
+There are 12 prominent Alvars in the tradition. The Nayanars
+on the other hand are devoted to Lord Shiva. There are 63
+Nayanars who are widely celebrated in the tradition.
+
+</details>
+
+---
+
+**Q-GC52. I.A.S. (Pre) 2022**
+
+Which one of the following statements about Sangam
+
+literature in ancient South India is correct?
+
+A. Sangam poems are devoid of any reference to material
+
+culture.
+
+B. The social classification of Varna was known to
+
+Sangam poets.
+
+C. Sangam poems have no reference to warrior ethic.
+
+D. Sangam literature refers to magical forces as irrational.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Sangam literature is one of the oldest available Tamil
+literatures. The poetry composed during Sangam period
+depicts societal, economic, religious conditions etc. of
+contemporary South India. These poems also depict material
+culture of that period. The social classification of Varna was
+known to Sangam poets. Sangam poems describe warrior
+ethic as well as magical forces in nature.
+
+</details>
+
+---
+
+**Q-GC53. U.P.P.C.S. (Pre) 2003 · U.P. U.D.A./L.D.A. (Pre) 2002 · U.P.P.C.S. (Pre) 2001**
+
+From the excavations of which ancient site,
+
+information has been gathered regarding brisk trade
+
+relations between India and Rome, during the early
+
+centuries of Christian era :
+
+A. Madurai
+
+B. Tamralipti
+
+C. Tondi
+
+D. Arikamedu
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Arikamedu is an archaeological site in South-estern coast
+of India at Pondicherry. An intaglio was found here which
+was carved with the picture of a man. It was identified as
+Augustus Caesar. Beads and gems were also found. Hence it
+was concluded that these antiquities belonged to the Roman
+Empire. Dubreuil called Arikamedu “a true Roman city.”
+In Periplus of the Erythraean Sea, it was called as Poduke.
+
+</details>
+
+---
+
+**Q-GC54. [Jharkhand P.C.S. (Pre)-2021]**
+
+The foremost Indo-Roman trading station in Eastern
+
+India was :
+
+A. Tamluk
+
+B. Rajgir
+
+C. Arikamedu
+
+D. Bhagrapir
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Arikamedu is an archaeological site in South-estern coast
+of India at Pondicherry. An intaglio was found here which
+was carved with the picture of a man. It was identified as
+Augustus Caesar. Beads and gems were also found. Hence it
+was concluded that these antiquities belonged to the Roman
+Empire. Dubreuil called Arikamedu “a true Roman city.”
+In Periplus of the Erythraean Sea, it was called as Poduke.
+*(Refer to Q-GC53 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC55. U.P.P.C.S. (Pre) 1997**
+
+Which one of the following ports was known as Poduke
+
+to the author of ‘The Periplus of the Erythrean Sea’ :
+
+A. Arikamedu
+
+B. Tamralipti
+
+C. Korkai
+
+D. Barbaricum
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Arikamedu is an archaeological site in South-estern coast
+of India at Pondicherry. An intaglio was found here which
+was carved with the picture of a man. It was identified as
+Augustus Caesar. Beads and gems were also found. Hence it
+was concluded that these antiquities belonged to the Roman
+Empire. Dubreuil called Arikamedu “a true Roman city.”
+In Periplus of the Erythraean Sea, it was called as Poduke.
+*(Refer to Q-GC53 for primary reference context)*
+*(Refer to Q-GC54 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC56. U.P. Lower Sub. (Pre) 2009**
+
+The Roman settlement has been found?
+
+A. Kalibangan
+
+B. Arikamedu
+
+C. Rangpur
+
+D. Satara
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Arikamedu is an archaeological site in South-estern coast
+of India at Pondicherry. An intaglio was found here which
+was carved with the picture of a man. It was identified as
+Augustus Caesar. Beads and gems were also found. Hence it
+was concluded that these antiquities belonged to the Roman
+Empire. Dubreuil called Arikamedu “a true Roman city.”
+In Periplus of the Erythraean Sea, it was called as Poduke.
+*(Refer to Q-GC53 for primary reference context)*
+*(Refer to Q-GC54 for primary reference context)*
+*(Refer to Q-GC55 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC57. U.P.P.S.C. (R.I.) 2014**
+
+Amphora Jar is a –
+
+A. Perforated jar
+
+B. Tall double handle jar
+
+C. Painted grey jar
+
+D. Black and red ware jar
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Amphora Jar is an ancient jar with a long and narrow neck
+and two handles on both sides. This jar was used in ancient
+Rome as a container for wine or oil.
+
+</details>
+
+---
+
+**Q-GC58. 41st B.P.S.C. (Pre) 1996**
+
+Which of the following dynasties is not mentioned in
+
+Sangam literature?
+
+A. Kadamb
+
+B. Chera
+
+C. Chola
+
+D. Pandya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The origin and elevation of Chola, Cheras and Pandyas
+are mentioned in Sangam Literature. Kadamb or any other
+dynasty is not mentioned in Sangam literature.
+
+</details>
+
+---
+
+**Q-GC59. U.P. U.D.A./L.D.A. (Mains) 2010**
+
+Which one of the following was not a ruling dynasty
+
+of the Tamil country during the Sangam Age?
+
+A. Chera
+
+B. Chola
+
+C. Pallava
+
+D. Pandya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+In South India, three dynasties ruled during the Sangam
+Age are Chera, Chola and the Pandya. Pallavas were not the
+rulers of this age.
+
+</details>
+
+---
+
+**Q-GC60. M.P.P.C.S. (Pre) 1997**
+
+Religious anthology ‘Kural’ composed in which
+
+language?
+
+A. Greek
+
+B. Tamil
+
+C. Telugu
+
+D. Pali
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Kural is considered as the Bible and Laghuveda of Tamil
+literature. It is also known as ‘Muppal’. It was written
+by the famous poet Tiruvalluvar. According to hearsay,
+Thiruvalluvar was the advent of Brahma.
+
+</details>
+
+---
+
+**Q-GC61. U.P.R.O./A.R.O. (Mains) 2013**
+
+Which one of the following Tamil Texts has been called
+
+Laghuveda?
+
+A. Nandhikalambakam
+
+B. Kalingattuparani
+
+C. Periyapuranam
+
+D. Kural
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Tamil text ‘Kural’ is considered as Laghuveda and was
+authored by Thiruvalluvar.
+
+</details>
+
+---
+
+**Q-GC62. I.A.S. (Pre) 2023**
+
+Which one of the following explains the practice of
+
+'Vattakirutal' as mentioned in Sangam poems?
+
+A. Kings employing women bodyguards
+
+B. Learned persons assembling in royal courts to discuss
+
+religious and philosophical matters
+
+C. Young girls keeping watch over agricultural fields and
+
+driving away birds and animals
+
+D. A king defeated in a battle committing ritual suicide
+
+by starving himself to death
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+'Vattakirutal' ritual was a Tamil ritual of fasting unto death.
+This practice was mainly prevalent during the Sangam period.
+This was a way of ritual suicide by a king defeated in a battle
+by starving himself to death.
+
+</details>
+
+---
+
+**Q-GC63. U.P. U.D.A./L.D.A. (Mains) 2010**
+
+Who among the following was the author of the
+
+Tamil Ramayanam or Ramavataram ?
+
+A. Kamban
+
+B. Kuttan
+
+C. Nannaya
+
+D. Tikkana
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Ramavataram or Tamil Ramayanam was authored by Kamban.
+
+</details>
+
+---
+
+**Q-GC64. I.A.S. (Pre) 2016**
+
+With reference to the cultural history of medieval
+
+India, consider the following statements:
+
+1. Siddhas (Sittars) of Tamil region were monotheistic
+
+and condemned idolatry.
+
+2. Lingayats of Kannada region questioned the theory
+
+of rebirth and rejected the caste hierarchy.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Siddhas are traced back to Sangama period, but the word
+Siddha is not found in Sangama literature. It is closely
+linked with origin and development of Shaivism, Siddhanta
+philosophy, Tantras Science and Technology in South India.
+Siddhas means refined monotheistic and condemned idolatry.
+Thus, statement (1) is correct. Lingayats of Kannada region
+challenged the idea of caste attributed by certain groups of
+Brahmins. They also questioned the theory of rebirth. They
+encouraged remarriage of widows and disapproved of prepuberty marriage. Thus, statement (2) is also correct.
+
+</details>
+
+---
+
+**Q-GC65. I.A.S. (Pre) 1997**
+
+Match List I with List II and select the correct answer
+
+using codes given below the lists :
+
+List-I List- II
+
+A. Gupta 1. Badami
+
+B. Chandela 2. Panamalai
+
+C. Chalukya 3. Khajuraho
+
+D. Pallava 4. Deogarh
+
+Code :
+
+A B C D
+
+A. 4 3 1 2
+
+B. 4 2 3 1
+
+C. 2 3 4 1
+
+D. 3 4 1 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Dashavatara Temple is located in Deogarh in the Lalitpur
+district, Uttar Pradesh. It belongs to the Gupta era.
+Khajuraho proclaims rich art culture of Chandelas. There
+are approximately 25 temples that are related to Vishnu,
+Shiva and Jain deities. The most famous temple is Kandariya
+Mahadeva. Chalukyas had their capital at Badami (Karnataka)
+and Panamalai is related to Pallava.
+
+</details>
+
+---
+
+**Q-GC66. I.A.S. (Pre) 1997**
+
+Which one of the following was a corporation of
+
+merchants in ancient India?
+
+A. Chaturvedimangalam
+
+B. Parishad
+
+C. Ashtadiggaja
+
+D. Manigramam
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Various trade unions existed in South Indian townships like
+Manigramam, Nanadesi, Valanjiyar, etc. The purpose of these
+unions was to encourage trade and business.
+
+</details>
+
+---
+
+**Q-GC67. U.P. U.D.A./L.D.A. (Pre) 2001**
+
+Famous South Indian ‘The Battle of Takkolam’ was
+
+fought between?
+
+A. Between Chola and North Chalukyas
+
+B. Between Chola and Rashtrakutas
+
+C. Between Chola and Hoyasala
+
+D. Between Chola and Pandya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The battle of Takkolam was a military engagement
+between Rajaditya, son of the Chola king Parantaka - I and
+a confederacy of western Gangas and Vaidunbas led by
+Rashtrakuta King Krishna - III at Takkolam.
+
+</details>
+
+---
+
+**Q-GC68. U. P. Lower Sub. (Pre) 2004**
+
+Who devastated Chola dynasty eventually?
+
+A. Mahmud Ghaznavi
+
+B. Bakhtiyar Khalji
+
+C. Muhammad Gauri
+
+D. Malik Kafur
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** *****
+
+**Detailed Explanation:**
+Near about 1250 AD Hoyasala and Pandya Kingdom defeated
+Chola King Rajendra III. Chola dynasty ended nearly 1279
+AD. Malik Kafur conquered South India in nearly 1310 AD.
+He conquered Yadav, Hoyasala, Kakatiya and Pandya.
+
+</details>
+
+---
+
+**Q-GC69. 39th B.P.S.C. (Pre) 1994**
+
+Why was ‘Uraiyur’ famous in Sangam Era?
+
+A. An important trade centre of spices
+
+B. An important trade centre of cotton
+
+C. An important centre of foreign trade
+
+D. An important centre of domestic trade
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Uraiyur was a very significant town during Sangam Era, located
+on the bank of Cauvery river in Tiruchirappalli (Tamil Nadu).
+It was known as Koli and Varanam and was the major centre
+of cotton. It is mentioned in “Periplus of the Erythraean Sea.”
+
+</details>
+
+---
+
+**Q-GC70. Uttarakhand P.C.S. (Pre) 2021**
+
+Udiyanjiral belongs to which dynasty?
+
+A. Chera dynasty
+
+B. Pandya dynasty
+
+C. Chola dynasty
+
+D. Satavahana dynasty
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Udiyanjiral belongs to Chera dynasty. Chera empire was
+in modern Kerala. He was first historical king of Sangama
+period. As per legends, he provided a feast to all the fighters
+of Mahabharata war.
+
+</details>
+
+---
+
+**Q-GC71. U.P. Lower Sub. (Spl) (Pre) 2010**
+
+Which river was the lifeline of Pandya state?
+
+A. Godavari
+
+B. Krishna
+
+C. Tungabhadra
+
+D. Vengi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Vengi River was the lifeline of the state of Pandya. The river
+originates in Kandan Manikanur near Madurai, Tamil Nadu.
+Pandya state was located in the south of Kaveri. It compries
+the districts of modern Madurai and Tirunelveli district
+(Tamil Nadu) and some regions of Kerala also. Its capital was
+Madura. The region of Vengi river was famous for its fertility.
+
+</details>
+
+---
+
+**Q-GC72. U.P.P.C.S. (Pre) 2012**
+
+Which of the following Sangam ports were situated on
+
+the western coast? Select the correct answer from the
+
+code given below:
+
+1. Korkai 2. Puhar
+
+3. Tondi 4. Mushiri
+
+Code :
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 3 and 4 only
+
+D. 4 and 1 only
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The list of various ports is available in ‘Periplus of the
+Erythraean Sea", the famous book of an anonymous Greek
+sailor. Naura, Tondi, Mushiri and Nelisanda were the main
+ports of the western coast.
+
+</details>
+
+---
+
+**Q-GC73. I.A.S. (Pre) 2023**
+
+With reference to ancient South India, Korkai,
+
+Poompuhar and Muchiri were well known as
+
+A. capital cities
+
+B. ports
+
+C. centres of iron and steel making
+
+D. shrines of Jain Tirthankaras
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Poompuhar is a major city in the South Indian state of Tamil
+Nadu. It was a prosperous port city in ancient times, known
+as Kaveri Poompattinam and Kaveripattinam. It served as
+the capital of the early Chola kings. Korkai was a port city
+of the Pandyas, located near the Bay of Bengal. Evidence of
+developed trade with ancient Roman civilisation has been
+found from here. Muziris/Muchiri was a port city in Kerala.
+It was one of the oldest ports in the world. Sangam literature
+mentions this port.
+
+</details>
+
+---
+
+**Q-GC74. R.A.S./R.T.S.(Pre) 2010**
+
+According to the Sangam texts the terms Kon, Ko and
+
+Mannan were attributed to which of the following?
+
+A. Prime Minister
+
+B. Revenue Minister
+
+C. Commander of the army
+
+D. King
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+According to the Sangam text, the terms Kon, Ko and
+Mannan, were attributed to the King.
+
+</details>
+
+---
+
+**Q-GC75. U.P.P.C.S. (Pre) 2006**
+
+Third Sangam was held at :
+
+A. Arikamedu
+
+B. Ernakulam
+
+C. Madurai
+
+D. Tuticorin
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Sangam is defined as ‘Conference of Poets’ or ‘Forum
+of Scholars.’ Literature written by scholars during this
+conference is mentioned as ‘Sangam Literature.’ Three
+Sangams were held under the patronage of Pandya kings
+in the south.
+Sangam Place President
+1st Madurai Saint Agastya
+2nd Kapadapuram Saint Agastya
+3rd Madurai Nakkirar
+
+</details>
+
+---
+
+**Q-GC76. Jharkhand P.C.S. (Pre) 2013**
+
+The sage who is said to have Aryanised South India was
+
+A. Vishwamitra
+
+B. Agastya
+
+C. Vashishtha
+
+D. Sambhara
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Agastya is the sage who is credited with having Aryanised
+South India. It is believed that he travelled south on request
+of Gods and later resided there. He is also known as “Father
+of Tamil Literature.”
+
+</details>
+
+---
+
+**Q-GC77. U.P.P.C.S. (Spl) (Pre) 2004**
+
+Match List- I with List -II and select correct answer
+
+with the help of codes given below:
+
+List -I List-II
+
+A. Chalukyas 1. Madurai
+
+B. Pallava 2. Kannauj
+
+C. Harsha 3. Badami
+
+D. Pandya 4. Kanchipuram
+
+Code :
+
+A B C D
+
+A. 3 4 2 1
+
+B. 4 3 2 1
+
+C. 1 4 2 3
+
+D. 1 3 2 4
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Badami was the capital of Chalukyas. Pulakesin-II was the
+most glorious king of Badami Chalukyas. The detailed history
+of Pulakesin-II is known from the Aihole inscription written
+by Ravikirti. The capital of Pallavas was Kanchipuram.
+Harsha, along with his sister Rajyashri, ruled jointly over
+Kannauj. Madurai was the capital of Pandyas.
+
+</details>
+
+---
+
+**Q-GC78. I.A.S. (Pre) 2020**
+
+Consider the following events in the history of India :
+
+1. Rise of Pratiharas under King Bhoja
+
+2. Establishment of Pallava power under
+
+Mahendravarman-I
+
+3. Establishment of Chola power by Parantaka - I
+
+4. Pala dynasty founded by Gopala
+
+What is the correct chronological order of the above
+
+events, starting from the earliest time?
+
+A. 2 - 1 - 4 - 3
+
+B. 3 - 1 - 4 - 2
+
+C. 2 - 4 - 1 - 3
+
+D. 3 - 4 - 1 - 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Following is the sequence of events :-
+Mahendravarman- I established Pallava Power (600-630 A.D.);
+Gopala founded Pala dynasty in 750 A.D.;
+Mihirabhoja (836-885 A.D.) or Bhoja I was a ruler of Gurjara
+Pratihara dynasty of India;
+Parantaka - I (907-953 A.D.) ruled Chola kingdom in South
+India.
+
+</details>
+
+---
+
+**Q-GC79. Chhattisgarh P.C.S. (Pre) 2016**
+
+Which of the following pair (A State of South India
+
+from 6th to 12th century and its Capital) is not
+
+correctly matched?
+
+A. Pallava-Kanchipuram
+
+B. Pandya-Madurai
+
+C. Chera-Puducheri
+
+D. Chola-Tanjvur
+
+E. Hoyasala-Dwarasamudra
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Chera was a state of South India located in the present-day
+state of Kerala and to a lesser extent, parts of Tamil Nadu.
+The capital of the state of Chera was Vanchi. All other options
+are correctly matched.
+
+</details>
+
+---
+
+**Q-GC80. 70th B.P.S.C. (Pre) 2024**
+
+Which of the following was the capital of Chera
+
+dynasty ?
+
+A. Karuvur/Karur
+
+B. Kanchipuram
+
+C. Madurai
+
+D. More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The Chera dynasty ruled over the southwestern part of South
+India (present-day Kerala and parts of Tamil Nadu). Karur/
+Karuvur was their capital. According to some sources, their
+capital is also mentioned as Thondi. Its other name was Vanchi.
+
+</details>
+
+---
+
+**Q-GC81. U.P.B.E.O. (Pre) 2019**
+
+Arrange the names of the following Pallava rulers according to their reign in correct chronological order
+
+and select the correct answer from the codes given
+
+below :
+
+1. Parmeshvaravarman I
+
+2. Narsinghvarman I
+
+3. Nandivarman II
+
+4. Mahendravarman I
+
+Codes :
+
+A. 4, 2, 1, 3
+
+B. 4, 3, 1, 2
+
+C. 1, 3, 2, 4
+
+D. 3, 2, 1, 4
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+As per the question, timeline of Pallava king's rule is as
+follows :-
+1. Mahendravarman I - (600-630 A.D.)
+2. Narsinghvarman I - (630-668 A.D.)
+3. Parmeshwaravarman I - (Approx 670-700 A.D.)
+4. Nandivarman II - (731-795 A.D.)
+Hence option (a) is right answer.
+
+</details>
+
+---
+
+**Q-GC82. U.P.P.C.S. (Mains) 2014**
+
+Who of the following Chinese travellers has given an
+
+account of the relationship of China with India during
+
+the reign of Chalukyas?
+
+A. Fa-Hien
+
+B. Hiuen-Tsang
+
+C. It-Sing
+
+D. Matwalin
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Matwalin was a Chinese traveller who gave an account of
+the relationship between China and India during the reign
+of Chalukyas.
+
+</details>
+
+---
+
+**Q-GC83. Uttarakhand P.C.S. (Pre) 2010**
+
+Which dynasty did not rule over North India?
+
+A. Chalukyas
+
+B. Rajputs
+
+C. Gupta
+
+D. Mauryas
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Chalukya Dynasty did not rule over North India. Their rule was
+mainly centralized in Deccan and Southern India. Their capital
+was Badami (Vatapi). Pulakesin - II was the first ruler of Badami’s
+Chalukya dynasty who defeated Harshavardhana in 618 AD.
+Apart from this, there were also small branches of Chalukyas in
+which the Chalukyas of Kalyani were most prominent.
+
+</details>
+
+---
+
+**Q-GC84. U.P.R.O./A.R.O. (Mains) 2016**
+
+Which of the following King is known to have sent his
+
+ministers to suppress the cruelty against animals in
+
+Kashi region?
+
+A. Chalukya King Siddharaja Jayasimha
+
+B. Chalukya King Kumarapala
+
+C. Chola King Kulottunga I
+
+D. Kashmirian King Jayasimha
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Kumarpala was a Chalukya king. He reigned for 29 years. He
+was a Jain and a disciple of Jain Scholar Hemachandra. Several
+medieval Jain scholars wrote chronicles about him. As per Jain
+traditions he was against animal cruelty and sent his minister
+to suppress the cruelty against animals in Kashi region.
+
+</details>
+
+---
+
+**Q-GC85. U.P.P.C.S. (Mains) 2005**
+
+The capital of Kadamba Kings was –
+
+A. Tanjore
+
+B. Vanavasi
+
+C. Kanchi
+
+D. Badami
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The capital of Kadamba rulers was Vanavasi. Kadamb
+dynasty was founded by Mayurasharman. Kadamba state
+was annexed by Pulakesin - II. It is notable that Tanjore
+was the capital of Cholas; Kanchi of Pallavas and Badami
+of Chalukyas.
+
+</details>
+
+---
+
+**Q-GC86. [I.A.S. (Pre)-2017]**
+
+Which one of the following was a very important
+
+seaport in the Kakatiya kingdom?
+
+A. Kakinada
+
+B. Motupalli
+
+C. Machilipatnam (Masulipatnam)
+
+D. Nelluru
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Motupalli was the famous trading seaport of the Kakatiyas.
+Marco Polo visited Kakatiya kingdom through this port and
+wrote about the prosperity and power in Andhra Desh in his
+travelogue.
+
+</details>
+
+---
+
+**Q-GC87. M.P.P.C.S. (Pre) 2005**
+
+A king of South India sent an ambassador to the
+
+kingdom of Rome in 26 B.C. to which dynasty did he
+
+belong?
+
+A. Chola
+
+B. Chera
+
+C. Pandya
+
+D. Chalukya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Pandya king of South India sent an ambassador to the
+kingdom of Rome in 26 B.C. Pandya dynasty had the most
+prolonged duration of reign in South Indian region. Their
+capital was Madurai.
+
+</details>
+
+---
+
+**Q-GC88. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Who established trade relations with Roman empire?
+
+A. Kushanas
+
+B. Cheras
+
+C. Western Shakas
+
+D. Vakatakas
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+India's trade with the Roman empire started with the Chera
+Kingdom during the Sangam period. Many Roman objects
+were found from Arikamedu (Puducherry).
+
+</details>
+
+---
+
+**Q-GC89. U.P.P.C.S. (Pre) 1992 · U.P. Lower Sub. (Pre) 2004**
+
+Meenakshi Mandir is located at:
+
+A. Madurai
+
+B. Pudukottai
+
+C. Sri Rangam
+
+D. Thanjavur
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Meenakshi temple is situated at Madurai. Madurai was the
+capital of Pandyas. During the Sangama era, 1st and 3rd Sangam
+were organised here, which were presided over by Acharya
+Agastya and Nakkirar respectively.
+
+</details>
+
+---
+
+**Q-GC90. Uttarakhand U.D.A./L.D.A. (Pre) 2007 · U.P. P.C.S. (Pre) 1991**
+
+Meenakshi Temple is situated here –
+
+A. Chennai
+
+B. Kolkata
+
+C. Madurai
+
+D. Mahabalipuram
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Meenakshi temple is situated at Madurai. Madurai was the
+capital of Pandyas. During the Sangama era, 1st and 3rd Sangam
+were organised here, which were presided over by Acharya
+Agastya and Nakkirar respectively.
+*(Refer to Q-GC89 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC91. M.P.P.C.S. (Pre) 1994**
+
+Match the following :
+
+List – I List – II
+
+A. Meenakshi Mandir 1. Tirumala (Andhra
+
+Pradesh)
+
+B. Venkateswara Mandir 2. Madurai (Balaji
+
+Vishwanath)
+
+C. Mahakal Mandir 3. Howrah (West Bengal)
+
+D. Bellore Matha 4. Ujjain
+
+Code :
+
+a b c d
+
+A. 1 2 3 4
+
+B. 2 1 4 3
+
+C. 4 3 1 2
+
+D. 3 4 2 1
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Meenakshi temple was originally built by Kulasekara
+Pandya. It is located in Madurai, and the lotus-shaped
+city surrounds it completely. Mahakal temple is located
+in Ujjain and Venkateswara Mandir is located in Tirumala
+(Andhra Pradesh). Bellore Matha is the headquarters of the
+Ramakrishna Mission, founded by Swami Vivekananda, a
+chief disciple of Ramakrishna Paramhansa.
+
+</details>
+
+---
+
+**Q-GC92. 63rd B.P.S.C. (Pre)-2017**
+
+The mighty gateways found at the temples of South
+
+India are called
+
+A. Shikhars
+
+B. Gopurams
+
+C. Devalayas
+
+D. Mandapams
+
+E. None of the above/more than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The mighty gateways found at the temples of South India are
+called Gopurams. The Dravidian style flourished during the
+Pandyas and Cholas. In the Pandya period, the temples were
+small, but many ramparts were built around their courtyard.
+Their gateways, which were called Gopurams; were grand,
+spacious and richly ornamented with craftsmanship. The
+speciality of Chola period architecture is not the temple, but
+the Gopuram.
+
+</details>
+
+---
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Pre-Medieval Period
+
+Complete sequence of 72 questions from Ghatna Chakra Pre-Medieval Period (B–191 to B–199). Covers Gurjara-Pratiharas, Tripartite Struggle, Palas, Senas, Chandelas, Chauhans, Paramaras, Gahadavalas, and Kalachuris.
+
+**Q-GC1. U.P.P.C.S. (Pre) 2010**
+
+Who among the following rules is famous as “Prithvi
+
+Raj Chauhan”?
+
+A. Prithviraja- I
+
+B. Prithviraja- II
+
+C. Prithviraja- III
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Ruler of Ajmer, Prithviraja-III, commonly known as
+Prithviraj Chauhan, defeated Muhammad Ghori in the first
+battle of Tarain in 1191 AD but faced defeat in the second
+battle of Tarain, in 1192 AD.
+
+</details>
+
+---
+
+**Q-GC2. Raj. P.C.S. (Pre) 2023**
+
+The brave Chauhan ruler of Ajmer who conquered
+
+Delhi and annexed it into his kingdom was –
+
+A. Vigraharaj IV
+
+B. Arnoraj
+
+C. Ajayaraj
+
+D. Prithviraj III
+
+E. Question not attempted
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Vigraharaj IV was the most powerful ruler of the Chauhan
+dynasty. He conquered the nearby region and increased the
+boundaries of the empire. He triumphed over the Tomaras
+and took possession of Eastern Punjab and Delhi. He won
+over the Muslim ruler of Punjab.
+
+</details>
+
+---
+
+**Q-GC3. 43rd B.P.S.C. (Pre) 1999**
+
+Epigraphic records (Inscriptions) suggest that in
+
+ancient India, the rulers of Bihar had contact with –
+
+A. Burma
+
+B. Thailand
+
+C. Cambodia
+
+D. Java-Sumatra
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The Pala king Devapala was Buddhist. He was also known
+as “Param Saugat” as per the texts. He donated five villages
+at the request of Java king Balputradev of Sailendra Dynasty
+for developing a Buddhist Vihar in Nalanda.
+
+</details>
+
+---
+
+**Q-GC4. 64th B.P.S.C. (Pre)-2018**
+
+The ruler of Suvarnabhumi, who founded a Buddhist
+
+monastery at Nalanda and requested Devapala
+
+through his ambassador to grant five villages for its
+
+maintenance, was
+
+A. Dharanindra
+
+B. Sangramadhyananjaya
+
+C. Balaputradeva
+
+D. Chudamanivarmana
+
+E. None of the above/more than one of the above.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Balaputradeva was the ruler of Suvarnabhumi, who founded
+a Buddhist monastery at Nalanda and requested Devapala to
+grant five villages for its maintenance.
+
+</details>
+
+---
+
+**Q-GC5. U.P.P.C.S. (Mains) 2007**
+
+Kumaradevi, a queen of Govind Chandra Gahadavala,
+
+constructed Dharma-Chakra-Jaina Vihara at –
+
+A. Bodh Gaya
+
+B. Rajgriha
+
+C. Kushinagar
+
+D. Sarnath
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Queen of Govind Chandra Gahadavala, Kumaradevi was
+Buddhist. She constructed Dharma Chakra Jain Vihar in
+Sarnath. So, option (d) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC6. R.A.S./R.T.S.(Pre) 1999**
+
+According to Hammir Mahakavya the Chauhans were:
+
+A. Chandravanshi
+
+B. Brahmins
+
+C. Yaduvanshis
+
+D. Suryavanshis
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Hammir Epic reports “Chauhans” as Suryavanshi. According
+to Hammir epic, Chauhans were the scions of “Chahman”,
+the son of Sun. They were one of the four fire clans.
+
+</details>
+
+---
+
+**Q-GC7. M.P.P.C.S. (Pre) 2010**
+
+Aalha-Udal were related to –
+
+A. Chanderi
+
+B. Vidisha
+
+C. Mahoba
+
+D. Panna
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Alha and Udal belonged to Mahoba. They were commandants
+of Chandel King Parmardidev (Parmal) (1165-1203 CE), who
+died during the battle with Prithviraj Chauhan. Description
+of Chandel and Chauhan’s terrific struggle is provided in
+“Prithviraj Raso” by Chand Bardai and “Alha-Khand” of
+"Parmal Raso" by Jagnik. So option (c) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC8. M.P. P.C.S. (Pre) 2025**
+
+Who is the author of 'Alhakhand'?
+
+A. Chand Bardai
+
+B. Rajasekhara
+
+C. Parmardidev
+
+D. Jagnik
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Alha and Udal belonged to Mahoba. They were commandants
+of Chandel King Parmardidev (Parmal) (1165-1203 CE), who
+died during the battle with Prithviraj Chauhan. Description
+of Chandel and Chauhan’s terrific struggle is provided in
+“Prithviraj Raso” by Chand Bardai and “Alha-Khand” of
+"Parmal Raso" by Jagnik. So option (c) is the correct answer.
+*(Refer to Q-GC7 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC9. 43rd B.P.S.C. (Pre) 1999**
+
+The author of ‘Prithviraj Raso’ is –
+
+A. Kalhana
+
+B. Bilhana
+
+C. Jayanaka
+
+D. Chand Bardai
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Alha and Udal belonged to Mahoba. They were commandants
+of Chandel King Parmardidev (Parmal) (1165-1203 CE), who
+died during the battle with Prithviraj Chauhan. Description
+of Chandel and Chauhan’s terrific struggle is provided in
+“Prithviraj Raso” by Chand Bardai and “Alha-Khand” of
+"Parmal Raso" by Jagnik. So option (c) is the correct answer.
+*(Refer to Q-GC7 for primary reference context)*
+*(Refer to Q-GC8 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC10. R.A.S./R.T.S.(Pre) 2012**
+
+Who is the author of ‘Prithviraja Vijaya’?
+
+A. Chand Bardai
+
+B. Prithviraja Chauhan
+
+C. Jayanaka
+
+D. Nayanchand Suri
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The author of “Prithviraja Vijaya’ is Jayanak.
+
+</details>
+
+---
+
+**Q-GC11. U.P.P.C.S. (Mains) 2010**
+
+Which one of the following pairs is not correctly
+
+matched?
+
+A. Abdur Rehman - Hammir Raso
+
+B. Chand Bardai - Prithvi Raj Raso
+
+C. Jagnik - Alha-Khand
+
+D. Narpati Nalh - Visal Dev Raso
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Sharangdev wrote Hammir Raso. Other options are correctly
+matched.
+
+</details>
+
+---
+
+**Q-GC12. M.P.P.C.S. (Pre) 2014**
+
+Which of the following Rajput dynasties founded the
+
+city of Dhilika (Delhi) in the eighth century?
+
+A. Parmara dynasty
+
+B. Solanki dynasty
+
+C. Tomar dynasty
+
+D. Chauhan dynasty
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Anangpal Tomar Rajput (Tomar dynasty), originally
+feudatories of the Gurjar-Pratiharas, founded the city of
+Dhillika (modern Delhi).
+
+</details>
+
+---
+
+**Q-GC13. U.P.P.C.S. (Mains) 2008**
+
+Jejakabhukti was the ancient name of –
+
+A. Baghelkhand
+
+B. Bundelkhand
+
+C. Malwa
+
+D. Vidarbha
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Jejakabhukti was the ancient name of Bundelkhand. This
+region was named after Jay Shakti or Jeja/Jejak, grandson
+of Nannuk (founder of Chandel King).
+
+</details>
+
+---
+
+**Q-GC14. M.P.P.C.S. (Pre) 2017**
+
+Dangdev was the ruler of which dynasty?
+
+A. Chandelas of Jejakabhukti
+
+B. Parmar of Malwa
+
+C. Kalchuri of Mahishmati
+
+D. Kalchuri of Tripuri
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Dhangadev, also known as Dhanga, was a king of the Chandel
+dynasty of Jejakbhukti. He built the Kandariya Mahadev
+temple. Dhanga attained Moksha by abandoning his body
+in the waters of Ganga and Yamuna at Sangam, Prayagraj.
+
+</details>
+
+---
+
+**Q-GC15. U.P.R.O./A.R.O. (Pre) 2017**
+
+Arrange the names of the following rulers in correct
+
+chronological order and select the correct answer from
+
+the codes given below:
+
+1. Vidyadhara 2. Dhanga
+
+3. Yashoverma 4. Keertiverma
+
+Codes :
+
+A. 3, 2,1, 4
+
+B. 1, 3, 2, 4
+
+C. 3, 1, 4, 2
+
+D. 2, 3, 1, 4
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The correct chronological order of these rulers is Yashovarman (925-950 AD), Dhanga (950-1002 AD), Vidyadhara
+(1017/19-1029 AD) and Keertivarman (1060-1100 AD).
+
+</details>
+
+---
+
+**Q-GC16. [M.P.P.C.S. (Pre)-2019]**
+
+Who among the following built "Tribhuvan Narayan
+
+Temple" of Chittour?
+
+A. Rana Pratap
+
+B. Raja Dhang
+
+C. Parmar Raja Bhoj
+
+D. Prithviraj Chauhan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The Samidheshwar temple was built by Paramara Raja Bhoj
+of Malwa. This temple is also known as the Tribhuvan
+Narayan temple and Bhoj Jagti. Three face idol of Lord Shiva
+is placed inside temple, which is very similar to the main idol
+of Lord Shiva of Elephanta cave of Mumbai.
+
+</details>
+
+---
+
+**Q-GC17. U.P.P.C.S. (Pre) 2012**
+
+Pundravardhan Bhukti was located in:
+
+A. North Bengal
+
+B. Bihar
+
+C. Odisha
+
+D. Assam
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Pundravardhan Bhukti was located in the region of North
+Bengal in ancient times. Its territory was expanded to northern
+Bihar during the era of Pala, Chandra and Sena dynasties.
+
+</details>
+
+---
+
+**Q-GC18. U.P.P.C.S. (Mains) 2015**
+
+Who was the founder of Pala dynasty?
+
+A. Dharmapala
+
+B. Deopala
+
+C. Gopala
+
+D. Ramapala
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+According to Tibetan historian Lama Taranath, Gopala, the
+founder of the Pala dynasty, was born near ‘Pundravardhana’
+and was elected the king of Bengal.
+
+</details>
+
+---
+
+**Q-GC19. 60th to 62nd B.P.S.C. (Pre)-2016**
+
+In which among the following state 'Odantipur'
+
+Education Centre was situated?
+
+A. Bengal
+
+B. Bihar
+
+C. Gujarat
+
+D. Tamilnadu
+
+E. None of the above/more than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Odantapuri that was also known as Udnapur, was a prominent
+education centre during ancient period. It was situated in
+Bihar and was established by Pala ruler Gopala.
+
+</details>
+
+---
+
+**Q-GC20. U.P.P.C.S. (Pre) 1999**
+
+Who among the following had built the Sompura
+
+Mahavihar?
+
+A. Kumaragupta-I
+
+B. Harsha
+
+C. Dharmapala
+
+D. Vijayasena
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Dharmapala was an enthusiastic Buddhist. He was called
+“Param Saugat” in his inscriptions. He constructed famous
+Buddhist monasteries at Vikramshila and Somapuri
+(Paharpur). Renowned Buddhist commentator, Haribhadra
+was also a part of his court. According to Taranath,
+Dharmapala founded 50 religious schools, but he had no
+religious intolerance and bigotry as a king.
+
+</details>
+
+---
+
+**Q-GC21. Chhattisgarh P.C.S. (Pre) 2011 · U.P.P.C.S. (Pre) 2008 · 43rd B. P.S.C. (Pre) 1999 · U.P.P.C.S. (Spl) (Mains) 1994**
+
+Which ruler of Bengal founded the ancient University
+
+called ‘Vikramshila.’
+
+A. Dharamapala
+
+B. Gopala
+
+C. Devpala
+
+D. Mahipala
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+King Dharmapala (770-810 A.D.) of Bengal established
+the Vikramshila University. After the downfall of Nalanda
+University, Vikramshila University was developed as the
+main centre for the Buddhist religion.
+
+</details>
+
+---
+
+**Q-GC22. 68th B.P.S.C. (Pre) 2022**
+
+The Vikramshila University was established by
+
+A. Gopala
+
+B. Dharmapala
+
+C. Devapala
+
+D. More than one of the above
+
+E. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+King Dharmapala of Pala dynasty established the Vikramshila
+University. After Nalanda University degraded, it became the
+main center of Buddhist studies.
+
+</details>
+
+---
+
+**Q-GC23. U.P.P.C.S. (Pre) 2008 · 43rd B.P.S.C. 1999 · Uttarakhand P.C.S. (Pre) 2024**
+
+Who founded the Vikramshila University ?
+
+A. Dharmapala
+
+B. Devpala
+
+C. Rampala
+
+D. Gopal
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+King Dharmapala of Pala dynasty established the Vikramshila
+University. After Nalanda University degraded, it became the
+main center of Buddhist studies.
+*(Refer to Q-GC22 for primary reference context)*
+
+</details>
+
+---
+
+
+
+---
+
+**Q-GC25. U.P.P.C.S. (Mains) 2005**
+
+Vikramshila Maha Vihar was established by the ruler of
+
+A. Pushyabhuti Dynasty
+
+B. Varman Dynasty
+
+C. Sen Dynasty
+
+D. Pala Dynasty
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+King Dharmapala of Pala dynasty established the Vikramshila
+University. After Nalanda University degraded, it became the
+main center of Buddhist studies.
+*(Refer to Q-GC22 for primary reference context)*
+*(Refer to Q-GC23 for primary reference context)*
+*(Refer to Q-GC24 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC26. U.P.R.O./A.R.O. 2017**
+
+Which one of the following rulers established
+
+Vikramashila University?
+
+A. Gopal
+
+B. Devapal
+
+C. Mahipala I
+
+D. Dharmapal
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+King Dharmapala of Pala dynasty established the Vikramshila
+University. After Nalanda University degraded, it became the
+main center of Buddhist studies.
+*(Refer to Q-GC22 for primary reference context)*
+*(Refer to Q-GC23 for primary reference context)*
+*(Refer to Q-GC24 for primary reference context)*
+*(Refer to Q-GC25 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC27. U.P.P.C.S. (Mains) 2002 · U.P. Lower (Spl) (Pre) 2004**
+
+Vikramshila Mahavihara, a great center of education
+
+in ancient India, was established by
+
+A. Kumar Gupta-I
+
+B. Harsha
+
+C. Dharmapala
+
+D. Lakshamanasen
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+King Dharmapala of Pala dynasty established the Vikramshila
+University. After Nalanda University degraded, it became the
+main center of Buddhist studies.
+*(Refer to Q-GC22 for primary reference context)*
+*(Refer to Q-GC23 for primary reference context)*
+*(Refer to Q-GC24 for primary reference context)*
+*(Refer to Q-GC25 for primary reference context)*
+*(Refer to Q-GC26 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC28. U.P.P.C.S. (Pre) 2016 · U.P.P.C.S. (Pre) 2015**
+
+Who among the following was the founder of
+
+Vikramshila University?
+
+A. Gopala
+
+B. Dharmapala
+
+C. Devapala
+
+D. Mahipala
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+King Dharmapala of Pala dynasty established the Vikramshila
+University. After Nalanda University degraded, it became the
+main center of Buddhist studies.
+*(Refer to Q-GC22 for primary reference context)*
+*(Refer to Q-GC23 for primary reference context)*
+*(Refer to Q-GC24 for primary reference context)*
+*(Refer to Q-GC25 for primary reference context)*
+*(Refer to Q-GC26 for primary reference context)*
+*(Refer to Q-GC27 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC29. Jharkhand P.C.S. (Pre) 2013**
+
+In which modern-day’s State, the University of
+
+Vikramasila was located?
+
+A. Madhya Pradesh
+
+B. Odisha
+
+C. Bihar
+
+D. Jharkhand
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Vikramshila University was established by Pala ruler
+Dharmapala (770-810 AD) at Bhagalpur in Bihar.
+Vikramshila’s curriculum taught formalized Vedic learning,
+including Vedic texts, rituals and the Vedangas, such as
+reasoning, medicine, law, astronomy and city planning.
+
+</details>
+
+---
+
+**Q-GC30. 69th B.P.S.C. (Pre) 2023**
+
+Consider the following statements regarding the
+
+Vikramshila University in Bihar :
+
+1. It was located in the present-day Banka district of
+
+Bihar.
+
+2. It was established by King Gopala I of the Pala
+
+dynasty.
+
+3. The 'Vajrayana' sect of Buddhism flourished here.
+
+4. Other subjects like Astronomy, Logic, Law,
+
+Grammar and Philosophy were also taught here.
+
+Which of the above statements are incorrect?
+
+A. 2 and 3
+
+B. 1 and 4
+
+C. 1 and 2
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Vikramshila University is located in Bhagalpur and not in
+Banka district. It was established by Dharmapala of Pala
+dynasty and not by Gopala I. Hence statements 1 and 2 are
+incorrect. Rest are correct.
+
+</details>
+
+---
+
+**Q-GC31. [U.P.R.O/A.R.O (Pre)-2021]**
+
+Which of the following king/kings was/were elected/
+
+chosen directly by the public?
+
+(1) Harshavardhan
+
+(2) Gopal
+
+(3) Yashovarman
+
+(4) Nandivarman Pallavamalla
+
+Select the correct answer using the code given below–
+
+Code -
+
+A. Only (1), (2) and (4)
+
+B. Only (2), (3) and (4)
+
+C. Only (2) and (4)
+
+D. Only (2) and (3)
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The founder of Pala dynasty 'Gopal' and Pallava ruler
+'Nandivarman Pallavamalla' were elected/chosen directly by
+the public. Khalimpur inscription of Dharmapala describes
+the election of Gopala by people to overcome Matsya Nayaya
+(Law of the Jungle). After the unexpected death of Pallava
+ruler Permeshwar Varman, people elected Nandivarman
+Pallavamalla as their king.
+
+</details>
+
+---
+
+**Q-GC32. Uttarakhand P.C.S. (Pre) 2016**
+
+Which one of the following places was not the center
+
+of learning during early medieval period?
+
+A. Nalanda
+
+B. Vikramshila
+
+C. Taxila
+
+D. Uddantapur
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Takshashila (Taxila) was an early Buddhist center of learning.
+Taxila was the capital of Gandhara State located in presentday Rawalpindi district of Pakistan. Chanakya (Kautilya),
+the Maurya emperor Chandragupta, the Ayurvedic healer
+Charaka and Jivaka studied at Takshashila.
+The Vedas and the eighteen arts, which included skills such
+as archery and elephant lore, were taught. Nalanda University
+was established in 5th century A.D. by Kumar Gupta. At the
+beginning of the 12th century, the Muslim invader Bakhtiyar
+Khalji sacked the university. Dharmapala established
+Vikramshila University (770-810 A.D.) in Bhagalpur, Bihar.
+University in Odantapuri was established during the rule of
+Pala dynasty.
+
+</details>
+
+---
+
+**Q-GC33. I.A.S. (Pre) 2006**
+
+Who among the following laid the foundation of
+
+Rashtrakuta Empire?
+
+A. Amoghavarsha- I
+
+B. Danti Durga
+
+C. Dhruva
+
+D. Krishna- I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+In 736 AD, Danti Durga laid the foundation of the Rashtrakuta
+Empire. His capital was Manyakheta. It is said that Danti
+Durga had performed Hiranygarbha oblation in Ujjayini.
+
+</details>
+
+---
+
+**Q-GC34. U.P.P.C.S. (Re. Exam) (Pre) 2015**
+
+Who out of the following performed a ritual called
+
+‘Hiranya-Garbha’?
+
+A. Mayur Sharman
+
+B. Hari Chandra
+
+C. Danti Durga
+
+D. Harsha
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+In 736 AD, Danti Durga laid the foundation of the Rashtrakuta
+Empire. His capital was Manyakheta. It is said that Danti
+Durga had performed Hiranygarbha oblation in Ujjayini.
+*(Refer to Q-GC33 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC35. U.P.P.C.S. (Mains) 2013**
+
+Who among the following was born in a military camp
+
+in the course of his father’s campaign?
+
+A. Amoghavarasha Rashtrakuta
+
+B. Bhoja Parmara
+
+C. Dharmapala
+
+D. Nagabhatta-II Pratihara
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Rahstrakuta king Amoghvarsha - I was born in 800 AD in
+Shribhavan near Narmada river in a military camp when his
+father Govind - III was returning after successful campaigns
+of North India.
+
+</details>
+
+---
+
+**Q-GC36. U.P.P.S.C. (GIC) 2010**
+
+The greatest Pratihara King was –
+
+A. Dharampala
+
+B. Harsha
+
+C. Mihir Bhoj
+
+D. Mahendrapala
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The greatest Pratihara king was Mihir Bhoj (836-885A.D.).
+Dharmapala was a prominent king of Pala dynasty (770-
+810 A.D.). Mahendrapala-I (885-910 A.D.) was Pratihara
+monarch while Harsha Vardhana was king of Pushyabhuti
+dynasty (606-647 A.D.).
+
+</details>
+
+---
+
+**Q-GC37. U.P.R.O./A.R.O. (Pre) 2017**
+
+'Aadi Varaha' was the title of which Gurjar Pratihara
+
+ruler?
+
+A. Vatsraja
+
+B. Nagbhatta II
+
+C. Mihir Bhoja
+
+D. Nagbhatta I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Mihir Bhoja-I was the most powerful ruler among the
+Gurjara-Pratiharas. He was a follower of Vaishnavism. He
+attained the titles of 'Aadi Varaha' and 'Prabhas'.
+
+</details>
+
+---
+
+**Q-GC38. Chhattisgarh P.C.S. (Pre) 2022**
+
+What is/are not true about King Mihir Bhoja?
+
+(i) He was the son of Nagabhatta-II
+
+(ii) Kannauj was the capital of his kingdom.
+
+(iii)Arab traveller Al-Masudi gave him name of King
+
+Baura.
+
+A. (i) and (ii)
+
+B. Only (i)
+
+C. (ii) and (iii)
+
+D. Only (iii)
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Emperor Ramabhadra and queen Appa Devi gave birth to the
+renowned ruler Raja Mihir Bhoj, who is considered one of
+the greatest monarchs in history. Mihir Bhoj reconstructed
+the Pratihara empire, seized control of Kannauj around 836
+AD and established it as the capital. Al-Masudi a native
+of Baghdad, who visited Gujarat in Tenth century A.D.,
+testifies to the great power and prestige of the Pratihara
+rulers and the vastness of their empire. He calls the GurjaraPratihara kingdom Al-Juzr and the king Baura, probably
+a mispronunciation of Adivaraha, the title used for Bhoja.
+Although Bhoja had died by that time.
+
+</details>
+
+---
+
+**Q-GC39. U.P.P.C.S. (Mains) 2017**
+
+Arrange the names of the following historical
+
+personalities in correct chronological order and select
+
+the correct answer from the codes given below:
+
+1. Nagabhatta II 2. Mahipala
+
+3. Mahendrapala 4. Vatsaraja
+
+Codes :
+
+A. 2, 3, 1, 4
+
+B. 4, 1, 3, 2
+
+C. 1, 2, 3, 4
+
+D. 3, 1, 4, 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The correct chronological order of these historical personalities is - Vatsaraja (775-800 AD), Nagabhatta II (800-833 AD),
+Mahendrapala I (885-910 AD), and Mahipala (912-944 AD).
+
+</details>
+
+---
+
+**Q-GC40. R.A.S./R.T.S. (Pre) 2018**
+
+Which of the following rulers does not belong to
+
+Gurjara- Pratihara dynasty?
+
+A. Nagabhatta-II
+
+B. Mahendrapala-I
+
+C. Devapala
+
+D. Bharatrabhatta-I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The Gurjara-Pratihara dynasty, also known as the Pratihara
+dynasty was an imperial power during the last classical period
+on the Indian sub-continent, that ruled much of northern India
+from mid 8th to 11th century. They ruled first at Ujjain and
+later at Kannauj. The rulers of this dynasty were as follows
+- Nagabhatta I (730-756 A.D.), Vatsaraja (775-800 A.D.),
+Nagabhatta II (800-833 A.D.), Mihir Bhoja-I (836-885 A.D.),
+Mahendrapala I (885-910 A.D.), Devapala (948-949 A.D.), etc.
+
+</details>
+
+---
+
+**Q-GC41. Raj. P.C.S. (Pre) 2023**
+
+The Arab traveller Suleman visited India in the reign
+
+of Pratihar King –
+
+A. Nagbhatta II
+
+B. Nagbhatta I
+
+C. Vatsraja
+
+D. Bhoja I
+
+E. Question not attempted
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Mihir Bhoja, also known as Bhoja I, was a Gurjara- Pratihara
+Dynasty king. The Arab traveller Suleman visited during
+his reign.
+
+</details>
+
+---
+
+**Q-GC42. U.P.P.C.S. (Pre) 2010**
+
+The great Jain scholar Hemchandra adorned the court
+
+of :
+
+A. Amoghavarsha
+
+B. Kumarapala
+
+C. Jaysimha Siddharaja
+
+D. Vidhyadhara
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+An eminent Jain scholar Hemchandra got fame during the
+period of Solanki king Jaysimha Siddharaja. However, he
+adorned the court of his successor Kumarapala (1143-1172
+A.D.) as an advisor.
+
+</details>
+
+---
+
+**Q-GC43. U.P.P.C.S. (Pre) 1999**
+
+Who among the following is credited with initiating a
+
+new Samvat :
+
+A. Dharmapala
+
+B. Devapala
+
+C. Vijayasena
+
+D. Lakshmanasena
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Lakshmanasena (1178 - 1206 A.D.) was the king of Sen
+Dynasty; reigned 28 years. He initiated a new Samvat called
+‘Lakshmana Samvat’.
+
+</details>
+
+---
+
+**Q-GC44. U.P.P.C.S. (Mains) 2005**
+
+The Luxman Era was started by which of the following
+
+dynasties ?
+
+A. Pratiharas
+
+B. Pala
+
+C. Chauhans
+
+D. Senas
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Lakshmanasena (1178 - 1206 A.D.) was the king of Sen
+Dynasty; reigned 28 years. He initiated a new Samvat called
+‘Lakshmana Samvat’.
+*(Refer to Q-GC43 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC45. I.A.S. (Pre) 1995 · U.P.P.C.S. (Pre) 1995**
+
+Who among the following were famous jurists of
+
+medieval India?
+
+1. Vigyanesvara 2. Hemadri
+
+3. Rajashekhara 4. Jimutavahana
+
+Code :
+
+A. 1, 2 and 3
+
+B. 2, 3 and 4
+
+C. 1, 2 and 4
+
+D. 1 and 4
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The famous jurists of early medieval India were Hemadri,
+Vigyaneshvara and Jimutavahana. Vigyaneshvara wrote
+“Mitakshara” and Jimutavahana wrote “Dayabhaga.”
+Rajashekhara was a court scholar of Gurjara-Pratihara king
+Mahendrapala - I and his son Mahipala-I. He compiled texts
+like Karpuramanjari, Kavyamimasa, Viddhasalabhanjika, Bal
+Ramayana, Bhuvankosh, etc.
+
+</details>
+
+---
+
+**Q-GC46. U.P. P.C.S. (Pre) 2024**
+
+Arrange the following Sena rulers of Bengal in
+
+ascending chronological order:
+
+1. Ballal Sena
+
+2. Lakshmana Sena
+
+3. Hemanta Sena
+
+4. Vijay Sena
+
+Choose the correct answer from the options given
+
+below:
+
+A. 4, 3, 2, 1
+
+B. 2, 1, 4, 3
+
+C. 1, 2, 3, 4
+
+D. 3, 4, 1, 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The Sen kings succeeded one another from father to son. The
+names and order of succession are established by inscriptions
+as being 1) Samantasena, 2) Hemantasena, 3) Vijayasena,
+4) Vallalasena or Ballal Sena, 5) Lakshmanasena and 6)
+Visvarupasena
+
+</details>
+
+---
+
+**Q-GC47. R.A.S./R.T.S.(Pre) 2013**
+
+The great Sanskrit poet and dramatist Rajashekhara
+
+was in the court of:
+
+A. Raja Bhoj
+
+B. Mahipal
+
+C. Mahendrapala-I
+
+D. Indra-III
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B&C**
+
+**Detailed Explanation:**
+Rajashekhara was a court scholar of Gurjara-Pratihara king
+Mahendrapala - I and his son Mahipala-I. He compiled texts
+like Karpuramanjari, Kavyamimasa, Viddhasalabhanjika, Bal
+Ramayana, Bhuvankosh, etc.
+
+</details>
+
+---
+
+**Q-GC48. M.P. P.C.S. (Pre) 2025**
+
+Which of the following books was not written by
+
+Rajasekhara?
+
+A. Kavyamimansa
+
+B. Karpuramanjari
+
+C. Prabandhachintamani
+
+D. Viddhasalabhanjika
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Rajashekhara was a court scholar of Gurjara-Pratihara king
+Mahendrapala - I and his son Mahipala-I. He compiled texts
+like Karpuramanjari, Kavyamimasa, Viddhasalabhanjika, Bal
+Ramayana, Bhuvankosh, etc.
+*(Refer to Q-GC47 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC49. Chhattisgarh P.C.S. (Pre) 2008**
+
+Match List- 1 (Dynasty) with List- 2 (Capital) on the
+
+basis of codes :
+
+List- 1 List 2
+
+A. Pratihara 1. Tanjore
+
+B. Chola 2. Anhilwada
+
+C. Paramara 3. Dhara
+
+D. Solanki 4. Kannauj
+
+Code :
+
+A B C D
+
+A. 4 2 3 1
+
+B. 4 3 2 1
+
+C. 4 2 1 3
+
+D. 4 1 3 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Nagabhatta-I is considered as the founder of Pratihara
+dynasty, but the actual founder of this dynasty was Vatsaraja.
+Mihir Bhoja was the most prominent ruler of Pratihara
+Dynasty. The capital of Pratihars was Kannauj. Vijayalaya
+established the Chola Empire in 9th century A.D. Tanjore
+(Tanjavur) was the capital of Cholas. The real founder of
+Paramara dynasty was Siyak - IIand the capital of Paramaras
+was Dhara. Chalukyas were Agni Clan lineage, founded by
+Mularaja - I. The capital of Solankis was Anhilwada.
+
+</details>
+
+---
+
+**Q-GC50. I.A.S. (Pre) 2022**
+
+Consider the following pairs :
+
+King Dynasty
+
+1. Nannuka – Chandela
+
+2. Jayashakti – Paramara
+
+3. Nagabhata II – Gurjara Pratihara
+
+4. Bhoja – Rashtrakuta
+
+How many pairs given above are correctly matched?
+
+A. Only one pair
+
+B. Only two pairs
+
+C. Only three pairs
+
+D. All four pairs
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+In the given options, Nannuka was founder of Chandela
+dynasty. Jayashakti was also ruler of Chandela dynasty.
+Nagabhata II was a ruler of Gurjara-Pratihara and Bhoja
+was a Parmar ruler.
+
+</details>
+
+---
+
+**Q-GC51. U.P.P.C.S. (Pre) 2003 · U.P.U.D.A./L.D.A. (Pre) 2002**
+
+The Gurjar-Pratihara dynasty was founded by :
+
+A. Nagabhatta I
+
+B. Vatsraja
+
+C. Harshvardhana
+
+D. Mihir Bhoja
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Pratihara dynasty was the most famous dynasty of Rajputs
+of ‘Agni’ clan. It is also known as Gurjara-Pratihara Dynasty
+because of its link with Gurjars. Gurjars were first mentioned
+in the Aihole inscription of Pulakesin - II, as well as in
+Harshacharita of Banabhatta. Nagabhatta - I (730-756 AD)
+was the founder of this dynasty. He destroyed the army of
+Maleksha ruler, and thus, he also saved western India from
+the Arab’s invasion. It's mentioned in Gwalior inscription.
+
+</details>
+
+---
+
+**Q-GC52. U.P. Lower Sub. (Pre) 2002**
+
+Which were the three dynasties that were engaged in
+
+a tripartite struggle for Kannauj?
+
+1. Chola
+
+2. Pala
+
+3. Gurjara
+
+4. Rashtrakuta
+
+Choose the correct answer from the codes given below :
+
+A. 1, 2, 3
+
+B. 1, 2, 4
+
+C. 2, 3, 4
+
+D. 1, 3, 4
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+After the death of Harsha, Kannauj was the center of
+attraction for various powerful dynasties. It was compared
+with Magadha during the Gupta period. In order to control
+the territory, Pala, Gurjara- Pratihara and Rashtrakuta started
+a tripartite struggle, which has been described as a most
+important event in the history of North India during the 8-9th
+century A.D. Finally, Pratiharas came out as the winner.
+
+</details>
+
+---
+
+**Q-GC53. U.P.P.C.S. (Pre) 2015**
+
+Who among the following was not a part of the
+
+tripartite struggle?
+
+A. Pratiharas
+
+B. Palas
+
+C. Rashtrakutas
+
+D. Cholas
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+After the death of Harsha, Kannauj was the center of
+attraction for various powerful dynasties. It was compared
+with Magadha during the Gupta period. In order to control
+the territory, Pala, Gurjara- Pratihara and Rashtrakuta started
+a tripartite struggle, which has been described as a most
+important event in the history of North India during the 8-9th
+century A.D. Finally, Pratiharas came out as the winner.
+*(Refer to Q-GC52 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC54. U.P.P.C.S. (Mains) 2012**
+
+Mahodaya is an old name of –
+
+A. Allahabad
+
+B. Khajuraho
+
+C. Kannauj
+
+D. Patna
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Mahodaya is an old name of Kannauj.
+
+</details>
+
+---
+
+**Q-GC55. U.P. Lower Sub. (Mains) 2015**
+
+Which of the following was known as ‘Nagar Mahoday
+
+Shri’?
+
+A. Mahoba
+
+B. Kampilya
+
+C. Mathura
+
+D. Kannauj
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Kannauj is an ancient city whose ancient name was Mahodaya
+Shri and Mahodaya during the regime of Mihir Bhoj.
+
+</details>
+
+---
+
+**Q-GC56. U.P.R.O./A.R.O. (Pre)-2021**
+
+Which of the following is not correctly matched?
+
+(Early Medieval (Present Status)
+
+Cities of Uttar
+
+Pradesh)
+
+A. Koil – Aligarh
+
+B. Mahotsav Nagar – Mahoba
+
+C. Mahoday Shree – Kannauj
+
+D. Jaijakbhukti – Kaushambi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Correct match is as follows–
+Early Medieval Present Status
+Cities of Uttar
+Pradesh
+Koil – Aligarh
+Mahotsav Nagar – Mahoba
+Mahodaya Shri – Kannauj
+Jejakabhukti – Bundelkhand
+
+</details>
+
+---
+
+**Q-GC57. Uttarakhand P.C.S. (Pre) 2021**
+
+Which among the following Rashtrakuta Kings
+
+defeated Pratihara ruler Nagabhatta-II?
+
+A. Dhruva
+
+B. Govind-III
+
+C. Indra-III
+
+D. Krishna-III
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Govind-III was the successor of Rashtrakuta king Dhruva.
+After consolidating his position in South India, he attacked
+North India. During his North India campaign, he attacked
+Gurjara-Pratihara ruler Nagabhatta-II and defeated him.
+Sanjan and Radhanpur copper plate inscriptions mention
+his victory.
+
+</details>
+
+---
+
+**Q-GC58. U.P.P.C.S. (Pre) 1999 · R.A.S./R.T.S. (Pre) 1999**
+
+Who among the following granted financial aid for the
+
+restoration of a demolished mosque in Khambhat :
+
+A. Chamundaraya
+
+B. Jayasimha Siddharaja
+
+C. Kumarapala
+
+D. Mahipaladeva
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Chalukya king Jayasimha Siddharaja was a tolerant religious
+king. Muslim author Muhammad Aufi wrote that he granted
+financial aid of 1 lakh Balom (currency) for the restoration
+of a demolished mosque in Khambhat.
+
+</details>
+
+---
+
+**Q-GC59. Uttarakhand P.C.S. (Pre) 2016**
+
+Who was the founder of Parmara Dynasty?
+
+A. Ajai Pal
+
+B. Kanak Pal
+
+C. Kanak Rao
+
+D. Jagat Pal
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** *****
+
+**Detailed Explanation:**
+Parmara dynasty was founded in 9th century AD by a person
+named Upendra or Krishnaraj. City named Dhara was the
+capital of Parmara dynasty. The commission has accepted
+option (b) Kanakpala as the answer whereas the correct
+answer is Upendra or Krishnaraj.
+
+</details>
+
+---
+
+**Q-GC60. M.P.P.C.S. (Pre) 2010**
+
+King Bhoja ruled over –
+
+A. Bastar
+
+B. Dhara
+
+C. Mahakaushal
+
+D. Ujjain
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+King Bhoj was a Parmara ruler. The early capital of Parmaras
+was Ujjain. Later, the capital was transferred to Dhara. After
+the death of King Bhoj, scholars said –
+“Adya Dhara NiraDhara, Niralamba Saraswati,
+Pandita Khandita Sarve Bhoj Raje Divangate”.
+
+</details>
+
+---
+
+**Q-GC61. U.P. U.D.A./L.D.A. (Pre) 2013**
+
+Who amongst the following wrote a book on artificial
+
+scientific equipment?
+
+A. Bhoja
+
+B. Govindraja
+
+C. Chandravermana
+
+D. Mahipala
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The popular book ‘Samarangana Sutradhara’ written
+by Parmara king Bhoj was based on artificial scientific
+equipment. ‘Saraswati Kanthabharan’, ‘Siddhanta Sangraha,’
+‘YogaSutraVritti,’ ‘Rajamartand,’ ‘Yukti Kalpataru’ and
+‘Karucharya’ are some of his masterpieces. In the beginning,
+the commission considered option (a) as the correct answer,
+but in its revised answer sheet, the commission has changed
+the answer to option (b).
+
+</details>
+
+---
+
+**Q-GC62. U.P. U.D.A./L.D.A. (Pre) 2001**
+
+The presiding deity of Bhojshala Temple is:-
+
+A. Goddess Durga
+
+B. Goddess Parvati
+
+C. Goddess Lakshmi
+
+D. Goddess Saraswati
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Bhojshala temple is located in the Dhar district of Madhya
+Pradesh and was established by Parmara King Bhoj in 1035
+A.D. as a Sanskrit school. The presiding deity of Bhojshala
+temple is Goddess Saraswati. Now Bhojshala temple is
+situated in premises of Kamal Maula Mosque.
+
+</details>
+
+---
+
+**Q-GC63. M.P.P.C.S. (Pre) 2017**
+
+Who among the following was not a king of the Parmar
+
+dynasty?
+
+A. Upendra
+
+B. Munj
+
+C. Gangeyadev
+
+D. Udayaditya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Gangeyadev was a ruler of the Kalachuri dynasty. He adopted
+the title of Vikramaditya. He started issuing gold coins after
+its extinction in pre-medieval period. Upendra, Munj and
+Udayaditya were rulers of Parmara dynasty.
+
+</details>
+
+---
+
+**Q-GC64. M.P.P.C.S. (Pre) 2022**
+
+Who among the following Arab writers has given the
+
+description of Kalachuri ruler Gangeyadeva and his
+
+capital Tripuri?
+
+A. Al-Bahari
+
+B. Al-Masudi
+
+C. Al-Biruni
+
+D. Ibn Battuta
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The Arab writer and geographer Al-Biruni is known for
+providing a description of the Kalachuri ruler Gangeyadeva
+and his capital Tripuri. Al-Biruni was a Khwarazmian Iranian
+scholar and polymath during the Islamic Golden Age. He
+wrote a treatise on Indian culture titled Tarikh al-Hind.
+
+</details>
+
+---
+
+**Q-GC65. I.A.S. (Pre) 2016**
+
+Consider the following pairs:
+
+Famous places Regions
+
+1. Bodhgaya : Baghelkhand
+
+2. Khajuraho : Bundelkhand
+
+3. Shirdi : Vidarbha
+
+4. Nasik (Nashik) : Malwa
+
+5. Tirupati : Rayalaseema
+
+Which of the pairs given above are correctly matched?
+
+A. 1, 2 and 4
+
+B. 2, 3, 4 and 5
+
+C. 2 and 5 only
+
+D. 1, 3, 4 and 5
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The correctly matched places with their regions are as
+follows:
+Famous place Region/ State
+Bodhgaya - Bihar
+Khajuraho - Bundelkhand
+Shirdi - Maharashtra
+Nasik (Nashik) - Maharashtra
+Tirupati - Rayalaseema
+Thus, the correctly matched pairs in the given options are
+options (2) and (5).
+
+</details>
+
+---
+
+**Q-GC66. U.P.P.S.C. (R.I.) 2014**
+
+The author of Gaudavaho was –
+
+A. Harishena
+
+B. Aryabhatta
+
+C. Vakpati
+
+D. Banabhatta
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+"Gaudavaho" was authored by Vakpati, who was a court poet
+of the king of Kannauj, Yashovarman.
+
+</details>
+
+---
+
+**Q-GC67. I.A.S. (Pre) 2016**
+
+With reference to the economic history of medieval
+
+India, the term ‘Araghatta’ refers to –
+
+A. Bonded labour
+
+B. Land grants made to military officers
+
+C. Waterwheel used for the irrigation of land
+
+D. Wasteland converted to cultivated land
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Araghatta is a Persian wheel, which, is a mechanical water
+lifting device usually operated by animals like bullocks,
+buffaloes or camels, used in the irrigation of land. It is
+mentioned in the Panchatantra and Rajtarangini.
+
+</details>
+
+---
+
+**Q-GC68. [64th B.P.S.C.(Pre)-2018]**
+
+Which Sultan was reputed to be 'Akbar of Kashmir?
+
+A. Sultan Shamsuddin Shah
+
+B. Sultan Qutubuddin
+
+C. Sultan Sikandar
+
+D. Sultan Zainul Abidin
+
+E. None of the above/more than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+In 1420 A.D. brother of Ali Shah, Shahi Khan, sat on the throne
+of Kashmir with the name of Zain-ul-Abidin. He was greatest
+ruler of Kashmir who ruled for nearly 50 years. On account of
+his liberal religious policy, promotion of learning, and interest
+in art and architecture he was called 'Akbar of Kashmir'.
+
+</details>
+
+---
+
+**Q-GC69. [U.P.R.O./A.R.O. (Mains)-2016]**
+
+What was the original name of ruler of Kashmir Zainul-Abidin?
+
+A. Ali Shah
+
+B. Hasan Shah
+
+C. Haider Shah
+
+D. Shahi Khan
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+In 1420 A.D. brother of Ali Shah, Shahi Khan, sat on the throne
+of Kashmir with the name of Zain-ul-Abidin. He was greatest
+ruler of Kashmir who ruled for nearly 50 years. On account of
+his liberal religious policy, promotion of learning, and interest
+in art and architecture he was called 'Akbar of Kashmir'.
+*(Refer to Q-GC68 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC70. [60th to 62nd B.P.S.C. (Pre)-2016]**
+
+Who was the founder of Karnata dynasty?
+
+A. Nanyadev
+
+B. Narshimhadev
+
+C. Vijaydev
+
+D. Haridev
+
+E. None of the above/more than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The founder of Karnata dynasty was Nanyadev (1097-1147
+AD). He was a great warrior. He established his capital in
+Simraungadh and ruled Mithila region.
+
+</details>
+
+---
+
+**Q-GC71. [60th to 62nd B.P.S.C. (Pre)-2016]**
+
+Who was the last king of Karnata dynasty?
+
+A. Harisimha
+
+B. Ramsimha
+
+C. Matisimha
+
+D. Shyamsimha
+
+E. None of the above/more than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Harisimha (1295/1296-1324 AD) was the last ruler of Karnata
+dynasty. He was a great protector of art and literature. He
+started the Panji system.
+
+</details>
+
+---
+
+**Q-GC72. [Chhattisgarh P.C.S. (Pre)-2020]**
+
+Information about which king is found in the 'Kuruspal
+
+Inscription'?
+
+A. Harsha Gupta
+
+B. Mahapravar Raj
+
+C. Someshwar I
+
+D. Mahashivgupta Balarjun
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Kuruspal village is located in Bastar district in Chhattisgarh.
+A number of inscriptions have been found here.
+Kuruspal stone inscription of Someswardeva : It
+is much mutilated. It records the grant by king
+Someswardeva of Nagavamsa of a village whose
+name cannot be made out.
+Kuruspal Tank slab of Dharana Mahadevi : The
+inscription, which is built in one of the steps of a
+tank in Kuruspal, records the grant of land situated
+near Kalamba village to god Kamesvara (Shiva) by
+the queen Dharna Mahadevi during the reign of king
+Someshwardeva/Someshwar I
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09-29T01:22:59+05:30.
+The user's current state is as follows:
+Other open documents:
+- c:\Users\Axeno\Desktop\UP-PCS\tracker-server\server.js (LANGUAGE_JAVASCRIPT)
+- c:\Users\Axeno\Desktop\UP-PCS\docs\assets\stylesheets\extra.css (LANGUAGE_CSS)
+- c:\Users\Axeno\Desktop\UP-PCS\mkdocs.yml (LANGUAGE_YAML)
+- c:\Users\Axeno\Desktop\UP-PCS\docs\assets\javascripts\study-tracker.js (LANGUAGE_JAVASCRIPT)
+</ADDITIONAL_METADATA>
+
+</details>
+
+---
 
 ---
 

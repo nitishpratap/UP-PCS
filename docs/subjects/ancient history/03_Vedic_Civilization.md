@@ -116,17 +116,23 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 | Item | Lock |
 |------|------|
-| Rigveda | **1028** hymns; 10 mandalas; 2–7 oldest; 9 = Soma |
+| Rigveda | **1028** hymns; 10 mandalas; 2–7 oldest; 9 = Soma; **Hota** recites |
 | Shukla Yajurveda | **Vajasaneyi**; mantra/prose separate |
 | Krishna Yajurveda | Black; mixed mantra + Brahmana |
 | Literature order | Samhita → Brahmana → Aranyaka → Upanishad |
+| Brahmin Era | **800–600 BCE** (Brahmana prose period; Sutra period = 600–300 BCE) |
 | Six Vedangas | Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, Jyotisha |
+| Upanayana meters | **Brahmin = Gayatri** · **Kshatriya = Trishtubh** · **Vaishya = Jagati** |
+| Puranas (18) | **Pancha-Lakshana** (Sarga, Pratisarga, Vansa, Manvantara, Vanshanucharita) · **Vishnu Purana = Maurya** · **Vayu Purana = Gupta** · **Matsya = Satavahana** |
+| Mahabharata | **Jayasamhita** (8,800) → **Bharata** (24,000) → **Shatasahasri-Samhita** (100,000) |
+| Upanishads | **Shvetashvatara** = "carried on a white horse" · **Brihadaranyaka** = *Tamaso Ma Jyotirgamaya* & Yagnavalkya-Gargi · **Chandogya** = Satyakama Jabala |
+| Teachers | **Upadhyaya** = taught for livelihood/fees · **Acharya** = initiated & taught full Veda free |
 | PGW | ~1100–600 BCE Later Vedic doab marker |
 | OCP → PGW → NBPW | Pottery ladder |
 
 ### Economy type ladder
 
-**Indus = Urban · Rigvedic = Pastoral · Later Vedic = Agrarian**
+**Indus = Urban · Rigvedic = Pastoral · Later Vedic = Agrarian · Medieval = Land Lordism**
 
 ### UP Later Vedic sites
 
@@ -182,31 +188,8 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 > **Logic:** Rigvedic = **northwest pastoral**. Later Vedic = **Gangetic agrarian**. Trap: “Vedic period = only UP.”
 
-**PYQ — UPPCS Prelims 2020, Q21**
-
-Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Indus Valley Civilization | 1. Pastoral |
-| B. Later Vedic Society | 2. Land Lordism |
-| C. Rigvedic Society | 3. Agrarian |
-| D. Medieval Period | 4. Urban |
-
-A. 4 2 3 1
-
-B. 2 1 4 3
-
-C. 3 4 1 2
-
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — IVC = Urban (4); Later Vedic = Agrarian (3); Rigvedic = Pastoral (1); Medieval = Land Lordism (2).
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2020, Q21]:** Rigvedic Society = Pastoral; Later Vedic = Agrarian; IVC = Urban; Medieval = Land Lordism. *(See Q2 in Complete PYQ Bank below)*
 
 ---
 
@@ -326,23 +309,8 @@ D. 4 3 1 2
 - In family vocabulary, **kula**, **vamsha**, and **gotra** belong together; **kosha** (कोष) means **treasury**, not a kinship term.
 - The system is still clan-based. It is **not** Ashokan district officers.
 
-**PYQ — UPPCS Prelims 2023, Q26**
-
-Which officer was known as **'Bhagadugha'** during Vedic administration?
-
-A. Messenger
-B. Chief Officer of Forests
-C. Chief Officer of the Gambling Department
-D. Revenue Collector
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bhagadugha is the tax collector of the king’s share, not a messenger, forest officer, or gambling chief.
-
-**Ans: D.** He collected the king’s **bhaga** (share). The gambling officer is **Akshavapa** (option C).
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2023, Q26]:** **Bhagadugha** = Revenue / tax collector; **Samgrahitri** = Treasurer in Vedic Ratnin list. *(See Q1 in Complete PYQ Bank below)*
 
 ---
 
@@ -576,25 +544,8 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 
 > **Logic:** Shukla Yajurveda = **Vajasaneyi** (also printed Vajasanami). Taittiriya / Maitrayani / Kathak = **Krishna (Black)** Yajurveda — not hymns to god Krishna.
 
-**PYQ — UPPCS Prelims 2018, Q13**
-
-Which of the following is a Samhita of Shukla Yajurveda?
-
-A. Vajasanami
-B. Maitrayani
-C. Taittiriya
-D. Kathak
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stem asks which Samhita belongs to **Shukla** Yajurveda. Three distractors are famous **Krishna (Black)** Samhitas. Paper spelling **Vajasanami** = standard **Vajasaneyi**.
-
-**Ans: A** — **Vajasaneyi / Vajasanami** is the Shukla Samhita (mantra and Brahmana kept apart).
-**B Maitrayani**, **C Taittiriya**, and **D Kathak** are all **Krishna (Black) Yajurveda** — that is why the cryptic note “B, C, D are all Krishna” appears in coaching facts.
-**Trap:** Reading **Krishna** as the deity, or picking Taittiriya because it is the most famous Yajurveda name.
-
-</details>
+> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2018, Q13]:** **Vajasaneyi Samhita** = Samhita of Shukla (White) Yajurveda (Madhyandina & Kanva recensions). *(See Q3 in Complete PYQ Bank below)*
 
 ---
 
@@ -773,31 +724,7 @@ D. Revenue Collector
 
 ### UPPCS Prelims 2020
 
-**Q2. UPPCS Prelims 2020, Q21**
 
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I | List-II |
-|--------|---------|
-| A. Indus Valley Civilization | 1. Pastoral |
-| B. Later Vedic Society | 2. Land Lordism |
-| C. Rigvedic Society | 3. Agrarian |
-| D. Medieval Period | 4. Urban |
-
-A. 4 2 3 1
-
-B. 2 1 4 3
-
-C. 3 4 1 2
-
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — IVC = Urban (4); Later Vedic = Agrarian (3); Rigvedic = Pastoral (1); Medieval = Land Lordism (2).
-
-</details>
 
 ### UPPCS Prelims 2018
 
@@ -2403,6 +2330,677 @@ D. Hindi
 **Ans: A.** The **Gita** was originally written in **Sanskrit**.
 
 </details>
+
+---
+
+**Q-GC73. UPPCS (Mains) 2011**
+
+Who among the following is regarded as War-God in the Rig Veda?
+
+A. Agni
+
+B. Indra
+
+C. Surya
+
+D. Varuna
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B** (Indra)
+
+**Detailed Explanation:**
+- In the Rigveda, **Indra** is revered as the divine chieftain and **War-God** of the Aryans who wields the thunderbolt (*Vajra*).
+- He is conferred titles like **Purandara** (destroyer of enemy fortresses/strongholds), *Vritrahan* (slayer of the drought demon Vritra), and *Maghavan* (bountiful lord).
+
+**Key Exam Takeaway / Trap:**
+- **War-God of Rigveda** = **Indra (Purandara)**.
+</details>
+
+---
+
+**Q-GC74. Uttarakhand PCS (Pre) 2021**
+
+The largest hymn of Rigveda is dedicated to which Vedic god?
+
+A. Agni
+
+B. Indra
+
+C. Varuna
+
+D. Aditya
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B** (Indra)
+
+**Detailed Explanation:**
+- See explanation to **Q-GC73** and **Q-GC74**. Indra commands the single largest compilation of verses and hymns in the Rigvedic Samhita (250 dedicated hymns).
+
+**Key Exam Takeaway / Trap:**
+- **Largest share of hymns** = **Indra**.
+</details>
+
+---
+
+**Q-GC75. UPPCS (Mains) 2010**
+
+The largest number of the Hymns in Rig Veda belongs to —
+
+A. Agni
+
+B. Varuna
+
+C. Vishnu
+
+D. Yama
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A** (Agni — in the absence of Indra)
+
+**Detailed Explanation:**
+- **Exam Selection Strategy:** In questions where **Indra (250 hymns)** is deliberately omitted from the given options, **Agni (200 hymns)** is the correct choice as he ranks second in total dedicated hymns.
+
+**Key Exam Takeaway / Trap:**
+- If Indra is not an option, the correct answer for highest hymns is **Agni (200 hymns)**.
+</details>
+
+---
+
+**Q-GC76. UPPCS (Mains) 2017**
+
+Study the following statements about the Vedic God Indra and select the correct answer from the codes given below:
+
+1. Was the God of thunder.
+2. Punished the sinners.
+3. Was the guardian of the moral order.
+4. Was the God of rain.
+
+Codes:
+
+A. 1 and 2 are correct.
+
+B. 1 and 3 are correct.
+
+C. 2 and 4 are correct.
+
+D. 1 and 4 are correct.
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (1 and 4 are correct)
+
+**Detailed Explanation:**
+- **Statement 1 & 4 are CORRECT:** Indra is the god of thunder, atmospheric lightning, and rains who releases the waters (*Apas*) by piercing the clouds with his thunderbolt (*Vajra*).
+- **Statement 3 is INCORRECT:** The guardian of the cosmic and moral order (*Rita*) was **Varuna** (*Ritasya Gopa*), not Indra.
+- **Statement 2 is INCORRECT:** Upholding moral purity, punishing ethical transgressors, and binding sinners in his cosmic noose (*Pasha*) was primarily the divine function of **Varuna** (along with Mitra).
+
+**Key Exam Takeaway / Trap:**
+- **Indra = Thunder + Rain + War**.
+- **Varuna = Moral order (Rita) + Cosmic law + Punishing sinners**.
+</details>
+
+---
+
+**Q-GC77. UPPCS (Mains) 2008**
+
+Who among the following was the most popular God of the early Vedic Aryans?
+
+A. Varuna
+
+B. Vishnu
+
+C. Rudra
+
+D. Indra
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (Indra)
+
+**Detailed Explanation:**
+- **Indra** was the most invoked, celebrated, and popular deity of the early Rigvedic pastoral society, reflecting their constant martial skirmishes for cattle (*Gavishti*) and territorial expansion.
+
+**Key Exam Takeaway / Trap:**
+- **Most popular Early Vedic God** = **Indra**. (In the Later Vedic period, supremacy shifted to Prajapati, Rudra, and Vishnu).
+</details>
+
+---
+
+**Q-GC78. Uttarakhand PCS (Pre) 2016**
+
+Who of the following Gods was considered as War-God in the Vedic literature?
+
+A. Varuna
+
+B. Indra
+
+C. Agni
+
+D. Mitra
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B** (Indra)
+
+**Detailed Explanation:**
+- See explanation to **Q-GC74**. Indra is the archetype warrior deity (*Purandara*).
+
+**Key Exam Takeaway / Trap:**
+- War-God = **Indra**.
+</details>
+
+---
+
+**Q-GC79. UPPCS (Pre) 2002**
+
+800 B.C. to 600 B.C. is related to which era?
+
+A. Brahmin era
+
+B. Sutra era
+
+C. Ramayana era
+
+D. Mahabharata era
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A** (Brahmin era)
+
+**Detailed Explanation:**
+- **Periodisation of Vedic and Post-Vedic Literature:**
+  - **800 BCE to 600 BCE:** Characterized by modern historians as the **Brahmin Era (Brahmana Period)**, during which the prose liturgical treatises explaining Vedic sacrificial rituals (*Brahmanas* like Shatapatha, Aitareya, Taittiriya) were composed.
+  - **600 BCE / 700 BCE to 300 BCE:** Known as the **Sutra Period** (Kalpa Sutras, Shrauta, Grihya, and Dharma Sutras).
+
+**Key Exam Takeaway / Trap:**
+- **800–600 BCE** = **Brahmin (Brahmana) era**; **600–300 BCE** = **Sutra era**.
+</details>
+
+---
+
+**Q-GC80. UPPCS (Pre) 2013**
+
+The 'Mantra' famous with the name of 'Gayatri Mantra' found in which of the following scriptures —
+
+A. Bhagwat Gita
+
+B. Atharvaveda
+
+C. Rig Veda
+
+D. Manusmriti
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C** (Rig Veda)
+
+**Detailed Explanation:**
+- See explanation to **Q-GC81**.
+
+**Key Exam Takeaway / Trap:**
+- Gayatri Mantra source = **Rigveda**.
+</details>
+
+---
+
+**Q-GC81. MPPCS (Pre) 2024**
+
+There was a provision for reciting which mantra in the Upanayana ritual of the Kshatriya castes?
+
+A. Jagati Mantra
+
+B. Gayatri Mantra
+
+C. Sarvesham Mantra
+
+D. Trishtubh Mantra
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (Trishtubh Mantra)
+
+**Detailed Explanation:**
+- **Metrical Formulas Prescribed for Varnas in Upanayana (Sacred Thread) Ceremony:**
+  - **Brahmana boy:** Initiated with the **Gayatri Mantra** (in the *Gayatri* meter — 24 syllables: 3 lines of 8 syllables each), symbolizing spiritual radiance (*Brahmavarchas*).
+  - **Kshatriya boy:** Initiated with a mantra composed in the **Trishtubh meter** (44 syllables: 4 lines of 11 syllables each), symbolizing martial vigor, heroism, and physical power (*Virya*).
+  - **Vaishya boy:** Initiated with a mantra in the **Jagati meter** (48 syllables: 4 lines of 12 syllables each), symbolizing cattle wealth and material expansion (*Poshana*).
+
+**Key Exam Takeaway / Trap:**
+- Upanayana meters by Varna:
+  - **Brahmin = Gayatri meter**
+  - **Kshatriya = Trishtubh meter**
+  - **Vaishya = Jagati meter**.
+</details>
+
+---
+
+**Q-GC82. UPPCS (Pre) 2023**
+
+With reference to the Puranas, which one of the following statements is/are correct?
+
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
+2. Vayu Purana throws light on the Gupta's governance system.
+
+Select the correct answer from the codes given below:
+
+A. Only 1
+
+B. Neither 1 nor 2
+
+C. Only 2
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (Both 1 and 2)
+
+**Detailed Explanation:**
+- **Dynastic Chronicles in Puranas:**
+  - **Vishnu Purana:** Contains detailed dynastic lists and political accounts of the **Mauryan Dynasty** (including Chandragupta Maurya and Chanakya).
+  - **Vayu Purana:** Focuses on the rise of the **Gupta Dynasty** (*"The descendants of the Guptas will enjoy all these territories along the Ganga, Prayaga, Saketa, and Magadha"*).
+  - **Matsya Purana:** Provides the most authentic dynastic genealogy of the **Andhra Satavahanas**.
+
+**Key Exam Takeaway / Trap:**
+- Dynasty-Purana mapping:
+  - **Vishnu Purana = Maurya**
+  - **Vayu Purana = Gupta**
+  - **Matsya Purana = Satavahana**.
+</details>
+
+---
+
+**Q-GC83. UP BEO (Pre) 2019**
+
+The Shatasahasri-Samhita is the nickname of which of the following texts?
+
+A. Rigveda
+
+B. Atharvaveda
+
+C. Ramayana
+
+D. Mahabharata
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (Mahabharata)
+
+**Detailed Explanation:**
+- *Shatasahasri Samhita* literally translates to *"a collection of one hundred thousand (100,000) verses"*, which is the classical epithet for the **Mahabharata**.
+- The Ramayana contains 24,000 verses and is known as *Chaturvimshati-Sahasri Samhita*.
+
+**Key Exam Takeaway / Trap:**
+- **Shatasahasri Samhita (100,000 verses)** = **Mahabharata**.
+- **Chaturvimshati-Sahasri Samhita (24,000 verses)** = **Ramayana**.
+</details>
+
+---
+
+**Q-GC84. Uttarakhand UDA/LDA (Pre) 2007**
+
+According to Hindu mythology, which serpent offered himself as a rope for churning the ocean?
+
+A. Kalia
+
+B. Vasuki
+
+C. Pushkar
+
+D. Sheshnag
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B** (Vasuki)
+
+**Detailed Explanation:**
+- During the churning of the cosmic ocean of milk (*Samudra Manthan*) by the Devas and Asuras:
+  - **Mount Mandara** served as the churning rod (*churning staff*).
+  - The serpent king **Vasuki** (who coils around Lord Shiva's neck) offered his body as the churning rope.
+  - Lord Vishnu assumed the form of the giant tortoise (**Kurma Avatar**) to support Mount Mandara upon his back.
+
+**Key Exam Takeaway / Trap:**
+- Samudra Manthan: **Churning rod = Mount Mandara**; **Churning rope = Serpent Vasuki**; **Support base = Kurma (Tortoise avatar)**.
+</details>
+
+---
+
+**Q-GC85. 39th BPSC (Pre) 1994**
+
+In which phase, the concept of untouchability was put clearly?
+
+A. Rigvedic phase
+
+B. Later Vedic phase
+
+C. Later Gupta phase
+
+D. Dharmashastra phase
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (Dharmashastra phase)
+
+**Detailed Explanation:**
+- **Evolution of Social Stratification and Untouchability:**
+  - In the Rigvedic phase, society was fluid and occupational, based on the three and later four Varnas; untouchability was completely absent.
+  - In the Later Vedic period, social distinctions hardened, and marginalized groups (e.g., Chandalas) appeared at the social periphery.
+  - The institutional, codified concept of **untouchability (*Asprishyata*)** assumed rigid, explicit statutory form during the **Dharmashastra / Sutra phase** (around the turn of the Common Era / post-Mauryan to early centuries CE) in legal digests like *Manusmriti*, *Apastamba*, and *Gautama Dharmasutra*.
+
+**Key Exam Takeaway / Trap:**
+- Explicit crystalized formulation of untouchability = **Dharmashastra phase**.
+</details>
+
+---
+
+**Q-GC86. UPPCS (Spl) (Pre) 2004 / UPPCS (Mains) 2004**
+
+From which Upanishad, the words "Satyameva Jayate" have been taken?
+
+A. Mundakopanishad
+
+B. Kathopanishad
+
+C. Chhandogyopanishad
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A** (Mundakopanishad)
+
+**Detailed Explanation:**
+- The national motto of India, ***"Satyameva Jayate"*** (Truth Alone Triumphs), is inscribed in Devanagari script at the base of the Lion Capital of Ashoka adopted as the State Emblem of India on **26 January 1950**.
+- It is taken verbatim from the **Mundaka Upanishad** (Mundakopanishad 3.1.6: *"Satyameva Jayate Nanritam"*).
+
+**Key Exam Takeaway / Trap:**
+- **Satyameva Jayate** = **Mundaka Upanishad** (never confuse with Mandukya Upanishad!).
+</details>
+
+---
+
+**Q-GC87. IAS (Pre) 2004 / MPPCS (Pre) 1992, 1994 / UPPCS (Pre) 1991**
+
+From where was the word 'Satyameva Jayate' taken?
+
+A. Manusmriti
+
+B. Bhagawadgita
+
+C. Rig Veda
+
+D. Mundakopanishad
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (Mundakopanishad)
+
+**Detailed Explanation:**
+- See explanation to **Q-GC94**.
+
+**Key Exam Takeaway / Trap:**
+- Source of Satyameva Jayate = **Mundaka Upanishad**.
+</details>
+
+---
+
+**Q-GC88. UPPSC (R.I.) 2014**
+
+'Satyamev Jayate', which is engraved on the Indian Emblem, has been taken from —
+
+A. Rig Veda
+
+B. Bhagavad Gita
+
+C. Mundakopanishad
+
+D. Matsya Purana
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C** (Mundakopanishad)
+
+**Detailed Explanation:**
+- See explanation to **Q-GC94**.
+
+**Key Exam Takeaway / Trap:**
+- Motto on National Emblem = **Mundaka Upanishad**.
+</details>
+
+---
+
+**Q-GC89. CGPCS (Pre) 2016**
+
+The literal meaning of which Upanishad is "white horse"?
+
+A. Kathopanishad
+
+B. Chhandogya Upanishad
+
+C. Taittiriya Upanishad
+
+D. Eshopanishad
+
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **E** (None of these — Shvetashvatara Upanishad)
+
+**Detailed Explanation:**
+- The **Shvetashvatara Upanishad** (embedded in the Krishna Yajurveda) literally translates to **"carried on a white horse"** or **"the one owning white mules/horses"** (*Shveta* = white, *Ashva / Ashvatara* = horse/mule).
+- None of the options A, B, C, or D correspond to this name; hence Option E (None of these) is the correct answer.
+
+**Key Exam Takeaway / Trap:**
+- Upanishad meaning "carried on a white horse" = **Shvetashvatara Upanishad**.
+</details>
+
+---
+
+**Q-GC90. RAS/RTS (Pre) 2016**
+
+The legend of Satyakama Jabala, which challenges the stigma of being an unmarried mother, is mentioned in —
+
+A. Jabala Upanishad
+
+B. Prashnopanishad
+
+C. Chhandogya Upanishad
+
+D. Kathopanishad
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C** (Chhandogya Upanishad)
+
+**Detailed Explanation:**
+- **The Story of Satyakama Jabala:**
+  - Narrated in Chapter IV of the **Chandogya Upanishad** (*Samaveda*).
+  - Young Satyakama wishes to study the Vedas and asks his mother Jabala about his lineage (*Gotra*). She truthfully tells him that in her youth, while serving as a maid in many households, she did not know who his father was: *"I am Jabala, and you are Satyakama; therefore call yourself Satyakama Jabala."*
+  - When Satyakama repeats this unfiltered truth to sage **Haridramata Gautama**, the guru declares: *"None but a true Brahmana could speak such truth without fear!"* and initiates him into Brahmacharya.
+
+**Key Exam Takeaway / Trap:**
+- **Satyakama Jabala and truth-seeking mother Jabala** = **Chandogya Upanishad** (not Jabala Upanishad!).
+</details>
+
+---
+
+**Q-GC91. UPPCS (Spl) (Pre) 2004**
+
+Fundamental or basic script of the 'Rig Veda' was —
+
+A. Devanagari
+
+B. Kharoshthi
+
+C. Pali
+
+D. Brahmi
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (Brahmi)
+
+**Detailed Explanation:**
+- While the Rigveda was originally preserved and transmitted orally (*Shruti* and *Smriti*) for centuries, when it was first committed to writing in ancient India, it was inscribed in the archaic **Brahmi script**.
+- Modern manuscripts use Devanagari, but the ancient historical script ancestral to all Indian alphabets is Brahmi.
+
+**Key Exam Takeaway / Trap:**
+- **Ancient base script of Vedic texts** = **Brahmi**.
+</details>
+
+---
+
+**Q-GC92. UP Lower Sub (Spl) (Pre) 2004**
+
+There is a similarity in Avesta and the Rig Veda, from which region the Avesta is related to —
+
+A. India
+
+B. Iran
+
+C. Israel
+
+D. Egypt
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B** (Iran)
+
+**Detailed Explanation:**
+- **Zend-Avesta and Rigvedic Linguistic Parallels:**
+  - The **Zend-Avesta**, the sacred scripture of Zoroastrianism, belongs to ancient **Iran (Persia)**.
+  - The Old Avestan language (Gathas) and Vedic Sanskrit are virtually twin dialects sharing striking phonetic, religious, and lexical correspondences (e.g., Vedic *Soma* = Avestan *Haoma*; Vedic *Asura* = Avestan *Ahura*; Vedic *Mitra* = Avestan *Mithra*; Vedic *Hotr* = Avestan *Zaotar*).
+
+**Key Exam Takeaway / Trap:**
+- **Zend-Avesta** = Ancient **Iran (Persia)**.
+</details>
+
+---
+
+**Q-GC93. UP UDA/LDA (Spl) (Pre) 2010**
+
+Aghanya in Rig Veda is mentioned for —
+
+A. Goat
+
+B. Cow
+
+C. Elephant
+
+D. Horse
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B** (Cow)
+
+**Detailed Explanation:**
+- See explanation to **Q-GC104**.
+
+**Key Exam Takeaway / Trap:**
+- Aghanya = **Cow**.
+</details>
+
+---
+
+**Q-GC94. UPPCS (Pre) 2017**
+
+The name 'Aghanya' mentioned in many passages of the Rig Veda refers to:
+
+A. Priest
+
+B. Women
+
+C. Cows
+
+D. Brahmanas
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C** (Cows)
+
+**Detailed Explanation:**
+- See explanation to **Q-GC104**.
+
+**Key Exam Takeaway / Trap:**
+- Aghanya = **Cows**.
+</details>
+
+---
+
+**Q-GC95. UPPCS (Pre) 2020, Q21**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+List - I
+A. Indus Valley Civilization
+B. Later Vedic Society
+C. Rigvedic Society
+D. Medieval Period
+
+List - II
+1. Pastoral
+2. Land Lordism (Feudalism)
+3. Agrarian
+4. Urban
+
+Codes:
+
+A. A-4, B-2, C-3, D-1
+
+B. A-2, B-1, C-4, D-3
+
+C. A-3, B-4, C-1, D-2
+
+D. A-4, B-3, C-1, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (A-4, B-3, C-1, D-2)
+
+**Detailed Explanation:**
+- **Socio-Economic Epoch Matching:**
+  - **Indus Valley Civilization (A):** India's first **Urban** civilization (4) with planned brick cities, drainage, and bronze technology.
+  - **Later Vedic Society (B):** Primarily an **Agrarian** society (3) based on settled agriculture, iron ploughshares, and permanent territorial kingdoms (*Janapadas*).
+  - **Rigvedic Society (C):** Predominantly a semi-nomadic **Pastoral** society (1) revolving around cattle rearing.
+  - **Medieval Period (D):** Dominated by **Land Lordism / Feudalism (Jagirdari/Iqta/Samanta)** (2).
+
+**Key Exam Takeaway / Trap:**
+- Chronological economic typology:
+  - **IVC = Urban**
+  - **Rigvedic = Pastoral**
+  - **Later Vedic = Agrarian**
+  - **Medieval = Land Lordism / Feudal**.
+</details>
+
+---
+
 
 ## Practice Zone — UPPCS Format Drill
 

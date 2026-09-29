@@ -300,31 +300,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 
 > **Logic:** Hunter **1882** = primary. Sadler **1917–19** = university. Hartog **1929** = primary audit again, but under the Simon Commission umbrella. Sargent **1944** = post-war plan.
 
-**PYQ — UPPCS Prelims 2018, Q21**
-
-Arrange the following events in their chronological order and select the correct answer from the codes given below:
-
-A. Hunter Commission
-B. Sadlar Commission
-C. Wood's Despatch
-D. Sargeant Plan
-
-A. A B D C
-
-B. C B A D
-
-C. A B C D
-
-D. C A B D
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Education-commission chronology — Wood first, Sargent last; Hunter before Sadler.
-
-**Ans: D.** Wood **1854** → Hunter **1882** → Sadler **1917** → Sargent **1944**.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2018 Q21):** Education Commission Chronology: **Wood’s Despatch (1854)** → **Hunter Commission (1882)** → **Sadler Commission (1917)** → **Sargent Plan (1944)**.
 
 ---
 
@@ -462,22 +438,7 @@ D. C A B D
 
 **PYQ — UPPCS Prelims 2024, Q136**
 
-Which one of the following statements is not correct about William A.J. Archbold?
-
-Options:
-A. He was the Principal of Government College, Dacca.
-B. He was the Principal of Lahore College, Lahore.
-C. He was the Principal of MAO College, Aligarh.
-D. He was the Principal of the Muir Central College, Allahabad.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Archbold posts trap — Lahore is the wrong college among the listed principals.
-
-**Ans: B.** He was **not** Principal of Lahore College. Aligarh, Dacca and Muir Allahabad are the keyed posts.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2024 Q136):** **William A.J. Archbold** was Principal of Government College (Dacca), MAO College (Aligarh), and Muir Central College (Allahabad). He was **never** Principal of Lahore College.
 
 ---
 
@@ -491,47 +452,13 @@ D. He was the Principal of the Muir Central College, Allahabad.
 
 > **Logic:** Founder = **Jones**. Hastings **declined**. Duncan = Banaras college.
 
-**PYQ — UPPCS Prelims 2021, Q40**
-
-Who was the founder of the 'Asiatic Society of Bengal'?
-
-A. Jonathan Duncan
-
-B. Sir William Jones
-
-C. Warren Hastings
-
-D. William Bentinck
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Asiatic Society founder — Jones, not Hastings, Duncan or Bentinck.
-
-**Ans: B — Sir William Jones.**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2021 Q40):** The **Asiatic Society of Bengal** was founded in 1784 by **Sir William Jones** (Judge of Calcutta Supreme Court). Warren Hastings patronized the society but declined the presidency in Jones’s favor.
 
 **PYQ — UPPCS Prelims 2019, Q22**
 
 **Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
 
-**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A is true (Hastings’s time; he declined the chair for Jones). R is also true as a scholarship fact, but it does **not** explain why he declined the presidency — that was modesty / office choice, not “because he was a scholar.”
-
-**Ans: B.** Both true; R is not the correct explanation of A.
-
-</details>
+**Reason (R):** Warren Hastings was himself a great scholar and an ardent > [!TIP] **Exam Anchor (UPPCS 2019 Q22):** Assertion-Reason: Asiatic Society was founded during Warren Hastings’s tenure and he declined presidency for Jones (True). Hastings was a great oriental scholar supporting Indian languages (True, but not the direct causal reason for declining).
 
 ---
 
@@ -595,32 +522,7 @@ Tilak's **Kesari** is **Pune**, not a town in that List-II.
 
 Match List-I with List-II and select the correct answer from the code given below.
 
-**List-I (Newspaper/Magazine)**
-A. Swadesh (*local pyq file says Kesari; standard paper restored*)
-B. Bharat Bandhu
-C. Satyawadi
-D. Shakti
-
-**List-II (Place of Publication)**
-1. Agra
-2. Almora
-3. Hathras
-4. Gorakhpur
-
-Options:
-A. A-3, B-2, C-1, D-4
-B. A-4, B-3, C-1, D-2
-C. A-2, B-3, C-4, D-1
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP newspaper–place match — Swadesh/Gorakhpur, Bharat Bandhu/Hathras, Satyawadi/Agra, Shakti/Almora.
-
-**Ans: B.** Gorakhpur, Hathras, Agra, Almora. Do not put Tilak’s Kesari into this List-II set.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2022 Q117):** UP Newspaper Publication Places: **Swadesh** ↔ Gorakhpur; **Bharat Bandhu** ↔ Hathras; **Satyawadi** ↔ Agra; **Shakti** ↔ Almora.
 
 ---
 
@@ -688,26 +590,58 @@ D. A-1, B-2, C-3, D-4
 - **Metcalfe (1835)**, not Bentinck alone, is the **Liberator of the Indian Press** — Bentinck prepared the ground; the Act passed under Metcalfe.
 
 
+### 7.19 Master Fact-Locks — Education & Press High-Yield Repository
+
+| Institution / Act / Paper | Founder / Committee / Editor | Year | Key Diagnostic Fact & Exam Anchor |
+|---|---|---|---|
+| **Calcutta Madarsa** | Warren Hastings (Mulla Mujduddin 1st Principal) | 1780 | First British-founded Muslim law/Arabic/Persian institution; trained interpreters for courts. |
+| **Bengali Grammar** | Nathaniel Brassey Halhed | 1778 | First Bengali grammar published in English. |
+| **Asiatic Society of Bengal** | Sir William Jones | 1784 | Journal *Asiatic Researches*; translated Kalidasa’s *Abhigyan Shakuntalam* (1789) into English; Hastings declined presidency in favor of Jones. |
+| **First Gita English Translation** | Charles Wilkins | 1785 | Preface written by Warren Hastings; established study of Oriental classics. |
+| **Sanskrit College, Benaras** | Jonathan Duncan (Resident at Benaras) | 1791 | Founded for study of Hindu law, philosophy, and literature. |
+| **Fort William College, Calcutta** | Lord Wellesley | 10 July 1800 | Established to train British civil servants in Indian languages (Hindustani, Persian); Carey taught here. |
+| **Charter Act of 1813** | British Parliament | 1813 | Allotted **Rs. 1,00,000 (one lakh)** annually for promotion of literature and sciences among Indians; ended trade monopoly except tea and China. |
+| **Hindu College, Calcutta** | Raja Ram Mohan Roy, David Hare, Alexander Duff | 1817 | Pioneer non-governmental English college; later Presidency College (1855) / Presidency University. |
+| **General Committee of Public Instruction** | Lord Macaulay (President) | 1823 | 10 members split evenly: 5 Orientalists vs 5 Anglicists; resolved by Macaulay's Minute. |
+| **Macaulay’s Minute** | Lord Macaulay | 2 Feb 1835 | Declared European literature superior ("single shelf of a good European library worth whole literature of India and Arabia"); accepted by Bentinck on 7 March 1835; English made official medium of higher education. |
+| **Downward Filtration Theory** | Lord Macaulay / EIC Policy | 1830s–1850s | Educate elite upper classes first; education would filter downward to masses (abandoned formally by Wood's Despatch). |
+| **Wood’s Despatch** | Sir Charles Wood (Pres. Board of Control) | 19 July 1854 | **"Magna Carta of English Education in India"**; comprehensive primary-to-university hierarchy; grants-in-aid; vernacular for primary, English for higher; led to 3 Universities (Calcutta, Bombay, Madras) in 1857. |
+| **First Women's University** | Dhondo Keshav (D.K.) Karve | 1916 | Set up in Bombay (SNDT); Karve also established Widow Home (1896) in Poona; awarded Bharat Ratna (1958). |
+| **Deccan Educational Society** | B.G. Tilak, G.G. Agarkar, V.K. Chiplunkar, M.B. Namjoshi | 1884 | Grew out of New English School (1880); established Fergusson College (1885); Ranade was a patron (not founder). |
+| **Muhammadan Anglo-Oriental (MAO) College** | Sir Syed Ahmad Khan | 1875 | Aligarh; began as Madarsatul Uloom (1875); promoted modern Western science among Muslims (Aligarh Movement); became Aligarh Muslim University (1920). |
+| **Hunter Commission** | W.W. Hunter (appointed by Lord Ripon) | 1882–1883 | First Indian Education Commission; reviewed post-1854 progress; laid special emphasis on **primary education** and vocational training. |
+| **Rangpur National School & NCE** | Satish Chandra Mukherjee & citizens | 1905 & 15 Aug 1906 | First milestone of Swadeshi national education; National Council of Education Bengal founded Bengal National College (Aurobindo Ghosh 1st Principal). |
+| **Indian Universities Act** | Sir Thomas Raleigh Commission (Lord Curzon) | 1902 / Act 1904 | Two Indian members: **Syed Hussain Bilgrami** & **Justice Gurudas Banerjee**; increased government control over senate and syndicates. |
+| **Sadler Commission** | Dr. M.E. Sadler (VC Leeds University) | 1917 | Studied Calcutta University problems; Indian members: **Sir Ashutosh Mukherjee** & **Dr. Ziauddin Ahmad**; recommended secondary education reform as precondition for university reform (12-year school + 3-year degree). |
+| **Banaras Hindu University (BHU)** | Pt. Madan Mohan Malaviya | 1916 | Evolved from Annie Besant's Central Hindu College (1898); foundation stone laid on 4 Feb 1916 by Viceroy Lord Hardinge II; first declared Central University. |
+| **First Printing Press in India** | Portuguese Jesuits | 1556 | Established at Goa; first printed books in India. |
+| **First Newspaper in India** | James Augustus Hicky | 29 Jan 1780 | *Bengal Gazette* (or *Calcutta General Advertiser*), weekly in English; seized in 1782. |
+| **First Censorship of Press Act** | Lord Wellesley | 1799 | Enacted wartime pre-censorship and name of printer/editor; abolished by Lord Hastings in 1818. |
+| **Liberator of Indian Press** | Sir Charles Metcalfe | 1835 | Metcalfe Act (Press Act 1835) repealed John Adams’s restrictive Licensing Regulations of 1823. |
+| **Vernacular Press Act (Gagging Act)** | Lord Lytton / repealed by Lord Ripon | 1878 / rep. 1882 | Targeted Indian language press (Som Prakash, Bharat Mihir, Dhaka Prakash); empowered DMs to confiscate press and bond security without court trial. |
+| **Amrita Bazar Patrika** | Sisir Kumar Ghosh & Motilal Ghosh | 1868 (Jessore) | Switched from Bengali to English overnight in 1878 to bypass the Vernacular Press Act. |
+| **First Hindi Newspaper** | Pt. Jugal Kishore Shukla | 30 May 1826 | *Udant Martand* (Calcutta), weekly on Tuesdays; 30 May celebrated as Hindi Journalism Day. |
+| **First Indian Imprisoned for Journalism** | Bal Gangadhar Tilak | 1882 & 1897 | 4 months in 1882 (Kolhapur Raja case); 18 months in 1897 (provocation of Chapekar brothers via Shivaji festival speech & *Kesari* articles). |
+| **Samvad Kaumudi & Mirat-ul-Akhbar** | Raja Ram Mohan Roy | 1821 & 1822 | *Samvad Kaumudi* (Bengali weekly, campaign against Sati); *Mirat-ul-Akhbar* (Persian weekly, closed after 1823 Adams regulations). |
+| **Hindoo Patriot** | Girish Chandra Ghosh / Harish Chandra Mukherjee / Kristo Das Pal | 1853 | First English paper owned/run by Indians; Harish Chandra Mukherjee championed Indigo cultivators; Kristo Das Pal later represented zamindar interests. |
+| **Ghadar Journal** | Ghadar Party (Lala Har Dayal, Sohan Singh Bhakna) | 1 Nov 1913 | San Francisco; weekly; 1st issue in Urdu, followed by Gurumukhi (9 Dec 1913), Hindi, English, Marathi, Gujarati, Pashto. |
+| **Indian Opinion** | Mahatma Gandhi (Mansukhlal Nazar 1st editor) | 1903 | South Africa (Phoenix); published in Gujarati, Hindi, Tamil, and English (NOT Urdu). |
+| **Harijan Weeklies** | Mahatma Gandhi | 11 Feb 1933 | Published from Poona; *Harijan* (English), *Harijan Bandhu* (Gujarati), *Harijan Sevak* (Hindi). |
+| **Bahishkrit Bharat** | Dr. B.R. Ambedkar | 1927 | Marathi fortnightly; organ of *Bahishkrit Hitkarini Sabha* (1924) for Dalit empowerment. |
+| **Al-Hilal & Al-Balagh** | Maulana Abul Kalam Azad | 1912 & 1915 | Urdu weeklies published from Calcutta; Al-Hilal banned in 1914 under Press Act. |
+| **The Leader & Hindustan** | Pt. Madan Mohan Malaviya | 1909 | English daily from Allahabad; championed liberal and nationalist perspectives. |
+| **The Independent** | Pt. Motilal Nehru | 1919 | English daily from Allahabad demanding self-rule / Swaraj. |
+| **Qaumi Awaz** | Jawaharlal Nehru & Rafi Ahmed Kidwai | 1945 | Urdu daily from Lucknow (closed 1997); companion to English *National Herald*. |
+
+
+
 ## Complete PYQ Bank (Topic 7)
 
 ### UPPCS Prelims 2024
 
 **Q1. UPPCS Prelims 2024, Q136**
 
-Which one of the following statements is not correct about William A.J. Archbold?
-
-Options:
-A. He was the Principal of Government College, Dacca.
-B. He was the Principal of Lahore College, Lahore.
-C. He was the Principal of MAO College, Aligarh.
-D. He was the Principal of the Muir Central College, Allahabad.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — He was not Principal of Lahore College.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2024 Q136):** **William A.J. Archbold** was Principal of Government College (Dacca), MAO College (Aligarh), and Muir Central College (Allahabad). He was **never** Principal of Lahore College.
 
 ### UPPCS Prelims 2022
 
@@ -715,30 +649,7 @@ D. He was the Principal of the Muir Central College, Allahabad.
 
 Match List-I with List-II and select the correct answer from the code given below.
 
-**List-I (Newspaper/Magazine)**
-A. Swadesh (*`pyq/2022` prints Kesari; standard paper restored*)
-B. Bharat Bandhu
-C. Satyawadi
-D. Shakti
-
-**List-II (Place of Publication)**
-1. Agra
-2. Almora
-3. Hathras
-4. Gorakhpur
-
-Options:
-A. A-3, B-2, C-1, D-4
-B. A-4, B-3, C-1, D-2
-C. A-2, B-3, C-4, D-1
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Swadesh–Gorakhpur; Bharat Bandhu–Hathras; Satyawadi–Agra; Shakti–Almora.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2022 Q117):** UP Newspaper Publication Places: **Swadesh** ↔ Gorakhpur; **Bharat Bandhu** ↔ Hathras; **Satyawadi** ↔ Agra; **Shakti** ↔ Almora.
 
 ### UPPCS Prelims 2021
 
@@ -769,22 +680,7 @@ Given below are two statements, one is labelled as Assertion (A) and the other a
 
 **Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
 
-**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
-
-Select the correct answer from the codes given below.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
+**Reason (R):** Warren Hastings was himself a great scholar and an ardent > [!TIP] **Exam Anchor (UPPCS 2019 Q22):** Assertion-Reason: Asiatic Society was founded during Warren Hastings’s tenure and he declined presidency for Jones (True). Hastings was a great oriental scholar supporting Indian languages (True, but not the direct causal reason for declining).
 
 ### UPPCS Prelims 2018
 
@@ -835,1197 +731,4165 @@ D. 1856
 ---
 
 
-## Ghatnachakra Extra Drill — Education
+## Complete PYQ Bank — Ghatnachakra Development of Education (42 Questions)
 
-Teaching sits in **7.1–7.13**.
+Complete unabridged 42-question bank from the core Ghatna Chakra repository covering all educational developments in British India: Calcutta Madarsa (1780, Warren Hastings, Mulla Mujduddin), Sanskrit College Benaras (1791, Jonathan Duncan), Asiatic Society of Bengal (1784, Sir William Jones, Charles Wilkins Gita translation, Kalidasa Shakuntala translation), Charter Act 1813 Rs 1 Lakh education grant, Anglicist-Orientalist Controversy (General Committee of Public Instruction 1823), Macaulay's Minute (1835) & Downward Filtration Theory, Wood's Despatch (1854 "Magna Carta of Indian Education") & London University model (Calcutta, Bombay, Madras 1857), D.K. Karve First Women's University Bombay (1916), Deccan Educational Society (1884, Tilak & Agarkar), MAO College Aligarh (1875, Sir Syed Ahmad Khan), Hindu College Calcutta (1817, Raja Ram Mohan Roy, David Hare, Alexander Duff), Hunter Commission (1882, primary education under Ripon), National Council of Education Bengal (1906, Rangpur School 1905), Raleigh Commission & Universities Act (1902–1904, Curzon, Gurudas Banerjee, Syed Hussain Bilgrami), Sadler Commission (1917, Calcutta University, Ashutosh Mukherjee, Ziauddin Ahmad), Fort William College (1800, Lord Wellesley), and Banaras Hindu University (1916, Madan Mohan Malaviya, Annie Besant Central Hindu College 1898, foundation laid by Hardinge II). Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
 
-**Q1. UPPCS / UKPCS / IAS**
+---
 
-The first British-style madrasa in India was established at:
+**Q-GC-EDU-1. U.P.P.C.S. (Pre) 2006**
 
-A. Banaras
+Where was the first Madarsa set up by British in India?
 
-B. Calcutta
+- (a) Madras
 
-C. Delhi
+- (b) Bombay
 
-D. Madras
+- (c) Aligarh
 
-<details>
-<summary>Show answer</summary>
+- (d) Calcutta
 
-**Logic:** First British madrasa = Calcutta under Hastings (~1780–81).
+<details><summary>Show answer</summary>
 
-**Ans: B.** **Calcutta** — Hastings, about **1780–81**.
+**Answer: (d)**
 
-</details>
-
-**Q2. UPPCS / UKPCS / IAS**
-
-The Asiatic Society of Bengal was founded by:
-
-A. Jonathan Duncan
-
-B. Sir William Jones
-
-C. Warren Hastings
-
-D. Charles Wilkins
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Asiatic Society of Bengal (1784) = Sir William Jones; Hastings declined presidency.
-
-**Ans: B.** **Sir William Jones (1784)** — Hastings declined the chair.
-
-</details>
-
-**Q3. UPPCS / UKPCS / IAS**
-
-Banaras Sanskrit College was founded in 1791 by:
-
-A. Sir William Jones
-
-B. Jonathan Duncan
-
-C. Warren Hastings
-
-D. William Bentinck
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Banaras Sanskrit College (1791) = Jonathan Duncan — not Jones.
-
-**Ans: B.** **Jonathan Duncan (1791)** — Sanskrit revival at Banaras.
-
-</details>
-
-**Q4. UPPCS / UKPCS / IAS**
-
-The Bhagavad Gita was first translated into English by:
-
-A. Sir William Jones
-
-B. Charles Wilkins
-
-C. Max Müller
-
-D. Henry Thomas Colebrooke
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First English translation of the Bhagavad Gita = Charles Wilkins.
-
-**Ans: B.** **Charles Wilkins** — first English **Gita**.
-
-</details>
-
-**Q5. UPPCS / UKPCS / IAS**
-
-*Abhijnanashakuntala* was first translated into English by:
-
-A. Charles Wilkins
-
-B. Sir William Jones
-
-C. James Prinsep
-
-D. Horace Hayman Wilson
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First English Shakuntala = William Jones.
-
-**Ans: B.** **William Jones** — first English **Shakuntala**.
-
-</details>
-
-**Q6. UPPCS / IAS / UKPCS / BPSC / MPPCS**
-
-Which Act first set aside Rs 1 lakh annually for education in India?
-
-A. Regulating Act 1773
-
-B. Charter Act 1813
-
-C. Charter Act 1833
-
-D. Government of India Act 1858
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Charter Act 1813 = Rs 1 lakh for education — first statutory grant.
-
-**Ans: B.** **Charter Act 1813** — first statutory education grant.
-
-</details>
-
-**Q7. UPPCS / IAS / UKPCS / BPSC / MPPCS**
-
-Which document is often called the Magna Carta of English education in India?
-
-A. Macaulay’s Minute of 1835
-
-B. Wood’s Despatch of 1854
-
-C. Hunter Commission Report of 1882
-
-D. Sadler Commission Report of 1917
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Wood’s Despatch 1854 = Magna Carta of English education; grants-in-aid and universities true; English at all levels false.
-
-**Ans: B.** **Wood’s Despatch 1854** — graded system and grants-in-aid.
-
-</details>
-
-**Q8. UPPCS / IAS / UKPCS / BPSC / MPPCS**
-
-With reference to Wood’s Despatch (1854), which statement is correct?
-
-A. It rejected grants-in-aid to private schools
-
-B. It opposed founding universities
-
-C. It recommended English for higher education, not necessarily at all levels
-
-D. It abolished primary schooling
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Wood recommended English for higher education only — not every level.
-
-**Ans: C.** Grants-in-aid and universities are **true**; English at **all** levels is **false**.
-
-</details>
-
-**Q9. UPPCS / IAS / UKPCS / BPSC / MPPCS**
-
-The Hunter Commission (1882) chiefly emphasised:
-
-A. University research alone
-
-B. Primary education
-
-C. Medical colleges
-
-D. Female education only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hunter Commission 1882 = primary education emphasis under Ripon.
-
-**Ans: B.** **Primary education** — Ripon era (**1882**).
-
-</details>
-
-**Q10. UPPCS / IAS / UKPCS / BPSC / MPPCS**
-
-The Sadler Commission (1917) was appointed to inquire into:
-
-A. Press censorship
-
-B. Education, including Calcutta University
-
-C. Forest revenue
-
-D. Army recruitment
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sadler Commission 1917 = education review; Calcutta University inquiry.
-
-**Ans: B.** **Education** — appointed **1917**.
-
-</details>
-
-**Q11. RAS / IAS / UPPCS / BPSC**
-
-The “downward filtration theory” in colonial India related to:
-
-A. Irrigation
-
-B. Education
-
-C. Forest management
-
-D. Currency
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Downward filtration theory = education field; Macaulay as propounder.
-
-**Ans: B.** **Education** — elite training supposed to trickle down.
-
-</details>
-
-**Q12. RAS / IAS / UPPCS / BPSC**
-
-Who is most closely associated with the downward filtration theory in education?
-
-A. Lord Dalhousie
-
-B. Thomas Babington Macaulay
-
-C. Lord Ripon
-
-D. John Sargeant
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Macaulay’s Minute 1835 = foundation tag for modern English education system.
-
-**Ans: B.** **Macaulay** — Minute **2 February 1835**.
-
-</details>
-
-**Q13. RAS / IAS / UPPCS / BPSC**
-
-Macaulay’s Minute on education (1835) was accepted during the viceroyalty of:
-
-A. Lord Wellesley
-
-B. Lord William Bentinck
-
-C. Lord Dalhousie
-
-D. Lord Canning
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bentinck accepted Macaulay’s English-education policy.
-
-**Ans: B.** **Bentinck** — English education policy adopted **1835**.
-
-</details>
-
-**Q14. RAS / IAS / UPPCS / BPSC**
-
-Macaulay’s Minute on Indian education was dated:
-
-A. 2 February 1835
-
-B. 2 February 1854
-
-C. 2 August 1858
-
-D. 15 August 1906
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Macaulay’s Minute date = 2 February 1835.
-
-**Ans: A.** **2 February 1835** — foundation tag for modern system.
-
-</details>
-
-**Q15. RAS / UPPCS / IAS**
-
-The first three modern universities in India were founded in:
-
-A. 1854
-
-B. 1857
-
-C. 1882
-
-D. 1904
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First three universities = Calcutta, Bombay, Madras in 1857.
-
-**Ans: B.** **1857** — Calcutta, Bombay and Madras.
-
-</details>
-
-**Q16. RAS / UPPCS / IAS**
-
-India’s first women’s university is associated with:
-
-A. Ishwar Chandra Vidyasagar
-
-B. D. K. Karve
-
-C. Annie Besant
-
-D. Pandita Ramabai
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First women’s university in India = D.K. Karve.
-
-**Ans: B.** **D.K. Karve** — women’s university pioneer.
-
-</details>
-
-**Q17. RAS / UPPCS / IAS**
-
-The Deccan Education Society is most closely associated with:
-
-A. M. G. Ranade alone
-
-B. Bal Gangadhar Tilak
-
-C. Gopal Krishna Gokhale alone
-
-D. Dadabhai Naoroji
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Deccan Education Society linked to Tilak (with Chiplunkar and Agarkar).
-
-**Ans: B.** **Tilak** — with Chiplunkar and Agarkar (Ranade as patron).
-
-</details>
-
-**Q18. RAS / UPPCS / IAS**
-
-Which was the earliest among these colleges?
-
-A. Hindu College, Calcutta (1817)
-
-B. Delhi College (1792)
-
-C. Mayo College, Ajmer (1875)
-
-D. MAO College, Aligarh (1877)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Earliest among listed colleges = Hindu College Calcutta 1817.
-
-**Ans: A.** **Hindu College Calcutta 1817** — earliest in the set.
-
-</details>
-
-**Q19. RAS / UPPCS / IAS**
-
-Fort William College (1800) was established to:
-
-A. Train Indian princes in English
-
-B. Train British civilians in Indian languages and administration
-
-C. Publish vernacular newspapers
-
-D. Conduct civil-service competitive papers
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Fort William College (1800) = Richard Wellesley to train British civilians.
-
-**Ans: B.** **Richard Wellesley, 1800** — train **British civilians**.
-
-</details>
-
-**Q20. RAS / UPPCS / IAS**
-
-Which pair is correctly matched?
-
-A. Banaras Sanskrit College — Sir William Jones
-
-B. Calcutta Madrasa — Warren Hastings
-
-C. Fort William College — Arthur Wellesley
-
-D. Asiatic Society — Jonathan Duncan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Correct pair trap — Calcutta Madrasa–Hastings; Duncan≠Jones for Sanskrit College.
-
-**Ans: B.** **Calcutta Madrasa–Hastings** only — Sanskrit College = **Duncan**; Fort William = **Richard Wellesley**.
-
-</details>
-
-**Q21. BPSC / UKPCS / UPPCS**
-
-The National Council of Education (Bengal) was founded on:
-
-A. 15 August 1905
-
-B. 15 August 1906
-
-C. 15 August 1907
-
-D. 15 August 1908
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** National Council of Education = 15 August 1906 — swadeshi education response.
-
-**Ans: B.** **15 August 1906** — swadeshi education stream.
-
-</details>
-
-**Q22. BPSC / UKPCS / UPPCS**
-
-Who among the following served on Curzon’s Indian Universities Commission (1902)?
-
-A. Syed Hussain Bilgrami and Justice Gurudas Banerjee
-
-B. Madan Mohan Malaviya and Annie Besant
-
-C. Gopal Krishna Gokhale and Dadabhai Naoroji
-
-D. Rabindranath Tagore and Ashutosh Mukherjee
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Curzon’s Raleigh University Commission included Bilgrami and Gurudas Banerjee.
-
-**Ans: A.** **Syed Hussain Bilgrami** and **Justice Gurudas Banerjee**.
-
-</details>
-
-**Q23. BPSC / UKPCS / UPPCS**
-
-Who was the foremost advocate of religious and moral education and founder of BHU?
-
-A. Annie Besant
-
-B. Madan Mohan Malaviya
-
-C. Ishwar Chandra Vidyasagar
-
-D. Syed Ahmad Khan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Malaviya championed religious/moral education and founded BHU.
-
-**Ans: B.** **Madan Mohan Malaviya** — BHU and religious education.
-
-</details>
-
-**Q24. BPSC / UKPCS / UPPCS**
-
-The foundation stone of Banaras Hindu University was laid by:
-
-A. Lord Curzon
-
-B. Lord Hardinge
-
-C. Lord Chelmsford
-
-D. Lord Irwin
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** BHU foundation stone laid by Lord Hardinge.
-
-**Ans: B.** **Lord Hardinge** — BHU foundation stone.
-
-</details>
-
-**Q25. BPSC / UKPCS / UPPCS**
-
-Central Hindu College was founded by:
-
-A. Madan Mohan Malaviya
-
-B. Annie Besant
-
-C. Rabindranath Tagore
-
-D. Syed Ahmad Khan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Central Hindu College = Annie Besant at Banaras.
-
-**Ans: B.** **Annie Besant** — Central Hindu College, Banaras.
+**Explanation:**
+In 1780 A.D., Warren Hastings founded Madarsa at Calcutta.
 
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Press
+**Q-GC-EDU-2. U.P. P.C.S. (Mains) 2006 / U.P.P.C.S. (Spl) (Mains) 2004 / Chhattisgarh P.C.S. (Pre) 2003 / R.A.S./R.T.S. (Pre) 1999**
 
-Teaching sits in **7.14–7.16**.
+The Asiatic Society of Bengal was founded by
 
-**Q26. Jharkhand / UPPCS / IAS / BPSC**
+- (a) Sir William Jones
 
-Printing press was first introduced in India by:
+- (b) Wilkins
 
-A. The British at Calcutta in 1780
+- (c) Max Muller
 
-B. The Portuguese at Goa in 1556
+- (d) James Prinsep
 
-C. The Dutch at Cochin in 1600
+<details><summary>Show answer</summary>
 
-D. The French at Pondicherry in 1674
+**Answer: (a)**
 
-<details>
-<summary>Show answer</summary>
+**Explanation:**
+Britishers showed no interest in the advancement of learning
 
-**Logic:** First printing press in India = Portuguese at Goa, 1556.
+in the early phase of their rule in India. Some of the Britishers
 
-**Ans: B.** **Portuguese, 1556 (Goa)** — first press.
+in their personal endeavours and for political gain showed
 
-</details>
+some interest in spreading education. Warren Hastings,
 
-**Q27. Jharkhand / UPPCS / IAS / BPSC**
+Governor-General of Bengal, showed a keen interest in
 
-India’s first newspaper was:
+spreading oriental education. Sir William Jones, then Justice
 
-A. Bombay Samachar
+of Calcutta High Court, established the Asiatic Society of
 
-B. Bengal Gazette (James Augustus Hicky)
+Bengal in Calcutta (1784 A.D.). Here, they started research on
 
-C. Mirat-ul-Akhbar
+oriental education and culture and the British civilians were
 
-D. Indian Mirror
+taught Indian languages, laws, customs, religion, geography,
 
-<details>
-<summary>Show answer</summary>
+etc. By endeavours of Wilkins Jones, Colebrook and William
 
-**Logic:** First newspaper = Bengal Gazette (Hicky, 1780).
+Carey, this oriental education got a foothold. In the year 1791
 
-**Ans: B.** **Bengal Gazette (Hicky, 1780)** — first newspaper.
+A.D., Jonathan Duncan established the Sanskrit College at
 
-</details>
-
-**Q28. Jharkhand / UPPCS / IAS / BPSC**
-
-Press censorship was first rigorously imposed in India under:
-
-A. Warren Hastings (1772)
-
-B. Lord Wellesley (1799)
-
-C. Lord Metcalfe (1835)
-
-D. Lord Lytton (1878)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First press censorship = Wellesley 1799.
-
-**Ans: B.** **Wellesley (1799)** — first press censorship.
-
-</details>
-
-**Q29. Jharkhand / UPPCS / IAS / BPSC**
-
-The Vernacular Press Act (1878) was passed by Lord Lytton and repealed by:
-
-A. Lord Mayo
-
-B. Lord Ripon
-
-C. Lord Curzon
-
-D. Lord Dufferin
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Vernacular Press Act 1878 = Lytton; repealed by Ripon.
-
-**Ans: B.** **Lytton 1878**, repealed by **Ripon**.
-
-</details>
-
-**Q30. MPPCS / UPPCS / BPSC**
-
-Who is called the Liberator of the Indian Press for the Act of 1835?
-
-A. Lord William Bentinck alone
-
-B. Sir Charles Metcalfe
-
-C. Lord Wellesley
-
-D. Lord Ripon
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Metcalfe’s 1835 Press Act = “liberator of the press”; Bentinck prepared ground.
-
-**Ans: B.** **Metcalfe, 1835** — Bentinck prepared the ground.
-
-</details>
-
-**Q31. MPPCS / UPPCS / BPSC**
-
-Who is often described as the first Indian journalist to be imprisoned?
-
-A. Bal Gangadhar Tilak
-
-B. Mahatma Gandhi
-
-C. Raja Ram Mohan Roy
-
-D. Bipin Chandra Pal
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First Indian journalist jailed tag = Tilak.
-
-**Ans: A.** **Tilak** — first jailed journalist tag.
-
-</details>
-
-**Q32. MPPCS / UPPCS / BPSC**
-
-*Free Hindustan* was started by:
-
-A. Lala Hardayal
-
-B. Tarak Nath Das
-
-C. Bipin Chandra Pal
-
-D. Vinayak Damodar Savarkar
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Free Hindustan = Tarak Nath Das — revolutionary paper abroad.
-
-**Ans: B.** **Tarak Nath Das** — revolutionary weekly abroad.
-
-</details>
-
-**Q33. MPPCS / UPPCS / BPSC**
-
-*Mirat-ul-Akhbar* was edited by:
-
-A. Ishwar Chandra Vidyasagar
-
-B. Raja Ram Mohan Roy
-
-C. Henry Louis Vivian Derozio
-
-D. Keshab Chandra Sen
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Mirat-ul-Akhbar = Raja Ram Mohan Roy’s Persian paper.
-
-**Ans: B.** **Raja Ram Mohan Roy** — Persian reform paper.
-
-</details>
-
-**Q34. MPPCS / UPPCS / BPSC**
-
-*Indian Mirror* was published from:
-
-A. Bombay
-
-B. Calcutta
-
-C. Madras
-
-D. Lahore
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Indian Mirror = Calcutta — Brahmo-linked paper.
-
-**Ans: B.** **Calcutta** — reform-era paper.
-
-</details>
-
-**Q35. UPPCS / Chhattisgarh / BPSC / IAS**
-
-*Ghadar* was first published as a:
-
-A. English daily
-
-B. Urdu weekly
-
-C. Hindi monthly
-
-D. Punjabi bi-weekly
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ghadar = Urdu weekly from 1 November 1913.
-
-**Ans: B.** **Urdu weekly** — **1 November 1913**.
-
-</details>
-
-**Q36. UPPCS / Chhattisgarh / BPSC / IAS**
-
-Which newspaper converted itself into an English daily overnight in 1878?
-
-A. Kesari
-
-B. Amrita Bazar Patrika
-
-C. Bombay Samachar
-
-D. The Hindu
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Amrita Bazar Patrika switched to English overnight in 1878 to escape VPA.
-
-**Ans: B.** **Amrita Bazar Patrika** — overnight English shift **1878**.
-
-</details>
-
-**Q37. UPPCS / Chhattisgarh / BPSC / IAS**
-
-*Kesari* was edited by:
-
-A. Gopal Krishna Gokhale
-
-B. Bal Gangadhar Tilak
-
-C. Dadabhai Naoroji
-
-D. Bipin Chandra Pal
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Kesari = Tilak’s Marathi paper (also Mahratta in English).
-
-**Ans: B.** **Tilak** — *Kesari* (also *Mahratta*).
-
-</details>
-
-**Q38. UPPCS / Chhattisgarh / BPSC / IAS**
-
-Which of the following advocated revolutionary violence in the press?
-
-A. Sandhya, Yugantar and Kaal
-
-B. Young India and Harijan
-
-C. Indian Opinion and Navajivan
-
-D. Commonweal and New India
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Revolutionary advocacy papers = Sandhya, Yugantar, Kaal — not Young India.
-
-**Ans: A.** **Sandhya, Yugantar, Kaal** — revolutionary trio. **Young India** is **not** in this set.
-
-</details>
-
-**Q39. UPPCS / Chhattisgarh / BPSC / IAS**
-
-*Som Prakash* was started by:
-
-A. Raja Ram Mohan Roy
-
-B. Ishwar Chandra Vidyasagar
-
-C. Bankim Chandra Chattopadhyay
-
-D. Madan Mohan Malaviya
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Som Prakash = Ishwar Chandra Vidyasagar.
-
-**Ans: B.** **Ishwar Chandra Vidyasagar** — *Som Prakash*.
-
-</details>
-
-**Q40. UPPCS / Chhattisgarh / Jharkhand**
-
-The first editor of *Indian Opinion* was:
-
-A. Mahatma Gandhi
-
-B. Mansukhlal Nazar
-
-C. Henry Polak
-
-D. C.F. Andrews
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Indian Opinion first editor = Mansukhlal Nazar — Gandhi’s South Africa paper.
-
-**Ans: B.** **Mansukhlal Nazar** — first editor.
-
-</details>
-
-**Q41. UPPCS / Chhattisgarh / Jharkhand**
-
-Which language was **not** used by *Indian Opinion*?
-
-A. English
-
-B. Gujarati
-
-C. Urdu
-
-D. Hindi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Indian Opinion did not use Urdu among its language set.
-
-**Ans: C.** **Urdu** was **not** used — English, Gujarati, Hindi and Tamil were.
-
-</details>
-
-**Q42. UPPCS / Chhattisgarh / Jharkhand**
-
-*Harijan* was first published from:
-
-A. Ahmedabad
-
-B. Pune
-
-C. Bombay
-
-D. Wardha
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Harijan first published from Pune, 11 February 1933.
-
-**Ans: B.** **Pune** — first issue **11 February 1933**.
-
-</details>
-
-**Q43. UPPCS / Chhattisgarh / Jharkhand**
-
-*Udant Martand*, the first Hindi newspaper, was published from:
-
-A. Banaras
-
-B. Calcutta
-
-C. Allahabad
-
-D. Agra
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Udant Martand = first Hindi newspaper from Calcutta.
-
-**Ans: B.** **Calcutta** — first Hindi paper.
-
-</details>
-
-**Q44. UPPCS / Chhattisgarh / Jharkhand**
-
-The indigo planters’ oppression was powerfully exposed in *Hindoo Patriot* by:
-
-A. Dinshaw Wacha
-
-B. Harish Chandra Mukherjee
-
-C. Sisir Kumar Ghosh
-
-D. Girish Chandra Ghosh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hindoo Patriot indigo campaign = Harish Chandra Mukherjee.
-
-**Ans: B.** **Harish Chandra Mukherjee** — indigo voice in *Hindoo Patriot*.
-
-</details>
-
-**Q45. UPPCS / Chhattisgarh / Jharkhand**
-
-The English weekly *Bande Mataram* (Vande Mataram stream) is associated with:
-
-A. Bipin Chandra Pal alone
-
-B. Aurobindo Ghosh
-
-C. Lala Lajpat Rai
-
-D. Dadabhai Naoroji
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Vande Mataram English weekly linked to Aurobindo Ghosh stream.
-
-**Ans: B.** **Aurobindo Ghosh** — with Pal in the founding line.
-
-</details>
-
-**Q46. UPPCS / IAS / UKPCS / BPSC**
-
-Which pair is **not** correctly matched?
-
-A. Al-Hilal — Maulana Abul Kalam Azad
-
-B. New India — Annie Besant
-
-C. Tahzeeb-ul-Akhbar — Muhammad Ali Jinnah
-
-D. Samvad Kaumudi — Raja Ram Mohan Roy
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Wrong pair = Tahzeeb-ul-Akhbar–Jinnah; correct editor = Sir Syed Ahmad Khan.
-
-**Ans: C.** **Tahzeeb-ul-Akhbar** = **Sir Syed Ahmad Khan**, not Jinnah.
-
-</details>
-
-**Q47. UPPCS / IAS / UKPCS / BPSC**
-
-*Qaumi Awaz* was started by:
-
-A. Maulana Abul Kalam Azad
-
-B. Jawaharlal Nehru (with Rafi Ahmad Kidwai)
-
-C. Motilal Nehru
-
-D. B. R. Ambedkar
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Qaumi Awaz = Jawaharlal Nehru with Rafi Ahmad Kidwai.
-
-**Ans: B.** **Nehru** with **Kidwai** — *Qaumi Awaz*.
-
-</details>
-
-**Q48. UPPCS / IAS / UKPCS / BPSC**
-
-*The Pioneer* was founded by:
-
-A. Mahatma Gandhi
-
-B. George Allen
-
-C. Surendranath Banerjee
-
-D. James Augustus Hicky
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Pioneer = George Allen — Anglo-Indian daily.
-
-**Ans: B.** **George Allen** — *The Pioneer*.
-
-</details>
-
-**Q49. UPPCS / IAS / UKPCS / BPSC**
-
-*The Independent* was started by:
-
-A. B. R. Ambedkar
-
-B. Motilal Nehru
-
-C. Annie Besant
-
-D. Lala Lajpat Rai
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Independent = Motilal Nehru — not Ambedkar.
-
-**Ans: B.** **Motilal Nehru** — *The Independent*.
-
-</details>
-
-**Q50. UPPCS / IAS / UKPCS / BPSC**
-
-*Bahishkrit Bharat* was edited by:
-
-A. Jyotiba Phule
-
-B. B. R. Ambedkar
-
-C. Narayan Guru
-
-D. E.V. Ramaswami Naicker
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bahishkrit Bharat = B.R. Ambedkar.
-
-**Ans: B.** **B.R. Ambedkar** — *Bahishkrit Bharat*.
-
-</details>
-
-**Q51. UPPCS / IAS / UKPCS / BPSC**
-
-*Commonweal* was edited by:
-
-A. Madan Mohan Malaviya
-
-B. Annie Besant
-
-C. Sarojini Naidu
-
-D. Kamaladevi Chattopadhyay
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Commonweal = Annie Besant.
-
-**Ans: B.** **Annie Besant** — *Commonweal*.
+Varanasi (Banaras).
 
 </details>
 
 ---
 
-### UKPCS Complete PYQ Bank (Education and Press)
+**Q-GC-EDU-3. Uttarakhand P.C.S. (Mains) 2006**
 
-**Q1. UKPCS Prelims 2025, Q68**
+Who founded First Sanskrit Mahavidyalaya at
 
-When was the ‘Sargeant Plan’ of education started?
+Varanasi?
 
-A. 1902
+- (a) Jonathan Duncan
 
-B. 1944
+- (b) Warren Hastings
 
-C. 1948
+- (c) Lorel Macaulay
 
-D. 1856
+- (d) Bankim Chandra
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Logic:** Sargeant Plan 1944 — war-years universal elementary education blueprint.
+**Answer: (a)**
 
-**Ans: B (Series B provisional key).** The Sargeant Plan of **1944** proposed universal free and compulsory education for ages six to eleven within forty years.
-
-</details>
-
-**Q2. UKPCS / UPPCS**
-
-The first British-style madrasa in India was established at:
-
-A. Banaras
-
-B. Calcutta
-
-C. Delhi
-
-D. Madras
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First British madrasa Calcutta — UKPCS-tagged Extra cluster.
-
-**Ans: B.** **Calcutta** — Hastings, about **1780–81**.
-
-</details>
-
-**Q3. UKPCS / UPPCS**
-
-Which document is often called the Magna Carta of English education in India?
-
-A. Macaulay’s Minute of 1835
-
-B. Wood’s Despatch of 1854
-
-C. Hunter Commission Report of 1882
-
-D. Sadler Commission Report of 1917
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Wood’s Despatch 1854 Magna Carta tag — UKPCS-tagged cluster.
-
-**Ans: B.** **Wood’s Despatch 1854**.
-
-</details>
-
-**Q4. UKPCS / UPPCS**
-
-The National Council of Education (Bengal) was founded on:
-
-A. 15 August 1905
-
-B. 15 August 1906
-
-C. 15 August 1907
-
-D. 15 August 1908
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** National Council of Education 1906 (एन.सी.ई.) — UKPCS-tagged swadeshi education.
-
-**Ans: B.** **15 August 1906**.
-
-</details>
-
-**Q5. UKPCS / UPPCS**
-
-Which pair is **not** correctly matched?
-
-A. Al-Hilal — Maulana Abul Kalam Azad
-
-B. New India — Annie Besant
-
-C. Tahzeeb-ul-Akhbar — Muhammad Ali Jinnah
-
-D. Samvad Kaumudi — Raja Ram Mohan Roy
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tahzeeb–Jinnah wrong pair — UKPCS-tagged Press trap.
-
-**Ans: C.** **Tahzeeb-ul-Akhbar** = **Sir Syed Ahmad Khan**, not Jinnah.
+**Explanation:**
+See the explanation of the above question.
 
 </details>
 
 ---
+
+**Q-GC-EDU-4. U.P. P.C.S. (Pre) 2019**
+
+Given below are two statements, one is labelled as
+
+- Assertion
+
+- (A) and the other as Reason (R).
+
+- Assertion
+
+- (A) : The Asiatic Society of Bengal was
+
+established in the period of Warren
+
+Hastings and he modestly declined the
+
+offer of Presidentship of the learned
+
+body in favour of Sir William Jones.
+
+Reason (R) : Warren Hastings was himself a great
+
+scholar and an ardent Orientalist
+
+who used to encourage the study of
+
+Sanskrit, Persian and Arabic.
+
+Select the correct answer from the codes given below.
+
+Codes :
+
+- (a) Both
+
+- (A) and (R) are true and (R) is the correct
+
+- explanation of
+
+- (A)
+
+- (b) Both
+
+- (A) and (R) are true, but (R) is not a correct
+
+- explanation of
+
+- (A)
+
+- (c)
+
+- (A) is true, but (R) is false
+
+- (d)
+
+- (A) is false, but (R) is true
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Warren Hastings was the Governor General of Bengal
+
+during 1774-85 AD. He himself was a prolific scholar
+
+and a staunch supporter of oriental learning, encouraging
+
+the study of Sanskrit, Persian and Arabic. It was with his
+
+cooperation and support that the Asiatic Society of Bengal
+
+was established in 1784 AD. However, he rejected the
+
+proposal for the chairmanship of this institution in favour
+
+of Sir William Jones. Charles Wilkins, Nathaniel Halhead,
+
+Jonathan Duncan etc. contributed to the study of oriental
+
+studies under the patronage and support of Warren Hastings.
+
+Warren Hastings wrote the preface to the English translation
+
+of 'Bhagavad Gita' done by Charles Wilkins. According to
+
+the question, two things are mentioned in the statement –
+
+(1) the establishment of the Asiatic Society and (2) Warren
+
+Hastings did not accept its presidency in favour of William
+
+Jones. For the same reason, it is described that he himself was
+
+a scholar and encouraged the study of oriental studies. The
+
+encouragement for the study of oriental science here confirms
+
+the reason for both statements. Thus, it is clear that both the
+
+statement in question and the reason are correct and reason
+
+is the correct explanation of the statement. The Commission
+
+has given answer (b) to this question, which is not correct.
+
+The correct answer should be (a).
+
+</details>
+
+---
+
+**Q-GC-EDU-5. U.P.P.C.S. (Mains) 2007**
+
+Who among the following was offered membership of
+
+the Royal Asiatic Society of Paris?
+
+- (a) Dadabhai Naoroji
+
+- (b) Michael Madhusudan Dutta
+
+- (c) Raja Rammohan Roy
+
+- (d) Vivekanand
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question. 
+
+
+
+
+
+
+Michael Madhusudan Dutta was offered membership in
+
+La Societe Asiatique (The Asian Society) of Paris. It was
+
+established in 1822 A.D., Dadabhai Naoroji was a Liberal
+
+Party Member of Parliament (MP) in the United Kingdom
+
+House of Commons between 1892 to 1895 A.D. and the
+
+first Asian to be a British MP. Raja Ram Mohan Roy
+
+founded the Brahmo SabhaMovement in 1828 A.D., which
+
+engendered the Brahmo Samaj, an influential Bengali-socio
+
+religious reform Movement. Swami Vivekananda travelled
+
+to the United States, representing India in 1893 A.D. at
+
+the Parliament of the World's Religions and founded the
+
+Ramakrishna Mission in 1897.
+
+</details>
+
+---
+
+**Q-GC-EDU-6. I.A.S. (Pre) 2001**
+
+Who among the following Englishmen, first translated
+
+Bhagavad Gita into English?
+
+- (a) William Jones
+
+- (b) Charles Wilkins
+
+- (c) Alexander Cunningham
+
+- (d) John Marshall
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Sir Charles Wilkins, an Englishman known as the first
+
+translator of the Bhagavad Gita into English for which the
+
+preface was written by Warren Hastings. Warren Hastings,
+
+the then Governor-General of Bengal showed a keen interest
+
+in spreading oriental education.
+
+</details>
+
+---
+
+**Q-GC-EDU-7. U.P. U.D.A./L.D.A. (Mains) 2010**
+
+Who among the following was the first to translate
+
+Kalidasa’s famous work ‘Shakuntala’ into English?
+
+- (a) Charles Wilkins
+
+- (b) Henry Colebrooke
+
+- (c) Johanna Wolfgang von Goethe
+
+- (d) Sir William Jones
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Sir William Jones was the first to translate Kalidasa’s
+
+Abhigyan Shakuntalam into English
+
+</details>
+
+---
+
+**Q-GC-EDU-8. Uttarakhand P.C.S. (Pre) 2005**
+
+The main reason for the British Government to
+
+spread modern education in India during the preindependence period was –
+
+- (a) The need for educated Indians in minor administrative
+
+posts
+
+- (b) To promote Indian culture
+
+- (c) To modernize the Indian people so that they could
+
+share their political responsibilities
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The major reason for the British Government to spread modern
+
+education in India during the pre-independence period was to
+
+reduce the expenditure on administration. The Government
+
+wanted to increase the number of educated Indians to fulfil their
+
+requirements. There was an urgent need for educated Indians
+
+in minor administrative posts under British rule.
+
+</details>
+
+---
+
+**Q-GC-EDU-9. U.P.P.C.S. (Mains) 2009**
+
+Which Act of British Government granted Rs. One
+
+lakh for education in India for the first time?
+
+- (a) Wood’s Dispatch, 1854
+
+- (b) Charter Act, 1813
+
+- (c) Charter Act, 1853
+
+- (d) Indian Council Act, 1892
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Charter Act of 1813, was an Act of the Parliament of
+
+the United Kingdom that renewed the charter issued to the
+
+British East India Company and continued the Company’s
+
+rule in India. However, the company’s commercial
+
+monopoly was ended except for the tea trade and the
+
+trade with China. This Act allotted Rs 100,000 to promote
+
+education among the Indian masses for the first time.
+
+</details>
+
+---
+
+**Q-GC-EDU-10. I.A.S. (Pre) 2018**
+
+Regarding Wood’s Despatch, which of the following
+
+statements are true?
+
+1. Grants-in-Aid system was introduced.
+
+2. Establishment of universities was recommended.
+
+3. English as a medium of instruction at all levels of
+
+education was recommended.
+
+Select the correct answer using the code given below:
+
+- (a) 1 and 2 only
+
+- (b) 2 and 3 only
+
+- (c) 1 and 3 only
+
+- (d) 1 , 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Charles Wood Despatch (1854) introduced the grants-inaid system. It also recommended the establishment of a
+
+University in Calcutta, Madras and Bombay on the pattern
+
+of London University.
+
+</details>
+
+---
+
+**Q-GC-EDU-11. 69th B.P.S.C. (Pre) 2023**
+
+Consider the following statements regarding Wood's
+
+Despatch of 1854 :
+
+1. It recommended English as the medium of
+
+instruction for higher studies.
+
+2. It laid stress on female education and vocational
+
+training.
+
+Which of the above statements is/are correct?
+
+- (a) Only 1
+
+- (b) Only 2
+
+- (c) Both 1 and 2
+
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Wood's Despatch was issued on 19 July, 1854 by Sir
+
+Charles Wood as the President of the Board of Control. It
+
+recommended English as the medium of instruction for higher
+
+studies and also emphasised the government should support
+
+female education and vocational training.
+
+</details>
+
+---
+
+**Q-GC-EDU-12. M.P.P.C.S. (Pre) 2015**
+
+Charles Wood’s Despatch was related to which of the
+
+following?
+
+- (a) Education
+
+- (b) Trade
+
+- (c) Administrative Reforms
+
+- (d) Military Reforms
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In the 1853 A.D. renewal of the Charter Act, it was realized
+
+that a systematic pattern of education was necessary for India.
+
+As a result, the Wood’s Despatch was issued on 19 July, 1854
+
+A.D. by Sir Charles Wood as the President of the Board of
+
+Control. Wood's Despatch of 1854 AD is also called Magna
+
+Carta of Indian education system.
+
+He recommended therein :
+
+1. An education department is to be set up in every
+
+province.
+
+2. Universities on the model of the London University to
+
+be established in big cities such as Bombay, Calcutta,
+
+and Madras.
+
+3. At least one Government school should be opened in
+
+every district.
+
+4. Affiliated private schools should be given a grant.
+
+5. The Indian natives should also be given training in their
+
+mother tongue.
+
+6. The provision was made for a systematic method of
+
+education from the primary level to the university level.
+
+7. The Government should support education for women.
+
+</details>
+
+---
+
+**Q-GC-EDU-13. Uttarakhand P.C.S. (Pre) 2024**
+
+Which is referred to as the 'Magna Carta' of the British
+
+education system in India?
+
+- (a) Macaulay's Minute, February 2, 1835
+
+- (b) Wood's Despatch on Education, 1854
+
+- (c) Hunter Commission on Education, 1882-83
+
+- (d) Hartog Committee, 1929
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-EDU-14. U.P.P.C.S. (Pre) 2004 / U.P. Lower Sub. (Pre) 2004**
+
+In the Hunter Commission report, special emphasis
+
+was laid on the development of:
+
+- (a) Girls education
+
+- (b) Higher education
+
+- (c) Primary education
+
+- (d) Technical education
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Hunter Commission was founded under W.W. Hunter in 1882
+
+A.D. to review the educational development after 1854 A.D.
+
+This Commission recommended the development of primary
+
+education. It was constituted by Lord Ripon. The Commission
+
+recommended for vocational training in secondary education
+
+and brought out the inadequate facilities available for female
+
+education in the country. The recommendations were partially
+
+implemented.
+
+</details>
+
+---
+
+**Q-GC-EDU-15. Jharkhand P.C.S. (Pre.) 2021**
+
+Who have appointed First Indian Education
+
+Commission and in which year?
+
+- (a) Lord Ripon in 1882
+
+- (b) Lord William Wedderburn in 1885
+
+- (c) Lord Curzon in 1905
+
+- (d) Lord Lytton in 1880
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-EDU-16. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+When was the National Council of Education
+
+established?
+
+- (a) 15th August, 1903
+
+- (b) 15th August, 1904
+
+- (c) 15th August, 1905
+
+- (d) 15th August, 1906
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The citizens of Rangpur held a conference on 16
+
+November,1905 A.D. In 1905 AD the Rangpur National
+
+School was started with the objective of imparting indigenous
+
+education both general and technical to Indians. The birth of
+
+the National school sparked off the movement culminating
+
+in the formation of the National Council of Education (NCE)
+
+Bengal on 15th August, 1906.
+
+</details>
+
+---
+
+**Q-GC-EDU-17. U.P. Lower Sub. (Spl) (Pre) 2010**
+
+Sadler Commission was related to:
+
+- (a) Judiciary
+
+- (b) Revenue Administration
+
+- (c) Education
+
+- (d) Police Administration
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Sadler Commission was related to education. In 1917,
+
+the British Government appointed a commission to study
+
+and report on the problems of Calcutta University. Dr. M.E.
+
+Sadler, Vice-Chancellor of the University of Leeds, was
+
+appointed its Chairman. The Commission included two
+
+Indian members, namely Sir Ashutosh Mukherjee and Dr.
+
+Zia-ud-din Ahmad. The Sadler Commission held the view
+
+that the improvement of secondary education was a necessary
+
+condition for the improvement of University education. It
+
+strongly criticized the University Act, 1904 and reported
+
+that there was no proper coordination between colleges and
+
+universities.
+
+</details>
+
+---
+
+**Q-GC-EDU-18. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+When did the British Government appoint Sadler
+
+University Commission for reforms in education :
+
+- (a) 1919
+
+- (b) 1917
+
+- (c) 1921
+
+- (d) 1896
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-EDU-19. 66th B.P.S.C. (Pre) (Re-Exam) 2020**
+
+In 1902, Lord Curzon appointed the University
+
+Commission including two Indian members. Who were
+
+they?
+
+- (a) Bal Gangadhar Tilak and Surendranath Banerjee
+
+- (b) Gopal Krishna Gokhale and Rashbehari Bose
+
+- (c) Syed Hussain Bilgrami and Surendranath Banerjee
+
+- (d) Syed Hussain Bilgrami and Justice Gurudas
+
+Banerjee
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Viceroy Lord Curzon constituted a University Commission
+
+under the chairmanship of Sir Thomas Raley in 1902 for
+
+the educational reforms. Indian members appointed to
+
+the Commission were Syed Hussain Bilgrami and Justice
+
+Gurudas Banerjee and based on these suggestions the
+
+'University Act 1904' was passed.
+
+</details>
+
+---
+
+**Q-GC-EDU-20. U.P.P.C.S. (Pre) 2007**
+
+Lord Macaulay was related to:
+
+- (a) Military reforms
+
+- (b) Abolishment of Sati
+
+- (c) English education
+
+- (d) Permanent settlement
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+William Bentinck appointed a committee headed by Lord
+
+Macaulay to make recommendations for the promotion of
+
+education in India. In his report, Macaulay emphasized the
+
+promotion of European literature and science through English
+
+medium among the people of India. This recommendation
+
+was wholeheartedly accepted by William Bentinck. The
+
+Government Resolution of 1835 made English the official
+
+and literary language of India.
+
+</details>
+
+---
+
+**Q-GC-EDU-21. R.A.S./R.T.S.(Pre) 2013**
+
+During India’s colonial period, the theory of downward
+
+filtration was related to:
+
+- (a) Railways
+
+- (b) Education
+
+- (c) Irrigation
+
+- (d) Poverty alleviation
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+‘Downward Filtration Theory’ was related to educational
+
+upliftment during India’s colonial period. The filtration theory
+
+in education meant the flow of education or knowledge from
+
+top to bottom, i.e., from the higher class people to the lower
+
+classes or the general public. Lord Macaulay explained his
+
+point of view by stating that the purpose of the company
+
+was only to educate the elite group which would educate
+
+the general public later-thus fulfilling the goal of educating
+
+the masses in general.
+
+</details>
+
+---
+
+**Q-GC-EDU-22. U.P. Lower Sub. (Pre) 2013**
+
+The propounder of “Filtration Theory” in India’s
+
+education policy was :
+
+- (a) Charles Wood
+
+- (b) Macaulay
+
+- (c) J.S. Mill
+
+- (d) Cornwallis
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-EDU-23. I.A.S. (Pre) 1993**
+
+The foundation of the modern educational system in
+
+India was laid by:
+
+- (a) The Charter Act of 1813
+
+- (b) Macaulay’s Minutes of 1835
+
+- (c) The Hunter Commission of 1882
+
+- (d) Woods Despatch of 1854
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The foundation of the modern educational system in India
+
+was laid by Macaulay’s Minutes of 1835 A.D. (Issued on 2
+
+February, 1835) In that minute, he commented on Sanskrit
+
+or Arabic by saying that “a single shelf of a good European
+
+library was worth the whole literature of India and Arabia.”.
+
+Macaulay thus suggested making English the language
+
+of higher education in India with Western literature as
+
+the subject of study. Bentinck accepted his suggestion.
+
+Accordingly, on 7th March, 1835 A.D., a resolution passed
+
+by the Government declared: “His Lordship is of the opinion
+
+that the great object of the British Government ought to be
+
+the promotion of European literature and science amongst
+
+the natives of India and that all the funds appropriated
+
+for the purpose of education would be best employed on
+
+English education alone.” Bentinck’s Resolution opened a
+
+new chapter in the history of Indian education. It was at that
+
+time that Western education began to spread rapidly in India.
+
+</details>
+
+---
+
+**Q-GC-EDU-24. 70th B.P.S.C. Re-Exam 2024**
+
+When did Macaulay issue his famous minute on Indian Education?
+
+- (a) 12 February 1835
+
+- (b) 12 February 1836
+
+- (c) 02 February 1835
+
+- (d) 01 February 1835
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-EDU-25. I.A.S. (Pre) 2018**
+
+Which of the following led to the introduction of
+
+English Education in India?
+
+1. Charter Act of 1813
+
+2. General Committee of Public Instruction, 1823
+
+3. Orientalist and Anglicist Controversy
+
+Select the correct answer using the code given below:
+
+- (a) 1 and 2 only
+
+- (b) 2 only
+
+- (c) 1 and 3 only
+
+- (d) 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In 1823 A.D. the governor-general in council appointed a
+
+General Committee of Public Instructions, which had the
+
+responsibility to grant one lakh rupees for education. The
+
+committee consisted of 10 members, with Lord Macaulay as
+
+the President. Interestingly, during that time, there was a rapid
+
+change in attitude towards the composition of English 
+
+
+
+
+
+
+education mainly due to the missionaries and the political
+
+influence of the English language. Thus, for the council of
+
+East India Company, the decision to grant money faced a
+
+greater problem. The controversy went on for 12 years. Even
+
+the General Committee of Public Instruction was also not
+
+able to decide the medium of instruction by vote, because
+
+out of 10 members, five were supporters of English language
+
+or Anglicists as the medium of instruction and the rest were
+
+supporters of the Classic language or Orientalists as a medium
+
+of instruction. This is the famous Anglicist and Orientalist
+
+controversy.
+
+As the President of the General Committee of Public
+
+Instruction, Lord Macaulay wrote a minute (detailed) where he
+
+made the conclusion regarding the controversy. By introducing
+
+the English language for the education of masses, Macaulay’s
+
+opinion was that the public mind of India might expand under
+
+the English system and through the English language it may
+
+educate the people into a capacity for better government.
+
+</details>
+
+---
+
+**Q-GC-EDU-26. U.P.P.C.S. (Mains) 2011**
+
+In whose reign was English Education introduced in
+
+India?
+
+- (a) Lord William Cavendish Bentinck
+
+- (b) Lord Hardinge
+
+- (c) Lord Minto
+
+- (d) Lord Dalhousie
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-EDU-27. R.A.S./R.T.S.(Pre) 2010**
+
+The first three universities in India (Calcutta, Madras,
+
+and Bombay ) were established in which year?
+
+- (a) 1857
+
+- (b) 1881
+
+- (c) 1885
+
+- (d) 1905
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Magna Carta of the Indian education system, which
+
+was laid down in the Despatch of Charles Wood, 1854,
+
+established three Universities at Calcutta, Madras, and
+
+Bombay respectively on the model of London University in
+
+the year 1857 A.D.
+
+</details>
+
+---
+
+**Q-GC-EDU-28. U.P. P.S.C. (GIC) 2010 / U.P. U.D.A./L.D.A. (Pre) 2006 / U.P. P.C.S. (Mains) 2002**
+
+The establishment of the first Women’s University in
+
+Mumbai was the result of the effort of
+
+- (a) Dayaram Gindumal
+
+- (b) D.K. Karve
+
+- (c) M.G. Ranade
+
+- (d) Ramabai
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Prof. Dhondo Keshav Karve was an Indian Social reformer
+
+noted for supporting the causes of widow remarriage and
+
+women’s education. He founded the widow remarriage
+
+association. In 1896, he opened a Home for widows (NowKarve Stree Sikshan Samstha) in Poona with the object of
+
+giving high-caste widows an interest in life by providing them
+
+jobs and making them self-supporting. He set up an Indian
+
+Women’s University at Bombay in 1916. He was awarded
+
+India’s highest honour, the Bharat Ratna in 1958.
+
+</details>
+
+---
+
+**Q-GC-EDU-29. U.P.P.C.S. (Pre) 2013 / U.P. U.D.A./L.D.A. (Spl) (Pre) 2010**
+
+Who was associated with the formation of the Deccan
+
+Educational Society?
+
+- (a) Justice Ranade
+
+- (b) Firoz Shah Mehta
+
+- (c) B.G. Tilak
+
+- (d) Dayananda Saraswati
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Deccan Education Society (Formerly known-New English
+
+School) was established in 1884. It was formed by Lokmanya
+
+Bal Gangadhar Tilak, Gopal Ganesh Agarkar, V.K.
+
+Chiplunkar, Mahadev Ballal Namjoshi etc. Justice Ranade
+
+was not among its founder, rather he was one of the five
+
+patron of the society.
+
+</details>
+
+---
+
+**Q-GC-EDU-30. U.P.R.O. / A.R.O. (Mains) 2016**
+
+Muhammdan Anglo-Oriental College, Aligarh was
+
+founded in which of the following years?
+
+- (a) 1876
+
+- (b) 1891
+
+- (c) 1875
+
+- (d) 1874
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Sir Syed Ahmad Khan established Muhammadan AngloOriental College as Madarsatul Uloom Musalmanan-iHind in 1875 A.D. In 1877 A.D. its name was changed to
+
+Muhammadan Anglo-Oriental College which in 1920 A.D.
+
+became Aligarh Muslim University. Since Madarsatul Uloom
+
+Musalmanan-i-Hind (name changed to Muhammadan AngloOriental College in 1877 A.D.) was established in 1875 A.D.
+
+Hence, establishment year of Muhammadan Anglo-Oriental
+
+College is taken as 1875 A.D. only.
+
+</details>
+
+---
+
+**Q-GC-EDU-31. U.P.P.C.S. (Pre) 2012**
+
+Which of the following was established first?
+
+- (a) Hindu College, Calcutta
+
+- (b) Delhi College
+
+- (c) Mayo College
+
+- (d) Muslim-Anglo Oriental College
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Raja Ram Mohan Roy was one of the greatest initial promoters
+
+of modern education. He established the famous Hindu College
+
+in Calcutta with the cooperation of David Hare and Alexander
+
+Duff in 1817. Mayo College was established in Ajmer in 1875;
+
+Delhi College was founded in 1824.
+
+</details>
+
+---
+
+**Q-GC-EDU-32. I.A.S. (Pre) 2009**
+
+In collaboration with David Hare and Alexander Duff,
+
+who of the following established Hindu College at
+
+Calcutta?
+
+- (a) Henry Louis Vivian Derozio
+
+- (b) Ishwar Chandra Vidyasagar
+
+- (c) Keshab Chandra Sen
+
+- (d) Raja Ram Mohan Roy
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-EDU-33. U.P.R.O. / A.R.O. (Mains) 2021**
+
+Famous Hindu College was established by David Hare
+
+in 1817 at -
+
+- (a) Agra
+
+- (b) Calcutta
+
+- (c) Patna
+
+- (d) Varanasi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-EDU-34. Uttarakhand P.C.S. (Pre) 2024**
+
+What was the initial objective of the 'Aligarh
+
+Movement'?
+
+- (a) Emphasizing reforms in traditional Muslim education.
+
+- (b) Establishing a Muslim state in India based on religion.
+
+- (c) Promoting Western scientific education among Indian
+
+Muslims.
+
+- (d) Strengthening Hindu-Muslim unity against the British.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Aligarh Movement, led by Sir Syed Ahmad Khan in
+
+the late 19th century, aimed to promote modern education
+
+among Indian Muslims. It emphasized scientific and Western
+
+learning while preserving Islamic values. The movement
+
+sought socio-political upliftment, fostering a progressive
+
+Muslim identity and influencing later political developments,
+
+including the demand for separate representation.
+
+</details>
+
+---
+
+**Q-GC-EDU-35. I.A.S. (Pre) 2018**
+
+With reference to educational institutions during
+
+colonial rule in India, consider the following pairs -
+
+Institutions - Founder
+
+1. Sanskrit College at Benaras - William Jones
+
+2. Calcutta Madarsa - Warren Hastings
+
+3. Fort William College - Arthur Wellesley
+
+Which of the pairs given above is/are correct?
+
+- (a) 1 and 2
+
+- (b) 2 only
+
+- (c) 1 and 3
+
+- (d) 3 only
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Sanskrit College of Banaras was founded by Jonathan
+
+Duncan in 1791 AD. Warren Hastings started the Calcutta
+
+Madarsa in 1780 AD. Fort William College was founded
+
+by Richard Wellesley in 1800 AD. Thus, option (b) is the
+
+correct one.
+
+</details>
+
+---
+
+**Q-GC-EDU-36. I.A.S. (Pre) 2020**
+
+Wellesley established the Fort William College at Calcutta because :
+
+- (a) he was asked by the Board of Directors at London to
+
+do so
+
+- (b) he wanted to revive interest in oriental learning in
+
+India
+
+- (c) he wanted to provide William Carey and his associates
+
+with employment
+
+- (d) he wanted to train and teach British civilians for administrative purpose in India
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Fort William College was founded on 10 July, 1800 in
+
+Kolkata by Wellesley. The purpose of establishing the college
+
+was to train and teach British civilians for administrative
+
+purposes in India.
+
+</details>
+
+---
+
+**Q-GC-EDU-37. 70th B.P.S.C. Re-Exam 2024**
+
+Fort William College at Calcutta was established in
+
+- (a) 1802 CE for historical research in Indian languages
+
+- (b) 1802 CE to understand Indian culture and tradition
+
+- (c) 1800 CE to train Indian civil servants
+
+- (d) 1800 CE to train civil servants in Indian languages
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Fort William College was established in Kolkata on July 10,
+
+1800 AD, by the then Governor-General of the East India
+
+Company, Lord Wellesley. The main objective of establishing
+
+this college was to train British civil servants in Persian and
+
+Hindustani languages for administrative purposes in India.
+
+</details>
+
+---
+
+**Q-GC-EDU-38. U.P.R.O./A.R.O. (Pre.) 2021**
+
+With reference to the Fort William College Calcutta.
+
+which of the statement/s is/are correct?
+
+1. It was founded on 10th June, 1800 A.D. within the
+
+Fort William Complex in Calcutta.
+
+2. The main purpose of establishing this college, was
+
+to teach Indian languages to British officers.
+
+Select the correct answer using the code given below :
+
+Code -
+
+- (a) Only 1
+
+- (b) Only 2
+
+- (c) Both 1 and 2
+
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-EDU-39. U.P.P.C.S. (Mains) 2005**
+
+Who one of the following had vigorously advocated for
+
+religious education in the Indian universities?
+
+- (a) Bal Gangadhar Tilak
+
+- (b) Swami Vivekanand
+
+- (c) Mahatma Gandhi
+
+- (d) Madan Mohan Malviya
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Madan Mohan Malviya was an Indian educationist and
+
+politician notable for his role in the Indian independence
+
+movement. He is known for vigorously advocating for
+
+religious education in the Indian universities. He founded
+
+Banaras Hindu University at Varanasi in 1916 A.D. Malviya
+
+was the Vice-Chancellor of B.H.U. from 1919 A.D. to 1939
+
+A.D. He published 'Hindustan', 'Indian Union', ‘Abhyudaya’
+
+‘Maryada’ and ‘The Leader.’
+
+</details>
+
+---
+
+**Q-GC-EDU-40. Uttarakhand P.C.S. (Pre) 2024**
+
+Who founded the Central Hindu School of Banaras,
+
+which later developed into Banaras Hindu University?
+
+- (a) Madam Cama
+
+- (b) Sarojini Naidu
+
+- (c) Annie Besant
+
+- (d) Sucheta Kripalani
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+‘Central Hindu School' (formerly Central Hindu College)
+
+was founded by Annie Besant on 7 July 1898 A.D. in
+
+Banaras (present name -Varanasi). This institute later
+
+became the centre of development of Banaras Hindu
+
+University. In the year 1916 A.D., Banaras Hindu University
+
+(BHU) was established with the cooperation of Annie Besant
+
+and the efforts of Madan Mohan Malviya, and in the year
+
+1917 A.D., this institute was included in the newly formed
+
+university. At present, this institute (Central Hindu School)
+
+functions as a constituent institute of BHU.
+
+</details>
+
+---
+
+**Q-GC-EDU-41. U.P.P.C.S. (Mains) 2003**
+
+Who among the following laid the foundation stone of
+
+Banaras Hindu University:
+
+- (a) Madan Mohan Malviya
+
+- (b) Maharaja Vibhuti Narain Singh
+
+- (c) Lord Hardinge
+
+- (d) Annie Besant
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Lord Harding II then Viceroy, laid the foundation stone of
+
+Banaras Hindu University on 4th February, 1916 A.D. on the
+
+occasion of Basant Panchami.
+
+</details>
+
+---
+
+**Q-GC-EDU-42. U.P.P.C.S. (Mains) 2011**
+
+Which one of the following was the first to be declared
+
+as Central University?
+
+- (a) Aligarh Muslim University, Aligarh
+
+- (b) Dr. Bhimrao Ambedkar University, Lucknow
+
+- (c) Banaras Hindu University of Varanasi
+
+- (d) University of Allahabad
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+As per the given options, Banaras Hindu University, founded
+
+by Madan Mohan Malviya in 1916 A.D., was the first Central
+
+University.
+
+</details>
+
+---
+
+
+
+## Complete PYQ Bank — Ghatnachakra Development of Press (72 Questions)
+
+Complete unabridged 72-question bank from the core Ghatna Chakra repository covering the complete history of journalism and press legislation in India: Portuguese 1556 Goa printing press, James Augustus Hicky's *Bengal Gazette* (1780), Wellesley's Censorship of Press Act (1799) & Hastings repeal (1818), Charles Metcalfe ("Liberator of Indian Press" 1835), Lord Lytton's Vernacular Press Act 1878 ("Gagging Act") & Lord Ripon's repeal 1882, Amrita Bazar Patrika overnight English conversion (Sisir & Motilal Ghosh), First Indian imprisoned for journalism (Bal Gangadhar Tilak 1882 & 1897), Raja Ram Mohan Roy's *Samvad Kaumudi* (1821) & *Mirat-ul-Akhbar* (1822), Devendranath Tagore & Manmohan Ghosh's *Indian Mirror* (1861), Ghadar Party weekly *Ghadar* (1913 San Francisco, Urdu & Gurumukhi), Tilak's *Kesari* & *Mahratta* (1881), Vidyasagar's *Som Prakash* (1858), Harish Chandra Mukherjee's *Hindoo Patriot* (1853), Mahatma Gandhi's South African *Indian Opinion* (1903) & Indian weeklies (*Young India*, *Navjeevan*, *Harijan* 1933 from Pune), Pt. Jugal Kishore Shukla's *Udant Martand* (1826 Calcutta, 1st Hindi newspaper), Dr. B.R. Ambedkar's *Bahishkrit Bharat* (1927) & *Mook Nayak*, Maulana Azad's *Al-Hilal* (1912) & *Al-Balagh* (1915), Lala Lajpat Rai's *Vande Mataram* & *The People*, Motilal Nehru's *The Independent*, Annie Besant's *New India* & *Commonweal*, Jawahar Lal Nehru & Rafi Ahmed Kidwai's *Qaumi Awaz* (1945), Madan Mohan Malaviya's *The Leader*, Shiv Prasad Gupta's *Dainik Aaj*, George Allen's *The Pioneer* (1865), and revolutionary journals (*Sandhya*, *Yugantar*, *Kaal*). Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC-PRESS-1. Jharkhand P.C.S. (Pre) 2021**
+
+Who have introduced the printing press in India and
+
+in which year?
+
+- (a) English East India Company in 1674
+
+- (b) Portuguese in 1556
+
+- (c) Spanish in 1680
+
+- (d) French in 1745
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Portuguese established the Printing Press for the first time in
+
+Asia in Goa in 1556 AD.
+
+</details>
+
+---
+
+**Q-GC-PRESS-2. U.P.P.C.S. (Spl) (Mains) 2004**
+
+The first newspaper in India was –
+
+- (a) Bengal Gazette
+
+- (b) Hindustan Times
+
+- (c) Pioneer
+
+- (d) Samvad Kaumudi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Bengal Gazette was an English newspaper published in
+
+Kolkata (then Calcutta), India. It was the first major newspaper
+
+in India, started in 1780 A.D. by James Augustus Hicky.
+
+</details>
+
+---
+
+**Q-GC-PRESS-3. U.P. U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+Which among the following was the first newspaper
+
+published in India?
+
+- (a) The Bengal Gazette
+
+- (b) The Calcutta Times
+
+- (c) Madras Courier
+
+- (d) Bombay Herald
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-PRESS-4. U.P. P.C.S. (Pre) 2001**
+
+Who among the following had primarily implemented
+
+the Press Censorship?
+
+- (a) Wellesley
+
+- (b) Hastings
+
+- (c) John Adams
+
+- (d) Dalhousie
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Many newspapers were published between 1766-1789. In
+
+1799 A.D. Lord Wellesley brought The Censorship of the
+
+Press Act, 1799. Lord Hastings abrogated the Act in 1818.
+
+</details>
+
+---
+
+**Q-GC-PRESS-5. I.A.S. (Pre) 2005 / 39th B.P.S.C. (Pre) 1994**
+
+Who among the following repealed the Vernacular
+
+Press Act of 1878?
+
+- (a) Lord Ripon
+
+- (b) Lord Lytton
+
+- (c) Lord Curzon
+
+- (d) Lord Minto
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Lord Lytton (1876-1880 A.D.) passed the Vernacular
+
+Press Act in 1878 A.D. By this Act, the Magistrates of the
+
+districts were empowered without the prior permission of
+
+the Government to call upon a publisher of any kind to enter
+
+into a bond, undertaking not to publish anything that might
+
+“rouse” feelings of disaffection against the Government. The
+
+magistrate was also authorized to deposit security, which
+
+could be confiscated if the publisher violated the bond. If a
+
+publisher repeated the violation, their press could be seized.
+
+Thus, the Vernacular Press Act of 1878 gagged the native
+
+language press. There was a popular protest against this Act.
+
+This Act was later repealed by Lord Ripon in 1882.
+
+</details>
+
+---
+
+**Q-GC-PRESS-6. 70th B.P.S.C. Re-Exam 2024**
+
+The Vernacular Press Act allowed
+
+- (a) Confiscation of the assets of the newspaper if the
+
+newspapers published anything that was found objectionable
+
+- (b) Confiscation of the printing press if the newspapers
+
+published anything that was not found to be objectionable
+
+- (c) Confiscation of the printing press and the newspapers
+
+published anything that was found objectionable
+
+- (d) More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-PRESS-7. U.P.P.C.S. (Mains) 2007**
+
+Who among the following introduced the Vernacular
+
+Press Act?
+
+- (a) Lord Lytton
+
+- (b) Lord Ripon
+
+- (c) Lord Curzon
+
+- (d) Lord Hastings
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-PRESS-8. U.P.P.C.S. (Mains) 2009**
+
+Under whose Governor-General ship was the
+
+Vernacular Act repealed?
+
+- (a) Lord Ripon
+
+- (b) Lord Lytton
+
+- (c) Lord Curzon
+
+- (d) Lord Dufferin
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-PRESS-9. 69th B.P.S.C. (Pre) 2023**
+
+Which of the following statements about the
+
+Vernacular Press Act is/are correct?
+
+1. It was enacted by Lord Lytton.
+
+2. It came to be known as a 'Gagging Act'.
+
+3. The act was repealed by Lord Ripon.
+
+Select the correct answer using the codes given below.
+
+- (a) Only 1 and 2
+
+- (b) Only 2 and 3
+
+- (c) Only 1
+
+- (d) 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-PRESS-10. M.P.P.C.S. (Pre) 2023**
+
+In which of the following year was the freedom of press
+
+given by Lord William Bentinck?
+
+- (a) 1832 A.D.
+
+- (b) 1833 A.D.
+
+- (c) 1834 A.D.
+
+- (d) 1835 A.D.
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+Governor General Lord William Bentinck has shown positive
+
+response toward press. To give freedom to press a bill was
+
+introduced in his tenure but when act was passed, at that time,
+
+Charles Metcalf was the acting Governor-General. In August,
+
+1835 during the tenure of Charles Metcalf, the Press act was
+
+enacted. Thus Metcalf was known as Liberator of Indian Press.
+
+</details>
+
+---
+
+**Q-GC-PRESS-11. U.P.P.C.S. (Pre) 1997**
+
+Who was the first Indian to go to jail in performance
+
+of his duty as a journalist?
+
+- (a) Bal Gangadhar Tilak
+
+- (b) Dadabhai Nauroji
+
+- (c) Motilal Ghosh
+
+- (d) Surendra Nath Banerjee
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The first Indian to go to jail for his duty as a journalist was
+
+Bal Gangadhar Tilak. In 1882 A.D., he was punished with
+
+four months' imprisonment as he strongly criticized the
+
+then Maharaj of Kolhapur. In 1897 A.D., he was rigorously
+
+imprisoned for 18 months for provoking Chapekar brothers to
+
+murder two English men through his writing. Some historians
+
+have mentioned that Surendra Nath Banerjee was the first
+
+Indian journalist to go to jail. However, he was jailed on 2
+
+April 1883 AD for his article in 'The Bangalee'.
+
+</details>
+
+---
+
+**Q-GC-PRESS-12. 39th B.P.S.C. (Pre) 1994**
+
+Who in America started to issue newspaper ‘Free
+
+Hindustan’?
+
+- (a) Ram Nath Puri
+
+- (b) G.D. Kumar
+
+- (c) Lala Hardayal
+
+- (d) Tarak Nath Das
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Tarak Nath Das started to publish the ‘The Free Hindustan’
+
+in America.
+
+</details>
+
+---
+
+**Q-GC-PRESS-13. U.P.P.C.S. (Pre) 2000**
+
+Persian Weekly ‘Miratul Akhbar’ was Published by:
+
+- (a) Lala Lajpat Rai
+
+- (b) Raja Ram Mohan Roy
+
+- (c) Sir Syed Ahmad Khan
+
+- (d) Maulana Shibli Nomani
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Raja Ram Mohan Roy, to promote and circulate his thoughts,
+
+published the ‘Samvad Kaumudi’ weekly newspaper in 1821
+
+A.D. and a Persian newspaper Mirat-ul-Akhbar in 1822 A.D.
+
+He knew English, Bengali, Persian, Arabic, Greek and Latin.
+
+But John Adams the then acting Governor-General banned the
+
+Indian press in 1823 A.D. and imposed a fine of 400 rupees
+
+and imprisonment on publication without a license. District
+
+Magistrate had the right to seize the publication house. As a
+
+result, Raja Ram Mohan Roy had to stop publishing Miratul-Akhbar.
+
+</details>
+
+---
+
+**Q-GC-PRESS-14. U.P. P.C.S. (Mains) 2007**
+
+From where the ‘Indian Mirror’ newspaper was
+
+published in 1880?
+
+- (a) Bombay
+
+- (b) Calcutta
+
+- (c) Madras
+
+- (d) Pondicherry
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The newspaper ‘Indian Mirror’ was published in Calcutta
+
+(Bengal). Devendra Nath Tagore and Manmohan Ghosh
+
+founded ‘Indian Mirror’ in 1861 A.D. Keshav Chandra Sen
+
+and Narendra Nath Sen were in its editorial department. It
+
+was a daily newspaper.
+
+</details>
+
+---
+
+**Q-GC-PRESS-15. U.P.P.C.S. (Mains) 2007**
+
+In which one of the following languages was the first
+
+issue of the Journal Gadar published?
+
+- (a) Urdu
+
+- (b) Hindi
+
+- (c) English
+
+- (d) Marathi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The first issue of the ‘Ghadar’ was published on November 1,
+
+1913 A.D. in Urdu on December 9, 1913 A.D. Its publication
+
+began in Gurumukhi script as well. It was also published in
+
+Marathi, Hindi, English and Gujarati. An issue of this was
+
+published in the Pashto language.
+
+</details>
+
+---
+
+**Q-GC-PRESS-16. U.P.P.C.S. (Mains) 2013**
+
+The journal ‘Gadar’ of Gadar Party was a :
+
+- (a) Monthly Journal
+
+- (b) Fortnightly Journal
+
+- (c) Weekly Journal
+
+- (d) Daily Journal
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In 1913 A.D., a growing number of migrants from India to
+
+Canada and the USA formed the Ghadar party (Hindustan
+
+Ghadar Party) in San Francisco, designed to organize an army
+
+to overthrow British colonial rule in India. Lala Hardayal,
+
+Sohan Singh Bhakna and Kartar Singh launched ‘Ghadar’
+
+of Ghadar Party in United States of America and Canada to
+
+free India from the British. The first issue of this publication
+
+was launched on November 1, 1913 A.D.
+
+</details>
+
+---
+
+**Q-GC-PRESS-17. 47th B.P.S.C. (Pre) 2005**
+
+Who founded the ‘Amrita Bazar Patrika’?
+
+- (a) Girish Chandra Ghosh
+
+- (b) Harish Chandra Mukherjee
+
+- (c) S.N. Banerjee
+
+- (d) Shishir Kumar Ghose
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Shishir Kumar Ghosh and Motilal Ghosh founded ‘Amrita
+
+Bazar Patrika’ in 1868 in Jessore district of Bangladesh (Later
+
+published from Kolkata). It was primarily published in the
+
+Bengali language. In 1878 A.D. it was converted overnight
+
+to English to avoid the Vernacular Press Act. Girish Chandra
+
+Ghosh started publishing ‘Bengalee’ in 1862 A.D. which
+
+was overtaken by S.N. Banerjee in 1879 A.D. ‘Hindoo
+
+Patriot’ was also started by Girish Chandra Ghosh. Later
+
+Harishchandra Mukherjee became its editor.
+
+</details>
+
+---
+
+**Q-GC-PRESS-18. Chhattisgarh P.C.S. (Pre) 2024**
+
+Which of the following Bangla newspapers underwent
+
+a rapid transformation, changing overnight into
+
+an English newspaper in order to circumvent the
+
+Vernacular Press Act of 1878?
+
+- (a) Yugantar Patrika
+
+- (b) Anand Bazaar Patrika
+
+- (c) Samachar Darpan
+
+- (d) Amrit Bazaar Patrika
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-PRESS-19. Uttarakhand P.C.S. (Pre) 2010 / M.P.P.C.S. (Pre) 2008 / U.P. P.C.S. (Pre) 1990**
+
+Which newspaper was started by Lokmanya Bal
+
+Gangadhar Tilak to serve the cause of India’s freedom
+
+struggle?
+
+- (a) Gadar
+
+- (b) Kesari
+
+- (c) Free Hindustan
+
+- (d) Swadesh Mitra
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+In 1881 A.D., two main newspapers ‘Kesari’ and ‘Mahratta’
+
+were started in Mumbai. Tilak made Kesari as his newspaper
+
+of Home Rule movement which was published in the
+
+Marathi language. Mahratta was published in English. In
+
+the beginning Gopal Ganesh Agarkar was the editor of
+
+‘Kesari’ and Mahratta, but later, both were published by Bal
+
+Gangadhar Tilak.
+
+</details>
+
+---
+
+**Q-GC-PRESS-20. U.P.P.C.S. (Mains) 2011**
+
+Which one of the popular magazines of the revolutionary
+
+period criticized the Congress for various reasons?
+
+- (a) Bangawasi
+
+- (b) Kaal
+
+- (c) Kesari
+
+- (d) All of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+‘Bangawasi’, ‘Kaal’, and ‘Kesari’ were the popular
+
+newspaper of the revolutionary period which criticized
+
+Congress for its liberal policies.
+
+</details>
+
+---
+
+**Q-GC-PRESS-21. U.P. Lower Sub. (Pre) 2008**
+
+Which of the following newspapers advocated
+
+revolutionary terrorism during the period of the Indian
+
+freedom struggle ?’
+
+1. Sandhya 2. Yugantar
+
+3. Kaal
+
+Choose the correct answer from the code given
+
+below:
+
+Code :
+
+- (a) 1, 2
+
+- (b) 1, 3
+
+- (c) 2, 3
+
+- (d) 1, 2, 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+‘Sandhya,’ ‘Yugantar’ and ‘Kaal’ were the newspapers which
+
+advocated revolutionary actions during the period of Indian
+
+freedom struggle.
+
+</details>
+
+---
+
+**Q-GC-PRESS-22. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Which journal was not associated with revolutionary
+
+activities?
+
+- (a) Sandhya
+
+- (b) Yugantar
+
+- (c) Gadar
+
+- (d) Young India
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Young India was not associated with revolutionary activities.
+
+Young India was a weekly journal/magazine published by
+
+Mahatma Gandhi. He used Young India to spread his unique
+
+ideology and thoughts regarding the use of non-violence.
+
+Ghadar was a weekly newspaper published by a revolutionary
+
+group (Ghadar Party) with its headquarters in San- Francisco.
+
+The newspapers and journals advocating revolutionary
+
+terrorism included Sandhya and Yugantar in Bengal, and
+
+Kaal in Maharashtra.
+
+</details>
+
+---
+
+**Q-GC-PRESS-23. I.A.S. (Pre) 2007**
+
+Who among the following started the newspaper ‘Som
+
+Prakash’?
+
+- (a) Dayanand Saraswati
+
+- (b) Ishwar Chandra Vidyasagar
+
+- (c) Raja Rammohan Roy
+
+- (d) Surendranath Banerjee
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Bengali weekly ‘Som Prakash’ was published by Ishwar
+
+Chandra Vidyasagar in 1858. This newspaper supported the
+
+welfare of farmers during the Indigo movement.
+
+</details>
+
+---
+
+**Q-GC-PRESS-24. 47th B.P.S.C. (Pre) 2005**
+
+Which of the following papers was essentially the
+
+mouthpiece of the policies of liberals?
+
+- (a) New India
+
+- (b) Leader
+
+- (c) Young India
+
+- (d) Free Press Journal
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+‘The Free Press Journal’ is an English-language daily
+
+newspaper. Young India was published by M.K. Gandhi.
+
+Liberals used to preach their policies through a newspaper
+
+named ‘Leader.’ New India was published by Annie Besant.
+
+</details>
+
+---
+
+**Q-GC-PRESS-25. U.P.P.C.S. (Pre) 2014**
+
+The first editor of the journal ‘Indian Opinion’ was :
+
+- (a) M.K. Gandhi
+
+- (b) Albert West
+
+- (c) Mahadev Desai
+
+- (d) Mansukhal Nazar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+'Indian Opinion' was a newspaper published by Mahatma
+
+Gandhi from South Africa in 1903 A.D. Mansukh Lal was
+
+the first editor of this newspaper and the Secretary of the
+
+Natal Congress. This newspaper was published in Gujarati,
+
+Tamil, Hindi and English.
+
+</details>
+
+---
+
+**Q-GC-PRESS-26. Chhattisgarh P.S.C. (Pre) 2018**
+
+What was the name of the newspaper published by
+
+Mahatma Gandhi in South Africa?
+
+- (a) The Indian Opinion
+
+- (b) National Herald
+
+- (c) Leader
+
+- (d) The Pioneer
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-PRESS-27. U.P.P.C.S. (Pre) 2005**
+
+Which one of the following was not the language in
+
+which ‘Indian Opinion’ paper was published?
+
+- (a) English
+
+- (b) Gujarati
+
+- (c) Tamil
+
+- (d) Urdu
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Mahatma Gandhi published the newspaper ‘Indian Opinion’
+
+from South Africa. It was published in Gujarati, Hindi, Tamil
+
+and English language.
+
+</details>
+
+---
+
+**Q-GC-PRESS-28. U.P. Lower Sub. (Pre) 2003**
+
+The ‘Young India’ was started as a weekly by:
+
+- (a) The Home Rule Party
+
+- (b) The Extremist Party
+
+- (c) Gadar Party
+
+- (d) Swaraj Party
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+‘Young India’ was published bi-weekly from Bombay from
+
+7 May 1919 A.D. From 8th October, 1919 A.D. It began to be
+
+published weekly from Ahmedabad. Jamanadas Dwarkadas
+
+and Shankar Lal Banker were the editors of an early version of
+
+this paper. Mahatma Gandhi became its editor on 8th October,
+
+1919 A.D. Jamanadas and Shankar Lal Banker were the
+
+members of the Home Rule League launched by Annie Besant.
+
+</details>
+
+---
+
+**Q-GC-PRESS-29. U.P.P.C.S. (Mains) 2016**
+
+The first Hindi newspaper ‘Udant Martand’ (30th May,
+
+1826) was published from –
+
+- (a) Kolkata
+
+- (b) Patna
+
+- (c) Allahabad
+
+- (d) Lucknow
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The first Hindi newspaper ‘Udant Martand’ (30th May, 1826
+
+A.D.) was published in Calcutta (Kolkata). It was published
+
+on every Tuesday by Pt. Jugal Kishore Shukla.
+
+</details>
+
+---
+
+**Q-GC-PRESS-30. U.P.P.C.S. (Mains) 2006**
+
+The first newspaper published by the Indians in the
+
+English language was:
+
+- (a) Hindoo Patriot
+
+- (b) The Hindu
+
+- (c) Young India
+
+- (d) Native Opinion
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+‘Hindoo Patriot’ was the first newspaper published by Indians
+
+in English, published in 1853. Girish Chandra Ghosh (1853-
+
+55) was the first editor of this newspaper. Harish Chandra
+
+Mukherjee (1855-61) and Kristo Das Pal (1861-1884) were its
+
+editors in the later period who were helped by Madan Mohan
+
+Ghosh and Dwarka Nath Tagore. Surendra Nath Banerjee was
+
+its editor during 1874-75 in London and 1878 in Delhi.
+
+</details>
+
+---
+
+**Q-GC-PRESS-31. U.P.P.S.C. (GIC) 2010 / U.P.P.C.S. (Pre) 1998**
+
+The editor of the ‘Hindoo Patriot’ who strongly
+
+supported the Indigo Movement was :
+
+- (a) Hem Chandrakar
+
+- (b) Harish Chandra Mukherjee
+
+- (c) Dinbandhu Mitra
+
+- (d) Digambar Biswas
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The special feature of the Indigo Movement was that
+
+intellectuals also played an active role in this movement and
+
+launched a strong campaign in support of struggling farmers.
+
+The Indigo Revolt was a peasant movement and subsequent
+
+uprising of indigo farmers against the indigo planters that
+
+arose in Bengal. Girish Chandra Ghosh was the editor of
+
+‘Hindoo Patriot’ in the first two years (1853-55 A.D.) He also
+
+worked for the Indigo Movement. Harish Chandra Mukherjee
+
+became its editor in 1855 A.D. He bravely helped farmers
+
+exploited by orchard owners. In 1861 A.D. Kristo Das Pal
+
+became editor. He was an admirer of British governance
+
+and formulated British liberalism. Hindoo Patriot started
+
+representing interests of high-class Bengali landowners
+
+under his influence.
+
+</details>
+
+---
+
+**Q-GC-PRESS-32. U.P. P.C.S. (Pre) 1996**
+
+Who affiliated himself with the English Journal ‘Vande
+
+Matram’?
+
+- (a) Arbind Ghosh
+
+- (b) M. G. Ranade
+
+- (c) S. C. Bose
+
+- (d) Lokmanya Tilak
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Arbind Ghosh affiliated himself with the English weekly
+
+newspaper ‘Vandematram’.
+
+</details>
+
+---
+
+**Q-GC-PRESS-33. 45th B.P.S.C. (Pre) 2001**
+
+Which of the following newspapers used to be published
+
+from Patna?
+
+- (a) Indian Nation
+
+- (b) Punjab Kesari
+
+- (c) Prabhakar
+
+- (d) Dawn
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The King of Darbhanga Kameshwar Singh founded ‘The
+
+Indian Nation’ published in Patna in 1931 A.D.
+
+</details>
+
+---
+
+**Q-GC-PRESS-34. U.P.P.C.S. (Pre) 2005**
+
+The ‘Swadesh Vahini’ was edited by –
+
+- (a) C.V. Raman Pillai
+
+- (b) C.N. Mudaliar
+
+- (c) K. Ram Krishna Pillai
+
+- (d) C.R. Reddy
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Ramakrishna Pillai was the editor of ‘Swadeshabhimani.’ He
+
+was born in 1878 in a Nair family in Neyyattinkara in then
+
+Travancore state. The question mentions 'Swadesh Vahini',
+
+which is incorrect.
+
+</details>
+
+---
+
+**Q-GC-PRESS-35. U.P.P.C.S. (Mains) 2012**
+
+The English newspaper ‘Independent’ was associated to-
+
+- (a) Mahatma Gandhi
+
+- (b) C.R. Das
+
+- (c) Jawahar Lal Nehru
+
+- (d) Motilal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Motilal Nehru started the English newspaper, ‘The
+
+Independent’ demanding self-rule for India.
+
+</details>
+
+---
+
+**Q-GC-PRESS-36. U.P.R.O./A.R.O. (Mains) 2013 / U.P.P.C.S. (Pre) 2012**
+
+Match List-I with List-II and select the correct answer
+
+by using codes given below.
+
+List-I 		 List-II
+
+(News Paper)		(Language)
+
+A. Bharat Mitra 1. Bengali
+
+B. Rastra Mata 2. Gujarati
+
+C. Prajamitra 3. Hindi
+
+D. Nayak 4. Marathi
+
+Code :
+
+A B C D
+
+- (a) 1 2 4 3
+
+- (b) 2 3 1 4
+
+- (c) 3 4 2 1
+
+- (d) 4 1 3 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Motilal Nehru started the English newspaper, ‘The
+
+Independent’ demanding self-rule for India.
+
+The correctly matched newspapers and their respective
+
+languages are as follows :
+
+(News papers) (Language)
+
+Bharat Mitra - Hindi
+
+Rastra Mata - Marathi
+
+Prajamitra - Gujarati
+
+Nayak - Bengali
+
+</details>
+
+---
+
+**Q-GC-PRESS-37. U.P.P.C.S. (Mains) 2010**
+
+Match List-I with List-II and select the correct answer
+
+by using the codes given below the lists :
+
+List-I List-II
+
+(Newspaper) (Founder)
+
+A. Dainik Aaj 1. George Allen
+
+B. The Leader 2. Jawahar Lal Nehru
+
+C. The National Herald 3. Madan Mohan Malviya
+
+D. The Pioneer 4. Shiv Prasad Gupta
+
+Code :
+
+A B C D
+
+- (a) 4 3 2 1
+
+- (b) 4 1 3 2
+
+- (c) 2 3 4 1
+
+- (d) 1 4 2 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched newspapers and their respective
+
+founders are as follows :
+
+(Newspaper) (Founder)
+
+Dainik Aaj - Shiv Prasad Gupta
+
+The Leader - Madan Mohan Malviya
+
+The National Herald - Jawahar Lal Nehru
+
+The Pioneer - George Allen
+
+</details>
+
+---
+
+**Q-GC-PRESS-38. R.A.S./R.T.S. (Pre) 1996**
+
+Through which newspaper published from Kanpur,
+
+Vijay Singh Pathik made the Bijoliya movement the
+
+subject of discussion in India.
+
+- (a) Kesari
+
+- (b) Pratap
+
+- (c) Maratha
+
+- (d) Majusha
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The first Peasant Movement in Rajasthan took place in a large
+
+estate of Bijoliya in the Princely state of Mewar (Udaipur).
+
+Various types of Lagans imposed on farmers resulted in the
+
+movement. It was headed by Sadhu Sitaram Das in 1913 and
+
+after Vijay Singh Pathik. Vijay Singh Pathik propagated the
+
+movement through ‘Pratap’ published by Ganesh Shankar
+
+Vidyarthi and made it a subject of discussion in India.
+
+</details>
+
+---
+
+**Q-GC-PRESS-39. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+‘Harijan’ was started by –
+
+- (a) Tilak
+
+- (b) Gokhale
+
+- (c) Gandhiji
+
+- (d) Naoroji
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Gandhiji started ‘Harijan’ in English, ‘Harijan Bandhu’ in
+
+Gujarati and ‘Harijan Sevak’ in Hindi as a weekly newspaper.
+
+</details>
+
+---
+
+**Q-GC-PRESS-40. Jharkhand P.C.S. (Pre) 2023**
+
+With which of the following newspapers was Gandhiji
+
+not associated?
+
+- (a) Young India
+
+- (b) Indian Mirror
+
+- (c) Harijan
+
+- (d) Indian Opinion
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+'The Indian Mirror' newspaper was edited and published by
+
+Manmohan Ghosh and Devendranath Tagore. Whereas the
+
+editor of newspaper Young India, Harijan and Indian Opinion
+
+was Mahatma Gandhi.
+
+</details>
+
+---
+
+**Q-GC-PRESS-41. U.P. Lower Sub. (Mains) 2013**
+
+The first issue of a weekly paper ‘Harijan’ started by
+
+Gandhiji was published on February 11, 1933 from
+
+which of the following cities?
+
+- (a) Bombay (now Mumbai)
+
+- (b) Ahmedabad
+
+- (c) Poona (now Pune)
+
+- (d) Nasik
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The first issue of the weekly newspaper ‘Harijan’ started by
+
+Gandhi was published on February 11, 1933 from Pune in
+
+Maharashtra.
+
+</details>
+
+---
+
+**Q-GC-PRESS-42. U.P.P.C.S. (Pre) 2004**
+
+The Marathi fortnightly ‘Bahishkrit Bharat’ was
+
+started by:
+
+- (a) Bal Gangadhar Tilak
+
+- (b) B.R. Ambedkar
+
+- (c) V.D. Savarkar
+
+- (d) Gopal Krishna Gokhale
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+On 20 July 1924 A.D., Dr. Bhimrao Ambedkar founded an
+
+institution called ‘Bahishkrit Hitkarini Sabha’ in Bombay
+
+with the purpose of moral the and materialistic development
+
+of untouchables. He started the Marathi fortnightly
+
+‘Bahishkrit Bharat.’
+
+</details>
+
+---
+
+**Q-GC-PRESS-43. U.P. P.C.S. (Pre) 1991**
+
+...... was related to Bahishkrit Bharat –
+
+- (a) Atmaram Pandurang
+
+- (b) Jyotiba Phule
+
+- (c) Bal Gangadhar Tilak
+
+- (d) B. R. Ambedkar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-PRESS-44. 67th B.P.S.C. (Pre) 2022**
+
+Who started the journal, Bahishkrita Bharat?
+
+- (a) Jyotiba Phule
+
+- (b) Karsandas Mulji
+
+- (c) Bal Gangadhar Tilak
+
+- (d) Baba Saheb Ambedkar
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-PRESS-45. I.A.S. (Pre), 2008 / Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+Which one of the following was a journal brought out
+
+by Abul Kalam Azad?
+
+- (a) Al-Hilal
+
+- (b) Comrade
+
+- (c) The Indian Sociologist
+
+- (d) Zamindar
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Abul Kalam Azad started publishing an Urdu weekly ‘AlHilal’ in 1912. In 1914 A.D. it was banned.
+
+</details>
+
+---
+
+**Q-GC-PRESS-46. 68th B.P.S.C. (Pre) 2022**
+
+Which one of the following was a journal brought out
+
+by Abul Kalam Azad?
+
+- (a) Zamindar
+
+- (b) The Comrade
+
+- (c) Al-Hilal
+
+- (d) More than one of the above
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Al-Hilal was a newspaper brought out by Abul Kalam Azad.
+
+It was used as medium for criticising various oppressive
+
+policies of British Raj in India. The paper was shut down
+
+in 1914 A.D.
+
+</details>
+
+---
+
+**Q-GC-PRESS-47. U.P. Lower Sub. (Spl) (Pre) 2008**
+
+Which Urdu newspaper was started by Lajpat Rai
+
+from Lahore in 1920?
+
+- (a) Vande Matram
+
+- (b) People
+
+- (c) Tribune
+
+- (d) Vir Arjun
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Lala Lajpat Rai launched an Urdu daily ‘Vande Matram’
+
+and an English weekly ‘The People’ from Lahore. He earlier
+
+published ‘Young India’ in the United States of America.
+
+</details>
+
+---
+
+**Q-GC-PRESS-48. U.P. Lower Sub. (Pre) 2003 / U.P. Lower Sub. (Pre) 2002**
+
+Match List-I with List-II and select the correct answer
+
+from the codes given below:
+
+List-I List-II
+
+(Newspapers) (Editors)
+
+A. Hindu 1. Dadabhai Naoroji
+
+B. Sudharak 2. Gopal Krishna Gokhale
+
+C. Voice of India 3. G. Subramaniya Iyer
+
+D. Bengalee 4. Surendra Nath Banerjee
+
+Code:
+
+A B C D
+
+- (a) 1 2 3 4
+
+- (b) 1 3 2 4
+
+- (c) 2 3 1 4
+
+- (d) 3 2 1 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+G. Subramaniya Iyer was the editor of the ‘Hindu’ newspaper
+
+and liberal leader Gopal Krishna Gokhale was the editor of
+
+‘Sudharak’ newspaper. Dadabhai Naoroji was the editor of
+
+‘Voice of India’ and S.N. Banerjee was the editor of ‘Bengalee.’
+
+</details>
+
+---
+
+**Q-GC-PRESS-49. 70th B.P.S.C. (Pre) 2024**
+
+Match the following and choose the correct answer.
+
+Newspaper Editor
+
+I. Free Hindustan A. Mahatma Gandhi
+
+II. Indian Opinion B. Dadabhai Naoroji
+
+III. Voice of India C. Surendranath Banerjee
+
+IV. Bengalee D. Taraknath Das
+
+- (a) I-C, II-D, III-A, IV-B
+
+- (b) I-D, II-A, III-B, IV-C
+
+- (c) I-C, II-A, III-D, IV-B
+
+- (d) I-D, II-C, III-B, IV-A
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The correct matching is as follows:
+
+The Free Hindustan Taraknath Das
+
+Indian Opinion Mahatma Gandhi
+
+Voice of India Dadabhai Naoroji
+
+The Bengalee Surendranath Banerjee
+
+</details>
+
+---
+
+**Q-GC-PRESS-50. U.P.P.C.S. (Mains) 2017**
+
+Match List-I with List-II and select the correct answer
+
+from the codes given below :
+
+List-I List-II
+
+(Newspapers) Editors
+
+A. Kaal 1. Surendra Nath Banerjee
+
+B. Bengalee 2. Gopal Krishna Gokhale
+
+C. Sudharak 3. Dwarkanath
+
+D. Somaprakash 4. Shivrama Madhav Paranjape
+
+Codes :
+
+A B C D
+
+- (a) 4 1 2 3
+
+- (b) 4 1 3 2
+
+- (c) 3 1 4 2
+
+- (d) 3 1 2 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched newspapers and their respective
+
+editors are as follows -
+
+(Newspapers) (Editors)
+
+Kaal - Shivrama Mahadev Paranjape
+
+Bengalee - Surendra Nath Banerjee
+
+Sudharak - Gopal Krishna Gokhale
+
+Somaprakash - Dwarkanath Vidyabhushan
+
+</details>
+
+---
+
+**Q-GC-PRESS-51. U.P.P.C.S. (Spl) (Mains) 2004 / U.P.P.C.S. (Pre) 2002**
+
+Match List-I with List-II and select the correct answer
+
+using the code given below the lists:
+
+List-I (Newspapers)
+
+A. Bombay Chronicle B. Common Weal
+
+C. Leader D. Search Light
+
+List-II (Person who started it)
+
+1. Annie Besant
+
+2. Madan Mohan Malviya
+
+3. Feroz Shah Mehta
+
+4. Sachidanand Sinha
+
+Code :
+
+A B C D
+
+- (a) 1 4 3 2
+
+- (b) 2 3 4 1
+
+- (c) 3 1 2 4
+
+- (d) 4 2 1 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+‘New India’ and ‘The Commonweal’ were the newspapers
+
+published by Annie Besant. The Bombay Chronicle was
+
+published by Firoz Shah Mehta and ‘Searchlight’ was
+
+published by Sachidanand Sinha. ‘The Leader’ was published
+
+by Madan Mohan Malviya.
+
+</details>
+
+---
+
+**Q-GC-PRESS-52. U.P.P.C.S. (Mains) 2014**
+
+Match List-I with List-II and select the correct answer
+
+from the code given below:
+
+List -I List -II
+
+(Newspapers) (Launcher/ Publisher)
+
+A. Leader 1. Madan Mohan Malviya
+
+B. Bombay Chronicle 2. Firozshah Mehta
+
+C. Independent 3. T.M. Nair
+
+D. Justice 4. Motilal Nehru
+
+Code :
+
+A B C D
+
+- (a) 1 2 4 3
+
+- (b) 4 3 2 1
+
+- (c) 3 2 1 4
+
+- (d) 4 1 2 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched newspapers and their respective
+
+publishers are as follows:
+
+(Newspapers)   (Publishers)
+
+The Leader - Madan Mohan Malviya
+
+Bombay Chronicle - Firozshah Mehta
+
+Independent - Motilal Nehru
+
+Justice - T.M. Nair
+
+</details>
+
+---
+
+**Q-GC-PRESS-53. U.P. Lower Sub. (Pre) 2008**
+
+Match List-I with List-II and choose the correct
+
+answer from the codes given below the Lists:
+
+List I List II
+
+A. Abul Kalam Azad 1. Bombay Chronicle
+
+B. Feroz Shah Mehta 2. Al-Hilal
+
+C. Annie Besant 3. Young India
+
+D. Mahatma Gandhi 4. New India
+
+Code :
+
+A B C D
+
+- (a) 2 1 4 3
+
+- (b) 1 2 3 4
+
+- (c) 2 1 3 4
+
+- (d) 3 2 1 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+List-I List-II
+
+Abul Kalam Azad - Al-Hilal
+
+Feroz Shah Mehta - Bombay Chronicle
+
+Annie Besant - New India
+
+Mahatma Gandhi - Young India
+
+</details>
+
+---
+
+**Q-GC-PRESS-54. U.P.B.E.O. (Pre) 2019**
+
+Which of the following is NOT correctly matched?
+
+(Newspaper) (Founder)
+
+- (a) Al-Hilal - Maulana Abul
+
+Kalam Azad
+
+- (b) New India - Annie Besant
+
+- (c) Tahzeeb-ul-Akhlaq - Muhammad Ali
+
+Jinnah
+
+- (d) Samvad Kaumudi - Raja Ram Mohan Roy
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Tahzeeb-ul-Akhlaq was a Urdu journal published by Sir Syed
+
+Ahmed Khan in 1870 A.D. Options (a), (b) & (d) are correctly
+
+matched. Option (c) is wrongly matched.
+
+</details>
+
+---
+
+**Q-GC-PRESS-55. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+Given below are the names of freedom fighters and
+
+the newspapers started by them among these which
+
+combination is incorrect?
+
+- (a) Maulana Azad - Al-Hilal
+
+- (b) Lokmanya Tilak - Kesari
+
+- (c) Jawaharlal Nehru - National Herald
+
+- (d) Mahatma Gandhi - The Pioneer
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+‘The Pioneer’ newspaper was started in Allahabad (Prayagraj)
+
+in 1865 A.D. by George Allen. ‘Indian-Opinion’, ‘Harijan’,
+
+‘Young India’ and ‘Navjeevan’ were the newspapers started
+
+by Mahatma Gandhi. The other options are correctly matched.
+
+</details>
+
+---
+
+**Q-GC-PRESS-56. U.P.P.C.S. (Mains) 2017**
+
+With which of the following newspaper/magazine, was
+
+Mahatma Gandhi not associated?
+
+- (a) Indian Opinion
+
+- (b) Young India
+
+- (c) Nav Jeevan
+
+- (d) Yugantar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+‘Yugantar’ was a newspaper published by Bhupendra Nath
+
+Dutt and Barindra Kumar Ghosh. Mahatma Gandhi was
+
+not associated with this newspaper. Mahatma Gandhi was
+
+associated with the ‘Indian Opinion’, Young India’ and ‘Nav
+
+Jeevan’.
+
+</details>
+
+---
+
+**Q-GC-PRESS-57. U.P.P.C.S. (Mains) 2013**
+
+Who among the following had launched the paper
+
+‘Qaumi Awaz’?
+
+- (a) Maulana Abul Kalam Azad
+
+- (b) Jawaharlal Nehru
+
+- (c) Shaukat Ali
+
+- (d) Khaliquzzaman
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+‘Qaumi Awaz’ newspaper was started by Jawaharlal Nehru
+
+and Rafi Ahmed Kidwai in 1945 A.D. from Lucknow.
+
+</details>
+
+---
+
+**Q-GC-PRESS-58. U.P.R.O./A.R.O. (Mains) 2013**
+
+Which of the following pairs is not correctly matched?
+
+- (a) Navjiwan – M.K. Gandhi
+
+- (b) Swarajya – T. Prakasham
+
+- (c) Prabhat – N.C. Kelkar
+
+- (d) Qaumi Awaz – Abul Kalam Azad
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-PRESS-59. U.P. P.C.S. (Spl) (Mains) 2004 / U.P. P.C.S. (Pre) 2001**
+
+Which of the following pairs is correctly matched?
+
+- (a) Mahatma Gandhi - Mook Nayak
+
+- (b) Bal Gangadhar Tilak - Young India
+
+- (c) Annie Besant - Commonweal
+
+- (d) B.R. Ambedkar - Kesari
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The correctly matched pair is as follows :
+
+Commonweal - Annie Besant
+
+Young India - Mahatma Gandhi
+
+Kesari - Bal Gangadhar Tilak
+
+Mook Nayak - B.R. Ambedkar
+
+</details>
+
+---
+
+**Q-GC-PRESS-60. U.P. R.O./A.R.O. (Pre) 2017**
+
+Match the List-I to List-II and select the correct answer
+
+using the codes given below the lists :
+
+List-I List-II
+
+A. Samachar Darpan 1. Raja Ram Mohan Roy
+
+B. Mirat-ul-Akhbar 2. B.G. Tilak
+
+C. Kesari 3. Mahatma Gandhi
+
+D. Young India 4. J.C. Marshman
+
+Codes :
+
+A B C D
+
+- (a) 2 1 4 3
+
+- (b) 4 3 2 1
+
+- (c) 2 3 4 1
+
+- (d) 4 1 2 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+List-I and List-II correctly matched
+
+ List-I List-II
+
+Samachar Darpan J.C. Marshman
+
+Mirat-ul-Akhbar Raja Ram Mohan Roy
+
+Kesari B.G. Tilak
+
+Young India Mahatma Gandhi
+
+</details>
+
+---
+
+**Q-GC-PRESS-61. U.P.P.C.S. (Mains) 2008**
+
+Which one of the following is not correctly matched?
+
+- (a) B.R. Ambedkar - Independent
+
+- (b) Bal Gangadhar Tilak - Kesari
+
+- (c) Annie Besant - New India
+
+- (d) Dadabhai Naoroji - Rast Goftar
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+‘Rast Goftar’ was related to Dadabhai Naoroji. ‘Kesari’
+
+was related to Bal Gangadhar Tilak and ‘New India was
+
+related to Annie Besant. But ‘Independent’ was not related
+
+to B.R. Ambedkar. Motilal Nehru published the newspaper
+
+“Independent’ demanding self-rule for India.
+
+</details>
+
+---
+
+**Q-GC-PRESS-62. U.P.P.C.S. (Pre) 2022**
+
+Match List – I with List – Il and select the correct
+
+answer from the code given below the lists.
+
+List – I List – II
+
+(Newspaper/Magazine) (Place of publication)
+
+A. Swadesh 1. Agra
+
+B. Bharat Bandhu 2. Almora
+
+C. Satyawadi 3. Hathras
+
+D. Shakti 4. Gorakhpur
+
+Code :
+
+A B C D
+
+- (a) 4 3 1 2
+
+- (b) 1 2 3 4
+
+- (c) 3 2 1 4
+
+- (d) 2 3 4 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Correct match is as follows —
+
+List – I List – II
+
+Newspaper/Magazine Place of publication
+
+Swadesh Gorakhpur
+
+Bharat Bandhu Hathras
+
+Satyawadi Agra
+
+Shakti Almora
+
+Hence option (a) is correct.
+
+</details>
+
+---
+
+**Q-GC-PRESS-63. 64th B.P.S.C. (Pre) 2018**
+
+From the options given below, find the correct
+
+combination of the names of editors of the nationalist
+
+newspapers The Hindu, Kesari, Bengalee, Hindustani,
+
+Sudharak:
+
+- (a) Surendra Nath Banerjee, G, Subramania Iyer, Bal
+
+Gangadhar Tilak, Ganga Prasad Verma, Gopal Krishna
+
+Gokhale
+
+- (b) Bal Gangadhar Tilak, G. Subramania Iyer, Surendra Nath
+
+Banerjee, Ganga Prasad Verma, Gopal Krishna Gokhale
+
+- (c) G. Subramania Iyer, Bal Gangadhar Tilak, Ganga Prasad
+
+Verma, Gopal Krishna Gokhale, Surendra Nath Banerjee
+
+- (d) G. Subramania Iyer, Bal Gangadhar Tilak, Surendra
+
+Nath Banerjee, Ganga Prasad Verma, Gopal Krishna
+
+Gokhale
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Newspaper Editor
+
+The Hindu G. Subramaniya Iyer
+
+Kesari Bal Gangadhar Tilak
+
+The Bengalee Surendranath Banerjee
+
+Hindustani Ganga Prasad Verma
+
+Sudharak Gopal Krishna Gokhale
+
+</details>
+
+---
+
+**Q-GC-PRESS-64. U.P. P.C.S. (Pre) 1992**
+
+Which of the following is correctly matched?
+
+- (a) Annie Besant - Young India
+
+- (b) Mahatma Gandhi - New India
+
+- (c) Bal Gangadhar Tilak - Kesari
+
+- (d) Surendranath Banerjee - Mahratta
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Annie Besant - New India
+
+Mahatma Gandhi - Young India
+
+Bal Gangadhar Tilak - The Mahratta and Kesari
+
+Hence, option (c) is correctly matched.
+
+</details>
+
+---
+
+**Q-GC-PRESS-65. U.P.P.C.S. (Mains) 2002 / U.P.P.C.S. (Pre) 2004**
+
+Which of the following were the two newspapers
+
+published by Annie Besant?
+
+Select the correct answer using the code given below:
+
+1. Commonweal 2. New India
+
+3. New Hindu 4. The Aryans
+
+Code :
+
+- (a) 1 and 2
+
+- (b) 1 and 3
+
+- (c) 2 and 4
+
+- (d) 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+‘The Commonweal’ and ‘New India’ were the newspapers
+
+published by Annie Besant.
+
+</details>
+
+---
+
+**Q-GC-PRESS-66. U.P. U.D.A./L.D.A. (Pre) 2013**
+
+To whom Commonweal is related?
+
+- (a) B.G. Tilak
+
+- (b) Annie Besant
+
+- (c) G.K. Gokhale
+
+- (d) None of the Above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+‘The Commonweal’ was an English newspaper published
+
+from Madras. Annie Besant was the editor of this newspaper.
+
+</details>
+
+---
+
+**Q-GC-PRESS-67. M.P.P.C.S. (Pre) 2008**
+
+Match the following and select the correct answer from
+
+the codes given below:
+
+- (A) Bipin Chandra Pal 1. New India
+
+- (B) Arvind Ghosh 2. Comrade
+
+- (C) Brahma Bandhab 3. Vande Mataram
+
+Upadhyay
+
+- (D) Mohammad Ali 4. Sandhya
+
+Code :
+
+A B C D
+
+- (a) 1 3 4 2
+
+- (b) 2 1 3 4
+
+- (c) 2 1 4 3
+
+- (d) 1 3 2 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+Bipin Chandra Pal - New India
+
+Aurobindo Ghosh - Vande Mataram
+
+Brahma Bandhab Upadhyay - Sandhya
+
+Muhammad Ali - Comrade
+
+</details>
+
+---
+
+**Q-GC-PRESS-68. U.P.P.C.S. (Mains) 2015**
+
+Who was the editor of the revolutionary paper ‘Vande
+
+Mataram’?
+
+- (a) Shyamji Krishna Verma
+
+- (b) Bhikaji Cama
+
+- (c) V.D. Savarkar
+
+- (d) G..D. Savarkar
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+‘Vande Mataram’ was an English newspaper founded in 1906
+
+by Bipin Chandra Pal and later edited by Sri Aurobindo. Bipin
+
+Chandra Pal was editor of Vande Mataram from 6th August,
+
+1906 to 15th October, 1906 A.D. Sri Aurobindo Ghosh served
+
+as its editor from 24 October 1906 to 27 May, 1907 A.D. It
+
+was published daily but from June 2nd, 1907 it was published
+
+weekly. Again on 10 September, 1909 A.D. publication from
+
+Paris began whose editor was Hardayal. Its publication and
+
+distribution work was done by Madame Bhikaji Cama.
+
+</details>
+
+---
+
+**Q-GC-PRESS-69. B.P.S.C. (Pre) 2018**
+
+Which of the following was not a ‘nationalist’
+
+newspaper?
+
+- (a) The Hindu
+
+- (b) Bengalee
+
+- (c) The Mahratta
+
+- (d) The Times of India
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+'The Times of India' was not a nationalist newspaper. 'The
+
+Hindu,' The Bengalee' and 'The Mahratta' were nationalist
+
+newspapers as they promoted nationalism through their
+
+writings.
+
+</details>
+
+---
+
+**Q-GC-PRESS-70. Chhattisgarh P.S.C. (Pre) 2018**
+
+At the time of the National Movement who started the
+
+'Dash Roja' periodical?
+
+- (a) Mohammad Ali Jinnah
+
+- (b) Abdul Gaffar Khan
+
+- (c) Lala Lajpat Rai
+
+- (d) Bal Gangadhar Tilak
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Dash Roja magazine was started by Abdul Gaffar Khan.
+
+</details>
+
+---
+
+**Q-GC-PRESS-71. R.A.S./R.T.S.(Pre) 2013**
+
+Match the list of the Editors with that of the Papers/
+
+Magazines, they were editing:
+
+‘A’ (Editors) ‘B’ (Papers/Magazine)
+
+A. S.A. Dange (i) Navyug
+
+B. Muzaffar Ahmad (ii) Inqilab
+
+C. Ghulam Husain (iii) Labour Kisan Gazette
+
+D. M. Singarvelu (iv) The Socialist
+
+Code:
+
+A B C D
+
+- (a) i ii iii iv
+
+- (b) iv i ii iii
+
+- (c) ii iii i iv
+
+- (d) iii iv ii i
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+S.A. Dange - The Socialist
+
+Muzaffar Ahmad - Navyug
+
+Gulam Hussain - Inqilab
+
+M. Singarvelu - Labour Kisan Gazette
+
+</details>
+
+---
+
+**Q-GC-PRESS-72. 70th B.P.S.C. Re-Exam 2024**
+
+Which newspaper wrote the following about the possible future role of the Indian National Congress: ‘...
+
+is the nucleus of a future Parliament of our country...
+
+and will lead to the good of inconceivable magnitude
+
+for our countrymen'?
+
+- (a) The Indian Mirror
+
+- (b) The New York Times
+
+- (c) The Times of India
+
+- (d) More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The article mentioned, regarding the potential future role of
+
+the Indian National Congress, was written in the newspaper
+
+The Indian Mirror in its January 1886 edition.
+
+</details>
+
+---
+
+
+
+
 
 ## Practice Zone — UPPCS Format Drill
 

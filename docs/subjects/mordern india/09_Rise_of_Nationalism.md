@@ -312,6 +312,12 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 | **1866** | **East India Association** | **London** | **Dadabhai Naoroji** | Set up in London to lobby British public and Parliament on Indian welfare and Drain of Wealth |
 | **1867** | **National Indian Association** | London / Bristol | **Mary Carpenter** | Promoted social and educational ties between Britain and India |
 | **1870** | **Poona Sarvajanik Sabha** | Poona | **M.G. Ranade**, **G.V. Joshi (Sarvajanik Kaka)**, S.H. Chiplunkar | Premier public body of Maharashtra; petitioned House of Commons (1875) for direct Indian representation |
+| **Benaras Session (1905)** | Gopal Krishna Gokhale | 1905 (Varanasi/Benaras) | Gokhale presided; founded Servants of India Society in 1905; approved Swadeshi & Boycott movement against Bengal partition; Swaraj call first taken up. |
+| **Calcutta Session (1906)** | Dadabhai Naoroji | 1906 (Calcutta) | Naoroji's 3rd presidency (1886, 1893, 1906); averted extremist-moderate split; passed 4 historic resolutions: Swaraj (Self-Government as national goal), Swadeshi, Boycott, and National Education; Flag of Swaraj unfurled by Naoroji. |
+| **Surat Session (1907 / 23rd Session)** | Dr. Rash Behari Ghosh | Dec 1907 (Surat) | Historic Surat Split between Moderates ('Naram Dal') and Extremists ('Garam Dal', led by Tilak, Lala Lajpat Rai); dispute over presidentship (Rash Behari Ghosh vs Lala Lajpat Rai) and retention/extension of Calcutta 4 resolutions; reunited at Lucknow 1916. |
+| **Formation of Muslim League** | Nawab Salimullah Khan (Founder/Host), Aga Khan III (1st President) | Dec 1906 (Dhaka) | Preceded by Shimla Deputation (1 Oct 1906, Aga Khan III met Viceroy Lord Minto demanding separate electorates); established at Dhaka during All India Muhammadan Educational Conference; Mohsin-ul-Mulk & Waqar-ul-Mulk joint secretaries; HQ Lucknow; annual sessions: Karachi (1907), Amritsar (1908); London branch (1908, Syed Ameer Ali). |
+| **Delhi Durbar & Capital Transfer** | King George V & Queen Mary, Viceroy Lord Hardinge II | Dec 1911 (Delhi) / 1912 | Held Dec 1911; George V annulled Partition of Bengal (12 Dec 1911); announced capital transfer from Calcutta to Delhi (completed 1912 under Hardinge II); Bihar and Orissa separated from Bengal (proclaimed 22 March 1912, executive effect 1 April 1912). |
+| **Delhi Conspiracy Case (1912)** | Rash Behari Bose, Basant Kumar Biswas, Master Amir Chand, Avadh Bihari, Bhai Balmukund | 23 Dec 1912 (Chandni Chowk, Delhi) | Homemade bomb thrown into Viceroy Lord Hardinge II's howdah during state entry procession; planned by Rash Behari Bose (escaped to Japan) and Anushilan Samiti; Amir Chand, Balmukund, Avadh Bihari, and Basant Biswas executed. |
 | **1872** | **Indian Society** | London | **Ananda Mohan Bose** | Formed by Indian students in Britain to foster political unity |
 | **1875** | **Indian League** | Calcutta | **Sisir Kumar Ghosh**, Sambhu Charan Mukherjee | Aimed to stimulate nationalism among the middle class; published *Amrita Bazar Patrika* |
 | **1876** | **Indian Association** | Calcutta | **Surendranath Banerjee** & **Ananda Mohan Bose** | **Most important pre-Congress nationalist body**; agitated against ICS age limit reduction (1877) and Vernacular Press Act (1878) |
@@ -352,29 +358,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 **PYQ — UPPCS Prelims 2024, Q15**
 
-Consider the following events and arrange them in chronological order:
-
-1. East India Association
-2. National Indian Association
-3. Indian Society
-4. Indian Association
-
-Select the correct answer from the codes given below:
-
-A. 1, 2, 4, 3
-
-B. 1, 3, 2, 4
-
-C. 2, 1, 4, 3
-
-D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 1866 → 1870 → 1872 → 1876.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2024 Q15):** Chronological order of pre-Congress organisations: **East India Association** (1866, London) → **National Indian Association** (1870/71, London) → **Indian Society** (1872, London) → **Indian Association** (1876, Calcutta).
 
 ---
 
@@ -460,22 +444,7 @@ Two rival explanations of **why** Congress began. Notes test both sides, not jus
 
 **PYQ — UPPCS Prelims 2021, Q50**
 
-Who among the following never presided a Session of Indian National Congress?
-
-A. Lala Lajpat Rai
-
-B. Bal Gangadhar Tilak
-
-C. Gopal Krishna (कृष्णा) Gokhale
-
-D. Subhash Chandra Bose
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2021 Q50):** **Bal Gangadhar Tilak** was NEVER elected as President of the Indian National Congress, despite being one of its most prominent leaders. Lala Lajpat Rai (1920 Special Calcutta), Gokhale (1905 Banaras), and Subhash Bose (1938 Haripura, 1939 Tripuri) all presided.
 
 ---
 
@@ -535,24 +504,7 @@ Early Congress built a full economic programme around Naoroji's drain critique. 
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Most of the early nationalists considered British rule as an act of providence destined to bring modernisation.
-
-**Reason (R):** They complained only against "Un-British rule" in India.
-
-Select the correct answer from the codes given below:
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-B. (A) is false, but (R) is true.
-C. Both (A) and (R) are true and (R) is the correct explanation of (A).
-D. (A) is true, but (R) is false.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2024 Q135):** Assertion-Reason: Most early nationalists considered British rule as an act of providence destined to bring modernization (True). They complained against un-British rule in India without seeking direct severance (True, but R does not explain A).
 
 ---
 
@@ -655,22 +607,7 @@ The government moved against Extremist leaders in the years right after Surat. K
 
 **PYQ — UPPCS Prelims 2021, Q139**
 
-In which year the book 'Poverty and Un-British Rule in India' was published?
-
-A. 1900 A.D.
-
-B. 1901 A.D.
-
-C. 1902 A.D.
-
-D. 1903 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1901**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2021 Q139):** Dadabhai Naoroji’s landmark book **"Poverty and Un-British Rule in India"** was published in **1901** in London, expounding the economic Drain Theory.
 
 ---
 
@@ -741,28 +678,49 @@ D. 1903 A.D.
 
 Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
 
-**List-I (Book)List-II (Writer)**
-A. The Story of My Deportation  1. Surendranath Banerjee
-B. Gita Rahasya  2. Maulana Abul Kalam Azad
-C. A Nation in Making  3. Lala Lajpat Rai
-D. India Wins Freedom (इंडिया विन्स फ्रीडम)  4. Bal Gangadhar Tilak
-
-A. 3 4 1 2
-
-B. 4 2 1 3
-
-C. 2 4 1 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Lajpat Rai; Tilak; Banerjee; Azad. Duplicate allowed with Topic 10.
-
-</details>
+**> [!TIP] **Exam Anchor (UPPCS 2020 Q26):** Nationalist Books and Authors: **The Story of My Deportation** ↔ Lala Lajpat Rai; **Gita Rahasya** ↔ Bal Gangadhar Tilak (written in Mandalay jail); **A Nation in Making** ↔ Surendranath Banerjee; **India Wins Freedom** ↔ Maulana Abul Kalam Azad.
 
 ---
+
+### 9.11 Master Fact-Locks — Rise of Nationalism, Early Organisations & INC High-Yield Repository
+
+| Organisation / Session / Concept | Leader / Founder / President | Year / Place | Key Diagnostic Fact & Exam Anchor |
+|---|---|---|---|
+| **Bangabhasha Prakasika Sabha** | Associates of Raja Ram Mohan Roy | 1836 (Calcutta) | Earliest political association formed in Bengal to discuss government policies. |
+| **Zamindari Association / Landholders' Society** | Dwarkanath Tagore, Radhakant Deb, Prasanna Kumar Tagore | 1838 (Calcutta) | First modern political organization in India to use constitutional methods of agitation; aimed to safeguard landlord rights. |
+| **Bengal British India Society** | George Thompson (invited by Dwarkanath Tagore) | 1843 (Calcutta) | Aimed at collecting and disseminating information on conditions of Indian people. |
+| **British Indian Association** | Radhakant Deb (President), Debendranath Tagore (Sec.) | Oct 1851 (Calcutta) | Formed by amalgamating Landholders' Society and Bengal British India Society; sent petition to Parliament demanding separate legislature. |
+| **Bombay Association** | Dadabhai Naoroji, Jagannath Shankarsheth | Aug 1852 (Bombay) | First political organisation in Bombay Presidency. |
+| **Madras Native Association** | Gazulu Lakshminarasu Chetty | 1852 (Madras) | First political organisation in Madras Presidency; protested company exactions. |
+| **East India Association** | Dadabhai Naoroji | 1866 (London) | Established in London to discuss Indian questions and influence British public opinion; branches in India. |
+| **National Indian Association** | Mary Carpenter & Elizabeth Adelaide Manning | 1870/71 (London) | Formed to promote social reform and female education in India; not a direct nationalist political party. |
+| **Poona Sarvajanik Sabha** | G.V. Joshi (Chitnis), S.H. Sathe, S.H. Chiplonkar, M.G. Ranade | 2 April 1870 (Poona) | Most influential body in western India; Ranade entered Nov 1871; submitted petition to House of Commons in 1875 demanding direct representation for India in British Parliament. |
+| **Indian Society** | Anand Mohan Bose | 1872 (London) | Founded to foster unity among Indian residents and students in Britain. |
+| **Indian League** | Sisir Kumar Ghosh (editor *Amrita Bazar Patrika*) | Sept 1875 (Calcutta) | Aimed to stimulate nationalism and political consciousness among the middle classes. |
+| **Indian Association of Calcutta** | Surendranath Banerjee & Anand Mohan Bose | 26 July 1876 (Calcutta) | Foremost pre-Congress nationalist organisation; middle-class focus; campaigned against reduction of ICS age limit (1877) and Vernacular Press Act (1878); organised All-India National Conference (1883 & 1885). |
+| **Central National Mohammadan Association** | Syed Amir Ali | 1877 (Calcutta) | Pioneer political organization for Muslim community in India. |
+| **Madras Mahajan Sabha** | M. Veeraraghavachariar, G. Subramaniya Iyer, P. Anandacharlu | May 1884 (Madras) | Coordinated political work across Madras Presidency. |
+| **Bombay Presidency Association** | Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji | 1885 (Bombay) | Known as the "Trimurti of Bombay"; replaced dormant Bombay Association. |
+| **Indian National Congress (Founding)** | Allan Octavian Hume (Founder & Gen. Sec.) | 28–30 Dec 1885 | Founded at Gokuldas Tejpal Sanskrit College, Bombay (shifted from Poona due to cholera). 72 delegates attended. Name suggested by Dadabhai Naoroji (replacing Indian National Union). W.C. Banerjee presided. Viceroy Lord Dufferin mocked it as "microscopic minority". |
+| **2nd INC Session (1886)** | Dadabhai Naoroji | Calcutta (1886) | 436 delegates (33 Muslims); merged with Surendranath Banerjee’s Indian National Conference. |
+| **3rd INC Session (1887)** | Badruddin Tyabji | Madras (1887) | First Muslim President; 607 delegates (81 Muslims); appointed first delegate Subject Committee. |
+| **4th INC Session (1888)** | George Yule | Allahabad (1888) | First European/British President; 1,248 delegates (221 Muslims); Governor Auckland Colvin opposed meeting. |
+| **British Committee of INC & *India*** | William Wedderburn (Chairman), William Digby | 1889 (London) | Established to lobby British MPs and public; published monthly/weekly journal *India* (1890–1921). |
+| **United Indian Patriotic Association** | Sir Syed Ahmad Khan & Raja Shiv Prasad of Banaras | 1888 | Formed in opposition to Congress to keep Muslims and landlords aligned with British Government. |
+| **First Woman President of INC** | Annie Besant | 1917 (Calcutta, 32nd Session) | Anglo-Irish theosophist and Home Rule leader; first woman to preside over INC. |
+| **First Indian Woman President of INC** | Sarojini Naidu | 1925 (Kanpur, 40th Session) | Renowned poetess and freedom fighter; later first female Governor of UP (1947–49). |
+| **Youngest INC President** | Maulana Abul Kalam Azad | 1923 (Delhi Special) & 1940–46 | Presided at age 35 in 1923; longest continuous pre-independence tenure (6 years during Quit India). |
+| **Gandhi’s Only INC Presidency** | Mahatma Gandhi | 1924 (Belgaum Session) | Belgaum (Karnataka); endorsed Swarajist council entry agreement. |
+| **Historical Lucknow Session (1916)** | Ambika Charan Mazumdar | Lucknow (1916) | Reunited Moderates & Extremists; Congress-League "Lucknow Pact" signed; Tilak proclaimed: *"Swaraj is my birthright and I shall have it"*. |
+| **Bankipur Session (1912)** | R.N. Mudholkar | Bankipur / Patna (1912) | 27th Session; declared A.O. Hume as "Father of the Congress". |
+| **Nagpur Session (1920)** | C. Vijayaraghavachariar | Nagpur (Dec 1920) | Adopted Non-Cooperation resolution; reorganized Provincial Congress Committees on linguistic basis; declared policy towards Princely States. |
+| **Subhash Chandra Bose Sessions** | Subhash Chandra Bose | 1938 (Haripura) & 1939 (Tripuri) | Haripura (1938): National Planning Committee formed under Nehru; advocated Roman script for Hindi. Tripuri (1939): defeated Pattabhi Sitaramayya; resigned to form Forward Bloc (3 May 1939). |
+| **Independence Session (1946–47)** | Acharya J.B. Kripalani | Meerut (Nov 1946) | President of INC during transfer of power and partition of India. |
+| **First Singing of *Jana-Gana-Mana*** | Rabindranath Tagore (composer) | 27 Dec 1911 (Calcutta) | Presided by Bishan Narayan Dhar; adopted as National Anthem on 24 Jan 1950. |
+| **Valentine Chirol & "Father of Indian Unrest"** | Sir Valentine Chirol on B.G. Tilak | 1910 (*Indian Unrest*) | Tilak filed unsuccessful defamation suit in London. Imprisoned for 6 years in Mandalay (1908–14) where he wrote *Gita Rahasya*. |
+| **Extremist vs Moderate Ideology** | Lal-Bal-Pal & Aurobindo vs Naoroji, Gokhale, Mehta | 1905–1907 (Surat Split) | Moderates: faith in British justice, 3Ps (Prayers, Petitions, Protests), colonial self-rule. Extremists: passive resistance, boycott, swadeshi, self-reliance, complete Swaraj. Bipin Chandra Pal termed INC a "Begging Institute". Lala Lajpat Rai termed sessions "Annual National Festival of Educated Indians". |
+
+
 
 ## Complete PYQ Bank
 
@@ -797,29 +755,7 @@ D. Only 1
 
 **Q2. UPPCS Prelims 2024, Q15**
 
-Consider the following events and arrange them in chronological order:
-
-1. East India Association
-2. National Indian Association
-3. Indian Society
-4. Indian Association
-
-Select the correct answer from the codes given below:
-
-A. 1, 2, 4, 3
-
-B. 1, 3, 2, 4
-
-C. 2, 1, 4, 3
-
-D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2024 Q15):** Chronological order of pre-Congress organisations: **East India Association** (1866, London) → **National Indian Association** (1870/71, London) → **Indian Society** (1872, London) → **Indian Association** (1876, Calcutta).
 
 **Q3. UPPCS Prelims 2024, Q17**
 
@@ -847,1347 +783,7 @@ D. Both 1 and 2
 
 **Q4. UPPCS Prelims 2024, Q133**
 
-Consider the following events and arrange them in chronological order:
-
-1. Linlithgow (लिनलिथगो) August Offer
-2. Cripps Mission arrival in India
-3. Ramgarh Congress Session
-4. Resignation letters of Congress Ministers
-
-Select the correct answer from the codes given below:
-
-A. 3, 1, 4, 2
-
-B. 4, 3, 1, 2
-
-C. 1, 3, 4, 2
-
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — ministries **1939** → Ramgarh **1940** → August Offer **1940** → Cripps **1942**. Session fact for this topic; full missions live later.
-
-</details>
-
-**Q5. UPPCS Prelims 2024, Q135**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Most of the early nationalists considered British rule as an act of providence destined to bring modernisation.
-
-**Reason (R):** They complained only against "Un-British rule" in India.
-
-Select the correct answer from the codes given below:
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-B. (A) is false, but (R) is true.
-C. Both (A) and (R) are true and (R) is the correct explanation of (A).
-D. (A) is true, but (R) is false.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q6. UPPCS Prelims 2021, Q50**
-
-Who among the following never presided a Session of Indian National Congress?
-
-A. Lala Lajpat Rai
-
-B. Bal Gangadhar Tilak
-
-C. Gopal Krishna Gokhale
-
-D. Subhash Chandra Bose
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Bal Gangadhar Tilak**
-
-</details>
-
-**Q7. UPPCS Prelims 2021, Q139**
-
-In which year the book 'Poverty and Un-British Rule in India' was published?
-
-A. 1900 A.D.
-
-B. 1901 A.D.
-
-C. 1902 A.D.
-
-D. 1903 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1901**
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q8. UPPCS Prelims 2020, Q26**
-
-Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
-
-**List-I (Book)List-II (Writer)**
-A. The Story of My Deportation  1. Surendranath Banerjee
-B. Gita Rahasya  2. Maulana Abul Kalam Azad
-C. A Nation in Making  3. Lala Lajpat Rai
-D. India Wins Freedom  4. Bal Gangadhar Tilak
-
-A. 3 4 1 2
-
-B. 4 2 1 3
-
-C. 2 4 1 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Duplicate allowed with Topic 10.
-
-</details>
-
----
-
-
-## Ghatnachakra Extra Drill — Political Organisations before Congress
-
-Teaching sits in **9.2**.
-
-**Q1. UKPCS / IAS / UP R.O.**
-
-Which is regarded as the first organised political association in India using constitutional agitation?
-
-A. Indian Association (1876)
-
-B. Zamindari Association / Landholders’ Society (1838)
-
-C. East India Association (1866)
-
-D. Poona Sarvajanik Sabha (1870)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First organised political body = Zamindari / Landholders’ Society 1838 — not Indian Association 1876.
-
-**Ans: B.** The **Zamindari Association / Landholders’ Society (1838)**, linked to **Dwarkanath Tagore**, is the standard first-organised-political-body key.
-
-</details>
-
-**Q2. UKPCS / UP R.O. / IAS**
-
-Consider the following statements:
-
-**Assertion (A):** The Bengal British India Society was founded in 1843.
-
-**Reason (R):** George Thompson, brought to India with Dwarkanath Tagore’s help, played a leading role in founding it.
-
-Select the correct answer:
-
-A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-C. (A) is true, but (R) is false.
-
-D. (A) is false, but (R) is true.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bengal British India Society 1843 = George Thompson; A and R both true, R explains A in UP R.O. stems.
-
-**Ans: A.** Both are **true**, and **(R) explains (A)**. **George Thompson** helped found the **Bengal British India Society (1843)**.
-
-</details>
-
-**Q3. UKPCS / UP R.O. / IAS**
-
-Which body petitioned the British House of Commons in 1875 for direct representation of Indian interests?
-
-A. Indian Association
-
-B. Poona Sarvajanik Sabha
-
-C. Bombay Presidency Association
-
-D. East India Association
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** House of Commons petition 1875 = Poona Sarvajanik Sabha — not Indian Association.
-
-**Ans: B.** The **Poona Sarvajanik Sabha (1870)** sent the **1875** petition to the **House of Commons**.
-
-</details>
-
-**Q4. BPSC / UPPCS / IAS**
-
-The Indian Association (1876) was founded by:
-
-A. Dadabhai Naoroji and W.C. Bonnerjee
-
-B. Surendranath Banerjee and Ananda Mohan Bose
-
-C. Pherozeshah Mehta and K.T. Telang
-
-D. A.O. Hume and Allan Octavian Hume
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Indian Association = Banerjee + A.M. Bose 1876 Calcutta.
-
-**Ans: B.** **Surendranath Banerjee** and **Ananda Mohan Bose** founded the **Indian Association (26 July 1876, Calcutta)**.
-
-</details>
-
-**Q5. BPSC / UPPCS / IAS**
-
-Which was the most important pre-Congress nationalist political organisation?
-
-A. British Indian Association (1851)
-
-B. Indian Association (1876)
-
-C. Bombay Association (1852)
-
-D. Madras Mahajan Sabha (1884)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Strongest pre-Congress nationalist body = Indian Association — not Landholders’ Society alone.
-
-**Ans: B.** The **Indian Association (1876)** is the standard “most important pre-Congress” key — stronger than zamindar-heavy bodies of 1838/1851.
-
-</details>
-
-**Q6. BPSC / UPPCS / IAS**
-
-Who among the following was dismissed from the Indian Civil Service around 1874?
-
-A. A.O. Hume
-
-B. Surendranath Banerjee
-
-C. Dadabhai Naoroji
-
-D. Gopal Krishna Gokhale
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Banerjee dismissed from ICS ~1874 — after clearing selection in 1869.
-
-**Ans: B.** **Surendranath Banerjee** cleared ICS selection in **1869** but was dismissed around **1874** after judicial controversy — a core biographical fact.
-
-</details>
-
-**Q7. BPSC / UPPCS / IAS**
-
-Banerjee’s **Indian National Conference** merged into the wider Congress stream in:
-
-A. 1883
-
-B. 1885
-
-C. 1886
-
-D. 1907
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Indian National Conference merged into Congress stream 1886 — not East India Association.
-
-**Ans: C.** The **Indian National Conference** line merged into the Congress stream in **1886**. The first INC session itself was **1885**.
-
-</details>
-
-**Q8. Jharkhand / UPPCS / BPSC**
-
-Arrange the following in chronological order:
-
-1. Bombay Association
-2. Madras Mahajan Sabha
-3. Indian Association
-4. Indian League
-
-Select the correct code:
-
-A. 1, 4, 3, 2
-
-B. 4, 1, 3, 2
-
-C. 1, 3, 4, 2
-
-D. 2, 1, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Chronology Bombay Association 1852 → Indian League 1875 → Indian Association 1876 → Madras Mahajan 1884.
-
-**Ans: A.** Order: **Bombay Association (1852) → Indian League (1875) → Indian Association (1876) → Madras Mahajan Sabha (1884)** — code **1, 4, 3, 2**.
-
-</details>
-
-**Q9. Jharkhand / UPPCS / BPSC**
-
-The Bombay Presidency Association (1885) was founded by:
-
-A. Mehta, Telang and Tyabji
-
-B. Naoroji, Ranade and Tilak
-
-C. Banerjee, Bose and Hume
-
-D. Gokhale, Tilak and Agarkar
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bombay Presidency Association 1885 = Mehta, Telang, Tyabji — Trimurti of Bombay.
-
-**Ans: A.** **Pherozeshah Mehta, K.T. Telang and Badruddin Tyabji** founded the **Bombay Presidency Association (1885)**.
-
-</details>
-
-**Q10. Jharkhand / UPPCS / BPSC**
-
-Which association–place pair is **NOT** correctly matched?
-
-A. East India Association — London
-
-B. Indian Association — Calcutta
-
-C. East India Association — Calcutta
-
-D. Bombay Presidency Association — Bombay
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** East India Association = London 1866 Naoroji — wrong if paired with Calcutta; Indian Association = Calcutta not Bombay.
-
-**Ans: C.** The **East India Association (1866)** belongs to **London**, not Calcutta. Trap: do not give Calcutta to Naoroji’s **1866** body.
-
-</details>
-
-**Q11. Chhattisgarh / UPPCS**
-
-The first President of the British Indian Association (1851) was:
-
-A. Dwarkanath Tagore
-
-B. Radhakant Deb
-
-C. Surendranath Banerjee
-
-D. Devendranath Tagore
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** British Indian Association President = Radhakant Deb — conservative zamindar line 1851.
-
-**Ans: B.** **Radhakant Deb** was the first President of the **British Indian Association (1851, Calcutta)**.
-
-</details>
-
-**Q12. Chhattisgarh / UPPCS**
-
-The Central National Mohammadan Association was founded by:
-
-A. Syed Ahmad Khan alone in 1877
-
-B. Syed Amir Ali
-
-C. Badruddin Tyabji
-
-D. Aga Khan III
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Central National Mohammadan Association = Syed Amir Ali 1877 Calcutta.
-
-**Ans: B.** **Syed Amir Ali** founded the **Central National Mohammadan Association (1877, Calcutta)**.
-
-</details>
-
-**Q13. Chhattisgarh / UPPCS**
-
-Raja Shiv Prasad was a co-founder of:
-
-A. Indian Association
-
-B. United Indian Patriotic Association
-
-C. East India Association
-
-D. Poona Sarvajanik Sabha
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** United Indian Patriotic Association co-founder with Syed = Raja Shiv Prasad.
-
-**Ans: B.** **Raja Shiv Prasad** co-founded the **United Indian Patriotic Association** with **Syed Ahmad Khan’s** circle — a loyalist counter to Congress in the 1880s.
-
-</details>
-
-**Q14. Chhattisgarh / UPPCS**
-
-The Landholders’ Society was founded in:
-
-A. 1836
-
-B. 1838
-
-C. 1843
-
-D. 1844
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Landholders’ Society year = 1838 — trap year 1844.
-
-**Ans: B.** The **Landholders’ / Zamindari Association** dates to **1838**. **1843** belongs to the **Bengal British India Society**; **1844** is a common trap year.
-
-</details>
-
----
-
-## Ghatnachakra Extra Drill — Indian National Congress
-
-Teaching sits in **9.3–9.5**.
-
-**Q15. BPSC / UPPCS / UKPCS / IAS**
-
-Who was the principal organiser of the first session of the Indian National Congress (1885)?
-
-A. Dadabhai Naoroji
-
-B. A.O. Hume
-
-C. Surendranath Banerjee
-
-D. W.C. Bonnerjee
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** INC organiser = A.O. Hume — first President was W.C. Bonnerjee, not Hume.
-
-**Ans: B.** **A.O. Hume** (retired ICS) organised the **1885** session. **W.C. Bonnerjee** was **President**, not principal organiser.
-
-</details>
-
-**Q16. BPSC / UPPCS / UKPCS / IAS**
-
-The first session of the Indian National Congress was held in:
-
-A. Calcutta, 1886
-
-B. Bombay, 1885
-
-C. Madras, 1887
-
-D. Allahabad, 1888
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First INC session = 28 December 1885, Bombay — not Calcutta or Poona.
-
-**Ans: B.** Congress first met on **28 December 1885** at **Gokuldas Tejpal Sanskrit College, Bombay**.
-
-</details>
-
-**Q17. BPSC / UPPCS / UKPCS / IAS**
-
-Who presided over the first session of the Indian National Congress?
-
-A. Dadabhai Naoroji
-
-B. W.C. Bonnerjee
-
-C. A.O. Hume
-
-D. Badruddin Tyabji
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First President = W.C. Bonnerjee — not Naoroji, Tyabji or Hume.
-
-**Ans: B.** **Womesh Chunder (W.C.) Bonnerjee** was the **first President (1885)**.
-
-</details>
-
-**Q18. BPSC / UPPCS / IAS**
-
-Approximately how many delegates attended the first INC session in 1885?
-
-A. 36
-
-B. 72
-
-C. 108
-
-D. 300
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** About 72 delegates at first session — not 108 or 300.
-
-**Ans: B.** About **72 delegates** attended the **1885 Bombay** session.
-
-</details>
-
-**Q19. BPSC / UPPCS / IAS**
-
-Which Viceroy dismissed the early Congress as a “microscopic minority”?
-
-A. Lord Lytton
-
-B. Lord Dufferin
-
-C. Lord Curzon
-
-D. Lord Ripon
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Viceroy Dufferin mocked Congress as microscopic minority.
-
-**Ans: B.** **Lord Dufferin** used the **microscopic minority** phrase about early Congress during his viceroyalty when the body was founded.
-
-</details>
-
-**Q20. BPSC / UPPCS / UKPCS / IAS**
-
-The first Muslim President of the Indian National Congress was:
-
-A. Maulana Abul Kalam Azad
-
-B. Badruddin Tyabji
-
-C. Muhammad Ali Jinnah
-
-D. Hasrat Mohani
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First Muslim President = Badruddin Tyabji Madras 1887.
-
-**Ans: B.** **Badruddin Tyabji** presided at **Madras 1887** — the first **Muslim** President.
-
-</details>
-
-**Q21. BPSC / UPPCS / IAS**
-
-The first European President of the Indian National Congress was:
-
-A. A.O. Hume
-
-B. William Wedderburn
-
-C. George Yule
-
-D. Henry Cotton
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First European President = George Yule Allahabad 1888.
-
-**Ans: C.** **George Yule** presided at **Allahabad 1888** — the first **European** President. Hume organised but never presided.
-
-</details>
-
-**Q22. BPSC / UPPCS / IAS**
-
-The British Committee of the Indian National Congress (1889) was headed by:
-
-A. Dadabhai Naoroji
-
-B. William Wedderburn
-
-C. A.O. Hume
-
-D. Henry Cotton
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** British Committee INC London 1889 = Wedderburn — published weekly *India*.
-
-**Ans: B.** **Sir William Wedderburn** headed the **British Committee (1889)** in London, which published the weekly ***India***.
-
-</details>
-
-**Q23. IAS / UPPCS / BPSC**
-
-The first woman President of the Indian National Congress was:
-
-A. Sarojini Naidu
-
-B. Annie Besant
-
-C. Vijayalakshmi Pandit
-
-D. Aruna Asaf Ali
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First woman President = Annie Besant Calcutta 1917.
-
-**Ans: B.** **Annie Besant** presided at **Calcutta 1917** — the first **woman** President.
-
-</details>
-
-**Q24. IAS / UPPCS / BPSC**
-
-The first Indian woman President of the Indian National Congress was:
-
-A. Annie Besant
-
-B. Sarojini Naidu
-
-C. Kamala Nehru
-
-D. Kasturba Gandhi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First Indian woman President = Sarojini Naidu Kanpur 1925.
-
-**Ans: B.** **Sarojini Naidu** presided at **Kanpur 1925** — the first **Indian woman** President. Besant was Irish-born.
-
-</details>
-
-**Q25. IAS / UPPCS / BPSC**
-
-Who among the following **never** presided over a session of the Indian National Congress?
-
-A. Lala Lajpat Rai
-
-B. Bal Gangadhar Tilak
-
-C. Gopal Krishna Gokhale
-
-D. Subhas Chandra Bose
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tilak never presided over any INC session — standard trap with Lal-Bal-Pal list.
-
-**Ans: B.** **Bal Gangadhar Tilak never** presided over any INC session — a repeated UPPCS trap. **Gokhale** presided at **Banaras 1905**.
-
-</details>
-
-**Q26. IAS / UPPCS / BPSC**
-
-Mahatma Gandhi presided over the Indian National Congress only at:
-
-A. Lahore, 1929
-
-B. Belgaum, 1924
-
-C. Nagpur, 1920
-
-D. Karachi, 1931
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gandhi presided only once — Belgaum 1924.
-
-**Ans: B.** Gandhi’s **only** presidentship was **Belgaum 1924**. **Lahore 1929** was presided over by **Jawaharlal Nehru**.
-
-</details>
-
-**Q27. IAS / UPPCS / BPSC**
-
-Who was notably absent from the founding session of the Indian National Congress in 1885?
-
-A. Dadabhai Naoroji
-
-B. Surendranath Banerjee
-
-C. Pherozeshah Mehta
-
-D. Badruddin Tyabji
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Surendranath Banerjee absent from founding 1885 session — busy with National Conference.
-
-**Ans: B.** **Surendranath Banerjee** was absent because he was occupied with the **Indian National Conference** meetings in the same season.
-
-</details>
-
-**Q28. UPPCS / BPSC / IAS**
-
-Bal Gangadhar Tilak declared “Swaraj is my birthright and I shall have it” in the context of which Congress session?
-
-A. Surat, 1907
-
-B. Lucknow, 1916
-
-C. Amritsar, 1919
-
-D. Lahore, 1929
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tilak’s Swaraj is my birthright line = Lucknow 1916 reunion session.
-
-**Ans: B.** The famous **birthright** line is tied to the **Lucknow 1916** reunion atmosphere, not Surat **1907** or Lahore **1929**.
-
-</details>
-
-**Q29. UPPCS / BPSC / IAS**
-
-The Bankipur (Patna) session of the Indian National Congress was held in:
-
-A. 1910
-
-B. 1912
-
-C. 1916
-
-D. 1920
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bankipur session = 1912 Patna — R.N. Mudholkar President.
-
-**Ans: B.** The **Bankipur (Patna) session** took place in **1912** under **R.N. Mudholkar**, where Hume was hailed as Father of Congress.
-
-</details>
-
-**Q30. UPPCS / BPSC / IAS**
-
-Who presided over the Haripura session of the Indian National Congress (1938)?
-
-A. Jawaharlal Nehru
-
-B. Subhas Chandra Bose
-
-C. Abul Kalam Azad
-
-D. Vallabhbhai Patel
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Haripura 1938 President = Subhas Chandra Bose — National Planning Committee set up under his presidency.
-
-**Ans: B.** **Subhas Chandra Bose** presided at **Haripura 1938**. The **National Planning Committee** was set up in that phase with **Nehru** as Chairman.
-
-</details>
-
-**Q31. UPPCS / BPSC / IAS**
-
-Who was the President of the Indian National Congress when India became independent (1947)?
-
-A. Abul Kalam Azad
-
-B. J.B. Kripalani
-
-C. Jawaharlal Nehru
-
-D. Sardar Vallabhbhai Patel
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Congress President at Independence 1946 session = J.B. Kripalani Meerut.
-
-**Ans: B.** **J.B. Kripalani** presided at the **Meerut 1946** session — the Congress presidency at Independence.
-
-</details>
-
-**Q32. UPPCS / BPSC / IAS**
-
-**Jana Gana Mana** was first sung at a Congress session in:
-
-A. Calcutta, 1896
-
-B. Calcutta, 1911
-
-C. Lucknow, 1916
-
-D. Lahore, 1929
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Jana Gana Mana first sung Calcutta Congress 1911 — not 1896 Vande Mataram session.
-
-**Ans: B.** **Jana Gana Mana** was first sung at the **Calcutta 1911** session. **Vande Mataram** was sung at **Calcutta 1896**.
-
-</details>
-
-**Q33. UPPCS / BPSC / IAS**
-
-Bal Gangadhar Tilak attended his last Indian National Congress session at:
-
-A. Lucknow, 1916
-
-B. Amritsar, 1919
-
-C. Nagpur, 1920
-
-D. Belgaum, 1924
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tilak’s last Congress session = Amritsar 1919 — he never presided.
-
-**Ans: B.** Tilak’s **last Congress session** was **Amritsar 1919**. He **never presided** over any session.
-
-</details>
-
-**Q34. UPPCS / BPSC / IAS**
-
-The Safety Valve theory about the origins of the Indian National Congress is most associated with:
-
-A. William Wedderburn
-
-B. Lala Lajpat Rai
-
-C. Bipan Chandra
-
-D. Lord Dufferin
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Safety Valve theory first linked to Lala Lajpat Rai — not Wedderburn or Dutt alone in “who first” keys.
-
-**Ans: B.** **Lala Lajpat Rai** is the standard name for first floating the **Safety Valve** interpretation. Wedderburn **defended** Hume’s sincerity.
-
-</details>
-
----
-
-## Ghatnachakra Extra Drill — Moderates and Extremists
-
-Teaching sits in **9.6–9.8**.
-
-**Q35. BPSC / IAS / UPPCS**
-
-The Moderates mainly relied on which method of political struggle?
-
-A. Armed insurrection and secret societies
-
-B. Constitutional agitation through petitions, prayers and protests
-
-C. Mass civil disobedience and jail bharo
-
-D. Direct action against landlords only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Moderates = constitutional agitation through petitions and councils — not boycott-first method.
-
-**Ans: B.** **Moderates** used **constitutional agitation** — petitions, prayers and protests within British constitutional forms.
-
-</details>
-
-**Q36. BPSC / IAS / UPPCS**
-
-The Surat split of the Indian National Congress (1907) is most closely linked to tensions surrounding:
-
-A. The Home Rule Leagues
-
-B. The Swadeshi and Boycott movement
-
-C. The Khilafat agitation
-
-D. The Purna Swaraj resolution
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Surat split 1907 linked to Swadeshi / Extremist–Moderate tension — not Home Rule or Khilafat.
-
-**Ans: B.** The **1907 Surat split** grew out of **Swadeshi / boycott** tensions between **Moderates and Extremists**.
-
-</details>
-
-**Q37. BPSC / IAS / UPPCS**
-
-Who among the following was a Moderate, not an Extremist?
-
-A. Bal Gangadhar Tilak
-
-B. Bipin Chandra Pal
-
-C. Gopal Krishna Gokhale
-
-D. Lala Lajpat Rai
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gokhale = Moderate — Banaras 1905 President; not Extremist.
-
-**Ans: C.** **Gopal Krishna Gokhale** was a **Moderate** and presided at **Banaras 1905**. The other three belong to the **Extremist** trio stream.
-
-</details>
-
-**Q38. BPSC / IAS / UPPCS**
-
-Who among the following was accused by critics of reducing nationalist politics to “prayer, petition and protest”?
-
-A. Gopal Krishna Gokhale
-
-B. Bal Gangadhar Tilak
-
-C. Dadabhai Naoroji
-
-D. W.C. Bonnerjee
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tilak accused of limiting politics to prayer-petition-protest — Moderate method critique turned on him ironically in some stems.
-
-**Ans: B.** The **prayer–petition–protest** jibe is most often keyed to **Tilak** in Ghatnachakra-style traps — though it describes **Moderate** method language.
-
-</details>
-
-**Q39. BPSC / UPPCS / UKPCS**
-
-The title **Sher-e-Punjab** is applied to:
-
-A. Bal Gangadhar Tilak
-
-B. Lala Lajpat Rai
-
-C. Bipin Chandra Pal
-
-D. Sardar Ajit Singh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sher-e-Punjab = Lala Lajpat Rai — not Tilak or Pal.
-
-**Ans: B.** **Lala Lajpat Rai** is **Sher-e-Punjab**. Do not give the title to **Tilak** or **Ajit Singh** unless the stem specifies a different Punjabi leader.
-
-</details>
-
-**Q40. BPSC / UPPCS / UKPCS**
-
-Lala Lajpat Rai’s political guru was:
-
-A. Giuseppe Mazzini
-
-B. Herbert Spencer
-
-C. Karl Marx
-
-D. Dadabhai Naoroji
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lajpat Rai’s political guru = Mazzini — Italian nationalist inspiration.
-
-**Ans: A.** **Giuseppe Mazzini** was Lajpat Rai’s **political guru** tag in standard notes.
-
-</details>
-
-**Q41. BPSC / UPPCS / UKPCS**
-
-The phrase **Father of Indian Unrest** was used by Valentine Chirol for:
-
-A. Lala Lajpat Rai
-
-B. Bal Gangadhar Tilak
-
-C. Bipin Chandra Pal
-
-D. Aurobindo Ghosh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Father of Indian Unrest = Valentine Chirol on Tilak — not Gandhi or Naoroji.
-
-**Ans: B.** **Valentine Chirol** applied **Father of Indian Unrest** to **Bal Gangadhar Tilak**.
-
-</details>
-
-**Q42. BPSC / UPPCS / UKPCS**
-
-Bal Gangadhar Tilak was sentenced to six years’ transportation to Mandalay in:
-
-A. 1905
-
-B. 1907
-
-C. 1908
-
-D. 1916
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tilak Mandalay sentence 1908 = six years — not six months like Lajpat 1907 deportation.
-
-**Ans: C.** Tilak’s **six-year Mandalay sentence** began in **1908**. **Lajpat Rai’s** **1907** deportation lasted about **six months** — a frequent swap trap.
-
-</details>
-
-**Q43. BPSC / UPPCS / UKPCS**
-
-Who started the public Ganesh festival as a tool of mass political mobilisation in Maharashtra?
-
-A. Gopal Krishna Gokhale
-
-B. Bal Gangadhar Tilak
-
-C. M.G. Ranade
-
-D. Dadabhai Naoroji
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ganeshotsav public festival politicisation = Tilak — not Gokhale or Ranade.
-
-**Ans: B.** **Tilak** politicised the **Ganeshotsav** (and Shivaji festival) for nationalist mobilisation in Maharashtra.
-
-</details>
-
-**Q44. BPSC / UPPCS / UKPCS**
-
-Along with Mahatma Gandhi, who lifted Bal Gangadhar Tilak’s bier in 1920?
-
-A. Maulana Shaukat Ali
-
-B. Jawaharlal Nehru
-
-C. C.R. Das
-
-D. Motilal Nehru
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tilak’s bier carried with Gandhi = Shaukat Ali — Khilafat/Congress unity symbol.
-
-**Ans: A.** **Shaukat Ali** joined **Gandhi** in carrying Tilak’s bier (**1920**) — a Khilafat–Congress unity symbol.
-
-</details>
-
-**Q45. IAS / UPPCS**
-
-Extremist nationalism differed from Moderate nationalism mainly because Extremists:
-
-A. Opposed Swadeshi and boycott
-
-B. Sought self-government through more assertive methods beyond petitions alone
-
-C. Rejected any use of the English language in politics
-
-D. Wanted permanent partnership with the British Empire without Swaraj
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Extremists sought assertive self-government beyond Moderate petition politics.
-
-**Ans: B.** **Extremists** pushed **assertive Swaraj** through boycott, Swadeshi and direct mass action — beyond Moderate petition politics.
-
-</details>
-
-**Q46. IAS / UPPCS**
-
-Many Muslim political leaders kept distance from the Extremist wing partly because Extremists often:
-
-A. Opposed all religious education
-
-B. Harped on Hindu cultural symbols in political propaganda
-
-C. Rejected the Lucknow Pact entirely in 1916
-
-D. Supported separate Muslim electorates from 1885
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Many Muslims stayed away from Extremist stream because of Hindu cultural symbolism in propaganda.
-
-**Ans: B.** Extremist propaganda often stressed **Hindu cultural symbols**, which limited Muslim participation compared with broader constitutional platforms.
-
-</details>
-
-**Q47. IAS / UPPCS**
-
-Consider the following statements:
-
-**Assertion (A):** Bal Gangadhar Tilak was a communalist who opposed Hindu–Muslim unity.
-
-**Reason (R):** Tilak used religion as a political weapon through festivals and public mobilisation.
-
-Select the correct answer:
-
-A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-C. (A) is false, but (R) is true.
-
-D. (A) is true, but (R) is false.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tilak communalist A/R — A false, R true (used religion as political weapon).
-
-**Ans: C.** **(A) is false** — Tilak is not fairly reduced to a “communalist” label in standard keys. **(R) is true** — he **did use religion as a political weapon** through Ganeshotsav and mass symbolism.
-
-</details>
-
----
-
-### UKPCS Complete PYQ Bank (Rise of Nationalism)
-
-**Q1. UKPCS / IAS / UP R.O.**
-
-Which is regarded as the first organised political association in India using constitutional agitation?
-
-A. Indian Association (1876)
-
-B. Zamindari Association / Landholders’ Society (1838)
-
-C. East India Association (1866)
-
-D. Poona Sarvajanik Sabha (1870)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First organised political body 1838 — UKPCS-tagged Extra cluster.
-
-**Ans: B.** The **Landholders’ Society (1838)** is the first organised political association key.
-
-</details>
-
-**Q2. UKPCS / UPPCS / BPSC**
-
-The first Muslim President of the Indian National Congress was:
-
-A. Maulana Abul Kalam Azad
-
-B. Badruddin Tyabji
-
-C. Muhammad Ali Jinnah
-
-D. Hasrat Mohani
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** INC first Muslim President Tyabji 1887 — UKPCS-tagged INC cluster.
-
-**Ans: B.** **Badruddin Tyabji** presided at **Madras 1887**.
-
-</details>
-
-**Q3. UKPCS / BPSC / UPPCS**
-
-The title **Sher-e-Punjab** is applied to:
-
-A. Bal Gangadhar Tilak
-
-B. Lala Lajpat Rai
-
-C. Bipin Chandra Pal
-
-D. Sardar Ajit Singh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sher-e-Punjab = Lala Lajpat Rai — UKPCS Moderate–Extremist tag.
-
-**Ans: B.** **Lala Lajpat Rai** is **Sher-e-Punjab**.
-
-</details>
-
-**Q4. UKPCS / BPSC / UPPCS**
-
-Lala Lajpat Rai’s political guru (गुरु) was:
-
-A. Giuseppe Mazzini
-
-B. Herbert Spencer
-
-C. Karl Marx
-
-D. Dadabhai Naoroji
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lajpat Rai’s guru Mazzini — UKPCS biography tag.
-
-**Ans: A.** **Giuseppe Mazzini** was Lajpat Rai’s political guru.
-
-</details>
-
-**Q5. UKPCS / BPSC / UPPCS**
-
-The phrase **Father of Indian Unrest** was used by Valentine Chirol for:
-
-A. Lala Lajpat Rai
-
-B. Bal Gangadhar Tilak
-
-C. Bipin Chandra Pal
-
-D. Aurobindo Ghosh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Father of Indian Unrest = Chirol on Tilak — UKPCS tag.
-
-**Ans: B.** **Valentine Chirol** applied the phrase to **Bal Gangadhar Tilak**.
-
-</details>
-
-**Q6. UKPCS / BPSC / UPPCS**
-
-Bal Gangadhar Tilak was sentenced to six years’ transportation to Mandalay in:
-
-A. 1905
-
-B. 1907
-
-C. 1908
-
-D. 1916
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tilak Mandalay six years 1908 — UKPCS chronology tag.
-
-**Ans: C.** Tilak’s **six-year Mandalay sentence** began in **1908**.
-
-</details>
-
-**Q7. UKPCS / BPSC / UPPCS**
-
-Who started the public Ganesh festival as a tool of mass political mobilisation in Maharashtra?
-
-A. Gopal Krishna Gokhale
-
-B. Bal Gangadhar Tilak
-
-C. M.G. Ranade
-
-D. Dadabhai Naoroji
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ganeshotsav politicisation = Tilak — UKPCS mass-mobilisation tag.
-
-**Ans: B.** **Tilak** (तिलक) politicised the **Ganeshotsav** for nationalist mobilisation.
-
-</details>
-
-**Q8. UKPCS / BPSC / UPPCS**
-
-Along with Mahatma Gandhi (महात्मा गांधी), who lifted Bal Gangadhar Tilak’s bier in 1920?
-
-A. Maulana Shaukat Ali
-
-B. Jawaharlal Nehru
-
-C. C.R. Das
-
-D. Motilal Nehru
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Shaukat Ali lifted Tilak’s bier with Gandhi — UKPCS unity symbol tag.
-
-**Ans: A.** **Shaukat Ali** joined **Gandhi** (गांधी) in carrying Tilak’s bier in **1920**.
-
-</details>
-
----
-
-## Practice Zone — UPPCS Format Drill
-
-> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
-
-
-**Q1.** Consider the following associations and arrange them in chronological order:
-
-1. East India Association
-2. National Indian Association
-3. Indian Society
-4. Indian Association
-
-A. 1, 3, 2, 4
-
-B. 1, 2, 3, 4
-
-C. 2, 1, 4, 3
-
-D. 1, 2, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1866 → 1870 → 1872 → 1876.
-
-**Logic:** Pre-INC London–Calcutta ladder; Indian Association is last, not third.
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS 2024 Q15):** Chronological order of pre-Congress organisations: **East India Association** (1866, London) → **National Indian Association** (1870/71, London) → **Indian Society** (1872, London) → **Indian Association** (1876, Calcutta).
 
 ---
 
@@ -2963,4 +1559,6797 @@ D. Only 3
 29. **Curzon’s “peaceful demise” = safety valve theory** → Curzon wanted Congress to die; **safety valve** is the Lajpat Rai / Hume-vent reading.
 30. **Poona Commons petition 1875 = Indian Association** → **Poona Sarvajanik Sabha**.
 31. **Bankipur 1912 President = Rajendra Prasad** → **R.N. Mudholkar**.
-32. **Congress President at Independence = Nehru / Gandhi** → **J.B. Kripalani**.
+32. **Congress President at Independence = Nehru / Gandhi** → **J.B. Kripalani**.## Complete PYQ Bank — Ghatnachakra Political Organisations before Congress (30 Questions)
+
+Complete unabridged 30-question bank from the core Ghatna Chakra repository covering all pre-Congress political bodies: Bangabhasha Prakasika Sabha (1836), Landholders' Society / Zamindari Association (1838, Dwarkanath Tagore), Bengal British India Society (1843, George Thompson), British Indian Association (1851, Radhakant Deb, Devendranath Tagore), Bombay Association (1852, Dadabhai Naoroji), East India Association (1866 London, Dadabhai Naoroji), National Indian Association (1870/71, Mary Carpenter), Poona Sarvajanik Sabha (1870, Ranade, G.V. Joshi, 1875 British Parliament direct representation petition), Indian Society (1872 London, Anand Mohan Bose), Indian League (1875, Sisir Kumar Ghosh), Indian Association of Calcutta (1876, Surendranath Banerjee, Anand Mohan Bose, dismissal of SN Banerjee from ICS 1874), Central National Mohammadan Association (1877, Syed Amir Ali), Madras Mahajan Sabha (1884, M. Veeraraghavachariar, P. Anandacharlu), Bombay Presidency Association (1885, Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji), Indian National Conference (1883 & 1885, SN Banerjee merger with INC 1886), and United Indian Patriotic Association (1888, Sir Syed Ahmad Khan, Raja Shiv Prasad). Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC-ORG-1. Uttarakhand P.C.S. (Pre) 2010 / I.A.S. (Pre) 1993**
+
+The first Political Organization established in India in
+
+1838 was known as
+
+- (a) British India Society
+
+- (b) Bengal British India Society
+
+- (c) Settlers Association
+
+- (d) Zamindari Association
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The first political organization established in India was known
+
+as the Zamindari Association or Landholders Society (1838
+
+A.D.) in Calcutta. It was the first political organisation which
+
+introduced organized efforts and constitutional remedies for
+
+complaints. Its main purpose was to secure the interests of
+
+landlords. The founder members were Dwaraka Nath Tagore
+
+and his associate landlords.
+
+</details>
+
+---
+
+**Q-GC-ORG-2. U.P. R.O./A.R.O. (Pre) 2023**
+
+Given below are two statements, in which one is
+
+- labelled as Assertion
+
+- (A) and the other as Reason (R):
+
+- Assertion
+
+- (A) : The Bengal British Indian Society was
+
+founded in 1843 as a result of George
+
+Thompson's efforts.
+
+Reason (R): George Thompson was brought out
+
+from England by Dwarkanath Tagore
+
+to organise the political movement.
+
+Select the correct answer using the code given below:
+
+Code -
+
+- (a) Both
+
+- (A) and (R) are true but (R) is not correct
+
+- explanation of
+
+- (A) .
+
+- (b)
+
+- (A) is false but (R) is true.
+
+- (c) Both
+
+- (A) and (R) are true and (R) is correct explanation
+
+- of
+
+- (A) .
+
+- (d)
+
+- (A) is true but (R) is false.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Bengal British Indian Society was founded in 1843 A.D.
+
+as a result of George Thompson's efforts. He was president
+
+of this organisation. He was brought out from England by
+
+Dwarkanath Tagore to organise the political movement.
+
+</details>
+
+---
+
+**Q-GC-ORG-3. I.A.S. (Pre) 2002**
+
+Which one of the following submitted in 1875 a petition
+
+to the House of Commons demanding India’s direct
+
+representation in the British Parliament?
+
+- (a) The Deccan Association
+
+- (b) The Indian Association
+
+- (c) The Madras Mahajan Sabha
+
+- (d) The Poona Sarvajanik Sabha
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Poona Sarvajanik Sabha was one of the strongest political
+
+organiation of 19th century India. It was launched on 2 April
+
+1870 A.D. in the Pune district of Maharashtra. It was the
+
+result of the labour of many great men like G.V. Joshi, S.H.
+
+Sathe and S.H. Chiplonkar. Fresh vigour and energy were
+
+infused into the Sabha in November 1871 A.D. with the entry
+
+of M.G. Ranade.
+
+</details>
+
+---
+
+**Q-GC-ORG-4. 45th B.P.S.C. (Pre) 2001**
+
+Who was the founder of the Indian Association?
+
+- (a) Dadabhai Naoroji
+
+- (b) Bal Gangadhar Tilak
+
+- (c) A.O. Hume
+
+- (d) Surendranath Banerjee
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Indian Association was founded by Surendranath
+
+Banerjee with the cooperation of Anand Mohan Bose in
+
+Calcutta, on 26 July 1876. This was the most significant
+
+political association among all contemporary nationalist
+
+organisations prior to the Indian National Congress. Indian
+
+Association preferred middle class over landlords.
+
+</details>
+
+---
+
+**Q-GC-ORG-5. 67th B.P.S.C. (Pre) 2022**
+
+Who established Indian Association in 1876 A.D.?
+
+- (a) Surendranath Banerjee
+
+- (b) Chittaranjan Das
+
+- (c) W.C. Banerjee
+
+- (d) Aurobindo Ghosh
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-ORG-6. U.P.P.C.S. (Mains) 2008**
+
+Who amongst the following was the founder of ‘Indian
+
+Association’?
+
+- (a) Bipin Chandra Pal
+
+- (b) Dadabhai Naoroji
+
+- (c) Gopal Krishna Gokhale
+
+- (d) S.N. Bannerjee
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-ORG-7. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+The most important of the pre-Congress Nationalist
+
+Organisation was the
+
+- (a) Bengal British India Society
+
+- (b) East India Association
+
+- (c) Young Bengal Association
+
+- (d) Indian Association of Calcutta
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-ORG-8. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Which among the following year Surendra Nath
+
+Bannerjee was eliminated from Indian Civil Services?
+
+- (a) 1874 AD
+
+- (b) 1877 AD
+
+- (c) 1885 AD
+
+- (d) 1892 AD
+
+- (e) None of the above/ More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Surendra Nath Banerjee was dismissed from Civil Services
+
+in the year 1874 A.D. for making a minor judicial error.
+
+</details>
+
+---
+
+**Q-GC-ORG-9. I.A.S. (Pre) 1999**
+
+Which one of the following Indian leaders was
+
+dismissed by the British from the Indian Civil Service?
+
+- (a) Satyendranath Tagore
+
+- (b) Surendranath Banerji
+
+- (c) R.C. Dutt
+
+- (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Surendra Nath Banerjee was selected for Indian Civil Services
+
+exam in 1869 A.D., but he was disqualified over some
+
+trouble regarding his exact age. He was reappointed after the
+
+judgment of the court. But very soon he was dismissed for
+
+making a minor judicial error. He was a founding member
+
+of ‘Indian Association’ and ‘ Indian National Conference.’
+
+</details>
+
+---
+
+**Q-GC-ORG-10. U.P.P.C.S. (Mains) 2007**
+
+Name the organization formed by Surendranath
+
+Banerjee which merged with the Indian National
+
+Congress in 1886:
+
+- (a) East India Association
+
+- (b) London India Society
+
+- (c) Indian Association
+
+- (d) Indian National Conference
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Indian National Conference was organised by Surendranath
+
+Banerjee. And Due to the same objective, Indian National
+
+Conference was merged with the Indian National Congress. The
+
+ideology and methodology of both groups were alike; thus, it was
+
+the logical decision of Indian Association. This was beneficial
+
+for Indian integration and the Indian National Congress.
+
+</details>
+
+---
+
+**Q-GC-ORG-11. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Who was the first Indian to resist for the political
+
+reforms?
+
+- (a) Dadabhai Naoroji
+
+- (b) Surendra Nath
+
+- (c) Ram Mohan Roy
+
+- (d) Bal Gangadhar Tilak
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Raja Ram Mohan Roy was the first Indian to resist for political
+
+reforms. He wrote about human rights and the development
+
+of democratic valves. According to Bipin Chandra Pal, Ram
+
+Mohan Roy was first Indian political reformer. Although,
+
+some historians gave this credit to Surendra Nath Banerjee.
+
+</details>
+
+---
+
+**Q-GC-ORG-12. Jharkhand P.C.S. (Pre) 2003**
+
+Arrange the following organization on the basis of their
+
+correct order:
+
+1. Bombay Association 2. Madras Mahajan Sabha
+
+3. Indian Association 4. Indian League
+
+Code :
+
+- (a) 1, 2, 3, 4
+
+- (b) 2, 3, 1, 4
+
+- (c) 3, 4, 2, 1
+
+- (d) 1, 4, 3, 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The sequence of organisations and their founders is as
+
+follows:
+
+Bombay Association – August, 1852 – founded by Dada
+
+Bhai Naoroji
+
+Indian League – September, 1875 – founded by Shishir
+
+Kumar Ghosh
+
+Indian Association – July, 1876. – founded by Surendra Nath
+
+Banerjee and Anand Mohan Bose.
+
+Madras Mahajan Sabha : May, 1884 founded by S.
+
+Ramaswami Mudaliar, G. Subramaniam, P. Anand Charlu
+
+and M. V. Raghavachari. Thus the correct sequence is – 1,
+
+4, 3, 2 therefore, option (d) is the correct.
+
+</details>
+
+---
+
+**Q-GC-ORG-13. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+The Madras Mahajan Sabha was established in the
+
+year-
+
+- (a) 1880
+
+- (b) 1881
+
+- (c) 1882
+
+- (d) 1883
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-ORG-14. U.P.P.C.S. (Mains) 2016**
+
+Who amongst the following was one of the founders of
+
+the Bombay Presidency Association in 1885?
+
+- (a) Pherozeshah Mehta
+
+- (b) P. Anand Charlu
+
+- (c) M. V. Raghav Cheriyar
+
+- (d) S. N. Banerjee
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Pherozeshah Mehta was one of the founding members of the
+
+Bombay Presidency Association formed in 1885. He became
+
+president of the Association and encouraged Indians to obtain
+
+Western education and embrace its culture to uplift India.
+
+</details>
+
+---
+
+**Q-GC-ORG-15. 63rd B.P.S.C (Pre.) 2017**
+
+Bombay Presidency Association was established by -:
+
+- (a) Pherozeshah Mehta
+
+- (b) K. T. Tailang
+
+- (c) W.C. Banerjee
+
+- (d) Tayabjee
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (e)**
+
+**Explanation:**
+Bombay Presidency Association was established in 1885 A.D.
+
+by Pherozeshah Mehta, K.T. Tailang and Badruddin Tyabji.
+
+</details>
+
+---
+
+**Q-GC-ORG-16. U.P. Lower Sub. (Spl) (Pre) 2008**
+
+Which of the following pairs do not match? Find
+
+your answer with the help of given code:
+
+1. British India Society - London
+
+2. East India Association - Calcutta
+
+3. National Indian Association - London
+
+4. Indian Association - Bombay
+
+Code :
+
+- (a) 1 and 2
+
+- (b) 3 and 4
+
+- (c) 1 and 3
+
+- (d) 2 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The correct match of the associations, their places, and their
+
+founders is as follows–
+
+British India Society (1839) – London, William Adam
+
+East India Association – (1866) – London, Dadabhai Naoroji
+
+National Indian Association (1870/71) - London, Mary
+
+Carpenter and Elizabeth Adelaide Manning.
+
+Indian Association (1876)– Kolkata, Surendranath Banerjee,
+
+and Anand Mohan Bose.
+
+</details>
+
+---
+
+**Q-GC-ORG-17. 70th B.P.S.C. Re-Exam 2024**
+
+Match List - I of Pre-Congress organisations with
+
+List - II of their leaders and choose answer from the
+
+codes given below:
+
+List - I List - II
+
+- (A) Indian Association (i) Dadabhai Naoroji
+
+- (B) Madras Mahajan (ii)M. Veeraraghavachariar
+
+Sabha
+
+- (C) Bombay Presidency (iii) Justice Ranade
+
+Association
+
+- (D) Poona Sarvjanik (iv) Surendranath Banerjee
+
+Sabha
+
+Code :
+
+A B C D
+
+- (a) ii i iii iv
+
+- (b) iv ii i iii
+
+- (c) i ii iv iii
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The list of organizations and their founders is as follows:
+
+- Indian Association - Surendranath Banerjee
+
+- Poona Sarvajanik Sabha - Mahadev Govind Ranade
+
+- Bombay Presidency Association - Dadabhai Naoroji
+
+- Madras Mahajan Sabha - M. Veeraraghavachariar
+
+</details>
+
+---
+
+**Q-GC-ORG-18. U.P.P.C.S. (Mains) 2017**
+
+Which of the following was not one of the political
+
+associations to be set up during the pre-congress phase?
+
+- (a) The British India Association
+
+- (b) The Indian Association
+
+- (c) Madras Native Association
+
+- (d) Landholder’s Society at Calcutta
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Bristol Indian Association was established in September,
+
+1870 AD. Its name was changed to 'The Indian Association' in
+
+October, 1870 AD. Established by Mary Carpenter, Keshav
+
+Chandra Sen and Elizabeth Adelaide Manning in England,
+
+this organisation used to work for women's education, hence it
+
+was not a political organisation. In 1871 it was again renamed
+
+as National Indian Association.
+
+</details>
+
+---
+
+**Q-GC-ORG-19. U.P.R.O./A.R.O. (Pre.) 2021**
+
+Given below are two statements, one labeled as
+
+- Assertion
+
+- (A) and the other as Reason (R):
+
+- Assertion
+
+- (A) : Dadabhai Naoroji organised the East India
+
+Association in 1866 in London to discuss Indian questions.
+
+Reason (R) : He wanted to influence the British Public
+
+Opinion.
+
+Choose the correct answer from the code given below:
+
+- (a)
+
+- (A) is true but (R) is false
+
+- (b)
+
+- (A) is false but (R) is true
+
+- (c) Both
+
+- (A) and (R) are true and (R) is the correct explanation of
+
+- (A)
+
+- (d) Both
+
+- (A) and (R) are true but (R) is not the correct
+
+- explanation of
+
+- (A)
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+East India Association was established by Dadabhai Naoroji
+
+in 1866 in London. He established it to influence British
+
+public opinion on the question of India.
+
+</details>
+
+---
+
+**Q-GC-ORG-20. U.P.R.O./A.R.O. (Pre) 2016**
+
+Consider the following organizations:
+
+1. Bangabhasha Prakasika Sabha
+
+2. Landholders Society
+
+3. Bengal British India Society
+
+4. Indian League
+
+Select the correct chronological order of founding of
+
+these organizations from the code given below:
+
+- (a) 1, 2, 3, 4
+
+- (b) 1, 3, 2, 4
+
+- (c) 2, 1, 3, 4
+
+- (d) 2, 3, 4, 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correct chronological order of the organisations is as
+
+follows : Bangabhasha Prakasika Sabha was formed in 1836
+
+by associates of Raja Ram Mohan Roy. Land-holders society
+
+was established in 1838 by Dwarkanath Tagore and others
+
+Bengal British India Society was founded in 1843 and Indian
+
+league was founded in 1875 by Shishir Kumar Ghose. Thus,
+
+option (a) is the correct code of chronological order of the
+
+above organizations.
+
+</details>
+
+---
+
+**Q-GC-ORG-21. U.P.P.C.S. (Mains) 2014**
+
+Match List- I with List- II and select the correct answer
+
+from the code given below:
+
+List- I List- II
+
+(Organizations) (Founders)
+
+A. Land Holders’ Society1. S.N. Banerji
+
+B. British India Society 2. Anand Mohan Bose
+
+C. Indian Society 3. William Adams
+
+D. Indian Association 4. Dwarkanath Tagore
+
+Code :
+
+A B C D
+
+- (a) 4 3 2 1
+
+- (b) 4 2 3 1
+
+- (c) 3 2 4 1
+
+- (d) 4 1 2 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The correctly matched list of the organizations and their
+
+founders is as follows:
+
+Organization - Founder
+
+Land Holders’ Society - Dwarkanath Tagore
+
+British India Society - William Adams
+
+Indian Society - Anand Mohan Bose
+
+Indian Association - S.N. Banerji
+
+</details>
+
+---
+
+**Q-GC-ORG-22. U.P. P.C.S. (Pre) 2024**
+
+Consider the following events and arrange them in
+
+chronological order:
+
+1. East India Association
+
+2. National Indian Association
+
+3. Indian Society
+
+4. Indian Association
+
+Choose the correct answer from the options given
+
+below:
+
+- (a) 1, 2, 4, 3
+
+- (b) 1, 3, 2, 4
+
+- (c) 2, 1, 4, 3
+
+- (d) 1, 2, 3, 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Organizations and Their Founders:
+
+1. East India Association (1866 AD) – Founded by Dadabhai
+
+Naoroji
+
+2. National Indian Association (1870/71 AD) – Founded by
+
+Mary Carpenter
+
+3. Indian Society (1872 AD) – Founded by Anand Mohan Bose
+
+4.Indian Association (1876 AD) – Founded by Surendranath
+
+Banerjee and Anand Mohan Bose
+
+</details>
+
+---
+
+**Q-GC-ORG-23. U.P. Lower sub. (Spl.) (Pre) 2008**
+
+Match the List-I with List-II:
+
+A. India League 1. Shishir Kumar Ghosh
+
+B. Indian Association 2. Anand Mohan Bose
+
+C. India National Liberal 3. Syed Ahmad Khan
+
+Federation
+
+D. United Indian Patriotic 4. Surendranath
+
+Association Bannerjee
+
+Code :
+
+A B C D
+
+- (a) 1 3 4 2
+
+- (b) 2 1 4 3
+
+- (c) 3 2 4 1
+
+- (d) 1 2 4 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Organisation Founder Year Purpose
+
+India League Shishir Kumar 1875 To promote
+
+Ghosh nationalism and
+
+political education in India.
+
+Indian Anand Mohan 26 July, To include
+
+Association Bose and 1876 everyone not
+
+Surendra Nath only middle
+
+Banerjee class people.
+
+Indian National Surendranath Espousing
+
+Liberal Banerjee liberal, proFederation British point of
+
+view in politics.
+
+United Indian Sir Syed To develop
+
+Patriotic Ahmed Khan, and close relationAssociation Raja Shiv Prasad ship between
+
+the Muslim
+
+Community
+
+and British
+
+Government.
+
+</details>
+
+---
+
+**Q-GC-ORG-24. U.P.R.O./A.R.O. (Pre) (Re-Exam) 2016**
+
+Match the List-I with List-II and select the correct
+
+answer using codes given below :
+
+List-I List-II
+
+- (a) Indian Association 1. Ananda Charlu
+
+- (b) Poona Sarvjanik Sabha 2. Surendra Nath Banerji
+
+- (c) Bombay Presidency 3. Mahadev Govind
+
+Association Ranade
+
+- (d) Madras Mahajan Sabha 4. Pherozshah Mehta
+
+Codes :
+
+A B C D
+
+- (a) 2 3 4 1
+
+- (b) 2 4 3 1
+
+- (c) 3 2 4 1
+
+- (d) 3 4 2 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Following are the matches:
+
+List-I List-II
+
+Indian Association - Surendra Nath Banerjee
+
+Poona Sarvjanik Sabha - Mahadev Govind Ranade
+
+Bombay Presidency Association - Pherozeshah Mehta
+
+Madras Mahajan Sabha - Anand Charlu
+
+</details>
+
+---
+
+**Q-GC-ORG-25. U.P.R.O./A.R.O. (Mains) 2016**
+
+Who among the following was the founder of the
+
+'United Indian Patriotic Association' with Syed Ahmad
+
+Khan?
+
+- (a) Abdul Aziz
+
+- (b) Mohammed-ul-Hasan
+
+- (c) Raja Shivaprasad
+
+- (d) Govind Das
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+United Indian Patriotic Association was a political
+
+organisation founded in 1888 by Sir Syed Ahmed Khan and
+
+Raja Shiv Prasad of Banaras.
+
+</details>
+
+---
+
+**Q-GC-ORG-26. U.P.P.C.S. (Pre) 2015**
+
+Which one of the following pairs is not correctly
+
+matched?
+
+- (a) Asiatic Society of Bengal - 1784 A.D.
+
+- (b) Asiatic Society of Bombay - 1804 A.D.
+
+- (c) Royal Asiatic Society of - 1813 A.D.
+
+Great Britain
+
+- (d) Land Holders Society of - 1844 A.D.
+
+Bengal
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+In the above question, option (c) and (d) both are not correctly
+
+matched. It is notable that Royal Asiatic Society of Great
+
+Britain and Ireland was founded in 1823 A.D. and Land
+
+Holders Society of Bengal was established in 1838 A.D.
+
+</details>
+
+---
+
+**Q-GC-ORG-27. U.P. P.C.S. (Mains) 2017**
+
+Who founded the Asiatic Society of Bengal in Calcutta
+
+in 1784?
+
+- (a) Jonathan Duncan
+
+- (b) William Jones
+
+- (c) Warren Hastings
+
+- (d) Charles Grant
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Asiatic Society of Bengal in Calcutta was established in 1784
+
+AD by William Jones.
+
+</details>
+
+---
+
+**Q-GC-ORG-28. U.P.P.C.S. (Pre.) 2021**
+
+Who was the founder of the 'Asiatic Society of Bengal'?
+
+- (a) Jonathan Duncan
+
+- (b) Sir William Jones
+
+- (c) Warren Hastings
+
+- (d) William Bentinck
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Asiatic Society of Bengal, was founded on January 15, 1784,
+
+by Sir William Jones, a British lawyer and Orientalist, to
+
+encourage Oriental studies.
+
+</details>
+
+---
+
+**Q-GC-ORG-29. Chhattisgarh P.C.S. (Pre) 2020**
+
+Who was the first president of 'British Indian
+
+Association'?
+
+- (a) Surrendra Nath Banerjee
+
+- (b) Gopal Krishna Gokhale
+
+- (c) Radha Kant Dev
+
+- (d) Anand Mohan Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+British Indian Association was established in 1851 at
+
+Calcutta. Founder members included Rajendralal Mitra,
+
+Radha Kant Dev, Devendranath Tagore etc. Its first president
+
+was Radha Kant Dev.
+
+</details>
+
+---
+
+**Q-GC-ORG-30. U.P. P.C.S. (Mains) 2006**
+
+Match List-I with List-II and select the correct answer
+
+from the code given below the Lists:
+
+List-I (Founders)
+
+A. British Indian Association
+
+B. Bombay Presidency Association
+
+C. Central Mohammadan National Association
+
+D. Servants of India Society
+
+List-II (Founders)
+
+1. Gopal Krishna Gokhale
+
+2. K.T. Telang
+
+3. Radha Kant Dev
+
+4. Sayyed Amir Ali
+
+Code :
+
+A B C D
+
+- (a) 1 2 4 3
+
+- (b) 3 2 4 1
+
+- (c) 3 1 2 4
+
+- (d) 4 3 2 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The British Indian Association was established in 1851 AD
+
+in Calcutta. The founder members of this association were
+
+Rajendralal Mitra, Radhakant Dev (President), Devendranath
+
+Tagore, Harish Chandra Mukherjee, etc. The Bombay
+
+Presidency Association was founded by Pherozeshah Shah
+
+Mehta, Badruddin Tyabji, K.T. Telang, etc. Central National
+
+Mohammadan Association was established by Syed Amir
+
+Ali and Servants of India Society was established by Gopal
+
+Krishna Gokhale in 1905.
+
+</details>
+
+---
+
+
+
+## Complete PYQ Bank — Ghatnachakra Indian National Congress (82 Questions)
+
+Complete unabridged 82-question bank from the core Ghatna Chakra repository covering the entire institutional history of the Indian National Congress: Founding by A.O. Hume (1884 Indian National Union, 1885 Bombay Gokuldas Tejpal Sanskrit College, 72 delegates, W.C. Banerjee 1st President, Dadabhai Naoroji naming suggestion), early objectives and moderate demands (separation of judiciary & executive), Viceroy Lord Dufferin's ridicule ("microscopic minority"), Dadabhai Naoroji's 2nd session (1886 Calcutta, 33 Muslim delegates), Badruddin Tyabji's 3rd session (1887 Madras, 1st Muslim President, Subjects Committee), George Yule's 4th session (1888 Allahabad, 1st European President), British Committee of INC in London (1889, Sir William Wedderburn, *India* journal), Rahimtulla M. Sayani (1896 Calcutta, 2nd Muslim President, *Vande Mataram* first sung), Annie Besant (1917 Calcutta, 1st woman President), Sarojini Naidu (1925 Kanpur, 1st Indian woman President), 1912 Bankipur Patna (27th session, R.N. Mudholkar, Hume hailed as "Father of Congress"), 1916 Lucknow Pact & Tilak's declaration (*"Swaraj is my birthright"*), Curzon's famous 1900 proclamation ("assist Congress to a peaceful demise"), Subhash Chandra Bose (1938 Haripura, Roman script advocacy, National Planning Committee), Mahatma Gandhi (1924 Belgaum only presidency, post-independence dissolution recommendation), C.R. Das (presided from prison 1921 Ahmedabad, 1922 Gaya), C. Vijayaraghavachariar (1920 Nagpur session, linguistic PCCs, Princely States policy), Jawaharlal Nehru (1929 Lahore, 1936 Lucknow socialism speech, 1936 Faizpur), Maulana Abul Kalam Azad (youngest President 1923, 1940–46 continuous wartime presidency), Acharya J.B. Kripalani (President at Independence, 1946 Meerut), Rabindranath Tagore's *Jana-Gana-Mana* (first sung 27 Dec 1911 Calcutta), and Bal Gangadhar Tilak's final attendance (Amritsar 1919). Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC-INC-1. 42nd B.P.S.C. (Pre) 1997 / 44th B.P.S.C. (Pre) 2000**
+
+Indian National Congress was established by-
+
+- (a) A.O. Hume
+
+- (b) Surendra Nath Banerji
+
+- (c) W.C. Banerji
+
+- (d) Annie Besant
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Allan Octavian Hume (A.O. Hume) was a retired British
+
+officer of Indian Civil Service. In 1884 A.D., he established
+
+the Indian National Union. After visiting Kolkata, Mumbai
+
+and Madras, Hume took the initiative to organize the first
+
+Indian National Union to meet in Poona. Its objective was to
+
+obtain a share in Government for educated Indians, to create
+
+a platform for civil and political dialogue between educated
+
+Indians in British Raj. The first meeting was scheduled to be
+
+held in Poona, but due to an outbreak of Cholera, it was shifted
+
+to Gokuldas Tejpal Sanskrit College in Bombay. The first
+
+session of Indian National Union was held on 28-30 December,
+
+1885 A.D.. In this session on the advice of Dadabhai Naoroji,
+
+the organization was renamed as ‘Indian National Congress.’
+
+</details>
+
+---
+
+**Q-GC-INC-2. 43rd B.P.S.C. (Pre) 1999**
+
+The founder of the Indian National Congress was a :
+
+- (a) Civil Servant
+
+- (b) Scientist
+
+- (c) Social Worker
+
+- (d) Commander
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-3. 65th B.P.S.C. (Pre) 2019**
+
+Who was the founder of the Indian National Congress?
+
+- (a) William Adam
+
+- (b) A. O. Hume
+
+- (c) Rash Behari Bose
+
+- (d) Motilal Nehru
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-4. U.P.P.C.S. (Mains) 2010 / Uttarakhand P.C.S. (Mains) 2006 / Jharkhand P.C.S (Pre) 2003 / 43rd B.P.S.C. (Pre) 1999**
+
+When was the Indian National Congress set up?
+
+- (a) in 1885
+
+- (b) in 1886
+
+- (c) in 1887
+
+- (d) in 1888
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Indian National Congress was founded in 1885 A.D.
+
+by A.O. Hume, who was a retired civilian officer. The
+
+first session of the Indian National Congress was held
+
+in Bombay on 28-30 December, 1885 AD at Gokuldas
+
+Tejpal Sanskrit College with 72 representative delegates in
+
+attendance. Hume assumed office as the General Secretary
+
+and Womesh Chandra Banerjee was elected as president.
+
+</details>
+
+---
+
+**Q-GC-INC-5. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+How many representatives took part in the First
+
+Session of the Indian National Congress?
+
+- (a) 52
+
+- (b) 62
+
+- (c) 72
+
+- (d) 82
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-6. I.A.S. (Pre) 2008 / U.P.P.C.S. (Mains) 2007 / Uttarakhand U.D.A./LDA (Mains) 2007 / 42nd B.P.S.C. (Pre) 1997**
+
+The first conference of Indian National Congress was
+
+held at–
+
+- (a) Kolkata
+
+- (b) Lahore
+
+- (c) Mumbai
+
+- (d) Pune
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-7. M.P.P.C.S. (Pre) 1994**
+
+Who was the first President of the Indian National
+
+Congress?
+
+- (a) A.O. Hume
+
+- (b) W.C. Banerjee
+
+- (c) Dadabhai Naoroji
+
+- (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-8. U.P. Lower Sub. (Pre) 2015**
+
+Who among the following presided over the first annual
+
+meeting of the Indian National Congress?
+
+- (a) A.O. Hume
+
+- (b) Dadabhai Naoroji
+
+- (c) S.N. Banerjee
+
+- (d) W.C. Banerjee
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-9. U.P.P.C.S. (Mains) 2004**
+
+The President of the Indian National Congress in 1885
+
+was –
+
+- (a) George Yule
+
+- (b) Dadabhai Naoroji
+
+- (c) W.C. Bannerji
+
+- (d) W. Wedderburn
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-10. U.P.P.C.S. (Pre) 2015**
+
+The first President of Indian National Congress was
+
+- (a) Dadabhai Naoroji
+
+- (b) Surendra Nath Bannerji
+
+- (c) Womesh Chandra Bannerjee
+
+- (d) A. O. Hume
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-11. U.P. R.O./A.R.O. (Mains) 2014**
+
+Who among the following was the first President of the
+
+Indian National Congress?
+
+- (a) A. O. Hume
+
+- (b) S. N. Banerjee
+
+- (c) W. C. Banerjee
+
+- (d) Dadabhai Naoroji
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-12. Chhattisgarh P.C.S. (Pre) 2023**
+
+Which of the following statements about the founding
+
+of the Indian National Congress (INC) is/are correct?
+
+(1)The Indian National Congress (INC) was formed
+
+in 1885.
+
+(2)The first president of the Indian National Congress
+
+(INC) was Womesh Chandra Banerjee.
+
+Select the correct answer using the options given
+
+below:
+
+- (a) (1) only
+
+- (b) (2) only
+
+- (c) Both (1) and (2)
+
+- (d) Neither (1) nor (2)
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-13. 66th B.P.S.C. (Pre) (Re-Exam) 2020**
+
+Which of the following was not an objective of the
+
+Indian National Congress as pointed out by W.C.
+
+Banerjee in 1885?
+
+- (a) To promote contact and friendship among the
+
+protectors of the interests of the country
+
+- (b) To promote the feeling of nationalism among fellow
+
+countrymen by removing the feeling of casteism,
+
+communalism and regional biases
+
+- (c) To express the viewpoint on the necessary social issues
+
+with due consent of the educated class
+
+- (d) To determine on which direction and on which basis
+
+the work has to be done in the coming years for the
+
+Indian public interest
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In 1885 AD, the following objectives were stated in the first
+
+session of the Indian National Congress indicated by Womesh
+
+Chandra Banerjee1. To promote contacts and friendship among Indians
+
+defending the interests of the country.
+
+2. To inculcate the feeling of national unity among
+
+countrymen, by removing the feeling of caste, sect and
+
+regional biases among them.
+
+3. To unite all the classes and communities of India and
+
+create a sense of one nation among them;
+
+4. Formulation and presentation of public demands; It is
+
+known that initially there was a provision or arrangement
+
+for not raising social issues from the Congress platform.
+
+</details>
+
+---
+
+**Q-GC-INC-14. M.P.P.C.S. (Pre) 2023**
+
+In the first stage of the National Movement, which
+
+one among the following was not a demand of the
+
+Congress?
+
+- (a) To increase the number of members of the Legislative
+
+Councils
+
+- (b) To increase the number of members of the public
+
+representatives in the councils
+
+- (c) Separation of Executive and Judiciary
+
+- (d) Unification of Executive and Judiciary
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+During the first stage of National Movement, Congress
+
+demanded a greater voice for Indians in the government and
+
+in administration. It wanted the legislative councils to be
+
+made more representative, given more power and introduced
+
+in provinces where none existed. It demanded that Indians be
+
+placed in high positions in the government. Other demands
+
+included the separation of the judiciary from the executive,
+
+the repeal of the Arms Act and the freedom of speech and
+
+expression.
+
+</details>
+
+---
+
+**Q-GC-INC-15. U.P. U.D.A./L.D.A. (Spl) (Pre) 2010**
+
+The General Secretary of the Indian National Congress
+
+in the year 1885 was :
+
+- (a) A.O. Hume
+
+- (b) Dadabhai Naoroji
+
+- (c) W.C. Banerjee
+
+- (d) Firoz Shah Mehta
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The General Secretary of the Indian National Congress in
+
+the year 1885 AD was A.O. Hume. He organized the Indian
+
+National Congress. W.C. Banerjee was the President of the
+
+first session of Indian National Congress.
+
+</details>
+
+---
+
+**Q-GC-INC-16. U.P.P.C.S. (Mains) 2012 / U.P.P.C.S. (Mains) 2011 / U.P.P.C.S. (Mains) 2006**
+
+The Indian National Congress was established during
+
+the viceroyalty of:
+
+- (a) Lord Ripon
+
+- (b) Lord Lytton
+
+- (c) Lord Elgin II
+
+- (d) Lord Dufferin
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Indian National Congress was established during the
+
+tenure of Viceroy Lord Dufferin (1884-1888 A.D.). He
+
+had ridiculed Congress as representing only a short-sighted
+
+minority of the people.
+
+</details>
+
+---
+
+**Q-GC-INC-17. U.P. P.C.S. (Pre) 2018**
+
+Who among the following Governor Generals ridiculed
+
+congress as representing only a 'microscopic minority'
+
+of people?
+
+- (a) Lord Dufferin
+
+- (b) Lord Curzon
+
+- (c) Lord Minto
+
+- (d) Lord Lansdowne
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-18. U.P.P.C.S. (Mains) 2017**
+
+Who was the Governor-General when the Indian
+
+National Congress was founded in 1885 ?
+
+- (a) Lord Linlithgow
+
+- (b) Lord Wellesley
+
+- (c) Lord Dufferin
+
+- (d) Lord Salisbury
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-19. M.P. P.C.S. (Pre) 2017**
+
+An important event of Lord Dufferin's tenure as
+
+Viceroy was :
+
+- (a) establishment of Ramakrishna Mission
+
+- (b) establishment of Muslim League in Dhaka
+
+- (c) establishment of Indian National Congress
+
+- (d) beginning of the first Census
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-20. U.P. P.C.S. (Mains) 2012**
+
+Who had ridiculed Congress as representing only a
+
+short-sighted minority of the people?
+
+- (a) Lord Ripon
+
+- (b) Lord Dufferin
+
+- (c) Lord Curzon
+
+- (d) Lord Wellesley
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-21. U.P.P.C.S. (Pre) 1997**
+
+Who among the following was not present at the
+
+founding session of the Indian National Congress:
+
+- (a) Dadabhai Naoroji
+
+- (b) G. Subramaniya Iyer
+
+- (c) Justice Ranade
+
+- (d) Surendranath Bannerjee
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Indian Association was founded by Surendranath Banerjee
+
+and Anand Mohan in Bengal in 1876 AD to promote youth
+
+nationalism. Indian National Conference was held in December,
+
+1883 A.D. The second conference was held in Calcutta in
+
+December 1885 A.D. which was presided over by Surendranath
+
+Bannerjee. That’s why Surendranath Banerjee was not present
+
+in the founding session of Indian National Congress.
+
+</details>
+
+---
+
+**Q-GC-INC-22. 45th B.P.S.C. (Pre) 2001**
+
+The second session of the Indian National Congress
+
+was presided over by-
+
+- (a) Ganesh Agarkar
+
+- (b) Surendranath Bannerjee
+
+- (c) Dadabhai Naoroji
+
+- (d) Feroz Shah Mehta
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The second session of the Indian National Congress was
+
+held in Calcutta in 1886, presided over by Dadabhai Naoroji.
+
+</details>
+
+---
+
+**Q-GC-INC-23. 67h B.P.S.C. (Pre) (Re-Exam) 2020**
+
+How many Muslim delegates participated the Second
+
+Convention of the Indian National Congress?
+
+- (a) 2
+
+- (b) 33
+
+- (c) 30
+
+- (d) 41
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The second conference of the Congress was held in Calcutta
+
+on December 27-30, 1886 A.D. under the chairmanship
+
+of Dadabhai Naoroji. A total of 436 registered delegates
+
+participated in the second session of the Congress. While the
+
+number of Muslim delegates was 2 in the first conference
+
+of the Congress, it reached 33 in the second conference,
+
+81 in the third conference (1887 AD) and 221 in the fourth
+
+conference (1888 AD).
+
+</details>
+
+---
+
+**Q-GC-INC-24. R.A.S./R.T.S. (Pre) 1996**
+
+In 1889, a committee was set up in Britain to gain
+
+support for the Congress, who amongst the following
+
+was its President –
+
+- (a) Sir W. Wadderburn
+
+- (b) Mr. Digby
+
+- (c) Dadabhai Naoroji
+
+- (d) W.C. Banerjee
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+‘British Committee of Indian National Congress’ was
+
+established in London in July, 1889 A.D. with the purpose
+
+of gaining support for Indian National Congress under the
+
+presidency of Sir W. Wedderburn. It was a committee of
+
+Indian National Congress. This committee released a weekly
+
+journal “India” to convey Indian issues to British.
+
+</details>
+
+---
+
+**Q-GC-INC-25. Uttarakhand U.D.A./L.D.A. (Pre) 2007 / U.P.P.C.S. (Pre) 2005 / U.P.P.C.S. (Pre) 1995**
+
+First Muslim President of Indian National Congress
+
+was:
+
+- (a) Abul Kalam Azad
+
+- (b) Rafi Ahmad Kidwai
+
+- (c) M.A. Ansari
+
+- (d) Badruddin Tyabji
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Badruddin Tyabji was the first Muslim President of Indian
+
+National Congress elected in 1887 A.D. at Madras session
+
+held on 27-30 December. He was elected as the President of
+
+the third session.
+
+</details>
+
+---
+
+**Q-GC-INC-26. U.P. Lower Sub. (Spl) (Pre) 2004 / U.P.P.C.S. (Mains) 2003**
+
+Who was the 1st Muslim President of Indian National
+
+Congress?
+
+- (a) Abul Kalam Azad
+
+- (b) Shaukat Ali
+
+- (c) Mohammad Ali Jinnah
+
+- (d) Badruddin Tyabji
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-27. 70th B.P.S.C. Re-Exam 2024**
+
+Who was the first Muslim President of Indian National
+
+Congress ?
+
+- (a) Hasrat Mohani
+
+- (b) Badruddin Tyabji
+
+- (c) Maulana Azad
+
+- (d) More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-28. 66th B.P.S.C. Re-Exam (Pre) 2020**
+
+Who was the second Muslim President of the Indian
+
+National Congress?
+
+- (a) Abul Kalam Azad
+
+- (b) Zakir Hussain
+
+- (c) Rahimtulla Mahomed Sayani
+
+- (d) Badruddin Tyabji
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Second Muslim President of the Indian National Congress
+
+was Rahimtulla M. Sayani. He was president in 1896 A.D.
+
+Calcutta session.
+
+</details>
+
+---
+
+**Q-GC-INC-29. I.A.S. (Pre) 2015**
+
+Consider the following statements:
+
+1. The first woman, President of the Indian National
+
+Congress, was Sarojini Naidu.
+
+2. The first Muslim President of the Indian National
+
+Congress was Badruddin Tyabji.
+
+Which of the statements given above is/are correct?
+
+- (a) 1 only
+
+- (b) 2 only
+
+- (c) Both 1 and 2
+
+- (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Statement 1 is wrong because Annie Besant was the first woman
+
+President of Indian National Congress in 1917 A.D. at Calcutta
+
+Session while Sarojini Naidu was the first Indian woman
+
+President of INC in the Kanpur session of 1925 A.D. Annie
+
+Besant was a lady of Anglo-Ireland origin and was one of the few
+
+foreigners who played a significant role in the Indian freedom
+
+movement. Statement 2 is correct because Badruddin Tyabji was
+
+the first Muslim President of Indian National Congress elected
+
+in 1887 A.D., for third Session of INC at Madras.
+
+</details>
+
+---
+
+**Q-GC-INC-30. U.P.R.O./A.R.O. (Mains) 2013**
+
+The first European to be elected as President of the
+
+Indian National Congress was
+
+- (a) A. O. Hume
+
+- (b) George Yule
+
+- (c) Alfred Webb
+
+- (d) Annie Besant
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The First European to be elected as President of the Indian
+
+National Congress was George Yule. He presided over the
+
+4th session of INC, 1888 AD.
+
+</details>
+
+---
+
+**Q-GC-INC-31. Uttarakhand U.D.A./ L.D.A. (Pre) 2003**
+
+Who among the following was never concerned with
+
+the Indian National Congress?
+
+- (a) Firozshah Mehta
+
+- (b) Hakim Ajmal Khan
+
+- (c) Khan Abdul Ghaffar Khan
+
+- (d) Sir Syed Ahmad
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Sir Syed Ahmed Khan was never connected with the Indian
+
+National Congress. He was in Judicial Service during the
+
+revolt of 1857. He was loyal towards British. He became the
+
+antagonist of Congress due to misinterpretations by the British.
+
+He published the magazine “Rajbhakt Muslim” to express
+
+loyalty towards British and established “United Indian Patriotic
+
+Association” with the cooperation of Raja Shiv Prasad Singh
+
+“Sitar-i-Hind.” He propagated his ideology through Magzine
+
+“Tehzeeb-ul-Akhlaq.” He had established a Muhammadan
+
+Anglo-Oriental College in Aligarh where Western subjects,
+
+Science and Muslim religion were taught.
+
+</details>
+
+---
+
+**Q-GC-INC-32. U.P.P.C.S. (Spl) (Mains) 2008 / Uttarakhand U.D.A./L.D.A. (Pre) 2007 / U.P.P.C.S. (Mains) 2006**
+
+Who among the following was never elected as a
+
+President of the ‘Indian National Congress.’
+
+- (a) Lala Lajpat Rai
+
+- (b) Annie Besant
+
+- (c) Moti Lal Nehru
+
+- (d) Bal Gangadhar Tilak
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Lala Lajpat Rai, popularly known as ‘Sher-e-Punjab (The
+
+Lion of Punjab) presided over Indian National Congress in
+
+a special session of Calcutta 1920 A.D. He was the author
+
+of ‘Unhappy India.’ Annie Besant was a prominent AngloIrish nationalist lady. She became a prominent leader of the
+
+Theosophical Society during 1907-1933 A.D. She constituted
+
+‘Home Rule League’ in 1916 and became the first female
+
+President of Indian National Congress in 1917 A.D. Moti Lal
+
+Nehru became President of Congress in 1919 A.D. and 1928
+
+A.D. and established the ‘Swaraj Party’ in 1923 A.D. Tilak
+
+was born in a Chitpavan Brahmin family of Maharashtra. He
+
+edited the newspapers ‘Kesari’ and ‘Mahratta,’ and gave the
+
+famous slogan of ‘Swaraj is my birthright’ but was never an
+
+elected President of Congress.
+
+</details>
+
+---
+
+**Q-GC-INC-33. 67th B.P.S.C. (Pre) 2022**
+
+The first woman President of the Indian National
+
+Congress was :
+
+- (a) Sarojini Naidu
+
+- (b) Annie Besant
+
+- (c) Kasturba Gandhi
+
+- (d) Aruna Asaf Ali
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-34. U.P. P.C.S. (Pre) 2021**
+
+Who among the following never presided over a Session
+
+of Indian National Congress?
+
+- (a) Lala Lajpat Rai
+
+- (b) Bal Gangadhar Tilak
+
+- (c) Gopal Krishna Gokhale
+
+- (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-35. U.P.P.C.S. (Pre) 1997**
+
+Who among the trio-Lal, Bal and Pal became president
+
+of the Indian National Congress:
+
+- (a) Lala Lajpat Rai
+
+- (b) Bal Gangadhar Tilak
+
+- (c) Bipin Chandra Pal
+
+- (d) None of them
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-36. R.A.S./R.T.S. (Pre) 2012 / M.P. P.C.S (Pre) 1995**
+
+Who among the following became President of Indian
+
+National Congress?
+
+- (a) Sucheta Kriplani
+
+- (b) Aruna Asaf Ali
+
+- (c) Annie Besant
+
+- (d) Vijay Lakshmi Pandit
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-37. U.P.P.C.S. (Re. Exam) (Pre) 2015**
+
+For which of the following sessions, the Congress
+
+elected its first woman President?
+
+- (a) Calcutta Session, 1917
+
+- (b) Gaya Session, 1922
+
+- (c) Allahabad Session, 1921
+
+- (d) Lucknow Session, 1916
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+32nd session of Indian National Congress was held on 26-29
+
+December, 1917 AD in Calcutta in which Annie Besant was
+
+elected as first woman President of Indian National Congress.
+
+</details>
+
+---
+
+**Q-GC-INC-38. R.A.S./R.T.S.(Pre) 2012 / U.P.P.C.S. (Mains) 2012 / U.P.P.S.C. (GIC) 2010**
+
+Who was the first lady president of the Indian National
+
+Congress:
+
+- (a) N. Sen Gupta
+
+- (b) Sarojini Naidu
+
+- (c) Annie Besant
+
+- (d) Kadambini Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-39. U.P.R.O./A.R.O. (Mains) 2014**
+
+Who among the following was the first woman
+
+President of the Indian National Congress?
+
+- (a) Mrs. Sarojini Naidu
+
+- (b) Mrs. Annie Besant
+
+- (c) Mrs. N. Sengupta
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-40. Chhattisgarh P.C.S. (Pre) 2015**
+
+Who was the first woman president of the Indian
+
+National Congress?
+
+- (a) Smt. Sarojini Naidu
+
+- (b) Sucheta Kriplani
+
+- (c) Rajkumari Amrita Kaur
+
+- (d) Annie Besant
+
+- (e) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-41. 65th B.P.S.C. (Pre) 2019**
+
+Who was the first woman President of the Indian
+
+National Congress?
+
+- (a) Kasturba Gandhi
+
+- (b) Mrs. Annie Besant
+
+- (c) Sarojini Naidu
+
+- (d) Bhakti Laxmi Desai
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-42. Uttarakhand P.C.S. (Mains) 2002**
+
+Who was the first Indian Woman President of the
+
+Congress?
+
+- (a) Vijaya Lakshmi Pandit
+
+- (b) Pandita Rama Bai
+
+- (c) Sarojini Naidu
+
+- (d) Raj Kumari Amrit Kaur
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Sarojini Naidu was an eminent poetess and nationalist leader.
+
+She became the first Indian woman President of Congress in
+
+the 40th annual session of INC held at Kanpur in 1925 A.D.
+
+She was a loyal and trustworthy colleague of Gandhiji. She
+
+went many times to jail. She was the first Indian woman who
+
+became the Governor of Uttar Pradesh from 1947-49 A.D.
+
+</details>
+
+---
+
+**Q-GC-INC-43. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Who was the first Indian woman President of the
+
+Indian National Congress?
+
+- (a) Mrs. Annie Besant
+
+- (b) Sucheta Kriplani
+
+- (c) Sarojini Naidu
+
+- (d) Indira Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-44. Jharkhand P.C.S. (Pre) 2011 / I.A.S. (Pre) 2004**
+
+Consider the following statements:
+
+1. The First Session of the Indian National Congress
+
+was held in Calcutta
+
+2. The Second Session of the Indian National Congress
+
+was held under the presidentship of Dadabhai Naoroji
+
+3. Both Indian National Congress and Muslim
+
+League held their sessions at Lucknow in 1916 and
+
+concluded the Lucknow Pact
+
+Which of the statements given above is/are correct?
+
+- (a) 1 and 2
+
+- (b) 2 only
+
+- (c) 2 and 3
+
+- (d) 3 only
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The first session of the Indian National Congress was held
+
+in Bombay, not in Calcutta. Although, first it was scheduled
+
+to be held in Poona, but due to an outbreak of Cholera, it
+
+was held in Bombay. Thus, the first statement is false. The
+
+second session was held in 1886 A.D. at Kolkata under the 
+
+
+
+
+
+
+presidentship of Dadabhai Naoroji. Indian National Congress
+
+session and the Muslim League session both were held in
+
+Lucknow in 1916 A.D. Consequently, the pact was signed
+
+between Congress and the Muslim League which is known as
+
+‘Lucknow Pact.’ In this session extremist who were expelled
+
+from the Congress party for 9 years were reintroduced to
+
+Congress. Ambika Charan Mazumdar served as the President
+
+in Lucknow Session, 1916.
+
+</details>
+
+---
+
+**Q-GC-INC-45. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+At which place was the 27th Session of the Indian
+
+National Congress held?
+
+- (a) Bhagalpur
+
+- (b) Patna
+
+- (c) Ranchi
+
+- (d) Bankipur
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In 1912 A.D., Indian National Congress held its 27th session at
+
+Bankipore (Patna) under the presidency of R.N. Mudholkar.
+
+In this session, A.O. Hume was called as the father of the
+
+Indian National Congress.
+
+</details>
+
+---
+
+**Q-GC-INC-46. 70th B.P.S.C. (Pre) 2024**
+
+Who was the President of the Indian National Congress
+
+at Patna Session held in 1912?
+
+- (a) Saiyed Mohammad Bahadru
+
+- (b) Sir S.P. Sinha
+
+- (c) Saiyed Hassan Imam
+
+- (d) R.N. Madholkar
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-47. U.P.P.C.S. (Spl) (Mains) 2004**
+
+In which of the following Sessions of the Indian National
+
+Congress Bal Gangadhar Tilak had expressed,”Swaraj
+
+is my birthright, I shall have it.”
+
+- (a) Banaras Session, 1905
+
+- (b) Calcutta Session, 1906
+
+- (c) Surat Session, 1907
+
+- (d) Lucknow Session, 1916
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Tilak proclaimed vigourously “Swaraj is my birthright, I shall
+
+have it” in the Lucknow session of INC, 1916 A.D. Extremists
+
+joined Congress again in this session and “Lucknow Pact” was
+
+signed through the efforts of Bal Gangadhar Tilak and M.A.
+
+Jinnah. It is famous as ‘Congress-League Agreement’ also.
+
+</details>
+
+---
+
+**Q-GC-INC-48. 65th B.P.S.C. (Pre) 2019**
+
+Who said, “Swaraj is my birthright and I shall have
+
+it”?
+
+- (a) Bipin Chandra Pal
+
+- (b) Aurobindo Ghosh
+
+- (c) Bal Gangadhar Tilak
+
+- (d) Subhash Chandra Bose
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-INC-49. 42nd B.P.S.C. (Pre) 1997 / Uttarakhand P.C.S. (Mains) 2006 / U.P.P.C.S. (Pre) 2005 / 46th B.P.S.C. (Pre) 2003**
+
+“Swaraj is my birthright and I will have it.” This
+
+statement is concerned with-
+
+- (a) Lala Lajpat Roy
+
+- (b) Mahatma Gandhi
+
+- (c) Bal Gangadhar Tilak
+
+- (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-50. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Who said, “Swaraj is my birthright, I will have it”?
+
+- (a) M.K. Gandhi
+
+- (b) Jawaharlal Nehru
+
+- (c) Bal Gangadhar Tilak
+
+- (d) Bhagat Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-51. U.P.P.C.S. (Mains) 2015**
+
+Who among the following said, “Swaraj is our birthright”?
+
+- (a) M.K. Gandhi
+
+- (b) G. K. Gokhale
+
+- (c) B. G. Tilak
+
+- (d) Dadabhai Naoroji
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-52. I.A.S. (Pre) 2000**
+
+Consider the following statements about the Indian
+
+National Congress:
+
+1. Sarojini Naidu was the first woman to be the
+
+President of the Congress,
+
+2. C.R. Das was in prison when he functioned as the
+
+President of the Congress
+
+3. The first Britisher to become the President of the
+
+Congress was Alan Octavian Hume
+
+4. Alfred Webb was the President of the Congress in
+
+1894.
+
+Which of these statements are correct?
+
+- (a) 1 and 3
+
+- (b) 2 and 4
+
+- (c) 2, 3 and 4
+
+- (d) 1, 2, 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The first lady president of Indian National Congress was
+
+Annie Besant, who presided over the Calcutta session of
+
+1917 A.D. A.O. Hume was the founder of Indian National 
+
+
+
+
+
+
+Congress, but he was never the President of Congress. He
+
+was appointed as general secretary of INC. C.R. Das presided
+
+over the 1922 A.D. Gaya session. C.R. Das was nominated
+
+as the president for 1921 A.D. Ahmedabad session, but as
+
+he was then in prison, so Hakim Ajmal Khan presided over,
+
+and Das acted as president from prison. Alfred Webb was the
+
+president of 1894 Madras session of Congress.
+
+</details>
+
+---
+
+**Q-GC-INC-53. 47th B.P.S.C. (Pre) 2005**
+
+Who said that “Congress Movement was neither
+
+inspired by the people, nor devised or planned by
+
+them”?
+
+- (a) Lord Dufferin
+
+- (b) Sir Syed Ahmed
+
+- (c) Lord Curzon
+
+- (d) Lala Lajpat Rai
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In an Article, Lala Lajpat Rai wrote that “Congress movement
+
+was neither inspired by the people nor devised or planned
+
+by them.”
+
+</details>
+
+---
+
+**Q-GC-INC-54. 69th B.P.S.C. (Pre) 2023**
+
+"The Indian National Congress was founded on the
+
+basis of safety valve theory, to protect the British
+
+Government from threats." Which leader said that?
+
+- (a) C. Rajagopalachari
+
+- (b) Lala Lajpat Rai
+
+- (c) Bipin Chandra Pal
+
+- (d) None of them
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Safety valve theory was used by the extremist leader Lala
+
+Lajpat rai in 'Young India'. He considered Congress to be
+
+brainchild of Dufferin. He believed that the British would use
+
+the Congress organisation to protect the British government
+
+from threats.
+
+</details>
+
+---
+
+**Q-GC-INC-55. U.P.P.C.S. (Mains) 2002 / U.P.P.C.S. (Pre) 2002**
+
+“The Congress is faltering to its fall and one of my
+
+great ambitions while in India is to assist it to a peaceful
+
+demise.” This declaration was made by :
+
+- (a) George Hamilton
+
+- (b) Lord Curzon
+
+- (c) Lord Dufferin
+
+- (d) Lord Minto
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+British think tank assumed that Congress, under the guidance
+
+of moderates, was a weak political institution which had no
+
+trust of Indians also so that it would be devastated easily.
+
+The policy was provoked by Lord Curzon vigorously, he
+
+declared in 1900 A.D. that “The Congress is faltering to its
+
+fall and one of my great ambitions while in India is to assist
+
+it to a peaceful demise.”
+
+</details>
+
+---
+
+**Q-GC-INC-56. I.A.S. (Pre) 2000**
+
+While delivering the presidential address, the Congress
+
+President who advocated the introduction of Roman
+
+script for the Hindi language was:
+
+- (a) Mahatma Gandhi
+
+- (b) Jawaharlal Nehru
+
+- (c) Abul Kalam Azad
+
+- (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+While delivering the Presidential address in 1938 A.D.,
+
+Subhash Chandra Bose advocated the introduction of Roman
+
+script for the Hindi language. Subhash Chandra Bose presided
+
+over Haripura session of INC in 1938 AD.
+
+</details>
+
+---
+
+**Q-GC-INC-57. Uttarakhand P.C.S. (Pre) 2005 / U.P. Lower Sub. (spl) (Pre) 2004 / I.A.S. (Pre) 1996**
+
+Who among the following suggested the winding up
+
+of the Indian National Congress after India attained
+
+independence?
+
+- (a) C. Rajagopalachari
+
+- (b) Acharya Kripalni
+
+- (c) Mahatma Gandhi
+
+- (d) Jayaprakash Narain
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Mahatma Gandhi suggested the winding up of the Indian
+
+National Congress after India gained independence.
+
+</details>
+
+---
+
+**Q-GC-INC-58. U.P.P.C.S. (Mains) 2014**
+
+Who of the following were elected to collaborate
+
+with Mahatma Gandhi who was to author the new
+
+Constitution of the Congress as the per resolution of
+
+Indian National Congress at Amritsar Session, 1919?
+
+1. B.G. Tilak 2. N.C. Kelkar
+
+3. C.R. Das 4. I.B. Sen
+
+Select the correct answer from the code given below:
+
+Code :
+
+- (a) 2 and 4
+
+- (b) 1 and 2
+
+- (c) 3 and 4
+
+- (d) 1 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+For writing the Constitution of Congress, Gandhiji wanted
+
+the cooperation of B.G. Tilak and C.R. Das but as they were
+
+overloaded with work and they were not available to serve the
+
+purpose, their Junior N.C. Kelkar and I.B. Sen replaced them
+
+and helped Gandhi to write the Constitution of Congress.
+
+</details>
+
+---
+
+**Q-GC-INC-59. U.P. Lower Sub. (Spl) (Pre) 2008**
+
+One Governor-General took part in one of the Congress
+
+Sessions. Identify the Governor-General and place
+
+where the Session was held :
+
+- (a) Lord Irwin - Karachi - 1931
+
+- (b) Lord Wellington-Bombay - 1915
+
+- (c) Lord Dufferin- Bombay - 1885
+
+- (d) Lord Hardinge-Lucknow - 1916
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Lord Wellington participated in the session of Congress that
+
+was held in Bombay in 1915 A.D. It is notable that he was
+
+not the Governor-General of India at the time of the session.
+
+His tenure was from 1931 A.D. to 1936 A.D. as Governer
+
+General and Viceroy.
+
+</details>
+
+---
+
+**Q-GC-INC-60. U.P.P.C.S. (Mains) 2016**
+
+Which of the following sessions of the Indian National
+
+Congress was presided over by C. Vijay Raghav
+
+Chariar?
+
+- (a) Lucknow Session (1916)
+
+- (b) Nagpur Session (1920)
+
+- (c) Gaya Session (1922
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+C. Vijay Raghav Chariar presided over the Indian National
+
+Congress in 1920 A.D. at Nagpur session where Gandhiji’s
+
+advocacy of ‘Swaraj’ through Non-cooperation was debated
+
+and accepted.
+
+</details>
+
+---
+
+**Q-GC-INC-61. U.P.P.C.S. (Pre) 2015**
+
+In which one of the following sessions, Congress declare
+
+its policy towards the Indian States for the first time?
+
+- (a) Nagpur session
+
+- (b) Gaya session
+
+- (c) Calcutta session
+
+- (d) Lucknow session
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In 1920 A.D. during the Nagpur Session, Congress declared
+
+its policy towards Princely rulers. They demanded the states
+
+to give full responsible government to the citizens.
+
+</details>
+
+---
+
+**Q-GC-INC-62. R.A.S./R.T.S. (Pre) 2018**
+
+Which of the following statements is/are true?
+
+A. After the Nagpur Session (1920) of Congress, the
+
+provincial Congress Committees were constituted
+
+on linguistic basis.
+
+B. In 1948, Congress rejected the demand of formation
+
+of provinces on linguistic basis.
+
+Select the correct answer from the code below :
+
+- (a) Only A
+
+- (b) Only B
+
+- (c) Neither A nor B
+
+- (d) Both A and B
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In the Nagpur session of the Congress in the year 1920 A.D.,
+
+approval was granted for the formation of Provincial Congress
+
+Committees on linguistic basis. But after independence, in
+
+1948 AD, the demand for reorganization of provinces on the
+
+basis of language was rejected by the Congress.
+
+</details>
+
+---
+
+**Q-GC-INC-63. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Who was the President of Gaya Session of the Indian
+
+National Congress held in 1922?
+
+- (a) Chittaranjan Das
+
+- (b) S.N. Banerjee
+
+- (c) Dr. Rajendra Prasad
+
+- (d) Hakim Ajmal Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Chittaranjan Das was the President of Gaya Session of Indian
+
+National Congress held in 1922 A.D. He was an eminent
+
+lawyer who distinguished himself by successfully defending
+
+Aurobindo Ghosh in famous Alipore Bomb Case. Along with
+
+Motilal Nehru, he formed the Swaraj Party within the INC,
+
+with the declared policy of entering the councils and disrupting
+
+their functioning. He is also known as Deshbandhu.
+
+</details>
+
+---
+
+**Q-GC-INC-64. 70th B.P.S.C. Re-Exam 2024**
+
+Who was the President of the Indian National Congress at the Gaya Session of 1922 ?
+
+- (a) Mahatma Gandhi
+
+- (b) Hakim Ajmal Khan
+
+- (c) Chittaranjan Das
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-65. 67th B.P.S.C. (Pre) 2021**
+
+Who was the president of INC session organised in
+
+1922?
+
+- (a) Chittaranjan Das
+
+- (b) Hakim Ajmal Khan
+
+- (c) Mahatma Gandhi
+
+- (d) Maulana Abul Kalam Azad
+
+- (e) None/more than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of abvoe question.
+
+</details>
+
+---
+
+**Q-GC-INC-66. U.P. P.C.S. (Mains) 2017**
+
+Among the following who established All India Harijan
+
+Sevak Sangh?
+
+- (a) B.G. Gokhale
+
+- (b) M.K. Gandhi
+
+- (c) B.R. Ambedkar
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+All India Harijan Sevak Sangh was established by M.K.
+
+Gandhi in 1932.
+
+</details>
+
+---
+
+**Q-GC-INC-67. U.P.P.C.S. (Mains) 2004 / U.P.P.C.S. (Mains) 2002**
+
+Given below is a list of persons who became Presidents
+
+of Indian National Congress. Arrange them in
+
+chronological order.
+
+Select your answer using the code given below the list.
+
+1. Mahatma Gandhi 2. Jawaharlal Nehru
+
+3. Vallabh Bhai Patel 4. Smt. Sarojini Naidu
+
+Code :
+
+- (a) 1, 2, 3 and 4
+
+- (b) 1, 3, 4 and 2
+
+- (c) 1, 4, 2 and 3
+
+- (d) 4, 3, 1 and 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+According to the question, Presidents of Indian National
+
+Congress, are as follows -
+
+Mahatma Gandhi presided INC only once in Belgaum
+
+(Belgaon) Session, 1924 A.D. Sarojini Naidu was the first
+
+Indian woman President of Indian National Congress. She
+
+presided over the 40th annual session at Kanpur in 1925 A.D.
+
+Jawahar Lal Nehru presided over Lahore Session in 1929
+
+A.D., Lucknow Session in April, 1936 A.D. and Faizpur
+
+Session in December, 1936 A.D., while Patel presided over
+
+Karachi session held in 1931 A.D.
+
+</details>
+
+---
+
+**Q-GC-INC-68. U.P.P.C.S. (Pre) 2011 / R.A.S./R.T.S.(Pre) 2010**
+
+Mahatma Gandhi presided over only in one session of
+
+the Indian National Congress in 1924. Where was the
+
+session held?
+
+- (a) Gaya
+
+- (b) Amritsar
+
+- (c) Belgaon
+
+- (d) Kanpur
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-69. U.P.R.O./A.R.O. (Mains) 2013**
+
+The only session of the Indian National Congress
+
+presided over by Mahatma Gandhi was :
+
+- (a) Allahabad Session – 1921
+
+- (b) Gaya Session – 1922
+
+- (c) Belgaum Session – 1924
+
+- (d) Karachi Session – 1930
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-70. 63rd B.P.S.C. (Pre) 2017**
+
+Mahatma Gandhi presided over which session of the
+
+Indian National Congress?
+
+- (a) 1922
+
+- (b) 1924
+
+- (c) 1928
+
+- (d) 1930
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-71. U.P.R.O./A.R.O. (Mains) 2014**
+
+Match List-I with the List-II and select the correct
+
+answer from the code given below:
+
+List - I List - II
+
+(Places, where
+
+(President) Meetings of Indian
+
+National Congress was
+
+held)
+
+A. Abul Kalam Azad 1. Amritsar, 1919
+
+B. Sarojini Naidu 2. Bombay, 1934
+
+C. Motilal Nehru 3. Kanpur. 1925
+
+D. Dr. Rajendra Prasad 4. Ramgarh, 1940
+
+Code :
+
+A B C D
+
+- (a) 1 3 2 4
+
+- (b) 2 4 3 1
+
+- (c) 3 2 4 1
+
+- (d) 4 3 1 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+President of INC Session year Place
+
+Motilal Nehru 1919 A.D. Amritsar
+
+Sarojini Naidu 1925 A.D. Kanpur
+
+Dr. Rajendra Prasad 1934 A.D. Bombay
+
+Abul Kalam Azad 1940 A.D. Ramgarh
+
+</details>
+
+---
+
+**Q-GC-INC-72. U.P. R.O./A.R.O. (Pre) 2021**
+
+With reference to the Indian National Congress Session
+
+held at different places of Uttar Pradesh, match List-I
+
+with List-II and select the correct answer using the
+
+code given below :
+
+List-I List-II
+
+(Place) (Year)
+
+A. Meerut 1. 1916
+
+B. Kanpur 2. 1905
+
+C. Lucknow 3. 1946
+
+D. Banaras 4. 1925
+
+Code :
+
+A B C D
+
+- (a) 1 4 3 2
+
+- (b) 3 1 2 4
+
+- (c) 3 4 1 2
+
+- (d) 2 3 4 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Correctly matched list is :
+
+Congress's Session Year
+
+Meerut 1946 A.D.
+
+Kanpur 1925 A.D.
+
+Lucknow 1916 A.D.
+
+Banaras 1905 A.D.
+
+</details>
+
+---
+
+**Q-GC-INC-73. U.P.P.C.S. (Mains) 2015**
+
+In which of the following sessions of Indian National
+
+Congress, Jawaharlal Nehru spoke of socialism as the
+
+key to the solution of India’s problems?
+
+- (a) Lahore
+
+- (b) Lucknow
+
+- (c) Allahabad
+
+- (d) Ramgarh
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Jawaharlal Nehru in his Presidential address spoke of
+
+socialism as the key to the solution of India’s problem at the
+
+session of Indian National Congress in Lucknow 1936 AD.
+
+</details>
+
+---
+
+**Q-GC-INC-74. U.P.P.C.S. (Spl) (Mains) 2008**
+
+The Haripura Session of Indian National Congress,
+
+1938 was presided over by:
+
+- (a) Abul Kalam Azad
+
+- (b) J.B. Kripalani
+
+- (c) Rajendra Pradesh
+
+- (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Between 19-21 February, 1938 AD, 51st session of Congress
+
+was held at Haripura in Gujarat, under the presidentship of
+
+Subhash Chandra Bose. National Planning Committee was
+
+constituted in this session and Jawaharlal Nehru was elected
+
+as President of the Committee. Rajendra Prasad was elected
+
+as President in 1934 AD. Later on, Abul Kalam Azad was
+
+elected as President of Congress in 1940-1946 AD. While
+
+J. B. Kripalani was President of the Meerut Session which
+
+was held in 1946 AD.
+
+</details>
+
+---
+
+**Q-GC-INC-75. M.P.P.C.S. (Pre) 2014**
+
+Who was elected as the President of the Indian National
+
+Congress for the year 1938?
+
+- (a) Jawaharlal Nehru
+
+- (b) Subhas Chandra Bose
+
+- (c) Abul Kalam Azad
+
+- (d) Vallabhbhai Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-76. M.P. P.C.S. (Pre) 2017**
+
+Who among the following was the youngest person to
+
+become the President of the Indian National Congress?
+
+- (a) Jawaharlal Nehru
+
+- (b) Abul Kalam Azad
+
+- (c) Ananda Mohan Bose
+
+- (d) Bhupendra Nath Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Maulana Abul Kalam Azad (1888-1958 AD) was made the
+
+President in the special session of the Indian National Congress
+
+held in Delhi in the year 1923 A.D. He was the youngest person
+
+to hold the post of President of the Indian National Congress for
+
+six consecutive years from 1940-46 A.D. This was the longest
+
+tenure before independence. Jawaharlal Nehru (1889-1964
+
+AD) presided over the Lahore session of the Congress in the
+
+year 1929. Ananda Mohan Bose (1847-1906 AD) presided over
+
+the Madras session of the Congress in 1898, while Bhupendra
+
+Nath Bose (1859-1924 AD) presided over the Madras session
+
+of the Congress in 1914 A.D..
+
+</details>
+
+---
+
+**Q-GC-INC-77. U.P.P.C.S. (Pre) 2012**
+
+Match List-I with List -II and select the correct answer
+
+from the code given below the lists–
+
+A. Dr. M.A. Ansari 1. Haripura
+
+B. Purushottam Das Tandon 2. Kanpur
+
+C. Sarojini Naidu 3. Madras
+
+D. Subhash Chandra Bose 4. Nasik
+
+Code :
+
+A B C D
+
+- (a) 1 2 4 3
+
+- (b) 2 3 1 4
+
+- (c) 3 4 2 1
+
+- (d) 4 1 3 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Haripura Congress Session was presided over by Subhash
+
+Chandra Bose in 1938 A.D. Nasik session was presided over
+
+by Purushottam Das Tandon in 1950 AD. Madras session
+
+(1927 A.D.) was presided over by Dr. M.A. Ansari and Kanpur
+
+Session (1925 A.D.) was presided over by Sarojini Naidu.
+
+</details>
+
+---
+
+**Q-GC-INC-78. U.P.P.C.S. (Mains) 2016**
+
+Who among the following was the President of Indian
+
+National Congress continuously for six years?
+
+- (a) Jawaharlal Nehru
+
+- (b) Abul Kalam Azad
+
+- (c) G. K. Gokhale
+
+- (d) Dadabhai Naoroji
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Abul Kalam Azad was the president of Indian National
+
+Congress for six consecutive years from 1940-46 during the
+
+Quit India Movement. He also became the youngest person
+
+to serve as president in 1923 A.D. in Delhi special session.
+
+After Independence, the longest-serving president of INC
+
+is Sonia Gandhi 1998 to 2017 A.D. and 2019 to 2022 A.D.
+
+</details>
+
+---
+
+**Q-GC-INC-79. Uttarakhand P.C.S. (Pre) 2010 / Uttarakhand P.C.S. (Mains) 2006**
+
+President of Indian National Congress at the time of
+
+Independence was?
+
+- (a) Mahatma Gandhi
+
+- (b) Jawaharlal Nehru
+
+- (c) J.B. Kriplani
+
+- (d) Dr. Rajendra Prasad
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+J. B. Kripalani was the President of Indian National Congress
+
+at the time of Independence. Elected in November 1946 A.D.
+
+at Meerut Session, Acharya (scholar) Jivatram Bhagwandas
+
+Kripalani was a Gandhian Socialist, environmentalist, mystic
+
+and freedom fighter and was noted for his incorruptibility
+
+and determination. Kriplani was prominently involved over
+
+a decade in top Congress party affairs and the organization
+
+of the Salt Satyagraha and the Quit India Movement.
+
+</details>
+
+---
+
+**Q-GC-INC-80. 65th B.P.S.C. (Pre) 2019**
+
+Who was the President of the Indian National Congress
+
+at the time of partition of India?
+
+- (a) J.B. Kripalani
+
+- (b) Jawaharlal Nehru
+
+- (c) Maulana Abul Kalam Azad
+
+- (d) C. Rajagopalachari
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-INC-81. U.P.P.S.C. (GIC) 2010**
+
+On which occasion was ‘Jana-Gana Mana,’ first sung?
+
+- (a) 1896 Session of INC
+
+- (b) 1905 Session of INC
+
+- (c) 1911 Session of INC
+
+- (d) 1919 Session of INC
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+“Jana Gana Mana” is the national anthem of India. Originally
+
+written in Bengali, it is the first of five stanzas of a Brahmo
+
+hymn composed and scored by Nobel laureate Rabindranath
+
+Tagore. It was first sung during Calcutta Session of the Indian
+
+National Congress on 27 December, 1911. “Jana Gana Mana”
+
+was officially adopted by the Constituent Assembly as the
+
+Indian National Anthem on 24 January, 1950.
+
+</details>
+
+---
+
+**Q-GC-INC-82. U.P.P.C.S. (Pre) 2014**
+
+The last session of Indian National Congress attended
+
+by Bal Gangadhar Tilak was :
+
+- (a) Calcutta Session, 1906
+
+- (b) Surat Session, 1907
+
+- (c) Calcutta Session, 1917
+
+- (d) Amritsar Session, 1919
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The last session of Indian National Congress attended
+
+by Bal Gangadhar Tilak was Amritsar Session,1919. He
+
+had mellowed sufficiently to oppose Gandhi’s policy
+
+of boycotting the elections to the legislative councils
+
+established as part of the reforms that followed from
+
+the Montagu-Chelmsford Report to Parliament in 1918.
+
+Instead, Tilak advised the delegates to follow his policy
+
+of ‘responsive cooperation’ in carrying out the reforms,
+
+which introduced a certain degree of Indian participation
+
+in regional Government. He died on 1st August, 1920.
+
+</details>
+
+---
+
+
+
+## Complete PYQ Bank — Ghatnachakra Moderates and Extremists in Congress (40 Questions)
+
+Complete unabridged 40-question bank from the core Ghatna Chakra repository covering the Moderate and Extremist eras of Indian nationalism: Impact of international events (1896 Italian defeat in Abyssinia, 1899–1901 Boxer Rebellion China, Irish revolutionary struggle, 1905 Russo-Japanese war dispelling myth of white invincibility), Moderate ideology & methods (1885–1905, urban middle-class background, constitutional agitation, prayers, petitions, protests, Welby Commission 1897, Dadabhai Naoroji's 1904 & 1906 *Swaraj* declaration), Extremist ideology (1906 onward, Lal-Bal-Pal & Aurobindo Ghosh, complete independence, passive resistance, self-sacrifice), Bal Gangadhar Tilak (called "Father of Indian Unrest" by Valentine Chirol, Max Muller's Sanskrit plea, 1908 6-year Mandalay imprisonment, *Gita Rahasya*, Ganpati and Shivaji festivals, 1897 Rand murder trial & title "Lokmanya", death 1 Aug 1920 & funeral bier lifted by Gandhi and Shaukat Ali), Bipin Chandra Pal (*New India*, called INC a "Begging Institute"), Lala Lajpat Rai ("Sher-e-Punjab", Mazzini biography in Urdu, "Annual National Festival of Educated Indians", Safety Valve thesis in *Young India*, martyred after Saunders lathi charge), and Aurobindo Ghosh (*Vande Mataram*, doctrine of passive resistance). Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+
+---
+
+**Q-GC-MOD-1. I.A.S. (Pre) 1994**
+
+Which of the following international events influenced
+
+the course of the national movement in India before
+
+the advent of Mahatma Gandhi?
+
+(1) Italian-Abyssinian War, 1898
+
+(2) Boxer Movement in China
+
+(3) Revolutionary Movement in Ireland
+
+(4) Victory of Japan in the Russo-Japanese War
+
+- (a) 1, 2 and 3 only
+
+- (b) 1, 2 and 4 only
+
+- (c) 3 and 4 only
+
+- (d) 1, 2, 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Italian-Abyssinian War (in which the Italian colonial
+
+power was defeated), the Boxer movement against the
+
+imperialists in China during 1899-1901 A.D., and Japan's
+
+victory over Russia, influenced the direction of the national
+
+movement in India before the advent of Mahatma Gandhi,
+
+but among these, Japan's victory over Russia in the year 1905
+
+A.D. had the most impact. Japan had proved itself militarily
+
+superior to a powerful European country by defeating Czarist
+
+Russia in the year 1905 A.D. This dispelled the false illusion
+
+that the people of the white race were invincible.
+
+</details>
+
+---
+
+**Q-GC-MOD-2. Rajasthan P.C.S. (Pre) 2024**
+
+Read the following statements regarding the liberal
+
+phase of the Indian National Movement (1885-1905
+
+A.D.):
+
+1. Supported the rich democratic and scientific
+
+culture of modern Europe.
+
+2. Strongly criticized the economic aspects of British
+
+imperialism.
+
+Select the correct answer using the codes given below:
+
+- (a) Only 1 is true
+
+- (b) Only 2 is true
+
+- (c) Both 1 and 2 are true
+
+- (d) Neither 1 nor 2 is true
+
+- (e) Question not attempted
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+During the Moderate Phase (1885-1905 AD) of the Indian
+
+National Movement, there was support for the rich democratic
+
+and scientific culture of modern Europe. The moderate leaders
+
+advocated for constitutional reforms, political participation
+
+and the expansion of modern education. They supported
+
+English education, as they believed it would help develop
+
+a modern outlook and social progress in India. However,
+
+the growing masses viewed British colonial policies with
+
+increasing resentment. Notably, Dadabhai Naoroji strongly
+
+criticized the economic aspects of British colonialism. His
+
+book, "Poverty and Un-British Rule in India," highlighted
+
+issues related to the economic drain, heavy taxation, and
+
+the decline of Indian industries. The moderates attempted to
+
+address such concerns through constitutional means rather
+
+than direct confrontation.
+
+</details>
+
+---
+
+**Q-GC-MOD-3. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+The protest method of moderate leaders of the Congress was ?
+
+- (a) Non-Co-operation
+
+- (b) Constitutional agitation
+
+- (c) Passive resistance
+
+- (d) Civil disobedience
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The methods employed by the two groups (Moderates and
+
+Extremists) of Congress were different in their tempo and
+
+approach. Congress split into two different groups at Surat
+
+Session of Congress in 1907 A.D. While the moderates had
+
+infinite faith in the efficacy of constitutional agitation and
+
+in appealing to the British sense of justice and fair play, in
+
+holding an annual conference, making speeches, passing
+
+elaborate resolutions and sending deputations to England.
+
+The extremists had no faith in the benevolence of British
+
+public or Parliament, nor were they convinced of the efficacy
+
+of merely holding conferences. Extremists had faith in the
+
+concept of passive resistance.
+
+</details>
+
+---
+
+**Q-GC-MOD-4. I.A.S. (Pre) 2015**
+
+Which one of the following movements has contributed
+
+to a split in the Indian National Congress resulting in
+
+the emergence of ‘moderates’ and ‘extremists’?
+
+- (a) Swadeshi Movement
+
+- (b) Quit India Movement
+
+- (c) Non-cooperation Movement
+
+- (d) Civil Disobedience Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Surat split (1907 A.D.), refers to the split in the Congress
+
+party into two groups : ‘Moderates’ and ‘Extremists.’ Moderates believed in the policy of settlement of minor issues with
+
+Government by deliberation, strikes, and boycotts to force
+
+their demands. The moderates opposed the resolutions on
+
+Swaraj (self-governance), Swadeshi National Education and
+
+boycott of foreign goods but extremists were not in favour of
+
+these. Hence, the difference of opinion between moderates
+
+and extremists finally reached to split in the Congress at the
+
+Surat Session (1907).
+
+</details>
+
+---
+
+**Q-GC-MOD-5. 43rd B.P.S.C. (Pre) 1999**
+
+Most of the moderate leaders hailed from :
+
+- (a) Rural areas
+
+- (b) Urban areas
+
+- (c) Both rural and urban areas
+
+- (d) Punjab
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+During the era of liberal politics Dadabhai Naoroji, Pherozeshah Mehta, Dinshaw Wacha, Womesh Chandra Banerjee
+
+and Surendranath Banerjee were the moderate leaders who
+
+hailed from urban areas. The domination of prosperous and
+
+middle-class scholars like barristers, doctors, engineers,
+
+journalists and literary people was found during this period.
+
+The title and high designation charmed them. These representatives of Congress hailed from metropolitan cities and
+
+had no connection with common people.
+
+</details>
+
+---
+
+**Q-GC-MOD-6. U.P.P.C.S. (Mains) 2016**
+
+Who of the following continuously from 1904 onwards
+
+emphasized on the grant of ‘self-rule’ to India?
+
+- (a) S. N. Banerjee
+
+- (b) Aurobindo Ghosh
+
+- (c) Firoz Shah Mehta
+
+- (d) Dadabhai Naoroji
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In 1904 A.D., first time Dadabhai Naoroji demanded
+
+‘Swaraj,’ (Self Rule) or Self-Government in International
+
+Socialist Congress. for India and continuously emphasized
+
+the grant of Self Rule in India. In his presidential address
+
+in 1906 he demanded ‘Swaraj’ (Self Rule) at INC session.
+
+</details>
+
+---
+
+**Q-GC-MOD-7. 44th B.P.S.C. (Pre) 2000**
+
+Which one of the following was not an extremist ?
+
+- (a) Bal Gangadhar Tilak
+
+- (b) Madan Lal
+
+- (c) Udham Singh
+
+- (d) G.K. Gokhale
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Gopal Krishna Gokhale was a prominent social reformer of
+
+India who founded an organization to work for the relief of
+
+underprivileged. He led the moderate nationalists in the early
+
+years of the Indian Independence Movement. As an influential
+
+and respected member of the Indian National Congress, the
+
+leading Nationalist organization in the pre-independent India,
+
+Gokhale advocated moderate and Constitutional methods of
+
+agitation and gradual reform.
+
+</details>
+
+---
+
+**Q-GC-MOD-8. U.P.R.O./A.R.O. (Pre) 2014**
+
+Who among the following was not an outstanding
+
+leader of extreme Nationalism?
+
+- (a) Gopal Krishna Gokhale
+
+- (b) Bipin Chandra Pal
+
+- (c) Lokmanya Tilak
+
+- (d) Lala Lajpat Rai
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Gopal Krishna Gokhale was one of the social and political
+
+leaders during the Indian Independence Movement against
+
+the British rule in India. He was a senior leader of INC,
+
+founder of the Servants of India Society. He was not a leader
+
+of extreme nationalism.
+
+</details>
+
+---
+
+**Q-GC-MOD-9. U.P.P.C.S. (Mains) 2016**
+
+Who among the following was not an extremist
+
+nationalist leader ?
+
+- (a) Bipin Chandra Pal
+
+- (b) B.G. Tilak
+
+- (c) Lala Lajpat Rai
+
+- (d) G.K. Gokhale
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-10. U.P. U.D.A./L.D.A. (Pre) 2002 / U.P. Lower Sub. (Spl) (Pre) 2002**
+
+Who accused Indian National Congress of practising
+
+‘politics of prayer, petition and protest’?
+
+- (a) Lala Hardayal
+
+- (b) Bal Gangadhar Tilak
+
+- (c) Subhash Chandra Bose
+
+- (d) Sardar Bhagat Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The first two decades are INC are described in history as
+
+a moderate era. Among some of the prominent moderate
+
+leaders were Dadabhai Naoroji, Surendra Nath Banerjee,
+
+Mahadev Govind Ranade, Pherozeshah Mehta, Gopal
+
+Krishna Gokhale and Anand Mohan Bose. They had a sense
+
+of confidence in British justice and their generosity. Their aim
+
+was not aggressive nationalism for attaining independence.
+
+Leaders like Bal Gangadhar Tilak, Lala Lajpat Rai, Bipin
+
+Chandra Pal, raised extremist ideology. B.G. Tilak accused
+
+moderates of believing in constitutional method and favouring the policy of protest, prayer, and petition.
+
+</details>
+
+---
+
+**Q-GC-MOD-11. U.P.P.C.S. (Pre) 2005 / U.P.P.C.S. (Mains) 2002**
+
+Who accused Indian National Congress of practising
+
+politics of, pray and petition and protest?
+
+- (a) B.G. Tilak
+
+- (b) M.A. Jinnah
+
+- (c) S.C. Bose
+
+- (d) Annie Besant
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-12. I.A.S. (Pre) 1999**
+
+The Congress policy of prayer and petition ultimately
+
+came to an end under the guidance of:
+
+- (a) Aurobindo Ghosh
+
+- (b) Bal Gangadhar Tilak
+
+- (c) Lala Lajpat Rai
+
+- (d) Mahatma Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Congress policy of prayer and petition ultimately came to
+
+an end under the leadership of Bal Gangadhar Tilak. He was
+
+the strongest opponent of the British Empire. He strongly
+
+recommended a method of agitation. Many intellectual
+
+Congressmen became his followers. Leaders like Lala Lajpat
+
+Rai of Punjab and Bipin Chandra Pal of Calcutta turned into
+
+staunch followers of him. They strongly opposed the moderate policies of Congress.
+
+</details>
+
+---
+
+**Q-GC-MOD-13. U.P. Lower (Spl) (Pre) 2008**
+
+Who called the Indian National Congress as a “Begging
+
+Institute” ?
+
+- (a) B.C. Pal
+
+- (b) Tilak
+
+- (c) Aurobindo Ghosh
+
+- (d) None of them
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+First session of Indian National Congress was held at
+
+Bombay-based Gokul Das Tezpal Sanskrit College on 28-
+
+30 December, 1885 A.D. Extremists commented negatively
+
+about Congress. B.C. Pal called the Indian National Congress
+
+as a “Begging Institute.”
+
+</details>
+
+---
+
+**Q-GC-MOD-14. U.P. R.O./A.R.O. (Pre) 2023**
+
+Which statement is true regarding Bipin Chandra Pal?
+
+1. He was a Brahmo Samaj Leader and Social
+
+Reformer.
+
+2. A weekly magazine named New India was
+
+published.
+
+Select the correct answer using the code given below:
+
+Code -
+
+- (a) Both 1 and 2
+
+- (b) Only 1
+
+- (c) Neither 1 nor 2
+
+- (d) Only 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Bipin Chandra Pal was associated with Brahmo Samaj
+
+and was a social reformer. In 1901, he published a weekly
+
+magazine 'New India'.
+
+</details>
+
+---
+
+**Q-GC-MOD-15. 43rd B.P.S.C. (Pre) 1999**
+
+Indian National Movement came to be dominated by
+
+the extremists after –
+
+- (a) 1906
+
+- (b) 1909
+
+- (c) 1914
+
+- (d) 1919
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+After the year 1906 A.D., the effect of extremism had increased
+
+on the Indian National Movement. The Congress split at
+
+Surat came in December 1907 A.D., around the time when
+
+revolutionary terrorism had gained momentum. The extremists were aggressive nationalist members of Indian National
+
+Congress. The important extremist leaders were Lala Lajpat
+
+Rai, Bal Gangadhar Tilak, Bipin Chandra Pal and Aurobindo
+
+Ghosh. Tilak announced that ‘’ Swaraj is my birthright and I
+
+shall have it’’.
+
+</details>
+
+---
+
+**Q-GC-MOD-16. 45th B.P.S.C. (Pre) 2001**
+
+Which one of the following leaders belonged to the
+
+Extremist wing of the Congress?
+
+- (a) Aurobindo Ghosh
+
+- (b) Dadabhai Naoroji
+
+- (c) G.K. Gokhale
+
+- (d) S.N. Bannerjee
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Aurobindo Ghosh was an extremist of Congress. He was one
+
+of the four pillars (Lal, Bal, Pal, Ghosh) of extremists. He was
+
+arrested in 1908 A.D. by British Police in Maniktalla garden
+
+raid. He got the punishment of one-year imprisonment,
+
+but he was released due to the lack of evidence. Finally, he
+
+became sage, secluded himself from revolutionary activities
+
+and moved to Pondicherry.
+
+</details>
+
+---
+
+**Q-GC-MOD-17. U.P. U.D.A./L.D.A. (Pre) 2013**
+
+Who among the following was an extremist?
+
+- (a) Firozshah Mehta
+
+- (b) Gopal Krishna Gokhale
+
+- (c) Bipin Chandra Pal
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+After the year 1906 A.D., the effect of extremism had increased
+
+on the Indian National Movement. The Congress split at
+
+Surat came in December 1907 A.D., around the time when
+
+revolutionary terrorism had gained momentum. The extremists were aggressive nationalist members of Indian National
+
+Congress. The important extremist leaders were Lala Lajpat Rai,
+
+Bal Gangadhar Tilak, Bipin Chandra Pal and Aurobindo Ghosh.
+
+Tilak announced that ‘’ Swaraj is my birthright and I shall have it’’.
+
+</details>
+
+---
+
+**Q-GC-MOD-18. Uttarakhand P.C.S. (Pre) 2010 / 45th B.P.S.C. (Pre) 2001**
+
+Who among the following was not known as a moderate
+
+in the National Movement?
+
+- (a) Bal Gangadhar Tilak
+
+- (b) Dadabhai Naoroji
+
+- (c) M.G. Ranade
+
+- (d) Gopal Krishna Gokhale
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-19. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Who is popularly known as ‘Sher-e-Punjab’?
+
+- (a) Rajguru
+
+- (b) Bhagat Singh
+
+- (c) Lala Lajpat Rai
+
+- (d) Udham Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Lala Lajpat Rai was known as Sher-e-Punjab. He was extremist representative of Punjab in Congress. He is known
+
+as ‘Punjab Kesari. Lala Lajpat Rai, Bal Gangadhar Tilak and
+
+Bipin Chandra Pal named as “Lal-Bal-Pal.”
+
+</details>
+
+---
+
+**Q-GC-MOD-20. U.P.P.C.S. (Mains) 2011**
+
+Who among the following was not associated with the
+
+Moderates in Indian National Congress?
+
+- (a) Ferozshah Mehta
+
+- (b) Dadabhai Naoroji
+
+- (c) Gopal Krishna Gokhale
+
+- (d) Lala Lajpat Rai
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-21. U.P.R.O./A.R.O. (Mains) 2013**
+
+Who among of the following was considered by Lala
+
+Lajpat Rai as his political guru?
+
+- (a) Garibaldi
+
+- (b) Vivekanand
+
+- (c) Dadabhai Naoroji
+
+- (d) Mazzini
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Lala Lajpat Rai accepted Italian revolutionary Mazzini as
+
+his political guru after reading his biography, and later he
+
+translated splendid creation of Mazzini “The Duty of Man”
+
+in Urdu also.
+
+</details>
+
+---
+
+**Q-GC-MOD-22. I.A.S. (Pre) 2018**
+
+He wrote biographies of Mazzini, Garibaldi, Shivaji
+
+and Shrikrishna; stayed in America for some time; and
+
+was also elected to the Central Assembly. He was :
+
+- (a) Aurobindo Ghosh
+
+- (b) Bipin Chandra Pal
+
+- (c) Lala Lajpat Rai
+
+- (d) Motilal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Indian freedom fighter Lala Lajpat Rai, popularly known
+
+as 'Punjab Kesari', lived in America for some time during
+
+his exile in the year 1907 A.D. and returned during the
+
+First World War. Along with being a politician, he was also
+
+a prolific writer. He also wrote brief biographies of Lord
+
+Krishna, Shivaji, Swami Dayanand Saraswati, Mazzini and
+
+Garibaldi. 'Unhappy India' and 'The Story of My Deportation'
+
+are his other important works.
+
+</details>
+
+---
+
+**Q-GC-MOD-23. M.P. P.C.S. (Pre) 2021**
+
+Who called the Congress Conference as the "Annual
+
+National Festival of Educated Indians"?
+
+- (a) Lala Lajpat Rai
+
+- (b) Bal Gangadhar Tilak
+
+- (c) Gopal Krishna Gokhale
+
+- (d) Vipin Chandra Pal
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Lala Lajpat Rai has called Congress Conferences as the
+
+"Annual National Festival of Educated Indians".
+
+</details>
+
+---
+
+**Q-GC-MOD-24. U.P.P.C.S. (Pre) 1995**
+
+Who of the following was not a moderate:
+
+- (a) Gopal Krishna Gokhale
+
+- (b) Bal Gangadhar Tilak
+
+- (c) A.O.Hume
+
+- (d) Madan Mohan Malviya
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Neo-Nationalist group of Lal, Bal, Pal was disillusioned by
+
+initial moderate policies of Congress. Bal Gangadhar Tilak
+
+was a pioneer of this neo ideology. He was an extremist, not
+
+a moderate.
+
+</details>
+
+---
+
+**Q-GC-MOD-25. U.P. P.C.S. (Pre) 2009**
+
+Who among the following leaders was a supporter of
+
+‘Swadeshi’?
+
+- (a) Aurobindo Ghosh
+
+- (b) Feroz Shah Mehta
+
+- (c) Dadabhai Naoroji
+
+- (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Aurobindo Ghosh was the main leader of Swadeshi Movement (started in 1905 A.D.) which began against the Bengal
+
+partition. Other main leaders of this movement were Lala
+
+Lajpat Rai (Punjab), Bal Gangadhar Tilak (Maharashtra) and
+
+Bipin Chandra Pal (Bengal).
+
+</details>
+
+---
+
+**Q-GC-MOD-26. U.P. U.D.A./L.D.A. (Pre) 2001**
+
+Who among the following is known as the father of
+
+‘Indian Unrest’–
+
+- (a) A. O. Hume
+
+- (b) Dadabhai Naoroji
+
+- (c) Lokmanya Tilak
+
+- (d) Mahatma Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Bal Gangadhar Tilak believed in service and sacrifice. He
+
+dared to challenge the British Empire. It was the results of his
+
+efforts that the Indian National Congress became the party to
+
+criticize the British policies instead of praising British rule.
+
+Valentine Chirol termed B.G. Tilak as the father of Indian
+
+unrest. Tilak went to England to file a defamation suit against
+
+Chirol but was defeated.
+
+</details>
+
+---
+
+**Q-GC-MOD-27. U.P. Lower Sub. (Pre) 2013**
+
+Who called Bal Gangadhar Tilak the ‘Father of Indian
+
+Unrest’?
+
+- (a) Lord Curzon
+
+- (b) Vincent Smith
+
+- (c) Valentine Chirol
+
+- (d) Henry Cotton
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-28. U.P.P.C.S.(Pre) 2013**
+
+Who said, “Tilak is the Father of Indian Unrest”?
+
+- (a) V. Chirol
+
+- (b) Louis Fischer
+
+- (c) Web Miller
+
+- (d) Lord Reading
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-29. U.P.P.C.S. (Mains) 2004**
+
+Who among the following has been called the ‘Father
+
+of Indian Unrest’?
+
+- (a) B.G. Tilak
+
+- (b) G.K. Gokhale
+
+- (c) Subhash Chandra Bose
+
+- (d) Mahatma Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-30. U.P.P.C.S. (Pre) 2014**
+
+After the sentence of B.G. Tilak, who among the following had pleaded for mercy and said:
+
+“My interest in Tilak is that of a Sanskrit scholar”?
+
+- (a) Rabindranath Tagore
+
+- (b) Max Muller
+
+- (c) Bipin Chandra Pal
+
+- (d) William Jones
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Bal Gangadhar Tilak who was a staunch supporter of
+
+Swadeshi and belonged to an extremist camp to opposing
+
+British rule. He founded the English weekly ‘The Mahratta’
+
+and the Marathi weekly the ‘Kesari. Both the papers were
+
+extreme nationalists which brought Tilak within reach of
+
+criminal law. Tilak’s utterances and writings were regarded
+
+as radical content and so he was sentenced. Max Muller
+
+pleaded for Government mercy for Tilak saying ‘As a great
+
+scholar of Sanskrit, I am interested in Tilak.’
+
+</details>
+
+---
+
+**Q-GC-MOD-31. B.P.S.C. (Pre) 2018**
+
+Bal Gangadhar Tilak came to be known as 'Lokmanya
+
+Tilak' when –
+
+- (a) he became a popular teacher
+
+- (b) he started a popular newspaper
+
+- (c) the government accused him in the Rand Murder Case
+
+- (d) he started the Shivaji and Ganpati festivals
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (e)**
+
+**Explanation:**
+British government made Bal Gangadhar Tilak accused in
+
+the Rand (Plague Commissioner of Pune) and Ayerst murder
+
+case. Tilak was convicted and sentenced to 18 months
+
+of rigorous imprisonment. He already became a national
+
+hero when he came out of jail. Hence many incidents were
+
+responsible for Tilak becoming 'Lokmanya' Tilak.
+
+</details>
+
+---
+
+**Q-GC-MOD-32. Uttarakhand P.C.S. (Pre) 2010**
+
+Which extremist leader of the freedom movement was
+
+given 6 years jail punishment in 1908?
+
+- (a) Bipin Chandra Pal
+
+- (b) Bal Gangadhar Tilak
+
+- (c) Lala Lajpat Rai
+
+- (d) Arvind Ghosh
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+In 1908 Tilak was sentenced to 6 years imprisonment. He
+
+was deported to Burma and kept in Mandalay Jail.
+
+</details>
+
+---
+
+**Q-GC-MOD-33. 43rd B.P.S.C. (Pre) 1999**
+
+In 1908, Bal Gangadhar Tilak was imprisoned for –
+
+- (a) 5 years
+
+- (b) 6 years
+
+- (c) 7 years
+
+- (d) 8 years
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-34. I.A.S. (Pre) 1998**
+
+Which one of the following defines extremist ideology
+
+during the early phase of Indian freedom movement?
+
+- (a) Stimulating the production of indigenous articles by
+
+giving them preference over imported commodities.
+
+- (b) Obtaining self-government by aggressive means in
+
+place of petitions and constitutional ways.
+
+- (c) Providing national educational according to the
+
+requirements of the country.
+
+- (d) Organizing coups against the British empire through
+
+military revolt.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Moderates believed in constitutional methods of British
+
+Laws, adopting proposals and delegations to London
+
+for negotiation and discussion. On the other hand,
+
+extremists believed in aggressive protests, self-sacrifices and
+
+determination at the beginning of the Indian Independence
+
+Movement. Independence meant for extremists as Complete
+
+Independence from foreign control, while moderates meant
+
+Independence as self-governance under colonial rule.
+
+</details>
+
+---
+
+**Q-GC-MOD-35. I.A.S. (Pre) 1998**
+
+The Indian Muslims, in general, were not attracted to
+
+the extremist movement because of the:
+
+- (a) influence of Sir Sayyid Ahmed Khan
+
+- (b) anti-Muslim attitude of extremist leaders
+
+- (c) the indifference is shown to Muslim aspirations
+
+- (d) extremists, policy of harping on Hindu part
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Indian Muslims, in general, were not attracted to the extremist
+
+movement because of the extremist policy of harping on
+
+Hindu part. Aurobindo Ghosh proclaimed that "Independence
+
+is the purpose of our lives and only Hindu religion will fulfill
+
+this objective. Nationality is a religion, and it is a gift of God.
+
+</details>
+
+---
+
+**Q-GC-MOD-36. U.P.P.C.S (Pre) 2001**
+
+- Assertion
+
+- (A) : Bal Gangadhar Tilak was a
+
+communalist.
+
+Reason (R) : He used the religion as a political
+
+weapon.
+
+Select your answer by using the codes given below :
+
+- (a) A and R both are correct, and R is the correct
+
+explanation of A.
+
+- (b) A and R both are correct, but the R is not the correct
+
+explanation of A.
+
+- (c) A is correct, but R is wrong.
+
+- (d) A is wrong, but R is correct.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Assertion (A) in the question is not correct because Bal
+
+Gangadhar Tilak was actually a staunch nationalist who
+
+supported for ‘Swaraj’ as the birthright of every Indian and
+
+in this way he tried to make close contact with the people
+
+of India and his view was considered as a pioneer of M. K.
+
+Gandhi. He started ‘Ganapati Parva’ and ‘Shivaji Mahotsava’
+
+in Maharashtra to enthuse Nationalist feelings among
+
+masses. On the other hand, he used religion as a political
+
+weapon but not for communal purposes.
+
+</details>
+
+---
+
+**Q-GC-MOD-37. U.P.P.C.S. (Pre) 2005 / U.P.P.C.S. (Pre) 1996**
+
+Ganpati festival in Maharashtra was started by :
+
+- (a) B.G.Tilak
+
+- (b) M.G. Ranade
+
+- (c) Bipin Chandra Pal
+
+- (d) Aurobindo Ghosh
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-38. U.P.P.C.S. (Mains) 2007**
+
+Who among the following transformed the traditional
+
+Ganapati festival of Maharashtra into a national festival and gave it a political character?
+
+- (a) Ramdas
+
+- (b) Shivaji
+
+- (c) Mahadev Govind Ranade
+
+- (d) Bal Gangadhar Tilak
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-39. M.P.P.C.S. (Pre) 2023**
+
+Who among the following started 'Ganeshotsav' in
+
+Maharashtra?
+
+- (a) Bipin Chandra Pal
+
+- (b) Govind Ranade
+
+- (c) Lala Lajpat Rai
+
+- (d) Bal Gangadhar Tilak
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-MOD-40. U.P.P.C.S. (Pre) 2014**
+
+Along with Mahatma Gandhi who amongst the following Muslims did lift the bier of Bal Gangadhar Tilak?
+
+- (a) Shaukat Ali
+
+- (b) Mohammad Ali
+
+- (c) Maulana A.K. Azad
+
+- (d) M.A. Ansari
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Shaukat Ali and Dr. Saifuddin Kichalu along with Mahatma
+
+Gandhi lifted the bier of Bal Gangadhar Tilak after his death
+
+on 1 August, 1920 and Maulana Hasrat Mohani read the
+
+elegy after his death.
+
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Congress: Benaras, Calcutta, Surat (26 Questions)
+
+---
+
+**Q-GC-BCS-1. I.A.S. (Pre) 1997**
+
+“A graduate at 18, professor and associate editor of
+the Sudharak at 20, Secretary of the Sarvajanik Sabha
+and of the Provincial Conference at 25, Secretary of
+the National Congress at 29, leading witness before
+an important Royal Commission at 31, Provincial
+legislator at 34, Imperial legislator at 36, President of
+the Indian National Congress at 39. a patriot whom
+Mahatma Gandhi himself regarded as his master”.
+This is how a biographer describes:
+
+- (a) Pandit Madan Mohan Malaviya
+
+- (b) Mahadev Govind Ranade
+
+- (c) Gopal Krishna Gokhale
+
+- (d) Bal Gangadhar Tilak
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Gopal Krishna Gokhale was born on May 9, 1866 A.D., in
+
+Ratnagiri (Maharashtra). He graduated from Elphinstone
+
+College in 1884 A.D. and was appointed a professor of Political economy and History at Ferguson College in Poona.
+
+Gokhale became as a protege of social reformer Mahadev
+
+Govind Ranade. He was a member of the Deccan Education
+
+Society. Gokhale fought for decades to obtain greater political representation and power over public affairs for common
+
+Indians. He first joined Congress in 1889 A.D. at the Bombay
+
+session. Gokhale became a member of the Bombay Legislative
+
+Council and then the Imperial Legislative Council. Gandhiji
+
+often referred to Gokhale as ‘Mahatma.’ He was the political
+
+mentor of Gandhiji.
+
+</details>
+
+---
+
+**Q-GC-BCS-2. U.P. Lower Sub. (Pre) 2004 / U.P. Lower Sub. (Pre) 2003**
+
+Gopal Krishna Gokhale presided over the session of
+Congress in –
+
+- (a) 1902 (b) 1905
+
+- (c) 1906 (d) 1909
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Benaras Session of INC in 1905 A.D. was presided over
+
+by Gopal Krishna Gokhale. He founded Servants of India
+
+Society in 1905 A.D.
+
+</details>
+
+---
+
+**Q-GC-BCS-3. U.P.P.C.S. (Pre) 1999**
+
+Who presided over the Benaras Session of the Indian
+National Congress in 1905:
+
+- (a) Surendranath Bannerji (b) Feroz Shah Mehta
+
+- (c) Gopal Krishna Gokhale (d) Dinshaw Wacha
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-BCS-4. 44th B.P.S.C. (Pre) 2000**
+
+Which of the following leaders presided over the
+Congress Session at Calcutta in 1906?
+
+- (a) B.G. Tilak (b) G.K. Gokhale
+
+- (c) Aurobindo Ghosh (d) Dadabhai Naoroji
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In 1906 A.D., Congress was in real danger of splitting
+
+into two groups. The extremists were more popular than
+
+the moderates. Before this session, the extremists would
+
+have taken over Congress had they elected a leader among
+
+them. But it was not done. The moderates were politically
+
+intelligent. In 1906 A.D., the session at Calcutta was presided
+
+over by Dadabhai Naoroji. The moderates had chosen
+
+Naoroji to preside Congress. Naoroji, 'the Grand old man
+
+of India,' was respected by both moderates and extremists
+
+alike. In this session, the Congress adopted Swaraj as the
+
+goal of Indian people. Moderates toned down the resolution
+
+in a compromised state and made it self-Government meant
+
+obtaining the self-governing British colonies.”
+
+</details>
+
+---
+
+**Q-GC-BCS-5. 68th B.P.S.C. (Pre) 2022**
+
+At the Calcutta Session of the Indian National Congress
+(INC) held in 1906, the Flag of Swaraj for India was
+unfurled by
+
+- (a) G.K. Gokhale
+
+- (b) A.O. Hume
+
+- (c) Dadabhai Naoroji
+
+- (d) More than one of the above
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+At the Calcutta session of the Indian National Congress (INC)
+
+held in 1906 A.D., the flag of Swaraj for India was unfurled
+
+by president of session Dadabhai Naoroji.
+
+</details>
+
+---
+
+**Q-GC-BCS-6. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Congress passed the ‘Swaraj’ resolution in the year
+1905. The purpose of the resolution was-
+
+- (a) right to make a constitution for themselves but it was
+not done
+
+- (b) to secure self-rule
+
+- (c) responsible Government
+
+- (d) self-Government
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+The Indian National Congress took up the Swaraj call in its
+
+Benaras Session, 1905 AD and later in 1906 AD Calcutta
+
+session it was fully passed. The main purpose of the resolution
+
+was “to serve self-rule’ and boycotting British products and
+
+the revival of domestic products and production process of
+
+Indian industrialization and better education policy for India.
+
+</details>
+
+---
+
+**Q-GC-BCS-7. Uttarakhand P.C.S. (Pre) 2002**
+
+Swaraj as a national demand was first made by:
+
+- (a) B.G.Tilak (b) C.R.Das
+
+- (c) Dadabhai Naoroji (d) Mahatma Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Swaraj (self-rule) was first articulated in the Presidential
+
+address of Dadabhai Naoroji as the goal of Congress in its
+
+Calcutta session in 1906 A.D..
+
+</details>
+
+---
+
+**Q-GC-BCS-8. U.P.P.C.S. (Pre) 2014**
+
+In which of the following sessions of Indian National
+Congress, the word ‘Swaraj’ was uttered for the first
+time?
+
+- (a) Benaras Session, 1905
+
+- (b) Calcutta Session, 1906
+
+- (c) Surat Session, 1907
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+At the Calcutta Congress session, ‘Swaraj’ was uttered as
+
+the goal of the Indian people in December, 1906 A.D. In his
+
+presidential address, Naoroji declared that the goal of the
+
+Indian National Congress ‘Self-Government or Swaraj, was
+
+same as of United Kingdom’.
+
+</details>
+
+---
+
+**Q-GC-BCS-9. U.P.R.O./A.R.O. (Mains) 2013**
+
+The first leader to use the word ‘Swaraj’ was :
+
+- (a) Bal Gangadhar Tilak (b) Lala Lajpat Rai
+
+- (c) S.C. Bose (d) Mahatma Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Bal Gangadhar Tilak’s (1856-1920 A.D.) popular statement
+
+was ‘Swaraj is my birthright, I shall have it”. Although the
+
+word ‘Swaraj’ was first used by ‘Dayanand Saraswati.’ Option
+
+(a) might be the closest answer.
+
+</details>
+
+---
+
+**Q-GC-BCS-10. U.P. P.C.S. (Pre) 1991**
+
+Dadabhai Naoroji was formally known as :
+
+- (a) Punjab Kesari (b) Gujarat Ratna
+
+- (c) Guru Dev (d) Grand Old Man of India
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Dadabhai Naoroji known as the Grand Old Man of India,
+
+was Parsi intellectual educationist and an early Indian
+
+political and social leader. He was first Indian elected to the
+
+House of Commons in 1892 as a Liberal Party Member from
+
+Central Finsbury constituency in the United Kingdom. He
+
+was elected as the President of INC in 1886, 1893, and 1906.
+
+C.Y. Chintamani, Indian editor Journalist, liberal politician,
+
+told about Dadabhai Naoroji that “Many intelligent and
+
+selfless leader had embellished for the people of India, but
+
+in his era, no one was like Dadabhai Naoroji.” On the other
+
+hand, Gokhale said that “if there is a God somewhere, he is
+
+Dadabhai Naoroji.
+
+</details>
+
+---
+
+**Q-GC-BCS-11. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+Who was called the ‘Grand Old Man of India’?
+
+- (a) Dadabhai Naoroji
+
+- (b) Gopal Krishna Gokhale
+
+- (c) Ramesh Chandra Banerjee
+
+- (d) Sir Syed Ahmad Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-BCS-12. U.P.R.O./A.R.O. (Pre) 2014**
+
+Who among the following is known by the title of “The
+Grand Old Man’?
+
+- (a) Khan Abdul Ghaffar Khan
+
+- (b) W. C. Banerjee
+
+- (c) Dadabhai Naoroji
+
+- (d) Motilal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-BCS-13. U.P. Lower Sub. (Pre) 2008**
+
+Which one of the following statements is not correct
+about Dadabhai Naoroji?
+
+- (a) He wrote a book ‘Poverty and Un-British Rule in
+India.’
+
+- (b) He worked as a Professor of Gujarati at University
+College, London
+
+- (c) He laid the foundation of woman’s education in Bombay
+
+- (d) He was elected as a member of British Parliament on
+the ticket of the Conservative Party
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Dadabhai Naoroji was elected as a member of British Parliament on the ticket of Liberal Party. Thus, statement (d)
+
+is not correct.
+
+</details>
+
+---
+
+**Q-GC-BCS-14. U.P.P.C.S. (Pre) 2014**
+
+Which one of the following statements is not correct
+about Dadabhai Naoroji?
+
+- (a) He was the first Indian to be appointed as Professor
+of Mathematics and Physics at Elphinstone College,
+Bombay.
+
+- (b) He was elected as the member of British Parliament
+in 1892.
+
+- (c) He started a Gujarati Journal, ‘Rast Goftar.’
+
+- (d) For four times he had presided over the Indian National
+Congress.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Dadabhai Naoroji presided over INC sessions for three times
+
+in 1886 AD, 1893 AD and in 1906 AD.
+
+</details>
+
+---
+
+**Q-GC-BCS-15. U.P.P.C.S. (Pre) 1992**
+
+Who was first Indian to be elected to the British Parliament?
+
+- (a) Ras Bihari Bose (b) Surendranath Banerjee
+
+- (c) Dadabhai Naoroji (d) Vithalbhai Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Dadabhai Naoroji, the Grand Old Man of India, was the first
+
+Indian to become a Member of British Parliament in United
+
+Kingdom’s House of Commons.
+
+</details>
+
+---
+
+**Q-GC-BCS-16. U.P.P.C.S. (Pre) 1990**
+
+At which session was the Indian National Congress
+(INC) divided into two groups –’Naram Dal’ and Garam Dal’?
+
+- (a) Bombay (b) Surat
+
+- (c) Allahabad (d) Lahore
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Indian National Congress was formed in 1885 and was
+
+divided into two factions in 1907 A.D., namely extremists–
+
+Garam Dal led by Lala Lajpat Rai and moderates ‘Naram
+
+Dal’ led by Ras Bihari Ghosh. Ras Bihari Ghosh succeeded to
+
+become its President. Reason of this division was four Resolutions Swadeshi, Boycott, National Education and self-Rule
+
+which passed in 1906 in Calcutta session. Extremists wanted
+
+to continue this resolution while the liberals were not in favour.
+
+</details>
+
+---
+
+**Q-GC-BCS-17. M.P.P.C.S. (Pre) 2023**
+
+In which session was the Congress divided into
+Moderates and Extremists?
+
+- (a) Bombay (b) Surat
+
+- (c) Calcutta (d) Nagpur
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-BCS-18. U.P.P.C.S. (Mains) 2012**
+
+Where did the Indian Congress got divided into two
+wings moderates and extremists ?
+
+- (a) Surat Session, 1907 (b) Lahore Session, 1909
+
+- (c) Calcutta Session, 1911 (d) Karachi Session, 1913
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-BCS-19. U.P. U.D.A./L.D.A. (Pre) 2010 / U.P.P.C.S. (Mains) 2007**
+
+The President of the Surat Session of Indian National
+Congress (1907) was :
+
+- (a) Dadabhai Naoroji
+
+- (b) Bal Gangadhar Tilak
+
+- (c) Gopal Krishna Gokhale
+
+- (d) R.B. Ghosh
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-BCS-20. I.A.S. (Pre) 2010**
+
+Four resolutions were passed at the famous Calcutta
+Session of Indian National Congress in 1906. The
+question of either retention or rejection of these four
+resolutions became the cause of a split in Congress at
+the next Congress Session held in Surat in 1907.
+Which one of the following was not one of those resolutions?
+
+- (a) Annulment of the partition of Bengal
+
+- (b) Boycott
+
+- (c) National Education
+
+- (d) Swadeshi
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-BCS-21. 56th to 59th B.P.S.C. (Pre) 2015**
+
+The process of a split in the Congress in the early years
+of the twentieth century began over –
+
+- (a) Strategies of the Congress Movement
+
+- (b) Objectives of the Congress
+
+- (c) Participation of the people in the Congress Movement
+
+- (d) All of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Surat Split is mainly known for separation of Congress party
+
+men into moderates and extremists at the Surat Session of
+
+Congress in December, 1907. The process of a split in the
+
+congress in the early years of the twentieth century began
+
+over strategies of the congress movement, objectives of the
+
+congress (moderates & extremists) and participation of the
+
+people in the Congress movement.
+
+</details>
+
+---
+
+**Q-GC-BCS-22. Chhattisgarh P.C.S. (Pre) 2021**
+
+Choose the correct option after reading following
+statements :
+Statement-I : In 1907, Congress's Annual Session
+was presided by Rash Behari Ghosh
+Statement-II : In this session, Congress got divided
+into two groups (Moderates and
+Extremists)
+Statement-III : In Congress's Annual Session of
+1916, two groups (Moderates and
+Extremists) got united. This session
+was presided by S.P. Sinha
+
+- (a) Statement-I, II and III all are true
+
+- (b) Statement-I, II and III all are false
+
+- (c) Statement-I, II are true but Statement-III is false
+
+- (d) Statement-I, II are false but Statement-III is true
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In 1907 A.D., Annual Session of Congress was presided by
+
+Rash Behari Ghosh. In 1907 A.D. Congress got divided into
+
+two groups (Moderates and Extremists) in Surat Session.
+
+In Congress's Annual Session of 1916 A.D., two groups
+
+(Moderates and Extremists) got united. This session was
+
+presided by Ambikacharan Mazumdar.
+
+</details>
+
+---
+
+**Q-GC-BCS-23. Uttarakhand U.D.A./L.D.A. (Pre) 2003**
+
+‘Split of Surat’ in Indian National Congress was held?
+
+- (a) In 1905 (b) In 1906
+
+- (c) In 1907 (d) In 1908
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Indian National Congress split into two groups, the
+
+extremists and the moderates in the Surat session in 1907.
+
+</details>
+
+---
+
+**Q-GC-BCS-24. U.P.P.C.S. (Pre) 1991**
+
+When was the first partition of Indian National Congress was held?
+
+- (a) 1907 (b) 1906
+
+- (c) 1969 (d) 1911
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-BCS-25. Uttarakhand P.C.S. (Mains) 2002**
+
+Surat split was led by –
+
+- (a) Hume (b) Dufferin
+
+- (c) Tilak (d) Gandhiji
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-BCS-26. I.A.S. (Pre) 2016**
+
+What was the main reason for the split in the Indian
+National Congress at Surat in 1907?
+
+- (a) Introduction of communalism into Indian politics by
+Lord Minto
+
+- (b) Extremists’ lack of faith in the capacity of the
+moderates to negotiate with the British Government
+
+- (c) Foundation of Muslim League
+
+- (d) Aurobindo Ghosh’s inability to be elected as the
+President of the Indian National Congress.
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The main reason for Surat split (1907 A.D.) in the Indian
+
+National Congress was Extremists' lack of faith in the
+
+capacity of moderates to negotiate with the British
+
+Government. The extremists wanted to extend the Swadeshi
+
+and Boycott Movement, but moderates were not in favour of
+
+extending the Movement.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Formation of Muslim League (1906) (12 Questions)
+
+---
+
+**Q-GC-ML-1. Ghatna Chakra PYQ**
+
+To increase Muslim loyalty towards the English government.
+
+<details><summary>Show answer</summary>
+
+**Answer: Pending**
+
+**Explanation:**
+See official answer key.
+
+</details>
+
+---
+
+**Q-GC-ML-2. Ghatna Chakra PYQ**
+
+To stop the spread of hatred for other religions without hurting
+the main objective of the party.
+
+<details><summary>Show answer</summary>
+
+**Answer: Pending**
+
+**Explanation:**
+See official answer key.
+
+</details>
+
+---
+
+**Q-GC-ML-3. U.P.P.C.S. (Pre) 2007 / 41st B.P.S.C. (Pre) 1996**
+
+Protection and expansion of Political rights of Muslims.
+*Sessions of Muslim League were held at Karachi in 1907 A.D.
+and at Amritsar in 1908 A.D. Separate electorate was demanded
+in these sessions. *On 1st October, 1906 A.D., a delegation
+of Muslims led by Aga Khan III met Minto and demanded
+separate electorate for elections at all levels of governance.
+Morley-Minto reform (1909 A.D.) accepted this demand of
+Muslim League and Muslims were given separate electorate.
+*In 1908 A.D., the London Branch of the Muslim League was
+established by Syed Ameer Ali.
+1. Who among the following was the founder of All India
+Muslim League?
+
+- (a) Sir Saiyed Ahmad Khan
+
+- (b) Sir Mohammad Iqbal
+
+- (c) Aga Khan
+
+- (d) Nawab Salimullah Khan
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Aga Khan III was a founding member and first President of
+
+the All India Muslim League. His goal was the advancement
+
+of the Muslim agenda and protection of Muslim rights in
+
+India. In 1906, the meeting was organized during the Dhaka
+
+session which is known as All India Muhammadan Educational Conference.
+
+The founding meeting was hosted by Nawab Salimullah.
+
+Nawab Waqar-ul-Mulk and Nawab Mohsin-ul-Mulk both
+
+were jointly appointed as the secretary of the Muhammadan
+
+Educational Conference. Lucknow was the headquarter
+
+of Muslim League, and Aga Khan was its first President.
+
+Founder member were –
+
+1. Salimullah Khan
+
+2. Aga Khan III
+
+3. Mohsin-ul-Mulk
+
+But in option, two of the above names are given. Therefore,
+
+priority will be given to Salimullah Khan as the founder of
+
+the All India Muslim League.
+
+2. The founder of the Muslim League was:
+
+(a) Liaquat Ali (b) Shaukat Ali
+
+(c) Nawab Salimullah (d) M.A. Jinnah
+
+U.P.P.C.S. (Mains) 2006
+
+Ans. (c)
+
+See the explanation of above question.
+
+3. In 1906 Muslim League was founded at :
+
+(a) Lahore (b) Delhi
+
+(c) Calcutta (d) Dhaka
+
+Uttarakhand U.D.A./L.D.A. (Pre) 2007
+
+M.P.P.C.S. (Pre) 1992
+
+Ans. (d)
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-ML-4. M.P.P.C.S. (Pre) 2014**
+
+All India Muslim League was founded in the year :
+
+- (a) 1905 (b) 1904
+
+- (c) 1907 (d) 1906
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-ML-5. Chhattisgarh P.C.S. (Pre) 2015 / U.P.P.C.S. (Pre) 1997**
+
+Who was the first President of the Muslim League:
+
+- (a) Agha Khan (b) Hamid Khan
+
+- (c) Hasan Khan (d) M.A. Jinnah
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-ML-6. U.P. Lower Sub (Pre) 2008**
+
+The annual session of the Muslim League in the year
+1907 was held at –
+
+- (a) Dhaka (b) Karachi
+
+- (c) Aligarh (d) Lucknow
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Muslim League was founded in 1906 A.D. at Dhaka
+
+(Bangladesh) to safeguard the rights of Indian Muslims. The
+
+first session of All India Muslim League was held at Karachi
+
+in 1907. In 1908, it was held in Amritsar.
+
+</details>
+
+---
+
+**Q-GC-ML-7. 66th B.P.S.C. Re-Exam (Pre) 2020**
+
+The Muslim League started its annual convention on
+regular basis from :
+
+- (a) 1916 AD
+
+- (b) 1919 AD
+
+- (c) 1924 AD
+
+- (d) 1925 AD
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (e)**
+
+**Explanation:**
+All India Muslim League was established in 1906 at Dhaka.
+
+Nawab of Dhaka Salimullah was his founder. Its annual
+
+session was held in Karachi in 1907 and then in 1908 in
+
+Amritsar. After this its sessions have occurred erratically in
+
+different parts of country. However BPSC has accepted (d)
+
+as correct answer which is not correct.
+
+</details>
+
+---
+
+**Q-GC-ML-8. U.P. Lower Sub. (Spl) (Pre) 2003 / U.P. Lower Sub. (Spl) (Pre) 2002**
+
+Consider the following statements –
+Statement
+
+- (A) : League refused to accept the Congress
+Muslim people rights together with the
+aim being to achieve.
+Reason (R) : Only the Muslim League has the right
+of such type.
+Code :
+
+- (a) Both (A) and (R) are correct, and (R) is correct explanation of (A).
+
+- (b) Both (A) and (R) are correct, and (R) is not correct
+explanation of
+
+- (A) .
+
+- (c) (A) is correct, but (R) is wrong.
+
+- (d) (A) is wrong, but (R) is right.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Statement (A) is correct but (R) is wrong as the League
+
+refused to accept the Muslims related to Congress because
+
+they pretended like the only institution which represents the
+
+Muslims in India. Hence (A) is correct, but (R), that only the
+
+Muslim League has the right is incorrect.
+
+</details>
+
+---
+
+**Q-GC-ML-9. I.A.S. (Pre) 2002**
+
+With reference to the Indian freedom struggle, which
+one of the following statements is not correct?
+
+- (a) Hakim Ajmal Khan was one of the leaders to start a
+nationalist and militant Ahrar movement
+
+- (b) When the Indian National Congress was formed,
+Sayyed Ahmad Khan opposed it
+
+- (c) The All-India Muslim League which was formed in
+1906 vehemently opposed the partition of Bengal and
+separate electorates
+
+- (d) Maulana Barkat Ullah and Maulana Obeidullah Sindhi
+were among those who formed a Provisional Government of India in Kabul.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The All India Muslim League formed in 1906 A.D. supported
+
+the Bengal partition.They demanded a separate electorate
+
+under the leadership of Aga Khan III.
+
+</details>
+
+---
+
+**Q-GC-ML-10. 46th B.P.S.C. (Pre) 2004**
+
+The Muslim deputation met Minto in 1906 at Shimla
+and pleaded for –
+
+- (a) Separate electorate for Muslims
+
+- (b) A composite electorate
+
+- (c) Higher representation for the Hindus
+
+- (d) Special representation for Muslim by nomination
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Shimla Deputation organized by the Indian Muslim leader
+
+Aga Khan III met the Governor-General and Viceroy Lord
+
+Minto at Shimla on 1 October, 1906 AD. The aim of the
+
+deputation was to win the sympathy of the British Rule on
+
+matters relating to their interests. Therefore to safeguard their
+
+interests, the Muslim leaders drew up a plan for a separate
+
+electorate for their community.
+
+</details>
+
+---
+
+**Q-GC-ML-11. I.A.S. (Pre) 2001**
+
+A London branch of the All India Muslim League was
+established in 1908 under the presidency of:
+
+- (a) Aga Khan (b) Ameer Ali
+
+- (c) Liaquat Ali Khan (d) M.A. Jinnah
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The headquarter of the Muslim League was established at Lucknow. A London branch of the All India Muslim League was
+
+established in 1908 A.D. under the presidency of Ameer Ali
+
+to put pressure on the British Government for Muslims cause.
+
+</details>
+
+---
+
+**Q-GC-ML-12. B.P.S.C. (Pre) 2017**
+
+"The Muslims, if contended and satisfied, would
+become the greatest bulwark of British power in
+India". Who wrote it?
+
+- (a) Herbert Risley
+
+- (b) Lord Lytton
+
+- (c) W.W. Hunter
+
+- (d) H.N. Brailsford
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+W.W. Hunter, in his book 'The Indian Musalmans' wrote that,
+
+"The Muslims, if contended and satisfied, would become the
+
+greatest bulwark of British power in India."
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Delhi Durbar and Change of Capital (11 Questions)
+
+---
+
+**Q-GC-DD-1. M.P.P.C.S. (Pre) 1995**
+
+Where was the Capital of India before Delhi under
+British period?
+
+- (a) Calcutta (b) Bombay
+
+- (c) Patna (d) Lucknow
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+During the British Rule, until 1911 A.D., Calcutta ( now
+
+Kolkata ) was the capital of India. King George V, the king
+
+of England visited India to attend Delhi Durbar in 1911 A.D.
+
+and announced the transfer of capital from Calcutta to Delhi
+
+on December 12, 1911 A.D. The capital of India shifted from
+
+Calcutta to Delhi during the tenure of Lord Hardinge II in
+
+1912 A.D.
+
+</details>
+
+---
+
+**Q-GC-DD-2. U.P P.C.S (Pre) 1990 / U.P. Lower Sub. (Pre) 2008**
+
+The transfer of capital of British India from Calcutta
+to Delhi was affected during the period of –
+
+- (a) Lord Mayo (b) Lord Lawrence
+
+- (c) Lord Minto (d) Lord Hardinge
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-DD-3. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+Delhi became the capital of India in :
+
+- (a) 1910 (b) 1911
+
+- (c) 1916 (d) 1923
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+It is notable that King George V proclaimed the transfer the
+
+capital from Calcutta to Delhi, but this transfer was completed
+
+in 1912. So if 1911 and 1912 both options are given, then
+
+1912 would be preferred.
+
+</details>
+
+---
+
+**Q-GC-DD-4. Uttarakhand P.C.S. (Mains) 2006**
+
+In which year the Capital of India has been transferred
+from Calcutta to Delhi?
+
+- (a) 1901 (b) 1905
+
+- (c) 1911 (d) 1912
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-DD-5. 70th B.P.S.C. (Pre) 2024**
+
+When did Britishers shifted the capital to Delhi ?
+
+- (a) 1912
+
+- (b) 1913
+
+- (c) 1911
+
+- (d) More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-DD-6. U.P.P.C.S. (Spl) (Mains) 2008**
+
+In which year the capital of India was transferred
+from Calcutta to Delhi?
+
+- (a) 1905 A.D. (b) 1909 A.D.
+
+- (c) 1910 A.D. (d) 1911 A.D.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-DD-7. U.P. Lower Sub. (Spl) (Pre) 2008**
+
+A bomb was thrown on the occasion of his State entry
+into Delhi :
+
+- (a) Lord Curzon (b) Lord Mayo
+
+- (c) Lord Minto (d) Lord Hardinge
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Delhi Conspiracy case, also known as the Delhi-Lahore
+
+Conspiracy, refers to a conspiracy in 1912 to assassinate the
+
+then Viceroy of India, Lord Hardinge-II, on the occasion
+
+of transferring the capital of British India from Calcutta to
+
+Delhi. Hatched by the Indian revolutionary underground in
+
+Bengal and Punjab and headed by Rash Behari Bose, the
+
+conspiracy culminated in the attempted assassination on
+
+23 December, 1912 when a homemade bomb was thrown
+
+into the Viceroy’s Howdah when the ceremonial procession
+
+moved through the Chandni Chowk suburb of Delhi.
+
+</details>
+
+---
+
+**Q-GC-DD-8. R.A.S./R.T.S. (Pre) 2018**
+
+The revolutionary, who was not involved in Hardinge
+Bomb incident?
+
+- (a) Master Amir Chand
+
+- (b) Bhagwati Charan Vohara
+
+- (c) Bhai Balmukund
+
+- (d) Avadh Bihari
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Hardinge Bomb Case is popularly known as the Delhi
+
+Conspiracy Case. Fourteen persons were made accused in
+
+this, in which Awadh Bihari, Master Amir Chand, Balmukund
+
+and Basant Biswas were given death sentence and Balraj and
+
+Harvansh Sahay were given life Imprisonment. Dinanath had
+
+turned approver. Bhagwati Charan Vohra was not in it. Rash
+
+Behari Bose, who played the main role in this, fled to Japan
+
+and escaped the trial.
+
+</details>
+
+---
+
+**Q-GC-DD-9. U.P.P.C.S. (Pre) 2023**
+
+Which among the following organisations was
+responsible for throwing a bomb at Viceroy Lord
+Hardinge in Delhi?
+
+- (a) Anushilan Samiti
+
+- (b) All India Labour Association
+
+- (c) Yugantar
+
+- (d) United Patriotic Association
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Anushilan Samiti was responsible for throwing a bomb at
+
+Viceroy Lord Hardinge II in Delhi. It was an assault on
+
+Viceroy Lord Hardinge's life. Rash Behari Bose served as the
+
+leader of the revolt. In the sentencing of this Delhi conspiracy
+
+case, Basant Kumar Biswas, Bhai Balmukund, Amir Chand
+
+and Avadh Bihari were among found guilty and put to death.
+
+</details>
+
+---
+
+**Q-GC-DD-10. 44th B.P.S.C. (Pre) 2000**
+
+Bihar became a separate state during the British rule
+in the year :
+
+- (a) 1905 (b) 1912
+
+- (c) 1936 (d) 1946
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+In December, 1911, the imperial court (Delhi Durbar) was
+
+organized for greeting the arrival of British King George
+
+V and Queen Mary to India. British emperor proclaimed
+
+cancellation of Bengal partition in Delhi Durbar as well
+
+as separated Bihar and Orissa from Bengal. In1912, Bihar,
+
+and Orissa were separated from Bengal and organised in
+
+administrative units.
+
+</details>
+
+---
+
+**Q-GC-DD-11. 69th B.P.S.C. (Pre) 2023**
+
+When was Bihar first separated from the Bengal
+Presidency under the British-ruled India?
+
+- (a) 1912 (b) 1936
+
+- (c) 1947 (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+On December 12, 1911 A.D., the announcement of carving
+
+out Bihar as a separate province from Bengal was made at
+
+the Delhi Durbar. On 22 March, 1912 A.D. Bihar and Orissa
+
+province was proclaimed to be formed out of Bengal and
+
+it came into existence on 1 April, 1912 A.D. In 1936 A.D.,
+
+Bihar became a separate province.
+
+</details>

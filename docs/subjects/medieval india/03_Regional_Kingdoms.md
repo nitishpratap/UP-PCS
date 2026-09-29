@@ -144,25 +144,8 @@ Sharqi Sultanate (Jaunpur (जौनपुर)) | Kashmir under Zain-ul-Abidin (
 
 > **Logic:** Lal Darwaza–Jaunpur is **correct**. Do not confuse it with **Tin Darwaza–Ahmedabad**: Tin Darwaza stands at **Bidar Fort**, while Ahmedabad has **Teen Darwaza**. Among Topic-3 states, only **Sharqi Jaunpur** lies in modern **Uttar Pradesh**.
 
-### PYQ — Sharqi monuments
-
-**1. (UPPCS Prelims 2018, Q19)** Which of the following pairs is **NOT** correctly matched (Monument–Place)?
-
-A. Adina Masjid–Mandu (मांडू)
-B. Lal Darwaza Masjid–Jaunpur
-C. Dakhil Darwaza–Gaour
-D. Tin Darwaza–Ahmedabad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-**Why wrong:** Tin Darwaza stands at **Bidar Fort** (Deccan), not Ahmedabad. Ahmedabad's famous gate is **Teen Darwaza**.
-
-**Trap:** **Lal Darwaza–Jaunpur** (B) is **correct** Sharqi architecture (शर्की स्थापत्य) — candidates often mark B wrong because they confuse Lal Darwaza with Tin Darwaza.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2018, Q19]:** **Adina Masjid** is at **Pandua (Bengal)** built by Sikandar Shah, NOT at Mandu (MP). Lal Darwaza Masjid & Atala Masjid are in Jaunpur; Dakhil Darwaza is in Bengal. *(See Q1 in Complete PYQ Bank below)*
 
 **2. (UPPCS Prelims 2019, Q91)** Arrange the following in chronological order:
 
@@ -210,51 +193,11 @@ D. IV, III, I, II
 
 > **Logic:** **Zain-ul-Abidin (Bud Shah)** alone abolished **jaziya** and banned **cow slaughter** in Kashmir.
 
-### PYQ — Zain-ul-Abidin A/R
+#> [!TIP]
+> **Exam Anchor [Kashmir — Zain-ul-Abidin]:** Zain-ul-Abidin (*Bud Shah*, 1420–1470) reversed Sikandar Shah’s iconoclastic policies, abolished **Jizya** and **cow slaughter**, built the island **Zaina Lanka** in Wular lake, and commissioned the translation of *Rajatarangini* and *Mahabharata* into Persian. *(See Q6 in Complete PYQ Bank below)*
 
-**1.** Assertion (A): **Zain-ul-Abidin** was called **Bud Shah** (Great Sultan).
-
-Reason (R): He reversed **Sikandar Shah's** intolerant policies, abolished **jaziya**, and restored temples.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A is true: Zain-ul-Abidin was called **Bud Shah** (Great Sultan).
-
-**Ans: A (Both true, R explains A).**
-
-**R is true:** He **reversed Sikandar Shah's** intolerant policies — abolished **jaziya**, banned **cow slaughter**, and **restored temples**.
-
-**Why R explains A:** Tolerant rule earned the **Bud Shah** title.
-
-**Trap:** Sikandar Shah** was the **intolerant** predecessor — R describes the **reversal** that justified the honorific.
-
-</details>
-
-### PYQ — Kashmir
-
-**1. (UPPCS Prelims 2023, Q36)** Which ruler of Kashmir abolished **Jaziya** and **cow slaughter**?
-
-A. Shamsuddin Shah
-B. Sikandar Shah
-C. Zain-ul-Abidin
-D. Haider Shah
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-**Why:** Zain-ul-Abidin (Bud Shah, 1420–1470) abolished **jaziya**, banned **cow slaughter**, and **restored temples** after **Sikandar Shah's** intolerant phase.
-
-**Trap:** **Sikandar Shah** did the **opposite** — forced conversions and temple destruction. **Zain-ul-Abidin (Bud Shah)** abolished **jaziya** and banned **cow slaughter**.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2023, Q36]:** Ruler of Kashmir who abolished Jizya and cow slaughter was **Zain-ul-Abidin**. *(See Q6 in Complete PYQ Bank below)*
 
 ---
 
@@ -396,6 +339,53 @@ D. Haider Shah
 
 ---
 
+
+### 3.3.1 High-Yield Fact-Locks — Vijayanagara Empire (Ghatnachakra Master Spine)
+
+1. **Founding & Reconversion:** Founded in **1336 CE** on the south bank of Tungabhadra by brothers **Harihara I and Bukka I** (sons of Sangama). Originally ministers of Kampili; captured by Muhammad bin Tughluq and converted to Islam; reconverted to Hinduism under the spiritual guidance of **Sage Vidyaranya** and his brother **Sayana** (the great Vedic commentator). First capital was **Anegundi**, later shifted to **Vidyanagara / Vijayanagara (Hampi)**.
+2. **Four Successive Dynasties:**
+   - **Sangama Dynasty (1336–1485):** Harihara I, Bukka I (sent embassy to Ming China in 1374), Harihara II (first to adopt imperial title *Maharajadhiraja* and conquer Goa/Canara), Devaraya I, Devaraya II (*Praudha Deva Raya*, title *Gajabetekara*).
+   - **Saluva Dynasty (1485–1505):** Founded by **Saluva Narasimha** (*First Usurpation / Prathama Balapaharana* to save the empire from disintegration).
+   - **Tuluva Dynasty (1505–1570):** Founded by **Vira Narasimha** (*Second Usurpation / Dvitiya Balapaharana*); reached golden age under **Krishnadevaraya (1509–1529)**; followed by Achyuta Raya (1529–1542) and Sadasiva Raya (1542–1570, puppet under regent Aliya Rama Raya).
+   - **Aravidu Dynasty (1570–1649):** Founded by **Tirumala Raya** (brother of Rama Raya); shifted capital to **Penukonda**, later **Chandragiri**, and finally **Vellore**.
+3. **Foreign Travellers Chronology Matrix (★★★ High-Yield PCS Trap):**
+   - **Nicolo de Conti (Italy, 1420 CE):** Visited under **Devaraya I**; recorded city perimeter of 60 miles and grand celebrations of Navaratri and Deepavali.
+   - **Abdur Razzaq (Persia/Herat, 1443 CE):** Ambassador of Timurid ruler Shahrukh to the court of **Devaraya II**; wrote: *"The city of Bijanagar is such that the pupil of the eye has never seen a place like it..."*; described **7 concentric circles of fortified walls** enclosing agricultural fields and orchards.
+   - **Afanasy Nikitin (Russia, 1470 CE):** Visited Bahmani/Deccan; recorded poverty of peasants alongside royal luxury.
+   - **Duarte Barbosa (Portugal, 1516 CE):** Visited under **Krishnadevaraya**; praised trade and complete religious tolerance.
+   - **Domingo Paes (Portugal, 1520 CE):** Visited under **Krishnadevaraya**; described Krishnadevaraya as the most perfect, feared, and gallant king; provided eye-witness accounts of the **Mahanavami Dibba**.
+   - **Fernao Nuniz (Portugal, 1535 CE):** Horse-trader who spent 3 years under **Achyuta Deva Raya**; chronicled the history of all earlier kings; uniquely recorded that **women in Vijayanagara were employed as wrestlers, astrologers, accountants, music masters, and armed royal bodyguards**.
+   - **Cesare Federici (Italy, 1567 CE):** Visited Hampi 2 years after Talikota; recorded its total desolation.
+4. **Krishnadevaraya (1509–1529 CE) — Zenith of Empire:**
+   - **Titles:** *Andhra Bhoja*, *Abhinava Bhoja*, *Yavana-rajya-sthapana-acharya* (Restorer of the Bahmani/Yavana kingdom after reinstating Mahmud Shah at Bidar).
+   - **Chief Minister / Advisor:** **Timmarusu** (affectionately called *Appaji*).
+   - **Military Exploits:** Captured Udayagiri (1514) and Kondavidu from Gajapati ruler Prataparudra of Orissa; decisively defeated Ismail Adil Shah of Bijapur in the **Battle of Raichur (1520)**.
+   - **City Foundation:** Founded the suburban city of **Nagalapuram** near Vijayanagara in honour of his mother **Nagala Devi**. Built the **Hazara Rama Temple** and **Vitthala Temple** (with 56 musical pillars) at Hampi.
+   - **Diplomacy:** Maintained friendly alliance with Portuguese Governor **Afonso de Albuquerque**, securing a royal monopoly on imported Persian and Arabian war-horses.
+   - **Literature:** Authored the celebrated Telugu masterpiece on statecraft **Amuktamalyada** (The Giver of Worn Garlands; centered on Andal / Vishnuchitta) and the Sanskrit drama **Jambavati Kalyanam**.
+   - **Ashtadiggajas (Eight Celebrated Telugu Poets):** Allasani Peddana (*Andhra Kavita Pitamaha*, author of *Manucharitramu*), Nandi Timmana (*Parijatapaharanamu*), Tenali Ramakrishna (*Panduranga Mahatmyamu*), Madayyagari Mallana, Dhurjati, Ayyalaraju Ramabhadrudu, Pingali Surana, and Ramarajabhushanudu.
+5. **Battle of Talikota / Rakshasi-Tangadi / Bannihatti (23 January 1565):**
+   - **The Confederacy:** United alliance of 4 Deccan Sultanates: **Bijapur** (Ali Adil Shah I), **Ahmadnagar** (Hussain Nizam Shah I), **Golkonda** (Ibrahim Qutb Shah), and **Bidar** (Ali Barid Shah).
+   - **The Excluded State (★★★ Repeated Exam Trap):** **Berar (Imad Shahi)** did NOT join the anti-Vijayanagara league due to fierce bilateral conflict with Ahmadnagar.
+   - **Outcome:** Regent **Aliya Rama Raya** (nearly 80 years old) was captured and beheaded on the battlefield by Hussain Nizam Shah I. The victorious Muslim armies sacked, looted, and burned Hampi for over five months.
+6. **Vijayanagara Coinage:**
+   - Standard gold coin: **Varaha** (weighed ~52 grains; called **Pagoda** by European travellers, or *Hun* in the Deccan).
+   - Depictions on gold coins: Shiva-Parvati, Venkateshvara, Lakshmi-Narayana, or the mythical double-headed giant eagle **Gandabherunda**.
+   - Fractions of Varaha: **Pratapa** (1/2 Varaha), **Fanam** (1/10th or 1/20th Varaha).
+   - Copper coin: **Jital** or **Tare**.
+7. **Provincial & Village Administration:**
+   - **Nayankara System:** Royal military chiefs (**Amara-nayakas**) were granted territories (**Amaram**) in lieu of salary and maintenance of fixed contingents of foot-soldiers, horses, and elephants. Nayakas paid an annual tribute and attended the king during wars and royal festivities (Mahanavami).
+   - **Ayagar System:** Every village was an autonomous administrative unit governed by **12 hereditary functionaries (Ayagars)**, including the *Karnam* (village accountant), *Talari* (village watchman/police), and *Gauda* (headman). They were remunerated by tax-free land assignments called **Manyam**.
+8. **Revenue & Taxes:**
+   - Land revenue called **Shist** (assessed by the revenue department **Athavana**). Standard tax was 1/6th of produce, though wet land rates could rise to 1/3rd or 1/2.
+   - **Marriage Tax (Kalyana-kanikkai):** Levied on both bride and groom; Krishnadevaraya officially abolished the marriage tax to alleviate social hardship.
+9. **Social Life & Women's Status:**
+   - Women occupied a remarkable diversity of public and court positions: acted as **wrestlers**, **palace guards**, **astrologers**, **accountants**, **clerks**, **musicians**, and **poets** (e.g., Gangadevi, wife of Kumara Kampana, who authored *Madhura Vijayam* celebrating the conquest of Madurai; Tirumalamba, author of *Varadambika Parinayam*).
+   - Sati (*Sahagamana*) and Devadasi systems were prevalent.
+10. **Post-Talikota Capitals:**
+    - Tirumala shifted the royal seat to **Penukonda** (1567–1592); Venkata II shifted to **Chandragiri** (1592–1604) and later **Vellore**. In 1639, British factor Francis Day acquired Madras (Fort St. George) from Damarla Venkatadri Nayaka, a vassal of Vijayanagara King Venkata III at Chandragiri.
+
+
 ## 3.4 Bahmani Kingdom
 
 **Founded: 1347** | **Founder: Hasan Gangu** (throne name **Alauddin Hasan Bahman Shah**) | **Capitals: Gulbarga (Ahsanabad)**, then **Bidar**
@@ -499,60 +489,11 @@ D. Haider Shah
 
 > **Logic:** **Hasan Gangu** founded the Bahmani Kingdom; **Mahmud Gawan** was a minister. **Mirat-e-Sikandari** narrates the **Gujarat** victory; **Burhan-e-Masir** covers **Ahmadnagar**; **Riyaz-us-Salatin** is **Bengal** history; **Riyaz-ul-Insha** collects **Gawan's** letters.
 
-### PYQ — Mahmud Gawan A/R
+#> [!TIP]
+> **Exam Anchor [Bahmani — Mahmud Gawan]:** Mahmud Gawan (*Khwaja Jahan*), prime minister under Muhammad Shah III, divided the 4 Bahmani tarafs into 8 smaller administrative units and established the famous **Madrasa at Bidar (1472)**. *(See Bahmani section below)*
 
-**1.** Assertion (A): **Mahmud Gawan** strengthened Bahmani administration as **wazir**.
-
-Reason (R): His reforms included **land measurement**, **strict revenue accounting**, **cash salaries**, and **merit appointments**.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A is true: Mahmud Gawan strengthened Bahmani administration as **wazir**.
-
-**Ans: A (Both true, R explains A).**
-
-**R is true:** He introduced **land surveys** and **strict revenue accounting**.
-
-**Why R explains A:** Fiscal and land reforms **were the means** of administrative strengthening.
-
-**Trap:** Hasan Gangu** founded Bahmani — Gawan was **wazir**, not founder, but A correctly credits his administrative role.
-
-</details>
-
-### PYQ — Books match
-
-**1. (UPPCS Prelims 2023, Q33)** Match List-I (Book) with List-II (Context):
-
-| List-I | List-II |
-|--------|---------|
-| A. Mirat-e-Sikandari | 1. Bengal |
-| B. Burhan-e-Masir | 2. Ahmadnagar |
-| C. Riyaz-us-Salatin | 3. Gawan's letters |
-| D. Riyaz-ul-Insha | 4. Gujarat victory |
-
-*Row order in the table is not the answer code.*
-
-A. 4-2-1-3
-B. 2-4-1-3
-C. 1-2-4-3
-D. 4-2-3-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (4-2-1-3).**
-
-**Facts:** A **Mirat-e-Sikandari** → **4** Gujarat victory | B **Burhan-e-Masir** → **2** Ahmadnagar | C **Riyaz-us-Salatin** → **1** Bengal | D **Riyaz-ul-Insha** → **3** Gawan's letters
-
-**Trap:** Swapping **Riyaz-us-Salatin** (Bengal) with **Riyaz-ul-Insha** (Gawan) is the most common wrong code — the titles sound alike but contexts differ completely.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2023, Q33]:** Historical texts & regional contexts: *Mirat-e-Sikandari* = Gujarat (Sikandar bin Muhammad); *Burhan-e-Masir* = Ahmadnagar/Nizam Shahi (Ali bin Azizullah Tabataba); *Riyaz-us-Salatin* = Bengal (Ghulam Husain Salim); *Tazkirat-ul-Muluk* = Bijapur (Rafiuddin Shirazi). *(See Q5 in Complete PYQ Bank below)*
 
 ---
 
@@ -629,25 +570,8 @@ D. 4-2-3-1
 
 > **Logic:** Do not confuse **Bidar**, the Bahmani and later Barid Shahi centre, with **Bijapur**, the Adil Shahi capital. **Kitab-i-Nauras** was written by **Ibrahim Adil Shah II of Bijapur**, not by Krishnadevaraya.
 
-### PYQs — Deccan Sultanates
-
-**1. (UPPCS Prelims 2020, Q44)** Who among the following was the author of the book **Kitab-i-Nauras**?
-
-A. Ibrahim Adil Shah II
-B. Ali Adil Shah
-C. Quli Qutab Shah
-D. Akbar II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-**Why:** Ibrahim Adil Shah II of **Bijapur (Adil Shahi)** wrote **Kitab-i-Nauras**, a collection of songs on music and devotion.
-
-**Trap:** Krishnadevaraya** wrote **Amuktamalyada** (Telugu) — papers swap the two Deccan literary facts.
-
-</details>
+#> [!TIP]
+> **Exam Anchor [UPPCS Prelims 2020, Q44]:** *Kitab-i-Nauras* was authored by **Ibrahim Adil Shah II** of Bijapur (*Jagat Guru* / *Abla Baba*). *(See Q4 in Complete PYQ Bank below)*
 
 **2. (UPPCS Prelims 2020, Q34)** Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in **1687**?
 
@@ -683,902 +607,2986 @@ D. Shayasta Khan
 
 > **Logic:** Talikota (1565) is not the same as **Raichur (1520)**, which was Krishnadevaraya's victory. **Rama Raya** was killed at Talikota; Krishnadevaraya had died in **1529**.
 
-### PYQ — Talikota A/R
+#> [!TIP]
+> **Exam Anchor [Battle of Talikota (1565)]:** Fought on **23 January 1565** (Rakshasi-Tangadi / Bannihatti); alliance of Bijapur, Ahmadnagar, Golkonda, Bidar defeated Vijayanagara; **Aliya Rama Raya** captured and beheaded; **Berar** did NOT participate. *(See Ghatna Chakra Vijayanagara bank below)*
 
-**1.** Assertion (A): The **Battle of Talikota (1565)** ended Vijayanagara as a **great power**.
+---
 
-Reason (R): **Rama Raya** was **beheaded** on the battlefield and **Hampi** was sacked and abandoned.
+## 3.7 Master Fact-Locks — Medieval Geography, Regional Architecture & Polygars
 
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
+| Topic / Category | Entity / Detail | Region / Present State / Notes |
+|---|---|---|
+| **Medieval State** | **Champaka (Chamba)** | Himachal Pradesh (Rajput state emerging post-Tripartite struggle) |
+| **Medieval State** | **Kuluta (Kullu)** | Himachal Pradesh (Rajput state emerging post-Tripartite struggle) |
+| **Medieval State** | **Durgara** | Jammu & Kashmir (Rajput state) |
+| **South Indian Feudalism** | **Polygars (Palaiyakkarar)** | Territorial administrative & military governors appointed by **Nayaka rulers** of South India (16th–18th c.) |
+| **Mandu (Malwa)** | **Jahaj Mahal** | Built by **Ghiyasuddin Khalji** in Mandu (*Exam Clarification:* NO 'Jantar Mahal' exists in Mandu) |
+| **Bengal Architecture** | **Adina Masjid** | Located at **Pandua**, West Bengal; built by Sultan **Sikandar Shah** (1364–1374 CE) |
+| **Bengal Architecture** | **Qadam Rasul** | Built by Sultan **Nusrat Shah** at Gaur |
+| **Bengal Architecture** | **Chhota Sona Masjid** | Built by **Wali Muhammad** at Gaur |
+| **Gujarat Architecture** | **Tin Darwaza** | Triple-arched ceremonial gate in Ahmedabad built by **Ahmad Shah I** (1415 CE) |
+| **Gwalior Architecture** | **Gujari Mahal** | Built by Raja **Man Singh Tomar** (1486–1516 CE); currently converted into a museum |
+| **Mewar Court Scholars** | **Court of Rana Kumbha** | Scholars: **Muni Sunder Suri**, **Natha**, **Tilla Bhatt** (*Trap:* Muni Jin Vijay Suri was in Akbar's court, NOT Kumbha's) |
+| **Structural Typology** | **Double Dome** | Sikandar Lodi Tomb / Humayun's Tomb |
+| **Structural Typology** | **Octagonal Tomb** | Tomb of Sher Shah Suri (Sasaram) |
+| **Structural Typology** | **True Arch Tomb** | Tomb of Balban (Delhi) |
+| **Structural Typology** | **World's Largest Dome** | Gol Gumbad of Muhammad Adil Shah (Bijapur) |
 
-<details>
-<summary>Show answer</summary>
+---
 
-**Ans: A (Both true, R explains A).**
+## Complete PYQ Bank — Ghatnachakra Provincial Dynasties of North India and Deccan
 
-**A is true:** Talikota **1565** ended Vijayanagara as a **great power**.
+Complete unabridged 42-question bank from Ghatna Chakra covering Sharqi Jaunpur, Kashmir (Zain-ul-Abidin), Gujarat, Bahmani Kingdom, Deccan Sultanates, and Regional Architecture. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
 
-**R is true:Rama Raya** was **beheaded** and **Hampi** was **sacked**.
+---
 
-**Why R explains A:** The regent's death and capital looting **caused** the collapse of imperial power.
+**Q-GC1. U.P.P.C.S. (Mains) 2004, U.P.P.C.S. (Pre) 2003, U.P.P.C.S. (UDA/LDA) (Pre) 2002**
 
-**Trap:** The empire survived in name under **Aravidu** until **1646** — A says "great power" ended, not every trace of the state.
+The city of Jaunpur was founded in the memory of :
 
+- (a) Ghiyasuddin Tughluq
+- (b) Muhammad-Bin-Tughluq
+- (c) Firuz Shah Tughluq
+- (d) Akbar
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+B
+
+Firuz Shah Tughluq built 300 new cities. Jaunpur was
+
+established by the sultan of Delhi Firuz Shah Tughluq,
+
+and named in the memory of his cousin Muhammad-binTughluq whose name was Jauna Khan. Firuz Shah Tughluq
+
+appointed Malik Sarwar, an eunuch who was notorious
+
+for being the lover of Firuz Shah Tughluq’s daughter, as
+
+the governor of the region. The Sultanate was in disarray
+
+because of factional fighting for power and Malik Sarwar
+
+declared independence. He and his adopted son Mubarak
+
+Shah founded the Sharqi Dynasty (dynasty of the East).
+
+Jaunpur was independent for 85 years. But in 1479 A.D.,
+
+Bahlul Lodi defeated its last emperor Hussain Shah and was
+
+able to reconquer Jaunpur in 1479.
 </details>
 
 ---
 
-## Complete PYQ Bank (Topic 3)
-
-**Q1. UPPCS Prelims 2018, Q19**
-
-Which of the following pairs is NOT correctly matched?
-
-A. Adina Masjid – Mandu
-B. Lal Darwaza Masjid – Jaunpur
-C. Dakhil Darwaza – Gaour
-D. Tin Darwaza – Ahmedabad
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **A** (Adina Masjid — Mandu is NOT correctly matched)
-
-**Detailed Explanation:**
-- **Pair A: Adina Masjid — Mandu (INCORRECT):** The **Adina Masjid** was constructed in **Pandua** (Firuzabad, Bengal) around 1373–1375 CE by Sultan **Sikandar Shah** of the Ilyas Shahi dynasty. It was one of the largest mosques in the subcontinent, modeled on the Great Mosque of Damascus. The famous medieval mosque at **Mandu** (Malwa) is the Jami Masjid started by Hoshang Shah and completed by Mahmud Khalji.
-- **Pair B: Lal Darwaza Masjid — Jaunpur (Correct):** Built in **1447 CE** by **Bibi Raji**, queen consort of Sultan Mahmud Shah Sharqi of Jaunpur, dedicated to saint Sayyid Ali Daud.
-- **Pair C: Dakhil Darwaza — Gaur (Correct):** The grand triumphal entrance gateway to the citadel of **Gaur (Bengal)**, constructed around 1474 CE by Sultan Nasiruddin Barbak Shah.
-- **Pair D: Tin Darwaza — Ahmedabad (Correct):** Celebrated triple-arched ceremonial gateway in **Ahmedabad (Gujarat)**, constructed in 1415 CE by Sultan Ahmad Shah I to serve as the royal entrance to the Maidan-i-Shah.
-
-**Key Exam Takeaway / Trap:**
-- *Adina Masjid* = **Pandua (Bengal)**, NOT Mandu.
-- *Tin Darwaza* = **Ahmedabad (Gujarat)**.
-- *Lal Darwaza* & *Atala Masjid* = **Jaunpur (Sharqi dynasty)**.
-
-</details>
-
-**Q2. UPPCS Prelims 2019, Q91**
-
-Arrange chronologically: I. Rabia Daurani's Tomb, Aurangabad | II. Sher Shah's Tomb, Sasaram | III. Humayun's Tomb, Delhi | IV. Atala Mosque, Jaunpur
-
-A. I, II, IV, III
-B. IV, II, III, I
-C. II, I, III, IV
-D. III, IV, II, I
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (IV, II, III, I / Atala Mosque → Sher Shah's Tomb → Humayun's Tomb → Rabia Daurani's Tomb)
-
-**Detailed Explanation:**
-The correct ascending chronological sequence of construction is:
-1. **IV. Atala Mosque, Jaunpur (1408 CE):** Founded by Firoz Shah Tughlaq in 1377 and completed by Sharqi Sultan **Ibrahim Shah Sharqi** in 1408 CE; hallmark of Sharqi architecture with its massive slanting propylon screen.
-2. **II. Sher Shah's Tomb, Sasaram (1545 CE):** Magnificent three-tiered octagonal mausoleum standing in the middle of an artificial lake in Bihar, completed by his son Islam Shah immediately following Sher Shah's death in 1545 CE.
-3. **III. Humayun's Tomb, Delhi (1565–1572 CE):** Commissioned by his chief consort **Bega Begum (Haji Begum)** and designed by Persian architect Mirak Mirza Ghiyas; the first monumental double-domed garden tomb (*Charbagh*) of Mughal architecture.
-4. **I. Rabia Daurani's Tomb / Bibi Ka Maqbara, Aurangabad (1678 CE):** Built by Prince Azam Shah in memory of his mother Dilras Banu Begum (posthumously titled Rabia-ud-Daurani), chief consort of **Aurangzeb**; designed by architect Ataullah as an imitation of the Taj Mahal.
-
-**Key Exam Takeaway / Trap:**
-- Atala Mosque (early 15th c.) → Sher Shah (1545) → Humayun (1565–1572) → Bibi Ka Maqbara (1678).
-- Sher Shah's tomb preceded Humayun's tomb by two decades.
-
-</details>
-
-**Q3. UPPCS Prelims 2020, Q34**
-
-Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in 1687?
-
-A. Abul Hasan Qutb Shah
-B. Sikandar Adil Shah
-C. Ali Adil Shah II
-D. Shayasta Khan
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **A** (Abul Hasan Qutb Shah)
-
-**Detailed Explanation:**
-- When Mughal Emperor **Aurangzeb** personally laid siege to the fortress of **Golkonda in 1687 CE**, the reigning monarch was **Abul Hasan Qutb Shah** (popularly remembered as **Tana Shah**, reigned 1672–1687 CE), the eighth and final ruler of the Qutb Shahi dynasty.
-- The massive granite fort of Golkonda resisted the imperial Mughal army for **eight months**. Aurangzeb finally breached the fortress in September 1687 through the treachery of an Afghan commander inside, **Abdullah Khan Panni**, who opened the Khirki (gate) for a huge bribe.
-- Abul Hasan was captured and imprisoned for the rest of his life in Daulatabad fort, and the Golkonda Sultanate was formally annexed to the Mughal Empire.
-
-**Key Exam Takeaway / Trap:**
-- Last ruler of Bijapur during Aurangzeb's 1686 annexation = **Sikandar Adil Shah**.
-- Last ruler of Golkonda during Aurangzeb's 1687 annexation = **Abul Hasan Qutb Shah (Tana Shah)**.
-
-</details>
-
-**Q4. UPPCS Prelims 2020, Q44**
-
-Who among the following was the author of the book **Kitab-i-Nauras**?
-
-A. Ibrahim Adil Shah II
-B. Ali Adil Shah
-C. Quli Qutab Shah
-D. Akbar II
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **A** (Ibrahim Adil Shah II)
-
-**Detailed Explanation:**
-- Sultan **Ibrahim Adil Shah II (reigned 1580–1627 CE)** of the **Adil Shahi dynasty of Bijapur** was a celebrated scholar, poet, calligrapher, and lutanist.
-- He authored the famous poetic musical anthology **Kitab-i-Nauras** (*Book of Nine Rasas*) in Dakhani Urdu/Persian. The book comprises 59 songs and 17 couplets set to classical Indian musical ragas, opening with invocations to Hindu deities—Goddess **Saraswati** and Lord **Ganesha**—alongside Prophet Muhammad and Sufi saint Gesudaraz of Gulbarga.
-- Due to his extraordinary religious catholicity and generous patronage of Hindu and Muslim scholars alike, his subjects conferred upon him the reverent titles **Jagat Guru** (World Teacher) and **Abla Baba** (Friend of the Poor).
-
-**Key Exam Takeaway / Trap:**
-- *Kitab-i-Nauras* = **Ibrahim Adil Shah II (Bijapur)**.
-- Founder of new capital Nauraspur = **Ibrahim Adil Shah II**.
-- *Amuktamalyada* = **Krishnadevaraya (Vijayanagara)**.
-
-</details>
-
-**Q5. UPPCS Prelims 2023, Q33**
-
-Match List-I (Book) with List-II (Context):
-
-| List-I | List-II |
-|--------|---------|
-| A. Mirat-e-Sikandari | 1. Bengal |
-| B. Burhan-e-Masir | 2. Ahmadnagar |
-| C. Riyaz-us-Salatin | 3. Gawan's letters |
-| D. Riyaz-ul-Insha | 4. Gujarat victory |
-
-*Row order in the table is not the answer code.*
-
-A. 4-2-1-3
-B. 2-4-1-3
-C. 1-2-4-3
-D. 4-2-3-1
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **A** (4–2–1–3 / A-4, B-2, C-1, D-3)
-
-**Detailed Explanation:**
-- **A. Mirat-e-Sikandari → 4. Gujarat victory / History of Gujarat Sultanate:** Composed in Persian around 1611 CE by Sikandar bin Muhammad Manjhu; provides an exhaustive, authoritative chronicle of the Sultans of Gujarat from Zafar Khan's revolt down to Akbar's Mughal conquest.
-- **B. Burhan-e-Masir → 2. Ahmadnagar:** Composed by court historian Sayyid Ali Tabataba around 1599 CE under the patronage of Burhan Nizam Shah II; provides the most comprehensive history of the **Nizam Shahi dynasty of Ahmadnagar** and the Bahmanis.
-- **C. Riyaz-us-Salatin → 1. Bengal:** Composed in Persian by Ghulam Husain Salim Zaidpuri in 1787–1788 CE at Malda; the first complete indigenous narrative history of the Muslim rulers of **Bengal** from Bakhtiyar Khalji to the Battle of Plassey.
-- **D. Riyaz-ul-Insha → 3. Mahmud Gawan's diplomatic letters:** Master collection of royal and diplomatic letters composed by the eminent Bahmani prime minister and scholar **Khwaja Mahmud Gawan**.
-
-**Key Exam Takeaway / Trap:**
-- Do not confuse the two *Riyaz* titles: **Riyaz-us-Salatin** = History of Bengal | **Riyaz-ul-Insha** = Mahmud Gawan's Bahmani epistolary collection.
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q36**
-
-Which among the following rulers of Kashmir abolished **Jaziya** and **cow slaughter**?
-
-A. Shamsuddin Shah
-B. Sikandar Shah
-C. Zain-ul-Abidin
-D. Haider Shah
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Zain-ul-Abidin)
-
-**Detailed Explanation:**
-- Sultan **Zain-ul-Abidin (reigned 1420–1470 CE)**, the eighth Sultan of the Shah Miri dynasty of Kashmir, is celebrated in Indian history as the **"Akbar of Kashmir"**. His devoted Kashmiri subjects affectionately styled him **Bud Shah** (*The Great Sultan*).
-- Reversing the severe persecution and iconoclasm of his father Sikandar Butshikan, Zain-ul-Abidin:
-  1. Immediately **abolished Jizya** and the pilgrimage tax on Hindus.
-  2. Enacted a strict prohibition against **cow slaughter**.
-  3. Granted complete religious freedom, recalled exiled Kashmiri Pandits, granted them land endowments, and rebuilt destroyed Hindu temples.
-  4. Appointed learned Hindus (such as Shriya Bhat as court physician and minister) to high administrative offices.
-  5. Established a royal translation bureau (*Dar-ul-Tarjumah*) where Kalhana's *Rajatarangini* and the *Mahabharata* were translated into Persian, and Persian works into Sanskrit.
-
-**Key Exam Takeaway / Trap:**
-- *Akbar of Kashmir* / *Bud Shah* = **Zain-ul-Abidin**.
-- Intolerant predecessor who destroyed Martand Sun Temple = **Sikandar Shah (Butshikan)**.
-
-</details>
-
----
-
-## Ghatnachakra Extra Drill — Provincial Dynasties (UPPCS first, then others)
-
-Teaching for these stems sits in **3.1–3.4**. UPPCS keys aligned with Ghatnachakra.
-
-**Q1. UPPCS Prelims 2003 / Mains 2004 / UDA 2002**
-
-The city of Jaunpur was founded in the memory of:
-
-A. Ghiyasuddin Tughlaq
-B. Muhammad bin Tughlaq (Jauna Khan)
-C. Firoz Shah Tughlaq
-D. Akbar
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Muhammad bin Tughlaq / Jauna Khan)
-
-**Detailed Explanation:**
-- The historic city of **Jaunpur** (in eastern Uttar Pradesh on the banks of the Gomti River) was founded in **1359 CE** by Sultan **Firoz Shah Tughlaq**.
-- Firoz Shah established and named the city in loving memory of his cousin and predecessor, **Fakhruddin Jauna Khan**, who had ruled as Sultan **Muhammad bin Tughlaq** (1325–1351).
-- In 1394, during the decay of the Tughlaq dynasty, the eunuch noble Malik Sarwar founded the independent **Sharqi dynasty** with Jaunpur as its capital.
-
-**Key Exam Takeaway / Trap:**
-- Classic UPPCS trap: Founded **BY** = **Firoz Shah Tughlaq**. Founded **IN MEMORY OF** = **Muhammad bin Tughlaq (Jauna Khan)**.
-
-</details>
-
-**Q2. UP UDA/LDA (Pre) 2006**
+**Q-GC2. U.P.P.C.S. (UDA/LDA) (Pre) 2006**
 
 Who had established Jaunpur?
 
-A. Muhammad bin Tughlaq
-B. Firoz Shah Tughlaq
-C. Ibrahim Shah Sharqi
-D. Sikandar Lodi
+- (a) Muhammad-Bin-Tughluq
+- (b) Firuz Shah Tughluq
+- (c) Ibrahim Shah Sharqi
+- (d) Sikandar Lodi
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **B** (Firoz Shah Tughlaq)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Firoz Shah Tughlaq (1351–1388):** A prolific city founder who established numerous urban centers including Firozabad, Fatehabad, Hissar-Firoza, and **Jaunpur** (founded in 1359 during his Bengal campaign).
-- Later, in 1394, **Malik Sarwar (Khwaja-i-Jahan)** was appointed governor of the eastern provinces (*Sultan-ush-Sharq*) and laid the foundation of the independent Sharqi Sultanate of Jaunpur.
+**Explanation:**
+See the explanation of the above question.
 
-**Key Exam Takeaway / Trap:**
-- City builder = **Firoz Shah Tughlaq**. Sharqi kingdom founder = **Malik Sarwar**.
+*(Reference Context from previous question:)*
+B
 
+Firuz Shah Tughluq built 300 new cities. Jaunpur was
+
+established by the sultan of Delhi Firuz Shah Tughluq,
+
+and named in the memory of his cousin Muhammad-binTughluq whose name was Jauna Khan. Firuz Shah Tughluq
+
+appointed Malik Sarwar, an eunuch who was notorious
+
+for being the lover of Firuz Shah Tughluq’s daughter, as
+
+the governor of the region. The Sultanate was in disarray
+
+because of factional fighting for power and Malik Sarwar
+
+declared independence. He and his adopted son Mubarak
+
+Shah founded the Sharqi Dynasty (dynasty of the East).
+
+Jaunpur was independent for 85 years. But in 1479 A.D.,
+
+Bahlul Lodi defeated its last emperor Hussain Shah and was
+
+able to reconquer Jaunpur in 1479.
 </details>
 
-**Q3. UPPCS Prelims 2001 / Lower 2004 / Mains 2005**
+---
 
-Which one of the following places was known as ‘Shiraz-i-Hind’ (Shiraz of the East) during the medieval period?
+**Q-GC3. U.P.P.C.S. (Pre) 2001**
 
-A. Agra
-B. Delhi
-C. Jaunpur
-D. Lucknow
+Which one of the following places was known as ‘Shiraz
+of East’ during the regime of Sharqi Rulers?
 
-<details>
-<summary>Show answer</summary>
+- (a) Agra
+- (b) Delhi
+- (c) Jaunpur
+- (d) Varanasi U.P. Lower Sub. (Pre) 2004
 
-**Correct Answer:** **C** (Jaunpur)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- During the 15th century under the patronizing rule of the **Sharqi Sultans** (especially **Ibrahim Shah Sharqi**, 1402–1440), Jaunpur emerged as a premier center of Islamic learning, theology, Persian literature, classical music, and architecture.
-- Scholars, poets, theologians, and artisans flocked to Jaunpur from across the Islamic world following the devastation of Delhi by Timur (1398).
-- Because of its extraordinary intellectual and cultural brilliance, Jaunpur was hailed as the **"Shiraz of India" (*Shiraz-i-Hind*)**, comparing it to Shiraz, the renowned cultural and literary capital of Persia.
-- Renowned monuments include the **Atala Mosque** (built 1408), **Jhanjhari Mosque**, and **Lal Darwaza Mosque**.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- *Shiraz-i-Hind* = **Jaunpur** (specifically under **Ibrahim Shah Sharqi**).
+**Explanation:**
+Jaunpur attained its greatest height under Sharqi Dynasty
 
+ruler, Ibrahim Shah (1402-1440 AD). He constructed some
+
+monuments in a new regional style of architecture known as
+
+the Sharqi architecture. Jaunpur was also known as the Shiraz
+
+of East or Shiraz-i-Hind during this period.
 </details>
 
-**Q4. UPPCS Prelims 2017**
+---
 
-Who was the last ruler of the Sharqi dynasty of Jaunpur?
+**Q-GC4. U.P.P.C.S. (Mains) 2005**
 
-A. Ibrahim Shah
-B. Hussain Shah Sharqi
-C. Mahmud Shah
-D. Mubarak Shah
+Which one of the following places was called “Shiraz
+of India”?
 
-<details>
-<summary>Show answer</summary>
+- (a) Agra
+- (b) Allahabad
+- (c) Jaunpur
+- (d) Lucknow
 
-**Correct Answer:** **B** (Hussain Shah Sharqi)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Hussain Shah Sharqi (1458–1479):** The final independent sovereign of the Sharqi dynasty of Jaunpur. An accomplished patron of Hindustani classical music (credited with inventing the *Khayal* music form and *Jaunpuri Rag*), he engaged in a protracted military conflict with Sultan **Bahlol Lodi** of Delhi.
-- Bahlol Lodi decisively defeated Hussain Shah Sharqi in 1479, captured Jaunpur, annexed the Sharqi realm to the Delhi Sultanate, and placed his son Barbak Shah on the throne of Jaunpur.
-- Hussain Shah fled to Bihar and died in exile in 1500.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Last Sharqi ruler = **Hussain Shah Sharqi**. Defeated and annexed by = **Bahlol Lodi (1479)**.
+**Explanation:**
+See the explanation of the above question.
 
+*(Reference Context from previous question:)*
+Jaunpur attained its greatest height under Sharqi Dynasty
+
+ruler, Ibrahim Shah (1402-1440 AD). He constructed some
+
+monuments in a new regional style of architecture known as
+
+the Sharqi architecture. Jaunpur was also known as the Shiraz
+
+of East or Shiraz-i-Hind during this period.
 </details>
 
-**Q5. UP R.O./A.R.O. (Pre) 2023**
+---
 
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+**Q-GC5. U.P.P.C.S. (Pre) 2017**
 
-Assertion (A): Jaunpur is known as Siraj-e-Hind (Shiraz-i-Hind).
-Reason (R): Under the Sharqi rulers, Jaunpur was a great centre of education and Islamic literature.
+Who was the last ruler of 'Jaunpur' state?
 
-Select the correct answer from the code given below:
+- (a) Mohammad Shah
+- (b) Hussain Shah
+- (c) Mubarak Shah
+- (d) Ibrahim Shah
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+<details><summary>Show answer</summary>
 
-<details>
-<summary>Show answer</summary>
+**Answer: (b)**
 
-**Correct Answer:** **A** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+**Explanation:**
+Jaunpur city was founded in 14th century by Sultan Firuz Shah
 
-**Detailed Explanation:**
-- **Assertion (A) is true:** Jaunpur earned the celebrated title **Siraj-e-Hind** (*Shiraz of India*) throughout the 15th century.
-- **Reason (R) is true:** The Sharqi monarchs, particularly Ibrahim Shah Sharqi, liberally patronized scholars, poets, jurists, and theologians. Madrasas in Jaunpur attracted students from all over northern India (even young Sher Shah Suri received his education in Arabic, Persian, and statecraft in Jaunpur).
-- **Why (R) explains (A):** The profound educational and literary eminence of Jaunpur directly earned it comparison to the Persian intellectual city of Shiraz.
+Tughluq and named in memory of his cousin, MuhammadBin Tughluq whose real name was Jauna Khan. In 1394 AD,
 
-**Key Exam Takeaway / Trap:**
-- Direct causal explanation: Jaunpur was called *Siraj-e-Hind* precisely **because** it was the premier center of Islamic education and literature in northern India.
+Malik Sarwar established the independent Jaunpur state.
 
+Hussain Shah was the last ruler of Jaunpur state defeated by
+
+Bahlul Lodi. Jaunpur is historically known as 'Shiraz-i-Hind'.
 </details>
 
-**Q6. UPPCS Prelims 2023**
+---
 
-Which among the following rulers of Kashmir abolished Jizya and cow slaughter, earning the title "Akbar of Kashmir"?
+**Q-GC6. U.P.P.C.S. (RO/ARO) (Pre) 2023**
 
-A. Shamsuddin Shah Mir
-B. Sikandar Butshikan
-C. Haidar Shah
-D. Zain-ul-Abidin
+Given below are two statements, in which one is
+labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): Jaunpur is known as Siraj-e-Hind.
+Reason (R): Jaunpur was a great centre of education
+during the Sharqi period.
+Select the correct answer using the code given below:
+Code -
 
-<details>
-<summary>Show answer</summary>
+- (a) (A) is false but (R) is true.
+- (b) Both
+- (A) and (R) are true and (R) is correct explanation of
+- (A) .
+- (c) (A) is true but (R) is false.
+- (d) Both
+- (A) and (R) are true but (R) is not correct explanation of
+- (A) .
 
-**Correct Answer:** **D** (Zain-ul-Abidin)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Sultan Zain-ul-Abidin (1420–1470):** The eighth Sultan of Kashmir belonging to the Shah Mir dynasty, affectionately known to his subjects as **Bud Shah** (The Great King).
-- Renowned for his enlightened religious toleration, he completely reversed the iconoclastic policies of his father Sikandar *Butshikan* (The Idol-Breaker):
-  - Abolished the discriminatory **Jizya** tax on Hindus.
-  - Banned **cow slaughter** and prohibited the killing of birds and fish in holy springs.
-  - Recalled exiled Kashmiri Pandits, restored their confiscated lands, and rebuilt demolished Hindu temples.
-  - Established a royal translation bureau where the *Mahabharata* and Kalhana's *Rajatarangini* were translated into Persian.
-- Because of these benevolent policies, historians hail him as the **"Akbar of Kashmir"**.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- "Akbar of Kashmir" = **Zain-ul-Abidin (Bud Shah)**. Abolished Jizya over a century before Mughal Emperor Akbar did in 1564.
+**Explanation:**
+Ibrahim Shah Sharqi was the greatest ruler of the Sharqi
 
+dynasty of Jaunpur. He was a lover of knowledge and art.
+
+During his reign a new type of style, called 'Sharqi Art'
+
+emerged. In this style, the simple type of minarets was
+
+removed, and signs of Hindu influence started appearing in
+
+it. During his time, the cultural fame of Jaunpur spread all
+
+around and Jaunpur became famous by the name 'Siraj of
+
+India/East' or 'Shiraz-i-Hind'. Jaunpur emerged as a great
+
+center of education during the period of Sharqi rulers. Hence
+
+both Assertion (A) and Reason (R) are true and R is correct
+
+explanation of A.
 </details>
 
-**Q7. UPPCS Prelims 2021**
+---
+
+**Q-GC7. R.A.S./R.T.S. (Pre) 1993**
+
+Ruler of Kashmir who was also known as “Akbar of
+Kashmir’ was-
+
+- (a) Shamshuddin Shah
+- (b) Sikandar Butshikan
+- (c) Haidar Shah
+- (d) Zain-ul-Abidin
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Shahi Khan (Zain-ul-Abidin), the brother of Ali Shah, became
+
+the ruler of Kashmir in 1420 AD. He was the greatest king
+
+of Kashmir. He earned a name for his policy of religious
+
+tolerance and public welfare activities. He abolished Jizya
+
+tax on Hindus and banned cow slaughter. He was the first
+
+ruler to do so Mahabharata, Dashavatara and Rajtarangini
+
+were translated into the Persian language during his period.
+
+He was compared with Akbar due to his religious tolerance.
+
+The scriptures ‘Jain Prakash’ and Jain-Vilas’ were compiled
+
+during his rule. Also, he constructed artificial island of Zaina
+
+Lank in the middle of Wular Lake.
+</details>
+
+---
+
+**Q-GC8. State PCS**
+
+Which among the following ruler abolished Jizya for
+first time?
+
+- (a) Zain-ul-Abidin
+- (b) Muhammad-Bin-Tughluq
+- (c) Hussain Shah Sharqi
+- (d) Akbar Uttarakhand U.D.A./L.D.A. (Mains) 2006 Indian History General Studies B–255
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Shahi Khan (Zain-ul-Abidin), the brother of Ali Shah, became
+
+the ruler of Kashmir in 1420 AD. He was the greatest king
+
+of Kashmir. He earned a name for his policy of religious
+
+tolerance and public welfare activities. He abolished Jizya
+
+tax on Hindus and banned cow slaughter. He was the first
+
+ruler to do so Mahabharata, Dashavatara and Rajtarangini
+
+were translated into the Persian language during his period.
+
+He was compared with Akbar due to his religious tolerance.
+
+The scriptures ‘Jain Prakash’ and Jain-Vilas’ were compiled
+
+during his rule. Also, he constructed artificial island of Zaina
+
+Lank in the middle of Wular Lake.
+</details>
+
+---
+
+**Q-GC9. U.P.P.C.S. (Pre) 2023**
+
+Which among the following ruler of Kashmir abolished
+Zaziya and Cow Slaughter?
+
+- (a) Sikandar Shah
+- (b) Shamsuddin Shah
+- (c) Haider Shah
+- (d) Zain-ul-Abidin
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+*(Reference Context from previous question:)*
+Shahi Khan (Zain-ul-Abidin), the brother of Ali Shah, became
+
+the ruler of Kashmir in 1420 AD. He was the greatest king
+
+of Kashmir. He earned a name for his policy of religious
+
+tolerance and public welfare activities. He abolished Jizya
+
+tax on Hindus and banned cow slaughter. He was the first
+
+ruler to do so Mahabharata, Dashavatara and Rajtarangini
+
+were translated into the Persian language during his period.
+
+He was compared with Akbar due to his religious tolerance.
+
+The scriptures ‘Jain Prakash’ and Jain-Vilas’ were compiled
+
+during his rule. Also, he constructed artificial island of Zaina
+
+Lank in the middle of Wular Lake.
+</details>
+
+---
+
+**Q-GC10. I.A.S. (Pre) 1999**
+
+Consider the following statements :
+The striking feature of the Jama Masjid in Kashmir
+completed by Zain-ul-Abidin include(s) :
+1. Turret
+2. Similarity with Buddhist pagodas
+3. Persian style
+Which of the above statements is/are correct?
+
+- (a) 1 alone
+- (b) 1, 2 and 3
+- (c) 1 and 3
+- (d) 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Sikandar Butshikan built Jama Masjid in 1400 AD in Kashmir
+
+which was expanded by Zain-ul-Abidin. The characteristics
+
+of Jama Masjid include turret, the similarity with Buddhist
+
+pagodas and Persian style. Hence, option (b) is the correct
+
+answer.
+</details>
+
+---
+
+**Q-GC11. (a) Muni Sunder Suri (b) Natha, (c) Tilla Bhatt (d) Muni Jin Vijay Suri, R.A.S./R.T.S. (Pre) 2016**
+
+Who amongst the following scholars was not in the
+Court of Kumbha?
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Muni Sunder Suri, Natha, and Tilla Bhatt were the scholars
+
+in the court of Kumbha, but Muni Jin Vijay Suri was in the
+
+court of Mughal emperor, Akbar.
+</details>
+
+---
+
+**Q-GC12. U.P.P.C.S. (Pre) 2021**
 
 Which one of the following is NOT correctly matched?
+(Ruler) (State)
 
-A. Baz Bahadur — Malwa
-B. Sultan Muzaffar Shah — Gujarat
-C. Yusuf Adil Shah — Bijapur
-D. Qutbuddin Aibak — Bengal
+- (a) Rana Hamir – Mewar
+- (b) Rana Chunda – Marwar
+- (c) Malik Raja Farooqi – Khandesh
+- (d) Malik Sarwar – Malwa Khwaja Jahan
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Qutbuddin Aibak — Bengal)
+**Answer: (d)**
 
-**Detailed Explanation:**
-- **Pair D is NOT correctly matched:** **Qutbuddin Aibak** was the founder of the Delhi Sultanate ruling from **Lahore and Delhi** (1206–1210). Bengal was conquered for the Sultanate by Ikhtiyar-ud-din Muhammad Bakhtiyar Khalji, and later ruled by independent sultans such as Shamsuddin Ilyas Shah.
-- **Pair A is correctly matched:** **Baz Bahadur** was the last independent Sultan of **Malwa** (famous for his romance with Queen Roopmati), defeated by Akbar's army in 1561.
-- **Pair B is correctly matched:** **Muzaffar Shah I (Zafar Khan)** founded the independent Sultanate of **Gujarat** in 1407.
-- **Pair C is correctly matched:** **Yusuf Adil Shah** founded the **Adil Shahi dynasty of Bijapur** in 1489.
+**Explanation:**
+Jaunpur was an independent Islamic kingdom in North India
 
-**Key Exam Takeaway / Trap:**
-- Provincial dynasty match: Malwa (Baz Bahadur), Gujarat (Muzaffar Shah / Ahmad Shah), Bijapur (Yusuf Adil Shah), Bengal (Ilyas Shahi / Husain Shahi).
+between 1394 AD and 1479 AD. Sharqui Dynasty ruled this
 
+kingdom. It was founded by Khwaja Jahan Malik Sarwar
+
+in 1394 AD.
 </details>
 
-**Q8. UPPCS Mains 2005 / Prelims 2016**
+---
 
-The Bahmani Kingdom was founded in the year:
+**Q-GC13. I.A.S. (Pre) 2015**
 
-A. 1336
-B. 1347
-C. 1351
-D. 1526
+Consider the following pairs :
+Medieval Indian State Present Region
+1. Champaka - Central India
+2. Durgara - Jammu
+3. Kuluta - Malabar
+Which of the above pairs is/are correctly matched?
 
-<details>
-<summary>Show answer</summary>
+- (a) 1 and 2
+- (b) 2 only
+- (c) 1 and 3
+- (d) 3 only
 
-**Correct Answer:** **B** (1347)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- The **Bahmani Kingdom** was founded in **August 1347 CE** by a rebellious Afghan/Turkic noble, **Ismail Mukh**, who voluntarily stepped aside in favor of **Hasan Gangu**.
-- Hasan Gangu ascended the throne at Daulatabad taking the royal title **Alauddin Hasan Bahman Shah** (claiming descent from the legendary Persian king Bahman).
-- He shifted the capital to **Gulbarga (Ahsanabad)** in northern Karnataka.
-- **1336:** Foundation of the rival **Vijayanagara Empire** by Harihara I and Bukka I.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Foundation years: **Vijayanagara = 1336**; **Bahmani = 1347**. Both emerged during the reign of Delhi Sultan **Muhammad bin Tughlaq**.
+**Explanation:**
+The medieval Indian states such as Champaka (Chamba) and
 
+Kuluta (Kullu) were related to current Himachal Pradesh.
+
+Durgara was situated in Jammu and Kashmir, Champaka,
+
+Durgara and Kuluta were related to Rajputs. These three
+
+states rose as a result of the Tripartite struggling states'
+
+downfall (Pal, Pratihara and Rashtrakuta).
 </details>
 
-**Q8b. UPPCS Mains 2005 / Prelims 2016 (century stem)**
+---
 
-The Bahmani Kingdom was founded in which century?
+**Q-GC14. Uttarakhand P.C.S. (Pre) 2002**
 
-A. 13th century
-B. 14th century
-C. 15th century
-D. 16th century
+Bahmani State was established by –
 
-<details>
-<summary>Show answer</summary>
+- (a) Alauddin Hasan
+- (b) Ali Abid Shah
+- (c) Hussain Nizam Shah
+- (d) Mujahid Shah
 
-**Correct Answer:** **B** (14th century)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- The Bahmani Sultanate was founded in **1347 CE**, which falls directly in the **14th century** (1301–1400 CE).
+**Answer: (a)**
 
-**Key Exam Takeaway / Trap:**
-- 1347 CE = 14th century.
+**Explanation:**
+Bahmani empire was founded by Alauddin Hasan Bahman
 
+Shah (Zafar Khan), who was also known as Hasan Gangu,
+
+in 1347 AD. He declared Gulbarga the capital of his empire
+
+and named as Ahsanabad. He divided his empire into four
+
+regions Gulbarga, Daulatabad, Berar and Bidar. Gulbarga was
+
+the most significant district of the state. He annexed southern
+
+Hindu rulers and started a new system of providing powers
+
+and Jagirs to his followers. He abolished Jizya on the Hindus.
 </details>
 
-**Q9. UPPCS Prelims 2020**
+---
 
-Who among the following was the author of the book *Kitab-i-Nauras*?
+**Q-GC15. 60th to 62nd B.P.S.C. (Pre) 2016**
 
-A. Ibrahim Adil Shah II
-B. Ali Adil Shah
-C. Quli Qutb Shah
-D. Akbar
+Who was the founder of Bahmani Kingdom?
 
-<details>
-<summary>Show answer</summary>
+- (a) Alauddin Hasan
+- (b) Firuz Shah
+- (c) Mahmud Gaonwa
+- (d) Asaf Khan
+- (e) None of the above/More than one of the above
 
-**Correct Answer:** **A** (Ibrahim Adil Shah II)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Ibrahim Adil Shah II (1580–1627):** Renowned Sultan of Bijapur, celebrated as a brilliant poet, lutenist, and secular patron of arts.
-- He authored the famous treatise ***Kitab-i-Nauras*** (Book of Nine Rasas) in Dakhani Urdu, containing 59 songs and 17 couplets set to classical Indian ragas.
-- Remarkably, the book opens with devotional invocations to **Goddess Saraswati**, Lord Ganesha, and Hazrat Gesudaraz of Gulbarga.
-- Because of his secular broadmindedness and immense charity to the poor, his subjects revered him with the honorific titles **Jagatguru** (World Teacher) and **Abla Baba** (Friend of the Poor). He also founded the planned city of **Nauraspur** near Bijapur.
+**Answer: (a)**
 
-**Key Exam Takeaway / Trap:**
-- Author of *Kitab-i-Nauras* and bearer of titles *Jagatguru* / *Abla Baba* = **Ibrahim Adil Shah II of Bijapur**.
+**Explanation:**
+See the explanation of the above question.
 
+*(Reference Context from previous question:)*
+Bahmani empire was founded by Alauddin Hasan Bahman
+
+Shah (Zafar Khan), who was also known as Hasan Gangu,
+
+in 1347 AD. He declared Gulbarga the capital of his empire
+
+and named as Ahsanabad. He divided his empire into four
+
+regions Gulbarga, Daulatabad, Berar and Bidar. Gulbarga was
+
+the most significant district of the state. He annexed southern
+
+Hindu rulers and started a new system of providing powers
+
+and Jagirs to his followers. He abolished Jizya on the Hindus.
 </details>
 
-**Q10. UPPCS Prelims 2004**
+---
 
-Which of the following pairs of Deccan Sultanates and their founding dynasties is NOT correctly matched?
+**Q-GC16. U.P.P.C.S. (Mains) 2005**
 
-A. Nizam Shahi — Ahmadnagar
-B. Adil Shahi — Bijapur
-C. Qutb Shahi — Golconda
-D. Imad Shahi — Bidar
+The Bahmani Kingdom was founded in the year
 
-<details>
-<summary>Show answer</summary>
+- (a) 1336
+- (b) 1338
+- (c) 1347
+- (d) 1361
 
-**Correct Answer:** **D** (Imad Shahi — Bidar)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Pair D is NOT correctly matched:** The **Imad Shahi dynasty** ruled **Berar** (founded in 1490 by Fathullah Imad-ul-Mulk, capital Ellichpur). The sultanate of **Bidar** was ruled by the **Barid Shahi dynasty** (founded in 1492 by Qasim Barid).
-- The five successor sultanates that emerged from the disintegration of the Bahmani Kingdom are:
-  1. **Adil Shahi** $\rightarrow$ **Bijapur** (1489, Yusuf Adil Shah)
-  2. **Nizam Shahi** $\rightarrow$ **Ahmadnagar** (1490, Malik Ahmad)
-  3. **Imad Shahi** $\rightarrow$ **Berar** (1490, Fathullah Imad-ul-Mulk)
-  4. **Qutb Shahi** $\rightarrow$ **Golconda** (1512, Sultan Quli Qutb-ul-Mulk)
-  5. **Barid Shahi** $\rightarrow$ **Bidar** (1492, Qasim Barid)
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Berar = **Imad Shahi**. Bidar = **Barid Shahi**. Do not swap Berar and Bidar!
+**Explanation:**
+See the explanation of the above question.
 
+*(Reference Context from previous question:)*
+Bahmani empire was founded by Alauddin Hasan Bahman
+
+Shah (Zafar Khan), who was also known as Hasan Gangu,
+
+in 1347 AD. He declared Gulbarga the capital of his empire
+
+and named as Ahsanabad. He divided his empire into four
+
+regions Gulbarga, Daulatabad, Berar and Bidar. Gulbarga was
+
+the most significant district of the state. He annexed southern
+
+Hindu rulers and started a new system of providing powers
+
+and Jagirs to his followers. He abolished Jizya on the Hindus.
 </details>
 
-### Other papers (Ghatnachakra Extra)
+---
 
-**Q-GC1. RAS/RTS 1993**
+**Q-GC17. Chhattisgarh P.C.S. (Pre) 2014**
 
-The ruler of Kashmir who was known as the “Akbar of Kashmir” was:
+Which of the following was the first capital of the
+Bahamani Kingdom?
 
-A. Shamshuddin Shah
-B. Sikandar Butshikan
-C. Haidar Shah
-D. Zain-ul-Abidin
+- (a) Bidar
+- (b) Gulbarga B
+- (c) Daulatabad
+- (d) Hussainabad
+- (e) None of these
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **D** (Zain-ul-Abidin)
+**Answer: (b)**
 
-**Detailed Explanation:**
-- **Zain-ul-Abidin (1420–1470):** Known as *Bud Shah* (Great King); celebrated for his enlightened religious toleration, abolition of Jizya, patronization of Sanskrit literature, construction of canals and the Zaina Lank artificial island in Wular Lake.
+**Explanation:**
+See the explanation of the above question.
 
-**Key Exam Takeaway / Trap:**
-- "Akbar of Kashmir" = **Zain-ul-Abidin**.
+*(Reference Context from previous question:)*
+Bahmani empire was founded by Alauddin Hasan Bahman
 
+Shah (Zafar Khan), who was also known as Hasan Gangu,
+
+in 1347 AD. He declared Gulbarga the capital of his empire
+
+and named as Ahsanabad. He divided his empire into four
+
+regions Gulbarga, Daulatabad, Berar and Bidar. Gulbarga was
+
+the most significant district of the state. He annexed southern
+
+Hindu rulers and started a new system of providing powers
+
+and Jagirs to his followers. He abolished Jizya on the Hindus.
 </details>
 
-**Q-GC2. UK UDA/LDA Mains 2006**
+---
 
-Which among the following rulers abolished Jizya for the first time in India?
+**Q-GC18. U.P.P.C.S. (Pre) 1995**
 
-A. Zain-ul-Abidin
-B. Muhammad-Bin-Tughluq
-C. Hussain Shah Sharqi
-D. Akbar
+Who among the following was founder of the Bahamani
+Kingdom in Deccan :
 
-<details>
-<summary>Show answer</summary>
+- (a) Malik Ambar
+- (b) Hasan Gangu
+- (c) Muhammad Diwan
+- (d) Sikandar Shah
 
-**Correct Answer:** **A** (Zain-ul-Abidin)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Zain-ul-Abidin of Kashmir** was the first medieval Muslim ruler in the subcontinent to formally abolish the **Jizya** tax on his Hindu subjects during the early 15th century, decades before Mughal Emperor Akbar abolished it in 1564.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Earliest abolition of Jizya in India = **Zain-ul-Abidin (Kashmir)**.
+**Explanation:**
+See the explanation of the above question.
 
+*(Reference Context from previous question:)*
+Bahmani empire was founded by Alauddin Hasan Bahman
+
+Shah (Zafar Khan), who was also known as Hasan Gangu,
+
+in 1347 AD. He declared Gulbarga the capital of his empire
+
+and named as Ahsanabad. He divided his empire into four
+
+regions Gulbarga, Daulatabad, Berar and Bidar. Gulbarga was
+
+the most significant district of the state. He annexed southern
+
+Hindu rulers and started a new system of providing powers
+
+and Jagirs to his followers. He abolished Jizya on the Hindus.
 </details>
 
-**Q-GC3. UKPCS Prelims 2002 / BPSC / UPPCS 1995**
+---
 
-The Bahmani State was established by:
+**Q-GC19. U.P.P.C.S. (Pre) 2016**
 
-A. Alauddin Hasan Bahman Shah (Hasan Gangu)
-B. Ali Adil Shah
-C. Hussain Nizam Shah
-D. Mujahid Shah
+Bahmani Kingdom was founded in –
 
-<details>
-<summary>Show answer</summary>
+- (a) 15th century A.D.
+- (b) 14th century A.D.
+- (c) 13th century A.D.
+- (d) 16th century A.D.
 
-**Correct Answer:** **A** (Alauddin Hasan Bahman Shah / Hasan Gangu)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- Established in **1347** at Gulbarga by **Alauddin Hasan Bahman Shah** (Zafar Khan / Hasan Gangu), revolting against Sultan Muhammad bin Tughlaq.
+**Answer: (b)**
 
-**Key Exam Takeaway / Trap:**
-- Bahmani founder = **Alauddin Hasan Bahman Shah (1347)**.
+**Explanation:**
+Bahmani Kingdom was founded by Alauddin Hasan
 
+Bahman Shah in 14th century A.D. (1347 A.D.).
 </details>
 
-**Q-GC4. Chhattisgarh PCS 2014**
+---
 
-Which of the following was the first capital of the Bahmani Kingdom?
+**Q-GC20. State PCS**
 
-A. Gulbarga (Ahsanabad)
-B. Bidar
-C. Daulatabad
-D. Golconda
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Gulbarga / Ahsanabad)
-
-**Detailed Explanation:**
-- **Gulbarga (renamed Ahsanabad):** Served as the **first capital** of the Bahmani Kingdom from **1347 to 1424**.
-- In **1424**, Sultan **Ahmad Shah Wali** transferred the capital from Gulbarga to the higher, healthier plateau of **Bidar (renamed Muhammadabad)**.
-
-**Key Exam Takeaway / Trap:**
-- Capital sequence: **Gulbarga (1347–1424)** $\rightarrow$ **Bidar (1424–1527)**.
-
-</details>
-
-**Q-GC5. UKPCS Prelims 2003 / UP Lower 2002**
-
-Match List-I (Dynasty) with List-II (Capital/Centre):
-
-List-I
-A. Adil Shahi
-B. Qutb Shahi
-C. Nizam Shahi
-D. Sharqi Shahi
-
-List-II
-1. Ahmadnagar
-2. Bijapur
-3. Golconda
-4. Jaunpur
-
+Match List- I with List- II and select the correct answer
+by using the codes given below :
+List- I List- II
+A. Adil Shahi 1. Ahmednagar
+B. Qutb Shahi 2. Bijapur
+C. Nizam Shahi 3. Golconda
+D. Sharqi Shahi 4. Jaunpur
 Code:
-A. A-2, B-3, C-1, D-4
-B. A-1, B-2, C-3, D-4
-C. A-2, B-1, C-3, D-4
-D. A-3, B-2, C-1, D-4
+A B C D
 
-<details>
-<summary>Show answer</summary>
+- (a) 1 2 3 4
+- (b) 2 3 4 1
+- (c) 3 4 1 2
+- (d) 2 3 1 4 Uttarakhand P.C.S. (Pre) 2003 U.P. Lower Sub. (Pre) 2002
 
-**Correct Answer:** **A** (A-2, B-3, C-1, D-4)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **A. Adil Shahi:** Ruled **Bijapur** (List-II: 2), founded 1489 by Yusuf Adil Shah.
-- **B. Qutb Shahi:** Ruled **Golconda** (List-II: 3), founded 1512 by Sultan Quli Qutb Shah.
-- **C. Nizam Shahi:** Ruled **Ahmadnagar** (List-II: 1), founded 1490 by Malik Ahmad.
-- **D. Sharqi Shahi:** Ruled **Jaunpur** (List-II: 4), founded 1394 by Malik Sarwar.
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Classic provincial dynasty match: Adil Shahi (Bijapur), Qutb Shahi (Golconda), Nizam Shahi (Ahmadnagar), Sharqi (Jaunpur).
+**Explanation:**
+The correctly matched order is :
 
+Dynasty City Founder ruler
+
+Adil Shahi Bijapur Yusuf Adil Shah
+
+Qutb Shahi Golconda Quli Qutb Shah
+
+Nizam Shahi Ahmednagar Malik Ahmad
+
+Sharqi Shahi Jaunpur Malik Sarwar
 </details>
 
-**Q-GC6. IAS (Pre) 2000**
+---
 
-Which one of the following Muslim rulers was hailed as the "Jagatguru" by his Muslim subjects because of his belief in secularism and broadmindedness?
+**Q-GC21. I.A.S. (Pre) 2000**
 
-A. Hussain Shah
-B. Zain-ul-Abidin
-C. Ibrahim Adil Shah II
-D. Mahmud II
+Which one of the following Muslim rulers was hailed
+as the ‘Jagadguru’ by his Muslim subject because of
+his belief in secularism?
 
-<details>
-<summary>Show answer</summary>
+- (a) Hussain Shah
+- (b) Zain-ul -Abidin
+- (c) Ibrahim Adil Shah
+- (d) Mahmud II
 
-**Correct Answer:** **C** (Ibrahim Adil Shah II)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Ibrahim Adil Shah II of Bijapur (1580–1627):** Conferred the honorific title **Jagatguru** (World Teacher) by his subjects for his syncretic cultural outlook, patronage of Hindu scholars, musicians, and temples, and his authorship of the *Kitab-i-Nauras*.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- *Jagatguru* = **Ibrahim Adil Shah II of Bijapur**.
+**Explanation:**
+Ibrahim Adil Shah-II was king of the Sultanate of Bijapur.
 
+Under his reign, the dynasty had its greatest period, as he
+
+extended its frontier to the south up toMysore. He was a skillful
+
+administrator, artist, poet and a generous patron of arts. He
+
+reverted to the Sunni sect of Islam but remained tolerant of
+
+other religions. He is also known as Jagadguru. He founded a
+
+new township at Nauraspur to give concrete shape to his idea
+
+of a musical city. Ibrahim Adilshah-II wrote the book Kitabi-Nauras (Book of Nine Rasas) in Deccani language.
 </details>
 
-**Q-GC7. IAS 1995**
+---
 
-Which one of the following monuments has a dome which is claimed to be one of the largest single masonry domes in the world, with a whispering gallery?
+**Q-GC22. U.P.P.C.S. (Pre) 2020**
 
-A. Tomb of Sher Shah, Sasaram
-B. Jama Masjid, Delhi
-C. Tomb of Ghiyasuddin Tughlaq, Delhi
-D. Gol Gumbaz, Bijapur
+Who among the following was the author of the book
+'Kitab-i-Nauras'?
 
-<details>
-<summary>Show answer</summary>
+- (a) Ibrahim Adil Shah II
+- (b) Ali Adil Shah
+- (c) Quli Qutab Shah
+- (d) Akbar II
 
-**Correct Answer:** **D** (Gol Gumbaz, Bijapur)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Gol Gumbaz (Bijapur, Karnataka):** The magnificent mausoleum of **Muhammad Adil Shah** (reign: 1627–1656), designed by architect Yaqut of Dabul and completed in 1656.
-- It features a colossal hemispherical dome with an internal diameter of 44 meters (144 feet), constructed entirely of brick masonry without pillars or central supports—one of the largest single domes in the world (second only to St. Peter's Basilica in Rome).
-- It houses the famous **Whispering Gallery** (*Acoustic Chamber*), where the faintest whisper is echoed eleven times across the vast interior.
+**Answer: (a)**
 
-**Key Exam Takeaway / Trap:**
-- World-famous masonry dome and Whispering Gallery = **Gol Gumbaz (Bijapur)**, tomb of **Muhammad Adil Shah**.
+**Explanation:**
+Ibrahim Adil Shah II was ruler of Bijapur Kingdom. He wrote
 
+'Kitab-i-Nauras' in Deccani language.
 </details>
 
-**Q-GC8. IAS 2023**
+---
 
-Which among the following rulers of medieval Gujarat surrendered Diu to the Portuguese in 1535?
+**Q-GC23. in 1631 and the entire royal family was killed by the, Mughal troops, I.A.S. (Pre) 2004**
 
-A. Ahmad Shah
-B. Mahmud Begada
-C. Bahadur Shah
-D. Muhammad Shah
+How did the dynasty of Nizam Shahi of Ahmadnagar
+come to an end?
 
-<details>
-<summary>Show answer</summary>
+- (a) Ahmadnagar was annexed to Mughal empire and Hussain Shah was consigned to life imprisonment
+- (b) Mughal troops destroyed Daulatabad fort and killed Nizam-ul-Mulk of Ahmadnagar
+- (c) Fateh Khan usurped the throne from Nizam-ul-Mulk
+- (d) Malik Ambar was defeated in a battle with Mughals
 
-**Correct Answer:** **C** (Bahadur Shah)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- In **1535**, facing imminent military defeat and invasion by the Mughal Emperor **Humayun**, Sultan **Bahadur Shah of Gujarat** formed a defensive alliance with the Portuguese Governor **Nuno da Cunha**.
-- Under the **Treaty of Bassein / Diu (1535)**, Bahadur Shah ceded the strategic island fortress of **Diu** to the Portuguese, permitting them to build a factory and naval fortifications in exchange for military assistance against the Mughals.
-- Later, in 1537, when Mughal pressure receded, negotiations soured and Bahadur Shah was drowned in a skirmish aboard a Portuguese ship off the coast of Diu.
+**Answer: (a)**
 
-**Key Exam Takeaway / Trap:**
-- Ceded Diu to Portuguese in 1535 = **Bahadur Shah of Gujarat**.
+**Explanation:**
+The founder of the city of Ahmadnagar Kingdom was Ahmad
 
+Nizam Shah. It was conquered and annexed by Shahjahan
+
+(1632). It is important to know that Shahjahan sent an army
+
+with Mahawat Khan to win the Daulatabad fort. He bribed 10.5
+
+lakhs to Fateh Khan to take over the fort. After that, Hussain
+
+Nizam Shah-III was imprisoned for life at the Gwalior Fort.
 </details>
 
-**Q-GC9. MPPCS 2010**
+---
 
-Who built the Gujari Mahal inside the Gwalior Fort?
+**Q-GC24. U.P.P.C.S. (Pre) 2004**
 
-A. Raja Suraj Sen
-B. Raja Man Singh Tomar
-C. Raja Tej Karan
-D. Akbar
+Name the pair which is not correctly matched:
 
-<details>
-<summary>Show answer</summary>
+- (a) Baz Bahadur - Malwa
+- (b) Qutb Shah - Golconda
+- (c) Sultan Muzaffar Shah - Gujarat
+- (d) Yusuf Adil Shah - Ahmadnagar
 
-**Correct Answer:** **B** (Raja Man Singh Tomar)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Raja Man Singh Tomar of Gwalior (reign: 1486–1516):** The great Rajput builder and patron of classical Dhrupad music.
-- He built the magnificent **Gujari Mahal** at the base of the Gwalior Fort for his beloved Gurjar queen, **Mrignayani** (the doe-eyed queen).
-- Today, the palace houses the Central Archaeological Museum of Gwalior, containing famous sculptures including the celebrated *Salabhanjika* (Gyraspur Yakshi).
+**Answer: (d)**
 
-**Key Exam Takeaway / Trap:**
-- Builder of Gujari Mahal and Man Mandir Palace = **Raja Man Singh Tomar of Gwalior**.
+**Explanation:**
+Indian History General Studies B–257
 
+In the given options, option (d) is not correctly matched.
+
+Yusuf Adil Shah was the ruler of Bijapur, not Ahmadnagar.
+
+Other options are correctly matched .
 </details>
 
-**Q-GC10. IAS 2001 / UPPCS Mains 2003 / RO 2014**
+---
 
-The exquisite temples of the Hoysala dynasty are chiefly located at:
+**Q-GC25. M.P. P.C.S. (Pre) 1990**
 
-A. Hampi and Hospet
-B. Halebid and Belur
-C. Tanjore and Madurai
-D. Badami and Pattadakal
+What is Golconda called at present :
 
-<details>
-<summary>Show answer</summary>
+- (a) Hyderabad
+- (b) Karnataka
+- (c) Bijapur
+- (d) Banglore
 
-**Correct Answer:** **B** (Halebid and Belur)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Hoysala Architecture (11th–14th century):** Famous for star-shaped (*stellate*) temple plans, soapstone (*chloritic schist*) construction, and intricate filigree relief carvings.
-- Chief monuments are located at:
-  - **Belur:** **Chennakeshava Temple**, built by King Vishnuvardhana in 1117 to commemorate his victory over the Cholas.
-  - **Halebid (Dwarasamudra):** **Hoysaleshwara Temple**, dedicated to Lord Shiva, renowned for double shrines and miles of continuous narrative friezes.
-  - **Somanathapura:** **Keshava Temple**, built by Somnatha Dandanayaka in 1268.
-- These Hoysala temples were collectively inscribed as a **UNESCO World Heritage Site** in 2023.
+**Answer: (a)**
 
-**Key Exam Takeaway / Trap:**
-- Primary Hoysala sites = **Halebid (Dwarasamudra)** and **Belur** (Hassan district, Karnataka).
+**Explanation:**
+The ruins of Golconda (Capital of Qutb Shahi Dyansty)
 
+are scattered in Hyderabad. It was under Qutb Shahi kings,
+
+who ruled the region in 16th-17th century. Later, Aurangzeb
+
+possessed it by ending Qutb Shahi Dynasty. It was famous
+
+for diamond during that era.
 </details>
 
-**Q-GC10b. IAS 2001 / UPPCS Mains 2003 / RO 2014**
+---
 
-The modern name of the ancient Hoysala capital **Dwarasamudra** is:
+**Q-GC26. I.A.S. (Pre) 2023**
 
-A. Hampi
-B. Halebidu (Halebid)
-C. Belur
-D. Badami
+Who among the following rulers of medieval Gujarat
+surrendered Diu to Portuguese?
 
-<details>
-<summary>Show answer</summary>
+- (a) Ahmad Shah
+- (b) Mahmud Begarha
+- (c) Bahadur Shah
+- (d) Muhammad Shah
 
-**Correct Answer:** **B** (Halebidu / Halebid)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Dwarasamudra** (meaning "gateway of the sea/lake"), the capital of the Hoysala Empire from the 11th to 14th centuries, is today known as **Halebidu (Halebid)** in Hassan district, Karnataka.
-- The city was plundered and devastated by Alauddin Khalji's general **Malik Kafur in 1310** and again by Muhammad bin Tughlaq in 1327, after which it was called *Hale-beedu* (Old City/Ruins).
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Ancient Dwarasamudra = Modern **Halebidu (Halebid)**.
+**Explanation:**
+The Gujarat ruler who surrendered Diu to Portuguese was
 
+Bahadur Shah. In 1535 AD, Bahadur Shah entered into a
+
+treaty with Portuguese governor Nuno De Cunha to assist
+
+against Mughal danger. In return Portuguese were allowed to
+
+build a fortress in Diu and a site was granted for this purpose
+
+in the harbour. After the Mughal danger had receded, the Shah
+
+of Gujarat realised his mistake in allowing the Portuguese
+
+to construct the Fort.
 </details>
 
-**Q-GC11. UPPCS Pre 2019 / UKPCS 2021 / UP RO 2023**
+---
 
-Match List-I (Dynasty) with List-II (Capital):
+**Q-GC27. U.P.P.C.S. (Mains) 2003**
 
-List-I
-A. Kakatiya
-B. Hoysala
-C. Yadava
-D. Pandya
+Which one of the following is correctly matched?
 
-List-II
-1. Dwarasamudra
-2. Warangal
-3. Madurai
-4. Devagiri
+- (a) Kakatiya : Devgiri
+- (b) Hoysala : Dwarasamudra
+- (c) Yadava : Warangal
+- (d) Pandya : Madurai U.P. Lower Sub (Pre) 2008
 
-Code:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-4, C-1, D-3
-D. A-4, B-1, C-2, D-3
+<details><summary>Show answer</summary>
 
-<details>
-<summary>Show answer</summary>
+**Answer: (b)**
 
-**Correct Answer:** **A** (A-2, B-1, C-4, D-3)
+**Explanation:**
+& (d)
 
-**Detailed Explanation:**
-- **A. Kakatiya:** Capital was **Warangal** (Orugallu) in Telangana (List-II: 2).
-- **B. Hoysala:** Capital was **Dwarasamudra** (Halebid) in Karnataka (List-II: 1).
-- **C. Yadava (Seuna):** Capital was **Devagiri** (later Daulatabad) in Maharashtra (List-II: 4).
-- **D. Pandya:** Capital was **Madurai** in Tamil Nadu (List-II: 3).
+Dwarasamudra was the capital of Hoysala, while Warangal was
 
-**Key Exam Takeaway / Trap:**
-- Foundational four Deccan medieval kingdoms raided by Malik Kafur (1309–1311): Kakatiya (Warangal), Hoysala (Dwarasamudra), Yadava (Devagiri), Pandya (Madurai).
+of Kakatiya Dynasty, Devgiri of Yadava Dynasty and Madurai
 
+of Pandya. So, options (b) and (d) are both correct answers.
 </details>
 
-**Q-GC11b. UKPCS Prelims 2021 / UP RO 2023**
+---
 
-The celebrated medieval female monarch **Rudrama Devi** belonged to which dynasty?
+**Q-GC28. U.P.P.C.S. (RO/ARO) (Pre) 2014**
 
-A. Hoysala dynasty
-B. Yadava dynasty
-C. Kakatiya dynasty
-D. Chalukya dynasty
+“Dwarasamudra’ was the capital of which dynastic
+power?
 
-<details>
-<summary>Show answer</summary>
+- (a) Ganga
+- (b) Kakatiya
+- (c) Hoysala
+- (d) Kadamba
 
-**Correct Answer:** **C** (Kakatiya dynasty)
+<details><summary>Show answer</summary>
 
-**Detailed Explanation:**
-- **Rani Rudrama Devi (reign: 1262–1289 CE):** One of the very few ruling queens in Indian history; was the daughter and chosen successor of King Ganapati Deva of the **Kakatiya dynasty of Warangal**.
-- She ruled with great valor, completing the stone fortifications of Warangal Fort, defending her realm against invasions from the Yadavas of Devagiri and the Eastern Gangas.
-- Venetian traveler **Marco Polo**, who visited Motupalli port during her reign in 1289–1293, recorded glowing praise for her just, prudent, and beloved administration.
+**Answer: (c)**
 
-**Key Exam Takeaway / Trap:**
-- Rani Rudrama Devi = **Kakatiya dynasty of Warangal** (visited by **Marco Polo**).
+**Explanation:**
+See the explanation of the above question.
 
+*(Reference Context from previous question:)*
+& (d)
+
+Dwarasamudra was the capital of Hoysala, while Warangal was
+
+of Kakatiya Dynasty, Devgiri of Yadava Dynasty and Madurai
+
+of Pandya. So, options (b) and (d) are both correct answers.
 </details>
 
-### UKPCS Complete PYQ Bank
+---
 
-**Q1. UKPCS Prelims 2002**
+**Q-GC29. I.A.S. (Pre) 2023**
 
-The Bahmani State was established by:
+Consider the following dynasties :
+1. Hoysala 2. Gahadavala
+3. Kakatiya 4. Yadava
+How many of the above dynasties established their
+kingdoms in early eighth century AD?
 
-A. Alauddin Hasan Bahman Shah (Hasan Gangu)
-B. Mahmud Gawan
-C. Firoz Shah Bahmani
-D. Yusuf Adil Shah
+- (a) Only one
+- (b) Only two
+- (c) Only three
+- (d) None
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (Alauddin Hasan Bahman Shah / Hasan Gangu)
+**Answer: (d)**
 
-**Detailed Explanation:**
-- Founded in **1347 CE** by **Alauddin Hasan Bahman Shah (Hasan Gangu)**, who revolted against the rule of Muhammad bin Tughlaq and established his capital at Gulbarga.
+**Explanation:**
+Hoysala Empire was one of the powerful empires that ruled
 
-**Key Exam Takeaway / Trap:**
-- Bahmani founder = **Alauddin Hasan Bahman Shah (1347)**.
+the South India between the 10th and 14th centuries. The
 
+Gahadwal dynasty was a Rajput dynasty that ruled parts
+
+of the present day Indian states of Uttar Pradesh and Bihar
+
+during the 11th and 12th centuries. The Kakatiya dynasty ruled
+
+the eastern Deccan region of South India between the 12th
+
+and 14th centuries. The Yadava dynasty of Devagiri was a
+
+medieval South Indian dynasty. The Yadavas initially ruled
+
+as feudatories of the Western Chalukyas. Their rule lasted
+
+from the 12th century to the middle of the 14th century.
 </details>
 
-**Q2. UKPCS Prelims 2003**
+---
 
-Match List-I (Dynasty) with List-II (Centre):
+**Q-GC30. U.P.P.C.S. (Pre) 2019**
 
-List-I
-A. Adil Shahi
-B. Qutb Shahi
-C. Nizam Shahi
-D. Sharqi Shahi
+Match List-I with List-II and select the correct answer
+using the codes given below the lists :
+List-I List-II
+(Ruling Dynasties) (Capitals)
+A. Pallava 1. Warangal
+B. Pandya 2. Kanchi
+C. Yadava 3. Madura
+D. Kakatiya 4. Devagiri
+Codes :
+A B C D
 
-List-II
-1. Ahmadnagar
-2. Bijapur
-3. Golconda
-4. Jaunpur
+- (a) 2 1 4 3
+- (b) 2 3 4 1
+- (c) 1 2 3 4
+- (d) 2 4 3 1
 
-Code:
-A. A-2, B-3, C-1, D-4
-B. A-1, B-2, C-3, D-4
-C. A-2, B-1, C-3, D-4
-D. A-3, B-2, C-1, D-4
+<details><summary>Show answer</summary>
 
-<details>
-<summary>Show answer</summary>
+**Answer: (b)**
 
-**Correct Answer:** **A** (A-2, B-3, C-1, D-4)
+**Explanation:**
+Correct match is as follows :
 
-**Detailed Explanation:**
-- Adil Shahi $\rightarrow$ **Bijapur** (1489)
-- Qutb Shahi $\rightarrow$ **Golconda** (1512)
-- Nizam Shahi $\rightarrow$ **Ahmadnagar** (1490)
-- Sharqi Shahi $\rightarrow$ **Jaunpur** (1394)
+List-I List-II
 
-**Key Exam Takeaway / Trap:**
-- Direct matching: Adil (Bijapur), Qutb (Golconda), Nizam (Ahmadnagar), Sharqi (Jaunpur).
+(Ruling Dynasties) (Capitals)
 
+Pallava – Kanchi
+
+Pandya – Madura
+
+Yadava – Devagiri
+
+Kakatiya – Warangal
 </details>
 
-**Q3. Uttarakhand UDA/LDA (Mains) 2006**
+---
 
-Which among the following rulers of Kashmir abolished Jizya?
+**Q-GC31. Uttarakhand P.C.S. (Pre) 2021**
 
-A. Zain-ul-Abidin
-B. Sikandar
-C. Shamsuddin
-D. Haidar Shah
+Which of the following Dynasty is associated with the
+female King Rudrma Devi?
 
-<details>
-<summary>Show answer</summary>
+- (a) Eastern Ganga
+- (b) Hoyasala
+- (c) Kakatiya
+- (d) Western Chalukya
 
-**Correct Answer:** **A** (Zain-ul-Abidin)
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Rudrama Devi belonged to Kakatiya dynasty. The king of
+
+this dynasty Ganapti did not have any sons, due to which,
+
+after his death, Rudrama Devi became ruler. 
+
+B
+</details>
+
+---
+
+**Q-GC32. U.P.P.C.S. (RO/ARO) (Pre) 2023**
+
+Consider the following statements with reference to
+Rudrama and choose the correct statements about
+her -
+1. Rudrama was fourth independent ruler of Kakatiya
+dynasty of Warangal.
+2. She defeated Pandyas of South Tamil Nadu,
+Eastern Ganga rulers of Orissa and Seuna rulers
+of Devgiri.
+
+- (a) Neither 1 nor 2
+- (b) Only 1
+- (c) Both 1 and 2
+- (d) Only 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The sovereign Kakatiya empire emerged during the time
+
+of the Kakatiya ruler Rudradeva (Pratap Rudradev I). After
+
+him, Mahadev and Ganapati Dev became rulers respectively.
+
+Rudrama was the daughter of Kakatiya Ganapati Dev of
+
+Warangal and was fourth independent ruler.
+
+She defeated Pandyas of South Tamil Nadu, Eastrn Ganga
+
+rulers of Orissa and Seuna rulers of Devagiri. Hence both
+
+statements are correct.
+</details>
+
+---
+
+**Q-GC33. (d) Sringeri and Dharwar, I.A.S. (Pre) 2001**
+
+Hoysala monuments are found in :
+
+- (a) Hampi and Hospet
+- (b) Halebid and Belur
+- (c) Mysore and Bangalore
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Hoysala Monuments are found in Halebidu and Belur
+
+(Karnataka). Hoysaleshvara temple at Halebidu is dedicated
+
+to Shiva. Large and small temples built during this era are
+
+of Hoysala architectural style including the Chennakeshava
+
+temple at Belur. Hence, option (b) is correct.
+</details>
+
+---
+
+**Q-GC34. U.P.P.C.S. (Mains) 2003**
+
+What is modern name of Hoysaleshvara’s ancient
+capital of Dwarasamudra?
+
+- (a) Sringeri
+- (b) Belur
+- (c) Halebid
+- (d) Somnathpur
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The capital of the Hoysala Dynasty was Dwarasamudra,
+
+which is currently in Halebidu (Hassan district of Karnataka).
+</details>
+
+---
+
+**Q-GC35. I.A.S. (Pre) 1995**
+
+Which one of the following monuments has a dome
+which is said to be one of the largest in the world?
+
+- (a) Tomb of Sher Shah, Sasaram
+- (b) Jama Masjid, Delhi
+- (c) Tomb of Ghiyasuddin Tughluq, Delhi
+- (d) Gol Gumbad, Bijapur
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Mausoleum of Muhammad Adil Shah of Bijapur is
+
+known as 'Gol Gumbad'. It is one of the world's largest domes.
+</details>
+
+---
+
+**Q-GC36. Uttarakhand P.C.S. (Pre) 2012**
+
+Match the following monuments with their concerned
+ruler and select the correct codes given below :
+A. Double Dome i. Sher Shah
+B. Octagonal Tomb ii. Muhammad Adil Shah
+C. True arch Tomb iii. Balban
+D. Gol Gumbad iv. Sikandar Lodi
+Code :
+A B C D
+
+- (a) iv iii i ii
+- (b) iv i iii ii
+- (c) i iii iv ii
+- (d) ii iii i iv
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Monuments Rulers
+
+Double Dome - Sikandar Lodi
+
+Octagonal Tomb - Sher Shah
+
+True Arch Tomb - Balban
+
+Gol Gumbad - Muhammad Adil Shah
+</details>
+
+---
+
+**Q-GC37. M.P. P.C.S. (Pre) 2017**
+
+Which of the following rulers got the Jantar Mahal of
+Mandu constructed?
+
+- (a) Mahmud Shah Khilji
+- (b) Alauddin Khilji
+- (c) Bhoj Parmar
+- (d) Hoshang Shah
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+'Jahaj Mahal' in Mandu is a famous place which was built
+
+during the period of Ghiyasuddin Khalji. There is no Jantar
+
+Mahal in Mandu. Thats why this question was deleted by
+
+M.P. P.S.C.
+</details>
+
+---
+
+**Q-GC38. M.P.P.C.S. (Pre) 2019**
+
+Which ruler among the following constructed 'Jahaj
+Mahal' of Mandu?
+
+- (a) Sultan Mahmud I
+- (b) Sultan Sirazzuddin II
+- (c) Adamshah I
+- (d) Sikandar Shah
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+See the explanation of the above question
+
+*(Reference Context from previous question:)*
+'Jahaj Mahal' in Mandu is a famous place which was built
+
+during the period of Ghiyasuddin Khalji. There is no Jantar
+
+Mahal in Mandu. Thats why this question was deleted by
+
+M.P. P.S.C.
+</details>
+
+---
+
+**Q-GC39. M.P.P.C.S. (Pre) 2010**
+
+Who built Gujari Mahal ?
+
+- (a) Suraj Sen
+- (b) Man Singh
+- (c) Tej Karan
+- (d) Akbar
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Gujari Mahal was constructed by Raja Man Singh Tomar
+
+between 1486-1516 A.D. It is a unique piece of architecture. 
+
+Indian History General Studies B–259
+</details>
+
+---
+
+**Q-GC40. M.P. P.C.S. (Pre) 2017**
+
+Which of the following pairs is NOT correctly
+matched?
+
+- (a) Adina Masjid – Mandu
+- (b) Lal Darwaza Masjid – Jaunpur
+- (c) Dakhil Darwaza – Gaour
+- (d) Tin Darwaza – Ahmedabad
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Adina Masjid (Jami Masjid) situated in Pandua of West
+
+Bengal is a famous ruin which was built around 1364-1374
+
+A.D. by ruler of Bengal Sikandarshah. Other options are
+
+correctly matched.
+</details>
+
+---
+
+**Q-GC41. U.P.P.C.S. (RO/ARO) (Mains) 2021**
+
+Match List-I with List-II and select the correct answer
+from the code given below the lists :
+List-I List-II
+(Monument) (Builder)
+A. Atala Devi Masjid 1. Nusrat Shah
+B. Chhota Sona Masjid 2. Ibrahim Shah Sharqi
+C. Qadam Rasul 3. Sikandar Shah
+D. Adina Masjid, Pandua 4. Wali Muhammad
+Code :
+A B C D
+
+- (a) 1 2 3 4
+- (b) 2 4 1 3
+- (c) 2 1 3 4
+- (d) 1 3 4 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Correctly matched list is as follows–
+
+ List-I List-II
+
+ (Monument) (Builder)
+
+Atala Devi Masjid – Ibrahim Shah Sharqi
+
+Chhota Sona Masjid – Wali Muhammad
+
+Qadam Rasul – Nusrat Shah
+
+Adina Masjid, Pandua – Sikandar Shah
+</details>
+
+---
+
+**Q-GC42. (c) Territorial Administrative and Military Governors, (d) Newly enriched traders, U.P.P.C.S. (Re. Exam) (Pre) 2015**
+
+Who were Polygars of South India?
+
+- (a) Ordinary Zamindars
+- (b) Mahajans
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Palaiyakkarar or Polygar was the feudal title of a class of
+
+administrative and Military governors appointed by the
+
+Nayaka rulers of South India during 16th to 18th centuries.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Vijayanagara Empire
+
+Complete sequence of 48 questions from Ghatna Chakra Vijayanagara Empire (B–229 to B–235). Covers Sangama, Saluva, Tuluva, and Aravidu dynasties, Krishnadeva Raya's Ashtadiggajas and Amuktamalyada, foreign travellers, and the Battle of Talikota (1565).
+
+**Q-GC-VIJAY-1.** Uttarakhand P.C.S. (Pre) 2004
+
+
+The kingdom of Vijayanagara was founded by-
+
+A. Vijay Raya
+
+B. Harihara- II
+
+C. Harihara and Bukka
+
+D. Bukka- II
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Zain-ul-Abidin (1420–1470)** abolished **Jizya** and cow slaughter in Kashmir, earning the historical title **"Akbar of Kashmir"**.
-
-**Key Exam Takeaway / Trap:**
-- Abolished Jizya in Kashmir = **Zain-ul-Abidin**.
+The Vijayanagara empire was founded by Harihara and Bukka
+in 1336. This dynasty is known as Sangama Dynasty after their
+father’s name. Harihara and Bukka were the ministers in the
+court at Kampili. Muhammad Tughluq invaded Kampili and
+arrested Harihara and Bukka. Both were forced to convert
+to Islam. Later, both were sent to the south to suppress a
+rebellion. They could not succeed, but under the influence of
+Saint Vidyaranya, they again reverted to Hinduism to establish
+the Vijayanagara Dynasty. They were inspired by their spiritual
+teacher Vidyaranya and Sayan, a noted commentator of Vedas.
+Four Dynasties ruled under this empire.
+(i) Sangama dynasty (1336-1485 A.D.). (ii) Saluva dynasty
+(1485-1505 A.D.), (iii) Tuluva dynasty (1505-1570 A.D.)
+and (vi) Aravidu dynasty (1570-1672 A.D.). These dynasties
+ruled over three hundred years. The capitals of Vijayanagara
+were Anegundi, Vijayanagara, Penukonda and Chandragiri
+respectively.
 
 </details>
 
 ---
+
+**Q-GC-VIJAY-2.** Uttarakhand P.C.S. (Pre) 2024
+
+
+Who founded the Vijayanagara Empire in 1336 CE?
+
+A. Rama Raya
+
+B. Krishnadeva Raya
+
+C. Harihara and Bukka
+
+D. Achyuta Raya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The Vijayanagara empire was founded by Harihara and Bukka
+in 1336. This dynasty is known as Sangama Dynasty after their
+father’s name. Harihara and Bukka were the ministers in the
+court at Kampili. Muhammad Tughluq invaded Kampili and
+arrested Harihara and Bukka. Both were forced to convert
+to Islam. Later, both were sent to the south to suppress a
+rebellion. They could not succeed, but under the influence of
+Saint Vidyaranya, they again reverted to Hinduism to establish
+the Vijayanagara Dynasty. They were inspired by their spiritual
+teacher Vidyaranya and Sayan, a noted commentator of Vedas.
+Four Dynasties ruled under this empire.
+(i) Sangama dynasty (1336-1485 A.D.). (ii) Saluva dynasty
+(1485-1505 A.D.), (iii) Tuluva dynasty (1505-1570 A.D.)
+and (vi) Aravidu dynasty (1570-1672 A.D.). These dynasties
+ruled over three hundred years. The capitals of Vijayanagara
+were Anegundi, Vijayanagara, Penukonda and Chandragiri
+respectively.
+*(Refer to Q-GC1 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-3.** M.P.P.C.S. (Pre) 2022
+
+
+Vijayanagara Empire was established in which year?
+
+A. 1336 A.D.
+
+B. 1236 A.D.
+
+C. 1436 A.D.
+
+D. 1316 A.D.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The Vijayanagara Empire was established in 1336 A.D. by
+Harihara Raya-I and his brother Bukka Raya I. They were
+warrior chieftains and loyal officials in the administration of
+Kakatiya dynasty, which ruled parts of the Deccan region.
+After the fall of the Kakatiya Kingdom to the Delhi Sultanate,
+the brothers were taken as prisoners but later released, and
+they eventually established their own kingdom.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-4.** 67th B.P.S.C. (Pre) 2022
+
+
+Who was the founder Vijayanagara Empire?
+
+A. Deva Raya I
+
+B. Krishnadeva Raya
+
+C. Harihara-Bukka
+
+D. Vira Narasimha Raya
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Harihara and Bukka are the founders of the Vijayanagara
+Empire in 1336 A.D. on the banks of Tungabhadra.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-5.** Uttarakhand Lower (Sub.) (Pre) 2010
+
+
+The ‘Vijayanagara’ Kingdom was founded by –
+
+A. Harihara and Bukka
+
+B. Krishnadeva Raya
+
+C. Pushyamitra
+
+D. Bhadrabahu
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Harihara and Bukka are the founders of the Vijayanagara
+Empire in 1336 A.D. on the banks of Tungabhadra.
+*(Refer to Q-GC4 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-6.** Jharkhand P.C.S. (Pre.) 2021
+
+
+Which among the following kingdoms was founded by
+
+two Brothers, Harihara and Bukka?
+
+A. Kingdom of Vijayanagara
+
+B. Kingdom of Kakatiyas
+
+C. Kingdom of Hoysalas
+
+D. Kingdom of Kampili
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Harihara and Bukka are the founders of the Vijayanagara
+Empire in 1336 A.D. on the banks of Tungabhadra.
+*(Refer to Q-GC4 for primary reference context)*
+*(Refer to Q-GC5 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-7.** Chhattisgarh P.C.S. (Pre) 2023
+
+
+The Ruling Dynasties Sangama, Saluva, Tuluva were
+
+associated with
+
+A. Warangal
+
+B. Kashmir
+
+C. Vijayanagara
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Vijayanagara Empire was established by Harihara and Bukka
+in 1336 A.D. The four dynasties of this empire are - Sangama
+dynasty (1336-1485 A.D.), Saluva dynasty (1485-1505 A.D.),
+Tuluva dynasty (1505-1570 A.D.) and Aravidu dynasty
+(1570-1672 A.D.).
+
+</details>
+
+---
+
+**Q-GC-VIJAY-8.** I.A.S. (Pre) 2015
+
+
+Who of the following founded a new city on the South
+
+bank of a tributary to river Krishna and undertook to
+
+rule his new kingdom as the agent of a deity to whom
+
+all the land south of the river Krishna was supposed
+
+to belong?
+
+A. Amoghavarsha- I
+
+B. Ballala- II
+
+C. Harihara- I
+
+D. Prataparudra- II
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Harihara- I founded a new city on the southern bank of
+Tungabhadra River, a tributary to river Krishna and undertook
+to rule his new kingdom as the agent of a deity to whom all
+the land, south of the river Krishna was supposed to belong.
+He was the founder of Vijayanagara Kingdom. He was the
+eldest son of Sangama, who was the founder of Sangama
+dynasty. He built a fort on the west side of Karnataka. Bukka
+was the successor of Harihara- I.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-9.** U.P.P.C.S. (Pre) 2000
+
+
+The lady poet who described the victorious expeditions
+
+of her husband in her work ‘Madhura-Vijayam’ was :
+
+A. Bharati
+
+B. Ganga Devi
+
+C. Varadambika
+
+D. Vijjika
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Harihara- I sent two armies under the leadership of Kumar
+Savanna and Kumara Kampana to conquer Madurai in
+1352-53 A.D. Kumara Kampana Adayar annexed Madurai
+to Vijayanagara empire. Ganga Devi, the wife of Kumara
+Kampana, described the chronicle victories of her husband
+in her book Madhura Vijayam.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-10.** 40th B.P.S.C. (Pre) 1995
+
+
+Identify the first ruler of Vijayanagara who captured
+
+Goa from Bahamani?
+
+A. Harihara- I
+
+B. Harihara- II
+
+C. Bukka- I
+
+D. Devaraya- II
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+After the death of Bukka-I in 1377 A.D., his son,
+Harihara-II ascended to the throne. He assumed the title
+of “Maharajadhiraja” and conquered the region of Kanara,
+Mysore, Kanchi, Trichinapalli and collected tax from the
+king of Sri Lanka. His major achievement was winning the
+Belgaum and Goa from Bahamani. He was the devotee of
+Virupaksha form of Lord Shiva.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-11.** I.A.S. (Pre) 2023
+
+
+Who among the following rulers of Vijayanagara
+
+Empire constructed a large dam across Tungabhadra
+
+River and a canal-cum aqueduct several kilometres
+
+long from the river to the capital city?
+
+A. Devaraya I
+
+B. Mallikarjuna
+
+C. Vira Vijaya
+
+D. Virupaksha
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Devaraya I is credited with making the capital of Vijayanagara
+Empire one of the largest cities in the 15th century. He
+constructed a dam on the Tungabhadra river around 1410
+AD and constructed a 24 km long canal-cum-aqueduct from
+Tungabhadra river to his capital.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-12.** I.A.S. (Pre) 2004
+
+
+Consider the following Statements :
+
+1. Narasimha Saluva ended the Sangama dynasty,
+
+and seized the throne for himself and, started the
+
+Saluva dynasty
+
+2. Vira Narasimha deposed the last Saluva ruler and
+
+seized the throne for himself
+
+3. Vira Narasimha was succeeded by his younger
+
+brother, Krishnadeva Raya
+
+4. Krishnadeva Raya was succeeded by his halfbrother, Achyuta Raya
+
+Which of the statements given above are correct?
+
+A. 1, 2 and 3
+
+B. 2, 3 and 4
+
+C. 1 and 4
+
+D. 1, 2, 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The feudal lord of Chandragiri Narasimha Saluva dethroned
+Prauda Deva Raya, the last ruler of Sangama dynasty and
+acquired the throne in 1485 AD. He established a new
+dynasty named Saluva dynasty and ruled for about five years.
+Immadi Narasimha, the last ruler of Saluva dynasty and son
+of Narasimha Saluva, was dethroned by Vira Narasimha.
+Vira Narasimha established the Tuluva Dynasty. After Vira
+Narasimha, his younger brother Krishnadeva Raya (1509-
+1529 AD) ascended to the throne, followed by Achyuta Deva
+Raya. So, all the statements given above are correct.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-13.** 43rd B.P.S.C. (Pre) 1999
+
+
+With whom did the king of Vijayanagara, Krishnadeva
+
+Raya fight the battle of Golconda?
+
+A. Quli Qutb Shah
+
+B. Qutbuddin Aybak
+
+C. Ismail-Adil Khan
+
+D. Gajapati
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The battle of Golconda was fought between the king of
+Vijayanagara, Krishnadeva Raya and Sultan of Golconda,
+Quli Qutb Shah. Sultan Quli Qutb Shah founded the Qutb
+Shahi Dynasty in Golconda. Quli Qutb Shah expanded his
+kingdom by capturing forts at Warangal, Kondaveedu, at a
+time when Krishnadeva Raya was busy fighting with the
+rulers of Odisha. Quli’s campaign against Krishnadeva Raya
+continued, but finally, he was defeated by him.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-14.** I.A.S. (Pre) 2024
+
+
+Who of the following rulers of medieval India gave
+
+permission to the Portuguese to build a fort at Bhatkal?
+
+A. Krishnadevaraya
+
+B. Narasimha Saluva
+
+C. Muhammad Shah III
+
+D. Yusuf Adil Shah
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Krishnadevaraya was an emperor from the Tuluva dynasty
+of the Vijayanagara Empire, reigning from 1509 to 1529 AD.
+He is considered to be the greatest ruler of the Vijayanagara
+Empire. Krishnadevaraya maintained friendly relations with
+the Portuguese. He obtained guns and Arabian horses from
+Portuguese merchants. On Portuguese governor Afonso
+de Albuquerque’s request, Krishnadevaraya permitted the
+construction of a fort at Bhatkal located in Uttara Kannada
+district in Karnataka.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-15.** U.P. U.D.A./L.D.A. (Pre) 2001
+
+
+Who were the ‘Ashtadiggajas’ in the court of
+
+Krishnadeva Raya?
+
+A. Eight ministers
+
+B. Eight Telugu poets
+
+C. Eight great warriors
+
+D. Eight advisors
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The governance of Krishnadeva Raya is known as the
+golden age of Telugu literature. The ‘Ashtadiggajas’ were
+the eight great poets and scholars of Telugu in the Court of
+Vijayanagara. Telugu literature reached its peak during the
+reign of Krishnadeva Raya. He assumed the title ‘Andhra
+Bhoja’. ‘Peddana’ was ranked as the foremost of the
+'Ashtadiggaja'. He had mastery over two languages, Telugu
+and Sanskrit. Krishnadeva Raya was an accomplished
+poet and writer. He authored ‘Amuktamalyada,’ which is
+considered as one of the five top Telugu epics. Krishnadeva
+Raya had a great interest in art and construction work. He
+is credited with the construction of Nagalpuram city. The
+Portuguese traveller Domingo Paes visited Vijayanagara
+during his reign. Babur mentioned Krishnadeva Raya as the
+most powerful of all the rulers of India in his autobiography.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-16.** Jharkhand P.C.S. (Pre) 2013
+
+
+Who among these known as ‘Andhra Bhoj’?
+
+A. Krishnadeva Raya
+
+B. Rajendra Chola
+
+C. Harihara
+
+D. Bukka
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The governance of Krishnadeva Raya is known as the
+golden age of Telugu literature. The ‘Ashtadiggajas’ were
+the eight great poets and scholars of Telugu in the Court of
+Vijayanagara. Telugu literature reached its peak during the
+reign of Krishnadeva Raya. He assumed the title ‘Andhra
+Bhoja’. ‘Peddana’ was ranked as the foremost of the
+'Ashtadiggaja'. He had mastery over two languages, Telugu
+and Sanskrit. Krishnadeva Raya was an accomplished
+poet and writer. He authored ‘Amuktamalyada,’ which is
+considered as one of the five top Telugu epics. Krishnadeva
+Raya had a great interest in art and construction work. He
+is credited with the construction of Nagalpuram city. The
+Portuguese traveller Domingo Paes visited Vijayanagara
+during his reign. Babur mentioned Krishnadeva Raya as the
+most powerful of all the rulers of India in his autobiography.
+*(Refer to Q-GC15 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-17.** R.A.S./R.T.S.(Pre) 2010
+
+
+The ‘Ashtadiggajas’ were associated with which of the
+
+following rulers?
+
+A. Shivaji
+
+B. Krishnadeva Raya
+
+C. Rajendra-I
+
+D. Yashovarman
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The governance of Krishnadeva Raya is known as the
+golden age of Telugu literature. The ‘Ashtadiggajas’ were
+the eight great poets and scholars of Telugu in the Court of
+Vijayanagara. Telugu literature reached its peak during the
+reign of Krishnadeva Raya. He assumed the title ‘Andhra
+Bhoja’. ‘Peddana’ was ranked as the foremost of the
+'Ashtadiggaja'. He had mastery over two languages, Telugu
+and Sanskrit. Krishnadeva Raya was an accomplished
+poet and writer. He authored ‘Amuktamalyada,’ which is
+considered as one of the five top Telugu epics. Krishnadeva
+Raya had a great interest in art and construction work. He
+is credited with the construction of Nagalpuram city. The
+Portuguese traveller Domingo Paes visited Vijayanagara
+during his reign. Babur mentioned Krishnadeva Raya as the
+most powerful of all the rulers of India in his autobiography.
+*(Refer to Q-GC15 for primary reference context)*
+*(Refer to Q-GC16 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-18.** U.P. U.D.A./L.D.A. (Pre) 2006
+
+
+The ruling period of Krishnadeva Raya was the golden
+
+age of which literature?
+
+A. Konkani
+
+B. Malayalam
+
+C. Tamil
+
+D. Telugu
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The governance of Krishnadeva Raya is known as the
+golden age of Telugu literature. The ‘Ashtadiggajas’ were
+the eight great poets and scholars of Telugu in the Court of
+Vijayanagara. Telugu literature reached its peak during the
+reign of Krishnadeva Raya. He assumed the title ‘Andhra
+Bhoja’. ‘Peddana’ was ranked as the foremost of the
+'Ashtadiggaja'. He had mastery over two languages, Telugu
+and Sanskrit. Krishnadeva Raya was an accomplished
+poet and writer. He authored ‘Amuktamalyada,’ which is
+considered as one of the five top Telugu epics. Krishnadeva
+Raya had a great interest in art and construction work. He
+is credited with the construction of Nagalpuram city. The
+Portuguese traveller Domingo Paes visited Vijayanagara
+during his reign. Babur mentioned Krishnadeva Raya as the
+most powerful of all the rulers of India in his autobiography.
+*(Refer to Q-GC15 for primary reference context)*
+*(Refer to Q-GC16 for primary reference context)*
+*(Refer to Q-GC17 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-19.** U.P.P.C.S. (Pre) 2016
+
+
+Which city was founded by Krishnadeva Raya?
+
+A. Warangal
+
+B. Nagalapura
+
+C. Udayagiri
+
+D. Chandragiri
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Shri Krishnadeva Raya was a great builder. The Hazara Rama
+Temple, the Vitthala temple (Shree Vijay Vitthala Temple)
+in the capital city, is attributed to him. He built a new city
+called Nagalapuram in honour of his mother.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-20.** R.A.S./R.T.S. (Pre.) 2021
+
+
+Consider the following statements and choose the
+
+correct answer using the code given below–
+
+Statement 1: Krishnadevaraya, ruler of Vijayanagara
+
+wrote the treatise Amuktamalyada
+
+Statement 2: Krishnadevaraya is also known by the name
+
+of Andhra Bhoj
+
+Statement 3: Allasani Peddana, the poet laureate well
+
+versed in Sanskrit and Tamil, adorned his
+
+court.
+
+Code –
+
+A. Statement 1 is true
+
+B. Statement 2 is true
+
+C. Both the statements 1 & 2 are true
+
+D. All the three statements are true
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Krishnadeva Raya, ruler of Vijayanagara empire wrote the
+treatise Amuktamalyada. He was also known as Andhra
+Bhoj. Allasani Peddana was one of the Ashtadiggaj of
+Krishnadevaraya court, but he was a famous poet of Telugu
+and Sanskrit literature and not Sanskrit and Tamil.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-21.** 68th B.P.S.C. (Pre) 2022
+
+
+Who among the following famous rulers founded
+
+a suburban township of Nagalapuram, near
+
+Vijayanagara, after his mother's name?
+
+A. Krishnadevaraya
+
+B. Harihara
+
+C. Bukka
+
+D. More than one of the above
+
+E. None of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The suburban township of Nagalapuram, near Vijayanagara
+was founded by Krishnadeva Raya of Vijayanagara empire
+in memory of his mother Nagala devi.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-22.** M.P.P.C.S. (Pre) 2014
+
+
+The famous Hazara temple of Vijayanagara was built
+
+during the reign of –
+
+A. Krishnadeva Raya
+
+B. Deva Raya-I
+
+C. Deva Raya-II
+
+D. Harihara-I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The famous Hazara Rama Temple of Vijayanagara was built
+during the reign of Krishnadeva Raya.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-23.** Raj. P.C.S. (Pre) 2023
+
+
+Which of the following poets was given the title of
+
+'Andhra Kavita Pitamah' by Krishnadev Raya?
+
+A. Allasani Peddana
+
+B. Bhattumurti
+
+C. Tenali Ramkrishana
+
+D. Pingli Suranna
+
+E. Question not attempted
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+The rule of Krishnadeva Raya is known as the golden age
+of Telugu literature. Eight Telugu poets are regarded as
+the eight pillars of his literary assembly and are known as
+Ashtadiggajas. Among these eight poets, Allasani Peddana is
+considered to be the greatest. He is given the title of Andhra
+Kavita Pitamah. Krishnadeva Raya himself composed an
+epic Telugu poem Amuktamalyada.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-24.** Rajasthan P.C.S. (Pre) 2024
+
+
+In which language did poet Mallanārya compose the
+
+texts Bhava Chintā Ratna and Veerasaivamrita in the
+
+court of Krishnadeva Raya?
+
+A. Sanskrit
+
+B. Tamil
+
+C. Telugu
+
+D. Kannada
+
+E. Question not attempted
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The famous ruler of the Tuluva dynasty of the Vijayanagara
+Empire, Krishnadeva Raya (1509–1529 AD), had the poet
+Mallanārya in his court, who composed Bhava Chintā Ratna
+and Veerasaivamrita in the Kannada language.
+Bhava Chintā Ratna is based on Shiva worship and his
+philosophy, expressing personal devotion and emotions
+through spiritual themes. On the other hand, Veerasaivamrita
+represents the theories and religious aspects of the Veera
+Shaiva tradition.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-25.** U.P. U.D.A./L.D.A. (Mains) 2010
+
+
+Abdur Razzaq visited Vijayanagara during the reign of
+
+A. Devaraya- I
+
+B. Devaraya- II
+
+C. Krishnadeva Raya
+
+D. Vira Vijaya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Persian ambassador Abdur Razzaq visited Vijayanagara
+during the reign of Devaraya- II (1422-46 AD). Devaraya- II
+belonged to Sangama dynasty.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-26.** Chhattisgarh P.C.S. (Pre) 2024
+
+
+Who among the following travellers, visited the court
+
+of Vijayanagara ruler Deva Raya II as a Persian
+
+Ambassador?
+
+A. Barbosa
+
+B. Nicolo-de-Conti
+
+C. Afanasy Nikitin
+
+D. Abdur Razzaq
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Persian ambassador Abdur Razzaq visited Vijayanagara
+during the reign of Devaraya- II (1422-46 AD). Devaraya- II
+belonged to Sangama dynasty.
+*(Refer to Q-GC25 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-27.** 60th to 62nd B.P.S.C. (Pre) 2016
+
+
+Which among the following King's reign Persian
+
+traveller 'Abdur Razzak' came to India?
+
+A. Dev Rai I
+
+B. Krishnadeva Raya I
+
+C. Dev Rai II
+
+D. Krishna Rai II
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Persian ambassador Abdur Razzaq visited Vijayanagara
+during the reign of Devaraya- II (1422-46 AD). Devaraya- II
+belonged to Sangama dynasty.
+*(Refer to Q-GC25 for primary reference context)*
+*(Refer to Q-GC26 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-28.** M.P.P.C.S. (Pre) 2016
+
+
+Who was Nicolo Conti?
+
+A. A famous painter
+
+B. An Italian traveller who visited Vijayanagara Empire
+
+C. A Portuguese traveller
+
+D. A Persian traveller
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Nicolo Conti, or Niccolo de Conti, was an Italian traveller
+who visited India during the time of Deva Raya-I. He visited
+the State of Vijayanagara.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-29.** I.A.S. (Pre.) 2021
+
+
+According to Portuguese writer Nuniz, the women in
+
+Vijayanagara Empire were experts in which of the
+
+following areas?
+
+1. Wrestling 2. Astrology
+
+3. Accounting 4. Soothsaying
+
+Select the correct answer using the code given below.
+
+A. 1, 2 and 3 only
+
+B. 1, 3 and 4 only
+
+C. 2 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Farnao Nuniz (Nunes) visited the Vijayanagara empire
+during the reign of Achyuta Deva Raya. He described
+women being employed as dancers, domestic servants and
+palanquin bearers. They were also wrestlers, astrologers and
+soothsayers.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-30.** U.P.P.C.S. (Pre) 2012
+
+
+Who among these was famous for Telugu translation?
+
+1. Kamban 2. Kuttan
+
+3. Nannaya 4. Tikkana
+
+Choose the answer from the codes :
+
+A. only 1, 2
+
+B. only 2, 3
+
+C. only 3, 4
+
+D. only 4, 1
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Nannaya, Tikkana, and Yerrapragada or Yerrann came to be
+known as the Kavi Traya, which means the trinity of poets or
+the three great poets. This Trinity translated the Mahabharata
+from Sanskrit into Telugu during the period of 11th to 14th
+century.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-31.** U.P.P.C.S. (Mains) 2008
+
+
+Sayana, the famous commentator of the Vedic texts,
+
+was patronized by –
+
+A. Paramara rulers
+
+B. Satavahana rulers
+
+C. Vijayanagara rulers
+
+D. Vakataka rulers
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Sayana was a great commentator on Vedas. Two brothers
+Harihara and Bukka laid the foundation of Vijayanagara
+Empire, which was on the south bank of Tungabhadra river
+near Anegundi Fort. They were also known as Sangama
+brothers. It is said that a sage, Madhav Vidyaranya, and his
+brother Sayana were the inspirational sources of this empire.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-32.** Uttarakhand P.C.S. (Pre) 2002
+
+
+Sayana, the famous commentator of the Vedic texts,
+
+flourished during the reign of :
+
+A. The Chola kings
+
+B. The Gupta kings
+
+C. The Satavahana kings
+
+D. The Vijayanagara kings
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Sayana was a great commentator on Vedas. Two brothers
+Harihara and Bukka laid the foundation of Vijayanagara
+Empire, which was on the south bank of Tungabhadra river
+near Anegundi Fort. They were also known as Sangama
+brothers. It is said that a sage, Madhav Vidyaranya, and his
+brother Sayana were the inspirational sources of this empire.
+*(Refer to Q-GC31 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-33.** U.P.P.C.S. (Spl) (Mains) 2008
+
+
+Who was enthroned 500 years ago?
+
+A. Harihara- I
+
+B. Krishnadeva Raya
+
+C. Kulottunga- I
+
+D. Rajaraya- I
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+Krishnadeva Raya was the greatest emperor of Vijayanagara
+Empire, who reigned from 1509-1529 AD. Harihara- I (1336-
+1356 AD) and Bukka laid the foundation of Vijayanagara.
+Kulottunga-I (1070-1120 AD) was the grandson of Chola
+emperor Rajendra-I. According to question, 2008 was the
+year for completion of 500 years of Krishna Dev Rai's
+coronation. But Harihara-I & Kulottunga-I also completed
+their 500 yrs of coronation. Thus, there is an error in this
+question. Hence, the nearest answer will be option (b).
+
+</details>
+
+---
+
+**Q-GC-VIJAY-34.** M.P.P.C.S. (Pre) 1997
+
+
+The famous battle held in 1565 is –
+
+A. 1st Battle of Panipat
+
+B. Battle of Khanwa
+
+C. IInd Battle of Panipat
+
+D. Battle of Talikota
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The battle of Talikota (1565 A.D.), a watershed battle, was
+fought between the Vijayanagara Empire and the Deccan
+Sultanates (Barar was not included). It resulted in the defeat
+of Vijayanagara and ended weakening one of the greatest
+Indian empires originating from southern India before the
+Maratha Empire. Talikota is situated in Karnataka near
+Vijayapura district.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-35.** 66th B.P.S.C. Re-Exam (Pre) 2020
+
+
+Which famous war took place in 1565 AD?
+
+A. Panipat I War
+
+B. Panipat II War
+
+C. Khanwa War
+
+D. Talikota War
+
+E. None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The battle of Talikota (1565 A.D.), a watershed battle, was
+fought between the Vijayanagara Empire and the Deccan
+Sultanates (Barar was not included). It resulted in the defeat
+of Vijayanagara and ended weakening one of the greatest
+Indian empires originating from southern India before the
+Maratha Empire. Talikota is situated in Karnataka near
+Vijayapura district.
+*(Refer to Q-GC34 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-36.** U.P.P.C.S. (Mains) 2014
+
+
+The Battle of Talikota was fought between –
+
+A. Akbar and Sultan of Malwa
+
+B. Vijayanagara and the Bahmani Kingdom
+
+C. Vijayanagara and combined forces of Bijapur,
+
+Ahmadnagar and Golconda
+
+D. Sher Shah and Humayun
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The battle of Talikota (1565 A.D.), a watershed battle, was
+fought between the Vijayanagara Empire and the Deccan
+Sultanates (Barar was not included). It resulted in the defeat
+of Vijayanagara and ended weakening one of the greatest
+Indian empires originating from southern India before the
+Maratha Empire. Talikota is situated in Karnataka near
+Vijayapura district.
+*(Refer to Q-GC34 for primary reference context)*
+*(Refer to Q-GC35 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-37.** U.P.P.C.S. (Pre) 1993
+
+
+The Battle of Talikota was fought in –
+
+A. 1526 A.D.
+
+B. 1565 A.D.
+
+C. 1576 A.D.
+
+D. 1586 A.D.
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The battle of Talikota (1565 A.D.), a watershed battle, was
+fought between the Vijayanagara Empire and the Deccan
+Sultanates (Barar was not included). It resulted in the defeat
+of Vijayanagara and ended weakening one of the greatest
+Indian empires originating from southern India before the
+Maratha Empire. Talikota is situated in Karnataka near
+Vijayapura district.
+*(Refer to Q-GC34 for primary reference context)*
+*(Refer to Q-GC35 for primary reference context)*
+*(Refer to Q-GC36 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-38.** I.A.S. (Pre) 2006
+
+
+When Raja Wodeyar founded the Kingdom of Mysore,
+
+who was the ruler of the Vijayanagara Empire?
+
+A. Sadasiva
+
+B. Tirumala
+
+C. Ranga- II
+
+D. Venkata- II
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Tirumala, the brother of Rama Raya, dethroned Sadasiva
+Raya and captured the power in 1570 AD. Thus, the rule
+of Aravidu dynasty started. After Tirumala, his eldest son
+Shri Ranga-I became king. Venkata-II became the king
+after Ranga-I, who made Chandragiri his capital. He was
+one among the greatest kings of Vijayanagara. He was a
+contemporary of king Wodeyar, who laid the foundation of
+Mysore State in 1612 A.D.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-39.** 39th B.P.S.C. (Pre) 1994
+
+
+What was the chief characteristic of the financial
+
+system of Vijayanagara Empire?
+
+A. Surplus rent
+
+B. Land Revenue
+
+C. Income from seaports
+
+D. Monetary system
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The Vijayanagara kings enjoyed a massive income from
+various sources like land revenue, wealth tax, trade tax,
+commercial tax, tax on industry, social and community tax
+and fines charged on crime. The main source of income
+was from land revenue, which was fixed after the land was
+measured and categorized. The tax, namely ‘Shisth’ (RaiRekha) was the main source of income to the state. The
+revenue department was known as ‘Athavane.’
+
+</details>
+
+---
+
+**Q-GC-VIJAY-40.** I.A.S. (Pre) 2016
+
+
+Regarding the taxation system of Krishna Deva,
+
+the ruler of Vijayanagara, consider the following
+
+statements:
+
+1. The tax rate on land was fixed depending on the
+
+quality of the land.
+
+2. Private owners of workshops paid an industry tax.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+Land revenue was the main source of income. The land was
+divided into four categories for purposes of assessment,
+namely wetland, dry lands, orchards and woods. The tax
+rate varied depending upon the quality of land, crop, soil,
+method of irrigation, etc. Thus, statement (1) is correct. The
+private owners of the workshop had to pay industry tax. Thus,
+statement (2) is also correct.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-41.** U.P.P.C.S. (Mains) 2008 · U.P.P.C.S. (Mains) 2007
+
+
+Ruins of which of the following represent the old capital
+
+of Vijayanagara?
+
+A. Ahmadnagar
+
+B. Bijapur
+
+C. Golconda
+
+D. Hampi
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+The ruins of Hampi (situated in Central Karnataka) represent
+the ancient capital of the Vijayanagara Empire. The Virupaksha
+temple, located in Hampi, was built during the Vijayanagara
+period. Hampi is a UNESCO World Heritage Site.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-42.** 63rd B.P.S.C (Pre.) 2017
+
+
+The remains of Vijayanagara empire are found in -:
+
+A. Bijapur
+
+B. Golconda
+
+C. Hampi
+
+D. Baroda
+
+E. None of the above/ More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The ruins of Hampi (situated in Central Karnataka) represent
+the ancient capital of the Vijayanagara Empire. The Virupaksha
+temple, located in Hampi, was built during the Vijayanagara
+period. Hampi is a UNESCO World Heritage Site.
+*(Refer to Q-GC41 for primary reference context)*
+
+</details>
+
+---
+
+**Q-GC-VIJAY-43.** Jharkhand P.C.S. (Pre) 2023
+
+
+The capital of Vijaynagar Empire was situated on the
+
+bank of which river?
+
+A. Tungabhadra
+
+B. Narmada
+
+C. Godavari
+
+D. Bhima
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+Hampi was the capital of the Vijayanagara empire. Hampi is
+situated on the southern bank of the river Tungabhadra. Group
+of monuments at Hampi, is a UNESCO world heritage site
+located in Vijayanagara district of Karnataka.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-44.** Chhattisgarh P.C.S. (Pre) 2008
+
+
+Which ruler of Vijayanagara had sent his ambassador
+
+to the emperor of China?
+
+A. Harihara- I
+
+B. Bukka- I
+
+C. Krishnadeva Raya
+
+D. Saluva Narasimha
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+The Vijayanagara Empire was founded by Harihara and
+Bukka in 1336 AD. It is said that Vidyaranya (a sage) and
+Sayana (a commentator of Vedas), were the inspirational
+source of this empire. There were four dynasties that ruled
+over Vijayanagara, i.e., Sangama Dynasty, Saluva Dynasty,
+Tuluva Dynasty, and Aravidu Dynasty. Bukka- I (1356-77
+AD), king of Sangama dynasty, had sent a mission to the
+Emperor of China in 1374 AD.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-45.** Chhattisgarh P.C.S. (Pre) 2019
+
+
+In whose court was the famous Telugu poet 'Srinath'?
+
+A. Harihara Second
+
+B. Dev Raya First
+
+C. Dev Raya Second
+
+D. Krishnadeva Raya
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The Telugu Poet Srinath (1365-1441 AD) was in the court of
+Deva Raya-II, who was the ruler of the Vijayanagara Empire.
+He was also under the court of Pedakomati Vema Reddy, the
+Reddy ruler of Kondavidu. CGPSC has deleted this question
+in its revised answer key.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-46.** I.A.S. (Pre) 2019
+
+
+Building Kalyaana Mandapas' was a notable feature
+
+in the temple construction in the kingdom of –
+
+A. Chalukya
+
+B. Chandela
+
+C. Rashtrakuta
+
+D. Vijayanagara
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+Kalyana Mandapas, meant to celebrate divine weddings,
+was a notable feature of the Vijayanagara Kingdom.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-47.** I.A.S. (Pre) 2007
+
+
+Where is the famous Vijaya Vitthal Temple, having its
+
+56 carved pillars emitting musical notes located?
+
+A. Belur
+
+B. Bhadrachalam
+
+C. Hampi
+
+D. Srirangam
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+The Vitthal temple (Shree Vijaya Vitthal Temple) was built
+by the king of Tuluva Dynasty Krishnadeva Raya (1509-
+29AD). One of the notable features of the Vitthal temple is
+its musical pillars. This temple is situated in Hampi. Hampi
+was the ancient capital of Vijayanagara Empire.
+
+</details>
+
+---
+
+**Q-GC-VIJAY-48.** Uttarakhand P.C.S. (Pre) 2021
+
+
+Which South Indian dance tradition was first developed
+
+during the time of Vijaynagara?
+
+A. Mohiniattam
+
+B. Yakshagaan
+
+C. Krishnaattam
+
+D. Bharatanatyam
+
+<details><summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+During the Vijayanagara period, Yakshagaan dance tradition
+was developed for first time. Yakshagaan is mainly a traditional
+folk dance of Karnataka, which is popular in its coastal district.
+It is based on mythological and religious stories.
+
+</details>
+
+---
+
 
 ## Practice Zone — UPPCS Format Drill
 
