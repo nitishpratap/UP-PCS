@@ -8460,12 +8460,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** The **Second Battle of Tarain (1192 CE)** was the true watershed and turning point in medieval Indian history, decisively breaking the backbone of Rajput military power in the doab and permanently inaugurating Muslim rule in the Indian subcontinent.
 - **Reason (R) is correct:** Immediately following his victory at Tarain, Muhammad Ghori did not evacuate north India; instead, he placed key strategic outposts—such as **Kuhram, Samana, and Meerut**—under the military charge of his trusted general **Qutbuddin Aibak**, creating permanent administrative footholds that evolved directly into the Delhi Sultanate in 1206 CE.
-- **Why (R) explains (A):** The deliberate institutionalization of permanent garrison commands and governorships (*Iqtas*) under Aibak ensured that the military victory at Tarain was translated into irreversible, enduring territorial sovereignty.
+- **Why (R) does NOT explain (A): Consequence / Aftermath of the assertion, not the cause. Both statements are true facts, but Reason (R) is not the cause of Assertion (A).** The deliberate institutionalization of permanent garrison commands and governorships (*Iqtas*) under Aibak ensured that the military victory at Tarain was translated into irreversible, enduring territorial sovereignty.
 
 **Key Exam Takeaway / Trap:**
 - Tarain I (1191) was an episodic victory for Prithviraj; Tarain II (1192) was the decisive strategic transformation of northern India.

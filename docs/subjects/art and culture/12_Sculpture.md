@@ -406,9 +406,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Aniconic early art is explained by the later rise of the human Buddha image from Kushan times.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Chronological reversal: later development cannot explain prior state.
 
 </details>
 

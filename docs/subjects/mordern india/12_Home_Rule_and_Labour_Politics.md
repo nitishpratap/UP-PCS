@@ -467,6 +467,9 @@ D. Only 2
 | **Radical Democratic Party** | M.N. Roy | 1940 | Formed by M.N. Roy after breaking from Congress on World War II anti-fascist stance. |
 | **Revolutionary Communist Party of India (RCPI)** | Saumyendranath Tagore | 1934 | Formed by Saumyendranath Tagore breaking away from CPI. |
 | **All India Workers and Peasants Party** | S.A. Dange, Muzaffar Ahmad, Sohan Singh Josh | Dec 1928 (Calcutta) | Pan-India apex of provincial WPPs (Bengal 1926, Bombay 1927, Punjab Kirti Kisan 1928); worked within Congress as a militant radical wing. |
+| **Congress Socialist Party (CSP, 1934)** | Acharya Narendra Dev (Pres.), Jayaprakash Narayan (Gen. Sec. & Convenor) | May 1934 (Patna formation) / Oct 1934 (Bombay 1st session) | Founded as socialist caucus within Congress; key leaders: Ram Manohar Lohia, Minoo Masani, Ashok Mehta, Achyut Patwardhan, Yusuf Meherally; promoted decentralized democratic socialism; J.L. Nehru never formally joined CSP. |
+| **Bihar Socialist Party (1931)** | Phulan Prasad Varma, Jayaprakash Narayan, Ganga Sharan Sinha, Rambriksh Benipuri | 1931 (Patna) | Precursor to CSP; J.P. Narayan ('Loknayak') organized Quit India underground movement (1942) with Lohia & Aruna Asaf Ali; 'Jaya Prakash Day' celebrated April 1946; launched 'Total Revolution' (Sampoorna Kranti) from Gandhi Maidan (5 June 1974); Bharat Ratna (1999). |
+| **Bombay Manifesto (1936)** | 21 leading Bombay businessmen & industrialists | 20 May 1936 (Bombay) | Open indictment against socialist ideas voiced by Jawaharlal Nehru at the 1936 Lucknow Congress session; defended private property and capitalist enterprise. |
 
 
 ## UP Focus
@@ -2003,6 +2006,477 @@ to make it a more revolutionary party and to organize the
 general public. Thus, the second statement is correct. Hence,
 
 the correct answer is (d).
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Congress Socialist Party (1934) (17 Questions)
+
+---
+
+**Q-GC-CSP-1. 44th B.P.S.C. (Pre) 2000**
+
+The first meeting of the Congress Socialist Party was
+held in :
+
+- (a) Delhi (b) Nasik
+
+- (c) Patna (d) Lahore
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Congress Socialist Party was established in May, 1934 A.D.
+
+in Patna during the meeting of Congress Committee. In
+
+October, 1934 A.D., the policies and systems of the Party
+
+were decided in Bombay.
+
+</details>
+
+---
+
+**Q-GC-CSP-2. 42nd B.P.S.C. (Pre) 1997**
+
+The first session of Congress Socialist Party was held
+in year –
+
+- (a) 1921 (b) 1934
+
+- (c) 1937 (d) 1939
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CSP-3. U.P. P.C.S. (Pre) 2024**
+
+Consider the following statements regarding the
+Congress Socialist Party:
+1. In January 1934, the Congress Socialist Party was
+formed.
+2. Due to his sympathy for socialism, Jawaharlal Nehru
+formally joined this party.
+Which of the above statements is/are correct?
+
+- (a) Both 1 and 2 (b) Neither 1 nor 2
+
+- (c) Only 1 (d) Only 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+In 1934 AD, during the Congress Committee meeting in
+
+Patna, the formation of the All India Congress Socialist Party
+
+was formally recognized. In October 1934 AD, in Bombay,
+
+the party's policies and working principles were determined.
+
+In the same year, in Patna, Jayaprakash Narayan was one
+
+of the conveners of the All India Congress Socialist Party.
+
+Jayaprakash Narayan was elected as the party's General
+
+Secretary, and Narendra Dev was chosen as its President.
+
+Jawaharlal Nehru never formally joined this party.
+
+</details>
+
+---
+
+**Q-GC-CSP-4. I.A.S. (Pre) 2015**
+
+With reference to Congress Socialist Party, consider
+the following statements:
+1. It advocated the boycott of British goods and
+evasion of taxes.
+2. It wanted to establish the dictatorship of the
+proletariat.
+3. It advocated a separate electorate for minorities
+and oppressed classes.
+Which of the statements given above is/are correct?
+
+- (a) 1 and 2 only (b) 3 only
+
+- (c) 1, 2 and 3 (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Congress Socialist Party was founded in 1934 A.D. as a
+
+socialist caucus within the INC. Its members rejected what
+
+they saw as the anti-rational mysticism of Gandhi as well
+
+as the sectarian attitude of the Communist Party of India
+
+towards the Congress party. Influenced by Fabianism as
+
+well as Marxism, the CSP advocated armed struggle as well
+
+as non-violent resistance. The CSP advocated decentralized
+
+socialism in which cooperation, trade unions, independent
+
+farmers and local authorities would hold a substantial share
+
+of economic power. As secularists, they hoped to transcend
+
+communal divisions through class solidarity. Hence, option
+
+(d) would be the correct answer.
+
+</details>
+
+---
+
+**Q-GC-CSP-5. U.P.P.C.S. (Pre) 1996**
+
+Who among the following was a prominent leader of
+the Congress Socialist Party?
+
+- (a) M.N. Roy (b) Ganesh Shankar Vidyarthi
+
+- (c) Pattam Thanu Pillai (d) Acharya Narendra Dev
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Congress Socialist Party was formed by Acharya Narendra
+
+Dev and Jaya Prakash Narayan in October 1934.
+
+</details>
+
+---
+
+**Q-GC-CSP-6. 66th B.P.S.C. Re-Exam (Pre) 2020**
+
+The Congress Socialist Party was founded in 1934 by:
+
+- (a) Jawaharlal Nehru and Vinoba Bhave
+
+- (b) Jawaharlal Nehru and Jay Prakash Narayan
+
+- (c) Jayprakash Narayan and Acharya Narendra Dev
+
+- (d) Ashok Mehta and Dr. Rajendra Prasad
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CSP-7. U.P. Lower Sub. (Spl) (Pre) 2008**
+
+Who was the Convenor of All India Congress Socialist
+Party at Patna in 1934?
+
+- (a) Acharya Narendra Dev
+
+- (b) Achyuta Patvardhan
+
+- (c) Jaya Prakash Narayan
+
+- (d) Dr. Ram Manohar Lohia
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The convenor of All India Congress Socialist Party in 1934 at
+
+Patna was Jaya Prakash Narayan. Acharya Narendra Dev and
+
+Ashok Mehta etc. were founder members. J.P. Narayan was
+
+appointed as General Secretary and Acharya Narendra Dev
+
+served as the President of the Party. The Congress Socialist
+
+Party promoted decentralized socialism.
+
+</details>
+
+---
+
+**Q-GC-CSP-8. U.P. P.C.S. (Mains) 2008**
+
+Congress Socialist Party was organized in 1934 by:
+
+- (a) Jai Prakash Narayan and Jawaharlal Nehru
+
+- (b) Jai Prakash Narayan and Acharya Narendra Dev
+
+- (c) Jai Prakash Narayan and Subhash Chandra Bose
+
+- (d) Subhash Chandra Bose and Jawaharlal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CSP-9. 48th to 52nd B.P.S.C. (Pre) 2008 / 42nd B.P.S.C. (Pre) 1997**
+
+Jayprakash Narayan was associated with the Party:
+
+- (a) Congress Party (b) Communist Party
+
+- (c) Congress Socialist Party (d) Kisan Sabha
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CSP-10. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Bihar Socialist Party was founded by –
+
+- (a) J.P. Narayan (b) Satyabhakta
+
+- (c) M.N. Roy (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Phulan Prasad Varma formed the Bihar Socialist Party in
+
+1931, in a meeting held at his home. The Socialist Party was
+
+influenced by the ideologies of Marx and Lenin & also of
+
+the Fabian Society. Bihar Socialist Party was formed from
+
+within the 'Indian National Congress'. Jaya Prakash Narayan
+
+and Gangasharan Sinha, Rambriksh Benipuri and Ramanand
+
+Mishra etc. was associated with Bihar Socialist Party.
+
+</details>
+
+---
+
+**Q-GC-CSP-11. 67th B.P.S.C. (Pre) 2022**
+
+Who had formed the Bihar Socialist Party in 1931
+A.D.?
+
+- (a) Phulan Chand Tiwari and Rajendra Prasad
+
+- (b) Phulan Prasad Varma and Jay Prakash Narayan
+
+- (c) Raj Kumar Shukla and Swami Agnivesh
+
+- (d) Swami Sahajanda and Swami Yogananda
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CSP-12. 65th B.P.S.C. (Pre) 2019**
+
+Who formed the ‘Bihar Socialist Party’ in 1931?
+
+- (a) Phulan Prasad Varma (b) Swami Yoganand
+
+- (c) Narhari Parikh (d) Dadabhai Naoroji
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CSP-13. 46th B.P.S.C. (Pre) 2004**
+
+Who is known as “Loknayak”?
+
+- (a) Mahatma Gandhi
+
+- (b) Subhash Chandra Bose
+
+- (c) Jayprakash Narayan
+
+- (d) Bal Gangadhar Tilak
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Jaya Prakash Narayan is famous as “Loknayak.” He secretly
+
+organized Indian public during ‘Quit- India Movement’ with
+
+Ram Manohar Lohia and Aruna Asaf Ali in 1942. He declared
+
+“Sampoorna Kranti” at Gandhi Maidan Patna on 5 June,
+
+1974 A.D.. He was awarded “Bharat Ratna” posthumously
+
+in 1999 A.D..
+
+</details>
+
+---
+
+**Q-GC-CSP-14. 56th to 59thB.P.S.C. (Pre) 2015**
+
+By which name is Jay Prakash Narayan known?
+
+- (a) Lokmanya (b) Loknayak
+
+- (c) Lokhitvadi (d) Lokneta
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CSP-15. 66th B.P.S.C. (Pre) 2020**
+
+Which title was given to Jayaprakash Narayan?
+
+- (a) Praja Hitechhu (b) Lok Nayak
+
+- (c) Lokmanya (d) Rashtra Nayak
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CSP-16. 43rd B.P.S.C. (Pre) 1999**
+
+Jay Prakash Diwas was celebrated in:
+
+- (a) January, 1946 (b) February, 1946
+
+- (c) March, 1946 (d) April, 1946
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In April, 1946 A.D., ‘Jaya Prakash Day’ was celebrated for the
+
+release of Jaya Prakash from prison. A rally was conducted in
+
+Bankipur Maidan of Patna where the release of Jaya Prakash
+
+Narayan was demanded and criticism of government policy
+
+regarding the arrest of political persons was made.
+
+</details>
+
+---
+
+**Q-GC-CSP-17. I.A.S. (Pre) 2010**
+
+Consider the following statements:
+1. The “Bombay Manifesto” signed in 1936 openly
+opposed the preaching of socialist ideals.
+2. It evoked support from a large section of the
+business community from all across India.
+Which of the statements given above is/are correct?
+
+- (a) 1 only (b) 2 only
+
+- (c) Both 1 and 2 (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+‘Bombay Manifesto’ was a deal that was signed in the year
+
+1936 by 21 businessmen. It contained an open indictment of
+
+Nehru’s preaching of socialist ideas during Lucknow session.
+
+It was largely supported by the business community. So both
+
+the statements are true.
 
 </details>
 

@@ -1164,12 +1164,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true and (R) is the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** Shortly before his demise in October 1708 CE at Nanded (Maharashtra, where Takht Sachkhand Sri Hazur Sahib stands), Guru Gobind Singh bowed before the holy Granth, conferring eternal Guruship upon it: *"Sab Sikhan ko hukam hai, Guru manyo Granth"* (All Sikhs are commanded to accept the Granth as their Guru).
 - **Reason (R) is correct:** The line of living personal human Gurus permanently terminated with Guru Gobind Singh (the 10th Guru); there was never an 11th human Guru.
-- **Why (R) explains (A):** The doctrine of the eternal Granth was specifically promulgated to bring the personal succession of human Gurus to an end, forever vesting spiritual authority in the *Shabad Guru* (Guru Granth Sahib) and temporal authority in the corporate community (*Guru Panth*).
+- **Why (R) does NOT explain (A): Consequence / Aftermath of the assertion, not the cause. Both statements are true facts, but Reason (R) is not the cause of Assertion (A).** The doctrine of the eternal Granth was specifically promulgated to bring the personal succession of human Gurus to an end, forever vesting spiritual authority in the *Shabad Guru* (Guru Granth Sahib) and temporal authority in the corporate community (*Guru Panth*).
 
 **Key Exam Takeaway / Trap:**
 - *End of Human Guruship:* Human Gurus: exactly **Ten** (1469–1708 CE); 11th Guru: **Guru Granth Sahib** (Eternal Living Guru).
@@ -1479,12 +1479,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true and (R) is the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** Born into a Rajput family at Rajouri (Poonch, Kashmir) in 1670 CE, his childhood name was **Lachhman Dev**. After renouncing worldly life, he became an ascetic Bairagi yogi named **Madho Das**.
 - **Reason (R) is correct:** In September 1708 CE at Nanded, he met Guru Gobind Singh, declared himself the Guru's humble servant (*Banda*), and was baptized into the Khalsa fold as **Gurbaksh Singh**, popularly known as **Banda Singh Bahadur**. Guru Gobind Singh presented him with five arrows, a council of five advisers, and dispatched him to Punjab to punish Wazir Khan (faujdar of Sirhind) and lead the military struggle.
-- **Why (R) explains (A):** The historical initiation and commissioning by Guru Gobind Singh at Nanded explains how the ascetic Lachhman Dev / Madho Das received his new martial Sikh identity as Banda Bahadur.
+- **Why (R) does NOT explain (A): Chronological reversal: later development cannot explain prior state. Both statements are true facts, but Reason (R) is not the cause of Assertion (A).** The historical initiation and commissioning by Guru Gobind Singh at Nanded explains how the ascetic Lachhman Dev / Madho Das received his new martial Sikh identity as Banda Bahadur.
 
 **Key Exam Takeaway / Trap:**
 - *Name Evolution:* **Lachhman Dev** (Birth) → **Madho Das Bairagi** (Ascetic) → **Banda Singh Bahadur** (Given by Guru Gobind Singh in 1708).
@@ -1615,12 +1615,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true and (R) is the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** Emperor Akbar visited Guru Amar Das at Goindwal, ate food in the common Langar sitting on the floor, and in recognition of the Guru's service granted an estate of 500 bighas of land containing a natural pond to the Guru's daughter, **Bibi Bhani** (who married Jetha, the future 4th Guru, **Guru Ram Das**).
 - **Reason (R) is correct:** On this granted land, Guru Ram Das excavated the sacred pool (*Amrit Sarovar*) and founded a settlement originally called **Guru-ka-Chak** or **Ramdaspur**, which subsequently grew into the premier holy city of **Amritsar**.
-- **Why (R) explains (A):** The development of Ramdaspur/Amritsar was the direct historical consequence and materialization of Akbar's land endowment to Bibi Bhani and Guru Ram Das.
+- **Why (R) does NOT explain (A): Chronological reversal: later development cannot explain prior state. Both statements are true facts, but Reason (R) is not the cause of Assertion (A).** The development of Ramdaspur/Amritsar was the direct historical consequence and materialization of Akbar's land endowment to Bibi Bhani and Guru Ram Das.
 
 **Key Exam Takeaway / Trap:**
 - *Land Grant Facts:* Imperial Patron: **Akbar**; Recipient: **Bibi Bhani / Guru Ram Das**; Town Founded: **Ramdaspur (Amritsar)**.

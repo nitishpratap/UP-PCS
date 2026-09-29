@@ -2697,7 +2697,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Both (A) and (R) are true, but (R) is NOT the correct explanation of (A) / standard PCS key)
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true, but (R) is NOT the correct explanation of (A) / standard PCS key)
 
 **Detailed Explanation:**
 - **Assertion (A) is true:** **Bagor** in Bhilwara district, Rajasthan, is the benchmark and most extensively excavated Mesolithic site in India providing clear stratigraphical and faunal evidence of animal domestication (sheep, goat, cattle) dating to the 5th millennium BCE.

@@ -2873,9 +2873,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** R correctly explains why silver, not gold, is the proof key.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Specific example, evidence artifact, or negative distractor is not a causal explanation.
 
 </details>
 

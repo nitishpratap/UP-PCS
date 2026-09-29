@@ -4639,9 +4639,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) exemplifies the Gupta structural temple point.
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Deogarh is the standard early panchayatana illustration for this claim.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Specific example, evidence artifact, or negative distractor is not a causal explanation.
 
 </details>
 

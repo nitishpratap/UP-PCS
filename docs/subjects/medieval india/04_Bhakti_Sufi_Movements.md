@@ -3796,12 +3796,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true and (R) is the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** *Fawaid-ul-Fuad* ("Morals of the Heart") is the pioneering *malfuzat* text that faithfully records the spoken assemblies, spiritual teachings, and moral discourses of Hazrat Nizamuddin Auliya in Delhi between 1307 and 1322 CE.
 - **Reason (R) is correct:** The text was compiled by Amir Hasan Sijzi (Hasan Dehlavi), who recorded the master's words and presented each volume to Nizamuddin Auliya for personal authentication, distinguishing it from the works of Amir Khusrau.
-- **Why (R) explains (A):** Sijzi's dedicated compilation process is the exact reason why Nizamuddin's oral table-talks survived as a permanent historical record rather than remaining oral traditions.
+- **Why (R) does NOT explain (A): Attribution/excavator detail asserted as explanation of content. Both statements are true facts, but Reason (R) is not the cause of Assertion (A).** Sijzi's dedicated compilation process is the exact reason why Nizamuddin's oral table-talks survived as a permanent historical record rather than remaining oral traditions.
 
 **Key Exam Takeaway / Trap:**
 - *Compiler Trap:* The compilation of *Fawaid-ul-Fuad* is often falsely attributed to Amir Khusrau in exam options because of Khusrau's prominent profile. The real author is **Amir Hasan Sijzi**.

@@ -2966,9 +2966,9 @@ D. (A) is false but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Different land systems created different peasant classes — R correctly explains A.
+**Ans: B.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**Ans: A.** Both true; zamindar–tenant (Bengal), direct ryot (south/west), and village mahal (north) are the three class outcomes.
+**A/R logic:** While both statements are historically true, the creation of different peasant classes was the subsequent socio-economic **consequence/impact** of the diverse revenue systems, not the **cause** of why the British adopted different systems. The British introduced different systems (Permanent Settlement, Ryotwari, Mahalwari) due to differing regional land-tenure histories, administrative convenience, and revenue maximization. Hence, UPPSC officially keyed **B**.
 
 </details>
 

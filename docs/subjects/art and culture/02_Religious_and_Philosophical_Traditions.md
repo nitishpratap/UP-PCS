@@ -1293,9 +1293,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) correctly explains the Samkhya–Yoga contrast on Ishvara.
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Samkhya theory without Ishvara pairs with Yoga practice that includes Ishvara.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Parallel contrast or distinct historical fact does not explain assertion.
 
 </details>
 

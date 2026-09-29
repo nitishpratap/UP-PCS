@@ -627,6 +627,38 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-subject-body">
 <h3 class="ct-group-title">Highly Important</h3>
 <div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="mordern-india-13-Gandhian-Era-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-13-Gandhian-Era-md" aria-label="Mark Topic 13 — Gandhian Era (1915–1948) done">
+    <span class="ct-title">Topic 13 — Gandhian Era (1915–1948)</span>
+    <span class="ct-pills">122 Qs · UPPCS 102 · UKPCS 22</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-gandhi-and-his-early-movements-106-questions">Ghatnachakra Gandhi and His Early Movements (106 Questions)</a> — 29 questions (UPPCS 23 · UKPCS 6)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-civil-disobedience-movement-44-questions">Ghatnachakra Civil Disobedience Movement (44 Questions)</a> — 15 questions (UPPCS 12 · UKPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-communal-award-and-poona-pact-1932-24-questions">Ghatnachakra Communal Award and Poona Pact (1932) (24 Questions)</a> — 13 questions (UPPCS 10 · UKPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-rowlatt-act-and-jallianwala-bagh-massacre-1919-39-questions">Ghatnachakra Rowlatt Act and Jallianwala Bagh Massacre (1919) (39 Questions)</a> — 12 questions (UPPCS 10 · UKPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-round-table-conference-25-questions">Ghatnachakra Round Table Conference (25 Questions)</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-simon-commission-1927-22-questions">Ghatnachakra Simon Commission (1927) (22 Questions)</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-formation-of-swaraj-party-1923-22-questions">Ghatnachakra Formation of Swaraj Party (1923) (22 Questions)</a> — 7 questions (UPPCS 6 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-khilafat-movement-17-questions">Ghatnachakra Khilafat Movement (17 Questions)</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-lahore-session-of-congress-proposal-of-complete-independence-1929-22-questions">Ghatnachakra Lahore Session of Congress, Proposal of Complete Independence (1929) (22 Questions)</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-karachi-session-of-congress-1931-8-questions">Ghatnachakra Karachi Session of Congress (1931) (8 Questions)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-individual-satyagraha-1940-8-questions">Ghatnachakra Individual Satyagraha (1940) (8 Questions)</a> — 3 questions (UPPCS 1 · UKPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#136-jallianwala-bagh-13-april-1919">Jallianwala Bagh (13 April 1919)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#131-indian-national-movement-chronology-gandhian-phase">Indian National Movement Chronology (Gandhian phase)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1314-civil-disobedience-movement-and-dandi-march">Civil Disobedience Movement and Dandi March</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1317-communal-award-and-poona-pact">Communal Award and Poona Pact</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1318-gandhis-constructive-programme">Gandhi&#x27;s Constructive Programme</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-gandhi-irwin-pact-11-questions">Ghatnachakra Gandhi-Irwin Pact (11 Questions)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1311-nehru-report-1928">Nehru Report (1928)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1315-round-table-conferences">Round Table Conferences</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/13_Gandhian_Era/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="mordern-india-09-Rise-of-Nationalism-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="mordern-india-09-Rise-of-Nationalism-md" aria-label="Mark Topic 9 — Rise of Nationalism done">
@@ -654,6 +686,66 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/09_Rise_of_Nationalism/">Open chapter</a>
   </div>
 </details>
+<details class="ct-row" data-ct-id="mordern-india-14-Final-Phase-of-Freedom-Struggle-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-14-Final-Phase-of-Freedom-Struggle-md" aria-label="Mark Topic 14 — Final Phase of Freedom Struggle done">
+    <span class="ct-title">Topic 14 — Final Phase of Freedom Struggle</span>
+    <span class="ct-pills">84 Qs · UPPCS 72 · UKPCS 16</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#complete-pyq-bank-ghatnachakra-quit-india-movement-73-questions">Ghatnachakra Quit India Movement (73 Questions)</a> — 22 questions (UPPCS 18 · UKPCS 5)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#complete-pyq-bank-ghatnachakra-partition-of-india-and-independence-50-questions">Ghatnachakra Partition of India and Independence (50 Questions)</a> — 19 questions (UPPCS 16 · UKPCS 4)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#complete-pyq-bank-ghatnachakra-demand-for-pakistan-18-questions">Ghatnachakra Demand for Pakistan (18 Questions)</a> — 9 questions (UPPCS 8 · UKPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#complete-pyq-bank-ghatnachakra-subhash-chandra-bose-and-azad-hind-fauj-43-questions">Ghatnachakra Subhash Chandra Bose and Azad Hind Fauj (43 Questions)</a> — 7 questions (UPPCS 6 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#complete-pyq-bank-ghatnachakra-cabinet-mission-plan-1946-21-questions">Ghatnachakra Cabinet Mission Plan (1946) (21 Questions)</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#complete-pyq-bank-ghatnachakra-tripuri-crisis-of-congress-1939-12-questions">Ghatnachakra Tripuri Crisis of Congress (1939) (12 Questions)</a> — 5 questions (UPPCS 5 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#complete-pyq-bank-ghatnachakra-formation-of-interim-government-1946-17-questions">Ghatnachakra Formation of Interim Government (1946) (17 Questions)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#1413-cabinet-mission-1946">Cabinet Mission (1946)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#complete-pyq-bank-ghatnachakra-cripps-mission-1942-10-questions">Ghatnachakra Cripps Mission (1942) (10 Questions)</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#complete-pyq-bank-ghatnachakra-provincial-election-and-formation-of-cabinet-1937-17-questions">Ghatnachakra Provincial Election and Formation of Cabinet (1937) (17 Questions)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#1411-political-deadlock-formulas">Political Deadlock (formulas)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#149-azad-hind-fauj-and-azad-hind-government">Azad Hind Fauj and Azad Hind Government</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#147-cripps-mission-march-1942">Cripps Mission (March 1942)</a> — 1 question (UPPCS 1)</li>
+      <li>Final Phase — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#141-independence-chronology">Independence Chronology</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#148-quit-india-movement-8-august-1942">Quit India Movement (8 August 1942)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-03-Governors-General-and-Viceroys-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-03-Governors-General-and-Viceroys-md" aria-label="Mark Topic 3 — Governors-General &amp; Viceroys done">
+    <span class="ct-title">Topic 3 — Governors-General &amp; Viceroys</span>
+    <span class="ct-pills">73 Qs · UPPCS 65 · UKPCS 9</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#complete-pyq-bank-ghatnachakra-governors-governor-generals-and-viceroys">Ghatnachakra Governors, Governor-Generals and Viceroys</a> — 61 questions (UPPCS 55 · UKPCS 7)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#complete-pyq-bank-ghatnachakra-constitutional-development-of-india-63-questions">Ghatnachakra Constitutional Development of India (63 Questions)</a> — 12 questions (UPPCS 10 · UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-10-Books-and-Authors-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-10-Books-and-Authors-md" aria-label="Mark Topic 10 — Books &amp; Authors done">
+    <span class="ct-title">Topic 10 — Books &amp; Authors</span>
+    <span class="ct-pills">72 Qs · UPPCS 52 · UKPCS 21</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#complete-pyq-bank-ghatnachakra-magazines-books-and-their-authors-217-questions">Ghatnachakra Magazines, Books and Their Authors (217 Questions)</a> — 69 questions (UPPCS 49 · UKPCS 21)</li>
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#103-poverty-and-un-british-rule-in-india">Poverty and Un-British Rule in India</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#106-india-wins-freedom">India Wins Freedom</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/10_Books_and_Authors/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="mordern-india-11-Swadeshi-and-Revolutionary-Movement-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="mordern-india-11-Swadeshi-and-Revolutionary-Movement-md" aria-label="Mark Topic 11 — Swadeshi &amp; Revolutionary Movement done">
@@ -677,45 +769,25 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="mordern-india-03-Governors-General-and-Viceroys-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="mordern-india-05-Revolt-of-1857-md" data-group="high" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-03-Governors-General-and-Viceroys-md" aria-label="Mark Topic 3 — Governors-General &amp; Viceroys done">
-    <span class="ct-title">Topic 3 — Governors-General &amp; Viceroys</span>
-    <span class="ct-pills">61 Qs · UPPCS 55 · UKPCS 7</span>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-05-Revolt-of-1857-md" aria-label="Mark Topic 5 — Revolt of 1857 done">
+    <span class="ct-title">Topic 5 — Revolt of 1857</span>
+    <span class="ct-pills">28 Qs · UPPCS 22 · UKPCS 6</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#complete-pyq-bank-ghatnachakra-governors-governor-generals-and-viceroys">Ghatnachakra Governors, Governor-Generals and Viceroys</a> — 61 questions (UPPCS 55 · UKPCS 7)</li>
+      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#complete-pyq-bank-ghatnachakra-revolt-of-1857">Ghatnachakra Revolt of 1857</a> — 28 questions (UPPCS 22 · UKPCS 6)</li>
     </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/">Open chapter</a>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/05_Revolt_of_1857/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="mordern-india-13-Gandhian-Era-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-13-Gandhian-Era-md" aria-label="Mark Topic 13 — Gandhian Era (1915–1948) done">
-    <span class="ct-title">Topic 13 — Gandhian Era (1915–1948)</span>
-    <span class="ct-pills">59 Qs · UPPCS 48 · UKPCS 12</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-gandhi-and-his-early-movements-106-questions">Ghatnachakra Gandhi and His Early Movements (106 Questions)</a> — 29 questions (UPPCS 23 · UKPCS 6)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-rowlatt-act-and-jallianwala-bagh-massacre-1919-39-questions">Ghatnachakra Rowlatt Act and Jallianwala Bagh Massacre (1919) (39 Questions)</a> — 12 questions (UPPCS 10 · UKPCS 3)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#complete-pyq-bank-ghatnachakra-khilafat-movement-17-questions">Ghatnachakra Khilafat Movement (17 Questions)</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#136-jallianwala-bagh-13-april-1919">Jallianwala Bagh (13 April 1919)</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#ghatnachakra-extra-drill-gandhiirwin-karachi-rtc-poona-pact">Gandhi–Irwin, Karachi, RTC, Poona Pact</a> — 2 questions (UKPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#131-indian-national-movement-chronology-gandhian-phase">Indian National Movement Chronology (Gandhian phase)</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1314-civil-disobedience-movement-and-dandi-march">Civil Disobedience Movement and Dandi March</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1317-communal-award-and-poona-pact">Communal Award and Poona Pact</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1318-gandhis-constructive-programme">Gandhi&#x27;s Constructive Programme</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1311-nehru-report-1928">Nehru Report (1928)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1315-round-table-conferences">Round Table Conferences</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/13_Gandhian_Era/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="mordern-india-07-Education-and-Press-md" data-group="high" data-uk="0">
+</div>
+
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="mordern-india-07-Education-and-Press-md" data-group="medium" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="mordern-india-07-Education-and-Press-md" aria-label="Mark Topic 7 — Education &amp; Press done">
     <span class="ct-title">Topic 7 — Education &amp; Press</span>
@@ -735,7 +807,22 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/07_Education_and_Press/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" data-group="high" data-uk="0">
+<details class="ct-row" data-ct-id="mordern-india-16-Miscellaneous-UPPCS-Frequently-Asked-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-16-Miscellaneous-UPPCS-Frequently-Asked-md" aria-label="Mark Topic 16 — Miscellaneous (Frequently Asked by UPPCS) done">
+    <span class="ct-title">Topic 16 — Miscellaneous (Frequently Asked by UPPCS)</span>
+    <span class="ct-pills">46 Qs · UPPCS 32 · UKPCS 14</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/16_Miscellaneous_UPPCS_Frequently_Asked/#complete-pyq-bank-ghatnachakra-art-and-culture-160-questions">Ghatnachakra Art and Culture (160 Questions)</a> — 39 questions (UPPCS 29 · UKPCS 10)</li>
+      <li><a href="../subjects/mordern%20india/16_Miscellaneous_UPPCS_Frequently_Asked/#complete-pyq-bank-ghatnachakra-awards-31-questions">Ghatnachakra Awards (31 Questions)</a> — 7 questions (UPPCS 3 · UKPCS 4)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/16_Miscellaneous_UPPCS_Frequently_Asked/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" data-group="medium" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" aria-label="Mark Topic 8 — Peasant, Tribal &amp; Labour Movements done">
     <span class="ct-title">Topic 8 — Peasant, Tribal &amp; Labour Movements</span>
@@ -752,63 +839,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#83-peasant-leaders">Peasant Leaders</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="mordern-india-05-Revolt-of-1857-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-05-Revolt-of-1857-md" aria-label="Mark Topic 5 — Revolt of 1857 done">
-    <span class="ct-title">Topic 5 — Revolt of 1857</span>
-    <span class="ct-pills">28 Qs · UPPCS 22 · UKPCS 6</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#complete-pyq-bank-ghatnachakra-revolt-of-1857">Ghatnachakra Revolt of 1857</a> — 28 questions (UPPCS 22 · UKPCS 6)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/05_Revolt_of_1857/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="mordern-india-14-Final-Phase-of-Freedom-Struggle-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-14-Final-Phase-of-Freedom-Struggle-md" aria-label="Mark Topic 14 — Final Phase of Freedom Struggle done">
-    <span class="ct-title">Topic 14 — Final Phase of Freedom Struggle</span>
-    <span class="ct-pills">10 Qs · UPPCS 8 · UKPCS 2</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#ghatnachakra-extra-drill-cabinet-mission-interim-government-partition">Cabinet Mission, Interim Government, Partition</a> — 2 questions (UKPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#149-azad-hind-fauj-and-azad-hind-government">Azad Hind Fauj and Azad Hind Government</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#1413-cabinet-mission-1946">Cabinet Mission (1946)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#1416-final-phase-194547">Final Phase (1945–47)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#1410-ina-trials">INA Trials</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#141-independence-chronology">Independence Chronology</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#1411-political-deadlock-formulas">Political Deadlock (formulas)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#148-quit-india-movement-8-august-1942">Quit India Movement (8 August 1942)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#146-second-world-war-and-india">Second World War and India</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/">Open chapter</a>
-  </div>
-</details>
-</div>
-
-<h3 class="ct-group-title">Medium Important</h3>
-<div class="ct-list ct-list--medium">
-<details class="ct-row" data-ct-id="mordern-india-10-Books-and-Authors-md" data-group="medium" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-10-Books-and-Authors-md" aria-label="Mark Topic 10 — Books &amp; Authors done">
-    <span class="ct-title">Topic 10 — Books &amp; Authors</span>
-    <span class="ct-pills">32 Qs · UPPCS 8 · UKPCS 25</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#ghatnachakra-extra-drill-magazines-books-and-authors">Magazines, Books and Authors</a> — 29 questions (UPPCS 5 · UKPCS 25)</li>
-      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#1010-books-on-freedom-movement-and-political-books">Books on Freedom Movement and Political Books</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#1013-history-books-and-historiography">History Books and Historiography</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#103-poverty-and-un-british-rule-in-india">Poverty and Un-British Rule in India</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/10_Books_and_Authors/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="mordern-india-06-Socio-Religious-Reform-Movements-md" data-group="medium" data-uk="0">
@@ -830,28 +860,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#610-social-reformers-and-their-titles">Social Reformers and Their Titles</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" data-group="medium" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" aria-label="Mark Topic 12 — Home Rule &amp; Labour Politics done">
-    <span class="ct-title">Topic 12 — Home Rule &amp; Labour Politics</span>
-    <span class="ct-pills">25 Qs · UPPCS 23 · UKPCS 2</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-trade-union-and-communist-party-16-questions">Ghatnachakra Trade Union and Communist Party (16 Questions)</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-home-rule-league-movement-13-questions">Ghatnachakra Home Rule League Movement (13 Questions)</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-lucknow-session-of-congress-the-lucknow-pact-10-questions">Ghatnachakra Lucknow Session of Congress (The Lucknow Pact) (10 Questions)</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#1210-congress-socialist-party">Congress Socialist Party</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-morley-minto-reforms-4-questions">Ghatnachakra Morley-Minto Reforms (4 Questions)</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#128-labour-politics-aituc-and-the-party-map">Labour Politics — AITUC and the Party Map</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#121-home-rule-movement">Home Rule Movement</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#129-left-parties">Left Parties</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#1211-regional-parties">Regional Parties</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" data-group="medium" data-uk="0">
@@ -898,22 +906,48 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
 
 <h3 class="ct-group-title">Least Important</h3>
 <div class="ct-list ct-list--least">
-<details class="ct-row" data-ct-id="mordern-india-15-Post-Independence-India-md" data-group="least" data-uk="0">
+<details class="ct-row" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" data-group="least" data-uk="0">
   <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-15-Post-Independence-India-md" aria-label="Mark Topic 15 — Post-Independence India done">
-    <span class="ct-title">Topic 15 — Post-Independence India</span>
-    <span class="ct-pills">14 Qs · UPPCS 13 · UKPCS 1</span>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" aria-label="Mark Topic 12 — Home Rule &amp; Labour Politics done">
+    <span class="ct-title">Topic 12 — Home Rule &amp; Labour Politics</span>
+    <span class="ct-pills">26 Qs · UPPCS 24 · UKPCS 2</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#153-constitution-making">Constitution Making</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-trade-union-and-communist-party-16-questions">Ghatnachakra Trade Union and Communist Party (16 Questions)</a> — 7 questions (UPPCS 7)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-home-rule-league-movement-13-questions">Ghatnachakra Home Rule League Movement (13 Questions)</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-lucknow-session-of-congress-the-lucknow-pact-10-questions">Ghatnachakra Lucknow Session of Congress (The Lucknow Pact) (10 Questions)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#1210-congress-socialist-party">Congress Socialist Party</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-congress-socialist-party-1934-17-questions">Ghatnachakra Congress Socialist Party (1934) (17 Questions)</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#complete-pyq-bank-ghatnachakra-morley-minto-reforms-4-questions">Ghatnachakra Morley-Minto Reforms (4 Questions)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#128-labour-politics-aituc-and-the-party-map">Labour Politics — AITUC and the Party Map</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#121-home-rule-movement">Home Rule Movement</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#129-left-parties">Left Parties</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#1211-regional-parties">Regional Parties</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-15-Post-Independence-India-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-15-Post-Independence-India-md" aria-label="Mark Topic 15 — Post-Independence India done">
+    <span class="ct-title">Topic 15 — Post-Independence India</span>
+    <span class="ct-pills">19 Qs · UPPCS 18 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#complete-pyq-bank-ghatnachakra-constituent-assembly-1946-11-questions">Ghatnachakra Constituent Assembly (1946) (11 Questions)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#complete-pyq-bank-ghatnachakra-indian-princely-states-10-questions">Ghatnachakra Indian Princely States (10 Questions)</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#159-master-fact-locks-princely-states-integration-constituent-assembly-high-yield-repository">Master Fact-Locks — Princely States Integration &amp; Constituent Assembly High-Yield Repository</a> — 3 questions (UPPCS 3)</li>
       <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#157-planning-commission">Planning Commission</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#156-states-reorganisation">States Reorganisation</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#153-constitution-making">Constitution Making</a> — 2 questions (UPPCS 2)</li>
       <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#155-community-development-programme-2-october-1952">Community Development Programme (2 October 1952)</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#ghatnachakra-extra-drill-constituent-assembly">Constituent Assembly</a> — 1 question (UKPCS 1)</li>
       <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#158-five-year-plans">Five-Year Plans</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#152-integration-of-princely-states">Integration of Princely States</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#complete-pyq-bank">PYQ Bank</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#156-states-reorganisation">States Reorganisation</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/15_Post_Independence_India/">Open chapter</a>
   </div>
@@ -934,17 +968,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#114-second-carnatic-war-c17491754">Second Carnatic War, c.1749–1754</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/01_Advent_of_Europeans/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="mordern-india-16-Miscellaneous-UPPCS-Frequently-Asked-md" data-group="least" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-16-Miscellaneous-UPPCS-Frequently-Asked-md" aria-label="Mark Topic 16 — Miscellaneous (Frequently Asked by UPPCS) done">
-    <span class="ct-title">Topic 16 — Miscellaneous (Frequently Asked by UPPCS)</span>
-    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p>No tagged stems in the teaching or bank headings yet.</p>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/16_Miscellaneous_UPPCS_Frequently_Asked/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="mordern-india-uttar-pradesh-17-UP-History-and-Freedom-Struggle-md" data-group="least" data-uk="0">

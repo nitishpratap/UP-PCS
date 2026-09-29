@@ -861,6 +861,16 @@ D. Neither 1 nor 2
 | **Rowlatt Act (1919)** | Sir Sidney Rowlatt, Lord Chelmsford (Viceroy) | March 1919 | Anarchical and Revolutionary Crimes Act; authorized indefinite detention without trial and in-camera proceedings ("No Vakil, No Appeal, No Dalil"); sparked Rowlatt Satyagraha (Gandhi's 1st all-India mass movement, 6 April 1919 hartal); Swami Shraddhanand advocated no-tax campaign. |
 | **Jallianwala Bagh Massacre** | Brig. Gen. Reginald Dyer, Sir Michael O'Dwyer, Dr. Saifuddin Kitchlew, Dr. Satyapal | 13 April 1919 (Amritsar) | Unarmed gathering on Baisakhi protesting arrest of Kitchlew & Satyapal; Dyer ordered indiscriminate firing on enclosed ground killing ~1000; Rabindranath Tagore surrendered **'Knighthood' / 'Sir'** (31 May 1919); Sir Sankaran Nair resigned from Viceroy's Council; Hunter Committee (Disorders Inquiry Committee) whitewashed Dyer; Montagu called it "Preventive Murder"; Udham Singh assassinated Michael O'Dwyer in London (13 March 1940). |
 | **Khilafat Movement** | Ali Brothers (Shaukat Ali & Mohammad Ali), Abul Kalam Azad, Hakim Ajmal Khan | 1919–1924 (All-India) | Movement to preserve Caliphate & territorial integrity of Ottoman Empire post-WWI; All India Khilafat Conference (Delhi, 23–24 Nov 1919) elected Gandhi President; Gandhi viewed it as an unprecedented opportunity for Hindu-Muslim unity; Hakim Ajmal Khan renounced title *Haziq-ul-Mulk*; M.A. Jinnah and M.M. Malaviya opposed mixing religion with politics; Allahabad Khilafat Conference (June 1920) asked Gandhi to lead Non-Cooperation; linked with Moplah Rebellion (1921). |
+| **Swaraj Party (1923)** | C.R. Das (President), Motilal Nehru (Gen. Secretary) | Jan 1923 (Allahabad) | Formed after Gaya Session (Dec 1922) split; pro-changers (Das, Motilal, Vithalbhai Patel, N.C. Kelkar) advocated council entry to 'wreck from within'; no-changers (Patel, Rajendra Prasad, Rajagopalachari) boycotted councils; Vithalbhai Patel elected 1st Indian Speaker (President) of Central Legislative Assembly in Aug 1925; C.R. Das ('Deshbandhu') declared 'Swaraj for the masses, not for classes'; Bihar branch led by Shri Krishna Singh; Independent Party launched 16 Dec 1922 by M.M. Malaviya and Motilal Nehru. |
+| **Simon Commission (1927–28)** | Sir John Simon (Liberal Chairman), Stanley Baldwin (PM), Clement Attlee (Labour member) | Nov 1927 (Appointed) / 3 Feb 1928 (Bombay arrival) | 7-member all-white statutory commission under 1919 Act; Indians excluded on advice of Viceroy Lord Irwin; greeted with countrywide hartal & 'Simon Go Back'; Lala Lajpat Rai ('Punjab Kesari') fatally assaulted in police lathi-charge at Lahore (died 17 Nov 1928); commission visited twice (1928, 1928–29); recommended abolishing provincial dyarchy & introducing provincial autonomy with federal character. |
+| **Nehru Report (1928) & Independence League** | Motilal Nehru (Chair), J.L. Nehru (Sec.), Tej Bahadur Sapru, M.R. Jayakar | Aug 1928 (All Parties Conference, Delhi/Lucknow) | Answer to Birkenhead's challenge; proposed Dominion Status, joint electorates with reservation for minorities (rejected separate electorates), 19 fundamental rights; radical youth wing (J.L. Nehru & Subhash Chandra Bose) rejected dominion status and founded **'Independence for India League'** (1928) demanding Complete Independence; Jinnah opposed via 14 Points (March 1929); Dr. M.A. Ansari chaired Feb 1928 Delhi All Parties Conference. |
+| **Lahore Session & Purna Swaraj (1929)** | Jawaharlal Nehru (President, 1st time) | Dec 1929 (Lahore) | Formally adopted 'Purna Swaraj' (Complete Independence) as sole objective; rejected Nehru Report dominion status; tri-colour flag of freedom hoisted at banks of Ravi at midnight on 31 Dec 1929; declared 26 Jan 1930 as 1st 'Purna Swaraj Day' (celebrated annually till 1947); authorized launching of Civil Disobedience Movement. Earlier, Maulana Hasrat Mohani 1st proposed complete independence at Ahmedabad 1921. |
+| **Civil Disobedience Movement & Dandi March (1930)** | Mahatma Gandhi, 78/80 volunteers | 12 March – 6 April 1930 (Sabarmati to Dandi, 241 miles, 24 days) | Inaugurated CDM by boiling seawater and picking up salt at Dandi (6 April 1930); Subhash Bose compared march to Napoleon's march from Elba to Paris; C. Rajagopalachari led Vedaranyam Salt March (Trichinopoly to Vedaranyam, Tanjore); Abbas Tyabji led after Gandhi's arrest (5 May 1930); Sarojini Naidu led non-violent raid on Dharsana Salt Works (reported by American journalist Webb Miller); NWFP: Khan Abdul Ghaffar Khan's 'Khudai Khidmatgars' ('Red Shirts'); Chandra Singh Garhwali's Garhwal Rifles refused to fire on Peshawar crowd; Manipur/Nagaland: Rani Gaidinliu's 'Jiatrang Movement'; Bihar: Chowkidari tax boycott (Begusarai/Bihpur under Mahadev Lal Sarraf). |
+| **Gandhi–Irwin Pact (Delhi Pact, 5 March 1931)** | Mahatma Gandhi, Lord Irwin (Viceroy), Tej Bahadur Sapru & M.R. Jayakar (mediators) | 5 March 1931 (Delhi) | Sarojini Naidu called Gandhi & Irwin 'The Two Mahatmas'; government agreed to release non-violent political prisoners, permit peaceful picketing of liquor/foreign cloth, allow coastal salt making; Congress agreed to suspend Civil Disobedience Movement and participate in 2nd Round Table Conference; Alan Campbell-Johnson (biographer) termed Gandhi's gains 'consolation prizes'. |
+| **Karachi Session of Congress (1931)** | Sardar Vallabhbhai Patel (President) | 29–31 March 1931 (Karachi) | Ratified Gandhi-Irwin Pact; passed historic resolutions on Fundamental Rights and National Economic Programme (drafted by J.L. Nehru with M.N. Roy); Gandhi declared 'Gandhi may die, but Gandhism will remain forever'; Subhash Chandra Bose hailed session as 'pinnacle of Mahatma Gandhi's popularity and prestige'. |
+| **Round Table Conferences (London, 1930–1932)** | Ramsay MacDonald (Chair), King George V (Inaugurator) | 1930–1932 (St. James's Palace, London) | 1st RTC (Nov 1930 – Jan 1931, Congress boycotted; K.T. Paul represented Indian Christians); 2nd RTC (Sept – Dec 1931, Gandhi sole Congress representative, sailed on S.S. Rajputana, stayed at Kingsley Hall; failed on separate electorates deadlock); 3rd RTC (Nov – Dec 1932, Congress boycotted); Dr. B.R. Ambedkar and Tej Bahadur Sapru participated in all three RTCs. |
+| **Communal Award & Poona Pact (1932)** | Ramsay MacDonald (PM), Dr. B.R. Ambedkar, M.M. Malaviya, M.K. Gandhi | 16 Aug 1932 (Award) / 24 Sept 1932 (Poona Pact) | MacDonald Award granted separate electorates to depressed classes (71 seats); Gandhi began fast unto death at Yerawada Jail (20 Sept 1932); Poona Pact signed 24 Sept 1932 by Ambedkar (depressed classes) and Malaviya (caste Hindus) — Gandhi did NOT sign; joint electorates retained with reserved seats increased from 71 to 148 (and 18% in Central Legislature); Gandhi founded All India Anti-Untouchability League / Harijan Sevak Sangh (1932, G.D. Birla 1st Pres., weekly *Harijan* 1933); Babu Jagjivan Ram founded All India Depressed Classes League (1935). |
+| **Individual Satyagraha (17 Oct 1940)** | Mahatma Gandhi, Acharya Vinoba Bhave, Jawaharlal Nehru, Brahma Dutt | 17 Oct 1940 (Pavnar Ashram, Wardha, Maharashtra) | Limited moral protest against India's unilateral drag into WWII post-August Offer rejection; 1st Satyagrahi: Vinoba Bhave, 2nd: Jawaharlal Nehru, 3rd: Brahma Dutt; designed to express free speech against war without disrupting Britain's anti-fascist war effort. |
 
 
 ## UP Focus
@@ -6005,254 +6015,5691 @@ the Movements were merged together.
 
 </details>
 
-## Ghatnachakra Extra Drill — Non-Cooperation, Swaraj Party, Simon–Nehru
+## Complete PYQ Bank — Ghatnachakra Formation of Swaraj Party (1923) (22 Questions)
 
-Teaching sits in **13.7, 13.9–13.11**.
+---
 
-**Q15. UPPCS / BPSC / IAS**
+**Q-GC-SP-1. Ghatna Chakra PYQ**
 
-Who moved the Non-Cooperation resolution at the Nagpur session of Congress?
+For which of the following reason/reasons, Swaraj
+party founded in India –
+1. Withdraw of non-cooperation movement by
+Mahatma Gandhi.
 
-A. Mahatma Gandhi
+<details><summary>Show answer</summary>
 
-B. C.R. Das
+**Answer: Pending**
 
-C. Motilal Nehru
-
-D. Lala Lajpat Rai
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Nagpur NCM resolution moved by C.R. Das; withdrawal after Chauri Chaura.
-
-**Ans: B.** **C.R. Das** at Nagpur. NCM withdrawn after **Chauri Chaura**. **Dr Moonje** censured the withdrawal. Tagore called cloth-burning a **ruthless waste**.
-
-</details>
-
-**Q16. UPPCS / IAS**
-
-The Swaraj Party was founded by:
-
-A. Gandhi and Nehru
-
-B. C.R. Das and Motilal Nehru
-
-C. Tilak and Besant
-
-D. Bose and Patel
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Swaraj Party = C.R. Das and Motilal Nehru (Jan 1923).
-
-**Ans: B.** **C.R. Das** (Deshbandhu) and **Motilal Nehru**. First Indian President of the Central Legislative Assembly often keyed: **Vithalbhai Patel**.
-
-</details>
-
-**Q17. UPPCS / BPSC**
-
-The Simon Commission was boycotted mainly because:
-
-A. It recommended dyarchy
-
-B. It had no Indian member
-
-C. It supported Partition
-
-D. It cancelled the Rowlatt Act
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Simon Commission boycott — all-white / no Indian member.
-
-**Ans: B.** All-British commission (**1927** announce / **1928** arrival). Independence for India League: **Jawaharlal Nehru and Subhas Bose**.
+**Explanation:**
+See official answer key.
 
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Lahore, Purna Swaraj and Civil Disobedience
+**Q-GC-SP-2. Ghatna Chakra PYQ**
 
-Teaching sits in **13.12–13.14**.
+Entering in the council and resection the
+Government of India’s Act of 1919 by don’t let
+them work.
 
-**Q18. IAS / UPPCS / BPSC / UKPCS**
+<details><summary>Show answer</summary>
 
-Who proposed the idea of complete independence at the Ahmedabad Congress session of 1921?
+**Answer: Pending**
 
-A. Jawaharlal Nehru
-
-B. Subhas Chandra Bose
-
-C. Hasrat Mohani
-
-D. C.R. Das
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Complete independence definition at Ahmedabad 1921 = Hasrat Mohani.
-
-**Ans: C.** **Hasrat Mohani** (Ahmedabad **1921**). Lahore **1929** President = **Jawaharlal Nehru** (Purna Swaraj).
-
-</details>
-
-**Q19. UPPCS / IAS**
-
-Who hoisted the tricolour on the banks of the Ravi at midnight on 31 December 1929?
-
-A. Mahatma Gandhi
-
-B. Jawaharlal Nehru
-
-C. Subhas Chandra Bose
-
-D. Sardar Patel
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Flag on Ravi bank midnight 31 Dec 1929 = Nehru; 26 Jan 1930 = Purna Swaraj Day.
-
-**Ans: B.** **Nehru** at Lahore. **26 January 1930** was observed as **Purna Swaraj Day** before Independence.
-
-</details>
-
-**Q20. UPPCS / BPSC**
-
-The Dandi March began on:
-
-A. 26 January 1930
-
-B. 12 March 1930
-
-C. 6 April 1930
-
-D. 5 March 1931
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dandi 12 Mar → 6 Apr 1930; after arrest Abbas Tyabji then Sarojini; Webb Miller at Dharasana.
-
-**Ans: B.** **12 March → 6 April 1930** (salt law broken). After Gandhi’s arrest: **Abbas Tyabji**, then **Sarojini Naidu**. Dharasana reporter: **Webb Miller**.
-
-</details>
-
-**Q21. UPPCS / UKPCS**
-
-Who founded the Khudai Khidmatgar (Red Shirt) movement?
-
-A. Khan Abdul Ghaffar Khan
-
-B. Maulana Azad
-
-C. Hasrat Mohani
-
-D. Muhammad Ali
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Red Shirts = Abdul Ghaffar Khan; Peshawar refuse-to-fire = Chandra Singh Garhwali.
-
-**Ans: A.** **Abdul Ghaffar Khan**. At Peshawar, **Chandra Singh Garhwali** is remembered for refusing to fire on satyagrahis.
+**Explanation:**
+See official answer key.
 
 </details>
 
 ---
 
-## Ghatnachakra Extra Drill — Gandhi–Irwin, Karachi, RTC, Poona Pact
+**Q-GC-SP-3. Ghatna Chakra PYQ**
 
-Teaching sits in **13.15–13.17**.
+Repression by the British Government.
 
-**Q22. UPPCS / IAS / BPSC**
+<details><summary>Show answer</summary>
 
-The Gandhi–Irwin Pact was signed on:
+**Answer: Pending**
 
-A. 26 January 1930
-
-B. 5 March 1931
-
-C. 16 August 1932
-
-D. 24 September 1932
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gandhi–Irwin Pact = 5 March 1931; mediators Sapru and Jayakar; “Two Mahatmas” = Sarojini Naidu.
-
-**Ans: B.** **5 March 1931**. Mediators: **Tej Bahadur Sapru** and **M.R. Jayakar**. “Two Mahatmas” phrase: **Sarojini Naidu**.
-
-</details>
-
-**Q23. UPPCS / BPSC**
-
-Who was the President of the Karachi session of Congress (1931)?
-
-A. Jawaharlal Nehru
-
-B. Vallabhbhai Patel
-
-C. Abul Kalam Azad
-
-D. Rajendra Prasad
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Karachi 1931 President = Patel; FR resolution draft Nehru (with M.N. Roy stream).
-
-**Ans: B.** **Vallabhbhai Patel**. Fundamental Rights / NEP resolution draft stream: **Nehru** (with **M.N. Roy** association in keys).
-
-</details>
-
-**Q24. UPPCS / IAS**
-
-Gandhi attended which Round Table Conference(s)?
-
-A. First only
-
-B. Second only
-
-C. First and Second
-
-D. All three
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gandhi attended only the Second RTC; stayed at Kingsley Hall; ship S.S. Rajputana.
-
-**Ans: B.** **Second RTC only**. London stay: **Kingsley Hall** (ship **S.S. Rajputana**). **Ambedkar** (and often **Sapru**) attended all three.
-
-</details>
-
-**Q25. UPPCS / BPSC**
-
-The Communal Award was announced by Ramsay MacDonald on:
-
-A. 5 March 1931
-
-B. 16 August 1932
-
-C. 24 September 1932
-
-D. 26 January 1930
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Communal Award MacDonald 16 Aug 1932; Poona Pact seats ~71→148; Harijan Sevak first President G.D. Birla.
-
-**Ans: B.** **16 August 1932**. Poona Pact followed (**24 September 1932**); reserved seats memory often **~71 → 148**. Harijan Sevak Sangh first President: **G.D. Birla**.
+**Explanation:**
+See official answer key.
 
 </details>
 
 ---
+
+**Q-GC-SP-4. U.P Lower Sub.(Pre) 1998**
+
+It is believed by the Indian’s that they should feel
+the experience of administration.
+Code :
+
+- (a) only 1 (b) 1 and 2
+
+- (c) 1, 2 and 3 (d) 1, 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+*Legislative Assemblies both at Central and Provincial levels
+
+which were established by the Government of India Act,
+
+1919 were boycotted by the Congress on the directions of
+
+Gandhiji and they didn't contest the elections of 1920. An
+
+atmosphere of hopelessness was created with the withdrawal
+
+of Non-Cooperation Movement and the arrest of Gandhiji.
+
+Suspension of the Non-Cooperation Movement led to a
+
+split within Congress in the Gaya session of the Congress
+
+in December, 1922 A.D. Leaders like Motilal Nehru and
+
+Chittaranjan Das formed a separate group within the Congress
+
+known as the Swaraj Party in January, 1923 A.D. The
+
+Swarajists wanted to contest the Council elections and wreck
+
+the Government from within. Elections to Legislative Councils
+
+were held in November, 1923 A.D. The Swaraj Party did several
+
+significant things in the Legislative Council. It demanded the
+
+setting up of responsible Government in India with the necessary
+
+changes in the Government of India Act of 1919 A.D.
+
+2. Who among the following resigned from the presidency
+
+of the Congress for making Swaraj Party?
+
+(a) C.R.Das (b) Motilal Nehru
+
+(b) Vithalbhai Patel (d) Pherozeshah Mehta
+
+U.P. P.C.S. (Spl) (Pre) 2004
+
+Ans. (a)
+
+See the explanation of above question.
+
+3. Swaraj Party was formed after the failure of the :
+
+(a) Non-Cooperation Movement
+
+(b) Quit India Movement
+
+(c) Civil Disobedience Movement
+
+(d) Swadeshi Movement
+
+43rd B.P.S.C. (Pre) 1999
+
+Ans. (a)
+
+Swaraj Party was formed by the leaders like Motilal Nehru
+
+and Chittaranjan Das in 1923 A.D. after the failure of the
+
+Non-Cooperation Movement.
+
+4. Swaraj Party was formed following the failure of:
+
+(a) Non-Cooperation Movement
+
+(b) Civil Disobedience Movement
+
+(c) Rowlatt Bill Satyagraha
+
+(d) Champaran Satyagraha
+
+(e) None of the above/More than one of the above
+
+60th to 62nd B.P.S.C. (Pre) 2016
+
+Ans. (a)
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SP-5. U.P Lower Sub.(Pre) 1998 / Uttarakhand P.C.S. (Pre) 2002 / M.P. P.C.S. (Pre) 2006 / Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+Swaraj Party was formed by:
+
+- (a) Bal Gangadhar Tilak and Mahatma Gandhi
+
+- (b) Bipin Chandra Pal and Lala Lajpat Rai
+
+- (c) C.R.Das and Moti Lal Nehru
+
+- (d) Sardar Patel and Rajendra Prasad
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SP-6. 66th B.P.S.C. (Pre) 2020**
+
+Who established Swaraj Party in 1923?
+
+- (a) Mahatma Gandhi
+
+- (b) Vallabhbhai Patel
+
+- (c) C.R. Das and Motilal Nehru
+
+- (d) B.R. Ambedkar
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SP-7. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+‘Swaraj Dal’ was founded by –
+
+- (a) Tilak and Chittaranjan Das
+
+- (b) Gandhi and Motilal Nehru
+
+- (c) Gandhi and Tilak
+
+- (d) Chittaranjan Das and Motilal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SP-8. U.P.P.C.S. (Pre) 1998**
+
+Who among the following were associated with the
+formation of ‘Swaraj Party’?
+1. Subhash Chandra Bose
+2. C.R. Das
+3. Jawaharlal Nehru
+4. Motilal Nehru
+Select the correct answer from the codes given below:
+Code :
+
+- (a) 1, 2, 3 and 4 (b) 1, 2 and 3
+
+- (c) 2 and 3 (d) 2 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SP-9. U.P.P.C.S. (Pre) 2016**
+
+What was the name of the party formed by Motilal
+Nehru and C.R. Das in 1923 A.D.?
+
+- (a) Independence Party (b) Ghadar Party
+
+- (c) Swaraj Party (d) Indian National Party
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SP-10. U.P. P.C.S. (Pre) 1993 / U.P. P.C.S. (Pre) 1991**
+
+Motilal Nehru was the leader of Swaraj Party. Who of
+the following was not in the Party?
+
+- (a) Srinivas Iyer (b) Chittaranjan Das
+
+- (c) Vithalbhai Patel (d) C. Rajagopalachari
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Rajagopalachari was not a member of Swaraj Party. After
+
+the Non-Cooperation Movement, Congress was divided
+
+into two groups- the pro-changers and the no-changers. The
+
+pro-changers wanted to enter the legislatures. They were
+
+led by C. R. Das, Motilal Nehru, and Vithalbhai Patel. The
+
+no-changers wanted to boycott the legislatures. They were
+
+led by Vallabhbhai Patel, C Rajagopalachari, and Rajendra
+
+Prasad. The pro-changers formed the Swaraj Party in AD
+
+1923 A.D. Srinivas Iyengar and N.C. Kelkar were other
+
+important leaders of Swaraj Party. The biggest achievement
+
+for Swaraj Party was that Vithal Bhai Patel’ was elected as
+
+Central Legislative Assembly Speaker. So it is clear that C.
+
+Rajagopalachari was not a member of Swaraj Party.
+
+</details>
+
+---
+
+**Q-GC-SP-11. U.P.P.C.S. (Mains) 2014**
+
+Who one of the following was not associated with
+Swaraj Party?
+
+- (a) Motilal Nehru (b) C.R. Das
+
+- (c) N.C. Kelkar (d) Rajendra Prasad
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Swaraj Party was formed in 1923 AD by C.R.Das and
+
+Motilal Nehru. N.C. Kelkar was also associated with Swaraj
+
+Party but Dr. Rajendra Prasad was the follower of Mahatma
+
+Gandhi; thus he was not a member of Swaraj Party.
+
+</details>
+
+---
+
+**Q-GC-SP-12. 65th B.P.S.C. (Pre) 2019**
+
+Who established Swaraj Dal in Bihar?
+
+- (a) Shri Krishna Singh
+
+- (b) Ramlal Shah
+
+- (c) Bankim Chandra Mitra
+
+- (d) Sachindra Nath Sanyal
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+A branch of Swaraj Dal was formed in Bihar which was led
+
+by Sri Krishna Singh.
+
+</details>
+
+---
+
+**Q-GC-SP-13. R.A.S./R.T.S. (Pre) 2018**
+
+Choose the correct chronological order of the following
+events :
+(i) Lucknow Pact
+(ii) Formation of Swaraj Party
+(iii)Jallianwala Massacre
+(iv) Death of Bal Gangadhar Tilak
+Select the answer from the following.
+Code :
+
+- (a) (i), (iv), (iii) & (iv) (b) (iv), (iii), (i) & (ii)
+
+- (c) (i), (iii), (iv) & (ii) (d) (i), (ii), (iii) & (iv)
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The correct chronological order of the following events
+
+follows as :
+
+Lucknow Pact – 1916 A.D.
+
+Jallianwala Massacre – 1919 A.D.
+
+Death of Bal Gangadhar Tilak – 1920 A.D.
+
+Formation of Swaraj Party – 1923 A.D.
+
+Thus option (c) will be correct answer
+
+</details>
+
+---
+
+**Q-GC-SP-14. U.P.P.C.S. (Pre) 2017**
+
+Who among the following supported Swaraj Party
+in Central Legislative Assembly in pre-independent
+India?
+
+- (a) M.A. Jinnah
+
+- (b) Maulana Abul Kalam Azad
+
+- (c) Dr. Rajendra Prasad
+
+- (d) Jawaharlal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In the November, 1923 A.D. elections the Swarajists had
+
+managed to win 42 out of 104 elected seats and a clear
+
+majority in the provincial assemblies of central provinces
+
+and legislatures had joined hand with the liberals and the
+
+independents like Jinnah and Malviya.
+
+</details>
+
+---
+
+**Q-GC-SP-15. U.P.P.C.S. (Mains) 2006**
+
+Who of the following is known as ‘Deshbandhu’?
+
+- (a) Chandra Shekhar (b) Chitranjan Das
+
+- (c) A.O. Hume (d) Annie Besant
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Chittaranjan Das, a revolutionary freedom fighter, was
+
+endearingly called ‘Deshabandhu’ (Friend of the Nation).
+
+Das was a lawyer by profession and made a name for
+
+himself when he returned to India after finishing his studies
+
+abroad, took up a law practice and defended Sri Aurobindo
+
+Ghosh in a court suit filed against him. After the failure of
+
+the Non-Cooperation Movement, he became disillusioned
+
+and proposed a strategy to end dyarchy, but Congress did
+
+not accept it. He formed his own party Swaraj Party along
+
+with Motilal Nehru.
+
+</details>
+
+---
+
+**Q-GC-SP-16. 42nd B.P.S.C. (Pre) 1997**
+
+The famous slogan ‘Swaraj should be for common
+people not only for classes’ was given by-
+
+- (a) C.R. Das (b) C. Rajagopalachari
+
+- (c) Motilal Nehru (d) Gopi Nath Saha
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The famous slogan ‘Swaraj should be for common people
+
+not only for classes ’ was given by C.R.Das. He wanted
+
+“Swaraj for the masses, not for the classes.” To him, “Swaraj
+
+is government by the people and for the people.”
+
+</details>
+
+---
+
+**Q-GC-SP-17. I.A.S. (Pre) 2003**
+
+When Congress leaders condemned the MontaguChelmsford Report, many moderates left the party to
+form the:
+
+- (a) Swarajya Party
+
+- (b) Indian Freedom Party
+
+- (c) Independence Federation of India
+
+- (d) Indian Liberal Federation
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+At the end of World War I, the British Government formulated
+
+a scheme of reforms which was known as the MontagueChelmsford Reforms. It was embodied in the Government
+
+of India Act, 1919. Surendranath Banerjee and other Liberal
+
+leaders of congress welcomed Montague-Chelmsford
+
+reforms. The Liberal leaders disassociated from congress
+
+and created All Indian Liberal Federation.
+
+</details>
+
+---
+
+**Q-GC-SP-18. 68th B.P.S.C. (Pre) 2022**
+
+The Congress took a critical stand over the Montford
+Reforms in 1918, which led to break up with the old
+moderate remnants (Sapru, Jayakar and Chintamani)
+who formed the
+
+- (a) Indian National Liberal Federation
+
+- (b) Servants of India Society
+
+- (c) Swaraj Party
+
+- (d) More than one of the above
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+When the Montford Reforms report was made public in
+
+1918 A.D., congress got divided over it. The moderate
+
+accepted it while extremists opposed it. This resulted in a
+
+schism in the Congress with moderate leaders forming the
+
+'Indian National Liberal Federation' in the year 1918 A.D.
+
+The party was founded by Surendra Nath Banerjee and T.B.
+
+Sapru, V.S. Srinivas Sastri and M.R. Jayakar were among
+
+its prominent leaders.
+
+</details>
+
+---
+
+**Q-GC-SP-19. U.P. P.C.S. (Mains) 2006**
+
+Who among the following decided to launch the
+Independent Party on 16 December, 1922? Select the
+correct answer from the codes given below:
+1. Lala Har Dayal
+2. Madan Mohan Malviya
+3. Mohammed Ali Jinnah
+4. Moti Lal Nehru
+Code :
+
+- (a) 1 and 2 (b) 2 and 3
+
+- (c) 3 and 4 (d) 2 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+On 16 December, 1922 A.D., Madan Mohan Malviya and
+
+Motilal Nehru decided to launch the Independent Party.
+
+Madan Mohan Malviya was the founding member of Hindu
+
+Mahasabha. He founded Benaras Hindu University in 1916
+
+A.D. Motilal Nehru and C.R. Das founded the Swaraj Party.
+
+</details>
+
+---
+
+**Q-GC-SP-20. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+Who was the first Indian Speaker in the Central
+Legislative Assembly?
+
+- (a) Sir Hari Singh Gaur
+
+- (b) Vithal Bhai J. Patel
+
+- (c) Vallabh Bhai J. Patel
+
+- (d) Purushottam Das Tandon
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Vithal Bhai Patel was the first Indian speaker in the Central
+
+Legislative Assembly who became its president in 1925 A.D.
+
+He was also the co-founder of the Swaraj Party.
+
+</details>
+
+---
+
+**Q-GC-SP-21. U.P.P.C.S. (Pre) 2012**
+
+The National Leader who was elected President
+(Speaker) of the Central Legislative Assembly in 1925
+was :
+
+- (a) Motilal Nehru (b) C.R. Das
+
+- (c) Vallabhbhai Patel (d) Vitthalbhai Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SP-22. U.P.R.O./A.R.O. (Pre) 2016**
+
+Who among the following was the President of the
+Central Legislative Assembly in August 1925?
+
+- (a) C. R. Das (b) Motilal Nehru
+
+- (c) M.R. Jayakar (d) Vithal Bhai Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Vithal Bhai Patel was elected the President of the Central
+
+Assembly in August 1925 A.D. He was one of the co-founder
+
+of the Swaraj Party.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Simon Commission (1927) (22 Questions)
+
+---
+
+**Q-GC-SC-1. U.P.P.C.S. (Pre) 1996 / 38th B.P.S.C. (Pre) 1992**
+
+When did Simon Commission visit India?
+
+- (a) 1927 (b) 1928
+
+- (c) 1929 (d) 1931
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Montagu-Chelmsford reform (Government of India Act).
+
+1919 provided for a Statutory Commission to review its
+
+working. Simon Commission was appointed in November,
+
+1927 A.D. by the British Conservative Government under
+
+Stanley Baldwin to report on the working of the Indian
+
+Constitution established by the Government of India Act of
+
+1919. The Commission consisted of seven members under
+
+the chairmanship of Sir John Simon. The commission did
+
+not consist of any Indian member, so Indians opposed and
+
+boycotted the commission calling it as ‘White Commission.’
+
+Simon Commission reached Bombay on February 3, 1928 A.D.
+
+</details>
+
+---
+
+**Q-GC-SC-2. I.A.S. (Pre) 2013**
+
+The people of India agitated against the arrival of
+Simon Commission because :
+
+- (a) Indians never wanted the review of the working of
+the Act of 1919
+
+- (b) Simon Commission recommended the abolition of
+Dyarchy (Diarchy) in the Provinces
+
+- (c) There was no Indian member in the Simon Commission
+
+- (d) The Simon Commission suggested the partition of the
+country
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SC-3. Uttarakhand P.C.S. (Mains) 2002**
+
+Simon Commission was appointed in:
+
+- (a) 1925 (b) 1927
+
+- (c) 1928 (d) 1930
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SC-4. U.P. P.C.S. (Pre) 1990**
+
+Simon Commission in 1928 came to India with the
+purpose –
+
+- (a) To consider Administrative reform
+
+- (b) To improve Education
+
+- (c) To improve Agricultural sector
+
+- (d) To evaluate Military capacity
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SC-5. U.P.P.C.S. (Pre) 2004 / U.P.P.C.S. (Mains) 2003 / I.A.S. (Pre) 1998**
+
+Simon Commission of 1927 was boycotted because:
+
+- (a) Congress felt that the people of India are entitled to
+Swaraj
+
+- (b) There was no Indian member in the Commission
+
+- (c) It supported the Muslim League
+
+- (d) There were differences among the members
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-SC-6. U.P.P.C.S. (Mains) 2013**
+
+Who among the following members of Simon
+Commission belonged to Liberal Party?
+
+- (a) Sir John Simon (b) Major Attlee
+
+- (c) Stephen Walsh (d) Viscount Burnham
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Chairman of Simon Commission, Sir John Simon
+
+belonged to Liberal Party while Clement Attlee (Prime
+
+Minister at the time of India’s freedom) was the member of
+
+Labour Party.
+
+</details>
+
+---
+
+**Q-GC-SC-7. U.P. Lower Sub. (Pre) 2013**
+
+On whose suggestions were the Indians kept out of the
+Simon Commission?
+
+- (a) Lord Reading (b) Lord Chelmsford
+
+- (c) Sir John Simon (d) Lord Irwin
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Indians were kept out of the Simon Commission on the
+
+suggestion of Lord Irwin. Simon Commission reached India
+
+in 1928 A.D. None of the members of this Commission was
+
+Indian. Thus, Indians opposed the Commission calling it a
+
+‘White Commission.’
+
+</details>
+
+---
+
+**Q-GC-SC-8. U.P.P.C.S. (Pre) 2010 / U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010 / U.P.P.C.S. (Mains) 2010**
+
+Assertion
+
+- (A)  : The Congress boycotted the Simon
+Commission.
+Reason (R) : The Simon Commission did not have
+a single Indian member.
+Select the correct answer by using the code given below:
+
+- (a) Both (A) and (R) are true, and (R) is the correct
+explanation of
+
+- (A) .
+
+- (b) Both (A) and (R) are true, and (R) is not the correct
+explanation of
+
+- (A) .
+
+- (c) (A) is true, but (R) is false.
+
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Congress and other Indians opposed the Simon Commission
+
+as it did not have any Indian member. Thus, both (A) and (R)
+
+are true and (R) is the correct explanation of (A).
+
+</details>
+
+---
+
+**Q-GC-SC-9. U.P.P.C.S. (Mains) 2005**
+
+Which of the following statements are true about the
+Simon Commission? Select the correct answer from
+the codes given below the statements:
+1. It was appointed to inquire into the working of the
+1919 Act.
+2. It was headed by Sir John Simon.
+3. It recommended a Federal Form of Government.
+4. It was opposed by the Indian leaders
+Code :
+
+- (a) 1 and 2 only (b) 1, 2 and 3 only
+
+- (c) 2, 3and 4 only (d) All the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Montagu-Chelmsford reform (Government of India act, 1919)
+
+provided for a Constitutional Commission to review its working
+
+and operations. The Government of India Act, 1919 was
+
+passed on the basis of recommendations of Lord Chelmsford
+
+and Samuel Montagu to introduce self-governing institutions
+
+gradually to India. For this purpose, Simon Commission was
+
+appointed in November, 1927 AD by the British Conservative
+
+Government under Stanley Baldwin to report on the working
+
+of the Indian Constitution established by the Government
+
+of India Act of 1919. The Commission consisted of seven
+
+members under the chairmanship of Sir John Simon.
+
+None of the members of this Commission was Indian thus
+
+Indian leaders opposed the Commission saying it ‘White
+
+Commission.’ Simon Commission advocated reconstitution
+
+of Central legislature with a federal character instead of a
+
+unitary character and its members should be elected from
+
+provincial legislature indirectly. Simon Commission reached
+
+Bombay on February 3, 1928 A.D. on that day Countrywide
+
+strike was held.
+
+</details>
+
+---
+
+**Q-GC-SC-10. I.A.S. (Pre) 2010**
+
+With reference to Simon Commission’s recommendations, which one of the following statements is correct?
+
+- (a) It recommended the replacement of diarchy with
+responsible Government in the provinces.
+
+- (b) It proposed the setting up of inter-provincial council
+under the Home Department
+
+- (c) It suggested the abolition of bicameral legislature at
+the centre
+
+- (d) It recommended the creation of Indian Police Service
+with a provision for increased pay and allowances for
+British recruits as compared to Indian recruits
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Government of India Act 1919 had introduced the system
+
+of diarchy to govern the provinces of British India. This Act
+
+had a provision that a Commission would be appointed after
+
+10 years to investigate the progress of the Governance scheme
+
+and suggest new steps for reform. The other statements in
+
+context to Simon Commission are incorrect.
+
+</details>
+
+---
+
+**Q-GC-SC-11. U.P. R.O./A.R.O. (Pre) 2023**
+
+Consider the following statements with reference to
+Simon Commission
+1. It made two visits to India.
+2. Its second visit was from October 11, 1929 to April
+13, 1930.
+Select the correct answer the code given below :
+Code -
+
+- (a) Only 1 (b) Only 2
+
+- (c) Neither 1 nor 2 (d) Both 1 and 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Simon Commission visited India twice. From 3 February to
+
+31st March, 1928 A.D. for first time and for the second time,
+
+from 11 October 1928 A.D. to 13 April 1929. Hence second
+
+statement is wrong.
+
+</details>
+
+---
+
+**Q-GC-SC-12. U.P. P.C.S. (Spl.) (Pre) 2004 / U.P. P.C.S. (Pre) 1993**
+
+Lala Lajpat Rai was injured-
+
+- (a) In lathi charge in protest to Simon Commission
+
+- (b) In lathi charge in protest to Rowlett Act
+
+- (c) In lathi charge in protest to Quit India Movement
+
+- (d) In lathi charge in protest to Government of India Act
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In 1927, the British Government in England decided to send
+
+a commission headed by Sir John Simon to decide India’s
+
+political future. The commission had no Indian representative.
+
+This decision created an outrage in India. Indian National
+
+Congress in its Madras session of December, 1927 A.D.
+
+decided to boycott the Commission. When the Commission
+
+arrived, it met with demonstrations with banners saying “Simon
+
+! Go Back.” In 1928 A.D., when the Simon Commission visited
+
+Lahore, Lala Lajpat Rai led a non-violent protest against it.
+
+The police struck back with lethal force, carrying out a lathi
+
+charge. Lala Lajpat Rai suffered severe injuries in the police
+
+assault and eventually died in November, 1928.
+
+</details>
+
+---
+
+**Q-GC-SC-13. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+To whom was the title of “Punjab Kesari” conferred?
+
+- (a) Bhagat Singh (b) Ranjeet Singh
+
+- (c) Lala Lajpat Rai (d) Lala Hardayal
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Lala Lajpat Rai is also known as ‘Punjab Kesari’ was one
+
+of the major political leaders of Punjab who led freedom
+
+movement against British rule.
+
+</details>
+
+---
+
+**Q-GC-SC-14. M.P.P.C.S. (Pre) 2008**
+
+Assertion
+
+- (A)  : Protest, led by Lala Lajpat Rai, was
+organized in Lahore in 1928 against
+Simon Commission.
+Reason (R) : Simon Commission did not have a
+single Indian member in it.
+
+- (a) Both (A) and (R) are individually true, and (R) is the
+correct explanation of
+
+- (A) .
+
+- (b) Both (A) and (R) are individually true, but (R) is not
+correct explanation of
+
+- (A) .
+
+- (c) (A) is true, but (R) is false.
+
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In 1927, the British Government in England decided to send a
+
+commission headed by Lord Simon to decide India’s political
+
+future. On February 3, 1928 A.D. Simon Commission reached
+
+Bombay. The Commission had no Indian representative. The
+
+decision created an outrage in India. All political groups
+
+decided to boycott the Commission. When the Commission
+
+arrived, it met with demonstrations with banners reading
+
+“Simon ! Go Back.” Lala Lajpat Rai led the protest against the
+
+Commission at Lahore. During this, he got severely injured
+
+in the lathi-charge carried out by the police and died on
+
+November 17, 1928. Thus, both (A) and (R) are individually
+
+correct and (R) is the correct explanation of (A).
+
+</details>
+
+---
+
+**Q-GC-SC-15. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+‘Nehru Report’ was prepared by –
+
+- (a) M.L. Nehru (b) J. L. Nehru
+
+- (c) R.K. Nehru (d) B. L. Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Nehru Report (1928 A.D.) which demanded dominion status
+
+for India was prepared in response to the Simon Commission
+
+(1927 A.D.). Motilal Nehru was the Chairman of All-Party
+
+Committee preparing this report. Jawaharlal Nehru was the
+
+Secretary of this Committee. Two Muslims, including 9 other
+
+people were the members of this Committee.
+
+</details>
+
+---
+
+**Q-GC-SC-16. U.P.P.C.S. (Pre) 2013**
+
+Who among the following had demanded first the
+dominion status for India?
+
+- (a) Rajagopalachari and Sardar Patel
+
+- (b) Pt. Motilal Nehru and Govind Ballabh Pant
+
+- (c) Sir Tej Bahadur Sapru and Jaykar
+
+- (d) Jawaharlal Nehru and Jagjeevanram
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Pt. Motilal Nehru in March, 1926 A.D. demanded to call
+
+a representative conference to form a Constitution for
+
+Dominion status of India. However, the name of Govind
+
+Ballabh Pant has been mentioned with his (Pt. Motilal Nehru)
+
+name in the given option who was not related to it. Thus
+
+option (c) will be the correct answer because Tej Bahadur
+
+Sapru and Jaykar was the members of the Committee to
+
+prepare ‘Nehru Report.’
+
+</details>
+
+---
+
+**Q-GC-SC-17. I.A.S. (Pre) 2011**
+
+With reference to the period of Indian freedom struggle,
+which of the following was/were recommended by the
+‘Nehru Report’?
+1. Complete Independence of India.
+2. Joint electorates for reservation of seats for
+minorities.
+3. Provision of fundamental rights for the people of
+India in the Constitution.
+Select the correct answer using the codes given below?
+
+- (a) 1 only (b) 2 and 3
+
+- (c) 1 and 3 (d) 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Nehru report (1928 A.D.) recommended for the Dominion
+
+status of India in place of Complete Independence. It did
+
+not provide for separate electorates for any community or
+
+weightage for minorities. As regards the communal problem,
+
+the report recommended joint electorates with reservation
+
+of seats for minorities. The report also defined the provision
+
+of Fundamental Rights including the right to give a speech,
+
+organize meetings and make Organization. Thus, statement
+
+(1) is incorrect while the statement (2) and (3) are correct.
+
+</details>
+
+---
+
+**Q-GC-SC-18. U.P. Lower (Spl) (Pre) 2008**
+
+Who amongst the following was responsible for the
+formation of the Independence of India League in 1928?
+1. Jawahar Lal Nehru
+2. Subhash Chandra Bose
+3. Acharya Narendra Dev
+4. Jaya Prakash Narayan
+Choose your answer from the given code –
+Code :
+
+- (a) 1,2 and 3 (b) 2,3 and 4
+
+- (c) 1 and 2 (d) 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Jawaharlal Nehru and Subhash Chandra Bose jointly founded
+
+‘Independence for India League’ in 1928 with the purpose
+
+to articulate for complete Independence ahead of Dominion
+
+state. Independence League played an important role to unite
+
+progressive powers against the British rule.
+
+</details>
+
+---
+
+**Q-GC-SC-19. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Fill in the blanks:
+The Nehru Report was drafted by a Committee headed
+by ........ and the subject was ............. .
+
+- (a) Motilal Nehru and Jawaharlal Nehru; India’s
+relationship with the British Empire
+
+- (b) Jawaharlal Nehru; Local Self-Government in India
+
+- (c) Motilal Nehru; Constitutional arrangements in India
+
+- (d) Jawaharlal Nehru; Constitutional arrangements in
+India
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Nehru Report was drafted by a committee headed
+
+by Motilal Nehru and the subject was Constitutional
+
+arrangements in India.
+
+</details>
+
+---
+
+**Q-GC-SC-20. U.P.P.C.S. (Mains) 2015**
+
+In which of the following sessions of Muslim League,
+M.A. Jinnah put forth his 14 point proposal?
+
+- (a) 1927 (b) 1928
+
+- (c) 1929 (d) 1930
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Fourteen Points proposal to protest Nehru Report was
+
+proposed by Muhammad Ali Jinnah in March, 1929 as
+
+Constitutional reform plan to safeguard the political rights
+
+of Muslims in a self-governing India.
+
+</details>
+
+---
+
+**Q-GC-SC-21. I.A.S. (Pre) 1995**
+
+The radical wing of the Congress Party with
+Jawaharlal Nehru as one of its main leaders founded
+the independence for India League in opposition to
+
+- (a) The Gandhi-Irwin Pact
+
+- (b) The Home Rule Movement
+
+- (c) The Nehru Report
+
+- (d) The Montford reforms
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Youth and extremist Nationalists opposed the Nehru Report
+
+in the leadership of Jawaharlal Nehru. They demanded to
+
+adopt the complete Independence as the immediate goal. As a
+
+result Jawaharlal Nehru and Subhash Chandra Bose founded
+
+‘Independence for India League.’
+
+</details>
+
+---
+
+**Q-GC-SC-22. Chhattisgarh P.C.S. (Pre) 2016**
+
+Who of the following was the President of ‘All Parties’
+Conference held in February 1928?
+
+- (a) Motilal Nehru (b) Dr. M.A. Ansari
+
+- (c) Subhash Chandra Bose (d) M.K. Gandhi
+
+- (e) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+'All Party' Conference was held in February 1928 A.D. in
+
+Delhi. Dr. M.A. Ansari was the president of this conference.
+
+It was attended by the representatives of 29 organisations
+
+in response to the appointment of Simon commission and
+
+challenge given by lord Birkenhead the then secretary of state
+
+for India. This conference proposed to draft a constitution
+
+which provides to form a responsible government in India.
+
+Other parties besides congress in this conference were Hindu
+
+Mahasabha, Muslim League, Khilafat committee, etc.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Lahore Session of Congress, Proposal of Complete Independence (1929) (22 Questions)
+
+---
+
+**Q-GC-LS-1. I.A.S. (Pre) 2004**
+
+During the Indian Freedom Struggle, who among the
+following proposed that Swaraj should be defined as
+Complete Independence free from all foreign control?
+
+- (a) Mazharul Haque
+
+- (b) Maulana Hasrat Mohani
+
+- (c) Hakim Ajmal Khan
+
+- (d) Abul Kalam Azad
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Maulana Hasrat Mohani in Ahmedabad Session of 1921
+
+A.D. proposed that the Swaraj should be defined as complete
+
+Independence, free from all foreign control and should be
+
+considered the goal of the Congress. C.R. Das was elected
+
+as the President of Congress’s Ahmedabad Session of 1921,
+
+but the session was presided over by Hakim Ajmal Khan as
+
+C.R. Das was in jail.
+
+</details>
+
+---
+
+**Q-GC-LS-2. I.A.S. (Pre) 2001**
+
+Who among the following leaders proposed to adopt
+Complete Independence as the goal of the Congress in
+the Ahmedabad session of 1921?
+
+- (a) Abul Kalam Azad
+
+- (b) Hasrat Mohani
+
+- (c) Jawahar Lal Nehru
+
+- (d) Mohandas Karamchand Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-3. M.P. P.C.S. (Pre) 1996**
+
+When did the Congress pass the proposal of
+independence of India for the first time?
+
+- (a) 1929 (b) 1915
+
+- (c) 1942 (d) 1935
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Congress had given an ultimatum in its Calcutta Session
+
+(1928 A.D.) to the British Government to accept the ‘Nehru
+
+Report’ within the year or face the mass Movement to be
+
+launched by Congress. But the British Government did not
+
+notice the warning. As a result, the historic Lahore Session in
+
+the chairmanship of Jawaharlal Nehru was held in December,
+
+1929 A.D. and the proposal to India’s Independence had
+
+been declared by him for the first time. Jawaharlal Nehru on
+
+December 31, 1929 hoisted the flag of India’s Independence
+
+on the bank of Ravi river at Lahore. Congress in its meeting
+
+of January 2, 1930 decided that the ‘Complete Independence
+
+Day’ will be celebrated on January 26, 1930 and January 26,
+
+of every year, will be celebrated as ‘Purna Swadhinta Divas’
+
+</details>
+
+---
+
+**Q-GC-LS-4. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+In which Session Indian National Congress passed
+Complete Independence Resolution?
+
+- (a) 1920 A.D. Nagpur (b) 1924 A.D. Belgaon
+
+- (c) 1929 A.D. Lahore (d) 1931 A.D. Karachi
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-5. Jharkhand P.C.S. (Pre.) 2021**
+
+Before 1947, 26th January was called as
+
+- (a) Republic Day (b) Martyr's Day
+
+- (c) Constitution Day (d) Poorna Swaraj Day
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In Lahore session of Congress in 1929 A.D., proposal of
+
+Purna-Swaraj was passed. After that Jawaharlal Nehru
+
+hoisted the flag of India's independence on 31 December 1929
+
+A.D. on the bank of Ravi River at Lahore. It was decided
+
+the 26 January 1930 A.D. will be celebrated as Purna Swaraj
+
+Day and hence till 1947 A.D, 26 January was celebrated as
+
+Purna Swaraj Day.
+
+</details>
+
+---
+
+**Q-GC-LS-6. U.P. Lower Sub. (Pre) 2004 / U.P. Lower Sub. (Pre) 1999 / 42nd B.P.S.C. (Pre) 1997 / U.P. P.C.S. (Pre) 1993**
+
+The proposal of Purna-Swaraj was passed in Lahore
+Congress in the year-
+
+- (a) 1919 (b) 1929
+
+- (c) 1939 (d) 1942
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-7. 66th B.P.S.C. (Pre) 2020**
+
+Which day was declared as 'Purna Swaraj Day' by
+the Indian National Congress?
+
+- (a) 26-01-1930 (b) 15-08-1947
+
+- (c) 30-01-1948 (d) 31-12-1950
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-8. I.A.S. (Pre) 2006 / U.P.P.C.S. (Mains) 2006 / U.P.P.S.C. (Pre) 2009**
+
+Who among the following was the President of the
+Indian National Congress when the resolution of
+‘Purna Swaraj’ was passed?
+
+- (a) Dadabhai Naoroji (b) Jawaharlal Nehru
+
+- (c) Lala Lajpat Rai (d) Surendra Nath Banerjee
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-9. Uttarakhand P.C.S. (Mains) 2006**
+
+Who declared the aim of Congress as ‘Purna Swarajya’
+in the Lahore Session of Congress 1929?
+
+- (a) Mahatma Gandhi (b) Motilal Nehru
+
+- (c) Jawaharlal Nehru (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-10. U.P. Lower Sub. (Pre) 2004**
+
+Who hoisted the Indian flag at midnight of December
+31, 1929?
+
+- (a) Motilal Nehru (b) Dr. Rajendra Prasad
+
+- (c) Mahatma Gandhi (d) Jawaharlal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-11. U.P.R.O./A.R.O. (Pre) 2014**
+
+When was the newly adopted tri-colour flag of freedom
+first hoisted?
+
+- (a) 31st December, 1928 (b) 31st December, 1929
+
+- (c) 31st December, 1930 (d) 31st December, 1931
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-12. B.P.S.C. (Pre) 2018**
+
+Who raised the Flag of Independence at the Congress
+Session of 1929?
+
+- (a) Maulana Muhammad Ali
+
+- (b) Pandit Jawaharlal Nehru
+
+- (c) Vallabhbhai Patel
+
+- (d) Subhas Chandra Bose
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-13. U.P.P.C.S. (Mains) 2013**
+
+Which one of the following sessions of Indian National
+Congress was presided over by Jawaharlal Nehru for
+the first time?
+
+- (a) Lahore Session, 1929
+
+- (b) Calcutta Session, 1928
+
+- (c) Lucknow Session, 1936
+
+- (d) Ramgarh Session, 1940
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Lahore Session (1929 A.D.) of Congress was presided
+
+over by Jawaharlal Nehru (first time), and the proposal of
+
+complete Independence was passed in the Session. It was
+
+decided that every year January 26 would be celebrated as
+
+‘Purna Swadhinta Divas’
+
+</details>
+
+---
+
+**Q-GC-LS-14. I.A.S. (Pre) 2012**
+
+The Lahore Session of the Indian National Congress
+(1929) is very important in history, because –
+1. The Congress passed a resolution demanding
+complete independence.
+2. The rift between the extremists and moderates was
+resolved in that Session.
+3. A resolution was passed rejecting the two-nation
+theory in that session.
+Which of the statement (s) given above is/are correct?
+
+- (a) Only 1 (b) 2 and 3
+
+- (c) 1 and 3 (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The historic Lahore session of Indian National Congress in
+
+the chairmanship of Jawaharlal Nehru was held in December,
+
+1929 A.D. and the proposal to India’s complete independence
+
+(Purna Swaraj) had been declared by him for the first time. 
+
+The rift between extremists and moderates was resolved in
+
+1916 A.D. Lucknow session of INC. Hence statement (2) is
+
+incorrect. The two-nation theory was never opposed during
+
+Lahore Congress Session, though it was opposed by the
+
+Congress as a political party. Hence, statement (3) is also
+
+incorrect. Therefore, option (a) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC-LS-15. 67th B.P.S.C. (Pre) 2022**
+
+Who was the President of Lahore Session of the Indian
+National Congress held in 1929 AD?
+
+- (a) Vallabhbhai Patel
+
+- (b) Motilal Nehru
+
+- (c) Jawaharlal Nehru
+
+- (d) Rajendra Prasad
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-16. I.A.S. (Pre) 2014**
+
+The 1929 Session of Indian National Congress is of
+significance in the history of the Freedom Movement
+because of the :
+
+- (a) Attainment of Self-Government was declared as the
+objective of the Congress
+
+- (b) Attainment of Poorna Swaraj was adopted as the goal
+of the Congress
+
+- (c) Non-Cooperation Movement was launched
+
+- (d) Decision to participate in the Round Table Conference
+in London was taken
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-17. U.P.P.C.S. (Mains) 2011 / U.P.P.S.C. (GIC) 2010 / U.P.P.S.C. (Mains) 2008**
+
+In which one of the following Sessions of the Indian
+National Congress ‘Poorna Swaraj’ was declared the
+goal of Congress?
+
+- (a) Lahore, 1929 (b) Karachi
+
+- (c) Delhi (d) Bombay
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-18. Jharkhand P.C.S. (Pre) 2013**
+
+For the first time, Purna Swaraj was declared by the
+Congress at :
+
+- (a) Lahore (b) Amritsar
+
+- (c) Lucknow (d) Tripura
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-19. U.P. U.D.A./L.D.A. (Pre) 2010 / U.P.P.C.S. (Spl) (Mains) 2004**
+
+The President of Lahore Session of Indian National
+Congress (1929) was:
+
+- (a) Abul Kalam Azad (b) Jawaharlal Nehru
+
+- (c) Rajendra Prasad (d) Subhash Chandra Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-LS-20. U.P. U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+Which of the following was not included in the
+resolutions of Lahore Session of Congress in 1929?
+
+- (a) Declaration of India’s foreign policy
+
+- (b) Declaration of complete independence
+
+- (c) Preparing to launch civil disobedience movement
+
+- (d) Abolition of untouchability
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The resolutions proposed by Indian National Congress on
+
+December 31, 1929 AD consisted of following points-
+
+(1) There is no benefit from Round Table Conference.
+
+(2) The plan of Dominion status of India has been renunciated.
+
+(3) The word ‘Swaraj’ means Complete Independence.
+
+(4) All India Congress whenever it considers appropriate can
+
+start Civil-Disobedience Movement.
+
+Abolition of Untouchability was not mentioned in the
+
+proposal. The Round Table Conference can be considered
+
+as India’s foreign policy as the British Government only had
+
+the right to make a foreign policy of India. It was primarily
+
+passed in Congress session of 1921 A.D. that there must be
+
+a foreign policy for India.
+
+</details>
+
+---
+
+**Q-GC-LS-21. Chhattisgarh P.C.S. (Pre) 2022**
+
+Which of the following is/are not true in relation to
+Congress Annual Session in 1927?
+(i) This session was presided by Dr. M.A. Ansari.
+(ii)This session passed a resolution against sending
+Indian Army to fight war in China and Japan.
+(iii)In this session, resolution on 'Purna Swaraj' was
+adopted.
+
+- (a) (i) and (ii) (b) (ii) and (iii)
+
+- (c) Only (ii) (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The annual session of congress took place in Madras in
+
+1927 A.D., chaired by Dr. M.A. Ansari, several resolution
+
+were passed during this session, including the demand for
+
+a constitution for self rule (Swaraj), rejection of the Simon
+
+Commission and proposal related to Hindu-Muslim Unity.
+
+At this session, the Indian National Congress passed a
+
+resolution objecting to the deployment of Indian troops in
+
+China, Mesopotamia and Persia. The resolution for complete
+
+Independence (Purna Swaraj) was adopted during the
+
+congress annual session in 1929 A.D. Therefore option (b)
+
+is correct but Chhattisgarh Public Service Commission has
+
+considered option (c) correct.
+
+</details>
+
+---
+
+**Q-GC-LS-22. U.P.P.C.S. (Mains) 2009**
+
+The Poorna Swaraj Resolution adopted at the Lahore
+Session of the Indian National Congress was moved by :
+
+- (a) B.G. Tilak (b) J.L. Nehru
+
+- (c) M.K. Gandhi (d) Sardar Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Poorna Swaraj Resolution was prepared and presented
+
+by Jawaharlal Nehru at Lahore Session of Indian National
+
+Congress. During his Presidential speech, he said that
+
+‘today we have only one target, the target of Independence.
+
+Independence for us is complete Independence’. The Nehru
+
+Report was rejected in this session which only sought for
+
+Dominion status for India.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Civil Disobedience Movement (44 Questions)
+
+---
+
+**Q-GC-CDM-1. I.A.S. (Pre) 2005**
+
+At which Congress Session was the working
+committee authorized to launch a programme of Civil
+Disobedience?
+
+- (a) Bombay (b) Lahore
+
+- (c) Lucknow (d) Tripura
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Lahore Session of Indian National Congress in 1929
+
+A.D. authorized the Congress Working Committee to start
+
+the Civil Disobedience Movement. Mahatma Gandhi was
+
+assigned to lead the Movement in the second meeting of
+
+Congress Working Committee held in February, 1930 A.D.
+
+at Sabarmati Ashram.
+
+</details>
+
+---
+
+**Q-GC-CDM-2. U.P.P.C.S. (Pre) 2000**
+
+Which one of the following began with the Dandi
+March?
+
+- (a) Home Rule Movement
+
+- (b) Non-Cooperation Movement
+
+- (c) Civil Disobedience Movement
+
+- (d) Quit India Movement.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Mahatma Gandhi started his famous Dandi March
+
+accompanied by his trusted volunteers from Sabarmati
+
+Ashram on March 12, 1930 A.D. The march was over 241
+
+miles, from Gandhi’s ashram in Sabarmati to Gujarat's coastal
+
+village of Dandi. The volunteers walked for 24 days. On April
+
+5, 1930 A.D. he reached Dandi and on 6 April he violated
+
+the salt law, manufacturing salt by boiling seawater. This
+
+marked the beginning of the Civil Disobedience Movement.
+
+This Movement spread all over India under the leadership of
+
+Mahatma Gandhi. A leader like C. Rajagopalachari took up
+
+Salt March in Tamil Nadu from Trichinopoly to Vedaranyam.
+
+</details>
+
+---
+
+**Q-GC-CDM-3. M.P. P.C.S. (Pre) 2025**
+
+The date 6 April 1930 is well known in Indian history
+because this date is associated with:
+
+- (a) The Quit India Movement
+
+- (b) The Partition of Bengal
+
+- (c) The Jallianwala Bagh Massacre
+
+- (d) Dandi March by Mahatma Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-4. 44th B.P.S.C. (Pre) 2000**
+
+Dandi March was undertaken in :
+
+- (a) 1932 (b) 1931
+
+- (c) 1929 (d) 1930
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-5. Uttarakhand P.C.S. (Mains) 2006 / Uttarakhand P.C.S. (Pre) 2005**
+
+When did the ‘Dandi March’ begin?
+
+- (b) 31 December, 1929 (c) 26 January, 1930
+
+- (d) 12 March, 1930 (a) 6 April, 1930
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-6. U.P. P.C.S. (Pre) 1999 / Uttarakhand P.C.S. (Mains) 2002**
+
+Gandhiji started Dandi March from :
+
+- (a) Champaran (b) Sabarmati
+
+- (c) Bardoli (d) Dandi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-7. M.P. P.C.S. (Pre) 2021**
+
+From which ashram did Mahatma Gandhi start the
+"Dandi March"?
+
+- (a) Sabarmati (b) Pavnar
+
+- (c) Sewagram (d) Ramanandiya
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-8. 65th B.P.S.C. (Pre) 2019**
+
+In 1930, from where Mahatma Gandhi started the Civil
+Disobedience Movement?
+
+- (a) Wardha (b) Dandi
+
+- (c) Sevagram (d) Sabarmati
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+Note : Bihar Public Service Commission has marked option
+
+(d) as correct answer in its final answer key, which seems
+
+incorrect.
+
+</details>
+
+---
+
+**Q-GC-CDM-9. U.P.P.C.S. (Mains) 2013**
+
+Which one of the following provinces had the highest
+number Satyagrahis in Mahatma Gandhi’s Dandi
+March?
+
+- (a) Bihar (b) Gujarat
+
+- (c) Maharashtra (d) Bengal
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Mahatma Gandhi with his volunteers, started Dandi March
+
+from Sabarmati Ashram on March 12, 1930, to violate the Salt
+
+law at sea coast of Dandi (Gujarat). The number and names
+
+of few satyagrahi with their respective states are as followsGujrat-32, Maharashtra-13, U.P.-8, Kacch-6, Kerala-4,
+
+Punjab-3, Rajputana-3, Bombay-2 (Daudbhai and Harilal
+
+Mahimtura), Sindh-1 (Anand Hingorani), Nepal-2, Tamil
+
+Nadu-1 (Tapan Nayar), Andhra-1 (Subramanyam), Utkal-1
+
+(Motibasdas), Karnataka-1 (Mahadev Martand), Bihar-1
+
+(Girivardhari Chaudhary), Bengal-1 (Durgesh Chandra Das).
+
+</details>
+
+---
+
+**Q-GC-CDM-10. 63rd B.P.S.C (Pre.) 2017**
+
+What was the ultimate goal of Gandhiji’s Salt Satyagraha?
+
+- (a) Repeal of Salt laws
+
+- (b) Curtailment of the government’s power
+
+- (c) Economic relief to the common people
+
+- (d) ‘Purna Swaraj’ for India
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (e)**
+
+**Explanation:**
+Britain's Salt Act of 1882 prohibited Indians from collecting
+
+or selling salt. They can only buy it putting financial burden
+
+on them. Gandhiji did his Salt Satyagrah to break the salt
+
+law and thus curtailing governments' power and also putting
+
+pressure for the repeal of salt laws. Hence more than one
+
+options are correct. Purna Swaraj was not the aim of Salt
+
+Satyagrah.
+
+</details>
+
+---
+
+**Q-GC-CDM-11. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Who among the following participated in the Salt
+Satyagraha of Gandhi?
+
+- (a) Sarojini Naidu
+
+- (b) Rajkumari Amrit Kaur
+
+- (c) Kamla Devi Chattopadhyaya
+
+- (d) All of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+On March 12, 1930 A.D. Mahatma Gandhi led by selected
+
+followers started from Sabarmati Ashram on the famous salt
+
+march to Dandi beach to manufacture salt. They reached
+
+Dandi on 5th April 1930 A.D. There, Gandhiji broke the salt
+
+law, marking the launch of Civil Disobedience Movement.
+
+Women played a leading part in this movement. All
+
+the women (Sarojini Naidu, Rajkumari Amrit Kaur and
+
+Kamladevi Chattopadhyaya) given in the options participated
+
+in the Salt Satyagraha of Gandhi.
+
+</details>
+
+---
+
+**Q-GC-CDM-12. U.P.P.C.S. (Mains) 2016**
+
+In which of the following movements women’s
+participation is considered to be the maximum?
+
+- (a) Non-Cooperation Movement
+
+- (b) Salt Satyagraha
+
+- (c) Bardoli March
+
+- (d) Quit India Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Women's participated on a large scale in Civil Disobedience
+
+Movement. Though Gandhi visualised a supportive role for
+
+women, but they started getting impatient and demanded a
+
+more active role. Gandhiji chose women for a higher role in
+
+the picketing of liquor and foreign cloth shops because of
+
+their inherent capacity for non-violence. Sarojini Naidu led
+
+the raid on Dharsana Saltworks.
+
+</details>
+
+---
+
+**Q-GC-CDM-13. 65th B.P.S.C. (Pre) 2019 / I.A.S. (Pre) 1995**
+
+In 1930, Mahatma Gandhi started Civil Disobedience
+Movement from:
+
+- (a) Sevagram (b) Dandi
+
+- (c) Sabarmati (d) Wardha
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Mahatma Gandhi on March 12, 1930 A.D., with his 80
+
+volunteers started his famous Dandi March from Sabarmati
+
+Ashram to Dandi (in Navsari district of Gujarat) and violated
+
+the salt law on April 6, 1930 A.D. walking 241 miles after
+
+24 days.
+
+</details>
+
+---
+
+**Q-GC-CDM-14. U.P.P.S.C. (GIC) 2010**
+
+The Civil Disobedience Movement started with :
+
+- (a) Declaration of Home Rule
+
+- (b) Partition of Bengal
+
+- (c) Dandi March
+
+- (d) Declaration of Poorna Swaraj by the Congress
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-15. U.P. P.C.S. (Pre) 1993**
+
+Dandi March was started to-
+
+- (a) Support the salt law
+
+- (b) Break the salt law
+
+- (c) Support the Rowlatt Act
+
+- (d) Oppose the Rowlatt Act
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-16. U.P.P.C.S. (Mains) 2004**
+
+The historic “Dandi March” is associated with–
+
+- (a) Boycott of elections
+
+- (b) Violation of “Salt Law.”
+
+- (c) Hindu-Muslim Unity
+
+- (d) Abolition of untouchability
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-17. 66th B.P.S.C. (Pre) 2020**
+
+For how many days did Dandi March last?
+
+- (a) 10 days
+
+- (b) 20 days
+
+- (c) 24 days
+
+- (d) 30 days
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-18. Uttarakhand P.C.S. (Mains) 2006**
+
+Which event occurred first?
+
+- (a) Dandi March
+
+- (b) Quit India Movement
+
+- (c) Arrival of Simon Commission
+
+- (d) Gandhi-Irwin Pact
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Events Date
+
+Dandi March start - March 12, 1930 A.D.
+
+Quit India Movement start - August 9, 1942 A.D.
+
+Arrival of Simon Commission - February 3, 1928 A.D.
+
+Gandhi-Irwin Pact - March 5, 1931 A.D.
+
+</details>
+
+---
+
+**Q-GC-CDM-19. U.P.P.C.S. (Mains) 2012 / U.P. P.C.S. (Pre) 2002**
+
+The date April 6, 1930 is known in Indian history for –
+
+- (a) Dandi March of M.Gandhi.
+
+- (b) First Round Table Conference in London.
+
+- (c) Gandhi-Irwin Pact.
+
+- (d) Jallianwala Bagh Massacre.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Mahatma Gandhi initiated the Civil Disobedience Movement
+
+by taking a handful of Salt at Dandi on April 6, 1930 A.D.
+
+Subhash Chandra Bose compared the movement with the
+
+movement initiated by Napoleon from Elba to Paris.
+
+</details>
+
+---
+
+**Q-GC-CDM-20. U.P. P.C.S. (Pre) 2003 / U.P. U.D.A./L.D.A. (Pre) 2002**
+
+Assertion
+
+- (A)  : The salt agitation was launched by
+Mahatma Gandhi in 1930.
+Reason (R) : Mahatma Gandhi’s object was to make
+salt available free to the poor.
+In the context of the above statements which of the
+following is correct:
+
+- (a) Both (A) and (R) are true, and (R) is the correct
+explanation of
+
+- (A) .
+
+- (b) Both (A) and (R) are true, but (R) is not the correct
+explanation of
+
+- (A) .
+
+- (c) (A) is true, but (R) is false.
+
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+As a symbol of Civil Disobedience Movement initiated by
+
+Mahatma Gandhi, the salt law was violated on April 6, 1930
+
+A.D. Before initiating the movement, Mahatma Gandhi laid
+
+11 demands in front of Viceroy Irwin including the abolition
+
+of Salt Tax and government monopoly on salt.
+
+</details>
+
+---
+
+**Q-GC-CDM-21. U.P.R.O./A.R.O. (Mains) 2016**
+
+With reference to the Civil Disobedience Movement
+which of the following statements is/are correct?
+1. Mahatma Gandhi was not punished for violating
+the salt law.
+2. Madan Mohan Malviya, Devadas Gandhi and K.M.
+Munsi were punished for violating the salt law.
+Select the correct answer from the code given below.
+Code:
+
+- (a) 1 only (b) 2 only
+
+- (c) Both 1 and 2 (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+After the salt law breaking, Madan Mohan Malviya,
+
+Devadas Gandhi, K.M. Munsi, B.G. Kher, Mahadev Desai,
+
+C.Rajgopalachari, Vithalbhai Patel were convicted of breach
+
+of salt law while Gandhiji was arrested after he broke salt law
+
+on April 6, 1930 A.D. at Dandi (Nausari district, Gujarat).
+
+</details>
+
+---
+
+**Q-GC-CDM-22. U.P.P.C.S. (Mains) 2013**
+
+The statement:
+“I want world sympathy in this battle of Right against
+Might,” is associated with :
+
+- (a) Non-Cooperation Movement
+
+- (b) Gandhi’s Dandi March
+
+- (c) Individual Satyagraha
+
+- (d) Quit India Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Under his Salt Satyagraha, Mahatma Gandhi reached Dandi
+
+village on April 5, 1930 A.D. While addressing the domestic
+
+and foreign journalists, he said: “I want world sympathy in
+
+this battle of Right against Might.”
+
+</details>
+
+---
+
+**Q-GC-CDM-23. U.P.P.C.S. (Spl) (Mains) 2008 / U.P.P.C.S. (Spl) (Pre) 2004**
+
+Which one of the following statements is not correct
+about Mahatma Gandhi’s Dandi March?
+
+- (a) It was started from Sabarmati Ashram
+
+- (b) The march terminated at Dandi, a village beside the
+sea.
+
+- (c) Mahatma Gandhi prepared salt at the seashore.
+
+- (d) It was altogether a pedestrian march.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+After violating the salt law at sea coast of Dandi, Gandhi
+
+decided to start the Civil Disobedience Movement. Salt
+
+was a major point of the movement because the English
+
+Government had banned the selling of the salt and also
+
+imposed a tax on it, which highly affected the poor. Mahatma
+
+Gandhi started Dandi March accompanied by 80 of his trusted
+
+volunteers from Sabarmati Ashram on March 12, 1930
+
+A.D. The march was 241 miles, from Gandhi’s ashram in
+
+Sabarmati to Gujarat's coastal town of Dandi. The volunteers
+
+walked for 24 days. On April 5, 1930 A.D. he reached Dandi,
+
+and ceremonially violated the salt law on 6th April, 1930 A.D.
+
+Thus, statement (c) is incorrect.
+
+</details>
+
+---
+
+**Q-GC-CDM-24. U.P.P.C.S. (Mains) 2010**
+
+Which one of the following statements in not correct
+about Mahatma Gandhi’s Dandi March?
+
+- (a) It was an altogether a pedestrian march.
+
+- (b) It started from Sabarmati Ashram and ended at Dandi.
+
+- (c) The entire march from Sabarmati was covered in 24
+days
+
+- (d) The march was started on 15 March, 1930
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-25. U.P. P.C.S. (Mains) 2012 / U.P. U.D.A./L.D.A. (Pre) 2006 / U.P. P.C.S. (Pre) 2002**
+
+After, the arrest of Gandhiji during salt Satyagraha,
+who took his place as the leader of the movement?
+
+- (a) Abbas Taiyabji (b) Abul Kalam Azad
+
+- (c) Jawahar Lal Nehru (d) Sardar Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Abbas Taiyabji led the movement after Gandhi got arrested
+
+at Sholapur. Women also played an important role in this
+
+Movement.
+
+</details>
+
+---
+
+**Q-GC-CDM-26. U.P.P.C.S. (Pre) 2010**
+
+Where was Mahatma Gandhi when a raid was made
+by Congress volunteers on Dharsana Salt Depot?
+
+- (a) In Yerawada Jail.
+
+- (b) In Sabarmati Jail
+
+- (c) Agha Khan Palace Poona
+
+- (d) In Ahmadnagar Fort Jail
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Mahatma Gandhi was arrested on May 5, 1930 A.D. and
+
+sent to Yerawada Jail when a raid was made by Congress
+
+volunteers on Dharsana Salt Depot. Abbas Taiyabji led the 
+
+Movement after him. Sarojini Naidu led the raid on Dharsana
+
+Salt Depot on May 21, 1930 A.D. after Abbas Taiyabji got
+
+arrested. Web Miller, an American journalist, presented the
+
+details of this great event.
+
+</details>
+
+---
+
+**Q-GC-CDM-27. U.P.U.D.A./L.D.A. (Pre) 2001**
+
+Acharya Vinoba Bhave was arrested for the first time
+for taking part in :
+
+- (a) Bardoli Movement
+
+- (b) Champaran Satyagraha
+
+- (c) Civil Disobedience Movement
+
+- (d) Non-Cooperation Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Acharya Vinoba Bhave was a close ally of Gandhi. He took
+
+part in various movements of Mahatma Gandhi. He was
+
+arrested in 1930 A.D. for the first time for taking part in the
+
+Civil Disobedience Movement.
+
+</details>
+
+---
+
+**Q-GC-CDM-28. U.P. Lower Sub. (Spl) (Pre) 2003 / U.P. P.C.S. (Pre) 2002**
+
+Gandhiji stayed the foreign journalist in his Sabarmati
+Ashram during Dandi March. He was –
+
+- (a) Richard Greg (b) Webb Miller
+
+- (c) Kirby Page (d) Louie Fischer
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Webb Miller was an American journalist, who stayed with
+
+Gandhi in his Sabarmati Ashram during Dandi March. He
+
+wrote about gruesome police excesses at Dharsana “ As a
+
+reporter, I have seen numerous revolts in the last 18 years. I
+
+have seen riots, carnage in the streets and revolts but I have
+
+never seen such a horrible event like Dharsana”.
+
+</details>
+
+---
+
+**Q-GC-CDM-29. U.P.P.C.S. (Pre.) 2021**
+
+The name of the foreign journalist who reported about
+Satyagraha at Dharsana salt works was
+
+- (a) Francis Louis (b) Mark Tully
+
+- (c) Webb Miller (d) Philip Sprat
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In 1930 A.D., Gandhi began a protest against the salt tax
+
+as part of his civil disobedience campaign. He was arrested
+
+and jailed in May of 1930 A.D., so his followers marched on
+
+the salt works at Dharsana without him. Gandhi advocated
+
+a total non-violent form of protest, and noted that while the
+
+marchers would be beaten at Dharsana, he urged them not
+
+to resist, not to even raise a hand to ward off the blows. The
+
+above is an eyewitness account of the events at the Dharsana
+
+Salt Works as described by journalist Webb Miller.
+
+</details>
+
+---
+
+**Q-GC-CDM-30. U.P.P.C.S. (Mains) 2015**
+
+Who amongst the following Americans was with
+Mahatma Gandhi during his ‘Dandi March’?
+
+- (a) H. N. Brailsford
+
+- (b) Webb Miller
+
+- (c) G. Slocomba
+
+- (d) James Patterson
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-31. I.A.S. (Pre) 2015**
+
+Who of the following organized a march on the Tanjore
+coast to break the Salt Law in April in 1930?
+
+- (a) V. O. Chidambaram Pillai
+
+- (b) C. Rajagopalachari
+
+- (c) K. Kamaraj
+
+- (d) Annie Besant
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Vedaranyam March or Vedaranyam Satyagraha was
+
+organized to protest the salt tax imposed by the British
+
+Empire in India. The march took place in April 1930 A.D.
+
+and was the second of its kind, following the Dandi March
+
+organized by Mahatma Gandhi, both in the framework
+
+of the Civil Disobedience Movement. The Vedaranyam
+
+March was a group of volunteers under the leadership
+
+of C. Rajagopalachari. It began at Trichinopoly (now
+
+Tiruchirappalli) and ended in Vedaranyam, a small coastal
+
+town in Tanjore (in present day Vedaranyam beach of
+
+Nagapatinam district). By collecting salt directly from the
+
+sea, the marchers broke the Salt Law.
+
+</details>
+
+---
+
+**Q-GC-CDM-32. I.A.S. (Pre) 2002**
+
+During the Indian freedom struggle, the Khudai
+Khidmatgars, also known as Red Shirts called for:
+
+- (a) The Union of Pakhtun tribal areas in northwest with
+the Afghanistan
+
+- (b) The adoption of terrorist tactics and methods for
+terrorizing and finally ousting the colonial rulers
+
+- (c) The adoption of communist revolutionist ideology for
+political and social reform
+
+- (d) The Pathan regional nationalist unity and a struggle
+against colonialism
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+‘Khudai Khidmatgar’ also known as ‘Red Shirts’ was a
+
+volunteer organization founded by Khan Abdul Gaffar
+
+Khan in North-West Frontier Province. He called for Pathan
+
+regional nationalist unity and a struggle against colonialism.
+
+They also sought to improve the condition of wage-earners.
+
+The Muslims of North-West Frontier Province played an
+
+important role in Civil Disobedience Movement, while the
+
+Muslims of other provinces stayed away from the Satyagraha
+
+Movement.
+
+</details>
+
+---
+
+**Q-GC-CDM-33. U.P. P.C.S. (Pre) 1993**
+
+‘Red Shirt’ organization was founded to-
+
+- (a) Make independent Pakhtunistan
+
+- (b) Fix the construction of Pakistan
+
+- (c) Throw out the Britishers
+
+- (d) Make India a communist country after the independence
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-34. U.P. Lower Sub. (Pre) 2009 / Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+The leader of ‘Lal Kurti’ Movement was –
+
+- (a) Maulana Azad
+
+- (b) Khan Abdul Gaffar Khan
+
+- (c) Mohammad Ali Jinnah
+
+- (d) Iqbal
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-35. Bihar P.C.S. (Pre) 2016**
+
+Who organised the "Khudai Khidmatgar" in 1929?
+
+- (a) Abdul Gaffar Khan
+
+- (b) Ali Brothers
+
+- (c) Ansari Brothers
+
+- (d) Maulana Abul Kalam Azad
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-36. U.P. P.C.S. (Spl.) (Pre) 2004**
+
+The soldiers of Garhwal Regiment refused to fire on
+the revolutionaries in –
+
+- (a) Khilafat Movement
+
+- (b) Non-Cooperation Movement
+
+- (c) Civil Disobedience Movement
+
+- (d) Quit India Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Under the leadership of Chandra Singh Garhwali, the soldiers
+
+of the Garhwal Rifles refused to fire on unarmed crowds at
+
+Peshawar during Civil Disobedience Movement (Peshawar
+
+Incident). It is notable that Khan Abdul Gaffar Khan was quite
+
+active in this area and Khudai Khidmatgar organization or ‘Red
+
+Shirt’ was the outcome of his work done for the people. They
+
+played an active role in the Civil Disobedience Movement.
+
+</details>
+
+---
+
+**Q-GC-CDM-37. Uttarakhand U.D.A./L.D.A. (Mains) 2007 / Uttarakhand P.C.S. (Mains) 2006**
+
+Whose name is associated with the ‘Peshawar Incident’
+of 1930?
+
+- (a) General B. C. Joshi
+
+- (b) Major Dhan Singh Thapa
+
+- (c) Veer Chandra Singh Garhwali
+
+- (d) Prem Shing Negi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CDM-38. U.P.P.C.S. (Pre) 2008**
+
+Jiatrang Movement started in :
+
+- (a) Nagaland (b) Tripura
+
+- (c) Manipur (d) Mizoram
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The tribes of Manipur also played an active role under the
+
+leadership of the Naga tribal woman Gaidinliu during the
+
+Civil Disobedience Movement. This movement led by her
+
+is known as ‘Jiatrang Movement.’
+
+</details>
+
+---
+
+**Q-GC-CDM-39. 42nd B.P.S.C. (Pre) 1997**
+
+Agitation against Chaukidari Tax in Begusarai was a
+part of-
+
+- (a) Non-Cooperation Movement
+
+- (b) Civil Disobedience Movement
+
+- (c) Quit India Movement
+
+- (d) Khilafat Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Agitation against Chaukidari Tax in Begusarai was a part of
+
+the Civil Disobedience Movement.
+
+</details>
+
+---
+
+**Q-GC-CDM-40. 65th B.P.S.C. (Pre) 2019**
+
+Who led the Salt Satyagraha in Bhagalpur
+
+- (a) Shri Krishna Singh
+
+- (b) Mahadev Lal Sarraf
+
+- (c) Kumar Mishra
+
+- (d) Satyanarayan
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Salt Satyagraha at Bihpur in Bhagalpur was led by Mahadev
+
+Lal Sarraf, Deep Narayan Singh, Rameshwar Narayan Agrawal,
+
+Kailash Bihari Lal and Zeharul Hasan Hashmi.
+
+</details>
+
+---
+
+**Q-GC-CDM-41. 68th B.P.S.C. (Pre) 2022**
+
+During the Salt Satyagraha in Bihar, in addition
+to making salt , the people chose to oppose the
+government by opposing which tax?
+
+- (a) Malba (b) Haathi
+
+- (c) Development (d) More than one of the above
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (e)**
+
+**Explanation:**
+During the Salt Satyagraha / Civil Disobedience Movement in
+
+Bihar, in addition to making salt, the people chose to oppose
+
+the government by opposing Chowkidari tax. This tax was
+
+collected from the farmers for the compensation of village
+
+watchmen (Chowkidar) who were a kind of police. In 1930
+
+farmers refused to pay this tax.
+
+</details>
+
+---
+
+**Q-GC-CDM-42. 41st B.P.S.C. (Pre) 1996**
+
+After the failure of the Civil Disobedience Movement,
+Gandhiji gave importance to :
+
+- (a) Constructive programmes
+
+- (b) Limited use of violence
+
+- (c) Negotiation with British
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Gandhi gave importance to constructive programmes after the
+
+failure of the Civil Disobedience Movement. In October 1934
+
+A.D. Gandhi decided to move away from the active politics
+
+to give his full time to ‘Harijanotthan.’ In September 1932
+
+A.D. Mahatma Gandhi founded All India Anti-Untouchability
+
+League for the welfare of Harijans and in 1933 A.D. he
+
+published the weekly newspaper ‘Harijan.’
+
+</details>
+
+---
+
+**Q-GC-CDM-43. Chhattisgarh P.C.S. (Pre) 2021**
+
+When was Dr. Radhabai arrested while leading
+procession in the Second Civil Disobedience Movement?
+
+- (a) 12 February, 1932 (b) 16 March, 1932
+
+- (c) 19 April, 1932 (d) 13 June, 1932
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Dr. Radhabai was arrested on 13 June, 1932 A.D. while
+
+leading a procession in the Second Civil Disobedience
+
+Movement. She was at the forefront of all the movements
+
+of Mahatma Gandhi.
+
+</details>
+
+---
+
+**Q-GC-CDM-44. 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Prabhavati Devi was the freedom fighter of which field?
+
+- (a) Champaran (b) Patna
+
+- (c) Bhagalpur (d) Shahabad
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The women of Bihar such as Prabhavati Devi, Rajvanshi Devi,
+
+Suniti Devi and Radhika Devi contributed to the Freedom
+
+Movement. Prabhavati Devi was a freedom fighter from Patna.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Gandhi-Irwin Pact (11 Questions)
+
+---
+
+**Q-GC-GIP-1. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+In which year did the famous Gandhi-Irwin Pact take
+place?
+
+- (a) 1929 A.D. (b) 1930 A.D.
+
+- (c) 1931 A.D. (d) 1932 A.D.
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Gandhi-Irwin Pact was a political agreement signed by
+
+Mahatma Gandhi and the then Viceroy of India, Lord Irwin on
+
+5th March, 1931 before the Second Round Table Conference
+
+in London. Below are the proposed conditions –
+
+Discontinuation of Civil Disobedience Movement by Indian
+
+National Congress.
+
+Participation of the Indian National Congress in Second
+
+Round Table Conference.
+
+Withdrawal of all ordinances issued by British Government
+
+imposing curbs on the activities of INC.
+
+Withdrawal of all prosecutions except those involving
+
+violence.
+
+The release of prisoners arrested for participating in the Civil
+
+Disobedience Movement.
+
+</details>
+
+---
+
+**Q-GC-GIP-2. U.P. Lower Sub. (Pre) 1998**
+
+The main purpose of Gandhi-Irwin Pact was to-
+
+- (a) To make the participation of Congress easier in Round
+Table Conference
+
+- (b) To end the Civil Disobedience Movement.
+
+- (c) To break the death strike of Gandhiji
+
+- (d) To end the tax on salt.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GIP-3. Ghatna Chakra PYQ**
+
+The Gandhi-Irwin Pact included which of the
+following?
+1. Invitation to Congress to participate in the Round
+Table Conference
+2. Withdrawal of Ordinances promulgated in
+connection with the Civil Disobedience Movement
+3. Acceptance of Gandhiji's suggestion for an enquiry
+into police excesses
+
+<details><summary>Show answer</summary>
+
+**Answer: Pending**
+
+**Explanation:**
+See official answer key.
+
+</details>
+
+---
+
+**Q-GC-GIP-4. I.A.S. (Pre) 2020**
+
+Release of only those prisoners who were not charged
+with violence
+Select the correct answer using the code given below:
+
+- (a) 1 only (b) 1, 2 and 4 only
+
+- (c) 3 only (d) 2, 3 and 4 only
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+According to Gandhi-Irwin Pact (5th March, 1931 A.D.),
+
+Gandhiji called off the Civil Disobedience Movement and
+
+agreed to take part in Second Round Table Conference in
+
+London. He also agreed to stop boycotting British goods. In
+
+return Viceroy agreed to withdraw ordinances promulgated
+
+against Civil Disobedience Movement and release only those
+
+prisoners who were not charged with violence, Hence option
+
+(b) is correct.
+
+4. Gandhi-Irwin Pact was signed in :
+
+(a) 1931 (b) 1935
+
+(c) 1942 (d) 1919
+
+44th B.P.S.C. (Pre) 2000
+
+Ans. (a)
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GIP-5. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Gandhi-Irwin Pact took place in :
+
+- (a) 1930 (b) 1931
+
+- (c) 1932 (d) 1933
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GIP-6. 46th B.P.S.C. (Pre) 2004**
+
+The Second Round Table Conference in London was
+held in the backdrop of the :
+
+- (a) Emerson-Gandhi Pact (b) Hailey-Gandhi Pact
+
+- (c) Irwin-Gandhi Pact (d) Gandhi-Simon Pact
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GIP-7. U.P. P.C.S. (Pre) 1993**
+
+Among the following whose adjournment was proposed
+in Gandhi-Irwin Pact?
+
+- (a) Non-Cooperation Movement
+
+- (b) Khilafat Movement
+
+- (c) Round Table Conference
+
+- (d) Civil Disobedience Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GIP-8. 47th B.P.S.C. (Pre) 2005**
+
+Who played an important role in the signing of GandhiIrwin Pact?
+
+- (a) Motilal Nehru
+
+- (b) Madan Mohan Malviya
+
+- (c) Tej Bahadur Sapru
+
+- (d) Chintamani
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+After noticing the expansion of Civil Disobedience
+
+Movement, Viceroy Lord Irwin released Mahatma Gandhi
+
+on January 26, 1931 A.D. The conversation started between
+
+Gandhi and Irwin in the mid-February, 1931 A.D. which was
+
+the effort of Tej Bahadur Sapru and M.R. Jaykar. The pact
+
+known as Gandhi-Irwin Pact took place on March 5, 1931
+
+A.D. In context of the pact, Sarojini Naidu termed them as
+
+‘The Two Mahatmas.’
+
+</details>
+
+---
+
+**Q-GC-GIP-9. R.A.S./R.T.S. (Pre) 2018**
+
+Who played the role of mediator in Gandhi-Irwin Pact?
+
+- (a) Motilal Nehru (b) Tej Bahadur Sapru
+
+- (c) Annie Besant (d) Chintamani
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Tej Bahadur Sapru and M.R. Jaykar played the role of mediator in Gandhi-Irwin Pact.
+
+</details>
+
+---
+
+**Q-GC-GIP-10. U.P. P.C.S. (Pre) 2001**
+
+Who of the following persons called Irwin and Gandhi
+‘The Two Mahatmas’?
+
+- (a) Mira Bahan
+
+- (b) Sarojini Naidu
+
+- (c) Madan Mohan Malviya
+
+- (d) Jawaharlal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-GIP-11. U.P.P.C.S. (Pre) 2014**
+
+Who among the following took Mahatma Gandhi’s
+gain in the Gandhi-Irwin Pact as “Consolation Prizes”?
+
+- (a) S.C. Bose
+
+- (b) Alan Campbell Johnson
+
+- (c) B.G. Horniman
+
+- (d) Sarojini Naidu
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The biographer of Irwin, Alan Campbell Johnson termed
+
+Mahatma Gandhi’s gain in the Gandhi-Irwin Pact as
+
+“Consolation Prizes” and the only surrender of Irwin to
+
+agreeing for the conversation. UPPSC considered option
+
+(a) as the correct answer in its first answer key. But in its
+
+revised answer key it was mentioned that option (b) was the
+
+correct one.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Karachi Session of Congress (1931) (8 Questions)
+
+---
+
+**Q-GC-KSC-1. U.P.P.C.S. (Pre) 2005**
+
+Who among the following presided over the Karachi
+Session of the Indian National Congress?
+
+- (a) Jawahar Lal Nehru (b) J.M. Sengupta
+
+- (c) S.C. Bose (d) Vallabhbhai Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+To approve the Gandhi-Irwin Pact, the Karachi Session of
+
+Congress took place under the leadership of Sardar Vallabhbhai
+
+Patel on 29-31 March, 1931 A.D. Congress passed the
+
+resolutions related to Fundamental Rights and the national
+
+economic programme for the first time in this session. While
+
+getting opposed by a few people in the session, Gandhi said
+
+“Gandhi can die but Gandhism can’t” It was the first time when
+
+the Congress described the term ‘Complete Independence’.
+
+</details>
+
+---
+
+**Q-GC-KSC-2. I.A.S. (Pre) 2010 / I.A.S. (Pre) 2005**
+
+Who among the following drafted the resolution on
+fundamental rights for the Karachi Session of Congress
+in 1931?
+
+- (a) Mahatma Gandhi
+
+- (b) Pandit Jawaharlal Nehru
+
+- (c) Dr. Rajendra Prasad
+
+- (d) Dr. B.R. Ambedkar
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Jawaharlal Nehru with the help of M.N. Roy drafted the
+
+resolution on Fundamental Rights and National Economic
+
+Programmes for the Karachi Session of Congress in 1931 A.D.
+
+</details>
+
+---
+
+**Q-GC-KSC-3. 69th B.P.S.C. (Pre) 2023**
+
+In which of the following Indian National Congress
+Sessions, were the resolutions related to the
+Fundamental Rights passed for the first time?
+
+- (a) Surat Session –1907 (b) Gaya Session–1922
+
+- (c) Karachi Session–1931 (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-KSC-4. U.P.P.C.S. (Pre) 2014**
+
+Who of the following regarded the Karachi Session of
+Indian National Congress (1931) as the ‘pinnacle of
+Mahatma Gandhi’s popularity ‘and prestige’?
+
+- (a) S.C. Bose
+
+- (b) Sitaramaiya
+
+- (c) Sardar Vallabh Bhai Patel
+
+- (d) Sardar Kishan Singh
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Subhash Chandra Bose regarded the Karachi Session of
+
+Indian National Congress as the ‘pinnacle of Mahatma
+
+Gandhi’s popularity and prestige.
+
+</details>
+
+---
+
+**Q-GC-KSC-5. U.P.P.C.S. (Mains) 2013 / U.P. P.C.S. (Pre) 2009 / U.P. P.C.S. (Mains) 2006**
+
+Select the correct chronological order of the following
+events connected with India’s struggle for independence
+from the code given below:
+1. Second Round Table Conference
+2. Karachi Session of Indian National Congress
+3. Execution of Bhagat Singh
+4. Gandhi-Irwin Pact
+Code :
+
+- (a) 1, 2, 3, 4 (b) 2, 3, 1, 4
+
+- (c) 4, 3, 2, 1 (d) 3, 4, 2, 1
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Gandhi-Irwin Pact: Congress authorized Gandhi to
+
+negotiate with the Viceroy. After a long conversation between
+
+Gandhi and Lord Irwin, a pact known as Gandhi-Irwin Pact
+
+was signed on March 5, 1931 A.D.
+
+Execution of Bhagat Singh: Bhagat Singh, Rajguru, and
+
+Sukhdev were hanged on March 23, 1931 A.D.
+
+Karachi Session of Congress: Congress confirmed the
+
+Gandhi-Irwin Pact in the annual session at Karachi held on
+
+March 29-31, 1931 A.D.
+
+Second Round Table Conference: The second session of
+
+the Round Table Conference started on September 7, 1931
+
+A.D. in which Mahatma Gandhi attended the Conference as
+
+the sole representative of Congress. This Conference was a
+
+complete failure.
+
+</details>
+
+---
+
+**Q-GC-KSC-6. U.P. P.C.S. (Mains) 2009**
+
+Read the following events connected with the Indian
+National Movement–
+1. Karachi Session of Indian National Congress
+2. Execution of Rajguru
+3. Gandhi-Irwin Pact
+Find the correct chronological order of the events from
+the codes given below –
+Code :
+
+- (a) 3,2,1 (b) 1,2,3
+
+- (c) 2,3,1 (d) 1,3,2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-KSC-7. U.P.P.C.S. (Spl) (Mains) 2004**
+
+Consider the following events connected with India’s
+struggle for independence :
+1. Gandhi - Irwin Pact
+2. Karachi Session of Indian National Congress (1931)
+3. Execution of Bhagat Singh
+4. Poona Pact
+Select the correct sequence of the events from the code
+given :
+
+- (a) 1, 2, 3, 4 (b) 2, 1, 3, 4
+
+- (c) 4, 3, 2, 1 (d) 1, 3, 2, 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The correct chronological order of the events is as followsEvents Date
+
+Gandhi-Irwin Pact - March 5, 1931 A.D.
+
+Execution of Bhagat Singh - March 23, 1931 A.D.
+
+Karachi Session of Indian - March 29-31,1931 A.D.
+
+National Congress
+
+Poona Pact - September 24, 1932 A.D.
+
+</details>
+
+---
+
+**Q-GC-KSC-8. Chhattisgarh P.C.S. (Pre) 2023**
+
+Which one of the following indicates the correct
+chronological order of the events in modern Indian
+history?
+
+- (a) Morley-Minto Reforms, Gandhi-Irwin Pact, August
+Offer, Jallianwala Bagh Tragedy
+
+- (b) August Offer, Morley-Minto Reforms, Jallianwala
+Bagh Tragedy, Gandhi-Irwin Pact
+
+- (c) Morley-Minto Reforms, Jallianwala Bagh Tragedy,
+Gandhi-Irwin Pact, August Offer
+
+- (d) Jallianwala Bagh Tragedy, Gandhi-Irwin Pact, August
+Offer, Morley-Minto Reforms
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Morley-Minto Reforms or Indian Council Act, 1909 was
+
+passed in 1909 A.D. Jallianwala Bagh Massacre occurred
+
+on 13 April 1919 A.D. Gandhi Irwin Pact was signed on 5th
+
+March 1931 A.D. and August Offer is attributed to year of
+
+1940 A.D.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Round Table Conference (25 Questions)
+
+---
+
+**Q-GC-RTC-1. 44th B.P.S.C. (Pre) 2000**
+
+Which of the following Indian leaders attended the
+First Round Table Conference in London?
+
+- (a) Maulana Mohammad Ali
+
+- (b) Maulana Abul Kalam Azad
+
+- (c) Mahatma Gandhi
+
+- (d) Pt. Jawaharlal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The report of the Simon Commission was published on
+
+10th June and 24th June, 1930. Political organizations had
+
+refused the recommendations of Commission. Main leaders
+
+of Congress were in jails. British Government organized 1st
+
+Round Table Conference on November, 1930 to January
+
+1931 in London in the environment of frustration and 
+
+ dissatisfaction. 89 Indian representative members participated
+
+in 1st Round Table Conference, but Congress did not
+
+participate. Main participants of 1st Round Table Conference
+
+were: Tej Bahadur Sapru, Srinivas Shastri, Muhammad Ali,
+
+Muhammad Shafi, Aga Khan III, Fazlul Haq, Muhammad Ali
+
+Jinnah, Homi Modi, M.R. Jaykar, Dr. B.S. Moonje, Bhimrao
+
+Ambedkar and Sundar Singh Majithia, etc.
+
+</details>
+
+---
+
+**Q-GC-RTC-2. U.P.P.C.S. (Mains) 2010**
+
+Which one of the following is not true about the First
+Round Table Conference?
+
+- (a) It was held in 1930
+
+- (b) It was to discuss the Report of the Simon Commission
+
+- (c) It was held in London
+
+- (d) It was attended by the Congress delegation.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-3. U.P. P.C.S. (Pre) 2000**
+
+Who represented Indian Christians in first Round
+Table Conference held in London?
+
+- (a) Rao Bahadur Srinivas (b) Sir Akbar Haidari
+
+- (c) Sir A.P. Patro (d) K.T. Paul
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Congress did not participate in the 1st Round Table Conference
+
+at St. James Palace (London), in 1930-31 A.D. K.T. Paul
+
+represented Indian Christians in the Conference. First Round
+
+Table Conference was inaugurated officially by British
+
+King and chaired by the British Prime Minister, Ramsay
+
+MacDonald.
+
+</details>
+
+---
+
+**Q-GC-RTC-4. U.P.R.O./A.R.O. (Mains) 2014**
+
+When was the First Round Table Conference of
+Indian leaders summoned in London by the British
+Government?
+
+- (a) 1931 (b) 1929
+
+- (c) 1930 (d) 1932
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-5. U.P. Lower Sub. (Pre)1998**
+
+Which of the following leaders participated in 2nd Round
+Table Conference
+1. Mahatma Gandhi
+2. Sarojini Naidu
+3. Madan Mohan Malviya
+4. Maulana Azad
+Select correct answer using code given below:
+Code :
+
+- (a) 1 and 2 (b) 1 and 3
+
+- (c) 1, 2 and 3 (d) 1, 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Mahatma Gandhi participated as the only official
+
+representative of Congress in 2nd Round Table Conference
+
+held from 7 September 1931 to 1 December 1931 A.D.
+
+Sarojini Naidu and Madan Mohan Malviya and Annie Besant
+
+also participated in this Conference.
+
+</details>
+
+---
+
+**Q-GC-RTC-6. M.P.P.C.S (Pre) 2017**
+
+Who among the following had not participated in the
+Second Round Table Conference?
+
+- (a) Mahadev Desai
+
+- (b) Pyarelal Nayyar
+
+- (c) Madan Mohan Malaviya
+
+- (d) Jawaharlal Nehru
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Second Round Table Conference was held in London
+
+from 7 September to 1 December 1931 A.D. Mahatma
+
+Gandhi represented Congress in this conference. Besides
+
+him, Sarojini Naidu, Annie Besant, Madan Mohan Malviya,
+
+Mahadev Desai, B.R. Ambedkar etc. took part in this
+
+conference. Jawaharlal Nehru did not participate in this
+
+conference. Pyarelal Nayyar participated as the private
+
+secretary of Mahatma Gandhi.
+
+</details>
+
+---
+
+**Q-GC-RTC-7. U.P.P.C.S (Pre) 2020**
+
+Who among the following leaders did NOT participate
+in the Second Round Table Conference?
+
+- (a) M.K. Gandhi
+
+- (b) Sarojini Naidu
+
+- (c) Pt. Madan Mohan Malviya
+
+- (d) Dr. Rajendra Prasad
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-8. R.A.S./R.T.S.(Pre) 2008**
+
+Who represented Congress in the Second Round Table
+Conference?
+
+- (a) Jawaharlal Nehru (b) Moti Lal Nehru
+
+- (c) Abul Kalam Azad (d) Mahatma Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-9. U.P.P.C.S. (Pre) 2015**
+
+At which one of the following Round Table Conferences
+held in London was Mahatma Gandhi present?
+
+- (a) First (b) Second
+
+- (c) Third (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-10. U.P.R.O./A.R.O. (Pre) 2016**
+
+Consider the following statements:
+Assertion
+
+- (A)  : Jawaharlal Nehru represented the
+Indian National Congress in the second
+Round Table Conference (1932).
+Reason (R) : It was implicit in the Gandhi-Irwin
+Pact (1931) that the Indian National
+Congress will participate in the Second
+Round Table Conference (1931).
+Choose the correct answer from the code given below:
+
+- (a) Both (A) and (R) are true, and (R) is the correct
+explanation of
+
+- (A) .
+
+- (b) Both (A) and (R) are true, but (R) is not the correct
+explanation of
+
+- (A) .
+
+- (c) (A) is true, but (R) is false.
+
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Gandhi-Irwin Pact was a political agreement signed by
+
+Mahatma Gandhi and then Viceroy Lord Irwin on 5th March
+
+1931, where the agreement was made on the condition of
+
+discontinuation of Civil Disobedience, participation of Indian
+
+National Congress in Round Table Conference, withdrawal of
+
+ordinance issued by British Government imposing a curb on
+
+the activities of Indian National Congress and withdrawal of
+
+prosecution. After Gandhi-Irwin Pact, Gandhiji participated in
+
+second Round Table Conference as the sole representative of the
+
+Congress. Thus, Assertion (A) is false, and Reason (R) is true.
+
+</details>
+
+---
+
+**Q-GC-RTC-11. U.P. Lower Sub. (Mains) 2015**
+
+Which of the following Round Table Conferences was
+attended by Gandhiji?
+
+- (a) Only First (b) Only Second
+
+- (c) Only Third (d) First and Third both
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-12. U.P.P.C.S. (Mains) 2003**
+
+Mahatma Gandhi, when visited London to participate
+in the Second Round Table Conference, stayed at:
+
+- (a) St. James Palace (b) Kingsley Hall
+
+- (c) India House (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Mahatma Gandhi participated in the Second Round Table
+
+Conference as a sole official representative of Congress after
+
+Gandhi-Irwin Pact (5 March, 1931 A.D.). Gandhi visited London
+
+to participate in the 2nd Round Table Conference by Ship “S.S.
+
+Rajputana” and stayed in “Kingsley Hall” of London.
+
+</details>
+
+---
+
+**Q-GC-RTC-13. U.P.P.C.S. (Pre) 2000**
+
+Mahatma Gandhi left Bombay for London to
+participate in the Second Round Table Conference as
+a Congress representative on the Ship known as:
+
+- (a) S.S. Rajputana (b) S.S. Viceroy of India
+
+- (c) S.S. Mooltan (d) S.S. Conte Rosso
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-14. U.P.P.C.S. (Mains) 2008**
+
+In which of the following Round Table Conferences,
+the representative of the Indian National Congress
+participated for the first time?
+
+- (a) First Round Table Conference
+
+- (b) Second Round Table Conference
+
+- (c) Third Round Table Conference
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Congress participated for the first time in the Second
+
+Round Table Conference. Gandhi, as a sole representative,
+
+participated in the Conference but the Conference was
+
+declared unsuccessful due to some dissensions and Gandhi
+
+returned India in December 1931 A.D. empty handed.
+
+</details>
+
+---
+
+**Q-GC-RTC-15. 44th B.P.S.C. (Pre) 2000**
+
+Mahatma Gandhi returned to India in December, 1931
+empty-handed from
+
+- (a) London (b) Moscow
+
+- (c) Washington (d) Tokyo
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-16. 41st B.P.S.C. (Pre) 1996**
+
+On which issue did the Second Round Table Conference
+fail?
+
+- (a) Communal Delegations
+
+- (b) Granting Dominion Status
+
+- (c) The date of transfer of ruling power
+
+- (d) Postponement of Civil Disobedience Movement
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Second Round Table Conference ended in December,
+
+1931 A.D. in which Mahatma Gandhi took part as sole
+
+representative of Congress. The Conference failed completely
+
+due to disputes on communal matters. Dalit leader B.R.
+
+Ambedkar demanded separate electorates for depressed
+
+classes which were refused by Gandhi. Later, the Second
+
+Round Table Conference was dismissed on 1 December, 1931
+
+A.D. due to disputes on communal delegations.
+
+</details>
+
+---
+
+**Q-GC-RTC-17. U.P. U.D.A./L.D.A. (Pre) 2006 / U.P.P.C.S. (Pre) 2011**
+
+What was the name of Indian who participated in all
+three Round Table Conferences?
+
+- (a) B. R. Ambedkar
+
+- (b) Mahatma Gandhi
+
+- (c) Muhammad Ali Jinnah
+
+- (d) Tej Bahadur Sapru
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+Dr. Bhimrao Ambedkar and Tej Bahadur Sapru were
+
+Indian representatives who attended all three Round Table
+
+Conferences.
+
+</details>
+
+---
+
+**Q-GC-RTC-18. U.P. R.O./A.R.O. (Mains) 2021**
+
+Who among the following Indian leaders participated
+in all the three Round Table Conferences?
+
+- (a) Mahatma Gandhi (b) B.S. Munje
+
+- (c) Dr. B.R. Ambedkar (d) C.Y. Chintamani
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-19. 67th B.P.S.C. (Pre) 2022**
+
+Who participated in all the three Round Table
+Conferences?
+
+- (a) Maulana Abul Kalam Azad
+
+- (b) Madan Mohan Malaviya
+
+- (c) B.R. Ambedkar
+
+- (d) Mahatma Gandhi
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-20. M.P.P.C.S. (Pre) 2012**
+
+Who amongst the following attended all the three
+Round Table Conferences?
+
+- (a) Vallabhbhai Patel (b) Madan Mohan Malaviya
+
+- (c) B.R. Ambedkar (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-RTC-21. I.A.S. (Pre) 1996**
+
+The meeting of Indian and British political leaders
+during 1930-32 in London has often been referred to as
+the First, Second and Third Round Table Conferences.
+It would be incorrect to refer to them as such because:
+
+- (a) The Indian National Congress did not take part in two
+of them
+
+- (b) Indian parties other than the Indian National Congress
+participating in the Conference represented sectional
+interests and not the whole of India
+
+- (c) The British Labour Party had withdrawn from the
+Conference making the proceedings of the Conference
+partisan
+
+- (d) It was an instance of a Conference held in three
+sessions and not that of three separate, conference
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+First, Second and Third Round Table Conferences were not
+
+three separate conferences; ideally, they were three sessions
+
+of a single Conference. It would be wrong to call three
+
+sessions of a single Conference three separate Conferences.
+
+The main objective of the Round Table Conference was to
+
+discuss the Simon Commission Report and improvisation of
+
+the political situation.
+
+</details>
+
+---
+
+**Q-GC-RTC-22. U.P.P.C.S. (Spl) (Mains) 2004**
+
+Which one of the following Round Table Conferences
+was represented by Indian National Congress?
+
+- (a) First Round Table Conference
+
+- (b) Second Round Table Conference
+
+- (c) Third Round Table Conference
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Mahatma Gandhi participated in Second Round Table
+
+Conference as sole representative of Indian National
+
+Congress.
+
+</details>
+
+---
+
+**Q-GC-RTC-23. 56th to 59th B.P.S.C. (Pre) 2015 / 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Which Round Table Conference was held in 1932?
+
+- (a) First (b) Second
+
+- (c) Third (d) Fourth
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Third Round Table Conference was held from 17
+
+November, 1932 AD to 24 December, 1932 AD.
+
+</details>
+
+---
+
+**Q-GC-RTC-24. 63rd B.P.S.C (Pre.) 2017**
+
+The Indian National Congress did not take part in
+which of the following Round Table Conferences?
+
+- (a) First
+
+- (b) Second
+
+- (c) Third
+
+- (d) Participated in all
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (e)**
+
+**Explanation:**
+Indian National Congress did not send its representatives to
+
+the 1st and 3rd Round Table Conferences.
+
+</details>
+
+---
+
+**Q-GC-RTC-25. I.A.S. (Pre) 2005**
+
+Consider the following statements:
+1. In the First Round Table Conference, Dr.
+Ambedkar demanded separate electorates for the
+depressed classes.
+2. In the Poona Pact, special provisions for
+representation of the depressed people in the local
+bodies and civil services were made.
+3. The Indian National Congress did not take part in
+the Third Round Table Conference.
+Which of the statements given above is/are correct?
+
+- (a) 1 and 2 (b) 2 and 3
+
+- (c) 1 and 3 (d) 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In the First Round Table Conference, Dr. Ambedkar
+
+demanded separate electorates for the depressed classes.
+
+The Indian National Congress participated only in the
+
+Second Round Table Conference and boycotted Third and
+
+First Round Table Conferences. In the Poona Pact, Congress
+
+agreed that adequate representation would be given to the
+
+depressed classes in local bodies and civil services. So, all
+
+three statements given in the options are correct.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Communal Award and Poona Pact (1932) (24 Questions)
+
+---
+
+**Q-GC-CAPP-1. U.P.P.C.S. (Pre) 1999**
+
+Who among the following issued the ‘Communal
+Award’?
+
+- (a) Ramsay Macdonald (b) Stanley Baldwin
+
+- (c) Neville Chamberlain (d) Winston Churchill
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+No consensus was made on the subject of separate electorate
+
+for depressed classes and various communities in Second
+
+Round Table Conference. British Prime Minister Ramsay
+
+MacDonald was authorized for the solution of conflicts in
+
+the Conference. Accordingly, Ramsay Macdonald declared
+
+his “Communal Award” on 16 Aug. 1932 A.D.
+
+</details>
+
+---
+
+**Q-GC-CAPP-2. 42nd B.P.S.C. (Pre) 1997**
+
+A separate electoral group was made by the communal
+Tribunal of Ramsay MacDonald first time in August,
+1932–
+
+- (a) for Muslims (b) for Indian Christians
+
+- (c) for Anglo-Indians (d) for Untouchables
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+British Prime Minister Ramsay MacDonald announced
+
+Communal Award on 16 August 1932 A.D. According to
+
+Legislative Assembly provisions, few seats of Legislative
+
+Assembly were reserved for minorities whose candidates
+
+were to be elected by separate electorates. Muslims and Sikhs
+
+were already considered minorities. Now the depressed,
+
+Dalits (untouchables) were to be declared minorities as per
+
+provisions of the new law.
+
+</details>
+
+---
+
+**Q-GC-CAPP-3. U.P.R.O. /A.R.O. (Mains) 2017**
+
+Consider the statements :
+Assertion
+
+- (A)  : The British Government announced
+the Communal Award in August 1932.
+Reason (R) : It allowed to each minority a number of
+seats in the legislature to be elected on the basis of a
+separate electorate.
+Select the correct answer using the codes given below:
+
+- (a) Both (A) and (R) are true, but (R) is the correct
+explanation of
+
+- (A) .
+
+- (b) Both (A) and (R) are true, but (R) is not the correct
+explanation of
+
+- (A) .
+
+- (c) (A) is true, but (R) is false.
+
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CAPP-4. U.P. P.C.S. (Pre) 2001**
+
+Which were not allocated separate electorates and
+reserved seats by Communal Award of MacDonald?
+
+- (a) Muslims (b) Sikhs
+
+- (c) Depressed Castes (d) Buddhists
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+British Prime Minister Ramsay MacDonald announced
+
+Communal Award on August 16th, 1932 A.D. in which
+
+separate electorates were granted not only to Muslims but
+
+also to depressed class. In addition to this Indian Christians,
+
+Sikhs, Anglo-Indians and others were granted the separate
+
+electorates which were applicable only to provincial
+
+legislative assemblies. Hence, it is clear that Buddhists were
+
+not granted separate electorates.
+
+</details>
+
+---
+
+**Q-GC-CAPP-5. Uttarakhand P.C.S. (Pre) 2010**
+
+When did Mahatma Gandhi start first fast unto death?
+
+- (a) At the time of Communal Award
+
+- (b) At the time of Calcutta Riots
+
+- (c) At the time of Jallianwala Bagh Mishap.
+
+- (d) At the time of Delhi Riots
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+On September 20, 1932 A.D., Mahatma Gandhi began his
+
+first Fast unto death in Yerawada Jail to protest Communal
+
+Award of British Prime Minister Ramsay MacDonald. On
+
+24 September, 1932 A.D. Poona Pact was signed between
+
+followers of Gandhi and B.R. Ambedkar. After that it was
+
+given approved and fast ended on 26 September, 1932 A.D.
+
+</details>
+
+---
+
+**Q-GC-CAPP-6. Chhattisgarh P.C.S. (Pre) 2022**
+
+In August 1932, British Prime Minister announced the
+scheme for representation of depressed classes. This
+was called Communal Award. Gandhiji started fast
+unto death in opposition to this scheme in which jail?
+
+- (a) Ahmednagar Jail (b) Bombay Central Jail
+
+- (c) Yerawada Jail (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CAPP-7. I.A.S. (Pre) 2012**
+
+Mahatma Gandhi undertook fast unto death in 1932,
+mainly because :
+
+- (a) Round Table Conference failed to satisfy Indian
+political aspirations
+
+- (b) Congress and Muslim League had a difference of opinion
+
+- (c) Ramsay MacDonald announced the Communal Award
+
+- (d) None of the statements (a), (b) and (c) given above is
+correct in this context
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CAPP-8. 47th B.P.S.C. (Pre) 2005**
+
+How many seats were given to depressed classes under
+Communal Award and Poona Pact?
+
+- (a) 74 and 79 respectively (b) 71 and 147 respectively
+
+- (c) 78 and 80 respectively (d) 78 and 69 respectively
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The number of reserved seats for depressed classes in
+
+Provincial Legislatures were 71 in Communal Award which
+
+was increased to 148 by Poona Pact (Madras =30, Sindh with
+
+Bombay = 15, Punjab = 8, Bihar and Odisha = 18, Central
+
+Provinces = 20, Assam= 7, Bengal = 30, United Provinces=
+
+20). Though, some books mention that there are 147 seats.
+
+In addition to this, 18% seats in General class seats were
+
+reserved for depressed class in Central Legislature.
+
+</details>
+
+---
+
+**Q-GC-CAPP-9. U.P. Lower Sub. (Pre) 2008 / U.P.P.C.S. (Pre) 2007 / U.P.P.C.S. (Pre) 1996**
+
+The Poona Pact was concerned with:
+
+- (a) Depressed classes
+
+- (b) Hindu-Muslim unity
+
+- (c) Constitutional progress
+
+- (d) Educational reforms
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CAPP-10. U.P. P.C.S. (Pre) 1997 / 46th B.P.S.C. (Pre) 2004**
+
+The purpose of Poona Pact was:
+
+- (a) Hindu-Muslim unity
+
+- (b) To provide representation of untouchables
+
+- (c) To privileged the Kings
+
+- (d) Reconsideration of Dyarchy
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CAPP-11. U.P.P.C.S. (Mains) 2005**
+
+Assertion
+
+- (A)  : The Poona Pact defeated the purpose
+of Communal Award.
+Reason (R) : It paved the way for reservation of
+seats in the Parliament and the State
+Assemblies for the SC and ST people.
+Select the correct answer from the code given below:
+Code :
+
+- (a) Both (A) and (R) are true, and (R) is the correct
+explanation of
+
+- (A) .
+
+- (b) Both (A) and (R) are true, but (R) is not a correct
+explanation of
+
+- (A) .
+
+- (c) (A) is true, but (R) is false.
+
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+On 16 August, 1932 A.D., Ramsay Macdonald announced his
+
+Communal Award. The award authorised Indian Christians,
+
+Muslims, Europeans, Sikhs, depressed classes and others to
+
+have separate electorates. Gandhi began fast unto death on 20th
+
+September, 1932 A.D. to protest against this decision. Finally,
+
+on 24 September, 1932 A.D. an agreement was made in Poona
+
+known as ‘Poona Pact’ in which joint electorate was accepted
+
+on the basis of two provisions. The two provisions were –
+
+Firstly, there were 148 seats reserved for depressed classes in
+
+the provincial legislature while only 71 seats were reserved
+
+according to communal award.
+
+In Central Legislature 18 percent of the seats allotted to
+
+the general electorate were reserved for depressed classes.
+
+So reason (R) explains assertion (A) correctly, and both
+
+statements are true. So, the option (a) is correct answer.
+
+</details>
+
+---
+
+**Q-GC-CAPP-12. Uttarakhand U.D.A./L.D.A. (Pre) 2007 / Uttarakhand P.C.S. (Mains) 2002**
+
+Dr. Ambedkar and Gandhiji had a Pact called :
+
+- (a) Calcutta Pact (b) London Pact
+
+- (c) Poona Pact (d) Lahore Pact
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CAPP-13. U.P.P.C.S. (Pre) 2004**
+
+Poona Pact was signed between:
+
+- (a) Gandhiji and Lord Irwin
+
+- (b) Gandhiji and Jinnah
+
+- (c) Gandhiji and Subhash Chandra Bose
+
+- (d) Gandhiji and Ambedkar
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+After “fast unto death’’ of Gandhiji against Communal Award,
+
+Poona Pact was signed on 24 September, 1932 A.D. This
+
+pact was signed between followers of Gandhiji and Dr. B. R.
+
+Ambedkar. Gandhi did not sign on this document.
+
+</details>
+
+---
+
+**Q-GC-CAPP-14. U.P. U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+Which among of following was implemented after
+announcement of “Communal Award’’.
+
+- (a) Lucknow Pact (b) Karachi Agreement
+
+- (c) Lahore Agreement (d) Poona Pact
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CAPP-15. U.P. P.C.S. (Pre) 2001**
+
+Which of the following did not sign on historical Poona
+Pact of 1932?
+
+- (a) B. R. Ambedkar (b) Madan Mohan Malviya
+
+- (c) C. Rajagopalachari (d) M. K. Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+On the day of 24 September, 1932, Poona Pact was signed at
+
+5 O’clock in the evening. Dr. B. R. Ambedkar from depressed
+
+classes and Pt. Madan Mohan Malviya from Hindu classes
+
+signed the document of Poona Pact. M.M. Jayakar, Devdas
+
+Gandhi, Vishwas, Raja Bhoj, P. Balu, Gawai, Thakkar,
+
+Solanki, Tej Bahadur Sapru, G. D. Birla, Rajgopalachari,
+
+Dr. Rajendra Prasad, Dr. Rao Bahadur Srinivasan, M.C.
+
+Rajah, C.V. Mehta, Bakhale and Kamath were other
+
+signatories. Many people signed on the document in Bombay.
+
+Rajgopalachari changed his pen with Dr. Ambedkar after
+
+signing the Poona Pact.
+
+</details>
+
+---
+
+**Q-GC-CAPP-16. U.P.P.C.S. (Mains) 2011 / U.P.P.C.S. (Pre) 1994**
+
+After Poona Pact of 1932, Harijan Sewak Sangh was
+established. Its President was:
+
+- (a) Jagjiwan Ram (b) Ghanshyam Das Birla
+
+- (c) B.R. Ambedkar (d) Amrit Lal Thakkar
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+After Poona Pact, 1932, Mahatma Gandhi was not actively
+
+involved in Civil Disobedience Movement but he took an
+
+interest in anti-untouchability Movements and “All India AntiUntouchability League” was founded by Mahatma Gandhi in
+
+1932 AD whose name was later changed to “Harijan Sevak
+
+Sangh.” Ghanshyam Das Birla was the first President of this
+
+institution.
+
+</details>
+
+---
+
+**Q-GC-CAPP-17. U.P.P.C.S. (Mains) 2017**
+
+Who among the following founded the All India
+Harijan Sevak Sangh in 1932?
+
+- (a) B.G. Gokhale (b) M.K. Gandhi
+
+- (c) B.R. Ambedkar (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CAPP-18. U.P.P.C.S. (Mains) 2006**
+
+Who among the following was the first President of
+all India Anti-Untouchability League (later changed
+to Harijan Sevak Samaj)?
+
+- (a) B.R. Ambedkar (b) G. D. Birla
+
+- (c) Jyotiba Phule (d) M.K. Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CAPP-19. U.P.P.S.C. (GIC) 2010**
+
+The first President of the All India Anti-Untouchability
+League formed in 1932, was :
+
+- (a) B.R. Ambedkar (b) Amrit Lal Thakkar
+
+- (c) G. D. Birla (d) M.K. Gandhi
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-CAPP-20. Uttarakhand U.D.A./L.D.A. (Pre) 2007 / Uttarakhand P.C.S. (Mains) 2006**
+
+‘Harijan Sewak Sangh’ was organized by :
+
+- (a) Mahatma Gandhi (b) Dr. B.R. Ambedkar
+
+- (c) G. D. Birla (d) Swami Vivekanand
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Father of Nation Mahatma Gandhi established All India
+
+Anti-Untouchability League in 1932. He published a weekly
+
+magazine ‘Harijan’ in 1933. Gandhi named Ghanshyam Das
+
+Birla as first President of Harijan Sevak Sangh.
+
+</details>
+
+---
+
+**Q-GC-CAPP-21. 68th B.P.S.C. (Pre) 2022**
+
+Who was the founder of All India Harijan Sangh in
+1932?
+
+- (a) Dr. B.R. Ambedkar
+
+- (b) Jagjivan Ram
+
+- (c) Mahatma Gandhi
+
+- (d) More than one of the above
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+If the question is referring to All India Harijan Sevak Sangh
+
+then the correct option is (c). Harijan Sevak Sangh as an
+
+all India institute was formed by Gandhiji in 1932 A.D. to
+
+eradicate untouchability in India.
+
+</details>
+
+---
+
+**Q-GC-CAPP-22. U.P.P.C.S. (Mains) 2014**
+
+The former name of Harijan Sevak Sangh was?
+
+- (a) All India Anti-Untouchability League
+
+- (b) All India Depressed Classes Association
+
+- (c) Depressed Classes Association for Social Reforms.
+
+- (d) Association of Untouchables
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Mahatma Gandhi founded “All India Anti-Untouchability
+
+League” for removal of untouchability from society on 30
+
+September, 1932 A.D. which was later named as “Harijan
+
+Sevak Sangh.”
+
+</details>
+
+---
+
+**Q-GC-CAPP-23. U.P.P.C.S. (Pre) 2000**
+
+‘All India Depressed Classes League’ was established
+by:
+
+- (a) Dr. B.R. Ambedkar (b) Babu Jagjiwan Ram
+
+- (c) N.S. Kajrolkar (d) Mahatma Jyotiba Phule
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+All India Depressed Classes League was founded by Babu
+
+Jagjivan Ram. All India Scheduled Caste Federation was
+
+founded by B.R. Ambedkar in 1942 A.D., while All India
+
+Depressed Classes Association was founded in 1926 A.D.
+
+by M.C. Rajah.
+
+</details>
+
+---
+
+**Q-GC-CAPP-24. U.P.P.C.S. (Mains) 2004**
+
+Who of the following said, “Mahatma Gandhi like
+fleeting phantom raises dust but not the level”?
+
+- (a) Dr. B.R. Ambedkar (b) M.A. Jinnah
+
+- (c) V.D. Savarkar (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+On 14 August, 1931 A.D., Dr. B.R. Ambedkar said during
+
+a conversation with Gandhi in Mumbai “History tells that
+
+Mahatmas, like fleeting phantoms, raise dust but not level.”
+
+It was noted that there was a conflict between Gandhi
+
+and Ambedkar on the matter of “situations of depressed
+
+classes.” Gandhiji began fast-unto-death on 20th September,
+
+1932 against Communal Award of Prime Minister Ramsay
+
+Macdonald. Poona Pact was signed between the followers
+
+of Gandhi and Dr. B.R. Ambedkar.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Individual Satyagraha (1940) (8 Questions)
+
+---
+
+**Q-GC-IS-1. Uttarakhand P.C.S. (Mains) 2006 / U.P. Lower Sub. (Pre) 2002 / U.P.P.C.S. (Pre) 1995**
+
+Who was selected as first Satyagrahi in Individual
+Satyagraha Movement by Mahatma Gandhi:
+
+- (a) Jawahar Lal Nehru (b) Sardar Patel
+
+- (c) Sarojini Naidu (d) Vinoba Bhave
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+After completely rejecting August Proposal, Congress
+
+initiated Individual Satyagraha in the leadership of Gandhiji.
+
+The Satyagraha was a symbolic statement of moral protest
+
+against the British Government’s policy for India. On October
+
+17, 1940 A.D. Mahatma Gandhi selected Acharya Vinoba
+
+Bhave as the first Satyagrahi (the proponent of Satyagraha)
+
+and Jawaharlal Nehru as the second and Brahmdutt as third.
+
+</details>
+
+---
+
+**Q-GC-IS-2. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Who was the third Satyagrahi of Individual Satyagraha
+launched by Mahatma Gandhi in 1940?
+
+- (a) Vinoba Bhave (b) Jawaharlal Nehru
+
+- (c) Rajendra Prasad (d) Brahma Dutt
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+In the year 1940 A.D., Gandhi ji decided to run Individual
+
+Satyagraha. In this, Vinoba Bhave became the first, Jawaharlal
+
+Nehru the second and Brahma Dutt the third Satyagrahi.
+
+</details>
+
+---
+
+**Q-GC-IS-3. 65th B.P.S.C. (Pre) 2019**
+
+Who was the first Satyagrahi of the Individual
+Satyagraha Movement?
+
+- (a) Sarojini Naidu
+
+- (b) C. Rajagopalachari
+
+- (c) Vinoba Bhave
+
+- (d) Subhash Chandra Bose
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-IS-4. 44th B.P.S.C. (Pre) 2000 / U.P. P.C.S. (Mains) 2007**
+
+Who started the Individual Civil Disobedience?
+
+- (a) Vinoba Bhave (b) Jawaharlal Nehru
+
+- (c) Sardar Patel (d) Shaukat Ali
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-IS-5. I.A.S. (Pre) 2009**
+
+In the ‘Individual Satyagraha,’ Vinoba Bhave was
+chosen as the first Satyagrahi. Who was the second?
+
+- (a) Dr. Rajendra Prasad
+
+- (b) Pandit Jawaharlal Nehru
+
+- (c) C. Rajagopalachari
+
+- (d) Sardar Vallabhbhai Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-IS-6. 68th B.P.S.C. (Pre) 2022**
+
+In 1940, Vinoba Bhave started Individual Satyagraha
+from
+
+- (a) Punnapra-Vayalar, Kerala
+
+- (b) Nadiad in Kheda district, Gujarat
+
+- (c) Pavnar, Maharashtra
+
+- (d) More than one of the above
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+After rejecting August proposal, Individual Satyagraha was
+
+started under the leadership of Mahatma Gandhi. He chose
+
+Vinoba Bhave in 1940 A.D. as his first Satyagrahi. Vinoba
+
+Bhave started his Individual Satyagraha from Pavnar,
+
+Maharashtra.
+
+</details>
+
+---
+
+**Q-GC-IS-7. 46th B.P.S.C. (Pre) 2004**
+
+The word ‘Sarvodaya” was primarily used by :
+
+- (a) Mahatma Gandhi (b) Pandit Nehru
+
+- (c) Vinoba Bhave (d) Jai Prakash Narayan
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The word ‘Sarvodaya’ was primarily used by Mahatma
+
+Gandhi. Vinoba Bhave established the ‘Sarvodaya Samaj’
+
+to promote the ideas of Mahatma Gandhi.
+
+</details>
+
+---
+
+**Q-GC-IS-8. U.P. R.O./A.R.O. (Pre) 2023**
+
+Given below are two statements, in which one is
+labelled as Assertion
+
+- (A)  and the other as Reason (R):
+Assertion
+
+- (A) : In October 1940, Gandhiji gave call for
+a limited Satyagraha by a few selected
+individuals.
+Reason (R): The Satyagraha was kept limited so as
+to embrace Britain's war efforts.
+Select the correct answer using the code given below:
+Code -
+
+- (a) (A) is false but (R) is true.
+
+- (b) Both (A) and (R) are true but (R) is not correct
+explanation of
+
+- (A) .
+
+- (c) Both (A) and (R) are true and (R) is correct explanation
+of
+
+- (A) .
+
+- (d) (A) is true but (R) is false.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+After refusing August offer completely, Gandhiji on 17
+
+October, 1940 A.D. called for limited Satyagrah (Individual
+
+Satyagrah) by few selected individuals. The limited
+
+individual Satyagrah had two aims - to show the displeasure
+
+of people of India with British India's participation in war
+
+and to give another chance to British government to accept
+
+demands of Indian people. Gandhiji and Congress, did
+
+not want to disrupt war efforts of British by starting mass
+
+movement due to their anti-Nazi stand. 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09-29T19:43:11+05:30.
+
+The user's current state is as follows:
+Active Document: c:\Users\Axeno\Desktop\UP-PCS\scratch\inspect_t3_pyqs.py (LANGUAGE_PYTHON)
+Cursor is on line: 1
+Other open documents:
+- c:\Users\Axeno\Desktop\UP-PCS\scratch\update_file_05.py (LANGUAGE_PYTHON)
+- c:\Users\Axeno\Desktop\UP-PCS\scratch\apply_standard_pyq_format.py (LANGUAGE_PYTHON)
+- c:\Users\Axeno\Desktop\UP-PCS\scratch\audit_t3_vterms.py (LANGUAGE_PYTHON)
+- c:\Users\Axeno\Desktop\UP-PCS\scratch\parse_batch7_all.py (LANGUAGE_PYTHON)
+- c:\Users\Axeno\Desktop\UP-PCS\scratch\integrate_topics_3_and_5.py (LANGUAGE_PYTHON)
+</ADDITIONAL_METADATA>
+
+</details>
 
 ### UKPCS Complete PYQ Bank (Gandhian Era)
 

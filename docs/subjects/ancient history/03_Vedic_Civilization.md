@@ -3291,9 +3291,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; R explains the Early vs Later contrast implied by A.
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Early popular gods: Indra, Agni, Soma, Varuna; Prajapati rises later.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Chronological reversal: later development cannot explain prior state.
 
 </details>
 

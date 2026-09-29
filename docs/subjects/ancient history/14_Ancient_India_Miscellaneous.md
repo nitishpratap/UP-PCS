@@ -1453,9 +1453,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** R states the contrast that makes Shang script a high-yield fact.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Parallel contrast or distinct historical fact does not explain assertion.
 
 </details>
 

@@ -1077,12 +1077,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true and (R) is the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** Although the Mughal forces held the field at the close of the day, Haldighati failed to achieve a decisive conclusion because the imperial army could not capture Pratap, destroy the Mewar army, or annex the territory.
 - **Reason (R) is correct:** Maharana Pratap safely withdrew into the rugged hills, reorganized his army, and waged unrelenting guerrilla warfare from mountain bases (Gogunda, Kumbhalgarh, Chavand), eventually recapturing most of Mewar.
-- **Why (R) explains (A):** Pratap's successful escape and immediate resumption of effective armed resistance demonstrates why the battle failed to be a decisive victory for the Mughal empire.
+- **Why (R) does NOT explain (A): Parallel contrast or distinct historical fact does not explain assertion. Both statements are true facts, but Reason (R) is not the cause of Assertion (A).** Pratap's successful escape and immediate resumption of effective armed resistance demonstrates why the battle failed to be a decisive victory for the Mughal empire.
 
 **Key Exam Takeaway / Trap:**
 - *Strategic Reality:* Akbar gained control of the battlefield for a day, but failed completely in his strategic political goal.

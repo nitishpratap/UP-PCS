@@ -6287,6 +6287,2099 @@ D. Lord Lansdown
 
 ---
 
+## Complete PYQ Bank — Ghatnachakra Constitutional Development of India (63 Questions)
+
+> [!NOTE]
+> **Official Chapter Coverage:** Full coverage of all 63 questions from Ghatna Chakra with verified official keys, comprehensive explanations, and state PSC/IAS tags.
+
+---
+
+**Q-GC-CDI-1. 39th B.P.S.C. (Pre) 1994**
+
+The Regulating Act was passed in –
+
+- (a) 1773 (b) 1774
+
+- (c) 1785 (d) 1793
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Regulating Act, 1773, was passed by the British Parliament
+
+for the regulation of the British East India Company’s Indian
+
+Territories, mainly in Bengal. The main provisions of the Act
+
+were the appointment of a Governor-General of Fort William
+
+in Bengal with supervisory powers over the Presidencies of
+
+Madras (now Chennai) and Bombay (now Mumbai). The
+
+Governor-General had a Council of four who were given
+
+the power to cast a vote but no veto. Warren Hastings was
+
+appointed the first Governor General of Bengal.
+
+</details>
+
+---
+
+**Q-GC-CDI-2. 56th to 59th B.P.S.C. (Pre) 2015**
+
+In which year was the Regulation Act passed?
+
+- (a) A.D. 1757 (b) A.D. 1765
+
+- (c) A.D. 1773 (d) A.D. 1793
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-3. M.P.P.C.S. (Pre) 2015**
+
+In which year Regulating Act was passed?
+
+- (a) 1753 (b) 1757
+
+- (c) 1764 (d) 1773
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-4. U.P.P.C.S. (Mains) 2013**
+
+In which of the following Acts for the first time
+provision was made for the post of Governor-General
+of Bengal?
+
+- (a) Regulating Act, 1773 (b) Pitt’s Indian Act, 1784
+
+- (c) Charter Act of 1813 (d) Act of 1833
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-5. U.P.P.C.S. (Pre) 1998**
+
+The Supreme Court was set up for the first time in
+India under the:
+
+- (a) Regulating Act, 1773
+
+- (b) Charter Act, 1853
+
+- (c) Government of India Act, 1935
+
+- (d) Indian Constitution Act, 1950
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Regulating Act, (1773), established India’s first Supreme
+
+Court, at Fort William, Calcutta. This Supreme Court
+
+consisted of a Chief Justice and three other regular Judges or
+
+Puisne Judges. Sir Elijah Impey was the first Chief Justice.
+
+The Supreme Court was the supreme judiciary over all British
+
+subjects including the provinces of Bengal, Bihar and Orissa.
+
+The Supreme Court came into force in 1774 AD.
+
+</details>
+
+---
+
+**Q-GC-CDI-6. Chhattisgarh P.C.S. (Pre) 2014**
+
+Supreme Court of Kolkata started in India was
+introduced by the Act of ?
+
+- (a) Pitts India Act (b) 1909 Act
+
+- (c) 1919 Act (d) 1858 Act
+
+- (e) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (e)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-7. Uttarakhand P.C.S. (Pre) 2012**
+
+The first Chief Justice of Supreme Court established
+by the East India Company was –
+
+- (a) Elijah Impey (b) Courtney Ilbert
+
+- (c) Phillip Francis (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-8. U.P. P.C.S. (Pre) 1990**
+
+Which Act gave the right to reject the decision of the
+committee to Governor-General?
+
+- (a) Regulating Act of 1773 (b) Pitt's India Act of 1784
+
+- (c) Act of 1786 (d) Act of 1813
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In 1786 AD, another bill was brought in the Parliament
+
+relating to India in a bid to prevail upon Cornwallis to
+
+accept the Governor-General of Bengal. Cornwallis wanted
+
+to have the power of both the Governor-General and the
+
+Commander- in-Chief. The provisions of the Act were that the
+
+Governor-General in special cases relating to peace, defence
+
+or well-being of Indian empire, had the power to override the
+
+majority of the Council and enforce their rule.
+
+</details>
+
+---
+
+**Q-GC-CDI-9. 44th B.P.S.C. (Pre) 2000**
+
+Which of the following Acts empowered Lord
+Cornwallis to overrule the decision of his Council?
+
+- (a) Regulating Act (b) Act of 1786
+
+- (c) Charter Act of 1793 (d) Charter Act of 1813
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-10. I.A.S. (Pre) 2010**
+
+By a Regulation in 1793, the District Collector was
+deprived of his judicial powers and made the collecting
+agent only. What was the reason for such regulation?
+
+- (a) Lord Cornwallis felt that the District Collector’s
+efficiency of revenue collection would enormously
+increase without the burden of other work.
+
+- (b) Lord Cornwallis felt that judicial power should
+compulsorily be in the hands of Europeans. While
+Indians could be given the job of revenue collection
+in the districts.
+
+- (c) Lord Cornwallis was alarmed at the extent of power
+concentrated in the District Collector and felt that such
+absolute power was undesirable in one person.
+
+- (d) The judicial work demanded a deep knowledge of
+India and a good training in law and Lord Cornwallis
+felt that District Collector should be only a revenue
+collector.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+Cornwallis judicial reforms took their final shape in 1793
+
+AD and were embodied in the famous Cornwallis Code.
+
+The new reforms were based on the principle of Separation
+
+of Powers. Under the influence of the eighteenth-century
+
+French philosophers Cornwallis sought to separate the
+
+revenue administration from the administration of justice. The
+
+Collector was the head of the revenue department in a district
+
+and also enjoyed extensive judicial and magisterial powers.
+
+Cornwallis believed that concentration of all powers in the
+
+hands of the Collector in the District retards the improvement
+
+as a judge of the Diwani Adalat redress the wrongs done by
+
+him as collector or assessor of revenue? Thus, neither the
+
+landlords nor the cultivators could regard the Collector as
+
+an impartial Judge in revenue cases. The Cornwallis Code
+
+divested the Collector of all judicial and magisterial powers
+
+and left him with the duty of administration of revenue. A
+
+new class of officer called the District Judge was created to
+
+preside over the District Civil Court. The District Judge was
+
+empowered with magisterial and police functions.
+
+</details>
+
+---
+
+**Q-GC-CDI-11. U.P.P.C.S. (Mains) 2015**
+
+The monopoly of the East India Company in India’s
+trade was abolished in –
+
+- (a) 1793 (b) 1803
+
+- (c) 1813 (d) 1833
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The monopoly of East India Company in India’s trade was
+
+abolished by the Charter Act of 1813. However they held the
+
+monopoly on the trade of Tea and trade with China.
+
+</details>
+
+---
+
+**Q-GC-CDI-12. U.P. R.O./A.R.O. (Mains) 2017**
+
+By which Act, the British Parliament had abolished
+the monopoly of East India Company's trade in India
+except Tea and China trade?
+
+- (a) Charter Act of 1813 (b) Charter Act of 1833
+
+- (c) Charter Act of 1853 (d) Charter Act of 1873
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-13. Chhattisgarh P.C.S. (Pre) 2017**
+
+By which of the following regulation, British East India
+Company's trade monopoly in India was abolished?
+
+- (a) Charter Act of 1793 (b) Charter Act of 1813
+
+- (c) Charter Act of 1833 (d) Charter Act of 1853
+
+- (e) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-14. Chhattisgarh P.C.S. (Pre) 2022**
+
+What is not true in relation to the Charter Act, 1813?
+
+- (a) It allowed Christian Missionaries to come to India for
+the purpose of enlightenment
+
+- (b) It asserted the sovereignty of the British Crown over
+the company's territories in India
+
+- (c) This Act abolished the trade monopoly of the East
+India Company including its tea trade
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-15. U.P. P.C.S. (Mains) 2016**
+
+Which of the following is one of the reasons for
+considering the Charter Act of 1813 important for
+India?
+
+- (a) It banned propaganda by Christian Missionaries in
+India.
+
+- (b) It emphasized industrialization in India.
+
+- (c) It made a financial allocation for the education of
+Indian people.
+
+- (d) It approved the development of a railway system in
+India.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Charter Act, 1813 compelled the East India Company
+
+to assert the responsibility for the education of the Indians.
+
+It made a provision for an annual grant of a sum of 1 lakh
+
+rupees for the promotion of education in India.
+
+</details>
+
+---
+
+**Q-GC-CDI-16. I.A.S. (Pre) 2003**
+
+Which one of the following provisions was not made
+in the Charter Act of 1833?
+
+- (a) The trading activities of the East India Company were
+to be abolished.
+
+- (b) The designation of the supreme authority was to be
+changed as the Governor General of India-in-Council.
+
+- (c) All law-making powers to be conferred on GovernorGeneral-in-council.
+
+- (d) An Indian was to be appointed as a Law Member of
+the Governor-General’s Council.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Charter Act, 1833, was renewed on the condition that
+
+Company should abandon its trade entirely, both with India
+
+and China and permit Europeans to settle freely in India. The
+
+Company lost its monopoly in China and also the trade of
+
+tea which it enjoyed with the Charter Act of 1813. GovernorGeneral of Bengal was made the Governor-General of British
+
+India with this Act, and all financial and administrative
+
+powers were centralized in the hands of Governor-Generalin-Council. The 4th member was not entitled to act as a
+
+member of the Council except for legislative purposes. A
+
+British member was appointed as a Law Member in the
+
+Governor-General’s Council. A first fourth person appointed
+
+as the Member of the Council was Lord Macaulay. Thus
+
+option (d) is the correct answer.
+
+</details>
+
+---
+
+**Q-GC-CDI-17. I.A.S. (Pre) 2023**
+
+By which one of the following Acts was the Governor
+General of Bengal designated as the Governor General
+of India?
+
+- (a) The Regulating Act
+
+- (b) The Pitt's India Act
+
+- (c) The Charter Act of 1793
+
+- (d) The Charter Act of 1833
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question
+
+</details>
+
+---
+
+**Q-GC-CDI-18. U.P. U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+Which of the among following had recommended
+to hold the Indian Civil Service Examination
+simultaneously in India & England?
+
+- (a) Aitchison Commission
+
+- (b) Hobhouse Commission
+
+- (c) Montagu-Chelmsford Report
+
+- (d) Lord Cornwallis
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Montagu-Chelmsford Report recommended to
+
+increase the number of Indians in administration and also
+
+recommended that the examination shall be jointly held in
+
+Britain and India for Civil Services. On their recommendation,
+
+the Civil Services was held together in England and India
+
+from 1922 AD. The Aitchison Commission submitted its
+
+report in 1887 AD. The Commission opposed to the demand
+
+of the simultaneous holding, in England as well as in India.
+
+</details>
+
+---
+
+**Q-GC-CDI-19. 46th B.P.S.C. (Pre) 2003**
+
+Which Act provisioned competitive exam system for
+Civil Services?
+
+- (a) 1833 (b) 1853
+
+- (c) 1858 (d) 1882
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Charter Act, 1853 provided that the salary of the
+
+members of Board of Control, its Secretary and other Officers
+
+would be fixed by the British Government but the payments
+
+would be made out of the Company’s funds. The number of
+
+the Directors of the Court of Directors was reduced from 24
+
+to 18 of whom 6 were to be nominated by the Crown. The
+
+Court of Directors was divested of its right to patronage and
+
+Company’s services were thrown open to competition and
+
+no discrimination of any kind was to be made. A Committee
+
+with Macaulay was formed in the following year (1854) to
+
+give effect to the scheme of appointment in Civil Services
+
+through competition.
+
+</details>
+
+---
+
+**Q-GC-CDI-20. U.P. P.C.S. (Mains) 2016**
+
+Which of the following Acts for the first time created
+a functioning Legislative Council in India?
+
+- (a) Charter Act of 1793 (b) Charter Act of 1813
+
+- (c) Charter Act of 1853 (d) Charter Act of 1833
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+A decisive step had been initiated in the separation of powers
+
+between the Executive and the Legislature by the Charter Act
+
+of 1853. It was the first time in India when the Legislative
+
+Council was established. The total number of the members
+
+in the Legislative Council was 12.
+
+</details>
+
+---
+
+**Q-GC-CDI-21. U.P.P.C.S. (Mains) 2014**
+
+In which of the following years the British Government
+finally agreed to hold the Indian Civil Services (I.C.S.)
+examination simultaneously in India and England?
+
+- (a) 1922 (b) 1923
+
+- (c) 1924 (d) 1925
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+1922 AD onwards, ICS exam began to be held in India. In 1924
+
+AD, Lee Commission had recommended in its report for the
+
+establishment of an independent and impartial Public Service
+
+Commission for India and on the basis of such recommendation,
+
+the Public Service Commission was established in 1926 AD.
+
+Subsequently by the Government of India Act, 1935 AD,
+
+Public Service Commission were established separately for
+
+both the Central and the State Government Services. Under
+
+this act, Federal Public Service Commission was formed in
+
+Place of Public Service Commission.
+
+</details>
+
+---
+
+**Q-GC-CDI-22. U.P. R.O./A.R.O. (Pre) 2021**
+
+With reference to Indian Civil Services, which of the
+following statement/s is/are correct?
+1. Government of India Act, 1919 provided for a
+separate examination for the Indian Civil Service,
+which was to be held in India.
+2. In the Indian Civil Service in 1941, the percentage
+of Indians was more as compared to the Europeans.
+Select the correct answer using the code given below :
+Code :
+
+- (a) Only 1 (b) Only 2
+
+- (c) Both 1 and 2 (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+From 1922 AD, on the basis of Government of India Act,
+
+1919 Civil Services Examination was started in India as
+
+well. On 1st January, 1941 AD, the participation of Indians
+
+(617) in the civil service exceeded that of Europeans (585).
+
+</details>
+
+---
+
+**Q-GC-CDI-23. U.P. U.D.A./L.D.A. (Pre) 2002**
+
+Match List- I with List- II and select correct answer by
+using codes given below –
+List-I List-II
+A. Establishment of 1. Regulating Act,
+Board of control 1773
+B. Establishment of Supreme 2. Pitt's India Act,
+Court 1784
+C. Permission of appointment3.Charter Act, 1813
+of Christian missionaries
+in India
+D. Law Member in Governor 4.Charter Act, 1833
+General Council
+Code :
+A B C D
+
+- (a) 1 2 3 4
+
+- (b) 2 1 3 4
+
+- (c) 1 2 4 3
+
+- (d) 2 4 1 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The correctly matched list is as follows :
+
+Establishment of – Pitt's India Act, 1784
+
+Board of Control
+
+Establishment of Supreme – Regulating Act, 1773
+
+Court
+
+Permission of appointment – Charter Act, 1813
+
+of Christian missionaries
+
+in India
+
+Law Member in Governor – Charter Act, 1833
+
+General Council
+
+</details>
+
+---
+
+**Q-GC-CDI-24. I.A.S. (Pre) 2002**
+
+Match List-I (Acts of Colonial Government of India)
+with List-II (Provisions) and select the correct answer
+using the codes given below the lists –
+List-I (Acts of Colonial Government of India)
+A. Charter Act, 1813
+B. Regulating Act, 1773
+C. Act of 1858
+D. Pitt’s India Act, 1784
+List-II (Provisions)
+1. Set up a Board of Control in Britain to fully
+regulate the East India
+2. Company’s trade monopoly in India was ended
+3. The power to govern was transferred from the East
+India Company to the British Crown
+4. The Company’s directors were asked to present
+to the British Government all correspondence and
+documents pertaining to the administration of the
+company
+Code :
+A B C D
+
+- (a) 2 4 3 1
+
+- (b) 1 3 4 2
+
+- (c) 2 3 4 1
+
+- (d) 1 4 3 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Charter Act of 1813 ended the Company’s trade
+
+monopoly except over Tea and trade with China. The
+
+Regulating Act of 1773 required the Company’s directors
+
+to present to the British Government all correspondence and
+
+documents pertaining to the administration of Company. Act
+
+of 1858 transferred the power from East India Company to
+
+British Crown to govern the administration and Pitt’s India
+
+Act 1784 set up a Board of Control in Britain to fully regulate
+
+the affairs of East India Company.
+
+</details>
+
+---
+
+**Q-GC-CDI-25. U.P.P.C.S. (Mains) 2015**
+
+Under which Act, Board of control was established –
+
+- (a) Regulating Act, 1773 (b) Settlement Act, 1781
+
+- (c) Charter Act, 1813 (d) Pitt’s India Act, 1784
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-26. M.P.P.C.S. (Pre) 2013**
+
+By which Act British Govt. abolished the monopoly of
+East India Company on trading of tea and sugar?
+
+- (a) Regulating Act, 1773 (b) Pitt's India Act, 1784
+
+- (c) Charter Act, 1813 (d) Charter Act, 1833
+
+<details><summary>Show answer</summary>
+
+**Answer: (*)**
+
+**Explanation:**
+If “sugar and China” would be mentioned in a question
+
+instead of “sugar and tea,” option (d) would be the correct
+
+answer. MPPSC accepted this question as wrong and
+
+provided bonus marks for this question.
+
+</details>
+
+---
+
+**Q-GC-CDI-27. U.P.P.C.S. (Pre) 2015**
+
+British East India Company lost the monopoly of Tea
+trade by –
+
+- (a) The Charter Act of 1793
+
+- (b) The Charter Act of 1813
+
+- (c) The Charter Act of 1833
+
+- (d) The Charter Act of 1853
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+There were many consecutive Acts which were passed by
+
+British East India Company which as follows:
+
+Charter Act 1833: All commercial advantages and rights
+
+were completely abolished by the Charter Act, 1833. Now,
+
+Company had only administrative right on behalf of the
+
+British Crown.
+
+</details>
+
+---
+
+**Q-GC-CDI-28. U.P.R.O./A.R.O. (Pre.) 2021**
+
+In which of the following year, almost the entire area
+of present Uttar Pradesh was separated from Bengal
+Presidency and placed under Agra Presidency?
+
+- (a) 1832 A.D. (b) 1833 A.D.
+
+- (c) 1834 A.D. (d) 1835 A.D.
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The area of present-day Uttar Pradesh was acquired gradually
+
+by East India Company from the last quarter of 18th century
+
+to mid 19th century. This entire area was first placed with
+
+Bengal presidency, but in 1834, it was separated to form
+
+North-Western Provinces under Agra Presidency.
+
+</details>
+
+---
+
+**Q-GC-CDI-29. U.P.P.S.C. (GIC) 2010 / U.P.P.C.S. (Mains) 2007**
+
+Which of the following Acts transferred the Government
+of India from East India Company to the Crown?
+
+- (a) Charter Act, 1833
+
+- (b) Charter Act, 1853
+
+- (c) The Government of India Act, 1858
+
+- (d) Indian Councils Act, 1861
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+British Parliament tabled the Government of India Act, 1858,
+
+which transferred powers from the East India Company to
+
+the Crown. A member of the British Parliament was made
+
+Secretary of State for India exercise powers on behalf of
+
+the Crown and was responsible to the British Parliament,
+
+assisted by the Advisory Council of India. Council of India
+
+had 15 members, 8 appointed by the Crown and 7 elected
+
+by the Court of Directors. Secretary of State for India was to
+
+exercise the powers which were being enjoyed by the Court
+
+of Directors and Board of Control.
+
+</details>
+
+---
+
+**Q-GC-CDI-30. I.A.S. (Pre) 2006**
+
+Consider the following statements–
+1. The Charter Act, 1853 abolished East India
+Company monopoly of Indian trade.
+2. Under the Government of India Act, 1858 the British
+Parliament abolished the East India Company
+altogether and undertook the responsibility of
+ruling India directly.
+Which of the statement(s) given above is/are correct?
+
+- (a) 1 only (b) 2 only
+
+- (c) Both 1 and 2 (d) Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Charter Act of 1813 ended the monopoly of the East
+
+India Company in India. However, the company’s monopoly
+
+in trade with China and trade in tea remained intact.
+
+Thus, statement 1 is not correct. British Parliament brought the
+
+Government of India Act, 1858, which transferred powers from
+
+the East India Company to the Crown and took the responsibility
+
+of ruling India directly. Thus, only 2 statement is correct.
+
+</details>
+
+---
+
+**Q-GC-CDI-31. U.P. U.D.A./L.D.A. (Pre) 2001 / U.P.P.C.S. (Pre) 1997**
+
+Which one of the following Acts empowered the
+Governor- General of India to issue Ordinances:
+
+- (a) Charter Act of 1833
+
+- (b) Indian Councils Act of 1861
+
+- (c) Indian Councils Act of 1892
+
+- (d) Indian Councils Act of 1909
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Indian Council Act, 1861 empowered Governor-General to
+
+issue Ordinance in Emergency Period. These Ordinances
+
+were applicable for maximum of 6 months.
+
+</details>
+
+---
+
+**Q-GC-CDI-32. I.A.S. (Pre) 2002**
+
+Which one of the following Acts of British India
+strengthened the Viceroy’s authority over his executive
+council by substituting “portfolio” or departmental
+system for corporate functioning?
+
+- (a) Indian Councils Act, 1861
+
+- (b) Government of India Act, 1858
+
+- (c) Indian Councils Act, 1892
+
+- (d) Indian Councils Act, 1909
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Indian Council Act, 1861, strengthened the Viceroy’s
+
+authority. Canning reorganized his executive Council,
+
+instituting departmental distribution of responsibilities. He
+
+substituted ‘portfolio’ or department system by which every
+
+department of administration was headed by an individual.
+
+</details>
+
+---
+
+**Q-GC-CDI-33. U.P. U.D.A./L.D.A. (Pre) 2002**
+
+Which of the following Act empowered Indian
+legislative assembly to make discussions on a budget?
+
+- (a) Indian Councils Act, 1861
+
+- (b) Indian Councils Act, 1892
+
+- (c) Indian Council Act, 1909
+
+- (d) India Administration Act, 1919
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Indian Councils Act, 1892 was passed by the Parliament
+
+of the United Kingdom. The main provisions of this act were
+
+as under:
+
+(i) The Indian Councils Act, 1892 gave the members the
+
+right to ask questions on Budget or matters of public
+
+interest. However none of them was given the right to
+
+ask supplementary questions.
+
+(ii) The Additional members of the Council could ask
+
+questions of public interest under this Act, after preinformation of six days.
+
+</details>
+
+---
+
+**Q-GC-CDI-34. U.P. P.C.S. (Mains) 2016**
+
+By which of the following Acts, the British for the first
+time introduced the system of indirect elections in
+India?
+
+- (a) 1909 (b) 1861
+
+- (c) 1867 (d) 1892
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The principle of representation and indirect way of the election
+
+was first incorporated in the Indian Council Act of 1892.
+
+</details>
+
+---
+
+**Q-GC-CDI-35. 56th to 59th B.P.S.C. (Pre) 2015**
+
+To control the media in India, ‘Acts’ were passed in –
+
+- (a) 1835, 1867, 1878, 1908
+
+- (b) 1854, 1864, 1872, 1910
+
+- (c) 1854, 1872, 1908, 1910
+
+- (d) 1867, 1908, 1910, 1919
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+In 1835, the Press Act was announced for the censorship of
+
+media. The Press and Registration of Books act was passed in
+
+1867. The Vernacular Press Act was passed in 1878 by Lord
+
+Lytton to control the printing and circulation of seditious
+
+material, specifically that which could produce disaffection
+
+against the British Government in India in the minds of the
+
+masses. In addition to this in 1908, Lord Minto passed an
+
+act to regulate the press. In this Act, the Government was
+
+authorized to seize any publication if found anti-Government.
+
+</details>
+
+---
+
+**Q-GC-CDI-36. U.P.P.C.S. (Pre) 2013 / U.P.U.D.A./L.D.A. (Spl) (Pre) 2010**
+
+When were High Courts established in Bombay,
+Madras and Calcutta?
+
+- (a) 1861 (b) 1851
+
+- (c) 1871 (d) 1881
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Bombay, Madras and Calcutta High Courts were established
+
+in 1862 under the Indian High Court Act, 1861. On this basis,
+
+the nearest answer is option (a).
+
+</details>
+
+---
+
+**Q-GC-CDI-37. I.A.S. (Pre) 1999**
+
+The most short-lived of all of Britain’s constitutional
+experiments in India was:
+
+- (a) The Indian Council Act of 1861
+
+- (b) Indian Council Act of 1892
+
+- (c) Indian Council Act of 1909
+
+- (d) Government of India Act of 1919
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The most short-lived of all of Britain’s constitutional
+
+experiments in India was Indian Councils Act of 1909.
+
+In words of Ramsay MacDonald "this reform was an
+
+incomplete and short-termed agreement between democracy
+
+and bureaucracy."
+
+</details>
+
+---
+
+**Q-GC-CDI-38. M.P. P.C.S. (Pre) 2019**
+
+Which of the following Act provided for communal
+representation in British India?
+
+- (a) Indian Councils Act, 1892
+
+- (b) Minto-Morley Reforms, 1909
+
+- (c) Montague-Chelmsford Reforms, 1919
+
+- (d) Government of India Act, 1935
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Minto-Morley/ Morley-Minto Reforms, 1909 provided for
+
+communal representation in British India. Indian Council Act,
+
+1909 is also known as Morley-Minto Reform. Lord Minto is
+
+known as the Father of Communal Electrote in India.
+
+</details>
+
+---
+
+**Q-GC-CDI-39. 66th B.P.S.C. (Pre) 2020**
+
+Which of the following Acts introduced separate
+electorate system in India?
+
+- (a) The Regulating Act, 1773
+
+- (b) The Charter Act, 1833
+
+- (c) The Pitt's India Act, 1784
+
+- (d) The Indian Councils Act, 1909
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Indian Council Act, 1909 introduced separate electorate for
+
+Muslims in the country. The act also called Marley-Minto
+
+Reforms, 1909 introduced communal representation in the
+
+country.
+
+</details>
+
+---
+
+**Q-GC-CDI-40. Chhattisgarh P.C.S. (Pre) 2011**
+
+The declaration of reforms on August 20, 1917 is known
+as:
+
+- (a) Montagu Declaration
+
+- (b) Morley Declaration
+
+- (c) Minto Declaration
+
+- (d) Chelmsford Declaration
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+On 20th August, 1917 the reform made by Edwin Montagu
+
+(Secretary of State for India) and Lord Chelmsford is known
+
+as 'Montagu Declaration.'
+
+</details>
+
+---
+
+**Q-GC-CDI-41. B.P.S.C. (Pre) 2016**
+
+Who is known as father of Dyarchy?
+
+- (a) Lord Clive
+
+- (b) Hector Munro
+
+- (c) Lord Macaulay
+
+- (d) Sir Lionel Curtis
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Sir Lionel Curtis is known as the father of Dyarchy. Dyarchy
+
+was a system of double government introduced by the
+
+Government of India Act (1919) for the provinces of British
+
+India.
+
+</details>
+
+---
+
+**Q-GC-CDI-42. Jharkhand P.C.S. (Pre) 2011 / 53rd to 55th B.P.S.C. (Pre) 2011**
+
+The Montagu-Chelmsford Report formed the basis
+of –
+
+- (a) the Indian Councils Act, 1909
+
+- (b) the Government of India Act, 1919
+
+- (c) the Government of India Act, 1935
+
+- (d) the Indian Independence Act, 1947
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The basis of the Indian Council Act, 1919 was the report of
+
+Secretary of State for India Edwin Montagu and Viceroy
+
+Lord Chelmsford.
+
+</details>
+
+---
+
+**Q-GC-CDI-43. 60th to 62nd B.P.S.C. (Pre) 2017**
+
+Who was the Prime Minister of England when the
+Montague-Chelmsford Act was passed in 1919?
+
+- (a) Lloyd George
+
+- (b) George Hamilton
+
+- (c) Sir Samuel Hoare
+
+- (d) Lord Salisbury
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+David Lloyd George was the Prime Minister of England
+
+(U.K.) when the Montagu-Chelmsford Act (Indian Council
+
+Act, 1919) was passed in 1919. His tenure as PM was from
+
+1916 to 1922.
+
+</details>
+
+---
+
+**Q-GC-CDI-44. U.P. P.C.S. (Pre) 2005 / U.P. P.C.S. (Pre) 2004**
+
+In which Constitutional document was Dyarchy System
+introduced in Indian provinces?
+
+- (a) 1892 (b) 1909
+
+- (c) 1919 (d) 1935
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Montagu-Chelmsford Reform of 1919 was introduced by
+
+the British Government in India to introduce self-governing
+
+institutions gradually to India. In this ‘Dyarchy in the
+
+Provinces’ was introduced.
+
+Reserved subjects like Finance, Law and order, Army, Police,
+
+etc. and Transferred subjects like Public health, education,
+
+agriculture, Local Self-Government, etc. were included
+
+The reserved subjects were kept with the Governor and his
+
+executive council. While the administration of the transferred
+
+subjects was handed over to the ministers responsible to the
+
+Provincial Legislature.
+
+</details>
+
+---
+
+**Q-GC-CDI-45. I.A.S. (Pre) 2017**
+
+In the context of Indian history, the principle of
+'Dyarchy (diarchy)' refers to :
+
+- (a) Division of the central legislature into two houses
+
+- (b) Introduction of double government i.e., Central and
+State governments.
+
+- (c) Having two sets of rulers; one in London and another
+in Delhi
+
+- (d) Division of the subjects delegated to the provinces
+into two categories
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-46. I.A.S. (Pre) 2016**
+
+The Montague-Chelmsford Proposals were related to
+
+- (a) Social reforms
+
+- (b) Educational reforms
+
+- (c) Reforms in police administration
+
+- (d) Constitutional reforms
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-47. I.A.S. (Pre) 2015**
+
+The Government of India Act of 1919 is clearly defined –
+
+- (a) the separation of power between the Judiciary and the
+Legislature
+
+- (b) the jurisdiction of the Central and Provincial
+Governments
+
+- (c) the powers of the Secretary of State for India and the
+Viceroy
+
+- (d) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-48. Uttarakhand P.C.S. (Mains) 2002**
+
+The principle of Dyarchy was introduced by the Act
+of –
+
+- (a) 1861 (b) 1892
+
+- (c) 1909 (d) 1919
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-49. R.A.S./R.T.S. (Pre) 2016**
+
+Identify the incorrect statement about Government of
+India Act 1919:
+
+- (a) This Act is also known as Morley-Minto Reforms Act.
+
+- (b) This Act separated the Central and Provincial subjects.
+
+- (c) The Government of India Act 1919 came into force
+in 1921.
+
+- (d) Montague was the Secretary of State for India and
+Lord Chelmsford was the Viceroy of India
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-50. U.P. U.D.A./L.D.A. (Pre) 1998**
+
+Consider the following statements –
+Assertion
+
+- (A)  : The structure and characteristics
+of governance remained unitary
+and central with enforcement of the
+Government of India Act of 1919.
+Reason ( R) : A large part of authority was delegated
+to Provinces.
+Which of the following is correct in the reference of
+the above?
+
+- (a) Both (A) and (R) are true, but (R) is the correct
+explanation of
+
+- (A) .
+
+- (b) Both (A) and (R) are true, but (R) is not the correct
+explanation of
+
+- (A) .
+
+- (c) (A) is true, but (R) is false.
+
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Government of India Act of 1919 introduced dyarchy
+
+system in provinces. Education, Local Self-Government,
+
+Medical Relief, Public Health and Sanitation, Agriculture,
+
+Cooperative Societies, Public Works, Excise, Justice, Police,
+
+Irrigation and Waterways, Labour, Welfare and Industrial
+
+Disputes, etc. 50 subjects were delegated to Provinces. On
+
+the other hand, Central Legislative had rights over 47 subjects
+
+such as Defence, Foreign Affairs, Money communication, etc.
+
+Although Governor-General had major executive powers but
+
+the structure and characteristics of governance were generally,
+
+federal. Thus, statement (A) is wrong and Reason (R) is correct.
+
+</details>
+
+---
+
+**Q-GC-CDI-51. U.P. U.D.A./L.D.A. (Pre) 1998**
+
+Consider the following statements –
+Assertion
+
+- (A)  : Dyarchy means division of administrative
+affairs in two sections.
+Reason ( R) : It was introduced for enforcement of
+responsible governance in Provinces.
+Which of the following is correct in the reference of
+the above?
+
+- (a) Both (A) and (R) are true, but (R) is the correct
+explanation of
+
+- (A) .
+
+- (b) Both (A) and (R) are true, but (R) is not the correct
+explanation of
+
+- (A) .
+
+- (c) (A) is true, but (R) is false.
+
+- (d) (A) is false, but (R) is true.
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Government of India Act, 1919 made a major change
+
+in Provincial governance. The Government of India Act,
+
+1919 introduced the system of Dyarchy. Dyarchy means a
+
+dual set of Governments. The Government of India Act of
+
+1919, made a provision for classification of the central and
+
+provincial subjects. The provincial subjects were divided into
+
+two groups: one was Reserved and another was Transferred.
+
+The Reserved subjects were kept with the Governor and
+
+his executive council and transferred subjects were handed
+
+over to the Minister responsible to the provincial legislature.
+
+This division of subjects was basically what they meant by
+
+introducing the Dyarchy.
+
+</details>
+
+---
+
+**Q-GC-CDI-52. 63rd B.P.S.C (Pre.) 2017**
+
+The post of the Indian High Commissioner was created
+by which Act?
+
+- (a) The Indian Councils Act, 1909
+
+- (b) The Government of India Act, 1919
+
+- (c) The Government of India Act, 1935
+
+- (d) The Indian Independence Act, 1947
+
+- (e) None of the above/More than one of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Post of Indian High Commissioner was created by the
+
+Government of India Act, 1919.
+
+</details>
+
+---
+
+**Q-GC-CDI-53. U.P. U.D.A./L.D.A. (Pre) 1998**
+
+These were included in prime elements of the
+Government of India Act, 1935 –
+1. Provision of Federation
+2. Provincial Autonomy
+3. Introduction of Dyarchy in Provinces
+4. To Authorization of Federal Legislature.
+Select the correct answer by using codes structure given
+below:
+
+- (a) 1and 2 (b) 1 and 3
+
+- (c) 2 and 3 (d) 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+The Government of India Act, 1935 made provisions
+
+for Federal Legislature. According to the Government of
+
+India Act, 1935, Dyarchy was abolished in the Provinces
+
+and Provincial Autonomy and Bicameral Legislature were
+
+applied.
+
+</details>
+
+---
+
+**Q-GC-CDI-54. Jharkhand P.C.S. (Pre.) 2021**
+
+Which among the following introduced the Provincial
+Autonomy in British India?
+
+- (a) Government of India Act 1919
+
+- (b) Cabinet Mission
+
+- (c) Simon Commission
+
+- (d) Government of India Act 1935
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-55. U.P. P.S.C. (GIC) 2010**
+
+Which of the following report was the baseline of the
+Government of India Act, 1935?
+
+- (a) The Cabinet Mission
+
+- (b) The Cripps Mission
+
+- (c) The Rowlette Commission
+
+- (d) The Simon Commission
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The Government of India Act, 1919 made a provision in
+
+its Part V, that a statutory Commission would be set up at
+
+the end of 10 years after the Act was passed which would
+
+inquire into the working of the system of the Government.
+
+The Simon Commission of 1927 AD was an outcome of this
+
+provision. All- Party Conference presented the Nehru Report.
+
+The Simon Commission Report and three sessions of Round
+
+Table Conference in 1930 AD to 1932 AD respectively,
+
+made their recommendations which were embodied in a
+
+White Paper published in 1933 AD, which was considered
+
+by a Joint Select Committee of the British Parliament and
+
+was the baseline of the Government of India Act, 1935 AD.
+
+</details>
+
+---
+
+**Q-GC-CDI-56. I.A.S. (Pre) 2004**
+
+Consider the following statements:
+Some of the main features of the Government of India
+Act, 1935 were the:
+1. Abolition of dyarchy in the Governor’s provinces.
+2. The power of the Governors to veto legislative
+action and to legislate on their own.
+3. Abolition of the principle of communal
+representation.
+Which of the statements given above is/are correct?
+
+- (a) 1only (b) 1 and 2
+
+- (c) 2 and 3 (d) 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The Government of India Act 1935 was originally passed in
+
+August, 1935 and is said to have been the longest (British) Act
+
+of Parliament ever enacted by that time. The most significant
+
+aspects of the Act were:
+
+The grant of a large measure of autonomy to the provinces of
+
+British India which ended the system of dyarchy introduced
+
+by the Government of India Act, 1919.
+
+Provision of direct elections was made.
+
+Provincial autonomy.
+
+The establishment of a Federal Court.
+
+All India Federation at the centre.
+
+Membership of the provincial assemblies was altered to
+
+include more elected Indian representatives.
+
+</details>
+
+---
+
+**Q-GC-CDI-57. 42nd B.P.S.C. (Pre) 1997**
+
+Government of India Act, 1935 abolished-
+
+- (a) Provincial autonomy
+
+- (b) Provincial dyarchy
+
+- (c) Federal structure of India
+
+- (d) Responsible Central Government
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-58. 70th B.P.S.C. (Pre) 2024**
+
+Which of the following was not one of the features of
+the Government of India Act, 1935?
+
+- (a) Reconstruction of the Governor General's Executive
+Council
+
+- (b) Provincial Autonomy
+
+- (c) Appraisal of the Act of 1935
+
+- (d) Proposal for Federation of India
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Government of India Act, 1935, introduced several
+
+key reforms:
+
+(a) The Governor-General's Executive Council was
+
+restructured to include more Indian members, though the
+
+Governor-General retained ultimate authority.
+
+(b) Provincial Autonomy granted provinces more
+
+independence in certain administrative areas, though the
+
+Governor still held significant powers. 
+
+(c) The Act itself was a legislative framework and did not
+
+include any provision for its appraisal.
+
+(d) The Act proposed a federation that would incorporate
+
+both British India and princely states, but it was never fully
+
+implemented due to the princely states' refusal to join.
+
+</details>
+
+---
+
+**Q-GC-CDI-59. I.A.S. (Pre) 2005**
+
+Consider the following statements –
+In Government of India Act, 1935 provided for –
+1. The provincial autonomy.
+2. The establishment of Federal Court.
+3. All India Federation at the Centre.
+Which of the following statements given above are
+correct.
+Code :
+
+- (a) 1 and 2 (b) 2 and 3
+
+- (c) 1 and 3 (d) 1 ,2 and 3
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-60. U.P. Lower Sub. (Pre) 2015**
+
+Why the Government of India Act, 1935 is important?
+
+- (a) It is a main source of the Indian Constitution
+
+- (b) By this India got freedom
+
+- (c) Division of India is described in it
+
+- (d) End of the Princely States by this
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-61. I.A.S. (Pre) 2000**
+
+Which one of the following is not a feature of the
+Government of India Act of 1935?
+
+- (a) Dyarchy at the Centre as well as in the Provinces
+
+- (b) A bicameral Legislature
+
+- (c) Provincial Autonomy
+
+- (d) An All-India Federation
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CDI-62. I.A.S. (Pre) 2002**
+
+The real intention of the British to include the Princely
+States in the Federal Union proposed by the India Act
+of 1935 was to –
+
+- (a) Exercise more direct political and administrative
+control.
+
+- (b) Involve the princes actively in the administration of
+the colony.
+
+- (c) Finally effect the complete political and administrative
+take-over of all the princely States by the British
+
+- (d) Use the princes to counter-balance the anti-imperialist
+doctrines of the nationalist leaders.
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+The real intention of the British to include the Princely
+
+States in the Federal Union proposed by the India Act of
+
+1935 was to use the princes to counter balance the antiimperialist doctrines of the nationalist leaders. Princely States
+
+represented approx 25% of the population of India while
+
+under the Government of India Act, 1935 out of 260 members
+
+156 were to represent the provinces and 104 to the Princely
+
+States in the Upper House and the Lower House consisted
+
+of 375 members out of whom 250 were to represent the
+
+provinces and 125 to represent the Princely States. In both
+
+Houses of the Federal Legislature, the states were given their
+
+quota of representation. But the members from the State were
+
+not to be elected. Despite such a wide range of provisions, the
+
+princely states however refused to join the Federation. They
+
+were alarmed by the changing situation in the country caused
+
+by the rapid spread of the National Movement. The British
+
+Government miserably failed to overcome the opposition of
+
+the Indian National Congress, the Muslim League and the
+
+princes against the Federal Scheme. So the Federal Scheme
+
+was withheld except the establishment of the Federal Court
+
+and the Provincial scheme was introduced on 1st April, 1937
+
+causing a drastic change in the pattern of provincial politics.
+
+</details>
+
+---
+
+**Q-GC-CDI-63. U.P.P.C.S. (Mains) 2007**
+
+Who among the following said about the Act of 1935
+‘a car which has a brake but no engine’?
+
+- (a) Jawaharlal Nehru (b) C. Rajgopalachari
+
+- (c) Mahatma Gandhi (d) S.C. Bose
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Jawaharlal Nehru compared the Government of India Act,
+
+1935 with “a car which has a brake but no engine.” Jawaharlal
+
+Nehru was the Prime Minister of India from 1947 to 1964.
+
+In fact, the policy of Non-Alignment is the creation of
+
+Jawaharlal Nehru and he is the p pioneer of the Non-Alignment Movement.
+
+</details>
+
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**

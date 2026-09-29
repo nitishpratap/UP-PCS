@@ -669,9 +669,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true and R explains the distinction.
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Report/HQ separation.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Reason (R) states an exam distractor tip ("swap reports and you lose marks"), which is meta-commentary, not the legal/institutional charter reason why UNEP and UNDP are distinct UN bodies.
 
 </details>
 

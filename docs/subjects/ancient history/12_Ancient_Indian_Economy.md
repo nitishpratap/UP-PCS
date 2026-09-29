@@ -603,9 +603,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** R correctly explains the dinara distractor.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Reason (R) states a meta-exam distractor note; it is not the historical or numismatic cause of why silver rupakas prove the Shaka victory.
 
 </details>
 
@@ -1201,9 +1201,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** R supports why Lothal sits with Mohenjo-daro in the boat-model pair.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Specific example, evidence artifact, or negative distractor is not a causal explanation.
 
 </details>
 

@@ -6,14 +6,14 @@ const path = require('path');
  * Keep letter prefixes optional so Geography GC and Science/Economy/Census/UP tags all match.
  */
 const Q_HEADER_CORE =
-  String.raw`(?:Q\s*[-–—]?\s*(?:[A-Za-z]{1,4})?\s*\d+[A-Za-z]?|Q\s*[\.:\)]|Q\d+|PYQ\b|Inline PYQ\b|Practice Q\b|Question\s*\d+)`;
+  String.raw`(?:Q\s*[-–—]?\s*(?:[A-Za-z0-9]+[-–—]?)*\d+[A-Za-z]?|Q\s*[\.:\)]|Q\d+|PYQ\b|Inline PYQ\b|Practice Q\b|Question\s*\d+)`;
 const Q_HEADER_BOLD_RE = new RegExp(String.raw`\*\*((?:${Q_HEADER_CORE})[^\*]*?)\*\*`, 'gi');
 const Q_HEADER_STRIP_RE = new RegExp(
   String.raw`^\*\*(?:${Q_HEADER_CORE})[^\*]*?\*\*`,
   'i'
 );
 const Q_HEADER_INLINE_RE = new RegExp(
-  String.raw`\*\*((?:${Q_HEADER_CORE})[^\*]*?)\*\*([\s\S]*?)(?:\*Answer:\*|\*\*Answer:\*\*|\*Ans:\*|\*\*Ans:\*\*|Answer:)\s*\*?\*?([A-D])\*?\*?([^\n\r]*)`,
+  String.raw`\*\*((?:${Q_HEADER_CORE})[^\*]*?)\*\*([\s\S]*?)(?:\*Answer:\*|\*\*Answer:\*\*|\*Ans:\*|\*\*Ans:\*\*|Answer:)\s*\*?\*?\(?\s*([A-D])\*?\*?([^\n\r]*)`,
   'gi'
 );
 
@@ -369,9 +369,10 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     let correctLetters = [];
     const ansMatch1 = detailsContent.match(/\*\*Correct Answer:\*\*\s*\*\*([A-D](?:\s*(?:and|,)\s*[A-D])*)/i);
     const ansMatch2 = detailsContent.match(/\*\*Ans:\s*([A-D])\.\*\*/i);
-    const ansMatch3 = detailsContent.match(/\*\*Ans:\s*([A-D])\b/i);
-    const ansMatch4 = detailsContent.match(/(?:Ans|Answer|Option):\s*([A-D])\b/i);
+    const ansMatch3 = detailsContent.match(/\*\*Ans:\s*\(?([A-D])\)?\b/i);
+    const ansMatch4 = detailsContent.match(/(?:Ans|Answer|Option)[^\w\n\r]*\(?\s*([A-D])\b/i);
     const ansMatch5 = detailsContent.match(/\*\*Ans:\*\*\s*\*\*([A-D])\b/i);
+    const ansMatch6 = detailsContent.match(/(?:\*\*|\b)(?:Ans|Answer|Correct Answer|Option)[^\w\n\r]*\(?\s*([A-D])\b/i);
 
     if (ansMatch1) {
       const letters = ansMatch1[1].match(/[A-D]/gi);
@@ -384,6 +385,8 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
       correctLetters = [ansMatch5[1].toUpperCase()];
     } else if (ansMatch4) {
       correctLetters = [ansMatch4[1].toUpperCase()];
+    } else if (ansMatch6) {
+      correctLetters = [ansMatch6[1].toUpperCase()];
     }
 
     if (correctLetters.length === 0) {
@@ -408,13 +411,15 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
         .replace(/^\d{1,3}\.\s+/, '')
         .trim();
     }
+    stem = stem.replace(/[\s\-\–\—]+$/, '').trim();
 
-      // Clean explanation
-      let explanation = detailsContent
-        .replace(/\*\*Correct Answer:\*\*.*?\n/i, '')
-        .replace(/\*\*Ans:.*?\n/i, '')
-        .replace(/^(?:Ans|Answer):\s*[A-D].*?\n/i, '')
-        .trim();
+    // Clean explanation
+    let explanation = detailsContent
+      .replace(/\*\*Correct Answer:\*\*.*?\n/i, '')
+      .replace(/\*\*Ans:.*?\n/i, '')
+      .replace(/^(?:Ans|Answer):\s*\(?[A-D]\)?.*?\n/i, '')
+      .replace(/\*\*Answer:\s*\(?[A-D]\)?\*\*.*?\n/i, '')
+      .trim();
 
       const qIndex = questions.length + 1;
       const qId = `${subject}_${chapterSlug}_${qIndex}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase();

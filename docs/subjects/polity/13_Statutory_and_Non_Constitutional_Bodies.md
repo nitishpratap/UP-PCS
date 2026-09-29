@@ -3580,9 +3580,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true and R explains how CVC exists without a constitutional article.
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Santhanam idea → executive 1964 → statutory 2003.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Consequence / Aftermath of the assertion, not the cause.
 
 </details>
 

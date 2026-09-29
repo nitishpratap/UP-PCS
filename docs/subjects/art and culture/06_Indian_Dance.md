@@ -497,9 +497,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) correctly supports the unique Hindustani position of Kathak among the eight.
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Music-system split is the explanation for Kathak’s uniqueness in the list.
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Parallel contrast or distinct historical fact does not explain assertion.
 
 </details>
 

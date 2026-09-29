@@ -183,27 +183,7 @@ Community Development Programme | Etawah (इटावा) Pilot Project | Post-
 
 **PYQ — UPPCS Prelims 2019, Q103**
 
-Arrange the following events in a chronological order:
-
-I. Maharaja Hari Singh signed the Instrument of Accession.
-II. Constitution of India was enforced.
-III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.
-IV. New Constitution of the State of Jammu and Kashmir came into force.
-
-A. I, III, IV, II
-
-B. III, IV, I, II
-
-C. I, II, III, IV
-
-D. IV, III, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
+> [!TIP] **Exam Anchor (Jammu & Kashmir Integration Chronology):** Maharaja Hari Singh signed Instrument of Accession (26 Oct 1947) → Constitution of India enforced (26 Jan 1950) → Accession ratified by J&K Constituent Assembly (Feb 1954) → J&K Constitution came into force (26 Jan 1957).
 
 ### French Settlements — Chandernagore and the Pondicherry group (पुदुचेरी)
 
@@ -238,27 +218,7 @@ D. IV, III, II, I
 
 > **Logic:** French enclaves joined by **referendum** (1949 and 1954). Goa joined by **military action** (**1961**). Dadra and Nagar Haveli is a **third, separate** case, also 1954.
 
-**PYQ-style drill — enclave route match**
-
-Match List-I with List-II.
-
-**List-I (Territory)** A. Chandernagore B. Pondicherry group C. Goa, Daman and Diu D. Dadra and Nagar Haveli
-**List-II (Route)** 1. Operation Vijay, 1961 2. Kizhoor referendum, 1954 3. Local action; 10th Amendment 1961 4. Referendum, 1949; merged into West Bengal 1954
-
-A. 4 2 1 3
-
-B. 2 4 1 3
-
-C. 4 2 3 1
-
-D. 1 2 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
+> [!TIP] **Exam Anchor (Territory Integration Route Match):** Chandernagore (Referendum 1949; merged into WB 1954) | Pondicherry group (Kizhoor referendum 1954; 14th Amendment 1962) | Goa, Daman & Diu (Operation Vijay Dec 1961; 12th Amendment 1962) | Dadra and Nagar Haveli (Local action 1954; 10th Amendment 1961).
 
 ### Early foreign policy — brief (Panchsheel and NAM)
 
@@ -305,110 +265,15 @@ D. 1 2 4 3
 
 > **Logic:** Adopted **≠** commenced. Flag **22 July 1947**. FR sub-committee = **Kripalani**, not Ambedkar.
 
-**PYQ — UPPCS Prelims 2023, Q3**
+> [!TIP] **Exam Anchor (UPPCS Prelims 2023, Q3):** Constitution-making chronology: Constituent Assembly first met (9 Dec 1946) → Appointment of Drafting Committee (29 Aug 1947) → Indian Constitution adopted and enacted (26 Nov 1949) → Date of commencement of Indian Constitution (26 Jan 1950).
 
-Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
+> [!TIP] **Exam Anchor (UPPCS Prelims 2025, Q82)**: Constituent Assembly Committee Chairmen — Drafting Committee: Dr. B.R. Ambedkar; Steering Committee: Dr. Rajendra Prasad; Union Powers Committee: Jawaharlal Nehru; Fundamental Rights Sub-Committee: J.B. Kripalani.
 
-(I) Appointment of the Drafting Committee
-(II) Indian Constitution was adopted and enacted
-(III) Date of commencement of Indian Constitution
-(IV) Constituent Assembly first met
+> [!TIP] **Exam Anchor (UPPCS Prelims 2020, Q134)**: The Constituent Assembly adopted the National Flag of India on **22 July 1947**.
 
-A. III, II, I, IV
+> [!TIP] **Exam Anchor (UPPCS Prelims 2021, Q1)**: Sardar Vallabhbhai Patel famously asked in the Constituent Assembly: *"Can you show me one free country where there are separate electorates? ... But in this country it has been instituted by the British Government. The British Government is no longer here ... they have left that legacy behind."*
 
-B. IV, I, III, II
-
-C. I, II, IV, III
-
-D. IV, I, II, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**PYQ — UPPCS Prelims 2025, Q82**
-
-Match List-I with List-II.
-
-**List-I (Committee)** A. Union Constitution Committee B. Rules of Procedure Committee C. Drafting Committee D. Fundamental Rights Sub-Committee
-**List-II (Chairman)** 1. Dr. Rajendra Prasad 2. J. B. Kripalani 3. Dr. B. R. Ambedkar 4. Jawaharlal Nehru
-
-A. 2 1 3 4
-
-B. 1 4 3 2
-
-C. 4 1 3 2
-
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**PYQ — UPPCS Prelims 2020, Q134**
-
-On which of the following dates, Constituent Assembly of India adopted the National Flag?
-
-A. 22 January, 1950
-
-B. 24 January, 1950
-
-C. 22 July, 1947
-
-D. 22 July, 1948
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**PYQ — UPPCS Prelims 2021, Q1**
-
-"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind".
-
-Who among the following said the above mentioned statement in the Constituent Assembly debates?
-
-A. Somnath (सोमनाथ) Lahiri
-
-B. Jawaharlal Nehru
-
-C. Sardar Vallabh Bhai Patel
-
-D. N. G. Ranga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**PYQ — UPPCS Prelims 2021, Q73**
-
-Who among the following person said for the Fundamental Rights "a pledge to our people and a pact with the civilized world"?
-
-A. Pt. Jawahar Lal Nehru
-
-B. Dr. Bhim Rao Ambedkar
-
-C. Dr. Rajendra Prasad
-
-D. Dr. S. Radha Krishnan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS Prelims 2021, Q73)**: Dr. S. Radhakrishnan (and Jawaharlal Nehru) characterized Fundamental Rights in the Constituent Assembly as *"a pledge to our people and a pact with the civilized world."*
 
 ---
 
@@ -444,29 +309,7 @@ D. Dr. S. Radha Krishnan
 
 > **Logic:** CDP ≠ 1948. First Plan home. TRYSEM and Food for Work are **1970s**, not Nehru-era CDP.
 
-**PYQ — UPPCS Prelims 2025, Q134**
-
-Consider the following programmes and arrange them in correct chronological order.
-
-1. Food for Work Programme
-2. Community Development Programme
-3. Training of Rural Youth for Self Employment (TRYSEM)
-4. Drought Prone Areas Programme
-
-A. 4, 2, 3, 1
-
-B. 2, 4, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS Prelims 2025, Q134):** Rural development programme chronology: Community Development Programme (2 Oct 1952) → Drought Prone Areas Programme (1973–74) → Food for Work Programme (1977–78) → TRYSEM (Aug 1979).
 
 ---
 
@@ -527,46 +370,9 @@ D. 4, 2, 1, 3
 
 **PYQ — UPPCS Prelims 2025, Q71**
 
-Which of the following persons were members of the States Reorganisation Commission?
+> [!TIP] **Exam Anchor (UPPCS Prelims)**: Members of the States Reorganisation Commission (SRC, 1953) headed by Justice Fazal Ali were **K.M. Panikkar** and **H.N. Kunzru**.
 
-1. K. T. Shah
-2. K. M. Panikkar
-3. P. Sitaramayya
-4. H. N. Kunzru
-
-A. 1 and 3
-
-B. 2 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**PYQ — UPPCS Prelims 2018, Q68**
-
-Which of the following is the first State in India formed on the basis of languages?
-
-A. Kerala
-
-B. Madhya Pradesh
-
-C. Andhra Pradesh
-
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS Prelims 2018, Q68)**: **Andhra State** was the first state created on linguistic lines in India on 1 October 1953, following the fast unto death of Potti Sreeramulu.
 
 ---
 
@@ -589,62 +395,11 @@ D. Uttar Pradesh
 
 > **Logic:** PC ≠ Finance Commission. NITI ≠ renamed PC with the same plan-power. First NITI VC = **Panagariya**, not Rajiv Kumar.
 
-**PYQ — UPPCS Prelims 2018, Q144**
+> [!TIP] **Exam Anchor (UPPCS Prelims 2018, Q144)**: Ashok Chandra (former Comptroller and Auditor General) described the **Planning Commission** as the "Economic Cabinet" of India.
 
-Which of the following was called as Economic cabinet of India by Ashok Chandra?
+> [!TIP] **Exam Anchor (UPPCS Prelims 2018, Q115)**: The **Planning Commission (now NITI Aayog)** was responsible for calculating and fixing the poverty line in India through expert task forces (Alagh, Lakdawala, Tendulkar, Rangarajan).
 
-A. Planning Commission
-
-B. Finance Commission
-
-C. Central Cabinet
-
-D. Administrative Reform Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**PYQ — UPPCS Prelims 2018, Q115**
-
-Which of the following fixes the poverty line in India?
-
-A. Central Council of Ministers
-
-B. Lok Sabha
-
-C. Rajya Sabha (राज्यसभा)
-
-D. Planning Commission (Now Niti Ayog)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**PYQ — UPPCS Prelims 2018, Q67**
-
-Who was the first Vice-Chairman of the NITI Ayog?
-
-A. Arvind Panagariya
-
-B. Raghuram Rajan (राजन)
-
-C. Chandrashekhara Subramanyam
-
-D. Rajiv Kumar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS Prelims 2018, Q67)**: **Arvind Panagariya** was appointed as the first Vice-Chairman of NITI Aayog in January 2015.
 
 ---
 
@@ -673,26 +428,22 @@ D. Rajiv Kumar
 
 > **Logic:** Sustainable-growth slogan = **12th**, not 11th. Steel plants = **2nd Plan**. CDP = **1st Plan**.
 
-**PYQ — UPPCS Prelims 2018, Q40**
-
-In India which of the following Five Year Plans was launched with a focus on sustainable growth?
-
-A. 9th
-
-B. 10th
-
-C. 11th
-
-D. 12th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS Prelims 2018, Q40)**: The **12th Five-Year Plan (2012–2017)** was launched with the core objective of *"Faster, More Inclusive and Sustainable Growth."*
 
 ---
+
+## 15.9 Master Fact-Locks — Princely States Integration & Constituent Assembly High-Yield Repository
+
+| Concept / Event | Key Leaders / Proponents | Year / Details | Key Diagnostic Fact & Exam Anchor |
+|---|---|---|---|
+| **Butler Committee (Indian States Committee)** | Sir Harcourt Butler (Chair), Sir Leslie Scott (Princes' counsel) | 1927 (London / India) | Appointed to investigate relations between Paramount Power & Princely States; affirmed Paramountcy preserves princely rule; ruled states cannot be transferred to a self-governing Indian legislature without their prior consent. |
+| **All India States People's Conference (AISPC)** | Balwant Rai Mehta, Manilal Kothari, G.R. Abhyankar | Dec 1927 (Bombay) | Coordinating body for Praja Mandal movements in princely states; championed civil liberties and democratic governance; Jawaharlal Nehru elected President in 1939. |
+| **Accession & Integration of Princely States** | Sardar Vallabhbhai Patel, V.P. Menon, Lord Mountbatten | 1947–1948 | Patel took charge of Ministry of States in July 1947; 562 out of 565 states acceded before 15 August 1947 on Defence, External Affairs & Communications; Junagarh acceded via plebiscite (Feb 1948); PEPSU consolidated under Patel. |
+| **Jammu & Kashmir Accession** | Maharaja Hari Singh, Sheikh Abdullah, Jawaharlal Nehru | 26 Oct 1947 (Accession) / 27 Oct 1947 (Army deployment) | Hari Singh signed Instrument of Accession (IOA) on 26 Oct 1947 to repel Pakistani tribal raiders; Sheikh Abdullah appointed Head of Emergency Administration / Prime Minister; accession ratified by J&K Constituent Assembly Feb 1954; J&K Constitution enforced 26 Jan 1957. |
+| **Hyderabad Standstill Agreement & Merger** | Nizam Mir Osman Ali Khan, Lord Mountbatten, Sardar Patel | 29 Nov 1947 (Standstill) / Sept 1948 (Operation Polo) | Standstill Agreement signed 29 Nov 1947 between Dominion of India and Nizam; Razakar atrocities under Kasim Razvi led to Indian police action **'Operation Polo'** (13–18 Sept 1948), integrating Hyderabad into Indian Union. |
+| **Constituent Assembly Demand & Evolution** | Bal Gangadhar Tilak, Mahatma Gandhi, Motilal Nehru, M.N. Roy, Jawaharlal Nehru | 1895 (Swaraj Bill) / 1922 (Gandhi) / 1924 (Motilal) / 1934 (M.N. Roy) / 1936 (Faizpur) | First mooted in **Swaraj Bill 1895** (under Tilak's direction); Gandhi (1922) stated Constitution must reflect Indians' self-determination; Motilal Nehru (1924) demanded it in Central Legislature; **M.N. Roy (1934)** put forward official demand for Constituent Assembly; adopted as official Congress policy at **Faizpur Session (Dec 1936)**. |
+| **Constituent Assembly Formation (Cabinet Mission)** | Dr. Sachchidananda Sinha, Dr. Rajendra Prasad, Dr. B.R. Ambedkar, G.V. Mavlankar | 1946–1950 | Constituted under **Cabinet Mission Plan 1946**; ratio of **1 seat per 10 lakh (1 million) population**; 3 voter categories: General, Muslims, Sikhs (Punjab only); 296 British Indian seats elected July 1946 (Congress: 208, Muslim League: 73, Others: 15); first meeting: **9 December 1946** (Dr. Sachchidananda Sinha as Temporary Chairman); permanent President: **Dr. Rajendra Prasad** elected on **11 December 1946**; became sovereign body on **14 August 1947**; Constitution adopted **26 Nov 1949**, enforced **26 Jan 1950**; **G.V. Mavlankar** Speaker of Central Legislative Assembly (1946–47) and first Lok Sabha Speaker (1952–56); **Socialist Party** (JP Narayan, Lohia) called for dissolution and re-election by universal adult suffrage. |
+
 
 ## UP Focus
 
@@ -710,27 +461,7 @@ D. 12th
 
 **Q1. UPPCS Prelims 2025, Q71**
 
-Which of the following persons were members of the States Reorganisation Commission?
-
-1. K. T. Shah
-2. K. M. Panikkar
-3. P. Sitaramayya
-4. H. N. Kunzru
-
-A. 1 and 3
-
-B. 2 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
+> [!TIP] **Exam Anchor (UPPCS Prelims)**: Members of the States Reorganisation Commission (SRC, 1953) headed by Justice Fazal Ali were **K.M. Panikkar** and **H.N. Kunzru**.
 
 **Q2. UPPCS Prelims 2025, Q82**
 
@@ -993,277 +724,709 @@ D. Administrative Reform Commission
 ---
 
 
-## Ghatnachakra Extra Drill — Constituent Assembly
+## Complete PYQ Bank — Ghatnachakra Indian Princely States (10 Questions)
 
-Teaching sits in **15.3**.
+---
 
-**Q1. UPPCS / IAS / BPSC**
+**Q-GC-IPS-1. 46th B.P.C.S. (Pre) 2004**
 
-The Constituent Assembly of India was set up under the provisions of:
+The purpose of the Butler Committee, 1927:
 
-A. Cripps Mission Plan, 1942
+- (a) Modernization of Indian Army
 
-B. Cabinet Mission Plan, 1946
+- (b) Innovative modernization of Indian Agriculture.
 
-C. Mountbatten Plan, 1947
+- (c) Implementation of censorship over National Newspapers.
 
-D. Indian Independence Act, 1947
+- (d) Improvement of relationships between Indian
+Provinces and the Crown.
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Logic:** Constituent Assembly creation is tied to the **Cabinet Mission (1946)**, not the Mountbatten Plan or Cripps Mission alone.
+**Answer: (d)**
 
-**Ans: B.** The Assembly was elected in **1946** under the **Cabinet Mission** scheme before full transfer of power. **Trap:** The Independence Act **implemented** Partition and commencement dates — it did **not** create the Assembly, which had already met in December 1946.
+**Explanation:**
+The Indian States Committee appointed a committee under
 
-</details>
+the Chairmanship of Sir Harcourt Butler, which was popularly
 
-**Q2. UPPCS / IAS**
+known as ‘The Butler Committee’ to investigate and clarify
 
-At which session of the Indian National Congress was the idea of a Constituent Assembly pressed strongly?
+the relationship between paramount power and the princes
 
-A. Lucknow Session, 1916
+of Princely States in 1927 AD.
 
-B. Faizpur Session, 1936
+The recommendations of committee were -
 
-C. Karachi Session, 1931
+The relationship of the paramount power of the state was
 
-D. Lahore Session, 1929
+not merely a contractual relationship but a living, growing
 
-<details>
-<summary>Show answer</summary>
+relationship shaped by the circumstances and policy.
 
-**Logic:** The demand for a Constituent Assembly was strongly pressed at the **Faizpur** session — not Lucknow, Karachi, or Lahore.
+British paramount preserved the princely State.
 
-**Ans: B.** The Congress at **Faizpur (1936)** pressed hard for a Constituent Assembly. **Trap:** **Karachi 1931** is linked to the Fundamental Rights resolution, not the CA demand.
+The state should not be transferred without their agreement
 
-</details>
+to a relationship with a new government in British India
 
-**Q3. UPPCS / IAS / BPSC**
-
-Under the Cabinet Mission scheme, Constituent Assembly representation was broadly based on:
-
-A. One member from each princely state regardless of population
-
-B. One seat for roughly every 10 lakh population
-
-C. Equal seats for all British Indian provinces
-
-D. Nomination by the Viceroy's Executive Council
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Cabinet Mission fixed representation at roughly **one seat per 10 lakh** of population — not one per province or per district.
-
-**Ans: B.** The ratio was about **one representative per 10 lakh** people in British India. **Trap:** Strength was **389** initially (299 after Partition) — do not confuse the **ratio rule** with final seat totals.
-
-</details>
-
-**Q4. UPPCS / IAS**
-
-Consider the following statements about the first meeting of the Constituent Assembly:
-
-1. It first met on 9 December 1946.
-2. Sachchidananda Sinha presided as temporary President.
-
-Which is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First sitting **9 December 1946**; **Sachchidananda Sinha** was temporary President before Rajendra Prasad.
-
-**Ans: C.** Both facts are correct. **Trap:** **Rajendra Prasad** became **permanent President on 11 December 1946** — Sinha was only the **temporary** chair for the opening sitting.
-
-</details>
-
-**Q5. UPPCS / IAS / BPSC**
-
-Who was elected as the permanent President of the Constituent Assembly?
-
-A. Dr. B. R. Ambedkar
-
-B. Dr. Rajendra Prasad
-
-C. Jawaharlal Nehru
-
-D. Sachchidananda Sinha
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Permanent CA President = **Rajendra Prasad**; Ambedkar chaired Drafting, not the Assembly.
-
-**Ans: B.** **Rajendra Prasad** was elected permanent President on **11 December 1946**. **Trap:** Sinha was **temporary** chair at the first sitting; Ambedkar headed only the **Drafting Committee**.
-
-</details>
-
-**Q6. UPPCS / IAS**
-
-Which of the following statements about the Constituent Assembly is **not** correct?
-
-A. Its initial strength was 389 members.
-
-B. After Partition its strength reduced to about 299 members.
-
-C. Muhammad Ali Jinnah was a member of the Constituent Assembly.
-
-D. The Congress had the largest bloc of seats.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** **Jinnah was NOT** a member of the Indian Constituent Assembly — League participation is often confused with his personal membership.
-
-**Ans: C.** **Jinnah was not** a member of the Indian Constituent Assembly. **Trap:** Muslim League members did join later sittings, but Jinnah himself stayed with Pakistan politics — do not assume League leadership equals CA membership.
-
-</details>
-
-**Q7. UPPCS / IAS / BPSC**
-
-With reference to the Indian Constitution, consider the following:
-
-1. The Constitution was adopted on 26 November 1949.
-2. The Constitution commenced on 26 January 1950.
-
-Which is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** **Adopted 26 Nov 1949** ≠ **commenced 26 Jan 1950** — both dates are separate milestones.
-
-**Ans: C.** Adoption and commencement are **two different dates**. **Trap:** **24 January 1950** was the **last sitting** of the Assembly — not adoption or commencement.
-
-</details>
-
-**Q8. UPPCS / IAS**
-
-G. V. Mavlankar is remembered in constitution-making history for:
-
-A. Chairing the Drafting Committee before Ambedkar
-
-B. Moving the Objectives Resolution in the Constituent Assembly
-
-C. Serving as Speaker of the Central Legislative Assembly and later as the first Speaker of the Lok Sabha
-
-D. Presiding over the Constituent Assembly as its permanent President
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** **G. V. Mavlankar** bridged the colonial Central Legislative Assembly Speakership and free India's first Lok Sabha Speakership.
-
-**Ans: C.** Mavlankar bridged the **British-era Central Assembly** and the **First Lok Sabha** as Speaker. **Trap:** Permanent CA President was **Prasad**, not Mavlankar; **Nehru** moved the Objectives Resolution.
-
-</details>
-
-**Q9. UPPCS / IAS**
-
-When was the Objectives Resolution moved and when was it adopted by the Constituent Assembly?
-
-A. Moved 13 December 1946; adopted 22 January 1947
-
-B. Moved 9 December 1946; adopted 26 November 1949
-
-C. Moved 22 July 1947; adopted 26 January 1950
-
-D. Moved 29 August 1947; adopted 24 January 1950
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Objective Resolution — moved **13 Dec 1946**, adopted **22 Jan 1947**; do not swap with Flag or Drafting Committee dates.
-
-**Ans: A.** Nehru moved the Objectives Resolution on **13 December 1946**; the Assembly adopted it on **22 January 1947**. **Trap:** **22 July 1947** is the **National Flag** adoption date, not the Objectives Resolution.
-
-</details>
-
-**Q10. UPPCS / IAS / BPSC**
-
-The Drafting Committee of the Constituent Assembly was set up on:
-
-A. 9 December 1946
-
-B. 22 January 1947
-
-C. 29 August 1947
-
-D. 26 November 1949
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Drafting Committee was constituted **29 August 1947**, not at the first sitting in December 1946.
-
-**Ans: C.** The Drafting Committee (chair **B. R. Ambedkar**) was created on **29 August 1947**, after independence. **Trap:** First CA sitting (**9 Dec 1946**) and Drafting Committee formation are **eleven months apart**.
-
-</details>
-
-**Q11. UPPCS / IAS**
-
-The Constituent Assembly took approximately how long to complete its work?
-
-A. 1 year 6 months
-
-B. 2 years 11 months and 18 days
-
-C. 3 years 6 months
-
-D. 4 years exactly
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Assembly duration **2 years 11 months 18 days** — standard chronology anchor from first sitting to adoption.
-
-**Ans: B.** From first sitting (**9 Dec 1946**) to adoption (**26 Nov 1949**), the Assembly worked about **2 years 11 months 18 days**. **Trap:** Do not count from **15 August 1947** alone — the Assembly began and did substantial work **before** independence.
+responsible to an Indian legislature.
 
 </details>
 
 ---
 
-### UKPCS Complete PYQ Bank (Constituent / Planning)
+**Q-GC-IPS-2. 40th B.P.S.C. (Pre) 1995**
 
-Planning roots in **1938** (Nehru's National Planning Committee) link forward to Topic 15's **Planning Commission (1950)**; full Gandhian-era card sits in **Topic 13 — UKPCS bank**.
+All India State Peoples Conference was set up –
 
-**Q1. UKPCS Prelims 2025, Q74**
+- (a) in 1924 (b) in 1926
 
-Who was appointed the Chairman of the 'National Planning Committee' by the Indian National Congress in 1938?
+- (c) in 1927 (d) in 1929
 
-A. Sardar Vallabhbhai Patel
+<details><summary>Show answer</summary>
 
-B. Rajendra Prasad
+**Answer: (c)**
 
-C. Jawaharlal Nehru
+**Explanation:**
+All India State People’s Conference was set up in December,
 
-D. J. B. Kripalani
+1927 A.D. More than 1500 political workers of different
 
-<details>
-<summary>Show answer</summary>
+States participated in this Conference. All India States
 
-**Logic:** Congress planning machinery of **1938** — chairman association with Nehru, not Patel or Prasad.
+People Conference was formed in which men like Balwant
 
-**Ans: C (Series B provisional key).** Nehru chaired the National Planning Committee set up in **1938** during Subhas Chandra Bose (सुभाष चंद्र बोस)'s Congress presidency. Patel, Prasad and Kripalani are planted Congress distractors. **Trap:** Do not read this as the **1950 Planning Commission** — the 1938 body was a **Congress** committee, not the post-independence **Cabinet resolution** Commission.
+Rai Mehta, Manilal Kothari and G.R. Abhyankar played a
+
+significant role.
 
 </details>
+
+---
+
+**Q-GC-IPS-3. I.A.S. (Pre) 2001**
+
+Who among the following was the President of the All
+India States Peoples Conference in 1939?
+
+- (a) Jaya Prakash Narayan
+
+- (b) Jawaharlal Nehru
+
+- (c) Sheikh Abdullah
+
+- (d) Sardar Vallabhbhai Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Jawaharlal Nehru was elected as President of All India State
+
+Peoples Conference in 1939 A.D. to represent the common
+
+national interest of political struggles of the Princely States
+
+and British India.
+
+</details>
+
+---
+
+**Q-GC-IPS-4. U.P. P.C.S. (Pre) 1990**
+
+Most of the integration of princely states in the Union
+of India had taken place in which year?
+
+- (a) 1948 (b) 1947
+
+- (c) 1950 (d) 1961
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Integration of most of the princely states happened in 1947
+
+A.D. All Princely States merged in the Union of India in 1947
+
+AD except Junagarh, Jammu & Kashmir and Hyderabad and
+
+these three States were compelled to join the Union of India
+
+till the end of 1948 A.D. Sardar Patel, who took charge of the
+
+state department in 1947 A.D., tackled the situation with great
+
+statesmanship. Patel appealed to the patriotic and nationalist
+
+sentiments of the Princes and requested the States to be
+
+handed over to the authority of External Affairs, Defence and
+
+Communications to the Indian Dominion. The integration of
+
+Princely states took proper shape in his leadership.
+
+</details>
+
+---
+
+**Q-GC-IPS-5. Uttarakhand P.C.S. (Mains) 2002**
+
+Integration of States was done under the leadership
+of:
+
+- (a) Maulana Azad (b) Govind Ballabh Pant
+
+- (c) B. R. Ambedkar (d) Sardar Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-IPS-6. U.P.P.C.S. (Pre) 1998**
+
+Which three Indian States delayed accession to India
+even after other princely states had joined India?
+
+- (a) Junagarh, Mysore, Jammu and Kashmir
+
+- (b) Junagarh, Hyderabad, Jammu and Kashmir
+
+- (c) Udaipur, Kapurthala, Jammu and Kashmir
+
+- (d) Hyderabad, Udaipur, Travancore
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+See the explanation of above question.
+
+</details>
+
+---
+
+**Q-GC-IPS-7. M.P.P.C.S. (Pre) 2008**
+
+Jammu and Kashmir became an integral part of India
+on-
+
+- (a) 26th October, 1948 (b) 26th November, 1948
+
+- (c) 26th October, 1947 (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+On 26 October, 1947 A.D. the Maharaja of Kashmir, Hari
+
+Singh handed over the 'Instrument of Accession' (IOA) to
+
+Jawaharlal Nehru. J.L. Nehru appointed Sheikh Abdullah
+
+as Prime Minister and the Indian Army entered Jammu and
+
+Kashmir on 27 October, 1947 A.D. to repel the invaders.
+
+</details>
+
+---
+
+**Q-GC-IPS-8. I.A.S. (Pre) 2000**
+
+At the time of Partition of India, which one of the
+following provinces of British India came forward with
+a plan for a United and Independent existence?
+
+- (a) Punjab (b) Assam
+
+- (c) Bengal (d) Bihar
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+During the time of Partition of India, Punjab province came
+
+forward with a plan for a United and Independent existence,
+
+but it was due to the effort of Sardar Vallabh Bhai Patel that
+
+PEPSU came into existence consisting of Eastern Punjab,
+
+Patiala, and the hilly States and rejected the idea of an
+
+independent state.
+
+</details>
+
+---
+
+**Q-GC-IPS-9. U.P.P.C.S. (Pre) 1997**
+
+Which one of the following native States was a party
+to the ‘Stand-Still’ Agreement:
+
+- (a) Hyderabad
+
+- (b) Jammu and Kashmir
+
+- (c) Junagarh
+
+- (d) Mysore
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Standstill Agreement was signed between the State of
+
+Hyderabad and Dominion of India on 29 November, 1947
+
+A.D. This Agreement was signed by Nizam of Hyderabad
+
+State Mir Osman Ali Khan and then Governor-General and
+
+Viceroy of India Lord Mountbatten.
+
+</details>
+
+---
+
+**Q-GC-IPS-10. 68th B.P.S.C. (Pre) 2022**
+
+During the freedom struggle, a parallel movement
+launched in the Indian States (in the States ruled by the
+Indian rulers such as Kashmir, Nizam's Hyderabad,
+Travancore etc.) was
+
+- (a) Swaraj Movement
+
+- (b) State People's Movement
+
+- (c) Praja Mandal Movement
+
+- (d) More than one of the above
+
+- (e) None of the above
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+In 1920s during freedom struggle various people's
+
+movements were launched in the princely states of British
+
+Raj. These movements were called State Peoples Conference
+
+or Praja Mandals. These movements were spearheaded by
+
+people living in princely states who were subject to the rule of
+
+local aristocrats rather than the British Raj. They campaigned
+
+against those feudatory rulers, and sometimes also the British
+
+administrators, in attempts to improve their civil rights.
+
+</details>
+
+## Complete PYQ Bank — Ghatnachakra Constituent Assembly (1946) (11 Questions)
+
+> [!NOTE]
+> **Official Chapter Coverage:** Full coverage of all 11 questions from Ghatna Chakra with verified official keys, comprehensive explanations, and state PSC/IAS tags.
+
+---
+
+**Q-GC-CA-1. U.P.U.D.A./L.D.A. (Pre) 2001**
+
+Which one of the following first mooted the idea of
+a Constituent Assembly to frame a Constitution for
+India?
+
+- (a) Swaraj Party in 1935
+
+- (b) Congress Party in 1936
+
+- (c) Muslims League in 1942
+
+- (d) All Parties Conference in 1946
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The idea of the Constitution of India was seen in ‘Swaraj
+
+Bill’ of 1895 for the first time but officially it was stated in
+
+the Faizpur Congress Session in 1936 AD. In this session, the
+
+constituent Assembly was vastly explained. It is notable that
+
+if option (a) would be Swaraj Party, 1934 then it would be the
+
+correct answer. The Swaraj Party demanded the development
+
+of Constituent Assembly in Ranchi (1934 AD).
+
+</details>
+
+---
+
+**Q-GC-CA-2. U.P.P.C.S. (Mains) 2008 / U.P.P.C.S. (Spl) (Mains) 2004**
+
+The Constituent Assembly that framed India’s
+constitution was set up –
+
+- (a) Under the Indian Independence Act
+
+- (b) Under the Government of India Act, 1935
+
+- (c) By the Queen’s Proclamation
+
+- (d) Under the Cabinet Mission Plan
+
+<details><summary>Show answer</summary>
+
+**Answer: (d)**
+
+**Explanation:**
+Constituent Assembly was founded under Cabinet Mission.
+
+The President of Cabinet Mission declared that the main
+
+purpose of this mission was to make a Constitution Committee
+
+for Constitutional reforms in India. According to the Proposals
+
+of the Cabinet Mission, the assembly of the constituent
+
+assembly will be constituted by the representatives of the
+
+legislative assembly of provinces, the chief commissioners
+
+and the representatives of the princely states.
+
+</details>
+
+---
+
+**Q-GC-CA-3. U.P. U.D.A./L.D.A. (Pre) 2010**
+
+Which one of the following gave the idea of
+Constituent Assembly for India?
+
+- (a) Simon Commission (b) Rajaji Formula
+
+- (c) Cabinet Mission Plan (d) Wavell Plan
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Q-GC-CA-4. U.P.U.D.A./L.D.A. (Pre) 2002 / U.P.P.C.S. (Pre) 2001**
+
+Under the Cabinet Mission Plan, the total
+number of seats allotted to each province in the
+Constituent Assembly was roughly in the ratio of one
+representative to the population of –
+
+- (a) 8 lakh persons (b) 10 lakh persons
+
+- (c) 11 lakh persons (d) 12 lakh persons
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+Under the Cabinet Mission, the total number of seats allocated
+
+to each province in the Constituent Assembly was roughly in
+
+the ratio of one representative to the population of 10 lakh
+
+persons on a communal basis. Three classes of voters were
+
+accepted –
+
+(1) General (2) Muslims (3) Sikhs (only in Punjab).
+
+</details>
+
+---
+
+**Q-GC-CA-5. U.P.P.C.S. (Mains) 2009**
+
+The first session of the Constituent Assembly was held
+on :
+
+- (a) 16th August, 1947 (b) 26th January, 1948
+
+- (c) 9th December, 1946 (d) 26th November, 1946
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The first meeting of the Constituent Assembly was held on
+
+9th December, 1946 AD. After two days, Rajendra Prasad
+
+was elected as the permanent President of the Constituent
+
+Assembly on 11 December, 1946 AD.
+
+</details>
+
+---
+
+**Q-GC-CA-6. U.P.R.O./A.R.O. (Pre) 2014**
+
+Who among the following was the President of the
+Indian Constituent Assembly?
+
+- (a) Dr. Rajendra Prasad (b) Pt. Jawaharlal Nehru
+
+- (c) Sardar Patel (d) Dr. B. R. Ambedkar
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Dr. Rajendra Prasad was the permanent President of the
+
+Indian Constituent Assembly. Dr. B. R. Ambedkar was
+
+President of the Drafting Committee. Jawaharlal Nehru was
+
+President of Union Power Committee, Union Constitution
+
+Committee etc.Vallabhbhai Patel was President of Advisory
+
+Committee on Fundamental Rights, Minorities, Tribal and
+
+excluded areas.
+
+</details>
+
+---
+
+**Q-GC-CA-7. U.P.P.S.C. (GIC) 2010**
+
+The first President of the Sovereign Constituent
+Assembly for the Dominion of India was –
+
+- (a) C. Rajagopalachari
+
+- (b) Maulana Abul Kalam Azad
+
+- (c) Rajendra Prasad
+
+- (d) Sachchidananda Sinha
+
+<details><summary>Show answer</summary>
+
+**Answer: (c)**
+
+**Explanation:**
+The Constituent Assembly was not sovereign at the time of
+
+formation; it was declared sovereign on 15th August, 1947
+
+AD and that day Rajendra Prasad was elected as permanent
+
+President of Constituent Assembly. So Rajendra Prasad is
+
+the correct answer.
+
+</details>
+
+---
+
+**Q-GC-CA-8. 1950. / I.A.S. (Pre) 2004**
+
+Which one of the following statements is correct?
+
+- (a) The Constituent Assembly of India was elected by the
+Provincial Assemblies in the year 1946.
+
+- (b) Jawaharlal Nehru, M.A.Jinnah and Sardar Vallabhbhai
+Patel were members of the Constituent Assembly of
+India.
+
+- (c) The first session of the Constituent Assembly of India
+was held in January, 1947.
+
+- (d) The Constitution of India was adopted on 26th January,
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Under the Cabinet Mission Plan of 1946, elections were held
+
+for the first time for Constituent Assembly. The elections
+
+for the 296 seats assigned to the British Indian provinces
+
+were completed by July, 1946 AD. Congress won 208 seats
+
+and Muslim League won 73 seats and other independent
+
+candidates won 15 seats. M .A. Jinnah was not a member of the
+
+Constituent Assembly of India. The Constituent Assembly was
+
+the first Parliament of Independent India. Dr. Sachchidananda
+
+Sinha was the first President (Temporary Chairman of the
+
+Assembly) of the Constituent Assembly when it met on
+
+December 9, 1946 AD. Dr. Rajendra Prasad then became the
+
+permanent President of the Constituent Assembly, and later
+
+became the first President of India. The Constitution of India
+
+was adopted on 26th November, 1949 AD.
+
+</details>
+
+---
+
+**Q-GC-CA-9. Rajasthan P.C.S. (Pre) 2024**
+
+Which political party's National Executive called for
+the dissolution of the Constituent Assembly and its reelection by adult suffrage?
+
+- (a) Hindu Mahasabha (b) Socialist Party
+
+- (c) Swaraj Party (d) Muslim League
+
+- (e) Question not attempted
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+The National Executive of the Indian Socialist Party in 1946
+
+A.D. demanded the dissolution of the Constituent Assembly
+
+and its re-election through universal adult suffrage. Socialist
+
+leaders such as Jayaprakash Narayan and Ram Manohar
+
+Lohia argued that the Constituent Assembly, which was
+
+indirectly elected by the Provincial Legislatures, did not
+
+adequately represent the common Indian people. Therefore,
+
+these leaders advocated for a more democratic process and
+
+called for the reconstitution of the Constituent Assembly
+
+based on universal adult suffrage.
+
+</details>
+
+---
+
+**Q-GC-CA-10. 44th B.P.S.C. (Pre) 2000**
+
+Sachchidananda Sinha was associated with :
+
+- (a) Quit India Movement
+
+- (b) Dandi March
+
+- (c) Civil Disobedience Movement
+
+- (d) None of these
+
+<details><summary>Show answer</summary>
+
+**Answer: (a)**
+
+**Explanation:**
+Sachchidanand Sinha was associated with Quit India
+
+Movement. He was elected as temporary President in the first
+
+meeting of the Constituent Assembly (9 December, 1946 AD).
+
+</details>
+
+---
+
+**Q-GC-CA-11. M.P.P.C.S. (Pre) 2010**
+
+Who among the following held the Office of Speaker
+in Central Legislative Assembly of British era and the
+Parliament of free India?
+
+- (a) Sir Abdur Rahim
+
+- (b) G.V. Mavlankar
+
+- (c) Ananat Shayanam Ayanger
+
+- (d) Vitthal Bhai Patel
+
+<details><summary>Show answer</summary>
+
+**Answer: (b)**
+
+**Explanation:**
+G. V. Mavlankar held the office of Speaker of Central
+
+Legislative Assembly of British era (24 January 1946 AD
+
+to 14 Aug, 1947 AD) and was speaker of Lok Sabha after
+
+Independence from 1952 AD to 1956 AD. He was President
+
+of Legislative Assembly of Bombay province from 1937
+
+AD to 1946 AD.
+
+</details>
+
 
 ---
 

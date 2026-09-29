@@ -577,7 +577,7 @@ Home for **scheme–year–ministry–objective**. KSVY is the **umbrella** for 
 
 ## Complete PYQ Bank (Topic 1)
 
-UPPCS/RO-ARO first (newest → oldest), then UPSC-pattern only where local `pyq/` is thin. Answers in `<details>`.
+UPPCS/RO-ARO first (newest → oldest), then UPSC-pattern only where local `pyq/` is thin. Answers in `details tag`.
 
 ### 2025
 

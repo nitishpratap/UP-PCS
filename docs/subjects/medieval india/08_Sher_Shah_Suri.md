@@ -1389,14 +1389,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A))
 
 **Detailed Explanation:**
-- **Assertion (A) is correct:** On 17 May 1540 CE, the Battle of Kannauj (also known as the Battle of Bilgram, in Hardoi district, UP) was fought between Sher Shah and Humayun. Humayun's large but demoralized army was routed without any major artillery engagement due to heavy rains flooding the Mughal camp.
+- **Assertion (A) is correct:** On 17 May 1540 CE, the Battle of Kannauj (also known as the Battle of Bilgram, in Hardoi district, UP) was fought between Sher Shah and Humayun. Humayun's large but demoralized army was routed without any major artillery engagement due to heavy rains flooding the Mughal camp and Sher Shah's superior cavalry tactics.
 - **Reason (R) is correct:** The defeat at Kannauj was absolute; Humayun lost Delhi and Agra, wandered through Rajasthan and Sindh, and lived in exile at the Safavid court of Shah Tahmasp in Persia for 15 years, finally recovering Delhi and Agra in 1555 CE after the Sur Empire fragmented.
-- **Why (R) explains (A):** The decisive strategic nature of the Battle of Kannauj is demonstrated precisely by Humayun's complete displacement from India and his fifteen-year political exile.
+- **Why (R) does NOT explain (A):** Reason (R) describes the **aftermath and historical consequence** of the battle, not the **cause** of Sher Shah's victory. Sher Shah won due to superior military tactics, entrenchment, weather advantages, and divisions in the Mughal leadership—not because Humayun fled into exile afterward. Hence, both statements are true, but (R) is not the correct explanation of (A).
 
 **Key Exam Takeaway / Trap:**
+- *Cause vs Consequence:* In Assertion-Reason questions, subsequent effects or political aftermaths (e.g. going into exile) do not explain the preceding battle's victory.
 - *Bilgram = Kannauj:* Bilgram and Kannauj refer to the exact same battle on **17 May 1540 CE**, which founded the Second Afghan Empire.
 
 </details>
