@@ -1,4 +1,4 @@
-﻿# Topic 13 — Gandhian Era (1915–1948)
+# Topic 13 — Gandhian Era (1915–1948)
 ### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥55)
 
 <details>
@@ -11644,7 +11644,7 @@ Assertion
 a limited Satyagraha by a few selected
 individuals.
 Reason (R): The Satyagraha was kept limited so as
-to embrace Britain's war efforts.
+not to embarrass Britain's war efforts.
 Select the correct answer using the code given below:
 Code -
 
@@ -11667,37 +11667,7 @@ of
 **Answer: (c)**
 
 **Explanation:**
-After refusing August offer completely, Gandhiji on 17
-
-October, 1940 A.D. called for limited Satyagrah (Individual
-
-Satyagrah) by few selected individuals. The limited
-
-individual Satyagrah had two aims - to show the displeasure
-
-of people of India with British India's participation in war
-
-and to give another chance to British government to accept
-
-demands of Indian people. Gandhiji and Congress, did
-
-not want to disrupt war efforts of British by starting mass
-
-movement due to their anti-Nazi stand. 
-</USER_REQUEST>
-<ADDITIONAL_METADATA>
-The current local time is: 2026-09-29T19:43:11+05:30.
-
-The user's current state is as follows:
-Active Document: c:\Users\Axeno\Desktop\UP-PCS\scratch\inspect_t3_pyqs.py (LANGUAGE_PYTHON)
-Cursor is on line: 1
-Other open documents:
-- c:\Users\Axeno\Desktop\UP-PCS\scratch\update_file_05.py (LANGUAGE_PYTHON)
-- c:\Users\Axeno\Desktop\UP-PCS\scratch\apply_standard_pyq_format.py (LANGUAGE_PYTHON)
-- c:\Users\Axeno\Desktop\UP-PCS\scratch\audit_t3_vterms.py (LANGUAGE_PYTHON)
-- c:\Users\Axeno\Desktop\UP-PCS\scratch\parse_batch7_all.py (LANGUAGE_PYTHON)
-- c:\Users\Axeno\Desktop\UP-PCS\scratch\integrate_topics_3_and_5.py (LANGUAGE_PYTHON)
-</ADDITIONAL_METADATA>
+After refusing August offer completely, Gandhiji on 17 October 1940 called for a limited Satyagraha (Individual Satyagraha) by a few selected individuals. Gandhiji and the Congress did not want to embarrass or disrupt Britain's war efforts against Nazi fascism by launching a mass movement, while simultaneously asserting the moral right to free speech against war involvement. Hence, Reason (R) directly explains Assertion (A).
 
 </details>
 
