@@ -9758,3 +9758,243 @@ D. Only 3
 25. **Azad was in the Interim Cabinet** → he was **not**; Nehru headed the Interim team.
 26. **Patel led INA defence at Red Fort** → lead counsel **Bhulabhai Desai**.
 27. **Indian Independence Act = 3 June 1947** → Plan **3 June**; Act royal assent **18 July**; freedom **15 August**.
+
+
+---
+
+## Lucent GK Complete Comprehensive Reference & Direct Gap-Fill: Final Phase of Freedom Struggle & Independence (1942–1947 & Integration)
+
+### 1. Cripps Mission (March–April 1942)
+- **Background & Context**:
+  - In early 1942, rapid Japanese advance in World War II brought the war to India's doorstep.
+  - Rangoon fell to the Japanese on **March 7, 1942**, and Japan overran Southeast Asia.
+  - Under pressure from US President Franklin D. Roosevelt and Chinese leader Chiang Kai-shek, British PM Winston Churchill sent **Sir Stafford Cripps** (Lord Privy Seal and member of the War Cabinet) to negotiate with Indian leaders.
+- **Key Proposals**:
+  1. Creation of an Indian Dominion with right to secede from the Commonwealth after the war.
+  2. A Constituent Assembly to frame a new constitution, composed partly of members elected by provincial assemblies through proportional representation and partly nominated by princely states.
+  3. **Provincial Opt-Out (Right of Secession)**: Any province unwilling to adhere to the new constitution could frame its own separate constitution and union (a tacit nod to Pakistan).
+  4. Defence of India was to remain under British control during wartime.
+- **Rejection & Failure**:
+  - Rejected unanimously by all major parties:
+    - Congress rejected it because it offered only future Dominion Status, retained British control over defence, and allowed provinces to secede, compromising national unity.
+    - Muslim League rejected it because it did not explicitly concede Pakistan.
+  - **Mahatma Gandhi's Famous Remark**: Termed the proposals *"A post-dated cheque on a crumbling bank"* (to which others added *"whose failure was imminent"*).
+
+---
+
+### 2. Quit India Movement (August 1942) & Parallel Governments
+- **Launch & Resolution**:
+  - On **August 8, 1942**, the All India Congress Committee (AICC) met at **Gowalia Tank Maidan (August Kranti Maidan), Bombay**, and passed the historic **'Quit India' Resolution**.
+  - Mahatma Gandhi delivered his stirring address raising the historic mantra: **"Do or Die" (Karo ya Maro)** — *"We shall either free India or die in the attempt; we shall not live to see the perpetuation of our slavery."*
+- **Colonial Repression & Operation Zero Hour**:
+  - In the early hours of **August 9, 1942** (under *Operation Zero Hour*), all senior Congress leaders (Gandhi, Jawaharlal Nehru, Vallabhbhai Patel, Abul Kalam Azad) were arrested and taken to unknown destinations.
+  - Gandhi was detained at the **Aga Khan Palace (Pune)** along with Sarojini Naidu, Kasturba Gandhi, and Mahadev Desai.
+  - CWC members (Nehru, Patel, Azad, Pant, Kripalani) were imprisoned in **Ahmednagar Fort**.
+- **Mass Uprising & Underground Resistance**:
+  - The movement became a spontaneous, leaderless nationwide mass revolt. Telegraph wires were cut, railway lines uprooted, and government buildings burnt.
+  - Underground network led by: **Jayaprakash Narayan (escaped from Hazaribagh Central Jail), Ram Manohar Lohia, Aruna Asaf Ali (hoisted the Tricolour at Gowalia Tank on Aug 9), Achyut Patwardhan, and Usha Mehta (operated secret underground Congress Radio from Bombay)**.
+- **Parallel Governments (Prati Sarkars) Established**:
+  1. **Ballia, Uttar Pradesh**: Established in August 1942 under **Chittu Pandey** (the *"Tiger of Ballia"*); released all Congress prisoners and functioned as the **First Parallel Government**.
+  2. **Tamluk, Midnapore District, Bengal**: The **Tamluk Jatiya Sarkar** (December 1942 – September 1944) founded by **Satish Chandra Samanta**; established armed volunteer corps *Vidyut Vahini* and cyclone relief; 73-year-old **Matangini Hazra** (*Gandhi Buri*) was martyred here while holding the national flag aloft.
+  3. **Satara, Maharashtra**: The **Prati Sarkar** organized by **Nana Patil and Y.B. Chavan** (mid-1943 to 1945); set up *Nyayadan Mandals* (people's courts) and *Toofan Senas*; was the **longest-surviving parallel government**.
+  4. **Talcher, Orissa**: Established a parallel peasant administration that functioned for several weeks before being crushed by aerial bombing.
+
+---
+
+### 3. Gandhiji's Epic 21-Day Fast (10 February – 7 March 1943)
+- Undertaken while under detention at the **Aga Khan Palace, Pune**.
+- The colonial government constantly pressured Gandhi to condemn the widespread violence during the Quit India Movement.
+- Gandhi responded with a **21-day moral fast**, unequivocally refusing to condemn the people and placing sole responsibility for the violence squarely upon the repressive terror of the British Government.
+- His physical condition deteriorated drastically on the 13th day, and the government even arranged sandalwood for his anticipated funeral pyre. However, through sheer spiritual stamina, he survived and concluded the fast on 7 March 1943.
+- In protest against his prolonged detention during the fast, three Indian members of the Viceroy's Executive Council (**H.P. Mody, N.R. Sarkar, and M.S. Aney**) resigned.
+
+---
+
+### 4. C.R. Formula (1944)
+- Formulated in **1944** by veteran Congress leader **Chakravarti Rajagopalachari (C.R.)** to resolve the Congress-League political deadlock and achieve a united front for independence.
+- **Key Terms**:
+  1. Muslim League to endorse the Congress demand for immediate independence and cooperate in forming an interim provisional government.
+  2. After the conclusion of World War II, a commission to demarcate contiguous Muslim-majority districts in the **North-West and East of India**.
+  3. A **plebiscite on the basis of adult suffrage** of all inhabitants (Hindus and Muslims) in those demarcated areas to decide whether to separate from India.
+  4. In the event of separation, mutual agreements to be entered into for safeguarding crucial common subjects: **Defence, Commerce, and Communications**.
+  5. The terms to be operative only in case of complete transfer of power by Britain.
+- **Rejection**:
+  - **M.A. Jinnah** rejected the formula: he insisted on the British accepting the **Two-Nation Theory** first, demanded that **only Muslims** of those areas participate in the plebiscite, and refused any joint centre for common subjects (dismissing C.R.'s offer as *"a shadow and a husk, a maimed, mutilated, and moth-eaten Pakistan"*).
+  - Hindu leaders led by **V.D. Savarkar** vehemently condemned the C.R. Formula as a appeasement to partition.
+
+---
+
+### 5. Wavell Plan & Shimla Conference (June 14 – July 14, 1945)
+- In May 1945, Viceroy **Lord Wavell** visited London and formulated proposals to break the constitutional deadlock (released on **14 June 1945**).
+- **Proposals of the Wavell Plan**:
+  1. Reconstruction of the Viceroy's Executive Council with all Indian members, except the Viceroy and the Commander-in-Chief.
+  2. **Balanced Communal Representation**: Equal representation for **Caste Hindus and Muslims** in the Executive Council (5 Caste Hindus, 5 Muslims).
+  3. The Governor-General to exercise his veto only on essential advice, not arbitrarily.
+- **Shimla Conference (25 June – 14 July 1945)**:
+  - 22 prominent Indian leaders (including Maulana Azad as Congress President, Nehru, Jinnah, Liaquat Ali Khan) gathered at Shimla to deliberate on the plan.
+  - **Deadlock & Breakdown**: Jinnah took the rigid stand that **all 5 Muslim members must be nominated exclusively by the Muslim League**, asserting the League was the sole representative of Indian Muslims.
+  - The Congress refused to accept this, insisting on its non-communal national character and asserting its right to nominate Muslims (such as Maulana Azad).
+  - Lord Wavell unilaterally dissolved the conference on **14 July 1945**, effectively granting the Muslim League an absolute veto over India's constitutional progress.
+
+---
+
+### 6. Azad Hind Fauj (Indian National Army - INA) & Red Fort Trials
+- **Origin & Evolution**:
+  - After the fall of Singapore in February 1942, Japanese Major Fujiwara urged Indian POWs to form a liberation army.
+  - **Captain Mohan Singh** founded the **First INA** in 1942.
+  - In **March 1942**, an All-India conference of overseas Indians in **Tokyo** established the **Indian Independence League**.
+  - At the **Bangkok Conference (June 1942)**, veteran revolutionary **Rash Behari Bose** was elected President of the League.
+- **Subhas Chandra Bose's Leadership**:
+  - Bose escaped from house arrest in Calcutta in **January 1941** (the *Great Escape*), reached Berlin via Peshawar and Moscow, and founded the **Free India Centre (Azad Hind Radio)** and the Indian Legion.
+  - In **May 1943**, Bose travelled by German submarine (U-180) and Japanese submarine (I-29) to Madagascar and Sumatra, reaching Singapore in **July 1943**.
+  - Rash Behari Bose formally handed over the presidency of the Indian Independence League and supreme command of the INA to Netaji Subhas Chandra Bose.
+  - On **21 October 1943**, Netaji proclaimed the **Provisional Government of Free India (Arzi Hukumat-e-Azad Hind)** in Singapore:
+    - Slogans: **"Delhi Chalo"**, **"Jai Hind"**, and **"Give me blood, and I shall give you freedom"**.
+    - Fighting Brigades named after national icons: **Subhas Brigade, Gandhi Brigade, Nehru Brigade, Maulana Azad Brigade**.
+    - Women's Combat Unit: **Rani of Jhansi Regiment** commanded by **Captain Lakshmi Swaminathan (Sehgal)**.
+  - Japan handed over the Andaman and Nicobar Islands to the Provisional Government, which Netaji renamed **Shaheed Dweep** and **Swaraj Dweep** (Dec 1943).
+  - INA marched alongside Japanese forces towards Imphal and Kohima in 1944. With the surrender of Japan in August 1945, the INA collapsed.
+  - Netaji is reported to have died from severe third-degree burns in an air crash at Matsuoka Airport, Taihoku (Taipei, Taiwan) on **18 August 1945**.
+- **INA Red Fort Trials (November 1945)**:
+  - The British put three INA officers on joint court-martial trial at the **Red Fort, Delhi**:
+    1. **Colonel Prem Kumar Sahgal** (Hindu)
+    2. **Colonel Gurbaksh Singh Dhillon** (Sikh)
+    3. **Major General Shah Nawaz Khan** (Muslim)
+  - Charged with *"waging war against the King-Emperor"*.
+  - A joint INA Defence Committee was formed by the Congress.
+  - **Chief Defence Counsel**: **Bhulabhai Desai**. Assisted by: **Sir Tej Bahadur Sapru, Pandit Jawaharlal Nehru (wearing the barrister's gown after 25 years), Asaf Ali, Dr. Kailash Nath Katju, and Md. Ali Jinnah**.
+  - Though convicted, the Commander-in-Chief (General Claude Auchinleck) was compelled to remit and suspend their sentences in the face of unprecedented countrywide mass outrage and mutinous unrest among armed forces.
+
+---
+
+### 7. Royal Indian Navy (RIN) / Ratings Mutiny (February 1946)
+- **Outbreak on HMIS Talwar**:
+  - On **18 February 1946**, over 1,100 naval ratings (*non-commissioned sailors*) on the signal training ship **HMIS Talwar** in Bombay went on strike.
+  - Direct Causes: Flagrant racial discrimination, abusive language by British commander King, unpalatable food, and the arrest of rating **B.C. Dutt** for scrawling **"Quit India"** on the ship's walls.
+- **Spread & Climax**:
+  - Next day (**19 February 1946**), **HMIS Hindustan** in Karachi joined the mutiny along with naval establishments in Calcutta, Madras, Vizag, and Cochin (involving 78 ships, 20 shore establishments, and 20,000 ratings).
+  - Mutineers hoisted the Tricolour, the Crescent, and the Hammer & Sickle jointly on the ship masts.
+  - Formed the **Naval Central Strike Committee** headed by **M.S. Khan** and Madan Singh.
+  - Bombay textile workers launched a massive general strike in solidarity; British troops fired, killing nearly 300 working-class civilians.
+- **Surrender**:
+  - On **23 February 1946**, **Sardar Vallabhbhai Patel** and **M.A. Jinnah** jointly intervened and persuaded the ratings to surrender, giving assurances against victimisation.
+  - The ratings stated: *"We surrender to India and not to Britain."*
+  - Significance: It demonstrated to the British high command that the Indian armed forces could no longer be relied upon to suppress nationalist unrest.
+
+---
+
+### 8. Cabinet Mission (March – June 1946)
+- British PM **Clement Attlee** announced in the House of Commons on **15 March 1946** that a three-member British Cabinet delegation would visit India (*"a minority cannot be allowed to veto the advance of the majority"*).
+- **Three Members**:
+  1. **Lord Pethick-Lawrence** (Secretary of State for India — Chairman)
+  2. **Sir Stafford Cripps** (President of the Board of Trade)
+  3. **A.V. Alexander** (First Lord of the Admiralty)
+- Arrived in Delhi on **24 March 1946**; published its plan on **16 May 1946** after negotiations failed.
+- **Key Recommendations**:
+  1. **Rejection of Complete Pakistan**: Stated a sovereign Pakistan was not viable on administrative, economic, and military grounds.
+  2. **Three-Tier Federation**: A loose Union of India encompassing both British India and Princely States dealing with only three subjects: **Foreign Affairs, Defence, and Communications**.
+  3. **Group Scheme (Compulsory Grouping)**:
+     - **Section A** (Hindu Majority): Madras, Bombay, UP, Bihar, Central Provinces, Orissa.
+     - **Section B** (Western Muslim Majority): Punjab, NWFP, Sindh.
+     - **Section C** (Eastern Muslim Majority): Bengal and Assam.
+  4. **Constituent Assembly**: 389 members (292 elected from provincial assemblies, 93 nominated by princely states, 4 from Chief Commissioner provinces) to draft the constitution.
+  5. **Interim Government**: To be formed immediately representing major political parties.
+- **Reactions**:
+  - The Muslim League accepted the plan on **6 June 1946** (interpreting compulsory grouping as the foundation of Pakistan).
+  - The Congress accepted the Constituent Assembly proposal on **25 June 1946**, but rejected compulsory grouping, maintaining that provinces should be free to join any group.
+  - On **10 July 1946**, newly elected Congress President **Jawaharlal Nehru** held a press conference stating Congress was uncommitted except to enter the Constituent Assembly and that the grouping scheme was likely to collapse.
+  - In reaction, Jinnah and the Muslim League withdrew their acceptance of the plan on **29 July 1946** and called for direct action.
+
+---
+
+### 9. Direct Action Day, Interim Government & Constituent Assembly (1946)
+- **Direct Action Day (16 August 1946)**:
+  - The Muslim League declared 16 August 1946 as **"Direct Action Day"** to achieve Pakistan (*"We shall have Pakistan or we shall have a divided India and a divided universe"*).
+  - Led to horrific communal pogroms known as the **"Great Calcutta Killings"** (over 4,000 dead in 72 hours), which subsequently metastasized to **Noakhali** (East Bengal), **Bihar**, and **Garhmukteshwar** (UP).
+- **Interim Government (Formed 2 September 1946)**:
+  - Viceroy Wavell invited Jawaharlal Nehru to form the Interim Government on **2 September 1946**.
+  - Portfolios:
+    - **Jawaharlal Nehru**: Vice-President of Executive Council, External Affairs & Commonwealth Relations.
+    - **Sardar Vallabhbhai Patel**: Home, Information & Broadcasting.
+    - **Dr. Rajendra Prasad**: Food & Agriculture.
+    - **Dr. John Mathai**: Industries & Supplies.
+    - **Jagjivan Ram**: Labour.
+    - **Sardar Baldev Singh**: Defence.
+    - **C. Rajagopalachari**: Education & Arts.
+    - **C.H. Bhabha**: Works, Mines & Power.
+  - The Muslim League initially boycotted it, but entered on **26 October 1946** to disrupt government functioning from within.
+  - League Members inducted: **Liaquat Ali Khan** (Finance — used budget to hamstring other ministries), **I.I. Chundrigar** (Commerce), **Abdur Rab Nishtar** (Posts & Air), **Ghazanfar Ali Khan** (Health), and **Jogendra Nath Mandal** (Law — Scheduled Caste member).
+- **Formation of the Constituent Assembly (9 December 1946)**:
+  - First meeting held on **9 December 1946** in the Constitution Hall (now Central Hall of Parliament, New Delhi).
+  - Boycotted by all 73 Muslim League members.
+  - **Dr. Sachchidananda Sinha** was elected interim Temporary President.
+  - On **11 December 1946**, **Dr. Rajendra Prasad** was unanimously elected permanent President, and **H.C. Mukherjee** as Vice-President.
+  - On **13 December 1946**, Jawaharlal Nehru moved the historic **"Objectives Resolution"** (adopted unanimously on 22 January 1947, becoming the preamble to the Indian Constitution).
+
+---
+
+### 10. Clement Attlee's Historic Declaration (20 February 1947)
+- British PM Clement Attlee made an epochal declaration in the House of Commons on **20 February 1947**:
+  1. The British Government declared its definite intention to effect the transfer of power to responsible Indian hands by a date not later than **June 30, 1948**.
+  2. If a constitution was not framed by a fully representative Constituent Assembly by that time, Britain would decide to whom power should be handed over: whether to a central government or to provincial governments.
+  3. **Lord Louis Mountbatten** was appointed Viceroy of India to replace Lord Wavell and expedite the transfer of power.
+
+---
+
+### 11. Mountbatten Plan (3 June 1947) & Indian Independence Act, 1947
+- **Mountbatten's Arrival & Plan Balkan Abandoned**:
+  - Lord Mountbatten assumed office on **24 March 1947**.
+  - Initially floated **'Plan Balkan' (Dickie Bird Plan)** envisaging the transfer of power to individual separate provinces and states, leaving them free to join India, Pakistan, or remain independent.
+  - When shown secretly to Nehru at Simla in May 1947, Nehru furiously rejected it as leading to the total balkanisation and destruction of India. The plan was immediately scrapped.
+- **The 3rd June Plan (Mountbatten Plan)**:
+  - Formulated on **3 June 1947** after consultations with Indian leaders and the British Cabinet.
+  - Principles:
+    1. **Partition of India Conceded**: Two successor Dominions to be created: **India** and **Pakistan**.
+    2. **Partition of Punjab and Bengal**: Legislative assemblies of Punjab and Bengal would meet in two sections (Muslim-majority districts and non-Muslim districts) to vote on partition. If a simple majority voted for partition, the province would be partitioned.
+    3. **Referendums**: Plebiscites to be held in **Sylhet district** (Assam) and **North-West Frontier Province (NWFP)** to determine their choice.
+    4. **Boundary Commission**: To be appointed under **Sir Cyril Radcliffe** to demarcate international boundaries (*Radcliffe Line*).
+    5. **Speedy Transfer of Power**: Advanced the transfer of power date by 10 months from June 1948 to **15 August 1947**, granting immediate **Dominion Status** under the British Commonwealth.
+  - Accepted by Congress CWC (urged by Patel and Nehru to avoid anarchy and civil war) and the Muslim League Council.
+- **The Indian Independence Act, 1947**:
+  - Introduced in the British Parliament on **4 July 1947** and received Royal Assent on **18 July 1947**.
+  - Provisions:
+    1. Ended British rule in India from the appointed day: **15 August 1947**.
+    2. Created two independent Dominions: **India and Pakistan**.
+    3. Abolished the office of the Secretary of State for India and transferred functions to Commonwealth Secretary.
+    4. Empowered Constituent Assemblies of both Dominions to frame their own constitutions and repeal any British act.
+    5. Terminated British suzerainty over Princely States and tribal areas from 15 August 1947 (paramountcy lapsed).
+
+---
+
+### 12. Integration of Princely States & Foreign Enclaves
+#### A. Princely States Integration (Under Sardar Patel & V.P. Menon)
+- Of the 565 princely states, **562 had acceded** to the Indian Dominion by **15 August 1947** through Sardar Patel's skillful combination of diplomacy, statecraft, and the *Instrument of Accession*.
+- Only three states remained recalcitrant:
+  1. **Jammu & Kashmir**:
+     - Ruled by Hindu monarch **Maharaja Hari Singh**; sought to maintain independent status.
+     - On **22 October 1947**, Pakistani armed tribesmen (*Afridis*) and regular soldiers invaded Kashmir (*Operation Gulmarg*).
+     - Facing imminent collapse, Maharaja Hari Singh signed the **Instrument of Accession to India on 26 October 1947**.
+     - Indian troops were airlifted to Srinagar on 27 October 1947, repelling the invaders.
+  2. **Junagadh**:
+     - Small maritime state in Kathiawar (Gujarat) with a Muslim Nawab (**Muhammad Mahabat Khan III**) and a 80%+ Hindu population.
+     - The Nawab arbitrarily acceded to Pakistan on 15 August 1947.
+     - People revolted, established an *Arzi Hukumat* (Provisional Government) under Samaldas Gandhi, and the Nawab fled to Karachi.
+     - Indian administration took over, and in a **plebiscite / referendum held in February 1948**, 99.9% voted overwhelmingly to join India.
+  3. **Hyderabad**:
+     - Ruled by **Nizam Mir Osman Ali Khan**, who refused to accede and unleashed private armed terror militia (**Razakars**, led by Kasim Razvi).
+     - Signed a Standstill Agreement for one year (Nov 1947), but anarchy and atrocities escalated.
+     - Government of India launched police action (**Operation Polo**) on **13 September 1948**. The Nizam's army surrendered on **17 September 1948**, and Hyderabad formally acceded to the Indian Union.
+
+#### B. Integration of French Colonial Settlements (1954)
+- French territories in India consisted of: **Pondicherry, Karikal, Yanam, Mahe**, and **Chandernagore**.
+- **Chandernagore**: Transferred through a municipal referendum in 1949 and formally ceded to India in **1951** (merged into West Bengal in 1954).
+- Remaining settlements (**Pondicherry, Karikal, Mahe, Yanam**): De facto transfer occurred on **1 November 1954** following an agreement signed in New Delhi on 21 October 1954. De jure treaty was ratified in 1962, forming the Union Territory of Puducherry.
+
+#### C. Liberation & Integration of Portuguese Colonial Enclaves (1954 & 1961)
+- The Portuguese were the first Europeans to arrive in India (1498) and the last to leave.
+- **Dadra and Nagar Haveli**: Liberated from Portuguese rule in **July–August 1954** by local nationalist volunteers (*United Front of Goans, Azad Gomantak Dal*); merged into the Indian Union in **1961** (10th Constitutional Amendment Act).
+- **Goa, Daman, and Diu**:
+  - Dictator António de Oliveira Salazar refused all diplomatic efforts for peaceful decolonization.
+  - The Government of India launched **Operation Vijay** (a joint military, naval, and air action) on **18 December 1961**.
+  - Portuguese Governor-General Manuel António Vassalo e Silva signed the instrument of surrender on **19 December 1961**.
+  - Goa, Daman, and Diu were formally integrated into India as a Union Territory via the **12th Constitutional Amendment Act, 1962** (Goa attained full statehood in 1987).

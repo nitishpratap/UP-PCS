@@ -145,6 +145,10 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 | **I am an Indian Tom-Tom…** | **Annie Besant** | Wake sleepers for motherland |
 | **Imperialism is dead as the Dodo** | **Clement Attlee** | Post-war British PM |
 | **Self-Respect (Suyamariyadai)** | **E.V. Ramasamy “Periyar (पेरियार)”** | Self-Respect Movement (स्वाभिमान आंदोलन), 1925, Tamil Nadu (नाडु) |
+| **"My ultimate aim is to wipe every tear from every eye"** | **Pandit Jawaharlal Nehru (Jawahar Lal Nehru)** | Referencing Mahatma Gandhi's supreme humanitarian ideal for free India |
+| **"Every blow that is hurled on my back will be a nail in the coffin of the British Empire"** | **Lala Lajpat Rai** | Spoken after the brutal police lathi-charge during anti-Simon Commission protests at Lahore (1928) |
+| **"The Congress is tottering to its fall and one of my greatest ambitions while in India is to assist it to a peaceful demise"** | **Lord Curzon** | Official dispatch to Secretary of State Lord George Hamilton (1900) |
+| **"Dharma Chakra Pravartana"** | **Gautama Buddha (Mahatma Buddha)** | Turning the Wheel of Law during the First Sermon at Sarnath Deer Park (528 BC) |
 
 > **Logic:** Tilak ≠ Do or Die. Bose ≠ Inquilab. Vande Mataram ≠ Jana Gana Mana.
 
@@ -207,7 +211,7 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 | *Unhappy India* (अनहैप्पी इंडिया) | Lala Lajpat Rai |
 | *The Indian Struggle* | Subhas Chandra Bose |
 | *India Divided* | Rajendra Prasad |
-| *Glimpses of World History (इतिहास)* | Jawaharlal Nehru (जवाहरलाल नेहरू) |
+| *Glimpses of World History (इतिहास)* | Jawaharlal Nehru (Jawahar Lal Nehru) (जवाहरलाल नेहरू) |
 | *New Lamps for Old* (series) | **Aurobindo Ghosh** |
 | *Gitanjali* / Song Offerings | Tagore (Nobel **1913**) |
 | *Amar Sonar Bangla* | Tagore (Bangladesh anthem) |
@@ -257,6 +261,17 @@ Book match set: Deportation–**Lajpat Rai**; *Gita Rahasya*–**Tilak**; *A Nat
 | **Cripps Mission** | 1942 | Post-dated cheque (Gandhi); talks failed |
 | **Cabinet Mission** (कैबिनेट मिशन) | 1946 | Pethick-Lawrence, Cripps, A.V. Alexander (सिकंदर); grouping plan |
 | **Wavell Plan (वेवेल योजना) / Simla Conference** | 1945 | Breakdown over Muslim League parity |
+| **Aitchison Commission (Etkinson / Charles Etkinson)** | **1886** | Lord Dufferin; divided civil services into Imperial, Provincial, and Subordinate |
+| **Herschell Committee (Harshell)** | **1893** | Lord Lansdowne; currency reform; suggested closing mints to free silver coinage |
+| **Royal Commission on Opium (Opium Commission)** | **1893** | Lord Lansdowne; investigated the effect of opium on health and state revenue |
+| **Lyall Commission** | **1897** | Lord Elgin II; Sir James Lyall; reviewed 1896–97 famine relief operations |
+| **Fowler Commission** | **1898** | Lord Elgin II; Sir Henry Fowler; recommended gold standard with British sovereign as legal tender |
+| **Islington Commission** | **1912** | Lord Hardinge II; Lord Islington; recommended 25% higher civil service posts for Indians |
+| **Maclagan Committee (Maclagon)** | **1914–15** | Lord Hardinge II; Sir Edward Maclagan; advised on cooperative finances and rural credit |
+| **Inchcape Committee (Lord Itchcap)** | **1923** | Lord Reading; financial retrenchment and central committee on education |
+| **Hammond Committee (Lary Hamand / Indian Measurement)** | **1935** | Lord Willingdon; Sir Laurie Hammond; framed rules for labor representation in Federal Assembly |
+| **National Planning Committee** | **1938** | Lord Linlithgow; set up by Subhas Bose; chaired by Jawaharlal Nehru to draft national economic plan |
+| **Famine Inquiry Commission (Woodhead Commission / Woodhood)** | **1943–44** | Lord Wavell; Sir John Woodhead; investigated the catastrophic 1943 Bengal Famine |
 
 - Education commission order: **Wood (1854) → Hunter (1882) → Sadler (1917–19) → Sargeant (1944)**.
 
@@ -274,7 +289,9 @@ This is the **Acts timeline**. Full Act stories sit with Governors-General, admi
 | **1784** | Pitt’s India Act | Board of Control; dual control |
 | **1793** | Charter | Permanent Settlement (स्थायी बंदोबस्त) already 1793 (Cornwallis (कॉर्नवालिस)) |
 | **1813** | Charter | Missionaries; ₹1 lakh education; Company (कंपनी) trade (पण्याध्यक्ष) monopoly **ends** (China/tea excepted) |
+| **1829** | Prohibition of Sati & Female Infanticide | Lord William Bentinck; Regulation XVII; actively supported by Raja Ram Mohan Roy |
 | **1833** | Charter | GG of **India**; law member; slavery step |
+| **1848** | Doctrine of Lapse | Lord Dalhousie; banned adoption of sons in absence of natural heirs (Satara, Jhansi, Nagpur annexed) |
 | **1853** | Charter | Open ICS competition; separate Lt-Gov Bengal |
 | **1858** | GOI Act | Crown; Viceroy; Secretary of State |
 | **1861** | Indian Councils | Portfolio; Indians nominated |
@@ -285,7 +302,12 @@ This is the **Acts timeline**. Full Act stories sit with Governors-General, admi
 | **1909** | Morley–Minto | **Separate electorates** (Muslims) |
 | **1919** | Montagu–Chelmsford | **Dyarchy** (द्वैध शासन) provinces; Chamber of Princes |
 | **1919** | Rowlatt | Arrest without trial |
+| **1931** | Gandhi-Irwin Pact | Lord Irwin; suspension of CDM; Congress agreed to join Second Round Table Conference |
+| **1932** | Communal Award & Separate Electorates | Lord Willingdon / Ramsay MacDonald; separate electorates for depressed classes (resolved by Poona Pact) |
 | **1935** | GOI Act | Provincial **autonomy**; dyarchy at Centre; federation (not started) |
+| **1945** | INA Trial & Wavell Plan | Lord Wavell; Red Fort trial of INA officers defended by Bhulabhai Desai; Shimla Conference |
+| **1946** | Cabinet Mission Plan | Lord Wavell; Pethick-Lawrence, Cripps, Alexander; Constituent Assembly to frame Constitution |
+| **1947** | Mountbatten Plan (3 June Plan) | Lord Mountbatten; partition plan dividing India and Pakistan; Radcliffe boundary commissions |
 | **1947** | Indian Independence Act (अधिनियम) | Partition; Dominion status (डोमिनियन); Mountbatten as first Governor-General (गवर्नर-जनरल) of free India |
 
 - The **Communal Award** was **16 August 1932**; **1933** is a year trap.
@@ -323,34 +345,42 @@ This is the **treaty match table**. War stories sit with Company expansion.
 
 This is the **INC session match table**. Early-nationalist story sits with Rise of Nationalism.
 
-| Year | Place | President | Resolution / fact |
-|------|-------|-----------|-------------------|
-| **1885** | Bombay | W.C. Bonnerjee | First session |
-| **1886** | Calcutta | Dadabhai Naoroji | |
-| **1887** | Madras | **Badruddin Tyabji** | First **Muslim** President |
-| **1888** | Allahabad | **George Yule** | First **English** President |
-| **1896** | Calcutta | Rahimtulla Sayani | **Vande Mataram** sung |
-| **1905** | Banaras | G.K. Gokhale | |
-| **1906** | Calcutta | Naoroji (3rd time) | **Swaraj** (स्वराज) as Congress goal |
-| **1907** | **Surat** | Rash Behari Ghosh | **Split** |
-| **1911** | Calcutta | Bishan Narayan Dar | **Jana Gana Mana** sung |
-| **1916** | **Lucknow** (लखनऊ) | A.C. Majumdar | Reunion + **Lucknow Pact** |
-| **1917** | Calcutta | **Annie Besant** | First **woman** President |
-| **1919** | Amritsar | Motilal Nehru | After Jallianwala |
-| **1920** | Calcutta (Special) | Lala Lajpat Rai | NCM (असहयोग) |
-| **1920** | Nagpur | Vijayaraghavachariar | NCM constitution |
-| **1924** | **Belgaum** | **M.K. Gandhi** | **Only** session Gandhi presided |
-| **1925** | Kanpur | **Sarojini Naidu** | First **Indian** woman President |
-| **1927** | Madras | M.A. Ansari | Simon boycott (बहिष्कार) line |
-| **1929** | **Lahore** | Jawaharlal Nehru | **Purna Swaraj**; 26 Jan 1930 |
-| **1931** | **Karachi** | Vallabhbhai Patel | **Fundamental Rights** (मौलिक अधिकार) + National Economic Programme |
-| **1934** | Bombay | Rajendra Prasad | |
-| **1936** | Lucknow | Nehru | |
-| **1937** | **Faizpur** | Nehru | First session in a **village** |
-| **1938** | **Haripura** | Subhas Bose | |
-| **1939** | **Tripuri** | Bose; then Rajendra Prasad | Bose resigns |
-| **1940** | **Ramgarh** | Abul Kalam Azad | 2024 Q133 chronology |
-| **1946** | Meerut (मेरठ) | J.B. Kripalani | |
+| Year | Place | President | Resolution / Milestone Fact |
+|:---|:---|:---|:---|
+| **1885** | Bombay | W.C. Bonnerjee | Inaugural first session at **Gokuldas Tejpal Sanskrit College**; 72 delegates |
+| **1886** | Calcutta | Dadabhai Naoroji | 436 delegates; merger with Surendranath Banerjee's National Conference |
+| **1887** | Madras | **Badruddin Tyabji** | **Badruddin Tyabji became first Muslim President** of the INC |
+| **1888** | Allahabad | **George Yule** | **George Yule became first English / European President** of the INC |
+| **1889** | Bombay | Sir William Wedderburn | Congress represented all geographical areas and communities of British India |
+| **1890** | Calcutta | Sir Pherozeshah Mehta | Decision taken to organize a session of Congress in London; addressed by Kadambini Ganguly |
+| **1895** | Poona | Surendranath Banerjee | Demand for a representative legislative body exclusively for educated Indian class |
+| **1896** | Calcutta | Rahimtulla M. Sayani | **Vande Mataram** sung for the first time on INC platform |
+| **1898** | Madras | Ananda Mohan Bose | Social reform set as the primary goal of the organization |
+| **1905** | Banaras | G.K. Gokhale | Resentment against Bengal Partition; Swadeshi endorsed |
+| **1906** | Calcutta | Dadabhai Naoroji | **Swaraj** (स्वराज) defined and adopted as the goal of Congress |
+| **1907** | **Surat** | Dr. Rash Behari Ghosh | **The Surat Split**: Fissure between Moderates and Extremists on River Tapi |
+| **1908** | Madras | Dr. Rash Behari Ghosh | Formal **Constitution for the Congress** adopted, codifying moderate methods |
+| **1911** | Calcutta | Bishan Narayan Dar | **Jana Gana Mana** sung for the first time |
+| **1916** | **Lucknow** (लखनऊ) | Ambica Charan Majumdar | Historic Reunion of Moderates/Extremists + **Lucknow Pact** with Muslim League; Gandhi attended |
+| **1917** | Calcutta | **Annie Besant** | **Annie Besant became the First Woman President** of the INC |
+| **1919** | Amritsar | Motilal Nehru | Condemned Jallianwala Bagh massacre; gave support to Khilafat movement |
+| **1920** | Calcutta (Special) | Lala Lajpat Rai | Non-Cooperation Movement resolution presented |
+| **1920** | Nagpur | C. Vijayaraghavachariar | Gandhian Non-Cooperation program adopted; reorganized Congress constitution (linguistic committees) |
+| **1921** | Ahmedabad | Hakim Ajmal Khan (acting) | **Hasrat Mohani** demanded Complete Independence (*Poorna Swaraj*) for the first time |
+| **1922** | Gaya | C.R. Das | Rejection of council entry led C.R. Das & Motilal Nehru to form the **Swaraj Party** |
+| **1924** | **Belgaum** | **Mahatma Gandhi** | **Mahatma Gandhi presided over the INC for the first and only time** in his life |
+| **1925** | Kanpur | **Sarojini Naidu** | **Sarojini Naidu became First Indian Woman President** of the INC |
+| **1927** | Madras | Dr. M.A. Ansari | Jawaharlal Nehru & S.C. Bose moved resolution for Complete Independence, passed for 1st time; Simon boycott |
+| **1928** | Calcutta | Pandit Motilal Nehru | Formation of the **First All India Youth Congress**; 1-year Dominion status ultimatum |
+| **1929** | **Lahore** | Pandit Jawaharlal Nehru | Historic **'Poorna Swaraj' (Complete Independence) Resolution**; fixed **26 January 1930** as Independence Day |
+| **1931** | **Karachi** | Sardar Vallabhbhai Patel | Endorsed Gandhi-Irwin Pact; passed resolutions on **Fundamental Rights** and **National Economic Policy** |
+| **1934** | Bombay | Dr. Rajendra Prasad | Formation and formal endorsement of the **Congress Socialist Party (CSP)** |
+| **1936** | Lucknow | Pandit Jawaharlal Nehru | Urged support for socialism through democratic methods |
+| **1937** | **Faizpur** | Pandit Jawaharlal Nehru | **First Congress session held in a rural village**; demanded Constituent Assembly |
+| **1938** | **Haripura** | Subhas Chandra Bose | Purna Swaraj to cover Princely States as well; constituted **National Planning Committee** under Nehru |
+| **1939** | **Tripuri** | Subhas Chandra Bose | S.C. Bose defeated Gandhi's candidate Pattabhi Sitaramayya; resigned over working committee; **Dr. Rajendra Prasad** became President |
+| **1940** | **Ramgarh** | Maulana Abul Kalam Azad | Azad remained President through WWII years (1940–1946) |
+| **1946** | Meerut (मेरठ) | Acharya J.B. Kripalani | President during the transfer of power and at the dawn of Independence (August 1947) |
 
 - **Bal Gangadhar Tilak** **never** presided over an INC session.
 
@@ -499,6 +529,80 @@ Use this table to drill Governor-General–reform matching.
 
 | Year | Event |
 |------|--------|
+### Ancient & Medieval Chronology Spine Anchors (2500 BC – 1739 AD)
+
+| Era / Date | Milestone Historical Event |
+|:---|:---|
+| **2500–1750 BC** | **Indus Valley Civilization** (mature Harappan phase by C-14 dating) |
+| **563–483 BC** | **Gautama Buddha's lifespan** (Birth at Lumbini 563 BC; Mahaparinirvana at Kusinagar 483 BC) |
+| **540–468 BC** | **Vardhamana Mahavira's lifespan** (Birth at Kundagrama 540 BC; Nirvana at Pavapuri 468 BC) |
+| **327–326 BC** | **Alexander's invasion of India**; Battle of the Hydaspes on Jhelum; opened overland/sea routes to Europe |
+| **322 BC** | **Accession of Chandragupta Maurya**; overthrow of Nandas with Chanakya's aid |
+| **305 BC** | **Defeat of Seleucus I Nicator (Selecus Nikator)** by Chandragupta Maurya; Megasthenes sent as envoy |
+| **273–232 BC** | **Reign of Emperor Ashoka the Great** (coronation in 269 BC) |
+| **261 BC** | **Conquest of Kalinga** (260 BC in Lucent); adoption of Buddhism and *Dhamma-vijaya* |
+| **145–101 BC** | Reign of **Elara**, the Chola king of Sri Lanka |
+| **58 BC** | Beginning of the **Vikram Era** (*Vikram Samvat*), associated with King Vikramaditya of Ujjain |
+| **78 AD** | Beginning of the **Saka Era** (*Saka Samvat*), founded by Kushana Emperor Kanishka (Indian National Calendar) |
+| **78–101 AD** | **Reign of Kanishka I**; 4th Buddhist Council at Kundalvana in Kashmir |
+| **319–320 AD** | Commencement of the **Gupta Era**, founded by Chandragupta I upon accession |
+| **380 AD** | **Accession of Chandragupta II 'Vikramaditya'**; classical golden age; Kalidasa |
+| **405–411 AD** | **Visit of Chinese pilgrim Fa-Hien (Faxian)** during Chandragupta II's reign |
+| **415 AD** | **Accession of Kumaragupta I**; foundation of Nalanda Mahavihara |
+| **455 AD** | **Accession of Skandagupta**; repulse of White Huns; repair of Sudarshana Lake dam |
+| **606–647 AD** | **Reign of Harshavardhana** of Kannauj; assemblies at Kannauj & Prayag; patron of Hiuen-Tsang |
+| **712 AD** | **First Arab invasion of Sindh** by Muhammad bin Qasim; defeat of Raja Dahir at Rawar |
+| **836 AD** | **Accession of King Mihira Bhoja I** of Kannauj (Gurjara-Pratihara dynasty) |
+| **985 AD** | **Accession of Rajaraja I**, the Chola ruler; built Brihadeeswara Temple at Tanjore |
+| **998 AD** | **Accession of Sultan Mahmud of Ghazni** |
+| **1001 AD** | **First invasion of India by Mahmud Ghazni**; defeat of Hindu Shahi King Jaipal of Punjab |
+| **1025 AD** | **Destruction and sack of Somnath Temple** (Gujarat) by Mahmud of Ghazni (16th expedition) |
+| **1191 AD** | **First Battle of Tarain**: Prithviraj Chauhan decisively defeats Muhammad Ghori |
+| **1192 AD** | **Second Battle of Tarain**: Muhammad Ghori defeats Prithviraj Chauhan; establishes Turkish rule in India |
+| **1206 AD** | **Accession of Qutbuddin Aibak**; foundation of Slave / Mamluk Dynasty and Delhi Sultanate |
+| **1210 AD** | **Death of Qutbuddin Aibak** while playing Chaugan (horse polo) at Lahore |
+| **1221 AD** | **Chengiz Khan reaches the Indus River** (Mongol invasion threat averted by Iltutmish) |
+| **1236 AD** | **Accession of Razia Sultana**, first woman sovereign to rule Delhi throne |
+| **1240 AD** | **Death of Razia Sultana** near Kaithal (Haryana) |
+| **1296 AD** | **Accession of Alauddin Khilji** |
+| **1316 AD** | **Death of Alauddin Khilji** |
+| **1325 AD** | **Accession of Muhammad-bin-Tughlaq** |
+| **1327 AD** | **Transfer of Imperial Capital from Delhi to Devagiri (Daulatabad)** in the Deccan by Muhammad-bin-Tughlaq |
+| **1336 AD** | **Foundation of Vijayanagar Empire** in South India by Harihara I and Bukka I |
+| **1351 AD** | **Accession of Firoz Shah Tughlaq**; canals, public works, and Diwan-i-Khairat |
+| **1398 AD** | **Invasion of India by Timur (Tamerlane)**; sack of Delhi under Nasiruddin Mahmud Tughlaq |
+| **1469 AD** | **Birth of Guru Nanak Dev**, founder of Sikhism, at Talwandi (Nankana Sahib) |
+| **1494 AD** | **Accession of Babur in Farghana** at age 12 |
+| **1497–1498 AD** | **First voyage of Vasco da Gama to India**; landed at Calicut on 17 May 1498 via Cape of Good Hope |
+| **1526 AD** | **First Battle of Panipat** (21 April 1526): Babur defeats Ibrahim Lodi; foundation of Mughal Empire |
+| **1527 AD** | **Battle of Khanwa** (16 March 1527): Babur defeats Rana Sanga of Mewar |
+| **1530 AD** | **Death of Babur** at Agra; accession of **Humayun** |
+| **1539 AD** | **Battle of Chausa** (26 June 1539): Sher Shah Suri defeats Humayun and becomes Emperor |
+| **1555 AD** | **Humayun recaptures throne of Delhi** (Battle of Sirhind) |
+| **1556 AD** | **Second Battle of Panipat** (5 November 1556): Akbar defeats Hemu (Hemchandra Vikramaditya) |
+| **1565 AD** | **Battle of Talikota** (*Rakshasa-Tangadi / Bannihatti*): Deccan Sultanates destroy Vijayanagar |
+| **1576 AD** | **Battle of Haldighati** (18 June 1576): Akbar's army under Man Singh defeats Maharana Pratap |
+| **1582 AD** | **Din-i-Ilahi** (*Tauhid-i-Ilahi*) promulgated by Akbar |
+| **1600 AD** | **English East India Company established** by Royal Charter (31 December 1600) |
+| **1605 AD** | **Death of Akbar** at Agra; accession of **Jahangir** |
+| **1606 AD** | **Martyrdom / execution of Guru Arjan Dev (Guru Arjun Dev)**, 5th Sikh Guru, under Jahangir |
+| **1611 AD** | **Jahangir marries Mehr-un-Nisa (Nur Jahan / Nurjahan)** |
+| **1615 AD** | **Sir Thomas Roe**, ambassador of King James I of England, arrives at Jahangir's court |
+| **1627 AD** | **Birth of Chhatrapati Shivaji**; death of Jahangir |
+| **1628 AD** | **Shah Jahan ascends the Mughal throne** |
+| **1631 AD** | **Death of Mumtaz Mahal** at Burhanpur; construction of Taj Mahal begins |
+| **1634 AD** | English permitted by Mughal farman to trade in **Bengal** |
+| **1659 AD** | **Accession of Aurangzeb**; Battle of Samugarh; Shah Jahan imprisoned in Agra Fort |
+| **1665 AD** | **Treaty of Purandhar** between Shivaji and Jai Singh; Shivaji imprisoned at Agra (1666) |
+| **1666 AD** | **Death of Shah Jahan** in captivity at Agra Fort |
+| **1675 AD** | **Execution / Martyrdom of Guru Tegh Bahadur (Guru Teg Bahadur)**, 9th Sikh Guru, by Aurangzeb |
+| **1680 AD** | **Death of Chhatrapati Shivaji** at Raigad |
+| **1707 AD** | **Death of Aurangzeb** at Ahmadnagar |
+| **1708 AD** | **Death / Martyrdom of Guru Gobind Singh**, 10th Sikh Guru, at Nanded |
+| **1739 AD** | **Nadir Shah of Persia invades India**; sacks Delhi; takes Peacock Throne & Koh-i-Noor |
+
+### Modern India Chronology Spine (1757–1947)
+
 | 1757 | Plassey (प्लासी) |
 | 1764 | Buxar (बक्सर) |
 | 1765 | Allahabad / Dual government |
@@ -599,6 +703,187 @@ Short GC matches that recur as Who / When / Which famine / Which slogan. Full st
 | First non-Congress PM | **Morarji Desai (आमिल)**, **24 Mar 1977**; Surat |
 
 > **Logic:** Keep Operation Vijay (Goa **1961**) separate from Operation Vijay (Kargil **1999**). Simla **1945** ≠ Shimla Pact **1972**.
+
+---
+
+## 16.15 Important Historical Places and Cultural Sites of India
+
+| Place | Location & Geographic Context | Architectural, Archaeological & Historical Significance |
+| :--- | :--- | :--- |
+| **Ahichhatra** | Bareilly District, Uttar Pradesh | Originally ancient *Ahikshetra*; historic capital of the Northern **Panchala Kingdom (Panchalas)** (Mahajanapada era). Excavations revealed Ochre Coloured Pottery (OCP), Painted Grey Ware (PGW), and tiered terraced brick temples. |
+| **Aihole** | Bagalkot District, Karnataka | Celebrated as the *"Cradle of Indian Temple Architecture"*; key architectural laboratory of the **Early Western Chalukyas of Badami (Chalukyan architecture)**, containing nearly **70 structural stone temples** (Durga Temple, Lad Khan Temple, Meguti Jain Temple containing Ravikirti's 634 AD Aihole Prasasti of Pulakeshin II). |
+| **Ajanta Caves** | Aurangabad (Chhatrapati Sambhaji Nagar), Maharashtra | Located 66 miles north of Aurangabad on the Waghora River. Comprises **29 rock-cut Buddhist caves** (chaityas and viharas) excavated from 2nd century BC to 7th century AD (Satavahana and Vakataka eras under Harishena); world-renowned for fresco mural paintings (*Bodhisattva Padmapani and Vajrapani*). |
+| **Amaravati** | Palnadu / Guntur District, Andhra Pradesh | Mythological capital of Svarga; historically flourished as the major Buddhist cultural centre and eastern capital under the **Satavahana** and Ikshvaku dynasties. Famous for the Great Mahachaitya and distinctive white marble narrative relief sculptures (Amaravati School of Art). |
+| **Arikamedu** | Near Pondicherry (Puducherry) | Celebrated ancient coastal trading port and Indo-Roman emporium (*Poduke* in Greco-Roman records) active during Chola and early Sangam times; excavations unearthed Roman amphorae, Arretine ware, Roman coins, and glass beads. |
+| **Ayodhya** | Ayodhya (near modern Faizabad), Uttar Pradesh | Situated on the banks of the Sarayu River; ancient capital of the **Kosala Mahajanapada** and the legendary seat of the Ikshvaku / Solar dynasty of kings, most illustrious among whom was Lord Rama. |
+| **Badami (Vatapi)** | Bagalkot District, Karnataka | Historic capital of the **Early Western Chalukyas**; renowned for magnificent rock-cut cave temples excavated into red sandstone cliffs in the 6th–8th centuries AD (dedicated to Shiva, Vishnu, and Jaina Tirthankaras); purest specimen of Dravidian/Vesara rock architecture; features the famous structural stone **Malegitti Shivalaya Temple**. |
+| **Belur** | Hassan District, Karnataka | Historic early capital of the **Hoysala Empire**; world-famous for the breathtakingly ornate **Chennakesava Temple (Cheena Kesava temple)** (dedicated to Vijayanarayana, built by King Vishnuvardhana in 1117 AD to commemorate victory over the Cholas). |
+| **Bhubaneswar** | Khordha District, Odisha | The *"Temple City of India"*; renowned for extraordinary classical Kalinga architectural masterpieces: **Lingaraja Temple** (11th c., masterwork of Deula architecture), **Rajarani Temple**, and the exquisitely sculpted **Brahmeswara Temple**. |
+| **Bodh Gaya** | Gaya District, Bihar | Situated 6 miles south of Gaya on the western bank of the **Falgu (Neranjana) River**; the holiest Buddhist site where Siddhartha Gautama attained Supreme Enlightenment (*Bodhi*) under the sacred Bodhi Tree; site of the monumental **Mahabodhi Temple Complex** (UNESCO World Heritage). |
+| **Chidambaram** | Cuddalore District, Tamil Nadu | Located 150 miles south of Chennai; known in ancient times as **Tillai**; prominent religious and political capital under the Chola Kingdom; home of the celebrated **Nataraja Temple (abode of Natraja, the Dancing Shiva)**, representing Lord Shiva as the cosmic dancer and cosmic space (*Akasha Lingam*); pinnacle of Dravidian stone architecture. |
+| **Daulatabad (Devagiri)** | Aurangabad District, Maharashtra | Spectacular triangular rock-cut hill fortress of the 12th century built by the Yadavas of Devagiri; renamed Daulatabad by **Muhammad-bin-Tughlaq** who disastrously shifted the Delhi imperial capital here in 1327 AD; situated near the tomb of Mughal Emperor Aurangzeb at Khuldabad. |
+| **Elephanta Caves** | Gharapuri Island, Mumbai Harbour, Maharashtra | Located on Gharapuri Island about 6 miles east of Mumbai harbour; the Portuguese named it Elephanta after stone elephants found at the landing place; exquisite 7th–8th century rock-cut Shaivite cave temples excavated under the Konkan Mauryas / Kalachuris / Rashtrakutas; celebrated for the colossal 20-foot three-headed **Trimurti Shiva (Sadashiva)** relief sculpture. |
+| **Ellora Caves (Verul)** | Aurangabad District, Maharashtra | Located 15 miles north-west of Aurangabad; comprises **34 monumental rock-cut caves** excavated sequentially along the Charanandri hills between the 6th and 10th centuries AD; multi-religious harmony: Buddhist caves (1–12), Hindu caves (13–29, crowned by the monolithic **Kailash / Kailasanatha Temple Cave 16** carved top-down by Rashtrakuta King Krishna I), and Jain caves (30–34, e.g., Indra Sabha). |
+| **Fatehpur Sikri** | Agra District, Uttar Pradesh | Situated 23 miles west of Agra; monumental red sandstone royal city founded by Mughal Emperor **Akbar in 1571** in honour of Sufi saint Sheikh Salim Chishti; contains the Panch Mahal, Diwan-i-Khas, and the colossal **Buland Darwaza** (standing **176 feet high**, built to commemorate the imperial conquest of Gujarat). |
+| **Halebid (Dwarasamudra)** | Hassan District, Karnataka | Situated 10 miles from Belur; historic royal capital of the **Hoysala Empire**; renowned for the **Hoysaleswara Temple** (dedicated to Shiva, built by Ketamalla c. 1121 AD), an unrivaled masterpiece of intricate chloritic schist relief carving. |
+| **Hampi** | Vijayanagara District, Karnataka | Situated on the banks of the Tungabhadra River, 9 miles from Hospet railway station; glorious ruined capital of the **Vijayanagar Empire** (UNESCO World Heritage); contains the Virupaksha Temple, Vittala Temple Complex (musical pillars and stone chariot), and Lotus Mahal. |
+| **Harappa** | Sahiwal (formerly Montgomery) District, Punjab, Pakistan | Situated on the left bank of the Ravi River; first site excavated in 1921 by Daya Ram Sahni under Sir John Marshall; gave its name to the **Harappan Civilization**; famous for the Great Granary (12 units in 2 rows), cemetery R-37, and red sandstone torso. |
+| **Junagadh** | Junagadh District, Gujarat | Ancient city situated below the sacred **Girnar Hill**; renowned for the Rock Edicts of Ashoka, the famous Junagadh Rock Inscription of Saka Mahakshatrapa Rudradaman I (150 AD, first major Sanskrit inscription recording Sudarshana Lake repairs), Skandagupta's inscription, and medieval Jain marble temples atop Mount Girnar. |
+| **Kalibangan** | Hanumangarh District, Rajasthan | Situated on the dried bed of the Ghaggar (ancient Saraswati) River; key Indus Valley site revealing the earliest ploughed agricultural field surface, fire altars (*havan kunds*), mud-brick town fortifications, and decorated flooring tiles. |
+| **Kannauj (Kanyakubja)** | Kannauj District, Uttar Pradesh | Imperial capital of **Harshavardhana** (606–647 AD) and subsequently the ultimate prize in the 8th–10th century **Tripartite Struggle** between the Gurjara-Pratiharas, Palas, and Rashtrakutas. |
+| **Kanchipuram** | Kanchipuram District, Tamil Nadu | Known as the *"Golden City of a Thousand Temples"*, located 45 miles south-west of Chennai; historic royal capital of the **Pallava Dynasty** and later a major Chola centre; famous for the **Kailasanathar Temple** (erected by Narasimhavarman II Rajasimha) and Vaikuntha Perumal Temple. |
+| **Kanheri** | Sanjay Gandhi National Park, Mumbai, Maharashtra | Located 20 miles north of Mumbai; major Buddhist rock-cut monastery complex comprising 109 basalt caves dating from 1st century BC to 10th century AD; contains colossal standing Buddha statues and ancient water harvesting cisterns. |
+| **Kanyakubja** | Uttar Pradesh | Classical name for modern Kannauj; supreme political and cultural axis of Northern India from the 7th century until the Ghaznavid and Ghorid invasions. |
+| **Kapilvastu** | Near Indo-Nepal Border (identified with Piprahwa, Siddharthnagar, UP) | Ancient capital of the Shakya republic; royal home where Prince Siddhartha Gautama spent his youth before renouncing worldly palace life. |
+| **Khajuraho** | Chhatarpur District, Madhya Pradesh | Renowned temple complex built between 950 and 1050 AD by the **Chandela Dynasty** of Bundelkhand; masterworks of the Nagara architectural style with soaring curvilinear shikharas and sensuous sculptural reliefs (Kandariya Mahadeva Temple, Lakshmana Temple). |
+| **Kusinagar (Kushinagar)** | Kushinagar District (near Deoria), Uttar Pradesh | Ancient capital of the Malla Republic; sacred Buddhist site where Gautama Buddha attained **Mahaparinirvana** (death) under two Sal trees in 483 BC; houses the Mahaparinirvana Stupa and the 6-meter reclining Buddha statue. |
+| **Lothal** | Ahmedabad District (Saurashtra peninsula), Gujarat | Major coastal Harappan port city located 450 miles south-east of Mohenjodaro on the Bhogava River; features the world's earliest known **tidal brick dockyard**, international Persian Gulf seals, terracotta model of a ship, rice husks, and double burials. |
+| **Madurai** | Madurai District, Tamil Nadu | Known as the *"City of Festivals"* and *"Athens of the East"*; historic capital of the **Pandyan Kingdom** that maintained extensive maritime trade with ancient Greece and imperial Rome; famous for the monumental **Meenakshi Sundareswarar Temple** with colossal sculpted gopurams. |
+| **Mamallapuram (now Mahabalipuram / Mammalapuram)** | Chengalpattu District, Tamil Nadu | Situated 53 miles south of Chennai on the Coromandel Coast; premier port and rock-architecture capital of the **Pallavas** under Narasimhavarman I Mamalla (7th–8th century AD); home of the **Monolithic Five Rathas** (*Pancha Pandava Rathas: Dharmaraja, Arjuna, Bhima, Draupadi, Nakula-Sahadeva*), the colossal open-air bas-relief *Arjuna's Penance / Descent of the Ganga*, and the 8th-century structural stone **Shore Temple**. |
+| **Mandu (Mandav)** | Dhar District, Madhya Pradesh | Ancient fortress city atop the Vindhya range; one of the largest medieval urban centers; capital of the Malwa Sultanate (Hoshang Shah, Baz Bahadur, Rani Roopmati); renowned for exquisite fusion of Hindu-Afghan architecture: **Jahaz Mahal, Hindola Mahal, Jami Masjid of Mandu**, and Hoshang Shah's marble tomb. |
+| **Mithila (Janakpur)** | Northern Bihar / Southern Nepal | Revered Vedic seat of sacred wisdom and philosophy; ancient capital of King Janaka; home of celebrated ancient scholar-sages: **Gargi Vachaknavi, Maitreyi (Maitreya), and sage Kapila** (founder of Samkhya philosophy); birthplace of Goddess Sita. |
+| **Mohenjodaro** | Larkana District, Sindh, Pakistan | Situated on the right bank of the Indus River; excavated in 1922 by R.D. Banerjee; largest Harappan metropolis (*"Mound of the Dead"*); famous for the **Great Bath**, Great Granary, bronze Dancing Girl, Priest-King bearded steatite bust, and Pashupati seal. |
+| **Nalanda** | Nalanda District, Bihar | Founded by Gupta Emperor **Kumaragupta I** in the 5th century AD; pre-eminent international Buddhist Mahavihara and university of ancient Asia; housed over 10,000 students and scholars (studied by Hiuen-Tsang); destroyed in 1193 AD by Bakhtiyar Khilji. |
+| **Palitana** | Bhavnagar District, Gujarat (Saurashtra) | Situated at the base of the sacred **Shatrunjaya Hill**; supreme pilgrimage destination for Shvetambara Jains; features a cluster of over **860 white marble temples** built over nine centuries; sacred to Rishabhanatha (Adinatha). |
+| **Pandharpur** | Solapur District, Maharashtra | Situated on the sacred banks of the **Bhima (Chandrabhaga) River**; supreme pilgrimage destination of Maharashtra; home of the **Vithoba (Vitthal / Krishna) Temple**, central to the Varkari Bhakti movement of saints Dnyaneshwar, Namdev, Eknath, and Tukaram. |
+| **Prabhas Patan (Prabhaspatan / Somnath)** | Gir Somnath District, Gujarat | Ancient coastal town in Kathiawar; sacred site of the first of the twelve Jyotirlingas of Lord Shiva; destroyed and plundered by **Mahmud of Ghazni in 1025 AD**; rebuilt multiple times, culminating in the post-independence temple inaugurated by Sardar Patel and Dr. Rajendra Prasad. |
+| **Pragjyotishpur** | Kamrup (modern Guwahati), Assam | Legendary and ancient historical capital of the kingdom of **Kamarupa**; associated in epics with King Naraka and Bhagadatta; seat of the famous Tantric temple of Goddess Kamakhya on Nilachal Hill. |
+| **Rajgir (Rajagriha / Girivraja)** | Nalanda District, Bihar | Situated 8 miles south-west of Nalanda, surrounded by five rugged hills; ancient capital of the **Magadhan Empire** under King Bimbisara and Ajatashatru; site where both Gautama Buddha and Vardhamana Mahavira preached extensively; venue of the **First Buddhist Council** (483 BC) at the Saptaparni Cave. |
+| **Sanchi** | Raisen District, Madhya Pradesh | Commissioned originally by Emperor Ashoka in the 3rd century BC; world-renowned for the **Great Stupa (Stupa No. 1)**, the largest and best-preserved Buddhist stupa in India (measuring **108 feet in diameter and 42 feet in height**); adorned with four exquisitely carved torana gateways depicting Jataka tales. |
+| **Sarnath** | Varanasi District, Uttar Pradesh | Located near Varanasi; sacred Deer Park (Isipatana) where Gautama Buddha delivered his first sermon — the ***Dharmachakrapravartana*** ("Turning the Wheel of Law") — to his five former ascetic companions; site of Dhamek Stupa, Chaukhandi Stupa, and the Ashokan Lion Capital (National Emblem of India). |
+| **Seringapatam (Srirangapatna)** | Mandya District, Karnataka | Island fortress on the Cauvery River; celebrated capital of the Mysore Kingdom under Haidar Ali and **Tipu Sultan**; site of the decisive Fourth Anglo-Mysore War (1799) where Tipu Sultan was killed; houses Tipu's Summer Palace (Dariya Daulat Bagh) and the Ranganathaswamy Temple. |
+| **Somnathpuram (Somnathpur)** | Mysuru District, Karnataka | Renowned Hoysala temple town on the banks of the Cauvery; home of the breathtaking **Prasanna Chennakesava Temple** (built in 1268 AD by Soma, high officer of Hoysala King Narasimha III); trikuta (triple-shrine) plan adorned with star-shaped stellate platforms. |
+| **Sravanbelgola (Shravanabelagola)** | Hassan District, Karnataka | Sacred Jain pilgrimage centre situated between Chandragiri and Vindhyagiri hills; place where Chandragupta Maurya observed *Sallekhana* (ritual fasting to death); crowned by the colossal **monolithic statue of Lord Bahubali (Gommateshwara / Gomateswara / Babubali)**, carved from a single granite block standing **57 to 65-foot high** (tallest monolithic in the world), erected in **983 AD** by Chamundaraya (minister of Western Ganga King Rachamalla IV). |
+| **Srirangam** | Tiruchirappalli District, Tamil Nadu | Island town enclosed by the Cauvery and Kollidam rivers; houses the colossal **Ranganathaswamy Temple**, the largest functioning Hindu temple complex in India; constructed across centuries by Cholas, Pandyas, Hoysalas, and Vijayanagar monarchs; primary center of Sri Vaishnavism associated with Ramanujacharya. |
+| **Sringeri** | Chikkamagaluru District, Karnataka | Situated on the picturesque banks of the **Tunga River**; holy site where the great Advaita philosopher **Adi Shankaracharya** founded the first of his four cardinal monasteries (*Sringeri Sharada Peetham*) in the 8th century AD; contains the Vidyashankara Temple combining Hoysala and Vijayanagar architectural styles. |
+| **Tamralipti (Tamluk)** | Purba Medinipur District, West Bengal | Ancient coastal riverine port city on the Rupnarayan River; primary emporium of eastern India for maritime trade with Sri Lanka, Southeast Asia (Suvarnabhumi), and China; embarkation point of Ashoka's missionary children Mahendra and Sanghamitta, and Chinese pilgrims Fa-Hien and I-tsing. |
+| **Tanjore (Thanjavur)** | Thanjavur District, Tamil Nadu | Ancient royal capital of the **Imperial Cholas** on the Cauvery delta; world-renowned for the monumental **Brihadeeswara Temple (Rajarajeswaram)**, constructed by Emperor Rajaraja I in 1010 AD (UNESCO World Heritage); celebrated for its massive granite vimana rising 216 feet, monolithic octagonal sikhara dome, and exquisite Chola bronze sculptures (*Nataraja*). |
+| **Taxila (Takshashila)** | Rawalpindi District, Punjab, Pakistan | Ancient capital of the **Gandhara Mahajanapada**; world's earliest renowned center of higher education, attracting scholars across Eurasia (Chanakya, Panini, Jivaka, Charaka); located at the junction of the Uttarapatha trade routes; excavated sites include Bhir Mound, Sirkap, and Dharmarajika Stupa. |
+| **Tirupati** | Tirupati District, Andhra Pradesh | Situated about 100 miles north-west of Chennai in the Seshachalam Hills; home of the celebrated **Sri Venkateswara Swamy Temple (Tirumala)**, supreme Vaishnavite pilgrimage destination; outstanding specimen of Dravidian temple architecture patronized lavishly by the Pallavas, Cholas, and Vijayanagar Emperor Krishnadeva Raya. |
+| **Ujjain (Ujjayini / Avanti)** | Ujjain District, Madhya Pradesh | Situated on the banks of the sacred **Shipra (Sipra) River**; capital of the ancient **Avanti Mahajanapada**; associated with Emperor Chandragupta II 'Vikramaditya', the navaratnas (including Kalidasa), and Vardhamana Mahavira; home of the Mahakaleshwar Jyotirlinga (Dakshinabhimukhi) and the Oriental Museum with precious manuscripts. |
+| **Vaishali** | Vaishali District, Bihar | Ancient capital of the **Vajji Confederacy (Licchavis)**, celebrated as the world's earliest constitutional republic; birthplace of 24th Jain Tirthankara Vardhamana Mahavira (at Kundagrama); venue of the **Second Buddhist Council** (383 BC under King Kalashoka); site of the intact Ashokan Lion Pillar and Relic Stupa. |
+| **Vatapi** | Bagalkot District, Karnataka | Classical name of Badami; capital of the Early Western Chalukyas from 543 to 753 AD (founded by Pulakeshin I); conquered briefly by Pallava King Narasimhavarman I in 642 AD (*Vatapikonda*). |
+| **Vikramashila (Vikramasila)** | Bhagalpur District (near Antichak), Bihar | Celebrated Buddhist Tantric university founded by Pala Emperor **Dharmapala (Dharampala) in 810 AD**; destroyed in 1198 AD by soldiers of Ikhtiar Khilji (Bakhtiyar Khilji); premier center of Vajrayana Buddhism, monastic discipline, and Tibetan translations (headed by Atisha Dipankara Srijnana). |
+
+---
+
+## 16.16 Historical Personalities and Associated Places
+
+| Place | Associated Historical Personality / Landmark Event | Context & Memory Hook |
+| :--- | :--- | :--- |
+| **Bardoli** (Gujarat) | **Sardar Vallabhbhai Patel** | Heroic leadership of the **1928 Bardoli Satyagraha** against unjust land tax; local peasant women conferred upon him the title **"Sardar"**. |
+| **Belur** (Bengal) | **Sri Ramakrishna Paramahamsa / Swami Vivekananda** | Headquarters of the **Ramakrishna Math and Ramakrishna Mission**, established in 1897 by Swami Vivekananda in memory of his master. |
+| **Chittor (Chittorgarh)** (Rajasthan) | **Maharana Pratap / Rani Padmini** | Historic bastion of Sisodia Rajput resistance against imperial conquest (Allaudin Khilji in 1303; Akbar in 1568). |
+| **Fatehpur Sikri** (Uttar Pradesh) | **Emperor Akbar the Great** | Founded as the imperial capital in 1571; venue of the **Ibadat Khana** (religious debates) and the soaring Buland Darwaza. |
+| **Jallianwala Bagh** (Amritsar, Punjab) | **Massacre of Unarmed Indians by the British (General Dyer)** | Tragic slaughter of peaceful gathering on **Baisakhi Day (13 April 1919)** protesting Rowlatt Act arrests of Dr. Saifuddin Kitchlew and Dr. Satyapal. |
+| **Haldighati** (Rajasthan) | **Maharana Pratap** | Epic battlefield of **18 June 1576** where Maharana Pratap and Chetak valiantly fought the imperial Mughal army commanded by Man Singh I. |
+| **Kapilvastu** (Indo-Nepal border / Piprahwa, UP) | **Mahatma Buddha (Gautama Buddha)** | Capital of the Shakya clan; royal childhood home of Prince Siddhartha until the Great Renunciation (*Mahabhinishkramana*) at age 29. |
+| **Lumbini** (Rupandehi, Nepal) | **Mahatma Buddha (Gautama Buddha)** | Holy birthplace of Siddhartha Gautama in **563 BC**; commemorated by Emperor Ashoka's inscribed Rummindei Pillar. |
+| **Macedonia** (Greece) | **Alexander the Great** | Ancient Hellenic homeland from which Alexander set forth to conquer the Persian Empire and invade north-western India (326 BC). |
+| **Mecca** (Saudi Arabia) | **Prophet Muhammad** | Holiest city in Islam; birthplace of Prophet Muhammad and original site of the Kaaba; focal point of the annual Hajj pilgrimage. |
+| **Pondicherry (Puducherry)** | **Sri Aurobindo Ghosh** | Revolutionary leader who retired to Pondicherry in 1910 and founded the **Sri Aurobindo Ashram** for Integral Yoga philosophy. |
+| **Porbandar** (Gujarat) | **Mahatma Gandhi** | Birthplace of Mohandas Karamchand Gandhi on **2 October 1869** (*Kirti Mandir* memorial). |
+| **Rajghat** (New Delhi) | **Mahatma Gandhi** | Sacred black marble national memorial marking the cremation ground of Mahatma Gandhi (*"He Ram"*). |
+| **Sabarmati** (Ahmedabad, Gujarat) | **Mahatma Gandhi** | Base of Mahatma Gandhi's national activities from **1917 to 1930** (*Hriday Kunj*); starting point of the historic Dandi Salt March (12 March 1930). |
+| **Seringapatnam (Srirangapatna)** (Karnataka) | **Tipu Sultan ("Tiger of Mysore")** | Island capital and final defense of Tipu Sultan; killed in action on **4 May 1799** during the Fourth Anglo-Mysore War. |
+| **Shanti Van** (New Delhi) | **Pandit Jawaharlal Nehru** | Peaceful national memorial marking the cremation ground of India's first Prime Minister (passed away 27 May 1964). |
+| **Shantiniketan** (Birbhum, West Bengal) | **Rabindranath Tagore** | Abode of learning founded by Maharshi Debendranath Tagore and expanded by Rabindranath Tagore into the international university **Visva-Bharati** (1921). |
+| **Talwandi (Nankana Sahib)** (Punjab, Pakistan) | **Guru Nanak Dev** | Sacred birthplace of the founder and first Guru of Sikhism in **1469 AD** (*Gurdwara Janam Asthan*). |
+| **Ujjain** (Madhya Pradesh) | **Vardhamana Mahavira / King Vikramaditya** | Preached by Mahavira; traditional royal seat of legendary King Vikramaditya; venue of the Simhastha Kumbh Mahaparva. |
+| **Vrindaban (Vrindavan)** (Mathura, UP) | **Lord Krishna** | Holy pastoral grove associated with Lord Krishna's divine childhood pastimes (*leelas*) and Radha Rani. |
+
+---
+
+## 16.17 Foreign Travellers and Envoys to India
+
+| Foreign Traveller / Envoy | Period / Century | Origin / Country | Contemporary Indian Ruler / Reign Visited | Major Travelogue / Historical Contribution |
+| :--- | :--- | :--- | :--- | :--- |
+| **Megasthenes** | **302–298 BC** | Greece (Seleucid Empire) | **Chandragupta Maurya** | Greek ambassador of Seleucus I Nicator (Selecus Nikator); resided at Pataliputra; authored ***Indica*** (seven-caste division, municipal administration). |
+| **Fa-Hien (Faxian)** | **405–411 AD** | China | **Chandragupta II Vikramaditya** | First Chinese Buddhist pilgrim to visit India; collected Buddhist scriptures and vinaya texts; recorded peaceful social conditions in ***Fo-Kwo-Ki***. |
+| **Hiuen-Tsang (Xuanzang)** | **630–645 AD** | China | **Harshavardhana** of Kannauj | *"Prince of Pilgrims"*; studied at Nalanda Mahavihara under Shilabhadra; attended assemblies at Kannauj and Prayag; authored ***Si-Yu-Ki***. |
+| **I-tsing (Yijing)** | **671–695 AD** | China | Post-Gupta / Later rulers | Chinese Buddhist monk; spent 10 years at Nalanda; authored ***Biographies of Eminent Monks*** and recorded Sanskrit grammar and Buddhist monastic rules. |
+| **Al-Masudi** | **957 AD** | Baghdad (Arab) | **Gurjara-Pratihara Kingdom** | Arab geographer and historian; authored ***Muruj-ul-Zahab*** (*Meadows of Gold*); documented the Pratihara kingdom (*Al-Juzr*) and its formidable cavalry. |
+| **Al-beruni (Abu Rehan)** | **1024–1030 AD** | Khwarizm (Central Asia) | Accompanied **Mahmud of Ghazni** | Scholar-polymath; mastered Sanskrit; authored encyclopedic ***Tahqiq-i-Hind*** (*Kitab-ul-Hind*) on Indian religion, philosophy, astronomy, and society. |
+| **Marco Polo** | **1292–1294 AD** | Venice (Italy) | Pandyan Kingdom (**Maravarman Kulasekhara / Madverman Kulshekhara**) | Venetian merchant traveller returning from China; visited Kayal and Madurai; authored ***The Book of Sir Marco Polo*** on South Indian sea trade and pearl fisheries. |
+| **Ibn Batuta** | **1333–1347 AD** | Tangier (Morocco) | **Muhammad-bin-Tughlaq** | Moroccan globetrotter; appointed Chief Qazi of Delhi for 8 years; later royal envoy to China; authored famous travelogue ***Kitab-ur-Rehla***. |
+| **Shihabuddin al-Umari** | **1348 AD** | Damascus (Syria) | **Muhammad-bin-Tughlaq** era | Syrian scholar; authored ***Masalik al-Absar fi Mamalik al-Amsar***; provided detailed accounts of Delhi Sultanate administration, revenues, and court protocol. |
+| **Nicolo de Conti (Nicolo Conti)** | **1420–1421 AD** | Venice (Italy) | Vijayanagar (**Devaraya I**) | Venetian merchant traveller; provided the first European eyewitness account of the fortified capital city of Vijayanagar and its grand festivals. |
+| **Abdur Razzaq** | **1443–1444 AD** | Herat (Persia / Timurid) | Vijayanagar (**Devaraya II**) / Zamorin of Calicut | Persian ambassador sent by Timurid ruler Shahrukh; authored ***Matla-us-Sadain wa Majma-ul-Bahrain***; praised Vijayanagar as unrivaled in wealth and grandeur. |
+| **Athanasius Nikitin** | **1470–1474 AD** | Tver (Russia) | **Bahmani Kingdom** (Muhammad Shah III & Mahmud Gawan) | Russian horse merchant; authored ***The Journey Beyond Three Seas***; vividly depicted the Bahmani Sultanate's feudal nobility versus peasant poverty. |
+| **Duarte Barbosa** | **1500–1516 AD** | Portugal | Vijayanagar (**Krishnadeva Raya**) | Portuguese officer and interpreter; detailed the maritime trade of Malabar, customs, sati, and religious freedom in the Vijayanagar Empire. |
+| **Domingo Paes (Dominigo Paes)** | **1520–1522 AD** | Portugal | Vijayanagar (**Krishnadeva Raya**) | Visited the imperial capital at the height of its glory; authored ***Chronica dos reis de Bisnaga***; described Krishnadeva Raya as an enlightened monarch and the Mahanavami festival. |
+| **Fernao Nuniz** | **1535–1537 AD** | Portugal | Vijayanagar (**Achyuta Deva Raya / Achyutdeva Raya**) | Portuguese horse trader; penned a detailed historical chronicle of the Vijayanagar Empire from its foundation to Achyuta Deva Raya's reign; recorded women wrestling, astrologers, and military organization. |
+| **John Huyghen van Linschoten (John Hughen Von Linschotten)** | **1583 AD** | Netherlands (Dutch) | Portuguese Goa & South India | Dutch merchant and explorer; secretary to the Archbishop of Goa; authored ***Itinerario***, which revealed Portuguese nautical secrets and stimulated Dutch/English Asian trade. |
+| **William Hawkins** | **1608–1611 AD** | England | **Jahangir** | English envoy of King James I and commander of the EIC ship *Hector*; received by Jahangir at Agra; granted a mansab of 400 and title of *"English Khan"*. |
+| **Sir Thomas Roe** | **1615–1619 AD** | England | **Jahangir** | Official ambassador of King James I to the Mughal court; secured royal farmans granting English factories trading privileges at Surat. |
+| **Francisco Pelsaert (Franciso Palsaert)** | **1620–1627 AD** | Netherlands (Dutch) | **Jahangir** | Senior merchant of the Dutch VOC stationed at Agra; authored ***Remonstrantie***; vividly described flourishing commercial trades at Surat, Ahmedabad, and Agra, alongside the deep poverty of the common artisan class. |
+| **Peter Mundy** | **1630–1634 AD** | England / Italy | **Shah Jahan** | English merchant traveller; documented the devastating Gujarat Famine of 1630–32 and the socio-economic conditions of common people in the Mughal Empire. |
+| **John Albert de Mandelslo (John Albert de Mandesto)** | **1638 AD** | Germany | **Shah Jahan** | German traveller and Duke of Holstein's envoy; reached Surat in 1638; documented the thriving port economy and cosmopolitan merchants of Western India. |
+| **Jean-Baptiste Tavernier (Jeen Baptiste Tavernier)** | **1638–1663 AD** | France | **Shah Jahan & Aurangzeb** | Celebrated French jewel merchant and gemologist; made **six separate voyages** to India (visited India six times); examined the Koh-i-Noor diamond and authored ***Six Voyages***. |
+| **Niccolao Manucci (Nicolao Manucci)** | **1653–1708 AD** | Venice (Italy) | **Dara Shikoh, Shah Jahan, Aurangzeb** | Italian adventurer and physician; served in artillery of Dara Shikoh; later practiced medicine in Lahore and Madras; authored ***Storia do Mogor***. |
+| **Francois Bernier** | **1656–1717 AD** | France | **Aurangzeb** (patron: Danishmand Khan / Danishamand Khan) | French physician and philosopher; personal doctor to Prince Dara Shikoh and noble Danishmand Khan; authored ***Travels in the Mogul Empire***; analyzed Crown ownership of land and the Battle of Samugarh. |
+| **Jean de Thevenot** | **1666 AD** | France | **Aurangzeb** era | French traveller; provided detailed travelogues on port cities Surat, Cambay, Ahmedabad, Aurangabad, and the Sultanate of Golconda. |
+| **John Fryer** | **1672–1681 AD** | England | **Aurangzeb** & Early Marathas | English civil surgeon of the EIC; traveled across the Western Ghats; authored valuable accounts of Bombay, Surat, and the coronation of Chhatrapati Shivaji. |
+| **Dr. Gemelli Careri** | **1695 AD** | Naples (Italy) | **Aurangzeb** (Deccan Campaign) | Italian jurist and adventurer; landed at Daman and visited Aurangzeb's military camp at Galgala; documented the Mughal military organization and the emperor's austere lifestyle. |
+
+---
+
+## 16.18 Historical Sobriquets, Titles and Alternative Names
+
+| Sobriquet / Alternative Name | Original Historical Personality | Key Context & Recognition |
+| :--- | :--- | :--- |
+| **Andhra Kesari** ("Lion of Andhra") | **T. Prakasam (Tanguturi Prakasam)** | Daring freedom fighter who bared his chest to British bullets during the 1928 anti-Simon Commission protests; first Chief Minister of Andhra State (1953). |
+| **Anna** ("Elder Brother") | **C.N. Annadurai (Conjeevaram Natarajan Annadurai)** | Iconic Dravidian leader, brilliant orator, and founder of the DMK; first non-Congress Chief Minister of Tamil Nadu (1967). |
+| **Badshah Khan / Frontier Gandhi** | **Khan Abdul Ghaffar Khan (Bacha Khan)** | Pashtun non-violent freedom leader; founder of the Khudai Khidmatgar (*Red Shirts*); awarded Bharat Ratna in 1987. |
+| **Bapu / Father of the Nation** | **Mohandas Karamchand Gandhi** | Supreme leader of the Indian national freedom movement; bestowed the title *"Father of the Nation"* by Subhas Chandra Bose in 1944. |
+| **Beacon of Light of Asia** | **Subhash Chandra Bose (Subhas Chandra Bose)** | Regarded as a flaming beacon of Indian national resurgence and Asian anti-colonial emancipation. |
+| **Chacha** | **Pandit Jawaharlal Nehru** | Affectionately remembered for his love for children and youth; birthday (14 November) celebrated as National Children's Day. |
+| **C.R. / Rajaji** | **Chakravarti Rajagopalachari** | Last Governor-General of India and first Indian to hold the office; author of the 1944 C.R. Formula; founder of the Swatantra Party (1959). |
+| **Deenbandhu** ("Friend of the Poor") | **Charles Freer Andrews (C.F. Andrews)** | English Anglican missionary, close associate of Rabindranath Tagore and Mahatma Gandhi; dedicated his life to Indian indentured labourers. |
+| **Deshbandhu** ("Friend of the Country") | **Chittaranjan Das (C.R. Das)** | Renowned nationalist lawyer and mentor of Subhas Chandra Bose; co-founder and President of the Swaraj Party (1923). |
+| **The Enlightened One** | **Gautama Buddha (Mahatma Buddha)** | Siddhartha Gautama; attained supreme spiritual awakening (*Bodhi*) under the Bodhi tree at Bodh Gaya; founder of Buddhism. |
+| **Father of Indian Unrest** | **Bal Gangadhar Tilak** | Coined by British journalist Sir Valentine Chirol in his book *Indian Unrest*; acknowledged Tilak's role in igniting mass militancy. |
+| **Father of Local Self-Government** | **Lord Ripon** | Viceroy who authored the epochal **Local Self-Government Resolution of 1882**, laying the institutional framework for municipal and rural boards. |
+| **Grand Old Man of India** | **Dadabhai Naoroji** | Pioneer of Indian economic nationalism; author of *Poverty and Un-British Rule in India* (Drain of Wealth theory); thrice President of the INC. |
+| **Gurudev** | **Rabindranath Tagore** | Nobel Laureate in Literature (1913 for *Gitanjali*); composer of *Jana Gana Mana* and *Amar Shonar Bangla*; title conferred by Mahatma Gandhi. |
+| **Indian Bismarck / Strong Man / Man of Iron** | **Sardar Vallabhbhai Patel** | Master statesman who orchestrated the peaceful integration of **562 Princely States** into the Indian Union; first Deputy PM and Home Minister. |
+| **Indian Einstein** | **Acharya Nagarjuna** | Brilliant 2nd-century Buddhist philosopher; founder of the **Madhyamaka** school and proponent of the Theory of Relativity of Phenomenal Existence (*Sunyavada*). |
+| **Indian Napoleon** | **Samudragupta** | Term coined by British historian **Vincent Arthur Smith (V.A. Smith)** in *Early History of India* in tribute to his undefeated pan-Indian military conquests (Allahabad Prasasti). |
+| **Loknayak (J.P.)** | **Jayaprakash Narayan** | Legendary hero of the 1942 Quit India underground movement and architect of the **Total Revolution (*Sampoorna Kranti*)** in 1974. |
+| **Lal, Bal, Pal** | **Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal** | The militant nationalist triumvirate who spearheaded the anti-Partition Swadeshi and Boycott movements (1905–1908). |
+| **Liberator of the Indian Press** | **Sir Charles Metcalfe** | Governor-General who repealed the repressive 1823 Licensing Regulations by enacting the **Press Act of 1835**. |
+| **Lion of Punjab (Sher-i-Punjab) / Punjab Kesari** | **Lala Lajpat Rai** | Staunch nationalist leader of Punjab; founded the Servants of the People Society; martyred after the 1928 anti-Simon lathi charge. |
+| **Lokmanya** ("Accepted by the People") | **Bal Gangadhar Tilak** | Conferred during the 1897 anti-plague agitation in Poona; pioneer of Ganeshotsav and Shivaji festivals for national mobilization. |
+| **Mahamana** ("Great Soul") | **Pandit Madan Mohan Malaviya** | Revered educationist and nationalist; founder of the **Banaras Hindu University (BHU)** in 1916; posthumously awarded the Bharat Ratna (2014). |
+| **Martin Luther of India** | **Swami Dayanand Saraswati** | Renowned Vedic revivalist and social reformer; founder of the **Arya Samaj (1875)**; waged war against idolatry, casteism, and untouchability. |
+| **Netaji / Patriot of Patriots** | **Subhas Chandra Bose** | Supreme commander of the **Azad Hind Fauj (Indian National Army)**; title *"Patriot of Patriots"* conferred upon him by Mahatma Gandhi. |
+| **Nightingale of India (*Bharat Kokila*)** | **Sarojini Naidu** | Acclaimed lyric poetess and fiery freedom fighter; first Indian woman President of the INC (Kanpur, 1925) and first woman Governor of Uttar Pradesh. |
+| **Parrot of India (*Tuti-e-Hindustan*)** | **Amir Khusrau** | Iconic 13th–14th century poet, musician, and Sufi disciple of Nizamuddin Auliya; inventor of the Sitar and pioneer of Qawwali and Khari Boli Hindavi poetry. |
+| **Scourge of God** | **Chengiz Khan (Genghis Khan)** | Fearsome Mongol conqueror whose devastating sweeps terrified Eurasia; reached the banks of the Indus in 1221 AD pursuing Jalaluddin Mangbarani. |
+
+---
+
+## 16.19 Major Historical Battles of India
+
+| Battle | Year | Belligerents & Field | Victorious Power | Decisive Significance & Historical Consequence |
+| :--- | :--- | :--- | :--- | :--- |
+| **Battle of the Hydaspes** | **326 BC** | Alexander the Great vs. King Porus (Puru) on the Jhelum River | **Alexander the Great** | Fought on the bank of the Jhelum (*Hydaspes* in Greek); Alexander admired Porus's bravery and restored his territory; opened trade routes to Europe. |
+| **Kalinga War** | **261 BC (260 BC in Lucent)** | Emperor Ashoka vs. the State of Kalinga (modern Odisha) | **Emperor Ashoka** | Immense destruction and bloodshed prompted deep remorse; Ashoka renounced aggressive militarism (*Bherighosha*) and embraced Buddhism (*Dhammaghosha*). |
+| **First Battle of Tarain** | **1191 AD** | Prithviraj Chauhan vs. Muhammad Ghori (near Thanesar, Haryana) | **Prithviraj Chauhan** | Decisive Rajput victory; routed the invading Ghurid forces; Muhammad Ghori was wounded and retreated. |
+| **Second Battle of Tarain** | **1192 AD** | Prithviraj Chauhan vs. Muhammad Ghori | **Muhammad Ghori** | Turning point in Indian history; Ghori's cavalry tactics defeated the Rajput forces, establishing the foundation of Turkish imperial rule in India. |
+| **First Battle of Panipat** | **1526 AD** (21 April) | Babur vs. Ibrahim Lodi (Delhi Sultanate) | **Babur** | Babur employed *Tulughma* flanking tactics and field artillery (*Rumi* method); defeated the numerically superior Lodi army, ending the Delhi Sultanate and founding the Mughal Empire. |
+| **Battle of Khanwa** | **1527 AD** (16 March) | Babur vs. Rana Sanga of Mewar and Rajput Confederacy | **Babur** | Fought near Fatehpur Sikri; Babur declared *Jihad* and assumed the title of *Ghazi*; permanently consolidated the Mughal foothold in northern India. |
+| **Battle of Chausa** | **1539 AD** (26 June) | Sher Shah Suri vs. Mughal Emperor Humayun | **Sher Shah Suri** | Sher Shah surprised Humayun on the banks of the Ganges near Buxar; Humayun escaped across the river; Sher Shah assumed the imperial title of *Fariduddin Sher Shah, Sultan-i-Adil*. |
+| **Second Battle of Panipat** | **1556 AD** (5 November) | Mughal Army (Akbar under Regent Bairam Khan) vs. Hemu (*Hemchandra Vikramaditya*) | **Akbar (Mughals)** | Hemu was winning when an arrow pierced his eye, causing panic; Mughals captured and executed him, ending Afghan bids for Delhi and securing the young Akbar's throne. |
+| **Battle of Talikota** (*Rakshasa-Tangadi*) | **1565 AD** (23 January) | Combined coalition of four Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) vs. Rama Raya of Vijayanagar | **Combined Muslim Sultanate Forces** | Crushing defeat of the Vijayanagar army; Rama Raya was captured and beheaded; the magnificent imperial capital of Vijayanagar was brutally sacked, ending the empire's golden age. |
+| **Battle of Haldighati** | **1576 AD** (18 June) | Mughal Imperial Army (commanded by Raja Man Singh I of Amber) vs. Maharana Pratap of Mewar | **Akbar (Mughals)** | Fierce mountain-pass battle in the Aravallis; Maharana Pratap fought gallantly and took refuge in the remote fortress of Chavand, sustaining lifelong guerrilla resistance. |
+| **Battle of Samugarh** | **1659 AD (1658 AD)** | Aurangzeb and Murad Bakhsh vs. Imperial Forces led by Crown Prince Dara Shikoh | **Aurangzeb** | Decisive Mughal war of succession fought near Agra; Dara's army was routed; Aurangzeb captured Agra Fort, imprisoned his father Shah Jahan, and crowned himself Emperor. |
+| **Battle of Plassey** | **1757 AD** (23 June) | Nawab Siraj-ud-Daulah of Bengal vs. British East India Company under Robert Clive | **English Forces (Clive)** | Treachery of Mir Jafar and Rai Durlabh crippled Bengal's resistance; British installed Mir Jafar as puppet Nawab and became master of Bengal's revenues, founding the British Empire in India. |
+| **Third Battle of Panipat** | **1761 AD** (14 January) | Ahmad Shah Abdali (Durrani Afghan Empire) vs. Maratha Confederacy under Sadashivrao Bhau | **Ahmad Shah Abdali (Ahmed Shah Abdali)** | Horrific Maratha casualties; dealt a fatal blow to Maratha ambitions of ruling northern India; sealed the doom of the Mughal Empire and eased the way for British conquest. |
+| **Battle of Buxar** | **1764 AD** (22 October) | Joint Forces of Nawab Mir Qasim, Nawab Shuja-ud-Daula of Awadh, and Mughal Emperor Shah Alam II vs. British EIC under Major Hector Munro | **English Forces (Munro)** | Decisive battlefield triumph over combined Indian sovereigns; established British military superiority and led to the Treaty of Allahabad (1765) granting the *Diwani* of Bengal, Bihar, and Orissa. |
+| **Third Anglo-Mysore War** | **1790–1792 AD (1790–1792)** | British East India Company (Lord Cornwallis) with Maratha and Nizam allies vs. Tipu Sultan | **English Forces (Cornwallis)** | British laid siege to Seringapatam; Tipu Sultan forced to sign the humiliating Treaty of Seringapatam (1792), ceding half of his kingdom and paying heavy war indemnity. |
+| **Fourth Anglo-Mysore War** | **1799 AD** | British East India Company (Lord Wellesley) vs. Tipu Sultan | **English Forces (Wellesley)** | Fought at Malavalli and Seringapatam; Tipu Sultan died defending the breached fortress walls; ended the Muslim ruling dynasty of Mysore and restored the Wodeyars under a Subsidiary Alliance. |
+| **Second Anglo-Sikh War** | **1848–1849 AD (1848-49 AD)** | British East India Company (Lord Dalhousie) vs. Sikh Empire | **English Forces (Dalhousie)** | Decisive battles at Chillianwala and Gujarat; ended Sikh sovereignty in India; Punjab was annexed to the British Empire (1849) and Maharaja Duleep Singh pensioned off. |
 
 ---
 
@@ -6430,7 +6715,7 @@ exponent of Tabla and Pakhawaj.
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
+> **40 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
 
 **Q1.** Match List-I (Slogan) with List-II (Person):
@@ -7206,6 +7491,270 @@ D. Faizpur 1937 — only Gandhi presidentship
 **Logic:** Lahore ↔ Karachi remains a top vault trap.
 
 </details>
+
+---
+
+**Q31.** Match List-I (Foreign Traveller) with List-II (Contemporary Indian Ruler / Kingdom):
+
+| List-I | List-II |
+|---|---|
+| A. Megasthenes | 1. Devaraya II / Zamorin of Calicut |
+| B. Nicolo de Conti | 2. Chandragupta Maurya |
+| C. Abdur Razzaq | 3. Shah Jahan & Aurangzeb |
+| D. Jean-Baptiste Tavernier | 4. Devaraya I (Vijayanagar) |
+
+A. A-2, B-4, C-1, D-3
+
+B. A-2, B-1, C-4, D-3
+
+C. A-4, B-2, C-1, D-3
+
+D. A-2, B-4, C-3, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Classical traveller-monarch timeline.
+
+**Logic:** Megasthenes visited the court of Chandragupta Maurya (author of *Indica*); Venetian Nicolo Conti visited Vijayanagar under Devaraya I (1420); Persian envoy Abdur Razzaq visited Devaraya II and Zamorin of Calicut (1443); Tavernier made six voyages across the reigns of Shah Jahan and Aurangzeb.
+
+</details>
+
+---
+
+**Q32.** Match List-I (Historical Sobriquet / Alternative Name) with List-II (Personality):
+
+| List-I | List-II |
+|---|---|
+| A. Andhra Kesari | 1. Sardar Vallabhbhai Patel |
+| B. Indian Bismarck | 2. T. Prakasam |
+| C. Indian Einstein | 3. Swami Dayanand Saraswati |
+| D. Martin Luther of India | 4. Acharya Nagarjuna |
+
+A. A-1, B-2, C-4, D-3
+
+B. A-2, B-1, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Nationalist titles and cultural sobriquets.
+
+**Logic:** Tanguturi Prakasam is honoured as Andhra Kesari; Sardar Vallabhbhai Patel is the Iron Man and Indian Bismarck for state integration; Acharya Nagarjuna is the Indian Einstein for his relativity-adjacent Sunyavada philosophy; Swami Dayanand Saraswati was hailed as the Martin Luther of India.
+
+</details>
+
+---
+
+**Q33.** Which one of the following pairs of historical places and their distinctive historical/architectural features is NOT correctly matched?
+
+A. Ahichhatra — Ancient capital of Northern Panchala Mahajanapada
+
+B. Sravanbelgola — Colossal 57–65 ft monolithic statue of Lord Bahubali (Gomateswara) erected in 983 AD
+
+C. Arikamedu — Flourishing Indo-Roman maritime trading port on Coromandel coast
+
+D. Vikramashila — Buddhist Tantric Mahavihara founded by Mauryan Emperor Ashoka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Incorrect founder dynasty attribution.
+
+**Logic:** Vikramashila was established in 810 AD by Pala Emperor Dharmapala (not Emperor Ashoka) in modern Bhagalpur (Bihar). It was a prominent center of Buddhist Tantric learning until its destruction by the forces of Bakhtiyar Khilji in 1198 AD.
+
+</details>
+
+---
+
+**Q34.** Consider the following British Committees and Commissions on Education in India:
+1. Hunter Commission
+2. Sadler Commission
+3. Raleigh Commission (Indian Universities Commission)
+4. Sargent Plan
+
+Which one of the following represents their correct chronological order of appointment?
+
+A. 1 — 3 — 2 — 4
+
+B. 1 — 2 — 3 — 4
+
+C. 3 — 1 — 2 — 4
+
+D. 1 — 3 — 4 — 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Educational commission chronological ladder.
+
+**Logic:** The Hunter Commission on education was appointed in 1882 (Lord Ripon); the Raleigh Commission in 1902 (Lord Curzon, leading to Indian Universities Act 1904); the Sadler Commission on Calcutta University in 1917 (Lord Chelmsford); and the Sargent Plan of Education in 1944 (Lord Wavell).
+
+</details>
+
+---
+
+**Q35.** Match List-I (Historical Place) with List-II (Associated Historical Personality):
+
+| List-I | List-II |
+|---|---|
+| A. Bardoli | 1. Mahatma Gandhi |
+| B. Belur Math | 2. Tipu Sultan |
+| C. Sabarmati | 3. Sardar Vallabhbhai Patel |
+| D. Seringapatam | 4. Sri Ramakrishna Paramahamsa / Vivekananda |
+
+A. A-3, B-4, C-1, D-2
+
+B. A-3, B-1, C-4, D-2
+
+C. A-4, B-3, C-1, D-2
+
+D. A-3, B-4, C-2, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Historical site-personality pairing.
+
+**Logic:** Bardoli is linked with Sardar Patel (1928 Satyagraha); Belur Math with Ramakrishna and Swami Vivekananda (founded 1897); Sabarmati Ashram with Mahatma Gandhi (founded 1917, Dandi base); and Seringapatam with Tipu Sultan (fortress capital and death in 1799).
+
+</details>
+
+---
+
+**Q36.** What is the correct chronological sequence of the following major historical battles of India?
+1. Second Battle of Tarain
+2. First Battle of Panipat
+3. Battle of Khanwa
+4. Battle of Talikota (Rakshasa-Tangadi)
+
+A. 1 — 2 — 3 — 4
+
+B. 1 — 3 — 2 — 4
+
+C. 2 — 1 — 3 — 4
+
+D. 1 — 2 — 4 — 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Epochal Indian battle sequence.
+
+**Logic:** Second Battle of Tarain took place in 1192 AD (Ghori defeated Prithviraj Chauhan); First Battle of Panipat in 1526 AD (Babur defeated Ibrahim Lodi); Battle of Khanwa in 1527 AD (Babur defeated Rana Sanga); and Battle of Talikota occurred in 1565 AD (Deccan Sultanates destroyed Vijayanagar).
+
+</details>
+
+---
+
+**Q37.** Match List-I (Historical Saying / Quotation) with List-II (Personality):
+
+| List-I | List-II |
+|---|---|
+| A. "Every blow that is hurled on my back will be a nail in the coffin of the British Empire" | 1. Lord Curzon |
+| B. "The Congress is tottering to its fall and one of my greatest ambitions is to assist it to a peaceful demise" | 2. Pandit Jawaharlal Nehru |
+| C. "My ultimate aim is to wipe every tear from every eye" | 3. Lala Lajpat Rai |
+| D. "Back to the Vedas" | 4. Swami Dayanand Saraswati |
+
+A. A-3, B-1, C-2, D-4
+
+B. A-3, B-2, C-1, D-4
+
+C. A-1, B-3, C-2, D-4
+
+D. A-3, B-1, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Slogan and famous saying attribution.
+
+**Logic:** Lala Lajpat Rai uttered the nail-in-the-coffin prophecy following the fatal lathi charge in 1928; Lord Curzon wrote to Hamilton in 1900 on the peaceful demise of Congress; Nehru emphasized wiping every tear from every eye; Dayanand Saraswati gave the rallying cry "Back to the Vedas".
+
+</details>
+
+---
+
+**Q38.** Match List-I (Famine Commission) with List-II (Appointing Viceroy):
+
+| List-I | List-II |
+|---|---|
+| A. Richard Strachey Commission (1880) | 1. Lord Curzon |
+| B. James Lyall Commission (1897) | 2. Lord Lytton |
+| C. Anthony MacDonnell Commission (1900) | 3. Lord Wavell |
+| D. John Woodhead Commission (1943–44) | 4. Lord Elgin II |
+
+A. A-2, B-4, C-1, D-3
+
+B. A-2, B-1, C-4, D-3
+
+C. A-4, B-2, C-1, D-3
+
+D. A-2, B-4, C-3, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Famine commission and viceregal pairing.
+
+**Logic:** Strachey Commission was appointed by Lord Lytton in 1880 (led to the 1883 Famine Code); Lyall Commission by Lord Elgin II in 1897; MacDonnell Commission by Lord Curzon in 1900; and Woodhead Commission by Lord Wavell in 1943–44 to investigate the Great Bengal Famine.
+
+</details>
+
+---
+
+**Q39.** Which one of the following pairs regarding historic Indian National Congress (INC) sessions is NOT correctly matched?
+
+A. 1887 Madras — Badruddin Tyabji became the first Muslim President of the INC
+
+B. 1888 Allahabad — George Yule became the first English / European President of the INC
+
+C. 1929 Lahore — Adoption of the historic 'Poorna Swaraj' (Complete Independence) Resolution
+
+D. 1931 Karachi — Resolution defining 'Purna Swaraj' to cover princely states moved by Subhas Chandra Bose
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Incorrect session-resolution match.
+
+**Logic:** The 1931 Karachi Session was presided over by Sardar Vallabhbhai Patel and passed the landmark resolutions on Fundamental Rights and the National Economic Policy. Extending Purna Swaraj to cover Princely States was moved and adopted at the 1938 Haripura Session under Subhas Chandra Bose.
+
+</details>
+
+---
+
+**Q40.** Match List-I (Commission / Committee) with List-II (Primary Subject / Mandate):
+
+| List-I | List-II |
+|---|---|
+| A. Aitchison Commission (1886) | 1. Currency reforms and closing mints to free silver coinage |
+| B. Herschell Committee (1893) | 2. Investigation into industrial and plantation labor conditions |
+| C. Royal Commission on Labour / Whitley Commission (1929) | 3. Categorization of Civil Services into Imperial, Provincial, and Subordinate |
+| D. Butler Committee (1927) | 4. Examination of Crown relationships with Princely States |
+
+A. A-3, B-1, C-2, D-4
+
+B. A-3, B-2, C-1, D-4
+
+C. A-1, B-3, C-2, D-4
+
+D. A-3, B-1, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Colonial administrative and economic mandates.
+
+**Logic:** Aitchison Commission (1886) recommended the tripartite division of civil services; Herschell Committee (1893) suggested currency reforms; Whitley Commission (1929) investigated labor conditions; Butler Committee (1927) examined Crown paramountcy over Princely States.
+
+</details>
+
+---
 
 ## Common Traps — Don't Fall For These
 

@@ -12602,3 +12602,229 @@ D. First RTC 1930 — Gandhi sole Congress representative
 55. **Gandhi attended 1st RTC** → **only the 2nd**; 1st and 3rd without Congress.
 56. **Poona Pact = separate electorates kept** → **joint electorates + reserved seats**.
 57. **Harijan Sevak Sangh first President = Ambedkar** → **G.D. Birla**; Gandhi founded the body.
+
+
+---
+
+## Lucent GK Complete Comprehensive Reference & Direct Gap-Fill: The Gandhian Era (1917–1947)
+
+### 1. Mahatma Gandhi: Personal Facts, Influences, Works & Titles (Lucent Roster)
+- **Birth Details**: Born on **2 October 1869** at **Porbandar, Gujarat**. (Note: UNO declared 2 October as **'International Non-Violence Day' / Antarrashtriya Ahimsa Diwas**).
+- **Parents & Mentors**:
+  - **Father**: Karamchand (Kaba) Gandhi (Diwan of Porbandar, Rajkot, and Wankaner).
+  - **Mother**: Putlibai.
+  - **Political Guru**: **Gopal Krishna Gokhale**.
+  - **Private Secretary**: **Mahadev Desai** (later succeeded by Pyarelal).
+- **Literary Influences on Gandhi**:
+  - John Ruskin's ***Unto This Last*** (inspired the ideal of Sarvodaya and manual labour dignity).
+  - Ralph Waldo Emerson and Henry David Thoreau (civil disobedience, tax resistance).
+  - Leo Tolstoy (concept of non-violence and Christian anarchism; *The Kingdom of God is Within You*).
+  - The Bible (Sermon on the Mount) and the Bhagavad Gita (*The Gospel of Selfless Action*).
+- **Major Literary Works**:
+  - ***Hind Swaraj*** (1909) — written in Gujarati on board ship from London to South Africa.
+  - ***My Experiments with Truth*** (Autobiography, 1927) — originally written in Gujarati; reveals events of his life up to 1922.
+- **Journalistic Endeavours (Editor/Founder)**:
+  - ***Indian Opinion*** (1903–1915): Published in South Africa in English and Gujarati (briefly in Hindi and Tamil).
+  - ***Young India*** (1919–1931): English weekly (along with ***Navajivan*** in Gujarati/Hindi).
+  - ***Harijan*** (1933–1942): Weekly journal in English, Gujarati, and Hindi.
+- **Historic Titles & Epithets Bestowed on Gandhi**:
+  - **Mahatma** (Great Soul): Bestowed by **Rabindranath Tagore** (1917, during Champaran).
+  - **Malang Baba / Nanga Faqir** (Naked Saint): Given by the **Kabailis (tribesmen) of North-West Frontier** (1930).
+  - **Indian Faqir / Traitor Faqir**: Derogatory label by **Winston Churchill** (1931).
+  - **Half-naked Saint (Ardha Nanga Faqir)**: Coined by **Frank Moraes** (1931).
+  - **Rashtrapita (Father of the Nation)**: Bestowed by **Subhas Chandra Bose** in his radio address from Singapore (6 July 1944).
+- **Post-Independence Recommendation**: Gandhi suggested the **winding up of the Indian National Congress** after attaining independence and converting it into a social service organisation: **Lok Sevak Samaj**.
+
+---
+
+### 2. Chronological Overview: Gandhi in South Africa (1893–1914)
+| Year | Landmark Event / Milestone in South Africa | Details / Significance |
+| :--- | :--- | :--- |
+| **1893** | **Departure to South Africa** | Travelled to South Africa in April 1893 as legal counsel for Dada Abdullah & Co. in Durban; faced racial discrimination (ejected from train at Pietermaritzburg). |
+| **1894** | **Foundation of Natal Indian Congress** | Organized Indians in Natal to wage constitutional struggle against disenfranchisement. |
+| **1899** | **Indian Ambulance Corps during Boer Wars** | Raised an Indian volunteer stretcher-bearer corps to aid the British army; awarded the **Kaiser-i-Hind** gold medal. |
+| **1904** | **Indian Opinion & Phoenix Settlement** | Founded weekly ***Indian Opinion***; established **Phoenix Farm** near Durban (inspired by Ruskin's *Unto This Last*). |
+| **1906** | **First Satyagraha / Civil Disobedience** | Launched the first mass civil disobedience movement against the **Asiatic Law Amendment Ordinance** in Transvaal. |
+| **1907** | **Satyagraha against The Black Act** | Agitation against compulsory registration, finger-printing, and passes for Asians in Transvaal. |
+| **1908** | **First Imprisonment (Johannesburg Jail)** | Arrested and served his first prison term for refusing to register under the Black Act. |
+| **1910** | **Foundation of Tolstoy Farm** | Set up **Tolstoy Farm** near Johannesburg with German architect Hermann Kallenbach to house satyagrahis. |
+| **1913** | **Great March & Non-Christian Marriage Agitation** | Massive satyagraha against invalidation of non-Christian Indian marriages and £3 poll tax; historic march across Transvaal border into Natal. |
+| **1914** | **Departure from South Africa** | Indian Relief Act passed repealing oppressive taxes; Gandhi departed South Africa permanently for England/India. |
+
+---
+
+### 3. Chronological Overview: Gandhi in India (1915–1948)
+| Year | Landmark Event / Activity in India | Specific Historical Significance |
+| :--- | :--- | :--- |
+| **1915** | **Arrival in India (9 Jan 1915)** | Landed at Bombay (celebrated as *Pravasi Bharatiya Divas*). Founded **Satyagraha Ashram** at Kochrab near Ahmedabad (20 May 1915). Embarked on an all-India tour on Gokhale's advice. |
+| **1916** | **Abstinence from Active Politics** | Attended Lucknow Congress (Dec 1916), where **Raj Kumar Shukla** persuaded him to visit Champaran. |
+| **1917** | **Champaran Satyagraha (April 1917)** | Shifted ashram to banks of **Sabarmati River**. Entered active Indian politics against the **Tinkathia system (3/20)** imposed by European indigo planters. **First Civil Disobedience Movement in India**. |
+| **1918** | **Ahmedabad Mill Strike (Feb 1918)** | Intervened for textile mill workers demanding 35% plague bonus. **First Hunger Strike as a weapon** by Gandhi in India. |
+| **1918** | **Kheda Satyagraha (March 1918)** | Led peasants in Gujarat facing crop failure against full revenue collection. Supported by Vallabhbhai Patel. **First Non-Cooperation Movement** by Gandhi in India. |
+| **1919** | **Rowlatt Satyagraha & Jallianwala Bagh** | Call for nationwide Satyagraha on **April 6, 1919** against Rowlatt Act (**First All-India Political Movement** under Gandhi). Returned **Kaiser-i-Hind medal** after Jallianwala Bagh massacre (13 April 1919). Elected President of **All India Khilafat Conference** (Nov 1919, Delhi). |
+| **1920–22** | **Non-Cooperation & Khilafat Movement** | Launched on **August 1, 1920** (day Tilak died). **First mass-based political movement** under Gandhi. Abruptly withdrawn on **February 12, 1922** following violence at **Chauri Chaura (5 Feb 1922)**. |
+| **1924** | **Belgaum Session of INC** | Presided over the **Belgaum (Karnataka) session of INC** — the **first and only time** Gandhi served as Congress President. |
+| **1925–27** | **Retirement to Constructive Programme** | Retired from active politics to promote spinning (Charkha), khadi, Hindu-Muslim unity, and eradication of untouchability; resumed active politics in **1927**. |
+| **1930–34** | **Civil Disobedience Movement (CDM)** | **Phase 1 (12 Mar 1930 – 5 Mar 1931)**: Inaugurated by historic **Dandi March** (12 Mar – 6 Apr 1930). Suspended via **Gandhi-Irwin Pact (5 Mar 1931)**. Attended **Second Round Table Conference** in London (Sep–Dec 1931) as sole INC representative. **Phase 2 (3 Jan 1932 – 17 Apr 1934)**: Resumed upon return; formally withdrawn April 1934. |
+| **1934–39** | **Retirement to Sevagram (Wardha)** | Resigned from primary membership of INC (1934); settled at **Sevagram Ashram** (Wardha, Maharashtra) focusing on rural development and *Nai Talim* (Basic Education, 1937). |
+| **1939** | **Resumption of Active Politics** | Re-entered political helm following Tripuri crisis and outbreak of World War II. |
+| **1940–41** | **Individual Satyagraha** | Launched symbolic Individual Satyagraha (**17 Oct 1940**); **Acharya Vinoba Bhave** was 1st Satyagrahi, **Jawaharlal Nehru** 2nd, Brahma Datt 3rd. |
+| **1942** | **Quit India Movement** | Launched historic movement at Gowalia Tank, Bombay (**8 August 1942**) with the immortal battle cry: **"Do or Die"**. Arrested on **9 August 1942** along with entire CWC. |
+| **1942–44** | **Detention at Aga Khan Palace (Pune)** | Detained at Aga Khan Palace (Aug 1942 – May 1944). Endured a **21-day fast** (Feb–Mar 1943). Suffered personal bereavement: death of secretary **Mahadev Desai** (15 Aug 1942) and wife **Kasturba Gandhi** (22 Feb 1944). **His final prison term**. Released on 6 May 1944 on health grounds. |
+| **1946** | **Peace Mission in Noakhali & Calcutta** | Distressed by communal carnage following Muslim League's 'Direct Action Day' (16 Aug 1946); walked barefoot through **Noakhali** (East Bengal) and stationed in **Calcutta** (Hyderi Manzil) to douse communal violence (*"One-Man Boundary Force"* - Mountbatten). |
+| **1947** | **Dawn of Independence** | Heartbroken by partition; observed complete fast and silence in Calcutta on **15 August 1947** rather than attending Delhi celebrations. Returned to Delhi in Sept 1947. |
+| **1948** | **Assassination (30 January 1948)** | Shot dead by **Nathuram Godse** while proceeding to evening prayer meeting at **Birla House, New Delhi**. Uttered final words: **"Hey Ram"**. |
+
+---
+
+### 4. Detailed Landmark Events of the Gandhian Era (1919–1941)
+#### A. Rowlatt Act & Satyagraha (1919)
+- Enacted in March 1919 under Viceroy **Lord Chelmsford** based on the Sedition Committee Report (1918) headed by **Sir Sidney Rowlatt**.
+- Officially named: *Anarchical and Revolutionary Crimes Act, 1919*.
+- Empowered colonial authorities to arrest and detain suspects for up to 2 years without trial (*"No Dalil, No Vakil, No Appeal"*).
+- Gandhi organized the **Satyagraha Sabha** and called for a nationwide strike / hartal on **April 6, 1919** (Gandhi arrested on April 8 at Palwal).
+
+#### B. Jallianwala Bagh Massacre (13 April 1919)
+- Trigger: Arrest of Punjab nationalist leaders **Dr. Saifuddin Kitchlew** and **Dr. Satyapal** on April 10, 1919 under the Rowlatt Act.
+- On Baisakhi Day (**April 13, 1919**), a large peaceful crowd of men, women, and children gathered at Jallianwala Bagh in Amritsar.
+- **Brigadier-General Reginald Dyer** sealed the only narrow exit and ordered indiscriminate firing without warning until ammunition was exhausted: hundreds dead, >1,200 wounded.
+- National Reactions:
+  - **Rabindranath Tagore** renounced his British **Knighthood**.
+  - **Sir C. Sankaran Nair** resigned from the Viceroy's Executive Council.
+  - **Mahatma Gandhi** returned the **Kaiser-i-Hind** gold medal.
+- Retribution: **Sardar Udham Singh** shot dead **Michael O'Dwyer** (Lieutenant Governor of Punjab during the massacre) at Caxton Hall, London on **13 March 1940**.
+
+#### C. Khilafat Movement (1920–1922)
+- Indian Muslims regarded the Sultan of Turkey as their spiritual leader (**Caliph / Khalifa**).
+- Defeat of the Ottoman Empire in WWI and harsh terms of the **Treaty of Sèvres (1920)** dismembering Turkey provoked deep outrage.
+- **All India Khilafat Committee** formed in 1919 by the **Ali Brothers (Maulana Mohammad Ali & Shaukat Ali)**, Maulana Abul Kalam Azad, and Hasrat Mohani.
+- Gandhi was elected President of the **All India Khilafat Conference** at Delhi (Nov 1919), viewing it as an unprecedented opportunity for Hindu-Muslim unity (*"an opportunity of uniting Hindus and Muslims which would not arise again in a hundred years"*).
+
+#### D. Non-Cooperation Movement (1920–1922)
+- Formally approved at the **Calcutta Special Session (Sep 1920)** and ratified at the **Nagpur Session (Dec 1920)** under C. Vijayaraghavachariar.
+- Goal: Attainment of **Swaraj** through peaceful and legitimate means.
+- Programme:
+  1. Surrender of titles and honorary ranks.
+  2. Resignation from nominated seats in local bodies.
+  3. Boycott of government darbars, schools, colleges, and law courts.
+  4. Boycott of foreign cloth and adoption of Charkha and Khadi.
+  5. Refusal of peasants and workers to serve in Mesopotamia/overseas.
+- Prominent lawyers who gave up lucrative legal practices: **Motilal Nehru, C.R. Das, C. Rajagopalachari, Saifuddin Kitchlew, Vallabhbhai Patel, Aruna Asaf Ali, Rajendra Prasad**.
+- Boycott of Royal Visit: The arrival of the **Prince of Wales** (17 Nov 1921) at Bombay was met with shuttered shops and deserted streets nationwide.
+- **Chauri Chaura Incident (5 February 1922)**:
+  - An agitated peasant mob in Chauri Chaura (Gorakhpur district, UP) attacked and burnt a police station, killing 22 policemen.
+  - Shocked by the outbreak of violence, Gandhi unilaterally called off the movement at the CWC meeting in **Bardoli on 12 February 1922**.
+  - Gandhi was subsequently arrested on 10 March 1922 and sentenced to 6 years imprisonment by Judge C.N. Broomfield.
+
+#### E. Swaraj Party (1923)
+- Withdrawal of NCM caused frustration. At the **Gaya Session (Dec 1922)**, a debate arose between:
+  - **No-Changers**: C. Rajagopalachari, Vallabhbhai Patel, Rajendra Prasad, M.A. Ansari (favoured continued boycott of councils and constructive rural work).
+  - **Pro-Changers / Swarajists**: Deshbandhu C.R. Das and Pandit Motilal Nehru (favoured council entry to *"wreck the reforms from within"*).
+- On **1 January 1923**, C.R. Das (President) and Motilal Nehru (Secretary) formed the **Congress-Khilafat Swaraj Party** (along with N.C. Kelkar).
+- In the 1923 elections under the 1919 Act:
+  - Captured **45 of 145 seats** in the Central Legislative Assembly.
+  - Won clear absolute majority in the **Central Provinces**; emerged as the largest single party in **Bengal**.
+  - Elected **Vithalbhai J. Patel** as the first Indian Speaker (President) of the Central Legislative Assembly in **1925**.
+- After the untimely death of C.R. Das in June 1925, the party weakened and suffered internal splits (Responsivists vs Non-Responsivists), breaking up by 1926.
+
+#### F. Simon Commission (1927) & Saunders Murder (1928)
+- Appointed in **November 1927** by the British Conservative Government (two years ahead of schedule) under **Sir John Simon** to review the working of dyarchy under GoI Act 1919.
+- Contained **all 7 British MPs (All-White Commission)**; no Indian member was included.
+- Indian political parties boycotted it unanimously. Arrived in Bombay on **3 February 1928** to black flags and chants of **"Simon Go Back"**.
+- At Lahore, **Lala Lajpat Rai** led a massive peaceful demonstration and was brutally assaulted by lathis ordered by ASP James A. Scott. Rai famously stated: *"Every blow on my body will prove a nail in the coffin of the British Empire."* He died on 17 Nov 1928.
+- Avenged by HSRA: **Bhagat Singh, Rajguru, and Chandrashekhar Azad** shot dead British police officer **J.P. Saunders** on 17 December 1928 in Lahore.
+
+#### G. Nehru Committee Report (1928) & 14 Points of Jinnah (1929)
+- In response to Secretary of State Lord Birkenhead's challenge to Indians to draft a constitution, an All-Parties Conference appointed a committee in 1928 under **Motilal Nehru** (chief architects: Motilal Nehru and Sir Tej Bahadur Sapru).
+- Key Recommendations:
+  - Dominion Status on lines of self-governing dominions.
+  - Rejection of separate electorates; proposed joint electorates with reservation of seats for minorities in proportion to population.
+  - Fundamental rights (19 rights including universal adult suffrage and equal rights for women).
+  - Responsible government at Centre and provinces.
+  - Residual powers to vest with the Centre.
+- Dissatisfaction & Jinnah's 14 Points:
+  - Younger leaders (Jawaharlal Nehru, Subhas Chandra Bose) rejected Dominion Status and formed the **Independence for India League (1928)**.
+  - **M.A. Jinnah** rejected the Nehru Report and formulated his **"Fourteen Points"** on **9 March 1929**, demanding 1/3rd Muslim representation in Central Legislature, separate electorates, and residuary powers to provinces.
+
+#### H. Lahore Session of INC (December 1929) & Poorna Swaraj
+- Held on the banks of River Ravi under the presidentship of **Jawaharlal Nehru**.
+- Passed the historic **Poorna Swaraj (Complete Independence)** resolution.
+- On midnight of **31 December 1929**, the newly adopted Indian Tricolour flag was unfurled on the banks of River Ravi.
+- Fixed **26 January 1930** as the **First Independence Day (Poorna Swaraj Day)** to be celebrated annually with a national pledge.
+
+#### I. Dandi March & Civil Disobedience Movement (1930–1934)
+- Gandhi submitted his **Eleven-Point Ultimatum** to Viceroy Lord Irwin (including salt tax abolition, 50% land revenue cut, 50% military expenditure reduction, tariff protection, release of political prisoners); Irwin ignored it.
+- **Dandi March**:
+  - Began on **12 March 1930** from **Sabarmati Ashram** with **78 chosen followers**.
+  - Covered **240 miles** in **24 days** across Gujarat to the coastal village of **Dandi** (Navsari district).
+  - On **6 April 1930**, Gandhi picked up a handful of salt from the seashore, inaugurating the **Civil Disobedience Movement**.
+- Key Features:
+  - Salt law broken across coasts (C. Rajagopalachari led Vedaranyam Salt March in Madras; K. Kelappan in Malabar).
+  - Massive participation of women, picketing of foreign cloth and liquor shops.
+  - Boycott of taxes (*Chaukidari tax* in Bihar and Bengal; forest laws defied in Central Provinces/Maharashtra).
+  - Garhwal Rifles soldiers under **Chandra Singh Garhwali** refused to fire on unarmed Pathan demonstrators at Peshawar (Khan Abdul Ghaffar Khan's *Khudai Khidmatgars* / Red Shirts).
+  - **Dharasana Salt Satyagraha**: Raid led by Sarojini Naidu, Imam Saheb, and Manilal Gandhi; brutal police assault documented worldwide by American journalist **Webb Miller**.
+  - Gandhi arrested on **5 May 1930**; over 100,000 satyagrahis jailed.
+
+#### J. Round Table Conferences & Pacts (1930–1932)
+- **First Round Table Conference (12 Nov 1930 – 19 Jan 1931)**:
+  - Held in London under British PM Ramsay MacDonald.
+  - Boycotted by INC. Attended by Muslim League, Hindu Mahasabha, Liberals (Sapru, Jayakar), and Princes. Inconclusive due to Congress absence.
+- **Gandhi-Irwin Pact / Delhi Pact (5 March 1931)**:
+  - Negotiated through mediation of Tej Bahadur Sapru and M.R. Jayakar.
+  - Government agreed to: release non-violent political prisoners, return confiscated lands, allow peaceful picketing, and permit coastal villagers to collect salt.
+  - Congress agreed to: suspend Civil Disobedience Movement and participate in the 2nd Round Table Conference.
+  - Jawaharlal Nehru commented bitterly: *"This is the way the world ends, / Not with a bang, but a whimper."*
+  - Ratified at the **Karachi Session of INC (March 1931)** under Vallabhbhai Patel (which also adopted the historic Resolutions on **Fundamental Rights** and the **National Economic Programme** drafted by Nehru).
+- **Second Round Table Conference (7 Sep – 1 Dec 1931)**:
+  - Held in London under Viceroy Lord Willingdon.
+  - Gandhi attended as the **sole representative of INC** (along with Sarojini Naidu, Madan Mohan Malaviya).
+  - Deadlocked over the communal question and separate electorates demanded by minority delegates and supported by PM Ramsay MacDonald. Ended in failure.
+- **Communal Award / MacDonald Award (16 August 1932)**:
+  - British PM **Ramsay MacDonald** announced the Communal Award granting separate electorates not only to Muslims, Sikhs, and Europeans, but also to the **Depressed Classes (Scheduled Castes)**.
+  - Gandhi (imprisoned in Yerawada Jail, Poona) viewed this as a calculated colonial conspiracy to permanently vivisect Hindu society and embarked on a **fast unto death on 20 September 1932**.
+- **Poona Pact / Gandhi-Ambedkar Pact (24 / 25 September 1932)**:
+  - Mediated by Madan Mohan Malaviya, C. Rajagopalachari, Dr. B.R. Ambedkar, and M.C. Rajah.
+  - **Separate electorates for Depressed Classes were abandoned**.
+  - Instead, **reserved seats in provincial legislatures** were increased from **71 (under Award) to 147**, and in the Central Legislature to **18% of total seats**, within a **joint electorate**.
+  - Signed by Dr. B.R. Ambedkar and Madan Mohan Malaviya on 24/25 September 1932; Gandhi broke his fast.
+- **Third Round Table Conference (17 Nov – 24 Dec 1932)**:
+  - Boycotted by INC; poorly attended (46 delegates); issued a White Paper in March 1933 which formed the basis of the Government of India Act, 1935.
+
+#### K. Government of India Act, 1935 & 1937 Elections
+- Enacted on **4 August 1935** based on the Simon Commission Report, RTC discussions, and Joint Select Committee recommendations.
+- Key Provisions:
+  1. Established **All-India Federation** (provinces and princely states; never came into effect as states refused to join).
+  2. Introduced **Provincial Autonomy**; abolished dyarchy in provinces.
+  3. Introduced **Dyarchy at the Centre** (Reserved subjects: defence, foreign affairs, ecclesiastical affairs; Transferred subjects: administered with Council of Ministers).
+  4. Established a **Federal Court** (1937), **Reserve Bank of India** (1935), and Federal Railway Authority.
+  5. Separated **Burma** from India and created two new provinces: **Sindh** and **Orissa**.
+- Nationalist Reaction: Unanimously rejected by Congress. J.L. Nehru termed it *"a machine with strong brakes, but no engine"* and *"a new charter of slavery"*.
+- **1937 Elections & Congress Ministries**:
+  - Congress contested elections in early 1937; formed ministries in **8 out of 11 provinces** (Madras, Bombay, Central Provinces, United Provinces, Bihar, Orissa, and later coalition in NWFP and Assam).
+  - Jinnah alleged discrimination, claiming *"Congress was drunk with power and oppressive against Muslims"*.
+- **Resignation of Congress Ministries (22 December 1939)**:
+  - On 3 September 1939, Britain declared war on Germany and Viceroy Lord Linlithgow declared India a belligerent country without consulting Indian leaders or provincial ministries.
+  - Congress demanded immediate independence as a prerequisite for war support. Linlithgow rejected this on 17 October 1939.
+  - In protest, all Congress provincial ministries **resigned on 22 December 1939**.
+  - M.A. Jinnah and the Muslim League celebrated this resignation day as the **"Day of Deliverance" (Yawm-e-Nijat)**.
+
+#### L. Pakistan Resolution & August Offer (1940)
+- **Pakistan Resolution / Lahore Resolution (24 March 1940)**:
+  - Evolution: In 1930, **Sir Muhammad Iqbal** (at Allahabad session of Muslim League) suggested the union of NWFP, Punjab, Sindh, and Baluchistan. In 1933/1935, Cambridge student **Chaudhry Rehmat Ali** coined the term **'Pakstan'** (*Punjab, Afghan province/NWFP, Kashmir, Sind, and BaluchisTAN*).
+  - At the **Lahore Session of Muslim League (24 March 1940)** presided by M.A. Jinnah, the historic Pakistan Resolution (drafted by Sikandar Hayat Khan, moved by Fazlul Huq, supported by Khaliquzzaman) was adopted, demanding independent sovereign states in the Muslim-majority zones of the North-Western and Eastern regions.
+- **August Offer / Linlithgow Offer (8 August 1940)**:
+  - Viceroy Linlithgow announced proposals to secure Indian cooperation in WWII:
+    1. Dominion Status as the ultimate objective of the British Government.
+    2. Expansion of Viceroy's Executive Council with more Indians.
+    3. Constitution-making body to be set up after the war, mainly composed of Indians.
+    4. **Minority Veto**: No constitutional future would be imposed without the consent of minorities.
+  - **Maulana Abul Kalam Azad** (Congress President) and Nehru rejected it (*"Dominion status concept is dead as a doornail"*). The Muslim League welcomed the minority veto but reiterated its demand for partition.
+
+#### M. Individual Satyagraha (October 1940 – December 1941)
+- Launched by Gandhi on **17 October 1940** from Pavnar Ashram to affirm the right to free speech against the war without hampering Allied war efforts.
+- Satyagrahis gave anti-war speeches (*"It is wrong to help the British war effort with men or money"*) and courted arrest; also known as the **"Delhi Chalo Satyagraha"**.
+- **First Satyagrahi**: **Acharya Vinoba Bhave** (arrested 21 Oct 1940).
+- **Second Satyagrahi**: **Pandit Jawaharlal Nehru**.
+- **Third Satyagrahi**: **Brahma Datt**.
+- Over 25,000 satyagrahis courted arrest before the movement was suspended in December 1941 as the war reached India's borders.

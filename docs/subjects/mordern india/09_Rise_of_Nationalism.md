@@ -8353,3 +8353,87 @@ it came into existence on 1 April, 1912 A.D. In 1936 A.D.,
 Bihar became a separate province.
 
 </details>
+
+
+---
+
+## Lucent GK Complete Comprehensive Reference & Direct Gap-Fill: Moderate Phase & Indian National Congress (1885–1905)
+
+### 1. Pre-Congress Political Organisations (Complete Chronology & Founders)
+| S.No. | Organisation | Place | Year | Founder(s) | Notes / Specific Significance |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | **Landholders Society** (Zamindari Association) | Calcutta | 1837 (or 1838) | **Dwarka Nath Tagore** | First political organization in modern India to safeguard landlord interests |
+| 2 | **British India Society** | London | 1839 | **William Adam** | Formed to inform British public of Indian conditions |
+| 3 | **British India Association** | Calcutta | 1851 | **Devendra Nath Tagore** | Result of the merger of Landholders Society and British India Society (Radhakant Deb President, Devendranath Tagore Secretary) |
+| 4 | **Madras Native Association** | Madras | 1852 | **C.Y. Mudaliar** (Gazulu Lakshminarasu Chetty) | First political association in Madras Presidency |
+| 5 | **Bombay Association** | Bombay | 1852 | **Jagannath Shanker Sheth** (with Naoroji) | First political association in Bombay Presidency |
+| 6 | **East India Association** | London | 1866 | **Dadabhai Naoroji** | Advocated Indian grievances before British Parliament and public |
+| 7 | **Poona Sarvajanik Sabha** | Poona | 1870 | **S.H. Chiplunkar, G.V. Joshi, M.G. Ranade** | Acted as a bridge between the Government and the people; petitioned House of Commons (1875) |
+| 8 | **Indian Society** | London | 1872 | **Anand Mohan Bose** | Fostered spirit of nationalism among Indian students in the UK |
+| 9 | **Indian League** | Calcutta | 1875 | **Shishir Kumar Ghosh** | Aimed to stimulate sense of nationalism among people |
+| 10 | **Indian Association** | Calcutta | 1876 | **Surendra Nath Bannerji & Anand Mohan Bose** | Foremost pre-Congress body; rallied against ICS age limit reduction & Vernacular Press Act |
+| 11 | **India National Conference** | Calcutta | 1883 | **Surendra Nath Bannerji & Anand Mohan Bose** | First all-India national conference; held 2nd session in Dec 1885 (reason SN Banerjee missed 1st INC session) |
+| 12 | **Madras Mahajan Sabha** | Madras | 1884 | **P. Rangia Naydu, V. Raghavachari, Anand Charlu, G.S. Aiyer** | Coordinated political activities across South India |
+| 13 | **Bombay Presidency Association** | Bombay | 1885 | **Ferozshah Mehta, K.T. Telang, Badruddin Tyabji** | Formed in reaction to reactionary policies of Lytton and Ilbert Bill controversy |
+
+---
+
+### 2. Foundation and Early Phase of Indian National Congress (I.N.C., 1885)
+- **Origin & Indian National Union**:
+  - In **1884**, **Allan Octavian Hume** (A.O. Hume, retired British civil servant) formed the **Indian National Union** in consultation with Indian leaders.
+  - Hume convened a conference of delegates from all over India in **Pune** in December 1885.
+  - **Venue Shift**: Due to a sudden outbreak of **cholera** in Pune, the venue was shifted to **Bombay**.
+  - **Renaming**: On the recommendation of **Dadabhai Naoroji**, the body was renamed as the **Indian National Congress (INC)**.
+- **First Session (1885)**:
+  - **Date**: December 28–31, 1885.
+  - **Place**: **Gokuldas Tejpal Sanskrit College, Bombay**.
+  - **President**: **W.C. Bannerji** (Womesh Chandra Bonnerjee), a veteran lawyer of Calcutta.
+  - **Attendance**: Attended by **72 delegates** from across India (38 from Bombay, 21 from Madras, 3 from Bengal, 7 from UP/Oudh, 3 from Punjab).
+- **Early Evolution**:
+  - From 1885 onwards, the INC met annually in the last week of December, expanding rapidly among middle-class educated Indians.
+  - Launched in a small, cautious, and mild manner with faith in constitutional methods.
+- **The Moderate Era (1885–1905)**:
+  - Characterized by moderate demands, belief in British sense of justice and fair play, and reliance on **3Ps** (Petitions, Prayers, Protests).
+  - Avoided open confrontation lest the British suppress the nascent movement.
+  - **Key Legislative Achievement**: The **Indian Councils Act of 1892**, which enlarged legislative councils and introduced indirect election for some non-official seats, while maintaining an official majority.
+
+---
+
+### 3. Complete Roll of Moderate Leaders (Lucent Roster)
+1. **Dadabhai Naoroji** (Grand Old Man of India)
+2. **A.O. Hume** (General Secretary / Father of INC)
+3. **Badruddin Tyabji** (First Muslim INC President, 1887 Madras)
+4. **M.G. Ranade** (Social conference pioneer, mentor to Gokhale)
+5. **W.C. Bannerji** (First INC President, 1885 Bombay)
+6. **Pherozeshah Mehta** (Lion of Bombay)
+7. **Surendranath Banerjee** (Rashtraguru, Indian Association founder)
+8. **C. Shankaran Nair** (Presided 1897 Amravati session)
+9. **Madan Mohan Malaviya**
+10. **V.S. Srinivasa Sastri**
+11. **Tej Bahadur Sapru**
+12. **Gopal Krishna Gokhale** (Political guru of Gandhi; founded Servants of India Society 1905)
+13. **Ananda Mohan Bose** (Presided 1898 Madras session)
+14. **Dinshaw Edulji Wacha** (Presided 1901 Calcutta session)
+15. **Rash Behari Ghosh** (Presided 1907 Surat & 1908 Madras sessions)
+16. **Monomohun Ghose** / **Mohan Lal Ghosh**
+17. **P. Ananda Charlu** (Presided 1891 Nagpur session)
+18. **C.Y. Chintamani** (Eminent journalist & liberal)
+19. **R.C. Dutt** (Romesh Chunder Dutt, author of *Economic History of India*, presided 1899 Lucknow session)
+20. **S. Subramanya Aiyer**
+21. **K.T. Telang**
+22. **Madhusudan Das** (Grand Old Man of Odisha)
+23. **Rahimtulla M. Sayani** (Presided 1896 Calcutta session where *Vande Mataram* was first sung)
+
+---
+
+### 4. Select Famous Historical Opinions & Critiques on INC
+| Speaker / Observer | Designation / Role | Exact Famous Quote / Opinion on INC |
+| :--- | :--- | :--- |
+| **Lord Dufferin** | Viceroy of India (1884–88) | *"INC represents only a microscopic minorities."* |
+| **Lord Curzon** | Viceroy of India (1899–1905) | *"The Congress is tottering to its fall, and one of my great ambitions, while in India, is to assist it to a peaceful demise."* |
+| **Aurobindo Ghosh** | Extremist Leader / Revolutionary | *"INC is a begging institute."* (also wrote *New Lamps for Old*) |
+| **Bal Gangadhar Tilak** | Extremist Leader (*Lokmanya*) | *"INC should distinguish between begging and claiming the rights."* / *"Our motto is self-reliance, not mendicancy."* |
+| **Bipin Chandra Pal** | Extremist Leader (Lal-Bal-Pal trio) | *"INC playing with bubbles."* |
+| **Bankim Chandra Chatterjee** | Author of *Anandamath* | *"Congress leaders are people who are after posts / offices."* |
+| **Ashwini Kumar Dutta** | Swadesh Bandhav Samiti founder | Termed Congress annual sessions as a *"Three-day tamasha (annual three-day show)"*. |
+| **Bipin Chandra Pal** | Extremist Leader | Characterized the Moderate technique of petitions and prayers as *"Political Mendicancy"*. |

@@ -548,6 +548,100 @@ The Shishunagas take Magadha after the Haryanka weak tail. Their territorial pri
 | **Earliest Coins** | **Aahat / Punch-marked coins** were made of **silver** (circulated 7th–6th c. BCE through Mauryan period) | Not gold or lead; stamped with symbols |
 | **Karnata Dynasty (Mithila)** | Founded by **Nanyadeva** (1097 CE); capital **Simraon**; Golden Age of Mithila; last ruler **Harisimha Deva** | Harisimha Deva founded the famous **Panji system** of genealogical records |
 
+
+
+---
+
+## 5.12 Lucent GK Complete Comprehensive Reference & Direct Gap-Fill
+
+> **Note for Aspirants:** Every single fact, classification, military weapon, matrimonial alliance, and king list from Lucent's General Knowledge (Section 3.1: Mahajanapada Period & Rise of Magadha) is compiled below. You will never need to consult Lucent GK separately for this era.
+
+### 1. The 16 Mahajanapadas — Full Classification & Dual Capitals
+- **Literary Sources:** Recorded with minor variations in:
+  - **Buddhist Literature:** *Anguttara Nikaya* and *Mahavastu*.
+  - **Jain Literature:** *Bhagavati Sutta (Bhagavati Sutra)*.
+- **Two Forms of Government:**
+  - **Monarchical States (10):** Anga, Magadha, Kashi, Kosala, Vatsa, Chedi, Shurasena, Matsya, Avanti, and Gandhara.
+  - **Republican States / Gana-Sanghas:** Vajji, Malla, Kuru, Panchala, Kamboja, **Shakya (Kapilvastu)**, **Koliyas (Ramgrama)**, and **Moriya (Pipplivana)**.
+- **Master Table of All 16 Mahajanapadas (Lucent Details):**
+  | No. | Mahajanapada | Modern Area | Capital |
+  | :--- | :--- | :--- | :--- |
+  | 1 | **Anga** | Districts of Munger & Bhagalpur in Bihar | **Champa / Champanagari** |
+  | 2 | **Magadha** | Districts of Patna, Gaya & Nalanda in Bihar | **Girivraj / Rajgriha / Rajgir** (Bimbisara), **Patliputra** (Udayin), **Vaishali** (Shishunaga), **Patliputra** (Kalashoka) |
+  | 3 | **Vajji** | Districts of Muzaffarpur & Vaishali in Bihar | **Videha, Mithila, Vaishali** |
+  | 4 | **Malla** | Districts of Deoria, Basti, Gorakhpur & Siddharthnagar in U.P. | **Kushinara and Pawa** |
+  | 5 | **Kashi** | District of Varanasi in U.P. | **Varanasi** |
+  | 6 | **Kosala** | Districts of Faizabad, Gonda, Bahraich in U.P. | **North Kosala:** Sravasti / Sahet-Mahet; **South Kosala:** Saket / Ayodhya |
+  | 7 | **Vatsa** | Districts of Allahabad, Mirzapur etc. in U.P. | **Kaushambi** |
+  | 8 | **Chedi** | Bundelkhand area | **Shaktimati / Sotthivati** |
+  | 9 | **Kuru** | Haryana and Delhi area | **Indraprastha** (modern Delhi) |
+  | 10 | **Panchala** | Ruhelkhand, Western U.P. | **North Panchala:** Ahichchhatra; **South Panchala:** Kampilya |
+  | 11 | **Shurasena** | Brajmandal, Western U.P. | **Mathura** |
+  | 12 | **Matsya** | Alwar, Bharatpur and Jaipur in Rajasthan | **Viratnagar** |
+  | 13 | **Avanti** | Malwa region | **North Avanti:** Ujjayini; **South Avanti:** Mahishmati |
+  | 14 | **Ashmaka (Assaka)** | Between the rivers Narmada and Godavari (Southernmost) | **Potana / Patali / Potali** |
+  | 15 | **Gandhara** | Western part of Pakistan & Afghanistan | **Taxila** (near Rawalpindi) and **Pushkalavati** |
+  | 16 | **Kamboja** | Hazara district of Pakistan | **Rajapur / Hataka** |
+
+---
+
+### 2. Rise of Magadha & Causes of Success
+- **Four-Power Contest:** The political history from 6th century BC onwards is the struggle among four principal states for supremacy: **Magadha, Kosala, Vatsa, and Avanti**. Magadha emerged victorious and founded an all-India empire.
+- **Three Determinant Causes of Magadha's Success:**
+  1. **Advantageous Geographical Position in the Iron Age:** Richest iron ore deposits were located near Rajgir (earliest capital) and were exploited to forge superior military weapons and agricultural tools.
+  2. **Fertile Soil & Food Surplus:** Magadha lay at the centre of the middle Gangetic plain; clearing dense forests revealed exceptionally fertile alluvium yielding heavy agricultural surplus.
+  3. **Military Superiority & Elephant Corps:** Unlike western states which relied primarily on horses and chariots, Magadha was the **first to use elephants on a large scale** in warfare against its rivals.
+
+---
+
+### 3. Haryanka Dynasty (544 BC – 412 BC)
+- **Bimbisara (Shronika / Seniya: 544 BC – 492 BC):**
+  - Founder of Haryanka dynasty; brought Magadha into prominence. Contemporary of Gautama Buddha.
+  - Title **Seniya:** He was the **first Indian king who maintained a regular and standing army**.
+  - Built the city of **New Rajagriha**.
+  - **Matrimonial Expansion Policy:**
+    - Married **Kosaldevi / Mahakosala** (sister of Kosala King Prasenjit) — received a village in **Kashi as dowry** (yielding 1 lakh revenue).
+    - Married **Chellana** (Lichchhavi princess, sister of Lichchhavi head Chetaka of Vaishali).
+    - Married **Khema** (daughter of the King of Madra in central Punjab).
+  - Conquered **Anga** and placed his son Ajatashatru as viceroy at Champa.
+  - Sent his personal royal physician **Jivaka** to Ujjain when Avanti king **Chanda Pradyota** was afflicted with jaundice.
+- **Ajatashatru (Kunika: 492 BC – 460 BC):**
+  - Seized throne by killing his father Bimbisara.
+  - Aggressive expansionist; broke peaceful ties with Kosala, fought maternal uncle Prasenjit, and annexed complete control over Kashi.
+  - **16-Year War with Vajji Confederacy:** Tradition records that he defeated the powerful Vajji clan through three decisive elements:
+    1. **Sunidha and Vatsakar:** Ajatashatru's diplomatic ministers who infiltrated Vaishali and sowed seeds of internal dissension and discord among the Vajjis.
+    2. **Rathamusala:** A formidable war-chariot fitted with a rotating mace/blades.
+    3. **Mahashilakantaka:** A heavy catapult war-engine that hurled massive boulders.
+  - Built the **fort of Rajagriha** and constructed a military watch-fort (**Jaladurga**) at the village of **Patali** on the Ganges.
+- **Udayin (460 BC – 440 BC):**
+  - Laid the foundations of the imperial city of **Pataliputra** at the confluence of the **Ganges and Son** rivers and shifted the capital permanently from Rajagriha to Pataliputra.
+  - Succeeded by three weak, parricidal kings: **Anuruddha, Munda, and Naga-Dasak**.
+
+---
+
+### 4. Shisunaga Dynasty (412 BC – 344 BC)
+- **Shisunaga (412 BC – 394 BC):** The people of Magadha, disgusted with parricide rulers, deposed Naga-Dasak and elected his capable minister **Shisunaga** as king.
+- **Destruction of Avanti:** Shisunaga's greatest achievement was the complete destruction of the **Pradyota dynasty of Avanti**, ending the **100-year-old rivalry** between Magadha and Avanti; Avanti became an integral part of Magadha.
+- **Kalashoka (Kakavarna: 394 BC – 366 BC):**
+  - Succeeded Shisunaga; shifted capital back to Pataliputra.
+  - Convened the **Second Buddhist Council at Vaishali in 383 BC**.
+
+---
+
+### 5. Nanda Dynasty (344 BC – 323 BC)
+- **Mahapadma Nanda:**
+  - Overthrew the Shisunagas and established the first non-Kshatriya dynasty (Nandas).
+  - Imperial Titles:
+    - **Sarvakshatrantak:** *"Uprooter of all the Kshatriyas"* (Puranas).
+    - **Ugrasena:** *"Owner of a huge, formidable army"* (Pali texts).
+    - **Ekrat:** *"The sole sovereign monarch"* (Puranas).
+  - Celebrated as **"the first empire builder of Indian history"**.
+- **Dhanananda (Last Nanda Ruler):**
+  - Identified with **Agrammes** or **Xandrames** in classical Greek texts.
+  - Commanded a colossal standing army recorded by Greek historian **Curtius**: **20,000 cavalry, 200,000 infantry, 2,000 chariots, and 3,000 elephants**.
+  - It was the awe-inspiring military might of Dhanananda that terrorised Alexander's soldiers and forced them to mutiny and turn back at the Beas.
+  - Overthrown in **322–321 BC** by Chandragupta Maurya with Chanakya's counsel.
+
 ## UP Focus
 
 | Mahajanapada | Capital / district fact |

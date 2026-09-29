@@ -9741,3 +9741,373 @@ D. Neither 1 nor 2
 22. **Mir Baqi** (Babur's commandant) built the **Babri Masjid** — state as a single careful fact.
 23. Court death order: **Mubarak 1593** → **Faizi 1595** → **Abul Fazl 1602** → **Daniyal 1605**.
 24. Shah Jahan’s **Balkh (1646–47)** failed; do not confuse it with Aurangzeb’s successful **Bijapur / Golkonda** annexations.
+
+
+---
+
+## Lucent GK Complete Comprehensive Reference & Direct Gap-Fill: Mughal Period (1526–1540 and 1555–1857 AD)
+
+### 1. Babur (1526–1530 AD)
+- **Lineage & Origin:** Founded the Mughal rule in India in 1526 AD. Traced lineage to **Amir Timur** on his father's side (5th generation) and to Mongol conqueror **Chengiz Khan** on his mother's side (14th generation).
+- **Four Historic Battles:**
+  1. **First Battle of Panipat (21 April 1526 AD):** Decisively defeated Sultan Ibrahim Lodhi; marked the fall of the Delhi Sultanate and foundation of the Mughal Dynasty.
+  2. **Battle of Khanwa (1527 AD):** Defeated the formidable Rajput confederacy led by **Rana Sanga of Mewar**; proclaimed *Jihad* and assumed the title *Ghazi*.
+  3. **Battle of Chanderi (1528 AD):** Defeated Rajput ruler **Medini Rai of Chanderi**.
+  4. **Battle of Ghaghra (1529 AD):** Defeated the allied Afghan forces under **Muhammad Lodhi** (uncle of Ibrahim Lodhi) and Nusrat Shah of Bengal.
+- **Death & Mausoleum:** Died in **1530 AD** at Agra; originally laid at Aram Bagh (Agra), later his mortal remains were transferred to his beloved garden at **Kabul (Afghanistan)**.
+- **Tactical Innovations:** First to introduce **gunpowder and artillery** on a massive scale in Indian warfare; deployed the Ottoman tactical formation — the ***Tulghuma*** (flanking party) and ***Araba*** (wagon carts tied with leather rawhide).
+- **Literary Works:**
+  - Composed his candid autobiography, ***Tuzuk-i-Baburi***, in pure **Chagatai Turki**. Translated into Persian (named ***Baburnama***) by **Abdur Rahim Khan-i-Khanan** and into English by **Mrs. A. S. Beveridge**.
+  - Compiled two celebrated anthologies of poetry: ***Diwan*** (in Turki) and ***Mubaiyan*** (in Persian).
+  - Authored ***Risal-i-Usaz*** (popularly known as the *Letters / Insha of Babur*).
+
+---
+
+### 2. Humayun (1530–1540 and 1555–1556 AD)
+- **Accession & Fraternal Division:** Son of Babur; ascended the throne in 1530 AD. Faced severe dynastic challenges from his three brothers (**Kamran, Hindal, and Askari**) and resurrected Afghan confederacies.
+- **Clash with Sher Shah Suri:** Fought two decisive pitched battles:
+  1. **Battle of Chausa (1539 AD):** Completely routed by Sher Shah on the banks of the Ganga; escaped drowning on a water-carrier's skin bag (*Mashak*).
+  2. **Battle of Kannauj / Bilgram (1540 AD):** Decisively defeated by Sher Shah; lost the Mughal throne and fled into exile.
+- **Exile & Restoration:** Passed **12 years of his life in exile in Persia (Safavid court of Shah Tahmasp)**. Following the disintegration of the Sur Empire after Sher Shah's death, Humayun invaded India in **1555 AD**, defeated the Afghan factions at Macchiwara and Sirhind, and reoccupied Delhi and Agra.
+- **Death (1556 AD):** Slipped and fell down the steep stone stairs of his royal library building at **Din Panah (Sher Mandal, Delhi)** in January 1556 AD. Buried in the magnificent **Humayun's Tomb** at Delhi (built by his senior widow Bega Begum / Haji Begum, designed by Mirak Mirza Ghiyas).
+- **Biography & Capital:** His devoted sister **Gulbadan Begum** authored his official biography, ***Humayunama***. He founded the fortress-city of **Din Panah** at Delhi as his second capital.
+
+---
+
+### 3. Sur Empire (Second Afghan Empire: 1540–1555 AD) — Sher Shah Suri (1540–1545 AD)
+- **Early Career:** Born as Farid Khan, son of Hasan Khan (the Jagirdar of **Sasaram**, Bihar). Ibrahim Lodhi confirmed his father's jagir to him.
+- **Rise to Power:** Joined Babur's service in 1527–28; appointed deputy governor and guardian to the minor ruler Jalal Khan Lohani (son of Bahar Khan Lohani) in South Bihar. Usurped de facto authority under the title ***Hazrat-i-Ala***. Gained the strategic fortress of **Chunar** through marriage with **Lad Malika** (widow of Taj Khan, governor of Chunar Fort).
+- **Imperial Coronations:** Defeated Humayun at Chausa (1539 AD) and assumed the imperial title of **Sher Shah**; expelled Humayun at Kannauj (1540 AD) and occupied Delhi.
+- **Military Conquests:** Conquered Malwa (1542), Ranthambhor (1542), Raisen (1543), Marwar / Rajputana (1542–1544, Battle of Giri-Sumel vs Rao Maldeo), Chittor (1544), and Kalinjar (1545). Died in **May 1545 AD** from an accidental gunpowder explosion during the siege of **Kalinjar**.
+- **Administrative Hierarchy of the Sur Empire:**
+  | Administrative Unit | Modern Equivalent | Presiding Executive Officials |
+  | :--- | :--- | :--- |
+  | **Iqta / Subah** | Province | **Hakim** and **Amin** |
+  | **Sarkar** | District | **Shiqdar-i-Shiqdaran** (law & order) and **Munsif-i-Munsifan** (civil justice) |
+  | **Pargana** | Sub-District / Taluka | **Shiqdar** (police) and **Munsif** (revenue assessment) |
+  | **Gram** | Village (lowest unit) | **Muqaddam** (headman) and **Amil / Patwari** (revenue accountant) |
+- **Reforms, Currency & Public Works:**
+  - Introduced the standard silver coin called the ***Rupia*** (178 grains) and copper coin ***Dam***; fixed imperial standard weights and measures.
+  - Constructed the magnificent **Grand Trunk Road (GT Road / *Sadak-i-Azam*)**, extending from **Calcutta (Sonargaon) to Peshawar**, lined with shade trees and well-guarded *Sarais* at every 2 kos.
+  - Established permanent military cantonments with strong garrisons throughout the empire.
+  - Imposed the stern **principle of local collective responsibility for local crimes**: village headmen (*Muqaddams*) were held personally liable and punished for unrecovered thefts and murders.
+  - Land revenue: Surveyed all arable land; fixed the standard state demand at **1/3rd of the average produce**. Granted peasants a formal title deed (***Patta***) and took a signed deed of acceptance (***Qabuliyat***) specifying tax obligations. Suppressed oppressive intermediaries and collected revenues directly.
+  - Constructed **Purana Qila** (Old Fort) at Delhi (housing the *Qila-i-Kuhna Masjid*).
+  - Entombed in a magnificent octagonal red sandstone mausoleum set within an artificial lake at **Sasaram (Bihar)**.
+- **Successors:** Succeeded by his son **Islam Shah (1545–1554 AD)**, and later **Muhammad Adil Shah (1554–1555 AD)** whose prime minister Hemu was defeated at Second Panipat.
+
+---
+
+### 4. Akbar (1556–1605 AD)
+- **Accession & Regency:** Eldest son of Humayun; crowned at **Kalanaur (Gurdaspur, Punjab)** on 14 February 1556 at the age of 14 under the title ***Jalaluddin Muhammad Akbar Badshah Ghazi***. His tutor, the capable general **Bairam Khan**, was appointed Regent (*Wakil-us-Sultanat* with title *Khan-i-Khanan*).
+- **Second Battle of Panipat (5 November 1556 AD):** Fought between **Hemu** (the valiant Hindu general and Prime Minister of Muhammad Adil Shah Sur, who had taken the title *Vikramaditya*) and the Mughal army led by **Bairam Khan**. Hemu was struck in the eye by a stray arrow, captured, and executed. The battle permanently ended the Afghan challenge and restored Delhi and Agra to Akbar.
+- **End of Regency & Petticoat Government:** Akbar dismissed Bairam Khan in 1560 AD; from **1560 to 1562 AD**, Akbar's court was influenced by his foster-mother **Maham Anaga** and her son Adham Khan (historically termed the *"Petticoat Government"*). At age 18, Akbar assumed absolute personal control.
+- **Rajput Policy & Matrimonial Alliances:** In **1562 AD**, Akbar married **Harkha Bai** (popularly called Jodha Bai), daughter of Raja Bharmal / Biharimal of Amer (Jaipur), establishing a lasting alliance with the Kachhwaha Rajputs. Most Rajput houses entered imperial service except the Sisodiyas of Mewar under **Rana Uday Singh** (1537–1572 AD) and his heroic son **Maharana Pratap** (1572–1597 AD).
+- **Battle of Haldighati (18 June 1576 AD):** Fought between Maharana Pratap of Mewar and the imperial Mughal army commanded by **Kunwar Man Singh of Amer** and Asaf Khan. Rana Pratap retreated to the hills but never surrendered.
+
+#### Master Table: Chronology of Akbar's Imperial Conquests (1560–1601 AD)
+
+| Year | Conquered Province / State | Defeated Adversary / Opposing Ruler | Historical Significance |
+| :--- | :--- | :--- | :--- |
+| **1560–62** | **Malwa** | Baz Bahadur | Annexation of central plateau; Baz Bahadur later joined court |
+| **1561** | **Chunar** | Afghan chieftains | Fortress secured eastern Ganga corridor |
+| **1562** | **Merta** | Jaimal Rathore | Fortress in Marwar brought into imperial fold |
+| **1564** | **Gondwana (Garha Katanga)** | Rani Durgawati (regent of minor Bir Narayan) | Heroic resistance of Rani Durgawati in central highlands |
+| **1568** | **Chittor** | Rana Uday Singh (defended by Jaimal & Patta) | Fall of premier Rajput fort; Jaimal & Patta statues erected at Agra |
+| **1569** | **Ranthambhor** | Surjan Hada | Impregnable fortress surrendered to imperial forces |
+| **1569** | **Kalinjar** | Ram Chandra (Baghel king of Rewa) | Historic fortress surrendered peacefully |
+| **1570** | **Marwar** | Chandrasen, Kalyanmal, Raj Singh, Rawal Harirai | Nagaur Darbar; major Rajput chiefs acknowledged suzerainty |
+| **1572** | **Gujarat** | Muzaffar Shah III / Bahadur Shah faction | Opened maritime trade; Buland Darwaza built to celebrate victory |
+| **1574–76** | **Bengal & Bihar** | Daud Khan Karrani | Decisive Battle of Tukaroi / Rajmahal; Afghan rule crushed |
+| **1576** | **Haldighati (Mewar)** | Maharana Pratap Singh | Decisive battle; Pratap continued guerrilla warfare in Aravallis |
+| **1581** | **Kabul** | Mirza Muhammad Hakim (Akbar's half-brother) | Quelled fraternal rebellion; secured northwest frontier |
+| **1585–86** | **Kashmir** | Yusuf Khan and Yakub Khan | Annexed beautiful Himalayan kingdom into Lahore Subah |
+| **1590–91** | **Sindh** | Jani Beg Mirza (Tarkhan ruler) | Entire lower Indus valley annexed |
+| **1590–92** | **Orissa** | Qutlu Khan Lohani and Nisar Khan | Subdued coastal eastern kingdom |
+| **1591** | **Khandesh** | Raja Ali Khan | Accepted peaceful Mughal suzerainty in northern Deccan |
+| **1595** | **Baluchistan** | Afghan tribal chieftains | Northwest tribal frontier consolidated |
+| **1595** | **Kandahar (Afghanistan)** | Muzaffar Husain Mirza (Persian Safavid governor) | Strategic gateway surrendered to Mughals without bloodshed |
+| **1597–1600** | **Ahmadnagar** | Chand Bibi (regent of minor Bahadur Nizam Shah) | Heroic defence by Chand Bibi; city captured after her assassination |
+| **1601** | **Asirgarh** | Miran Bahadur Khan | **Akbar's final military conquest**; fortress opened with golden keys |
+
+#### Religious Policy, Din-i-Ilahi & Landmark Years
+- **Din-i-Ilahi (1582 AD):** Proclaimed as ***Tauhid-i-Ilahi*** ("Divine Monotheism"), synthesizing the highest ethical truths of Hinduism, Islam, Jainism, and Christianity; discarded priesthood, scriptures, and prophets; based on pure rational ethics (*Sulh-i-Kul* — universal peace and tolerance). **Raja Birbal was the only Hindu who formally joined**. Never imposed; died out after Akbar.
+- **Architecture:** Founded the magnificent red sandstone capital of **Fatehpur Sikri**, **Agra Fort**, **Lahore Fort**, **Allahabad Fort**, and designed **Humayun's Tomb**. Shifted his court to Fatehpur Sikri in deep veneration of the Chishti Sufi saint **Sheikh Salim Chishti**, who had blessed Akbar with his heir Prince Salim (Jahangir).
+- **The Navaratnas (Nine Jewels of Akbar's Court):**
+  1. **Raja Birbal (Mahesh Das):** Chief companion, wit, and administrator; died fighting the Yusufzai tribes in the northwest frontier (1586 AD).
+  2. **Abul Fazl:** Chief counsellor, historian, and ideologue; authored ***Akbarnama*** and ***Ain-i-Akbari***; murdered in 1601 AD at the instigation of Prince Salim by **Bir Singh Bundela**.
+  3. **Faizi:** Brother of Abul Fazl; court poet laureate; translated Bhaskaracharya's mathematical treatise *Lilavati* into Persian.
+  4. **Raja Todarmal:** Brilliant Finance Minister; pioneered the ***Dahsala Bandobast*** (1580 AD) and standardized land measurement (*Zabti* system).
+  5. **Raja Bhagwandas:** Trusted Kachhwaha noble and general, son of Raja Bharmal.
+  6. **Kunwar / Raja Man Singh:** Grandson of Bharmal; premier military general of the empire (victor of Haldighati, Bengal, and Orissa).
+  7. **Tansen (Ramtanu Pandey):** Supreme musical genius; master of Dhrupad; converted to Islam; honoured by Akbar with the title *Mian*.
+  8. **Abdur Rahim Khan-i-Khanan:** Son of Bairam Khan; brilliant statesman, military general, and celebrated Hindi poet; translated *Baburnama* into Persian.
+  9. **Mulla Do Pyaza:** Celebrated court scholar and advisor.
+- **Other Luminaries:** Saint-poet **Goswami Tulsidas** (*Ramcharitamanas*) was an illustrious contemporary who lived during Akbar's era.
+- **Burial:** Akbar died in **1605 AD** and was buried in an open-air tier mausoleum at **Sikandra** near Agra.
+- **Historical Legacy:** Acclaimed as the **"real founder and organizer of the Mughal Empire in India"**; first Muslim sovereign who divorced religion from imperial politics; unified the administration and declared **Persian** as the sole official language of the state.
+
+#### Master Table: Milestone Chronological Years of Akbar's Reign
+
+| Year | Landmark Event / Imperial Reform |
+| :--- | :--- |
+| **1562** | First pilgrimage visit to Ajmer Dargah; imperial ban on the forcible enslavement of war prisoners and their families |
+| **1563** | Complete abolition of the discriminatory **Pilgrimage Tax** on Hindu pilgrims |
+| **1564** | Complete abolition of the **Jaziya** tax across the Mughal Empire |
+| **1571** | Foundation and construction of the new capital city of **Fatehpur Sikri** |
+| **1574** | Formal introduction and institutionalization of the **Mansabdari System** and *Dagh/Chehra* |
+| **1575** | Construction of the **Ibadatkhana** (House of Worship) at Fatehpur Sikri for theological discussions |
+| **1578** | Threw open the Ibadatkhana to all religions (Hindus, Jains, Christians, Zoroastrians) — Parliament of Religions |
+| **1579** | Promulgation of the **Infallibility Decree (***Mahzar***)**, drafted by Sheikh Mubarak and Faizi, making Akbar supreme arbiter |
+| **1580** | Introduction of the landmark ten-year revenue settlement — the **Dahsala Bandobast** (Todarmal's settlement) |
+| **1582** | Proclamation of the syncretic ethical-spiritual order **Din-i-Ilahi (Tauhid-i-Ilahi)** |
+| **1584** | Introduction of the solar **Ilahi Samvat** (Ilahi Calendar) |
+| **1587** | Introduction of the standardized measuring rod — the **Ilahi Gaz** (41 digits / 33 inches) |
+
+---
+
+### 5. Jahangir (1605–1627 AD)
+- **Accession & Justice:** Prince Salim ascended the throne in 1605 AD under the title *Nuruddin Muhammad Jahangir Badshah Ghazi*; immediately promulgated **12 Imperial Ordinances**. Renowned for strict impartial justice: installed the famous golden **Chain of Justice (***Zanjir-i-Adl***)** with 60 bells connected from the Shah Burj of Agra Fort to a stone pillar on the banks of the Yamuna.
+- **Nur Jahan & Court Influence:** In **1611 AD**, married **Mehr-un-Nisa** (widow of Persian noble Sher Afghan); conferred on her the title **Nur Jahan** ("Light of the World") and made her the official *Padshah Begum*. Nur Jahan formed the powerful court faction (*Nur Jahan Junta*) and exercised immense power; **coins were issued jointly bearing the names of Jahangir and Nur Jahan**.
+- **European Contacts:**
+  - **1608 AD:** **Captain William Hawkins**, representative of the English East India Company, arrived at court carrying letters from King James I; Jahangir granted him a Mansab of 400 and the title *English Khan*.
+  - **1615 AD:** **Sir Thomas Roe**, official ambassador of King James I of England, arrived and resided at court until 1619 AD, successfully securing royal imperial farmans to establish English trading factories at **Surat**.
+- **Military Achievements:** Received the peaceful submission of **Rana Amar Singh of Mewar** in 1615 AD (ending decades of hostility on honourable terms); captured the impregnable fortress of **Kangra** (1620 AD); partially annexed Ahmadnagar after military pressure led Malik Ambar to cede the Balaghat region.
+- **Rebellions & Executions:**
+  - **Prince Khusrau's Revolt (1605 AD):** Jahangir's eldest son Khusrau revolted; received the blessing and shelter of the **Fifth Sikh Guru, Guru Arjun Dev**. Jahangir captured Khusrau and executed Guru Arjun Dev in **1606 AD** for blessing the rebel prince (a profound turning point in Mughal-Sikh relations).
+  - Later faced rebellions by Prince Khurram (Shah Jahan: 1622–1625 AD) and his military general **Mahabat Khan** (1626–1627 AD), who briefly held Jahangir captive.
+- **Literature & Death:** Composed his celebrated Persian autobiography, ***Tuzuk-i-Jahangiri***. Died in 1627 AD; buried in an exquisite riverside tomb at **Shahdara near Lahore (Pakistan)**.
+
+---
+
+### 6. Shah Jahan (1628–1658 AD)
+- **Accession & Family:** Born to Mughal princess **Jagat Gosai / Jodha Bai** (daughter of Raja Jagat Singh / Mota Raja Udai Singh of Marwar). Ascended the throne at Agra in 1628 AD following the death of Jahangir.
+- **Early Revolts:** Successfully quelled the dangerous rebellion of **Jujhar Singh Bundela of Orchha** (1628–1635 AD) and the Afghan noble **Khan-i-Jahan Lodhi** (Governor of Deccan: 1629–1631 AD).
+- **Tragedy & Taj Mahal:** In **1631 AD**, his beloved Empress **Mumtaz Mahal** (original name: *Arjumand Bano Begum*) died in childbirth at Burhanpur. In her eternal memory, Shah Jahan erected the immortal white marble **Taj Mahal** on the banks of the Yamuna at Agra between **1632 and 1653 AD** (chief architect: Ustad Ahmad Lahori).
+- **Military & Foreign Policy:**
+  - In **1631–32 AD**, expelled the Portuguese from **Hooghly (Bengal)** due to piracy and slave trading.
+  - Formally annexed the Nizam Shahi kingdom of **Ahmadnagar** into the Mughal Empire in **1633 AD**.
+  - Compelled the Shia Deccan Sultanates of **Bijapur and Golconda** to sign treaties accepting Mughal suzerainty in **1636 AD**.
+  - Dispatched disastrous expeditions to **Balkh and Badakhshan** in Central Asia (1647 AD) at colossal financial cost.
+  - Recovered the strategic fortress of **Kandahar** in 1638 AD from Persia, but permanently lost it back to the Safavids in **1647 AD** despite three successive massive sieges led by Prince Murad, Prince Aurangzeb, and Prince Dara Shikoh.
+- **Foreign Chroniclers:** His reign was chronicled by French travellers **Francois Bernier** (physician) and **Jean-Baptiste Tavernier** (jeweller), Italian traveller **Niccolao Manucci**, and English merchant **Peter Mundy** (who vividly documented the horrific Deccan famine of 1630–32 AD).
+- **Architectural Golden Age:** Shah Jahan's reign represents the absolute zenith of Mughal architecture: constructed the **Red Fort (*Lal Qila*)** and **Jama Masjid** at Delhi, the new imperial city of **Shahjahanabad**, the **Moti Masjid** inside Agra Fort, and the bejewelled **Peacock Throne (***Takht-i-Taus***)**.
+
+#### Master Table: The Fratricidal War of Succession (1658–1659 AD)
+
+| Battle | Date | Opposing Forces & Combatants | Decisive Historical Outcome |
+| :--- | :--- | :--- | :--- |
+| **Battle of Bahadurpur** | Feb 1658 AD | Imperial army (under **Sulaiman Shikoh** & Mirza Raja Jai Singh) vs **Shah Shuja** | Shuja was defeated near Banaras and driven back to Bengal |
+| **Battle of Dharmat** | April 1658 AD | Allied armies of **Aurangzeb & Murad Bakhsh** vs Imperial army (under **Maharaja Jaswant Singh of Marwar** and Qasim Khan) | Aurangzeb and Murad routed Jaswant Singh near Ujjain; paved path to Agra |
+| **Battle of Samugarh** | May 1658 AD | **Aurangzeb & Murad** vs **Prince Dara Shikoh** | **The decisive battle:** Dara's veteran army routed near Agra; Dara fled; Aurangzeb occupied Agra Fort |
+| **Battle of Khajwa** | Dec 1658 AD | **Aurangzeb** vs **Shah Shuja** | Aurangzeb defeated Shuja near Allahabad; Shuja fled into Arakan (Burma) and died |
+| **Battle of Deorai** | Mar 1659 AD | **Aurangzeb** vs **Prince Dara Shikoh** | **The final battle:** Fought in Deorai pass near Ajmer; Dara was completely broken, betrayed, captured, and executed |
+
+- **Imprisonment & Death:** Aurangzeb deposed Shah Jahan in July 1658 AD and confined him to the **Agra Fort (Musamman Burj)**, where the fallen emperor gazed at the Taj Mahal for 8 years until his death in captivity in **1666 AD**; buried beside Mumtaz Mahal inside the Taj Mahal.
+
+---
+
+### 7. Aurangzeb Alamgir (1658–1707 AD)
+- **Coronation & Personality:** Crowned twice: first informally at Delhi in July 1658, and formally in June 1659 under the exalted title ***Alamgir*** ("Conqueror of the World"). Reigned for almost **50 years** until his death in February 1707 AD at Ahmadnagar.
+- **Two Reigned Phases:**
+  - *First Phase (1658–1681 AD):* Concentrated imperial administration in North India; confronted fierce rebellions by Jats, Bundelas, Satnamis, Sikhs, and Rajputs.
+  - *Second Phase (1682–1707 AD):* Personally relocated the entire imperial court and army to the Deccan for 25 continuous years to crush the Marathas and annex the Deccan Sultanates (*"The Deccan Ulcer ruined Aurangzeb just as the Spanish Ulcer ruined Napoleon"*).
+- **Execution of Sikh Gurus & Khalsa:** Captured and publicly executed **Guru Tegh Bahadur** (the 9th Sikh Guru) at Chandni Chowk, Delhi in **1675 AD** when he refused to embrace Islam. The 10th and last Guru, **Guru Gobind Singh**, organized the martial brotherhood of the **Khalsa (1699 AD)** to resist imperial tyranny; after Guru Gobind Singh was assassinated at Nanded in 1708 AD, his disciple **Banda Singh Bahadur (Banda Bairagi)** waged unrelenting war against the Mughals.
+- **Chhatrapati Shivaji & Maratha Resistance:**
+  - In 1665 AD, Aurangzeb deputed **Mirza Raja Jai Singh of Amber**, who besieged Purandar and compelled Shivaji to sign the **Treaty of Purandar (1665 AD)**.
+  - Shivaji visited Aurangzeb's court at Agra (1666 AD), was placed under house arrest, but engineered a daring escape in sweetmeat baskets; crowned himself independent sovereign (*Chhatrapati*) at Raigad in **1674 AD**.
+  - Following Shivaji's death (1680 AD), Aurangzeb captured and brutally executed Shivaji's son **Sambhaji (1689 AD)**; the Maratha resistance was heroically sustained by **Rajaram** and subsequent regent **Tarabai**.
+- **Territorial Zenith:** Directly annexed **Bijapur (1686 AD)** from Sikandar Adil Shah and **Golconda (1687 AD)** from Abul Hasan Qutb Shah, bringing the Mughal Empire to its largest geographic extent (spanning from Kashmir to Jinji, and from Kabul to Chittagong).
+- **Death & Mausoleum:** Died exhausted in **February 1707 AD** at Ahmadnagar; buried according to his ascetic wishes in an austere open-air tomb at **Khuldabad near Daulatabad / Aurangabad**. Revered by orthodox followers as a living saint (***Zinda Pir***).
+- **Religious Policy & Contradiction:** Re-imposed the discriminatory **Jaziya in 1679 AD**. Yet, historically, the **percentage of Hindu Mansabdars reached its highest peak in Mughal history (31.6% to 33%) under Aurangzeb**, owing to the large induction of Maratha and Deccani nobles.
+
+#### Master Table: Major Revolts During Aurangzeb's Reign
+
+| Region & Revolt | Year | Rebellious Leaders | Core Underlying Causes |
+| :--- | :--- | :--- | :--- |
+| **Jat Revolt (Mathura/Agra)** | 1669 AD | **Gokula, Rajaram, Churaman** | Oppressive agrarian revenue exactions and temple destructions; Rajaram plundered Akbar's tomb at Sikandra |
+| **Bundela Revolt** | 1671 AD | **Champat Rai, Chhatrasal Bundela** | Fight for regional political autonomy in Bundelkhand against religious suppression |
+| **Satnami Revolt (Narnaul)** | 1673 AD | Followers of the **Satnami Sect** (*Mundiyas*) | Peasant-religious clash sparked by local administrative tyranny |
+| **Sikh Resistance** | 1675 AD | **Guru Tegh Bahadur, Guru Gobind Singh** | Martyrdom of Guru Tegh Bahadur; creation of the martial Khalsa brotherhood |
+| **Rajput War (Rathors of Marwar)** | 1678 AD | **Durgadas Rathore** (for infant Ajit Singh) | Aurangzeb's interference in the succession to the throne of Jodhpur/Marwar |
+| **Annexation of Bijapur** | 1686 AD | **Sikandar Adil Shah** | Violation of imperial treaties and covert aid to Maratha forces |
+| **Annexation of Golconda** | 1687 AD | **Abul Hasan Qutub Shah** | Friendly/helping alliance with Maratha kingdom; Shia faith of sultan |
+| **Mughal-Maratha War of Independence** | 1689–1707 AD | **Sambhaji, Rajaram, Maharani Tarabai** | Execution of Sambhaji; rising popular national aspirations of Maratha Swarajya |
+
+#### Master Table: Timeline of Aurangzeb's Orthodoxy & Religious Decrees
+
+| Year | Imperial Prohibitions & Religious Ordinances |
+| :--- | :--- |
+| **1659** | Forbade the inscription of the Islamic creed (***Kalma***) on coins; banned the Persian New Year festival of ***Nauroz***; created the office of ***Muhtasib*** (censors of public morals to enforce Sharia) |
+| **1663** | Issued imperial orders strictly banning the practice of **Sati** where women were forcibly coerced |
+| **1668** | Prohibited the public celebration of Hindu festivals (Holi, Diwali) and curtailed grand celebrations |
+| **1669** | Discontinued the imperial practice of ***Jharokha Darshan*** (viewing the monarch at the balcony); banned instrumental vocal music (*Gayan/Vadan*) in the royal court |
+| **1670** | Completely abolished the royal ceremonial practice of ***Tuladan*** (weighing the emperor against gold and silver) |
+| **1679** | Formally re-imposed the religious poll-tax **Jaziya** on all non-Muslim subjects across the entire empire |
+
+---
+
+### 8. The Later Mughals (1707–1857 AD) & Imperial Decline
+- **Eight Major Causes of Mughal Decline:**
+  1. Aurangzeb's disastrous Rajput, Deccan, and narrow religious policies that alienated core pillars of the state.
+  2. Successors were utterly weak, incompetent, and debauched, lacking military and administrative vision.
+  3. Ruinous fratricidal wars of succession after the death of every emperor, bleeding treasury and army.
+  4. Chronic factionalism among court nobility (factions: Turani, Irani, Afghani, and Hindustani / Indian Muslims).
+  5. The devastating **Jagirdari Crisis** (*Be-jagiri* — shortage of fertile crown land vs spiralling number of mansabdars).
+  6. Rapid expansion of the Marathas (Peshwas) and independent regional successor kingdoms (Bengal, Hyderabad, Awadh, Mysore, Rohilkhand).
+  7. Devastating foreign invasions: **Nadir Shah of Persia (1739 AD)** and **Ahmad Shah Abdali of Afghanistan** (seven invasions).
+  8. Economic penetration, military supremacy, and territorial conquest of India by the **British East India Company**.
+
+#### Master Table: Profiles of Later Mughal Emperors
+
+| Emperor | Reign | Regnal Identity / Patrons | Landmark Historical Events |
+| :--- | :--- | :--- | :--- |
+| **Bahadur Shah I** | 1707–1712 AD | Prince Muazzam; titled **Shah Alam I** | Known as *Shah-i-Bekhabar*; won Battle of Jajau (1707); adopted conciliatory policy towards Marathas and Rajputs |
+| **Jahandar Shah** | 1712–1713 AD | Elevated by Wazir **Zulfiqar Khan** | Incompetent puppet (*Lumpat Moorkh*); completely abolished Jaziya; introduced the exploitative revenue farming (***Ijarah***) system |
+| **Farrukhsiyar** | 1713–1719 AD | Kingmakers: **Sayyid Brothers** (Abdullah Khan & Husain Ali Khan) | Defeated Jahandar Shah; executed Banda Singh Bahadur (1716); granted the **Royal Farman of 1717** (Magna Carta) to the English EIC; murdered by Sayyids |
+| **Muhammad Shah** | 1719–1748 AD | Known as ***Rangeela*** ("The Pleasure-Loving") | Sayyid brothers overthrown; autonomous states formed (Nizam in Hyderabad 1724, Saadat Khan in Awadh, Murshid Quli in Bengal); **Nadir Shah raided India in 1738–39 AD**, routed Mughals at Battle of Karnal (1739), plundered Delhi, and carried away the **Peacock Throne (Takht-i-Taus)** and the immortal **Koh-i-Noor diamond** |
+| **Ahmad Shah** | 1748–1754 AD | Son of Muhammad Shah | Invasions of **Ahmad Shah Abdali** (former general of Nadir Shah); Mughals forced to formally cede **Punjab and Multan** |
+| **Alamgir II** | 1754–1759 AD | Son of Jahandar Shah | Puppet under Wazir Imad-ul-Mulk; Abdali invaded and plundered Delhi; Battle of Plassey (1757) fought during his reign; Delhi subsequently plundered by Marathas |
+| **Shah Alam II** | 1759–1806 AD | Prince Ali Gauhar | Remained exiled from Delhi for 12 years due to the terror of **Najib Khan Rohilla**; fought and lost the **Battle of Buxar (1764)**; granted *Diwani of Bengal, Bihar, and Orissa* via the Treaty of Allahabad (1765); restored to Delhi by Maratha leader Mahadji Shinde in 1772; blinded by Ghulam Qadir (1788); British captured Delhi in 1803 |
+| **Akbar II** | 1806–1837 AD | East India Company pensioner | First Mughal emperor entirely dependent on British pension; conferred the exalted title of ***'Raja'*** on **Ram Mohan Roy** and sent him to England as his envoy |
+| **Bahadur Shah II (Zafar)** | 1837–1857 AD | **The Last Mughal Emperor** | Renowned Urdu poet (pen-name *Zafar*); chosen as the symbolic leader/head of the **Revolt of 1857**; arrested after the fall of Delhi, tried for treason, and deported to **Rangoon (Burma)** in 1858, where he died in captivity in **1862 AD**, terminating the Mughal dynasty |
+
+---
+
+### 9. Mughal Territorial Administrative Units & Land Categories
+- **Administrative Hierarchy:**
+  $$	ext{Subah (Province)} \longrightarrow 	ext{Sarkar (District)} \longrightarrow 	ext{Pargana (Sub-District)} \longrightarrow 	ext{Gram (Village)}$$
+- **Evolution of Provinces (Subahs):**
+  - Under Emperor **Akbar**, the empire was initially divided into **12 Subahs** (expanded to **15 Subahs** towards the end of his reign with the addition of Khandesh, Berar, and Ahmadnagar).
+  - Under Emperor **Jahangir**, there were 17 Subahs.
+  - Under Emperor **Shah Jahan**, there were 18 Subahs.
+  - Under Emperor **Aurangzeb**, the imperial provinces reached their maximum peak of **20 to 21 Subahs** (incorporating Bijapur and Golconda in the Deccan).
+- **Three Core Categories of Imperial Land:**
+  1. ***Khalisa Lands:*** Imperial crown lands managed directly by the central revenue administration; all tax proceeds flowed exclusively into the royal central treasury (*Bait-ul-Mal*).
+  2. ***Jagir Lands:*** Revenue assignments allocated to royal princes, nobles, and Mansabdars in lieu of cash salaries to maintain their stipulated contingents (*Tankhwah Jagirs*).
+  3. ***Inam / Madad-i-Maash / Sayurghal Lands:*** Hereditary, tax-free lands gifted as charity to pious scholars, saints, theological institutions, and destitute religious figures; typically carved out of uncultivated or fallow lands.
+
+
+---
+
+## Lucent GK Complete Comprehensive Reference & Direct Gap-Fill: Mughal Administration, Mansabdari, Culture, Titles & Literature
+
+### 1. Master Table: Mughal Territorial Administration & Executive Incharges
+
+| Administrative Unit | Level | Executive / Administrative Head | Revenue / Financial Official |
+| :--- | :--- | :--- | :--- |
+| **Suba** | Province | **Sipahsalar / Subedar / Nizam** (The Head Executive) | **Diwan** (Incharge of provincial revenue department) |
+| **Sarkar** | District | **Fauzdar** (Administrative & military head) | **Amal / Amalguzar** (Revenue assessment & collection) |
+| **Pargana** | Taluka / Sub-district | **Shiqdar** (Administrative & police head) | **Amin, Qanungo** (Revenue survey & records officials) |
+| **Gram** | Village (lowest unit) | **Muqaddam** (Village headman) | **Patwari** (Village accountant & record-keeper) |
+
+---
+
+### 2. The Mansabdari System & Revenue Collection Methods
+- **The Mansabdari System:**
+  - Introduced by Emperor **Akbar** in **1574 AD**. The term *Mansab* denotes the official rank or status of its holder.
+  - Integrated both **civil bureaucracy and military commands** into a single graded service. Almost the entire nobility, high bureaucracy, and army commanders held Mansabs.
+  - **Dual Rank Structure:**
+    - ***Zat:*** Personal rank indicating the officer's personal status and salary scale.
+    - ***Sawar:*** Military quota indicating the exact number of cavalrymen and horses the officer was required to maintain.
+  - **Three Hierarchical Categories of Mansabdars:**
+    1. *Mansabdars:* Holders of ranks below 500 Zat.
+    2. *Amirs:* Holders of ranks between 500 and 2,500 Zat.
+    3. *Amir-i-Umda (Amir-ul-Umara):* Holders of ranks above 2,500 Zat.
+  - **Two Modes of Salary Payment:**
+    1. ***Naqdi:*** Mansabdars paid directly in cash from the imperial treasury.
+    2. ***Jagirdars:*** Mansabdars assigned revenue-bearing lands (Jagirs) corresponding to their salary entitlement.
+  - **Later Modifications:**
+    - **Jahangir's Innovation — *Duaspah Sih-aspah* (Du-aspa Sih-aspa) System:** Permitted the state to increase a noble's military contingent (Sawar rank) without altering his personal salary grade (Zat rank).
+    - **Shah Jahan's Innovation — *Jama-Dami* or *Mahana Zagir* (Mahana Jagir / Monthly Scale System):** Introduced the 10-month, 8-month, or 6-month scale to adjust payments when actual collected revenue (*Hasil*) fell short of estimated revenue (*Jama*).
+    - **Decline Factor:** Unchecked inflation of Mansabdars without available crown lands led to the acute **Jagirdari Crisis and agrarian crisis**, serving as a paramount cause of the collapse of the Mughal Empire.
+- **Methods of Revenue Assessment & Collection:**
+  - ***Kankut System:*** Rough estimation of standing crops in the field by visual inspection.
+  - ***Rai System:*** Crop yield determined per unit area of land.
+  - ***Zabti System:*** Measurement-based assessment based on actual harvested crop yields.
+  - ***Dahsala Bandobast (1580 AD):*** Standardized method of assessment based on the average produce and average prices of each crop over the preceding **10 years (1570–1580 AD)**; pioneered and institutionalized by Raja Todarmal.
+  - ***Jagirdari System:*** Assignment of revenue collection rights on specific lands in exact proportion to the officer's salary. Every Mansabdar was entitled to a Jagir unless paid in cash.
+  - ***Madad-i-Maash / Suyurghal / Inam:*** Revenue-free, hereditary land grants conferred as imperial favour or religious charity on scholars, saints, widows, and theologians.
+
+---
+
+### 3. Mughal Art, Architecture & Master Painters
+- **Babur's Monuments:** Constructed two historic mosques:
+  1. Mosque at **Kabulibagh in Panipat** (celebrating the 1526 victory).
+  2. Mosque at **Sambhal in Rohilkhand** (Uttar Pradesh).
+- **Humayun's Tomb (Delhi):** Commissioned and erected by his devoted senior widow, **Haji Begum (Bega Begum)**; designed by Persian architect Mirak Mirza Ghiyas; prototype of the Taj Mahal.
+- **Fatehpur Sikri ("Epic in Red Sandstone"):**
+  - **Panch Mahal:** An extraordinary five-storey pyramidal pavilion built on the architectural plan of a **Buddhist Vihara**.
+  - **Indian Architectural Plans:** Mariam's Palace (Sunahra Makan), Diwan-i-Aam, and Diwan-i-Khas display distinct indigenous Hindu and Jain trabeate planning and bracket ornamentation.
+  - **Buland Darwaza:** The colossal 176-foot gate erected as the triumphal south entrance to the Jama Masjid at Fatehpur Sikri to commemorate Akbar's **Gujarat victory (1572–73 AD)**.
+  - **Salim Chishti's Tomb:** Sacred white marble tomb inside the courtyard; **redone in pure marble by Jahangir**, becoming the **first Mughal building in pure white marble**.
+  - Palace of Birbal and Palace of Tansen stand within the Sikri royal enclosure.
+- **Akbar's Mausoleum (Sikandra near Agra):** Begun by Akbar himself and completed by Jahangir; unique tier design lacking a central dome.
+- **Nur Jahan's Masterpiece:** Built the tomb of her father **Itimad-ud-Daula (Mirza Ghiyas Beg)** at Agra (1622–1628 AD), universally renowned for the **first comprehensive use of the *Pietra Dura*** technique (inlaying colored semiprecious stones—lapis lazuli, jasper, onyx—into white marble floral arabesques).
+- **Jahangir's Architectural Innovations:** Transitioned Mughal architecture from red sandstone to extensive polished white marble and decorative pietra dura; built the **Moti Masjid in Lahore Fort** and his own mausoleum at **Shahdara (Lahore)**.
+- **Shah Jahan's Golden Age:**
+  - Mosque architecture reached its divine climax in the **Taj Mahal** (1632–1653 AD) and the grand **Jama Masjid** at Delhi.
+  - Monuments at Agra Fort: The immaculate white marble **Moti Masjid** (the only mosque built entirely of pure marble inside Agra Fort), the **Khas Mahal**, and the octagonal **Musamman Burj** (Jasmine Palace, where Shah Jahan spent his final 8 years gazing across the river at the Taj Mahal).
+  - Founded the imperial capital city of **Shahjahanabad** in **1637 AD**, constructing the **Red Fort (*Lal Qila*)** and installing the legendary **Takht-i-Taus (Peacock Throne)**.
+- **Aurangzeb's Monuments:**
+  - Erected the exquisite white marble **Moti Masjid inside the Red Fort at Delhi** for personal prayer.
+  - Built **Bibi ka Maqbara** at Aurangabad (Maharashtra) as the tomb of his empress **Rabia-ud-Daurani (Dilras Banu Begum)**, styled as a poor imitation of the Taj Mahal (*"Dakkhani Taj"*).
+  - Constructed the monumental **Badshahi Masjid in Lahore**.
+- **Master Painters of the Mughal Court:**
+  - **Humayun:** Brought two Persian master painters from Tabriz into imperial service: **Mir Sayyid Ali** and **Abdus Samad**.
+  - **Akbar:** Court atelier adorned by indigenous masters **Daswant** and **Basawan** (illustrated the *Hamzanama*, *Razmnama*, and *Akbarnama*).
+  - **Jahangir:** Zenith of Mughal portraiture and naturalistic fauna/flora painting; adorned by master artists **Abul Hasan**, **Ustad Mansur** (specialist in rare birds and flowers), and **Bishandas** (master portraitist sent on embassy to Persia). Jahangir proudly claimed in his memoirs that he could instantly identify the brushwork of each individual artist in a composite painting.
+
+---
+
+### 4. Master Table: Titles Conferred by Mughal Emperors
+
+| Title Conferred | Recipient / Scholar / Artist | Field of Eminence | Conferred By (Emperor) |
+| :--- | :--- | :--- | :--- |
+| ***Jagat Guru*** | **Harivijay Suri** | Jain Religion & Philosophy | **Akbar** |
+| ***Zari Kalam*** (*Zari Qalam*, "Golden Pen") | **Mohammad Husain** of Kashmir | Calligraphy / Literature | **Akbar** |
+| ***Sirin Kalam*** (*Shirin Kalam* / *Shirin Qalam*, "Sweet Pen") | **Khwaja Abdus Samad** | Calligraphy / Painting | **Akbar** |
+| ***Raj Kavi*** (Poet Laureate) | **Faizi** | Persian Literature & Poetry | **Akbar** |
+| ***Kavi Priya*** | **Birbal (Mahesh Das)** | Hindi Literature & Wit | **Akbar** |
+| ***Nadir-ul-Asra*** ("Wonder of the Age") | **Ustad Mansur** | Fauna & Nature Painting | **Jahangir** |
+| ***Nadir-uz-Zaman*** ("Wonder of the Time") | **Abul Hasan** | Portrait Painting | **Jahangir** |
+| ***Guna Samudra*** ("Ocean of Virtues") | **Lal Khan** (son-in-law of Tansen) | Classical Music | **Shah Jahan** |
+| ***Raj Kavi*** (Poet Laureate) | **Abu Talib Kalim** | Persian Literature | **Shah Jahan** |
+| ***Mahakaviray*** | **Sundar Das** | Hindi Literature & Poetry | **Shah Jahan** |
+
+---
+
+### 5. Master Table: Comprehensive Literature of the Mughal Period
+
+| Book / Chronicle | Author | Historical Subject & Core Contents |
+| :--- | :--- | :--- |
+| ***Tuzuk-i-Baburi*** (*Baburnama*) | **Babur** | Candid Chagatai Turki autobiography; detailed descriptions of Indian flora, fauna, warfare, and topography |
+| ***Qanun-i-Humayuni*** | **Khwandamir** | Contemporary record describing Humayun's administrative rules, Court festivities, inventions, and buildings |
+| ***Humayun Nama*** | **Gulbadan Begum** | Intimate royal biography of Humayun written by his half-sister; sheds rich light on domestic palace life |
+| ***Akbar Nama*** | **Abul Fazl** | Monumental three-volume official history and detailed narrative chronicle of Akbar's reign |
+| ***Ain-i-Akbari*** | **Abul Fazl** | Third volume of *Akbarnama*; statistical gazetteer detailing Mughal administration, revenue, army, and culture |
+| ***Tabaqat-i-Akbari*** | **Khwaja Nizamuddin Ahmad Bakhsh** | Reliable general history of India up to the 38th regnal year of Akbar |
+| ***Muntakhab-ul-Tawarikh*** | **Abdul Qadir Badauni** | Candid, critical, orthodox history of Akbar's reign written in secret |
+| ***Tarikh-i-Alfi*** | **Mulla Daud** | Millennial history commissioned by Akbar to commemorate the first millennium of the Islamic Hijri calendar |
+| ***Nuriyya-i-Sultaniyya*** | **Abdul Haq** | Treatises on political philosophy and the theory of kingship during the Mughal period |
+| ***Tuzuk-i-Jahangiri*** | **Jahangir** | Royal memoirs in Persian; chronicling his reign, justice, patronage of art, and natural history observations |
+| ***Iqbalnama-i-Jahangiri*** | **Mutamad Khan (Muhammad Khan)** | Official chronicle recording the detailed history of Jahangir's reign |
+| ***Chahar Chaman*** | **Chandra Bhan Brahman** | Literary prose collection providing valuable descriptions of the court, ministers, and administration of Shah Jahan |
+| ***Padshah Namah*** | **Abdul Hamid Lahori** | Primary official chronicle detailing the first two decades of Shah Jahan's glorious reign |
+| ***Padshah Namah*** | **Muhammad Waris** | Continuation chronicle documenting the third decade of Shah Jahan's reign |
+| ***Shahjahan Namah*** | **Muhammad Salih (Amal-i-Salih)** | Complete official history of Shah Jahan's reign up to his imprisonment |
+| ***Shahjahan Namah*** | **Inayat Khan** | Comprehensive historical summary of Shah Jahan's life and reign |
+| ***Alamgir-nama*** | **Munshi Mirza Muhammad Kazim** | Official court history detailing the first 10 years of Aurangzeb's reign |
+| ***Maasir-i-Alamgiri*** | **Saqi Mustaid Khan** | Definitive official history of Aurangzeb's complete 50-year reign, composed after his death in 1707 AD |
+| ***Waqiat-i-Hyderabad*** | **Nimat Khan Ali** | Satirical historical account detailing Aurangzeb's long siege and conquest of Golconda |
+| ***Futuhat-i-Alamgiri*** | **Ishwar Das Nagar** | Independent Sanskritized Persian account of Aurangzeb's campaigns and revolts in Rajasthan and Malwa |
+| ***Nuskha-i-Dilkusha*** | **Bhimsen Saxena** | Critical contemporary memoir analysing the Deccan campaigns, agrarian distress, and character of Aurangzeb |
+| ***Khulasat-ul-Tawarikh*** | **Sujan Rai Khatri** | General historical chronicle of India concluding with the reign of Aurangzeb |
+| ***Hamlai-Haidari*** | **Muhammad Rafi Khan** | Historical narrative verse work chronicling Aurangzeb's reign and wars |
+| ***Namah-e-Alamgiri*** | **Aqil Khan Zafar** | Historical chronicle focusing on Aurangzeb's early career and rise to power |
+| ***Ruqqat-e-Alamgiri*** | **Aurangzeb** | Compendium of personal letters and orders written by Aurangzeb to his sons, ministers, and officers |
+| ***Sirr-i-Akbar*** ("The Great Secret") | **Prince Dara Shikoh** | Monumental Persian translation of **50 Upanishads** undertaken at Delhi in 1657 AD |
+| ***Majma-ul-Bahrain*** ("Mingling of Two Oceans") | **Prince Dara Shikoh** | Philosophical treatise synthesizing the metaphysical commonalities between Vedantic Hinduism and Sufi Islam |
+| ***Safinat-ul-Auliya*** | **Prince Dara Shikoh** | Biographical compendium detailing the lives of celebrated Sufi saints and holy figures |
+| ***Hasanat-ul-Arifin*** | **Prince Dara Shikoh** | Collection of ecstatic sayings and philosophical aphorisms of great mystics |
+

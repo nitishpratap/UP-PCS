@@ -3311,3 +3311,103 @@ D. 2, 4, 1, 3
 23. **Masterly Inactivity = Proud Reserve** → Lawrence caution vs Lytton forward Afghan policy.
 24. **1717 farman = Diwani** → Farrukhsiyar trade privilege ≠ 1765 revenue Diwani.
 25. **Vellore = 1857** → Vellore is **1806**, Madras Presidency dress revolt.
+
+
+---
+
+## Lucent GK Complete Comprehensive Reference & Direct Gap-Fill: Expansion of British Power (Bengal, Mysore, Punjab & Annexation Table)
+
+### 1. Nawabs of Bengal & British Conquest (1717–1772 AD)
+- **Murshid Quli Khan (1717–1727 AD):** Appointed Subedar of Bengal by Mughal Emperor Farrukhsiyar in 1717 AD; also granted the Governorship of Orissa in 1719 AD; transferred the capital of Bengal from **Dacca (Dhaka) to Murshidabad**.
+- **Shujauddin (1727–1739 AD):** Son-in-law of Murshid Quli Khan; granted the additional Governorship of Bihar by Mughal Emperor Muhammad Shah 'Rangeela' in 1733 AD.
+- **Sarfaraz Khan (1739–1740 AD):** Son of Shujauddin; defeated and murdered at the Battle of Giriya (1740 AD) by **Alivardi Khan**, the Deputy Governor of Bihar.
+- **Alivardi Khan (1740–1756 AD):** Legalized his usurpation by securing an imperial farman from Emperor Muhammad Shah Rangeela after paying a tribute of Rs 2 crores. Maintained strict sovereign authority and prevented both the English (Calcutta) and French (Chandernagore) from fortifying their commercial factories.
+- **Sirajuddaula (Siraj-ud-Daula, 1756–1757 AD):**
+  - Grandson and nominated successor of Alivardi Khan; ascended the throne in April 1756.
+  - Seized the English factory at Kasimbazar; marched on Calcutta, capturing Fort William on **20 June 1756** (*Black Hole episode*).
+  - Robert Clive and Admiral Watson sailed from Madras and recovered Calcutta in January 1757.
+  - Signed the **Treaty of Alinagar on 2 January 1757**, restoring all company privileges.
+  - British subsequently attacked and captured the French settlement of **Chandernagore** in March 1757.
+- **Battle of Plassey (23 June 1757 AD) & The Five Traitors:**
+  - Fought on the mango grove of Palashi on the banks of the Bhagirathi River. Clive's secret conspiracy engineered the betrayal of the Nawab:
+    1. ***Mir Jafar:*** The Commander-in-Chief (*Mir Bakhshi*); held his troops inactive.
+    2. ***Manikchand:*** Officer-in-charge of Calcutta; surrendered without serious resistance.
+    3. ***Amichand (Omichand):*** Rich merchant and intermediary conspirator.
+    4. ***Jagat Seth (Mehtab Chand):*** The biggest and wealthiest banker of Bengal.
+    5. ***Khadim Khan:*** Commanded a massive wing of the Nawab's army, holding it idle.
+  - Siraj-ud-Daula was captured and murdered by Miran (son of Mir Jafar).
+- **Mir Jafar (First Reign: 1757–1760 AD):** Placed on the throne as puppet Nawab; granted the EIC undisputed duty-free trade across Bengal, Bihar, and Orissa, plus the lucrative **Zamindari of the 24 Parganas**. Falling heavily into revenue arrears, he was forced to abdicate by Governor Vansittart in favour of his capable son-in-law **Mir Qasim**.
+- **Mir Qasim (1760–1764 AD):**
+  - Ceded the revenue of **Burdwan, Midnapore, and Chittagong** to the Company.
+  - Transferred his capital from **Murshidabad to Munger (Bihar)** to escape British surveillance and built a modern munitions factory.
+  - Clashed over Company servants' flagrant misuse of ***Dastaks*** (duty-free trade permits) for private inland trade; abolished all internal transit customs duties to place Indian merchants on equal footing.
+  - British declared war in 1763; defeated in several skirmishes, Mir Qasim fled to Awadh.
+  - Formed a grand tripartite confederacy with **Nawab Shuja-ud-Daula of Awadh** and titular Mughal Emperor **Shah Alam II**.
+- **Battle of Buxar (22 October 1764 AD):**
+  - Fought between the allied Indian forces and the British army commanded by **Major Hector Munro**.
+  - Decisive British military victory; permanently broke Indian military power in northern India.
+- **Successors of Mir Qasim & Disarmament:**
+  - **Mir Jafar restored (1764–1765 AD):** Died in early 1765.
+  - **Najm-ud-Daulah (1765–1766 AD):** Son of Mir Jafar; concluded a treaty on **20 February 1765** agreeing to disband most of his army and govern Bengal through a **Deputy Subedar (Naib Nazim)** appointed on Company recommendation.
+  - Succeeded by puppet Nawabs **Saif-ud-Daula (1766–1770 AD)** and **Mubarak-ud-Daula (1770–1772 AD)**.
+- **The Two Treaties of Allahabad (August 1765 AD):**
+  - *First Treaty (12 August 1765):* Concluded between Clive and Mughal Emperor **Shah Alam II**; Emperor granted the perpetual **Diwani (revenue collecting rights)** of Bengal, Bihar, and Orissa to the EIC in return for an annual imperial tribute of Rs 26 lakhs and districts of Kara and Allahabad.
+  - *Second Treaty (16 August 1765):* Concluded between Clive and **Shuja-ud-Daula of Awadh**; Awadh restored on payment of Rs 50 lakhs war indemnity, ceding Kara and Allahabad to the Emperor.
+- **Dual Government of Bengal (1765–1772 AD):**
+  - Instituted by Robert Clive: The Company exercised de facto sovereign control possessing **Diwani** (fiscal/revenue administration) and control over **Nizamat** (police/criminal justice via Deputy Subedar), while nominal responsibility rested with the powerless puppet Nawab.
+  - Proved disastrous for Bengal's peasantry and trade, culminating in the horrific Great Bengal Famine of 1770. Formally abolished in **1772 AD by Warren Hastings**, who took over direct administration and revenue collection.
+
+---
+
+### 2. Mysore & The Four Anglo-Mysore Wars (1761–1799 AD)
+- **Haidar Ali (1761–1782 AD):**
+  - Rose from ordinary soldier to Faujdar of **Dindigul (1755 AD)**, establishing a modern munitions arsenal with the assistance of French engineers.
+  - Overthrew the dictatorial dewan **Nanjaraj** in 1761 AD and assumed sovereign authority, while nominally retaining king Krishnaraja I Wodeyar as lawful titular ruler.
+- **Tipu Sultan (1782–1799 AD):**
+  - Succeeded Haidar Ali in 1782 AD; pioneer of modern statecraft and military technology (*Mysorean iron-cased rockets*).
+  - The **only Indian sovereign who fully grasped that economic strength is the indispensable bedrock of modern military power**.
+  - Modernization & Diplomacy: Dispatched formal diplomatic and commercial embassies to **France, Turkey, Iran, and Pegu (Burma)** to foster bilateral overseas trade.
+  - Planted the symbolic **"Tree of Liberty"** at his island fortress-capital of **Seringapatnam (Seringapatam / Srirangapatna)** and enrolled himself as a member of the French revolutionary **Jacobin Club** (*Citizen Tipu*).
+
+#### Master Table: The Four Anglo-Mysore Wars (1766–1799 AD)
+
+| Conflict | Period | Core Military Campaigns & Engagements | Concluding Treaty & Strategic Outcome |
+| :--- | :--- | :--- | :--- |
+| **First Anglo-Mysore War** | 1766–1769 AD | British formed coalition with Nizam and Marathas; Haidar Ali outmaneuvered them, swept across the Carnatic, and appeared before the gates of Madras | **Treaty of Madras (April 1769 AD)**: Haidar Ali dictated terms; defensive mutual alliance and reciprocal restoration of conquered territories |
+| **Second Anglo-Mysore War** | 1780–1784 AD | Warren Hastings attacked and captured the French port of **Mahe** (located within Haidar's jurisdiction); Haidar forged alliance with Nizam & Marathas, swept the Carnatic, and captured **Arcot**; defeated at **Porto Novo (1781)** by **Sir Eyre Coote**; Haidar died of cancer in Dec 1782; Tipu continued war | **Treaty of Mangalore (March 1784 AD)**: Signed by Tipu Sultan and Lord Macartney; mutual restoration of all conquered forts and prisoners of war |
+| **Third Anglo-Mysore War** | 1790–1792 AD | Tipu attacked Travancore (British ally); Lord Cornwallis forged Triple Alliance (British, Marathas, Nizam) and captured Bangalore, besieging Seringapatam | **Treaty of Seringapatnam (Treaty of Seringapatam, March 1792 AD)**: Disastrous for Tipu; forced to cede **half of his kingdom** (divided between British, Nizam, and Marathas), pay Rs 3.3 crore indemnity, and surrender two sons as hostages |
+| **Fourth Anglo-Mysore War** | 1799 AD | Lord Wellesley demanded total submission under Subsidiary Alliance; Tipu refused; British armies invaded under General Harris and Arthur Wellesley | **Tipu Sultan died heroically fighting on the ramparts of Seringapatnam on 4 May 1799**; Mysore's core territory placed under minor Krishnaraja III Wodeyar under strict **Subsidiary Alliance** |
+
+---
+
+### 3. Punjab & The Anglo-Sikh Wars (1792–1849 AD)
+- **Evolution of Sikh Power:** Guru Gobind Singh transformed the peaceful devotional community into the martial brotherhood of the **Khalsa (1699 AD)**. Amidst the chaos and power vacuum following the invasions of Nadir Shah and Ahmad Shah Abdali, the Sikhs organized themselves into **12 sovereign Misls** (confederacies).
+- **Maharaja Ranjit Singh (1792–1839 AD):**
+  - Born in 1780 at **Gujranwala** (Sukerchakia Misl, son of Mahan Singh); greatest Indian ruler of his era and founder of the unified Sikh Empire.
+  - Occupied **Lahore in 1799 AD** (making it his political capital) from Afghan king Zaman Shah.
+  - Conquered **Amritsar in 1802 AD** (religious capital); signed the **Treaty of Amritsar (1809 AD)** with the British (Lord Minto / Metcalfe), fixing the Sutlej as the eastern boundary.
+  - Extended empire through brilliant conquests: **Kangra, Attock (1813), Multan (1818), Kashmir (1819), Hazara, Bannu, Derajat, and Peshawar (1834)**. Reorganized army into *Fauj-i-Khas* with European drill. Died in **1839 AD**.
+- **Successors of Ranjit Singh:** **Kharak Singh** (1839–40) $ightarrow$ **Nau Nihal Singh** (1840) $ightarrow$ **Sher Singh** (1841–43) $ightarrow$ **Maharaja Duleep Singh** (1843–1849, minor under Queen Regent Rani Jindan).
+- **First Anglo-Sikh War (1845–1846 AD):**
+  - Fought across four major pitched battles: **Mudki, Ferozeshah, Aliwal, and Sobraon (10 Feb 1846)**. Treachery of commanders Lal Singh and Tej Singh led to Sikh defeat.
+  - **Treaty of Lahore (March 1846 AD):** Jalandhar Doab ceded to British; Rs 1.5 crore indemnity; Maharaja Duleep Singh recognized; **Sir Henry Lawrence** appointed first British Resident at Lahore. Kashmir sold to Gulab Singh for Rs 75 lakhs (*Treaty of Amritsar, 1846*).
+- **Second Anglo-Sikh War (1848–1849 AD):**
+  - Sparked by the anti-British rebellion of Mulraj (governor of Multan) and Chattar Singh Attariwala.
+  - Major engagements: Ramnagar, Chillianwala, and **Battle of Gujarat ("Battle of the Guns", 21 Feb 1849)** under Lord Gough.
+  - **Annexation:** On **29 March 1849**, Governor-General **Lord Dalhousie** formally annexed Punjab into the British Empire. Minor Maharaja Duleep Singh was pensioned off to England, and the Kohinoor diamond was surrendered to the British Crown.
+  - **Sir John Lawrence** was appointed the first **Chief Commissioner of Punjab**.
+
+---
+
+### 4. Master Table: Annexation & Subjugation of Major Indian Princely States
+
+| Princely State | Year of Rise | Founder / Chief Sovereign | Mode & Year of British Annexation / Subjugation |
+| :--- | :--- | :--- | :--- |
+| **Nawab of Bengal** | 1713 AD | **Murshid Quli Jafar Khan** | **1765 AD:** Battle of Buxar & Treaty of Allahabad (Diwani granted) |
+| **Maratha Confederacy** | 1720 AD | **Peshwa Baji Rao I** | **1802 AD:** Treaty of Bassein (Subsidiary Alliance); **1818 AD:** Third Maratha War (Peshwaship abolished) |
+| **Nawab of Carnatic (Arcot)** | 1720 AD | **Saadatullah Khan** | **1801 AD:** Wellesley imposed Subsidiary Alliance / Mediatization |
+| **Nawab of Awadh** | 1722 AD | **Mir Muhammad Amin Saadat Khan 'Burhan-ul-Mulk'** | **1801 AD:** Ceded half territory under Subsidiary Alliance;<br>**1856 AD:** Annexed by Dalhousie on grounds of *Maladministration* (Outram Report) |
+| **Nizam of Hyderabad** | 1724 AD | **Mir Qamaruddin Chin Qilich Khan 'Nizam-ul-Mulk'** | **1798 AD:** First Indian state to sign Wellesley's **Subsidiary Alliance** |
+| **Kingdom of Mysore** | 1761 AD | **Haidar Ali** | **1799 AD:** Fourth Anglo-Mysore War (Death of Tipu Sultan; Subsidiary Alliance imposed on minor Wodeyar) |
+| **Sikh Empire of Punjab** | 1792 AD | **Maharaja Ranjit Singh** | **1849 AD:** Lord Dalhousie annexed Punjab following Second Anglo-Sikh War |
+

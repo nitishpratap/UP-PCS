@@ -155,7 +155,7 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | Charter Act | **1853** | Proto-legislature; open ICS competition; no fixed renewal date |
 | GOI Act | **1858** | Crown rule (क्राउन शासन); Secretary of State; GG = Viceroy |
 | Indian Councils Act | **1861** | Portfolio system legalised; Indian nomination begins; Bombay/Madras legislatures restored |
-| Royal Titles Act | **1876** | Queen Victoria assumes the title of Empress of India (Kaiser-i-Hind) |
+| Royal Titles Act | **1876** | Queen Victoria assumes the title of Empress of India (Kaiser-i-Hind / Kaisar-i-Hind) |
 | Indian Councils Act | **1892** | Budget discussion + questions; indirect election without using the word “election” |
 | Indian Councils Act | **1909** | Muslim separate electorates; Sinha on Viceroy’s EC; no dyarchy |
 | GOI Act | **1919** | Provincial dyarchy; bicameral centre; Chamber of Princes; Simon clause |
@@ -279,6 +279,7 @@ British Parliament’s first serious attempt to regulate Company rule, passed af
 - Impeachment proceedings ran in Britain from **1788 to 1795** (charges pressed by **Edmund Burke**); he was **acquitted** in light of his service.
 - His rival in Council was **Philip Francis**.
 - He did **not** invent the Subsidiary Alliance.
+- Established **Sadar Diwani Adalat** and **Sadar Nizamat Adalat** (appellate courts) at Calcutta; auctioned the right to collect land revenue to the highest bidder (quinquennial settlement 1772); codified Hindu and Muslim laws, leading to N.B. Halhed's English translation of the Sanskrit code as ***A Code of Gentoo Laws*** (1776); wrote the introduction to the first English translation of the *Bhagavad Gita* by **Charles Wilkins** (1784).
 
 ### Wars and clashes under Hastings (Cause → Course → Result)
 
@@ -596,6 +597,9 @@ The single most important Act between 1773 and 1858 for **office structure**.
 - He set up a separate **Public Works Department** (about **1854**) and spent heavily on roads, canals and other works; earlier public works sat under the Military Board.
 - The Widow Remarriage Act of **1856** was drafted in his time and passed as Canning took over.
 - Later railway expansion peaked around **1900** under **Curzon**, but the **start** of passenger rail is Dalhousie.
+- Introduced the **Non-Regulation system** of centralized administrative control in newly acquired territories (Punjab, Lower Burma / Pegu); raised Gurkha regiments.
+- Recommended the **Thomsonian system of vernacular education** for the North-Western Provinces (1853); founded the first Engineering College at Roorkee (**Thomason College of Civil Engineering**).
+- Laid the basis of the modern postal system (**Post Office Act, 1854**) with uniform half-anna postage stamps; started the electric telegraph service (Calcutta to Agra); worked on the Grand Trunk Road and developed the harbours of Karachi, Bombay, and Calcutta.
 
 ### Wars and annexations under Dalhousie (Cause → Course → Result)
 
@@ -731,6 +735,7 @@ Passed directly in response to the **1857 Revolt**, this Act is the true hinge o
 - He began **financial decentralisation** (**Mayo's Resolution, 1870**): provinces gained charge of certain services (education, medical, roads) and could raise local taxes to balance budgets — the first clear split of central and provincial finance.
 - He founded **Mayo College at Ajmer (अजमेर)**, meant for the education of Indian princes.
 - He was **assassinated in 1872** by a convict, **Sher Ali Afridi**, while inspecting the Cellular Jail area on the **Andaman (अंडमान) Islands** — the only Viceroy murdered while in office.
+- Established the **Statistical Survey of India** (directed by W.W. Hunter); created the Department of Agriculture and Commerce; introduced State Railways.
 
 > **Logic:** Mayo = **1872 census start + financial decentralisation + Andaman assassination**. Regular census 1881 = Ripon.
 
@@ -753,7 +758,7 @@ Passed directly in response to the **1857 Revolt**, this Act is the true hinge o
 - He passed the **Vernacular Press Act in 1878**, also called the **Gagging / Silencing Act**, to curb criticism in Indian-language papers (S. N. Banerjee (बनर्जी) called it "lightning from the sky").
 - He also passed the **Arms Act in 1878**, making it a crime for most Indians to carry arms without a licence (Europeans largely exempt).
 - The **Great Famine** belongs to **1876–78**; the **Strachey Commission** and later Famine Codes grew from this crisis, and the **Famine Commission of 1880** followed — full famine teaching sits in the Administration and Economy chapter.
-- He lowered the maximum entry age for the ICS, making it harder for Indian candidates to qualify.
+- Lowered the maximum age limit for the Statutory Civil Service examination from 21 to 19 years (1878–79); pursued free trade, abolishing import duties on 29 British manufactured goods (accelerating drain of wealth during severe famine).
 
 ### Second Anglo-Afghan War, 1878–80 (Cause → Course → Result)
 
@@ -852,7 +857,8 @@ Passed directly in response to the **1857 Revolt**, this Act is the true hinge o
 - Archaeological work had older roots (**Asiatic Society 1784**; **Alexander Cunningham** as Archaeological Surveyor from **1861**; Survey made a separate body in **1871**). Under Curzon the **ASI** was integrated and centralised (**1901**); **John Marshall** became Director-General (**appointed 1901; took charge 1902**).
 - The **Ancient Monuments Preservation Act, 1904** provided for protection of monuments; Curzon allocated about **£50,000** for conservation.
 - The **Indian Universities Act** also belongs to **1904**, tightening government control over universities.
-- The Police Commission sat in **1902**. The **NWFP** was created in **1901**. The **Imperial Cadet Corps** was approved in **1901**.
+- The Police Commission sat in **1902** under **Sir Andrew Frazer (Fraser)**; Universities Commission under **Sir Thomas Raleigh** in **1902** (leading to Indian Universities Act 1904). The **NWFP** was created in **1901**. The **Imperial Cadet Corps** was approved in **1901**.
+- Set up Department of Commerce and Industry; passed Indian Coinage and Paper Currency Act (1899) putting India on gold standard; conceived the **Victoria Memorial** at Calcutta (foundation laid 1906, opened 1921).
 - The **Calcutta Municipal Act, 1899** (Mackenzie (मैकेंज़ी) Act) reduced elected Indian strength on the Corporation.
 - He pushed irrigation and resigned in **1905** after a clash with **Kitchener** over control of the army.
 - The **Younghusband mission** went to **Tibet in 1904**.

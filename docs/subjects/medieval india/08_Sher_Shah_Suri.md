@@ -2146,3 +2146,50 @@ D. Only 2 and 3
 17. **Hazrat-e-Ala** was an earlier title; **Sher Shah** followed **Chausa (1539)**, not Daurah (1532).
 18. **Qila-i-Kuhna** is **inside Purana Qila** — do not confuse with **Khayr-ul-Manazil** (Maham Anaga).
 19. **RO 2021** — Sher Shah's **qualities as ruler** (stmt 1) outlasted battlefield fame; he **did** leave admin legacy (stmt 2 false).
+
+
+---
+
+## Lucent GK Complete Comprehensive Reference & Direct Gap-Fill: Sur Empire & Sher Shah Suri (1540–1555 AD)
+
+### 1. Master Profile: Sher Shah Suri (1540–1545 AD)
+- **Early Life & Lineage:** Born as Farid Khan, son of Hasan Khan, the Afghan Jagirdar of **Sasaram (Bihar)**. Sultan Ibrahim Lodhi transferred his deceased father's jagir directly to him.
+- **Service Under Mughals & Lohanis:** In 1527–28 AD, he entered Babur's Mughal imperial service, mastering Mughal military tactics and administrative methods. Returned to South Bihar as deputy governor and personal guardian to the minor king **Jalal Khan Lohani** (son of Bahar Khan Lohani).
+- **Imperial Ambitions & Chunar Fort:** Usurped effective sovereign power in Bihar under the title ***Hazrat-i-Ala***. Masterfully acquired the impregnable gateway fortress of **Chunar** by marrying **Lad Malika**, the wealthy widow of Taj Khan (former governor of Chunar Fort).
+- **Triumph Over Humayun:**
+  - **Battle of Chausa (1539 AD):** Decisively defeated Mughal Emperor Humayun on the banks of the Karmanasa/Ganga; assumed the imperial title of **Sher Shah** as Emperor of Hindustan and struck coins in his name.
+  - **Battle of Kannauj / Bilgram (1540 AD):** Completely crushed Humayun's army, annexed Kannauj, expelled Humayun from India, and founded the **Second Afghan Empire (Sur Empire)**.
+- **Imperial Campaigns & Expansion (1540–1545 AD):**
+  - Conquered **Malwa** (1542 AD).
+  - Captured the strategic fort of **Ranthambhor** (1542 AD).
+  - Subdued **Raisen** (1543 AD) under Puranmal.
+  - Subjugated **Rajputana / Marwar** (1542–1544 AD) after the hard-fought Battle of Giri-Sumel against Rao Maldeo, famously remarking: *"For a handful of bajra (millet), I had nearly lost the empire of Hindustan"*.
+  - Captured the fortress of **Chittor** (1544 AD).
+  - Laid siege to the Bundelkhand fortress of **Kalinjar** (1545 AD) against Raja Kirat Singh; died tragically in **May 1545 AD** from a fatal gunpowder explosion during the siege.
+- **Dynastic Succession:** Succeeded by his capable son **Islam Shah Suri (1545–1554 AD)**, and subsequently by **Muhammad Adil Shah (1554–1555 AD)**, whose wazir Hemu was defeated at Second Panipat in 1556 AD.
+
+---
+
+### 2. Master Table: Administrative Hierarchy of the Sur Empire
+
+| Administrative Unit | Modern Equivalent | Presiding Executive Officials & Portfolios |
+| :--- | :--- | :--- |
+| **Iqta / Subah** | Province | **Hakim** (military governor / law & order) and **Amin** (revenue assessment) |
+| **Sarkar** | District | **Shiqdar-i-Shiqdaran** (chief executive / police) and **Munsif-i-Munsifan** (chief judicial officer / revenue cases) |
+| **Pargana** | Sub-District / Taluka | **Shiqdar** (law, order, and police) and **Munsif** (land measurement and revenue assessment) |
+| **Gram** | Village (lowest unit) | **Muqaddam** (village headman) and **Amil / Patwari** (revenue collector and village accountant) |
+
+---
+
+### 3. Key Administrative, Revenue, Currency & Public Works Reforms
+- **Standardized Currency:** Introduced the landmark pure silver coin called the ***Rupia*** (weighing 178 grains) and copper coin ***Dam*** (380 grains; 1 Rupia = 40 Dams), setting imperial monetary standards continued by the Mughals and British. Fixed uniform standard weights and measures across the realm.
+- **Highway Networks & Infrastructure:** Built monumental highways to integrate the empire militarily and commercially; reconstructed the historic **Grand Trunk Road (GT Road / *Sadak-i-Azam*)** running continuously from **Calcutta (Sonargaon in Bengal) to Peshawar (now in Pakistan)**. Constructed over 1,700 *Sarais* (caravanserais) at regular intervals of 2 kos with separate resting quarters for Hindus and Muslims.
+- **Military Garrisons & Cantonments:** Established permanent military cantonments throughout strategic frontier regions with strong standing garrisons; strictly enforced the *Dagh* (branding of horses) and *Chehra* (descriptive rolls of soldiers).
+- **Principle of Local Collective Responsibility:** Imposed the stern rule of **local responsibility for local crimes**: village headmen (*Muqaddams*) and local officials were held personally liable to produce culprits or pay financial compensation for robberies and murders within their jurisdiction.
+- **Agrarian Policy (The Ryotwari Precursor):**
+  - Meticulously measured all cultivated lands using the standardized measuring rope (***Jarib***) and *Sikandari Gaz*.
+  - Fixed the standard state tax demand at **1/3rd of the average agricultural produce** (payable in cash or kind, cash preferred).
+  - Granted peasants a legal title deed (***Patta***) stating land holdings and tax assessments, and obtained a signed deed of agreement (***Qabuliyat***) from peasants.
+  - Eliminated oppressive middleman zamindars, collecting taxes directly through official state machinery.
+- **Architecture & Mausoleum:** Built the imposing **Purana Qila** (Old Fort) at Delhi, housing the architectural gem **Qila-i-Kuhna Mosque**. Buried in a majestic red sandstone octagonal mausoleum standing on a stepped stone plinth in the middle of a grand artificial lake at **Sasaram (Bihar)**.
+

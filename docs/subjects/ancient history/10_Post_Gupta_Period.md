@@ -3478,3 +3478,102 @@ D. Bhitari pillar
 23. **Tripartite struggle = Harsha vs Pulakeshin** → later Pala–Pratihara–Rashtrakuta for Kannauj.
 24. **Shankaracharya’s four maths = Harsha foundations** → 8th-c. Advaita; not this file’s core.
 25. **Sung-yun = Fa-Hien under CG II** → ~518 Wei envoy, not Chandragupta II.
+
+
+---
+
+## Lucent GK Complete Comprehensive Reference & Direct Gap-Fill: Post-Gupta Period & Vardhana Dynasty (550 AD–647 AD)
+
+### 1. Pushyabhuti / Vardhana Dynasty (550 AD–647 AD)
+- **Origin & Seat:** Founded at **Thaneswar** (Karnal district, Haryana) by **Pushyabhuti** probably towards the beginning of the 6th century AD.
+- **Status:** Pushyabhutis were initially feudatories of the imperial Guptas, but assumed complete independence following the Hun (Huna) invasions.
+- **Prabhakaravardhana (580–605 AD):** The first important and powerful ruler of the dynasty.
+- **Rajyavardhana (605–606 AD):** Succeeded his father Prabhakaravardhana. Faced severe political crises immediately upon accession:
+  - **Grahavarman** (Maukhari ruler of Kannauj and husband of Rajyashri, sister of Rajyavardhana) was murdered by **Deva Gupta** (ruler of Malwa).
+  - Deva Gupta allied with **Shashanka** (ruler of Gauda or North-Western Bengal), occupied Kannauj, and imprisoned **Rajyashri**.
+  - Rajyavardhana marched against Deva Gupta and defeated/killed him, but was treacherously killed by **Shashanka** in 606 AD.
+  - In the chaos, Rajyashri escaped into the forests of Central India (Vindhyan forests).
+
+### 2. Harshavardhana (606–647 AD) — Reign & Achievements
+- **Accession & Harsha Era:** Ascended the Pushyabhuti throne in **606 AD** at the age of 16 following the murder of Rajyavardhana; also known as **Siladitya** (शीलादित्य). From 606 AD commenced the **Harsha Era (Harsha-samvat)**.
+- **Rescue of Rajyashri:** Harsha immediately entered the Vindhyan forests and rescued his widowed sister Rajyashri just as she was about to throw herself into a funeral pyre (commit Sati).
+- **Unification of Thaneswar and Kannauj:** Harsha drove out Shashanka from Kannauj. He unified the kingdoms of Kannauj and Thaneswar and transferred his capital to **Kannauj**, which made him the paramount ruler of Northern India.
+- **Conquest of Gauda & Magadha:** Harsha launched campaigns against Shashanka to avenge his brother and brother-in-law. Although the initial expedition was not entirely successful, after Shashanka's death (c. 637 AD), Harsha conquered Magadha and the entire Gauda empire in his second expedition.
+- **Western Campaign (Vallabhi):** Harsha defeated **Dhruvasena II**, the Maitraka ruler of Vallabhi. To secure the western border diplomatically, Harsha reinstated him, gave his daughter in marriage to Dhruvasena II, and Dhruvasena II accepted the status of a feudatory vassal.
+- **Deccan Campaign & Defeat at Narmada:** Harsha's southward expansion was decisively halted on the banks of the **Narmada** by **Pulakeshin II** of the Chalukya dynasty of Vatapi/Badami. This was the **only defeat** in Harsha's victorious life. Chalukya records extol Harsha as the *"Lord of the whole Northern Country"* (***Sakalottarapatheshvara*** / सकलोत्तरापथेश्वर).
+- **Empire Extent:** Extended over parts of Northern India, Eastern Rajasthan, Punjab, UP, Bihar, Bengal, Odisha, and the Ganges Valley up to Assam (allied with Bhaskaravarman of Kamarupa).
+- **Diplomatic Relations with China:**
+  - In **641 AD**, Harsha dispatched an embassy/envoy to **Tai-Tsung**, the Tang Emperor of China.
+  - Subsequently, three Chinese diplomatic missions visited Harsha's court.
+- **Hiuen-Tsang (Xuanzang) in Harsha's Dominions:**
+  - Celebrated Chinese Buddhist pilgrim who visited India during Harsha's reign.
+  - Spent approximately **8 years (635–643 AD)** residing directly within Harsha's dominions.
+- **Two Celebrated Assemblies:**
+  1. **Kannauj Assembly (643 AD):** Held in special honour of Hiuen-Tsang and to propagate and popularise the **Mahayana** sect of Buddhism.
+  2. **Prayaga Assembly (643–644 AD):** Quinquennial religious festival celebrated every 5 years at the sacred confluence (*Triveni Sangam*) of the Ganga, Yamuna, and Saraswati. Harsha gave away enormous wealth in charity; traditionally regarded as the historic beginning of the **Kumbha Mela / Kumbha Fair**.
+- **Religious Stance & Nalanda Patronage:**
+  - Harsha was initially a devout **Shaiva** by personal faith, but showed deep and equal reverence to all sects. Hiuen-Tsang depicts him as a liberal patron of Mahayana Buddhism.
+  - According to Hiuen-Tsang, **Nalanda University** (meant for Buddhist monks) was maintained through the revenues of **200 villages** granted directly by Harshavardhana.
+- **Death & Usurpation (647 AD):** Harsha died in 647 AD without leaving any direct heir. His throne was usurped by his minister named **Arunashva** (who later opposed the Chinese mission under Wang Xuance).
+- **Literary Accomplishments & Court Scholars:**
+  - Harsha was himself an accomplished Sanskrit author and dramatist who composed three classic plays:
+    1. ***Nagananda*** (नागानन्द — Buddhist themes)
+    2. ***Ratnavali*** (रत्नावली)
+    3. ***Priyadarsika*** (प्रियदर्शिका)
+  - Circle of eminent court scholars:
+    - **Banabhatta:** Wrote ***Harshacharita*** (first formal historical prose biography / akhyayika in Sanskrit) and ***Kadambari*** (celebrated lyrical prose romance).
+    - **Bhartrihari:** Authored the celebrated triad ***Shatakatrayi*** (शतकत्रयी): *Niti Shataka*, *Shringar Shataka*, and *Vairagya Shataka*.
+- **Nature of Administration:** Followed the structural lines of the imperial Guptas, but administrative machinery was noticeably **more feudal and decentralised** with extensive reliance on *Mahasamantas*.
+
+---
+
+### 3. States of the Deccan and South India
+
+#### Chalukyas of Vatapi / Badami (543–755 AD)
+- **Rise & Seat:** Followed the decline of the Vakatakas; established their capital at **Vatapi (modern Badami)** in Bijapur district, Karnataka.
+- **Pulakeshin II (609–642 AD):**
+  - Greatest ruler; repulsed Harsha's invasion on the Narmada River.
+  - **Aihole Inscription:** A poetic eulogy (*Prashasti*) composed in Sanskrit by his court poet **Ravikirti** on the Meguti Jain temple at Aihole.
+  - International diplomacy: Dispatched an embassy to the Persian Sassanid King **Khusrau II** in **625 AD** and received a reciprocal Persian embassy in return.
+  - Hiuen-Tsang visited Pulakeshin II's kingdom and left glowing accounts of his power and prosperity.
+  - **Fall:** Pallava monarch **Narasimhavarman I 'Mamalla'** invaded the Chalukya kingdom, killed Pulakeshin II, and sacked Vatapi in **642 AD**, assuming the victory title of ***Vatapikonda*** ("Conqueror of Vatapi").
+  - **Overthrow:** In **757 AD**, the Chalukyas of Vatapi were overthrown by their own feudatories, the **Rashtrakutas** under Dantidurga.
+- **Vesara / Deccan Temple Architecture:**
+  - Chalukyas pioneered the hybrid **Vesara style** (Deccan style) of structural temple architecture, which later reached its climax under the Rashtrakutas and Hoysalas.
+  - **Aihole ("Town of Temples"):** Contains around 70 structural temples.
+    - *Vesara style:* Jinendra / Meguti temple (by Ravikirti), Vishnu temple, Ladh Khan temple (attributed to Surya), and the Durga temple.
+  - **Pattadakal Temples:**
+    - *Nagara style:* **Papanatha temple**.
+    - *Dravida style:* **Virupaksha temple** and **Sangamesvara temple**.
+
+#### Pallavas of Kanchi (575–897 AD)
+- **Origin & Capital:** Indigenous power based in **Tondaimandalam** ("land of creepers"); orthodox Brahmanical Hindus with capital at **Kanchi (Kanchipuram)**.
+- **Conflict with Chalukyas:** Ongoing struggle for hegemony over the fertile doab between the **Krishna and Tungabhadra** rivers.
+- **Narasimhavarman I (630–668 AD):** Sacked Vatapi in 642 AD, defeated Pulakeshin II, and assumed the title ***Vatapikonda***.
+- **Spread of Indian Culture to South-East Asia:** Instrumental in maritime cultural diffusion. Until the 8th century AD, Pallava cultural and architectural influence was predominant in **Cambodia (Kambuja)**. The characteristic Pallava-type *Shikhara* is clearly visible in ancient temples across **Java, Cambodia, and Annam (Vietnam)**.
+- **Pallava Architectural Evolution (Four Successive Stages of Dravida Style):**
+  1. **Mahendravarman Group (600–630 AD):** Rock-cut cave shrines. Examples: Cave temples at **Bhairavkona** (North Arcot district) and **Ananteswar temple at Undavalli** (Guntur district).
+  2. **Mamalla Group (Narasimhavarman I 'Mamalla', 630–668 AD):** Monolithic rock-cut shrines — **Mandapas** and monolithic **Rathas** (*Sapta Pagodas* / Seven Pagodas) at **Mamallapuram (Mahabalipuram)**.
+  3. **Rajasimha Group (Narasimhavarman II 'Rajasimha', 680–720 AD):** Structural stone temples. Examples: **Kailashnatha temple** and **Vaikuntha Perumal temple** at Kanchi; **Shore Temple** at Mamallapuram.
+  4. **Aparajita Group (Nandivarman 'Aparajita', 879–897 AD):** Climax of Pallava architecture before Cholas. Examples: **Mukteshwar temple** and **Matangeshwar temple** at Kanchi; **Parashurameswara temple** at Gudimallam.
+- **Pallava Sculpture:** Strongly influenced by Buddhist monumental tradition; linear and monumental without excessive Deccan ornamentation. Masterpiece: ***Descent of the Ganges*** (also interpreted as ***Arjuna's Penance***) at Mamallapuram.
+
+---
+
+### 4. Master Table: Gupta & Post-Gupta Dynasties and Their Founders
+
+| Dynasty | Capital / Region | Founder | Key Historical Fact |
+| :--- | :--- | :--- | :--- |
+| **The Chalukyas of Vatapi** | Vatapi / Badami (Karnataka) | **Jayasimha** | Pulakeshin II stopped Harsha at Narmada; Aihole inscription |
+| **The Gangas of Talakad** | Talakad (Southern Karnataka) | **Konkanivarma** | Western Ganga dynasty of southern Deccan |
+| **The Guptas of Magadha** | Pataliputra / Magadha | **Shri Gupta** | Predecessor of Ghatotkacha and Chandragupta I |
+| **The Kadambas of Vanavasi** | Vanavasi / Banavasi (Karnataka) | **Mayurasharman** | Brahmanical house established in western Deccan |
+| **The Kingdom of Gauda** | Karnasuvarna (Bengal) | **Shashanka** | Anti-Buddhist ruler who killed Rajyavardhana in 606 AD |
+| **The Kingdom of Thaneswar** | Thaneswar (Haryana) | **Pushyabhuti** | Vardhana dynasty; fatherland of Harshavardhana |
+| **The Later-Guptas of Magadha-Malwa** | Magadha and Malwa | **Krishnagupta** | Ruled eastern gangetic plain; distinct from imperial Guptas |
+| **The Maitrakas of Vallabhi** | Vallabhi (Saurashtra, Gujarat) | **Bhatarka** | Senapati Bhatarka; famous Buddhist learning centre |
+| **The Maukharis of Kannauj** | Kannauj (Uttar Pradesh) | **Yajnavarman** | Feudatories turned sovereigns; Haraha inscription (Ishanavarman) |
+| **The Pallavas of Kanchi** | Kanchi / Kanchipuram (Tamil Nadu) | **Simhavarman** | Established Dravidian temple architecture; rivals of Chalukyas |
+| **The Pandyas of Madurai** | Madurai (Tamil Nadu) | **Kadungon (Kodungon)** | Revived Pandya power post-Kalabhra interregnum |
+| **The Vakatakas** | Vidarbha / Deccan | **Vindhyashakti** | Contemporary of imperial Guptas; matrimonial ties with CG II |
+

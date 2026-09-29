@@ -4728,3 +4728,92 @@ D. Sahukars / moneylenders — principal all-India rebel high command
 32. **Peel Commission = education / ICS** → **army reorganisation** after 1857.
 33. **Max help to British = Holkar alone** → **Scindias of Gwalior** (with Dinkar Rao) are the usual max-help key.
 34. **Tatya Tope = Nana Sahib’s real name** → Tatya = **Ramchandra Pandurang**; Nana = **Dhondho Pant**.
+
+
+---
+
+## Lucent GK Complete Comprehensive Reference & Direct Gap-Fill: The Great Revolt of 1857
+
+### 1. Master Table: Major Centres, Leadership & British Suppressors of the 1857 Revolt
+
+| Centre of Revolt | Beginning Date | Ending Date (Suppressed) | Principal Indian Leader(s) | British Military Suppressor |
+| :--- | :--- | :--- | :--- | :--- |
+| **Delhi** | **11 May 1857** | **20 September 1857** | **Bahadur Shah II 'Zafar'** and **General Bakht Khan** (Commanding General) | **John Nicholson** (mortally wounded), Lieutenant Willoughby, Lieutenant Hudson |
+| **Kanpur** | **4 June 1857** | **6 December 1857** | **Nana Sahib** (Dhundhu Pant) and **Tatya Tope** (Ramchandra Pandurang) | **Sir Colin Campbell** and General Havelock |
+| **Lucknow** | **4 June 1857** | **21 March 1858** | **Begum Hazrat Mahal** (and minor son Birjis Qadr) | **Sir Colin Campbell**, Henry Lawrence (killed), General Outram |
+| **Jhansi** | **4 June 1857** | **18 June 1858** | **Rani Laxmi Bai** (and later Tatya Tope at Gwalior) | **Sir Hugh Rose** |
+| **Allahabad** | **5 June 1857** | **March 1858** | **Maulvi Liyaqat Ali** | **Colonel James Neill** |
+| **Jagdishpur (Bihar)** | **August 1857** | **December 1858** | **Kunwar Singh** and brother **Amar Singh** | **William Taylor and Vincent Eyre** |
+
+---
+
+### 2. Landmark Biographies, Outcomes & Regional Leaders
+- **Fates of the Foremost Leaders:**
+  - **Bahadur Shah II 'Zafar':** Captured at Humayun's Tomb by Lieutenant Hudson; sons Mirza Mughal, Mirza Khizr Sultan, and grandson Mirza Abu Bakr shot dead; tried and deported to **Rangoon (Burma) in 1858**, where he passed away in **1862 AD**.
+  - **Nana Sahib (Original name: Dhundhu Pant), Begum Hazrat Mahal, and Khan Bahadur Khan:** Refused surrender and escaped across the border into the forests of **Nepal**.
+  - **Tatya Tope (Original name: Ramchandra Pandurang):** Continued relentless guerrilla warfare in the forests of Central India; betrayed by his trusted associate **Man Singh** of Narwar; captured and executed on the gallows at **Shivpuri on 15 April 1859 AD**.
+  - **Rani Laxmi Bai (Manikarnika):** Fell heroically fighting in battle on **18 June 1858 AD** at Kota-ki-Serai near Gwalior. Her adversary, **Sir Hugh Rose**, paid glowing tribute, describing her as: *"the best and bravest military leader of the rebel"*.
+  - **Babu Kunwar Singh:** Hero of Arrah/Jagdishpur; severely wounded while crossing the Ganga, amputated his own arm, and passed away undefeated on **26 April 1858 AD**; struggle carried on by his brother Amar Singh.
+- **Prominent Regional Sub-Centres & Leaders:**
+  - **Bareilly (Rohilkhand):** **Khan Bahadur Khan** (proclaimed himself Nawab/Viceroy).
+  - **Faizabad (Awadh):** **Maulvi Ahmadullah Shah** (champion of Jihad against British rule; killed at Powayan).
+  - **Fatehpur:** **Azimullah Khan** (prime minister / adviser to Nana Sahib).
+  - **Mathura:** **Devi Singh**.
+  - **Meerut:** **Kadam Singh**.
+- **Pacification:** Complete British authority was systematically re-established across northern and central India between **July and December 1858 AD**.
+
+---
+
+### 3. Historiographical Debate & Contemporary Perspectives on the Revolt
+
+#### Master Table: Classic Interpretations & Opinions
+
+| Perspective / Ideological School | Proponents / Scholars | Definitive Scholarly Quotes / Theses |
+| :--- | :--- | :--- |
+| **"Selfish Sepoy Mutiny"** (British Official / Loyalist View) | Sir John Lawrence, Sir John Seeley, T.R. Holmes, Malleson, Syed Ahmed Khan, Munshi Jeevan Lal, Durgadas Bandyopadhyaya | **Sir John Seeley:** *"It was wholly unpatriotic and selfish Sepoy Mutiny with no native leadership and no popular support."* |
+| **"Neither First, Nor National, Nor War of Independence"** | **Dr. R.C. Majumdar** | **R.C. Majumdar:** *"The so-called First National War of Independence is neither 'First', nor 'National', nor 'a war of Independence'."* |
+| **"The First War of Indian Independence"** | **Vinayak Damodar (V.D.) Savarkar**, Karl Marx | **V.D. Savarkar:** *"The Revolt of 1857 was the First War of Independence."* |
+| **"National Revolt Rooted in Deep Mistrust"** | **Benjamin Disraeli** (Tory Opposition Leader in British Parliament) | **Benjamin Disraeli:** *"A national revolt rooted in deep mistrust, not a mere military mutiny."* |
+| **"From Religious Conflict to War of Independence"** | **Dr. S.N. Sen** (Official Centenary Historian) | **S.N. Sen:** *"What began as a fight for religion ended as a war for independence."* |
+| **Racial Conflict ("Black vs White")** | Captain Medley | A clash between the white master race and black native subjects |
+| **Religious War ("Hindu-Muslim vs Christianity")** | L.E.R. Rees | A fanatical crusade of Hindu and Muslim orthodoxy against the spread of Christianity |
+| **Civilization vs Barbarism** | T.R. Holmes | A conflict between civilization (British order) and barbarism (native rebellion) |
+| **Hindu-Muslim Conspiracy** | Sir James Outram and William Taylor | A premeditated political conspiracy engineered jointly by Hindu and Muslim elites exploiting military discontent |
+
+#### Master Table: Authoritative Historical Treatises on the 1857 Revolt
+
+| Year | Title of the Treatise | Author | Key Historical Significance |
+| :--- | :--- | :--- | :--- |
+| **1859** | ***The First Indian War of Independence 1857–59*** | **Karl Marx** (and Friedrich Engels) | Dispatched as contemporary journalistic analyses for the *New York Daily Tribune* |
+| **1873** | ***Causes of the Indian Revolt*** (*Asbab-e-Baghawat-e-Hind*) | **Sir Sayed Ahmad Khan** | First candid Indian insider analysis highlighting lack of Indian representation in councils |
+| **1909** | ***The Indian War of Independence — 1857*** | **V.D. Savarkar** | Published in London; banned by the British government; nationalistic manifesto |
+| **1957** | ***The Sepoy Mutiny and the Rebellion of 1857*** | **Dr. R.C. Majumdar** | Rigorous critical empirical study analyzing lack of national consciousness |
+| **1957** | ***Civil Rebellion in the Indian Mutinies (1857–1859)*** | **Dr. S.B. Chaudhuri** | Pioneering study exploring mass civilian, peasant, and talukdari rebellion beyond the army |
+| **1957** | ***Rebellion, 1857: A Symposium*** | **P.C. Joshi** | Marxist sociological analysis of peasant and feudal components of 1857 |
+| **1957** | ***Eighteen Fifty-Seven*** (1857) | **Dr. S.N. Sen** | Official history sponsored by the Government of India with a foreword by Maulana Abul Kalam Azad |
+
+---
+
+### 4. Causes of Failure & Historical Significance
+- **Four Core Causes of Failure:**
+  1. Chronic **disunity among Indians and lack of cohesive central organization** and singular military command.
+  2. Complete **absence of modern pan-Indian nationalism**: major ruling dynasties (**Scindias of Gwalior, Holkars of Indore, the Nizam of Hyderabad, the Nawab of Bhopal, Rajput rulers of Jodhpur, and Sikh chiefs of Patiala/Jind**) actively aided the British army.
+  3. Total lack of tactical coordination between mutinous sepoys, rural peasants, displaced zamindars, and regional princes.
+  4. Fragmented, localized, and divergent socio-political motives among disparate participating groups.
+- **Enduring Historical Significance:**
+  - Exemplified an unprecedented, inspiring demonstration of **complete Hindu-Muslim unity and patriotic solidarity** devoid of communal rancor.
+  - Commencing as an army mutiny, it rapidly transformed into a ferocious popular war against foreign imperial domination.
+  - As memorably remarked: *"Julius Caesar dead was more powerful than Julius Caesar alive. The same may be said about the Revolt of 1857 — it became an eternal shining beacon for the rise and growth of the Indian National Movement."*
+
+---
+
+### 5. Eight Major Impacts of the 1857 Revolt
+1. **Abolition of Company Rule:** In August 1858, the British Parliament enacted the **Government of India Act, 1858** (*Act for the Better Government of India*), terminating the sovereign political rule of the English East India Company and transferring sovereign authority directly to the **British Crown**.
+2. **Creation of Secretary of State for India:** Created a cabinet minister of the British Government styled the **Secretary of State for India**, assisted by a 15-member advisory Council of India in London.
+3. **Introduction of the Title of Viceroy:** The Governor-General of India was designated the **Viceroy of India** (acting as direct personal representative of the British monarch), with Lord Canning serving as the first Viceroy.
+4. **End of Territorial Annexations:** The era of British territorial expansion ended; native Princely States were assured against future territorial annexations; the hated **Doctrine of Lapse was permanently withdrawn**.
+5. **Policy of Divide and Rule:** The British colonial apparatus systematically pursued conscious communal counterpoise and the deliberate policy of *"Divide and Rule"* between communities and castes.
+6. **Military Reorganization (Peel Commission):** Proportions of European troops in the Indian army were drastically increased (1:2 in Bengal Presidency; 1:3 in Madras and Bombay Presidencies); native artillery was completely abolished; recruitment was biased toward *"martial races"* (Sikhs, Gurkhas, Pathans) who had stayed loyal.
+7. **Severe Financial Burden:** The entire colossal financial cost of suppressing the Revolt (approximately £40 million) was unjustly levied upon the impoverished Indian taxpayer.
+8. **Permanent Ideological Alienation:** Established an unbridgeable social and racial gulf of mutual suspicion and bitterness between British rulers and Indian subjects.
+

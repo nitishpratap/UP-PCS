@@ -4781,3 +4781,91 @@ D. Prarthana Samaj — Bombay, 1867
 34. **Age of Consent = Tilak supported** → **Malabari** advocated; **Tilak opposed**.
 35. **Bahujan Samaj = Ambedkar 1910** → **Mukund Rao Patil** stream; Ambedkar is later/different bodies.
 36. **Ramakrishna Mission founded by Ramakrishna** → founded by **Vivekananda, 1897**.
+
+
+---
+
+## Lucent GK Complete Comprehensive Reference & Direct Gap-Fill: Socio-Religious Movements (19th–20th Centuries)
+
+### 1. Master Table: Chronology of Socio-Religious Reform Organizations
+
+| Year | Place | Name of Organization | Founder(s) | Key Ideological Objective |
+| :--- | :--- | :--- | :--- | :--- |
+| **1815** | Calcutta | **Atmiya Sabha** | **Raja Rammohan Roy** | Monotheistic philosophical society; opposed idolatry and caste rigidity |
+| **1828** | Calcutta | **Brahmo Samaj** (*Brahmo Sabha*) | **Raja Rammohan Roy** | Worship of the formless supreme Brahman; fought Sati, polytheism, and priestcraft |
+| **1829** | Calcutta | **Dharma Sabha** | **Radhakant Deb** | Conservative orthodox Hindu body formed to oppose the abolition of Sati |
+| **1839** | Calcutta | **Tattvabodhini Sabha** | **Debendranath Tagore** | Promoted systematic inquiry into ancient Indian wisdom; published *Tattvabodhini Patrika* |
+| **1840** | Punjab | **Nirankaris** | **Baba Dayal Das, Darbara Singh, Rattan Chand** | Sikh reform sect emphasizing the worship of the formless God (*Nirankar*) |
+| **1844** | Surat | **Manav Dharma Sabha** | **Durgaram Mancharam, Dadoba Pandurang** | Fought superstition, witchcraft, and rigid caste orthodoxy in Gujarat |
+| **1849** | Bombay | **Paramhansa Mandali** | **Dadoba Pandurang, Durgaram Mancharam** | Secret reform society in Maharashtra fighting caste barriers and idol worship |
+| **1857** | Punjab (Bhaini) | **Namdharis (Kukas)** | **Baba Ram Singh** | Sikh revitalization sect; advocated strict vegetarianism, Swadeshi, and boycott |
+| **1861** | Agra | **Radha Swami Satsang** | **Tulsi Ram (Shiv Dayal Saheb / Soamiji Maharaj)** | Devotional satsang tradition based on Surat Shabd Yoga and devotion to the Guru |
+| **1866** | Calcutta | **Brahmo Samaj of India** | **Keshab Chandra Sen** | Radical split from Adi Brahmo Samaj; universalist and cosmopolitan in outlook |
+| **1866** | Deoband (Saharanpur) | **Dar-ul-Uloom (Deoband)** | **Muhammad Qasim Nanautavi, Rashid Ahmad Gangohi, Maulana Hussain Ahmed** | Orthodox Islamic revivalist madrasa; opposed Western education and British rule |
+| **1867** | Bombay | **Prarthana Samaj** | **Dr. Atmaram Pandurang** (joined by **M.G. Ranade** in 1870) | Theistic liberal reform movement in Maharashtra; social reform and education |
+| **1875** | Bombay | **Arya Samaj** | **Swami Dayanand Saraswati** | *"Back to the Vedas"*; opposed idol worship, caste by birth, and child marriage; *Shuddhi* |
+| **1875** | New York (USA) | **Theosophical Society** | **Madam H.P. Blavatsky and Col. H.S. Olcott** | Esoteric universal brotherhood; revived Hindu/Buddhist occultism; HQ moved to Adyar (1882) |
+| **1878** | Calcutta | **Sadharan Brahmo Samaj** | **Anand Mohan Bose, Shibnath Shastri** | Formed following schism over Keshab Sen's daughter's minor marriage to Cooch Behar prince |
+| **1884** | Pune | **Deccan Education Society** | **G.G. Agarkar, B.G. Tilak, M.G. Ranade, V.K. Chiplunkar** | Established Fergusson College (1885) to spread modern autonomous national education |
+| **1886** | Aligarh | **Muhammadan Educational Conference** | **Sir Syed Ahmad Khan** | Annual intellectual conference promoting modern scientific English education among Muslims |
+| **1887** | Bombay | **Indian National Social Conference** | **M.G. Ranade and Raghunath Rao** | Social reform counterpart of the INC; launched the historic **"Pledge Movement"** against child marriage |
+| **1887** | Lahore | **Deva Samaj** | **Shivnarayan Agnihotri** | Religious and moral reform society advocating ethical conduct and devotion to the Guru |
+| **1894** | Lucknow | **Nadwah-ul-Ulama** | **Maulana Shibli Numani, Maulana Abdul Hai** | Reformist Islamic educational council attempting to bridge Western science with traditional theology |
+| **1897** | Belur (Calcutta) | **Ramakrishna Mission** | **Swami Vivekananda** | Philanthropic spiritual organisation registered as a Trust; humanitarian service (*Daridra Narayana*) |
+| **1905** | Bombay | **Servants of India Society** | **Gopal Krishna Gokhale** | Trained dedicated national cadres for selfless constitutional public service |
+| **1909** | Pune | **Poona Seva Sadan** | **Mrs. Ramabai Ranade and G.K. Devadhar** | Dedicated to women's professional empowerment, nursing, and destitute welfare |
+| **1911** | Bombay | **Social Service League** | **N.M. Joshi** | Social and civic uplift of industrial mill workers, night schools, and dispensaries |
+| **1914** | Allahabad | **Seva Samiti** | **Hriday Nath Kunzru (H.N. Kunzru)** | Scout movement, civic social service during religious fairs (Kumbh Mela), and disaster relief |
+
+---
+
+### 2. Master Profiles: Foremost Socio-Religious Reformers
+- **Swami Sahajanand (1781–1830 AD):**
+  - Original name: **Ghanashyama**; founded the theistic **Swaminarayan Sect** in Gujarat.
+  - Promulgated a rigorous non-violent ethical code for his householder and monastic followers (*Shikshapatri*), combating female infanticide and Sati.
+- **Raja Rammohan Roy (1772–1833 AD):**
+  - Born in 1772 at **Radhanagar in Burdwan district (Bengal)**; acclaimed as the *"Father of Modern India"* and *"Father of the Indian Renaissance"*.
+  - Founded **Atmiya Sabha (1815)**; established the **Brahmo Sabha in August 1828** (renamed **Brahmo Samaj**).
+  - Launched an unyielding crusade against the barbaric custom of Sati through his Bengali weekly journal ***Sambad Kaumudi*** (1819) and Persian journal *Mirat-ul-Akhbar*, culminating in Lord William Bentinck's **Sati Regulation XVII of 1829**.
+  - Conferred the title ***'Raja'*** by Mughal Emperor Akbar II, who sent him as an imperial envoy to England in 1830; passed away at **Bristol (England) in 1833**.
+- **Debendranath Tagore (1817–1905 AD):**
+  - Assumed leadership of the Brahmo movement following Roy's death; founded the **Tattvabodhini Sabha in 1839** and published the Bengali monthly ***Tattvabodhini Patrika***.
+  - Amalgamated the Tattvabodhini Sabha with the Brahmo Samaj in 1859.
+  - Compiled core moral passages from the Upanishads into the seminal theological text ***Brahma Dharma***.
+- **Keshab Chandra Sen (1838–1884 AD):**
+  - Dynamic orator who expanded the Brahmo Samaj beyond Bengal into Bombay, Madras, and UP. Started ***Bamabodhini Patrika***, a dedicated monthly journal for women.
+  - Championed radical social reforms: renunciation of caste titles, inter-caste marriages, and widow remarriages.
+  - Precipitated the **First Schism in the Brahmo Samaj (1866)**: the conservative original branch became known as the ***Adi Brahmo Samaj*** (under Debendranath), while the radical progressive faction formed the ***Brahmo Samaj of India*** (under Keshab).
+  - Formed the **Indian Reform Association in 1870**, persuading the British government to enact the **Native Marriage Act of 1872** (Civil Marriage Act), legalizing inter-caste Brahmo marriages and fixing the minimum marriageable age at 14 for girls and 18 for boys.
+- **Dr. Atmaram Pandurang (1823–1898 AD):**
+  - Founded the **Prarthana Samaj in 1867** at Bombay following Keshab Chandra Sen's tour; revitalized when celebrated jurist **Justice M.G. Ranade joined in 1870**. Focused on inter-dining, inter-caste marriage, widow remarriage, and female education.
+- **Swami Dayanand Saraswati (1824–1883 AD):**
+  - Born as **Mula Shankar** in Tankara (Gujarat); disciple of blind sage Swami Virjanand of Mathura.
+  - Founded the **Arya Samaj on 10 April 1875 in Bombay** (headquarters shifted to Lahore in 1877).
+  - Raised the historic clarion call: ***"Go Back to the Vedas"*** (*Vedo ki or lauto*); asserted that the four Vedic Samhitas alone constitute infallible divine revelation.
+  - Authored the landmark Hindi treatise ***Satyartha Prakash*** ("The Light of Truth", 1875) and ***Veda-Bhashya Bhumika***.
+  - First to popularize the concept of ***Swaraj*** ("India for Indians") and advocate Hindi as the national link language.
+- **Madam H.P. Blavatsky & Col. H.S. Olcott:**
+  - Madam Blavatsky (Russian noblewoman) and Colonel Olcott (American officer) founded the **Theosophical Society in New York in 1875**.
+  - Relocated the international headquarters to **Adyar near Madras in 1882**, popularizing ancient Indian philosophy, karma, and reincarnation globally.
+- **Swami Vivekananda (1863–1902 AD):**
+  - Born as **Narendranath Datta**; foremost disciple of the mystic saint Ramakrishna Paramahamsa of Dakshineswar.
+  - Captured international acclaim at the **World Parliament of Religions in Chicago (11 September 1893)**.
+  - Founded the **Ramakrishna Mission on 1 May 1887** at Baranagar, formally registered as a philanthropic Trust at **Belur Math in 1897**. Emphasized practical Vedanta and active social service (*"Service to Jiva is Service to Shiva"*).
+
+---
+
+### 3. Master Table: Lower Caste, Anti-Caste & Backward Class Movements
+
+| Movement / Organization | Year | Place / Region | Founder / Key Leaders | Core Social Objective |
+| :--- | :--- | :--- | :--- | :--- |
+| **Satya Shodhak Samaj** (*Truth-Seekers' Society*) | **1873** | Maharashtra (Pune) | **Jyotiba Govindrao Phule** | Challenged Brahmanical supremacy; fought for the socio-educational liberation of Shudras and Ati-Shudras; authored *Gulamgiri* |
+| **Aravippuram Movement** | **1888** | Kerala (Aravippuram) | **Shri Narayana Guru** | Defied caste bans by consecrating a Shiva stone idol; proclaimed: *"One Caste, One Religion, One God for Man"* (*Oru Jathi, Oru Matham, Oru Daivam Manushyanu*) |
+| **SNDP Yogam** (*Shri Narayana Dharma Paripalana Yogam*) | **1902–1903** | Kerala | **Shri Narayana Guru, Dr. Palpu, Kumaran Asan** | Socio-political and educational mobilization of the depressed Ezhava community; fought untouchability and temple entry bans |
+| **The Depressed Class Mission Society** (The Depressed Classes Mission Society) | **1906** | Bombay | **Vithal Ramji Shinde (V.R. Shinde)** | Organized schools, hostels, and free dispensaries for the education and civic rights of untouchables |
+| **Bahujan Samaj** | **1910** | Satara (Maharashtra) | **Mukundrao Patil and Shankarrao Jadhav** | Anti-Brahmin and anti-moneylender political mobilization representing the non-Brahmin peasant masses (*Bahujans*) |
+| **Justice Party Movement** (*South Indian Liberal Federation*) | **1915–1916** | Madras Presidency | **C.N. Mudaliar, Dr. T.M. Nair, P. Tyagaraja Chetty** | Non-Brahmin manifesto protesting Brahmanical monopoly in civil services and legislative councils; formed government in Madras |
+| **Depressed Class Welfare Institute** (*Bahiskrit Hitkarini Sabha* / *Bahishkrit Hitkarini Sabha* / *Bahishkrit Hitakarini Sabha*) | **1924** | Bombay | **Dr. B.R. Ambedkar** | Apex organization with the motto: *"Educate, Agitate, Organize"*; spearheaded the Mahad Satyagraha (1927) for public water rights |
+| **Self-Respect Movement** (*Suya Mariyadhai Iyakkam*) | **1925** | Tamil Nadu | **E.V. Ramaswami Naicker ('Periyar')** | Radical rationalist anti-Brahmin movement; advocated self-respect marriages without priests, burning of Manusmriti, and Tamil cultural pride |
+| **Harijan Sevak Sangh** | **1932** | Pune / Delhi | **Mahatma Gandhi** (President: Ghanshyam Das Birla) | Formed following the Poona Pact to eradicate untouchability, promote sanitation, and open wells and temples to Harijans |
+

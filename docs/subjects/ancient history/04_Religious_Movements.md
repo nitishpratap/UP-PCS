@@ -23,7 +23,7 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 4. Buddhist Councils in order are **Rajagriha → Vaishali → Pataliputra → Kundalvana** (राजगृह → वैशाली → पाटलिपुत्र → कुण्डलवन). Remember place order, not a bare code.
 5. The **Tripitaka** (त्रिपिटक) has three baskets: **Vinaya** (विनयपिटक - monk rules), **Sutta** (सुत्तपिटक - discourses), and **Abhidhamma** (अभिधम्मपिटक - philosophy).
 6. The Second Council split produced **Sthaviravada** (स्थविरवाद - elders) and **Mahasanghika** (महासंधिक - great assembly). **Theravada** (थेरवाद / विभज्जवाद) is the surviving Hinayana line linked with the Third Council.
-7. **Sarvastivada** (सर्वास्तिवाद) teaches *sarvam asti*, uses **Sanskrit**, and is tied to the Fourth Council at **Kundalvana**. **Vaibhashika** (वैभाषिक) trusts Abhidharma; **Sautrantika** (सौत्रांतिक) trusts sutra only.
+7. **Sarvastivada** (सर्वास्तिवाद) teaches *sarvam asti*, uses **Sanskrit**, and is tied to the Fourth Council at **Kundalvana**. **Vaibhasika (Vaibhashika)** (वैभाषिक) trusts Abhidharma; **Sautrantika** (सौत्रांतिक) trusts sutra only.
 8. **Hinayana** (हीनयान) aims at the **arhat** (अर्हत्) and uses Pali. **Mahayana** (महायान) elevates the **bodhisattva** (बोधिसत्व) ideal and uses Sanskrit. **Vajrayana** (वज्रयान) adds tantra and mantra (Padmasambhava toward Tibet).
 9. Mahayana philosophy facts: **Madhyamaka** (माध्यमिक / शून्यवाद) of **Nagarjuna** (नागार्जुन) and **Yogacara** (योगाचार / विज्ञानवाद) of **Asanga–Vasubandhu** (असंग एवं वसुबन्धु). Do not confuse Nagarjuna with **Nagasena** (नागसेन).
 10. Major bodhisattvas: **Avalokiteshvara / Padmapani** (अवलोकितेश्वर / पद्मपाणि - compassion), **Manjushri** (मंजुश्री - wisdom), **Vajrapani** (वज्रपाणि - power), **Maitreya** (मैत्रेय - future Buddha), and **Tara** (तारा).
@@ -195,7 +195,7 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
 | *Milinda Panha* | **Menander (Milinda)** and **Nagasena** | Indo-Greek Buddhist dialogue |
-| *Buddhacharita* (बुद्धचरित) | **Ashvaghosha** (अश्वघोष) | Sanskrit Buddha-life; Kanishka age |
+| *Buddha Charita* (*Buddhacharita*) (बुद्धचरित) | **Ashvaghosha** (अश्वघोष) | Sanskrit Buddha-life; Kanishka age |
 | *Saundarananda* (सौंदरानंद) | **Ashvaghosha** | Same court circle |
 | *Madhyamaka Karika* | **Nagarjuna** | Madhyamaka / sunyata |
 | *Visuddhimagga* | **Buddhaghosa** | Theravada manual |
@@ -204,7 +204,7 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 | *Kalpasutra* | **Bhadrabahu** | Tirthankara lives; Paryushana reading |
 | *Parishishtaparvan* | **Hemachandra** | Later Jain narrative |
 
-- The **Tripitaka**, **Jataka**, **Dhammapada**, and Mahayana sutras are **canon baskets**. They are not single-author match pairs like *Buddhacharita*.
+- The **Tripitaka**, **Jataka**, **Dhammapada**, and Mahayana sutras are **canon baskets**. They are not single-author match pairs like *Buddha Charita* (*Buddhacharita*).
 - Jain **Angas** (अंग) are also canon heads without one personal author on the paper.
 - *Milinda Panha* monk = **Nagasena**, not **Nagarjuna**.
 
@@ -407,7 +407,7 @@ Councils are remembered as meetings that **fixed the teaching** after the Buddha
 | ***Milinda Panha*** | Dialogue of Indo-Greek **Menander (Milinda)** and monk **Nagasena** |
 | ***Jataka*** | 547 stories of Buddha’s previous births; in Khuddaka Nikaya |
 | ***Dhammapada*** | Verse ethics; in Khuddaka Nikaya |
-| ***Buddhacharita*** | Sanskrit Buddha-life by **Ashvaghosha** (Kanishka age); also wrote *Saundarananda* |
+| ***Buddha Charita* (*Buddhacharita*)** | Sanskrit Buddha-life by **Ashvaghosha** (Kanishka age); also wrote *Saundarananda* |
 | ***Mahavastu***, ***Lalitavistara***, ***Divyavadana*** | Narrative Sanskrit Buddha lives |
 | ***Prajnaparamita***, ***Lotus Sutra***, ***Lankavatara*** | Key Mahayana sutras |
 | ***Dipavamsa***, ***Mahavamsa*** | Sri Lankan chronicles |
@@ -437,7 +437,7 @@ Councils are remembered as meetings that **fixed the teaching** after the Buddha
 - Mahayana **adds** new sutras such as the Prajnaparamita and the Lotus.
 - Hold author–book pairs as separate sentences.
 - The *Milinda Panha* is linked with the monk **Nagasena**.
-- The *Buddhacharita* and *Saundarananda* are linked with **Ashvaghosha**.
+- The *Buddha Charita* (*Buddhacharita*) and *Saundarananda* are linked with **Ashvaghosha**.
 - The *Madhyamikakarika* is linked with **Nagarjuna**.
 - The *Visuddhimagga* is linked with **Buddhaghosa**.
 - The *Abhidharmakosha* is linked with **Vasubandhu**.
@@ -472,12 +472,12 @@ Councils are remembered as meetings that **fixed the teaching** after the Buddha
 | **Mahasanghika** | Liberal side at **Vaishali** | More relaxed monastic rules; some branches stressed the Buddha's supramundane nature | Influenced later Mahayana thought; **not** itself Mahayana |
 | **Theravada** | **Vibhajjavada** line that wins at the **3rd Council** (Ashoka) | Doctrine of analysis; arhat ideal; strict Vinaya | **Pali** Tripitaka; Sri Lanka, Myanmar, Thailand, Cambodia, Laos |
 | **Sarvastivada** | Branched from the Sthaviravada line; dominant in the north | **Sarvam asti** — dharmas exist in past, present, and future | Kashmir, Gandhara, Central Asia; **Sanskrit**; **4th Council** at Kundalvana |
-| **Vaibhashika** | Subschool of **Sarvastivada** | Defends orthodox Abhidharma through the ***Mahavibhasha*** | Realist reading of “all exists” |
+| **Vaibhasika (Vaibhashika)** | Subschool of **Sarvastivada** | Defends orthodox Abhidharma through the ***Mahavibhasha*** | Realist reading of “all exists” |
 | **Sautrantika** | Subschool of **Sarvastivada** | Accepts **sutras** as supreme authority; rejects Vaibhashika Abhidharma orthodoxy | Sutra-only emphasis — paired trap with Vaibhashika |
 
 - **Theravada** spread to Sri Lanka through **Mahinda** and **Sanghamitta** after Ashoka's Third Council.
 - **Sarvastivada** is the school tied to **Kanishka's Fourth Council** in Kashmir, where **Vasumitra** presided and the ***Mahavibhasha*** was compiled.
-- **Vaibhashika** and **Sautrantika** are **Sarvastivada subschools**, not separate vehicles like Mahayana.
+- **Vaibhasika (Vaibhashika)** and **Sautrantika** are **Sarvastivada subschools**, not separate vehicles like Mahayana.
 - **Mahasanghika** is the Vaishali split school. **Mahayana** is a later great vehicle.
 
 > **Logic:** Hinayana does not mean bad Buddhism. It names the **arhat + early canon** path. Theravada = **only living** Hinayana school. Sarvastivada = **Sanskrit north** + 4th Council. Sthaviravada is not identical with Theravada in strict history, though papers often blur them.
@@ -511,7 +511,7 @@ Councils are remembered as meetings that **fixed the teaching** after the Buddha
 - The ***Lotus Sutra*** (*Saddharmapundarika*) makes the bodhisattva path central and is closely tied to **Avalokiteshvara**.
 - The ***Lankavatara*** is linked to **Yogacara / mind-only** thought.
 - Narrative Sanskrit lives such as the ***Mahavastu***, ***Lalitavistara***, and ***Divyavadana*** also belong to this wider Mahayana literary world.
-- Ashvaghosha's ***Buddhacharita*** is a Sanskrit Buddha-life poem from the Kanishka age. It is not a Hinayana Pali text.
+- Ashvaghosha's ***Buddha Charita* (*Buddhacharita*)** is a Sanskrit Buddha-life poem from the Kanishka age. It is not a Hinayana Pali text.
 
 ### Spread and patronage
 
@@ -1222,7 +1222,7 @@ These accept **Veda authority**. They are **not** the nastika Shramana list.
 | Religion / Tradition | Text | Author / Composer | Core Subject / Key Exam Focus |
 |---|---|---|---|
 | **Buddhism** | *Milindapanho* | **Nagasena** | Dialogue between Indo-Greek king Menander (Milinda) and monk Nagasena |
-| **Buddhism** | *Buddhacharita*, *Saundarananda*, *Sariputra Prakarana* | **Ashvaghosha** | Sanskrit epics & drama; court of Kanishka |
+| **Buddhism** | *Buddha Charita* (*Buddhacharita*), *Saundarananda*, *Sariputra Prakarana* | **Ashvaghosha** | Sanskrit epics & drama; court of Kanishka |
 | **Buddhism** | *Madhyamikakarika* | **Nagarjuna** | Doctrine of Void (*Sunyata*) & relativity; "Indian Einstein" |
 | **Buddhism** | *Visuddhimagga* | **Buddhaghosa** | Theravada Abhidhamma & meditation manual |
 | **Buddhism** | *Abhidharmakosha* | **Vasubandhu** | Sarvastivada philosophical exposition |
@@ -1253,6 +1253,211 @@ These accept **Veda authority**. They are **not** the nastika Shramana list.
   - *Nathpanth* founded by **Matsyendranatha** and organized by **Gorakhnatha**.
 - **12 Jyotirlingas:** Somnath (Gujarat), Nageshwar (Gujarat), Kedarnath (UK), Kashi Vishwanath (UP), Baidyanath (Jharkhand), Mahakaleshwar (Ujjain MP), Omkareshwar (MP), Bhimashankar (Maharashtra), Trimbakeshwar (Nashik MH), Ghushmeshwar (Rajasthan), Mallikarjuna (Srisailam AP), Rameshwaram (TN).
 - **Major Shakta Temples:** Kamakhya (Guwahati, Assam), Vindhyavasini Devi (Vindhyachal, Mirzapur UP), Chausath Yogini (Morena, MP), Parvati Temple (Nachna-Kuthara, MP), Dakshineswar Kali (WB).
+
+
+
+---
+
+## 4.35 Lucent GK Complete Comprehensive Reference & Direct Gap-Fill (Buddhism & Jainism)
+
+> **Note for Aspirants:** Every single fact, tirthankara symbol, Buddhist council result, philosopher name, Bodhisattva duty, Buddhist university, and royal patron from Lucent's General Knowledge (Section 3.2: Religious Movements) has been compiled below. You will never need to consult Lucent GK separately for Buddhism and Jainism.
+
+### 1. Post-Vedic Religious Ferment (600 BC – 400 BC)
+- Known as the **Period of Second Urbanisation** or the **Age of the Buddha**.
+- **Five Primary Causes for the Rise of Heterodox Movements:**
+  1. Vedic philosophy had lost its pristine purity and intellectual simplicity.
+  2. Vedic religion had degenerated into intricate dogmas, empty rituals, superstitions, and ruinously expensive animal sacrifices.
+  3. Brahmanical supremacy and social arrogance provoked a strong reaction from the **Kshatriya** ruling class (both Buddha and Mahavira were Kshatriya princes).
+  4. Introduction of an **iron-plough agricultural economy in Eastern India** (Ganga basin), which required the preservation of cattle wealth and strongly rebelled against Vedic animal slaughter.
+  5. Rapid growth of inland trade and urban commerce enriched the **Vaishya merchant class**, who sought a higher social status commensurate with their economic power and embraced non-violent, caste-free religions.
+
+---
+
+### 2. Buddhism — Life of Gautama Buddha
+- **Birth & Parentage:** Born in **563 BC** on *Vaisakha Purnima* day at **Lumbinivana in Kapilvastu** (foothills of Nepal) in the **Sakya Kshatriya clan**.
+  - Father: **Suddhodhana** (republican king of Kapilvastu).
+  - Mother: **Mahamaya** (princess of Kosala dynasty; died 7 days after birth).
+  - Foster Mother: **Mahaprajapati Gautami** (stepmother and maternal aunt; later the first woman admitted into the Buddhist Sangha).
+  - Wife: **Yasodhara** (princess of the Koliyan clan).
+  - Son: **Rahul**.
+- **The Great Renunciation (Mahabhinishkramana):**
+  - **Four Sights:** An old man, a diseased person, a dead body, and an ascetic — triggered renunciation.
+  - Left home at **age 29** on his horse **Kanthaka**, guided by charioteer **Channa**.
+- **Spiritual Teachers:**
+  1. **Alara Kalama:** Sankhya philosopher at Vaishali; taught the technique of meditation and sphere of nothingness.
+  2. **Udraka Ramputra:** Near Rajagriha; taught advanced states of concentration.
+- **Enlightenment (Nirvana / Sambodhi):**
+  - At **age 35**, under a **pipal tree** at **Uruvela (Bodh Gaya)** on the bank of the **river Niranjana (modern name Falgu)**.
+  - Attained supreme illumination after **49 days** of continuous meditation.
+  - Accepted rice-milk offered by farmer's daughter **Sujata**.
+  - Henceforth known as the **Buddha** ("the Enlightened One") or **Tathagata** ("one who has attained the truth").
+- **First Sermon (Dharmachakra Pravartana):** Delivered at **Sarnath (Deer Park / Rishipattana)** to his five former ascetic companions (Kaundinya, Bhaddiya, Vappa, Mahanama, and Assaji).
+- **Great Decease (Mahaparinirvana):**
+  - Died at **age 80 in 483 BC at Kushinagar** (identical with village **Kasia** in Siddharthanagar / Kushinagar / Deoria district of UP).
+- **Key Persons & Entities in Buddha's Life:**
+  - **Kanthaka:** His royal horse.
+  - **Channa:** His faithful charioteer.
+  - **Devadatta:** His cousin and jealous rival who plotted against him.
+  - **Sujata:** The farmer's daughter who broke his severe fast with rice-milk at Bodh Gaya.
+  - **Other Names:** Gautama (clan name), Siddhartha (childhood name), Shakyamuni (sage of the Sakyas).
+- **Great Events and Their Symbols (Lucent Core):**
+  | Event of Buddha's Life | Symbol |
+  | :--- | :--- |
+  | **Janma (Birth)** | **Lotus and Bull** |
+  | **Mahabhinishkramana (Renunciation)** | **Horse** |
+  | **Nirvana / Sambodhi (Enlightenment)** | **Bodhi Tree (Pipal)** |
+  | **Dharmachakra Pravartana (First Sermon)** | **Wheel** |
+  | **Mahaparinirvana (Death)** | **Stupa** |
+
+---
+
+### 3. Buddhist Doctrines, Noble Truths & Councils
+- **Four Noble Truths (Chatwari Arya Satyani — Essence of Buddhism):**
+  1. *Life is full of sorrow (Dukha):* **Sabbam Dukkam**.
+  2. *There are causes of sorrow (Dukha Samudaya):* **Pratitya Samutpada** (Dependent Origination), also termed **Hetuvada** (theory of cause and effect) and **Kshanabhanga Vada** (theory of momentariness / impermanence). *Desire (Tanha)* is the root cause of all sorrow.
+  3. *This sorrow can be stopped (Dukha Nirodha):* **Nirvana** (liberation from the cycle of birth, death, and rebirth).
+  4. *Path leading to cessation of sorrow (Dukha Nirodha Gamini Pratipada):* **Ashtangika Marga** (Eightfold Path: Right observation, right determination, right speech, right action, right livelihood, right exercise, right memory, and right meditation).
+  - **Madhya Marga / Madhyama Pratipada (The Middle Path):** Man should scrupulously avoid both extremes — severe ascetic mortification and self-indulgent luxury.
+- **Triratna (Three Jewels of Buddhism):** 1. Buddha (the enlightened), 2. Dharma (the doctrine), 3. Sangha (the monastic commune).
+- **The Four Buddhist Councils (Complete Lucent Master Matrix):**
+  | Council | Year | Venue | Chairman | Royal Patron | Key Results & Achievements |
+  | :--- | :--- | :--- | :--- | :--- | :--- |
+  | **1st Council** | **483 BC** | **Saptaparni Cave, Rajgriha** | **Mahakassapa** | **Ajatashatru** (Haryanka) | Compilation of **Sutta Pitaka** (Buddha's sayings/discourses) by **Ananda**, and **Vinaya Pitaka** (monastic discipline) by **Upali**. |
+  | **2nd Council** | **383 BC** | **Chullavagga, Vaishali** | **Sabbakami** | **Kalashoka** (Shisunaga) | (i) Dispute over 10 monastic rules; (ii) First great schism into **Sthaviravadins** (elders / orthodox) and **Mahasanghikas** (great community / reformists). |
+  | **3rd Council** | **250 BC** | **Ashokarama Vihar, Patliputra** | **Moggaliputta Tissa** | **Ashoka** (Maurya) | (i) Compilation of **Abhidhamma Pitaka** (philosophical interpretation); (ii) Decision to dispatch Buddhist missionaries across the globe. |
+  | **4th Council** | **98 AD** | **Kundalavana, Kashmir** | **Vasumitra** (Chairman); **Ashvaghosa** (Vice-Chairman) | **Kanishka** (Kushana) | (i) Compilation of **Mahavibhasha Shastra** (encyclopedic Sanskrit commentary on Tripitaka); (ii) Formal schism into **Hinayana** and **Mahayana**. |
+
+---
+
+### 4. Buddhist Literature & Branches
+- **Pali Texts:**
+  - **Tripitaka (Three Baskets — written on palm-leaves):**
+    - *Sutta Pitaka:* Buddha's direct sermons and dialogues; comprises 5 Nikayas: **Digha Nikaya, Majjhima Nikaya, Samyutta Nikaya, Anguttara Nikaya, and Khuddaka Nikaya** (which includes the *Jatakas*).
+    - *Vinaya Pitaka:* Monastic code and rules of conduct for monks and nuns.
+    - *Abhidhamma Pitaka:* Philosophical and psychological exposition of Dhamma.
+  - *Milindapanho* ("Questions of Menander"): Philosophical dialogue between Indo-Greek king **Milinda (Menander)** and Buddhist sage **Nagasena**.
+  - *Dipavamsa* and *Mahavamsa:* The Great Ceylonese (Sri Lankan) historical chronicles.
+- **Sanskrit Buddhist Texts & Authors:**
+  - **Ashvaghosha:** *Buddha Charita* (*Buddhacharita*), *Saundarananda*, *Sutralankara*, *Sariputra Prakarana*, and *Vajrasuchi*.
+  - **Vasumitra:** *Mahavibhasha Shastra*.
+  - **Buddhagosha (Buddhaghosha):** *Visuddhimagga*, *Atthakatha*, *Sumangalavilasini*.
+  - **Nagarjuna:** *Madhyamika Karika*, *Prajnaparimita Karika*.
+- **The Three Great Vehicles (Sects):**
+  1. **Hinayana ("Lesser Vehicle" / "Southern Buddhist Religion"):** Followed original teachings of Buddha; sought individual salvation through self-discipline; rejected idol worship; used **Pali language**; spread in Sri Lanka, Burma, Thailand, Java. Two subsects: **Vaibhasika (Vaibhashika)** and **Sautantrika**.
+  2. **Mahayana ("Greater Vehicle" / "Northern Buddhist Religion"):** Believed in the divinity / heavenliness of Buddha; sought universal salvation through grace of Bodhisattvas; practiced idol worship; used **Sanskrit language**; spread in China, Korea, Japan. Two subsects: **Madhyamika / Shunyavada** (founded by **Nagarjuna**) and **Yogachara / Vijnanavada** (founded by **Maitreyanatha** and disciple **Asanga**).
+  3. **Vajrayana ("Vehicle of the Thunderbolt"):** Salvation acquired through esoteric rituals and magical power (*Vajra*); female divinities called **Taras**; popular in Eastern India (Bengal and Bihar under Palas).
+- **Major Bodhisattvas (Lucent Catalog):**
+  - **Vajrapani:** Like Indra, he holds a thunderbolt; foe of sin and evil.
+  - **Avalokiteshvara / Padmapani:** "The lord who looks down with compassion"; lotus bearer.
+  - **Manjushri:** Stimulator of intellect; holds a book describing the **10 Paramitas** (spiritual perfections).
+  - **Maitreya:** The Future Buddha yet to come.
+  - **Kshitigarbha:** Guardian of purgatories and the underworld.
+  - **Amitabha / Amitayus:** Buddha of boundless light / heaven.
+- **Eight Sacred Shrines (Ashtasthanas / Ashtamahasthanas):**
+  - Four Principal: **Lumbini** (birth), **Bodh Gaya** (enlightenment), **Sarnath** (first sermon), and **Kushinagar** (death).
+  - Four Additional: **Sravasti**, **Rajgriha**, **Vaishali**, and **Sankasya**.
+- **Ancient Buddhist Universities:**
+  | University | Location | Founder & Dynasty |
+  | :--- | :--- | :--- |
+  | **Nalanda** | Badagaon, Bihar | **Kumaragupta I** (Gupta Ruler) |
+  | **Odantapuri** | Biharsharif, Bihar | **Gopala** (Pala Ruler) |
+  | **Vikramashila** | Bhagalpur, Bihar | **Dharmapala** (Pala Ruler) |
+  | **Somapuri** | North Bengal | **Dharmapala** (Pala Ruler) |
+  | **Jagaddala** | Bengal | **Ramapala** (Pala Ruler) |
+  | **Vallabhi** | Gujarat | **Bhattarka** (Maitraka Ruler) |
+- **Royal Patrons of Buddhism:** Bimbisara, Ajatashatru, Prasenjit (Kosala), Udayana (Vatsa), Pradyota (Avanti), Ashoka and Dasharatha (Mauryas), Menander (Indo-Greek), Kanishka (Kushana), Harshavardhana (Pushyabhuti); and the **Palas of Bengal and Bihar** (the last great royal patrons).
+
+---
+
+### 5. Jainism — 24 Tirthankaras & Master Symbol Table
+- **Tirthankara:** Literally means **"Ford-maker"** across the ocean of mundane existence (*Samsara*).
+- **Antiquity & Scriptural Mentions:**
+  - *Vishnu Purana* and *Bhagavata Purana* describe the first Tirthankara, **Rishabhadeva (Adinatha)**, as an **incarnation of Narayana**.
+  - Two Tirthankaras are mentioned in the **Rigveda**: **Rishabhadeva** and **Arishtanemi**.
+  - Historical evidence is available only for the last two: **Parshwanatha (23rd)** and **Mahavira (24th)**.
+- **Parshwanatha (23rd Tirthankara):**
+  - Prince of Banaras (son of King Ashvasena); abandoned royalty to lead an ascetic life.
+  - Died at **Sammet-Shikar / Parshwanatha Hill (Parasanath Hill) in Giridih, Jharkhand**.
+  - Laid down the **Four Vows (Chaturyama):** 1. *Ahimsa* (non-injury), 2. *Satya* (truthfulness), 3. *Asteya* (non-stealing), 4. *Aparigraha* (non-possession).
+  - Mahavira adopted all four and added the 5th vow: **Brahmacharya (Chastity)**.
+- **Exhaustive List of All 24 Tirthankaras and Their Symbols (Lucent Exact Table):**
+  | No. | Tirthankara | Cognizance / Symbol | No. | Tirthankara | Cognizance / Symbol |
+  | :--- | :--- | :--- | :--- | :--- | :--- |
+  | 1 | **Rishabha (Adinatha)** | **Bull** | 13 | **Vimalnath** | **Boar** |
+  | 2 | **Ajitnath** | **Elephant** | 14 | **Anantnath** | **Falcon** |
+  | 3 | **Sambharnath** | **Horse** | 15 | **Dharmanath** | **Vajra (Thunderbolt)** |
+  | 4 | **Abhinandana** | **Monkey** | 16 | **Shantinath** | **Deer** |
+  | 5 | **Sumatinath** | **Curlew (Krauncha bird)** | 17 | **Kuntunath** | **He-Goat** |
+  | 6 | **Padmaprabhu** | **Red Lotus** | 18 | **Arnath** | **Fish** |
+  | 7 | **Suparswanath** | **Swastik** | 19 | **Mallinath** | **Waterpot (Kalasha)** |
+  | 8 | **Chandraprabhu** | **Moon** | 20 | **Munisuvrata** | **Tortoise** |
+  | 9 | **Suvidhinath (Pushpadanta)** | **Crocodile** | 21 | **Naminath** | **Blue Lotus** |
+  | 10 | **Shitalnath** | **Srivatsa** | 22 | **Arishtanemi** | **Conch Shell** |
+  | 11 | **Shreyamsanath** | **Rhinoceros** | 23 | **Parshwanath** | **Serpent** |
+  | 12 | **Vasupujya** | **Buffalo** | 24 | **Mahavira** | **Lion** |
+
+---
+
+### 6. Life of Vardhamana Mahavira & Jain Philosophy
+- **Birth & Parentage:** Born in **540 BC** in village **Kundagrama near Vaishali** in Bihar.
+  - Father: **Siddhartha** (head of Jnatrika Kshatriya clan under the Vajji confederacy).
+  - Mother: **Trishala** (sister of Chetaka, the king of Vaishali; through this, Mahavira was related to Magadhan king Bimbisara, who married Chetaka's daughter Chellana).
+  - Wife: **Yashoda** (daughter of King Samarvira).
+  - Daughter: **Anodja Priyadarshini**; her husband **Jamali** became Mahavira's first disciple (and later the leader of the first schism).
+- **Renunciation & Companionship:**
+  - Renounced household at **age 30** after his parents' death.
+  - Accompanied for 6 years by **Makkhali Gosala**, who later separated due to ideological disputes and founded the fatalistic **Ajivika** sect.
+- **Attainment of Kaivalya (Supreme Knowledge):**
+  - At **age 42**, under a **Sal tree** at **Jambhikagrama** on the bank of **river Rijupalika**.
+  - Henceforth called **Kevalin** (perfectly learned), **Jina / Jitendriya** (conqueror of the senses), **Nirgrantha** (free from all bonds), **Arhant** (blessed one), and **Mahavira** (the brave). His followers were called **Jains**.
+- **First Sermon & Jain Sangha:**
+  - Delivered first sermon at **Pava** to his **11 disciples (Ganadharas / Gandharvas)**.
+  - Founded the **Jain Sangha** at Pava.
+- **Death (Nirvana):** Passed away at **age 72 in 468 BC at Pavapuri** near Biharsharif in Bihar.
+  - **Sudharma** was the **only one of the 11 Ganadharas who survived** after Mahavira's death and became the first Thera (pontiff) of the Sangha.
+- **Jain Doctrines & Epistemology:**
+  - **Triratna (Three Gems of Jainism):**
+    1. *Samyak Shradha / Vishwas (Right Faith):* Belief in the Tirthankaras.
+    2. *Samyak Jnana (Right Knowledge):* Flawless knowledge of the Jain creed.
+    3. *Samyak Karma / Acharana (Right Conduct):* Strict practice of the 5 vows.
+  - **Pancha Mahavratas (Five Vows):** 1. *Ahimsa*, 2. *Satya*, 3. *Asteya*, 4. *Aparigraha*, 5. *Brahmacharya*.
+  - **Five Types of Knowledge (Jnana):**
+    1. *Mati jnana:* Perception through senses and mind.
+    2. *Shruta jnana:* Knowledge revealed by sacred scriptures.
+    3. *Avadhi jnana:* Clairvoyant / extrasensory perception of distant things.
+    4. *Manahparyaya jnana:* Telepathic knowledge of the thoughts of others.
+    5. *Kevala jnana:* Omniscience / temporal, limitless supreme knowledge.
+  - **Syadvada / Anekantavada:**
+    - *Syadvada:* "The Theory of May Be / Perhaps" — all human knowledge and judgements are relative, conditional, and limited.
+    - *Saptabhangi Nayavada:* Seven modes of predication are possible. Absolute affirmation and absolute negation are both erroneous.
+    - Also known as *Anekantavada* (theory of plurality / multi-sidedness of reality).
+  - **Core Principles:** Rejected Vedic authority and rituals; non-theistic (did not believe in God as creator); strongly believed in Karma and transmigration of soul; uncompromising insistence on universal equality and extreme non-violence (*Ahimsa*).
+
+---
+
+### 7. Jain Councils, Literature & Royal Patrons
+- **The Two Jain Councils:**
+  | Council | Year | Venue | Chairman | Royal Patron | Key Achievements |
+  | :--- | :--- | :--- | :--- | :--- | :--- |
+  | **1st Council** | **300 BC** | **Pataliputra** | **Sthulabhadra** | **Chandragupta Maurya** | (i) Compilation of **12 Angas**; (ii) Great famine in Magadha (**298 BC**) caused mass exodus to Shravanabelagola under **Bhadrabahu** and Chandragupta Maurya. When they returned after 12 years, they insisted on nudity (**Digambaras** under Bhadrabahu), while those who stayed at Magadha wore white robes (**Shvetambaras** under Sthulabhadra). |
+  | **2nd Council** | **512 AD** | **Vallabhi (Gujarat)** | **Devardhi Kshamasramana** | — | Final compilation and written redaction of the **12 Angas and 12 Upangas**. |
+- **Jain Canon & Literature:**
+  - Sacred literature of Shvetambaras is written in **Ardhamagadhi Prakrit**:
+    - **12 Angas**, **12 Upangas**, **10 Prakirnas**, **6 Chhedasutras**, **4 Mulasutras**, and **2 Sutra-Granthas**.
+    - **14 Purvas / Parvas:** The oldest layer of canonical scripture, containing Mahavira's direct preachings (embedded within the 12 Angas).
+  - **Key Non-Canonical Texts:**
+    - *Kalpasutra* (in Sanskrit) — by **Bhadrabahu** (biography of Tirthankaras).
+    - *Bhadrabahu Charita*.
+    - *Parishishta Parvan* (appendix to *Trishashthishalaka Purusha Charita*) — by **Hemchandra**.
+- **Jain Architecture (Lucent Examples):**
+  1. **Gumphas (Rock-cut Caves):** Hathigumpha, Baghagumpha on Udayagiri and Khandagiri hills (near Bhubaneswar, Orissa) built by king **Kharavela**.
+  2. **Dilwara Temples:** Vimalavasahi temple (Vimala Shah) and Tejapala temple (Tejapala) at **Mount Abu (Rajasthan)**.
+  3. **Hill Temples:** **Girnar** and **Palitana** in Gujarat.
+  4. **Bihar Shrines:** Pavapuri temple, Rajagriha temples.
+  5. **Monolithic Statue:** Colossal statue of **Gommateshwara / Bahubali** at **Shravanabelagola (Karnataka)** (commissioned by Chamundaraya in 983 AD).
+- **Royal Patrons of Jainism:**
+  - **North India:** The Nandas; Bimbisara, Ajatashatru, and Udayin (Haryanka); Chandragupta Maurya, Bindusara, and Samprati (Mauryan); Chanda Pradyota (Avanti); Udayana (Sindhu-Sauvira); Kharavela (Kalinga).
+  - **South India:** Ganga Dynasty, Kadamba Dynasty, Amoghavarsha I (Rashtrakuta); Siddharaja Jai Singh and Kumarapala (Chaulukya / Solanki Dynasty of Gujarat — the last great royal patrons of Jainism).
 
 ## Complete PYQ Bank (Topic 4)
 

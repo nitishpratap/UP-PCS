@@ -685,6 +685,255 @@ Memory: **S-K-V-N-C-J**.
 
 ---
 
+
+
+---
+
+## 3.18 Lucent GK Complete Comprehensive Reference & Direct Gap-Fill
+
+> **Note for Aspirants:** Every single fact, classification, literary work, official name, ritual category, marriage type, samskara, and quote from Lucent's General Knowledge (Ancient History Section 2) has been compiled below. You will never need to consult Lucent GK separately for Vedic Culture.
+
+### 1. Original Home of Aryans & Boghazkoi Evidence
+- **Debate on Aryan Homeland:**
+  - **Central Asia:** Proposed by **Max Muller** (most widely accepted view; migrated in stages during **2000 BC – 1500 BC**).
+  - **Arctic Region:** Proposed by **Bal Gangadhar Tilak** (*The Arctic Home in the Vedas*).
+  - **Tibet / Himalayan Region:** Proposed by Swami Dayanand Saraswati.
+  - **European Homeland:** Proposed by William Jones, P. Giles.
+- **Boghazkoi / Boghazkai Inscription (Asia Minor, Turkey, ~1400 BC):**
+  - Mentions **4 Vedic gods:** **Indra, Varuna, Mitra, and Nasatyas (Ashwins)**.
+  - Proves the Central Asian theory and marks the migration trail of Aryans towards the Indian subcontinent.
+
+---
+
+### 2. Geographical Horizons & Rigvedic Rivers (Nadisukta)
+- **Primary Habitation:** Aryans first settled in the Frontier Province and Punjab, known as **Sapta Sindhu** (the land of seven rivers: Indus + 5 Punjab tributaries + Saraswati).
+- **Mountains:** Rigveda mentions **Himvant** (Himalaya) and **Munjavant** (Hindukush, source of Soma plant).
+- **River Mentions:** Rigveda mentions **40 rivers** in total. The celebrated **Nadisukta** hymn mentions **21 rivers**, including Ganga in the east and Kubha (Kabul) in the west.
+- **Frequency of River Mentions:**
+  - **Sindhu (Indus):** Most frequently mentioned river.
+  - **Saraswati:** Most sacred/pious river (called *Naditama*, *Devitama*, *Matetama*).
+  - **Ganga:** Mentioned only **1 time**.
+  - **Yamuna:** Mentioned **3 times**.
+- **Master Table of Rigvedic vs Modern River Names:**
+  | Rigvedic Name | Modern Name | Region |
+  | :--- | :--- | :--- |
+  | **Sindhu** | Indus | Punjab / Sindh |
+  | **Vitasta** | Jhelum | Punjab |
+  | **Asikani** | Chenab | Punjab |
+  | **Vipas** | Beas | Punjab |
+  | **Parushni** | Ravi | Punjab |
+  | **Sutudri** | Sutlej | Punjab |
+  | **Saraswati** | Sarsuti / Ghaggar-Hakra | Rajasthan / Haryana |
+  | **Drishadvati** | Ghaggar / Rakshi | Rajasthan / Haryana |
+  | **Kubha** | Kabul | Afghanistan |
+  | **Suvastu** | Swat | Afghanistan |
+  | **Krumu** | Kurram | Afghanistan |
+  | **Gomati** | Gomal | Afghanistan |
+
+---
+
+### 3. The Dasrajan War (Battle of Ten Kings)
+- **Source:** Described in Rigveda (7th Mandala). It was an internecine war of the Aryans.
+- **Protagonist:** **Sudas**, the Bharata king of the **Tritsus** family (guided by sage Vasishtha).
+- **Opponents (Confederacy of 10 Kings):**
+  - **5 Aryan States (Panchajana):** **Purus, Yadus, Turvasas, Anus, and Druhyus**.
+  - **5 Non-Aryan / Frontier Tribes:** **Alinas, Pakhtas, Bhalanas, Sibis, and Vishanins** (guided by sage Vishwamitra).
+- **Venue & Result:** Fought on the bank of **Parushni (Ravi)**. Sudas emerged completely victorious.
+
+---
+
+### 4. Vedic Literature (Shruti — 1500 BC to 600 BC)
+- **Nature of Shruti:** Passed down orally through generations; called **Shruti** ("to hear").
+- **Nature of Vedas:** Called **Apaurasheya** (not created by man, but God-gifted) and **Nitya** (existing in all eternity).
+- **Vedatrayi (Trio of Vedas):** Rigveda, Samaveda, and Yajurveda (excludes Atharvaveda).
+- **The Four Vedas:**
+  1. **Rigveda (Collection of Lyrics):**
+     - Oldest religious text in the world; known as *"the first testament of mankind"*.
+     - Contains **1028 hymns** (1017 Sakala + 11 Valakhilya) divided into **10 Mandalas**.
+     - Mandalas **2nd to 7th** are the oldest and called **Gotra / Vamsha Mandalas (Kula Granth)**.
+     - 1st and 10th Mandalas were added later.
+     - **10th Mandala** contains the famous **Purushasukta**, which explains the divine creation of the **4 Varnas** (Brahmana, Kshatriya, Vaishya, Shudra).
+     - Hymns were recited by the **Hotri** priest.
+  2. **Samaveda (Book of Chants):**
+     - Contains **1549 hymns** (all hymns except **75** were borrowed from the Rigveda).
+     - Recited by the **Udgatri** priest.
+     - Fundamental foundational text for Indian classical music and melody.
+  3. **Yajurveda (Book of Sacrificial Prayers):**
+     - A ritual Veda; its hymns were recited by the **Adhvaryu** priest.
+     - Divided into two branches: **Krishna Yajurveda** (black, mixed prose and verse) and **Shukla Yajurveda** (white, pure verse).
+     - Unique because it is composed in **both verse and prose** (unlike Rig and Sama which are entirely in verse).
+  4. **Atharvaveda (Book of Magical Formulae):**
+     - Contains charms, spells, and incantations to ward off evils and diseases.
+     - For a long time, it was not included in the category of the Vedas (excluded from Vedatrayi).
+- **The Brahmanas (Prose Exegesis of Sacrifices):**
+  - *Brahma* means "sacrifice"; they explain the Vedic hymns and ritual applications in prose.
+  - **Rigveda:** **Aitareya** and **Kaushitaki / Sankhyan**.
+  - **Samaveda:** **Panchavimsha (Tandya Maha Brahmana)**, **Shadvimsha**, **Chhandogya**, and **Jaiminiya**.
+  - **Yajurveda:** **Shatapatha** (*the oldest and largest Brahmana*) and **Taittiriya**.
+  - **Atharvaveda:** **Gopatha**.
+- **The Aranyakas (Forest Texts):**
+  - Derived from *Aranya* (forest); written for hermits and students living in jungles; form the concluding portions of the Brahmanas.
+- **The Upanishads (Philosophical Texts / Vedanta):**
+  - Known as **Vedanta** because they stand at the end of the Vedic period and literature.
+  - Total **108 Upanishads**. **Brihadaranyaka Upanishad** is the oldest Upanishad.
+
+---
+
+### 5. Literature of Vedic Tradition (Smriti — 600 BC to 600 AD)
+Comprises 6 categories: Vedangas/Sutras, Smritis, Mahakavyas (Epics), Puranas, Upavedas, and Shad-Darshanas.
+
+#### A. Six Vedangas (Limbs of the Vedas)
+1. **Shiksha (Phonetics):** Oldest text is *Pratishakhya*.
+2. **Kalpa Sutras (Rituals):**
+   - *Shrauta Sutras / Shulva Sutras:* Deal with grand sacrifices; *Shulva Sutras* are the oldest Indian texts on geometry (altar measurements).
+   - *Grihya Sutras:* Deal with domestic life, samskaras, and family ceremonies.
+   - *Dharma Sutras:* Deal with laws, duties, Varnas, and Ashramas.
+3. **Vyakarana (Grammar):** *Ashtadhyayi* by **Panini** (the oldest grammar book in the world).
+4. **Nirukta (Etymology):** *Nirukta* by **Yaska**, based on *Nighantu* by **Kashyapa** (*Nighantu* is the world's oldest glossary; *Nirukta* is the world's oldest dictionary).
+5. **Chhanda (Metrics):** *Chhandasutras* by **Pingala**.
+6. **Jyotisha (Astronomy):** *Vedanga Jyotisha* by **Lagadha Muni** (the oldest astronomy treatise).
+
+#### B. Six Famous Smritis (Dharmashastras)
+1. **Manu Smriti (Pre-Gupta Period):** Oldest Smriti text. Renowned commentators: **Vishwarupa, Medhatithi, Govindaraja, and Kulluka Bhatta**. Translated into English by Sir William Jones under the title *"Institutes of Hindoo Law"*.
+2. **Yajnavalkya Smriti (Pre-Gupta Period):** Renowned commentators: **Vishwarupa, Vijnaneshwara** (author of Mitakshara), and **Apararka** (a king of the Shilahara Dynasty).
+3. **Narada Smriti (Gupta Period).**
+4. **Parashara Smriti (Gupta Period).**
+5. **Brihaspati Smriti (Gupta Period).**
+6. **Katyayana Smriti (Gupta Period):** Notable as the first Smriti to use the technical legal term **"asprasya"** for the untouchables.
+
+#### C. Two Mahakavyas (Epics)
+1. **The Ramayana (Valmiki):** Known as **"Adi Kavya"** (the oldest epic of the world). Presently consists of **24,000 shlokas (verses)** in **7 Kandas** (evolved from 6,000 → 12,000 → 24,000). The 1st (*Bal Kanda*) and 7th (*Uttar Kanda*) were the latest additions.
+2. **The Mahabharata (Ved Vyasa):** The longest epic in the world. Presently consists of **1,00,000 shlokas** in **18 Parvans** plus the *Harivamsa* supplement:
+   - Originally **8,800 verses:** Called **Jaya Samhita**.
+   - Expanded to **24,000 verses:** Called **Bharata / Chaturvimshati Sahasri Samhita**.
+   - Finally expanded to **1,00,000 verses:** Called **Mahabharata / Shatasahasri Samhita**.
+   - The *Bhagavad Gita* is extracted from the **Bhishma Parvan**.
+   - The largest parvan is the **Shanti Parvan**.
+
+#### D. Puranas
+- Total **18 Puranas**. *Purana* means "the old".
+- **Matsya Purana** is the oldest Puranic text.
+- Other major Puranas: Bhagavata, Vishnu, Vayu, and Brahmanda Puranas (crucial for ancient royal dynastic genealogies).
+
+#### E. Upavedas (Auxiliary Vedas)
+| Upaveda | Subject | Associated Veda |
+| :--- | :--- | :--- |
+| **Ayurveda** | Medicine | **Rigveda** |
+| **Gandharvaveda** | Music | **Samaveda** |
+| **Dhanurveda** | Archery & Warfare | **Yajurveda** |
+| **Shilpaveda / Arthaveda** | Science of Craft / Wealth (Vishwakarma) | **Atharvaveda** |
+
+#### F. Shad-Darshanas (Six Schools of Indian Philosophy)
+| Darshana (School) | Founder | Basic Text |
+| :--- | :--- | :--- |
+| **Sankhya Darshana** | **Kapila** | *Sankhya Sutra* |
+| **Yoga Darshana** | **Patanjali** | *Yoga Sutra* |
+| **Nyaya Darshana** | **Akshapada Gautama** | *Nyaya Sutra* |
+| **Vaishesika Darshana** | **Uluka Kanada** | *Vaishesika Sutra* |
+| **Purva Mimamsa (Mimamsa)** | **Jaimini** | *Purva Mimamsa Sutra* |
+| **Uttara Mimamsa (Vedanta)** | **Badarayana** | *Brahma Sutra / Vedanta Sutra* |
+
+---
+
+### 6. Early Vedic / Rigvedic Period (1500 BC – 1000 BC)
+- **Political Units & Heads:**
+  - **Kula (Family):** Headed by **Kulapa**.
+  - **Grama (Village):** Headed by **Gramani**.
+  - **Vis (Clan):** Headed by **Vispati**.
+  - **Jana (People / Tribe):** Headed by **Gopa / Gopati**.
+  - **Rashtra (Country / State):** Ruled by **Rajan (King)**.
+- **Form of Government:** Patriarchal monarchy normal (law of primogeniture), though elective monarchy existed.
+- **Key Officials:**
+  - **Purohita:** Chief domestic priest, first ranking official; king's preceptor, friend, philosopher, guide.
+  - **Senani:** Army commander.
+  - **Gramani:** Village head.
+- **Military:** Foot-soldiers and charioteers. Weapons of wood, stone, bone, and metals. Moving fort called **Purcharishnu** and siege machines for assaulting strongholds.
+- **Assemblies:** Sabha, Samiti, Vidatha, Gana. **Sabha** was a council of select elders/privileged individuals; later functioned as a **court of justice**. **Samiti** was the broad folk assembly.
+- **Society:** 4 Varnas based on occupation, strictly **non-hereditary**. Famous Rigvedic hymn quote: *"I am a singer; my father is a physician, my mother is a grinder of corn."*
+- **Family & Marriage:** Monogamous and patriarchal. Child marriage was **not** in vogue. **Niyoga** (levirate: widow marrying younger brother of deceased husband) was permitted. Sons inherited father's property.
+- **Food & Drink:** Milk and dairy central. Grain cooked with milk was called **Kshira-pakamodanam**. Cow was considered **Aghanya** (not to be killed); death penalty or expulsion was prescribed for killing/injuring cows. Consumed intoxicating drinks: **Sura** and **Soma**.
+- **Amusements:** Music, dancing, chariot-racing, dicing. Famous Rigvedic verse (*The Gambler's Lament*): *"My wife rejects me and her mother hates me."*
+- **Religion (Henotheism):**
+  - **Henotheism / Kathenotheism:** Belief in many gods, but treating each god in turn as the supreme highest (term coined by Max Muller).
+  - Nearly **33 gods** classified into **3 categories**:
+    1. **Terrestrial (Prithvisthaniya):** Prithvi, Agni, Soma, Brihaspati, Rivers.
+    2. **Aerial / Intermediate (Antarikshasthaniya):** Indra, Rudra, Vayu-Vata, Parjanya.
+    3. **Celestial (Dyusthaniya):** Dyaus, Surya, Varuna, Aditi, Usha, Ashvin.
+  - **Indra (Purandara / Fort-Breaker):** Most popular deity (**250 hymns**); warlord and rain god.
+  - **Agni:** Second most important (**200 hymns**); intermediary between gods and mortals.
+  - **Varuna:** Personified water; upholder of cosmic and moral order (**Ritasyagopa**).
+  - **Surya:** Worshipped in **5 solar forms:** Surya (chariot of 7 horses), **Savitri** (goddess of light; Gayatri Mantra addressed to her in 3rd Mandala), **Mitra**, **Pushan** (god of marriage, roads, and straying cattle), and **Vishnu** (covered earth in three giant strides — *Upakrama*).
+  - **Soma:** King of plants; Agnishtoma drink; entire **9th Mandala (114 hymns)** is dedicated to Soma (*The Soma Mandala*).
+  - **Dyaus:** Oldest god and father of the world.
+- **Economy:** Nomadic-pastoral transitioning to agriculture. Wealth reckoned in cows (*Gau*). Medium of exchange: cows and gold ornaments (*Nishka*). **Coins were NOT known**.
+- **Pottery Horizon:** **OCP (Ochre Coloured Pottery) Culture: 1500 BC – 1000 BC**.
+
+---
+
+### 7. Later Vedic Period (1000 BC – 600 BC)
+- **Geography & Expansion:**
+  - Shift of civilizational centre from Saraswati to the Ganges (**Madhya-desa**).
+  - Three broad divisions of India: **Aryavarta** (Northern India), **Madhya-desa** (Central India), and **Dakshinapatha** (Southern India).
+  - **Videha Madhava Legend (Shatapatha Brahmana):** Narrates how king Videha Madhava accompanied by priest Gautama Rahugana followed the sacrificial fire eastward from Saraswati, crossing the **Sadanira (modern Gandak)** river to settle the land of **Videha (Tirhut)**.
+  - Janapadas emerged: **Kuru** (merger of Purus and Bharatas) and **Panchala** (merger of Turvashas and Krivis).
+- **Polity & 12 Ratninas:**
+  - King's power grew; *Taittiriya Brahmana* records the **theory of divine origin of kingship**.
+  - **12 Ratninas (King-makers / High Functionaries in Shatapatha Brahmana):**
+    1. **Purohita:** The Royal Priest
+    2. **Mahishi:** The Chief Queen
+    3. **Yuvaraja:** The Crown Prince
+    4. **Suta / Sarathi:** Royal Herald / Charioteer
+    5. **Senani:** The General of the Army
+    6. **Gramani:** Head of the Village
+    7. **Kshatta:** Chamberlain / Gateman
+    8. **Sangrahitri:** Treasurer
+    9. **Bhagadudha:** Collector of Taxes
+    10. **Akshavapa:** Courier / Superintendent of Dicing
+    11. **Palagala:** Friend / Companion of the King
+    12. **Govikarta:** Head of Forest Department
+  - **Provincial / Rural Officials:**
+    - **Sthapati:** Administering outlying border tracts occupied by aboriginals.
+    - **Satapati:** Administrative head over a group of **100 villages**.
+    - **Adhikrita:** Village-level officer.
+    - **Ugras:** Police official mentioned in the Upanishads.
+  - **Assemblies:** **Vidhata (Vidatha) completely disappeared**. Kings did not possess a permanent standing army.
+- **Social Structure:**
+  - Institution of **Gotra** (clan lineage) appeared. Concept of social pollution emerged.
+  - **Four Ashramas:** First recorded in the **Jabala Upanishad** (Brahmacharya, Grihastha, Vanaprastha, Sanyasa) to attain the **4 Purusharthas** (Dharma, Artha, Kama, Moksha).
+  - **Deterioration of Women's Status:**
+    - *Aitareya Brahmana:* *"A daughter is the source of misery, but a son is the protector of the family."*
+    - *Maitrayani Samhita:* Lists three major evils — *liquor, woman, and dice*.
+    - Women were prohibited from attending political assemblies (Sabha).
+    - Higher education existed: Demonstrated by the **Yajnavalkya-Gargi philosophical dialogue** in the *Brihadaranyaka Upanishad*.
+  - **Eight Types of Hindu Marriage (Vivaha):**
+    1. **Brahma Vivaha:** Giving daughter with dowry to a learned man.
+    2. **Daiva Vivaha:** Giving daughter to the officiating priest in lieu of his fee.
+    3. **Arsha Vivaha:** Giving daughter after accepting a bride-price (pair of kine).
+    4. **Prajapatya Vivaha:** Giving daughter without demanding bride-price.
+    5. **Gandharva Vivaha:** Love marriage (mutual consent).
+    6. **Asura Vivaha:** Marriage with a purchased bride.
+    7. **Rakshasa Vivaha:** Marriage with captive daughter of a defeated king or kidnapped girl.
+    8. **Paishacha Vivaha:** Marriage to a girl after drugging, seducing, or raping her.
+    - **Anuloma:** Upper-caste groom + lower-caste bride.
+    - **Pratiloma:** Lower-caste groom + upper-caste bride (condemned).
+  - **Sixteen Samskaras (Sacraments):**
+    1. Garbhadhana, 2. Pumsavana, 3. Simantonnayana, 4. Jatakarma, 5. Namakarana, 6. Nishkramana, 7. Annaprashana, 8. Chudakarma, 9. Karnachhedana, 10. Vidyarambha, 11. Upanayana, 12. Vedarambha, 13. Samavartana, 14. Vivaha, 15. Vanaprastha, 16. Antyeshti.
+- **Religion & Grand Sacrifices:**
+  - Old gods (Indra, Agni) lost prominence. **Prajapati** (creator / Brahma) became the supreme deity. **Rudra** (god of animals) and **Vishnu** rose in importance. **Pushan** was relegated to the god of the Shudras.
+  - **Transmigration Doctrine:** **Brihadaranyaka Upanishad** was the first text to formulate the doctrine of transmigration (**Punarjanma / Samsara-chakra**) and deeds (**Karma**).
+  - **Sacrifices Categorisation:**
+    - **Laghuyajnas (Simple Domestic Sacrifices):** Performed by householders: *Pancha Mahayajna*, *Agnihotra*, *Darsha Yajna* (performed on Amavasya / new moon), and *Purnamasa Yajna* (performed on Purnima / full moon).
+    - **Mahayajnas (Grand State Sacrifices):**
+      - **Rajasuya Yajna:** Royal consecration lasting over a year; conferred supreme status; later simplified to Abhisheka.
+      - **Vajapeya Yajna:** "Drink of strength"; included a royal chariot race; lasted 17 days to a full year.
+      - **Ashvamedha Yajna:** Horse sacrifice for imperial sovereignty; lasted 3 days.
+      - **Agnishtoma Yajna:** One-day animal sacrifice to Agni preceded by a year of ascetic discipline by performer and wife; Soma rasa was ritually consumed.
+- **Economy & Pottery:**
+  - Agriculture became primary livelihood. Heavy iron ploughshares drawn by up to **24 oxen**; manure was known.
+  - Metals: Gold, ayas, tin, silver, and **iron (shyama / krishna ayas)**.
+  - Trade: Merchant corporations (**Ganas**) and aldermen (**Sreshtins**) emerged.
+  - **Pottery Horizon:** **PGW (Painted Grey Ware) Culture: 1100 BC – 600 BC**.
+
 ## UP Focus
 
 | Fact | Detail |

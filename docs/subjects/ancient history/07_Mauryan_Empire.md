@@ -18,7 +18,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 ## Consolidated — 42 Must-Score Facts
 
 1. The Mauryan empire runs about **322–185 BCE**. Buddhist tradition links the clan to **Moriya / Pipphalivana**; some Puranas smear a “low origin.”
-2. King order is **Chandragupta (322–297)** → **Bindusara Amitraghata** (अमित्रघात) **(297–273)** → **Ashoka** (अशोक) (accession about **272**, coronation **268–232**) → last **Brihadratha**, killed by **Pushyamitra Shunga** (पुष्यमित्र शुंग) in **185 BCE**.
+2. King order is **Chandragupta (322–297)** → **Bindusara Amitraghata** (अमित्रघात) **(297–273)** → **Ashoka** (अशोक) (accession about **272**, coronation **268–232**) → last **Brihadratha**, killed by **Pushyamitra Shunga (Pushyamitra Sunga)** (पुष्यमित्र शुंग) in **185 BCE**.
 3. Chandragupta, guided by **Chanakya / Kautilya**, overthrew the last Nanda (**Dhana Nanda**) and later treaty-settled with **Seleucus** about **303 BCE**.
 4. Seleucus ceded north-west districts and received **500 elephants**. **Megasthenes** (मेगस्थनीज) came as envoy and wrote the lost *Indica* (known through Strabo and Arrian).
 5. Pliny’s army figures for Chandragupta are huge (about 6 lakh foot, 30k horse, 9k elephants). Money used punch-marked **pana** (पण). Material culture shows **NBPW** and ring-wells.
@@ -196,7 +196,7 @@ The Mauryas built the first large pan-North Indian state. Their capital was **Pa
 | **Chandragupta** (चंद्रगुप्त) | 322–297 BCE | Overthrows **Dhana Nanda**; Greek **Sandrokottos** |
 | **Bindusara** | 297–273 BCE | Greek **Amitraghata / Amitrochates** |
 | **Ashoka** | Accedes ~272; crowned 268–232 BCE | **Kalinga** (कलिंग), **dhamma** (धम्म), and the edicts |
-| **Brihadratha** | ends 185 BCE | Killed by **Pushyamitra Shunga** |
+| **Brihadratha** | ends 185 BCE | Killed by **Pushyamitra Shunga (Pushyamitra Sunga)** |
 
 - **Kunala** is a legendary blinded heir. He is not a hard epigraphic king.
 - **Dasharatha** gifts the **Nagarjuni** caves to the Ajivikas. Tradition often places him in the eastern share.
@@ -264,7 +264,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 - After Ashoka (**~232 BCE**), weak successors (**Dasharatha, Salisuka, Brihadratha**) followed in Puranic lists.
 - Tradition remembers a partition: **Dasharatha** in the east, **Samprati** (Jain patron) in the west/south.
 - Provincial governors and frontier pressure weakened central control.
-- The last king **Brihadratha** was killed by general **Pushyamitra Shunga** in **185 BCE**.
+- The last king **Brihadratha** was killed by general **Pushyamitra Shunga (Pushyamitra Sunga)** in **185 BCE**.
 - The Mauryan empire lasted about **137 years** (322–185 BCE). Ashoka's death is **not** the empire's end date.
 
 ## 7.2 Chandragupta Maurya
@@ -893,6 +893,194 @@ Ashoka did **not** abolish spies. The spy chapter belongs to the *Arthashastra*,
 > **Logic:** Spy chapters are **Arthashastra**, not Rock Edict XII. Ashoka did not “abolish spies.”
 
 ---
+
+
+
+---
+
+## 7.18 Lucent GK Complete Comprehensive Reference & Direct Gap-Fill
+
+> **Note for Aspirants:** Every single fact, edict breakdown, inscription name, administrative post, tax rate, provincial capital, and art classification from Lucent's General Knowledge (Section 4: Maurya Period) has been compiled below. You will never need to consult Lucent GK separately for the Mauryan Empire.
+
+### 1. Sources for Mauryan History
+- **Literary Sources:**
+  - **Kautilya's Arthashastra:** Treatise on statecraft and polity. Propounds the **Saptanga Theory** (7 limbs of the state): **Raja** (the King), **Amatya** (Secretaries/Ministers), **Janapada** (Territory/Population), **Durg** (Fort), **Kosha** (Treasury), **Sena** (Army), and **Mitra** (Ally/Friend). The king was regarded as the **soul** among all seven elements.
+  - **Megasthenes' Indica:** Megasthenes was the Greek ambassador sent by Seleucus Nicator to the court of Chandragupta Maurya (302–298 BC). His original text is lost; fragments survive as quotations in classical Greek and Latin writers (Strabo, Diodorus, Arrian, Plutarch, Pliny, Justin). Mentions municipal administration, 7-class society, and the absence of formal slavery and usury in India.
+  - **Vishakhadatta's Mudrarakshasa:** Composed during the Gupta period; dramatizes how Chanakya won over Rakshasa to secure Chandragupta Maurya's throne; refers to Chandragupta as **Vrishala / Kulahina** (of low / humble origin).
+  - **Puranas:** Describe the Mauryas as Shudras and provide imperial chronologies and king-lists.
+  - **Buddhist Literature:**
+    - *Jatakas:* Part of the *Khuddaka Nikaya* of Sutta Pitaka (549 stories of Buddha's previous births); reflect prevailing socio-economic conditions.
+    - *Dipavamsa* and *Mahavamsa:* Ceylonese chronicles recording Ashoka's missionary initiatives in Sri Lanka.
+    - *Divyavadana:* Tibetan / Northern Buddhist text detailing Ashoka's efforts to spread Buddhism.
+- **Archaeological Sources:**
+  - **Ashokan Inscriptions:** Deciphered by **James Prinsep in 1837**; author identified as Ashoka in the early 20th century. Languages used: **Prakrit**; Scripts: **Kharosthi** in the NW, **Greek and Aramaic** in the West (Kandahar), and **Brahmi** in the East and across peninsular India.
+  - **Non-Ashokan Inscriptions:**
+    - *Junagadh Rock Inscription of Rudradaman (150 AD):* Mentions provincial governors Pushyagupta and Tushaspa and repairs to Lake Sudarshana.
+    - *Sohgaura Copper Plate Inscription (Gorakhpur, UP):* Earliest known copper-plate charter; records establishment of state storehouses and relief measures during famine.
+    - *Mahasthana Inscription (Bogura district, Bangladesh):* Records grain and treasury relief during famine.
+  - **Material Remains:** 80-pillared hall and wooden palace at **Kumhrar (Patna)** (seeing which Faxian exclaimed: *"These palaces are so beautiful and excellent that they appear to be the creation of God rather than of men"*); Northern Black Polished Ware (NBPW); and silver and copper punch-marked coins.
+
+---
+
+### 2. Names of Ashoka in Inscriptions (Lucent Inscription Matrix)
+| Inscriptional Name / Title | Inscription Source |
+| :--- | :--- |
+| **Ashoka** | **Maski Minor Rock Edict** (Karnataka) |
+| **Devanampriyas Ashoka Rajas** | **Gurjara Minor Rock Edict** (Madhya Pradesh) |
+| **Raja Ashoka Dewanampiya** | **Udegolum Minor Rock Edict** (Karnataka) |
+| **Raja Ashoka** | **Nittur (Nitlur) Minor Rock Edict** (Karnataka) |
+| **Piyadassi Raja Magadh** | **Bhabru-Bairat Minor Rock Edict** (Rajasthan — records conversion to Buddhism) |
+| **Piyadassi Raja** | **Barabar Cave Inscription** (Gaya, Bihar) |
+| **Piyadassi** | **Kandahar / Kandhar Major Rock Edict** and *Dipavamsa* |
+| **Ashoka Maurya** | **Junagadh Rock Inscription of Rudradaman** (150 AD, Gujarat) |
+| **Ashoka Vardhana** | **The Puranas** |
+
+---
+
+### 3. Classification of Ashokan Edicts
+#### A. 14 Major Rock Edicts (Found at 8 Sites)
+- **Sites:** Manshera (Hazara, Pak), Shahbazgarhi (Peshawar, Pak), Kalsi (Dehradun, UK), Junagadh (Girnar, Gujarat), Sopara (Thana, MH), Yerragudi (Kurnool, AP), Dhauli (Puri, Odisha), Jaugada (Ganjam, Odisha).
+- **Exact Subject Breakdown (Lucent Core):**
+  - **Edict I:** Prohibition of animal sacrifices and festive gatherings (*Samaja*).
+  - **Edict II:** Medical and social welfare measures for both men and animals; planting medicinal herbs and digging wells; mentions southern neighbours (Cholas, Pandyas, Satiyaputra, Keralaputra) and Antiochus II.
+  - **Edict III:** Respect to Brahmanas and Shramanas; orders provincial officers (Pradeshikas, Rajukas, Yuktas) to go on inspection tours every 5 years.
+  - **Edict IV:** *Bherighosa* (sound of war drum) replaced by *Dhammaghosa* (sound of Dhamma); courtesy to relatives and elders; kindness to animals.
+  - **Edict V:** Appointment of **Dhamma Mahamatras** (created in 14th regnal year) and definition of their duties.
+  - **Edict VI:** Efficient administrative organisation; royal availability for state business at all hours and places: *"At all times, whether I am eating, or am in the women's apartments, or in my inner apartments, or at the cattleshed, or in my carriage, or in my gardens — wherever I may be — my Mahamattas should keep me in touch with public business."*
+  - **Edict VII:** Appeal for religious tolerance and harmony among all sects.
+  - **Edict VIII:** Introduction of **Dhamma-yatras** (pious tours, starting with Bodh Gaya) in place of old pleasure hunts (*Vihara-yatras*).
+  - **Edict IX:** Rejection and condemnation of meaningless auspicious ceremonies and rituals.
+  - **Edict X:** Denunciation of personal glory and fame; glory lies only in following Dhamma.
+  - **Edict XI:** Exposition of the policy of Dhamma; gift of Dhamma (*Dhamma-dana*) is the highest gift.
+  - **Edict XII:** Earnest plea for mutual tolerance and growth of the essential spirit (*Sara-vriddhi*) of all religious sects.
+  - **Edict XIII:** **Kalinga War** fought in **261 BC** (in the 9th year of coronation / 8 years after coronation); records immense slaughter and remorse; conquest by Dhamma replaces physical conquest; mentions **5 contemporary Hellenic (Greek) kings**:
+    1. **Antiochus II Theos** of Syria
+    2. **Ptolemy II Philadelphos** of Egypt
+    3. **Antigonus Gonatas** of Macedonia
+    4. **Magas (Maggus)** of Cyrene (Syrina)
+    5. **Alexander** of Epirus
+  - **Edict XIV:** Exhortation to the people to lead a righteous, religious life.
+- **Separate Kalinga Rock Edicts (Dhauli / Tosali and Jaugada):** Substituted for Edicts XI, XII, and XIII in Odisha; sets up a paternal administrative system: *"All men are my children."*
+
+#### B. Pillar Edicts & Cave Inscriptions
+- **7 Major Pillar Edicts:** Appendices to Rock Edicts; Topra-Delhi, Meerut-Delhi, Allahabad, Lauriya-Areraj, Lauriya-Nandangarh, Rampurva.
+- **4 Minor Pillar Edicts:** Warning against schism in the Sangha (Sanchi, Sarnath, Allahabad).
+- **2 Tarai Pillar Edicts:** **Rummindei (Lumbini)** (commemorates Buddha's birthplace; exempts village from *Bali* tax and reduces land revenue *Bhaga* to 1/8th) and **Nigali Sagar** (enlargement of stupa of Konagamana Buddha).
+- **3 Barabar Cave Edicts:** In Gaya (Bihar); gifted to **Ajivika monks** by Ashoka (Sudama, World Hut / Visva Zopri, Chaupada of Karna / Karna Chaupar, and Lomas Rishi).
+
+---
+
+### 4. Rulers, Imperial Chronology & Foreign Envoys
+| Mauryan Ruler | Other Names & Titles | Foreign Envoys & Contemporary Rulers |
+| :--- | :--- | :--- |
+| **Chandragupta Maurya** (322–298 BC) | *Sandrocottus* (Strabo, Justin); *Androcottus* (Arrian, Plutarch); *Vrishala / Kulahina* (Vishakhadatta) | **Megasthenes** (302–298 BC), sent by **Seleucus Nicator** (Syria/Babylonia) |
+| **Bindusara** (298–273 BC) | *Amitrochates* (Greek texts, from *Amitraghata*); *Vindupala* (Chinese); *Sinhasena* (Jain); *Bhadrasara* (Vayu Purana) | **Deimachus (Dimachos)**, sent by **Antiochus I** of Syria; **Dionysius**, sent by **Ptolemy II Philadelphos** of Egypt |
+| **Ashoka** (273–232 BC) | *Devanampiya*, *Piyadassi*, *Ashoka Vardhana* | Envoys sent to 5 Hellenic kings: Antiochus II, Ptolemy II, Antigonus, Magas, Alexander |
+
+- **Chandragupta Maurya Details:**
+  - Overthrew Dhanananda in **322 BC** with Chanakya's guidance.
+  - Defeated Seleucus Nicator in **305 BC**; treaty ceded **Aria (Herat), Arachosia (Kandahar / Kandhar), Gedrosia (Baluchistan), and Paropanisadai / Paropanisade (Kabul)** in exchange for **500 war elephants**; Hindukush established as scientific frontier.
+  - Embraced Jainism and accompanied **Bhadrabahu** to **Chandragiri Hill, Shravanabelagola (Karnataka)**, where he died of voluntary starvation (**Kaya-Klesha / Sallekhana**).
+- **Bindusara Details:**
+  - Extended empire across the Deccan as far south as Mysore.
+  - Requested Antiochus I of Syria to purchase and send: **sweet wine, dried figs, and a sophist (philosopher)**; Antiochus sent wine and figs but politely wrote back that *"Greek philosophers are not for sale."*
+  - Patronised the **Ajivikas**.
+- **Ashoka Details:**
+  - Four-year interregnum (**273-269 BC**) due to a war of succession; Buddhist tradition states he killed 99 brothers, sparing youngest Tissa, with help from minister **Radhagupta**; crowned in **269 BC**.
+  - Kalinga War in **261 BC** (9th regnal year); retained Kalinga in the empire (not an absolute pacifist).
+  - Sent missionary son **Mahendra** and daughter **Sanghamitra** to Sri Lanka; sent missions to **Suvarnabhumi (Burma)**.
+  - Ashoka's Dhamma was a universal code of social ethics aimed at securing **Swarga (heaven)**; he did **never** say followers would attain *Nirvana* (which was the specific goal of monastic Buddhism).
+- **Later Mauryas & Fall:**
+  - Dynasty lasted **137 years**.
+  - Post-Ashoka division: Western empire ruled by **Kunala**; Eastern empire ruled by **Dasharatha**.
+  - Last ruler **Brihadratha** was assassinated in **185 BC** by his Brahmin commander-in-chief **Pushyamitra Shunga (Pushyamitra Sunga)**, who founded the Shunga dynasty.
+  - **Seven Causes for Decline:** 1. Highly centralised administration (Romila Thapar); 2. Pacifist policy of Ashoka (H.C. Raychaudhuri); 3. Brahmanical reaction (H.P. Sastri); 4. Partition of the empire; 5. Weak later-Mauryan rulers; 6. Heavy financial pressure on the economy; 7. Neglect of the North-West Frontier.
+
+---
+
+### 5. Central, Provincial, Municipal & Military Administration
+#### A. Important Central Officials (Lucent Master List)
+| Official | Designation / Functions |
+| :--- | :--- |
+| **Sannidhata** | Chief Treasury Officer |
+| **Samaharta** | Collector General of Revenue |
+| **Vyavaharika (Dharmastha)** | Chief Justice of Civil Court (*Dharmasthiya Nyayalaya*) |
+| **Pradeshta** | Chief Justice of Criminal Court (*Kantakashodhana Nyayalaya*) |
+| **Dhamma Mahamatra** | Propagating Dhamma and superintending public welfare |
+| **Rashtrapala / Kumara** | Royal prince / viceroy in charge of a province |
+| **Pradeshika** | District administrator (equivalent to modern District Magistrate) |
+| **Rajukas** | Surveying and assessing land revenue (later-day Patwaris) |
+| **Yukta** | Subordinate revenue officer at district level |
+| **Sthanika** | District revenue collecting officer directly under Pradeshika |
+| **Gopa** | Account keeper for a circle of 10–15 villages |
+| **Nagaraka** | City superintendent in charge of municipal administration |
+| **Akshapatala** | Accountant General |
+| **Sitadhyaksha** | Superintendent of Crown Agriculture |
+| **Panyadhyaksha** | Superintendent of Commerce |
+| **Samsthadhyaksha** | Superintendent of Markets and Trade Routes |
+| **Pautavadhyaksha** | Superintendent of Weights and Measures |
+| **Navadhyaksha** | Superintendent of Shipping and Ferries |
+| **Shulkadhyaksha** | Collector of Tolls and Customs |
+| **Akaradhyaksha** | Superintendent of Mines |
+| **Lohadhyaksha** | Superintendent of Iron Industry |
+
+#### B. Five Imperial Provinces (Chakras)
+1. **Uttarapatha (Northern Province):** Capital at **Taxila**
+2. **Avantirashtra (Western Province):** Capital at **Ujjain**
+3. **Prachi (Eastern & Central Province):** Capital at **Pataliputra**
+4. **Kalinga (Eastern Province):** Capital at **Toshali**
+5. **Dakshinapatha (Southern Province):** Capital at **Suvarnagiri**
+- **Saurashtra Feudatory Rule:** *Junagadh Rock Inscription of Rudradaman* records that Saurashtra was governed by **Pushyagupta, the Vaishya**, under Chandragupta Maurya, and by the Greek ruler **Tushaspa** under Ashoka.
+- **Administrative Units Ladder:** Chakra (Province — *Rashtrapala/Kumara*) → Ahar / Vishaya (District — *Pradeshika & Rajuka*) → Sangrahana (Group of 10 villages — *Gopa*) → Grama (Village — *Gramika*).
+
+#### C. Municipal Administration (Megasthenes' 6 Committees of 5 Members)
+Megasthenes records that the administration of Pataliputra was managed by a municipal board of 30 members divided into 6 committees of 5 members each:
+1. **1st Committee:** Industrial Arts and Handicrafts.
+2. **2nd Committee:** Entertainment of Foreigners.
+3. **3rd Committee:** Registration of Births and Deaths (vital statistics).
+4. **4th Committee:** Trade and Commerce (inspection of weights and measures).
+5. **5th Committee:** Public sale and supervision of manufactured goods.
+6. **6th Committee:** Collection of taxes on goods sold (**1/10th of the purchase price**).
+
+#### D. Military Administration & Espionage
+- Maintained a colossal army including an imperial **Navy**.
+- Managed by a **board of 30 officers** divided into **6 committees of 5 members each**: 1. Infantry, 2. Cavalry, 3. War Elephants, 4. Chariots, 5. Navy, 6. Military Transport and Logistics.
+- **Gudhapurushas (Secret Service / Spies):**
+  - **Sansthan:** Stationary spies operating undercover inside institutions, temples, and shops.
+  - **Sanchari:** Wandering secret agents moving from place to place.
+
+---
+
+### 6. Economy, Society & Mauryan Art
+- **Economy:**
+  - Land revenue varied from **1/4 to 1/6** of produce.
+  - State provided irrigation facilities (**Setubandha**) and charged water-tax.
+  - State held monopoly over mining, forests, salt, sale of liquor, and manufacture of arms.
+  - Important ports: **Bharukachch / Bharoch** and **Supara** on the Western coast; **Tamralipti** in Bengal on the Eastern coast.
+  - **Punch-marked silver coins (Pana)** were the standard units of currency.
+- **Society:**
+  - Megasthenes records **7 classes** in Indian society: 1. Philosophers, 2. Farmers (largest class), 3. Soldiers, 4. Herdsmen, 5. Artisans, 6. Magistrates, 7. Councillors.
+  - Kautilya's *Arthashastra* recognized Shudras as an **Aryan community** (distinguishing them from non-Aryan *Mlechhas*).
+  - Slavery was an established institution in India, though Megasthenes stated there was no slavery (he judged by harsh Greco-Roman standards).
+  - Women enjoyed high status, right to divorce and remarriage, and served as royal bodyguards and secret spies.
+- **Mauryan Art (Ananda Coomaraswamy's Classification):**
+  1. **Royal / Court Art:**
+     - Palace of Chandragupta Maurya and 80-pillared hall at Kumhrar.
+     - Ashokan monolithic sandstone pillars (Chunar sandstone with lustrous polish).
+     - **Capitals:**
+       - **Four-lion capital:** Sarnath and Sanchi (Sarnath lion capital adopted as **National Emblem of India on 26 January 1950**).
+       - **Single lion capital:** Rampurva and Lauriya-Nandangarh.
+       - **Single bull capital:** Rampurva.
+       - **Carved elephant:** Dhauli (rock surface).
+       - **Engraved elephant:** Kalsi.
+     - **Caves:** Hewn for monks to live in: **Barabar Caves in Gaya** (Ashokan: Sudama, World Hut, Chaupada of Karna, Rishi Lomesh); and **Nagarjuni Caves in Gaya** (Dasharatha).
+     - **Stupas:** Sanchi and Bharhut (enshrining Buddha's relics).
+  2. **Folk / Popular Art:**
+     - Colossal stone figure sculpture of Yakshas and Yakshinis:
+       - **Yaksha of Parkham** (Mathura, UP).
+       - **Yakshini of Besnagar / Vidisha** (MP).
+       - **Chanwar-bearer Yakshini of Didarganj** (Patna, Bihar).
+     - Terracotta artistic figurines.
 
 ## UP Focus
 
@@ -1923,7 +2111,7 @@ D. Kalsi
 
 1. Empire runs about 322–185 BCE.
 2. Order is Chandragupta → Bindusara Amitraghata → Ashoka → … → Brihadratha.
-3. Brihadratha was killed by Pushyamitra Shunga in 185 BCE.
+3. Brihadratha was killed by Pushyamitra Shunga (Pushyamitra Sunga) in 185 BCE.
 
 Select the correct answer from the code given below:
 
