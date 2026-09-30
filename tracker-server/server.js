@@ -2040,8 +2040,8 @@ app.get('/api/chapter-tests', requireAuth, checkDb, async (req, res) => {
     }
 
     res.json({
-      subject: req.query.subject,
-      topic: targetTopic,
+      subject: req.query.subject || null,
+      topic: topic || null,
       attempts: items,
       summary: {
         total_tests: totalTests,
