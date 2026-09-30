@@ -426,6 +426,11 @@
     document.getElementById('st-header-user-nav')?.remove();
     document.getElementById('st-header-admin-direct-btn')?.remove();
 
+    // Insertion anchor: Place prominently before the palette toggle or search or repository button
+    const insertRef = headerInner.querySelector('.md-header__option') || 
+                      headerInner.querySelector('.md-search') || 
+                      headerInner.querySelector('.md-header__source');
+
     if (!user) {
       // Unauthenticated state button
       const loginBtn = document.createElement('button');
@@ -437,7 +442,11 @@
         e.preventDefault();
         showAuthVaultModal();
       });
-      headerInner.appendChild(loginBtn);
+      if (insertRef) {
+        headerInner.insertBefore(loginBtn, insertRef);
+      } else {
+        headerInner.appendChild(loginBtn);
+      }
       return;
     }
 
@@ -446,22 +455,23 @@
     navWrap.className = 'st-user-nav-wrap';
 
     const isAdmin = user.role === 'admin';
-    const initials = (user.name || user.email || 'U').split(' ').map(n => n[0]).join('').slice(0, 2).toUpperCase();
+    const displayName = user.name || (user.email ? user.email.split('@')[0] : 'User');
+    const initials = (user.name || user.email || 'U').split(' ').map(n => n[0]).filter(Boolean).join('').slice(0, 2).toUpperCase() || 'U';
 
     navWrap.innerHTML = `
-      <button type="button" class="st-user-nav-btn ${isAdmin ? 'is-admin' : ''}" id="st-user-menu-trigger" title="${user.name} (${user.email})">
-        <span class="st-user-nav-avatar">${initials}</span>
-        <span class="st-user-nav-label">${user.name || user.email.split('@')[0]}</span>
+      <button type="button" class="st-user-nav-btn ${isAdmin ? 'is-admin' : ''}" id="st-user-menu-trigger" title="${escapeHtml(displayName)} (${escapeHtml(user.email)})" aria-label="Account details: ${escapeHtml(displayName)}">
+        <span class="st-user-nav-avatar">${escapeHtml(initials)}</span>
+        <span class="st-user-nav-label">${escapeHtml(displayName)}</span>
         <span class="st-user-nav-role">${isAdmin ? '👑 Admin' : '🎓 Aspirant'}</span>
         <span class="st-user-nav-caret">▾</span>
       </button>
 
       <div class="st-user-menu-dropdown" id="st-user-menu-dropdown" style="display: none;">
         <div class="st-user-menu-header">
-          <div class="st-user-menu-avatar-large">${initials}</div>
+          <div class="st-user-menu-avatar-large ${isAdmin ? 'is-admin-avatar' : ''}">${escapeHtml(initials)}</div>
           <div class="st-user-menu-info">
-            <div class="st-user-menu-name">${user.name || 'Aspirant'}</div>
-            <div class="st-user-menu-email">${user.email}</div>
+            <div class="st-user-menu-name">${escapeHtml(user.name || displayName)}</div>
+            <div class="st-user-menu-email">${escapeHtml(user.email)}</div>
             <div class="st-user-menu-badge ${isAdmin ? 'badge-admin' : 'badge-student'}">
               ${isAdmin ? '👑 Super Administrator' : '🎓 Student Aspirant'}
             </div>
@@ -470,7 +480,7 @@
 
         <div class="st-user-menu-session-note">
           <span class="st-session-dot"></span>
-          <span>7-Day Active JWT Session</span>
+          <span>🟢 Active Session (7-Day JWT)</span>
         </div>
 
         <div class="st-user-menu-actions">
@@ -492,8 +502,6 @@
       </div>
     `;
 
-    headerInner.appendChild(navWrap);
-
     if (isAdmin) {
       const adminLink = document.createElement('a');
       adminLink.id = 'st-header-admin-direct-btn';
@@ -501,7 +509,17 @@
       adminLink.href = resolveAdminPageUrl();
       adminLink.innerHTML = `👑 Admin Console`;
       adminLink.title = 'Open Dedicated Admin Control Center';
-      headerInner.appendChild(adminLink);
+      if (insertRef) {
+        headerInner.insertBefore(adminLink, insertRef);
+      } else {
+        headerInner.appendChild(adminLink);
+      }
+    }
+
+    if (insertRef) {
+      headerInner.insertBefore(navWrap, insertRef);
+    } else {
+      headerInner.appendChild(navWrap);
     }
 
     const trigger = document.getElementById('st-user-menu-trigger');
@@ -1113,6 +1131,8 @@
         btn.textContent = 'Create Account';
       }
     });
+  }
+
   // -------------------------------------------------------------
   // DEDICATED ADMINISTRATOR PAGE CONTROLLER
   // Handles /admin/ page view (#st-dedicated-admin-container)
@@ -1152,8 +1172,33 @@
       return;
     }
 
+    const adminInitials = (user.name || user.email || 'A').split(' ').map(n => n[0]).filter(Boolean).join('').slice(0, 2).toUpperCase() || 'A';
+    const adminDisplayName = user.name || (user.email ? user.email.split('@')[0] : 'Administrator');
+
     // Render Full Dedicated Admin Console Interface
     container.innerHTML = `
+      <!-- 0. Logged-in Administrator Identity Card -->
+      <div class="st-admin-account-bar">
+        <div class="st-admin-account-profile">
+          <div class="st-admin-account-avatar">${escapeHtml(adminInitials)}</div>
+          <div class="st-admin-account-details">
+            <div class="st-admin-account-name-row">
+              <span class="st-admin-account-name">${escapeHtml(adminDisplayName)}</span>
+              <span class="st-admin-account-badge">👑 Super Administrator</span>
+              <span class="st-admin-session-pill">🟢 Session Active (7-Day JWT)</span>
+            </div>
+            <div class="st-admin-account-meta">
+              <span>📧 <strong>Account:</strong> ${escapeHtml(user.email)}</span>
+              <span>🛡️ <strong>Privilege:</strong> Full Platform & Candidate Administration</span>
+            </div>
+          </div>
+        </div>
+        <div class="st-admin-account-actions">
+          <button type="button" class="st-btn-admin-action" id="st-admin-page-change-pw">🔑 Change Password</button>
+          <button type="button" class="st-btn-admin-action is-danger" id="st-admin-page-logout">🚪 Sign Out</button>
+        </div>
+      </div>
+
       <!-- 1. Provision New User Card -->
       <div class="st-provision-card">
         <div class="st-provision-head">
@@ -1269,6 +1314,20 @@
         </div>
       </div>
     `;
+
+    // Top Admin Account Bar Actions
+    document.getElementById('st-admin-page-change-pw')?.addEventListener('click', () => {
+      openChangePasswordModal();
+    });
+    document.getElementById('st-admin-page-logout')?.addEventListener('click', async () => {
+      try {
+        await authFetch(`${API_BASE}/auth/logout`, { method: 'POST' });
+      } catch {}
+      clearStoredAuth();
+      showAuthVaultModal();
+      injectHeaderUserNav(null);
+      renderDedicatedAdminPage(null);
+    });
 
     // Provision Form Handler
     const provForm = document.getElementById('st-page-provision-form');
@@ -9079,7 +9138,14 @@
   // -------------------------------------------------------------
   const boot = async () => {
     const token = getStoredAuthToken();
-    if (!token) {
+    const cachedUser = getStoredUser();
+
+    // Zero-flicker immediate render if cached credentials exist
+    if (token && cachedUser) {
+      document.body.classList.remove('st-vault-locked');
+      injectHeaderUserNav(cachedUser);
+      renderDedicatedAdminPage(cachedUser);
+    } else if (!token) {
       injectHeaderUserNav(null);
       renderDedicatedAdminPage(null);
       showAuthVaultModal();
@@ -9131,7 +9197,10 @@
 
   if (typeof document$ !== 'undefined') {
     document$.subscribe(boot);
-  } else {
+  }
+  if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', boot);
+  } else {
+    boot();
   }
 })();
