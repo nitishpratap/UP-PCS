@@ -5352,6 +5352,12 @@ body.st-vault-locked .md-header {
   background: #334155 !important;
 }
 
+/* Remove repository button, GitHub logo, and star/fork counts from navbar */
+.md-header__source,
+.md-header .md-source {
+  display: none !important;
+}
+
 /* -------------------------------------------------------------
    Header User Navigation & Dropdown
    ------------------------------------------------------------- */
@@ -5470,6 +5476,51 @@ body.st-vault-locked .md-header {
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(245, 158, 11, 0.35);
   color: #ffffff !important;
+}
+
+@media (max-width: 768px) {
+  .st-user-nav-wrap {
+    margin-left: 0.25rem;
+    margin-right: 0.15rem;
+  }
+  .st-user-nav-btn {
+    padding: 0.22rem 0.5rem 0.22rem 0.3rem;
+    gap: 0.35rem;
+    font-size: 0.76rem;
+  }
+  .st-user-nav-role {
+    display: none !important;
+  }
+  .st-user-nav-label {
+    max-width: 95px;
+  }
+  .st-header-admin-link {
+    padding: 0.22rem 0.55rem;
+    font-size: 0.72rem;
+    margin-left: 0.25rem;
+    margin-right: 0.15rem;
+  }
+}
+
+@media (max-width: 520px) {
+  .st-user-nav-label {
+    display: none !important;
+  }
+  .st-user-nav-btn {
+    padding: 0.2rem;
+    border-radius: 50%;
+  }
+  .st-user-nav-caret {
+    display: none !important;
+  }
+  .st-header-admin-link {
+    padding: 0.22rem 0.45rem;
+    font-size: 0.72rem;
+  }
+  .st-user-menu-dropdown {
+    width: min(290px, calc(100vw - 1rem)) !important;
+    right: -0.25rem !important;
+  }
 }
 
 /* User Menu Dropdown Card */
@@ -5832,11 +5883,13 @@ body.st-vault-locked .md-header {
   flex-wrap: wrap;
   gap: 0.85rem;
   padding: 0.75rem 2rem 1.25rem;
+  min-width: 0;
 }
 
 .st-admin-search-wrap {
   flex: 1;
   min-width: 240px;
+  max-width: 100%;
 }
 
 .st-admin-search-input {
@@ -5897,11 +5950,72 @@ body.st-vault-locked .md-header {
   filter: brightness(1.1);
 }
 
-/* Users Table */
+/* Horizontal scroll indicator banner for candidate directory */
+.st-table-scroll-hint {
+  display: none;
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: #4f46e5;
+  background: rgba(79, 70, 229, 0.08);
+  border: 1px dashed rgba(79, 70, 229, 0.35);
+  border-radius: 0.5rem;
+  padding: 0.45rem 0.85rem;
+  margin-bottom: 0.75rem;
+  text-align: center;
+}
+
+[data-md-color-scheme="slate"] .st-table-scroll-hint {
+  color: #a5b4fc;
+  background: rgba(99, 102, 241, 0.15);
+  border-color: rgba(99, 102, 241, 0.45);
+}
+
+@media (max-width: 860px) {
+  .st-table-scroll-hint {
+    display: block;
+  }
+}
+
+/* Users Table Container */
 .st-admin-table-container {
   flex: 1;
-  overflow-y: auto;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  overflow-x: auto !important;
+  overflow-y: auto !important;
+  -webkit-overflow-scrolling: touch;
   padding: 0 2rem 2rem;
+  position: relative;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(79, 70, 229, 0.4) transparent;
+}
+
+.st-admin-table-container::-webkit-scrollbar {
+  height: 6px;
+  width: 6px;
+}
+
+.st-admin-table-container::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.04);
+  border-radius: 9999px;
+}
+
+.st-admin-table-container::-webkit-scrollbar-thumb {
+  background: rgba(79, 70, 229, 0.35);
+  border-radius: 9999px;
+}
+
+.st-admin-table-container::-webkit-scrollbar-thumb:hover {
+  background: rgba(79, 70, 229, 0.6);
+}
+
+[data-md-color-scheme="slate"] .st-admin-table-container::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+[data-md-color-scheme="slate"] .st-admin-table-container::-webkit-scrollbar-thumb {
+  background: rgba(99, 102, 241, 0.45);
 }
 
 .st-admin-loading {
@@ -5913,7 +6027,9 @@ body.st-vault-locked .md-header {
 
 .st-admin-table {
   width: 100%;
-  border-collapse: collapse;
+  min-width: 860px;
+  border-collapse: separate;
+  border-spacing: 0;
   text-align: left;
   font-size: 0.86rem;
 }
@@ -5930,6 +6046,7 @@ body.st-vault-locked .md-header {
   position: sticky;
   top: 0;
   z-index: 2;
+  white-space: nowrap;
 }
 
 [data-md-color-scheme="slate"] .st-admin-table th {
@@ -5942,10 +6059,53 @@ body.st-vault-locked .md-header {
   padding: 0.95rem 1rem;
   border-bottom: 1px solid #f1f5f9;
   vertical-align: middle;
+  white-space: nowrap;
 }
 
 [data-md-color-scheme="slate"] .st-admin-table td {
   border-bottom-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Explicit minimum widths for each column so candidate data and action buttons never truncate */
+.st-admin-table th:first-child,
+.st-admin-table td:first-child {
+  min-width: 210px;
+  white-space: normal;
+}
+
+.st-admin-table th:nth-child(2),
+.st-admin-table td:nth-child(2) {
+  min-width: 130px;
+}
+
+.st-admin-table th:nth-child(3),
+.st-admin-table td:nth-child(3) {
+  min-width: 95px;
+}
+
+.st-admin-table th:nth-child(4),
+.st-admin-table td:nth-child(4),
+.st-admin-table th:nth-child(5),
+.st-admin-table td:nth-child(5) {
+  min-width: 80px;
+  text-align: center;
+}
+
+.st-admin-table th:nth-child(6),
+.st-admin-table td:nth-child(6) {
+  min-width: 90px;
+}
+
+.st-admin-table th:nth-child(7),
+.st-admin-table td:nth-child(7) {
+  min-width: 105px;
+}
+
+/* Actions Column: guaranteed space for all 3 action buttons */
+.st-admin-table th:nth-child(8),
+.st-admin-table td:nth-child(8) {
+  min-width: 275px;
+  text-align: left;
 }
 
 .st-admin-table tr:hover td {
@@ -5997,6 +6157,7 @@ body.st-vault-locked .md-header {
 .st-admin-email {
   font-size: 0.78rem;
   color: #64748b;
+  word-break: break-all;
 }
 
 [data-md-color-scheme="slate"] .st-admin-email {
@@ -6009,6 +6170,7 @@ body.st-vault-locked .md-header {
   font-weight: 700;
   padding: 0.2rem 0.55rem;
   border-radius: 9999px;
+  white-space: nowrap;
 }
 
 .st-role-pill.pill-admin {
@@ -6031,6 +6193,7 @@ body.st-vault-locked .md-header {
   border-radius: 9999px;
   cursor: pointer;
   transition: all 0.15s ease;
+  white-space: nowrap;
 }
 
 .st-status-btn.is-active {
@@ -6053,6 +6216,8 @@ body.st-vault-locked .md-header {
   display: flex;
   align-items: center;
   gap: 0.45rem;
+  white-space: nowrap;
+  flex-wrap: nowrap;
 }
 
 .st-table-btn {
@@ -6065,6 +6230,11 @@ body.st-vault-locked .md-header {
   cursor: pointer;
   transition: all 0.15s ease;
   color: inherit;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.3rem !important;
 }
 
 [data-md-color-scheme="slate"] .st-table-btn {
@@ -9121,7 +9291,7 @@ mjx-container[jax='CHTML'][display='true'] {
   align-items: center;
   gap: 1.2rem;
   flex: 1;
-  min-width: 280px;
+  min-width: 0;
 }
 
 .st-admin-account-avatar {
@@ -9143,6 +9313,8 @@ mjx-container[jax='CHTML'][display='true'] {
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
+  min-width: 0;
+  flex: 1;
 }
 
 .st-admin-account-name-row {
@@ -9186,12 +9358,20 @@ mjx-container[jax='CHTML'][display='true'] {
   font-size: 0.84rem;
   color: #cbd5e1 !important;
   flex-wrap: wrap;
+  min-width: 0;
 }
 
 .st-admin-account-meta span {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+.st-admin-email-text {
+  word-break: break-all;
+  overflow-wrap: anywhere;
 }
 
 .st-admin-account-actions {
@@ -9434,6 +9614,284 @@ mjx-container[jax='CHTML'][display='true'] {
   color: #fca5a5;
   border-color: rgba(239, 68, 68, 0.4);
 }
+
+/* --------------------------------------------------------------------------
+   ADMIN CONTROL CENTER & GENERAL MOBILE RESPONSIVENESS
+   -------------------------------------------------------------------------- */
+
+/* Hide reading tools on dedicated admin dashboard */
+body:has(#st-dedicated-admin-container) .reading-tools,
+body:has(.st-dedicated-admin-root) .reading-tools,
+.st-admin-page-hero ~ .reading-tools {
+  display: none !important;
+}
+
+/* -------------------------------------------------------------
+   Admin Navbar Visibility (Hidden for Normal Users & Guests)
+   By default, the Admin tab and navigation drawer link are hidden.
+   Only when signed in as an administrator (html.st-is-admin),
+   they become visible.
+   ------------------------------------------------------------- */
+.md-tabs__item:has(a.md-tabs__link[href*="admin/"]),
+.md-tabs__item:has(a.md-tabs__link[href$="admin/"]),
+.md-tabs__item:has(a.md-tabs__link[href*="admin.md"]),
+.md-tabs__item.st-admin-tab-item,
+.md-nav__item:has(a.md-nav__link[href*="admin/"]):not(:has(a.md-nav__link[href*="administration"])),
+.md-nav__item:has(a.md-nav__link[href$="admin/"]),
+.md-nav__item:has(a.md-nav__link[href*="admin.md"]),
+.md-nav__item.st-admin-nav-item {
+  display: none !important;
+}
+
+html.st-is-admin .md-tabs__item:has(a.md-tabs__link[href*="admin/"]),
+html.st-is-admin .md-tabs__item:has(a.md-tabs__link[href$="admin/"]),
+html.st-is-admin .md-tabs__item:has(a.md-tabs__link[href*="admin.md"]),
+html.st-is-admin .md-tabs__item.st-admin-tab-item,
+body.st-is-admin .md-tabs__item:has(a.md-tabs__link[href*="admin/"]),
+body.st-is-admin .md-tabs__item:has(a.md-tabs__link[href$="admin/"]),
+body.st-is-admin .md-tabs__item:has(a.md-tabs__link[href*="admin.md"]),
+body.st-is-admin .md-tabs__item.st-admin-tab-item {
+  display: inline-block !important;
+}
+
+html.st-is-admin .md-nav__item:has(a.md-nav__link[href*="admin/"]):not(:has(a.md-nav__link[href*="administration"])),
+html.st-is-admin .md-nav__item:has(a.md-nav__link[href$="admin/"]),
+html.st-is-admin .md-nav__item:has(a.md-nav__link[href*="admin.md"]),
+html.st-is-admin .md-nav__item.st-admin-nav-item,
+body.st-is-admin .md-nav__item:has(a.md-nav__link[href*="admin/"]):not(:has(a.md-nav__link[href*="administration"])),
+body.st-is-admin .md-nav__item:has(a.md-nav__link[href$="admin/"]),
+body.st-is-admin .md-nav__item:has(a.md-nav__link[href*="admin.md"]),
+body.st-is-admin .md-nav__item.st-admin-nav-item {
+  display: block !important;
+}
+
+/* Ensure no admin element can blow out mobile viewport width */
+.st-dedicated-admin-root,
+.st-admin-page-hero,
+.st-admin-account-bar,
+.st-provision-card,
+.st-user-directory-card,
+.st-admin-table-container {
+  min-width: 0 !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+@media (max-width: 768px) {
+  .st-admin-page-hero {
+    padding: 1.4rem 1.15rem;
+    margin: 0.25rem 0 1.25rem;
+    border-radius: 1rem;
+  }
+
+  .st-admin-page-hero h2 {
+    font-size: 1.35rem !important;
+    line-height: 1.3 !important;
+  }
+
+  .st-admin-page-hero p {
+    font-size: 0.86rem !important;
+  }
+
+  .st-admin-account-bar {
+    padding: 1.15rem 1rem;
+    gap: 1rem;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .st-admin-account-profile {
+    align-items: flex-start;
+    gap: 0.85rem;
+  }
+
+  .st-admin-account-avatar {
+    width: 46px;
+    height: 46px;
+    font-size: 1.15rem;
+    border-radius: 0.75rem;
+  }
+
+  .st-admin-account-name {
+    font-size: 1.15rem;
+  }
+
+  .st-admin-account-meta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.35rem;
+    font-size: 0.8rem;
+  }
+
+  .st-admin-account-actions {
+    width: 100%;
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .st-admin-account-actions .st-btn-admin-action {
+    flex: 1;
+    justify-content: center;
+    padding: 0.55rem 0.75rem;
+    font-size: 0.78rem;
+  }
+
+  .st-provision-card {
+    padding: 1.15rem 1rem;
+    border-radius: 1rem;
+  }
+
+  .st-provision-grid {
+    grid-template-columns: 1fr;
+    gap: 0.85rem;
+  }
+
+  .st-btn-provision {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .st-admin-stats-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 0.65rem !important;
+    padding: 0 0 0.5rem 0 !important;
+  }
+
+  /* Make the 5th stat card (Study Hours Logged) span across 2 columns for a balanced layout */
+  .st-admin-stats-grid .st-admin-stat-card:last-child:nth-child(odd) {
+    grid-column: span 2;
+  }
+
+  .st-admin-stat-card {
+    padding: 0.85rem 0.5rem;
+    border-radius: 0.65rem;
+  }
+
+  .st-stat-num {
+    font-size: 1.35rem;
+  }
+
+  .st-stat-lbl {
+    font-size: 0.68rem;
+  }
+
+  .st-user-directory-card {
+    padding: 1.15rem 1rem;
+    border-radius: 1rem;
+  }
+
+  .st-provision-head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.65rem;
+  }
+
+  #st-page-refresh-btn {
+    width: 100%;
+    margin-left: 0 !important;
+    justify-content: center;
+  }
+
+  .st-admin-toolbar {
+    padding: 0 0 0.85rem 0 !important;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.65rem;
+  }
+
+  .st-admin-search-wrap {
+    min-width: 0 !important;
+    width: 100% !important;
+  }
+
+  .st-admin-search-input {
+    width: 100% !important;
+    font-size: 0.85rem;
+  }
+
+  .st-admin-filters {
+    width: 100%;
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .st-admin-select {
+    flex: 1;
+    min-width: 0;
+    font-size: 0.82rem;
+    padding: 0.55rem 0.65rem;
+  }
+
+  /* Quick Admin Modal on tablet/mobile screens */
+  .st-admin-overlay {
+    padding: 0.4rem !important;
+    align-items: flex-end !important;
+  }
+
+  .st-admin-modal {
+    max-height: 96vh !important;
+    border-radius: 1.25rem 1.25rem 0 0 !important;
+  }
+
+  .st-admin-header {
+    padding: 0.85rem 1rem !important;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .st-admin-header-title {
+    gap: 0.6rem;
+  }
+
+  .st-admin-icon {
+    width: 38px;
+    height: 38px;
+    font-size: 1.35rem;
+  }
+
+  .st-admin-header-title h2 {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .st-admin-page-hero {
+    padding: 1.15rem 0.95rem;
+    border-radius: 0.85rem;
+  }
+
+  .st-admin-page-hero h2 {
+    font-size: 1.18rem !important;
+  }
+
+  .st-admin-account-bar {
+    padding: 0.95rem;
+    border-radius: 0.85rem;
+  }
+
+  .st-provision-card,
+  .st-user-directory-card {
+    padding: 0.95rem;
+    border-radius: 0.85rem;
+  }
+
+  .st-admin-stats-grid {
+    gap: 0.5rem !important;
+  }
+
+  .st-stat-num {
+    font-size: 1.2rem;
+  }
+
+  .st-stat-lbl {
+    font-size: 0.64rem;
+  }
+
+  .st-admin-filters {
+    flex-direction: column;
+  }
+}
+
 
 
 

@@ -417,6 +417,46 @@
     return '/admin/';
   }
 
+  function syncAdminNavVisibility(user) {
+    const isAdmin = !!(user && user.role === 'admin');
+    document.documentElement.classList.toggle('st-is-admin', isAdmin);
+    document.body.classList.toggle('st-is-admin', isAdmin);
+
+    // Target all top navigation tabs (.md-tabs__item) pointing to the admin page
+    const adminTabLinks = document.querySelectorAll(
+      'a.md-tabs__link[href*="admin/"], a.md-tabs__link[href$="admin/"], a.md-tabs__link[href*="admin.md"]'
+    );
+    adminTabLinks.forEach(link => {
+      const item = link.closest('.md-tabs__item');
+      if (item) {
+        item.classList.add('st-admin-tab-item');
+        item.style.setProperty('display', isAdmin ? 'inline-block' : 'none', 'important');
+      }
+    });
+
+    // Target sidebar drawer nav items (.md-nav__item) pointing specifically to the admin control center
+    const adminNavLinks = document.querySelectorAll(
+      'a.md-nav__link[href*="admin/"], a.md-nav__link[href$="admin/"], a.md-nav__link[href*="admin.md"]'
+    );
+    adminNavLinks.forEach(link => {
+      const href = link.getAttribute('href') || '';
+      const text = (link.textContent || '').trim().toLowerCase();
+      // Only match the dedicated admin page, avoid subtopic notes with 'administration'
+      if (href.endsWith('admin/') || href.includes('/admin/') || text === 'admin' || text.startsWith('👑 admin')) {
+        const item = link.closest('.md-nav__item');
+        if (item) {
+          item.classList.add('st-admin-nav-item');
+          item.style.setProperty('display', isAdmin ? 'block' : 'none', 'important');
+        }
+      }
+    });
+
+    const directAdminBtn = document.getElementById('st-header-admin-direct-btn');
+    if (directAdminBtn) {
+      directAdminBtn.style.setProperty('display', isAdmin ? 'inline-flex' : 'none', 'important');
+    }
+  }
+
   function injectHeaderUserNav(user) {
     const headerInner = document.querySelector('.md-header__inner');
     if (!headerInner) return;
@@ -447,6 +487,7 @@
       } else {
         headerInner.appendChild(loginBtn);
       }
+      syncAdminNavVisibility(null);
       return;
     }
 
@@ -558,6 +599,8 @@
       showAuthVaultModal();
       injectHeaderUserNav(null);
     });
+
+    syncAdminNavVisibility(user);
   }
 
   function injectHeaderLockBtn() {
@@ -732,8 +775,12 @@
           </div>
         </div>
 
+        <div class="st-table-scroll-hint" style="margin: 0 2rem 0.5rem;">
+          <span>⇄ Swipe or scroll table horizontally to inspect all candidate columns & actions</span>
+        </div>
+
         <!-- Users Table Container -->
-        <div class="st-admin-table-container">
+        <div class="st-admin-table-container" style="width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch;">
           <div id="st-admin-loading" class="st-admin-loading">Loading users & metrics...</div>
           <table class="st-admin-table" id="st-admin-table" style="display: none;">
             <thead>
@@ -1188,8 +1235,8 @@
               <span class="st-admin-session-pill">🟢 Session Active (7-Day JWT)</span>
             </div>
             <div class="st-admin-account-meta">
-              <span>📧 <strong>Account:</strong> ${escapeHtml(user.email)}</span>
-              <span>🛡️ <strong>Privilege:</strong> Full Platform & Candidate Administration</span>
+              <span class="st-admin-meta-item">📧 <strong>Account:</strong> <span class="st-admin-email-text">${escapeHtml(user.email)}</span></span>
+              <span class="st-admin-meta-item">🛡️ <strong>Privilege:</strong> Full Platform & Candidate Administration</span>
             </div>
           </div>
         </div>
@@ -1294,7 +1341,11 @@
           </div>
         </div>
 
-        <div class="st-admin-table-container" style="padding: 0; max-height: 600px;">
+        <div class="st-table-scroll-hint">
+          <span>⇄ Swipe or scroll table horizontally to inspect all candidate records & actions</span>
+        </div>
+
+        <div class="st-admin-table-container" style="padding: 0; max-height: 600px; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch;">
           <div id="st-page-users-loading" class="st-admin-loading">Loading candidate directory...</div>
           <table class="st-admin-table" id="st-page-users-table" style="display: none;">
             <thead>
@@ -9139,6 +9190,9 @@
   const boot = async () => {
     const token = getStoredAuthToken();
     const cachedUser = getStoredUser();
+
+    // Immediately synchronize admin nav visibility based on cached state
+    syncAdminNavVisibility(token ? cachedUser : null);
 
     // Zero-flicker immediate render if cached credentials exist
     if (token && cachedUser) {

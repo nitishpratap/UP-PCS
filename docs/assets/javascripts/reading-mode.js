@@ -123,6 +123,9 @@
   }
 
   function initialiseReadingMode() {
+    if (document.getElementById("st-dedicated-admin-container") || document.querySelector(".st-admin-page-hero") || window.location.pathname.includes("/admin")) {
+      return;
+    }
     if (!document.querySelector(".reading-tools")) {
       const article = document.querySelector(".md-content__inner");
       const heading = article?.querySelector("h1");
