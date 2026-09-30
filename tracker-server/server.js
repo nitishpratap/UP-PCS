@@ -686,19 +686,18 @@ function shuffleQuestionOptions(question) {
 
 // ------------------- AUTHENTICATION ROUTES ------------------- //
 
-// Public configuration endpoint
+// Public configuration endpoint (does NOT expose admin credentials)
 app.get('/api/auth/config', (req, res) => {
   res.json({
     success: true,
-    adminEmail: ADMIN_EMAIL,
-    adminName: ADMIN_NAME
+    publicRegistration: false
   });
 });
 
-// Register new user (student or admin)
-app.post('/api/auth/register', checkDb, async (req, res) => {
+// Register new user (RESTRICTED TO ADMIN ONLY)
+app.post('/api/auth/register', requireAdmin, checkDb, async (req, res) => {
   try {
-    const { email, password, name } = req.body || {};
+    const { email, password, name, role = 'student' } = req.body || {};
     if (!email || !password) {
       return res.status(400).json({ error: 'Email and password are required.' });
     }
@@ -716,32 +715,24 @@ app.post('/api/auth/register', checkDb, async (req, res) => {
     }
 
     const hashedPassword = await bcrypt.hash(password, 10);
-    const role = (cleanEmail === ADMIN_EMAIL) ? 'admin' : 'student';
+    const assignedRole = (cleanEmail === ADMIN_EMAIL || role === 'admin') ? 'admin' : 'student';
     const defaultName = (cleanEmail === ADMIN_EMAIL) ? ADMIN_NAME : cleanEmail.split('@')[0];
     const newUser = {
       email: cleanEmail,
       name: (name || defaultName).trim(),
       password: hashedPassword,
-      role: role,
+      role: assignedRole,
       status: 'active',
       created_at: new Date(),
-      last_login: new Date()
+      last_login: null
     };
 
     const insertResult = await db.collection('users').insertOne(newUser);
     newUser._id = insertResult.insertedId;
 
-    const token = generateToken(newUser);
-    res.cookie('token', token, {
-      maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
-      httpOnly: false,
-      path: '/',
-      sameSite: 'lax'
-    });
-
     res.status(201).json({
       success: true,
-      token,
+      message: 'Account provisioned successfully.',
       user: {
         userId: newUser._id.toString(),
         email: newUser.email,

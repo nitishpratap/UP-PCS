@@ -234,25 +234,6 @@
   const USER_STORAGE_KEY = 'UP_PCS_USER';
   const COOKIE_TOKEN_KEY = 'uppcs_auth_token';
 
-  const systemConfig = {
-    adminEmail: 'neetishyadav4@gmail.com',
-    adminName: 'Nitish Pratap Yadav'
-  };
-
-  async function loadSystemConfig() {
-    try {
-      const res = await fetch(`${API_BASE}/auth/config`);
-      if (res.ok) {
-        const data = await res.json();
-        if (data.success) {
-          if (data.adminEmail) systemConfig.adminEmail = data.adminEmail;
-          if (data.adminName) systemConfig.adminName = data.adminName;
-        }
-      }
-    } catch {}
-  }
-  loadSystemConfig();
-
   function getCookie(name) {
     try {
       const match = document.cookie.match(new RegExp('(^|;\\s*)' + name + '=([^;]+)'));
@@ -336,12 +317,7 @@
       <div class="st-auth-card">
         <div class="st-auth-icon-wrap">🏛️</div>
         <h3 class="st-auth-title">UP-PCS Study Vault</h3>
-        <p class="st-auth-sub">Role-Based Knowledge Library • 7-Day Authenticated Session</p>
-        
-        <div class="st-auth-tabs">
-          <button type="button" class="st-auth-tab-btn active" id="st-tab-login">Sign In</button>
-          <button type="button" class="st-auth-tab-btn" id="st-tab-register">Create Account</button>
-        </div>
+        <p class="st-auth-sub">Sign in to access your notes, CBT practice tests, and spaced revisions.</p>
 
         <div class="st-auth-error" id="st-auth-error"></div>
         <div class="st-auth-success" id="st-auth-success"></div>
@@ -365,64 +341,18 @@
           </button>
         </form>
 
-        <!-- Register Form -->
-        <form class="st-auth-form" id="st-register-form" style="display: none;">
-          <div class="st-auth-field">
-            <label for="st-reg-name">Full Name</label>
-            <input type="text" id="st-reg-name" class="st-auth-input" placeholder="Candidate Name" required />
-          </div>
-          <div class="st-auth-field">
-            <label for="st-reg-email">Email Address</label>
-            <input type="email" id="st-reg-email" class="st-auth-input" placeholder="name@example.com" autocomplete="username" required />
-          </div>
-          <div class="st-auth-field">
-            <label for="st-reg-pass">Password (min. 6 characters)</label>
-            <input type="password" id="st-reg-pass" minlength="6" class="st-auth-input" placeholder="Create strong password" autocomplete="new-password" required />
-          </div>
-          <div class="st-auth-field">
-            <label for="st-reg-confirm">Confirm Password</label>
-            <input type="password" id="st-reg-confirm" minlength="6" class="st-auth-input" placeholder="Repeat password" autocomplete="new-password" required />
-          </div>
-          <button type="submit" class="st-auth-submit-btn" id="st-register-btn">
-            <span>🎓 Register & Unlock</span>
-          </button>
-        </form>
-
-        <div class="st-auth-card-footer">
-          <span>Primary Admin: <strong>${systemConfig.adminName} (${systemConfig.adminEmail})</strong></span>
+        <div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(0,0,0,0.06); font-size: 0.78rem; color: #64748b;">
+          Candidate accounts are provisioned by the Administrator.
         </div>
       </div>
     `;
 
     document.body.appendChild(overlay);
 
-    const loginTab = document.getElementById('st-tab-login');
-    const regTab = document.getElementById('st-tab-register');
     const loginForm = document.getElementById('st-login-form');
-    const regForm = document.getElementById('st-register-form');
     const errBox = document.getElementById('st-auth-error');
     const succBox = document.getElementById('st-auth-success');
-
-    function switchTab(mode) {
-      if (errBox) errBox.style.display = 'none';
-      if (succBox) succBox.style.display = 'none';
-      if (mode === 'register') {
-        loginTab.classList.remove('active');
-        regTab.classList.add('active');
-        loginForm.style.display = 'none';
-        regForm.style.display = 'flex';
-        document.getElementById('st-reg-name')?.focus();
-      } else {
-        regTab.classList.remove('active');
-        loginTab.classList.add('active');
-        regForm.style.display = 'none';
-        loginForm.style.display = 'flex';
-        document.getElementById('st-login-email')?.focus();
-      }
-    }
-
-    loginTab?.addEventListener('click', () => switchTab('login'));
-    regTab?.addEventListener('click', () => switchTab('register'));
+    document.getElementById('st-login-email')?.focus();
 
     // Handle Login
     loginForm?.addEventListener('submit', async (e) => {
@@ -468,62 +398,23 @@
         btn.innerHTML = '<span>🛡️ Sign In & Unlock</span>';
       }
     });
+  }
 
-    // Handle Register
-    regForm?.addEventListener('submit', async (e) => {
-      e.preventDefault();
-      const name = document.getElementById('st-reg-name').value.trim();
-      const email = document.getElementById('st-reg-email').value.trim();
-      const password = document.getElementById('st-reg-pass').value;
-      const confirm = document.getElementById('st-reg-confirm').value;
-      const btn = document.getElementById('st-register-btn');
+  function escapeHtml(str) {
+    if (!str) return '';
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
 
-      if (errBox) errBox.style.display = 'none';
-      if (succBox) succBox.style.display = 'none';
-
-      if (password !== confirm) {
-        if (errBox) {
-          errBox.textContent = '⚠️ Passwords do not match';
-          errBox.style.display = 'block';
-        }
-        return;
-      }
-
-      btn.disabled = true;
-      btn.innerHTML = '<span>Registering...</span>';
-
-      try {
-        const res = await fetch(`${API_BASE}/auth/register`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ name, email, password })
-        });
-        const data = await res.json();
-        if (!res.ok || !data.success) {
-          throw new Error(data.error || 'Registration failed');
-        }
-
-        setStoredAuth(data.token, data.user);
-        if (succBox) {
-          succBox.textContent = `Account created! Welcome, ${data.user.name}!`;
-          succBox.style.display = 'block';
-        }
-
-        setTimeout(() => {
-          document.body.classList.remove('st-vault-locked');
-          overlay.remove();
-          boot();
-        }, 400);
-      } catch (err) {
-        if (errBox) {
-          errBox.textContent = '⚠️ ' + (err.message || 'Registration failed');
-          errBox.style.display = 'block';
-        }
-      } finally {
-        btn.disabled = false;
-        btn.innerHTML = '<span>🎓 Register & Unlock</span>';
-      }
-    });
+  function resolveAdminPageUrl() {
+    if (typeof window === 'undefined') return '/admin/';
+    const pathname = window.location.pathname || '';
+    if (pathname.includes('/UP-PCS/')) return '/UP-PCS/admin/';
+    return '/admin/';
   }
 
   function injectHeaderUserNav(user) {
@@ -533,6 +424,7 @@
     // Remove legacy lock button or existing user nav
     document.getElementById('st-header-lock-btn')?.remove();
     document.getElementById('st-header-user-nav')?.remove();
+    document.getElementById('st-header-admin-direct-btn')?.remove();
 
     if (!user) {
       // Unauthenticated state button
@@ -583,8 +475,11 @@
 
         <div class="st-user-menu-actions">
           ${isAdmin ? `
-            <button type="button" class="st-user-menu-item is-admin-action" id="st-btn-open-admin">
-              <span>👑 Admin Control Center</span>
+            <a href="${resolveAdminPageUrl()}" class="st-user-menu-item is-admin-action" id="st-link-admin-page">
+              <span>👑 Dedicated Admin Page</span>
+            </a>
+            <button type="button" class="st-user-menu-item" id="st-btn-open-admin">
+              <span>⚡ Quick Admin Drawer</span>
             </button>
           ` : ''}
           <button type="button" class="st-user-menu-item" id="st-btn-change-pw">
@@ -598,6 +493,16 @@
     `;
 
     headerInner.appendChild(navWrap);
+
+    if (isAdmin) {
+      const adminLink = document.createElement('a');
+      adminLink.id = 'st-header-admin-direct-btn';
+      adminLink.className = 'st-header-admin-link';
+      adminLink.href = resolveAdminPageUrl();
+      adminLink.innerHTML = `👑 Admin Console`;
+      adminLink.title = 'Open Dedicated Admin Control Center';
+      headerInner.appendChild(adminLink);
+    }
 
     const trigger = document.getElementById('st-user-menu-trigger');
     const dropdown = document.getElementById('st-user-menu-dropdown');
@@ -754,7 +659,7 @@
             <span class="st-admin-icon">👑</span>
             <div>
               <h2>Administrator Control Center</h2>
-              <p>Super Admin: <strong>${systemConfig.adminName}</strong> (${systemConfig.adminEmail}) • Multi-user Study Management</p>
+              <p>Platform Governance • Multi-User Study Management</p>
             </div>
           </div>
           <div class="st-admin-header-actions">
@@ -1208,6 +1113,418 @@
         btn.textContent = 'Create Account';
       }
     });
+  // -------------------------------------------------------------
+  // DEDICATED ADMINISTRATOR PAGE CONTROLLER
+  // Handles /admin/ page view (#st-dedicated-admin-container)
+  // -------------------------------------------------------------
+  async function renderDedicatedAdminPage(currentUser) {
+    const container = document.getElementById('st-dedicated-admin-container');
+    if (!container) return;
+
+    const user = currentUser || getStoredUser();
+    const token = getStoredAuthToken();
+
+    if (!token || !user) {
+      container.innerHTML = `
+        <div class="st-admin-unauthorized-banner">
+          <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🔒</div>
+          <h3 style="margin: 0 0 0.5rem; font-size: 1.35rem; font-weight: 800;">Administrator Authentication Required</h3>
+          <p style="margin: 0 0 1.25rem; font-size: 0.92rem; color: inherit;">You must sign in with your Administrator account to access candidate management and platform controls.</p>
+          <button type="button" class="st-btn-provision" id="st-admin-page-login-btn">
+            <span>🛡️ Sign In & Unlock Admin Console</span>
+          </button>
+        </div>
+      `;
+      document.getElementById('st-admin-page-login-btn')?.addEventListener('click', () => {
+        showAuthVaultModal();
+      });
+      return;
+    }
+
+    if (user.role !== 'admin') {
+      container.innerHTML = `
+        <div class="st-admin-unauthorized-banner">
+          <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">⛔</div>
+          <h3 style="margin: 0 0 0.5rem; font-size: 1.35rem; font-weight: 800;">Administrator Privileges Required</h3>
+          <p style="margin: 0; font-size: 0.92rem; color: inherit;">Signed in as <strong>${escapeHtml(user.email)}</strong> (Student Aspirant). Only platform administrators have permission to provision accounts or manage credentials.</p>
+        </div>
+      `;
+      return;
+    }
+
+    // Render Full Dedicated Admin Console Interface
+    container.innerHTML = `
+      <!-- 1. Provision New User Card -->
+      <div class="st-provision-card">
+        <div class="st-provision-head">
+          <div>
+            <h3><span>👤</span> Provision New Candidate Account</h3>
+            <p>Only the Administrator can create accounts. Created accounts have instant access with 7-day persistent JWT sessions.</p>
+          </div>
+        </div>
+
+        <form id="st-page-provision-form">
+          <div class="st-provision-grid">
+            <div class="st-provision-field">
+              <label for="st-page-user-name">Candidate Full Name</label>
+              <input type="text" id="st-page-user-name" class="st-provision-input" placeholder="e.g. Ramesh Kumar" required />
+            </div>
+            <div class="st-provision-field">
+              <label for="st-page-user-email">Email Address</label>
+              <input type="email" id="st-page-user-email" class="st-provision-input" placeholder="candidate@example.com" required />
+            </div>
+            <div class="st-provision-field">
+              <label for="st-page-user-pass">Initial Password</label>
+              <input type="password" id="st-page-user-pass" class="st-provision-input" minlength="6" placeholder="Min. 6 characters" required />
+            </div>
+            <div class="st-provision-field">
+              <label for="st-page-user-role">Account Role</label>
+              <select id="st-page-user-role" class="st-provision-select">
+                <option value="student">🎓 Student Aspirant</option>
+                <option value="admin">👑 Administrator</option>
+              </select>
+            </div>
+          </div>
+
+          <div style="display: flex; align-items: center; justify-content: flex-start; gap: 1rem; flex-wrap: wrap;">
+            <button type="submit" class="st-btn-provision" id="st-page-provision-submit">
+              <span>+ Provision Candidate Account</span>
+            </button>
+            <span style="font-size: 0.8rem; color: #64748b;">Credentials will be securely encrypted with bcrypt and stored in MongoDB Atlas.</span>
+          </div>
+
+          <div class="st-provision-msg" id="st-page-provision-msg"></div>
+        </form>
+      </div>
+
+      <!-- 2. Platform Telemetry Cards -->
+      <div class="st-admin-stats-grid" style="padding: 0; margin-bottom: 0.5rem;">
+        <div class="st-admin-stat-card">
+          <div class="st-stat-num" id="page-stat-total-users">-</div>
+          <div class="st-stat-lbl">👥 Total Aspirants</div>
+        </div>
+        <div class="st-admin-stat-card">
+          <div class="st-stat-num" id="page-stat-active-users">-</div>
+          <div class="st-stat-lbl">🟢 Active Accounts</div>
+        </div>
+        <div class="st-admin-stat-card">
+          <div class="st-stat-num" id="page-stat-total-tests">-</div>
+          <div class="st-stat-lbl">📝 CBT Tests Taken</div>
+        </div>
+        <div class="st-admin-stat-card">
+          <div class="st-stat-num" id="page-stat-total-revisions">-</div>
+          <div class="st-stat-lbl">🔁 Active Revisions</div>
+        </div>
+        <div class="st-admin-stat-card">
+          <div class="st-stat-num" id="page-stat-total-study-time">-</div>
+          <div class="st-stat-lbl">⏱️ Study Hours Logged</div>
+        </div>
+      </div>
+
+      <!-- 3. Candidate Directory Table Card -->
+      <div class="st-user-directory-card">
+        <div class="st-provision-head" style="margin-bottom: 1rem;">
+          <div>
+            <h3><span>📋</span> Aspirant Directory & Credentials Management</h3>
+            <p>Search candidates, update passwords, promote/demote roles, or suspend/activate access.</p>
+          </div>
+          <button type="button" class="st-admin-btn-action" id="st-page-refresh-btn" style="margin-left: auto;">🔄 Refresh List</button>
+        </div>
+
+        <div class="st-admin-toolbar" style="padding: 0 0 1rem 0;">
+          <div class="st-admin-search-wrap">
+            <input type="text" id="st-page-search-input" placeholder="Search by name or email..." class="st-admin-search-input" />
+          </div>
+          <div class="st-admin-filters">
+            <select id="st-page-role-filter" class="st-admin-select">
+              <option value="all">All Roles</option>
+              <option value="admin">Administrators</option>
+              <option value="student">Students</option>
+            </select>
+            <select id="st-page-status-filter" class="st-admin-select">
+              <option value="all">All Status</option>
+              <option value="active">Active Only</option>
+              <option value="suspended">Suspended Only</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="st-admin-table-container" style="padding: 0; max-height: 600px;">
+          <div id="st-page-users-loading" class="st-admin-loading">Loading candidate directory...</div>
+          <table class="st-admin-table" id="st-page-users-table" style="display: none;">
+            <thead>
+              <tr>
+                <th>Aspirant</th>
+                <th>Role</th>
+                <th>Status</th>
+                <th>CBT Tests</th>
+                <th>Revisions</th>
+                <th>Study Time</th>
+                <th>Joined</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="st-page-users-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    `;
+
+    // Provision Form Handler
+    const provForm = document.getElementById('st-page-provision-form');
+    const msgEl = document.getElementById('st-page-provision-msg');
+    const submitBtn = document.getElementById('st-page-provision-submit');
+
+    provForm?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const name = document.getElementById('st-page-user-name').value.trim();
+      const email = document.getElementById('st-page-user-email').value.trim();
+      const password = document.getElementById('st-page-user-pass').value;
+      const role = document.getElementById('st-page-user-role').value;
+
+      if (msgEl) {
+        msgEl.style.display = 'none';
+        msgEl.className = 'st-provision-msg';
+      }
+      submitBtn.disabled = true;
+      submitBtn.innerHTML = '<span>Creating Account...</span>';
+
+      try {
+        const res = await authFetch(`${API_BASE}/admin/users`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ name, email, password, role })
+        });
+        const data = await res.json();
+        if (!res.ok || !data.success) {
+          throw new Error(data.error || 'Failed to create candidate');
+        }
+
+        if (msgEl) {
+          msgEl.className = 'st-provision-msg is-success';
+          msgEl.innerHTML = `✅ Candidate account created successfully for <strong>${escapeHtml(email)}</strong> (${role === 'admin' ? 'Administrator' : 'Student Aspirant'}). They can now sign in using password: <code>${escapeHtml(password)}</code>`;
+          msgEl.style.display = 'block';
+        }
+        provForm.reset();
+        await loadPageDirectory();
+      } catch (err) {
+        if (msgEl) {
+          msgEl.className = 'st-provision-msg is-error';
+          msgEl.textContent = '⚠️ ' + (err.message || 'Error provisioning account');
+          msgEl.style.display = 'block';
+        }
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = '<span>+ Provision Candidate Account</span>';
+      }
+    });
+
+    let directoryUsers = [];
+
+    async function loadPageDirectory() {
+      const loading = document.getElementById('st-page-users-loading');
+      const table = document.getElementById('st-page-users-table');
+      if (loading) loading.style.display = 'block';
+      if (table) table.style.display = 'none';
+
+      try {
+        const res = await authFetch(`${API_BASE}/admin/users`);
+        const data = await res.json();
+        if (!res.ok || !data.success) throw new Error(data.error || 'Failed to fetch users');
+        directoryUsers = data.users || [];
+
+        // Update KPI stats
+        const totalUsers = directoryUsers.length;
+        const activeUsers = directoryUsers.filter(u => u.status !== 'suspended').length;
+        const totalTests = directoryUsers.reduce((acc, u) => acc + (u.tests_count || 0), 0);
+        const totalRevs = directoryUsers.reduce((acc, u) => acc + (u.revisions_count || 0), 0);
+        const totalSecs = directoryUsers.reduce((acc, u) => acc + (u.total_study_seconds || 0), 0);
+        const hoursLogged = (totalSecs / 3600).toFixed(1) + 'h';
+
+        const setTxt = (id, val) => {
+          const el = document.getElementById(id);
+          if (el) el.textContent = val;
+        };
+        setTxt('page-stat-total-users', totalUsers);
+        setTxt('page-stat-active-users', activeUsers);
+        setTxt('page-stat-total-tests', totalTests);
+        setTxt('page-stat-total-revisions', totalRevs);
+        setTxt('page-stat-total-study-time', hoursLogged);
+
+        renderPageTable();
+      } catch (err) {
+        if (loading) loading.textContent = '⚠️ Error loading directory: ' + err.message;
+      }
+    }
+
+    function renderPageTable() {
+      const loading = document.getElementById('st-page-users-loading');
+      const table = document.getElementById('st-page-users-table');
+      const tbody = document.getElementById('st-page-users-tbody');
+      if (!tbody) return;
+
+      const q = (document.getElementById('st-page-search-input')?.value || '').toLowerCase().trim();
+      const roleFilter = document.getElementById('st-page-role-filter')?.value || 'all';
+      const statusFilter = document.getElementById('st-page-status-filter')?.value || 'all';
+
+      const filtered = directoryUsers.filter(u => {
+        if (roleFilter !== 'all' && u.role !== roleFilter) return false;
+        if (statusFilter !== 'all' && (u.status || 'active') !== statusFilter) return false;
+        if (q) {
+          const matchName = (u.name || '').toLowerCase().includes(q);
+          const matchEmail = (u.email || '').toLowerCase().includes(q);
+          return matchName || matchEmail;
+        }
+        return true;
+      });
+
+      if (loading) loading.style.display = 'none';
+      if (table) table.style.display = 'table';
+      tbody.innerHTML = '';
+
+      if (filtered.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="8" style="text-align: center; padding: 2.5rem; color: #94a3b8;">No matching candidate accounts found.</td></tr>';
+        return;
+      }
+
+      filtered.forEach(u => {
+        const tr = document.createElement('tr');
+        const initials = (u.name || u.email || 'U').split(' ').map(n => n[0]).join('').slice(0, 2).toUpperCase();
+        const isAdmin = u.role === 'admin';
+        const isActive = (u.status || 'active') === 'active';
+        const studyHours = ((u.total_study_seconds || 0) / 3600).toFixed(1) + 'h';
+        const joinedDate = u.created_at ? new Date(u.created_at).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' }) : '-';
+
+        tr.innerHTML = `
+          <td>
+            <div class="st-admin-user-cell">
+              <div class="st-admin-avatar">${initials}</div>
+              <div>
+                <div class="st-admin-name">
+                  <span>${escapeHtml(u.name || 'Aspirant')}</span>
+                  ${isAdmin ? '<span class="st-super-badge">ADMIN</span>' : ''}
+                </div>
+                <div class="st-admin-email">${escapeHtml(u.email)}</div>
+              </div>
+            </div>
+          </td>
+          <td>
+            <span class="st-role-pill ${isAdmin ? 'pill-admin' : 'pill-student'}">
+              ${isAdmin ? '👑 Administrator' : '🎓 Student'}
+            </span>
+          </td>
+          <td>
+            <button type="button" class="st-status-btn ${isActive ? 'is-active' : 'is-suspended'}" data-id="${u._id}" data-status="${u.status || 'active'}">
+              ${isActive ? '🟢 Active' : '🔴 Suspended'}
+            </button>
+          </td>
+          <td style="font-weight: 700; color: #4f46e5;">${u.tests_count || 0}</td>
+          <td style="font-weight: 700;">${u.revisions_count || 0}</td>
+          <td>${studyHours}</td>
+          <td style="font-size: 0.78rem; color: #64748b;">${joinedDate}</td>
+          <td>
+            <div class="st-admin-actions-cell">
+              <button type="button" class="st-table-btn btn-reset-pw" data-id="${u._id}" data-email="${escapeHtml(u.email)}" title="Reset user password">
+                🔑 Reset Password
+              </button>
+              <button type="button" class="st-table-btn btn-toggle-role" data-id="${u._id}" data-role="${u.role}" title="Toggle between Student and Administrator">
+                ${isAdmin ? 'Demote to Student' : 'Promote to Admin'}
+              </button>
+              <button type="button" class="st-table-btn btn-delete-user" data-id="${u._id}" data-email="${escapeHtml(u.email)}" title="Permanently delete user">
+                🗑️
+              </button>
+            </div>
+          </td>
+        `;
+
+        tbody.appendChild(tr);
+      });
+
+      // Bind status buttons
+      tbody.querySelectorAll('.st-status-btn').forEach(btn => {
+        btn.addEventListener('click', async () => {
+          const id = btn.dataset.id;
+          const curStatus = btn.dataset.status;
+          const nextStatus = curStatus === 'active' ? 'suspended' : 'active';
+          btn.disabled = true;
+          btn.textContent = 'Updating...';
+          try {
+            const res = await authFetch(`${API_BASE}/admin/users/${id}/status`, {
+              method: 'PUT',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ status: nextStatus })
+            });
+            const data = await res.json();
+            if (data.success) {
+              await loadPageDirectory();
+            } else {
+              alert(data.error || 'Failed to update status');
+            }
+          } catch (e) {
+            alert('Error: ' + e.message);
+          }
+        });
+      });
+
+      // Bind reset password buttons
+      tbody.querySelectorAll('.btn-reset-pw').forEach(btn => {
+        btn.addEventListener('click', () => {
+          openAdminResetPasswordSubmodal(btn.dataset.id, btn.dataset.email);
+        });
+      });
+
+      // Bind toggle role buttons
+      tbody.querySelectorAll('.btn-toggle-role').forEach(btn => {
+        btn.addEventListener('click', async () => {
+          const id = btn.dataset.id;
+          const curRole = btn.dataset.role;
+          const nextRole = curRole === 'admin' ? 'student' : 'admin';
+          if (!confirm(`Change role to ${nextRole.toUpperCase()} for this user?`)) return;
+          try {
+            const res = await authFetch(`${API_BASE}/admin/users/${id}/role`, {
+              method: 'PUT',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ role: nextRole })
+            });
+            const data = await res.json();
+            if (data.success) {
+              await loadPageDirectory();
+            } else {
+              alert(data.error || 'Failed to update role');
+            }
+          } catch (e) {
+            alert('Error: ' + e.message);
+          }
+        });
+      });
+
+      // Bind delete buttons
+      tbody.querySelectorAll('.btn-delete-user').forEach(btn => {
+        btn.addEventListener('click', async () => {
+          const id = btn.dataset.id;
+          const email = btn.dataset.email;
+          if (!confirm(`Are you sure you want to permanently delete user "${email}" and all their study records? This cannot be undone.`)) return;
+          try {
+            const res = await authFetch(`${API_BASE}/admin/users/${id}`, { method: 'DELETE' });
+            const data = await res.json();
+            if (data.success) {
+              await loadPageDirectory();
+            } else {
+              alert(data.error || 'Failed to delete user');
+            }
+          } catch (e) {
+            alert('Error: ' + e.message);
+          }
+        });
+      });
+    }
+
+    document.getElementById('st-page-search-input')?.addEventListener('input', renderPageTable);
+    document.getElementById('st-page-role-filter')?.addEventListener('change', renderPageTable);
+    document.getElementById('st-page-status-filter')?.addEventListener('change', renderPageTable);
+    document.getElementById('st-page-refresh-btn')?.addEventListener('click', loadPageDirectory);
+
+    loadPageDirectory();
   }
 
   // -------------------------------------------------------------
@@ -8764,6 +9081,7 @@
     const token = getStoredAuthToken();
     if (!token) {
       injectHeaderUserNav(null);
+      renderDedicatedAdminPage(null);
       showAuthVaultModal();
       return;
     }
@@ -8775,6 +9093,7 @@
       if (!vRes.ok) {
         clearStoredAuth();
         injectHeaderUserNav(null);
+        renderDedicatedAdminPage(null);
         showAuthVaultModal();
         return;
       }
@@ -8786,9 +9105,11 @@
         injectSubjectNoteWidget();
         enhanceChapterPriorityTracker();
         renderPrepDashboard();
+        renderDedicatedAdminPage(vData.user);
       } else {
         clearStoredAuth();
         injectHeaderUserNav(null);
+        renderDedicatedAdminPage(null);
         showAuthVaultModal();
       }
     } catch (err) {
@@ -8800,7 +9121,9 @@
         injectSubjectNoteWidget();
         enhanceChapterPriorityTracker();
         renderPrepDashboard();
+        renderDedicatedAdminPage(user);
       } else {
+        renderDedicatedAdminPage(null);
         showAuthVaultModal();
       }
     }
