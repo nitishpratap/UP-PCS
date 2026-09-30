@@ -239,9 +239,9 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 - Granary remains are often described as **twelve** chambers in **two rows of six**.
 - Cemetery **R-37** includes coffin burial.
 - The first famous artefact type is a **unicorn** seal with inscription.
-- Finds include a red-sandstone **male torso** and a bronze mirror.
+- Finds include a red-sandstone **male torso**, bronze mirror, **6 granaries in a row** with working floors & workmen's quarters, virgin-goddess seal, cemetery **H** alongside R-37, stone symbols of lingam and yoni, wheat and barley in wooden mortar, copper vanity box, and dice.
 
-- **Mohenjo-daro** means “mound of the dead” and lies on the right bank of the **Indus** (सिंधु) in **Larkana, Sindh**.
+- **Mohenjo-daro** means “mound of the dead” (also called **Nakhlistan** or “Oasis of Sindh”), largest site of the civilization, and lies on the right bank of the **Indus** (सिंधु) in **Larkana, Sindh**.
 - **R.D. Banerji** excavated it in **1922**.
 - The **Great Bath** is here. No other Harappan city has this exact public tank.
 - A large building north-east of the bath (about **70 × 24 m**) is often read as a priest’s residence or college of priests.
@@ -250,10 +250,11 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 - The **Priest-king** is a steatite bust with a trefoil shawl.
 - The famous **humped bull** seal and **Pashupati** seal are from this city.
 - Boat models / boat seals occur here. Cotton cloth evidence occurs here. Population is often cited at about **35,000–40,000**.
+- Yielded **1,398 seals** (~56% of total Indus seals found), the Great Granary (largest building), assembly hall, and steatite bearded priest.
 
 - **Chanhudaro** in Sindh is a **bead factory** town with **no citadel**, about **130 km** south of Mohenjo-daro.
 - **N.G. Majumdar** discovered it in **1931**; **E.J.H. Mackay** excavated it on a large scale in **1935–36**.
-- Crafts include shell work, bangles, and beads. Booklet extras include a dog-following-cat track and cosmetic / “lipstick” finds.
+- Crafts include shell work, bangles, and beads. Booklet extras include an inkpot, dog-following-cat track (dog's paw imprint on brick), bronze toy cart, and cosmetic / “lipstick” finds.
 - **Jhukar** and **Jhangar** late cultures also appear here.
 
 - **Sutkagen-dor** on the Makran is the **western** sea-gate of the culture.
@@ -269,7 +270,7 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 **India**
 
 - **Dholavira** stands on Khadir island in **Kutch**.
-- It is known for water **reservoirs** and a **10-sign board**.
+- It is known for giant water **reservoirs**, unique stormwater drainage, a **10-sign board** (civic inscription), and a ceremonial ground / **stadium**.
 - The city has **three** divisions and more **stone** architecture than the Indus brick cities.
 - UNESCO inscribed it in **2021**.
 
@@ -281,7 +282,7 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 - Rice husk is reported here.
 - A fire altar occurs at Lothal.
 - Boat models / ship terracotta also occur at Lothal.
-- An **ivory scale**, a Persian Gulf–type seal, and a terracotta horse figurine are booklet extras for Lothal.
+- An **ivory scale**, Persian Gulf and Bahrain seals, terracotta horse figurine, dyeing vat, and painted jar depicting bird and fox / thirsty crow story are booklet extras for Lothal.
 - **Double burial** evidence is reported here (also at Kalibangan and Rakhigarhi in some reports).
 
 - **Surkotada** in Kutch is a fortified settlement.
@@ -298,13 +299,13 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 
 - **Kalibangan** in Hanumangarh, Rajasthan, stands on the **Ghaggar** (घग्गर).
 - **B.B. Lal** and **B.K. Thapar** excavated it (from about **1960–61**). Luigi Pio Tessitori and later **A. Ghosh** also figure in early notice / survey.
-- It is known for a **ploughed field** and **fire altars**.
+- Name means “black bangles”. It is known for a pre-Harappan **ploughed field**, **seven fire altars**, and decorated bricks.
 - A triangular terracotta cake with a **horned deity** is a Kalibangan booklet fact.
 - Terracotta cakes and camel bones occur. Drains are poorer than at Mohenjo-daro.
 - Mesopotamian-type seals and toy-cart wheels are also reported in booklet notes.
 
 - **Banawali** in Fatehabad, Haryana, was excavated by **R.S. Bisht**.
-- It has a **radial or oval** plan, a terracotta **plough** (toy plough), mother-goddess clay figures, and barley.
+- It has a **radial or oval** plan (lacking chessboard/gridiron pattern and systematic drainage), a terracotta **plough** (toy plough), mother-goddess clay figures, and good quality barley.
 - It sits in the **Ghaggar** valley belt.
 
 - **Rakhigarhi** in **Hisar, Haryana**, is the **largest** Harappan site in India.
@@ -329,7 +330,7 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 - **Dadheri** (Kotla Dadheri) in Fatehgarh Sahib, **Punjab**, is a late Harappan / **PGW** site often linked in booklet notes with later Aryan-associated pottery — not a Mature Harappan megacity.
 
 - **Daimabad** on the Pravara in Maharashtra is the **southernmost** site.
-- It yielded a bronze **chariot**.
+- It yielded a bronze **chariot with charioteer**, ox, elephant, and rhinoceros.
 - It also yielded bronze buffalo, elephant, and rhinoceros figures.
 
 - **Shortughai** in Afghanistan is a **lapis lazuli** colony of the Harappans.
@@ -788,121 +789,7 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 
 ---
 
-## 2.28 Lucent GK Complete Comprehensive Reference & Direct Gap-Fill
-
-> **Note for Aspirants:** Every single fact, term, classification, excavator year, archaeological find, and quote from Lucent's General Knowledge (Ancient History Section 1) has been compiled below. You will never need to consult Lucent GK separately for Indus Valley Civilization.
-
-### 1. Nomenclature, Geography & Chronology Core
-- **Oldest Name:** Indus Civilization.
-- **Archaeological Tradition:** Most appropriate name is **Harappan Civilization** (since Harappa was the first discovered site).
-- **Geographical Point of View:** Most suitable name is **Indus-Saraswati Civilization** (the largest concentration of settlements is along the Indus-Saraswati river valley; **80% of settlements were along the Saraswati**).
-- **First Use of the Term:** **John Marshall** was the first scholar to use the term *'Indus Civilization'*.
-- **Most Accepted Period:** **2500 BC – 1750 BC** (by Carbon-14 / C-14 dating).
-- **Period Classification:** The Indus Civilization belongs to the **Proto-Historic Period** (**Chalcolithic Age / Bronze Age**).
-- **Geographical Heartland:** Scholars generally believe that the **Harappa–Ghaggar–Mohenjodaro axis** represents the heartland of the Indus Civilization.
-- **Geographical Spread:** Spread over Sindh, Baluchistan, Punjab, Haryana, Rajasthan, Gujarat, Western U.P., and Northern Maharashtra.
-- **Geographical Extremes (Earlier vs Current Lucent Record):**
-  - **Northern-most Site:** *Ropar (Sutlej)* in Punjab (Earlier); **Manda (Chenab)** in Jammu-Kashmir (Now).
-  - **Southern-most Site:** *Bhagatrav (Kim)* in Gujarat (Earlier); **Daimabad (Pravara)** in Maharashtra (Now).
-  - **Eastern-most Site:** **Alamgirpur (Hindon)** in Meerut, Uttar Pradesh.
-  - **Western-most Site:** **Sutkagendor (Dashk / Dasht)** on Makran Coast, Pakistan-Iran Border.
-- **Capital Cities:** **Harappa** and **Mohenjodaro**.
-- **Port Cities:** **Lothal, Sutkagendor, Allahdino, Balakot, Kuntasi**.
-
 ---
-
-### 2. Master Table — Sites, Rivers, Locations & Excavators
-| Site | River | District | State / Province & Country | Excavators & Years | Key Lucent Note |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Harappa** | Ravi | Sahiwal (Montgomery) | Punjab, Pakistan | Daya Ram Sahni (**1921**), Madho Swaroop Vatsa (**1926**), Wheeler (**1946**) | First excavated site |
-| **Mohenjodaro** | Indus | Larkana | Sindh, Pakistan | Rakhal Das Bannerji (**1922**), Mackay (**1927**), Wheeler (**1930**) | Known as *Nakhlistan* (i.e. "Oasis of Sindh") |
-| **Chanhudaro** | Indus | Nawabshah | Sindh, Pakistan | Mackay (**1925**), N.G. Mazumdar (**1931**) | City without a citadel |
-| **Lothal** | Bhogava | Ahmedabad | Gujarat, India | S.R. Rao (**1954**) | Tidal dockyard, ancient port |
-| **Kalibanga** | Ghaggar | Hanumangarh | Rajasthan, India | Amalanand Ghosh (**1951**), B.V. Lal & B.K. Thapar (**1961**) | Name means *"bangles of black colour"* |
-| **Banawali** | Ghaggar | Fatehabad (earlier Hissar) | Haryana, India | R.S. Bisht (**1973**) | Lack of gridiron & systematic drainage |
-| **Dholavira** | Luni | Kutchh | Gujarat, India | J.P. Joshi (**1967–68**); R.S. Bisht (1990s) | Giant water reservoirs, 3-part city |
-| **Surkotada** | — | Kutchh | Gujarat, India | J.P. Joshi | Bones of horse, oval grave, pot burials |
-| **Daimabad** | Pravara | Ahmednagar | Maharashtra, India | B.P. Bopardikar / M.N. Deshpande | Southernmost site; bronze sculptures |
-
----
-
-### 3. Exhaustive Archaeological Finds by Site (Lucent Master Catalog)
-| Site | Complete Archaeological Finds Catalogued in Lucent |
-| :--- | :--- |
-| **Harappa** | **6 Granaries in a row**, **Working floors**, **Workmen's quarters**, **Virgin-Goddess (seal)**, **Cemetery (R-37, H)**, **Stone symbols of Lingam (male sex organ) and Yoni (female sex organ)**, **Painted pottery**, **Clay figures of Mother Goddess**, **Wheat and Barley in wooden mortar**, **Copper scale**, **Crucible for bronze**, **Copper-made mirror**, **Vanity box**, **Dice**. |
-| **Mohenjodaro** | **Great Granary**, **Great Bath** (the largest building / public bath of the civilization), **Assembly hall**, **Shell strips**, **Pashupati Mahadeva / Proto-Shiva (seal)**, **Bronze Image of a nude woman dancer**, **Steatite image of bearded man**, **Human skeletons huddled together**, **Painted seal (Demi-God)**, **Clay figures of Mother Goddess**, **A fragment of woven cotton**, **Brick Kilns**, **2 Mesopotamian seals**, **1398 seals (56% of total seals of civilization)**, **Dice**. |
-| **Chanhudaro** | **City without a citadel**, **Inkpot**, **Lipstick**, **Metal-workers', shell-ornament makers' and bead-makers' shops**, **Imprint of dog's paw on a brick**, **Terracotta model of a bullock cart**, **Bronze toy cart**. |
-| **Lothal** | **Dockyard**, **Rice husk**, **Metal-workers', shell-ornament makers' and bead-makers' shops**, **Fire altars**, **Terracotta figurine of a horse**, **Double burial** (burying a male and a female in a single grave), **Terracotta model of a ship**, **Dyeing vat**, **Persian / Iranian seal**, **Baharainean seal**, **Painted jar (bird and fox / thirsty crow story)**. |
-| **Kalibanga** | **Ploughed field surface (Pre-Harappan)**, **7 Fire altars**, **Decorated bricks**, **Wheels of a toy cart**, **Mesopotamian cylindrical seal**. |
-| **Banawali** | **Lack of chess-board or gridiron pattern town planning**, **Lack of systematic drainage system**, **Toy plough**, **Clay figures of Mother Goddess**, Good quality barley. |
-| **Dholavira** | **A unique water harnessing system and its storm water drainage system**, **A large well and a bath (giant water reservoirs)**, **Only site to be divided into 3 parts**, **Largest Harappan inscription used for civic purposes (Signboard)**, **A stadium**. |
-| **Surkotada** | **Bones of horse**, **Oval grave**, **Pot burials**. (*Surkotada is the ONLY Indus site where actual remains of a horse have been reported*). |
-| **Daimabad** | **Bronze images: Charioteer with chariot, ox, elephant, and rhinoceros**. |
-
----
-
-### 4. Comparative Demographics & Urban Features
-- **Largest Site of the Civilization:** **Mohenjodaro** is the largest site of the entire Indus Civilization.
-- **Largest Indian Site:** **Rakhigarhi** is the largest site situated within India.
-- **4 Common Features of Major Cities:**
-  1. Systematic town-planning on the lines of the **'grid system'** (chess-board pattern).
-  2. Use of **burnt bricks** in constructions (ratio 1:2:4).
-  3. **Underground drainage system** (with giant water reservoirs in Dholavira).
-  4. **Fortified citadel** on the west (the sole exception is **Chanhudaro**, which is a city without a citadel).
-
----
-
-### 5. Agriculture, Crops & Fauna
-- **Main Crops:** **Wheat and Barley**.
-- **Rice Evidence:** Evidence of cultivation of rice in **Lothal and Rangpur (Gujarat) only**.
-- **Other Crops:** Dates, mustard, sesamum, cotton, etc.
-- **Cotton Priority:** Indus people were the **first to produce cotton in the world**. The Greeks called it **"Sindon"** (derived from Sindh/Indus).
-- **Fauna Known:** Sheep, goat, humped and humpless bull, buffalo, boar, dog, cat, pig, fowl, deer, tortoise, elephant, camel, rhinoceros, tiger, etc.
-- **Crucial Negative Fact:** **LION was NOT known** to the Indus people.
-- **Rhinoceros Note:** From **Amri**, a single instance of the Indian rhinoceros has been reported.
-
----
-
-### 6. Trade, Commerce & Raw Material Imports Matrix
-- **Mode of Exchange:** There is **no evidence of coins**; **barter** was the normal method of exchange.
-- **Nature of Polity:** There is no clear-cut evidence of the nature of polity, but it seems that the ruling authority was a **class of merchants**.
-- **Raw Material Imports Table (Lucent Direct):**
-  | Raw Material | Source / Region of Import |
-  | :--- | :--- |
-  | **Gold** | **Kolar (Karnataka)**, Afghanistan, Persia (Iran) |
-  | **Silver** | Afghanistan, Persia (Iran), South India |
-  | **Copper** | **Khetri (Rajasthan)**, Baluchistan, Arabia |
-  | **Tin** | Afghanistan, Bihar |
-  | **Lapis Lazuli & Sapphire** | **Badakhshan (Afghanistan)** |
-  | **Jade** | **Central Asia** |
-  | **Steatite** | **Shahr-i-Sokhta (Iran)**, **Kirthar Hills (Pakistan)** |
-  | **Amethyst** | **Maharashtra** |
-  | **Agate, Chalcedonies & Carnelians** | **Saurashtra and West India** |
-- **Exports:** Agricultural products, cotton goods, terracotta figurines, pottery, certain beads (from Chanhudaro), conch-shell (from Lothal), ivory products, copper, etc.
-- **Metal Knowledge:** A very interesting feature was that **IRON was NOT known** to the Harappans.
-- **Mesopotamian Trade Links:**
-  - Sumerian texts refer to trade relations with **"Meluhha"**, which was the name given to the Indus region.
-  - Sumerian texts mention two intermediate trading stations: **Dilmun (Bahrain)** and **Makan (Makran coast)**.
-  - Mesopotamian places where Harappan seals were found: **Susa** and **Ur**.
-  - Harappan trading outposts in Afghanistan: **Shortughai (Shatughai)** and **Mundigak**.
-
----
-
-### 7. Religion, Script, Burials & Famous Historical Quotes
-- **Religious Nature:** Primarily urban society with **no temples unearthed**. An idea of their religion is formed entirely from statues, seals, and figurines.
-- **Female Deity:** Most commonly found figurine is that of **Mother-Goddess (Matridevi or Shakti)**. Evidence of prevalence of **Yoni (female sex organ)** worship.
-- **Male Deity:** Chief male deity was **Pashupati Mahadeva (Proto-Shiva)** sitting in yogic posture on seals, surrounded by **4 animals (elephant, tiger, rhino, buffalo)** with **two deer** appearing at his feet. Prevalence of **Phallic (Lingam)** worship.
-- **Shiva-Shakti Worship:** The oldest form of worship in India; humped bull was held in great religious veneration.
-- **Zoolatry & Tree Worship:** Animal worship (zoolatry) and tree worship (especially **peepal**) were widely in vogue.
-- **Script:** Pictographic script, found mainly on seals. Undeciphered so far. Overlap of letters on some potsherds from **Kalibangan** proves writing was **Boustrophedon** (written from right to left, and left to right in alternate lines). Referred to as **Proto-Dravidian**.
-- **Seals Material & Motifs:** **Steatite** was mainly used in the manufacture of seals. **Humpless bull (unicorn)** is represented on the majority of Indus seals.
-- **Burial Customs:** **Inhumation (complete burial)** was the most common method of disposal of the dead.
-- **Swastika:** The origin of the **Swastika** symbol can be traced to the Indus Civilization.
-- **Key Quotes & Academic Identifications:**
-  - *"Indra is accused of causing the decline of Indus Civilisation"* — **Sir Mortimer Wheeler**.
-  - The Rigveda speaks of a battle at a place named **"Hariyumpia"**, which has been identified with **Harappa**.
-  - The majority of scholars believe that the makers of this civilization were **Dravidian**.
-  - Contemporary Civilizations: **Mesopotamia (Sumeria), Egypt, and China**.
 
 ## UP Focus (once)
 

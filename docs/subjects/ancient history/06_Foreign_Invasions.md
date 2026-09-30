@@ -165,7 +165,7 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 **Two layers: Persian satrapy first, then Macedon | papers’ “Greeks” = Alexander plus Indo-Greek**
 
 - **Cyrus** (died 530 BCE) reaches the Indus fringe in **legend** only. The **satrapy** is **Darius I**, about **518/516 BCE**.
-- Darius holds **Gandhara** and **Hindush**. Herodotus calls this the **20th** satrapy. Tribute is remembered as **gold dust**. Behistun, Persepolis, and Naqsh-i-Rustam preserve Darius-age imperial lists and images.
+- Darius holds **Gandhara** and **Hindush** (Sindh). Herodotus calls this the **20th** satrapy (out of 28 satrapies). Tribute is remembered as **360 talents of gold dust** (accounting for one-third of total imperial revenue). Contact lasted ~200 years, introduced the **Kharosthi script** (written right-to-left, derived from Aramaic) into NW India, and influenced Mauryan bell-shaped capitals. Behistun, Persepolis, and Naqsh-i-Rustam preserve Darius-age imperial lists and images.
 - **Skylax of Caryanda** sails the Indus to the sea. Persepolis and Naqsh-i-Rustam reliefs show Indian delegates.
 - **Xerxes** took Indian infantry and archers into the Persian host against the Greeks. Herodotus records this.
 - **Ctesias** served as state physician to **Artaxerxes II** and wrote on India–Persia from that court world.
@@ -642,46 +642,7 @@ D. Sakas — Kushans — Greeks
 
 ---
 
-## 6.12 Lucent GK Complete Comprehensive Reference & Direct Gap-Fill
-
-> **Note for Aspirants:** Every single fact, province number, tribute figure, script origin, battle detail, and date from Lucent's General Knowledge (Section 3.1: Foreign Invasions) has been compiled below. You will never need to consult Lucent GK separately for Iranian and Macedonian Invasions.
-
-### 1. Iranian / Persian Invasion — Darius I (518 BC)
-- **Background:** The Achaemenian empire of Iran (Persia) expanded concurrently with Magadha. Taking advantage of political disunity on the North-West Frontier, they penetrated into India.
-- **Darius I (Darayabahu):** Penetrated into North-West India in **518 BC** and annexed Punjab (west of the Indus) and Sindh.
-- **The 20th Satrapy (Kshatrapi):**
-  - This conquered Indian territory constituted the **20th province (Kshatrapi)** of the Persian Empire (out of **28 provinces**).
-  - It was the most fertile and populous province of the entire Persian Empire.
-  - Revenue / Tribute: The Persian emperor received **360 talents of gold dust** annually as tribute from this 20th province alone (accounting for 1/3rd of total imperial revenue).
-- **Duration of Contact:** Indo-Iranian contact lasted continuously for about **200 years**.
-- **Four Major Historical Effects of the Iranian Invasion:**
-  1. Gave a tremendous impetus to Indo-Iranian trade and commercial navigation.
-  2. Through the Iranians, the Greeks first learned of the legendary wealth of India, which eventually provoked Alexander's campaign.
-  3. Iranian scribes introduced into India the **Kharosthi script** (written from right to left, like Arabic; derived from Aramaic).
-  4. Perceptible Iranian influence on **Mauryan sculpture** — most clearly visible in the **bell-shaped capitals**, the lustrous Polish, and the preamble and phrasing of Ashoka's royal edicts.
-
 ---
-
-### 2. Macedonian / Greek Invasion — Alexander the Great (326 BC)
-- **Background:** In the 4th century BC, the Greeks destroyed the Achaemenian Empire. Alexander succeeded his father **Philip** to the throne of Macedonia at the age of only **20 years**.
-- **Entry into India (326 BC):**
-  - Alexander subdued the Kabul valley and hilly tribal tracts of the NW frontier and reached **Ohind near Attock in 326 BC**, where a bridge of boats was built across the Indus.
-  - King **Ambhi of Taxila** and the ruler of **Abhisara** submitted without resistance.
-  - King **Porus (Puru)** of the Jhelum–Chenab interfluve refused to submit and chose to fight.
-- **Battle of the Hydaspes (Vitasta / modern Jhelum — 326 BC):**
-  - Alexander crossed the swollen Jhelum river by a nocturnal trick.
-  - Porus was defeated after fierce combat, but Alexander was so impressed by his valour and regal dignity that he restored his kingdom and treated him generously.
-- **Mutiny at the River Beas (Hyphasis):**
-  - Following a hard-fought victory at **Sakala (Sialkot)**, Greek forces reached the bank of the **Beas**.
-  - Here, his battle-weary soldiers mutinied and flatly refused to advance any further into the Gangetic heartland, terrified by reports of the gigantic army of the Nanda Empire of Magadha (commanded by Dhanananda).
-- **Alexander's Retreat and Death:**
-  - Unable to persuade his troops, Alexander ordered a retreat in **September 325 BC**, sailing down the Indus and dividing his force via land and sea.
-  - He reached **Babylon in 323 BC**, where he died of fever at the young age of **33 years**.
-- **Four Significant Effects of Alexander's Invasion:**
-  1. **Direct Communication:** Opened **four distinct lines of communication (three by land and one by sea)** between India and the Western world, bringing them into direct contact.
-  2. **Paved Way for Indo-Greek States:** Indirectly made possible the establishment of independent Indo-Bactrian and Indo-Parthian kingdoms in NW India, which significantly influenced Indian sculpture (**Gandhara school of art**), astronomy, metallurgy, and die-struck royal coinage.
-  3. **Catalyst for Political Unification:** Exposed the fatal dangers of regional disunity and opened the eyes of Indian statesmen (notably Chanakya and Chandragupta Maurya) to the urgent necessity of forging a strong, centralised all-India empire.
-  4. **Anchor for Chronology:** The date of Alexander's invasion (**326 BC**) provides the **"first reliable date in early Indian history"**, serving as an indispensable chronological anchor for ancient Indian historical events.
 
 ## UP Focus
 
