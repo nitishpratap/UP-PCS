@@ -2307,10 +2307,7 @@ a few Hindu chiefs, yet he established a firm administrative
 system. He started the construction of Quwwat-ul-Islam
 mosque at Delhi and Adhai Din ka Jhopara (Ajmer). He also
 laid the foundation of the Qutub Minar, which was completed
-by his successor Iltutmish. He was known as Lakh Baksh for
-his generosity. He never took title of "Sultan" but according
-to question option (d) is the correct answer
-*(Refer to Q-GC3 for primary reference context)*
+by his successor Iltutmish. He was known as Lakh Baksh for his generosity.
 
 </details>
 
@@ -2348,10 +2345,7 @@ a few Hindu chiefs, yet he established a firm administrative
 system. He started the construction of Quwwat-ul-Islam
 mosque at Delhi and Adhai Din ka Jhopara (Ajmer). He also
 laid the foundation of the Qutub Minar, which was completed
-by his successor Iltutmish. He was known as Lakh Baksh for
-his generosity. He never took title of "Sultan" but according
-to question option (d) is the correct answer
-*(Refer to Q-GC3 for primary reference context)*
+by his successor Iltutmish. He was known as Lakh Baksh for his generosity.
 *(Refer to Q-GC4 for primary reference context)*
 
 </details>
@@ -2382,9 +2376,7 @@ construction of the Qutub Minar, which was completed by
 Iltutmish. The topmost storey was damaged by lightning,
 which was rebuilt by Firuz Shah Tughluq. Firuz Shah
 Tughluq rebuilt the fourth floor of Qutub Minar and built
-the fifth floor. Ghiyasuddin Tughluq contributed nothing to
-its construction. From the above options, option (c) is the
-correct answer.
+the fifth floor. Ghiyasuddin Tughluq contributed nothing to its construction.
 
 </details>
 
@@ -2414,9 +2406,7 @@ construction of the Qutub Minar, which was completed by
 Iltutmish. The topmost storey was damaged by lightning,
 which was rebuilt by Firuz Shah Tughluq. Firuz Shah
 Tughluq rebuilt the fourth floor of Qutub Minar and built
-the fifth floor. Ghiyasuddin Tughluq contributed nothing to
-its construction. From the above options, option (c) is the
-correct answer.
+the fifth floor. Ghiyasuddin Tughluq contributed nothing to its construction.
 *(Refer to Q-GC6 for primary reference context)*
 
 </details>

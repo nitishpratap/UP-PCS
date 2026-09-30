@@ -580,7 +580,7 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Society **1784**, Jones president; Hastings declined. R explains why he backed Jones.
+**Ans: B** — Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty/deference to Jones's scholarship — his own being a scholar is a parallel fact, not the causal reason for declining.
 
 </details>
 
@@ -1776,7 +1776,7 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Society **1784**, Jones president; Hastings declined. R explains why he backed Jones. (*Paper spelling “Ambic” = Arabic.*)
+**Ans: B** - Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty/deference - his being an orientalist scholar is a true but separate fact, not the causal reason for stepping aside. (*Paper spelling "Ambic" = Arabic.*)
 
 </details>
 

@@ -4435,7 +4435,7 @@ of Chandel King Parmardidev (Parmal) (1165-1203 CE), who
 died during the battle with Prithviraj Chauhan. Description
 of Chandel and Chauhan’s terrific struggle is provided in
 “Prithviraj Raso” by Chand Bardai and “Alha-Khand” of
-"Parmal Raso" by Jagnik. So option (c) is the correct answer.
+"Parmal Raso" by Jagnik. 
 
 </details>
 
@@ -4463,7 +4463,7 @@ of Chandel King Parmardidev (Parmal) (1165-1203 CE), who
 died during the battle with Prithviraj Chauhan. Description
 of Chandel and Chauhan’s terrific struggle is provided in
 “Prithviraj Raso” by Chand Bardai and “Alha-Khand” of
-"Parmal Raso" by Jagnik. So option (c) is the correct answer.
+"Parmal Raso" by Jagnik. 
 *(Refer to Q-GC7 for primary reference context)*
 
 </details>
@@ -4492,7 +4492,7 @@ of Chandel King Parmardidev (Parmal) (1165-1203 CE), who
 died during the battle with Prithviraj Chauhan. Description
 of Chandel and Chauhan’s terrific struggle is provided in
 “Prithviraj Raso” by Chand Bardai and “Alha-Khand” of
-"Parmal Raso" by Jagnik. So option (c) is the correct answer.
+"Parmal Raso" by Jagnik. 
 *(Refer to Q-GC7 for primary reference context)*
 *(Refer to Q-GC8 for primary reference context)*
 

@@ -436,7 +436,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 
 > **Logic:** Duncan = Banaras Sanskrit College, **not** Asiatic Society. Jones founded the Society. Archbold ≠ Lahore.
 
-**PYQ — UPPCS Prelims 2024, Q136**
+*PYQ Reference — UPPCS Prelims 2024, Q136*
 
 > [!TIP] **Exam Anchor (UPPCS 2024 Q136):** **William A.J. Archbold** was Principal of Government College (Dacca), MAO College (Aligarh), and Muir Central College (Allahabad). He was **never** Principal of Lahore College.
 
@@ -458,7 +458,19 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 
 **Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
 
-**Reason (R):** Warren Hastings was himself a great scholar and an ardent > [!TIP] **Exam Anchor (UPPCS 2019 Q22):** Assertion-Reason: Asiatic Society was founded during Warren Hastings’s tenure and he declined presidency for Jones (True). Hastings was a great oriental scholar supporting Indian languages (True, but not the direct causal reason for declining).
+**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty/deference — his being an orientalist scholar is a true but separate fact, not the causal reason for stepping aside. (Official UPPCS 2019 key = B.)
+
+</details>
 
 ---
 
@@ -680,7 +692,19 @@ Given below are two statements, one is labelled as Assertion (A) and the other a
 
 **Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
 
-**Reason (R):** Warren Hastings was himself a great scholar and an ardent > [!TIP] **Exam Anchor (UPPCS 2019 Q22):** Assertion-Reason: Asiatic Society was founded during Warren Hastings’s tenure and he declined presidency for Jones (True). Hastings was a great oriental scholar supporting Indian languages (True, but not the direct causal reason for declining).
+**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty/deference — his being an orientalist scholar is a true but separate fact, not the causal reason for stepping aside. (Official UPPCS 2019 key = B.)
+
+</details>
 
 ### UPPCS Prelims 2018
 
@@ -892,7 +916,9 @@ Codes :
 
 <details><summary>Show answer</summary>
 
-**Answer: (a)**
+**Answer: (b)**
+
+*(Official UPPSC 2019 Key = B: Both statements are true, but R does not causally explain A)*
 
 **Explanation:**
 Warren Hastings was the Governor General of Bengal

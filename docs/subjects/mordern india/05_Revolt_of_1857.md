@@ -3653,9 +3653,7 @@ ended in India and the reign was handed over to Queen
 
 Victoria by a proclamation announced on November 1, 1858.
 
-She assumed the responsibility of the Indian administration
-
-in her hand. Hence, the option (c) is correct.
+She assumed the responsibility of the Indian administration in her hand (1 November 1858). Hence, option (a) is correct.
 </details>
 
 ---
@@ -3686,9 +3684,7 @@ ended in India and the reign was handed over to Queen
 
 Victoria by a proclamation announced on November 1, 1858.
 
-She assumed the responsibility of the Indian administration
-
-in her hand. Hence, the option (c) is correct.
+She assumed the responsibility of the Indian administration in her hand (1 November 1858). Hence, option (a) is correct.
 </details>
 
 ---

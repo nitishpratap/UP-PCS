@@ -1,4 +1,4 @@
-# Topic 1 — Institutions Related to Indian Culture
+﻿# Topic 1 — Institutions Related to Indian Culture
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -169,7 +169,7 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Both true; Hastings’s orientalism explains why he patronised the Society and stepped aside for Jones.
+**Ans: B** — Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty/deference — his orientalism is a true but separate fact, not the causal reason for stepping aside.
 
 </details>
 
@@ -690,7 +690,7 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Both true; Hastings’s orientalism explains patronage and declining the chair for Jones.
+**Ans: B** — Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty — his orientalism is a true but parallel fact, not the causal explanation.
 
 </details>
 

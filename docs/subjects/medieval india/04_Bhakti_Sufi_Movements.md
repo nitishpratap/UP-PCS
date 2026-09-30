@@ -3172,12 +3172,14 @@ policies of Akbar. Aurangzeb was a follower of this Sufi order.
 
 ---
 
-**Q-GC80. (c) Naqshbandi (d) Qadiri, Jharkhand P.C.S. (Pre) 2016**
+**Q-GC80. Jharkhand P.C.S. (Pre) 2016**
 
 The most orthodox Sufi order was –
 
 - (a) Chishti
 - (b) Suhrawardi
+- (c) Naqshbandi
+- (d) Qadiri
 
 <details><summary>Show answer</summary>
 

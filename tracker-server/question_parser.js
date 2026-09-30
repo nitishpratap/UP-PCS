@@ -475,6 +475,10 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     const correctAns = inM[3].toUpperCase();
     const restExplanation = inM[4].trim();
 
+    if (body.length > 2500 || body.includes('\n## ') || body.includes('\n---\n')) {
+      continue;
+    }
+
     const options = { A: '', B: '', C: '', D: '' };
     const optRegex = /(?:^|\n)\s*([A-D])[\.\)]\s+([^\n\r]+)/g;
     let optM;
@@ -482,6 +486,10 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     while ((optM = optRegex.exec(body)) !== null) {
       if (firstOptIdx === -1) firstOptIdx = optM.index;
       options[optM[1].toUpperCase()] = optM[2].trim();
+    }
+
+    if (!options.A || !options.B) {
+      continue;
     }
 
     let stem = body;

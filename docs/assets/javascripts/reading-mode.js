@@ -240,15 +240,160 @@
     return /^H[1-6]$/.test(el.tagName) || el.tagName === "HR";
   }
 
+  function scoreOptionSet(opts) {
+    let score = 0;
+    for (let i = 0; i < opts.length; i++) {
+      const text = opts[i].body.trim();
+      if (!text) return -1000;
+      // Heavy penalty if option body contains an unparsed option key like " B. " or " C. "
+      if (/(?:^|\s+)[A-D]\.\s+/i.test(text)) {
+        if (!/(?:^|\s+)[A-D]\.\s+[A-Za-z]\./i.test(text)) {
+          score -= 20;
+        }
+      }
+      if (text.length >= 2 && text.length <= 250) score += 5;
+      if (/both\s*\(A\)|\(A\)\s+is\s+(true|false)/i.test(text)) score += 10;
+    }
+    return score;
+  }
+
+  function parseInlineOptions(text) {
+    let cleaned = String(text || '').replace(/^\s*Options\s*:\s*/i, '').trim();
+    cleaned = cleaned.replace(/©/g, '(c)');
+    if (!cleaned) return null;
+
+    const families = [
+      {
+        name: 'dot',
+        delim: /(?:^|\s+)([A-D])[\.\)]\s+/gi,
+        style: 'dot'
+      },
+      {
+        name: 'paren_lower',
+        delim: /(?:^|\s+)\(([a-d])\)\s*/g,
+        style: 'paren'
+      },
+      {
+        name: 'paren_upper',
+        delim: /(?:^|\s+)\(([A-D])\)\s*/g,
+        style: 'paren'
+      }
+    ];
+
+    let bestResult = null;
+    let bestScore = -9999;
+
+    for (const fam of families) {
+      const matches = [...cleaned.matchAll(fam.delim)];
+      if (matches.length < 2) continue;
+
+      const aIndices = [];
+      matches.forEach((m, idx) => {
+        if (m[1].toUpperCase() === 'A') aIndices.push(idx);
+      });
+
+      for (const aIdx of aIndices) {
+        const mA = matches[aIdx];
+        for (let bIdx = aIdx + 1; bIdx < matches.length; bIdx++) {
+          if (matches[bIdx][1].toUpperCase() !== 'B') continue;
+          const mB = matches[bIdx];
+
+          const cCandidates = [];
+          for (let cIdx = bIdx + 1; cIdx < matches.length; cIdx++) {
+            if (matches[cIdx][1].toUpperCase() === 'C') cCandidates.push(cIdx);
+          }
+
+          if (cCandidates.length === 0) {
+            // Check 2-option set (A, B)
+            const stem = cleaned.substring(0, mA.index).trim();
+            const optA = cleaned.substring(mA.index + mA[0].length, mB.index).trim();
+            const optB = cleaned.substring(mB.index + mB[0].length).trim();
+            if (optA && optB) {
+              const opts = [{ key: 'A', body: optA }, { key: 'B', body: optB }];
+              const score = scoreOptionSet(opts);
+              if (score > bestScore) {
+                bestScore = score;
+                bestResult = { stem, options: opts };
+              }
+            }
+            continue;
+          }
+
+          for (const cIdx of cCandidates) {
+            const mC = matches[cIdx];
+            const dCandidates = [];
+            for (let dIdx = cIdx + 1; dIdx < matches.length; dIdx++) {
+              if (matches[dIdx][1].toUpperCase() === 'D') dCandidates.push(dIdx);
+            }
+
+            if (dCandidates.length === 0) {
+              // Check 3-option set (A, B, C)
+              const stem = cleaned.substring(0, mA.index).trim();
+              const optA = cleaned.substring(mA.index + mA[0].length, mB.index).trim();
+              const optB = cleaned.substring(mB.index + mB[0].length, mC.index).trim();
+              const optC = cleaned.substring(mC.index + mC[0].length).trim();
+              if (optA && optB && optC) {
+                const opts = [{ key: 'A', body: optA }, { key: 'B', body: optB }, { key: 'C', body: optC }];
+                const score = scoreOptionSet(opts);
+                if (score > bestScore) {
+                  bestScore = score;
+                  bestResult = { stem, options: opts };
+                }
+              }
+              continue;
+            }
+
+            for (const dIdx of dCandidates) {
+              const mD = matches[dIdx];
+              const stem = cleaned.substring(0, mA.index).trim();
+              const optA = cleaned.substring(mA.index + mA[0].length, mB.index).trim();
+              const optB = cleaned.substring(mB.index + mB[0].length, mC.index).trim();
+              const optC = cleaned.substring(mC.index + mC[0].length, mD.index).trim();
+              const optD = cleaned.substring(mD.index + mD[0].length).trim();
+
+              if (optA && optB && optC && optD) {
+                const opts = [
+                  { key: 'A', body: optA },
+                  { key: 'B', body: optB },
+                  { key: 'C', body: optC },
+                  { key: 'D', body: optD }
+                ];
+                let score = scoreOptionSet(opts) + 20;
+                if (/(?:^|\s+)B[\.\)]\s+/i.test(optB)) score -= 30;
+                if (/(?:^|\s+)C[\.\)]\s+/i.test(optC)) score -= 30;
+
+                if (score > bestScore) {
+                  bestScore = score;
+                  bestResult = { stem, options: opts };
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+
+    if (bestResult && bestScore > -50) {
+      return bestResult;
+    }
+
+    return null;
+  }
+
   function splitOptionsLine(text) {
-    const cleaned = text.replace(/^\s*Options:\s*/i, "").trim();
-    if (!cleaned) return [];
-    const parts = cleaned.split(/\s+(?=(?:[A-D]\.\s|\([A-Da-d©]\)\s|©\s))/);
-    return parts
-      .map((part) => {
-        return parseOptionLine(part);
-      })
-      .filter(Boolean);
+    const parsed = parseInlineOptions(text);
+    if (parsed && parsed.options && parsed.options.length >= 2) {
+      return parsed.options;
+    }
+    return [];
+  }
+
+  function splitInlineOptionsText(text) {
+    const parsed = parseInlineOptions(text);
+    if (parsed && parsed.options && parsed.options.length >= 2) {
+      return parsed;
+    }
+    return null;
   }
 
   /** Parse A–D choices from one or many lines. Never invent empty keys. */
@@ -260,7 +405,7 @@
 
     if (joined.length >= 2) {
       const fromLines = joined.map(parseOptionLine).filter(Boolean);
-      if (fromLines.length >= 2) return fromLines;
+      if (fromLines.length >= 2 && fromLines.length === joined.length) return fromLines;
     }
 
     // Soft-break markdown often collapses "A. … B. … C. … D. …" onto one line.
@@ -360,15 +505,15 @@
     let cleaned = String(line || "").trim();
     // MkDocs smartypants turns "(c)" into the copyright symbol.
     cleaned = cleaned.replace(/^©\s*/, "(c) ");
-    let match = cleaned.match(/^([A-D])\.\s*(.*)$/i);
-    if (match) return { key: match[1].toUpperCase(), body: match[2].trim() };
-    match = cleaned.match(/^\(([A-Da-d©])\)\s*(.*)$/);
-    if (match) {
+    let match = cleaned.match(/^([A-D])\.\s*(.+)$/i);
+    if (match && match[2].trim()) return { key: match[1].toUpperCase(), body: match[2].trim() };
+    match = cleaned.match(/^\(([A-Da-d©])\)\s*(.+)$/);
+    if (match && match[2].trim()) {
       const key = normalizeOptionKey(match[1] === "©" ? "C" : match[1]);
       if (key) return { key, body: match[2].trim() };
     }
-    match = cleaned.match(/^([A-Da-d])\)\s*(.*)$/);
-    if (match) {
+    match = cleaned.match(/^([A-Da-d])\)\s*(.+)$/);
+    if (match && match[2].trim()) {
       const key = normalizeOptionKey(match[1]);
       if (key) return { key, body: match[2].trim() };
     }
@@ -377,17 +522,6 @@
 
   function isOptionLineText(line) {
     return Boolean(parseOptionLine(line));
-  }
-
-  function splitInlineOptionsText(text) {
-    const cleaned = text.replace(/^\s*Options:\s*/i, "").trim();
-    const parts = cleaned.split(/\s+(?=(?:[A-D]\.\s|\([A-Da-d©]\)\s|©\s))/);
-    if (parts.length < 2) return null;
-    const options = parts.map((part) => parseOptionLine(part)).filter(Boolean);
-    if (options.length < 2) return null;
-    const first = parts[0];
-    if (isOptionLineText(first)) return { stem: "", options };
-    return { stem: first.trim(), options };
   }
 
   function buildStemParagraph(text, className) {
@@ -515,7 +649,7 @@
   }
 
   function restructureParagraph(p) {
-    const raw = (p.innerText || p.textContent || "").replace(/\r\n/g, "\n");
+    const raw = (p.textContent || p.innerText || "").replace(/\r\n/g, "\n");
     const trimmed = raw.trim();
     if (!trimmed) return;
 
@@ -526,12 +660,9 @@
     }
 
     const lines = trimmed.split("\n").map((line) => line.trim()).filter(Boolean);
-    const hasMultilineOptions = lines.length > 1 && lines.some((line) => isOptionLineText(line));
-    // Leading "A." counts too (collapsed soft-break paragraphs often start with A.).
-    const hasInlineOptions =
-      (/(?:^|\s)(?:A\.|\(a\)|\(A\))\s/.test(trimmed) &&
-        /\s(?:B\.|\(b\)|\(B\))\s/.test(trimmed) &&
-        !hasMultilineOptions);
+    const hasMultilineOptions = lines.length > 1 && lines.every((line) => isOptionLineText(line));
+    const inlineParsed = splitInlineOptionsText(trimmed);
+    const hasInlineOptions = Boolean(inlineParsed && !hasMultilineOptions);
     const hasNumberedStatements = lines.some((line) => /^\d+\.\s+/.test(line));
     const hasCollapsedOptionsLine = lines.some(
       (line) => isOptionLineText(line) && /(?:\s(?:[B-D]\.|\([b-dB-D]\)|©)\s)/.test(line),
@@ -555,14 +686,11 @@
       i = 1;
     }
 
-    if (hasInlineOptions) {
-      const split = splitInlineOptionsText(lines.slice(i).join(" "));
-      if (split) {
-        if (split.stem) fragment.appendChild(buildStemParagraph(split.stem));
-        fragment.appendChild(buildOptionsList(split.options));
-        p.replaceWith(fragment);
-        return;
-      }
+    if (hasInlineOptions && inlineParsed) {
+      if (inlineParsed.stem) fragment.appendChild(buildStemParagraph(inlineParsed.stem));
+      fragment.appendChild(buildOptionsList(inlineParsed.options));
+      p.replaceWith(fragment);
+      return;
     }
 
     const stemLines = [];
