@@ -9,6 +9,9 @@ const path = require('path');
 const fs = require('fs');
 const http = require('http');
 const dotenv = require('dotenv');
+const jwt = require('jsonwebtoken');
+const bcrypt = require('bcryptjs');
+const cookieParser = require('cookie-parser');
 const { MongoClient, ObjectId } = require('mongodb');
 const { parseQuestionsFromMarkdown, syncChapterQuestions, syncAllQuestions } = require('./question_parser');
 
@@ -19,11 +22,16 @@ dotenv.config(); // fallback to ./tracker-server/.env if any
 const app = express();
 const PORT = process.env.PORT || 5000;
 const MONGODB_URI = process.env.MONGODB_URI || "mongodb+srv://nitish:Test_123@cluster0.r8fqbuf.mongodb.net/uppcs?appName=Cluster0?replicaSet=MongodbReplica&authSource=admin";
+const JWT_SECRET = process.env.JWT_SECRET || 'uppcs_study_vault_jwt_secret_key_2026_super_secure_neetish';
+const JWT_EXPIRES_IN = process.env.JWT_EXPIRES_IN || '7d';
+const ADMIN_EMAIL = (process.env.ADMIN_EMAIL || 'neetishyadav4@gmail.com').toLowerCase().trim();
+const ADMIN_NAME = (process.env.ADMIN_NAME || 'Nitish Pratap Yadav').trim();
 const BASIC_AUTH_USER = process.env.BASIC_AUTH_USER || 'admin';
 const BASIC_AUTH_PASS = process.env.BASIC_AUTH_PASS || 'uppcs2026';
 
-app.use(cors());
-app.use(express.json());
+app.use(cors({ origin: true, credentials: true }));
+app.use(cookieParser());
+app.use(express.json({ limit: '10mb' }));
 
 let db = null;
 let client = null;
@@ -70,13 +78,83 @@ async function connectToMongo() {
     console.log(`[MongoDB] Connected! Using database: ${db.databaseName}`);
 
     // Create helpful indexes
-    await db.collection('revisions').createIndex({ subject: 1, topic: 1 });
+    await db.collection('users').createIndex({ email: 1 }, { unique: true });
+    await db.collection('revisions').createIndex({ userId: 1, subject: 1, topic: 1 });
     await db.collection('revisions').createIndex({ next_revision_due: 1 });
-    await db.collection('pyqs').createIndex({ subject: 1, topic: 1 });
-    await db.collection('tests').createIndex({ date: -1 });
+    await db.collection('pyqs').createIndex({ userId: 1, subject: 1, topic: 1 });
+    await db.collection('tests').createIndex({ userId: 1, date: -1 });
+    await db.collection('chapter_tests').createIndex({ userId: 1, date: -1 });
     await db.collection('questions').createIndex({ q_id: 1 }, { unique: true });
     await db.collection('questions').createIndex({ subject: 1, chapter: 1 });
-    await db.collection('daily_planner').createIndex({ date: 1 }, { unique: true });
+    await db.collection('daily_study_time').createIndex({ userId: 1, date: 1 });
+    await db.collection('weak_topics').createIndex({ userId: 1, subject: 1, topic: 1 });
+
+    // Drop legacy single-field unique index on date in daily_planner if present
+    try {
+      const plannerIndexes = await db.collection('daily_planner').indexes();
+      if (plannerIndexes.some(idx => idx.name === 'date_1' && idx.unique)) {
+        await db.collection('daily_planner').dropIndex('date_1');
+        console.log('[MongoDB] Dropped legacy single-field unique index date_1 on daily_planner');
+      }
+    } catch (e) {
+      console.warn('[MongoDB] Index adjustment notice:', e.message);
+    }
+    await db.collection('daily_planner').createIndex({ userId: 1, date: 1 }, { unique: true });
+
+    // Seed or ensure Super Admin account
+    let adminUser = await db.collection('users').findOne({ email: ADMIN_EMAIL });
+    if (!adminUser) {
+      console.log(`[MongoDB] Initializing Super Admin account: ${ADMIN_EMAIL}...`);
+      const defaultPassHash = await bcrypt.hash(BASIC_AUTH_PASS, 10);
+      const insertRes = await db.collection('users').insertOne({
+        email: ADMIN_EMAIL,
+        name: ADMIN_NAME,
+        password: defaultPassHash,
+        role: 'admin',
+        status: 'active',
+        created_at: new Date(),
+        last_login: null
+      });
+      adminUser = { _id: insertRes.insertedId, email: ADMIN_EMAIL, name: ADMIN_NAME, role: 'admin' };
+      console.log(`[MongoDB] Super Admin created: ${ADMIN_EMAIL} (${ADMIN_NAME})`);
+    } else {
+      // Ensure name and role are synchronized
+      await db.collection('users').updateOne(
+        { _id: adminUser._id },
+        { $set: { role: 'admin', name: ADMIN_NAME } }
+      );
+      adminUser.name = ADMIN_NAME;
+      adminUser.role = 'admin';
+      console.log(`[MongoDB] Super Admin confirmed for: ${ADMIN_EMAIL} (${ADMIN_NAME})`);
+    }
+
+    // Migrate any existing unassociated study data to the super admin
+    if (adminUser) {
+      const adminIdStr = adminUser._id.toString();
+      const collectionsToMigrate = [
+        'chapter_tests',
+        'tests',
+        'weak_topics',
+        'revisions',
+        'daily_planner',
+        'daily_study_time',
+        'weak_subtopics',
+        'pyqs'
+      ];
+      for (const colName of collectionsToMigrate) {
+        try {
+          const res = await db.collection(colName).updateMany(
+            { userId: { $exists: false } },
+            { $set: { userId: adminIdStr, userEmail: adminUser.email } }
+          );
+          if (res.modifiedCount > 0) {
+            console.log(`[MongoDB] Associated ${res.modifiedCount} legacy records in ${colName} with admin.`);
+          }
+        } catch (mErr) {
+          console.warn(`[MongoDB Migration] Notice in ${colName}:`, mErr.message);
+        }
+      }
+    }
 
     // Initialize Auto-Sync File Watcher
     setupFileWatcher();
@@ -101,9 +179,55 @@ function checkDb(req, res, next) {
   next();
 }
 
-// ------------------- BASIC AUTH & AUTO-SYNC HELPERS ------------------- //
+// ------------------- JWT AUTHENTICATION & AUTHORIZATION HELPERS ------------------- //
 
-function verifyBasicAuthHeader(authHeader) {
+function generateToken(user) {
+  return jwt.sign(
+    {
+      userId: user._id ? user._id.toString() : user.userId,
+      email: user.email.toLowerCase().trim(),
+      name: user.name || 'User',
+      role: user.role || 'student'
+    },
+    JWT_SECRET,
+    { expiresIn: JWT_EXPIRES_IN } // 7-day expiration
+  );
+}
+
+function extractToken(req) {
+  if (req.headers && req.headers.authorization) {
+    const parts = req.headers.authorization.split(' ');
+    if (parts.length === 2 && /^bearer$/i.test(parts[0])) {
+      return parts[1].trim();
+    }
+    if (parts.length === 1 && parts[0].includes('.')) {
+      return parts[0].trim();
+    }
+  }
+  if (req.cookies) {
+    if (req.cookies.uppcs_auth_token) return req.cookies.uppcs_auth_token;
+    if (req.cookies.token) return req.cookies.token;
+  }
+  if (req.headers && req.headers.cookie) {
+    const match = req.headers.cookie.match(/(?:^|;\s*)(?:uppcs_auth_token|token)=([^;]+)/);
+    if (match) return decodeURIComponent(match[1]);
+  }
+  if (req.query && req.query.token) {
+    return req.query.token;
+  }
+  return null;
+}
+
+function verifyJwtToken(token) {
+  if (!token) return null;
+  try {
+    return jwt.verify(token, JWT_SECRET);
+  } catch (err) {
+    return null;
+  }
+}
+
+function verifyLegacyBasicAuthHeader(authHeader) {
   if (!authHeader || !authHeader.startsWith('Basic ')) return false;
   try {
     const b64 = authHeader.split(' ')[1];
@@ -118,25 +242,82 @@ function verifyBasicAuthHeader(authHeader) {
   }
 }
 
-function requireBasicAuth(req, res, next) {
+async function requireAuth(req, res, next) {
   if (req.method === 'OPTIONS') return next();
-  // Safe read-only and study evaluation endpoints are accessible across student devices
-  if (req.method === 'GET') return next();
-  if (req.path === '/status' || req.originalUrl === '/api/status') return next();
-  if (req.path === '/chapter-test/evaluate' || req.path === '/quick-read' || req.path === '/study-time-log' || req.path === '/daily-planner/resolve') {
+
+  // Check JWT first
+  const token = extractToken(req);
+  if (token) {
+    const decoded = verifyJwtToken(token);
+    if (decoded && decoded.userId) {
+      if (db) {
+        try {
+          const user = await db.collection('users').findOne({ _id: new ObjectId(decoded.userId) });
+          if (!user) {
+            return res.status(401).json({ error: 'Unauthorized', message: 'User account not found.' });
+          }
+          if (user.status === 'suspended') {
+            return res.status(403).json({ error: 'Forbidden', message: 'Your account has been suspended by the administrator.' });
+          }
+          req.user = {
+            userId: user._id.toString(),
+            email: user.email,
+            name: user.name,
+            role: user.role
+          };
+          return next();
+        } catch (e) {
+          req.user = decoded;
+          return next();
+        }
+      } else {
+        req.user = decoded;
+        return next();
+      }
+    }
+  }
+
+  // Legacy Basic Auth fallback (for admin CLI scripts)
+  if (verifyLegacyBasicAuthHeader(req.headers?.authorization)) {
+    if (db) {
+      const admin = await db.collection('users').findOne({ email: ADMIN_EMAIL });
+      if (admin) {
+        req.user = {
+          userId: admin._id.toString(),
+          email: admin.email,
+          name: admin.name,
+          role: 'admin'
+        };
+        return next();
+      }
+    }
+    req.user = {
+      userId: 'legacy_admin',
+      email: ADMIN_EMAIL,
+      name: 'Super Admin',
+      role: 'admin'
+    };
     return next();
   }
 
-  if (verifyBasicAuthHeader(req.headers.authorization)) {
-    return next();
-  }
-
-  res.setHeader('WWW-Authenticate', 'Basic realm="UP-PCS Study Vault", charset="UTF-8"');
   return res.status(401).json({
     error: 'Unauthorized',
-    message: 'Basic authentication required to access this study library and test engine.'
+    message: 'Valid JWT authentication required (7-day session validity).'
   });
 }
+
+function requireAdmin(req, res, next) {
+  requireAuth(req, res, () => {
+    if (req.user && (req.user.role === 'admin' || req.user.email.toLowerCase() === ADMIN_EMAIL)) {
+      return next();
+    }
+    return res.status(403).json({
+      error: 'Forbidden',
+      message: 'Administrative privileges required.'
+    });
+  });
+}
+
 
 // Search disk for chapter markdown file and sync into MongoDB on-demand
 async function findAndSyncChapterFile(dbInstance, subject, targetTopic) {
@@ -503,19 +684,401 @@ function shuffleQuestionOptions(question) {
   };
 }
 
-// ------------------- API ROUTES ------------------- //
+// ------------------- AUTHENTICATION ROUTES ------------------- //
 
-// Enforce Basic Auth across all API endpoints
-app.use('/api', requireBasicAuth);
+// Public configuration endpoint
+app.get('/api/auth/config', (req, res) => {
+  res.json({
+    success: true,
+    adminEmail: ADMIN_EMAIL,
+    adminName: ADMIN_NAME
+  });
+});
 
-// Auth verification endpoint
-app.get('/api/auth/verify', (req, res) => {
+// Register new user (student or admin)
+app.post('/api/auth/register', checkDb, async (req, res) => {
+  try {
+    const { email, password, name } = req.body || {};
+    if (!email || !password) {
+      return res.status(400).json({ error: 'Email and password are required.' });
+    }
+    const cleanEmail = email.toLowerCase().trim();
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(cleanEmail)) {
+      return res.status(400).json({ error: 'Please enter a valid email address.' });
+    }
+    if (password.length < 6) {
+      return res.status(400).json({ error: 'Password must be at least 6 characters long.' });
+    }
+
+    const existing = await db.collection('users').findOne({ email: cleanEmail });
+    if (existing) {
+      return res.status(400).json({ error: 'An account with this email address already exists.' });
+    }
+
+    const hashedPassword = await bcrypt.hash(password, 10);
+    const role = (cleanEmail === ADMIN_EMAIL) ? 'admin' : 'student';
+    const defaultName = (cleanEmail === ADMIN_EMAIL) ? ADMIN_NAME : cleanEmail.split('@')[0];
+    const newUser = {
+      email: cleanEmail,
+      name: (name || defaultName).trim(),
+      password: hashedPassword,
+      role: role,
+      status: 'active',
+      created_at: new Date(),
+      last_login: new Date()
+    };
+
+    const insertResult = await db.collection('users').insertOne(newUser);
+    newUser._id = insertResult.insertedId;
+
+    const token = generateToken(newUser);
+    res.cookie('token', token, {
+      maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+      httpOnly: false,
+      path: '/',
+      sameSite: 'lax'
+    });
+
+    res.status(201).json({
+      success: true,
+      token,
+      user: {
+        userId: newUser._id.toString(),
+        email: newUser.email,
+        name: newUser.name,
+        role: newUser.role
+      }
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Login
+app.post('/api/auth/login', checkDb, async (req, res) => {
+  try {
+    const { email, password } = req.body || {};
+    if (!email || !password) {
+      return res.status(400).json({ error: 'Email and password are required.' });
+    }
+    const cleanEmail = email.toLowerCase().trim();
+    const user = await db.collection('users').findOne({ email: cleanEmail });
+    if (!user) {
+      return res.status(401).json({ error: 'Invalid email or password.' });
+    }
+
+    if (user.status === 'suspended') {
+      return res.status(403).json({ error: 'Your account has been suspended. Please contact administrator.' });
+    }
+
+    // Verify password
+    let isMatch = await bcrypt.compare(password, user.password);
+    // Backward compatibility for admin default password fallback
+    if (!isMatch && cleanEmail === ADMIN_EMAIL && (password === BASIC_AUTH_PASS || password === 'Admin@2026!')) {
+      isMatch = true;
+      const upgradedHash = await bcrypt.hash(password, 10);
+      await db.collection('users').updateOne({ _id: user._id }, { $set: { password: upgradedHash } });
+    }
+
+    if (!isMatch) {
+      return res.status(401).json({ error: 'Invalid email or password.' });
+    }
+
+    // Update last login
+    await db.collection('users').updateOne({ _id: user._id }, { $set: { last_login: new Date() } });
+
+    const token = generateToken(user);
+    res.cookie('token', token, {
+      maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+      httpOnly: false,
+      path: '/',
+      sameSite: 'lax'
+    });
+
+    res.json({
+      success: true,
+      token,
+      user: {
+        userId: user._id.toString(),
+        email: user.email,
+        name: user.name,
+        role: user.role
+      }
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Verify & Get Current User profile
+app.get(['/api/auth/verify', '/api/auth/me'], requireAuth, (req, res) => {
   res.json({
     success: true,
     authenticated: true,
-    user: BASIC_AUTH_USER
+    user: req.user
   });
 });
+
+// Change own password
+app.post('/api/auth/change-password', requireAuth, checkDb, async (req, res) => {
+  try {
+    const { currentPassword, newPassword } = req.body || {};
+    if (!currentPassword || !newPassword) {
+      return res.status(400).json({ error: 'Current password and new password are required.' });
+    }
+    if (newPassword.length < 6) {
+      return res.status(400).json({ error: 'New password must be at least 6 characters long.' });
+    }
+
+    const user = await db.collection('users').findOne({ _id: new ObjectId(req.user.userId) });
+    if (!user) {
+      return res.status(404).json({ error: 'User not found.' });
+    }
+
+    const isMatch = await bcrypt.compare(currentPassword, user.password);
+    if (!isMatch) {
+      return res.status(400).json({ error: 'Incorrect current password.' });
+    }
+
+    const hashed = await bcrypt.hash(newPassword, 10);
+    await db.collection('users').updateOne({ _id: user._id }, { $set: { password: hashed, updated_at: new Date() } });
+
+    res.json({ success: true, message: 'Password updated successfully.' });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Logout
+app.post('/api/auth/logout', (req, res) => {
+  res.clearCookie('token', { path: '/' });
+  res.json({ success: true, message: 'Logged out successfully.' });
+});
+
+// ------------------- ADMIN USER MANAGEMENT ROUTES ------------------- //
+
+// List all users with statistics
+app.get('/api/admin/users', requireAdmin, checkDb, async (req, res) => {
+  try {
+    const users = await db.collection('users').find({}).sort({ created_at: -1 }).toArray();
+
+    // Enrich users with study metrics
+    const enrichedUsers = await Promise.all(users.map(async (u) => {
+      const uId = u._id.toString();
+      const testsCount = await db.collection('chapter_tests').countDocuments({ userId: uId });
+      const revisionsCount = await db.collection('revisions').countDocuments({ userId: uId });
+      
+      const studyAgg = await db.collection('daily_study_time').aggregate([
+        { $match: { userId: uId } },
+        { $group: { _id: null, totalSeconds: { $sum: '$seconds' } } }
+      ]).toArray();
+
+      const totalStudySeconds = studyAgg[0]?.totalSeconds || 0;
+
+      return {
+        _id: uId,
+        email: u.email,
+        name: u.name,
+        role: u.role,
+        status: u.status || 'active',
+        created_at: u.created_at,
+        last_login: u.last_login,
+        tests_count: testsCount,
+        revisions_count: revisionsCount,
+        total_study_seconds: totalStudySeconds
+      };
+    }));
+
+    res.json({ success: true, users: enrichedUsers });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Admin creates a user
+app.post('/api/admin/users', requireAdmin, checkDb, async (req, res) => {
+  try {
+    const { email, password, name, role = 'student' } = req.body || {};
+    if (!email || !password) {
+      return res.status(400).json({ error: 'Email and password are required.' });
+    }
+    const cleanEmail = email.toLowerCase().trim();
+    const existing = await db.collection('users').findOne({ email: cleanEmail });
+    if (existing) {
+      return res.status(400).json({ error: 'A user with this email already exists.' });
+    }
+
+    const hashedPassword = await bcrypt.hash(password, 10);
+    const newUser = {
+      email: cleanEmail,
+      name: (name || cleanEmail.split('@')[0]).trim(),
+      password: hashedPassword,
+      role: (cleanEmail === ADMIN_EMAIL || role === 'admin') ? 'admin' : 'student',
+      status: 'active',
+      created_at: new Date(),
+      last_login: null
+    };
+
+    const insertResult = await db.collection('users').insertOne(newUser);
+    res.status(201).json({
+      success: true,
+      message: 'User created successfully.',
+      user: {
+        _id: insertResult.insertedId.toString(),
+        email: newUser.email,
+        name: newUser.name,
+        role: newUser.role,
+        status: newUser.status,
+        created_at: newUser.created_at
+      }
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Admin updates a user's password
+app.put('/api/admin/users/:id/password', requireAdmin, checkDb, async (req, res) => {
+  try {
+    const { id } = req.params;
+    const { newPassword } = req.body || {};
+    if (!newPassword || newPassword.length < 6) {
+      return res.status(400).json({ error: 'New password must be at least 6 characters.' });
+    }
+
+    const user = await db.collection('users').findOne({ _id: new ObjectId(id) });
+    if (!user) {
+      return res.status(404).json({ error: 'User not found.' });
+    }
+
+    const hashedPassword = await bcrypt.hash(newPassword, 10);
+    await db.collection('users').updateOne(
+      { _id: user._id },
+      { $set: { password: hashedPassword, updated_at: new Date() } }
+    );
+
+    res.json({ success: true, message: `Password for ${user.email} updated successfully.` });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Admin updates user role
+app.put('/api/admin/users/:id/role', requireAdmin, checkDb, async (req, res) => {
+  try {
+    const { id } = req.params;
+    const { role } = req.body || {};
+    if (!['admin', 'student'].includes(role)) {
+      return res.status(400).json({ error: 'Invalid role. Must be admin or student.' });
+    }
+
+    const user = await db.collection('users').findOne({ _id: new ObjectId(id) });
+    if (!user) {
+      return res.status(404).json({ error: 'User not found.' });
+    }
+
+    if (user.email.toLowerCase() === ADMIN_EMAIL && role !== 'admin') {
+      return res.status(400).json({ error: 'Cannot demote the primary Super Admin account.' });
+    }
+
+    await db.collection('users').updateOne({ _id: user._id }, { $set: { role, updated_at: new Date() } });
+    res.json({ success: true, message: `Role for ${user.email} updated to ${role}.` });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Admin updates user status (active / suspended)
+app.put('/api/admin/users/:id/status', requireAdmin, checkDb, async (req, res) => {
+  try {
+    const { id } = req.params;
+    const { status } = req.body || {};
+    if (!['active', 'suspended'].includes(status)) {
+      return res.status(400).json({ error: 'Invalid status. Must be active or suspended.' });
+    }
+
+    const user = await db.collection('users').findOne({ _id: new ObjectId(id) });
+    if (!user) {
+      return res.status(404).json({ error: 'User not found.' });
+    }
+
+    if (user.email.toLowerCase() === ADMIN_EMAIL) {
+      return res.status(400).json({ error: 'Cannot suspend the primary Super Admin account.' });
+    }
+
+    await db.collection('users').updateOne({ _id: user._id }, { $set: { status, updated_at: new Date() } });
+    res.json({ success: true, message: `Account status for ${user.email} set to ${status}.` });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Admin deletes a user
+app.delete('/api/admin/users/:id', requireAdmin, checkDb, async (req, res) => {
+  try {
+    const { id } = req.params;
+    const user = await db.collection('users').findOne({ _id: new ObjectId(id) });
+    if (!user) {
+      return res.status(404).json({ error: 'User not found.' });
+    }
+
+    if (user.email.toLowerCase() === ADMIN_EMAIL || user._id.toString() === req.user.userId) {
+      return res.status(400).json({ error: 'Cannot delete the Super Admin account or your own logged in account.' });
+    }
+
+    const uId = user._id.toString();
+    await db.collection('users').deleteOne({ _id: user._id });
+
+    // Cascade delete user data
+    await Promise.all([
+      db.collection('chapter_tests').deleteMany({ userId: uId }),
+      db.collection('tests').deleteMany({ userId: uId }),
+      db.collection('revisions').deleteMany({ userId: uId }),
+      db.collection('daily_planner').deleteMany({ userId: uId }),
+      db.collection('daily_study_time').deleteMany({ userId: uId }),
+      db.collection('weak_topics').deleteMany({ userId: uId }),
+      db.collection('weak_subtopics').deleteMany({ userId: uId })
+    ]);
+
+    res.json({ success: true, message: `User ${user.email} and associated data deleted.` });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Admin platform overview statistics
+app.get('/api/admin/stats', requireAdmin, checkDb, async (req, res) => {
+  try {
+    const totalUsers = await db.collection('users').countDocuments();
+    const activeUsers = await db.collection('users').countDocuments({ status: 'active' });
+    const adminCount = await db.collection('users').countDocuments({ role: 'admin' });
+    const totalTests = await db.collection('chapter_tests').countDocuments();
+    const totalRevisions = await db.collection('revisions').countDocuments();
+    const totalQuestions = await db.collection('questions').countDocuments();
+
+    const studyAgg = await db.collection('daily_study_time').aggregate([
+      { $group: { _id: null, totalSeconds: { $sum: '$seconds' } } }
+    ]).toArray();
+    const totalStudySeconds = studyAgg[0]?.totalSeconds || 0;
+
+    res.json({
+      success: true,
+      stats: {
+        totalUsers,
+        activeUsers,
+        adminCount,
+        studentCount: Math.max(0, totalUsers - adminCount),
+        totalTests,
+        totalRevisions,
+        totalQuestions,
+        totalStudySeconds
+      }
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 
 // Manual / On-demand Question Sync endpoint
 app.post('/api/sync-questions', checkDb, async (req, res) => {
@@ -560,7 +1123,7 @@ app.post('/api/reconnect', async (req, res) => {
 });
 
 // 2. Topic Status (For Note Pages Top Widget)
-app.get('/api/topic-status', checkDb, async (req, res) => {
+app.get('/api/topic-status', requireAuth, checkDb, async (req, res) => {
   try {
     const { subject, topic } = req.query;
     if (!subject || !topic) {
@@ -569,16 +1132,17 @@ app.get('/api/topic-status', checkDb, async (req, res) => {
 
     const normSubject = subject.toLowerCase().trim();
     const normTopic = topic.trim();
+    const uId = req.user.userId;
 
-    // Query revisions
+    // Query revisions for current user
     const revisions = await db.collection('revisions')
-      .find({ subject: normSubject, topic: normTopic })
+      .find({ userId: uId, subject: normSubject, topic: normTopic })
       .sort({ date: -1 })
       .toArray();
 
-    // Query PYQs
+    // Query PYQs for current user
     const pyqs = await db.collection('pyqs')
-      .find({ subject: normSubject, topic: normTopic })
+      .find({ userId: uId, subject: normSubject, topic: normTopic })
       .sort({ date: -1 })
       .toArray();
 
@@ -620,7 +1184,7 @@ app.get('/api/topic-status', checkDb, async (req, res) => {
 });
 
 // 3. Log Revision
-app.post('/api/revisions', checkDb, async (req, res) => {
+app.post('/api/revisions', requireAuth, checkDb, async (req, res) => {
   try {
     const { subject, topic, topic_title, confidence, notes, date } = req.body;
     if (!subject || !topic) {
@@ -629,9 +1193,11 @@ app.post('/api/revisions', checkDb, async (req, res) => {
 
     const normSubject = subject.toLowerCase().trim();
     const normTopic = topic.trim();
+    const uId = req.user.userId;
 
-    // Count existing revisions for this topic to determine next revision number
+    // Count existing revisions for this topic & user to determine next revision number
     const count = await db.collection('revisions').countDocuments({
+      userId: uId,
       subject: normSubject,
       topic: normTopic
     });
@@ -640,6 +1206,8 @@ app.post('/api/revisions', checkDb, async (req, res) => {
     const nextDue = calculateNextDueDate(logDate, revNum);
 
     const doc = {
+      userId: uId,
+      userEmail: req.user.email,
       subject: normSubject,
       topic: normTopic,
       topic_title: topic_title || normTopic,
@@ -659,10 +1227,12 @@ app.post('/api/revisions', checkDb, async (req, res) => {
 });
 
 // Get Revisions List
-app.get('/api/revisions', checkDb, async (req, res) => {
+app.get('/api/revisions', requireAuth, checkDb, async (req, res) => {
   try {
-    const { subject, topic, limit = 50 } = req.query;
-    const filter = {};
+    const { subject, topic, limit = 50, targetUserId } = req.query;
+    const filter = {
+      userId: (req.user.role === 'admin' && targetUserId) ? targetUserId : req.user.userId
+    };
     if (subject) filter.subject = subject.toLowerCase().trim();
     if (topic) filter.topic = topic.trim();
 
@@ -679,11 +1249,13 @@ app.get('/api/revisions', checkDb, async (req, res) => {
 });
 
 // Get Due Revisions (Spaced Repetition Queue)
-app.get('/api/revisions/due', checkDb, async (req, res) => {
+app.get('/api/revisions/due', requireAuth, checkDb, async (req, res) => {
   try {
     const now = new Date();
-    // Aggregation to find the latest revision per subject+topic
+    const uId = req.user.userId;
+    // Aggregation to find the latest revision per subject+topic for this user
     const pipeline = [
+      { $match: { userId: uId } },
       { $sort: { date: -1 } },
       {
         $group: {
@@ -720,7 +1292,7 @@ app.get('/api/revisions/due', checkDb, async (req, res) => {
 });
 
 // 4. Practiced PYQs
-app.post('/api/pyqs', checkDb, async (req, res) => {
+app.post('/api/pyqs', requireAuth, checkDb, async (req, res) => {
   try {
     const {
       subject,
@@ -745,6 +1317,8 @@ app.post('/api/pyqs', checkDb, async (req, res) => {
     const accuracy = att > 0 ? Number(((cor / att) * 100).toFixed(1)) : 0;
 
     const doc = {
+      userId: req.user.userId,
+      userEmail: req.user.email,
       subject: subject.toLowerCase().trim(),
       topic: topic.trim(),
       topic_title: topic_title || topic.trim(),
@@ -766,10 +1340,12 @@ app.post('/api/pyqs', checkDb, async (req, res) => {
   }
 });
 
-app.get('/api/pyqs', checkDb, async (req, res) => {
+app.get('/api/pyqs', requireAuth, checkDb, async (req, res) => {
   try {
-    const { subject, topic, limit = 50 } = req.query;
-    const filter = {};
+    const { subject, topic, limit = 50, targetUserId } = req.query;
+    const filter = {
+      userId: (req.user.role === 'admin' && targetUserId) ? targetUserId : req.user.userId
+    };
     if (subject) filter.subject = subject.toLowerCase().trim();
     if (topic) filter.topic = topic.trim();
 
@@ -786,7 +1362,7 @@ app.get('/api/pyqs', checkDb, async (req, res) => {
 });
 
 // 5. Tests Given
-app.post('/api/tests', checkDb, async (req, res) => {
+app.post('/api/tests', requireAuth, checkDb, async (req, res) => {
   try {
     const {
       title,
@@ -822,6 +1398,8 @@ app.post('/api/tests', checkDb, async (req, res) => {
     const percentage = tot > 0 ? Number(((netMarks / (tot * marks_per_correct)) * 100).toFixed(1)) : 0;
 
     const doc = {
+      userId: req.user.userId,
+      userEmail: req.user.email,
       title: title.trim(),
       provider: (provider || 'Custom').trim(),
       test_type: test_type || 'Full Length (FLT)',
@@ -849,11 +1427,14 @@ app.post('/api/tests', checkDb, async (req, res) => {
   }
 });
 
-app.get('/api/tests', checkDb, async (req, res) => {
+app.get('/api/tests', requireAuth, checkDb, async (req, res) => {
   try {
-    const { limit = 50 } = req.query;
+    const { limit = 50, targetUserId } = req.query;
+    const filter = {
+      userId: (req.user.role === 'admin' && targetUserId) ? targetUserId : req.user.userId
+    };
     const items = await db.collection('tests')
-      .find({})
+      .find(filter)
       .sort({ date: -1 })
       .limit(Number(limit))
       .toArray();
@@ -864,10 +1445,14 @@ app.get('/api/tests', checkDb, async (req, res) => {
   }
 });
 
-app.delete('/api/tests/:id', checkDb, async (req, res) => {
+app.delete('/api/tests/:id', requireAuth, checkDb, async (req, res) => {
   try {
     const { id } = req.params;
-    await db.collection('tests').deleteOne({ _id: new ObjectId(id) });
+    const filter = { _id: new ObjectId(id) };
+    if (req.user.role !== 'admin') {
+      filter.userId = req.user.userId;
+    }
+    await db.collection('tests').deleteOne(filter);
     res.json({ success: true });
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -977,7 +1562,7 @@ app.get('/api/chapter-questions', checkDb, async (req, res) => {
 });
 
 // 5b. Live Test Evaluation Endpoint (Validates answers against DB and computes UPPCS score)
-app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
+app.post('/api/chapter-test/evaluate', requireAuth, checkDb, async (req, res) => {
   try {
     const {
       subject,
@@ -1136,6 +1721,8 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
       .sort((a, b) => b.mistakes - a.mistakes);
 
     const evaluationDoc = {
+      userId: req.user.userId,
+      userEmail: req.user.email,
       subject: subject.toLowerCase().trim(),
       topic: targetTopic,
       topic_title: topic_title || dbQuestions[0]?.chapter_title || targetTopic,
@@ -1166,9 +1753,10 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
     // Automatically record / update weak subtopics in MongoDB Atlas
     for (const ws of weakSubtopics) {
       await db.collection('weak_subtopics').updateOne(
-        { subject: evaluationDoc.subject, chapter: targetTopic, subtopic: ws.subtopic },
+        { userId: req.user.userId, subject: evaluationDoc.subject, chapter: targetTopic, subtopic: ws.subtopic },
         {
           $set: {
+            userId: req.user.userId,
             subject: evaluationDoc.subject,
             chapter: targetTopic,
             chapter_title: evaluationDoc.topic_title,
@@ -1201,6 +1789,7 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
     if (isMasteryPassed) {
       // 1. Record officially certified +1 Read in revisions collection
       const count = await db.collection('revisions').countDocuments({
+        userId: req.user.userId,
         subject: evaluationDoc.subject,
         topic: targetTopic
       });
@@ -1212,6 +1801,8 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
         : `🏆 Chapter Mastery Exam Passed • Total Score: ${scorePct}% (${netMarks > 0 ? '+' : ''}${netMarks}/${maxMarks} marks) • Accuracy: ${accuracy}% (${correct}/${totalQuestions} Correct, ${incorrect} Incorrect, ${unattempted} Unattempted)`;
 
       await db.collection('revisions').insertOne({
+        userId: req.user.userId,
+        userEmail: req.user.email,
         subject: evaluationDoc.subject,
         topic: targetTopic,
         topic_title: evaluationDoc.topic_title,
@@ -1236,7 +1827,7 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
 
       // 2. Automatically resolve topic in daily_planner collections for any date & backlog
       await db.collection('daily_planner').updateMany(
-        { 'reading_topics.subject': evaluationDoc.subject, 'reading_topics.topic': targetTopic },
+        { userId: req.user.userId, 'reading_topics.subject': evaluationDoc.subject, 'reading_topics.topic': targetTopic },
         {
           $set: {
             'reading_topics.$[elem].status': 'achieved',
@@ -1252,6 +1843,7 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
 
       // 3. Clear from weak topics
       await db.collection('weak_topics').deleteOne({
+        userId: req.user.userId,
         subject: evaluationDoc.subject,
         topic: targetTopic
       });
@@ -1259,9 +1851,10 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
     } else if ((accuracy < 75 || incorrect >= 2) && attempted > 0) {
       isAutoFlagged = true;
       await db.collection('weak_topics').updateOne(
-        { subject: evaluationDoc.subject, topic: targetTopic },
+        { userId: req.user.userId, subject: evaluationDoc.subject, topic: targetTopic },
         {
           $set: {
+            userId: req.user.userId,
             subject: evaluationDoc.subject,
             topic: targetTopic,
             topic_title: evaluationDoc.topic_title,
@@ -1278,13 +1871,16 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
     } else if (accuracy >= 85 && attempted >= 5) {
       isClearedMastery = true;
       await db.collection('weak_topics').deleteOne({
+        userId: req.user.userId,
         subject: evaluationDoc.subject,
         topic: targetTopic
       });
     }
 
-    // Also update pyqs collection for global dashboard metrics
+    // Also update pyqs collection for user dashboard metrics
     await db.collection('pyqs').insertOne({
+      userId: req.user.userId,
+      userEmail: req.user.email,
       subject: evaluationDoc.subject,
       topic: evaluationDoc.topic,
       topic_title: evaluationDoc.topic_title,
@@ -1292,6 +1888,7 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
       attempted,
       correct,
       incorrect,
+
       accuracy_pct: accuracy,
       mistakes: wrongQuestions.map(w => `Q${w.q_num} [${w.section_title}]: ${w.stem?.substring(0, 60)}...`),
       date: evaluationDoc.date,
@@ -1326,10 +1923,12 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
   }
 });
 
-app.get('/api/chapter-tests', checkDb, async (req, res) => {
+app.get('/api/chapter-tests', requireAuth, checkDb, async (req, res) => {
   try {
-    const { subject, topic, limit = 50 } = req.query;
-    const filter = {};
+    const { subject, topic, limit = 50, targetUserId } = req.query;
+    const filter = {
+      userId: (req.user.role === 'admin' && targetUserId) ? targetUserId : req.user.userId
+    };
     if (subject) filter.subject = subject.toLowerCase().trim();
     if (topic) filter.topic = topic.trim();
 
@@ -1459,7 +2058,7 @@ app.get('/api/chapter-tests', checkDb, async (req, res) => {
 });
 
 // 5c. Quick +1 Read Count Increment
-app.post('/api/quick-read', checkDb, async (req, res) => {
+app.post('/api/quick-read', requireAuth, checkDb, async (req, res) => {
   try {
     const {
       subject,
@@ -1485,8 +2084,10 @@ app.post('/api/quick-read', checkDb, async (req, res) => {
 
     const normSubject = subject.toLowerCase().trim();
     const normTopic = topic.trim();
+    const uId = req.user.userId;
 
     const count = await db.collection('revisions').countDocuments({
+      userId: uId,
       subject: normSubject,
       topic: normTopic
     });
@@ -1495,6 +2096,8 @@ app.post('/api/quick-read', checkDb, async (req, res) => {
     const nextDue = calculateNextDueDate(logDate, revNum);
 
     const doc = {
+      userId: uId,
+      userEmail: req.user.email,
       subject: normSubject,
       topic: normTopic,
       topic_title: topic_title || normTopic,
@@ -1525,14 +2128,18 @@ app.post('/api/quick-read', checkDb, async (req, res) => {
 });
 
 // 6. Comprehensive Dashboard Summary
-app.get('/api/dashboard/summary', checkDb, async (req, res) => {
+app.get('/api/dashboard/summary', requireAuth, checkDb, async (req, res) => {
   try {
+    const uId = req.user.userId;
+    const userFilter = { userId: uId };
+
     // Revisions stats
-    const totalRevisions = await db.collection('revisions').countDocuments();
+    const totalRevisions = await db.collection('revisions').countDocuments(userFilter);
 
     // Due revisions count
     const now = new Date();
     const dueCountPipeline = [
+      { $match: userFilter },
       { $sort: { date: -1 } },
       {
         $group: {
@@ -1551,8 +2158,8 @@ app.get('/api/dashboard/summary', checkDb, async (req, res) => {
     const dueTodayCount = dueCountRes[0]?.total_due || 0;
 
     // Combine tests from both chapter_tests and tests collections
-    const chapterTests = await db.collection('chapter_tests').find({}).sort({ date: -1 }).toArray();
-    const customTests = await db.collection('tests').find({}).sort({ date: -1 }).toArray();
+    const chapterTests = await db.collection('chapter_tests').find(userFilter).sort({ date: -1 }).toArray();
+    const customTests = await db.collection('tests').find(userFilter).sort({ date: -1 }).toArray();
     const allTests = [...chapterTests, ...customTests].sort((a, b) => new Date(b.date) - new Date(a.date));
 
     const totalTests = allTests.length;
@@ -1564,7 +2171,7 @@ app.get('/api/dashboard/summary', checkDb, async (req, res) => {
     }
 
     // PYQs stats
-    const pyqs = await db.collection('pyqs').find({}).toArray();
+    const pyqs = await db.collection('pyqs').find(userFilter).toArray();
     const totalPyqsAttempted = pyqs.reduce((acc, p) => acc + (p.attempted || 0), 0);
     const totalPyqsCorrect = pyqs.reduce((acc, p) => acc + (p.correct || 0), 0);
     const overallPyqAccuracy = totalPyqsAttempted > 0
@@ -1580,7 +2187,7 @@ app.get('/api/dashboard/summary', checkDb, async (req, res) => {
       subjectMap[s].pyqsCorrect += p.correct || 0;
     });
 
-    const allRevs = await db.collection('revisions').find({}).toArray();
+    const allRevs = await db.collection('revisions').find(userFilter).toArray();
     allRevs.forEach(r => {
       const s = r.subject || 'other';
       if (!subjectMap[s]) subjectMap[s] = { subject: s, pyqsAttempted: 0, pyqsCorrect: 0, revisions: 0 };
@@ -1593,9 +2200,9 @@ app.get('/api/dashboard/summary', checkDb, async (req, res) => {
     }));
 
     // Detect weak topics
-    const manualWeak = await db.collection('weak_topics').find({}).sort({ updated_at: -1 }).toArray();
-    const lowConfRevs = await db.collection('revisions').find({ confidence: { $lte: 2 } }).sort({ date: -1 }).toArray();
-    const lowAccTests = await db.collection('chapter_tests').find({ accuracy_pct: { $lt: 60 }, attempted: { $gt: 0 } }).sort({ date: -1 }).toArray();
+    const manualWeak = await db.collection('weak_topics').find(userFilter).sort({ updated_at: -1 }).toArray();
+    const lowConfRevs = await db.collection('revisions').find({ ...userFilter, confidence: { $lte: 2 } }).sort({ date: -1 }).toArray();
+    const lowAccTests = await db.collection('chapter_tests').find({ ...userFilter, accuracy_pct: { $lt: 60 }, attempted: { $gt: 0 } }).sort({ date: -1 }).toArray();
 
     const weakMap = {};
     manualWeak.forEach(w => {
@@ -1657,12 +2264,16 @@ app.get('/api/dashboard/summary', checkDb, async (req, res) => {
   }
 });
 
+
 // 7. Weak Topics Management API
-app.get('/api/weak-topics', checkDb, async (req, res) => {
+app.get('/api/weak-topics', requireAuth, checkDb, async (req, res) => {
   try {
-    const manualWeak = await db.collection('weak_topics').find({}).sort({ updated_at: -1 }).toArray();
-    const lowConfRevs = await db.collection('revisions').find({ confidence: { $lte: 2 } }).sort({ date: -1 }).toArray();
-    const lowAccTests = await db.collection('chapter_tests').find({ accuracy_pct: { $lt: 75 }, attempted: { $gt: 0 } }).sort({ date: -1 }).toArray();
+    const uId = req.user.userId;
+    const userFilter = { userId: uId };
+
+    const manualWeak = await db.collection('weak_topics').find(userFilter).sort({ updated_at: -1 }).toArray();
+    const lowConfRevs = await db.collection('revisions').find({ ...userFilter, confidence: { $lte: 2 } }).sort({ date: -1 }).toArray();
+    const lowAccTests = await db.collection('chapter_tests').find({ ...userFilter, accuracy_pct: { $lt: 75 }, attempted: { $gt: 0 } }).sort({ date: -1 }).toArray();
 
     const weakMap = {};
     manualWeak.forEach(w => {
@@ -1716,7 +2327,7 @@ app.get('/api/weak-topics', checkDb, async (req, res) => {
   }
 });
 
-app.post('/api/weak-topics', checkDb, async (req, res) => {
+app.post('/api/weak-topics', requireAuth, checkDb, async (req, res) => {
   try {
     const { subject, topic, topic_title, reason, notes } = req.body;
     if (!subject || !topic) {
@@ -1725,8 +2336,10 @@ app.post('/api/weak-topics', checkDb, async (req, res) => {
 
     const normSubject = subject.toLowerCase().trim();
     const normTopic = topic.trim();
+    const uId = req.user.userId;
 
     const doc = {
+      userId: uId,
       subject: normSubject,
       topic: normTopic,
       topic_title: topic_title || normTopic,
@@ -1737,7 +2350,7 @@ app.post('/api/weak-topics', checkDb, async (req, res) => {
     };
 
     await db.collection('weak_topics').updateOne(
-      { subject: normSubject, topic: normTopic },
+      { userId: uId, subject: normSubject, topic: normTopic },
       { $set: doc },
       { upsert: true }
     );
@@ -1748,7 +2361,7 @@ app.post('/api/weak-topics', checkDb, async (req, res) => {
   }
 });
 
-app.delete('/api/weak-topics', checkDb, async (req, res) => {
+app.delete('/api/weak-topics', requireAuth, checkDb, async (req, res) => {
   try {
     const { subject, topic } = req.body || req.query;
     if (!subject || !topic) {
@@ -1757,8 +2370,9 @@ app.delete('/api/weak-topics', checkDb, async (req, res) => {
 
     const normSubject = subject.toLowerCase().trim();
     const normTopic = topic.trim();
+    const uId = req.user.userId;
 
-    await db.collection('weak_topics').deleteOne({ subject: normSubject, topic: normTopic });
+    await db.collection('weak_topics').deleteOne({ userId: uId, subject: normSubject, topic: normTopic });
     res.json({ success: true, message: `Removed ${normTopic} from weak topics (marked mastered)` });
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -1766,10 +2380,12 @@ app.delete('/api/weak-topics', checkDb, async (req, res) => {
 });
 
 // 7b. Weak Subtopics Radar (Automatic aggregation from live tests)
-app.get('/api/weak-subtopics', checkDb, async (req, res) => {
+app.get('/api/weak-subtopics', requireAuth, checkDb, async (req, res) => {
   try {
-    const { subject, chapter, limit = 50 } = req.query;
-    const filter = {};
+    const { subject, chapter, limit = 50, targetUserId } = req.query;
+    const filter = {
+      userId: (req.user.role === 'admin' && targetUserId) ? targetUserId : req.user.userId
+    };
     if (subject) filter.subject = subject.toLowerCase().trim();
     if (chapter) filter.chapter = chapter.trim();
 
@@ -1785,6 +2401,7 @@ app.get('/api/weak-subtopics', checkDb, async (req, res) => {
   }
 });
 
+
 // ------------------- 8. DAILY TARGET PLANNER & TASKS API ------------------- //
 
 // Helper to get formatted ISO date (YYYY-MM-DD)
@@ -1797,13 +2414,16 @@ function getTodayStr() {
 }
 
 // Get daily planner state for date
-app.get('/api/daily-planner', checkDb, async (req, res) => {
+app.get('/api/daily-planner', requireAuth, checkDb, async (req, res) => {
   try {
     const targetDate = req.query.date || getTodayStr();
-    let doc = await db.collection('daily_planner').findOne({ date: targetDate });
+    const uId = req.user.userId;
+    let doc = await db.collection('daily_planner').findOne({ userId: uId, date: targetDate });
 
     if (!doc) {
       doc = {
+        userId: uId,
+        userEmail: req.user.email,
         date: targetDate,
         reading_topics: [],
         daily_tasks: [],
@@ -1825,16 +2445,17 @@ app.get('/api/daily-planner', checkDb, async (req, res) => {
 });
 
 // Add reading topic
-app.post('/api/daily-planner/topic', checkDb, async (req, res) => {
+app.post('/api/daily-planner/topic', requireAuth, checkDb, async (req, res) => {
   try {
     const { date, subject, topic, slot = 'morning_12pm', notes = '' } = req.body;
     if (!subject || !topic) {
       return res.status(400).json({ error: 'Subject and topic are required' });
     }
     const targetDate = date || getTodayStr();
+    const uId = req.user.userId;
 
     // Enforce strict 10-chapter limit for active/pending reading targets
-    const plannerDoc = await db.collection('daily_planner').findOne({ date: targetDate });
+    const plannerDoc = await db.collection('daily_planner').findOne({ userId: uId, date: targetDate });
     const existingTopics = (plannerDoc && Array.isArray(plannerDoc.reading_topics)) ? plannerDoc.reading_topics : [];
     const pendingCount = existingTopics.filter(t => t.status !== 'achieved').length;
 
@@ -1849,6 +2470,7 @@ app.post('/api/daily-planner/topic', checkDb, async (req, res) => {
 
     const newTopic = {
       id: 'topic_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
+      userId: uId,
       subject: subject.toLowerCase().trim(),
       topic: topic.trim(),
       slot: slot, // 'morning_12pm' | 'evening' | 'all_day'
@@ -1861,10 +2483,11 @@ app.post('/api/daily-planner/topic', checkDb, async (req, res) => {
     };
 
     await db.collection('daily_planner').updateOne(
-      { date: targetDate },
+      { userId: uId, date: targetDate },
       {
         $push: { reading_topics: newTopic },
-        $set: { updated_at: new Date() }
+        $set: { updated_at: new Date() },
+        $setOnInsert: { userEmail: req.user.email, created_at: new Date(), daily_tasks: [] }
       },
       { upsert: true }
     );
@@ -1876,7 +2499,7 @@ app.post('/api/daily-planner/topic', checkDb, async (req, res) => {
 });
 
 // Record and sync chapter study time for date
-app.post('/api/daily-planner/study-time', checkDb, async (req, res) => {
+app.post('/api/daily-planner/study-time', requireAuth, checkDb, async (req, res) => {
   try {
     const { date, subject, topic, seconds, title } = req.body;
     if (!subject || !topic || seconds === undefined) {
@@ -1886,10 +2509,11 @@ app.post('/api/daily-planner/study-time', checkDb, async (req, res) => {
     const cleanSub = String(subject).toLowerCase().trim();
     const cleanTop = String(topic).trim();
     const secNum = parseInt(seconds, 10) || 0;
+    const uId = req.user.userId;
 
     // 1. Update daily_planner doc's reading_topics if the topic is present
     await db.collection('daily_planner').updateOne(
-      { date: targetDate, 'reading_topics.subject': cleanSub, 'reading_topics.topic': cleanTop },
+      { userId: uId, date: targetDate, 'reading_topics.subject': cleanSub, 'reading_topics.topic': cleanTop },
       {
         $set: {
           'reading_topics.$.study_seconds': secNum,
@@ -1901,9 +2525,11 @@ app.post('/api/daily-planner/study-time', checkDb, async (req, res) => {
 
     // 2. Also record in daily_study_time for permanent analytics
     await db.collection('daily_study_time').updateOne(
-      { date: targetDate, subject: cleanSub, topic: cleanTop },
+      { userId: uId, date: targetDate, subject: cleanSub, topic: cleanTop },
       {
         $set: {
+          userId: uId,
+          userEmail: req.user.email,
           title: title || cleanTop,
           seconds: secNum,
           updated_at: new Date()
@@ -1920,10 +2546,11 @@ app.post('/api/daily-planner/study-time', checkDb, async (req, res) => {
 });
 
 // Fetch study times recorded for date across all devices
-app.get('/api/daily-planner/study-time', checkDb, async (req, res) => {
+app.get('/api/daily-planner/study-time', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const targetDate = req.query.date || getTodayStr();
-    const records = await db.collection('daily_study_time').find({ date: targetDate }).toArray();
+    const records = await db.collection('daily_study_time').find({ userId: uId, date: targetDate }).toArray();
 
     const chapters = {};
     let totalSeconds = 0;
@@ -1952,8 +2579,9 @@ app.get('/api/daily-planner/study-time', checkDb, async (req, res) => {
 });
 
 // Update reading topic (status, slot, notes)
-app.patch('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
+app.patch('/api/daily-planner/topic/:id', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const { id } = req.params;
     const targetDate = req.body.date || req.query.date || getTodayStr();
     const { status, slot, notes, missed_12pm, achieved_by_12pm } = req.body;
@@ -1972,12 +2600,19 @@ app.patch('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
     if (missed_12pm !== undefined) setFields['reading_topics.$.missed_12pm'] = missed_12pm;
     if (achieved_by_12pm !== undefined) setFields['reading_topics.$.achieved_by_12pm'] = achieved_by_12pm;
 
-    const result = await db.collection('daily_planner').updateOne(
-      { date: targetDate, 'reading_topics.id': id },
+    let result = await db.collection('daily_planner').updateOne(
+      { userId: uId, date: targetDate, 'reading_topics.id': id },
       { $set: setFields }
     );
 
-    if (result.matchedCount === 0) {
+    if (!result || result.matchedCount === 0) {
+      result = await db.collection('daily_planner').updateOne(
+        { userId: uId, 'reading_topics.id': id },
+        { $set: setFields }
+      );
+    }
+
+    if (!result || result.matchedCount === 0) {
       return res.status(404).json({ error: 'Topic target not found' });
     }
 
@@ -1988,16 +2623,16 @@ app.patch('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
 });
 
 // Delete reading topic
-app.delete('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
+app.delete('/api/daily-planner/topic/:id', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const { id } = req.params;
     const targetDate = req.query?.date || (req.body && req.body.date);
 
-    // If targetDate provided, try that first; otherwise remove from any date containing id
     let result = null;
     if (targetDate) {
       result = await db.collection('daily_planner').updateOne(
-        { date: targetDate },
+        { userId: uId, date: targetDate },
         {
           $pull: { reading_topics: { id: id } },
           $set: { updated_at: new Date() }
@@ -2006,7 +2641,7 @@ app.delete('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
     }
     if (!result || result.modifiedCount === 0) {
       result = await db.collection('daily_planner').updateMany(
-        { 'reading_topics.id': id },
+        { userId: uId, 'reading_topics.id': id },
         {
           $pull: { reading_topics: { id: id } },
           $set: { updated_at: new Date() }
@@ -2022,8 +2657,9 @@ app.delete('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
 });
 
 // Add daily task
-app.post('/api/daily-planner/task', checkDb, async (req, res) => {
+app.post('/api/daily-planner/task', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const { date, text, priority = 'normal', time_est = '' } = req.body || {};
     if (!text || !text.trim()) {
       return res.status(400).json({ error: 'Task text is required' });
@@ -2040,10 +2676,11 @@ app.post('/api/daily-planner/task', checkDb, async (req, res) => {
     };
 
     await db.collection('daily_planner').updateOne(
-      { date: targetDate },
+      { userId: uId, date: targetDate },
       {
         $push: { daily_tasks: newTask },
-        $set: { updated_at: new Date() }
+        $set: { userId: uId, userEmail: req.user.email, updated_at: new Date() },
+        $setOnInsert: { created_at: new Date() }
       },
       { upsert: true }
     );
@@ -2056,8 +2693,9 @@ app.post('/api/daily-planner/task', checkDb, async (req, res) => {
 });
 
 // Update daily task (toggle completed, edit text)
-app.patch('/api/daily-planner/task/:id', checkDb, async (req, res) => {
+app.patch('/api/daily-planner/task/:id', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const { id } = req.params;
     const targetDate = (req.body && req.body.date) || req.query?.date;
     const { completed, text, priority, time_est } = req.body || {};
@@ -2074,13 +2712,13 @@ app.patch('/api/daily-planner/task/:id', checkDb, async (req, res) => {
     let result = null;
     if (targetDate) {
       result = await db.collection('daily_planner').updateOne(
-        { date: targetDate, 'daily_tasks.id': id },
+        { userId: uId, date: targetDate, 'daily_tasks.id': id },
         { $set: setFields }
       );
     }
     if (!result || result.matchedCount === 0) {
       result = await db.collection('daily_planner').updateOne(
-        { 'daily_tasks.id': id },
+        { userId: uId, 'daily_tasks.id': id },
         { $set: setFields }
       );
     }
@@ -2092,16 +2730,17 @@ app.patch('/api/daily-planner/task/:id', checkDb, async (req, res) => {
   }
 });
 
-// Delete daily task (safe from undefined body and cross-date deletion)
-app.delete('/api/daily-planner/task/:id', checkDb, async (req, res) => {
+// Delete daily task
+app.delete('/api/daily-planner/task/:id', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const { id } = req.params;
     const targetDate = req.query?.date || (req.body && req.body.date);
 
     let result = null;
     if (targetDate) {
       result = await db.collection('daily_planner').updateOne(
-        { date: targetDate },
+        { userId: uId, date: targetDate },
         {
           $pull: { daily_tasks: { id: id } },
           $set: { updated_at: new Date() }
@@ -2110,7 +2749,7 @@ app.delete('/api/daily-planner/task/:id', checkDb, async (req, res) => {
     }
     if (!result || result.modifiedCount === 0) {
       result = await db.collection('daily_planner').updateMany(
-        { 'daily_tasks.id': id },
+        { userId: uId, 'daily_tasks.id': id },
         {
           $pull: { daily_tasks: { id: id } },
           $set: { updated_at: new Date() }
@@ -2126,11 +2765,12 @@ app.delete('/api/daily-planner/task/:id', checkDb, async (req, res) => {
 });
 
 // Overall Cumulative Backlog: All incomplete reading topics from past dates (or explicitly flagged pending)
-app.get('/api/daily-planner/overall-backlog', checkDb, async (req, res) => {
+app.get('/api/daily-planner/overall-backlog', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const todayStr = getTodayStr();
     const docs = await db.collection('daily_planner')
-      .find({ 'reading_topics.status': { $ne: 'achieved' } })
+      .find({ userId: uId, 'reading_topics.status': { $ne: 'achieved' } })
       .toArray();
 
     const overallBacklog = [];
@@ -2138,7 +2778,6 @@ app.get('/api/daily-planner/overall-backlog', checkDb, async (req, res) => {
       const docDate = doc.date;
       const isPast = docDate < todayStr;
       (doc.reading_topics || []).forEach(t => {
-        // Only count as backlog if it's from a past date OR explicitly marked pending/missed
         const isBacklog = (isPast && t.status !== 'achieved') || (!isPast && t.status !== 'achieved' && (t.slot === 'pending' || t.missed_midnight || t.missed_12pm));
         if (isBacklog) {
           let daysOverdue = 0;
@@ -2195,8 +2834,9 @@ function isTopicMatch(sub1, top1, sub2, top2) {
 }
 
 // Resolve a reading topic by subject & topic slug across today and all backlog days
-app.post('/api/daily-planner/resolve-by-topic', checkDb, async (req, res) => {
+app.post('/api/daily-planner/resolve-by-topic', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const { subject, topic } = req.body || {};
     if (!subject || !topic) {
       return res.status(400).json({ error: 'subject and topic required' });
@@ -2206,6 +2846,7 @@ app.post('/api/daily-planner/resolve-by-topic', checkDb, async (req, res) => {
     const normTopic = topic.trim();
 
     const docs = await db.collection('daily_planner').find({
+      userId: uId,
       'reading_topics.status': { $ne: 'achieved' }
     }).toArray();
 
@@ -2231,7 +2872,7 @@ app.post('/api/daily-planner/resolve-by-topic', checkDb, async (req, res) => {
 
       if (docModified) {
         await db.collection('daily_planner').updateOne(
-          { date: doc.date },
+          { userId: uId, date: doc.date },
           { $set: { reading_topics: updatedTopics, updated_at: new Date() } }
         );
       }
@@ -2286,10 +2927,11 @@ app.get('/api/subjects-catalog', (req, res) => {
 });
 
 // Midnight / End-of-Day Audit Checkpoint: Flags incomplete targets to pending
-app.post('/api/daily-planner/evaluate-midnight', checkDb, async (req, res) => {
+app.post('/api/daily-planner/evaluate-midnight', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const targetDate = (req.body && req.body.date) || req.query?.date || getTodayStr();
-    const doc = await db.collection('daily_planner').findOne({ date: targetDate });
+    const doc = await db.collection('daily_planner').findOne({ userId: uId, date: targetDate });
     if (!doc || !doc.reading_topics) {
       return res.json({ success: true, count: 0 });
     }
@@ -2304,7 +2946,7 @@ app.post('/api/daily-planner/evaluate-midnight', checkDb, async (req, res) => {
     });
 
     await db.collection('daily_planner').updateOne(
-      { date: targetDate },
+      { userId: uId, date: targetDate },
       { $set: { reading_topics: updatedTopics, updated_at: new Date() } }
     );
 
@@ -2315,10 +2957,11 @@ app.post('/api/daily-planner/evaluate-midnight', checkDb, async (req, res) => {
 });
 
 // Backward-compatible evaluate-12pm endpoint
-app.post('/api/daily-planner/evaluate-12pm', checkDb, async (req, res) => {
+app.post('/api/daily-planner/evaluate-12pm', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const targetDate = (req.body && req.body.date) || req.query?.date || getTodayStr();
-    const doc = await db.collection('daily_planner').findOne({ date: targetDate });
+    const doc = await db.collection('daily_planner').findOne({ userId: uId, date: targetDate });
     if (!doc || !doc.reading_topics) {
       return res.json({ success: true, count: 0 });
     }
@@ -2333,7 +2976,7 @@ app.post('/api/daily-planner/evaluate-12pm', checkDb, async (req, res) => {
     });
 
     await db.collection('daily_planner').updateOne(
-      { date: targetDate },
+      { userId: uId, date: targetDate },
       { $set: { reading_topics: updatedTopics, updated_at: new Date() } }
     );
 
@@ -2344,8 +2987,9 @@ app.post('/api/daily-planner/evaluate-12pm', checkDb, async (req, res) => {
 });
 
 // Rollover pending reading topics and tasks from another date
-app.post('/api/daily-planner/rollover', checkDb, async (req, res) => {
+app.post('/api/daily-planner/rollover', checkDb, requireAuth, async (req, res) => {
   try {
+    const uId = req.user.userId;
     const { from_date, to_date = getTodayStr() } = req.body || {};
     let sourceDate = from_date;
     if (!sourceDate) {
@@ -2354,7 +2998,7 @@ app.post('/api/daily-planner/rollover', checkDb, async (req, res) => {
       sourceDate = yesterday.toISOString().split('T')[0];
     }
 
-    const sourceDoc = await db.collection('daily_planner').findOne({ date: sourceDate });
+    const sourceDoc = await db.collection('daily_planner').findOne({ userId: uId, date: sourceDate });
     if (!sourceDoc) {
       return res.json({ success: true, message: 'No source plan found to rollover from', rolled_topics: 0, rolled_tasks: 0 });
     }
@@ -2390,13 +3034,14 @@ app.post('/api/daily-planner/rollover', checkDb, async (req, res) => {
 
     if (pendingTopics.length > 0 || incompleteTasks.length > 0) {
       await db.collection('daily_planner').updateOne(
-        { date: to_date },
+        { userId: uId, date: to_date },
         {
           $push: {
             reading_topics: { $each: pendingTopics },
             daily_tasks: { $each: incompleteTasks }
           },
-          $set: { updated_at: new Date() }
+          $set: { userId: uId, userEmail: req.user.email, updated_at: new Date() },
+          $setOnInsert: { created_at: new Date() }
         },
         { upsert: true }
       );
@@ -2413,36 +3058,384 @@ app.post('/api/daily-planner/rollover', checkDb, async (req, res) => {
   }
 });
 
-// Reverse Proxy all non-API requests to MkDocs (127.0.0.1:8000) with Basic Auth protection & site/ fallback
-app.use((req, res, next) => {
-  if (req.path.startsWith('/api')) return next();
-
-  // Basic auth check for MkDocs pages
-  if (!verifyBasicAuthHeader(req.headers.authorization)) {
-    res.setHeader('WWW-Authenticate', 'Basic realm="UP-PCS Study Vault", charset="UTF-8"');
-    return res.status(401).send(`<!DOCTYPE html>
-<html>
+// Helper to generate a responsive, modern HTML Auth Portal for unauthenticated visitors
+function getAuthPortalHtml(targetUrl = '/') {
+  const safeTargetUrl = String(targetUrl).replace(/"/g, '&quot;');
+  return `<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>401 Unauthorized — UP-PCS Study Vault</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UP-PCS Study Vault — Authentication Required</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
   <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f172a; color: #f8fafc; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
-    .box { text-align: center; background: #1e293b; padding: 2.5rem 3rem; border-radius: 1rem; border: 1px solid #334155; box-shadow: 0 20px 40px rgba(0,0,0,0.5); max-width: 440px; }
-    h2 { color: #f59e0b; margin-top: 0; }
-    p { color: #94a3b8; line-height: 1.5; font-size: 0.95rem; }
+    :root {
+      --bg: #090d16;
+      --card-bg: rgba(18, 25, 43, 0.85);
+      --card-border: rgba(99, 102, 241, 0.2);
+      --accent: #6366f1;
+      --accent-hover: #4f46e5;
+      --accent-glow: rgba(99, 102, 241, 0.4);
+      --gold: #f59e0b;
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --input-bg: #0f172a;
+      --input-border: #334155;
+      --error-bg: rgba(239, 68, 68, 0.15);
+      --error-border: rgba(239, 68, 68, 0.35);
+      --error-text: #fca5a5;
+      --success-bg: rgba(16, 185, 129, 0.15);
+      --success-border: rgba(16, 185, 129, 0.35);
+      --success-text: #6ee7b7;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      background-image: 
+        radial-gradient(circle at 15% 20%, rgba(99, 102, 241, 0.15) 0%, transparent 40%),
+        radial-gradient(circle at 85% 80%, rgba(245, 158, 11, 0.12) 0%, transparent 40%),
+        linear-gradient(180deg, #090d16 0%, #06090e 100%);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+    }
+    .portal-container {
+      width: 100%;
+      max-width: 480px;
+      background: var(--card-bg);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid var(--card-border);
+      border-radius: 1.25rem;
+      box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.7), 0 0 40px -10px var(--accent-glow);
+      overflow: hidden;
+      animation: modalFadeIn 0.35s ease-out;
+    }
+    @keyframes modalFadeIn {
+      from { opacity: 0; transform: translateY(12px) scale(0.98); }
+      to { opacity: 1; transform: translateY(0) scale(1); }
+    }
+    .portal-header {
+      padding: 2.25rem 2rem 1.5rem;
+      text-align: center;
+      background: linear-gradient(180deg, rgba(99, 102, 241, 0.08) 0%, transparent 100%);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    }
+    .emblem {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 60px;
+      height: 60px;
+      border-radius: 1rem;
+      background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+      color: #fff;
+      font-size: 1.75rem;
+      box-shadow: 0 8px 20px rgba(79, 70, 229, 0.4);
+      margin-bottom: 1rem;
+    }
+    .title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.65rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: #fff;
+      margin-bottom: 0.35rem;
+    }
+    .subtitle {
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+    }
+    .badge-7d {
+      display: inline-block;
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: #38bdf8;
+      background: rgba(56, 189, 248, 0.12);
+      border: 1px solid rgba(56, 189, 248, 0.25);
+      padding: 0.15rem 0.55rem;
+      border-radius: 9999px;
+    }
+    .tabs-bar {
+      display: flex;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      padding: 0 2rem;
+      background: rgba(15, 23, 42, 0.4);
+    }
+    .tab-btn {
+      flex: 1;
+      padding: 0.95rem 1rem;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      background: none;
+      border: none;
+      border-bottom: 2px solid transparent;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .tab-btn.active {
+      color: #fff;
+      border-bottom-color: var(--accent);
+    }
+    .tab-btn:hover:not(.active) {
+      color: #cbd5e1;
+    }
+    .portal-body {
+      padding: 2rem;
+    }
+    .alert {
+      padding: 0.85rem 1rem;
+      border-radius: 0.65rem;
+      font-size: 0.88rem;
+      margin-bottom: 1.25rem;
+      display: none;
+      line-height: 1.45;
+    }
+    .alert-error {
+      background: var(--error-bg);
+      border: 1px solid var(--error-border);
+      color: var(--error-text);
+    }
+    .alert-success {
+      background: var(--success-bg);
+      border: 1px solid var(--success-border);
+      color: var(--success-text);
+    }
+    .form-group {
+      margin-bottom: 1.2rem;
+    }
+    label {
+      display: block;
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--text-muted);
+      margin-bottom: 0.45rem;
+    }
+    input {
+      width: 100%;
+      padding: 0.82rem 1rem;
+      background: var(--input-bg);
+      border: 1px solid var(--input-border);
+      border-radius: 0.65rem;
+      color: #fff;
+      font-size: 0.95rem;
+      font-family: inherit;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    input:focus {
+      outline: none;
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.25);
+    }
+    .btn-submit {
+      width: 100%;
+      padding: 0.88rem 1.25rem;
+      background: linear-gradient(135deg, #4f46e5 0%, #6366f1 100%);
+      color: #fff;
+      border: none;
+      border-radius: 0.65rem;
+      font-size: 1rem;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+      box-shadow: 0 4px 15px rgba(79, 70, 229, 0.35);
+      transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+      margin-top: 0.5rem;
+    }
+    .btn-submit:hover {
+      filter: brightness(1.1);
+      transform: translateY(-1px);
+      box-shadow: 0 6px 20px rgba(79, 70, 229, 0.5);
+    }
+    .btn-submit:active {
+      transform: translateY(0);
+    }
+    .btn-submit:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+      transform: none;
+    }
+    .portal-footer {
+      padding: 1.25rem 2rem 1.75rem;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+    .portal-footer strong {
+      color: var(--gold);
+    }
   </style>
 </head>
 <body>
-  <div class="box">
-    <h2>🔒 Access Restricted</h2>
-    <p>This study library contains confidential notes and test records.</p>
-    <p>HTTP Basic Authentication is required to proceed.</p>
-  </div>
-</body>
-</html>`);
-  }
+  <div class="portal-container">
+    <div class="portal-header">
+      <div class="emblem">🏛️</div>
+      <h1 class="title">UP-PCS Study Vault</h1>
+      <div class="subtitle">
+        <span>Protected Knowledge Base</span>
+        <span class="badge-7d">7-Day JWT Session</span>
+      </div>
+    </div>
 
-  // Forward request to MkDocs running on 127.0.0.1:8000
+    <div class="tabs-bar">
+      <button type="button" class="tab-btn active" id="tab-login-btn" onclick="switchAuthTab('login')">Sign In</button>
+      <button type="button" class="tab-btn" id="tab-register-btn" onclick="switchAuthTab('register')">Create Account</button>
+    </div>
+
+    <div class="portal-body">
+      <div id="alert-box" class="alert"></div>
+
+      <!-- Login Form -->
+      <form id="login-form" onsubmit="handleAuthSubmit(event, 'login')">
+        <div class="form-group">
+          <label for="login-email">Email Address</label>
+          <input type="email" id="login-email" required placeholder="name@example.com" autocomplete="username">
+        </div>
+        <div class="form-group">
+          <label for="login-password">Password</label>
+          <input type="password" id="login-password" required placeholder="••••••••••••" autocomplete="current-password">
+        </div>
+        <button type="submit" class="btn-submit" id="login-submit-btn">Sign In & Enter Vault</button>
+      </form>
+
+      <!-- Register Form -->
+      <form id="register-form" style="display: none;" onsubmit="handleAuthSubmit(event, 'register')">
+        <div class="form-group">
+          <label for="reg-name">Full Name</label>
+          <input type="text" id="reg-name" required placeholder="Aspirant Name">
+        </div>
+        <div class="form-group">
+          <label for="reg-email">Email Address</label>
+          <input type="email" id="reg-email" required placeholder="name@example.com" autocomplete="username">
+        </div>
+        <div class="form-group">
+          <label for="reg-password">Password (min. 6 chars)</label>
+          <input type="password" id="reg-password" minlength="6" required placeholder="Create strong password" autocomplete="new-password">
+        </div>
+        <div class="form-group">
+          <label for="reg-confirm">Confirm Password</label>
+          <input type="password" id="reg-confirm" minlength="6" required placeholder="Repeat password" autocomplete="new-password">
+        </div>
+        <button type="submit" class="btn-submit" id="reg-submit-btn">Create Account & Enter</button>
+      </form>
+    </div>
+
+    <div class="portal-footer">
+      <div>Primary Administrator: <strong>${ADMIN_NAME} (${ADMIN_EMAIL})</strong></div>
+      <div>Role-isolated study trackers & automated revision engine.</div>
+    </div>
+  </div>
+
+  <script>
+    const targetUrl = "${safeTargetUrl}";
+
+    function switchAuthTab(tab) {
+      const loginForm = document.getElementById('login-form');
+      const regForm = document.getElementById('register-form');
+      const loginBtn = document.getElementById('tab-login-btn');
+      const regBtn = document.getElementById('tab-register-btn');
+      const alertBox = document.getElementById('alert-box');
+      alertBox.style.display = 'none';
+
+      if (tab === 'register') {
+        loginForm.style.display = 'none';
+        regForm.style.display = 'block';
+        loginBtn.classList.remove('active');
+        regBtn.classList.add('active');
+      } else {
+        regForm.style.display = 'none';
+        loginForm.style.display = 'block';
+        regBtn.classList.remove('active');
+        loginBtn.classList.add('active');
+      }
+    }
+
+    function showAlert(msg, isSuccess = false) {
+      const el = document.getElementById('alert-box');
+      el.textContent = msg;
+      el.className = 'alert ' + (isSuccess ? 'alert-success' : 'alert-error');
+      el.style.display = 'block';
+    }
+
+    async function handleAuthSubmit(e, action) {
+      e.preventDefault();
+      const btn = document.getElementById(action === 'login' ? 'login-submit-btn' : 'reg-submit-btn');
+      const origText = btn.textContent;
+      btn.disabled = true;
+      btn.textContent = 'Authenticating...';
+
+      try {
+        let endpoint = '/api/auth/login';
+        let payload = {};
+
+        if (action === 'login') {
+          payload.email = document.getElementById('login-email').value.trim();
+          payload.password = document.getElementById('login-password').value;
+        } else {
+          endpoint = '/api/auth/register';
+          const p1 = document.getElementById('reg-password').value;
+          const p2 = document.getElementById('reg-confirm').value;
+          if (p1 !== p2) {
+            throw new Error('Passwords do not match');
+          }
+          payload.name = document.getElementById('reg-name').value.trim();
+          payload.email = document.getElementById('reg-email').value.trim();
+          payload.password = p1;
+        }
+
+        const res = await fetch(endpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+
+        const data = await res.json();
+        if (!res.ok || !data.success) {
+          throw new Error(data.error || 'Authentication failed');
+        }
+
+        // Save token to cookie with 7-day expiration
+        const maxAge7Days = 7 * 24 * 60 * 60;
+        document.cookie = 'uppcs_auth_token=' + encodeURIComponent(data.token) + '; Max-Age=' + maxAge7Days + '; Path=/; SameSite=Lax';
+        
+        // Also save to localStorage for client-side study tracker
+        try {
+          localStorage.setItem('UP_PCS_JWT_TOKEN', data.token);
+          localStorage.setItem('UP_PCS_USER', JSON.stringify(data.user));
+        } catch (_) {}
+
+        showAlert('Authenticated successfully! Redirecting...', true);
+        setTimeout(() => {
+          window.location.href = targetUrl || '/';
+        }, 300);
+      } catch (err) {
+        showAlert(err.message || 'An error occurred during authentication');
+        btn.disabled = false;
+        btn.textContent = origText;
+      }
+    }
+  </script>
+</body>
+</html>`;
+}
+
+// Forward request to MkDocs (127.0.0.1:8000) or compiled site/ directory
+function forwardToProxyOrSite(req, res) {
   const options = {
     hostname: '127.0.0.1',
     port: 8000,
@@ -2478,7 +3471,6 @@ app.use((req, res, next) => {
       if (fs.existsSync(filePath) && !fs.statSync(filePath).isDirectory()) {
         return res.sendFile(filePath);
       }
-      // Check if .html can be appended
       if (fs.existsSync(filePath + '.html')) {
         return res.sendFile(filePath + '.html');
       }
@@ -2487,10 +3479,43 @@ app.use((req, res, next) => {
         return res.status(404).sendFile(notFoundPath);
       }
     }
+
+    // Direct fallback to docs directory for stylesheets, javascripts, and catalog assets
+    const docsDir = path.resolve(__dirname, '../docs');
+    let reqPathClean = decodeURIComponent(req.path || '/');
+    let docsFilePath = path.join(docsDir, reqPathClean);
+    if (fs.existsSync(docsFilePath) && !fs.statSync(docsFilePath).isDirectory()) {
+      return res.sendFile(docsFilePath);
+    }
+
     res.status(502).send('Error connecting to MkDocs dev server on 127.0.0.1:8000. Ensure mkdocs serve is running or site is built.');
   });
 
   req.pipe(proxyReq, { end: true });
+}
+
+// Enforce authentication on all website access and reverse-proxy to MkDocs / site
+app.use((req, res, next) => {
+  if (req.path.startsWith('/api')) return next();
+
+  // Allow static assets (CSS, JS, images, fonts) to load freely
+  const isStaticAsset = /\.(css|js|map|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot|webp)(\?.*)?$/i.test(req.path) ||
+    req.path.startsWith('/assets/') || req.path.startsWith('/stylesheets/') || req.path.startsWith('/javascripts/');
+
+  if (isStaticAsset) {
+    return forwardToProxyOrSite(req, res);
+  }
+
+  // Check JWT authentication for all page viewing
+  const token = extractToken(req);
+  const user = token ? verifyJwtToken(token) : null;
+
+  if (!user) {
+    return res.status(401).send(getAuthPortalHtml(req.originalUrl));
+  }
+
+  req.user = user;
+  return forwardToProxyOrSite(req, res);
 });
 
 // Start Server

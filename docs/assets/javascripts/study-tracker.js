@@ -228,36 +228,96 @@
   }
 
   // -------------------------------------------------------------
-  // BASIC AUTH & SECURITY VAULT CONTROLLER
+  // JWT AUTHENTICATION, RBAC & USER CONTROLLER
   // -------------------------------------------------------------
-  const DEFAULT_VAULT_TOKEN = (typeof btoa !== 'undefined') ? btoa('admin:uppcs2026') : 'YWRtaW46dXBwY3MyMDI2';
+  const JWT_STORAGE_KEY = 'UP_PCS_JWT_TOKEN';
+  const USER_STORAGE_KEY = 'UP_PCS_USER';
+  const COOKIE_TOKEN_KEY = 'uppcs_auth_token';
 
-  function getStoredAuthToken() {
-    return sessionStorage.getItem(AUTH_STORAGE_KEY) || localStorage.getItem(AUTH_STORAGE_KEY) || DEFAULT_VAULT_TOKEN;
+  const systemConfig = {
+    adminEmail: 'neetishyadav4@gmail.com',
+    adminName: 'Nitish Pratap Yadav'
+  };
+
+  async function loadSystemConfig() {
+    try {
+      const res = await fetch(`${API_BASE}/auth/config`);
+      if (res.ok) {
+        const data = await res.json();
+        if (data.success) {
+          if (data.adminEmail) systemConfig.adminEmail = data.adminEmail;
+          if (data.adminName) systemConfig.adminName = data.adminName;
+        }
+      }
+    } catch {}
   }
+  loadSystemConfig();
 
-  function setStoredAuthToken(token, persist) {
-    sessionStorage.setItem(AUTH_STORAGE_KEY, token);
-    if (persist) {
-      localStorage.setItem(AUTH_STORAGE_KEY, token);
-    } else {
-      localStorage.removeItem(AUTH_STORAGE_KEY);
+  function getCookie(name) {
+    try {
+      const match = document.cookie.match(new RegExp('(^|;\\s*)' + name + '=([^;]+)'));
+      return match ? decodeURIComponent(match[2]) : null;
+    } catch {
+      return null;
     }
   }
 
+  function setCookie(name, value, days = 7) {
+    try {
+      const maxAge = days * 24 * 60 * 60;
+      document.cookie = `${name}=${encodeURIComponent(value)}; Max-Age=${maxAge}; Path=/; SameSite=Lax`;
+    } catch {}
+  }
+
+  function deleteCookie(name) {
+    try {
+      document.cookie = `${name}=; Max-Age=0; Path=/; SameSite=Lax`;
+    } catch {}
+  }
+
+  function getStoredAuthToken() {
+    return localStorage.getItem(JWT_STORAGE_KEY) || getCookie(COOKIE_TOKEN_KEY) || null;
+  }
+
+  function getStoredUser() {
+    try {
+      const raw = localStorage.getItem(USER_STORAGE_KEY);
+      return raw ? JSON.parse(raw) : null;
+    } catch {
+      return null;
+    }
+  }
+
+  function setStoredAuth(token, user) {
+    if (token) {
+      localStorage.setItem(JWT_STORAGE_KEY, token);
+      setCookie(COOKIE_TOKEN_KEY, token, 7);
+    }
+    if (user) {
+      localStorage.setItem(USER_STORAGE_KEY, JSON.stringify(user));
+    }
+  }
+
+  function clearStoredAuth() {
+    localStorage.removeItem(JWT_STORAGE_KEY);
+    localStorage.removeItem(USER_STORAGE_KEY);
+    sessionStorage.removeItem(JWT_STORAGE_KEY);
+    deleteCookie(COOKIE_TOKEN_KEY);
+  }
+
   function clearStoredAuthToken() {
-    sessionStorage.removeItem(AUTH_STORAGE_KEY);
-    localStorage.removeItem(AUTH_STORAGE_KEY);
+    clearStoredAuth();
   }
 
   async function authFetch(url, options = {}) {
     const token = getStoredAuthToken();
     const headers = new Headers(options.headers || {});
     if (token) {
-      headers.set('Authorization', `Basic ${token}`);
+      headers.set('Authorization', `Bearer ${token}`);
     }
     const res = await fetch(url, { ...options, headers });
     if (res.status === 401) {
+      clearStoredAuth();
       showAuthVaultModal();
     }
     return res;
@@ -274,102 +334,880 @@
 
     overlay.innerHTML = `
       <div class="st-auth-card">
-        <div class="st-auth-icon-wrap">🔒</div>
+        <div class="st-auth-icon-wrap">🏛️</div>
         <h3 class="st-auth-title">UP-PCS Study Vault</h3>
-        <p class="st-auth-sub">Confidential Notes, Revision Logs & Live CBT Test Engine.<br>Authentication required to access.</p>
-        <form class="st-auth-form" id="st-auth-form">
+        <p class="st-auth-sub">Role-Based Knowledge Library • 7-Day Authenticated Session</p>
+        
+        <div class="st-auth-tabs">
+          <button type="button" class="st-auth-tab-btn active" id="st-tab-login">Sign In</button>
+          <button type="button" class="st-auth-tab-btn" id="st-tab-register">Create Account</button>
+        </div>
+
+        <div class="st-auth-error" id="st-auth-error"></div>
+        <div class="st-auth-success" id="st-auth-success"></div>
+
+        <!-- Login Form -->
+        <form class="st-auth-form" id="st-login-form">
           <div class="st-auth-field">
-            <label for="st-auth-user">Username</label>
-            <input type="text" id="st-auth-user" class="st-auth-input" placeholder="admin" value="admin" autocomplete="username" required />
+            <label for="st-login-email">Email Address</label>
+            <input type="email" id="st-login-email" class="st-auth-input" placeholder="name@example.com" autocomplete="username" required />
           </div>
           <div class="st-auth-field">
-            <label for="st-auth-pass">Password</label>
-            <input type="password" id="st-auth-pass" class="st-auth-input" placeholder="Enter password" autocomplete="current-password" required />
+            <label for="st-login-pass">Password</label>
+            <input type="password" id="st-login-pass" class="st-auth-input" placeholder="Enter password" autocomplete="current-password" required />
           </div>
           <label class="st-auth-remember">
-            <input type="checkbox" id="st-auth-remember" checked />
-            Remember this browser
+            <input type="checkbox" id="st-login-remember" checked />
+            Remember session for 7 days
           </label>
-          <div class="st-auth-error" id="st-auth-error">⚠️ Invalid username or password</div>
-          <button type="submit" class="st-auth-submit-btn" id="st-auth-submit-btn">
-            <span>🛡️ Unlock Library</span>
+          <button type="submit" class="st-auth-submit-btn" id="st-login-btn">
+            <span>🛡️ Sign In & Unlock</span>
           </button>
+        </form>
+
+        <!-- Register Form -->
+        <form class="st-auth-form" id="st-register-form" style="display: none;">
+          <div class="st-auth-field">
+            <label for="st-reg-name">Full Name</label>
+            <input type="text" id="st-reg-name" class="st-auth-input" placeholder="Candidate Name" required />
+          </div>
+          <div class="st-auth-field">
+            <label for="st-reg-email">Email Address</label>
+            <input type="email" id="st-reg-email" class="st-auth-input" placeholder="name@example.com" autocomplete="username" required />
+          </div>
+          <div class="st-auth-field">
+            <label for="st-reg-pass">Password (min. 6 characters)</label>
+            <input type="password" id="st-reg-pass" minlength="6" class="st-auth-input" placeholder="Create strong password" autocomplete="new-password" required />
+          </div>
+          <div class="st-auth-field">
+            <label for="st-reg-confirm">Confirm Password</label>
+            <input type="password" id="st-reg-confirm" minlength="6" class="st-auth-input" placeholder="Repeat password" autocomplete="new-password" required />
+          </div>
+          <button type="submit" class="st-auth-submit-btn" id="st-register-btn">
+            <span>🎓 Register & Unlock</span>
+          </button>
+        </form>
+
+        <div class="st-auth-card-footer">
+          <span>Primary Admin: <strong>${systemConfig.adminName} (${systemConfig.adminEmail})</strong></span>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(overlay);
+
+    const loginTab = document.getElementById('st-tab-login');
+    const regTab = document.getElementById('st-tab-register');
+    const loginForm = document.getElementById('st-login-form');
+    const regForm = document.getElementById('st-register-form');
+    const errBox = document.getElementById('st-auth-error');
+    const succBox = document.getElementById('st-auth-success');
+
+    function switchTab(mode) {
+      if (errBox) errBox.style.display = 'none';
+      if (succBox) succBox.style.display = 'none';
+      if (mode === 'register') {
+        loginTab.classList.remove('active');
+        regTab.classList.add('active');
+        loginForm.style.display = 'none';
+        regForm.style.display = 'flex';
+        document.getElementById('st-reg-name')?.focus();
+      } else {
+        regTab.classList.remove('active');
+        loginTab.classList.add('active');
+        regForm.style.display = 'none';
+        loginForm.style.display = 'flex';
+        document.getElementById('st-login-email')?.focus();
+      }
+    }
+
+    loginTab?.addEventListener('click', () => switchTab('login'));
+    regTab?.addEventListener('click', () => switchTab('register'));
+
+    // Handle Login
+    loginForm?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const email = document.getElementById('st-login-email').value.trim();
+      const password = document.getElementById('st-login-pass').value;
+      const btn = document.getElementById('st-login-btn');
+
+      if (errBox) errBox.style.display = 'none';
+      if (succBox) succBox.style.display = 'none';
+      btn.disabled = true;
+      btn.innerHTML = '<span>Verifying...</span>';
+
+      try {
+        const res = await fetch(`${API_BASE}/auth/login`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email, password })
+        });
+        const data = await res.json();
+        if (!res.ok || !data.success) {
+          throw new Error(data.error || 'Invalid credentials');
+        }
+
+        setStoredAuth(data.token, data.user);
+        if (succBox) {
+          succBox.textContent = `Welcome back, ${data.user.name || data.user.email}!`;
+          succBox.style.display = 'block';
+        }
+
+        setTimeout(() => {
+          document.body.classList.remove('st-vault-locked');
+          overlay.remove();
+          boot();
+        }, 400);
+      } catch (err) {
+        if (errBox) {
+          errBox.textContent = '⚠️ ' + (err.message || 'Authentication failed');
+          errBox.style.display = 'block';
+        }
+      } finally {
+        btn.disabled = false;
+        btn.innerHTML = '<span>🛡️ Sign In & Unlock</span>';
+      }
+    });
+
+    // Handle Register
+    regForm?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const name = document.getElementById('st-reg-name').value.trim();
+      const email = document.getElementById('st-reg-email').value.trim();
+      const password = document.getElementById('st-reg-pass').value;
+      const confirm = document.getElementById('st-reg-confirm').value;
+      const btn = document.getElementById('st-register-btn');
+
+      if (errBox) errBox.style.display = 'none';
+      if (succBox) succBox.style.display = 'none';
+
+      if (password !== confirm) {
+        if (errBox) {
+          errBox.textContent = '⚠️ Passwords do not match';
+          errBox.style.display = 'block';
+        }
+        return;
+      }
+
+      btn.disabled = true;
+      btn.innerHTML = '<span>Registering...</span>';
+
+      try {
+        const res = await fetch(`${API_BASE}/auth/register`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ name, email, password })
+        });
+        const data = await res.json();
+        if (!res.ok || !data.success) {
+          throw new Error(data.error || 'Registration failed');
+        }
+
+        setStoredAuth(data.token, data.user);
+        if (succBox) {
+          succBox.textContent = `Account created! Welcome, ${data.user.name}!`;
+          succBox.style.display = 'block';
+        }
+
+        setTimeout(() => {
+          document.body.classList.remove('st-vault-locked');
+          overlay.remove();
+          boot();
+        }, 400);
+      } catch (err) {
+        if (errBox) {
+          errBox.textContent = '⚠️ ' + (err.message || 'Registration failed');
+          errBox.style.display = 'block';
+        }
+      } finally {
+        btn.disabled = false;
+        btn.innerHTML = '<span>🎓 Register & Unlock</span>';
+      }
+    });
+  }
+
+  function injectHeaderUserNav(user) {
+    const headerInner = document.querySelector('.md-header__inner');
+    if (!headerInner) return;
+
+    // Remove legacy lock button or existing user nav
+    document.getElementById('st-header-lock-btn')?.remove();
+    document.getElementById('st-header-user-nav')?.remove();
+
+    if (!user) {
+      // Unauthenticated state button
+      const loginBtn = document.createElement('button');
+      loginBtn.id = 'st-header-lock-btn';
+      loginBtn.className = 'st-header-lock-btn';
+      loginBtn.innerHTML = `🔒 Sign In`;
+      loginBtn.title = 'Authenticate to access study vault';
+      loginBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        showAuthVaultModal();
+      });
+      headerInner.appendChild(loginBtn);
+      return;
+    }
+
+    const navWrap = document.createElement('div');
+    navWrap.id = 'st-header-user-nav';
+    navWrap.className = 'st-user-nav-wrap';
+
+    const isAdmin = user.role === 'admin';
+    const initials = (user.name || user.email || 'U').split(' ').map(n => n[0]).join('').slice(0, 2).toUpperCase();
+
+    navWrap.innerHTML = `
+      <button type="button" class="st-user-nav-btn ${isAdmin ? 'is-admin' : ''}" id="st-user-menu-trigger" title="${user.name} (${user.email})">
+        <span class="st-user-nav-avatar">${initials}</span>
+        <span class="st-user-nav-label">${user.name || user.email.split('@')[0]}</span>
+        <span class="st-user-nav-role">${isAdmin ? '👑 Admin' : '🎓 Aspirant'}</span>
+        <span class="st-user-nav-caret">▾</span>
+      </button>
+
+      <div class="st-user-menu-dropdown" id="st-user-menu-dropdown" style="display: none;">
+        <div class="st-user-menu-header">
+          <div class="st-user-menu-avatar-large">${initials}</div>
+          <div class="st-user-menu-info">
+            <div class="st-user-menu-name">${user.name || 'Aspirant'}</div>
+            <div class="st-user-menu-email">${user.email}</div>
+            <div class="st-user-menu-badge ${isAdmin ? 'badge-admin' : 'badge-student'}">
+              ${isAdmin ? '👑 Super Administrator' : '🎓 Student Aspirant'}
+            </div>
+          </div>
+        </div>
+
+        <div class="st-user-menu-session-note">
+          <span class="st-session-dot"></span>
+          <span>7-Day Active JWT Session</span>
+        </div>
+
+        <div class="st-user-menu-actions">
+          ${isAdmin ? `
+            <button type="button" class="st-user-menu-item is-admin-action" id="st-btn-open-admin">
+              <span>👑 Admin Control Center</span>
+            </button>
+          ` : ''}
+          <button type="button" class="st-user-menu-item" id="st-btn-change-pw">
+            <span>🔑 Change Password</span>
+          </button>
+          <button type="button" class="st-user-menu-item is-logout" id="st-btn-logout">
+            <span>🚪 Sign Out</span>
+          </button>
+        </div>
+      </div>
+    `;
+
+    headerInner.appendChild(navWrap);
+
+    const trigger = document.getElementById('st-user-menu-trigger');
+    const dropdown = document.getElementById('st-user-menu-dropdown');
+
+    trigger?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const isVisible = dropdown.style.display === 'block';
+      dropdown.style.display = isVisible ? 'none' : 'block';
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!navWrap.contains(e.target)) {
+        dropdown.style.display = 'none';
+      }
+    });
+
+    if (isAdmin) {
+      document.getElementById('st-btn-open-admin')?.addEventListener('click', () => {
+        dropdown.style.display = 'none';
+        openAdminControlCenter();
+      });
+    }
+
+    document.getElementById('st-btn-change-pw')?.addEventListener('click', () => {
+      dropdown.style.display = 'none';
+      openChangePasswordModal();
+    });
+
+    document.getElementById('st-btn-logout')?.addEventListener('click', async () => {
+      dropdown.style.display = 'none';
+      try {
+        await authFetch(`${API_BASE}/auth/logout`, { method: 'POST' });
+      } catch {}
+      clearStoredAuth();
+      showAuthVaultModal();
+      injectHeaderUserNav(null);
+    });
+  }
+
+  function injectHeaderLockBtn() {
+    // Kept for backward compatibility, delegates to injectHeaderUserNav
+    const user = getStoredUser();
+    injectHeaderUserNav(user);
+  }
+
+  function openChangePasswordModal() {
+    const existing = document.getElementById('st-change-pw-overlay');
+    if (existing) existing.remove();
+
+    const overlay = document.createElement('div');
+    overlay.className = 'st-auth-overlay';
+    overlay.id = 'st-change-pw-overlay';
+
+    overlay.innerHTML = `
+      <div class="st-auth-card">
+        <div class="st-auth-icon-wrap">🔑</div>
+        <h3 class="st-auth-title">Update Your Password</h3>
+        <p class="st-auth-sub">Change your account security password</p>
+
+        <div class="st-auth-error" id="st-cpw-error"></div>
+        <div class="st-auth-success" id="st-cpw-success"></div>
+
+        <form class="st-auth-form" id="st-cpw-form">
+          <div class="st-auth-field">
+            <label for="st-cpw-current">Current Password</label>
+            <input type="password" id="st-cpw-current" class="st-auth-input" required autocomplete="current-password" />
+          </div>
+          <div class="st-auth-field">
+            <label for="st-cpw-new">New Password (min. 6 chars)</label>
+            <input type="password" id="st-cpw-new" minlength="6" class="st-auth-input" required autocomplete="new-password" />
+          </div>
+          <div class="st-auth-field">
+            <label for="st-cpw-confirm">Confirm New Password</label>
+            <input type="password" id="st-cpw-confirm" minlength="6" class="st-auth-input" required autocomplete="new-password" />
+          </div>
+          <div style="display: flex; gap: 0.75rem; margin-top: 0.5rem;">
+            <button type="button" class="st-auth-btn-cancel" id="st-cpw-cancel" style="flex: 1;">Cancel</button>
+            <button type="submit" class="st-auth-submit-btn" id="st-cpw-submit" style="flex: 2;">Save Password</button>
+          </div>
         </form>
       </div>
     `;
 
     document.body.appendChild(overlay);
 
-    const passInput = document.getElementById('st-auth-pass');
-    passInput?.focus();
+    document.getElementById('st-cpw-cancel')?.addEventListener('click', () => overlay.remove());
 
-    const form = document.getElementById('st-auth-form');
-    form?.addEventListener('submit', async (e) => {
+    document.getElementById('st-cpw-form')?.addEventListener('submit', async (e) => {
       e.preventDefault();
-      const user = document.getElementById('st-auth-user').value.trim();
-      const pass = document.getElementById('st-auth-pass').value;
-      const remember = document.getElementById('st-auth-remember').checked;
-      const errorBox = document.getElementById('st-auth-error');
-      const submitBtn = document.getElementById('st-auth-submit-btn');
+      const currentPassword = document.getElementById('st-cpw-current').value;
+      const newPassword = document.getElementById('st-cpw-new').value;
+      const confirmPassword = document.getElementById('st-cpw-confirm').value;
+      const errEl = document.getElementById('st-cpw-error');
+      const succEl = document.getElementById('st-cpw-success');
+      const submitBtn = document.getElementById('st-cpw-submit');
 
-      if (!user || !pass) return;
+      if (errEl) errEl.style.display = 'none';
+      if (succEl) succEl.style.display = 'none';
+
+      if (newPassword !== confirmPassword) {
+        if (errEl) {
+          errEl.textContent = '⚠️ Passwords do not match.';
+          errEl.style.display = 'block';
+        }
+        return;
+      }
 
       submitBtn.disabled = true;
-      submitBtn.innerHTML = '<span>Verifying...</span>';
-      errorBox.style.display = 'none';
-
-      const token = btoa(`${user}:${pass}`);
+      submitBtn.textContent = 'Updating...';
 
       try {
-        const verifyRes = await fetch(`${API_BASE}/auth/verify`, {
-          headers: { 'Authorization': `Basic ${token}` }
+        const res = await authFetch(`${API_BASE}/auth/change-password`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ currentPassword, newPassword })
         });
+        const data = await res.json();
+        if (!res.ok || !data.success) {
+          throw new Error(data.error || 'Failed to update password');
+        }
 
-        if (verifyRes.ok) {
-          setStoredAuthToken(token, remember);
-          document.body.classList.remove('st-vault-locked');
-          overlay.remove();
-          boot();
-          return;
-        } else {
-          errorBox.textContent = '⚠️ Invalid credentials. Please check your username and password.';
-          errorBox.style.display = 'block';
+        if (succEl) {
+          succEl.textContent = 'Password updated successfully!';
+          succEl.style.display = 'block';
         }
+        setTimeout(() => overlay.remove(), 1200);
       } catch (err) {
-        // Fallback if offline/network error
-        if (user === 'admin' && pass === 'uppcs2026') {
-          setStoredAuthToken(token, remember);
-          document.body.classList.remove('st-vault-locked');
-          overlay.remove();
-          boot();
-          return;
+        if (errEl) {
+          errEl.textContent = '⚠️ ' + (err.message || 'Error updating password');
+          errEl.style.display = 'block';
         }
-        errorBox.textContent = '⚠️ Connection error. Ensure tracker-server is running on port 5000.';
-        errorBox.style.display = 'block';
       } finally {
         submitBtn.disabled = false;
-        submitBtn.innerHTML = '<span>🛡️ Unlock Library</span>';
+        submitBtn.textContent = 'Save Password';
       }
     });
   }
 
-  function injectHeaderLockBtn() {
-    const headerInner = document.querySelector('.md-header__inner');
-    if (!headerInner || document.getElementById('st-header-lock-btn')) return;
+  // -------------------------------------------------------------
+  // ADMIN CONTROL CENTER (FOR SUPER ADMIN)
+  // -------------------------------------------------------------
+  async function openAdminControlCenter() {
+    const existing = document.getElementById('st-admin-center-modal');
+    if (existing) existing.remove();
 
-    const lockBtn = document.createElement('button');
-    lockBtn.id = 'st-header-lock-btn';
-    lockBtn.className = 'st-header-lock-btn';
-    lockBtn.innerHTML = `🔒 Lock Vault`;
-    lockBtn.title = 'Lock study library session';
+    const overlay = document.createElement('div');
+    overlay.className = 'st-admin-overlay';
+    overlay.id = 'st-admin-center-modal';
 
-    lockBtn.addEventListener('click', (e) => {
-      e.preventDefault();
-      clearStoredAuthToken();
-      showAuthVaultModal();
+    overlay.innerHTML = `
+      <div class="st-admin-modal">
+        <div class="st-admin-header">
+          <div class="st-admin-header-title">
+            <span class="st-admin-icon">👑</span>
+            <div>
+              <h2>Administrator Control Center</h2>
+              <p>Super Admin: <strong>${systemConfig.adminName}</strong> (${systemConfig.adminEmail}) • Multi-user Study Management</p>
+            </div>
+          </div>
+          <div class="st-admin-header-actions">
+            <button type="button" class="st-admin-btn-action" id="st-admin-refresh-btn" title="Refresh data">🔄 Refresh</button>
+            <button type="button" class="st-admin-btn-close" id="st-admin-close-btn" title="Close Panel">✕</button>
+          </div>
+        </div>
+
+        <!-- Metric Stat Cards -->
+        <div class="st-admin-stats-grid" id="st-admin-stats-grid">
+          <div class="st-admin-stat-card">
+            <div class="st-stat-num" id="stat-total-users">-</div>
+            <div class="st-stat-lbl">👥 Total Users</div>
+          </div>
+          <div class="st-admin-stat-card">
+            <div class="st-stat-num" id="stat-active-users">-</div>
+            <div class="st-stat-lbl">🟢 Active Accounts</div>
+          </div>
+          <div class="st-admin-stat-card">
+            <div class="st-stat-num" id="stat-total-tests">-</div>
+            <div class="st-stat-lbl">📝 Tests Evaluated</div>
+          </div>
+          <div class="st-admin-stat-card">
+            <div class="st-stat-num" id="stat-total-revisions">-</div>
+            <div class="st-stat-lbl">🔁 Active Revisions</div>
+          </div>
+          <div class="st-admin-stat-card">
+            <div class="st-stat-num" id="stat-total-study-time">-</div>
+            <div class="st-stat-lbl">⏱️ Total Study Time</div>
+          </div>
+        </div>
+
+        <!-- Toolbar: Search, Filters, New User -->
+        <div class="st-admin-toolbar">
+          <div class="st-admin-search-wrap">
+            <input type="text" id="st-admin-search-input" placeholder="Search by name or email..." class="st-admin-search-input" />
+          </div>
+          <div class="st-admin-filters">
+            <select id="st-admin-role-filter" class="st-admin-select">
+              <option value="all">All Roles</option>
+              <option value="admin">Administrators</option>
+              <option value="student">Students</option>
+            </select>
+            <select id="st-admin-status-filter" class="st-admin-select">
+              <option value="all">All Status</option>
+              <option value="active">Active Only</option>
+              <option value="suspended">Suspended Only</option>
+            </select>
+            <button type="button" class="st-admin-btn-primary" id="st-admin-create-user-btn">
+              <span>+ Provision New User</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Users Table Container -->
+        <div class="st-admin-table-container">
+          <div id="st-admin-loading" class="st-admin-loading">Loading users & metrics...</div>
+          <table class="st-admin-table" id="st-admin-table" style="display: none;">
+            <thead>
+              <tr>
+                <th>Aspirant / User</th>
+                <th>Role</th>
+                <th>Status</th>
+                <th>CBT Tests</th>
+                <th>Revisions</th>
+                <th>Study Time</th>
+                <th>Joined</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="st-admin-users-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(overlay);
+
+    const closeBtn = document.getElementById('st-admin-close-btn');
+    closeBtn?.addEventListener('click', () => overlay.remove());
+    overlay.addEventListener('click', (e) => {
+      if (e.target === overlay) overlay.remove();
     });
 
-    headerInner.appendChild(lockBtn);
+    let allUsers = [];
+
+    async function loadAdminData() {
+      const loading = document.getElementById('st-admin-loading');
+      const table = document.getElementById('st-admin-table');
+      if (loading) loading.style.display = 'block';
+      if (table) table.style.display = 'none';
+
+      try {
+        const [statsRes, usersRes] = await Promise.all([
+          authFetch(`${API_BASE}/admin/stats`),
+          authFetch(`${API_BASE}/admin/users`)
+        ]);
+
+        if (statsRes.ok) {
+          const sData = await statsRes.json();
+          if (sData.success && sData.stats) {
+            document.getElementById('stat-total-users').textContent = sData.stats.totalUsers || 0;
+            document.getElementById('stat-active-users').textContent = sData.stats.activeUsers || 0;
+            document.getElementById('stat-total-tests').textContent = sData.stats.totalTests || 0;
+            document.getElementById('stat-total-revisions').textContent = sData.stats.totalRevisions || 0;
+            const hours = Math.round((sData.stats.totalStudySeconds || 0) / 3600 * 10) / 10;
+            document.getElementById('stat-total-study-time').textContent = `${hours} hrs`;
+          }
+        }
+
+        if (usersRes.ok) {
+          const uData = await usersRes.json();
+          if (uData.success && Array.isArray(uData.users)) {
+            allUsers = uData.users;
+            renderUsersTable();
+          }
+        }
+      } catch (err) {
+        if (loading) loading.textContent = '⚠️ Error loading admin data: ' + err.message;
+      } finally {
+        if (loading) loading.style.display = 'none';
+        if (table) table.style.display = 'table';
+      }
+    }
+
+    function renderUsersTable() {
+      const tbody = document.getElementById('st-admin-users-tbody');
+      if (!tbody) return;
+      tbody.innerHTML = '';
+
+      const query = (document.getElementById('st-admin-search-input')?.value || '').toLowerCase().trim();
+      const roleFilter = document.getElementById('st-admin-role-filter')?.value || 'all';
+      const statusFilter = document.getElementById('st-admin-status-filter')?.value || 'all';
+
+      const filtered = allUsers.filter(u => {
+        const matchQuery = !query || (u.name && u.name.toLowerCase().includes(query)) || (u.email && u.email.toLowerCase().includes(query));
+        const matchRole = roleFilter === 'all' || u.role === roleFilter;
+        const matchStatus = statusFilter === 'all' || u.status === statusFilter;
+        return matchQuery && matchRole && matchStatus;
+      });
+
+      if (filtered.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="8" style="text-align: center; padding: 2rem; color: #94a3b8;">No matching users found.</td></tr>`;
+        return;
+      }
+
+      filtered.forEach(u => {
+        const tr = document.createElement('tr');
+        const isPrimaryAdmin = u.role === 'admin' && (u.email === systemConfig.adminEmail || u.name === systemConfig.adminName || u.email === 'neetishyadav4@gmail.com');
+        const initials = (u.name || u.email || 'U').split(' ').map(n => n[0]).join('').slice(0, 2).toUpperCase();
+        const studyHours = Math.round((u.total_study_seconds || 0) / 3600 * 10) / 10;
+        const joinedDate = u.created_at ? new Date(u.created_at).toLocaleDateString() : '-';
+
+        tr.innerHTML = `
+          <td>
+            <div class="st-admin-user-cell">
+              <div class="st-admin-avatar">${initials}</div>
+              <div>
+                <div class="st-admin-name">${u.name || 'Aspirant'} ${isPrimaryAdmin ? '<span class="st-super-badge">PRIMARY SUPER ADMIN</span>' : ''}</div>
+                <div class="st-admin-email">${u.email}</div>
+              </div>
+            </div>
+          </td>
+          <td>
+            <span class="st-role-pill ${u.role === 'admin' ? 'pill-admin' : 'pill-student'}">
+              ${u.role === 'admin' ? '👑 Admin' : '🎓 Student'}
+            </span>
+          </td>
+          <td>
+            <button type="button" class="st-status-btn ${u.status === 'active' ? 'is-active' : 'is-suspended'}" 
+              data-id="${u._id}" data-status="${u.status}" ${isPrimaryAdmin ? 'disabled title="Cannot suspend primary admin"' : ''}>
+              ${u.status === 'active' ? '🟢 Active' : '🔴 Suspended'}
+            </button>
+          </td>
+          <td><strong>${u.tests_count || 0}</strong></td>
+          <td><strong>${u.revisions_count || 0}</strong></td>
+          <td>${studyHours}h</td>
+          <td>${joinedDate}</td>
+          <td>
+            <div class="st-admin-actions-cell">
+              <button type="button" class="st-table-btn btn-reset-pw" data-id="${u._id}" data-email="${u.email}" title="Set new password for this user">
+                🔑 Password
+              </button>
+              ${!isPrimaryAdmin ? `
+                <button type="button" class="st-table-btn btn-toggle-role" data-id="${u._id}" data-role="${u.role}" title="Toggle between Admin and Student role">
+                  🔄 Role
+                </button>
+                <button type="button" class="st-table-btn btn-delete-user" data-id="${u._id}" data-email="${u.email}" title="Delete user and study records">
+                  🗑️
+                </button>
+              ` : ''}
+            </div>
+          </td>
+        `;
+
+        tbody.appendChild(tr);
+      });
+
+      // Bind action buttons
+      tbody.querySelectorAll('.st-status-btn:not([disabled])').forEach(btn => {
+        btn.addEventListener('click', async () => {
+          const id = btn.dataset.id;
+          const curStatus = btn.dataset.status;
+          const nextStatus = curStatus === 'active' ? 'suspended' : 'active';
+          try {
+            btn.textContent = 'Updating...';
+            btn.disabled = true;
+            const res = await authFetch(`${API_BASE}/admin/users/${id}/status`, {
+              method: 'PUT',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ status: nextStatus })
+            });
+            const data = await res.json();
+            if (data.success) {
+              await loadAdminData();
+            } else {
+              alert(data.error || 'Failed to update status');
+            }
+          } catch (e) {
+            alert('Error: ' + e.message);
+          }
+        });
+      });
+
+      tbody.querySelectorAll('.btn-reset-pw').forEach(btn => {
+        btn.addEventListener('click', () => {
+          openAdminResetPasswordSubmodal(btn.dataset.id, btn.dataset.email);
+        });
+      });
+
+      tbody.querySelectorAll('.btn-toggle-role').forEach(btn => {
+        btn.addEventListener('click', async () => {
+          const id = btn.dataset.id;
+          const curRole = btn.dataset.role;
+          const nextRole = curRole === 'admin' ? 'student' : 'admin';
+          if (!confirm(`Change role to ${nextRole.toUpperCase()} for this user?`)) return;
+          try {
+            const res = await authFetch(`${API_BASE}/admin/users/${id}/role`, {
+              method: 'PUT',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ role: nextRole })
+            });
+            const data = await res.json();
+            if (data.success) {
+              await loadAdminData();
+            } else {
+              alert(data.error || 'Failed to update role');
+            }
+          } catch (e) {
+            alert('Error: ' + e.message);
+          }
+        });
+      });
+
+      tbody.querySelectorAll('.btn-delete-user').forEach(btn => {
+        btn.addEventListener('click', async () => {
+          const id = btn.dataset.id;
+          const email = btn.dataset.email;
+          if (!confirm(`Are you sure you want to permanently delete user "${email}" and all their study records? This cannot be undone.`)) return;
+          try {
+            const res = await authFetch(`${API_BASE}/admin/users/${id}`, { method: 'DELETE' });
+            const data = await res.json();
+            if (data.success) {
+              await loadAdminData();
+            } else {
+              alert(data.error || 'Failed to delete user');
+            }
+          } catch (e) {
+            alert('Error: ' + e.message);
+          }
+        });
+      });
+    }
+
+    document.getElementById('st-admin-search-input')?.addEventListener('input', renderUsersTable);
+    document.getElementById('st-admin-role-filter')?.addEventListener('change', renderUsersTable);
+    document.getElementById('st-admin-status-filter')?.addEventListener('change', renderUsersTable);
+    document.getElementById('st-admin-refresh-btn')?.addEventListener('click', loadAdminData);
+
+    document.getElementById('st-admin-create-user-btn')?.addEventListener('click', () => {
+      openAdminCreateUserSubmodal(() => loadAdminData());
+    });
+
+    loadAdminData();
+  }
+
+  function openAdminResetPasswordSubmodal(userId, userEmail) {
+    const existing = document.getElementById('st-admin-pw-modal');
+    if (existing) existing.remove();
+
+    const overlay = document.createElement('div');
+    overlay.className = 'st-auth-overlay';
+    overlay.id = 'st-admin-pw-modal';
+    overlay.style.zIndex = '100005';
+
+    overlay.innerHTML = `
+      <div class="st-auth-card">
+        <div class="st-auth-icon-wrap">🔑</div>
+        <h3 class="st-auth-title">Reset User Password</h3>
+        <p class="st-auth-sub">Direct password override for: <strong>${userEmail}</strong></p>
+
+        <div class="st-auth-error" id="st-apw-error"></div>
+        <div class="st-auth-success" id="st-apw-success"></div>
+
+        <form class="st-auth-form" id="st-apw-form">
+          <div class="st-auth-field">
+            <label for="st-apw-input">New Password (min. 6 characters)</label>
+            <input type="password" id="st-apw-input" minlength="6" class="st-auth-input" required placeholder="Enter new password" />
+          </div>
+          <div style="display: flex; gap: 0.75rem; margin-top: 0.5rem;">
+            <button type="button" class="st-auth-btn-cancel" id="st-apw-cancel" style="flex: 1;">Cancel</button>
+            <button type="submit" class="st-auth-submit-btn" id="st-apw-submit" style="flex: 2;">Update Password</button>
+          </div>
+        </form>
+      </div>
+    `;
+
+    document.body.appendChild(overlay);
+
+    document.getElementById('st-apw-cancel')?.addEventListener('click', () => overlay.remove());
+
+    document.getElementById('st-apw-form')?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const newPassword = document.getElementById('st-apw-input').value;
+      const errEl = document.getElementById('st-apw-error');
+      const succEl = document.getElementById('st-apw-success');
+      const btn = document.getElementById('st-apw-submit');
+
+      if (errEl) errEl.style.display = 'none';
+      if (succEl) succEl.style.display = 'none';
+      btn.disabled = true;
+      btn.textContent = 'Updating...';
+
+      try {
+        const res = await authFetch(`${API_BASE}/admin/users/${userId}/password`, {
+          method: 'PUT',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ newPassword })
+        });
+        const data = await res.json();
+        if (!res.ok || !data.success) {
+          throw new Error(data.error || 'Failed to update password');
+        }
+
+        if (succEl) {
+          succEl.textContent = `Password updated successfully for ${userEmail}!`;
+          succEl.style.display = 'block';
+        }
+        setTimeout(() => overlay.remove(), 1200);
+      } catch (err) {
+        if (errEl) {
+          errEl.textContent = '⚠️ ' + (err.message || 'Error updating password');
+          errEl.style.display = 'block';
+        }
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Update Password';
+      }
+    });
+  }
+
+  function openAdminCreateUserSubmodal(onCreated) {
+    const existing = document.getElementById('st-admin-create-modal');
+    if (existing) existing.remove();
+
+    const overlay = document.createElement('div');
+    overlay.className = 'st-auth-overlay';
+    overlay.id = 'st-admin-create-modal';
+    overlay.style.zIndex = '100005';
+
+    overlay.innerHTML = `
+      <div class="st-auth-card">
+        <div class="st-auth-icon-wrap">👤</div>
+        <h3 class="st-auth-title">Provision New User</h3>
+        <p class="st-auth-sub">Create a new student or administrator account</p>
+
+        <div class="st-auth-error" id="st-acu-error"></div>
+        <div class="st-auth-success" id="st-acu-success"></div>
+
+        <form class="st-auth-form" id="st-acu-form">
+          <div class="st-auth-field">
+            <label for="st-acu-name">Full Name</label>
+            <input type="text" id="st-acu-name" class="st-auth-input" required placeholder="e.g. Ramesh Kumar" />
+          </div>
+          <div class="st-auth-field">
+            <label for="st-acu-email">Email Address</label>
+            <input type="email" id="st-acu-email" class="st-auth-input" required placeholder="ramesh@example.com" />
+          </div>
+          <div class="st-auth-field">
+            <label for="st-acu-pass">Initial Password (min. 6 chars)</label>
+            <input type="password" id="st-acu-pass" minlength="6" class="st-auth-input" required placeholder="••••••••••••" />
+          </div>
+          <div class="st-auth-field">
+            <label for="st-acu-role">Account Role</label>
+            <select id="st-acu-role" class="st-auth-input" style="cursor: pointer;">
+              <option value="student">🎓 Student Aspirant</option>
+              <option value="admin">👑 Administrator</option>
+            </select>
+          </div>
+          <div style="display: flex; gap: 0.75rem; margin-top: 0.5rem;">
+            <button type="button" class="st-auth-btn-cancel" id="st-acu-cancel" style="flex: 1;">Cancel</button>
+            <button type="submit" class="st-auth-submit-btn" id="st-acu-submit" style="flex: 2;">Create Account</button>
+          </div>
+        </form>
+      </div>
+    `;
+
+    document.body.appendChild(overlay);
+
+    document.getElementById('st-acu-cancel')?.addEventListener('click', () => overlay.remove());
+
+    document.getElementById('st-acu-form')?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const name = document.getElementById('st-acu-name').value.trim();
+      const email = document.getElementById('st-acu-email').value.trim();
+      const password = document.getElementById('st-acu-pass').value;
+      const role = document.getElementById('st-acu-role').value;
+      const errEl = document.getElementById('st-acu-error');
+      const succEl = document.getElementById('st-acu-success');
+      const btn = document.getElementById('st-acu-submit');
+
+      if (errEl) errEl.style.display = 'none';
+      if (succEl) succEl.style.display = 'none';
+      btn.disabled = true;
+      btn.textContent = 'Creating...';
+
+      try {
+        const res = await authFetch(`${API_BASE}/admin/users`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ name, email, password, role })
+        });
+        const data = await res.json();
+        if (!res.ok || !data.success) {
+          throw new Error(data.error || 'Failed to create user');
+        }
+
+        if (succEl) {
+          succEl.textContent = `User ${email} created successfully!`;
+          succEl.style.display = 'block';
+        }
+        if (typeof onCreated === 'function') onCreated();
+        setTimeout(() => overlay.remove(), 1200);
+      } catch (err) {
+        if (errEl) {
+          errEl.textContent = '⚠️ ' + (err.message || 'Error creating user');
+          errEl.style.display = 'block';
+        }
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Create Account';
+      }
+    });
   }
 
   // -------------------------------------------------------------
@@ -1700,7 +2538,7 @@
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          ...(token ? { 'Authorization': `Basic ${token}` } : {})
+          ...(token ? { 'Authorization': `Bearer ${token}` } : {})
         },
         body: JSON.stringify({
           date: dateStr,
@@ -1719,7 +2557,7 @@
   async function syncDailyStudyTimeWithServer(dateStr = getTodayISODate()) {
     try {
       const token = getStoredAuthToken();
-      const headers = token ? { 'Authorization': `Basic ${token}` } : {};
+      const headers = token ? { 'Authorization': `Bearer ${token}` } : {};
       const res = await fetch(`${API_BASE}/daily-planner/study-time?date=${encodeURIComponent(dateStr)}`, { headers });
       if (!res.ok) return getDailyStudyTimeRecord(dateStr);
 
@@ -1778,7 +2616,7 @@
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
-              ...(token ? { 'Authorization': `Basic ${token}` } : {})
+              ...(token ? { 'Authorization': `Bearer ${token}` } : {})
             },
             body: JSON.stringify({
               date: dateStr,
@@ -7922,16 +8760,50 @@
   // -------------------------------------------------------------
   // 8. MkDocs Material Life-Cycle Bootstrapper
   // -------------------------------------------------------------
-  const boot = () => {
-    injectHeaderLockBtn();
-    if (!getStoredAuthToken()) {
+  const boot = async () => {
+    const token = getStoredAuthToken();
+    if (!token) {
+      injectHeaderUserNav(null);
       showAuthVaultModal();
       return;
     }
-    document.body.classList.remove('st-vault-locked');
-    injectSubjectNoteWidget();
-    enhanceChapterPriorityTracker();
-    renderPrepDashboard();
+
+    try {
+      const vRes = await fetch(`${API_BASE}/auth/verify`, {
+        headers: { 'Authorization': `Bearer ${token}` }
+      });
+      if (!vRes.ok) {
+        clearStoredAuth();
+        injectHeaderUserNav(null);
+        showAuthVaultModal();
+        return;
+      }
+      const vData = await vRes.json();
+      if (vData.success && vData.user) {
+        setStoredAuth(token, vData.user);
+        document.body.classList.remove('st-vault-locked');
+        injectHeaderUserNav(vData.user);
+        injectSubjectNoteWidget();
+        enhanceChapterPriorityTracker();
+        renderPrepDashboard();
+      } else {
+        clearStoredAuth();
+        injectHeaderUserNav(null);
+        showAuthVaultModal();
+      }
+    } catch (err) {
+      // Offline fallback: check cached user
+      const user = getStoredUser();
+      if (user) {
+        document.body.classList.remove('st-vault-locked');
+        injectHeaderUserNav(user);
+        injectSubjectNoteWidget();
+        enhanceChapterPriorityTracker();
+        renderPrepDashboard();
+      } else {
+        showAuthVaultModal();
+      }
+    }
   };
 
   if (typeof document$ !== 'undefined') {
