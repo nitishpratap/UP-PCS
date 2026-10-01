@@ -1451,6 +1451,26 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/23_Political_Map_Geography/">Open chapter</a>
   </div>
 </details>
+<details class="ct-row" data-ct-id="geography-03-Drainage-System-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-03-Drainage-System-md" aria-label="Mark Topic 3 — Drainage System done">
+    <span class="ct-title">Topic 3 — Drainage System</span>
+    <span class="ct-pills">61 Qs · UPPCS 52 · UKPCS 10</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/03_Drainage_System/#complete-pyq-bank-ghatnachakra-drainage-system">Ghatnachakra Drainage System</a> — 36 questions (UPPCS 27 · UKPCS 10)</li>
+      <li><a href="../subjects/geography/03_Drainage_System/#31-himalayan-rivers">Himalayan rivers</a> — 11 questions (UPPCS 11)</li>
+      <li><a href="../subjects/geography/03_Drainage_System/#34-river-features-and-patterns">River features and patterns</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/geography/03_Drainage_System/#30-drainage-framework">Drainage framework</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/03_Drainage_System/#33-rivers-of-uttar-pradesh">Rivers of Uttar Pradesh</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/03_Drainage_System/#complete-pyq-bank">PYQ Bank</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/03_Drainage_System/#32-peninsular-rivers">Peninsular rivers</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/03_Drainage_System/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="geography-04-Lakes-Waterfalls-Water-Resources-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-04-Lakes-Waterfalls-Water-Resources-md" aria-label="Mark Topic 4 — Lakes, Waterfalls &amp; Water Resources done">
@@ -1578,25 +1598,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/02_Climate_of_India/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="geography-08-Minerals-Energy-Industry-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-08-Minerals-Energy-Industry-md" aria-label="Mark Topic 8 — Minerals, Energy &amp; Industry done">
-    <span class="ct-title">Topic 8 — Minerals, Energy &amp; Industry</span>
-    <span class="ct-pills">41 Qs · UPPCS 40 · UKPCS 1</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#complete-pyq-bank-minerals-energy-industry-20182025">Minerals, Energy &amp; Industry (2018–2025)</a> — 35 questions (UPPCS 34 · UKPCS 1)</li>
-      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n6-industry-regions-corridors">Industry, Regions, Corridors</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n3-coal">Coal</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n2-non-metallic-and-atomic-minerals">Non-metallic and atomic minerals</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n4-petroleum-gas-refineries">Petroleum, gas, refineries</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n5-power-thermal-hydro-nuclear-renewables">Power: thermal, hydro, nuclear, renewables</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/08_Minerals_Energy_Industry/">Open chapter</a>
-  </div>
-</details>
 <details class="ct-row" data-ct-id="geography-17-World-Rivers-and-Lakes-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-17-World-Rivers-and-Lakes-md" aria-label="Mark Topic 17 — World Rivers &amp; Lakes done">
@@ -1615,25 +1616,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/geography/17_World_Rivers_and_Lakes/#n2-world-deltas">World deltas</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/17_World_Rivers_and_Lakes/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="geography-03-Drainage-System-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-03-Drainage-System-md" aria-label="Mark Topic 3 — Drainage System done">
-    <span class="ct-title">Topic 3 — Drainage System</span>
-    <span class="ct-pills">25 Qs · UPPCS 25 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/03_Drainage_System/#31-himalayan-rivers">Himalayan rivers</a> — 11 questions (UPPCS 11)</li>
-      <li><a href="../subjects/geography/03_Drainage_System/#34-river-features-and-patterns">River features and patterns</a> — 5 questions (UPPCS 5)</li>
-      <li><a href="../subjects/geography/03_Drainage_System/#30-drainage-framework">Drainage framework</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/geography/03_Drainage_System/#33-rivers-of-uttar-pradesh">Rivers of Uttar Pradesh</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/03_Drainage_System/#complete-pyq-bank">PYQ Bank</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/03_Drainage_System/#32-peninsular-rivers">Peninsular rivers</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/03_Drainage_System/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="geography-01-Indian-Physical-Geography-Mountains-Hills-md" data-group="high" data-uk="0">
@@ -1682,6 +1664,25 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
 
 <h3 class="ct-group-title">Medium Important</h3>
 <div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="geography-08-Minerals-Energy-Industry-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-08-Minerals-Energy-Industry-md" aria-label="Mark Topic 8 — Minerals, Energy &amp; Industry done">
+    <span class="ct-title">Topic 8 — Minerals, Energy &amp; Industry</span>
+    <span class="ct-pills">41 Qs · UPPCS 40 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#complete-pyq-bank-minerals-energy-industry-20182025">Minerals, Energy &amp; Industry (2018–2025)</a> — 35 questions (UPPCS 34 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n6-industry-regions-corridors">Industry, Regions, Corridors</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n3-coal">Coal</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n2-non-metallic-and-atomic-minerals">Non-metallic and atomic minerals</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n4-petroleum-gas-refineries">Petroleum, gas, refineries</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n5-power-thermal-hydro-nuclear-renewables">Power: thermal, hydro, nuclear, renewables</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/08_Minerals_Energy_Industry/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="geography-21-World-Minerals-Energy-md" data-group="medium" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-21-World-Minerals-Energy-md" aria-label="Mark Topic 21 — World Minerals &amp; Energy done">
@@ -1799,13 +1800,13 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-05-Soils-md" aria-label="Mark Topic 5 — Soils done">
     <span class="ct-title">Topic 5 — Soils</span>
-    <span class="ct-pills">9 Qs · UPPCS 9 · UKPCS 0</span>
+    <span class="ct-pills">23 Qs · UPPCS 21 · UKPCS 2</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
+      <li><a href="../subjects/geography/05_Soils/#complete-pyq-bank-ghatnachakra-the-soil-uppcs-ukpcs-standard">Ghatnachakra The Soil</a> — 16 questions (UPPCS 14 · UKPCS 2)</li>
       <li><a href="../subjects/geography/05_Soils/#n1a-world-soil-belts-phytotypes">World soil belts · phytotypes</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/05_Soils/#complete-pyq-bank-ghatnachakra-the-soil-uppcs-ukpcs-standard">Ghatnachakra The Soil</a> — 2 questions (UPPCS 2)</li>
       <li><a href="../subjects/geography/05_Soils/#n2-soil-types">Soil Types</a> — 2 questions (UPPCS 2)</li>
       <li><a href="../subjects/geography/05_Soils/#n1-formation-profile-classification">Formation, Profile, Classification</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/geography/05_Soils/#n3-texture-fertility-erosion-conservation">Texture, Fertility, Erosion, Conservation</a> — 1 question (UPPCS 1)</li>

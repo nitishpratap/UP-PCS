@@ -91,14 +91,14 @@ function main() {
 
   let js = fs.readFileSync(STUDY_TRACKER, 'utf8');
   const compact = JSON.stringify(catalog);
+  if (!/const CHAPTER_CATALOG = \{[\s\S]*?\};/.test(js)) {
+    console.error('ERROR: CHAPTER_CATALOG pattern not found in study-tracker.js');
+    process.exit(1);
+  }
   const replaced = js.replace(
     /const CHAPTER_CATALOG = \{[\s\S]*?\};/,
     `const CHAPTER_CATALOG = ${compact};`
   );
-  if (replaced === js) {
-    console.error('ERROR: CHAPTER_CATALOG assignment not found/replaced in study-tracker.js');
-    process.exit(1);
-  }
   fs.writeFileSync(STUDY_TRACKER, replaced, 'utf8');
   console.log('Updated CHAPTER_CATALOG in study-tracker.js');
 }

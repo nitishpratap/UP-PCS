@@ -41,7 +41,7 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 ---
 
 
-## Consolidated — 38 Must-Score Facts
+## Consolidated — 48 Must-Score Facts
 
 1. About **77%** of India’s drainage **area** faces the **Bay of Bengal**, about **23%** faces the **Arabian Sea**, and inland basins cover about **8%** of area. Over **90% of river water** still goes to the Bay of Bengal.
 2. Water-share fact: **Brahmaputra about 40%**, **Ganga about 25%**, **Godavari about 6%**. Brahmaputra leads water volume; Ganga leads Indian basin area.
@@ -83,6 +83,17 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 36. The Indian **trellis** ground is the old folded belt of **Singhbhum** (Chotanagpur). **Rectangular** streams follow joints on the **Vindhyan** rocks.
 37. **Centripetal** streams drain into **Loktak** and into **Sambhar** (Mendha, Rupangarh).
 38. The **Sharavati** follows a **parallel** pattern down the Western Ghats.
+39. **Ganga Alluvial Depth:** Depth of Gangetic alluvium below the surface is estimated at **4,000–6,000 metres** according to Oldham, and ~**2,000 metres** according to Glennie.
+40. **Son River Origin & Catchment:** Originates from Amarkantak Hill (Sonmuda in Anuppur MP / Sonbachharwar in Gaurela-Pendra-Marwahi CG). Catchment area is **70,055 sq km**, the largest among Ganga's major tributaries (vs Gandak ~45,731, Ramganga ~30,811, Mahananda ~23,700). Flows northward to join Ganga near Patna.
+41. **Kaimur Water Divide:** The **Kaimur Range** acts as the primary watershed dividing the Son system to the south from the Tons/Yamuna system to the north.
+42. **Gandak & Triveni Canal:** In Nepal, the Gandak is known as the **Gandaki or Narayani**, formed by the confluence of the Kali Gandak and Trishulganga. The **Triveni Canal** draws water from the Gandak in West Champaran (Bihar). Gandak joins Ganga at Sonpur (near Patna) and does **not** flow through Uttar Pradesh.
+43. **Ganga in Bihar:** Passes through **12 districts**; maximum length is in **Patna (~99 km)**, followed by **Bhagalpur (~97 km)**. Punpun joins the Ganga at **Fatuha**.
+44. **Kosi System & Kanwar Lake Trap:** Kosi is formed by 7 Himalayan streams (Arun being principal); it does **not** originate from glaciers. Average elevation of the Kosi plain is **30–40 metres**. **Kanwar Lake** (Begusarai, Bihar) is an oxbow lake formed by a cutoff meander of the **Burhi Gandak**, NOT the Gandak.
+45. **Eastern Ghats Origins:** **Nagavali** and **Vamsadhara** rise from the Eastern Ghats. By contrast, **Brahmani** and **Subarnarekha** (origin: Nagri village near Ranchi) originate from the Chotanagpur / Ranchi Plateau.
+46. **Punjab Doabs & Chenab Headwaters:** **Chandra** (Chandra Tal) and **Bhaga** (Bara Lacha La) unite at **Tandi** in the Lahaul valley to form the **Chandrabhaga (Chenab)**. Doabs: **Bist** (Beas–Sutlej), **Bari** (Beas–Ravi), **Rechna** (Ravi–Chenab), **Chaj** (Chenab–Jhelum).
+47. **Gandikota Canyon & S.P. Chatterjee Division:** The spectacular Gandikota canyon ("Grand Canyon of India") in Kadapa (AP) was carved by the **Pennar River**. In S.P. Chatterjee's physiographic division, the Mahanadi Basin is classified under the **Northern Deccan Plateau**.
+48. **Key City Riverbank Anchors:** **Kanpur** is the largest city on the Ganga; **Uttarkashi** is on the Bhagirathi (before Ganga forms); **Leh** is on the **right bank** of the Indus; **Pahalgam** is on the **Lidder**; **Hampi** is on the **Tungabhadra** (not Malaprabha); **Pandharpur** is on the **Chandrabhaga (Bhima)**; **Govindghat** is on the **Alaknanda / Lakshman Ganga** (not Mandakini).
+
 
 ---
 
@@ -333,6 +344,18 @@ D. Only 1
 - **Left-bank (Himalayan) tributaries** join from the north: Ramganga, Gomti, Ghaghara, Gandak, Kosi, Mahananda.
 - **Right-bank tributaries** come mainly from the peninsula: Yamuna, Son, Damodar (via Hooghly).
 
+
+#### In-depth Tributary Profiles & Ganga Traps
+- **Ganga Alluvial Depth:** According to R.D. Oldham, the depth of alluvium in the Indo-Gangetic trough is about **4,000 to 6,000 metres**, while gravity surveys by E.A. Glennie estimated it at ~**2,000 metres**.
+- **Son River Origin & Drainage:** Rises on the Amarkantak plateau (Sonmuda in Anuppur district, MP; geologically also recognized from Sonbachharwar/Sonekund in Pendra Road, Gaurela-Pendra-Marwahi, CG). Its catchment area is **70,055 sq km**, highest among major Ganga feeders. It flows northward to meet the Ganga near Patna.
+- **Kaimur Range:** Acts as a decisive watershed separating the Son basin on the south from the Tons (Yamuna system) on the north.
+- **Gandak (Narayani) & Triveni Canal:** Originates in Nepal Himalayas between Dhaulagiri and Everest as the Kaligandak and Trishulganga. Known as the **Gandaki** or **Narayani** in Nepal. The **Triveni Canal** is constructed on the Gandak in West Champaran (Bihar). It joins the Ganga at Sonpur near Patna and does **not** flow through Uttar Pradesh.
+- **Ganga in Bihar:** Traverses **12 districts** (Saran, Buxar, Bhojpur, Patna, Vaishali, Samastipur, Begusarai, Lakhisarai, Munger, Khagaria, Bhagalpur, Katihar). Length is longest in **Patna (~99 km)** and second in **Bhagalpur (~97 km)**.
+- **Punpun River:** Originates in Chotanagpur Plateau (Jharkhand), flows through Aurangabad district of Bihar, and merges into the Ganga at **Fatuha** (Patna district).
+- **Kosi Plain:** Formed by the confluence of 7 streams (principal: Arun Kosi, Sun Kosi, Tamur Kosi). Drains northern slopes of Himalayas in Tibet and southern slopes in Nepal; does **not** have its origin in glaciers. Joins Ganga at Kursela (Katihar). Average elevation of Kosi plain is **30 to 40 metres**.
+- **Kanwar Lake (Begusarai):** Asia's largest freshwater oxbow lake, formed by a cutoff meander of the **Burhi Gandak** River, NOT the main Gandak.
+
+
 #### Where major rivers meet the Ganga
 
 | Tributary | Bank | Meets Ganga at / near |
@@ -451,6 +474,16 @@ D. 2 4 1 3
 - The main peninsular water divide is the **Western Ghats**. Most large rivers flow **east** to the Bay of Bengal and build **deltas**.
 - **Narmada, Tapi, and Mahi** flow **west** to the Arabian Sea and mostly build **estuaries**, not deltas. They run short, steep courses through hard rock / rift valleys and carry less delta-building silt.
 - Peninsular rivers are mostly rain-fed, with fixed courses and fewer meanders than Himalayan rivers. Narmada and Tapi in rift valleys are the main structural exceptions.
+
+
+#### Eastern Ghats vs Chotanagpur Origins
+- **Rivers originating from Eastern Ghats:** **Nagavali** and **Vamsadhara** rise directly from the Eastern Ghats.
+- **Rivers originating from Chotanagpur Plateau:** **Subarnarekha** (rises near Nagri village in Ranchi district; Hundru falls; joined by Kharkai and Kanchi), **Damodar** (rises from Khamarpat hill), and **North/South Koel**.
+- **Mahanadi Confluences & Classification:** The holy **Chandrahasini Devi Temple** is situated at the confluence of the **Mand** and **Mahanadi** rivers at Chandrapur (Chhattisgarh). In S.P. Chatterjee's 8-fold physiographic scheme of India, the Mahanadi Basin is grouped under the **Northern Deccan Plateau**.
+- **Gandikota Canyon:** Known as the "Grand Canyon of India", sculpted through quartzite rocks by the **Pennar River** in Kadapa (YSR) district of Andhra Pradesh.
+- **Kolleru Lake:** Freshwater lake in Andhra Pradesh situated between the Godavari and Krishna deltas; it is fed directly by the **Budameru** and **Tammileru** streams (indirectly connected to Krishna and Godavari systems).
+- **Damodar Rift Valley & Coal Belts:** Flows through a downwarped fault valley across Jharkhand and West Bengal. Major tributaries include **Barakar**, **Jamunia**, **Barki**, and **Konar**. The **Eden Canal** (1938) was constructed from the Damodar for irrigation. The river valley hosts over 90% of India's Gondwana coal reserves (along with Son, Mahanadi, and Godavari valleys). Between Giridih and Durgapur, heavy industrial and mining effluents have turned the Damodar into a **biological desert**.
+
 
 ### Godavari
 
@@ -758,6 +791,19 @@ The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 | **Rajghat** | Betwa (UP–MP) |
 
 > **Teaching note:** **Pandoh** stands on the **Beas**, not the Ravi. **Srisailam** stands on the **Krishna**, not the Tungabhadra. **Mettur (Stanley)** stands on the **Kaveri** (कावेरी), not the Krishna. Hyderabad is not a Krishna-stem dam site. **Sardar Sarovar** is on the **Narmada** in Gujarat; it is not Indira Sagar in Madhya Pradesh and not Ukai on the Tapi.
+
+
+| Additional City / Town | River | Key Geographic Anchor |
+|------------------------|-------|-----------------------|
+| **Pahalgam** | **Lidder** | Starting point of Amarnath Yatra in Kashmir (2,130 m altitude) |
+| **Pandharpur** | **Chandrabhaga (Bhima)** | Famous pilgrimage centre of Vithoba in Maharashtra |
+| **Hampi** | **Tungabhadra** | Historic capital of Vijayanagara Empire (not Malaprabha) |
+| **Govindghat** | **Alaknanda + Lakshman Ganga** | Confluence point en route to Hemkund Sahib and Valley of Flowers |
+| **Gaurikund / Guptakashi / Rambara** | **Mandakini** | Pilgrim transit halts along the Mandakini gorge to Kedarnath |
+| **Bhubaneswar** | **Kuakhai** (delta branch) | Southwest of Mahanadi main stem; Cuttack is on Mahanadi |
+| **Kanpur** | **Ganga** | Largest urban agglomeration (>2.9 million) on the bank of Ganga |
+| **Leh** | **Indus (Right Bank)** | Situated strictly on the right bank of the Indus in Ladakh |
+
 
 ### Drainage patterns, rejuvenation, basins — Teaching Card
 
@@ -1358,6 +1404,2748 @@ D. None of the above
 </details>
 
 ---
+
+## Complete PYQ Bank — Ghatnachakra Drainage System
+
+Comprehensive question bank from Ghatnachakra covering the Ganga, Brahmaputra, Peninsular, and Other River systems, along with riverbank cities. All multi-exam duplicate questions have been merged into single high-yield questions with complete attribution.
+
+**Q-GC1. UP UDA/LDA Prelims 2013**
+
+The Ganga river is a classic example of:
+
+A. Antecedent Drainage System
+
+B. Consequent Drainage System
+
+C. Superimposed Drainage System
+
+D. Subsequent Drainage System
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Ganga is an antecedent river system. Antecedent streams existed prior to the uplift of the Himalayan mountain barriers and maintained their southward courses by incising deep transverse gorges through the rising landmass.
+
+</details>
+
+---
+
+**Q-GC2. UKPCS Prelims 2005 / UPPCS Mains 2016 / UK Lower Sub. Prelims 2010**
+
+In Bangladesh, the main mainstream branch of the River Ganges is known by which name?
+
+A. Meghna
+
+B. Padma
+
+C. Bhagirathi
+
+D. Mahaganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** After bifurcating at Farakka in West Bengal, the main branch of the Ganga enters Bangladesh where it is known as the Padma. The Padma is joined by the Jamuna (Brahmaputra), and further downstream by the Meghna, under whose name the combined river empties into the Bay of Bengal.
+
+</details>
+
+---
+
+**Q-GC3. MPPCS Prelims 2014**
+
+The Sundarban Delta, the largest delta in the world, is formed by which rivers?
+
+A. Ganga and Brahmaputra
+
+B. Ganga and Jhelum
+
+C. Sindhu and Jhelum
+
+D. Ganga and Sindhu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Sundarban Delta is formed by the Ganga, Brahmaputra, and Meghna river systems between the Hooghly and Meghna estuaries. Approximately two-thirds of the delta lies in Bangladesh and one-third in India.
+
+</details>
+
+---
+
+**Q-GC4. UPPCS Prelims 2005**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** The Ganga is a highly polluted river.
+**Reason (R):** The holier the river, the more polluted it is.
+
+Select the correct answer from the following code:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Assertion (A) is correct: the Ganga suffers from severe water pollution. Reason (R) is absurd and false: pollution is caused by massive discharge of untreated domestic municipal sewage and industrial effluents, not religious sanctity.
+
+</details>
+
+---
+
+**Q-GC5. BPSC Prelims 1994**
+
+According to geological estimations by R.D. Oldham, the depth of Gangetic alluvial deposits below the land surface reaches up to:
+
+A. 4000 to 6000 metres
+
+B. 600 metres
+
+C. 800 metres
+
+D. 100 metres
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** According to geologists R.D. Oldham, the depth of alluvium in the Indo-Gangetic foredeep ranges between 4,000 and 6,000 metres. E.A. Glennie's gravity surveys estimated it at ~2,000 metres.
+
+</details>
+
+---
+
+**Q-GC6. UP Lower Sub. Prelims 2002**
+
+Examine the following statements and select the correct answer using the codes given below:
+
+1. Devprayag is located at the confluence of the Bhagirathi and Alaknanda rivers.
+2. Rudraprayag is located at the confluence of the Mandakini and Alaknanda rivers.
+3. Alaknanda flows past Badrinath.
+4. Kedarnath is considered the biggest seat established by Adi Shankaracharya.
+
+Code:
+
+A. 1, 2 and 3
+
+B. 2, 3 and 4
+
+C. 1, 2 and 4
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1, 2, and 3 are correct. Statement 4 is incorrect: Adi Shankaracharya established his northern monastery (*Jyotirmath*) at Joshimath near Badrinath, not at Kedarnath (Kedarnath is his Samadhi Sthal).
+
+</details>
+
+---
+
+**Q-GC7. UP UDA/LDA Prelims 2013**
+
+Match List-I (Place) with List-II (Confluence of Rivers) and select the correct code:
+
+**List-I:**
+A. Rudraprayag
+B. Nandprayag
+C. Karnaprayag
+D. Devprayag
+
+**List-II:**
+1. Bhagirathi - Alaknanda
+2. Mandakini - Alaknanda
+3. Alaknanda - Pindar
+4. Nandakini - Alaknanda
+
+Codes:
+
+A. A-1, B-3, C-2, D-4
+
+B. A-2, B-4, C-3, D-1
+
+C. A-3, B-2, C-4, D-1
+
+D. A-4, B-1, C-3, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Rudraprayag = Mandakini + Alaknanda (2); Nandprayag = Nandakini + Alaknanda (4); Karnaprayag = Pindar + Alaknanda (3); Devprayag = Bhagirathi + Alaknanda (1).
+
+</details>
+
+---
+
+**Q-GC8. UKPCS Prelims 2006**
+
+With which main river drainage system is the Mandakini river associated?
+
+A. Alaknanda
+
+B. Bhagirathi
+
+C. Yamuna
+
+D. Dhauliganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Mandakini river originates from Chorabari Glacier near Kedarnath and merges into the Alaknanda at Rudraprayag.
+
+</details>
+
+---
+
+**Q-GC9. UKPCS Prelims 2016**
+
+The Eastern Dhauliganga (Poorvi Dhauliganga) is a tributary of which river?
+
+A. Alaknanda
+
+B. Kali river
+
+C. Gomti river
+
+D. Sharda river
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Eastern Dhauliganga originates in the Pithoragarh district of Uttarakhand and is a tributary of the Kali River (which flows along the Indo-Nepal border from Kalapani). It should not be confused with Western Dhauliganga which joins Alaknanda at Vishnuprayag.
+
+</details>
+
+---
+
+**Q-GC10. UKPCS Prelims 2006**
+
+Name the river which flows between Kedarnath and Rudraprayag:
+
+A. Bhagirathi
+
+B. Alaknanda
+
+C. Saryu
+
+D. Mandakini
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Mandakini flows down from Kedarnath through Gaurikund and Sonprayag, joining the Alaknanda at Rudraprayag.
+
+</details>
+
+---
+
+**Q-GC11. UP UDA/LDA Prelims 2013**
+
+Along the bank of which of the following rivers is the famous shrine of Badrinath located?
+
+A. Alaknanda
+
+B. Bhagirathi
+
+C. Mandakini
+
+D. Ganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The sacred Badrinath temple is situated on the right bank of the Alaknanda river. Kedarnath is situated on the Mandakini.
+
+</details>
+
+---
+
+**Q-GC12. BPSC Prelims 1995 / MPPCS Prelims 2018**
+
+Which is the longest flowing river within India?
+
+A. Brahmaputra
+
+B. Ganga
+
+C. Godavari
+
+D. Indus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Ganga is the longest river inside India, flowing for 2,525 km. While Indus (3,180 km) and Brahmaputra (2,900 km) are longer overall, the bulk of their lengths lie outside India in Pakistan and Tibet.
+
+</details>
+
+---
+
+**Q-GC13. MPPCS Prelims 2013 / UKPCS Prelims 2006 / CGPCS Prelims 2011**
+
+The Bhagirathi river emerges from:
+
+A. Gaumukh
+
+B. Gangotri
+
+C. Tapovan
+
+D. Vishnuprayag
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Bhagirathi emerges from the snout of the Gangotri Glacier at Gaumukh (~3,920 m altitude) in Uttarkashi district of Uttarakhand.
+
+</details>
+
+---
+
+**Q-GC14. UP Lower Sub. Prelims 2008**
+
+Identify the only tributary of River Ganga which rises in the plains:
+
+A. Son
+
+B. Sharda or Saryu
+
+C. Gomti
+
+D. Ramganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Gomti originates from Gomat Taal (Fulhar Lake) near Madho Tanda in Pilibhit district of Uttar Pradesh. It is the only tributary of the Ganga that originates in the plains rather than in mountains.
+
+</details>
+
+---
+
+**Q-GC15. UPPCS Prelims 2015**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Yamuna becomes a dead river between Delhi and Agra for most of the year.
+**Reason (R):** Yamuna is a non-perennial river.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Assertion (A) is true: heavy sewage and industrial waste discharge render the Yamuna biologically dead between Delhi and Agra outside the monsoon. Reason (R) is false: Yamuna is a glacier-fed perennial river originating at the Yamunotri Glacier.
+
+</details>
+
+---
+
+**Q-GC16. UPPSC GIC 2010**
+
+Which one of the following rivers is NOT a tributary of the Yamuna?
+
+A. Betwa
+
+B. Chambal
+
+C. Ken
+
+D. Ramganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Ramganga originates in the Dudhatoli range in Pauri Garhwal and joins the Ganga directly near Kannauj. Chambal, Betwa, and Ken are direct tributaries of the Yamuna.
+
+</details>
+
+---
+
+**Q-GC17. UK UDA/LDA Mains 2006**
+
+The river Yamuna has its source in the Yamunotri Glacier situated near which mountain peak?
+
+A. Chaukhamba
+
+B. Bandarpunch
+
+C. Nanda Devi
+
+D. Neelkanth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Yamunotri Glacier is situated on the western slopes of the Bandarpunch Peak (~6,316 m) in the Uttarkashi district of Uttarakhand.
+
+</details>
+
+---
+
+**Q-GC18. MPPCS Prelims 2008**
+
+Which of the following rivers does not fall into the river Yamuna?
+
+A. Ken
+
+B. Betwa
+
+C. Son
+
+D. Chambal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Son river flows northward from Amarkantak and joins the Ganga directly near Patna (Bihar). Ken, Betwa, and Chambal join the Yamuna.
+
+</details>
+
+---
+
+**Q-GC19. MPPCS Prelims 2018**
+
+Which one of the following rivers does not join the river Chambal?
+
+A. Kshipra
+
+B. Kali Sindh
+
+C. Betwa
+
+D. Parvati
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Betwa rises in the Vindhyan Range in Raisen (MP) and flows into the Yamuna near Hamirpur (UP). Kshipra, Kali Sindh, and Parvati are tributaries of the Chambal.
+
+</details>
+
+---
+
+**Q-GC20. MPPCS Prelims 2020 / UP RO/ARO Prelims 2014**
+
+The Betwa river originates from which hill range and joins which river?
+
+A. Aravalli Hills — joins Ganga
+
+B. Satpura Hills — joins Narmada
+
+C. Vindhyan Hills — joins Yamuna
+
+D. Western Ghats — joins Son
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Betwa rises in the Vindhyan Range near Kumra village in Raisen district (MP) and joins the Yamuna near Hamirpur in Uttar Pradesh.
+
+</details>
+
+---
+
+**Q-GC21. UK Lower Sub. Prelims 2010 / UKPCS Prelims 2012**
+
+Which of the following major tributaries of the Ganga system flows Northwards to join the Ganga on its right bank?
+
+A. Kosi
+
+B. Ghaghara
+
+C. Son
+
+D. Gandak
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Son originates near Amarkantak in Madhya Pradesh/Chhattisgarh and flows northward down the plateau slope to join the Ganga near Patna. Kosi, Ghaghara, and Gandak are left-bank Himalayan tributaries flowing southward.
+
+</details>
+
+---
+
+**Q-GC22. MPPCS Prelims 2016**
+
+Which mountain range acts as a watershed dividing the Yamuna/Tons drainage on the north from the Son drainage on the south?
+
+A. Bhander Range
+
+B. Kaimur Range
+
+C. Maikal Range
+
+D. Mukundwara Range
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Kaimur Range forms the prominent watershed dividing the Son river basin on the south from the Tons and Ken basins (Yamuna drainage) on the north.
+
+</details>
+
+---
+
+**Q-GC23. UP RO/ARO Mains 2017**
+
+Among the following tributaries of the Ganga, the catchment area is maximum for:
+
+A. Mahananda
+
+B. Son
+
+C. Ramganga
+
+D. Gandak
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Among the options: Son catchment area is 70,055 sq km; Gandak is ~45,731 sq km; Ramganga is ~30,811 sq km; and Mahananda is ~23,700 sq km.
+
+</details>
+
+---
+
+**Q-GC24. BPSC Prelims 2023**
+
+In Nepal, the Gandak River is also known by which of the following names?
+
+A. Burhi Gandak
+
+B. Mahananda
+
+C. Narayani
+
+D. Punpun
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** In Nepal, the Gandak is referred to as the Gandaki or Narayani. It is formed by the union of the Kaligandak and Trishulganga between Dhaulagiri and Mount Everest.
+
+</details>
+
+---
+
+**Q-GC25. BPSC Prelims 2019**
+
+Among the following rivers, which one is a sub-tributary within the Ganga river basin?
+
+A. Sankh
+
+B. North Koel
+
+C. South Koel
+
+D. Barakar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both North Koel (which joins the Son) and Barakar (which joins the Damodar $\to$ Hooghly) belong to the Ganga basin. Official BPSC answer was More than one of the above / (e). North Koel is a prime right-bank tributary of the Son.
+
+</details>
+
+---
+
+**Q-GC26. BPSC Prelims 2019**
+
+How many administrative districts of Bihar are situated along the banks of the river Ganga?
+
+A. 21
+
+B. 17
+
+C. 12
+
+D. 6
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The river Ganga passes through 12 districts of Bihar: Saran, Buxar, Bhojpur, Patna, Vaishali, Samastipur, Begusarai, Lakhisarai, Munger, Khagaria, Bhagalpur, and Katihar.
+
+</details>
+
+---
+
+**Q-GC27. BPSC Prelims 2019**
+
+In which district of Bihar does the river Ganga have the longest stretch of its course?
+
+A. Bhagalpur
+
+B. Katihar
+
+C. Patna
+
+D. Begusarai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Ganga flows for approximately 99 km in Patna district, the longest stretch among all 12 districts of Bihar. Bhagalpur comes second with ~97 km.
+
+</details>
+
+---
+
+**Q-GC28. UP RO/ARO Prelims 2021**
+
+Which of the following rivers does NOT flow through the state of Uttar Pradesh?
+
+A. Son River
+
+B. Hindon River
+
+C. Gandak River
+
+D. Sharda River
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Gandak flows from Nepal directly into northern Bihar (West Champaran) and joins the Ganga near Sonpur/Patna; it does not flow across Uttar Pradesh. Son (Sonbhadra), Hindon (western UP), and Sharda (Pilibhit/Lakhimpur) flow through UP.
+
+</details>
+
+---
+
+**Q-GC29. BPSC Prelims 2017**
+
+Which one of the following rivers joins the Ganga at Fatuha in Patna district?
+
+A. Son
+
+B. Punpun
+
+C. Sakri
+
+D. Balan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Punpun river originates from the Chotanagpur Plateau in Jharkhand, flows northeast through Aurangabad and Gaya districts of Bihar, and meets the Ganga at Fatuha.
+
+</details>
+
+---
+
+**Q-GC30. BPSC Prelims 2023**
+
+The average elevation of the Kosi Plain from mean sea level is approximately:
+
+A. 300 m
+
+B. 150 m
+
+C. 30 m
+
+D. 500 m
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Kosi alluvial plain in northern Bihar has a gentle slope toward the Ganga, with average elevations lying between 30 m and 40 m above mean sea level.
+
+</details>
+
+---
+
+**Q-GC31. IAS Prelims 2011**
+
+The Brahmaputra, Irrawaddy, and Mekong rivers originate in Tibet and flow in parallel mountain ranges in their upper reaches. Of these, the Brahmaputra makes a sharp 'U' turn near Namcha Barwa to enter India. This 'U' turn is due to:
+
+A. Uplift of folded Himalayan ranges
+
+B. Syntaxial bending of geologically young Himalayas
+
+C. Geo-tectonic disturbance in tertiary folded mountain chains
+
+D. Both A and B
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The dramatic knee-bend or hairpin flexure of the Brahmaputra gorge near Namcha Barwa is caused by the syntaxial bend of the geologically young Himalayas at their eastern extremity.
+
+</details>
+
+---
+
+**Q-GC32. BPSC Prelims 2015**
+
+In India, the river known as 'Yarlung Zangbo' in Tibet is called:
+
+A. Ganga
+
+B. Indus
+
+C. Brahmaputra
+
+D. Mahanadi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Yarlung Zangbo (Tsangpo) originates from the Angsi Glacier in western Tibet and is known as Siang/Dihang in Arunachal Pradesh and Brahmaputra in Assam.
+
+</details>
+
+---
+
+**Q-GC33. BPSC Prelims 1994**
+
+Near Mansarovar Lake in Tibet, which of the following rivers have their sources?
+
+A. Brahmaputra
+
+B. Sutlej
+
+C. Indus
+
+D. All the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three major Trans-Himalayan rivers—the Indus (near Bokhar Chu), the Sutlej (Rakas Tal), and the Brahmaputra (Angsi/Chemayungdung)—originate near Lake Mansarovar in Tibet.
+
+</details>
+
+---
+
+**Q-GC34. IAS Prelims 2014**
+
+Consider the following rivers:
+
+1. Barak
+2. Lohit
+3. Subansiri
+
+Which of the above flows/flow through Arunachal Pradesh?
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Lohit and Subansiri flow through Arunachal Pradesh into Assam. The Barak originates in the Manipur Hills, flows through Manipur, Nagaland, and Assam (Cachar Valley) into Bangladesh, and does not enter Arunachal Pradesh.
+
+</details>
+
+---
+
+**Q-GC35. BPSC Prelims 2000 / JPSC Prelims 2003**
+
+Manas is a major right-bank tributary of which river?
+
+A. Godavari
+
+B. Mahanadi
+
+C. Krishna
+
+D. Brahmaputra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Manas river flows from southern Bhutan and Assam into the right bank of the Brahmaputra river. The Manas National Park is situated along its banks.
+
+</details>
+
+---
+
+**Q-GC36. UPPCS Prelims 1990**
+
+The international catchment basin of the river Brahmaputra spans which countries?
+
+A. Tibet (China), Bangladesh, India, Bhutan
+
+B. India, China, Bangladesh, Pakistan
+
+C. India, Pakistan, Bangladesh, Sikkim
+
+D. Bangladesh, West Bengal, Bhutan, Nepal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Brahmaputra drainage basin covers Tibet (China), India, Bhutan, and Bangladesh.
+
+</details>
+
+---
+
+**Q-GC37. CGPCS Prelims 2023**
+
+Majuli, the largest inhabited riverine island in the world, is formed by which river?
+
+A. Ganga river
+
+B. Narmada river
+
+C. Brahmaputra river
+
+D. Indus river
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Majuli is formed by the Brahmaputra and its distributary channels in Assam. In 2016, it was declared the first river island district of India.
+
+</details>
+
+---
+
+**Q-GC38. IAS Prelims 2016**
+
+Which of the following is/are tributary/tributaries of the Brahmaputra?
+
+1. Dibang
+2. Kameng
+3. Lohit
+
+Select the correct answer using the code given below:
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are tributaries of the Brahmaputra: Dibang and Lohit join on the left bank near Sadiya; Kameng (Jiabharali) joins on the right bank.
+
+</details>
+
+---
+
+**Q-GC39. IAS Prelims 2017**
+
+With reference to the river Teesta, consider the following statements:
+
+1. The source of river Teesta is the same as that of Brahmaputra but it flows through Sikkim.
+2. River Rangeet originates in Sikkim and it is a tributary of river Teesta.
+3. River Teesta flows into the Bay of Bengal on the border of India and Bangladesh.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 3 only
+
+B. 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 1 is false: Teesta originates in Sikkim (Khangchung Chho / Tso Lhamo lake), whereas Brahmaputra originates in Tibet (Angsi glacier). Statement 2 is correct: Rangeet originates in Sikkim and joins Teesta at Tribeni. Statement 3 is false: Teesta joins the Jamuna (Brahmaputra) in Bangladesh, not the Bay of Bengal directly.
+
+</details>
+
+---
+
+**Q-GC40. UPPCS Prelims 2006**
+
+Which of the following pairs of rivers have their origins in close proximity on the Tibetan Plateau?
+
+A. Brahmaputra and Ganga
+
+B. Tapi and Beas
+
+C. Brahmaputra and Indus
+
+D. Indus and Ganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both the Brahmaputra and the Indus originate in western Tibet near Mount Kailash and Lake Mansarovar.
+
+</details>
+
+---
+
+**Q-GC41. UPPCS Prelims 2014 / UP UDA/LDA Prelims 2010 / UP RO/ARO Mains 2013**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** The rivers originating from the Western Ghats flowing west do not form deltas.
+**Reason (R):** They flow through short courses with high gradients over hard rocks.
+
+Select the correct answer from the codes given below:
+
+A. Both (A) and (R) are correct, and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are correct, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** West-flowing rivers of the Western Ghats (e.g. Sharavati, Mandovi, Periyar) traverse very short distances down steep rocky slopes. They carry negligible sediment load and discharge directly into deep tidal coastal waters as estuaries rather than building deltas. Hence (R) explains (A).
+
+</details>
+
+---
+
+**Q-GC42. UPPCS Mains 2002 / Prelims 1999**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** While all major rivers of peninsular India flow into the Bay of Bengal, the Narmada and the Tapi flow into the Arabian Sea.
+**Reason (R):** The Narmada and the Tapi rivers flow in rift valleys.
+
+Select the correct answer using the codes given below:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** While the regional slope of the Deccan plateau tilts eastward, the Narmada and Tapi flow westward because their courses are confined within deep linear structural rift valleys formed by tectonic downfaulting.
+
+</details>
+
+---
+
+**Q-GC43. IAS Prelims 2013**
+
+The Narmada river flows westward, while most other large peninsular rivers flow eastward. Why?
+
+1. It occupies a linear rift valley.
+2. It flows between the Vindhyas and the Satpuras.
+3. The land slopes to the west from Central India.
+
+Select the correct answer using the code given below:
+
+A. Only 1
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statement 1 is the primary geological reason: it occupies a structural rift valley. Statement 3 is false because peninsular India tilts eastward, not westward.
+
+</details>
+
+---
+
+**Q-GC44. MPPCS Prelims 2014 / UPPCS Prelims 2012**
+
+The Narmada Valley lies between which of the following mountain ranges?
+
+A. Bhander and Maikal
+
+B. Satpura and Aravalli
+
+C. Satpura and Vindhyachal
+
+D. Vindhyachal and Aravalli
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Narmada flows through a graben / rift valley flanked by the Vindhyachal Range on the north and the Satpura Range on the south.
+
+</details>
+
+---
+
+**Q-GC45. UPPCS Mains 2005**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** The Narmada forms a delta at its mouth.
+**Reason (R):** It flows through a rift valley.
+
+Select the correct answer from the codes given below:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Assertion (A) is false: Narmada does not form a delta; it forms an estuary. Reason (R) is true: it flows through a rift valley, which imparts high velocity and prevents alluvial deposition at its mouth.
+
+</details>
+
+---
+
+**Q-GC46. Jharkhand PCS Prelims 2021**
+
+Which of the following characteristic features is most appropriate for the course of the Narmada river?
+
+A. Volcanic origin
+
+B. Wind origin
+
+C. Structural origin
+
+D. Glacial origin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The course of the Narmada is of structural origin: it follows a major tectonic fault trough (graben/rift valley) formed during the collision and deformation of the Indian plate.
+
+</details>
+
+---
+
+**Q-GC47. CGPCS Prelims 2011**
+
+Which of the following districts of Chhattisgarh has a portion included in the Narmada river basin?
+
+A. Rajnandgaon
+
+B. Raipur
+
+C. Bastar
+
+D. Korba
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A small catchment area (~5.68%) of undivided Rajnandgaon district in western Chhattisgarh drains into the Narmada basin.
+
+</details>
+
+---
+
+**Q-GC48. BPSC Prelims 2000 / UPPCS Mains 2008 / IAS Prelims 2007**
+
+Which of the following rivers originates at the Amarkantak plateau?
+
+A. Damodar
+
+B. Mahanadi
+
+C. Narmada
+
+D. Tapi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Narmada originates from the Amarkantak Hill in the Maikal range in Madhya Pradesh (at ~1,057 m altitude). Son also originates from this plateau.
+
+</details>
+
+---
+
+**Q-GC49. UPPCS Mains 2007**
+
+In administrative and revenue gazetteer records, which place is officially cited as the origin of the Son river?
+
+A. Amarkantak in Shahdol/Anuppur district
+
+B. Sonmuda in Shahdol district
+
+C. Sonbachharwar in Bilaspur/GPM district
+
+D. Mandla Plateau
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Son river originates on the Amarkantak hill (Sonmuda in Anuppur district, MP, formerly part of Shahdol). Survey of India and local gazetteers also trace its source stream to Sonbachharwar in Gaurela-Pendra-Marwahi (Chhattisgarh).
+
+</details>
+
+---
+
+**Q-GC50. BPSC Prelims 1999**
+
+Which of the following sets consists exclusively of westward-flowing peninsular rivers?
+
+A. Narmada and Tapi
+
+B. Tapi and Rapti
+
+C. Narmada and Rapti
+
+D. Narmada, Tapi and Rapti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Narmada, Tapi, and Mahi flow westward into the Arabian Sea. The Rapti is a tributary of the Ghaghara in the Ganga system flowing southeastward.
+
+</details>
+
+---
+
+**Q-GC51. MPPCS Prelims 2023**
+
+The Purna river is a major tributary of which river?
+
+A. Narmada
+
+B. Tapi
+
+C. Sonar
+
+D. Dhasan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Purna is the chief tributary of the Tapi river, draining the Vidarbha region of Maharashtra before joining the Tapi in Jalgaon district.
+
+</details>
+
+---
+
+**Q-GC52. IAS Prelims 1996 / UP RO/ARO Mains 2013 / UPPCS Mains 2011**
+
+Which river forks into two streams and reunites multiple times downstream, forming the riverine islands of Srirangapatna, Shivasamudram, and Srirangam?
+
+A. Cauvery
+
+B. Tungabhadra
+
+C. Krishna
+
+D. Godavari
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Cauvery bifurcates and reunites at three distinct points along its course across Karnataka and Tamil Nadu, creating the sacred riverine islands of Srirangapatna, Shivasamudram, and Srirangam.
+
+</details>
+
+---
+
+**Q-GC53. BPSC Prelims 1997**
+
+The Cauvery river basin extends across which Indian States/UTs?
+
+A. Gujarat, Madhya Pradesh, Tamil Nadu
+
+B. Karnataka, Kerala, Tamil Nadu, Puducherry
+
+C. Karnataka, Kerala, Andhra Pradesh
+
+D. Madhya Pradesh, Maharashtra, Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Cauvery basin spans Tamil Nadu (56%), Karnataka (41%), Kerala (3%), and the Union Territory of Puducherry (Karaikal).
+
+</details>
+
+---
+
+**Q-GC54. UPPCS Prelims 2015**
+
+Which one of the following rivers is traditionally referred to as the 'Ganga of the South' (Dakshin Bharat ki Ganga) for its sanctity?
+
+A. Cauvery
+
+B. Krishna
+
+C. Godavari
+
+D. Narmada
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Cauvery is celebrated as the 'Ganga of the South' for its perennial character and sacred status in Tamil Nadu/Karnataka. Note: Godavari is known as 'Dakshin Ganga' or 'Vriddha Ganga' due to its grand size and age.
+
+</details>
+
+---
+
+**Q-GC55. UP UDA/LDA Prelims 2013**
+
+The historic Krishna River Water Dispute exists among which of the following states?
+
+A. Karnataka & Maharashtra
+
+B. Karnataka, Maharashtra & Andhra Pradesh (including Telangana)
+
+C. Andhra Pradesh & Tamil Nadu
+
+D. Andhra Pradesh & Maharashtra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Krishna river water dispute has existed since 1957 among Maharashtra, Karnataka, and Andhra Pradesh (now Andhra Pradesh and Telangana), adjudicated by KWDT-I (Bachawat) and KWDT-II (Brijesh Kumar).
+
+</details>
+
+---
+
+**Q-GC56. IAS Prelims 2003 / CGPCS Prelims 2020**
+
+What is the correct sequence of the rivers Godavari, Krishna, Narmada, and Mahanadi in descending order of their total length?
+
+A. Godavari > Mahanadi > Narmada > Krishna
+
+B. Godavari > Krishna > Narmada > Mahanadi
+
+C. Narmada > Godavari > Krishna > Mahanadi
+
+D. Krishna > Godavari > Narmada > Mahanadi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Lengths: Godavari (1,465 km) > Krishna (1,400 km) > Narmada (1,312 km) > Mahanadi (851 km) > Tapi (724 km).
+
+</details>
+
+---
+
+**Q-GC57. IAS Prelims 2016**
+
+Under India's National River Linking Project, which pair of rivers was successfully linked in September 2015 via the Pattiseema Lift Irrigation scheme?
+
+A. Cauvery and Tungabhadra
+
+B. Godavari and Krishna
+
+C. Mahanadi and Son
+
+D. Narmada and Tapi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Godavari–Krishna interlink was commissioned on 16 September 2015 via the Pattiseema Lift Irrigation scheme in Andhra Pradesh, diverting floodwaters from the Godavari to the Krishna.
+
+</details>
+
+---
+
+**Q-GC58. IAS Prelims 2002**
+
+What is the correct sequence of eastward-flowing peninsular rivers arranged from North to South?
+
+A. Subarnarekha, Mahanadi, Godavari, Krishna, Pennar, Cauvery, Vaigai
+
+B. Subarnarekha, Mahanadi, Krishna, Godavari, Cauvery, Pennar, Vaigai
+
+C. Mahanadi, Subarnarekha, Godavari, Cauvery, Pennar, Vaigai
+
+D. Mahanadi, Subarnarekha, Krishna, Godavari, Cauvery, Vaigai, Pennar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** From North to South: Subarnarekha $\to$ Mahanadi $\to$ Godavari $\to$ Krishna $\to$ Pennar $\to$ Cauvery $\to$ Vaigai.
+
+</details>
+
+---
+
+**Q-GC59. UPPCS Prelims 2014**
+
+The drainage systems of Peninsular South India predominantly exhibit which drainage pattern?
+
+A. Radial
+
+B. Intermittent
+
+C. Dendritic
+
+D. Trellis
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The drainage networks of the Godavari, Krishna, Mahanadi, and Cauvery develop a tree-like branching pattern known as a dendritic pattern on the uniform plateau lithology.
+
+</details>
+
+---
+
+**Q-GC60. IAS Prelims 2006**
+
+Which one of the following statements is NOT correct?
+
+A. Mahanadi River rises from the Chhattisgarh plateau
+
+B. Godavari River rises in Maharashtra
+
+C. Cauvery River rises in Andhra Pradesh
+
+D. Tapti River rises in Madhya Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statement C is incorrect: the Cauvery originates at Talakaveri in the Brahmagiri Hills in Kodagu (Coorg) district of Karnataka, NOT Andhra Pradesh.
+
+</details>
+
+---
+
+**Q-GC61. BPSC Prelims 2016**
+
+The river Tel is an important tributary of which river?
+
+A. Bagmati
+
+B. Ghaghara
+
+C. Gandak
+
+D. Mahanadi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Tel river is a principal right-bank tributary of the Mahanadi in Odisha. Other tributaries include Seonath, Hasdeo, Mand, Ib, and Jonk.
+
+</details>
+
+---
+
+**Q-GC62. UP Lower Sub. Prelims 2002**
+
+Which of the following rivers suffer from severe water deficiency / seasonal deficit in their terminal channels?
+
+A. Sabarmati and Tapi
+
+B. Krishna and Godavari
+
+C. Ganga and Brahmaputra
+
+D. Mahanadi and Narmada
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The basins of the Sabarmati and Tapi in semi-arid Gujarat and western MP/Maharashtra experience chronic seasonal water deficits and low lean-season discharge.
+
+</details>
+
+---
+
+**Q-GC63. IAS Prelims 2009**
+
+At which one of the following places do two important rivers of India originate, where one flows north to join the Ganga and the other flows west to the Arabian Sea?
+
+A. Amarkantak
+
+B. Badrinath
+
+C. Mahabaleshwar
+
+D. Nasik
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Amarkantak is the source of the Son (flowing north to the Ganga) and the Narmada (flowing west to the Arabian Sea).
+
+</details>
+
+---
+
+**Q-GC64. IAS Prelims 2009**
+
+Consider the following statements:
+
+1. There are no east-flowing rivers in Kerala.
+2. There are no west-flowing rivers in Madhya Pradesh.
+
+Which of the statement(s) given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both statements are false. Kerala has three east-flowing rivers: Kabini, Bhavani, and Pambar. Madhya Pradesh is the origin of major west-flowing rivers: Narmada, Tapi, and Mahi.
+
+</details>
+
+---
+
+**Q-GC65. UPPCS Prelims 2009**
+
+Which of the following rivers has the largest catchment basin in Peninsular India?
+
+A. Narmada
+
+B. Cauvery
+
+C. Godavari
+
+D. Krishna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Godavari has the largest catchment basin in Peninsular India, covering 3,12,812 sq km (~9.5% of India's total geographical area). Krishna is second with 2,58,948 sq km.
+
+</details>
+
+---
+
+**Q-GC66. MPPCS Prelims 2023**
+
+Which of the following rivers rises from the Trimbak Hills in Nashik district and flows west into the Arabian Sea?
+
+A. Shetrunji
+
+B. Bhadra
+
+C. Dhadhar
+
+D. Vaitarna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Vaitarna rises from the Trimbak Hills in Nashik district (Maharashtra) and flows westward for ~171 km into the Arabian Sea north of Mumbai.
+
+</details>
+
+---
+
+**Q-GC67. IAS Prelims 2015**
+
+Consider the following rivers:
+
+1. Vamsadhara
+2. Indravati
+3. Pranhita
+4. Pennar
+
+Which of the above are tributaries of the Godavari?
+
+A. 1, 2 and 3
+
+B. 2, 3 and 4
+
+C. 1, 2 and 4
+
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Indravati and Pranhita are major tributaries of the Godavari. Vamsadhara and Pennar are independent east-flowing rivers.
+
+</details>
+
+---
+
+**Q-GC68. IAS Prelims 2021**
+
+Consider the following rivers:
+
+1. Brahmani
+2. Nagavali
+3. Subarnarekha
+4. Vamsadhara
+
+Which of the above rise from the Eastern Ghats?
+
+A. 1 and 2
+
+B. 2 and 4
+
+C. 3 and 4
+
+D. 1 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Nagavali and Vamsadhara originate from the Eastern Ghats in Odisha. Brahmani and Subarnarekha originate from the Ranchi / Chotanagpur Plateau.
+
+</details>
+
+---
+
+**Q-GC69. BPSC Prelims 2023**
+
+The river Subarnarekha originates near which of the following villages in Jharkhand?
+
+A. Ormanjhi
+
+B. Mandar
+
+C. Hehal
+
+D. Nagri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Subarnarekha river originates near Nagri village in Ranchi district on the Chotanagpur Plateau in Jharkhand.
+
+</details>
+
+---
+
+**Q-GC70. CGPCS Prelims 2021**
+
+Where is the place of origin of the Malger river?
+
+A. Bailadila hills
+
+B. Abujhmar hills
+
+C. Keshkal valley
+
+D. Jhiram valley
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Malger river originates in the Bailadila hills of Dantewada (Chhattisgarh) and joins the Sabari river.
+
+</details>
+
+---
+
+**Q-GC71. CGPCS Prelims 2021**
+
+Match the rivers in List-I with their places of origin in List-II:
+
+**List-I:**
+A. Mand
+B. Banas
+C. Jonk
+D. Kelo
+
+**List-II:**
+1. Ludeng hills
+2. Sunabera plateau
+3. Devgarh hills
+4. Mainpat
+
+Codes:
+
+A. A-3, B-1, C-4, D-2
+
+B. A-4, B-3, C-2, D-1
+
+C. A-2, B-3, C-1, D-4
+
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mand = Mainpat plateau (4); Banas = Devgarh hills (3); Jonk = Sunabera plateau (2); Kelo = Ludeng hills (1).
+
+</details>
+
+---
+
+**Q-GC72. MPPCS Prelims 2016**
+
+The river Tawa is the longest tributary of which river?
+
+A. Tapi
+
+B. Narmada
+
+C. Parvati
+
+D. Mahanadi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Tawa is the longest tributary of the Narmada. It rises in the Mahadeo Hills of the Satpura range in Chhindwara district (MP) and joins the Narmada at Bandra Bhan.
+
+</details>
+
+---
+
+**Q-GC73. CGPCS Prelims 2019**
+
+Which religious Shaktipeeth temple is situated at the confluence of the Mand and Mahanadi rivers?
+
+A. Didineshwari Devi
+
+B. Angar Moti
+
+C. Chandrahasini Devi
+
+D. Mahamaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Maa Chandrahasini Devi Temple is located at Chandrapur in Sakti/Janjgir-Champa district (Chhattisgarh) at the confluence of the Mand and Mahanadi rivers.
+
+</details>
+
+---
+
+**Q-GC74. CGPCS Prelims 2017**
+
+In the physiographic division of India by Professor S.P. Chatterjee, in which sub-division of the Peninsular Plateau is the Mahanadi Basin placed?
+
+A. The Northern Deccan Plateau
+
+B. The Southern Deccan Plateau
+
+C. The Eastern Plateau
+
+D. The Eastern Ghats
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Professor S.P. Chatterjee classified the Mahanadi Basin under the Northern Deccan Plateau subdivision.
+
+</details>
+
+---
+
+**Q-GC75. BPSC Prelims 2022**
+
+Compare the Himalayan rivers with the Peninsular rivers based on the following statements:
+
+1. Most of the Himalayan rivers are perennial, whereas most of the Peninsular rivers are rain-fed.
+2. The gradient of Himalayan rivers is steeper than Peninsular rivers.
+3. Peninsular rivers cause more erosion than Himalayan rivers.
+
+Choose the correct answer:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct. Statement 3 is false: Himalayan rivers possess youthful topography, steeper gradients, and higher discharge, causing far greater erosional activity and sediment transport than graded Peninsular rivers.
+
+</details>
+
+---
+
+**Q-GC76. IAS Prelims 2021**
+
+With reference to the Indus river system, of the following four rivers, three pour into one which joins the Indus directly. Which one is that river?
+
+A. Chenab
+
+B. Jhelum
+
+C. Ravi
+
+D. Sutlej
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Jhelum and Ravi join Chenab; Chenab joins Sutlej; and the combined Panjnad (Sutlej) empties directly into the Indus above Mithankot in Pakistan.
+
+</details>
+
+---
+
+**Q-GC77. BPSC Prelims 2022**
+
+At the end of its mountainous journey near Attock in Pakistan, the Indus River is joined by which major river flowing from Afghanistan?
+
+A. Helmand River
+
+B. Amu Darya
+
+C. Kabul River
+
+D. Hari River
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Near Attock, Pakistan, the Kabul River joins the Indus on its right bank from eastern Afghanistan.
+
+</details>
+
+---
+
+**Q-GC78. BPSC Prelims 2020**
+
+The Chandra and Bhaga rivers originate and flow through which valley before meeting at Tandi to form the Chenab?
+
+A. Spiti
+
+B. Ladakh
+
+C. Lahaul
+
+D. Kargil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Chandra (from near Chandra Tal) and the Bhaga (from Bara Lacha La) flow through the Lahaul Valley in Himachal Pradesh and unite at Tandi to form the Chandrabhaga (Chenab).
+
+</details>
+
+---
+
+**Q-GC79. UP RO/ARO Mains 2014 / UPPCS Mains 2012**
+
+Which of the following rivers of India cuts across all ranges of the Himalayas in deep gorges?
+
+A. Ravi
+
+B. Sutlej
+
+C. Beas
+
+D. Chenab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Sutlej originates beyond the Great Himalayas at Rakas Tal in Tibet and enters India through Shipki La, incising deep gorges across all three Himalayan ranges as an antecedent stream.
+
+</details>
+
+---
+
+**Q-GC80. UKPCS Prelims 2021**
+
+Which of the following rivers is NOT a direct tributary of the river Sutlej?
+
+A. Baspa
+
+B. Spiti
+
+C. Ravi
+
+D. Beas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Ravi joins the Chenab at Sarai Sidhu in Pakistan, not the Sutlej. Baspa, Spiti, and Beas are direct tributaries of the Sutlej.
+
+</details>
+
+---
+
+**Q-GC81. UPPCS Prelims Re-Exam 2015**
+
+A river by the name of 'Doodh-Ganga' flows in which of the following states/UTs?
+
+A. Jammu and Kashmir and Uttarakhand
+
+B. Himachal Pradesh
+
+C. West Bengal
+
+D. Assam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rivers named Doodh Ganga flow in Jammu & Kashmir (tributary of Jhelum), Uttarakhand, and also in Maharashtra/Karnataka (tributary of Krishna). Official key accepted Jammu & Kashmir.
+
+</details>
+
+---
+
+**Q-GC82. UP UDA/LDA Spl. Prelims 2010**
+
+Which one of the following is NOT a tributary of the Krishna river?
+
+A. Bhima
+
+B. Doni
+
+C. Tel
+
+D. Tungabhadra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tel is a tributary of the Mahanadi in Odisha, not of the Krishna. Major tributaries of the Krishna include Koyna, Ghataprabha, Malaprabha, Bhima, and Tungabhadra.
+
+</details>
+
+---
+
+**Q-GC83. UPPCS Mains 2009**
+
+The Hagari river (also known as Vedavathi) is a tributary of which river?
+
+A. Bhima
+
+B. Godavari
+
+C. Krishna
+
+D. Tungabhadra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Hagari (formed by the union of Veda and Avathi rivers in the Western Ghats) flows through Karnataka and Andhra Pradesh to join the Tungabhadra river.
+
+</details>
+
+---
+
+**Q-GC84. IAS Prelims 1996**
+
+What is the correct sequence of the following rivers when arranged in North-to-South direction?
+
+1. Kishanganga
+2. Ganga
+3. Wainganga
+4. Penganga
+
+Code:
+
+A. 1, 2, 3, 4
+
+B. 2, 1, 3, 4
+
+C. 2, 1, 4, 3
+
+D. 1, 2, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** From North to South: Kishanganga (Jammu & Kashmir, ~34°N) $\to$ Ganga (Uttarakhand/UP/Bihar, ~25°–30°N) $\to$ Wainganga (Madhya Pradesh/Maharashtra, ~20°N) $\to$ Penganga (Maharashtra, ~19°N).
+
+</details>
+
+---
+
+**Q-GC85. IAS Prelims 2010**
+
+Which of the following groups of rivers pass through Himachal Pradesh?
+
+A. Beas and Chenab only
+
+B. Beas and Ravi only
+
+C. Chenab, Ravi and Sutlej only
+
+D. Beas, Chenab, Ravi, Sutlej and Yamuna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All five rivers—Beas, Chenab, Ravi, Sutlej, and Yamuna (Tons tributary forming HP-Uttarakhand border)—pass through Himachal Pradesh.
+
+</details>
+
+---
+
+**Q-GC86. UKPCS Prelims 2016**
+
+Match the Doabs of Punjab in List-I with their bounding rivers in List-II:
+
+**List-I:**
+A. Bist Doab
+B. Bari Doab
+C. Rechna Doab
+D. Chaj Doab
+
+**List-II:**
+1. Between Ravi and Chenab
+2. Between Ravi and Beas
+3. Between Beas and Sutlej
+4. Between Chenab and Jhelum
+
+Codes:
+
+A. A-3, B-2, C-1, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-4, B-3, C-2, D-1
+
+D. A-1, B-4, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bist Doab = Beas + Sutlej (3); Bari Doab = Beas + Ravi (2); Rechna Doab = Ravi + Chenab (1); Chaj Doab = Chenab + Jhelum (4).
+
+</details>
+
+---
+
+**Q-GC87. BPSC Prelims 2022**
+
+The rivers Damodar, North Koel, and Subarnarekha all originate from which physiographic unit?
+
+A. Deccan Plateau
+
+B. Central Highlands
+
+C. Chotanagpur Plateau
+
+D. Meghalaya Plateau
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three rivers—Damodar (Khamarpat hill), North Koel, and Subarnarekha (Nagri village)—originate on the Chotanagpur Plateau in Jharkhand.
+
+</details>
+
+---
+
+**Q-GC88. UPPCS Prelims Re-Exam 2015**
+
+The Eden Canal, opened in 1938 to irrigate thousands of hectares in Bengal, was taken out from which river?
+
+A. Sirhind Canal
+
+B. Damodar River
+
+C. Bist Doab Canal
+
+D. Eastern Grey Canal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Eden Canal was constructed from the Damodar river in West Bengal to provide irrigation and flood management.
+
+</details>
+
+---
+
+**Q-GC89. UP BEO Prelims 2019**
+
+Which of the following rivers is NOT a tributary of the Damodar River?
+
+A. Barakar
+
+B. Indravati
+
+C. Jamunia
+
+D. Barki
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Indravati is a principal tributary of the Godavari flowing through Odisha, Maharashtra, and Chhattisgarh. Barakar, Jamunia, and Barki are tributaries of the Damodar.
+
+</details>
+
+---
+
+**Q-GC90. BPSC Prelims 2022**
+
+Over 90% of India's commercial coal reserves occur in the structural valleys of which rivers?
+
+A. Mahanadi River Valley
+
+B. Damodar River Valley
+
+C. Son River Valley
+
+D. All the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** More than 90% of India's Gondwana coal reserves are located in the river valleys of the Damodar, Son, Mahanadi, and Godavari.
+
+</details>
+
+---
+
+**Q-GC91. UP UDA/LDA Prelims 2006 / UPPCS Prelims 2008**
+
+The Damodar river is a major right-bank tributary of which river?
+
+A. Ganga
+
+B. Hooghly
+
+C. Padma
+
+D. Subarnarekha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Damodar joins the Hooghly (Bhagirathi-Hooghly distributary of the Ganga) about 48 km south of Kolkata in West Bengal.
+
+</details>
+
+---
+
+**Q-GC92. Jharkhand PCS Prelims 2016**
+
+The ancient Rajarappa Chhinnamastika temple is situated on a hillock at the confluence of which two rivers?
+
+A. Damodar and Bhera (Bhairavi)
+
+B. Damodar and Sherbukhi
+
+C. Damodar and Barakar
+
+D. Damodar and Konar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rajarappa in Ramgarh district of Jharkhand is an ancient Shaktipeeth temple dedicated to Goddess Chhinnamastika located at the confluence of the Damodar and Bhera (Bhairavi) rivers.
+
+</details>
+
+---
+
+**Q-GC93. UP UDA/LDA Prelims 2013**
+
+Which river in eastern India is known as a 'biological desert' between Giridih and Durgapur due to extreme pollution?
+
+A. Gomti
+
+B. Periyar
+
+C. Damodar
+
+D. Mahanadi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Damodar is heavily polluted by coal washeries, mine runoff, iron and steel plants, and domestic sewage, turning its 300-km stretch between Giridih and Durgapur into a virtual biological desert.
+
+</details>
+
+---
+
+**Q-GC94. BPSC Prelims 1995 / IAS Prelims 2010**
+
+With reference to the river Luni, which one of the following statements is correct?
+
+A. It flows into the Gulf of Khambhat
+
+B. It flows into the Gulf of Kutch
+
+C. It flows into Pakistan and merges with the Indus
+
+D. It is lost in the marshy land of the Rann of Kutch
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Luni originates in the Aravallis southwest of Ajmer and flows for 511 km across the Thar desert before dissipating into the salt marshes of the Rann of Kutch without reaching the ocean.
+
+</details>
+
+---
+
+**Q-GC95. MPPCS Prelims 2014**
+
+Which of the following is a classic example of an inland drainage river?
+
+A. Mahi
+
+B. Ghaggar
+
+C. Narmada
+
+D. Krishna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Ghaggar rises in the Shivalik Hills of Himachal Pradesh and flows through Punjab and Haryana to disappear into the sands of the Thar Desert near Hanumangarh in Rajasthan, making it an inland drainage river.
+
+</details>
+
+---
+
+**Q-GC96. BPSC Prelims 2022 / MPPCS Prelims 2008 / UP UDA/LDA Prelims 2013**
+
+Which river of northern Bihar is notoriously called the 'Sorrow of Bihar' because of frequent devastating floods and maximum shifting of its course?
+
+A. Ghaghara
+
+B. Ganga
+
+C. Kosi
+
+D. Son
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Kosi is infamous for its dramatic shifts of course (over 120 km westward in the past 250 years) and catastrophic monsoon floods, earning it the title 'Sorrow of Bihar'.
+
+</details>
+
+---
+
+**Q-GC97. RAS/RTS Prelims 2010**
+
+Two distinct rivers named 'Khari' originate in Rajasthan. To which two drainage basins do they belong?
+
+A. Arabian Sea and Bay of Bengal
+
+B. Arabian Sea and Inland drainage only
+
+C. Bay of Bengal and Inland drainage only
+
+D. Inland drainage only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** One Khari river rises in Sirohi and joins the Western Banas (flowing into the Arabian Sea via Little Rann of Kutch); the other Khari rises near Pushkar and joins Banas $\to$ Chambal $\to$ Yamuna $\to$ Ganga $\to$ Bay of Bengal.
+
+</details>
+
+---
+
+**Q-GC98. UKPCS Prelims 2006**
+
+Which of the following rivers does NOT have its source in glaciers?
+
+A. Yamuna
+
+B. Alaknanda
+
+C. Kosi
+
+D. Mandakini
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Yamuna (Yamunotri glacier), Alaknanda (Satopanth glacier), and Mandakini (Chorabari glacier) originate from glaciers. The Kosi is formed by mountain streams draining non-glaciated high catchment slopes and springs in Nepal and Tibet.
+
+</details>
+
+---
+
+**Q-GC99. BPSC Prelims 2001 / 2017**
+
+The Triveni Canal has been constructed on which river in West Champaran district of Bihar?
+
+A. Son
+
+B. Kosi
+
+C. Gandak
+
+D. Kamla
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Triveni Canal is an irrigation canal constructed along the Gandak river in West Champaran district of Bihar.
+
+</details>
+
+---
+
+**Q-GC100. IAS Prelims 2006**
+
+From north towards south, which one of the following is the correct sequence of the given rivers in the Trans-Himalayan / Himalayan region?
+
+A. Shyok – Spiti – Zanskar – Sutlej
+
+B. Shyok – Zanskar – Spiti – Sutlej
+
+C. Zanskar – Shyok – Sutlej – Spiti
+
+D. Zanskar – Sutlej – Shyok – Spiti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** From North to South: Shyok (Karakoram range) $\to$ Zanskar (Ladakh range) $\to$ Spiti (Himachal Pradesh) $\to$ Sutlej (Kinnaur/Punjab).
+
+</details>
+
+---
+
+**Q-GC101. Jharkhand PCS Prelims 2003**
+
+The historic Hizla Fair of Dumka in Santhal Pargana is celebrated on the banks of which river?
+
+A. Subarnarekha
+
+B. Barakar
+
+C. Mayurakshi
+
+D. Falgu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The traditional Hizla Mela has been held since 1890 on the banks of the Mayurakshi river in Dumka (Jharkhand).
+
+</details>
+
+---
+
+**Q-GC102. UPPCS Prelims 2006 / 2015**
+
+The joint Rajghat River Valley Project between Uttar Pradesh and Madhya Pradesh is built across which river in Lalitpur district?
+
+A. Ken river
+
+B. Son river
+
+C. Chambal river
+
+D. Betwa river
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Rajghat Dam is an inter-state project of UP and MP constructed on the Betwa river, located 22 km from Lalitpur in Uttar Pradesh.
+
+</details>
+
+---
+
+**Q-GC103. IAS Prelims 2007**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** River Kalinadi is an east-flowing river in the southern part of India.
+**Reason (R):** The Deccan Plateau is higher along its western edge and gently slopes towards the Bay of Bengal in the east.
+
+Code:
+
+A. Both (A) and (R) are individually true, and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are individually true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Assertion (A) is false: Kalinadi rises near Diggi in Uttara Kannada district of Karnataka and flows west into the Arabian Sea near Karwar. Reason (R) is true: the Deccan plateau as a whole tilts gently from west to east.
+
+</details>
+
+---
+
+**Q-GC104. UP UDA/LDA Prelims 2006**
+
+The world's highest railway arch bridge (359 metres above riverbed) has been constructed across which Indian river in Jammu and Kashmir?
+
+A. Chenab
+
+B. Sutlej
+
+C. Jhelum
+
+D. Beas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The iconic Chenab Rail Bridge, soaring 359 m above the river bed in Reasi district of Jammu and Kashmir, is the highest railway arch bridge in the world.
+
+</details>
+
+---
+
+**Q-GC105. UPPCS Prelims 1993**
+
+The Mahatma Gandhi Setu, a 5.575-km-long bridge connecting Patna and Hajipur, is built over which river in Bihar?
+
+A. Ganga
+
+B. Gandak
+
+C. Son
+
+D. Kosi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Mahatma Gandhi Setu spans the Ganga river, linking Patna on the south to Hajipur on the north.
+
+</details>
+
+---
+
+**Q-GC106. UPPCS Mains 2007**
+
+The Sankosh river forms the natural state boundary between:
+
+A. Bihar and West Bengal
+
+B. Assam and Arunachal Pradesh
+
+C. Assam and West Bengal
+
+D. Bihar and Jharkhand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Sankosh river originates in northern Bhutan (as Puna Tsang Chhu) and forms the interstate boundary between Assam and West Bengal before merging into the Brahmaputra.
+
+</details>
+
+---
+
+**Q-GC107. RAS/RTS Prelims 2012**
+
+Which of the following rivers originates in Madhya Pradesh, enters Rajasthan in Banswara district, and discharges into the Gulf of Khambhat?
+
+A. Parvati
+
+B. Luni
+
+C. Mahi
+
+D. Jawai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Mahi river originates in the Vindhyan hills of Dhar (MP), cuts across the Tropic of Cancer twice in Rajasthan (Banswara), and drains into the Gulf of Khambhat in Gujarat.
+
+</details>
+
+---
+
+**Q-GC108. UPPCS Mains 2013**
+
+The Kishanganga river (known as Neelum in Pakistan) is a principal tributary of which river?
+
+A. Ravi
+
+B. Chenab
+
+C. Jhelum
+
+D. Beas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Kishanganga is a tributary of the Jhelum river in Jammu and Kashmir. The Kishanganga hydroelectric project is built on it.
+
+</details>
+
+---
+
+**Q-GC109. UP RO/ARO Prelims 2014**
+
+The Mithi river of Mumbai originates from which lake?
+
+A. Tulsi Lake
+
+B. Vihar Lake
+
+C. Powai Lake
+
+D. Bhatsa Lake
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Mithi river originates from the overflow of Vihar Lake in Mumbai, receives water from Powai Lake, and empties into the Arabian Sea at Mahim Bay after an 18-km course.
+
+</details>
+
+---
+
+**Q-GC110. IAS Prelims 2022**
+
+The spectacular Gandikota Canyon ('Grand Canyon of India') in Andhra Pradesh was carved by which river?
+
+A. Cauvery
+
+B. Manjira
+
+C. Pennar
+
+D. Tungabhadra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Gandikota canyon was incised through the Erramala hills in Kadapa (YSR) district of Andhra Pradesh by the Pennar River.
+
+</details>
+
+---
+
+**Q-GC111. IAS Prelims 2023**
+
+Consider the following statements:
+
+1. Jhelum River passes through Wular Lake.
+2. Krishna River directly feeds Kolleru Lake.
+3. Meandering of Gandak River formed Kanwar Lake.
+
+How many of the statements given above are correct?
+
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only statement 1 is correct. Statement 2 is false: Kolleru Lake is fed directly by the Budameru and Tammileru seasonal streams, not directly by the Krishna. Statement 3 is false: Kanwar Lake (Begusarai, Bihar) was formed by a cutoff meander of the Burhi Gandak River, not the main Gandak.
+
+</details>
+
+---
+
+**Q-GC112. BPSC Prelims 2000**
+
+Which of the following is the largest city in population located on the bank of the river Ganga?
+
+A. Varanasi
+
+B. Patna
+
+C. Kanpur
+
+D. Allahabad (Prayagraj)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** According to Census data, Kanpur is the most populous city / urban agglomeration (>2.92 million) directly situated on the banks of the river Ganga, surpassing Patna (~2.04 m), Varanasi (~1.43 m), and Prayagraj (~1.21 m).
+
+</details>
+
+---
+
+**Q-GC113. BPSC Prelims 2011**
+
+Which one of the following towns is located on the bank of the Bhagirathi river, rather than the Ganga?
+
+A. Fatehpur
+
+B. Bhagalpur
+
+C. Uttarkashi
+
+D. Kanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Uttarkashi is located on the banks of the Bhagirathi river in Uttarakhand. The river only takes the name 'Ganga' after the confluence of Bhagirathi and Alaknanda at Devprayag. Fatehpur, Bhagalpur, and Kanpur are located on the Ganga.
+
+</details>
+
+---
+
+**Q-GC114. UP UDA/LDA Prelims 2013**
+
+Leh, the administrative capital of Ladakh, is located on which bank of which river?
+
+A. Right bank of River Jhelum
+
+B. Left bank of River Jhelum
+
+C. Right bank of River Indus
+
+D. Left bank of River Indus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Leh is located on the right bank of the Indus River in Ladakh at an elevation of approximately 3,500 m.
+
+</details>
+
+---
+
+**Q-GC115. UKPCS Prelims 2002**
+
+Which of the following city–river pairs is NOT correctly matched?
+
+A. Gorakhpur – Rapti
+
+B. Ludhiana – Ravi
+
+C. Jabalpur – Narmada
+
+D. Surat – Tapi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ludhiana was historically situated on the old channel of the Sutlej river (the river now flows ~13 km north of the city), NOT the Ravi. Gorakhpur is on the Rapti, Jabalpur on the Narmada, and Surat on the Tapi.
+
+</details>
+
+---
+
+**Q-GC116. UPPCS Prelims 1999 / UPPSC GIC 2010**
+
+Which of the following capital cities is NOT located on the main bank of the Mahanadi river?
+
+A. Kota
+
+B. Bhubaneswar
+
+C. Jabalpur
+
+D. Surat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bhubaneswar is located on the Kuakhai river (a distributary/delta branch), not on the mainstem of the Mahanadi. The historic city of Cuttack is on the Mahanadi.
+
+</details>
+
+---
+
+**Q-GC117. UP RO/ARO Mains 2016 / UPPCS Prelims 1996**
+
+Which of the following pairs is NOT correctly matched?
+
+A. Jabalpur – Narmada
+
+B. Hyderabad – Krishna
+
+C. Kota – Chambal
+
+D. Nasik – Godavari
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Hyderabad is situated on the banks of the Musi River (a tributary of the Krishna), NOT on the mainstem of the Krishna river. Vijayawada is on the Krishna.
+
+</details>
+
+---
+
+**Q-GC118. UPPCS Prelims 1992**
+
+Match the cities in List-I with their corresponding rivers in List-II:
+
+**List-I:**
+A. Cuttack
+B. Ludhiana
+C. Nashik
+D. Ujjain
+
+**List-II:**
+1. Godavari
+2. Kshipra
+3. Mahanadi
+4. Sutlej
+
+Codes:
+
+A. A-3, B-4, C-1, D-2
+
+B. A-3, B-2, C-1, D-4
+
+C. A-4, B-1, C-3, D-2
+
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Cuttack = Mahanadi (3); Ludhiana = Sutlej (4); Nashik = Godavari (1); Ujjain = Kshipra (2).
+
+</details>
+
+---
+
+**Q-GC119. IAS Prelims 2007**
+
+Match the towns in List-I with the rivers in List-II:
+
+**List-I:**
+A. Betul
+B. Jagdalpur
+C. Jabalpur
+D. Ujjain
+
+**List-II:**
+1. Indravati
+2. Narmada
+3. Kshipra
+4. Tapi
+
+Codes:
+
+A. A-1, B-4, C-2, D-3
+
+B. A-4, B-1, C-2, D-3
+
+C. A-4, B-1, C-3, D-2
+
+D. A-1, B-4, C-3, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Betul (near Multai origin) = Tapi (4); Jagdalpur = Indravati (1); Jabalpur = Narmada (2); Ujjain = Kshipra (3).
+
+</details>
+
+---
+
+**Q-GC120. UPPCS Mains 2013**
+
+Which one of the following pilgrimage places in Uttarakhand is NOT located along the Mandakini river?
+
+A. Gaurikund
+
+B. Rambara
+
+C. Govindghat
+
+D. Guptakashi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Gaurikund, Rambara, and Guptakashi are situated along the Mandakini river on the Kedarnath route. Govindghat is located on the Alaknanda (at its confluence with the Lakshman Ganga) on the Hemkund/Valley of Flowers route.
+
+</details>
+
+---
+
+**Q-GC121. IAS Prelims 2019**
+
+Consider the following pairs:
+
+1. Pandharpur : Chandrabhaga
+2. Tiruchirappalli : Cauvery
+3. Hampi : Malaprabha
+
+Which of the pairs given above are correctly matched?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pairs 1 and 2 are correctly matched: Pandharpur is on the Chandrabhaga (Bhima), and Tiruchirappalli is on the Cauvery. Pair 3 is mismatched: Hampi (capital of Vijayanagara) is located on the banks of the Tungabhadra River, not the Malaprabha.
+
+</details>
+
+---
+
+**Q-GC122. BPSC Prelims 2020**
+
+Pahalgam, the famous hill resort and base camp for the Amarnath Yatra in Kashmir, is located on the bank of which river?
+
+A. Shyok
+
+B. Jhelum
+
+C. Lidder
+
+D. Chenab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Pahalgam is situated at an elevation of 2,130 m on the banks of the Lidder River, a major tributary of the Jhelum in the Anantnag district of Jammu and Kashmir.
+
+</details>
+
+---
+
 
 ## Practice Zone — UPPCS Format Drill
 
