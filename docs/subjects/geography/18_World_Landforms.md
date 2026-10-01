@@ -24,7 +24,7 @@ None mandatory — static world-map chapter. No living scheme tag.
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 40 Must-Score Facts
 
 1. Area order (largest → smallest): **Asia → Africa → North America → South America → Antarctica → Europe → Australia**. Australia is the **smallest** continent; Africa has the **most countries (~54)**.
 2. Mean elevation leader is **Antarctica** (~2300 m). Europe has the **highest share of plains** in its area. **Guyana** is in **South America**, not Africa.
@@ -5843,6 +5843,289 @@ D. Pampas
 **Ans: D.** **Pampas** = temperate grassland, not Mediterranean.
 
 </details>
+
+---
+
+
+---
+
+### Additional Ghatnachakra World Landforms Bank (Zero-Gap Consolidation)
+
+**Q-GC-WL1. UP UDA/LDA Prelims 2001**
+
+White Mountains are situated in:
+
+A. Canada
+
+B. Norway
+
+C. Russia
+
+D. United States of America
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The White Mountains are situated in the states of New Hampshire and Maine in the United States of America. (Note: Black Mountain is located in North Carolina, USA, as part of the Appalachians).
+
+</details>
+
+---
+
+**Q-GC-WL2. UP Lower Sub. Prelims 1998 / RAS/RTS Prelims 2000 / IAS Prelims 1995**
+
+Arakan Yoma is the southward extension of the Himalayas located in:
+
+A. Myanmar
+
+B. Baluchistan
+
+C. Nepal
+
+D. Kashmir
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Arakan Yoma is in Western Myanmar, forming the natural boundary between India and Myanmar through the Patkai, Naga, Chin, and Lushai hills. Its highest peak is Natma Taung (Mount Victoria).
+
+</details>
+
+---
+
+**Q-GC-WL3. UPPCS Mains 2014 / RAS/RTS Prelims 1999**
+
+Which of the following mountain ranges is NOT the result of Tertiary (Alpine) orogeny?
+
+A. Kunlun
+
+B. Appalachians
+
+C. Alps
+
+D. Andes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The Alps, Andes, Himalayas, Rockies, and Atlas mountains belong to the Tertiary period (Alpine orogeny). The Appalachians (North America) and the Caledonian chains formed during the older Paleozoic/Caledonian era.
+
+</details>
+
+---
+
+**Q-GC-WL4. UP RO/ARO Mains 2014**
+
+Which of the following mountain ranges is located entirely in Italy?
+
+A. Apennines
+
+B. Pyrenees
+
+C. Dinaric Alps
+
+D. Jura
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The Apennines run ~1,350 km along the entire length of peninsular Italy. Its highest peak is Corno Grande (2,914 m). (Pyrenees = France-Spain border; Jura = France-Switzerland; Dinaric Alps = Balkan Peninsula).
+
+</details>
+
+---
+
+**Q-GC-WL5. Uttarakhand PCS Prelims 2016**
+
+Which of the following is a primary or basic landform (constructed directly by endogenous processes rather than denudation)?
+
+A. Volcanic cone
+
+B. Residual mountain
+
+C. Monadnock
+
+D. Erosional waterfall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — A volcanic cone is a primary/basic constructional landform built by the accumulation of lava, ash, and pyroclastic ejecta around a volcanic vent. Residual mountains, monadnocks, and waterfalls are secondary landforms created by erosion.
+
+</details>
+
+---
+
+**Q-GC-WL6. RAS/RTS Prelims 1992**
+
+Which of the following capital cities is situated on a plateau?
+
+A. Bucharest
+
+B. Madrid
+
+C. Jamnagar
+
+D. Singapore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Madrid, the capital of Spain, is situated on the Meseta Plateau (elevation 610-760 metres above sea level) in the Iberian Peninsula.
+
+</details>
+
+---
+
+**Q-GC-WL7. UPPCS Prelims 2017**
+
+Which one amongst the following is the largest plateau in terms of area?
+
+A. Coconino
+
+B. Aquarius
+
+C. Colorado
+
+D. Columbia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Among the given options, the Colorado Plateau (~150,580 sq miles) is the largest, followed by the Columbia Plateau (~105,633 sq miles), Coconino (~5,000 sq miles), and Aquarius (~900 sq miles).
+
+</details>
+
+---
+
+**Q-GC-WL8. UPPCS Mains 2014 / UPPCS Prelims 2005 & 2009 / UPPCS Prelims 2012**
+
+The 'Death Valley', popularly known as 'Devil\'s Golf Course', is an example of which type of valley and is renowned for which characteristic?
+
+A. Anticlinal Valley; excessive coldness
+
+B. Rift Valley; excessive heat and aridity
+
+C. Glacial Valley; abnormal depth
+
+D. Synclinal Valley; excessive salinity only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Death Valley in the northern Mojave Desert of California (USA) is a tectonic rift valley. It is the lowest elevation in North America (-86 m) and the hottest and driest place on the continent, with summer temperatures reaching up to 56.7°C. The 'Devil\'s Golf Course' is a jagged salt pan covering its floor.
+
+</details>
+
+---
+
+**Q-GC-WL9. UP UDA/LDA Prelims 2013 / Jharkhand PCS Mains 2016**
+
+A 'Blind Valley' with an abrupt ending and 'Sinkholes' (dolines) are typical landforms characteristic of which geological landscape?
+
+A. Karst (Limestone) region
+
+B. Glacial region
+
+C. Arid Aeolian region
+
+D. Tundra region
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Blind valleys (steephead valleys where surface streams sink underground) and sinkholes (dolines) are diagnostic erosional and solutional landforms of limestone Karst topography.
+
+</details>
+
+---
+
+**Q-GC-WL10. UPPCS Prelims 2013**
+
+Given below are two statements:
+Statement (A): Deserts can be effective sources for the production of perennial renewable energy.
+Reason (R): Deserts receive more energy from the sun in 6 hours than humankind consumes in a full year.
+
+Choose the correct answer from the following code:
+
+A. (A) and (R) both are correct and (R) is the correct explanation of (A).
+
+B. (A) and (R) both are correct, but (R) is not the correct explanation of (A).
+
+C. (A) is correct, but (R) is false.
+
+D. (A) is false, but (R) is correct.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Both (A) and (R) are correct and (R) explains (A). German physicist Dr. Gerhard Knies demonstrated that world deserts capture more solar radiation in just 6 hours than global annual human energy consumption.
+
+</details>
+
+---
+
+**Q-GC-WL11. UPPCS Mains 2015**
+
+'Dasht-e-Lut' is a large desert located in which country, famous for extreme skin temperatures?
+
+A. Iran
+
+B. Libya
+
+C. Kenya
+
+D. Nigeria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Dasht-e-Lut is a salt desert located in southeastern Iran (Kerman and Sistan-Baluchistan provinces). In 2005, NASA's Aqua satellite measured a land surface temperature of 70.7°C here, making it one of the hottest places on Earth.
+
+</details>
+
+---
+
+**Q-GC-WL12. UPPCS Prelims 2023**
+
+Animals specifically adapted to dwelling in arid desert conditions are biologically referred to as:
+
+A. Xerocoles animals
+
+B. Arboreal animals
+
+C. Fossorial animals
+
+D. Terrestrial animals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Desert-dwelling animals with water-conserving physiology and nocturnal or burrowing habits are called Xerocoles. (Arboreal = tree-dwelling; Fossorial = burrowing underground).
+
+</details>
+
+---
+
+**Q-GC-WL13. 60th to 62nd BPSC Prelims 2016**
+
+What is the name of the temperate mid-latitude grassland situated in South America?
+
+A. Prairie
+
+B. Pampas
+
+C. Veld
+
+D. Steppes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Pampas is the fertile temperate mid-latitude grassland of South America, spread across Argentina, Uruguay, and southern Brazil. (Prairies = North America; Veld = South Africa; Steppes = Eurasia).
+
+</details>
+
 
 ---
 

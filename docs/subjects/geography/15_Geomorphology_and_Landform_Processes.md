@@ -3180,3 +3180,41 @@ D. 1, 2 and 3
 29. **Peneplain = King’s arid pediment** — FALSE. Peneplain = **Davis**; pediplain = **King**.
 30. **Marble is foliated** — FALSE. Marble/quartzite = **non-foliated**.
 31. **Intertrappean = sea fossils** — FALSE. **Freshwater / land** fossils.
+
+
+### 🏞️ Fluvial Landform Concept — Peneplain (Ghatnachakra Complete)
+- **Peneplain**: An almost featureless, gently undulating plain produced by end-stage **fluvial (river) erosion and deposition**, reducing land close to base level. The term was coined by **William Morris Davis**.
+
+
+## Additional Ghatnachakra PYQs (Full Set)
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2017, Q-GEOM-1**
+
+The Peneplain is related to :
+
+Options:
+
+A. wind
+
+B. underground water
+
+C. glacier
+
+D. river
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+The Peneplains are formed by rivers. Peneplain is almost
+featureless gentle undulating plain produced by fluvial
+erosion and deposition and in course of time reduce the land
+almost to base level, leaving so little gradient that essentially
+no more erosion could occur. Peneplain' word was fi rst coined
+by Morris Davis.
+
+</details>
+
+---
+

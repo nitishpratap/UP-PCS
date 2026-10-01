@@ -48,7 +48,7 @@ D. 8 degrees 4' N to 37 degrees 6' N
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 40 Must-Score Facts
 
 1. UNCLOS: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf may extend to **350 nm**, but that does **not** push EEZ water beyond 200.
 2. **Innocent passage** applies in the territorial sea. **Transit passage** applies in international straits.
@@ -4157,6 +4157,364 @@ D. Mindanao
 
 ---
 
+
+---
+
+### Additional Ghatnachakra Political & Map Geography Bank (Zero-Gap Consolidation)
+
+**Q-GC-POL1. UP UDA/LDA Prelims 2001**
+
+Which of the following is strictly NOT included in the core geographical definition of Scandinavian countries?
+
+A. Denmark
+
+B. Finland
+
+C. Norway
+
+D. Sweden
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Geographically, the Scandinavian Peninsula comprises Norway and Sweden (with Denmark associated on the peninsula's base). Culturally and historically, Scandinavia includes Norway, Sweden, Denmark, Finland, and Iceland. Thus on a strict geographical basis, Finland is excluded.
+
+</details>
+
+---
+
+**Q-GC-POL2. 65th BPSC Prelims 2019**
+
+The country which has the longest north-south (latitudinal) extension of its territory in the world is:
+
+A. Russia
+
+B. Chile
+
+C. China
+
+D. Brazil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Chile, extending over 4,300 km from north to south along the southwestern seaboard of South America, has the longest latitudinal span of any nation.
+
+</details>
+
+---
+
+**Q-GC-POL3. 65th BPSC Prelims 2019**
+
+Which one of the following countries is the largest country without land borders (island nation) in terms of geographical area?
+
+A. New Zealand
+
+B. Philippines
+
+C. Japan
+
+D. Cuba
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Japan covers ~377,915 sq km, making it the largest borderless island country in the group, ahead of the Philippines (~300,000 sq km), New Zealand (~268,838 sq km), and Cuba (~110,860 sq km).
+
+</details>
+
+---
+
+**Q-GC-POL4. 69th BPSC Prelims 2023**
+
+The seven emirates comprising the federation of the United Arab Emirates (UAE) are:
+
+A. Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al-Quwain, Fujairah, Ras Al-Khaimah
+
+B. Dubai, Sharjah, Ajman, Jeddah, Kuwait, Bahrain, Umm Al-Quwain
+
+C. Umm Al-Quwain, Fujairah, Ras Al-Khaimah, Riyadh, Dammam, Taif, Dubai
+
+D. Sharjah, Abu Dhabi, Ajman, Fujairah, Dubai, Bahrain, Kuwait
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — In December 1971, six emirates formed the UAE: Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al-Quwain, and Fujairah; Ras Al-Khaimah joined the federation in early 1972. The federal capital is Abu Dhabi.
+
+</details>
+
+---
+
+**Q-GC-POL5. IAS Prelims 2023**
+
+Consider the following countries:
+1. Bulgaria
+2. Czech Republic
+3. Hungary
+4. Latvia
+5. Lithuania
+6. Romania
+
+How many of the above-mentioned countries share a land border with Ukraine?
+
+A. Only two
+
+B. Only three
+
+C. Only four
+
+D. Only five
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Only two: Hungary and Romania. (Ukraine's complete land neighbours are: Belarus, Russia, Poland, Slovakia, Hungary, Romania, and Moldova). Bulgaria, Czech Republic, Latvia, and Lithuania do not share land borders with Ukraine.
+
+</details>
+
+---
+
+**Q-GC-POL6. IAS Prelims 2018**
+
+In which of the following countries have millions of people suffered from severe famine/acute malnutrition or died due to starvation caused by war/blockades and ethnic conflicts?
+
+A. Angola and Zambia
+
+B. Morocco and Tunisia
+
+C. Venezuela and Colombia
+
+D. Yemen and South Sudan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Severe acute famine and food blockades severely affected Yemen (civil war/naval blockade) and South Sudan (civil and ethnic conflicts).
+
+</details>
+
+---
+
+**Q-GC-POL7. UP RO/ARO Prelims 2023**
+
+Which of the following historical cities is/are NOT situated in present-day Afghanistan?
+1. Ghazni
+2. Fergana
+3. Kandahar
+4. Samarkand
+
+Select the correct answer from the code given below:
+
+A. 2 and 3
+
+B. Only 4
+
+C. 2 and 4
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Fergana and Samarkand are located in Uzbekistan. Ghazni and Kandahar are historical cities located in Afghanistan.
+
+</details>
+
+---
+
+**Q-GC-POL8. UP RO/ARO Prelims (Re-Exam) 2016**
+
+Match List-I with List-II:
+
+| List-I (Country) | List-II (Capital) |
+|---|---|
+| A. Myanmar | 1. Hanoi |
+| B. Cambodia | 2. Vientiane |
+| C. Vietnam | 3. Phnom Penh |
+| D. Laos | 4. Nay Pyi Taw |
+
+Code:
+
+A. A-4, B-3, C-1, D-2
+
+B. A-2, B-3, C-4, D-1
+
+C. A-4, B-1, C-3, D-2
+
+D. A-3, B-4, C-2, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Myanmar — Nay Pyi Taw; Cambodia — Phnom Penh; Vietnam — Hanoi; Laos — Vientiane.
+
+</details>
+
+---
+
+**Q-GC-POL9. UPPCS Mains 2003 / UP Lower Sub. Prelims 2009**
+
+Match List-I with List-II:
+
+| List-I (Country) | List-II (Capital) |
+|---|---|
+| A. Bulgaria | 1. Oslo |
+| B. Georgia | 2. Reykjavik |
+| C. Iceland | 3. Sofia |
+| D. Norway | 4. Tbilisi |
+
+Code:
+
+A. A-3, B-4, C-2, D-1
+
+B. A-4, B-1, C-2, D-3
+
+C. A-3, B-1, C-4, D-2
+
+D. A-4, B-2, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Bulgaria — Sofia; Georgia — Tbilisi; Iceland — Reykjavik; Norway — Oslo.
+
+</details>
+
+---
+
+**Q-GC-POL10. UPPCS Mains 2011**
+
+Match List-I with List-II:
+
+| List-I (Country) | List-II (Capital) |
+|---|---|
+| A. Azerbaijan | 1. Banjul |
+| B. Gambia | 2. Riga |
+| C. Kazakhstan | 3. Baku |
+| D. Latvia | 4. Astana (Nur-Sultan) |
+
+Code:
+
+A. A-3, B-1, C-4, D-2
+
+B. A-3, B-4, C-1, D-2
+
+C. A-4, B-1, C-2, D-3
+
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Azerbaijan — Baku; Gambia — Banjul; Kazakhstan — Astana (Nur-Sultan); Latvia — Riga.
+
+</details>
+
+---
+
+**Q-GC-POL11. UPPCS Mains 2006 / Uttarakhand UDA/LDA Prelims 2003**
+
+Which one of the following is NOT a national capital city?
+
+A. Canberra
+
+B. New York
+
+C. Beijing
+
+D. Riyadh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — New York is the largest commercial city of the USA, but the national capital is Washington D.C. Canberra is the capital of Australia, Beijing of China, and Riyadh of Saudi Arabia.
+
+</details>
+
+---
+
+**Q-GC-POL12. UP RO/ARO Mains 2021**
+
+Match List-I (Provinces of Australia) with List-II (Capital city):
+
+| List-I (Province) | List-II (Capital City) |
+|---|---|
+| A. New South Wales | 1. Brisbane |
+| B. Queensland | 2. Sydney |
+| C. Victoria | 3. Perth |
+| D. Western Australia | 4. Melbourne |
+
+Code:
+
+A. A-1, B-2, C-3, D-4
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — New South Wales — Sydney; Queensland — Brisbane; Victoria — Melbourne; Western Australia — Perth.
+
+</details>
+
+---
+
+**Q-GC-POL13. IAS Prelims 1999**
+
+Match the cities located on global transit routes with their respective countries:
+A. Darwin
+B. Kuala Lumpur
+C. Nairobi
+D. Lagos
+
+1. Nigeria · 2. Kenya · 3. Malaysia · 4. Australia
+
+Code:
+
+A. A-4, B-3, C-2, D-1
+
+B. A-3, B-4, C-2, D-1
+
+C. A-4, B-2, C-3, D-1
+
+D. A-1, B-3, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Darwin — Australia; Kuala Lumpur — Malaysia; Nairobi — Kenya; Lagos — Nigeria.
+
+</details>
+
+---
+
+**Q-GC-POL14. IAS Prelims 1995**
+
+Moving from north to south and west to east across Central Asia, the correct identification of the five former Soviet Republics is:
+
+A. Tajikistan, Turkmenistan, Uzbekistan, Kyrgyzstan, Kazakhstan
+
+B. Kazakhstan, Turkmenistan, Uzbekistan, Kyrgyzstan, Tajikistan
+
+C. Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, Turkmenistan
+
+D. Turkmenistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — (1) Kazakhstan (northernmost and largest), (2) Turkmenistan (southwest bordering Caspian and Iran), (3) Uzbekistan (central, with Aral Sea), (4) Kyrgyzstan (eastern Tian Shan), (5) Tajikistan (southeast Pamir junction).
+
+</details>
+
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
@@ -4861,3 +5219,839 @@ D. 2 and 3
 41. **Venice of the North = Moscow** — FALSE. **St. Petersburg**.
 42. **City of Smoke = London** — FALSE in that GC key. **Chicago**.
 43. **Ninety East Ridge = Pacific** — FALSE. **Indian Ocean**.
+
+
+### 🗺️ World Political & Geopolitical Essentials (Ghatnachakra Complete)
+- **European Union (EU)**: Headquarters in **Brussels, Belgium**; established under Maastricht Treaty (1993); currently 27 member states.
+- **International Maritime Organization (IMO)**: UN specialized agency; Headquarters in **London, United Kingdom**.
+- **Food and Agriculture Organization (FAO)**: UN specialized agency; Headquarters in **Rome, Italy** (NOT New York).
+- **SAARC (South Asian Association for Regional Cooperation)**: Secretariat located in **Kathmandu, Nepal**; founded in Dhaka (Dec 1985); 8 member nations.
+- **Organization of Turkic States**: Established 2009; founding members: Azerbaijan, Kazakhstan, Kyrgyzstan, Turkiye; Uzbekistan joined as full member in 2019 at Baku.
+- **ASEAN Status**: India has the status of **"Dialogue Partner"** in ASEAN (while Vietnam, Cambodia, Singapore, etc. are full members).
+- **Look East Policy**: Initiated in **1991 by PM P.V. Narasimha Rao**; aimed to cultivate extensive strategic, economic, and cultural partnerships with Southeast Asia.
+- **Southeast Asia Geostrategy**: Pivot region between the Pacific and Indian Oceans with pre-eminent maritime character (Spykman's Rimland theory).
+- **Kailash Mansarovar**: Located in **Chinese Tibet**; Indian pilgrims require a visa to visit.
+- **Distance Units**: **Terrestrial Mile (1,609 metres / 1,760 yards) < Nautical Mile (1,852 metres)**.
+- **Harmattan Wind**: Dry and dusty north-easterly trade wind blowing from Sahara across West Africa into Gulf of Guinea ("The Doctor").
+- **Iberian Peninsula**: Comprises Spain, Portugal, Andorra, and Gibraltar (Greece & Albania are Balkan, NOT Iberian).
+- **Denisovan**: Extinct archaic human species discovered in Denisova Cave (Altai mountains, Siberia) and Baishiya Karst Cave (Tibetan Plateau, Xiahe, Gansu, China).
+- **Kyrgyzstan**: Name derived from 'Kyrk' meaning **forty** ("Country of 40 tribes", celebrated in the epic of Manas).
+- **Venice**: Known as **'Queen of the Adriatic Sea'** ('La Dominante', City of Canals, City of Bridges).
+- **Dendrochronology**: Method of dating and determining tree age by counting annual growth rings on trunk cross-section.
+- **Largest Number of Post Offices**: **India** has the world's largest postal network (>1.59 lakh post offices).
+- **Tallest Flyer Bird**: **Crane** (Ostrich is tallest bird overall but flightless).
+- **Cape Canaveral / Cape Kennedy**: Major US satellite and space launch centre located on coast of **Florida, USA**.
+- **RADARSAT-1**: Canadian satellite that created the first complete high-resolution map of Antarctica (1997).
+- **Copacabana Beach**: Famous 4 km balneario beach in **Rio de Janeiro, Brazil**.
+- **Highest Ground-based Observatory**: Indian Astronomical Observatory at **Hanle** (Ladakh, 4,500 m) & University of Tokyo Atacama Observatory (Chile, 5,640 m).
+- **Christmas in Australia**: Celebrated during **Summer** (Southern Hemisphere tilt).
+- **Great Leap Forward (1958–1962)**: Chinese campaign leading to rural disruption and severe nationwide famine.
+
+
+## Additional Ghatnachakra PYQs (Full Set)
+
+**Inline PYQ — I.A.S. (Pre) 2016, Q-POL-1**
+
+Consider the following pairs : Community sometimes in the aff airs of mentioned in the news : 1. Kurd : Bangladesh 2. Madhesi : Nepal 3. Rohingya : Myanmar Which of the pairs given above is/are correctly matched?
+
+Options:
+
+A. 1 and 2
+
+B. 2 only
+
+C. 2 and 3
+
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+The Kurd or Kurdish people are an ethnic group in the
+Middle East mostly inhabiting a contiguous area of Eastern
+and South-eastern Turkiye, West Iran, Northern Iraq and
+Northern Syria. While Madhesi or Teraibasi Nepali are an
+indigenous ethnic group of Nepal and Rohingya are Muslim
+of the Rakhine State, Myanmar. Thus, option (2) and (3) are
+correctly matched and (c) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2005, Q-POL-2**
+
+Consider the following statements and select the correct answer from the code given below : 1. Cuba is known as the ‘sugar bowl’ of the world 2. Hong Kong is special Administrative Region of China. 3. U.S.A. is the leading producer of milk in the world. 4. Australia is a Federal State. Code :
+
+Options:
+
+A. 1 and 2 only
+
+B. 1, 2 and 3 only
+
+C. 2, 3 and 4 only
+
+D. 1, 2, and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+Cuba is known as the ‘Sugar Bowl’ of the world. Hong Kong
+is a special administrative region of China. India is the leading
+producer of Milk in the world, not USA. Australia is a federal
+State consists New South Wales, Victoria, Queensland, South
+Australia, Western Australia, Northern Territory, Australian
+capital territory and Tasmania. Thus, statement 1, 2 & 4 are
+correct while statement 3 is wrong.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2006, Q-POL-3**
+
+Consider the following statements : 1. Length of a terrestrial mile is lesser than that of a nautical mile. 2. Harmattan is a dusty land-wind of the East African Coast. 3. Greece and Albania form a part of the Iberian peninsula. Which of the statement(s) given above is/are correct?
+
+Options:
+
+A. 1, 2 and 3
+
+B. 2 and 3 only
+
+C. 3 only
+
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+A nautical mile is a non-SI unit of distance, set by
+International agreement as being exactly 1,852 metres (about
+6,076 feet). It is generally used by navigators in the sea/
+water exploration.
+The terrestrial mile is an unit of length equal to 1,760 yards
+and standardised as exactly 1609 metres by international
+agreement. The length of the terrestrial mile is less than a
+nautical mile. Thus , statement (1) is correct.
+The Harmattan is a dry and dusty North Easterly trade wind
+which blows from the Sahara Desert over the West African
+subcontinent into the Gulf of Guinea between the end of
+November and mid of March. In West Africa, it is known as
+‘The doctor’ because of its invigorating dryness compared
+with humid tropical air. Thus , statement (2) is wrong.
+Located on the Southwestern tip of the European Continent,
+the Iberian Peninsula, includes the countries of Andorra,
+Portugal and Spain, and the British Crown Colony of
+Gibraltar while Greece & Albania are not part of Iberian
+peninsula. Thus, statement (3) is wrong.
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2008, Q-POL-4**
+
+Match List-I with List-II and select the correct answer using the codes given below: List- I List- II 1. Pole star A. Gravitation 2. Earth B. Sound 3. Greenland C. Arctic ocean 4. Explosion D. North Code:
+
+Options:
+
+A. 1-D, 2-C, 3-A, 4-B
+
+B. 1-D, 2-A, 3-B, 4-C
+
+C. 1-D, 2-B, 3-C, 4-A
+
+D. 1-D, 2-A, 3-C, 4-B
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+A pole star is a visible star aligned with Earth's axis of
+rotation i.e., a star whose apparent position is close to one of
+the celestial poles. It lies directly the overhead North Pole .
+Gravitation is a natural phenomenon by which all things
+with the mass are brought towards one another and Earth
+has gravitational force.
+Greenland- is located between the Arctic and the Atlantic
+Ocean, Sound is generated by Explosion.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 1991, Q-POL-5**
+
+Where is the satellite launch centre of USA?
+
+Options:
+
+A. Alamos
+
+B. Los Angles
+
+C. Cape Verde
+
+D. Cape Kennedy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+Cape Canaveral is a major spacecraft and satellite launch
+centre located in the state of Florida in the United States of
+America. Former U.S. President John F. Kennedy. It was
+renamed 'Cape Kennedy'. Since 1973, it is again known as
+'Cape Canavaral'.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1998, Q-POL-6**
+
+The satellites of which one of the following countries have helped in the preparation of a detailed and complete map of Antarctica?
+
+Options:
+
+A. Canada
+
+B. France
+
+C. Russia
+
+D. U.S.A.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+RADARSAT-1, the satellite of Canada which helped in the
+preparation of a detailed and complete map of Antarctica for
+the fi rst time in1997.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2006, Q-POL-7**
+
+The age of the tree can be determined from the-
+
+Options:
+
+A. Counting of leaves on the tree
+
+B. Counting the number of rings on its stem
+
+C. Counting the branches on the tree
+
+D. Measurement of its height
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The age of the tree can be determined by counting the
+numbers of rings on its stem. Growth rings also referred to
+as tree rings or annual rings, can be seen in a horizontal cross
+section cut through the trunk of a tree. Growth rings are the
+result of new growth in the vascular cambium, a layer of
+cells near the bark that is classifi ed as a lateral meristem; this
+growth in diameter is known as secondary growth. Visible
+rings result from the change in growth speed through the
+seasons of the year; thus, critical for the title method. One
+ring generally marks the passage of one year in the life of the
+tree. The rings are more visible in temperate zones, where
+the seasons diff er more markedly. Dendrochronology is the
+scientifi c method of dating based on the analysis of patterns
+of tree rings, also known as growth rings. Dendrochronology
+can date the time at which tree rings were formed, in many
+types of wood, to the exact calendar year
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2007, Q-POL-8**
+
+Where is Copacabana Beach located?
+
+Options:
+
+A. Buenos Aires
+
+B. Hawaiian Islands
+
+C. Rio de Janeiro
+
+D. Valletta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Copacabana Beach is located in the south zone of the city
+of Rio de Janeiro, Brazil. It is known for its 4 km Balneario
+beach which is one of the most famous beach in the world.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2006, Q-POL-9**
+
+The world’s highest ground-based telescopic observatory is located in :
+
+Options:
+
+A. Colombia
+
+B. India
+
+C. Nepal
+
+D. Switzerland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+In given option, the world’s highest ground-based telescopic
+observatory was located in India. The Indian Astronomical
+Observatory stands on Mt. Saraswati, Hanle village in SouthEastern Ladakh Union territory, India. It is situated at an
+elevation of 4,500 metres. It is operated by the Indian
+Institute of Astrophysics, Bangaluru. The Satellite link
+between the Centre for Research and Education in Science
+and Technology (CREST), Bangaluru and Hanle were
+inaugurated on 2 June 2001. The Observatory was dedicated
+to the nation on 29 August 2001. At present, the University of
+Tokyo Atacama Observatory located in Chile is the world's
+highest astronomical observatory.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2021, Q-POL-10**
+
+Which of the following is not a part of the Middle East?
+
+Options:
+
+A. Jordan and Israel
+
+B. Lebanon and Israel
+
+C. Syria and Lebanon
+
+D. Jordan andTurkey
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+According to CIA Middle East countries region are Armenia,
+Azerbaijan, Bahrain, Gazastrip, Georgia, Iran, Iraq, Israel,
+Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, Syria,
+Turkiye, UAE, West Bank, Yemen.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2010, 2011, Q-POL-11**
+
+The Headquarters of the European Union is located at –
+
+Options:
+
+A. Brussels
+
+B. Helsinki
+
+C. Paris
+
+D. Rome
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+The European Union (EU) is a political-economic union of
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2016, Q-POL-12**
+
+The headquarter of the International Maritime Organization is located at :
+
+Options:
+
+A. London
+
+B. Geneva
+
+C. Paris
+
+D. Rome
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+International Maritime Organization is a specialised agency
+of United Nation. The headquarter is located in London,
+United Kingdom. IMO currently has 176 members and three
+associate members.
+
+</details>
+
+---
+
+**Inline PYQ — and its pre-eminent maritime character. I.A.S. (Pre) 2011, Q-POL-13**
+
+Southeast Asia has captured the attention of the global community over space and time as a geo-strategically signifi cant region. Which among the following is the most convincing explanation for this global perspective ?
+
+Options:
+
+A. It was the hot theatre during the second world war.
+
+B. Its location between the Asian powers of China and
+India.
+
+C. It was the arena of superpower confrontation during
+the cold war period.
+
+D. Its location between the Pacifi c and Indian Oceans
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+South East Asia has captured the attention of the global
+community over space and time as a geo-strategically
+signifi cant region because of its location between the Pacifi c
+and Indian oceans and its pre-eminent maritime character.
+Due to its geostrategic signifi cance, Spykman had proposed
+Rimland theory.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2011, Q-POL-14**
+
+With reference to 'Look East Policy' of India, consider the following statements:
+
+1. India wants to establish itself as an important regional player in East Asian affairs.
+2. India wants to plug the vacuum created by the termination of the Cold War.
+3. India wants to restore the historical and cultural ties with its neighbours in South-East and East Asia.
+
+Which of the statements given above is/are correct?
+
+Options:
+
+A. 1 only
+
+B. 1 and 3
+
+C. 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Look East policy was developed and enacted during the
+government of Prime Minister P.V. Narasimha Rao (1991-
+1996). India’s Look East policy represents its eff orts to
+cultivate extensive economic and strategic relations with
+the nations of Southeast Asia in order to bolster its standing
+as a regional power and a counterweight to the strategic
+infl uence of the People’s Republic of China. Initiated in
+1991, it marked a strategic shift in India’s perspective of the
+world. India wants to restore the historical and cultural ties
+with its neighbours in South East & East Asia.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2010, Q-POL-15**
+
+A visa is required for Kailasha Mansarovar pilgrimage because it is located in :
+
+Options:
+
+A. Nepal
+
+B. Chinese Tibet
+
+C. Bhutan
+
+D. Sikkim
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Kailash Mansarovar is located in Chinese Tibet, hence Visa
+is required for Indians to its pilgrimage. Mount Kailash is
+a peak in the Kailash Range, which forms part of the Trans
+-Himalaya in Tibet China. It lies near the source of some of the
+longest rivers in Asia: the Indus River, the Sutluj River (a major
+tributary of the Indus River), the Brahmaputra River, and the
+Karnali River (a tributary of the River Ganga). It is considered
+a sacred place in four religions: Bon, Buddhism, Hinduism and
+Jainism. The mountain lies near Lake Manasarovar and Lake
+Rakshastal in Tibet.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2010, Q-POL-16**
+
+In which of the following seasons the Christmas is celebrated in Australia?
+
+Options:
+
+A. Winter
+
+B. Summer
+
+C. Spring
+
+D. Autumn
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The Christmas is celebrated in Summer season in Australia
+because it is located in the Southern Hemisphere.The axis of
+the earth is tilted approximately 23 1
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2011, Q-POL-17**
+
+Which country has the status of only "Dialogue Partner in the ASEAN"?
+
+Options:
+
+A. Vietnam
+
+B. Cambodia
+
+C. Singapore
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+In given options, Vietnam, Cambodia & Singapore are a
+permanent member of ASEAN, while India has the status
+of only 'Dialogue Partner' in the ASEAN.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S. (Pre) 1996, Q-POL-18**
+
+The headquarter of SAARC is :
+
+Options:
+
+A. Kathmandu
+
+B. New Delhi
+
+C. Islamabad
+
+D. Dhaka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+The South Asian Association for Regional Cooperation
+(SAARC) is an economic and geopolitical organisation
+of eight countries that are primarily located in South Asia
+or the Indian subcontinent. The SAARC Secretariat is
+in Kathmandu, Nepal. The idea of regional political and
+economic cooperation in South Asia was fi rst raised on 2nd
+May 1980 by Bangladesh President Ziyaur Rahman and
+the fi rst summit was held in Dhaka on 7-8 December 1985,
+when the organisation was established by the governments
+of Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan,
+and Sri Lanka. Since then the organisation has expanded by
+accepting one new full member, Afghanistan, and several
+observer members.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2022, Q-POL-19**
+
+Consider the following countries : 1. Armenia 2. Azerbaijan 3. Croatia 4. Romania 5. Uzbekistan Which of the above are members of the Organization of Turkie States?
+
+Options:
+
+A. 1, 2 and 4
+
+B. 1 and 3
+
+C. 2 and 5
+
+D. 3, 4 and 5
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+The Organization of Turkic States was established in the
+year 2009 as an intergovernmental organization. Its purpose
+is to promote wider cooperation among the Ottoman states.
+Its four founding members are Azerbaijan, Kazakhstan,
+Kyrgyzstan and Turkiye. It may be noted that in october,
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 1995, Q-POL-20**
+
+Where is the Elysee Palace?
+
+Options:
+
+A. Germany
+
+B. France
+
+C. Italy
+
+D. Spain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Elysee Palace lies in Paris, France. The Elysee Palace is the
+offi cial residence of the President of the French Republic
+since 1848.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2002, Q-POL-21**
+
+Which is the tallest among fl yer birds?
+
+Options:
+
+A. Crane
+
+B. Heron
+
+C. Ostrich
+
+D. Peacock
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+Ostrich is the tallest bird but cannot fl y. Crane is tallest
+among fl yer birds.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2006, Q-POL-22**
+
+Which country has the largest number of Post Offi ces ?
+
+Options:
+
+A. India
+
+B. Japan
+
+C. China
+
+D. France
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+India has the largest number of Post Offi ces in the world
+which is more than 1 lakh. According to Department of Posts,
+Ministry of Communications's Annual Report 2022-23, India
+has 1,59,251 Post Offi ces.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2013, Q-POL-23**
+
+Due to ‘ The Great Leap Forward Policy ‘ million people had to die of starvation in:
+
+Options:
+
+A. Russia
+
+B. Vietnam
+
+C. China
+
+D. Germany
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+'The Great Leap Forward Policy' in Chinese history, is the
+campaign undertaken by the Chinese communist party,
+implemented in second fifth year plan (1958-1962) to
+organize its vast population, especially in large-scale rural
+communes, to meet China’s industrial and agricultural
+needs. The ineffi ciency of the communist and the large-scale
+diversion of farm labour into small -scale industry disrupted
+China’s agriculture seriously, and three consecutive years
+of natural calamities added to what quickly turned into
+a National disaster; in all, about 20 million people were
+estimated to have died of starvation between 1959 and 1962.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S.(Pre) (Re-Exam) 2015, Q-POL-24**
+
+The name of which of the following countries closely means "country of 40 tribes"?
+
+Options:
+
+A. Kazakhstan
+
+B. Kyrgyzstan
+
+C. Tajikistan
+
+D. Uzbekistan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The word 'Kyrgyz' is derived from Kyrk which means forty.
+Thus Kyrgyz stan means country of 40 tribes. Notably, Kyrgyz
+epic 'Manas' depicts a story of their national Hero Manas who
+united 40 tribes to save their motherland from Chinese invasion.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2015, Q-POL-25**
+
+Which pair amongst the following is not correctly matched?
+
+Options:
+
+A. The queen of Adriatic sea - Rome
+
+B. Lorraine Coal Fields - France
+
+C. West Midlands - Birmingham
+
+D. Tula - Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+Venice city of Italy is known as 'La Dominante' 'Queen of
+the Adriatic Sea', "City of Canals", "City of Bridges" etc. So,
+option (a) is not correctly matched.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2019, Q-POL-26**
+
+The word 'Denisovan' is sometimes mentioned in media in reference to
+
+Options:
+
+A. fossils of a kind of dinosaurs
+
+B. an early human species
+
+C. a cave system found in North-East India
+
+D. a geological period in the history of Indian subconti-
+nent
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The fi rst evidence for Denisovan Denisova hominins was fi rst
+discovered in 2008 in a cave in the Altai mountains in Siberia.
+Analysis of a fossil jawbone containing motors recovered
+from Baishiya Karst cave in Xiahe, Gansu, China Shows
+Denisovans lived in the Tibetan Plateau some 1,60,000 years
+ago. This is the fi rst time evidence of Denisovan presence
+has been found outside the Denisova Cave.
+
+</details>
+
+---
+

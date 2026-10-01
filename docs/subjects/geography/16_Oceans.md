@@ -32,7 +32,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 ---
 
 
-## Consolidated — 36 Must-Score Facts
+## Consolidated — 40 Must-Score Facts
 
 1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
 2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
@@ -3691,6 +3691,96 @@ D. Pacific Ocean
 
 ---
 
+
+---
+
+### Additional Ghatnachakra Hydrosphere & Ocean Floor Bank (Zero-Gap Consolidation)
+
+**Q-GC-OCN1. 38th BPSC Prelims 1992**
+
+On the sea level, which of the following is the nearest point to the centre of the Earth?
+
+A. North Pole (Arctic Ocean)
+
+B. Tropic of Capricorn
+
+C. Tropic of Cancer
+
+D. Equator
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Because the Earth is an oblate spheroid flattened at the poles, the polar radius (~6,357 km, with the Arctic Ocean basin reaching ~6,353 km from the centre) is ~21 km shorter than the equatorial radius (~6,378 km). Hence the North Pole is closest to the Earth's centre.
+
+</details>
+
+---
+
+**Q-GC-OCN2. 47th BPSC Prelims 2005**
+
+A continuous underwater mountain ridge of approximately 65,000 km (40,390 miles) in length and 2,000 km to 2,400 km in width that passes through the North and South Atlantic basins, enters the Indian Ocean, passes between Australia and Antarctica, and enters the South Pacific basin is the:
+
+A. Socotra-Lakshadweep-Chagos Ridge
+
+B. Pacific-Antarctica Ridge
+
+C. Dolphin-Challenger Ridge
+
+D. Mid-Oceanic Ridge
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The global Mid-Oceanic Ridge system is the single largest geological and tectonic feature on Earth, extending for ~65,000 km continuously across all major ocean basins along divergent plate boundaries.
+
+</details>
+
+---
+
+**Q-GC-OCN3. UPPCS Prelims 2017**
+
+The Red Sea is a prime geological example of a/an:
+
+A. Volcanic valley
+
+B. Eroded valley
+
+C. Axial trough
+
+D. U-shaped valley
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — The Red Sea is an incipient ocean basin formed along an axial rift/trough where the African plate and the Arabian plate are pulling apart (divergent plate boundary), characterized by distinct magnetic anomaly striping.
+
+</details>
+
+---
+
+**Q-GC-OCN4. UP UDA/LDA (Spl) Mains 2010**
+
+The tension under which gravitational water is held in the ground/soil pores is:
+
+A. Below 1/3 atmosphere
+
+B. At 1.25 atmosphere
+
+C. At 5 atmosphere
+
+D. At 15 atmosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Gravitational water occupies the macro-pores of soil and drains downward freely under gravity. It is held at very low suction tension, namely zero to less than 1/3 atmosphere (field capacity).
+
+</details>
+
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
@@ -4392,3 +4482,139 @@ D. Neither 1 nor 2
 53. **Hormuz shores = Iran + UAE only** — FALSE. Classic pair = **Iran + Oman** (Musandam).
 54. **Syria borders the Black Sea** — FALSE. Syria is **Mediterranean**.
 55. **Hormuz joins Red Sea and Mediterranean** — FALSE. That is **Suez**. Hormuz = Persian Gulf ↔ Gulf of Oman.
+
+
+### 🌊 Bermuda Triangle & Fishing Grounds Master Facts (Ghatnachakra Complete)
+- **Major World Fishing Grounds**: Formed where **cold and warm ocean currents meet** in shallow continental shelves (e.g. Labrador Cold + Gulf Stream Warm). Plankton thrives abundantly, creating rich marine ecosystems.
+- **Grand Banks**: Off the coast of Newfoundland (Canada), in the North Atlantic Ocean. Formed by convergence of cold Labrador Current and warm Gulf Stream.
+- **Bermuda Triangle ("Devil's Triangle")**: Oceanic area in the **North Atlantic Ocean** bounded roughly by points in **Miami (Florida)**, **San Juan (Puerto Rico)**, and **Bermuda**.
+
+
+## Additional Ghatnachakra PYQs (Full Set)
+
+**Inline PYQ — I.A.S. (Pre) 2013, Q-OCN-1**
+
+The most important fi shing grounds of the world are found in the regions where:
+
+Options:
+
+A. Warm and cold atmospheric currents meet
+
+B. Rivers drain out large amounts of fresh water into the sea
+
+C. Warm and cold oceanic currents meet
+
+D. Continental shelf is undulating
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+At about 40° N and 60oS latitudes on the eastern margins of
+the continents, the cold and warm Ocean currents converge.
+On the contrary, at the same latitude, along the western coast
+of the continents, the cold currents fl owing from the polar
+seas and the warm currents from the low latitudes meet with
+each other. Thus, there is a strong mixing of ocean waters.
+In such areas, the nutrients essential for marine organisms
+are in abundance. So, the marine life is rich in such areas.
+The most important fi shing grounds in the world are located
+in shallow water close to the land where there is a mixing
+of Cold and Warm Currents from diff erent regions. The
+favourable conditions for fi shing are plankton concentrations,
+warm and cold Oceanic currents joints, the depth of water,
+its salinity & shallow sea etc.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Spl) (Mains) 2010, Q-OCN-2**
+
+Grand Bank is located at :
+
+Options:
+
+A. Western coast of North America
+
+B. Western Europe coast
+
+C. Eastern coast of North America
+
+D. Eastern coast of Africa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Grand Banks portion of the North American continental
+shelf in the Atlantic Ocean lying Southeast of Newfoundland
+island, Canada. It as an international fi shing ground. The
+cold Labrador Current and the relatively warm Gulf Stream
+meet in the vicinity of the Grand Banks. The mingling of
+the cold and warm water produces favourable conditions
+for the growth of plankton, on which fi sh depend directly
+or indirectly for their food supply. It consists of a number
+of separate banks, which are St. Pierre; Georges Bank, etc.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2008 U.P.P.C.S. (Pre) 2003 U.P.U.D.A./L.D.A. (Pre) 2002 U.P.P.C.S. (Pre) 2001, Q-OCN-3**
+
+The Bermuda Triangle lies in –
+
+Options:
+
+A. North Atlantic Ocean
+
+B. South Atlantic Ocean
+
+C. North Pacifi c Ocean
+
+D. South Pacifi c Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+The Bermuda Triangle is an Oceanic area bounded by points
+in Bermuda, Florida (Miami) and San Juan, (Puertorico) in
+the Western part of the North Atlantic Ocean. The Bermuda
+Triangle is also known as the 'Devil’s Triangle'.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2006, Q-OCN-4**
+
+Bermuda Triangle extends up to which of the following places ? 1. Southern Florida 2. Puerto Rico 3. Hawaii Islands Select the correct answer using the codes given below:
+
+Options:
+
+A. 1, 2 and 3
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Bermuda Triangle extends up to Southern Florida and Puerto
+Rico. Bermuda Triangle is in a triangular shape, the third
+point is in Miami.
+
+</details>
+
+---
+

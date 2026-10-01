@@ -1426,17 +1426,55 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-subject-body">
 <h3 class="ct-group-title">Highly Important</h3>
 <div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="geography-06-Agriculture-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-06-Agriculture-md" aria-label="Mark Topic 6 — Agriculture done">
+    <span class="ct-title">Topic 6 — Agriculture</span>
+    <span class="ct-pills">155 Qs · UPPCS 148 · UKPCS 7</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/06_Agriculture/#ghatnachakra-purvavlokan-topic-6-agriculture-pyq-bank">Ghatnachakra Purvavlokan — Topic 6 Agriculture PYQ Bank</a> — 128 questions (UPPCS 121 · UKPCS 7)</li>
+      <li><a href="../subjects/geography/06_Agriculture/#complete-pyq-bank-agriculture-20182025">Agriculture (2018–2025)</a> — 25 questions (UPPCS 25)</li>
+      <li><a href="../subjects/geography/06_Agriculture/#n5-agricultural-regions-agro-climatic-zones">Agricultural Regions &amp; Agro-climatic Zones</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/06_Agriculture/#n10-msp-agricultural-marketing">MSP &amp; Agricultural Marketing</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/06_Agriculture/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-01-Indian-Physical-Geography-Mountains-Hills-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-01-Indian-Physical-Geography-Mountains-Hills-md" aria-label="Mark Topic 1 — Indian Physical Geography: Mountains &amp; Hills done">
+    <span class="ct-title">Topic 1 — Indian Physical Geography: Mountains &amp; Hills</span>
+    <span class="ct-pills">108 Qs · UPPCS 89 · UKPCS 19</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#ghatnachakra-purvavlokan-topic-1-pyq-bank">Ghatnachakra Purvavlokan — Topic 1 PYQ Bank</a> — 87 questions (UPPCS 70 · UKPCS 17)</li>
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#13-peninsular-mountains-hills-plateaus">Peninsular Mountains, Hills &amp; Plateaus</a> — 7 questions (UPPCS 5 · UKPCS 2)</li>
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#12-himalayan-mountain-system">Himalayan Mountain System</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#complete-pyq-bank">PYQ Bank</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#11-physiographic-divisions-of-india">Physiographic Divisions of India</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#14-passes-peaks-sacred-geography">Passes, Peaks &amp; Sacred Geography</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#15-locational-framework">Locational Framework</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="geography-23-Political-Map-Geography-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-23-Political-Map-Geography-md" aria-label="Mark Topic 23 — Political &amp; Map-Based Geography done">
     <span class="ct-title">Topic 23 — Political &amp; Map-Based Geography</span>
-    <span class="ct-pills">65 Qs · UPPCS 58 · UKPCS 7</span>
+    <span class="ct-pills">80 Qs · UPPCS 69 · UKPCS 12</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
       <li><a href="../subjects/geography/23_Political_Map_Geography/#complete-pyq-bank-ghatnachakra-borders-capitals-landlocked-uppcs-ukpcs-standard">Ghatnachakra Borders Capitals Landlocked</a> — 35 questions (UPPCS 31 · UKPCS 4)</li>
-      <li><a href="../subjects/geography/23_Political_Map_Geography/#complete-pyq-bank-ghatnachakra-geographical-sobriquets-uppcs-ukpcs-standard">Ghatnachakra Geographical Sobriquets</a> — 14 questions (UPPCS 11 · UKPCS 3)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#complete-pyq-bank-ghatnachakra-geographical-sobriquets-uppcs-ukpcs-standard">Ghatnachakra Geographical Sobriquets</a> — 17 questions (UPPCS 14 · UKPCS 4)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#additional-ghatnachakra-pyqs-full-set">Additional Ghatnachakra PYQs (Full Set)</a> — 12 questions (UPPCS 8 · UKPCS 4)</li>
       <li><a href="../subjects/geography/23_Political_Map_Geography/#n13-köppen-climate">Köppen climate</a> — 4 questions (UPPCS 4)</li>
       <li><a href="../subjects/geography/23_Political_Map_Geography/#n9-canals">Canals</a> — 3 questions (UPPCS 3)</li>
       <li><a href="../subjects/geography/23_Political_Map_Geography/#n10-mountains-map">Mountains (map)</a> — 2 questions (UPPCS 2)</li>
@@ -1449,6 +1487,52 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/geography/23_Political_Map_Geography/#n12-ports-map">Ports (map)</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/23_Political_Map_Geography/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-21-World-Minerals-Energy-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-21-World-Minerals-Energy-md" aria-label="Mark Topic 21 — World Minerals &amp; Energy done">
+    <span class="ct-title">Topic 21 — World Minerals &amp; Energy</span>
+    <span class="ct-pills">64 Qs · UPPCS 57 · UKPCS 8</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#additional-ghatnachakra-minerals-energy-pyqs-full-set">Additional Ghatnachakra Minerals &amp; Energy PYQs (Full Set)</a> — 25 questions (UPPCS 22 · UKPCS 4)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#complete-pyq-bank-ghatnachakra-minerals-uppcs-ukpcs-standard">Ghatnachakra Minerals</a> — 23 questions (UPPCS 20 · UKPCS 3)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n8-other-world-minerals">Other world minerals</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n1-coal">Coal</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n2-iron-ore">Iron ore</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n6-natural-gas">Natural gas</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n4-tin">Tin</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n3-copper">Copper</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n5-petroleum">Petroleum</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/21_World_Minerals_Energy/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-18-World-Landforms-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-18-World-Landforms-md" aria-label="Mark Topic 18 — World Landforms done">
+    <span class="ct-title">Topic 18 — World Landforms</span>
+    <span class="ct-pills">62 Qs · UPPCS 53 · UKPCS 9</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-islands-uppcs-ukpcs-standard">Ghatnachakra Islands</a> — 13 questions (UPPCS 11 · UKPCS 2)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-extra-drill-deserts-mountains-logic-pass">Ghatnachakra / Extra Drill Deserts &amp; Mountains (Logic pass)</a> — 11 questions (UPPCS 7 · UKPCS 4)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-forests-world-climate-uppcs-ukpcs-standard">Ghatnachakra Forests World Climate</a> — 11 questions (UPPCS 9 · UKPCS 2)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-grasslands-uppcs-ukpcs-standard">Ghatnachakra Grasslands</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n8-vegetation-world-belts">Vegetation (world belts)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n6-deserts">Deserts</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n1-mountains">Mountains</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n4-volcanoes-world-locations">Volcanoes (world locations)</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n9-world-climatic-regions">World Climatic Regions</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n7-grasslands">Grasslands</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n5-islands">Islands</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/18_World_Landforms/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="geography-03-Drainage-System-md" data-group="high" data-uk="0">
@@ -1491,66 +1575,20 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/04_Lakes_Waterfalls_Water_Resources/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="geography-18-World-Landforms-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-18-World-Landforms-md" aria-label="Mark Topic 18 — World Landforms done">
-    <span class="ct-title">Topic 18 — World Landforms</span>
-    <span class="ct-pills">55 Qs · UPPCS 47 · UKPCS 8</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-islands-uppcs-ukpcs-standard">Ghatnachakra Islands</a> — 13 questions (UPPCS 11 · UKPCS 2)</li>
-      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-extra-drill-deserts-mountains-logic-pass">Ghatnachakra / Extra Drill Deserts &amp; Mountains (Logic pass)</a> — 11 questions (UPPCS 7 · UKPCS 4)</li>
-      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-grasslands-uppcs-ukpcs-standard">Ghatnachakra Grasslands</a> — 8 questions (UPPCS 8)</li>
-      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-forests-world-climate-uppcs-ukpcs-standard">Ghatnachakra Forests World Climate</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
-      <li><a href="../subjects/geography/18_World_Landforms/#n8-vegetation-world-belts">Vegetation (world belts)</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/geography/18_World_Landforms/#n6-deserts">Deserts</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/18_World_Landforms/#n1-mountains">Mountains</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/18_World_Landforms/#n4-volcanoes-world-locations">Volcanoes (world locations)</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
-      <li><a href="../subjects/geography/18_World_Landforms/#n9-world-climatic-regions">World Climatic Regions</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/18_World_Landforms/#n7-grasslands">Grasslands</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/geography/18_World_Landforms/#n5-islands">Islands</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/18_World_Landforms/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="geography-14-Earth-and-Universe-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-14-Earth-and-Universe-md" aria-label="Mark Topic 14 — Earth &amp; Universe done">
-    <span class="ct-title">Topic 14 — Earth &amp; Universe</span>
-    <span class="ct-pills">50 Qs · UPPCS 41 · UKPCS 9</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/14_Earth_and_Universe/#complete-pyq-bank-ghatnachakra-atmosphere-insolation-cyclones-humidity-pressure-clouds-winds-uppcs-ukpcs-standard">Ghatnachakra Atmosphere Insolation Cyclones Humidity Pressure Clouds Winds</a> — 19 questions (UPPCS 16 · UKPCS 3)</li>
-      <li><a href="../subjects/geography/14_Earth_and_Universe/#complete-pyq-bank-earth-universe-20182025">Earth &amp; Universe (2018–2025)</a> — 16 questions (UPPCS 15 · UKPCS 1)</li>
-      <li><a href="../subjects/geography/14_Earth_and_Universe/#complete-pyq-bank-ghatnachakra-rocks-volcanoes-uppcs-ukpcs-standard">Ghatnachakra Rocks &amp; Volcanoes</a> — 5 questions (UKPCS 5)</li>
-      <li><a href="../subjects/geography/14_Earth_and_Universe/#n8-global-warming">Global Warming</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/14_Earth_and_Universe/#n6-atmosphere-its-structure">Atmosphere &amp; Its Structure</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/geography/14_Earth_and_Universe/#n10-coriolis-force">Coriolis Force</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/14_Earth_and_Universe/#n9-el-niño-la-niña-ल-नन-enso">El Niño · La Niña (ला नीना) · ENSO</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/14_Earth_and_Universe/#n11-jet-stream">Jet Stream</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/14_Earth_and_Universe/#n17-volcano-types">Volcano Types</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/14_Earth_and_Universe/#n7-weather-vs-climate">Weather vs Climate</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/14_Earth_and_Universe/">Open chapter</a>
-  </div>
-</details>
 <details class="ct-row" data-ct-id="geography-16-Oceans-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-16-Oceans-md" aria-label="Mark Topic 16 — Oceans done">
     <span class="ct-title">Topic 16 — Oceans</span>
-    <span class="ct-pills">49 Qs · UPPCS 45 · UKPCS 4</span>
+    <span class="ct-pills">51 Qs · UPPCS 47 · UKPCS 4</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
       <li><a href="../subjects/geography/16_Oceans/#complete-pyq-bank-ghatnachakra-hydrosphere-seas-currents-salinity-tides-trenches-uppcs-ukpcs-standard">Ghatnachakra Hydrosphere Seas Currents Salinity Tides Trenches</a> — 26 questions (UPPCS 22 · UKPCS 4)</li>
-      <li><a href="../subjects/geography/16_Oceans/#complete-pyq-bank-ghatnachakra-straits-canals-coral-uppcs-ukpcs-standard">Ghatnachakra Straits Canals Coral</a> — 10 questions (UPPCS 10)</li>
+      <li><a href="../subjects/geography/16_Oceans/#complete-pyq-bank-ghatnachakra-straits-canals-coral-uppcs-ukpcs-standard">Ghatnachakra Straits Canals Coral</a> — 11 questions (UPPCS 11)</li>
       <li><a href="../subjects/geography/16_Oceans/#n8-canals-waterways">Canals &amp; Waterways</a> — 3 questions (UPPCS 3)</li>
       <li><a href="../subjects/geography/16_Oceans/#n4-ocean-currents-warm-cold">Ocean Currents (warm &amp; cold)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/16_Oceans/#additional-ghatnachakra-pyqs-full-set">Additional Ghatnachakra PYQs (Full Set)</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/geography/16_Oceans/#n2-ocean-floor-ridge-shelf-slope-guyot">Ocean Floor, Ridge, Shelf, Slope, Guyot</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/geography/16_Oceans/#n1-oceans-seas">Oceans &amp; Seas</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/geography/16_Oceans/#complete-pyq-bank-oceans-20182025">Oceans (2018–2025)</a> — 1 question (UPPCS 1)</li>
@@ -1560,23 +1598,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/geography/16_Oceans/#n3-trenches">Trenches</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/16_Oceans/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="geography-07-Natural-Vegetation-Biodiversity-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-07-Natural-Vegetation-Biodiversity-md" aria-label="Mark Topic 7 — Natural Vegetation &amp; Biodiversity Geography done">
-    <span class="ct-title">Topic 7 — Natural Vegetation &amp; Biodiversity Geography</span>
-    <span class="ct-pills">46 Qs · UPPCS 40 · UKPCS 6</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#complete-pyq-bank-natural-vegetation-biodiversity-geography-20182025">Natural Vegetation &amp; Biodiversity Geography (2018–2025)</a> — 31 questions (UPPCS 31)</li>
-      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#complete-pyq-bank-ghatnachakra-natural-vegetation-uppcs-ukpcs-standard">Ghatnachakra Natural Vegetation</a> — 13 questions (UPPCS 7 · UKPCS 6)</li>
-      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#n5-protected-areas-framework">Protected Areas — Framework</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#n2-type-cards">Type Cards</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/07_Natural_Vegetation_Biodiversity/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="geography-02-Climate-of-India-md" data-group="high" data-uk="0">
@@ -1618,25 +1639,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/17_World_Rivers_and_Lakes/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="geography-01-Indian-Physical-Geography-Mountains-Hills-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-01-Indian-Physical-Geography-Mountains-Hills-md" aria-label="Mark Topic 1 — Indian Physical Geography: Mountains &amp; Hills done">
-    <span class="ct-title">Topic 1 — Indian Physical Geography: Mountains &amp; Hills</span>
-    <span class="ct-pills">21 Qs · UPPCS 19 · UKPCS 2</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#13-peninsular-mountains-hills-plateaus">Peninsular Mountains, Hills &amp; Plateaus</a> — 7 questions (UPPCS 5 · UKPCS 2)</li>
-      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#12-himalayan-mountain-system">Himalayan Mountain System</a> — 5 questions (UPPCS 5)</li>
-      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#complete-pyq-bank">PYQ Bank</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#11-physiographic-divisions-of-india">Physiographic Divisions of India</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#14-passes-peaks-sacred-geography">Passes, Peaks &amp; Sacred Geography</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#15-locational-framework">Locational Framework</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/">Open chapter</a>
-  </div>
-</details>
 <details class="ct-row" data-ct-id="geography-19-World-Regional-Geography-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-19-World-Regional-Geography-md" aria-label="Mark Topic 19 — World Regional Geography done">
@@ -1664,6 +1666,46 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
 
 <h3 class="ct-group-title">Medium Important</h3>
 <div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="geography-14-Earth-and-Universe-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-14-Earth-and-Universe-md" aria-label="Mark Topic 14 — Earth &amp; Universe done">
+    <span class="ct-title">Topic 14 — Earth &amp; Universe</span>
+    <span class="ct-pills">50 Qs · UPPCS 41 · UKPCS 9</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#complete-pyq-bank-ghatnachakra-atmosphere-insolation-cyclones-humidity-pressure-clouds-winds-uppcs-ukpcs-standard">Ghatnachakra Atmosphere Insolation Cyclones Humidity Pressure Clouds Winds</a> — 19 questions (UPPCS 16 · UKPCS 3)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#complete-pyq-bank-earth-universe-20182025">Earth &amp; Universe (2018–2025)</a> — 16 questions (UPPCS 15 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#complete-pyq-bank-ghatnachakra-rocks-volcanoes-uppcs-ukpcs-standard">Ghatnachakra Rocks &amp; Volcanoes</a> — 5 questions (UKPCS 5)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n8-global-warming">Global Warming</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n6-atmosphere-its-structure">Atmosphere &amp; Its Structure</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n10-coriolis-force">Coriolis Force</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n9-el-niño-la-niña-ल-नन-enso">El Niño · La Niña (ला नीना) · ENSO</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n11-jet-stream">Jet Stream</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n17-volcano-types">Volcano Types</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n7-weather-vs-climate">Weather vs Climate</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/14_Earth_and_Universe/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-07-Natural-Vegetation-Biodiversity-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-07-Natural-Vegetation-Biodiversity-md" aria-label="Mark Topic 7 — Natural Vegetation &amp; Biodiversity Geography done">
+    <span class="ct-title">Topic 7 — Natural Vegetation &amp; Biodiversity Geography</span>
+    <span class="ct-pills">46 Qs · UPPCS 40 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#complete-pyq-bank-natural-vegetation-biodiversity-geography-20182025">Natural Vegetation &amp; Biodiversity Geography (2018–2025)</a> — 31 questions (UPPCS 31)</li>
+      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#complete-pyq-bank-ghatnachakra-natural-vegetation-uppcs-ukpcs-standard">Ghatnachakra Natural Vegetation</a> — 13 questions (UPPCS 7 · UKPCS 6)</li>
+      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#n5-protected-areas-framework">Protected Areas — Framework</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#n2-type-cards">Type Cards</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/07_Natural_Vegetation_Biodiversity/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="geography-08-Minerals-Energy-Industry-md" data-group="medium" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-08-Minerals-Energy-Industry-md" aria-label="Mark Topic 8 — Minerals, Energy &amp; Industry done">
@@ -1681,27 +1723,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n5-power-thermal-hydro-nuclear-renewables">Power: thermal, hydro, nuclear, renewables</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/08_Minerals_Energy_Industry/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="geography-21-World-Minerals-Energy-md" data-group="medium" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-21-World-Minerals-Energy-md" aria-label="Mark Topic 21 — World Minerals &amp; Energy done">
-    <span class="ct-title">Topic 21 — World Minerals &amp; Energy</span>
-    <span class="ct-pills">39 Qs · UPPCS 35 · UKPCS 4</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#complete-pyq-bank-ghatnachakra-minerals-uppcs-ukpcs-standard">Ghatnachakra Minerals</a> — 23 questions (UPPCS 20 · UKPCS 3)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n8-other-world-minerals">Other world minerals</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n1-coal">Coal</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n2-iron-ore">Iron ore</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n6-natural-gas">Natural gas</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n4-tin">Tin</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n3-copper">Copper</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n5-petroleum">Petroleum</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/21_World_Minerals_Energy/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="geography-20-World-Agriculture-md" data-group="medium" data-uk="0">
@@ -1758,44 +1779,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/15_Geomorphology_and_Landform_Processes/">Open chapter</a>
   </div>
 </details>
-<details class="ct-row" data-ct-id="geography-06-Agriculture-md" data-group="medium" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-06-Agriculture-md" aria-label="Mark Topic 6 — Agriculture done">
-    <span class="ct-title">Topic 6 — Agriculture</span>
-    <span class="ct-pills">27 Qs · UPPCS 27 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/06_Agriculture/#complete-pyq-bank-agriculture-20182025">Agriculture (2018–2025)</a> — 25 questions (UPPCS 25)</li>
-      <li><a href="../subjects/geography/06_Agriculture/#n5-agricultural-regions-agro-climatic-zones">Agricultural Regions &amp; Agro-climatic Zones</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/06_Agriculture/#n10-msp-agricultural-marketing">MSP &amp; Agricultural Marketing</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/06_Agriculture/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="geography-09-Transport-Communication-md" data-group="medium" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-09-Transport-Communication-md" aria-label="Mark Topic 9 — Transport &amp; Communication done">
-    <span class="ct-title">Topic 9 — Transport &amp; Communication</span>
-    <span class="ct-pills">24 Qs · UPPCS 21 · UKPCS 3</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/09_Transport_Communication/#complete-pyq-bank-ghatnachakra-world-transport-ports-mapping-uppcs-ukpcs-standard">Ghatnachakra World Transport Ports Mapping</a> — 7 questions (UPPCS 6 · UKPCS 1)</li>
-      <li><a href="../subjects/geography/09_Transport_Communication/#n1-railways">Railways</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/geography/09_Transport_Communication/#n5-airports">Airports</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/09_Transport_Communication/#n8-communication-basic">Communication (Basic)</a> — 3 questions (UPPCS 1 · UKPCS 2)</li>
-      <li><a href="../subjects/geography/09_Transport_Communication/#n4-ports-harbours-maritime-trade">Ports, Harbours, Maritime Trade</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/geography/09_Transport_Communication/#n2-roads-expressways-bharatmala">Roads, Expressways, Bharatmala</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/geography/09_Transport_Communication/#n6-pipelines">Pipelines</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/09_Transport_Communication/#n7-sagarmala-blue-economy-gati-shakti-nlp">Sagarmala, Blue Economy, Gati Shakti, NLP</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/09_Transport_Communication/#n3-waterways">Waterways</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/09_Transport_Communication/">Open chapter</a>
-  </div>
-</details>
 <details class="ct-row" data-ct-id="geography-05-Soils-md" data-group="medium" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-05-Soils-md" aria-label="Mark Topic 5 — Soils done">
@@ -1818,6 +1801,49 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
 
 <h3 class="ct-group-title">Least Important</h3>
 <div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="geography-09-Transport-Communication-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-09-Transport-Communication-md" aria-label="Mark Topic 9 — Transport &amp; Communication done">
+    <span class="ct-title">Topic 9 — Transport &amp; Communication</span>
+    <span class="ct-pills">29 Qs · UPPCS 25 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/09_Transport_Communication/#complete-pyq-bank-ghatnachakra-world-transport-ports-mapping-uppcs-ukpcs-standard">Ghatnachakra World Transport Ports Mapping</a> — 7 questions (UPPCS 6 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#additional-ghatnachakra-world-transport-ports-mapping-pyqs-full-set">Additional Ghatnachakra World Transport, Ports &amp; Mapping PYQs (Full Set)</a> — 5 questions (UPPCS 4 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n1-railways">Railways</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n5-airports">Airports</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n8-communication-basic">Communication (Basic)</a> — 3 questions (UPPCS 1 · UKPCS 2)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n4-ports-harbours-maritime-trade">Ports, Harbours, Maritime Trade</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n2-roads-expressways-bharatmala">Roads, Expressways, Bharatmala</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n6-pipelines">Pipelines</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n7-sagarmala-blue-economy-gati-shakti-nlp">Sagarmala, Blue Economy, Gati Shakti, NLP</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n3-waterways">Waterways</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/09_Transport_Communication/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-22-World-Industries-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-22-World-Industries-md" aria-label="Mark Topic 22 — World Industries done">
+    <span class="ct-title">Topic 22 — World Industries</span>
+    <span class="ct-pills">25 Qs · UPPCS 25 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/22_World_Industries/#complete-pyq-bank-ghatnachakra-world-industries-uppcs-ukpcs-standard">Ghatnachakra World Industries</a> — 9 questions (UPPCS 9)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#complete-pyq-bank-ghatnachakra-local-winds-uppcs-ukpcs-standard">Ghatnachakra Local Winds</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#additional-ghatnachakra-world-industries-pyqs-full-set">Additional Ghatnachakra World Industries PYQs (Full Set)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#n5-trade-routes">Trade routes</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#n6-world-local-winds">World local winds</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#n3-industrial-cities">Industrial cities</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#n4-ports-and-seaports">Ports and seaports</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/22_World_Industries/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="geography-11-Population-Geography-md" data-group="least" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-11-Population-Geography-md" aria-label="Mark Topic 11 — Population Geography done">
@@ -1840,25 +1866,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/geography/11_Population_Geography/#n4-sex-ratio">Sex Ratio</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/11_Population_Geography/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="geography-22-World-Industries-md" data-group="least" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-22-World-Industries-md" aria-label="Mark Topic 22 — World Industries done">
-    <span class="ct-title">Topic 22 — World Industries</span>
-    <span class="ct-pills">22 Qs · UPPCS 22 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/22_World_Industries/#complete-pyq-bank-ghatnachakra-world-industries-uppcs-ukpcs-standard">Ghatnachakra World Industries</a> — 9 questions (UPPCS 9)</li>
-      <li><a href="../subjects/geography/22_World_Industries/#complete-pyq-bank-ghatnachakra-local-winds-uppcs-ukpcs-standard">Ghatnachakra Local Winds</a> — 5 questions (UPPCS 5)</li>
-      <li><a href="../subjects/geography/22_World_Industries/#n5-trade-routes">Trade routes</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/22_World_Industries/#n6-world-local-winds">World local winds</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/22_World_Industries/#n3-industrial-cities">Industrial cities</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/22_World_Industries/#n4-ports-and-seaports">Ports and seaports</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/22_World_Industries/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="geography-10-Tribes-Institutions-md" data-group="least" data-uk="0">
@@ -1898,7 +1905,7 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-12-Human-Geography-md" aria-label="Mark Topic 12 — Human Geography (Settlements) done">
     <span class="ct-title">Topic 12 — Human Geography (Settlements)</span>
-    <span class="ct-pills">9 Qs · UPPCS 9 · UKPCS 0</span>
+    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
@@ -1906,6 +1913,7 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/geography/12_Human_Geography/#complete-pyq-bank-human-geography-settlements-20182025">Human Geography / Settlements (2018–2025)</a> — 4 questions (UPPCS 4)</li>
       <li><a href="../subjects/geography/12_Human_Geography/#n6-smart-villages-scheme-years">Smart Villages &amp; Scheme Years</a> — 3 questions (UPPCS 3)</li>
       <li><a href="../subjects/geography/12_Human_Geography/#n5-smart-cities-heritage-cities">Smart Cities &amp; Heritage Cities</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/12_Human_Geography/#additional-ghatnachakra-pyqs-full-set">Additional Ghatnachakra PYQs (Full Set)</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/12_Human_Geography/">Open chapter</a>
   </div>

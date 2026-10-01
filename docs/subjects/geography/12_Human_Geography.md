@@ -1411,3 +1411,93 @@ D. 18 only
 16. **Bhopal = river-bank town like Agra/Patna** — FALSE.
 17. **Hamleted = a census town** — FALSE. Local **panna/para/palli/nagla/dhani**, one village name.
 18. **75% workers in primary sector = census town** — FALSE. Need **non-agriculture** male main workers.
+
+
+### 🌐 Human Geography Core Theories & Concepts (Ghatnachakra Complete)
+- **Neo-Determinism ("Stop-and-Go Determinism" / Scientific Determinism)**: Advanced by **Griffith Taylor**. Holds that humans can accelerate, slow down, or stop nature's programme, but cannot depart from the broad physical conditions nature sets.
+- **Cultural Worlds (Introducing Cultural Geography)**: **J.E. Spencer and W.L. Thomas** divided the world into **11 cultural worlds**.
+- **Migration Theory**: Advanced by **Everett S. Lee** (Push and Pull factors; permanent or semi-permanent change of residence).
+
+
+## Additional Ghatnachakra PYQs (Full Set)
+
+**Inline PYQ — U.P.P.C.S. (Pre) 1994, Q-HUM-1**
+
+The concept of Neo-Determinism in Geography was advanced by :
+
+Options:
+
+A. Miss Semple
+
+B. G.Taylor
+
+C. Ratzel
+
+D. Huntington
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The concept of Neo- Determinism in geography was
+advanced by Griffi th Taylor. This concept is known as ‘stopand-go determinism’ or Scientifi c Determinism.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2016, Q-HUM-2**
+
+In their book "Introducing Cultural Geography", J.E. Spencer and W.L. Thomas have divided the world into how many Cultural Worlds?
+
+Options:
+
+A. 9
+
+B. 10
+
+C. 11
+
+D. 12
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+J.E. Spencer and W.L. Thomas have divided the world
+into 11 cultural worlds in their book "Introducing Cultural
+Geography."
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (mains) 2017, Q-HUM-3**
+
+Among the following whose name is associated with migration theory?
+
+Options:
+
+A. Notestein
+
+B. Thompson
+
+C. Lee
+
+D. Doubleday
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Among the given options, Everett Lee is related to Migration
+Theory. Lee has considered migration as a permanent or
+semi permanent change of residence.
+
+</details>
+
+---
+

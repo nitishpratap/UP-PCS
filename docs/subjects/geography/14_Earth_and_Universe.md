@@ -7436,3 +7436,37 @@ D. Neither 1 nor 2
 49. **NW India quakes = coral / volcano only** — FALSE. Mainly **Indian–Eurasian plate** convergence.
 50. **2004 tsunami killed 50 lakh** — FALSE. Order of ~**2–3 lakh**; Bangladesh had few deaths for wave-direction reasons.
 51. **Tsunami is Latin / Arabic** — FALSE. **Japanese** harbour wave.
+
+### 🛰️ Satellite Orbits Master Fact (Ghatnachakra Complete)
+- **Geostationary Satellite Orbit**: Revolves at a **fixed altitude of approximately 35,786 km** directly above Earth's equator. Orbital period matches Earth's rotation (23 hours 56 minutes 4 seconds), appearing stationary from ground.
+
+
+## Additional Ghatnachakra PYQs (Full Set)
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2018, Q-EARTH-1**
+
+Geostationary satellite revolves at :
+
+Options:
+
+A. Any height
+
+B. At fi xed height
+
+C. Height above pole
+
+D. Height which depends upon its mass
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+A Geostationary satellite is at an altitude of approximately
+35,786 km. above mean sea level. It is directly over the
+equator and revolves in
+
+</details>
+
+---
+

@@ -24,7 +24,7 @@ None mandatory.
 ---
 
 
-## Consolidated — 19 Must-Score Facts
+## Consolidated — 25 Must-Score Facts
 
 1. City–industry pairs: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
 2. **Akron** = tyres; **Toulouse** = Airbus; **Silicon Valley** (California) = electronics / IT — not Detroit.
@@ -2223,3 +2223,491 @@ D. 1 and 2
 22. **Footloose = steel on coal only** — FALSE. Electronics / R&D flexible location.
 23. **Silicon Valley = Detroit** — FALSE. California electronics / IT.
 24. **Skip non-PYQ cities/winds** — FALSE. Next year can ask any Lucent pair on this map.
+
+
+## Additional Ghatnachakra World Industries PYQs (Full Set)
+
+**Inline PYQ — U.P.P.C.S. (Pre) 1996, Q-IND-1**
+
+Which one of the following is not matched properly?
+
+Options:
+
+A. Detroit - Motorcar
+
+B. Hawana - Cigar
+
+C. Sheffi eld - Cutlery
+
+D. Venice - Ship building
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2016, Q-IND-2**
+
+Which one of the follwoing is not correctly matched? Shipbuilding Centre State (U.S.A.)
+
+Options:
+
+A. Houston - Texas
+
+B. Sparrows Point - Maryland
+
+C. New Orleans - Louisiana
+
+D. Camden - Florida
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+Camden is a county in the Sate of New Jersey in the U.S.A.
+Thus option (d) is not correctly matched. Rest are correctly
+matched.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2013, Q-IND-3**
+
+Which one is the biggest wool-producing country in the world?
+
+Options:
+
+A. China
+
+B. U.S.A.
+
+C. Australia
+
+D. U.K.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+According to data for the year 2022 given by United Nations
+Food and Agricultural Organisation, China is at Ist rank in the
+production of Shorn Wool and Greasy with the production
+of 356,193 tonnes. Australia, New Zealand and Turkiye are
+at second, third and fourth place respectively.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2013, Q-IND-4**
+
+Which of following wool producing centre belongs to Germany ?
+
+Options:
+
+A. Saint Petersburg
+
+B. Wuppertal
+
+C. Bradford
+
+D. Prato
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Wuppertal is a City in North Rhine - Westphalia, Germany. It
+is a centre of wool production. Saint Petersburg is in Russia,
+Bradford is in Northern England and Prato belongs to Italy.
+Thus, option (b) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2005, Q-IND-5**
+
+The leading producer of cotton textiles in the world is-
+
+Options:
+
+A. China
+
+B. India
+
+C. U.S.A.
+
+D. Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+China is a leading producer of cotton textiles in the world.
+when the question was asked. According to the Ministry
+fo Textile, 2021-22 China has been top producer of Cotton
+Textile (5.73 million metric tonnes) followed by India (5.36
+million metric tonnes).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2015, Q-IND-6**
+
+For the location of which one of the following industries, the availability of raw material is not the primary consideration?
+
+Options:
+
+A. Iron and Steel
+
+B. Sugar
+
+C. Electronics
+
+D. Cement
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+The availability of raw material is not the primary consideration in the electronics industry.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Mains) 2008, Q-IND-7**
+
+Japan is one of the leading industrial country in the world because –
+
+Options:
+
+A. Japan does have abundant minerals.
+
+B. It has abundant bioenergy resources.
+
+C. Industrial revolution was started here.
+
+D. Japan has high technology.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+At present, Japan is one of the top economies of the world.
+It is due to its industrial development. In this competitive
+time, Japan has maintained its credibility due to its high
+technologies. Due to the lack of bioenergy sources and
+Minerals, it is dependent on the imported materials. The
+industrial revolution was started in Britain, not in Japan.
+Thus, option (d) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2013, Q-IND-8**
+
+With reference to the usefulness of the by-products of Sugar industry, which of the following statement is/are correct? 1. Bagasse can be used as biomass fuel for the generation of energy. 2. Molasses can be used as one of the feedstocks for the production of synthetic chemical fertilizers. 3. Molasses can be used for the production of ethanol. Select the correct answer using the codes given below :
+
+Options:
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Statement (1) and (3) are correct because Bagasse can be
+used as biomass fuel for generating energy and Molasses of
+sugarcane may be used for the production of ethanol, but it
+can not be used as feedstocks for the production of synthetic
+chemical fertilizers. Thus, option (c) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S.(Pre) 2013, Q-IND-9**
+
+Which woody raw material is used for making of paper pulp ?
+
+Options:
+
+A. Peparin
+
+B. Poplar
+
+C. Bagasse
+
+D. Rice straw
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+'Poplar' is the woody raw material used for making of paper
+pulp. Hence (b) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2021, Q-IND-10**
+
+Which one of the following tree is not found in the Mediterranean forest?
+
+Options:
+
+A. Teak
+
+B. Oak
+
+C. Chestnut
+
+D. Olive
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+The Mediterranean lands are known as the world's Orchard
+lands. A wide range of citrus fruits such as oranges, lemons,
+limes, grapes etc are grown. Oline tree is probably the most
+typical mediterranean vegetation. Besides olives, many
+nut trees like chestnuts, walnuts, hazelnuts and almonds
+are grown. Mediterranean evergreen forests are open
+woodlands with evergreen oaks. Teak is the best known
+example of tropical monsoon forests.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.S.C. (R.I.) 2014, Q-IND-11**
+
+Which one of the following countries has a marketbased steel industry ?
+
+Options:
+
+A. Germany
+
+B. England
+
+C. India
+
+D. Japan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+Japanese steel plants are mostly based on market. The great
+'Tokyo-Yokohama' and 'Osaka-Kobe-Himeji' Iron Steel
+regions are based on market.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Spl) (Mains) 2010, Q-IND-12**
+
+Which one of the following is not true?
+
+Options:
+
+A. Osaka is known as Manchester of the east.
+
+B. All the centre of Iron and steel industry in Japan are
+located at Southern Coastal region.
+
+C. Northern Kyushu of Japan is known for the cotton
+textile industry.
+
+D. Japan is a leading country in eastern Asia for ship industry.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Osaka (Japan) is known as 'Manchester of East' for the
+production of cotton textile. Most of the Iron and steel
+production centres are located in southern coastal region. Some
+Iron and Steel Industry located in Kamaishi in North-eastern
+Honshu and Muroran, in South-eastern Hokkaido. In eastern
+Asia, Japan is at prominent position in shipbuilding, while in
+Kyushu region-Fukuoka, Kitakyushu, Nagasaki are important
+region for automobiles, chemicals, semiconductor industry.
+Most of the Cotton Textile Industry in Japan is concentrated
+in Wakayama - Osaka - Kobe in Kinki region and Tokyo -
+Yakohama in Kanto region.
+
+</details>
+
+---
+
+**Inline PYQ — B.P.S.C.56thto 59th (Pre) 2015, Q-IND-13**
+
+Which of the following is the largest metal trading centre?
+
+Options:
+
+A. Johannesburg
+
+B. New York
+
+C. London
+
+D. Singapore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+London is the largest metal trading centre.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) 2023, Q-IND-14**
+
+Who was the fi rst to use the word 'Megalopolis'?
+
+Options:
+
+A. Jean Gottmann
+
+B. Taylor
+
+C. Davis
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+The term 'Megalopolis' was fi rst coined by the French geographer Jean Gottmann in his book 'Megalopolis : The
+Urbanized Northeastern sea board of the United States published in 1961. He used it to refer to the large cities along
+the northeastern seaboard of the United State of America.
+
+</details>
+
+---
+
+**Inline PYQ — Raj. P.C.S. (Pre) 2023, Q-IND-15**
+
+Among the following which is not an Industrial Region of U.S.A.?
+
+Options:
+
+A. Cincinnati Indianapolis Region
+
+B. Great Kanhawa Valley Regionh
+
+C. Midlands Region
+
+D. Michigan lake Region
+(e) Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+The midlands is an area in Central England. It can be
+devided into the East and West midlands. Leicestershire,
+Northamptonshire, Derbyshire. Nottinghamshire, Lincoln
+and Rutland are the historical and geographical countries
+that make up the East midlands. The countries of
+staff ordshire,Warwickshire, Shropshire. Herefordshire and
+Worcestershire make up the West Midlands.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Mains) 2010, Q-IND-16**
+
+The largest producer of Wine in the world is :
+
+Options:
+
+A. France
+
+B. Italy
+
+C. Spain
+
+D. United States of America
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+According to International Organisation of Vine and Wine
+(data, Prel. 2023), the largest producer of Wine in the world
+is France followed by Italy and Spain. So, at present, option
+(a) will be correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — M.P. P.C.S. (Pre) 2021, Q-IND-17**
+
+Among the following densely populated regions, which one does not depend directly on agriculture?
+
+Options:
+
+A. Lower Valley of River Nile
+
+B. Eastern Plains of China
+
+C. Java Island
+
+D. North-Eastern United States of America
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+North-Eastern United States of America is densely populated and highly industrialised region. Some of the famous
+industrial towns in the region are- New York, Philadelphia,
+Boston, Pittsbur, Buff alo etc.
+
+</details>
+
+---
+

@@ -46,7 +46,7 @@ D. South Africa
 ---
 
 
-## Consolidated — 20 Must-Score Facts
+## Consolidated — 26 Must-Score Facts
 
 1. Coalfield–country pairs: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk / Donbass** = Ukraine. **Karaganda** = Kazakhstan coal city.
 2. **Mount Newman / Pilbara / Hamersley** = **iron** in Australia. **Krivoy Rog** = Ukraine iron. **Lorraine** = France. **Kiruna** = Sweden. **Mesabi** = USA. Germany–Normandy iron is **wrong** — **Normandy** is in **France**.
@@ -2988,3 +2988,2069 @@ D. Only 3
 22. **Rare earths = Chile only** — FALSE. Processing fact = **China**.
 23. **Carajás = Mount Newman** — FALSE. Carajás = Brazil iron; Newman = Australia iron.
 24. **Skip non-PYQ fields because papers asked Ruhr/Kinta** — FALSE. Next year can ask any Lucent field.
+
+
+## Additional Ghatnachakra Minerals & Energy PYQs (Full Set)
+
+**Inline PYQ — 40th B.P.S.C. (Pre) 1995, Q-MIN-1**
+
+Which of the following countries is the leading country in the reserve of Hard Coal?
+
+Options:
+
+A. Nepal
+
+B. China
+
+C. New Zealand
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+China was at the top in terms of the reserve of hard coal when
+this question was asked followed by the USA and India.
+According to the BP statistical review of world energy, 2021
+data the USA rank fi rst in the proven reserve of Anthracite
+and bituminous coal at the end of 2022 followed by China
+& India respectively.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-MIN-2**
+
+More than half of the world's production of coal comes from :
+
+Options:
+
+A. U.S.A. and Russia
+
+B. China and U.S.A.
+
+C. China and India
+
+D. South Africa and Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Option (b) is the correct answer when the question asked.
+According to data World Mineral Production 2017-21 in the year
+2021, China produced more than half of the world's production
+of coal.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2010, Q-MIN-3**
+
+Which of the following countries is the largest reservoir of coal?
+
+Options:
+
+A. Australia
+
+B. China
+
+C. New Zealand
+
+D. Brazil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Among the given options, China is the largest reservoir and
+producer of coal when the questoin asked. According to the
+BP statistical review of world energy, 2021 Australia has
+the leading position in the largest coal reserves among the
+given above option. The top three coal reserve globally are
+the USA, the Russian Union and Australia.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Spl) (Mains) 2010, Q-MIN-4**
+
+Rukwa lake region (Tanzania) is famous for which of the following mineral?
+
+Options:
+
+A. Mica
+
+B. Coal
+
+C. Iron ore
+
+D. Gold
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Various stones suitable for ornaments are found in the Rukwa
+lake region (Tanzania). Emerald, Moonstone, Aquamarine,
+Amethyst, Ruby and Topaz are prominent among them. Some
+coals layer are found in this region and some coal mining
+works has also been done in this region. Hence, option (b)
+is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — 66th B.P.P.C.S. (Pre) (Re-Exam) 2020, Q-MIN-5**
+
+Which of the following is not a coalfi eld of Germany?
+
+Options:
+
+A. Ruhr Valley
+
+B. Lorraine Basin
+
+C. Saar Basin
+
+D. Achen Basin
+(e) None of the above / More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Lorraine is a cultural and historical region in north-eastern
+France (mainly). Rest of the coalfi elds - Ruhr valley, Saar
+basin and Achen Basin are in Germany.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand P.C.S. (Pre) 2011, Q-MIN-6**
+
+Which one is the second largest metal present in the earth's womb?
+
+Options:
+
+A. Iron
+
+B. Aluminium
+
+C. Copper
+
+D. Zinc
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Iron is the most commonly found metal in the Earth's womb.
+After this, Nickle and Aluminium are found respectively. The
+most commonly found metal in the earth's crust is Aluminium
+and after that the second metal is Iron. Since Nickle is the
+second most commonly found metal in the Earth's womb.
+But here aluminium would be the desired answer as there is
+no nickel in the question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2008, Q-MIN-7**
+
+Identify the correct sequence of the iron ore producing countries of the world in their descending order :
+
+Options:
+
+A. Australia, China, Brazil, Sweden
+
+B. Brazil, Sweden, Australia, China
+
+C. China, Brazil, Sweden, Australia
+
+D. China, Brazil, Australia, Sweden
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+The correct descending order of Iron producer countries,
+in the year 2008 when the question was asked, was China,
+Brazil, Australia and Sweden. Presently, according to World
+Mineral Production 2017-21, the descending order of Iron
+ore producing (in the year, 2021) countries is as follows–
+Australia > China > Brazil > India.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A . (Pre) 2013, Q-MIN-8**
+
+Which one of the following is the largest producer of Iron ore in the world ?
+
+Options:
+
+A. China
+
+B. India
+
+C. Brazil
+
+D. France
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+China was the largest producer of Iron Ore in the world
+during the question period.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 1991, Q-MIN-9**
+
+The fi rst position in the production of Iron ore is of –
+
+Options:
+
+A. Phillippines
+
+B. America
+
+C. Russia
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+The largest producers of Iron Ore are Australia, China,
+Brazil, and India respectively (World Mineral Production,
+2017-21). As they are not given in the options, so India is
+the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. U.D.A./L.D.A. (Pre) 2010, 2013, Q-MIN-10**
+
+Among the iron-producing countries of Europe, France stands
+
+Options:
+
+A. First
+
+B. Second
+
+C. Third
+
+D. Fourth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+According to data for the year 2013, Russia, Ukraine and
+Sweden are the main Iron ore producing countries of Europe.
+France is not included in these four but data for the year 2013
+shows that France is at the fi fth position in the production of
+Pig Iron, subsequent to Russia, Ukraine, Germany and Turkiye.
+So none of the above will be correct answer. According to the
+data for the year 2021, Russia, Ukrain and Sweden are the three
+largest Iron Ore producing countries of Europe.
+
+</details>
+
+---
+
+**Inline PYQ — 69th B.P.S.C. (Pre), 2023, Q-MIN-11**
+
+Assertion (A) : Rich placer deposits of gold are found on the Ghana coast and gold-bearing veins are found in Brazil. Reason (R) : At some point of time, these continents were joined together along the Atlantic coast. Select the correct answer.
+
+Options:
+
+A. Both A and R are true and R is the correct explanation
+of A
+
+B. Both A and R are true but R is not the correct
+explanation of A
+
+C. A is false but R is true
+
+D. A is true but R is false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+It is remarkable that there are abundant placer gold deposits
+along Ghana's coast yet that there is not a single rock source
+in the area. Signifi cantly, when the two continents were side
+by side it was obvious that Ghana's gold reserves originated
+from the Brazil plateau because of the gold bearing veins
+located there. Hence Assertion (A) is right, but reason (R)
+is not right. It is worth mentioning that, one of the earliest hypotheses on how continents moved throughout time
+was described by 'Continental Drift theory'. On this map,
+Gondwana, an early 'Supercontinent' is depicted. Gondwana gradually shifted to make way for the current continents.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S. (Re-Pre) 2013, Q-MIN-12**
+
+The Lorraine Region of France is famous for :
+
+Options:
+
+A. Chemical industry
+
+B. Iron and Steel industry
+
+C. Cotton and textile industry
+
+D. Paper industry
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — 63rd B.P.S.C. (Pre) 2017, Q-MIN-13**
+
+'Rust Bowl' of the USA is associated with which one of the following regions?
+
+Options:
+
+A. Great Lakes region
+
+B. Alabama region
+
+C. California region
+
+D. Pittsburg region
+(e) None of the above/More than one of the above.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+Rust Bowl or Rust Belt Northeastern region of the USA. It
+is an iron producing economic region. It includes the territories of Illinois, Indiana, Michigan, Ohio and Pennsylvania.
+It includes the Great Lakes region, Pittsburgh region etc.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2016, Q-MIN-14**
+
+Which of the following industries is most developed in the Great Lake region of North America?
+
+Options:
+
+A. Cement and Paper
+
+B. Film Industries
+
+C. Food and Chemical
+
+D. Steel and Engineering
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+The great lakes region is a shared by two sovereign nations,
+canada and the united states. The areas that fall into the US are
+its eight states of Illinois, Indiana, Michigan, Minnesota, New
+York, Ohio, Phennsylvania and Wisconsin. The Canadian
+province that shares the lake is, Ontario.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 1997, Q-MIN-15**
+
+The fi rst three leading producers of iron ore in the world are:
+
+Options:
+
+A. Australia, China, U.S.A.
+
+B. China, Russia, Australia
+
+C. Russia, U.S.A., China
+
+D. U.S.A., Russia, U.K.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+When the question was asked option (b) was correct.
+According to World Mineral Production 2017-21, in the year
+2021, the top 3 leading producer of Iron ore in the world are
+Australia, China and Brazil.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S. (Pre) 1992, Q-MIN-16**
+
+African country Zambia has prolifi c copper reserves but economical progress has not been made in the country, because of –
+
+Options:
+
+A. Dense Forests
+
+B. lack of means of transportion
+
+C. No seaport
+
+D. Less population
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Zambia is a land-locked country in Southern Africa. There is
+a long copper belt from Zambia to Katanga (D. R. Congo).
+Despite abundant reserves of copper, this country could not
+progress as there are no sea route. Absence of sea routes has
+eliminated chances of export.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Spl) (Pre) 2010, Q-MIN-17**
+
+The largest copper producing country in Africa is :
+
+Options:
+
+A. South Africa
+
+B. Zambia
+
+C. Kenya
+
+D. Tanzania
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+According to the Indian Bureau of Mines during the period
+in question, Zambia was the largest producer of copper in
+the African continent.
+According to World Mineral Production, 2017-2021 (2021
+data) the largest copper producing country in the African
+continent is D. R. Congo the In this context, the place of
+Zambia is second.
+
+</details>
+
+---
+
+**Inline PYQ — 66th B.P.S.C. (Pre) 2020, Q-MIN-18**
+
+Among the following countries, which country has recorded the highest annual gold output (in tonnes) in 2019?
+
+Options:
+
+A. Russia
+
+B. Australia
+
+C. China
+
+D. United States of America
+(e) None of the above/More than one of the above.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+World Mineral Production, 2017-21, the highest gold production in the world was in China. According to this data
+production was 329000 kg. in China, 313830 kg in Russia,
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl.) (Pre) 2008, Q-MIN-19**
+
+Arrange the following countries in their descending order of Gold production. Choose the correct answer using the code given below : (i) Australia (ii) China (iii) South Africa (iv) U.S.A. Code :
+
+Options:
+
+A. (i) (ii) (iii) (iv)
+
+B. (iii) (iv) (i) (ii)
+
+C. (iv) (iii) (ii) (i)
+
+D. (ii) (iv) (i) (iii)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+South Africa was the largest producer of gold when this
+question was asked. According to World Mineral Production,
+2017-21 fi ve largest producer of gold in 2021 – China >
+Russia > Australia > Canada.
+
+</details>
+
+---
+
+**Inline PYQ — 60th to 62nd B.P.S.C. (Pre) 2016, Q-MIN-20**
+
+Which of the following activities is performed at Coolgardie?
+
+Options:
+
+A. Coal mining
+
+B. Copper mining
+
+C. Gold mining
+
+D. Forestry
+(e) None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S (Pre) 2011, Q-MIN-21**
+
+Coolgardie lies in the Australian province of –
+
+Options:
+
+A. New South Wales
+
+B. Northern Territory
+
+C. Queensland
+
+D. Western Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-MIN-22**
+
+Which of the following countries is the largest exporter of gold to India ?
+
+Options:
+
+A. Brazil
+
+B. UAE
+
+C. Switzerland
+
+D. South Africa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Switzerland is the largest gold exporting country to India in
+the year when the question was asked.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2017, Q-MIN-23**
+
+Asia's biggest gold market is :
+
+Options:
+
+A. Jakarta, Indonesia
+
+B. Beijing, China
+
+C. Kathmandu, Nepal
+
+D. Meerut, India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+According to the World Gold Council's Report (2012), China
+has pushed India back to become Asia's biggest gold market.
+1st China (612.5 metric tons), 2nd India (463.1 metric tons).
+Beijing is the biggest gold market in Asia.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2014, Q-MIN-24**
+
+Mexico is the largest producer of :
+
+Options:
+
+A. Gold
+
+B. Copper
+
+C. Zinc
+
+D. Silver
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Pre) 1993, Q-MIN-25**
+
+Maximum aluminium producing country in the world is–
+
+Options:
+
+A. Germany
+
+B. India
+
+C. Iron
+
+D. U.S.A
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+Maximum aluminium producing country (1993) in the world
+is U.S.A. Current situation – According to World Mineral
+Production 2017-21 in the year 2021, the largest Aluminium
+(primary) producers of the world are–
+Country Production
+China - 38502.60 Thousand Metric Tonnes
+Russia - 3640.00 Thousand Metric Tonnes
+India - 3583.80 Thousand Metric Tonnes
+Canada - 3157.76 Thousand Metric Tonnes
+UAE - 2540.00 Thousand Metric Tonnes
+
+</details>
+
+---
+
+**Inline PYQ — 56thto 59th B.P.S.C. (Pre) 2015, Q-MIN-26**
+
+The largest producer of aluminium in the world is –
+
+Options:
+
+A. France
+
+B. India
+
+C. U.S.A.
+
+D. Italy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The Five largest producers of aluminium in the world (in
+the year 2021) are China > Russia > India > Canada > UAE.
+
+</details>
+
+---
+
+**Inline PYQ — 39th B.P.S.C. (Pre) 1994, Q-MIN-27**
+
+Tin is found-
+
+Options:
+
+A. In Placer deposits
+
+B. In Metamorphic rocks
+
+C. In little silica Igneous
+
+D. In all these
+rocks
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+About 80% of World's Tin is found in placer deposits. These
+deposits are a natural concentration of heavy minerals caused
+by the eff ect of gravity on moving particles. Placer deposits
+are usually situated near river beds and valley or on the sea
+fl oor and are spread in South East Asia.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.S.C. (GIC) 2010, Q-MIN-28**
+
+The leading producer of Tin in the world is –
+
+Options:
+
+A. Bolivia
+
+B. Brazil
+
+C. Indonesia
+
+D. Malesia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+According to World Mineral Production, 2017-21, largest
+Tin producers of the world (2021) are :
+Country Production (Tonne)
+China - 80000
+Indonesia - 34466
+Myanmar - 32000
+Peru - 26995
+Since China is not among the options, the correct answer
+would be Indonesia.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 1998, Q-MIN-29**
+
+In relation to the production of petroleum the correct ascending order of the countries is –
+
+Options:
+
+A. China, Iran, U.S.A., Saudi Arabia
+
+B. Iran, U.S.A., China, Saudi Arabia
+
+C. Saudi Arabia, U.S.A. Iran, China
+
+D. U.S.A. Iran, China, Saudi Arabia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+Option (a) was correct when this question was asked.
+However presently, according to World Mineral Production
+2017-21 (Data - 2021) leading petroleum producers are –
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2021, Q-MIN-30**
+
+With reference to 'Alaska' which of the following statements is/are correct? (1) It is oil producing state of United States of America. (2) It was purchased from Russians in 1867. Select the correct answer using the code given below: Code -
+
+Options:
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+'Alaska' is the oil producing state of USA. It was bought by
+America from Russia in 1867 AD.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2008, Q-MIN-31**
+
+The three leading producers of petroleum in the world in descending order are –
+
+Options:
+
+A. Russia, Saudi Arabia, U.S.A.
+
+B. U.S.A., Saudi Arabia, Iran
+
+C. Saudi Arabia, Russia, U.S.A.
+
+D. Saudi Arabia, U.S.A., Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+According to World Mineral Production 2017-21, the three
+leading producers of petroleum in the world (2021) are USA,
+Russia and Saudi Arabia.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.S.C. (GIC) 2010, Q-MIN-32**
+
+The largest petroleum producer in the world is –
+
+Options:
+
+A. Kuwait
+
+B. Iran
+
+C. Saudi Arabia
+
+D. Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+In the year 2010, when this question was asked, the correct
+answer was option (d) but at present according to World
+Mineral Production 2017-21 (Data - 2021), Saudi Arabia is
+the third largest petroleum producer and USA ranked fi rst
+and Russia ranked second.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Spl) (Pre) 2008, Q-MIN-33**
+
+The correct sequence of leading producers of petroleum, in the Middle East in descending order is
+
+Options:
+
+A. Iran, Iraq, Kuwait, Saudi Arabia
+
+B. Saudi Arabia, Iran, Iraq, Kuwait
+
+C. Saudi Arabia, Kuwait, Iraq, Iran
+
+D. Saudi Arabia, Iran, Kuwait, Iraq
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+According to World Mineral Production 2017-21 (Data2021), leading petroleum producers in the Middle East are
+– Saudi Arabia, Iraq, Iran, UAE.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 1998, Q-MIN-34**
+
+Which of the following statement is true about petroleum production ? I. 60% of the world's petroleum deposits are found in the Middle East. II. Petroleum reserve in Alaska is certifi ed equivalent to Texas. III. U.S.A. is a prominent producer and importer for petroleum. Code :
+
+Options:
+
+A. I and II are true
+
+B. II and III are true
+
+C. I and III are true
+
+D. All are true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+The countries of Middle East i.e, Iran, Iraq, Kuwait, Saudi
+Arabia have more than 60% of the world's petroleum Reserve.
+So, statement I is true. According to Indian Minerals Year
+Book-2021, Middle East has the largest share (48.3%)
+of the world's petroleum deposits. The United States has
+petroleum reserves in 32 states. Three states with largest
+petroleum reserves are – Texas, Alaska and California. The
+petroleum deposits of Texas and Alaska are almost equal.
+Thus, statement II is also correct. Presently, there are more
+reserves in Alaska than Texas. According to World Mineral
+Production 2017-21 (Data - 2021), USA is the largest
+producer of petroleum followed by Russia. U.S.A. is a
+prominent importer country but not top importer country in
+world. Thus, Statement III is also correct.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2004, Q-MIN-35**
+
+The largest producer of Petroleum of South East Asia is:
+
+Options:
+
+A. Brunei
+
+B. Indonesia
+
+C. Malaysia
+
+D. Myanmar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+According to World Mineral Production 2017-21 (Data2021),Indonesia is the biggest petroleum producer in South
+Eastern Asia. Sumatra, Java and Kalimantan are important
+Petroleum producing region in Indonesia.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S. (Pre) 1993, Q-MIN-36**
+
+Venezuela is a large –
+
+Options:
+
+A. Banana Producer
+
+B. Zinc miner
+
+C. Heroin (Drug) producer
+
+D. Petroleum production centre
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+South American country Venezuela is among the leading
+petroleum producing countries. The economy of Venezuela
+is dominated by the petroleum sector. Oil/petroleum export
+generates about 86.25% (Data-2022) of the country's total
+export revenue.
+
+</details>
+
+---
+
+**Inline PYQ — 60th to 62nd B.P.S.C. (Pre) 2016, Q-MIN-37**
+
+Which country has the largest reserves of oil?
+
+Options:
+
+A. United States
+
+B. China
+
+C. Russia
+
+D. Venezuela
+(e) None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-MIN-38**
+
+The largest petroleum reserves are found in :
+
+Options:
+
+A. Iraq
+
+B. Iran
+
+C. Saudi Arabia
+
+D. U.S.A.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+In the year 2006, when this question was asked, option (c) was
+the correct answer but in present Venezuela is First place. The
+fi ve countries with the largest Petroleum Reserve, according
+to Indian Minerals Year Book - 2021 are as follows:
+(Country) Reserve deposit (billion tonnes)
+Venezuela - 48.0
+Saudi Arabia - 40.9
+Canada - 27.1
+Iran - 21.7
+Iraq - 19.6
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2002, Q-MIN-39**
+
+Which one of the following countries has the largest known reserves of oil :
+
+Options:
+
+A. Kuwait
+
+B. Iran
+
+C. Iraq
+
+D. Nigeria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+According to Indian Minerals Year Book - 2021, five
+countries with the largest reserves (oil) are – Venezuela,
+Saudi Arabia, Canada, Iran and Iraq. Since; Venezuela Saudi
+Arabia and Canada are not given in the options, the correct
+answer would be Iran.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2017, Q-MIN-40**
+
+In West Asia, the highest Petroleum producing country is :
+
+Options:
+
+A. Iraq
+
+B. Iran
+
+C. Saudi Arabia
+
+D. Lebanon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+According to World Mineral Production 2017-21 (Data -
+2021), Saudi Arabia is the largest oil producing country in
+West Asia. It is the third largest oil-producing country of the
+world after the USA and Russia.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-MIN-41**
+
+A commercial deal christened “Peace Pipeline” has been signed recently in the fi rst half of 2009. Identify the pipeline from the following list :
+
+Options:
+
+A. Russia to Europe
+
+B. Azerbaijan to Turkey
+
+C. Myanmar to China
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+Iran–Pakistan gas pipeline is also known as the 'Peace
+Pipeline' or IP gas pipeline.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S. (Re. Exam) (Pre) 2013, Q-MIN-42**
+
+Which crop group out of the following contains crop/ crops that cannot be used for biofuel production?
+
+Options:
+
+A. Sugarcane, Corn, Mustards
+
+B. Jatropha, Sugarcane, Palm
+
+C. Lentil, Sugarbeet, Wheat
+
+D. Soyabean, Corn Rapeseed
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Lentil, Sugarbeet and Wheat are crops that cannot be used
+for biofuel production. Biofuel is a fuel that is derived from
+biomass, that is plant material or animal waste. Sugarcane, Corn
+Soyabean, Rapeseed, Jatropha are used for biofuel production.
+Biofuel is cost eff ective and alternative to petroleum.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2017 U.P.P.C.S. (Mains) 2017, Q-MIN-43**
+
+Among the following countries, which was the highest crude oil supplier to India during 2017-18 :
+
+Options:
+
+A. Saudi Arabia
+
+B. Iran
+
+C. Iraq
+
+D. Kuwait
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Iraq was the largest supplier of crude oil to India in the year
+2017-18. It is worth mentioning that earlier Saudi Arabia was
+the largest supplier of crude oil. According to Indian Minerals Year Book 2021 (Data - 2020-21 'P'), Iraq supplied maximum of petroleum (Crude) to India. It is followed by Saudi
+Arabia and United Arab Emirates (UAE) respectively.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2017, Q-MIN-44**
+
+Where is Ras Tanura Oil Refi nery located?
+
+Options:
+
+A. Iran
+
+B. United States of America
+
+C. Saudi Arabia
+
+D. Iraq
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Ras Tanura is the one of the oldest refi nery on the Persian
+Gulf coast, located near the industrial port city Jubail in Saudi
+Arabia. This oil refi nery was started in 1945.
+
+</details>
+
+---
+
+**Inline PYQ — 64th B.P.S.C. (Pre) 2018, Q-MIN-45**
+
+Which one among the following countries of the world, except the United States of America, is the largest crude oil producer?
+
+Options:
+
+A. Russia
+
+B. China
+
+C. Saudi Arabia
+
+D. Canada
+(e) None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+According to World Mineral Production 2017-21 in the year
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2009 I.A.S. (Pre) 2006, Q-MIN-46**
+
+Which one of the following is a prominent Uranium producer ?
+
+Options:
+
+A. U.S.A.
+
+B. Canada
+
+C. Germany
+
+D. Zambia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2006, Q-MIN-47**
+
+Which of the following countries is the biggest producer of Atomic Minerals in the World ?
+
+Options:
+
+A. Russia
+
+B. China
+
+C. U.S.A.
+
+D. Canada
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2009 Uttarakhand P.C.S. (Pre) 2005, Q-MIN-48**
+
+The largest reserves of Uranium are found in –
+
+Options:
+
+A. Canada
+
+B. Australia
+
+C. South Africa
+
+D. Brazil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+Australia's Uranium reserves are the world's largest reserves,
+Olympic Dam Mine situated in South Australia.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2014, Q-MIN-49**
+
+Which one of the following countries is known for very important uranium ore deposits ?
+
+Options:
+
+A. Canada
+
+B. China
+
+C. Pakistan
+
+D. Zaire
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+Among the given options, Canada is known for Uranium
+deposits. According to World Nuclear Association (data
+2021) Australia has the biggest reserve of Uranium followed
+buy Kazakhastan and Canada respectively.
+
+</details>
+
+---
+
+**Inline PYQ — 65th B.P.S.C. (Pre) 2019, Q-MIN-50**
+
+Which one of the following countries is the largest producer of uranium in the world ?
+
+Options:
+
+A. Kazakhstan
+
+B. Canada
+
+C. Australia
+
+D. France
+(e) None of the above/ More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+According to the World Nuclear Association (Data - 2022)
+Kazakhstan is the largest Producer of Uranium.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2017, Q-MIN-51**
+
+Which of the following is not among the major resources of Russia?
+
+Options:
+
+A. Coal
+
+B. Iron-ore
+
+C. Diamonds
+
+D. Uranium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+When the question was asked option (d) was correct answer.
+Russia possesses rich reserves of iron ore, manganese,
+Chromium, nickel, platinum, titanium, copper, tin, lead,
+tungsten, diamonds phosphates and gold. However, Russia
+has 6th position of Uranium Production in 2022 and 4th
+position of Uranium reserve in 2021 (According to World
+Nuclear Association) countries producing Uranium.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2021, Q-MIN-52**
+
+Consider the following statements : 1. The Global Ocean Commission grants licences for seabed exploration and mining in international waters. 2. India has received licences for seabed mineral exploration in international waters. 3. 'Rare earth minerals' are present on seafl oor in international waters. Which of the statements given above are correct?
+
+Options:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The ocean-level exploration and mining license in
+international water is granted by the United Nations'
+International Seabed Authority. In the year 2014, this
+organization had given license to public and private
+companies of countries like India, Brazil, Singapore etc. Rare
+earth minerals are present on seafl oor in internation waters.
+Hence statements 2 and 3 are true.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2014, Q-MIN-53**
+
+Natural camphor is obtained from –
+
+Options:
+
+A. high altitude rocks of Himalayan mountains
+
+B. foams of Angel Falls in Venezuela
+
+C. a tree native to China and Japan
+
+D. sediments of tides of the sea near Andaman
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Natural Camphor is obtained from various sources :
+(i) Cinnamomum Camphora is the native tree to China and
+Japan through which camphor is obtained.
+(2) Blumea Species of compositae origin Camphor is found
+in India.
+(3) Borneo, Sumatra Camphor is obtained from Dryobalanops
+origin.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S. (Re. Exam) (Pre) 2013, Q-MIN-54**
+
+Which group of minerals represents non-ferrous metals?
+
+Options:
+
+A. Nickel, Zinc, Copper, Aluminium
+
+B. Nickel, Aluminium, Iron ore, Zinc
+
+C. Copper, Pig iron, Nickel, Steel
+
+D. Nickel, Carbon Steel, Aluminium, Zinc
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+Non-Ferrous metals are those minerals which have negligible
+iron content. Non-ferrous metals are Aluminium, Copper,
+Zinc, Tin, Titanium, Lead, Nickel etc. In addition to these,
+some other non-ferrous metals are Gold, Silver, Cobalt,
+Gallium, Beryllium, Cerium, Tungsten, Mercury, Platinum,
+Zirconium, Cadmium, Germanium.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2000, Q-MIN-55**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists. List-I (Minerals) List- II (Major producer)
+
+Options:
+
+A. 3 1 4 2
+
+B. 3 1 2 4
+
+C. 1 3 2 4
+
+D. 1 3 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+The correct match is as follows :
+(Minerals) (Major producer)
+Minerals Oil - Venezuela
+Copper - Zambia
+Manganese - Gabon
+Bauxite - Guyana
+Hence (a) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2005, Q-MIN-56**
+
+'Mesabi Range' at international level is known for producing –
+
+Options:
+
+A. Copper
+
+B. Gold
+
+C. Iron ore
+
+D. Uranium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2010, Q-MIN-57**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists : List-I List-II (Minerals) (Important centres)
+
+Options:
+
+A. 2 4 3 1
+
+B. 2 3 4 1
+
+C. 1 3 2 4
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Spl.) (Pre) 2008, Q-MIN-58**
+
+Recently, according to a news mineral reserves worth $1 trillion are found in Afghanistan. Mark that mineral which is compared with discovery of oil fi eld in Iran?
+
+Options:
+
+A. Gold
+
+B. Lithium
+
+C. Cobalt
+
+D. Iron
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The discovery of Lithium mineral in Afghanistan was
+compared with the discovery of the oil fi eld in Iran.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2009, Q-MIN-59**
+
+The leading producer of Titanium in the world is
+
+Options:
+
+A. India
+
+B. Japan
+
+C. Russia
+
+D. U.S.A.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+When the question was asked, Russia was the leading
+producer of Titanium in the world. At present, according
+to the fi gures of USGS Mineral Commodity Summaries,
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2013, Q-MIN-60**
+
+The biggest producer of Bauxite in the world is –
+
+Options:
+
+A. Australia
+
+B. Brazil
+
+C. China
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+According to the data of Indian Mineral Year Book-2012
+Australia is the leading producer of Bauxite. According to
+Mineral Commodity Summaries 2023 (data, 2022) Australia
+continued to be the major producer of Bauxite.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2015, Q-MIN-61**
+
+Which one of the following countries is the largest producer of Bauxite?
+
+Options:
+
+A. Guinea
+
+B. Australia
+
+C. India
+
+D. Jamaica
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S.(Pre) 2010, Q-MIN-62**
+
+The mineral which has earned fame to Chile is
+
+Options:
+
+A. Gold
+
+B. Manganese
+
+C. Nitrate
+
+D. Mineral oil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Nitrate, in its natural form, is found at a wider scale in Chile
+and Peru. Atacama desert located in North Chile and South
+Peru has the largest source of Nitrate.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2012, Q-MIN-63**
+
+China, which is the largest producer of these elements, has imposed some restrictions on their export. 2. Other than China, Australia ,Canada and Chile, these elements are not found in any country. 3. Rare earth metals are essential for the manufacture of various kinds of electronic items and there is a growing demand for these elements. Which of the statement(s) given above is/are correct?
+
+Options:
+
+A. Only 1
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Rare earth metals are a group of 17 chemical elements found
+in the earth's crust that are vital to many modern technologies
+including consumer electronics, computers, networks,
+communications, clean energy, etc. All of the world's
+heavy rare earth come from Chinese rare earth sources. In
+2010, China produced over 95% of the world's rare earth
+metals supply (According to USGS, Mineral Commodity
+Summaries, 2023 (data 2022) China produced about 70%
+rare earths). China has announced regulations on export
+and a crackdown on smuggling. Since these metals were
+easily available from China and its production causes serious
+trouble to environment. Thererfore, most of the countries
+stopped its production. According to Indian Minerals Year
+Book 2021, India have 6900000 thousands tonnes reserves
+of rare earth metals. Hence, option (c) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — 53rd to 55th B.P.S.C. (Pre) 2011, Q-MIN-64**
+
+Commercial sources of energy purely consist of-
+
+Options:
+
+A. Power, coal, oil, gas, hydro-electricity and uranium
+
+B. Coal, oil, fi rewood, vegetable waste and agricultural
+waste
+
+C. Power, coal, animal dung and fi rewood
+
+D. Coal, gas, oil and fi rewood
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+Commercial sources of energy purely consist of power, coal,
+oil, gas, hydro-electricity and uranium.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Spl) (Pre) 2010, Q-MIN-65**
+
+The highest Copper producing Country in Africa is –
+
+Options:
+
+A. South Africa
+
+B. Zambia
+
+C. Kenya
+
+D. Tanzania
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+At present according to the World Mineral Production
+2017-21 (Data-2021), D.R. Congo is the biggest producer
+of copper in Africa. When the question was asked Zambia
+was the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2023, Q-MIN-66**
+
+About three-fourths of world's cobalt, a metal required for the manufacture of batteries for electric motor vehicles, is produced by:
+
+Options:
+
+A. Argentina
+
+B. Botswana
+
+C. the Democratic Republic of the Congo
+
+D. Kazakhstan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+According to World Mineral Production data 2017-21, in
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2002, Q-MIN-67**
+
+Where was the fi rst nuclear power station established in the world?
+
+Options:
+
+A. Britain
+
+B. Germany
+
+C. Russia
+
+D. U.S.A.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+The pursuit of nuclear energy for electricity generation
+began soon after the discovery in the early 20th century that
+radioactive elements, such as radium, released an immense
+amount of energy, according to the principle of mass-energy
+equivalence. In 1932, James Chadwick discovered the
+Neutron, which was immediately recognized as a potential
+tool for nuclear experimentation because of its lack of an
+electric charge. Experimentation with a bombardment of
+materials with neutrons led Frederic and Irene Juliut-Curie
+to discover induced radioactivity in 1934, which allowed the
+creation of radium-like elements at much less the price of
+natural radium. Further work by Enrico Fermi in the 1930s
+focused on using slow neutrons to increase the eff ectiveness
+of induced radioactivity. In the United States, where Fermi
+and Szilárd had both emigrated, this led to the creation of
+the fi rst man-made reactor, known as Chicago Pile-1, which
+was successfully operated on December 2, 1942. This work
+became part of the Manhattan Project, which made enriched
+uranium and built large reactors to breed plutonium for use
+in the fi rst nuclear weapons, which were used on the cities
+of Hiroshima and Nagasaki. Electricity was generated for
+the fi rst time by a nuclear reactor on December 20, 1951, at
+the EBR-I (Experimental Breeder Reactor-1) experimental
+station near Arco, Idaho,USA which initially produced about
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2002, Q-MIN-68**
+
+Which one of the following country is not a member of the OPEC :
+
+Options:
+
+A. Algeria
+
+B. China
+
+C. Indonesia
+
+D. U.A.E.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The Organization of the Petroleum Exporting Countries
+(OPEC) is federation of petroleum exporting countries. The
+members of OPEC are Iran, Iraq, Kuwait, Saudi Arabia,
+Venezuela, Republic of the Congo, Equatorial Guinea , Libya
+, United Arab Emirates , Algeria , Nigeria and Gabon . Earlier
+Indonesia was the member of OPEC but Indonesia suspended
+its membership in January 2009, but fi nally suspended from
+30th November, 2016.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2013, Q-MIN-69**
+
+The Chernobyl nuclear disaster occurred in:
+
+Options:
+
+A. France
+
+B. Japan
+
+C. Ukraine
+
+D. Germany
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+The Chernobyl nuclear disaster happened in April 1986 in
+then Soviet Union and current Ukraine. Ukraine was part of
+Soviet Union when this nuclear disaster happened.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S.(Pre) 2013, Q-MIN-70**
+
+Arrange the following countries in descending order of their number of operational nuclear power plants: 1. France, 2. Russia, 3. Japan, 4. U.S.A.
+
+Options:
+
+A. 3, 4, 2, 1
+
+B. 3, 1, 4, 2
+
+C. 4, 1, 2, 3
+
+D. 4, 3, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+According to IAEA data, operational nuclear power plants descending order: USA > France > China > Russia > Japan / Republic of Korea.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-MIN-71**
+
+Which one of the following is the correct sequence of the countries in descending order of their nuclear power capacity as per 2012 ?
+
+Options:
+
+A. Russia, Japan, China, France
+
+B. France, Russia, Japan, China
+
+C. Japan, Russia, France, China
+
+D. France, Japan, Russia, China
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+When the question was asked option (d) was correct answer.
+According to the IAEA data till March 2024, the details of
+the major 4 countries in terms of nuclear power capacity (in
+GWe) are as follows - 1. USA, 2. France, 3. China, 4. Russia.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2021, Q-MIN-72**
+
+In which of the following countries 99 percent of its total energy requirement is obtained by Hydro-Power?
+
+Options:
+
+A. New Zealand
+
+B. Switzerland
+
+C. Norway
+
+D. Brazil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Norway receives about 99 percent of its total energy needs
+from hydroelectricity. On the other hand, China ranks fi rst
+in terms of hydroelectric installed capacity (in 2022).
+
+</details>
+
+---
+

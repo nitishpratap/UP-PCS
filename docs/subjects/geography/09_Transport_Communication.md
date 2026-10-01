@@ -900,6 +900,61 @@ Keep these as one-line map associations that leak into the transport–economy p
 
 ---
 
+
+
+---
+
+## Master Table — World Transport, Major Ports, Rock Tunnels & Cartography Lines (Ghatnachakra Complete)
+
+### 1. World Highways & Rail Routes
+- **Trans-Canadian Highway**: Connects Saint John's (Newfoundland) on Atlantic to Vancouver (British Columbia) on Pacific.
+- **Alaska Highway**: Connects Dawson Creek (British Columbia, Canada) to Delta Junction (Alaska, USA).
+- **Stuart Highway**: Connects Darwin (Northern Territory) to Melbourne (Victoria) via Alice Springs & Port Augusta in Australia.
+- **Trans-African Highway 4**: Connects Cairo (Egypt) to Cape Town (South Africa).
+- **First Public Railway**: **1825** between Stockton and Darlington in Northern England.
+- **Railway Length Ranks**: **USA (148,553 km) > China (109,767 km) > Russia (85,544 km) > India (68,103 km) > Canada (48,150 km)**.
+- **Trans-Siberian Railway**: World's longest railway (~9,300 km), connects St. Petersburg / Moscow to Vladivostok on Pacific. Major stops: Perm, Kazan, Yekaterinburg, Tyumen, Omsk, Novosibirsk, Krasnoyarsk, Ulan-Ude, Chita, Khabarovsk (does NOT pass Sochi).
+- **Trans-Andean Railway**: Connects **Valparaiso (Chile)** to **Buenos Aires (Argentina)** across Andes.
+- **Canadian Pacific Railway**: Completed in **1885**, connects **Montreal to Vancouver**.
+- **Orient Express**: Connects Paris & Le Havre to **Istanbul (Turkey)** across 8 European nations.
+
+### 2. Longest Rock Tunnels & Canals
+- **Delaware Aqueduct (USA)**: World's longest rock tunnel (137 km, drilled through bedrock to supply New York City).
+- **Päijänne Water Tunnel (Finland)**: World's 2nd longest rock water tunnel (120 km, supplies Helsinki).
+- **Bolmen Water Tunnel (Sweden)**: 82 km rock water tunnel.
+- **Euro Tunnel / Channel Tunnel**: Undersea rail tunnel linking Folkestone (UK) and Coquelles (France).
+- **Seikan Tunnel (Japan)**: 53.85 km rail tunnel (23.3 km under seabed) connecting Honshu & Hokkaido.
+- **Gotthard Base Tunnel (Switzerland)**: Longest & deepest rail tunnel (57 km).
+- **North Atlantic Ocean Route**: Busiest ocean route and trade artery in the world (links industrial NE USA/Canada and NW Europe).
+- **Suez Canal Lakes (North to South)**: **Lake Manzala → Lake Timsah → Great Bitter Lake → Little Bitter Lake**.
+
+### 3. World Seaports & Harbours
+- **Busiest Seaports (Cargo Tonnage & Containers)**: **Shanghai** (#1, China), **Singapore** (#2), **Ningbo-Zhoushan** (#3), Shenzhen (#4), Guangzhou (#5).
+- **Rotterdam (Netherlands)**: Largest port in Europe, at the mouth of the Rhine River.
+- **Santos (Brazil)**: Known as the **"Coffee Port"** of the world.
+- **Port Nolloth (South Africa)**: Known as **"Port Diamond"** (diamond trade hub in Namaqualand).
+- **Gwadar Port**: Strategically vital deep-sea port in **Balochistan province**, Pakistan on Arabian Sea.
+- **Maracaibo (Venezuela)**: Oil port connected via 55 km Tablazo Strait to Lake Maracaibo.
+- **Alexandria (Egypt)**: Egyptian port in Nile Delta; cotton export and oil/gas pipelines.
+- **Yokohama**: Busiest seaport of Japan.
+- **Igarka**: Russian port on Yenisey River (NOT China).
+- **Periplus of the Erythraean Sea**: 1st-century Greco-Roman sailing manual for Indian Ocean ports (author unknown).
+
+### 4. Cartography & Map Isolines
+- **Isopleth**: Generalizes continuous 3D distribution on maps (weather maps, temperature, elevation).
+- **Isobar**: Lines connecting points of equal atmospheric pressure at sea level.
+- **Isohyet**: Lines connecting points of equal rainfall.
+- **Isohaline**: Lines connecting points of equal salinity in oceans.
+- **Isotherm**: Lines connecting points of equal temperature.
+- **Isobath**: Lines connecting points of equal depth under water.
+- **Isogonic / Isogonal line**: Lines connecting points of equal magnetic declination.
+- **Isonif**: Lines connecting points of equal snowfall.
+- **Isohypse**: Line of equal geopotential height on constant pressure surface.
+- **Contours**: Lines of equal ground elevation above sea level (close = steep slope, wide = gentle slope).
+- **Ferdinand Magellan**: Portuguese explorer who achieved the first circumnavigation of the Earth (1519–1522).
+
+---
+
 ## Complete PYQ Bank
 
 **Instructions:** Answers are under **Show answer** spoilers. Read the full stem before opening.
@@ -5437,3 +5492,510 @@ D. Neither 1 nor 2
 35. **Charkhari = ghost town** — FALSE. Ghost-town names are Kuldhara, Dhanushkodi, Lakhpat.
 36. **BARC = Karnataka** — FALSE. **Maharashtra**. Thumba = **geomagnetic equator** site in Kerala.
 37. **Moradabad sarees** — FALSE. Brassware; saree map = Chanderi / Banarasi / Kanjivaram.
+
+
+## Additional Ghatnachakra World Transport, Ports & Mapping PYQs (Full Set)
+
+**Inline PYQ — U.P.P.C.S. (Pre) 1998, Q-TRP-1**
+
+Which of the following is the busiest sea route of the world?
+
+Options:
+
+A. Indian Ocean
+
+B. North Atlantic Ocean
+
+C. South Atlantic Ocean
+
+D. Pacifi c Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+North Atlantic Ocean Route is the busiest ocean route. Major
+ports of western Europe i.e., London, Liverpool, Hamburg,
+Amsterdam etc. and major ports of North America like
+Quebec, New York, Boston, Philadelphia etc. come under
+the North Atlantic Ocean Route.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1997, Q-TRP-2**
+
+During a fl ight from Delhi to Tokyo, the following are the landing airports: 1. Hongkong 2. Hanoi 3. Taipei 4. Bangkok. The correct sequence of the landing at these airports during an onward journey is :
+
+Options:
+
+A. 1, 2, 3, 4
+
+B. 4, 2, 1, 3
+
+C. 3, 4, 1, 2
+
+D. 4, 1, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+During a fl ight from Delhi to Tokyo, the aeroplane will land in
+Bangkok (Thailand), Hanoi (Vietnam) , Hongkong (China),
+Taipei City (Taiwan) airports respectively. Thus, option (b)
+has the correct sequence.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) 2023, Q-TRP-3**
+
+With reference to the 'Rhine River in Europe', which of the following statements/s is /are correct? 1. Rhine river is an important pathway for industrial activity in northern Germany. 2. Post of Rotterdam is located at the mouth of the Rhine river. Select the correct answer using the code given below : Code :
+
+Options:
+
+A. Both 1 and 2
+
+B. Only 2
+
+C. Only 1
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The Rhine River fl ows from the Swiss Alps through the rift
+valley and empties in to the North Sea. The famous city
+of Bonn in Germany is situated on its banks. It fl ows from
+Germany. The Rhine River is an important pathway for Industrial activities in Western and Southern Germany, therefore statement 1 is wrong.
+The port of Rotterdam is located in the delta of the Rhine -
+Meuse - Scheldt rivers in the Netherland.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1994, Q-TRP-4**
+
+The shortest air-route from Perth to London is:
+
+Options:
+
+A. Perth, Bombay, Rome, London
+
+B. Perth, Ankara, Paris, London
+
+C. Perth, Aden, Paris, London
+
+D. Perth, Mombasa, Rome. London
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+After observing various given routes, it is clear that option
+(a) is the shortest air-route from Perth to London.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2000, Q-TRP-5**
+
+The given map shows locations of airports labelled as 1, 2, 3, 4 and 5. What is the correct sequences of the airports in which the hijacked Indian Airlines plane IC-814 landed after its initial take off from Kathmandu in December 1999?
+
+Options:
+
+A. 3, 1, 2, 4
+
+B. 2, 4, 1, 3
+
+C. 5, 4, 2, 3
+
+D. 5, 1, 3, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+The Indian airlines plane IC-814, which was hijacked after
+its initial take off from Kathmandu in December 1999, landed
+at Amritsar airport marked "5" in the map, then in Lahore
+marked "4" in the map, then in Dubai marked "2" in the map
+and fi nally landed at Kandahar airport marked "3" in the map.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2014 U.P.P.C.S. (Spl) (Mains) 2008, Q-TRP-6**
+
+The correct sequence in descending order of the given countries in terms of railway length in the world is
+
+Options:
+
+A. India, U.S.A., Germany, Canada
+
+B. Canada, Germany, U.S.A., India
+
+C. U.S.A., Canada, India, Germany
+
+D. Germany, U.S.A., Canada, India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The correct sequence in descending order of the given
+countries in terms of railway length in the world are USA
+, India, Canada, Germany which is not given in the option.
+Thus, none of the options is correct.
+(Countries) (Railway Length, in Kms.)
+USA - 148553 (2021)
+China - 109767 (2021)
+Russia - 85544 (2021)
+India - 68103 (2021)
+Canada - 48150 (2021)
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2013, Q-TRP-7**
+
+The longest rock tunnel of the world is located in
+
+Options:
+
+A. Finland
+
+B. Greenland
+
+C. Japan
+
+D. Sweden
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The Delaware Aqueduct is the newest of aqueducts in New
+York City. It takes water from the Rondout Reservoir through
+the Chelsea Pump Station, the West Branch Reservoir, and
+the Kensico Reservoir, ending at the Hillview Reservoir in
+Yonkers, New York.
+ The Paijanne Water Tunnel located in Southern Finland,
+is the world’s second longest tunnel (after the Delaware
+Aqueduct in the USA). It is 120 kilometres (75 mi) long
+and runs 30–100 meters under the surface in bedrock. The
+purpose of the tunnel is to provide fresh water for the millions
+of people in Southern Finland in the cities of Helsinki,
+Espoo, Vantaa, Hyvinkaa, Jarvenpaa, Kerava, Kauniainen,
+Kirkkonummi, Sipoo, and Tuusula.
+Hence, the correct answer is New York city which is not in
+options. According to commission the correct answer is (a).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2012, Q-TRP-8**
+
+The world’s longest Rail-road tunnel Seikan is in :
+
+Options:
+
+A. China
+
+B. South Korea
+
+C. Japan
+
+D. Malaysia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+When the question was asked the longest rail route tunnel
+of the world, Seikan is located in Japan. Its length is 53.85
+kilometres. Presently longest and deepest Rail tunnel is
+Gothard.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2005, 2006, Q-TRP-9**
+
+Which one of the following has the largest harbour in the world ?
+
+Options:
+
+A. London
+
+B. Colombo
+
+C. Rotterdam
+
+D. Newyork
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+At the time when the question was asked Rotterdam was the
+largest harbour in the world. World's 5 largest harbours as in
+the year 2021 were :
+
+</details>
+
+---
+
+**Inline PYQ — U.P. U.D.A./L.D.A. (Mains) 2010, Q-TRP-10**
+
+The world’s busiest seaport by cargo tonnage is :
+
+Options:
+
+A. Busan
+
+B. Rotterdam
+
+C. Singapore
+
+D. Shanghai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2021, Q-TRP-11**
+
+With reference to Rhine river in Europe, which of the following statements is / are correct? (1) Rhine river is an important pathway for industrial activity in Northern Germany. (2) Port of Rotterdam is located at the mouth of Rhine river. Select the correct answer using the code given below: Code:
+
+Options:
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+In recent years receding water levels in Rhine threaten
+German economy as about 300 million tons of goods and
+products shipped from Rhine each year. Port of Rotterdam
+(Netherlands), the largest seaport in Europe is located at the
+mouth of Rhine river.
+The Rhine originates in Swiss Alps (Switzerland), passes
+through French border to Germany and empties into the
+North Sea via Netherlands.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2004, Q-TRP-12**
+
+Which one of the following is now the second biggest port in the world ?
+
+Options:
+
+A. Capetown
+
+B. New York
+
+C. Shanghai
+
+D. Tokyo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+When this question was asked, Shanghai was the second
+biggest port of the World after Singapore. But according to the
+World Shipping Council, 2020, container capacity (volume)
+based on the top three port of the world are as follows. 1.
+Shanghai (China), 2. Singapore, 3. Ningbo Zhoushan (China).
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.S.C. (GIC) 2010, Q-TRP-13**
+
+Port diamond is located in –
+
+Options:
+
+A. Australia
+
+B. Sri Lanka
+
+C. South Africa
+
+D. Zaira
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+Port Nolloth, a town of South Africa, is known as Port
+Diamond. The port was previously a Transhipment point
+for copper from the Okiep mines and diamonds from the
+Namaqualand region. Nolloth port has been developed as a
+diamond production area.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. U.D.A./L.D.A. (Mains) 2010, Q-TRP-14**
+
+In terms of the monetary value, the largest shipbuilder of the world is –
+
+Options:
+
+A. China
+
+B. Japan
+
+C. South Korea
+
+D. U.S.A.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+In terms of the monetary value, the largest shipbuilder country
+of the world is South Korea.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2021, Q-TRP-15**
+
+Gwadar Port in Pakistan is situated in which of the following provinces?-
+
+Options:
+
+A. Balochistan
+
+B. Khyber Pakhtunkhwa
+
+C. Punjab
+
+D. Sindh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+Gwadar port is a port city on the Arabian Sea in Balochistan
+province in the far South-Western part of Pakistan.
+
+</details>
+
+---
+
+**Inline PYQ — 64th B.P.S.C. (Pre) 2018, Q-TRP-16**
+
+Who wrote Periplus of the Erythraean Sea?
+
+Options:
+
+A. Ctesias
+
+B. Pliny
+
+C. Ptolemy
+
+D. Strabo
+(e) None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+The Periplus of the Erythraean Sea or Periplus of the Red
+Sea is a Greco-Roman periplus written in Koine Greek that
+describes navigation and trading opportunities from Roman
+Egyptian ports like Berenice Troglodytica along the Coast
+of Red Sea and others along the Horn of Africa, the Sindh
+region of Pakistan, along with southwestern regions of India.
+The text has been ascribed to diff erent dates between the fi rst
+and the third century. A mid-fi rst century date is now the most
+commonly accepted.
+While the author is unknown, it is clearly a first-hand
+description by someone familiar with the area and is nearly
+unique in providing accurate insights into what the ancient
+European world knew about the lands around the Indian Ocean.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1994, Q-TRP-17**
+
+Consider the map given below: The map shows the sea voyage route followed by:
+
+Options:
+
+A. Thomas Cook
+
+B. Ferdinand Magellan
+
+C. John Cabot
+
+D. Vasco da Gama
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+The map shows the sea voyage route followed by (World
+traveller) Ferdinand Magellan. Ferdinand Magellan was a
+Portuguese explorer (1480 - 1521) who completed the fi rst
+circumnavigation of the Earth.
+
+</details>
+
+---
+

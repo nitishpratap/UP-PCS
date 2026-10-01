@@ -31,7 +31,7 @@
 ---
 
 
-## Consolidated — 36 Must-Score Facts
+## Consolidated — 50 Must-Score Facts (Ghatnachakra & UPPCS Aligned)
 
 1. **Net sown area (NSA)** is land sown at least once a year. **Gross cropped area (GCA)** counts every sowing. **Cropping intensity** = **GCA / NSA × 100** (about **111%** in 1950–51 to about **156%** now). About **86%** of holdings are small or marginal, and about half of NSA is still rainfed.
 2. Groundwater covers about **64%** of irrigated area (**2018–19**: tubewell ~**48.5%**; canals ~**23%**; tanks ~**2.3%**). Canals suit clayey plains; tube wells dominate north-west and western Uttar Pradesh (उत्तर प्रदेश); tanks suit the peninsula; drip suits horticulture. Minor projects (CCA ≤ **2,000 ha**) create ~**62%** of irrigation potential.
@@ -73,6 +73,20 @@
 36. Animal husbandry flash: India usually leads world **milk** volume; White Revolution / Operation Flood pairs with **Verghese Kurien** and **NDDB Anand**.
 
 ---
+37. **Wheat Dwarfing Gene & Mutants:** **Norin-10** is the principal dwarfing gene of wheat. **Sonora-64** was developed through induced mutation at IARI. **Macaroni wheat** (*Triticum durum*) is ideal for rainfed/dryland conditions. **Triticale** is a man-made cereal cross between **Wheat and Rye (Rai)**.
+38. **Critical Irrigation Stage in Wheat:** **Crown Root Initiation (CRI)** stage (20–25 days after sowing) is the single most critical stage for wheat irrigation; moisture stress at CRI leads to severe tillering loss.
+39. **Rice Intensification (SRI):** Developed in Madagascar (1980s), the System of Rice Intensification relies on alternate wetting and drying, resulting in **reduced seed rate, reduced methane emissions, and lower electricity consumption**.
+40. **Rice Seasons in Eastern India:** **Aman** (winter crop, sown June–July, harvested Nov–Dec); **Aus/Kar** (autumn crop, sown May–June, harvested Sept–Oct); **Boro/Dalua** (summer crop, sown Nov–Dec, harvested March–April).
+41. **Cotton Biology & "White Gold":** Cotton belongs to the **Malvaceae** family; fibres are seed hairs obtained from seeds. India was the first to develop **hybrid cotton**. Requires **210 frost-free days**. Khandwa–Khargone (Nimar region, MP) is famously known as the *White Gold* region.
+42. **Sustainable Sugarcane Initiative (SSI):** Joint venture of **WWF-ICRISAT (2009)** using fewer seed canes, bud chips in nurseries, wide spacing, and drip fertigation. Adsali sugarcane in Maharashtra takes **16–18 months** to mature.
+43. **First Sugar Mill & Breeding:** The first sugar mill in India was established at **Pratappur (Deoria, UP) in 1903**. The **Sugarcane Breeding Institute (SBI)** was set up in **Coimbatore (Tamil Nadu) in 1912**.
+44. **Oilseed Dynamics & Pegging:** **Pegging** is the unique physiological process in **groundnut** where fertilized flower pegs penetrate the soil horizontally to form pods; groundnut requires **gypsum** application for pod filling. Safflower (*Carthamus tinctorius*) oil contains 78% linoleic acid which reduces blood cholesterol.
+45. **Pulses & Atmospheric Nitrogen:** Legumes fix nitrogen symbiotically with *Rhizobium*, requiring **Cobalt** as an essential micronutrient. Balanced NPK ratio for pulses is **1:2:2** or **1:2:3**. **Rajma** (*Phaseolus vulgaris*) is the only major pulse that has poor/inefficient symbiotic nitrogen fixation.
+46. **Sericulture Monopolies:** India is the only country producing all four commercial silks: **Mulberry** (Karnataka ~43%), **Tasar** (Jharkhand ~66%; Oak Tasar in Manipur), **Muga** (Assam ~81%, endemic golden silk), and **Eri** (Assam ~75%).
+47. **Commodity Boards Headquarters:** **Coffee Board** = Bengaluru (Karnataka); **Rubber Board** = Kottayam (Kerala); **Tea Board** = Kolkata (West Bengal); **Tobacco Board** = Guntur (Andhra Pradesh); **Spices Board** = Kochi (Kerala).
+48. **Livestock Census & Leading Breeds:** Total cattle in 2019 Census = **193.46 million** (West Bengal #1, UP #2, MP #3). Buffaloes = UP #1. Sheep = Telangana #1. **Jamunapari** is the highest milk-yielding Indian goat breed (2.5–3 kg/day). **Kharai camels** of Kutch swim up to 3 km in seawater to graze on mangroves.
+49. **National Seed Bag Tags:** **Breeder Seed** = Golden Yellow; **Foundation Seed** = White; **Certified Seed** = Blue.
+50. **Organic Farming Pioneer:** **Sikkim** became India's first 100% organic state in January 2016, operating under the National Programme for Organic Production (NPOP) with APEDA as secretariat.
 
 ## Confused Pairs
 
@@ -3899,6 +3913,7525 @@ D. 1 and 2
 **Logic:** Parallel cropping classic = wheat + mustard.
 
 </details>
+
+## Ghatnachakra Purvavlokan — Topic 6 Agriculture PYQ Bank
+
+> **Curated Coverage:** Complete 344 Ghatnachakra Purvavlokan questions for Indian Agriculture (Food crops, Cash crops, Oilseeds, Pulses, Silk, Plantation, Jhuming, Animal Husbandry & Miscellaneous) aligned to UPPSC Prelims standards.
+
+
+### N.2.1 Rabi Crops (Wheat, Barley, Mustard, Gram)
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2000, Q-AGRI-1**
+In which months is the Rabi crop sown?
+
+A. March-April
+
+B. June-July
+
+C. October-November
+
+D. January-February
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — On the basis of seasons, the crops in India have been divided into three types. Kharif crops: The Kharif crop is the summer crop or monsoon crop in India. Kharif crops are usually sown with the beginning of the first rains i.e in June- July and harvested in October - November. Major Kharif crops of India include Millets (Bajra & Jowar), Cotton, Soyabean, Sugarcane, Turmeric, Paddy (Rice), Maize, Moong (Pulses), Groundnut, Red Chillies, etc. Rabi Crops: The Rabi crop is the spring harvest or winter crop in India . It is sown in October-November last and harvested in March-April every year. Major Rabi crops in India include Wheat, Barley, Mustard, Sesame, Peas, Potatoes. Zaid Crop: This crop is grown in some parts of the country from March to July. Prominent examples are Muskmelon, Watermelon, Vegetables of Cucurbitaceae family such as bitter gourd, pumpkin, ridged gourd, etc.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2016, Q-AGRI-2**
+Which of the following is a "Rabi" crop :
+
+A. Cotton
+
+B. Maize
+
+C. Tur
+
+D. Mustard
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2013, Q-AGRI-3**
+Rabi crops are sown :
+
+A. From October to November
+
+B. From December to March
+
+C. From May to July
+
+D. From August to September
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S.(Pre) 1999, Q-AGRI-4**
+Which of the following is not a Kharif Crop ?
+
+A. Groundnut
+
+B. Maize
+
+C. Masoor
+
+D. Paddy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2006, Q-AGRI-5**
+Which of the following is not a Rabi Crop ?
+
+A. Lady’s fi nger
+
+B. Carrot
+
+C. Radish
+
+D. Pea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 1994, Q-AGRI-6**
+Which is not a Kharif Crop –
+
+A. Paddy
+
+B. Gram
+
+C. Maize
+
+D. Jwar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 1995, Q-AGRI-7**
+Which of the following is odd on the basis of crops?
+
+A. Paddy
+
+B. Jowar
+
+C. Maize
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — In the above options, wheat is Rabi crop and rest all are Kharif crops.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1996, Q-AGRI-8**
+Which one of the following sets of conditions is
+necessary for good cultivation of wheat?
+
+A. Moderate temperature and moderate rainfall
+
+B. High temperature and heavy rainfall
+
+C. High temperature and moderate rainfall
+
+D. Low temperature and low rainfall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — In India, wheat requires 10o to 25o C temperature and 50 to 75 cm evenly distributed average annual rainfall which can be termed as moderate temperature and moderate rainfall. Wheat is grown on 30.5 million hectare area (2021-22 4th A.E.) of the total cropped area.
+
+</details>
+
+---
+
+**Inline PYQ — 39th B.P.S.C. (Pre) 1994, Q-AGRI-9**
+Cash Crop does not consist –
+
+A. Sugarcane
+
+B. Cotton
+
+C. Jute
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Cash crops include Sugarcane, Cotton, Jute, Tobacco, Oilseeds etc and Wheat, Rice etc. are food crops.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S (Pre) 1998, Q-AGRI-10**
+Which group of crops mentioned below comprises of
+Cash Crop ?
+
+A. Wheat, Maize, Rice
+
+B. Gram, Peas, Wheat
+
+C. Cotton, Sugarcane, Bananas
+
+D. Rice, Gram, Tea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 1998, Q-AGRI-11**
+With which of the following countries has India done
+an agreement to import 15 lakh tonn wheat with a view
+to the possibility of less production?
+
+A. Australia
+
+B. Mexico
+
+C. U.S.A.
+
+D. Canada
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Government of India in the year 1998 signed an agreement with Australia to import 15 lakhs tonnes of Wheat.
+
+</details>
+
+---
+
+**Inline PYQ — 67th B.P.S.C. Re Exam (Pre) 2022, Q-AGRI-12**
+What was the total production of wheat in India as per
+the 4th advance estimates in the year 2020-21?
+
+A. 209.5 million tonnes
+
+B. 501.5 million tonnes
+
+C. 201.23 million tonnes
+
+D. 109.5 million tonnes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — When the question was asked option (d) was correct answer. According to Economic Survey data 2022-23, the total production of wheat in India in 2021-22 (4th A.E.) was 106.8 million tonnes.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2006, Q-AGRI-13**
+Which one of the following sequence is correct in the
+context of the three largest wheat producing states?
+
+A. Punjab, Uttar Pradesh and Haryana
+
+B. Uttar Pradesh, Haryana and Punjab
+
+C. Uttar Pradesh, Punjab and Haryana
+
+D. Punjab, Haryana and Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Three largest wheat producing states, when this question was asked, were – Uttar Pradesh, Punjab and Haryana. According to 2022-23 Economic Survey data, in 2021-22(4th A.E.) three largest producers of wheat are – (i) Uttar Pradesh (ii) Madhya Pradesh (iii) Punjab.
+
+</details>
+
+---
+
+**Inline PYQ — 53rd to 55th B.P.S.C. (Pre) 2011, Q-AGRI-14**
+The highest wheat-producing state of India is-
+
+A. Haryana
+
+B. Punjab
+
+C. Bihar
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2016, Q-AGRI-15**
+Which among the following States was the largest
+producer of wheat in India in the year 2015-16?
+
+A. Haryana
+
+B. Uttar Pradesh
+
+C. Punjab
+
+D. Bihar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to Agriculture Statistics at a glance (in 2015-16) issued by Agriculture and Farmers Welfare department, the three largest producers of wheat are as follows : State Production 2015-16 (M. tonnes) 2021-22 (4th A.E.) (M. tonnes) Uttar Pradesh 25.43 33.95 Punjab 16.08 14.82 Madhya Pradesh 17.69 22.42
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2016, Q-AGRI-16**
+The State that yields 'maximum production of wheat'
+in India is –
+
+A. Haryana
+
+B. Uttar Pradesh
+
+C. Punjab
+
+D. Bihar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Uttar Pradesh yields maximum production of wheat in India. At present, (2021-22 4th A.E.) percent share of wheat production throughout India is highest in U.P. (33.95 million tonnes) followed by Madhya Pradesh (22.42 million tonnes) and Punjab (14.82 Million tonnes).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2015, Q-AGRI-17**
+'Mahi Sugandha' is a variety of
+
+A. Rice
+
+B. Wheat
+
+C. Sunflower
+
+D. Mustard
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Mahi Sugandha is a variety of Basmati Rice. It has longer grains and is non-sticky elongated after cooking. Other varieties of rice are - Abha (R-155-355), Ajay (CRHR-7), Akashi, Ambika, Deepti, Divya Gajpati (IET-13251), Garima Geetanjali (CRM-2007-1).
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2008, Q-AGRI-18**
+Uttar Pradesh ranks first in the production of which
+of the following crops?
+
+A. Rice and Wheat
+
+B. Wheat and Sugarcane
+
+C. Rice and Sugarcane
+
+D. Wheat and Pulses
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to Economic Survey 2022-23 in the Year 2021-22 (4th AE), Uttar Pradesh ranks first in the production of Wheat and Sugarcane.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2015, Q-AGRI-19**
+Which of the following wheat varieties has been
+developed through induced mutation?
+
+A. Kalyan Sona
+
+B. Sonora-64
+
+C. Sharbati Sonara
+
+D. Sonalika
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — To increase the possibility of increasing the wheat production in India, scientists introduced five dwarf wheat varieties, viz, Lerma Rojo 64-A, Sonora-63, Sonora 64, Mayo 64 and S227. Sonora-64 is developed through induced mutation exercise at IARI, which increases the production of wheat.
+
+</details>
+
+---
+
+**Inline PYQ — UPPCS Prelims, Q-AGRI-20**
+Dwarfi ng gene in Wheat is –
+(b) Norin - 10 (b) Dee-gee-woo-gen
+(c) Opaque - 2 (d) None of the above
+U.P. Lower Sub. (Pre) 201
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Norin 10 is dwarfi ng gene of wheat, Dee-Gee-Woo-gen is of rice and 'Opaque-2' gene is related to maize.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2004, Q-AGRI-21**
+Macaroni wheat is most suitable under what
+conditions–
+
+A. Highly irrigated conditions
+
+B. Late sown conditions
+
+C. Rainfed conditions
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — The production of Macaroni wheat is most suitable under rainfed conditions.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2015, Q-AGRI-22**
+Raj 3077 is a variety of –
+
+A. Maize
+
+B. Jowar
+
+C. Rice
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Raj 3077 is a variety of wheat. It is sown late. Its average production is 36-40 quintal/hectare. Other varieties of wheat are – Sonalika, Arjun, Kundan, Amar (HW-2004), Bhawani (HW-1085), Chandrika (HPW- 184), Deshratna (BR-104), Kanchan (DR-803), Girija Gomti (K-9465), Prabhani (51- PUSA) etc.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2016, Q-AGRI-23**
+'Pusa Sindhu Ganga' is a variety of
+
+A. Wheat
+
+B. Paddy
+
+C. Lentil
+
+D. Gram
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Pusa Sindhu Ganga (HD 2967) is a variety of wheat identifi ed by 48th All India Wheat and Barley Research Workers Meet held at IAREI, New Delhi.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Mains) 2016, Q-AGRI-24**
+UP-308 is a variety of
+
+A. Rice
+
+B. Wheat
+
+C. Cotton
+
+D. Millet
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — U.P. 308 is Mexican dwarf wheat variety. It is mainly used in Darbhanga district of Bihar.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2009, Q-AGRI-25**
+The production of wheat in India during 2006-07 and
+2009-10 has –
+
+A. Maintained an upward trend
+
+B. Experienced as shortfall
+
+C. Experienced fl uctuations
+
+D. Remained stagnant
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The production of wheat in India increased during 2006-07 and 2009-10. In the year 2006-07 the production of wheat was 75.81 million tonnes, in 2007-08 it was 78.57 million tonnes, in 2008-09 it was 80.68 million tonnes and in 2009-10 it was 80.80 million tonnes. In the year 2021-22 (4th A.E.), it reached to 106.8 million tonnes.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2003, Q-AGRI-26**
+Which one of the following is a disease of the wheat
+crop :
+
+A. Blast
+
+B. Tikka
+
+C. Dust
+
+D. Rust U.P.P.C.S. (Mains) 2004
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Wheat is aff ected by three different types of Rust diseases: Yellow Rust, Brown Rust and Black Rust.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2005, Q-AGRI-27**
+Kalyana Sona is a variety of-
+
+A. Rice
+
+B. Maize
+
+C. Wheat
+
+D. Jowar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Kalyana Sona is a high yielding variety of wheat.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2002, Q-AGRI-28**
+Consider the following high yielding varieties of crops
+in India:
+1. Arjun 2. Jaya
+3. Padma 4. Sonalika
+Which of these is wheat?
+
+A. 1 and 2
+
+B. 2 and 3
+
+C. 1 and 4
+
+D. 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Sonalika and Arjun are varieties of wheat while Jaya and Padma are varieties of rice.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Spl) (Mains) 2010, Q-AGRI-29**
+Variety of pigeon pea(Arhar) suitable for double
+cropping with wheat is-
+
+A. N. A-1
+
+B. Bahar
+
+C. U.P.A.S-120
+
+D. None of the Above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — U.P.A.S-120 is a suitable variety of pigeon pea(Arhar) which can be used for double cropping with wheat. Other variety of Arhar are I.C.P.L.-151, I.C.P.L.-87, Bahar, N.D.A.-I etc.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2013, Q-AGRI-30**
+Consider the following statements :
+1. Highest production of wheat in India is obtained
+from the state of U.P.
+2. Cropping pattern occupying the highest area in
+U.P. is rice-wheat.
+3. An extension worker does not need political
+competency.
+4. The most critical stage of irrigation in wheat is
+flowering stage.
+Which of these statements are correct ?
+
+A. Only 1 and 2
+
+B. Only 2 and 3
+
+C. Only I, 2 and 4
+
+D. Only I, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — According to Economic Survey 2022-23 in the year 2021-22 (4th A.E.) data, the largest producer of wheat is Uttar Pradesh. Rice and wheat occupy the largest area in cropping pattern in U.P. Irrigations are given at critical stages of growth. These stages include C.R.I. stage (Crown root initiation) in this irrigation is done after 20 to 25 days of sowing to promote tillering. CRI stage is the most critical stage for irrigation in wheat because any shortage of moisture at this stage results in less tillering, formation of small eartheads and great reduction in yield.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-AGRI-31**
+‘Triticale’ is a cross between which of the following?
+
+A. Barley and Rye
+
+B. Wheat and Oat
+
+C. Wheat and Barley
+
+D. Wheat and Rye
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — “Triticale” is a cross (hybrid) between Wheat and Rai.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2020, Q-AGRI-32**
+The statements are given below, labelled as Assertion
+(A) and Reason (R). In the context of these two statements, select the correct answer from the codes given
+below.
+Assertion (A) : Punjab, Haryana, Uttar Pradesh are
+major wheat producing states of India.
+Reason (R) : The well drained fertile soil, 100
+– 150
+C
+temperature during winter and about 75 cm annual
+average rainfall are necessary for wheat production.
+Codes :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Punjab, Haryana, Uttar Pradesh are major wheat producing states of India. So the assertion is true. The well drained fertile soil, 100 –150 C temperature during winter and about 75cm annual average rainfall are necessary for wheat production. From this point of view the reason is also true. But reason (R) is not the correct explanation of assertion (A).
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2015, Q-AGRI-33**
+'Karnal bunt' is a disease of –
+
+A. Paddy
+
+B. Pea
+
+C. Mustard
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Karnal Bunt is a fungal disease of wheat. It is caused by Tilletia Indica. This disease was first identifi ed in 1931.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand .P.C.S. (Pre) 2021, Q-AGRI-34**
+The botanical name of macaroni wheat is :
+
+A. Triticum aestivum
+
+B. Triticum monococcum
+
+C. Triticum durum
+
+D. Triticum dicoccum
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — The botanical name of macaroni wheat is Triticum durum.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) 2017, Q-AGRI-35**
+Which one of the following substances is a herbicide?
+
+A. Chlorpyrifos
+
+B. Carbendazim
+
+C. Quinolphos
+
+D. Butachlor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Butachlor is a herbicide. Chlorpyrifos and Quinolphos are a pesticide. Carbendazim is a fungicide.
+
+</details>
+
+---
+
+
+### N.2.2 Kharif Crops (Paddy/Rice, Millets, Maize)
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2015, Q-AGRI-36**
+Rice originated in –
+
+A. Europe
+
+B. South-East Asia
+
+C. South America
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rice originated in South-East Asia. Rice requires temperature above 25o C and an average rainfall above 100 cm.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2022, Q-AGRI-37**
+Reduced methane production
+3. Reduced electricity consumption
+Select the correct answer using the code given below :
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — "System of Rice Intensifi cation (SRI) of cultivation is an advanced system of paddy planting and agriculture. Under this, alternate wetting and drying of paddy fi elds is done. Signifi cantly, the system of Rice Intensifi ction known as SRI - le. System de Riziculture in French, is originated in Medagascar in 1980s and based on the cropping principles of significantly reducing plant population, improving soil conditin and irrigation methods for root and plant development and improving plant establishment methods. It is worth mentioning here that under this type of cultivation reduced seed requirement and reduced methane production as well as reduced electricity consumptions are obtained. Thus we can say all three statements are true.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2013, Q-AGRI-38**
+Rice 4. Wheat
+Which of these are Kharif crops ?
+
+A. 1 and 4
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — In India, the cultivation season is divided into Kharif and Rabi. Kharif crop is sown mainly during June-July and harvested in September-October. Main crops of Kharif are as follows – Rice, Millet (Bajra and Jawar), Cotton, Soybean, Sugarcane, Maize, Groundnut, Red Chillies etc. In the given options, Wheat is a Rabi crop while rest crops are Kharif Crop.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1994, Q-AGRI-39**
+The ideal climatic conditions for the cultivation of rice
+are:
+
+A. rainfall above 100 cm, temperature above 25° C
+
+B. cool and moist climate for the entire crop period
+
+C. rainfall below 100 cm, temperature below 25° C
+
+D. warm and dry climate during the entire crop period
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Rice is a Kharif crop which requires an average temperature of 25°C and high humidity with the annual rainfall of above100 cm. In the areas of less rainfall, it grows with the help of irrigation. Thus (a) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2004, Q-AGRI-40**
+Which one of the following is a Kharif Crop ?
+
+A. Lentil
+
+B. Linseed
+
+C. Mustard
+
+D. Soyabean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — On the basis of seasons, crops in India are mainly divided in 3 types. (i) Kharif – Rice, Jowar, Maize, Cotton, Soyabean, Groundnut, Millet, Ragi, Bajra, Jute etc. (ii) Rabi - Wheat, Peas, Pulses, Mustard etc. (iii) Zaid - Muskmelon, Watermellon, cucumber, Bitter gourd, Sunflower etc.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand PC.S. (Pre) 2011, Q-AGRI-41**
+Which of the following is not a Kharif Crop?
+
+A. Cotton
+
+B. Groundnut
+
+C. Maize
+
+D. Mustard U.P.P.C.S.(Pre) 2012
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S (Mains) 2011, Q-AGRI-42**
+Which of the following is not a Kharif Crop?
+
+A. Arhar or toor dal
+
+B. Gram
+
+C. Maize
+
+D. Rice
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — 41st B.P.S.C. (Pre) 1996, Q-AGRI-43**
+Chief food crop of India is –
+
+A. Wheat
+
+B. Rice
+
+C. Maize
+
+D. Pulses U.P. Lower Sub. (Pre) 2004
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rice is the chief food crop of India, Wheat is the second most important food crop of India. Thus, option (b) is correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — 41st B.P.S.C. (Pre) 1996, Q-AGRI-44**
+Which of the following is the most important food crop
+in terms of cropped area?
+
+A. Wheat
+
+B. Maize
+
+C. Barley
+
+D. Rice 40th B.P.S.C. (Pre) 2000
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — According to Economic Survey 2022-23, rice occupies largest cropping area (46.4 million hectares). Wheat is grown on 30.5 million hectare area during 2021-22 (4th A.E.).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2011, Q-AGRI-45**
+Which of the following crops occupies the largest area
+in India ?
+
+A. Wheat
+
+B. Sugarcane
+
+C. Maize
+
+D. Rice
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-AGRI-46**
+In India, the largest area under rice cultivation lies in
+the state of
+
+A. Andhra Pradesh
+
+B. Orissa
+
+C. Uttar Pradesh
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — According to data for the year 2021-22 (4th A.E.), the largest area under rice cultivation is in Uttar Pradesh (5.70 million hectares).
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2014, Q-AGRI-47**
+In India, per hectare average production of rice in the
+year 2013-14 was
+
+A. 2419 kgs
+
+B. 3059 kgs
+
+C. 2602 kgs
+
+D. 770 kgs
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Average production of rice per hectare in the year 2013-14 was 2416 kg. According to data Agriculture statistics at a Glance 2022, this, was 2809 kg/hectares, during 2021-22 (4th A.E.).
+
+</details>
+
+---
+
+**Inline PYQ — 40th B.P.S.C. (Pre) 1995, Q-AGRI-48**
+The region known as the Rice Bowl of India is –
+
+A. Kerala and Tamil Nadu
+
+B. Delta region of Krishna-Godavari
+
+C. North East region
+
+D. Indus Gangetic Plain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to the given options, the delta region of Krishna and Godavari is known as the 'Rice Bowl of India. This region comes under Andhra Pradesh. Rice is cultivated on 2.25 million hectare area (2021-22 4th A.E.) of the total cropped area of Andhra Pradesh. Almost two third of total rice production is cultivated during the Kharif crop. Here, most important area for the production of rice is Rayalseema which is extended on Krishna-Godavari delta region. Thus, (b) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2015, Q-AGRI-49**
+In which of the following states, the productivity of
+rice is the highest ?
+
+A. Punjab
+
+B. U.P.
+
+C. Haryana
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Highest productivity of rice in India is in Punjab which is 4340 kg/hectare as per 2021-22 (4th A.E.).
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2005, Q-AGRI-50**
+Which of the following is not a Variety of Rice?
+
+A. Hansa
+
+B. Jaya
+
+C. Jawala
+
+D. Padma
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Important varieties of rice are –Jamuna, Karuna, Jaya, Kanchi, Jagannath, Krishna, Kaveri, Hansa, Vijaya, Padma, Annapurna, Bala and Ratna.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-51**
+Jaya, Padma and Krishna are improved varieties of
+which of the following cereals ?
+
+A. Rice
+
+B. Wheat
+
+C. Barley
+
+D. Maize
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2011, Q-AGRI-52**
+'Aman' rice is grown during
+
+A. April-May
+
+B. June-July
+
+C. November-December
+
+D. May-June
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Varieties of Rice Time of Harvesting 1. Aman June- July (sowing) to November- December (Harvesting)(winter crop) 2. Aus or Kar May-June (sowing) to September October(Harvesting) (Autumn Crop) 3. Boro or Dalua November-December (sowing) to March-April (harvesting)(Summer Crop)
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-53**
+Pusa Sugandha-5 is an aromatic variety of :
+
+A. Maize
+
+B. Red gram
+
+C. Rice
+
+D. Sugarcane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Pusa Sugandha-5 is an aromatic variety of rice.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-54**
+‘Barani deep’ is a variety of –
+
+A. Pigeon pea
+
+B. Maize
+
+C. Paddy
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Barani deep, Narendra Sankar, Narendra Shuska Samrat, Lalmati etc are varieties of rice.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2015, Q-AGRI-55**
+Which one of the following is a hybrid variety of
+Basmati rice?
+
+A. Pusa RH- 10
+
+B. Pusa Sugandh - 3
+
+C. Pusa Basmati- 1
+
+D. Pusa Sugandh - 5
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Pusa RH-10 is a hybrid variety of Basmati Rice. Other hybrid varieties are PHB-71, Ganga, Suruchi, KRH-2, Sahyadri-4 etc.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2014, Q-AGRI-56**
+The proper seed Ratio for transplanting of basmati
+rice is
+
+A. 40-50 kg/ha
+
+B. 20-30 kg/ha
+
+C. 15-20kg/ha
+
+D. 5-10 kg/ha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — The proper seed ratio for transplanting of Basmati Rice is 15-20 Kg per hectare.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2001, Q-AGRI-57**
+Consider the following statements and choose the
+correct code to answer –
+Assertion(A) : Punjab is a major exporter of rice.
+Reason(R) : This state leads in the rice production.
+Code:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is false but, (R) is true
+
+D. (A) is true but, (R) is false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Punjab is one of the major rice-producing States in India and exports rice to other states of India. According to data of Agricultural Statistics at a Glance 2022, during the year 2021- 22 (4th A.E.) West Bengal is the leading/largest producer of rice followed by Uttar Pradesh at second place and Punjab is the third largest rice producing state. Thus, assertion (A) is true but reason (R) is false, when the question was asked. Now option (a) stands correct as per data.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-58**
+Which among the following states is the largest
+producer of rice in India ?
+
+A. Andhra Pradesh
+
+B. Madhya Pradesh
+
+C. West Bengal
+
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2000, Q-AGRI-59**
+Which one of the following organisms can serve as a
+biofertilizer for rice crop?
+
+A. Blue-green algae
+
+B. Rhizobium
+
+C. Mycorrhizal fungi
+
+D. Azotobacter
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Blue-green algae, Azospirillum, Phosphobacteria, Azolla, etc. are used as biofertilizers for rice crop.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2003, Q-AGRI-60**
+Assertion (A) : The Eastern coast of India produces
+more rice than the Western coast.
+Reason (R) : The Eastern coast receives more
+rainfall than the Western coast.
+Code :
+
+A. Both (A) and (R) are true individually and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are individually true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — The western coast receives more rainfall than the eastern coast because the western coast is narrower than the eastern coast and has high altitude mountain than eastern coast. The reason for rice production being more in the eastern coast is its suitable climate, soil and rainfall.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2010, Q-AGRI-61**
+In India, during the last decade the total cultivated
+land for which one of the following crops has remained
+more or less stagnant?
+
+A. Rice
+
+B. Oilseeds
+
+C. Pulses
+
+D. Sugarcane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Crop Cropped Area (In Million Hectares) 2010-11 2020-21 2021-22 (4th A.E.) Rice 42.9 45.8 46.4 Oilseed 27.2 28.8 29.2 Pulses 26.4 28.8 31.0 Sugarcane 4.9 4.9 5.2 The above data shows that the total cropped area for rice cultivation has remained stagnant. Cropped area of other crops has increased.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2004, Q-AGRI-62**
+The states which account for more than half of the total
+rice production in India are –
+
+A. West Bengal, Punjab, Tamilnadu and Odisha
+
+B. West Bengal, Uttar Pradesh, Punjab, and Andhra Prdesh
+
+C. Uttar Pradesh, West Bengal, Chhattisgarh and Assam
+
+D. Punjab, Andhra Pradesh, Bihar and Odisha. U.P. Lower Sub. (Spl) (Pre) 2009
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — West Bengal, Uttar Pradesh, Punjab, and Andhra Pradesh account for more than half of the total rice production in India.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2003, Q-AGRI-63**
+Arrange the following states of India in the ascending
+order of their rice production :
+1. Andhra Pradesh
+2. Punjab
+3. Tamil Nadu
+4. West Bengal
+Select the correct answer from the codes given below:
+
+A. 3, 4, 2, 1
+
+B. 4, 2, 3, 1
+
+C. 2, 3, 1, 4
+
+D. 3, 2, 1, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — When the question was asked option (d) was correct but according to the data for the year 2021-22 (4th A.E.) the current status (According to option) is as follows : (States) (Rice Production) (Million Tonnes) Tamil Nadu 8.07 Punjab 12.89 Andhra Pradesh 7.79 West Bengal 16.76
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2011, Q-AGRI-64**
+The surplus producer of rice in India is –
+
+A. Andhra Pradesh
+
+B. Bihar
+
+C. Punjab
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — According to data for the year 2008-09, Andhra Pradesh had the highest market surplus ratio among the States given in the options. In the year 2014-15, Punjab is on top in this regard, followed by Haryana.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-AGRI-65**
+In India, rice is cultivated in the areas having over-
+
+A. 20 cm annual rainfall
+
+B. 30 cm annual rainfall
+
+C. 60 cm annual rainfall
+
+D. 100 cm annual rainfall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The water requirement for cultivation of rice crop is comparatively higher than any other crop. Rice is cultivated in areas having over 100 cm annual rainfall.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-AGRI-66**
+Which one of the following states is having largest area
+under hybrid rice cultivation?
+
+A. Bihar
+
+B. Karnataka
+
+C. Punjab
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Uttar Pradesh has the highest are under the cultivation of the given hybrid rice.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2004, Q-AGRI-67**
+In India four major producers of rice are –
+
+A. Punjab, Uttar Pradesh, Tamil Nadu, Odisha
+
+B. Uttar Pradesh, West Bengal, Bihar, Assam
+
+C. West Bengal, Punjab, Uttar Pradesh, Andhra Pradesh
+
+D. West Bengal, Uttar Pradesh, Tamil Nadu, Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — At the time when this question was asked four major producers of rice were-West Bengal, Punjab, Uttar Pradesh and Andhra Pradesh. But According to the current data of the year 2021-22 (4th AE) the four states are as follows-West Bengal, Uttar Pradesh, Punjab and Telangana.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2009, Q-AGRI-68**
+Arrange the following state of India in descending
+order of their rice production and select the correct
+answer from the codes given below :
+1. Andhra Pradesh 2. Punjab
+3. Uttar Pradesh 4. West Bengal
+Code :
+
+A. 2, 1, 4, 3
+
+B. 3, 4, 1, 2
+
+C. 4, 1, 3, 2
+
+D. 4, 3, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — When the question was asked option (d) was correct answer. The descending order of the States according to their rice production during 2021-22 (4th A.E.) is as follows- (States) Rice Production (Million Tonnes) West Bengal 16.76 Uttar Pradesh 15.27 Punjab 12.89 Telangana 12.30
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) 2017, Q-AGRI-69**
+Among the Indian States, which state has the highest
+yield (per hectare) of rice?
+
+A. West Bengal
+
+B. Uttar Pradesh
+
+C. Haryana
+
+D. Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Highest productivity of rice in India is in Punjab which is 4340 kg/hectare as per 2021-22 (4th A.E.).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2011, Q-AGRI-70**
+Which of the following crops are grown mainly in the
+irrigated areas during Zaid ?
+
+A. Arhar and Gram
+
+B. Moong and Urad
+
+C. Rice and Millets
+
+D. Maize and Groundnut
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Moong and Urad are the crops which are mainly grown in the irrigated areas during Zaid.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2017, Q-AGRI-71**
+Which of the following crop is transplanted?
+
+A. Mustard
+
+B. Rice
+
+C. Wheat
+
+D. Maize
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Paddy crop is transplanted. Transplanting is commonly practised as a method of Weed control for wet or puddled fi elds. It requires less seed but much more labour compared to direct seeding. The transplanted crops take longer to mature due to transplantation shock. Majority of the rice fi elds in Asia are manually transplanted.
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2017, Q-AGRI-72**
+Which of the following is not correct pair of crop and
+its leading producing State?
+
+A. Rice : West Bengal
+
+B. Wheat : Uttar Pradesh
+
+C. Cotton : Gujarat
+
+D. Rape and Mustard : Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — According to the question period, option (e) was the correct answer. According to the year 2021-22 (4th A.E.), West Bengal is the leading producer of rice, Uttar Pradesh of wheat, Mustard from Rajasthan and cotton from Gujarat.
+
+</details>
+
+---
+
+**Inline PYQ — 66th B.P.C.S. (Pre) (Re-Exam) 2020, Q-AGRI-73**
+Choose the correct sequence of the States of India,
+according to ascending order of rice production in
+the year 2018-19.
+
+A. Punjab, Uttar Pradesh, Rajasthan, Haryana, Madhya Pradesh
+
+B. Uttar Pradesh, Punjab, Haryana, Madhya Pradesh, Rajasthan
+
+C. Rajasthan, Haryana, Madhya Pradesh, Punjab, Uttar Pradesh
+
+D. Punjab, Rajasthan, Haryana, Madhya Pradesh, Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — According to fi gures of Agriculture Statistics at a Glance, 2021 top 5 Rice production (2021-22, 4th A.E.) states in India are West Bengal, Uttar Pradesh, Punjab, Telangana and Odisha.
+
+</details>
+
+---
+
+**Inline PYQ — 67th B.P.S.C. (Pre.) 2022, Q-AGRI-74**
+Consider the following States :
+1. Punjab
+2. Uttar Pradesh
+3. Andhra Pradesh
+4. West Bengal
+Choose the correct sequence of the above in ascending
+order as rice producing States in India.
+
+A. West Bengal, Punjab, Andhra Pradesh, Uttar pradesh.
+
+B. West Bengal, Uttar Pradesh, Andhra Pradesh, Punjab.
+
+C. Andhra Pradesh, Uttar Pradesh, West Bengal, Punjab.
+
+D. Andhra Pradesh, Punjab, Uttar Pradesh, West Bengal.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — When the question was asked option (d) was correct answer. According to the data for the year 2021-22 (4th A.E.) the correct status is – Telangana < Punjab < Uttar Pradesh < West Bengal.
+
+</details>
+
+---
+
+**Inline PYQ — Chattisgarh P.C.S. (Pre) 2017, Q-AGRI-75**
+Which of the following plant is not helpful in nitrogen
+fi xation?
+
+A. Gram
+
+B. Pea
+
+C. Bean
+
+D. Paddy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Among the given options, paddy plant is not helpful in nitrogen fi xation.
+
+</details>
+
+---
+
+**Inline PYQ — 60th to 62nd B.P.S.C. (Pre) 2016, Q-AGRI-76**
+Which of the following is not a cash crop?
+
+A. Jute
+
+B. Groundnut
+
+C. Jowar
+
+D. Sugarcane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Among the given options, Jowar is not a cash crop, whereas jute, sugarcane and groundnut are cash crops.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2019, Q-AGRI-77**
+With reference to the cultivation of Kharif crops in
+India in the last five years, consider the following
+statements:
+1. Area under rice cultivation is the highest.
+2. Area under the cultivation of jowar is more than
+that of oilseeds.
+3. Area of cotton cultivation is more than that of sugarcane.
+4. Area under sugarcane cultivation has steadily decreased.
+Which of the statement/s given above is/are correct?
+
+A. 1 and 3 only
+
+B. 2, 3 and 4 only
+
+C. 2 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1. The area under rice cultivation in India, in 2014-15 was 44.1 million hectares. In 2021-22 (4th A.E.) it became 46.38 million hectares which are highest amongst all. 2. The area under jowar cultivation 3.81 million hectares and oilseed area 29.17 million hectares in 2021-22 (4th A.E). Hence area under oilseed cultivation is more than Jowar cultivation. 3. The area under sugarcane cultivation 4.99 million hectare (2013-14), 5.07 million hectares (2014-15), 5.15 million hectares (2021-22, 4th A.E.). Hence it has not a steady decrease for sugarcane. 4. The area under cotton cultivation 11.96 million hectares (2013-14), 12.29 million hectares (2015-16) & 11.91 million hectares (2021-22, 4th A.E.). Hence area under cotton cultivation is more than sugar cultivation.
+
+</details>
+
+---
+
+
+### N.3.1 Cotton (White Gold)
+
+**Inline PYQ — I.A.S. (Pre) 2020, Q-AGRI-78**
+"The crop is subtropical in nature. A hard frost is
+injurious to it. It requires at least 210 frost-free days
+and 50 to 100 centimeters of rainfall for its growth. A
+light well-drained soil capable of retaining moisture is
+ideally suited for the cultivation of the crop." Which
+one of the following is that crop?
+
+A. Cotton
+
+B. Jute
+
+C. Sugarcane
+
+D. Tea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Cotton : This subtropical crop is suitable for drier parts of the black cotton soil of the Deccan plateau. It requires high temperature, light rainfall (50-100 cm), 210 frost-free days and bright sun-shine for its growth.
+
+</details>
+
+---
+
+**Inline PYQ — Raj. P.C.S. (Pre) 2023, Q-AGRI-79**
+Which one of the following is a group of millet crops?
+
+A. Bajra, Maize, Kodo, Sorghum
+
+B. Ragi, Bajra, Kodo, Moong
+
+C. Kodo, Bajra, Maize, Kangani
+
+D. Sorghum, Kodo, Kangani, Ragi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Sorghum, Kodo, Kangani and Ragi come under millet crops. Notably, Indian millets are a group of nutritiously rich, drought tolerant and mostly grown in the arid and semi-arid regions of India. Signifi cantly, millet is a type of grain that is popular in many parts of the world, especially in Africa and Asia.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1996, Q-AGRI-80**
+Which one of the following areas of India producesthe
+largest amount of cotton?
+
+A. North Western India and Gangetic West Bengal
+
+B. North Western and Western India
+
+C. Western and Southern India
+
+D. Plains of Northern India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — When the question was asked North western & western India was the major producers of cotton. According to Agricultural Statistics at a Glance, 2022, in 2021-22 (4th AE) the cotton cultivation in respect of Major crop is done on 11.91 million hectare area.
+
+</details>
+
+---
+
+**Inline PYQ — 44th B.P.S.C. (Pre) 2000, Q-AGRI-81**
+The largest producer of cotton in India is –
+
+A. Maharashtra
+
+B. Gujarat
+
+C. Punjab
+
+D. Haryana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to the data of 2021-22 (4th A.E.), the three largest cotton producing states in India are 1. Gujarat, 2. Maharashtra, 3. Telangana.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 1997, Q-AGRI-82**
+Which districts are Known as areas of 'White Gold'
+because of cotton-cultivation.
+
+A. Ratlam-Khandwa
+
+B. Khandwa-Khargone
+
+C. Ujjain-Shajapur
+
+D. Dhar-Jhabua
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Khandwa-Khargone are known as the areas of ‘White Gold’ because of cotton cultivation.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2002, Q-AGRI-83**
+Which one of the following crops is known as “White
+Gold” in Maharashtra.
+
+A. Wheat
+
+B. Maize
+
+C. Cotton
+
+D. Sugar Cane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Black soil is suitable for cotton cultivation which covers the maximum area in Maharashtra. Cotton crop is known as White Gold in Maharashtra.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2003, Q-AGRI-84**
+Consider the following statements:
+1. India is the original home of the cotton plant
+2. India is the first country in the world to develop
+hybrid cotton variety leading to increased
+production
+Which of these statements is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — India is the original home of cotton plant. It also fi nds mention in Rigveda and Manusmriti. India is also the first country to develop a hybrid variety of cotton which has resulted in increased production.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2009, Q-AGRI-85**
+Cotton fi bres are obtained from –
+
+A. Leaves
+
+B. Seed
+
+C. Stem
+
+D. Root
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Cotton fi bres are obtained from seeds.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand P.C.S. (Pre) 2011, Q-AGRI-86**
+Cotton is facing competition from sugarcane in the
+region of the black soil in Maharashtra. This is due to-
+
+A. Declined yield of cotton in this region
+
+B. A general change in the climate of this region
+
+C. Expansion of irrigation has made this region suitable for sugarcane cultivation which is a more profi table crop
+
+D. Increasing demand for sugar and the rising price of sugar in the country.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Cotton is facing competition from sugarcane in the region of black soil in Maharashtra due to the expansion of irrigation. This region has become more suitable for sugarcane cultivation. Sugarcane cultivation is more profi table than the cotton crop.
+
+</details>
+
+---
+
+**Inline PYQ — 63rd B.P.S.C. (Pre) 2017, Q-AGRI-87**
+The average yield of cotton is highest in India for the
+state of –
+
+A. West Bengal
+
+B. Bihar
+
+C. Assam
+
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — When the question was asked option (d) was correct answer. According to Agricultural Statistics at a glance, 2022 Rajasthan (2021-22 4th A.E.) has the highest productivity of cotton.
+
+</details>
+
+---
+
+**Inline PYQ — 60th to 62nd B.P.S.C. (Pre) 2016, Q-AGRI-88**
+Which Indian state has the largest number of Cotton
+Textile Mills?
+
+A. Madhya Pradesh
+
+B. Maharashtra
+
+C. Gujarat
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Maharashtra is the state having the largest number of cotton Textile mills among the given options.
+
+</details>
+
+---
+
+
+### N.3.2 Sugarcane (Sugar Industry & By-products)
+
+**Inline PYQ — I.A.S. (Pre) 2021, Q-AGRI-89**
+Among the following, which one is the least water-effi cient crop?
+
+A. sugarcane
+
+B. Sunflower
+
+C. Pearl millet
+
+D. Red gram
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The least water efficient crop among the given option is sugarcane, i.e., maximum water is required to grow sugarcane.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2015, Q-AGRI-90**
+Which Indian state has the largest area under
+sugarcane cultivation?
+
+A. Maharashtra
+
+B. Uttar Pradesh
+
+C. Andhra Pradesh
+
+D. Madhya Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to data for the year 2021-22 (4th A.E.), the largest area under sugarcane cultivation is in Uttar Pradesh (2.18 Million Hectares) which is followed by Maharashtra (1.23 Million Hectares).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2013, Q-AGRI-91**
+Which of the following crops has the largest percentage
+of irrigated area of its net sown area in India?
+
+A. Wheat
+
+B. Rice
+
+C. Oilseed
+
+D. Sugarcane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — When the question was asked option (d) was correct. The percentage of irrigated area of its net sown area (2015-16) of the given crops is as follows – (Crop) Irrigated Area (Percentage) Sugarcane 93.44 Wheat 87.90 Rice 60.06 Oilseed 36.88
+
+</details>
+
+---
+
+**Inline PYQ — 44th B.P.S.C. (Pre) 2000, Q-AGRI-92**
+The correct sequence in decreasing order of the four
+sugarcane producing states in India is:
+
+A. Maharashtra, U.P., Tamil Nadu, Andhra Pradesh
+
+B. U.P., Maharashtra, Tamil Nadu, Andhra Pradesh
+
+C. Maharashtra, U.P.,Andhra Pradesh, Tamil Nadu
+
+D. U.P., Maharashtra, Andhra Pradesh,Tamil Nadu. I.A.S. (Pre) 2000
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to the data available at the time when this question was asked, the four sugarcane producing states in descending order of their sugarcane production were as follows – (1) Uttar Pradesh (2) Maharashtra (3) Tamil Nadu (4) Andhra Pradesh According to Statistics at a Glance, 2022 in 2021-22 (4th AE) data, the four largest sugarcane producing states are – (1) Uttar Pradesh (2) Maharashtra (3) Karnataka (4) Gujarat (5) Tamil Nadu
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-93**
+The leading sugarcane producing states in India is
+
+A. Punjab
+
+B. Andhra Pradesh
+
+C. Maharashtra
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — 53rd to 55th B.P.S.C. (Pre) 2011, Q-AGRI-94**
+Which States in India are the largest producers of
+sugarcane?
+
+A. Bihar and Uttar Pradesh
+
+B. Uttar Pradesh and Rajasthan
+
+C. Andhra Pradesh and Jammu and Kashmir
+
+D. Punjab and Himachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — According to data of the year 2021-22 (4th A.E.), 8 largest sugarcane producing states are – Uttar Pradesh, Maharashtra, Karnataka, Gujarat, Tamil Nadu, Bihar, Haryana and Punjab.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2014, Q-AGRI-95**
+What is the correct sequence of the states in descending
+order of production of sugarcane in 2013 ?
+
+A. Karnataka, Maharashtra, Haryana, U.P.
+
+B. U.P., Maharashtra, Karnataka, Haryana
+
+C. Haryana, Karnataka, Maharashtra, U.P.
+
+D. U.P., Karnataka, Maharashtra, Haryana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2003, Q-AGRI-96**
+Consider the following statements:
+1. Molasses is a by-product of the sugar production
+process.
+2. Bagasse obtained from sugar mills is used as a fuel
+in the boilers to generate steam in sugar factories.
+3. Sugar can only be produced from sugarcane as the
+raw material.
+Which of these statements is/are correct?
+
+A. 1 and 2
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Molasses is the main by-product of sugar production process which is used for alcohol production. Bagasse is used as a fuel to generate steam in sugar mills. Sugar can not only be produced from sugarcane but also from beet root.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2014, Q-AGRI-97**
+What are the signifi cances of a practical approach
+to sugarcane production known as ‘Sustainable
+Sugarcane Initiative?
+1. Seed cost is very low in this compared to the
+conventional method of cultivation.
+2. Drip irrigation can be practised very effectively in
+this.
+3. There is no application of chemical/inorganic
+fertilizers at all in this.
+4. The scope for intercropping is more in this compared
+to the conventional method of cultivation.
+Select the correct answer using the code given below –
+
+A. 1 and 3 only
+
+B. 1, 2 and 4 only
+
+C. 2, 3 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The Sustainable Sugarcane Initiative (SSI) is an innovative set of agronomic practices that involves using fewer seeds, raising seedlings in a nursery, and following new planting methods with wider plant spacing, and better water and nutrient management to increase the cane yields significantly. This initiative was started by the combined efforts of WWF-ICRISAT in 2009. Hence, statement (3) is false.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1993, Q-AGRI-98**
+Sucrose content in sugarcane decreases
+
+A. If high rainfall occurs during the period of growth of the plant
+
+B. if frost occurs during the period of ripening
+
+C. if there is fl uctuation in temperature during the period of growth of the plant
+
+D. if there is high temperature during the time of ripening
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Sugarcane is a tropical plant.The areas having a temperature of 21° to 27°C and an average rainfall of 75-100 cm are suitable for its cultivation. Thus, if frost occurs during the period of ripening, the Sucrose content in the sugarcane decreases.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 1996, Q-AGRI-99**
+The first three leading producers of sugar in India are:
+
+A. Maharashtra, U.P., Tamil Nadu
+
+B. U.P., Maharashtra, Bihar
+
+C. U.P., Maharashtra, Karnataka
+
+D. Bihar, U.P., Karnataka, Maharashtra U.P.P.C.S. (Pre) 1999
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Top three sugar producing States of India(at the time when this question was asked) were 1.Uttar Pradesh, 2. Maharashtra and 3. Karnataka. According to the data of the year 2022-23, Maharashtra is at the top in sugar production while Uttar Pradesh is at the second place.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2017, Q-AGRI-100**
+Which of the following represents the correct sequence
+in descending order, of the four largest sugar producing
+States of India in 2015-16?
+
+A. Maharashtra, U.P., Karnataka, Tamil Nadu
+
+B. U.P., Maharashtra, Karnataka, Tamil Nadu
+
+C. Maharashtra, U.P., Tamil Nadu, Karnataka
+
+D. U.P., Karnataka, Maharashtra, Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — According to the fi gures of the year 2015-16. The leading sugar producing states were – (1) Maharashtra, (2) Uttar Pradesh, (3) Karnataka, (4) Tamil Nadu, (5) Andhra Pradesh. According to the data of the year 2022-23, Maharashtra is at the top in sugar production while Uttar Pradesh is at the second place.
+
+</details>
+
+---
+
+**Inline PYQ — UPPCS Prelims, Q-AGRI-101**
+Which of the folowing statements is/ are correct
+regarding sugar Industry?
+1. India accounts for more than 15% of the total
+sugar production of the world.
+2. Sugar Industry is the second largest Agricultural
+base industry in India.
+3. India is the biggest consumer of sugar.
+4. India is the largest producer of sugar.
+Code :
+(c) 1 and 2 (b) 3 and 4
+(c) 1, 2 and 3 (d) 1 and 4
+U.P.P.C.S. (Mains) 200
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — As per global data of November, 2023 issued by U.S. Department of Agricultural, the world's total production of sugar was 183.5 million tonnes of which Brazil produced 41.00 million tonnes sugar while India's share was 36.00 million tonnes out of the total sugar production. Sugar Industry is the second largest agriculture-based industry in India after cotton. When the question was asked India accounts for 15.8% of the world's sugar production. Thus, statement (1) and (2) are correct. Brazil is the largest producer of sugar not India.Thus, statement (4) is incorrect. India is the largest consumer of sugar. Thus, statement (3) is also correct.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2008, Q-AGRI-102**
+Sakkar Nagar is an important sugar producing centre
+of
+
+A. Haryana
+
+B. Andhra Pradesh
+
+C. Maharashtra
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Sakkarnagar is an important sugar producing centre located in Andhra Pradesh (now in Telangana).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2008, Q-AGRI-103**
+Which state is called the ‘Sugar bowl’ of India ?
+
+A. Andhra Pradesh
+
+B. Bihar
+
+C. Punjab
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Uttar Pradesh is known as the ‘Sugar Bowl’ of India.
+
+</details>
+
+---
+
+**Inline PYQ — 64th B.P.S.C. (Pre) 2018, Q-AGRI-104**
+Which one among the following States of India is called
+'Sugar Bowl'?
+
+A. Uttar Pradesh
+
+B. Maharashtra
+
+C. Bihar
+
+D. Haryana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Uttar Pradesh is called the sugar bowl of India. Presently (2022-23). It is the second largest producer of sugar in India.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-105**
+The first Sugar Mill in India was set up in 1903 at
+
+A. Pratapgarh
+
+B. Pratappur
+
+C. Mawana
+
+D. Balrampur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The first Sugar Mill was set up in India in 1903 at Pratappur in Deoria district of Uttar Pradesh.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-AGRI-106**
+Which factors have facilitated the locational shift of
+the sugar industry from North India to South India ?
+1. Per acre higher yield of sugar cane
+2. Higher sucrose content of sugar cane
+3. Longer crushing season
+4. Cheap labour
+Select the correct answer using the code given below–
+
+A. 1, and 2
+
+B. 2 and 3
+
+C. 1, 2 and 3
+
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — The factors which facilitated the locational shift of the sugar industry from North India to South India are per acre higher yield of sugarcane, higher sucrose content of sugarcane and longer crushing season.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2009, Q-AGRI-107**
+Breeding work on sugarcane is being done at –
+
+A. Lucknow
+
+B. Shahjahanpur
+
+C. Shravasti
+
+D. Coimbatore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Breeding work on sugarcane is being done in Coimbatore, India. Sugarcane Breeding Institute is a central research institute established in Coimbatore (Tamil Nadu), India. It was established in 1912 under Indian Council of Agricultural Research.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A (Spl.) (Mains), 2010, Q-AGRI-108**
+Sugarcane seeds are produced in –
+
+A. I.I.S.R , Lucknow
+
+B. IARI, New Delhi
+
+C. Directorate of Seed Research, Mau
+
+D. SBI, Coimbatore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Sugarcane Breeding Institute is a Central Research Institute in Coimbatore, India. It was established in 1912 under Indian Council of Agricultural Research. It was established to promote research efforts in sugarcane production and is the only sugarcane research institute in the country.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A . (Spl) (Mains) 2010, Q-AGRI-109**
+What time is taken by Adsali Sugarcane crop to get
+ripen?
+
+A. 6 months
+
+B. 12 months
+
+C. 18 months
+
+D. 24 months
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Adsali Sugarcane planting is mainly done in low rainfall area of Maharashtra. Planting is done in the month of July-August and it takes 16-18 months to get riped.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains), 2017, Q-AGRI-110**
+Consider the statements :
+Assertion (A) : Sugar Industry is more developed in
+South India.
+Reason (R) : The per hectare yield of sugarcane and the
+quantity of sugarcane juice are more in the southern
+states.
+Code :
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The sugar industry is more developed in South India. Maharashtra, Karnataka and Tamil Nadu are the major sugar producing states in India. In fact due to favourable climate and black soil area in South India and the ability of moisture conservation and development of tubewell irrigation, South India has high productivity of sugarcane is per hectare yield of sugarcane and high amount of juice in sugarcane. Hence both Assertion (A) and Reason (R) are correct, and Reason (R) is the correct explanation of Assertion (A).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2019, Q-AGRI-111**
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A) : Sugarcane and sugar production
+in U.P. is more than Maharashtra, but productivity is less.
+Reason (R) : Most of the sugar factories in Maharashtra are in the cooperative
+sector.
+Code :
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to Indian Sugar Mills Association data, sugarcane and sugar production in UP is more than Maharashtra but productivity is less. Assertion (A) is the correct statement. Most of the sugar factories in Maharashtra are in the cooperative sector is also correct. Reason (R) is the correct statement. Reason (R) is not the correct explanation of Assertion (A), but both (A) and (R) are true. So, the correct answer is option (b).
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2017, Q-AGRI-112**
+Co. 1148 is an important variety of
+
+A. Wheat
+
+B. Cotton
+
+C. Maize
+
+D. Sugarcane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Co. 1148 is an important variety of sugarcane.
+
+</details>
+
+---
+
+
+### N.3.3 Oilseeds (Yellow Revolution, Groundnut, Soybean, Mustard)
+
+**Inline PYQ — Uttarakhand U.D.A./L.D.A. (Pre) 2003, Q-AGRI-113**
+Which of the following is the oilseed crop?
+
+A. Masoor
+
+B. Lobia
+
+C. Sunflower
+
+D. Barseem
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Main oilseed crops produced in India are Groundnut, Mustard, Coconut, Soyabean, Castor seeds, Cotton seeds, Linseed and Sunflower. Hence, option (c) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2002, Q-AGRI-114**
+Yellow Revolution is related to –
+
+A. Production of Foodgrain
+
+B. Production of Oil-seeds
+
+C. Production of Milk
+
+D. Production of Fish. U.P.P.C.S. (Mains) 2004
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Yellow Revolution is related to the production of oilseeds and Green Revolution is related to the production of foodgrain. White Revolution is related to the production of milk and the Blue Revolution is related to the production of fi sh.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Mains) 2014, Q-AGRI-115**
+Yellow Revolution is related to –
+
+A. Pulse production
+
+B. Paddy production
+
+C. Fish production
+
+D. Oil-seed production
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2017, Q-AGRI-116**
+'Yellow Revolution' in India is related to which of the
+following?
+
+A. Agricultural production
+
+B. Oilseeds production
+
+C. Fish production
+
+D. Pulse production
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — 45th B.P.S.C.(Pre) 2001, Q-AGRI-117**
+Which is the most suitable crop for dryland farming?
+
+A. Sugarcane
+
+B. Jute
+
+C. Wheat
+
+D. Groundnut
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Dryland agriculture refers to growing of crops entirely under rainfeed condition. Groundnut is the most suitable crop for dryland farming. It is a tropical plant requires a long and warm growing season. It grows well in area receiving 50 to 125 cm. annual rainfall of well distributed rainfall during growing season. Dryland farming is a type of dryland agriculture which is suitable for the cultivation of crops in areas receiving rainfall upto 100 cm.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. U.D.A./L.D.A. (Mains) 2010, Q-AGRI-118**
+'Pegging' is a useful phenomenon in –
+
+A. Sugarcane
+
+B. Sweet potato
+
+C. Groundnut
+
+D. Tapioca
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Pegging is a useful phenomenon in groundnut. In pegging, after fertilization, the pegs of the faded flower come out and enter the soil which grows quite close to the taproot. Once it penetrates the soil, the peg turns horizontal and continues to grow and mature into a peanut.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2000, Q-AGRI-119**
+Which of the following states is the leading producer of
+Soyabean ?
+
+A. Maharashtra
+
+B. Madhya Pradesh
+
+C. Punjab
+
+D. Kerala U.P.P.C.S. (Pre) 2015 U.P.P.C.S. (Pre) 2003 Uttrakhand U.D.A./LDA (Pre) 2003 U.P. U.D.A./L.D.A. (Pre) 2001
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to Economic Survey 2022-23, for year 2021-22 (4th A.E.), three largest producers of soyabean in India are – 1. Maharashtra (5.47 million tonnes) 2. Madhya Pradesh (5.39 million tonnes) 3. Rajasthan (0.93 million tonnes) Thus, Maharashtra is the leading soyabean producer in India.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2005, Q-AGRI-120**
+The leading producer of Soybean in India is
+
+A. Uttar Pradesh
+
+B. Bihar
+
+C. Madhya Pradesh
+
+D. Rajasthan U.P.P.C.S. (Mains) 2007 Uttarakhand U.D.A./L.D.A. (Pre) 2007 Uttarakhand U.D.A./L.D.A. (Mains) 2006
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2018, Q-AGRI-121**
+Which of the following is the leading soyabean
+producing state?
+
+A. Maharashtra
+
+B. Madhya Pradesh
+
+C. Uttar Pradesh
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-AGRI-122**
+Which state of India occupies the largest area under
+Soya bean cultivation?
+
+A. Madhya Pradesh
+
+B. Rajasthan
+
+C. Uttar Pradesh
+
+D. Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — According to the data of SOPA for the year 2023 Madhya Pradesh occupies 52.05 Lakh Hectare land,which is 43.9 percent of the total land used for soyabean cultivation in the country.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1993, Q-AGRI-123**
+During 1992-93 there was a record production in
+
+A. Rice
+
+B. Sugarcane
+
+C. Pulses
+
+D. Oilseeds
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — India witnessed record production of oilseeds in 1992-93. During that year, the total oilseed production was 20.11 million tonnes. There was again record production of the oilseed in 2010-11 with 32.48 million tonnes. Notably, during 2021-22 (4th A.E.), oilseed production in the country was 37.7 million tonnes.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-124**
+The Largest producer of oilseeds in India is :
+
+A. Gujarat
+
+B. Madhya Pradesh
+
+C. Rajasthan
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — When this question was asked and 2018-19 data, Madhya Pradesh is the largest producer of oilseeds in India.According to economic survey 2022-23, for year 2021-22 (4th A.E.), Rajasthan is the largest producer of oilseed in India.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2022, Q-AGRI-125**
+During the year 2020-21, which of the following States
+was the largest producer of groundnut in the country?
+
+A. Andhra Pradesh
+
+B. Gujarat
+
+C. Rajasthan
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — During the year 2020-21, Gujarat was the largest producer state of groundnut in the country. Notably, according to the Economic Survey 2022-23, during the period of 2021-22 three largest state of Groundnut are - Gujarat, Rajasthan, Tamil Nadu respectively.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-126**
+Which of the following states is the largest producer
+of groundnut in India ?
+
+A. Tamil Nadu
+
+B. Madhya Pradesh
+
+C. Rajasthan
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Gujarat was the leading producer of groundnut when this question was asked. According to data for the year 2021-22 (4th A.E.), three leading producers of groundnut are – Gujarat Rajasthan and Tamil Nadu.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-AGRI-127**
+The State of India with low acreage, but very high per
+hectare yield of groundnut is
+
+A. Uttar Pradesh
+
+B. West Bengal
+
+C. Punjab
+
+D. Chhattisgarh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — When the question was asked option (c) was correct answer. According to data Agricultural Statistics At a glance, 2022, in the year 2021-22 (4th A.E.), top 3 State in the terms of productivity per hectare of groundnut are - 1. Tamil Nadu, 2. Gujarat, 3. Rajasthan.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S.(Pre) 2010, Q-AGRI-128**
+Find the odd product out of the following :
+
+A. Sesame
+
+B. Groundnut
+
+C. Caster seed
+
+D. Mustard
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Groundnut develops underground from pegs, whereas sesame/mustard are floral; castor oil is non-edible. Option B is primary key. Groundnut is obtained from the root of the plant while rest of the crops are obtained from the flower of the plant. Oil made of Sesame, Groundnut and Mustard is used in food while caster seed oil is not used in food.
+
+</details>
+
+---
+
+**Inline PYQ — Uttrakhand U.D.A./L.D.A. (Mains) 2007, Q-AGRI-129**
+Rajasthan is the chief producer of –
+
+A. Gram
+
+B. Mustard
+
+C. Cotton
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — When the question was asked only option (b) was correct. According to the data for the year 2021-22 (4th A.E.), Rajasthan is the chief producer of Rapeseed and Mustard.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1997, Q-AGRI-130**
+Consider the map given below –
+A
+B D
+C
+India
+The place marked A, B, C and D in the map are
+respectively known for the cultivation of :
+
+A. Groundnut, Ragi, Tobacco and Sugarcane
+
+B. Groundnut, Sugarcane, Ragi and Tobacco
+
+C. Ragi, Sugarcane, Groundnut, and Tobacco
+
+D. Ragi, Groundnut, Sugarcane and Tobacco
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The places marked A, B, C and D in the map are in Gujarat, Maharashtra, Odisha and Andhra Pradesh respectively. These States are particularly known for the cultivation of – Gujarat - Groundnut Maharashtra - Cotton and sugarcane Odisha - Ragi Andhra Pradesh - Tobacco Thus, option (b) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1997, Q-AGRI-131**
+Major oilseeds produced in India are-
+1. Sesamum
+2. Mustard
+3. Groundnut
+4. Soybean
+Which of the following option represents correct
+decreasing order of the production of above oilseeds?
+
+A. 1,2,3,4
+
+B. 3,2,4,1
+
+C. 2,4,3,1
+
+D. 4,3,2,1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — When the question was asked option (d) was correct. Present situation is as follows – Major oilseeds Production (Lakh Tonnes) 2021-22 (4th A.E.) Soybean 129.95 Groundnut 101.06 Sesamum 7.6 Rapeseed and Mustard 117.46
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-AGRI-132**
+‘Varuna’ is a variety of –
+
+A. Mustard
+
+B. Linseed
+
+C. Sunflower
+
+D. Sesame
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Mustard is an oilseed. Pusabold, Jaikisan, Varuna are the main varieties of Mustard.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Main) 2013, Q-AGRI-133**
+‘Pusa Bold’ is a variety of –
+
+A. Wheat
+
+B. Mustard
+
+C. Gram
+
+D. Groundnut
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of above question
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2015, Q-AGRI-134**
+'Pitambari' is a variety of
+
+A. Paddy
+
+B. Gram
+
+C. Mustard
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Pitambari (RYSK - 05-02) is a variety of Yellow Mustard. Maturity period of Pitambari Mustard is 110-115 days while average production is 1536 kg/per hectare.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-AGRI-135**
+A large quantity of gypsum is required for –
+
+A. Rice cultivation
+
+B. Barseem cultivation
+
+C. Wheat cultivation
+
+D. Groundnut cultivation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — A large quantity of gypsum is required for Groundnut cultivation.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2002, Q-AGRI-136**
+'Kaushal' is an improved variety of –
+
+A. Gram
+
+B. Cotton
+
+C. Groundnut
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — (Crop) (Varieties) Gram – Pant-114, Gaurav, Radhe, K-4 Cotton – Suvin, Sujata, Desi Shyamli Groundnut – Chitra-64, Chandra, Kaushal Wheat – Kundan, Kalyan Sona, Sonalika
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2017, Q-AGRI-137**
+Which of the following crop has the highest percentage
+of oil content?
+
+A. Groundnut
+
+B. Soyabean
+
+C. Sunflower
+
+D. Sesame
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Crop Oil content Groundnut 48.2% Soyabean 40% Sunflower 42% Sesame 52%
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2016, Q-AGRI-138**
+'Safflower' is a oil seed crop. Its scientifi c name is:
+
+A. Glycine max
+
+B. Ricinus Communis
+
+C. Carthamus Tinctorius
+
+D. Bunchy top
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — The scientifi c name of 'Safflower' is Carthamus Tinctorius. The Seed contain 24-36% oil. Maharashtra and Karnataka are major safflower growing states. The oil is as good as sunflower oil having enough amount of linolic acid (78%), which is very useful for reducing blood cholesterol.
+
+</details>
+
+---
+
+
+### N.2.3 Pulses (Legumes & Nitrogen Fixation)
+
+**Inline PYQ — I.A.S. (Pre) 2020, Q-AGRI-139**
+Black gram can be cultivated as both kharif and
+rabi crop.
+2. Green-gram alone accounts for nearly half of
+pulse production.
+3. In the last three decades, while the production
+of kharif pulses has increased, the production of
+rabi pulses has decreased.
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Urad is tropical climate crop, it is a kharif crop in North India and both Rabi and Kharif season crop in South India. Production of Moong in the year 2016-17 is 14 of the total pulses. The percentage remains around the same in other years also. Hence, Statement 2 is false. In the last three decades, there has been a marginal [negligible] increase in the production of Kharif crops, which that of Rabi pulses has increased by about 150 percent. Hence, Statement 3 is also false.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-AGRI-140**
+Which one of the following countries is the major
+producer and consumer of pulses?
+
+A. U.S.A.
+
+B. China
+
+C. England
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Among the given options, a major producer and consumer of pulses is India. According to Agricultural Statistics at a Glance 2020. India is the largest producer of Pulses in the world, followed by Myanmar and Canada.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-141**
+Which among the following products is not usually
+exported from India?
+
+A. Wheat
+
+B. Rice
+
+C. Sugar
+
+D. Pulses U.P.P.C.S.(Pre) 2013
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — India has to import pulses despite being a leading producer due to the high rate of consumption. Thus, pulses are generally not exported from India whereas wheat, rice and sugar is exported at times.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand P.C.S. (Pre) 2023, Q-AGRI-142**
+India is the largest producer as well as the largest
+consumer and importer of which of the following
+crops?
+
+A. Wheat
+
+B. Cotton
+
+C. Pulses
+
+D. Sugarcane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — India is the largest producer, consumer and importer of pulses. These pulses are Chickpeas (known as gram or chanas), lentils (masoor dal), pigeon peas (arhar or toor dal) etc.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2009, Q-AGRI-143**
+Assertion (A) : India has a shortage of pulses, but
+not of protein.
+Reason (R) : There is a priority in demand of
+pulses.
+In the reference of the above, which of the following is
+correct :
+
+A. (A) and (R) both are correct, and (R) is the correct explanation of (A).
+
+B. (A) and (R) both are correct, but (R) is not the correct explanation of (A)
+
+C. (A) is correct, but (R) is wrong
+
+D. (A) is wrong , but (R) is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — India has a shortage of pulses but there is no shortage of sources of protein. In India shortage of pulses is due to the high demand although India is a leading producer of pulses in the world. Therefore, both Assertion (A) and Reason (R) are correct and (R) is the correct explanation of (A).
+
+</details>
+
+---
+
+**Inline PYQ — UPPCS Prelims, Q-AGRI-144**
+The largest pulses producing state in India -
+(a) Andhra Pradesh (b Bihar
+(c) Madhya Pradesh (d) Rajasthan
+U.P. Lower Sub. (Pre) 200
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — When the question was asked option (c) was correct answer. According to the fi gures of 2021-22 (4th A.E.), the largest producer of pulses in India is Madhya Pradesh.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-145**
+The type of crop which is able to fi x nitrogen from the
+air is :
+
+A. Wheat
+
+B. Legumes
+
+C. Coff ee
+
+D. Rubber
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Legumes are quite unique among other crops as they draw their nitrogen from the air with the help of a specialized bacteria. So it does not require the same application of nitrogen fertilizer like other crops.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2004, Q-AGRI-146**
+Which nutrient is considered essential for growing
+pulse crop ?
+
+A. Chromium
+
+B. Cobalt
+
+C. Iodine
+
+D. Sodium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Cobalt is known to be essential for symbiotic nitrogen fi xation by Rhizobium. Cobalt is also needed in the synthesis of vitamin B12. It is necessary for growth, photosynthesis and evaporation. Rhizobium is a bacteria found in the crops of pulses.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2008, Q-AGRI-147**
+Which of the following is not correctly matched ?
+
+A. Arhar - Neelam
+
+B. Groundnut - Chandra
+
+C. Lentil - Pant L - 406
+
+D. Mustard - Varuna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Neelam is not a variety of Arhar crop it is a variety of Mango. Rest other options are correctly matched.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2009, Q-AGRI-148**
+Pulse crop which does not fi x atmospheric nitrogen is
+
+A. Gram
+
+B. Pea
+
+C. Rajma
+
+D. Moong
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Rajma (kidney bean) is traditionally considered ineffective at symbiotic nitrogen fixation without inoculation (Option C accepted). Gram, Pea and Moong have the capacity of nitrogen fi xation in the atmosphere. While it would not be correct to say that Rajma does not do nitrogen fi xation at all. According to different researches, the nitrogen fi xation capacity of Rajma varies. Ref : Scientifi c World Vol.9 No. 9 July, 2011- Red Kidney bean (Phaseolus Vulgari.) a kind of annual leguminous crop, native to China is locally called Rajma in Nepal. It is cultivated as a crop or intercropped with other crops. It is also nitrogen-fi xing crop with the symbiosis of Rhizobium. Ali and Lal 1992- Unlike other pulses rajma is ineffi cient in symbiotic nitrogen fi xation. Nodulation is poor in rajma.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-149**
+Balanced Fertilizers Ratio (NPK) for legume crops
+is –
+
+A. 1 : 2 : 2
+
+B. 3 : 2 : 1
+
+C. 4 : 2 : 1
+
+D. 2 : 2 : 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Diff erent crops demand soil nutrients in different proportions. For example, legumes (pulses) may need nutrients in a ratio of 0:1:1, 1:2:2,or 1:2:3. Therefore, option (a) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-AGRI-150**
+The place of origin of red gram is –
+
+A. America
+
+B. India
+
+C. South Africa
+
+D. Egypt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Major legume crop-red gram (arahar) originated in India.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-AGRI-151**
+Malaviya Chamatkar is a variety of –
+
+A. Pea
+
+B. Pigeon-Pea (Arhar)
+
+C. Moong
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Malaviya Chamatkar is a variety of Arhar. Other main varieties of Arhar are Amar, Azad, Malaviya Vikas, Paras and Bahar.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2008, Q-AGRI-152**
+Which of the following is correctly matched ?
+
+A. Arhar - Bahar
+
+B. Barley - PVW 343
+
+C. Gram - Aparna
+
+D. Paddy - NW 1014
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-153**
+‘Bahar’ is a popular variety of –
+
+A. Pea
+
+B. Groundnut
+
+C. Pigeon pea
+
+D. Gram
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-154**
+The leafl ess variety of pea is –
+
+A. Arkel
+
+B. Azad Pea-I
+
+C. Aparna
+
+D. L-116
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 'Aparna' is a new high- yielding, leaf-less variety of pea.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-155**
+Which of the following states was the largest producer
+of pulses in 2011-12 ?
+
+A. Tamil Nadu
+
+B. Uttar Pradesh
+
+C. Rajasthan
+
+D. Madhya Pradesh U.P.R.O./A.R.O. (Mains) 2013
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — When the question was asked option (d) was correct answer. According to the fi gures of 2021-22 (4th A.E.), the largest producer of total pulses in India is Madhya Pradesh.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) 2017, Q-AGRI-156**
+Which of the following pairs is not correctly matched?
+(Crop) (Variety)
+
+A. Mustard Varuna
+
+B. Field Pea Sapna
+
+C. Linseed Surya
+
+D. Groundnut Kaushal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Surya is a variety of Mango, Papaya and Potato. It is not a variety of Linseed.
+
+</details>
+
+---
+
+
+### N.3.4 Silk (Mulberry, Tasar, Muga, Eri Sericulture)
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2005, Q-AGRI-157**
+Which state is the largest ‘silk’ producing state ?
+
+A. Bihar
+
+B. Chattisgarh
+
+C. Karnataka
+
+D. Assam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — According to year 2021-22 data, Karnataka is the leading producer of mulberry silk, with 42.75% of the total mulberry silk production of the country. This is notable that out of total raw silk production in the country 32.33% is produced by the State of Karnataka.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-158**
+More than three-fourths of India's production of raw
+silk comes from –
+
+A. Andhra Pradesh and Karnataka
+
+B. Andhra Pradesh and West Bengal
+
+C. Karnataka and Assam
+
+D. West Bengal and Manipur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — When the question was asked three- fourth of India’s total raw silk production came from Karnataka and Andhra Pradesh. Presently, 2021-22 these two states jointly account for more than 57.77% of the total raw silk production of the country.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2017, Q-AGRI-159**
+The leading mulberry silk producing Indian State is –
+
+A. Andhra Pradesh
+
+B. Tamil Nadu
+
+C. Karnataka
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2008, Q-AGRI-160**
+Which of the following pair is correctly matched :-
+
+A. Eri-silk – Assam
+
+B. Muga silk – Arunanchal Pradesh
+
+C. Mulberry silk – Jharkhand
+
+D. Tasar silk – Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The correct match of given silk varieties and their relation with the states is as follows : (Production in 2021-22) Mulberry - Silk -Karnataka (42.75%) Tasar - Silk - Jharkhand (66.24%) Eri – Silk - Assam (74.66%) Muga- Silk – Assam (80.84%)
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Mains) 2010, Q-AGRI-161**
+Consider the following statements and select the correct
+answer from the code given below :
+1. Karnataka is the largest producer of raw silk in
+India
+2. Andhra Pradesh is the largest producer of
+mulberry silk in India.
+3. Jharkhand is the largest producer of Tasar silk in
+India.
+4. Meghalaya is the largest producer of Eri silk in
+India.
+Code :
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 2 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2008, Q-AGRI-162**
+Muga is such a variety of silk which is obtained in the
+world only from India in –
+
+A. Assam
+
+B. Bihar
+
+C. Karnataka
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — One of the rarest silks in the world is the Muga silk. In the year 2021-22 Assam (80.84%) and Meghalaya (15.71%) are the major producer of Muga silk.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1998, Q-AGRI-163**
+The discovery of Oak flora in 1966 added a new
+chapter to the history of Indian Sericulture. Which
+one of the following states is the leading producer of
+Oak Tasar silk?
+
+A. Assam
+
+B. Bihar
+
+C. Manipur
+
+D. Orissa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Jharkhand is currently the leading State to produce tasar silk in India. Tasar silk is divided into two categories namely tropical tasar and Oak tasar. Tropical tasar is produced the maximum in Jharkhand while Oak tasar is produced in Manipur. Hence, option (c) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-164**
+Which of the following states of India is the largest
+producer of Silk Textiles ?
+
+A. Karnataka
+
+B. Tamil Nadu
+
+C. Andhra Pradesh
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Karnataka is the largest producer of silk garments in India and Andhra Pradesh is the second largest producer of silk garments.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2017, Q-AGRI-165**
+Which of the following States of India produces
+maximum silk yarn?
+
+A. Tamil Nadu
+
+B. Punjab
+
+C. Madhya Pradesh
+
+D. Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Karnataka is the largest producer (2021-22) of silk yarn. However, India has the unique distinction of being the only country producing all the five kinds of silk namely Mulberry, Eri, Muga, Tropical Tasar and Temperate Tasar.
+
+</details>
+
+---
+
+
+### N.3.5 Coffee (Arabica, Robusta & Coffee Board)
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-AGRI-166**
+National Horticulture Board was established in the year
+
+A. 1976
+
+B. 1987
+
+C. 1984
+
+D. 2002
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — National Horticulture Board was established in the year 1984, under Society Registration Act 1860 as an independent society. Its headquarter is located in Gurugram (Haryana).
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2010, Q-AGRI-167**
+Coff ee is propagated by seeds but tea is propagated
+by stem cuttings only.
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Hot and humid type of climate is needed for coff ee plants in tropical regions. Whereas cultivation of tea can be done in both tropical and subtropical regions. Coff ee is propagated by seeds but tea is propagated by stem cuttings. Therefore both statements 1 and 2 are correct and so option (c)is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2002, Q-AGRI-168**
+Which Indian state is the largest producer of Coff ee?
+
+A. Maharashtra
+
+B. Kerala
+
+C. Odisha
+
+D. Karnataka U.P.U.D.A./L.D.A. (Pre) 2006 M.P.P.C.S. (Pre) 2006 U.P.P.C.S. (Spl) (Mains) 2004
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — In India, mainly two varieties of Coff ee are produced – Arabica and Robusta. India produces only 3.56% (in 2022- 23) of total coff ee produced in the World and Karnataka is the largest coff ee producing state in India. Due to its better taste, there is a high demand in foreign countries. The average temperature of 15o C to 18o C annually is required for better growth of coff ee plants with an essential average rainfall of 150 to 250 cm. For the cultivation of coff ee, slopy mountainous region and lava or loamy soil is best suitable. According to the 2022-23 data for coff ee production in India, Karnataka accounts for 70.46%, Kerala (20.58%) & Tamil Nadu (5.31%) of total production of coff ee.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Spl) (Mains) 2010, Q-AGRI-169**
+Which of the following Indian state has been the largest
+coff ee producing state –
+
+A. Maharashtra
+
+B. Karnataka
+
+C. Tamilnadu
+
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2002, Q-AGRI-170**
+Largest producer of coff ee in India is –
+
+A. Kerala
+
+B. Karnataka
+
+C. Tamil Nadu
+
+D. Andhra Pradesh U.P.P.S.C. (GIC) 2010 U.P. Lower Sub. (Pre) 2003
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2016, Q-AGRI-171**
+Which of the following States of India produces more
+than 70 percent coff ee of the country alone?
+
+A. Tamil Nadu
+
+B. Kerala
+
+C. Maharashtra
+
+D. Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Karnataka produced 70.46 percent of coffee (2022-23) production in India.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2002, Q-AGRI-172**
+Which one of the following has the largest area under
+coff ee cultivation ?
+
+A. Andhra Pradesh
+
+B. Karnataka
+
+C. Kerala
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to data for 2020-21, Karnataka has the largest area under coff ee cultivation. Kerala is at second place with area Tamil Nadu at the third place with area under coff ee cultivation.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2008, Q-AGRI-173**
+Consider the following statements:
+1. Chikmagalur is well-known for sugar production.
+2. Mandya is well-known as a coffee-producing
+region.
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Chikmagalur district of Karnataka is famous for the production of Coff ee and not for Sugar. In India, Coff ee was first time grown here. Mandya district of Karnataka is famous for Sugar not Coff ee. Hence (d) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — 66th B.P.S.C. (Pre) 2020, Q-AGRI-174**
+Which one of the following coff ee-growing areas is
+not in Karnataka?
+
+A. Chikmagalur
+
+B. Coorg
+
+C. Baba Budangin
+
+D. Pulneys
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The Pulneys hill range is situated adjacent to the popular Kodaikanal hill resort in Tamil Nadu.
+
+</details>
+
+---
+
+
+### N.3.6 Tea & Rubber (Plantation Dynamics)
+
+**Inline PYQ — I.A.S. (Pre) 2022, Q-AGRI-175**
+Andhra Pradesh 2. Kerala
+3. Himachal Pradesh 3. Tripura
+How many of the above are generally known as teaproducing States?
+
+A. Only one State
+
+B. Only two States
+
+C. Only three States
+
+D. All four States
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Assam, West Bengal, Tamil Nadu and Kerala are the major tea producing (in 2022-23) states of India. Tea is cultivated on a small scale in Tripura, Himachal Pradesh, Karnataka, Uttarakhand, Arunachal Pradesh, Manipur, Sikkim, Nagaland, Meghalaya, Mizoram, Bihar and Odisha.
+
+</details>
+
+---
+
+**Inline PYQ — 39th B.P.S.C. (Pre) 1994, Q-AGRI-176**
+India is the best producer and consumer of
+
+A. Rice
+
+B. Tea
+
+C. Oilseeds
+
+D. Pulses
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — India is the largest producer, consumer, and importer of pulses (Option D). During the time when this question was asked India was leading in production and consumption of pulses and tea. According to the data released by F.A.O, in 2022, India came down to the second position in production of tea leaves. But in terms of production and consumption of pulses from the time of the question to present, India is still maintaining its first position. It is notable that the consumption of pulses in India is so high that even being the largest producer of pulses in the world, India still imports pulses from other countries.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2008, Q-AGRI-177**
+In 2007-08 India’s place, in terms of production and
+consumption of tea, was –
+
+A. First
+
+B. Second
+
+C. Third
+
+D. Fourth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — During year 2007-08, India was the top producer as well as consumer of tea.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S (Pre) 1993, Q-AGRI-178**
+From the export of which of the following cash crops
+maximum foreign exchange is earned –
+
+A. Tobacco
+
+B. Flax
+
+C. Wheat
+
+D. Tea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Among the cash crops in question, India was getting maximum foreign exchange from the export of tea. According to the data released by the Tea Board of India, India exported tea (134.14 m kgs.) tea in the year 2022-23 (Apr.-Oct.) (P).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 1994, Q-AGRI-179**
+Which one of the following states is the largest producer
+of tea in India ?
+
+A. Assam
+
+B. Tamil Nadu
+
+C. Arunachal Pradesh
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The largest producer of tea in India is the State of Assam. According to fi gures of 2022-23, Assam is at the top both in terms of Area under cultivation and tea production.
+
+</details>
+
+---
+
+**Inline PYQ — 43rd B.P.S.C. (Pre) 1999, Q-AGRI-180**
+India produces more than its need –
+
+A. Tea
+
+B. Foodgrains
+
+C. Petroleum
+
+D. Petro-chemicals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — In the options given in the question hour. India used to import cereals, petroleum and petro-chemicals and export tea, while the percentage share of tea in India's exports in the year 2021-22 is about 0.18 percent. India ranks fourth among tea exporting countries in 2022.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2007, Q-AGRI-181**
+Assertion (A) : India is a major tea exporter
+country.
+Reason (R) : Domestic consumption of tea in
+India is very poor.
+Select the correct answer from the code given below:
+Code :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Option (c) was the correct answer when this question was asked. According to fi gure of year 2022 top tea exporting countries are : 1. Kenya, 2. China, 3. Sri Lanka, 4. India.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S (Pre) 2010, Q-AGRI-182**
+In an area with an annual rainfall of more than 200
+cms and sloping hills which crop will be ideal?
+
+A. Jute
+
+B. Cotton
+
+C. Tea
+
+D. Maize
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — For the cultivation of tea, sloped hills with an annual rainfall of 150 to 200 cm is required. This is an ideal condition for the production of tea.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2008, Q-AGRI-183**
+What is Green Gold ?
+
+A. Coff ee
+
+B. Gold
+
+C. Paddy
+
+D. Tea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Green Gold is a variety of tea.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) 2023, Q-AGRI-184**
+Which one of the following (Boards in India
+Headquarter) is not correctly matched?-
+
+A. Spices Board - Kochi
+
+B. Coff ee Board - Hyderabad
+
+C. Tea Board - Kolkata
+
+D. Rubber Board - Kottayam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Headquarter of the spices Board - Kochi, Kerala Headquater of Coff ee Board - Bengaluru, Karnataka Headquarter of Tea Board of India - Kolkata (West Bengal) Headquarter of Indian Rubber Board - Kottayam, Kerala
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1996, Q-AGRI-185**
+Which one of the following is an important crop of the
+Barak Valley ?
+
+A. Jute
+
+B. Tea
+
+C. Sugarcane
+
+D. Cotton
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — At present main crop cultivated in Barak Valley is Rice whereas Sugarcane is the second most important crop produced here. Since Rice has not been given in option, Sugarcane would be the most appropriate answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Spl) (Pre) 2004, Q-AGRI-186**
+The largest producer of rubber in India is
+
+A. Andhra Pradesh
+
+B. Karnataka
+
+C. Kerala
+
+D. Tamil Nadu 43rd B.P.S.C. (Pre) 1999
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — The largest producer of rubber in India is Kerala. 75.68% of total rubber production in India is produced by Kerala as per 2018-19 (p) data. Ernakulam, Kottayam , Kozhikode and Kollam are the major rubber producing districts of Kerala. According to data for the year 2022 (FAO), India placed 5th in the world in terms of natural rubber in primary forms production.
+
+</details>
+
+---
+
+**Inline PYQ — 63rd B.P.C.S. (Pre) 2017, Q-AGRI-187**
+Which one of the following States is the leading
+producer of rubber in India?
+
+A. Tamil Nadu
+
+B. Kerala
+
+C. Karnataka
+
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-AGRI-188**
+In India the state which produced the largest amount
+of Rubber (2013)
+
+A. Uttarakhand
+
+B. Tamil Nadu
+
+C. Karnataka
+
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2012, Q-AGRI-189**
+Which of the following states in India is famous for
+rubber cultivation?
+
+A. Karnataka
+
+B. Odisha
+
+C. Andhra Pradesh
+
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.S.C. (R.I.) 2014, Q-AGRI-190**
+Which among the following is the largest rubber
+producing state in India ?
+
+A. Karnataka
+
+B. Tamil Nadu
+
+C. Kerala
+
+D. Maharashtra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2022, Q-AGRI-191**
+Which one of the following is correctly matched?
+
+A. Uttar Pradesh – Jute
+
+B. Assam – Wheat
+
+C. Gujarat – Tea
+
+D. Kerala – Rubber
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Kerala is the largest rubber producing state in India. Kerala is a correctly match for rubber.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.S.C. (GIC) 2017, Q-AGRI-192**
+Which of the following is a stimulus crop?
+
+A. Wheat
+
+B. Maize
+
+C. Tur
+
+D. Tea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The stimulating crops include tea, coff ee, tobacco, opium, poppy, datura, hemp and betel nut etc. while wheat is Rabi cropand maize and arhar are Kharif Crops.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2022, Q-AGRI-193**
+With reference to the "Tea board" in India, consider
+the following statements :
+1. The Tea board is a statutory body.
+2. It is a regulatory body attached to the Ministry of
+Agriculture and Farmers Welfare.
+3. The Tea board's Head Office is situated in
+Bengaluru.
+4. The board has overseas offices at Dubai and
+Moscow.
+Which of the statements given above are correct?
+
+A. 1 and 3
+
+B. 2 and 4
+
+C. 3 and 4
+
+D. 1 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Tea is one of the industries, which by Act of Parliament comes under the control of the Union Govt. The genesis of the Tea Board India dates back to 1903 when the Indian Tea Cess Bill was passed. The Bill provided for levying a cess on tea exports the proceeds of which were to be used for the promotion of Indian tea both within and outside India. The present Tea Board set up under section 4 of the Tea Act 1953 was constituted on 1st April 1954. Signifi cantly this body comes under the Ministry of commerce and Indust, GOI. It is headquartered in Kolkata. It is worth mentioning here that, in the time of question the board had overseas offi ces at Dubai and Moscow. Currently Tea Board has one offi ce located at Moscow.
+
+</details>
+
+---
+
+
+### N.3.7 Spices & Other Plantation Crops (Coconut, Cashew, Tobacco)
+
+**Inline PYQ — R.A.S./R.T.S. (Pre) 1996, Q-AGRI-194**
+In which of the following Indian state cultivation of
+Coff ee, rubber and tobacco is done ?
+
+A. Karnataka
+
+B. Meghalaya
+
+C. Goa
+
+D. Maharashtra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Coff ee producing States of India are-Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha and some States of North East India. Rubber is produced in Kerala, Tamil Nadu, Tripura, Karnataka, Assam, Meghalaya, Nagaland, Manipur and few other states. Tobacco is produced in Andhra Pradesh, Gujarat, Karnataka, Uttar Pradesh, Bihar, Tamil Nadu, Maharashtra and some other States. Thus, these three crops are grown in Karnataka and Tamil Nadu state from the given options. Therefore, option (a) is answer correct.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2001, Q-AGRI-195**
+The main crop cultivated in India under plantation
+agriculture is –
+
+A. Tea, Rubber, coconut, coff ee
+
+B. Tea, Rubber, Sunflower, Soyabean
+
+C. Tea, Banana, Grapes, Coconut
+
+D. Tea, Rubber, Coconut, Soyabean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Ministry of Agriculture classifi es coconut, arecanut, palm, cocoa and cashew nut under plantation crop. While according to the Ministry of Commerce, tea, coff ee, and rubber are plantation crop. Thus, coconut, palm, arecanut, cocoa, cashew, tea, coff ee and rubber are plantation crop.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2001, Q-AGRI-196**
+Tobacco is cultivated on a large scale in Andhra
+Pradesh.
+4. Jute is the main crop of Chattisgarh
+Code :
+
+A. 1 and 2
+
+B. 1 and 3
+
+C. 1and 4
+
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Assam is the leading producer of tea. Andhra Pradesh is the top producer of tobacco when the question was asked (now Gujarat). Karnataka is a leading state in coff ee production. The main crop of Chhattisgarh is paddy, not Jute therefore, code (1) and (3) are correct.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-197**
+In India, more than one-third production of tobacco
+comes from –
+
+A. Andhra Pradesh
+
+B. Gujarat
+
+C. Karnataka
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — When this question was asked, more than 1/3 of the total production of tobacco came from Andhra Pradesh. According to 2020-21 data, the leading producer of tobacco is Gujarat with 47.72% of total production. Andhra Pradesh ranks second in terms of tobacco production.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-AGRI-198**
+Which state is the largest producer of ‘Tobacco’ in
+India?
+
+A. Karnataka
+
+B. Maharashtra
+
+C. Uttar Pradesh
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Among the given States, when the question was asked, Uttar Pradesh was the largest producer of tobacco, According to the 2020-21 data leading tobacco-producing States are as follows:- Gujarat > Andhra Pradesh > Uttar Pradesh > Karnataka.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2008, Q-AGRI-199**
+Which State is the largest producer of tobacco in India?
+
+A. Gujarat
+
+B. Andhra Pradesh
+
+C. Karnataka
+
+D. Madhya Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S.(Pre) 2012, Q-AGRI-200**
+Which of the following state of India has the largest
+area (2010) under tobacco cultivation?
+
+A. Uttar Pradesh
+
+B. Karnataka
+
+C. Andhra Pradesh
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Andhra Pradesh had the largest area under tobacco cultivation in 2010. According to 2020-21 data, four states with the largest area under tobacco cultivation are – Gujarat (170.45 thousand hectare), Karnataka (71 thousand hectare), Andhra Pradesh (61 thousand hectare) and Uttar Pradesh (25 thousand hectare).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-201**
+The largest Coconut producing state in India is :
+
+A. Andhra Pradesh
+
+B. Karnataka
+
+C. Kerala
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Kerala was the leading producer of coconut in India. According to 2021-22 (3rd A.E.) data Kerala is the leading producer of coconut and Karnataka is now at second place in terms of coconut production. Tamil Nadu comes at the third position in this regard.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2014, Q-AGRI-202**
+Which one of the following states of India is the largest
+producer of coconut?
+
+A. Kerala
+
+B. Karnataka
+
+C. Tamil Nadu
+
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — According to data for the year 2021-22 (3rd A.E.), provided by the Ministry of Agriculture, Government of India, three largest producers of coconut are – Kerala – 36.00% Karnataka – 28.00% Tamil Nadu – 21.00%
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.S.C. (GIC) 2010, Q-AGRI-203**
+Among the following spices, India is a leading producer
+of –
+1. Black-Pepper 2. Cardamom
+3. Cloves 4. Ginger
+Select the correct answer from the following code :
+
+A. 1 and 3
+
+B. 2 and3
+
+C. 3 and 4
+
+D. 1,2 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — India leads in ginger and turmeric; black pepper is 2nd after Vietnam (Option D nearest). Among the given spices, India led in the production of Blackpepper and ginger when this question was asked, whereas leading producer of cardamom is Guatemala and leading producer of cloves is Indonesia. Therefore, none of the given code is correct. According to the fi gures of 2021-22 India is the second largest producer of Black Pepper after Vietnam.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2014, Q-AGRI-204**
+Which of the following states is not known for the
+production of cardamom?
+
+A. Kerala
+
+B. Karnataka
+
+C. Tamil Nadu
+
+D. Odisha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — According to the fi gures of 2021-22 (Final) Kerala, Tamil Nadu and Karnataka are the leading producers of cardamom while Odisha is not known for cardamom (Small).
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S.(Pre) 2010, Q-AGRI-205**
+Kerala state is famous in the world for cultivating:
+
+A. Rubber
+
+B. Sugarcane
+
+C. Spices
+
+D. Rice
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Kerala is famous for its spices from ancient times.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S (Pre) 2011, Q-AGRI-206**
+The state known as ‘garden of spices’ is –
+
+A. Karnataka
+
+B. Kerala
+
+C. Maharashtra
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Due to the cultivation of several spices, Kerala is known as the 'garden of spices'. According to data for 2021-22 (3rd AE), the leading producer of spices is Madhya Pradesh.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Spl) (Mains) 2010, Q-AGRI-207**
+A state known to be as ‘Spice Garden’ is –
+
+A. Kerala
+
+B. Karnataka
+
+C. Tami Nadu
+
+D. Gujarat U.P.R.O./A.R.O. (Mains) 2013
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Pre) 2018, Q-AGRI-208**
+Which of the following States is the largest producer
+of cardamom and pepper in India?
+
+A. Tamil Nadu
+
+B. Goa
+
+C. Kerala
+
+D. Maharashtra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Kerala is the largest producer of Cardamom (small) in India. It accounts for 91.13% of the total production (in 2021-22) of the country. Highest production of black pepper (2021-22 Final) is in Karnataka, and Kerala is on the second place in this list. But due to the absence of Karnataka in the option, the correct answer is option (c) Kerala will happen.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S. (Pre) 1999, Q-AGRI-209**
+Cloves are obtained from –
+
+A. Roots
+
+B. Stem
+
+C. Fruits
+
+D. Flower- bud
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Cloves are the flower- buds of medium-sized evergreen plant of Eugenia Caryophyllata Family. Clove is a variety of spice which is also used in medicines.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-AGRI-210**
+Farming of cloves is done in –
+
+A. Kerala
+
+B. Karnataka
+
+C. Tamil Nadu
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Clove farming is practiced in TN, Kerala, Karnataka; it is NOT grown in Uttar Pradesh (Option D). According to 2021-22 (Final) data, farming of clove is done in Tamil Nadu, Kerala, Karnataka, Andaman and Nicobar Island. Hence the question asked is wrong. If the question had been farming of cloves is not done in which of the states then option (d) would have been the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2010, Q-AGRI-211**
+Qualities of an Area in India are as follows –
+(1) Hot and moist climate
+(2) 200 cm Annual Rainfall
+(3) Mountain slopes of height up to 1100 meter
+(4) 15o
+C to 30o
+C range of Annual temperature
+Which of the following produces you will fi nd most
+suitable to grow in the above type of climate :
+
+A. Mustard
+
+B. Cotton
+
+C. Black pepper
+
+D. Virginia tobacco
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Black pepper is best grown in a hot and moist climate with at least 200cm of annual rainfall in the places with slopy heights of 1100 to 1300 metre and with a range of annual temperature from 15o C to 30o C.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand U.D.A./L.D.A. (Mains) 2006, Q-AGRI-212**
+Which of the following spice in India is known as ‘Black
+diamond’ -
+
+A. Black pepper
+
+B. Cardamom
+
+C. Cloves
+
+D. Saff ron
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Black pepper is also known as black diamond.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2012, Q-AGRI-213**
+The biggest producer of spices in India is
+
+A. Gujarat
+
+B. Kerala
+
+C. Madhya Pradesh
+
+D. Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — When the question was asked Gujarat was biggest producer. According to data for 2021-22 (3rd AE) the leading producer of spice is Madhya Pradesh.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2013, Q-AGRI-214**
+Which of the following is a major producer of cashew
+nut?
+
+A. Goa
+
+B. Maharashtra
+
+C. Kerala
+
+D. Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to 2021-22 data, three leading cashew nut producers in India are – Maharashtra, Andhra Pradesh and Odisha.
+
+</details>
+
+---
+
+**Inline PYQ — 60th to 62nd B.P.S.C. (Pre) 2016, Q-AGRI-215**
+The only state in India that produces saff ron is :
+
+A. Himachal Pradesh
+
+B. Assam
+
+C. Jammu and Kashmir
+
+D. Meghalaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Among the above options, the only saff ron producing state in India is Jammu and Kashmir (Union territory since October 31, 2019). Saff ron is being produced there since ancient times.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Mains), 2017, Q-AGRI-216**
+Which of the following pair is not correctly matched?
+List-I List - II
+(Crop/Plantation) (Largest producer state)
+A. Jute 1. West Bengal
+B. Tea 2. Assam
+C. Sugarcane 3. Uttar Pradesh
+D. Rubber 4. Himachal Pradesh
+Codes -
+A B C D
+
+A. 4 3 2 1
+
+B. 3 1 2 4
+
+C. 2 4 3 1
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The rubber plant requires a warm and moist climate. In India, natural rubber is produced mainly in Kerala, Tripura, Karnataka, Tamil Nadu and Assam. India's largest rubber producing state is Kerala and not Himachal Pradesh.
+
+</details>
+
+---
+
+
+### N.9.1 Jhuming & Shifting Cultivation Systems
+
+**Inline PYQ — M.P.P.C.S. (Pre) 1999, Q-AGRI-217**
+What is Jhuming (also known as Paida) system?
+
+A. Cutting of jungle and leaving it to dry
+
+B. Excessive use of chemical fertiliser
+
+C. Irrigation
+
+D. Dry farming
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Jhuming is a type of shifting cultivation which is done by the tribes by clearing the forests. When fertility of that place degrades they shift to other place and the same procedure is followed again and again.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2021, Q-AGRI-218**
+Jhoom is -
+
+A. A type of folk dance
+
+B. Name of a river
+
+C. A tribe in the North-East
+
+D. A type of agriculture (cultivation)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2000, Q-AGRI-219**
+What is 'Jhum'?
+
+A. A folk dance
+
+B. The name of a river valley
+
+C. A tribe
+
+D. A type of cultivation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of the above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2005, Q-AGRI-220**
+Jhuming is practised mostly in
+
+A. Assam
+
+B. Andhra Pradesh
+
+C. Nagaland
+
+D. Madhya Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Jhuming cultivation is practised mostly in hilly areas of northeastern States. It is more prevalent in Nagaland, Arunachal Pradesh and Meghalaya. In the hilly regions of Assam also, Jhum cultivation is practised by the tribals.
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2023, Q-AGRI-221**
+Slash and burn agriculture, commonly called as Jhum
+cultivation is practiced in the-
+
+A. North eastern States of India
+
+B. North western States of India
+
+C. Western coast of India
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Slash and burn agriculture, commonly called as Jhum cultivation practiced in the North eastern states of India like Arunachal Pradesh, Assam, Meghalaya, Mizoram and Nagaland, Tripura, Sikkim Pamlou in Manipur etc. Slash and burn agriculture, formers clear a patch of land and produce cerals and other food crops to sustain their family. When the Soil Fertility decrease, the farmers shift and clear a fresh path of land for cultivation. This type of shifting allows nature to replenish the fertilify of the soil through natural process, land productivity in this type of agriculture is low as the farmer does not use fertiliser or other modern inputs.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 1998, Q-AGRI-222**
+Jhum cultivation is a problem in the hilly areas of –
+
+A. Assam and Bihar
+
+B. Bihar and Odisha
+
+C. Odisha and Madhya Pradesh
+
+D. Maharashtra and U.P.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — When the question was asked option (a) was correct answer. Currently, its answer would be Odisha and Madhya Pradesh.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2017, Q-AGRI-223**
+Match List-I with List-II and select the correct answer
+by using the codes given below:
+List-I List-II
+A. Western Ghat 1. Dahiya
+B. South-east Rajasthan 2. Waltre
+C. North-east India 3. Jhum
+D. Madhya Pradesh and 4. Kumari
+Chhattisgarh
+Code :
+A B C D
+
+A. 4 2 3 1
+
+B. 4 3 2 1
+
+C. 3 4 1 2
+
+D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The correct match of List-I and List-II is as follows : Area Shifting Cultivation Western Ghat - Kumari South-east Rajasthan - Waltre North-east India - Jhum Madhya Pradesh - Dahiya and Chhattisgarh
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S. (Pre) 2018, Q-AGRI-224**
+Which is not a correct match?
+Shifting Agriculture State
+
+A. Pondu – Odisha
+
+B. Mashan – Himachal Pradesh
+
+C. Poonam – Kerala
+
+D. Jhoom – Assam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Shifting Agriculture State Pondu – Odisha Mashan – Madhya Pradesh Poonam – Kerala Jhoom – Assam Hence option (b) is not correctly matched.
+
+</details>
+
+---
+
+
+### N.7.1 Agriculture Miscellaneous & Modern Practices
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016, Q-AGRI-225**
+Colour of the tag used on certifi ed seed bags is :
+
+A. blue
+
+B. purple
+
+C. white
+
+D. golden yellow
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Seeds are classified as follows : 1. Breeder seeds - These are the basic source of seed production are developed at research center lahs and agricultural universities. A golden colour tag is placed on this bag.
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S (Pre) 2013, Q-AGRI-226**
+Which of the following crops in India was losing area
+under cultivation since 1980-81 to 2011-12?
+
+A. Wheat
+
+B. Rice
+
+C. Pulses
+
+D. Coarse Cereals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — According to agricultural statistics data, the area under cultivation of none of the crops given in the options has continually decreased from 1980-81 to 2011-12. Crop Area under cultivation (million hectare) 1980-81 2019-20 Wheat 22.28 31.4 Rice 40.15 43.78 Pulses 22.46 28.00 Coarse Cereals 41.78 24.00 Although the cropped area of coarse cereals has decreased from 1980-81 to 2019-20, however, there has been fl uctuation in between and it has not continuously decreased. Hence option (e) is correct.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1996, Q-AGRI-227**
+West Bengal - Flax
+4. Gujarat - Groundnut
+Code :
+
+A. 1, 2 and 3
+
+B. 1, 2 and 4
+
+C. 1, 3 and 4
+
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — When the question was asked option (c) was correct answer state mentioned in the question and their Important crops are as follows: Tamil Nadu (2021-22 3rd A.E.) - Tapioca (First Producer) Gujarat (2021-22 4th A.E.) - Cotton (First Producer) West Bengal (2021-22 4th A.E.) - Jute and Mesta (First Producer) Gujarat (2021-22 4th A.E.) - Groundnut (First Producer)
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Pre) 2008, Q-AGRI-228**
+Which one of the following pairs is not correctly
+matched?
+Crop Largest producer
+
+A. Potato - Uttar Pradesh
+
+B. Coconut - Kerala
+
+C. Banana - Maharashtra
+
+D. Tobacco - Andhra Pradesh U.P.P.C.S (Mains) 2011
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Option (c) is not correctly matched when this question was asked. Uttar Pradesh is the leading producer of potato presently (2021-22, 3rd A.E.) and even when this question was asked. Kerala is the leading producer of coconut, presently (2021-22, 3rd A.E.) and even when this question was asked. Andhra Pradesh was the top producer of tobacco when the question was asked, but presently Gujarat in 2020-21. Three leading state producer of Banana 2021-22 (3rd A.E.) are as follows – (1) Andhra Pradesh (2) Maharashtra (3) Gujarat
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.S.C. (R.I.) 2014, Q-AGRI-229**
+In which of the following states of India was the potato
+production maximum in 2013?
+
+A. Uttar Pradesh
+
+B. West Bengal
+
+C. Bihar
+
+D. Madhya Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O (Mains) 2014, Q-AGRI-230**
+National Research Centre for Banana is located at
+
+A. Trichy
+
+B. Bhusawal
+
+C. Saharanpur
+
+D. Pune
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — National Research Centre for Banana (NRCB) was established on 21st August, 1993 at Tiruchirappalli (Trichy), Tamil Nadu. It aims to increase the production and productivity of Banana and plantation through mission mode and strategic research approaches.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1995, Q-AGRI-231**
+In the map given below four areas are differently shaded,
+three of which indicate cereal crops production areas
+and one indicates non-cereal crop production area.
+Crop Production
+Area
+INDIA
+As per the index is given, the non-cereal crop
+production area is :
+
+A. 1
+
+B. 2
+
+C. 3
+
+D. 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — As per the given Index in the map, the place marked as "4" which includes Rann of Kutch of Gujarat, western Madhya Pradesh and some part of Maharashtra indicates Non-Cereal crop production area
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2007, Q-AGRI-232**
+Which of the following is the right decreasing order of
+production of the given food grain in India?
+
+A. Wheat – Rice – Pulses – Coarse Grain
+
+B. Rice – Wheat – Pulses – Coarse Grain
+
+C. Wheat – Rice – Coarse Grain – Pulses
+
+D. Rice – Wheat – Coarse Grain – Pulses
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — As per the final estimates data for 2021-22 (4th A.E.), production data of the given food grains is as follows – Rice – 130.3 million tonnes Wheat – 106.8 million tonnes Coarse grain – 50.9 million tonnes Pulses – 27.7 million tonnes Thus, the correct answer is option (d).
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S. (Pre) 2003, Q-AGRI-233**
+The state of India, which has the largest share in foodgrain production, is –
+
+A. Punjab
+
+B. Haryana
+
+C. Maharashtra
+
+D. Uttar Pradesh U.P.P.C.S. (Pre) 2008
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — According to the data released in 2021-22 (4th A.E.), Uttar Pradesh is the largest food-grain producing State in India with its share of 17.77 percent. In this regard Madhya Pradesh (12.37%) is the second and Punjab (8.94%) is the third largest producer of food grain in India.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S.(Pre) 2007, Q-AGRI-234**
+The State of India which stands first in the production
+of cotton, groundnut, salt and milk is –
+
+A. Maharashtra
+
+B. Punjab
+
+C. Rajasthan
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Gujarat in India was the leading producer of cotton, groundnut, salt and milk when this question was asked.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1998, Q-AGRI-235**
+Match List- I with List- II and select the correct answer
+using the codes given below the lists :
+List- I List- II
+(Agricultural products) (Foremost producer)
+A. Cotton 1. Madhya Pradesh
+B. Gram 2. Gujarat
+C. Black pepper 3. West Bengal
+D. Pineapple 4. Kerala
+Codes :
+A B C D
+
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — When the question was asked option (a) was correct. Correct match as data is as follows – Cotton 2021-22 (4th A.E.) Gujarat (top producer) Gram 2021-22 (4th A.E.) Maharashtra (top producer) Pineapple 2021-22 (3rd A.E.) West Bengal (top producer) Black pepper 2021-22 (Final) Karnataka (top producer)
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre), 2022, Q-AGRI-236**
+Match the Crops shown in column-I to States given in
+Column-II, where they are grown maximum:
+Column-I Column-II
+(Crops) (States)
+A. Ragi 1. Karnataka
+B. Bazra 2. Maharashtra
+C. Jowar 3. Rajasthan
+D. Urad 4. Madhya Pradesh
+Code :
+A B C D
+
+A. 1 2 3 4
+
+B. 1 3 2 4
+
+C. 3 4 2 1
+
+D. 1 4 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Correct match is following : Crops States Ragi Karnataka Bazra Rajasthan Jowar Maharashtra Urad Madhya Pradesh
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2016, Q-AGRI-237**
+Which of the following is not correctly matched?
+Agricultural Produce State
+(2015)
+
+A. The largest producer of coff ee - Karnataka
+
+B. The largest producer of potato - Madhya Pradesh
+
+C. The largest producer of cotton - Gujarat
+
+D. The largest producer of wheat - Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — When the question was asked answer (b) is correct. Presently, the correct match of agricultural produce with their States is as follows : Agricultural Produce State The largest producer of potato (2021-22, 3rd A.E.) Uttar Pradesh The largest producer of cotton (2021-22, 4th A.E.) Gujarat The largest producer of wheat (2021-22, 4th A.E.) Uttar Pradesh
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1994, Q-AGRI-238**
+Correctly match list-I with list-II and select the correct
+answer from the codes given below-
+List-I List-II
+(crops) (Crop destroying creatures)
+A. Rice 1. Aphid
+B. Wheat 2. Ghundi Bag
+C. Sugarcane 3. Oily shearing Grasshopper
+D. Gram 4. Top shoot borer moth
+5. Bollworm
+Codes :
+A B C D
+
+A. 2 3 4 5
+
+B. 3 1 2 4
+
+C. 2 1 4 5
+
+D. 5 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Aphid is the creature which harms wheat as well as other cereals and fruits. In the same way, Ghundi Bag harms rice crop and Top Shoot Borer Moth destroy the sugarcane crop and Bollworm is harmful to the gram.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-AGRI-239**
+Match List-I with List-II and select the correct answer
+from the codes given below :
+List - I List- II
+(Name of the Crop) (Name of Disease)
+A. Sugarcane 1. Late Blight
+B. Paddy 2. Red Rot
+C. Arhar 3. Khaira
+D. Potato 4. Wilt
+Code :
+A B C D
+
+A. 1 2 3 4
+
+B. 2 3 4 1
+
+C. 3 2 1 4
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Correctly matched list of crops and diseases is as follows : (Name of Crop) (Name of Disease) Sugarcane - Red rot Paddy - Khaira Arhar - Wilt Potato - Late Blight
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2015, Q-AGRI-240**
+Which of the following is not correctly matched ?
+
+A. Rice - Green hair
+
+B. Bajra - Ergot
+
+C. Pea - Powdery mildew
+
+D. Gram - Wilt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Green hair disease is found in millet. Rest others are correctly matched.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1993, Q-AGRI-241**
+Sugarcane, Beatroot, Sweet pea, Gram, Arhar and
+Fras- bean come under which of the following :
+
+A. Two plant family
+
+B. Three plant family
+
+C. Four plant family
+
+D. Five plant family
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Sugarcane, Beatroot, Sweat Pea, Gram, Arahar and Frasbean come under the category of three plant family.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. U.D.A./L.D.A. (Mains) 2010, Q-AGRI-242**
+India is the largest producer of
+
+A. Coff ee
+
+B. Sugarcane
+
+C. Oilseeds
+
+D. Tobacco
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — India is 2nd in sugarcane and 2nd in unmanufactured tobacco worldwide (Option B). India is not the largest producer of any of the above crops. India ranks second in sugarcane production (FAO, 2022) and 8th in coff ee green and second in Tobacco (Unmanufactured). Hence, none of the options is correct as per (FAO, 2022).
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S (Pre) 2013, Q-AGRI-243**
+What was the estimated production of foodgrains in
+India for the year 2011-12?
+
+A. 230 million tonnes
+
+B. 210 million tonnes
+
+C. 257 million tonnes
+
+D. 280 million tonnes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Total foodgrain production was 259 MT in 2011-12 and reached 315.7 MT in 2021-22 (Option C nearest). Estimated production of food grains in 2011-12 in India was 259.29 million tonnes (as per the last estimate). Therefore none of the given options can be taken as the correct answer. Chhattisgarh public service commission also deleted this question in their revised answer sheet and excluded it from the evaluation process. Total foodgrain production in 2021-22 (4th A.E.) is 315.7 million tonnes estimated.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2003, Q-AGRI-244**
+Consider the following statements:
+1. India ranks first in the world in fruit production
+2. India ranks second in the world in the export of
+tobacco
+Which of these statements is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — When the question was asked option (d) was correct. As per the statistics is given by the Food and Agriculture Organization (FAO 2021), India is second place (First China) fruits producing (Except Melon) country. India is the 5th largest exporter of tobacco (Unmanufactured) in the world according to export value (FAO, 2022).
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2020, Q-AGRI-245**
+Consider the following statements about the Jute
+cultivation in India:
+I. Jute is a Rabi crop
+II. Jute crop requires humid climate with high
+temperature
+III. The cultivation of Jute in India is mainly confi ned
+to the eastern region of the country
+Which of the following statements is/are correct?
+
+A. Only I is correct
+
+B. Only II and III are correct
+
+C. I, II and III all are correct
+
+D. Only I and III are correct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Jute is a kharif crop. High temperatures (24ºC to 35ºC), heavy rain (125-200 cm) and low plain land are favourable conditions for its cultivation. West Bengal, Bihar, Assam, Odisha and Madhya Pradesh are the major Jute producing states.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) 2023, Q-AGRI-246**
+Given below are two statements, in which one is
+labelled as Assertion (A) and the other as Reason (R):
+Assertion (A) : India is the largest producer of Jute
+in the world.
+Reason (R) : India's Jute production increased due
+to Yellow Revolution.
+Select the correct answer using the code given below:
+Code :
+
+A. (A) is false but (R) is true.
+
+B. Both (A) and (R) are true but (R) is not correct explanation of (A).
+
+C. (A) is true but (R) is false.
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — According to National Jute Board, India is the largest producer of raw jute in the world, followed by Bangladesh in second place. Agricultural statistics at a glance 2022 by the Ministry of Agriculture and Farmer Welfare, in global agriculture, India rank second in jute production inthe year 2020, while Bangladesh held the first rank. Yellow Revolution is related to oilseed production. Hence, Asertion (A) is true but Reason (R) is false.
+
+</details>
+
+---
+
+**Inline PYQ — 41st B.P.S.C. (Pre) 1996, Q-AGRI-247**
+The largest Jute producing state in India is –
+
+A. Andhra Pradesh
+
+B. Bihar
+
+C. Tamil Nadu
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — According to the fi gures released in 2021-22 (4th A.E.), the largest Jute and Mesta producing state in India is West-Bengal followed by Assam and Bihar.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2004, Q-AGRI-248**
+The Jute Industry in India is mainly concentrated in
+
+A. Kerala
+
+B. Orissa
+
+C. Uttar Pradesh
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Jute is produced in a loamy soil. West Bengal is the major producer of jute and Mesta in India.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2011, Q-AGRI-249**
+The lower Gangetic plain is characterized by a humid
+climate with high temperature throughout the year.
+Which one among the following pairs of crops is most
+suitable for this region?
+
+A. Paddy and Cotton
+
+B. Wheat and Jute
+
+C. Paddy and Jute
+
+D. Wheat and Cotton
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Lower Gangetic plain provides humid climatic conditions with high temperature which is suitable for production of paddy and jute crop.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2007, Q-AGRI-250**
+Largest area under jute cultivation in India is in –
+
+A. Assam
+
+B. West Bengal
+
+C. Bihar
+
+D. Meghalaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — According to the data Agricultural Statistics at a Glance, 2022 in 2021-22 (4th A.E.), the area under jute & Mesta cultivation in the give States is as follows – West Bengal 0.52 million hectare Bihar 0.06 million hectare Assam 0.08 million hectare Thus, West Bengal has the largest area under jute & Mesta cultivation.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2017, Q-AGRI-251**
+Which of the following group belongs to fi bre crop?
+
+A. Patsan, Gram, Linseed
+
+B. Lentil, Oat, Dhaicha
+
+C. Cotton, Jute, Sunhemp
+
+D. Jute, Wheat, Cotton
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Cotton, Jute and Flax are related to fi ber crops. It is known that in India the maximum production of cotton is in Maharashtra and the production of jute is in West Bengal.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2015, Q-AGRI-252**
+Which of the following crops is grown throughout the
+year?
+
+A. Black gram
+
+B. Wheat
+
+C. Mustard
+
+D. Maize
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Maize popularly known as 'Corn' is one of the most versatile cash crop having wider adaptability under varied climatic conditions which can be grown throughout the year. It is called the Queen of Cereals globally.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2007, Q-AGRI-253**
+Maize crop can be grown during –
+
+A. Kharif Season
+
+B. Rabi Season
+
+C. Zaid Season
+
+D. Throughout the year
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2014, Q-AGRI-254**
+Consider the following statements :
+1. Maize can be used for the production of starch.
+2. Oil extracted from maize can be a feedstock for
+biodiesel.
+3. Alcoholic beverages can be produced by using
+maize.
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Maize is used for the production of starch powder and starch products like dextrin and cyatex. Also oil of maize can be used for biodiesel. By using maize, various types of alcoholic beverages as corn whisky (American– wine) and choweime (Brazilian beer) are produced.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S.(Pre) 1999, Q-AGRI-255**
+Maturity period of the Maize crop is :
+
+A. 40 days
+
+B. 60 days
+
+C. 140 days
+
+D. 110 days
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Maize is the largest produced and consumed crop after rice and wheat in India. Maize is grown throughout the year in almost all States of the country. The maturity period of maize in different climatic zones is usually 90 to 150 days. Varieties grown in winter take longer time compared to varieties grown in summer and spring. Thus, option (d) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (mains) 2014, Q-AGRI-256**
+Which of the following is a C4 plants?
+
+A. Rice
+
+B. Soybean
+
+C. Maize
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — In the given option, maize is an example of a C4 plant. Rice wheat, barley, rye, soybean, cotton, tobacco and potato are examples of C3 plants.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2010, Q-AGRI-257**
+Arrange the following states of India in descending
+order of their maize production and select the correct
+answer from the code given below –
+1. Andhra Pradesh 2. Bihar
+3. Karnataka 4. Rajasthan
+Code :
+
+A. 3, 2, 4, 1
+
+B. 1, 2, 3, 4
+
+C. 4, 3, 1, 2
+
+D. 1, 3, 4, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The correct sequence of States in descending order of their maize production, when this question was asked, was – Andhra Pradesh > Karnataka > Rajasthan > Bihar. As per 2021-22 (4th A.E.) data, three leading maize producers are – Karnataka, Madhya Pradesh & Maharashtra.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-258**
+Shaktiman-I and Shaktiman-II are the genetically
+modifi ed crops of :
+
+A. Cotton
+
+B. Rice
+
+C. Maize
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Shaktiman – I and Shaktiman – II are the genetically modifi ed crops of Maize.
+
+</details>
+
+---
+
+**Inline PYQ — UPPCS Prelims, Q-AGRI-259**
+Commercial production of Saff ron takes place in which
+of the following states?
+(a) Jammu and Kashmir (d) Himachal Pradesh
+(c) Punjab (d) Kerala
+U.P.P.C.S. (Pre) 199
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Commercial production of saff ron takes place in the State of Jammu and Kashmir (The then state is now UT). It is also known as Zaff ran.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2007, Q-AGRI-260**
+The largest quantity of saff ron is produced in
+
+A. North East Hills
+
+B. Kashmir
+
+C. Kerala
+
+D. Goa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The largest amount of saff ron in India is produced in the Kashmir valley. Apart from India other countries producing saff ron in the world are Spain, Iran , Greece and Italy. Spain and Iran jointly produce more than 80% of total saff ron produced in the world.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1997, Q-AGRI-261**
+Match List-I with List-II and select the correct answer.
+List- I (Crops)
+A. Barley B. Rice
+C. Millets D. Tea
+List- II (Geographical conditions)
+1. Hot and dry climate with poor soil
+2. Cool climate with poorer soil
+3. Warm and moist climate with high altitude
+4. Hot and moist climate with rich soil
+Code :
+A B C D
+
+A. 2 4 1 3
+
+B. 3 4 1 2
+
+C. 2 1 4 3
+
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Crops asked in the question and their respective geographical conditions are given below – Barley – Cool climate with poorer soil Rice – Hot and moist climate with rich soil Millets – Hot and dry climate with poor soil Tea – Warm and moist climate with high altitude.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1999, Q-AGRI-262**
+Match List I with List II and select the correct answer
+using the codes given below the lists.
+List-I
+A. Cotton B. Flax
+C. Sugarbeet D. Jute
+List-II
+1. Rainfall 1000-1500 mm ; Temperature 40o
+-60o
+C
+2. Rainfall 1500-2000 mm ; Temperature 25o
+-35o
+C
+3. Rainfall 600-800 mm ; Temperature 5o
+-18o
+C
+4. Rainfall 500-1000 mm ; Temperature 18o
+-22o
+C
+5. Rainfall 500-600 mm ; Temperature 18o
+-22o
+C
+Code :
+A B C D
+
+A. 1 3 4 2
+
+B. 2 3 5 4
+
+C. 4 5 2 1
+
+D. 4 3 5 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The correct match of List-I with List-II is as follows – Cotton - Rainfall 500-1000 mm ; Temperature 18o -22o C Flax - Rainfall 600-800 mm ; Temperature 5o -18o C Sugarbeet – Rainfall 500-600 mm ; Temperature 18o -22o C Jute – Rainfall 1500-2000 mm ; Temperature 25o -35o C
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1997, Q-AGRI-263**
+Which one of the following is cultivated by transplanting
+seedlings ?
+
+A. Maize
+
+B. Sorghum
+
+C. Onion
+
+D. Soyabeen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Cultivation of onion is done by first rowing seeds on the ground. After rowing these seeds, small plants are grown which later are transplanted.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2008, Q-AGRI-264**
+Which of the following crop cycle is considered best
+for eastern U.P?
+
+A. Paddy – Maize. Wheat
+
+B. Maize – Potato – Moong
+
+C. Maize – Toria – wheat
+
+D. Cotton – wheat – Moong
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Paddy, Maize and Wheat are considered as best crop cycle for eastern- Uttar Pradesh.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Pre) 2010, Q-AGRI-265**
+Who is credited for initiating the cultivation of Rajma
+and potato in Bhagirathi valley –
+
+A. Wilson
+
+B. Rama Brahamachari
+
+C. Henry
+
+D. Maharaja Sudarshan Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The credit of starting the cultivation of Rajma and Potato in Bhagirathi valley goes to Fredrick Wilson. He was the first white man to settle permanently in Bhagirathi valley in the 19th century. He had been titled as 'Pahari' and the "Raja of Harsil".
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2008, Q-AGRI-266**
+Match List I with List II and select the correct answer
+using the codes given below the lists:
+List-I List-II
+(Board) (Headquarters)
+A. Coff ee Board 1. Bengaluru
+B. Rubber Board 2. Guntur
+C. Tea Board 3. Kottayam
+D. Tobacco Board 4. Kolkata
+Code:
+A B C D
+
+A. 2 4 3 1
+
+B. 1 3 4 2
+
+C. 2 3 4 1
+
+D. 1 4 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Correct match of Board and its Headquarters is as follows– Coff ee Board – Bengaluru Rubber Board – Kottayam Tea Board – Kolkata Tobacco Board – Guntur
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2006, Q-AGRI-267**
+India’s rank in vegetable production is –
+
+A. First
+
+B. Second
+
+C. Fourth
+
+D. Fifth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — India ranks second in the world after China, in vegetable fresh nes production.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2015, Q-AGRI-268**
+Which of the following countries produces maximum
+vegetables in the world?
+
+A. China
+
+B. U.S.A.
+
+C. India
+
+D. Brazil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2007, Q-AGRI-269**
+Seedless variety of mango is –
+
+A. Ratna
+
+B. Bombay Green
+
+C. Krishan Bhog
+
+D. Sindhu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Indian scientists have developed a seedless mango variety named “Sindhu”. This is the ‘only’ seedless variety of mango in the world.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-270**
+Which one of the following varieties has been developed
+as a result of a cross between Dasheri and of mango
+Neelam?
+
+A. Alphanso
+
+B. Amrapali
+
+C. Chausa
+
+D. Mallika U.P.P.C.S. (Mains) 2016
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Amrapali was developed as a hybrid variety of Dasheri and Neelam in 1971 by Indian Agriculture Research Institute, Pusa, Delhi.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Pre) 2008, Q-AGRI-271**
+Lalit is the developed variety of which of the following
+fruits ?
+
+A. Mango
+
+B. Guava
+
+C. Banana
+
+D. Straw-berry
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Lalit is the improvised variety of Guava developed by Indian Institute of Horticulture Research for north plains Lucknow. It has been recommended for commercial production.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2014, Q-AGRI-272**
+Which among the following variety of mango is a
+regular crop variety?
+
+A. Chausa
+
+B. Langra
+
+C. Dasheri-1
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Varieties given in the options i.e., Dasheri-1, Chausa and Langra are not regular crop varieties. Dasheri-51 is a variety of Mango which is a regular crop, while other varieties of Mango which are regular crop are as follows – Bengalora (Totapuri), Neelam, Amrapali, etc.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2015, Q-AGRI-273**
+'Kanchan' is an improved variety of
+
+A. Grape
+
+B. Indian gooseberry
+
+C. Guava
+
+D. Mango
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Kanchan, Krishna and Banarasi are improved varieties of Indian gooseberry (Amla). Vitamin C is abundantly found in Amla.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2015, Q-AGRI-274**
+"Ganga Varanasi" is a variety of –
+
+A. Guava
+
+B. Aonla
+
+C. Mango
+
+D. Muskmelon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Banarasi is an improved variety of Aonla / Guava (Option A). 'Kashi Ganga' is a variety of bottle gourd. 'Kashi Madhu' is a variety of musk melon. 'Banarasi' is a variety of gooseberry. It is also a variety of guava grown in Tamil Nadu and Andhra Pradesh. There is no known variety of any of the crops given in the option as 'Ganga Varanasi'.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Pre) 2016, Q-AGRI-275**
+Which one of the following is not correctly matched?
+Crop - Variety
+
+A. Paddy - Govind
+
+B. Wheat - Shusk Samrat
+
+C. Arhar - Paras
+
+D. Pea - Prakash
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The correct matched crops with their varieties are as follows: (Crop) - (Variety) Paddy - Govind Rice - Shusk Samrat Arhar - Paras Pea - Prakash Thus, option (b) is not correctly matched as Shusk Samrat is a variety of rice, not wheat.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-276**
+The maximum production of Banana is obtained from
+the state of
+
+A. Tamil Nadu
+
+B. Maharashtra
+
+C. Uttar Pradesh
+
+D. Bihar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — When the question was asked option (a) was correct. Presently four leading producer (Banana) as per 2021-22 (3rd AE) are as follows Andhra Pradesh > Maharashtra > Gujarat > Tamil Nadu.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2008, Q-AGRI-277**
+Gujarat is among the leading producers of which of
+the following crop?
+
+A. Wheat
+
+B. Sugarcane
+
+C. Bajra
+
+D. Coconut
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Production of Bajra (2021-22 4th A.E.) of top five is as follows– Rajasthan > Uttar Pradesh > Haryana > Gujarat.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2008, Q-AGRI-278**
+Match List-I and List-II and select the correct answer
+from the codes given below the lists :
+List-I (Crop) List-II (State)
+A. Groundnut 1. Andhra Pradesh
+B. Mustard 2. Rajashtan
+C. Soyabean 3. Madhya Pradesh
+D. Coconut 4. Kerala
+Code :
+A B C D
+
+A. 1 3 2 4
+
+B. 2 1 3 4
+
+C. 1 2 3 4
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Correct match of the given crops and their main producing states is given as follows – List – I (Crop) List – II (States) Groundnut - Andhra Pradesh (Gujarat 2021-22, 4th AE) Mustard - Rajasthan (2021-22, 4th AE) Soyabean - Madhya Pradesh (Maharashtra 2021-22, 4thAE) Coconut - Kerala (Karnataka 2021-22, 3rd AE)
+
+</details>
+
+---
+
+**Inline PYQ — U.P.U.D.A./L.D.A. (Pre) 2010, Q-AGRI-279**
+Match List-I with List-II and select the correct answer
+from the codes given below:
+List- I List- II
+A. Jute 1. Assam
+B. Tea 2. Kerala
+C. Rubber 3. West Bengal
+D. Sugarcane 4. Uttar Pradesh
+Code :
+A B C D
+
+A. 3 1 2 4
+
+B. 4 3 1 2
+
+C. 2 4 3 1
+
+D. 1 2 3 4 U.P.R.O./A.R.O (Mains) 2014
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The correct match is as follows : List- I List- II Jute – West Bengal Tea – Assam Rubber – Kerala Sugarcane – Uttar Pradesh
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Mains) 2002, Q-AGRI-280**
+In which of the following science fi elds Borlaug Award
+is given ?
+
+A. Medicine
+
+B. Space Research
+
+C. Atomic Physics
+
+D. Agricultural Science
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Borlaug Award is given in the fi eld of Agricultural Science. It was started in 1972 on the name of Nobel prize winner Norman E. Borlaug.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2008, Q-AGRI-281**
+The best Potato variety for processing purposes is
+
+A. Kufri Ashoka
+
+B. Kufri Badshah
+
+C. Kufri Chipsona-2
+
+D. Kufri Sutlej
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Among the given varieties of Potato, the best variety of Potato for processing purposes is Kufri Chipsona-2. Kufri Chipsona-3 developed in 2005, and Kufri Himsona is the best varieties for plains and hilly areas respectively.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2010, Q-AGRI-282**
+One of the aims of the National Food Security Mission
+is to bring sustainable growth, in cultivaled land, and
+productivity of some crops in selected districts. Which
+are these crops ?
+
+A. Only Rice and wheat
+
+B. Only Rice, wheat and pulses
+
+C. Only Rice, wheat, pulses and oilseeds
+
+D. Rice, wheat, pulses and vegetables.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The main objective of the National Food Security Mission is to increase production of rice, wheat and pulses through area expansion and productivity enhancement in a sustainable manner in identifi ed districts of the country restoring soil fertility and productivity at individual farm level; creation of employment opportunities and enhancing farm level economy (i.e., farm profi ts) to restore confi dence among farmers.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-AGRI-283**
+Which of the following crops are grown mostly under
+subsistence farming ?
+
+A. Coarse Cereals and Rice
+
+B. Cotton and Tobacco
+
+C. Tea and Coff ee
+
+D. Vegetables and Fruits
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Coarse cereals and rice are mostly produced under subsistence farming.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S. (Pre) 1996, Q-AGRI-284**
+The stem of ginger which grows in the soil and stores
+food is called-
+
+A. Bulb
+
+B. Rhizome
+
+C. Rhizophora
+
+D. Corm
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The stem of ginger which grows in the soil and stores food is known as Rhizome.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2002, Q-AGRI-285**
+Which of the following is a cereal grain product :
+
+A. Oatmeal
+
+B. Sago
+
+C. Soya fl our
+
+D. Arrowroot
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Cereal grain product, oatmeal is used as food by people and also as fodder for cattle.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Mains) 2006, Q-AGRI-286**
+'Mandua' (Koda) grain in Uttarakhand is exported
+mostly to which country?
+
+A. United States of America
+
+B. Great Britain
+
+C. Singapore
+
+D. Japan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — In the question period Mandua (Koda) grain in Uttarakhand is exported mostly to Japan. Food products made of Mandua are in high demand in foreign countries.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2012, Q-AGRI-287**
+Consider the following crops of India
+1. Groundnut
+2. Sesame
+3. Pearl millet
+Which of the above is/are predominantly rainfed crop/
+crops?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. Only 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Groundnut, Bajra (millet) and sesame are cultivated in dry areas. Irrigation of these crops is totally dependent on rain.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2012, Q-AGRI-288**
+Consider the following crops of India
+1. Cowpea
+2. Green gram
+3. Pigeon Pea
+Which of the above is/are used as pulse, fodder and
+green manure?
+
+A. 1 and 2 only
+
+B. Only 2
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Cowpea, Green Gram and Pigeon Pea are used as fertilizer, fodder and pulses. By using green fertilizer of Arhar in one hectare land, 40 kg of nitrogen is obtained Union Public Service Commission has taken (a) as the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2011, Q-AGRI-289**
+Among the following states, which one has the most
+suitable climatic conditions for the cultivation of a large
+variety of orchids with a minimum cost of production
+and can develop an export-oriented industry in this
+fi eld?
+
+A. Andhra Pradesh
+
+B. Arunachal Pradesh
+
+C. Madhya Pradesh
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Arunachal Pradesh is emerging as a major tourist destination in North- East India. Here we fi nd splendid biodiversity of plant and animal kingdom. This place is famous for its fl ourishing forests, variety of forest animals, deep-river valleys and beautiful plateaus. Arunachal Pradesh is home to varieties of orchids. Due to climatic suitability, Arunachal Pradesh can be developed for the cultivation of large varieties of orchids and establish export-oriented industry.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2016, Q-AGRI-290**
+Which one of the following States was declared in
+January 2016 to be the first organic State of India?
+
+A. Arunachal Pradesh
+
+B. Kerala
+
+C. Odisha
+
+D. Sikkim
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Sikkim is declared as the first Organic State of India by Hon'ble Prime Minister of India, Shri Narendra Modi on 18 January, 2016. He appreciated Sikkim for its transformation into an eco freindly farming state.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Mains) 2016, Q-AGRI-291**
+Which one of the following states of India has been
+declared the first bio or fully organic state of the
+country?
+
+A. Uttarakhand
+
+B. Bihar
+
+C. Sikkim
+
+D. Chhattisgarh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2011, Q-AGRI-292**
+A state in India has the following characteristics
+1. Its Northern part is arid and semi-arid.
+2. Its central part produces cotton.
+3. Cultivation of cash crops is predominant over food
+crops.
+Which one of the following states has all of the above
+characteristics?
+
+A. Andhra Pradesh
+
+B. Gujarat
+
+C. Karnataka
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The northern part of Gujarat is arid and semi-arid and in its central part, cultivation of cotton crops is done on large scale. Cultivation of cash crops is predominant over food crops in Gujarat.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2014, Q-AGRI-293**
+In India, cluster bean (Guar) is traditionally used as a
+vegetable or animal food, but recently it's cultivation
+has assumed signifi cance. Which one of the following
+statements is correct in this context?
+
+A. The oil extracted from seeds is used in the manufacture of biodegradable plastics
+
+B. The gum made from its seeds is used in the extraction of shale gas
+
+C. The leaf extract of this plant has the properties of antihistamines
+
+D. It is a source of high-quality biodiesel
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The Guar or Cluster bean is an annual legume and the source of guar gum. Guar as a plant has a multitude of different functions for human and animal nutrition but its gelling agent containing seeds (guar gum) is today the most useful. Demand is rising rapidly due to the industrial use of guar gum in hydraulic fracturing (oil shale gas). About 80% of world production occurs in India and Pakistan.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2007, Q-AGRI-294**
+Consider the following statements:
+Assertion (A) : West Bengal is the leading producer of fi sh in India.
+Reason (R) : West Bengal has well-developed
+fishing industry along the sea
+coast.
+Select the correct answer from the code given below :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — When this question was asked West Bengal was the largest producer of fi sh in India. It produced the largest amount of fresh-water fi sh in the country. 90% fi sh production here is obtained from inland water sources. Here, the development of fi sh industry has not taken place near the seashore as much as it is developed inland. So, (A) is true, but (R) is false. According to the data of Handbook on Fisheries Statistics, 2022 for the year 2021-22 the leading inland and marine fi sh producing state are 1. Andhra Pradesh, 2. West Bengal, 3. Karnataka, 4. Odisha and 5. Gujarat.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) (Re-Exam) 2015, Q-AGRI-295**
+Identify the correct sequence of the following states in
+terms of fi sh production in descending order:
+
+A. Gujarat, Kerala, Andhra Pradesh, Tamil Nadu
+
+B. Kerala, Gujarat, Andhra Pradesh, Tamil Nadu
+
+C. Andhra Pradesh, Gujarat, Kerala, Tamil Nadu
+
+D. Tamil Nadu, Andhra Pradesh, Gujarat, Kerala.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — When the question was asked option (c) was correct answer. As per 2021-22 data by the Department of Animal Husbandry, Dairying and Fisheries, leading fi sh producing states in India are – (1) Andhra Pradesh (48.13 Lakh tonnes) (2) West Bengal (18.43. Lakh tonnes) (3) Karnataka (10.74 Lakh tonnes) (4) Odisha (9.9 Lakh tonnes) (5) Gujarat (8.74 Lakh tonnes)
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2013, Q-AGRI-296**
+Which one of the following statements is not correct ?
+
+A. The fi bre length of cotton is 1-5 cm.
+
+B. Boron is a micro nutrient.
+
+C. Recommended dose of fertilizer (kg/ha) for Pusa Basmati Rice is N(120), P(60), K(60).
+
+D. Edible part of apple is mesocarp.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The excellence of cotton is based upon its fi bre length. Length of best cotton fi bre is more than 5 cm. This variety is found in south-eastern shore of United States of America and West Indies. The fi bre length of medium variety of cotton varies in the range of 3.75 cm to 5cm. Its production is done in Nile River Valley, Central Asian Republics of Tajikistan, Kazakhastan, Turkmenistan and Uzbekistan and also in the United States of America. Length of small cotton fi bre is less than 2.5 cm and its major producing countries are Brazil and India. Mesocarp is included in edible part of apple. Commission had held option (d) as the correct answer of this question.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2013, Q-AGRI-297**
+Which one of the following statements is not correct ?
+
+A. Storage quality of apple is reduced due to the defi ciency of Calcium.
+
+B. West Bengal is the largest vegetable producing state in India.
+
+C. Linseed oilseed crop can be grown throughout the year.
+
+D. Third generation pesticide was first proposed by C.M. Williams.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Wheat, Barley, Linseed, Rapeseed, Mustard and Gram, etc. are Rabi crops.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2013, Q-AGRI-298**
+Which one of the following statements is not correct ?
+
+A. Bihar State is the highest producer of lac in India.
+
+B. Planning Commission has divided India into Agro Climatic Regions.
+
+C. Kunchikal waterfall is located in the Karnataka State of India.
+
+D. Andhra Pradesh is the largest producer of rice in India.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — West Bengal is the largest producer of rice; Jharkhand leads in lac (Option D accepted by UPPSC). Option (a) and (d) both are incorrect. Option (a) of the question was correct in that situation when Jharkhand was part of Bihar. In 2013-14, in terms of Lac production, Jharkhand is the leading producer and Chhattisgarh, Madhya Pradesh and Maharashtra are at second, third and fourth position respectively. About 92 percent of India’s lac production takes place only in these States. West Bengal is the largest producer of Rice in India. Therefore, U.P.P.S.C. will have to remove this question from evaluation. U.P.P.S.C. actually had opted option (d) as the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2013, Q-AGRI-299**
+Which one of the following statements is not correct ?
+
+A. Dr. B.P. Pal was the first Director-General of I.C.A.R.
+
+B. India’s rank in rice production in the world is second.
+
+C. Soyabean seed contains 20% oil and 40% Protein.
+
+D. 'Aman' rice is sown in March - April.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Aman rice is sown during June-July and harvested in November – December. India is the second largest producer of rice after China, in the world. Soyabean seed contains 20% oil and 40% protein. Dr. B.P. Pal was the first director general of Indian Council of Agricultural Research.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2013, Q-AGRI-300**
+Which one of the following statements is not correct ?
+
+A. The pulse crop which does not fi x nitrogen from the atmosphere is Rajma.
+
+B. PBW-343 and DBW-17 are varieties of wheat.
+
+C. Khaira disease of rice can be controlled by spraying zinc sulphate.
+
+D. UP AS-120 is a variety of gram.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — UPAS-120 is a celebrated early-maturing variety of Arhar (pigeon pea), not Gram (Option D accepted by UPPSC). From sources and available facts, both option (a) and (d) are incorrect. Hence, a single option cannot be selected as the answer. 1. The statement given in option (a) says the pulse crop which does not fi x nitrogen from atmosphere is Rajma. According to different research, Rajma has different nitrogen fi xation. Scientifi c World Vol. 9. No. 9, July, 2011. Red Kidney bean (Phaseolus Vulgari) a kind of annual leguminous crop, native to China is locally called Rajma in Nepal. It is cultivated as a crop or intercropped with other crops. It is also nitrogen-fi xing crop with the symbiosis of Rhizobium i.e. R. leguminosarum bv. Phaseoli form nodulation and fi xes atmospheric nitrogen symbiotically. O Ali and Lal 1992 Unlike other pulses, rajma is ineffi cient in symbiotic nitrogen fi xation. Nodulation is poor in rajma. In option (d) it has been given that UPAS-120 is a variety of Gram. UPAS-120 is a variety of Arhar, not Gram. The offi cial web site of the Ministry of Agriculture has shown UPAS-120 as a variety of Arhar. Hence, option (d) is also not correct. Commission has accepted (d) as the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. Lower Sub. (Pre) 2013, Q-AGRI-301**
+Which one of the following statements is not true ?
+
+A. Kaushal is a variety of Rice.
+
+B. First Agricultural University in India was established in the year 1960.
+
+C. Kerala State is the highest producer of Coconut.
+
+D. Largest production of pulses is obtained from the State of Rajasthan.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Kaushal is a variety of groundnut and MP is largest in pulses (Option D accepted by UPPSC). Options (a) and (d) both are wrong. Kaushal is actually a variety of groundnut not of rice and maximum production of pulses comes from Madhya Pradesh, not from Rajasthan. So, in the context, there are two options (a) and (d) which are not correct but Commission has accepted option (d) as the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2014, Q-AGRI-302**
+Consider the following pairs :
+Region Well-known for
+the production of
+1. Kinnaur : Arecanut
+2. Mewat : Mango
+3. Coromandel : Soyabean
+Which of the above pairs is/are correctly matched?
+
+A. 1 and 2 only
+
+B. 3 only
+
+C. 1, 2 and 3
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — According to the report published by National Horticulture Board, major areas of arecanut production in India are Kerala, Assam, Karnataka, and Tripura. District Kinnaur is located in Himachal Pradesh. Therefore pair (1) is not matched correctly. In India major producers of Mango are Andhra Pradesh, Uttar Pradesh, Bihar, Karnataka, Tamil Nadu, West Bengal, Odisha and Maharashtra. Mewat district is located in Haryana, therefore it is clear that pair (2) is also not matched correctly Major producers of soyabean in India are Maharashtra, Madhya Pradesh, Rajasthan, Andhra Pradesh and Karnataka, but Coromandel is not known for soyabean production. Thus all the given pairs are not correctly matched.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2013, Q-AGRI-303**
+India’s contribution to the world's fruit production is–
+
+A. 20%
+
+B. 25%
+
+C. 10%
+
+D. 15%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — According to the Indian Horticulture data 2014, India is the second largest producer of fruit with 13.6 percent share in the total fruit production in the world. China is the largest producer with 20.9 percent share. India accounted for 13.6 percent of the total fruit production in the world in 2014. Thus, the closest answer will be option (d). At present (According to Horticulture statistics at a glance 2021) India's share in fruits (Primary) production is 11.95%).
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2021, Q-AGRI-304**
+India is the largest producer of which of the following
+fruits in the world as per the Annual Report of the
+Department of Agriculture Cooperation and Farmers
+Welfare, government of India, 2020-21?
+1. Grapes 2. Mango
+3. Orange 4. Papaya
+Select the correct answer using the code given below:
+Code :
+
+A. 1 and 2
+
+B. 1 and 3
+
+C. 2 and 3
+
+D. 2 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — According to the annual report 2020-21 of the then Agriculture, Cooperation and Farmers Welfare Department of the Government of India, India is the second largest producer of Fruits in the world and it is the largest producer of mango, banana, papaya and lemon. According to Horticultural statistics at a Glance 2021, India is the second largest producer (in 2020) of Fruits in the world and it is largest producer of Banana, Papaya, Mango and Lemon.
+
+</details>
+
+---
+
+**Inline PYQ — 60th to 62nd B.P.S.C. (Pre) 2016, Q-AGRI-305**
+Which of the following is not a cash crop?
+
+A. Jute
+
+B. Groundnut
+
+C. Jowar
+
+D. Sugarcane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Jowar is not a cash crop among the given option. Economic survey, Government of India, displays the major crop of India as follows : (A) Food crops (1) Rice, Wheat, Maize, Coarse, Cereals (2) Pulses (B) Non-food crops (Cash crops) - 1. Oilseeds, Groundnut, Rapeseed and Mustard 2. Fiber cotton, Jute, Mesta, 3. Plantation crops - Tea, Coff ee, Rubber, Potato. 4. Others - Sugarcane, Tobacco
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016, Q-AGRI-306**
+Match List-I with List-II and select the correct answer
+from the codes given below:
+List-I List-II
+(Crop) (Season)
+A. Sunflower 1. Kharif (rainy)
+B. Muskmelon 2. Zaid (summer)
+C. Cotton 3. Rabi (winter)
+D. Linseed 4. All the season
+Code :
+A B C D
+
+A. 3 4 1 2
+
+B. 4 2 1 2
+
+C. 3 4 2 1
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Correct match is as follows : (Crop) (Season) Sunflower All the season Muskmelon Zaid (summer) Cotton Kharif (rainy) Linseed Rabi (winter)
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 2017, Q-AGRI-307**
+Which of the following practices can help in water
+conservation in agriculture?
+1. Reduced or zero tillage of the land
+2. Applying gypsum before irrigating the fi eld
+3. Allowing crop residue to remain in the fi eld
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+
+B. 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Zero tillage is a method of farming in which crops are grown repeatedly for several years without tilling the land. Due to this, moisture remains in the land. The use of gypsum before irrigation in the fi eld and leaving the crop residue in the fi eld also increases the soil moisture. As a result, all the three of these methods can help with water conservation in agriculture.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) 2017, Q-AGRI-308**
+Match List-I with List-II and select the correct answer
+from the codes given below the list:
+List-I List-II
+(Crop/Plantation) (Largest producer state)
+A. Jute 1. Kerala
+B. Tea 2. Uttar Pradesh
+C. Sugarcane 3. Assam
+D. Rubber 4. West Bengal
+Code :
+A B C D
+
+A. 4 3 2 1
+
+B. 3 1 2 4
+
+C. 2 4 3 1
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — The correct match of Crop/Plantation and largest producer state : Crop / Plantation (Largest producer state) Jute Kerala Tea Assam Sugarcane Uttar Pradesh Rubber Kerala
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2019, Q-AGRI-309**
+Which of the following pairs is not correctly matched?
+Crop State
+
+A. Maize - Uttar Pradesh
+
+B. Jute - West Bengal
+
+C. Cotton - Maharashtra
+
+D. Soyabean - Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The correct match of Crop and State is : Crop State Maize Uttar Pradesh Jute West Bengal Soybean Madhya Pradesh Among the given options Soybean production is minimal in Andhra Pradesh, while the rest of the options are matched by the state which produces more of the given crops.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Pre) 2018, Q-AGRI-310**
+The Sultana, Gulabi and Kali Champa varieties in
+different regions of India are varieties of which of the
+following major fruits?
+
+A. Custard Apple
+
+B. Orange
+
+C. Guava
+
+D. Grapes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Sultana, Gulabi and Kali Champa are varieties of grapes.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016, Q-AGRI-311**
+Which one of the following is NOT correctly matched?
+Crop Weed
+
+A. Wheat Phalaris minor
+
+B. Paddy Bathua
+
+C. Pea Piyazi
+
+D. Berseem Kasni
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The botanical name of Bathua is the Chinopodium Album. It often grows as a weed among crops like wheat, pea, mustard. Its green leaves are used as vegetables only. It does not grow with paddy crop. Other options are correctly matched.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2016, Q-AGRI-312**
+Which of the following is NOT correctly matched?
+(Crop) (Variety)
+
+A. Mustard Varuna
+
+B. Pea Rachna
+
+C. Linseed Neelam
+
+D. Paddy Radhey
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Radhey is the variety of chickpea. It is recommended to farmers of Bundelkhand region of Uttar Pradesh.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand P.C.S. (Pre) 2021, Q-AGRI-313**
+Maize – Potato – Sugarcane (ratoon) – Moong is the
+example of crop rotation for :
+
+A. 2 years
+
+B. 3 years
+
+C. 4 years
+
+D. 1 year
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Maize, potato, sugarcane (ratoon), Moong crop cycle is an example of 3 year crop rotation.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S / R.T.S. (Pre) 2021, Q-AGRI-314**
+"NABI MG" is -
+
+A. A variety of Maize
+
+B. A variety of Barley
+
+C. A variety of Millet
+
+D. A variety of Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — NABI MG is a variety of wheat. It's colored wheat. Color wheat developed by NABI is available in 3 different colors (Black, Blue and Purple) known as NABI variety.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand .P.C.S. (Pre) 2021, Q-AGRI-315**
+First herbicide produced in the world is :
+
+A. 2, 4, 5-T
+
+B. Pendimethalin
+
+C. Semazin
+
+D. 2, 4-D
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 2, 4-D of the above options were the first herbicide produced in the world.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.R.O./A.R.O. (Mains) 2021, Q-AGRI-316**
+Which of the following is not correctly matched?
+
+A. Maize – Tasseling
+
+B. Pliny – Pegging
+
+C. Ptolemy – Tillering
+
+D. Strabo – Topping
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Tasseling, Pegging, Tillering and Topping are cultivating techniques of crops. Topping technique of chickpea is removal of the tips of the young branches of gram plant when it is 2 to 4 week old.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2017, Q-AGRI-317**
+What percentage does Uttar Pradesh contribute to the
+Mentha oil production of India?
+
+A. 60%
+
+B. 85%
+
+C. 75%
+
+D. 90%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — When the question was asked option (b) was correct answer. According to the fi gures of 2021-22 (3rd A.E.). In India, Uttar Pradesh is the largest producer of Mentha oil contributing up to 100% of total production. Mentha also known as Mint are aromatic, almost exclusively perennial herbs. Mentha oil is prepared by steam distillation and fi ltration of dried leaves. After this process, the golden yellow volatile oil is obtained. When the crop reaches the flowering stage maximum oil is extracted from leaves and flowering tips. Mentha oil is the basic raw material for the production of menthol.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. P.C.S. (Mains) 2017, Q-AGRI-318**
+Which one of the following is not correctly matched?
+Crop Disease
+
+A. Paddy Wilt
+
+B. Mustard White rust
+
+C. Bajra Smut
+
+D. Groundnut Tikka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — All are correctly matched except option (a). The disease wilt is not a specifi c disease of paddy. A wilt disease can aff ect the vascular system of plants also.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Pre) 2018, Q-AGRI-319**
+Which among the following statements is not true?
+
+A. Rust is a disease found in wheat.
+
+B. Early blight is a disease found in Potato.
+
+C. False smut is a disease found in barley.
+
+D. Khaira is a disease found in paddy.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — False smut is a disease found in Rice and can cause up to about 44% of grain loss.
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2017, Q-AGRI-320**
+Which of the following is not a correct pair of crop and
+its leading producing State?
+
+A. Rice: West Bengal
+
+B. Wheat: Uttar Pradesh
+
+C. Cotton: Gujarat
+
+D. Rape and Mustard: Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — When the question was asked option (c) was correct answer. According to data of 2021-22 (4th A.E.) The largest producer of cotton is Gujarat. Maharashtra is the second largest producer.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2017, Q-AGRI-321**
+In which of the following state is Black Pepper and
+Cardamom produced?
+
+A. Assam
+
+B. Jammu and Kashmir
+
+C. Himachal Pradesh
+
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Assam is the largest producer of Tea.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S (Pre) 2018, Q-AGRI-322**
+With reference to organic farming in India, consider
+the following statements.
+1. 'The National Programme for Organic Production'
+(NPOP) is operated under the guidelines and
+directions of the Union Ministry of Rural
+Development.
+2. 'The Agricultural and Processed Food Products
+Export Development Authority' (APEDA)
+functions as the Secretariat for the implementation
+of NPOP.
+3. Sikkim has become India's first fully organic State.
+Which of the statements given above is/are correct?
+
+A. 1 and 2
+
+B. 2 and 3
+
+C. 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The Agriculture and Processed Food Products Export Development Authority (APEDA) is the implementing agency for the NPOP. The APEDA was established by the Government of India under the Agricultural and Processed Food Products Export Development Authority Act passed by the Parliament. Hence statement 2 is correct. Sikkim became India's first fully organic state. Hence statement 3 is correct.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand P.C.S. (Pre) 2023, Q-AGRI-323**
+Agricultural drought is defi ned is :
+
+A. uneven distribution of rainfall over time and place
+
+B. low soil moisture
+
+C. inadequate rainfall of 30 percent or more in cropped areas
+
+D. the lack of water supply in water storage reservoir which can be compensated by normal rainfall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Agricultural drought referring to lack of moisture in the soil where crops grow. So the second statement [option (b)] is the correct answer. Signifi cantly, Hydrological drought is referred the low levels of water in reservoirs. Notably Meteorological drought is defi ned usually on the basis of the degree of dryness and the duration of the dry period.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand P.C.S. (Pre) 2023, Q-AGRI-324**
+Which of the following is not a cash crop?
+
+A. Jute
+
+B. Millet
+
+C. Sugarcane
+
+D. Peanut
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Millets (Bajra, Jowar) are staple food grains, whereas jute, sugarcane, cotton, tobacco are commercial cash crops (Option B). A Cash crop, also called crop is an agricultural crop which is grown to sell for profi t. In regions with a tropical climate, coff ee, cocoa, sugarcane, bananas, organge, cotton and jute are common cash crop.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand P.C.S. (Pre) 2023, Q-AGRI-325**
+Which of the following statements are true?
+I. Bajra is sown in hot and dry climatic conditions of
+western and central parts of India.
+II. It is a hardy crop which can resist frequent dry
+spells.
+III. Being a rainfed crop, the yield of this crop is low
+in Rajasthan.
+IV. Rajasthan leads in its production.
+Choose the correct answer from the options given below:
+
+A. I and II
+
+B. II and III
+
+C. III and IV
+
+D. I and IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Statements I and IV are unequivocally true regarding Bajra in western India (Option D). Bajra is sown in hot and dry climatic conditions of western and central parts of India. Signifi cantly, Bajra is a hardly crop known for its ability to resist frequent dry spells. Notably the yield of Bajra can be relatively low in Rajasthan. Signifi cantly, Rajasthan leads in its production.
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand P.C.S. (Pre) 2023, Q-AGRI-326**
+The dryland farming in India is largely confi ned to the
+regions having annual rainfall of :
+
+A. less than 25 cm
+
+B. less than 50 cm
+
+C. less than 75 cm
+
+D. less than 100 cm
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Dryland farming, also known as dry farming or rainfed agriculture, refers to agricultural practices carried out in regions characterized by limited water availability, particularly areas with low and erratic rainfall. Signifi cantly, dryland farming in India is practiced in regions with annual rainfall below 750 milimeters.
+
+</details>
+
+---
+
+**Inline PYQ — Raj. P.C.S. (Pre) 2023, Q-AGRI-327**
+Mahi Kanchan and RCB 911 are hybrid variety of:
+
+A. Maize and Barley respectively
+
+B. Maize and Rice respectively
+
+C. Maize and Bajra respectively
+
+D. Bajra and Maize respectively
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Mahi Kanchan and RCB 911 are hybrid veriety of Maize and Bajara respectively. Signifi cantly the major maize producing districts in the state of Rajasthan are Bhilwara, Chhittorgarh, Udaipur, Banswara etc. While Western Rajasthan, Jaipur, Dausa, Karauli, Bharatpur etc. are major Bajra producing regions of Rajasthan.
+
+</details>
+
+---
+
+
+### N.8.1 Animal Husbandry & White Revolution (Operation Flood)
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2005, Q-AGRI-328**
+Stock Farming is –
+
+A. Growing of 2-3 crops at the same time
+
+B. Breeding of animals
+
+C. Crop rotation
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Stock farming is the practice of keeping livestock farm. Animal Husbandry is the scientifi c management of animal livestock. It includes various aspect such as feeding, breeding and disease control. Thus (b) is the correct answer.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1994, Q-AGRI-329**
+Largest density of the number of cattle in per 100
+hectare gross cultivable land is in –
+
+A. Bihar
+
+B. Haryana
+
+C. Madhya Pradesh
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — States and density of number of cattle in their gross cultivable land is given in the following order Haryana - 25/square km. Uttar Pradesh - 77/square km. Madhya Pradesh - 106/square km. Bihar - 183/square km.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Mains) 2006, Q-AGRI-330**
+About one-third of India's cattle population is found
+in the three states, these are :
+
+A. Bihar, Maharashtra, and Uttar Pradesh
+
+B. Madhya Pradesh, West Bengal, and Uttar Pradesh
+
+C. Punjab, Orissa, and Rajasthan
+
+D. Andhra Pradesh, Karnataka, and Rajasthan U.P.P.C.S. (Pre) 2009
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — When the question was asked option (b) was correct answer. According to 20th Livestock census, there are 193.46 million cattle in India. Top three states with cattle population (in 2019) are as follows - West Bengal (19.1 million), Uttar Pradesh (19.0 million) and Madhya Pradesh (18.8 million).
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl.) (Pre) 2008, Q-AGRI-331**
+Uttar Pradesh in India is the largest producer of
+cow milk.
+
+A. 1 and2
+
+B. 2 and 3
+
+C. 3 and 4
+
+D. 1 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — When the question was asked option (a) was correct answer. According to the 20th Livestock Census, 2019, three states with highest livestock population are - Uttar Pradesh, Rajasthan and Madhya Pradesh. Top 3 buff aloes owner states are Uttar Pradesh, Rajasthan and Gujarat. Top 3 Sheep owner states – Telangana > Andhra Pradesh > Karnataka. UP in India is the largest producer of milk in 2022-23.
+
+</details>
+
+---
+
+**Inline PYQ — I.A.S. (Pre) 1994, Q-AGRI-332**
+Most milk yielding goat breed in India is-
+
+A. Barbari
+
+B. Jamunapari
+
+C. Kali Bengali
+
+D. Beetal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Most milk yielding goat breed in India is Jamunapari goat. This breed is considered useful for milk as well as for meat. It gives up to about 2.5 to 3.0 kg of milk, per day.
+
+</details>
+
+---
+
+**Inline PYQ — R.A.S./R.T.S.(Pre) 2007, Q-AGRI-333**
+Where are the Tharparkar species found?
+
+A. Tribal Belt
+
+B. Border Region of Rajasthan
+
+C. Hadauti Region
+
+D. Torawati Region
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Best cow breeds in India are found in Rajasthan. Breeds of cow generally found in Rajasthan are Tharparkar, Rathi, Kankrej, Sahiwal, Lal Sindhi, Gir, Nagouri, Haryanvi, Malwi and Mewati. Among these, Tharparkar breed is found in the western border district of Jaisalmer, Barmer and Jodhpur. Jaisalmer district of Rajasthan is at the top in terms of percapita milk production. Apart from this, it is also found in Kutch area of Gujarat.
+
+</details>
+
+---
+
+**Inline PYQ — 66th B.P.C.S. (Pre) (Re-Exam) 2020, Q-AGRI-334**
+Which of the following is not a breed of Rajasthan?
+
+A. Tharparkar
+
+B. Rathi
+
+C. Hallikar
+
+D. Mewati
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Rajasthan state has three native cattle breeds viz Rathi, Tharparker and Nagori, having great deal of endwance. Hallikar is a breed of cattle native to the state of karnataka. Mewati, also known as kesi, is a breed of Haryana.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl) (Mains) 2004, Q-AGRI-335**
+The cow breed known for high milk yield is
+
+A. Gangotri
+
+B. Haryana
+
+C. Sahiwal
+
+D. Tharparkar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Sahiwal breed of cow is mainly found in Sindh-province of Pakistan. Its milk yielding capacity is very high. Gangotri is mainly found in Uttar-Pradesh and its milk yielding capacity is very low. Haryana and Tharparkar are mainly used for dual purpose i.e., as a carrier and milk yielding.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Spl.) (Pre) 2008, Q-AGRI-336**
+India’s place in milk production in the world is-
+
+A. First
+
+B. Second
+
+C. Third
+
+D. Fourth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — India is ranked first in terms of milk production (2021-22). In India, Uttar Pradesh was at first place,and Rajasthan is at the second place during 2022-23.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2014, Q-AGRI-337**
+Which one of the following states recorded the highest
+milk production in 2011-12 ?
+
+A. Uttar Pradesh
+
+B. Rajasthan
+
+C. Gujarat
+
+D. Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — States given in the options and their milk production during 2011-12 and 2022-03 is given below – States Milk Production (thousand tonnes) (2011-12) (2022-23) Uttar Pradesh 22556 36241.74 Rajasthan 13512 33306.80 Gujarat 9817 17280.57 Punjab 9551 14301.45
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 1998, Q-AGRI-338**
+What is 'Operation Flood" associated with?
+
+A. Flood Control
+
+B. Irrigation Project
+
+C. Storage of Foodgrains
+
+D. Milk Production and Distribution
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Operation fl ood was started to increase the production of milk.
+
+</details>
+
+---
+
+**Inline PYQ — Uttarakhand P.C.S. (Mains) 2006, Q-AGRI-339**
+Who is known as the father of India’s ‘White
+Revolution’?
+
+A. Dr. Varghese Kurien
+
+B. Dr. Hargovind Khurana
+
+C. Dr. Rajendra Prasad
+
+D. 
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Dr. Varghese Kurien was the father of India’s White Revolution, which helped India emerged as the largest milk producer in the world.
+
+</details>
+
+---
+
+**Inline PYQ — U.P.P.C.S. (Pre) 2015, Q-AGRI-340**
+White Revolution is related to –
+
+A. Egg production
+
+B. Milk production
+
+C. Wheat production
+
+D. Fish production
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — M.P.P.C.S. (Pre) 2012, Q-AGRI-341**
+Who among the following is associated with 'White
+Revolution'?
+
+A. P.J. Kurien
+
+B. Varghese Kurien
+
+C. M.S. Swaminathan
+
+D. M.S. Raghunathan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — See the explanation of above question.
+
+</details>
+
+---
+
+**Inline PYQ — Chhattisgarh P.C.S. (Pre) 2021, Q-AGRI-342**
+As per Economic Survey 2020-21, arrange the following
+state in decreasing order of milk production.
+
+A. Gujarat > Madhya Pradesh > Punjab > Haryana
+
+B. Madhya Pradesh > Gujarat > Punjab > Haryana
+
+C. Gujarat > Punjab > Madhya Pradesh > Haryana
+
+D. Madhya Pradesh > Gujarat > Haryana > Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — India is ranked first in terms of milk production. The decreasing order of the states on the basis of milk production (2022-23) is as follows : Madhya Pradesh > Gujarat > Punjab > Haryana.
+
+</details>
+
+---
+
+**Inline PYQ — U.P. R.O./A.R.O. (Mains) 2021, Q-AGRI-343**
+Which of the following is not correctly matched?
+(Animal) (Breed)
+
+A. Cow - Deoni
+
+B. Goat - Barbari
+
+C. Buff alo - Bhadawari
+
+D. Sheep - Gir
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The correct match is : (Animal) (Breed) Cow - Deoni Goat - Barbari Buff alo - Bhadawari Cow - Gir
+
+</details>
+
+---
+
+**Inline PYQ — Jharkhand P.C.S. (Pre) 2023, Q-AGRI-344**
+Which of the following statements are correct
+regarding Kharai camels?
+I. It is a rare camel breed found in Ladakh.
+II. Their name is derived from the local word 'Khara'
+meaning saline.
+III. They swim long distance in sea to reach their
+grazing areas.
+IV. They were anciently used in the 'Silk Route' areas.
+Select the correct answer from the options given below:
+
+A. I and III only
+
+B. II and III only
+
+C. I and IV only
+
+D. I, II, III and IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The 'Kharai' camels are a unique breed of camels that can swim. Notably, the camels swim long distances in the sea to reach its grazing areas, usually more than 3 kms, at a time even in the deep waters. Their name is derived from the local word 'Khara' meaning saline. Although however, there is no consensus among historians that they were anciently used in 'Silk Route' areas but some historians regards this.
+
+</details>
+
+---
+
+---
 
 ## Common Traps — Don't Fall For These
 
