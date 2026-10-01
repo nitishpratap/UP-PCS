@@ -799,9 +799,9 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/mordern%20india/07_Education_and_Press/#complete-pyq-bank-ghatnachakra-development-of-press-72-questions">Ghatnachakra Development of Press (72 Questions)</a> — 28 questions (UPPCS 27 · UKPCS 1)</li>
       <li><a href="../subjects/mordern%20india/07_Education_and_Press/#complete-pyq-bank-ghatnachakra-development-of-education-42-questions">Ghatnachakra Development of Education (42 Questions)</a> — 17 questions (UPPCS 12 · UKPCS 5)</li>
       <li><a href="../subjects/mordern%20india/07_Education_and_Press/#715-asiatic-society-of-bengal">Asiatic Society of Bengal</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#714-educational-centres-and-teachers">Educational Centres and Teachers</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/07_Education_and_Press/#713-national-education-movement-and-the-national-council-of-education-1906">National Education Movement and the National Council of Education, 1906</a> — 1 question (UKPCS 1)</li>
       <li><a href="../subjects/mordern%20india/07_Education_and_Press/#717-newspapers-and-journals">Newspapers and Journals</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#74-serampore-mission-and-william-carey-education-outside-company-control">Serampore Mission and William Carey — education outside Company control</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/mordern%20india/07_Education_and_Press/#75-woods-despatch-1854">Wood&#x27;s Despatch, 1854</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/07_Education_and_Press/">Open chapter</a>
@@ -1559,6 +1559,25 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/07_Natural_Vegetation_Biodiversity/">Open chapter</a>
   </div>
 </details>
+<details class="ct-row" data-ct-id="geography-02-Climate-of-India-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-02-Climate-of-India-md" aria-label="Mark Topic 2 — Climate of India done">
+    <span class="ct-title">Topic 2 — Climate of India</span>
+    <span class="ct-pills">43 Qs · UPPCS 38 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/02_Climate_of_India/#complete-pyq-bank-ghatnachakra-climate-monsoon-rainfall-winter-rainfall">Ghatnachakra Climate (Monsoon, Rainfall &amp; Winter Rainfall)</a> — 22 questions (UPPCS 18 · UKPCS 4)</li>
+      <li><a href="../subjects/geography/02_Climate_of_India/#complete-pyq-bank">PYQ Bank</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/geography/02_Climate_of_India/#23-winds-storms-and-cyclones">Winds, Storms and Cyclones</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/geography/02_Climate_of_India/#24-classification-and-oceanatmosphere-phenomena">Classification and ocean–atmosphere phenomena</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/02_Climate_of_India/#21-climate-basics">Climate Basics</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/02_Climate_of_India/#22-monsoon-system">Monsoon System</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/02_Climate_of_India/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="geography-08-Minerals-Energy-Industry-md" data-group="high" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-08-Minerals-Energy-Industry-md" aria-label="Mark Topic 8 — Minerals, Energy &amp; Industry done">
@@ -1576,27 +1595,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n5-power-thermal-hydro-nuclear-renewables">Power: thermal, hydro, nuclear, renewables</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/08_Minerals_Energy_Industry/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="geography-21-World-Minerals-Energy-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-21-World-Minerals-Energy-md" aria-label="Mark Topic 21 — World Minerals &amp; Energy done">
-    <span class="ct-title">Topic 21 — World Minerals &amp; Energy</span>
-    <span class="ct-pills">39 Qs · UPPCS 35 · UKPCS 4</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#complete-pyq-bank-ghatnachakra-minerals-uppcs-ukpcs-standard">Ghatnachakra Minerals</a> — 23 questions (UPPCS 20 · UKPCS 3)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n8-other-world-minerals">Other world minerals</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n1-coal">Coal</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n2-iron-ore">Iron ore</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n6-natural-gas">Natural gas</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n4-tin">Tin</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n3-copper">Copper</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n5-petroleum">Petroleum</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/21_World_Minerals_Energy/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="geography-17-World-Rivers-and-Lakes-md" data-group="high" data-uk="0">
@@ -1636,24 +1634,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/geography/03_Drainage_System/#32-peninsular-rivers">Peninsular rivers</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/geography/03_Drainage_System/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="geography-02-Climate-of-India-md" data-group="high" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="geography-02-Climate-of-India-md" aria-label="Mark Topic 2 — Climate of India done">
-    <span class="ct-title">Topic 2 — Climate of India</span>
-    <span class="ct-pills">22 Qs · UPPCS 20 · UKPCS 2</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/geography/02_Climate_of_India/#21-climate-basics">Climate Basics</a> — 5 questions (UPPCS 3 · UKPCS 2)</li>
-      <li><a href="../subjects/geography/02_Climate_of_India/#complete-pyq-bank">PYQ Bank</a> — 5 questions (UPPCS 5)</li>
-      <li><a href="../subjects/geography/02_Climate_of_India/#23-winds-storms-and-cyclones">Winds, Storms and Cyclones</a> — 5 questions (UPPCS 5)</li>
-      <li><a href="../subjects/geography/02_Climate_of_India/#24-classification-and-oceanatmosphere-phenomena">Classification and ocean–atmosphere phenomena</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/geography/02_Climate_of_India/#22-monsoon-system">Monsoon System</a> — 3 questions (UPPCS 3)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/geography/02_Climate_of_India/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="geography-01-Indian-Physical-Geography-Mountains-Hills-md" data-group="high" data-uk="0">
@@ -1702,6 +1682,27 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
 
 <h3 class="ct-group-title">Medium Important</h3>
 <div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="geography-21-World-Minerals-Energy-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-21-World-Minerals-Energy-md" aria-label="Mark Topic 21 — World Minerals &amp; Energy done">
+    <span class="ct-title">Topic 21 — World Minerals &amp; Energy</span>
+    <span class="ct-pills">39 Qs · UPPCS 35 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#complete-pyq-bank-ghatnachakra-minerals-uppcs-ukpcs-standard">Ghatnachakra Minerals</a> — 23 questions (UPPCS 20 · UKPCS 3)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n8-other-world-minerals">Other world minerals</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n1-coal">Coal</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n2-iron-ore">Iron ore</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n6-natural-gas">Natural gas</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n4-tin">Tin</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n3-copper">Copper</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n5-petroleum">Petroleum</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/21_World_Minerals_Energy/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="geography-20-World-Agriculture-md" data-group="medium" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="geography-20-World-Agriculture-md" aria-label="Mark Topic 20 — World Agriculture done">

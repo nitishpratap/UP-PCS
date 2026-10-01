@@ -74,7 +74,7 @@ D. Mistral
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 40 Must-Score Facts
 
 1. India’s climate is **tropical monsoon**, not wholly tropical, because the country stretches into the subtropical north. The Himalaya (हिमालय) acts as a winter **wall** against Central Asian cold and forces **orographic** rain on southern slopes in the monsoon.
 2. The word monsoon comes from Arabic **mausim** (season). About **75–90%** of India’s rain falls with the south-west monsoon from June to September. Onset usually begins first in **Kerala around 1 June**.
@@ -110,6 +110,15 @@ D. Mistral
 ---
 31. Retreating monsoon months are mainly **October–November**, with October heat and Bay of Bengal / Andaman cyclone risk. Do not call this the Western Disturbance season.
 32. Burst of monsoon is sudden onset with heavy rain; withdrawal is gradual from north-west to south-east. Break monsoon ≠ retreating monsoon.
+33. **Monsoon origin concepts:** The classical **Thermal concept** relies on differential heating rates between the continental landmass and the Indian Ocean. **Flohn’s Dynamic concept** explains monsoon as the seasonal migration of planetary pressure and wind belts with the shifting ITCZ.
+34. **Traditional Indian Calendar (6 Ritus):** Six bimonthly seasons in chronological order: **Vasanta** (Spring: Mar–Apr) → **Grishma** (Summer: May–Jun) → **Varsha** (Rainy: Jul–Aug) → **Sharad** (Autumn: Sep–Oct) → **Hemant** (Pre-winter: Nov–Dec) → **Shishir** (Winter: Jan–Feb).
+35. **Rainy Day standard:** IMD officially defines a "rainy day" as any 24-hour period recording **≥ 2.5 mm** of precipitation.
+36. **Thirsty Land paradox:** Despite receiving ~1,236 mm average annual precipitation, India faces severe seasonal water stress because ~75–90% is concentrated in 4 monsoon months, with rapid runoff and high evaporation during hot dry months.
+37. **Spatial rainfall hierarchy:** Kochi (~3,932 mm) > Kolkata (~2,451 mm) > Patna (~1,100 mm) > Delhi (~904 mm). Driest station: **Leh** (~4.17 cm / 41.7 mm); Rajasthan driest: **Jaisalmer** (~31.67 cm). Wettest: **Mawsynram / Cherrapunji** (Khasi Hills, Meghalaya > 5,000 mm).
+38. **Pushkar Hills to Balotra flood link:** Heavy rainfall in the Pushkar hills (Ajmer) drains down the Luni River basin, producing severe flash floods downstream in **Balotra** (Barmer) due to the low-lying slope of the Pachpadra depression.
+39. **Desert Development Programme (DDP):** Launched in 1977–78 initially in 131 blocks across 21 districts in 5 states (Rajasthan, Gujarat, Haryana, J&K, HP), later expanded to 235 blocks across 40 districts in 7 states.
+40. **Winter Anticyclone vs Western Disturbance:** Winter anti-cyclonic high pressure over northern India is a natural result of cold, dense, subsiding continental air (NOT caused by winter rain). Western Disturbances are **extra-tropical** (temperate) depressions from the Mediterranean whose rainfall decreases from **West to East**.
+
 
 ---
 
@@ -265,6 +274,43 @@ The Sun sends **short-wave** radiation. The Earth returns **long-wave infrared**
 
 > **Teaching note:** The troposphere is heated mainly by **long-wave terrestrial radiation (भौमिक विकिरण)** from below. Among common surfaces, **fresh snow** has the highest albedo. Absolute humidity can rise with evaporation while relative humidity falls with warming; the evaporation fact does **not** explain the RH fall.
 
+
+#### Same-Latitude / Contrasting Stations Map Bank
+
+| Pair / Station | Latitude / Location | What differs | Primary Control |
+|----------------|---------------------|--------------|-----------------|
+| **Agra vs Darjeeling** | Both ~27°N | January: Agra **16 °C** vs Darjeeling **4 °C** | **Altitude & Lapse Rate** (~1 °C per 165 m; Darjeeling ~2,042 m vs Agra ~169 m) |
+| **Amritsar vs Shimla** | Both ~31°–32°N | Amritsar hot summer / mild winter vs Shimla snow / cool | **Altitude** (Amritsar ~230 m / 756 ft vs Shimla ~2,400 m / 7,866 ft) |
+| **Ajmer vs Shillong** | Both ~26°–27°N | Ajmer ~587 mm/yr vs Shillong ~5,160 mm/yr | **Distance from Sea & Orographic Relief** (Khasi Hills funnel vs Thar margin) |
+| **Chennai Station Profile** | 13°N (Coromandel) | Mean annual temp **26 °C**, annual rain **63 cm**, annual range **9 °C** | **Tropical Maritime & NE Monsoon dependence** |
+
+### Traditional Indian Seasons (Hindu Calendar Ritus)
+
+According to Indian tradition, the year is divided into 6 bimonthly seasons (*Ritus*):
+
+| Sr. | Season (*Ritu*) | Hindu Months | Gregorian Months | Key Characteristics |
+|:---:|-----------------|--------------|------------------|---------------------|
+| 1 | **Vasanta** (वसंत - Spring) | Chaitra – Vaishakha | March – April | Mild pleasant weather, blooming flowers, new foliage |
+| 2 | **Grishma** (ग्रीष्म - Summer) | Jyeshtha – Ashadha | May – June | Intense heat, dry westerly winds (Loo), localized dust storms |
+| 3 | **Varsha** (वर्षा - Rainy) | Shravana – Bhadrapada | July – August | Peak South-West monsoon, widespread torrential rains, high humidity |
+| 4 | **Sharad** (शरद - Autumn) | Ashvina – Kartika | September – October | Retreating monsoon, clear skies, October heat, transition to cool |
+| 5 | **Hemant** (हेमंत - Pre-winter) | Margashirsha – Pausha | November – December | Pleasant cool weather, Coromandel coast rainfall (NE monsoon) |
+| 6 | **Shishir** (शिशिर - Winter) | Magha – Phalguna | January – February | Coldest months, frost/fog in north, Western Disturbance rains |
+
+> **Chronological Order Drill:** Vasanta (Spring) → Grishma (Summer) → Varsha (Rainy) → Sharad (Autumn) → Hemant (Pre-winter) → Shishir (Winter).
+
+#### IMD Rainy Day, Water Management & "Thirsty Land" Paradox
+- **Official Definition of a Rainy Day (IMD):** A day is officially recorded as a **rainy day** when a meteorological station records **≥ 2.5 mm** of rainfall within a 24-hour period.
+- **The "Thirsty Land" Paradox:** Although India receives a generous national average annual rainfall of ~**1,236.4 mm**, it is often described as a "thirsty land". Why?
+  1. **Temporal concentration:** Nearly 75–90% of rain falls in just 3 to 4 monsoon months (June–September), leaving the country dry for the remaining 8 months.
+  2. **Rapid runoff:** Torrential downpours cause swift surface runoff into rivers and seas before moisture can infiltrate aquifers.
+  3. **High evaporation:** High tropical temperatures drive rapid evaporative losses from soil and surface water bodies.
+- **Inland Waterways Limitation:** Inland water transport remains underdeveloped largely because rivers outside the snow-fed Himalayas shrink dramatically during the 8 dry months due to monsoon seasonality.
+- **Watershed Hallmark in Semi-Arid India:** Embanking seasonal rivulets and rivers into a **system of traditional tanks** and check dams (over 120,000 tanks irrigating >4 million hectares). Tamil Nadu is the leading state in mandatory rainwater harvesting.
+- **Desert Development Programme (DDP):** Launched in 1977–78 to combat desertification, starting with 131 blocks across 21 districts in 5 states (Rajasthan, Gujarat, Haryana, J&K, HP), later covering 235 blocks of 40 districts in 7 states (including Andhra Pradesh and Karnataka).
+- **All-India Water Divide:** Major divide separating Arabian Sea drainage from Bay of Bengal drainage, traversing from Western Ghats through Satpura/Vindhya, Aravallis, Delhi ridge, to the Siwaliks and Himalayas.
+
+
 ### Temperature inversion
 
 Normally temperature falls with height. In an **inversion**, temperature rises with height near the ground. Cold air below warmer air traps smoke and fog near the surface.
@@ -410,7 +456,32 @@ Two standard explanations work together:
 | 7 | Onset **burst** at Kerala (~1 June), then the front marches north | About 10 days per degree of latitude |
 
 - In winter the ITCZ shifts south. Winds reverse to the north-east. Over most of India those winds are dry. They rain on the Coromandel only after picking up Bay moisture.
-- Withdrawal begins in the **north-west** and ends in the extreme south. That north-to-south pullback is the retreating monsoon.### Southwest monsoon
+- Withdrawal begins in the **north-west** and ends in the extreme south. That north-to-south pullback is the retreating monsoon.
+#### Concepts of Monsoon Origin & Upper Atmosphere Controls
+1. **Thermal Concept (Halley / Classical):** Differential heating rates between the vast continental landmass of Asia/India and the surrounding Indian Ocean drive an enormous seasonal sea-breeze / land-breeze cycle.
+2. **Dynamic Concept (Flohn):** The monsoon is primarily the seasonal displacement and migration of the planetary wind belts and the Inter-Tropical Convergence Zone (ITCZ) northward across the equator in summer and southward in winter.
+3. **Jet Stream Theory & Tibetan Plateau:**
+   - The high **Tibetan Plateau** acts as an elevated mechanical barrier and summer thermal engine, dividing the Subtropical Westerly Jet (STWJ) into two branches:
+     - **Northern branch:** Flows north of the Himalayas/Tibetan Plateau across Central Asia and China; it plays **no role** in India's winter precipitation.
+     - **Southern branch:** Flows south of the Himalayas across northern India; it steers Mediterranean **Western Disturbances** and governs winter weather.
+   - In late May/early June, the sudden northward shift of this southern branch north of Tibet triggers the dramatic **"burst"** of the South-West monsoon over the Indian peninsula.
+
+#### Drainage & Regional Rainfall Traps
+- **Chhattisgarh Basin & Arabian Sea Branch:** The Arabian Sea branch splits after hitting the Western Ghats (one sub-branch heads along the Aravallis, another up the Narmada-Tapi into MP and western CG). The inland **Chhattisgarh Basin** remains largely sheltered from this branch; it receives almost its entire rainfall from the **Bay of Bengal branch**. Its climate is classified as **Humid South-East**.
+- **Pushkar Hills Heavy Rain → Balotra Floods:** When intense rainfall strikes the Pushkar hills in Ajmer, floodwaters channel down the Luni river basin and surge into **Balotra (Barmer)** because Balotra sits on the low downward gradient of the Pachpadra depression.
+- **Signs of Monsoon Decline (Retreating Monsoon):**
+  1. **Clear sky** replaces monsoon cloudiness.
+  2. **October Heat:** Rising daytime temperatures on land combined with high residual humidity.
+  3. **Low pressure shift to Bay of Bengal:** Development of cyclonic depressions and storms that track across the Coromandel coast.
+- **Rainfall Gradient across Major Cities (Descending Order):**
+  - **Kochi (~3,932 mm)** > **Kolkata (~2,451 mm)** > **Patna (~1,100 mm)** > **Delhi (~904 mm)**.
+- **Lowest Rainfall Benchmarks:**
+  - **Leh (Ladakh UT):** ~4.17 cm (41.7 mm) — **lowest in all India**.
+  - **Jaisalmer:** ~31.67 cm — lowest in Rajasthan.
+  - **Bikaner:** ~32.84 cm.
+
+
+### Southwest monsoon
 
 ![Southwest Monsoon: Flow, Branches & Onset Isochrones](images/ch2_01_sw_monsoon_flow_and_branches.png)
 
@@ -769,6 +840,21 @@ Köppen classifies climate by temperature and rainfall letter codes. Thornthwait
 
 - India is **not** all **Am**. The interior Deccan is **Aw**. The Thar is **BWh**. The Tamil Nadu coast is often mapped as **As** because its dry season is the south-west-monsoon **summer**.
 - The “humid south-east” belts (Chotanagpur (छोटानागपुर)–Odisha–south Chhattisgarh fringe) sit in the wetter monsoon east; do not confuse with Thar **BWh**.
+
+
+| Köppen Code | Climatic Type | Representative Regions in India |
+|:---:|---|---|
+| **Amw** | Monsoon with short dry season | Western coastal plains south of Goa (Malabar/Konkan), parts of Arunachal/Assam |
+| **As** | Monsoon with dry summer | **Coromandel Coast** (coastal Tamil Nadu and adjoining Andhra Pradesh) |
+| **Aw** | Tropical Savanna (wet & dry) | Most of the Peninsular plateau south of the Tropic of Cancer |
+| **BWhw** | Tropical desert (arid) | Western Rajasthan (Thar Desert) |
+| **BShw** | Semi-arid steppe | Rain-shadow belt east of Western Ghats; parts of Rajasthan, Haryana, Punjab |
+| **Cwg** | **Humid subtropical with dry winter** | **Great Plains of India (Indo-Gangetic plain), North-East India (including North Bengal and Assam plains), and North Bihar** |
+| **Dfc** | Cold humid winter with short summer | High-altitude Sikkim and Arunachal Pradesh Himalayas |
+| **E / ET** | Polar / Tundra | High mountain belts of Jammu & Kashmir, Ladakh, Himachal Pradesh, Uttarakhand |
+
+> **Key UPPCS / UKPCS Trap:** **Cwg** is the exact Köppen code for the Great Plains of India, North Bihar, and North-East India (including North Bengal).
+
 
 ### Jet streams
 
@@ -1360,6 +1446,1636 @@ D. Exosphere
 </details>
 
 ---
+
+## Complete PYQ Bank — Ghatnachakra Climate (Monsoon, Rainfall & Winter Rainfall)
+
+Comprehensive question bank from Ghatnachakra covering Monsoon, Rainfall, and Winter Rainfall sections. Fully verified with official PSC answer keys and analytical explanations.
+
+**Q-GC1. MPPCS Prelims 2013**
+
+The term 'Monsoon' is originated from:
+
+A. Arabic Language
+
+B. Spanish
+
+C. Hindi
+
+D. English
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The word 'Monsoon' is derived from the Arabic word 'mausim', which literally translates to 'season'. Traditionally, monsoon describes a seasonal reversal in the direction of winds that brings extensive precipitation to South and South-East Asia.
+
+</details>
+
+---
+
+**Q-GC2. UPPCS Prelims 1996 / 1998 / UP Lower Sub. Prelims 1998**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** India is a Monsoonal Country.
+**Reason (R):** The high Himalayas impart it climatic distinctiveness.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are true and (R) explains (A). India's overarching climatic regime is essentially monsoonal. The towering Himalayan mountain system functions as an impassable climatic divide: it shields the subcontinent from frigid Arctic/Central Asian blizzards in winter and obstructs the moisture-laden summer monsoon winds, forcing them to shed precipitation across India.
+
+</details>
+
+---
+
+**Q-GC3. IAS Prelims 1994**
+
+An index map of India showing isothermal bands and thermal regimes across different geographical regions depicts the distribution of:
+
+A. Winter Rainfall
+
+B. Pressure
+
+C. Annual rainy days
+
+D. Mean Temperature
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The map delineates annual mean temperature zones. India hosts climatic environments spanning humid tropical in the south to temperate/alpine in the north. Northern interior regions experience substantially higher seasonal temperature variations than peninsular and coastal regions.
+
+</details>
+
+---
+
+**Q-GC4. Jharkhand PCS Prelims 2013**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** India has a tropical Monsoon type climate.
+**Reason (R):** India is located exactly between the tropical latitudes.
+
+Select the correct answer using the code given below:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. (A) is true, but (R) is false.
+
+C. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Assertion (A) is correct: India's dominant climate is tropical monsoonal. Reason (R) is false: tropical latitudes lie strictly between 23°30' N and 23°30' S (Tropic of Cancer to Tropic of Capricorn), whereas India's mainland extends from 8°4' N up to 37°6' N, placing more than half its geographic territory in the subtropical and warm temperate zone.
+
+</details>
+
+---
+
+**Q-GC5. UPPCS Prelims 2006**
+
+In which of the following States does the South-West Monsoon arrive first?
+
+A. Assam
+
+B. West Bengal
+
+C. Maharashtra
+
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** In mainland India, the South-West monsoon makes landfall first on the coast of Kerala around 1 June. (Across Indian territories as a whole, it reaches the Andaman & Nicobar Islands around 20–25 May).
+
+</details>
+
+---
+
+**Q-GC6. MPPCS Prelims 2012 / UKPCS Prelims 2006**
+
+The general direction of flow of the summer monsoon in India is:
+
+A. from South to North
+
+B. from South West to South East
+
+C. from South East to South West
+
+D. from South West to North East
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** During summer, moisture-bearing monsoonal winds travel from South-West to North-East across the Indian landmass. In the winter retreating phase, the prevailing wind direction reverses to blow from North-East to South-West.
+
+</details>
+
+---
+
+**Q-GC7. UP RO/ARO Mains 2016**
+
+The Indian summer monsoon originates from which of the following wind systems?
+
+A. South-West winds
+
+B. South-East winds
+
+C. North-East winds
+
+D. North-West winds
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The summer monsoon originates as South-East trade winds in the southern Indian Ocean. Upon crossing the equator between 40° E and 60° E, they are deflected to the right by Coriolis force, becoming South-West winds that blow into the Indian subcontinent.
+
+</details>
+
+---
+
+**Q-GC8. IAS Prelims 1996**
+
+High temperature and low pressure over the Indian Subcontinent during the summer season draw air from the Indian Ocean leading to the in-blowing of the:
+
+A. South-East monsoon
+
+B. South-West monsoon
+
+C. Trade winds
+
+D. Westerlies
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Intense summer insolation over the northwestern plains and Tibetan Plateau establishes an intense low-pressure cell. This thermal gradient draws cool, moisture-laden air masses across the equator from the high-pressure southern Indian Ocean as the South-West monsoon.
+
+</details>
+
+---
+
+**Q-GC9. IAS Prelims 1993**
+
+A climograph characterizing a region with high relative humidity (above 75–80%) and moderate-to-warm temperatures (20°C to 32°C) throughout May to October with intense wet spells represents which Indian region?
+
+A. North–West region of India
+
+B. South region of India
+
+C. Central region of India
+
+D. North-East region of India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The climograph represents the North-East region of India (Assam and adjoining states), where high humidity, persistent cloudiness, and heavy orographic rainfall dominate from May through October, contrasting with the dry extremes of the North-West.
+
+</details>
+
+---
+
+**Q-GC10. BPSC Prelims 2015**
+
+Which one of the following is the driest place in India?
+
+A. Mumbai
+
+B. Delhi
+
+C. Leh
+
+D. Bengaluru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Leh (Ladakh) is located in the rain-shadow of the Greater Himalayas and receives only ~4.17 cm (41.7 mm) of precipitation annually, making it the driest meteorological station in India.
+
+</details>
+
+---
+
+**Q-GC11. IAS Prelims 1997**
+
+The January isotherm taken as a basis for dividing India into tropical and subtropical zones is:
+
+A. 21°C
+
+B. 18°C
+
+C. 12°C
+
+D. 15°C
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The 18°C mean January isotherm runs roughly parallel to the Tropic of Cancer across central India, dividing the country into the tropical zone to the south (where mean January temperatures remain ≥ 18°C) and the subtropical zone to the north.
+
+</details>
+
+---
+
+**Q-GC12. IAS Prelims 2001**
+
+In the central peninsular plateau region of India, the mean temperature for the month of July typically varies between:
+
+A. 22.5°C - 25.0°C
+
+B. 25.0°C - 27.5°C
+
+C. 27.5°C - 30.0°C
+
+D. 30.0°C - 32.5°C
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Over the central peninsular plateau (Deccan interior), July mean temperatures stay moderate between 25.0°C and 27.5°C owing to persistent monsoonal cloud cover, rainfall, and moderate elevation.
+
+</details>
+
+---
+
+**Q-GC13. CGPCS Prelims 2011**
+
+In which part of India is the daily range of temperature (diurnal range) highest?
+
+A. Eastern coastal areas
+
+B. Interior areas of Chhattisgarh plain
+
+C. Andaman island
+
+D. Desert areas of Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Desert areas of western Rajasthan exhibit the highest diurnal temperature range. Sandy soils heat up very rapidly under direct sunshine during the day and radiate heat swiftly under cloudless skies at night.
+
+</details>
+
+---
+
+**Q-GC14. MPPCS Prelims 2005**
+
+Which are the principal months for monsoon rainfall in Tamil Nadu?
+
+A. March-April
+
+B. June-July
+
+C. September-October
+
+D. November-December
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Tamil Nadu receives approximately 50–60% of its annual precipitation during the North-East monsoon period between October and December (with peak rainfall occurring in November and December).
+
+</details>
+
+---
+
+**Q-GC15. BPSC Prelims 1994**
+
+The Indian monsoon is marked by seasonal displacement of wind systems primarily because of:
+
+A. Differential temperature of land and sea
+
+B. Cold wind of middle Asia
+
+C. Excess similarity of temperature
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The primary physical engine driving the seasonal reversal of winds is the differential rate of heating and cooling of the continental landmass relative to the surrounding ocean. In addition, Flohn's dynamic concept explains it through the seasonal migration of planetary pressure belts and the ITCZ.
+
+</details>
+
+---
+
+**Q-GC16. IAS Prelims 2012**
+
+Consider the following statements:
+
+1. The duration of the monsoon decreases from southern India to northern India.
+2. The amount of annual rainfall in the northern plains of India decreases from east to west.
+
+Which of the statement(s) given above is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct. Southern India experiences an earlier onset (1 June) and later withdrawal (November/December for the south), giving it a longer monsoon duration than the northern plains. In the northern plains, the Bay of Bengal branch loses moisture progressively as it moves westward, so rainfall decreases from East to West.
+
+</details>
+
+---
+
+**Q-GC17. IAS Prelims 2017**
+
+With reference to 'Indian Ocean Dipole (IOD)' sometimes mentioned in the news while forecasting Indian monsoon, which of the following statements is/are correct?
+
+1. IOD phenomenon is characterised by a difference in sea surface temperature between tropical Western Indian Ocean and tropical Eastern Pacific Ocean.
+2. An IOD phenomenon can influence an El Nino's impact on the monsoon.
+
+Select the correct answer using the code given below:
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 1 is incorrect because IOD is an oscillation of sea-surface temperatures entirely within the Indian Ocean (between the tropical Western Indian Ocean and the tropical Eastern Indian Ocean south of Indonesia), NOT the Pacific. Statement 2 is correct because a positive IOD (+IOD) pumps extra moisture toward India and can offset or neutralize the drying effect of an El Niño.
+
+</details>
+
+---
+
+**Q-GC18. CGPCS Prelims 2022**
+
+Which of the following statements are true in relation to the upper tropospheric jet stream over Asia?
+
+1. Jet stream blows across the Asian Continent at latitudes North of the Himalayas parallel to Tibetan highlands.
+2. Tibetan highland divides the jet stream into North and South Branches.
+3. The northern branch of jet stream plays an important role in winter weather in India.
+
+Select the correct code:
+
+A. 1 and 2
+
+B. 1 and 3
+
+C. 1, 2 and 3
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are true: in winter, the Subtropical Westerly Jet stream blowing eastward is bifurcated by the Tibetan Plateau into two branches. Statement 3 is false because the northern branch blows north of Tibet across China; it is the southern branch (flowing south of the Himalayas across northern India) that steers Western Disturbances and controls India's winter weather.
+
+</details>
+
+---
+
+**Q-GC19. UPPCS Prelims 2022**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Agra and Darjeeling are located on the same latitude but temperature of January in Agra is 16° Centigrade whereas it is only 4° Centigrade in Darjeeling.
+**Reason (R):** Temperature decreases with height and due to thin air, places in the mountains are cooler than places in the plains.
+
+Select the correct answer from the code given below:
+
+A. (A) is true but (R) is false
+
+B. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+C. (A) is false but (R) is true
+
+D. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both Agra (27°10' N) and Darjeeling (27°03' N) share nearly identical latitude. However, Agra is in the plains (~169 m) while Darjeeling is at high altitude (~2,042 m). By the normal environmental lapse rate (~1°C per 165 m, or ~6.5°C per 1,000 m), temperature decreases with height, explaining why Darjeeling is 12°C colder in January. Hence R correctly explains A.
+
+</details>
+
+---
+
+**Q-GC20. BPSC Prelims 2011**
+
+Amritsar and Shimla are almost on the same latitude, but their climate difference is primarily due to:
+
+A. The difference in their altitudes
+
+B. Their distance from sea
+
+C. Snowfall in Shimla
+
+D. Pollution in Amritsar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Amritsar (31°38' N) and Shimla (31°06' N) lie on virtually the same parallel. Amritsar is located at ~756 feet (~230 m) above mean sea level, whereas Shimla sits at ~7,866 feet (~2,400 m). This elevation disparity explains their contrasting climatic conditions.
+
+</details>
+
+---
+
+**Q-GC21. CGPCS Prelims 2011**
+
+Which one of the following types of climate is found in Chhattisgarh state?
+
+A. Humid South-East
+
+B. Sub Humid transitional
+
+C. Sub Humid Littoral
+
+D. Sub Humid continental
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A Humid South-East climate characterizes West Bengal, Chotanagpur, the Odisha plains, southern Chhattisgarh, and north-east Andhra Pradesh. Sub-humid transitional spreads over the central Gangetic plain; sub-humid littoral across the Coromandel coast; and sub-humid continental over the upper Gangetic plain.
+
+</details>
+
+---
+
+**Q-GC22. CGPCS Prelims 2016**
+
+Which of the following regions is not affected much by the Arabian Sea branch of Monsoon?
+
+A. The Western Ghat
+
+B. Deccan Plateau
+
+C. Madhya Pradesh
+
+D. Chhattisgarh Basin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Chhattisgarh Basin receives very little precipitation from the Arabian Sea branch. The Arabian Sea branch is obstructed by the Western Ghats and splits: one stream moves across Gujarat/Aravallis, and another traverses the Narmada-Tapi trough across the Vindhyas into MP. The low-lying interior Chhattisgarh Basin is shielded and receives the vast bulk of its rainfall from the Bay of Bengal branch.
+
+</details>
+
+---
+
+**Q-GC23. UP UDA/LDA Spl. Prelims 2010**
+
+Which of the following places experience a humid climate?
+
+1. Ahmedabad
+2. Kochi
+3. Ludhiana
+4. Tejpur
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 2 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Kochi (coastal Kerala, rainfall > 3,000 mm) and Tejpur (Sonitpur district, Assam, rainfall > 1,400 mm) experience humid climates with heavy rainfall and high relative humidity. By contrast, Ahmedabad (semi-arid Gujarat) and Ludhiana (semi-arid Punjab) receive much less precipitation.
+
+</details>
+
+---
+
+**Q-GC24. BPSC Prelims 1995**
+
+The decline or withdrawal of the monsoon in northern India is indicated by which of the following features?
+
+1. Clear Sky
+2. Pressure conditions in the Bay of Bengal
+3. Rising temperature on land
+
+Select the answer using the code given below:
+
+A. only 1
+
+B. 1 and 2 both
+
+C. 1, 2 and 3
+
+D. 2 and 3 both
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three indicate the decline/retreating monsoon (October–November): skies become clear, daytime temperatures rise temporarily on land (causing the oppressive 'October Heat'), and atmospheric pressure falls over the Bay of Bengal, giving rise to cyclonic depressions.
+
+</details>
+
+---
+
+**Q-GC25. IAS Prelims 2015**
+
+Consider the following statements:
+
+1. The winds which blow between 30°N and 60°S latitudes throughout the year are known as westerlies.
+2. The moist air masses that cause winter rains in the North-Western region of India are part of westerlies.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 1 is incorrect because westerlies blow between 30° and 60° latitude in each hemisphere (30°N–60°N in the Northern Hemisphere and 30°S–60°S in the Southern Hemisphere), not continuously across the equator from 30°N to 60°S. Statement 2 is correct because the Western Cyclonic Disturbances that cause winter rains in NW India are extratropical systems steered into India by the subtropical westerly jet stream.
+
+</details>
+
+---
+
+**Q-GC26. MPPCS Prelims 2018**
+
+The Intertropical Convergence Zone (ITCZ), a low-pressure belt, is located:
+
+A. between trade winds and westerlies belt
+
+B. between westerlies and polar winds belt
+
+C. nearby the poles
+
+D. at the equator
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The ITCZ is a broad trough of low pressure located in equatorial latitudes where the Northeast and Southeast trade winds converge. It shifts northward and southward following the apparent seasonal movement of the Sun.
+
+</details>
+
+---
+
+**Q-GC27. RAS/RTS Prelims 2018**
+
+The dust storms originating in Rajasthan during May and June months are caused due to:
+
+A. Origin of convectional currents at few places
+
+B. Aravalli hills are parallel to south-western winds
+
+C. Origin of fast speedy easterly winds
+
+D. High atmospheric pressure in the desert
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Intense surface heating in May and June creates localized intense low-pressure pockets. Surrounding air is sucked in rapidly, originating vigorous vertical convectional currents that whip up fine desert sand into dust storms (locally known as Andhi).
+
+</details>
+
+---
+
+**Q-GC28. BPSC Prelims Re-Exam 2022**
+
+Rajasthan receives very little rain during the South-West monsoon season because:
+
+A. the monsoon fails to reach this area
+
+B. it is too hot
+
+C. there is no water available and thus, the winds remain dry
+
+D. the winds do not come across any barriers to cause the necessary uplift to cool the air
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Aravalli mountain range runs parallel to the direction of the Arabian Sea monsoon winds, offering no transverse orographic barrier to force the air masses to rise, cool, and condense. Furthermore, intense desert heat lowers relative humidity, preventing precipitation.
+
+</details>
+
+---
+
+**Q-GC29. UP RO/ARO Prelims 2021**
+
+Arrange the following seasons in Chronological order according to the traditional Hindu Calendar:
+
+1. Autumn (Sharad)
+2. Summer (Grishma)
+3. Spring (Vasanta)
+4. Rainy (Varsha)
+
+Select the correct answer using the code given below:
+
+A. 2, 4, 3, 1
+
+B. 3, 2, 4, 1
+
+C. 4, 2, 1, 3
+
+D. 1, 4, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The 6 seasons (*Ritus*) of the Hindu calendar in chronological sequence are: 1. Vasanta (Spring: Chaitra–Vaishakha / Mar–Apr), 2. Grishma (Summer: Jyeshtha–Ashadha / May–Jun), 3. Varsha (Rainy: Shravana–Bhadrapada / Jul–Aug), 4. Sharad (Autumn: Ashvina–Kartika / Sep–Oct), followed by Hemant (Pre-winter) and Shishir (Winter). Thus the correct order is 3, 2, 4, 1.
+
+</details>
+
+---
+
+**Q-GC30. UKPCS Prelims 2021**
+
+Köppen has used which of the following letter symbols for the climate of the Great Plains of India?
+
+A. Amw
+
+B. As
+
+C. Cwg
+
+D. Aw
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Köppen designated the climate of the Great Plains of India (Indo-Gangetic plains) as Cwg. Here 'C' represents warm temperate / mesothermal climate, 'w' indicates dry winter, and 'g' represents the Ganges temperature curve where the hottest month precedes the summer solstice rains.
+
+</details>
+
+---
+
+**Q-GC31. UKPCS Prelims 2016**
+
+As per Köppen's classification of climate, which one of the following is the most suitable description of North-East India including North Bengal?
+
+A. Tropical monsoon rainforest (Amw)
+
+B. Sub-tropical monsoon rainforest (Am)
+
+C. Tropical wet and dry climate (Monsoon Savannah) (Aw)
+
+D. Humid sub-tropical climate with dry winter (Cwg)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** As per Köppen's climatic scheme, North-East India (including the Brahmaputra valley and North Bengal) is categorized under Humid sub-tropical climate with dry winter (Cwg).
+
+</details>
+
+---
+
+**Q-GC32. BPSC Prelims 2017**
+
+According to Köppen's climatic classification, the climate of North Bihar is designated as:
+
+A. Cwg
+
+B. Aw
+
+C. CA'w
+
+D. CB'w
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** According to Köppen's scheme, the climate of North Bihar and the surrounding Middle Gangetic plain is classified as Cwg (humid subtropical with dry winter).
+
+</details>
+
+---
+
+**Q-GC33. BPSC Prelims 2008**
+
+India receives its maximum annual rainfall mainly from which of the following?
+
+A. North-East Monsoon
+
+B. Retreating Monsoon
+
+C. South-West Monsoon
+
+D. Convectional rainfall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The South-West monsoon (June to September) supplies approximately 75% to 90% of India's total annual rainfall. It enters India through two branches: the Arabian Sea branch and the Bay of Bengal branch.
+
+</details>
+
+---
+
+**Q-GC34. UPPCS Prelims 2009**
+
+The Indian state which receives the maximum share of its annual rainfall due to the North-East monsoon is:
+
+A. Assam
+
+B. West Bengal
+
+C. Tamil Nadu
+
+D. Odisha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tamil Nadu receives 50% to 60% of its total annual precipitation during the North-East monsoon (October to December), as the offshore winds pick up copious moisture while crossing the warm waters of the Bay of Bengal.
+
+</details>
+
+---
+
+**Q-GC35. UPPCS Mains 2016**
+
+Which amongst the following States records the highest average annual rainfall?
+
+A. Arunachal Pradesh
+
+B. Sikkim
+
+C. Kerala
+
+D. Jammu and Kashmir
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Among the four states listed in the options, Sikkim receives the highest average annual rainfall (~3,043 mm). (Nationally, Goa records the highest state average annual rainfall at ~3,947 mm, followed by Kerala at ~3,606 mm and Sikkim at ~3,043 mm).
+
+</details>
+
+---
+
+**Q-GC36. IAS Prelims 1993**
+
+Which among the following pairs of places exhibit the most marked differences in total annual rainfall despite being located along approximately the same latitude?
+
+A. Bengaluru and Chennai
+
+B. Mumbai and Vishakhapatnam
+
+C. Ajmer and Shillong
+
+D. Nagpur and Kolkata
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both Ajmer and Shillong lie near latitude 26°–27° N. However, Ajmer receives only ~587 mm of rain annually (situated on the arid margin of the Thar), whereas Shillong in the Khasi Hills receives ~5,160 mm annually due to funnel-shaped orographic lifting of Bay of Bengal winds.
+
+</details>
+
+---
+
+**Q-GC37. IAS Prelims 2002**
+
+The average annual temperature of a meteorological station is 26°C, its average annual rainfall is 63 cm, and its annual range of temperature is 9°C. The station in question is:
+
+A. Allahabad
+
+B. Chennai
+
+C. Cherrapunji
+
+D. Kolkata
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Chennai has an equable tropical maritime climate with an annual mean temperature of ~26°C, a low annual temperature range of ~8°–9°C, and moderate rainfall (~63–100 cm, occurring predominantly in winter during October–December).
+
+</details>
+
+---
+
+**Q-GC38. IAS Prelims 2005**
+
+Which one of the following is the correct sequence of the given Indian cities in decreasing order of their normal annual rainfall?
+
+A. Kochi – Kolkata – Delhi – Patna
+
+B. Kolkata – Kochi – Patna – Delhi
+
+C. Kochi – Kolkata – Patna – Delhi
+
+D. Kolkata – Kochi – Delhi – Patna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** In descending order of annual rainfall: Kochi (~3,932 mm) > Kolkata (~2,451 mm) > Patna (~1,100 mm) > Delhi (~904 mm). Rainfall steadily decreases inland and westward along the Gangetic plain.
+
+</details>
+
+---
+
+**Q-GC39. BPSC Prelims 1994 / JPSC Prelims 2023**
+
+Mango showers are common pre-monsoon phenomena in which of the following States of India?
+
+A. Uttar Pradesh and Madhya Pradesh
+
+B. Madhya Pradesh and Karnataka
+
+C. Uttar Pradesh and Tamil Nadu
+
+D. Kerala and Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Mango showers are pre-monsoon thunderstorm showers occurring in Kerala, coastal Karnataka, and parts of Goa/Konkan during April–May. They prevent premature fruit drop and aid in the ripening of mangoes.
+
+</details>
+
+---
+
+**Q-GC40. BPSC Prelims 2022**
+
+Towards the end of summer, there are pre-monsoon showers which are a common phenomenon in Kerala and coastal Karnataka. Locally, they are known as:
+
+A. Mango showers
+
+B. Blossom showers
+
+C. Norwesters
+
+D. Loo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pre-monsoon showers in Kerala and coastal Karnataka that prevent premature dropping and help mangoes ripen are called Mango Showers. Blossom showers are coffee-blossoming rains in Kerala/Karnataka, and Norwesters occur in Bengal/Assam.
+
+</details>
+
+---
+
+**Q-GC41. UPPCS Prelims 2008 / Mains 2010**
+
+Which one of the following places records the lowest annual rainfall in India?
+
+A. Bikaner
+
+B. Jaisalmer
+
+C. Jodhpur
+
+D. Leh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Leh (Ladakh UT) records the lowest annual rainfall in India at only ~4.17 cm (41.7 mm). By comparison, Jaisalmer receives ~31.67 cm (lowest in Rajasthan), and Bikaner receives ~32.84 cm.
+
+</details>
+
+---
+
+**Q-GC42. MPPCS Prelims 2005 / BPSC Prelims 1996**
+
+Cherrapunji, one of the wettest places in the world, is located in the state of:
+
+A. Assam
+
+B. Manipur
+
+C. Meghalaya
+
+D. Mizoram
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cherrapunji (Sohra) is located in the East Khasi Hills district of the northeastern state of Meghalaya. It holds historic global rainfall records alongside neighbouring Mawsynram.
+
+</details>
+
+---
+
+**Q-GC43. MPPCS Prelims 2010**
+
+The highest rainfall zones in India are concentrated in:
+
+A. Western Ghats, Himalayan Region and Meghalaya
+
+B. Madhya Pradesh and Bihar
+
+C. Uttar Pradesh, Haryana and Punjab
+
+D. Andhra Pradesh and Vidarbha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Zones receiving extreme rainfall (> 250 cm annually) in India are the windward slopes of the Western Ghats, the Sub-Himalayan belt in the North-East, and the Meghalaya Plateau (Khasi, Garo, and Jaintia Hills).
+
+</details>
+
+---
+
+**Q-GC44. UPPCS Prelims 1994**
+
+India has an abundant volume of rainfall but is still regarded as a 'thirsty land'. This paradoxical condition is due to:
+
+A. Rapid run off of water
+
+B. Quick evaporation of rainwater
+
+C. Concentration of rainfall during a few months only
+
+D. All the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three factors contribute to the paradox: rainfall is temporally concentrated in just 3–4 monsoon months, torrential bursts cause rapid surface runoff into rivers and seas before recharging groundwater, and high tropical heat leads to rapid evaporation.
+
+</details>
+
+---
+
+**Q-GC45. UPPCS Mains 2011**
+
+Which of the following Water Management Strategies in India is the most cost-effective?
+
+A. Improvement of the flush system
+
+B. Treatment and use of wastewater
+
+C. Rainwater Harvesting
+
+D. Recycling and Re-use of Water
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Rainwater harvesting is the most cost-effective and decentralized water management strategy in India. It recharges depleted aquifers, raises the water table, and prevents runoff. Tamil Nadu was the first Indian state to make rooftop rainwater harvesting compulsory.
+
+</details>
+
+---
+
+**Q-GC46. UPPCS Prelims 1994**
+
+Which of the following areas in India receive an average of only about 200 mm (20 cm) of annual rainfall?
+
+A. Kerala, Tamil Nadu, Karnataka
+
+B. Jammu and Kashmir (Ladakh / Zanskar)
+
+C. West Bengal, Odisha, Bihar
+
+D. Assam, Manipur, Tripura
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The cold desert tract of Ladakh and the northern Zanskar range (formerly Jammu & Kashmir, now Ladakh UT), along with the extreme western margin of Rajasthan (Thar), receive an average annual rainfall under 200 mm (20 cm).
+
+</details>
+
+---
+
+**Q-GC47. JPSC Prelims 2011**
+
+Jharkhand receives the vast majority of its annual rainfall from which monsoon system?
+
+A. North East Monsoon
+
+B. South West Monsoon
+
+C. North West Monsoon
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Jharkhand receives almost all its annual rainfall during the South-West monsoon season between June and September (principally via the Bay of Bengal branch, supplemented by the Arabian Sea branch).
+
+</details>
+
+---
+
+**Q-GC48. IAS Prelims 1993**
+
+The mean annual rainfall across the sub-humid interior tracts of central and peninsular India (Deccan plateau / eastern MP / Vidarbha) typically ranges between:
+
+A. 100 to 150 cm
+
+B. 150 to 200 cm
+
+C. 200 to 250 cm
+
+D. 250 to 300 cm
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The sub-humid central and eastern Deccan plateau belts receive moderate mean annual rainfall varying between 100 cm and 150 cm (1,000 to 1,500 mm).
+
+</details>
+
+---
+
+**Q-GC49. RAS/RTS Prelims 2008**
+
+When very heavy rainfall occurs in the Pushkar Hills (Ajmer), where do flash floods unexpectedly occur?
+
+A. Ajmer
+
+B. Sawai Madhopur
+
+C. Balotra
+
+D. Sojat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Runoff from the Pushkar hills flows into the Luni River. Downstream, Balotra (in Barmer district) is situated on the lower gradient slope near the Pachpadra depression where the river channel is shallow, resulting in severe flash flooding in Balotra.
+
+</details>
+
+---
+
+**Q-GC50. IAS Prelims 1993**
+
+A 'rainy day' as defined by the Indian Meteorological Department (IMD) is a day when the rainfall received at a station in 24 hours is:
+
+A. 0.5 mm to 1 mm
+
+B. 1.1 mm to 1.5 mm
+
+C. 1.6 mm to 2 mm
+
+D. Above 2.5 mm
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** According to the Indian Meteorological Department (IMD) official classification, a 'rainy day' is defined as a calendar day on which a meteorological station measures 2.5 mm or more rainfall in 24 hours.
+
+</details>
+
+---
+
+**Q-GC51. IAS Prelims 1994**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** The Monsoonal rainfall decreases as one goes toward the West and North–West in the Ganga plain.
+**Reason (R):** The moisture bearing Monsoonal winds go higher and lose moisture as they move up in the Ganga plain.
+
+In the context of the above two statements, which one of the following is correct?
+
+A. Both (A) and (R) are true, and (R) is correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true and (R) explains (A). As the Bay of Bengal branch travels westward and northwestward along the Himalayan barrier across the Gangetic plain, it sheds moisture progressively; by the time it reaches Punjab and Haryana, atmospheric humidity has significantly diminished.
+
+</details>
+
+---
+
+**Q-GC52. IAS Prelims 1994**
+
+A physical line on a geographical map of India extending from the Western Ghats across the Satpuras, Aravallis, and Delhi Ridge up to the Himalayas depicts the:
+
+A. An Isohyet
+
+B. All India water divide
+
+C. A combination of national highways
+
+D. A combination of major pipeline routes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The line represents the Great All-India Water Divide. Drainage originating to the west of this ridge line discharges into the Arabian Sea, whereas drainage to the east discharges into the Bay of Bengal.
+
+</details>
+
+---
+
+**Q-GC53. IAS Prelims 1997**
+
+Match List-I (Climatic condition) with List-II (Reasons) and select the correct answer using the given code:
+
+**List-I:**
+A. Chennai is warmer than Kolkata
+B. Snowfall in Himalayas
+C. Rainfall decreases from West Bengal to Punjab
+D. Sutlej-Ganga plain gets some rain in winter
+
+**List-II:**
+1. North East Monsoon
+2. Altitude
+3. Western depressions
+4. Distance from sea
+5. Latitude
+
+Codes:
+
+A. A-1, B-2, C-4, D-5
+
+B. A-4, B-5, C-1, D-3
+
+C. A-5, B-2, C-4, D-3
+
+D. A-5, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chennai is warmer than Kolkata because it is located closer to the equator (Latitude - 5). Snowfall occurs in the Himalayas due to extreme elevation (Altitude - 2). Rainfall decreases from WB to Punjab due to increasing Distance from the sea / moisture depletion (4). Sutlej-Ganga plain receives winter rain due to Western depressions / disturbances (3).
+
+</details>
+
+---
+
+**Q-GC54. IAS Prelims 1994**
+
+The hallmark of traditional watershed development in the semi-arid regions of India is the:
+
+A. Establishment of sheds on a large scale, so that the rain-water does not evaporate
+
+B. Undertaking of earthworks, soil conservation, moisture and recharge underground water
+
+C. Drilling deep tube well so as to tap water at the rock-strata level
+
+D. Setting up a system of tanks by embanking water from seasonal rivers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The hallmark of traditional and effective watershed development across semi-arid Peninsular and central India is constructing earthen bunds and check dams to create a system of interconnected tanks embanking seasonal rivers and rivulets (over 120,000 tanks irrigating >4 million hectares).
+
+</details>
+
+---
+
+**Q-GC55. RAS/RTS Prelims 1993**
+
+How many districts in India were initially covered under the Desert Development Programme (DDP) at its inception?
+
+A. 11 Districts
+
+B. 14 Districts
+
+C. 17 Districts
+
+D. 21 Districts
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Desert Development Programme (DDP) was launched in 1977–78 initially covering 131 blocks across 21 districts in 5 states (Rajasthan, Gujarat, Haryana, Jammu & Kashmir, and Himachal Pradesh). In 1995–96, coverage was expanded to 235 blocks of 40 districts across 7 states (including Andhra Pradesh and Karnataka).
+
+</details>
+
+---
+
+**Q-GC56. UPPCS Prelims 2008**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Inland waterways are not well developed in India.
+**Reason (R):** Most parts of India receive rainfall only for four months in a year.
+
+Select the correct answer using the codes given below:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are true and (R) explains (A). Because rainfall is concentrated in the 3 to 4 months of the South-West monsoon, rivers outside the snow-fed Himalayan system experience drastic seasonal drops in water discharge and depth during the dry months, impeding perennial inland navigation.
+
+</details>
+
+---
+
+**Q-GC57. CGPCS Prelims 2019**
+
+Cherrapunji, renowned for receiving extraordinary rainfall, is situated on which hill range?
+
+A. Naga Hills
+
+B. Garo Hills
+
+C. Khasi Hills
+
+D. Mikir Hills
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cherrapunji (Sohra) and Mawsynram are situated on the southern slopes of the Khasi Hills in Meghalaya, where moist Bay of Bengal winds are forced into a funnel-shaped gorge, triggering extreme orographic rainfall.
+
+</details>
+
+---
+
+**Q-GC58. UPPCS Prelims 2016**
+
+Which one of the following places receives the lowest rainfall during the South-West Monsoon season?
+
+A. Kolkata
+
+B. Mangalore
+
+C. Chennai
+
+D. Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** During the South-West monsoon (June to September), Chennai receives minimal rainfall (~35–40 cm) because it lies parallel to the Bay of Bengal branch and in the rain shadow of the Western Ghats. It gets the bulk of its precipitation from the North-East monsoon.
+
+</details>
+
+---
+
+**Q-GC59. UPPCS Prelims 1993**
+
+India's Northern plains receive winter rainfall primarily due to:
+
+A. Western Disturbance
+
+B. Monsoon in Bay of Bengal
+
+C. Monsoon in Arabian sea
+
+D. Retreating Monsoon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Winter rainfall in the northern plains (Punjab, Haryana, Delhi, Western UP) is caused by Western Disturbances—shallow extra-tropical cyclonic depressions that originate over the Mediterranean Sea and travel eastward steered by the subtropical westerly jet stream.
+
+</details>
+
+---
+
+**Q-GC60. RAS/RTS Prelims 1999**
+
+Which of the following pairs of Indian regions receives winter rainfall?
+
+A. Odisha – Karnataka
+
+B. Punjab – Tamil Nadu
+
+C. Arunachal Pradesh – Bihar
+
+D. Tamil Nadu – Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Punjab receives winter rainfall from extra-tropical Western Disturbances, whereas Tamil Nadu receives copious winter rainfall from the retreating North-East Monsoon.
+
+</details>
+
+---
+
+**Q-GC61. UPPCS Prelims 2023**
+
+Given below are two statements, one is labelled as Assertion (A) and other is Reason (R):
+
+**Assertion (A):** The Tamil Nadu coast remains dry during South-West monsoon season.
+**Reason (R):** The Tamil Nadu coast is situated parallel to the Bay of Bengal branch of South-West monsoon and it lies in the rain shadow area of the Arabian Sea branch of the South-West monsoon during monsoon season.
+
+Select the correct answer using the code given below:
+
+A. (A) is false but (R) is true
+
+B. (A) is true but (R) is false
+
+C. Both (A) and (R) are true but (R) is not correct explanation of (A)
+
+D. Both (A) and (R) are true and (R) is correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) correctly explains (A). The Tamil Nadu coastline runs parallel to the Bay of Bengal branch (precluding orographic lift), while the Western Ghats intercept the Arabian Sea branch, casting a rain shadow over Tamil Nadu during the summer monsoon.
+
+</details>
+
+---
+
+**Q-GC62. RAS/RTS Prelims 2010 / UPPCS Prelims 2008**
+
+Winter rainfall in Tamil Nadu is mostly brought by:
+
+A. Western disturbances
+
+B. South-West monsoon
+
+C. North-East monsoon
+
+D. South-East monsoon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Winter rainfall over the Coromandel coast of Tamil Nadu (October–December) is primarily caused by the North-East monsoon winds picking up humidity while blowing across the Bay of Bengal.
+
+</details>
+
+---
+
+**Q-GC63. UPPCS Prelims 1998**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Northern plains of India receive some rainfall in winter.
+**Reason (R):** North East Monsoon is active in winter.
+
+Select the correct code:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both statements are factually true, but (R) is NOT the correct explanation of (A). The North-East monsoon is indeed active in winter, but it blows offshore from land to sea and is dry over northern India. Winter rainfall in the northern plains is brought entirely by Western Disturbances, not the North-East monsoon.
+
+</details>
+
+---
+
+**Q-GC64. UP RO/ARO Prelims 2023**
+
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** During the winter season, most parts of India are dry.
+**Reason (R):** Most parts of the country are under the influence of the northeast trade winds during the winter season.
+
+Select the correct answer using the code given below:
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+B. (A) is false but (R) is true.
+
+C. (A) is true but (R) is false.
+
+D. Both (A) and (R) are true but (R) is not the correct explanation of (A).
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are true and (R) explains (A). During winter, continental northeast trade winds blow from land toward the sea across most of India. Because they originate over dry landmasses, they carry minimal humidity and produce dry conditions across almost the entire country (except when they cross the Bay of Bengal to bring rain to Tamil Nadu).
+
+</details>
+
+---
+
+**Q-GC65. BPSC Prelims 2000**
+
+Of the following, the state which receives substantial rainfall in the winter season is:
+
+A. Kerala
+
+B. Tamil Nadu
+
+C. West Bengal
+
+D. Odisha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tamil Nadu receives the major portion of its annual rainfall during the winter months (October to December) via the North-East monsoon.
+
+</details>
+
+---
+
+**Q-GC66. JPSC Prelims 2021**
+
+Which of the following coastal regions in India receives rainfall primarily from the North Eastern monsoon?
+
+A. Malabar Coast
+
+B. Gujarat Coast
+
+C. Coromandel Coast
+
+D. Konkan Coast
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Coromandel Coast (Tamil Nadu and south coastal Andhra Pradesh) receives the majority of its annual precipitation from the North-East monsoon.
+
+</details>
+
+---
+
+**Q-GC67. RAS/RTS Prelims 2023**
+
+Which of the following areas of India receive rainfall from the North-East Monsoon?
+
+1. Tamil Nadu Coast
+2. Gujarat Coast
+3. Southern Andhra Pradesh
+4. South-East Karnataka
+
+Select the correct code:
+
+A. 1, 2, 3 and 4
+
+B. 1, 3 and 4 only
+
+C. 2, 3 and 4 only
+
+D. 1, 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Areas receiving rainfall from the North-East monsoon include the Tamil Nadu Coast (Coromandel), Southern Andhra Pradesh (Rayalaseema and coastal tracts), and the South-Eastern fringe of Karnataka (along with south-eastern Kerala). Gujarat remains completely dry during this season.
+
+</details>
+
+---
+
+**Q-GC68. IAS Prelims 2001**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Anti-cyclonic conditions are formed in winter season when atmospheric pressure is high and air temperature is low.
+**Reason (R):** Winter rainfall in Northern India causes development of anticyclonic conditions with low temperature.
+
+Select the correct answer using the code given below:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Assertion (A) is true: in winter, cold dense subsiding air creates a persistent surface high pressure and anticyclonic circulation over northern India. Reason (R) is false: anticyclonic conditions are a seasonal thermal feature of cold dry air, not caused by winter rainfall (in fact, winter rainfall is associated with passing cyclonic depressions known as Western Disturbances).
+
+</details>
+
+---
+
+**Q-GC69. UPPCS Mains 2012**
+
+Which of the following areas of India receives rainfall during the winter season?
+
+A. North-West and South-East
+
+B. South-West and North-East
+
+C. North-East only
+
+D. Central India only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both North-West India (Punjab, Haryana, Delhi, Western UP via Western Disturbances) and South-East India (Tamil Nadu/Coromandel Coast via the North-East monsoon) receive substantial rainfall in winter.
+
+</details>
+
+---
+
+**Q-GC70. UPPCS Prelims 2019**
+
+The winter rains caused by Western Disturbances in the North-Western Plains of India gradually decrease from:
+
+A. East to West
+
+B. West to East
+
+C. North to South
+
+D. South to North
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Western Disturbances enter India from the west via Pakistan; hence, their winter rainfall progressively decreases from West to East (Punjab receives ~50–60 mm, western UP receives ~20–30 mm, and eastern UP receives < 15 mm).
+
+</details>
+
+---
+
+**Q-GC71. UP RO/ARO Prelims 2023**
+
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Rabi crops in India are predominantly cultivated in north-western states like Punjab and Haryana.
+**Reason (R):** The success of Rabi crops in these states depends on the rain due to western tropical cyclones during winters.
+
+Select the correct answer using the code given below:
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+B. (A) is true but (R) is false.
+
+C. (A) is false but (R) is true.
+
+D. Both (A) and (R) are true but (R) is not the correct explanation of (A).
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Assertion (A) is true: Rabi crops (notably wheat and mustard) are predominantly cultivated in north-western states like Punjab, Haryana, and western UP. Reason (R) is false because the winter depressions bringing beneficial rain are **extra-tropical / temperate cyclones** originating over the Mediterranean, NOT tropical cyclones.
+
+</details>
+
+---
+
+**Q-GC72. UPPCS Prelims 2021**
+
+Which one of the following causes is responsible for rainfall during winters in the north-western part of India?
+
+A. Retreating Monsoon
+
+B. Cyclonic depression
+
+C. Western disturbances
+
+D. South-West Monsoon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Western Disturbances (extra-tropical depressions steered eastward across Central Asia by the subtropical westerly jet stream) are responsible for winter rain in north-western India.
+
+</details>
+
+---
+
 
 ## Practice Zone — UPPCS Format Drill
 
