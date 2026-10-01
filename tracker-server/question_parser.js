@@ -70,23 +70,29 @@ function extractStemAndOptions(questionBlock) {
   let options = { A: '', B: '', C: '', D: '' };
 
   // 1. Explicit Options / Codes label
-  const labelMatch = text.match(/\n?\s*(?:Options|Codes|Code)\s*:\s*([\s\S]+)$/i);
-  if (labelMatch) {
-    const candidateStem = text.substring(0, labelMatch.index).trim();
-    const optChunk = labelMatch[1].trim();
-    const delim = /(?:^|[\s\|\n]+)(?:\(?([A-D])[\.\)]|\b([A-D])[\.\)])\s*/gi;
-    let matches = [...optChunk.matchAll(delim)];
-    if (matches.length >= 4) {
-      const labeled = { A: '', B: '', C: '', D: '' };
-      for (let i = 0; i < matches.length; i++) {
-        const letter = (matches[i][1] || matches[i][2]).toUpperCase();
-        const start = matches[i].index + matches[i][0].length;
-        const end = i + 1 < matches.length ? matches[i+1].index : optChunk.length;
-        const val = optChunk.substring(start, end).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
-        if (['A','B','C','D'].includes(letter)) labeled[letter] = val;
-      }
-      if (optionsHaveText(labeled)) {
-        return { stem: candidateStem, options: labeled };
+  // MUST start on a newline or start of block, must be a standalone header, NOT a prompt sentence connector
+  const labelRegex = /(?:^|\n)\s*(?:\*\*)?(?:Options?|Codes?)\b(?!\s+(?:given|from|using|of|below|the))\b(?:\*\*)?\s*[:\-–—]?\s*([\s\S]+)$/i;
+  const labelMatches = [...text.matchAll(new RegExp(labelRegex.source, 'gi'))];
+
+  if (labelMatches.length > 0) {
+    for (let lmIdx = labelMatches.length - 1; lmIdx >= 0; lmIdx--) {
+      const labelMatch = labelMatches[lmIdx];
+      const candidateStem = text.substring(0, labelMatch.index).trim();
+      const optChunk = labelMatch[1].trim();
+      const delim = /(?:^|[\s\|\n]+)(?:\(?([A-D])[\.\)]|\b([A-D])[\.\)])\s*/gi;
+      let matches = [...optChunk.matchAll(delim)];
+      if (matches.length >= 4) {
+        const labeled = { A: '', B: '', C: '', D: '' };
+        for (let i = 0; i < matches.length; i++) {
+          const letter = (matches[i][1] || matches[i][2]).toUpperCase();
+          const start = matches[i].index + matches[i][0].length;
+          const end = i + 1 < matches.length ? matches[i+1].index : optChunk.length;
+          const val = optChunk.substring(start, end).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+          if (['A','B','C','D'].includes(letter)) labeled[letter] = val;
+        }
+        if (optionsHaveText(labeled)) {
+          return { stem: candidateStem, options: labeled };
+        }
       }
     }
   }
@@ -113,7 +119,9 @@ function extractStemAndOptions(questionBlock) {
       const mC = subMatches[cIdx];
       const mD = subMatches[dIdx];
 
-      const candidateStem = text.substring(0, a.index + mA.index).replace(/\n?\s*(?:Options|Codes|Code)\s*:?\s*$/i, '').trim();
+      const candidateStem = text.substring(0, a.index + mA.index)
+        .replace(/(?:\r?\n|^)\s*(?:\*\*)?(?:Options?|Codes?)\b(?!\s+(?:given|from|using|of|below|the))\b(?:\*\*)?\s*[:\-–—]?\s*$/i, '')
+        .trim();
 
       const posA = a.index + mA.index + mA[0].length;
       const posB = a.index + mB.index;

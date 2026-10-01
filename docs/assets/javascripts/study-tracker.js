@@ -2483,23 +2483,29 @@
     let options = { A: '', B: '', C: '', D: '' };
 
     // 1. Explicit Options / Codes label
-    const labelMatch = text.match(/\n?\s*(?:Options|Codes|Code)\s*:\s*([\s\S]+)$/i);
-    if (labelMatch) {
-      const candidateStem = text.substring(0, labelMatch.index).trim();
-      const optChunk = labelMatch[1].trim();
-      const delim = /(?:^|[\s\|\n]+)(?:\(?([A-D])[\.\)]|\b([A-D])[\.\)])\s*/gi;
-      let matches = [...optChunk.matchAll(delim)];
-      if (matches.length >= 4) {
-        const labeled = { A: '', B: '', C: '', D: '' };
-        for (let i = 0; i < matches.length; i++) {
-          const letter = (matches[i][1] || matches[i][2]).toUpperCase();
-          const start = matches[i].index + matches[i][0].length;
-          const end = i + 1 < matches.length ? matches[i+1].index : optChunk.length;
-          const val = optChunk.substring(start, end).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
-          if (['A','B','C','D'].includes(letter)) labeled[letter] = val;
-        }
-        if (optionsHaveText(labeled)) {
-          return { stem: candidateStem, options: labeled };
+    // MUST start on a newline or start of block, must be a standalone header, NOT a prompt sentence connector
+    const labelRegex = /(?:^|\n)\s*(?:\*\*)?(?:Options?|Codes?)\b(?!\s+(?:given|from|using|of|below|the))\b(?:\*\*)?\s*[:\-–—]?\s*([\s\S]+)$/i;
+    const labelMatches = [...text.matchAll(new RegExp(labelRegex.source, 'gi'))];
+
+    if (labelMatches.length > 0) {
+      for (let lmIdx = labelMatches.length - 1; lmIdx >= 0; lmIdx--) {
+        const labelMatch = labelMatches[lmIdx];
+        const candidateStem = text.substring(0, labelMatch.index).trim();
+        const optChunk = labelMatch[1].trim();
+        const delim = /(?:^|[\s\|\n]+)(?:\(?([A-D])[\.\)]|\b([A-D])[\.\)])\s*/gi;
+        let matches = [...optChunk.matchAll(delim)];
+        if (matches.length >= 4) {
+          const labeled = { A: '', B: '', C: '', D: '' };
+          for (let i = 0; i < matches.length; i++) {
+            const letter = (matches[i][1] || matches[i][2]).toUpperCase();
+            const start = matches[i].index + matches[i][0].length;
+            const end = i + 1 < matches.length ? matches[i+1].index : optChunk.length;
+            const val = optChunk.substring(start, end).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+            if (['A','B','C','D'].includes(letter)) labeled[letter] = val;
+          }
+          if (optionsHaveText(labeled)) {
+            return { stem: candidateStem, options: labeled };
+          }
         }
       }
     }
@@ -2525,7 +2531,9 @@
         const mC = subMatches[cIdx];
         const mD = subMatches[dIdx];
 
-        const candidateStem = text.substring(0, a.index + mA.index).replace(/\n?\s*(?:Options|Codes|Code)\s*:?\s*$/i, '').trim();
+        const candidateStem = text.substring(0, a.index + mA.index)
+          .replace(/(?:\r?\n|^)\s*(?:\*\*)?(?:Options?|Codes?)\b(?!\s+(?:given|from|using|of|below|the))\b(?:\*\*)?\s*[:\-–—]?\s*$/i, '')
+          .trim();
 
         const posA = a.index + mA.index + mA[0].length;
         const posB = a.index + mB.index;
@@ -2671,6 +2679,49 @@
       }
       tableHtml += '</tbody></table></div>';
       text = text.replace(mMatch[0], tableHtml);
+    }
+
+    // 2b. Multiline List-I and List-II blocks (e.g. **List-I:** A. ... B. ... **List-II:** 1. ... 2. ...)
+    const multiListRe = /((?:(?:\*\*)?List\s*[-–—]?\s*(?:I|1|A|P|X)(?:\s*\(([^)]+)\))?:?(?:\*\*)?:?\s*\n)([\s\S]+?)(?=(?:\*\*)?List\s*[-–—]?\s*(?:II|2|B|R|Y|Z))(?:\*\*)?List\s*[-–—]?\s*(?:II|2|B|R|Y|Z)(?:\s*\(([^)]+)\))?:?(?:\*\*)?:?\s*\n([\s\S]+?))(?=\n\s*(?:Codes?|Options?)\b|$)/i;
+    const mlMatch = text.match(multiListRe);
+    if (mlMatch) {
+      const parseList = (str, isNum) => {
+        const lines = str.trim().split(/\n+/).map(l => l.trim()).filter(Boolean);
+        const items = [];
+        lines.forEach(l => {
+          const match = isNum ? l.match(/^(?:\((\d+|[ivx]+)\)|(\d+|[ivx]+)[\.\)])\s*(.+)/i)
+                              : l.match(/^(?:\(([A-D])\)|([A-D])[\.\)])\s*(.+)/i);
+          if (match) {
+            items.push({ label: (match[1] || match[2]).trim(), text: match[3].trim() });
+          } else if (items.length > 0) {
+            items[items.length - 1].text += ' ' + l;
+          }
+        });
+        return items;
+      };
+
+      const list1 = parseList(mlMatch[3], false);
+      const list2 = parseList(mlMatch[5], true);
+      if (list1.length > 0 && list2.length > 0) {
+        const introL1 = (text.match(/List-?I\s*\(([^)]+)\)/i) || [])[1];
+        const introL2 = (text.match(/List-?II\s*\(([^)]+)\)/i) || [])[1];
+        const col1Title = mlMatch[2] || introL1;
+        const col2Title = mlMatch[4] || introL2;
+        const col1Header = col1Title ? 'List-I (' + col1Title.trim() + ')' : 'List-I';
+        const col2Header = col2Title ? 'List-II (' + col2Title.trim() + ')' : 'List-II';
+        const maxLen = Math.max(list1.length, list2.length);
+        let tableHtml = '<div class="st-match-table-card"><table class="st-match-table"><thead><tr><th>' +
+          renderInlineMd(col1Header) + '</th><th>' + renderInlineMd(col2Header) + '</th></tr></thead><tbody>';
+        for (let i = 0; i < maxLen; i++) {
+          const it1 = list1[i];
+          const it2 = list2[i];
+          const cell1 = it1 ? '<span class="st-match-chip-letter">' + it1.label + '</span> ' + renderInlineMd(it1.text) : '';
+          const cell2 = it2 ? '<span class="st-match-chip-num">' + it2.label + '</span> ' + renderInlineMd(it2.text) : '';
+          tableHtml += '<tr><td>' + cell1 + '</td><td>' + cell2 + '</td></tr>';
+        }
+        tableHtml += '</tbody></table></div>';
+        text = text.replace(mlMatch[1], tableHtml);
+      }
     }
 
     // 3. Condensed inline Arrange questions
