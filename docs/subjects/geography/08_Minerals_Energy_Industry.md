@@ -75,7 +75,7 @@ D. Vadodara
 15. Oil–gas hubs include Digboi/Naharkatiya (Assam), Mumbai High, Ankleshwar (Gujarat), Barmer (Rajasthan) and the Krishna (कृष्णा)–Godavari / Cauvery basins. Digboi is among India’s oldest refineries.
 16. Refinery–state pairs: Nayara (Gujarat), Manali (Tamil Nadu), Numaligarh (Assam), Tatipaka (Andhra Pradesh), **Mathura (मथुरा) (Uttar Pradesh)**, Barauni (Bihar), Panipat (पानीपत) (Haryana), Jamnagar (Gujarat), Paradip (Odisha), Bina (Madhya Pradesh), Haldia (West Bengal).
 17. Conventional energy (पारंपरिक ऊर्जा स्रोत) means coal, oil, gas and nuclear. Non-conventional means solar, wind, tidal, biogas (बायोगैस) and geothermal. Nuclear and geothermal energy (भू-तापीय ऊर्जा) are **not** stored solar energy.
-18. Nuclear plant centres: **Tarapur (Maharashtra)**, **Kakrapar (Gujarat)**, **Kudankulam (Tamil Nadu)**, **Kaiga (Karnataka)**, **Rawatbhata (Rajasthan)**, **Kalpakkam (Tamil Nadu)**, **Narora (Uttar Pradesh)**. **Shivanasamudra** is hydel, not nuclear.
+18. Nuclear plant centres (प्रमुख परमाणु ऊर्जा केंद्र): **Tarapur / तारापुर (Maharashtra / महाराष्ट्र)** [first commercial / प्रथम व्यावसायिक, 1969], **Kakrapar / काकरापार (Gujarat / गुजरात)**, **Kudankulam / कुडनकुलम (Tamil Nadu / तमिलनाडु)**, **Kaiga / कैगा (Karnataka / कर्नाटक)**, **Rawatbhata / रावतभाटा (Rajasthan / राजस्थान)**, **Kalpakkam / कल्पक्कम (Tamil Nadu / तमिलनाडु)**, **Narora / नरोरा (Uttar Pradesh / उत्तर प्रदेश - बुलंदशहर)**. **Shivanasamudra (शिवणसमुद्र / शिवसमुद्रम)** is a **hydel plant (जलविद्युत परियोजना - कावेरी नदी)**, not nuclear (परमाणु नहीं).
 19. Solar points: electricity from **PV cells**; **Diu** was the first Union Territory to go fully solar-powered; **Cochin** was the first solar airport. The **International Solar Alliance** headquarters is at **Gurugram**, not New Delhi or Paris.
 20. Wind leaders include Tamil Nadu (Muppandal), Gujarat (Kutch) and Rajasthan (Jaisalmer). Tidal potential is higher in the **Gulf of Khambhat** than in Kutch.
 21. The first cotton-mill cluster grew in **Maharashtra–Gujarat** on cotton, humidity and Mumbai port (बंदरगाह). **Mumbai** was traditionally the largest mill centre; Ahmedabad (अहमदाबाद) is in the belt but was not traditionally the largest. Coimbatore is a Tamil Nadu spinning hub; Kanpur is an Uttar Pradesh mill city.
@@ -743,19 +743,20 @@ Hydel needs a **head** (drop) and a **flow**. Storage dams hold monsoon water; r
 
 Nuclear plants need a large water body for cooling and a secure site. Fuel is **uranium** (and thorium in the long Indian programme), not sunshine.
 
-| Plant | State |
-|-------|-------|
-| Tarapur | Maharashtra (first commercial plant) |
-| Kakrapar | Gujarat |
-| Kudankulam | Tamil Nadu (VVER / imported reactor) |
-| Kaiga | Karnataka |
-| Rawatbhata (RAPP) | Rajasthan |
-| Kalpakkam (MAPS) | Tamil Nadu |
-| **Narora** | **Uttar Pradesh** |
+| Plant (परमाणु संयंत्र) | State (राज्य) | Key Facts (मुख्य तथ्य) |
+|---|---|---|
+| **Tarapur (तारापुर)** | Maharashtra (महाराष्ट्र) | First commercial nuclear plant in India (1969) / भारत का पहला परमाणु संयंत्र |
+| **Kakrapar (काकरापार)** | Gujarat (गुजरात) | Tapi River / तापी नदी तट |
+| **Kudankulam (कुडनकुलम)** | Tamil Nadu (तमिलनाडु) | Largest capacity, Russian VVER technology / सबसे बड़ा संयंत्र |
+| **Kaiga (कैगा)** | Karnataka (कर्नाटक) | Kali River basin / काली नदी बेसिन |
+| **Rawatbhata / RAPP (रावतभाटा)** | Rajasthan (राजस्थान) | Near Kota, Rana Pratap Sagar / राणा प्रताप सागर |
+| **Kalpakkam / MAPS (कल्पक्कम)** | Tamil Nadu (तमिलनाडु) | Madras Atomic Power Station / फास्ट ब्रीडर रिएक्टर |
+| **Narora (नरोरा)** | Uttar Pradesh (उत्तर प्रदेश) | Bulandshahr / बुलंदशहर (गंगा नदी तट, UP का एकमात्र संयंत्र) |
 
-- **Shivanasamudra is hydel. Kalpakkam is nuclear.**
-- Nuclear energy is **not** biomass.
-- Nuclear energy and geothermal energy are **not** ultimately derived from the Sun.
+- **शिवणसमुद्र (Shivanasamudra)** कर्नाटक में कावेरी नदी पर स्थित **जलविद्युत परियोजना (Hydel project)** है, परमाणु ऊर्जा संयंत्र नहीं।
+- **कल्पक्कम (Kalpakkam)** तमिलनाडु में स्थित **परमाणु ऊर्जा संयंत्र (Nuclear plant)** है।
+- Nuclear energy (परमाणु ऊर्जा) is **not** biomass (बायोमास नहीं है).
+- Nuclear energy and geothermal energy (भू-तापीय ऊर्जा) are **not** ultimately derived from the Sun (सूर्य से व्युत्पन्न नहीं हैं).
 - Wind, biomass and most hydel are solar-linked in school energy-cycle keys.
 - Coal is a fossil fuel, not “biomass energy (बायोमास ऊर्जा)”. **Gobar gas** and **fuelwood** are biomass.
 
