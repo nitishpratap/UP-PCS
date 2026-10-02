@@ -426,17 +426,45 @@ D. 1, 2 and 3 are correct
 
 ![Himalayas: West to East Regional Divisions by River Boundaries](images/05_himalayan_regional_divisions.jpg)
 
-- NCERT cuts the Himalaya by rivers, west to east.
-- The **Punjab Himalaya** (about **560 km**) lies between the **Indus and the Satluj**. Karakoram, Ladakh, Pir Panjal, Zaskar, and Dhauladhar sit in this western block.
-- The **Kumaon (कुमाऊँ) Himalaya** lies between the **Satluj and the Kali (काली)**. It is Uttarakhand Himalaya, with **Nanda Devi** (नंदा देवी), **Mana** (माना), and **Niti** (नीति). Mussoorie and Nag Tibba represent the Lesser Himalaya here.
+#### 1. Longitudinal River Divisions (West → East by Sir Sidney Burrard)
+
+| Section (खंड) | River Boundaries (नदी सीमाएं) | Length (लंबाई) | Key Ranges & Peaks (प्रमुख श्रेणियां व चोटियां) |
+|---|---|---|---|
+| **Punjab / Kashmir / Himachal Himalaya** | **Indus (सिंधु) to Satluj (सतलज)** | ~560 km | Karakoram, Ladakh, Zanskar, Pir Panjal, Dhauladhar; Nanga Parbat |
+| **Kumaon Himalaya (कुमाऊँ)** | **Satluj (सतलज) to Kali (काली / शारदा)** | ~320 km | Nanda Devi, Kamet, Badrinath, Kedarnath, Trishul |
+| **Nepal / Central Himalaya (नेपाल)** | **Kali (काली) to Teesta (तीस्ता)** | ~800 km *(Longest & Highest)* | Mt. Everest, Kanchenjunga, Dhaulagiri, Annapurna, Makalu |
+| **Assam / Eastern Himalaya (असम)** | **Teesta (तीस्ता) to Dihang (दिहांग / ब्रह्मपुत्र)** | ~720 km | Namcha Barwa, Kula Kangri, Kangto |
+
 - **Western Himalaya** as a major regional block runs **Indus to Kali** (Kashmir + Himachal + Kumaon).
-- The **Nepal / Central Himalaya** (about **800 km**) lies between the **Kali and the Tista**. Everest, Dhaulagiri, Annapurna, and Makalu sit here. **Kathmandu** and **Pokhara** are lacustrine valleys.
-- The **Assam / Eastern Himalaya** (about **720 km**) lies between the **Tista and the Dihang / Brahmaputra**. Fluvial erosion is strong because rainfall is heavy.
-- **Kanchenjunga** belongs to the **Sikkim** Himalaya, not to the Assam Himalaya section.
-- Western Himalaya rises **gradually** through many ranges. Eastern Himalaya rises **abruptly** from the Bengal–Assam plains.
+- Western Himalaya rises **gradually** through multiple parallel ranges; Eastern Himalaya rises **abruptly** from the Bengal–Assam plains.
 - **Sandakphu** on the **Singalila** ridge is West Bengal’s highest point.
-- **Kangto** is the usual peak for Arunachal Pradesh.
-- Beyond the Dihang gorge the ranges swing south as the **Purvanchal** (पूर्वांचल).
+- Beyond the Dihang gorge the ranges swing sharply southwards as the **Purvanchal (पूर्वांचल)** hills.
+
+---
+
+#### 2. Cardinal Orientation Master Guides (Exam Fact-Locks)
+
+##### A. North to South Sequence of Northern Ranges (उत्तर से दक्षिण क्रम)
+> **Mnemonic:** **K – L – Z – P – D – S** (*"Kal Ladakh Zaskar se Pir Dhaula Shiwalik"*):
+1. **Karakoram Range (काराकोरम श्रेणी)** — Trans-Himalayas; K2 (Godwin Austen, 8611 m), Siachen glacier.
+2. **Ladakh Range (लद्दाख श्रेणी)** — Trans-Himalayas; sits between Indus and Shyok rivers; Khardung La pass.
+3. **Zaskar / Zanskar Range (जांस्कर श्रेणी)** — Trans-Himalayas / Greater Himalaya transition; separates Ladakh from Kashmir.
+4. **Great Himalayas / Himadri (वृहद हिमालय / हिमाद्रि)** — Highest continuous arc; average elevation ~6,000 m.
+5. **Pir Panjal Range (पीर पंजाल श्रेणी)** — Middle/Lesser Himalaya (longest range); south wall of Kashmir valley; Rohtang & Banihal passes.
+6. **Dhauladhar Range (धौलाधार श्रेणी)** — Middle/Lesser Himalaya in Himachal Pradesh; Kangra valley at foot.
+7. **Shiwalik Range (शिवालिक श्रेणी)** — Outer/Sub-Himalaya; youngest sedimentary fold; elevation 900–1100 m.
+
+##### B. West to East Sequence of Major Himalayan Peaks (पश्चिम से पूर्व चोटियां)
+> **West → East:**
+> **Nanga Parbat (8126 m, PoK/J&K)** $\to$ **Kamet (7756 m, Uttarakhand)** $\to$ **Nanda Devi (7816 m, Uttarakhand)** $\to$ **Dhaulagiri (8167 m, Nepal)** $\to$ **Annapurna (8091 m, Nepal)** $\to$ **Manaslu (8163 m, Nepal)** $\to$ **Cho Oyu (8188 m, Nepal)** $\to$ **Mt. Everest (8848.86 m, Nepal/Tibet)** $\to$ **Lhotse (8516 m, Nepal)** $\to$ **Makalu (8485 m, Nepal)** $\to$ **Kanchenjunga (8586 m, Sikkim)** $\to$ **Namcha Barwa (7782 m, Tibet/Arunachal)**
+
+##### C. West to East Sequence of Arunachal / Purvanchal Foothills
+> **West → East:** **Dafla Hills (डफला)** $\to$ **Miri Hills (मिरी)** $\to$ **Abor Hills (अबोर्)** $\to$ **Mishmi Hills (मिशमी)**
+
+##### D. West to East Sequence of West Asian to Indian Ranges (UPPCS 2024 Paper Pattern)
+> **West → East:** **Pontic (Turkey)** $\to$ **Zagros (Iran)** $\to$ **Hindu Kush (Afghanistan)** $\to$ **Karakoram (Ladakh/Pak/China)**
+
+---
 
 ### Trans-Himalaya, Karakoram, glaciers
 
