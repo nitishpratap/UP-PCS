@@ -330,6 +330,20 @@ Modern shipbuilding volume names are **China, South Korea and Japan** (Busan, Ch
 | Havana | Cigar (Cuba row in 2022) |
 | Abadan / Houston | Oil refining |
 | Johannesburg | Gold |
+| Baku (Azerbaijan) | Petroleum / oil refinery |
+| Cadiz (Spain) | Cork |
+| Venice (Italy) | Shipbuilding / glass |
+| Nepanagar (MP, India) | Newsprint paper |
+| Firozabad (UP, India) | Glass bangles |
+| Moradabad (UP, India) | Brassware / cutlery |
+| Kolar (Karnataka, India) | Gold mines |
+| Khetri (Rajasthan, India) | Copper mines |
+| Chittaranjan (WB, India) | Railway locomotives |
+| Perambur (TN, India) | Integral Coach Factory (rail coaches) |
+| Titagarh (WB, India) | Paper and jute |
+| Sialkot (Pakistan) | Sports goods |
+| Sindri (Jharkhand, India) | Chemical fertilizers |
+| Dhariwal / Ludhiana (Punjab, India) | Woolen goods / hosiery |
 | Coimbatore | Cotton / engineering (India) |
 
 **Inline PYQ — UPPCS Prelims 2022, Q57**

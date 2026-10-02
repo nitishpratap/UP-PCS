@@ -366,7 +366,7 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 | **State Highways** | State governments | Link the state capital to district headquarters |
 | **District roads** | Zila Parishad (जिला परिषद) / district | Link the district headquarters to important nodes |
 | **Rural roads** | Local bodies; **PMGSY** push | About **80%** of total road length; all-season village links |
-| **Border roads** | **BRO** (from 1960) | Northern and north-eastern borders; high-altitude work |
+| **Border roads** | **BRO** (established May 1960) | Northern and north-eastern borders; high-altitude strategic infrastructure; executes **Project Dantak** in Bhutan, and infrastructure projects in Myanmar and Afghanistan |
 | **International highways** | Cross-border links | Neighbour connectivity |
 
 - **NHAI** was operationalised in **1995** under the Ministry of Road Transport and Highways.
@@ -611,7 +611,10 @@ D. Jakarta - Indonesia
 Air transport is fast but costly, so it dominates high-value and time-sensitive flows plus long passenger hauls.
 
 - **UDAN** is the regional connectivity scheme that tries to make flying viable to smaller cities.
-- India’s first airmail / air transport route is **Prayagraj–Naini, 1911**.
+- India’s first airmail / air transport flight took place in **1911** between **Prayagraj (Allahabad) and Naini** (world's first commercial airmail flight by Henri Pequet).
+- **Indian National Airways Company** was established in **1933**.
+- **Nationalisation of Civil Aviation (1953)**: All airline companies were nationalised and merged under two corporations: **Air India** (for international routes) and **Indian Airlines** (for domestic and regional routes to neighbours like Nepal, Bangladesh, Pakistan, Sri Lanka, Myanmar, Afghanistan, and Maldives). **Vayudoot** was created in 1981 for regional feeder services and later merged with Indian Airlines.
+- In 2007, Air India and Indian Airlines were merged under **National Aviation Company of India Limited (NACIL)**.
 - Metro international hubs include Delhi (IGI), Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad and Cochin.
 - **Cochin** is India’s first **solar-powered** airport (and the world’s first fully solar-powered international airport).
 - **Cochin** was India’s first airport developed under a **public limited / PPP** model.
@@ -619,6 +622,27 @@ Air transport is fast but costly, so it dominates high-value and time-sensitive 
 - **Jewar** is **Noida International Airport**, Uttar Pradesh’s new greenfield international hub.
 - FLY91 is a newly launched Indian airline. Its inaugural flight on **18 March 2024** took off from **Manohar International Airport** (Mopa, Goa).
 - Amritsar (अमृतसर)’s international airport is **Sri Guru (गुरु) Ram Das Jee** (Raja (राजा) Sansi).
+
+### Major Named Airports in India (Match Desk)
+
+| Airport Name | City / Location | State / UT |
+|--------------|-----------------|------------|
+| **Chhatrapati Shivaji Maharaj International Airport** | Mumbai (Santa Cruz / Sahar) | Maharashtra |
+| **Netaji Subhash Chandra Bose International Airport** | Kolkata (Dum Dum) | West Bengal |
+| **Indira Gandhi International Airport** | New Delhi (Palam) | Delhi NCT |
+| **Anna / Chennai International Airport** | Chennai (Meenambakkam) | Tamil Nadu |
+| **Kempegowda International Airport** | Bengaluru (Devanahalli) | Karnataka |
+| **Rajiv Gandhi International Airport** | Hyderabad (Shamshabad) | Telangana |
+| **Sri Guru Ram Dass Jee International Airport** | Amritsar (Rajasansi) | Punjab |
+| **Dr. Babasaheb Ambedkar International Airport** | Nagpur (Sonegaon) | Maharashtra |
+| **Lokpriya Gopinath Bordoloi International Airport** | Guwahati (Borjhar) | Assam |
+| **Veer Savarkar International Airport** | Port Blair | Andaman & Nicobar |
+| **Sardar Vallabhbhai Patel International Airport** | Ahmedabad | Gujarat |
+| **Chaudhary Charan Singh International Airport** | Lucknow (Amausi) | Uttar Pradesh |
+| **Lal Bahadur Shastri International Airport** | Varanasi (Babatpur) | Uttar Pradesh |
+| **Lok Nayak Jayaprakash Airport** | Patna | Bihar |
+| **Devi Ahilyabai Holkar Airport** | Indore | Madhya Pradesh |
+| **Raja Bhoj Airport** | Bhopal | Madhya Pradesh |
 
 **Inline PYQ — UPPCS Prelims 2022, Q27**
 

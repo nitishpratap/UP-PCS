@@ -237,6 +237,14 @@ Several theories try to explain how the universe began and how the solar system 
 
 ### Galaxy, stars and distances
 
+- The scientific study of the universe is known as **Cosmology** (*cosmos* = universe + *logos* = science).
+- There are estimated to be about **100 billion galaxies (10¹¹)** in the universe, and each galaxy contains on average about **100 billion stars (10¹¹)**, giving an estimated **10²² stars** in the universe.
+- The latest known close companion galaxy discovered is the **Dwarf Galaxy**.
+- **Andromeda** (M31) is the nearest major spiral galaxy and the farthest celestial object visible to the naked eye. Along with the Milky Way and about 30+ other galaxies, it forms the **Local Group**, which belongs to the **Virgo Supercluster**.
+- The **Milky Way** is a **barred spiral** galaxy spanning about **100,000 light-years** in diameter and about **10,000 light-years** thick at the centre, with roughly **100 billion** stars. Galileo first observed that this band of light was composed of countless individual stars.
+- Only about 2,000 stars are visible to the naked eye at any given time on a clear moonless night (out of ~8,000 total visible across both hemispheres).
+- One **light-year** is the distance light travels in one vacuum year at ~300,000 km/s (3 × 10⁵ km/s or 3 × 10⁸ m/s), equal to **9.461 × 10¹² km** (or 9.461 × 10¹⁵ m).
+- The size of the solar system is estimated at about **10⁵ AU**.
 - **Edwin Hubble** showed that galaxies recede and that recession produces **redshift** — key evidence that space expands.
 - Further evidence includes the expanding universe picture and the **cosmic microwave background (CMB)**.
 - The **Milky Way** is a **barred spiral** galaxy (Spitzer-era framing) with roughly **100 billion** stars in coaching notes.
@@ -284,8 +292,12 @@ Order from the Sun: **Mercury – Venus – Earth – Mars – Jupiter – Satur
 - Inner **terrestrial** planets are Mercury, Venus, Earth and Mars — rocky worlds with few or no moons.
 - Outer planets are the gas giants **Jupiter** and **Saturn** and the ice giants **Uranus** and **Neptune**.
 - Earth is the third planet, densest by mean density (~**5.5 g/cm³**), tilted about **23½°**, with one moon, in the **habitable / Goldilocks** zone.
-- The Sun holds about **99.8%** of solar-system mass. Its energy comes from **nuclear fusion** of hydrogen into helium. Its diameter is about **109×** Earth’s.
-- Light from the Sun takes about **8 minutes 20 seconds** to reach Earth.
+- The Sun holds about **99.8%–99.9%** of solar-system mass (the ultimate energy source for Earth). Its diameter is about **14 lakh km** (~109× Earth’s) and its mass/volume is ~13 lakh times that of Earth.
+- Composition of the Sun: **71% Hydrogen, 26.5% Helium, and 2.5% other elements** (H:He ratio ≈ 3:1). Its core acts as a gigantic nuclear fusion reactor converting hydrogen into helium.
+- Temperature: Surface / photosphere temperature is about **6,000°C**; core temperature reaches about **15,000,000°C** (1.5 crore °C).
+- The shining visible surface of the Sun is the **Photosphere** (radiates disc energy). The outer gaseous atmosphere is the **Corona** (thin hot gases), visible only during a total solar eclipse or through a special **Coronagraph** telescope.
+- The Sun and its planets travel through the galaxy at about **70,000 km/h**.
+- Light from the Sun (speed ~300,000 km/s) takes about **8 minutes 20 seconds** (~8.5 minutes / ~500 seconds) to reach Earth.
 - A **nebula** is a star-forming cloud. It is **not** a member of the solar system family of planets, moons, asteroids and comets.
 
 ### Planet desk (tilt · spin sense · moons · periods)
@@ -310,7 +322,13 @@ Most planets **orbit and rotate prograde** (same sense as Earth’s west-to-east
 - **Titan** is Saturn’s largest moon and has a thick atmosphere.
 - The **asteroid belt** lies between **Mars and Jupiter**.
 - The **Kuiper Belt** holds icy leftovers beyond Neptune. The **Oort Cloud** is a far reservoir of comets.
-- **Asteroids** are mainly rocky belt objects. **Comets** are ice and dust; the tail points **away from the Sun**. Halley’s comet returns about every **76 years**.
+- **Venus specifics**: Known as the **"Veiled Planet"** due to its impenetrable thick cloud cover (primarily sulfuric acid/CO₂); rotates clockwise (**retrograde**, east to west, like Uranus).
+- **Uranus specifics**: Discovered in 1781 by **Sir William Herschel**; first planet discovered using a telescope; has **13 rings** (designated alpha, beta, gamma, delta, epsilon, lambda, etc.); axis tilt (~98°) causes it to rotate almost on its side (**"Planet on its Side"**); greenish appearance due to atmospheric **methane**.
+- **Pluto & Asteroid 134340**: Demoted from planetary status by the International Astronomical Union (IAU) on **24 August 2006** at Prague; assigned minor planet / asteroid number **134340** by the Minor Planet Centre (MPC); companion moons Charon, Nix, and Hydra designated 134340 I, II, and III.
+- **Trojan Asteroids**: Two clouds of asteroids that orbit the Sun along the same orbital path as Jupiter, located ~60° ahead and ~60° behind Jupiter at its Lagrange points (L4 and L5).
+- **Asteroids (Planetoids)** are rocky debris between Mars and Jupiter that failed to coalesce into a planet due to Jupiter's disruptive gravitational pull. Over 5,000 have been identified, rotating every 5–20 hours.
+- **Meteors and Meteorites**: Meteors ("shooting stars") are rock fragments formed by asteroid collisions that burn up in the mesosphere due to atmospheric friction. Large unburned fragments that strike the Earth are **Meteorites**.
+- **Comets**: ("Hairy star", from Latin *stella cometa*); consist of frozen gases, rock, and metallic dust. When nearing the Sun, the ice vaporises into a glowing gaseous head called a **Coma**, swept back by solar radiation and solar wind into a long luminous **tail** that **always points away from the Sun**. Halley’s comet returns about every **76 years**.
 - Earth’s albedo (~**0.3**) is higher than Mercury’s (~**0.1**), so Earth reflects a larger share of sunlight even though Mercury is closer to the Sun.
 
 ### Eclipses
@@ -322,11 +340,16 @@ Most planets **orbit and rotate prograde** (same sense as Earth’s west-to-east
 
 ### Moon facts
 
-- The Moon keeps roughly the **same face** toward Earth because its rotation period is about equal to its revolution period (~**27.3 days**).
-- The Moon has **no substantial atmosphere**, so there is no air to carry sound.
-- At **perigee** the Moon is closest and appears brighter/larger; at **apogee** it is farthest.
-- Weight on the Moon is about **one-sixth** of weight on Earth.
-- **Apollo 11** landed in the **Sea of Tranquillity** in **1969**. India’s lunar work sits under the **Chandrayaan** programme.
+- The study of the Moon is called **Selenology**. The Moon is also referred to as a **fossil planet**.
+- Dimensions: Diameter is **3,475 km**; circumference is **10,864 km**; mass is ~1/81 and size/volume is **1/4th** of Earth. Surface gravity is **1/6th** that of Earth.
+- Distances: Minimum distance at **perigee** is **3,64,000 km**; maximum distance at **apogee** is **4,06,000 km**. Light from the Moon takes **1.3 seconds** to reach Earth.
+- Periods: Rotation on its axis takes **27 days 7 hours 43 minutes** (~27.3 days, known as a **sidereal month**), which equals its revolution period around Earth (synchronous rotation). Revolution with reference to the Sun takes **29.53 days** (29d 12h 44m), known as a **synodic month** (lunar month).
+- Only **59%** of the Moon's total surface is ever visible from Earth; 41% remains hidden.
+- The highest mountain on the Moon is **Leibnitz Mountain** (10,660 metres), located near its south pole.
+- Features: Bright areas are rugged highlands; dark plains are maria/lowlands. The **Sea of Tranquillity** (*Mare Tranquillitatis*) is a level dust plain on the Moon where **Apollo 11** landed in **1969**.
+- Temperature: Extremes range from about **+100°C** during lunar day to **-180°C** during lunar night.
+- The Moon has **no atmosphere, no twilight, and no sound** (sound requires a material medium to propagate).
+- Surface composition: Rich in silicon, iron, and magnesium.
 - **Aditya-L1** is a solar mission. Chandrayaan is a lunar programme — do not swap them.
 
 ---
@@ -795,7 +818,16 @@ An **anticyclone** is a **high-pressure** centre.
 - In the Northern Hemisphere the outflow is **clockwise**.
 - In the Southern Hemisphere the outflow is **anticlockwise**.
 - Fair, settled weather is common under an anticyclone because sinking air suppresses cloud growth.
-- A sudden **fall of mercury** in the barometer often means stormy weather is approaching as pressure drops toward a low.
+- A sudden **fall of mercury** in the barometer indicates an approaching storm/cyclone; a slow rise indicates fair, clear weather; a slow fall indicates rain.
+- **Atmospheric pressure units**: Standard sea-level pressure is **76 cm of Hg** = **760 mm of Hg** = **29.92 inches of Hg** = **1013.25 mb** (millibars, or hectopascals hPa).
+- **Meteorological measuring instruments**:
+  - **Mercurial Barometer (Fortin's Barometer)** / **Aneroid Barometer**: Atmospheric pressure.
+  - **Barograph**: Continuous self-recording aneroid barometer.
+  - **Altimeter**: Altitude measurement using atmospheric pressure variation (used in aviation).
+  - **Wind Vane / Weathercock**: Wind direction.
+  - **Anemometer**: Wind velocity / speed.
+  - **Hygrometer / Psychrometer**: Relative humidity of air.
+  - **Hyetograph**: Automatic self-recording rain-gauge.
 
 | System | Centre | Surface spin (NH) | Surface spin (SH) | Typical weather |
 |--------|--------|-------------------|-------------------|-----------------|
@@ -810,8 +842,27 @@ An **anticyclone** is a **high-pressure** centre.
 
 | | Weather | Climate |
 |--|---------|---------|
-| Time | Hours–days | **~30-year** average |
+| Time | Hours–days | **~30-year** average (WMO defines classical period as 30 years; coaching notes often cite 30–35 years) |
 | Example | Today’s rain, today’s Loo (लू) | Monsoon climate, Mediterranean |
+
+### Important Geographical Isopleths (Lines of Equal Value)
+
+| Line (Isopleth) | Parameter / Value |
+|-----------------|-------------------|
+| **Isobars** | Equal atmospheric pressure |
+| **Isotherms** | Equal temperature |
+| **Isohyets** | Equal rainfall / precipitation |
+| **Isohalines** | Equal ocean / water salinity |
+| **Isobaths** | Equal depth below water/sea surface |
+| **Isohypse / Contours** | Equal elevation above mean sea level |
+| **Isohels** | Equal amount of sunshine / sunshine duration |
+| **Isonif** | Equal amount of snowfall / snow |
+| **Isorymes** | Equal frost |
+| **Isobronts** | Places experiencing a thunderstorm at the same time |
+| **Isochrones** | Places located at equal travel time from a common centre |
+| **Isogeotherms** | Equal subterranean / underground temperature |
+| **Isoseismals** | Equal earthquake shaking intensity |
+| **Isogonic lines** | Equal magnetic declination (Agonic line = zero declination) |
 
 Both share the same **elements**: temperature, pressure, wind, humidity, cloudiness and precipitation. Weather answers “what is happening now.” Climate answers “what is usual for this season and place.”
 
@@ -1153,9 +1204,14 @@ Direct drilling barely scratches the crust, so the deep interior is known mainly
 | **Lehmann** | ~5100 km | Outer / **inner core** (solid iron–nickel) |
 | Layer chemistry (names) | Fact |
 |------------------------------|------|
-| **Sial** | Continental crust — silica + aluminium; granite; less dense than sima |
+| **Sial** | Continental crust (~2.7–3.0 g/cm³) — silica + aluminium; granite; less dense than sima |
 | **Sima** | Oceanic crust — silica + magnesium; basalt; denser than sial |
-| **Nife** | Core — nickel + iron |
+| **Nife** | Core (~13+ g/cm³ at centre) — nickel + iron (thickness ~3,471 km, core temp ~5000°C) |
+
+**Whole Earth vs Crust Chemical Composition (by weight)**:
+- **Whole Earth Composition**: **Iron (Fe) ~35%** > **Oxygen (O) ~30%** > **Silicon (Si) ~15%** > **Magnesium (Mg) ~13%** > Nickel (Ni) ~2.4% > Sulphur (S) ~1.9% > Calcium (Ca) ~1.1% > Aluminium (Al) ~1.1% > Others ~0.5%.
+- **Earth's Crust Composition**: **Oxygen (O) ~46.6%** > **Silicon (Si) ~27.7%** > **Aluminium (Al) ~8.1%** > **Iron (Fe) ~5.0%** > Calcium ~3.6% > Sodium ~2.8% > Potassium ~2.6% > Magnesium ~2.1%.
+- **Mean Density of Earth**: **5.518 g/cm³** (approx. **5.52**, corresponding to density of water; highest among all solar system planets).
 
 Oceanic crust is about **5–10 km** thick. Continental crust is about **30–40 km** and thicker under young mountains. The rigid **lithosphere** (crust + uppermost mantle) rides on the weaker **asthenosphere**. The outer core is **liquid** iron–nickel. That liquid shell generates Earth’s magnetic field and **stops S-waves**. The inner core is **solid** despite the heat because pressure is extreme.
 

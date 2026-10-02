@@ -195,13 +195,15 @@ Rocks are the solid building material of the crust. Notes ask **class**, **paren
 
 **Metamorphic pairs (mug)**
 
-| Parent | Becomes |
-|--------|---------|
-| **Limestone / dolomite** | **Marble** |
-| **Sandstone** | **Quartzite** |
-| **Granite** | **Gneiss** |
-| **Shale / clay** | **Slate** → schist |
-| Bituminous coal | Anthracite / graphite (high grade) |
+| Parent Rock | Metamorphic Product | Type / Notes |
+|-------------|---------------------|--------------|
+| **Limestone / dolomite** | **Marble** | Sedimentary → Metamorphic (calcite recrystallised) |
+| **Sandstone** | **Quartzite** | Sedimentary → Metamorphic (quartz grains welded) |
+| **Granite** | **Gneiss** | Igneous → Metamorphic (banded crystalline) |
+| **Gabbro** | **Serpentine** | Igneous → Metamorphic |
+| **Basalt** | **Hornblende / Amphibolite / Schist** | Igneous → Metamorphic |
+| **Shale / Clay** | **Slate → Phyllite → Schist** | Progressive foliation series |
+| **Coal** | **Graphite / Diamond** | Organic Sedimentary → Metamorphic |
 
 **Inline PYQ — UPPCS Prelims 2019, Q11**
 
@@ -460,6 +462,8 @@ Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict 
 
 **Fans, braids, and youth cuts**
 
+- **Potholes**: Cylindrical holes drilled into rocky river beds by pebbles whirling in eddies (abrasion/cavitation). Famous Indian pothole fields are seen in Maharashtra in the beds of the **Kukadi river** (Nighoj potholes), **Krishna**, and **Godavari**.
+- **Etymology of Delta**: The geographical term **'Delta'** was first coined by Greek historian **Herodotus** (the 'Father of History') after the Greek triangular letter delta (Δ), observing the fan shape at the mouth of the river **Nile**.
 - An **alluvial fan** (or cone) is a dump of coarse load at a **mountain foot** where the stream leaves a steep gorge onto a plain.
 - When neighbouring fans coalesce along a mountain front they form a **bajada**; the enclosed arid basin floor is a **bolson**.
 - A **braided** channel splits into many shallow threads that reunite — the **Brahmaputra** (ब्रह्मपुत्र) is the classic Indian type.
@@ -1036,7 +1040,7 @@ Coral reefs grow in clear, warm, shallow seawater. Muddy delta mouths are poor r
 - A **stalagmite** grows from the **floor**.
 - A pillar forms when they meet.
 - Classic world belt is the Dinaric Karst.
-- India pairs include **Meghalaya** (मेघालय) caves, Borra (AP) and Belum (AP).
+- India pairs include **Meghalaya** (मेघालय) caves, Borra (AP), Belum (AP), **Parner Taluka** (Ahmadnagar district, Maharashtra), and **Bastar District** (Kanger Ghati caves, Chhattisgarh).
 
 ---
 

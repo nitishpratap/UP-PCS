@@ -641,7 +641,23 @@ D. Kevti fall
 | **Ukai Dam** (Vallabh Sagar) | **Tapi** | Gujarat (Surat) | Second largest reservoir in Gujarat after Sardar Sarovar |
 | **Kakrapar Project** | **Tapi** | Gujarat | Weir project for irrigation + Kakrapar Atomic Power Station |
 | **Koyna Dam** (कोयना बांध) | **Koyna** (tributary of Krishna)| Maharashtra (Satara) | Largest completed hydroelectric power plant in Maharashtra; triggered **1967 Koynanagar earthquake** |
-| **Damodar Valley Project (DVC)** | **Damodar & Barakar** | Jharkhand & West Bengal | First multipurpose river valley project of independent India (1948); modeled on US **Tennessee Valley Authority (TVA)**; dams at **Tilaiya, Maithon, Belpahari** (on Barakar) and **Panchet** (on Damodar) |
+| **Damodar Valley Project (DVC)** | **Damodar & Barakar** | Jharkhand & West Bengal | First multipurpose river valley project of independent India (1948); modeled on US **Tennessee Valley Authority (TVA)**; dams at **Tilaiya, Maithon, Belpahari** (on Barakar) and **Panchet** (on Damodar); converted Damodar from "Valley of Sorrow" to "Valley of Plenty" |
+| **Tungabhadra Project** | **Tungabhadra** (Krishna trib.) | Karnataka & Andhra Pradesh | Major multipurpose joint project (dam at Mallapuram, 2441 m long, 49.3 m high); powerhouses at Mallapuram & Hampi |
+| **Pochampad Project (Sri Rama Sagar)** | **Godavari** | Telangana (Nizamabad) | Major lifeline irrigation project for North Telangana |
+| **Jayakwadi Project** | **Godavari** | Maharashtra (Paithan, Chhatrapati Sambhajinagar) | Huge earthen dam across Godavari; reservoir named **Nath Sagar** |
+| **Lower Sileru & Upper Sileru** | **Sileru** (Godavari basin) | Andhra Pradesh & Odisha | Major hydel stations on the AP-Odisha border |
+| **Sabarigiri Project** | **Pamba & Kakki** | Kerala (Pathanamthitta) | Second largest hydroelectric project in Kerala |
+| **Sharavati Project** | **Sharavati** | Karnataka (Jog Falls / Gersoppa) | Major hydroelectric project at Mahatma Gandhi Hydroelectric Works |
+| **Ghataprabha & Malaprabha** | **Ghataprabha & Malaprabha** | Karnataka (Belagavi / Bagalkote) | Irrigation reservoirs in the Krishna basin |
+| **Bhima Project** | **Bhima / Pawana** | Maharashtra (Ujjani Dam, Solapur) | Multipurpose irrigation and hydel project |
+| **Banasagar Project** | **Son** | Madhya Pradesh, UP & Bihar | Joint interstate project (shared cost and benefit 2:1:1 by MP, UP, Bihar) at Deolond (Shahdol) |
+| **Thein Dam (Ranjit Sagar Dam)** | **Ravi** | Punjab & Jammu & Kashmir | Highest earth-fill gravity dam in Punjab; hydel and irrigation |
+| **Mayurakshi Project (Canada Dam)** | **Mayurakshi** | West Bengal & Jharkhand | Dam at Massanjore (built with Canadian assistance) |
+| **Kangsabati Project** | **Kangsabati & Kumari** | West Bengal (Bankura/Purulia) | Earthen dam for flood control and irrigation |
+| **Papanasam Project** | **Thamirabarani** | Tamil Nadu (Tirunelveli) | Hydroelectric power station |
+| **Kundah Hydroelectric Project** | **Kundah & Bhavani** | Tamil Nadu (Nilgiris) | Multi-stage cascade hydel system built with Canadian aid |
+| **Loktak Hydroelectric Project** | **Manipur River / Loktak Lake** | Manipur (Churachandpur) | Power generation and lift irrigation via Loktak Lake trans-basin tunnel |
+| **Sharda Sahayak Project** | **Ghaghara & Sharda** | Uttar Pradesh | Major canal diversion feeder system for eastern/central UP plains |
 
 ---
 

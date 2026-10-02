@@ -557,6 +557,17 @@ The **Lapps / Sami** live in **Sweden and Finland** (Fenno-Scandinavia including
 | **Ainu** | Japan |
 | **Aeta** | Philippines |
 | **Bora** (बोरा) | W Amazon (Brazil–Peru–Colombia) |
+| **Bindibu / Aborigines** | Western Australia desert |
+| **Chukchi / Koryaks / Samoyeds / Yakuts** | Siberia / NE Asia tundra (Russia) |
+| **Aleuts** | Alaska / Aleutian Islands |
+| **Tuareg (Turregs)** | Sahara Desert (West & Central) |
+| **Hausa** | Northern Nigeria |
+| **Hottentots (Khoikhoi)** | South / SW Africa |
+| **Orang Asli** | Peninsular Malaysia (indigenous forest peoples) |
+| **Ibans** | Sarawak / Borneo equatorial forests |
+| **Tapiro** | Papua New Guinea (pygmy group) |
+| **Kalmuk / Buryat** | Central Asia / Siberia |
+| **Kazakhs** | Kazakhstan steppes |
 | **Jews / Teda / Beja / Lur** | Israel / Libya / Egypt (मिस्र) / Iran (ethnic match sets) |
 
 **Transhumance** is seasonal herd movement between valley and mountain (Gaddi, Bakarwal, Bhotia in India).

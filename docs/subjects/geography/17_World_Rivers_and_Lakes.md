@@ -496,6 +496,16 @@ A **moraine** is a **glacier** landform.
 | Lahore | Pakistan | Ravi (रावी) | |
 | Perth | Australia | Swan | |
 | Caracas | Venezuela | Orinoco basin note | |
+| Kabul | Afghanistan | Kabul River | |
+| Ankara | Turkey | Kizil River | |
+| Glasgow | Scotland (UK) | Clyde | |
+| Bristol | UK | Avon | |
+| Newcastle | UK | Tyne | |
+| Philadelphia | USA | Delaware | |
+| Canton (Guangzhou) | China | Si-Kiang (Pearl River) | |
+| Nanking | China | Yangtze (Yang-tse-Kiang) | |
+| Karachi | Pakistan | Indus | |
+| Chittagong | Bangladesh | Karnaphuli / Maiyani | |
 
 **Inline PYQ — UPPCS Prelims 2025, Q68**
 

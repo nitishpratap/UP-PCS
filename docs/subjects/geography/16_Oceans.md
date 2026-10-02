@@ -179,13 +179,13 @@ Teach the **full ocean map** — next year can ask any standard NCERT current, t
 
 Five named oceans plus many seas and gulfs. Area order and Indian Ocean identity are high-yield.
 
-| Ocean | Fact |
-|-------|------|
-| **Pacific** | Largest and deepest ocean, about one-third of Earth’s surface, with the Ring of Fire |
-| **Atlantic** | S-shaped basin with the Mid-Atlantic Ridge and the Telegraphic Plateau |
-| **Indian** | Mostly south of Asia, on **both sides of the Equator**; Greeks (यूनानी) called it the **Erythraean Sea** |
-| **Southern** | Surrounds Antarctica and carries the only circumpolar **Antarctic Circumpolar Current** |
-| **Arctic** | Smallest and shallowest ocean, with the world’s widest continental shelves |
+| Ocean | Area & Depth | Salinity / Features | Key Historical & Geographic Facts |
+|-------|--------------|---------------------|-----------------------------------|
+| **Pacific** | ~166.24 million sq. km; Avg depth ~**4,200 m** (deepest ocean) | ~35‰ | Named *Pacific* (meaning calm or peaceful) by **Ferdinand Magellan** during world circumnavigation. Mariana Trench is deepest point (11,033 m). Contains >20,000 islands, mostly volcanic or coral. |
+| **Atlantic** | ~86.56 million sq. km; Avg depth ~3,646 m | High salinity in subtropics (~37‰) | Derived from **Atlas** (Titan in Greek mythology). Formed when Gondwanaland rifted (South America and Africa separated) and is still widening. Has the **longest coastline** and is the **busiest ocean for global commerce/trade** (connects industrialised W. Europe & NE North America). |
+| **Indian** | ~73.43 million sq. km; Avg depth ~**3,741 m** (deeper on average than the Atlantic) | Variable (~35–37‰ in Arabian Sea, lower in Bay of Bengal) | **Only ocean named after a country** (India). Greeks called it Erythraean Sea. Current circulation completely reverses seasonally with Monsoon winds. Contains major continental islands (Madagascar, Sri Lanka) and volcanic/coral islands (Mauritius, Seychelles, Maldives, Lakshadweep, Andaman & Nicobar). |
+| **Southern** | ~20.3 million sq. km | Low | Encircles Antarctica; carries the continuous Antarctic Circumpolar Current (West Wind Drift). |
+| **Arctic** | ~13.23 million sq. km; Avg depth ~**1,500 m** (shallowest ocean) | **Least salinity (~20‰)** | Smallest ocean, centered on the North Pole within the Arctic Circle. Largely ice-covered year-round with widest continental shelves. |
 
 **Seas**
 - Named seas include the Arabian Sea, Bay of Bengal, Andaman (अंडमान) Sea, Red Sea, Mediterranean, Black Sea, North Sea, Baltic Sea and Caribbean Sea.
@@ -574,12 +574,12 @@ D. Pacific Ridge only
 
 Trenches sit on **active** (convergent) margins. Match the deepest point to the ocean.
 
-| Ocean | Deepest point |
-|-------|-------------------|
-| **Pacific** | **Mariana** (Challenger Deep) |
-| **Arctic** | **Molloy Deep** |
-| **Indian** | **Sunda / Java Trench** |
-| **Atlantic** | **Puerto Rico Trench** |
+| Ocean | Deepest Point (Trench) | Exact Max Depth | Geographical Location |
+|-------|------------------------|-----------------|-----------------------|
+| **Pacific** | **Mariana Trench** (Challenger Deep) | **11,033 m** (~36,201 ft) | Near Guam / Mariana Islands (W. Pacific) |
+| **Atlantic** | **Puerto Rico Trench** (Milwaukee Deep) | **8,605 m** (up to ~9,460 m in classical texts) | North of Puerto Rico (Caribbean margin) |
+| **Indian** | **Java / Sunda Trench** | **7,450–7,542 m** | South of Java & Sumatra (NE Indian Ocean) |
+| **Arctic** | **Molloy Deep** (Fram Strait) | ~**5,550 m** | Between Greenland and Svalbard |
 
 - **Challenger Deep** in the Mariana Trench is about **11 km**.
 - Other trench names: Tonga, **Kermadec**, Philippine, Kuril–Kamchatka / Aleutian, Peru–Chile, South Sandwich (S Atlantic), **Diamantina** (Indian Ocean fracture zone SW of Australia).

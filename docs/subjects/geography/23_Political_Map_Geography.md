@@ -332,15 +332,16 @@ The eastern extreme is **Kibithu** in Arunachal Pradesh.
 
 | Line | Note |
 |------|------|
-| **49th Parallel** | Long USA–**Canada** stretch (not USA–Mexico) |
-| **38th Parallel** | **North Korea–South Korea** armistice story |
-| **Maginot Line** | Historical **France–Germany** fortification (WWII note) |
-| **Oder–Neisse** | **Germany–Poland** post-WWII border |
-| **Hindenburg Line** | WWI German defence line (Europe) — not an India border |
-| **Mannerheim Line** | Historic Finland / Russian front note (coaching “Poland–Russia” trap — learn as Mannerheim, not Radcliffe) |
-| **17th Parallel** | Historical Vietnam divide |
-| **Rio Grande** | Forms much of **USA–Mexico** border (with Colorado water-sharing note) |
-| **Alpine / Little Maginot** | France–Italy framing |
+| **49th Parallel** | Long USA–**Canada** international border (not USA–Mexico) |
+| **38th Parallel** | **North Korea–South Korea** armistice border |
+| **Maginot Line** | Historical **France–Germany** fortification line (WWII) |
+| **Oder–Neisse Line** | **Germany–Poland** post-WWII border |
+| **Hindenburg Line** | WWI German boundary line between Germany and Poland/Russia |
+| **Mannerheim Line** | Historic Finland / Russian front fortification line |
+| **17th Parallel** | Historical North & South Vietnam boundary line (also claimed line in Sir Creek / Rann of Kutch disputes) |
+| **Rio Grande** | Forms much of **USA–Mexico** border |
+| **Alpine / Little Maginot** | France–Italy fortification line |
+| **Siegfried Line** | German fortification facing the French Maginot Line |
 
 **Inline PYQ — UPPCS Prelims 2018, Q32**
 
@@ -521,20 +522,34 @@ The Maldives’ capital is **Mal (माल)é**.
 
 **Old → new names**
 
-| Old | New |
-|-----|-----|
+| Old Name | New Name |
+|----------|----------|
 | Siam | **Thailand** |
 | Formosa | **Taiwan** |
 | Mesopotamia (मेसोपोटामिया) | **Iraq** |
 | Burma | **Myanmar** |
 | Gold Coast | **Ghana** (घन) |
-| Dutch Guiana | **Suriname** (not Ghana) |
-| Southern Rhodesia | **Zimbabwe** (Harare was Salisbury) |
-| Abyssinia | Ethiopia |
-| Basutoland | Lesotho |
-| Bechuanaland | Botswana |
-| Zaire | DR Congo |
-| Nyasaland | Malawi |
+| Dutch Guiana | **Suriname** |
+| Dutch East Indies | **Indonesia** |
+| British Guiana | **Guyana** |
+| Southern Rhodesia | **Zimbabwe** (capital Harare was Salisbury) |
+| Northern Rhodesia | **Zambia** |
+| Abyssinia | **Ethiopia** |
+| Basutoland | **Lesotho** |
+| Bechuanaland | **Botswana** |
+| Zaire | **Republic of the Congo / DR Congo** |
+| Nyasaland | **Malawi** |
+| South West Africa | **Namibia** |
+| Dahomey | **Benin** |
+| Upper Volta | **Burkina Faso** |
+| Ceylon | **Sri Lanka** |
+| Batavia | **Jakarta** |
+| Peking | **Beijing** |
+| Angora | **Ankara** |
+| Constantinople | **Istanbul** |
+| Saigon | **Ho Chi Minh City** |
+| Petrograd / Leningrad | **St. Petersburg** |
+| Stalingrad | **Volgograd** |
 
 **Landlocked extras**
 
@@ -621,18 +636,28 @@ Geographical sobriquets are coaching nicknames for countries, cities, and region
 
 | Sobriquet | Place |
 |-----------|-------|
-| Venice of the North | **St. Petersburg** (usual Russia key). Amsterdam, Bruges, and Stockholm also carry canal “Venice” nicknames in some lists. |
+| Venice of the North | **St. Petersburg** (Russia) / Stockholm (Sweden) |
 | Gateway to the West | **Istanbul** |
-| City of Canals / Queen of the Adriatic / City of Dreams | **Venice** |
-| City of Seven Hills / Eternal City | **Rome** |
-| Manchester of the East / Nation’s Kitchen | **Osaka** |
-| City of the Golden Gate | **San Francisco** |
-| City of Smoke / City of Smokers | **Chicago** |
-| Paris of South America | **Buenos Aires** |
+| City of Canals / Queen of the Adriatic / City of Dreams | **Venice** (Italy) |
+| City of Seven Hills / Eternal City | **Rome** (Italy) |
+| Manchester of the East / Nation’s Kitchen | **Osaka** (Japan) |
+| City of the Golden Gate | **San Francisco** (USA) |
+| City of Sky Scrapers / Windy City / City of Smoke | **New York** (Sky Scrapers) / **Chicago** (Windy City / Smoke) |
+| City of Dreaming Spires | **Oxford** (England) |
+| Granite City | **Aberdeen** (Scotland) |
+| Cockpit of Europe | **Belgium** |
+| Forbidden City | **Lhasa** (Tibet) |
+| Gate of Tears | **Bab-el-Mandeb** |
+| Herring Pond | **Atlantic Ocean** |
+| Hermit Kingdom | **Korea** |
+| Island Continent / Land of Golden Fleece | **Australia** |
+| Pillars of Hercules | **Strait of Gibraltar** |
+| Pearl of the Pacific | **Guayaquil Port** (Ecuador) |
+| Paris of South America | **Buenos Aires** (Argentina) |
 | Empire City | **New York** |
 | Oil Capital of Europe | **Aberdeen** |
 | Pearl of Siberia | **Lake Baikal** (Russia) |
-| Roof of the World | **Pamir** (Pamir Knot — southern edge of Central Asia) |
+| Roof of the World | **Pamir** (Central Asia) |
 
 **India sobriquets (map desk)**
 

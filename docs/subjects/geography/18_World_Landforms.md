@@ -225,7 +225,19 @@ Seven continents by **area** (largest → smallest):
 | Alps (W Europe) | **Mont Blanc** | Alps | France–Italy |
 | Australia (mainland) | **Kosciuszko** | Snowy Mts | Australia |
 | Oceania (often asked) | **Puncak Jaya / Carstensz** | Sudirman | Indonesia (New Guinea) |
-| Antarctica | **Vinson** | Ellsworth | |
+| Antarctica | **Vinson Massif** (4897 m) | Ellsworth Mts | Deepest point: Bentley Subglacial Trench (-2555 m) |
+
+### Continental Extremes: Highest and Lowest Points
+
+| Continent | Highest Point (Peak & Elevation) | Lowest Point (Depression & Elevation) |
+|-----------|----------------------------------|---------------------------------------|
+| **Asia** | **Mount Everest** (8,848 m) | **Dead Sea** (-397 m / -400 m below sea level) |
+| **Africa** | **Mount Kilimanjaro** (5,895 m) | **Lake Assal** (-156 m, Djibouti) |
+| **North America** | **Denali / Mt. McKinley** (6,194 m) | **Death Valley** (-86 m, California) |
+| **South America** | **Mount Aconcagua** (6,960 m) | **Valdes Peninsula** (-40 m, Argentina) |
+| **Europe** | **Mount Elbrus** (5,642 m) | **Caspian Sea shore** (-28 m) |
+| **Australia** | **Mount Kosciuszko** (2,228 m) / Puncak Jaya (4,884 m, Oceania) | **Lake Eyre** (-16 m) |
+| **Antarctica** | **Vinson Massif** (4,897 m) | **Bentley Subglacial Trench** (-2,555 m) |
 
 **Major ranges — country / trap**
 
