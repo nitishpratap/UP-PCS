@@ -2820,7 +2820,8 @@
         // Extract correct answer letter: Ans: B, Correct Answer: D, **Correct Answer:** **C**, etc.
         const ansMatch = answerBody.match(/(?:\*\*|<strong>)?(?:Ans|Correct Answer|Answer)\.?:?(?:\*\*|<\/strong>)?\s*:?\s*(?:\*\*|<strong>)?\(?([A-D])\)?(?:\*\*|<\/strong>)?/i) ||
                          answerBody.match(/(?:Ans|Correct Answer|Answer)\.?:?\s*\*?\*?\(?([A-D])\)?\*?\*?/i) ||
-                         answerBody.match(/\*?\*?\(?([A-D])\)?\*?\*?\s*(?:is correct|only)/i);
+                         answerBody.match(/\*?\*?\(?([A-D])\)?\*?\*?\s*(?:is correct|only)/i) ||
+                         answerBody.match(/(?:<strong[^>]*>|<b[^>]*>|\*\*)\s*\(?([A-D])\)?\s*(?:<\/strong>|<\/b>|\*\*)/i);
         const correctLetter = ansMatch ? ansMatch[1].toUpperCase() : null;
         if (!correctLetter) return; // Skip if no clear answer letter
 
