@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 3 — Parts, Articles & Schedules</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -41,11 +39,7 @@ hide:
 | Art. 352 | Art. 356 / 360 | National vs State vs Financial Emergency | — |
 | Art. 371I | Art. 371J | **Goa** (min. 30 MLAs) vs **Karnataka** (Kalyana-Karnataka) | — |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Part ↔ subject
 
@@ -713,18 +707,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Constitution is organised into Parts. Originally there were 22 Parts; today there are about 25 Parts (including IVA, IXA, IXB, XIVA). Part VII stands repealed.
 - **Exam Anchor:** Part III (मौलिक अधिकार) is Fundamental Rights (मौलिक अधिकार) (justiciable). Part IV (नीति निर्देशक) is DPSP (राज्य के नीति निदेशक तत्व) (non-justiciable). Part IVA is Fundamental Duties (मौलिक कर्तव्य).
 - **Exam Anchor:** Part IX (भाग IX) is Panchayats, Part IXA is Municipalities, and Part IXB is Cooperative Societies. Do not park Municipalities in Part XI.
 - **Exam Anchor:** Part XI is Relations between the Union and the States. Part XIVA (भाग XIVA) is Tribunals. Confusing XI with Municipalities or Tribunals is a classic wrong-match trap.
 - **Exam Anchor:** Part V is the Union; Part VI is the States; Part VIII is Union Territories; Part X is Scheduled and Tribal (आदिवासी) Areas; Part XV is Elections; Part XVII is Official Language; Part XVIII is Emergency; Part XX is Amendment; Part XXI holds temporary, transitional and special provisions (371–371J).
-- **Exam Anchor:** The Attorney General (महान्यायवादी) sits under Part V, not under Part XIII (Trade (पण्याध्यक्ष), Commerce and Intercourse). Citizenship sits in Part II, not Part I.
-- **Exam Anchor:** Schedule facts: First = territories of States and UTs; Second = emoluments (President, CJI, CAG (भारत के नियंत्रक-महालेखापरीक्षक), etc.); Third = oaths and affirmations (President's oath is NOT here, it is in Art. 60); Fourth = Rajya Sabha (राज्यसभा) seat allocation.
 - **Exam Anchor:** Fifth Schedule covers Scheduled Areas and Scheduled Tribes in many States. Sixth Schedule covers tribal areas of Assam, Meghalaya (मेघालय), Tripura and Mizoram (AMTM) with Autonomous Councils. (Manipur is NOT in 6th Schedule (6वीं अनुसूची)).
-
-</details>
+- **Exam Anchor:** Seventh Schedule holds the Union, State and Concurrent Lists (Article 246). Eighth Schedule (आठवीं अनुसूची) lists 22 official languages.
+- **Exam Anchor:** Ninth Schedule (नौवीं अनुसूची) validates certain Acts (added by 1st Amendment, 1951). Tenth Schedule is anti-defection (added by 52nd Amendment, 1985).
+- **Exam Anchor:** Eleventh Schedule lists 29 Panchayat subjects (73rd). Twelfth Schedule lists 18 Municipality subjects (74th). Do not swap 29 and 18.
 
 ---
 

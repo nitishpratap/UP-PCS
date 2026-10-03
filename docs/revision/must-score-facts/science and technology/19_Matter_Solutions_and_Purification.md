@@ -11,97 +11,65 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chemistry Topic 2 — Matter, Solutions and Purification</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Matter** is defined as anything possessing mass, inertia, and occupying three-dimensional physical space.
-2. The five recognized physical states of matter are: **Solid**, **Liquid**, **Gas**, **Plasma**, and **Bose-Einstein Condensate (BEC)**.
-3. In **solids**, intermolecular forces are strongest, intermolecular space is minimal, kinetic energy of particles is lowest, and particles vibrate strictly around fixed mean positions; solids possess definite shape and fixed volume.
-4. In **liquids**, intermolecular forces are moderate, particles possess translational freedom to slip over one another, having fixed volume but indefinite shape (adapting to their container).
-5. In **gases**, intermolecular attraction is negligible, intermolecular space is maximum, mean free path and particle kinetic energy are highest; gases exhibit neither fixed shape nor fixed volume and expand indefinitely to fill any container.
-6. **Plasma** (the fourth state) consists of superheated, highly ionized gas containing free electrons and positive ions; it conducts electricity, generates magnetic fields, and makes up $>99\%$ of the visible universe (stars, Sun, auroras, lightning, neon sign tubes).
-7. **Bose-Einstein Condensate (BEC)** (the fifth state) forms when integer-spin boson gases of extremely low density (about one-hundred-thousandth the density of normal air) are cooled to ultra-low temperatures near absolute zero ($0\text{ K}$ or $-273.15^\circ\text{C}$).
-8. **Phase Transitions**: Melting (Solid $\to$ Liquid), Freezing (Liquid $\to$ Solid), Vaporization/Boiling (Liquid $\to$ Gas), Condensation (Gas $\to$ Liquid), Sublimation (Solid $\to$ Gas directly), Deposition (Gas $\to$ Solid directly).
-9. During any phase change, **temperature remains strictly constant** because absorbed/released thermal energy functions entirely as **Latent Heat** (breaking or establishing intermolecular lattice bonds without increasing particle kinetic energy).
-10. **Sublimation** occurs because the substance's vapor pressure exceeds atmospheric pressure before reaching its melting point. Examples: **Camphor, Naphthalene, Anthracene, Ammonium Chloride ($NH_4Cl$), Iodine ($I_2$), Dry Ice (solid $CO_2$)**.
-11. **Triple Point of Water** is the unique thermodynamic coordinate of temperature and pressure at which solid ice, liquid water, and water vapor coexist in stable thermodynamic equilibrium: strictly $273.16\text{ K}$ ($0.01^\circ\text{C}$) and $4.58\text{ mmHg}$ ($611.65\text{ Pa}$ or $0.006\text{ atm}$).
-12. **Critical Temperature ($T_c$)** is the temperature above which a gas cannot be liquefied, regardless of the magnitude of pressure applied. For $CO_2$, $T_c = 31.1^\circ\text{C}$.
-13. A **Physical Change** alters physical properties (shape, size, state, volume) without changing chemical composition or molecular identity; it produces no new substances and is typically reversible (e.g., melting of ice, glowing of an electric bulb, crystallization, dissolution of salt in water).
-14. A **Chemical Change** alters molecular structure, breaking and reforming chemical bonds to generate entirely new substances with distinct chemical properties; it is accompanied by substantial energy changes and is generally irreversible (e.g., rusting of iron, curdling of milk, digestion of food, burning of coal).
-15. **Burning of a candle** is uniquely **both physical and chemical**: melting and vaporization of paraffin wax is a physical change, while the combustion of wax vapor into $CO_2$, carbon soot, and $H_2O$ is a chemical change.
-16. **Rusting of Iron**: When iron reacts with atmospheric oxygen and water vapor, hydrated ferric oxide ($Fe_2O_3 \cdot xH_2O$) is formed. Rusting is an oxidation chemical change that results in an **increase in the total mass of the iron object** due to the addition of bonded oxygen and water molecules.
-17. An **Element** is a pure chemical substance consisting of only one species of atom that cannot be decomposed into simpler substances by ordinary chemical methods (e.g., $Au, Fe, O_2, N_2$).
-18. A **Compound** is formed by two or more different elements chemically combined in a **strictly fixed ratio by mass** (Law of Definite Proportions by Joseph Proust); its properties are radically distinct from its constituent elements (e.g., water $H_2O$, ratio of $H:O = 1:8$ by mass).
-19. A **Mixture** contains two or more elements or compounds combined physically in variable proportions without chemical bonding; constituents retain their individual properties and can be separated by physical techniques (e.g., air, brass, crude oil, muddy water).
-20. A **Homogeneous Mixture (True Solution)** has uniform composition and identical properties throughout its entire mass; its constituent particles are mixed at molecular/atomic dimensions ($< 1\text{ nm}$ or $< 10^{-9}\text{ m}$) and do not scatter visible light (e.g., sugar dissolved in water, air, aqueous NaCl, alloys like brass and bronze).
-21. A **Heterogeneous Mixture** does not possess uniform composition; it exhibits distinct phase boundaries and visible interfaces (e.g., sand in water, oil-water mixture, suspension, colloid).
-22. **Solubility** of most solid solutes in liquid solvents increases with increasing temperature (endothermic dissolution), but decreases for exothermic dissolutions (e.g., $Ce_2(SO_4)_3$, $CaO$).
-23. **Henry's Law** states that the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid ($m = k_H \cdot P$):
-24. Packaging carbonated soft drinks under high $CO_2$ pressure increases effervescence.
-25. Deep-sea divers breathe helium-diluted oxygen ($11.7\%\text{ He}, 56.2\%\text{ N}_2, 32.1\%\text{ O}_2$) to prevent painful and lethal nitrogen bubbles in the bloodstream ("bends" or decompression sickness).
-26. High-altitude dwellers suffer from **anoxia** (impaired cognitive function) due to lower partial pressure of atmospheric oxygen.
-27. **Molarity ($M$)** = moles of solute per liter of solution ($\text{mol/L}$). Because liquid volume expands or contracts with temperature, Molarity is **temperature-dependent**.
-28. **Molality ($m$)** = moles of solute per kilogram of pure solvent ($\text{mol/kg}$). Because mass is independent of temperature, Molality is **strictly temperature-independent** and preferred in high-precision thermodynamic and colligative calculations.
-29. **Normality ($N$)** = gram equivalents of solute per liter of solution ($N = M \times \text{Valence factor}$ / $n$-factor).
-30. **Parts per Million (ppm)** is used for ultra-trace concentrations (pollutants in air, fluoride/arsenic in drinking water): $\text{ppm} = \frac{\text{Mass of component}}{\text{Total mass}} \times 10^6$.
-31. **Colligative Properties** are physical properties of dilute solutions that depend **strictly on the total number of solute particles** (ions or molecules) present, and are completely independent of the chemical nature, size, or identity of the solute.
-32. The four fundamental colligative properties are:
-33. **Relative Lowering of Vapor Pressure** (Raoult's Law)
-34. **Elevation of Boiling Point** ($\Delta T_b = i \cdot K_b \cdot m$)
-35. **Depression of Freezing Point** ($\Delta T_f = i \cdot K_f \cdot m$)
-36. **Osmotic Pressure** ($\Pi = i \cdot C \cdot R \cdot T$)
-37. The **van 't Hoff factor ($i$)** accounts for solute ionization or association: $i = 1$ for non-electrolytes (glucose, urea, sucrose); $i = 2$ for $NaCl$; $i = 3$ for $CaCl_2$ or $Na_2SO_4$; $i = 4$ for $AlCl_3$. For equal molal concentrations, $AlCl_3$ produces the greatest boiling point elevation and freezing point depression.
-38. Adding common salt ($NaCl$) or ethylene glycol to water **elevates its boiling point** and **depresses its freezing point**.
-39. **Automobile Antifreeze**: In sub-zero polar/winter conditions, **Ethylene glycol ($C_2H_6O_2$)** is added to vehicle radiator coolant water; it depresses the freezing point well below $0^\circ\text{C}$ to prevent engine block cracking and elevates the boiling point to prevent summer overheating.
-40. **De-icing of Frozen Highways**: Rock salt ($NaCl$) or calcium chloride ($CaCl_2$) is broadcast over icy roads. $CaCl_2$ is superior because it dissociates into 3 ions ($i=3$) and dissolves exothermically, melting snow down to $-25^\circ\text{C}$.
-41. **Pressure Cooker Mechanics**: By trapping steam, the internal chamber pressure rises to ~2 atmospheres (~15 psi gauge pressure), which **elevates the boiling point of water from $100^\circ\text{C}$ to approximately $120^\circ\text{C}$–$122^\circ\text{C}$**. Food cooks substantially faster because it absorbs heat at a significantly higher temperature, not because of the pressure itself.
-42. At **high altitudes** (e.g., Leh, Mount Everest), atmospheric pressure drops significantly; consequently, water boils at a temperature below $100^\circ\text{C}$ (at $70^\circ\text{C}$–$80^\circ\text{C}$), which fails to supply adequate cooking heat and makes boiling pulses/meat very slow without a pressure cooker.
-43. **Osmosis** is the spontaneous net movement of solvent molecules from a region of lower solute concentration (higher chemical potential of solvent) to higher solute concentration across a **semi-permeable membrane (SPM)**.
-44. **Osmotic Pressure ($\Pi$)** is the exact excess hydrostatic pressure that must be applied to the solution side to completely halt the osmotic influx of pure solvent.
-45. **Reverse Osmosis (RO)**: When an external hydrostatic pressure greater than the osmotic pressure ($P > \Pi$) is applied to the concentrated solution side, pure solvent molecules are forced backwards through the semi-permeable membrane into the pure water reservoir. This is the cornerstone technology for **desalination of seawater** and domestic water purifiers.
-46. **Isotonic Solutions** possess identical osmotic pressure across a semi-permeable boundary. A $0.9\%\text{ (w/v) } NaCl$ solution ("normal saline") is strictly isotonic with human red blood cells (RBCs).
-47. If RBCs are placed in a **hypotonic solution** (distilled water), water enters by endosmosis, causing cells to swell and burst (**hemolysis**). In a **hypertonic solution** (concentrated brine), water exits by exosmosis, causing cells to shrink (**plasmolysis/crenation**).
-48. **Colloidal Solution**: A heterogeneous system wherein the dispersed phase particle diameter lies between **$1\text{ nm}$ ($10^{-9}\text{ m}$) and $1000\text{ nm}$ ($1\text{ }\mu\text{m}$ or $10^{-6}\text{ m}$)**. Colloidal particles pass through ordinary filter paper but are arrested by animal/parchment membranes.
-49. **Tyndall Effect**: The scattering of a beam of visible light by colloidal particles suspended in a medium, illuminating the path of light (e.g., sunlight entering a dusty room through a slit, headlights in dense fog, blue appearance of the sky). True solutions do NOT exhibit the Tyndall effect.
-50. **Brownian Motion**: The continuous, zig-zag, random kinetic bombardment of colloidal particles by solvent molecules (first observed by botanist Robert Brown in 1827). Brownian motion opposes gravity and confers physical stability upon colloidal sols.
-51. **Electrophoresis (Cataphoresis)**: The migration of electrically charged colloidal particles toward the oppositely charged electrode under the influence of an applied external electric field; it definitively proves that **colloidal particles carry electric charge**.
-52. **Coagulation (Flocculation)**: The process of neutralizing the electric charge of colloidal particles, causing them to aggregate into larger macro-particles and settle out as a precipitate.
-53. **Hardy-Schulze Rule**: The coagulating (flocculating) power of an active electrolyte ion is directly proportional to the fourth power of its valence. For negatively charged colloidal particles (e.g., clay particles in muddy water, $As_2S_3$ sol), the coagulation power follows: **$Al^{3+} > Ba^{2+} > Na^+$**.
-54. **Purification of Muddy Water by Potash Alum**: River and pond mud consists of negatively charged colloidal clay suspended in water. When potash alum ($KAl(SO_4)_2 \cdot 12H_2O$) dissolves, trivalent aluminium cations ($Al^{3+}$) neutralize the negative surface charges of clay particles, precipitating them rapidly through coagulation.
-55. **Delta Formation**: River water carries negatively charged colloidal clay and silt. When river water enters the ocean, the abundant multivalent metal cations ($Na^+, Mg^{2+}, Ca^{2+}$) in seawater immediately coagulate and deposit the silt at the river mouth, forming triangular geological deltas.
-56. **Arresting Bleeding (Hemostasis) by Alum / Ferric Chloride ($FeCl_3$)**: Blood is a negatively charged colloidal suspension of albuminous matter. Applying alum ($Al^{3+}$) or styptic pencil ($Fe^{3+}$) instantly coagulates the blood proteins, forming a clot that seals the ruptured capillary.
-57. **Classification of Colloids by Physical State**:
-58. **Emulsion**: Liquid dispersed in Liquid (Milk, Mayonnaise, Cod liver oil, Cold cream).
-59. **Solid Aerosol**: Solid dispersed in Gas (Smoke, Automobile exhaust, Airborne dust).
-60. **Liquid Aerosol**: Liquid dispersed in Gas (Fog, Mist, Cloud, Insecticide sprays).
-61. **Sol**: Solid dispersed in Liquid (Paints, Inks, Cell fluids, Blood, Starch sol).
-62. **Gel**: Liquid dispersed in Solid (Jelly, Cheese, Butter, Gelatin, Curd).
-63. **Solid Sol**: Solid dispersed in Solid (Ruby glass, Colored gemstones, Pearls).
-64. **Foam**: Gas dispersed in Liquid (Soap froth, Whipped cream, Shaving lather).
-65. **Solid Foam**: Gas dispersed in Solid (Pumice stone, Foam rubber, Bread).
+2. **Plasma** (the fourth state) consists of superheated, highly ionized gas containing free electrons and positive ions; it conducts electricity, generates magnetic fields, and makes up $>99\%$ of the visible universe (stars, Sun, auroras, lightning, neon sign tubes).
+3. **Bose-Einstein Condensate (BEC)** (the fifth state) forms when integer-spin boson gases of extremely low density (about one-hundred-thousandth the density of normal air) are cooled to ultra-low temperatures near absolute zero ($0\text{ K}$ or $-273.15^\circ\text{C}$).
+4. **Phase Transitions**: Melting (Solid $\to$ Liquid), Freezing (Liquid $\to$ Solid), Vaporization/Boiling (Liquid $\to$ Gas), Condensation (Gas $\to$ Liquid), Sublimation (Solid $\to$ Gas directly), Deposition (Gas $\to$ Solid directly).
+5. **Sublimation** occurs because the substance's vapor pressure exceeds atmospheric pressure before reaching its melting point. Examples: **Camphor, Naphthalene, Anthracene, Ammonium Chloride ($NH_4Cl$), Iodine ($I_2$), Dry Ice (solid $CO_2$)**.
+6. **Triple Point of Water** is the unique thermodynamic coordinate of temperature and pressure at which solid ice, liquid water, and water vapor coexist in stable thermodynamic equilibrium: strictly $273.16\text{ K}$ ($0.01^\circ\text{C}$) and $4.58\text{ mmHg}$ ($611.65\text{ Pa}$ or $0.006\text{ atm}$).
+7. **Critical Temperature ($T_c$)** is the temperature above which a gas cannot be liquefied, regardless of the magnitude of pressure applied. For $CO_2$, $T_c = 31.1^\circ\text{C}$.
+8. **Burning of a candle** is uniquely **both physical and chemical**: melting and vaporization of paraffin wax is a physical change, while the combustion of wax vapor into $CO_2$, carbon soot, and $H_2O$ is a chemical change.
+9. **Rusting of Iron**: When iron reacts with atmospheric oxygen and water vapor, hydrated ferric oxide ($Fe_2O_3 \cdot xH_2O$) is formed. Rusting is an oxidation chemical change that results in an **increase in the total mass of the iron object** due to the addition of bonded oxygen and water molecules.
+10. **Solubility** of most solid solutes in liquid solvents increases with increasing temperature (endothermic dissolution), but decreases for exothermic dissolutions (e.g., $Ce_2(SO_4)_3$, $CaO$).
+11. **Henry's Law** states that the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid ($m = k_H \cdot P$):
+12. **Molarity ($M$)** = moles of solute per liter of solution ($\text{mol/L}$). Because liquid volume expands or contracts with temperature, Molarity is **temperature-dependent**.
+13. **Molality ($m$)** = moles of solute per kilogram of pure solvent ($\text{mol/kg}$). Because mass is independent of temperature, Molality is **strictly temperature-independent** and preferred in high-precision thermodynamic and colligative calculations.
+14. **Normality ($N$)** = gram equivalents of solute per liter of solution ($N = M \times \text{Valence factor}$ / $n$-factor).
+15. **Parts per Million (ppm)** is used for ultra-trace concentrations (pollutants in air, fluoride/arsenic in drinking water): $\text{ppm} = \frac{\text{Mass of component}}{\text{Total mass}} \times 10^6$.
+16. **Colligative Properties** are physical properties of dilute solutions that depend **strictly on the total number of solute particles** (ions or molecules) present, and are completely independent of the chemical nature, size, or identity of the solute.
+17. **Relative Lowering of Vapor Pressure** (Raoult's Law)
+18. **Elevation of Boiling Point** ($\Delta T_b = i \cdot K_b \cdot m$)
+19. **Depression of Freezing Point** ($\Delta T_f = i \cdot K_f \cdot m$)
+20. **Osmotic Pressure** ($\Pi = i \cdot C \cdot R \cdot T$)
+21. **Automobile Antifreeze**: In sub-zero polar/winter conditions, **Ethylene glycol ($C_2H_6O_2$)** is added to vehicle radiator coolant water; it depresses the freezing point well below $0^\circ\text{C}$ to prevent engine block cracking and elevates the boiling point to prevent summer overheating.
+22. **De-icing of Frozen Highways**: Rock salt ($NaCl$) or calcium chloride ($CaCl_2$) is broadcast over icy roads. $CaCl_2$ is superior because it dissociates into 3 ions ($i=3$) and dissolves exothermically, melting snow down to $-25^\circ\text{C}$.
+23. **Pressure Cooker Mechanics**: By trapping steam, the internal chamber pressure rises to ~2 atmospheres (~15 psi gauge pressure), which **elevates the boiling point of water from $100^\circ\text{C}$ to approximately $120^\circ\text{C}$–$122^\circ\text{C}$**. Food cooks substantially faster because it absorbs heat at a significantly higher temperature, not because of the pressure itself.
+24. **Osmosis** is the spontaneous net movement of solvent molecules from a region of lower solute concentration (higher chemical potential of solvent) to higher solute concentration across a **semi-permeable membrane (SPM)**.
+25. **Osmotic Pressure ($\Pi$)** is the exact excess hydrostatic pressure that must be applied to the solution side to completely halt the osmotic influx of pure solvent.
+26. **Reverse Osmosis (RO)**: When an external hydrostatic pressure greater than the osmotic pressure ($P > \Pi$) is applied to the concentrated solution side, pure solvent molecules are forced backwards through the semi-permeable membrane into the pure water reservoir. This is the cornerstone technology for **desalination of seawater** and domestic water purifiers.
+27. **Isotonic Solutions** possess identical osmotic pressure across a semi-permeable boundary. A $0.9\%\text{ (w/v) } NaCl$ solution ("normal saline") is strictly isotonic with human red blood cells (RBCs).
+28. **Colloidal Solution**: A heterogeneous system wherein the dispersed phase particle diameter lies between **$1\text{ nm}$ ($10^{-9}\text{ m}$) and $1000\text{ nm}$ ($1\text{ }\mu\text{m}$ or $10^{-6}\text{ m}$)**. Colloidal particles pass through ordinary filter paper but are arrested by animal/parchment membranes.
+29. **Tyndall Effect**: The scattering of a beam of visible light by colloidal particles suspended in a medium, illuminating the path of light (e.g., sunlight entering a dusty room through a slit, headlights in dense fog, blue appearance of the sky). True solutions do NOT exhibit the Tyndall effect.
+30. **Brownian Motion**: The continuous, zig-zag, random kinetic bombardment of colloidal particles by solvent molecules (first observed by botanist Robert Brown in 1827). Brownian motion opposes gravity and confers physical stability upon colloidal sols.
+31. **Electrophoresis (Cataphoresis)**: The migration of electrically charged colloidal particles toward the oppositely charged electrode under the influence of an applied external electric field; it definitively proves that **colloidal particles carry electric charge**.
+32. **Coagulation (Flocculation)**: The process of neutralizing the electric charge of colloidal particles, causing them to aggregate into larger macro-particles and settle out as a precipitate.
+33. **Hardy-Schulze Rule**: The coagulating (flocculating) power of an active electrolyte ion is directly proportional to the fourth power of its valence. For negatively charged colloidal particles (e.g., clay particles in muddy water, $As_2S_3$ sol), the coagulation power follows: **$Al^{3+} > Ba^{2+} > Na^+$**.
+34. **Purification of Muddy Water by Potash Alum**: River and pond mud consists of negatively charged colloidal clay suspended in water. When potash alum ($KAl(SO_4)_2 \cdot 12H_2O$) dissolves, trivalent aluminium cations ($Al^{3+}$) neutralize the negative surface charges of clay particles, precipitating them rapidly through coagulation.
+35. **Delta Formation**: River water carries negatively charged colloidal clay and silt. When river water enters the ocean, the abundant multivalent metal cations ($Na^+, Mg^{2+}, Ca^{2+}$) in seawater immediately coagulate and deposit the silt at the river mouth, forming triangular geological deltas.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-— Razor-Sharp Distinctions
-
-| Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
-|---|---|---|---|
-| **Physical vs. Chemical Change** | **Physical Change**: No new chemical bonds broken or formed. Retains chemical identity ($H_2O\text{ (ice)} \rightleftharpoons H_2O\text{ (liquid)}$). | **Chemical Change**: New substances formed with altered atomic bonds ($2H_2 + O_2 \to 2H_2O$). | **Reversibility & Identity**: If you can recover the starting material by reversing temperature/pressure without a chemical reaction, it is physical. If mass increases/decreases via chemical binding (e.g., rusting, burning), it is chemical. |
-| **Homogeneous vs. Heterogeneous Mixture** | **Homogeneous (Solution)**: Single phase throughout; uniform composition; particle size $<1\text{ nm}$. | **Heterogeneous (Colloid/Suspension)**: Multiple phases; non-uniform; distinct physical boundaries. | **Tyndall Scattering**: Homogeneous solutions (salt water, clear air) let light pass invisibly; heterogeneous mixtures (milk, smoky air) scatter light beams. |
-| **Colloid vs. Suspension** | **Colloid**: Particle size $1\text{ to }1000\text{ nm}$. Does not settle under gravity; passes through standard filter paper. | **Suspension**: Particle size $>1000\text{ nm}$ ($>1\text{ }\mu\text{m}$). Settles under gravity upon standing; arrested by standard filter paper. | **Gravitational Stability**: Suspensions (chalk in water, muddy water) precipitate spontaneously on standing; colloids (milk, blood) remain suspended indefinitely unless coagulated. |
-| **Molarity ($M$) vs. Molality ($m$)** | **Molarity**: Moles of solute per **liter of solution** ($\text{mol/L}$). | **Molality**: Moles of solute per **kilogram of solvent** ($\text{mol/kg}$). | **Temperature Sensitivity**: Molarity changes when heated due to liquid thermal expansion ($\Delta V > 0 \implies M \downarrow$); Molality remains invariant because mass does not change with temperature. |
-| **Osmosis vs. Diffusion** | **Osmosis**: Migration of **solvent molecules only** across a selective semi-permeable membrane (SPM) from dilute to concentrated solution. | **Diffusion**: Spontaneous movement of **solute or gas particles** from higher to lower concentration without any intervening membrane. | **Membrane Requirement**: Diffusion requires no barrier (perfume spreading in room); Osmosis strictly requires a semi-permeable membrane allowing only solvent through. |
-| **Aerosol vs. Foam** | **Aerosol**: Dispersion of liquid or solid droplets in a **gaseous medium** (Fog, Smoke). | **Foam**: Dispersion of gas bubbles in a **liquid or solid medium** (Soap lather, Pumice stone). | **Continuous Phase**: In an aerosol, the bulk medium is always a gas; in a foam, the bulk medium is a liquid or solid containing entrapped gas bubbles. |
-| **Sublimation vs. Evaporation** | **Sublimation**: Direct endothermic phase change from **solid $\to$ gas**, completely bypassing the liquid phase. | **Evaporation**: Surface transition from **liquid $\to$ gas** occurring at temperatures below the boiling point. | **Starting State**: Sublimation begins with a solid (camphor, dry ice); evaporation strictly begins with a liquid (water evaporating from a lake). |
-| **Distillation vs. Fractional Distillation** | **Simple Distillation**: Used when boiling points of two miscible liquids differ by **$>25^\circ\text{C}$** (e.g., acetone $56^\circ\text{C}$ and water $100^\circ\text{C}$). | **Fractional Distillation**: Used when boiling points differ by **$<25^\circ\text{C}$**; employs a fractionating column filled with glass beads (e.g., crude petroleum fractions, liquid air). | **Boiling Point Gap ($\Delta T$)**: Simple distillation fails if $\Delta T < 25^\circ\text{C}$ due to vapor overlap; a fractionating column provides repeated vaporization-condensation cycles. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& High-Yield Pitfalls
+
+| Trap Area | What Students Confuse | Correct Fact |
+|---|---|---|
+| **Milk's Colloid Type** | Confusing milk with a Sol or Foam. | Milk is strictly an **Emulsion** (liquid butterfat droplets dispersed in aqueous liquid phase, stabilized by casein protein). |
+| **Rusting Mass Change** | Thinking an iron nail loses weight because rust flakes off. | Rusting is an oxidation process ($4Fe + 3O_2 + 2xH_2O \to 2Fe_2O_3 \cdot xH_2O$); the total weight of the nail **increases** due to added oxygen and water. |
+| **Candle Burning** | Categorizing burning of a candle as solely physical or solely chemical. | It is **both**: melting/vaporization of wax is physical; combustion into $CO_2$ and $H_2O$ is chemical. |
+| **Pressure Cooker Physics** | Believing high pressure itself crushes and cooks food. | High chamber pressure **elevates the boiling point of water** to $\approx 120^\circ\text{C}$, allowing food to cook at a higher temperature. |
+| **Molarity vs. Molality** | Assuming Molarity is preferred in temperature-variable experiments. | Molarity changes with temperature because liquid volume expands. **Molality is temperature-independent** (based on mass) and preferred for colligative calculations. |
+| **Gas in Gas Mixture** | Searching for a colloidal name for a mixture of two gases. | Gases mix completely at the molecular scale to form **homogeneous true solutions**, never colloids. |
+| **Sublimation Candidates** | Believing all white powders sublime upon heating. | $NaCl$ and sugar do not sublime. Common subliming compounds are **camphor, naphthalene, anthracene, $NH_4Cl$, iodine, and dry ice**. |
+| **Colligative Comparison** | Comparing colligative effects based on mass instead of particle count. | Colligative properties depend strictly on the **number of dissolved particles** ($i \times m$). $0.1\text{ m } AlCl_3$ ($i=4$) produces twice the effect of $0.1\text{ m } NaCl$ ($i=2$). |
+| **Reverse Osmosis Flow** | Assuming water flows from dilute to concentrated in RO. | Under applied pressure $P > \Pi$, solvent flows **in reverse**: from concentrated solution across the membrane into pure water. |
+| **Hardy-Schulze Valence** | Thinking higher-mass ions coagulate better regardless of charge. | Coagulation power depends on **ionic charge (valence)**, not atomic weight ($Al^{3+} > Mg^{2+} > Na^+$ for negative sols). |
+
+---
 
 
 ---
@@ -176,9 +144,10 @@ hide:
     - **Foam**: Gas dispersed in Liquid (Soap froth, Whipped cream, Shaving lather).
     - **Solid Foam**: Gas dispersed in Solid (Pumice stone, Foam rubber, Bread).
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -191,7 +160,7 @@ hide:
 | **Sublimation vs. Evaporation** | **Sublimation**: Direct endothermic phase change from **solid $\to$ gas**, completely bypassing the liquid phase. | **Evaporation**: Surface transition from **liquid $\to$ gas** occurring at temperatures below the boiling point. | **Starting State**: Sublimation begins with a solid (camphor, dry ice); evaporation strictly begins with a liquid (water evaporating from a lake). |
 | **Distillation vs. Fractional Distillation** | **Simple Distillation**: Used when boiling points of two miscible liquids differ by **$>25^\circ\text{C}$** (e.g., acetone $56^\circ\text{C}$ and water $100^\circ\text{C}$). | **Fractional Distillation**: Used when boiling points differ by **$<25^\circ\text{C}$**; employs a fractionating column filled with glass beads (e.g., crude petroleum fractions, liquid air). | **Boiling Point Gap ($\Delta T$)**: Simple distillation fails if $\Delta T < 25^\circ\text{C}$ due to vapor overlap; a fractionating column provides repeated vaporization-condensation cycles. |
 
----
+</details>
 
 ## Master Reference Tables
 
@@ -575,86 +544,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The five recognized physical states of matter are: Solid, Liquid, Gas, Plasma, and Bose-Einstein Condensate (BEC).
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** The five recognized physical states of matter are: **Solid**, **Liquid**, **Gas**, **Plasma**, and **Bose-Einstein Condensate (BEC)**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q9.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. In solids, intermolecular forces are strongest, intermolecular space is minimal, kinetic energy of particles is lowest, and particles vibrate strictly around fixed mean positions; solids possess definite shape and fixed volume.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** In **solids**, intermolecular forces are strongest, intermolecular space is minimal, kinetic energy of particles is lowest, and particles vibrate strictly around fixed mean positions; solids possess definite shape and fixed volume.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q10.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. In liquids, intermolecular forces are moderate, particles possess translational freedom to slip over one another, having fixed volume but indefinite shape (adapting to their container).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** In **liquids**, intermolecular forces are moderate, particles possess translational freedom to slip over one another, having fixed volume but indefinite shape (adapting to their container).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q11.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. In gases, intermolecular attraction is negligible, intermolecular space is maximum, mean free path and particle kinetic energy are highest; gases exhibit neither fixed shape nor fixed volume and expand indefinitely to fill any container.
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** In **gases**, intermolecular attraction is negligible, intermolecular space is maximum, mean free path and particle kinetic energy are highest; gases exhibit neither fixed shape nor fixed volume and expand indefinitely to fill any container.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q12.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
 A. Contrary to standard doctrine, Plasma applies only to union territories and not state jurisdictions.
 B. Plasma (the fourth state) consists of superheated, highly ionized gas containing free electrons and positive ions; it conducts electricity, generates magnetic fields, and makes up $>99\%$ of the visible universe (stars, Sun, auroras, lightning, neon sign tubes).
 C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
+D. Recognized by UNESCO under World Heritage natural criteria
 
 <details>
 <summary>Show answer</summary>
@@ -666,14 +559,14 @@ D. Excavated primarily in the Belan and Son River valleys
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q13.** in Science & Technology, consider the following statement:
+**Q9.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Bose-Einstein applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
+B. Recognized by UNESCO under World Heritage natural criteria
 C. Bose-Einstein Condensate (BEC) (the fifth state) forms when integer-spin boson gases of extremely low density (about one-hundred-thousandth the density of normal air) are cooled to ultra-low temperatures near absolute zero ($0\text{ K}$ or $-273.15^\circ\text{C}$).
-D. Classified under Schedule VII List II (State List)
+D. Enacted under Article 356 of the Constitution of India
 
 <details>
 <summary>Show answer</summary>
@@ -685,12 +578,12 @@ D. Classified under Schedule VII List II (State List)
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q14.** in Science & Technology, consider the following statement:
+**Q10.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Phase applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
+B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
 D. Phase Transitions: Melting (Solid $\to$ Liquid), Freezing (Liquid $\to$ Solid), Vaporization/Boiling (Liquid $\to$ Gas), Condensation (Gas $\to$ Liquid), Sublimation (Solid $\to$ Gas directly), Deposition (Gas $\to$ Solid directly).
 
@@ -704,11 +597,87 @@ D. Phase Transitions: Melting (Solid $\to$ Liquid), Freezing (Liquid $\to$ Solid
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
+**Q11.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Sublimation occurs because the substance's vapor pressure exceeds atmospheric pressure before reaching its melting point. Examples: Camphor, Naphthalene, Anthracene, Ammonium Chloride ($NH4Cl$), Iodine ($I2$), Dry Ice (solid $CO2$).
+B. Reported by the Law Commission in its 214th consultation paper
+C. None of the above statements are correct according to official Commission keys.
+D. Amended by the 44th Constitutional Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Sublimation** occurs because the substance's vapor pressure exceeds atmospheric pressure before reaching its melting point. Examples: **Camphor, Naphthalene, Anthracene, Ammonium Chloride ($NH_4Cl$), Iodine ($I_2$), Dry Ice (solid $CO_2$)**.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q12.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Triple applies only to union territories and not state jurisdictions.
+B. Triple Point of Water is the unique thermodynamic coordinate of temperature and pressure at which solid ice, liquid water, and water vapor coexist in stable thermodynamic equilibrium: strictly $273.16\text{ K}$ ($0.01^\circ\text{C}$) and $4.58\text{ mmHg}$ ($611.65\text{ Pa}$ or $0.006\text{ atm}$).
+C. None of the above statements are correct according to official Commission keys.
+D. Excavated primarily in the Belan and Son River valleys
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Triple Point of Water** is the unique thermodynamic coordinate of temperature and pressure at which solid ice, liquid water, and water vapor coexist in stable thermodynamic equilibrium: strictly $273.16\text{ K}$ ($0.01^\circ\text{C}$) and $4.58\text{ mmHg}$ ($611.65\text{ Pa}$ or $0.006\text{ atm}$).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q13.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Critical applies only to union territories and not state jurisdictions.
+B. Excavated primarily in the Belan and Son River valleys
+C. Critical Temperature ($Tc$) is the temperature above which a gas cannot be liquefied, regardless of the magnitude of pressure applied. For $CO2$, $Tc = 31.1^\circ\text{C}$.
+D. Classified under Schedule VII List II (State List)
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Critical Temperature ($T_c$)** is the temperature above which a gas cannot be liquefied, regardless of the magnitude of pressure applied. For $CO_2$, $T_c = 31.1^\circ\text{C}$.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q14.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Burning applies only to union territories and not state jurisdictions.
+B. Classified under Schedule VII List II (State List)
+C. None of the above statements are correct according to official Commission keys.
+D. Burning of a candle is uniquely both physical and chemical: melting and vaporization of paraffin wax is a physical change, while the combustion of wax vapor into $CO2$, carbon soot, and $H2O$ is a chemical change.
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Burning of a candle** is uniquely **both physical and chemical**: melting and vaporization of paraffin wax is a physical change, while the combustion of wax vapor into $CO_2$, carbon soot, and $H_2O$ is a chemical change.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
 **Q15.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
-A. During any phase change, temperature remains strictly constant because absorbed/released thermal energy functions entirely as Latent Heat (breaking or establishing intermolecular lattice bonds without increasing particle kinetic energy).
+A. Rusting of Iron: When iron reacts with atmospheric oxygen and water vapor, hydrated ferric oxide ($Fe2O3 \cdot xH2O$) is formed. Rusting is an oxidation chemical change that results in an increase in the total mass of the iron object due to the addition of bonded oxygen and water molecules.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -719,6 +688,6 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** During any phase change, **temperature remains strictly constant** because absorbed/released thermal energy functions entirely as **Latent Heat** (breaking or establishing intermolecular lattice bonds without increasing particle kinetic energy).
+- **Key Exam Association:** **Rusting of Iron**: When iron reacts with atmospheric oxygen and water vapor, hydrated ferric oxide ($Fe_2O_3 \cdot xH_2O$) is formed. Rusting is an oxidation chemical change that results in an **increase in the total mass of the iron object** due to the addition of bonded oxygen and water molecules.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

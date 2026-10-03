@@ -26,7 +26,8 @@
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Parmar / Panwar** of Garhwal claimed Malwa Parmar origin; legendary founder **Kanakpal** (888 CE tradition) sat at **Chandpur / Chandpurgarh** (Chamoli (चमोली)).
 2. **Ajay Pal** (37th ruler, c. **1500–1519**) unified the **52 Garhs**, followed Gorakhnath/Rajrajeshwari devotion, and set grain measure **Dhulia Patha** (~2 seers).
@@ -51,6 +52,7 @@
 21. **Kanakpal** = legendary founder at Chandpurgarh; **Ajay Pal** = 52-Garh unifier and Srinagar capital — never swap.
 22. **Battle of Bhangani (1688)** ≠ **Battle of Khudbuda (1804)** — Sikh hill clash vs final Gorkha conquest of independent Garhwal.
 
+</details>
 
 ## Chronological Ruler Guide & Significant Milestones
 
@@ -115,7 +117,8 @@
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -125,7 +128,7 @@
 | **Battle of Bhangani vs Battle of Khudbuda** | Bhangani (1688) = Fateh Shah vs Guru Gobind Singh; Khudbuda (1804) = Pradyumna Shah vs Gorkha army (Gorkha takeover). |
 | **Fateh Shah village grants** | True set: **Khurbura, Rajpur, Chamasari, Dhamawala**. Trap distractors: *Chhayawala, Bhujanwala, Panditwari*. |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Daily Read — High-Yield Revision Facts (Medieval India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Jizya**: Religious protection tax levied on non-Muslim subjects (*Zimmis*):
 2. **Abolished by Akbar in 1564 CE** (also abolished pilgrim tax in 1563).
@@ -49,8 +48,6 @@ hide:
 33. **Silahdars**: Mercenary cavalrymen who brought their own horses and arms.
 34. **Treaty of Purandar (1665)**: Between Shivaji and Mughal General **Raja Jai Singh I** of Amber; Shivaji surrendered 23 out of 35 forts.
 35. **Coronation (1674)**: At **Raigad Fort** by pandit **Gaga Bhatt** of Varanasi; assumed titles **Chhatrapati** and *Haindava Dharmoddharak*.
-
-</details>
 
 
 ---

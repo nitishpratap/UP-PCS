@@ -15,7 +15,8 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 ---
 
-## Consolidated — 42 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The Mauryan empire runs about **322–185 BCE**. Buddhist tradition links the clan to **Moriya / Pipphalivana**; some Puranas smear a “low origin.”
 2. King order is **Chandragupta (322–297)** → **Bindusara Amitraghata** (अमित्रघात) **(297–273)** → **Ashoka** (अशोक) (accession about **272**, coronation **268–232**) → last **Brihadratha**, killed by **Pushyamitra Shunga (Pushyamitra Sunga)** (पुष्यमित्र शुंग) in **185 BCE**.
@@ -60,9 +61,10 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 41. **Sanchi** (Raisen, MP) is the best-preserved early stupa core begun under Ashoka. **Bharhut** railings bloom mainly in the **Shunga** age — do not treat both as identical Ashokan art facts.
 42. Mauryan **spies** (*gudhapurusha*) split into **sanstha** (stationary) and **sanchara** (mobile). The Gupta–Harsha ages do **not** run the same paid spy-state image.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -86,7 +88,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 | Sanstha | Sanchara | Stationary covers vs **mobile** spies | संस्था / संचार |
 | Moriya kshatriya | Purana shudra | Buddhist Pipphalivana origin vs Brahmanical **low-birth** smear | मोरिय / पुराण |
 
----
+</details>
 
 ## Must-score facts — kings, edicts, officials
 

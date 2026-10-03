@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 3 — Regional Kingdoms (Sharqi (शर्की), Kashmir, Vijayanagara (विजयनगर), Bahmani & Deccan (दक्कन))</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -30,11 +28,7 @@ hide:
 | Kitab-i-Nauras | Amuktamalyada | Ibrahim Adil Shah II (Bijapur) vs Krishnadevaraya (Telugu) | किताब-ए-नौरस / अमुक्तमाल्यद |
 | Nayankara system | Iqta system | Vijayanagara nayaka military land grants vs Delhi Sultanate muqti | नायककारा / इक्ता |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### State ↔ capital / founder
 
@@ -234,18 +228,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Firuz Shah founded the city of Jaunpur (जौनपुर) in memory of cousin Jauna Khan (Muhammad bin Tughlaq (मुहम्मद बिन तुगलक)); Malik Sarwar (Khwaja-i-Jahan / Malik-us-Sharq) made it independent (~1394); Ibrahim (इब्राहिम) Shah made it Siraj/Shiraz-i-Hind.
 - **Exam Anchor:** Atala Masjid (अटाला मस्जिद) and Lal Darwaza Masjid are classic Sharqi (शर्की) monuments at Jaunpur in eastern UP.
-- **Exam Anchor:** Last Sharqi ruler Hussain Shah fell to Bahlul Lodi (1479/1484 keys); Vidyapati’s Kirtilata praises Jaunpur under Ibrahim.
 - **Exam Anchor:** Malik Muhammad Jaisi composed Padmavat (पद्मावत) in the Jaunpur cultural circle.
 - **Exam Anchor:** Zain-ul-Abidin (1420–1470), called Bud Shah, abolished jaziya and cow slaughter and restored temples in Kashmir.
 - **Exam Anchor:** Sriya Bhatt was Zain-ul-Abidin’s Hindu minister; Zaina Lanka was his island palace on Wular Lake.
 - **Exam Anchor:** Sikandar Shah of Kashmir is the temple-destruction contrast (Butshikan) to tolerant Zain-ul-Abidin.
 - **Exam Anchor:** Vijayanagara (विजयनगर) was founded in 1336 by Harihara I and Bukka I (Sangama) with capital at Hampi (हम्पी) on the Tungabhadra (तुंगभद्रा); tradition links guidance to Vidyaranya.
-
-</details>
+- **Exam Anchor:** Deva Raya I / II mark Sangama military peak against Bahmani; Saluva Narasimha founded the Saluva house; Krishnadevaraya (कृष्णदेवराय) (1509–1529, Tuluva) wrote Amuktamalyada (आमुक्तमाल्यदा) and patronised the Ashtadiggajas.
 
 ---
 

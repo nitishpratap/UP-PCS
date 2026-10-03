@@ -11,82 +11,50 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Census and Urbanisation Topic 1 — Census and Population Data</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Under the Constitution of India, the **Census** is a subject enumerated in **Entry 69 of the Union List (List I)** of the Seventh Schedule.
-2. The **Census Act, 1948** was piloted by **Sardar Vallabhbhai Patel** to provide permanent statutory authority for census operations.
-3. Individual census information is strictly confidential and protected from judicial disclosure under **Section 15 of the Census Act, 1948**.
-4. The **Registrar General and Census Commissioner of India (RGCCI)** operates under the **Ministry of Home Affairs (MHA)**.
-5. The first non-synchronous census in modern India was conducted in **1872** during the viceroyalty of **Lord Mayo**.
-6. The first complete synchronous decennial census of India was conducted in **1881** under **Lord Ripon**.
-7. **W. C. Plowden** was the first Census Commissioner of India during the 1881 Census.
-8. The **Year 1921** is known as the **"Year of the Great Divide"** in Indian demographic history because it recorded negative population growth (**-0.31%**).
-9. The last caste-based census covering all castes in British India was conducted in **1931** under Census Commissioner **J. H. Hutton**.
-10. The **1951 Census** was the **first census of independent India**, conducted under Census Commissioner **R. A. Gopalaswami**.
-11. **Census 2011** was the **15th National Census** of India since 1872 and the **7th Census after Independence**.
-12. The Census Commissioner of India for Census 2011 was **Dr. C. Chandramouli**.
-13. The official motto of Census 2011 was **"Our Census, Our Future"**, with the mascot of a **Female Enumerator**.
-14. The reference point for Census 2011 was **00:00 hours on 1st March 2011** (1st October 2010 for snowbound Himalayan areas).
-15. India's total population as per Census 2011 stood at **1,210.85 Million (121.08 Crore)**.
-16. India's population accounted for **17.5% of the total world population** in 2011, living on **2.4% of the world's land area**.
-17. The **Decadal Population Growth Rate** of India during 2001–2011 was **17.70%** (Annual exponential rate of **1.64%**).
-18. The population density of India in Census 2011 was **382 persons per square kilometer** (up from 325 in 2001).
-19. The overall **Sex Ratio** of India in Census 2011 was **943 females per 1,000 males** (up from 933 in 2001).
-20. The **Child Sex Ratio (0–6 years)** in Census 2011 dropped to an all-time low of **919 females per 1,000 males** (down from 927 in 2001).
-21. The effective **Literacy Rate** of India in Census 2011 was **73.0%** (Male literacy: **80.9%**, Female literacy: **64.6%**).
-22. The gender gap in literacy at the national level in 2011 stood at **16.3 percentage points**.
-23. In Census 2011, **Kerala** had the highest literacy rate (**94.0%**), while **Bihar** had the lowest (**61.8%**).
-24. **Kerala** had the highest sex ratio among Indian States (**1,084**), while **Haryana** had the lowest (**879**).
-25. Among Union Territories, **Puducherry** had the highest sex ratio (**1,037**), while **Daman and Diu** had the lowest (**618**).
-26. **Meghalaya** recorded the highest decadal population growth rate among States (**27.95%**), followed by Arunachal Pradesh (26.03%).
-27. **Nagaland** was the only Indian State to record a **negative decadal growth rate (-0.58%)** during 2001–2011.
-28. **Bihar** has the highest population density among States (**1,106 persons / sq km**), followed by West Bengal (1,028).
-29. **Arunachal Pradesh** has the lowest population density in India (**17 persons / sq km**).
-30. Among UTs, **Delhi** has the highest density (**11,320 persons / sq km**), while **Andaman & Nicobar Islands** has the lowest (**46**).
-31. The Scheduled Caste (SC) population in India was **20.14 Crore (16.63% of total population)** in 2011.
-32. The Scheduled Tribe (ST) population in India was **10.43 Crore (8.61% of total population)** in 2011.
-33. **Punjab** has the highest proportion of Scheduled Castes (**31.9%**), while **Uttar Pradesh** has the largest absolute SC population.
-34. **Madhya Pradesh** has the highest absolute Scheduled Tribe population, while **Lakshadweep (94.8%)** and **Mizoram (94.4%)** have the highest ST percentages.
-35. The States of **Punjab, Haryana, Delhi, Chandigarh, and Puducherry** have **NO notified Scheduled Tribe population**.
-36. The States of **Nagaland, Mizoram, Meghalaya, Lakshadweep, and Andaman & Nicobar Islands** have **NO notified Scheduled Caste population**.
-37. The proportion of **Urban Population** in India as per Census 2011 was **31.16%** (Rural: **68.84%**).
-38. **Goa** is the most urbanised State in India (**62.2% urban population**), while **Himachal Pradesh** is the least urbanised (**10.0%**).
-39. The total population of **Uttar Pradesh** in Census 2011 was **19.98 Crore (199,812,341)**, accounting for **16.51% of India's population**.
-40. The decadal growth rate of Uttar Pradesh during 2001–2011 was **20.22%**.
-41. The population density of Uttar Pradesh in 2011 was **829 persons per square kilometer** (4th highest among States).
-42. The sex ratio of Uttar Pradesh in 2011 was **912** (Child Sex Ratio: **902**).
-43. The overall literacy rate of Uttar Pradesh in 2011 was **67.7%** (Male: **77.3%**, Female: **57.2%**; Gap: **20.1%**).
-44. The most populous district of Uttar Pradesh is **Prayagraj (Allahabad)** (59.54 Lakh), and the least populous is **Mahoba** (8.75 Lakh).
-45. **Gautam Buddha Nagar** recorded the highest decadal growth rate in UP (**49.1%**), while **Kanpur Nagar** recorded the lowest (**9.9%**).
-46. **Ghaziabad** has the highest population density in UP (**3,971 / km²**), while **Lalitpur** has the lowest (**242 / km²**).
-47. **Jaunpur** has the highest sex ratio in UP (**1,024**), while **Gautam Buddha Nagar** has the lowest (**851**).
-48. **Gautam Buddha Nagar** has the highest literacy rate in UP (**80.12%**), while **Shravasti** has the lowest (**46.74%**).
-49. **Kanpur Nagar** has the highest female literacy rate in UP (**75.05%**), while **Shravasti** has the lowest female literacy (**34.78%**).
-50. The **Sample Registration System (SRS)** under the Registrar General of India is the premier annual source for estimating IMR, MMR, CBR, and CDR in India.
+1. **W. C. Plowden** was the first Census Commissioner of India during the 1881 Census.
+2. **Census 2011** was the **15th National Census** of India since 1872 and the **7th Census after Independence**.
+3. **Kerala** had the highest sex ratio among Indian States (**1,084**), while **Haryana** had the lowest (**879**).
+4. **Meghalaya** recorded the highest decadal population growth rate among States (**27.95%**), followed by Arunachal Pradesh (26.03%).
+5. **Nagaland** was the only Indian State to record a **negative decadal growth rate (-0.58%)** during 2001–2011.
+6. **Bihar** has the highest population density among States (**1,106 persons / sq km**), followed by West Bengal (1,028).
+7. **Arunachal Pradesh** has the lowest population density in India (**17 persons / sq km**).
+8. **Punjab** has the highest proportion of Scheduled Castes (**31.9%**), while **Uttar Pradesh** has the largest absolute SC population.
+9. **Madhya Pradesh** has the highest absolute Scheduled Tribe population, while **Lakshadweep (94.8%)** and **Mizoram (94.4%)** have the highest ST percentages.
+10. **Goa** is the most urbanised State in India (**62.2% urban population**), while **Himachal Pradesh** is the least urbanised (**10.0%**).
+11. **Gautam Buddha Nagar** recorded the highest decadal growth rate in UP (**49.1%**), while **Kanpur Nagar** recorded the lowest (**9.9%**).
+12. **Ghaziabad** has the highest population density in UP (**3,971 / km²**), while **Lalitpur** has the lowest (**242 / km²**).
+13. **Jaunpur** has the highest sex ratio in UP (**1,024**), while **Gautam Buddha Nagar** has the lowest (**851**).
+14. **Gautam Buddha Nagar** has the highest literacy rate in UP (**80.12%**), while **Shravasti** has the lowest (**46.74%**).
+15. **Kanpur Nagar** has the highest female literacy rate in UP (**75.05%**), while **Shravasti** has the lowest female literacy (**34.78%**).
+16. **Union Subject**: Under **Article 246** of the Constitution of India, Census is a subject allocated exclusively to the Union Government (**Entry 69 in the Union List / List I of the Seventh Schedule**). State governments have no legislative competence to conduct a national census.
+17. **The Census Act, 1948 (Act No. 37 of 1948)**:
+18. **Confidentiality Clause (Section 15)**: Individual census records are strictly confidential and privileged. They are immune from production in any civil, criminal, or revenue court as evidence against the individual.
+19. **The Census Rules, 1990**: Notified under Section 18 of the Census Act to lay down administrative guidelines, schedules, and enumeration procedures.
+20. **Registrar General and Census Commissioner of India (RGCCI)**: The apex statutory civil authority in charge of planning, organizing, executing, and tabulating the decennial National Census and administering the **Registration of Births and Deaths Act, 1969**.
+21. **State/UT Level**: Headed by the **Director of Census Operations (DCO)**.
+22. **District Level**: The **District Magistrate / Collector** functions *ex-officio* as the **Principal Census Officer (PCO)**, assisted by Tahsildars / Sub-Divisional Magistrates as Charge Officers.
+23. **Phase 1: House Listing and Housing Census (HLO)**:
+24. **Phase 2: Population Enumeration (PE)**:
+25. **De Facto Method**: Individuals are counted strictly where they are physically present on the census reference night, regardless of their habitual or permanent residence. (Used in the UK and in historical British censuses).
+26. **De Jure Method**: Individuals are counted strictly at their normal/habitual place of residence, irrespective of where they happen to be on the enumeration night. (Used in the United States).
+27. **India's Adopted Method**: India follows an **extended de facto / modified de jure approach**. A person is enumerated at their place of normal residence if they have stayed there for the major part of the enumeration period (or are expected to stay during the reference period). Non-habitual visitors and homeless populations are counted on the night of 28th February.
+28. **Sex Ratio**: 912 — well below national average of 943
+29. **Child Sex Ratio**: 902 — significantly below national 919
+30. **Literacy gap**: 20.1 percentage points (M: 77.3% vs F: 57.2%) vs national 16.3%
+31. **Fertility rate**: TFR of ~3.1 (above national ~2.2) per SRS
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **First Census in Modern India**: **1872** (Lord Mayo, non-synchronous) | **First Synchronous Decennial Census**: **1881** (Lord Ripon, W. C. Plowden) | **Trap**: If the question asks for the *first census*, the answer is 1872. If it asks for the *first regular/complete decennial synchronous census*, the answer is strictly 1881. |
-| **National Sex Ratio (Census 2011)**: **943** (up by 10 from 933) | **Child Sex Ratio 0–6 Years (2011)**: **919** (declined by 8 from 927) | **Trap**: Overall sex ratio improved, but Child Sex Ratio *worsened* significantly in 2011. Do not confuse 943 with 919. |
-| **Highest SC Percentage State**: **Punjab (31.9%)** | **Highest SC Absolute Population State**: **Uttar Pradesh (4.14 Crore)** | **Trap**: UP has the most SC people in numbers, but Punjab has the highest SC population as a proportion of total state population. |
-| **Highest ST Percentage State**: **Mizoram (94.4%)** / Lakshadweep (94.8%) | **Highest ST Absolute Population State**: **Madhya Pradesh (1.53 Crore)** | **Trap**: MP has highest absolute tribal count; Mizoram/Lakshadweep have highest tribal concentration percentage. |
-| **States with ZERO Scheduled Tribes**: Punjab, Haryana, Delhi, Chandigarh, Puducherry | **States with ZERO Scheduled Castes**: Nagaland, Mizoram, Meghalaya, Lakshadweep, A&N | **Trap**: Punjab and Haryana have high SC populations but ZERO STs. Nagaland and Mizoram have high ST populations but ZERO SCs. |
-| **UP Highest Literacy District**: **Gautam Buddha Nagar (80.12%)** | **UP Highest Female Literacy District**: **Kanpur Nagar (75.05%)** | **Trap**: GB Nagar is #1 in overall and male literacy, but Kanpur Nagar is #1 in *female literacy* (GB Nagar female literacy is 70.82%). |
-| **UP Highest Sex Ratio District**: **Jaunpur (1,024)** | **UP Highest Child Sex Ratio District**: **Balrampur (950)** | **Trap**: Jaunpur is #1 in overall sex ratio; Balrampur is #1 in 0-6 child sex ratio. |
-| **Highest Density State**: **Bihar (1,106 / km²)** | **Highest Density UT**: **Delhi (11,320 / km²)** | **Trap**: In 2001, West Bengal was #1 state in density. In 2011, Bihar surpassed West Bengal to take 1st rank. |
-| **Lowest Decadal Growth State**: **Nagaland (-0.58%)** | **Second Lowest Decadal Growth State**: **Kerala (4.91%)** | **Trap**: Nagaland is the only state with negative growth (-0.58%). Kerala has the lowest *positive* growth among states. |
-| **Civil Registration System (CRS)**: Continuous legal registration of births/deaths | **Sample Registration System (SRS)**: Annual dual-record demographic sample survey | **Trap**: SRS provides official annual demographic estimates (IMR, TFR, CBR); CRS is administrative civil record registration. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 
 
 ---

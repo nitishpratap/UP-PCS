@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Daily Read — High-Yield Revision Facts (Medieval India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## 1. Delhi Sultanate Chronology & Dynastic Founders
 
@@ -333,7 +331,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Jizya: Religious protection tax levied on non-Muslim subjects (Zimmis):
 - **Exam Anchor:** Abolished by Akbar in 1564 CE (also abolished pilgrim tax in 1563).
@@ -343,8 +341,6 @@ hide:
 - **Exam Anchor:** Khams: State's share of spoils of war / war booty:
 - **Exam Anchor:** Alauddin Khalji and Muhammad bin Tughlaq reversed this rule: took 4/5th for the State and gave only 1/5th to the soldiers! Firoz Tughlaq restored orthodox rule.
 - **Exam Anchor:** Haqq-i-Sharb: Irrigation tax (levied at 10% of gross produce) introduced by Firoz Shah Tughlaq on peasants using state-constructed canals.
-
-</details>
 
 ---
 

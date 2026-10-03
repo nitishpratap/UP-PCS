@@ -11,9 +11,21 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Economy Topic 10 — International Financial Institutions, Economic Groupings and Global Summits</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **2025** | Bretton Woods twins set up together; **both HQ in Washington D.C.** — World Bank is **not** in New York. | Only statement 1 correct. |
+| **2025** | BIMSTEC members: Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand — **Indonesia is not**. | ASEAN distractor. |
+| **2023** | India’s G20 logo: lotus with **seven petals** = **seven continents**. | Both statements correct. |
+| **2023** | UP G20 venues included Agra, Varanasi, Greater Noida (and Lucknow) — **not Kanpur**. | Odd-city trap. |
+| **2022** | 5th BIMSTEC Summit (30 Mar 2022): Modi addressed; **chaired by Sri Lanka**, not India. | Only 1 true. |
+| **UKPCS 2025** | BRICS expansion members include Iran, Egypt, Ethiopia, UAE (2024) and **Indonesia (2025)**. | Membership multi-select. |
+| **UKPCS 2024/25** | ASEAN Secretariat **Jakarta**; BIMSTEC Permanent Secretariat **Dhaka**; MC-13 **Abu Dhabi** (Topic 9 neighbour). | HQ / venue traps. |
+
+---
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -30,24 +42,6 @@ hide:
 | **SAARC Kathmandu** | **BIMSTEC Dhaka** | Secretariat cities |
 | **G20** | **G7** | Major economies forum vs advanced-seven club |
 | **G20 lotus 7 petals** | **G20 member count** | Continents motif ≠ “20 petals” |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2025** | Bretton Woods twins set up together; **both HQ in Washington D.C.** — World Bank is **not** in New York. | Only statement 1 correct. |
-| **2025** | BIMSTEC members: Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand — **Indonesia is not**. | ASEAN distractor. |
-| **2023** | India’s G20 logo: lotus with **seven petals** = **seven continents**. | Both statements correct. |
-| **2023** | UP G20 venues included Agra, Varanasi, Greater Noida (and Lucknow) — **not Kanpur**. | Odd-city trap. |
-| **2022** | 5th BIMSTEC Summit (30 Mar 2022): Modi addressed; **chaired by Sri Lanka**, not India. | Only 1 true. |
-| **UKPCS 2025** | BRICS expansion members include Iran, Egypt, Ethiopia, UAE (2024) and **Indonesia (2025)**. | Membership multi-select. |
-| **UKPCS 2024/25** | ASEAN Secretariat **Jakarta**; BIMSTEC Permanent Secretariat **Dhaka**; MC-13 **Abu Dhabi** (Topic 9 neighbour). | HQ / venue traps. |
 
 ---
 
@@ -101,18 +95,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Bretton Woods Conference (1944) created the IMF and the IBRD (core of today’s World Bank) — popularly the Bretton Woods twins.
 - **Exam Anchor:** IMF headquarters: Washington D.C.
 - **Exam Anchor:** World Bank headquarters: also Washington D.C. — not New York (New York hosts the UN Secretariat).
 - **Exam Anchor:** IMF role teaching: monetary cooperation, exchange-rate surveillance, BoP support / conditional lending to member countries.
-- **Exam Anchor:** IMF does not lend to “any country” indiscriminately — membership and programme rules matter.
 - **Exam Anchor:** World Bank Group is a development-finance family aimed at poverty reduction and shared prosperity.
 - **Exam Anchor:** IBRD lends mainly to middle-income / creditworthy countries.
 - **Exam Anchor:** IDA provides concessional finance to the poorest countries.
-
-</details>
+- **Exam Anchor:** IFC focuses on private-sector development finance.
+- **Exam Anchor:** ADB (Asian Development Bank) — regional development bank; HQ Manila.
 
 ---
 

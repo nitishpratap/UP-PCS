@@ -33,7 +33,8 @@
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Uttarakhand sits in the **Himalaya** biogeographic zone with high endemism and steep altitudinal habitat belts from Tarai–Bhabar (भाबर) to alpine meadows.
 2. Forest and biodiversity richness is explained primarily by **topography and climate** packing many climatic zones into a short horizontal distance (A/R both true; R explains A).
@@ -58,9 +59,10 @@
 21. Treating Govind NP as **1989** is the planted chronology trap against Gangotri’s correct **1989**.
 22. Assertion that UK is biodiversity-rich without topography–climate explanation fails the classic A/R pair.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Key |
 |------|-----|
@@ -70,7 +72,7 @@
 | A true / R not explain | UKPCS keys **R explains A** |
 | NP vs WLS vs BR | Strict NP / regulated WLS / BR zonation — different legal and management ideas |
 
----
+</details>
 
 ## 2.1 Why Uttarakhand is biodiversity-rich
 

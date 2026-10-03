@@ -11,65 +11,66 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 2 — Religious and Philosophical Traditions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The six **Astika** (आस्तिक) schools that accept the Veda as pramana (प्रमाण) are **Nyaya–Gautama** (न्याय - गौतम), **Vaisheshika–Kanada** (वैशेषिक - कणाद), **Samkhya–Kapila** (सांख्य - कपिल), **Yoga–Patanjali** (योग - पतंजलि), **Mimamsa–Jaimini** (मीमांसा - जैमिनि), and **Vedanta–Badarayana** (वेदांत - बादरायण).
-2. The usual **Nastika** (नास्तिक) set is **Charvaka** (चार्वाक), **Buddhism** (बौद्ध धर्म), and **Jainism** (जैन धर्म). Add **Ajivika** (**Makkhali Gosala**) [आजीवक - मक्खलि गोसाल] when fate / *niyati* (नियति) appears in options.
+1. **Maha Kumbh** at Prayagraj ran from **13 January to 26 February 2025**, about **45** days.
+2. **Kumbh Mela** (कुंभ मेला) is on the UNESCO Intangible Heritage list from **2017**. It is not a tangible monument.
 3. **Nyaya** (न्याय) is logic and epistemology with four pramanas (प्रमाण). **Vaisheshika** (वैशेषिक) is atomism (*paramanu* / परमाणु). This Gautama is **not** the Buddha.
 4. **Samkhya** (सांख्य) is dualist Purusha–Prakriti (पुरुष-प्रकृति) with **25** tattvas (तत्त्व) and is classically **nirishvara** (निरीश्वरवाद). **Yoga** (योग) is its practical partner and adds **Ishvara** (ईश्वर).
 5. **Ashtanga Yoga** (अष्टांग योग) order is **yama** (यम), **niyama** (नियम), **asana** (आसन), **pranayama** (प्राणायाम), **pratyahara** (प्रत्याहार), **dharana** (धारणा), **dhyana** (ध्यान), **samadhi** (समाधि).
 6. **Purva Mimamsa** (पूर्व मीमांसा - Jaimini) treats Vedic **ritual** (कर्मकाण्ड). **Uttara Mimamsa / Vedanta** (उत्तर मीमांसा / वेदांत - Badarayana) treats the Upanishads. Kapila is **not** Vedanta.
 7. **Shankara** taught **Advaita** (अद्वैतवाद). **Ramanuja** taught **Vishishtadvaita** (विशिष्टद्वैतवाद). **Madhva** taught **Dvaita** (द्वैतवाद). **Nimbarka** taught **Dvaitadvaita** (द्वैताद्वैतवाद). **Vallabha** taught **Shuddhadvaita** (शुद्धाद्वैतवाद).
-8. Adi Shankara established four cardinal monastic centres (mathas) associated with the four Vedas: **Sringeri** (South — Yajurveda), **Dwaraka** (West — Samaveda), **Puri** (पुरी) (East — Rigveda), and **Jyotirmath / Badrinath** (North — Atharvaveda).
-9. Vedic stack order is **Samhita → Brahmana → Aranyaka → Upanishad**. *Tat tvam asi* is from the **Chandogya** Upanishad. **Brahman** is not the same word as **Brahmin**.
-10. Buddha’s life geography is **Lumbini** (birth), **Bodh Gaya** (बोधगया) in Bihar (enlightenment), **Sarnath** in UP (first sermon), and **Kushinagar** (कुशीनगर) in UP (death).
-11. Buddhist councils order is **Rajagriha → Vaishali → Pataliputra → Kundalvana**. *Milindapanha* (मिलिंदपन्ह) is dialogue of **Menander / Milinda** with **Nagasena** (नागसेन).
-12. **Theravada** (थेरवाद) aims at the arhat and uses Pali. **Mahayana** (महायान) aims at the Bodhisattva and uses Sanskrit.
-13. Jainism has **24** Tirthankaras. Key emblems include the **bull** for Rishabhanatha, the **serpent hood** for Parshvanatha, and the **lion** (सिंह) for Mahavira. Important Nirvana sites include **Ashtapad**, **Sammed Shikharji**, and **Pavapuri** (पावापुरी).
-14. **Parshva** taught four vows. **Mahavira** added **Brahmacharya** (ब्रह्मचर्य) as the fifth. The Svetambara canon has **12 Angas**.
-15. **Digambara** monks are sky-clad and deny women monks. **Svetambara** (श्वेताम्बर) monks wear white and admit women monks.
-16. **Anekantavada** (अनेकांतवाद) is many-sided reality. **Syadvada** (स्याद्वाद) is the seven-fold “syad” speech about that reality.
-17. Bhakti chronology often runs **Namdev → Kabir → Nanak → Chaitanya. Kabir** was a disciple of **Ramananda. Surdas** belongs to **Vallabha**’s line. **Tulsidas** (तुलसीदास) wrote in **Awadhi**.
-18. The southern Tamil Bhakti tradition flourished through the **12 Alvars** (Vaishnava poet-saints, with Andal as the sole woman saint) and the **63 Nayanars** (Shaiva poet-saints). The four revered Samayacharyas are **Appar, Sambandar, Sundarar, and Manikkavachakar**.
-19. **Chishti** Sufis at Ajmer / Delhi favour **sama** (समा / महफ़िल-ए-समा) and qawwali (क़व्वाली). **Suhrawardi** is linked with Multan. **Nizamuddin Auliya** belongs to **Delhi**.
-20. *Fawaid-ul-Fuad* records Nizamuddin’s conversations as compiled by **Amir Hasan Sijzi. Wahdat-ul-wujud** (वहदत-उल-वुजूद - Ibn Arabi) is not the same as **wahdat-ush-shuhud** (वहदत-उश-शुहूद - Sirhindi).
-21. Among the ten Sikh Gurus, **Angad** gave **Gurmukhi**, **Arjan** compiled the **Adi Granth** (आदि ग्रंथ), and **Gobind Singh** founded the **Khalsa** (खालसा) in **1699**.
-22. The five Sikh Takhts are **Akal Takht**, **Keshgarh Sahib**, **Damdama Sahib**, **Patna Sahib**, and **Hazur Sahib**.
-23. Pramana count traps: **Charvaka** accepts only one, **Nyaya** accepts four, and Mimamsa–Kumarila / Vedanta often accept **six**.
-24. The core Buddhist pilgrimage circuit in Uttar Pradesh comprises **Sarnath**, **Kushinagar**, **Shravasti**, **Sankisa**, and **Kaushambi** (कौशांबी). The national emblem (Lion Capital) is from Sarnath.
-25. Major Hindu and Bhakti heritage centres in Uttar Pradesh include **Kashi**, **Ayodhya** (अयोध्या), the **Braj** region of Surdas, the **Prayagraj Kumbh**, and Kabir’s memorial shrine (*samadhi*) at **Maghar**.
-26. **Kumbh Mela** is UNESCO **intangible** heritage (**2017**). It is not a monument World Heritage site.
-27. The white marble dargah of Sheikh Salim Chishti at **Fatehpur Sikri** (फतेहपुर सीकरी) is the preeminent Mughal-era Sufi pilgrimage site in Uttar Pradesh.
-28. The mound of **Kankali Tila** at Mathura is the landmark Uttar Pradesh archaeological site for ancient Jain art and inscriptions.
+8. **Theravada** (थेरवाद) aims at the arhat and uses Pali. **Mahayana** (महायान) aims at the Bodhisattva and uses Sanskrit.
+9. **Parshva** taught four vows. **Mahavira** added **Brahmacharya** (ब्रह्मचर्य) as the fifth. The Svetambara canon has **12 Angas**.
+10. **Digambara** monks are sky-clad and deny women monks. **Svetambara** (श्वेताम्बर) monks wear white and admit women monks.
+11. **Anekantavada** (अनेकांतवाद) is many-sided reality. **Syadvada** (स्याद्वाद) is the seven-fold “syad” speech about that reality.
+12. **Chishti** Sufis at Ajmer / Delhi favour **sama** (समा / महफ़िल-ए-समा) and qawwali (क़व्वाली). **Suhrawardi** is linked with Multan. **Nizamuddin Auliya** belongs to **Delhi**.
+13. **Kumbh Mela** is UNESCO **intangible** heritage (**2017**). It is not a monument World Heritage site.
+14. **Sringeri** is the southern matha. It is linked with **Yajurveda** (यजुर्वेद) and **Sureshvara**.
+15. **Dwaraka** is the western matha. It is linked with **Samaveda** (सामवेद) and **Hastamalaka**.
+16. **Puri / Govardhana** is the eastern matha. It is linked with **Rigveda** (ऋग्वेद) and **Padmapada**.
+17. **Jyotirmath / Badrinath** is the northern matha. It is linked with **Atharvaveda** (अथर्ववेद) and **Totaka**.
+18. **Charvaka** accepts **1** pramana — pratyaksha only.
+19. **Bauddha** (typical) accepts **2** — pratyaksha and anumana.
+20. **Samkhya / Yoga / Vaisheshika** accept **3** — pratyaksha, anumana, shabda.
+21. **Nyaya** accepts **4** — those three plus upamana.
+22. **Prabhakara Mimamsa** accepts **5** — adding arthapatti.
+23. **Kumarila Mimamsa / Vedanta** accept **6** — adding anupalabdhi (non-perception).
+24. **Rigveda** is the oldest Veda. Its priest is the **Hotr**. Its Upaveda is Ayurveda.
+25. **Samaveda** is the Veda of melody. Its priest is the **Udgatr**. Its Upaveda is Gandharvaveda.
+26. **Yajurveda** is the Veda of ritual and its priest is the **Adhvaryu**. It has Shukla and Krishna recensions. Its Upaveda is Dhanurveda.
+27. **Atharvaveda** deals with spells and healing. Its Upaveda is Arthashastra / Shilpaveda in variant lists.
+28. **Tat tvam asi** belongs to the **Chandogya** Upanishad.
+29. **Brahman** is ultimate reality — not **Brahmin** (varna). Related ideas are Atman, karma, samsara, and moksha.
+30. **Ananda** was the attendant. **Upali** recites the Vinaya.
+31. **Sariputta** and **Moggallana** were the chief disciples.
+32. **Anicca** means impermanence. **Anatta** (अनात्मवाद) means no permanent self (not Upanishadic Atman, not Jain jiva).
+33. **Theravada / Hinayana** holds the Arhat ideal, uses Pali, and spread in Sri Lanka–Myanmar–Thailand.
+34. **Mahayana** holds the Bodhisattva ideal (Avalokiteshvara / Padmapani, Manjushri, Maitreya, Tara, Vajrapani), uses Sanskrit, and spread in East Asia.
+35. **Vajrayana** (वज्रयान) is tantric. It is strong in Tibet, Bhutan, Ladakh, and Sikkim.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Astika | Nastika | Accepts Veda as pramana vs rejects Vedic authority | आस्तिक / नास्तिक |
-| Nyaya | Vaisheshika | Logic (Gautama) vs atomism (Kanada) | न्याय / वैशेषिक |
-| Samkhya | Yoga | Theory (25 tattva) vs 8-limb practice | सांख्य / योग |
-| Purva Mimamsa | Uttara Mimamsa | Ritual (Jaimini) vs Vedanta (Badarayana) | पूर्व / उत्तर मीमांसा |
-| Advaita | Vishishtadvaita / Dvaita | Shankara vs Ramanuja vs Madhva | अद्वैत / विशिष्टाद्वैत / द्वैत |
-| Anicca | Anatta | Impermanence vs no-self | अनित्य / अनात्म |
-| Theravada | Mahayana | Arhat / Pali vs Bodhisattva / Sanskrit | थेरवाद / महायान |
-| Digambara | Svetambara | Sky-clad; no women monks vs white-clad; women monks | दिगंबर / श्वेतांबर |
-| Anekantavada | Syadvada | Many-sided reality vs seven-fold “syad” speech | अनेकांतवाद / स्याद्वाद |
-| Saguna | Nirguna | Formed God vs formless Absolute | सगुण / निर्गुण |
-| Alvar | Nayanar | 12 Vaishnava vs 63 Shaiva (Tamil) | आलवार / नायनार |
-| Parshva’s 4 vows | Mahavira’s 5 | Brahmacharya is the added fifth | पार्श्व / महावीर व्रत |
-| Chishti | Naqshbandi | Sama/qawwali, open vs silent dhikr, Sharia-leaning | चिश्ती / नक्शबंदी |
-| Wujud | Shuhud | Unity of being (Ibn Arabi) vs unity of witness (Sirhindi) | वजूद / शुहूद |
-| Tangible WH | Intangible ICH | Monument (Qutub) vs living rite (Kumbh, Yoga) | मूर्त / अमूर्त |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. Nyaya Gautama ≠ Buddha; Kanada ≠ Nyaya; Patanjali ≠ Vaisheshika.
+2. Uttara Mimamsa = Vedanta/Badarayana, not Kapila.
+3. Ramanuja ≠ Dvaita (Madhva); Vallabha = Shuddhadvaita; Nimbarka = Dvaitadvaita.
+4. Sringeri = Yajur/South; Puri = Rig/East — do not swap.
+5. Brahman ≠ Brahmin; Tat tvam asi = Chandogya.
+6. First sermon = Sarnath (UP); enlightenment = Bodh Gaya (Bihar); death = Kushinagar (UP); birth = Lumbini (Nepal).
+7. Councils: Rajagriha first; 3rd = Ashoka/Pataliputra; 4th = Kundalvana/Kanishka.
+8. Milind Panho = Nagasena; Buddhacharita = Ashvaghosha; Nagarjuna = Shunya.
+9. Mahavira = 24th, lion, Pavapuri; Rishabha = bull/Ashtapad; Vasupujya ≠ Shikhar (Champapuri).
+10. Jain Triratna ≠ Buddhist Triratna; Middle Path ≠ Jainism.
+11. Alvars = Vishnu 12; Nayanars = Shiva 63; Andal = woman Alvar.
+12. Kabir ← Ramananda; Surdas ← Vallabha; Ramcharitmanas = Awadhi.
+13. Namdev → Kabir → Nanak → Chaitanya.
+14. Nizamuddin = Delhi not Multan; Fawaid = Hasan Sijzi not Khusrau.
+15. Khalsa = Gobind Singh 1699; Adi Granth = Arjan; Gurmukhi = Angad.
+16. Kumbh = intangible 2017; Qutub/Taj = tangible.
+17. Gangabai ≠ Ganesh Dev Leela; Daya Bai = Vinay Malika.
 
 
 ---

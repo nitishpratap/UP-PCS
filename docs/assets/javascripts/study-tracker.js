@@ -3564,12 +3564,12 @@
   }
 
   // -------------------------------------------------------------
-  // Dynamic Revision Collapsible Toggles (<details class="rev-toggle">)
+  // Dynamic Chapter Collapsible Toggles (<details class="st-chapter-toggle">)
   // -------------------------------------------------------------
   function enhanceRevisionToggles() {
-    const toggles = document.querySelectorAll('details.rev-toggle');
+    const toggles = document.querySelectorAll('details.st-chapter-toggle, details.rev-toggle');
     toggles.forEach(details => {
-      const hint = details.querySelector('.rev-toggle-hint');
+      const hint = details.querySelector('.st-toggle-hint, .rev-toggle-hint');
       if (!hint) return;
       const updateHint = () => {
         hint.textContent = details.open ? '(Click to Collapse)' : '(Click to Expand)';

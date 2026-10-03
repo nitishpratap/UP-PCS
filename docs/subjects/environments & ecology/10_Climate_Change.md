@@ -21,7 +21,8 @@ Global Warming (भूमंडलीय तापन) | Greenhouse Effect | Gre
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Global warming** is the long-term rise in average surface temperature. It is a subset of broader **climate change**, which also includes rainfall, extremes, and sea-level shifts.
 2. IPCC (आईपीसीसी) AR6 facts about **1.1°C** above 1850–1900 globally. India has warmed about **0.7°C** since 1901 (IMD class figure). Past-century surface rise is about **1°C ≈ 1.8°F**.
@@ -60,9 +61,10 @@ Global Warming (भूमंडलीय तापन) | Greenhouse Effect | Gre
 35. **Solar flares** are **not** a primary cause of recent climate change in standard NASA/IPCC framing.
 36. Farm practices that help soil carbon storage include **contour bunding, relay cropping, and zero tillage**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -73,7 +75,8 @@ Global Warming (भूमंडलीय तापन) | Greenhouse Effect | Gre
 | **Carbon Sink** | **Carbon Sequestration** | Natural or artificial reservoir that absorbs and stores more carbon than it releases into the atmosphere (oceans, boreal forests, soil) vs the actual physical, biological, or chemical process of capturing and securing carbon dioxide in long-term storage | कार्बन सिंक (अवशोषक भंडार) / कार्बन पृथक्करण (भंडारण प्रक्रिया) |
 | **Carbon Credit** | **Carbon Offset** | Formal tradable permit or certificate representing the reduction or removal of 1 metric tonne of CO₂ equivalent under a compliance cap-and-trade system vs voluntary purchase of emission reduction units to neutralize an individual's or company's carbon footprint | कार्बन क्रेडिट (1 टन CO₂e प्रमाण-पत्र) / कार्बन ऑफसेट |
 | **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Top-down legally binding emission reduction targets imposed exclusively on developed nations (Annex-I) with Common But Differentiated Responsibilities vs bottom-up universal framework requiring all countries to submit voluntary Nationally Determined Contributions (NDCs) aiming to cap warming well below 2.0°C/1.5°C | क्योटो प्रोटोकॉल (बाध्यकारी/विकसित देश) / पेरिस समझौता (सार्वभौमिक NDCs) |
----
+
+</details>
 
 ## Must-score facts — warming, GHGs, sinks
 

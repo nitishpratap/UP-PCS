@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Daily Read — High-Yield Revision Facts (Ancient India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Rigveda**: 10 Mandalas, 1,028 Suktas (hymns); 3rd Mandala contains **Gayatri Mantra** (composed by Vishvamitra dedicated to solar deity Savitr); 7th Mandala describes **Dasrajan Yudha** (Battle of 10 Kings on Parushni/Ravi river won by Sudas of Bharata tribe); 9th Mandala dedicated entirely to **Soma**; 10th Mandala contains **Purusha Sukta** (first mention of 4 Varnas).
 2. **Samaveda**: Book of chants / melodies (*Ragas*); origin of Indian classical music; chanted by *Udgatri* priests.
@@ -49,8 +48,6 @@ hide:
 33. **Kalyan (Calliena)** (Thane, Maharashtra).
 34. **Muziris / Kodungallur** (Periyar river mouth, Kerala): Roman trade hub; exported black pepper (**"Yavanapriya"**); temple of Augustus built here.
 35. **Nelcynda & Tyndis** (Kerala coast).
-
-</details>
 
 
 ---

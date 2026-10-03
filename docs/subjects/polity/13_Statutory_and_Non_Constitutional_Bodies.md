@@ -86,7 +86,8 @@ D. 2 and 3
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A **statutory body** is created by an **Act of Parliament or a State legislature**. It is not created by the Constitution (CAT is the special case that rides on **Article 323A**).
 2. The **Lokpal and Lokayuktas Act, 2013** creates a Chairperson and up to **eight** members, with **half** judicial and **half** from SC/ST/OBC (अन्य पिछड़ा वर्ग)/minorities/women. Term is **five years or age 70**. Removal is like a Supreme Court judge.
@@ -119,9 +120,10 @@ D. 2 and 3
 29. **Zonal Councils** are **statutory** under the **States Reorganisation Act, 1956** (five zones). The **Union Home Minister** is the common chair. Uttar Pradesh sits in the **Central** Zonal Council (HQ **Prayagraj**). The **North Eastern Council** is a separate **1971** Act body — not a sixth Zonal Council.
 30. The **Law Commission of India** is an **executive / extra-constitutional** advisory body (usually a **three-year** term under the Ministry of Law and Justice). The first Law Commission of independent India (**1955**) was chaired by **M.C. Setalvad**. It is **not** a constitutional body and **not** created by a standing statute.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
@@ -139,7 +141,7 @@ D. 2 and 3
 | **IB** | **RAW** | Internal; **1887**; MHA | External; **1968**; Cabinet Secretariat |
 | **ED** | **CBI** | FEMA / PMLA; Finance (Revenue) | General crime / PCA; DoPT |
 
----
+</details>
 
 ## Must-score facts — Lokpal, CVC, RTI, NITI
 

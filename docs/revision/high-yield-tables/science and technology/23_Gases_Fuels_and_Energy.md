@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chemistry Topic 6 — Gases, Fuels, Energy and Combustion</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (2024–2026)
+
+| Year | Event | Core Concept & Must-Score Significance |
+|------|--------------|-----------------------------------|
+| **2025–2026** | **National Green Hydrogen Mission** | Targeted green hydrogen production capacity of $5\text{ MMT}$ per annum by 2030. Hydrogen ($H_2$) possesses the **highest gravimetric calorific value of all fuels ($150,000\text{ kJ/kg}$)** and burns to produce pure water ($2H_2 + O_2 \to 2H_2O$) with zero greenhouse gas emissions. |
+| **2025** | **UPPCS Prelims 2025** | Direct question on **Biogas Major Constituents**: Keyed strictly as **Methane ($CH_4$, $55–70\%$) + Carbon Dioxide ($CO_2$, $30–45\%$)**. Distractors like Butane (LPG) and Carbon Monoxide (Water/Producer gas) were eliminated. |
+| **2024–2025** | **E20 Ethanol Blending Target** | India successfully rolled out **E20 Fuel** ($20\%$ bio-ethanol blended with $80\%$ motor gasoline/petrol) nationwide across retail fuel pumps, advancing the target date from 2030 to 2025. Ethanol acts as a high-octane oxygenate reducing carbon monoxide tailpipe emissions. |
+| **2022** | **UPPCS Prelims 2022** | Re-tested identity of **CNG** and **Natural Gas**: Both consist predominantly of **Methane ($CH_4$, $>85\%$)**. Mechanical compression to $200\text{ bar}$ does not alter the fundamental chemical identity of the gas. |
+| **2021** | **UPPCS Prelims 2021** | Tested **LPG Primary Constituent**: Correctly keyed as **Butane** (together with propane). Highlighted the role of **Ethyl Mercaptan ($C_2H_5SH$)** as the vital foul-smelling leak indicator added to odorless LPG cylinders. |
+
+---
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -25,22 +35,6 @@ hide:
 | **1G Biofuel vs. 2G Biofuel** | **1G Biofuel**: Produced from **edible food crops** (sugarcane molasses, corn, grain). Direct competitor to human food security. | **2G Biofuel**: Produced from **non-food agricultural residues** (rice straw, wheat stalk, bagasse). Zero food security conflict. | **Feedstock Source**: 1G uses food grains/sugars; 2G uses inedible agricultural biomass and crop residues. |
 | **Boyle's Law vs. Charles's Law** | **Boyle's Law**: Relates Pressure and Volume at **constant Temperature** ($P_1V_1 = P_2V_2$). | **Charles's Law**: Relates Volume and Temperature at **constant Pressure** ($V_1/T_1 = V_2/T_2$). | **Constant Variable**: Boyle's law holds $T$ constant; Charles's law holds $P$ constant. |
 | **Complete vs. Incomplete Combustion** | **Complete Combustion**: Excess oxygen; blue non-luminous flame; products strictly **$CO_2 + H_2O$**. | **Incomplete Combustion**: Deficient oxygen; yellow luminous flame; yields toxic **$CO$ and carbon soot**. | **Byproduct Toxicity**: Complete combustion yields non-toxic $CO_2$; incomplete combustion generates lethal, odorless $CO$. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (2024–2026)
-
-| Year | Event | Core Concept & Must-Score Significance |
-|------|--------------|-----------------------------------|
-| **2025–2026** | **National Green Hydrogen Mission** | Targeted green hydrogen production capacity of $5\text{ MMT}$ per annum by 2030. Hydrogen ($H_2$) possesses the **highest gravimetric calorific value of all fuels ($150,000\text{ kJ/kg}$)** and burns to produce pure water ($2H_2 + O_2 \to 2H_2O$) with zero greenhouse gas emissions. |
-| **2025** | **UPPCS Prelims 2025** | Direct question on **Biogas Major Constituents**: Keyed strictly as **Methane ($CH_4$, $55–70\%$) + Carbon Dioxide ($CO_2$, $30–45\%$)**. Distractors like Butane (LPG) and Carbon Monoxide (Water/Producer gas) were eliminated. |
-| **2024–2025** | **E20 Ethanol Blending Target** | India successfully rolled out **E20 Fuel** ($20\%$ bio-ethanol blended with $80\%$ motor gasoline/petrol) nationwide across retail fuel pumps, advancing the target date from 2030 to 2025. Ethanol acts as a high-octane oxygenate reducing carbon monoxide tailpipe emissions. |
-| **2022** | **UPPCS Prelims 2022** | Re-tested identity of **CNG** and **Natural Gas**: Both consist predominantly of **Methane ($CH_4$, $>85\%$)**. Mechanical compression to $200\text{ bar}$ does not alter the fundamental chemical identity of the gas. |
-| **2021** | **UPPCS Prelims 2021** | Tested **LPG Primary Constituent**: Correctly keyed as **Butane** (together with propane). Highlighted the role of **Ethyl Mercaptan ($C_2H_5SH$)** as the vital foul-smelling leak indicator added to odorless LPG cylinders. |
 
 ---
 
@@ -177,18 +171,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A Fuel is any combustible substance containing chemical energy that undergoes controlled exothermal reaction with oxygen to generate useful thermal energy.
-- **Exam Anchor:** An Ideal Fuel possesses: high calorific value, moderate ignition temperature (neither too low nor too high), low moisture content, burns without producing poisonous gases or ash, and is safe and economical to transport.
 - **Exam Anchor:** Calorific Value is the total quantity of heat liberated by the complete combustion of a unit mass ($1\text{ kg}$) or unit volume ($1\text{ m}^3$) of a fuel, expressed in $\text{kJ/kg}$ or $\text{kcal/kg}$.
 - **Exam Anchor:** Hydrogen ($H2$) has the highest calorific value of all known fuels ($150,000\text{ kJ/kg}$), roughly $3$ times higher than petrol or diesel.
-- **Exam Anchor:** Despite its immense calorific value, hydrogen is not yet used as a common domestic fuel because of its high flammability, wide explosion limits ($4–75\%$ in air), low ignition energy, and technical difficulty in liquefying and storing it under high pressures.
 - **Exam Anchor:** Master Hierarchy of Calorific Values ($\text{kJ/kg}$):
 - **Exam Anchor:** LPG (Liquefied Petroleum Gas):
-- **Exam Anchor:** Sourced as a byproduct of petroleum crude fractional distillation and natural gas processing.
-
-</details>
+- **Exam Anchor:** Ethyl Mercaptan (Ethanethiol, $C2H5SH$): Natural alkane gases (butane, propane, methane) are completely colorless and odorless. To detect accidental leaks instantly and prevent catastrophic household explosions, a minute concentration of foul, pungent Ethyl Mercaptan (resembling the odor of rotten cabbages or sulfur) is deliberately blended into commercial LPG cylinders.
+- **Exam Anchor:** Natural Gas: Naturally occurring gaseous fossil fuel extracted from underground geological reservoirs (often associated with crude petroleum deposits). Composed predominantly of Methane ($CH4$, $85–95\%$), with minor fractions of ethane ($C2H6$), propane, butane, and traces of nitrogen and $CO2$.
+- **Exam Anchor:** CNG (Compressed Natural Gas):
+- **Exam Anchor:** LNG (Liquefied Natural Gas):
 
 ---
 
@@ -200,7 +192,7 @@ hide:
 
 Which of the following is correct regarding this topic?
 
-A. A Fuel is any combustible substance containing chemical energy that undergoes controlled exothermal reaction with oxygen to generate useful thermal energy.
+A. Calorific Value is the total quantity of heat liberated by the complete combustion of a unit mass ($1\text{ kg}$) or unit volume ($1\text{ m}^3$) of a fuel, expressed in $\text{kJ/kg}$ or $\text{kcal/kg}$.
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
@@ -211,7 +203,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** A **Fuel** is any combustible substance containing chemical energy that undergoes controlled exothermal reaction with oxygen to generate useful thermal energy.
+- **Key Exam Association:** **Calorific Value** is the total quantity of heat liberated by the complete combustion of a unit mass ($1\text{ kg}$) or unit volume ($1\text{ m}^3$) of a fuel, expressed in **$\text{kJ/kg}$** or $\text{kcal/kg}$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -219,8 +211,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, An applies only to union territories and not state jurisdictions.
-B. An Ideal Fuel possesses: high calorific value, moderate ignition temperature (neither too low nor too high), low moisture content, burns without producing poisonous gases or ash, and is safe and economical to transport.
+A. Contrary to standard doctrine, Hydrogen applies only to union territories and not state jurisdictions.
+B. Hydrogen ($H2$) has the highest calorific value of all known fuels ($150,000\text{ kJ/kg}$), roughly $3$ times higher than petrol or diesel.
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -230,7 +222,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** An **Ideal Fuel** possesses: high calorific value, moderate ignition temperature (neither too low nor too high), low moisture content, burns without producing poisonous gases or ash, and is safe and economical to transport.
+- **Key Exam Association:** **Hydrogen ($H_2$)** has the **highest calorific value of all known fuels ($150,000\text{ kJ/kg}$)**, roughly $3$ times higher than petrol or diesel.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -238,9 +230,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Calorific applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Master applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. Calorific Value is the total quantity of heat liberated by the complete combustion of a unit mass ($1\text{ kg}$) or unit volume ($1\text{ m}^3$) of a fuel, expressed in $\text{kJ/kg}$ or $\text{kcal/kg}$.
+C. Master Hierarchy of Calorific Values ($\text{kJ/kg}$):
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -249,7 +241,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Calorific Value** is the total quantity of heat liberated by the complete combustion of a unit mass ($1\text{ kg}$) or unit volume ($1\text{ m}^3$) of a fuel, expressed in **$\text{kJ/kg}$** or $\text{kcal/kg}$.
+- **Key Exam Association:** **Master Hierarchy of Calorific Values ($\text{kJ/kg}$)**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -257,10 +249,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Hydrogen applies only to union territories and not state jurisdictions.
+A. Recognized by UNESCO under World Heritage natural criteria
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Hydrogen ($H2$) has the highest calorific value of all known fuels ($150,000\text{ kJ/kg}$), roughly $3$ times higher than petrol or diesel.
+D. LPG (Liquefied Petroleum Gas):
 
 <details>
 <summary>Show answer</summary>
@@ -268,7 +260,7 @@ D. Hydrogen ($H2$) has the highest calorific value of all known fuels ($150,000\
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Hydrogen ($H_2$)** has the **highest calorific value of all known fuels ($150,000\text{ kJ/kg}$)**, roughly $3$ times higher than petrol or diesel.
+- **Key Exam Association:** **LPG (Liquefied Petroleum Gas)**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -276,7 +268,7 @@ D. Hydrogen ($H2$) has the highest calorific value of all known fuels ($150,000\
 
 Which of the following is correct regarding this topic?
 
-A. Despite its immense calorific value, hydrogen is not yet used as a common domestic fuel because of its high flammability, wide explosion limits ($4–75\%$ in air), low ignition energy, and technical difficulty in liquefying and storing it under high pressures.
+A. Ethyl Mercaptan (Ethanethiol, $C2H5SH$): Natural alkane gases (butane, propane, methane) are completely colorless and odorless. To detect accidental leaks instantly and prevent catastrophic household explosions, a minute concentration of foul, pungent Ethyl Mercaptan (resembling the odor of rotten cabbages or sulfur) is deliberately blended into commercial LPG cylinders.
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -287,7 +279,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Despite its immense calorific value, hydrogen is not yet used as a common domestic fuel because of its high flammability, wide explosion limits ($4–75\%$ in air), low ignition energy, and technical difficulty in liquefying and storing it under high pressures.
+- **Key Exam Association:** **Ethyl Mercaptan (Ethanethiol, $C_2H_5SH$)**: Natural alkane gases (butane, propane, methane) are completely colorless and odorless. To detect accidental leaks instantly and prevent catastrophic household explosions, a minute concentration of foul, pungent **Ethyl Mercaptan** (resembling the odor of rotten cabbages or sulfur) is deliberately blended into commercial LPG cylinders.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -295,8 +287,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Master applies only to union territories and not state jurisdictions.
-B. Master Hierarchy of Calorific Values ($\text{kJ/kg}$):
+A. Contrary to standard doctrine, Natural applies only to union territories and not state jurisdictions.
+B. Natural Gas: Naturally occurring gaseous fossil fuel extracted from underground geological reservoirs (often associated with crude petroleum deposits). Composed predominantly of Methane ($CH4$, $85–95\%$), with minor fractions of ethane ($C2H6$), propane, butane, and traces of nitrogen and $CO2$.
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -306,7 +298,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Master Hierarchy of Calorific Values ($\text{kJ/kg}$)**:
+- **Key Exam Association:** **Natural Gas**: Naturally occurring gaseous fossil fuel extracted from underground geological reservoirs (often associated with crude petroleum deposits). Composed predominantly of **Methane ($CH_4$, $85–95\%$)**, with minor fractions of ethane ($C_2H_6$), propane, butane, and traces of nitrogen and $CO_2$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -316,7 +308,7 @@ Which of the following is correct regarding this topic?
 
 A. Amended by the 44th Constitutional Amendment Act
 B. Excavated primarily in the Belan and Son River valleys
-C. LPG (Liquefied Petroleum Gas):
+C. CNG (Compressed Natural Gas):
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -325,7 +317,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **LPG (Liquefied Petroleum Gas)**:
+- **Key Exam Association:** **CNG (Compressed Natural Gas)**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -333,10 +325,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Sourced applies only to union territories and not state jurisdictions.
+A. Excavated primarily in the Belan and Son River valleys
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. Sourced as a byproduct of petroleum crude fractional distillation and natural gas processing.
+D. LNG (Liquefied Natural Gas):
 
 <details>
 <summary>Show answer</summary>
@@ -344,7 +336,7 @@ D. Sourced as a byproduct of petroleum crude fractional distillation and natural
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Sourced as a byproduct of petroleum crude fractional distillation and natural gas processing.
+- **Key Exam Association:** **LNG (Liquefied Natural Gas)**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -352,7 +344,7 @@ D. Sourced as a byproduct of petroleum crude fractional distillation and natural
 
 Which of the following is correct regarding this topic?
 
-A. Primarily composed of n-Butane and Isobutane ($\approx 60\%$) with Propane ($\approx 40\%$). In standard state PCS questions where single choices are given, Butane is the primary constituent.
+A. Biogas (Gobar Gas):
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -363,7 +355,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Primarily composed of **n-Butane and Isobutane ($\approx 60\%$)** with **Propane ($\approx 40\%$)**. In standard state PCS questions where single choices are given, **Butane** is the primary constituent.
+- **Key Exam Association:** **Biogas (Gobar Gas)**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -371,8 +363,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Liquefies applies only to union territories and not state jurisdictions.
-B. Liquefies under moderate pressure ($6–8\text{ bar}$) inside steel cylinders at room temperature, expanding $\approx 250$ times into gas upon release through the pressure regulator.
+A. Contrary to standard doctrine, Water applies only to union territories and not state jurisdictions.
+B. Water Gas (Synthesis Gas / Syngas):
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -382,7 +374,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Liquefies under moderate pressure ($6–8\text{ bar}$) inside steel cylinders at room temperature, expanding $\approx 250$ times into gas upon release through the pressure regulator.
+- **Key Exam Association:** **Water Gas (Synthesis Gas / Syngas)**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -390,9 +382,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Ethyl applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Coal applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. Ethyl Mercaptan (Ethanethiol, $C2H5SH$): Natural alkane gases (butane, propane, methane) are completely colorless and odorless. To detect accidental leaks instantly and prevent catastrophic household explosions, a minute concentration of foul, pungent Ethyl Mercaptan (resembling the odor of rotten cabbages or sulfur) is deliberately blended into commercial LPG cylinders.
+C. Coal Classification & Ranks (by increasing geological age, carbon content, and calorific value):
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -401,7 +393,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Ethyl Mercaptan (Ethanethiol, $C_2H_5SH$)**: Natural alkane gases (butane, propane, methane) are completely colorless and odorless. To detect accidental leaks instantly and prevent catastrophic household explosions, a minute concentration of foul, pungent **Ethyl Mercaptan** (resembling the odor of rotten cabbages or sulfur) is deliberately blended into commercial LPG cylinders.
+- **Key Exam Association:** **Coal Classification & Ranks** (by increasing geological age, carbon content, and calorific value):
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -409,10 +401,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Natural applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Peat: applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Natural Gas: Naturally occurring gaseous fossil fuel extracted from underground geological reservoirs (often associated with crude petroleum deposits). Composed predominantly of Methane ($CH4$, $85–95\%$), with minor fractions of ethane ($C2H6$), propane, butane, and traces of nitrogen and $CO2$.
+D. Peat: Earliest geological stage of coal formation; brown fibrous mass containing $<60\%$ Carbon, high moisture ($>70\%$), burns with heavy smoke and low calorific value ($10,000–15,000\text{ kJ/kg}$).
 
 <details>
 <summary>Show answer</summary>
@@ -420,7 +412,7 @@ D. Natural Gas: Naturally occurring gaseous fossil fuel extracted from undergrou
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Natural Gas**: Naturally occurring gaseous fossil fuel extracted from underground geological reservoirs (often associated with crude petroleum deposits). Composed predominantly of **Methane ($CH_4$, $85–95\%$)**, with minor fractions of ethane ($C_2H_6$), propane, butane, and traces of nitrogen and $CO_2$.
+- **Key Exam Association:** **Peat**: Earliest geological stage of coal formation; brown fibrous mass containing **$<60\%$ Carbon**, high moisture ($>70\%$), burns with heavy smoke and low calorific value ($10,000–15,000\text{ kJ/kg}$).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -428,7 +420,7 @@ D. Natural Gas: Naturally occurring gaseous fossil fuel extracted from undergrou
 
 Which of the following is correct regarding this topic?
 
-A. CNG (Compressed Natural Gas):
+A. Lignite ("Brown Coal"): Soft, crumbly coal containing $60–70\%$ Carbon and high residual moisture; lowest commercial rank of coal. In India, massive deposits are mined at Neyveli (Tamil Nadu) for thermal power generation.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -439,7 +431,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **CNG (Compressed Natural Gas)**:
+- **Key Exam Association:** **Lignite ("Brown Coal")**: Soft, crumbly coal containing **$60–70\%$ Carbon** and high residual moisture; lowest commercial rank of coal. In India, massive deposits are mined at **Neyveli (Tamil Nadu)** for thermal power generation.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -447,8 +439,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Chemically applies only to union territories and not state jurisdictions.
-B. Chemically identical to Natural Gas; composed primarily of Methane ($CH4$, $>85\%$).
+A. Contrary to standard doctrine, Bituminous applies only to union territories and not state jurisdictions.
+B. Bituminous Coal ("Soft Coal" / Commercial Coal): The most abundant and widely used commercial coal; black, dense, contains $75–85\%$ Carbon and low moisture; standard fuel for thermal electricity generation and metallurgical coking in blast furnaces.
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -458,7 +450,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Chemically identical to Natural Gas; composed primarily of **Methane ($CH_4$, $>85\%$)**.
+- **Key Exam Association:** **Bituminous Coal ("Soft Coal" / Commercial Coal)**: The most abundant and widely used commercial coal; black, dense, contains **$75–85\%$ Carbon** and low moisture; standard fuel for thermal electricity generation and metallurgical coking in blast furnaces.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -466,9 +458,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Compressed applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Anthracite applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Compressed to a high pressure of $200\text{ to }250\text{ bar}$ ($20–25\text{ MPa}$) inside high-strength composite vehicle cylinders.
+C. Anthracite Coal ("Hard Coal"): The highest rank and geologically oldest coal; black, lustrous, contains $>90–95\%$ Carbon; burns slowly with a smokeless, pale blue flame, minimal ash, and the highest calorific value ($\approx 33,000\text{ kJ/kg}$). In India, found exclusively in small deposits in Jammu and Kashmir (Kalakot, Reasi).
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -477,6 +469,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Compressed to a high pressure of **$200\text{ to }250\text{ bar}$** ($20–25\text{ MPa}$) inside high-strength composite vehicle cylinders.
+- **Key Exam Association:** **Anthracite Coal ("Hard Coal")**: The highest rank and geologically oldest coal; black, lustrous, contains **$>90–95\%$ Carbon**; burns slowly with a smokeless, pale blue flame, minimal ash, and the highest calorific value ($\approx 33,000\text{ kJ/kg}$). In India, found exclusively in small deposits in **Jammu and Kashmir (Kalakot, Reasi)**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

@@ -21,7 +21,8 @@ Microplastics | Carbon Credit (कार्बन क्रेडिट) | Carbo
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 26 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Microplastics** are plastic fragments **smaller than 5 mm**. Primary sources include microbeads; secondary sources come from larger plastic breaking down. They are not “fast biodegradable.”
 2. Microplastics enter food webs from plankton to fish to humans. India’s identified single-use plastic bans tightened around **2022**. UN plastics treaty talks (INC) also run from that period.
@@ -50,9 +51,10 @@ Microplastics | Carbon Credit (कार्बन क्रेडिट) | Carbo
 25. Offset means using credits to compensate one’s own emissions — related to, but not identical with, “trading” as a market design.
 26. Keep MISHTI dated **2023**, not 2019, when mangrove restoration is asked.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -62,7 +64,8 @@ Microplastics | Carbon Credit (कार्बन क्रेडिट) | Carbo
 | **Blue Economy** | **Blue Carbon** | Sustainable utilization of ocean, coastal, and marine resources for economic growth, improved livelihoods, and jobs while preserving marine ecosystem health vs organic carbon captured, sequestered, and stored over centuries by coastal marine ecosystems (mangroves, seagrasses, salt marshes) | नीली अर्थव्यवस्था (महासागरीय संधारणीय विकास) / नीला कार्बन (तटीय मैंग्रोव संचित कार्बन) |
 | **Green Finance** | **Greenwashing** | Structured financial investments, bonds, and banking loans directed specifically towards environmentally sustainable development and clean energy projects vs deceptive marketing, publicity, or PR spin falsely exaggerating a company's environmental credentials and sustainability | हरित वित्त (टिकाऊ निवेश) / ग्रीनवॉशिंग (झूठा पर्यावरण प्रचार) |
 | **Mission LiFE (2022)** | **Lifestyle for Environment** | Global citizen movement launched in October 2022 at Kevadia by PM Modi and UN Secretary-General mobilizing individuals to become 'Pro-Planet People' (P3) through 75 actionable behavioral changes vs abstract corporate environmental pledges | मिशन लाइफ (LiFE, P3 नागरिक आंदोलन) / जीवनशैली पर्यावरण |
----
+
+</details>
 
 ## Must-score facts — carbon markets, net zero, LiFE
 

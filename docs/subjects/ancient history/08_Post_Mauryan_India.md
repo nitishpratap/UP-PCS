@@ -15,7 +15,8 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 ---
 
-## Consolidated — 45 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The Mauryan empire ended in **185 BCE** when general **Pushyamitra Shunga** (पुष्यमित्र शुंग) killed the last Mauryan **Brihadratha**. The **Shungas** then ruled Magadha about **185–73 BCE**, and the short **Kanva** (कण्व) house followed about **73–28 BCE**.
 2. Pushyamitra’s **two ashwamedhas** are recorded in the **Ayodhya** (अयोध्या) inscription of Dhanadeva. That record is **not** Besnagar and **not** Hathigumpha.
@@ -63,9 +64,10 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 44. A **Pandya** king sent an ambassador to **Rome in 26 BCE**. Pandya heartland lies south of the Kaveri around **Madurai**; the river of that core is the **Vaigai** (some MCQ banks print it as “Vengi” — do not confuse with Eastern Chalukya **Vengi**).
 45. **Udiyanjiral** belongs to the **Chera** line and is often treated as the first historical Chera of the Sangam age. Chera capital memory is **Vanji / Vanchi / Karuvur (Karur)**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -88,7 +90,7 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 | Arikamedu / Poduke | Tamralipti | Coromandel Roman station vs Ganga-mouth Bay port | अरिकामेडु / ताम्रलिप्ति |
 | Muvendar | Pallava / Kadamba | Sangam trio only vs later Kanchi / Vanavasi houses | मुवेन्दर / पल्लव–कदम्ब |
 
----
+</details>
 
 ## Must-score facts — Shunga, Satavahana, Sangam, Kushan
 

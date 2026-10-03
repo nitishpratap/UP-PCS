@@ -30,7 +30,8 @@ Governor | Governor's Discretionary Powers | Absolute (निरपेक्ष)
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Part VI** covers the State Executive: **Governor + Chief Minister + Council of Ministers + Advocate General**. The Governor is the **nominal** head; the CoM headed by the CM is the **real** executive.
 2. **Article 153** creates the office of Governor. The **7th Amendment** proviso allows the **same person** to be Governor of **two or more States**.
@@ -61,9 +62,10 @@ Governor | Governor's Discretionary Powers | Absolute (निरपेक्ष)
 27. The CM need not be from the Assembly alone: a Council member can be CM, and a non-member may be CM for up to **six months** while getting elected.
 28. Sarkaria (सरकारिया आयोग) conventions (outsider, detached from active politics, consult CM) are political expectations, often broken; Punchhi (पुंछी आयोग)’s fixed-tenure / impeachment-like removal idea was **not implemented**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -82,7 +84,7 @@ Governor | Governor's Discretionary Powers | Absolute (निरपेक्ष)
 | LC Chairman | Governor as automatic Chair | Council elects its **own** Chairman from members | परिषद सभापति |
 | One Governor, one State | 7th Amd proviso | Same person **may** govern two or more States | एक व्यक्ति दो राज्य |
 
----
+</details>
 
 ## Must-score facts — Governor, CM, AG, legislature
 

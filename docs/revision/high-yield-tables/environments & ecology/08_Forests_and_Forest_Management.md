@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 8 — Forests & Forest Management</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Joint Forest Management (JFM)** | **Community Forest Resource (CFR)** | Collaborative institutional partnership between state forest department and village committees to protect and regenerate degraded forests vs statutory community ownership and governance right recognized under Section 3(1)(i) of FRA 2006 | संयुक्त वन प्रबंधन (JFM) / सामुदायिक वन संसाधन अधिकार (CFR) |
 | **Tropical Wet Evergreen Forest** | **Tropical Moist Deciduous Forest** | Dense multi-layered forest with rainfall >200 cm, no distinct leafless season (Ebony, Mahogany, Rosewood) vs most widespread forest in India with rainfall 100–200 cm, shedding leaves for 6–8 weeks in dry spring (Teak, Sal, Shisham) | उष्णकटिबंधीय आर्द्र सदाबहार / उष्णकटिबंधीय नम पर्णपाती वन |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Cover definitions
 
@@ -152,18 +146,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Forest cover (वन आवरण) in ISFR means a patch of at least 1 ha with canopy ≥10%, on any land ownership.
-- **Exam Anchor:** Canopy classes: VDF ≥70%, MDF 40–70%, OF 10–40%.
-- **Exam Anchor:** ISFR 2023 India figures: forest cover about 21.76%, tree cover (वृक्ष आवरण) about 3.41%, total green cover about 25.17%. ISFR 2021 held forest cover at about 21.71% and forest+tree cover about 24.62% (still used in older stems).
 - **Exam Anchor:** Madhya Pradesh has the largest forest area. Mizoram has the highest percentage cover among States. Arunachal Pradesh often leads very dense forest area.
 - **Exam Anchor:** Forest cover ≠ Recorded Forest Area ≠ tree cover. Recorded forest area is a legal-notification figure near about 23%.
-- **Exam Anchor:** Under the Indian Forest Act, 1927, Reserved Forest is strictest (acts banned unless permitted). Protected Forest is State-regulated with some customary rights possible.
 - **Exam Anchor:** Champion and Seth (1968) classify Indian forests into 16 types in 6 groups. The largest share is Tropical Dry Deciduous (about 38%).
 - **Exam Anchor:** Tropical wet evergreen (>200 cm rain) holds maximum plant diversity / biomass among common options — Western Ghats (पश्चिमी घाट), NE hills, A&N (not Himachal (हिमाचल) as wet evergreen).
-
-</details>
+- **Exam Anchor:** Teak dominates tropical moist deciduous forests; Madhya Pradesh has the maximum teak area among common options.
+- **Exam Anchor:** Red Sanders (Pterocarpus santalinus) is a dry-deciduous South India endemic (Palkonda–Seshachalam / southern Eastern Ghats (पूर्वी घाट)) — not a tropical rainforest tree.
+- **Exam Anchor:** Taxus (Himalaya (हिमालय); Red Data) yields taxol (anti-cancer; also cited vs Parkinson’s in older stems).
+- **Exam Anchor:** Amazon rainforest is often called the “lungs of the Earth” (~20% of terrestrial photosynthetic oxygen share in coaching figures).
 
 ---
 

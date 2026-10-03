@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>UP Special Topic 2 — History, Culture, Art and Heritage of Uttar Pradesh</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -29,18 +35,6 @@ hide:
 | **Hathras Nautanki** | **Kanpur Nautanki** | Hathras style is **classical, musical, poetic**; Kanpur style is **theatrical, prose-driven, dialogue-oriented**. |
 | **Kirana Gharana** | **Atrauli Gharana** | Kirana (Shamli) was founded by **Abdul Karim Khan**; Atrauli (Aligarh) was founded by **Alladiya Khan**. |
 | **Annexation of Awadh (1856)** | **Annexation of Jhansi (1853)** | Awadh was annexed for **alleged misrule** (Outram Report); Jhansi was annexed under the **Doctrine of Lapse**. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -181,18 +175,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** 8 of the 16 Mahajanapadas of the 6th century BCE were located in present-day Uttar Pradesh.
-- **Exam Anchor:** The Sohgaura Copper Plate Inscription in Gorakhpur is the earliest known record of state drought relief and famine storehouses in India.
-- **Exam Anchor:** Lord Buddha delivered his first sermon (Dharmachakrapravartana) at Sarnath (Varanasi) in the presence of 5 ascetics.
-- **Exam Anchor:** Lord Buddha spent the maximum number of rainy-season retreats (25 Varshavas) at Shravasti (Sahet-Mahet).
-- **Exam Anchor:** Lord Buddha attained Mahaparinirvana at Kushinagar (Kasia) in 483 BCE on the banks of the Hiranyavati River.
-- **Exam Anchor:** The Lion Capital of Ashoka at Sarnath was officially adopted as the National Emblem of India on 26 January 1950.
 - **Exam Anchor:** Prayag Prashasti (Allahabad Pillar) was composed in classical Sanskrit by court poet Harishena eulogizing Samudragupta.
-- **Exam Anchor:** The Bhitari Pillar Inscription in Ghazipur district records Emperor Skandagupta's crushing defeat of the invading Hunas.
-
-</details>
+- **Exam Anchor:** Dashavatara Temple at Deogarh (Lalitpur) is one of the earliest surviving Gupta stone panchayatana temples.
+- **Exam Anchor:** Bhitargaon Temple in Kanpur is the oldest surviving terraced brick temple with a shikhara and true arches in India.
+- **Exam Anchor:** Kannauj was the imperial capital of Emperor Harshavardhana and the prize of the 8th–10th century Tripartite Struggle.
+- **Exam Anchor:** Agra was founded by Sultan Sikandar Lodi in 1504, who shifted the Sultanate capital there in 1506.
+- **Exam Anchor:** Jaunpur was founded by Feroz Shah Tughlaq in 1359 in memory of Muhammad bin Tughlaq (Jauna Khan) and nicknamed "Shiraz-e-Hind".
+- **Exam Anchor:** Akbar established his ceremonial capital at Fatehpur Sikri in honour of Sufi Saint Sheikh Salim Chishti.
 
 ---
 
@@ -223,8 +215,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The Sohgaura Copper Plate Inscription in Gorakhpur is the earliest known record of state drought relief and famine storehouses in India.
+A. Contrary to standard doctrine, Prayag applies only to union territories and not state jurisdictions.
+B. Prayag Prashasti (Allahabad Pillar) was composed in classical Sanskrit by court poet Harishena eulogizing Samudragupta.
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -234,7 +226,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Sohgaura Copper Plate Inscription** in Gorakhpur is the earliest known record of state drought relief and famine storehouses in India.
+- **Key Exam Association:** **Prayag Prashasti** (Allahabad Pillar) was composed in classical Sanskrit by court poet **Harishena** eulogizing Samudragupta.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -242,9 +234,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Lord applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Dashavatara applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. Lord Buddha delivered his first sermon (Dharmachakrapravartana) at Sarnath (Varanasi) in the presence of 5 ascetics.
+C. Dashavatara Temple at Deogarh (Lalitpur) is one of the earliest surviving Gupta stone panchayatana temples.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -253,7 +245,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Lord Buddha delivered his first sermon (**Dharmachakrapravartana**) at **Sarnath (Varanasi)** in the presence of 5 ascetics.
+- **Key Exam Association:** **Dashavatara Temple at Deogarh (Lalitpur)** is one of the earliest surviving Gupta stone panchayatana temples.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -261,10 +253,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Lord applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Bhitargaon applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Lord Buddha spent the maximum number of rainy-season retreats (25 Varshavas) at Shravasti (Sahet-Mahet).
+D. Bhitargaon Temple in Kanpur is the oldest surviving terraced brick temple with a shikhara and true arches in India.
 
 <details>
 <summary>Show answer</summary>
@@ -272,7 +264,7 @@ D. Lord Buddha spent the maximum number of rainy-season retreats (25 Varshavas) 
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Lord Buddha spent the maximum number of rainy-season retreats (**25 Varshavas**) at **Shravasti (Sahet-Mahet)**.
+- **Key Exam Association:** **Bhitargaon Temple in Kanpur** is the oldest surviving terraced brick temple with a shikhara and true arches in India.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -280,7 +272,7 @@ D. Lord Buddha spent the maximum number of rainy-season retreats (25 Varshavas) 
 
 Which of the following is correct regarding this topic?
 
-A. Lord Buddha attained Mahaparinirvana at Kushinagar (Kasia) in 483 BCE on the banks of the Hiranyavati River.
+A. Kannauj was the imperial capital of Emperor Harshavardhana and the prize of the 8th–10th century Tripartite Struggle.
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -291,7 +283,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Lord Buddha attained **Mahaparinirvana** at **Kushinagar (Kasia)** in 483 BCE on the banks of the Hiranyavati River.
+- **Key Exam Association:** **Kannauj** was the imperial capital of Emperor **Harshavardhana** and the prize of the 8th–10th century **Tripartite Struggle**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -299,8 +291,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The Lion Capital of Ashoka at Sarnath was officially adopted as the National Emblem of India on 26 January 1950.
+A. Contrary to standard doctrine, Agra applies only to union territories and not state jurisdictions.
+B. Agra was founded by Sultan Sikandar Lodi in 1504, who shifted the Sultanate capital there in 1506.
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -310,7 +302,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Lion Capital of Ashoka at Sarnath** was officially adopted as the **National Emblem of India** on 26 January 1950.
+- **Key Exam Association:** **Agra** was founded by Sultan **Sikandar Lodi in 1504**, who shifted the Sultanate capital there in **1506**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -318,9 +310,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Prayag applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Jaunpur applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. Prayag Prashasti (Allahabad Pillar) was composed in classical Sanskrit by court poet Harishena eulogizing Samudragupta.
+C. Jaunpur was founded by Feroz Shah Tughlaq in 1359 in memory of Muhammad bin Tughlaq (Jauna Khan) and nicknamed "Shiraz-e-Hind".
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -329,7 +321,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Prayag Prashasti** (Allahabad Pillar) was composed in classical Sanskrit by court poet **Harishena** eulogizing Samudragupta.
+- **Key Exam Association:** **Jaunpur** was founded by **Feroz Shah Tughlaq in 1359** in memory of Muhammad bin Tughlaq (Jauna Khan) and nicknamed **"Shiraz-e-Hind"**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -337,10 +329,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Akbar applies only to union territories and not state jurisdictions.
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. The Bhitari Pillar Inscription in Ghazipur district records Emperor Skandagupta's crushing defeat of the invading Hunas.
+D. Akbar established his ceremonial capital at Fatehpur Sikri in honour of Sufi Saint Sheikh Salim Chishti.
 
 <details>
 <summary>Show answer</summary>
@@ -348,7 +340,7 @@ D. The Bhitari Pillar Inscription in Ghazipur district records Emperor Skandagup
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Bhitari Pillar Inscription** in Ghazipur district records Emperor **Skandagupta's** crushing defeat of the invading Hunas.
+- **Key Exam Association:** **Akbar** established his ceremonial capital at **Fatehpur Sikri** in honour of Sufi Saint **Sheikh Salim Chishti**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -356,7 +348,7 @@ D. The Bhitari Pillar Inscription in Ghazipur district records Emperor Skandagup
 
 Which of the following is correct regarding this topic?
 
-A. Dashavatara Temple at Deogarh (Lalitpur) is one of the earliest surviving Gupta stone panchayatana temples.
+A. Itimad-ud-Daulah's Tomb in Agra, built by Empress Nur Jahan, was the first Mughal building made completely of white marble with Pietra Dura inlay.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -367,7 +359,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Dashavatara Temple at Deogarh (Lalitpur)** is one of the earliest surviving Gupta stone panchayatana temples.
+- **Key Exam Association:** **Itimad-ud-Daulah's Tomb in Agra**, built by Empress Nur Jahan, was the first Mughal building made completely of white marble with **Pietra Dura** inlay.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -375,8 +367,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Bhitargaon applies only to union territories and not state jurisdictions.
-B. Bhitargaon Temple in Kanpur is the oldest surviving terraced brick temple with a shikhara and true arches in India.
+A. Contrary to standard doctrine, Taj applies only to union territories and not state jurisdictions.
+B. Taj Mahal was designed by chief architect Ustad Ahmad Lahori and completed in 1648 on the banks of the Yamuna.
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -386,7 +378,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Bhitargaon Temple in Kanpur** is the oldest surviving terraced brick temple with a shikhara and true arches in India.
+- **Key Exam Association:** **Taj Mahal** was designed by chief architect **Ustad Ahmad Lahori** and completed in 1648 on the banks of the Yamuna.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -394,9 +386,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Kannauj applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Begum applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. Kannauj was the imperial capital of Emperor Harshavardhana and the prize of the 8th–10th century Tripartite Struggle.
+C. Begum Hazrat Mahal led the 1857 resistance in Lucknow, crowning her minor son Birjis Qadr as Nawab.
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -405,7 +397,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Kannauj** was the imperial capital of Emperor **Harshavardhana** and the prize of the 8th–10th century **Tripartite Struggle**.
+- **Key Exam Association:** **Begum Hazrat Mahal** led the 1857 resistance in Lucknow, crowning her minor son **Birjis Qadr** as Nawab.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -413,10 +405,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Agra applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Nana applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Agra was founded by Sultan Sikandar Lodi in 1504, who shifted the Sultanate capital there in 1506.
+D. Nana Sahib (Dhondu Pant) and Tantia Tope led the 1857 rebellion at Kanpur (Bithoor).
 
 <details>
 <summary>Show answer</summary>
@@ -424,7 +416,7 @@ D. Agra was founded by Sultan Sikandar Lodi in 1504, who shifted the Sultanate c
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Agra** was founded by Sultan **Sikandar Lodi in 1504**, who shifted the Sultanate capital there in **1506**.
+- **Key Exam Association:** **Nana Sahib (Dhondu Pant)** and **Tantia Tope** led the 1857 rebellion at **Kanpur (Bithoor)**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -432,7 +424,7 @@ D. Agra was founded by Sultan Sikandar Lodi in 1504, who shifted the Sultanate c
 
 Which of the following is correct regarding this topic?
 
-A. Jaunpur was founded by Feroz Shah Tughlaq in 1359 in memory of Muhammad bin Tughlaq (Jauna Khan) and nicknamed "Shiraz-e-Hind".
+A. Rani Lakshmibai (Manikarnika) was martyred fighting British forces under General Hugh Rose at Gwalior in June 1858.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -443,7 +435,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Jaunpur** was founded by **Feroz Shah Tughlaq in 1359** in memory of Muhammad bin Tughlaq (Jauna Khan) and nicknamed **"Shiraz-e-Hind"**.
+- **Key Exam Association:** **Rani Lakshmibai (Manikarnika)** was martyred fighting British forces under General Hugh Rose at Gwalior in June 1858.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -451,8 +443,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The magnificent Atala Masjid in Jaunpur was built in 1408 by Ibrahim Shah Sharqi.
+A. Contrary to standard doctrine, Maulvi applies only to union territories and not state jurisdictions.
+B. Maulvi Ahmadullah Shah, who spearheaded the resistance in Faizabad, was hailed as the "Lighthouse of Rebellion".
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -462,7 +454,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The magnificent **Atala Masjid** in Jaunpur was built in **1408** by **Ibrahim Shah Sharqi**.
+- **Key Exam Association:** **Maulvi Ahmadullah Shah**, who spearheaded the resistance in Faizabad, was hailed as the "Lighthouse of Rebellion".
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -470,9 +462,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Akbar applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Khan applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Akbar established his ceremonial capital at Fatehpur Sikri in honour of Sufi Saint Sheikh Salim Chishti.
+C. Khan Bahadur Khan established a parallel administration during the 1857 Revolt in Bareilly (Rohilkhand).
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -481,6 +473,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Akbar** established his ceremonial capital at **Fatehpur Sikri** in honour of Sufi Saint **Sheikh Salim Chishti**.
+- **Key Exam Association:** **Khan Bahadur Khan** established a parallel administration during the 1857 Revolt in **Bareilly (Rohilkhand)**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

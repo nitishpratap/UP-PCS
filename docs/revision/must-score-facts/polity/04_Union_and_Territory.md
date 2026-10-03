@@ -11,64 +11,69 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 4 — Union & Territory</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Part I (Articles 1–4):** India, that is Bharat, is a **Union of States**. The term "Federation" is nowhere used. Names and territorial extent are in the **First Schedule**.
-2. Territory of India under **Article 1(3)** comprises **States**, **Union Territories**, and such other territories as may be **acquired** (e.g., Puducherry, Goa (गोवा) initially).
-3. **Article 2** vs **Article 3**: Art 2 allows Parliament to **admit or establish** *new* States (foreign territory, e.g., Sikkim). Art 3 allows forming/altering *existing* States (boundary/name changes).
-4. **Article 4**: Laws under Art 2 & 3 amend the First and Fourth Schedules by a **simple majority**; they are **not** constitutional amendments under **Article 368** (अनुच्छेद 368).
-5. **Article 3 Procedure (प्रक्रिया)**: Bill needs prior **President's recommendation**. The concerned State Legislature's views are sought but are **not binding**. The State Legislature **cannot** itself change its name.
-6. **Acquisition vs Cession**: Acquisition requires ordinary law. **Cession** of Indian territory requires a **Constitutional Amendment** (*Berubari Union* case, 1960).
-7. **Cession Amendments**: 9th Amendment (9वां संशोधन) (1960) ceded Berubari to Pakistan. 100th Amendment (2015) executed India–Bangladesh Land Boundary Agreement (exchange of 162 enclaves).
-8. **Dhar Commission (June 1948)** and **JVP Committee (Dec 1948)** both purely **rejected** immediate linguistic reorganisation, prioritizing national unity.
-9. **Andhra State**: Formed on **1 Oct 1953** following Potti Sriramulu's fast unto death. It was the **first linguistic State**. First capital was **Kurnool** (not Hyderabad (हैदराबाद)).
-10. **States Reorganisation Commission (SRC (आयोग), 1953)**: Chaired by **Justice Fazl Ali**, with **K.M. Panikkar** and **H.N. Kunzru**. (K.T. Shah and P. Sitaramayya were *not* members).
-11. **States Reorganisation Act, 1956**: Combined with the **7th Amendment (1956)**, it abolished Part A (ए)/B/C/D states, establishing **14 States and 6 UTs** on 1 Nov 1956.
-12. **Zonal Councils**: They are **statutory** bodies established by the States Reorganisation Act, 1956. The **Union Home Minister** is the common chairman. (North Eastern Council was formed by a separate 1971 Act).
-13. **Formation Chronology**: Gujarat (1960), Nagaland (1963), Haryana (1966), Himachal (हिमाचल) (1971), Manipur/Tripura/Meghalaya (मेघालय) (1972), Sikkim (1975).
-14. **Sikkim**: Created via **Article 2**. 35th Amd (1974) made it an 'Associate State'; **36th Amd (1975)** made it a full 22nd State (inserted Art. 371F).
-15. **UP/UK trivia**: United Provinces renamed to **Uttar Pradesh** (उत्तर प्रदेश) on **24 Jan 1950** (UP Diwas). **Uttarakhand** (उत्तराखंड) was carved out on **9 Nov 2000** as the 27th State.
-16. **Current Map**: India has **28 States and 8 Union Territories**. Dadra (दादरा) & Nagar Haveli and Daman & Diu merged into one UT in **Jan 2020**. J&K and Ladakh (लद्दाख) formed on 31 Oct 2019.
-17. **UT Administration (Part VIII)**: Administered directly by the President through an Administrator or **Lieutenant Governor (LG)** under **Article 239**.
-18. **Legislatures in UTs**: **Art. 239A** (14th Amd) enables Puducherry's legislature. **Art. 239AA** (69th Amd, 1991) designates Delhi as **NCT** with special provisions.
-19. **NCT Delhi Exceptions**: Public order, police, and land remain strictly with the Union (unlike Puducherry). Maximum LS seats from UTs is **20** (Article 81). Delhi has 70 MLAs.
-20. **Citizenship (Part II, Articles 5–11)**: India follows **single citizenship** (unlike USA's dual system). Constitution left citizenship regulation to Parliament (**Article 11**).
-21. **Citizenship Act, 1955**: Provides 5 modes of **acquisition** (Birth, Descent, Registration, Naturalisation, Territory Incorporation) and 3 of **loss** (Renunciation, Termination, Deprivation).
-22. **Dual Citizenship**: Strictly **not allowed**. Voluntary acquisition of foreign citizenship results in automatic **termination** (**Article 9**).
-23. **Deprivation**: A compulsory Central order against **registered/naturalised** citizens (for fraud, disloyalty, or 7-year overseas residence). Birth citizens cannot be 'deprived'.
-24. **Birth-citizenship evolution**: Birth plus: -> 1987 (one parent must be Indian) -> **3 Dec 2004** (both parents citizens, or one citizen & other not an *illegal migrant*).
-25. **PIO / OCI**: PIO scheme merged into **OCI in 2015**. OCI is **not** dual citizenship—OCI cardholders cannot vote, hold constitutional office, or routinely buy agricultural land.
-26. **Pravasi Bharatiya Divas**: Celebrated on **9 Jan** (Gandhi (गांधी)'s return), inspired by the **L.M. Singhvi Committee (2000)** on Indian diaspora.
-27. **Citizenship Amendment Act (CAA), 2019**: Protects 6 persecuted minorities (Hindu, Sikh, Buddhist, Jain, Parsi, Christian) from 3 countries (Pak, Afghan, Bangladesh) entering on/before **31 Dec 2014**.
-28. **National Integration Council (NIC, 1961)**: PM is the chairman. It is completely **extra-constitutional** (unlike the Inter-State Council under Art. 263).
-29. **Fundamental Rights (मौलिक अधिकार) (Citizens Only)**: Articles **15, 16, 19, 29, 30**. Non-citizens also get Arts. 14, 20, 21, 22, 25-28.
-30. **Minority / Treaties Trivia**: French enclaves (Puducherry de jure 1962), Portuguese enclaves (Goa/Daman/Diu liberated in 1961 via *Operation Vijay*).
-31. **Article 240** lets the President make **regulations** for peace, progress and good government of listed UTs without a legislature (or when the legislature is dissolved/suspended). Living list includes Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, and **Puducherry** when its Assembly is not functioning. **Goa is a State** — not on the Art. 240 list.
-32. **Article 241** enables a High Court for a Union Territory; Parliament may also place a UT under a neighbouring State’s High Court (e.g. Chandigarh with Punjab & Haryana HC).
+2. **Article 2** vs **Article 3**: Art 2 allows Parliament to **admit or establish** *new* States (foreign territory, e.g., Sikkim). Art 3 allows forming/altering *existing* States (boundary/name changes).
+3. **Article 4**: Laws under Art 2 & 3 amend the First and Fourth Schedules by a **simple majority**; they are **not** constitutional amendments under **Article 368** (अनुच्छेद 368).
+4. **Article 3 Procedure (प्रक्रिया)**: Bill needs prior **President's recommendation**. The concerned State Legislature's views are sought but are **not binding**. The State Legislature **cannot** itself change its name.
+5. **Acquisition vs Cession**: Acquisition requires ordinary law. **Cession** of Indian territory requires a **Constitutional Amendment** (*Berubari Union* case, 1960).
+6. **Cession Amendments**: 9th Amendment (9वां संशोधन) (1960) ceded Berubari to Pakistan. 100th Amendment (2015) executed India–Bangladesh Land Boundary Agreement (exchange of 162 enclaves).
+7. **Dhar Commission (June 1948)** and **JVP Committee (Dec 1948)** both purely **rejected** immediate linguistic reorganisation, prioritizing national unity.
+8. **Andhra State**: Formed on **1 Oct 1953** following Potti Sriramulu's fast unto death. It was the **first linguistic State**. First capital was **Kurnool** (not Hyderabad (हैदराबाद)).
+9. **States Reorganisation Commission (SRC (आयोग), 1953)**: Chaired by **Justice Fazl Ali**, with **K.M. Panikkar** and **H.N. Kunzru**. (K.T. Shah and P. Sitaramayya were *not* members).
+10. **States Reorganisation Act, 1956**: Combined with the **7th Amendment (1956)**, it abolished Part A (ए)/B/C/D states, establishing **14 States and 6 UTs** on 1 Nov 1956.
+11. **Zonal Councils**: They are **statutory** bodies established by the States Reorganisation Act, 1956. The **Union Home Minister** is the common chairman. (North Eastern Council was formed by a separate 1971 Act).
+12. **Formation Chronology**: Gujarat (1960), Nagaland (1963), Haryana (1966), Himachal (हिमाचल) (1971), Manipur/Tripura/Meghalaya (मेघालय) (1972), Sikkim (1975).
+13. **Sikkim**: Created via **Article 2**. 35th Amd (1974) made it an 'Associate State'; **36th Amd (1975)** made it a full 22nd State (inserted Art. 371F).
+14. **UP/UK trivia**: United Provinces renamed to **Uttar Pradesh** (उत्तर प्रदेश) on **24 Jan 1950** (UP Diwas). **Uttarakhand** (उत्तराखंड) was carved out on **9 Nov 2000** as the 27th State.
+15. **Current Map**: India has **28 States and 8 Union Territories**. Dadra (दादरा) & Nagar Haveli and Daman & Diu merged into one UT in **Jan 2020**. J&K and Ladakh (लद्दाख) formed on 31 Oct 2019.
+16. **UT Administration (Part VIII)**: Administered directly by the President through an Administrator or **Lieutenant Governor (LG)** under **Article 239**.
+17. **Legislatures in UTs**: **Art. 239A** (14th Amd) enables Puducherry's legislature. **Art. 239AA** (69th Amd, 1991) designates Delhi as **NCT** with special provisions.
+18. **NCT Delhi Exceptions**: Public order, police, and land remain strictly with the Union (unlike Puducherry). Maximum LS seats from UTs is **20** (Article 81). Delhi has 70 MLAs.
+19. **Citizenship (Part II, Articles 5–11)**: India follows **single citizenship** (unlike USA's dual system). Constitution left citizenship regulation to Parliament (**Article 11**).
+20. **Citizenship Act, 1955**: Provides 5 modes of **acquisition** (Birth, Descent, Registration, Naturalisation, Territory Incorporation) and 3 of **loss** (Renunciation, Termination, Deprivation).
+21. **Dual Citizenship**: Strictly **not allowed**. Voluntary acquisition of foreign citizenship results in automatic **termination** (**Article 9**).
+22. **Deprivation**: A compulsory Central order against **registered/naturalised** citizens (for fraud, disloyalty, or 7-year overseas residence). Birth citizens cannot be 'deprived'.
+23. **Birth-citizenship evolution**: Birth plus: -> 1987 (one parent must be Indian) -> **3 Dec 2004** (both parents citizens, or one citizen & other not an *illegal migrant*).
+24. **PIO / OCI**: PIO scheme merged into **OCI in 2015**. OCI is **not** dual citizenship—OCI cardholders cannot vote, hold constitutional office, or routinely buy agricultural land.
+25. **Pravasi Bharatiya Divas**: Celebrated on **9 Jan** (Gandhi (गांधी)'s return), inspired by the **L.M. Singhvi Committee (2000)** on Indian diaspora.
+26. **Citizenship Amendment Act (CAA), 2019**: Protects 6 persecuted minorities (Hindu, Sikh, Buddhist, Jain, Parsi, Christian) from 3 countries (Pak, Afghan, Bangladesh) entering on/before **31 Dec 2014**.
+27. **National Integration Council (NIC, 1961)**: PM is the chairman. It is completely **extra-constitutional** (unlike the Inter-State Council under Art. 263).
+28. **Fundamental Rights (मौलिक अधिकार) (Citizens Only)**: Articles **15, 16, 19, 29, 30**. Non-citizens also get Arts. 14, 20, 21, 22, 25-28.
+29. **Minority / Treaties Trivia**: French enclaves (Puducherry de jure 1962), Portuguese enclaves (Goa/Daman/Diu liberated in 1961 via *Operation Vijay*).
+30. **Article 240** lets the President make **regulations** for peace, progress and good government of listed UTs without a legislature (or when the legislature is dissolved/suspended). Living list includes Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, and **Puducherry** when its Assembly is not functioning. **Goa is a State** — not on the Art. 240 list.
+31. **Article 241** enables a High Court for a Union Territory; Parliament may also place a UT under a neighbouring State’s High Court (e.g. Chandigarh with Punjab & Haryana HC).
+32. **Part I = Arts. 1–4.** Names and extent sit in the **First Schedule**.
+33. **No need** for a constitutional amendment under Art. 368 (**Art. 4**).
+34. **Chandernagore** (चंद्रनगर) (French) — 1954; 10th Amendment, 1961 (merged into West Bengal).
+35. **Portuguese:** Dadra & Nagar Haveli (1954/UT 1961); **Goa, Daman & Diu** — Operation Vijay **19 Dec 1961** → 12th Amendment, 1962 (UT); Goa became a State **1987**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct Distinction | Hindi Terminology |
-|---|----|------|-------|
-| **Art. 2** | **Art. 3** | Admit/establish **new** States (foreign) vs form/alter **existing** States (domestic) | प्रवेश/स्थापना (2) vs निर्माण/सीमा परिवर्तन (3) |
-| **Art. 3** | **Art. 368** | Simple majority + Art. 4 ≠ constitutional amendment under 368 | साधारण बहुमत (Simple) |
-| **Acquisition** | **Cession** | Parliament by ordinary law vs **constitutional amendment** (*Berubari*, 1960) | अर्जन vs समर्पण |
-| **Zonal Council** | **Inter-State Council** | **Statutory** (SRA 1956, Home Minister chairs) vs **Constitutional** (Art 263, PM chairs) | क्षेत्रीय परिषद् vs अंतर-राज्यीय परिषद् |
-| **NCT (Delhi)** | **NCR** | 69th Amd **Territory** (Constitution) vs statutory planning region (1985 Act) | राष्ट्रीय राजधानी राज्यक्षेत्र |
-| **LG (Delhi)** | **Governor (State)** | Delhi LG holds reserved powers (police/land/public order) on behalf of Centre | उपराज्यपाल vs राज्यपाल |
-| **OCI** | **Dual citizenship** | OCI ≠ dual citizen; no vote / no constitutional office / no agricultural land | समुद्रपारीय नागरिक |
-| **NRI** | **OCI** | Indian **citizen** living abroad vs foreign citizen of Indian origin | आप्रवासी भारतीय vs OCI |
-| **SRC (Fazl Ali)** | **JVP / Dhar** | 1953: Linguistic-friendly but not 1 language=1 state vs 1948: Rejected language strictly | फजल अली आयोग |
-| **Renunciation** | **Deprivation** | Voluntary by citizen vs Centre’s order against regd/naturalised | त्याग vs से वंचित करना |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. Art. **3 ≠ admission** of new States (**Art. 2**) — 2020
+2. Altering a State’s **name ≠ State Legislature** — Parliament — 2024
+3. Art. 2–3 laws ≠ **Art. 368** amendments (**Art. 4**)
+4. SRC members = **Fazl Ali, Panikkar, Kunzru** — not K.T. Shah / Sitaramayya — 2025
+5. Sitaramayya = **JVP 1948**, not SRC
+6. 69th = **NCT Delhi**, not NCR (1985 statute); 70th = Presidential college — 2022
+7. Citizenship = **Arts. 5–11 / Part II** — not 3–10 — 2018, 2020
+8. UT seats in LS = **20**, not 15/25 — 2018
+9. Cession needs **amendment**; acquisition can be by law
+10. OCI ≠ dual citizenship; PIO merged **2015**
+11. CAA list = 6 communities, 3 countries, **31 Dec 2014**
+12. Present map = **28 + 8**, not 29 + 7
+13. J&K UT **with** legislature; Ladakh **without**
+14. NIC is **not** a constitutional body (≠ Inter-State Council Art. 263)
+15. SRC **recommended 16+3**, Union **implemented 14+6**
+16. Art. 3 = **views**, not consent; **simple** majority
+17. Delhi Assembly **70** / CoM **7**; Puducherry **30** elected
+18. Birth: **3 Dec 2004** both-parents (or one + other not illegal migrant)
+19. Naturalisation language = **8th Schedule**; CAA relaxes 11 yrs → **5**
+20. 7th Amendment **1956** = UTs + end of Part A/B/C/D
 
 
 ---

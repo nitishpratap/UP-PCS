@@ -11,48 +11,49 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 41 — Environmental Monitoring (पर्यावरणीय निगरानी)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The **PSR** model runs **Pressure → State → Response** for environmental indicators.
-2. Air indicators include **PM2.5, PM10, SO₂, NOx, and AQI**. Water indicators include **BOD, COD, DO, pH, and coliform**.
-3. Noise is measured in **decibels**. Smoke opacity uses the **Ringelmann** scale **0–5**.
-4. **Lichens** are classic bio-indicators for sulphur dioxide stress.
-5. **Monitoring** means systematic repeated measurement against standards. It is not the same as an audit.
-6. **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) runs **NAMP** (manual air), **CAAQMS** (real-time air), and **NWMP** (surface water).
-7. **CGWB** monitors groundwater quality and levels and publishes the annual groundwater quality report.
-8. **SAFAR** (सफर) is the IITM air-quality and weather forecast system associated with Harsh Vardhan’s launch messaging in **July 2018**.
-9. **NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) (2019)** expands city monitoring and action. **SAMEER** is an AQI public app.
-10. An **environmental audit** verifies compliance with law or clearance conditions — it is more than raw (रॉ) data logging.
-11. **Form V** Environmental Statement under EPA Rule **14** goes to the SPCB yearly.
-12. **ISO 14001** is the Environmental Management System standard.
-13. Consent to Operate links industry permission to both monitoring data and audit compliance.
-14. **BOD** is microbial oxygen demand. **COD** is chemical oxygen demand. COD is usually ≥ BOD.
-15. NAMP shows long trend with manual stations. CAAQMS gives continuous real-time feeds.
-16. CPCB is the air–surface-water regulator home. CGWB is the groundwater home. Do not swap them.
-17. Green audits and EC compliance reports sit in the audit family, not in casual one-off sampling.
-18. Indicators turn raw numbers into decision signals for policy and public warning.
-19. Bio-indicators supplement instruments when living organisms reveal chronic pollution stress.
-20. Ringelmann is about visible smoke shade, not a water-quality number.
-21. Do not call an audit “just another AQI reading (रीडिंग).” Audit checks legal conformity.
-22. Surface-water networks (NWMP) do not replace groundwater networks (CGWB).
-
-</details>
+1. **Lichens** are classic bio-indicators for sulphur dioxide stress.
+2. **Monitoring** means systematic repeated measurement against standards. It is not the same as an audit.
+3. **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) runs **NAMP** (manual air), **CAAQMS** (real-time air), and **NWMP** (surface water).
+4. **CGWB** monitors groundwater quality and levels and publishes the annual groundwater quality report.
+5. **SAFAR** (सफर) is the IITM air-quality and weather forecast system associated with Harsh Vardhan’s launch messaging in **July 2018**.
+6. **NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) (2019)** expands city monitoring and action. **SAMEER** is an AQI public app.
+7. **Form V** Environmental Statement under EPA Rule **14** goes to the SPCB yearly.
+8. **ISO 14001** is the Environmental Management System standard.
+9. **BOD** is microbial oxygen demand. **COD** is chemical oxygen demand. COD is usually ≥ BOD.
+10. **Environmental indicators** turn raw data into decision signals for policy and public warning.
+11. **PSR model:Pressure** (emissions, resource use) → **State** (ambient quality) → **Response** (treatment capacity, action plans).
+12. **Ringelmann scale (रिंगेलमैन पैमाना) (0–5)** measures **smoke plume density/opacity**, not water, fog, or noise.
+13. **Environmental monitoring** is systematic, repeated measurement of air, water, soil, noise, and related parameters against standards.
+14. **CPCB** runs national **air** and **surface-water** programmes and sets ambient/effluent standards with SPCBs.
+15. **NAMP** = manual air stations for long-term trends; **CAAQMS** = continuous real-time ambient air (feeds AQI boards).
+16. **NWMP** = National Water Quality Monitoring Programme for rivers/lakes.
+17. **CGWB** monitors **groundwater** levels and quality; publishes the **Annual Groundwater Quality Report** — not CPCB.
+18. **SAFAR** (IITM) combines air-quality monitoring with weather forecasting; inaugurated by **Dr. Harsh Vardhan** (July 2018).
+19. **NCAP (2019)** expands monitoring and action in non-attainment cities (including multiple UP cities).
+20. **SAMEER** app disseminates CPCB AQI; **PARIVESH** tracks EC compliance reporting.
+21. **UPPCB** issues Consent to Establish/Operate and inspects industries in Uttar Pradesh (उत्तर प्रदेश).
+22. **Environmental audit** is a systematic, documented check of whether an organisation meets environmental laws, consent conditions, and internal EMS goals.
+23. **ISO 14001** is the voluntary international standard for an **Environmental Management System (EMS)**.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environmental Indicator** | **Environmental Monitoring** | Specific quantitative metric reflecting state of an ecosystem (e.g., Lichens for SO₂, E. coli for fecal water contamination) vs continuous systematic collection and analysis of environmental data over time | पर्यावरणीय संकेतक / पर्यावरणीय निगरानी |
-| **Environmental Impact Assessment (EIA)** | **Environmental Audit** | Prospective preventive study predicting ecological impacts of a project *before* environmental clearance vs retrospective verification of legal compliance and emissions *after* commissioning | पर्यावरण प्रभाव आकलन (EIA) / पर्यावरण लेखापरीक्षा |
-| **National Air Monitoring Programme (NAMP)** | **Continuous Ambient Air Quality (CAAQMS)** | Nationwide manual sampling network monitoring SO₂, NO₂, PM10, PM2.5 twice weekly vs automated sensors measuring 12 criteria pollutants with real-time online data | राष्ट्रीय वायु निगरानी (NAMP) / सतत परिवेशी वायु निगरानी (CAAQMS) |
-| **Bioindicator** | **Biomarker** | Organism whose presence/absence indicates environmental quality (Lichens for air, Diatoms/Mayfly for fresh water) vs cellular/biochemical alteration measured in an organism due to chemical exposure | जैव संकेतक (लाइकेन/मेफ्लाई) / जैव मार्कर |
-| **Ringelmann Scale** | **Decibel (dB)** | Visual chart scale (0 to 5) used to measure the apparent density/opacity of industrial smoke emissions vs logarithmic acoustic unit measuring environmental sound levels | रिंगेलमैन पैमाना (धुआं घनत्व) / डेसिबल (ध्वनि तीव्रता) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| BOD = blood/altitude oxygen | **Aquatic pollution assay** |
+| Ringelmann = fog/noise/water | **Smoke** |
+| GW Quality Report = CPCB | **CGWB** |
+| Monitoring = audit | Measure ≠ verify compliance |
+| Lichens thrive in dirty air | **Sensitive indicators** |
+| SAFAR = IMD alone / CPCB alone | **IITM** (+ MoEFCC support) |
+| Form V = ISO certificate | Statutory **statement** to SPCB |
+| COD < BOD always | **COD ≥ BOD** |
+| NAMP = real-time only | Mostly **manual**; CAAQMS = continuous |
+| High BOD = clean water | **Dirty** organics |
 
 
 ---

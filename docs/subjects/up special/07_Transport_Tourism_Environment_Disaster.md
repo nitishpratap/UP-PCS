@@ -10,7 +10,8 @@
 |---|---|---|
 | Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Dudhwa National Park** in **Lakhimpur Kheri** is the **only National Park** in Uttar Pradesh (established 1977).
 2. Uttar Pradesh has **4 designated Tiger Reserves**: (1) Dudhwa TR, (2) Pilibhit TR, (3) Amangarh TR, and (4) Ranipur TR.
@@ -63,9 +64,10 @@
 49. The **Uttar Pradesh State Disaster Management Authority (UPSDMA)** is headed by the **Chief Minister**.
 50. **Eastern UP (Terai/Purvanchal)** is highly prone to **recurrent river floods**, while **Bundelkhand** is prone to **chronic agricultural drought**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@
 | **Highest Forest % (Sonbhadra - 35.3%)** | **Lowest Forest % (Bhadohi - 0.37%)** | Sonbhadra has the **highest forest proportion**; Bhadohi has the **lowest**. |
 | **HRIDAY Cities (Varanasi & Mathura)** | **Smart Cities (10 Central Cities)** | HRIDAY covered ONLY **Varanasi and Mathura**; Central Smart Cities covered **10 cities** (Ghaziabad excluded). |
 
----
+</details>
 
 ## Must-score drill — master tables
 

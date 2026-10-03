@@ -25,7 +25,8 @@
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 26 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Kartikepur / Katyuri** is the first historic imperial kingdom of Uttarakhand, about **740–1050 CE**.
 2. First capital is **Joshimath (Kartikeyapura)** in the Alaknanda valley (Garhwal). Second capital is **Baijnath (Katyur Valley)** on the Gomti in Bageshwar (Kumaon).
@@ -54,7 +55,7 @@
 25. UKPCS frequently asks Hiuen Tsang’s **Brahmapura** vs Katyuri **Kartikeyapur** — that pair is the capital-name trap of this desk.
 26. After Katyuri fragmentation, full medieval cards live under Medieval India `uttarakhand/` (Kattyuri / Chand).
 
----
+</details>
 
 ## The Three Dynastic Families of the Katyuris
 
@@ -111,7 +112,8 @@ The Katyuris established a sophisticated bureaucracy modeled on the Gupta and Ha
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -121,7 +123,7 @@ The Katyuris established a sophisticated bureaucracy modeled on the Gupta and Ha
 | **Bir Dev vs Somchand** | Bir Dev = **Last tyrannical Katyuri king**; Somchand = **Founder of Chand dynasty** who succeeded the Katyuris in Kali Kumaon. |
 | **Doshaparadhika vs Dandapashika** | Doshaparadhika = **Investigative officer** (detective); Dandapashika = **Penal enforcer** (punishment magistrate). |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

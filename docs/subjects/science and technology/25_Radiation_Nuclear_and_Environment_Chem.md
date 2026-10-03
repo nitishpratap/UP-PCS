@@ -26,7 +26,8 @@ Radioactivity & Radiations (Alpha, Beta, Gamma Properties & Soddy-Fajans Displac
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Radioactivity** is the spontaneous, uncontrolled nuclear disintegration of unstable heavy atomic nuclei accompanied by the emission of ionizing particles or electromagnetic radiation.
 2. Radioactivity was discovered in **1896 by French physicist Henri Becquerel** while investigating phosphorescence in uranium potassium sulphate crystals wrapped in black paper.
@@ -201,9 +202,10 @@ Radioactivity & Radiations (Alpha, Beta, Gamma Properties & Soddy-Fajans Displac
 49. **Lewisite**: An arsenic-based blistering chemical warfare agent ($ClCH=CH-AsCl_2$); antidote is British Anti-Lewisite (BAL / Dimercaprol).
 50. **Bhopal Gas Tragedy (MIC Chemistry)**: On December 2–3, 1984, in Bhopal, water accidentally entered a storage tank containing over 40 tonnes of liquid **Methyl Isocyanate ($CH_3NCO$)**. The resulting exothermic hydrolysis reaction caused temperatures to exceed $200^\circ\text{C}$, bursting the relief valve and releasing toxic MIC gas across the city, resulting in thousands of fatalities.
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -216,7 +218,7 @@ Radioactivity & Radiations (Alpha, Beta, Gamma Properties & Soddy-Fajans Displac
 | **Alpha vs. Beta vs. Gamma Penetration** | **Alpha ($\alpha$)**: Least penetrating (stopped by paper); highest ionization power ($^4_2He^{2+}$). | **Gamma ($\gamma$)**: Most penetrating (requires thick lead); lowest ionization power (photons). | **Penetration Sequence**: $\alpha < \beta < \gamma$. **Ionization Sequence**: $\gamma < \beta < \alpha$. |
 | **Dynamite vs. Gunpowder** | **Dynamite**: Chemical high explosive based on **liquid Nitroglycerin** absorbed in porous Kieselguhr. | **Gunpowder (Black Powder)**: Mechanical low explosive mixture of **$KNO_3$ (saltpetre) + Charcoal + Sulphur**. | **Chemical Nature**: Dynamite is a stabilized chemical explosive (Nobel, 1867); Gunpowder is an ancient mechanical propellant mixture. |
 
----
+</details>
 
 ## Master Reference Tables
 

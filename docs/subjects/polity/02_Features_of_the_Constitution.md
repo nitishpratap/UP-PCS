@@ -26,7 +26,8 @@
 
 ---
 
-### Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. India’s Constitution is the **lengthiest written** Constitution of any sovereign country. It is a **single** Constitution for both the Union and the States (except earlier J&K anomaly).
 2. India’s **type of government** is **Parliamentary** plus a **Democratic Republic**. Its **polity structure** is a **quasi-federal Union** — not a Presidential system and not a pure classical federation.
@@ -61,9 +62,10 @@
 31. The **National Flag** (Pingali Venkayya; Ashoka Chakra with **24** spokes; ratio **3:2**) was adopted by the Assembly on **22 July 1947**. The **State Emblem** (Sarnath Lion Capital; motto **Satyameva Jayate** from the Mundaka Upanishad) was adopted on **26 January 1950**.
 32. **Jana Gana Mana** (National Anthem) and **Vande Mataram** (National Song) were adopted on **24 January 1950**; full anthem rendition is about **52 seconds**. The **National Calendar** follows the **Saka** era (from **22 March 1957**), not Vikram.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -94,7 +96,7 @@
 | Munshi vs Ambedkar tags | Munshi = **political horoscope** (Preamble); Ambedkar **heart and soul** = **Art. 32** | Swap Preamble / Art. 32 | मुंशी / आंबेडकर |
 | Berubari vs Kesavananda | *Berubari* = Preamble **not** part (1960); *Kesavananda* = **is** part (1973) | Say Kesavananda first denied it | बेरुबारी / केशवानंद |
 
----
+</details>
 
 ## Must-score facts — type, Preamble, scholars
 

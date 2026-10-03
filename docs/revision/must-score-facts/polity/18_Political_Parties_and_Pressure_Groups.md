@@ -11,55 +11,73 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 18 — Political Parties & Pressure Groups</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The Constitution barely names parties. The main hooks are Article **19(1)(c)** (association), the **Tenth Schedule** (defection), and Article **324** (elections). Parties were largely **extra-constitutional** until the **52nd** Amendment.
-2. Registration of a political party (राजनीतिक दल) is under **section 29A** of the Representation of the People Act, 1951 (Registered Unrecognised Political Party). **Recognition** as a National or State party is under the Election Symbols Order **1968**. Do not merge the two steps.
-3. A party becomes a **National** party by any one route: **6%** votes in **four** (चातुर्याम) States plus **four** Lok Sabha (लोकसभा) seats; or **2%** of Lok Sabha seats from at least **three** States; or State-party status in **four** States.
-4. A party becomes a **State** party in that State by any one route: **6%** votes plus **two** MLAs or **one** MP; or **3%** of Assembly seats or **three** seats (whichever is higher); or **one** Lok Sabha seat per **25** Assembly seats; or **8%** of votes even with zero seats.
-5. As of 2024–26 there are **six** national parties: **AAP** (broom), **BSP** (elephant), **BJP** (lotus), **CPI(M)** (hammer-sickle-star), **INC** (hand), and **NPP** (book). **CPI** lost national status in **2023**. **NPP** was the first north-eastern national party (**2019**).
-6. Reserved symbols go to recognised parties. Free symbols go to unrecognised parties and independents.
-7. A standard founding-year order is **TDP 1982 → BSP 1984 → SP 1992 → TMC 1998**.
-8. India has a **multi-party** system, not a classic two-party system. After the Congress-system decades, **1967** brought large state coalitions; **1989–2014** was a long coalition era at the Centre; **2014** returned a single-party majority; **2024** again produced an **NDA coalition** with the BJP on **240** seats.
-9. A **hung** House means no single party has a majority. A **coalition** means two or more parties govern together. A hung House (त्रिशंकु सदन) may still produce a coalition.
-10. After *Bommai*, majority is tested on the **House floor**, not by Raj Bhavan arithmetic alone. The President or Governor invites whoever can command confidence.
-11. Sarkaria (सरकारिया आयोग)’s invite order for a hung House is: **pre-poll alliance → largest single party → post-poll alliance**, then a floor test.
-12. A **political party** contests elections and seeks office. A **pressure group** (दबाव समूह) usually does not contest and seeks to **influence** policy. An **interest group** (हित समूह) becomes a pressure group when it presses the State.
-13. The first trade union in India is commonly locked as the **Madras Labour Union (1918)**. **AITUC** (एटक) was formed in **1920** with Lala Lajpat Rai (लाला लाजपत राय) as president and is linked to the **CPI**.
-14. **INTUC** (इंटक) (**1947**) is linked to the **Congress** (कांग्रेस). **BMS** (बीएमएस) (**1955**) is linked to the **BJP/RSS**. **CITU** (सीटू) (**1970**) is linked to the **CPI(M)**. **UTUC** (यूटीयूसी) (**1949**) is linked to the **RSP**.
-15. The right to **form** associations and unions is under Article **19(1)(c)**. The right to **strike** is **not** a Fundamental Right.
-16. Indian party-system features often tested are multi-party competition, weak ideology, dynasty politics, regionalisation after **1967**, weak inner-party democracy, and extra-constitutional origin of parties.
-17. National parties get an all-India reserved symbol (आरक्षित प्रतीक). State parties get a reserved symbol **only in that State**.
-18. Electoral bonds were struck down in **February 2024** (*Association for Democratic Reforms*). Party funding transparency remains a live neighbour to registration and recognition.
-19. Pressure groups include business associations, farmer bodies, trade unions, and professional lobbies. They work through persuasion, media, litigation, and access — not through forming the ministry.
-20. Do not confuse **AITUC (CPI)** with **CITU (CPI-M)**, or **INTUC (Congress)** with **BMS (BJP/RSS)**.
-21. Recognition criteria use **votes share and seats**, not merely “old party” or “famous leader.” A registered party without recognition remains a RUPP with a free symbol (मुक्त प्रतीक).
-22. Coalition governments rest on a common programme and support arithmetic. Withdrawal of support can trigger a floor test and possible change of government.
-23. In Uttar Pradesh (उत्तर प्रदेश), party founding years for **BSP** and **SP**, and union–party match lists, are high-yield. Keep the national roster and the UP regional set separate.
-24. The Tenth Schedule punishes defection; it does not itself create the Election Commission (निर्वाचन आयोग)’s recognition rules. Registration, recognition, and defection are three different tools.
-25. A hung Assembly does not automatically mean President’s Rule. The constitutional path is invitation based on likely majority, then floor test; Article **356** is a last resort, not the first step.
-26. Multi-party democracy can still produce stable majorities. “Multi-party” describes the system type; it does not mean every election must end in a coalition.
+1. **Votes + Seats Route:** Polling at least **6% of total valid votes** in **4 or more States** in a Lok Sabha or State Assembly election, **AND** winning at least **4 seats in the Lok Sabha** from any State or States.
+2. **Lok Sabha Seats Route:** Winning at least **2% of total seats in the Lok Sabha** (i.e., $543 \times 2\% = \mathbf{11\text{ seats}}$), and these elected members must represent **at least 3 different States**.
+3. **Multi-State Recognition Route:** Being recognized as a **State Party in at least 4 States**.
+4. **6% Votes + 2 MLAs:** Polling at least **6% of valid votes** in the State Assembly election **AND** winning at least **2 Assembly seats (MLAs)**.
+5. **6% Votes + 1 MP:** Polling at least **6% of valid votes** in the State during a Lok Sabha election **AND** winning at least **1 Lok Sabha seat (MP)** from that State.
+6. **3% Seats or 3 MLAs:** Winning at least **3% of the total Assembly seats** or **3 seats in the Legislative Assembly**, whichever is higher.
+7. **1 MP per 25 LS Seats:** Winning at least **1 Lok Sabha seat for every 25 seats** allotted to that State (or any fraction thereof).
+8. **8% Vote-Share Alone (2011 Rule):** Polling at least **8% of the total valid votes** in the State in an Assembly or Lok Sabha election, **even if it wins ZERO seats**.
+9. **2022** — TDP 1982 → BSP 1984 → SP 1992 → TMC 1998; union–party match.
+10. **2023** — CPI (सीपीआई) **loses** national status; AAP **gains**.
+11. **2024** — 6 national parties; BJP 240 → NDA coalition; electoral bonds **struck** (*ADR* Feb 2024 — anonymous party funding gone).
+12. **2019** — NPP first NE national party.
+13. **INTUC** (इंटक) (**1947**) is linked to the **Congress** (कांग्रेस). **BMS** (बीएमएस) (**1955**) is linked to the **BJP/RSS**. **CITU** (सीटू) (**1970**) is linked to the **CPI(M)**. **UTUC** (यूटीयूसी) (**1949**) is linked to the **RSP**.
+14. **Multi-party** — not two-party (UK/US) and not one-party (China). Duverger’s FPTP→two-party **fails** here because of **region + caste + language**.
+15. **Dominant-party phases** — Congress **1952–67** (Kothari) · BJP **2014–24** majority. Phase ≠ system.
+16. **Weak ideology** (most) — catch-all. Exceptions: **Left**, **BJP–RSS** stream.
+17. **Personality / dynasty** — SP, DMK, NC, RJD, NCP, Congress after Nehru (नेहरू) — favourite criticism.
+18. **Traditional cleavages** — caste, religion, language, region **over** class (except Left belts).
+19. **Regionalisation** after **1967** — State parties as **kingmakers** at the Centre (TDP, JD(U), BJD, DMK, TMC).
+20. **Factionalism** — split → ECI **Para 15** (name + symbol).
+21. **Poor inner democracy** — no binding statute. ECI guidelines on office-bearers / elections inside parties — **soft**.
+22. **Extra-constitutional origin** — parties older than the Republic (INC **1885**); Constitution caught up via **10th Schedule (1985)**.
+23. **Coalition arithmetic** — Centre **1989–2014** and again **2024**; States since **1967**.
+24. **Register** — **s.29A** RPA 1951 → ECI. Result: **RUPP** — can contest, **no** reserved symbol.
+25. **Recognise** — **Election Symbols (Reservation and Allotment) Order, 1968**. Result: **National** or **State** party.
+26. **Symbol** — same Order. **Reserved** (recognised) vs **free** (RUPP + independents).
+27. **Split** — **Para 15** of the Order. ECI allots **name + symbol** (*Sadiq Ali*). Legislature majority is **a** test, not the only test.
+28. **6%** valid votes in LS **or** Assembly elections in **four** States **and4** LS seats.
+29. **2%** of LS seats (**11** of 543) from at least **three** States.
+30. **6%** votes in that State’s Assembly **or** LS poll **and2** MLAs **or1** MP.
+31. **3%** of Assembly seats **or 3 seats**, whichever is more.
+32. **1** LS seat per **25** LS seats from that State (minimum 1).
+33. **8%** of total valid votes in the State (**even with zero seats** — 2011 add-on).
+34. **Reserved:** national party = **same symbol in every State**. State party = reserved **in that State**; elsewhere it is a free/other symbol.
+35. **Free:** independents + RUPPs pick from the State free list.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Term A | Term B | Core Difference | Hindi Terminology |
-|--------|--------|-----------------|-------------------|
-| **Registration (29A)** | **Recognition** | Any association → RUPP vs National / State party (Symbols Order) | पंजीकरण (29A) / मान्यता |
-| **National party** | **State / regional party** | All-India reserved symbol + 4-State tests vs Reserved symbol **in that State** only | राष्ट्रीय दल / राज्य (क्षेत्रीय) दल |
-| **Reserved symbol** | **Free symbol** | Recognised parties vs Unrecognised + independents | आरक्षित प्रतीक / मुक्त प्रतीक |
-| **Political party** | **Pressure group** | Contests elections; seeks **power** vs Does **not** contest (normally); seeks to **influence** | राजनीतिक दल / दबाव समूह |
-| **Interest group** | **Pressure group** | Organised around an interest vs Same body **when it pressures** government | हित समूह / दबाव समूह |
-| **Coalition** | **Hung House** | Two or more parties **govern** vs **No** single party has a majority (may still produce a coalition) | गठबंधन / त्रिशंकु सदन |
-| **AITUC** | **CITU** | **CPI** (1920) vs **CPI(M)** (1970) | एटक (भाकपा) / सीटू (माकपा) |
-| **INTUC** | **BMS** | **Congress** (1947) vs **BJP/RSS** (1955) | इंटक (कांग्रेस) / बीएमएस (संघ) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. Registration = national party → **29A** only registers. Recognition = **Symbols Order**
+2. CPI is still a national party → **lost 2023**. CPI(M) remains
+3. NPP is a State-only Meghalaya party → **national** since **2019**
+4. BSP is only a UP regional party → **national**; elephant (except Assam)
+5. SP is a national party → **State** party
+6. TMC founded before SP → TMC **1998**, SP **1992**. TDP is **1982**
+7. India is a two-party system → **multi-party**. 2014 majority did not change the *system*
+8. Hung House = 356 at once → invite a combination; **floor test** first
+9. 2024 BJP had a solo majority → **240**. NDA **coalition**
+10. Pressure group = political party → parties **contest**; groups **influence**
+11. AITUC = CPI(M) → **CPI**. **CITU** = CPI(M)
+12. BMS = Congress → **BJP/RSS**. INTUC = Congress
+13. First union = AITUC 1920 → first **union** = **Madras 1918**. AITUC = first **central** federation
+14. Always six national parties → count **after the last ECI review**
+15. SP symbol = “cycle” as a distinct ECI symbol → **bicycle**
+16. Invite the largest party always, even vs a pre-poll alliance → Sarkaria: **pre-poll first**, then largest, then post-poll
+17. Strike is a Fundamental Right → **19(1)(c)** = form unions. Strike **is not** a FR
+18. AITUC first president = Gandhi / Bose → **Lala Lajpat Rai**
+19. RSS is a registered political party → cadre body; **BJP** is the party. BMS is the labour front
+20. FICCI = 1947 → **1927**. ASSOCHAM is **1920**
+21. Official opposition = any second party → needs **10%** of the House
+22. Inner-party elections are a constitutional mandate → **no** article. ECI guidelines only
+
+---
 
 
 ---

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 5 — Fundamental Rights (मौलिक अधिकार) & Duties</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -34,11 +32,7 @@ hide:
 | Art. 358 | Art. 359 | Only Art. 19 (auto) vs other FRs by order (not 20/21) | — |
 | FR | DPSP | Justiciable (USA) vs non-justiciable (**Ireland**) | — |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Citizens-only vs all persons
 
@@ -204,18 +198,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Part III (मौलिक अधिकार) (Articles 12–35) holds Fundamental Rights. They are justiciable. Part III is called the Magna Carta of India. Originally there were seven groups; after the 44th (44वां संशोधन) Amendment (1978) removed the Right to Property, six groups remain. Pre-1950 demand spine: 1895 Tilak (तिलक) Bill → Nehru (नेहरू) Report (नेहरू रिपोर्ट) 1928 (नेहरू रिपोर्ट) → Karachi 1931 (Patel).
 - **Exam Anchor:** Article 12 defines State for Part III (Union and State governments and legislatures, local authorities, and other authorities under the instrumentality test).
-- **Exam Anchor:** Rights available only to citizens: Articles 15, 16, 19, 29 and 30. Rights available to all persons (citizens and foreigners): 14, 20, 21, 21A, 22, 23, 24, 25–28 and 32.
 - **Exam Anchor:** Article 14 (equality before law / equal protection) covers any person. Article 16 (equality of opportunity in public employment) covers citizens only.
-- **Exam Anchor:** Reservation / special-provision facts: 15(4) is the first explicit special provision; 15(5) is the 93rd; 15(6) / 16(6) are the 103rd (EWS). Promotion facts include 16(4A) (77th) and 16(4B) (81st / related 85th teaching).
 - **Exam Anchor:** Article 17 abolishes untouchability (absolute (निरपेक्ष) equality fact). Article 18 bans titles; national awards such as Bharat Ratna (भारत रत्न) are not “titles” in that sense.
 - **Exam Anchor:** Article 19 gives six freedoms to citizens. The old property freedom 19(1)(f) was deleted by the 44th Amendment (44वां संशोधन); property now sits as a legal right under Article 300A.
-- **Exam Anchor:** The six freedoms are speech and expression, assembly, association (cooperatives reinforced by the 97th), movement, residence, and profession — each with reasonable restrictions under 19(2)–(6).
-
-</details>
+- **Exam Anchor:** Article 20 protects all persons against ex post facto criminal law, double jeopardy, and self-incrimination. Torture and privacy questions are not solved only by Article 20.
+- **Exam Anchor:** Article 21 (अनुच्छेद 21) protects life and personal liberty for all persons. After Maneka Gandhi (गांधी), procedure (प्रक्रिया) must be fair, just and reasonable. Privacy was treated as a Fundamental Right in Puttaswamy (2017).
+- **Exam Anchor:** Article 21A (Right to Education) covers free and compulsory education for ages 6–14, inserted by the 86th Amendment. Do not stretch 21A to every age group.
 
 ---
 

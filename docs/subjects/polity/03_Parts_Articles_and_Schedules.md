@@ -15,7 +15,8 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA (नगरपा�
 
 ---
 
-## Consolidated — 40 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 40 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The Constitution is organised into **Parts**. Originally there were **22 Parts**; today there are about **25 Parts** (including IVA, IXA, IXB, XIVA). **Part VII** stands **repealed**.
 2. **Part III** (मौलिक अधिकार) is **Fundamental Rights** (मौलिक अधिकार) (justiciable). **Part IV** (नीति निर्देशक) is **DPSP** (राज्य के नीति निदेशक तत्व) (non-justiciable). **Part IVA** is **Fundamental Duties** (मौलिक कर्तव्य).
@@ -58,9 +59,10 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA (नगरपा�
 39. **Panchayat specific traps**: Art 243D (Reservation of seats) and Art 243I (State Finance Commission).
 40. **Art 371 series shortcuts**: 371 (MH & GJ), 371A (Nagaland), 371B (Assam), 371C (Manipur), 371D/E (AP & Telangana), 371F (Sikkim), 371G (Mizoram), 371H (Arunachal), 371I (अनु. 371I) (Goa (गोवा)), 371J (Karnataka). MNEMONIC: **N**o **A**griculture **M**akes **A**ndhra **S**ikkim **M**ore **A**rdent **G**o **K**arnataka (NAMASMAGK).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -88,7 +90,7 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA (नगरपा�
 | Art. 352 | Art. 356 / 360 | National vs State vs Financial Emergency | — |
 | Art. 371I | Art. 371J | **Goa** (min. 30 MLAs) vs **Karnataka** (Kalyana-Karnataka) | — |
 
----
+</details>
 
 ## Must-score facts — Parts, Schedules, Articles
 

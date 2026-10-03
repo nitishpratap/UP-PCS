@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 34 — Climate Change (जलवायु परिवर्तन) (Advanced)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Emissions Gap Report** | **Adaptation Gap Report** | Annual UNEP report comparing actual NDC pledges vs Paris 1.5°C targets vs annual UNEP assessment of adaptation finance and planning shortfalls | उत्सर्जन अंतराल रिपोर्ट / अनुकूलन अंतराल रिपोर्ट |
 | **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Top-down binding targets on developed countries (Annex-I) vs bottom-up voluntary Nationally Determined Contributions (NDCs) applicable to all | क्योटो प्रोटोकॉल (1997) / पेरिस समझौता (2015) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Advanced tags
 
@@ -132,18 +126,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Climate change is a long-term shift in temperature, rainfall, and extremes. Global warming is the temperature-rise part only.
-- **Exam Anchor:** IPCC AR6 places warming near 1.1°C above 1850–1900, with human influence dominant. Past-century rise ≈ 1°C / 1.8°F.
-- **Exam Anchor:** The Keeling Curve records atmospheric CO₂ at Mauna Loa since 1958.
-- **Exam Anchor:** The Emissions Gap Report (उत्सर्जन अंतराल रिपोर्ट) is an annual UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) product. It is not published by the IPCC.
-- **Exam Anchor:** Main greenhouse gases are CO₂, CH₄, N₂O, and F-gases. Argon is not a greenhouse gas. Joseph Fourier (1820s) framed the greenhouse-effect idea.
-- **Exam Anchor:** WMO-style relative (सापेक्ष) shares often tested: CO₂ ~64% > CH₄ ~19% > CFCs+others ~11% > N₂O ~6%. Water vapour dominates the natural effect.
-- **Exam Anchor:** India ranks near the top in absolute (निरपेक्ष) emissions (China #1, India ~3rd) but stays low per capita. Bhutan is often carbon-negative.
-- **Exam Anchor:** A carbon sink absorbs net CO₂. A carbon budget is the cumulative CO₂ allowed for a temperature target. Blue carbon (नीला कार्बन) = ocean/coastal sinks.
-
-</details>
+- **Exam Anchor:** Green Credit (2023) (ग्रीन क्रेडिट) and PAT ESCert are not the same thing as a Kyoto-style carbon credit.
+- **Exam Anchor:** Mitigation cuts emissions and grows sinks. Adaptation adjusts society and systems to climate impacts.
+- **Exam Anchor:** Kyoto (क्योटो) is climate mitigation (जलवायु शमन). Montreal is ozone protection. Do not swap the two treaties.
+- **Exam Anchor:** LiFE was floated as an idea at COP-26 (2021) and launched in June 2022. COP-25 Madrid is the false date trap.
+- **Exam Anchor:** Milankovitch = eccentricity, obliquity, precession — not solar irradiance. Ice cores = cryogenic climate archive.
+- **Exam Anchor:** GCF = Cancun 2010. CDM/CERs = Kyoto. GHG Protocol = WRI + WBCSD. Earth Hour (अर्थ आवर) = WWF (डब्ल्यूडब्ल्यूएफ).
+- **Exam Anchor:** Methane hydrates, paddy+fertiliser (CH₄+N₂O), and wetland CH₄ are high-yield source traps.
 
 ---
 

@@ -11,9 +11,23 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Economy Topic 8 — Employment, Poverty, Human Capital and Social Economy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **2025 (HDR)** | India’s HDI rank **130** (2023, HDR 2025); life expectancy rose from **58.6** (1990) to **72** (2023). | Rank / LE update stems. |
+| **2026 (WHR)** | World Happiness Report 2026: India ≈ **116th** (improving vs mid-120s earlier). | Happiness ≠ HDI; do not mix ranks. |
+| **2025** | MPI introduced **2010**; it is **not** the $1/day money line. | Income poverty ≠ MPI. |
+| **2025** | Social indicators of poverty include illiteracy, water, jobs — **not size of house**. | Quality of dwelling ≠ floor area. |
+| **2025** | First HDR/HDI **1990** (Mahbub ul Haq); “Haq + S. Priesner” team tag fails. | Sen/capability circle, not Priesner. |
+| **2025** | Human-capital investment yields future returns because education and health raise productivity. | A/R both true, R explains A. |
+| **2024** | HDI uses **income, education, life expectancy** — not environment condition. | Three-pillar trap. |
+| **2022** | Demographic dividend keyed to working-age **15–59** (Indian convention). | Not 60+, 0–6, or 14–50. |
+| **UKPCS 2025** | **Dadabhai Naoroji** used **jail cost of living** for an early poverty-line estimate. | Pre-Independence estimate tag. |
+
+---
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -76,26 +90,6 @@ hide:
 | **PMAY Housing for All 2022** | **IAY / RAY alone** | Current umbrella vs older rural / slum schemes |
 | **SSA (2001)** | **Samagra Shiksha (2018)** | Elementary mission vs SSA+RMSA+TE amalgam |
 | **Mid-day Meal 1995** | **PM POSHAN 2021 rename** | Launch vs rename |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2025 (HDR)** | India’s HDI rank **130** (2023, HDR 2025); life expectancy rose from **58.6** (1990) to **72** (2023). | Rank / LE update stems. |
-| **2026 (WHR)** | World Happiness Report 2026: India ≈ **116th** (improving vs mid-120s earlier). | Happiness ≠ HDI; do not mix ranks. |
-| **2025** | MPI introduced **2010**; it is **not** the $1/day money line. | Income poverty ≠ MPI. |
-| **2025** | Social indicators of poverty include illiteracy, water, jobs — **not size of house**. | Quality of dwelling ≠ floor area. |
-| **2025** | First HDR/HDI **1990** (Mahbub ul Haq); “Haq + S. Priesner” team tag fails. | Sen/capability circle, not Priesner. |
-| **2025** | Human-capital investment yields future returns because education and health raise productivity. | A/R both true, R explains A. |
-| **2024** | HDI uses **income, education, life expectancy** — not environment condition. | Three-pillar trap. |
-| **2022** | Demographic dividend keyed to working-age **15–59** (Indian convention). | Not 60+, 0–6, or 14–50. |
-| **UKPCS 2025** | **Dadabhai Naoroji** used **jail cost of living** for an early poverty-line estimate. | Pre-Independence estimate tag. |
 
 ---
 
@@ -199,18 +193,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Poverty is the inability to meet a minimum standard of living — measured by income/consumption lines or by multidimensional deprivations.
-- **Exam Anchor:** India’s official poverty estimation has mainly used household consumption surveys, not per capita income alone.
 - **Exam Anchor:** Alagh Committee (1979) recommended a poverty line based on nutritional / calorie requirements exclusively in the classic key.
-- **Exam Anchor:** Later lines: Lakdawala, Tendulkar, Rangarajan — each revised basket, prices and methodology.
 - **Exam Anchor:** Head Count Ratio is the share of people below the poverty line.
 - **Exam Anchor:** Dadabhai Naoroji used the jail cost of living to sketch an early subsistence poverty estimate for India.
 - **Exam Anchor:** Social indicators of poverty include illiteracy, malnutrition, lack of safe drinking water / sanitation, and lack of employment opportunities.
 - **Exam Anchor:** Size of house (floor area) is not the standard social indicator — housing quality (materials) matters in MPI living-standard measures.
-
-</details>
+- **Exam Anchor:** Multidimensional Poverty Index (MPI) was introduced in the Human Development Report 2010, replacing the Human Poverty Index (HPI) of 1997.
+- **Exam Anchor:** MGNREGA guarantees rural wage employment (100 days teaching) and builds local assets — a demand-side safety net.
 
 ---
 

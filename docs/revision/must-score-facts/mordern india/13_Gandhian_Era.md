@@ -11,84 +11,96 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 13 — Gandhian Era (1915–1948)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Gandhi founded the **Natal Indian Congress (कांग्रेस) (1894)**, ran ***Indian Opinion***, and wrote ***Hind Swaraj (हिंद स्वराज)* (1909)** before returning to India in **1915**. **Gokhale** (गोखले) was his political guru (गुरु).
-2. **Champaran 1917** fought the **tinkathia** (तीनकठिया प्रथा) indigo (नील) system (**3/20**); **Raj Kumar Shukla** brought Gandhi. This is Gandhi’s first satyagraha in India.
-3. **Kheda 1918** sought revenue remission (Patel). **Ahmedabad mill strike 1918** (Anasuya Sarabhai) saw Gandhi’s **first fast in India**.
-4. The **Rowlatt Act (1919)** and **Jallianwala Bagh (13 April 1919**, Dyer, Amritsar (अमृतसर)) opened the all-India protest climate.
-5. **Hunter Committee 1919** (हंटर कमेटी 1919) inquired into the Punjab firing. It is **not** the **Hunter Commission 1882** (हंटर आयोग 1882) on education.
-6. After Jallianwala, **Tagore returned his knighthood**. **Sankaran Nair** (शंकरन नायर) resigned from the Viceroy (वायसराय)’s Executive Council.
-7. **Non-Cooperation — Cause:** Rowlatt–Jallianwala shock plus Khilafat grievance after Ottoman defeat. **Course:** launched Calcutta special (**Sep 1920**) / Nagpur (**Dec 1920**); boycott of titles, schools, courts; paired with Khilafat. **Result:** withdrawn after **Chauri Chaura (5 Feb 1922)**; constructive work and council-entry debate follow.
-8. **Chauri Chaura (5 February 1922, Gorakhpur)** led Gandhi to withdraw NCM. **Belgaum 1924** is Gandhi’s only Congress presidentship.
-9. **Gaya (Dec 1922)** split **No-changers** (stay out; constructive work) from **Pro-changers/Swarajists** (enter councils and obstruct).
-10. The **Swaraj Party (Jan 1923)** was founded by **C.R. Das** and **Motilal Nehru** for council entry.
-11. The **Simon Commission (Nov 1927)** was all-white. The **Nehru Report (1928, Motilal)** answered with a **dominion** draft.
-12. **Lahore 1929** (लाहौर) (Nehru) declared **Purna Swaraj**; the pledge day was **26 January 1930**. Dominion status (डोमिनियन) and complete independence are different goals.
-13. **Gandhi’s Eleven Points (Jan 1930)** were an ultimatum to Irwin (इरविन). They are not **Jinnah’s Fourteen Points (1929)**.
-14. **Civil Disobedience — Cause:** Lahore **Purna Swaraj** pledge and Irwin’s rejection of Gandhi’s **Eleven Points**. **Course:** **Dandi March (12 March–6 April 1930)** opens salt satyagraha; nationwide civil-law defiance; **Dharasana** (Webb Miller). **Result:** **Gandhi–Irwin Pact (5 March 1931)** truce; Karachi Fundamental Rights; later RTC/Poona path.
-15. **Gandhi–Irwin Pact (5 March 1931)** was a Congress–Viceroy truce. **Karachi (Mar 1931)** adopted Fundamental Rights and an economic programme.
-16. At the **Second Round Table Conference (Sep–Dec 1931)** Gandhi was the sole Congress representative. **Rajendra Prasad** did **not** go as Congress delegate.
-17. The **Communal Award (16 August 1932)** gave Depressed Classes separate electorates. The year is **1932**, not 1933.
-18. The **Poona Pact (24 September 1932)** replaced that with **reserved seats in a joint electorate**.
-19. CDM ended around **April 1934**. Chronology: Gandhi–Irwin → 2nd RTC (द्वितीय गोलमेज) → Poona Pact → end of CDM.
-20. Another ladder: **Simon → Nehru Report → Sharda (शारदा) Act → Dandi**.
-21. Gandhi’s **Constructive Programme** stressed khadi (खादी), village industries, untouchability removal, prohibition (प्रतिषेध), sanitation, **Nai Talim (1937)**, women, Hindustani (हिंदुस्तानी), and kisan/labour/adivasi (आदिवासी) work.
-22. The **August Offer (8 August 1940**, Linlithgow (लिनलिथगो)) promised dominion-after-war with a minority veto and was rejected.
-23. **Individual Satyagraha (Oct 1940)** began with **Vinoba** — symbolic one-person protest, not mass CDM.
-24. **Satyagraha** (सत्याग्रह) aims at converting the opponent through truth-force. It is not mere passive obstruction.
-25. **NCM** boycotted titles, schools and courts. **CDM** centred on salt (लवणाध्यक्ष) and civil-law defiance.
-26. The **First RTC (1930)** had Congress absent. The **Second RTC (1931)** had Gandhi present.
-27. Same-year trap: **Rowlatt Act 1919** (no-trial law) is not the **Government of India Act 1919** (dyarchy (द्वैध शासन)).
-28. Same-year trap: **Chauri Chaura (Feb 1922)** ends NCM; **Gaya (Dec 1922)** opens the council-entry split — do not merge.
-29. UP Focus: **Chauri Chaura** (चौरी चौरा) is Gorakhpur; Swaraj Party founding memory sits with the **Allahabad** (इलाहाबाद) Nehrus.
-30. Cripps (क्रिप्स) (**1942**) and Quit India (भारत छोड़ो) (**1942**) continue this story in the next chapter — they are not separate from the Gandhian arc.
-31. **Vaikom** (वैक्कम) satyagraha continuity sits in the mid-1920s constructive/temple-entry stream (often paired with Belgaum-era dates).
-32. Hold the phase map with years: local satyagrahas (**1917–18**) → Rowlatt/Jallianwala (**1919**) → NCM (**1920–22**) → Gaya/Swarajists (**1922–23**) → Simon/Lahore (**1927–29**) → Dandi/CDM (**1930–34**) → pacts/Poona (**1931–32**) → constructive decade → August Offer/Individual Satyagraha (**1940**).
-33. Gandhi was born **2 October 1869** at **Porbandar**; father **Karamchand (Kaba) Gandhi** was Diwan of Porbandar, Rajkot and Wankaner; law training at **Inner Temple**, London; college often keyed **Samaldas, Bhavnagar**.
-34. South Africa stretch is about **21 years** (**1893–1915**); case of **Dada Abdullah**; **Phoenix (1904)** is his **oldest** ashram; press = ***Indian Opinion***.
-35. Twin principles of **Ram Rajya** = **truth and non-violence**. He told **Louis Fischer** he was a true socialist aiming at **Sarvodaya**.
-36. In satyagraha strategy, **fasting** is the early/first weapon; **strike** is often keyed as the **last** step. Aim is to **change the opponent’s heart**, not crush him.
-37. ***Unto This Last*** (Ruskin) taught “the good of the individual is contained in the good of all.” Influences: **Ruskin, Thoreau, Tolstoy**.
-38. First Congress session he attended = **Calcutta 1901** (Dinshaw Wacha). Political guru = **Gokhale** (“ears open, mouth shut” for a year).
-39. **Tagore** first used **Mahatma** during Champaran; **Subhas Bose** first called him **Father of the Nation** (Azad Hind (आज़ाद हिंद) Radio, **1944**).
-40. **Batak Mian** saved Gandhi from poison at Champaran. **N.G. Ranga** opposed Champaran; **Jai Prakash Narayan / Ram Manohar Lohia** are common “not connected” distractors.
-41. Associates: **Jamnalal Bajaj** (Congress treasurer, fifth son tag); **C.F. Andrews = Dinbandhu**; **Pyarelal** (Noakhali secretary). **Yerawada** jail he called **Mandir**.
-42. At Independence Gandhi was **not** a formal Congress member (resigned **1934**). Mountbatten’s **one-man boundary force** tribute refers to Gandhi in Bengal. Nehru’s death line: **“the light has gone out of our lives.”**
+1. **Champaran 1917** fought the **tinkathia** (तीनकठिया प्रथा) indigo (नील) system (**3/20**); **Raj Kumar Shukla** brought Gandhi. This is Gandhi’s first satyagraha in India.
+2. **Kheda 1918** sought revenue remission (Patel). **Ahmedabad mill strike 1918** (Anasuya Sarabhai) saw Gandhi’s **first fast in India**.
+3. **Hunter Committee 1919** (हंटर कमेटी 1919) inquired into the Punjab firing. It is **not** the **Hunter Commission 1882** (हंटर आयोग 1882) on education.
+4. **Non-Cooperation — Cause:** Rowlatt–Jallianwala shock plus Khilafat grievance after Ottoman defeat. **Course:** launched Calcutta special (**Sep 1920**) / Nagpur (**Dec 1920**); boycott of titles, schools, courts; paired with Khilafat. **Result:** withdrawn after **Chauri Chaura (5 Feb 1922)**; constructive work and council-entry debate follow.
+5. **Chauri Chaura (5 February 1922, Gorakhpur)** led Gandhi to withdraw NCM. **Belgaum 1924** is Gandhi’s only Congress presidentship.
+6. **Gaya (Dec 1922)** split **No-changers** (stay out; constructive work) from **Pro-changers/Swarajists** (enter councils and obstruct).
+7. **Lahore 1929** (लाहौर) (Nehru) declared **Purna Swaraj**; the pledge day was **26 January 1930**. Dominion status (डोमिनियन) and complete independence are different goals.
+8. **Gandhi’s Eleven Points (Jan 1930)** were an ultimatum to Irwin (इरविन). They are not **Jinnah’s Fourteen Points (1929)**.
+9. **Civil Disobedience — Cause:** Lahore **Purna Swaraj** pledge and Irwin’s rejection of Gandhi’s **Eleven Points**. **Course:** **Dandi March (12 March–6 April 1930)** opens salt satyagraha; nationwide civil-law defiance; **Dharasana** (Webb Miller). **Result:** **Gandhi–Irwin Pact (5 March 1931)** truce; Karachi Fundamental Rights; later RTC/Poona path.
+10. **Gandhi–Irwin Pact (5 March 1931)** was a Congress–Viceroy truce. **Karachi (Mar 1931)** adopted Fundamental Rights and an economic programme.
+11. **Individual Satyagraha (Oct 1940)** began with **Vinoba** — symbolic one-person protest, not mass CDM.
+12. **Satyagraha** (सत्याग्रह) aims at converting the opponent through truth-force. It is not mere passive obstruction.
+13. **NCM** boycotted titles, schools and courts. **CDM** centred on salt (लवणाध्यक्ष) and civil-law defiance.
+14. **Vaikom** (वैक्कम) satyagraha continuity sits in the mid-1920s constructive/temple-entry stream (often paired with Belgaum-era dates).
+15. ***Unto This Last*** (Ruskin) taught “the good of the individual is contained in the good of all.” Influences: **Ruskin, Thoreau, Tolstoy**.
+16. **Tagore** first used **Mahatma** during Champaran; **Subhas Bose** first called him **Father of the Nation** (Azad Hind (आज़ाद हिंद) Radio, **1944**).
+17. **Batak Mian** saved Gandhi from poison at Champaran. **N.G. Ranga** opposed Champaran; **Jai Prakash Narayan / Ram Manohar Lohia** are common “not connected” distractors.
+18. **Gopal Krishna (कृष्णा) Gokhale** is his political guru. Gokhale told him to spend the first year in India with **ears open and mouth shut**.
+19. **Phoenix (1904)** and later **Tolstoy Farm (1910)** trained volunteers in simple living and non-violent discipline. He practised **Seva Dharma** (hospital/compounder service) and applied **trusteeship** in his Johannesburg law firm (**1903–10**).
+20. ***Hind Swaraj* (1909)** was written on the ship voyage and stated his critique of modern civilisation and his idea of true swaraj.
+21. **Satyagraha** is truth-force. The opponent is to be converted, not crushed. It is not cowardly submission.
+22. **Ahimsa** is non-violence as a creed, including in means.
+23. **Swaraj** (स्वराज) is self-rule of the self and of the nation. It is not a brown copy of English rule (*Hind Swaraj*).
+24. **Sarvodaya** and **trusteeship** mean welfare of all. Wealth is held in trust. Class war is not the first method.
+25. **Swadeshi** (स्वदेशी), the **charkha** (चरखा), bread labour and village reconstruction make up the **constructive programme**.
+26. **Hindu–Muslim unity** and **removal of untouchability** were political, not optional piety.
+27. **Wrong means never take us to right ends** — means and ends are two sides of one coin (मुद्रा).
+28. **Raj Kumar Shukla**, a local peasant, persuaded Gandhi to see the distress for himself.
+29. **Batak Mian**, a cook at a planter's house, warned Gandhi of poisoned milk and saved his life.
+30. **Rabindranath Tagore** is remembered as first giving him the title **Mahatma** in this season. **N.G. Ranga** opposed Gandhi's Champaran line.
+31. **Anasuya Sarabhai** invited Gandhi to mediate between the workers and the mill-owners, one of whom was her own brother, **Ambalal Sarabhai**.
+32. **Subhas Chandra Bose** (सुभाष चंद्र बोस) first called Gandhi **Father of the Nation** on **Azad Hind Radio** (**July 1944**), seeking blessings for the final struggle.
+33. **C.F. Andrews**, a St Stephen's professor close to Tagore, Gokhale and Gandhi, lived at Phoenix; Gandhi named him **Dinbandhu**. Andrews was AITUC (एटक) president in **1925** and **1927** and accompanied Gandhi to the Round Table Conference.
+34. **Jamnalal Bajaj** (Wardha industrialist, Congress treasurer) was a lifelong associate — Gandhi's "fifth son" tag. He renounced **Rai Bahadur**, backed village industry and khadi, and was jailed in the **Nagpur Flag Satyagraha (1923)** and again in **1930**.
+35. **Pyarelal Nayyar** was Gandhi's secretary in the **Noakhali** period; his sister **Sushila Nayyar** was Gandhi's personal doctor. Pyarelal also figured in the Dandi March organisation.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Phoenix Ashram 1904 | Sabarmati Ashram | Oldest (South Africa) vs Ahmedabad bank ashram after 1917 move | फीनिक्स / साबरमती |
-| Father of the Nation (Bose) | Mahatma (Tagore) | Azad Hind Radio 1944 title vs Champaran-era honorific | राष्ट्रपिता / महात्मा |
-| Satyagraha | Passive resistance | Truth-force aiming at conversion vs mere obstruction | सत्याग्रह / निष्क्रिय प्रतिरोध |
-| Champaran aides | N.G. Ranga / JP / Lohia | Prasad–Kripalani circle vs common “not connected / opposed” distractors | चंपारण सहयोगी |
-| Vaikom Satyagraha | Temple-entry Acts later | 1924–25 Travancore road/temple-entry struggle vs later legal temple-entry statutes | वैकोम / मंदिर प्रवेश |
-| NCM 1920–22 | CDM 1930–34 | Boycott titles/schools/courts vs salt and civil-law defiance | असहयोग / सविनय अवज्ञा |
-| Khilafat | NCM | Caliphate issue of Indian Muslims vs Congress mass boycott (joined 1920–22) | खिलाफत / असहयोग |
-| No-changers | Pro-changers (Swarajists) | Gaya 1922: stay out, constructive work only vs enter councils and obstruct from inside | नो-चेंजर / प्रो-चेंजर |
-| Nehru Report | Jinnah's 14 Points | 1928 dominion draft vs Muslim League's counter-demands, 1929 | नेहरू रिपोर्ट / 14 सूत्र |
-| Gandhi's 11 Points | Jinnah's 14 Points | Jan 1930 ultimatum to Irwin (economic + political demands) vs 1929 League charter | 11 सूत्र / 14 सूत्र |
-| Dominion status | Purna Swaraj | Self-govt within Empire vs complete independence (Lahore 1929) | डोमिनियन / पूर्ण स्वराज |
-| Gandhi–Irwin Pact | Poona Pact | Mar 1931 Congress–Viceroy truce vs Sep 1932 reserved-seats deal | गांधी-इरविन / पूना पैक्ट |
-| Communal Award | Poona Pact | Separate electorates for Depressed Classes vs reserved seats in joint electorates | सांप्रदायिक पंचाट / पूना पैक्ट |
-| Tagore knighthood | Sankaran Nair | Returned title vs resigned Viceroy's Executive Council | टैगोर / शंकरन नायर |
-| Hunter Committee 1919 | Hunter Commission 1882 | Jallianwala firing inquiry (Lord William Hunter) vs W.W. Hunter's education commission | हंटर कमेटी 1919 / हंटर आयोग 1882 |
-| 1st RTC | 2nd RTC | 1930 Congress absent vs 1931 Gandhi sole Congress representative | प्रथम / द्वितीय गोलमेज |
-| Champaran | Kheda | 1917 indigo Bihar vs 1918 revenue Gujarat | चंपारण / खेड़ा |
-| Chauri Chaura | Dandi | 1922 NCM withdrawal vs 1930 CDM launch | चौरी चौरा / दांडी |
-| August Offer 1940 | Cripps Mission 1942 | Linlithgow's dominion-after-war + minority veto vs Cripps's Constituent Assembly + provincial opt-out | अगस्त प्रस्ताव / क्रिप्स मिशन |
-| Individual Satyagraha 1940 | Civil Disobedience 1930–34 | One person at a time, symbolic vs mass nationwide defiance | व्यक्तिगत सत्याग्रह / सविनय अवज्ञा |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Communal Award = 1933** → **16 August 1932**.
+2. **Nehru Report = Jawaharlal / Purna Swaraj** → **Motilal 1928 Dominion**; Purna Swaraj = **Lahore 1929**.
+3. **Tagore resigned Executive Council** → Tagore = **knighthood**; **Sankaran Nair** = Council.
+4. **Gandhi attended all three RTCs** → **only the 2nd**.
+5. **Rajendra Prasad at 2nd RTC** → he did **not**; Gandhi was sole Congress rep.
+6. **Poona Pact = separate electorates** → **reserved seats**, joint electorates.
+7. **Chauri Chaura = 1919 / Dandi** → **February 1922**, Gorakhpur; NCM ends.
+8. **Champaran = 1859 indigo** → **1917 tinkathia**; 1859 is Biswas brothers.
+9. **Simon came in 1927** → **appointed 1927**, in India **1928**.
+10. **End of CDM before Poona Pact** → Pact **1932**; CDM ends **1934**.
+11. **Gandhi–Irwin after 2nd RTC** → Pact **March 1931**, then 2nd RTC.
+12. **Swaraj Party = CSP** → Swarajists **1923** council entry; CSP **1934** socialists.
+13. **26 January 1930 = Republic Day origin only** → first observed as **Purna Swaraj Day**.
+14. **Webb Miller = Jallianwala** → **Dharasana salt**.
+15. **Kheda = salt 1930** → Kheda **1918 revenue**; salt = **Dandi 1930**.
+16. **No-changers = Swarajists** → No-changers stayed **out** of councils; Pro-changers/Swarajists **entered** them.
+17. **Hunter Committee = Hunter Commission** → Committee **1919** Jallianwala inquiry; Commission **1882** education review — different Hunters, six decades apart.
+18. **August Offer = Cripps Mission** → Offer **August 1940**, Linlithgow; Cripps **March 1942**, full card in Topic 14.
+19. **Individual Satyagraha = mass Civil Disobedience** → it was **symbolic**, one person at a time; Vinoba Bhave first.
+20. **Gandhi's Eleven Points = Jinnah's Fourteen Points** → Eleven Points (Jan 1930) went from Gandhi to Irwin; Fourteen Points (1929) came from Jinnah against the Nehru Report.
+21. **Constructive Programme = a protest movement** → it is **daily nation-building work** (khadi, hygiene, education), not a satyagraha.
+
+35. **First Indian satyagraha = 1915 return** → **Champaran 1917**.
+36. **Oldest ashram = Sabarmati** → **Phoenix (1904)**; Sabarmati move **1917**.
+37. **Father of the Nation = Nehru’s phrase** → first keyed to **Subhas Bose (1944)**.
+38. **Mahatma title = Nehru / Malaviya** → **Rabindranath Tagore** (Champaran season).
+39. **Bardoli led by Gandhi** → **Vallabhbhai Patel**.
+40. **Strike is first weapon of satyagraha** → **fasting** early; **strike** last.
+41. **Gandhi founded Theosophical Society / led Swadeshi 1905** → he was in **South Africa** in 1905; Theosophy founders are Blavatsky–Olcott.
+42. **Dinbandhu = Andrews’s birth name** → honorific given by **Gandhi**.
+43. **At Independence Gandhi was Congress President** → he was **not** even a formal member after **1934**.
+44. **Tinkathia = 3/19 or 3/18** → **3/20** of the holding.
+45. **Rajendra Prasad invited Gandhi to Champaran** → **Raj Kumar Shukla**.
+46. **First all-India Gandhi venture = Champaran** → **Rowlatt Satyagraha 1919** (Champaran is local).
+47. **Sankaran Nair returned knighthood** → **Tagore** returned knighthood; Nair **resigned** the Executive Council.
+48. **Swaraj Party = Gandhi–Tilak** → **C.R. Das and Motilal Nehru** after NCM withdrawal.
+49. **Nehru Report demanded Purna Swaraj** → it demanded **dominion status**; Purna Swaraj push = **Independence League / Lahore 1929**.
+50. **Simon Commission had Indian members** → it was **all-white**; that is why it was boycotted.
+51. **Moonje praised NCM withdrawal** → he moved a **vote of censure** (Delhi AICC, Feb 1922).
+52. **Hasrat Mohani = Lahore 1929 mover** → he defined complete independence at **Ahmedabad 1921**; Lahore President = **Nehru**.
+53. **26 January before 1947 = Republic Day** → it was **Purna Swaraj Day**.
+54. **Dharasana led by Gandhi in person** → Gandhi was in **Yeravada**; field lead **Abbas Tyabji / Sarojini Naidu**.
+55. **Gandhi attended 1st RTC** → **only the 2nd**; 1st and 3rd without Congress.
+56. **Poona Pact = separate electorates kept** → **joint electorates + reserved seats**.
+57. **Harijan Sevak Sangh first President = Ambedkar** → **G.D. Birla**; Gandhi founded the body.
 
 
 ---

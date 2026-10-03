@@ -15,7 +15,8 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 
 ---
 
-## Consolidated — 40 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 40 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The imperial Gupta line runs **Sri Gupta → Ghatotkacha → Chandragupta I → Samudragupta → Chandragupta II → Kumaragupta I → Skandagupta**. Coaching often pegs Sri Gupta about **275 CE**; the imperial span is roughly **320–550 CE**, with capital **Pataliputra** (पाटलिपुत्र).
 2. **Sri Gupta** and **Ghatotkacha** carry only the title **Maharaja** (महाराज). The first Gupta **Maharajadhiraja** (महाराजाधिराज) is **Chandragupta I**.
@@ -58,9 +59,10 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 39. *Mrichchhakatika* (मृच्छकटिकम्) by **Sudraka** (शूद्रक) is the urban love story of **Charudatta** (चारुदत्त) and **Vasantasena** (वसन्तसेना). Chess as **Chaturanga** (चतुरंग) is a Gupta-age culture note.
 40. **Dhanvantari** (धन्वंतरि) is the Navaratna medicine name. **Bhaskara II** (भास्कर द्वितीय) (*Lilavati* (लीलावती), *Siddhanta Shiromani* (सिद्धांत शिरोमणि)) is **12th century**, not a Gupta contemporary.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -88,7 +90,7 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 | Devagupta | Chandragupta Maurya | CG II alias vs Mauryan founder | देवगुप्त / मौर्य |
 | Vishti | Bhaga | Forced labour as tax vs produce share (~1/6) | विष्टि / भाग |
 
----
+</details>
 
 ## Must-score facts — kings, coins, admin, travellers
 

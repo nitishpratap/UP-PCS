@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chemistry Topic 3 — Metals, Non-Metals and Chemical Reactions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Metals** are electropositive elements that readily donate valence electrons to form positive cations ($M \to M^{n+} + n e^-$).
 2. **Gold ($Au$)** is the most **malleable** and most **ductile** metal known: a single gram of gold can be drawn into a microscopic wire over $2\text{ kilometers}$ long or beaten into gold leaf only $0.00001\text{ mm}$ thick.
@@ -29,67 +28,48 @@ hide:
 13. **Iodine ($I_2$, $Z=53$)** is a non-metal that anomalously displays a **bright metallic-like luster** and sublimes into deep violet vapors upon gentle heating.
 14. **Diamond** is an allotrope of carbon where each carbon atom is bonded tetrahedrally to 4 other carbons via rigid $sp^3$ covalent bonds; it is the **hardest known naturally occurring mineral** (10 on Mohs scale), an electrical insulator, but an exceptional conductor of heat (better than copper).
 15. **Graphite** is an allotrope of carbon consisting of planar hexagonal sheets bonded via $sp^2$ hybridization with delocalized $\pi$ electrons; it is soft, slippery (used as a solid dry lubricant), and **conducts electricity**.
-16. Thermodynamically, **Graphite is the most stable allotrope of carbon** under standard ambient conditions ($298\text{ K}, 1\text{ atm}$); diamond is metastable and converts to graphite over geological timescales.
-17. **Fullerenes ($C_{60}$, Buckminsterfullerene)** consist of 60 carbon atoms arranged in a truncated icosahedron containing 20 hexagons and 12 pentagons, resembling a hollow soccer ball ("buckyball").
-18. **Graphene** is a single two-dimensional planar sheet of carbon atoms packed in a honeycomb crystal lattice; it is nearly transparent, conducts electricity with zero effective mass electrons, and is $>100$ times stronger than structural steel.
-19. Most metal oxides are **basic** (e.g., $Na_2O, CaO, MgO$), forming hydroxides with water. Most non-metal oxides are **acidic** (e.g., $SO_2, SO_3, CO_2, P_4O_{10}$), forming oxyacids with water.
-20. **Amphoteric Oxides** react with both acids and strong bases to yield salt and water. The two classic examples are **Aluminium oxide ($Al_2O_3$)** and **Zinc oxide ($ZnO$)**:
-21. **Neutral Oxides** exhibit neither acidic nor basic properties: Nitrous oxide ($N_2O$, laughing gas), Nitric oxide ($NO$), Carbon monoxide ($CO$), and Water ($H_2O$).
-22. **The Reactivity Series of Metals** in descending order:
-23. **Potassium ($K$) and Sodium ($Na$)** react violently with cold water, evolving hydrogen gas which catches fire spontaneously with an explosive, yellow/lilac flame.
-24. **Calcium ($Ca$)** reacts moderately with cold water; the bubbles of liberated $H_2$ gas stick to the metal surface, causing the calcium lumps to **float to the top of the water**.
-25. **Magnesium ($Mg$)** does not react with cold water; it reacts slowly with hot water and vigorously with steam to form magnesium oxide ($MgO$) and $H_2$.
-26. **Aluminium ($Al$), Zinc ($Zn$), and Iron ($Fe$)** react neither with cold nor hot water, but react exclusively with **superheated steam**:
-27. **Lead, Copper, Silver, Platinum, and Gold** do not react with water, hot water, or steam at any temperature.
-28. Metals situated **above hydrogen** in the reactivity series displace hydrogen gas ($H_2 \uparrow$) from dilute mineral acids ($HCl, H_2SO_4$). Metals situated **below hydrogen** ($Cu, Ag, Au, Pt$) cannot displace $H_2$ from dilute acids.
-29. **Nitric Acid ($HNO_3$)** is a powerful oxidizing agent. When metals react with $HNO_3$, hydrogen gas is generally NOT evolved; instead, $HNO_3$ oxidizes $H_2$ to $H_2O$ and gets reduced to nitrogen oxides ($NO_2, NO, N_2O$).
-30. The only two metals that react with **very dilute ($\approx 1\%$) cold nitric acid** to evolve hydrogen gas ($H_2$) are **Magnesium ($Mg$)** and **Manganese ($Mn$)**.
-31. **Aqua Regia ("Royal Water")** is a freshly prepared fuming mixture of **$3\text{ parts concentrated } HCl$ and $1\text{ part concentrated } HNO_3$** (strict volumetric ratio $3:1$). It dissolves noble metals like Gold ($Au$) and Platinum ($Pt$) by producing nascent chlorine and nitrosyl chloride ($NOCl$), forming soluble tetrachloroaurate complexes ($[AuCl_4]^-$).
-32. **Bauxite ($Al_2O_3 \cdot 2H_2O$)** is the principal commercial ore of aluminium; it is purified by Bayer's chemical leaching and reduced electrolytically in the **Hall-Héroult process** using molten cryolite ($Na_3AlF_6$) and fluorspar ($CaF_2$) to lower the operating melting point from $2050^\circ\text{C}$ to $\sim 950^\circ\text{C}$.
-33. **Iron Ores**: Haematite ($Fe_2O_3$, red ore, $>65\% Fe$), Magnetite ($Fe_3O_4$, black ore, magnetic, up to $72\% Fe$), Limonite ($2Fe_2O_3 \cdot 3H_2O$), Siderite ($FeCO_3$).
-34. **Iron Pyrites ($FeS_2$)** displays a brassy golden metallic luster and is popularly termed **"Fool's Gold"**; it is an ore of sulphur, not iron extraction.
-35. In the metallurgical blast furnace, iron extraction yields **Pig Iron** ($\sim 4\% C$, highly brittle), which is remelted into **Cast Iron** ($\sim 3\% C$). **Wrought Iron** ($0.1–0.25\% C$) is the **purest commercial form of iron**, possessing high malleability and fibrous toughness.
-36. **Cinnabar ($HgS$)** is the primary ore of Mercury; heating cinnabar in air roasts it directly into volatile mercury vapor, which condenses into liquid mercury ($HgS + O_2 \to Hg + SO_2$).
-37. **Galena ($PbS$)** is the primary ore of Lead; **Pitchblende ($U_3O_8$)** is the primary ore of Uranium (from which Marie Curie discovered Radium and Polonium).
-38. **Monazite sand**, abundant in the placer beach sands of Kerala, is the primary global resource for **Thorium ($Th$)** and rare earth elements (cerium, lanthanum).
-39. **Froth Flotation Process** (invented by Mrs. Carrie Everson) is used selectively to concentrate **sulphide ores** (e.g., $ZnS, PbS, CuFeS_2$) using pine oil as a frothing collector and xanthates to make ore particles hydrophobic.
-40. **Calcination vs. Roasting**: Calcination heats carbonate/hydrated ores in the **absence or limited supply of air** below melting point ($CaCO_3 \xrightarrow{\Delta} CaO + CO_2$). Roasting heats sulphide ores in a **regular, excess supply of air** ($2ZnS + 3O_2 \to 2ZnO + 2SO_2$).
-41. **Thermite Process (Goldschmidt Reaction)**: Highly exothermic reduction of metal oxides using aluminium powder ($Fe_2O_3 + 2Al \to Al_2O_3 + 2Fe\text{ (molten)} + \text{immense heat}$). The generated molten iron reaches $>2500^\circ\text{C}$ and is used on-site for welding broken railway tracks and heavy machinery cracks.
-42. **Brass** is an alloy of **Copper ($60–70\%$) and Zinc ($30–40\%$)**; it is corrosion-resistant, acoustic, and used for musical instruments, cartridge casings, and decorative hardware.
-43. **Bronze** is an alloy of **Copper ($88–90\%$) and Tin ($10–12\%$)**; it is harder than brass and used for statues, medals, ship propellers, and coins.
-44. **German Silver** consists of **Copper ($50–60\%$), Zinc ($20–30\%$), and Nickel ($10–20\%$)**; it contains **ZERO percent silver** and is named solely for its silvery appearance.
-45. **Gun Metal** is an alloy of **Copper ($88\%$), Tin ($10\%$), and Zinc ($2\%$)**; used for heavy-duty ordnance, gears, and high-pressure steam valves.
-46. **Solder (Tanka)** is an alloy of **Lead ($50\%$) and Tin ($50\%$)**; it possesses a sharp, low melting point ($\sim 183^\circ\text{C}$) ideal for joining electrical circuits and plumbing joints.
-47. **Stainless Steel** consists of **Iron ($\sim 73\%$), Chromium ($18\%$), Nickel ($8–10\%$), and Carbon ($0.1–0.2\%$)**:
-48. **Chromium** forms a self-healing, microscopic passive layer of chromium oxide ($Cr_2O_3$) that prevents corrosion and rust.
-49. **Nickel** imparts mechanical toughness, ductility, and glossy luster.
-50. **Carbon** imparts high tensile hardness.
-51. **Nichrome** is an alloy of **Nickel ($80\%$) and Chromium ($20\%$)**; it exhibits high electrical resistivity, high melting point ($1400^\circ\text{C}$), and does not oxidize at red heat, making it the standard heating element in domestic toasters, geysers, and room heaters.
-52. **Amalgams** are alloys formed by any metal with **Mercury ($Hg$)**. Notable exception: **Iron ($Fe$), Cobalt, Nickel, and Platinum do NOT form amalgams**; hence, mercury is stored and transported industrially in sealed **iron flasks**.
-53. **Galvanization** is the metallurgical process of coating iron or steel sheets with a thin protective layer of **Zinc ($Zn$)** by dipping them into molten zinc at $\sim 450^\circ\text{C}$. Zinc acts as a sacrificial anode because $Zn$ is more electropositive than $Fe$ ($E^\circ_{Zn^{2+}/Zn} = -0.76\text{ V}$ vs $E^\circ_{Fe^{2+}/Fe} = -0.44\text{ V}$); even if the zinc surface is scratched, zinc corrodes preferentially, shielding the underlying iron from rust.
+16. **Fullerenes ($C_{60}$, Buckminsterfullerene)** consist of 60 carbon atoms arranged in a truncated icosahedron containing 20 hexagons and 12 pentagons, resembling a hollow soccer ball ("buckyball").
+17. **Graphene** is a single two-dimensional planar sheet of carbon atoms packed in a honeycomb crystal lattice; it is nearly transparent, conducts electricity with zero effective mass electrons, and is $>100$ times stronger than structural steel.
+18. **Amphoteric Oxides** react with both acids and strong bases to yield salt and water. The two classic examples are **Aluminium oxide ($Al_2O_3$)** and **Zinc oxide ($ZnO$)**:
+19. **Neutral Oxides** exhibit neither acidic nor basic properties: Nitrous oxide ($N_2O$, laughing gas), Nitric oxide ($NO$), Carbon monoxide ($CO$), and Water ($H_2O$).
+20. **The Reactivity Series of Metals** in descending order:
+21. **Potassium ($K$) and Sodium ($Na$)** react violently with cold water, evolving hydrogen gas which catches fire spontaneously with an explosive, yellow/lilac flame.
+22. **Calcium ($Ca$)** reacts moderately with cold water; the bubbles of liberated $H_2$ gas stick to the metal surface, causing the calcium lumps to **float to the top of the water**.
+23. **Magnesium ($Mg$)** does not react with cold water; it reacts slowly with hot water and vigorously with steam to form magnesium oxide ($MgO$) and $H_2$.
+24. **Aluminium ($Al$), Zinc ($Zn$), and Iron ($Fe$)** react neither with cold nor hot water, but react exclusively with **superheated steam**:
+25. **Lead, Copper, Silver, Platinum, and Gold** do not react with water, hot water, or steam at any temperature.
+26. **Nitric Acid ($HNO_3$)** is a powerful oxidizing agent. When metals react with $HNO_3$, hydrogen gas is generally NOT evolved; instead, $HNO_3$ oxidizes $H_2$ to $H_2O$ and gets reduced to nitrogen oxides ($NO_2, NO, N_2O$).
+27. **Aqua Regia ("Royal Water")** is a freshly prepared fuming mixture of **$3\text{ parts concentrated } HCl$ and $1\text{ part concentrated } HNO_3$** (strict volumetric ratio $3:1$). It dissolves noble metals like Gold ($Au$) and Platinum ($Pt$) by producing nascent chlorine and nitrosyl chloride ($NOCl$), forming soluble tetrachloroaurate complexes ($[AuCl_4]^-$).
+28. **Bauxite ($Al_2O_3 \cdot 2H_2O$)** is the principal commercial ore of aluminium; it is purified by Bayer's chemical leaching and reduced electrolytically in the **Hall-Héroult process** using molten cryolite ($Na_3AlF_6$) and fluorspar ($CaF_2$) to lower the operating melting point from $2050^\circ\text{C}$ to $\sim 950^\circ\text{C}$.
+29. **Iron Ores**: Haematite ($Fe_2O_3$, red ore, $>65\% Fe$), Magnetite ($Fe_3O_4$, black ore, magnetic, up to $72\% Fe$), Limonite ($2Fe_2O_3 \cdot 3H_2O$), Siderite ($FeCO_3$).
+30. **Iron Pyrites ($FeS_2$)** displays a brassy golden metallic luster and is popularly termed **"Fool's Gold"**; it is an ore of sulphur, not iron extraction.
+31. **Cinnabar ($HgS$)** is the primary ore of Mercury; heating cinnabar in air roasts it directly into volatile mercury vapor, which condenses into liquid mercury ($HgS + O_2 \to Hg + SO_2$).
+32. **Galena ($PbS$)** is the primary ore of Lead; **Pitchblende ($U_3O_8$)** is the primary ore of Uranium (from which Marie Curie discovered Radium and Polonium).
+33. **Monazite sand**, abundant in the placer beach sands of Kerala, is the primary global resource for **Thorium ($Th$)** and rare earth elements (cerium, lanthanum).
+34. **Froth Flotation Process** (invented by Mrs. Carrie Everson) is used selectively to concentrate **sulphide ores** (e.g., $ZnS, PbS, CuFeS_2$) using pine oil as a frothing collector and xanthates to make ore particles hydrophobic.
+35. **Calcination vs. Roasting**: Calcination heats carbonate/hydrated ores in the **absence or limited supply of air** below melting point ($CaCO_3 \xrightarrow{\Delta} CaO + CO_2$). Roasting heats sulphide ores in a **regular, excess supply of air** ($2ZnS + 3O_2 \to 2ZnO + 2SO_2$).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-— Razor-Sharp Distinctions
-
-| Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
-|---|---|---|---|
-| **Brass vs. Bronze** | **Brass**: Alloy of Copper ($Cu$) and **Zinc ($Zn$)**. | **Bronze**: Alloy of Copper ($Cu$) and **Tin ($Sn$)**. | **Second Metal**: Brass has Zinc (yellowish, ductile); Bronze has Tin (brownish, sonorous, harder). |
-| **Pig Iron vs. Cast Iron vs. Wrought Iron** | **Pig Iron**: Direct blast furnace product; contains **$\sim 4\%$ Carbon**; extremely brittle. | **Wrought Iron**: Purest commercial iron; contains **$<0.25\%$ Carbon**; malleable and fibrous. | **Carbon Content**: Wrought iron has the least carbon ($<0.25\%$) and highest purity; Pig iron has the highest carbon ($\sim 4\%$). |
-| **Galvanization vs. Tinning** | **Galvanization**: Coating iron with **Zinc ($Zn$)**. Sacrificial protection continues even if scratched. | **Tinning**: Coating copper/iron cookware with **Tin ($Sn$)**. Protects only while layer is intact. | **Scratch Vulnerability**: Zinc is more reactive than $Fe$ (sacrificial); Tin is less reactive than $Fe$ (if scratched, iron rusts *faster* under tin!). |
-| **Calcination vs. Roasting** | **Calcination**: Thermal decomposition of ores in the **absence or deficiency of oxygen/air**. | **Roasting**: Thermal oxidation of ores in an **excess stream of air/oxygen**. | **Oxygen Requirement**: Calcination is for carbonates/hydroxides without air; Roasting is for sulphide ores with excess air. |
-| **Diamond vs. Graphite Stability** | **Diamond**: Hardest natural substance, $sp^3$ hybridized, tetrahedral network; **metastable** at STP. | **Graphite**: Layered hexagonal, $sp^2$ hybridized, electrical conductor; **thermodynamically most stable** at STP. | **Thermodynamic Ground State**: Graphite has standard enthalpy of formation $\Delta_f H^\circ = 0$; Diamond has $\Delta_f H^\circ = +1.9\text{ kJ/mol}$. |
-| **Amalgam vs. Standard Alloy** | **Amalgam**: Alloy that strictly contains **Mercury ($Hg$)** as a major constituent liquid metal. | **Standard Alloy**: Solid or liquid mixture of two or more metals containing no mercury. | **Mercury Mandate**: Any alloy with mercury is an amalgam (dental amalgam $Ag-Sn-Hg$). Non-mercury alloys cannot be called amalgams. |
-| **Oxidizing Agent vs. Reducing Agent** | **Oxidizing Agent**: Causes oxidation of other species; **gains electrons** and is **itself reduced** ($e^-$ acceptor). | **Reducing Agent**: Causes reduction of other species; **loses electrons** and is **itself oxidized** ($e^-$ donor). | **Direction of Electron Flow**: Oxidizing agent takes electrons (oxidation state decreases); Reducing agent gives electrons (oxidation state increases). |
-| **German Silver vs. Sterling Silver** | **German Silver**: $Cu + Zn + Ni$. Contains **$0\%$ elemental silver**. | **Sterling Silver**: Precious alloy of **$92.5\%\text{ pure Silver } (Ag) + 7.5\%\text{ Copper } (Cu)$**. | **Silver Content**: Sterling Silver is genuine precious silver ($925$ hallmark); German Silver contains zero silver atoms. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& High-Yield Pitfalls
+
+| Trap Area | What Students Confuse | Correct Fact |
+|---|---|---|
+| **German Silver Silver Content** | Believing German Silver contains a low percentage of silver (e.g., 2–5%). | German Silver contains **$0\%\text{ Silver}$** ($Cu + Zn + Ni$). It is named solely for its silvery appearance. |
+| **Allotrope Stability** | Assuming diamond is the most stable form of carbon because it is the hardest. | **Graphite is thermodynamically most stable** at STP ($\Delta_f H^\circ = 0$). Diamond is metastable ($\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
+| **Amalgam Storing** | Believing all transition metals dissolve in mercury. | **Iron ($Fe$), Cobalt, Nickel, and Platinum do NOT form amalgams**. Mercury is commercially stored in heavy iron containers. |
+| **Galvanization vs. Tinning Scratches** | Assuming both zinc and tin continue protecting iron after being scratched. | **Zinc protects even when scratched** (sacrificial anode). **Tin accelerates rusting** if scratched, because iron is more reactive than tin. |
+| **Aqua Regia Acid Ratio** | Confusing the $3:1$ ratio as $3\text{ parts } HNO_3 + 1\text{ part } HCl$. | Aqua Regia is **$3\text{ parts conc. } HCl + 1\text{ part conc. } HNO_3$** (3 volumes of hydrochloric to 1 of nitric). |
+| **Nitric Acid Hydrogen Evolution** | Thinking active metals like Zinc or Iron liberate $H_2$ from dilute $HNO_3$. | $HNO_3$ is a strong oxidizer and produces nitrogen oxides ($NO_2, NO$), not $H_2$. Only **$Mg$ and $Mn$** evolve $H_2$ with $\approx 1\%$ dilute cold $HNO_3$. |
+| **Rusting Weight Consequence** | Assuming rusted iron weighs less because rust flakes away. | Rusting chemically binds atmospheric oxygen and water ($Fe_2O_3 \cdot xH_2O$); the total weight of the iron piece **increases**. |
+| **Brass vs. Bronze** | Mixing up whether Brass or Bronze contains Tin. | **Brass = Copper + Zinc**. **Bronze = Copper + Tin**. Remember: "Bro**n**ze has Ti**n**". |
+| **Liquid Metals at Room Temp** | Thinking Gallium and Caesium are liquid at room temperature ($25^\circ\text{C}$). | Only **Mercury** is liquid at $25^\circ\text{C}$ (m.p. $-38.8^\circ\text{C}$). Gallium ($29.8^\circ\text{C}$) and Caesium ($28.4^\circ\text{C}$) melt slightly above room temperature (in the palm). |
+| **Fool's Gold Extraction** | Assuming Fool's Gold ($FeS_2$) is an ore mined for metallic iron. | Iron pyrites is mined for **sulphur / sulphuric acid production**, not iron extraction, because sulphur impurities make iron brittle. |
+
+---
 
 
 ---
@@ -155,9 +135,10 @@ hide:
 49. **Amalgams** are alloys formed by any metal with **Mercury ($Hg$)**. Notable exception: **Iron ($Fe$), Cobalt, Nickel, and Platinum do NOT form amalgams**; hence, mercury is stored and transported industrially in sealed **iron flasks**.
 50. **Galvanization** is the metallurgical process of coating iron or steel sheets with a thin protective layer of **Zinc ($Zn$)** by dipping them into molten zinc at $\sim 450^\circ\text{C}$. Zinc acts as a sacrificial anode because $Zn$ is more electropositive than $Fe$ ($E^\circ_{Zn^{2+}/Zn} = -0.76\text{ V}$ vs $E^\circ_{Fe^{2+}/Fe} = -0.44\text{ V}$); even if the zinc surface is scratched, zinc corrodes preferentially, shielding the underlying iron from rust.
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -170,7 +151,7 @@ hide:
 | **Oxidizing Agent vs. Reducing Agent** | **Oxidizing Agent**: Causes oxidation of other species; **gains electrons** and is **itself reduced** ($e^-$ acceptor). | **Reducing Agent**: Causes reduction of other species; **loses electrons** and is **itself oxidized** ($e^-$ donor). | **Direction of Electron Flow**: Oxidizing agent takes electrons (oxidation state decreases); Reducing agent gives electrons (oxidation state increases). |
 | **German Silver vs. Sterling Silver** | **German Silver**: $Cu + Zn + Ni$. Contains **$0\%$ elemental silver**. | **Sterling Silver**: Precious alloy of **$92.5\%\text{ pure Silver } (Ag) + 7.5\%\text{ Copper } (Cu)$**. | **Silver Content**: Sterling Silver is genuine precious silver ($925$ hallmark); German Silver contains zero silver atoms. |
 
----
+</details>
 
 ## Master Reference Tables
 

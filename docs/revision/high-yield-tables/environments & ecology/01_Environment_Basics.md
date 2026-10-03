@@ -11,9 +11,17 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 1 — Environment (पर्यावरण) Basics</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why asked |
+|------|------|-----------|
+| **2023** | **Amrit Dharohar Scheme** — wetlands conservation; launched on WED 2023 | Wetlands + governance |
+| **2023** | **National Green Hydrogen Mission** | SD / climate policy overlap |
+| **2019** | **NCAP** (राष्ट्रीय स्वच्छ वायु कार्यक्रम) — 132 cities; 20–30% PM2.5/PM10 reduction target by 2024 | Urban (नगरीय) environment governance |
+
+---
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,20 +33,6 @@ hide:
 | **Liebig's Law of the Minimum** | **Shelford's Law of Tolerance** | Population growth is controlled by the scarcest limiting resource vs species survival requires environmental factors to remain between minimum and maximum tolerance limits | लाइबिग का न्यूनतम नियम / शेलफोर्ड का सहनशीलता नियम |
 | **Internal Environment** | **External Environment** | Biochemical and physiological conditions within an organism (homeostasis) vs physical surroundings external to the organism | आंतरिक पर्यावरण / बाह्य पर्यावरण |
 | **Physical Environment** | **Biological Environment** | Inanimate non-living components (lithosphere, hydrosphere, atmosphere) vs living communities of flora, fauna, and microbes | भौतिक पर्यावरण / जैविक पर्यावरण |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why asked |
-|------|------|-----------|
-| **2023** | **Amrit Dharohar Scheme** — wetlands conservation; launched on WED 2023 | Wetlands + governance |
-| **2023** | **National Green Hydrogen Mission** | SD / climate policy overlap |
-| **2019** | **NCAP** (राष्ट्रीय स्वच्छ वायु कार्यक्रम) — 132 cities; 20–30% PM2.5/PM10 reduction target by 2024 | Urban (नगरीय) environment governance |
 
 ---
 
@@ -220,18 +214,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Environment means the sum of biotic and abiotic factors that affect living organisms. Notes do not treat “only physical” or “only living” as the full definition.
-- **Exam Anchor:** The four (चातुर्याम) spheres are lithosphere, hydrosphere, atmosphere, and biosphere. Biosphere roughly spans from about 200 m below soil to about 6 km above sea level.
 - **Exam Anchor:** Ecology (पारिस्थितिकी) is the study of organism–environment links. An ecosystem (पारिस्थितिकी तंत्र) is the functional unit. A habitat (वास स्थान) is the place. A niche is the role.
-- **Exam Anchor:** Abiotic factors include light, temperature, water, soil, gases, pH, and salinity. Edaphic means soil; climatic means weather; topographic means slope and altitude.
-- **Exam Anchor:** Biotic structure runs producers → consumers → decomposers. Rhizobium fixes nitrogen in legumes.
 - **Exam Anchor:** Liebig’s law says growth is limited by the scarcest essential resource. Shelford’s law says a species survives only inside a min–max tolerance range.
-- **Exam Anchor:** Land is about 29% of Earth’s surface and water about 71%. Lentic means standing water; lotic means flowing water. Mangroves and wetlands are transitional.
-- **Exam Anchor:** Human–environment thought moves environmental determinism (Ratzel) → possibilism (Vidal de la Blache) → neo-determinism (Griffith Taylor).
-
-</details>
+- **Exam Anchor:** IPAT is Impact = Population (जनसंख्या) × Affluence × Technology. Hardin’s Tragedy of the Commons dates to 1968.
+- **Exam Anchor:** Chipko (चिपको) began in 1973 at Reni, Uttarakhand (उत्तराखंड). JFM guidance is 1990. FRA is 2006.
+- **Exam Anchor:** Article 48A is the State DPSP (राज्य के नीति निदेशक तत्व) on environment. Article 51A(g) is the citizen’s Fundamental Duty. Article 48 is about agriculture and cows — not environment.
+- **Exam Anchor:** Article 21 (अनुच्छेद 21) has been read to include a healthy environment. The 42nd (42वां) Amendment (1976) added 48A and 51A(g).
+- **Exam Anchor:** MoEF began in 1985 and became MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) in 2014. Headquarters is New Delhi.
+- **Exam Anchor:** Stockholm 1972 (स्टॉकहोम सम्मेलन) was the first UN human-environment conference and led to UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) at Nairobi.
 
 ---
 

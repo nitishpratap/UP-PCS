@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 6 — Electricity, Magnetism and Electromagnetism</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Concept A | Concept B | Core Distinction & Common Trap |
 | :--- | :--- | :--- |
@@ -25,11 +23,7 @@ hide:
 | **LED** | **CFL** | LED emits light via solid-state **electroluminescence** (GaAs, $50k-100k\text{ h}$, no toxic mercury). CFL uses gas discharge through **mercury vapour** exciting phosphor ($6k-15k\text{ h}$). |
 | **Photovoltaic Cell** | **Photodiode** | Photovoltaic cell **generates electric power** from incident light (solar panels). Photodiode **senses light** as a light-controlled switch (reverse-biased detector). |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Table 1: Electrical & Magnetic Units and Dimensions
 
@@ -122,18 +116,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Electric current is defined as the rate of flow of electric charge: $I = Q/t$; its SI unit is the Ampere ($1\text{ A} = 1\text{ C/s}$).
-- **Exam Anchor:** By international convention, the direction of electric current is the direction of flow of positive charge, which is opposite to the drift of electrons.
-- **Exam Anchor:** Current density ($\vec{j} = I/A$) is a VECTOR quantity (pointing in the direction of positive charge motion), whereas electric current ($I$) and electric potential ($V$) are scalars.
-- **Exam Anchor:** The dielectric constant (relative permittivity $\varepsilonr$) is a dimensionless quantity ($M^0 L^0 T^0$).
-- **Exam Anchor:** The kinetic energy acquired by an electron of charge $e$ falling through potential difference $V$ is $E = eV\text{ Joules} = 1.602 \times 10^{-19}\text{ J}$ for $1\text{ volt}$.
-- **Exam Anchor:** The commercial unit of electrical energy is the kilowatt-hour (kWh), commonly called one 'unit': $1\text{ kWh} = 1000\text{ W} \times 3600\text{ s} = 3.6 \times 10^6\text{ Joules}$.
-- **Exam Anchor:** Household electrical consumption of $250\text{ units} = 250 \times 3.6 \times 10^6 = \mathbf{9 \times 10^8\text{ Joules}}$ (71st BPSC 2025).
-- **Exam Anchor:** Electric power equations in simple ohmic circuits: $P = VI = I^2 R = V^2 / R$. The expression $IR^2$ DOES NOT represent electric power (71st BPSC 2025).
-
-</details>
+- **Exam Anchor:** Electric Vehicle (EV) Battery Cathode Chemistries (IAS Pre 2025 Fact):
+- **Exam Anchor:** Cathode (Positive Electrode): Typically composed of Cobalt, Lithium, and Nickel (as NMC: $\text{LiNiMnCoO}2$) or Lithium Iron Phosphate (LFP: $\text{LiFePO}4$), coated on aluminium foil.
+- **Exam Anchor:** Anode (Negative Electrode): Constructed of Graphite (Carbon) coated on copper foil.
+- **Exam Anchor:** Common Trap Fact: Graphite is strictly an ANODE material, NOT a cathode component!
+- **Exam Anchor:** Alternative Powertrain Vehicles (IAS Pre 2025 Fact):
+- **Exam Anchor:** Distributed Energy Resources (DER: IAS Pre 2024 Fact):
+- **Exam Anchor:** Pumped-Storage Hydropower (PSH) in Uttar Pradesh (IAS Pre 2024 Fact):
+- **Exam Anchor:** Silkyara Tunnel Lighting Calculation (UPPCS RO/ARO Pre 2023 Fact):
 
 ---
 
@@ -145,7 +137,7 @@ hide:
 
 Which of the following is correct regarding this topic?
 
-A. Electric current is defined as the rate of flow of electric charge: $I = Q/t$; its SI unit is the Ampere ($1\text{ A} = 1\text{ C/s}$).
+A. Electric Vehicle (EV) Battery Cathode Chemistries (IAS Pre 2025 Fact):
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
@@ -156,7 +148,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Electric current is defined as the rate of flow of electric charge: $I = Q/t$; its SI unit is the **Ampere ($1\text{ A} = 1\text{ C/s}$)**.
+- **Key Exam Association:** **Electric Vehicle (EV) Battery Cathode Chemistries (IAS Pre 2025 Fact):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -164,8 +156,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, By applies only to union territories and not state jurisdictions.
-B. By international convention, the direction of electric current is the direction of flow of positive charge, which is opposite to the drift of electrons.
+A. Contrary to standard doctrine, Cathode applies only to union territories and not state jurisdictions.
+B. Cathode (Positive Electrode): Typically composed of Cobalt, Lithium, and Nickel (as NMC: $\text{LiNiMnCoO}2$) or Lithium Iron Phosphate (LFP: $\text{LiFePO}4$), coated on aluminium foil.
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -175,7 +167,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** By international convention, the direction of electric current is the direction of flow of positive charge, which is **opposite to the drift of electrons**.
+- **Key Exam Association:** **Cathode (Positive Electrode):** Typically composed of **Cobalt, Lithium, and Nickel** (as NMC: $\text{LiNiMnCoO}_2$) or Lithium Iron Phosphate (LFP: $\text{LiFePO}_4$), coated on aluminium foil.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -183,10 +175,162 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Current applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Anode applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. Current density ($\vec{j} = I/A$) is a VECTOR quantity (pointing in the direction of positive charge motion), whereas electric current ($I$) and electric potential ($V$) are scalars.
+C. Anode (Negative Electrode): Constructed of Graphite (Carbon) coated on copper foil.
 D. Enacted under Article 356 of the Constitution of India
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Anode (Negative Electrode):** Constructed of **Graphite (Carbon)** coated on copper foil.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q4.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Common applies only to union territories and not state jurisdictions.
+B. Enacted under Article 356 of the Constitution of India
+C. None of the above statements are correct according to official Commission keys.
+D. Common Trap Fact: Graphite is strictly an ANODE material, NOT a cathode component!
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Common Trap Fact:** Graphite is strictly an **ANODE** material, NOT a cathode component!
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q5.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Alternative Powertrain Vehicles (IAS Pre 2025 Fact):
+B. Reported by the Law Commission in its 214th consultation paper
+C. None of the above statements are correct according to official Commission keys.
+D. Amended by the 44th Constitutional Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Alternative Powertrain Vehicles (IAS Pre 2025 Fact):**
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q6.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Distributed applies only to union territories and not state jurisdictions.
+B. Distributed Energy Resources (DER: IAS Pre 2024 Fact):
+C. None of the above statements are correct according to official Commission keys.
+D. Excavated primarily in the Belan and Son River valleys
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Distributed Energy Resources (DER: IAS Pre 2024 Fact):**
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q7.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Pumped-Storage applies only to union territories and not state jurisdictions.
+B. Excavated primarily in the Belan and Son River valleys
+C. Pumped-Storage Hydropower (PSH) in Uttar Pradesh (IAS Pre 2024 Fact):
+D. Classified under Schedule VII List II (State List)
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Pumped-Storage Hydropower (PSH) in Uttar Pradesh (IAS Pre 2024 Fact):**
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q8.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Silkyara applies only to union territories and not state jurisdictions.
+B. Classified under Schedule VII List II (State List)
+C. None of the above statements are correct according to official Commission keys.
+D. Silkyara Tunnel Lighting Calculation (UPPCS RO/ARO Pre 2023 Fact):
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Silkyara Tunnel Lighting Calculation (UPPCS RO/ARO Pre 2023 Fact):**
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q9.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Wind Power Installed Capacity in India (CGPSC / MPPSC Fact):
+B. Originated during the Later Vedic transitional period
+C. None of the above statements are correct according to official Commission keys.
+D. Statement I is correct but Statement II is incorrect
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Wind Power Installed Capacity in India (CGPSC / MPPSC Fact):**
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q10.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Global applies only to union territories and not state jurisdictions.
+B. Global Solar Silicon Wafer Production (IAS Pre Fact):
+C. None of the above statements are correct according to official Commission keys.
+D. Both statements are true and explain the phenomenon
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Global Solar Silicon Wafer Production (IAS Pre Fact):**
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q11.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Current applies only to union territories and not state jurisdictions.
+B. Both statements are true and explain the phenomenon
+C. Current density ($\vec{j} = I/A$) is a VECTOR quantity (pointing in the direction of positive charge motion), whereas electric current ($I$) and electric potential ($V$) are scalars.
+D. It was established during the First Five-Year Plan period
 
 <details>
 <summary>Show answer</summary>
@@ -198,166 +342,14 @@ D. Enacted under Article 356 of the Constitution of India
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q4.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. The dielectric constant (relative permittivity $\varepsilonr$) is a dimensionless quantity ($M^0 L^0 T^0$).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** The **dielectric constant** (relative permittivity $\varepsilon_r$) is a dimensionless quantity ($M^0 L^0 T^0$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q5.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. The kinetic energy acquired by an electron of charge $e$ falling through potential difference $V$ is $E = eV\text{ Joules} = 1.602 \times 10^{-19}\text{ J}$ for $1\text{ volt}$.
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** The kinetic energy acquired by an electron of charge $e$ falling through potential difference $V$ is **$E = eV\text{ Joules} = 1.602 \times 10^{-19}\text{ J}$** for $1\text{ volt}$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q6.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The commercial unit of electrical energy is the kilowatt-hour (kWh), commonly called one 'unit': $1\text{ kWh} = 1000\text{ W} \times 3600\text{ s} = 3.6 \times 10^6\text{ Joules}$.
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** The commercial unit of electrical energy is the **kilowatt-hour (kWh)**, commonly called one **'unit'**: $1\text{ kWh} = 1000\text{ W} \times 3600\text{ s} = 3.6 \times 10^6\text{ Joules}$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q7.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Household applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Household electrical consumption of $250\text{ units} = 250 \times 3.6 \times 10^6 = \mathbf{9 \times 10^8\text{ Joules}}$ (71st BPSC 2025).
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** Household electrical consumption of $250\text{ units} = 250 \times 3.6 \times 10^6 = \mathbf{9 \times 10^8\text{ Joules}}$ (71st BPSC 2025).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q8.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Electric applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Electric power equations in simple ohmic circuits: $P = VI = I^2 R = V^2 / R$. The expression $IR^2$ DOES NOT represent electric power (71st BPSC 2025).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** Electric power equations in simple ohmic circuits: $P = VI = I^2 R = V^2 / R$. The expression **$IR^2$ DOES NOT represent electric power** (71st BPSC 2025).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q9.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Resistance of a conductor: $R = \rho L / A$, where $\rho$ is specific resistance (electrical resistivity), measured in Ohm-metre ($\Omega\cdot\text{m}$).
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** Resistance of a conductor: $R = \rho L / A$, where $\rho$ is specific resistance (electrical resistivity), measured in **Ohm-metre ($\Omega\cdot\text{m}$)**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q10.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, If applies only to union territories and not state jurisdictions.
-B. If a wire is stretched so that its length doubles ($L' = 2L$) at constant volume, its area halves ($A' = A/2$), causing its resistance to quadruple ($R' = 4R$).
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** If a wire is stretched so that its length doubles ($L' = 2L$) at constant volume, its area halves ($A' = A/2$), causing its resistance to quadruple ($R' = 4R$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q11.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Of applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Of two domestic light bulbs connected to the same voltage supply, the dimmer bulb has a LARGER electrical resistance ($P = V^2 / R$).
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** Of two domestic light bulbs connected to the same voltage supply, **the dimmer bulb has a LARGER electrical resistance** ($P = V^2 / R$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
 **Q12.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Connected applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Nickel-Cadmium applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Connected across the mains in parallel, two identical bulbs glow significantly brighter than when connected in series ($P{\text{parallel}} = 2V^2/R$ vs $P{\text{series}} = V^2/2R$).
+D. Nickel-Cadmium (Ni-Cd) rechargeable batteries use nickel oxide hydroxide and metallic cadmium electrodes with potassium hydroxide ($\text{KOH}$) alkaline electrolyte; used in calculators, cordless tools, and transistors.
 
 <details>
 <summary>Show answer</summary>
@@ -365,7 +357,7 @@ D. Connected across the mains in parallel, two identical bulbs glow significantl
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Connected across the mains in parallel, two identical bulbs glow significantly brighter than when connected in series ($P_{\text{parallel}} = 2V^2/R$ vs $P_{\text{series}} = V^2/2R$).
+- **Key Exam Association:** **Nickel-Cadmium (Ni-Cd)** rechargeable batteries use nickel oxide hydroxide and metallic cadmium electrodes with potassium hydroxide ($\text{KOH}$) alkaline electrolyte; used in calculators, cordless tools, and transistors.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -373,7 +365,7 @@ D. Connected across the mains in parallel, two identical bulbs glow significantl
 
 Which of the following is correct regarding this topic?
 
-A. Resistor colour code memory key BBROYGBVGW: Brown = 1, Green = 5, Black = 0 (multiplier $10^0 = 1$). A resistor with bands Brown-Green-Black has resistance $(15) \times 10^0 = 15\,\Omega$; under $15\text{ V}$, it draws $1\text{ Ampere}$ (UPPCS RO/ARO 2023).
+A. Lightning contains tremendous electrical energy ($10^8 - 10^9\text{ Joules}$), sufficient to vaporize moisture inside a tree and cause explosive combustion.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -384,7 +376,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Resistor colour code memory key **BBROYGBVGW**: Brown = 1, Green = 5, Black = 0 (multiplier $10^0 = 1$). A resistor with bands Brown-Green-Black has resistance $(15) \times 10^0 = 15\,\Omega$; under $15\text{ V}$, it draws **$1\text{ Ampere}$** (UPPCS RO/ARO 2023).
+- **Key Exam Association:** **Lightning** contains tremendous electrical energy ($10^8 - 10^9\text{ Joules}$), sufficient to vaporize moisture inside a tree and cause explosive combustion.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -392,8 +384,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Capacitive applies only to union territories and not state jurisdictions.
-B. Capacitive reactance is inversely proportional to frequency: $XC = \frac{1}{2\pi f C} \propto \frac{1}{f}$.
+A. Contrary to standard doctrine, CFL applies only to union territories and not state jurisdictions.
+B. CFL (Compact Fluorescent Lamp) contains mercury vapour and argon; electric discharge excites mercury atoms to emit ultraviolet radiation, which strikes inner phosphor coating to fluoresce visible white light ($22\%$ energy efficiency; lasts $6,000 - 15,000\text{ hours}$).
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -403,7 +395,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Capacitive reactance is inversely proportional to frequency: $X_C = \frac{1}{2\pi f C} \propto \frac{1}{f}$.
+- **Key Exam Association:** **CFL (Compact Fluorescent Lamp)** contains mercury vapour and argon; electric discharge excites mercury atoms to emit ultraviolet radiation, which strikes inner phosphor coating to fluoresce visible white light ($22\%$ energy efficiency; lasts $6,000 - 15,000\text{ hours}$).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -411,9 +403,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Inductive applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Light applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Inductive reactance is directly proportional to frequency: $XL = 2\pi f L \propto f$.
+C. Light Emitting Diode (LED) operates on the principle of ELECTROLUMINESCENCE; electrons recombine with electron holes in a direct-bandgap semiconductor (e.g. Gallium Arsenide/Phosphide), releasing energy directly as photons.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -422,6 +414,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Inductive reactance is directly proportional to frequency: $X_L = 2\pi f L \propto f$.
+- **Key Exam Association:** **Light Emitting Diode (LED)** operates on the principle of **ELECTROLUMINESCENCE**; electrons recombine with electron holes in a direct-bandgap semiconductor (e.g. Gallium Arsenide/Phosphide), releasing energy directly as photons.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 5 — Sound and Wave Motion</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Concept A | Concept B | Core Distinction & Common Trap |
 | :--- | :--- | :--- |
@@ -26,11 +24,7 @@ hide:
 | **AM (Amplitude Mod.)** | **FM (Frequency Mod.)** | AM varies carrier amplitude (used in TV picture, long/medium wave radio; prone to noise). FM varies carrier frequency (used in TV audio, FM radio; superior noise immunity, wider bandwidth). |
 | **Echo** | **Reverberation** | Echo is a discrete reflection heard after $\ge 0.1\text{ s}$ ($d \ge 17.2\text{ m}$). Reverberation is a continuous persistence of sound due to rapid, multiple overlapping reflections ($t < 0.1\text{ s}$). |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Table 1: Speed of Sound Across Common Media (Standard Conditions)
 
@@ -171,18 +165,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A wave transports energy and momentum from one point to another without any net transport of matter.
-- **Exam Anchor:** Mechanical waves require an elastic material medium possessing inertia and elasticity (restoring force) for propagation.
-- **Exam Anchor:** Transverse mechanical waves can propagate only in solids (which sustain shear stress) and on liquid surfaces; they cannot propagate through the bulk of fluids (liquids and gases).
-- **Exam Anchor:** Ocean surface waves are a hybrid: water particles execute both vertical and horizontal orbital motions (elliptical trajectories).
-- **Exam Anchor:** Longitudinal waves propagate through all three states of matter (solids, liquids, and gases) as alternating compressions and rarefactions.
-- **Exam Anchor:** Sound waves in air and all fluid media are strictly longitudinal mechanical waves.
-- **Exam Anchor:** In solids (such as rocks and metals), sound can propagate as both longitudinal waves and transverse (shear) waves.
-- **Exam Anchor:** In an earthquake, Primary (P) waves are longitudinal (compressional, travel through solid, liquid, gas, recorded first on seismograph), while Secondary (S) waves are transverse (shear, travel only through solids, recorded later).
-
-</details>
+- **Exam Anchor:** UNEP 'Frontiers Report' on Noise Pollution (Moradabad Spotlight):
+- **Exam Anchor:** UPPCS Direct Question Fact: WHO recommends ambient residential noise levels below $45\text{ dB}$. Any continuous exposure above $80\text{ dB}$ constitutes hazardous noise pollution causing permanent auditory damage, hypertension, and sleep disorders.
+- **Exam Anchor:** Insolation vs Terrestrial Radiation (IAS Pre 2024 / UPPCS 2022 Fact):
+- **Exam Anchor:** Albedo Measurements in Climate Science (UPPCS Pre Fact):
+- **Exam Anchor:** Fresh snow cover exhibits the highest albedo on Earth ($80\% - 95\%$ reflecting power), causing skiers to suffer UV burns from reflected radiation. Open water exhibits the lowest albedo ($\sim 3\% - 5\%$).
+- **Exam Anchor:** Telecommunication Frequency Bands & Space Waves (RAS Pre / UPPCS Fact):
+- **Exam Anchor:** Ultra High Frequency (UHF: $300\text{ MHz} - 3\text{ GHz}$) cannot follow the curvature of Earth (ground waves) nor be reflected by the ionosphere (sky waves). They propagate via space waves (line-of-sight propagation), which powers mobile telephony, Wi-Fi, and UHF television broadcasting.
+- **Exam Anchor:** Acoustic Bathymetry & Deep Sea Submersibles (Samudrayaan / MATSYA 6000 Fact):
 
 ---
 
@@ -194,7 +186,7 @@ hide:
 
 Which of the following is correct regarding this topic?
 
-A. A wave transports energy and momentum from one point to another without any net transport of matter.
+A. UNEP 'Frontiers Report' on Noise Pollution (Moradabad Spotlight):
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
@@ -205,7 +197,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** A wave transports **energy and momentum** from one point to another without any net transport of matter.
+- **Key Exam Association:** **UNEP 'Frontiers Report' on Noise Pollution (Moradabad Spotlight):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -213,8 +205,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Mechanical applies only to union territories and not state jurisdictions.
-B. Mechanical waves require an elastic material medium possessing inertia and elasticity (restoring force) for propagation.
+A. Contrary to standard doctrine, UPPCS applies only to union territories and not state jurisdictions.
+B. UPPCS Direct Question Fact: WHO recommends ambient residential noise levels below $45\text{ dB}$. Any continuous exposure above $80\text{ dB}$ constitutes hazardous noise pollution causing permanent auditory damage, hypertension, and sleep disorders.
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -224,7 +216,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Mechanical waves require an elastic material medium possessing **inertia and elasticity (restoring force)** for propagation.
+- **Key Exam Association:** **UPPCS Direct Question Fact:** WHO recommends ambient residential noise levels below **$45\text{ dB}$**. Any continuous exposure above **$80\text{ dB}$** constitutes hazardous noise pollution causing permanent auditory damage, hypertension, and sleep disorders.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -232,9 +224,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Transverse applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Insolation applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. Transverse mechanical waves can propagate only in solids (which sustain shear stress) and on liquid surfaces; they cannot propagate through the bulk of fluids (liquids and gases).
+C. Insolation vs Terrestrial Radiation (IAS Pre 2024 / UPPCS 2022 Fact):
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -243,7 +235,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Transverse mechanical waves can propagate only in **solids** (which sustain shear stress) and on liquid surfaces; they **cannot propagate through the bulk of fluids (liquids and gases)**.
+- **Key Exam Association:** **Insolation vs Terrestrial Radiation (IAS Pre 2024 / UPPCS 2022 Fact):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -251,10 +243,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Ocean applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Albedo applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Ocean surface waves are a hybrid: water particles execute both vertical and horizontal orbital motions (elliptical trajectories).
+D. Albedo Measurements in Climate Science (UPPCS Pre Fact):
 
 <details>
 <summary>Show answer</summary>
@@ -262,7 +254,7 @@ D. Ocean surface waves are a hybrid: water particles execute both vertical and h
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Ocean surface waves are a hybrid: water particles execute **both vertical and horizontal orbital motions** (elliptical trajectories).
+- **Key Exam Association:** **Albedo Measurements in Climate Science (UPPCS Pre Fact):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -270,7 +262,7 @@ D. Ocean surface waves are a hybrid: water particles execute both vertical and h
 
 Which of the following is correct regarding this topic?
 
-A. Longitudinal waves propagate through all three states of matter (solids, liquids, and gases) as alternating compressions and rarefactions.
+A. Fresh snow cover exhibits the highest albedo on Earth ($80\% - 95\%$ reflecting power), causing skiers to suffer UV burns from reflected radiation. Open water exhibits the lowest albedo ($\sim 3\% - 5\%$).
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -281,7 +273,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Longitudinal waves propagate through **all three states of matter (solids, liquids, and gases)** as alternating compressions and rarefactions.
+- **Key Exam Association:** **Fresh snow cover** exhibits the highest albedo on Earth ($80\% - 95\%$ reflecting power), causing skiers to suffer UV burns from reflected radiation. Open water exhibits the lowest albedo ($\sim 3\% - 5\%$).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -289,8 +281,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Sound applies only to union territories and not state jurisdictions.
-B. Sound waves in air and all fluid media are strictly longitudinal mechanical waves.
+A. Contrary to standard doctrine, Telecommunication applies only to union territories and not state jurisdictions.
+B. Telecommunication Frequency Bands & Space Waves (RAS Pre / UPPCS Fact):
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -300,7 +292,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Sound waves in air and all fluid media are strictly **longitudinal mechanical waves**.
+- **Key Exam Association:** **Telecommunication Frequency Bands & Space Waves (RAS Pre / UPPCS Fact):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -308,9 +300,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Ultra applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. In solids (such as rocks and metals), sound can propagate as both longitudinal waves and transverse (shear) waves.
+C. Ultra High Frequency (UHF: $300\text{ MHz} - 3\text{ GHz}$) cannot follow the curvature of Earth (ground waves) nor be reflected by the ionosphere (sky waves). They propagate via space waves (line-of-sight propagation), which powers mobile telephony, Wi-Fi, and UHF television broadcasting.
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -319,7 +311,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** In solids (such as rocks and metals), sound can propagate as **both longitudinal waves and transverse (shear) waves**.
+- **Key Exam Association:** **Ultra High Frequency (UHF: $300\text{ MHz} - 3\text{ GHz}$)** cannot follow the curvature of Earth (ground waves) nor be reflected by the ionosphere (sky waves). They propagate via **space waves (line-of-sight propagation)**, which powers mobile telephony, Wi-Fi, and UHF television broadcasting.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -327,10 +319,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Acoustic applies only to union territories and not state jurisdictions.
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. In an earthquake, Primary (P) waves are longitudinal (compressional, travel through solid, liquid, gas, recorded first on seismograph), while Secondary (S) waves are transverse (shear, travel only through solids, recorded later).
+D. Acoustic Bathymetry & Deep Sea Submersibles (Samudrayaan / MATSYA 6000 Fact):
 
 <details>
 <summary>Show answer</summary>
@@ -338,7 +330,7 @@ D. In an earthquake, Primary (P) waves are longitudinal (compressional, travel t
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** In an earthquake, **Primary (P) waves are longitudinal** (compressional, travel through solid, liquid, gas, recorded first on seismograph), while **Secondary (S) waves are transverse** (shear, travel only through solids, recorded later).
+- **Key Exam Association:** **Acoustic Bathymetry & Deep Sea Submersibles (Samudrayaan / MATSYA 6000 Fact):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -346,7 +338,7 @@ D. In an earthquake, Primary (P) waves are longitudinal (compressional, travel t
 
 Which of the following is correct regarding this topic?
 
-A. Plucking the string of a Sitar produces transverse stationary (standing) waves along the string, which induce longitudinal pressure sound waves in the surrounding air.
+A. Gamma rays ($\gamma$) have the shortest wavelength ($< 10^{-12}\text{ m}$), highest frequency, highest energy per photon ($E = h\nu$), and maximum penetrating power; used in radiotherapy to destroy cancerous cells.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -357,7 +349,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Plucking the string of a Sitar produces **transverse stationary (standing) waves** along the string, which induce longitudinal pressure sound waves in the surrounding air.
+- **Key Exam Association:** **Gamma rays ($\gamma$)** have the shortest wavelength ($< 10^{-12}\text{ m}$), highest frequency, highest energy per photon ($E = h\nu$), and maximum penetrating power; used in radiotherapy to destroy cancerous cells.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -365,8 +357,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Electromagnetic applies only to union territories and not state jurisdictions.
-B. Electromagnetic (EM) waves do not require any material medium and travel through a vacuum at the speed of light ($c \approx 3.0 \times 10^8\text{ m/s}$).
+A. Contrary to standard doctrine, Wilhelm applies only to union territories and not state jurisdictions.
+B. Wilhelm Conrad Röntgen discovered X-rays ($1\text{ nm} - 10^{-3}\text{ nm}$); X-rays are not deflected by electric or magnetic fields because they carry no electric charge.
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -376,7 +368,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Electromagnetic (EM) waves do not require any material medium and travel through a vacuum at the speed of light ($c \approx 3.0 \times 10^8\text{ m/s}$).
+- **Key Exam Association:** **Wilhelm Conrad Röntgen** discovered X-rays ($1\text{ nm} - 10^{-3}\text{ nm}$); X-rays are not deflected by electric or magnetic fields because they carry no electric charge.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -384,9 +376,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Cosmic applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. In a vacuum, all electromagnetic waves travel at the exact same velocity ($c$), regardless of their wavelength or frequency.
+C. Cosmic rays are NOT electromagnetic waves; they are streams of extremely high-energy charged subatomic particles (chiefly protons and alpha particles) arriving from outer space.
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -395,7 +387,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** In a vacuum, **all electromagnetic waves travel at the exact same velocity** ($c$), regardless of their wavelength or frequency.
+- **Key Exam Association:** **Cosmic rays are NOT electromagnetic waves**; they are streams of extremely high-energy charged subatomic particles (chiefly protons and alpha particles) arriving from outer space.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -403,10 +395,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, EM applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Sky applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. EM waves are self-sustaining oscillating electric ($\vec{E}$) and magnetic ($\vec{B}$) fields perpendicular to each other and to the direction of propagation (transverse nature).
+D. Sky wave propagation depends on the reflection of medium- and shortwave radio waves from the electrically ionized gas layers of the Ionosphere.
 
 <details>
 <summary>Show answer</summary>
@@ -414,7 +406,7 @@ D. EM waves are self-sustaining oscillating electric ($\vec{E}$) and magnetic ($
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** EM waves are self-sustaining oscillating electric ($\vec{E}$) and magnetic ($\vec{B}$) fields perpendicular to each other and to the direction of propagation (**transverse nature**).
+- **Key Exam Association:** **Sky wave propagation** depends on the reflection of medium- and shortwave radio waves from the electrically ionized gas layers of the **Ionosphere**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -422,7 +414,7 @@ D. EM waves are self-sustaining oscillating electric ($\vec{E}$) and magnetic ($
 
 Which of the following is correct regarding this topic?
 
-A. Electromagnetic spectrum in decreasing order of frequency (increasing order of wavelength): Gamma rays > X-rays > Ultraviolet > Visible light > Infrared > Microwaves > Radio waves.
+A. Edwin Howard Armstrong invented wideband Frequency Modulation (FM) in 1935; FM operates at higher frequency ($88-108\text{ MHz}$) and wider bandwidth, offering complete immunity from amplitude noise and static.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -433,7 +425,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Electromagnetic spectrum in decreasing order of frequency (increasing order of wavelength): **Gamma rays > X-rays > Ultraviolet > Visible light > Infrared > Microwaves > Radio waves**.
+- **Key Exam Association:** **Edwin Howard Armstrong** invented wideband Frequency Modulation (FM) in 1935; FM operates at higher frequency ($88-108\text{ MHz}$) and wider bandwidth, offering complete immunity from amplitude noise and static.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -441,8 +433,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Gamma applies only to union territories and not state jurisdictions.
-B. Gamma rays ($\gamma$) have the shortest wavelength ($< 10^{-12}\text{ m}$), highest frequency, highest energy per photon ($E = h\nu$), and maximum penetrating power; used in radiotherapy to destroy cancerous cells.
+A. Contrary to standard doctrine, Infrasonic applies only to union territories and not state jurisdictions.
+B. Infrasonic waves have frequencies below $20\text{ Hz}$; generated by earthquakes, volcanoes, ocean swells, avalanches, and elephants, whales, and rhinos.
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -452,7 +444,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Gamma rays ($\gamma$)** have the shortest wavelength ($< 10^{-12}\text{ m}$), highest frequency, highest energy per photon ($E = h\nu$), and maximum penetrating power; used in radiotherapy to destroy cancerous cells.
+- **Key Exam Association:** **Infrasonic waves** have frequencies below $20\text{ Hz}$; generated by earthquakes, volcanoes, ocean swells, avalanches, and elephants, whales, and rhinos.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -460,9 +452,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Wilhelm applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Ultrasonic applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Wilhelm Conrad Röntgen discovered X-rays ($1\text{ nm} - 10^{-3}\text{ nm}$); X-rays are not deflected by electric or magnetic fields because they carry no electric charge.
+C. Ultrasonic waves have frequencies exceeding $20,000\text{ Hz}$ ($20\text{ kHz}$); bats, dolphins, and porpoises use ultrasound for echolocation.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -471,6 +463,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Wilhelm Conrad Röntgen** discovered X-rays ($1\text{ nm} - 10^{-3}\text{ nm}$); X-rays are not deflected by electric or magnetic fields because they carry no electric charge.
+- **Key Exam Association:** **Ultrasonic waves** have frequencies exceeding $20,000\text{ Hz}$ ($20\text{ kHz}$); bats, dolphins, and porpoises use ultrasound for echolocation.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

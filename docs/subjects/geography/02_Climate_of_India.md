@@ -74,7 +74,8 @@ D. Mistral
 ---
 
 
-## Consolidated — 40 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 40 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. India’s climate is **tropical monsoon**, not wholly tropical, because the country stretches into the subtropical north. The Himalaya (हिमालय) acts as a winter **wall** against Central Asian cold and forces **orographic** rain on southern slopes in the monsoon.
 2. The word monsoon comes from Arabic **mausim** (season). About **75–90%** of India’s rain falls with the south-west monsoon from June to September. Onset usually begins first in **Kerala around 1 June**.
@@ -119,10 +120,10 @@ D. Mistral
 39. **Desert Development Programme (DDP):** Launched in 1977–78 initially in 131 blocks across 21 districts in 5 states (Rajasthan, Gujarat, Haryana, J&K, HP), later expanded to 235 blocks across 40 districts in 7 states.
 40. **Winter Anticyclone vs Western Disturbance:** Winter anti-cyclonic high pressure over northern India is a natural result of cold, dense, subsiding continental air (NOT caused by winter rain). Western Disturbances are **extra-tropical** (temperate) depressions from the Mediterranean whose rainfall decreases from **West to East**.
 
+</details>
 
----
-
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -145,6 +146,8 @@ D. Mistral
 ---
 
 ![Climate of India Overview Cheat Sheet](images/ch2_00_climate_overview_sheet.png)
+
+</details>
 
 ## Must-score facts — seasons, monsoon, onset
 

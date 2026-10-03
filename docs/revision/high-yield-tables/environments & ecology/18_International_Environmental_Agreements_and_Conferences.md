@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 18 — International Environmental Agreements & Conferences</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Ramsar Convention (1971)** | **Convention on Migratory Species (CMS / Bonn 1979)** | Dedicated specifically to the ecological conservation and sustainable wise use of internationally significant wetlands and waterfowl habitats vs treaty dedicated to the conservation of terrestrial, aquatic, and avian migratory wild animal species across range states | रामसर कन्वेंशन (आर्द्रभूमि संरक्षण) / बॉन कन्वेंशन (प्रवासी प्रजाति संरक्षण) |
 | **CITES (1973)** | **Convention on Biological Diversity (CBD 1992)** | International trade treaty strictly regulating commercial import/export of endangered wild flora and fauna through Appendices I, II, III vs comprehensive framework convention covering in-situ/ex-situ conservation, sustainable use, and fair benefit-sharing | साइट्स (CITES, वन्यजीव व्यापार) / जैव विविधता संधि (CBD, समग्र संरक्षण) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Conferences
 
@@ -146,18 +140,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Conference spine: Stockholm 1972 → Brundtland 1987 → Rio 1992 → Johannesburg 2002 → Rio+20 2012 → SDGs and Paris 2015.
 - **Exam Anchor:** Stockholm 1972 (स्टॉकहोम सम्मेलन) was the first UN Conference on the Human Environment (पर्यावरण). It led to UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) (Nairobi). World Environment Day (विश्व पर्यावरण दिवस) is 5 June. The slogan fact is “Only One Earth.”
-- **Exam Anchor:** The Brundtland Report (1987, Our Common Future) popularised sustainable development. It is not Limits to Growth (1972, Club of Rome).
 - **Exam Anchor:** Rio 1992 (UNCED) produced the Rio Declaration, Agenda 21, Forest Principles, and opened UNFCCC (यूएनएफसीसीसी) and CBD for signature. CITES is not a Rio product — CITES is 1973.
 - **Exam Anchor:** Agenda 21 is Rio’s non-binding sustainable-development action plan for the twenty-first century. It was not signed in 1995.
-- **Exam Anchor:** Climate chain: UNFCCC 1992 → Kyoto Protocol 1997 → Paris Agreement (पेरिस समझौता) 2015. Paris uses universal NDCs and the 1.5°C ambition language.
-- **Exam Anchor:** Ozone chain: Vienna Convention 1985 → Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) 1987 → Kigali Amendment 2016 (HFCs). Montreal is ozone, not climate.
-- **Exam Anchor:** Treaty–issue fact: Montreal/Vienna = ozone; Kyoto/Paris/UNFCCC = climate; CBD = biodiversity; Ramsar = wetlands; CITES = wildlife trade (पण्याध्यक्ष).
-
-</details>
+- **Exam Anchor:** CMS (Bonn) covers migratory species. Basel covers hazardous waste. Rotterdam covers hazardous chemicals (PIC). Stockholm POPs covers persistent organic pollutants. Minamata covers mercury.
+- **Exam Anchor:** CBD has three pillars: conserve biodiversity, sustainable use, and fair benefit-sharing. Nagoya Protocol (2010) details access and benefit-sharing.
+- **Exam Anchor:** Ramsar (रामसर) (1971) is the wetlands treaty under the Wise Use idea. World Wetlands Day (विश्व आर्द्रभूमि दिवस) is 2 February (रामसर).
+- **Exam Anchor:** CITES (1973, Washington) regulates trade through Appendices I–III. IUCN (आईयूसीएन)’s Red List assesses extinction risk; CITES regulates trade — different jobs.
+- **Exam Anchor:** GEF was established in 1991 on the eve of Rio as a finance mechanism for major environmental conventions.
 
 ---
 

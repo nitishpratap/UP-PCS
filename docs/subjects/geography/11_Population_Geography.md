@@ -30,7 +30,8 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. India’s first non-synchronous census was in **1872** (some papers key **1871**). The first **synchronous** all-India census was in **1881**.
 2. **1921** is the **Great Divide** year of Indian census history (इतिहास). **2011** was the **15th** census and the **7th** after Independence.
@@ -67,9 +68,10 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 31. Internal migration streams include rural→rural (largest), rural→urban, urban→urban and urban→rural. Inter-state migrants often move from UP–Bihar toward Maharashtra–Delhi–Gujarat.
 32. Literacy in Census 2011 is counted for age **7+**. Effective literacy and crude literacy wordings must not be swapped with school-enrolment rates.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -104,7 +106,7 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 | Positive vs preventive checks | Positive = **death** up; preventive = **birth** down | Swap | धनात्मक / निवारक नियंत्रण |
 | Social capillarity | **Arsène Dumont** | Henry George | सामाजिक केशिका |
 
----
+</details>
 
 ## Must-score facts — density, growth, Census tags
 

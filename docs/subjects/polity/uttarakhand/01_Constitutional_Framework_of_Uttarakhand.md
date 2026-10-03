@@ -105,7 +105,8 @@
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -116,7 +117,7 @@
 | **Harbans Kapoor vs Govind Singh Kunjwal** | Harbans Kapoor = Speaker + **Protem Speaker multiple times**; Kunjwal was Speaker (2012–2017). |
 | **Indu Kumar Pandey vs Ajay Vikram Singh** | Indu Kumar Pandey = later Chief Secretary & Finance Commission head; Ajay Vikram Singh = **1st Chief Secretary (2000)**. |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

@@ -30,7 +30,8 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. “Vegetation is the true index of climate” is **Thornthwaite (थॉर्नथ्वेट)’s** line, not Köppen (कोपेन)’s letter codes. Controls are climate, soil, relief, biotic factors, and time.
 2. India is a **mega-biodiversity** country. The four (चातुर्याम) hotspots touching India are **Himalaya** (हिमालय), **Western Ghats (पश्चिमी घाट)–Sri Lanka**, **Indo-Burma**, and **Sundaland** (**Nicobar** (निकोबार), not Andaman (अंडमान)). Do not split Himalaya into east and west as if those were the four.
@@ -69,8 +70,10 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 35. Classic mangrove match: **Achra–Ratnagiri = Maharashtra**; **Coondapur = Karnataka**; **Pichavaram = Tamil Nadu**; **Vembanad = Kerala** (not Karnataka). **Silent Valley (साइलेंट वैली) (Kerala)** = tropical evergreen.
 36. **Mahogany** is **not** a Himalayan species (tropical American origin / Indian evergreen belts). Himalayan set = juniper, silver (रूपक) fir, spruce, deodar, birch.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -107,7 +110,7 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 | Mahogany belt | Tropical evergreen (not Himalaya) | Call it Himalayan with fir/spruce | महोगनी ≠ हिमालय |
 | Khejri vs Dhak | Khejri = desert social forestry; Dhak/Palash = flame of forest | Swap uses | खेजड़ी ≠ पलाश |
 
----
+</details>
 
 ## Must-score facts — rain ladder, hotspots, zones
 

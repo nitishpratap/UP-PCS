@@ -11,9 +11,29 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 20 — Internal Security</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+| Year | What happened | What you mark |
+|------|-----------------|---------------|
+| **2025** | **BHARATPOL** portal launched for Interpol police cooperation | Built by **CBI** (केन्द्रीय अन्वेषण ब्यूरो), because CBI is India’s Interpol **National Central Bureau**. Not IB, not RAW, not ED |
+| **2024** | April anti-Maoist encounter | **Kanker district, Chhattisgarh** (Abujhmad / Binagunda) — **not Gadchiroli (Maharashtra)**. Forces: **BSF + District Reserve Guard**. DRG is a **Chhattisgarh** police unit; Maharashtra’s LWE unit is **C-60** |
+| **2022** | CERT-In (सर्ट-इन) issued directions on incident reporting | Report specified incidents in **6 hours**; keep logs **5 years**. CERT-In = **MeitY / s.70B**, not MHA |
+| **2022** | AFSPA withdrawn from large parts of **Assam** | AFSPA is a **notification**, not a permanent all-India law. Assam ≠ still fully covered |
+| **2020** | I4C (भारतीय साइबर अपराध समन्वय केंद्र) opened out for States | **MHA** cyber-*crime* coordination + **cybercrime.gov.in**. Different from CERT-In |
+| **2019** | **UAPA** amendment | Centre can list **individuals** as terrorists (Fourth Schedule), not only organisations |
+| **2019** | **NIA** amendment | Wider schedule (trafficking, cyber-terror, counterfeit, arms…) + **extra-territorial** investigation |
+| **2019** | **SPG Act** amendment | SPG as of right = **sitting (बैठक) PM** + family. Ex-PM cover **5 years** from leaving office — **not** lifelong for every former PM |
+| **2019** | **Defence Cyber Agency** raised | **Tri-service, MoD**. Not I4C, not CERT-In |
+| **2018** | NSC (राष्ट्रीय सुरक्षा परिषद)’s Strategic Policy Group recast | **NSA** (not Cabinet Secretary) **chairs** the Strategic Policy Group. This SPG ≠ Special Protection Group 1988 |
+| **2017** | MHA’s **SAMADHAN** for LWE | Strategy acrostic (Smart leadership … No financing) — not a new CAPF (सीएपीएफ) |
+| **2015** | *Shreya Singhal* | IT Act **s.66A struck**; **s.69A** blocking **upheld** |
+| **2015** | Tripura lifted AFSPA | First NE State in that wave to go off the 1958 map (**May 2015**) |
+| **2013** | National Cyber Security Policy | **MeitY**. 2023 draft is **not** the replacement to freeze |
+| **2008** | 26/11 year | **NIA Act** · CRPF **CoBRA** · UAPA given more teeth |
+| **2004** | POTA repealed | Terror chapters **enter UAPA**. CERT-In also born this year (executive) |
+| **2001** | After Parliament attack | **MAC** (बहु-एजेंसी केंद्र) fused inside **IB**. Special Service Bureau renamed **Sashastra Seema Bal** (Nepal + Bhutan) |
+
+---
 
 | Term A | Term B | Core Difference | Hindi Terminology |
 |--------|--------|-----------------|-------------------|
@@ -36,32 +56,6 @@ hide:
 | **AFSPA 1958** | **AFSPA J&K 1990** | NE disturbed areas vs Separate J&K statute | अफस्पा 1958 / अफस्पा कश्मीर 1990 |
 | **AFSPA** | **UAPA** | Army powers in a **disturbed** notification vs Police/NIA **trial** statute | अफस्पा (सेना अधिकार) / यूएपीए कानून |
 | **NCTC (terror)** | **NCTC (I4C)** | Counter-terror centre — **never born** vs National **Cybercrime Training** Centre | आतंकवाद-रोधी केंद्र / साइबर प्रशिक्षण केंद्र |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Year | What happened | What you mark |
-|------|-----------------|---------------|
-| **2025** | **BHARATPOL** portal launched for Interpol police cooperation | Built by **CBI** (केन्द्रीय अन्वेषण ब्यूरो), because CBI is India’s Interpol **National Central Bureau**. Not IB, not RAW, not ED |
-| **2024** | April anti-Maoist encounter | **Kanker district, Chhattisgarh** (Abujhmad / Binagunda) — **not Gadchiroli (Maharashtra)**. Forces: **BSF + District Reserve Guard**. DRG is a **Chhattisgarh** police unit; Maharashtra’s LWE unit is **C-60** |
-| **2022** | CERT-In (सर्ट-इन) issued directions on incident reporting | Report specified incidents in **6 hours**; keep logs **5 years**. CERT-In = **MeitY / s.70B**, not MHA |
-| **2022** | AFSPA withdrawn from large parts of **Assam** | AFSPA is a **notification**, not a permanent all-India law. Assam ≠ still fully covered |
-| **2020** | I4C (भारतीय साइबर अपराध समन्वय केंद्र) opened out for States | **MHA** cyber-*crime* coordination + **cybercrime.gov.in**. Different from CERT-In |
-| **2019** | **UAPA** amendment | Centre can list **individuals** as terrorists (Fourth Schedule), not only organisations |
-| **2019** | **NIA** amendment | Wider schedule (trafficking, cyber-terror, counterfeit, arms…) + **extra-territorial** investigation |
-| **2019** | **SPG Act** amendment | SPG as of right = **sitting (बैठक) PM** + family. Ex-PM cover **5 years** from leaving office — **not** lifelong for every former PM |
-| **2019** | **Defence Cyber Agency** raised | **Tri-service, MoD**. Not I4C, not CERT-In |
-| **2018** | NSC (राष्ट्रीय सुरक्षा परिषद)’s Strategic Policy Group recast | **NSA** (not Cabinet Secretary) **chairs** the Strategic Policy Group. This SPG ≠ Special Protection Group 1988 |
-| **2017** | MHA’s **SAMADHAN** for LWE | Strategy acrostic (Smart leadership … No financing) — not a new CAPF (सीएपीएफ) |
-| **2015** | *Shreya Singhal* | IT Act **s.66A struck**; **s.69A** blocking **upheld** |
-| **2015** | Tripura lifted AFSPA | First NE State in that wave to go off the 1958 map (**May 2015**) |
-| **2013** | National Cyber Security Policy | **MeitY**. 2023 draft is **not** the replacement to freeze |
-| **2008** | 26/11 year | **NIA Act** · CRPF **CoBRA** · UAPA given more teeth |
-| **2004** | POTA repealed | Terror chapters **enter UAPA**. CERT-In also born this year (executive) |
-| **2001** | After Parliament attack | **MAC** (बहु-एजेंसी केंद्र) fused inside **IB**. Special Service Bureau renamed **Sashastra Seema Bal** (Nepal + Bhutan) |
 
 ---
 
@@ -182,18 +176,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Police and public order are State List (राज्य सूची) subjects. The Union still has a duty under Article 355 to protect States against external aggression and internal disturbance. The Ministry of Home Affairs is the internal-security nodal ministry.
-- **Exam Anchor:** The Army (सेना), Navy, Air Force, and Coast Guard (तटरक्षक बल) sit under the Ministry of Defence. CAPFs sit under Home. Do not put Coast Guard in the CAPF list.
-- **Exam Anchor:** The Intelligence Bureau (1887) is India’s internal intelligence agency under MHA. The Multi-Agency Centre sits with the IB. NATGRID is also under MHA.
 - **Exam Anchor:** RAW was formed on 21 September 1968 under R.N. Kao. It handles external intelligence and reports through the Cabinet Secretariat / NSA line — not MHA.
-- **Exam Anchor:** The NIA was created by the NIA Act 2008 after 26/11. It investigates scheduled offences without State consent (unlike CBI under DSPE section 6). The 2019 amendment strengthened extra-territorial reach.
-- **Exam Anchor:** India’s Interpol National Central Bureau is the CBI. BHARATPOL is the CBI-linked Interpol channel — not a separate CAPF.
-- **Exam Anchor:** The National Security Council (1998) is chaired by the Prime Minister. The first NSA was Brajesh Mishra. NSC’s Strategic Policy Group is not the Special Protection Group.
-- **Exam Anchor:** The Cabinet Committee on Security is a Cabinet committee. The NSC is an extra-constitutional security council. Do not treat them as one body.
-
-</details>
+- **Exam Anchor:** Assam Rifles (1835) is the oldest central paramilitary force. Administration is with MHA; operations are with the Army. Its north-east HQ is Shillong.
+- **Exam Anchor:** NDRF is a disaster-response force under the Disaster Management Act 2005. RPF belongs to the Railways. Neither is a classic border CAPF.
+- **Exam Anchor:** CERT-In (2004) is under MeitY and draws power from IT Act section 70B. It handles cyber incident response. 2022 directions require reporting in six hours and log retention for five years.
+- **Exam Anchor:** NCIIPC (राष्ट्रीय महत्वपूर्ण सूचना अवसंरचना) (section 70A) protects Critical Information Infrastructure and sits under the NTRO line. It is not CERT-In.
+- **Exam Anchor:** I4C (MHA, 2018/20) runs the cybercrime.gov.in ecosystem (पारिस्थितिकी तंत्र) and a National Cybercrime Training Centre. That training centre is not the never-born counter-terror NCTC (एनसीटीसी).
+- **Exam Anchor:** UAPA 1967 is the living anti-terror criminal statute. POTA was repealed in 2004 and its teeth largely folded into UAPA. After 2019, individuals can be designated terrorists (Fourth Schedule). Bail is hard under section 43D(5).
+- **Exam Anchor:** NSA 1980 (रासुका) is a preventive detention law (Article 22 track). UAPA is a criminal trial statute often used with the NIA. Do not swap them.
 
 ---
 

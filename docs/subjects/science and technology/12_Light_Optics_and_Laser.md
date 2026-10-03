@@ -27,7 +27,8 @@
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Luminous vs Non-Luminous Bodies**: A luminous object emits its own light (Sun, candle flame, electric lamp). The **Moon is non-luminous**; it is visible solely because it reflects incident sunlight.
 2. **Speed of Light Hierarchy**: In vacuum, speed of light is maximum: $c = 3.0 \times 10^8\text{ m/s}$. In water: $2.25 \times 10^8\text{ m/s}$; in glass: $2.0 \times 10^8\text{ m/s}$; in diamond: $1.24 \times 10^8\text{ m/s}$. Speed is minimum in diamond (highest refractive index $\approx 2.42$).
@@ -80,8 +81,11 @@
 49. **Primary Pigment Colors (Subtractive)**: **Cyan, Magenta, and Yellow (CMY)**. Magenta + Yellow = Red; Cyan + Magenta = Blue; Cyan + Yellow = Green.
 50. **Raman Effect**: Inelastic scattering of light photons when traversing any transparent medium (solid, liquid, or gas), discovered by Sir C.V. Raman (Nobel Prize 1930).
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+
 | Quantities / Optical Concepts | Critical Distinction & Common Trap Alert |
 |---|---|
 | **Concave vs Convex Mirror Uses** | **Concave mirror**: Shaving, dentist, car headlight (produces magnified erect image up close, parallel beam at focus). **Convex mirror**: Automobile rear-view mirror (erect, diminished, wide field of view). |
@@ -91,7 +95,7 @@
 | **Rayleigh Scattering vs Dispersion** | **Scattering**: Redirection of light in all directions by particles smaller than $\lambda$ ($I \propto 1/\lambda^4$; makes sky blue). **Dispersion**: Splitting of white light into constituent wavelengths by refraction in a prism or raindrop. |
 | **Rainbow at Noon** | Rainbow is formed directly opposite the Sun. At 12:00 noon, the Sun is directly overhead; therefore, a natural rainbow **cannot be seen**. |
 
----
+</details>
 
 ## Teaching Cards — Light, Optics and Laser
 

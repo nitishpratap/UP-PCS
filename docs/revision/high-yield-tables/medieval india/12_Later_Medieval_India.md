@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 12 — Later Medieval India</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -42,11 +40,7 @@ hide:
 | 1608 | 1611 | Hawkins arrives **1608** vs trap year **1611** | 1608 / 1611 |
 | Awadh 1722 | annex 1856 | Nawabi start vs Dalhousie end | 1722 / 1856 |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 | Company | Charter year |
 |---------|--------------|
@@ -138,18 +132,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Sea-power arrival order: Portuguese 1498 → Dutch ~1605 → English Surat factory (फैक्टरी) 1613 (सूरत) → Danish Tranquebar (ट्रैंकेबार) 1620 → French Pondicherry (पांडिचेरी) 1674.
-- **Exam Anchor:** Charter fact: EIC 1600 (ईआईसी), VOC 1602 (वीओसी), Danish 1616, French 1664 — the English charter comes before the Dutch.
 - **Exam Anchor:** Vasco da Gama (गामा) reached Calicut in 1498; Afonso de Albuquerque (अल्बुकर्क) captured Goa (गोवा) in 1510 and made it Portuguese India's capital.
-- **Exam Anchor:** Portuguese cartaze (कार्टाज़) was an ocean pass-fee; Shah Jahan (शाहजहाँ) expelled the Portuguese from Hooghly (हुगली) in 1632.
-- **Exam Anchor:** The Dutch VOC used Pulicat as its South Indian headquarters and Chinsurah (चिन्सुरा) as its Bengal factory.
 - **Exam Anchor:** William Hawkins (हॉकिन्स) reached India in 1608 on the Hector, spoke Turkish, and met Jahangir (जहाँगीर); the trap year 1611 is false for arrival.
 - **Exam Anchor:** Sir Thomas Roe (रो) was ambassador at Jahangir's court from 1615 to 1619.
-- **Exam Anchor:** English factory spine: temporary Masulipatnam 1611 (मसूलिपत्तनम), permanent Surat 1613 (सूरत), Madras/Fort St George 1640, Bombay leased 1668 (Portuguese dowry to Charles II, 1662), Calcutta via Job Charnock at Sutanuti. Levant (लेवेंट) Company (1592) got a land-route charter before the sea EIC (1600, under Akbar (अकबर)).
-
-</details>
+- **Exam Anchor:** Colbert founded the French company (1664) under Louis XIV; earliest French factory Surat 1668 (François Caron); HQ Pondicherry (1674); Bengal factory Chandernagore (चंद्रनगर). Dupleix (डुप्ले) first used European troops in Indian succession (उत्तराधिकार क्रम) quarrels.
+- **Exam Anchor:** First Carnatic (कर्नाटक) War (1746–48): immediate spark = English capture of French ships (नावाध्यक्ष) (Captain Bernett); French won St. Thome (सेंट थॉम) on the Adyar vs Anwaruddin’s force; Aix-la-Chapelle (1748) (एक्स-ला-शापेल) returned Madras. Second Carnatic opens with Ambur (1749); Wandiwash (वांडिवाश) (1760) = British (Eyre Coote) defeat French (Count de Lally); Paris 1763 ends the Third.
+- **Exam Anchor:** Bernier (बर्नियर) was a French traveller at Aurangzeb (औरंगजेब)'s court, not an English EIC envoy.
+- **Exam Anchor:** Saadat Khan (सादात खान) Burhan-ul-Mulk founded the Awadh (अवध) Nawabi in 1722; he is not Bengal's Murshid (पीर) Quli (मुर्शिद क़ुली) Khan (मुर्शिद कुली खान).
+- **Exam Anchor:** Shuja-ud-Daula (शुजाउद्दौला) stood with Abdali (अब्दाली) at Panipat (पानीपत) III (1761); after Buxar (बक्सर) came the Treaty of Allahabad (इलाहाबाद की संधि) (1765).
 
 ---
 

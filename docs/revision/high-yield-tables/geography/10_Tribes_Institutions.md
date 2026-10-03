@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 10 — Tribes & Institutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **15 Nov** | **Janjatiya Gaurav Diwas** — Birsa Munda (मुंडा) birth anniversary | Tribal (आदिवासी) identity day |
+| **2023** | **PM-JANMAN** — PVTG mission (housing, health, education, connectivity) | Living PVTG scheme |
+| **1875–2025** | **IMD** 150 years; headquarters still **New Delhi** | Institute anniversary |
+| **Jun 2025** | **Adi Karmayogi** launched by **Ministry of Tribal Affairs** | Ministry trap vs Social Justice / AYUSH |
+| Static | Uttar Pradesh (उत्तर प्रदेश) ST list is still the **15-entry** notification set, many of them district-limited | Match traps |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -40,22 +50,6 @@ hide:
 | NDRI vs NDDB | Karnal **lab** vs Anand **co-op board** | Same body | एनडीआरआई ≠ एनडीडीबी |
 | PVTG count | **75** groups | 95 | 75 पीवीटीजी |
 | Fifth vs Sixth Schedule | Fifth = many Scheduled Areas; Sixth = **four** NE states’ councils | Swap | पाँचवीं ≠ छठी |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **15 Nov** | **Janjatiya Gaurav Diwas** — Birsa Munda (मुंडा) birth anniversary | Tribal (आदिवासी) identity day |
-| **2023** | **PM-JANMAN** — PVTG mission (housing, health, education, connectivity) | Living PVTG scheme |
-| **1875–2025** | **IMD** 150 years; headquarters still **New Delhi** | Institute anniversary |
-| **Jun 2025** | **Adi Karmayogi** launched by **Ministry of Tribal Affairs** | Ministry trap vs Social Justice / AYUSH |
-| Static | Uttar Pradesh (उत्तर प्रदेश) ST list is still the **15-entry** notification set, many of them district-limited | Match traps |
 
 ---
 
@@ -300,18 +294,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Scheduled Tribe (अनुसूचित जनजाति) lists are state-wise under Article 342. Parliament can amend the lists by law. A community listed in one State need not be listed in another.
-- **Exam Anchor:** STs are about 8.6% of India’s population (जनसंख्या) (Census 2011). Among the largest groups are Bhil, Gond (गोंड) and Santhal (संथाल). Madhya Pradesh often leads in absolute (निरपेक्ष) ST population.
-- **Exam Anchor:** Lokur Committee criteria for ST listing include primitive traits, distinctive culture, geographical isolation, shyness of contact, and economic backwardness.
-- **Exam Anchor:** There are 75 Particularly Vulnerable Tribal Groups (PVTGs) (Dhebar PTG renamed PVTG in 2006). Odisha (ओडिशा) has the most PVTG communities. PM-JANMAN is the main outreach mission.
-- **Exam Anchor:** PVTG criteria stress pre-agricultural technology, stagnant or declining population, extremely low literacy, and a subsistence economy.
-- **Exam Anchor:** The Fifth Schedule (5वीं अनुसूची) covers Scheduled Areas in many States. The Sixth Schedule (6वीं अनुसूची) covers autonomous councils in Assam, Meghalaya (मेघालय), Tripura and Mizoram only.
-- **Exam Anchor:** State–tribe pairs: Angami / Rengma = Nagaland; Toda / Paliyan = Tamil Nadu (नाडु); Birhor = Jharkhand; Khasi (खासी) = Meghalaya (not Arunachal); Yanadi = Andhra Pradesh (not Rajasthan); Chenchu = Andhra / Telangana.
 - **Exam Anchor:** Kuki is a North-East tribe and is not a Uttar Pradesh Scheduled Tribe. Keria / Kharia fact to Odisha (also Jharkhand for Kharia). Bodo = Assam; Lepcha = Sikkim; Meena = Rajasthan; Warli (वारली) = Maharashtra; Apatani = Arunachal.
-
-</details>
+- **Exam Anchor:** Khasi and Garo (गारो) of Meghalaya are classic matrilineal societies.
+- **Exam Anchor:** Janjatiya Gaurav Diwas is observed on 15 November (Birsa Munda’s birth anniversary).
+- **Exam Anchor:** Khirghiz are Central Asian, not Sudanese. Koryak live in north-east Siberia, not Alaska.
+- **Exam Anchor:** IMD headquarters is New Delhi (1875). ICAR headquarters is New Delhi (1929). IARI is at Pusa, New Delhi — it is not the apex ICAR council itself.
+- **Exam Anchor:** FRI and ICFRE are at Dehradun (देहरादून). WII is also Dehradun but is not the FRI answer. NDRI is at Karnal (dairy lab). IVRI is at Izatnagar, Bareilly (UP). NDDB is at Anand and ran Operation Flood (ऑपरेशन फ्लड) — it is not NDRI.
+- **Exam Anchor:** IIHR is at Bengaluru. CISH is at Lucknow (लखनऊ). CSAUAT is at Kanpur (कानपुर). Pantnagar is remembered as the first State Agricultural University tradition.
+- **Exam Anchor:** Archaeopteryx is dated at about 150 million years ago.
 
 ---
 

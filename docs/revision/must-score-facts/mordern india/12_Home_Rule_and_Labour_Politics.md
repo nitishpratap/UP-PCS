@@ -11,71 +11,80 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 12 — Home Rule (होम रूल) & Labour Politics</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Tilak’s Indian Home Rule League** was founded in **April 1916** at **Poona**. **Joseph Baptista (बैपटिस्टा)** was President; **N.C. Kelkar** was Secretary.
-2. Tilak’s area was Maharashtra **except Bombay city**, plus Karnataka, CP and Berar. **Bombay city** belonged to **Besant’s** league.
-3. **Besant’s All India Home Rule League** was founded in **September 1916** at **Madras/Adyar** for the rest of India including Bombay city.
-4. Home Rule demanded **self-government within the Empire** on the Irish model. It is wartime constitutional politics, not later Gandhian mass satyagraha (सत्याग्रह).
-5. In **June 1917**, Besant, Arundale and Wadia were interned; protest made Home Rule a mass slogan and they were released.
-6. On **20 August 1917**, the **Montagu Declaration** (मॉण्टेग्यू) stated Britain’s goal of **responsible government** in India. It is a statement of intent, not the 1919 Act itself.
-7. The **Government of India Act, 1919** is the reform that followed Montagu–Chelmsford talks. Do not confuse Montagu **1917** with the **August Offer (अगस्त प्रस्ताव) 1940** (अगस्त प्रस्ताव).
-8. In **December 1917**, Besant became the **first woman** Congress President at Calcutta.
-9. The **Lucknow Pact (December 1916)** reunited Moderates and Extremists and sealed a Congress–League deal on separate electorates and weightage. It is **not** 1911.
-10. Besant led Theosophy in India but did **not** found the Society. **Blavatsky** (ब्लावत्स्की) and **Olcott** founded it in **New York in 1875**.
-11. Besant’s papers were ***New India*** and ***Commonweal***. She founded **Central Hindu College, Varanasi (वाराणसी), in 1898**, later the nucleus of BHU.
-12. **Tilak never** presided over a Congress session (पंगु सत्र). He died on **1 August 1920**, before Non-Cooperation (असहयोग)’s peak.
-13. In **1920**, Gandhi (गांधी) became All-India Home Rule League President and renamed it **Swarajya (स्वराज्य) Sabha (सभा)**.
-14. Among Home Rule, Khilafat (खिलाफत), Jallianwala and Moplah, **Home Rule (1916)** is the earliest and **Moplah (1921)** is the last.
-15. **BHU**: Act **1915**; foundation stone **4 February 1916** (Hardinge); **Malaviya** (मालवीय) is the founder tag; place is **Varanasi** (वाराणसी).
-16. **NCE 1906** (Swadeshi (स्वदेशी)) is not **BHU 1916** (बीएचयू). National-education waves: NCE **1906**, BHU **1916**, Vidyapiths/Jamia **1920–21**, Wardha **1937**.
-17. **Gujarat Vidyapith** (Ahmedabad (अहमदाबाद), **1920**) and **Kashi (काशी) Vidyapith** (Varanasi, **1921**) belong to the Non-Cooperation national-university wave.
-18. **Madras Labour Union (1918)** is linked to **B.P. Wadia**. India’s **ILO 1919** labour representative was **N.M. Joshi** (जोशी), not Baptista.
-19. **AITUC** was founded on **31 October 1920** with **Lala Lajpat Rai** (लाला लाजपत राय) as first president.
-20. Party-labour map: **AITUC → CPI (सीपीआई)**; **INTUC (इंटक) (1947) → Congress**; **BMS (बीएमएस) (1955) → BJP**; **UTUC (यूटीयूसी) → CPI(M)** stream.
-21. **CSP** (सीएसपी) formed at **Patna (पटना) (May 1934)** / **Bombay (October 1934)** — not January 1934. **Nehru (नेहरू) never formally joined** CSP.
-22. **Workers and Peasants Party** All-India form is clearer from **December 1928**, not 1927. WPP (डब्ल्यूपीपी) is late-1920s left work inside Congress.
-23. **Kanpur (कानपुर) Conspiracy 1924**: **M.A. Ansari** is **not** in the associated list. CPI’s Kanpur tag is often locked to **1925**.
-24. **Justice Party (जस्टिस पार्टी) (1916, Madras)** was a non-Brahmin regional force, not the all-India Congress. **Self-Respect** (Periyar (पेरियार)) follows after leaving Congress in **1925**.
-25. Home Rule declined after **Montagu Declaration hope (1917)**, Tilak’s England trip / death (**1920**), and Gandhi’s mass methods from **1919–20**.
-26. UP Focus: **BHU** and **Kashi Vidyapith** are Varanasi facts; Besant league branches reached UP towns, but Tilak’s HQ stayed Poona.
-27. Extremists read Montagu as proof Home Rule pressure worked; Moderates read it as proof constitutional agitation still worked — both claim the **20 Aug 1917** statement.
-28. Baptista is Tilak League (तिलक लीग) **President**. Joshi is the **ILO 1919** labour face — never swap the two names.
-29. **Indian Councils Act, 1909 (Morley–Minto)** introduced **Muslim separate electorates** — not dyarchy (द्वैध शासन). Full Act card: **Topic 3**.
-30. **Rajendra Prasad** tagged **Lord Minto** as **Father of Pakistan** for sowing communal electorates.
-31. Congress first **accepted** separate electorates as a bargain in the **Lucknow Pact (1916)** — the system itself began in **1909**.
-32. **Jinnah** is remembered as **Ambassador of Hindu–Muslim Unity** for the Lucknow Pact season; Tilak and Besant pushed Extremist (गरम दल) reunion.
-33. Home Rule leagues (दो लीग) **did not permanently merge** into one body in 1916–18; Gandhi renamed the All-India league **Swarajya Sabha** in **1920**.
-34. **Annie Besant** was a **Fabian** as well as a Theosophist–Home Rule leader; she did **not** found the Theosophical Society (थियोसोफिकल सोसायटी).
+2. **Besant’s All India Home Rule League** was founded in **September 1916** at **Madras/Adyar** for the rest of India including Bombay city.
+3. **Tilak never** presided over a Congress session (पंगु सत्र). He died on **1 August 1920**, before Non-Cooperation (असहयोग)’s peak.
+4. **BHU**: Act **1915**; foundation stone **4 February 1916** (Hardinge); **Malaviya** (मालवीय) is the founder tag; place is **Varanasi** (वाराणसी).
+5. **NCE 1906** (Swadeshi (स्वदेशी)) is not **BHU 1916** (बीएचयू). National-education waves: NCE **1906**, BHU **1916**, Vidyapiths/Jamia **1920–21**, Wardha **1937**.
+6. **Gujarat Vidyapith** (Ahmedabad (अहमदाबाद), **1920**) and **Kashi (काशी) Vidyapith** (Varanasi, **1921**) belong to the Non-Cooperation national-university wave.
+7. **Madras Labour Union (1918)** is linked to **B.P. Wadia**. India’s **ILO 1919** labour representative was **N.M. Joshi** (जोशी), not Baptista.
+8. **AITUC** was founded on **31 October 1920** with **Lala Lajpat Rai** (लाला लाजपत राय) as first president.
+9. **CSP** (सीएसपी) formed at **Patna (पटना) (May 1934)** / **Bombay (October 1934)** — not January 1934. **Nehru (नेहरू) never formally joined** CSP.
+10. **Workers and Peasants Party** All-India form is clearer from **December 1928**, not 1927. WPP (डब्ल्यूपीपी) is late-1920s left work inside Congress.
+11. **Kanpur (कानपुर) Conspiracy 1924**: **M.A. Ansari** is **not** in the associated list. CPI’s Kanpur tag is often locked to **1925**.
+12. **Justice Party (जस्टिस पार्टी) (1916, Madras)** was a non-Brahmin regional force, not the all-India Congress. **Self-Respect** (Periyar (पेरियार)) follows after leaving Congress in **1925**.
+13. **Indian Councils Act, 1909 (Morley–Minto)** introduced **Muslim separate electorates** — not dyarchy (द्वैध शासन). Full Act card: **Topic 3**.
+14. **Rajendra Prasad** tagged **Lord Minto** as **Father of Pakistan** for sowing communal electorates.
+15. **Jinnah** is remembered as **Ambassador of Hindu–Muslim Unity** for the Lucknow Pact season; Tilak and Besant pushed Extremist (गरम दल) reunion.
+16. **Annie Besant** was a **Fabian** as well as a Theosophist–Home Rule leader; she did **not** found the Theosophical Society (थियोसोफिकल सोसायटी).
+17. **Rajendra Prasad** called **Minto** the **Father of Pakistan** for this communal seed.
+18. **1909 creates** separate electorates; **1916 Lucknow Pact** is when **Congress accepts** them as a temporary bargain with the League.
+19. **Tilak** (तिलक) and **Jinnah** are the chief architects of the Congress–League bargain; **Besant** and **Tilak** pushed the **Extremist reunion** inside Congress.
+20. **Sarojini Naidu** called Jinnah the **Ambassador of Hindu–Muslim Unity** for this season.
+21. **H.P. Blavatsky** and **H.S. Olcott** founded it in **New York in 1875**.
+22. **Joseph Baptista** was League **President**.
+23. **N.C. Kelkar** was **Secretary**.
+24. **Bal Gangadhar Tilak** (बाल गंगाधर तिलक) **never presided** over an INC session.
+25. **Aurobindo** (अरविंद) was principal of Bengal National College.
+26. **Central Hindu College (1898)** grew into **BHU (1916)**. That is the national-education fact of this topic.
+27. **Gujarat Vidyapith**, Ahmedabad, was founded in **October 1920** with Gandhi as its first chancellor.
+28. **Kashi Vidyapith**, Varanasi, was founded in **1921** as a national university free of government control, in the same Non-Cooperation spirit as the 1906 NCE colleges but a full political generation later.
+29. **Jamia Millia Islamia** began at **Aligarh (अलीगढ़) in 1920**, founded by nationalist Muslims who broke with the government-aided Aligarh college line; it later moved to Delhi in 1925.
+30. **Wardha / Basic Education 1937** and **Sargent 1944** (सार्जेंट) are later education-policy facts, taught in full with the education and press chapter. They are not Home Rule.
+31. **Annie Besant’s Central Hindu College (1898)** was folded in as the college nucleus. Besant is a **partner**, not the founder tag.
+32. **N.M. Joshi** carried Indian labour onto the world stage first: he went as **India's labour representative to the ILO conference, Washington, 1919**, a year **before** any all-India trade union body existed.
+33. **Madras Labour Union (1918)** under **B.P. Wadia** (with V. Kalyanasundaram) is keyed as India’s first modern trade union (Buckingham & Carnatic (कर्नाटक) mills).
+34. **AITUC** was founded on **31 October 1920** at Bombay, and its first president was **Lala Lajpat Rai** — a leading Congress **Extremist**, not a professional labour man. That choice shows how tightly labour organising and nationalist politics were fused at birth.
+35. **Joseph Baptista** (Tilak's Home Rule League President) and **N.M. Joshi** both sat in AITUC's early leadership, again linking Home Rule politics to the new labour body.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Morley–Minto 1909 | Lucknow Pact 1916 | British Act creates Muslim separate electorates vs Congress **accepts** them in a bargain | मार्ले–मिंटो / लखनऊ |
-| Home Rule leagues | One merged league 1916 | Two parallel leagues that cooperated vs permanent single body | दो लीग / विलय |
-| Olcott / Blavatsky | Annie Besant | Founded Theosophical Society 1875 vs later leader + Home Rule | अल्कॉट / बेसेंट |
-| Tilak League | Besant League | Apr 1916 Poona, limited provinces vs Sep 1916 Madras, rest of India + Bombay city | तिलक लीग / बेसेंट लीग |
-| Home Rule | Gandhian Swaraj | Wartime constitutional self-govt vs later mass satyagraha | होम रूल / स्वराज |
-| Besant | Blavatsky | Later Theosophy + Home Rule vs co-founder of Theosophical Society 1875 | बेसेंट / ब्लावत्स्की |
-| NCE 1906 | BHU 1916 | Swadeshi national-education body vs Banaras Hindu University | राष्ट्रीय शिक्षा परिषद / बीएचयू |
-| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
-| CSP | CPI | Socialists **inside Congress** (1934) vs separate communist party | सीएसपी / सीपीआई |
-| WPP | CSP | Late-1920s left inside Congress vs 1934 socialist party inside Congress | डब्ल्यूपीपी / सीएसपी |
-| Justice Party | Congress | Madras non-Brahmin regional vs all-India nationalist | जस्टिस पार्टी / कांग्रेस |
-| Baptista | N.M. Joshi | Tilak League President vs ILO 1919 labour rep | बैपटिस्टा / जोशी |
-| Malaviya | Besant (BHU) | Chief BHU organiser vs Central Hindu College nucleus | मालवीय / बेसेंट |
-| Lucknow Pact 1916 | Montagu Declaration 1917 | Congress–League electoral deal vs British statement of policy goal | लखनऊ पैक्ट / मॉण्टेग्यू घोषणा |
-| Montagu Declaration | August Offer 1940 | 1917 promise of responsible government vs 1940 wartime offer to Congress/League | मॉण्टेग्यू / अगस्त प्रस्ताव |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **One Home Rule League only** → **two**: Tilak **April 1916 Poona**; Besant **September 1916 Madras**.
+2. **Tilak League includes Bombay city** → Bombay city = **Besant**.
+3. **Besant founded Theosophical Society** → **Blavatsky and Olcott, 1875**.
+4. **Baptista = ILO 1919** → Baptista = Tilak League **President**; ILO = **N.M. Joshi**.
+5. **BHU = 1906 / NCE** → BHU **1916**; NCE **1906**.
+6. **Hardinge founded BHU** → **Malaviya** organised; Hardinge laid the **stone**.
+7. **CSP formed January 1934 / Nehru joined** → **Neither**.
+8. **WPP All-India in 1927** → objective true; All-India form **1928** → **Only 2**.
+9. **CSP = CPI** → CSP **inside Congress**; CPI separate.
+10. **INTUC = 1920** → **AITUC 1920**; INTUC **1947**.
+11. **Tilak was Congress President in 1916** → he **never** presided.
+12. **Home Rule = Quit India** → 1916–18 vs 1942.
+13. **Justice Party founded by Besant / Congress** → **Madras non-Brahmin, 1916**.
+14. **Ansari in Kanpur Conspiracy** → he was **not**.
+15. **Kelkar = Tilak League President** → **Secretary**; President = **Baptista**.
+
+16. **1909 = dyarchy** → **separate electorates**; dyarchy = **1919**.
+17. **Lucknow Pact = 1911** → **1916**; 1911 = Delhi Durbar package.
+18. **Congress never accepted separate electorates** → it did, at **Lucknow 1916**.
+19. **Home Rule leagues merged into one in 1916** → they **cooperated**; no permanent 1916 merger.
+20. **Besant founded Theosophical Society** → **Blavatsky + Olcott**.
+21. **Olcott = Home Rule leader** → Theosophy; Home Rule = Tilak / Besant / Subramania Iyer circle.
+22. **Father of Pakistan = Jinnah (Rajendra Prasad tag in this bank)** → **Lord Minto**.
+23. **Tilak League includes Bombay city** → Bombay city = **Besant**.
+24. **Champaran first raised at Calcutta 1906** → Gandhi briefed at **Lucknow 1916**.
+25. **First modern trade union = AITUC 1920** → **Madras Labour Union 1918 (Wadia)**; AITUC is the all-India body.
+26. **AITUC first President = N.M. Joshi** → **Lala Lajpat Rai**; Joshi = organiser / ILO face.
+27. **Kanpur Conspiracy = Khilafat / NCM leaders** → **communist** accused (**1924**).
+28. **Radical Democratic Party = Saumyendra Tagore** → **M.N. Roy (1940)**; Tagore = Revolutionary Communist Party.
 
 
 ---

@@ -11,78 +11,64 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 4 — Light, Optics and Laser Technology</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **Luminous vs Non-Luminous Bodies**: A luminous object emits its own light (Sun, candle flame, electric lamp). The **Moon is non-luminous**; it is visible solely because it reflects incident sunlight.
-2. **Speed of Light Hierarchy**: In vacuum, speed of light is maximum: $c = 3.0 \times 10^8\text{ m/s}$. In water: $2.25 \times 10^8\text{ m/s}$; in glass: $2.0 \times 10^8\text{ m/s}$; in diamond: $1.24 \times 10^8\text{ m/s}$. Speed is minimum in diamond (highest refractive index $\approx 2.42$).
-3. **Speed of Light in Water vs Vacuum**: $\frac{v_{\text{water}}}{c} = \frac{2.25 \times 10^8}{3.0 \times 10^8} = \mathbf{0.75}$ (three-fourths), NOT $0.95$.
-4. **Sunlight Travel Time**: Sunlight takes approximately **$499\text{ seconds} \approx 8.3\text{ minutes}$ (or $8.5\text{ minutes}$)** to reach Earth across $1\text{ AU}$.
-5. **Invariance of Frequency in Refraction**: When light passes from one medium to another (e.g. air to glass), its **frequency ($f$) remains completely unchanged**, while its velocity ($v$) and wavelength ($\lambda$) change proportionally ($v = f \lambda$).
-6. **Refraction Direction Rules**: Light entering an optically denser medium (higher refractive index) slows down and **bends towards the normal**. Light entering a rarer medium speeds up and **bends away from the normal**.
-7. **Apparent Depth in Water**: A swimming pool or pond appears shallower than its actual depth due to refraction (light rays from bottom bend away from normal on exiting water). Real depth $d = \mu \times \text{apparent depth}$.
-8. **Bent Stick & Raised Coin**: A pencil or stick partially immersed in water appears bent at the interface; a coin in a bucket appears raised due to refraction.
-9. **Underwater Observer Looking Up**: An underwater diver looking at an aerial object sees the object at a **higher level than it actually is** (light travels from rarer air into denser water, bending toward the normal).
-10. **Twinkling of Stars**: Caused by continuous **atmospheric refraction** through moving air layers of varying temperatures and optical densities.
-11. **Early Sunrise and Delayed Sunset**: Due to atmospheric refraction, the Sun is visible **$\approx 2\text{ minutes}$ before actual geometric sunrise** and **$\approx 2\text{ minutes}$ after actual sunset**, lengthening the day by $\approx 4\text{ minutes}$.
-12. **Elliptical Sun and Moon at Horizon**: Near the horizon, unequal atmospheric refraction across the upper and lower limbs flattens the vertical diameter, making them appear elliptical.
-13. **Total Internal Reflection (TIR) Conditions**: (1) Light must travel from an optically **denser to a rarer medium**, and (2) Angle of incidence must exceed the **critical angle ($i > i_c$)**.
-14. **Critical Angles for Common Media**: Water-air: $i_c \approx 48.75^\circ$; Glass-air: $i_c \approx 41.14^\circ$; Diamond-air: $i_c \approx \mathbf{24.4^\circ}$ (extremely small, causing repeated internal reflections).
-15. **Sparkle of Diamond**: A cut diamond's brilliant sparkle is due to **Total Internal Reflection** enabled by its very high refractive index ($2.42$) and tiny critical angle ($24.4^\circ$).
-16. **Applications of TIR**:
-17. **Soap Film & Bubble Colours**: The shimmering rainbow colors seen on soap bubbles and oil films in daylight are produced by the **Interference of light** reflecting from front and back surfaces.
-18. **Compact Disc (CD) Iridescence**: A CD viewed in sunlight displays brilliant rainbow colors due to **Reflection and Diffraction** of light from microscopic pits and tracks behaving as a diffraction grating.
-19. **Dispersion in a Prism**: White light splits into 7 constituent colors (VIBGYOR). **Violet light has the shortest wavelength, highest frequency, travels slowest in glass, has highest refractive index, and deviates the most**. **Red light has the longest wavelength, lowest frequency, travels fastest in glass, has lowest refractive index, and deviates the least**.
-20. **Rainbow Formation Physics**: Rainbows are formed by the combined action of **refraction, dispersion, and total internal reflection** within falling raindrops.
-21. **Rainbow Colors and Position**:
-22. **Rayleigh's Law of Scattering**: The intensity of scattered light is inversely proportional to the fourth power of its wavelength: $I \propto \frac{1}{\lambda^4}$. Shorter wavelengths (blue/violet) scatter $\approx 16$ times more than red.
-23. **Blue Sky & Red Sunset**:
-24. **Sky Appearance to Astronauts & High-Altitude Flyers**: At very high altitudes or in outer space where there is no atmosphere to scatter light, the sky appears **completely black**.
-25. **Red Danger Signals**: Red light has the longest visible wavelength and suffers the **least atmospheric scattering**, allowing it to penetrate fog and smoke and remain visible from the greatest distance.
-26. **Green Grass Appearance**: Grass appears green because its chlorophyll **reflects green light** while absorbing red, blue, and other wavelengths.
-27. **Doppler Redshift in Astronomy**: Light from a receding celestial source or rocketship undergoes a Doppler shift towards longer wavelengths (redshift). A blue light emitted on a rocket moving away at $0.2c$ appears **yellow-orange** to an observer on Earth.
-28. **Plane Mirror Image Properties**: Virtual, erect, laterally inverted, same size as object ($m = +1$), and located at the same distance behind the mirror as the object is in front.
-29. **Plane Mirror Rotation**: If a plane mirror is rotated by an angle $\theta$, the reflected ray rotates by **$2\theta$**.
-30. **Minimum Height of Plane Mirror**: To view one's full standing height ($H$), the minimum vertical height of a plane mirror must be **$H/2$ (half the person's height)**.
-31. **Images Between Parallel Mirrors**: When an object is placed between two parallel plane mirrors ($\theta = 0^\circ$), the number of images formed is **infinite ($\infty$)**.
-32. **Formula for Number of Images**: If two mirrors are inclined at angle $\theta$: $n = \frac{360^\circ}{\theta} - 1$ (if $360/\theta$ is even).
-33. **Concave Mirror (Converging Mirror)**:
-34. **Convex Mirror (Diverging Mirror)**:
-35. **Convex Lens (Converging Lens)**:
-36. **Concave Lens (Diverging Lens)**:
-37. **Air Bubble in Water**: An air bubble trapped inside water has convex physical surfaces, but because the refractive index of water ($1.33$) is greater than air ($1.0$), it behaves optically as a **concave (divergent) lens**.
-38. **Convex + Concave Lens in Contact**: If a convex lens and concave lens of identical focal length are placed in contact, their combined focal length is $1/F = 1/f - 1/f = 0 \implies F = \infty$. The combination acts as a **flat plane glass sheet**.
-39. **Power of Lens ($P$)**: Defined as the reciprocal of focal length in metres: $P = \frac{1}{f(\text{m})}$. Measured in **Dioptres ($D$)**. Converging (convex) lens has positive power ($+D$); diverging (concave) lens has negative power ($-D$).
-40. **Lens Power Calculation**: A $+2\text{ D}$ lens has focal length $f = \frac{1}{2}\text{ m} = \mathbf{50\text{ cm}}$. Sunglasses with zero curvature power have **$0\text{ Dioptres}$**.
-41. **Least Distance of Distinct Vision ($D$)**: For a normal, healthy human eye, the minimum clear focusing distance is **$25\text{ cm}$**.
-42. **Human Eye Retina as Photographic Film**: The retina acts like photographic film in a camera; light is transduced into electrical impulses by rods and cones and sent via the optic nerve to the brain. Images formed on retina are **real, inverted, and diminished**.
-43. **Accommodation of the Eye**: Focusing on objects at different distances is achieved by changing the curvature (convexity) and focal length of the eye lens via the **ciliary muscles**.
-44. **Dark Room Adaptation & Rhodopsin**: Moving from bright sunlight into a dark room causes temporary blindness because pupils need time to dilate and bleached rod visual pigments (**rhodopsin**) require time to regenerate.
-45. **Stereoscopic Vision (Two Eyes)**: Having two forward-facing eyes provides binocular depth perception (stereopsis), allowing accurate judgment of distance and three-dimensionality.
-46. **Solar Eclipse Retinal Burns**: Looking directly at a solar eclipse causes irreversible retinal thermal burns caused primarily by invisible **ultraviolet (UV) radiation**.
-47. **Star Color and Temperature**: The color of a star indicates its surface temperature: **Blue/White stars are youngest and hottest**; **Red stars are coolest and oldest**.
-48. **Primary Colors of Light (Additive)**: **Red, Green, and Blue (RGB)**. Mixing them in equal intensity yields **White light**. Color TV screens use triads of RGB phosphors.
-49. **Primary Pigment Colors (Subtractive)**: **Cyan, Magenta, and Yellow (CMY)**. Magenta + Yellow = Red; Cyan + Magenta = Blue; Cyan + Yellow = Green.
-50. **Raman Effect**: Inelastic scattering of light photons when traversing any transparent medium (solid, liquid, or gas), discovered by Sir C.V. Raman (Nobel Prize 1930).
+1. **71st BPSC (Pre 2025) Optics Fact**:
+2. **70th BPSC (Pre Re-Exam 2024) Dual Facts**:
+3. **UKPCS (Pre 2024) Young's Double-Slit Numerical**:
+4. **69th BPSC (Pre 2023) Colour Combination Fact**:
+5. **68th BPSC (Pre 2022) Lens Intensity Fact**:
+6. **Human Eye Physiological Response (UP RO/ARO 2021 Fact)**:
+7. **Persistence of Vision** is **$1/16\text{th}$ of a second**; **Persistence of Hearing** is **$1/10\text{th}$ of a second**.
+8. **Albedo & Fresh Snow (UPPCS Pre 2021)**:
+9. **Luminous vs Non-Luminous Bodies**: A luminous object emits its own light (Sun, candle flame, electric lamp). The **Moon is non-luminous**; it is visible solely because it reflects incident sunlight.
+10. **Speed of Light Hierarchy**: In vacuum, speed of light is maximum: $c = 3.0 \times 10^8\text{ m/s}$. In water: $2.25 \times 10^8\text{ m/s}$; in glass: $2.0 \times 10^8\text{ m/s}$; in diamond: $1.24 \times 10^8\text{ m/s}$. Speed is minimum in diamond (highest refractive index $\approx 2.42$).
+11. **Speed of Light in Water vs Vacuum**: $\frac{v_{\text{water}}}{c} = \frac{2.25 \times 10^8}{3.0 \times 10^8} = \mathbf{0.75}$ (three-fourths), NOT $0.95$.
+12. **Sunlight Travel Time**: Sunlight takes approximately **$499\text{ seconds} \approx 8.3\text{ minutes}$ (or $8.5\text{ minutes}$)** to reach Earth across $1\text{ AU}$.
+13. **Invariance of Frequency in Refraction**: When light passes from one medium to another (e.g. air to glass), its **frequency ($f$) remains completely unchanged**, while its velocity ($v$) and wavelength ($\lambda$) change proportionally ($v = f \lambda$).
+14. **Refraction Direction Rules**: Light entering an optically denser medium (higher refractive index) slows down and **bends towards the normal**. Light entering a rarer medium speeds up and **bends away from the normal**.
+15. **Apparent Depth in Water**: A swimming pool or pond appears shallower than its actual depth due to refraction (light rays from bottom bend away from normal on exiting water). Real depth $d = \mu \times \text{apparent depth}$.
+16. **Bent Stick & Raised Coin**: A pencil or stick partially immersed in water appears bent at the interface; a coin in a bucket appears raised due to refraction.
+17. **Underwater Observer Looking Up**: An underwater diver looking at an aerial object sees the object at a **higher level than it actually is** (light travels from rarer air into denser water, bending toward the normal).
+18. **Twinkling of Stars**: Caused by continuous **atmospheric refraction** through moving air layers of varying temperatures and optical densities.
+19. **Early Sunrise and Delayed Sunset**: Due to atmospheric refraction, the Sun is visible **$\approx 2\text{ minutes}$ before actual geometric sunrise** and **$\approx 2\text{ minutes}$ after actual sunset**, lengthening the day by $\approx 4\text{ minutes}$.
+20. **Elliptical Sun and Moon at Horizon**: Near the horizon, unequal atmospheric refraction across the upper and lower limbs flattens the vertical diameter, making them appear elliptical.
+21. **Total Internal Reflection (TIR) Conditions**: (1) Light must travel from an optically **denser to a rarer medium**, and (2) Angle of incidence must exceed the **critical angle ($i > i_c$)**.
+22. **Critical Angles for Common Media**: Water-air: $i_c \approx 48.75^\circ$; Glass-air: $i_c \approx 41.14^\circ$; Diamond-air: $i_c \approx \mathbf{24.4^\circ}$ (extremely small, causing repeated internal reflections).
+23. **Sparkle of Diamond**: A cut diamond's brilliant sparkle is due to **Total Internal Reflection** enabled by its very high refractive index ($2.42$) and tiny critical angle ($24.4^\circ$).
+24. **Applications of TIR**:
+25. **Soap Film & Bubble Colours**: The shimmering rainbow colors seen on soap bubbles and oil films in daylight are produced by the **Interference of light** reflecting from front and back surfaces.
+26. **Compact Disc (CD) Iridescence**: A CD viewed in sunlight displays brilliant rainbow colors due to **Reflection and Diffraction** of light from microscopic pits and tracks behaving as a diffraction grating.
+27. **Dispersion in a Prism**: White light splits into 7 constituent colors (VIBGYOR). **Violet light has the shortest wavelength, highest frequency, travels slowest in glass, has highest refractive index, and deviates the most**. **Red light has the longest wavelength, lowest frequency, travels fastest in glass, has lowest refractive index, and deviates the least**.
+28. **Rainbow Formation Physics**: Rainbows are formed by the combined action of **refraction, dispersion, and total internal reflection** within falling raindrops.
+29. **Rainbow Colors and Position**:
+30. **Rayleigh's Law of Scattering**: The intensity of scattered light is inversely proportional to the fourth power of its wavelength: $I \propto \frac{1}{\lambda^4}$. Shorter wavelengths (blue/violet) scatter $\approx 16$ times more than red.
+31. **Blue Sky & Red Sunset**:
+32. **Sky Appearance to Astronauts & High-Altitude Flyers**: At very high altitudes or in outer space where there is no atmosphere to scatter light, the sky appears **completely black**.
+33. **Red Danger Signals**: Red light has the longest visible wavelength and suffers the **least atmospheric scattering**, allowing it to penetrate fog and smoke and remain visible from the greatest distance.
+34. **Green Grass Appearance**: Grass appears green because its chlorophyll **reflects green light** while absorbing red, blue, and other wavelengths.
+35. **Doppler Redshift in Astronomy**: Light from a receding celestial source or rocketship undergoes a Doppler shift towards longer wavelengths (redshift). A blue light emitted on a rocket moving away at $0.2c$ appears **yellow-orange** to an observer on Earth.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Quantities / Optical Concepts | Critical Distinction & Common Trap Alert |
-|---|---|
-| **Concave vs Convex Mirror Uses** | **Concave mirror**: Shaving, dentist, car headlight (produces magnified erect image up close, parallel beam at focus). **Convex mirror**: Automobile rear-view mirror (erect, diminished, wide field of view). |
-| **Myopia vs Hypermetropia** | **Myopia (Near-sightedness)**: Can see near, cannot see far; image formed *in front of retina*; corrected by **Concave lens**. **Hypermetropia (Far-sightedness)**: Can see far, cannot see near; image formed *behind retina*; corrected by **Convex lens**. |
-| **Air Bubble in Water** | Physically shaped as a convex sphere, but optically behaves as a **diverging / concave lens** because light travels through water ($\mu=1.33$) into air ($\mu=1.0$). |
-| **Additive vs Subtractive Colors** | **Additive (Light)**: Red + Green + Blue = **White**. **Subtractive (Pigments/Paint)**: Cyan + Magenta + Yellow = **Black**. |
-| **Rayleigh Scattering vs Dispersion** | **Scattering**: Redirection of light in all directions by particles smaller than $\lambda$ ($I \propto 1/\lambda^4$; makes sky blue). **Dispersion**: Splitting of white light into constituent wavelengths by refraction in a prism or raindrop. |
-| **Rainbow at Noon** | Rainbow is formed directly opposite the Sun. At 12:00 noon, the Sun is directly overhead; therefore, a natural rainbow **cannot be seen**. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& Negative-Marking Eliminators
+1. **Focal Length of Plane Mirror**: Plane mirror focal length is **Infinite ($\infty$)**, NOT zero! Its optical power is zero.
+2. **Air Bubble in Water**: An air bubble in water looks convex but acts as a **concave (diverging) lens** because light moves from a denser medium ($\mu=1.33$) into rarer air ($\mu=1.0$).
+3. **Frequency Never Changes**: When light refracts into a new medium, **frequency remains constant**. Speed and wavelength change proportionally.
+4. **Rainbow at Noon Trap**: A rainbow **cannot be seen at 12 noon** because rainbows require the Sun to be at the observer's back and lower than $42^\circ$ elevation.
+5. **Myopia vs Hypermetropia Lens**:
+   - **Myopia** $\implies$ **Concave lens** (diverging, minus power).
+   - **Hypermetropia** $\implies$ **Convex lens** (converging, plus power).
+6. **Mirror Height for Full View**: The required mirror height is **half the person's height ($H/2$)**, independent of distance from the mirror.
+7. **Color TV Pixels**: Uses **Red, Green, Blue (RGB)** additive lights, NOT Red, Yellow, Blue.
+8. **Soap Bubble / Film Colors**: Caused by **interference**, NOT dispersion or prism refraction!
+9. **Eye Sensitivity**: The human eye is most sensitive to **yellowish-green ($555\text{ nm}$)**, NOT red or blue.
+10. **Telescope Aperture and Resolution**: Larger objective lens aperture **increases resolution and light-gathering power**, decreasing diffraction blur.
+
+---
 
 
 ---
@@ -142,8 +128,11 @@ hide:
 49. **Primary Pigment Colors (Subtractive)**: **Cyan, Magenta, and Yellow (CMY)**. Magenta + Yellow = Red; Cyan + Magenta = Blue; Cyan + Yellow = Green.
 50. **Raman Effect**: Inelastic scattering of light photons when traversing any transparent medium (solid, liquid, or gas), discovered by Sir C.V. Raman (Nobel Prize 1930).
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+
 | Quantities / Optical Concepts | Critical Distinction & Common Trap Alert |
 |---|---|
 | **Concave vs Convex Mirror Uses** | **Concave mirror**: Shaving, dentist, car headlight (produces magnified erect image up close, parallel beam at focus). **Convex mirror**: Automobile rear-view mirror (erect, diminished, wide field of view). |
@@ -153,7 +142,7 @@ hide:
 | **Rayleigh Scattering vs Dispersion** | **Scattering**: Redirection of light in all directions by particles smaller than $\lambda$ ($I \propto 1/\lambda^4$; makes sky blue). **Dispersion**: Splitting of white light into constituent wavelengths by refraction in a prism or raindrop. |
 | **Rainbow at Noon** | Rainbow is formed directly opposite the Sun. At 12:00 noon, the Sun is directly overhead; therefore, a natural rainbow **cannot be seen**. |
 
----
+</details>
 
 ## Teaching Cards — Light, Optics and Laser
 
@@ -442,10 +431,162 @@ Large number of thin strips of black paint are made on the surface of a convex l
 
 Which of the following is correct regarding this topic?
 
-A. Luminous vs Non-Luminous Bodies: A luminous object emits its own light (Sun, candle flame, electric lamp). The Moon is non-luminous; it is visible solely because it reflects incident sunlight.
+A. 71st BPSC (Pre 2025) Optics Fact:
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **71st BPSC (Pre 2025) Optics Fact**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q4.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, 70th applies only to union territories and not state jurisdictions.
+B. 70th BPSC (Pre Re-Exam 2024) Dual Facts:
+C. None of the above statements are correct according to official Commission keys.
+D. Recognized by UNESCO under World Heritage natural criteria
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **70th BPSC (Pre Re-Exam 2024) Dual Facts**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q5.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, UKPCS applies only to union territories and not state jurisdictions.
+B. Recognized by UNESCO under World Heritage natural criteria
+C. UKPCS (Pre 2024) Young's Double-Slit Numerical:
+D. Enacted under Article 356 of the Constitution of India
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **UKPCS (Pre 2024) Young's Double-Slit Numerical**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q6.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, 69th applies only to union territories and not state jurisdictions.
+B. Enacted under Article 356 of the Constitution of India
+C. None of the above statements are correct according to official Commission keys.
+D. 69th BPSC (Pre 2023) Colour Combination Fact:
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **69th BPSC (Pre 2023) Colour Combination Fact**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q7.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. 68th BPSC (Pre 2022) Lens Intensity Fact:
+B. Reported by the Law Commission in its 214th consultation paper
+C. None of the above statements are correct according to official Commission keys.
+D. Amended by the 44th Constitutional Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **68th BPSC (Pre 2022) Lens Intensity Fact**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q8.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Human applies only to union territories and not state jurisdictions.
+B. Human Eye Physiological Response (UP RO/ARO 2021 Fact):
+C. None of the above statements are correct according to official Commission keys.
+D. Excavated primarily in the Belan and Son River valleys
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Human Eye Physiological Response (UP RO/ARO 2021 Fact)**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q9.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Persistence applies only to union territories and not state jurisdictions.
+B. Excavated primarily in the Belan and Son River valleys
+C. Persistence of Vision is $1/16\text{th}$ of a second; Persistence of Hearing is $1/10\text{th}$ of a second.
+D. Classified under Schedule VII List II (State List)
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Persistence of Vision** is **$1/16\text{th}$ of a second**; **Persistence of Hearing** is **$1/10\text{th}$ of a second**.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q10.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Albedo applies only to union territories and not state jurisdictions.
+B. Classified under Schedule VII List II (State List)
+C. None of the above statements are correct according to official Commission keys.
+D. Albedo & Fresh Snow (UPPCS Pre 2021):
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Albedo & Fresh Snow (UPPCS Pre 2021)**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q11.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Luminous vs Non-Luminous Bodies: A luminous object emits its own light (Sun, candle flame, electric lamp). The Moon is non-luminous; it is visible solely because it reflects incident sunlight.
+B. Originated during the Later Vedic transitional period
+C. None of the above statements are correct according to official Commission keys.
+D. Statement I is correct but Statement II is incorrect
 
 <details>
 <summary>Show answer</summary>
@@ -457,14 +598,14 @@ D. It was established during the First Five-Year Plan period
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q4.** in Science & Technology, consider the following statement:
+**Q12.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Speed applies only to union territories and not state jurisdictions.
 B. Speed of Light Hierarchy: In vacuum, speed of light is maximum: $c = 3.0 \times 10^8\text{ m/s}$. In water: $2.25 \times 10^8\text{ m/s}$; in glass: $2.0 \times 10^8\text{ m/s}$; in diamond: $1.24 \times 10^8\text{ m/s}$. Speed is minimum in diamond (highest refractive index $\approx 2.42$).
 C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+D. Both statements are true and explain the phenomenon
 
 <details>
 <summary>Show answer</summary>
@@ -476,14 +617,14 @@ D. Recognized by UNESCO under World Heritage natural criteria
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q5.** in Science & Technology, consider the following statement:
+**Q13.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Speed applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
+B. Both statements are true and explain the phenomenon
 C. Speed of Light in Water vs Vacuum: $\frac{v{\text{water}}}{c} = \frac{2.25 \times 10^8}{3.0 \times 10^8} = \mathbf{0.75}$ (three-fourths), NOT $0.95$.
-D. Enacted under Article 356 of the Constitution of India
+D. It was established during the First Five-Year Plan period
 
 <details>
 <summary>Show answer</summary>
@@ -495,12 +636,12 @@ D. Enacted under Article 356 of the Constitution of India
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q6.** in Science & Technology, consider the following statement:
+**Q14.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Sunlight applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
+B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
 D. Sunlight Travel Time: Sunlight takes approximately $499\text{ seconds} \approx 8.3\text{ minutes}$ (or $8.5\text{ minutes}$) to reach Earth across $1\text{ AU}$.
 
@@ -514,163 +655,11 @@ D. Sunlight Travel Time: Sunlight takes approximately $499\text{ seconds} \appro
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Invariance of Frequency in Refraction: When light passes from one medium to another (e.g. air to glass), its frequency ($f$) remains completely unchanged, while its velocity ($v$) and wavelength ($\lambda$) change proportionally ($v = f \lambda$).
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Invariance of Frequency in Refraction**: When light passes from one medium to another (e.g. air to glass), its **frequency ($f$) remains completely unchanged**, while its velocity ($v$) and wavelength ($\lambda$) change proportionally ($v = f \lambda$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q8.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Refraction applies only to union territories and not state jurisdictions.
-B. Refraction Direction Rules: Light entering an optically denser medium (higher refractive index) slows down and bends towards the normal. Light entering a rarer medium speeds up and bends away from the normal.
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Refraction Direction Rules**: Light entering an optically denser medium (higher refractive index) slows down and **bends towards the normal**. Light entering a rarer medium speeds up and **bends away from the normal**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q9.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Apparent applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Apparent Depth in Water: A swimming pool or pond appears shallower than its actual depth due to refraction (light rays from bottom bend away from normal on exiting water). Real depth $d = \mu \times \text{apparent depth}$.
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Apparent Depth in Water**: A swimming pool or pond appears shallower than its actual depth due to refraction (light rays from bottom bend away from normal on exiting water). Real depth $d = \mu \times \text{apparent depth}$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q10.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Bent applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Bent Stick & Raised Coin: A pencil or stick partially immersed in water appears bent at the interface; a coin in a bucket appears raised due to refraction.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Bent Stick & Raised Coin**: A pencil or stick partially immersed in water appears bent at the interface; a coin in a bucket appears raised due to refraction.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q11.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Underwater Observer Looking Up: An underwater diver looking at an aerial object sees the object at a higher level than it actually is (light travels from rarer air into denser water, bending toward the normal).
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Underwater Observer Looking Up**: An underwater diver looking at an aerial object sees the object at a **higher level than it actually is** (light travels from rarer air into denser water, bending toward the normal).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q12.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Twinkling applies only to union territories and not state jurisdictions.
-B. Twinkling of Stars: Caused by continuous atmospheric refraction through moving air layers of varying temperatures and optical densities.
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Twinkling of Stars**: Caused by continuous **atmospheric refraction** through moving air layers of varying temperatures and optical densities.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q13.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Early applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Early Sunrise and Delayed Sunset: Due to atmospheric refraction, the Sun is visible $\approx 2\text{ minutes}$ before actual geometric sunrise and $\approx 2\text{ minutes}$ after actual sunset, lengthening the day by $\approx 4\text{ minutes}$.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Early Sunrise and Delayed Sunset**: Due to atmospheric refraction, the Sun is visible **$\approx 2\text{ minutes}$ before actual geometric sunrise** and **$\approx 2\text{ minutes}$ after actual sunset**, lengthening the day by $\approx 4\text{ minutes}$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q14.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Elliptical applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Elliptical Sun and Moon at Horizon: Near the horizon, unequal atmospheric refraction across the upper and lower limbs flattens the vertical diameter, making them appear elliptical.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Elliptical Sun and Moon at Horizon**: Near the horizon, unequal atmospheric refraction across the upper and lower limbs flattens the vertical diameter, making them appear elliptical.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
 **Q15.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
-A. Total Internal Reflection (TIR) Conditions: (1) Light must travel from an optically denser to a rarer medium, and (2) Angle of incidence must exceed the critical angle ($i > ic$).
+A. Invariance of Frequency in Refraction: When light passes from one medium to another (e.g. air to glass), its frequency ($f$) remains completely unchanged, while its velocity ($v$) and wavelength ($\lambda$) change proportionally ($v = f \lambda$).
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -681,6 +670,6 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Total Internal Reflection (TIR) Conditions**: (1) Light must travel from an optically **denser to a rarer medium**, and (2) Angle of incidence must exceed the **critical angle ($i > i_c$)**.
+- **Key Exam Association:** **Invariance of Frequency in Refraction**: When light passes from one medium to another (e.g. air to glass), its **frequency ($f$) remains completely unchanged**, while its velocity ($v$) and wavelength ($\lambda$) change proportionally ($v = f \lambda$).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

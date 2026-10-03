@@ -11,81 +11,75 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 7 — Mughal (मुग़ल) Empire</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Babur** (बाबर) founded the Mughal empire after defeating **Ibrahim (इब्राहिम) Lodi** at the **First Battle of Panipat (पानीपत)** on **21 April 1526** (GC; also cited as 20 April), using **Tulughma** flanking and **Araba** cart-forts.
 2. **Panipat I (1526)** Cause–Course–Result: divided Afghan nobles vs Babur’s claim → Tulughma + Araba + guns broke Lodi’s mass → Ibrahim killed and the Delhi Sultanate ended.
-3. At **Khanwa (खानवा) in 1527**, Babur defeated **Rana Sanga (सांगा)**'s Rajput confederacy; **Chanderi 1528** and **Ghagra 1529** followed against Medini Rai (राई) and eastern Afghans.
-4. **Khanwa (1527)** Cause–Course–Result: Sanga’s post-Panipat confederacy → Babur’s artillery and cart-forts → Rajput challenge to the early Mughal core crushed.
-5. **Baburnama** (बाबरनामा) (Tuzk-e-Babri) was written in **Chagatai (चगताई) Turki (तुर्की)**, not Persian; the Mughal **court language** was **Persian** (फ़ारसी).
-6. The Mughals were **Chagatai** Turks (तुर्क) (from **Chinggis Khan's second son**); Babur took **Padshah** at **Kabul (1504)**, not only after Panipat (पानीपत).
-7. **Alam Khan** (आलम खान) was Ibrahim Lodi's uncle and a throne pretender; **Daulat Khan** (दौलत खान), **Dilawar Khan**, and **Rana Sanga** also invited Babur.
-8. Tomb fact: **Babur–Kabul**, **Humayun–Delhi**, **Akbar–Sikandra**, **Jahangir–Lahore**, and **Shah Jahan–Agra** (Taj for Mumtaz).
-9. Humayun lost **Chausa (चौसा) in 1539** and **Kannauj (कन्नौज)/Bilgram (बिलग्राम) in 1540** to Sher Shah (शेरशाह), returned in **1555**, and died in **1556**.
-10. **Daurah (दौराह) (1532)** was Humayun versus Afghan chiefs; do not confuse it with **Dharmat (धर्मत) (April 1658)**, Aurangzeb versus Jaswant Singh.
-11. Battle chronology fact: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh (समुगढ़) 1658**.
-12. At the **Second Battle of Panipat on 5 November 1556**, Akbar and **Bairam Khan** (बैरम खान) defeated **Hemu** and secured the throne.
-13. **Panipat II (1556)** Cause–Course–Result: Hemu seized Delhi after Humayun’s death → Bairam’s army struck Hemu near Panipat → Akbar’s throne secured and Sur-Afghan bid collapsed.
-14. **Bairam Khan** received the title **Khan-i-Khana** from **Akbar** (अकबर) — only that statement is true; the claim that the title came when he was appointed Vazir (वक़ील) is false.
-15. Akbar's **mansabdari** (मनसबदारी व्यवस्था) used dual ranks **zat** (जात - personal rank/pay) and **sawar** (सवार - cavalry quota); salary came from rotated **jagir** (जागीर) or cash; the system was **not hereditary** (गैर-वंशानुगत).
-16. Centre offices: **Wakil/Vazir**, **Diwan-i-Wizarat** (finance), **Mir Bakhshi** (army/mansabs), **Sadr-us-Sudur**, **Mir Saman**, **Diwan-i-Insha**; provinces ran **Suba → Sarkar → Pargana → village** with dual **Subahdar** and **Diwan**.
-17. **Todar Mal**'s **zabt** (ज़ब्ती - measurement-based assessment) measured land for a cash demand; **dahsala (1580–81)** (दहसाला बंदोबस्त) used a **10-year average** of yield and price.
-18. Akbar continued Sher Shah's coinage: silver (रूपक) **rupiya** (रुपिया), copper **dam** (दाम - about **1/40** of a rupiya), and gold **mohur** (मोहर).
-19. Akbar’s expansion order: **Malwa (1561–62) → Chittor (1567–68) → Gujarat (1572–73) → Bengal after Tukaroi (1575–76) → Kashmir (1586)** plus Kabul–Sind–Deccan beginnings.
-20. **Buland Darwaza** (बुलंद दरवाज़ा) at Fatehpur Sikri (फतेहपुर सीकरी) commemorates the **Gujarat victory of 1572**, not Jahangir's birth.
-21. Akbar made **Fatehpur Sikri** (फतेहपुर सीकरी) capital about **1571–85** and built **Allahabad (इलाहाबाद)/Ilahabad fort in 1583**; **Ibadat Khana** debates began about **1575**.
-22. Akbar’s **Rajput policy** began with the **1562** Amber marriage (**Harkha / Jodha Bai**); loyal rajas took mansabs; **Man Singh** (~**7000** zat) fought at **Haldighati 1576**.
-23. **Sulh-i-Kul** (सुलह-ए-कुल - universal peace / concord) was Akbar's universal peace policy; **Din-i-Ilahi (1582)** (दीन-ए-इलाही) remained only a small court circle (**Birbal** joined).
-24. Akbar abolished **jizya (जज़िया) in 1564** (जज़िया कर); Aurangzeb **reimposed** it in **1679**.
-25. Court death order: **Sheikh Mubarak 1593 → Faizi 1595 → Abul Fazl murdered 1602 → Daniyal 1605**.
-26. **Abul Fazl** wrote *Akbarnama* and *Ain-i-Akbari* (आइन-ए-अकबरी); **Abdur Rahim Khan-i-Khana** translated Baburnama into Persian; **Tansen** and **Birbal** were Navratnas.
-27. Painting spine: Humayun’s Safavid contact → Akbar’s **Hamzanama / Akbarnama** kitabkhana → Jahangir’s naturalism (**Ustad Mansur**) → Shah Jahan albums → Aurangzeb cut patronage and artists moved to Rajput–Deccan courts.
-28. **Nur Jahan** (नूरजहाँ) (Mehr-un-Nisa) married Jahangir in **1611**, appeared on coins and farmans, and patronised **Itimad-ud-Daula’s** Agra tomb (early pietra dura); Jahangir remained emperor.
-29. **William Hawkins (हॉकिन्स)** reached Jahangir in **1608** speaking Turkish; **Sir Thomas Roe (रो)** stayed at court **1615–19**.
-30. Shah Jahan's **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Rajabwah**; **Taj Mahal** and **Red Fort / Jama Masjid** mark his architecture peak.
-31. **Kavindra Acharya Saraswati (सरस्वती)** of Banaras was patronised by **Shah Jahan** (शाहजहाँ).
-32. Aurangzeb succession order: **Shuja beaten near Banaras → Dharmat April 1658 → Samugarh May 1658 → Deorai 1659**.
-33. Aurangzeb annexed **Bijapur (बीजापुर) in 1686** and **Golkonda in 1687**; the last Qutb (कुतुब) Shah was **Abul Hasan Qutb Shah**.
-34. **Jajau in 1707** came after Aurangzeb's death, when Bahadur Shah I (बहादुर शाह I) defeated Azam Shah.
-35. Akbar organised about **12 subahs**; under Aurangzeb the empire reached about **21 subahs**.
-36. **Hamida Banu** was Humayun's wife; **Gulbadan** wrote *Humayunnama*.
-37. **Dara Shikoh** (दारा शिकोह) wrote *Majma-ul-Bahrain* and *Sirr-i-Akbar*; Aurangzeb had him killed in **1659**.
-38. Later Mughals: **Bahadur Shah I** wins **Jajau 1707**; **Sayyid (सैयद) Brothers** (सैय्यद) under **Farrukhsiyar** (फ़र्रुख़); **Muhammad Shah Rangeela (रंगीला)** faces **Nadir Shah (नादिर शाह) at Karnal 1739**; last emperor **Bahadur Shah II Zafar (ज़फ़र)** in **1857**.
-39. **Maham Anaga** built **Khayr-ul-Manazil** near Purana Qila in early Akbar years — not a Sher Shah monument.
-40. **Panch Mahal** is the five-storey Sikri palace; do not confuse it with **Buland Darwaza** (Gujarat victory gate).
-41. **Shah Jahan’s Balkh–Badakhshan (1646–47)** was a prestige failure; do not treat it as equal to Aurangzeb’s Deccan annexations.
-42. **Khalsa** (ख़ालिसा) under Mughals means crown land; **jagir** is the assigned revenue unit of a mansabdar — keep both distinct from Sikh **Khalsa (1699)**.
-
-</details>
+3. **Khanwa (1527)** Cause–Course–Result: Sanga’s post-Panipat confederacy → Babur’s artillery and cart-forts → Rajput challenge to the early Mughal core crushed.
+4. **Baburnama** (बाबरनामा) (Tuzk-e-Babri) was written in **Chagatai (चगताई) Turki (तुर्की)**, not Persian; the Mughal **court language** was **Persian** (फ़ारसी).
+5. **Alam Khan** (आलम खान) was Ibrahim Lodi's uncle and a throne pretender; **Daulat Khan** (दौलत खान), **Dilawar Khan**, and **Rana Sanga** also invited Babur.
+6. **Daurah (दौराह) (1532)** was Humayun versus Afghan chiefs; do not confuse it with **Dharmat (धर्मत) (April 1658)**, Aurangzeb versus Jaswant Singh.
+7. **Panipat II (1556)** Cause–Course–Result: Hemu seized Delhi after Humayun’s death → Bairam’s army struck Hemu near Panipat → Akbar’s throne secured and Sur-Afghan bid collapsed.
+8. **Bairam Khan** received the title **Khan-i-Khana** from **Akbar** (अकबर) — only that statement is true; the claim that the title came when he was appointed Vazir (वक़ील) is false.
+9. **Todar Mal**'s **zabt** (ज़ब्ती - measurement-based assessment) measured land for a cash demand; **dahsala (1580–81)** (दहसाला बंदोबस्त) used a **10-year average** of yield and price.
+10. **Buland Darwaza** (बुलंद दरवाज़ा) at Fatehpur Sikri (फतेहपुर सीकरी) commemorates the **Gujarat victory of 1572**, not Jahangir's birth.
+11. **Sulh-i-Kul** (सुलह-ए-कुल - universal peace / concord) was Akbar's universal peace policy; **Din-i-Ilahi (1582)** (दीन-ए-इलाही) remained only a small court circle (**Birbal** joined).
+12. **Abul Fazl** wrote *Akbarnama* and *Ain-i-Akbari* (आइन-ए-अकबरी); **Abdur Rahim Khan-i-Khana** translated Baburnama into Persian; **Tansen** and **Birbal** were Navratnas.
+13. **Nur Jahan** (नूरजहाँ) (Mehr-un-Nisa) married Jahangir in **1611**, appeared on coins and farmans, and patronised **Itimad-ud-Daula’s** Agra tomb (early pietra dura); Jahangir remained emperor.
+14. **William Hawkins (हॉकिन्स)** reached Jahangir in **1608** speaking Turkish; **Sir Thomas Roe (रो)** stayed at court **1615–19**.
+15. **Kavindra Acharya Saraswati (सरस्वती)** of Banaras was patronised by **Shah Jahan** (शाहजहाँ).
+16. **Jajau in 1707** came after Aurangzeb's death, when Bahadur Shah I (बहादुर शाह I) defeated Azam Shah.
+17. **Hamida Banu** was Humayun's wife; **Gulbadan** wrote *Humayunnama*.
+18. **Dara Shikoh** (दारा शिकोह) wrote *Majma-ul-Bahrain* and *Sirr-i-Akbar*; Aurangzeb had him killed in **1659**.
+19. **Maham Anaga** built **Khayr-ul-Manazil** near Purana Qila in early Akbar years — not a Sher Shah monument.
+20. **Panch Mahal** is the five-storey Sikri palace; do not confuse it with **Buland Darwaza** (Gujarat victory gate).
+21. **Shah Jahan’s Balkh–Badakhshan (1646–47)** was a prestige failure; do not treat it as equal to Aurangzeb’s Deccan annexations.
+22. **Khalsa** (ख़ालिसा) under Mughals means crown land; **jagir** is the assigned revenue unit of a mansabdar — keep both distinct from Sikh **Khalsa (1699)**.
+23. **Shaybani Khan** defeated Babur at **Sar-e-Pul (1501)** using **Tulughma** — Babur later reused the same tactic in India.
+24. **Kabul in 1504** became his base. There Babur dropped the ancestral **Mirza** style and first took **Padshah** — before the Indian empire proclamation after **Panipat (27 April 1526)**.
+25. **Alam Khan** was Ibrahim Lodi's uncle and a Delhi throne pretender. **Daulat Khan Lodi** and **Dilawar Khan** invited Babur from Punjab. **Rana Sanga** also invited him separately. Babur pursued his own empire.
+26. **Baburnama** (Turki) is his classic memoir. He also wrote a ***Diwan***, ***Mubaiyan*** (Muslim law), and ***Risala-i-Usaj / Khat-i-Baburi***.
+27. **Abdur Rahim Khan-i-Khanan** later translated the Baburnama into Persian.
+28. **Mir Baqi**, a commandant under Babur, built the **Babri Masjid** at Ayodhya (अयोध्या) — a sensitive UP fact to state carefully.
+29. **Babur** brought Central Asian manuscript culture; early Mughal painting grows under **Humayun** (हुमायूँ) after Safavid contact.
+30. **Akbar's kitabkhana** produced the illustrated **Akbarnama** and **Hamzanama** (हम्जानामा) (large-format cloth paintings).
+31. **Jahangir** (जहाँगीर) preferred **natural-history** studies — flowers, birds, and individual portraits; **Ustad Mansur** is the famous bird painter fact.
+32. **Shah Jahan** patronised **court albums** and refined portraiture; architecture painting links to **Taj Mahal** (ताज महल) age aesthetics.
+33. **Aurangzeb** (औरंगजेब) cut court patronage; artists moved to **Rajput** and **Deccan** (दक्कन) courts — decline of imperial atelier, not end of Indian painting.
+34. **Daurah** and **Dharmat** are different battles. **Daurah (1532)** was fought by **Humayun** against Afghan chiefs. **Dharmat (April 1658)** was Aurangzeb’s battle against Jaswant Singh.
+35. **Haji Begum (Bega Begum)** built **Humayun’s Tomb** at Delhi — the first **double-dome** Mughal mausoleum. Architect **Mirak Mirza Ghiyas** designed it in Akbar’s (अकबर) reign. It became the garden-tomb prototype for the Taj Mahal.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Panipat I | II vs III | 1526 Babur–Ibrahim; 1556 Akbar–Hemu; 1761 Marathas–Abdali | पानीपत I / II / III |
-| Chausa | Kannauj | 1539 Humayun escaped; 1540 decisive Sher Shah win | चौसा / कन्नौज |
-| Daurah | Dharmat | **1532** Humayun vs Afghans; **Apr 1658** Aurangzeb vs Jaswant Singh | दौराह / धर्मत |
-| Dharmat | Samugarh | Apr 1658 Jaswant Singh; May 1658 Dara defeated | धर्मत / समुगढ़ |
-| Zabt | Dahsala | Measurement-based assessment vs 10-year average yield | ज़ब्त / दहसाला |
-| Zat | Sawar | Personal rank vs cavalry obligation | ज़ात / सवार |
-| Jagir | Khalsa | Assigned to mansabdars vs crown land | जागीर / खालसा |
-| Sulh-i-Kul | Din-i-Ilahi | Universal peace policy vs 1582 small court cult | सुलह-ए-कुल / दीन-ए-इलाही |
-| Akbarnama | Ain-i-Akbari | Narrative history vs admin gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
-| Buland Darwaza | Panch Mahal | Gujarat victory gate vs five-storey palace at Sikri | बुलंद दरवाज़ा / पंच महल |
-| Padshah at Kabul | after Panipat | **1504 Kabul** title vs **27 April 1526** Indian empire proclamation | काबुल पादशाह / पानीपत |
-| Chagatai | Timurid claim | Ethnic **Chagatai Turk** line vs **Timur** descent for legitimacy | चगताई / तैमूर |
-| Alam Khan | Daulat Khan | Ibrahim's **uncle**/pretender vs Punjab governor invite | आलम खान / दौलत खान |
-| Bairam Khan | Rahim | Regent; **Khan-i-Khana from Akbar** vs son, Hindi poet | बैरम खान / रहीम |
-| Dara | Aurangzeb | Scholar, syncretic; orthodox, won 1658 | दारा / औरंगज़ेब |
-| Balkh failure | Deccan annexation | Shah Jahan’s **1646–47** prestige flop vs Aurangzeb’s **Bijapur 1686 / Golkonda 1687** | बल्ख / दक्कन |
-| Bahadur Shah I | Zafar | **1707** successor of Aurangzeb vs **last** Mughal **1837–57** | बहादुर शाह I / ज़फ़र |
-| Rangeela | Farrukhsiyar | **Nadir / Peacock Throne 1739** vs **1717** Company farman + Sayyid peak | रंगीला / फ़र्रुख़ |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Baburnama** was written in **Chagatai Turki**, but the Mughal **court language** was **Persian**.
+2. **Buland Darwaza** commemorates Akbar's **Gujarat victory of 1572**, not Jahangir's birth.
+3. **Daurah (1532)** is Humayun's early victory; **Dharmat (1658)** is Aurangzeb's succession battle. Do not swap them.
+4. When Kannauj, Daurah, Samugarh, and Chausa appear together, chronological order is **Daurah (1532) → Chausa (1539) → Kannauj (1540) → Samugarh (1658)**.
+5. **Akbar** gave **Bairam Khan** the title **Khan-i-Khanan** — only statement 1 is true; statement 2 is false.
+6. **Mansab** was **not hereditary** under Akbar.
+7. **Ain-i-Akbari** is an administrative gazetteer; **Akbarnama** is narrative biography.
+8. **William Hawkins** reached India in **1608**, not 1611.
+9. **Hamida Banu Begum** was **Humayun's** wife, not Alauddin Khalji's.
+10. When Aurangzeb captured **Golkonda in 1687**, the last ruler was **Abul Hasan Qutb Shah**, not an Adil Shahi sultan.
+11. **Nahr-i-Bihisht** in Shahjahanabad used water from the restored **Firuz Rajabwah**; it was not a wholly new Akbar-era canal.
+12. **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**, not Akbar.
+13. **Jajau (1707)** came after Aurangzeb's death; it is not one of the 1658 succession battles.
+14. **Bahadur Shah I (1707)** is not **Bahadur Shah Zafar (1837–57)** — first after Aurangzeb versus last Mughal.
+15. **Nadir Shah’s 1739** sack hit **Muhammad Shah Rangeela**, not Aurangzeb or Shah Alam II.
+16. **Din-i-Ilahi (1582)** was a small court circle, not a mass religion.
+17. In the Mughal military-state A/R, the empire began as a military state and central vitality rested on army power — Reason explains Assertion.
+18. The **Ilahi calendar (1584)** is separate from **Din-i-Ilahi (1582)**.
+19. The **Hamzanama** folio cycle belongs to **Akbar's** atelier, not Jahangir's natural-history albums with Mansur.
+20. **Chagatai Turks** — not Ottoman or Seljuk — were Babur's lineage; **Padshah** came at **Kabul (1504)**, Indian empire after **Panipat (27 April 1526)**.
+21. **Alam Khan** was Ibrahim Lodi's **uncle**, not the same as **Daulat Khan Lodi** of Punjab.
+22. **Mir Baqi** (Babur's commandant) built the **Babri Masjid** — state as a single careful fact.
+23. Court death order: **Mubarak 1593** → **Faizi 1595** → **Abul Fazl 1602** → **Daniyal 1605**.
+24. Shah Jahan’s **Balkh (1646–47)** failed; do not confuse it with Aurangzeb’s successful **Bijapur / Golkonda** annexations.
 
 
 ---

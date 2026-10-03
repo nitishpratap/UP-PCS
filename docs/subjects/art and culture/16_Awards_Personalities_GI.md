@@ -64,7 +64,8 @@ D. Lazzatnama (लज़्ज़तनामा)
 ---
 
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Three Culture akademis sit at Rabindra Bhavan: **Sangeet Natak Akademi (1952)** for performing arts, **Sahitya Akademi (1954)** for letters, and **Lalit Kala Akademi (1954)** for visual arts.
 2. SNA (संगीत नाटक) gives the annual **Akademi Award** (अकादेमी पुरस्कार), the lifetime **Akademi Ratna (अकादेमी रत्न) (Fellowship)** for a small living cohort, and the **Bismillah Khan (बिस्मिल्लाह खान) Yuva** (बिस्मिल्लाह खान युवा) award for young performing artists.
@@ -101,10 +102,10 @@ D. Lazzatnama (लज़्ज़तनामा)
 33. GI ownership is a **community** / association claim tied to geography. A company trademark cannot replace that place-name right.
 34. Filter order: first identify the body (SNA / Sahitya / Lalit Kala / Jnanpith / Bharat Ratna / Padma / GI ministry (वाणिज्य)), then the person or craft, then the year if asked.
 
+</details>
 
----
-
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -120,8 +121,7 @@ D. Lazzatnama (लज़्ज़तनामा)
 | MS Subbulakshmi | Lata Mangeshkar | First musician BR **1998** Carnatic vs playback BR **2001** | एम.एस. / लता |
 | Bismillah Khan | Birju Maharaj | Shehnai, Varanasi, BR 2001 vs Kathak Lucknow, **not** BR | बिस्मिल्लाह / बिरजू |
 
----
-
+</details>
 
 ## Must-score facts — akademis, Bharat Ratna, GI
 

@@ -7,7 +7,8 @@
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Aipan** (ऐपण) is Kumaon (कुमाऊँ) ritual floor and wall art painted with **Geru** (गेरू) (red ochre ground) and **Biswar** (बिसवार) (white rice paste).
 2. Aipan received a **GI tag** in **September 2021**. Motifs are applied with the ring finger (*Anamika*) and middle finger of the right hand.
@@ -37,6 +38,8 @@
 26. Lakhia Bhoot is a horned attendant figure of Hiljatra fertility blessing, not a Ramman mask class.
 27. Jagar instruments commonly include **Dhol–Damau** or **Dor–Thali**. Do not reduce Jagar to dance alone.
 28. UK folk culture here is ritual and oral community practice. It is not SNA classical dance and not Mughal miniature painting.
+
+</details>
 
 ## Quick Revision — Spine Only
 
@@ -141,7 +144,8 @@
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -151,8 +155,7 @@
 | **Hiljatra vs Nanda Raj Jat** | Hiljatra = **Pithoragarh agricultural mask festival (Lakhia Bhoot)**; Nanda Raj Jat = **Chamoli 280 km 12-year yatra**. |
 | **Pawada vs Khuded** | Pawada = **Heroic martial ballad**; Khuded = **Melancholy song longing for maternal home**. |
 
----
-
+</details>
 
 ## UKPCS Inline & Practice Questions
 

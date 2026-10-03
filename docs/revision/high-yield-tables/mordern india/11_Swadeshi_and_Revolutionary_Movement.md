@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 11 — Swadeshi (स्वदेशी) & Revolutionary (क्रांतिकारी) Movement</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -37,11 +35,7 @@ hide:
 | Stuttgart flag 1907 | Berlin Committee 1915 | Madam Cama unfurls a tricolour at a Socialist Congress vs a wartime Europe plot with German help | स्टुटगार्ट ध्वज / बर्लिन समिति |
 | Bengal Swadeshi orgs | Bengal revolutionary orgs | Banerjee/Pal/Tagore/Aurobindo open politics vs Anushilan/Jugantar secret action | स्वदेशी संगठन / क्रांतिकारी संगठन |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Year ↔ event
 
@@ -205,18 +199,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Partition of Bengal was announced in July 1905 and became effective on 16 October 1905. The new province was East Bengal and Assam with capital at Dacca.
 - **Exam Anchor:** Causes: Curzon (कर्ज़न) claimed administrative size; nationalists read divide and rule aimed at Hindu–Muslim and Calcutta politics.
 - **Exam Anchor:** Course: 16 October was a mourning day with Rakhi (राखी) unity and Tagore’s Amar Sonar Bangla; protest fused at once with Swadeshi and boycott (बहिष्कार).
 - **Exam Anchor:** Results: Mass protest and underground radicalisation followed; Partition was annulled in 1911 at the Delhi Durbar, and the capital moved Calcutta → Delhi.
-- **Exam Anchor:** The Lucknow (लखनऊ) Pact (लखनऊ पैक्ट) is 1916, not 1911. Do not merge it with the annulment package.
-- **Exam Anchor:** The Boycott Resolution was passed on 7 August 1905 at Calcutta Town Hall. Swadeshi means use Indian goods; boycott means reject British goods and institutions.
-- **Exam Anchor:** The National Council of Education came in August 1906. Aurobindo (अरविंद) was principal of Bengal National College.
 - **Exam Anchor:** Ashwini Kumar Dutt’s Swadesh (स्वदेश) Bandhab Samiti (Barisal) is the classic district volunteer body. V.O.C. Pillai founded Swadeshi Steam Navigation at Tuticorin.
-
-</details>
+- **Exam Anchor:** Extremist (गरम दल) Congress politics (boycott/Swadeshi) is not the same as revolutionary secret societies.
+- **Exam Anchor:** Abhinav Bharat is linked to Savarkar (सावरकर). India House in London is linked to Shyamji Krishna (कृष्णा) Varma.
+- **Exam Anchor:** Anushilan Samiti is locked to the Hardinge bomb of 1912. Jugantar is the Barindra / Yugantar / Manicktolla stream.
 
 ---
 

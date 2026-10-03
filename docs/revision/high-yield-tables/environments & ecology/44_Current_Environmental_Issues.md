@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 44 — Current Environmental Issues</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Nature-based Solutions (NbS)** | **Geoengineering** | Ecosystem protection, restoration, and sustainable management to address societal challenges (e.g. mangrove restoration) vs large-scale technological manipulation of Earth's systems (e.g. solar radiation management) | प्रकृति-आधारित समाधान (NbS) / भू-इंजीनियरिंग |
 | **Mission LiFE Genesis** | **Mission LiFE Official Launch** | Conceptualized and introduced by PM Modi at COP26 Glasgow in **November 2021** vs officially launched jointly with UN Secretary-General António Guterres at Ekta Nagar (Kevadia), Gujarat in **October 2022** | मिशन लाइफ विचार (ग्लासगो 2021) / औपचारिक शुभारंभ (केवड़िया 2022) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Current locks
 
@@ -171,18 +165,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A carbon footprint totals greenhouse gases in tCO₂e. Scope 1 is direct, Scope 2 is purchased energy, Scope 3 is the wider value chain.
-- **Exam Anchor:** India’s per capita carbon footprint is about 2 tCO₂e — low versus global and USA averages — even though absolute (निरपेक्ष) emissions are high.
-- **Exam Anchor:** An ecological footprint (पारिस्थितिक पदचिह्न) measures resource demand in global hectares (gha). It is not the same unit as tCO₂e. The Social Cost of Carbon is the monetary long-term damage of one tonne of CO₂.
 - **Exam Anchor:** Net zero balances remaining emissions with removals. India’s year fact is 2070. It is not gross zero and not automatically 2050.
-- **Exam Anchor:** NDC-style facts include about 45% intensity cut, about 50% non-fossil capacity, and a large forest sink goal.
-- **Exam Anchor:** The Emissions Gap Report (उत्सर्जन अंतराल रिपोर्ट) is by UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम).
-- **Exam Anchor:** A green economy (UNEP framing) is low-carbon, resource-efficient, and socially inclusive.
-- **Exam Anchor:** A blue economy is sustainable ocean use linked to SDG 14. MISHTI mangrove restoration is from the 2023 Budget, not 2019.
-
-</details>
+- **Exam Anchor:** Green hydrogen uses electrolysis powered by renewables. India’s mission (January 2023) targets about 5 MMT by 2030.
+- **Exam Anchor:** Grey hydrogen reforms natural gas. Blue hydrogen adds CCS (सुरक्षा कैबिनेट समिति) to grey pathways. Do not call grey “green.”
+- **Exam Anchor:** Microplastics are plastic pieces smaller than 5 mm. They are primary (made small) or secondary (fragmented) and are not fast biodegradable.
+- **Exam Anchor:** Climate refugees are mostly internally displaced. They are not a separate legal category under the 1951 Refugee Convention.
+- **Exam Anchor:** Nature-based Solutions protect, manage, or restore ecosystems (IUCN (आईयूसीएन) framing). They are not geoengineering (भू-इंजीनियरिंग) (cirrus thinning / sulphate aerosols are geoengineering ideas for cooling, not NbS).
+- **Exam Anchor:** LiFE was an idea at COP-26 (2021) and launched in June 2022 under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) with a long action list. COP-25 Madrid is the false trap.
+- **Exam Anchor:** Scope 1 covers direct emissions from owned sources (boilers, fleet fuel).
 
 ---
 

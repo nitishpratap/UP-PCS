@@ -11,75 +11,78 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Sixth Century BCE</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The sixth–fourth centuries BCE bring **iron**, **NBPW**, punch-marked silver (**Aahat**), and the **second urbanisation**. This is still **before** the Mauryan empire.
-2. Sources for the sixteen mahajanapadas include the Buddhist **Anguttara Nikaya** and the Jain **Bhagavati Sutra** (different name-set). **Panini’s Ashtadhyayi** names about **22** janapadas and stresses **Magadha, Asmaka, and Kamboja**.
-3. The four great monarchies were **Magadha, Kosala, Vatsa, and Avanti**. Republics (**gana-sangha** (गण-संघ)) include **Vajji** and **Malla**. Papers often call the **Licchavis of Vaishali** the world’s first republic.
-4. **Vajji** was a confederacy with capital **Vaishali** (वैशाली) (called *Magadhham Puram* in the Suttanipata). **Malla** held **Kushinagar** (कुशीनगर) and **Pava**. **Asmaka** was the only mahajanapada **south of the Vindhyas**.
-5. Classic capital matches: **Matsya–Viratnagar**, **Kuru–Indraprastha**, **Surasena–Mathura**, **Asmaka–Potana**, **Chedi–Suktimati / Sotthivati**, **Anga–Champa**.
-6. Early strongest was often **Kashi** (काशी). **Anga** was Magadha’s first major bite. **Avanti** survived until the **Shishunaga** conquest.
-7. Eight mahajanapadas touch **Uttar Pradesh** (उत्तर प्रदेश): Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena, and Chedi.
-8. Not UP: **Magadha / Anga / Vajji** are Bihar-centred, **Avanti** is Madhya Pradesh, and **Matsya** is Rajasthan.
-9. UP capital facts: Kashi–**Varanasi** (वाराणसी), Kosala–**Ayodhya / Shravasti** (crescent plan at Saheth–Maheth), Vatsa–**Kaushambi** (कौशांबी), Kuru–**Hastinapur / Indraprastha**, Panchala–**Ahichchhatra / Kampilya**, Malla–**Kushinagar**, Surasena–**Mathura** (मथुरा), Chedi–Bundelkhand edge.
-10. **Rajagriha / Girivraja** was early Magadha’s hill capital. **Ajatashatru** (अजातशत्रु) fortifies / founds the **Pataligrama** seed; **Udayin** first makes **Pataliputra** (पाटलिपुत्र) the capital (Ganga north, Son west).
-11. Haryanka order: **Bimbisara** (alliances and **Anga**) → **Ajatashatru** (war on **Vajji**, *rathamusala* (रथमुसल)) → **Udayin** (Pataliputra as capital).
-12. **Shishunaga** rule took **Avanti**. **Kalashoka** is linked with the **Second Buddhist Council**. The last Shishunaga is often named **Nandivardhana**.
-13. **Mahapadma Nanda** is remembered as *ekarat* (एकराट्) / *sarvakshatrantaka* (सर्वक्षत्रान्तक) / *ugrasena* (उग्रसेन) / *aparoparashurama* (अपरोपरशुराम). **Dhana Nanda** was the last Nanda, called **Agrammes** by the Greeks; commander **Bhaddasala**.
-14. Greek writers give the Nanda army huge figures (about 2 lakh foot, 20k horse, 2k chariots, 3k elephants). **Alexander never fought** the Nandas.
-15. A **janapada** (जनपद) is clan territory. A **mahajanapada** (महाजनपद) is one of the sixteen large states of this age.
-16. **Monarchy** means hereditary kingship. **Gana-sangha** (गण-संघ) means oligarchic clan-council rule, as in Vajji. **Yaudheya** is a later gana — not in the Buddha-period “early republic” list that papers use.
-17. **NBPW** (Northern Black Polished Ware) is the deluxe black pottery of mahajanapada / early historic cities. It is **not** Later Vedic **PGW**.
-18. Magadha rose through river trade, iron, elephants, and aggressive conquest from Anga toward Vajji and finally Avanti.
-19. **Champa** (epic **Malini**) was the river-port capital of **Anga**. **Varanasi** was the capital of **Kashi**. Do not swap them.
-20. **Potana** is the Asmaka capital in standard match lists. Later **Pratishthana / Paithan** belongs to Satavahana geography, not the 2020 Asmaka key.
-21. **Kushinagar** and **Pava** are **Malla** towns. Jain **Pavapuri** (पावापुरी) (Mahavira’s nirvana) is a Magadha-site fact, not the same as Malla Pava in every stem.
-22. Magadha’s expansion wars should be read as Cause → Course → Result: Anga first, then Kosala/Vajji pressure, then Avanti under Shishunaga, then Nanda imperial climax before Mauryas.
-23. Punch-marked **silver** (रूपक) coins and NBPW mark the money-and-city package of second urbanisation.
-24. **Ajatashatru** is the parricide king who broke the Licchavi confederacy. **Bimbisara** is the alliance-builder who took Anga. **Jivaka** was Bimbisara’s physician, sent also to treat **Chanda Pradyota** of Avanti.
-25. The sixteen names are fixed furniture; capitals and UP/non-UP sorting decide most prelims marks.
-26. Second urbanisation centres sit on river corridors of the middle Ganga, not on Harappan Indus grids. Six Buddha-age metros in the *Mahaparinirvana-sutra*: **Champa, Rajagriha, Varanasi, Saketa, Kaushambi, Shravasti**.
-27. After the Nandas comes the Mauryan takeover under **Chandragupta** (चंद्रगुप्त) — that story belongs to the next topic, not this one.
-28. Keep pottery chronology: **PGW** (Later Vedic) then **NBPW** (mahajanapada / early historic). Mixing them is a frequent trap.
-29. **Udayana–Vasavadatta** (Bhasa’s *Svapnavasavadattam* (स्वप्नवासवदत्तम्)) is tied to **Ujjain** (उज्जैन), not to Kaushambi alone as the love-story setting.
-30. **Kalpi** (ancient **Kalpriya**) sits on the **Yamuna** (यमुना) in Jalaun (UP). Dynasty dates for Magadha houses: Haryanka → Shishunaga → Nanda → Maurya → Shunga.
-31. **Prasenjit** of **Kosala** (Shravasti) is Buddha’s contemporary monarch. **Udayana** of **Vatsa** (Kaushambi) is the other famous middle-Ganga king of the same horizon.
-32. **Ghositarama** at Kaushambi is the famous Buddhist monastery of the Vatsa capital. **Saheth–Maheth** is the twin mound of **Shravasti**.
-33. Magadha’s geographic advantages are **iron**, **elephants**, **Ganga–Son** river trade, and aggressive conquest from **Anga** toward **Vajji** and finally **Avanti**.
-34. Canonical Buddhist sixteen are fixed furniture; Jain **Bhagavati** uses a different name-set. Capitals and UP/non-UP sorting decide most stems.
+1. **8 in Modern Uttar Pradesh:** Kashi, Kosala, Vatsa, Malla, Surasena, Panchala, Kuru (partly), Chedi (partly).
+2. **3 in Bihar:** Magadha, Anga, Vajji.
+3. **1 in Madhya Pradesh:** Avanti (plus parts of Chedi).
+4. **1 in Rajasthan:** Matsya.
+5. **1 in South India (Godavari basin):** Ashmaka (Assaka).
+6. **2 in Northwest / Beyond Indus:** Gandhara, Kamboja.
+7. **Gana-Sanghas (Republics / Non-monarchical):** **Vajji** (8 confederate clans) and **Malla** (two branches: Pava and Kushinara).
+8. **Vajji** was a confederacy with capital **Vaishali** (वैशाली) (called *Magadhham Puram* in the Suttanipata). **Malla** held **Kushinagar** (कुशीनगर) and **Pava**. **Asmaka** was the only mahajanapada **south of the Vindhyas**.
+9. **Rajagriha / Girivraja** was early Magadha’s hill capital. **Ajatashatru** (अजातशत्रु) fortifies / founds the **Pataligrama** seed; **Udayin** first makes **Pataliputra** (पाटलिपुत्र) the capital (Ganga north, Son west).
+10. **Shishunaga** rule took **Avanti**. **Kalashoka** is linked with the **Second Buddhist Council**. The last Shishunaga is often named **Nandivardhana**.
+11. **Mahapadma Nanda** is remembered as *ekarat* (एकराट्) / *sarvakshatrantaka* (सर्वक्षत्रान्तक) / *ugrasena* (उग्रसेन) / *aparoparashurama* (अपरोपरशुराम). **Dhana Nanda** was the last Nanda, called **Agrammes** by the Greeks; commander **Bhaddasala**.
+12. **Monarchy** means hereditary kingship. **Gana-sangha** (गण-संघ) means oligarchic clan-council rule, as in Vajji. **Yaudheya** is a later gana — not in the Buddha-period “early republic” list that papers use.
+13. **NBPW** (Northern Black Polished Ware) is the deluxe black pottery of mahajanapada / early historic cities. It is **not** Later Vedic **PGW**.
+14. **Champa** (epic **Malini**) was the river-port capital of **Anga**. **Varanasi** was the capital of **Kashi**. Do not swap them.
+15. **Potana** is the Asmaka capital in standard match lists. Later **Pratishthana / Paithan** belongs to Satavahana geography, not the 2020 Asmaka key.
+16. **Kushinagar** and **Pava** are **Malla** towns. Jain **Pavapuri** (पावापुरी) (Mahavira’s nirvana) is a Magadha-site fact, not the same as Malla Pava in every stem.
+17. **Ajatashatru** is the parricide king who broke the Licchavi confederacy. **Bimbisara** is the alliance-builder who took Anga. **Jivaka** was Bimbisara’s physician, sent also to treat **Chanda Pradyota** of Avanti.
+18. **Udayana–Vasavadatta** (Bhasa’s *Svapnavasavadattam* (स्वप्नवासवदत्तम्)) is tied to **Ujjain** (उज्जैन), not to Kaushambi alone as the love-story setting.
+19. **Kalpi** (ancient **Kalpriya**) sits on the **Yamuna** (यमुना) in Jalaun (UP). Dynasty dates for Magadha houses: Haryanka → Shishunaga → Nanda → Maurya → Shunga.
+20. **Prasenjit** of **Kosala** (Shravasti) is Buddha’s contemporary monarch. **Udayana** of **Vatsa** (Kaushambi) is the other famous middle-Ganga king of the same horizon.
+21. **Ghositarama** at Kaushambi is the famous Buddhist monastery of the Vatsa capital. **Saheth–Maheth** is the twin mound of **Shravasti**.
+22. **Iron** ploughs and weapons open forest in the middle Ganga. The **chaturanga** army has infantry, cavalry, chariots, and elephants.
+23. **NBPW** (about 700–200 BCE) is the deluxe table-ware of this urban phase. It **starts in mahajanapada towns** and continues into the Mauryas. **PGW** is the Later Vedic doab ware.
+24. **Punch-marked** silver (*karshapana*, bent bars), also called **Aahat** coins, appears. There is no gold dinara yet. These are the earliest extant Indian coins and run from about the seventh–sixth centuries BCE into the Mauryan age.
+25. **Panini** of **Pushkalavati** (Gandhara) in the *Ashtadhyayi* names about **22** janapadas. The three he stresses as important are **Magadha, Asmaka, and Kamboja**.
+26. **Iron tools** opened forest land and strengthened plough agriculture in the middle Ganga.
+27. **Fortified towns** with ramparts, craft quarters, and administrative centres multiplied.
+28. **Punch-marked silver** (*karshapana*) eased wider exchange; writing spread on pots and seals.
+29. **NBPW** marks elite urban table culture; it begins in mahajanapada towns and continues into Mauryan strata.
+30. **Champa** is a Ganga **emporium** in the Bhagalpur–Munger belt. Epic and Puranic memory also call it **Malini**.
+31. **Girivraja / Rajagriha** sits in a ring of five hills. Iron and elephants are the resource facts.
+32. **Jivaka** was sent from Magadha to treat him. Avanti falls to **Shishunaga**.
+33. **Taxila** (तक्षशिला) is the university-town and an Achaemenid satrapy. **Pushkalavati** is the second pole.
+34. **Vajji** united **eight clans**. Leading houses were the **Licchavis** of Vaishali, the **Videhas** of Mithila, and the **Jnatrikas** (Mahavira's clan).
+35. **Malla** was a gana with two centres: **Kushinagar** and **Pava**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Janapada | Mahajanapada | Clan territory vs the **16** large states | जनपद / महाजनपद |
-| Monarchy | Gana-sangha | Hereditary king vs oligarchic clan-council | राजतंत्र / गणसंघ |
-| Rajagriha | Pataliputra | Early Magadha capital vs later Ganga–Son capital | राजगृह / पाटलिपुत्र |
-| Ajatashatru (Patali) | Udayin (capital) | Fortifies / founds **Pataligrama** seed vs first makes **Pataliputra** the capital | अजातशत्रु / उदयन |
-| Udayin (Magadha) | Udayana (Vatsa) | Haryanka capital-shifter vs Vatsa king of Kaushambi | उदयन मगध / उदयन वत्स |
-| Matsya | Surasena | **Viratnagar** (Rajasthan) vs **Mathura** | मत्स्य / शूरसेन |
-| Kashi | Kosala | Varanasi vs Ayodhya / **Shravasti** | काशी / कोसल |
-| Vatsa | Panchala | **Kaushambi** vs Ahichchhatra / Kampilya | वत्स / पांचाल |
-| Magadha | Vajji | Magadhan **kingdom** (Bihar) vs Licchavi **republic** (Vaishali) | मगध / वज्जि |
-| Bimbisara | Ajatashatru | Alliances + **Anga** vs parricide + **Vajji** war | बिम्बिसार / अजातशत्रु |
-| Haryanka | Shishunaga | Bimbisara line vs minister who **took Avanti** | हर्यंक / शिशुनाग |
-| Mahapadma | Dhana Nanda | Founder / ekarat vs last Nanda, **Alexander age** | महापद्म / धननन्द |
-| Potana | Pratishthana | Asmaka capital in 2020 paper vs later Satavahana Paithan | पोतन / प्रतिष्ठान |
-| PGW | NBPW | Later Vedic doab grey ware vs **mahajanapada / early historic** deluxe black ware | चित्रित धूसर / उत्तरी काली |
-| Girivraja | Pataliputra | Rajgir five-hill fort vs Ganga–Son city | गिरिव्रज / पाटलिपुत्र |
-| Kushinagar | Pava | Both **Malla** vs Jain **Pavapuri** (Mahavira) in Magadha | कुशीनगर / पावा |
-| Champa | Varanasi | **Anga** river-port vs **Kashi** | चम्पा / वाराणसी |
-| Buddha-age ganas | Yaudheya | Shakya / Licchavi / Malla list vs later plains **gana** (not “earlier republic” stem) | गण / यौधेय |
-| Avantika | Taxila | Ancient name / pole of **Ujjain** vs **Gandhara** university town | अवन्तिका / तक्षशिला |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Facts
+
+1. **Matsya = Mathura** → Mathura = **Surasena**; Matsya = **Viratnagar** (2020).
+2. **Asmaka = Pratishthana/Paithan** in that 2020 list → **Potana**.
+3. **Magadha / Vajji / Anga in UP** → **Bihar**.
+4. **Pataliputra founded by Chandragupta / Ashoka** → **Ajatashatru** seeds / founds; **Udayin** first makes it the **capital**.
+5. **Shishunaga founded Pataliputra** → he **took Avanti** (and some keys give him Varanasi as second capital).
+6. **Shakya = one of the 16** → under Kosala; not the canonical sixteen.
+7. **Alexander defeated the Nandas** → turned at the **Beas**.
+8. **Vajji = Magadhan monarchy** → **gana-sangha**.
+9. **First Magadha conquest = Vajji** → **Anga** (Bimbisara); Vajji = Ajatashatru.
+10. **Kalashoka = First Council** → **Second**, Vaishali.
+11. **Kashi = Kosala** → two mahajanapadas; Varanasi vs Shravasti/Ayodhya.
+12. **Ahichchhatra = Vatsa / Kosala** → **Panchala**; Vatsa = Kaushambi; Kosala = Saket/Shravasti.
+13. **6th c. BCE = Mauryan empire** → mahajanapadas; Mauryas start ~322 BCE.
+14. **Avanti in UP** → **Malwa / MP**.
+15. **Malla capital = Vaishali** → Vaishali = **Vajji**; Malla = **Kushinagar**.
+16. **Pava (Malla) = Pavapuri (Mahavira)** → two different places.
+17. **NBPW = PGW / “only Mauryan”** → NBPW starts in mahajanapada towns.
+18. **Bimbisara annexed Avanti** → **Shishunaga**.
+19. **Mahapadma = Chandragupta** → Nanda founder vs Mauryan founder.
+20. **Kamboja = Asmaka** → horses/NW vs Godavari/south.
+21. **Shakya = 16th mahajanapada** → under Kosala.
+22. **Jarasandha = Haryanka king** → epic/Puranic Brihadratha memory, not the Bimbisara list.
+23. **Udayin (Magadha) = Udayana (Vatsa)** → capital-shifter vs Kaushambi king.
+24. **Yaudheya = Buddha-age “earlier republic”** → later gana; not in that early list.
+25. **Surasena = Kaushambi** → Mathura; Kaushambi = Vatsa.
+26. **First extant coins = gold** → punch-marked **silver** (Aahat).
+27. **Kosala capital = Ahichchhatra** → Ahichchhatra = Panchala.
 
 
 ---

@@ -21,7 +21,8 @@ Natural Resources of Uttarakhand | Forests | Water | Biodiversity hooks | Himala
 
 ---
 
-## Consolidated — 20 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 20 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Uttarakhand is a **Himalayan state** whose forests, glaciers, rivers, and biodiversity contribute to India’s climate and water security.
 2. **Chipko** (चिपको) began in **1973** at **Reni (Chamoli (चमोली))**. It is the classic UK people’s movement for forest protection.
@@ -44,9 +45,10 @@ Natural Resources of Uttarakhand | Forests | Water | Biodiversity hooks | Himala
 19. Over-urbanisation and unplanned industrialisation stress ecology and biodiversity in hill towns as well as plains.
 20. Shared national ecology stems (sustainable development, institutions, agreements, days) also appear in UKPCS — learn them as national facts with UK colour where needed.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Term | One-line difference |
 |------|---------------------|
@@ -59,7 +61,7 @@ Natural Resources of Uttarakhand | Forests | Water | Biodiversity hooks | Himala
 | **NEERI** | Nagpur 1958 — CSIR env. engineering |
 | **Natural capital** | Forests, water, minerals — not roads |
 
----
+</details>
 
 ## 1.1 Natural Resource Base of Uttarakhand
 

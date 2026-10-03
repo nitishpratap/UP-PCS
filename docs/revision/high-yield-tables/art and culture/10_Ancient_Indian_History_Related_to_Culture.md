@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 10 — Ancient Indian History Related to Culture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -27,11 +25,7 @@ hide:
 | Terracotta | Bronze | Mother goddess / plough models vs **Dancing Girl** lost-wax | पकी मिट्टी / कांस्य |
 | Sreni | Nanadesi | General craft guild vs itinerant “many-country” merchants | श्रेणी / नानादेशी |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Culture spine
 
@@ -85,18 +79,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Ancient Indian cultural span runs from Bhimbetka (भीमबेटका) rock art through Indus Valley cities (about 2600–1900 BCE), then Maurya (मौर्य), Shunga–Kushan, and Gupta (गुप्त) (4th–6th century CE).
-- **Exam Anchor:** Hallmark artistic achievements of the Indus Valley Civilisation include carved steatite seals, figurines of the terracotta Mother Goddess, meticulously planned baked-brick cities, and the iconic Dancing Girl bronze sculpture cast using the lost-wax (cire perdue (सिर पर्ड्यू)) technique.
+- **Exam Anchor:** Mandi and Hulas are Indus sites in Uttar Pradesh. Rakhigarhi (राखीगढ़ी) is in Haryana.
+- **Exam Anchor:** Dholavira (धोलावीरा) entered the UNESCO World Heritage list in 2021.
+- **Exam Anchor:** Sarnath (सारनाथ) entered the UNESCO World Heritage list in 2026.
 - **Exam Anchor:** Northern Black Polished Ware (NBPW) is the diagnostic deluxe pottery of the Mauryan and Northern Black Polished Ware period, while the classical Buddhist rock-cut murals of Ajanta (अजंता) represent the zenith of Gupta–Vakataka painting.
-- **Exam Anchor:** Sculpture schools: Gandhara uses grey schist with Greco-Roman Buddha style in the north-west. Mathura (मथुरा) uses red sandstone and is indigenous in Uttar Pradesh. Amaravati uses white limestone narrative panels in Andhra.
 - **Exam Anchor:** Mauryan polish (मौर्य) on Chunar (चुनार) sandstone (Mirzapur belt) gives a mirror finish. The Didarganj Yakshi (दीदारगंज यक्षी) is the classic Mauryan polish figure.
 - **Exam Anchor:** Bharhut (भरहुत) and early Sanchi (सांची) are Shunga narrative reliefs. Early Sanchi is largely aniconic (अप्रतिमेय) (wheel, tree, throne), not a human Buddha.
-- **Exam Anchor:** The Gupta Sarnath Buddha shows the dharmachakra (धर्मचक्र) mudra, a transparent robe, and calm idealism. It is the peak of classical Buddhist sculpture.
-- **Exam Anchor:** Architecture spine: Indus grid and drains, Great Bath at Mohenjo-daro, Lothal dock, Mauryan Barabar (बराबर) rock-cut caves, and Gupta first structural temples such as Deogarh and Bhitargaon (भीतरगाँव).
-
-</details>
+- **Exam Anchor:** Rock-cut architecture (Barabar, chaityas) is carved into living rock. Structural temples are built from the Gupta age onward as freestanding buildings.
+- **Exam Anchor:** Rakhigarhi is in Haryana and is the largest Indus site in India. It is not in Uttar Pradesh.
 
 ---
 

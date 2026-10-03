@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 8 — Post-Mauryan India</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -36,11 +34,7 @@ hide:
 | Arikamedu / Poduke | Tamralipti | Coromandel Roman station vs Ganga-mouth Bay port | अरिकामेडु / ताम्रलिप्ति |
 | Muvendar | Pallava / Kadamba | Sangam trio only vs later Kanchi / Vanavasi houses | मुवेन्दर / पल्लव–कदम्ब |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### House / inscription tags
 
@@ -227,18 +221,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Mauryan empire ended in 185 BCE when general Pushyamitra Shunga (पुष्यमित्र शुंग) killed the last Mauryan Brihadratha. The Shungas then ruled Magadha about 185–73 BCE, and the short Kanva (कण्व) house followed about 73–28 BCE.
-- **Exam Anchor:** Pushyamitra’s two ashwamedhas are recorded in the Ayodhya (अयोध्या) inscription of Dhanadeva. That record is not Besnagar and not Hathigumpha.
-- **Exam Anchor:** Northwest invader order for the match paper is Greeks → Sakas → Kushans. Parthians often drop out of short lists, but they sit between Shakas and Kushans in the northwest belt.
 - **Exam Anchor:** Hathigumpha at Udayagiri (Odisha) belongs to Kharavela (खारवेल) of Kalinga, a Jain Mahameghavahana / Chedi king. Ashoka, Harsha, and Kanishka are the usual wrong options.
-- **Exam Anchor:** The Besnagar Garuda pillar is the Heliodorus Bhagavata dedication for Vasudeva. It is not Pushyamitra’s ashwamedha record.
-- **Exam Anchor:** The Satavahanas were the Deccan / Andhra house. Tradition names Simuka as founder, and the capitals are Pratishthana (Paithan) and Amaravati (अमरावती).
 - **Exam Anchor:** Gautamiputra Satakarni (गौतमीपुत्र शातकर्णि) defeated Shaka Nahapana (नहपान) of the Kshaharata house. The victory is recorded in the Nasik prasasti of Gautami Balashri.
-- **Exam Anchor:** Satavahanas nurtured Prakrit and pushed public Buddhist art (Amaravati, Karle, Nasik). Hala wrote the Prakrit Gatha Saptasati. Yajna Sri Satakarni put a ship on coins as a sea-trade stamp.
-
-</details>
+- **Exam Anchor:** Karikala is the Sangam Chola who built the Kallanai on the Kaveri. He is not imperial Rajaraja I of Thanjavur.
+- **Exam Anchor:** Gandhara art is Kushan northwest Greco-Buddhist. Amaravati art is Satavahana Andhra limestone narrative relief. Do not swap the schools.
+- **Exam Anchor:** Patanjali (पतंजलि) of the Mahabhashya (महाभाष्य) and Kalidasa’s (कालिदास) Malavikagnimitra (मालविकाग्निमित्रम्) (Agnimitra (अग्निमित्र)) sit in Shunga-court tradition, but Buddhist books stay hostile to Pushyamitra even while Sanchi still grows. Patanjali is Shunga-age — not Kanishka’s court.
+- **Exam Anchor:** Vima Kadphises (Kadphises II) issues the first large-scale gold for regular use; title Sarvalokeshvara. Kujula mainly issues copper. Kanishka puts Buddha (बुद्ध) on coins.
+- **Exam Anchor:** Rabatak lists Kushan cities Saketa, Kaushambi, Pataliputra, and Champa — not Shravasti. Sarnath Kanishka Buddha image inscription is dated about 81 CE (year 3 of his era).
+- **Exam Anchor:** Ashvaghosha (Buddhacharita, Saundarananda, Sariputraprakarana (शारिपुत्रप्रकरण)), Vasumitra, Nagarjuna (नागार्जुन), Parsva, and physician Charaka (चरक) adorn Kanishka’s court. Chinese texts remember Pan Chao defeating Kanishka’s force.
 
 ---
 

@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chemistry Topic 8 — Nuclear Chemistry, Explosives and Environment</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (2024–2026)
+
+| Year | Event | Core Concept & Must-Score Significance |
+|------|--------------|-----------------------------------|
+| **2025–2026** | **Global Carbon & Methane Pledges** | Enhanced monitoring of non-$CO_2$ greenhouse gases under COP agreements. Methane ($CH_4$) possesses a **Global Warming Potential (GWP) $\approx 28–36\text{ times}$ greater than $CO_2$** over a 100-year timescale, primarily emanating from flooded paddy cultivation, livestock rumination, and coalbed degassing. |
+| **2025** | **UPPCS Prelims 2025** | Direct question on **Stratospheric Ozone Layer & CFCs**: Both statements confirmed correct—the ozone layer shields the biosphere from lethal solar UV-B rays, and chlorofluorocarbons (CFCs) trigger catalytic ozone destruction via free chlorine radicals ($Cl^\bullet$). |
+| **2024** | **UPPCS Prelims 2024** | Assertion-Reason on **Acid Rain Chemistry**: Rainwater acidity is driven by atmospheric $SO_2$ and $NO_x$ dissolving to form sulphuric ($H_2SO_4$) and nitric ($HNO_3$) acids, with pH dropping below $5.6$. Causes severe "stone cancer" on white marble monuments ($CaCO_3 \to CaSO_4$). |
+| **2022** | **UPPCS Prelims 2022** | Greenhouse Gas Identification: **Argon ($Ar$)** is strictly **NOT** a greenhouse gas. Diatomic/monatomic symmetric gases ($N_2, O_2, Ar$) lack dipole moments during vibrational excitation and cannot absorb infrared radiation. |
+| **2021** | **UPPCS Prelims 2021** | Nuclear vs Atomic Trap: **Radioactivity is strictly a nuclear property** (originating in the unstable nucleus), completely unaffected by chemical bonds, temperature, or pressure. Confirmed the **Hydrogen Bomb operates on Nuclear Fusion**, using a fission device only as a detonating trigger. |
+
+---
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -25,22 +35,6 @@ hide:
 | **Blackfoot Disease vs. Blue Baby Syndrome** | **Blackfoot Disease**: Caused by chronic **Arsenic ($As$)** poisoning; causes peripheral gangrene in feet and skin lesions. | **Blue Baby Syndrome**: Caused by **Nitrate ($NO_3^-$)** in water; converts hemoglobin to methemoglobin, causing infant cyanosis. | **Causative Agent**: Blackfoot = Arsenic ($As$); Blue Baby = Nitrate ($NO_3^-$). |
 | **Alpha vs. Beta vs. Gamma Penetration** | **Alpha ($\alpha$)**: Least penetrating (stopped by paper); highest ionization power ($^4_2He^{2+}$). | **Gamma ($\gamma$)**: Most penetrating (requires thick lead); lowest ionization power (photons). | **Penetration Sequence**: $\alpha < \beta < \gamma$. **Ionization Sequence**: $\gamma < \beta < \alpha$. |
 | **Dynamite vs. Gunpowder** | **Dynamite**: Chemical high explosive based on **liquid Nitroglycerin** absorbed in porous Kieselguhr. | **Gunpowder (Black Powder)**: Mechanical low explosive mixture of **$KNO_3$ (saltpetre) + Charcoal + Sulphur**. | **Chemical Nature**: Dynamite is a stabilized chemical explosive (Nobel, 1867); Gunpowder is an ancient mechanical propellant mixture. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (2024–2026)
-
-| Year | Event | Core Concept & Must-Score Significance |
-|------|--------------|-----------------------------------|
-| **2025–2026** | **Global Carbon & Methane Pledges** | Enhanced monitoring of non-$CO_2$ greenhouse gases under COP agreements. Methane ($CH_4$) possesses a **Global Warming Potential (GWP) $\approx 28–36\text{ times}$ greater than $CO_2$** over a 100-year timescale, primarily emanating from flooded paddy cultivation, livestock rumination, and coalbed degassing. |
-| **2025** | **UPPCS Prelims 2025** | Direct question on **Stratospheric Ozone Layer & CFCs**: Both statements confirmed correct—the ozone layer shields the biosphere from lethal solar UV-B rays, and chlorofluorocarbons (CFCs) trigger catalytic ozone destruction via free chlorine radicals ($Cl^\bullet$). |
-| **2024** | **UPPCS Prelims 2024** | Assertion-Reason on **Acid Rain Chemistry**: Rainwater acidity is driven by atmospheric $SO_2$ and $NO_x$ dissolving to form sulphuric ($H_2SO_4$) and nitric ($HNO_3$) acids, with pH dropping below $5.6$. Causes severe "stone cancer" on white marble monuments ($CaCO_3 \to CaSO_4$). |
-| **2022** | **UPPCS Prelims 2022** | Greenhouse Gas Identification: **Argon ($Ar$)** is strictly **NOT** a greenhouse gas. Diatomic/monatomic symmetric gases ($N_2, O_2, Ar$) lack dipole moments during vibrational excitation and cannot absorb infrared radiation. |
-| **2021** | **UPPCS Prelims 2021** | Nuclear vs Atomic Trap: **Radioactivity is strictly a nuclear property** (originating in the unstable nucleus), completely unaffected by chemical bonds, temperature, or pressure. Confirmed the **Hydrogen Bomb operates on Nuclear Fusion**, using a fission device only as a detonating trigger. |
 
 ---
 
@@ -147,18 +141,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Radioactivity is the spontaneous, uncontrolled nuclear disintegration of unstable heavy atomic nuclei accompanied by the emission of ionizing particles or electromagnetic radiation.
-- **Exam Anchor:** Radioactivity was discovered in 1896 by French physicist Henri Becquerel while investigating phosphorescence in uranium potassium sulphate crystals wrapped in black paper.
-- **Exam Anchor:** In 1898, Marie Curie and Pierre Curie isolated two new radioactive elements from pitchblende ore ($U3O8$): Polonium ($Po$, named after Poland) and Radium ($Ra$). Marie Curie is the only scientist to win Nobel Prizes in two distinct sciences (Physics 1903, Chemistry 1911).
 - **Exam Anchor:** Nuclear Property: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely independent of temperature, pressure, chemical combination, or physical state.
 - **Exam Anchor:** Alpha ($\alpha$) Particles: Helium nuclei carrying a double positive charge ($^42He^{2+}$). Possess the highest mass ($4\text{ u}$), highest ionizing power ($\approx 10,000\times \gamma$), but the lowest penetrating power; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
 - **Exam Anchor:** Beta ($\beta^-$) Particles: Fast-moving electrons ($^0{-1}e$) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
 - **Exam Anchor:** Gamma ($\gamma$) Rays: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the lowest ionizing power, but the highest penetrating power among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
 - **Exam Anchor:** Soddy-Fajans Group Displacement Law:
-
-</details>
+- **Exam Anchor:** Radioactive Decay Kinetics & Half-Life ($t{1/2}$):
+- **Exam Anchor:** Units of Radioactivity:
 
 ---
 
@@ -189,8 +181,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Radioactivity applies only to union territories and not state jurisdictions.
-B. Radioactivity was discovered in 1896 by French physicist Henri Becquerel while investigating phosphorescence in uranium potassium sulphate crystals wrapped in black paper.
+A. Contrary to standard doctrine, Nuclear applies only to union territories and not state jurisdictions.
+B. Nuclear Property: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely independent of temperature, pressure, chemical combination, or physical state.
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -200,7 +192,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Radioactivity was discovered in **1896 by French physicist Henri Becquerel** while investigating phosphorescence in uranium potassium sulphate crystals wrapped in black paper.
+- **Key Exam Association:** **Nuclear Property**: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely **independent of temperature, pressure, chemical combination, or physical state**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -208,9 +200,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Alpha applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. In 1898, Marie Curie and Pierre Curie isolated two new radioactive elements from pitchblende ore ($U3O8$): Polonium ($Po$, named after Poland) and Radium ($Ra$). Marie Curie is the only scientist to win Nobel Prizes in two distinct sciences (Physics 1903, Chemistry 1911).
+C. Alpha ($\alpha$) Particles: Helium nuclei carrying a double positive charge ($^42He^{2+}$). Possess the highest mass ($4\text{ u}$), highest ionizing power ($\approx 10,000\times \gamma$), but the lowest penetrating power; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -219,7 +211,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** In 1898, **Marie Curie and Pierre Curie** isolated two new radioactive elements from pitchblende ore ($U_3O_8$): **Polonium ($Po$, named after Poland)** and **Radium ($Ra$)**. Marie Curie is the only scientist to win Nobel Prizes in two distinct sciences (Physics 1903, Chemistry 1911).
+- **Key Exam Association:** **Alpha ($\alpha$) Particles**: Helium nuclei carrying a double positive charge (**$^4_2He^{2+}$**). Possess the highest mass ($4\text{ u}$), **highest ionizing power ($\approx 10,000\times \gamma$)**, but the **lowest penetrating power**; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -227,10 +219,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Nuclear applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Beta applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Nuclear Property: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely independent of temperature, pressure, chemical combination, or physical state.
+D. Beta ($\beta^-$) Particles: Fast-moving electrons ($^0{-1}e$) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
 
 <details>
 <summary>Show answer</summary>
@@ -238,7 +230,7 @@ D. Nuclear Property: Radioactivity is governed exclusively by nuclear stability 
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Nuclear Property**: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely **independent of temperature, pressure, chemical combination, or physical state**.
+- **Key Exam Association:** **Beta ($\beta^-$) Particles**: Fast-moving electrons (**$^0_{-1}e$**) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -246,7 +238,7 @@ D. Nuclear Property: Radioactivity is governed exclusively by nuclear stability 
 
 Which of the following is correct regarding this topic?
 
-A. Alpha ($\alpha$) Particles: Helium nuclei carrying a double positive charge ($^42He^{2+}$). Possess the highest mass ($4\text{ u}$), highest ionizing power ($\approx 10,000\times \gamma$), but the lowest penetrating power; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
+A. Gamma ($\gamma$) Rays: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the lowest ionizing power, but the highest penetrating power among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -257,7 +249,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Alpha ($\alpha$) Particles**: Helium nuclei carrying a double positive charge (**$^4_2He^{2+}$**). Possess the highest mass ($4\text{ u}$), **highest ionizing power ($\approx 10,000\times \gamma$)**, but the **lowest penetrating power**; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
+- **Key Exam Association:** **Gamma ($\gamma$) Rays**: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the **lowest ionizing power**, but the **highest penetrating power** among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -265,8 +257,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Beta applies only to union territories and not state jurisdictions.
-B. Beta ($\beta^-$) Particles: Fast-moving electrons ($^0{-1}e$) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
+A. Reported by the Law Commission in its 214th consultation paper
+B. Soddy-Fajans Group Displacement Law:
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -276,7 +268,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Beta ($\beta^-$) Particles**: Fast-moving electrons (**$^0_{-1}e$**) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
+- **Key Exam Association:** **Soddy-Fajans Group Displacement Law**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -284,9 +276,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Gamma applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Radioactive applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. Gamma ($\gamma$) Rays: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the lowest ionizing power, but the highest penetrating power among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
+C. Radioactive Decay Kinetics & Half-Life ($t{1/2}$):
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -295,7 +287,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Gamma ($\gamma$) Rays**: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the **lowest ionizing power**, but the **highest penetrating power** among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
+- **Key Exam Association:** **Radioactive Decay Kinetics & Half-Life ($t_{1/2}$)**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -306,7 +298,7 @@ Which of the following is correct regarding this topic?
 A. Excavated primarily in the Belan and Son River valleys
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. Soddy-Fajans Group Displacement Law:
+D. Units of Radioactivity:
 
 <details>
 <summary>Show answer</summary>
@@ -314,7 +306,7 @@ D. Soddy-Fajans Group Displacement Law:
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Soddy-Fajans Group Displacement Law**:
+- **Key Exam Association:** **Units of Radioactivity**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -322,7 +314,7 @@ D. Soddy-Fajans Group Displacement Law:
 
 Which of the following is correct regarding this topic?
 
-A. Emission of an $\alpha$-particle reduces the atomic number ($Z$) by 2 units and the mass number ($A$) by 4 units:
+A. Becquerel (Bq): SI unit; $1\text{ Bq} = 1\text{ nuclear disintegration per second}$.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -333,7 +325,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Emission of an **$\alpha$-particle** reduces the atomic number ($Z$) by 2 units and the mass number ($A$) by 4 units:
+- **Key Exam Association:** **Becquerel (Bq)**: SI unit; $1\text{ Bq} = 1\text{ nuclear disintegration per second}$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -341,8 +333,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Emission applies only to union territories and not state jurisdictions.
-B. Emission of a $\beta^-$-particle increases the atomic number ($Z$) by 1 unit while leaving the mass number ($A$) unchanged:
+A. Contrary to standard doctrine, Curie applies only to union territories and not state jurisdictions.
+B. Curie (Ci): Traditional historical unit; $1\text{ Ci} = 3.7 \times 10^{10}\text{ disintegrations/sec}$ (the activity of $1\text{ g}$ of pure Radium-226).
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -352,7 +344,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Emission of a **$\beta^-$-particle** increases the atomic number ($Z$) by 1 unit while leaving the mass number ($A$) unchanged:
+- **Key Exam Association:** **Curie (Ci)**: Traditional historical unit; $1\text{ Ci} = 3.7 \times 10^{10}\text{ disintegrations/sec}$ (the activity of $1\text{ g}$ of pure Radium-226).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -360,9 +352,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Emission applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Rutherford applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. Emission of a $\gamma$-ray causes no change in atomic number or mass number, merely dissipating excess nuclear excitation energy.
+C. Rutherford (Rd): $1\text{ Rd} = 10^6\text{ disintegrations/sec}$.
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -371,7 +363,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Emission of a **$\gamma$-ray** causes no change in atomic number or mass number, merely dissipating excess nuclear excitation energy.
+- **Key Exam Association:** **Rutherford (Rd)**: $1\text{ Rd} = 10^6\text{ disintegrations/sec}$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -379,10 +371,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Radioactive applies only to union territories and not state jurisdictions.
+A. Both statements are true and explain the phenomenon
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Radioactive Decay Kinetics & Half-Life ($t{1/2}$):
+D. Radiometric Dating Techniques:
 
 <details>
 <summary>Show answer</summary>
@@ -390,7 +382,7 @@ D. Radioactive Decay Kinetics & Half-Life ($t{1/2}$):
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Radioactive Decay Kinetics & Half-Life ($t_{1/2}$)**:
+- **Key Exam Association:** **Radiometric Dating Techniques**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -398,7 +390,7 @@ D. Radioactive Decay Kinetics & Half-Life ($t{1/2}$):
 
 Which of the following is correct regarding this topic?
 
-A. Radioactive decay strictly follows first-order reaction kinetics:
+A. Radiocarbon Dating ($^{14}C$): Devised by Willard Libby (1949, Nobel Prize 1960). Based on the decay of cosmogenic $^{14}C$ ($t{1/2} = 5,730\text{ years}$) into $^{14}N$. Used for dating once-living biological archaeological artifacts (wood, bone, charcoal, fossils) up to $\approx 50,000\text{ years}$ old.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -409,7 +401,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Radioactive decay strictly follows **first-order reaction kinetics**:
+- **Key Exam Association:** **Radiocarbon Dating ($^{14}C$)**: Devised by Willard Libby (1949, Nobel Prize 1960). Based on the decay of cosmogenic $^{14}C$ ($t_{1/2} = 5,730\text{ years}$) into $^{14}N$. Used for dating once-living biological archaeological artifacts (wood, bone, charcoal, fossils) up to $\approx 50,000\text{ years}$ old.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -417,8 +409,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The Half-Life ($t{1/2}$) is the time required for half the radioactive nuclei in a sample to disintegrate:
+A. Contrary to standard doctrine, Uranium-Lead applies only to union territories and not state jurisdictions.
+B. Uranium-Lead Dating ($^{238}U \to {}^{206}Pb$): Half-life $\approx 4.5\text{ billion years}$; used to calculate the geological age of the Earth ($\approx 4.54\text{ billion years}$), ancient continental cratons, and lunar meteorites.
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -428,7 +420,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The Half-Life ($t_{1/2}$) is the time required for half the radioactive nuclei in a sample to disintegrate:
+- **Key Exam Association:** **Uranium-Lead Dating ($^{238}U \to {}^{206}Pb$)**: Half-life $\approx 4.5\text{ billion years}$; used to calculate the geological age of the Earth ($\approx 4.54\text{ billion years}$), ancient continental cratons, and lunar meteorites.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -436,9 +428,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, After applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Potassium-Argon applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. After $n$ half-lives, the remaining radioactive fraction is: $N = N0 \left(\frac{1}{2}\right)^n$.
+C. Potassium-Argon Dating ($^{40}K \to {}^{40}Ar$): Half-life $\approx 1.25\text{ billion years}$; used to date ancient volcanic igneous rocks and early hominid fossil strata.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -447,6 +439,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** After $n$ half-lives, the remaining radioactive fraction is: $N = N_0 \left(\frac{1}{2}\right)^n$.
+- **Key Exam Association:** **Potassium-Argon Dating ($^{40}K \to {}^{40}Ar$)**: Half-life $\approx 1.25\text{ billion years}$; used to date ancient volcanic igneous rocks and early hominid fossil strata.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

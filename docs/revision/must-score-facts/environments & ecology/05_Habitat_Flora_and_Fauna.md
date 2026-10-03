@@ -11,52 +11,52 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Habitat (वास स्थान), Flora (वनस्पति) & Fauna (प्राणीजात)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. A **habitat** (वास स्थान) is the physical **place** where an organism lives. A **niche** is the **role**. An **ecosystem** (पारिस्थितिकी तंत्र) is the functional unit. **Environment** (पर्यावरण) is the total surroundings.
-2. Habitats are commonly classed as **terrestrial, aquatic, or transitional** (mangrove/wetland). Transitional habitats are not purely terrestrial.
-3. Adaptation labels include **arboreal** (trees), **fossorial** (burrows), **cursorial** (open plains), and **xericole** (desert).
-4. **Habitat loss** is the number-one biodiversity threat. **Fragmentation** splits patches; **corridors** reconnect them.
-5. **MISHTI** is the Mangrove Initiative for Shoreline Habitats & Tangible Income from Budget **2023–24** under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय). It is **not** a 2019 scheme.
-6. **NUHHP** is the National Urban (नगरीय) Housing and Habitat Policy of **2007** (MoHUA).
-7. Habitat–scheme chronology: **JNNURM 2005 → NUHHP 2007 → AMRUT 2015 → Jal Jeevan Mission 2019**.
-8. **Flora** means plant life of a region. **Fauna** means animal life. Do not swap the two.
-9. India has roughly **45,000** plant species and **91,000+** animal species on about **2.4%** of world land.
-10. **BSI (1890, Kolkata)** surveys plants. **ZSI (1916, Kolkata)** surveys animals. Both sit in Kolkata; kingdoms differ.
-11. Engler is linked to world floral regions. **C.O. Sauer** is linked to planting hearths in cultural geography.
-12. A **microhabitat** (सूक्ष्म आवास) is a small subdivision inside a larger habitat.
-13. In-situ (स्थान पर) conservation (स्व-स्थाने संरक्षण) protects species in natural habitat; ex-situ (स्थानांतरित) is outside habitat — same fact as biodiversity sheets.
-14. Uttar Pradesh (उत्तर प्रदेश)’s richest wildlife habitat belt is the **Terai** (तराई) (Dudhwa (दुधवा), Pilibhit, Kishanpur).
-15. UP state animal is **barasingha**. UP state bird is **Sarus crane**.
-16. The **Terai Arc Landscape** corridor links UP Terai protected areas toward Nepal.
-17. Aquatic fauna facts for UP include the **Gangetic dolphin** in the Ganga (गंगा)–Yamuna (यमुना) system.
-18. **Water hyacinth** is a common invasive threat in UP village ponds.
-19. Uttar Pradesh has **no mangrove habitat** purposes — it is landlocked for that category.
-20. Habitat is an address; niche is a job description. Mixing the two loses marks on definition stems.
-21. Wetlands and mangroves are **transitional**, not “purely terrestrial forest” options.
-22. MISHTI is mangrove-focused coastal income and protection — not a Terai tiger scheme.
-23. Jal Jeevan Mission (**2019**) is the latest fact in the urban/habitat chronology set above; do not date NUHHP as 2019.
-24. Corridor questions for UP should start from Terai Arc links, not from Western Ghat mangrove corridors.
+1. **Habitat loss** is the number-one biodiversity threat. **Fragmentation** splits patches; **corridors** reconnect them.
+2. **MISHTI** is the Mangrove Initiative for Shoreline Habitats & Tangible Income from Budget **2023–24** under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय). It is **not** a 2019 scheme.
+3. **NUHHP** is the National Urban (नगरीय) Housing and Habitat Policy of **2007** (MoHUA).
+4. **Flora** means plant life of a region. **Fauna** means animal life. Do not swap the two.
+5. **BSI (1890, Kolkata)** surveys plants. **ZSI (1916, Kolkata)** surveys animals. Both sit in Kolkata; kingdoms differ.
+6. **Water hyacinth** is a common invasive threat in UP village ponds.
+7. **Terrestrial habitats** exist on land. Organisms that live on land are called **terrestrial habitants**.
+8. **Aquatic habitats** exist in freshwater or marine water. Rivers are lotic and lakes are lentic aquatic habitats.
+9. **Transitional habitats** such as wetlands, mangroves, and estuaries are neither purely terrestrial nor purely aquatic.
+10. **Abiotic factors** in a habitat include temperature, moisture, light, soil, pH, and salinity.
+11. **Biotic factors** include food availability, predators, competitors, and symbiotic partners.
+12. **Habitat conservation** protects the natural dwelling place of species so ecological processes can continue.
+13. **Habitat loss** completely removes an area's ability to support native species.
+14. **Habitat fragmentation** breaks a large habitat into small isolated patches and blocks movement and gene flow.
+15. **Habitat degradation** reduces habitat quality without removing it entirely, such as river pollution affecting dolphin habitat.
+16. **In-situ conservation** protects species inside their natural habitat. National parks and wildlife sanctuaries are examples.
+17. **Wildlife corridors** link fragmented habitats. The **Terai Arc Landscape** connects Dudhwa with Katarniaghat across the Nepal border.
+18. **Habitat restoration** rebuilds damaged ecosystems through afforestation, wetland revival, and mangrove planting.
+19. **MISHTI** stands for **Mangrove Initiative for Shoreline Habitats and Tangible Income**.
+20. **NUHHP** addresses urban habitat quality through housing and green-space planning in cities.
+21. **Flora** is the collective **plant** life of a particular region, habitat, or geological period.
+22. **Fauna** is the collective **animal** life of a particular region, habitat, or geological period.
+23. **Adolf Engler** mapped the world's major **floral regions**.
+24. **C.O. Sauer** introduced the concept of **planting hearth**, the region where domesticated plants first originated.
+25. **Red Sanders (*Pterocarpus santalinus*)** is a South India dry-deciduous endemic (Palkonda–Seshachalam / southern Eastern Ghats (पूर्वी घाट)) — **not** a tropical rainforest tree.
+26. **Taxus** occurs naturally in the Himalaya, is Red Data–listed, and yields **taxol** (anti-cancer; older stems also cite Parkinson’s).
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Habitat** | **Ecological Niche** | Physical geographic environment and specific spatial location where an organism resides vs functional status, behavioral role, and trophic interactions of that species in the community | आवास / पारिस्थितिक निकेत |
-| **Flora** | **Fauna** | Total native plant species assemblages inhabiting a particular geographic region or geological era vs total native animal species inhabiting a region or era | वनस्पति (फ्लोरा) / प्राणीजात (फॉना) |
-| **Microhabitat** | **Ecotone** | Small, localized physical niche within a broader habitat (e.g., under a rotting log, a tree cavity) vs macro-scale transitional boundary ecosystem between two adjacent distinct biomes (e.g., marsh between dry land and water) | सूक्ष्म आवास (माइक्रोहैबिटैट) / इकोटोन (संक्रमणिका) |
-| **Keystone Species** | **Foundation Species** | Species having a disproportionately massive impact on ecosystem structure relative to its biomass (loss triggers ecological collapse; e.g. Fig tree, Sea Otter) vs dominant primary producer that physically creates and structures the habitat (e.g. Corals, Kelp, Mangroves) | कीस्टोन प्रजाति / आधारभूत (फाउंडेशन) प्रजाति |
-| **Umbrella Species** | **Flagship Species** | Wide-ranging species whose habitat protection automatically shields hundreds of co-occurring species (e.g. Tiger, Asian Elephant) vs charismatic, culturally iconic species chosen as marketing symbols to rally conservation campaigns (e.g. Giant Panda, Polar Bear) | छत्र (अंब्रेला) प्रजाति / प्रतीक (फ्लैगशिप) प्रजाति |
-| **Indicator Species** | **Invasive Species** | Species whose presence, absence, or abundance directly signals environmental stress or health (e.g. Lichens for SO₂ air pollution, Mayfly larvae for clean water) vs non-native species proliferating aggressively and threatening native ecology | जैव संकेतक प्रजाति / आक्रामक विदेशी प्रजाति |
-| **In-situ Conservation** | **Ex-situ Conservation** | On-site conservation in natural ecosystems (Sacred Groves, Wildlife Sanctuaries) vs off-site conservation under artificial human custody (Seed Banks, Tissue Culture Labs) | स्व-स्थाने संरक्षण / बाह्य-स्थाने संरक्षण |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+| Trap | Correct fact |
+|------|----------------|
+| Habitat = niche | Habitat = **place**; niche = **role** |
+| Mangrove = terrestrial | Mangrove = **transitional** |
+| MISHTI launched 2019 | **Budget 2023–24** |
+| BSI surveys animals | BSI = **plants**; ZSI = **animals** |
+| Masai in West Africa | Masai = **East Africa** |
+| Zoos = in-situ | Zoos = **ex-situ** |
+| NUHHP before JNNURM | JNNURM **2005** → NUHHP **2007** |
+| Mangrove flora in UP Terai | UP has **no coastline** |
 
 
 ---

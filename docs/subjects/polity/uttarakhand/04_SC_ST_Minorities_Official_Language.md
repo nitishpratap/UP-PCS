@@ -38,7 +38,8 @@
 
 ---
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Key |
 |------|------|
@@ -47,7 +48,7 @@
 | Raji vs Bhotia | Both in the five; different ecological niches |
 | Language Hindi vs English only | Hindi is the official language card for state polity |
 
----
+</details>
 
 ## 4.1 Scheduled Tribes
 

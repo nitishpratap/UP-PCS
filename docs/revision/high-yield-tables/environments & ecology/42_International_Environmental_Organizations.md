@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 42 — International Environmental Organizations</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -23,11 +21,7 @@ hide:
 | **CITES** | **CMS (Bonn Convention)** | Regulates commercial cross-border trade in endangered species of wild flora and fauna (1973) vs promotes conservation and habitat protection for migratory wild animal species (1979) | साइट्स (वन्यजीव व्यापार) / बॉन कन्वेंशन (प्रवासी प्रजातियां) |
 | **Global Environment Facility (GEF)** | **Green Climate Fund (GCF)** | Multilateral financial mechanism (World Bank 1991) serving CBD, UNCCD, Stockholm, Minamata, and UNFCCC vs dedicated operating financial entity of UNFCCC created at COP16 Cancun | जीईएफ (वैश्विक पर्यावरण कोष) / जीसीएफ (हरित जलवायु कोष) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Org ↔ HQ / product
 
@@ -128,7 +122,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** UNEP was created after Stockholm 1972 (स्टॉकहोम सम्मेलन). Its HQ is Nairobi. Flagship products include the Emissions Gap Report (उत्सर्जन अंतराल रिपोर्ट) and GEO.
 - **Exam Anchor:** UNDP sits in New York and publishes the Human Development Report / HDI (from 1990).
@@ -137,9 +131,7 @@ hide:
 - **Exam Anchor:** IUCN (आईयूसीएन) sits in Gland and publishes the Red List of extinction risk.
 - **Exam Anchor:** WWF also sits in Gland and publishes the Living Planet Report / LPI.
 - **Exam Anchor:** IPCC sits in Geneva. It was created by WMO + UNEP in 1988 and shared the 2007 Nobel Peace Prize.
-- **Exam Anchor:** Emissions Gap Report = UNEP, not IPCC or UNDP. HDR = UNDP, not UNEP.
-
-</details>
+- **Exam Anchor:** WMO headquarters is Geneva. It grew from the International Meteorological Organization (1873) and became WMO on 17 March 1951. It co-created the IPCC with UNEP in 1988.
 
 ---
 

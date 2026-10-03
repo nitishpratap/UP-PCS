@@ -15,7 +15,8 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 
 ---
 
-## Consolidated — 38 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 38 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Partition of Bengal** was announced in **July 1905** and became effective on **16 October 1905**. The new province was **East Bengal and Assam** with capital at **Dacca**.
 2. **Causes:** Curzon (कर्ज़न) claimed administrative size; nationalists read **divide and rule** aimed at Hindu–Muslim and Calcutta politics.
@@ -56,9 +57,10 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 37. **Udham Singh** killed **Michael O’Dwyer** in London (**1940**). **Madan Lal Dhingra** killed **Curzon Wyllie** (**1909**).
 38. **RSS** was founded by **K.B. Hedgewar** on **27 Sep 1925** at **Nagpur** — a Hindu social organisation, **not** HRA/HSRA.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -82,7 +84,7 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 | Stuttgart flag 1907 | Berlin Committee 1915 | Madam Cama unfurls a tricolour at a Socialist Congress vs a wartime Europe plot with German help | स्टुटगार्ट ध्वज / बर्लिन समिति |
 | Bengal Swadeshi orgs | Bengal revolutionary orgs | Banerjee/Pal/Tagore/Aurobindo open politics vs Anushilan/Jugantar secret action | स्वदेशी संगठन / क्रांतिकारी संगठन |
 
----
+</details>
 
 ## Must-score facts — partition, orgs, chronology
 

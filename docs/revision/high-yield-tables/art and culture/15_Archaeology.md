@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 15 — Archaeology (पुरातत्व)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -28,11 +26,7 @@ hide:
 | In-situ | Ex-situ | Conserve on the mound vs shift to a museum | स्थान पर / स्थानांतरित |
 | Bhimbetka | Harappa | Prehistoric rock shelter, **MP** vs IVC city | भीमबेटका / हड़प्पा |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Method tags
 
@@ -95,18 +89,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** Sarnath (सारनाथ) was inscribed as a UNESCO World Heritage (विश्व धरोहर) site in 2026.
 - **Exam Anchor:** Archaeology studies material remains through excavation (उत्खनन) and dating. History (इतिहास) builds narrative mainly from written sources. The two work together but are not the same method.
 - **Exam Anchor:** Stratigraphy (स्तरिकी) uses the law of superposition: a lower undisturbed layer is older. Typology (प्रकारिकी) compares artefact styles across sites.
 - **Exam Anchor:** Vertical excavation reads time sequence. Horizontal excavation reads one-period layout. Wheeler (व्हीलर)’s box-grid kept balks between squares.
 - **Exam Anchor:** Radiocarbon (C-14 (कार्बन-14)) dates organic carbon only. It does not date a stone seal (मुद्रा) directly. Thermoluminescence (ताप-संदीप्ति) dates fired clay or brick.
 - **Exam Anchor:** ASI began in 1861 with Alexander (सिकंदर) Cunningham as first Director General. It sits under the Culture ministry (संस्कृति). Digging needs licence under AMASR 1958.
-- **Exam Anchor:** Indus (सिंधु) discovery chain: Cunningham notes a seal in 1853 → Daya Ram Sahni (साहनी) excavates Harappa (हड़प्पा) in 1921 → R. D. Banerji excavates Mohenjo-daro (मोहनजोदड़ो) in 1922 → John Marshall (मार्शल) announces the civilisation in 1924 → Wheeler brings scientific grid methods in 1946.
-- **Exam Anchor:** Do not swap excavators: Sahni = Harappa, Banerji = Mohenjo-daro. Marshall announces; Wheeler reforms method.
-- **Exam Anchor:** Indus geography: Harappa (Pakistan Punjab), Mohenjo-daro (Sindh), Dholavira (धोलावीरा) and Lothal (लोथल) (Gujarat), Kalibangan (कालीबंगा) (Rajasthan), Rakhigarhi (राखीगढ़ी) (Haryana, largest in India, not UP).
-
-</details>
+- **Exam Anchor:** Mandi and Hulas are UP. Rakhigarhi is Haryana. That state split is a standing prelims trap.
+- **Exam Anchor:** Bhimbetka (भीमबेटका) was identified by V. S. Wakankar (वाकणकर) in 1957 in Madhya Pradesh. It is prehistoric rock shelter (शैल आश्रय) art, not a Harappan city.
 
 ---
 

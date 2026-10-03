@@ -34,7 +34,8 @@ Million-city **population (जनसंख्या) ranks**. Missions and settl
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Human geography studies the **man–environment (पर्यावरण) relationship** and the spatial patterns of human life, settlements and economy.
 2. **Environmental determinism** (Ratzel / Semple) says nature controls culture. **Possibilism** (Vidal de la Blache) says humans choose among nature’s options. **Neo-determinism** (Griffith Taylor) is stop-and-go determinism.
@@ -69,9 +70,10 @@ Million-city **population (जनसंख्या) ranks**. Missions and settl
 29. Functional town tags to keep: administrative, industrial, transport, commercial, mining, garrison, educational, religious and tourist — classed by the **dominant** job.
 30. Planned modern city classic = **Chandigarh** (Le Corbusier). Ancient urban tags include **Varanasi / Prayag / Madurai**; medieval tags include Delhi / Agra / Jaipur / Lucknow.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -100,7 +102,7 @@ Million-city **population (जनसंख्या) ranks**. Missions and settl
 | Neo-determinism | Stop-and-go determinism (**Griffith Taylor**) | Pure free will | नव-नियतिवाद |
 | Site vs situation | Local ground vs wider regional location | Same thing | स्थल ≠ स्थिति |
 
----
+</details>
 
 ## Must-score facts — approaches, settlements, activities
 

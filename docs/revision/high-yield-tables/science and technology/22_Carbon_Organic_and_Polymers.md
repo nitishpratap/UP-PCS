@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chemistry Topic 5 — Carbon, Organic Compounds, Polymers and Fibres</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (2024–2026)
+
+| Year | Event | Core Concept & Must-Score Significance |
+|------|--------------|-----------------------------------|
+| **2025–2026** | **Biodegradable Plastics & Biopolymers** | Mandatory phase-out of single-use petroleum-based plastics in India under Plastic Waste Management Rules. Accelerated adoption of **PLA (Polylactic Acid)** derived from fermented corn starch and **PHBV (Poly-$\beta$-hydroxybutyrate-co-$\beta$-hydroxyvalerate)**, which degrade into natural bio-assimilable $CO_2$ and $H_2O$ via bacterial action within 180 days. |
+| **2024** | **UPPCS Prelims 2024** | Direct question on **Rayon Origin**: Keyed that Rayon is a **regenerated cellulose fibre** obtained by chemically treating natural wood pulp or cotton linters. The option "modified starch" is an established distractor. |
+| **2022** | **UPPCS Prelims 2022** | Polymer Class Matching: Identified **Neoprene** strictly as a synthetic **elastomer** (synthetic rubber), not a thermoplastic. Confirmed **Fibroin** is the natural structural protein of silk, not a synthetic polymer. |
+| **2020** | **UPPCS Prelims 2020** | Tested the **Chronological Discovery Order of Carbon & Synthetic Materials**: **Kevlar (1965)** $\to$ **Fullerenes ($C_{60}$, 1985)** $\to$ **Carbon Nanotubes (1991)** $\to$ **Graphene (2004)** $\to$ **Black Gold (2019)**. |
+| **2019** | **UPPCS Prelims 2019** | Highlighted **Kevlar** as a high-strength aromatic polyamide (aramid fibre) utilized in bulletproof vests and lightweight armor due to its high tensile strength-to-weight ratio ($5\times$ steel). |
+
+---
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -25,22 +35,6 @@ hide:
 | **Bakelite vs. Melamine** | **Bakelite**: Condensation resin of **Phenol + Formaldehyde**; dark brown/amber color; used for electrical switches and cookware handles. | **Melamine**: Condensation resin of **Melamine (triazine) + Formaldehyde**; light-colored/white; used for unbreakable dinner plates and decorative laminates. | **Monomer Backbone**: Bakelite is phenolic; Melamine uses a nitrogen-rich heterocyclic triazine ring. |
 | **Graphene vs. Fullerene** | **Graphene**: Single **flat 2D planar sheet** of $sp^2$ carbon packed in an open honeycomb lattice. | **Fullerene ($C_{60}$)**: **Hollow 3D spherical closed cage** composed of 20 hexagons and 12 pentagons. | **Dimensionality & Shape**: Graphene is an infinite 2D open planar sheet; Fullerene is a discrete 3D closed molecular soccer ball. |
 | **Silk Fibroin vs. Wool Keratin** | **Silk (Fibroin)**: Rich in small amino acids (glycine, alanine); forms anti-parallel $\beta$-pleated sheets; smooth, non-elastic. | **Wool (Keratin)**: Rich in sulphur-containing cysteine; forms coiled $\alpha$-helical structures held by disulphide bonds; crimped, highly elastic. | **Secondary Protein Conformation**: Silk is composed of $\beta$-sheets (no stretch); Wool is composed of coiled $\alpha$-helices with disulphide cross-links (stretchy). |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (2024–2026)
-
-| Year | Event | Core Concept & Must-Score Significance |
-|------|--------------|-----------------------------------|
-| **2025–2026** | **Biodegradable Plastics & Biopolymers** | Mandatory phase-out of single-use petroleum-based plastics in India under Plastic Waste Management Rules. Accelerated adoption of **PLA (Polylactic Acid)** derived from fermented corn starch and **PHBV (Poly-$\beta$-hydroxybutyrate-co-$\beta$-hydroxyvalerate)**, which degrade into natural bio-assimilable $CO_2$ and $H_2O$ via bacterial action within 180 days. |
-| **2024** | **UPPCS Prelims 2024** | Direct question on **Rayon Origin**: Keyed that Rayon is a **regenerated cellulose fibre** obtained by chemically treating natural wood pulp or cotton linters. The option "modified starch" is an established distractor. |
-| **2022** | **UPPCS Prelims 2022** | Polymer Class Matching: Identified **Neoprene** strictly as a synthetic **elastomer** (synthetic rubber), not a thermoplastic. Confirmed **Fibroin** is the natural structural protein of silk, not a synthetic polymer. |
-| **2020** | **UPPCS Prelims 2020** | Tested the **Chronological Discovery Order of Carbon & Synthetic Materials**: **Kevlar (1965)** $\to$ **Fullerenes ($C_{60}$, 1985)** $\to$ **Carbon Nanotubes (1991)** $\to$ **Graphene (2004)** $\to$ **Black Gold (2019)**. |
-| **2019** | **UPPCS Prelims 2019** | Highlighted **Kevlar** as a high-strength aromatic polyamide (aramid fibre) utilized in bulletproof vests and lightweight armor due to its high tensile strength-to-weight ratio ($5\times$ steel). |
 
 ---
 
@@ -171,18 +165,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Carbon ($Z=6$) exhibits exceptional chemical versatility due to two foundational properties: Catenation (the unique ability of carbon atoms to link together via strong covalent bonds to form long open chains, branched structures, or rings) and Tetravalency (sharing four valence electrons to form 4 covalent bonds).
-- **Exam Anchor:** The $C-C$ single bond dissociation enthalpy is exceptionally high ($348\text{ kJ/mol}$), imparting extraordinary thermodynamic stability to organic chains (unlike Silicon, whose $Si-Si$ bond energy is only $222\text{ kJ/mol}$).
 - **Exam Anchor:** Hybridization States of Carbon:
-- **Exam Anchor:** $sp^3$ (Tetrahedral, bond angle $109^\circ 28'$, all 4 are single $\sigma$-bonds, e.g., Methane, Diamond, Alkanes).
-- **Exam Anchor:** $sp^2$ (Trigonal planar, bond angle $120^\circ$, one double bond containing $1\sigma + 1\pi$, e.g., Ethene, Graphite, Graphene, Benzene).
-- **Exam Anchor:** $sp$ (Linear, bond angle $180^\circ$, one triple bond containing $1\sigma + 2\pi$, e.g., Ethyne/Acetylene).
 - **Exam Anchor:** Alkanes ($Cn H{2n+2}$): Saturated hydrocarbons with single bonds. Formerly termed paraffins (Latin parum affinis = little affinity) due to their chemical inertness toward acids and bases under ambient conditions.
 - **Exam Anchor:** Methane ($CH4$): The simplest alkane; known historically as Marsh Gas because it is generated by anaerobic methanogenic archaebacteria in stagnant swamps, waterlogged paddy fields, ruminant animal digestive tracts (cattle cud-chewing), and decomposing municipal landfill sites. It is the primary constituent of Natural Gas ($\approx 85–95\%$) and Biogas/Gobar Gas ($\approx 55–70\%$).
-
-</details>
+- **Exam Anchor:** Alkenes ($Cn H{2n}$): Unsaturated hydrocarbons containing at least one carbon-carbon double bond ($C=C$). Known as olefins (oil-forming).
+- **Exam Anchor:** Ethylene / Ethene ($C2H4$): The only gaseous plant hormone that naturally promotes fruit ripening and leaf abscission; also serves as the chemical monomer for manufacturing polyethylene/polythene.
+- **Exam Anchor:** Alkynes ($Cn H{2n-2}$): Unsaturated hydrocarbons containing at least one carbon-carbon triple bond ($C \equiv C$).
+- **Exam Anchor:** Acetylene / Ethyne ($C2H2$): Burns in pure oxygen to produce an intensely hot Oxy-acetylene flame ($\approx 3200^\circ\text{C}$) used for industrial cutting and welding of steel.
 
 ---
 
@@ -213,8 +205,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The $C-C$ single bond dissociation enthalpy is exceptionally high ($348\text{ kJ/mol}$), imparting extraordinary thermodynamic stability to organic chains (unlike Silicon, whose $Si-Si$ bond energy is only $222\text{ kJ/mol}$).
+A. Both statements are true and explain the phenomenon
+B. Hybridization States of Carbon:
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -224,7 +216,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The $C-C$ single bond dissociation enthalpy is exceptionally high (**$348\text{ kJ/mol}$**), imparting extraordinary thermodynamic stability to organic chains (unlike Silicon, whose $Si-Si$ bond energy is only $222\text{ kJ/mol}$).
+- **Key Exam Association:** **Hybridization States of Carbon**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -232,86 +224,10 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. It was established during the First Five-Year Plan period
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Hybridization States of Carbon:
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Hybridization States of Carbon**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q4.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, $sp^3$ applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. $sp^3$ (Tetrahedral, bond angle $109^\circ 28'$, all 4 are single $\sigma$-bonds, e.g., Methane, Diamond, Alkanes).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** $sp^3$ (Tetrahedral, bond angle $109^\circ 28'$, all 4 are single $\sigma$-bonds, e.g., Methane, Diamond, Alkanes).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q5.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. $sp^2$ (Trigonal planar, bond angle $120^\circ$, one double bond containing $1\sigma + 1\pi$, e.g., Ethene, Graphite, Graphene, Benzene).
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** $sp^2$ (Trigonal planar, bond angle $120^\circ$, one double bond containing $1\sigma + 1\pi$, e.g., Ethene, Graphite, Graphene, Benzene).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q6.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, $sp$ applies only to union territories and not state jurisdictions.
-B. $sp$ (Linear, bond angle $180^\circ$, one triple bond containing $1\sigma + 2\pi$, e.g., Ethyne/Acetylene).
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** $sp$ (Linear, bond angle $180^\circ$, one triple bond containing $1\sigma + 2\pi$, e.g., Ethyne/Acetylene).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q7.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
 A. Contrary to standard doctrine, Alkanes applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
+B. Recognized by UNESCO under World Heritage natural criteria
 C. Alkanes ($Cn H{2n+2}$): Saturated hydrocarbons with single bonds. Formerly termed paraffins (Latin parum affinis = little affinity) due to their chemical inertness toward acids and bases under ambient conditions.
-D. Classified under Schedule VII List II (State List)
+D. Enacted under Article 356 of the Constitution of India
 
 <details>
 <summary>Show answer</summary>
@@ -323,12 +239,12 @@ D. Classified under Schedule VII List II (State List)
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q8.** in Science & Technology, consider the following statement:
+**Q4.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Methane applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
+B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
 D. Methane ($CH4$): The simplest alkane; known historically as Marsh Gas because it is generated by anaerobic methanogenic archaebacteria in stagnant swamps, waterlogged paddy fields, ruminant animal digestive tracts (cattle cud-chewing), and decomposing municipal landfill sites. It is the primary constituent of Natural Gas ($\approx 85–95\%$) and Biogas/Gobar Gas ($\approx 55–70\%$).
 
@@ -342,14 +258,14 @@ D. Methane ($CH4$): The simplest alkane; known historically as Marsh Gas because
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q9.** in Science & Technology, consider the following statement:
+**Q5.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Alkenes ($Cn H{2n}$): Unsaturated hydrocarbons containing at least one carbon-carbon double bond ($C=C$). Known as olefins (oil-forming).
-B. Originated during the Later Vedic transitional period
+B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
+D. Amended by the 44th Constitutional Amendment Act
 
 <details>
 <summary>Show answer</summary>
@@ -361,14 +277,14 @@ D. Statement I is correct but Statement II is incorrect
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q10.** in Science & Technology, consider the following statement:
+**Q6.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Ethylene applies only to union territories and not state jurisdictions.
 B. Ethylene / Ethene ($C2H4$): The only gaseous plant hormone that naturally promotes fruit ripening and leaf abscission; also serves as the chemical monomer for manufacturing polyethylene/polythene.
 C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
+D. Excavated primarily in the Belan and Son River valleys
 
 <details>
 <summary>Show answer</summary>
@@ -380,14 +296,14 @@ D. Both statements are true and explain the phenomenon
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q11.** in Science & Technology, consider the following statement:
+**Q7.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Alkynes applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
+B. Excavated primarily in the Belan and Son River valleys
 C. Alkynes ($Cn H{2n-2}$): Unsaturated hydrocarbons containing at least one carbon-carbon triple bond ($C \equiv C$).
-D. It was established during the First Five-Year Plan period
+D. Classified under Schedule VII List II (State List)
 
 <details>
 <summary>Show answer</summary>
@@ -399,12 +315,12 @@ D. It was established during the First Five-Year Plan period
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q12.** in Science & Technology, consider the following statement:
+**Q8.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Acetylene applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
+B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
 D. Acetylene / Ethyne ($C2H2$): Burns in pure oxygen to produce an intensely hot Oxy-acetylene flame ($\approx 3200^\circ\text{C}$) used for industrial cutting and welding of steel.
 
@@ -418,14 +334,14 @@ D. Acetylene / Ethyne ($C2H2$): Burns in pure oxygen to produce an intensely hot
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q13.** in Science & Technology, consider the following statement:
+**Q9.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Artificial Fruit Ripening: Industrial ripening often uses Calcium Carbide ($CaC2$), which reacts with atmospheric moisture to release acetylene gas ($CaC2 + 2H2O \to Ca(OH)2 + C2H2 \uparrow$). Must-Score: Commercial calcium carbide typically contains toxic trace impurities of arsenic hydride (arsine, $AsH3$) and phosphorus hydride (phosphine, $PH3$), leading FSSAI to ban its use in food trade.
-B. Recognized by UNESCO under World Heritage natural criteria
+B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
-D. Enacted under Article 356 of the Constitution of India
+D. Statement I is correct but Statement II is incorrect
 
 <details>
 <summary>Show answer</summary>
@@ -437,14 +353,14 @@ D. Enacted under Article 356 of the Constitution of India
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q14.** in Science & Technology, consider the following statement:
+**Q10.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Benzene applies only to union territories and not state jurisdictions.
 B. Benzene ($C6H6$): The archetypal aromatic hydrocarbon. Proposed by August Kekulé in 1865 as a planar hexagonal ring of 6 $sp^2$ carbon atoms with alternating double bonds. Thermodynamically stabilized by resonance with a delocalized cloud of $6\pi$ electrons complying with Hückel's Rule ($4n+2$ $\pi$-electrons, where $n=1$).
 C. None of the above statements are correct according to official Commission keys.
-D. Reported by the Law Commission in its 214th consultation paper
+D. Both statements are true and explain the phenomenon
 
 <details>
 <summary>Show answer</summary>
@@ -456,14 +372,14 @@ D. Reported by the Law Commission in its 214th consultation paper
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q15.** in Science & Technology, consider the following statement:
+**Q11.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Allotropes applies only to union territories and not state jurisdictions.
-B. Reported by the Law Commission in its 214th consultation paper
+B. Both statements are true and explain the phenomenon
 C. Allotropes of Carbon: Pure elemental carbon exists as crystalline allotropes (Diamond, Graphite, Fullerenes, Carbon Nanotubes, Graphene) and amorphous forms (Coal, Charcoal, Lampblack/Carbon Black, Coke).
-D. Amended by the 44th Constitutional Amendment Act
+D. It was established during the First Five-Year Plan period
 
 <details>
 <summary>Show answer</summary>
@@ -472,5 +388,81 @@ D. Amended by the 44th Constitutional Amendment Act
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Allotropes of Carbon**: Pure elemental carbon exists as crystalline allotropes (**Diamond, Graphite, Fullerenes, Carbon Nanotubes, Graphene**) and amorphous forms (Coal, Charcoal, Lampblack/Carbon Black, Coke).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q12.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Diamond: applies only to union territories and not state jurisdictions.
+B. It was established during the First Five-Year Plan period
+C. None of the above statements are correct according to official Commission keys.
+D. Diamond: Each carbon is $sp^3$ hybridized and bonded tetrahedrally to 4 other carbons in a rigid 3D framework ($C-C$ bond length $1.54\text{ \AA}$). It is the hardest known natural substance (Mohs 10), an electrical insulator, but an exceptional thermal conductor.
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Diamond**: Each carbon is $sp^3$ hybridized and bonded tetrahedrally to 4 other carbons in a rigid 3D framework ($C-C$ bond length $1.54\text{ \AA}$). It is the hardest known natural substance (Mohs 10), an electrical insulator, but an exceptional thermal conductor.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q13.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Graphite: Each carbon is $sp^2$ hybridized and bonded to 3 others in planar hexagonal rings ($C-C$ bond length $1.42\text{ \AA}$). Layers are held by weak van der Waals dispersion forces ($3.35\text{ \AA}$ gap). Delocalized $\pi$ electrons allow it to conduct electricity. It is soft, slippery, and acts as a solid dry lubricant.
+B. Recognized by UNESCO under World Heritage natural criteria
+C. None of the above statements are correct according to official Commission keys.
+D. Enacted under Article 356 of the Constitution of India
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Graphite**: Each carbon is $sp^2$ hybridized and bonded to 3 others in planar hexagonal rings ($C-C$ bond length $1.42\text{ \AA}$). Layers are held by weak van der Waals dispersion forces ($3.35\text{ \AA}$ gap). Delocalized $\pi$ electrons allow it to **conduct electricity**. It is soft, slippery, and acts as a **solid dry lubricant**.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q14.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Thermodynamic applies only to union territories and not state jurisdictions.
+B. Thermodynamic Stability of Carbon: Graphite is the thermodynamically most stable allotrope of carbon under standard ambient conditions ($298.15\text{ K}, 1\text{ bar}$); its standard enthalpy of formation is defined as zero ($\Deltaf H^\circ = 0$). Diamond is metastable ($\Deltaf H^\circ = +1.9\text{ kJ/mol}$).
+C. None of the above statements are correct according to official Commission keys.
+D. Reported by the Law Commission in its 214th consultation paper
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Thermodynamic Stability of Carbon**: **Graphite is the thermodynamically most stable allotrope of carbon** under standard ambient conditions ($298.15\text{ K}, 1\text{ bar}$); its standard enthalpy of formation is defined as zero ($\Delta_f H^\circ = 0$). Diamond is metastable ($\Delta_f H^\circ = +1.9\text{ kJ/mol}$).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q15.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Fullerenes applies only to union territories and not state jurisdictions.
+B. Reported by the Law Commission in its 214th consultation paper
+C. Fullerenes ($C{60}$, Buckminsterfullerene): Discovered in 1985 by Harold Kroto, Robert Curl, and Richard Smalley. Spherical cage resembling a soccer ball ("buckyball"), composed of 20 hexagonal rings and 12 pentagonal rings.
+D. Amended by the 44th Constitutional Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Fullerenes ($C_{60}$, Buckminsterfullerene)**: Discovered in 1985 by Harold Kroto, Robert Curl, and Richard Smalley. Spherical cage resembling a soccer ball ("buckyball"), composed of **20 hexagonal rings and 12 pentagonal rings**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

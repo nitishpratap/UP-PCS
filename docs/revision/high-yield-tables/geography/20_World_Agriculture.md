@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 20 — World Agriculture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -43,11 +41,7 @@ hide:
 | Olericulture | Vegetables | Call it horticulture-only | शाककृषि |
 | Von Thünen vs Whittlesey | Thünen = **distance rings** from market; Whittlesey = **world type map** | Same theory | |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Crop / system tags
 
@@ -449,18 +443,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** In plantation MCQs the classic plantation crop is tea, not wheat, rice, or maize. Plantation means estate, capital, monoculture, hired labour, and export. Fazenda = Brazil plantation; it is not jhum.
-- **Exam Anchor:** Coffee producer order often taught for 2016 is Brazil > Vietnam > Colombia > Indonesia. Brazil is mainly arabica on Terra Roxa; Vietnam is bulk robusta. Mocha = Yemen; Kona = Hawaii.
-- **Exam Anchor:** Major cocoa producers are Côte d’Ivoire, Ghana (घन), and Cameroon. Latvia is not a cocoa producer. Cocoa originated in the Amazon; chocolate manufacturing centres (Switzerland, Belgium) are not the same as growers.
-- **Exam Anchor:** India’s rubber fact is Kerala. Rubber (Hevea) originated in the Amazon; Henry Wickham moved seed stock to Ceylon / Malaya. Malaysia’s Kinta Valley is tin, not rubber. Tree tapping starts after about 6–7 years.
-- **Exam Anchor:** Shifting-cultivation names: Jhum (NE India), Podu (Andhra/Odisha), Ladang (Malaysia), Milpa (Mexico), Roca (Brazil), Chena (Sri Lanka), Caingin (Philippines), Taungya (Myanmar). It needs low density, short crop years and long fallow — not estate tea.
-- **Exam Anchor:** The world citrus / vine / olive belt is Mediterranean on five west coasts near 30–45°, not equatorial. Olive majors = Spain, Italy, Greece.
-- **Exam Anchor:** Philippines cane and coconut history fact: Spanish and Americans. Wrong Indian crop–state dumps include Gujarat–tea, UP–jute and Assam–wheat. Right pairs: Kerala–rubber; Assam–tea volume.
 - **Exam Anchor:** Oil palm majors are Indonesia and Malaysia. World sugarcane leader is Brazil; sugar beet belongs to temperate Europe.
-
-</details>
+- **Exam Anchor:** Intensive subsistence = monsoon wet rice. Extensive commercial grain = Prairie / Pampas wheat. Mixed farming = crops plus livestock (West Europe / US Midwest). Ranching belts = Pampas, Prairie, Veld, Downs.
+- **Exam Anchor:** Black tea is fermented; green tea is not. The pluck fact is two leaves and a bud. Tea likes 20–30°C, 150–300 cm rain, slope and acid soil.
+- **Exam Anchor:** Von Thünen = market rings around a city (distance rent). Whittlesey = about thirteen world agricultural region types. Do not merge the two models.
+- **Exam Anchor:** IRRI (Philippines) drove HYV rice; CIMMYT (Mexico) and Norman Borlaug drove HYV wheat — Nobel for Peace (1970), not “agriculture.” FAO HQ = Rome.
+- **Exam Anchor:** Viticulture is the cultivation of grapes, especially for wine, in France, Italy, Spain, California, Chile, Australia and the Cape.
+- **Exam Anchor:** Sericulture is silk rearing; China leads world volume, while India’s mulberry belt runs through Karnataka, Andhra Pradesh and West Bengal, with tussar, eri and muga as other silk types.
+- **Exam Anchor:** Pisciculture is the rearing of fish in ponds, tanks or controlled waters.
 
 ---
 

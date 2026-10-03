@@ -20,7 +20,8 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Three streams with distinct targets: **peasant** (rent, indigo, sharecrop), **tribal** (land–forest–*diku*), and **labour** (unions and wages). Method can overlap; the grievance target does not.
 
@@ -82,9 +83,10 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 30. After Santhal Hul: **Santhal Parganas** + ban on transfer of Santhal land to non-Santhals. Indigo faded in the early twentieth century mainly because of **synthetic dyes**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -103,7 +105,7 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 | Tebhaga 1946–47 | Telangana 1946–51 | Bengal sharecrop share-demand vs Hyderabad armed anti-*jagirdar* struggle | तेभागा / तेलंगाना |
 | Eka 1921–22 | Awadh Kisan Sabha ~1920 | Madari Pasi's rent-receipt oath vs Baba Ramchandra's broader mobilisation | एका / अवध |
 
----
+</details>
 
 ## Must-score facts — revolt ↔ leader ↔ year
 ### Peasant / tribal revolt (जनजातीय) fact table

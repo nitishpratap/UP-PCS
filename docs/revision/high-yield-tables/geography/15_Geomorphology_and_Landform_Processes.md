@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 15 — Geomorphology & Landform Processes</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -54,11 +52,7 @@ hide:
 | Endogenic vs exogenic | Interior build vs surface wear | Same | अंतर्जात / बहिर्जात |
 | Weathering vs denudation | In situ breakdown vs weathering+erosion | Same | अपक्षय ≠ अनाच्छादन |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Endogenic / exogenic
 
@@ -427,18 +421,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Endogenic processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. Exogenic processes wear and deposit at the surface. Gradation = degradation + aggradation.
-- **Exam Anchor:** Davis’s cycle of erosion is framed as structure–process–time (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
 - **Exam Anchor:** Igneous rocks are primary: granite is intrusive (acidic); basalt is extrusive (basic). Fossils belong to sedimentary rocks.
-- **Exam Anchor:** Igneous bodies: batholith, laccolith, lopolith, phacolith; a sill is parallel to beds; a dyke cuts across beds.
-- **Exam Anchor:** Metamorphic pairs: limestone → marble, sandstone → quartzite, granite → gneiss, shale → slate / schist. Foliated rocks include slate–schist–gneiss; marble and quartzite are non-foliated.
 - **Exam Anchor:** Weathering breaks rock in situ. Erosion picks up and carries material. Denudation is weathering plus erosion. Chemical routes include carbonation, oxidation, hydrolysis and hydration.
-- **Exam Anchor:** River load moves by traction, saltation, suspension and solution. Agents of erosion are river, wind, glacier, sea, groundwater (karst) and gravity (mass wasting).
-- **Exam Anchor:** Fluvial stages: youth = V-valley / waterfall / pothole; mature = meander / floodplain / levee; old = ox-bow / delta (डेल्टा) / peneplain. Rejuvenation adds knickpoints, terraces and incised meanders.
-
-</details>
+- **Exam Anchor:** Rectangular streams follow joints on the Vindhyan (विंध्य) rocks.
+- **Exam Anchor:** Centripetal streams drain into Loktak (लोकतक) and into Sambhar (सांभर).
+- **Exam Anchor:** Endogenic processes come from Earth’s interior — folding, faulting, volcanism, earthquakes and uplift. They build relief.
+- **Exam Anchor:** Exogenic processes work at the surface — weathering, mass wasting, erosion, transport and deposition by river, wind, glacier, sea and groundwater. They wear relief down and fill basins.
+- **Exam Anchor:** Gradation is the overall smoothing of the land: degradation (wearing down) plus aggradation (building up by deposition).
 
 ---
 

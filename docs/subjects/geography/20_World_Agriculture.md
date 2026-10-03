@@ -24,7 +24,8 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 ---
 
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. In plantation MCQs the classic plantation crop is **tea**, not wheat, rice, or maize. Plantation means estate, capital, monoculture, hired labour, and export. **Fazenda** = Brazil plantation; it is **not** jhum.
 2. Coffee producer order often taught for **2016** is **Brazil > Vietnam > Colombia > Indonesia**. Brazil is mainly **arabica** on Terra Roxa; Vietnam is bulk **robusta**. **Mocha** = Yemen; **Kona** = Hawaii.
@@ -49,8 +50,10 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 21. Jute world is almost entirely **India and Bangladesh** on Ganga–Brahmaputra alluvium — do not treat UP as a jute state.
 22. Plantation vs shifting: plantation = capital estate monoculture for export; shifting = humid-tropics slash-and-burn subsistence. They are not the same system.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -80,7 +83,7 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 | Olericulture | Vegetables | Call it horticulture-only | शाककृषि |
 | Von Thünen vs Whittlesey | Thünen = **distance rings** from market; Whittlesey = **world type map** | Same theory | |
 
----
+</details>
 
 ## Must-score facts — plantation, shifting, leaders
 

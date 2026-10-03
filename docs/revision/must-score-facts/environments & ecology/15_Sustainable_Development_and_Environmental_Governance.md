@@ -11,59 +11,63 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 15 — Sustainable Development & Environmental Governance</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Sustainable development** (Brundtland **1987**, *Our Common Future*) means meeting present needs without compromising future generations’ ability to meet theirs.
-2. Brundtland is **not** *Limits to Growth* (Club of Rome, **1972**).
-3. SD rests on **economic, social, and environmental** pillars (plus institutional capacity). It is not environment-only.
-4. Core objectives include basic needs, intra- and inter-generational equity, ecological limits, participation, and integrated planning.
-5. Priority objectives also include **poverty reduction**, **biodiversity conservation**, and **pollution control**.
-6. Indicators include **HDI (UNDP (यूएनडीपी))**, ecological footprint (पारिस्थितिक पदचिह्न), NITI (नीति) Aayog (नीति आयोग) SDG Index, global SDG indicator sets, and EPI.
-7. **Natural capital** means renewable and non-renewable environmental resources (air, water, land, minerals, forests). **Roads** are not natural capital.
-8. **SDGs** were adopted (अंगीकृत) in **September 2015**, run to **2030**, and include **17 goals** and **169 targets**.
-9. SDGs replaced **MDGs** (8 goals, **2000–2015**) and apply universally to all countries.
-10. Goal facts worth ratta include SDG **6** water, **7** energy, **13** climate, **14** life below water, and **15** life on land.
-11. Global SDG Index ranks often place **Finland** first. India was about **116th (2017)** and about **112th (2023)**.
-12. NITI Aayog **SDG India Index** has repeatedly placed **Kerala** first; Himachal (हिमाचल) Pradesh and Tamil Nadu (तमिलनाडु) sit near the top. **Gujarat** was **not** in the 2019–20 top-five set often tested.
-13. Conference chain: **Stockholm 1972 (स्टॉकहोम सम्मेलन) → Brundtland 1987 → Rio and Agenda 21 in 1992 → SDGs 2015**.
-14. **Agenda 21** is Rio **1992**, not 1995.
-15. **LiFE Mission** launched in **June 2022**; the idea was floated at **COP26 Glasgow 2021**, not COP25.
-16. MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is the nodal environment (पर्यावरण) ministry. **NGT Act 2010** creates the green tribunal.
-17. Rio principles frequently tested are **Precautionary Principle, Polluter Pays, and Public Trust**.
-18. Constitutional hooks are **Article 48A**, **Article 51A(g)**, and **Article 21** (अनुच्छेद 21) read with a healthy environment.
-19. UP SDG reporting typically sits with the **Planning Department**.
-20. Environmental justice means fair distribution of environmental benefits and burdens plus fair participation in decisions.
-21. Bhopal **1984** led to EPA **1986**. UP justice/pollution examples include Kanpur (कानपुर) tanneries and the Singrauli coal belt.
-22. Ethics labels: **anthropocentrism** (human-centred), **biocentrism** (all life), **ecocentrism** (ecosystems). Leopold’s Land Ethic is **1949**; deep ecology (पारिस्थितिकी) links to **Arne Næss**.
-23. Gandhi (गांधी)’s **trusteeship** is a frequent Indian environmental-ethics fact.
-24. **Green economy** (UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) **2011** line) means low-carbon, resource-efficient, socially inclusive growth.
-25. **Circular economy** redesigns take-make-dispose into reduce-reuse-recycle loops, often with **EPR** rules. Circular sits inside, but is not identical to, green economy.
-26. **Sustainable agriculture** means using land so its **quality remains intact**, with mixed cropping, organic manures, nitrogen-fixing plants, and pest-resistant varieties as the environment-friendly strategy set.
-27. **NMSA** (National Mission for Sustainable Agriculture) is a **NAPCC** mission on productivity, water-use efficiency, nutrient management, and livelihood diversification.
-28. Example scheme–SDG matches: Jal Jeevan / Swachh Bharat → SDG **6**; SAUBHAGYA / UJALA → SDG **7**; NAPCC / Net Zero 2070 → SDG **13**.
-29. MDGs had 8 goals; SDGs have 17 — do not reverse the counts.
-30. HDI is an UNDP development indicator; it is not itself an MoEFCC clearance tool.
-31. Polluter Pays allocates cleanup cost to the polluter; Precautionary Principle acts under scientific uncertainty — different tools.
-32. Public Trust treats certain natural resources as held for public benefit, not absolute (निरपेक्ष) private exhaustion.
+2. **Natural capital** means renewable and non-renewable environmental resources (air, water, land, minerals, forests). **Roads** are not natural capital.
+3. **SDGs** were adopted (अंगीकृत) in **September 2015**, run to **2030**, and include **17 goals** and **169 targets**.
+4. **Agenda 21** is Rio **1992**, not 1995.
+5. **LiFE Mission** launched in **June 2022**; the idea was floated at **COP26 Glasgow 2021**, not COP25.
+6. **Green economy** (UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) **2011** line) means low-carbon, resource-efficient, socially inclusive growth.
+7. **Circular economy** redesigns take-make-dispose into reduce-reuse-recycle loops, often with **EPR** rules. Circular sits inside, but is not identical to, green economy.
+8. **Sustainable agriculture** means using land so its **quality remains intact**, with mixed cropping, organic manures, nitrogen-fixing plants, and pest-resistant varieties as the environment-friendly strategy set.
+9. **NMSA** (National Mission for Sustainable Agriculture) is a **NAPCC** mission on productivity, water-use efficiency, nutrient management, and livelihood diversification.
+10. **Sustainable development** means meeting the needs of the present **without compromising** the ability of future generations to meet their own needs.
+11. **Inter-generational equity** protects future generations. **Intra-generational equity** ensures fair sharing among people alive today.
+12. **Objectives** include fulfilling **basic needs**, respecting **ecological limits** and carrying capacity, integrating environment into economic planning, and ensuring **public participation**.
+13. **Natural capital** includes all renewable and non-renewable environmental resources such as air, water, land, minerals, and forests. **Roads** and other purely human-made assets are **not** natural capital.
+14. **Indicators** include **HDI** (UNDP), **ecological footprint** (पारिस्थितिक पदचिह्न), **SDG Index**, **Environmental Performance Index (EPI)**, and **231 SDG indicators**.
+15. **NITI Aayog** (नीति आयोग) publishes the **SDG India Index** ranking states on SDG progress.
+16. **SDGs replaced MDGs**, which had **8 goals (2000–2015)** and focused mainly on developing countries.
+17. **SDGs are universal** — they apply to all countries, including developed ones.
+18. **Leave No One Behind** requires progress to reach the poorest and most vulnerable groups.
+19. **NITI Aayog** coordinates SDG localisation in India. **MoSPI** maintains the National Indicator Framework.
+20. **NITI Aayog’s SDG India Index** ranks states and UTs. **Kerala** has repeatedly held the **first** position (including the 2019–20 and 2020–21 editions).
+21. **Environmental governance** is the system of rules, institutions, and processes through which environmental decisions are made and enforced.
+22. **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is India's nodal ministry for environment, forest, and climate policy.
+23. **Rio principles** include **Precautionary principle**, **Polluter Pays**, **Public Trust doctrine**, and **inter-generational equity** — adopted in Indian judgments like *Vellore Citizens' Welfare Forum*.
+24. **NGT (2010)** is the specialised tribunal for environmental cases and EC appeals.
+25. **Agenda 21 (1992)** is a Rio blueprint for sustainable development planning, including local-level action.
+26. **Environmental justice** means fair treatment of all in environmental benefits and burdens — both **distributive** (who gets pollution) and **procedural** (who participates in decisions).
+27. **Environmental ethics** asks what moral duties humans owe to nature.
+28. **Anthropocentrism** values nature mainly for human use.
+29. **Biocentrism** gives intrinsic worth to all living beings.
+30. **Ecocentrism** values whole ecosystems.
+31. **Aldo Leopold's Land Ethic (1949)** stresses preserving the integrity of the biotic community.
+32. **Gandhi's trusteeship** holds that resources are held in trust for society and future generations.
+33. **Extended Producer Responsibility (EPR)** (विस्तारित उत्पादक दायित्व) under Plastic, E-Waste, Battery, and Tyre rules makes producers responsible for end-of-life collection.
+34. **Circular economy** focuses on **material flows and waste elimination**.
+35. **Green economy** is **broader** — it also covers renewable energy (नवीकरणीय ऊर्जा), biodiversity, jobs, and equity. Circular economy is a **component** of green economy.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Brundtland Report (1987)** | **Limits to Growth (1972)** | UN World Commission on Environment & Development (*Our Common Future*) coining the definition of Sustainable Development vs Club of Rome computer-simulation study modeling impending resource depletion and economic collapse | ब्रंटलैंड रिपोर्ट (1987, सतत विकास) / लिमिट्स टू ग्रोथ (1972) |
-| **Millennium Development Goals (MDGs)** | **Sustainable Development Goals (SDGs)** | 8 anti-poverty targets for 2000–2015 focused primarily on developing nations funded by rich countries vs 17 universal, integrated economic-social-environmental goals (Agenda 2030) adopted in 2015 applying to all nations equally | सहस्राब्दी विकास लक्ष्य (MDGs) / सतत विकास लक्ष्य (SDGs 2030) |
-| **Green Economy** | **Circular Economy** | Macro-economic development paradigm promoting low-carbon growth, resource efficiency, and social equity (UNEP) vs regenerative industrial design philosophy eliminating waste and keeping materials in closed continuous cycles | हरित अर्थव्यवस्था (व्यापक मॉडल) / चक्रीय अर्थव्यवस्था (पुनर्चक्रण लूप) |
-| **Linear Economy** | **Circular Economy** | Traditional unsustainable industrial model based on "take, make, use, and dispose" vs restorative circular model based on "reduce, reuse, repair, refurbish, and recycle" | रैखिक अर्थव्यवस्था (कचरा उत्पादक) / चक्रीय अर्थव्यवस्था (शून्य अपशिष्ट) |
-| **Mission LiFE (2022)** | **Agenda 21 (1992)** | Mass global citizen movement conceptualized by India to replace mindless consumption with mindful individual sustainable lifestyle actions vs Rio 1992 comprehensive non-binding intergovernmental action plan for sustainable governance | मिशन लाइफ (LiFE, व्यक्तिगत जीवनशैली) / एजेंडा 21 (सरकारी कार्ययोजना) |
-| **Natural Capital** | **Manufactured Capital** | World's natural ecological assets including geology, soil, air, water, biodiversity, and ecosystem services vs human-created physical infrastructure, machinery, factories, and financial assets | प्राकृतिक पूंजी (पारिस्थितिक संपदा) / निर्मित पूंजी (मानव-निर्मित संपत्ति) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+| Trap | Correct fact |
+|------|----------------|
+| Agenda 21 = 1995 | **Rio 1992** |
+| Brundtland = Limits to Growth | ***Our Common Future* 1987** |
+| SD = environment only | **Three pillars balanced** |
+| SD = no development | **Sustainable, not zero, development** |
+| LiFE at COP-25 | **COP26 2021; launched June 2022** |
+| UP SDG report = Finance Dept | **Planning Department** |
+| Circular = identical to green | **Circular ⊂ Green** |
+| MDGs = 17 goals | **MDGs = 8; SDGs = 17** |
+| SDGs only for developing countries | **Universal** |
+| Bhopal → Stockholm 1972 | **Bhopal 1984 → EPA 1986** |
 
 
 ---

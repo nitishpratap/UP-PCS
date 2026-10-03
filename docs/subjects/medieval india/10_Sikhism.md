@@ -15,7 +15,8 @@ Sikhism | Guru (गुरु) Tradition | Ten Sikh Gurus | Guru Granth (गु�
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Guru Nanak (गुरु नानक) (1469–1539)** founded Sikhism on **Ik Onkar**, the householder path, **langar** (लंगर), and **sangat** (संगत).
 2. The ethical triad is **Naam Japna**, **Kirat Karni**, and **Vand Chakna**.
@@ -46,9 +47,10 @@ Sikhism | Guru (गुरु) Tradition | Ten Sikh Gurus | Guru Granth (गु�
 27. **Hem Kund** (Chamoli (चमोली), Uttarakhand (उत्तराखंड)) is a famous Sikh gurudwara site linked to Gobind Singh tradition.
 28. Among early Adi Granth compositions is **Jayadev**; among the last human additions is **Guru Tegh Bahadur**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -67,7 +69,8 @@ Sikhism | Guru (गुरु) Tradition | Ten Sikh Gurus | Guru Granth (गु�
 | Dasam Granth | Guru Granth | Gobind Singh corpus vs eternal Guru | दसम ग्रंथ / गुरु ग्रंथ |
 | Panj Pyare | Ten Gurus | First five Khalsa 1699 vs 1469–1708 line | पंज प्यारे / दस गुरु |
 | Langar | Sangat | Community kitchen vs congregation | लंगर / संगत |
----
+
+</details>
 
 ## Must-score facts — Gurus, Granth, Khalsa
 

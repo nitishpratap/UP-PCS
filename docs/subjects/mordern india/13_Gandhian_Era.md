@@ -15,7 +15,8 @@ Gandhi (गांधी) early life | Gandhi in South Africa | Gandhian Ideology
 
 ---
 
-## Consolidated — 42 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Gandhi founded the **Natal Indian Congress (कांग्रेस) (1894)**, ran ***Indian Opinion***, and wrote ***Hind Swaraj (हिंद स्वराज)* (1909)** before returning to India in **1915**. **Gokhale** (गोखले) was his political guru (गुरु).
 2. **Champaran 1917** fought the **tinkathia** (तीनकठिया प्रथा) indigo (नील) system (**3/20**); **Raj Kumar Shukla** brought Gandhi. This is Gandhi’s first satyagraha in India.
@@ -60,9 +61,10 @@ Gandhi (गांधी) early life | Gandhi in South Africa | Gandhian Ideology
 41. Associates: **Jamnalal Bajaj** (Congress treasurer, fifth son tag); **C.F. Andrews = Dinbandhu**; **Pyarelal** (Noakhali secretary). **Yerawada** jail he called **Mandir**.
 42. At Independence Gandhi was **not** a formal Congress member (resigned **1934**). Mountbatten’s **one-man boundary force** tribute refers to Gandhi in Bengal. Nehru’s death line: **“the light has gone out of our lives.”**
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -87,7 +89,7 @@ Gandhi (गांधी) early life | Gandhi in South Africa | Gandhian Ideology
 | August Offer 1940 | Cripps Mission 1942 | Linlithgow's dominion-after-war + minority veto vs Cripps's Constituent Assembly + provincial opt-out | अगस्त प्रस्ताव / क्रिप्स मिशन |
 | Individual Satyagraha 1940 | Civil Disobedience 1930–34 | One person at a time, symbolic vs mass nationwide defiance | व्यक्तिगत सत्याग्रह / सविनय अवज्ञा |
 
----
+</details>
 
 ## Must-score facts — chronology, same-year traps
 

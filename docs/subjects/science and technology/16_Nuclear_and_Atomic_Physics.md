@@ -34,7 +34,8 @@
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Nuclear fission** is the splitting of a heavy atomic nucleus (e.g. U-235, Pu-239) into two medium-sized fragments of comparable mass upon absorbing a thermal (slow) neutron.
 2. In each fission of a Uranium-235 nucleus, approximately **$200\text{ MeV}$** of energy is liberated, along with $2$ to $3$ fast neutrons and energetic gamma rays.
@@ -91,9 +92,10 @@
 49. **Uranium-Lead Dating:** Used to determine the absolute age of geological rocks, meteorites, and the Earth ($\sim 4.54\text{ billion years}$).
 50. Medical radioisotopes: **Cobalt-60** (cancer radiotherapy), **Iodine-131** (thyroid disorders and cancer), **Sodium-24** (circulatory blood clots), **Phosphorus-32** (leukemia and blood disorders), **Technetium-99m** (diagnostic imaging).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinction & Common Trap |
 | :--- | :--- | :--- |
@@ -104,7 +106,7 @@
 | **NPT (1968)** | **CTBT (1996)** | NPT prevents weapon proliferation and divides world into 5 NWS and NNWS (India did not sign). CTBT bans all nuclear test explosions in all environments (not yet in force). |
 | **Atom Bomb** | **Hydrogen Bomb** | Atom bomb is based on **uncontrolled fission** of uranium/plutonium. Hydrogen bomb is based on **uncontrolled fusion** of hydrogen isotopes, triggered by an atomic bomb. |
 
----
+</details>
 
 ## Must-Score Master Tables
 

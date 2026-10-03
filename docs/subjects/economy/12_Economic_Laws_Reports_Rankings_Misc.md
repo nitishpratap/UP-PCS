@@ -31,7 +31,8 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Economic Survey** is tabled by the Finance Ministry (CEA wing) usually a day before the Union Budget — a review of the economy and policy narrative.
 2. Survey questions are **edition-specific** — match the year in the stem before picking a number or phrase.
@@ -84,8 +85,10 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 49. Publisher split: **NITI** = SDG India Index (States); **SDSN** = global Sustainable Development Report.
 50. Match drill: SDG-10 Reduced Inequalities; 13 Climate Action; 14 Life Below Water; 15 Life on Land.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -111,6 +114,8 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 | **Raghavan Committee** | **Narasimham Committee** | Competition Act path vs banking reforms |
 | **DigiLocker** | **Saaransh** | Citizen e-document wallet vs NeGP MMP compendium |
 | **UDAY** | **Saubhagya / UJALA** | Discom financial turnaround vs household electrification / LED |
+
+</details>
 
 ## Must-score drill — Acts, Survey, ranks
 

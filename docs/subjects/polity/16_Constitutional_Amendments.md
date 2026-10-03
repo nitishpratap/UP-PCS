@@ -68,7 +68,8 @@ D. 86th Constitutional Amendment Act, 2002
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Amendment power sits in **Part XX, Article 368 (अनुच्छेद 368)**. An amendment Bill may start in **either House**. There is **no joint sitting (संयुक्त बैठक)**. After the **24th Amendment**, the President **shall** assent.
 2. There are **three lanes**: **simple majority** changes that are **not** “under 368” (new States, Article 169 Councils, Schedules 5/6 matters, and similar); **special majority** under **368(2)** (majority of total membership (सदन की कुल सदस्य संख्या का) plus two-thirds (ते-भागा) present and voting (गणपूर्ति)); and **special majority plus ratification by half the States** for federal provisions.
@@ -99,9 +100,10 @@ D. 86th Constitutional Amendment Act, 2002
 27. Local-government amendments are the pair **73rd + 74th**. Rights-education is **86th**. Goods and services tax is **101st**. EWS is **103rd**. Women reservation awaiting delimitation is **106th**.
 28. The **42nd (1976)** added **Socialist** and **Secular** to the Preamble. The **44th (1978)** unwound Emergency excesses and moved property out of Part III to **Article 300A**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
@@ -117,7 +119,7 @@ D. 86th Constitutional Amendment Act, 2002
 | **52nd** | **91st** | 10th Schedule inserted | 1/3 split killed; CoM 15% |
 | **104th** | **106th** | Anglo-Indian nomination **ends** | Women 33% — **not yet** in force |
 
----
+</details>
 
 ## Must-score facts — 368 lanes, landmark Amendments
 

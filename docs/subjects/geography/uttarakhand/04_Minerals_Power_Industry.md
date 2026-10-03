@@ -28,7 +28,8 @@
 
 ---
 
-## Consolidated — 18 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 18 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Uttarakhand has scattered Himalayan–foothill minerals; it does **not** have one giant coal–iron belt.
 2. **Dolomite** pairs with **Dehradun** and **Pithoragarh**.
@@ -49,9 +50,10 @@
 17. **Dehradun** carries administration, education, pharma, IT, and service-industry pockets; forest-based and tourism services matter in mid-hill towns.
 18. Heavy smokestack industry is limited by terrain, ecology, and transport cost — light manufacturing and services dominate instead.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct |
 |------|---------|
@@ -60,7 +62,7 @@
 | Dolomite–Almora | Dolomite card is Dehradun–Pithoragarh |
 | Power vs mineral | Do not answer hydropower questions with mineral districts |
 
----
+</details>
 
 ## 4.1 Minerals of Uttarakhand (उत्तराखंड)
 

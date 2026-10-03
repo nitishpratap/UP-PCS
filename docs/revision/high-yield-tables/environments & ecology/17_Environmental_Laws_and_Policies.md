@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 17 — Environmental Laws & Policies</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Genetic Engineering Appraisal Committee (GEAC)** | **Central Ground Water Authority (CGWA)** | Statutory apex regulatory body constituted under Rules 1989 of EPA 1986 approving environmental release of GMOs (e.g. Bt Cotton) vs regulatory authority constituted under Section 3(3) of EPA 1986 regulating commercial groundwater extraction NOCs | जीईएसी (GEAC, जीएमओ नियामक) / केंद्रीय भूजल प्राधिकरण (CGWA) |
 | **Coastal Regulation Zone (CRZ)** | **Eco-Sensitive Zone (ESZ)** | Coastal belt up to 500 m from High Tide Line classified into CRZ-I to IV under EPA 1986 to regulate beach and marine development vs buffer belt around protected areas notified under Section 3 of EPA 1986 to curb polluting industrial operations | तटीय विनियमन क्षेत्र (CRZ) / पर्यावरण-संवेदनशील क्षेत्र (ESZ) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Act chain
 
@@ -126,18 +120,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Memorise the act-year chain: WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010.
 - **Exam Anchor:** Article 48A (DPSP (राज्य के नीति निदेशक तत्व)) directs the State to protect the environment (पर्यावरण). Article 51A(g) is the citizen’s Fundamental Duty to protect nature. Do not swap them.
 - **Exam Anchor:** Article 21 (अनुच्छेद 21) has been read to include a healthy environment. Article 48 is about agriculture and cattle — it is not the environment article (48A is).
-- **Exam Anchor:** The Environment (Protection) Act, 1986 is the post-Bhopal umbrella law under Article 253. Section 3 powers support EIA, CRZ, ESZ, GEAC, and CGWA. It supplements Water and Air Acts; it does not repeal them.
-- **Exam Anchor:** EIA Notification and related clearances flow from EPA, not from the Water Act.
-- **Exam Anchor:** The Wildlife (Protection) Act, 1972 uses six Schedules. Schedules I–IV protect animals; Schedule V is vermin; Schedule VI covers plants. Schedule I is the highest protection; Schedule V animals may be hunted as vermin.
-- **Exam Anchor:** Under WPA, a National Park (Section 35) is stricter than a Sanctuary (Section 18). Tiger Reserves rest on Section 38V (2006 amendment path).
-- **Exam Anchor:** The Forest (Conservation) Act, 1980 requires prior Central approval before diverting forest land. CAMPA and NPV sit in this clearance world.
-
-</details>
+- **Exam Anchor:** FCA controls diversion of forest land. FRA recognises rights of forest dwellers. Do not treat them as one Act.
+- **Exam Anchor:** Environmental law in India combines constitutional duties, statutory Acts, and Supreme Court/NGT jurisprudence.
+- **Exam Anchor:** Article 48A (DPSP) directs the State to protect and improve the environment and safeguard forests and wildlife.
+- **Exam Anchor:** Article 51A(g) (Fundamental Duty) requires every citizen to protect and improve the natural environment.
+- **Exam Anchor:** Article 21 (Right to Life) was expanded by the Supreme Court to include the right to a wholesome environment (M.C. Mehta, Subhash Kumar).
+- **Exam Anchor:** Article 48 deals with agriculture and animal husbandry — it is not the environment article. Do not confuse with 48A.
 
 ---
 

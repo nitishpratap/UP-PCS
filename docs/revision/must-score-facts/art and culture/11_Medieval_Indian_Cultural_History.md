@@ -11,58 +11,64 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 11 — Medieval Indian Cultural History (इतिहास)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **Humayun** brought Persian (फ़ारसी) masters **Mir Sayyid (सैयद) Ali** and **Abdus Samad. Akbar** built the **kitabkhana** (किताबखाना) and the illustrated **Razmnama (रज्मनामा). Jahangir (जहाँगीर)** favoured naturalism under painters such as **Mansur**. Under Aurangzeb (औरंगजेब) many painters left the imperial atelier.
-2. Sultanate architecture spine: **Qutub** (कुतुब) under Aibak–Iltutmish (इल्तुतमिश), **Alai Darwaza** (अलाई दरवाज़ा) under the Khaljis, and **Jaunpur (जौनपुर) Sharqi** (जौनपुर शर्की) work such as **Atala Masjid** (अटाला मस्जिद).
-3. Mughal architecture spine: **Humayun’s Tomb** at Delhi with **charbagh** (चारबाग़), **Fatehpur Sikri** under Akbar, and the **Taj Mahal** under Shah Jahan (शाहजहाँ) at Agra.
-4. Tomb locations of the Great Mughals: **Babur** (बाबर) is buried in **Kabul** (Bagh-e Babur), **Humayun** in **Delhi**, **Jahangir** (जहाँगीर) at Shahdara in **Lahore**, and **Shah Jahan** alongside Mumtaz Mahal (मुमताज महल) in **Agra** (Taj Mahal, the only one among these located in Uttar Pradesh (उत्तर प्रदेश)).
-5. **Buland Darwaza** at Fatehpur Sikri marks Akbar’s (अकबर) **Gujarat victory**. It is **not** a monument for Jahangir’s birth in **1569**.
-6. **Babur** wrote his memoir (*Tuzuk-i-Baburi* (तुजुक-ए-बाबरी)) in **Chagatai (चगताई) Turki (तुर्की)**. The Mughal **court language** was **Persian**. Do not swap the two.
-7. **Abul Fazl** (अबुल फजल) wrote the narrative **Akbarnama** (अकबरनामा) and the gazetteer **Ain-i-Akbari (आइन-ए-अकबरी). Faizi (फैजी)** was the court poet. **Nakhshabi** wrote the *Tutinama*.
-8. Key Mughal court chronology of deaths: **Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl (1602) → Prince Daniyal (1604)**.
-9. Sultanate **iqta** (इक्ता) gave revenue to a **muqti** (मुक़्ती) to raise troops. **Khalsa** (खालसा) was crown land under **direct** state control. A **jagir** (जागीर) is a revenue assignment, not Khalsa.
-10. Akbar’s **mansab** (मनसब) had **zat** (जात) (personal rank) and **sawar** (सवार) (cavalry contingent). The original mansab system was **not hereditary** (गैर-वंशानुगत).
-11. **Zabt** (जब्त) is measured land assessment. **Dahsala** (दहसाला) is Todar Mal (टोडर मल)’s **ten-year** average revenue system from about **1580**.
-12. The copper **dam** (दाम) continued from Sher Shah (शेरशाह) into Akbar’s currency (Sher Shah ratio: 1 Rupee = 64 Dams; Akbar ratio: 1 Rupee = 40 Dams). Akbar organised **12 subas** in 1580 (*Ain-i-Akbari*), expanding to **15 subas** with Deccan annexations (Berar, Khandesh, Ahmadnagar); later 18 under Shah Jahan and 21 under Aurangzeb.
-13. **Ibadat Khana** (इबादत खाना) debates began at Fatehpur Sikri in **1575. Sulh-i-kul (सुलह-ए-कुल)** was the public peace policy. **Din-i-Ilahi** (दीन-ए-इलाही) of **1582** was a private fellowship, not a state religion.
-14. Akbar abolished **jizya** (जज़िया) in **1564**. The **Mahzar** of **1579** asserted Akbar’s authority in religious disputes.
-15. Celebrated members of Akbar's nine jewels (*Navaratnas*) include musical maestro **Tansen** (तानसेन) (recruited from King Ramchandra of Rewa/Bhata), finance minister **Raja (राजा) Todar Mal**, court wit **Birbal** (बीरबल) (Mahesh Das), chief ideologue **Abul Fazl**, and poet laureate **Faizi** (फैजी).
-16. Uttar Pradesh architecture: **Jaunpur** Sharqi (Atala, Lal Darwaza), **Agra** Fort–Itimad-ud-Daulah (इतिमाद-उद-दौला)–Taj–Ram Bagh, and **Fatehpur Sikri** (Buland Darwaza, Ibadat Khana, Salim Chishti (चिश्ती)).
-17. **Tulsidas** (तुलसीदास) wrote the Awadhi (अवधी) *Ramcharitmanas* (रामचरितमानस) in Akbar’s age. **Kavindra Acharya** of Banaras is linked to Shah Jahan’s court culture.
-18. These are **not** UP tombs: Babur at Kabul, Jahangir at Lahore, Humayun at Delhi.
-19. Medieval painting moved from Sultanate book-art into the Mughal **kitabkhana**, then outward to Rajput (राजपूत) and Pahari (पहाड़ी) courts as imperial patronage shifted.
-20. **Alai Darwaza** is an Alauddin Khalji (अलाउद्दीन खिलजी) gateway at the Qutub complex. It is not a Sharqi Jaunpur monument.
-21. **Fatehpur Sikri** is Akbar’s planned capital near Agra. It holds Buland Darwaza and the Ibadat Khana, not Shah Jahan’s Taj.
-22. **Akbarnama** tells the reign story. **Ain-i-Akbari** (आइन-ए-अकबरी) is the administrative and statistical companion. Papers often swap the two titles.
-23. **Zat** ranks the man’s personal status. **Sawar** ranks the horsemen he must maintain. High zat with low sawar is a classic trap pattern.
-24. **Iqta** revenue stayed with the muqti for troops. **Khalsa** revenue went to the treasury under direct officials. Do not call jagirs “direct crown land.”
-25. Persian was the language of farmans, chronicles, and court poetry after Babur. Turki remained Babur’s personal memoir tongue, not later court speech.
-26. **Din-i-Ilahi** never replaced Islam as state religion. **Sulh-i-kul** (सुलह-ए-कुल) is the broader public tolerance policy examined more often than the private cult.
-27. **Jaunpur** Sharqi architecture (शर्की स्थापत्य) is a regional Sultanate style of eastern UP. It is not Delhi Slave or Khalji architecture.
-28. In medieval cultural historiography, **Azizuddin Khan** is noted for translating Sanskrit texts during Firoz Shah (फ़िरोज़ शाह) Tughlaq (फिरोज शाह तुगलक)'s Nagarkot/Kangra (कांगड़ा) campaign (*Dalail-i-Firoz Shahi*); he is distinct from Abul Fazl's Mughal court histories.
+1. **Fatehpur Sikri** (फतेहपुर सीकरी), the **Taj Mahal** (ताज महल), and **Humayun (हुमायूँ)’s Tomb** remain UNESCO World Heritage (विश्व धरोहर) monuments. Tomb–city pairs and **Buland Darwaza** (बुलंद दरवाज़ा) still sit in the standing Mughal (मुग़ल) set.
+2. **Humayun** brought Persian (फ़ारसी) masters **Mir Sayyid (सैयद) Ali** and **Abdus Samad. Akbar** built the **kitabkhana** (किताबखाना) and the illustrated **Razmnama (रज्मनामा). Jahangir (जहाँगीर)** favoured naturalism under painters such as **Mansur**. Under Aurangzeb (औरंगजेब) many painters left the imperial atelier.
+3. **Buland Darwaza** at Fatehpur Sikri marks Akbar’s (अकबर) **Gujarat victory**. It is **not** a monument for Jahangir’s birth in **1569**.
+4. **Babur** wrote his memoir (*Tuzuk-i-Baburi* (तुजुक-ए-बाबरी)) in **Chagatai (चगताई) Turki (तुर्की)**. The Mughal **court language** was **Persian**. Do not swap the two.
+5. **Abul Fazl** (अबुल फजल) wrote the narrative **Akbarnama** (अकबरनामा) and the gazetteer **Ain-i-Akbari (आइन-ए-अकबरी). Faizi (फैजी)** was the court poet. **Nakhshabi** wrote the *Tutinama*.
+6. **Zabt** (जब्त) is measured land assessment. **Dahsala** (दहसाला) is Todar Mal (टोडर मल)’s **ten-year** average revenue system from about **1580**.
+7. **Ibadat Khana** (इबादत खाना) debates began at Fatehpur Sikri in **1575. Sulh-i-kul (सुलह-ए-कुल)** was the public peace policy. **Din-i-Ilahi** (दीन-ए-इलाही) of **1582** was a private fellowship, not a state religion.
+8. **Tulsidas** (तुलसीदास) wrote the Awadhi (अवधी) *Ramcharitmanas* (रामचरितमानस) in Akbar’s age. **Kavindra Acharya** of Banaras is linked to Shah Jahan’s court culture.
+9. **Alai Darwaza** is an Alauddin Khalji (अलाउद्दीन खिलजी) gateway at the Qutub complex. It is not a Sharqi Jaunpur monument.
+10. **Fatehpur Sikri** is Akbar’s planned capital near Agra. It holds Buland Darwaza and the Ibadat Khana, not Shah Jahan’s Taj.
+11. **Akbarnama** tells the reign story. **Ain-i-Akbari** (आइन-ए-अकबरी) is the administrative and statistical companion. Papers often swap the two titles.
+12. **Zat** ranks the man’s personal status. **Sawar** ranks the horsemen he must maintain. High zat with low sawar is a classic trap pattern.
+13. **Iqta** revenue stayed with the muqti for troops. **Khalsa** revenue went to the treasury under direct officials. Do not call jagirs “direct crown land.”
+14. **Din-i-Ilahi** never replaced Islam as state religion. **Sulh-i-kul** (सुलह-ए-कुल) is the broader public tolerance policy examined more often than the private cult.
+15. **Jaunpur** Sharqi architecture (शर्की स्थापत्य) is a regional Sultanate style of eastern UP. It is not Delhi Slave or Khalji architecture.
+16. **Akbar** (अकबर) runs the imperial **kitabkhana**. Indian colour and costume fuse with Persian composition.
+17. **Jahangir** marks the naturalism peak. **Ustad Mansur** is famed for birds and animals.
+18. **Pietra dura** (पिएत्रा ड्यूरा) (*parchin kari*) stone inlay represents the quintessential decorative art of Shah Jahan's monuments, most exquisitely displayed at the Taj Mahal.
+19. **Qutub Minar** (कुतुब मीनार) was started by **Aibak** and finished by **Iltutmish** (इल्तुतमिश). It stands in Delhi.
+20. **Alai Darwaza** is by Alauddin Khalji. It is an early true-arch gateway.
+21. **Sharqi Jaunpur (UP)** is known for **Atala Masjid**. It has a big screen-facade and weak minaret emphasis. It is not a Delhi clone.
+22. **Lal Darwaza Masjid** is at Jaunpur. It is the correct UP pair.
+23. **Adina Masjid** is at **Pandua / Bengal**, not Mandu (मांडू) — the classic unmatched pair in match lists.
+24. **Humayun’s Tomb** stands in **Delhi**. It has a charbagh and a double dome. Haji Begum is associated with it.
+25. **Fatehpur Sikri** was Akbar’s capital (about **1571–1585**). It was abandoned (water).
+26. **Buland Darwaza** is at Fatehpur Sikri. It commemorates the **Gujarat victory (1573)**. It does **not** mark Jahangir’s birth (**1569**).
+27. **Panch Mahal** (पंच महल) is a five-storey open pavilion at Fatehpur Sikri. It is not the victory gate.
+28. **Agra Fort** (आगरा किला) has Akbar’s red-sandstone base. Shah Jahan’s marble palaces stand inside.
+29. **Itimad-ud-Daulah** stands at Agra. It belongs to Nur Jahan (नूरजहाँ)’s father. It uses marble and pietra dura before the Taj.
+30. **Bibi ka Maqbara** (बीबी का मकबरा) is Aurangzeb-era, at Aurangabad. It is called the “Poor man’s Taj.”
+31. **Babur**’s tomb city is **Kabul**.
+32. **Humayun**’s tomb city is **Delhi**.
+33. **Jahangir**’s tomb city is **Lahore**.
+34. **Shah Jahan**’s tomb city is **Agra**.
+35. **Vijayanagara** (capital tradition at **Hampi**) builds large Dravida (द्रविड़) temple complexes, bazaar streets, and royal platforms remembered in the UNESCO Hampi landscape.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Khalsa | Jagir / Iqta | Crown land under **direct** control vs revenue assignment | खालसा / जागीर |
-| Zat | Sawar | Personal rank vs cavalry-contingent rank | जात / सवार |
-| Zabt | Dahsala | Measured assessment vs **10-year** average (Todar Mal) | जब्त / दहसाला |
-| Turki | Persian | Babur’s memoir language vs **Mughal court** language | तुर्की / फ़ारसी |
-| Akbarnama | Ain-i-Akbari | Narrative reign-history vs gazetteer / statistics | अकबरनामा / आइने अकबरी |
-| Sulh-i-kul | Din-i-Ilahi | Public peace policy vs private 1582 fellowship | सुलह-ए-कुल / दीन-ए-इलाही |
-| Buland Darwaza | Jahangir’s birth | Gujarat **victory** gateway vs 1569 birth (not the cause) | बुलंद दरवाज़ा |
-| Iqta | Khalsa | Muqti keeps revenue for troops vs cash to the treasury | इक्ता / खालसा |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. The **court language was Persian**. Babur’s book was in **Turki**.
+2. **Buland Darwaza** marks the **Gujarat victory**, not Jahangir’s birth.
+3. Tomb cities: **Babur** at **Kabul**, **Humayun** at **Delhi**, **Jahangir** at **Lahore**, **Shah Jahan** at **Agra**.
+4. **Khalsa** means **direct** control. **Jagir / iqta** are not direct treasury land.
+5. **Mansab is not hereditary** in Akbar’s system. **Zat** is not **sawar**.
+6. **Din-i-Ilahi is not a state religion.** Sulh-i-kul is the public ethic.
+7. **Khan-i-Khanan** on Bairam is from **Humayun**, not Akbar’s vazir gift.
+8. **Tughlaqnama** is by **Khusrau**, not Ibn Battuta.
+9. **Hamida Banu** is tied to **Humayun**, not Alauddin.
+10. **Adina Masjid** is in **Bengal/Pandua**, not Mandu. **Atala** is at **Jaunpur**.
+11. **Tutinama** is by **Nakhshabi**, not Khusrau.
+12. **Faizi died in 1595.Abul Fazl was murdered in 1602.**
+13. **Tansen** before Akbar was at the court of **Ramchandra of Bhata**.
+14. The **dam** is the copper coin of Sher Shah **and** Akbar.
+15. Iqta revenue is **not** fully parked in the Sultan’s chest. The muqti pays troops from it.
 
 
 ---

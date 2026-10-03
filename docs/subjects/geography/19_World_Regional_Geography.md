@@ -28,7 +28,8 @@ None mandatory — static political-map chapter.
 ---
 
 
-## Consolidated — 33 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 33 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
 2. The **Nobi** and **Kanto** plains are in **Japan**, not Korea.
@@ -66,9 +67,10 @@ None mandatory — static political-map chapter.
 32. USA–Canada land border roughly follows the **49th parallel** in the west. Alaska is USA; Greenland is Denmark politically / North America geographically.
 33. East Asia flash cards: Japan’s **Honshu** is the main island; Korea split near the **38th parallel**; China’s capital is **Beijing** (not Shanghai).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -105,7 +107,7 @@ None mandatory — static political-map chapter.
 | 38th vs 49th parallel | Korea DMZ vs Canada–USA | Swapped | 38° / 49° |
 | Capital ≠ mega-city | Ankara / Canberra / Brasília / Abu Dhabi | Istanbul / Sydney / Rio / Dubai | राजधानी |
 
----
+</details>
 
 ## Must-score facts — capitals, deserts, regional traps
 

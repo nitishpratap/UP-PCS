@@ -23,7 +23,8 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 ---
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Shruti** (श्रुति) is the heard Veda stack of Samhita (संहिता), Brahmana (ब्राह्मण), Aranyaka (आरण्यक), and Upanishad (उपनिषद्). **Smriti** (स्मृति) covers epics, Puranas, Dharmashastra, and related remembered texts.
 2. The four Vedas are **Rig** (ऋग्वेद, hymns), **Sama** (सामवेद, chant), **Yajur** (यजुर्वेद, ritual), and **Atharva** (अथर्ववेद). Shukla Yajurveda is **Vajasaneyi** (वाजसनेयी). Krishna Yajurveda is **Taittiriya** (तैत्तिरीय).
@@ -68,9 +69,10 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 41. Wrong-pair traps: *Devichandraguptam* (देवीचन्द्रगुप्तम्) = **Vishakhadatta** (विशाखदत्त) (not **Bilhana** (बिल्हण)); *Milindapanha* (मिलिंदपन्ह) monk = **Nagasena** (नागसेन) (not Nagarjuna); *Kadambari* (कादंबरी) = **Banabhatta** (बाणभट्ट) (not Subandhu); *Buddhacharita* (बुद्धचरित) = **Ashvaghosha** (अश्वघोष) (not Vasubandhu).
 42. *Mattavilasa Prahasana* (मत्तविलास प्रहसन) is Pallava **Mahendravarman I** (महेन्द्रवर्मन प्रथम). *Gaudavaho* (गौडवहो) is **Vakpati** (वाकपति). *Katantra* (कातंत्र) is **Sarvavarman** (सर्ववर्मन). *Nitisara* (नीतिसार) is **Kamandaka** (कामंदक).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -95,8 +97,7 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 | Pliny | Ptolemy | Natural History vs geography / Almagest | प्लिनी / टॉलेमी |
 | Panini | Patanjali | Ashtadhyayi (earlier) vs Mahabhashya (Shunga link) | पाणिनि / पतंजलि |
 
----
-
+</details>
 
 ## Must-score facts — Vedas, authors, classical languages
 

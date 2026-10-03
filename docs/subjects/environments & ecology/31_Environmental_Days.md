@@ -21,7 +21,8 @@ World Environment (पर्यावरण) Day (विश्व पर्य�
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **World Wetlands Day** falls on **2 February** (रामसर) and marks the **Ramsar (रामसर) Convention (1971)** (रामसर कन्वेंशन). It is not 2 March or 3 March.
 2. **World Wildlife Day** falls on **3 March** and marks the adoption of **CITES (साइट्स) (1973)** (साइट्स). It is **not** 22 March.
@@ -52,9 +53,10 @@ World Environment (पर्यावरण) Day (विश्व पर्य�
 27. Earth Day theme teaching: **2024 = Planet vs. Plastics**. WED **2023 = Beat Plastic Pollution**.
 28. **International Tiger Day** falls on **29 July** and marks the **St Petersburg Tiger Summit (2010)**. It is **not** World Wildlife Day (3 March).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -65,7 +67,8 @@ World Environment (पर्यावरण) Day (विश्व पर्य�
 | **World Ozone Day** | **World Environment Day** | **16 September** (signing of Montreal Protocol 1987) vs **5 June** (Stockholm UNEP foundation) | विश्व ओजोन दिवस (16 सितंबर) / पर्यावरण दिवस (5 जून) |
 | **Earth Day** | **Earth Hour** | Fixed annual civic observance on **22 April** vs WWF voluntary **last Saturday of March** 1-hour lights-off event | पृथ्वी दिवस (22 अप्रैल) / अर्थ आवर (मार्च अंतिम शनिवार) |
 | **World Soil Day** | **World Day to Combat Desertification** | **5 December** (FAO celebration of King Bhumibol's birthday) vs **17 June** (UNCCD adoption anniversary) | विश्व मृदा दिवस (5 दिसंबर) / मरुस्थलीकरण रोकथाम दिवस (17 जून) |
----
+
+</details>
 
 ## Must-score facts — calendar order of key days
 

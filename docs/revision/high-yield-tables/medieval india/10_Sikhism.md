@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 10 — Sikhism</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -33,11 +31,7 @@ hide:
 | Panj Pyare | Ten Gurus | First five Khalsa 1699 vs 1469–1708 line | पंज प्यारे / दस गुरु |
 | Langar | Sangat | Community kitchen vs congregation | लंगर / संगत |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Ten Gurus (दस गुरु) (order)
 
@@ -174,18 +168,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Guru Nanak (गुरु नानक) (1469–1539) founded Sikhism on Ik Onkar, the householder path, langar (लंगर), and sangat (संगत).
-- **Exam Anchor:** The ethical triad is Naam Japna, Kirat Karni, and Vand Chakna.
 - **Exam Anchor:** Mardana (मर्दाना) was Nanak's Muslim rabab companion and disciple, not a Guru.
-- **Exam Anchor:** There are exactly ten human Gurus from Nanak to Gobind Singh (1469–1708); after that the Granth is eternal.
 - **Exam Anchor:** Guru Angad (earlier Bhai Lehna (लेहना)) standardised Gurmukhi; Guru Amar Das organised 22 Manjis and made langar firm at Goindwal.
 - **Exam Anchor:** Akbar (अकबर) granted about 500 bighas (with a pond) to Bibi Bhani, wife of Guru Ram Das; Ramdaspur on that land became Amritsar (अमृतसर).
 - **Exam Anchor:** Guru Arjan (गुरु अर्जन) compiled the Adi Granth (आदि ग्रंथ) in 1604, built Harmandir (हरमंदिर) Sahib (हरमंदिर साहिब), started the Masand (मसंद) tenth, founded Tarn Taran and Kartarpur, and was martyred under Jahangir (जहाँगीर) in 1606 after aiding Khusrau.
 - **Exam Anchor:** Guru Hargobind (हरगोबिंद) introduced miri (मीरी)–piri (पीरी) and built the Akal Takht (अकाल तख़्त); he did not create the Khalsa.
-
-</details>
+- **Exam Anchor:** Guru Tegh Bahadur (गुरु तेग बहादुर) was executed in Delhi in 1675 under Aurangzeb (औरंगजेब).
+- **Exam Anchor:** Guru Gobind Singh (गुरु गोबिंद सिंह) founded the Khalsa at Anandpur (आनंदपुर) on Vaisakhi 1699 with the Panj Pyare (पंज प्यारे).
 
 ---
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 10 — Post-Gupta Period</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -35,11 +33,7 @@ hide:
 | Sung-yun | Fa-Hien | ~518 Wei envoy vs CG II pilgrim ~400 | सुंगयुन / फाह्यान |
 | Harsha | Shankaracharya | 7th c. Kannauj king vs 8th c. Advaita maths | हर्ष / शंकर |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Regional houses after Guptas
 
@@ -176,18 +170,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** After the imperial Guptas break about 550 CE, the Hunas are led first by Toramana, then by Mihirakula of Sakala (Sialkot). Yashodharman of Malwa boasts the Huna check at Mandasor about 532 CE. Vasula is remembered as composer of Yashodharman’s Sondani / Sondhni record.
-- **Exam Anchor:** Regional houses to fact: Pushyabhutis at Thanesar, Maukharis at Kannauj, Later Guptas in Magadha, Maitrakas at Valabhi (वलभी), and Gauda under Shashanka at Karnasuvarna.
 - **Exam Anchor:** Harsha (हर्ष) of the Pushyabhuti house ruled 606–647 CE. He is a post-Gupta reunion king, not a Gupta emperor. Harsha-samvat starts in 606 CE. Founder-memory of the house is Pushyabhuti.
-- **Exam Anchor:** Early capital is Thanesar (Sthaneshvara) in Haryana. Later capital is Kannauj (Kanyakubja) in Uttar Pradesh (उत्तर प्रदेश).
-- **Exam Anchor:** Elder brother Rajyavardhana was killed by Shashanka of Gauda. Sister Rajyashri had married Maukhari Grihavarman of Kannauj; Harsha later rescued her and united the two houses.
-- **Exam Anchor:** Chinese title for Harsha is Siladitya (शीलादित्य). Family memory starts Shaiva; later he is a loud Buddhist patron while still hosting Brahmans. East ally is Bhaskaravarman of Kamarupa.
-- **Exam Anchor:** About 630–634 CE, Pulakeshin II of Badami stopped Harsha at the Narmada (नर्मदा). The boast sits in the Aihole (ऐहोल) inscription of Ravikirti on the Meguti temple.
-- **Exam Anchor:** Harsha held the Kannauj assembly in 643 to honour Xuanzang, and the Prayag Moksha-parishad / Mahamoksha every five years for charity give-aways.
-
-</details>
+- **Exam Anchor:** Banabhatta (बाणभट्ट) is Harsha’s court poet from Pritikuta (Son bank, Bihar tradition / Shravasti belt in notes). He writes ornate Sanskrit prose, not Gupta-age verse drama like Kalidasa (कालिदास). Rajatarangini (राजतरंगिणी) of Kalhana (कल्हण) also carries later Harsha-age memory.
+- **Exam Anchor:** Hiuen Tsang (Xuanzang) was in India about 630–644, studied at Nalanda (नालंदा) under Shilabhadra, and wrote the Si-Yu-Ki. He is Harsha’s Chinese witness, not Fa-Hien.
+- **Exam Anchor:** Sarvavarman–Gaya copper plate is NOT matched. The Gaya plate is Gupta / Samudragupta (समुद्रगुप्त). Sarvavarman’s fact is the Asirgarh seal.
+- **Exam Anchor:** Rajyashri did not marry Dhruvasena of Valabhi. She is Grihavarman’s widow; Maitraka Dhruvasena II was restored as an ally.
+- **Exam Anchor:** I-tsing comes by sea after Harsha (~671–695), studies at Nalanda, and returns via Sumatra.
+- **Exam Anchor:** Pushyabhuti house founder-memory is Pushyabhuti; Harsha’s Chinese title is Siladitya. Do not call Harsha a Gupta emperor.
+- **Exam Anchor:** Banabhatta wrote Harshacharita and Kadambari. Mayura wrote Suryashataka.
 
 ---
 

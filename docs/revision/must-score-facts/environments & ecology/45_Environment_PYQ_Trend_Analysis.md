@@ -11,45 +11,21 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 45 — Environment (पर्यावरण) PYQ Trend Analysis</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Recent UPPCS papers give roughly **15–20 tagged environment marks** most years. Planning for only 8–10 is outdated.
-2. Tagged volume rose from about **12** questions (2018–20 average) to about **17.7** (2023–25 average).
-3. **2023** was the peak tagged year (**25** questions). **2025** stayed strong at **19**.
-4. **2020** and **2024** dips in tagged count still hide cross-subject environment leakage in Economy and Geography.
-5. The hottest topic cluster by frequency is **SDGs and sustainable development**, then **pollution**, then **ecology (पारिस्थितिकी) and ecosystem (पारिस्थितिकी तंत्र)**.
-6. Climate change (जलवायु परिवर्तन), wildlife conservation (वन्यजीव संरक्षण), biodiversity, biosphere reserves (जैवमंडल आरक्षित क्षेत्र), forests/ISFR, and Ramsar (रामसर)–UP traps also stay hot.
-7. From **2023–2025**, rising lines include SDGs, wildlife, biodiversity, biosphere, forests, and current schemes such as LiFE and MISHTI.
-8. The **2025** environment paper shifted toward **multi-statement, A/R, Match, and NOT-matched** formats — about two-thirds (ते-भागा) multi-format.
-9. Practice must include two-statement and Assertion–Reason drills, not only one-line date or HQ recall.
-10. 2025 blueprint clusters cover SDGs, current schemes, UP geography traps, ecology indicators, and international reports or funds.
-11. Scheme year traps: **LiFE** idea **COP-26 2021** / launch **June 2022** — not COP-25. **MISHTI** = **2023** Budget — not 2019.
-12. **DPAP = 1973**. India **net zero = 2070**. **GEF = 1991**. **Montreal = ozone**. **Kyoto (क्योटो)/Paris = climate**.
-13. UP negative geography repeats: Rudrasagar = Tripura; Sultanpur = Haryana; Nokrek ≠ Manipur; many “UP BR” claims are false.
-14. True environment ROI is higher than tagged count because reports and protected-area facts leak into other GS subjects.
-15. Study ROI priority puts SDGs and UP protected-area traps near the top, then current issues, ecology, climate/pollution, and treaties.
-16. Emissions Gap Report (उत्सर्जन अंतराल रिपोर्ट) = **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) remains a cross-subject economy–environment fact.
-17. Format formula after 2025: prepare heavily for multi-statement and Match/NOT-matched, with a smaller share of pure direct MCQs.
-18. Volume formula for the next attempt: budget about **15–20 tagged** plus a few cross-subject environment hits.
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **UPPCS Direct Questions** | **2024–2025 Multi-Statement Format** | Historical single-line factual recall questions vs modern complex Assertion-Reasoning, 4-statement matching, and chronological order puzzles | प्रत्यक्ष स्मृति प्रश्न / बहु-कथनीय कूट प्रारूप |
-| **Dedicated Environment Questions** | **True Environmental Weightage** | Official subject classification (~10–12 questions) vs actual interdisciplinary paper presence (~18–22 questions when counting geography/economy overlaps) | प्रत्यक्ष पर्यावरण प्रश्न / वास्तविक विषय भारांक |
-| **MISHTI Scheme (2023)** | **Mangrove Alliance for Climate (2022)** | Indian Union Budget 2023–24 programme for coastline mangrove plantation via MGNREGA/CAMPA vs international climate initiative launched by UAE and Indonesia at COP27 Sharm el-Sheikh | मिष्टी योजना (बजट 2023) / मैंग्रोव गठबंधन (MAC) |
-| **Nokrek Biosphere Reserve** | **Keibul Lamjao National Park** | Biosphere Reserve located in Garo Hills, **Meghalaya** (zero BRs in UP) vs floating National Park on Loktak Lake, **Manipur** | नोकरेक (मेघालय) / केइबुल लामजाओ (मणिपुर) |
-| **Kigali Amendment (2016)** | **Paris Agreement (2015)** | Binding phase-down of Hydrofluorocarbons (HFCs) under the Montreal Protocol vs global climate framework under UNFCCC capping warming at 1.5°C | किगाली संशोधन (एचएफसी कटौती) / पेरिस समझौता |
-| **Stockholm 1972** | **Stockholm 2001** | First UN global conference on the environment giving birth to UNEP vs binding international treaty banning Persistent Organic Pollutants (POPs) | स्टॉकहोम सम्मेलन (1972) / स्टॉकहोम संधि (2001) |
-| **National Green Tribunal (NGT)** | **Central Pollution Control Board (CPCB)** | Specialized judicial tribunal established under NGT Act 2010 for environmental disputes vs statutory executive regulatory board established under Water Act 1974 | राष्ट्रीय हरित अधिकरण (न्यायिक) / सीपीसीबी (कार्यकारी बोर्ड) |
-
-</details>
+1. **2023** was the peak tagged year (**25** questions). **2025** stayed strong at **19**.
+2. **2020** and **2024** dips in tagged count still hide cross-subject environment leakage in Economy and Geography.
+3. **DPAP = 1973**. India **net zero = 2070**. **GEF = 1991**. **Montreal = ozone**. **Kyoto (क्योटो)/Paris = climate**.
+4. **Early period (2018–20):** average **12 questions** per paper.
+5. **Recent period (2023–25):** average **17.7 questions** per paper, **+47% increase**.
+6. ** planning rule:** budget **15–20 environment marks** in every attempt. Treating env as a 8-question afterthought is outdated.
+7. **2020 and 2024 dips** are anomalies. Cross-subject env-adjacent questions (Economy reports, Geography protected areas) keep true environment ROI higher than tagged count alone.
+8. **2-statement correct?** — Scheme years, treaty purposes, pollution facts
+9. **A/R** — SDGs, overgrazing→desertification, ecological concepts
+10. **Match List-I / II** — SDG ↔ goal; org ↔ report; erosion ↔ landform
+11. **NOT in UP / NOT in India** — Ramsar, sanctuaries, biosphere reserves
+12. **NOT correctly matched** — Treaty ↔ wrong purpose; wrong HQ; wrong year
+13. **Direct MCQ** — Movement identification; report publisher; single fact
 
 
 ---

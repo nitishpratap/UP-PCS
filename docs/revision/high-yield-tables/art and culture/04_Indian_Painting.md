@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 4 — Indian Painting</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -31,11 +29,7 @@ hide:
 | Srikalahasti Kalamkari | Machilipatnam Kalamkari | Temple kalam (pen) religious vs block-print trade cloth | श्रीकालहस्ती / मछलीपट्टनम |
 | Jogimara | Ajanta | Earliest secular fresco (Ramgarh, CG) vs Buddhist narrative peak | जोगीमारा / अजंता |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Prehistoric / mural
 
@@ -96,18 +90,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** Pithora (पिथौरा) painting of the Rathwa of Gujarat saw a GI-led livelihood push in 2025–26. It is folk wall art. It is not a Mughal school.
+- **Exam Anchor:** Madhubani (मधुबनी) carries a GI tag. It is not a UNESCO Intangible Cultural Heritage element.
 - **Exam Anchor:** Bhimbetka (भीमबेटका) rock shelters are in Raisen, Madhya Pradesh. V.S. Wakankar demonstrated their prehistoric importance in 1957. They are UNESCO 2003, not fresco.
-- **Exam Anchor:** The Jogimara (जोगीमारा) cave at Ramgarh in Chhattisgarh, dating to about the 3rd–1st century BCE, contains the earliest surviving Indian frescoes, depicting secular dance and theatrical scenes rather than Buddhist narrative cycles.
 - **Exam Anchor:** Mirzapur–Sonbhadra holds the main UP prehistoric rock-art belt. Bagh caves are in Madhya Pradesh, not UP.
-- **Exam Anchor:** The Shadanga six limbs are Rupabheda (रूपभेद), Pramanam (प्रमाणम्) (proportion), Bhava (भाव) (emotion), Lavanyam (grace), Sadrisyam (likeness), and Varnikabhangam (वर्णिकाभंगम्) (colour and brush).
-- **Exam Anchor:** Ajanta is famous for paintings. Ellora is famous for sculpture, especially Kailasa. Do not swap the two.
-- **Exam Anchor:** Ajanta Cave 1 holds Padmapani and Vajrapani. Cave 16 holds the Dying Princess / Mahajanaka theme. Cave 17 holds Vessantara. Rediscovery is linked to John Smith in 1819.
-- **Exam Anchor:** Other celebrated mural sites across India include Bagh in Madhya Pradesh, Badami (बादामी) in Karnataka, the Jain cave of Sittanavasal in Tamil Nadu, Brihadeeswara (बृहदीश्वर) Chola frescoes at Thanjavur, Lepakshi in Andhra Pradesh, traditional Kerala temple murals, and the Himalayan Buddhist wall paintings at Alchi and Tabo.
-- **Exam Anchor:** Emperor Akbar’s imperial atelier produced major illustrated manuscript projects including the Hamzanama (हम्जानामा) (an adventure cycle painted on cloth across ~1,400 folios), the Tuti-nama, and the Persian Mahabharata (Razmnama (रज्मनामा)), led by master painters such as Daswanth and Basawan.
-
-</details>
+- **Exam Anchor:** Rajput painting is Rajasthan princely and bhakti / ragamala based. Pahari painting is Himalayan hill painting. Kangra is hills, not Rajasthan plains.
+- **Exam Anchor:** Garhwal is a Pahari school. Mola Ram (मोला राम) is its named master. The line begins with Shyamdas and Hardas as Tasbirdar at Srinagar Garhwal in 1658.
+- **Exam Anchor:** Tanjore painting uses gold foil and gems on wood. Mysore painting uses finer gesso and is less gem-studded.
+- **Exam Anchor:** Srikalahasti Kalamkari is temple pen-work. Machilipatnam Kalamkari is block-printed trade cloth.
 
 ---
 

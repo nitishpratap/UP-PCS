@@ -37,7 +37,8 @@
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Centre–State rules sit mainly in **Part XI** (legislative and administrative, **245–263**), **Part XII** (finance, **264–293** slice), and **Part XIII** (trade, **301–307**). The **7th Schedule** carries the Union, State, and Concurrent Lists.
 2. Under **Article 246**, Union List prevails over Concurrent, and Concurrent prevails over State List. Residuary powers, including residuary taxation, belong to the **Union** under **Article 248** and Union List **Entry 97** — unlike the US model where residuary powers lie with the states.
@@ -70,9 +71,10 @@
 29. Profession tax under **Article 276** has a constitutional ceiling (figure **₹2,500** after the **60th Amendment**). Jute export-duty grants under **273** go to Assam, Bihar, Odisha, and West Bengal.
 30. Border and inter-State settlements are often political (Union Home Minister plus Chief Ministers), not automatic **Article 131** cases. Read whether a **legal right** is pleaded before jumping to the Supreme Court’s original jurisdiction.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
@@ -87,7 +89,7 @@
 | **Art. 131** | **Art. 262** | SC original for Union/State **legal** disputes | Water: Parliament **may bar** courts — **1956 Act did** |
 | **Sarkaria** | **Rajamannar** | Strong Centre; keep AIS & 356; ISC **done** | Residuary to States; **abolish AIS**; **repeal 356** |
 
----
+</details>
 
 ## Must-score facts — Lists, 249–263, Finance
 

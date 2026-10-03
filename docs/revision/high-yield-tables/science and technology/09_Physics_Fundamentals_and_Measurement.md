@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 1 — Physics Fundamentals, Measurement and Instruments</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Quantities / Instruments | Key Distinction & Trap Alert |
 |---|---|
@@ -31,11 +29,7 @@ hide:
 | **Odometer vs Speedometer vs Tachometer** | **Odometer** records total *distance travelled* by vehicle. **Speedometer** displays instantaneous *linear speed*. **Tachometer** measures shaft *rotational speed (RPM)*. |
 | **Fathometer vs Sextant** | **Fathometer** measures *ocean depth* using acoustics. **Sextant** measures *angular altitude* of celestial bodies above the horizon. |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 #### A. The Seven SI Base Units (2019 BIPM Anchor Constants)
 
@@ -293,18 +287,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** BIPM 2019 SI Redefinition (Effective May 20, 2019): All 7 base units are now anchored to fixed numerical values of fundamental physical constants:
+- **Exam Anchor:** New SI Prefixes (27th CGPM, Versailles, 2022):
+- **Exam Anchor:** Solar Constant & TSIS-1 (NASA Consensus): Total Solar Irradiance (TSI) received at $1\text{ AU}$ outside Earth's atmosphere is standardized at $1361.6 \pm 0.3\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$ (measured by TSIS-1 / SORCE; varies by $\sim 0.1\%$ over the 11-year solar sunspot cycle).
+- **Exam Anchor:** MEMS Accelerometers in Modern Tech (IAS 2023 Fact): Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
 - **Exam Anchor:** Four Systems of Units: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
 - **Exam Anchor:** Seven Fundamental Quantities: Length ($m$), Mass ($kg$), Time ($s$), Electric Current ($A$), Thermodynamic Temperature ($K$), Luminous Intensity ($cd$), Amount of Substance ($mol$).
 - **Exam Anchor:** Supplementary Units: Plane angle (Radian, $rad = m/m$, dimensionless), Solid angle (Steradian, $sr = m^2/m^2$, dimensionless).
 - **Exam Anchor:** 22 SI Derived Units with Special Names: Radian ($rad$), Steradian ($sr$), Hertz ($Hz$), Newton ($N$), Pascal ($Pa$), Joule ($J$), Watt ($W$), Coulomb ($C$), Volt ($V$), Farad ($F$), Ohm ($\Omega$), Siemens ($S$), Weber ($Wb$), Tesla ($T$), Henry ($H$), Degree Celsius ($^\circ C$), Lumen ($lm$), Lux ($lx$), Becquerel ($Bq$), Gray ($Gy$), Sievert ($Sv$), Katal ($kat$).
-- **Exam Anchor:** Katal ($kat$): SI unit of catalytic activity ($1\text{ kat} = 1\text{ mol/s}$ of substrate converted).
-- **Exam Anchor:** Tesla ($T$): SI unit of magnetic flux density ($B$-field). $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m) = 1\text{ kg}\cdot s^{-2}\cdot A^{-1} = 10^4\text{ Gauss}$.
-- **Exam Anchor:** Magnetic Field Strength ($H$) vs Flux Density ($B$): Unit of $H$ is Ampere per metre ($A/m$); unit of $B$ is Tesla ($T$).
-- **Exam Anchor:** Electrical Resistivity ($\rho$): SI unit is Ohm-metre ($\Omega\cdot m$), from $R = \rho l / A \implies \rho = RA/l$.
-
-</details>
 
 ---
 
@@ -316,10 +308,86 @@ hide:
 
 Which of the following is correct regarding this topic?
 
-A. Four Systems of Units: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
+A. BIPM 2019 SI Redefinition (Effective May 20, 2019): All 7 base units are now anchored to fixed numerical values of fundamental physical constants:
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **BIPM 2019 SI Redefinition (Effective May 20, 2019)**: All 7 base units are now anchored to fixed numerical values of fundamental physical constants:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q2.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, New applies only to union territories and not state jurisdictions.
+B. New SI Prefixes (27th CGPM, Versailles, 2022):
+C. None of the above statements are correct according to official Commission keys.
+D. Recognized by UNESCO under World Heritage natural criteria
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **New SI Prefixes (27th CGPM, Versailles, 2022)**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q3.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Solar applies only to union territories and not state jurisdictions.
+B. Recognized by UNESCO under World Heritage natural criteria
+C. Solar Constant & TSIS-1 (NASA Consensus): Total Solar Irradiance (TSI) received at $1\text{ AU}$ outside Earth's atmosphere is standardized at $1361.6 \pm 0.3\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$ (measured by TSIS-1 / SORCE; varies by $\sim 0.1\%$ over the 11-year solar sunspot cycle).
+D. Enacted under Article 356 of the Constitution of India
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Solar Constant & TSIS-1 (NASA Consensus)**: Total Solar Irradiance (TSI) received at $1\text{ AU}$ outside Earth's atmosphere is standardized at **$1361.6 \pm 0.3\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$** (measured by TSIS-1 / SORCE; varies by $\sim 0.1\%$ over the 11-year solar sunspot cycle).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q4.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, MEMS applies only to union territories and not state jurisdictions.
+B. Enacted under Article 356 of the Constitution of India
+C. None of the above statements are correct according to official Commission keys.
+D. MEMS Accelerometers in Modern Tech (IAS 2023 Fact): Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **MEMS Accelerometers in Modern Tech (IAS 2023 Fact)**: Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q5.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Four Systems of Units: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
+B. Reported by the Law Commission in its 214th consultation paper
+C. None of the above statements are correct according to official Commission keys.
+D. Amended by the 44th Constitutional Amendment Act
 
 <details>
 <summary>Show answer</summary>
@@ -331,14 +399,14 @@ D. It was established during the First Five-Year Plan period
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q2.** in Science & Technology, consider the following statement:
+**Q6.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Seven applies only to union territories and not state jurisdictions.
 B. Seven Fundamental Quantities: Length ($m$), Mass ($kg$), Time ($s$), Electric Current ($A$), Thermodynamic Temperature ($K$), Luminous Intensity ($cd$), Amount of Substance ($mol$).
 C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+D. Excavated primarily in the Belan and Son River valleys
 
 <details>
 <summary>Show answer</summary>
@@ -350,14 +418,14 @@ D. Recognized by UNESCO under World Heritage natural criteria
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q3.** in Science & Technology, consider the following statement:
+**Q7.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Supplementary applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
+B. Excavated primarily in the Belan and Son River valleys
 C. Supplementary Units: Plane angle (Radian, $rad = m/m$, dimensionless), Solid angle (Steradian, $sr = m^2/m^2$, dimensionless).
-D. Enacted under Article 356 of the Constitution of India
+D. Classified under Schedule VII List II (State List)
 
 <details>
 <summary>Show answer</summary>
@@ -369,12 +437,12 @@ D. Enacted under Article 356 of the Constitution of India
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q4.** in Science & Technology, consider the following statement:
+**Q8.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, 22 applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
+B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
 D. 22 SI Derived Units with Special Names: Radian ($rad$), Steradian ($sr$), Hertz ($Hz$), Newton ($N$), Pascal ($Pa$), Joule ($J$), Watt ($W$), Coulomb ($C$), Volt ($V$), Farad ($F$), Ohm ($\Omega$), Siemens ($S$), Weber ($Wb$), Tesla ($T$), Henry ($H$), Degree Celsius ($^\circ C$), Lumen ($lm$), Lux ($lx$), Becquerel ($Bq$), Gray ($Gy$), Sievert ($Sv$), Katal ($kat$).
 
@@ -388,14 +456,14 @@ D. 22 SI Derived Units with Special Names: Radian ($rad$), Steradian ($sr$), Her
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q5.** in Science & Technology, consider the following statement:
+**Q9.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Katal ($kat$): SI unit of catalytic activity ($1\text{ kat} = 1\text{ mol/s}$ of substrate converted).
-B. Reported by the Law Commission in its 214th consultation paper
+B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
+D. Statement I is correct but Statement II is incorrect
 
 <details>
 <summary>Show answer</summary>
@@ -407,14 +475,14 @@ D. Amended by the 44th Constitutional Amendment Act
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q6.** in Science & Technology, consider the following statement:
+**Q10.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Tesla applies only to union territories and not state jurisdictions.
 B. Tesla ($T$): SI unit of magnetic flux density ($B$-field). $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m) = 1\text{ kg}\cdot s^{-2}\cdot A^{-1} = 10^4\text{ Gauss}$.
 C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
+D. Both statements are true and explain the phenomenon
 
 <details>
 <summary>Show answer</summary>
@@ -426,14 +494,14 @@ D. Excavated primarily in the Belan and Son River valleys
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
+**Q11.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Magnetic applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
+B. Both statements are true and explain the phenomenon
 C. Magnetic Field Strength ($H$) vs Flux Density ($B$): Unit of $H$ is Ampere per metre ($A/m$); unit of $B$ is Tesla ($T$).
-D. Classified under Schedule VII List II (State List)
+D. It was established during the First Five-Year Plan period
 
 <details>
 <summary>Show answer</summary>
@@ -445,12 +513,12 @@ D. Classified under Schedule VII List II (State List)
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q8.** in Science & Technology, consider the following statement:
+**Q12.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Electrical applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
+B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
 D. Electrical Resistivity ($\rho$): SI unit is Ohm-metre ($\Omega\cdot m$), from $R = \rho l / A \implies \rho = RA/l$.
 
@@ -464,14 +532,14 @@ D. Electrical Resistivity ($\rho$): SI unit is Ohm-metre ($\Omega\cdot m$), from
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q9.** in Science & Technology, consider the following statement:
+**Q13.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Electrical Conductance ($G$) & Conductivity ($\sigma$): Conductance unit is Siemens ($S = \Omega^{-1}$ or Mho); Conductivity unit is Siemens per metre ($S/m$ or $\Omega^{-1}\cdot m^{-1}$).
-B. Originated during the Later Vedic transitional period
+B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
+D. Enacted under Article 356 of the Constitution of India
 
 <details>
 <summary>Show answer</summary>
@@ -483,14 +551,14 @@ D. Statement I is correct but Statement II is incorrect
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q10.** in Science & Technology, consider the following statement:
+**Q14.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Capacitance: applies only to union territories and not state jurisdictions.
 B. Capacitance: SI unit is Farad ($F = C/V$). (Note: Faraday is a unit of electric charge: $1\text{ Faraday} \approx 96,485\text{ C}$).
 C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
+D. Reported by the Law Commission in its 214th consultation paper
 
 <details>
 <summary>Show answer</summary>
@@ -502,89 +570,13 @@ D. Both statements are true and explain the phenomenon
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q11.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Radioactivity applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Radioactivity Units: SI unit is Becquerel ($Bq = 1\text{ disintegration/s}$). Historical unit is Curie ($Ci = 3.7 \times 10^{10}\text{ Bq}$). Rutherford ($Rd = 10^6\text{ Bq}$).
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Radioactivity Units**: SI unit is **Becquerel** ($Bq = 1\text{ disintegration/s}$). Historical unit is **Curie** ($Ci = 3.7 \times 10^{10}\text{ Bq}$). Rutherford ($Rd = 10^6\text{ Bq}$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q12.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Radiation applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Radiation Absorbed Dose vs Dose Equivalent: Absorbed dose is Gray ($Gy = 1\text{ J/kg} = 100\text{ rad}$). Equivalent/effective biological dose is Sievert ($Sv = 1\text{ J/kg} = 100\text{ rem}$).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Radiation Absorbed Dose vs Dose Equivalent**: Absorbed dose is **Gray** ($Gy = 1\text{ J/kg} = 100\text{ rad}$). Equivalent/effective biological dose is **Sievert** ($Sv = 1\text{ J/kg} = 100\text{ rem}$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q13.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Light-Year ($ly$): Unit of astronomical distance (NOT time). Distance travelled by light in vacuum in 1 Julian year ($365.25\text{ days} \times 86,400\text{ s}$). $1\text{ ly} = 9.46073 \times 10^{15}\text{ m} \approx 9.461 \times 10^{15}\text{ m} \approx 9.46 \times 10^{12}\text{ km}$.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. None of the above statements are correct according to official Commission keys.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Light-Year ($ly$)**: Unit of **astronomical distance** (NOT time). Distance travelled by light in vacuum in 1 Julian year ($365.25\text{ days} \times 86,400\text{ s}$). $1\text{ ly} = 9.46073 \times 10^{15}\text{ m} \approx 9.461 \times 10^{15}\text{ m} \approx 9.46 \times 10^{12}\text{ km}$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q14.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Why applies only to union territories and not state jurisdictions.
-B. Why Astronomical Distances are Measured in Light-Years: The speed of light ($c$) is constant throughout the universe in a vacuum (unaffected by gravity or motion of medium).
-C. None of the above statements are correct according to official Commission keys.
-D. Reported by the Law Commission in its 214th consultation paper
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Why Astronomical Distances are Measured in Light-Years**: The speed of light ($c$) is constant throughout the universe in a vacuum (unaffected by gravity or motion of medium).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
 **Q15.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Astronomical applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Radioactivity applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Astronomical Unit ($AU$): Average distance between center of Earth and center of Sun. $1\text{ AU} = 1.495978707 \times 10^{11}\text{ m} \approx 1.496 \times 10^{11}\text{ m} \approx 149.6\text{ million km}$.
+C. Radioactivity Units: SI unit is Becquerel ($Bq = 1\text{ disintegration/s}$). Historical unit is Curie ($Ci = 3.7 \times 10^{10}\text{ Bq}$). Rutherford ($Rd = 10^6\text{ Bq}$).
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -593,6 +585,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Astronomical Unit ($AU$)**: Average distance between center of Earth and center of Sun. $1\text{ AU} = 1.495978707 \times 10^{11}\text{ m} \approx 1.496 \times 10^{11}\text{ m} \approx 149.6\text{ million km}$.
+- **Key Exam Association:** **Radioactivity Units**: SI unit is **Becquerel** ($Bq = 1\text{ disintegration/s}$). Historical unit is **Curie** ($Ci = 3.7 \times 10^{10}\text{ Bq}$). Rutherford ($Rd = 10^6\text{ Bq}$).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

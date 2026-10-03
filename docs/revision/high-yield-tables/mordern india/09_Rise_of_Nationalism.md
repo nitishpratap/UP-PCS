@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 9 — Rise of Nationalism</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -32,11 +30,7 @@ hide:
 | Safety Valve theory | National awakening view | Hume as a British-designed vent for discontent vs Congress as the natural culmination of decades of Indian political work | सेफ्टी वाल्व / राष्ट्रीय जागरण |
 | Lajpat Rai's Mandalay | Tilak's Mandalay | Six-month deportation, 1907 vs six-year sedition sentence, 1908–14 | लाजपत राय / तिलक मंडाले |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 | # | Year | Place | President | The one fact |
 |---|------|-------|-----------|---------------|
@@ -250,18 +244,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The East India Association was founded in 1866 in London by Dadabhai Naoroji. It is not the Calcutta Indian Association of 1876.
-- **Exam Anchor:** The pre-INC chronology four (चातुर्याम) run East India Association (1866) → National Indian Association (1870) → Indian Society (1872) → Indian Association (1876).
-- **Exam Anchor:** The Indian Association was founded in 1876 at Calcutta by Surendranath Banerjee (बनर्जी) and Ananda Mohan Bose.
-- **Exam Anchor:** The Poona Sarvajanik Sabha (1870, Ranade–Joshi circle) is a Deccan (दक्कन) public body. The Bombay Presidency Association is 1885 (Mehta, Telang, Tyabji).
-- **Exam Anchor:** The Indian National Congress first met on 28 December 1885 at Gokuldas Tejpal Sanskrit College, Bombay. A.O. Hume organised it; W.C. Bonnerjee was the first President; about 72 delegates attended.
 - **Exam Anchor:** Safety Valve Theory (सेफ्टी वाल्व) treats Hume as a British vent for discontent. The rival view is that Congress grew from decades of Indian political work.
 - **Exam Anchor:** Badruddin Tyabji (Madras 1887) was the first Muslim Congress President. George Yule (Allahabad (इलाहाबाद) 1888) was the first English President.
 - **Exam Anchor:** Vande Mataram was sung at the Calcutta Congress of 1896. Jana Gana Mana (माना) was sung at Calcutta in 1911.
-
-</details>
+- **Exam Anchor:** Annie Besant (बेसेंट) (Calcutta 1917) was the first woman Congress President. Sarojini Naidu (Kanpur (कानपुर) 1925) was the first Indian woman President.
+- **Exam Anchor:** Belgaum 1924 (बेलगाव) is Gandhi (गांधी)’s only Congress presidentship. Lahore 1929 (लाहौर) (Nehru (नेहरू)) passed Purna Swaraj (पूर्ण स्वराज).
+- **Exam Anchor:** Karachi 1931 (Patel) adopted (अंगीकृत) the Fundamental Rights (मौलिक अधिकार) resolution. Faizpur 1937 was the first village Congress session.
+- **Exam Anchor:** Subhas Chandra Bose (सुभाष चंद्र बोस) presided at Haripura 1938 and Tripuri 1939. Abul Kalam Azad presided at Ramgarh 1940.
+- **Exam Anchor:** Bal Gangadhar Tilak (बाल गंगाधर तिलक) never presided over any INC session. Gokhale (गोखले) did preside (Banaras 1905).
 
 ---
 

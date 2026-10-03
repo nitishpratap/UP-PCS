@@ -12,7 +12,8 @@
 
 UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. India was the **first country in the world** to launch an official National Family Planning Programme in **1952**.
 2. **Total Fertility Rate (TFR)** is the average number of children a woman would bear in her lifetime given current age-specific fertility rates.
@@ -65,9 +66,10 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 49. The **National Health Policy (NHP) 2017** set the target of raising government public health spending to **2.5% of GDP by 2025**.
 50. **Sample Registration System (SRS)** under the Registrar General of India publishes the official annual data for CBR, CDR, IMR, TFR, and MMR in India.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **Lowest TFR State**: **Sikkim (1.1)** | **Highest TFR State**: **Bihar (3.0)** | **Trap**: Sikkim has the lowest TFR in India (1.1), far below replacement. Bihar is the highest (3.0). |
 | **SDG Target 3.1 for MMR**: Less than **70 per 100,000 live births by 2030** | **Current India MMR (SRS 2018–20)**: **97 per 100,000 live births** | **Trap**: India has reduced MMR from 130 to 97, and is on track to achieve the SDG target of $< 70$ by 2030. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

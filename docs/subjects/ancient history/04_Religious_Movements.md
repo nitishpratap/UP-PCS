@@ -15,7 +15,8 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 ---
 
-## Consolidated — 48 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 48 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Shramana** (श्रमण) renouncer traditions (often **nastika** (नास्तिक) / नास्तिक - non-Vedic) include Buddhism, Jainism, Ajivika, and Charvaka. **Astika** (आस्तिक) schools accept the authority of the Veda.
 2. Buddha’s life geography runs **Lumbini** (birth) → **Bodh Gaya** (enlightenment / सम्बोधि) → **Sarnath** first sermon (**Dharmachakrapravartana** / धर्मचक्रप्रवर्तन - UP) → **Kushinagar** Mahaparinirvana (**Mahaparinirvana** / महापरिनिर्वाण - UP).
@@ -66,7 +67,7 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 47. Jain **Chaturyama** (four vows of Parshva) plus Mahavira’s added **brahmacharya** make the **Pancha Mahavrata**. **Tattvartha Sutra** is accepted by both Digambara and Svetambara.
 48. **First Council** (Rajagriha, Ajatashatru, Mahakassapa) compiles Sutta–Vinaya; **Second** (Vaishali) splits Sthavira / Mahasanghika; **Third** (Pataliputra, Ashoka, Moggaliputta) adds Abhidhamma / missions; **Fourth** (Kundalvana, Kanishka, Vasumitra) seals Mahayana–Hinayana memory.
 
----
+</details>
 
 ## Council order spines
 
@@ -104,7 +105,8 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 ---
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -131,7 +133,7 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 | Anatta | Jiva | Buddhism: **no** permanent soul vs Jainism: **real** soul | अनात्मा / जीव |
 | Pataliputra (Jain) | Vallabhi | Early Magadhan compilation / Sthulabhadra vs **final Svetambara canon** | पाटलिपुत्र / वल्लभी |
 
----
+</details>
 
 ## Must-score facts — Buddha life, councils, Jain tags
 

@@ -26,7 +26,8 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 ---
 
 
-## Consolidated — 40 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 40 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The Indus Valley Civilization is a **Bronze Age urban** culture. The Mature phase is about **2600–1900 BCE**. Early is roughly **3300–2600 BCE** and Late about **1900–1300 BCE**.
 2. It is also called **Harappan** after the first excavated site. The economy type in match-lists is **Urban**, not pastoral. Pastoral belongs to the Rigvedic age.
@@ -69,9 +70,10 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 39. Weights follow a binary then decimal series with a key unit near **16**. Trade seals are often **steatite**; the most common animal motif is the **unicorn**.
 40. **Mandi** (Muzaffarnagar jewellery / treasure find) and **Hulas** (Saharanpur) are the usual UP Harappan pair in stems. **Sanauli** is Baghpat Late Harappan / OCP — add it only when chariots or coffins are asked.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -91,6 +93,8 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 ---
 
 ![img_1.png](img_1.png)
+
+</details>
 
 ## Must-score facts — site, excavator, UP trio
 

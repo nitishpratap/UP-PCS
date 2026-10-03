@@ -11,9 +11,23 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Economy Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **2025 (UPPCS)** | Match 11th–14th FC chairmen: **Khusro → Rangarajan → Kelkar → Y.V. Reddy**. | Rangarajan/Reddy swap is the trap. |
+| **2025 (CA)** | GST Council / Union path toward a simplified rate structure (merit / standard / demerit lanes) after multi-slab years. | Destination GST + Council process still the constitutional spine. |
+| **2024** | GST introduced by the **101st** Amendment (not 73rd / 86th / 91st). | Repeated Amendment stem. |
+| **2024** | CFI **266** · FC **280** · Financial Emergency **360** · CAG **148**. | Article-match table. |
+| **2023** | FC = Chair + **four** members; report goes to the **President**, not NITI. | Both “six members” and “NITI report” fail. |
+| **15th FC period** | Vertical devolution tagged **41%** for States (14th had raised share to **42%**). | Do not swap 42 / 41. |
+| **Budget process** | Annual Financial Statement is laid by the **Finance Minister on behalf of the President** (Art. 112) — not the Prime Minister. | IAS 2024 trap. |
+| **Gender Budget** | First introduced in Union Budget **2005–06**. | Year stem. |
+| **FRBM statements** | **Macro-Economic Framework Statement** is mandated by the **FRBM Act, 2003** (not Art. 112/110 alone). | IAS 2020. |
+
+---
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -40,26 +54,6 @@ hide:
 | **Gender Budget 2005–06** | **TEC India / Saptarishi themes** | First gender statement year vs later Budget slogans |
 | **ZBB origin USA** | **ZBB first India dept (DST 1980s)** | Country of origin vs Indian adoption |
 | **Marketism without exit** | **Socialism with limited entry** | Chakravyuha Survey key vs the starting regime |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2025 (UPPCS)** | Match 11th–14th FC chairmen: **Khusro → Rangarajan → Kelkar → Y.V. Reddy**. | Rangarajan/Reddy swap is the trap. |
-| **2025 (CA)** | GST Council / Union path toward a simplified rate structure (merit / standard / demerit lanes) after multi-slab years. | Destination GST + Council process still the constitutional spine. |
-| **2024** | GST introduced by the **101st** Amendment (not 73rd / 86th / 91st). | Repeated Amendment stem. |
-| **2024** | CFI **266** · FC **280** · Financial Emergency **360** · CAG **148**. | Article-match table. |
-| **2023** | FC = Chair + **four** members; report goes to the **President**, not NITI. | Both “six members” and “NITI report” fail. |
-| **15th FC period** | Vertical devolution tagged **41%** for States (14th had raised share to **42%**). | Do not swap 42 / 41. |
-| **Budget process** | Annual Financial Statement is laid by the **Finance Minister on behalf of the President** (Art. 112) — not the Prime Minister. | IAS 2024 trap. |
-| **Gender Budget** | First introduced in Union Budget **2005–06**. | Year stem. |
-| **FRBM statements** | **Macro-Economic Framework Statement** is mandated by the **FRBM Act, 2003** (not Art. 112/110 alone). | IAS 2020. |
 
 ---
 
@@ -151,7 +145,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Public finance studies how government raises revenue, spends, borrows and manages debt for public purposes.
 - **Exam Anchor:** Revenue receipts are regular, non-debt receipts — tax and non-tax — that do not create a liability or reduce assets.
@@ -160,9 +154,7 @@ hide:
 - **Exam Anchor:** Capital expenditure creates assets or reduces liabilities (infrastructure, equity infusion, loan repayments as capital).
 - **Exam Anchor:** Tax revenue includes income tax, corporation tax, GST, customs and residual Union excise where applicable.
 - **Exam Anchor:** Non-tax revenue includes interest receipts, dividends / profits of PSUs, fees, fines and user charges.
-- **Exam Anchor:** The Union Annual Financial Statement (Budget) is laid under Article 112. State budgets parallel under Article 202.
-
-</details>
+- **Exam Anchor:** Vote on Account authorises interim spending when the full budget cannot be passed before the new year; an Interim Budget is a fuller pre-election presentation without a full-year policy reset in teaching.
 
 ---
 

@@ -56,7 +56,8 @@ D. Chilka, Michigan, Superior, Victoria
 ---
 
 
-## Consolidated — 42 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. First classify a lake as lagoon, inland saline, freshwater, crater, glacial, oxbow, or artificial. Origin pairs: **Wular** tectonic, **Chilika** lagoon, **Lonar** crater, **Sambhar** wind / playa, **Kabartal** oxbow.
 2. **Chilika** is the largest **east-coast lagoon** (Odisha / Northern Circars). If a question says “largest saline” and omits “inland,” Chilika is often the intended answer.
@@ -103,9 +104,10 @@ D. Chilka, Michigan, Superior, Victoria
 41. Multipurpose project logic = flood control + irrigation + power (+ navigation / recreation). **DVC (1948)** is the first multipurpose valley project of independent India.
 42. West-coast kayals / lagoons (Vembanad) are not the same class as inland playa lakes (Sambhar) or tectonic freshwater basins (Wular).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -155,7 +157,7 @@ D. Chilka, Michigan, Superior, Victoria
 | Garland vs Visvesvaraya | Garland = **Dastur**; first linking idea often **Visvesvaraya**; later **K.L. Rao** | Tag Garland to Rao alone | गारलैंड = दस्तूर |
 | Jawai Project | **Rajasthan** (Luni tributary) | Tamil Nadu | जवाई = राजस्थान |
 
----
+</details>
 
 ## Must-score facts — lakes, lagoons, Ramsar traps
 

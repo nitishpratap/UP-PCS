@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 7 — Mauryan Empire</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -37,11 +35,7 @@ hide:
 | Sanstha | Sanchara | Stationary covers vs **mobile** spies | संस्था / संचार |
 | Moriya kshatriya | Purana shudra | Buddhist Pipphalivana origin vs Brahmanical **low-birth** smear | मोरिय / पुराण |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Edict / title tags
 
@@ -240,18 +234,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Mauryan empire runs about 322–185 BCE. Buddhist tradition links the clan to Moriya / Pipphalivana; some Puranas smear a “low origin.”
-- **Exam Anchor:** King order is Chandragupta (322–297) → Bindusara Amitraghata (अमित्रघात) (297–273) → Ashoka (अशोक) (accession about 272, coronation 268–232) → last Brihadratha, killed by Pushyamitra Shunga (Pushyamitra Sunga) (पुष्यमित्र शुंग) in 185 BCE.
-- **Exam Anchor:** Chandragupta, guided by Chanakya / Kautilya, overthrew the last Nanda (Dhana Nanda) and later treaty-settled with Seleucus about 303 BCE.
-- **Exam Anchor:** Seleucus ceded north-west districts and received 500 elephants. Megasthenes (मेगस्थनीज) came as envoy and wrote the lost Indica (known through Strabo and Arrian).
-- **Exam Anchor:** Pliny’s army figures for Chandragupta are huge (about 6 lakh foot, 30k horse, 9k elephants). Money used punch-marked pana (पण). Material culture shows NBPW and ring-wells.
-- **Exam Anchor:** Empire extent ran from Kandahar to Bengal and Himalaya to Karnataka. Chola, Pandya, Satiyaputra, and Keralaputra appear as neighbours, not Mauryan provinces.
-- **Exam Anchor:** Ashoka’s titles include Devanampiya Piyadassi (देवानांप्रिय प्रियदर्शी). The personal name Ashoka appears at Maski, Gujarra, Nittur, and Udegolam.
-- **Exam Anchor:** The Kalinga war (about 261 BCE) is narrated in Rock Edict XIII (traditional figures of 1 lakh killed and 1.5 lakh deported). Separate Kalinga edicts at Dhauli / Jaugada soften the tone (“all men are my children”).
-
-</details>
+- **Exam Anchor:** Rock Edict XII teaches samavaya (समवाय) — religious concord / synthesis. Do not give that role to RE XIII.
+- **Exam Anchor:** Dhamma-mahamatras (धम्म महामात्र) were appointed in Ashoka’s 14th year (RE V). Dhamma is ethical state policy, not identical with the Buddhist religion he patronised.
+- **Exam Anchor:** Barabar caves were gifted to Ajivikas (आजीविक). Their polish is Mauryan; they are not Ajanta-style Buddhist painted caves.
+- **Exam Anchor:** Kanaganahalli (कनगनाहल्ली) preserves a label reading “Raya Asoka.” Schism edicts appear at Sarnath and Kaushambi (कौशांबी).
+- **Exam Anchor:** Samaharta (समाहर्ता) collects revenue. Sannidhata (सन्निधाता) stores the treasury (kosha (कोष)). Never reverse collector and storekeeper.
+- **Exam Anchor:** Rajuka (रज्जुक) handled land and justice (pillar edicts). Dhamma-mahamatras (धम्म महामात्र) handled moral and welfare work (RE V).
+- **Exam Anchor:** Bhaga (भाग) is the produce share. Bali (बलि) is an extra or religious levy. Rummindei notes remission of bali at Lumbini.
+- **Exam Anchor:** Sudama and Lomas Rishi (लोमश ऋषि) are Barabar cells; Lomas Rishi shows the famous horseshoe chaitya-arch facade.
 
 ---
 

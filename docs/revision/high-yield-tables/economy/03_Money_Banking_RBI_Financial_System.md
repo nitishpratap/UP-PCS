@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Economy Topic 3 — Money, Banking, RBI and Financial System</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **2025 (UKPCS)** | **One State, one RRB** wave: government announced merger of **26** RRBs (ten States / UTs), taking the national RRB count from **43 → 28**. | Merger arithmetic stem. |
+| **2024** | RBI’s standout Prelims function among distractors: **issue of currency notes** (not income tax, census, or foreign policy). | Simple function stem. |
+| **2024** | Financial inclusion steps keyed together: **bank nationalisation + RRBs + village adoption by branches**. | All three count. |
+| **MPC / FIT** | Flexible inflation targeting: headline **CPI 4% ± 2%**; **6-member MPC**; **RBI Governor** chairs (not Finance Minister). | Toolkit identity vs Topic 4 index depth. |
+| **SDF (2022)** | Standing Deposit Facility absorbs liquidity **without** collateral; sits with LAF corridor teaching. | Floor of the corridor story. |
+
+---
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -35,22 +45,6 @@ hide:
 | **SHG pioneer = NABARD** | **SHG pioneer = SBI alone** | NABARD designed SHG–BLP; banks finance |
 | **Plastic / smart money** | **Paper currency** | Credit/debit cards vs notes |
 | **KCC consumption + investment** | **Only investment credit** | Both farm household needs covered |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2025 (UKPCS)** | **One State, one RRB** wave: government announced merger of **26** RRBs (ten States / UTs), taking the national RRB count from **43 → 28**. | Merger arithmetic stem. |
-| **2024** | RBI’s standout Prelims function among distractors: **issue of currency notes** (not income tax, census, or foreign policy). | Simple function stem. |
-| **2024** | Financial inclusion steps keyed together: **bank nationalisation + RRBs + village adoption by branches**. | All three count. |
-| **MPC / FIT** | Flexible inflation targeting: headline **CPI 4% ± 2%**; **6-member MPC**; **RBI Governor** chairs (not Finance Minister). | Toolkit identity vs Topic 4 index depth. |
-| **SDF (2022)** | Standing Deposit Facility absorbs liquidity **without** collateral; sits with LAF corridor teaching. | Floor of the corridor story. |
 
 ---
 
@@ -123,18 +117,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Money is anything generally accepted as a medium of exchange, a unit of account, a store of value and a standard of deferred payment.
 - **Exam Anchor:** Narrow money (M1) in Indian teaching centres on currency with the public + demand deposits + other deposits with RBI (classic list).
 - **Exam Anchor:** Broad money (M3) adds time deposits of banks to the narrow base — the most-watched aggregate in school keys.
 - **Exam Anchor:** Commercial banks accept deposits, give loans and create credit within reserve rules.
-- **Exam Anchor:** India’s banking map: public sector banks, private banks, foreign banks, cooperative banks, Regional Rural Banks, Small Finance Banks, Payments Banks, and Local Area Banks in older lists.
 - **Exam Anchor:** Bank nationalisation: 14 major banks on 19 July 1969; 6 more in 1980 — directed credit, branch expansion and priority lending followed.
 - **Exam Anchor:** Regional Rural Banks (1975) combine local feel with commercial-bank discipline for small / marginal farmers, artisans and rural labour.
 - **Exam Anchor:** NABARD (12 July 1982) is the apex refinance and development bank for agriculture and rural credit — not the day-to-day retail lender of first resort in the usual key.
-
-</details>
+- **Exam Anchor:** Lead Bank Scheme (1969) assigns one bank lead responsibility for a district (area approach after Gadgil / Nariman teaching).
 
 ---
 

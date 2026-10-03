@@ -26,7 +26,8 @@ Saponification & Detergent Chemistry (Micelle Dynamics, Hard Water Scum vs Synth
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Soaps** are sodium or potassium salts of higher fatty acids (containing 12 to 18 carbon atoms) such as **Stearic acid ($C_{17}H_{35}COOH$)**, **Palmitic acid ($C_{15}H_{31}COOH$)**, and **Oleic acid ($C_{17}H_{33}COOH$)**.
 2. **Saponification**: The chemical alkaline hydrolysis of animal fats or vegetable oils (triglycerides) with aqueous sodium hydroxide ($NaOH$) or potassium hydroxide ($KOH$), producing soap and a commercially valuable byproduct, **Glycerol (Glycerine, $CH_2OH-CHOH-CH_2OH$)**.
@@ -133,9 +134,10 @@ Saponification & Detergent Chemistry (Micelle Dynamics, Hard Water Scum vs Synth
 49. **Aspartame Alert**: The artificial sweetener Aspartame decomposes into phenylalanine, aspartic acid, and methanol; products containing aspartame must carry a mandatory warning label for individuals with the rare genetic disorder **Phenylketonuria (PKU)**.
 50. **Liquid Bleach**: An aqueous solution of **Sodium Hypochlorite ($NaOCl, \approx 5\%$)**; acts as a powerful disinfectant and textile stain remover via oxidation.
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -148,7 +150,7 @@ Saponification & Detergent Chemistry (Micelle Dynamics, Hard Water Scum vs Synth
 | **Zinc Phosphide vs. Sodium Chlorate** | **Zinc Phosphide ($Zn_3P_2$)**: Ingested **rodenticide (rat poison)**; releases toxic phosphine gas ($PH_3$) in stomach. | **Sodium Chlorate ($NaClO_3$)**: Non-selective **herbicide (weed killer)**; desiccates and destroys invasive plants. | **Target Pest**: Zinc phosphide kills rats/rodents; Sodium chlorate kills weeds/plants. |
 | **1G Ethanol vs. 2G Ethanol** | **1G Ethanol**: Fermented from **edible food crops** (sugarcane molasses, corn, broken food grains). | **2G Ethanol**: Fermented from **inedible agricultural crop residues** (rice/wheat straw, bagasse, bamboo). | **Feedstock Source**: 1G uses food grains; 2G uses non-food agricultural stubble and crop waste. |
 
----
+</details>
 
 ## Master Reference Tables
 

@@ -11,67 +11,66 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 13 — Archaeology</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The **Archaeological Survey of India** was founded in **1861** under Viceroy Canning. The first Director-General was **Alexander Cunningham**.
-2. ASI headquarters is **24 Tilak Marg, New Delhi**. It is **not** Lucknow; Lucknow holds UP State Archaeology and the State Museum.
-3. **John Marshall** (DG 1902–1928) **announced** the Indus civilization to the world in **1924**. **Mortimer Wheeler** (DG 1944–1948) brought the **balk-and-grid** method and re-dug Harappa in **1946** — he did **not** discover IVC.
-4. **Stratigraphy** (स्तरिकी) is relative dating by layers: in an undisturbed stack, **deeper is older**. A **balk** is the uncut wall left so layers can still be read.
-5. **Carbon-14** is absolute dating invented on **Willard Libby’s** path. Half-life is about **5730 years**. It works only on **organic** samples (charcoal, bone, wood, seed, shell) — not bare stone or metal.
-6. **Daya Ram Sahni** opened **Harappa** in **1921**. **R.D. Banerjee** opened **Mohenjo-daro** (मोहनजोदड़ो) in **1922**. Marshall announced; Wheeler re-dug later.
-7. **S.R. Rao** excavated **Lothal** and its dockyard. **B.B. Lal** excavated **Kalibangan** (कालीबंगा). **R.S. Bisht** excavated **Dholavira** (धोलावीरा).
-8. **V.S. Wakankar** established **Bhimbetka** (भीमबेटका) rock-art prehistory in **1957–58**. Bhimbetka is in **Madhya Pradesh**, not Uttar Pradesh.
-9. **Sanauli** (सनौली) (Baghpat, UP), excavated in **2018**, yielded copper **chariots**, coffins, and antenna swords in a Late Harappan / OCP setting.
-10. Boat **models** come from **Mohenjo-daro and Lothal**. Dholavira is not that boat-model pair.
-11. Prehistoric site–state facts: **Nevasa–Maharashtra**, **Isampur–Karnataka**, **Didwana–Rajasthan**, **Gudiyam–Tamil Nadu**.
-12. Harappan site–state facts: **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, **Hulas–Uttar Pradesh**.
-13. Uttar Pradesh Harappan trio: **Alamgirpur** (आलमगीरपुर) (Meerut, Hindon), **Hulas** (हुलास) (Saharanpur), and **Mandi** (मंडी) (Muzaffarnagar).
-14. **Alamgirpur** is the **easternmost** Harappan site in India. **Rakhigarhi** (राखीगढ़ी) (Haryana) is the largest mound — it is **not** UP and **not** the eastern edge.
-15. **Mandi** (Muzaffarnagar, UP) is **not Manda** (Chenab belt, J&K). Mixing the two names is a frequent trap.
-16. UP IVC questions often want **Mandi and Hulas** together and reject **Rakhigarhi**. Hulas also appears with Alamgirpur in older UP pairs.
-17. Other UP trenches: **Koldihwa / Mahagara** (Belan, early rice claim), **Hastinapur** (हस्तिनापुर) (PGW), **Kaushambi** (कौशांबी), **Ahichchhatra**, **Sarnath** (सारनाथ), **Shravasti**, **Atranjikhera**.
-18. **Robert Bruce Foote** at **Pallavaram** in **1863** first recognised Indian Paleolithic tools.
-19. A find is useful only **in situ**, still in its layer. Looting kills the date. Typology sits beside stratigraphy as another relative clock.
-20. Fired pottery can use **thermoluminescence (TL)** instead of C-14. That is a different clock and a different sample.
-21. After 1947 the giant IVC cities Harappa and Mohenjo-daro lie in Pakistan. Indian trenches shift to Gujarat, Haryana, Rajasthan, Punjab, and **Uttar Pradesh** (उत्तर प्रदेश).
-22. Monument law sits under the **AMASR Act 1958**. Antiquities export sits under the **1972** Act. Field units are ASI **Circles**; HQ remains New Delhi.
-23. **Mehrgarh** (मेहरगढ़) (Balochistan) is pre-Harappan farming and is **not** an Indian-state match option.
-24. Rock shelter vs cave: Bhimbetka is an overhang **rock-shelter** complex, not a hollow cave system wording.
-25. Relative dating answers “older / younger.” Absolute dating answers calendar years. Stratigraphy alone cannot give “2600 BCE.”
-26. Cunningham used Chinese pilgrim routes to hunt Buddhist sites such as Sarnath, Sanchi, and Bharhut — Survey foundation, not IVC discovery.
-27. Mature Harappan chronology near **about 2600–1900 BCE** rests on absolute clocks plus pottery and stratigraphy, not “guesswork from bricks.”
-28. Site is the place with remains; **excavation** is the dig. Papers ask present **state / UT** for site matching, not the excavator’s birthplace.
-29. Doab pottery clock: **Late Harappan / OCP → PGW → NBPW**. **OCP** pairs with Copper Hoards; **PGW** is Later Vedic; **NBPW** rises with second urbanisation / Mauryan cities.
-30. **Megalithic** burials with large stones belong mainly to the Iron-age **south**. They are not a Harappan city label.
-31. Signature Harappan cards: **Rakhigarhi** (largest in India, Haryana); **Dholavira** (reservoirs + signboard, R.S. Bisht); **Kalibangan** (plough + fire altars, B.B. Lal); **Banawali** (fortified Haryana town); **Surkotada** (horse-bone debate).
-32. **Thermoluminescence (TL)** dates fired pottery or bricks by asking when the object was last heated. Use relative methods to order a trench; use C-14 or TL when the stem wants a calendar band.
-33. **Typology** matches pottery and tool shapes across sites as another relative clock beside stratigraphy.
-34. UP trenches beyond the Harappan trio: **Koldihwa / Mahagara** (Belan rice), **Hastinapur** (PGW / OCP), **Kaushambi**, **Ahichchhatra**, **Sarnath**, **Shravasti**, **Atranjikhera**, **Sanauli** (Baghpat chariots).
+1. **John Marshall** (DG 1902–1928) **announced** the Indus civilization to the world in **1924**. **Mortimer Wheeler** (DG 1944–1948) brought the **balk-and-grid** method and re-dug Harappa in **1946** — he did **not** discover IVC.
+2. **Stratigraphy** (स्तरिकी) is relative dating by layers: in an undisturbed stack, **deeper is older**. A **balk** is the uncut wall left so layers can still be read.
+3. **Carbon-14** is absolute dating invented on **Willard Libby’s** path. Half-life is about **5730 years**. It works only on **organic** samples (charcoal, bone, wood, seed, shell) — not bare stone or metal.
+4. **Daya Ram Sahni** opened **Harappa** in **1921**. **R.D. Banerjee** opened **Mohenjo-daro** (मोहनजोदड़ो) in **1922**. Marshall announced; Wheeler re-dug later.
+5. **S.R. Rao** excavated **Lothal** and its dockyard. **B.B. Lal** excavated **Kalibangan** (कालीबंगा). **R.S. Bisht** excavated **Dholavira** (धोलावीरा).
+6. **V.S. Wakankar** established **Bhimbetka** (भीमबेटका) rock-art prehistory in **1957–58**. Bhimbetka is in **Madhya Pradesh**, not Uttar Pradesh.
+7. **Sanauli** (सनौली) (Baghpat, UP), excavated in **2018**, yielded copper **chariots**, coffins, and antenna swords in a Late Harappan / OCP setting.
+8. **Alamgirpur** is the **easternmost** Harappan site in India. **Rakhigarhi** (राखीगढ़ी) (Haryana) is the largest mound — it is **not** UP and **not** the eastern edge.
+9. **Mandi** (Muzaffarnagar, UP) is **not Manda** (Chenab belt, J&K). Mixing the two names is a frequent trap.
+10. **Robert Bruce Foote** at **Pallavaram** in **1863** first recognised Indian Paleolithic tools.
+11. **Mehrgarh** (मेहरगढ़) (Balochistan) is pre-Harappan farming and is **not** an Indian-state match option.
+12. **Megalithic** burials with large stones belong mainly to the Iron-age **south**. They are not a Harappan city label.
+13. **Thermoluminescence (TL)** dates fired pottery or bricks by asking when the object was last heated. Use relative methods to order a trench; use C-14 or TL when the stem wants a calendar band.
+14. **Typology** matches pottery and tool shapes across sites as another relative clock beside stratigraphy.
+15. **John Marshall** served as DG from **1902 to 1928** and made ASI a standing scientific department.
+16. **Mortimer Wheeler** served as DG from **1944 to 1948** and brought the **balk-and-grid** excavation method.
+17. **Typology** (प्रकारिकी) (pottery shape, tool type) sits beside layers as another relative clock.
+18. **Willard Libby** opened the radiocarbon path that led to the 1949 Nobel recognition, and the method has been in use since the late 1940s.
+19. **Bhimbetka** is in **Madhya Pradesh** as a UNESCO rock-shelter complex, not a Uttar Pradesh site.
+20. **Rakhigarhi** lies in **Hisar, Haryana**, and is the largest Indus mound — it is **not** in Uttar Pradesh.
+21. **Mehrgarh** is in Balochistan and marks pre-Harappan farming; it is not an Indian-state match option.
+22. **Sanauli** in Baghpat, excavated in **2018**, yielded copper **chariots**, coffins, and antenna swords in a Late Harappan / OCP setting.
+23. **Koldihwa** and **Mahagara** on the Belan near Prayagraj are Neolithic sites with an early **rice** claim.
+24. **Hastinapur** in Meerut is a PGW and Kuru mound linked with Lal’s flood-layer story.
+25. **Kaushambi** near Prayagraj is the Vatsa capital with a Mauryan–Gupta stack; the Allahabad pillar stone was moved from here.
+26. **Ahichchhatra** in Bareilly is the Panchala mound.
+27. **Sarnath** at Varanasi is the first-sermon site with the Ashokan lion capital and was one of Cunningham’s hunting grounds.
+28. **Rajghat** preserves the old Kashi rampart.
+29. **Shravasti** at Sahet-Mahet is the Kosala and Jetavana card.
+30. **Atranjikhera** in Etah is a PGW type-site.
+31. **OCP** (Ochre Coloured Pottery) marks the eastern doab Chalcolithic horizon and often pairs with **Copper Hoard** finds.
+32. **PGW** (Painted Grey Ware) is the classic **Later Vedic** north Indian ware; Hastinapur and Atranjikhera are type mounds.
+33. **NBPW** (Northern Black Polished Ware) rises with second urbanisation from about the **sixth century BCE** and remains thick in **Mauryan** cities.
+34. **Megalithic** burials with large stones belong mainly to the Iron-age **south**; they are not a Harappan city label.
+35. **Rakhigarhi** in Haryana is the largest Indus mound in India and is **not** in Uttar Pradesh.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Site | Excavation | Place with remains vs the **dig** | स्थल / उत्खनन |
-| Stratigraphy | C-14 | Relative (layers) vs **calendar years** | स्तरिकी / कार्बन-14 |
-| Relative | Absolute | Older/younger vs **5730-year** clock | सापेक्ष / निरपेक्ष |
-| Marshall | Wheeler | Announces IVC **1924** vs grid dig **1946** | मार्शल / व्हीलर |
-| Sahni | Banerjee | **Harappa 1921** vs **Mohenjo-daro 1922** | साहनी / बनर्जी |
-| Wakankar | Sankalia | **Bhimbetka** vs Deccan prehistory | वाकणकर / संकलिया |
-| Alamgirpur | Rakhigarhi | Easternmost **UP** vs largest **Haryana** | आलमगीरपुर / राखीगढ़ी |
-| Mandi | Manda | **Muzaffarnagar UP** vs **J&K** Chenab | मंडी / मांडा |
-| Hulas | Lothal | Baghpat **UP** vs Gujarat **dock** | हुलास / लोथल |
-| Rock shelter | Cave | Bhimbetka overhang vs hollow | शैल आश्रय / गुफा |
-| ASI HQ | Lucknow | **New Delhi** vs UP state archaeology | दिल्ली / लखनऊ |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Facts
+
+1. **Rakhigarhi = UP** → **Haryana**. 2025 bait.
+2. **Biggest IVC = eastern boundary** → east end is **Alamgirpur**.
+3. **Mandi = Manda** → Bijnor UP vs **J&K**.
+4. **Hulas = Gujarat** → **Baghpat, UP**. Padri is Gujarat.
+5. **Kalibangan / Lothal = UP** → Rajasthan / Gujarat (2018).
+6. **Wheeler discovered IVC** → Sahni + Banerjee under **Marshall 1924**. Wheeler = 1946 grid.
+7. **Marshall dug every trench** → he is the **DG** who announced.
+8. **Wakankar = Vatsa** → Vatsa is Harappan. Wakankar = **Bhimbetka**.
+9. **Bhimbetka = UP** → **MP**.
+10. **C-14 dates stone / copper** → **organic** only.
+11. **ASI HQ = Lucknow** → **New Delhi**.
+12. **Sanauli = Lothal dock** → Baghpat **chariots**, Late Harappan / OCP.
+13. **Didwana = Tamil Nadu** → **Rajasthan**. Gudiyam = TN.
+14. **Isampur = Maharashtra** → **Karnataka**. Nevasa = MH.
+15. **Manda = eastern Harappan** → **north** (J&K). East = Alamgirpur.
 
 
 ---

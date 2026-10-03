@@ -11,52 +11,66 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 6 — Medieval Music & Culture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Sultanate music fused **Amir Khusrau** (अमीर खुसरो), Chishti (चिश्ती) **sama** (समा), and Hindavi synthesis before the Mughal dhrupad peak.
-2. **Dhrupad** is the oldest art form, uses **pakhawaj** (पखावज), and runs from **Man Singh (मान सिंह) Tomar** to **Tansen** (तानसेन).
-3. **Khayal** (ख्याल) is dominant today, uses **tabla** (तबला), and bloomed under **Muhammad Shah** through **Sadarang / Adarang**.
-4. **Qawwali** (क़व्वाली) is the Sufi (सूफी) chorus linked to **Amir Khusrau** and the **Nizamuddin Auliya** circle.
-5. **Tappa** (टप्पा) was refined at **Muhammad Shah Rangeela (रंगीला)’s** court, not at Akbar (अकबर)’s (अकबर) court.
-6. **Tarana** (तराना) uses nonsense syllables and is traditionally linked to Khusrau.
-7. Before Akbar, **Raja (राजा) Ramchandra of Bhata (Rewa)** patronised **Tansen**.
-8. Under Akbar, Tansen was a **Navratna** and dhrupad master; his honorific was **Miyan Tansen**.
-9. Tansen ragas include **Miyan Ki Todi**, **Miyan Ki Malhar**, and **Darbari Kanada (वैशेषिक)**.
-10. **Amir Khusrau** (1253–1325) was a disciple of **Nizamuddin** and served Balban (बलबन) / Alauddin / Ghiyasuddin courts — not Akbar.
-11. Music-treatise facts: **Ragamala (रागमाला)–Pundrik Vitthal**; **Rasa (रस) Kaumudi–Sri Kantha**; **Raga (राग) Vibodh–Somanath (सोमनाथ)**; **Chaturdandi Prakashika (चतुर्दंडी प्रकाशिका)–Venkatamakhin**.
-12. **Raga Vibodh** belongs to **Somanath** (1609); **Ashiqa** belongs to **Amir Khusrau** — never swap them.
-13. **Akbar** (अकबर) marks the dhrupad peak; **Muhammad Shah** marks the later khayal and tappa bloom.
-14. **Tabla** accompanies khayal and thumri (ठुमरी); **pakhawaj** accompanies dhrupad — do not swap the drums.
-15. **Thumri** (ठुमरी) is Awadh (अवध)–Banaras romantic light classical; do not confuse it with camel-song **tappa**.
-16. UP music geography: **Agra gharana (घराना)** for khayal; **Lucknow (लखनऊ)–Banaras thumri**; **Kajri** (कजरी) of the Mirzapur (मिर्ज़ापुर)–Banaras belt.
-17. Theory roots remain **Natyashastra** (नाट्यशास्त्र), **Brihaddeshi** (बृहद्देशी) (Matanga; clear use of “raga”), and **Sangeet Ratnakar** (संगीत रत्नाकर) (Sharngadeva (शार्ङ्गदेव)).
-18. After the 12th–13th century, **Hindustani** (हिंदुस्तानी) (north) and **Carnatic** (कर्नाटक) (south) classical branches diverged.
-19. **Sama** is the Chishti musical assembly; **qawwali** is the related Sufi chorus form.
-20. **Aurangzeb** (औरंगजेब) reduced court music patronage, but music survived in regional courts and private mehfils.
-21. Early Mughals favoured **dhrupad**; later Mughals favoured **khayal** and lighter forms.
-22. Tansen and Amir Khusrau were **not** contemporaries — one is Akbar-age, the other Sultanate-age.
-23. Folklore credits Khusrau with sitar, tabla, and qawwali (क़व्वाली) inventions, but key facts keep him as the Nizamuddin–Hindavi music bridge.
-24. Gwalior / Behat tradition feeds Tansen’s origin story before the Rewa and Akbar courts.
+1. **Dhrupad** is the oldest art form, uses **pakhawaj** (पखावज), and runs from **Man Singh (मान सिंह) Tomar** to **Tansen** (तानसेन).
+2. **Khayal** (ख्याल) is dominant today, uses **tabla** (तबला), and bloomed under **Muhammad Shah** through **Sadarang / Adarang**.
+3. **Qawwali** (क़व्वाली) is the Sufi (सूफी) chorus linked to **Amir Khusrau** and the **Nizamuddin Auliya** circle.
+4. **Tappa** (टप्पा) was refined at **Muhammad Shah Rangeela (रंगीला)’s** court, not at Akbar (अकबर)’s (अकबर) court.
+5. **Tarana** (तराना) uses nonsense syllables and is traditionally linked to Khusrau.
+6. **Amir Khusrau** (1253–1325) was a disciple of **Nizamuddin** and served Balban (बलबन) / Alauddin / Ghiyasuddin courts — not Akbar.
+7. **Raga Vibodh** belongs to **Somanath** (1609); **Ashiqa** belongs to **Amir Khusrau** — never swap them.
+8. **Akbar** (अकबर) marks the dhrupad peak; **Muhammad Shah** marks the later khayal and tappa bloom.
+9. **Tabla** accompanies khayal and thumri (ठुमरी); **pakhawaj** accompanies dhrupad — do not swap the drums.
+10. **Thumri** (ठुमरी) is Awadh (अवध)–Banaras romantic light classical; do not confuse it with camel-song **tappa**.
+11. **Sama** is the Chishti musical assembly; **qawwali** is the related Sufi chorus form.
+12. **Aurangzeb** (औरंगजेब) reduced court music patronage, but music survived in regional courts and private mehfils.
+13. **Akbar** gave the strongest music patronage; **Tansen** was among the **Navratnas**, the court had Hindu and Muslim musicians, and the Ain-i-Akbari lists performers and instruments.
+14. **Jahangir** (जहाँगीर) continued court music, and his personal taste appears in **Tuzuk-i-Jahangiri** (तुजुक-ए-जहाँगीरी) (art and music notes).
+15. **Shah Jahan** (शाहजहाँ) maintained formal court culture where music remained important, though architecture dominates cultural memory.
+16. **Muhammad Shah Rangeela (1719–1748)** was the key later-Mughal music emperor, when **khayal** bloomed through **Sadarang and Adarang** and **tappa** was refined.
+17. **Muhammad Shah Rangeela** is the central later-Mughal music figure for UPPCS.
+18. **Niyamat Khan Sadarang** and **Adarang** developed **khayal** into the dominant classical form.
+19. **Tappa** was refined at **Muhammad Shah Rangeela's** court (~1719–1748), not at Akbar's.
+20. **Shori Miyan (Ghulam Nabi)** is the main tappa composer fact.
+21. **Qawwali** is Sufi congregational singing at khanqah (ख़ानक़ाह) or dargah and is linked to Chishti devotion.
+22. **Tarana** is a fast vocal form using syllables such as *tom, ta, der*, and tradition credits Khusrau with it.
+23. **Ashiqa** is Khusrau’s romantic masnavi; **Rag Vibodh** (*Raga Vibodha*, 1609) is **Somanath’s** Sanskrit music treatise — never swap them.
+24. **Amir Khusrau's** guru was **Nizamuddin Auliya**.
+25. **Before Akbar**, Tansen was patronised by **Raja Ramchandra Singh of Bhata (Rewa)**.
+26. **Dhrupad** is the **oldest surviving Hindustani art form**, with austere temple and court gravity and a slow alap leading into composition.
+27. **Khayal** (“imagination”) became the **dominant Hindustani concert form** after the later Mughal mehfil age.
+28. **Qawwali** is Sufi devotional chorus music with call-and-response, handclaps, and later harmonium and tabla support.
+29. **Statement 1 is incorrect:** While Dhrupad is indeed the oldest surviving classical vocal genre of Hindustani music (originating from temple chanting of *Prabandha* and the *Sama Veda*), its traditional accompanying percussion instrument is the barrel-shaped **Pakhawaj** (or *Mridang*), **never** the Tabla.
+30. **Statement 2 is incorrect:** As noted above, Dhrupad is strictly accompanied by the **Pakhawaj**, whose deep, resonant, and solemn stroke patterns complement the grave dignity of the Dhrupad style.
+31. **Statement 3 is correct:** **Khayal** (derived from the Arabic/Persian word for "imagination" or "thought") emerged as the most flexible and popular form of Hindustani classical vocal music in modern times, and is canonically accompanied by the **Tabla** (which provides dynamic rhythmic patterns / *thekas* like *Teentaal*, *Ektaal*, and *Tilwada*).
+32. **A. Ragamala → 2. Pundarika Vitthala:** 16th-century treatise setting forth raga-ragini classifications and linking northern and southern modal traditions.
+33. **B. Rasa Kaumudi → 3. Srikantha:** 16th-century Gujarat court treatise describing 40 ragas with their corresponding emotional rasas.
+34. **C. Raga Vibodha → 1. Somanatha:** 1609 CE Sanskrit text defining raga scales, shrutis, and veena playing techniques.
+35. **D. Chaturdandi Prakashika → 4. Venkatamakhin:** 17th-century Carnatic theoretical treatise establishing the 72 Melakarta parent-scale system.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Dhrupad | Khayal | Oldest + **pakhawaj** vs dominant today + **tabla** | ध्रुपद / ख्याल |
-| Tansen | Amir Khusrau | Akbar dhrupad Navratna vs Sultanate Nizamuddin + qawwali | तानसेन / अमीर खुसरो |
-| Tappa | Thumri | Fast camel-song; **Muhammad Shah** court vs Awadh–Banaras romantic | टप्पा / ठुमरी |
-| Qawwali | Sama | Sufi chorus form linked to Khusrau vs Chishti musical assembly | क़व्वाली / समा |
-| Somanath | Khusrau (Raga Vibodh) | 2021/2022 treatise author vs 2019 literary-list pair | सोमनाथ / खुसरो |
-| Akbar | Muhammad Shah music | Dhrupad peak (Tansen) vs Khayal/Tappa later bloom | अकबर / मुहम्मद शाह |
-| Tabla | Pakhawaj | Khayal/thumri accompaniment vs dhrupad drum | तबला / पखावज |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. Tansen's pre-Akbar patron was **not** from Mewar, Malwa, or Gujarat; the correct answer is **Raja Ramchandra of Bhata**.
+2. **Tappa** was **not** refined under Akbar; it developed under **Muhammad Shah**.
+3. **Khayal** was **not** Akbar's signature form; Akbar patronised **dhrupad**, while khayal bloomed under **Muhammad Shah**.
+4. The primary drum of **dhrupad** is **pakhawaj**, not tabla.
+5. **Amir Khusrau** and **Tansen** were **not** contemporaries; Khusrau died in **1325**.
+6. In music-treatise match stems, **Raga Vibodh** is by **Somanath**, not Khusrau (separate from the literary Khusrau pair).
+7. **Sama** does **not** fully explain all Persian music translations as the sole reason — both statements can be true without R explaining A.
+8. **Qawwali** is a Sufi congregational form, not court dhrupad.
+9. **Chaturdandi Prakashika** was **not** written by Pundrik Vitthal; the author is **Venkatraman/Venkatamakhin**.
+10. **Rasa Kaumudi** was **not** written by Somanath; the author is **Sri Kantha**.
+11. **Naqshbandi** Sufis were **not** sama patrons; they opposed music and syncretism.
+12. **Tansen** was **not** a member of the Carnatic Trinity.
+13. **Tarana** and **Tappa** are different: tarana is a syllable-based form linked to Khusrau, while tappa is a later Mughal light form.
+14. **Aurangzeb's** court was **not** the peak of imperial music patronage; patronage declined and shifted to regional centres.
+15. **Sadarang** belongs to the **Muhammad Shah** khayal circle, not Akbar's court.
 
 
 ---

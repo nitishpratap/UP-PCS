@@ -15,7 +15,8 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 
 ---
 
-## Consolidated — 38 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 38 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Vasco da Gama reached **Calicut** on **20 May 1498**, guided by the Gujarati navigator **Ahmad ibn Majid**. He opened the all-sea Atlantic route for Portugal. He did **not** capture **Goa** (गोवा).
 2. Black pepper (काली मिर्च) profits from that voyage (about **60x**) pulled more Portuguese merchants to India. Portuguese also introduced the **printing press (Goa, 1556)**, **tobacco, potato, tomato, cashew nut, papaya, and chili** to India.
@@ -56,9 +57,10 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 37. **EIC charter ladder (not Factory Acts):** original **1600** (Elizabeth I) → renewals through the 17th–18th centuries → **1813** ends India trade monopoly (tea/China kept) → **1833** ends all Company trade → **1853** opens ICS competition — keep this distinct from industrial Factory Acts.
 38. **Arrival vs charter trap:** Dutch ships reach India before permanent English factories, but EIC charter (**1600**) precedes VOC charter (**1602**). **Levant Company (1592)** was a **land-route** charter — not the first sea East India Company.
 
----
+</details>
 
-## Confused Pairs & Famous Forts
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Famous Forts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -97,7 +99,7 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 | **Fort Emmanuel** | Cochin | Portuguese (1503 — First European Fort) |
 | **Fort Dansborg** | Tranquebar | Danish (1620) |
 
----
+</details>
 
 ## Must-score facts — settlements, founders, wars
 

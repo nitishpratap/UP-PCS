@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 29 — Indian Environmental Movements</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Tehri Dam Protest** | **Narmada Bachao Andolan** | High-seismic zone anti-dam fast by Sunderlal Bahuguna on Bhagirathi vs multi-state anti-submergence movement across MP/Gujarat/Maharashtra | टिहरी बांध विरोध / नर्मदा बचाओ |
 | **Gadgil Commission (2011)** | **Kasturirangan Committee (2013)** | WGEEP designated entire Western Ghats as ecologically sensitive (ESZ 1, 2, 3) vs HLWG recommending only 37% area as Eco-Sensitive Area (ESA) | गाडगिल समिति / कस्तूरीरंगन समिति |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Movement ↔ place / year
 
@@ -102,7 +96,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Bishnoi (बिश्नोई) resistance at Khejarli, Rajasthan (1730) is led in memory by Amrita Devi (अमृता देवी) and the 363 martyrs who died protecting khejri trees. It is centuries older than Chipko.
 - **Exam Anchor:** Chipko (1973) began at Reni, Uttarakhand (then Uttar Pradesh (उत्तर प्रदेश)). Leaders include Sunderlal Bahuguna, Chandi Prasad Bhatt (चंडी प्रसाद भट्ट), and Gaura Devi. Method: embracing trees against logging.
@@ -111,9 +105,7 @@ hide:
 - **Exam Anchor:** Appiko (1983) in Karnataka (Sirsi) was led by Panduranga Hegde. It is the southern tree-embrace movement. Appiko is Karnataka only — not Uttarakhand, UP, or Kerala.
 - **Exam Anchor:** Narmada Bachao Andolan (from 1985) spans Madhya Pradesh, Gujarat, and Maharashtra, with Medha Patkar (मेधा पाटकर) and Baba Amte as leader facts. It is anti-large-dam displacement politics.
 - **Exam Anchor:** Save Western Ghats (from about 2011) is multi-state ecology (पारिस्थितिकी) politics around the Gadgil and Kasturirangan reports, mining, and ESZ questions.
-- **Exam Anchor:** Method families: Chipko, Appiko, and Bishnoi = forest/tree protection. Silent Valley and Narmada Bachao = anti-dam. Save Western Ghats = report/policy ecology protests.
-
-</details>
+- **Exam Anchor:** Maiti Movement (मैती आंदोलन) (Uttarakhand; pioneered by Kalyan Singh Rawat, mid-1990s) asks newly married couples to plant a sapling at the bride’s parental home — separate from Chipko.
 
 ---
 

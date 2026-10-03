@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 26 — Agriculture & Minerals Ranks (Data Fact-Locks)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -34,11 +32,7 @@ hide:
 | **Global Coal Rank 1** | **Global Uranium Rank 1** | **China** (>50% coal production) vs **Kazakhstan** (>43% uranium production) | विश्व कोयला शीर्ष (चीन) / यूरेनियम शीर्ष (कजाकिस्तान) |
 | **Global Iron Ore Rank 1** | **Global Copper Rank 1** | **Australia** (Pilbara iron ore) vs **Chile** (Escondida copper) | विश्व लौह अयस्क (ऑस्ट्रेलिया) / तांबा (चिली) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ## 1. Top Agricultural Producers (India)
 
@@ -82,7 +76,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Wheat Ranks: Top Producer States: Uttar Pradesh (उत्तर प्रदेश) (#1) > Madhya Pradesh (#2) > Punjab (#3). Highest productivity/yield (kg/ha): Punjab and Haryana. UP produces over 32% of India's wheat.
 - **Exam Anchor:** Rice Ranks: Top Producer States: West Bengal (#1) > Uttar Pradesh (#2) > Punjab (#3). Highest productivity/yield: Punjab. Rice is India's principal kharif (खरीफ) crop and largest cultivated area.
@@ -92,8 +86,6 @@ hide:
 - **Exam Anchor:** Jute & Mesta ("Golden Fibre"): Top Producer States: West Bengal (#1) > Bihar (#2) > Assam (#3). West Bengal accounts for more than 75% of national jute production (Hooghly (हुगली) river basin).
 - **Exam Anchor:** Tea Ranks: Top Producer States: Assam (#1) > West Bengal (#2) > Tamil Nadu (नाडु) (#3). Assam alone yields over 52% of India's tea. Nilgiri (नीलगिरि) hills lead in South India.
 - **Exam Anchor:** Coffee Ranks: Top Producer States: Karnataka (#1) > Kerala (#2) > Tamil Nadu (#3). Karnataka yields over 70% of India's coffee (Kodagu, Chikmagalur, Hassan). Historic (ऐतिहासिक) birthplace: Baba Budan Giri hills.
-
-</details>
 
 ---
 

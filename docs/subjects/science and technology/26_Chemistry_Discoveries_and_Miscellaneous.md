@@ -26,7 +26,8 @@ Foundational Chemists & Historical Discoveries (Lavoisier, Dalton, Priestley, Ca
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Antoine Laurent Lavoisier (1743–1794)**: Revered as the **"Father of Modern Chemistry"**. Formulated the fundamental **Law of Conservation of Mass** (1789), proved that combustion and respiration are chemical combinations with oxygen, disproved the ancient phlogiston theory, named the elements Oxygen and Hydrogen, and published the first modern list of chemical elements.
 2. **John Dalton (1766–1844)**: Formulated the modern **Atomic Theory (1808)** (matter consists of indivisible atoms); established the **Law of Multiple Proportions** and **Dalton's Law of Partial Pressures**.
@@ -130,9 +131,10 @@ Foundational Chemists & Historical Discoveries (Lavoisier, Dalton, Priestley, Ca
 49. **Nobel Prize in Chemistry 2021**: Awarded to **Benjamin List** and **David MacMillan** for the development of **Asymmetric Organocatalysis** (using small, non-toxic organic molecules like proline instead of expensive heavy metal catalysts to construct chiral medicinal drugs).
 50. **Nobel Prize in Chemistry 2022**: Awarded to **Carolyn R. Bertozzi**, **Morten Meldal**, and **K. Barry Sharpless** for the development of **Click Chemistry and Bioorthogonal Chemistry** (snapping molecular building blocks together cleanly inside living cells without disrupting cellular biology). K. Barry Sharpless joined the elite rank of two-time Nobel laureates (first in 2001).
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -145,7 +147,7 @@ Foundational Chemists & Historical Discoveries (Lavoisier, Dalton, Priestley, Ca
 | **Saltpetre vs. Chile Saltpetre** | **Saltpetre (Nitre)**: Potassium nitrate (**$KNO_3$**); used in gunpowder and fireworks. | **Chile Saltpetre**: Sodium nitrate (**$NaNO_3$**); mined in Atacama desert for fertilizers. | **Alkali Cation**: Saltpetre is Potassium ($K$); Chile Saltpetre is Sodium ($Na$). |
 | **Zeolite vs. Calgon** | **Zeolite (Permutit)**: Sodium aluminium silicate; **exchanges $Na^+$ for $Ca^{2+}$/$\text{Mg}^{2+}$**; regenerated with $NaCl$. | **Calgon**: Sodium hexametaphosphate; **sequesters $Ca^{2+}$/$\text{Mg}^{2+}$ inside a soluble complex** without resin beds. | **Mechanism of Softening**: Zeolite is an ion-exchange solid filter bed; Calgon is a dissolved complexing chemical additive. |
 
----
+</details>
 
 ## Master Reference Tables
 

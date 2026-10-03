@@ -11,64 +11,72 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 10 — Sikhism</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Guru Nanak (गुरु नानक) (1469–1539)** founded Sikhism on **Ik Onkar**, the householder path, **langar** (लंगर), and **sangat** (संगत).
-2. The ethical triad is **Naam Japna**, **Kirat Karni**, and **Vand Chakna**.
-3. **Mardana** (मर्दाना) was Nanak's Muslim **rabab** companion and **disciple**, not a Guru.
-4. There are exactly **ten human Gurus** from Nanak to Gobind Singh (**1469–1708**); after that the Granth is eternal.
-5. **Guru Angad** (earlier **Bhai Lehna (लेहना)**) standardised **Gurmukhi**; **Guru Amar Das** organised **22 Manjis** and made langar firm at **Goindwal**.
-6. **Akbar** (अकबर) granted about **500 bighas** (with a pond) to **Bibi Bhani**, wife of **Guru Ram Das**; **Ramdaspur** on that land became **Amritsar** (अमृतसर).
-7. **Guru Arjan** (गुरु अर्जन) compiled the **Adi Granth (आदि ग्रंथ) in 1604**, built **Harmandir (हरमंदिर) Sahib** (हरमंदिर साहिब), started the **Masand** (मसंद) tenth, founded **Tarn Taran** and **Kartarpur**, and was martyred under **Jahangir (जहाँगीर) in 1606** after aiding **Khusrau**.
-8. **Guru Hargobind (हरगोबिंद)** introduced **miri (मीरी)–piri (पीरी)** and built the **Akal Takht** (अकाल तख़्त); he did **not** create the Khalsa.
-9. **Guru Tegh Bahadur** (गुरु तेग बहादुर) was executed in **Delhi in 1675** under **Aurangzeb** (औरंगजेब).
-10. **Guru Gobind Singh** (गुरु गोबिंद सिंह) founded the **Khalsa at Anandpur (आनंदपुर) on Vaisakhi 1699** with the **Panj Pyare** (पंज प्यारे).
-11. In **1708** at **Nanded (Hazur Sahib)**, Gobind Singh made **Guru Granth Sahib** (गुरु ग्रंथ साहिब) the eternal Guru; there is **no 11th human Guru**.
-12. **Adi Granth** (आदि ग्रंथ) names the 1604 book; **Guru Granth Sahib** names the same canon as living Guru after 1708.
-13. **Dasam Granth** (दसम ग्रंथ) is a separate corpus linked to Gobind Singh and is **not** the eternal Guru.
-14. **Japji Sahib** of Nanak opens the Granth; hymns of Kabir (कबीर), Namdev (नामदेव), Ravidas, and Sheikh Farid also appear.
-15. Five Ks are **Kesh, Kangha, Kara, Kachha, and Kirpan**; initiated names are **Singh** and **Kaur**.
-16. Sikh **Khalsa** (खालसा) is the 1699 initiated order; Mughal (मुग़ल) **Khalsa** means **crown land**.
-17. **Harmandir Sahib** is the spiritual centre; **Akal Takht** is the temporal seat beside it.
-18. At **Bhangani in 1688**, Gobind Singh defeated **Pahari (पहाड़ी) hill rajas** before founding the Khalsa.
-19. **Zafarnama** is Gobind Singh's **Persian** (फ़ारसी) letter to Aurangzeb.
-20. **Kabir did not found Sikhism**; his hymns later entered the Granth.
-21. **Har Krishan** (हर कृष्ण), the child eighth Guru, is remembered for service during a **Delhi** epidemic.
-22. Arjan's martyrdom led to Hargobind's militarisation; Tegh Bahadur's martyrdom led to Gobind Singh and later the Khalsa.
-23. Saint chronology bridge often used in matches: **Namdev → Kabir → Nanak → Chaitanya (चैतन्य)**.
-24. **Ranjit Singh (रणजीत सिंह)'s Adalat-i-Ala** at **Lahore** belongs to the later Sikh Empire, not the Guru period.
-25. **Guru Gobind Singh** was born at **Patna** (पटना); he died at **Nanded**, where **Hazur Sahib** stands.
-26. **Banda Bahadur** (बंदा बहादुर)’s earlier name was **Lachman Dev** (Lachhman Dev); Gobind Singh gave him the Sikh name.
-27. **Hem Kund** (Chamoli (चमोली), Uttarakhand (उत्तराखंड)) is a famous Sikh gurudwara site linked to Gobind Singh tradition.
-28. Among early Adi Granth compositions is **Jayadev**; among the last human additions is **Guru Tegh Bahadur**.
+2. **Mardana** (मर्दाना) was Nanak's Muslim **rabab** companion and **disciple**, not a Guru.
+3. **Guru Angad** (earlier **Bhai Lehna (लेहना)**) standardised **Gurmukhi**; **Guru Amar Das** organised **22 Manjis** and made langar firm at **Goindwal**.
+4. **Akbar** (अकबर) granted about **500 bighas** (with a pond) to **Bibi Bhani**, wife of **Guru Ram Das**; **Ramdaspur** on that land became **Amritsar** (अमृतसर).
+5. **Guru Arjan** (गुरु अर्जन) compiled the **Adi Granth (आदि ग्रंथ) in 1604**, built **Harmandir (हरमंदिर) Sahib** (हरमंदिर साहिब), started the **Masand** (मसंद) tenth, founded **Tarn Taran** and **Kartarpur**, and was martyred under **Jahangir (जहाँगीर) in 1606** after aiding **Khusrau**.
+6. **Guru Hargobind (हरगोबिंद)** introduced **miri (मीरी)–piri (पीरी)** and built the **Akal Takht** (अकाल तख़्त); he did **not** create the Khalsa.
+7. **Guru Tegh Bahadur** (गुरु तेग बहादुर) was executed in **Delhi in 1675** under **Aurangzeb** (औरंगजेब).
+8. **Guru Gobind Singh** (गुरु गोबिंद सिंह) founded the **Khalsa at Anandpur (आनंदपुर) on Vaisakhi 1699** with the **Panj Pyare** (पंज प्यारे).
+9. **Adi Granth** (आदि ग्रंथ) names the 1604 book; **Guru Granth Sahib** names the same canon as living Guru after 1708.
+10. **Dasam Granth** (दसम ग्रंथ) is a separate corpus linked to Gobind Singh and is **not** the eternal Guru.
+11. **Japji Sahib** of Nanak opens the Granth; hymns of Kabir (कबीर), Namdev (नामदेव), Ravidas, and Sheikh Farid also appear.
+12. **Harmandir Sahib** is the spiritual centre; **Akal Takht** is the temporal seat beside it.
+13. **Zafarnama** is Gobind Singh's **Persian** (फ़ारसी) letter to Aurangzeb.
+14. **Kabir did not found Sikhism**; his hymns later entered the Granth.
+15. **Har Krishan** (हर कृष्ण), the child eighth Guru, is remembered for service during a **Delhi** epidemic.
+16. **Ranjit Singh (रणजीत सिंह)'s Adalat-i-Ala** at **Lahore** belongs to the later Sikh Empire, not the Guru period.
+17. **Guru Gobind Singh** was born at **Patna** (पटना); he died at **Nanded**, where **Hazur Sahib** stands.
+18. **Banda Bahadur** (बंदा बहादुर)’s earlier name was **Lachman Dev** (Lachhman Dev); Gobind Singh gave him the Sikh name.
+19. **Hem Kund** (Chamoli (चमोली), Uttarakhand (उत्तराखंड)) is a famous Sikh gurudwara site linked to Gobind Singh tradition.
+20. **Kabir did not found Sikhism.** His hymns later entered the Granth.
+21. **Langar** is the free community kitchen.
+22. **Sangat** is the congregation for hymn and counsel.
+23. **Khalsa** later means the initiated order of **1699**.
+24. **Mardana** was Nanak’s Muslim **rabab** companion and **disciple**.
+25. **Guru Angad** succeeded Nanak though he was not Nanak’s son.
+26. **Guru Granth Sahib** is the eternal Guru.
+27. **Mata Khivi** is remembered for langar service under the early Gurus.
+28. **Guru Nanak** appointed **Bhai Lehna** as successor; Lehna became **Guru Angad**.
+29. **Guru Angad** is remembered as the progenitor of the **Gurmukhi** script (लिपि).
+30. **Guru Amar Das** divided the Sikh religious organisation into **22 Manjis**.
+31. **Akbar** donated about **500 bighas** of land with a natural pond to **Bibi Bhani**, wife of **Guru Ram Das**.
+32. **Guru Arjan Dev** built **Sri Harmandir Sahib** in the middle of the Amritsar tank.
+33. **Jahangir** (जहाँगीर) treated that act as disloyalty and ordered Arjan’s death by torture.
+34. **Guru Angad** standardised **Gurmukhi** for Punjabi hymns.
+35. **Guru Amar Das** made **langar** a firm rule at **Goindwal**.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Lehna | Sri Chand | Nanak’s chosen successor (Angad) vs Nanak’s son (not Guru) | लेहना / श्रीचंद |
-| Manji | Masand | Amar Das’s 22 preaching circles vs Arjan’s tenth collection | मंजी / मसंद |
-| Nanak | Gobind Singh | Founder 1469 vs 10th Guru + Khalsa 1699 | नानक / गोबिंद सिंह |
-| Adi Granth | Guru Granth Sahib | Compiled 1604 by Arjan vs eternal Guru after 1708 | आदि ग्रंथ / गुरु ग्रंथ साहिब |
-| Harmandir | Akal Takht | Golden Temple (spiritual) vs temporal seat (Hargobind) | हरमंदिर / अकाल तख़्त |
-| Miri | Piri | Temporal sword vs spiritual sword (Hargobind) | मीरी / पीरी |
-| Arjan | Tegh Bahadur | 1606 Jahangir vs 1675 Aurangzeb | अर्जुन / तेग बहादुर |
-| Khalsa (Sikh) | Khalsa (Mughal) | 1699 initiated Panth vs crown land | सिख खालसा / मुगल खालसा |
-| Mardana | Nanak | Disciple/rababi vs Guru | मर्दाना / नानक |
-| Anandpur | Amritsar | Khalsa 1699 vs Ram Das tank / Harmandir | अनंदपुर / अमृतसर |
-| Hargobind | Gobind Singh | Miri-Piri start vs Khalsa ritual | हरगोबिंद / गोबिंद सिंह |
-| Har Krishan | Gobind Singh | 8th child Guru vs 10th last human Guru | हर कृष्ण / गोबिंद सिंह |
-| Dasam Granth | Guru Granth | Gobind Singh corpus vs eternal Guru | दसम ग्रंथ / गुरु ग्रंथ |
-| Panj Pyare | Ten Gurus | First five Khalsa 1699 vs 1469–1708 line | पंज प्यारे / दस गुरु |
-| Langar | Sangat | Community kitchen vs congregation | लंगर / संगत |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+25. **Lehna = Angad**; **Sri Chand** and **Mardana** are not successors.
+26. **Manji** = Amar Das; **Masand tenth** = Arjan; **Miri–Piri** = Hargobind; **Khalsa** = Gobind Singh.
+27. **Amritsar** rises from **Akbar’s grant** to **Bibi Bhani** / **Ram Das**, not from Nanak or Gobind Singh.
+28. **Hem Kund** (UK) ≠ Roop Kund; **Nanded / Hazur Sahib** = Gobind Singh’s end.
+29. **Banda Bahadur** = **Lachhman Dev**, not Mahesh Das.
+
+1. **Kabir** did not found Sikhism. **Guru Nanak** founded the line.
+2. **Mardana** was not Nanak’s guru. He was Nanak’s disciple.
+3. **Guru Nanak** did not create the Khalsa. **Guru Gobind Singh** created it in **1699**.
+4. **Sikh Khalsa** of 1699 is not **Mughal Khalsa** crown land — keep the Panth and revenue terms separate.
+5. **Guru Arjan** was not executed under Aurangzeb. **Jahangir** ordered his execution in **1606**.
+6. **Guru Tegh Bahadur** was not martyred in **1606**. **Aurangzeb** had him executed in **1675**.
+7. **Guru Gobind Singh** did not compile the Adi Granth. **Guru Arjan** compiled it in **1604**.
+8. The **Dasam Granth** is not the eternal Guru.
+9. **Guru Hargobind** did not create the Khalsa. He began **Miri-Piri**.
+10. There is **no 11th human Guru**.
+11. **Har Krishan** is the **8th** Guru, not the 10th.
+12. The Khalsa was created at **Anandpur**, not Amritsar.
+13. **1604** and **1606** are different facts. Do not swap compilation and martyrdom.
+14. **Adalat-i-Ala** belongs to **Ranjit Singh** at **Lahore**, not to Nanak.
+15. Sikhism upholds the **householder** path, not forest **sanyasa**, as the ideal.
 
 
 ---

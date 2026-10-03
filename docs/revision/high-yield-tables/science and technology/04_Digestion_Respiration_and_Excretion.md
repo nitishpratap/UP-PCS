@@ -11,9 +11,17 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 4 — Digestion, Respiration and Excretion</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Event / Fact | Must-Score Fact |
+|------|-------------|----------------------|
+| **2024** | UKPCS tested agent class utilized as an **immunosuppressor in kidney transplantation**. | Keyed answer: **Monoclonal antibodies** (e.g. Basiliximab / Daclizumab) and calcineurin inhibitors (Cyclosporine A), preventing allograft organ rejection; antibiotics do not prevent graft rejection. |
+| **Still Current** | **Kidney stone composition in India**: Over **80% of urinary calculi** are composed of insoluble **Calcium Oxalate ($CaC_2O_4$) crystals**, followed by calcium phosphate and uric acid. | Dietary facts: Foods rich in oxalates (tomatoes, spinach, beetroot, chocolate) accelerate stone formation in genetically prone individuals. |
+| **Still Current** | Medical device fact: **Haemodialysis machine ("Artificial Kidney")** operates on the physical principle of **Dialysis across a semi-permeable cellophane membrane**. | Patient's blood is drawn from an artery, mixed with anticoagulant **Heparin**, filtered against dialyzing fluid, rewarmed, and reinfused with **Anti-heparin** into a vein. |
+
+---
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -29,20 +37,6 @@ hide:
 | **Ureotelic** | **Uricotelic** | Excrete urea (mammals, adult frogs; moderate water loss) vs excrete insoluble uric acid paste (birds, reptiles, insects; water conservation) | यूरियोटेलिक / यूरिकोटेलिक |
 | **Renal Calculi** | **Gout** | Deposition of calcium oxalate stones in renal pelvis vs deposition of uric acid crystals in synovial joints | गुर्दे की पथरी / गठिया (गाउट) |
 | **Diabetes Mellitus** | **Diabetes Insipidus** | Insulin defect, hyperglycaemia, glucose present in urine vs ADH defect, massive dilute tasteless urine, zero glucose in urine | मधुमेह / उदकमेह |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Event / Fact | Must-Score Fact |
-|------|-------------|----------------------|
-| **2024** | UKPCS tested agent class utilized as an **immunosuppressor in kidney transplantation**. | Keyed answer: **Monoclonal antibodies** (e.g. Basiliximab / Daclizumab) and calcineurin inhibitors (Cyclosporine A), preventing allograft organ rejection; antibiotics do not prevent graft rejection. |
-| **Still Current** | **Kidney stone composition in India**: Over **80% of urinary calculi** are composed of insoluble **Calcium Oxalate ($CaC_2O_4$) crystals**, followed by calcium phosphate and uric acid. | Dietary facts: Foods rich in oxalates (tomatoes, spinach, beetroot, chocolate) accelerate stone formation in genetically prone individuals. |
-| **Still Current** | Medical device fact: **Haemodialysis machine ("Artificial Kidney")** operates on the physical principle of **Dialysis across a semi-permeable cellophane membrane**. | Patient's blood is drawn from an artery, mixed with anticoagulant **Heparin**, filtered against dialyzing fluid, rewarmed, and reinfused with **Anti-heparin** into a vein. |
 
 ---
 
@@ -166,18 +160,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Starch digestion begins in the mouth (buccal cavity); salivary glands secrete Ptyalin (Salivary Amylase) at optimum pH 6.8, hydrolysing ~30% of dietary starch into the disaccharide Maltose; protein and fat digestion do not occur in the mouth.
-- **Exam Anchor:** The adult human dental formula is $\frac{2123}{2123} \times 2 = 32$ (2 Incisors, 1 Canine, 2 Premolars, 3 Molars per quadrant); milk / deciduous dental formula of children is $\frac{2102}{2102} \times 2 = 20$ (Premolars are completely absent in milk dentition).
 - **Exam Anchor:** Tooth Enamel is the hardest substance in the human body; secreted by specialized epithelial cells called Ameloblasts; composed of 96% inorganic mineral crystals of Calcium Hydroxyapatite; dentine is secreted by Odontoblasts.
-- **Exam Anchor:** Protein digestion begins in the stomach; gastric chief (peptic) cells secrete inactive Pepsinogen, which is activated into Pepsin by Hydrochloric Acid (HCl) at a strongly acidic pH of 1.5–2.0.
-- **Exam Anchor:** Gastric juice also contains Rennin (Chymosin) in infants, which coagulates soluble milk protein Casein into insoluble Calcium Paracaseinate in the presence of calcium ions; adults digest milk protein via pepsin.
 - **Exam Anchor:** Trypsin and Chymotrypsin are proteolytic enzymes produced by the pancreas and active in the alkaline medium of the small intestine; they are never secreted by the stomach.
-- **Exam Anchor:** Inactive pancreatic Trypsinogen is activated into active Trypsin by the brush-border enzyme Enterokinase (Enteropeptidase) secreted by the duodenal intestinal mucosa.
-- **Exam Anchor:** The Liver is the largest gland of the human body (weighing 1.2–1.5 kg); synthesises and secretes Bile; stores glycogen, synthesises urea via the ornithine cycle, detoxifies drugs, and produces prothrombin and fibrinogen.
-
-</details>
+- **Exam Anchor:** Bile contains NO digestive enzymes whatsoever; contains bile salts (Sodium Glycocholate and Sodium Taurocholate) which emulsify fats (breaking large lipid globules into micro-droplets) and bile pigments (Bilirubin and Biliverdin).
+- **Exam Anchor:** Tidal Volume (TV): Volume of air inspired or expired during a normal quiet breath = $\mathbf{\sim 500\text{ mL}}$ in healthy adults.
+- **Exam Anchor:** Inspiratory Reserve Volume (IRV): Extra volume inspired forcefully after normal tidal inspiration = $2500–3000\text{ mL}$.
+- **Exam Anchor:** Expiratory Reserve Volume (ERV): Extra volume expired forcefully after normal tidal expiration = $1000–1100\text{ mL}$.
+- **Exam Anchor:** Residual Volume (RV): Volume of air remaining permanently inside lungs even after maximal forced expiration = $\mathbf{1100–1200\text{ mL}}$; prevents alveolar collapse; cannot be measured by a spirometer.
+- **Exam Anchor:** Vital Capacity (VC): Maximum volume of air exhaled after maximal forced inspiration: $VC = TV + IRV + ERV \approx \mathbf{3500–4500\text{ mL}}$.
 
 ---
 

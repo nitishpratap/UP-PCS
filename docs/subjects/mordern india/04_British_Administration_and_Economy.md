@@ -16,7 +16,8 @@ Administrative System of British India | Local Administration | Cornwallis (क�
 
 ---
 
-## Consolidated — 33 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 33 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Colonial economic policy moved through three phases: **mercantilism (Plassey (प्लासी)–1813)**, **one-way free trade (1813–1858)**, and **finance capital / Drain (1858 onward)** [धन की निकासी / बहिर्गमन] with railway guarantees and Home Charges (गृह प्रभार).
 2. The **Permanent Settlement (1793)** [स्थायी बंदोबस्त / ज़मींदारी प्रथा] under **Cornwallis** (planned with **John Shore**) made the **zamindar** (ज़मींदार) proprietor in **Bengal, Bihar, Orissa and Varanasi (वाराणसी)**. Also called **Istamrari / Jagirdari** (इस्तमरारी / जागीरदारी). About **19%** of British India. Share: **10/11** to Company (कंपनी), **1/11** to Zamindar.
@@ -52,9 +53,10 @@ Administrative System of British India | Local Administration | Cornwallis (क�
 32. **Monetisation:** land revenue demanded in **cash**, spread of railways, and cash crops forced peasants to borrow from rural moneylenders.
 33. **Dual economy** critiques: a thin modern / export pocket alongside a distressed agrarian mass — used by Drain writers and historians against “modernisation” claims.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -82,7 +84,7 @@ Administrative System of British India | Local Administration | Cornwallis (क�
 | Herschell (1893) | Fowler (1898) | Closed free silver coinage vs gold-exchange standard at 1s 4d | हर्शेल / फाउलर |
 | Dual economy | Drain of Wealth | Split modern-export pocket vs mass distress vs unrequited transfer of surplus to Britain | द्वैत अर्थव्यवस्था / धन निष्कासन |
 
----
+</details>
 
 ## Must-score facts — administration, economy, dates
 

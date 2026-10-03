@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>UP Special Topic 5 — Agriculture, Agro-Climatic Zones, Irrigation Networks, Rural Economy and Research Institutes</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -29,18 +35,6 @@ hide:
 | **Matatila Dam (Lalitpur)** | **Parichha Dam (Jhansi)** | Both on Betwa River: Matatila is in **Lalitpur**; Parichha is in **Jhansi**. |
 | **Badua Dam (Bihar)** | **Baghelkhand Dams (UP)** | Badua Dam is in **Banka, Bihar** (NOT UP); Adwa/Sirsi/Meja are in **UP**. |
 | **Tubewell Share (~75%)** | **Canal Share (~15%)** | Tubewells are the **overwhelming #1 source**; Canals are a distant **#2**. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -162,18 +156,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Uttar Pradesh is divided into 9 Agro-Climatic Zones by the Planning Commission.
-- **Exam Anchor:** The South-Western Semi-Arid Zone (Agra, Mathura) receives the lowest rainfall in Uttar Pradesh.
-- **Exam Anchor:** The Bhabhar & Terai Zone receives the highest rainfall in Uttar Pradesh.
 - **Exam Anchor:** Tube-wells (Nalkoop) account for approximately 74.9% of the net irrigated area in UP.
 - **Exam Anchor:** Canals (Nahar) constitute the second largest source of irrigation in UP (~15.2%).
 - **Exam Anchor:** Private tube-wells alone irrigate over 71% of UP's cultivated farm area.
-- **Exam Anchor:** Uttar Pradesh has the largest total replenishable groundwater resource in India (~40.7 bcm).
-- **Exam Anchor:** The Upper Ganga Canal was opened on 8 April 1854, engineered by Sir Proby Cautley with its offtake at Bhimgoda, Haridwar.
-
-</details>
+- **Exam Anchor:** Matatila Dam (Rani Lakshmibai Dam) is built on the Betwa River in Lalitpur district.
+- **Exam Anchor:** Rihand Dam (Govind Ballabh Pant Sagar), the largest reservoir by volume in India, is built on the Rihand River at Pipri (Sonbhadra).
+- **Exam Anchor:** Chandauli district is traditionally known as the "Rice Bowl of Uttar Pradesh" (Dhan ka Katora).
+- **Exam Anchor:** Malihabad (Lucknow) is world-renowned for its GI-tagged Dasheri Mango.
+- **Exam Anchor:** Prayagraj (Allahabad) and Kaushambi are famous for the Allahabad Surkha Guava (red flesh, GI-tagged).
 
 ---
 
@@ -185,7 +177,7 @@ hide:
 
 Which of the following is correct regarding this topic?
 
-A. Uttar Pradesh is divided into 9 Agro-Climatic Zones by the Planning Commission.
+A. Tube-wells (Nalkoop) account for approximately 74.9% of the net irrigated area in UP.
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
@@ -196,7 +188,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Uttar Pradesh is divided into **9 Agro-Climatic Zones** by the Planning Commission.
+- **Key Exam Association:** **Tube-wells (Nalkoop)** account for approximately **74.9%** of the net irrigated area in UP.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -204,8 +196,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The South-Western Semi-Arid Zone (Agra, Mathura) receives the lowest rainfall in Uttar Pradesh.
+A. Contrary to standard doctrine, Canals applies only to union territories and not state jurisdictions.
+B. Canals (Nahar) constitute the second largest source of irrigation in UP (~15.2%).
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -215,7 +207,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **South-Western Semi-Arid Zone** (Agra, Mathura) receives the **lowest rainfall** in Uttar Pradesh.
+- **Key Exam Association:** **Canals (Nahar)** constitute the second largest source of irrigation in UP (~**15.2%**).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -223,9 +215,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Private applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. The Bhabhar & Terai Zone receives the highest rainfall in Uttar Pradesh.
+C. Private tube-wells alone irrigate over 71% of UP's cultivated farm area.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -234,7 +226,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Bhabhar & Terai Zone** receives the **highest rainfall** in Uttar Pradesh.
+- **Key Exam Association:** **Private tube-wells** alone irrigate over 71% of UP's cultivated farm area.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -242,10 +234,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Tube-wells applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Matatila applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Tube-wells (Nalkoop) account for approximately 74.9% of the net irrigated area in UP.
+D. Matatila Dam (Rani Lakshmibai Dam) is built on the Betwa River in Lalitpur district.
 
 <details>
 <summary>Show answer</summary>
@@ -253,7 +245,7 @@ D. Tube-wells (Nalkoop) account for approximately 74.9% of the net irrigated are
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Tube-wells (Nalkoop)** account for approximately **74.9%** of the net irrigated area in UP.
+- **Key Exam Association:** **Matatila Dam (Rani Lakshmibai Dam)** is built on the **Betwa River** in **Lalitpur district**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -261,7 +253,7 @@ D. Tube-wells (Nalkoop) account for approximately 74.9% of the net irrigated are
 
 Which of the following is correct regarding this topic?
 
-A. Canals (Nahar) constitute the second largest source of irrigation in UP (~15.2%).
+A. Rihand Dam (Govind Ballabh Pant Sagar), the largest reservoir by volume in India, is built on the Rihand River at Pipri (Sonbhadra).
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -272,7 +264,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Canals (Nahar)** constitute the second largest source of irrigation in UP (~**15.2%**).
+- **Key Exam Association:** **Rihand Dam (Govind Ballabh Pant Sagar)**, the largest reservoir by volume in India, is built on the **Rihand River** at Pipri (**Sonbhadra**).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -280,8 +272,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Private applies only to union territories and not state jurisdictions.
-B. Private tube-wells alone irrigate over 71% of UP's cultivated farm area.
+A. Contrary to standard doctrine, Chandauli applies only to union territories and not state jurisdictions.
+B. Chandauli district is traditionally known as the "Rice Bowl of Uttar Pradesh" (Dhan ka Katora).
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -291,7 +283,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Private tube-wells** alone irrigate over 71% of UP's cultivated farm area.
+- **Key Exam Association:** **Chandauli district** is traditionally known as the **"Rice Bowl of Uttar Pradesh"** (Dhan ka Katora).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -299,9 +291,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Uttar applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Malihabad applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. Uttar Pradesh has the largest total replenishable groundwater resource in India (~40.7 bcm).
+C. Malihabad (Lucknow) is world-renowned for its GI-tagged Dasheri Mango.
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -310,7 +302,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Uttar Pradesh has the largest total replenishable groundwater resource in India (~**40.7 bcm**).
+- **Key Exam Association:** **Malihabad (Lucknow)** is world-renowned for its GI-tagged **Dasheri Mango**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -318,10 +310,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Prayagraj applies only to union territories and not state jurisdictions.
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. The Upper Ganga Canal was opened on 8 April 1854, engineered by Sir Proby Cautley with its offtake at Bhimgoda, Haridwar.
+D. Prayagraj (Allahabad) and Kaushambi are famous for the Allahabad Surkha Guava (red flesh, GI-tagged).
 
 <details>
 <summary>Show answer</summary>
@@ -329,7 +321,7 @@ D. The Upper Ganga Canal was opened on 8 April 1854, engineered by Sir Proby Cau
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Upper Ganga Canal** was opened on **8 April 1854**, engineered by **Sir Proby Cautley** with its offtake at **Bhimgoda, Haridwar**.
+- **Key Exam Association:** **Prayagraj (Allahabad)** and Kaushambi are famous for the **Allahabad Surkha Guava** (red flesh, GI-tagged).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -337,7 +329,7 @@ D. The Upper Ganga Canal was opened on 8 April 1854, engineered by Sir Proby Cau
 
 Which of the following is correct regarding this topic?
 
-A. The Lower Ganga Canal was commissioned in 1878 with its offtake barrage at Narora, Bulandshahr.
+A. Pratapgarh district is the largest producer of Aonla (Indian Gooseberry) in India.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -348,7 +340,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Lower Ganga Canal** was commissioned in **1878** with its offtake barrage at **Narora, Bulandshahr**.
+- **Key Exam Association:** **Pratapgarh district** is the largest producer of **Aonla (Indian Gooseberry)** in India.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -356,8 +348,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The Sharda Canal System, commissioned in 1928 from Banbasa, is the longest canal network in UP (~12,368 km total system).
+A. Contrary to standard doctrine, Mahoba applies only to union territories and not state jurisdictions.
+B. Mahoba is historically celebrated for its high-grade Paan (Betel Vine / Bareja) cultivation.
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -367,7 +359,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Sharda Canal System**, commissioned in **1928** from **Banbasa**, is the **longest canal network** in UP (~12,368 km total system).
+- **Key Exam Association:** **Mahoba** is historically celebrated for its high-grade **Paan (Betel Vine / Bareja)** cultivation.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -375,9 +367,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Chandra applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. The Eastern Yamuna Canal has its offtake at Tajewala / Hathinikund Barrage (Saharanpur border).
+C. Chandra Shekhar Azad University of Agriculture & Technology (CSAUAT) was established at Kanpur in 1975.
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -386,7 +378,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Eastern Yamuna Canal** has its offtake at **Tajewala / Hathinikund Barrage** (Saharanpur border).
+- **Key Exam Association:** **Chandra Shekhar Azad University of Agriculture & Technology (CSAUAT)** was established at **Kanpur in 1975**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -394,10 +386,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Acharya applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. The Agra Canal was opened in 1874 with its headworks at Okhla Barrage (Delhi) on the Yamuna.
+D. Acharya Narendra Deva University of Agriculture & Technology (ANDUAT) was established at Kumarganj (Ayodhya) in 1975.
 
 <details>
 <summary>Show answer</summary>
@@ -405,7 +397,7 @@ D. The Agra Canal was opened in 1874 with its headworks at Okhla Barrage (Delhi)
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Agra Canal** was opened in **1874** with its headworks at **Okhla Barrage (Delhi)** on the Yamuna.
+- **Key Exam Association:** **Acharya Narendra Deva University of Agriculture & Technology (ANDUAT)** was established at **Kumarganj (Ayodhya) in 1975**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -413,7 +405,7 @@ D. The Agra Canal was opened in 1874 with its headworks at Okhla Barrage (Delhi)
 
 Which of the following is correct regarding this topic?
 
-A. The Saryu Nahar National Project, dedicated in December 2021, interlinks 5 rivers (Ghaghara, Saryu, Rapti, Banganga, Rohini) across 9 districts.
+A. Sardar Vallabhbhai Patel University of Agriculture & Technology (SVPUAT) was established at Meerut in 2000.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -424,7 +416,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Saryu Nahar National Project**, dedicated in December 2021, interlinks 5 rivers (Ghaghara, Saryu, Rapti, Banganga, Rohini) across 9 districts.
+- **Key Exam Association:** **Sardar Vallabhbhai Patel University of Agriculture & Technology (SVPUAT)** was established at **Meerut in 2000**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -432,8 +424,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The Ken-Betwa River Interlinking Project is India's first national river interlink, transferring water via Daudhan Dam to Bundelkhand.
+A. Contrary to standard doctrine, Banda applies only to union territories and not state jurisdictions.
+B. Banda University of Agriculture & Technology (BUAT) was established at Banda in 2010.
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -443,7 +435,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Ken-Betwa River Interlinking Project** is India's first national river interlink, transferring water via **Daudhan Dam** to Bundelkhand.
+- **Key Exam Association:** **Banda University of Agriculture & Technology (BUAT)** was established at **Banda in 2010**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -451,9 +443,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Matatila applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Rani applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Matatila Dam (Rani Lakshmibai Dam) is built on the Betwa River in Lalitpur district.
+C. Rani Lakshmi Bai Central Agricultural University was established in Jhansi in 2014 by an Act of Parliament.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -462,6 +454,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Matatila Dam (Rani Lakshmibai Dam)** is built on the **Betwa River** in **Lalitpur district**.
+- **Key Exam Association:** **Rani Lakshmi Bai Central Agricultural University** was established in **Jhansi in 2014** by an Act of Parliament.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

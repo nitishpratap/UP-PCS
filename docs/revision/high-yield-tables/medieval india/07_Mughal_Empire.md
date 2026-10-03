@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 7 — Mughal (मुग़ल) Empire</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -36,11 +34,7 @@ hide:
 | Bahadur Shah I | Zafar | **1707** successor of Aurangzeb vs **last** Mughal **1837–57** | बहादुर शाह I / ज़फ़र |
 | Rangeela | Farrukhsiyar | **Nadir / Peacock Throne 1739** vs **1717** Company farman + Sayyid peak | रंगीला / फ़र्रुख़ |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Battle ↔ year
 
@@ -236,18 +230,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Babur (बाबर) founded the Mughal empire after defeating Ibrahim (इब्राहिम) Lodi at the First Battle of Panipat (पानीपत) on 21 April 1526 (GC; also cited as 20 April), using Tulughma flanking and Araba cart-forts.
 - **Exam Anchor:** Panipat I (1526) Cause–Course–Result: divided Afghan nobles vs Babur’s claim → Tulughma + Araba + guns broke Lodi’s mass → Ibrahim killed and the Delhi Sultanate ended.
-- **Exam Anchor:** At Khanwa (खानवा) in 1527, Babur defeated Rana Sanga (सांगा)'s Rajput confederacy; Chanderi 1528 and Ghagra 1529 followed against Medini Rai (राई) and eastern Afghans.
 - **Exam Anchor:** Khanwa (1527) Cause–Course–Result: Sanga’s post-Panipat confederacy → Babur’s artillery and cart-forts → Rajput challenge to the early Mughal core crushed.
 - **Exam Anchor:** Baburnama (बाबरनामा) (Tuzk-e-Babri) was written in Chagatai (चगताई) Turki (तुर्की), not Persian; the Mughal court language was Persian (फ़ारसी).
-- **Exam Anchor:** The Mughals were Chagatai Turks (तुर्क) (from Chinggis Khan's second son); Babur took Padshah at Kabul (1504), not only after Panipat (पानीपत).
 - **Exam Anchor:** Alam Khan (आलम खान) was Ibrahim Lodi's uncle and a throne pretender; Daulat Khan (दौलत खान), Dilawar Khan, and Rana Sanga also invited Babur.
-- **Exam Anchor:** Tomb fact: Babur–Kabul, Humayun–Delhi, Akbar–Sikandra, Jahangir–Lahore, and Shah Jahan–Agra (Taj for Mumtaz).
-
-</details>
+- **Exam Anchor:** Daurah (दौराह) (1532) was Humayun versus Afghan chiefs; do not confuse it with Dharmat (धर्मत) (April 1658), Aurangzeb versus Jaswant Singh.
+- **Exam Anchor:** Panipat II (1556) Cause–Course–Result: Hemu seized Delhi after Humayun’s death → Bairam’s army struck Hemu near Panipat → Akbar’s throne secured and Sur-Afghan bid collapsed.
+- **Exam Anchor:** Bairam Khan received the title Khan-i-Khana from Akbar (अकबर) — only that statement is true; the claim that the title came when he was appointed Vazir (वक़ील) is false.
 
 ---
 

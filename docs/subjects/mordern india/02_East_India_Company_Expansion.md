@@ -15,7 +15,8 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey (
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Company rule (कंपनी शासन) phases**: Factories → **Plassey puppet (1757)** → **Diwani (दीवानी) (1765)** → Dual Govt ends **1772** → Ring Fence (रिंग फेंस) → **Subsidiary Alliance (1798)** → Paramountcy → **Lapse (1848)**.
 2. **Plassey (23 June 1757) — Cause:** Farman misuse, *dastak* abuse, and Siraj–Company friction after Calcutta crisis. **Course:** Clive’s conspiracy with **Mir Jafar**, Jagat Seth, Omichand. **Result:** Mir Jafar puppet Nawab — **no Diwani yet**.
@@ -110,9 +111,10 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey (
       *(Note: Awadh annexed in 1856 on MISGOVERNANCE, not Lapse)*
 ```
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -131,7 +133,7 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey (
 | Masterly Inactivity | Forward Policy | John Lawrence's Afghan caution vs Lytton's aggression. | मास्टरी इनएक्टिविटी / फॉरवर्ड |
 | Bedara 1759 | Wandiwash 1760 | English crushed the Dutch vs English crushed the French. | बेदारा / वाण्डीवाश |
 
----
+</details>
 
 ## Must-score facts — treaties, battles, GG tags
 

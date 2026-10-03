@@ -15,7 +15,8 @@ Babur (बाबर) | Establishment of the Mughal Empire | Literary Contributio
 
 ---
 
-## Consolidated — 42 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Babur** (बाबर) founded the Mughal empire after defeating **Ibrahim (इब्राहिम) Lodi** at the **First Battle of Panipat (पानीपत)** on **21 April 1526** (GC; also cited as 20 April), using **Tulughma** flanking and **Araba** cart-forts.
 2. **Panipat I (1526)** Cause–Course–Result: divided Afghan nobles vs Babur’s claim → Tulughma + Araba + guns broke Lodi’s mass → Ibrahim killed and the Delhi Sultanate ended.
@@ -60,9 +61,10 @@ Babur (बाबर) | Establishment of the Mughal Empire | Literary Contributio
 41. **Shah Jahan’s Balkh–Badakhshan (1646–47)** was a prestige failure; do not treat it as equal to Aurangzeb’s Deccan annexations.
 42. **Khalsa** (ख़ालिसा) under Mughals means crown land; **jagir** is the assigned revenue unit of a mansabdar — keep both distinct from Sikh **Khalsa (1699)**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -84,7 +86,8 @@ Babur (बाबर) | Establishment of the Mughal Empire | Literary Contributio
 | Balkh failure | Deccan annexation | Shah Jahan’s **1646–47** prestige flop vs Aurangzeb’s **Bijapur 1686 / Golkonda 1687** | बल्ख / दक्कन |
 | Bahadur Shah I | Zafar | **1707** successor of Aurangzeb vs **last** Mughal **1837–57** | बहादुर शाह I / ज़फ़र |
 | Rangeela | Farrukhsiyar | **Nadir / Peacock Throne 1739** vs **1717** Company farman + Sayyid peak | रंगीला / फ़र्रुख़ |
----
+
+</details>
 
 ## Must-score facts — battles, tombs, admin
 

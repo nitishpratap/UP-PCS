@@ -11,9 +11,17 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 5 — Blood, Heart, Circulation and Lymph</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Event / Fact | Must-Score Fact |
+|------|-------------|----------------------|
+| **Historical & Still Tested** | First human heart transplant performed on **3 December 1967** by **Dr. Christiaan Barnard** at Groote Schuur Hospital, Cape Town, South Africa. | Frequently tested in state PSCs; William Harvey discovered blood circulation (1628), but did **not** perform heart transplants. |
+| **National Landmark** | First successful human heart transplant in India performed on **3 August 1994** by **Dr. P. Venugopal** at **AIIMS, New Delhi**. | Landmark in Indian cardiothoracic surgery. |
+| **Still Current** | **World Heart Day** is observed annually on **29 September**; **World Blood Donor Day** is observed on **14 June** (birth anniversary of Karl Landsteiner). | Commemorates discovery of the ABO blood group system by Landsteiner. |
+
+---
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -28,20 +36,6 @@ hide:
 | **Blood** | **Lymph** | Contains RBCs, platelets, large proteins, carries $O_2$ vs clear fluid lacking RBCs and platelets, rich in lymphocytes | रक्त / लसीका |
 | **Blue Baby (Methemoglobin)**| **Blue Baby (Heart Defect)** | Nitrate in drinking water oxidizes $Fe^{2+} \rightarrow Fe^{3+}$ vs congenital anatomical defect (Fallot tetralogy / patent foramen ovale) | रासायनिक ब्लू बेबी / जन्मजात हृदय दोष |
 | **Spleen** | **Liver** | Graveyard of RBCs, filters blood and stores RBCs vs produces bile, stores glycogen, synthesises urea and clotting factors | प्लीहा (तिल्ली) / यकृत |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Event / Fact | Must-Score Fact |
-|------|-------------|----------------------|
-| **Historical & Still Tested** | First human heart transplant performed on **3 December 1967** by **Dr. Christiaan Barnard** at Groote Schuur Hospital, Cape Town, South Africa. | Frequently tested in state PSCs; William Harvey discovered blood circulation (1628), but did **not** perform heart transplants. |
-| **National Landmark** | First successful human heart transplant in India performed on **3 August 1994** by **Dr. P. Venugopal** at **AIIMS, New Delhi**. | Landmark in Indian cardiothoracic surgery. |
-| **Still Current** | **World Heart Day** is observed annually on **29 September**; **World Blood Donor Day** is observed on **14 June** (birth anniversary of Karl Landsteiner). | Commemorates discovery of the ABO blood group system by Landsteiner. |
 
 ---
 
@@ -159,18 +153,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Blood is a specialized fluid connective tissue consisting of ~55% liquid Plasma and ~45% cellular Formed Elements; slightly alkaline with a normal physiological pH of 7.35–7.45; total blood volume in a healthy adult is 5 to 6 litres (~7–8% of body weight).
-- **Exam Anchor:** Blood plasma is 90–92% water; plasma proteins include Albumin (maintains colloidal osmotic / oncotic pressure, ~4 g/dL), Globulins ($\alpha, \beta, \gamma$ — $\gamma$-globulins act as circulating antibodies), and Fibrinogen (essential for blood clotting); $\text{Serum} = \text{Plasma} - \text{Clotting Factors (Fibrinogen)}$.
 - **Exam Anchor:** Erythrocytes (Red Blood Cells / RBCs): Normal count is 5.0–5.5 million / $\mathbf{mm^3}$ in males and 4.5–5.0 million / $\text{mm}^3$ in females; mature mammalian RBCs are biconcave, circular, and enucleated (lack nucleus, mitochondria, and Golgi bodies; Camel and Llama are exceptions: their RBCs are oval and nucleated).
-- **Exam Anchor:** Absence of mitochondria forces RBCs to generate ATP exclusively through anaerobic glycolysis, preventing them from consuming any of the oxygen they transport.
-- **Exam Anchor:** RBCs are produced in the red bone marrow (Erythropoiesis); stimulated by the glycoprotein hormone Erythropoietin (EPO) secreted by renal juxtaglomerular cells in response to hypoxia.
-- **Exam Anchor:** The average lifespan of a human red blood cell is $\mathbf{\sim 120\text{ days}}$; worn-out aged RBCs are destroyed by macrophages in the Spleen, which is universally designated as the "Graveyard of RBCs" (and acts as a reserve "Blood Bank").
 - **Exam Anchor:** Haemoglobin ($Hb$): Conjugated chromoprotein; normal concentration is $14–17\text{ g/dL}$ in adult men and $12–15\text{ g/dL}$ in women; consists of the protein globin and 4 iron-porphyrin Haem groups containing ferrous iron ($\mathbf{Fe^{2+}}$); imparts the red colour to blood.
-- **Exam Anchor:** Each molecule of haemoglobin can bind a maximum of 4 molecules of Oxygen ($O2$) to form bright red Oxyhaemoglobin; deoxygenated blood is darker bluish-red.
-
-</details>
+- **Exam Anchor:** Methemoglobin & Blue Baby Syndrome: When ferrous iron ($Fe^{2+}$) of haemoglobin is oxidized into ferric iron ($Fe^{3+}$), it forms Methemoglobin, which cannot bind or carry oxygen; infants ingesting groundwater contaminated with Nitrates ($NO3^-$) suffer from Methemoglobinemia (Blue Baby Syndrome), presenting with acute cyanosis and chocolate-brown blood.
+- **Exam Anchor:** Leukocytes (White Blood Cells / WBCs): Total count is $6,000–8,000/\mathbf{mm^3}$; nucleated, lack haemoglobin; divided into Granulocytes and Agranulocytes; the normal ratio of RBC to WBC is $600:1$.
+- **Exam Anchor:** Neutrophils (60–65%): Most numerous; multi-lobed nucleus; primary phagocytic first-responders that engulf bacteria and cell debris.
+- **Exam Anchor:** Eosinophils / Acidophils (2–3%): Bilobed nucleus; release histaminase; counts surge in allergic reactions and intestinal helminth parasitic infections.
+- **Exam Anchor:** Basophils (0.5–1%): Least numerous; secrete Histamine (vasodilator in inflammation), Serotonin, and Heparin (natural anticoagulant).
+- **Exam Anchor:** Monocytes (6–8%): Largest WBCs; bean/kidney-shaped nucleus; enter tissues to transform into massive phagocytic Macrophages.
 
 ---
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 22 — Renewable Energy (नवीकरणीय ऊर्जा)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Small Hydro Power (SHP)** | **Large Hydro Power** | Hydropower installations with individual installed capacity up to and including **25 MW** administered under the Ministry of New and Renewable Energy (MNRE) vs large dam-based hydropower plants >25 MW administered under the Ministry of Power | लघु जल विद्युत (≤25 MW, MNRE) / बड़ी जल विद्युत परियोजनाएं (>25 MW) |
 | **International Solar Alliance (ISA)** | **International Renewable Energy Agency (IRENA)** | Treaty-based intergovernmental solar coalition initiated by India and France at COP21 Paris with global HQ in Gurugram, India vs global renewable energy intergovernmental agency covering all renewables founded in 2009 with HQ in Abu Dhabi, UAE | अंतरराष्ट्रीय सौर गठबंधन (ISA, गुरुग्राम) / इरेना (IRENA, अबू धाबी) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Solar / wind
 
@@ -128,18 +122,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Renewable energy replenishes on a human timescale — sun, wind, water, biomass, geothermal. Nuclear is low-carbon but usually not counted as renewable MCQs.
 - **Exam Anchor:** Solar PV turns sunlight directly into electricity. CSP (सीएसपी) uses mirrors to make heat, then steam and turbines.
-- **Exam Anchor:** The National Solar Mission began in 2010 under NAPCC (JNNSM from Jan 2010). India chased about 100 GW solar by 2022 and 500 GW non-fossil capacity by 2030.
-- **Exam Anchor:** Solar has the greatest RE potential in India among common options and is the most eco-friendly among solar cell vs fossils/nuclear fission options.
 - **Exam Anchor:** Bhadla in Rajasthan is India’s mega solar-park fact (not Gujarat as “largest”). PM-KUSUM supports farmer solar pumps. OSOWOG is One Sun One World One Grid.
 - **Exam Anchor:** Domestic Content Requirement (DCR) in solar news means mandating domestically manufactured PV cells/modules.
-- **Exam Anchor:** The International Solar Alliance began in 2015 (India–France, COP21). Headquarters is Gurugram. Not all UN members — originally sun-belt countries between Tropics. First Summit New Delhi, March 2018. Members target mobilising about USD 1 trillion for solar by 2030.
 - **Exam Anchor:** Cochin International Airport = world’s first fully solar-powered airport. Diu = first Indian UT / smart city running 100% solar (daytime / UT stems). Surat = first district with 100% solar-powered PHCs.
-
-</details>
+- **Exam Anchor:** Biomass is energy from organic matter. Biogas (बायोगैस) from anaerobic digestion is mainly methane (CH₄) and carbon dioxide (CO₂) (कार्बन डाइऑक्साइड) — not a butane/carbon-monoxide pair.
+- **Exam Anchor:** Geothermal uses Earth’s internal heat. Indian provinces include Himalaya (हिमालय), Cambay, West Coast, SONATA (Son–Narmada (नर्मदा)–Tapi (तापी)), Godavari (गोदावरी), Mahanadi (महानदी) — not Ganga (गंगा) Delta (डेल्टा). Sites: Puga, Manikaran, Tattapani.
+- **Exam Anchor:** Tidal energy comes from Moon-driven sea-level change. India’s best potential is often locked to the Gulf of Khambhat, then Gulf of Kutch.
 
 ---
 

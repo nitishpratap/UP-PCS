@@ -11,28 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 11 — Centre–State Relations</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| Art. **249** | Art. **250** | RS resolution, **1 year**, national interest | Emergency proclamation — Parliament on State List while Emergency is on |
-| Art. **252** | Art. **253** | **Two or more States** request; others may adopt | Treaties / international conferences — **no** State request needed |
-| Art. **254(1)** | Art. **254(2)** | Union law on Concurrent **prevails** | State Concurrent law **reserved + President assents** → State law prevails *until* Parliament legislates again |
-| Art. **275** | Art. **282** | FC-recommended, **charged** on CFI; tribal proviso | **Discretionary** grant for any public purpose (Union **and** States) |
-| Pith & substance | Colourable legislation | Incidental encroachment **OK** if true nature is in your list | Cannot do **indirectly** what you cannot do directly |
-| Entry **97** residuary | Art. **246A** GST | Leftover subjects → **Union** | GST is a **special** concurrent-style power, **not** residuary |
-| 2/3 **present and voting** (312 / 249) | 2/3 of **total membership** | AIS creation & 249 RS resolution | That formula is for **other** special majorities (e.g. 368 with majority of total) |
-| **ISC (263)** | **Zonal Council** | Constitutional, **PM**, 1990 | Statutory **SRA 1956**, **Union HM**, five zones |
-| **Art. 131** | **Art. 262** | SC original for Union/State **legal** disputes | Water: Parliament **may bar** courts — **1956 Act did** |
-| **Sarkaria** | **Rajamannar** | Strong Centre; keep AIS & 356; ISC **done** | Residuary to States; **abolish AIS**; **repeal 356** |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## Current Affairs
 
@@ -49,6 +28,21 @@ hide:
 | Mar 2022 | Assam–Meghalaya (मेघालय) border: **HM + CMs** | Inter-State dispute ≠ 131 |
 | 2019 | ISRWD Amendment Bill (permanent tribunal) | **LS only; lapsed — not law** |
 | 2018 | SC Cauvery judgment / CWMA | Award ≠ 131 original |
+
+---
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
+| Art. **249** | Art. **250** | RS resolution, **1 year**, national interest | Emergency proclamation — Parliament on State List while Emergency is on |
+| Art. **252** | Art. **253** | **Two or more States** request; others may adopt | Treaties / international conferences — **no** State request needed |
+| Art. **254(1)** | Art. **254(2)** | Union law on Concurrent **prevails** | State Concurrent law **reserved + President assents** → State law prevails *until* Parliament legislates again |
+| Art. **275** | Art. **282** | FC-recommended, **charged** on CFI; tribal proviso | **Discretionary** grant for any public purpose (Union **and** States) |
+| Pith & substance | Colourable legislation | Incidental encroachment **OK** if true nature is in your list | Cannot do **indirectly** what you cannot do directly |
+| Entry **97** residuary | Art. **246A** GST | Leftover subjects → **Union** | GST is a **special** concurrent-style power, **not** residuary |
+| 2/3 **present and voting** (312 / 249) | 2/3 of **total membership** | AIS creation & 249 RS resolution | That formula is for **other** special majorities (e.g. 368 with majority of total) |
+| **ISC (263)** | **Zonal Council** | Constitutional, **PM**, 1990 | Statutory **SRA 1956**, **Union HM**, five zones |
+| **Art. 131** | **Art. 262** | SC original for Union/State **legal** disputes | Water: Parliament **may bar** courts — **1956 Act did** |
+| **Sarkaria** | **Rajamannar** | Strong Centre; keep AIS & 356; ISC **done** | Residuary to States; **abolish AIS**; **repeal 356** |
 
 ---
 
@@ -379,18 +373,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Centre–State rules sit mainly in Part XI (legislative and administrative, 245–263), Part XII (finance, 264–293 slice), and Part XIII (trade, 301–307). The 7th Schedule carries the Union, State, and Concurrent Lists.
-- **Exam Anchor:** Under Article 246, Union List prevails over Concurrent, and Concurrent prevails over State List. Residuary powers, including residuary taxation, belong to the Union under Article 248 and Union List Entry 97 — unlike the US model where residuary powers lie with the states.
-- **Exam Anchor:** Parliament can legislate on a State List subject under 249 (Rajya Sabha (राज्यसभा) resolution for national interest, lasting one year), 250 (during a National Emergency (राष्ट्रीय आपात)), 252 (two or more States request), 253 (treaty or international obligation), and during President’s Rule under 356.
-- **Exam Anchor:** The Rajya Sabha special majority for Articles 249 and 312 is two-thirds (ते-भागा) of members present and voting, not two-thirds of total membership (सदन की कुल सदस्य संख्या का).
 - **Exam Anchor:** Article 252 needs resolutions from two or more States; other States may adopt later; only Parliament can amend or repeal that law. Article 253 needs no State request — treaties and international conferences are enough.
-- **Exam Anchor:** On the Concurrent List (समवर्ती सूची), Article 254(1) makes the Union law prevail in a clash. Under 254(2), a State law reserved for the President and assented to can prevail in that State until Parliament legislates again on the same matter.
-- **Exam Anchor:** Key doctrines are pith and substance (incidental encroachment can be valid), colourable legislation (you cannot do indirectly what you cannot do directly), repugnancy, harmonious construction, territorial nexus, and occupied field.
 - **Exam Anchor:** Articles 256 and 257 bind States to comply with Union laws and directions and not to impede Union railways and communications. Ignoring Union directions under Article 365 is a gateway to President’s Rule (356).
-
-</details>
+- **Exam Anchor:** Article 258 lets the Union entrust functions to a State (usually with consent). Article 258A (7th Amendment) lets a State entrust functions to the Union. Article 261 is full faith and credit for public acts, records, and judicial proceedings across India.
+- **Exam Anchor:** Article 265 bars tax without authority of law. Article 271 surcharge on certain Union taxes belongs to the Union only and is not shared. Article 268 stamp duties are levied by the Union but collected by the States.
+- **Exam Anchor:** Article 275 grants recommended by the Finance Commission are charged on the Consolidated Fund of India (भारत की संचित निधि) (with a tribal (आदिवासी) proviso). Article 282 allows discretionary grants by the Union or a State for any public purpose — do not swap 275 and 282.
+- **Exam Anchor:** Article 301 guarantees freedom of trade, commerce, and intercourse throughout India; it is not a Fundamental Right under Article 19. Parliament may restrict under 302. A State restriction under 304(b) needs previous Presidential sanction.
+- **Exam Anchor:** Zonal Councils are statutory under the States Reorganisation Act, 1956. There are five zones. The Union Home Minister chairs them. Uttar Pradesh (उत्तर प्रदेश) sits in the Central Zonal Council (with Uttarakhand (उत्तराखंड), Madhya Pradesh, and Chhattisgarh), not the Northern zone.
+- **Exam Anchor:** Article 131 is the Supreme Court’s exclusive original jurisdiction for Union–State or inter-State disputes involving a legal right. Private parties are out. River water is out where barred. Faith-and-credit is 261, not 131.
 
 ---
 

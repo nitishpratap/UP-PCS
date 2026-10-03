@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 7 — Education & Press</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -32,11 +30,7 @@ hide:
 | MAO College | Muir Central College | Aligarh (Sir Syed) vs Allahabad — both in Archbold's career | एमएओ / म्योर |
 | Serampore College | Fort William College | Danish missionary college (Carey, 1818) vs Company civil-servant college (Wellesley, 1800) | सेरामपुर / फोर्ट विलियम |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Education bodies
 
@@ -279,18 +273,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Charter Act, 1813 set aside ₹1 lakh a year for education and also allowed missionary entry. How to spend the grant sparked the Orientalist–Anglicist fight.
+- **Exam Anchor:** Wood's Despatch is not 1835; Macaulay's Minute is not 1854.
+- **Exam Anchor:** Hunter is not Sadler, and neither is Hartog.
+- **Exam Anchor:** Metcalfe freed the press; Adam had licensed it — do not swap the two names.
+- **Exam Anchor:** Lytton passed the Vernacular Press Act; Ripon repealed it.
 - **Exam Anchor:** Orientalists wanted Sanskrit, Arabic and Persian (फ़ारसी) learning. Anglicists wanted English and Western science. The fight ran through the Committee of Public Instruction from 1823.
 - **Exam Anchor:** Macaulay’s Minute (1835), accepted under Bentinck (बेंटिंक), settled English for higher education and the downward-filtration idea. It was a policy decision, not a full school system.
 - **Exam Anchor:** Wood’s Despatch (1854) under Dalhousie (डलहौज़ी) was the full ladder from primary school to university, with grants-in-aid. Universities of Calcutta, Bombay and Madras followed in 1857.
-- **Exam Anchor:** The Hunter Commission (1882) under Ripon (रिपन) focused on primary education and local/private effort. The Sadler Commission (1917–19) reviewed Calcutta University / higher education.
-- **Exam Anchor:** The Hartog Committee (1929) flagged primary wastage and said consolidate, don’t just expand. The Sargent Plan (1944) was the post-war official blueprint. Hartog ≠ Sargent.
-- **Exam Anchor:** The Raleigh Commission (1902) fed the Indian Universities Act, 1904 under Curzon (कर्ज़न), which tightened government control over university senates.
-- **Exam Anchor:** The National Council of Education (1906) was a Swadeshi-era nationalist schooling body in Bengal. The Wardha Scheme (1937) was Gandhi (गांधी)’s Basic Education (Nai Talim) — different projects, different decades.
-
-</details>
+- **Exam Anchor:** Serampore College (सेरामपुर) (1818) was a Danish-territory missionary college linked to Carey, Marshman and Ward. Fort William College (फोर्ट विलियम) (1800) was Wellesley (वेलेज़ली)’s Company (कंपनी) civil-servant college — do not swap.
 
 ---
 

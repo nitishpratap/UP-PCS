@@ -21,7 +21,8 @@ Environmental Pollution (पर्यावरणीय प्रदूषण) |
 
 ---
 
-## Consolidated — 39 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 39 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Pollution** is harmful addition beyond the environment (पर्यावरण)’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
 2. Human-caused pollution / human-modified environment = **anthropogenic**. Anthropogenic pollution often raises persistent **non-biodegradable** loads.
@@ -63,9 +64,10 @@ Environmental Pollution (पर्यावरणीय प्रदूषण) |
 38. **AERB** (Atomic Energy Regulatory Board) regulates nuclear safety in India. **Chernobyl (26 April 1986)** is the classic nuclear-accident teaching case; **Bhopal (1984)** is MIC industrial gas, not radioactive pollution.
 39. **Thermal pollution** raises water temperature (mainly power-plant cooling water). Warm water holds **less DO**; even a **2–3°C** rise can stress aquatic life. **Cooling towers/ponds** mitigate discharge under Water Act consent conditions.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -76,7 +78,8 @@ Environmental Pollution (पर्यावरणीय प्रदूषण) |
 | **Extended Producer Responsibility (EPR)** | **Polluter Pays Principle** | Policy mandate making manufacturers legally and financially responsible for post-consumer collection, recycling, and safe disposal of their products (E-waste, plastic packaging) vs international environmental law doctrine requiring polluters to bear the financial costs of pollution mitigation and cleanup | विस्तारित उत्पादक दायित्व (EPR) / प्रदूषक भुगतान सिद्धांत |
 | **Central Pollution Control Board (CPCB)** | **Central Ground Water Board (CGWB)** | Statutory apex pollution regulator established under Water Act 1974 for framing air/water standards and national monitoring vs subordinate scientific office under Ministry of Jal Shakti assessing groundwater resources and aquifer dynamics | केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) / केंद्रीय भूजल बोर्ड (CGWB) |
 | **Classical (London) Smog** | **Photochemical (Los Angeles) Smog** | Occurs in cool, humid winter mornings; high concentrations of SO₂ and coal soot; chemically reducing in nature vs occurs in hot, dry, sunny afternoons; vehicle exhaust NOx + volatile organic compounds (VOCs); chemically oxidizing in nature with high ozone and PAN | लंदन स्मॉग (सल्फ्यूरस/अपचायक) / प्रकाश रासायनिक स्मॉग (ऑक्सीकारक) |
----
+
+</details>
 
 ## Must-score facts — pollutants, AQI, smog, laws
 

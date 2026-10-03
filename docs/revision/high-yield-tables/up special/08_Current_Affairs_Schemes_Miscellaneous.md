@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>UP Special Topic 8 — Government Schemes, State Policies, State Symbols, Honors and Miscellaneous Facts</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -29,18 +35,6 @@ hide:
 | **ODOP Scheme (Product Focus)** | **ODOC Scheme (Cuisine Focus)** | ODOP promotes **District Manufacturing Crafts**; ODOC promotes **District Traditional Foods & Cuisines**. |
 | **Nivesh Mitra (Single Window)** | **Nivesh Sarathi (MoU Monitoring)** | Nivesh Mitra is for **Statutory Approvals**; Nivesh Sarathi is for **tracking Investment MoUs**. |
 | **Peetal Nagari (Moradabad)** | **Taala Nagari (Aligarh)** | Moradabad is **Brassware**; Aligarh is **Locks & Hardware**. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -176,18 +170,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Uttar Pradesh Diwas (UP Day) is officially celebrated every year on 24 January.
-- **Exam Anchor:** On 24 January 1950, the United Provinces was officially renamed as Uttar Pradesh.
-- **Exam Anchor:** The official State Seal / Emblem of Uttar Pradesh was formally adopted in 1938.
-- **Exam Anchor:** The State Emblem of UP incorporates a Bow and Arrow (Lord Rama), a Pair of Fish (Nawabs of Awadh), and Three Flowing Streams (Triveni Sangam).
-- **Exam Anchor:** The State Animal of Uttar Pradesh is the Swamp Deer (Barasingha) (Rucervus duvaucelii).
-- **Exam Anchor:** The State Bird of Uttar Pradesh is the Sarus Crane (Antigone antigone).
-- **Exam Anchor:** The State Tree of Uttar Pradesh is the Ashoka (Sita Ashoka) (Saraca asoca).
-- **Exam Anchor:** The State Flower of Uttar Pradesh is the Palash / Dhak / Tesu (Butea monosperma).
-
-</details>
+- **Exam Anchor:** Palash was officially declared as the State Flower on 4 January 2011, replacing Brahmakamal.
+- **Exam Anchor:** Kamdhenu Dairy Yojana is an older standalone scheme and is NOT a component of the current Nand Baba Milk Mission.
+- **Exam Anchor:** Mission Shakti was launched during Shardiya Navratri in October 2020 to ensure women's security, dignity, and self-reliance.
+- **Exam Anchor:** Nivesh Mitra is Uttar Pradesh's flagship digital single-window portal for industrial clearances and investor facilitation.
+- **Exam Anchor:** Smt. Sarojini Naidu was the First Woman Governor of Uttar Pradesh and in India (1947–1949).
+- **Exam Anchor:** Pandit Govind Ballabh Pant was the First Chief Minister of Uttar Pradesh (1950–1954).
+- **Exam Anchor:** Smt. Sucheta Kripalani was the First Woman Chief Minister of Uttar Pradesh and in India (1963–1967).
 
 ---
 
@@ -218,8 +210,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, On applies only to union territories and not state jurisdictions.
-B. On 24 January 1950, the United Provinces was officially renamed as Uttar Pradesh.
+A. Contrary to standard doctrine, Palash applies only to union territories and not state jurisdictions.
+B. Palash was officially declared as the State Flower on 4 January 2011, replacing Brahmakamal.
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -229,7 +221,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** On **24 January 1950**, the United Provinces was officially renamed as **Uttar Pradesh**.
+- **Key Exam Association:** **Palash** was officially declared as the State Flower on **4 January 2011**, replacing Brahmakamal.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -237,9 +229,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Kamdhenu applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. The official State Seal / Emblem of Uttar Pradesh was formally adopted in 1938.
+C. Kamdhenu Dairy Yojana is an older standalone scheme and is NOT a component of the current Nand Baba Milk Mission.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -248,7 +240,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The official **State Seal / Emblem** of Uttar Pradesh was formally adopted in **1938**.
+- **Key Exam Association:** **Kamdhenu Dairy Yojana** is an older standalone scheme and is **NOT** a component of the current Nand Baba Milk Mission.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -256,10 +248,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Mission applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. The State Emblem of UP incorporates a Bow and Arrow (Lord Rama), a Pair of Fish (Nawabs of Awadh), and Three Flowing Streams (Triveni Sangam).
+D. Mission Shakti was launched during Shardiya Navratri in October 2020 to ensure women's security, dignity, and self-reliance.
 
 <details>
 <summary>Show answer</summary>
@@ -267,7 +259,7 @@ D. The State Emblem of UP incorporates a Bow and Arrow (Lord Rama), a Pair of Fi
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The State Emblem of UP incorporates a **Bow and Arrow** (Lord Rama), a **Pair of Fish** (Nawabs of Awadh), and **Three Flowing Streams** (Triveni Sangam).
+- **Key Exam Association:** **Mission Shakti** was launched during Shardiya Navratri in **October 2020** to ensure women's security, dignity, and self-reliance.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -275,7 +267,7 @@ D. The State Emblem of UP incorporates a Bow and Arrow (Lord Rama), a Pair of Fi
 
 Which of the following is correct regarding this topic?
 
-A. The State Animal of Uttar Pradesh is the Swamp Deer (Barasingha) (Rucervus duvaucelii).
+A. Nivesh Mitra is Uttar Pradesh's flagship digital single-window portal for industrial clearances and investor facilitation.
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -286,7 +278,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **State Animal** of Uttar Pradesh is the **Swamp Deer (Barasingha)** (*Rucervus duvaucelii*).
+- **Key Exam Association:** **Nivesh Mitra** is Uttar Pradesh's flagship digital single-window portal for industrial clearances and investor facilitation.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -294,8 +286,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The State Bird of Uttar Pradesh is the Sarus Crane (Antigone antigone).
+A. Contrary to standard doctrine, Smt. applies only to union territories and not state jurisdictions.
+B. Smt. Sarojini Naidu was the First Woman Governor of Uttar Pradesh and in India (1947–1949).
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -305,7 +297,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **State Bird** of Uttar Pradesh is the **Sarus Crane** (*Antigone antigone*).
+- **Key Exam Association:** **Smt. Sarojini Naidu** was the **First Woman Governor** of Uttar Pradesh and in India (1947–1949).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -313,9 +305,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Pandit applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. The State Tree of Uttar Pradesh is the Ashoka (Sita Ashoka) (Saraca asoca).
+C. Pandit Govind Ballabh Pant was the First Chief Minister of Uttar Pradesh (1950–1954).
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -324,7 +316,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **State Tree** of Uttar Pradesh is the **Ashoka (Sita Ashoka)** (*Saraca asoca*).
+- **Key Exam Association:** **Pandit Govind Ballabh Pant** was the **First Chief Minister** of Uttar Pradesh (1950–1954).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -332,10 +324,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Smt. applies only to union territories and not state jurisdictions.
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. The State Flower of Uttar Pradesh is the Palash / Dhak / Tesu (Butea monosperma).
+D. Smt. Sucheta Kripalani was the First Woman Chief Minister of Uttar Pradesh and in India (1963–1967).
 
 <details>
 <summary>Show answer</summary>
@@ -343,7 +335,7 @@ D. The State Flower of Uttar Pradesh is the Palash / Dhak / Tesu (Butea monosper
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **State Flower** of Uttar Pradesh is the **Palash / Dhak / Tesu** (*Butea monosperma*).
+- **Key Exam Association:** **Smt. Sucheta Kripalani** was the **First Woman Chief Minister** of Uttar Pradesh and in India (1963–1967).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -351,7 +343,7 @@ D. The State Flower of Uttar Pradesh is the Palash / Dhak / Tesu (Butea monosper
 
 Which of the following is correct regarding this topic?
 
-A. Palash was officially declared as the State Flower on 4 January 2011, replacing Brahmakamal.
+A. Varanasi was declared the first Cultural and Tourism Capital of the Shanghai Cooperation Organisation (SCO) for 2022–2023.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -362,7 +354,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Palash** was officially declared as the State Flower on **4 January 2011**, replacing Brahmakamal.
+- **Key Exam Association:** **Varanasi** was declared the first **Cultural and Tourism Capital of the Shanghai Cooperation Organisation (SCO)** for 2022–2023.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -370,8 +362,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The State Aquatic Animal of Uttar Pradesh is the Gangetic River Dolphin (Platanista gangetica).
+A. Contrary to standard doctrine, Kannauj applies only to union territories and not state jurisdictions.
+B. Kannauj is known as the "Attar Nagari" and the "Grasse of the East".
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -381,7 +373,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **State Aquatic Animal** of Uttar Pradesh is the **Gangetic River Dolphin** (*Platanista gangetica*).
+- **Key Exam Association:** **Kannauj** is known as the **"Attar Nagari"** and the **"Grasse of the East"**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -389,9 +381,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Firozabad applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. The financial assistance under Mukhyamantri Kanya Sumangala Yojana is provided in 6 distinct stages, totaling ₹25,000.
+C. Firozabad is famous as "Suhag Nagari" and the "Glass City of India".
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -400,7 +392,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The financial assistance under **Mukhyamantri Kanya Sumangala Yojana** is provided in **6 distinct stages**, totaling **₹25,000**.
+- **Key Exam Association:** **Firozabad** is famous as **"Suhag Nagari"** and the **"Glass City of India"**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -408,10 +400,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Under applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Moradabad applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Under Kanya Sumangala Yojana, the annual family income ceiling is capped at ₹3 Lakh.
+D. Moradabad is internationally renowned as "Peetal Nagari" (Brass City).
 
 <details>
 <summary>Show answer</summary>
@@ -419,7 +411,7 @@ D. Under Kanya Sumangala Yojana, the annual family income ceiling is capped at �
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Under Kanya Sumangala Yojana, the annual family income ceiling is capped at **₹3 Lakh**.
+- **Key Exam Association:** **Moradabad** is internationally renowned as **"Peetal Nagari" (Brass City)**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -427,7 +419,7 @@ D. Under Kanya Sumangala Yojana, the annual family income ceiling is capped at �
 
 Which of the following is correct regarding this topic?
 
-A. The Mukhyamantri Abhyudaya Yojana was launched on Basant Panchami in February 2021 to provide free competitive exam coaching.
+A. Aligarh is known as "Taala Nagari" (City of Locks).
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -438,7 +430,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Mukhyamantri Abhyudaya Yojana** was launched on **Basant Panchami in February 2021** to provide free competitive exam coaching.
+- **Key Exam Association:** **Aligarh** is known as **"Taala Nagari" (City of Locks)**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -446,8 +438,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The Vishwakarma Shram Samman Yojana provides free 6-day skill training, modern toolkits, and subsidized bank loans to traditional village craftsmen.
+A. Contrary to standard doctrine, Bhadohi applies only to union territories and not state jurisdictions.
+B. Bhadohi is celebrated as the "Carpet City" (Kaleen Nagari).
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -457,7 +449,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Vishwakarma Shram Samman Yojana** provides free 6-day skill training, modern toolkits, and subsidized bank loans to traditional village craftsmen.
+- **Key Exam Association:** **Bhadohi** is celebrated as the **"Carpet City" (Kaleen Nagari)**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -465,9 +457,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Kanpur applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. The Swami Vivekananda Youth Empowerment Scheme distributes free smartphones and tablets to final-year college/technical students.
+C. Kanpur was historically called the "Manchester of the East" and the "Leather City of the World".
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -476,6 +468,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Swami Vivekananda Youth Empowerment Scheme** distributes free smartphones and tablets to final-year college/technical students.
+- **Key Exam Association:** **Kanpur** was historically called the **"Manchester of the East"** and the **"Leather City of the World"**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

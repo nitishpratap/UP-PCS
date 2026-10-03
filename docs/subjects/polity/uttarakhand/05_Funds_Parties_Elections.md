@@ -38,7 +38,8 @@
 
 ---
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Key |
 |------|------|
@@ -47,7 +48,7 @@
 | SEC vs ECI | Local elections vs Parliament / Assembly (ECI for Assembly) |
 | First SFC Chair = first CM automatically | Test the pair; 2025 did not key Swami as SFC chair |
 
----
+</details>
 
 ## 5.1 State funds
 

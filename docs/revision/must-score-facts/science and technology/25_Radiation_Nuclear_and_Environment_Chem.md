@@ -11,184 +11,65 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chemistry Topic 8 — Nuclear Chemistry, Explosives and Environment</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Radioactivity** is the spontaneous, uncontrolled nuclear disintegration of unstable heavy atomic nuclei accompanied by the emission of ionizing particles or electromagnetic radiation.
-2. Radioactivity was discovered in **1896 by French physicist Henri Becquerel** while investigating phosphorescence in uranium potassium sulphate crystals wrapped in black paper.
-3. In 1898, **Marie Curie and Pierre Curie** isolated two new radioactive elements from pitchblende ore ($U_3O_8$): **Polonium ($Po$, named after Poland)** and **Radium ($Ra$)**. Marie Curie is the only scientist to win Nobel Prizes in two distinct sciences (Physics 1903, Chemistry 1911).
-4. **Nuclear Property**: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely **independent of temperature, pressure, chemical combination, or physical state**.
-5. **Alpha ($\alpha$) Particles**: Helium nuclei carrying a double positive charge (**$^4_2He^{2+}$**). Possess the highest mass ($4\text{ u}$), **highest ionizing power ($\approx 10,000\times \gamma$)**, but the **lowest penetrating power**; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
-6. **Beta ($\beta^-$) Particles**: Fast-moving electrons (**$^0_{-1}e$**) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
-7. **Gamma ($\gamma$) Rays**: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the **lowest ionizing power**, but the **highest penetrating power** among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
-8. **Soddy-Fajans Group Displacement Law**:
-9. Emission of an **$\alpha$-particle** reduces the atomic number ($Z$) by 2 units and the mass number ($A$) by 4 units:
-10. Emission of a **$\beta^-$-particle** increases the atomic number ($Z$) by 1 unit while leaving the mass number ($A$) unchanged:
-11. Emission of a **$\gamma$-ray** causes no change in atomic number or mass number, merely dissipating excess nuclear excitation energy.
-12. **Radioactive Decay Kinetics & Half-Life ($t_{1/2}$)**:
-13. Radioactive decay strictly follows **first-order reaction kinetics**:
-14. The Half-Life ($t_{1/2}$) is the time required for half the radioactive nuclei in a sample to disintegrate:
-15. After $n$ half-lives, the remaining radioactive fraction is: $N = N_0 \left(\frac{1}{2}\right)^n$.
-16. **Units of Radioactivity**:
-17. **Becquerel (Bq)**: SI unit; $1\text{ Bq} = 1\text{ nuclear disintegration per second}$.
-18. **Curie (Ci)**: Traditional historical unit; $1\text{ Ci} = 3.7 \times 10^{10}\text{ disintegrations/sec}$ (the activity of $1\text{ g}$ of pure Radium-226).
-19. **Rutherford (Rd)**: $1\text{ Rd} = 10^6\text{ disintegrations/sec}$.
-20. **Radiometric Dating Techniques**:
-21. **Radiocarbon Dating ($^{14}C$)**: Devised by Willard Libby (1949, Nobel Prize 1960). Based on the decay of cosmogenic $^{14}C$ ($t_{1/2} = 5,730\text{ years}$) into $^{14}N$. Used for dating once-living biological archaeological artifacts (wood, bone, charcoal, fossils) up to $\approx 50,000\text{ years}$ old.
-22. **Uranium-Lead Dating ($^{238}U \to {}^{206}Pb$)**: Half-life $\approx 4.5\text{ billion years}$; used to calculate the geological age of the Earth ($\approx 4.54\text{ billion years}$), ancient continental cratons, and lunar meteorites.
-23. **Potassium-Argon Dating ($^{40}K \to {}^{40}Ar$)**: Half-life $\approx 1.25\text{ billion years}$; used to date ancient volcanic igneous rocks and early hominid fossil strata.
-24. **Nuclear Fission**:
-25. Discovered in 1938 by German chemists **Otto Hahn and Fritz Strassmann**; theoretical mechanism explained by Lise Meitner and Otto Frisch.
-26. The splitting of a heavy, fissile atomic nucleus (such as **Uranium-235** or **Plutonium-239**) upon absorbing a slow-moving **thermal neutron ($0.025\text{ eV}$)** into two medium-sized daughter nuclei, releasing $2\text{ to }3$ fast neutrons and an enormous quantity of energy ($\approx 200\text{ MeV}$ per fission event):
-27. The liberated energy arises from the conversion of missing mass into energy according to Einstein's mass-energy equivalence equation ($E = \Delta m \cdot c^2$).
-28. **Atomic Bomb (Fission Weapon)**:
-29. Operates on an **uncontrolled, supercritical nuclear chain reaction**.
-30. If the mass of fissile material exceeds the **Critical Mass** ($k > 1$), neutron multiplication is exponential ($1 \to 3 \to 9 \to 27 \dots$), causing a catastrophic thermonuclear explosion within microseconds.
-31. World's first nuclear detonations: "Little Boy" (Uranium-235, Hiroshima, August 6, 1945) and "Fat Man" (Plutonium-239, Nagasaki, August 9, 1945).
-32. **Nuclear Power Reactor (Controlled Fission)**:
-33. Maintains a steady critical chain reaction ($k = 1.0$) to generate commercial steam for electricity.
-34. **Moderator**: Material with light atomic mass used to slow down energetic fast neutrons ($2\text{ MeV}$) to thermal energy ($0.025\text{ eV}$) via elastic collisions without absorbing them. Standard moderators: **Heavy Water ($D_2O$, deuterium oxide)** and high-purity **Graphite**.
-35. **Control Rods**: Neutron-absorbing materials inserted into the core to regulate reaction rate or shut down the reactor: **Cadmium ($Cd$)** and **Boron ($B$)** (have exceptionally high neutron capture cross-sections).
-36. **Coolant**: Fluid circulated through the core to extract fission heat: **Light water ($H_2O$)**, Heavy water ($D_2O$), or liquid metallic Sodium ($Na$).
-37. **Nuclear Fusion**:
-38. The process where two light atomic nuclei combine to form a heavier, more stable nucleus at extremely high kinetic energies, liberating vast energy per unit mass:
-39. Nuclear fusion powers the **Sun and all celestial stars** (via the proton-proton chain and CNO cycle).
-40. Fusion requires overcoming immense electrostatic Coulomb repulsion between positively charged nuclei, requiring **temperatures exceeding $10^7\text{ K}$ (100 million $^\circ\text{C}$)** and massive pressures to form a thermonuclear plasma.
-41. **Hydrogen Bomb (Thermonuclear Bomb)**:
-42. Operates primarily on **uncontrolled Nuclear Fusion**.
-43. Conceived by American physicists **Edward Teller and Stanislaw Ulam** (first detonated in 1952, "Ivy Mike").
-44. *Must-Score Fact*: Because thermonuclear fusion requires stellar ignition temperatures, **a hydrogen bomb incorporates an internal atomic (fission) bomb as its primary trigger**. The fission detonation generates the extreme heat ($>10^7\text{ K}$) and radiation pressure needed to ignite the secondary fusion fuel (lithium deuteride).
-45. Yields are measured in **Megatons of TNT** (thousands of times more destructive than atomic fission bombs) and produce less long-lived direct radioactive fission fallout per megaton.
-46. Invented and patented in **1867 by Swedish chemist Alfred Nobel**.
-47. Composed of liquid **Nitroglycerin (Glyceryl Trinitrate, GTN)** absorbed into an inert, porous siliceous earth called **Kieselguhr (diatomaceous earth)** or wood pulp, mixed with sodium nitrate.
-48. Nitroglycerin is shock-sensitive; absorbing it into Kieselguhr created the first safe, transportable, shock-stable high explosive, revolutionizing civil engineering (tunnels, canals, railways) and establishing the fortune that funds the **Nobel Prizes**.
-49. **TNT (Trinitrotoluene)**:
-50. Chemically **2,4,6-Trinitrotoluene ($C_7H_5N_3O_6$)**; formed by the stepwise nitration of toluene with mixed acid ($HNO_3 + H_2SO_4$).
-51. A yellow crystalline military high explosive; insensitive to friction and mechanical shock; can be safely melted at $80^\circ\text{C}$ and poured directly into artillery shells.
-52. **RDX (Research Department Explosive / Cyclonite / Hexogen / T4)**:
-53. Chemically **Cyclotrimethylenetrinitramine ($C_3H_6N_6O_6$)**; white crystalline solid.
-54. High velocity of detonation ($\approx 8750\text{ m/s}$) and brisance. When blended with motor oil and plasticizers (polyisobutylene), it forms malleable **C-4 Plastic Explosive**, favored in military demolition and counter-terrorism scenarios.
-55. Known as **Hexogen** in Germany, **T4** in Italy, and **RDX** in the USA and Commonwealth nations.
-56. **PETN (Pentaerythritol Tetranitrate)**:
-57. One of the most powerful known secondary high explosives; highly shock-sensitive; used in military detonating cords (Primacord) and booster charges.
-58. **ANFO (Ammonium Nitrate Fuel Oil)**:
-59. Industrial blasting explosive consisting of **$94\%\text{ porous prilled Ammonium Nitrate } (NH_4NO_3)$** mixed with **$6\%\text{ No. 2 Fuel Oil}$**.
-60. Low sensitivity; requires a high-explosive booster charge (TNT or dynamite) to detonate; widely used in commercial open-cast coal mining and limestone quarrying.
-61. **Gunpowder (Black Powder)**:
-62. The oldest known chemical explosive, invented in 9th-century China.
-63. A mechanical mixture of: **Potassium Nitrate (Saltpetre, $KNO_3, \approx 75\%$)**, **Charcoal (Carbon fuel, $\approx 15\%$)**, and **Sulphur ($\approx 10\%$)**. Burns rapidly via deflagration to generate high volumes of hot $N_2, CO_2,$ and potassium salts.
-64. **Picric Acid (2,4,6-Trinitrophenol)**: A strong, yellow crystalline organic acid and explosive; historically used under the names **Lyddite** and **Melinite** as an artillery shell filling in the late 19th and early 20th centuries.
-65. **Acid Rain (Acid Precipitation)**:
-66. Defined as any precipitation (rain, snow, fog) having a **$\text{pH} < 5.6$**.
-67. *Natural Background Rain*: Normal unpolluted rainwater is naturally slightly acidic ($\text{pH} \approx 5.6$) due to atmospheric $CO_2$ dissolving to form weak carbonic acid:
-68. *Anthropogenic Acid Rain*: Caused primarily by atmospheric emissions of **Sulphur Dioxide ($SO_2$)** from coal-fired thermal power plants and petroleum refineries, and **Nitrogen Oxides ($NO_x$)** from high-temperature vehicular exhaust.
-69. **Acid Rain Reactions**:
-70. Sulphuric acid formation accounts for **$\approx 65–70\%$ of total acidity**:
-71. Nitric acid formation accounts for **$\approx 30–35\%$ of total acidity**:
-72. **Marble Cancer (Stone Leprosy)**:
-73. Sulphuric acid in acid rain attacks calcium carbonate ($CaCO_3$) in historical white marble monuments (notably the **Taj Mahal in Agra**, threatened by emissions from the nearby Mathura Oil Refinery and Firozabad glass foundries):
-74. The formation of soluble, crumbly gypsum causes the marble surface to blister, turn yellowish, flake away, and suffer irreversible pitting corrosion.
-75. **Ecological Damage of Acid Rain**:
-76. Drops lake and river water pH below $5.0$, triggering the leaching of toxic free **Aluminium ($Al^{3+}$) ions** from surrounding soils into waterways, precipitating mucus on fish gills and causing asphyxiation.
-77. Strips essential magnesium and calcium nutrients from forest soils, causing dieback in coniferous forests.
-78. **Classical Smog (London-type Smog)**:
-79. First documented extensively during the catastrophic London Great Smog of December 1952.
-80. Occurs in **cool, humid winter climates**.
-81. Chemically, it is a **Reducing Smog** consisting of a dense mixture of coal smoke, particulate soot, atmospheric fog, and high concentrations of **Sulphur Dioxide ($SO_2$)**.
-82. **Photochemical Smog (Los Angeles-type Smog)**:
-83. Occurs in **warm, dry, sunny climates** with heavy automotive vehicular traffic.
-84. Chemically, it is an **Oxidizing Smog** formed by complex solar ultraviolet photolytic reactions between **Nitrogen Oxides ($NO_x$)** and **Volatile Organic Compounds (Hydrocarbons)**.
-85. **Key Ingredients & Byproducts**:
-86. **Ozone ($O_3$)**: Formed at ground level via photolysis of $NO_2$:
-87. **PAN (Peroxyacetyl Nitrate, $CH_3COOONO_2$)**: Potent eye and lung irritant, causing severe tearing (lachrymation) and plant leaf bronzing.
-88. **Acrolein ($CH_2=CH-CHO$) and Formaldehyde ($HCHO$)**.
-89. **Stratospheric Ozone Layer**:
-90. Concentrated in the lower stratosphere between **$15\text{ and }35\text{ kilometers}$** altitude ("Ozono-sphere").
-91. Formed and maintained naturally via the dynamic **Chapman Cycle**:
-92. Shields terrestrial life by absorbing $>99\%$ of solar UV-C and biological harmful UV-B radiation ($280–315\text{ nm}$), which causes human skin melanoma, cataract blindness, and immune suppression.
-93. **Dobson Unit (DU)**:
-94. The standard physical unit used to measure total column atmospheric ozone thickness.
-95. $1\text{ DU}$ is equivalent to a pure ozone layer thickness of **$0.01\text{ mm}$ ($10\text{ }\mu\text{m}$)** at standard temperature and pressure ($0^\circ\text{C}, 1\text{ atm}$).
-96. Normal atmospheric ozone levels range from **$300\text{ to }350\text{ DU}$**. An **"Ozone Hole"** is technically defined when total column ozone falls below **$220\text{ Dobson Units}$**.
-97. **Catalytic Ozone Depletion by Chlorofluorocarbons (CFCs)**:
-98. Discovered in 1974 by **Mario Molina and F. Sherwood Rowland** (Nobel Prize in Chemistry, 1995).
-99. CFCs (Freons, such as $CF_2Cl_2$ / CFC-12) are non-flammable, non-toxic refrigerants and aerosol propellants that do not break down in the troposphere.
-100. Upon diffusing into the stratosphere, high-energy UV radiation photolytically cleaves $C-Cl$ bonds, releasing reactive **free chlorine radicals ($Cl^\bullet$)**:
-101. *Catalytic Cycle*: The chlorine radical is continually regenerated; **a single chlorine atom can catalytically destroy over $100,000\text{ ozone molecules}$** before being removed by reservoir species ($HCl, ClONO_2$).
-102. **The Antarctic Ozone Hole**:
-103. Discovered in 1985 by British Antarctic Survey scientists (Joe Farman, Brian Gardiner, and Jonathan Shanklin) over Halley Bay.
-104. Develops intensely each austral spring (September–October) due to unique meteorological conditions: the **Polar Vortex** isolates Antarctic air, chilling temperatures below $-80^\circ\text{C}$ and forming **Polar Stratospheric Clouds (PSCs / nacreous clouds)** of nitric acid trihydrate. PSC surfaces catalyze the conversion of inactive chlorine reservoirs ($HCl, ClONO_2$) into active molecular chlorine ($Cl_2$), which is photolyzed by returning spring sunlight into massive bursts of destructive $Cl^\bullet$ radicals.
-105. **Montreal Protocol**:
-106. Landmark international environmental treaty adopted on **September 16, 1987** (celebrated annually as **World Ozone Day**); successfully phased out the global production and consumption of ozone-depleting substances (CFCs, halons, carbon tetrachloride).
-107. **Kigali Amendment (2016)**: Mandates the phased reduction of Hydrofluorocarbons (HFCs), which do not deplete ozone but are potent greenhouse gases.
-108. **Greenhouse Effect**:
-109. The natural thermodynamic phenomenon discovered by Joseph Fourier (1824) and quantified by Svante Arrhenius (1896).
-110. Earth absorbs short-wavelength solar radiation (visible and UV) and re-radiates it toward space as **long-wavelength infrared (thermal IR) radiation ($\lambda \approx 4–50\text{ }\mu\text{m}$)**.
-111. Polyatomic greenhouse gas molecules absorb outgoing thermal IR photons via molecular bond stretching and bending vibrations, trapping heat within the lower troposphere and raising Earth's mean surface temperature from $-18^\circ\text{C}$ (inhospitable ice world) to a habitable **$+15^\circ\text{C}$**.
-112. **Master Greenhouse Gases (GHGs)**:
-113. **Water Vapor ($H_2O$)**: The largest natural contributor to the natural greenhouse effect ($\approx 60\%$).
-114. **Carbon Dioxide ($CO_2$)**: Responsible for $\approx 26\%$ of overall warming; baseline reference gas ($\text{GWP} = 1.0$).
-115. **Methane ($CH_4$)**: Responsible for $\approx 9\%$; $\text{GWP}_{100} \approx 28–36$.
-116. **Nitrous Oxide ($N_2O$)**: $\text{GWP}_{100} \approx 265–298$; emitted from nitrogenous fertilizers.
-117. **Fluorinated Gases**: Hydrofluorocarbons (HFCs), Perfluorocarbons (PFCs), and **Sulphur Hexafluoride ($SF_6$, highest GWP $\approx 23,500$)**.
-118. **Greenhouse Non-Absorbers (State PCS Distractor Trap)**:
-119. **Argon ($Ar$)**, **Nitrogen ($N_2$)**, and **Oxygen ($O_2$)** are **NOT greenhouse gases**!
-120. Homonuclear diatomic molecules ($N_2, O_2$) and noble gases ($Ar, He$) possess no permanent dipole moment, and symmetrical vibrations produce zero dynamic dipole change; therefore, they are transparent to infrared radiation and cannot absorb thermal IR.
-121. **Minamata Disease (Methylmercury Toxicity)**:
-122. Severe neurological poisoning caused by chronic ingestion of fish contaminated with **Methylmercury ($CH_3Hg^+$)**, first identified in 1956 around Minamata Bay, Kumamoto Prefecture, Japan.
-123. Industrial effluent from the Chisso chemical factory discharged inorganic mercury into the bay, where anaerobic sulfate-reducing bacteria methylated it into lipid-soluble methylmercury.
-124. Biomagnified through marine food webs into human consumers, crossing the blood-brain barrier to cause ataxia, peripheral numbness, tunnel vision, muscle weakness, and congenital neurological deformities.
-125. **Itai-Itai ("Ouch-Ouch") Disease (Cadmium Toxicity)**:
-126. Mass chronic **Cadmium ($Cd$) poisoning** documented along the Jinzū River basin in Toyama Prefecture, Japan, in 1912.
-127. Upstream mining runoff contaminated river water used to irrigate downstream paddy fields.
-128. Cadmium replaced calcium in the human skeletal matrix, causing severe **osteomalacia**, bone softening, multiple pathological fractures, and severe renal tubular failure accompanied by excruciating skeletal pain ("itai-itai").
-129. **Blackfoot Disease (Chronic Arsenic Toxicity)**:
-130. Caused by prolonged consumption of drinking water contaminated with high levels of inorganic **Arsenic ($As > 0.05\text{ mg/L}$)**, endemic in the Bengal delta basin (West Bengal and Bangladesh).
-131. Arsenic binds to cellular sulfhydryl groups, disrupting cellular respiration and inducing peripheral vascular gangrene (causing blackened, necrotic feet that require amputation), hyperkeratosis of palms/soles, and skin cancers.
-132. **Blue Baby Syndrome (Methemoglobinemia / Nitrate Poisoning)**:
-133. Occurs in human infants under 6 months of age who consume infant formula prepared with well water containing excess **Nitrate ($NO_3^- > 45\text{ mg/L}$)** from agricultural fertilizer runoff.
-134. Intestinal bacteria reduce nitrate to nitrite ($NO_2^-$), which oxidizes the ferrous iron ($Fe^{2+}$) in normal hemoglobin to ferric iron ($Fe^{3+}$), generating **Methemoglobin**.
-135. Methemoglobin cannot bind oxygen, causing systemic tissue hypoxia and characteristic infant cyanosis (turning skin a bluish-slate color), which can be fatal without methylene blue therapy.
-136. **Skeletal & Dental Fluorosis**:
-137. Caused by excessive fluoride concentration in drinking water (**$>1.5\text{ mg/L}$ or ppm**); widely prevalent across Rajasthan, Gujarat, and Uttar Pradesh.
-138. At optimal concentrations ($0.7–1.0\text{ ppm}$), fluoride converts dental hydroxyapatite to acid-resistant fluorapatite ($Ca_5(PO_4)_3F$), preventing cavities.
-139. Above $1.5\text{ ppm}$, it causes **Dental Fluorosis** (permanent brownish-yellow mottling of tooth enamel).
-140. Above $4.0\text{ ppm}$, it deposits in bones, causing **Skeletal Fluorosis** (calcification of spinal ligaments, severe joint stiffness, and debilitating "knock-knee" deformity / genu valgum).
-141. **Lead ($Pb$) Toxicity (Plumbism / Saturnism)**:
-142. Toxic heavy metal that mimics calcium; crosses the blood-brain barrier, causing cognitive impairment, lowered IQ, behavioral deficits in children, and microcytic anemia by inhibiting the heme-synthesis enzyme delta-aminolevulinic acid dehydratase (ALAD). Characterized by a dark blue line along the gums (**Burton's Line**).
-143. **Biochemical Oxygen Demand (BOD)**:
-144. The amount of dissolved oxygen ($\text{mg/L}$ or $\text{ppm}$) required by aerobic microorganisms to biologically oxidize and decompose organic matter present in a unit volume of water over 5 days at $20^\circ\text{C}$ ($\text{BOD}_5$).
-145. Pure drinking water has a $\text{BOD} < 1\text{ ppm}$; highly polluted domestic sewage has a $\text{BOD} > 100–400\text{ ppm}$. High BOD indicates severe organic pollution and depletion of dissolved oxygen ($DO$), causing fish kills.
-146. **Chemical Oxygen Demand (COD)**:
-147. The amount of oxygen consumed to chemically oxidize both biodegradable and non-biodegradable organic matter in water using a powerful chemical oxidizing agent (**Potassium Dichromate, $K_2Cr_2O_7$**, in acidic medium). For any polluted wastewater, **$\text{COD}$ is always greater than $\text{BOD}$** ($\text{COD} > \text{BOD}$).
-148. **Eutrophication**: The accelerated aging of an aquatic ecosystem (lakes, ponds) caused by nutrient enrichment with agricultural **Nitrates ($NO_3^-$) and Phosphates ($PO_4^{3-}$)** from fertilizers and detergents, triggering dense **algal blooms** that deplete dissolved oxygen and suffocate aquatic life.
-149. **Tear Gas Chemistry**: Chemical riot-control agents: **CS Gas** (2-chlorobenzalmalononitrile), **CN Gas** (chloroacetophenone), and **Chloropicrin ($CCl_3NO_2$)**; react with moisture on mucous membranes to trigger intense eye burning and lachrymation.
-150. **Mustard Gas (Dichlorodiethyl Sulphide)**: An oily, volatile blister agent (vesicant) chemical weapon; causes severe, slow-healing chemical burns and ulcerations on skin, eyes, and lungs.
-151. **Lewisite**: An arsenic-based blistering chemical warfare agent ($ClCH=CH-AsCl_2$); antidote is British Anti-Lewisite (BAL / Dimercaprol).
-152. **Bhopal Gas Tragedy (MIC Chemistry)**: On December 2–3, 1984, in Bhopal, water accidentally entered a storage tank containing over 40 tonnes of liquid **Methyl Isocyanate ($CH_3NCO$)**. The resulting exothermic hydrolysis reaction caused temperatures to exceed $200^\circ\text{C}$, bursting the relief valve and releasing toxic MIC gas across the city, resulting in thousands of fatalities.
+2. **Nuclear Property**: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely **independent of temperature, pressure, chemical combination, or physical state**.
+3. **Alpha ($\alpha$) Particles**: Helium nuclei carrying a double positive charge (**$^4_2He^{2+}$**). Possess the highest mass ($4\text{ u}$), **highest ionizing power ($\approx 10,000\times \gamma$)**, but the **lowest penetrating power**; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
+4. **Beta ($\beta^-$) Particles**: Fast-moving electrons (**$^0_{-1}e$**) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
+5. **Gamma ($\gamma$) Rays**: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the **lowest ionizing power**, but the **highest penetrating power** among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
+6. **Soddy-Fajans Group Displacement Law**:
+7. **Radioactive Decay Kinetics & Half-Life ($t_{1/2}$)**:
+8. **Units of Radioactivity**:
+9. **Becquerel (Bq)**: SI unit; $1\text{ Bq} = 1\text{ nuclear disintegration per second}$.
+10. **Curie (Ci)**: Traditional historical unit; $1\text{ Ci} = 3.7 \times 10^{10}\text{ disintegrations/sec}$ (the activity of $1\text{ g}$ of pure Radium-226).
+11. **Rutherford (Rd)**: $1\text{ Rd} = 10^6\text{ disintegrations/sec}$.
+12. **Radiometric Dating Techniques**:
+13. **Radiocarbon Dating ($^{14}C$)**: Devised by Willard Libby (1949, Nobel Prize 1960). Based on the decay of cosmogenic $^{14}C$ ($t_{1/2} = 5,730\text{ years}$) into $^{14}N$. Used for dating once-living biological archaeological artifacts (wood, bone, charcoal, fossils) up to $\approx 50,000\text{ years}$ old.
+14. **Uranium-Lead Dating ($^{238}U \to {}^{206}Pb$)**: Half-life $\approx 4.5\text{ billion years}$; used to calculate the geological age of the Earth ($\approx 4.54\text{ billion years}$), ancient continental cratons, and lunar meteorites.
+15. **Potassium-Argon Dating ($^{40}K \to {}^{40}Ar$)**: Half-life $\approx 1.25\text{ billion years}$; used to date ancient volcanic igneous rocks and early hominid fossil strata.
+16. **Atomic Bomb (Fission Weapon)**:
+17. **Nuclear Power Reactor (Controlled Fission)**:
+18. **Moderator**: Material with light atomic mass used to slow down energetic fast neutrons ($2\text{ MeV}$) to thermal energy ($0.025\text{ eV}$) via elastic collisions without absorbing them. Standard moderators: **Heavy Water ($D_2O$, deuterium oxide)** and high-purity **Graphite**.
+19. **Control Rods**: Neutron-absorbing materials inserted into the core to regulate reaction rate or shut down the reactor: **Cadmium ($Cd$)** and **Boron ($B$)** (have exceptionally high neutron capture cross-sections).
+20. **Coolant**: Fluid circulated through the core to extract fission heat: **Light water ($H_2O$)**, Heavy water ($D_2O$), or liquid metallic Sodium ($Na$).
+21. **Hydrogen Bomb (Thermonuclear Bomb)**:
+22. **TNT (Trinitrotoluene)**:
+23. **RDX (Research Department Explosive / Cyclonite / Hexogen / T4)**:
+24. **PETN (Pentaerythritol Tetranitrate)**:
+25. **ANFO (Ammonium Nitrate Fuel Oil)**:
+26. **Gunpowder (Black Powder)**:
+27. **Picric Acid (2,4,6-Trinitrophenol)**: A strong, yellow crystalline organic acid and explosive; historically used under the names **Lyddite** and **Melinite** as an artillery shell filling in the late 19th and early 20th centuries.
+28. **Acid Rain (Acid Precipitation)**:
+29. **Acid Rain Reactions**:
+30. **Marble Cancer (Stone Leprosy)**:
+31. **Ecological Damage of Acid Rain**:
+32. **Classical Smog (London-type Smog)**:
+33. **Photochemical Smog (Los Angeles-type Smog)**:
+34. **Key Ingredients & Byproducts**:
+35. **Ozone ($O_3$)**: Formed at ground level via photolysis of $NO_2$:
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-— Razor-Sharp Distinctions
-
-| Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
-|---|---|---|---|
-| **Atomic Bomb vs. Hydrogen Bomb** | **Atomic Bomb**: Operates strictly on **Nuclear Fission** (splitting $^{235}U$ or $^{239}Pu$). Critical mass trigger. | **Hydrogen Bomb**: Operates on **Nuclear Fusion** (joining $^2H + {}^3H \to {}^4He$). Requires an internal fission atomic bomb as an ignition trigger. | **Energy Mechanism**: Atomic bomb = Fission; Hydrogen bomb = Thermonuclear Fusion (triggered by a fission core). |
-| **Classical Smog vs. Photochemical Smog** | **Classical (London) Smog**: Occurs in **cool, humid winter**; **Reducing smog**; mixture of smoke, fog, and **$SO_2$**. | **Photochemical (LA) Smog**: Occurs in **warm, sunny dry weather**; **Oxidizing smog**; formed by UV photolysis of **$NO_x$ + Hydrocarbons**, yielding **$O_3$ and PAN**. | **Chemical Character & Sunlight**: Classical is reducing ($SO_2$) in dark humid cold; Photochemical is oxidizing ($O_3$, PAN) under intense sunlight. |
-| **BOD vs. COD** | **BOD (Biochemical Oxygen Demand)**: Measures oxygen used by **microorganisms to biologically break down** organic matter over 5 days. | **COD (Chemical Oxygen Demand)**: Measures oxygen used by **chemical oxidizer ($K_2Cr_2O_7$)** to oxidize *all* organic matter. | **Scope & Speed**: BOD measures biological oxidation over 5 days; COD measures total chemical oxidation in hours ($\text{COD} > \text{BOD}$). |
-| **Greenhouse Gas vs. Atmospheric Non-Absorber** | **Greenhouse Gas ($CO_2, CH_4, N_2O, H_2O$)**: Polyatomic or asymmetric; vibrates with dipole change; absorbs thermal IR radiation. | **Non-Absorber ($N_2, O_2, Ar$)**: Monatomic or symmetric diatomic; zero dipole change; completely transparent to thermal IR. | **Infrared Interaction**: Argon, Nitrogen, and Oxygen do NOT absorb heat radiation; $CO_2$, Methane, and Water Vapor absorb and re-emit heat. |
-| **Minamata vs. Itai-Itai Disease** | **Minamata Disease**: Toxic poisoning caused by **Methylmercury ($Hg$)**; causes severe central neurological damage. | **Itai-Itai Disease**: Toxic poisoning caused by **Cadmium ($Cd$)**; causes severe osteomalacia, bone softening, and renal failure. | **Causative Heavy Metal**: Minamata = Mercury ($Hg$); Itai-Itai = Cadmium ($Cd$). |
-| **Blackfoot Disease vs. Blue Baby Syndrome** | **Blackfoot Disease**: Caused by chronic **Arsenic ($As$)** poisoning; causes peripheral gangrene in feet and skin lesions. | **Blue Baby Syndrome**: Caused by **Nitrate ($NO_3^-$)** in water; converts hemoglobin to methemoglobin, causing infant cyanosis. | **Causative Agent**: Blackfoot = Arsenic ($As$); Blue Baby = Nitrate ($NO_3^-$). |
-| **Alpha vs. Beta vs. Gamma Penetration** | **Alpha ($\alpha$)**: Least penetrating (stopped by paper); highest ionization power ($^4_2He^{2+}$). | **Gamma ($\gamma$)**: Most penetrating (requires thick lead); lowest ionization power (photons). | **Penetration Sequence**: $\alpha < \beta < \gamma$. **Ionization Sequence**: $\gamma < \beta < \alpha$. |
-| **Dynamite vs. Gunpowder** | **Dynamite**: Chemical high explosive based on **liquid Nitroglycerin** absorbed in porous Kieselguhr. | **Gunpowder (Black Powder)**: Mechanical low explosive mixture of **$KNO_3$ (saltpetre) + Charcoal + Sulphur**. | **Chemical Nature**: Dynamite is a stabilized chemical explosive (Nobel, 1867); Gunpowder is an ancient mechanical propellant mixture. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& High-Yield Pitfalls
+
+| Trap Area | What Students Confuse | Correct Fact |
+|---|---|---|
+| **Hydrogen Bomb Principle** | Believing the hydrogen bomb is a fission weapon. | The hydrogen bomb operates on **Nuclear Fusion**; fission is used only as an ignition trigger. |
+| **Radioactivity Nature** | Confusing radioactivity with chemical valence reactions. | Radioactivity is strictly a **nuclear property**, unaffected by chemical bonds, temperature, or pressure. |
+| **Greenhouse Gas Exclusions** | Assuming Argon or Nitrogen are greenhouse gases. | **Argon, Nitrogen, and Oxygen are NOT greenhouse gases**; they do not absorb thermal infrared radiation. |
+| **Dynamite Inventor** | Confusing Alfred Nobel with Oppenheimer or Curie. | **Alfred Nobel invented Dynamite** in 1867 by stabilizing nitroglycerin in kieselguhr. |
+| **Acid Rain Threshold** | Thinking normal rain has a neutral pH of 7.0. | Unpolluted rain is naturally acidic (**$\text{pH} \approx 5.6$**); acid rain has **$\text{pH} < 5.6$**. |
+| **Heavy Metal Disease Matching** | Swapping Mercury and Cadmium diseases. | **Mercury ($Hg$) = Minamata Disease**. **Cadmium ($Cd$) = Itai-Itai Disease**. |
+| **Water Contaminant Syndromes** | Confusing Arsenic and Nitrate conditions. | **Arsenic = Blackfoot Disease**. **Nitrate = Blue Baby Syndrome (Methemoglobinemia)**. |
+| **Smog Types Character** | Calling classical smog oxidizing. | **Classical smog is Reducing** ($SO_2$); **Photochemical smog is Oxidizing** ($O_3$, PAN). |
+| **Nuclear Moderator vs Control Rod** | Mixing up moderators ($D_2O$, graphite) with control rods ($Cd$, $B$). | **Moderators slow neutrons** ($D_2O$, graphite); **Control rods absorb neutrons** ($Cd$, $B$). |
+| **Radiation Penetration Order** | Reversing alpha and gamma penetration. | **Gamma has the highest penetration** ($\alpha < \beta < \gamma$); **Alpha has the highest ionization power**. |
+
+---
 
 
 ---
@@ -370,9 +251,10 @@ hide:
 49. **Lewisite**: An arsenic-based blistering chemical warfare agent ($ClCH=CH-AsCl_2$); antidote is British Anti-Lewisite (BAL / Dimercaprol).
 50. **Bhopal Gas Tragedy (MIC Chemistry)**: On December 2–3, 1984, in Bhopal, water accidentally entered a storage tank containing over 40 tonnes of liquid **Methyl Isocyanate ($CH_3NCO$)**. The resulting exothermic hydrolysis reaction caused temperatures to exceed $200^\circ\text{C}$, bursting the relief valve and releasing toxic MIC gas across the city, resulting in thousands of fatalities.
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -385,7 +267,7 @@ hide:
 | **Alpha vs. Beta vs. Gamma Penetration** | **Alpha ($\alpha$)**: Least penetrating (stopped by paper); highest ionization power ($^4_2He^{2+}$). | **Gamma ($\gamma$)**: Most penetrating (requires thick lead); lowest ionization power (photons). | **Penetration Sequence**: $\alpha < \beta < \gamma$. **Ionization Sequence**: $\gamma < \beta < \alpha$. |
 | **Dynamite vs. Gunpowder** | **Dynamite**: Chemical high explosive based on **liquid Nitroglycerin** absorbed in porous Kieselguhr. | **Gunpowder (Black Powder)**: Mechanical low explosive mixture of **$KNO_3$ (saltpetre) + Charcoal + Sulphur**. | **Chemical Nature**: Dynamite is a stabilized chemical explosive (Nobel, 1867); Gunpowder is an ancient mechanical propellant mixture. |
 
----
+</details>
 
 ## Master Reference Tables
 
@@ -585,8 +467,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Radioactivity applies only to union territories and not state jurisdictions.
-B. Radioactivity was discovered in 1896 by French physicist Henri Becquerel while investigating phosphorescence in uranium potassium sulphate crystals wrapped in black paper.
+A. Contrary to standard doctrine, Nuclear applies only to union territories and not state jurisdictions.
+B. Nuclear Property: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely independent of temperature, pressure, chemical combination, or physical state.
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -596,7 +478,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Radioactivity was discovered in **1896 by French physicist Henri Becquerel** while investigating phosphorescence in uranium potassium sulphate crystals wrapped in black paper.
+- **Key Exam Association:** **Nuclear Property**: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely **independent of temperature, pressure, chemical combination, or physical state**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -604,9 +486,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Alpha applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. In 1898, Marie Curie and Pierre Curie isolated two new radioactive elements from pitchblende ore ($U3O8$): Polonium ($Po$, named after Poland) and Radium ($Ra$). Marie Curie is the only scientist to win Nobel Prizes in two distinct sciences (Physics 1903, Chemistry 1911).
+C. Alpha ($\alpha$) Particles: Helium nuclei carrying a double positive charge ($^42He^{2+}$). Possess the highest mass ($4\text{ u}$), highest ionizing power ($\approx 10,000\times \gamma$), but the lowest penetrating power; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -615,7 +497,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** In 1898, **Marie Curie and Pierre Curie** isolated two new radioactive elements from pitchblende ore ($U_3O_8$): **Polonium ($Po$, named after Poland)** and **Radium ($Ra$)**. Marie Curie is the only scientist to win Nobel Prizes in two distinct sciences (Physics 1903, Chemistry 1911).
+- **Key Exam Association:** **Alpha ($\alpha$) Particles**: Helium nuclei carrying a double positive charge (**$^4_2He^{2+}$**). Possess the highest mass ($4\text{ u}$), **highest ionizing power ($\approx 10,000\times \gamma$)**, but the **lowest penetrating power**; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -623,10 +505,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Nuclear applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Beta applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Nuclear Property: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely independent of temperature, pressure, chemical combination, or physical state.
+D. Beta ($\beta^-$) Particles: Fast-moving electrons ($^0{-1}e$) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
 
 <details>
 <summary>Show answer</summary>
@@ -634,7 +516,7 @@ D. Nuclear Property: Radioactivity is governed exclusively by nuclear stability 
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Nuclear Property**: Radioactivity is governed exclusively by nuclear stability (neutron-to-proton ratio, $N/Z$); it is completely **independent of temperature, pressure, chemical combination, or physical state**.
+- **Key Exam Association:** **Beta ($\beta^-$) Particles**: Fast-moving electrons (**$^0_{-1}e$**) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -642,7 +524,7 @@ D. Nuclear Property: Radioactivity is governed exclusively by nuclear stability 
 
 Which of the following is correct regarding this topic?
 
-A. Alpha ($\alpha$) Particles: Helium nuclei carrying a double positive charge ($^42He^{2+}$). Possess the highest mass ($4\text{ u}$), highest ionizing power ($\approx 10,000\times \gamma$), but the lowest penetrating power; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
+A. Gamma ($\gamma$) Rays: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the lowest ionizing power, but the highest penetrating power among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -653,7 +535,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Alpha ($\alpha$) Particles**: Helium nuclei carrying a double positive charge (**$^4_2He^{2+}$**). Possess the highest mass ($4\text{ u}$), **highest ionizing power ($\approx 10,000\times \gamma$)**, but the **lowest penetrating power**; completely stopped by a single sheet of paper or the dead outer keratin layer of human skin.
+- **Key Exam Association:** **Gamma ($\gamma$) Rays**: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the **lowest ionizing power**, but the **highest penetrating power** among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -661,8 +543,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Beta applies only to union territories and not state jurisdictions.
-B. Beta ($\beta^-$) Particles: Fast-moving electrons ($^0{-1}e$) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
+A. Reported by the Law Commission in its 214th consultation paper
+B. Soddy-Fajans Group Displacement Law:
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -672,7 +554,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Beta ($\beta^-$) Particles**: Fast-moving electrons (**$^0_{-1}e$**) originating from the nucleus when a neutron decays into a proton, electron, and antineutrino ($n \to p + e^- + \bar{\nu}$). Moderate ionizing power and moderate penetrating power; stopped by a few millimeters of aluminium foil.
+- **Key Exam Association:** **Soddy-Fajans Group Displacement Law**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -680,9 +562,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Gamma applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Radioactive applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. Gamma ($\gamma$) Rays: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the lowest ionizing power, but the highest penetrating power among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
+C. Radioactive Decay Kinetics & Half-Life ($t{1/2}$):
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -691,7 +573,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Gamma ($\gamma$) Rays**: High-energy, short-wavelength electromagnetic photons emitted by excited nuclei transitioning to the ground state. Carry zero charge and zero rest mass; travel at the speed of light ($3 \times 10^8\text{ m/s}$). Possess the **lowest ionizing power**, but the **highest penetrating power** among nuclear emissions; require thick lead blocks or dense reinforced concrete barriers for shielding.
+- **Key Exam Association:** **Radioactive Decay Kinetics & Half-Life ($t_{1/2}$)**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -702,7 +584,7 @@ Which of the following is correct regarding this topic?
 A. Excavated primarily in the Belan and Son River valleys
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. Soddy-Fajans Group Displacement Law:
+D. Units of Radioactivity:
 
 <details>
 <summary>Show answer</summary>
@@ -710,7 +592,7 @@ D. Soddy-Fajans Group Displacement Law:
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Soddy-Fajans Group Displacement Law**:
+- **Key Exam Association:** **Units of Radioactivity**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -718,7 +600,7 @@ D. Soddy-Fajans Group Displacement Law:
 
 Which of the following is correct regarding this topic?
 
-A. Emission of an $\alpha$-particle reduces the atomic number ($Z$) by 2 units and the mass number ($A$) by 4 units:
+A. Becquerel (Bq): SI unit; $1\text{ Bq} = 1\text{ nuclear disintegration per second}$.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -729,7 +611,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Emission of an **$\alpha$-particle** reduces the atomic number ($Z$) by 2 units and the mass number ($A$) by 4 units:
+- **Key Exam Association:** **Becquerel (Bq)**: SI unit; $1\text{ Bq} = 1\text{ nuclear disintegration per second}$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -737,8 +619,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Emission applies only to union territories and not state jurisdictions.
-B. Emission of a $\beta^-$-particle increases the atomic number ($Z$) by 1 unit while leaving the mass number ($A$) unchanged:
+A. Contrary to standard doctrine, Curie applies only to union territories and not state jurisdictions.
+B. Curie (Ci): Traditional historical unit; $1\text{ Ci} = 3.7 \times 10^{10}\text{ disintegrations/sec}$ (the activity of $1\text{ g}$ of pure Radium-226).
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -748,7 +630,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Emission of a **$\beta^-$-particle** increases the atomic number ($Z$) by 1 unit while leaving the mass number ($A$) unchanged:
+- **Key Exam Association:** **Curie (Ci)**: Traditional historical unit; $1\text{ Ci} = 3.7 \times 10^{10}\text{ disintegrations/sec}$ (the activity of $1\text{ g}$ of pure Radium-226).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -756,9 +638,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Emission applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Rutherford applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. Emission of a $\gamma$-ray causes no change in atomic number or mass number, merely dissipating excess nuclear excitation energy.
+C. Rutherford (Rd): $1\text{ Rd} = 10^6\text{ disintegrations/sec}$.
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -767,7 +649,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Emission of a **$\gamma$-ray** causes no change in atomic number or mass number, merely dissipating excess nuclear excitation energy.
+- **Key Exam Association:** **Rutherford (Rd)**: $1\text{ Rd} = 10^6\text{ disintegrations/sec}$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -775,10 +657,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Radioactive applies only to union territories and not state jurisdictions.
+A. Both statements are true and explain the phenomenon
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Radioactive Decay Kinetics & Half-Life ($t{1/2}$):
+D. Radiometric Dating Techniques:
 
 <details>
 <summary>Show answer</summary>
@@ -786,6 +668,6 @@ D. Radioactive Decay Kinetics & Half-Life ($t{1/2}$):
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Radioactive Decay Kinetics & Half-Life ($t_{1/2}$)**:
+- **Key Exam Association:** **Radiometric Dating Techniques**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

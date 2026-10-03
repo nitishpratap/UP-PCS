@@ -11,61 +11,53 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 36 — Ozone Layer</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Ozone (O₃)** is triatomic oxygen. **Good ozone** (अच्छा ओजोन) sits in the **stratosphere** (समतापमंडल) (about **15–30/35 km**). Ground-level ozone is a harmful pollutant.
-2. About **90%** of atmospheric ozone is in the **stratosphere**; about **10%** is in the **troposphere** (क्षोभमंडल).
-3. Stratospheric ozone (समतापमंडलीय ओजोन) forms when **UV** acts on **O₂** (Chapman cycle). Ozone absorbs **ultraviolet**, not IR as its main protective role.
-4. Ozone amount is measured in **Dobson Units**. **1 DU ≈ 0.01 mm** of pure ozone at **0°C and 1 atm**. Average column ≈ **300 DU**. An ozone hole is often taken as below **220 DU**.
-5. Stratospheric ozone is naturally regulated in part by **nitrogen dioxide (NO₂)**. Column thickness is often highest in **spring** and lowest in the **rainy season** (general seasonal pattern — distinct from the Antarctic spring hole).
-6. Ozone depletion is driven by **ODS** such as CFCs through chlorine and bromine catalytic cycles.
-7. One chlorine atom can destroy on the order of **100,000** ozone molecules before it is removed.
-8. The classic **ozone hole** forms over **Antarctica** in spring (**September–October**) with polar stratospheric clouds, polar front/vortex, and CFCs.
-9. Joe **Farman** (फ़रमान), Brian **Gardiner**, and Jonathan **Shanklin** (British Antarctic Survey) reported the Antarctic ozone hole in **Nature (May 1985)**; TOMS mapping was used in that era of monitoring.
-10. ODS include **CFCs, Halon-1211/1301, carbon tetrachloride, methyl chloroform, methyl bromide, HCFCs**, and related chlorine/bromine carriers. **HFCs** are **not** classic ODS.
-11. Refrigerant trade (पण्याध्यक्ष) name **Mafron** (halocarbon coolants) is common in domestic refrigerators; **ammonia** is used in many large plants. CFCs are **not** primarily “automobile exhaust” gases.
-12. CFCs are used in refrigerators/AC, foam blowing, aerosol propellants, and cleaning some electronic components — **not** tubeless-tyre production as a classic CFC use.
-13. **HFCs** are high-GWP climate gases under **Kigali**. They are **not** classic ozone-depleting substances.
-14. The **Vienna Convention (1985)** (वियना कन्वेंशन) is the framework treaty. The **Montreal Protocol (16 September 1987; force 1 January 1989)** is the binding ODS phase-out.
-15. World Ozone Day (विश्व ओजोन दिवस) is **16 September** (Montreal signing; UN observance from **1994**).
-16. The **Kigali Amendment (2016; force 1 January 2019)** phases down **HFCs** for climate reasons under the Montreal family.
-17. **Montreal = ozone. Kyoto (क्योटो) = climate.** Carbon trading ≠ Montreal.
-18. ODP measures ozone-damage potential. GWP measures heat-trapping potential.
-19. Stratospheric ozone absorbs harmful UV (**~93–99%** of the most damaging wavelengths). Tropospheric ozone (क्षोभमंडलीय ओजोन) is a pollutant and greenhouse gas.
-20. **UV-A (315–400 nm)** largely reaches the surface; **UV-B (280–315 nm)** is mostly blocked by ozone; **UV-C (100–280 nm)** is blocked and does not reach the surface under normal conditions.
-21. Extra UV-B raises **skin cancer**, cataracts, crop damage, and plankton stress — not “liver/brain/oral cancer” as the classic stem key.
-22. India’s Ozone Cell under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) tracks HCFC phase-out and cooling-sector compliance.
-23. Do not place the protective ozone layer in the troposphere.
-24. CFCs are both ODS and strong greenhouse gases — “CFC not a GHG” is false.
-25. Polar spring timing matters: the deepest Antarctic loss is not midsummer.
-26. Vienna does not itself list every control measure; Montreal carries the binding phase-out schedules.
-27. **G.W. Kent Moore** (University of Toronto) led the **2005** report of an ozone “halo” / low-ozone feature over the **Tibetan Plateau**.
-28. Homosphere (सममंडल) (uniform composition) ≈ troposphere + stratosphere + mesosphere (मध्यमंडल); **ionosphere** is **not** part of the homosphere set in UKPCS-style stems.
-29. Troposphere is deepest in the tropics (~**18–20 km**) and shallower near the poles.
-30. Dobson Unit is a column measure, not a surface concentration in ppm.
-31. A stem pairing Montreal with climate mitigation (जलवायु शमन) is usually the Kyoto/Paris trap.
-32. Ozone as a gas near the surface is poisonous to lungs/respiratory systems; as a stratospheric layer it is essential for biotic life via UV shielding.
-33. Formation of ozone is slower over polar regions, so depletion effects are strongest there.
-34. Acid rain (अम्ल वर्षा) is driven by **SO₂ / NOx**, not “nitric acid alone” as a matched pair with ozone–CFC style keys.
-
-</details>
+2. **HFCs** are high-GWP climate gases under **Kigali**. They are **not** classic ozone-depleting substances.
+3. **Montreal = ozone. Kyoto (क्योटो) = climate.** Carbon trading ≠ Montreal.
+4. **UV-A (315–400 nm)** largely reaches the surface; **UV-B (280–315 nm)** is mostly blocked by ozone; **UV-C (100–280 nm)** is blocked and does not reach the surface under normal conditions.
+5. **G.W. Kent Moore** (University of Toronto) led the **2005** report of an ozone “halo” / low-ozone feature over the **Tibetan Plateau**.
+6. **Ozone (O₃)** is triatomic oxygen that absorbs harmful solar ultraviolet radiation.
+7. **UV-A (315–400 nm)** largely reaches the surface; **UV-B (280–315 nm)** is mostly blocked by ozone; **UV-C (100–280 nm)** is blocked by O₂/O₃ and does not reach the surface under normal conditions.
+8. **Ozone depletion** is a sustained fall in stratospheric ozone below natural levels.
+9. **Rowland–Molina (1974)** linked CFCs to ozone loss; Nobel Prize in Chemistry **1995**.
+10. **ODS** are chemicals controlled under the Montreal Protocol because they destroy stratospheric ozone.
+11. **CFCs:** refrigerants, aerosol propellants, foam blowing, electronics cleaning — long-lived chlorine sources.
+12. **Halons (e.g. Halon-1211, Halon-1301):** fire suppressants — bromine; often higher ozone-depleting impact per molecule.
+13. **ODP (Ozone Depleting Potential)** ranks destructiveness relative (सापेक्ष) to **CFC-11 = 1**.
+14. **HFCs** were ozone-friendly replacements but have high **GWP**; controlled later by the **Kigali Amendment** (climate, not classic ODS).
+15. **Nitrous oxide (N₂O)** also contributes to ozone chemistry / long-term ozone loss discussions, but CFCs/halons dominate classic “ozone hole” stems.
+16. **16 September** is observed as **International Day for the Preservation of the Ozone Layer (World Ozone Day)** — UN observance from **1994**.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Stratospheric Ozone** | **Tropospheric Ozone** | Beneficial atmospheric filter blocking lethal solar UV radiation vs harmful photochemical smog component damaging human lungs and crop yields | समतापमंडलीय ओजोन (सुरक्षा कवच) / क्षोभमंडलीय ओजोन (प्रदूषक) |
-| **Ozone Depletion** | **Ozone Hole** | Global thinning of the stratospheric ozone layer by ODS vs severe seasonal Antarctic drop in total column ozone below 220 Dobson Units (DU) | ओजोन क्षरण / ओजोन छिद्र (<220 DU) |
-| **Vienna Convention (1985)** | **Montreal Protocol (1987)** | Non-binding framework agreement establishing ozone research/cooperation vs binding international protocol mandating specific phase-out schedules for ODS | वियना कन्वेंशन (1985) / मॉन्ट्रियल प्रोटोकॉल (1987) |
-| **Chlorofluorocarbons (CFCs)** | **Hydrofluorocarbons (HFCs)** | Chlorine-bearing potent ozone depleters + GHGs (phased out under Montreal) vs zero ODP non-ozone-depleting refrigerants that are super greenhouse gases (phased down under Kigali) | सीएफसी (ओजोन क्षयकारी) / एचएफसी (ग्रीनहाउस गैस) |
-| **Ozone Depletion Potential (ODP)** | **Global Warming Potential (GWP)** | Measure of substance's ability to destroy O₃ relative to CFC-11 (=1.0) vs measure of heat-trapping efficiency relative to CO₂ (=1.0) over 100 years | ओजोन रिक्तीकरण क्षमता (ODP) / वैश्विक तापन क्षमता (GWP) |
-| **Dobson Unit (DU)** | **Parts Per Million (ppm)** | Standard measure of atmospheric column ozone thickness (1 DU = 0.01 mm at STP; normal = ~300 DU) vs concentration ratio of gases in volume | डॉबसन यूनिट (DU) / पीपीएम (ppm) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Montreal = climate mitigation | **Ozone / ODS**; Kyoto = climate |
+| Ozone layer in troposphere | **Stratosphere** (~90% of O₃) |
+| Ozone hole over India like Antarctica | **Antarctic spring** feature |
+| Vienna = detailed CFC ban alone | **Framework**; Montreal = phase-out |
+| HFC = classic ODS | **High GWP**; Kigali track |
+| Ozone Day = 5 June | **16 September** |
+| Hole = physical hole | Column O₃ **< 220 DU** |
+| Good ozone at ground level | Ground O₃ = **bad** pollutant |
+| CFC not a greenhouse gas | CFCs **are** GHGs and ODS |
+| CFC main source = automobiles | Refrigerants / foam / aerosols / electronics cleaners |
+| CFC use = tubeless tyres | **Not** a classic CFC use |
+| Fridge gas = methane | **Mafron**/halocarbon; large plants may use **ammonia** |
+| Ozone absorbs IR as UV-shield role | Protective role = **UV** |
+| UV harm key = liver/brain cancer | Classic key = **skin cancer** |
+| Carbon trading = Montreal | **Kyoto** |
+| Agenda 21 = ozone treaty | **Sustainable Development** |
+| Kyoto = save water / ozone | **GHG / climate** |
+| Ionosphere in homosphere | Homosphere ≈ tropo + strato + meso; **ionosphere not included** |
+| Methyl chloroform not an ODS | It **is** Montreal-controlled ODS |
+
+---
 
 
 ---

@@ -11,74 +11,71 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 14 — Ancient India Miscellaneous</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The four Old World Bronze urban cores are **Mesopotamia**, **Egypt**, **Indus** (सिंधु), and **Shang China**. Iron-Age Greece, Rome, and Persia belong to a later bucket.
-2. **Mesopotamia** sits on the **Tigris–Euphrates**, runs competing **city-states**, writes **cuneiform** on clay, and builds stepped **ziggurat** temple-towers — not tombs.
-3. **Egypt** sits on the **Nile**, is a unified **pharaoh** monarchy, writes **hieroglyphs** on papyrus, and builds **pyramid** royal tombs.
-4. **Indus / Harappan** Mature phase is about **2600–1900 BCE**. Signatures include grid streets, baked brick, drains, and standard weights. The script is still **undeciphered**.
-5. Mesopotamia knew the Indus land as **Meluhha**. Harappans built neither ziggurats nor pyramid tomb-fields and left no named pharaoh.
-6. **Shang China** on the **Yellow River** uses readable **oracle-bone** script and ritual bronze **ding** vessels. Unlike the Indus script, Shang writing **is** read.
-7. Puranas are post-Vedic smriti encyclopaedias shaped mainly in the Gupta age and after. Count fact is **18 Mahapuranas** and **18 Upapuranas**.
-8. A Mahapurana is supposed to carry **panchalakshana**: sarga, pratisarga, vamsha, manvantara, and vamshanucharita.
-9. The **Vishnu Purana** (विष्णु पुराण) preserves a **Mauryan** (मौर्य) genealogy. The **Matsya Purana** (मत्स्य पुराण) gives the longest **Andhra / Satavahana** (सातवाहन) list. The **Vayu Purana** (वायु पुराण) lists Gupta **kings** but does **not** give a usable Gupta system of governance.
-10. Puranic **Shriparvatiya** means the **Ikshvakus** of **Nagarjunakonda / Vijayapuri**. Trap options include Vakataka, Shaka, and Kharavela.
-11. Indian materialism in the is **Charvaka / Lokayata** (चार्वाक). The only accepted pramana is **pratyaksha** (प्रत्यक्ष) (perception). It denies lasting soul, karma fruit, rebirth, and Veda authority.
-12. **Charvaka ≠ Charaka**. Charaka is the Ayurveda compiler; Charvaka is the materialist school. Mixing the names is the cheap trap.
-13. *Charaka Samhita* has **120 chapters** in **8 sections**. **Sushruta** (सुश्रुत) is the surgery fact; Charaka is internal medicine.
-14. Buddhism is **not** materialist: it keeps **karma and rebirth** while denying a permanent soul. That is a different denial from Charvaka.
-15. The **Kakatiyas** rose as Western Chalukya feudatories and became independent in Telangana. Early seat is **Hanamkonda**; match-paper capital is **Warangal (Orugallu)**.
-16. Capital match set: **Pallava–Kanchi**, **Pandya–Madura**, **Yadava–Devagiri**, **Kakatiya–Warangal**.
-17. Kakatiya ruler order is **Prola II → Rudradeva → Ganapati Deva → Rudrama Devi → Prataparudra II**. Prataparudra II is the **last** king, not the founder.
-18. **Rudrama Devi** ruled as a reigning queen under the male throne-name **Rudradeva Maharaja**. She is Ganapati’s daughter, not a Chola queen.
-19. **Warangal–Ramchandra Dev** is **NOT** matched. Ramachandra is the **Yadava** of **Devagiri**. Warangal’s last Kakatiya is **Prataparudra II**.
-20. Delhi pressure: **Malik Kafur** took tribute at Warangal in **1310**; the dynasty fell in **1323** to Ulugh Khan under **Ghiyasuddin Tughluq**.
-21. **Thousand Pillar Temple** at Hanamkonda belongs to **Rudradeva** (tradition **1163**). It is **not** inside Warangal fort.
-22. **Ramappa (Rudreshwara) Temple** at **Palampet** (Telangana) was built in **1213** under Ganapati’s general Recharla Rudra and became **UNESCO** World Heritage in **2021**.
-23. Historiography book facts: **Jayaswal–Hindu Polity**, **Basham–Wonder that was India**, **Kosambi–Introduction to the Study of Indian History**, **Smith–Early History of India**.
-24. Ziggurat is a stepped **temple**; pyramid is a royal **tomb**. Cuneiform is clay wedges; hieroglyphs are picture signs.
-25. Harappan cities look corporate — standard brick, weak palace skyline — while Egypt is tomb-centred and Mesopotamia is temple-centred and war-prone.
-26. Ganapati Deva issued the **Motupalli** abhaya-shasana safety-charter for sea merchants; Marco Polo later calls the port **Mutfili**.
-27. Kakatiya polity used **nayankara** chiefs who held land, raised troops, and remitted revenue. Court language was **Telugu** and **Sanskrit**, with mainly Shaiva temple religion.
-28. Purana Qila in Delhi is a **fort** name, not a Sanskrit Purana text. Use Puranas as genealogy supplements to inscriptions, not as year-perfect chronicles.
-29. Ajita Kesakambalin in the Pali canon is a materialist neighbour of Charvaka thought. Nyaya is **Gautama**; Vaisheshika is **Kanada** — neither is Charvaka.
-30. Shang ends with Zhou conquest; Harappan cities **thin out** around **1900 BCE**; Egypt shows unusual dynastic continuity — decline is not one shared story.
-31. **Meluhha** in Mesopotamian texts is commonly linked with the Indus. Harappan Gulf trade sits with **Dilmun / Magan** memory — not a named UP river dock.
-32. **Ajivika** doctrine centres on **Makkhali Gosala** and fatalist **niyati**. Barabar caves were gifted to Ajivikas under Ashoka’s age — not to Buddhists.
-33. **Upapuranas** are the eighteen minor Puranas beside the eighteen Mahapuranas. Use Puranas as genealogy supplements to inscriptions, not as year-perfect chronicles.
-34. *Charaka Samhita* is internal medicine; **Sushruta** is surgery. **Charvaka ≠ Charaka** remains the cheap name trap beside both cards.
+1. **Mesopotamia** sits on the **Tigris–Euphrates**, runs competing **city-states**, writes **cuneiform** on clay, and builds stepped **ziggurat** temple-towers — not tombs.
+2. **Egypt** sits on the **Nile**, is a unified **pharaoh** monarchy, writes **hieroglyphs** on papyrus, and builds **pyramid** royal tombs.
+3. **Indus / Harappan** Mature phase is about **2600–1900 BCE**. Signatures include grid streets, baked brick, drains, and standard weights. The script is still **undeciphered**.
+4. **Shang China** on the **Yellow River** uses readable **oracle-bone** script and ritual bronze **ding** vessels. Unlike the Indus script, Shang writing **is** read.
+5. **Charvaka ≠ Charaka**. Charaka is the Ayurveda compiler; Charvaka is the materialist school. Mixing the names is the cheap trap.
+6. **Rudrama Devi** ruled as a reigning queen under the male throne-name **Rudradeva Maharaja**. She is Ganapati’s daughter, not a Chola queen.
+7. **Warangal–Ramchandra Dev** is **NOT** matched. Ramachandra is the **Yadava** of **Devagiri**. Warangal’s last Kakatiya is **Prataparudra II**.
+8. **Thousand Pillar Temple** at Hanamkonda belongs to **Rudradeva** (tradition **1163**). It is **not** inside Warangal fort.
+9. **Ramappa (Rudreshwara) Temple** at **Palampet** (Telangana) was built in **1213** under Ganapati’s general Recharla Rudra and became **UNESCO** World Heritage in **2021**.
+10. **Meluhha** in Mesopotamian texts is commonly linked with the Indus. Harappan Gulf trade sits with **Dilmun / Magan** memory — not a named UP river dock.
+11. **Ajivika** doctrine centres on **Makkhali Gosala** and fatalist **niyati**. Barabar caves were gifted to Ajivikas under Ashoka’s age — not to Buddhists.
+12. **Upapuranas** are the eighteen minor Puranas beside the eighteen Mahapuranas. Use Puranas as genealogy supplements to inscriptions, not as year-perfect chronicles.
+13. **Charaka** = medicine. **Sushruta** = surgery.
+14. **Minoan** Crete uses Linear A, which is unread.
+15. **Mycenaean** Greece uses Linear B, which is early Greek.
+16. **Achaemenid Persia** uses satraps and the Royal Road.
+17. **Vishnu Purana** (विष्णु पुराण) preserves a **Mauryan** (मौर्य) genealogy. Statement 1 is **true**.
+18. **Matsya Purana** (मत्स्य पुराण) gives the longest **Andhra / Satavahana** (सातवाहन) king list, about **30** names and about **460** years.
+19. **Vayu Purana** (वायु पुराण) is used for early dynastic lists, including Gupta **names**. It does **not** give a usable Gupta **system of governance**. Statement 2 is **false**.
+20. **Purana Qila** in Delhi is a **fort** name (Humayun / Sher Shah fabric). It is not a Sanskrit text.
+21. **Ajita Kesakambalin** in the Pali canon is a materialist: the person ends at death, four elements scatter. Same family of thought, Buddhist naming.
+22. **Buddhism** (बौद्ध धर्म) is not materialist. It keeps **karma and rebirth**. It denies a permanent soul, which is a different denial.
+23. **Nyaya** (Gautama) and **Vaisheshika** (वैशेषिक) (Kanada) are orthodox *darshanas*. They are not Charvaka.
+24. **Malik Kafur** under Alauddin Khalji takes tribute at Warangal in **1310**.
+25. **Ramachandra** is the **Yadava** king of **Devagiri** (the man Alauddin squeezed).
+26. **Thousand Pillar Temple** (Rudreshwara) at **Hanamkonda** — consecration tradition **1163 CE**.
+27. **Rudradeva / Prataparudra I** is the 12th-century male ruler. **Rudrama Devi** is his granddaughter, a century later.
+28. **Motupalli** (Andhra coast): issues an **abhaya-shasana** — a safety-charter for sea merchants.
+29. **1310:** Malik Kafur. Tribute, including the later **Koh-i-noor tradition** (a story, not an inscription).
+30. **1323:** Ulugh Khan takes Warangal. Dynasty ends. Persian chronicles then scatter his end.
+31. **Warangal Fort**: stone/laterite circuit.
+32. **Perini Shivatandavam**: warrior-Shiva dance later reconstructed and tied to Kakatiya camps.
+33. **Sushruta Samhita** is **surgery**, including rhinoplasty in the tradition.
+34. **Vayu Purana = Gupta administration** → false. 2023 Q29 Only 1.
+35. **Shriparvatiya = Vakataka** → **Ikshvaku** (Nagarjunakonda).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Mesopotamia | Egypt | Two rivers + city-states vs **one Nile** + unified pharaoh | मेसोपोटामिया / मिस्र |
-| Ziggurat | Pyramid | Stepped **temple** vs royal **tomb** | जिग्गुरात / पिरामिड |
-| Cuneiform | Hieroglyphs | Clay wedges vs **picture** signs | कीलाक्षर / चित्रलिपि |
-| Indus script | Oracle bones | Still **unread** vs earliest **readable** Chinese | सिन्धु लिपि / अस्थि लेख |
-| Mahapurana | Upapurana | 18 major (5 traits) vs 18 **minor** | महापुराण / उपपुराण |
-| Vishnu Purana | Vayu Purana | **Mauryan** list vs **not** Gupta admin | विष्णु / वायु |
-| Matsya Purana | Vishnu Purana | Longest **Andhra / Satavahana** list vs **Mauryan** genealogy | मत्स्य / विष्णु |
-| Ikshvaku | Vakataka | Puranic **Shriparvatiya** vs Vidarbha | इक्ष्वाकु / वाकाटक |
-| Charvaka | Charaka | Materialist school vs **Ayurveda** compiler | चार्वाक / चरक |
-| Charvaka | Buddhism | Denies rebirth vs accepts **karma/rebirth** | चार्वाक / बौद्ध |
-| Kakatiya | Yadava | **Warangal** vs **Devagiri** | काकतीय / यादव |
-| Warangal | Hanamkonda | Fort capital vs **Thousand Pillar** town | वारंगल / हनमकोंडा |
-| Ganapati | Rudrama | Peak expander vs **queen** (his daughter) | गणपतिदेव / रुद्रमा |
-| Rudrama | Prataparudra II | Female monarch vs **last** king, fall **1323** | रुद्रमा / प्रतापरुद्र |
-| Ramappa | Thousand Pillar | Palampet **UNESCO 2021** vs Hanamkonda | रामप्पा / सहस्र स्तंभ |
-| Jayaswal | Smith | *Hindu Polity* vs *Early History of India* | जयसवाल / स्मिथ |
-| Kosambi | Basham | Marxist *Introduction* vs cultural *Wonder* | कोसांबी / बैशम |
-| Charaka | Sushruta | Internal medicine **120/8** vs **surgery** | चरक / सुश्रुत |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Facts
+
+1. **Vayu Purana = Gupta administration** → false. 2023 Q29 Only 1.
+2. **Shriparvatiya = Vakataka** → **Ikshvaku** (Nagarjunakonda).
+3. **Purana Qila = a Mahapurana** → Delhi **fort**.
+4. **Harappan script = readable hieroglyphs** → still **unread**.
+5. **Ziggurat = pyramid** → temple tower vs **tomb**.
+6. **Kakatiya capital = Devagiri** → **Warangal**. Devagiri = Yadava.
+7. **Warangal = Ramchandra Dev** → 2018 bait. Ramachandra = **Yadava**.
+8. **Prataparudra founded Kakatiyas** → he is the **last** (1323).
+9. **Rudrama = Chola / Hoysala** → **Kakatiya**, daughter of Ganapati.
+10. **Thousand Pillar = Palampet / inside the fort** → **Hanamkonda**.
+11. **Ramappa = Karnataka / Andhra** → **Telangana**, UNESCO **2021**.
+12. **Charvaka wrote Charaka Samhita** → physician vs materialist.
+13. **Charaka = 100 chapters / 5 sections** → **120 / 8**.
+14. **Kosambi wrote *Early History of India*** → **Smith**. Kosambi = *Introduction to the Study*.
+15. **Basham = Marxist historian** → cultural survey. Marxist fact = **Kosambi**.
+16. **Buddhism = Charvaka** → Buddhism keeps **rebirth**.
+17. **Nyaya = Kanada** → Nyaya = **Gautama**. Kanada = Vaisheshika.
+18. **Kakatiyas ruled the UP doab** → **Telangana**.
+19. **Meluhha = Egypt** → Mesopotamia’s name for the **Indus** land.
+20. **Independent Kakatiyas till 1687** → end **1323**. 1687 is Golconda.
 
 
 ---

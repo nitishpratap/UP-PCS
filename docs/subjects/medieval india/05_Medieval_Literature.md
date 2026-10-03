@@ -15,7 +15,8 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate (दि
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The court language of the Sultanate and Mughal empires was **Persian**; **Baburnama** (बाबरनामा) alone is written in **Chagatai (चगताई) Turki (तुर्की)**.
 2. **Tabaqat-i-Nasiri** is by **Minhaj-us-Siraj**; **Tarikh-i-Firoz Shahi** is by **Ziauddin Barani**.
@@ -46,9 +47,10 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate (दि
 27. Vernacular Bhakti (भक्ति) poetry of Kabir (कबीर), Tulsidas (तुलसीदास), and Surdas (सूरदास) ran parallel to Persian court literature.
 28. **Afif** covers later Firuz; Barani’s Tarikh stops earlier — that period split is the double-title trap.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -64,7 +66,8 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate (दि
 | Tuzuk-i-Jahangiri | Padshahnama | Emperor's own memoir vs court historian's Shah Jahan chronicle | तुज़ुक / पादशाहनामा |
 | Ashiqa | Rag Vibodh | Amir Khusrau's romantic historical poem (Deval Rani) vs Somnath's Sanskrit music treatise (1609) | आशिक़ा (खुसरो) / राग विबोध (सोमनाथ) |
 | Persian | Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
----
+
+</details>
 
 ## Must-score facts — book ↔ author
 

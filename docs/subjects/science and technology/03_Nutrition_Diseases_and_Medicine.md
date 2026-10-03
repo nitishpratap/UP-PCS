@@ -25,7 +25,8 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. By mass, **Oxygen** is the most abundant element in the human body (~65%), followed by Carbon (~18.5%), Hydrogen (~9.5%), and Nitrogen (~3.2%); by total number of atoms, **Hydrogen** is the most abundant.
 2. **Calcium** is the most abundant mineral element in the human body (~1.5% of body weight; 99% in bones and teeth as hydroxyapatite crystals); **Iron** is the most abundant essential micromineral (3–4 grams, primarily inside haemoglobin).
@@ -60,8 +61,10 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 31. **Vaccine Classification & Modern Immunology**:
 32. **Clinical Diagnostic Tests & Instruments Drill**:
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -78,7 +81,7 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 | **Widal Test** | **Mantoux Test** | Agglutination diagnostic test for Typhoid vs intradermal tuberculin skin test for Tuberculosis | विडाल टेस्ट / मॉन्टौक्स टेस्ट |
 | **ECG** | **EEG** | Measures electrical activity of the heart (Einthoven) vs measures electrical activity of the brain (Hans Berger) | ईसीजी / ईईजी |
 
----
+</details>
 
 ## Must-Score Drill — Vitamins, Diseases & Diagnostic Tests
 

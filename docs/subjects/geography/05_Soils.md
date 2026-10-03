@@ -32,7 +32,8 @@
 ---
 
 
-## Consolidated — 42 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Ancient Indian names: **Urvara** = fertile and **Usara** = sterile. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock, and Time (**CLORPT**).
 2. **Edaphic** means a **soil** factor — not climate, biotic, or topography. Residual / sedentary soils form on bedrock (regur, red). Transported / azonal soils are the alluvium of the plains.
@@ -77,7 +78,10 @@
 41. **UP Local Soil Names**: Bundelkhand black = **Mar / Kabar**; Bundelkhand red = **Parua / Rakar**; Vindhyan = **Bhonta / Monta**; Alkaline canal tracts = **Usar / Reh / Kallar / Thur**.
 42. **Saline vs Sodic**: Saline soils have high soluble salts; sodic/alkali soils have high exchangeable sodium and pH > 7. Gypsum treats sodic/alkali; lime treats acidic soil.
 
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -123,7 +127,7 @@
 | Matasi vs Kanhar (CG) | Matasi = **red-yellow**, higher altitude, paddy; Kanhar = lower black clay | Swap | मटासी लाल-पीली; कन्हार काली |
 | Karewa vs alluvium | Karewa = **Kashmir lacustrine** (saffron) | Call it ordinary Gangetic alluvium | करेवा = कश्मीर |
 
----
+</details>
 
 ## Must-score facts — profile, types, doab (दोआब) belts
 

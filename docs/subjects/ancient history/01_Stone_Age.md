@@ -15,7 +15,8 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 
 ---
 
-## Consolidated — 42 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Indian prehistory runs **Paleolithic → Mesolithic → Neolithic → Chalcolithic**. Paleolithic people used **chipped** tools and lived by hunting and gathering. Neolithic people used **polished or ground** stone, pottery, and farming.
 2. Lower Paleolithic tools are **handaxes and cleavers** (Acheulian). Middle Paleolithic tools are **flakes** made by the Levallois method. Upper Paleolithic tools are **blades, burins, and scrapers**.
@@ -60,9 +61,10 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 41. **Ahar–Banas** (Mewar, Rajasthan, about **2100–1500 BCE**) is **contemporary with the Harappan** civilisation, knew **rice**, and used white-painted **black-and-red ware**. The stem “rice was unknown to them” is false.
 42. **Adamgarh** near Hoshangabad, Madhya Pradesh, shows a Paleolithic-to-Mesolithic sequence on the Narmada and early domestication claims. **Sivapithecus** Siwalik fossils are **not** *Homo* evidence against Hathnora.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -84,7 +86,7 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 | Damdama triple burial | Sarai Nahar Rai four-skeleton grave | One triple grave at Damdama vs four skeletons in one grave at Sarai Nahar Rai | दमदमा / सराय नाहर राय |
 | Lahuradewa | Mehrgarh | Early Ganga rice (Sant Kabir Nagar) vs NW wheat–barley village (Balochistan) | लहुरादेवा / मेहरगढ़ |
 
----
+</details>
 
 ## Must-score facts — period, site, excavator
 

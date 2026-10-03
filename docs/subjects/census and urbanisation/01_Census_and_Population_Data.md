@@ -12,7 +12,8 @@
 
 UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Under the Constitution of India, the **Census** is a subject enumerated in **Entry 69 of the Union List (List I)** of the Seventh Schedule.
 2. The **Census Act, 1948** was piloted by **Sardar Vallabhbhai Patel** to provide permanent statutory authority for census operations.
@@ -65,9 +66,10 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 49. **Kanpur Nagar** has the highest female literacy rate in UP (**75.05%**), while **Shravasti** has the lowest female literacy (**34.78%**).
 50. The **Sample Registration System (SRS)** under the Registrar General of India is the premier annual source for estimating IMR, MMR, CBR, and CDR in India.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **Lowest Decadal Growth State**: **Nagaland (-0.58%)** | **Second Lowest Decadal Growth State**: **Kerala (4.91%)** | **Trap**: Nagaland is the only state with negative growth (-0.58%). Kerala has the lowest *positive* growth among states. |
 | **Civil Registration System (CRS)**: Continuous legal registration of births/deaths | **Sample Registration System (SRS)**: Annual dual-record demographic sample survey | **Trap**: SRS provides official annual demographic estimates (IMR, TFR, CBR); CRS is administrative civil record registration. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

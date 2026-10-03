@@ -11,56 +11,61 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 30 — Environmental Literature & Awareness</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Four (चातुर्याम) pillars on this sheet: **literature** (landmark books/reports), **education** (formal EE), **awareness** (public campaigns), and **communication** (science to citizens).
-2. ***Silent Spring* (1962)** by **Rachel Carson** exposed pesticide/DDT harms. It is not Hardin’s commons essay.
-3. **“Tragedy of the Commons” (1968)** by **Garrett Hardin** is about overuse of shared resources.
-4. ***Limits to Growth* (1972)** is the **Club of Rome** systems study. ***Our Common Future* (1987)** is the **Brundtland Report** that popularised sustainable development. Brundtland ≠ Limits to Growth.
-5. ***Small Is Beautiful* (1973)** by **E.F. Schumacher** critiques mass-production economics — “economics as if people mattered.” It is not Carson’s pesticide book.
-6. Assertion–reason traps often make Brundtland and Limits to Growth look interchangeable — they are different books/years/authors.
-7. Environmental education landmarks include **Tbilisi (1977)**, MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) **NGC/ECO Clubs**, **GSDP (2017)**, and **NEP 2020** ESD language.
-8. Environmental awareness hooks include **Article 51A(g)**, **NEAC**, **Van Mahotsav** (July tree planting), and **LiFE** (launched **June 2022** from a COP26 idea).
-9. LiFE is **not** a COP-25 product. Idea pitch is Glasgow COP26; launch is June 2022.
-10. Environmental communication flagships include CSE’s ***Down To Earth***, Gobar Times, and IEC components inside schemes. **KSSP** also sits in science–public communication memory from Kerala.
-11. Carson ≠ Hardin. Pesticides book versus commons essay.
-12. Brundtland ≠ Limits to Growth. SD definition report versus Club of Rome growth study.
-13. Literature shapes thought; education is curriculum and clubs; awareness is campaigns and duties; communication is media/IEC — keep the four jobs distinct.
-14. NGC/ECO Clubs are MoEFCC school eco-action programmes — not a Bharat Nirman infrastructure scheme.
-15. Agenda 21 is a sustainable-development action plan from Rio; it is not “only environmental education.”
-16. Article **51A(g)** is the constitutional citizen duty to protect the environment (पर्यावरण) — an awareness/duty fact.
-17. Van Mahotsav is the July greening festival fact for schools and public tree planting.
-18. NEP 2020 supports education for sustainable development language; it does not replace Tbilisi as the classic EE conference fact.
-19. Down To Earth is CSE journalism for environment — a communication pillar example.
-20. **Eco-mark (1991)** is the BIS earthen-pot label for certified environment-friendly consumer goods. It is **not** AGMARK and not a FAO mark.
-21. **Indira Gandhi Paryavaran Puraskar (1987, MoEF)** honours measurable contribution to environment protection. **Rajiv Gandhi Environment Award** recognises clean technology and industrial pollution reduction.
-22. **Tyler Prize** (University of Southern California) is often called the “Nobel of Environment” for environmental science, health, and energy.
-23. UNEP’s **Global 500 Award** (from **1987**) was later succeeded in spirit by **Champions of the Earth** (from **2005**). Narendra Modi received Champions of the Earth in **2018**.
-24. The **Borlaug Award** is for outstanding agricultural research. Norman Borlaug’s Nobel was the **Peace** Prize (Green Revolution (हरित क्रांति)), not medicine.
-25. UP colour: NEAC district campaigns, Van Mahotsav in schools, NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) city awareness (Kanpur (कानपुर)), and ECO Clubs in UP schools.
-26. Silent Spring’s year is **1962**; Limits to Growth is **1972**; Brundtland is **1987** — three different decades.
-27. Hardin’s commons logic is shared-resource overuse; it is not Carson’s pesticide narrative.
-28. Match pillar → flagship before matching author names: Carson/Hardin/Brundtland/Schumacher for literature; Tbilisi/ECO Club for education; 51A(g)/LiFE for awareness; Down To Earth for communication; awards for recognition traps.
+1. ***Silent Spring* (1962)** by **Rachel Carson** exposed pesticide/DDT harms. It is not Hardin’s commons essay.
+2. **“Tragedy of the Commons” (1968)** by **Garrett Hardin** is about overuse of shared resources.
+3. ***Limits to Growth* (1972)** is the **Club of Rome** systems study. ***Our Common Future* (1987)** is the **Brundtland Report** that popularised sustainable development. Brundtland ≠ Limits to Growth.
+4. ***Small Is Beautiful* (1973)** by **E.F. Schumacher** critiques mass-production economics — “economics as if people mattered.” It is not Carson’s pesticide book.
+5. **Eco-mark (1991)** is the BIS earthen-pot label for certified environment-friendly consumer goods. It is **not** AGMARK and not a FAO mark.
+6. **Indira Gandhi Paryavaran Puraskar (1987, MoEF)** honours measurable contribution to environment protection. **Rajiv Gandhi Environment Award** recognises clean technology and industrial pollution reduction.
+7. **Tyler Prize** (University of Southern California) is often called the “Nobel of Environment” for environmental science, health, and energy.
+8. **Environmental literature** includes books and landmark reports that shaped ecological thought and policy.
+9. **Rachel Carson, *Silent Spring* (1962):** exposed DDT/pesticide harm to birds, food chains, and health — triggered the modern environmental movement.
+10. **Garrett Hardin, "Tragedy of the Commons" (1968):** argued individuals overuse shared resources (pasture, fisheries, air) for private gain.
+11. **Club of Rome, *The Limits to Growth* (1972):** modelled exponential growth hitting planetary resource limits — **not** the Brundtland Report.
+12. **Brundtland Commission, *Our Common Future* (1987):** defined and **popularised Sustainable Development** — meeting present needs without compromising future generations.
+13. **W.M. Adams, *Green Development* (first edition 1990):** environment and sustainability in the developing world.
+14. **Masanobu Fukuoka** was a Japanese farmer-philosopher who pioneered **natural farming** and re-vegetation of desertified lands.
+15. **Aldo Leopold, *A Sand County Almanac* (1949):** "Land Ethic" — moral duty to the biotic community.
+16. **Paul Ehrlich, *The Population (जनसंख्या) Bomb* (1968):** population growth vs resource limits debate.
+17. **Indian voices:** Gandhi (गांधी) *Hind Swaraj (स्वराज)* (हिंद स्वराज) (1909) — restraint vs reckless industrialism; Tagore/Shantiniketan — nature-linked education; Bahuguna — "ecology (पारिस्थितिकी) is permanent economy"; CSE (Anil Agarwal, Sunita Narain) — *Down To Earth*.
+18. **Environmental Education (EE)** builds knowledge, attitudes, skills, and participation for environmental protection.
+19. **Stockholm 1972** (स्टॉकहोम सम्मेलन) put EE on the global agenda; **Tbilisi Declaration (1977)** became the first intergovernmental EE framework.
+20. **Rio 1992 Agenda 21 Chapter 36** called for reorienting education toward sustainable development.
+21. **NEP 2020** integrates environmental awareness and ESD across stages through experiential, multidisciplinary learning.
+22. **National Green Corps (NGC) (नेशनल ग्रीन कॉर्प्स) / ECO Clubs (MoEFCC):** school/college clubs for plantation, waste management, biodiversity surveys, energy audits.
+23. **Paryavaran Mitra (मित्र -):** CEE Ahmedabad (अहमदाबाद) + MoEFCC — student/teacher green ambassadors.
+24. **Green Skill Development Programme (GSDP), 2017:** MoEFCC + Skill Ministry — vocational green skills.
+25. **Environmental awareness** is public understanding and concern that drives behaviour change and civic action.
+26. **Article 51A(g)** (42nd (42वां) Amendment, 1976): Fundamental Duty to protect and improve forests, lakes, rivers, and wildlife — pairs with **Art 48A** (state duty).
+27. **National Environment Awareness Campaign (NEAC):** MoEFCC-funded NGO/school campaigns since the 1980s.
+28. **Van Mahotsav:** tree-plantation week in **July**, popularised by **K.M. Munshi (1950)**.
+29. **LiFE Mission:** idea at **COP26 (2021)**; launched **June 2022** — 75 pro-planet lifestyle actions (awareness/nudge, not school curriculum).
+30. **Eco-mark / ECOMARC** is India’s eco-labelling scheme launched in **1991** by the Government of India and administered by the **Bureau of Indian Standards (BIS)**.
+31. **AGMARK** is a quality certification mark for agricultural produce under the **Agricultural Produce (Grading and Marking) Act, 1937**, issued through the Directorate of Marketing and Inspection (Ministry of Agriculture) — **not FAO**.
+32. **BIS / ISI** marks cover many industrial and consumer products (including mandatory certification for automotive tyres and tubes in classic stems).
+33. **Greenwashing** means conveying a **false or misleading impression** that a company (कंपनी)’s products or practices are eco-friendly.
+34. **Greendex** (ग्रीनडेक्स) (National Geographic / GlobeScan) measures **environmentally sustainable consumer behaviour** across countries — not carbon-credit sales volume.
+35. **Plachimada** (Palakkad, **Kerala**) became a landmark local struggle against groundwater contamination linked to a Coca-Cola bottling plant.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environmental Education** | **Environmental Awareness** | Structured pedagogical curriculum in schools/colleges (Eco-Clubs, NGC) vs general public sensitization & behavioral change (Mission LiFE) | पर्यावरण शिक्षा / पर्यावरण जागरूकता |
-| **Silent Spring (1962)** | **Tragedy of the Commons (1968)** | Rachel Carson's book exposing chemical pesticide (DDT) bioaccumulation vs Garrett Hardin's economic essay on shared resource degradation | साइलेंट स्प्रिंग / ट्रैजेडी ऑफ द कॉमन्स |
-| **Limits to Growth (1972)** | **Brundtland Report (1987)** | Club of Rome computer model projecting economic/ecological collapse vs UN WCED report (*Our Common Future*) coining Sustainable Development | लिमिट्स टू ग्रोथ (1972) / ब्रंटलैंड रिपोर्ट (1987) |
-| **Small Is Beautiful (1973)** | **Silent Spring (1962)** | E.F. Schumacher's critique of mass production ("economics as if people mattered") vs Carson's chemical toxicity expose | स्मॉल इज ब्यूटीफुल / साइलेंट स्प्रिंग |
-| **Eco-mark (1991)** | **Greenwashing** | Official BIS earthen pot label for certified environment-friendly consumer goods vs deceptive corporate marketing claiming false eco-credentials | इको-मार्क (मिट्टी का घड़ा) / ग्रीनवॉशिंग |
-| **Greendex** | **Ecological Footprint** | National Geographic consumer sustainability index vs Global Footprint Network measure of nature's demand vs biocapacity | ग्रीनडेक्स / पारिस्थितिक पदचिह्न |
-| **National Green Corps (NGC)** | **Mission LiFE (2022)** | MoEFCC Eco-club programme in school networks vs international citizen-movement promoting lifestyle for environment | नेशनल ग्रीन कॉर्प्स / मिशन लाइफ (LiFE) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Silent Spring = Hardin | **Carson 1962** |
+| Brundtland = Limits to Growth | **Our Common Future 1987** |
+| Limits to Growth = Brundtland | **Club of Rome 1972** |
+| LiFE idea at COP-25 | **COP26 2021** |
+| Agenda 21 = only EE | **Primarily Sustainable Development** |
+| ECO Club = CPCB | **MoEFCC NGC** |
+| Awareness = only school EE | **Also campaigns + Art 51A(g)** |
+| Bharat Nirman = NEP scheme | **Infrastructure, not NEP EE** |
+| IPCC = MoEFCC awareness campaign | **Science assessment body** |
+| Van Mahotsav = February | **July** |
 
 
 ---

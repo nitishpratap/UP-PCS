@@ -11,72 +11,90 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 2 — East India Company (कंपनी) Expansion</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **Company rule (कंपनी शासन) phases**: Factories → **Plassey puppet (1757)** → **Diwani (दीवानी) (1765)** → Dual Govt ends **1772** → Ring Fence (रिंग फेंस) → **Subsidiary Alliance (1798)** → Paramountcy → **Lapse (1848)**.
-2. **Plassey (23 June 1757) — Cause:** Farman misuse, *dastak* abuse, and Siraj–Company friction after Calcutta crisis. **Course:** Clive’s conspiracy with **Mir Jafar**, Jagat Seth, Omichand. **Result:** Mir Jafar puppet Nawab — **no Diwani yet**.
-3. **Buxar (22 Oct 1764) — Cause:** Mir Qasim’s break with the Company after Plassey puppetry. **Course:** Hector Munro defeats Mir Qasim + Shuja-ud-Daula (Awadh) + Shah Alam II. **Result:** real military supremacy; path to Diwani.
-4. **Treaty of Allahabad (Aug 1765):** Clive negotiated; Company got **Diwani** of Bengal, Bihar, and Orissa.
-5. **Dual Government (1765–72):** Clive’s design — Company took Diwani; Nawab kept Nizamat in name. Ended by **Warren Hastings (1772)**.
-6. **Ring Fence** vs **Subsidiary Alliance**: Hastings’ informal buffer (Awadh) vs Wellesley’s formal troops + subsidy + Resident from **1798**.
-7. **Subsidiary Alliance sequence:** Hyderabad (**1798**) → Mysore (**1799**) → Tanjore (**1799**) → Awadh (**1801**) → Peshwa via Bassein (**1802**).
-8. **Doctrine of Lapse sequence (Dalhousie):** Satara (**1848**) → Jaitpur/Sambalpur (**1849**) → Baghat (**1850**) → Udaipur (**1852**) → Jhansi (**1853**) → Nagpur (**1854**).
-9. **Awadh annexation (1856):** **Misgovernance** on **James Outram’s** report — **not** Lapse.
-10. **1st Anglo-Mysore (1767–69) — Cause:** Hyder–Company rivalry in the Carnatic/Mysore belt. **Course:** Hyder presses Madras. **Result:** **Treaty of Madras (1769)** (defensive alliance).
-11. **2nd Anglo-Mysore (1780–84) — Cause:** Broken Madras terms and wartime alignments. **Course:** Porto Novo (**1781**, Eyre Coote beats Hyder); Hyder dies **1782**; Tipu continues. **Result:** **Treaty of Mangalore (1784)** (mutual restitution).
-12. **3rd Anglo-Mysore (1790–92) — Cause:** Tipu’s expansion vs Triple Alliance (English–Nizam–Marathas). **Course:** Cornwallis’s Seringapatam campaign. **Result:** **Treaty of Seringapatam (1792)** — Tipu cedes half kingdom + indemnity.
-13. **4th Anglo-Mysore (1799) — Cause:** Tipu’s French links and refusal of Subsidiary Alliance. **Course:** Wellesley’s storm of Seringapatam (**4 May 1799**). **Result:** Tipu dies; Wodeyar minor under Subsidiary Alliance.
-14. **Tipu facts:** Tree of Liberty / Jacobin club / foreign embassies; paid for Sharada temple idol at Sringeri.
-15. **1st Anglo-Maratha (1775–82) — Cause:** Peshwa succession and Bombay’s Treaty of Surat gamble. **Course:** Surat (**1775**) → Purandhar (**1776**) → Wadgaon (**1779**). **Result:** **Salbai (1782)** — ~20 years’ peace; Mahadji Scindia mediates.
-16. **2nd Anglo-Maratha (1803–05) — Cause:** **Treaty of Bassein (1802)** — Baji Rao II accepts Subsidiary Alliance; other Maratha houses resist. **Course:** Assaye / Laswari; Deogaon (Bhonsle) & Surji-Anjangaon (Scindia). **Result:** Maratha power broken; Resident control deepens.
-17. **3rd Anglo-Maratha (1817–18) — Cause:** Pindari chase and residual Maratha autonomy. **Course:** Khadki, Sitabuldi, Mahidpur under **Lord Hastings**. **Result:** Peshwaship abolished; Baji Rao II pensioned to **Bithoor**; Pindaris crushed.
-18. **Warren Hastings ≠ Lord Hastings:** Warren = Dual end, Ring Fence, Salbai, Banaras **1781**. Lord Hastings = Nepal, Pindaris, 3rd Maratha.
-19. **Anglo-Nepal (1814–16) — Cause:** Tarai/hill frontier friction. **Course:** Gillespie dies at **Nalapani**; Ochterlony’s Sutlej–Makwanpur pressure. **Result:** **Treaty of Sugauli (1816)** — Kumaon & eastern Garhwal to Company; Tehri restored west.
-20. **Sikh spine — Cause/Course/Result:** **Amritsar (1809)** freezes Ranjit Singh at the Sutlej. **1st Sikh War** ends with **Lahore (1846)**. **2nd Sikh War** → Punjab **annexed 1849** (Dalhousie).
-21. **Sindh (1843):** **Charles Napier** under GG **Ellenborough** annexes Sindh.
-22. **Anglo-Burmese:** 1st (**1824–26**, Yandabo, Amherst) → 2nd (**1852**, Dalhousie) → 3rd (**1885**, Dufferin) complete annexation.
-23. **Afghan policy tags:** Auckland = **1st Afghan War (1839–42)**; Lawrence = **Masterly Inactivity**; Lytton = **Proud Reserve / Forward** → **2nd Afghan War**.
-24. **Vellore Mutiny (1806):** Sepoy rising over religious marks (turbans/beards) under Madras Gov Bentinck / GG Barlow — early dress-and-religion spark before 1857.
-25. **Chauth** = 1/4th protection claim; **Sardeshmukhi** = extra 10% overlord claim — Maratha taxes, not Company treaties.
-26. **Capital shifts (Bengal):** Murshid Quli (Dhaka → Murshidabad); Mir Qasim (Murshidabad → **Munger**) to escape Company spies.
-27. **Farrukhsiyar’s Farman (1717):** Magna Carta of EIC duty-free *dastaks* — misuse feeds Plassey buildup; not Diwani 1765.
-28. **Wandiwash (1760):** Eyre Coote beats Lally — ends French political dream (Anglo–French, not Plassey theatre).
-29. **Bedara (1759):** English defeat Dutch in Bengal. **Porto Novo (1781):** Coote beats Hyder in 2nd Mysore.
-30. **Banaras Rebellion (1781):** Warren Hastings vs Raja Chait Singh; Hastings flees to **Chunar**.
-31. **Asiatic Society of Bengal (1784):** Sir William Jones founds; Hastings champions but declines presidentship.
-32. **GG of Bengal vs India:** Regulating Act **1773** → Warren Hastings first GG of *Bengal*; Charter **1833** → Bentinck first GG of *India*.
-33. **Kohinoor / Multan tags:** Multan rising feeds the **2nd Sikh War** path; Kohinoor moves with Punjab annexation memory — keep distinct from Plassey loot myths.
-34. **Bhutan / Tibet frontier:** Amherst–era Bhutan friction and later Younghusband (**1903–04**) Tibet expedition sit on the neighbouring-frontier card — not Mysore/Maratha ladders.
-35. **Pindari campaign** is locked to **Lord Hastings** and the **3rd Maratha** settlement — do not park it under Wellesley.
-36. Hold the expansion map: Bengal Diwani → Mysore CCR ladder → Maratha CCR ladder → Nepal/Sikh/Sindh/Burma/Afghan tags → Lapse + Awadh misrule.
+1. **Subsidiary Alliance**: Hyderabad (1798) → Mysore (1799) → Tanjore (1799) → Awadh (1801) → Peshwa (1802).
+2. **Doctrine of Lapse** (विलुप्ति सिद्धांत): Satara (1848) → Jaitpur/Sambalpur (1849) → Baghat (1850) → Udaipur (1852) → Jhansi (1853) → Nagpur (1854).
+3. **1st Maratha Treaties**: Surat (1775) → Purandhar (1776) → Wadgaon (1779) → Salbai (1782).
+4. **Mid-18th Century Battles**: Ambur (1749) → Plassey (1757) → Bedara (1759) → Wandiwash (1760) → Panipat III (1761) → Buxar (1764).
+5. First Anglo-Mysore War
+6. Second Anglo-French War
+7. First Anglo-Sikh War
+8. First Anglo-Afghan War
+9. **Company rule (कंपनी शासन) phases**: Factories → **Plassey puppet (1757)** → **Diwani (दीवानी) (1765)** → Dual Govt ends **1772** → Ring Fence (रिंग फेंस) → **Subsidiary Alliance (1798)** → Paramountcy → **Lapse (1848)**.
+10. **Plassey (23 June 1757) — Cause:** Farman misuse, *dastak* abuse, and Siraj–Company friction after Calcutta crisis. **Course:** Clive’s conspiracy with **Mir Jafar**, Jagat Seth, Omichand. **Result:** Mir Jafar puppet Nawab — **no Diwani yet**.
+11. **Buxar (22 Oct 1764) — Cause:** Mir Qasim’s break with the Company after Plassey puppetry. **Course:** Hector Munro defeats Mir Qasim + Shuja-ud-Daula (Awadh) + Shah Alam II. **Result:** real military supremacy; path to Diwani.
+12. **Treaty of Allahabad (Aug 1765):** Clive negotiated; Company got **Diwani** of Bengal, Bihar, and Orissa.
+13. **Dual Government (1765–72):** Clive’s design — Company took Diwani; Nawab kept Nizamat in name. Ended by **Warren Hastings (1772)**.
+14. **Ring Fence** vs **Subsidiary Alliance**: Hastings’ informal buffer (Awadh) vs Wellesley’s formal troops + subsidy + Resident from **1798**.
+15. **Subsidiary Alliance sequence:** Hyderabad (**1798**) → Mysore (**1799**) → Tanjore (**1799**) → Awadh (**1801**) → Peshwa via Bassein (**1802**).
+16. **Doctrine of Lapse sequence (Dalhousie):** Satara (**1848**) → Jaitpur/Sambalpur (**1849**) → Baghat (**1850**) → Udaipur (**1852**) → Jhansi (**1853**) → Nagpur (**1854**).
+17. **Awadh annexation (1856):** **Misgovernance** on **James Outram’s** report — **not** Lapse.
+18. **1st Anglo-Mysore (1767–69) — Cause:** Hyder–Company rivalry in the Carnatic/Mysore belt. **Course:** Hyder presses Madras. **Result:** **Treaty of Madras (1769)** (defensive alliance).
+19. **2nd Anglo-Mysore (1780–84) — Cause:** Broken Madras terms and wartime alignments. **Course:** Porto Novo (**1781**, Eyre Coote beats Hyder); Hyder dies **1782**; Tipu continues. **Result:** **Treaty of Mangalore (1784)** (mutual restitution).
+20. **3rd Anglo-Mysore (1790–92) — Cause:** Tipu’s expansion vs Triple Alliance (English–Nizam–Marathas). **Course:** Cornwallis’s Seringapatam campaign. **Result:** **Treaty of Seringapatam (1792)** — Tipu cedes half kingdom + indemnity.
+21. **4th Anglo-Mysore (1799) — Cause:** Tipu’s French links and refusal of Subsidiary Alliance. **Course:** Wellesley’s storm of Seringapatam (**4 May 1799**). **Result:** Tipu dies; Wodeyar minor under Subsidiary Alliance.
+22. **Tipu facts:** Tree of Liberty / Jacobin club / foreign embassies; paid for Sharada temple idol at Sringeri.
+23. **1st Anglo-Maratha (1775–82) — Cause:** Peshwa succession and Bombay’s Treaty of Surat gamble. **Course:** Surat (**1775**) → Purandhar (**1776**) → Wadgaon (**1779**). **Result:** **Salbai (1782)** — ~20 years’ peace; Mahadji Scindia mediates.
+24. **2nd Anglo-Maratha (1803–05) — Cause:** **Treaty of Bassein (1802)** — Baji Rao II accepts Subsidiary Alliance; other Maratha houses resist. **Course:** Assaye / Laswari; Deogaon (Bhonsle) & Surji-Anjangaon (Scindia). **Result:** Maratha power broken; Resident control deepens.
+25. **3rd Anglo-Maratha (1817–18) — Cause:** Pindari chase and residual Maratha autonomy. **Course:** Khadki, Sitabuldi, Mahidpur under **Lord Hastings**. **Result:** Peshwaship abolished; Baji Rao II pensioned to **Bithoor**; Pindaris crushed.
+26. **Warren Hastings ≠ Lord Hastings:** Warren = Dual end, Ring Fence, Salbai, Banaras **1781**. Lord Hastings = Nepal, Pindaris, 3rd Maratha.
+27. **Anglo-Nepal (1814–16) — Cause:** Tarai/hill frontier friction. **Course:** Gillespie dies at **Nalapani**; Ochterlony’s Sutlej–Makwanpur pressure. **Result:** **Treaty of Sugauli (1816)** — Kumaon & eastern Garhwal to Company; Tehri restored west.
+28. **Sikh spine — Cause/Course/Result:** **Amritsar (1809)** freezes Ranjit Singh at the Sutlej. **1st Sikh War** ends with **Lahore (1846)**. **2nd Sikh War** → Punjab **annexed 1849** (Dalhousie).
+29. **Sindh (1843):** **Charles Napier** under GG **Ellenborough** annexes Sindh.
+30. **Anglo-Burmese:** 1st (**1824–26**, Yandabo, Amherst) → 2nd (**1852**, Dalhousie) → 3rd (**1885**, Dufferin) complete annexation.
+31. **Afghan policy tags:** Auckland = **1st Afghan War (1839–42)**; Lawrence = **Masterly Inactivity**; Lytton = **Proud Reserve / Forward** → **2nd Afghan War**.
+32. **Vellore Mutiny (1806):** Sepoy rising over religious marks (turbans/beards) under Madras Gov Bentinck / GG Barlow — early dress-and-religion spark before 1857.
+33. **Chauth** = 1/4th protection claim; **Sardeshmukhi** = extra 10% overlord claim — Maratha taxes, not Company treaties.
+34. **Capital shifts (Bengal):** Murshid Quli (Dhaka → Murshidabad); Mir Qasim (Murshidabad → **Munger**) to escape Company spies.
+35. **Farrukhsiyar’s Farman (1717):** Magna Carta of EIC duty-free *dastaks* — misuse feeds Plassey buildup; not Diwani 1765.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Plassey 1757 | Buxar 1764 | Conspiracy vs real battle; Diwani came after Buxar. | प्लासी / बक्सर |
-| Mir Jafar | Mir Qasim | Puppet after Plassey vs Nawab who fought at Buxar and shifted to Munger. | मीर जाफ़र / मीर कासिम |
-| Diwani | Nizamat | Revenue collection (1765) vs police/justice. | दीवानी / निज़ामत |
-| Dual Govt 1765 | Direct Rule 1772 | Clive created it (avoiding responsibility) vs Warren Hastings ended it. | दोहरी सरकार |
-| Ring Fence | Subsidiary Alliance | Buffer states (Hastings) vs troops + subsidy + loss of foreign policy (Wellesley). | रिंग फेंस / सहायक संधि |
-| Subsidiary Alliance | Doctrine of Lapse | Wellesley's treaty (keep throne) vs Dalhousie's annexation (lose throne). | सहायक संधि / विलुप्ति |
-| Treaty of Madras 1769 | Treaty of Mangalore 1784 | Ends 1st Mysore War (Hyder wins) vs 2nd Mysore War (status quo). | मद्रास / मैंगलोर |
-| Salbai 1782 | Bassein 1802 | Peace after 1st Maratha vs Peshwa Baji Rao II's subsidiary surrender. | सालबाई / बसीन |
-| Sugauli 1816 | Lahore 1846 | Ends Anglo-Nepal war (hills ceded) vs Ends 1st Anglo-Sikh war. | सुगौली / लाहौर |
-| Warren Hastings | Lord Hastings | 1770s (Rohillas, Salbai) vs 1810s (Nepal, Pindaris, 3rd Maratha). | वारेन / लॉर्ड हेस्टिंग्स |
-| Sindh 1843 | Punjab 1849 | Annexed by Ellenborough & Napier vs Annexed by Dalhousie. | सिंध / पंजाब |
-| Awadh 1856 | Jhansi 1853 | Annexed for misgovernance (Outram report) vs Annexed via Lapse (no heir). | अवध / झाँसी |
-| Masterly Inactivity | Forward Policy | John Lawrence's Afghan caution vs Lytton's aggression. | मास्टरी इनएक्टिविटी / फॉरवर्ड |
-| Bedara 1759 | Wandiwash 1760 | English crushed the Dutch vs English crushed the French. | बेदारा / वाण्डीवाश |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+40. **Adalat-i-Ala = Amritsar** → **Lahore**.
+41. **Treaty of Amritsar 1809 = Dalhousie** → **Lord Minto** / Metcalfe.
+42. **Tipu died in Third Mysore War** → **Fourth, 1799**; Third ends **Srirangapatnam 1792**.
+43. **First Mysore = British win** → **Haidar** forced **Treaty of Madras 1769**.
+44. Board of Three ≠ **Elliot / Montgomery**; members = **Henry & John Lawrence + Mansel**.
+45. Duleep pension trap **₹2.5 lakh** → about **₹4–5 lakh**.
+
+30. **Murshid Quli Khan** = last Bengal Subedar appointed independently by the Mughals; not Alivardi.
+31. At **Buxar**, Bengal’s Nawab on the Company ledger was **Mir Jafar**; the rebel ally was **Mir Qasim**.
+32. **Plassey** = foothold/puppet; **Buxar** = decisive pitched supremacy; **Diwani** only after **Allahabad 1765**.
+33. **Ambur → Plassey → Wandiwash → Buxar**; do not put Buxar before Wandiwash.
+34. After Diwani, first major hill clash keyed here = **Khasi** (**Tirot Sing**), not Garo/Kuki as first contact.
+
+1. **Plassey gave Diwani** → Diwani **1765** after Buxar/Allahabad.
+2. **Clive commanded Buxar** → **Hector Munro**.
+3. **Mir Jafar fought the English at Buxar** → rebel ally was **Mir Qasim**.
+4. **Mangalore ended the First Mysore War** → Madras **1769**; Mangalore **1784**.
+5. **Salbai = Third Maratha / Bassein = 1782** → Salbai **1782** First; Bassein **1802** Second.
+6. **Subsidiary = Dalhousie / Lapse = Wellesley** → reverse.
+7. **Punjab annexed 1846** → treaty 1846; annexation **1849**.
+8. **Sindh = Punjab year** → Sindh **1843**, Punjab **1849**.
+9. **Kathmandu obtained at Sugauli** → **false** (Nepal kept Kathmandu).
+10. **Adalat-i-Ala at Amritsar** → **Lahore**.
+11. **Hyder armoury at Seringapatam** → **Dindigal 1755**.
+12. **Mudki = Anglo-Mysore** → First Anglo-Sikh **1845**.
+13. **Chait Singh = 1857 / Dalhousie** → **1781, Hastings**.
+14. **Dalhousie accepted Lakshmibai’s heir** → **false** (Doctrine of Lapse rejected Damodar Rao).
+15. **Awadh annexed under Lapse** → **misgovernance 1856**.
+16. **Chauth = Subsidiary Alliance** → **false**; Chauth was Maratha tribute, not Subsidiary Alliance.
+17. **Baji Rao I before Balaji Vishwanath** → Vishwanath is first in every PYQ list.
+18. **Tipu survived 1799 / Mysore wholly annexed** → Tipu killed; Wodeyar restored under subsidiary.
+
+19. **Warren Hastings = Lord Hastings** → Warren = Dual Govt / Ring Fence / Banaras; Lord = Nepal / Pindaris / Third Maratha.
+20. **Diwani = Dual Government** → Diwani is the 1765 revenue grant; Dual Government is Clive’s 1765–72 system until Hastings ended it.
+21. **Amritsar 1809 = Lahore 1846** → 1809 is Ranjit’s Sutlej peace; 1846 is First Sikh settlement (and Gulab Singh’s Kashmir deal).
+22. **Surat 1775 = Salbai** → Surat/Purandhar open the First Maratha War; Salbai **1782** ends it.
+23. **Masterly Inactivity = Proud Reserve** → Lawrence caution vs Lytton forward Afghan policy.
+24. **1717 farman = Diwani** → Farrukhsiyar trade privilege ≠ 1765 revenue Diwani.
+25. **Vellore = 1857** → Vellore is **1806**, Madras Presidency dress revolt.
 
 
 ---

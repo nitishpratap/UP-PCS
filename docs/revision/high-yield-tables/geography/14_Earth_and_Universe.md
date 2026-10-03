@@ -11,9 +11,20 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 14 — Earth & Universe</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **2013–14** | Mangalyaan / MOM | First Indian Mars orbiter (2024) | ISRO |
+| **2023** | Aditya-L1 | Solar mission — not Mars | ISRO |
+| **1987 / 1997** | Montreal vs Kyoto (क्योटो) | Ozone vs climate | UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) / UNFCCC (यूएनएफसीसीसी) |
+| **2015** | Paris Agreement (पेरिस समझौता) | NDC successor to Kyoto path | UNFCCC |
+| **2018** | Science — Mars subglacial lake | 2018 Q85 | Science |
+| **2026** | El Niño tendency vs Indian monsoon | IMD |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -73,23 +84,6 @@ hide:
 | Ring of Fire | Quakes + volcanoes + Pacific | Forest fires | रिंग ऑफ फायर |
 | NW India quakes | **Plate convergence** | Volcano / coral | प्लेट |
 | Tsunami word | **Japanese** harbour wave | Arabic / Latin | सुनामी |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2013–14** | Mangalyaan / MOM | First Indian Mars orbiter (2024) | ISRO |
-| **2023** | Aditya-L1 | Solar mission — not Mars | ISRO |
-| **1987 / 1997** | Montreal vs Kyoto (क्योटो) | Ozone vs climate | UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) / UNFCCC (यूएनएफसीसीसी) |
-| **2015** | Paris Agreement (पेरिस समझौता) | NDC successor to Kyoto path | UNFCCC |
-| **2018** | Science — Mars subglacial lake | 2018 Q85 | Science |
-| **2026** | El Niño tendency vs Indian monsoon | IMD |
 
 ---
 
@@ -738,18 +732,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Big Bang is linked to Lemaître / Gamow (~13.7–13.8 bn yr) and Hubble expansion. Steady State is Hoyle. Nebular is Kant–Laplace. The Milky Way is a barred spiral galaxy.
 - **Exam Anchor:** Chandrasekhar limit ≈ 1.44 M☉ sets the white-dwarf ceiling; beyond that path → neutron star / black hole. A galactic year for the Sun is ~22.5–25 crore years. IAU lists 88 constellations; Saptarishi points to the Pole Star.
-- **Exam Anchor:** Solar-system order mnemonic is MVEMJSUN. Venus is hottest (greenhouse). Earth has the highest mean density. Jupiter is largest. Saturn has the clearest rings. Mercury has the fastest orbit and (with Venus) no moon.
-- **Exam Anchor:** The asteroid belt lies between Mars and Jupiter. The largest moon is Ganymede (Jupiter — not Saturn). Titan belongs to Saturn; Phobos and Deimos belong to Mars. Copernicus is the classic heliocentric name.
-- **Exam Anchor:** In the 2022 Prelims set, Saturn’s atmosphere is linked with methane. Mars is the classic life-candidate planet (including the 2018 subsurface-lake news). Mangalyaan was India’s first Mars orbiter.
-- **Exam Anchor:** A solar eclipse occurs at New Moon. A lunar eclipse occurs at Full Moon. Sunlight takes about 8 minutes 20 seconds to reach Earth. Sun’s energy is nuclear fusion. One AU ≈ 149.6 million km.
-- **Exam Anchor:** Earth rotates in about 24 hours (day–night) and revolves in about 365¼ days (year / leap year). Perihelion is about 3–4 January; aphelion about 4 July.
-- **Exam Anchor:** Seasons are caused by the 23½° axial tilt, not by perihelion distance. Equinoxes are about 21 March / 23 September; solstices about 21 June / 22 December.
-
-</details>
+- **Exam Anchor:** El Niño is a warm eastern Pacific / Peru current phase with less upwelling, so plankton and fish fall. It can disturb the Indian monsoon.
+- **Exam Anchor:** Roaring Forties are strong westerlies near 40°S (with Furious Fifties / Shrieking Sixties farther south). The ITCZ is a low; belts shift with the solstice seasons.
+- **Exam Anchor:** Wegener (1912) proposed continental drift with Pangaea and Panthalassa. Plate margins are divergent, convergent or transform. New ocean crust forms by sea-floor spreading.
+- **Exam Anchor:** Fold mountains include the Himalaya (हिमालय), Alps, Andes and Rockies. Fault / block mountains include the Vosges, Black Forest, Sierra Nevada and Rhine graben.
+- **Exam Anchor:** Igneous = cooled magma/lava (no fossils); sedimentary = layered + fossils; metamorphic = heat/pressure remake. Granite → gneiss; limestone → marble; sandstone → quartzite; shale → slate.
+- **Exam Anchor:** Tsunami is Japanese for harbour wave. Ring of Fire ≈ 90% of world quakes. NW India shakes mainly from Indian–Eurasian plate convergence. 2004 Indian Ocean and 2011 Fukushima are the classic tsunami case studies.
+- **Exam Anchor:** Lithosphere — solid crust and upper mantle (rocks, plates, landforms).
 
 ---
 

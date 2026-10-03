@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 12 — Home Rule (होम रूल) & Labour Politics</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -33,11 +31,7 @@ hide:
 | Lucknow Pact 1916 | Montagu Declaration 1917 | Congress–League electoral deal vs British statement of policy goal | लखनऊ पैक्ट / मॉण्टेग्यू घोषणा |
 | Montagu Declaration | August Offer 1940 | 1917 promise of responsible government vs 1940 wartime offer to Congress/League | मॉण्टेग्यू / अगस्त प्रस्ताव |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Two Home Rule Leagues
 
@@ -193,18 +187,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Tilak’s Indian Home Rule League was founded in April 1916 at Poona. Joseph Baptista (बैपटिस्टा) was President; N.C. Kelkar was Secretary.
-- **Exam Anchor:** Tilak’s area was Maharashtra except Bombay city, plus Karnataka, CP and Berar. Bombay city belonged to Besant’s league.
 - **Exam Anchor:** Besant’s All India Home Rule League was founded in September 1916 at Madras/Adyar for the rest of India including Bombay city.
-- **Exam Anchor:** Home Rule demanded self-government within the Empire on the Irish model. It is wartime constitutional politics, not later Gandhian mass satyagraha (सत्याग्रह).
-- **Exam Anchor:** In June 1917, Besant, Arundale and Wadia were interned; protest made Home Rule a mass slogan and they were released.
-- **Exam Anchor:** On 20 August 1917, the Montagu Declaration (मॉण्टेग्यू) stated Britain’s goal of responsible government in India. It is a statement of intent, not the 1919 Act itself.
-- **Exam Anchor:** The Government of India Act, 1919 is the reform that followed Montagu–Chelmsford talks. Do not confuse Montagu 1917 with the August Offer (अगस्त प्रस्ताव) 1940 (अगस्त प्रस्ताव).
-- **Exam Anchor:** In December 1917, Besant became the first woman Congress President at Calcutta.
-
-</details>
+- **Exam Anchor:** Tilak never presided over a Congress session (पंगु सत्र). He died on 1 August 1920, before Non-Cooperation (असहयोग)’s peak.
+- **Exam Anchor:** BHU: Act 1915; foundation stone 4 February 1916 (Hardinge); Malaviya (मालवीय) is the founder tag; place is Varanasi (वाराणसी).
+- **Exam Anchor:** NCE 1906 (Swadeshi (स्वदेशी)) is not BHU 1916 (बीएचयू). National-education waves: NCE 1906, BHU 1916, Vidyapiths/Jamia 1920–21, Wardha 1937.
+- **Exam Anchor:** Gujarat Vidyapith (Ahmedabad (अहमदाबाद), 1920) and Kashi (काशी) Vidyapith (Varanasi, 1921) belong to the Non-Cooperation national-university wave.
+- **Exam Anchor:** Madras Labour Union (1918) is linked to B.P. Wadia. India’s ILO 1919 labour representative was N.M. Joshi (जोशी), not Baptista.
+- **Exam Anchor:** AITUC was founded on 31 October 1920 with Lala Lajpat Rai (लाला लाजपत राय) as first president.
 
 ---
 

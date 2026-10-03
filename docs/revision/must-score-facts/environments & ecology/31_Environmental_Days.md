@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 31 — Environmental Days</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **World Wetlands Day** falls on **2 February** (रामसर) and marks the **Ramsar (रामसर) Convention (1971)** (रामसर कन्वेंशन). It is not 2 March or 3 March.
 2. **World Wildlife Day** falls on **3 March** and marks the adoption of **CITES (साइट्स) (1973)** (साइट्स). It is **not** 22 March.
@@ -22,45 +21,44 @@ hide:
 6. **International Day for Biological Diversity** falls on **22 May** and commemorates the CBD text adopted (अंगीकृत) at Nairobi in **1992**.
 7. **World Environment Day** falls on **5 June**. It marks the opening of the **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) and is run by **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम).
 8. **World Ozone Day** falls on **16 September** and marks the **Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) (1987)** (मॉन्ट्रियल प्रोटोकॉल).
-9. In calendar order the eight syllabus days run **2 Feb → 3 Mar → 21 Mar → 22 Mar → 22 Apr → 22 May → 5 Jun → 16 Sep**.
-10. The March ladder is **Wildlife (3) → Forests (21) → Water (22)**. Never put Wildlife on 22 March.
-11. World Environment Day is **not** Earth Day and **not** Wetlands Day. The dates are **5 June**, **22 April**, and **2 February**.
-12. India hosted World Environment Day in **2011** (Forests theme) and **2018** (Beat Plastic Pollution).
-13. Biological Diversity Day shifted from an older **29 December** link to **22 May** from **2000**; papers use **22 May** only.
-14. World Water Day is coordinated under **UN-Water**. Wetlands Day is a **Ramsar** (रामसर) day, not a Water Day synonym.
-15. World Wildlife Day was proclaimed by the UN in **2013**, but the date itself is the **1973 CITES** anniversary.
-16. Ozone Day belongs to the **Montreal Protocol** (मॉन्ट्रियल प्रोटोकॉल) family. Do not date it as 2 October, 21 April, or 30 January.
-17. Earth Day is a civic global day. It is **not** the same UN treaty day as World Environment Day.
-18. Biodiversity Day is broader than Wildlife Day. Wildlife Day is fauna (प्राणीजात)–flora (वनस्पति) trade (पण्याध्यक्ष) and crime awareness under the CITES date.
-19. Van Mahotsav is a separate **July** plantation campaign in India. It is **not** International Day of Forests.
-20. Earth Hour (अर्थ आवर) (last Saturday of March, WWF (डब्ल्यूडब्ल्यूएफ)) is **not** on this syllabus day list and is not Earth Day.
-21. Uttar Pradesh (उत्तर प्रदेश) has **10** Ramsar sites — useful Wetlands Day geography, but the day itself stays **2 February**.
-22. A correct Ozone–WED pair is **16 September** and **5 June**. A Wildlife–**22 March** pair is always wrong.
-23. Stockholm **1972** anchors WED. Ramsar **1971** anchors Wetlands. Montreal **1987** anchors Ozone. CITES **1973** anchors Wildlife.
-24. Same-number traps: **22** March is Water, **22** April is Earth, **22** May is Biodiversity — three different months.
-25. **World Toilet Day = 19 November** (UN, from 2013). **World No Tobacco Day = 31 May** (not 5 May). **World Habitat (वास स्थान) Day** = first Monday of October (not a fixed 5 October).
-26. **Swachh Bharat Mission** launched **2 October 2014** (Gandhi (गांधी) Jayanti). Sierra Leone observes national cleanliness on the last Saturday of every month.
-27. Earth Day theme teaching: **2024 = Planet vs. Plastics**. WED **2023 = Beat Plastic Pollution**.
-28. **International Tiger Day** falls on **29 July** and marks the **St Petersburg Tiger Summit (2010)**. It is **not** World Wildlife Day (3 March).
-
-</details>
+9. **World Toilet Day = 19 November** (UN, from 2013). **World No Tobacco Day = 31 May** (not 5 May). **World Habitat (वास स्थान) Day** = first Monday of October (not a fixed 5 October).
+10. **Swachh Bharat Mission** launched **2 October 2014** (Gandhi (गांधी) Jayanti). Sierra Leone observes national cleanliness on the last Saturday of every month.
+11. **International Tiger Day** falls on **29 July** and marks the **St Petersburg Tiger Summit (2010)**. It is **not** World Wildlife Day (3 March).
+12. **World Environment Day (WED)** is the UN’s main annual day for environmental awareness (पर्यावरण जागरूकता) and action.
+13. **2022** also marked **50 years** since Stockholm 1972, which designated **5 June** as World Environment Day.
+14. **World Wetlands Day** marks adoption of the **Ramsar Convention on Wetlands** at Ramsar, Iran (**2 February 1971**).
+15. **Earth Day** promotes environmental protection, climate action, and sustainability every **22 April**.
+16. **International Day for Biological Diversity (IDB)** promotes biodiversity conservation awareness every **22 May**.
+17. **International Day of Forests** raises awareness of forests and sustainable forest management every **21 March**.
+18. **World Water Day** focuses on freshwater resources, access, and sustainable water management every **22 March**.
+19. **World Ozone Day** (International Day for the Preservation of the Ozone Layer) is observed every **16 September**.
+20. **World Wildlife Day** celebrates wild fauna and flora and fights wildlife crime every **3 March**.
+21. **Highest-yield trap:** listing Wildlife Day as **22 March** (that is Water Day) — wrong pair in **
+22. **International Tiger Day** is observed every **29 July**.
+23. **World Toilet Day = 19 November** (UNGA 2013; sanitation for all / end open defecation messaging).
+24. **World No Tobacco Day = 31 May** (WHO) — not 5 May. Themes rotate (e.g. tobacco–environment / grow food not tobacco).
+25. **World Habitat Day** = **first Monday of October** (UN; not a fixed calendar date like 5 October).
+26. **World Cities Day = 31 October**. **World Population Day = 11 July**. **World Health Day = 7 April**.
+27. **Earth Overshoot Day** marks when humanity’s annual demand exceeds Earth’s regenerative capacity — an environmental-degradation awareness marker (Global Footprint Network partnership framing).
+28. **Swachh Bharat Mission** launched **2 October 2014**. Sierra Leone’s national cleanliness day is the last Saturday of each month.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **World Wetlands Day** | **World Wildlife Day** | **2 February** (signing of Ramsar Convention 1971) vs **3 March** (adoption of CITES 1973) | विश्व आर्द्रभूमि दिवस (2 फरवरी) / विश्व वन्यजीव दिवस (3 मार्च) |
-| **World Forestry Day** | **World Water Day** | **21 March** (UN International Day of Forests) vs **22 March** (UN World Water Day) | विश्व वानिकी दिवस (21 मार्च) / विश्व जल दिवस (22 मार्च) |
-| **World Earth Day** | **World Environment Day** | **22 April** (Gaylord Nelson, 1970) vs **5 June** (Stockholm Conference opening, 1972) | पृथ्वी दिवस (22 अप्रैल) / विश्व पर्यावरण दिवस (5 जून) |
-| **International Biodiversity Day** | **World Earth Day** | **22 May** (Nairobi agreed text of CBD 1992) vs **22 April** (Earth Day) | जैव विविधता दिवस (22 मई) / पृथ्वी दिवस (22 अप्रैल) |
-| **World Ozone Day** | **World Environment Day** | **16 September** (signing of Montreal Protocol 1987) vs **5 June** (Stockholm UNEP foundation) | विश्व ओजोन दिवस (16 सितंबर) / पर्यावरण दिवस (5 जून) |
-| **Earth Day** | **Earth Hour** | Fixed annual civic observance on **22 April** vs WWF voluntary **last Saturday of March** 1-hour lights-off event | पृथ्वी दिवस (22 अप्रैल) / अर्थ आवर (मार्च अंतिम शनिवार) |
-| **World Soil Day** | **World Day to Combat Desertification** | **5 December** (FAO celebration of King Bhumibol's birthday) vs **17 June** (UNCCD adoption anniversary) | विश्व मृदा दिवस (5 दिसंबर) / मरुस्थलीकरण रोकथाम दिवस (17 जून) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Wildlife Day = 22 March | **3 March** (Water is 22 March) |
+| Wetlands Day = 2 / 3 March | **2 February** |
+| Earth Day = 5 June | **22 April**; WED = 5 June |
+| Earth Day = 22 March | **22 April**; Water = 22 March |
+| Biodiversity Day = 22 March / April | **22 May** |
+| Forests Day = 22 March | **21 March** |
+| Ozone Day = 5 June | **16 September** |
+| WED = Earth Day | Different dates and origins |
+| Earth Hour = Earth Day | Hour ≠ Day |
+| Population Day = 5 June | **11 July**; 5 June = WED |
 
 
 ---

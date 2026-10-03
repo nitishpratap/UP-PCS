@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 28 — Environmental Research & Institutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Wildlife Institute of India (WII)** | **Indira Gandhi National Forest Academy (IGNFA)** | Autonomous scientific research and training institute under MoEFCC (HQ: Dehradun) conducting wildlife ecological research and Tiger Census vs premier apex staff college (HQ: Dehradun) providing two-year professional induction training to directly recruited Indian Forest Service (IFS) officers | भारतीय वन्यजीव संस्थान (WII, अनुसंधान) / इंदिरा गांधी राष्ट्रीय वन अकादमी (IGNFA, IFS प्रशिक्षण) |
 | **India State of Forest Report (ISFR)** | **Basic Animal Husbandry Statistics** | Biennial statutory publication by Forest Survey of India (FSI, Dehradun) reporting state-wise forest cover, tree cover, mangrove cover, and forest carbon stocks vs annual publication by Ministry of Fisheries, Animal Husbandry & Dairying reporting livestock census, milk, egg, and meat production | भारत वन स्थिति रिपोर्ट (ISFR, द्विवार्षिक) / बुनियादी पशुपालन सांख्यिकी (वार्षिक) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### HQ map
 
@@ -110,18 +104,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Headquarters map: Kolkata — BSI and ZSI; Dehradun (देहरादून) — FSI, FRI, and WII; New Delhi — NBPGR; Chennai — NBA.
 - **Exam Anchor:** BSI (1890, Kolkata) surveys plants (Flora (वनस्पति), plant Red Data Book (रेड डेटा बुक)). ZSI (1916, Kolkata) surveys animals (Fauna (प्राणीजात), animal Red Data Book).
 - **Exam Anchor:** FSI (1981, Dehradun) maps forest cover (वन आवरण) and publishes ISFR every two years. FRI (1906, Dehradun) does forestry research under the ICFRE world — it does not publish ISFR.
 - **Exam Anchor:** WII (1982, Dehradun) does wildlife research, IFS/officer training, and tiger-census protocols.
 - **Exam Anchor:** NBA under the Biological Diversity Act sits in Chennai, not Delhi. It handles foreign access and ABS at the national level.
-- **Exam Anchor:** Biodiversity pyramid (पिरामिड): NBA (national) → SBB (state) → BMC (local). BMCs prepare the People’s Biodiversity Register (PBR).
 - **Exam Anchor:** NBPGR (1978, New Delhi, ICAR) is the plant gene bank. It is not Kolkata BSI and not Karnal NBAGR (animals).
-- **Exam Anchor:** ISFR 2023 class figures often cited: India about 21.76% forest cover; Uttar Pradesh (उत्तर प्रदेश) about 6.24%. UP districts with >20% forest cover in that reading (रीडिंग) were Chandauli and Shravasti only — Bahraich was not in that pair.
-
-</details>
+- **Exam Anchor:** BSI is the national organisation for survey, taxonomy, and documentation of Indian plant diversity.
+- **Exam Anchor:** Does not survey animals (ZSI), map forest cover (FSI), or store crop gene banks (NBPGR).
+- **Exam Anchor:** ZSI documents Indian animal (faunal) diversity — taxonomy and inventories.
 
 ---
 

@@ -21,7 +21,8 @@ Biosphere Reserve (जैवमंडल आरक्षित क्षेत�
 
 ---
 
-## Consolidated — 25 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 25 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A Biosphere Reserve is a **UNESCO MAB (1971)** landscape with **core → buffer → transition**. It is **not** a Wildlife Protection (वन्यजीव सुरक्षा) Act category.
 2. India has **18** notified national Biosphere Reserves. About **13** sit on the UNESCO World Network.
@@ -49,9 +50,10 @@ Biosphere Reserve (जैवमंडल आरक्षित क्षेत�
 24. Biosphere Reserves can overlap National Parks and World Heritage (विश्व धरोहर) tags, but the MAB label is still a separate tool.
 25. Among common options, **biosphere reserves** are the best strategy for conserving biodiversity **together with traditional human life / cultural diversity**. **Gulf of Mannar** is often cited as India’s richest marine biodiversity BR mosaic.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -62,7 +64,8 @@ Biosphere Reserve (जैवमंडल आरक्षित क्षेत�
 | **Buffer Zone** | **Transition Zone** | Managed area buffering the core vs outermost area where local communities, agriculture, and settlements sustainably coexist | बफर जोन / संक्रमण क्षेत्र (बस्तियां/खेती) |
 | **Nokrek Biosphere Reserve** | **Loktak Lake** | Located in Garo Hills, **Meghalaya** (Citrus indica) vs freshwater wetland in **Manipur** | नोकरेक (मेघालय) / लोकटक (मणिपुर) |
 | **Uttar Pradesh BR count** | **Madhya Pradesh BR count** | **Zero** Biosphere Reserves in UP vs **3** Biosphere Reserves in MP (Pachmarhi, Achanakmar-Amarkantak, Panna) | यूपी (शून्य बायोस्फीयर) / म.प्र. (3 बायोस्फीयर) |
----
+
+</details>
 
 ## Must-score facts — MAB zones, India list tags
 

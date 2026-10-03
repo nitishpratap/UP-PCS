@@ -25,7 +25,8 @@
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Kali (Sharda)** is the longest river in Uttarakhand at **252 km**; source Lipulekh / Kalapani; it forms the international boundary with Nepal.
 2. **Bhagirathi (205 km)** and **Alaknanda (195 km)** unite at **Devprayag** to form the **Ganga**.
@@ -56,9 +57,10 @@
 27. Do not swap Vishnuprayag (Alaknanda + Western Dhauliganga) with Devprayag (Alaknanda + Bhagirathi).
 28. Do not swap Tungnath (highest Shiva temple / arms) with Kedarnath (supreme Jyotirlinga / hump).
 
----
+</details>
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -68,7 +70,7 @@
 | **Roopkund vs Dodital** | Roopkund = **Skeleton lake** (Chamoli, 5,029 m); Dodital = **6-cornered lake of Ganesha** (Uttarkashi). |
 | **Tungnath vs Kedarnath** | Tungnath = **Highest Shiva Temple** (3,680 m, arms); Kedarnath = **Supreme Jyotirlinga Dham** (hump). |
 
----
+</details>
 
 ## River Systems of Uttarakhand: Comprehensive Master Matrix
 

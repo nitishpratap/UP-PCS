@@ -11,72 +11,96 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 23 — Constitutional & Legal Offices</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The **Attorney General** (महान्यायवादी) (Article **76**) is the Union’s first law officer. Qualification matches a **Supreme Court judge**. Tenure is during the **pleasure of the President**. Removal is **not** by judge-impeachment.
-2. Under Article **88**, the Attorney General may speak in **both** Houses and their committees but has **no vote**. Private practice is allowed except against the Government of India or in a matter already advised on.
-3. The Attorney General’s oath is **not** a Third Schedule form. Pay is fixed by the President and is **not** a Second Schedule charged office like the CAG. The first AG was **M.C. Setalvad**.
-4. The **Solicitor General** is **not** in the Constitution. The SG assists the AG, has **no** Article **88** right by that office, and is regulated by executive / Law Officers rules.
-5. The **Advocate General** (महाधिवक्ता) (Article **165**) is the State’s first law officer. Qualification matches a **High Court judge**. Appointment and pleasure are of the **Governor**. Article **177** allows speaking in the State House(s) without a vote.
-6. There is **no** office called “Advocate General of India.” Do not invent a Union AdvG.
-7. The **CAG** (Articles **148–151**) is appointed by the President for **six years or age 65**, whichever is earlier. Removal is **like a Supreme Court judge**. Article **148(4)** bars further Union or State office after leaving the post.
-8. The CAG takes a **Third Schedule** oath before the President. Salary is in the **Second Schedule** and charged. Union reports go President → Parliament; State reports go Governor → Legislature (Article **151**).
-9. The Indian CAG audits **after** expenditure. The classic UK Comptroller could **block** payment first. The Public Accounts Committee examines CAG reports. An **Accountant General** is the CAG’s field officer — not the Advocate General.
-10. The Third Schedule covers ministers, House candidates/members, Supreme Court and High Court judges, and the CAG. It does **not** cover the President, Vice-President, Governor, AG, SG, Advocate General, or CEC.
-11. The **Chief Election Commissioner** is appointed by the President. Under the **2023** Act, selection is by the Prime Minister, Lok Sabha (लोकसभा) Leader of Opposition, and a Cabinet Minister. The **CJI is not** on this panel (unlike the Lokpal (लोकपाल) panel).
-12. CEC tenure is **six years or age 65**. The CEC is removed **like a Supreme Court judge**. Other Election Commissioners and Regional Commissioners are removed only on the **CEC’s recommendation**. Votes are equal; removal protection is not.
-13. The first CEC was **Sukumar Sen**. The first woman CEC was **V.S. Ramadevi** (**1990**). An Election Commissioner may become CEC, with combined service capped at six years.
-14. The **UPSC** (संघ लोक सेवा आयोग) Chairman is appointed by the President for **six years or age 65**. Removal under Article **317** follows a Supreme Court inquiry path. Under Article **319**, a UPSC Chair may take **no** further Union or State office.
-15. A **State PSC** Chair is **appointed by the Governor** but **removed by the President** (after Supreme Court inquiry on misbehaviour). Extension of SPSC functions under Article **321** is by the **State Legislature**. A Joint PSC needs **Parliament** if the States request it.
-16. UPPSC headquarters is **Prayagraj** (प्रयागराज). Do not confuse UPPSC with UPSC (Delhi) or with the State Election Commission (निर्वाचन आयोग).
-17. The **Chief Justice of India** retires at **65**, takes oath before the **President**, and resigns to the **President**. Appointment convention is seniority (broken in **1973** and **1977**). If President and Vice-President are both vacant, the CJI can act as President and then takes the Article **60** oath.
-18. The Supreme Court Collegium is **CJI + four (चातुर्याम)**. The High Court Collegium is **CJI + two**. The **99th** Amendment’s NJAC was struck on **16 October 2015**.
-19. A High Court Chief Justice retires at **62**, takes oath before the **Governor**, and resigns to the **President**. Article **223** covers an acting Chief Justice. Outsider Chief Justices are a convention, not a constitutional bar.
-20. Resignation facts: Supreme Court / High Court judges, CJI, High Court CJ, CAG, CEC, and UPSC resign to the **President**. An SPSC member or Advocate General resigns to the **Governor**. High Court **oath** (Governor) is not the same as High Court **resignation** (President).
-21. The President resigns to the **Vice-President** (Article **56**). The Vice-President resigns to the **President** (Article **67**). A Governor resigns to the **President** (Article **156**). The Lok Sabha Speaker resigns to the **Deputy Speaker** (Article **94**), **not** to the President.
-22. Article **319** rows: UPSC Chair = total further-office bar; UPSC member may become UPSC Chair or an SPSC Chair; SPSC Chair may become UPSC Chair or another SPSC Chair.
-23. The State Election Commission under Article **243K** is **not** the Election Commission under Article **324**. Local-body polls are SEC; Parliament and State legislature polls are ECI.
-24. A 2024 trap mixes Article **324** (ECI) with Article **165** (Advocate General). Keep the numbers with the offices.
-25. AG and Advocate General hold office during **pleasure**. CAG and judges have hard removal paths. Pleasure is not impeachment.
-26. Contempt motions under Contempt of Courts Act section **15** may need AG/SG consent in some criminal-contempt paths. That consent power does **not** make the law officer a judge.
-27. Regional Commissioners under Article **324** share the “removal only on CEC recommendation” fact with other Election Commissioners.
-28. CAG form of accounts advice sits in Article **150**. Do not invent a separate “Advocate General of accounts.”
-29. Solicitor General has no Article **88** speaking right by constitutional text. If the SG appears in Parliament contexts, that is not the AG’s Article 88 status.
-30. Study every office on six axes: appointment, removal, qualification, tenure, oath, and resign-to-whom. One missing axis is the usual prelims trap.
+1. **Article:76** (office) · **88** (Houses) · **105** privileges while performing
+2. **Appointment:President**. Qualification: same as a **Supreme Court judge** (Art. **124**): citizen + 5y HC judge / 10y HC advocate / distinguished jurist
+3. **Tenure:none fixed** in the text. **Removal:pleasure of the President**. **Not** the SC-judge impeachment path
+4. **Resignation:** to the **President**. **Oath:not** a Third Schedule form
+5. **Powers:** advise GoI on legal matters the President refers · appear for the Union in SC/HC · **right of audience in all Indian courts** (76(3)) · other duties the President assigns / law confers · **Contempt of Courts Act s.15** — AG’s (or SG’s) consent is used for some criminal-contempt motions; that does **not** make him a judge
+6. **Parliament:** Art. **88** — take part in **both** Houses and their committees; **no vote**. **Not** a minister / Cabinet member by this office
+7. **Practice:not** a government servant. Private briefs **OK** except **against the Government of India** / in a matter he has advised on
+8. **Pay:** fixed by the **President**. **Not** 2nd Schedule / not CFI-charged as a judge/CAG
+9. **First:M.C. Setalvad**. Assisted by **Solicitor General** → Additional SGs → ASGs — those rungs are **not** Art. 76
+10. **Article:none.** Art. 76 names the **Attorney General** only
+11. **Appointment:** Union Government / President on government advice (executive). Law Officers (Conditions of Service) rules — don’t freeze a clause number
+12. **Rank:second** law officer. Below AG, above Additional Solicitors General
+13. **Qualification:** not written in the Constitution (there is no 76-clone). In practice a senior advocate; **not** “must be SC-judge qualified” as a *text* fact
+14. **Tenure / removal:** contract / pleasure of the government. **No** impeachment. **No Article 148(4) bar**
+15. **Oath:not** Third Schedule. **Parliament:no Art. 88.** Cannot speak in the Houses *by virtue of this office*
+16. **Article:165** (office) · **177** (State House(s))
+17. **Appointment:Governor**. Qualification: same as a **High Court judge** (Art. **217**): citizen + **10y** judicial office **or10y** HC advocate. **No “distinguished jurist”** limb (that limb is SC-only)
+18. **Tenure:none fixed**. **Removal:pleasure of the Governor**. Not HC-judge impeachment
+19. **Resignation:** to the **Governor**. **Oath:not** Third Schedule
+20. **Powers:** advise the State government · appear in courts **in the State** · duties the Governor assigns
+21. **Legislature:** Art. **177** — speak in the State Assembly / Council and committees; **no vote**
+22. **Practice:** private briefs OK except **against the State**. Pay: Governor determines
+23. **Article:148** office · **149** duties as Parliament by law · **150** form of accounts · **151** reports
+24. **Appointment:President** (warrant under his hand and seal (मुद्रा), **148(1)**). Qualification **not** written as “SC-judge qualify” (unlike AG). Conditions = **law** (DPC Act 1971)
+25. **Tenure:6 years or 65**, whichever is earlier
+26. **Removal:like a Supreme Court judge** (address of both Houses, special majority, proved misbehaviour/incapacity) — **not** pleasure
+27. **Resignation:** to the **President**. **Oath:Third Schedule**, before the **President** (same form-family as SC judges)
+28. **Further office:** Art. **148(4)** — **not eligible** for further **Union or State** office. No minister may instruct him; he is **not** a PAC member
+29. **Pay:Second Schedule**; **charged** on CFI; not varied to his disadvantage after appointment
+30. **Powers:** audit Union **and** State accounts (CFI, Contingency Fund (आकस्मिकता निधि), Public Account (लोक लेखा), financed bodies as the 1971 Act says). **Three audits**: financial · compliance · performance
+31. **Reports:** Union → **President** → Parliament. State → **Governor** → State legislature. Examined by **PAC** (civil). **COPU** = PSU slice. **Estimates Committee has no CAG**
+32. **Law:CAG’s (Duties, Powers and Conditions of Service) Act, 1971**
+33. **First (independent India):V. Narahari Rao**. Accounting split from audit **1976** — Indian CAG is auditor only (2019 PYQ)
+34. **Field:Accountant General** in a State = CAG’s officer. **≠ Advocate General**
+35. **Article:315–323**. Chair is one member of the Commission the President appoints (**316**)
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Term A | Term B | Core difference | Hindi Terminology |
-| -------- | -------- | ----------------- | -------- / -------- |
-| **Attorney General (76)** | **Solicitor General** | Constitutional; Art. **88** | **Not** in the text; no 88 |
-| **Attorney General** | **Advocate General (165)** | Union; President; **SC**-judge qualify | State; Governor; **HC**-judge qualify |
-| **AG / AdvG** | **CAG / SC judge** | **Pleasure** — no impeachment article | Removal **like SC judge** (CAG) / impeachment (judge) |
-| **AG** | **CAG** | May take private briefs (not vs GoI); further office **not** barred by 76 | **148(4)** no further Union/State office |
-| **CAG** | **Accountant General** | Union constitutional auditor | CAG’s **field** officer in a State |
-| **Advocate General** | **Accountant General** | State’s *law* officer (165) | State’s *accounts* officer (CAG’s man) |
-| **3rd Schedule oath** | **Art. 60 / 69 / 159** | Judges, CAG, ministers, MPs/MLAs | President / VP / Governor — **not** 3rd Schedule |
-| **2nd Schedule** | **AG’s pay** | CAG + judges (charged) | President fixes; **not** charged on CFI as a 2nd-Sch office |
-| **UK Comptroller** | **Indian CAG** | Can **block** a payment first | **Audits after** the money has gone |
-| **CEC** | **Other Election Commissioners** | Removed **like SC judge** | Removed only on **CEC’s recommendation** |
-| **UPSC Chairman** | **UPSC member** (Art. 319) | **No** further Union/State office | May become UPSC **Chair** or an **SPSC Chair** |
-| **SPSC: appoint** | **SPSC: remove** | **Governor** | **President** (after SC inquiry on misbehaviour) |
-| **CJI / SC judge oath** | **CJ HC / HC judge oath** | Before **President** | Before **Governor** |
-| **HC judge oath** | **HC judge resignation** | **Governor** | **President** |
-| **CJI age** | **CJ HC age** | **65** | **62** |
-| **CEC (324)** | **SEC (243K)** | Parliament / President / VP polls | Local bodies |
-| **President resigns** | **CJI resigns** | To the **VP** (56) | To the **President** (124) |
-| **ECI Art.** | **AdvG Art.** | **324** | **165** (2024 trap) |
-| **CEC 2023 panel** | **Lokpal panel** | PM + LoP LS + Cabinet Minister (**no CJI**) | **Includes CJI** (or an SC judge he nominates) |
-| **LS Speaker resigns** | **RS Chairman resigns** | To **Deputy Speaker** (94) | RS Chairman **is the VP** → resigns to the **President** (67) |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| AG removed like an SC judge | **Pleasure of the President** (2023) |
+| AG = Part XIII | **Part V.** XIII = trade |
+| AG must be an MP / minister | **Neither** |
+| SG is in Article 76 | **Only AG** is |
+| SG has Art. 88 | **AG only** |
+| AdvG = SC-judge qualification | **HC judge** |
+| AdvG removed like HC judge | **Pleasure of the Governor** |
+| Art. 88 in the Vidhan Sabha | **Art. 177** |
+| Advocate General = Accountant General | Law officer vs CAG’s **accounts** officer |
+| CAG = pleasure | **SC-judge removal** |
+| CAG = 3rd Schedule? No | **Yes** he is. AG is the one who is **not** |
+| CAG may take a State governorship later | **148(4)** bars further Union **or** State office |
+| Indian CAG blocks payments in advance | **After** spend |
+| PAC *is* the CAG | PAC **examines** the report |
+| Estimates Committee uses CAG | **No CAG link** |
+| AG’s pay is 2nd Schedule | **Judges + CAG.** AG = President fixes |
+| President’s oath is 3rd Schedule | **Art. 60** |
+| Other ECs removed like the CEC | Only on **CEC’s recommendation** |
+| 2023 Act keeps CJI on the CEC panel | **CJI is out** |
+| SPSC member removed by Governor | **President**, after **SC** inquiry (2021) |
+| SPSC functions extended by President | **State Legislature** (321) |
+| UPSC Chair may become Governor | **319** total bar |
+| UPSC and SPSC retire at the same age | UPSC **65** · SPSC **62** |
+| HC CJ resigns to the Governor | Oath = Governor. Resign = **President** |
+| SC judge resigns to the CJI | **President** (2023) |
+| CJI takes oath under Art. 60 | Art. 60 is the **President’s** oath, *administered by* the CJI |
+| HC CJ sits to 65 | **62** |
+| JPSC is set up by UPSC | **Parliament**, on the States’ request |
+| CEC pay = SC judge (after 2023 Act) | **Cabinet Secretary** alignment |
+| Election Commission = Art. 165 | **324**. 165 = **Advocate General** (2024) |
+| Advocate General of India | **Does not exist.** Union = AG + SG |
+| President resigns to the CJI / PM | To the **Vice-President** (56) |
+| Governor resigns to the CM | To the **President** (156) |
+| Speaker LS resigns to the President | To the **Deputy Speaker** (94) |
+| UPSC Chair and UPSC member have the same 319 bar | Chair = **total** bar. Member may become **Chair** |
+| SEC = CEC | **243K** vs **324** |
+| Regional Commissioners = same removal as CEC | Only on **CEC’s recommendation** |
+| EC can never become CEC | **May**, combined tenure **≤ 6 years** |
+| AG is the Law Minister / a Cabinet member | **Neither.** Law officer, not political executive |
+| RS Chairman resigns to Deputy Chairman | RS Chairman **is the VP** → **President** (67). Deputy Chairman RS → Chairman (**90**) |
+| CJI is on the 2023 CEC panel *and* the Lokpal panel | **Lokpal yes. CEC 2023 no.** Search Committee ≠ Selection Committee |
+| PSC Chair removed only after SC inquiry, always | Misbehaviour → **SC**. Insolvency / paid job / infirmity → President **without** SC (317) |
+| CJI can never take Art. 60 | Only when **acting President** (1969 Act) |
+
+---
 
 
 ---

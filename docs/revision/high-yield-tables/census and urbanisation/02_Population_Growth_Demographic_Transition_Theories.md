@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Census and Urbanisation Topic 2 — Population Growth, Demographic Transition and Theories</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -27,18 +33,6 @@ hide:
 | **Replacement Level Fertility (TFR = 2.1)** | **Current India TFR (NFHS-5: 2.0)** | **Trap**: India's TFR has already dropped below replacement level (2.0) nationally, though population will continue growing due to *demographic momentum*. |
 | **Exponential (J-shaped) Growth**: Unchecked growth with constant birth/death rates | **Logistic (S-shaped) Growth**: Growth slowed by carrying capacity ($K$) | **Trap**: Real populations in nature follow the S-shaped logistic curve due to environmental resistance. |
 | **Demographic Dividend**: High ratio of working-age (15–59) to dependents | **Demographic Disaster / Drag**: High working-age population without jobs/skills | **Trap**: Dividend is only potential; if uneducated and unemployed, the dividend turns into a demographic liability/drag. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -144,18 +138,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Thomas Robert Malthus published his seminal work An Essay on the Principle of Population in 1798.
-- **Exam Anchor:** Malthus postulated that population increases in Geometric Progression ($1, 2, 4, 8, 16...$) while food production increases in Arithmetic Progression ($1, 2, 3, 4, 5...$).
-- **Exam Anchor:** According to Malthus, unchecked population has the biological tendency to double every 25 years.
-- **Exam Anchor:** Malthusian checks are classified into two categories: Preventive Checks (man-made, moral restraint) and Positive Checks (nature-induced, famines/wars/diseases).
-- **Exam Anchor:** The Demographic Transition Theory (DTT) was originally formulated by Warren S. Thompson (1929) and developed by Frank W. Notestein (1945).
-- **Exam Anchor:** The Demographic Transition Theory explains the transition from high birth and death rates to low birth and death rates as an economy modernizes.
 - **Exam Anchor:** Stage 1 (High Stationary) of DTT is characterized by high birth rates, high death rates, and a stable, low population.
 - **Exam Anchor:** Stage 2 (Early Expanding) of DTT is characterized by high birth rates and rapidly falling death rates, leading to a Population Explosion.
-
-</details>
+- **Exam Anchor:** Stage 3 (Late Expanding) of DTT is characterized by rapidly falling birth rates and low death rates, with population growth slowing down.
+- **Exam Anchor:** Stage 4 (Low Stationary) of DTT is characterized by low birth rates, low death rates, and a stable, mature population.
+- **Exam Anchor:** India is currently in Stage 3 (Late Expanding Phase) of the Demographic Transition.
+- **Exam Anchor:** India prior to 1921 was in Stage 1 (High Stationary Phase) of the Demographic Transition.
+- **Exam Anchor:** Hugh Dalton formulated the degree of maladjustment equation: $M = (A - O) / O$, where $A$ is Actual Population and $O$ is Optimum Population.
 
 ---
 

@@ -11,9 +11,18 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 8 — Microbiology, Environment and Applied Science</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year / Date | Event / Discovery | Must-Score Fact |
+|-------------|-------------------|----------------------|
+| **28 February** | **National Science Day** observed nationwide across India. | Celebrated to commemorate the landmark discovery of the **Raman Effect (inelastic scattering of light)** by **Sir C. V. Raman on 28 February 1928** (awarded Nobel Prize in Physics in 1930). It does **not** mark Raman's birthday, Fleming's penicillin, or World Environment Day. |
+| **26 November** | **National Milk Day** observed annually in India. | Commemorates the birth anniversary of **Dr. Verghese Kurien**, the "Father of the White Revolution" in India and mastermind of **Operation Flood** (launched in 1970 by NDDB, Anand). Coincides with Constitution Day (*Samvidhan Diwas*). |
+| **Still Current** | **WHO Global Smallpox Eradication (1980)**. | Smallpox remains the **only human infectious disease officially certified as completely eradicated globally from nature** through mass worldwide vaccination initiated by **Edward Jenner's** cowpox inoculation (1796). |
+| **Still Current** | **Antimicrobial Resistance (AMR) & "Superbugs"**. | Indiscriminate and incomplete courses of antibiotics induce selective pressure, promoting plasmid-mediated horizontal gene transfer (via conjugation) and bacterial multidrug resistance (e.g., MRSA — *Methicillin-Resistant Staphylococcus aureus*, NDM-1 — *New Delhi Metallo-beta-lactamase-1*). |
+
+---
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Fact |
 |-----------|-----------|----------------------------------|
@@ -40,21 +49,6 @@ hide:
 | **WHO (Geneva)** | **FAO (Rome)** | World Health Organization (Geneva, Switzerland) vs Food and Agriculture Organization (Rome, Italy). |
 | **Varsha (Monsoon)** | **Shishira (Winter)** | Sowing of Kharif crops, monsoon rains, mosquito breeding vs biting cold, morning frost/fog, growth of winter wheat. |
 | **National Science Day (28 Feb)** | **World Environment Day (5 June)** | Celebrates Raman Effect discovery (1928) vs commemorates 1972 Stockholm Conference on Human Environment. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year / Date | Event / Discovery | Must-Score Fact |
-|-------------|-------------------|----------------------|
-| **28 February** | **National Science Day** observed nationwide across India. | Celebrated to commemorate the landmark discovery of the **Raman Effect (inelastic scattering of light)** by **Sir C. V. Raman on 28 February 1928** (awarded Nobel Prize in Physics in 1930). It does **not** mark Raman's birthday, Fleming's penicillin, or World Environment Day. |
-| **26 November** | **National Milk Day** observed annually in India. | Commemorates the birth anniversary of **Dr. Verghese Kurien**, the "Father of the White Revolution" in India and mastermind of **Operation Flood** (launched in 1970 by NDDB, Anand). Coincides with Constitution Day (*Samvidhan Diwas*). |
-| **Still Current** | **WHO Global Smallpox Eradication (1980)**. | Smallpox remains the **only human infectious disease officially certified as completely eradicated globally from nature** through mass worldwide vaccination initiated by **Edward Jenner's** cowpox inoculation (1796). |
-| **Still Current** | **Antimicrobial Resistance (AMR) & "Superbugs"**. | Indiscriminate and incomplete courses of antibiotics induce selective pressure, promoting plasmid-mediated horizontal gene transfer (via conjugation) and bacterial multidrug resistance (e.g., MRSA — *Methicillin-Resistant Staphylococcus aureus*, NDM-1 — *New Delhi Metallo-beta-lactamase-1*). |
 
 ---
 
@@ -398,7 +392,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** The Four Microbial Groups:
 - **Exam Anchor:** Bacterial Morphology & Gram Staining:
@@ -408,8 +402,6 @@ hide:
 - **Exam Anchor:** Industrial Microbiology & Microbes in Human Welfare (NCERT Class 12 Master Pairs):
 - **Exam Anchor:** Microbial Organic Acids & Industrial Enzymes:
 - **Exam Anchor:** Bioactive Molecules & Wonder Drugs (High-Yield UPPCS Match-Pairs):
-
-</details>
 
 ---
 

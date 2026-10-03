@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 22 — Constitutional Philosophy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Year | What happened | What you mark |
 |------|-----------------|---------------|
@@ -173,18 +171,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Preamble counts are Justice 3, Liberty 5, Equality 2, and Fraternity 1. The word Federal is not in the Preamble. The 42nd Amendment added Socialist, Secular, and integrity.
 - **Exam Anchor:** Constitutionalism means limited government under a higher law. Merely having a written constitution booklet is not enough by itself.
 - **Exam Anchor:** Constitutional morality (Ambedkar (अम्बेडकर) in the Constituent Assembly (संविधान सभा)) means fidelity to constitutional norms, not whatever the street calls “morality.” It is not the same as “public morality” in Articles 19 / 25.
-- **Exam Anchor:** Dicey’s Rule of Law has three limbs: no arbitrary power, equality before law, and (in the UK) rights from ordinary law rather than a special Bill of Rights. India takes the first two (Article 14, judicial review, Articles 32 / 226) and rejects the third.
-- **Exam Anchor:** Rule of Law itself is part of the Basic Structure (Indira Gandhi, 1975). PIL is often treated as a practical path that helps weaker sections reach the courts.
-- **Exam Anchor:** Article 21’s text is “procedure established by law” (Japan source). The US model is due process (5th/14th Amendments). India’s text was never rewritten to say “due process.”
-- **Exam Anchor:** A.K. Gopalan (1950) read Article 21 (अनुच्छेद 21) as any procedure in a valid law, with Fundamental Rights (मौलिक अधिकार) in silos. Maneka Gandhi (1978) requires a procedure that is fair, just, and reasonable, reading (रीडिंग) Articles 14, 19, and 21 together (the golden triangle).
-- **Exam Anchor:** After Maneka, Article 21 review is both procedural and substantive. Natural justice (audi alteram partem, nemo judex) is poured into Article 21 even though the text still says procedure established by law.
-
-</details>
+- **Exam Anchor:** Separation of powers comes from Montesquieu. Vesting lines include Article 53 (executive), 79 (Parliament), and 124 (Supreme Court). The USA is rigid; India is functional with fusion of executive and legislature (Cabinet in the House).
+- **Exam Anchor:** Checks and balances are the restraining teeth: judicial review, impeachment, no-confidence (अविश्वास प्रस्ताव), and the rule that ordinances must return to the House. CAG (भारत के नियंत्रक-महालेखापरीक्षक), Election Commission (निर्वाचन आयोग), and UPSC (संघ लोक सेवा आयोग) are constitutional brakes, not “extra-constitutional” toys.
+- **Exam Anchor:** Judicial review tests statutes, executive action, and constitutional amendments against the Constitution (including Basic Structure). It is not the same claim as “judicial supremacy.”
+- **Exam Anchor:** Socialism was named in the Preamble by the 42nd, but Part IV already carried socialist content. Indian socialism is democratic / mixed-economy, not a USSR one-party textbook model. The 1991 reforms did not delete the Preamble word.
+- **Exam Anchor:** Secularism was named by the 42nd, but Articles 25–28 already operated from 1950. Indian secularism is positive — equal respect, with Article 25(2) reform power. Bommai (1994) treats secularism as Basic Structure. It is not theocracy and not a hard US “wall.”
+- **Exam Anchor:** Democracy means rule by the people with universal adult franchise and free and fair elections (Basic Structure). A republic means an elected Head of State (Article 54), not a hereditary monarch. The UK can be a democracy without being a republic.
 
 ---
 

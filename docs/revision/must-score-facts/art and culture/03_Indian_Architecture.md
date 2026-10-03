@@ -11,95 +11,84 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 3 — Indian Architecture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **Nagara** (नागर शैली) temples have a curvilinear **shikhara** (शिखर) and generally no monumental gopuram.
-2. **Dravida** (द्रविड़ शैली) temples have a pyramidal **vimana** (विमान) and a tall **gopuram** (गोपुरम).
-3. **Vesara** (वेसर शैली) is the Deccan hybrid of Chalukya and Hoysala land.
-4. The temple sequence runs **garbhagriha** (गर्भगृह) to **antarala** (अंतराल) to **mandapa** (मंडप), with **pradakshina** (प्रदक्षिणा पथ) around the sanctum.
-5. An **amalaka** (आमलक) and a **kalasha** (कलश) crown a Nagara tower.
-6. A **gopuram** is a Dravida **gateway**. A **shikhara** is the Nagara **sanctum** tower. These two words are often swapped. Pandya and Nayaka phases make gopurams the dominant outer face.
-7. The Odisha Nagara order is **Parasuramesvara** (परशुरामेश्वर), then **Mukteshvara** (मुक्तेश्वर), then **Lingaraja**, then **Jagannath** (जगन्नाथ), then **Konark** (कोणार्क).
-8. A **rekha deul** (रेखा देउल) is the Odisha sanctum tower. A **pidha deul** (पीढ़ा देउल) is the jagamohana hall. **Lingaraja** is the tallest standing temple in Bhubaneswar, about **180** feet.
-9. **Konark** Sun Temple is a stone chariot of Surya with **24** wheels and **7** horses. Eastern Ganga **Narasimhadeva I** built it in the **13th** century. It is also called the **Black Pagoda**.
-10. **Khajuraho** (खजुराहो) is a **Chandela** sandstone Nagara group in **Madhya Pradesh**, built in the **10th–12th** centuries. About **85** shrines were planned. About **25** still stand. Groups are Hindu and Jain.
-11. **Kandariya Mahadeva** (कंदरिया महादेव), built by **Vidyadhara**, is the largest Khajuraho temple. **Matangeshvara** belongs to **Dhanga’s** age.
-12. **Markandeshwar** in Vidarbha is called the **Khajuraho of Vidarbha**. It is not Kailasa. It is not Bhimashankar.
-13. **Modhera** (मोढेरा) Sun Temple belongs to Solanki **Bhima I**.
-14. **Dilwara** (दिलवाड़ा) at Mount Abu is white **marble** Jain work of the same Solanki milieu.
-15. **Rani ki Vav** (रानी की वाव) at Patan is a Solanki stepwell. UNESCO listed it in **2014**.
-16. Pallava phases run **Mahendra** rock-cut mandapas, then **Mamalla** rathas, then **Rajasimha** structural temples such as the Shore Temple and Kailasanatha. **Draupadi ratha** is the **smallest**.
-17. Chola Dravida peaks are **Brihadeeswara** at Thanjavur (**1010**, granite), **Gangaikonda Cholapuram** (गंगैकोंड चोलपुरम), and **Airavatesvara** (एरावतेश्वर) at Darasuram. Early Chola **Korangnath** at Srinivasanallur belongs to **Parantaka I**.
-18. **Aihole** (ऐहोल) is the cradle of early Chalukya experiment. The **Lad Khan** temple stands there.
-19. **Badami** has four caves. **Pattadakal** (पट्टदकल) mixes Nagara and Dravida. Hoysala Belur, Halebidu, and Somnathpur use soapstone star plans in the **Vesara** hybrid.
-20. The **Sarnath** (सारनाथ) Ashokan capital has four lions. **Rampurva** has a bull and a lion. **Sankisa** has an elephant. **Vaishali** (वैशाली) has a single lion. The stone is **Chunar** (चुनार) with Mauryan polish.
-21. **Sanchi** has four **toranas** (तोरण). **Bharhut** is a Shunga railing campus. **Amaravati** (अमरावती) has ayaka platforms. **Dhamek** is at Sarnath. **Mahabodhi** (महाबोधि) is at Bodh Gaya.
-22. A **stupa** (स्तूप) is a solid relic mound. A **chaitya** (चैत्य) is a congregational prayer hall with an apse stupa. A **vihara** (विहार) is a monastic residence.
-23. **Karle** (कार्ले) is the largest surviving chaitya. Ajanta chaitya caves are **9, 10, 19, and 26**. **Kanheri** (कन्हेरी) holds more than **100** Buddhist caves on Mumbai’s western fringe.
-24. **Lomas Rishi** (लोमश ऋषि) is a Barabar cave. **Ajanta** (अजंता) is Buddhist only.
-25. **Ellora** (एलोरा) caves **1–12** are Buddhist, **13–29** are Hindu, and **30–34** are Jain. **Kailasa** (कैलास) is cave **16**, cut under **Krishna I** in Dravida rock-cut form.
-26. **Elephanta** (एलिफेंटा) is mainly **Shaiva**, with the Trimurti, under Rashtrakuta-age patronage. A smaller Buddhist group also exists.
-27. The Slave house begins **Qutub**. The Khilji house adds **Alai Darwaza** (अलाई दरवाज़ा). Tughlaq walls use a sloping **batter**. Sharqi work is at **Jaunpur** (जौनपुर). **Adina** mosque is at **Pandua**, not Mandu.
-28. Babur’s tomb is at **Kabul**. Humayun’s tomb is at **Delhi**. Akbar’s red stone city is **Fatehpur Sikri**. Jahangir’s tomb is at **Lahore**. **Itimad-ud-Daulah** (इतिमाद-उद-दौला) is Nur Jahan’s marble tomb at Agra. Shah Jahan built the **Taj** and the **Red Fort**. Aurangzeb’s **Bibi ka Maqbara** (बीबी का मकबरा) is at Aurangabad.
-29. **Buland Darwaza** (बुलंद दरवाज़ा) commemorates Akbar’s **Gujarat** victory. It is not a monument for Jahangir’s birth.
-30. Uttar Pradesh World Heritage cultural sites are the **Taj Mahal** (ताज महल) (**1983**), **Agra Fort** (आगरा किला) (**1983**), **Fatehpur Sikri** (**1986**), and **Sarnath** (**2026**).
-31. Uttar Pradesh architecture also includes the Gupta brick temple at **Bhitargaon** (भीतरगाँव), Gupta remains at **Garhwa** in Prayagraj, Sharqi monuments of **Jaunpur**, and the teerth of **Naimisharanya** (नैमिषारण्य) at Sitapur.
-32. These are **not** in Uttar Pradesh: Qutub and Humayun’s tomb (Delhi), Khajuraho and Sanchi (Madhya Pradesh), Konark (Odisha), Ajanta, Ellora, and Elephanta (Maharashtra), and Mahabalipuram (Tamil Nadu).
-33. Indo-Islamic building uses the **true arch** and dome. Pre-Islamic temples often used **corbelled** courses instead.
-34. **Charbagh** (चारबाग़) is the Islamic four-part garden plan. **Panchayatana** (पंचायतन शैली) is the Hindu five-shrine plan with a central sanctum and four corner shrines.
-35. Gupta **Dashavatara** (दशावतार) at **Deogarh** (देवगढ़) is a classic early panchayatana temple. Freestanding structural temples begin in the **Gupta** (गुप्त) age.
-36. **Martand** (मार्तंड) Sun Temple of Lalitaditya in Kashmir belongs with Konark and Modhera as a sun temple. It is not a latina Nagara shrine of the Gangetic plain.
-37. **Morena Chausath Yogini**, built by Kachchhapaghata **Devapala**, is a circular hypaethral temple. It is not the Khajuraho Chausath Yogini. Popular belief links its plan to the Indian Parliament building. It is not India’s only circular temple.
-38. **Palitana** (पालिताना) Jain temples stand on **Shatrunjaya** hill near Bhavnagar in Gujarat. The main dedication is to **Adinatha**.
-39. **Sonagiri** near **Datia** in Madhya Pradesh is a Digambar Jain hill of about **103** temples. Main shrine number 57 honours **Chandraprabhu**.
-40. The Jagannath triad at Puri — Jagannath, Balabhadra, and Subhadra — is of **neem wood**, renewed in the nabakalebara cycle.
-41. **Angkor Wat** in Cambodia was built by Khmer **Suryavarman II** for **Vishnu**. **Borobudur** on Java in Indonesia is a UNESCO Buddhist monument.
-42. **Virupaksha** (विरूपाक्ष) at **Hampi** (हम्पी) is a living Vijayanagara Shiva shrine. Do not confuse it with **Virupaksha** at **Pattadakal**.
-43. **Teli ka Mandir** at Gwalior mixes a **Dravida-type** tower with northern ornament. Treat it as a fusion trap.
-44. Among Arasavalli, Amarkantak, and Omkareshwar, only **Arasavalli** in Andhra is the famous **Sun** temple. The other two are Shiva centres.
-45. **Ellora** is not Saka. **Meenakshi** is Nayaka Madurai, not Pallava. **Mahabalipuram** (महाबलीपुरम) is Pallava, not Rashtrakuta. The **Besnagar Heliodorus** pillar is a **Vaishnava Garuda**, not a Shaiva cave.
-46. **Sittanavasal** (सित्तन्नवासल) is a **Jain** cave shrine of Pallava age. Ajanta is Buddhist. Full mural detail lives in the Painting chapter.
-47. The Madhya Pradesh World Heritage trio often tested together is **Khajuraho**, **Bhimbetka** (भीमबेटका), and **Sanchi**. **Mandu** (मांडू) is not a World Heritage Site.
-48. Ajanta’s other Gupta-age mural cousin is **Bagh** in Madhya Pradesh. Padmapani in Cave 1 is taught fully in Painting.
-49. Rashtrakuta courts also backed Jain scholars. **Amoghavarsha I** was a disciple of **Jinasena**, author of the *Adipurana*. That is context for Ellora’s Jain caves.
-50. The south-temple chronology is **Sapt Pagoda**, then **Shore Temple** (शोर मंदिर), then **Brihadeeswara**, then **Gangaikonda Cholapuram**.
+1. **Maratha Military Landscapes of India** entered the list in **2025** as India’s **44th** property. The set covers **12** forts: eleven in Maharashtra and **Gingee** in Tamil Nadu.
+2. **Moidams – the Mound-Burial System of the Ahom Dynasty** at Charaideo in Assam entered the list in **2024** as India’s **43rd** property.
+3. **Nagara** (नागर शैली) temples have a curvilinear **shikhara** (शिखर) and generally no monumental gopuram.
+4. **Dravida** (द्रविड़ शैली) temples have a pyramidal **vimana** (विमान) and a tall **gopuram** (गोपुरम).
+5. **Vesara** (वेसर शैली) is the Deccan hybrid of Chalukya and Hoysala land.
+6. **Konark** Sun Temple is a stone chariot of Surya with **24** wheels and **7** horses. Eastern Ganga **Narasimhadeva I** built it in the **13th** century. It is also called the **Black Pagoda**.
+7. **Khajuraho** (खजुराहो) is a **Chandela** sandstone Nagara group in **Madhya Pradesh**, built in the **10th–12th** centuries. About **85** shrines were planned. About **25** still stand. Groups are Hindu and Jain.
+8. **Kandariya Mahadeva** (कंदरिया महादेव), built by **Vidyadhara**, is the largest Khajuraho temple. **Matangeshvara** belongs to **Dhanga’s** age.
+9. **Markandeshwar** in Vidarbha is called the **Khajuraho of Vidarbha**. It is not Kailasa. It is not Bhimashankar.
+10. **Modhera** (मोढेरा) Sun Temple belongs to Solanki **Bhima I**.
+11. **Dilwara** (दिलवाड़ा) at Mount Abu is white **marble** Jain work of the same Solanki milieu.
+12. **Rani ki Vav** (रानी की वाव) at Patan is a Solanki stepwell. UNESCO listed it in **2014**.
+13. **Aihole** (ऐहोल) is the cradle of early Chalukya experiment. The **Lad Khan** temple stands there.
+14. **Badami** has four caves. **Pattadakal** (पट्टदकल) mixes Nagara and Dravida. Hoysala Belur, Halebidu, and Somnathpur use soapstone star plans in the **Vesara** hybrid.
+15. **Sanchi** has four **toranas** (तोरण). **Bharhut** is a Shunga railing campus. **Amaravati** (अमरावती) has ayaka platforms. **Dhamek** is at Sarnath. **Mahabodhi** (महाबोधि) is at Bodh Gaya.
+16. **Karle** (कार्ले) is the largest surviving chaitya. Ajanta chaitya caves are **9, 10, 19, and 26**. **Kanheri** (कन्हेरी) holds more than **100** Buddhist caves on Mumbai’s western fringe.
+17. **Lomas Rishi** (लोमश ऋषि) is a Barabar cave. **Ajanta** (अजंता) is Buddhist only.
+18. **Ellora** (एलोरा) caves **1–12** are Buddhist, **13–29** are Hindu, and **30–34** are Jain. **Kailasa** (कैलास) is cave **16**, cut under **Krishna I** in Dravida rock-cut form.
+19. **Elephanta** (एलिफेंटा) is mainly **Shaiva**, with the Trimurti, under Rashtrakuta-age patronage. A smaller Buddhist group also exists.
+20. **Buland Darwaza** (बुलंद दरवाज़ा) commemorates Akbar’s **Gujarat** victory. It is not a monument for Jahangir’s birth.
+21. **Charbagh** (चारबाग़) is the Islamic four-part garden plan. **Panchayatana** (पंचायतन शैली) is the Hindu five-shrine plan with a central sanctum and four corner shrines.
+22. **Martand** (मार्तंड) Sun Temple of Lalitaditya in Kashmir belongs with Konark and Modhera as a sun temple. It is not a latina Nagara shrine of the Gangetic plain.
+23. **Morena Chausath Yogini**, built by Kachchhapaghata **Devapala**, is a circular hypaethral temple. It is not the Khajuraho Chausath Yogini. Popular belief links its plan to the Indian Parliament building. It is not India’s only circular temple.
+24. **Palitana** (पालिताना) Jain temples stand on **Shatrunjaya** hill near Bhavnagar in Gujarat. The main dedication is to **Adinatha**.
+25. **Sonagiri** near **Datia** in Madhya Pradesh is a Digambar Jain hill of about **103** temples. Main shrine number 57 honours **Chandraprabhu**.
+26. **Angkor Wat** in Cambodia was built by Khmer **Suryavarman II** for **Vishnu**. **Borobudur** on Java in Indonesia is a UNESCO Buddhist monument.
+27. **Virupaksha** (विरूपाक्ष) at **Hampi** (हम्पी) is a living Vijayanagara Shiva shrine. Do not confuse it with **Virupaksha** at **Pattadakal**.
+28. **Teli ka Mandir** at Gwalior mixes a **Dravida-type** tower with northern ornament. Treat it as a fusion trap.
+29. **Ellora** is not Saka. **Meenakshi** is Nayaka Madurai, not Pallava. **Mahabalipuram** (महाबलीपुरम) is Pallava, not Rashtrakuta. The **Besnagar Heliodorus** pillar is a **Vaishnava Garuda**, not a Shaiva cave.
+30. **Sittanavasal** (सित्तन्नवासल) is a **Jain** cave shrine of Pallava age. Ajanta is Buddhist. Full mural detail lives in the Painting chapter.
+31. **Dvarapalas** are door guardians carved at the sanctum entrance.
+32. **Mithuna** couples appear on outer walls of developed Nagara temples, as at Khajuraho.
+33. **Panchayatana** (पंचायतन) places a central shrine with four smaller shrines at the corners. Gupta Deogarh is the early type.
+34. **Nagara** is the north Indian style, mainly north of the Vindhyas.
+35. **Dravida** is the south Indian style.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Nagara | Dravida | Curvilinear shikhara, no gopuram vs pyramidal vimana + tall gopuram | नागर / द्रविड़ |
-| Shikhara | Vimana | Nagara tower over sanctum vs Dravida tower over sanctum | शिखर / विमान |
-| Gopuram | Shikhara | Dravida **gateway** vs Nagara **sanctum** tower — papers swap these | गोपुरम् / शिखर |
-| Vesara | Nagara | Karnataka hybrid / storeyed vs pure north curvilinear | वेसर / नागर |
-| Stupa | Chaitya | Solid relic mound vs congregational hall with apse stupa | स्तूप / चैत्य |
-| Chaitya | Vihara | Prayer hall vs monastic cells | चैत्य / विहार |
-| Rock-cut | Structural | Living rock (Ajanta, rathas) vs dressed blocks (Brihadeeswara, Shore) | शैल-कट / संरचनात्मक |
-| Rekha deul | Pidha deul | Odisha sanctum tower vs jagamohana pyramidal hall | रेखा देउल / पिढ़ा देउल |
-| Charbagh | Panchayatana | Islamic four-part garden vs Hindu five-shrine plan | चारबाग़ / पंचायतन |
-| Indo-Islamic | Mughal | Sultanate arch-dome (Qutub) vs imperial garden-tomb synthesis (Taj) | भारतीय-इस्लामी / मुग़ल |
-| True arch | Corbel | Voussoirs (Indo-Islamic) vs projecting courses (pre-Islamic temples) | सच्चा मेहराब / कॉर्बेल |
-| Squinch | Pendentive | Corner arch to take a dome vs curved triangle (later) | स्क्विंच / पेंडेंटिव |
-| Latina | Phamsana | Curvilinear sanctum tower vs stepped pyramidal mandapa roof | लतिना / फामसन |
-| Khajuraho Chausath Yogini | Morena Chausath Yogini | Chandela hypaethral vs **Kachchhapaghata Devapala** circular | खजुराहो / मुरैना |
-| Virupaksha Hampi | Virupaksha Pattadakal | Vijayanagara living shrine vs Early Chalukya Dravida | हम्पी / पट्टदकल |
-| Ellora | Sakas | Rashtrakuta-age multi-faith caves vs wrong dynasty trap | एलोरा / शक |
-| Meenakshi Madurai | Pallava | Nayaka / Pandya gopuram peak vs Pallava Mamalla–Rajasimha | मीनाक्षी / पल्लव |
-| Mahabalipuram | Rashtrakuta | **Pallava** rock-cut / Shore vs Ellora Kailasa dynasty | महाबलीपुरम / राष्ट्रकूट |
-| Besnagar Heliodorus | Shaiva cave | **Vaishnava Garuda** pillar vs wrong Shaiva label | बेसनगर / शैव |
-| Dilwara marble | Khajuraho sandstone | Mount Abu Jain Solanki vs Chandela Nagara | दिलवाड़ा / खजुराहो |
-| Arasavalli | Omkareshwar | Sun temple (Andhra) vs Shiva jyotirlinga (MP) | अरासवल्ली / ओंकारेश्वर |
-| Konark 24 wheels | “12 wheels” shorthand | Full chariot has **24** wheels (12 pairs) | कोणार्क चक्र |
-| Mandu | Khajuraho / Sanchi / Bhimbetka | Mandu **not** UNESCO vs MP WHS trio | माण्डू / यूनेस्को |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. Gopuram ≠ shikhara; vimana ≠ gopuram.
+2. Konark / Khajuraho = Nagara, not Dravida; Brihadeeswara / Shore = Dravida, not Nagara.
+3. Khajuraho and Sanchi = **MP**, not UP. Qutub and Humayun’s Tomb = **Delhi**, not UP.
+4. Vesara = Karnataka hybrid; Lingaraja is Odisha Nagara.
+5. Rathas are rock-cut; Shore Temple is structural — both Pallava, different kings.
+6. Sapt Pagoda / rathas **before** Shore Temple **before** Brihadeeswara **before** Gangaikonda.
+7. Aryaka pillars = Amaravati type, **not** Bodh Gaya.
+8. Ajanta = Buddhist; Ellora = three religions; Kailasa = Ellora 16, not Elephanta.
+9. Adina Masjid = Pandua, **not** Mandu.
+10. Qutub: Aibak started, Iltutmish finished; Alai Darwaza = Alauddin, first true dome.
+11. Buland Darwaza = Gujarat **victory**, not Jahangir’s birth.
+12. Tombs: Babur–Kabul, Humayun–Delhi, Jahangir–Lahore, Shah Jahan–Agra.
+13. Bibi ka Maqbara = Aurangzeb / Rabia Daurani, **not** Shah Jahan.
+14. Gupta = first structural temple (Deogarh, Bhitargaon); not Maurya.
+15. Hathigumpha = Kharavela (Odisha), not Ashoka.
+16. Sarnath WHS = **2026** (tangible), not ICH. Kumbh ICH = **2017**.
+17. Konark = 24 wheels / 7 horses; Black Pagoda ≠ Jagannath (White Pagoda).
+18. Two Udayagiris: Vidisha Gupta ≠ Bhubaneswar Jain (Hathigumpha).
+19. Itimad-ud-Daulah = Agra “Baby Taj”; Salim Chishti = Fatehpur courtyard.
+20. Ramappa = Kakatiya, not Hoysala; Dilwara = Jain Abu marble, not Khajuraho sandstone.
+21. Sarnath capital = four lions (emblem); Vaishali = single lion; Sankisa = elephant; Rampurva = bull + lion.
+22. Moti Masjid Agra = Shah Jahan; Moti Masjid Red Fort Delhi = Aurangzeb.
+23. Konark “12 wheels” shorthand → full chariot has **24** wheels (12 pairs).
+24. Dashavatara at Khajuraho → **Deogarh** (Gupta); Khajuraho is Chandela.
+25. Morena Yogini = Khajuraho Yogini → different sites; Morena = **Devapala** circular.
+26. Ellora = Sakas → **Rashtrakuta**-age multi-faith.
+27. Mahabalipuram = Rashtrakuta → **Pallava**.
+28. Besnagar = Shaiva cave → Heliodorus **Vaishnava Garuda** pillar.
+29. Mandu = UNESCO with Khajuraho/Sanchi/Bhimbetka → Mandu is **not** WHS.
+30. Virupaksha Hampi = Virupaksha Pattadakal → different ages and dynasties.
+31. Jagannath idols = stone like Lingaraja → **neem wood** triad.
+32. Elephanta = Buddhist-only Ajanta twin → mainly **Shaiva** Trimurti (+ smaller Buddhist group).
+33. Draupadi ratha = largest → **smallest** of the Mamalla set.
+34. Palitana = Mount Abu Dilwara → **Shatrunjaya / Bhavnagar**.
+35. Angkor Wat = Java Borobudur → Angkor = **Cambodia** Vishnu; Borobudur = **Java** Buddhist.
 
 
 ---

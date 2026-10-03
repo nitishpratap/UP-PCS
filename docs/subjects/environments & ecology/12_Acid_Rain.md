@@ -21,7 +21,8 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Acid rain** means wet or dry acidic deposition with pH below **5.6**.
 2. Normal unpolluted rain is already about **pH 5.6** because dissolved CO₂ forms weak carbonic acid — it is **not** pH 7.
@@ -48,9 +49,10 @@ Acid Rain | Causes | Effects | Prevention
 23. Calling CO₂ the chief severe acid-rain driver is wrong; SO₂ and NOx are the pair.
 24. Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) does **not** control acid rain. Keep ozone chemistry out of acid-rain treaty options.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -60,7 +62,8 @@ Acid Rain | Causes | Effects | Prevention
 | **Marble Cancer** | **Eutrophication** | Chemical weathering and yellowing/spalling of calcium carbonate structures (e.g. Taj Mahal) reacting with sulfuric acid to form soluble gypsum (CaSO₄) vs excessive nutrient enrichment of water bodies leading to dense algal blooms and dissolved oxygen crashes | संगमरमर कैंसर (ताजमहल क्षरण) / सुपोषण (जलीय पोषक संवर्धन) |
 | **Gothenburg Protocol (1999)** | **Montreal Protocol (1987)** | UNECE agreement under CLRTAP targeting multi-pollutant abatement of acidification, eutrophication, and ground-level ozone (SO₂, NOx, VOCs, NH₃) vs UNEP treaty targeting the global phase-out of ozone-depleting substances | गोथेनबर्ग प्रोटोकॉल (अम्लीकरण नियंत्रण) / मॉन्ट्रियल प्रोटोकॉल (ओजोन) |
 | **Taj Trapezium Zone (TTZ)** | **Eco-Sensitive Zone (ESZ)** | Specifically demarcated ~10,400 km² protective geographical zone covering Agra, Firozabad, Mathura, and Bharatpur to safeguard the Taj Mahal from industrial air pollution vs buffer belt up to 10 km declared around National Parks under EPA 1986 | ताज ट्रपेज़ियम ज़ोन (10,400 वर्ग किमी) / पारिस्थितिक संवेदनशील क्षेत्र |
----
+
+</details>
 
 ## Must-score facts — pH, acids, Taj, Gothenburg
 

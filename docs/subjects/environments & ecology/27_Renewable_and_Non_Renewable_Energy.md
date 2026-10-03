@@ -22,7 +22,8 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Renewable** sources replenish on a human timescale (sun, wind, water, biomass, geothermal). **Non-renewable** sources are finite stocks (coal, oil, gas, uranium). Notes usually treat **nuclear as non-renewable** even though it is low-carbon.
 2. In Indian usage, **conventional** energy means coal, oil, gas, **large hydro**, and nuclear. **Non-conventional** means solar, wind, biomass, biogas, tidal, geothermal, ocean, and **small hydro ≤25 MW** — treated as roughly equal to **renewable** in many stems.
@@ -61,9 +62,10 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 35. **SATAT** promotes **compressed biogas (CBG)** for transport; oil-marketing companies procure CBG. **GOBAR-Dhan** is the community/dung biogas neighbour scheme — do not invent butane as a major biogas gas.
 36. Biogas forms by **anaerobic** digestion; slurry is useful bio-fertiliser after gas capture.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -73,7 +75,8 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 | **Perform, Achieve and Trade (PAT)** | **Renewable Purchase Obligation (RPO)** | Market-based regulatory mechanism under the National Mission for Enhanced Energy Efficiency (BEE / EC Act 2001) issuing tradable Energy Saving Certificates (ESCerts) to designated energy-intensive industries vs statutory mandate under Electricity Act 2003 requiring power discoms to purchase a minimum percentage of electricity from renewable sources | निष्पादन, उपलब्धि और व्यापार (PAT, ऊर्जा बचत प्रमाण पत्र) / नवीकरणीय खरीद दायित्व (RPO) |
 | **Bureau of Energy Efficiency (BEE)** | **Petroleum Conservation Research Association (PCRA)** | Statutory body established under the Energy Conservation Act 2001 (Ministry of Power) promoting star rating standards for electric appliances and energy conservation codes vs registered society under the Ministry of Petroleum and Natural Gas promoting conservation and fuel efficiency in the petroleum sector | ऊर्जा दक्षता ब्यूरो (BEE, स्टार लेबलिंग) / पेट्रोलियम संरक्षण अनुसंधान संघ (PCRA) |
 | **Biogas** | **Compressed Biogas (CBG)** | Unrefined raw gaseous fuel mixture generated from anaerobic digestion of cattle dung and agro-waste containing ~55–60% methane and ~40% CO₂ vs purified, upgraded methane gas (≥90% CH₄) scrubbed of CO₂ and H₂S and compressed to ~250 bar for use as clean green automotive transport fuel (SATAT initiative) | बायोगैस (कच्ची गोबर गैस) / संपीडित बायोगैस (CBG, परिष्कृत 90%+ मीथेन) |
----
+
+</details>
 
 ## Must-score facts — conventional vs non-conventional
 

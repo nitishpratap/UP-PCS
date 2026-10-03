@@ -11,65 +11,63 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 6 — Nervous System, Hormones, Reproduction and Support</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The structural and functional unit of the nervous system is the **Neuron**; adult neurons reside permanently in the quiescent $G_0$ phase of the cell cycle and **do not divide** (lack active centrioles).
-2. A typical neuron consists of a **Cell Body (Soma/Cyton)** containing Nissl's granules, short branched receptive **Dendrites**, and a single long conducting **Axon** terminating in synaptic knobs; myelin sheath in the peripheral nervous system is secreted by **Schwann cells**.
-3. Two neurons communicate across a microscopic gap called a **Synapse** via chemical messengers called **Neurotransmitters** (e.g. **Acetylcholine**, Noradrenaline, Dopamine, GABA); electrical sparks do not jump across ordinary synapses.
-4. The central nervous system (CNS) is wrapped in three protective fibro-vascular membranes called **Meninges**: outer tough **Duramater**, middle web-like **Arachnoid mater**, and inner delicate vascular **Piamater** (Mnemonic: **DAP**); space between arachnoid and piamater is filled with shock-absorbing **Cerebrospinal Fluid (CSF)**.
-5. **Cerebrum**: Largest part of the human brain (~80% of brain mass); seat of intelligence, conscious thought, memory, reasoning, voluntary motor control, speech (Broca's area), and sensation; right and left cerebral hemispheres are joined internally by a broad transverse curved band of white nerve fibres called the **Corpus Callosum**.
-6. **Hypothalamus**: Situated at the base of the diencephalon; acts as the body's **Thermostat** (regulates core body temperature); controls hunger, thirst, satiety, sleep-wake cycles, emotional responses (anger, fear, pleasure via the limbic system), and regulates the pituitary gland via releasing and inhibiting neurohormones.
-7. **Cerebellum**: Second largest part of the brain; displays an internal tree-like branching pattern of white matter called **Arbor Vitae** ("Tree of Life"); coordinates voluntary muscular contractions, maintains posture, and controls **physical equilibrium and body balance**; alcohol intoxication temporarily depresses the cerebellum, causing muscular uncoordination and a staggering gait.
-8. **Medulla Oblongata**: Continues inferiorly into the spinal cord; houses vital autonomous reflex centres controlling **respiratory rhythm, cardiac rate, arterial blood pressure (vasomotor centre)**, as well as protective reflexes: swallowing, coughing, sneezing, vomiting, and salivation.
-9. Peripheral nerves: Humans possess **$\mathbf{12\text{ pairs}}$ of Cranial Nerves** (arising from brain; Vagus nerve / CN X is the longest and most widely distributed) and **$\mathbf{31\text{ pairs}}$ of Spinal Nerves** (8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal; all spinal nerves are mixed nerves).
-10. Autonomic Nervous System (ANS): **Sympathetic System** prepares the body for intense physical exertion ("Fight or Flight": dilates pupils, accelerates heart, dilates bronchi, inhibits gut peristalsis); **Parasympathetic System** restores calm ("Rest and Digest": constricts pupils, slows heart, stimulates digestive peristalsis and salivation).
-11. A **Reflex Arc** is an involuntary, rapid, automated, stereotyped response to a sensory stimulus that does not require conscious intervention by the cerebral cortex; sequential pathway: **Receptor → Sensory (Afferent) Neuron → Spinal Cord Interneuron → Motor (Efferent) Neuron → Effector Muscle / Gland**.
-12. **The Human Eye**:
-13. Common Optical & Ocular Defects:
-14. **The Human Ear**:
-15. **Endocrine Glands (Ductless Glands)**: Secretions are poured directly into circulating blood; target distant organs; e.g. Pituitary, Thyroid, Parathyroid, Adrenal, Pineal, Thymus.
-16. **Exocrine Glands**: Possess tubular ducts that deliver secretions locally onto an epithelial surface; e.g. Salivary, Sweat, Sebaceous, Lacrimal (tear), Mammary glands.
-17. **Heterocrine / Mixed Glands**: The **Pancreas** acts as both an exocrine gland (acinar cells secrete digestive enzymes via the pancreatic duct) and an endocrine gland (Islets of Langerhans secrete insulin and glucagon into blood).
-18. **The Pituitary Gland (Hypophysis / Master Gland)**:
-19. **The Thyroid Gland**:
-20. **The Parathyroid Glands**:
-21. **The Adrenal Glands (Suprarenal Glands / 4S & 3F Glands)**:
-22. **The Pineal Gland (Epiphysis Cerebri)**: Located on the dorsal roof of the diencephalon; secretes **Melatonin**, which regulates the 24-hour diurnal **Circadian Rhythm (Sleep-Wake Cycle)**, core body temperature, and delays premature puberty.
-23. **The Thymus Gland**: Located behind the sternum in the anterior mediastinum; secretes **Thymosins**, which stimulate the maturation and differentiation of **T-lymphocytes**; acts as the primary "training school" of cellular immunity; prominent in infants, undergoes progressive age-related atrophy after puberty, leading to weakened immunity in the elderly.
-24. **Male Reproductive System**:
-25. **Female Reproductive System & The Menstrual Cycle**:
-26. **Implantation, Placenta & hCG**:
-27. **Contraception & Reproductive Health**:
-28. **The Human Skeletal System (206 Bones in Adult)**:
-29. **Joints of the Human Skeleton**:
-30. **Connective Support Tissues: Tendon vs Ligament**:
-31. **Muscular Physiology & Contraction**:
+1. **Cerebrum**: Largest part of the human brain (~80% of brain mass); seat of intelligence, conscious thought, memory, reasoning, voluntary motor control, speech (Broca's area), and sensation; right and left cerebral hemispheres are joined internally by a broad transverse curved band of white nerve fibres called the **Corpus Callosum**.
+2. **Hypothalamus**: Situated at the base of the diencephalon; acts as the body's **Thermostat** (regulates core body temperature); controls hunger, thirst, satiety, sleep-wake cycles, emotional responses (anger, fear, pleasure via the limbic system), and regulates the pituitary gland via releasing and inhibiting neurohormones.
+3. **Cerebellum**: Second largest part of the brain; displays an internal tree-like branching pattern of white matter called **Arbor Vitae** ("Tree of Life"); coordinates voluntary muscular contractions, maintains posture, and controls **physical equilibrium and body balance**; alcohol intoxication temporarily depresses the cerebellum, causing muscular uncoordination and a staggering gait.
+4. **Medulla Oblongata**: Continues inferiorly into the spinal cord; houses vital autonomous reflex centres controlling **respiratory rhythm, cardiac rate, arterial blood pressure (vasomotor centre)**, as well as protective reflexes: swallowing, coughing, sneezing, vomiting, and salivation.
+5. **Endocrine Glands (Ductless Glands)**: Secretions are poured directly into circulating blood; target distant organs; e.g. Pituitary, Thyroid, Parathyroid, Adrenal, Pineal, Thymus.
+6. **Exocrine Glands**: Possess tubular ducts that deliver secretions locally onto an epithelial surface; e.g. Salivary, Sweat, Sebaceous, Lacrimal (tear), Mammary glands.
+7. **Heterocrine / Mixed Glands**: The **Pancreas** acts as both an exocrine gland (acinar cells secrete digestive enzymes via the pancreatic duct) and an endocrine gland (Islets of Langerhans secrete insulin and glucagon into blood).
+8. **The Pituitary Gland (Hypophysis / Master Gland)**:
+9. **The Thyroid Gland**:
+10. **The Parathyroid Glands**:
+11. **The Adrenal Glands (Suprarenal Glands / 4S & 3F Glands)**:
+12. **The Pineal Gland (Epiphysis Cerebri)**: Located on the dorsal roof of the diencephalon; secretes **Melatonin**, which regulates the 24-hour diurnal **Circadian Rhythm (Sleep-Wake Cycle)**, core body temperature, and delays premature puberty.
+13. **The Thymus Gland**: Located behind the sternum in the anterior mediastinum; secretes **Thymosins**, which stimulate the maturation and differentiation of **T-lymphocytes**; acts as the primary "training school" of cellular immunity; prominent in infants, undergoes progressive age-related atrophy after puberty, leading to weakened immunity in the elderly.
+14. **Male Reproductive System**:
+15. **Female Reproductive System & The Menstrual Cycle**:
+16. **Implantation, Placenta & hCG**:
+17. **Contraception & Reproductive Health**:
+18. **The Human Skeletal System (206 Bones in Adult)**:
+19. **Joints of the Human Skeleton**:
+20. **Connective Support Tissues: Tendon vs Ligament**:
+21. **Muscular Physiology & Contraction**:
+22. **The Neuron (Structural & Functional Unit)**:
+23. **Phylogenetic Distribution Fact**: All multicellular animals possess neurons **except Sponges (Porifera)** and Placozoans. Plants completely lack neurons.
+24. **Peripheral Nerve Geography**:
+25. **Cranial Nerves**: **12 pairs** originating directly from the ventral base of the brain and brainstem, innervating structures of the head, neck, and viscera (e.g. Vagus nerve X).
+26. **Spinal Nerves**: **31 pairs** of mixed nerves emerging bilaterally from the spinal cord segments:
+27. **8 Cervical pairs** ($C_1–C_8$)
+28. **12 Thoracic pairs** ($T_1–T_{12}$)
+29. **5 Lumbar pairs** ($L_1–L_5$)
+30. **5 Sacral pairs** ($S_1–S_5$)
+31. **1 Coccygeal pair** ($Co_1$)
+32. **Autonomic Nervous System (ANS) Dual Antagonism**:
+33. **Sympathetic Division ("Fight or Flight")**: Activated during stress, emergency, and intense exercise; increases heart rate and cardiac contractility, dilates bronchioles, dilates pupils, inhibits gastrointestinal peristalsis and salivation, diverts blood flow from skin and viscera to skeletal muscles; utilizes **Norepinephrine / Noradrenaline** (adrenergic fibres).
+34. **Parasympathetic Division ("Rest and Digest")**: Activated in relaxed, quiescent states; slows heart rate, constricts pupils, stimulates digestive secretions, peristalsis, and glycogen synthesis; mediated primarily via the **Vagus nerve (CN X)**; utilizes **Acetylcholine** (cholinergic fibres).
+35. **Enteric Nervous System (ENS)**: Semi-autonomous intrinsic neural meshwork in the gastrointestinal submucosal and myenteric plexuses; termed the **"Second Brain"**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
-|-----------|-----------|-------------------------------|-----------|
-| **Myopia** | **Hypermetropia** | Image falls in front of retina, near vision clear, corrected by concave lens vs image behind retina, far vision clear, convex lens | निकट दृष्टि / दूर दृष्टि दोष |
-| **Cataract** | **Glaucoma** | Opacity/clouding of crystalline lens vs pathological elevation of intraocular pressure ($>21\text{ mm Hg}$) damaging optic nerve | मोतियाबिंद / काला मोतिया (ग्लूकोमा) |
-| **Tendon** | **Ligament** | Inelastic collagen cord connecting muscle to bone vs elastic tissue connecting bone to bone (sprain = ligament tear) | कंडरा (टेंडन) / स्नायु (लिगामेंट) |
-| **Endocrine Gland** | **Exocrine Gland** | Ductless gland pouring hormones directly into bloodstream vs ducted gland secreting enzymes/mucus/sweat locally | अंतःस्रावी / बहिःस्रावी ग्रंथि |
-| **Oxytocin** | **Prolactin** | Ejects milk from breast and contracts uterus during labour vs synthesises and produces milk in mammary glands | ऑक्सीटोसिन / प्रोलैक्टिन |
-| **Calcitonin** | **Parathyroid Hormone (PTH)**| Lowers blood calcium (hypocalcemic, builds bone) vs raises blood calcium (hypercalcemic, resorbs bone) | कैल्सीटोनिन / पैराथाइरॉइड हार्मोन |
-| **Gigantism** | **Acromegaly** | Childhood GH excess (tall stature before epiphyseal fusion) vs adult GH excess (thickened jaw, hands, feet after fusion) | भीमकायता (जायगैंटिज्म) / एक्रोमेगाली |
-| **Vasectomy** | **Tubectomy** | Surgical cutting and ligation of vas deferens in males vs cutting and ligation of fallopian tubes in females | पुरुष नसबंदी / महिला नसबंदी |
-| **Femur** | **Stapes** | Longest, strongest, heaviest bone of human body (thigh) vs smallest, lightest bone of human body (middle ear, ~3 mm) | फीमर (उर्विका) / स्टेपीज़ |
-| **Ball-and-Socket Joint**| **Hinge Joint** | Multiaxial movement in all planes (shoulder, hip) vs uniaxial movement in one plane like a door (elbow, knee) | कंदुक-खल्लिका / कब्जा संधि |
-| **Sympathetic System** | **Parasympathetic System**| "Fight or Flight" (dilates pupil, speeds heart, stops gut) vs "Rest and Digest" (constricts pupil, slows heart, aids gut) | अनुकंपी / परानुकंपी तंत्र |
-| **Corpus Luteum** | **Graafian Follicle** | Endocrine yellow body secreting progesterone after ovulation vs ovarian follicle maturing egg and secreting estrogen before ovulation | कॉर्पस ल्यूटियम / ग्रैफ़ियन फॉलिकल |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& Negative-Marking Eliminators
+
+1. **Myopia correction**: **Concave** lens; hypermetropia = **convex** lens.
+2. **Thyroxine element**: Needs **iodine** — deficiency → goitre.
+3. **Insulin source**: **Beta cells** of islets of Langerhans — alpha cells make glucagon.
+4. **Adrenaline**: Emergency hormone from adrenal **medulla**; cortex makes steroids.
+5. **Neuron impulse**: Travels axon terminal via synapse with neurotransmitters — not continuous cytoplasm jump in chemical synapses.
+6. **Male vs female gamete**: Sperm is motile and tiny; ovum is larger and non-motile.
+7. **Fertilisation site**: Usually **fallopian tube** (ampulla), not uterus.
+8. **Bone vs cartilage**: Bone is hard with osteocytes; cartilage is flexible with chondrocytes — ear pinna is cartilage.
+9. **Ball-and-socket vs hinge**: Shoulder/hip = ball-and-socket; elbow/knee = hinge.
+10. **Reflex arc**: Sensory → interneuron (often) → motor — brain is not required for simple spinal reflexes.
+
+---
 
 
 ---

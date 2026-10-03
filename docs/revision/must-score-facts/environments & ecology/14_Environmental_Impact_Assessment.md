@@ -11,51 +11,53 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 14 — Environmental Impact Assessment</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **EIA** studies a project’s likely environmental effects **before** approval. The aim is anticipatory prevention, not reactive cleanup.
-2. Legal base is the **Environment (पर्यावरण) (Protection) Act, 1986** (Section **3**). First EIA Notification was **1994**; the current framework is **EIA Notification 2006 (14 September)**.
-3. **Environmental Clearance** is mandatory prior clearance for listed projects.
-4. **Category A** is appraised centrally by **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) through the **EAC**.
-5. **Category B** is appraised by **SEIAA** through **SEAC**. **B1** needs full EIA (usually with public hearing); **B2** is simplified.
-6. Under a **General Condition**, a Category B project in a sensitive area is treated as Category A.
-7. The four (चातुर्याम) classic stages are **screening → scoping → public consultation → appraisal**. Screening applies to Category B only.
-8. **Scoping** fixes the **Terms of Reference (ToR)** (संदर्भ की शर्तें) for the EIA study.
-9. An EIA report covers baseline, impact prediction, mitigation, and an **Environmental Management Plan (EMP)** (पर्यावरण प्रबंधन योजना).
-10. **Rapid EIA** uses one season; **comprehensive EIA** covers all seasons.
-11. MoEFCC/SEIAA **grant** EC. EAC/SEAC only **recommend** (सिफारिश). CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड)/SPCB set standards and monitor — they do **not** grant EC.
-12. **NGT (Act 2010)** hears EC and pollution appeals. **PARIVESH** is MoEFCC’s online EC portal.
-13. **SEA** assesses policies, plans, and programmes upstream of projects. India has project-level EIA law but **no standalone SEA statute**.
-14. SEA references include the Kiev SEA Protocol **2003** (Espoo family) and the EU SEA Directive.
-15. Rio Principle **17** supports EIA for projects with significant impacts.
-16. EC must come **before** construction. Ex-post facto clearance is illegal in the standard line.
-17. Timeline: Bhopal **1984** → EPA **1986** → EIA Notification **1994** → EIA Notification **2006** → NGT Act **2010** → draft EIA amendment debates **2020** (not a full replacement of 2006).
-18. UP examples: Ganga (गंगा) Expressway as Category A; Singrauli TPP expansions; Upper Ganga ESZ plan-level restrictions before project EC.
-19. EIA is project-level; SEA is plan/policy-level — do not merge the acronyms.
-20. Water Act **1974**/Air Act **1981** create consent regimes; they are **not** the EIA enabling Act (**EPA 1986** (पर्यावरण संरक्षण 1986) is).
-21. DEIAA appears in the minor-minerals / B2 district track — not as the Category A central authority.
-22. Public consultation includes hearing plus written comments; skipping it on B1 where required is a process defect.
-23. EMP is mitigation and monitoring inside the EIA package — not a substitute for the EC grant itself.
-24. PARIVESH tracks applications; it does not replace NGT’s appellate role.
+2. **Environmental Clearance** is mandatory prior clearance for listed projects.
+3. **Category A** is appraised centrally by **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) through the **EAC**.
+4. **Category B** is appraised by **SEIAA** through **SEAC**. **B1** needs full EIA (usually with public hearing); **B2** is simplified.
+5. **Scoping** fixes the **Terms of Reference (ToR)** (संदर्भ की शर्तें) for the EIA study.
+6. **Rapid EIA** uses one season; **comprehensive EIA** covers all seasons.
+7. **NGT (Act 2010)** hears EC and pollution appeals. **PARIVESH** is MoEFCC’s online EC portal.
+8. **SEA** assesses policies, plans, and programmes upstream of projects. India has project-level EIA law but **no standalone SEA statute**.
+9. **Environmental Impact Assessment (EIA)** is a systematic study of a proposed project's likely environmental, social, and health effects **before** major decisions are taken.
+10. **Environmental Clearance (EC)** is mandatory for **listed projects** in the Schedule before construction or land preparation.
+11. **Category A** projects are large, high-impact projects appraised centrally by **MoEFCC** through the **Expert Appraisal Committee (EAC)**.
+12. **Category B** projects are appraised by the **State Environment Impact Assessment Authority (SEIAA)** through the **State Expert Appraisal Committee (SEAC)**.
+13. **Screening** applies to **Category B only** and splits projects into **B1** (full EIA required) or **B2** (no full EIA report).
+14. **Rapid EIA** uses one season of baseline data. **Comprehensive EIA** covers all seasons and is more reliable for monsoon-dry variation.
+15. **CPCB and SPCBs** set pollution standards and monitor compliance. They **do not grant EC**.
+16. **PARIVESH** is MoEFCC's online single-window portal for EC applications and tracking.
+17. **NGT (National Green Tribunal)**, under the **NGT Act 2010**, hears appeals against EC decisions.
+18. **Strategic Environmental Assessment (SEA)** evaluates the environmental consequences of **policies, plans, and programmes (PPP)** at the earliest planning stage.
+19. **SEA sits upstream of EIA**. It asks whether a development path is wise **before** individual projects are designed.
+20. **EIA** can only accept, modify, or reject **one pre-selected project**. It cannot question whether an entire sector plan — such as many dams in one basin — is environmentally sound.
+21. **SEA assesses cumulative impacts** when multiple projects together may overwhelm an ecosystem (पारिस्थितिकी तंत्र) even if each passes individual EIA.
+22. **Public participation** in SEA happens when policy choices are still flexible — earlier and cheaper than late-stage project hearings.
+23. **Rio Declaration (1992) Principle 17** calls for **EIA** for proposed activities with significant adverse impact. It does **not** mandate SEA by name.
+24. **Espoo Convention (1991)** covers **transboundary EIA**. The **SEA Protocol (2003)** signed at **Kiev** extends assessment to plans and programmes.
+25. **India has robust project-level EIA** under the 2006 Notification but **no standalone SEA legislation** as of current law.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environmental Impact Assessment (EIA)** | **Strategic Environmental Assessment (SEA)** | Formal analytical process evaluating the potential ecological impacts of a specific *project* (e.g. thermal plant, highway) before sanction vs higher-level systemic evaluation applied to government *policies, plans, and programmes* | पर्यावरण प्रभाव आकलन (EIA, परियोजना स्तर) / रणनीतिक पर्यावरण आकलन (SEA, नीति स्तर) |
-| **Category A Projects** | **Category B Projects** | Large-scale developmental projects requiring mandatory full-scale EIA appraised centrally at Union level by MoEFCC on recommendations of EAC vs smaller projects appraised at State level by SEIAA on recommendations of SEAC | श्रेणी 'ए' (केंद्रीय मूल्यांकन) / श्रेणी 'ब' (राज्य मूल्यांकन) |
-| **Category B1 Projects** | **Category B2 Projects** | State-level projects that undergo complete EIA process and mandatory public hearing due to significant ecological footprint vs smaller Category B projects exempted from EIA study and public consultation, appraised solely on application summary | श्रेणी 'ब1' (EIA अनिवार्य) / श्रेणी 'ब2' (EIA से छूट) |
-| **Terms of Reference (ToR)** | **Environmental Management Plan (EMP)** | Comprehensive boundary document outlining all environmental baseline issues and studies that the project proponent must investigate vs actionable mitigation, monitoring, and institutional plan submitted in the final EIA report | संदर्भ की शर्तें (ToR, आरंभिक ढांचा) / पर्यावरण प्रबंधन योजना (EMP, शमन कार्ययोजना) |
-| **Public Hearing (Consultation)** | **Appraisal** | Statutory public stage where local affected communities and citizens voice concerns and objections to the draft EIA vs detailed scientific scrutiny of final EIA and public hearing proceedings by EAC or SEAC | जन सुनवाई (स्थानीय सहभागिता) / वैज्ञानिक मूल्यांकन (EAC/SEAC) |
-| **National Green Tribunal (NGT)** | **Appellate Authority under Air/Water Acts** | Specialized judicial tribunal established under NGT Act 2010 hearing original environmental disputes and appeals against environmental clearances (EC) vs administrative appellate authorities designated under Water Act 1974 / Air Act 1981 | राष्ट्रीय हरित अधिकरण (न्यायिक अधिकरण) / राज्य अपीलीय प्राधिकरण |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+| Trap | Correct fact |
+|------|----------------|
+| CPCB grants EC | **MoEFCC/SEIAA grant EC** |
+| Screening for Category A | **Screening = Category B only** |
+| EIA after construction | **EC before construction** |
+| EIA = SEA | **EIA = project; SEA = plan/policy** |
+| India has mandatory SEA law | **Project EIA only** |
+| EIA for all projects | **Listed Schedule projects only** |
+| Water Act 1981 base for EIA | **EPA 1986** |
+| NGT established 1986 | **NGT Act 2010** |
+| EAC grants final EC | **EAC recommends; MoEFCC/SEIAA grant** |
+| Rio Principle 17 = SEA | **Principle 17 = project EIA** |
 
 
 ---

@@ -26,7 +26,8 @@
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 26 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Census 2011 total population of Uttarakhand is **1,00,86,292** (~1.01 crore).
 2. Highest population district = **Haridwar** (~18.90 lakh); lowest = **Rudraprayag** (~2.42 lakh).
@@ -55,9 +56,10 @@
 25. Do not swap highest density (**Haridwar**) with lowest density (**Uttarkashi**).
 26. Negative growth belongs to **Pauri** and **Almora** — not to Chamoli/Rudraprayag alone.
 
----
+</details>
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -67,7 +69,7 @@
 | **Highest SC % vs Highest ST %** | Highest SC % = **Bageshwar (27.73%)**; Highest ST % = **Udham Singh Nagar (7.46%)**. |
 | **Highest Overall Literacy vs Male Literacy** | Highest overall = **Dehradun (84.25%)**; Highest male = **Rudraprayag (93.90%)**. |
 
----
+</details>
 
 ## Census 2011 Master District Rankings (All 13 Districts)
 

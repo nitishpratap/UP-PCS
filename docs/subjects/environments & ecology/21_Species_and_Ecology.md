@@ -21,7 +21,8 @@ Red Data Book (रेड डेटा बुक) | IUCN (आईयूसीए�
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 26 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. India’s **Red Data Book** is a **national** catalogue — **BSI** for plants, **ZSI** for animals (both Kolkata). The **IUCN Red List** is the **global** extinction-risk system from IUCN (Gland).
 2. IUCN has nine categories: EX, EW, CR, EN, VU, NT, LC, DD, NE. Risk order puts CR above EN above VU among living threatened tiers.
@@ -50,9 +51,10 @@ Red Data Book (रेड डेटा बुक) | IUCN (आईयूसीए�
 25. CMS covers migratory species; Ramsar covers wetlands; do not swap those treaty jobs when ecosystems are asked.
 26. Dudhwa = Terai grassland–forest and barasingha; Sundarbans = mangrove; Lakshadweep/Mannar = coral — keep the flagship map clean.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -63,7 +65,8 @@ Red Data Book (रेड डेटा बुक) | IUCN (आईयूसीए�
 | **Coral Bleaching** | **Ocean Acidification** | Stress response where coral polyps expel their symbiotic photosynthetic zooxanthellae due to elevated sea surface temperatures turning white vs chemical lowering of ocean pH caused by oceanic absorption of excess atmospheric CO₂ dissolving calcium carbonate aragonite structures | प्रवाल विरंजन (ऊष्मा तनाव से शैवाल निष्कासन) / महासागरीय अम्लीकरण (pH ह्रास) |
 | **Neritic Marine Zone** | **Oceanic (Pelagic) Zone** | Shallow coastal marine zone extending from low-tide mark to the edge of the continental shelf (depth up to 200 m) with abundant light and high marine productivity vs deep open marine waters beyond the continental shelf edge where nutrients and light drop precipitously | नेरिटिक मंडल (महाद्वीपीय मग्नतट) / खुला महासागरीय मंडल (पेलाजिक) |
 | **Zooxanthellae** | **Coral Polyp** | Photosynthetic single-celled dinoflagellate microalgae living symbiotically within coral tissues providing up to 90% of their organic nutrients vs tiny, soft-bodied marine invertebrate animal belonging to Phylum Cnidaria that secretes a hard calcium carbonate skeleton | ज़ूजैंथेली (सहजीवी प्रकाश-संश्लेषी शैवाल) / प्रवाल पॉलीप (कैल्शियम स्रावी जंतु) |
----
+
+</details>
 
 ## Must-score facts — Red List, Ramsar, biomes
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 9 — Indian Festivals & Fairs</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -30,11 +28,7 @@ hide:
 | Folk | Tribal | Peasant/community (Braj Holi) vs adivasi ritual (Sarhul) | लोक / आदिवासी |
 | Eid-ul-Fitr | Eid-ul-Adha | End of Ramadan vs Bakrid / sacrifice | ईद उल फितर / बकरीद |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Kumbh / fairs
 
@@ -79,18 +73,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The four Kumbh sites are Prayagraj (प्रयागराज), Haridwar (हरिद्वार), Nashik, and Ujjain (उज्जैन). Their rivers are Ganga–Yamuna–Saraswati, Ganga, Godavari, and Shipra. Pushkar is not a Kumbh site.
+- **Exam Anchor:** Maha Kumbh at Prayagraj ran from 13 January to 26 February 2025, about 45 days.
+- **Exam Anchor:** Pushkar Kumbh of May 2025 was at Mana / Keshav Prayag in Uttarakhand (उत्तराखंड). It is not the Rajasthan camel fair.
+- **Exam Anchor:** Garba (गरबा) of Gujarat entered UNESCO ICH in December 2023.
+- **Exam Anchor:** Durga Puja of Kolkata entered UNESCO ICH in 2021.
+- **Exam Anchor:** Kumbh Mela (कुंभ मेला) entered UNESCO ICH in 2017.
 - **Exam Anchor:** Kumbh Mela is on the UNESCO Intangible Heritage list from 2017. Magh Mela is the annual bathing fair at Prayagraj; it is not the twelve-year mega Kumbh at every site.
-- **Exam Anchor:** Maha Kumbh at Prayagraj in 2025 ran from 13 January to 26 February for about 45 days at the Sangam.
 - **Exam Anchor:** Pushkar Fair (पुष्कर मेला) is the Rajasthan (थार) camel and livestock fair of Kartik near Ajmer. Pushkar Kumbh of May 2025 was at Mana / Keshav Prayag in Uttarakhand, not Rajasthan and not Uttar Pradesh.
 - **Exam Anchor:** Pongal (पोंगल) is the Tamil Nadu January harvest festival. Onam (ओणम) is the Kerala Aug–Sep harvest linked to Mahabali. Do not swap the two states.
-- **Exam Anchor:** Bihu (बिहू) is the Assam harvest trio. Hornbill is the Nagaland cultural showcase at Kisama, usually 1–10 December.
-- **Exam Anchor:** Baisakhi (बैसाखी) and Lohri belong to Punjab (Lohri also Haryana–Himachal). Nuakhai (नुआखाइ) is the Odisha (ओडिशा) harvest. Vishu (विशु) is the Kerala New Year, not Ugadi.
-- **Exam Anchor:** Ugadi (उगादि) is New Year in Andhra Pradesh, Telangana, and Karnataka. Gudi Padwa is the Maharashtra New Year in the same season. Bathukamma (बतुकम्मा) is the Telangana floral festival.
-
-</details>
 
 ---
 

@@ -15,7 +15,8 @@ Raja (राजा) Ram Mohan Roy (राम मोहन राय) | Ishwar Ch
 
 ---
 
-## Consolidated — 31 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 31 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Raja Ram Mohan Roy** founded **Atmiya Sabha (1815)** and **Brahmo Sabha / Brahmo Samaj (1828)**. He campaigned against Sati; **Bentinck** (बेंटिंक) banned Sati in **1829**.
 2. **Ishwar Chandra Vidyasagar** pushed the **Widow Remarriage Act, 1856** and served as Principal of Sanskrit College, Calcutta. Do not swap him with D.K. Karve’s western-India work.
@@ -49,10 +50,10 @@ Raja (राजा) Ram Mohan Roy (राम मोहन राय) | Ishwar Ch
 30. Law ladder: Sati ban **1829** → slavery illegal **1843** (Ellenborough) → Widow Remarriage **1856** → Native/Brahmo Marriage Act **1872** (ages 14/18) → Age of Consent **1891** (Malabari; Tilak opposed) → **Sharda (शारदा) Act 1929** (Har Bilas Sharda; girls 14 / boys 18).
 31. **Indian National Social Conference (1887)** = Ranade + Raghunath Rao (social issues kept off Congress (कांग्रेस) platform). **Bahujan Samaj (1910)** = Mukund Rao Patil / Shankar Rao Jadhav.
 
+</details>
 
----
-
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -71,7 +72,7 @@ Raja (राजा) Ram Mohan Roy (राम मोहन राय) | Ishwar Ch
 | Wahabi movement | Ahmadiyya movement | Sayyid Ahmad of Rae Bareli’s militant revivalist stream vs Mirza Ghulam Ahmad’s peaceful messianic stream | वहाबी / अहमदिया |
 | Aligarh | Sir Syed Ahmad Khan | The institution (MAO College, 1875) vs its founder-reformer; always paired, never separated in a match | अलीगढ़ / सर सैयद |
 
----
+</details>
 
 ## Must-score facts — founders, years, regions
 

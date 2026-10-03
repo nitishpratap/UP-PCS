@@ -11,70 +11,69 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 11 — Ancient Indian Administration</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Political time-order for titles and inscriptions runs **Vedic rajan (राजन) → Magadha houses → Maurya → Shunga / Kharavela / Kushan / Satavahana → Gupta → Harsha**.
-2. **Ashoka** on edicts is **Devanampiya Piyadassi** (देवानांप्रिय प्रियदर्शी). His personal name appears at **Maski** (and Gujarra, Nittur, Udegolam). **Bindusara** is **Amitraghata** (अमित्रघात).
-3. **Chandragupta I** is the first Gupta **Maharajadhiraja** (महाराजाधिराज). **Chandragupta II** is **Vikramaditya** (विक्रमादित्य). **Harsha** is Chinese **Siladitya** (शीलादित्य). **Kanishka** is **Devaputra** (देवपुत्र).
-4. **Gautamiputra Satakarni** is **Dakshinapathapati** (दक्षिणापथपति). **Kharavela** is **Mahameghavahana** (महामेघवाहन). **Rudradaman I** is **Mahakshatrapa** (महाक्षत्रप). **Mahapadma Nanda** is **Ekarat / Sarvakshatrantaka** (एकराट् / सर्वक्षत्रान्तक).
-5. **Hathigumpha** = **Kharavela**. **Ayodhya** (अयोध्या) = Pushyamitra’s two **ashwamedhas**. **Besnagar** = Heliodorus, **not** Pushyamitra.
-6. **Prayag Prashasti** (प्रयाग प्रशस्ति) = **Samudragupta** (समुद्रगुप्त) by **Harishena** on the Allahabad Ashokan shaft. **Aihole** (ऐहोल) = **Pulakeshin II** stopping Harsha.
-7. **Girnar / Junagadh** rock carries three ages: **Ashoka**, then **Rudradaman** (रुद्रदामन), then **Skandagupta**.
-8. **Sarvavarman–Gaya copper plate** is **NOT** matched. The Gaya plate is **Samudragupta**. Sarvavarman’s fact is the **Asirgarh** seal.
-9. Correct Maukhari / later pairs: **Ishanavarman–Haraha**, **Ishvaravarman–Jaunpur**, **Jivitagupta II–Deo-Baranark**.
-10. Vedic **Bhagadugha** (भागदुघ) is the **revenue** collector of the king’s share. **Akshavapa** (अक्षावाप) is the **dice / gambling** officer — the classic trap.
-11. Vedic **Sabha** (सभा) is the smaller elder council. **Samiti** (समिति) is the larger tribal assembly. There is no Samaharta or Uparika in the Vedic list.
-12. Mauryan **Samaharta** (समाहर्ता) collects revenue. **Sannidhata** (सन्निधाता) stores the treasury. Do not reverse collector and treasurer.
-13. Megasthenes’ **Agronomai** are Mauryan **revenue** officers. Weights belong to the *pautavadhyaksha* (पौतवाध्यक्ष); roads are the wrong option.
-14. Ashoka appointed **dhamma-mahamatras** (धम्म महामात्र) in the **14th** year after coronation (RE V). The claim that dhamma’s definition comes from the *Rahulovada-sutta* is **false**.
-15. Gupta province is **bhukti** (भुक्ति) under **uparika** (उपरिक). District is **vishaya** (विषय) under **kumaramatya** (कुमारमात्य). **Sandhivigrahika** (संधिविग्रहिक) handles peace and war.
-16. Harsha reuses Gupta titles at a higher grade: **mahasandhivigrahika** (महासांधिविग्रहिक), **mahapratihara** (महाप्रतिहार), **bhandagaradhikarana** (भाण्डागाराधिकरण), still with **uparika** (उपरिक). He invents no new machine.
-17. Mauryan rule is **centralised** through salaried **amatyas** (अमात्य). Gupta and Harsha run a looser **samanta** (सामंत) (feudatory) system.
-18. Kautilya’s **saptanga** (सप्तांग) has seven limbs: swami (स्वामी), amatya (अमात्य), janapada (जनपद), durga (दुर्ग), kosha (कोष), bala (बल), and mitra (मित्र). Adhyakshas (अध्यक्ष) are department heads under that machine.
-19. **Nasik prasasti** of Gautami Balashri records Gautamiputra against Nahapana. **Naneghat** records queen **Naganika** with Satakarni I.
-20. **Mehrauli** (मेहरौली) iron pillar’s “Chandra” is usually **Chandragupta II**. **Bhitari** pillar is **Skandagupta** versus the Hunas. **Banskhera** and **Madhuban** are Harsha grants.
-21. Samudragupta’s south contemporaries: **Dhananjaya–Kusthalapura**, **Nilaraja–Avamukta**, **Ugrasena–Palaka**, **Vishnugopa–Kanchi**.
-22. Coin evidence ladder: punch-marked silver → Indo-Greek portraits → Kushan gold → Gupta dinara; Chandragupta II’s **silver ~33 grains** proves the western Shaka victory.
-23. The **Vishnu Purana** carries Maurya genealogy. The **Vayu Purana** does **not** throw light on Gupta governance.
-24. **Rajuka** (रज्जुक) is Mauryan district land and justice. **Uparika** (उपरिक) is Gupta provincial governor. Do not swap the ages.
-25. Best king ID order is **inscription first**, then coins, then Puranas. Foreign accounts (Megasthenes, Fa-Hien, Xuanzang, I-tsing) sit beside that ladder.
-26. **Chandragupta Maurya** (चंद्रगुप्त मौर्य) is Greek **Sandrokottos** (~322 BCE). He is **not** Chandragupta I or Chandragupta II of the Gupta house.
-27. **Rummindei** (रुम्मिनदेई) pillar records Ashoka’s Lumbini visit. **Rabatak** gives Kanishka genealogy. **Haraha** (554 CE) is Maukhari Ishanavarman in Barabanki, UP.
-28. Title inflation grows from Gupta grants onward. **Chakravartin** (चक्रवर्ती) is the ideal wheel-turning monarch, not one king’s exclusive stamp; a feudatory is **samanta / mahasamanta** (सामंत / महासामंत).
-29. Vedic core officers are **purohita** (priest-adviser), **senani** (army), and **gramani** (village head), beside **bhagadugha / sangrahitri / akshavapa**. There is no Samaharta or Uparika in the Vedic list.
-30. Vedic **Vidatha** is the oldest kin-ritual gathering and fades first. **Sabha** becomes more exclusive; **Samiti** remains the broader tribal body in Early Vedic memory.
-31. Mauryan provinces (*pradesha / chakra*) place royal princes (**kumara / aryaputra**) at **Taxila, Ujjain, Suvarnagiri, and Tosali**. Village stack runs empire → province → *ahara/vishaya* → *sthanika / gopa* → village.
-32. Mauryan revenue language: **bhaga** (produce share), **pindakara** (pasture), **sulka** (tolls). **Samaharta** collects; **Sannidhata** stores; ***pautavadhyaksha*** does weights.
-33. Mauryan spies (*gudhapurusha*) include secret agents, wandering ascetics, and household informers — a **centralised** watch. Gupta–Harsha lean on **samanta** ties instead.
-34. Gupta ladder is **Bhukti (uparika) → Vishaya (kumaramatya) → Vithi → Grama**. Land grants thicken as **agrahara / brahmadeya**. Harsha reuses the same titles at **maha-** grade.
-35. Foreign administration witnesses: **Megasthenes** (*Indica*) for Mauryas; **Fa-Hien** for Chandragupta II; **Xuanzang** for Harsha; **I-tsing** after Harsha. Use each for the age it saw.
-36. Harsha’s state is **personal**: **mahasamanta** feudatories and agrahara grants continue, and the machine collapses when he dies in **647**. Post-Gupta north shows clearer lord–vassal land control than Mauryan central pay.
+1. **Ashoka** on edicts is **Devanampiya Piyadassi** (देवानांप्रिय प्रियदर्शी). His personal name appears at **Maski** (and Gujarra, Nittur, Udegolam). **Bindusara** is **Amitraghata** (अमित्रघात).
+2. **Chandragupta I** is the first Gupta **Maharajadhiraja** (महाराजाधिराज). **Chandragupta II** is **Vikramaditya** (विक्रमादित्य). **Harsha** is Chinese **Siladitya** (शीलादित्य). **Kanishka** is **Devaputra** (देवपुत्र).
+3. **Gautamiputra Satakarni** is **Dakshinapathapati** (दक्षिणापथपति). **Kharavela** is **Mahameghavahana** (महामेघवाहन). **Rudradaman I** is **Mahakshatrapa** (महाक्षत्रप). **Mahapadma Nanda** is **Ekarat / Sarvakshatrantaka** (एकराट् / सर्वक्षत्रान्तक).
+4. **Hathigumpha** = **Kharavela**. **Ayodhya** (अयोध्या) = Pushyamitra’s two **ashwamedhas**. **Besnagar** = Heliodorus, **not** Pushyamitra.
+5. **Prayag Prashasti** (प्रयाग प्रशस्ति) = **Samudragupta** (समुद्रगुप्त) by **Harishena** on the Allahabad Ashokan shaft. **Aihole** (ऐहोल) = **Pulakeshin II** stopping Harsha.
+6. **Girnar / Junagadh** rock carries three ages: **Ashoka**, then **Rudradaman** (रुद्रदामन), then **Skandagupta**.
+7. **Sarvavarman–Gaya copper plate** is **NOT** matched. The Gaya plate is **Samudragupta**. Sarvavarman’s fact is the **Asirgarh** seal.
+8. **Nasik prasasti** of Gautami Balashri records Gautamiputra against Nahapana. **Naneghat** records queen **Naganika** with Satakarni I.
+9. **Mehrauli** (मेहरौली) iron pillar’s “Chandra” is usually **Chandragupta II**. **Bhitari** pillar is **Skandagupta** versus the Hunas. **Banskhera** and **Madhuban** are Harsha grants.
+10. **Rajuka** (रज्जुक) is Mauryan district land and justice. **Uparika** (उपरिक) is Gupta provincial governor. Do not swap the ages.
+11. **Chandragupta Maurya** (चंद्रगुप्त मौर्य) is Greek **Sandrokottos** (~322 BCE). He is **not** Chandragupta I or Chandragupta II of the Gupta house.
+12. **Rummindei** (रुम्मिनदेई) pillar records Ashoka’s Lumbini visit. **Rabatak** gives Kanishka genealogy. **Haraha** (554 CE) is Maukhari Ishanavarman in Barabanki, UP.
+13. **Mahapadma Nanda** is **Ekarat** (एकराट्) and **Sarvakshatrantaka** (सर्वक्षत्रान्तक).
+14. **Chandragupta Maurya** is Greek **Sandrokottos**.
+15. **Bindusara** is **Amitraghata** (अमित्रघात) / **Amitrochates**.
+16. **Ashoka** is **Devanampiya Piyadassi** (देवानांप्रिय प्रियदर्शी) on most edicts.
+17. **Kanishka** is **Devaputra** (देवपुत्र).
+18. **Gautamiputra Satakarni** is **Dakshinapathapati** (दक्षिणापथपति).
+19. **Kharavela** is **Mahameghavahana** (महामेघवाहन) of the Chedi line.
+20. **Rudradaman I** is **Mahakshatrapa** (महाक्षत्रप).
+21. **Sri Gupta** and **Ghatotkacha** are **Maharaja** (महाराज) only.
+22. **Chandragupta I** is the first Gupta **Maharajadhiraja** (महाराजाधिराज).
+23. **Samudragupta** is Maharajadhiraja and *kaviraja* (कविराज). Digvijaya is the **policy**, not a coin-title.
+24. **Chandragupta II** is **Vikramaditya** (विक्रमादित्य).
+25. **Kumaragupta I** is **Mahendraditya** (महेन्द्रादित्य).
+26. **Skandagupta** is **Kramaditya** (क्रमादित्य) or Vikramaditya on some types.
+27. **Harsha** is Chinese **Siladitya** (शीलादित्य). He is also Paramabhattaraka (परमभट्टारक).
+28. **Chakravartin** (चक्रवर्ती) is the ideal wheel-turning monarch. It is not one king’s exclusive stamp.
+29. **Ashoka** issues Major and Minor Rock Edicts and Pillar edicts. The personal name is rare. It appears at **Maski**. His **Rummindei** pillar records the Lumbini visit.
+30. **Girnar / Junagadh** carries Ashoka, then Rudradaman, then Skandagupta. Three ages sit on **one** rock.
+31. **Pushyamitra Shunga** is recorded at **Ayodhya** for two **ashwamedhas**.
+32. **Heliodorus** raises the **Besnagar** Bhagavata pillar. It is **not** Pushyamitra.
+33. **Kharavela** is recorded at **Hathigumpha**, Udayagiri. Harsha is a common wrong option.
+34. **Gautamiputra Satakarni** is recorded in the **Nasik** (नासिक) prasasti of Gautami Balashri. He beats Nahapana.
+35. **Naganika** is recorded at **Naneghat**, with Satakarni I.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Rajan | Maharajadhiraja | Vedic chief vs Gupta/Harsha **king of kings** | राजन / महाराजाधिराज |
-| Devanampiya | Vikramaditya | Ashoka on edicts vs **Chandragupta II** | देवानंप्रिय / विक्रमादित्य |
-| Sabha | Samiti | Smaller/elder council vs larger tribal assembly | सभा / समिति |
-| Bhagadugha | Akshavapa | Vedic **revenue** vs **dice** (2023 C) | भागदुघ / अक्षावाप |
-| Bhagadugha | Samaharta | Vedic share-collector vs Mauryan **chief** collector | भागदुघ / समाहर्ता |
-| Samaharta | Sannidhata | Collects vs **stores** | समाहर्ता / संनिधाता |
-| Agronomai | Pautavadhyaksha | Megasthenes **revenue** vs weights | एग्रोनोमाई / पौतवाध्यक्ष |
-| Rajuka | Uparika | Mauryan district land/justice vs Gupta **province** | राजुक / उपरिक |
-| Sandhivigrahika | Mahasandhivigrahika | Gupta war-peace vs Harsha’s **maha-** grade | संधिविग्रहिक / महा- |
-| Hathigumpha | Prayag Prashasti | **Kharavela** vs **Samudragupta** | हाथीगुम्फा / प्रयाग |
-| Ayodhya inscription | Besnagar | Pushyamitra ashwamedha vs **Heliodorus** | अयोध्या / बेसनगर |
-| Gaya copper plate | Asirgarh seal | **Samudragupta** plate vs Maukhari **Sarvavarman** | गया / असीरगढ़ |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Facts
+
+1. **Both statements always true** → read each stem; Rahulovada-type distractors flip one statement.
+2. **Jivitagupta–Deo-Baranark is the wrong Maukhari pair** → the wrong pair in that match set is **Sarvavarman–Gaya**.
+3. **Bhagadugha = gambling** → **Akshavapa**. Bhagadugha = revenue.
+4. **Agronomai = roads / weights** → **revenue** (2020).
+5. **Hathigumpha = Harsha / Ashoka / Kanishka** → **Kharavela**.
+6. **Pushyamitra ashwamedha = Besnagar / Hathigumpha** → **Ayodhya**.
+7. **Vikramaditya = Samudragupta** → **Chandragupta II**.
+8. **Devanampiya = Gupta title** → **Ashoka**.
+9. **Samaharta = treasurer** → **Sannidhata** stores. Samaharta collects.
+10. **Uparika = Mauryan district** → Gupta/Harsha **province**.
+11. **Gaya plate = Sarvavarman** → **Samudragupta**. Sarvavarman = Asirgarh.
+12. **Start the Gupta line at Chandragupta II** → Sri Gupta → Ghatotkacha → **Chandragupta I**.
+13. **Vayu Purana = Gupta admin** → 2023 stmt 2 false.
+14. **Allahabad pillar is only Gupta** → Ashokan shaft reused.
+15. **Aihole = Harsha’s prasasti** → **Ravikirti** for Pulakeshin II.
+16. **Guptas more central than Mauryas** → opposite.
+17. **Dhananjaya = Avamukta** → **Kusthalapura**.
+18. **Sabha = Mauryan board** → Vedic assembly.
 
 
 ---

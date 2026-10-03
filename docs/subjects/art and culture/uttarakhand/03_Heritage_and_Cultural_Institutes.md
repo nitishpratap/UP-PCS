@@ -7,7 +7,8 @@
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Nanda Devi (नंदा देवी) National Park** (**1988**) and **Valley of Flowers (फूलों की घाटी) National Park** (extension **2005**) form **one** UNESCO World Natural Heritage property in Chamoli (चमोली).
 2. **Ramman (रम्माण) (2009)** is UNESCO ICH of **Saloor-Dungra (सलूर-डुंगरा) (Chamoli)** dedicated to **Bhumiyal Devta** (भूमियाल देवता).
@@ -41,6 +42,8 @@
 30. IIT Roorkee foundation is **1847**; IIT status year is **2001**. Do not treat them as one stamp.
 31. ASI Dehradun Circle and state heritage bodies protect monuments; UNESCO WHS status for VoF–Nanda Devi is a separate international inscription.
 32. Garhwal painting is a **Pahari** hill school. It is not a Rajasthan plains Rajput atelier and not Kangra itself.
+
+</details>
 
 ## 1. World Heritage (विश्व धरोहर) & Monumental Sites in Uttarakhand
 
@@ -195,7 +198,8 @@
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Difference / Trap Clarification |
 | :--- | :--- | :--- |
@@ -208,7 +212,7 @@
 | **IIT Roorkee foundation** | **IIT status year** | Established in **1847** as Thomason College; converted to 7th IIT in **2001**. |
 | **FRI Main Building** | **FRI Foundation** | Founded in **1906**; grand Greco-Roman building inaugurated in **1929** by Lord Irwin. |
 
----
+</details>
 
 ## UKPCS Real Exam PYQ Bank
 

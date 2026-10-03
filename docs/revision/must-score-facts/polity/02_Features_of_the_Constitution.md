@@ -11,80 +11,79 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 2 — Features of the Constitution</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. India’s Constitution is the **lengthiest written** Constitution of any sovereign country. It is a **single** Constitution for both the Union and the States (except earlier J&K anomaly).
-2. India’s **type of government** is **Parliamentary** plus a **Democratic Republic**. Its **polity structure** is a **quasi-federal Union** — not a Presidential system and not a pure classical federation.
-3. **B.R. Ambedkar** (बी.आर. अम्बेडकर) described the design as **federal in form but unitary in spirit**. Indian federation did **not** arise from an agreement among States, and States have **no right to secede**.
-4. In the parliamentary model the **President** is the **nominal** executive and the **Prime Minister** with the Council of Ministers is the **real** executive. Collective responsibility is to the **Lok Sabha** (लोकसभा).
-5. The Constitution blends **rigidity and flexibility**. Many changes use **Article 368** (अनुच्छेद 368), but paths such as **Articles 2–4** and **Article 169** use only a **simple majority** of Parliament and are **outside** Article 368.
-6. Three amendment tracks exist: **simple majority** (e.g., Arts. 2–4, 169); **special majority** under Article **368**; and **special majority plus ratification by half the States** for federal provisions.
-7. **Article 1** calls India a **Union of States**. The word **“federation”** is not used anywhere in the Constitution. Parliament may alter State areas, boundaries, and names under **Article 3**.
-8. Dual polity with a **strong Centre** is labelled **quasi-federal**. Scholar facts: **Wheare** = quasi-federal; **Austin** = cooperative; **Morris-Jones** = bargaining; **Jennings** = centralising tendency; **Alexandrowicz** = sui generis.
-9. Salient package facts: **Fundamental Rights (मौलिक अधिकार) + DPSP + Fundamental Duties (मौलिक कर्तव्य)**; a **Secular** State; **single citizenship**; **universal adult franchise**; an **independent** and **integrated** judiciary; Emergency provisions; and independent constitutional bodies.
-10. The third tier of government arrived with the **73rd and 74th Amendments in 1992** (Panchayats and Municipalities).
-11. Voting (गणपूर्ति) age became **18** (from 21) by the **61st Amendment (1988)**. Universal adult franchise is supported by **Article 326**.
-12. The **Basic Structure** doctrine from ***Kesavananda (केशवानंद भारती 1973) Bharati* (1973)** limits amending power. Later *Minerva Mills* (1980) reinforced that Parliament cannot destroy that core.
-13. Basic-structure chronology (Must know): *Shankari Prasad* (1951) → *Sajjan Singh* (1965) → *Golaknath* (गोलकनाथ 1967) (1967) → **24th Amendment (1971)** → ***Kesavananda* (1973)** → *Indira Nehru (नेहरू) Gandhi (गांधी)* (1975) → **42nd (1976)** → ***Minerva Mills* (1980)**.
-14. The Preamble opens with **“We, the People”** and describes India as a **Sovereign Socialist Secular Democratic Republic**. The word **Federal** is **not** in the Preamble.
-15. Preamble keyword counts: **Justice** has **three** limbs (social, economic, political); **Liberty** has **five** (thought, expression, belief, faith, worship); **Equality** has **two** (status, opportunity); **Fraternity** aims at **two** (dignity of the individual, and the unity and integrity of the Nation).
-16. The Preamble’s date line is **26 November 1949** (Miti Margashirsha Shukla Saptami, Samvat 2006 Vikrami). On **26 January 1950** the constitutional status in force was only **Sovereign Democratic Republic**.
-17. The **42nd Amendment (1976)** added **Socialist** and **Secular**, and inserted **integrity** alongside unity. Do not push those words back to 1950.
-18. The Preamble is a **part** of the Constitution after *Kesavananda* (earlier rejected in *Berubari*), but it is **not enforceable (non-justiciable)**. **N.A. Palkhivala** called it the Constitution’s **identity card**, **K.M. Munshi** called it **political horoscope**.
-19. Borrowed-feature facts: **UK** — parliamentary system, writs, rule of law, bicameralism; **USA** — Fundamental Rights, judicial review, independent judiciary (स्वतंत्र), impeachment of President; **Ireland** — DPSP, RS nomintions; **Canada** — residuary powers with Centre, advisory jurisdiction of SC.
-20. Extended Borrowings: **Australia** — Concurrent List (समवर्ती सूची), joint sitting (संयुक्त बैठक); **Germany (Weimar)** — Emergency FR suspension; **Japan** — procedure (प्रक्रिया) established by law; **South Africa** — amendment procedure, RS elections; **USSR** — Fundamental Duties, justice ideals; **France** — Republic, liberty, equality, fraternity.
-21. The **GOI Act 1935** provided the structural (संरचनात्मक) skeleton (federal scheme, judiciary, governors, emergency powers, PSCs).
-22. **Universal adult franchise** and the **Basic Structure** politics are treated as **Indian originality**, not a copy of the 1935 Act.
-23. Residuary powers rest with the **Centre** on the **Canada** pattern (Article 248). Do not place them with the States as in the USA.
-24. Independent judiciary means freedom from organ control; **integrated** judiciary means **one hierarchy** (SC at apex → HC → Subordinate courts). Do not swap the two meanings.
-25. Rule of law means no one is above the law (Dicey); **constitutional supremacy** means the Constitution is the highest law.
-26. India synthesises **parliamentary law-making** with **judicial review** — neither pure UK parliamentary sovereignty nor pure USA judicial supremacy.
-27. Originally (1950) there were **395 Articles**, **22 Parts**, and **8 Schedules**. Now it has 12 Schedules and 25 Parts.
-28. In normal times the system works **federally**; in Emergency it becomes **unitary** — a unique flexibility Ambedkar stressed against rigid federations.
-29. Cooperative federalism stresses Centre–State collaboration (Austin’s line); competitive federalism stresses States competing for growth — both appear in current-affairs (GST (वस्तु एवं सेवा कर) Council (जीएसटी परिषद), NITI (नीति) Aayog (नीति आयोग)).
-30. The Ideals of **Justice** in Preamble are inspired by the **Russian Revolution (1917)**, while **Liberty, Equality, Fraternity** are inspired by the **French Revolution (1789)**.
-31. The **National Flag** (Pingali Venkayya; Ashoka Chakra with **24** spokes; ratio **3:2**) was adopted by the Assembly on **22 July 1947**. The **State Emblem** (Sarnath Lion Capital; motto **Satyameva Jayate** from the Mundaka Upanishad) was adopted on **26 January 1950**.
-32. **Jana Gana Mana** (National Anthem) and **Vande Mataram** (National Song) were adopted on **24 January 1950**; full anthem rendition is about **52 seconds**. The **National Calendar** follows the **Saka** era (from **22 March 1957**), not Vikram.
+1. **B.R. Ambedkar** (बी.आर. अम्बेडकर) described the design as **federal in form but unitary in spirit**. Indian federation did **not** arise from an agreement among States, and States have **no right to secede**.
+2. **Article 1** calls India a **Union of States**. The word **“federation”** is not used anywhere in the Constitution. Parliament may alter State areas, boundaries, and names under **Article 3**.
+3. **Universal adult franchise** and the **Basic Structure** politics are treated as **Indian originality**, not a copy of the 1935 Act.
+4. **Jana Gana Mana** (National Anthem) and **Vande Mataram** (National Song) were adopted on **24 January 1950**; full anthem rendition is about **52 seconds**. The **National Calendar** follows the **Saka** era (from **22 March 1957**), not Vikram.
+5. **Lengthiest written** Constitution of any sovereign country.
+6. **Blend of rigidity and flexibility** (Article 368 plus simple-majority paths).
+7. **Federal system with unitary bias** — often called **quasi-federal** (K.C. Wheare).
+8. **Parliamentary** form of government (UK Westminster model adapted).
+9. **Fundamental Rights + DPSP + Fundamental Duties**.
+10. **Secular** State; **Universal Adult Franchise**; **Single citizenship**.
+11. **Independent** and **integrated** judiciary with judicial review.
+12. **Basic Structure** doctrine limits amending power.
+13. **B.R. Ambedkar** (Constituent Assembly (संविधान सभा)): the Constitution is **“federal in form but unitary in spirit.”**
+14. **Ambedkar’s flexibility fact:** in **normal times** it is designed to work **federally**; in **Emergency / war** it can work **like a unitary system** — unlike a rigid federation such as the USA, which cannot switch form.
+15. **Ambedkar’s origin fact:** Indian federation is **not** the result of an **agreement among States** — States have **no right to secede**; Parliament can alter boundaries (**Art. 3**).
+16. **Single Constitution** for both Centre and States (unlike USA’s dual constitutional tradition).
+17. **Trap:** Changing State boundaries (Art. 3) needs only Parliament’s simple majority path + State’s view (not binding) — often cited as flexible/unitary tilt.
+18. **Article 1:** India, that is Bharat, shall be a **Union of States** — the word “federation” is not used.
+19. **Emergency provisions (Part XVIII)** — federal fabric becomes unitary in practice.
+20. **All-India Services** (IAS/IPS/IFS); Governor appointed by Centre; States’ financial dependence.
+21. **Nominal executive:** President (**Arts. 53, 74**).
+22. **Real executive:** Council of Ministers headed by the **Prime Minister** (**Arts. 74, 75**).
+23. **Majority / coalition (गठबंधन) rule:** The party or coalition with a **majority in the Lok Sabha** forms the government; no separate presidential election for executive power.
+24. **Dual executive:President** = ceremonial / constitutional head; **Prime Minister** = real head of government — unlike the USA where one person is both head of state and head of government.
+25. **Collective responsibility:** The **Council of Ministers** stands and falls **together**; a no-confidence (अविश्वास प्रस्ताव) motion against the government in the Lok Sabha can bring down the entire Cabinet.
+26. **Individual responsibility:** Each minister holds office during the **pleasure of the President**, but convention follows the PM; a minister may resign for a portfolio failure.
+27. **Political homogeneity:** Ministers normally belong to the **same party or coalition** as the PM — unity of policy and discipline.
+28. **Double membership:** Ministers are **members of Parliament** (**Art. 75(5)**) — executive drawn from legislature; fusion, not strict separation.
+29. **Leadership of the Prime Minister:** PM is the **keystone** of the Cabinet — appoints ministers, allocates portfolios, coordinates policy, and represents the government.
+30. **Dissolution (विघटन) of the Lower House:** PM can advise the President to **dissolve the Lok Sabha** and call fresh elections — flexibility absent in a fixed-term presidential executive.
+31. **Secrecy of Cabinet:** Cabinet proceedings are confidential by **convention** — collective deliberation before public policy is announced.
+32. **Official Opposition:** The largest party/coalition **not** in government is recognised as Opposition — provides alternative government and scrutiny (convention + statutory recognition (मान्यता) in some contexts).
+33. **Constitutional government** = **limited government** — Constitution restricts State authority in favour of liberty.
+34. **Rule of Law** (Dicey line): limitation of arbitrary power, equality before law, liberty/civil rights — **not** “people’s responsibility to government.”
+35. **Merits:** responsible government; harmony between executive and legislature; alternative government ready; better check on fixed executive authoritarianism in theory.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Rigid vs Flexible | Blend under Art. 368 + simple-majority paths | “Only rigid like USA” | कठोर+लचीला |
-| Federal vs Unitary | Dual polity + strong Centre = **quasi-federal** | Pure classical federation | अर्ध-संघीय |
-| Quasi-federal (Wheare) | Unitary bias label | Call Austin “quasi” | व्हीयर = अर्ध |
-| Cooperative (Austin) | Centre–State collaboration | Mix with Wheare | ऑस्टिन = सहयोगी |
-| Bargaining (Morris-Jones) | Political bargaining federalism | Mix with Jennings | मॉरिस-जोंस |
-| Sui Generis (Alexandrowicz) | Unique in character | Mix with Wheare | एलेग्जेंड्रोविच = sui generis |
-| Parliamentary vs Presidential | Executive responsible to legislature | President = Presidential system | संसदीय |
-| Independent vs Integrated judiciary | Free of organ control vs one hierarchy under SC | Swap meanings | स्वतंत्र / एकीकृत |
-| Preamble is part vs enforceable | Part after Kesavananda; **still not enforceable** | Treat as FR | उद्देशिका |
-| Adopt date vs enforce date | Preamble date = **26 Nov 1949**; force = **26 Jan 1950** | Swap | अंगीकरण / प्रवर्तन |
-| 26 Jan 1950 status | **Sovereign Democratic Republic** | Include Socialist/Secular already | 1950 स्थिति |
-| 42nd Preamble words | **Socialist + Secular** (+ integrity) | Sovereignty / Republic | समाजवादी+धर्मनिरपेक्ष |
-| Single vs Dual citizenship | India = **single**; USA = dual | India has state citizenship | एकल नागरिकता |
-| Rule of Law vs Constitutional supremacy | No one above law vs Constitution highest law | Treat as identical | विधि / संविधान |
-| Residuary powers | **Centre** (Canada pattern) | States like USA | अवशिष्ट = केंद्र |
-| Art. 3 vs Art. 368 | Boundary change = simple majority path | Call every change “special majority” | अनुच्छेद 3 |
-| Residual vs Concurrent source | **Canada** vs **Australia** | Swap the pair | कनाडा / ऑस्ट्रेलिया |
-| FR vs DPSP source | **USA** vs **Ireland** | Swap or mix with UK | अमेरिका / आयरलैंड |
-| Amendment Procedure source | **South Africa** | Mix with Germany | दक्षिण अफ्रीका |
-| FR Suspension in Emergency | **Germany (Weimar)** | Mix with South Africa | जर्मनी |
-| GOI 1935 vs full copy | **Structural skeleton** only | “Pure carbon copy” | 1935 = ढांचा |
-| Type of govt vs polity | **Parliamentary** form vs **quasi-federal** structure | Call India “Presidential” because of President | संसदीय ≠ राष्ट्रपति |
-| Original vs 42nd Preamble | **1950 = SDR**; Socialist/Secular later | Call 1950 already Socialist Secular | 1950 ≠ समाजवादी |
-| Palkhivala tag | Preamble = **identity card** | Mix with Austin / Wheare | पहचान पत्र |
-| Munshi vs Ambedkar tags | Munshi = **political horoscope** (Preamble); Ambedkar **heart and soul** = **Art. 32** | Swap Preamble / Art. 32 | मुंशी / आंबेडकर |
-| Berubari vs Kesavananda | *Berubari* = Preamble **not** part (1960); *Kesavananda* = **is** part (1973) | Say Kesavananda first denied it | बेरुबारी / केशवानंद |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. **Federal** is NOT in the Preamble (2021)
+2. 42nd added **Socialist + Secular**, not Sovereignty/Republic (2025)
+3. On **26 Jan 1950** = **Sovereign Democratic Republic** only
+4. Preamble is **not enforceable** (2019)
+5. Justice–Liberty–Equality–Fraternity = **3, 5, 2, 1** (2018)
+6. Quasi-federal = **Wheare**, not Austin (2019/2024)
+7. Cooperative federalism = **Austin**; Bargaining = **Morris-Jones**; Centralising = **Jennings**
+8. Basic Structure = **Kesavananda 1973**, not Golaknath
+9. India ≠ Presidential merely because there is a President
+10. Single citizenship — not USA dual model
+11. No absolute separation of powers like USA
+12. Constitutional supremacy ≠ UK Parliamentary sovereignty
+13. Residuary powers with **Centre** (Canada), not States
+14. Berubari “Preamble not part” superseded by Kesavananda — Preamble **is part**
+15. Voting age 18 via **61st** Amendment — not since 1950
+16. Third tier = **1992** (73rd/74th), not 1990/91
+17. States **cannot** secede (2019)
+18. Quasi-federal A/R: judiciary true but **does not explain** quasi-federal (2020)
+19. Parliamentary system first in **UK** (2018)
+20. Art. 2–4 changes ≠ Art. 368 amendment (simple majority path)
+21. **Minerva Mills (1980)** restored limits after 42nd’s attempt to make Art. 368 unlimited
+22. Inter-State Council set up on **Sarkaria** recommendation (1990) — cooperative federalism tool
+23. Preamble date line = **26 November 1949** (adoption), not 26 January 1950
+24. Residual powers source = **Canada**; Concurrent List = **Australia** — do not swap
+25. FR = **USA**; DPSP = **Ireland**; parliamentary system = **UK**
+26. Art. 21 “procedure established by law” = **Japan**, not USA due-process wording
+27. GOI Act **1935** = structural skeleton — not a complete carbon copy of independent Constitution
+28. Palkhivala = Preamble is the **identity card** of the Constitution
+29. Original Preamble = **Sovereign Democratic Republic**; Socialist/Secular/integrity = **42nd**
+30. Schedules: **VII** = Lists; **X** = anti-defection; **XI/XII** = Panchayats/Municipalities
 
 
 ---

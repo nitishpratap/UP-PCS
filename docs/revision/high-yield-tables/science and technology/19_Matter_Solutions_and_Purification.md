@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chemistry Topic 2 — Matter, Solutions and Purification</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (2024–2026)
+
+| Year | Event | Core Concept & Must-Score Significance |
+|------|--------------|-----------------------------------|
+| **2025–2026** | **Global Desalination & RO Tech** | Mega RO desalination plants in coastal India (Gujarat, Tamil Nadu) utilize **Reverse Osmosis** through thin-film composite polyamide semi-permeable membranes applying hydrostatic pressure $> \Pi$ (osmotic pressure, ~27–30 atm for seawater). |
+| **2024** | **UPPCS Prelims 2024** | Direct question on **Colloidal Classification of Milk**: Identified strictly as an **emulsion** (liquid butterfat droplets dispersed in aqueous liquid phase stabilized by casein protein). Foams, sols, and aerosols were incorrect distractors. |
+| **2024** | **Noble Prize & Quantum Condensates** | Bose-Einstein Condensate (BEC) research in microgravity aboard the ISS Cold Atom Lab (CAL): Atoms cooled to nanokelvin temperatures collapse into the lowest quantum ground state, acting as a single giant "super-atom" (predicted by Satyendra Nath Bose & Albert Einstein, 1924–25; realized by Cornell, Wieman & Ketterle, 1995). |
+| **2023** | **UPPCS / UKPCS Trends** | Frequent testing of **Hardy-Schulze Rule**: Coagulation power of electrolytes increases exponentially with the valence of the active ion ($Al^{3+} > Mg^{2+} > Na^+$ for negative colloidal sols like clay/muddy water). Explains why potash alum ($K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$) rapidly purifies municipal water supplies. |
+| **2022** | **UPPCS Prelims 2022** | Classic trap on **Physical vs. Chemical Change**: Curdling of milk and rusting of iron are irreversible chemical changes, whereas dissolution of sugar in water and melting of wax are physical changes. Burning of a candle involves **both** physical (melting of wax) and chemical (combustion of hydrocarbons into $CO_2 + H_2O$) changes. |
+
+---
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -25,22 +35,6 @@ hide:
 | **Aerosol vs. Foam** | **Aerosol**: Dispersion of liquid or solid droplets in a **gaseous medium** (Fog, Smoke). | **Foam**: Dispersion of gas bubbles in a **liquid or solid medium** (Soap lather, Pumice stone). | **Continuous Phase**: In an aerosol, the bulk medium is always a gas; in a foam, the bulk medium is a liquid or solid containing entrapped gas bubbles. |
 | **Sublimation vs. Evaporation** | **Sublimation**: Direct endothermic phase change from **solid $\to$ gas**, completely bypassing the liquid phase. | **Evaporation**: Surface transition from **liquid $\to$ gas** occurring at temperatures below the boiling point. | **Starting State**: Sublimation begins with a solid (camphor, dry ice); evaporation strictly begins with a liquid (water evaporating from a lake). |
 | **Distillation vs. Fractional Distillation** | **Simple Distillation**: Used when boiling points of two miscible liquids differ by **$>25^\circ\text{C}$** (e.g., acetone $56^\circ\text{C}$ and water $100^\circ\text{C}$). | **Fractional Distillation**: Used when boiling points differ by **$<25^\circ\text{C}$**; employs a fractionating column filled with glass beads (e.g., crude petroleum fractions, liquid air). | **Boiling Point Gap ($\Delta T$)**: Simple distillation fails if $\Delta T < 25^\circ\text{C}$ due to vapor overlap; a fractionating column provides repeated vaporization-condensation cycles. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (2024–2026)
-
-| Year | Event | Core Concept & Must-Score Significance |
-|------|--------------|-----------------------------------|
-| **2025–2026** | **Global Desalination & RO Tech** | Mega RO desalination plants in coastal India (Gujarat, Tamil Nadu) utilize **Reverse Osmosis** through thin-film composite polyamide semi-permeable membranes applying hydrostatic pressure $> \Pi$ (osmotic pressure, ~27–30 atm for seawater). |
-| **2024** | **UPPCS Prelims 2024** | Direct question on **Colloidal Classification of Milk**: Identified strictly as an **emulsion** (liquid butterfat droplets dispersed in aqueous liquid phase stabilized by casein protein). Foams, sols, and aerosols were incorrect distractors. |
-| **2024** | **Noble Prize & Quantum Condensates** | Bose-Einstein Condensate (BEC) research in microgravity aboard the ISS Cold Atom Lab (CAL): Atoms cooled to nanokelvin temperatures collapse into the lowest quantum ground state, acting as a single giant "super-atom" (predicted by Satyendra Nath Bose & Albert Einstein, 1924–25; realized by Cornell, Wieman & Ketterle, 1995). |
-| **2023** | **UPPCS / UKPCS Trends** | Frequent testing of **Hardy-Schulze Rule**: Coagulation power of electrolytes increases exponentially with the valence of the active ion ($Al^{3+} > Mg^{2+} > Na^+$ for negative colloidal sols like clay/muddy water). Explains why potash alum ($K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$) rapidly purifies municipal water supplies. |
-| **2022** | **UPPCS Prelims 2022** | Classic trap on **Physical vs. Chemical Change**: Curdling of milk and rusting of iron are irreversible chemical changes, whereas dissolution of sugar in water and melting of wax are physical changes. Burning of a candle involves **both** physical (melting of wax) and chemical (combustion of hydrocarbons into $CO_2 + H_2O$) changes. |
 
 ---
 
@@ -182,18 +176,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Matter is defined as anything possessing mass, inertia, and occupying three-dimensional physical space.
-- **Exam Anchor:** The five recognized physical states of matter are: Solid, Liquid, Gas, Plasma, and Bose-Einstein Condensate (BEC).
-- **Exam Anchor:** In solids, intermolecular forces are strongest, intermolecular space is minimal, kinetic energy of particles is lowest, and particles vibrate strictly around fixed mean positions; solids possess definite shape and fixed volume.
-- **Exam Anchor:** In liquids, intermolecular forces are moderate, particles possess translational freedom to slip over one another, having fixed volume but indefinite shape (adapting to their container).
-- **Exam Anchor:** In gases, intermolecular attraction is negligible, intermolecular space is maximum, mean free path and particle kinetic energy are highest; gases exhibit neither fixed shape nor fixed volume and expand indefinitely to fill any container.
 - **Exam Anchor:** Plasma (the fourth state) consists of superheated, highly ionized gas containing free electrons and positive ions; it conducts electricity, generates magnetic fields, and makes up $>99\%$ of the visible universe (stars, Sun, auroras, lightning, neon sign tubes).
 - **Exam Anchor:** Bose-Einstein Condensate (BEC) (the fifth state) forms when integer-spin boson gases of extremely low density (about one-hundred-thousandth the density of normal air) are cooled to ultra-low temperatures near absolute zero ($0\text{ K}$ or $-273.15^\circ\text{C}$).
 - **Exam Anchor:** Phase Transitions: Melting (Solid $\to$ Liquid), Freezing (Liquid $\to$ Solid), Vaporization/Boiling (Liquid $\to$ Gas), Condensation (Gas $\to$ Liquid), Sublimation (Solid $\to$ Gas directly), Deposition (Gas $\to$ Solid directly).
-
-</details>
+- **Exam Anchor:** Sublimation occurs because the substance's vapor pressure exceeds atmospheric pressure before reaching its melting point. Examples: Camphor, Naphthalene, Anthracene, Ammonium Chloride ($NH4Cl$), Iodine ($I2$), Dry Ice (solid $CO2$).
+- **Exam Anchor:** Triple Point of Water is the unique thermodynamic coordinate of temperature and pressure at which solid ice, liquid water, and water vapor coexist in stable thermodynamic equilibrium: strictly $273.16\text{ K}$ ($0.01^\circ\text{C}$) and $4.58\text{ mmHg}$ ($611.65\text{ Pa}$ or $0.006\text{ atm}$).
+- **Exam Anchor:** Critical Temperature ($Tc$) is the temperature above which a gas cannot be liquefied, regardless of the magnitude of pressure applied. For $CO2$, $Tc = 31.1^\circ\text{C}$.
+- **Exam Anchor:** Burning of a candle is uniquely both physical and chemical: melting and vaporization of paraffin wax is a physical change, while the combustion of wax vapor into $CO2$, carbon soot, and $H2O$ is a chemical change.
 
 ---
 
@@ -224,86 +216,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The five recognized physical states of matter are: Solid, Liquid, Gas, Plasma, and Bose-Einstein Condensate (BEC).
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** The five recognized physical states of matter are: **Solid**, **Liquid**, **Gas**, **Plasma**, and **Bose-Einstein Condensate (BEC)**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q3.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. In solids, intermolecular forces are strongest, intermolecular space is minimal, kinetic energy of particles is lowest, and particles vibrate strictly around fixed mean positions; solids possess definite shape and fixed volume.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** In **solids**, intermolecular forces are strongest, intermolecular space is minimal, kinetic energy of particles is lowest, and particles vibrate strictly around fixed mean positions; solids possess definite shape and fixed volume.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q4.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. In liquids, intermolecular forces are moderate, particles possess translational freedom to slip over one another, having fixed volume but indefinite shape (adapting to their container).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** In **liquids**, intermolecular forces are moderate, particles possess translational freedom to slip over one another, having fixed volume but indefinite shape (adapting to their container).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q5.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. In gases, intermolecular attraction is negligible, intermolecular space is maximum, mean free path and particle kinetic energy are highest; gases exhibit neither fixed shape nor fixed volume and expand indefinitely to fill any container.
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** In **gases**, intermolecular attraction is negligible, intermolecular space is maximum, mean free path and particle kinetic energy are highest; gases exhibit neither fixed shape nor fixed volume and expand indefinitely to fill any container.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q6.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
 A. Contrary to standard doctrine, Plasma applies only to union territories and not state jurisdictions.
 B. Plasma (the fourth state) consists of superheated, highly ionized gas containing free electrons and positive ions; it conducts electricity, generates magnetic fields, and makes up $>99\%$ of the visible universe (stars, Sun, auroras, lightning, neon sign tubes).
 C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
+D. Recognized by UNESCO under World Heritage natural criteria
 
 <details>
 <summary>Show answer</summary>
@@ -315,14 +231,14 @@ D. Excavated primarily in the Belan and Son River valleys
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
+**Q3.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Bose-Einstein applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
+B. Recognized by UNESCO under World Heritage natural criteria
 C. Bose-Einstein Condensate (BEC) (the fifth state) forms when integer-spin boson gases of extremely low density (about one-hundred-thousandth the density of normal air) are cooled to ultra-low temperatures near absolute zero ($0\text{ K}$ or $-273.15^\circ\text{C}$).
-D. Classified under Schedule VII List II (State List)
+D. Enacted under Article 356 of the Constitution of India
 
 <details>
 <summary>Show answer</summary>
@@ -334,12 +250,12 @@ D. Classified under Schedule VII List II (State List)
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q8.** in Science & Technology, consider the following statement:
+**Q4.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Phase applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
+B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
 D. Phase Transitions: Melting (Solid $\to$ Liquid), Freezing (Liquid $\to$ Solid), Vaporization/Boiling (Liquid $\to$ Gas), Condensation (Gas $\to$ Liquid), Sublimation (Solid $\to$ Gas directly), Deposition (Gas $\to$ Solid directly).
 
@@ -353,11 +269,87 @@ D. Phase Transitions: Melting (Solid $\to$ Liquid), Freezing (Liquid $\to$ Solid
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
+**Q5.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Sublimation occurs because the substance's vapor pressure exceeds atmospheric pressure before reaching its melting point. Examples: Camphor, Naphthalene, Anthracene, Ammonium Chloride ($NH4Cl$), Iodine ($I2$), Dry Ice (solid $CO2$).
+B. Reported by the Law Commission in its 214th consultation paper
+C. None of the above statements are correct according to official Commission keys.
+D. Amended by the 44th Constitutional Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Sublimation** occurs because the substance's vapor pressure exceeds atmospheric pressure before reaching its melting point. Examples: **Camphor, Naphthalene, Anthracene, Ammonium Chloride ($NH_4Cl$), Iodine ($I_2$), Dry Ice (solid $CO_2$)**.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q6.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Triple applies only to union territories and not state jurisdictions.
+B. Triple Point of Water is the unique thermodynamic coordinate of temperature and pressure at which solid ice, liquid water, and water vapor coexist in stable thermodynamic equilibrium: strictly $273.16\text{ K}$ ($0.01^\circ\text{C}$) and $4.58\text{ mmHg}$ ($611.65\text{ Pa}$ or $0.006\text{ atm}$).
+C. None of the above statements are correct according to official Commission keys.
+D. Excavated primarily in the Belan and Son River valleys
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Triple Point of Water** is the unique thermodynamic coordinate of temperature and pressure at which solid ice, liquid water, and water vapor coexist in stable thermodynamic equilibrium: strictly $273.16\text{ K}$ ($0.01^\circ\text{C}$) and $4.58\text{ mmHg}$ ($611.65\text{ Pa}$ or $0.006\text{ atm}$).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q7.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Critical applies only to union territories and not state jurisdictions.
+B. Excavated primarily in the Belan and Son River valleys
+C. Critical Temperature ($Tc$) is the temperature above which a gas cannot be liquefied, regardless of the magnitude of pressure applied. For $CO2$, $Tc = 31.1^\circ\text{C}$.
+D. Classified under Schedule VII List II (State List)
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Critical Temperature ($T_c$)** is the temperature above which a gas cannot be liquefied, regardless of the magnitude of pressure applied. For $CO_2$, $T_c = 31.1^\circ\text{C}$.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q8.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Burning applies only to union territories and not state jurisdictions.
+B. Classified under Schedule VII List II (State List)
+C. None of the above statements are correct according to official Commission keys.
+D. Burning of a candle is uniquely both physical and chemical: melting and vaporization of paraffin wax is a physical change, while the combustion of wax vapor into $CO2$, carbon soot, and $H2O$ is a chemical change.
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Burning of a candle** is uniquely **both physical and chemical**: melting and vaporization of paraffin wax is a physical change, while the combustion of wax vapor into $CO_2$, carbon soot, and $H_2O$ is a chemical change.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
 **Q9.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
-A. During any phase change, temperature remains strictly constant because absorbed/released thermal energy functions entirely as Latent Heat (breaking or establishing intermolecular lattice bonds without increasing particle kinetic energy).
+A. Rusting of Iron: When iron reacts with atmospheric oxygen and water vapor, hydrated ferric oxide ($Fe2O3 \cdot xH2O$) is formed. Rusting is an oxidation chemical change that results in an increase in the total mass of the iron object due to the addition of bonded oxygen and water molecules.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -368,7 +360,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** During any phase change, **temperature remains strictly constant** because absorbed/released thermal energy functions entirely as **Latent Heat** (breaking or establishing intermolecular lattice bonds without increasing particle kinetic energy).
+- **Key Exam Association:** **Rusting of Iron**: When iron reacts with atmospheric oxygen and water vapor, hydrated ferric oxide ($Fe_2O_3 \cdot xH_2O$) is formed. Rusting is an oxidation chemical change that results in an **increase in the total mass of the iron object** due to the addition of bonded oxygen and water molecules.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -376,8 +368,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Sublimation applies only to union territories and not state jurisdictions.
-B. Sublimation occurs because the substance's vapor pressure exceeds atmospheric pressure before reaching its melting point. Examples: Camphor, Naphthalene, Anthracene, Ammonium Chloride ($NH4Cl$), Iodine ($I2$), Dry Ice (solid $CO2$).
+A. Contrary to standard doctrine, Solubility applies only to union territories and not state jurisdictions.
+B. Solubility of most solid solutes in liquid solvents increases with increasing temperature (endothermic dissolution), but decreases for exothermic dissolutions (e.g., $Ce2(SO4)3$, $CaO$).
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -387,7 +379,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Sublimation** occurs because the substance's vapor pressure exceeds atmospheric pressure before reaching its melting point. Examples: **Camphor, Naphthalene, Anthracene, Ammonium Chloride ($NH_4Cl$), Iodine ($I_2$), Dry Ice (solid $CO_2$)**.
+- **Key Exam Association:** **Solubility** of most solid solutes in liquid solvents increases with increasing temperature (endothermic dissolution), but decreases for exothermic dissolutions (e.g., $Ce_2(SO_4)_3$, $CaO$).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -395,9 +387,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Triple applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Henry's applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. Triple Point of Water is the unique thermodynamic coordinate of temperature and pressure at which solid ice, liquid water, and water vapor coexist in stable thermodynamic equilibrium: strictly $273.16\text{ K}$ ($0.01^\circ\text{C}$) and $4.58\text{ mmHg}$ ($611.65\text{ Pa}$ or $0.006\text{ atm}$).
+C. Henry's Law states that the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid ($m = kH \cdot P$):
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -406,7 +398,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Triple Point of Water** is the unique thermodynamic coordinate of temperature and pressure at which solid ice, liquid water, and water vapor coexist in stable thermodynamic equilibrium: strictly $273.16\text{ K}$ ($0.01^\circ\text{C}$) and $4.58\text{ mmHg}$ ($611.65\text{ Pa}$ or $0.006\text{ atm}$).
+- **Key Exam Association:** **Henry's Law** states that the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid ($m = k_H \cdot P$):
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -414,10 +406,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Critical applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Molarity applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Critical Temperature ($Tc$) is the temperature above which a gas cannot be liquefied, regardless of the magnitude of pressure applied. For $CO2$, $Tc = 31.1^\circ\text{C}$.
+D. Molarity ($M$) = moles of solute per liter of solution ($\text{mol/L}$). Because liquid volume expands or contracts with temperature, Molarity is temperature-dependent.
 
 <details>
 <summary>Show answer</summary>
@@ -425,7 +417,7 @@ D. Critical Temperature ($Tc$) is the temperature above which a gas cannot be li
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Critical Temperature ($T_c$)** is the temperature above which a gas cannot be liquefied, regardless of the magnitude of pressure applied. For $CO_2$, $T_c = 31.1^\circ\text{C}$.
+- **Key Exam Association:** **Molarity ($M$)** = moles of solute per liter of solution ($\text{mol/L}$). Because liquid volume expands or contracts with temperature, Molarity is **temperature-dependent**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -433,7 +425,7 @@ D. Critical Temperature ($Tc$) is the temperature above which a gas cannot be li
 
 Which of the following is correct regarding this topic?
 
-A. A Physical Change alters physical properties (shape, size, state, volume) without changing chemical composition or molecular identity; it produces no new substances and is typically reversible (e.g., melting of ice, glowing of an electric bulb, crystallization, dissolution of salt in water).
+A. Molality ($m$) = moles of solute per kilogram of pure solvent ($\text{mol/kg}$). Because mass is independent of temperature, Molality is strictly temperature-independent and preferred in high-precision thermodynamic and colligative calculations.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -444,7 +436,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** A **Physical Change** alters physical properties (shape, size, state, volume) without changing chemical composition or molecular identity; it produces no new substances and is typically reversible (e.g., melting of ice, glowing of an electric bulb, crystallization, dissolution of salt in water).
+- **Key Exam Association:** **Molality ($m$)** = moles of solute per kilogram of pure solvent ($\text{mol/kg}$). Because mass is independent of temperature, Molality is **strictly temperature-independent** and preferred in high-precision thermodynamic and colligative calculations.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -452,8 +444,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, A applies only to union territories and not state jurisdictions.
-B. A Chemical Change alters molecular structure, breaking and reforming chemical bonds to generate entirely new substances with distinct chemical properties; it is accompanied by substantial energy changes and is generally irreversible (e.g., rusting of iron, curdling of milk, digestion of food, burning of coal).
+A. Contrary to standard doctrine, Normality applies only to union territories and not state jurisdictions.
+B. Normality ($N$) = gram equivalents of solute per liter of solution ($N = M \times \text{Valence factor}$ / $n$-factor).
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -463,7 +455,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** A **Chemical Change** alters molecular structure, breaking and reforming chemical bonds to generate entirely new substances with distinct chemical properties; it is accompanied by substantial energy changes and is generally irreversible (e.g., rusting of iron, curdling of milk, digestion of food, burning of coal).
+- **Key Exam Association:** **Normality ($N$)** = gram equivalents of solute per liter of solution ($N = M \times \text{Valence factor}$ / $n$-factor).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -471,9 +463,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Burning applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Parts applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Burning of a candle is uniquely both physical and chemical: melting and vaporization of paraffin wax is a physical change, while the combustion of wax vapor into $CO2$, carbon soot, and $H2O$ is a chemical change.
+C. Parts per Million (ppm) is used for ultra-trace concentrations (pollutants in air, fluoride/arsenic in drinking water): $\text{ppm} = \frac{\text{Mass of component}}{\text{Total mass}} \times 10^6$.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -482,6 +474,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Burning of a candle** is uniquely **both physical and chemical**: melting and vaporization of paraffin wax is a physical change, while the combustion of wax vapor into $CO_2$, carbon soot, and $H_2O$ is a chemical change.
+- **Key Exam Association:** **Parts per Million (ppm)** is used for ultra-trace concentrations (pollutants in air, fluoride/arsenic in drinking water): $\text{ppm} = \frac{\text{Mass of component}}{\text{Total mass}} \times 10^6$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

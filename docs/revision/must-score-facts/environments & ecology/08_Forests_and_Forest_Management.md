@@ -11,64 +11,73 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 8 — Forests & Forest Management</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Forest cover (वन आवरण) in ISFR means a patch of at least **1 ha** with canopy **≥10%**, on any land ownership.
-2. Canopy classes: **VDF ≥70%**, **MDF 40–70%**, **OF 10–40%**.
-3. ISFR **2023** India figures: forest cover about **21.76%**, tree cover (वृक्ष आवरण) about **3.41%**, total green cover about **25.17%**. ISFR **2021** held forest cover at about **21.71%** and forest+tree cover about **24.62%** (still used in older stems).
-4. **Madhya Pradesh** has the largest forest **area**. **Mizoram** has the highest **percentage** cover among States. **Arunachal Pradesh** often leads **very dense forest** area.
-5. **Forest cover ≠ Recorded Forest Area ≠ tree cover**. Recorded forest area is a legal-notification figure near about **23%**.
-6. Under the **Indian Forest Act, 1927**, **Reserved Forest** is strictest (acts banned unless permitted). **Protected Forest** is State-regulated with some customary rights possible.
-7. **Champion and Seth (1968)** classify Indian forests into **16 types in 6 groups**. The largest share is **Tropical Dry Deciduous** (about **38%**).
-8. **Tropical wet evergreen** (>**200 cm** rain) holds maximum plant diversity / biomass among common options — Western Ghats (पश्चिमी घाट), NE hills, A&N (not Himachal (हिमाचल) as wet evergreen).
-9. **Teak** dominates **tropical moist deciduous** forests; **Madhya Pradesh** has the maximum teak area among common options.
-10. **Red Sanders (*Pterocarpus santalinus*)** is a dry-deciduous South India endemic (Palkonda–Seshachalam / southern Eastern Ghats (पूर्वी घाट)) — **not** a tropical rainforest tree.
-11. **Taxus** (Himalaya (हिमालय); Red Data) yields **taxol** (anti-cancer; also cited vs Parkinson’s in older stems).
-12. **Amazon rainforest** is often called the **“lungs of the Earth”** (~**20%** of terrestrial photosynthetic oxygen share in coaching figures).
-13. UP type facts: Terai (तराई) = moist deciduous; Vindhyan = dry deciduous; Bundelkhand = thorn.
-14. Law chronology: **IFA 1927 → FCA 1980 → NFP 1988 → JFM 1990 → FRA 2006 → CAMPA Act 2016**.
-15. The **Forest (Conservation) Act, 1980** requires **Central** approval before diverting forest land. Compensatory afforestation is mandatory.
-16. **National Forest Policy 1988** targets about **33%** national forest/tree cover and **66%** in hills. **NFP 1952** classes: Protected/Conserved, National, Village Forests, Tree Lands — **not** “National Park” as a forest class.
-17. NFP 1988 includes afforestation/wasteland, reforestation, and wood substitutes — **not** wide promotion of insecticides/pesticides.
-18. **Chipko (1973, Reni, Uttarakhand (उत्तराखंड))** — Bahuguna, Bhatt, **Gaura Devi**. The **Godavarman (1996)** line broadened “forest.”
-19. Afforestation tools include **NAP (2000)**, **Green India Mission (2014)**, **Miyawaki** mini-forests, and **CAMPA**.
-20. **Social forestry** grows trees on **non-forest** land. **Agroforestry** integrates trees with crops/livestock (**CAFRI Jhansi (झांसी)**).
-21. **JFM (1990)** is State–village co-management of **degraded forest**. **FRA 2006** recognises dweller rights (**IFR ~4 ha**).
-22. **FCA** controls **diversion**. **FRA** recognises **rights**. **JFM** is executive co-management — three different tools.
-23. UP ISFR **2023** forest cover is about **6.24%** of State area.
-24. **Sonbhadra** (सोनभद्र) has UP’s highest district forest cover. Districts above **20%** include **Chandauli** and **Shravasti**.
-25. **Urbanisation is a cause of deforestation**, not an “impact/effect” of deforestation (classic trap).
-26. Forests are a **renewable** resource; they also enhance environment (पर्यावरण) quality — but the second fact does **not** alone explain renewability.
-27. **Aluminium** is called a **“green metal”** for recyclability/eco profile — not primarily “to save forests by replacing wood.”
-28. **Living root bridges** are characteristic of **Meghalaya** (मेघालय).
-29. ISFR 2021 top absolute (निरपेक्ष) gains: **Andhra Pradesh, Telangana, Odisha**. NE states showed large losses.
-30. Mangrove area rank (ISFR 2021 style): **WB > Gujarat > A&N (~616–617 km²) > AP**. **Coringa** = Godavari (गोदावरी) delta (डेल्टा) (AP).
-31. **Andaman (अंडमान) & Nicobar (निकोबार)** uniquely combine mangrove + evergreen + deciduous in one option set.
-32. International Day of Forests = **21 March** (UN **2012**). Wildlife Week = **2–8 October**. WWF (डब्ल्यूडब्ल्यूएफ) logo = **Giant Panda**.
-33. Bhutan constitutionally aims for **≥60%** forest cover (actual cover much higher).
-34. Bamboo on **non-forest** land was omitted from “tree” under the **Indian Forest (Amendment) Act, 2017**.
-35. **FRI Dehradun (देहरादून) (1906)**; **ICFRE HQ Dehradun**; **IIFM Bhopal**; Survey of India ≠ environment agency.
-36. CAMPA manages compensatory afforestation funds after diversion — it is not FRA Gram Sabha (ग्राम सभा) rights recognition (मान्यता).
-
-</details>
+1. **Madhya Pradesh** has the largest forest **area**. **Mizoram** has the highest **percentage** cover among States. **Arunachal Pradesh** often leads **very dense forest** area.
+2. **Forest cover ≠ Recorded Forest Area ≠ tree cover**. Recorded forest area is a legal-notification figure near about **23%**.
+3. **Champion and Seth (1968)** classify Indian forests into **16 types in 6 groups**. The largest share is **Tropical Dry Deciduous** (about **38%**).
+4. **Tropical wet evergreen** (>**200 cm** rain) holds maximum plant diversity / biomass among common options — Western Ghats (पश्चिमी घाट), NE hills, A&N (not Himachal (हिमाचल) as wet evergreen).
+5. **Teak** dominates **tropical moist deciduous** forests; **Madhya Pradesh** has the maximum teak area among common options.
+6. **Red Sanders (*Pterocarpus santalinus*)** is a dry-deciduous South India endemic (Palkonda–Seshachalam / southern Eastern Ghats (पूर्वी घाट)) — **not** a tropical rainforest tree.
+7. **Taxus** (Himalaya (हिमालय); Red Data) yields **taxol** (anti-cancer; also cited vs Parkinson’s in older stems).
+8. **Amazon rainforest** is often called the **“lungs of the Earth”** (~**20%** of terrestrial photosynthetic oxygen share in coaching figures).
+9. **National Forest Policy 1988** targets about **33%** national forest/tree cover and **66%** in hills. **NFP 1952** classes: Protected/Conserved, National, Village Forests, Tree Lands — **not** “National Park” as a forest class.
+10. **Chipko (1973, Reni, Uttarakhand (उत्तराखंड))** — Bahuguna, Bhatt, **Gaura Devi**. The **Godavarman (1996)** line broadened “forest.”
+11. **Social forestry** grows trees on **non-forest** land. **Agroforestry** integrates trees with crops/livestock (**CAFRI Jhansi (झांसी)**).
+12. **JFM (1990)** is State–village co-management of **degraded forest**. **FRA 2006** recognises dweller rights (**IFR ~4 ha**).
+13. **FCA** controls **diversion**. **FRA** recognises **rights**. **JFM** is executive co-management — three different tools.
+14. **Sonbhadra** (सोनभद्र) has UP’s highest district forest cover. Districts above **20%** include **Chandauli** and **Shravasti**.
+15. **Urbanisation is a cause of deforestation**, not an “impact/effect” of deforestation (classic trap).
+16. **Aluminium** is called a **“green metal”** for recyclability/eco profile — not primarily “to save forests by replacing wood.”
+17. **Living root bridges** are characteristic of **Meghalaya** (मेघालय).
+18. **Andaman (अंडमान) & Nicobar (निकोबार)** uniquely combine mangrove + evergreen + deciduous in one option set.
+19. **FRI Dehradun (देहरादून) (1906)**; **ICFRE HQ Dehradun**; **IIFM Bhopal**; Survey of India ≠ environment agency.
+20. **Global forest types** include tropical rainforest, tropical deciduous, temperate, boreal, Mediterranean scrub, and mangrove.
+21. **Reserved Forest** has the strictest protection. Most acts are prohibited unless permitted.
+22. **Protected Forest** is state-regulated forest where some grazing, collection, or customary use may continue under rules.
+23. **Unclassed Forest** is forest land not yet formally placed in the Reserved or Protected category.
+24. **ISFR forest cover** means any patch of **1 hectare or more** with **10% or more** tree canopy, regardless of ownership.
+25. **Very Dense Forest** has canopy density **70% or more**. **Moderately Dense Forest** has **40–70%**. **Open Forest** has **10–40%**.
+26. **Forest cover** is not the same as **Recorded Forest Area**. Much forest cover exists outside legally notified forest land.
+27. **Tree cover** counts scattered trees in orchards and farms that fall below the 1-hectare forest patch rule.
+28. **Mangrove and littoral swamp forests** are distinct coastal types with salt-tolerant species such as sundari in the Sundarbans (सुंदरबन).
+29. **Champion and Seth (1968)** is India's standard forest type classification with **16 major types** in **6 groups**.
+30. **Tropical Wet Evergreen** forest occurs where rainfall exceeds about **200 cm**, mainly on the Western Ghats, Northeast hills (e.g. Arunachal, Mizoram/Khasi (खासी)–Jaintia (जयंतिया) belt), and Andaman & Nicobar — **not** Himachal (pine/temperate belts).
+31. **Tropical Semi-Evergreen** forest is a transition type with rainfall around **1500–2500 mm**.
+32. **Tropical Moist Deciduous** forest (about **100–200 cm** rain) drops leaves in the dry season; **teak** is the dominant commercial species. **Madhya Pradesh** has the maximum teak area among common state options. Other species: bamboo, sal, shisham, sandalwood, khair, arjun.
+33. **Red Sanders (*Pterocarpus santalinus*)** is endemic to dry deciduous hills of South India (Palkonda–Seshachalam / southern Eastern Ghats) — valued red wood; **not** a tropical rainforest species.
+34. **Taxus** grows naturally in the Himalaya, is Red Data–listed, and yields **taxol** (anti-cancer; older stems also cite Parkinson’s).
+35. **Littoral and Swamp** forest includes mangroves on the Sundarbans and Odisha coast (**Sundari** is the famous Sundarbans tree).
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Forest Cover** | **Tree Cover** | All land patches with tree canopy density ≥10% and area ≥1 hectare irrespective of ownership or legal status (FSI remote sensing) vs scattered tree patches, linear trees along canals/roads, and isolated trees <1 hectare outside recorded forest area | वन आवरण (≥1 हे., ≥10% छतरी) / वृक्ष आवरण (<1 हेक्टेयर) |
-| **Reserved Forest (RF)** | **Protected Forest (PF)** | Highest degree of protection under Indian Forest Act 1927; all activities (grazing, timber felling) are strictly prohibited unless expressly permitted vs forest where all activities are permitted unless specifically prohibited by notification | आरक्षित वन (RF, पूर्णतः प्रतिबंधित) / संरक्षित वन (PF, सशर्त अनुमत) |
-| **Recorded Forest Area (RFA)** | **Forest Cover** | Land legally recorded or notified as forest in government records (RF + PF + Unclassed) regardless of actual tree presence vs physical presence of tree canopy detected by satellite imagery (even on private orchards/tea estates) | अभिलिखित वन क्षेत्र (कानूनी अभिलेख) / वन आवरण (भौतिक वृक्ष आच्छादन) |
-| **Forest Conservation Act (FCA 1980)** | **Forest Rights Act (FRA 2006)** | Central regulatory statute preventing de-reservation or diversion of forest land for non-forest purposes without prior central approval vs restorative rights law vesting individual and community forest rights in traditional forest-dwelling tribes and OTFDs | वन संरक्षण अधिनियम 1980 / वन अधिकार अधिनियम 2006 |
-| **Social Forestry** | **Agroforestry** | Growing trees on non-forest communal lands, roadside strips, and wastelands to meet rural fodder and fuel needs (National Commission on Agriculture 1976) vs deliberate integration of woody perennials (trees/shrubs) with agricultural crops and/or livestock on the same land unit | सामाजिक वानिकी / कृषि वानिकी |
-| **Joint Forest Management (JFM)** | **Community Forest Resource (CFR)** | Collaborative institutional partnership between state forest department and village committees to protect and regenerate degraded forests vs statutory community ownership and governance right recognized under Section 3(1)(i) of FRA 2006 | संयुक्त वन प्रबंधन (JFM) / सामुदायिक वन संसाधन अधिकार (CFR) |
-| **Tropical Wet Evergreen Forest** | **Tropical Moist Deciduous Forest** | Dense multi-layered forest with rainfall >200 cm, no distinct leafless season (Ebony, Mahogany, Rosewood) vs most widespread forest in India with rainfall 100–200 cm, shedding leaves for 6–8 weeks in dry spring (Teak, Sal, Shisham) | उष्णकटिबंधीय आर्द्र सदाबहार / उष्णकटिबंधीय नम पर्णपाती वन |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+| Trap | Correct fact |
+|------|----------------|
+| Bahraich >20% forest | **Chandauli + Shravasti** only |
+| Forest cover = RFA only | Cover exists **outside** notified forest |
+| FCA enacted 1972 | **1980** |
+| JFM = FRA same year | JFM **1990**, FRA **2006** |
+| Social forestry = JFM | Social = **non-forest land**; JFM = degraded forest |
+| FRA IFR cap 10 ha | **4 ha** |
+| Agroforestry Policy 2006 | **2014** |
+| ISFR by CPCB | **FSI Dehradun** |
+| NFP 1952 vs 1988 | Current policy = **1988**; 1952 classes ≠ National Park |
+| CAFRI location | **Jhansi**, not Banda |
+| MP vs Mizoram | MP = **largest area**; Mizoram = **highest %** |
+| RF vs Protected Forest | RF = strictest IFA class |
+| Red Sanders = rainforest | **Dry deciduous** South India / Eastern Ghats |
+| Teak = rainforest | **Tropical moist deciduous**; MP max teak |
+| HP = tropical wet evergreen | **Pine/temperate** belts |
+| Urbanisation = deforestation impact | Urbanisation is a **cause** |
+| Mangrove safety = canopy shelter only | **Extensive roots** |
+| Bhitarkanika in West Bengal | **Odisha** — Brahmani–Baitarni |
+| Gujarat < A&N mangrove | **Gujarat 2nd** after WB (ISFR 2021 style) |
+| Aluminium green = saves forests | Recyclability/eco-profile; wood-substitute R often false |
 
 
 ---

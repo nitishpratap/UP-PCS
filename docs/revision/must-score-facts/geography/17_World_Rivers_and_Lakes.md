@@ -11,91 +11,85 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 17 — World Rivers & Lakes</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **New Orleans** stands on the **Mississippi**, not the Missouri. The Missouri joins the Mississippi at **St Louis**.
 2. **Budapest** is on the **Danube**. **Cologne** is on the **Rhine**. India’s **Hyderabad** (हैदराबाद) is on the **Musi**, not the Godavari (गोदावरी) or Paleru.
-3. The **Mekong** rises in Tibet, flows **south / south-east**, and builds its delta (डेल्टा) in **southern Vietnam**. It does **not** flow south-west and the delta is **not** in Cambodia.
-4. Direction pairs: **Amur** north-east; **Syr Darya** north-west into the Aral; **Angara** north out of Baikal; **Volga** from the Valdai Hills into the **Caspian**.
-5. The main USA–Mexico border river is the **Rio Grande**. The **Colorado** is the usual trap option.
-6. **Lake Onega** is in **Russia**, not Canada. **Lake Michigan** lies wholly in the **USA**. **Maracaibo** is in Venezuela. **Baikal** is in Russia.
-7. Superlatives: the **Nile** is longest for Prelims; the **Amazon** has the largest discharge; the **Congo** is deepest and crosses the Equator **twice**; the **Yangtze** is Asia’s longest; the **Volga** is Europe’s longest.
-8. Delta shapes: **Mississippi** = bird’s-foot (पक्षी-पाद); **Nile**, **Hwang Ho**, and **Niger** = arcuate (चापाकार) (bow).
-9. The **Danube** crosses the most countries. The **Rhine** is Europe’s busiest navigation artery.
-10. **Khartoum** is where the White and Blue Nile meet. **Aswan** created **Lake Nasser**. **GERD** sits on the **Blue Nile** in Ethiopia.
-11. Dam pairs: **Three Gorges–Yangtze**, **Aswan–Nile**, **Itaipu–Paraná**, **Hoover–Colorado**, **Kariba–Zambezi**.
-12. The **Caspian** is the largest lake. **Superior** is the largest freshwater lake by area. **Baikal** is deepest, holds the most fresh volume, and is among the oldest.
-13. **Tanganyika** is second deepest and the longest freshwater lake. **Titicaca** is the highest navigable lake. The **Dead Sea** is the lowest land surface and is hypersaline (about **34%** salt (लवणाध्यक्ष)).
-14. Great Lakes west to east: **Superior → Michigan → Huron → Erie → Ontario** (mnemonic: Super Man Helps Every One).
-15. Falls: **Angel** (Venezuela) is highest; **Victoria** is on the Zambezi; **Niagara** is US–Canada; **Iguazu** is Brazil–Argentina.
-16. The **St Lawrence** is the Great Lakes seaway. The **Rhine–Main–Danube** canal links the Black Sea system to the Rhine.
-17. The **Aral Sea** shrinks mainly because the **Amu Darya** and **Syr Darya** were diverted. **Lake Chad** is also shrinking.
-18. The **Niger** is the paradox river that first flows inland. The Congo is also known as the **Zaire**.
-19. The **Darling Range** is a highland of south-west Australia. It is **not** the same as the **Murray–Darling** river system.
-20. **Endorheic** lakes have no ocean outlet — Caspian, Aral, Dead Sea, Chad, and Eyre.
-21. More city–river pairs: **Baghdad–Tigris**, **Paris–Seine**, **London–Thames**, **Cairo–Nile**.
-22. Lake types include tectonic/rift, glacial, crater, lagoon, and oxbow. Do not treat every famous lake as simply a “fresh lake”.
-23. Continent spine: Nile (Africa), Amazon (South America), Yangtze (Asia), Mississippi–Missouri (North America), Volga (Europe), Murray–Darling (Australia).
-24. Navigation classics include the Rhine, Danube, Volga, St Lawrence, Yangtze, and Mississippi.
-25. **Limpopo** crosses the Tropic of Capricorn **twice**. **Congo/Zaire** crosses the Equator **twice**.
-26. **Mahaweli** = longest Sri Lanka river; Sri Lanka drainage is **radial** from central highlands.
-27. City–river desk: Phnom Penh–Mekong; Hanoi–Red; Yangon–Irrawaddy; Madrid–Manzanares; Bangkok–Chao Phraya; Basra–Shatt al-Arab.
-28. **Grand Canyon** = Colorado. **Chisapani Gorge** = Nepal (Karnali). Largest delta = **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)**. Inselberg ≠ glacier.
-29. Delta mouths: Mekong → **South China Sea**; Nile → **Mediterranean**; Mississippi → **Gulf of Mexico**; Danube → **Black Sea**; Indus → **Arabian Sea**.
-30. Border rivers beyond Rio Grande: **Amur** (Russia–China), **Orange** (South Africa–Namibia), **Salween** (Myanmar–Thailand stretches), **Zambezi** (Zambia–Zimbabwe at Victoria Falls).
-31. More dam–river pairs: **Guri–Caroní** (Venezuela), **Tucuruí–Tocantins** (Brazil), **Grand Coulee–Columbia** (USA), **Sayano-Shushenskaya–Yenisei** (Russia), **Tarbela–Indus** (Pakistan), **Nurek–Vakhsh** (Tajikistan).
-32. Yangtze chain: Tibetan Plateau → China → **Three Gorges** → Shanghai belt → **East China Sea**.
-33. Nile chain: Victoria / Tana → Sudan–Egypt → **Aswan High Dam** → Nile Delta → **Mediterranean**.
-34. Only a marked stretch of a river is the international border — do not treat the whole Mekong or Colorado course as one continuous border.
-35. International rivers to keep: Nile (Africa), Amazon (South America), Danube (most countries crossed), Rhine (busy European navigation), Mekong (SE Asia), Rio Grande (USA–Mexico border).
-36. Lake genesis types: tectonic / rift, glacial, crater, lagoon, oxbow and artificial reservoir — do not treat every famous lake as simply “fresh”.
+3. **Lake Onega** is in **Russia**, not Canada. **Lake Michigan** lies wholly in the **USA**. **Maracaibo** is in Venezuela. **Baikal** is in Russia.
+4. **Khartoum** is where the White and Blue Nile meet. **Aswan** created **Lake Nasser**. **GERD** sits on the **Blue Nile** in Ethiopia.
+5. **Tanganyika** is second deepest and the longest freshwater lake. **Titicaca** is the highest navigable lake. The **Dead Sea** is the lowest land surface and is hypersaline (about **34%** salt (लवणाध्यक्ष)).
+6. **Endorheic** lakes have no ocean outlet — Caspian, Aral, Dead Sea, Chad, and Eyre.
+7. **Limpopo** crosses the Tropic of Capricorn **twice**. **Congo/Zaire** crosses the Equator **twice**.
+8. **Mahaweli** = longest Sri Lanka river; Sri Lanka drainage is **radial** from central highlands.
+9. **Grand Canyon** = Colorado. **Chisapani Gorge** = Nepal (Karnali). Largest delta = **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)**. Inselberg ≠ glacier.
+10. **Yangtze:** Tibetan Plateau → China → **Three Gorges** → Shanghai region → **East China Sea**
+11. **Nile:** Victoria / Tana → Sudan–Egypt → **Aswan High Dam** → **Nile Delta** → **Mediterranean**
+12. **Ganga:** Himalayas → India–Bangladesh → **Ganga–Brahmaputra–Meghna Delta** → **Bay of Bengal**
+13. **India–Bangladesh:** Ganga / Padma, Brahmaputra / Jamuna and other shared systems.
+14. **India–Pakistan:** the **Indus system** is geopolitically central; the land boundary itself is **not** simply “the Indus River line”.
+15. **Rhine** is Europe's busiest inland waterway. It links the Swiss Alps to **Rotterdam** on the North Sea through a heavily canalised channel.
+16. **Danube** crosses central and eastern Europe to the **Black Sea**. The **Rhine–Main–Danube** canal connects North Sea and Black Sea basins.
+17. **Volga** is Russia's main river artery to the **Caspian Sea**. The **Volga–Don** canal gives a route toward the **Azov / Black Sea**.
+18. **St Lawrence Seaway** lets ocean ships (नावाध्यक्ष) reach the **Great Lakes** of North America.
+19. **Yangtze** is China's main inland trunk from the interior to the **East China Sea**.
+20. **Mississippi** system moves bulk freight from the interior USA to the **Gulf of Mexico**.
+21. **New Orleans = Missouri** — FALSE. **Mississippi**. Missouri joins at **St Louis**.
+22. **Hyderabad = Godavari / Paleru** — FALSE. **Musi**.
+23. **Mekong = south-west** — FALSE. **South / SE**.
+24. **Mekong delta = Cambodia** — FALSE. **Vietnam**.
+25. **USA–Mexico = Colorado** — FALSE. **Rio Grande**.
+26. **Onega = Canada** — FALSE. **Russia**.
+27. **Michigan is shared like Superior** — FALSE. Michigan is **wholly USA**.
+28. **Baikal = largest lake** — FALSE. **Caspian** largest; Baikal = **deepest / fresh volume**.
+29. **Amazon = longest in every book** — FALSE. **Nile** is the traditional longest fact.
+30. **Budapest = Rhine** — FALSE. **Danube**. Cologne = Rhine.
+31. **Angel = Victoria** — FALSE. Angel = **highest**; Victoria = **Zambezi**.
+32. **Three Gorges = Hwang Ho** — FALSE. **Yangtze**.
+33. **Volga → Black Sea** — FALSE. **Caspian**.
+34. **Congo = largest discharge** — FALSE. **Amazon**. Congo = deepest + Equator twice.
+35. **Tanganyika = deepest lake** — FALSE. **Baikal**; Tanganyika is 2nd.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-Read as: **this** is correct · **that** is the usual wrong option.
-
-| | Correct | Usual wrong option | Hindi |
-|--|---------|-------------------|-------|
-| New Orleans is on the | **Mississippi** | Missouri (Missouri joins Mississippi at **St Louis**) | न्यू ऑर्लीन्स |
-| Hyderabad (India) is on the | **Musi** | Godavari / Paleru | मुसी |
-| Mekong flows | **South / south-east** | South-west | मेकांग |
-| Mekong delta is in | **Southern Vietnam** | Cambodia | मेकांग डेल्टा |
-| Limpopo Capricorn | Crosses **twice** | Once only | लिम्पोपो |
-| Mahaweli | **Sri Lanka** | India / Bangladesh | महावेली |
-| Inselberg | **Wind** residual | Glacier | इंसेलबर्ग |
-| Grand Canyon river | **Colorado** | Missouri / St Lawrence | ग्रैंड कैन्यन |
-| Berlin river | **Spree** | Rhine | बर्लिन |
-| Vienna river | **Danube** | Volga | वियना |
-| USA–Mexico border river | **Rio Grande** | Colorado or Mississippi | रियो ग्रांडे |
-| Lake Onega is in | **Russia** | Canada | ओनेगा |
-| Lake Michigan lies | **Wholly in the USA** | Shared USA–Canada (Superior / Huron / Erie / Ontario are shared) | मिशिगन |
-| Largest lake on Earth | **Caspian** (saline) | Superior | कैस्पियन |
-| Largest **fresh** lake by **area** | **Superior** | Caspian / Baikal | सुपीरियर |
-| Deepest lake + most fresh **volume** | **Baikal** | “Largest lake” | बैकाल |
-| Longest river (tradition) | **Nile** | Amazon | नील |
-| Largest **discharge** / basin | **Amazon** | Nile | अमेज़न |
-| Highest waterfall | **Angel** (Venezuela) | Victoria | एंजेल |
-| Victoria Falls is on the | **Zambezi** | Nile / Niagara | विक्टोरिया |
-| Most countries on one river | **Danube** (~10) | Rhine | डेन्यूब |
-| Busiest European inland navigation | **Rhine** | Danube | राइन |
-| Budapest is on the | **Danube** | Rhine | बुडापेस्ट |
-| Cologne is on the | **Rhine** | Danube | कोलोन |
-| Khartoum stands at | **White Nile + Blue Nile** | Only one of them | खार्तूम |
-| Congo uniqueness | **Deepest** + crosses Equator **twice** | Amazon does both | कांगो |
-| Tanganyika vs Baikal | Tanganyika **2nd** deepest / longest fresh | Tanganyika deepest | टंगाईका |
-| Titicaca | Highest **navigable** | Highest of any puddle | टिटिकाका |
-| Dead Sea | Lowest land + hypersaline | Ordinary sea | मृत सागर |
-| Niger | **Paradox** (inland arc first) | Straight to Gulf | नाइजर |
-| Volga mouth | **Caspian** | Black Sea | वोल्गा |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **New Orleans = Missouri** — FALSE. **Mississippi**. Missouri joins at **St Louis**.
+2. **Hyderabad = Godavari / Paleru** — FALSE. **Musi**.
+3. **Mekong = south-west** — FALSE. **South / SE**.
+4. **Mekong delta = Cambodia** — FALSE. **Vietnam**.
+5. **USA–Mexico = Colorado** — FALSE. **Rio Grande**.
+6. **Onega = Canada** — FALSE. **Russia**.
+7. **Michigan is shared like Superior** — FALSE. Michigan is **wholly USA**.
+8. **Baikal = largest lake** — FALSE. **Caspian** largest; Baikal = **deepest / fresh volume**.
+9. **Amazon = longest in every book** — FALSE. **Nile** is the traditional longest fact.
+10. **Budapest = Rhine** — FALSE. **Danube**. Cologne = Rhine.
+11. **Angel = Victoria** — FALSE. Angel = **highest**; Victoria = **Zambezi**.
+12. **Three Gorges = Hwang Ho** — FALSE. **Yangtze**.
+13. **Volga → Black Sea** — FALSE. **Caspian**.
+14. **Congo = largest discharge** — FALSE. **Amazon**. Congo = deepest + Equator twice.
+15. **Tanganyika = deepest lake** — FALSE. **Baikal**; Tanganyika is 2nd.
+16. **Titicaca = highest of any lake always** — FALSE. Fact = highest **navigable**.
+17. **Skip lake types because papers asked Onega** — FALSE. Next year can ask rift / endorheic / Great Lakes order.
+18. **GERD = Aswan** — FALSE. GERD = Blue Nile Ethiopia; Aswan = Egypt Nile / Lake Nasser.
+14. **Darling Range = Murray–Darling river** — FALSE. Darling Range = hills of **Western Australia**.
+15. **Hyderabad = Godavari** — FALSE. **Musi**.
+
+25. **Inselberg = glacier landform** — FALSE. Wind residual (with zeugen). Moraine = glacier.
+26. **Grand Canyon = Missouri** — FALSE. **Colorado**.
+27. **Berlin = Rhine** — FALSE. **Spree**. Vienna = Danube (not Volga).
+28. **Lisbon = Tiber** — FALSE. Tiber = Rome; Lisbon = **Tagus**.
+29. **Mahaweli = India** — FALSE. **Sri Lanka**.
+30. **Congo Basin excludes Cameroon** — FALSE. Cameroon is in the Congo Basin set.
+
+31. **Baikal = Ukraine** — FALSE. **Russia**.
+32. **Five Flower Lake = Mongolia** — FALSE. **Sichuan, China**.
+33. **Angel = Tugela as world’s tallest** — FALSE. **Angel (Venezuela)** is tallest.
+34. **Hoover = Tennessee** — FALSE. **Colorado**.
+35. **Lake Victoria bordered by four countries** — FALSE. **Three** (TZ, UG, KE).
+36. **Onega = Canada** — FALSE. **Russia**.
 
 
 ---

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 19 — World Regional Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -50,11 +48,7 @@ hide:
 | 38th vs 49th parallel | Korea DMZ vs Canada–USA | Swapped | 38° / 49° |
 | Capital ≠ mega-city | Ankara / Canberra / Brasília / Abu Dhabi | Istanbul / Sydney / Rio / Dubai | राजधानी |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Central Asia capitals
 
@@ -430,18 +424,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Continent area order: Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania.
-- **Exam Anchor:** The Nobi and Kanto plains are in Japan, not Korea.
-- **Exam Anchor:** Iraq’s Sunni Triangle is Baghdad, Tikrit, and Ramadi. Basra (Shia south) is the trap.
-- **Exam Anchor:** West Asia mountains west to east: Pontic → Zagros → Hindu Kush → Karakoram (काराकोरम).
-- **Exam Anchor:** Central Asia capitals: Uzbekistan Tashkent, Tajikistan Dushanbe, Kyrgyzstan Bishkek, Turkmenistan Ashgabat, Kazakhstan Astana.
-- **Exam Anchor:** The Kara Kum desert is in Turkmenistan.
 - **Exam Anchor:** Borneo is shared by Indonesia, Malaysia, and Brunei and is not a volcanic island dump.
-- **Exam Anchor:** Philippines cane and coconut history (इतिहास) fact: Spanish and Americans.
-
-</details>
+- **Exam Anchor:** Cape Verde’s capital is Praia. Bamako is Mali’s capital — do not swap them.
+- **Exam Anchor:** Madeira is Atlantic Portugal and is not Caribbean.
+- **Exam Anchor:** Igarka is in Russia, not China.
+- **Exam Anchor:** Ethiopia is landlocked after Eritrea’s secession; Eritrea holds the Red Sea coast. The Horn is Ethiopia–Somalia–Eritrea–Djibouti.
+- **Exam Anchor:** Esperanto is an artificial world auxiliary language. Tamil is an official language of Singapore. Spanish is official in Chile/Colombia/Cuba — not Congo. Bahasa = Indonesia (not Thailand). Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
+- **Exam Anchor:** Basra is far south, Shia / Gulf head — NOT in the triangle.
+- **Exam Anchor:** Nobi/Kanto = Korea — FALSE. Japan.
 
 ---
 

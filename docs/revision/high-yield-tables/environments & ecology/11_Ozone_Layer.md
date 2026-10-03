@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 11 — Ozone Layer</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Polar Stratospheric Clouds (PSCs)** | **Cirrus Clouds** | High-altitude clouds forming in extreme Antarctic winter cold (-78°C / Type I and II) that catalyze chlorine release from reservoirs vs normal high-altitude wispy ice-crystal weather clouds in the upper troposphere | ध्रुवीय समतापमंडलीय बादल (PSCs) / पक्षाभ मेघ (ट्रोपोस्फेरिक) |
 | **Kigali Amendment (2016)** | **Paris Agreement (2015)** | Legally binding amendment to Montreal Protocol committing countries to progressively phase down consumption of hydrofluorocarbons (HFCs) by 80–85% vs UNFCCC climate framework agreement targeting global warming mitigation | किगाली संशोधन (HFC कटौती) / पेरिस समझौता (जलवायु लक्ष्य) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Science
 
@@ -131,18 +125,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Ozone (O₃) is triatomic oxygen. Stratospheric ozone (समतापमंडलीय ओजोन) (about 15–30/35 km) is protective “good” ozone. Tropospheric ozone (क्षोभमंडलीय ओजोन) is a ground-level pollutant.
-- **Exam Anchor:** About 90% of ozone is stratospheric; about 10% is tropospheric. Stratospheric ozone is regulated in part by NO₂.
-- **Exam Anchor:** The Chapman cycle describes natural formation and destruction balance of stratospheric ozone (UV acting on O₂).
 - **Exam Anchor:** UV-A (315–400 nm) reaches the surface; UV-B (280–315 nm) is mostly blocked by ozone; UV-C (100–280 nm) is fully blocked. Ozone blocks ~93–99% of the most damaging UV.
-- **Exam Anchor:** Ozone-depleting substances release chlorine and bromine radicals that catalytically destroy ozone. One chlorine atom can destroy on the order of 100,000 ozone molecules.
-- **Exam Anchor:** Main ODS include CFCs, Halon-1211/1301, carbon tetrachloride, methyl chloroform, methyl bromide, and transitional HCFCs. Fridge coolants often sold as Mafron; large plants may use ammonia.
-- **Exam Anchor:** An ozone hole is not a physical hole. It means column ozone below 220 Dobson Units. 1 DU ≈ 0.01 mm pure ozone at 0°C, 1 atm.
-- **Exam Anchor:** The Antarctic ozone hole peaks in Southern Hemisphere spring (September–October) under a polar vortex with polar stratospheric clouds + CFCs.
-
-</details>
+- **Exam Anchor:** Kigali (2016) phases down HFCs. HFCs are not classic ODS, but they have high global-warming potential.
+- **Exam Anchor:** Ozone (O₃) is a molecule of three oxygen atoms that absorbs harmful ultraviolet radiation.
+- **Exam Anchor:** UV-A largely reaches the surface. UV-B is mostly blocked by ozone and causes sunburn and skin cancer if exposure rises.
+- **Exam Anchor:** UV-C is fully absorbed by ozone and oxygen under normal conditions.
+- **Exam Anchor:** Column ozone is measured in Dobson Units (DU). Global average is about 300 DU.
+- **Exam Anchor:** Stratospheric ozone is protective. Tropospheric ozone is a harmful air pollutant and greenhouse gas.
+- **Exam Anchor:** Ozone depletion is the sustained reduction of stratospheric ozone below natural levels.
 
 ---
 

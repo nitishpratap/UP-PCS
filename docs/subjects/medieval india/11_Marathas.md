@@ -15,7 +15,8 @@ Maratha (मराठा) Empire | Shivaji (शिवाजी) | Administrative
 
 ---
 
-## Consolidated — 29 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 29 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Shivaji (1630–1680)** built swaraj (स्वराज), was crowned **Chhatrapati at Raigad (रायगढ़) in 1674** (**Gaga Bhatt / Vishweshwar** of Banaras declared him Kshatriya), and died at Raigad in **1680**.
 2. He was born at **Shivneri** to **Shahji Bhonsle** and **Jijabai**; tradition remembers **Samarth Ramdas** as his guru (गुरु).
@@ -47,9 +48,10 @@ Maratha (मराठा) Empire | Shivaji (शिवाजी) | Administrative
 28. **Ahilyabai Holkar** (अहल्याबाई होल्कर) ruled from the **Holkar** house of **Indore**.
 29. Ashtapradhan ministers headed departments but did **not** hold independent cabinet power; Shivaji could accept or reject advice.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -67,7 +69,8 @@ Maratha (मराठा) Empire | Shivaji (शिवाजी) | Administrative
 | Purandar | Lanavada | 1665 Shivaji–Jai Singh vs 1718 Shahu–Mughals | पुरंदर / लणवाडा |
 | Sambhaji | Shahu | Executed 1689 vs released 1707, Peshwa rise | सम्भाजी / शाहू |
 | Sikh Khalsa | Chauth | 1699 Panth vs Maratha 25% levy | खालसा / चौथ |
----
+
+</details>
 
 ## Must-score facts — Ashtapradhan, Peshwa, battles
 

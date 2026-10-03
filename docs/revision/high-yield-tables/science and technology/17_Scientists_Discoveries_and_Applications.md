@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 9 — Scientists, Discoveries, Defence & Space Technology, and Applications of Physics</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
 | :--- | :--- | :--- |
@@ -30,11 +28,7 @@ hide:
 | **NavIC** | **GPS / Galileo** | NavIC is a **regional** navigation system (7 satellites covering India + 1,500 km). GPS and Galileo are **global** navigation constellations (24+ satellites in Medium Earth Orbit). |
 | **Comet Orbit** | **Asteroid Orbit** | Asteroids have relatively circular orbits primarily in the Asteroid Belt between Mars and Jupiter. Comets follow **highly elongated, eccentric elliptical orbits**; comet tails always point **away from the Sun** due to solar wind and radiation pressure. |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Table 1: India's Missile Arsenal & Strategic Delivery Fleet
 
@@ -261,18 +255,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** DRDO Genesis & Motto: Established in 1958 by amalgamating Technical Development Establishment (TDEs), DTDP, and Defence Science Organisation (DSO). Motto: "Balasya Mulam Vigyanam" ("The source of strength is science").
-- **Exam Anchor:** Integrated Guided Missile Development Programme (IGMDP): Conceived by Dr. A.P.J. Abdul Kalam in 1983 and sanctioned on 26 July 1983; completed in March 2012. Developed five indigenous missile systems: P-A-T-A-N (Prithvi, Agni, Trishul, Akash, Nag).
-- **Exam Anchor:** Prithvi Missile Family: Surface-to-surface, single-stage liquid-propellant ballistic missiles.
-- **Exam Anchor:** Agni Missile Hierarchy: Surface-to-surface ballistic missile family:
-- **Exam Anchor:** Trishul: Short-range (9 km), quick-reaction, supersonic surface-to-air missile developed under IGMDP; officially closed in 2008 due to guidance limitations.
-- **Exam Anchor:** Akash: Medium-range (25–30 km) mobile surface-to-air missile (SAM) system using an air-breathing ramjet rocket propulsion system; guided by indigenous Rajendra 3D phased array radar.
-- **Exam Anchor:** Nag & HELINA / Dhruvastra: Third-generation, 'fire-and-forget' anti-tank guided missile (ATGM). Employs Imaging Infrared (IIR) passive seeker. Land range: 500 m to 4 km. Air-launched helicopter version: HELINA / Dhruvastra (range 7–8 km).
-- **Exam Anchor:** Amogha ATGM Series: Developed by Bharat Dynamics Limited (BDL), Hyderabad. Amogha-III is a 3rd-gen man-portable fire-and-forget ATGM with a tandem HEAT warhead (range 200 m to 2.5 km).
-
-</details>
+- **Exam Anchor:** Mission Divyastra (Agni-V MIRV Test, 11 March 2024):
+- **Exam Anchor:** Agni Prime (Agni P) Milestones (2024–2025):
+- **Exam Anchor:** Pralay Quasi-Ballistic Missile Salvo Launch (31 December 2025):
+- **Exam Anchor:** RudraM-II Air-to-Surface Anti-Radiation Missile (29 May 2024):
+- **Exam Anchor:** BrahMos Supersonic Cruise Missile Export Milestones (2024–2026):
+- **Exam Anchor:** Phase-II Ballistic Missile Defence (BMD) System (24 July 2024):
+- **Exam Anchor:** Akashteer Air Defence Command & Control System (2024–2025):
+- **Exam Anchor:** VSHORADS (Very Short Range Air Defence System):
 
 ---
 

@@ -31,7 +31,8 @@
 ---
 
 
-## Consolidated — 50 Must-Score Facts (Ghatnachakra & UPPCS Aligned)
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts (Ghatnachakra & UPPCS Aligned)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Net sown area (NSA)** is land sown at least once a year. **Gross cropped area (GCA)** counts every sowing. **Cropping intensity** = **GCA / NSA × 100** (about **111%** in 1950–51 to about **156%** now). About **86%** of holdings are small or marginal, and about half of NSA is still rainfed.
 2. Groundwater covers about **64%** of irrigated area (**2018–19**: tubewell ~**48.5%**; canals ~**23%**; tanks ~**2.3%**). Canals suit clayey plains; tube wells dominate north-west and western Uttar Pradesh (उत्तर प्रदेश); tanks suit the peninsula; drip suits horticulture. Minor projects (CCA ≤ **2,000 ha**) create ~**62%** of irrigation potential.
@@ -88,7 +89,10 @@
 49. **National Seed Bag Tags:** **Breeder Seed** = Golden Yellow; **Foundation Seed** = White; **Certified Seed** = Blue.
 50. **Organic Farming Pioneer:** **Sikkim** became India's first 100% organic state in January 2016, operating under the National Programme for Organic Production (NPOP) with APEDA as secretariat.
 
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -131,7 +135,7 @@
 | Pratappur mill | First sugar mill **1903** | Mawana / Balrampur first | प्रतापपुर |
 | Contract farming | Pioneer **Punjab** | Pick Haryana / TN | पंजाब अनुबंध |
 
----
+</details>
 
 ## Must-score facts — seasons, crop–state, irrigation
 

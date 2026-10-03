@@ -26,7 +26,8 @@
 
 ---
 
-## Consolidated — 20 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 20 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Foundation:** On **28 December 1815**, **Sudarshan Shah** founds Old Tehri at **Ganesh Prayag** (Bhagirathi–Bhilangna confluence) after the British keep eastern Garhwal and restore western Garhwal as the Tehri estate.
 2. **Boundary:** The **Alaknanda / Mandakini** line divides **Tehri Princely State** (west) from **British Garhwal** (east).
@@ -49,7 +50,7 @@
 19. Do not swap **Tehri restoration (28 Dec 1815)** with **Tehri merger (1 Aug 1949)**.
 20. Hold the ruler ladder: **Sudarshan → Bhawani → Pratap → Kirti → Narendra → Manvendra**.
 
----
+</details>
 
 ## Chronological Ruler Guide & Structural (संरचनात्मक) Reforms
 
@@ -105,7 +106,8 @@ Manvendra Shah (1946–1949) [Saklana revolt 1948, 1 August 1949 Merger]
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -115,7 +117,7 @@ Manvendra Shah (1946–1949) [Saklana revolt 1948, 1 August 1949 Merger]
 | **Tehri Restoration (1815) vs Tehri Merger (1949)** | 28 Dec 1815 = Sudarshan Shah founded Old Tehri; 1 August 1949 = Tehri merged with India. |
 | **Pahari Wilson vs Major Gillespie** | Frederick Wilson = British entrepreneur who took deodar timber leases; Rollo Gillespie = British Major General killed at Nalapani (1814). |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

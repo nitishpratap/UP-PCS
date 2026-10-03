@@ -52,7 +52,8 @@ D. Jupiter
 ---
 
 
-## Consolidated — 38 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 38 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Big Bang is linked to **Lemaître** / **Gamow** (~**13.7–13.8 bn yr**) and **Hubble** expansion. Steady State is **Hoyle**. Nebular is **Kant–Laplace**. The Milky Way is a **barred spiral** galaxy.
 2. **Chandrasekhar limit** ≈ **1.44 M☉** sets the white-dwarf ceiling; beyond that path → neutron star / black hole. A galactic year for the Sun is ~**22.5–25 crore** years. IAU lists **88** constellations; **Saptarishi** points to the Pole Star.
@@ -95,9 +96,10 @@ D. Jupiter
 37. Day and night length vary with seasons because of axial tilt; on equinox day and night are about equal everywhere. Arctic / Antarctic Circles mark 24-hour day or night at solstice.
 38. Plate boundary types: **divergent** (new crust / mid-ocean ridge), **convergent** (trenches / fold mountains), **transform** (side-slip faults). Himalaya = continent–continent collision.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -158,7 +160,7 @@ D. Jupiter
 | NW India quakes | **Plate convergence** | Volcano / coral | प्लेट |
 | Tsunami word | **Japanese** harbour wave | Arabic / Latin | सुनामी |
 
----
+</details>
 
 ## Must-score facts — motions, structure, latitudes
 

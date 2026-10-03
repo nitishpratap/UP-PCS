@@ -11,9 +11,22 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 16 — Oceans</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why it matters | Source |
+|------|------|----------------|--------|
+| **Feb 2026–ongoing** | After US–Israel strikes on Iran (from **28 Feb 2026**), Iran moved to control / restrict the **Strait of Hormuz**; tanker traffic collapsed; mines, boardings and attacks on merchant ships (नावाध्यक्ष) were reported | World’s top oil–LNG chokepoint in the news | Reuters / IEA / CRS |
+| **2025 baseline** | About **20 mb/d** of oil products (~**25%** of seaborne oil) and ~**20%** of world **LNG** (mainly Qatar + UAE) normally transit Hormuz | Scale of any closure | IEA |
+| Static geography | Hormuz joins **Persian (फ़ारसी) Gulf ↔ Gulf of Oman**; shores are **Iran (north)** and **Oman (Musandam, south)**; UAE sits on the approaches | Country / strait MCQs | Atlas |
+| Bypass note | Only **Saudi Arabia** and the **UAE** have meaningful pipeline routes that can skip Hormuz; Iraq, Kuwait, Qatar, Bahrain and Iran lean almost entirely on the strait | Who is trapped if closed | IEA |
+| Demand side | Most Hormuz oil goes to **Asia** (China, India, Japan, Korea); India is a major importer through this gate | India linkage | EIA / visualisers |
+| Other 2026 themes | Dual blockade talk (Iran on the strait / US on Iranian ports), insurance spikes, and later escort / corridor politics kept oil prices elevated | Chokepoint = price risk | Reuters / Brookings |
+| Static | **BBNJ 2023** high-seas biodiversity treaty — India has signed; UNCLOS **12 / 24 / 200 nm** unchanged | Law of the sea | UN |
+| Static | India Arctic Policy **2022**; Arctic Council **observer** since **2013**; Deep Ocean Mission / Samudrayaan / Blue Economy (नीली अर्थव्यवस्था) | Polar + deep ocean | MEA / MoES |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -65,25 +78,6 @@ hide:
 | Persian Gulf coast | **Not Oman** | Oman inside Gulf | फारस की खाड़ी |
 | Syria sea | **Mediterranean** | Black Sea | सीरिया |
 | Gaza water | **Mediterranean** | Red / Dead Sea as coast | गाजा |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why it matters | Source |
-|------|------|----------------|--------|
-| **Feb 2026–ongoing** | After US–Israel strikes on Iran (from **28 Feb 2026**), Iran moved to control / restrict the **Strait of Hormuz**; tanker traffic collapsed; mines, boardings and attacks on merchant ships (नावाध्यक्ष) were reported | World’s top oil–LNG chokepoint in the news | Reuters / IEA / CRS |
-| **2025 baseline** | About **20 mb/d** of oil products (~**25%** of seaborne oil) and ~**20%** of world **LNG** (mainly Qatar + UAE) normally transit Hormuz | Scale of any closure | IEA |
-| Static geography | Hormuz joins **Persian (फ़ारसी) Gulf ↔ Gulf of Oman**; shores are **Iran (north)** and **Oman (Musandam, south)**; UAE sits on the approaches | Country / strait MCQs | Atlas |
-| Bypass note | Only **Saudi Arabia** and the **UAE** have meaningful pipeline routes that can skip Hormuz; Iraq, Kuwait, Qatar, Bahrain and Iran lean almost entirely on the strait | Who is trapped if closed | IEA |
-| Demand side | Most Hormuz oil goes to **Asia** (China, India, Japan, Korea); India is a major importer through this gate | India linkage | EIA / visualisers |
-| Other 2026 themes | Dual blockade talk (Iran on the strait / US on Iranian ports), insurance spikes, and later escort / corridor politics kept oil prices elevated | Chokepoint = price risk | Reuters / Brookings |
-| Static | **BBNJ 2023** high-seas biodiversity treaty — India has signed; UNCLOS **12 / 24 / 200 nm** unchanged | Law of the sea | UN |
-| Static | India Arctic Policy **2022**; Arctic Council **observer** since **2013**; Deep Ocean Mission / Samudrayaan / Blue Economy (नीली अर्थव्यवस्था) | Polar + deep ocean | MEA / MoES |
 
 ---
 
@@ -558,18 +552,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** By area the oceans rank Pacific > Atlantic > Indian > Southern > Arctic. The Indian Ocean was the Greek Erythraean Sea and straddles both sides of the Equator.
-- **Exam Anchor:** Ocean-floor order from the shore is shelf → slope → rise (or trench) → abyssal plain. A guyot is a flat-topped seamount. The continental shelf is shallow (about 200 m), rich in fish and oil, and covers roughly 7.5% of the ocean floor.
-- **Exam Anchor:** India’s west shelf is wider than the east. The Gujarat–Mumbai belt is widest and holds Bombay High. The east shelf is narrower but carries large delta (डेल्टा) fans.
-- **Exam Anchor:** The Telegraphic Plateau is part of the North Atlantic Ridge, not a separate land plateau.
-- **Exam Anchor:** Trench–ocean pairs: Mariana–Pacific, Puerto Rico–Atlantic, Sunda/Java–Indian, and Molloy–Arctic.
 - **Exam Anchor:** Agulhas and Brazil are warm currents. Humboldt (Peru) and California are cold. Do not mark Agulhas or Brazil as cold.
-- **Exam Anchor:** The Benguela is an Atlantic cold current off south-west Africa. It is not a Pacific current.
-- **Exam Anchor:** Among classic MCQ options, the current linked to the Indian Ocean is the Agulhas.
-
-</details>
+- **Exam Anchor:** El Niño (अल नीनो) sends warm water off Peru, weakens upwelling, and cuts plankton and fish catch.
+- **Exam Anchor:** Upwelling is strongest on west coasts: Peru, California, Canary, Benguela, and Somalia.
+- **Exam Anchor:** Constructive waves build beaches; destructive waves erode them. A tsunami (सुनामी) is not a tide.
+- **Exam Anchor:** Drake Passage is not the Strait of Magellan. Panama opened in 1914 with stepped chambers; Suez opened in 1869 as a sea-level cut.
+- **Exam Anchor:** Datum line = mean-sea-level height/depth zero. Abyssal plains ≈ most extensive ocean-floor province (~76%).
+- **Exam Anchor:** Sargasso = North Atlantic, no coast. Red Sea = axial trough. NAD = Blanket of Europe. OMT (26°C isotherm) helps monsoon rainfall forecast.
+- **Exam Anchor:** Gaza faces the Mediterranean. Baltic coasts = Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland, Sweden — not Norway. Jordan has no Mediterranean coast (only Aqaba / Red Sea).
 
 ---
 

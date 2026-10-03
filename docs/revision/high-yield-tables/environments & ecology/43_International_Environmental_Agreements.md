@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 43 — International Environmental Agreements</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Ramsar Convention (1971)** | **CITES (1973)** | Intergovernmental treaty dedicated specifically to the conservation and wise use of wetlands of international importance vs treaty controlling illegal commercial wildlife trade | रामसर कन्वेंशन (आर्द्रभूमि) / साइट्स (वन्यजीव व्यापार) |
 | **Stockholm Conference (1972)** | **Rio Earth Summit (1992)** | UN Conference on the Human Environment that led to creation of UNEP vs UN Conference on Environment & Development giving birth to Agenda 21, CBD, UNFCCC, and UNCCD | स्टॉकहोम सम्मेलन 1972 / रियो पृथ्वी शिखर सम्मेलन 1992 |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Ladders / tags
 
@@ -113,9 +107,8 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The climate ladder is UNFCCC 1992 → Kyoto 1997 → Paris 2015.
 - **Exam Anchor:** Kyoto (क्योटो) set binding targets mainly for Annex-I parties. Paris uses universal NDCs for all parties.
 - **Exam Anchor:** Montreal protects the ozone layer. Kyoto / Paris / UNFCCC are climate instruments. Never swap Montreal for climate mitigation (जलवायु शमन).
 - **Exam Anchor:** CBD (1992) is the biodiversity convention. Cartagena is the biosafety protocol under CBD.
@@ -123,8 +116,7 @@ hide:
 - **Exam Anchor:** Basel (1989) covers hazardous waste. Rotterdam (1998) covers hazardous chemicals through the PIC procedure (प्रक्रिया).
 - **Exam Anchor:** Stockholm Convention (2001) (स्टॉकहोम संधि) covers POPs such as DDT and PCBs. It is not the Stockholm Conference of 1972.
 - **Exam Anchor:** Minamata (2013) covers mercury.
-
-</details>
+- **Exam Anchor:** CBD opened at Rio 1992 with three objectives: conservation, sustainable use, and fair benefit-sharing of genetic resources.
 
 ---
 

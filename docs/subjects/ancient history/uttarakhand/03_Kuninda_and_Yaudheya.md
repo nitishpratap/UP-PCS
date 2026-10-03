@@ -24,7 +24,8 @@
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Kuninda (Kulinda)** are the first historic dynasty of the central Himalayan foothills, about **2nd century BCE to 3rd century CE**.
 2. Epic identity: Mahabharata king **Subahu** of Subahupur (Srinagar tradition); hailed as **Dwij Srestha**.
@@ -51,7 +52,7 @@
 23. Pair national Post-Mauryan NW coinage with this chapter — UKPCS still wants Almora / Jaunsar findspots.
 24. Next chapter is **Kartikepur (Katyuri)** — Joshimath → Baijnath — after Brahmapura memory.
 
----
+</details>
 
 ## Detailed Classification of Kuninda Coinage
 
@@ -131,7 +132,8 @@
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -141,7 +143,7 @@
 | **Yaudheya vs Kuninda** | Yaudheya = warrior **gana / republic** (Karttikeya); Kuninda = foothill **monarchical/tribal state** (Lakshmi & deer). |
 | **Taleshwar vs Pandukeshwar** | Taleshwar (Almora) = **Paurava dynasty plates**; Pandukeshwar (Chamoli) = **Katyuri dynasty plates**. |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

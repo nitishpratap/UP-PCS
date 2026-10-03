@@ -11,76 +11,79 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 12 — Human Geography (Settlements)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Human geography studies the **man–environment (पर्यावरण) relationship** and the spatial patterns of human life, settlements and economy.
-2. **Environmental determinism** (Ratzel / Semple) says nature controls culture. **Possibilism** (Vidal de la Blache) says humans choose among nature’s options. **Neo-determinism** (Griffith Taylor) is stop-and-go determinism.
-3. **Site** is the local ground of a settlement. **Situation** is its wider regional location relative (सापेक्ष) to routes, resources and other places.
-4. A **census town** needs population **≥5,000**, density **≥400/km²**, and **≥75%** of **male main workers** in non-agriculture. It need not be a municipality.
-5. Rural settlements lean on primary activities and lower density. Urban places are statutory towns or census towns.
-6. Village types are **clustered / nucleated**, **semi-clustered**, **hamleted** and **dispersed**. Clustered villages appear on plains, around Rajasthan water points, and for defence in Bundelkhand / Nagaland — do **not** call the Thar (थार) “dispersed by default.”
-7. Dispersed villages typify **Meghalaya (मेघालय), Uttarakhand (उत्तराखंड), Himachal (हिमाचल) Pradesh, Kerala** and many North-East forest–hill tracts. Hamlet local names include **panna, para, palli, nagla and dhani**.
-8. Semi-clustered villages often show a dominant-caste centre with lower strata on the flanks (Gujarat / Rajasthan pair). Linear villages follow a road, river, canal or coast.
-9. Town functions are classed by the **dominant** job: administrative, industrial, transport, commercial, mining, garrison, educational, religious or tourist.
-10. Class I towns have **≥1 lakh** people (468 towns in 2011 held about **60%** of urban population). Classes II–VI step down from 50–99 thousand to under 5 thousand.
-11. In the standard Indian size ladder, metropolitan cities are **10 lakh–50 lakh** and mega cities are **above 50 lakh** — **six** in 2011. A UN megacity is **≥1 crore**. Do not mix these three thresholds.
-12. 2011 million-plus UA rank starts **Mumbai > Delhi > Kolkata > Chennai > Bengaluru > Hyderabad (हैदराबाद)**. There were **53** million-plus UAs; the smallest in that set is often **Kota**. The **2001** order Mumbai > Kolkata > Delhi is a trap for 2011 stems.
-13. An urban agglomeration can be a town with outgrowths, two contiguous towns, or a city with adjoining towns and outgrowths. Outgrowths include railway colonies, campuses, ports and cantonments.
-14. Settlement evolution pairs: ancient **Varanasi (वाराणसी) / Prayag (प्रयाग) / Madurai (मदुरै)**; medieval **Delhi / Agra / Jaipur / Lucknow (लखनऊ)**; modern planned **Chandigarh** (Le Corbusier). Satellite towns include Ghaziabad.
-15. The **Smart Cities Mission** launched on **25 June 2015** for **100** cities under **MoHUA**, implemented through an SPV. ABD means area-based development (retrofit / redevelopment / greenfield) plus pan-city ICT.
-16. Uttar Pradesh (उत्तर प्रदेश)’s **Central / Mission** Smart City list is **10**: Lucknow, Kanpur (कानपुर), Prayagraj (प्रयागराज), Agra, Varanasi, Aligarh (अलीगढ़), Bareilly, Jhansi (झांसी), Moradabad and Saharanpur. **Ghaziabad is not** in that Central-10.
-17. Uttar Pradesh’s **State Smart Cities (2019)** are seven Nagar Nigams (including Ghaziabad, Meerut (मेरठ), Gorakhpur (गोरखपुर), Mathura (मथुरा), Ayodhya (अयोध्या), Firozabad, Shahjahanpur (शाहजहाँपुर)). State list (राज्य सूची) does not rewrite Mission-100 keys.
-18. ISAC-2020 theme pairs: Culture **Indore**, Governance **Vadodara**, Social **Tirupati**, Urban environment **Bhopal**. Best State award went to **Uttar Pradesh** (उत्तर प्रदेश); best cities included Indore and Surat.
-19. **HRIDAY** covers **12** heritage cities. In Uttar Pradesh the pair is **Varanasi and Mathura** — not Prayagraj or Ayodhya.
-20. **SPMRM (Rurban)** was **launched on 21 February 2016** (Cabinet approval 2015). Matching the scheme to **2015** is the classic trap. It is under **MoRD**, not MoHUA.
-21. **Rurbanization** is linked to sociologist **G.S. Ghurye**. McLuhan’s **Global Village** rests on **transport plus communication**.
-22. Scheme chronology: **JNNURM 2005** → Urban Housing Policy **2007** → **AMRUT June 2015** → **Jal Jeevan Mission 2019**. **AMRUT 2.0** is **1 October 2021**. **SAGY** is **2014**.
-23. Smart Cities = **MoHUA**; smart village / Rurban = **MoRD**. Keep the ministries separate.
-24. **Bhopal** is the classic “not on a major river bank” city trap against Agra, Patna (पटना) or Kolkata.
-25. NCR slice of Uttar Pradesh includes Ghaziabad, Noida, Greater Noida and Meerut in the urban–industrial belt.
-26. Hamleted villages break the main settlement into secondary units (**panna / para / palli / nagla / dhani**); they are a rural pattern, not a separate census-town category.
-27. Economic activities: **primary** (farming, mining, fishing), **secondary** (manufacturing), **tertiary** (services), with **quaternary** for knowledge / R&D in advanced teaching.
-28. Rural settlements lean on primary work and lower density; urban places are **statutory towns** or **census towns**. An **outgrowth** (railway colony, campus, cantonment) can sit inside an urban agglomeration.
-29. Functional town tags to keep: administrative, industrial, transport, commercial, mining, garrison, educational, religious and tourist — classed by the **dominant** job.
-30. Planned modern city classic = **Chandigarh** (Le Corbusier). Ancient urban tags include **Varanasi / Prayag / Madurai**; medieval tags include Delhi / Agra / Jaipur / Lucknow.
+1. **Environmental determinism** (Ratzel / Semple) says nature controls culture. **Possibilism** (Vidal de la Blache) says humans choose among nature’s options. **Neo-determinism** (Griffith Taylor) is stop-and-go determinism.
+2. **Site** is the local ground of a settlement. **Situation** is its wider regional location relative (सापेक्ष) to routes, resources and other places.
+3. **HRIDAY** covers **12** heritage cities. In Uttar Pradesh the pair is **Varanasi and Mathura** — not Prayagraj or Ayodhya.
+4. **SPMRM (Rurban)** was **launched on 21 February 2016** (Cabinet approval 2015). Matching the scheme to **2015** is the classic trap. It is under **MoRD**, not MoHUA.
+5. **Rurbanization** is linked to sociologist **G.S. Ghurye**. McLuhan’s **Global Village** rests on **transport plus communication**.
+6. **Bhopal** is the classic “not on a major river bank” city trap against Agra, Patna (पटना) or Kolkata.
+7. **Site** is the immediate ground (water, slope, soil, flood-free height).
+8. **Situation** is the place in the wider region (routes, markets, other towns).
+9. **Wet-point** settlements cluster **around water** (well / oasis) — common compact Rajasthan pair.
+10. **Dry-point** settlements sit on **flood-free upland** or a levee in wet plains.
+11. **Census town** needs all three together: population ≥ **5,000**, density ≥ **400**/km², and ≥ **75%** of **male main** workers in **non-agriculture**.
+12. **Physical factors** include terrain, altitude, climate and especially **water**.
+13. **Cultural / ethnic factors** include caste and religion.
+14. **Security / defence** also shapes compact clustering in some belts.
+15. **Retrofit** improves services and infrastructure in an **existing** built-up area without wholesale replacement.
+16. **Redevelopment** replaces an existing built-up pocket with a new layout and buildings.
+17. **Greenfield** develops a previously vacant or unused site as a new urban pocket.
+18. **Pan-city** adds ICT and smart solutions that serve the **whole city**, not only one ABD pocket.
+19. **Rurbanization** in the 2022 sociologist set is locked to **G.S. Ghurye**.
+20. **Global Village** (McLuhan) rests on **transport and communication** development — not “UN created it.”
+21. **Ghaziabad = Central Smart City** — FALSE for Mission-100 / 2018–2020 keys. State-2019 list is a **different** tag.
+22. **UP Smart Cities = 12/15/18** — FALSE. Papers key **10**.
+23. **HRIDAY = Prayagraj / Ayodhya** — FALSE. **Varanasi + Mathura**. National total **12**, not 100.
+24. **SPMRM launched 2015** — FALSE as launch year. **21 Feb 2016**.
+25. **Class I town = 10 lakh** — FALSE. **1 lakh**. 10 lakh = million UA.
+26. **Census town = any big village / always a municipality** — FALSE. Triple test **or** statutory town; 75% is **male main** workers.
+27. **AMRUT = 2005** — FALSE. **2015**. **JNNURM = 2005**.
+28. **Rurbanization = M.N. Srinivas** — FALSE in that 2022 set. **G.S. Ghurye**.
+29. **Global Village = UN created it** — FALSE. **Transport + communication**.
+30. **Dispersed villages = Ganga plain / all of Thar** — FALSE. Plains = clustered. **Rajasthan = clustered (water)**. Dispersed = **Meghalaya, UK, HP, Kerala, NE forests**.
+31. **Smart village scheme = MoHUA Smart Cities** — FALSE. SPMRM = **MoRD**.
+32. **NCERT mega city = 10 lakh or only 1 crore** — FALSE. NCERT mega = **> 50 lakh (six)**; metro = **10–50 lakh**; UN megacity = **1 crore**.
+33. **ISAC Culture = Vadodara** — FALSE. Culture **Indore**; Governance **Vadodara**.
+34. **Determinism = Vidal / Possibilism = Ratzel** — SWAP. Determinism = **Ratzel/Semple**; Possibilism = **Vidal**.
+35. **Neo-determinism = free will without limits** — FALSE. **Griffith Taylor** stop-and-go.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Census town | 5,000 + 400/km² + 75% non-agri male main | Any big village / always a municipality | जनगणना नगर |
-| Clustered village | Plains + **Rajasthan water** + Bundelkhand/Nagaland defence | “Thar = dispersed” | संकुल |
-| Dispersed village | **Meghalaya, UK, HP, Kerala**, NE forests/hills | Ganga plain / all Rajasthan | प्रकीर्ण |
-| Hamleted local names | **panna, para, palli, nagla, dhani** | A separate census town | पुरवा/ढाणी |
-| Semi-clustered | Dominant caste **centre**; lower strata **flanks** (GJ/RJ) | Same as hamleted | अर्ध-संकुल |
-| Class I town | ≥**1 lakh** (468 in 2011; ~**60%** urban pop) | ≥10 lakh | श्रेणी I |
-| Metropolitan (NCERT) | **10 lakh–50 lakh** | 10 million | महानगर |
-| Mega city (NCERT) | **> 50 lakh**; **six** in 2011 | Only 1 crore / only Mumbai | मेगा |
-| UN megacity | ≥ **1 crore** | Mixing with NCERT 50-lakh mega | UN मेगा |
-| 2011 size rank | **Mumbai > Delhi > Kolkata > Chennai** | Mumbai > Kolkata > Delhi (that is **2001**) | 2011 क्रम |
-| Bhopal | **Not** on a major river bank | Agra/Patna/Kolkata are | भोपाल ≠ नदी |
-| UP Smart Cities (papers) | **10 Central** listed | 12/15/18; Ghaziabad | 10 शहर |
-| Ghaziabad | Not in **Mission-100 / Central-10** | “Is a Smart City” (only **State** 2019) | गाजियाबाद नहीं |
-| SPMRM year | **2016 launch** | 2015 | 2016 |
-| HRIDAY in UP | **Varanasi + Mathura** | Prayagraj / Ayodhya | काशी+मथुरा |
-| AMRUT | **Jun 2015** | 2005 (that is JNNURM) | 2015 |
-| JNNURM | **2005** | 2015 | 2005 |
-| Smart Cities vs SPMRM | MoHUA vs **MoRD** | Same ministry | आवास vs ग्राम |
-| Global Village | Transport + communication | UN / politics only | परिवहन+संचार |
-| Rurbanization (options) | **G.S. Ghurye** | M.N. Srinivas | घुर्ये |
-| Determinism | Nature controls man (**Ratzel / Semple**) | Possibilism | नियतिवाद |
-| Possibilism | Man chooses within nature (**Vidal de la Blache**) | Determinism | संभावनावाद |
-| Neo-determinism | Stop-and-go determinism (**Griffith Taylor**) | Pure free will | नव-नियतिवाद |
-| Site vs situation | Local ground vs wider regional location | Same thing | स्थल ≠ स्थिति |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Ghaziabad = Central Smart City** — FALSE for Mission-100 / 2018–2020 keys. State-2019 list is a **different** tag.
+2. **UP Smart Cities = 12/15/18** — FALSE. Papers key **10**.
+3. **HRIDAY = Prayagraj / Ayodhya** — FALSE. **Varanasi + Mathura**. National total **12**, not 100.
+4. **SPMRM launched 2015** — FALSE as launch year. **21 Feb 2016**.
+5. **Class I town = 10 lakh** — FALSE. **1 lakh**. 10 lakh = million UA.
+6. **Census town = any big village / always a municipality** — FALSE. Triple test **or** statutory town; 75% is **male main** workers.
+7. **AMRUT = 2005** — FALSE. **2015**. **JNNURM = 2005**.
+8. **Rurbanization = M.N. Srinivas** — FALSE in that 2022 set. **G.S. Ghurye**.
+9. **Global Village = UN created it** — FALSE. **Transport + communication**.
+10. **Dispersed villages = Ganga plain / all of Thar** — FALSE. Plains = clustered. **Rajasthan = clustered (water)**. Dispersed = **Meghalaya, UK, HP, Kerala, NE forests**.
+11. **Smart village scheme = MoHUA Smart Cities** — FALSE. SPMRM = **MoRD**.
+12. **NCERT mega city = 10 lakh or only 1 crore** — FALSE. NCERT mega = **> 50 lakh (six)**; metro = **10–50 lakh**; UN megacity = **1 crore**.
+13. **ISAC Culture = Vadodara** — FALSE. Culture **Indore**; Governance **Vadodara**.
+14. **Determinism = Vidal / Possibilism = Ratzel** — SWAP. Determinism = **Ratzel/Semple**; Possibilism = **Vidal**.
+15. **Neo-determinism = free will without limits** — FALSE. **Griffith Taylor** stop-and-go.
+16. **Site = regional location** — FALSE. Site = **local ground**; situation = region.
+17. **Skip nature/scope because recent papers asked Smart Cities** — FALSE. Next year can ask approaches from the same topic.
+14. **Varanasi = major seaport town** — FALSE. Religious–cultural; HRIDAY yes.
+15. **2011 UA rank = Mumbai > Kolkata > Delhi** — that is **2001**. **2011 = Mumbai > Delhi > Kolkata > Chennai**.
+16. **Bhopal = river-bank town like Agra/Patna** — FALSE.
+17. **Hamleted = a census town** — FALSE. Local **panna/para/palli/nagla/dhani**, one village name.
+18. **75% workers in primary sector = census town** — FALSE. Need **non-agriculture** male main workers.
+
+
+### 🌐 Human Geography Core Theories & Concepts (Ghatnachakra Complete)
+- **Neo-Determinism ("Stop-and-Go Determinism" / Scientific Determinism)**: Advanced by **Griffith Taylor**. Holds that humans can accelerate, slow down, or stop nature's programme, but cannot depart from the broad physical conditions nature sets.
+- **Cultural Worlds (Introducing Cultural Geography)**: **J.E. Spencer and W.L. Thomas** divided the world into **11 cultural worlds**.
+- **Migration Theory**: Advanced by **Everett S. Lee** (Push and Pull factors; permanent or semi-permanent change of residence).
 
 
 ---

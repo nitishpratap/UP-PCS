@@ -15,7 +15,8 @@ Early medieval kingdoms | Arab & Turkish invasions | Delhi Sultanate (all five d
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Arab foothold: **Muhammad bin Qasim in Sind, 712 CE**.
 2. Early medieval north: **Tripartite struggle** — Pala, Pratihara, Rashtrakuta for Kannauj.
@@ -40,9 +41,10 @@ Early medieval kingdoms | Arab & Turkish invasions | Delhi Sultanate (all five d
 21. Do not swap **Tarain I / II** or **Panipat I / II / III** (III is Modern 1761).
 22. Do not swap **Shivaji coronation 1674** with **Khalsa 1699**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -54,7 +56,7 @@ Early medieval kingdoms | Arab & Turkish invasions | Delhi Sultanate (all five d
 | Shivaji 1674 | Khalsa 1699 | Maratha kingship vs Sikh Khalsa | शिवाजी / खालसा |
 | Vijayanagara 1336 | Bahmani 1347 | Hindu southern empire vs Deccan sultanate | विजयनगर / बहमनी |
 
----
+</details>
 
 ## M.0 Megaspine — memorise this first
 

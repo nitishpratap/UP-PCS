@@ -11,30 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 26 — One-Liner Revision</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Fact | Hindi Terminology |
-|---|----|------|-------------------|
-| **338B NCBC** | **340 commission** | **338B** = the standing National Commission for Backward Classes (102nd, 2018). **340** = President *may* name a one-off inquiry (Kalelkar, Mandal). The 2024 paper used 340 as a match — know **both** | राष्ट्रीय पिछड़ा वर्ग आयोग (338B) / पिछड़ा वर्ग जांच आयोग (340) |
-| **ECI 324** | **SEC 243K** | Parliament / State Houses / President / VP vs **PRI + ULB** | भारतीय निर्वाचन आयोग / राज्य निर्वाचन आयोग |
-| **NHRC** | **NCSC** | Statutory 1993 vs Constitutional **338** | राष्ट्रीय मानवाधिकार आयोग / राष्ट्रीय अनुसूचित जाति आयोग |
-| **NITI** | **FC 280** | Executive think-tank **2015** vs tax-share Commission | नीति आयोग (2015) / वित्त आयोग (अनु. 280) |
-| **CAG** | **PAC** | Audits and **reports** vs **examines** the report | कैग (लेखापरीक्षक) / लोक लेखा समिति (समीक्षा) |
-| **PAC** | **Estimates** | 22, both Houses, CAG, Opposition chair vs **30, LS only, no CAG** | लोक लेखा समिति / प्राकलन समिति |
-| **Art. 110** | **Art. 109** | Money Bill **definition** vs RS **14-day** procedure | धन विधेयक परिभाषा / धन विधेयक विशेष प्रक्रिया |
-| **Sarkaria** | **Punchhi** | ISC **1990** vs 2007–10 (Council already existed) | सरकारिया आयोग (1983) / पुंछी आयोग (2007) |
-| **Santhanam 1962** | **Santhanam 1963** | **CVC** vs **PRI finances** | संथानम समिति (सीवीसी) / संथानम समिति (पंचायती राज वित्त) |
-| ***Golaknath*** | ***Kesavananda*** | FR cannot be amended vs FR can, **basic structure** cannot | गोलकनाथ 1967 / केशवानंद भारती 1973 |
-| ***Navtej*** | **Art. 377** | **s.377 IPC** vs transitory **CAG** clause | नवतेज जौहर (धारा 377) / अनुच्छेद 377 (कैग संक्रमण) |
-| **UPPSC** | **UP SEC** | Prayagraj, recruitment vs Lucknow, **local polls** | उत्तर प्रदेश लोक सेवा आयोग / राज्य निर्वाचन आयोग |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## Current Affairs (what the year actually tests)
 
@@ -59,6 +36,27 @@ hide:
 | 2023 | CEC Act panel **without CJI** |
 | 2021 | ISC = **Sarkaria** (सरकारिया आयोग); UPPSC (उत्तर प्रदेश लोक सेवा आयोग) extend = **Legislature** |
 | 2018 | *Navtej* (नवतेज जौहर) = **s.377 IPC** |
+
+---
+
+| A | B | Fact | Hindi Terminology |
+|---|----|------|-------------------|
+| Part XI | Part IXA / XIVA | Union–State relations · **not** Municipalities · **not** Tribunals | भाग XI (संबंध) / भाग IXA (नगरपालिका) |
+| 4th Schedule | 9th Schedule | RS seats vs validation of Acts | चौथी (राज्यसभा सीट) / 9वीं अनुसूची |
+| 5th Schedule | 6th Schedule | Scheduled Areas (many States) vs **AMTM** Autonomous Councils | 5वीं (अनुसूचित क्षेत्र) / 6वीं अनुसूची (AMTM) |
+| 11th / 12th | counts | **29** Panchayat vs **18** Municipality | 11वीं (29 विषय) / 12वीं (18 विषय) |
+| Art. 32 | Art. 226 | SC, FR only vs HC, **wider** | अनु. 32 (सर्वोच्च न्यायालय) / अनु. 226 (उच्च न्यायालय) |
+| Art. 54 | Art. 66 | President: MPs+MLAs · VP: **Parliament only** | राष्ट्रपति निर्वाचन मण्डल / उपराष्ट्रपति |
+| Precedence | Succession | **Warrant 1979** ceremonial · **not** Art. 56–62 line | वरीयता क्रम / उत्तराधिकार क्रम |
+| CJI | Speaker | **Same rank — 6** | मुख्य न्यायाधीश एवं लोकसभा अध्यक्ष (समान रैंक 6) |
+| Cabinet Minister | AG | Minister **7** · AG **11** | कैबिनेट मंत्री (7) / महान्यायवादी (11) |
+| SC judge | CEC/CAG | **9** vs **9A** | सर्वोच्च न्यायालय न्यायाधीश (9) / कैग व चुनाव आयुक्त (9A) |
+| Art. 352 | 356 / 360 | National vs State vs Financial | राष्ट्रीय / राज्य (राष्ट्रपति शासन) / वित्तीय आपातकाल |
+| Prohibition | Certiorari | **Before** the order vs **after** | प्रतिषेध (निर्णय पूर्व) / उत्प्रेषण (निर्णय पश्चात) |
+| 3rd Schedule | Arts. 60 / 69 / 159 | Ministers/MPs/judges/CAG vs **President / VP / Governor** | तीसरी अनुसूची शपथ / संवैधानिक विशिष्ट शपथ |
+| 42nd | 44th | Mini-Constitution **1976** vs Emergency rewrite **1978** | 42वां (1976) / 44वां संशोधन (1978) |
+| 9th Amendment | 9th Schedule | Berubari **1960** vs 1st Amd **1951** list of Acts | 9वां संशोधन (1960) / 9वीं अनुसूची (1951) |
+| 35th’s old 10th Sch | 52nd’s 10th Sch | Sikkim associate-State terms (repealed 36th) vs **defection** | सिक्किम सह-राज्य / दल-बदल विरोधी कानून |
 
 ---
 
@@ -524,6 +522,25 @@ hide:
 
 ---
 
+### Confused pairs (bodies · Parliament · cases · UP)
+
+| A | B | Fact | Hindi Terminology |
+|---|----|------|-------------------|
+| **338B NCBC** | **340 commission** | **338B** = the standing National Commission for Backward Classes (102nd, 2018). **340** = President *may* name a one-off inquiry (Kalelkar, Mandal). The 2024 paper used 340 as a match — know **both** | राष्ट्रीय पिछड़ा वर्ग आयोग (338B) / पिछड़ा वर्ग जांच आयोग (340) |
+| **ECI 324** | **SEC 243K** | Parliament / State Houses / President / VP vs **PRI + ULB** | भारतीय निर्वाचन आयोग / राज्य निर्वाचन आयोग |
+| **NHRC** | **NCSC** | Statutory 1993 vs Constitutional **338** | राष्ट्रीय मानवाधिकार आयोग / राष्ट्रीय अनुसूचित जाति आयोग |
+| **NITI** | **FC 280** | Executive think-tank **2015** vs tax-share Commission | नीति आयोग (2015) / वित्त आयोग (अनु. 280) |
+| **CAG** | **PAC** | Audits and **reports** vs **examines** the report | कैग (लेखापरीक्षक) / लोक लेखा समिति (समीक्षा) |
+| **PAC** | **Estimates** | 22, both Houses, CAG, Opposition chair vs **30, LS only, no CAG** | लोक लेखा समिति / प्राकलन समिति |
+| **Art. 110** | **Art. 109** | Money Bill **definition** vs RS **14-day** procedure | धन विधेयक परिभाषा / धन विधेयक विशेष प्रक्रिया |
+| **Sarkaria** | **Punchhi** | ISC **1990** vs 2007–10 (Council already existed) | सरकारिया आयोग (1983) / पुंछी आयोग (2007) |
+| **Santhanam 1962** | **Santhanam 1963** | **CVC** vs **PRI finances** | संथानम समिति (सीवीसी) / संथानम समिति (पंचायती राज वित्त) |
+| ***Golaknath*** | ***Kesavananda*** | FR cannot be amended vs FR can, **basic structure** cannot | गोलकनाथ 1967 / केशवानंद भारती 1973 |
+| ***Navtej*** | **Art. 377** | **s.377 IPC** vs transitory **CAG** clause | नवतेज जौहर (धारा 377) / अनुच्छेद 377 (कैग संक्रमण) |
+| **UPPSC** | **UP SEC** | Prayagraj, recruitment vs Lucknow, **local polls** | उत्तर प्रदेश लोक सेवा आयोग / राज्य निर्वाचन आयोग |
+
+---
+
 ## Constitutional Bodies
 
 | Art. | Body | One-liner |
@@ -784,7 +801,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Originally 22 Parts (1950). Now 25 (IVA, IXA (नगरपालिका), IXB (सहकारिता), XIVA added; VII repealed).
 - **Exam Anchor:** Trap: ECI = Art. 165. 165 = AdvG. Trap: FC = 263. 263 = ISC. Trap: standing NCBC = 340. 338B; 340 = inquiry.
@@ -793,8 +810,6 @@ hide:
 - **Exam Anchor:** Ladder: Shankari 1951 → Sajjan 1965 → Golaknath 1967 → 24th 1971 → Kesavananda 1973 → Indira 1975 → Minerva 1980.
 - **Exam Anchor:** Judges: 1981 executive → 1993 CJI+2 → 1998 CJI+4 → 2015 NJAC dead.
 - **Exam Anchor:** First Governor Sarojini Naidu (1947). First CM G.B. Pant. First woman CM Sucheta Kripalani (1963).
-
-</details>
 
 ---
 

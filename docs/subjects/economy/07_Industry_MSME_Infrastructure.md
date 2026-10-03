@@ -30,7 +30,8 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 
 ---
 
-## Consolidated — 47 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 47 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **secondary sector** covers manufacturing, electricity, gas, water and construction in national-accounts teaching.
 2. **Industrialisation** raises manufacturing’s share of output and employment and deepens capital goods capacity.
@@ -80,9 +81,10 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 46. India–**Japan** collaboration: **Delhi–Mumbai Industrial Corridor (DMIC)**.
 47. Topic border: CSR / Kotak governance → **Topic 11**; labour codes / Code on Wages → **Topic 12**; poverty from industry → Topic 8; FDI stock tables → Topic 9.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -105,6 +107,8 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 | **Singapore FDI source** | **Mauritius historic routing** | Recent top source vs treaty-shift story |
 | **Seven engines** | **Sixteen ministries on GIS** | Engine list vs portal integration count |
 | **Bhilai–Russia** | **Rourkela–Germany** | Steel collaboration countries |
+
+</details>
 
 ## Must-score drill — missions and MSME
 

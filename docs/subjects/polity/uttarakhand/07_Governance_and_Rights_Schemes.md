@@ -88,7 +88,8 @@
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -99,7 +100,7 @@
 | **Sanskrit Official Language Year**| Notified as 2nd official language in **January 2010** (not 2000 or 2014). |
 | **RTI First Commissioner** | 1st Chief Information Commissioner was **Dr. R. S. Tolia** (trap: Ajay Vikram Singh). |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

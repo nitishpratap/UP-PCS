@@ -11,9 +11,17 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 1 — Indian Physical Geography: Mountains & Hills</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **Mar 2024** | **Sela Tunnel** (BRO) — all-weather Tezpur–**Tawang** (Arunachal); longest twin-lane tunnel **above ~13,000 ft** | Border tunnel / pass CA | PIB / inauguration |
+| **2025** | **Z-Morh / Sonamarg Tunnel** — all-weather Srinagar–Ladakh (लद्दाख) axis | Pair with Zoji La (ज़ोजिला) | PIB |
+| 2020 / PYQ 2025 | Atal Tunnel qualifier only: longest highway tunnel **above 10,000 ft**, not unqualified world longest | | PIB / BRO |
+
+---
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -37,20 +45,6 @@ hide:
 | Kangra Valley | Kulu Valley | Strike / longitudinal vs transverse valley (HP) | कांगड़ा / कुल्लू |
 | Standard Meridian | Tropic of Cancer | **82°30′ E** N–S time line (Mirzapur; 5 states) vs **23°30′ N** E–W line (8 states; **not UP**) | मानक याम्योत्तर / कर्क रेखा |
 | Indira Col | Indira Point | Northern extreme (Siachen / Ladakh) vs southernmost **territory** (Great Nicobar) | इंदिरा कोल / इंदिरा पॉइंट |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Mar 2024** | **Sela Tunnel** (BRO) — all-weather Tezpur–**Tawang** (Arunachal); longest twin-lane tunnel **above ~13,000 ft** | Border tunnel / pass CA | PIB / inauguration |
-| **2025** | **Z-Morh / Sonamarg Tunnel** — all-weather Srinagar–Ladakh (लद्दाख) axis | Pair with Zoji La (ज़ोजिला) | PIB |
-| 2020 / PYQ 2025 | Atal Tunnel qualifier only: longest highway tunnel **above 10,000 ft**, not unqualified world longest | | PIB / BRO |
 
 ---
 
@@ -376,18 +370,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** India has six relief divisions for map questions: Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert (Thar (थार)), Coastal Plains, and Islands. The Thar is a Pleistocene and recent sand sheet, not an older Tertiary desert.
-- **Exam Anchor:** From north to south the Himalayan belts are Trans-Himalaya → Himadri (Greater) → Himachal (Lesser) → Shiwalik. Himadri (हिमाद्रि) is crystalline and fossil-less. Himachal (हिमाचल) carries marine fossils. Shiwalik (शिवालिक) is the outermost belt and holds human remains.
-- **Exam Anchor:** Among the usual age options, Himadri is the youngest Himalayan belt and Aravalli is the oldest fold mountain system of India. Guru (गुरु) Shikhar (1722 m) on Mount Abu is Rajasthan’s highest peak.
-- **Exam Anchor:** The Kashmir Valley sits between Pir Panjal on the south and Himadri on the north, with Zanskar toward the north-west. Karewas are old lake-bed terraces of this valley and grow saffron. A dun (दून) is a different landform — a longitudinal valley between Himachal and Shiwalik.
-- **Exam Anchor:** Central India hills from west to east run Satpura → Mahadeo → Maikal → Chhotanagpur. Vindhya (विंध्य) lies north of the Narmada (नर्मदा) and Satpura (सतपुड़ा) lies south of the Narmada. Do not reverse them.
-- **Exam Anchor:** The classic state–peak match set is Tamil Nadu (नाडु)–Doddabetta, Rajasthan–Guru Shikhar, Nagaland–Saramati, and Madhya Pradesh–Dhupgarh. Also fact Kerala–Anaimudi (अनाइमुदी) and Uttarakhand (उत्तराखंड)–Nanda Devi (नंदा देवी).
 - **Exam Anchor:** Lipulekh (लिपुलेख), Niti (नीति), and Mana (माना) are all in Uttarakhand (उत्तराखंड). Lipulekh is not in Ladakh. Mana is not in Himachal. Nathu La (नाथू ला) is Sikkim. Shipki La (शिपकी ला) is Himachal.
-- **Exam Anchor:** Tirupati’s Venkateswara temple stands on the Tirumala / Mallamalla Hills of the Eastern Ghats (पूर्वी घाट) in Andhra Pradesh. It is not on the Shevaroy Hills of Tamil Nadu.
-
-</details>
+- **Exam Anchor:** Intertrappean beds between Deccan lava flows hold land and freshwater fossils. They do not hold sea plants and animals. Keep the depth figures: upper about 450 m, middle about 1200 m, lower about 150 m.
+- **Exam Anchor:** Namcha Barwa lies in Tibet and is not an Indian peak. K2 stands in the Karakoram, not on Himadri. Kanchenjunga (कंचनजंगा) is the highest peak fully in India.
+- **Exam Anchor:** Palghat (Palakkad) Gap is a rift and the widest break in the Western Ghats, linking Kerala with Tamil Nadu. Anaimudi (2695 m) is the hub of Anamalai, Palani, and Cardamom and is the highest peak of South India.
+- **Exam Anchor:** Purvanchal Hills are the north-eastern fold hills beyond the Dihang (दिहांग) (Patkai (पटकाई), Naga (नागा), Mizo (मिज़ो), Mishmi (मिश्मी)). They are not the eastern Uttar Pradesh region also called Purvanchal.
+- **Exam Anchor:** Garo (गारो), Khasi (खासी), and Jaintia (जयंतिया) hills form the Meghalaya Plateau. They are geologically peninsular, not Himalayan fold ranges. Mawsynram and Cherrapunji sit on the Khasi Hills.
+- **Exam Anchor:** Gujarat has the longest state coastline. Mainland plus islands is about 7516 km. Telangana is not a coastal state.
+- **Exam Anchor:** Uttar Pradesh’s highest point is Amsot (about 941 m) in the Kaimur / Sonbhadra (सोनभद्र) belt. It is a Vindhyan fringe peak, not a Himalayan summit.
 
 ---
 

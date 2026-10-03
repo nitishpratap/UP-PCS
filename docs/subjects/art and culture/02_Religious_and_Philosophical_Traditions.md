@@ -21,7 +21,8 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 ---
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The six **Astika** (आस्तिक) schools that accept the Veda as pramana (प्रमाण) are **Nyaya–Gautama** (न्याय - गौतम), **Vaisheshika–Kanada** (वैशेषिक - कणाद), **Samkhya–Kapila** (सांख्य - कपिल), **Yoga–Patanjali** (योग - पतंजलि), **Mimamsa–Jaimini** (मीमांसा - जैमिनि), and **Vedanta–Badarayana** (वेदांत - बादरायण).
 2. The usual **Nastika** (नास्तिक) set is **Charvaka** (चार्वाक), **Buddhism** (बौद्ध धर्म), and **Jainism** (जैन धर्म). Add **Ajivika** (**Makkhali Gosala**) [आजीवक - मक्खलि गोसाल] when fate / *niyati* (नियति) appears in options.
@@ -52,9 +53,10 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 27. The white marble dargah of Sheikh Salim Chishti at **Fatehpur Sikri** (फतेहपुर सीकरी) is the preeminent Mughal-era Sufi pilgrimage site in Uttar Pradesh.
 28. The mound of **Kankali Tila** at Mathura is the landmark Uttar Pradesh archaeological site for ancient Jain art and inscriptions.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -74,8 +76,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 | Wujud | Shuhud | Unity of being (Ibn Arabi) vs unity of witness (Sirhindi) | वजूद / शुहूद |
 | Tangible WH | Intangible ICH | Monument (Qutub) vs living rite (Kumbh, Yoga) | मूर्त / अमूर्त |
 
----
-
+</details>
 
 ## Must-score facts — Darshanas, Vedanta, Buddhism
 

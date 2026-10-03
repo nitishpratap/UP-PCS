@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 3 — Vedic Civilization</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -41,11 +39,7 @@ hide:
 | Aghanya | Horse sacrifice | Cow “not to be killed” vs Ashvamedha horse rite | अघन्या / अश्वमेध |
 | Sindhu (most named) | Saraswati (most sacred) | Frequency in hymns vs *Naditama* piety | सिन्धु / सरस्वती |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Age ↔ geography / economy
 
@@ -241,18 +235,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Early / Rigvedic age is about 1500–1000 BCE in the Sapta Sindhu (Punjab) belt. Its economy type is pastoral.
-- **Exam Anchor:** The Later Vedic age is about 1000–600 BCE in the Ganga–Yamuna doab, including much of western–central Uttar Pradesh. Its economy type is agrarian, with iron and PGW.
-- **Exam Anchor:** The Early Vedic rajan (राजन) was a tribal chief, not an absolute king. Later Vedic kingship became more hereditary and stronger over land and ritual.
 - **Exam Anchor:** Sabha (सभा) was an assembly of elders or nobles. Samiti (समिति) was the wider tribal assembly that could choose the rajan (राजन).
 - **Exam Anchor:** Vidatha (विदथ / विधाता) is the oldest gathering, with economic and ritual roles and women’s presence. It fades first in Later Vedic times.
 - **Exam Anchor:** Bhagadugha (भागदुघ) collected the king’s share (bhaga (भाग)). Sangrahitri (संग्रहीतृ) was the treasurer. Akshavapa (अक्षावाप) handled dice / gambling. Do not swap revenue with dice.
-- **Exam Anchor:** The Rigveda (ऋग्वेद) has 1028 hymns in 10 mandalas. Mandala 2–7 are the oldest family books. Mandala 9 is Soma. Mandalas 1 and 10 are latest.
-- **Exam Anchor:** Hymn-count facts are roughly Indra ~250, Agni ~200, Soma ~120, and Ashvins 50+. Varuna has fewer hymns but guards rita (ऋत - cosmic moral order).
-
-</details>
+- **Exam Anchor:** Shukla (White) Yajurveda is the Vajasaneyi (वाजसनेयी) school, with mantra and prose kept separate. Krishna (कृष्णा) here means Black Yajurveda, not the god Krishna.
+- **Exam Anchor:** Aranyakas (आरण्यक) are forest texts of symbolic ritual. Upanishads (उपनिषद्) teach Brahman–Atman philosophy (Vedanta).
+- **Exam Anchor:** Varna (वर्ण) is the four-fold order (Purusha Sukta; more rigid later). Jati (जाति) is later birth-group identity. Do not treat them as identical.
+- **Exam Anchor:** Gavishti (गविष्टि) means cattle-raid or war for cows. Bali (बलि) is tribute to the king. Nishka (निष्क) is a gold ornament or value-unit, not coined money.
+- **Exam Anchor:** Shruti (श्रुति) is “heard” Vedic revelation. Smriti (स्मृति) is remembered later dharma literature.
 
 ---
 

@@ -15,7 +15,8 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. After the imperial Guptas break about **550 CE**, the **Hunas** are led first by **Toramana**, then by **Mihirakula** of **Sakala (Sialkot)**. **Yashodharman** of Malwa boasts the Huna check at **Mandasor** about **532 CE**. **Vasula** is remembered as composer of Yashodharman’s Sondani / Sondhni record.
 2. Regional houses to fact: **Pushyabhutis** at **Thanesar**, **Maukharis** at **Kannauj**, **Later Guptas** in Magadha, **Maitrakas** at **Valabhi** (वलभी), and **Gauda** under **Shashanka** at **Karnasuvarna**.
@@ -52,9 +53,10 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 33. Harsha’s moving royal camp is remembered as **skandhavara**. Administration reuses Gupta vocabulary; the state dies with the king in **647**.
 34. **Pushyabhuti** house founder-memory is **Pushyabhuti**; Harsha’s Chinese title is **Siladitya**. Do not call Harsha a Gupta emperor.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -76,7 +78,7 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 | Sung-yun | Fa-Hien | ~518 Wei envoy vs CG II pilgrim ~400 | सुंगयुन / फाह्यान |
 | Harsha | Shankaracharya | 7th c. Kannauj king vs 8th c. Advaita maths | हर्ष / शंकर |
 
----
+</details>
 
 ## Must-score facts — Harsha, travellers, houses
 

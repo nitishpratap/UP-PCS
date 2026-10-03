@@ -11,91 +11,85 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 6 — Foreign Invasions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. North-west doors into India are the **Khyber** and **Bolan** routes. After Achaemenid Persians came Macedon, then **Indo-Greek → Shaka → Parthian → Kushan**.
-2. Correct invader order is **Greeks → Sakas → Kushans**. Kushans do **not** come before Sakas.
-3. **Darius I** (about **518 BCE**) took **Gandhara** (गांधार) and **Hindush** as the **20th** satrapy with gold-dust tribute. Behistun lists many provinces of his empire; Herodotus makes India the twentieth. **Skylax** explored the Indus. **Kharoshthi** (खरोष्ठी) grew from Aramaic. **Ctesias** was physician to **Artaxerxes II**.
-4. **Alexander** entered India about **327–325 BCE** (year often **326**). The campaign lasted roughly **19 months**. He returned west from the Indus mouth / Paatal region about **325 BCE**.
-5. **Ambhi** of Taxila was Alexander’s **ally**. **Porus** fought him at the **Hydaspes (Jhelum)** and was then restored and enlarged.
-6. The army mutinied at the **Hyphasis (Beas)**. Alexander raised twelve altars there and turned back. Hydaspes is the battle; Beas is the turn-back.
-7. On the return, Alexander stormed **Sangala**, was wounded among the **Malloi**, sent **Nearchus** by sea, crossed harsh **Gedrosia**, and died at Babylon in **323 BCE**.
-8. **Kalanos** went with Alexander and later self-immolated. **Dandamis** refused to follow. **Aristotle** tutored Alexander but **never** came to India. **Deimachus** also did **not** come with Alexander — he is later Seleucid envoy to **Bindusara** (बिन्दुसार).
-9. Greek writers’ **Sandrokottos** is **Chandragupta Maurya** (चंद्रगुप्त मौर्य) — the main Greek peg for early Indian chronology. Last Nanda **Dhana** is **Agrammes / Xandrames**; commander **Bhaddasala**.
-10. **Seleucus Nicator** fought Chandragupta about **305–303 BCE**, ceded Arachosia, Gedrosia, and Paropamisadae, and received **500 elephants** plus the envoy **Megasthenes** (मेगस्थनीज).
-11. Those elephants later mattered at **Ipsus (301 BCE)** in the western Diadochi wars.
-12. Indo-Greek power grew after **Diodotus** freed Bactria and **Demetrius** entered India. **Menander (Milinda)** ruled from **Sagala** (Sialkot) and dialogued with **Nagasena** (नागसेन).
-13. Early Indo-Greek coins of **Agathocles / Pantaleon** show Brahmi and Vaishnava types (Balarama / Vasudeva). Portrait die-struck coins carry Greek and Kharoshthi.
-14. The **Heliodorus** pillar at **Besnagar** (about **113 BCE**) shows a Greek ambassador as a Bhagavata. The *Yuga Purana* remembers Yavanas at Pataliputra.
-15. **Shakas** (Indo-Scythians) used the title **kshatrapa**. **Maues / Moga** was first strong at Taxila–Gandhara.
-16. Western Kshatrapa lines: **Kshaharata Nahapana** was checked by **Gautamiputra Satakarni** (गौतमीपुत्र शातकर्णि) (Nasik). **Kardamaka Chashtana** leads to **Rudradaman** (रुद्रदामन) of the Junagadh Sanskrit inscription.
-17. **Sudarshana lake** history runs **Pushyagupta** (Chandragupta Maurya) → **Tushaspha** (Ashoka) → repair by **Rudradaman**.
-18. **Parthians (Pahlavas)** under **Gondophares** (about **19–45 CE**) held a brief north-west phase, remembered at **Takht-i-Bahi**, before the Kushan peak.
-19. Kushans rose from a **Yuezhi** clan: **Kujula** unified, **Vima** issued famous **gold** (*Shaonanoshao*), and **Kanishka** (कनिष्क) marked the imperial climax.
-20. Kushan capitals include **Purushapura** (Peshawar) and **Mathura** (मथुरा). Art schools are **Gandhara** and **Mathura**.
-21. Kanishka’s Fourth Buddhist Council is placed in **Kashmir** (Vasumitra / Ashvaghosha tradition). The **Shaka era** of **78 CE** is linked with Kanishka, not with Vikrama **57 BCE**.
-22. **Devaputra** (देवपुत्र) is a Kushan royal title. The **Rabatak** inscription helps Kushan genealogy.
-23. **Sagala** is Menander’s Sialkot seat. **Sangala** is the Kathaioi town Alexander stormed. Do not merge the spellings.
-24. **Bucephala** commemorated Alexander’s horse. **Nicaea** commemorated victory after Hydaspes.
-25. **Megasthenes** was Seleucus’s envoy after the Chandragupta treaty. **Nearchus** was Alexander’s admiral. Keep envoy and admiral separate.
-26. Alexander’s line stops at the **Beas** (ब्यास). There was **no** Macedonian campaign in Awadh, Kashi, or Magadha.
-27. Indo-Greek political centres stay in the north-west (**Taxila / Sagala**). The middle-Ganga foreign layer, including **Mathura**, is mainly **Kushan** (कुषाण).
-28. **Maues** is Shaka at Taxila. **Gondophares** is Parthian at Takht-i-Bahi. **Kanishka** is the Kushan peak — three different horizons.
-29. **Hathigumpha** is Kharavela’s Kalinga cave text. **Junagadh** is Rudradaman’s Shaka rock. Do not swap those epigraphs.
-30. Persian rule first planted the satrap idea (**kshatrapa**) and Aramaic writing habits that later feed Kharoshthi.
-31. Menander is the Indo-Greek **Milinda**. **Nagarjuna** (नागार्जुन) is the later Madhyamaka philosopher — a common name trap beside Nagasena.
-32. After Kushan decline, north-west politics again fragment; the next big imperial story in Magadha is Gupta, not another Alexander.
-33. Alexander’s Indian success is usually read as **no central power**, a **superior army**, and help from **traitorous Indian rulers** (e.g. Ambhi). Being a “good administrator” is **not** a standard cause of that victory.
-34. Headline Indo-Greek kings to name: **Demetrius I** (first big Indian push), **Apollodotus** (early Indian-side silver), **Menander / Milinda** (Sagala; *Milinda Panha*), **Antialcidas** (sends Heliodorus), **Agathocleia–Strato I**, late **Hermaeus / Strato II**.
-35. Headline Shaka kings: **Maues / Moga** (first at Taxila), **Azes I**, **Nahapana** (नहपान) (Kshaharata; beaten by Gautamiputra), **Chashtana** then **Rudradaman I** (Kardamaka; Junagadh).
-36. Headline Kushan kings: **Kujula Kadphises** (unifier; mainly copper) → **Vima Kadphises** (gold; *Shaonanoshao*) → **Kanishka** → **Huvishka** → **Vasudeva I**.
-37. The headless **Mat** statue near **Mathura** shows **Kanishka** in Central Asian dress: long quilted coat / caftan, **trousers**, and heavy **padded boots**, holding a **mace** and **sword**.
-38. Kushan royal dress is steppe riding kit — **not** the Indian dhoti style of Mauryan royal memory. Coins and Mat / Surkh Kotal portraits keep that look.
-39. North Indian **Surya** images often wear tunic, trousers, and boots (**udichya-vesa**) under Shaka–Kushan influence. That boot-clad Surya is a foreign-wave art fact.
-40. **Gandhara** art uses grey / green **schist** and Greco-Roman Buddha modelling in the NW. **Mathura** art uses mottled **red sandstone** and indigenous types in **UP**.
-41. Early anthropomorphic **Buddha** (बुद्ध) images grow under Indo-Greek to Kushan patronage at both schools. Kanishka’s coins and the Sarnath image of monk **Bala** (year 3) are dated Buddhist-icon pegs.
-42. Classic **Nataraja** (Chola lost-wax bronze, damaru–agni–Apasmara) is **not** a Kushan sculpture fact. Kushan Mathura shows early **Shiva** as linga / mukhalinga and as **Oesho** on coins — not the Chola Nataraja type.
+1. **Darius I** (about **518 BCE**) took **Gandhara** (गांधार) and **Hindush** as the **20th** satrapy with gold-dust tribute. Behistun lists many provinces of his empire; Herodotus makes India the twentieth. **Skylax** explored the Indus. **Kharoshthi** (खरोष्ठी) grew from Aramaic. **Ctesias** was physician to **Artaxerxes II**.
+2. **Alexander** entered India about **327–325 BCE** (year often **326**). The campaign lasted roughly **19 months**. He returned west from the Indus mouth / Paatal region about **325 BCE**.
+3. **Ambhi** of Taxila was Alexander’s **ally**. **Porus** fought him at the **Hydaspes (Jhelum)** and was then restored and enlarged.
+4. **Kalanos** went with Alexander and later self-immolated. **Dandamis** refused to follow. **Aristotle** tutored Alexander but **never** came to India. **Deimachus** also did **not** come with Alexander — he is later Seleucid envoy to **Bindusara** (बिन्दुसार).
+5. **Seleucus Nicator** fought Chandragupta about **305–303 BCE**, ceded Arachosia, Gedrosia, and Paropamisadae, and received **500 elephants** plus the envoy **Megasthenes** (मेगस्थनीज).
+6. **Shakas** (Indo-Scythians) used the title **kshatrapa**. **Maues / Moga** was first strong at Taxila–Gandhara.
+7. **Sudarshana lake** history runs **Pushyagupta** (Chandragupta Maurya) → **Tushaspha** (Ashoka) → repair by **Rudradaman**.
+8. **Parthians (Pahlavas)** under **Gondophares** (about **19–45 CE**) held a brief north-west phase, remembered at **Takht-i-Bahi**, before the Kushan peak.
+9. **Devaputra** (देवपुत्र) is a Kushan royal title. The **Rabatak** inscription helps Kushan genealogy.
+10. **Sagala** is Menander’s Sialkot seat. **Sangala** is the Kathaioi town Alexander stormed. Do not merge the spellings.
+11. **Bucephala** commemorated Alexander’s horse. **Nicaea** commemorated victory after Hydaspes.
+12. **Megasthenes** was Seleucus’s envoy after the Chandragupta treaty. **Nearchus** was Alexander’s admiral. Keep envoy and admiral separate.
+13. **Maues** is Shaka at Taxila. **Gondophares** is Parthian at Takht-i-Bahi. **Kanishka** is the Kushan peak — three different horizons.
+14. **Hathigumpha** is Kharavela’s Kalinga cave text. **Junagadh** is Rudradaman’s Shaka rock. Do not swap those epigraphs.
+15. **Gandhara** art uses grey / green **schist** and Greco-Roman Buddha modelling in the NW. **Mathura** art uses mottled **red sandstone** and indigenous types in **UP**.
+16. **Megasthenes** did **not** march with Alexander. He comes after the Seleucus treaty.
+17. **Cyrus** (died 530 BCE) reaches the Indus fringe in **legend** only. The **satrapy** is **Darius I**, about **518/516 BCE**.
+18. **Skylax of Caryanda** sails the Indus to the sea. Persepolis and Naqsh-i-Rustam reliefs show Indian delegates.
+19. **Xerxes** took Indian infantry and archers into the Persian host against the Greeks. Herodotus records this.
+20. **Ctesias** served as state physician to **Artaxerxes II** and wrote on India–Persia from that court world.
+21. **Ambhi / Omphis** of Taxila **submits** and becomes an ally.
+22. **Abisares** of Kashmir sends gifts and does not fight.
+23. **Phegeus** warns him of Nanda numbers.
+24. **Nearchus** sails from the Indus mouth to the Gulf.
+25. **Philip** is a satrap and is later murdered.
+26. **Peithon** holds the lower Indus.
+27. **Eudemus** is a leftover officer.
+28. **Sandrokottos = Chandragupta** is the peg of **William Jones**. Magadha and Buddha dates hang on this.
+29. **Aristobulus** is an engineer and writer, an eyewitness behind Arrian. **Ptolemy I** is a general whose memoir also feeds Arrian. He later becomes a Pharaoh. He is **not** an Indian king.
+30. **Nearchus** is the admiral who sails from the Indus mouth to the Persian Gulf. **Onesicritus** is the helmsman who writes of gymnosophists, the “naked philosophers.”
+31. **Craterus** is a general sent **overland** with veterans. **Coenus** is the voice of the **Beas** mutiny.
+32. **Seleucus** is an officer on the march, but his Indian war is **after** Alexander. **Hephaestion** is Alexander’s intimate and chiliarch. He is on the Indian march. He dies in 324. He is not the Beas story.
+33. **Callisthenes** is the court historian and Aristotle’s kin. He is killed **before** India, in the proskynesis row. **Eudemus** is left in the Punjab as a post-323 leftover.
+34. **Aristotle** did **not** march to India. He was tutor in Macedon only.
+35. **Megasthenes** did **not** march to India. He is a Seleucid envoy about **303**, at Chandragupta’s court.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Hydaspes | Hyphasis | **Jhelum** — battle vs Porus vs **Beas** — mutiny / turn-back | झेलम / ब्यास |
-| Ambhi | Porus | Taxila **ally** vs Paurava **enemy-then-satrap** | अंभि / पोरस |
-| Alexander | Seleucus | 326 campaign vs **~305** war/treaty with Chandragupta | सिकंदर / सेल्यूकस |
-| Seleucus | Indo-Greeks | Syrian-Bactrian successor of Alexander vs **Bactrian Greeks inside India** later | सेल्यूकस / इंडो-ग्रीक |
-| Menander | Nagasena | King **Milinda** vs monk of *Milinda Panha* | मेनांडर / नागसेन |
-| Menander | Nagarjuna | Indo-Greek king vs Madhyamaka philosopher | मेनांडर / नागार्जुन |
-| Aristotle | Aristobulus | Tutor, **never in India** vs engineer-historian **on the march** | अरस्तू / अरिस्टोबुलस |
-| Megasthenes | Nearchus | Seleucid **envoy after 303** vs Alexander’s **admiral** | मेगस्थनीज / नियार्कस |
-| Greeks | Sakas | Hellenistic (2nd c. BCE) vs Scythians **after** them (2023) | यूनानी / शक |
-| Indo-Greek | Kushan | Menander / Sagala vs **Kanishka**, Purushapura, era **78 CE** | इंडो-ग्रीक / कुषाण |
-| Bucephala | Nicaea | City for the horse vs victory-city after Hydaspes | बुसेफला / नीकेया |
-| Kalanos | Dandamis | Gymnosophist who *went* with Alexander vs the one who **refused** | कलानोस / दंडामिस |
-| Sagala | Sangala | Menander’s **Sialkot** vs Kathaioi town Alexander **stormed** | सागल / संगला |
-| Vikrama 57 BCE | Shaka 78 CE | Traditional Vikramaditya vs **Kanishka-era** count | विक्रम / शक |
-| Agathocles | Menander | Early Brahmi/Vaishnava coin types vs Milinda / Athena types | अगाथोक्लीज / मेनांडर |
-| Maues | Gondophares | **Shaka** Indo-Scythian first at Taxila vs **Parthian** Pahlava at Takht-i-Bahi | माउस / गोंडोफेरिस |
-| Nahapana | Rudradaman | Kshaharata, beaten by Gautamiputra vs Kardamaka, Junagadh Sanskrit | नहपान / रुद्रदामन |
-| Kujula Kadphises | Vima Kadphises | Kushan **founder/unifier** vs **gold** coin headline | कुजुल / विम |
-| Purushapura | Sagala | Kushan **Peshawar** capital vs Indo-Greek **Sialkot** | पुरुषपुर / सागल |
-| Hathigumpha | Junagadh | Kharavela’s Kalinga cave vs Rudradaman’s Shaka rock | हाथीगुफा / जूनागढ़ |
-| Gondophares | Kanishka | Brief **Parthian** NW vs **Kushan** empire peak | गोंडोफेरिस / कनिष्क |
-| Demetrius I | Menander | First big Indo-Greek **push** vs greatest Indo-Greek / **Milinda** | डेमेट्रियस / मेनांडर |
-| Kujula | Kanishka | Founder / unifier vs imperial **climax** + era **78 CE** | कुजुल / कनिष्क |
-| Gandhara art | Mathura art | NW **schist**, Greco-Roman vs UP **red sandstone**, indigenous | गांधार / मथुरा |
-| Kushan dress | Mauryan dhoti look | Coat + **trousers** + boots vs Indian lower-garment royal memory | कुषाण वेश / धोती |
-| Early Mathura Shiva | Chola Nataraja | Linga / mukhalinga / Oesho under Kushan vs later Tamil **bronze dancer** | मथुरा शिव / चोल नटराज |
-| Booted Surya | Barefoot South Surya | North Indian **udichya-vesa** (Shaka–Kushan) vs southern bare legs | सूर्य जूते / दक्षिणी सूर्य |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Facts
+
+1. **Hydaspes = Beas** → Jhelum = fight; Beas = **stop**.
+2. **Alexander beat the Nandas / sat at Pataliputra** → never crossed the Beas.
+3. **Ambhi fought at Hydaspes as the enemy** → **ally**; enemy = **Porus**.
+4. **Porus was killed** → restored as satrap.
+5. **Aristotle / Megasthenes / Chanakya / Deimachus in the Macedonian column** → no (Deimachus = Bindusara envoy).
+6. **Megasthenes = Alexander’s admiral** → admiral = **Nearchus**; Megasthenes = **Seleucus’s envoy**.
+7. **Seleucus conquered Magadha** → he **ceded** NW tracts, took **500 elephants**.
+8. **Kushans before Sakas** (2023 B) → **Greeks → Sakas → Kushans**.
+9. **Nagarjuna wrote Milinda Panha** → **Nagasena**.
+10. **Menander = Alexander’s general** → 2nd c. BCE Indo-Greek.
+11. **Besnagar pillar = Pushyamitra’s ashwamedha site** → Besnagar is **Heliodorus**; Pushyamitra’s ashwamedha tradition is tied to **Ayodhya** in that stem.
+12. **Kanishka = Indo-Greek** → **Kushan** (Purushapura, era 78 CE).
+13. **Alexander died at Taxila in 326** → **Babylon, 323**.
+14. **First foreigners in the NW = Alexander** → **Achaemenids** (Darius).
+15. **Indo-Greek coins = punch-marked karshapana** → die-struck portraits, Greek + Kharoshthi.
+16. **Sangala = Sagala** → Kathaioi town Alexander stormed ≠ Menander’s Sialkot.
+17. **Kalanos = Dandamis** → one went, one refused.
+18. **Indo-Greeks introduced Gupta gold dinaras** → portrait silver; **gold = Kushan** headline.
+19. **Shaka era = 57 BCE** → **78 CE**; 57 BCE = **Vikrama**.
+20. **Yavana raid on Pataliputra = Alexander 326** → later Indo-Greek / *Yuga Purana* memory.
+21. **Maues = Kushan** → **Shaka** first at Taxila.
+22. **Rudradaman = Indo-Greek** → **Shaka** mahakshatrapa; Junagadh Sanskrit.
+23. **Nahapana = Kardamaka** → **Kshaharata**; beaten by Gautamiputra.
+24. **Gondophares = Shaka** → **Parthian**; Takht-i-Bahi fact.
+25. **Fourth Buddhist Council = Ashoka** → **Kanishka**, Kashmir / Vasumitra.
+26. **Hathigumpha = Kanishka** (2018 option) → **Kharavela**.
+27. **Purushapura = Sagala** → Peshawar Kushan vs Sialkot Indo-Greek.
+28. **Massaga women = Kathaioi / Sangala** → Assakenoi capital **Massaga**.
+29. **Alexander success = good administrator** → not a standard cause; use no central power + army + traitors.
+30. **Kushan kings wore dhoti like Ashoka’s pillar figures** → Mat / coin portraits show **coat, trousers, boots**.
+31. **Chola Nataraja = Kanishka’s Mathura sculpture** → Nataraja is later Tamil bronze; Kushan Mathura = early Shiva linga / Buddha / royal portraits.
+32. **Gandhara = red sandstone of Mathura** → Gandhara = **schist** / Greco-Roman NW; Mathura = **red sandstone** UP.
+33. **Demetrius = Menander** → Demetrius = early push; Menander = greatest / Milinda.
+34. **Vima = founder of Kushans** → founder = **Kujula**; Vima = **gold** headline.
 
 
 ---

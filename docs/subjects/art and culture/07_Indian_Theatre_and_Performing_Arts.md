@@ -23,7 +23,8 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 ---
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Natyashastra** (नाट्यशास्त्र) by **Bharata Muni** (भरत मुनि) (about **200 BCE–200 CE**) codifies drama with about **10** rupaka (रूपक), **9** rasa (रस), and four abhinaya (अभिनय).
 2. **Abhinavabharati** (अभिनवभारती) is Abhinavagupta’s (अभिनवगुप्त) commentary on Natyashastra. **Dasharupaka** (दशरूपक) is Dhananjaya’s (धनंजय) later summary of play types.
@@ -50,9 +51,10 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 23. UNESCO Intangible Cultural Heritage performing arts elements include **Koodiyattam** Sanskrit theatre (**2008**), the traditional **Ramlila** (**2008**), and **Mudiyettu** (मुडियेट्टु) ritual drama (**2010**).
 24. These are **not** UP: Kathputli (Rajasthan), Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), and Ramman (Uttarakhand).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -72,8 +74,7 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 | Tholu Bommalata | Ravana Chhaya | Andhra coloured leather vs Odisha dark deer-skin shadow | तोलू बोम्मलता / रावण छाया |
 | Bidesiya | Nautanki | Bhojpuri migrant play vs UP folk opera | बिदेसिया / नौटंकी |
 
----
-
+</details>
 
 ## Must-score facts — Sanskrit drama, folk theatre, puppets
 

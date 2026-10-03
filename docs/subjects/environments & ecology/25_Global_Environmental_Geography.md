@@ -21,7 +21,8 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Global environmental geography asks **where and why** Earth’s climate–biome patterns occur. Climate (temperature and rainfall) shapes biomes, biodiversity, and degradation belts.
 2. Major biomes to ratta: tropical rainforest (Amazon **Selva** (सेल्वा)), tropical deciduous (Indian monsoon forests), desert (**<25 cm** rain), savanna (सवाना) (scattered trees with wet–dry seasons), temperate grassland (**Prairie (प्रेयरी), Steppe (स्टेपी), Pampas, Puszta (पुस्ज़टा)**), taiga/boreal, tundra (टुंड्रा), Mediterranean chaparral, and coastal mangrove as a transitional belt.
@@ -48,9 +49,10 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 23. Engler floral regions and Sauer planting hearth are cultural–biogeography matchs, not climate-classification letters.
 24. Keep “14 biomes vs 10 Indian biogeographic zones” as a numbers trap pair.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -67,7 +69,7 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 - Global textbook biome counts (often **~14**) are **not** India’s **ten** biogeographic zones (Rodgers and Panwar).
 - UP plains sit mainly in the **Gangetic Plain** biogeographic colour with Terai (तराई)–deciduous transitions — not a tropical rainforest biome answer.
 
----
+</details>
 
 ## Must-score facts — biomes, Köppen, grasslands
 

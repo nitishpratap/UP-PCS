@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Census and Urbanisation Topic 5 — Migration and Population Distribution</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -27,18 +33,6 @@ hide:
 | **Intra-District Migration**: Within the same district (62% of migrants) | **Inter-State Migration**: Across different States (12% of migrants) | **Trap**: The vast majority of migration in India is local and intra-district, not inter-state. |
 | **Agricultural Density**: $rac{	ext{Agricultural Workers}}{	ext{Net Cultivated Area}}$ | **Agricultural Population Density**: Total farm household members on arable land | **Trap**: Agricultural density measures the ratio of farm workers to farm land; high agricultural density indicates agricultural overcrowding and low labour productivity. |
 | **One Nation One Ration Card (ONORC)**: Domestic food ration portability | **e-Shram Portal**: National database of unorganized & migrant labour | **Trap**: ONORC provides food grain portability across PDS ration shops; e-Shram is a digital registry issuing 12-digit UAN numbers. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -150,18 +144,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** As per Census 2011, 45.36 Crore people (37.5% of India's population) are internal migrants by place of last residence.
 - **Exam Anchor:** Rural to Rural (R $	o$ R) is the largest internal migration stream in India, accounting for over 53% of all internal migrants.
-- **Exam Anchor:** The Rural to Rural migration stream is overwhelmingly dominated by females due to marriage.
 - **Exam Anchor:** Marriage is the single largest reason for female migration in India, accounting for 66.7% (two-thirds) of all female migrants.
 - **Exam Anchor:** Work / Employment is the single largest reason for male internal migration in India, accounting for approximately 38% of male migrants.
-- **Exam Anchor:** The Rural to Urban (R $	o$ U) migration stream in India is predominantly male-dominated.
 - **Exam Anchor:** Urban to Rural (U $	o$ R) is the smallest migration stream in India, representing return migration post-retirement or economic crisis.
 - **Exam Anchor:** Intra-district migration accounts for the largest share (62%) of internal migration in India.
-
-</details>
+- **Exam Anchor:** Inter-state migration constitutes approximately 12% (5.4 Crore migrants) of total internal migrants in India.
+- **Exam Anchor:** Uttar Pradesh is the largest net source State of out-migrants in India, followed by Bihar.
+- **Exam Anchor:** Maharashtra is the largest destination State for inter-state in-migrants in India, followed by the NCT of Delhi.
 
 ---
 

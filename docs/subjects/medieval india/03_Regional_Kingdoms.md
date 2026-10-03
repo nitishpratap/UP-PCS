@@ -15,7 +15,8 @@ Sharqi Sultanate (Jaunpur (जौनपुर)) | Kashmir under Zain-ul-Abidin (
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Firuz Shah** founded the city of **Jaunpur** (जौनपुर) in memory of cousin **Jauna Khan (Muhammad bin Tughlaq (मुहम्मद बिन तुगलक))**; **Malik Sarwar (Khwaja-i-Jahan / Malik-us-Sharq)** made it independent (**~1394**); **Ibrahim (इब्राहिम) Shah** made it **Siraj/Shiraz-i-Hind**.
 2. **Atala Masjid** (अटाला मस्जिद) and **Lal Darwaza Masjid** are classic **Sharqi** (शर्की) monuments at Jaunpur in eastern **UP**.
@@ -54,9 +55,10 @@ Sharqi Sultanate (Jaunpur (जौनपुर)) | Kashmir under Zain-ul-Abidin (
 35. **Chand Bibi** of Ahmadnagar is the Deccan defence memory against Akbar’s late campaigns — do not place her at Talikota **1565**.
 36. Post-Talikota Aravidu rulers shifted power southward; Hampi ceased to be the imperial capital after the **1565** sack.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -73,7 +75,7 @@ Sharqi Sultanate (Jaunpur (जौनपुर)) | Kashmir under Zain-ul-Abidin (
 | Kitab-i-Nauras | Amuktamalyada | Ibrahim Adil Shah II (Bijapur) vs Krishnadevaraya (Telugu) | किताब-ए-नौरस / अमुक्तमाल्यद |
 | Nayankara system | Iqta system | Vijayanagara nayaka military land grants vs Delhi Sultanate muqti | नायककारा / इक्ता |
 
----
+</details>
 
 ## Must-score facts — capitals, books, chronology
 

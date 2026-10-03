@@ -5,7 +5,8 @@
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Total Population (जनसंख्या):** India's population stood at **1,210,854,977 (121.08 Crore)**; Males: 51.54% (62.32 Cr), Females: 48.46% (58.75 Cr). India holds **17.5%** of the world's population on just **2.4%** of the world's surface area.
 2. **Decadal Growth (2001–2011):** **17.70%** (Rural: 12.3%, Urban (नगरीय): 31.8%). Highest State: **Meghalaya (मेघालय) (27.9%)**, followed by Arunachal Pradesh (26.0%) and Bihar (25.4%). Lowest/negative State: **Nagaland (-0.6%)**, followed by Kerala (4.9%) and Goa (गोवा) (8.2%). Highest UT: Dadra (दादरा) & Nagar Haveli (55.9%).
@@ -38,8 +39,10 @@
 29. **Census Legal & Administrative Framework:** Governed by the **Census Act, 1948** (piloted in Constituent Assembly (संविधान सभा) by Sardar Vallabhbhai Patel). Census is Entry **69** of the **Union List** (संघ सूची) (Seventh Schedule, Art. 246). Office of Registrar General and Census Commissioner of India operates under the **Ministry of Home Affairs (MHA)**.
 30. **Census 2011 Mascot & Tagline:** 15th National Census (7th since 1947). Mascot: **Female Enumerator (प्रगणक शिक्षिका)**. Motto: *"Our Census, Our Future"* (हमारी जनगणना, हमारा भविष्य). Census Commissioner was **C. Chandramouli**.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -61,7 +64,7 @@
 | **Census 1872** | **Census 1881** | **Lord Mayo** (first, incomplete) vs **Lord Ripon** (first synchronous decennial) | प्रथम जनगणना (मेयो 1872) / प्रथम समकालिक नियमित (रिपन 1881) |
 | **Year of Great Divide (1921)** | **Year of Population Explosion (1951–81)** | **1921** (negative growth -0.31%) vs **1961–1971** (highest growth 24.80%) | महान विभाजक वर्ष (1921) / जनसंख्या विस्फोट काल |
 
----
+</details>
 
 ## 1. India - Key Census 2011 Metrics
 * **Total Population:** ~121 Crore (Rural: 68.8%, Urban: 31.2%)

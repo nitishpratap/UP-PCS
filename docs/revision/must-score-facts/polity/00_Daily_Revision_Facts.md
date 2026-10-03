@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Daily Read — High-Yield Revision Facts (Indian Polity & Governance)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Rank 1**: **President of India**
 2. **Rank 2**: **Vice-President of India**
@@ -49,8 +48,6 @@ hide:
 33. **Art. 41**: Right to work, to education, and to public assistance in cases of unemployment, old age, sickness.
 34. **Art. 42**: Provision for just and humane conditions of work and **Maternity relief**.
 35. **Art. 43**: Living wage and decent standard of life for workers.
-
-</details>
 
 
 ---

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 31 — Environmental Days</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Earth Day** | **Earth Hour** | Fixed annual civic observance on **22 April** vs WWF voluntary **last Saturday of March** 1-hour lights-off event | पृथ्वी दिवस (22 अप्रैल) / अर्थ आवर (मार्च अंतिम शनिवार) |
 | **World Soil Day** | **World Day to Combat Desertification** | **5 December** (FAO celebration of King Bhumibol's birthday) vs **17 June** (UNCCD adoption anniversary) | विश्व मृदा दिवस (5 दिसंबर) / मरुस्थलीकरण रोकथाम दिवस (17 जून) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Day ↔ date
 
@@ -97,7 +91,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** World Wetlands Day falls on 2 February (रामसर) and marks the Ramsar (रामसर) Convention (1971) (रामसर कन्वेंशन). It is not 2 March or 3 March.
 - **Exam Anchor:** World Wildlife Day falls on 3 March and marks the adoption of CITES (साइट्स) (1973) (साइट्स). It is not 22 March.
@@ -107,8 +101,6 @@ hide:
 - **Exam Anchor:** International Day for Biological Diversity falls on 22 May and commemorates the CBD text adopted (अंगीकृत) at Nairobi in 1992.
 - **Exam Anchor:** World Environment Day falls on 5 June. It marks the opening of the Stockholm Conference (1972) (स्टॉकहोम सम्मेलन) and is run by UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम).
 - **Exam Anchor:** World Ozone Day falls on 16 September and marks the Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) (1987) (मॉन्ट्रियल प्रोटोकॉल).
-
-</details>
 
 ---
 

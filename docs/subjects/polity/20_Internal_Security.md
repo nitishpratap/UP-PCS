@@ -43,7 +43,8 @@ Newest first. One event, one fact — not a dump of keywords.
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Police and public order are **State List** (राज्य सूची) subjects. The Union still has a duty under Article **355** to protect States against external aggression and internal disturbance. The **Ministry of Home Affairs** is the internal-security nodal ministry.
 2. The Army (सेना), Navy, Air Force, and Coast Guard (तटरक्षक बल) sit under the **Ministry of Defence**. CAPFs sit under **Home**. Do not put Coast Guard in the CAPF list.
@@ -76,9 +77,10 @@ Newest first. One event, one fact — not a dump of keywords.
 29. CRPF is the main internal mobile force (including RAF and CoBRA for LWE). BSF holds the western and eastern international land borders. CISF holds static industry and airport security. Do not swap roles.
 30. Emergency Articles **352, 356, and 360** are constitutional emergency tools. Internal security day-to-day work still runs through police, CAPFs, intelligence, and special statutes — not only through Emergency proclamations.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Term A | Term B | Core Difference | Hindi Terminology |
 |--------|--------|-----------------|-------------------|
@@ -101,7 +103,8 @@ Newest first. One event, one fact — not a dump of keywords.
 | **AFSPA 1958** | **AFSPA J&K 1990** | NE disturbed areas vs Separate J&K statute | अफस्पा 1958 / अफस्पा कश्मीर 1990 |
 | **AFSPA** | **UAPA** | Army powers in a **disturbed** notification vs Police/NIA **trial** statute | अफस्पा (सेना अधिकार) / यूएपीए कानून |
 | **NCTC (terror)** | **NCTC (I4C)** | Counter-terror centre — **never born** vs National **Cybercrime Training** Centre | आतंकवाद-रोधी केंद्र / साइबर प्रशिक्षण केंद्र |
----
+
+</details>
 
 ## Must-score facts — agencies, CAPF, NSC
 

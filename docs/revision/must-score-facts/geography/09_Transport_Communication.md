@@ -11,73 +11,88 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 9 — Transport & Communication</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Transport moves people and goods; communication moves information. About **95%** of India’s trade by **volume** moves by sea.
-2. India’s first passenger train ran **Mumbai–Thane in 1853**. Indian Railways is organised into about **18 zones** (older books still say 16).
-3. Zone–HQ pairs: **Northern Railway — New Delhi**; **North Eastern Railway — Gorakhpur (गोरखपुर)**; **South Eastern Railway — Garden Reach, Kolkata** (not Cuttack); **East Central Railway — Hajipur**; **North Central Railway — Prayagraj (प्रयागराज)**; **South Western Railway — Hubballi**; **East Coast Railway — Bhubaneswar**.
-4. The **Western Dedicated Freight Corridor** runs **Dadri–JNPT**. The **Eastern Dedicated Freight Corridor** runs **Ludhiana–Dankuni**.
-5. **Amrit Bharat** is a **station modernisation** programme, not a new-lines scheme. About **1,275** stations were identified all-India; in **February 2023**, **149 Uttar Pradesh (उत्तर प्रदेश) stations** were listed.
-6. The new **Pamban** bridge is an **RVNL** project and India’s first **vertical-lift** railway sea bridge. Hubballi holds both the **South Western Railway HQ** and the **August 2020** railway museum.
-7. National Highways are only about **2%** of road length but carry about **40%** of traffic. Rural roads are most of the length and are linked to **PMGSY**.
-8. The **Golden Quadrilateral** joins Delhi–Mumbai–Chennai–Kolkata (about **5,846 km**). North–South is Srinagar–Kanyakumari (कन्याकुमारी); East–West is Porbandar–**Silchar**. They meet at **Jhansi** (झांसी).
-9. **Bharatmala** is a **highway** programme. **Sagarmala** is **port-led**. Do not swap the two. **PMGSY (2000)** = rural all-weather roads; **PMBJP** = highway BOT corridors.
-10. The **Atal Tunnel** runs under **Rohtang** (रोहतांग) in the **Pir (पीर) Panjal** (पीर पंजाल) (Himachal (हिमाचल) / BRO). A bare claim that it is the “world’s longest highway tunnel” is not the safe line.
-11. The built **Purvanchal (पूर्वांचल) Expressway** alignment is Lucknow (लखनऊ)–Azamgarh–Mau–Ghazipur–Ballia. It **passes Mau**; Basti is off the main spine.
-12. India has **12 major ports** plus many non-major ports. **IWAI** dates from **1986**. The 2016 Act notified **111 National Waterways**.
-13. National Waterway pairs: **NW-1** = Ganga (गंगा), Haldia–Prayagraj; **NW-2** = Brahmaputra (ब्रह्मपुत्र), Dhubri–Sadiya; **NW-3** = Kerala West Coast Canal; **NW-4** = Godavari (गोदावरी)–Krishna (कृष्णा) / Kakinada–Puducherry; **NW-5** = Brahmani–Mahanadi (महानदी)–East Coast Canal.
-14. A July 2020 containership link from Kolkata toward Agartala used the **Chattogram** route.
-15. Port (बंदरगाह)–state pairs: **Paradip (Odisha)**, **Tuticorin / VOC (Tamil Nadu (नाडु))**, **Kakinada (Andhra Pradesh)**, **Alappuzha (Kerala)**. **JNPT** is the container flagship; **Kolkata–Haldia** is riverine.
-16. A **harbour** is sheltered water; a **port** is harbour plus cargo facilities. **Igarka** is in **Russia**, not China.
-17. **Kushinagar** (कुशीनगर) became an international airport on **24 June 2020**. **Cochin** was India’s first solar-powered airport. **Jewar** is Noida International Airport.
-18. FLY91’s inaugural flight (18 March 2024) was from **Manohar International Airport** (Goa Mopa).
-19. The Motihari–**Amlekhganj** (Nepal) petroleum pipeline was inaugurated in **September 2019**.
-20. **PM Gati Shakti** was launched on **13 October 2021** with the “seven engines” model. The **National Logistics Policy** (September 2022) complements it. The **Blue Economy** means ocean-based growth.
-21. Optical-fibre communication uses **total internal reflection (TIR)**, not simple refraction.
-22. Uttar Pradesh has **no major seaport**. Its rail HQ is **NER Gorakhpur**; its waterway fact is **NW-1** on the Ganga.
-23. NHAI was set up in **1995**. Expressways are access-controlled highways, distinct from ordinary National Highways.
-24. West-coast major ports include Kandla (Deendayal), Mumbai, JNPT, Mormugao, New Mangalore and Cochin. East-coast majors include Kolkata–Haldia, Paradip, Vizag, Chennai, Ennore (Kamarajar) and Tuticorin.
-25. **Incredible India** is the MoT tourism brand; **ITDC** dates from **1966**. Match hill stations carefully: Chakrata–UK, Haflong–Assam, Kalimpong–WB, Kufri–HP.
-26. **City of Lakes = Udaipur (उदयपुर)** (not Jaisalmer). **Pink City = Jaipur**. **Sabarimala = Kerala**. UNESCO tourist set includes Champaner–Pavagarh, CST Mumbai, Mamallapuram and Konark (कोणार्क).
-27. **Srisailam = Nallamala**; Omkareshwar (ओंकारेश्वर) and Pushkar are **not** on Satmala / Mahadeo in the IAS 2015 trap. **Biligiriranga** holds the standing Ranganatha note in Karnataka.
-28. Railway track gauges in teaching: **broad (1676 mm)**, metre and narrow. Most Indian main lines are broad gauge after unification drives.
-29. **Konkan Railway** links Maharashtra–Goa–Karnataka–Kerala along the west coast. **HBJ / HVJ** (Hazira–Bijaipur–Jagdishpur) is a classic gas-pipeline spine in coaching notes.
-30. **Deendayal (Kandla)** is a tidal / gulf port on the west; **Ennore / Kamarajar** is a major east-coast port near Chennai. Do not swap west- and east-coast port lists.
-31. Communication basics: postal / telecom move information; optical fibre uses **TIR**. Do not treat transport and communication as the same word.
+1. **Amrit Bharat** is a **station modernisation** programme, not a new-lines scheme. About **1,275** stations were identified all-India; in **February 2023**, **149 Uttar Pradesh (उत्तर प्रदेश) stations** were listed.
+2. **Bharatmala** is a **highway** programme. **Sagarmala** is **port-led**. Do not swap the two. **PMGSY (2000)** = rural all-weather roads; **PMBJP** = highway BOT corridors.
+3. **Kushinagar** (कुशीनगर) became an international airport on **24 June 2020**. **Cochin** was India’s first solar-powered airport. **Jewar** is Noida International Airport.
+4. **PM Gati Shakti** was launched on **13 October 2021** with the “seven engines” model. The **National Logistics Policy** (September 2022) complements it. The **Blue Economy** means ocean-based growth.
+5. **Incredible India** is the MoT tourism brand; **ITDC** dates from **1966**. Match hill stations carefully: Chakrata–UK, Haflong–Assam, Kalimpong–WB, Kufri–HP.
+6. **City of Lakes = Udaipur (उदयपुर)** (not Jaisalmer). **Pink City = Jaipur**. **Sabarimala = Kerala**. UNESCO tourist set includes Champaner–Pavagarh, CST Mumbai, Mamallapuram and Konark (कोणार्क).
+7. **Srisailam = Nallamala**; Omkareshwar (ओंकारेश्वर) and Pushkar are **not** on Satmala / Mahadeo in the IAS 2015 trap. **Biligiriranga** holds the standing Ranganatha note in Karnataka.
+8. **Konkan Railway** links Maharashtra–Goa–Karnataka–Kerala along the west coast. **HBJ / HVJ** (Hazira–Bijaipur–Jagdishpur) is a classic gas-pipeline spine in coaching notes.
+9. **Deendayal (Kandla)** is a tidal / gulf port on the west; **Ennore / Kamarajar** is a major east-coast port near Chennai. Do not swap west- and east-coast port lists.
+10. **Transport** moves people and goods.
+11. **Communication** moves information, ideas and messages.
+12. **Konkan Railway** runs **Roha (Maharashtra)–Mangaluru (Karnataka)** through Maharashtra–Goa–Karnataka. It does **not** enter Kerala as a Konkan Railway main line.
+13. **Pir Panjal** rail tunnel (~**11.2 km**) is the classic long Himalayan rail tunnel.
+14. **Fairy Queen** uses one of the world’s oldest working steam engines (1855 / re-launch).
+15. **National Academy of Indian Railways** (old Railway Staff College) is at **Vadodara**.
+16. **Darjeeling Himalayan Railway** (Siliguri–Darjeeling) is a UNESCO Mountain Railway of India site (with Nilgiri (नीलगिरि) and Kalka–Shimla).
+17. **Mumbai–Ahmedabad (अहमदाबाद)** is India’s first high-speed / bullet-train corridor project (~508 km; Japan partnership).
+18. **NHAI** was operationalised in **1995** under the Ministry of Road Transport and Highways.
+19. **State Highway** length leaders: **Maharashtra**, then Karnataka, Gujarat, Rajasthan (Basic Road Statistics).
+20. **Longest NH:** older data cited old **NH-7**; current MoRTH data often cite **NH-27 (EW)** Porbandar–Silchar. **NH-44** is also cited as the longest single corridor (Srinagar–Kanyakumari).
+21. **Golden Quadrilateral** links **Delhi–Mumbai–Chennai–Kolkata** (about **5,846 km**); launched under NHDP in **2001**.
+22. **NS and EW corridors cross at Jhansi (Uttar Pradesh).**
+23. **Pradhan Mantri (मंत्री) Bharat Jodo Pariyojana** builds highway corridors to tourist and economic nodes on **BOT**.
+24. **Mumbai–Pune (पुणे)** was India’s first six-lane access-controlled expressway (~95 km).
+25. **PMGSY** began **25 December 2000** — all-weather rural connectivity to eligible habitations.
+26. **Bharatmala** is the umbrella **highway** programme. It is **not** a port scheme.
+27. **Bharatmala Phase-I progress (MoRTH, as on 31 October 2024):** about **26,425 km** awarded and **18,714 km** constructed nationwide. Among states, **Rajasthan** had the **highest constructed length** (**2,241 km**), ahead of Uttar Pradesh and Maharashtra on that date.
+28. **Jal Marg Vikas** is the capacity-upgrade project on **NW-1**, with multimodal terminals such as **Varanasi** (वाराणसी), Sahibganj and Haldia.
+29. **Kolkata–Haldia** is a major **riverine** port complex; **Haldia** is the classic **outport** of Kolkata.
+30. **Kandla (Deendayal)** on the **Gulf of Kutch** is a **tidal** natural harbour; **Diamond Harbour** is also tidal harbour.
+31. **JNPT / JNPA (Nhava Sheva)** was built to **decongest Mumbai** and is India’s container flagship.
+32. **Cochin Shipyard** is India’s largest shipyard fact; **Alang (Gujarat)** is the largest ship-breaking yard.
+33. **Paradip** was developed to ease congestion on **Kolkata and Visakhapatnam**; iron-ore export to Japan.
+34. **Sethusamudram** aims to link the **Gulf of Mannar** with **Palk Bay** / Palk Strait for a continuous peninsula route.
+35. **LNG terminals**: Dahej, Hazira, Kochi, Dabhol, Ennore — **not Kandla**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| NER HQ | **Gorakhpur** | Hajipur | गोरखपुर |
-| SER HQ | **Garden Reach, Kolkata** | Cuttack | कटक नहीं |
-| ECR HQ | **Hajipur** | Gorakhpur | हाजीपुर |
-| Amrit Bharat | Station **modernisation**; UP **149 stations** (Feb 2023) | 149 new railway lines | 149 स्टेशन |
-| Bharatmala | **Highways** | Ports | सड़क |
-| Sagarmala | **Port-led** | Highways | पत्तन |
-| Gati Shakti year | **2021** | 2022 | 2021 |
-| Purvanchal (built) | **Passes Mau**; not Basti | Blind 2018 “not Mau” as today’s map | मऊ हाँ |
-| Atal Tunnel | **Pir Panjal** | “World’s longest highway” | पीर पंजाल |
-| Igarka | **Russia** | China | रूस |
-| NW-1 | **Ganga** | Brahmaputra | गंगा |
-| NW-3 | **Kerala canal** | Ganga | केरल |
-| Harbour vs port | Shelter vs shelter+facilities | Same thing | पोताश्रय ≠ पत्तन |
-| Fibre | **TIR** | Refraction | पूर्ण आंतरिक परावर्तन |
-| Motihari pipe | **Amlekhganj** | Kathmandu | अमलेखगंज |
-| Solar airport | **Cochin** | Delhi / Ahmedabad | कोच्चि |
-| Paradip | **Odisha** | AP / WB | पारादीप = ओडिशा |
-| Alappuzha | **Kerala** | TN | आलप्पुझा |
-| NH vs rural roads | NH ~**2%** length but ~**40%** traffic | Think NH = most km | राष्ट्रीय राजमार्ग |
-| Silchar spelling | EW corridor = **Silchar / Silcher** Assam | Mix with Shillong | सिलचर |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **SER HQ = Cuttack** — FALSE. **Garden Reach, Kolkata**.
+2. **NER HQ = Hajipur** — FALSE. **Gorakhpur**. Hajipur = **East Central**.
+3. **Amrit Bharat = 149 new railway lines** — FALSE. It modernises **stations**. As of Feb 2023 about **1,275** stations all-India, of which **149** were in **Uttar Pradesh**.
+4. **Gati Shakti launched 2022** — FALSE. **13 Oct 2021**; seven engines **true**.
+5. **Bharatmala = ports / Sagarmala = highways** — SWAP. Bharatmala = **roads**; Sagarmala = **port-led**.
+6. **Mau is off today’s Purvanchal Expressway** — FALSE for the **built** road (Lucknow–Ballia via Azamgarh–Mau). **Basti** is not on the main alignment. The 2018 stem “will not pass” had a different official key — see that full question in the PYQ bank.
+7. **Atal = world’s longest highway tunnel** — FALSE as a bare claim. **Pir Panjal** is the safe fact.
+8. **Igarka = China** — FALSE. **Russia**.
+9. **NW-1 = Brahmaputra** — FALSE. **Ganga, Haldia–Prayagraj**. NW-2 = Brahmaputra. NW-3 = **Kerala** canal. NW-4 = Kakinada–Puducherry. NW-5 = Talcher–Dhamra.
+10. **Kushinagar not international** — FALSE. Intl on **24 Jun 2020**.
+11. **First solar airport = Delhi / Ahmedabad** — FALSE. **Cochin**.
+12. **Optical fibre = refraction** — FALSE. **Total internal reflection**.
+13. **Motihari–Kathmandu pipeline** — FALSE. **Amlekhganj, Nepal**.
+14. **Paradip = Andhra / Alappuzha = Tamil Nadu** — FALSE. Paradip **Odisha**; Alappuzha **Kerala**.
+15. **UP has a major seaport** — FALSE. Identity = Gorakhpur, NW-1, expressways, Kushinagar/Jewar, 149 Amrit stations.
+16. **National Highways = most of India’s road kilometres** — FALSE. NH are ~**2%** of length but carry ~**40%** of traffic; rural roads are ~**80%** of length.
+17. **Inland waterways already move most Indian cargo** — FALSE. Share is tiny; sea still moves ~**95%** of trade by volume.
+18. **IWAI = NHAI** — FALSE. IWAI (1986) = inland waterways; NHAI (1995) = national highways.
+19. **Only three National Waterways exist** — FALSE. The 2016 Act declared **111**. The first five are the map you must know even if a paper has not yet asked NW-4 or NW-5.
+20. **Kakinada is a major-port-state fact for Odisha** — FALSE. Kakinada = **Andhra Pradesh**; Paradip = **Odisha**.
+21. **East–West Corridor = Dibrugarh–Surat / Dwarka** — FALSE. **Porbandar–Silchar**. Cross with NS at **Jhansi**.
+22. **Konkan Railway = Kerala main line** — FALSE. **Roha–Mangaluru** through MH–Goa–KA.
+23. **SER HQ = Bhubaneswar / SCR HQ = Hyderabad** — FALSE. SER = **Garden Reach, Kolkata**; East Coast = Bhubaneswar; SCR = **Secunderabad**.
+24. **North Western Railway HQ = Jodhpur** — FALSE. **Jaipur**.
+25. **Chennai = deepest natural port** — FALSE. Often **artificial**; Vizag/Paradip depth notes varies by stem.
+26. **Kandla = LNG terminal** — FALSE. LNG terminals are Dahej, Hazira, Kochi, Dabhol, Ennore.
+27. **Old NH-7 is still always the longest NH** — FALSE for current MoRTH data — often **NH-27 EW**; also note the **NH-44** corridor.
+28. **NS–EW meet at Nagpur / Gwalior** — FALSE. **Jhansi**.
+29. **First CNG train = Delhi–Agra** — FALSE. **Rewari–Rohtak**.
+30. **Sethusamudram = Cape Comorin only** — FALSE. Links **Gulf of Mannar** with **Palk Bay**.
+31. **City of Lakes = Jaisalmer** — FALSE. **Udaipur**. Jaipur = **Pink City**.
+32. **Sabarimala = Tamil Nadu / Karnataka** — FALSE. **Kerala**.
+33. **Haflong = Himachal / Kalimpong = Assam** — FALSE. Haflong = **Assam**; Kalimpong = **West Bengal**; Chakrata = **Uttarakhand**; Kufri = **HP**.
+34. **Omkareshwar = Satmala / Pushkar = Mahadeo** — FALSE. Only **Srisailam–Nallamala** was correct in IAS 2015 among those three.
+35. **Charkhari = ghost town** — FALSE. Ghost-town names are Kuldhara, Dhanushkodi, Lakhpat.
+36. **BARC = Karnataka** — FALSE. **Maharashtra**. Thumba = **geomagnetic equator** site in Kerala.
+37. **Moradabad sarees** — FALSE. Brassware; saree map = Chanderi / Banarasi / Kanjivaram.
 
 
 ---

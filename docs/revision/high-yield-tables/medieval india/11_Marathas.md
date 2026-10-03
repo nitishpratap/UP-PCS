@@ -11,24 +11,26 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 11 — Marathas</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+| A | B | Difference | Hindi |
+|---|---|------------|-------|
+| Chauth | Sardeshmukhi | 25% protection vs extra 10% chief claim | चौथ / सरदेशमुखी |
+| Shivaji | Peshwa | Chhatrapati founder vs later de facto ruler | शिवाजी / पेशवा |
+| Bajirao I | Balaji Bajirao | Father 1720–40 vs son 1740–61 (Panipat) | बाजीराव I / बालाजी बाजीराव |
+| Madhav Rao I | Narayan Rao | 1761–72 recovery vs 1772–73 murdered | माधवराव / नारायणराव |
+| Panipat I | II vs III | 1526 Babur / 1556 Akbar–Hemu / 1761 Maratha–Abdali | पानीपत I / II / III |
+| Abdali | Nadir Shah | Panipat 1761 vs Delhi sack 1739 | अब्दाली / नादिर शाह |
+| Bhau | Bajirao I | 1761 commander vs died 1740 | भाऊ / बाजीराव |
+| Raigad | Pune | Shivaji coronation vs Peshwa seat | रायगढ़ / पुणे |
+| Sangola | Lanavada | 1750 Peshwa supremacy vs 1718 chauth recognition | सांगोला / लानावड़ा |
+| Chauth | Saranzami | 25% protection levy vs jagirdar livelihood land | चौथ / सरंजामी |
+| Deshmukh | Ashtapradhan | Feudal Bijapur chiefs vs Shivaji’s 8 ministers | देशमुख / अष्टप्रधान |
+| Purandar | Lanavada | 1665 Shivaji–Jai Singh vs 1718 Shahu–Mughals | पुरंदर / लणवाडा |
+| Sambhaji | Shahu | Executed 1689 vs released 1707, Peshwa rise | सम्भाजी / शाहू |
+| Sikh Khalsa | Chauth | 1699 Panth vs Maratha 25% levy | खालसा / चौथ |
 
-| Name | What it is | Trap |
-|------|------------|------|
-| **Chauth** (चौथ) | **25%** protection levy | Calling it the hereditary 10% |
-| **Sardeshmukhi** (सरदेशमुखी) | Extra **10%** sardeshmukh claim | Calling it the protection quarter |
-| **Abwab** (अबवाब) | Miscellaneous extra cesses | Treating it as Maratha protection revenue |
-| **Jamadani** | A **textile** | Using it as a revenue term |
-| **Rakhi** (राखी) | Local protection arrangement with chiefs (e.g. Bundelkhand belts) | Equating it with chauth’s 25% name |
-| **Saranzami** (सरंजामी) | Land supporting Maratha **jagirdars’** livelihood | Mixing it with chauth |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Ashtapradhan portfolio
 
@@ -100,6 +102,19 @@ hide:
 
 ---
 
+### Confused revenue names (do not swap)
+
+| Name | What it is | Trap |
+|------|------------|------|
+| **Chauth** (चौथ) | **25%** protection levy | Calling it the hereditary 10% |
+| **Sardeshmukhi** (सरदेशमुखी) | Extra **10%** sardeshmukh claim | Calling it the protection quarter |
+| **Abwab** (अबवाब) | Miscellaneous extra cesses | Treating it as Maratha protection revenue |
+| **Jamadani** | A **textile** | Using it as a revenue term |
+| **Rakhi** (राखी) | Local protection arrangement with chiefs (e.g. Bundelkhand belts) | Equating it with chauth’s 25% name |
+| **Saranzami** (सरंजामी) | Land supporting Maratha **jagirdars’** livelihood | Mixing it with chauth |
+
+---
+
 | Peshwa | Years | Fact |
 |--------|-------|------|
 | **Balaji Vishwanath** | 1713–1720 | First hereditary; **Lanavada 1718** |
@@ -129,18 +144,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Shivaji (1630–1680) built swaraj (स्वराज), was crowned Chhatrapati at Raigad (रायगढ़) in 1674 (Gaga Bhatt / Vishweshwar of Banaras declared him Kshatriya), and died at Raigad in 1680.
-- **Exam Anchor:** He was born at Shivneri to Shahji Bhonsle and Jijabai; tradition remembers Samarth Ramdas as his guru (गुरु).
-- **Exam Anchor:** At Pratapgad in 1659, Shivaji killed Bijapur (बीजापुर)'s Afzal Khan and expanded western Deccan (दक्कन) power.
-- **Exam Anchor:** By the Treaty of Purandar (पुरंदर) (1665) with Raja (राजा) Jai Singh I, Shivaji surrendered 23 forts; the Agra (आगरा) detention followed in 1666. He defeated the Mughals at Salher in 1672.
-- **Exam Anchor:** Big Deshmukhs opposed an independent Maratha state because they preferred remaining Bijapur feudal lords.
-- **Exam Anchor:** The Ashtapradhan (अष्टप्रधान) was Shivaji's eight-minister council; under him the Peshwa (पेशवा) was one minister, not the sovereign.
-- **Exam Anchor:** Ashtapradhan portfolios: Peshwa (पेशवा / मुख्य प्रधान - admin), Amatya (अमात्य / मजूमदार - finance/revenue), Mantri (मंत्री / वाक़ियानवीस - records/home), Senapati (सेनापति / सर-ए-नौबत - army (सेना) chief), Sumant (सुमंत / डबीर - foreign affairs), Nyayadish (न्यायाधीश - justice), Pandit Rao (पंडितराव / दानाध्यक्ष - religious endowments), Sachiv (सचिव / सुरनवीस - royal correspondence).
 - **Exam Anchor:** Chauth (चौथ) is a 25% (1/4) protection levy; sardeshmukhi (सरदेशमुखी) is an extra 10% (1/10) hereditary chief claim (together up to 35%). Saranzami (सरंजामी) land supported Maratha jagirdars’ livelihood.
-
-</details>
+- **Exam Anchor:** Bajirao I (1720–40) drove north expansion; Balaji Bajirao (1740–61) belongs to the Panipat III generation. By the Sangola (सांगोला) agreement (1750), the Chhatrapati became a do-nothing king and the Peshwa the real head.
+- **Exam Anchor:** Madhav Rao I (1761–72) comes before Narayan Rao (1772–73); do not reverse them.
+- **Exam Anchor:** Nadir Shah (नादिर शाह)'s Delhi sack (1739) is a separate Afghan shock from Abdali's Panipat victory.
+- **Exam Anchor:** Palkhed (1728) is Bajirao I's famous campaign against the Nizam (निजाम).
+- **Exam Anchor:** Shaista Khan was raided in Pune in 1663 before the Purandar settlement.
+- **Exam Anchor:** Abwab (अबवाब) and Jamadani are distractors; the protection revenue name asked is Chauth.
 
 ---
 

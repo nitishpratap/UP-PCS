@@ -21,7 +21,8 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Forest cover (वन आवरण) in ISFR means a patch of at least **1 ha** with canopy **≥10%**, on any land ownership.
 2. Canopy classes: **VDF ≥70%**, **MDF 40–70%**, **OF 10–40%**.
@@ -60,9 +61,10 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 35. **FRI Dehradun (देहरादून) (1906)**; **ICFRE HQ Dehradun**; **IIFM Bhopal**; Survey of India ≠ environment agency.
 36. CAMPA manages compensatory afforestation funds after diversion — it is not FRA Gram Sabha (ग्राम सभा) rights recognition (मान्यता).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -73,7 +75,8 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 | **Social Forestry** | **Agroforestry** | Growing trees on non-forest communal lands, roadside strips, and wastelands to meet rural fodder and fuel needs (National Commission on Agriculture 1976) vs deliberate integration of woody perennials (trees/shrubs) with agricultural crops and/or livestock on the same land unit | सामाजिक वानिकी / कृषि वानिकी |
 | **Joint Forest Management (JFM)** | **Community Forest Resource (CFR)** | Collaborative institutional partnership between state forest department and village committees to protect and regenerate degraded forests vs statutory community ownership and governance right recognized under Section 3(1)(i) of FRA 2006 | संयुक्त वन प्रबंधन (JFM) / सामुदायिक वन संसाधन अधिकार (CFR) |
 | **Tropical Wet Evergreen Forest** | **Tropical Moist Deciduous Forest** | Dense multi-layered forest with rainfall >200 cm, no distinct leafless season (Ebony, Mahogany, Rosewood) vs most widespread forest in India with rainfall 100–200 cm, shedding leaves for 6–8 weeks in dry spring (Teak, Sal, Shisham) | उष्णकटिबंधीय आर्द्र सदाबहार / उष्णकटिबंधीय नम पर्णपाती वन |
----
+
+</details>
 
 ## Must-score facts — ISFR, types, law chain
 

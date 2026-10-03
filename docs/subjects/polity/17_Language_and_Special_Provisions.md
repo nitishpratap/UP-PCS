@@ -31,7 +31,8 @@ Official Language | Arts. 343–351 | 8th Schedule (अष्टम अनुस
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Part **XVII** (Arts. **343–351**) deals with official language. The Constitution **never** names a **national language** (राष्ट्रभाषा).
 2. The Union official language (संघ राजभाषा) is **Hindi in Devanagari**. The international form of Indian numerals is used for official purposes of the Union.
@@ -62,9 +63,10 @@ Official Language | Arts. 343–351 | 8th Schedule (अष्टम अनुस
 27. Classical languages may overlap with Eighth Schedule names, but the tags are **not** one-to-one: classical status does not add a language to the Eighth Schedule, and Eighth Schedule listing does not create classical status.
 28. Special provisions for States sit mainly in Part **XXI** (Arts. **371–371J**). Memorise the letter facts (**371A** Nagaland, **371I** Goa seats, **371J** Kalyana-Karnataka) rather than treating “371” as one generic article.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Term A | Term B | Core Difference | Hindi Terminology |
 |--------|--------|-----------------|-------------------|
@@ -81,7 +83,8 @@ Official Language | Arts. 343–351 | 8th Schedule (अष्टम अनुस
 | **371A** | **Sixth Schedule** | Nagaland custom/land vs AMTM autonomous councils | अनु. 371A (नागालैंड) / छठी अनुसूची |
 | **371I** | **371J** | Goa Assembly ≥30 vs Kalyana-Karnataka board + local quota | अनु. 371I (गोवा) / 371J (कल्याण-कर्नाटक) |
 | **370** | **35A** | Temporary J&K article (now inoperative) vs 1954 Order on permanent residents — **not** an Amd | अनु. 370 / अनु. 35A (स्थायी निवासी) |
----
+
+</details>
 
 ## Must-score facts — official language, 8th Schedule, 371
 

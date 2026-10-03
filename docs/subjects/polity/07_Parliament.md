@@ -54,7 +54,8 @@ D. Governor
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Article 79**: Parliament of the Union = the **President** + **Rajya Sabha** (राज्यसभा) + **Lok Sabha** (लोकसभा). The President is an integral part of Parliament even though he sits in neither House.
 2. Rajya Sabha maximum under **Article 80** is **250** (**238** States/UTs + **12** nominated). Present strength is **245** (**233 + 12**). Seats follow the **Fourth Schedule** and are **not** equal per State.
@@ -87,9 +88,10 @@ D. Governor
 29. Each House has its own **Secretariat** under **Article 98**. Ministers and the Attorney General may **speak in both Houses** (**Article 88**) but vote only in the House where they are members.
 30. **Meira Kumar** is the first woman Speaker of the Lok Sabha. Business Advisory Committee is chaired by the **Speaker**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -108,7 +110,7 @@ D. Governor
 | Anglo-Indian nomination | SC/ST reservation | Ended by **104th** vs continues till **25 Jan 2030** | एंग्लो-इंडियन / आरक्षण |
 | Speaker Money Bill certificate | Office-of-profit decision | Speaker final on Money Bill vs **President + EC** on office of profit | अध्यक्ष / लाभ का पद |
 
----
+</details>
 
 ## Must-score facts — RS, LS, Money Bill, seats
 

@@ -11,52 +11,63 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 44 — Current Environmental Issues</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. A **carbon footprint** totals greenhouse gases in **tCO₂e**. Scope **1** is direct, Scope **2** is purchased energy, Scope **3** is the wider value chain.
-2. India’s **per capita** carbon footprint is about **2 tCO₂e** — low versus global and USA averages — even though absolute (निरपेक्ष) emissions are high.
-3. An **ecological footprint** (पारिस्थितिक पदचिह्न) measures resource demand in **global hectares (gha)**. It is **not** the same unit as tCO₂e. The **Social Cost of Carbon** is the monetary long-term damage of **one tonne of CO₂**.
-4. **Net zero** balances remaining emissions with removals. India’s year fact is **2070**. It is not gross zero and not automatically **2050**.
-5. NDC-style facts include about **45%** intensity cut, about **50%** non-fossil capacity, and a large forest sink goal.
-6. The **Emissions Gap Report** (उत्सर्जन अंतराल रिपोर्ट) is by **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम).
-7. A **green economy** (UNEP framing) is low-carbon, resource-efficient, and socially inclusive.
-8. A **blue economy** is sustainable ocean use linked to **SDG 14**. **MISHTI** mangrove restoration is from the **2023** Budget, **not 2019**.
-9. A **circular economy** closes material loops through 3R/9R and EPR. It sits inside the broader green-economy idea and links to **SDG 12**.
-10. **Green hydrogen** uses electrolysis powered by renewables. India’s mission (January **2023**) targets about **5 MMT** by **2030**.
-11. **Grey hydrogen** reforms natural gas. **Blue hydrogen** adds CCS (सुरक्षा कैबिनेट समिति) to grey pathways. Do not call grey “green.”
-12. **Microplastics** are plastic pieces smaller than **5 mm**. They are primary (made small) or secondary (fragmented) and are not fast biodegradable.
-13. The **SUP ban** push of **2022** targets single-use plastics that feed microplastic pathways.
-14. **Climate refugees** are mostly **internally** displaced. They are **not** a separate legal category under the **1951** Refugee Convention.
-15. **Nature-based Solutions** protect, manage, or restore ecosystems (IUCN (आईयूसीएन) framing). They are not geoengineering (भू-इंजीनियरिंग) (cirrus thinning / sulphate aerosols are geoengineering ideas for cooling, not NbS).
-16. **LiFE** was an idea at **COP-26 (2021)** and launched in **June 2022** under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) with a long action list. **COP-25 Madrid** is the false trap.
-17. Carbon footprint ≠ ecological footprint. Units are **tCO₂e** versus **gha**.
-18. Green economy ≠ circular economy as identical synonyms. Circular is the material-loop design inside a wider green agenda.
-19. Net zero allows balancing removals. Gross zero means nearly eliminating emissions without relying on offsets.
-20. MISHTI is a mangrove initiative. Pairing it with 2019 is wrong.
-21. Microplastic size fact is **<5 mm**, not 5 cm.
-22. NbS examples include mangroves, wetlands, and urban (नगरीय) forests — ecosystem (पारिस्थितिकी तंत्र) actions, not aerosol injection.
-23. LiFE is lifestyle and demand-side behaviour change, not a substitute for the entire NDC package.
-24. Blue economy is oceans and coasts. Green hydrogen is energy. Do not merge the two labels.
+1. **Net zero** balances remaining emissions with removals. India’s year fact is **2070**. It is not gross zero and not automatically **2050**.
+2. **Green hydrogen** uses electrolysis powered by renewables. India’s mission (January **2023**) targets about **5 MMT** by **2030**.
+3. **Grey hydrogen** reforms natural gas. **Blue hydrogen** adds CCS (सुरक्षा कैबिनेट समिति) to grey pathways. Do not call grey “green.”
+4. **Microplastics** are plastic pieces smaller than **5 mm**. They are primary (made small) or secondary (fragmented) and are not fast biodegradable.
+5. **Climate refugees** are mostly **internally** displaced. They are **not** a separate legal category under the **1951** Refugee Convention.
+6. **Nature-based Solutions** protect, manage, or restore ecosystems (IUCN (आईयूसीएन) framing). They are not geoengineering (भू-इंजीनियरिंग) (cirrus thinning / sulphate aerosols are geoengineering ideas for cooling, not NbS).
+7. **LiFE** was an idea at **COP-26 (2021)** and launched in **June 2022** under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) with a long action list. **COP-25 Madrid** is the false trap.
+8. **Scope 1** covers **direct** emissions from owned sources (boilers, fleet fuel).
+9. **Scope 2** covers **purchased electricity, heat, or steam**.
+10. **Scope 3** covers other indirect emissions (supply chain, product use, travel, waste) — often the largest share and hardest to measure.
+11. **Biocapacity** is nature’s regenerative capacity; if footprint exceeds biocapacity, there is an **ecological deficit**.
+12. **Earth Overshoot Day** marks when annual demand exceeds that year’s regeneration.
+13. **Net zero** means anthropogenic emissions are **balanced by anthropogenic removals** over a period — residual emissions may remain if matched by sinks or removals.
+14. **Gross zero** means eliminating virtually all emissions — harder than net zero.
+15. **UNEP Emissions Gap Report** measures the gap between pledges and 1.5°C/2°C pathways.
+16. **Green finance** (हरित वित्त) (sovereign green bonds, SEBI green-bond rules) funds this pathway — detailed market tools sit with Topic 24.
+17. **Blue economy** is sustainable use of ocean and coastal resources for growth and jobs while protecting marine ecosystems.
+18. **SDG 14** = **Life Below Water**.
+19. **Blue carbon** is carbon stored in mangroves, seagrass, and salt (लवणाध्यक्ष) marshes.
+20. **MISHTI** (Mangrove Initiative for Shoreline Habitats and Tangible Income) was announced in **Union Budget 2023–24** to restore mangroves for shoreline protection and income.
+21. **Sagarmala** is port-led coastal development; **Deep Ocean Mission** covers deep-sea exploration (Samudrayaan).
+22. **Plastic Waste Management Rules 2016** (amended 2022) and related EPR rules make producers responsible for end-of-life collection.
+23. **Green hydrogen** is H₂ from **water electrolysis** powered by **renewable electricity**.
+24. **Grey hydrogen** from natural-gas reforming dominates today’s supply and is **not** climate-friendly.
+25. **Blue hydrogen** is grey production plus **CCS** — a debated transition label.
+26. **National Green Hydrogen Mission (January 2023)**, coordinated under **MNRE**, targets about **5 MMT/year by 2030** for refining, ammonia/fertiliser, steel, and heavy transport.
+27. **Microplastics** are plastic particles **smaller than 5 mm**.
+28. **Primary** types are manufactured small (microbeads, nurdles).
+29. **Secondary** types form when larger plastics fragment (bags, nets, tyre wear) — most environmental mass is secondary.
+30. **Climate refugees / climate migrants** are people forced to move by climate impacts — cyclones, floods, drought (सूखा), sea-level rise, desertification (मरुस्थलीकरण).
+31. **Nature-based Solutions** protect, sustainably manage, or restore ecosystems to address societal challenges (climate, disasters, food, water) while aiding biodiversity and well-being.
+32. **MISHTI mangrove restoration** is a flagship Indian NbS example (Budget **2023–24**).
+33. **LiFE (Lifestyle for Environment)** nudges individual and community behaviour toward mindful consumption.
+34. **Mission LiFE** was formally launched in **June 2022**; **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is nodal.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Carbon Footprint** | **Ecological Footprint** | Total amount of greenhouse gases (in tonnes of CO₂e) emitted directly/indirectly by an entity vs total biocapacity area (in global hectares, gha) required to sustain a lifestyle | कार्बन पदचिह्न (CO₂e उत्सर्जन) / पारिस्थितिक पदचिह्न (भूमि/संसाधन मांग) |
-| **Net Zero Emissions** | **Gross Zero Emissions** | Balancing residual carbon emissions with equivalent carbon removals via sinks and DACCS vs completely eliminating all greenhouse gas emissions across all sectors without offsets | नेट जीरो (उत्सर्जन-अवशोषण संतुलन) / सकल शून्य (पूर्ण उत्सर्जन शून्यता) |
-| **Green Economy** | **Circular Economy** | Broad macro-framework promoting low-carbon, resource-efficient, and socially inclusive growth vs industrial economic model eliminating waste through closed-loop recycling and repair | हरित अर्थव्यवस्था / चक्रीय अर्थव्यवस्था |
-| **Green Hydrogen** | **Grey Hydrogen / Blue Hydrogen** | Produced by electrolysis of water powered entirely by renewable electricity vs produced from natural gas without carbon capture (Grey) or with carbon capture & storage (Blue) | हरित हाइड्रोजन (नवीकरणीय) / धूसर व नीला हाइड्रोजन |
-| **Primary Microplastics** | **Secondary Microplastics** | Tiny plastic beads (<5mm) intentionally manufactured for cosmetics and industrial pellets vs microscopic plastic fragments resulting from physical weathering and breakdown of larger plastic debris | प्राथमिक माइक्रोप्लास्टिक (निर्मित मनके) / द्वितीयक माइक्रोप्लास्टिक (अपघटित टुकड़े) |
-| **Nature-based Solutions (NbS)** | **Geoengineering** | Ecosystem protection, restoration, and sustainable management to address societal challenges (e.g. mangrove restoration) vs large-scale technological manipulation of Earth's systems (e.g. solar radiation management) | प्रकृति-आधारित समाधान (NbS) / भू-इंजीनियरिंग |
-| **Mission LiFE Genesis** | **Mission LiFE Official Launch** | Conceptualized and introduced by PM Modi at COP26 Glasgow in **November 2021** vs officially launched jointly with UN Secretary-General António Guterres at Ekta Nagar (Kevadia), Gujarat in **October 2022** | मिशन लाइफ विचार (ग्लासगो 2021) / औपचारिक शुभारंभ (केवड़िया 2022) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| LiFE idea at COP-25 Madrid | **COP26 Glasgow 2021**; launch **June 2022** |
+| MISHTI initiated 2019 | **Budget 2023–24** |
+| India net zero 2050 | **2070** |
+| Net zero = emissions to absolute zero | Balance with **removals** |
+| Emissions Gap = IPCC | **UNEP** |
+| Ecological footprint in tCO₂e | Unit = **gha** |
+| Microplastics <5 cm | **<5 mm** |
+| Green H₂ = grey H₂ | Grey = natural gas reforming |
+| Green economy = circular identically | Circular = **material loops**; green = broader |
+| Climate refugee = 1951 legal status | **Not** a formal Convention category |
+| NbS = geoengineering | Ecosystem protect/manage/restore |
+| MISHTI for Ganga basin inland | **Coastal mangroves** |
+| Highest India per capita carbon footprint | High **total**, low **per capita** |
 
 
 ---

@@ -10,7 +10,8 @@
 |---|---|---|
 | Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Uttar Pradesh is the **3rd largest state economy** in India by nominal Gross State Domestic Product (GSDP).
 2. The Government of UP has set a formal strategic target to achieve a **$1 Trillion Economy**.
@@ -63,9 +64,10 @@
 49. **Noida International Airport (Jewar)** in Gautam Buddha Nagar is developed as a major greenfield international cargo and passenger hub.
 50. Under the Central Smart Cities Mission, exactly **10 cities** were selected from Uttar Pradesh (**Ghaziabad is NOT on the Central 10 list**).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@
 | **Noida Authority (YEIDA/GNIDA)** | **Municipal Corporation (Nagar Nigam)** | Industrial Authorities are **Statutory Industrial Townships** under Art. 243Q proviso, NOT elected Nagar Nigams. |
 | **Khurja (Bulandshahr)** | **Nizamabad (Azamgarh)** | Khurja produces **Glazed White Ceramic Pottery**; Nizamabad produces **Black Clay Terracotta Pottery with silver inlay**. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

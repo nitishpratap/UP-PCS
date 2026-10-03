@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 17 — World Rivers & Lakes</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | | Correct | Usual wrong option | Hindi |
 |--|---------|-------------------|-------|
@@ -523,18 +521,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** New Orleans stands on the Mississippi, not the Missouri. The Missouri joins the Mississippi at St Louis.
 - **Exam Anchor:** Budapest is on the Danube. Cologne is on the Rhine. India’s Hyderabad (हैदराबाद) is on the Musi, not the Godavari (गोदावरी) or Paleru.
-- **Exam Anchor:** The Mekong rises in Tibet, flows south / south-east, and builds its delta (डेल्टा) in southern Vietnam. It does not flow south-west and the delta is not in Cambodia.
-- **Exam Anchor:** Direction pairs: Amur north-east; Syr Darya north-west into the Aral; Angara north out of Baikal; Volga from the Valdai Hills into the Caspian.
-- **Exam Anchor:** The main USA–Mexico border river is the Rio Grande. The Colorado is the usual trap option.
 - **Exam Anchor:** Lake Onega is in Russia, not Canada. Lake Michigan lies wholly in the USA. Maracaibo is in Venezuela. Baikal is in Russia.
-- **Exam Anchor:** Superlatives: the Nile is longest for Prelims; the Amazon has the largest discharge; the Congo is deepest and crosses the Equator twice; the Yangtze is Asia’s longest; the Volga is Europe’s longest.
-- **Exam Anchor:** Delta shapes: Mississippi = bird’s-foot (पक्षी-पाद); Nile, Hwang Ho, and Niger = arcuate (चापाकार) (bow).
-
-</details>
+- **Exam Anchor:** Khartoum is where the White and Blue Nile meet. Aswan created Lake Nasser. GERD sits on the Blue Nile in Ethiopia.
+- **Exam Anchor:** Tanganyika is second deepest and the longest freshwater lake. Titicaca is the highest navigable lake. The Dead Sea is the lowest land surface and is hypersaline (about 34% salt (लवणाध्यक्ष)).
+- **Exam Anchor:** Endorheic lakes have no ocean outlet — Caspian, Aral, Dead Sea, Chad, and Eyre.
+- **Exam Anchor:** Limpopo crosses the Tropic of Capricorn twice. Congo/Zaire crosses the Equator twice.
+- **Exam Anchor:** Mahaweli = longest Sri Lanka river; Sri Lanka drainage is radial from central highlands.
 
 ---
 

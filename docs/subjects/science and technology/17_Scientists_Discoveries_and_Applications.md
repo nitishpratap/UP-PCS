@@ -75,7 +75,8 @@
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **DRDO Genesis & Motto:** Established in **1958** by amalgamating Technical Development Establishment (TDEs), DTDP, and Defence Science Organisation (DSO). Motto: ***"Balasya Mulam Vigyanam"*** ("The source of strength is science").
 2. **Integrated Guided Missile Development Programme (IGMDP):** Conceived by **Dr. A.P.J. Abdul Kalam** in 1983 and sanctioned on 26 July 1983; completed in March 2012. Developed five indigenous missile systems: **P-A-T-A-N** (Prithvi, Agni, Trishul, Akash, Nag).
@@ -128,8 +129,10 @@
 49. **Geostationary vs Geosynchronous Orbits:** Both have a 24-hour orbital period at **$35,786\text{ km}$ ($22,236\text{ miles}$)**. Geostationary is circular and strictly on the equatorial plane (stationary relative to Earth). Geosynchronous is inclined (figure-8 path).
 50. **NavIC (IRNSS):** Regional navigation satellite constellation covering India and **1,500 km** beyond its borders, using **7 satellites** (3 in Geostationary Orbit + 4 in Geosynchronous Orbit).
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
 | :--- | :--- | :--- |
@@ -158,7 +161,7 @@
 | **Hiroshima Bomb ("Little Boy") vs Nagasaki Bomb ("Fat Man")** | Little Boy (6 Aug 1945) used **Uranium-235**; Fat Man (9 Aug 1945) used **Plutonium-239**. | Both bombs relied on nuclear fission discovered by Otto Hahn and Fritz Strassmann in 1939. |
 | **ICSSR vs CSIR / DST / DAE** | ICSSR = Indian Council of Social Science Research; CSIR / DST / DAE = Core Science & Technology departments. | ICSSR is strictly a social science funding agency, not related to natural science and technology. |
 
----
+</details>
 
 ## Must-Score Master Tables
 

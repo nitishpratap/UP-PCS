@@ -11,9 +11,22 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Economy Topic 12 — Economic Laws, Reports, Rankings and Miscellaneous</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **2024** | Economic Survey 2022–23: response to supply shocks included **reducing taxes on fuel and certain imports** — not cutting food/fertiliser subsidies or raising fuel taxes. | Only statement 3. |
+| **2023** | Survey services “NOT correct”: e-commerce fashion/grocery share “by **2030**” — Survey said ~next four years (**~2027**). | Year trap. |
+| **2023** | HDR 2021–22: India’s HDI rank **slipped** to **132** (from prior ~130/131 band) — “upgrade” wording fails. | Direction trap. |
+| **2022** | World Happiness Report **2022**: India **136th**. | Year-bound rank. |
+| **2020** | Doing Business: India **77** (DB 2019) and **63** (DB 2020); report later **discontinued**. | Learn both ranks. |
+| **2019** | **PQLI** by **Morris D. Morris** — not UNDP / Haq. | Author trap. |
+| **2019** | GHI **2017**: India **100th**. | Edition-bound. |
+| **2018** | Global Peace Index **2018**: India **136th** (IEP). | Edition-bound. |
+
+---
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -39,25 +52,6 @@ hide:
 | **Raghavan Committee** | **Narasimham Committee** | Competition Act path vs banking reforms |
 | **DigiLocker** | **Saaransh** | Citizen e-document wallet vs NeGP MMP compendium |
 | **UDAY** | **Saubhagya / UJALA** | Discom financial turnaround vs household electrification / LED |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2024** | Economic Survey 2022–23: response to supply shocks included **reducing taxes on fuel and certain imports** — not cutting food/fertiliser subsidies or raising fuel taxes. | Only statement 3. |
-| **2023** | Survey services “NOT correct”: e-commerce fashion/grocery share “by **2030**” — Survey said ~next four years (**~2027**). | Year trap. |
-| **2023** | HDR 2021–22: India’s HDI rank **slipped** to **132** (from prior ~130/131 band) — “upgrade” wording fails. | Direction trap. |
-| **2022** | World Happiness Report **2022**: India **136th**. | Year-bound rank. |
-| **2020** | Doing Business: India **77** (DB 2019) and **63** (DB 2020); report later **discontinued**. | Learn both ranks. |
-| **2019** | **PQLI** by **Morris D. Morris** — not UNDP / Haq. | Author trap. |
-| **2019** | GHI **2017**: India **100th**. | Edition-bound. |
-| **2018** | Global Peace Index **2018**: India **136th** (IEP). | Edition-bound. |
 
 ---
 
@@ -143,18 +137,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Economic Survey is tabled by the Finance Ministry (CEA wing) usually a day before the Union Budget — a review of the economy and policy narrative.
-- **Exam Anchor:** Survey questions are edition-specific — match the year in the stem before picking a number or phrase.
-- **Exam Anchor:** Economic Survey 2022–23: amid global supply disruptions, the government reduced taxes on fuel and certain imported products (not cut food/fertiliser subsidies; not raised fuel taxes).
-- **Exam Anchor:** Economic Survey 2022–23 services teaching: services credit growth above 16% since July 2022; 75 Digital Banking Units; PMI services strong expansion — e-commerce fashion/grocery “two-thirds” was framed as next four years (~2027), not 2030.
-- **Exam Anchor:** Insolvency and Bankruptcy Code (IBC), 2016 — time-bound corporate insolvency resolution; IBBI is the regulator.
-- **Exam Anchor:** RERA (Real Estate Regulation and Development Act), 2016 — regulates promoters / projects and protects home buyers.
-- **Exam Anchor:** Competition Act, 2002 — CCI (Topic 11).
-- **Exam Anchor:** Companies Act, 2013 — company law + CSR (Topic 11).
-
-</details>
+- **Exam Anchor:** Economic Survey 2022–23: response to supply shocks included reducing taxes on fuel and certain imported products.
+- **Exam Anchor:** That response was not cutting food/fertiliser subsidies and not raising fuel taxes.
+- **Exam Anchor:** Services chapter teaching: credit growth to services above 16% since July 2022; 75 Digital Banking Units; strong PMI services.
+- **Exam Anchor:** E-commerce fashion / grocery / general merchandise “two-thirds” share was framed as next four years (~2027) — not by 2030.
+- **Exam Anchor:** RBI Annual Report / Monetary Policy Report track money, banking and inflation.
+- **Exam Anchor:** Finance Commission Report tracks devolution (Topic 2).
+- **Exam Anchor:** IMF World Economic Outlook and World Bank World Development Report are global cousins.
+- **Exam Anchor:** UNDP Human Development Report carries HDI (Topics 8 / 12.3).
 
 ---
 

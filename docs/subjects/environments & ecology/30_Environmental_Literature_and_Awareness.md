@@ -21,7 +21,8 @@ Environmental Literature | Environmental Education (पर्यावरण श
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Four (चातुर्याम) pillars on this sheet: **literature** (landmark books/reports), **education** (formal EE), **awareness** (public campaigns), and **communication** (science to citizens).
 2. ***Silent Spring* (1962)** by **Rachel Carson** exposed pesticide/DDT harms. It is not Hardin’s commons essay.
@@ -52,9 +53,10 @@ Environmental Literature | Environmental Education (पर्यावरण श
 27. Hardin’s commons logic is shared-resource overuse; it is not Carson’s pesticide narrative.
 28. Match pillar → flagship before matching author names: Carson/Hardin/Brundtland/Schumacher for literature; Tbilisi/ECO Club for education; 51A(g)/LiFE for awareness; Down To Earth for communication; awards for recognition traps.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -65,7 +67,8 @@ Environmental Literature | Environmental Education (पर्यावरण श
 | **Eco-mark (1991)** | **Greenwashing** | Official BIS earthen pot label for certified environment-friendly consumer goods vs deceptive corporate marketing claiming false eco-credentials | इको-मार्क (मिट्टी का घड़ा) / ग्रीनवॉशिंग |
 | **Greendex** | **Ecological Footprint** | National Geographic consumer sustainability index vs Global Footprint Network measure of nature's demand vs biocapacity | ग्रीनडेक्स / पारिस्थितिक पदचिह्न |
 | **National Green Corps (NGC)** | **Mission LiFE (2022)** | MoEFCC Eco-club programme in school networks vs international citizen-movement promoting lifestyle for environment | नेशनल ग्रीन कॉर्प्स / मिशन लाइफ (LiFE) |
----
+
+</details>
 
 ## Must-score facts — books, EE, LiFE
 

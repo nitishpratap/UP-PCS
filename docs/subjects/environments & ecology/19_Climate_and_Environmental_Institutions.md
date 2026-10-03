@@ -21,7 +21,8 @@ IPCC (आईपीसीसी) | UNEP (संयुक्त राष्ट्
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **IPCC** sits in **Geneva**, issues Assessment Reports, and synthesises climate science. It does **not** set NDCs and is **not** the UNFCCC treaty body.
 2. IPCC was established in **1988** by **WMO and UNEP** and shared the Nobel Peace Prize in **2007**.
@@ -48,9 +49,10 @@ IPCC (आईपीसीसी) | UNEP (संयुक्त राष्ट्
 23. SOFO is FAO’s forest flagship — not FSI’s India State of Forest Report.
 24. Match org → city → product before matching slogans. Geography of headquarters is a frequent prelims filter.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -60,7 +62,8 @@ IPCC (आईपीसीसी) | UNEP (संयुक्त राष्ट्
 | **Global Environment Facility (GEF)** | **Green Climate Fund (GCF)** | Multilateral financial partnership established in 1991 serving as financial mechanism for 5 MEAs (CBD, UNCCD, Stockholm, Minamata, UNFCCC) vs dedicated operating financial mechanism of the UNFCCC established at COP16 Cancun focusing specifically on climate projects in developing nations | जीईएफ (GEF, बहु-संधि कोष) / जीसीएफ (GCF, हरित जलवायु कोष) |
 | **Food and Agriculture Organization (FAO)** | **World Meteorological Organization (WMO)** | Specialized UN agency leading international efforts to defeat hunger, maintain agricultural biodiversity, and soil health (HQ: Rome) vs specialized UN agency dedicated to atmospheric science, climatology, and operational hydrology (HQ: Geneva) | एफएओ (रोम, खाद्य व कृषि) / डब्लूएमओ (जिनेवा, मौसम विज्ञान) |
 | **International Solar Alliance (ISA)** | **International Renewable Energy Agency (IRENA)** | Intergovernmental treaty-based organization launched jointly by India and France at COP21 Paris to promote solar energy deployment (HQ: Gurugram, India) vs intergovernmental organization supporting countries in their transition to all renewable energy types (HQ: Abu Dhabi, UAE) | अंतरराष्ट्रीय सौर गठबंधन (ISA, गुरुग्राम) / इरेना (IRENA, अबू धाबी) |
----
+
+</details>
 
 ## Must-score facts — IPCC, UNEP, IUCN HQs & reports
 

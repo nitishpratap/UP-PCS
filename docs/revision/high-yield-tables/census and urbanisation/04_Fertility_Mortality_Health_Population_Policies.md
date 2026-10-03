@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Census and Urbanisation Topic 4 — Fertility, Mortality, Health and Population Policies</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -27,18 +33,6 @@ hide:
 | **National Health Mission (NHM)**: Integrates NRHM (2005) + NUHM (2013) | **Ayushman Bharat (2018)**: Integrates HWCs + PM-JAY | **Trap**: NHM is the overarching health system architecture; Ayushman Bharat is the flagship assurance & wellness scheme. |
 | **Lowest TFR State**: **Sikkim (1.1)** | **Highest TFR State**: **Bihar (3.0)** | **Trap**: Sikkim has the lowest TFR in India (1.1), far below replacement. Bihar is the highest (3.0). |
 | **SDG Target 3.1 for MMR**: Less than **70 per 100,000 live births by 2030** | **Current India MMR (SRS 2018–20)**: **97 per 100,000 live births** | **Trap**: India has reduced MMR from 130 to 97, and is on track to achieve the SDG target of $< 70$ by 2030. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -147,18 +141,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** India was the first country in the world to launch an official National Family Planning Programme in 1952.
 - **Exam Anchor:** Total Fertility Rate (TFR) is the average number of children a woman would bear in her lifetime given current age-specific fertility rates.
-- **Exam Anchor:** The demographic Replacement Level TFR is 2.1 children per woman.
-- **Exam Anchor:** As per the National Family Health Survey-5 (NFHS-5, 2019–21), India's national TFR declined to 2.0, dropping below replacement level.
-- **Exam Anchor:** In NFHS-5, the rural TFR in India stood at 2.1, while urban TFR was 1.6.
-- **Exam Anchor:** Among Indian States in NFHS-5, Sikkim has the lowest TFR (1.1), while Bihar has the highest TFR (3.0).
-- **Exam Anchor:** The Total Fertility Rate of Uttar Pradesh in NFHS-5 stood at 2.4 (down from 2.7 in NFHS-4 and 3.8 in NFHS-3).
 - **Exam Anchor:** Crude Birth Rate (CBR) is calculated per 1,000 mid-year total population.
-
-</details>
+- **Exam Anchor:** Crude Death Rate (CDR) of India in recent SRS estimates is approximately 6.0 deaths per 1,000 population.
+- **Exam Anchor:** Infant Mortality Rate (IMR) is defined as the number of deaths of children under 1 year of age per 1,000 live births.
+- **Exam Anchor:** Kerala has the lowest IMR among Indian States at 6 per 1,000 live births, while Madhya Pradesh has the highest at 43.
+- **Exam Anchor:** Neonatal Mortality Rate (NMR) measures deaths of infants occurring within the first 28 days of life per 1,000 live births.
+- **Exam Anchor:** Early Neonatal Mortality refers to infant deaths within the first 7 days of life.
+- **Exam Anchor:** Maternal Mortality Ratio (MMR) is defined as maternal deaths per 100,000 (1 Lakh) live births.
 
 ---
 

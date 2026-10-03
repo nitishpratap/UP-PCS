@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 16 — Essentials: Awards, Personalities & GI Tags</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -29,11 +27,7 @@ hide:
 | MS Subbulakshmi | Lata Mangeshkar | First musician BR **1998** Carnatic vs playback BR **2001** | एम.एस. / लता |
 | Bismillah Khan | Birju Maharaj | Shehnai, Varanasi, BR 2001 vs Kathak Lucknow, **not** BR | बिस्मिल्लाह / बिरजू |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Three Culture akademis (Rabindra Bhavan)
 
@@ -93,18 +87,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Three Culture akademis sit at Rabindra Bhavan: Sangeet Natak Akademi (1952) for performing arts, Sahitya Akademi (1954) for letters, and Lalit Kala Akademi (1954) for visual arts.
-- **Exam Anchor:** SNA (संगीत नाटक) gives the annual Akademi Award (अकादेमी पुरस्कार), the lifetime Akademi Ratna (अकादेमी रत्न) (Fellowship) for a small living cohort, and the Bismillah Khan (बिस्मिल्लाह खान) Yuva (बिस्मिल्लाह खान युवा) award for young performing artists.
-- **Exam Anchor:** Sahitya Akademi works in 24 languages: the 22 Eighth Schedule (आठवीं अनुसूची) languages plus English and Rajasthani. Bhojpuri is not a separate Akademi language.
-- **Exam Anchor:** Sahitya prizes include the annual book award, Fellowship, Yuva Puraskar (authors ≤35), and Bal Sahitya. Yuva ran in 23 languages in 2025 with no Dogri that year.
 - **Exam Anchor:** Jnanpith (ज्ञानपीठ) is given by the Bharatiya Jnanpith trust from 1965 (first winner G. Sankara Kurup). It is not a Sahitya Akademi award (साहित्य अकादेमी). The 58th Jnanpith went to Rambhadracharya (with Gulzar).
-- **Exam Anchor:** Lalit Kala gives National Awards and Kala Ratna, runs Triennale India, and has a regional centre at Lucknow (लखनऊ). It is not the same body as NGMA (राष्ट्रीय आधुनिक कला गैलरी).
-- **Exam Anchor:** Instituted in 1954, the Bharat Ratna has been conferred upon six classical/cultural musicians: M. S. Subbulakshmi (1998, the first musician recipient), Pandit Ravi (रावी) Shankar (1999), Lata Mangeshkar (लता) and Ustad Bismillah Khan (2001), Pandit Bhimsen Joshi (भीमसेन जोशी) (2008), and Dr. Bhupen Hazarika (2019, posthumous). Legendary filmmaker Satyajit Ray received it for cinema in 1992.
-- **Exam Anchor:** These culture names are not Bharat Ratna: Birju Maharaj (बिरजू), tabla (तबला) maestro Ustad Zakir Hussain, and Rabindranath Tagore (Nobel 1913; died 1941, before the award existed).
-
-</details>
+- **Exam Anchor:** Sahitya Yuva Puraskar (युवा पुरस्कार) is for young authors ≤35. Bismillah Khan Yuva is SNA’s young performing award. Do not swap the two Yuva names.
+- **Exam Anchor:** GI follows the 1999 Act. Registry is at Chennai under DPIIT / Commerce, not Culture. First Indian GI was Darjeeling Tea (दार्जिलिंग टी) (2004). Protection is about 10 years and renewable.
+- **Exam Anchor:** Bismillah Khan is the shehnai (शहनाई) maestro of Varanasi (वाराणसी), Bharat Ratna 2001, and namesake of SNA Yuva. Birju Maharaj is Lucknow Kathak (कथक) and not Bharat Ratna.
+- **Exam Anchor:** M. S. Subbulakshmi is the first musician Bharat Ratna (1998, Carnatic (कर्नाटक)). Lata Mangeshkar is the playback Bharat Ratna of 2001.
+- **Exam Anchor:** Bharat Ratna is the highest civilian honour; the Prime Minister recommends names to the President. It is not an akademi prize.
+- **Exam Anchor:** Ustad Zakir Hussain (tabla) held Padma awards and Grammys but was not Bharat Ratna; he died in December 2024.
+- **Exam Anchor:** Sant Kabir Award is the highest handloom weaver honour (Textiles). Shilp Guru is the highest handicraft artisan honour. Do not swap them with akademi prizes.
 
 ---
 

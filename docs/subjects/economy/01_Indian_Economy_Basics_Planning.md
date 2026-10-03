@@ -31,7 +31,8 @@ Budget / tax deepens in Economy Topic 2. Money / banking deepens in Topic 3. Inf
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. India is a **mixed economy** — public and private sectors coexist. The balance shifted toward markets after **1991**, but public enterprise did not vanish.
 2. Standard school texts still call India an **underdeveloped / developing** economy on structural grounds (low per capita income historically, large agri workforce share, poverty / underemployment, technology gaps) even while absolute GDP size is large.
@@ -84,8 +85,10 @@ Budget / tax deepens in Economy Topic 2. Money / banking deepens in Topic 3. Inf
 49. **Gandhian Plan (1944)** by **Sriman Narayan Agarwal** stressed decentralisation, villages and cottage industries. **Mahatma Gandhi** opposed centralised planned development among the keyed options.
 50. NITI full form: **National Institution for Transforming India**.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -118,6 +121,8 @@ Budget / tax deepens in Economy Topic 2. Money / banking deepens in Topic 3. Inf
 | **Naoroji** | **V.K.R.V. Rao** | First NI estimate vs first scientific NI |
 | **High COR** | **Low COR** | High capital per output slows growth despite savings |
 | **Gadgil–Mukherjee** | **Finance Commission formula** | Plan assistance weights (pop. 60%) vs tax-devolution FC |
+
+</details>
 
 ## Must-score drill — plans and institutions
 

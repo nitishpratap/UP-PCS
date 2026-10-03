@@ -15,7 +15,8 @@ Medieval Music | Later Mughal (मुग़ल) Music | Mughal Court Patronage |
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Sultanate music fused **Amir Khusrau** (अमीर खुसरो), Chishti (चिश्ती) **sama** (समा), and Hindavi synthesis before the Mughal dhrupad peak.
 2. **Dhrupad** is the oldest art form, uses **pakhawaj** (पखावज), and runs from **Man Singh (मान सिंह) Tomar** to **Tansen** (तानसेन).
@@ -42,9 +43,10 @@ Medieval Music | Later Mughal (मुग़ल) Music | Mughal Court Patronage |
 23. Folklore credits Khusrau with sitar, tabla, and qawwali (क़व्वाली) inventions, but key facts keep him as the Nizamuddin–Hindavi music bridge.
 24. Gwalior / Behat tradition feeds Tansen’s origin story before the Rewa and Akbar courts.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -55,7 +57,8 @@ Medieval Music | Later Mughal (मुग़ल) Music | Mughal Court Patronage |
 | Somanath | Khusrau (Raga Vibodh) | 2021/2022 treatise author vs 2019 literary-list pair | सोमनाथ / खुसरो |
 | Akbar | Muhammad Shah music | Dhrupad peak (Tansen) vs Khayal/Tappa later bloom | अकबर / मुहम्मद शाह |
 | Tabla | Pakhawaj | Khayal/thumri accompaniment vs dhrupad drum | तबला / पखावज |
----
+
+</details>
 
 ## Must-score facts — form, patron, treatise
 

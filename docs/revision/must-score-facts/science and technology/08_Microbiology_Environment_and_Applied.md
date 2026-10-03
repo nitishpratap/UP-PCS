@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 8 — Microbiology, Environment and Applied Science</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **The Four Microbial Groups**:
 2. **Bacterial Morphology & Gram Staining**:
@@ -49,46 +48,53 @@ hide:
 33. **Mycorrhizal Association**:
 34. **Lichens: Pioneer Organisms & Air Quality Indicators**:
 35. **Ecosystem Trophic Architecture & Producers**:
-36. **Primary Productivity**:
-37. **Decomposition by Microbes**:
-38. **Oceanic Primary Producers**:
-39. **Biological Unity of the Human Species**:
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Concept A | Concept B | Razor-Sharp Distinguishing Fact |
-|-----------|-----------|----------------------------------|
-| **Bacterium** | **Virus** | Unicellular prokaryote with peptidoglycan wall, 70S ribosomes, binary fission, killed by antibiotics vs acellular nucleoprotein (DNA or RNA inside capsid), obligate parasite, totally unaffected by antibiotics. |
-| **Synthetic Medium Culturing** | **Viral Culturing** | Bacteria and fungi can be cultured in cell-free artificial nutrient media (agar/broth) vs viruses strictly require living host cells (*in vivo* or cell culture *in vitro*) due to lack of metabolic machinery. |
-| ***Haemophilus influenzae*** | **Influenza Virus** | Bacterium causing pediatric meningitis, epiglottitis, and pneumonia (prevented by Hib vaccine) vs Orthomyxovirus causing true epidemic influenza (flu). |
-| ***Haemophilus influenzae*** | ***Bordetella pertussis*** | Bacterium of pediatric meningitis/pneumonia vs bacterium of Whooping Cough (Pertussis, the 'P' in DPT). |
-| **Lactic Acid** | **Acetic Acid** | Organic acid produced by *Lactobacillus* in curd vs organic acid produced by *Acetobacter aceti* in vinegar. |
-| **Biodegradable** | **Recyclable** | Can be broken down into simple minerals by microbial enzymes (e.g., wool, paper, dung) vs can be melted and remanufactured physically (e.g., glass, aluminium); glass is 100% recyclable, but 0% biodegradable. |
-| **Bioaccumulation** | **Biomagnification** | Toxicant build-up inside a single organism over its lifetime vs progressive exponential concentration increase of a fat-soluble toxicant (DDT) across successive trophic levels of a food chain. |
-| **BOD** | **COD** | Oxygen required by living aerobic bacteria to biologically oxidize organic waste vs oxygen required to chemically oxidize all organic matter (both biodegradable and recalcitrant) using strong chemical oxidant ($K_2Cr_2O_7$). |
-| **Mutualism (+/+)** | **Commensalism (+/0)** | Both interacting species benefit (Lichens, Mycorrhiza, Fig & Fig wasp) vs one benefits while host is unaffected (Barnacles on whale, Remora on shark, Cattle egret). |
-| **Parasitism (+/-)** | **Hyperparasitism** | Parasite harms host (*Herpes simplex* virus in humans) vs a parasite that parasitizes another parasite (parasitoid wasps/flies attacking parasitic hosts). |
-| **Mycorrhiza** | **Lichen** | Symbiosis of fungi with roots of higher plants (for phosphorus/mineral uptake & root protection) vs symbiosis of fungi with algae/cyanobacteria (composite dual organism on rocks/bark). |
-| **Gucchi (*Morchella*)** | **Death Cap (*Amanita phalloides*)** | Edible, highly expensive wild Ascomycete fungus of Himalayan conifer forests (non-cultivable) vs extremely lethal poisonous Basidiomycete mushroom containing amanitins. |
-| **Cyanobacteria** | **True Algae** | Prokaryotic Monera with peptidoglycan wall and bacteriochlorophyll/chlorophyll-a (no chloroplasts) vs eukaryotic Plantae/Protista with membrane-bound chloroplasts. |
-| **Oceanic Producers (Diatoms)** | **Oceanic Consumers (Copepods)** | Microscopic photosynthetic algae generating ~45% of marine biomass vs small crustaceans that act as primary consumers feeding on phytoplankton. |
-| **Alexander Fleming** | **Robert Hooke** | Discovered penicillin from mould *Penicillium* in 1928 vs discovered and named dead "cells" in bottle cork in 1665. |
-| **Edward Jenner** | **Louis Pasteur** | Developed smallpox vaccine using cowpox pus in 1796 ("Father of Immunology") vs invented pasteurisation and rabies/anthrax vaccines in late 19th century. |
-| **Jonas Salk** | **Albert Sabin** | Developed the injectable killed/inactivated polio vaccine (IPV) in 1954 vs developed the oral live-attenuated polio drops (OPV) in 1961. |
-| **ICAR (New Delhi)** | **ICMR (New Delhi)** | Indian Council of Agricultural Research vs Indian Council of Medical Research. |
-| **IVRI (Bareilly)** | **NDRI (Karnal)** | Indian Veterinary Research Institute (Izatnagar, Bareilly, UP) vs National Dairy Research Institute (Karnal, Haryana). |
-| **CDRI (Lucknow)** | **CCMB (Hyderabad)** | Central Drug Research Institute (drugs, *Saheli*) vs Centre for Cellular and Molecular Biology. |
-| **WHO (Geneva)** | **FAO (Rome)** | World Health Organization (Geneva, Switzerland) vs Food and Agriculture Organization (Rome, Italy). |
-| **Varsha (Monsoon)** | **Shishira (Winter)** | Sowing of Kharif crops, monsoon rains, mosquito breeding vs biting cold, morning frost/fog, growth of winter wheat. |
-| **National Science Day (28 Feb)** | **World Environment Day (5 June)** | Celebrates Raman Effect discovery (1928) vs commemorates 1972 Stockholm Conference on Human Environment. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& Negative-Marking Eliminators
+
+* **Bacterium vs Virus**: Bacteria are living prokaryotes with peptidoglycan walls and ribosomes, killed by antibiotics. Viruses are acellular nucleoproteins (DNA or RNA inside a protein capsid) with no metabolic machinery; **antibiotics are completely ineffective against viruses**.
+* **Synthetic Medium Culturing vs Viruses**: Bacteria and fungi can be cultured on cell-free artificial nutrient media (agar/broth). Viruses cannot be cultured on synthetic media; they require living host cells.
+* **Mycoplasma Trap**: *Mycoplasma* is the smallest organism capable of autonomous growth; it lacks a cell wall and is naturally resistant to penicillin.
+* **The *Haemophilus influenzae* Trap**: Despite its historic name, *Haemophilus influenzae* is a **bacterium** causing purulent pediatric meningitis, acute epiglottitis, and pneumonia (prevented by the Hib vaccine); it does **not** cause Influenza (which is caused by the Influenza virus). Whooping cough is caused by ***Bordetella pertussis***.
+* **Fungi & Mushrooms**: Fungi lack chlorophyll and vascular bundles, possessing chitin walls and glycogen stores. Yeasts, moulds, and mushrooms are fungi. Gucchi (*Morchella*) is a wild, non-cultivable edible Ascomycete fungus of Himalayan conifer forests. Death cap (*Amanita phalloides*) is a lethal poisonous mushroom.
+* **Biological Interactions**:
+  * **Mutualism (+/+)**: Lichens (alga + fungus), Mycorrhiza (fungus + higher plant roots), Fig & Fig wasp (obligate pollination co-evolution), Corals (*Symbiodinium*).
+  * **Commensalism (+/0)**: Barnacles on whales, remora on sharks, cattle egrets with cattle, epiphytic orchids on trees.
+  * **Hyperparasitism**: Parasite of a parasite (Apocrita wasps, Diptera).
+* **Lichens as Bio-indicators**: Lichens do NOT grow in polluted areas; exquisitely sensitive to $SO_2$.
+* **Ecosystem Energetics**: Producers (Trophic Level-I) act as the intermediary between abiotic and biotic components. Primary productivity is measured in $g/m^2/\text{year}$. Chief oceanic primary producers are Diatoms (~45%) and Cyanobacteria; Copepods are primary consumers.
+* **Human Species**: Chinese, American, Indian, and Black African populations all belong to the exact same species: ***Homo sapiens***.
+* **Curd vs Vinegar**: Curd's sour taste is due to **Lactic Acid** fermented by *Lactobacillus*. Vinegar's sour taste is due to **Acetic Acid** fermented by *Acetobacter aceti*.
+* **Biodegradable vs Recyclable**: Wool is a natural protein fibre that decomposes in soil (**biodegradable**). Plastic, glass, and aluminium foil are **non-biodegradable**. Glass and aluminium can be melted down and reformed (**recyclable**), but they will never decompose into organic humus.
+* **DDT & Pesticides**: DDT, BHC (Lindane), and Endosulfan are non-biodegradable chlorinated hydrocarbons that accumulate in body fat and undergo **biomagnification** across trophic levels.
+* **BOD vs COD**: High BOD means high organic pollution and low Dissolved Oxygen ($DO < 4\text{ mg/L}$ kills fish). **COD is always greater than BOD** because COD measures total chemical oxidation of all organics, while BOD measures only biological degradation.
+* **Biogas Components**: Methane ($\mathbf{CH_4}$, **50–70%**) is the primary combustible component, followed by Carbon Dioxide ($\mathbf{CO_2}$, **30–40%**).
+* **Research Institutes Locations**:
+  * CDRI, CIMAP, NBRI, IITR, BSIP, and IISR are all located in **Lucknow**.
+  * IVRI and CARI are at **Izatnagar, Bareilly**.
+  * IIVR is in **Varanasi**; IGFRI is in **Jhansi**; CIRG is in **Mathura**; NSI is in **Kanpur**.
+  * NIV is in **Pune**; NDRI is in **Karnal**; CFTRI is in **Mysuru**; NEERI is in **Nagpur**.
+  * WHO is in **Geneva**; FAO is in **Rome**; UNEP is in **Nairobi**.
+* **Key Science Days**:
+  * **28 February**: National Science Day (Raman Effect discovery in 1928, not Raman's birthday).
+  * **24 March**: World TB Day (Koch's discovery of TB bacillus in 1882).
+  * **7 April**: World Health Day (WHO established in 1948).
+  * **5 June**: World Environment Day (1972 Stockholm Conference).
+  * **26 November**: National Milk Day (Verghese Kurien's birthday).
+  * **1 December**: World AIDS Day.
+* **The Six Seasons (*Shad Ritus*) Order**:
+  1. **Vasanta** (Spring: mid-Feb to mid-Apr, Chaitra–Vaishakha)
+  2. **Grishma** (Summer: mid-Apr to mid-Jun, Jyeshtha–Ashadha; *Zaid* crops)
+  3. **Varsha** (Rains: mid-Jun to mid-Aug, Shravana–Bhadrapada; *Kharif* sowing, mosquitoes)
+  4. **Sharad** (Autumn: mid-Aug to mid-Oct, Ashwina–Kartika; monsoon retreat, "October heat")
+  5. **Hemanta** (Pre-Winter: mid-Oct to mid-Dec, Margashirsha–Pausha; *Rabi* sowing)
+  6. **Shishira** (Winter: mid-Dec to mid-Feb, Magha–Phalguna; peak cold, frost, *Mahawat* winter rains for wheat)
+
+---
 
 
 ---

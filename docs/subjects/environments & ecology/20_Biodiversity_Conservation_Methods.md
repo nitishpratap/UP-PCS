@@ -21,7 +21,8 @@ In-situ (स्थान पर) Conservation (स्व-स्थाने स�
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **In-situ** (स्थान पर) conservation protects biodiversity **in the natural habitat (वास स्थान)**. It is the preferred primary strategy because the whole ecosystem (पारिस्थितिकी तंत्र) and natural selection stay intact.
 2. **Ex-situ** (स्थानांतरित) conservation protects biodiversity **outside** the natural habitat — zoos, botanic gardens, seed banks, gene banks, cryobanks. It is a backup, not a replacement for in-situ.
@@ -48,9 +49,10 @@ In-situ (स्थान पर) Conservation (स्व-स्थाने स�
 23. Cryobanking is an ex-situ technology for germplasm that ordinary refrigeration cannot hold.
 24. Priority line for prelims: **in-situ first, ex-situ supplementary** — never reverse the preference.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -61,7 +63,8 @@ In-situ (स्थान पर) Conservation (स्व-स्थाने स�
 | **Cryopreservation** | **Seed Bank** | Ultra-low temperature preservation of living cells, gametes, embryos, and tissues suspended in liquid nitrogen at **-196°C** stopping all metabolic decay vs storage of dried orthodox seeds in vault freezers at standard temperatures of -18°C to -20°C | क्रायो-संरक्षण (-196°C द्रवित नाइट्रोजन) / बीज बैंक (-18°C शुष्क भंडारण) |
 | **Sacred Groves** | **Biosphere Reserves** | Community-protected virgin forest patches preserved through traditional spiritual beliefs and religious taboos (e.g. Deorais, Orans, Kavu, Law Kyntang) vs modern scientific statutory conservation landscape demarcated by government under UNESCO MAB | पवित्र उपवन (पारंपरिक संरक्षण) / जैवमंडल आरक्षित क्षेत्र (वैज्ञानिक प्रारूप) |
 | **National Bureau of Plant Genetic Resources (NBPGR)** | **National Bureau of Animal Genetic Resources (NBAGR)** | Premier ICAR institute managing the National Gene Bank for agricultural crop and wild relative germplasm (HQ: New Delhi) vs premier ICAR institute maintaining registrations and genetic databases of indigenous livestock breeds (HQ: Karnal, Haryana) | एनबीपीजीआर (नई दिल्ली, पादप जीन बैंक) / एनबीएजीआर (करनाल, पशु आनुवंशिकी) |
----
+
+</details>
 
 ## Must-score facts — in-situ, ex-situ, gene banks
 

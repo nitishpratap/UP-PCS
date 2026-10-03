@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 7 — Plants, Agriculture and Plant Diseases</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Plant Taxonomy Hierarchy**: Categorized from higher to lower: **Kingdom $\rightarrow$ Phylum (Division) $\rightarrow$ Class $\rightarrow$ Order $\rightarrow$ Family $\rightarrow$ Genus $\rightarrow$ Species**. **Species** is the basic taxonomic unit consisting of individuals with fundamental morphological similarities capable of interbreeding.
 2. **Augustin Pyramus de Candolle (A.P. de Candolle)**: Swiss botanist who **first coined the term "Taxonomy" (1813)** and first used internal **vascular tissue characteristics** to divide plants into *Vasculares* (with vascular bundles) and *Cellulares* (without vascular bundles). (Linnaeus is the "Father of Modern Taxonomy").
@@ -39,35 +38,36 @@ hide:
 23. **Phytohormones Master List**:
 24. **Biological Nitrogen Fixation (BNF) & Biofertilisers**:
 25. **Crop Diseases & Nutritional Disorders**:
+26. **Agronomic Management Facts for Nitrogen Use Efficiency (NUE)**:
+27. **Split application** of nitrogenous fertilizers matching crop physiological demand stages.
+28. **Non-Nitrogen-Fixing Crops Trap**: Paddy, wheat, sugarcane, amaranth, spinach, and purslane (kulfa) do **not** fix atmospheric nitrogen on their own and require microbial inoculants or chemical nitrogen supplementation!
+29. **Nature of Photosynthesis**: Oxidation-reduction (redox) photochemical reaction in which water is oxidized to release molecular oxygen ($O_2$) and carbon dioxide is reduced to synthesize carbohydrates (glucose).
+30. **Energy Conversion**: Solar radiation energy is transformed into **chemical potential energy** stored in carbohydrate molecular bonds.
+31. **Global Photosynthetic Output**: Approximately **90% of Earth's total photosynthesis** is executed by marine and freshwater **algae and phytoplankton** (85% in marine oceans, 5% in freshwater rivers/lakes). Terrestrial forests and grasses contribute the remainder.
+32. **Source of Evolved Oxygen**: The oxygen gas ($O_2$) liberated during photosynthesis **originates entirely from the photolysis of water ($\text{H}_2\text{O}$)**, proven via isotope tracer experiments ($^{18}\text{O}$), and **not from carbon dioxide**.
+33. **Self-Replication**: Chloroplasts possess their own **extrachromosomal circular DNA and 70S RNA**, conferring autonomous self-replicating capacity (semiautonomous organelle).
+34. **Chlorophyll Molecule**: Chelated porphyrin ring with a coordinated central **Magnesium ($\text{Mg}$)** ion. Absence of magnesium leads to severe interveinal chlorosis (yellowing). Elements in chlorophyll: $\text{C, H, O, N, Mg}$ (**Calcium is NOT present!**).
+35. **Absorption vs Action Spectrum**:
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
-|-----------|-----------|-------------------------------|-----------|
-| **Rhizome (Ginger/Turmeric)** | **Tuber (Potato)** | Underground stem growing horizontally with nodes/internodes vs swollen stem tip with axillary eyes | प्रकंद / स्तंभ कंद |
-| **Stem Storage (Potato/Ginger)**| **Root Storage (Sweet Potato/Carrot)** | Derived from shoot/stem, has nodes/buds vs derived from radicle/root, lacks nodes and buds | तना संचय / जड़ संचय |
-| **True Fruit (Mango/Grape)** | **False Fruit (Apple/Pear/Cashew)** | Developed exclusively from ovary vs developed from thalamus (apple/pome), peduncle (cashew), or inflorescence (jackfruit) | सत्य फल / असत्य (आभासी) फल |
-| **Pome (Apple/Pear)** | **Drupe (Mango/Peach/Lychee)** | Fleshy edible thalamus enclosing seed core vs fleshy mesocarp around a stony endocarp (or fleshy aril in lychee) | सेब (पोम) / अष्ठिल (ड्रूप) |
-| **Sorosis (Mulberry/Pineapple)**| **Pepo (Melon/Cucumber)** | Composite fruit from entire inflorescence vs fleshy berry with hard rind from inferior ovary | सोरोसिस / पेपो |
-| **Lycopene (Tomato)** | **Caricaxanthin (Papaya)** | Carotenoid giving red colour to tomato vs xanthophyll giving yellow colour to papaya (with papain enzyme) | लाइकोपीन / कैरिकाजैनथिन |
-| **Anthocyanin (Apple Skin)** | **$\beta$-Carotene (Carrot)** | Water-soluble flavonoid giving red blush to apples vs lipid-soluble pigment giving orange colour to carrots | एंथोसायनिन / कैरोटीन |
-| **Allicin (Garlic)** | **Propanethial S-oxide (Onion)**| Sulphur compound giving garlic pungent antimicrobial smell vs lachrymatory factor gas triggering eye tears | एलिसिन / अश्रु-कारक यौगिक |
-| **Capsaicin** | **Curcumin** | Alkaloid ($C_{18}H_{27}NO_3$) producing heat/burning in chillies vs polyphenol producing yellow antioxidant in turmeric | कैप्साइसिन / करक्यूमिन |
-| **Seed Fibre (Cotton)** | **Bast Fibre (Jute/Hemp/Sunn)**| Epidermal seed hairs, pure cellulose, zero nitrogen vs phloem sclerenchyma fibres extracted by retting | कपास (बीज रेशा) / पटसन (स्तंभ रेशा) |
-| **Phreatophyte** | **Xerophyte** | Deep-rooted desert plant with 20–30 m taproots reaching groundwater vs general arid plant with succulent stems/sunken stomata | वात जल पादप / मरुद्भिद |
-| **Halophyte** | **Hydrophyte** | Salt-tolerant plant of saline swamps with pneumatophores vs freshwater plant with buoyant aerenchyma | लवणोद्भिद / जलोद्भिद |
-| **Lithophyte** | **Epiphyte** | Plant growing on bare rocks without soil (moss, lichen) vs plant growing on trees strictly for mechanical support (orchid) | शैल-पादप / अधिपादप |
-| **Eurythermal** | **Stenothermal** | Tolerates wide temperature variations vs restricted to narrow temperature range | पृथुतापी / तनुतापी |
-| ***Cuscuta* (Amarbel)** | ***Nepenthes* (Pitcher Plant)**| Total stem parasite extracting food via haustoria vs photosynthetic plant trapping insects for nitrogen in Meghalaya | अमरबेल (परजीवी) / घटपर्णी (कीटभक्षी) |
-| **Triticale** | **Common Wheat** | First man-made cereal hybrid (Wheat $\times$ Rye) vs naturally evolved hexaploid cereal crop | ट्रिटिकेल / सामान्य गेहूँ |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& Negative-Marking Eliminators
+
+1. **Photosynthesis site**: Light reaction in **thylakoid**; Calvin cycle in **stroma**.
+2. **C3 vs C4**: Maize/sugarcane are C4; wheat/rice are typically C3 — photorespiration is high in C3.
+3. **Xylem vs phloem**: Xylem = water/minerals upward; phloem = food translocation.
+4. **Nitrogen fixation**: Root nodules of legumes with *Rhizobium* — not ordinary free soil N2 use by wheat.
+5. **Transpiration pull**: Main ascent of sap in tall trees — capillarity alone is not enough.
+6. **Plant disease examples**: Rust of wheat is fungal; citrus canker is bacterial; tobacco mosaic is viral — do not swap.
+7. **Growth regulators**: Auxin → apical dominance/rooting; gibberellin → stem elongation; cytokinin → cell division; ethylene → ripening; ABA → stress/dormancy.
+8. **Hydroponics**: Soil-less mineral solution culture — soil microbes are not required by definition.
+9. **Chlorophyll centre**: Magnesium is central in chlorophyll — not iron (iron is for haemoglobin analogy trap).
+10. **Photoperiodism**: Flowering depends on day/night length — short-day and long-day plants differ.
+
+---
 
 
 ---

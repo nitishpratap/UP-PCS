@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 10 — Climate Change (जलवायु परिवर्तन)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Carbon Credit** | **Carbon Offset** | Formal tradable permit or certificate representing the reduction or removal of 1 metric tonne of CO₂ equivalent under a compliance cap-and-trade system vs voluntary purchase of emission reduction units to neutralize an individual's or company's carbon footprint | कार्बन क्रेडिट (1 टन CO₂e प्रमाण-पत्र) / कार्बन ऑफसेट |
 | **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Top-down legally binding emission reduction targets imposed exclusively on developed nations (Annex-I) with Common But Differentiated Responsibilities vs bottom-up universal framework requiring all countries to submit voluntary Nationally Determined Contributions (NDCs) aiming to cap warming well below 2.0°C/1.5°C | क्योटो प्रोटोकॉल (बाध्यकारी/विकसित देश) / पेरिस समझौता (सार्वभौमिक NDCs) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Frame
 
@@ -138,18 +132,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Global warming is the long-term rise in average surface temperature. It is a subset of broader climate change, which also includes rainfall, extremes, and sea-level shifts.
-- **Exam Anchor:** IPCC (आईपीसीसी) AR6 facts about 1.1°C above 1850–1900 globally. India has warmed about 0.7°C since 1901 (IMD class figure). Past-century surface rise is about 1°C ≈ 1.8°F.
-- **Exam Anchor:** The natural greenhouse effect (प्राकृतिक ग्रीनहाउस प्रभाव) keeps Earth near about +15°C. Without it, Earth would be near about −18°C.
 - **Exam Anchor:** Joseph Fourier (1820s) postulated the greenhouse-effect idea. Sun sends shortwave (UV + visible + IR); Earth re-emits longwave IR. Ozone absorbs harmful UV; GHGs trap outgoing IR.
-- **Exam Anchor:** Enhanced greenhouse effect (मानवजनित संवर्धित प्रभाव) means excess anthropogenic GHGs trap outgoing infrared radiation. Main cause of recent warming is CO₂ (highest concentration among long-lived GHGs).
-- **Exam Anchor:** Kyoto-basket majors: CO₂ (GWP 1), CH₄ (GWP about 28–36), N₂O (GWP about 265), plus HFCs, PFCs, SF₆ (and NF₃ in later inventories).
-- **Exam Anchor:** Rough WMO-style relative (सापेक्ष) shares often used in Indian papers: CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%. Decreasing order: CO₂ > CH₄ > CFCs > N₂O.
 - **Exam Anchor:** Water vapour is Earth’s most abundant natural GHG (NASA: ~half of the natural greenhouse effect) but mainly a feedback, not the primary policy driver.
-
-</details>
+- **Exam Anchor:** Not GHGs: argon, nitrogen (N₂), oxygen, hydrogen, propane. SO₂ / NOx do not contribute to warming directly (indirect / other roles).
+- **Exam Anchor:** Direct GHGs include CO₂, CH₄, N₂O, CFCs, SF₆, NF₃. Indirect agents include NOx, CO, NMVOCs, SO₂.
+- **Exam Anchor:** Carbon fertilization = more plant growth from higher atmospheric CO₂ (not the same as ocean acidification (महासागरीय अम्लीकरण) or warming).
+- **Exam Anchor:** Methane (“marsh gas”) sources: paddies, cattle, coal mines, landfills, termites; natural wetlands dominate natural CH₄ (~75–76% of natural). Rice is a key anthropogenic source of both CH₄ and N₂O.
+- **Exam Anchor:** Methane hydrates under Arctic tundra (टुंड्रा) / seafloor can release CH₄ if warmed; atmospheric CH₄ oxidises to CO₂ in roughly a decade or two.
 
 ---
 

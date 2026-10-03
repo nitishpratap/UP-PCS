@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 3 — Governors-General & Viceroys</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -50,11 +48,7 @@ hide:
 | August Offer | Wavell Plan | Linlithgow, 1940 vs Wavell, 1945 | अगस्त प्रस्ताव / वेवेल योजना |
 | First Viceroy | Last Viceroy | Canning vs Mountbatten | कैनिंग / माउंटबेटन |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### GG ↔ reform (match home)
 
@@ -259,18 +253,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Regulating Act, 1773 created the Governor-General (गवर्नर-जनरल) of Bengal; first holder Warren Hastings. The Supreme Court at Calcutta began in 1774.
-- **Exam Anchor:** The Charter Act, 1833 created the Governor-General of India; first holder William Bentinck. The Company (कंपनी) stopped all trade (पण्याध्यक्ष).
-- **Exam Anchor:** The Government of India Act, 1858 ended Company rule (कंपनी शासन). The same man became Viceroy; first Viceroy (कैनिंग) was Lord Canning. Last Viceroy (माउंटबेटन) was Mountbatten; last GG of India (Dominion) was C. Rajagopalachari (1948–50).
-- **Exam Anchor:** Under Pitt’s India Act, 1784, the Board of Control handled political affairs and the Court of Directors handled commercial affairs.
-- **Exam Anchor:** The Charter Act, 1813 ended the Company’s trade monopoly in India (kept tea/China) and set aside ₹1 lakh a year for education. The Charter Act, 1853 implemented open competition for the civil service.
-- **Exam Anchor:** The Indian Councils Act, 1861 legalised the portfolio system and began Indian nomination. The 1892 Act added budget discussion and indirect election. The 1909 Act (Morley–Minto) began Muslim separate electorates and put S. P. Sinha on the Viceroy’s Executive Council — still no dyarchy (द्वैध शासन).
-- **Exam Anchor:** The Government of India Act, 1919 (Montford) introduced provincial dyarchy, a bicameral centre, the Chamber of Princes, and the Simon ten-year review clause. The 1935 Act gave provincial autonomy (worked) while federation and centre dyarchy stayed on paper.
 - **Exam Anchor:** Warren Hastings ended Dual Government in 1772, moved the treasury to Calcutta, faced Banaras 1781, and saw the Asiatic Society (15 Jan 1784). Sir William Jones (जोन्स) founded the Society; Hastings declined the chair. Ring Fence (रिंग फेंस) belongs with Hastings–Wellesley.
-
-</details>
+- **Exam Anchor:** Cornwallis introduced the Permanent Settlement of 1793, the Cornwallis Code, the Daroga (थाना) police system, and the covenanted ICS line; he died at Ghazipur (UP) in 1805. He led the Third Anglo-Mysore (आंग्ल-मैसूर) War to the Treaty of Seringapatam, 1792.
+- **Exam Anchor:** Wellesley finished the Subsidiary Alliance (सहायक संधि) from 1798 (first Hyderabad (हैदराबाद); first Maratha (मराठा) Bajirao (बाजीराव) II via Bassein 1802 (बसीन)). Dalhousie used the Doctrine of Lapse (विलुप्ति सिद्धांत) (Satara first, 1848), pushed railways (Bombay–Thane 1853, GIPR), and hosted Wood’s Despatch, 1854.
+- **Exam Anchor:** Bentinck abolished Sati in 1829, suppressed Thugs via Sleeman, and made English the official language for higher education (Macaulay’s Minute, 1835). Metcalfe (मेटकाफ़) is the “Liberator of the Press” (1835). Ellenborough abolished slavery (Act V, 1843) and annexed Sindh.
+- **Exam Anchor:** Elgin I (एल्गिन प्रथम) saw the suppression of the Wahabi (वहाबी) Movement (वहाबी). Hardinge I suppressed the Khond uprising and female infanticide. Northbrook (नॉर्थब्रुक) faced the Kuka Movement (कूका) in Punjab and resigned over Afghan policy.
+- **Exam Anchor:** Lytton (लिटन) passed the Vernacular Press Act, 1878 (Gagging Act), the Arms Act, and the Royal Titles Act (1876) (Queen as Kaiser-i-Hind). Used Proud Reserve on Afghanistan.
+- **Exam Anchor:** Ripon repealed the Vernacular Press Act, pushed local self-government (1882), the First Factory (फैक्टरी) Act (1881), and faced the Ilbert Bill (1883).
+- **Exam Anchor:** Dufferin saw the founding of the INC in 1885 and called it a “microscopic minority.” Lansdowne (लैंसडाउन) saw the Second Factory Act (1891) and Age of Consent Act (1891).
 
 ---
 

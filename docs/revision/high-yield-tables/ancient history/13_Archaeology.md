@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 13 — Archaeology</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -29,11 +27,7 @@ hide:
 | Rock shelter | Cave | Bhimbetka overhang vs hollow | शैल आश्रय / गुफा |
 | ASI HQ | Lucknow | **New Delhi** vs UP state archaeology | दिल्ली / लखनऊ |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### ASI / method tags
 
@@ -187,18 +181,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Archaeological Survey of India was founded in 1861 under Viceroy Canning. The first Director-General was Alexander Cunningham.
-- **Exam Anchor:** ASI headquarters is 24 Tilak Marg, New Delhi. It is not Lucknow; Lucknow holds UP State Archaeology and the State Museum.
 - **Exam Anchor:** John Marshall (DG 1902–1928) announced the Indus civilization to the world in 1924. Mortimer Wheeler (DG 1944–1948) brought the balk-and-grid method and re-dug Harappa in 1946 — he did not discover IVC.
 - **Exam Anchor:** Stratigraphy (स्तरिकी) is relative dating by layers: in an undisturbed stack, deeper is older. A balk is the uncut wall left so layers can still be read.
 - **Exam Anchor:** Carbon-14 is absolute dating invented on Willard Libby’s path. Half-life is about 5730 years. It works only on organic samples (charcoal, bone, wood, seed, shell) — not bare stone or metal.
 - **Exam Anchor:** Daya Ram Sahni opened Harappa in 1921. R.D. Banerjee opened Mohenjo-daro (मोहनजोदड़ो) in 1922. Marshall announced; Wheeler re-dug later.
 - **Exam Anchor:** S.R. Rao excavated Lothal and its dockyard. B.B. Lal excavated Kalibangan (कालीबंगा). R.S. Bisht excavated Dholavira (धोलावीरा).
 - **Exam Anchor:** V.S. Wakankar established Bhimbetka (भीमबेटका) rock-art prehistory in 1957–58. Bhimbetka is in Madhya Pradesh, not Uttar Pradesh.
-
-</details>
+- **Exam Anchor:** Sanauli (सनौली) (Baghpat, UP), excavated in 2018, yielded copper chariots, coffins, and antenna swords in a Late Harappan / OCP setting.
+- **Exam Anchor:** Alamgirpur is the easternmost Harappan site in India. Rakhigarhi (राखीगढ़ी) (Haryana) is the largest mound — it is not UP and not the eastern edge.
 
 ---
 

@@ -30,7 +30,8 @@
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Under the Disaster Management Act **2005**, the **NDMA** is chaired by the **Prime Minister**, the **SDMA** by the **Chief Minister**, and the **DDMA** by the **District Magistrate**. The **NEC** is chaired by the **Cabinet Secretary**. The nodal ministry is **Home**.
 2. **NDRF** as a **force** is not the same as the National Disaster **Response Fund**. Do not swap the two.
@@ -65,9 +66,10 @@
 31. POSH **2013** is workplace sexual harassment (Internal Committee if **ten or more** workers). POCSO **2012** is child sexual offences under **eighteen**. Keep the two Acts apart.
 32. The Environment (Protection) Act **1986** is the umbrella environment statute. The National Green Tribunal Act **2010** creates the green tribunal. Match the year to the institution, not the slogan.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Term A | Term B | Core Difference | Hindi Terminology |
 |--------|--------|-----------------|-------------------|
@@ -94,7 +96,8 @@
 | **CPGRAMS** | **DPG** | DARPG portal for all ministries vs Cabinet Secretariat **1988** residual window | सीपीजीआरएएमएस / लोक शिकायत निदेशालय |
 | **PRAGATI** | **Digital India** | PMO monthly ICT review (**2015**) vs MeitY programme, **9 pillars** | प्रगति (समीक्षा मंच) / डिजिटल इंडिया |
 | **Conduct 1964** | **CCA 1965** | Behaviour / gifts / politics vs How to punish | आचरण नियम / अनुशासनात्मक नियम |
----
+
+</details>
 
 ## Must-score facts — key Acts & chairs
 

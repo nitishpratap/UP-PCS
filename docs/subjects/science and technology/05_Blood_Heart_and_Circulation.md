@@ -24,7 +24,8 @@ Blood Composition (Plasma, Albumin, Globulin, Fibrinogen) | Formed Elements: Ery
 
 ---
 
-## Consolidated — 45 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Blood is a specialized fluid connective tissue consisting of **~55% liquid Plasma** and **~45% cellular Formed Elements**; slightly alkaline with a normal physiological **pH of 7.35–7.45**; total blood volume in a healthy adult is **5 to 6 litres** (~7–8% of body weight).
 2. Blood plasma is 90–92% water; plasma proteins include **Albumin** (maintains colloidal osmotic / oncotic pressure, ~4 g/dL), **Globulins** ($\alpha, \beta, \gamma$ — $\gamma$-globulins act as circulating **antibodies**), and **Fibrinogen** (essential for blood clotting); **$\text{Serum} = \text{Plasma} - \text{Clotting Factors (Fibrinogen)}$**.
@@ -121,9 +122,10 @@ Blood Composition (Plasma, Albumin, Globulin, Fibrinogen) | Formed Elements: Ery
     - Functions: **Graveyard of RBCs**, **Blood Bank** (can contract to release stored red blood cells into systemic circulation during acute haemorrhage), and major antibody-producing lymphoid organ.
 45. **Cardiopulmonary Resuscitation (CPR)**: Emergency life-saving procedure comprising chest compressions (depth 5–6 cm at a rate of 100–120 compressions/minute) combined with artificial rescue breaths to manually preserve blood circulation to the brain and vital organs during cardiac arrest.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -139,7 +141,7 @@ Blood Composition (Plasma, Albumin, Globulin, Fibrinogen) | Formed Elements: Ery
 | **Blue Baby (Methemoglobin)**| **Blue Baby (Heart Defect)** | Nitrate in drinking water oxidizes $Fe^{2+} \rightarrow Fe^{3+}$ vs congenital anatomical defect (Fallot tetralogy / patent foramen ovale) | रासायनिक ब्लू बेबी / जन्मजात हृदय दोष |
 | **Spleen** | **Liver** | Graveyard of RBCs, filters blood and stores RBCs vs produces bile, stores glycogen, synthesises urea and clotting factors | प्लीहा (तिल्ली) / यकृत |
 
----
+</details>
 
 ## Must-Score Drill — Chambers, Blood Groups & Vessels
 

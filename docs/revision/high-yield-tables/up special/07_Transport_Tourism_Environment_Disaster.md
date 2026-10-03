@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>UP Special Topic 7 — Transport, Tourism Circuits, Forests, Protected Areas, Wetlands and Disaster Management</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -29,18 +35,6 @@ hide:
 | **Forest Cover (6.15%)** | **Total Green Cover (9.23%)** | Actual forest cover is **6.15%**; Forest + Tree cover combined is **9.23%**. |
 | **Highest Forest % (Sonbhadra - 35.3%)** | **Lowest Forest % (Bhadohi - 0.37%)** | Sonbhadra has the **highest forest proportion**; Bhadohi has the **lowest**. |
 | **HRIDAY Cities (Varanasi & Mathura)** | **Smart Cities (10 Central Cities)** | HRIDAY covered ONLY **Varanasi and Mathura**; Central Smart Cities covered **10 cities** (Ghaziabad excluded). |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -173,18 +167,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Dudhwa National Park in Lakhimpur Kheri is the only National Park in Uttar Pradesh (established 1977).
-- **Exam Anchor:** Uttar Pradesh has 4 designated Tiger Reserves: (1) Dudhwa TR, (2) Pilibhit TR, (3) Amangarh TR, and (4) Ranipur TR.
 - **Exam Anchor:** Ranipur Tiger Reserve in Chitrakoot district was notified in 2022 as India's 53rd Tiger Reserve and UP's 4th.
 - **Exam Anchor:** Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling its wild tiger count ahead of schedule.
-- **Exam Anchor:** The scenic eco-tourism spot Chuka Beach is located inside Pilibhit Tiger Reserve on the Sharda Sagar reservoir.
 - **Exam Anchor:** Amangarh Tiger Reserve (Bijnor) served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
 - **Exam Anchor:** Chandraprabha Wildlife Sanctuary in Chandauli district is the oldest wildlife sanctuary in UP (established in 1957).
 - **Exam Anchor:** Hastinapur Wildlife Sanctuary (2,073 km²) is the largest wildlife sanctuary in Uttar Pradesh by area.
-
-</details>
+- **Exam Anchor:** Mahavir Swami Wildlife Sanctuary in Lalitpur district (5.4 km²) is the smallest wildlife sanctuary in UP.
+- **Exam Anchor:** Katarniaghat Wildlife Sanctuary in Bahraich district was established in 1975 and is famous for Gangetic dolphins.
 
 ---
 
@@ -215,8 +207,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Uttar applies only to union territories and not state jurisdictions.
-B. Uttar Pradesh has 4 designated Tiger Reserves: (1) Dudhwa TR, (2) Pilibhit TR, (3) Amangarh TR, and (4) Ranipur TR.
+A. Contrary to standard doctrine, Ranipur applies only to union territories and not state jurisdictions.
+B. Ranipur Tiger Reserve in Chitrakoot district was notified in 2022 as India's 53rd Tiger Reserve and UP's 4th.
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -226,7 +218,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Uttar Pradesh has **4 designated Tiger Reserves**: (1) Dudhwa TR, (2) Pilibhit TR, (3) Amangarh TR, and (4) Ranipur TR.
+- **Key Exam Association:** **Ranipur Tiger Reserve** in **Chitrakoot district** was notified in **2022** as India's **53rd Tiger Reserve** and UP's 4th.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -234,9 +226,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Ranipur applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Pilibhit applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. Ranipur Tiger Reserve in Chitrakoot district was notified in 2022 as India's 53rd Tiger Reserve and UP's 4th.
+C. Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling its wild tiger count ahead of schedule.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -245,7 +237,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Ranipur Tiger Reserve** in **Chitrakoot district** was notified in **2022** as India's **53rd Tiger Reserve** and UP's 4th.
+- **Key Exam Association:** **Pilibhit Tiger Reserve** won the international **TX2 Award in 2020** for doubling its wild tiger count ahead of schedule.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -253,10 +245,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Pilibhit applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Amangarh applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling its wild tiger count ahead of schedule.
+D. Amangarh Tiger Reserve (Bijnor) served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
 
 <details>
 <summary>Show answer</summary>
@@ -264,7 +256,7 @@ D. Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling i
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Pilibhit Tiger Reserve** won the international **TX2 Award in 2020** for doubling its wild tiger count ahead of schedule.
+- **Key Exam Association:** **Amangarh Tiger Reserve (Bijnor)** served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -272,7 +264,7 @@ D. Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling i
 
 Which of the following is correct regarding this topic?
 
-A. The scenic eco-tourism spot Chuka Beach is located inside Pilibhit Tiger Reserve on the Sharda Sagar reservoir.
+A. Chandraprabha Wildlife Sanctuary in Chandauli district is the oldest wildlife sanctuary in UP (established in 1957).
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -283,7 +275,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The scenic eco-tourism spot **Chuka Beach** is located inside **Pilibhit Tiger Reserve** on the Sharda Sagar reservoir.
+- **Key Exam Association:** **Chandraprabha Wildlife Sanctuary** in **Chandauli district** is the **oldest wildlife sanctuary** in UP (established in **1957**).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -291,8 +283,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Amangarh applies only to union territories and not state jurisdictions.
-B. Amangarh Tiger Reserve (Bijnor) served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
+A. Contrary to standard doctrine, Hastinapur applies only to union territories and not state jurisdictions.
+B. Hastinapur Wildlife Sanctuary (2,073 km²) is the largest wildlife sanctuary in Uttar Pradesh by area.
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -302,7 +294,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Amangarh Tiger Reserve (Bijnor)** served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
+- **Key Exam Association:** **Hastinapur Wildlife Sanctuary** (2,073 km²) is the **largest wildlife sanctuary** in Uttar Pradesh by area.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -310,9 +302,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Chandraprabha applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Mahavir applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. Chandraprabha Wildlife Sanctuary in Chandauli district is the oldest wildlife sanctuary in UP (established in 1957).
+C. Mahavir Swami Wildlife Sanctuary in Lalitpur district (5.4 km²) is the smallest wildlife sanctuary in UP.
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -321,7 +313,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Chandraprabha Wildlife Sanctuary** in **Chandauli district** is the **oldest wildlife sanctuary** in UP (established in **1957**).
+- **Key Exam Association:** **Mahavir Swami Wildlife Sanctuary** in **Lalitpur district** (5.4 km²) is the **smallest wildlife sanctuary** in UP.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -329,10 +321,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Hastinapur applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Katarniaghat applies only to union territories and not state jurisdictions.
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. Hastinapur Wildlife Sanctuary (2,073 km²) is the largest wildlife sanctuary in Uttar Pradesh by area.
+D. Katarniaghat Wildlife Sanctuary in Bahraich district was established in 1975 and is famous for Gangetic dolphins.
 
 <details>
 <summary>Show answer</summary>
@@ -340,7 +332,7 @@ D. Hastinapur Wildlife Sanctuary (2,073 km²) is the largest wildlife sanctuary 
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Hastinapur Wildlife Sanctuary** (2,073 km²) is the **largest wildlife sanctuary** in Uttar Pradesh by area.
+- **Key Exam Association:** **Katarniaghat Wildlife Sanctuary** in **Bahraich district** was established in **1975** and is famous for Gangetic dolphins.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -348,7 +340,7 @@ D. Hastinapur Wildlife Sanctuary (2,073 km²) is the largest wildlife sanctuary 
 
 Which of the following is correct regarding this topic?
 
-A. Mahavir Swami Wildlife Sanctuary in Lalitpur district (5.4 km²) is the smallest wildlife sanctuary in UP.
+A. Sonbhadra district has the highest forest cover in UP, both in absolute area (2,528 km²) and percentage (35.29%).
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -359,7 +351,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Mahavir Swami Wildlife Sanctuary** in **Lalitpur district** (5.4 km²) is the **smallest wildlife sanctuary** in UP.
+- **Key Exam Association:** **Sonbhadra district** has the highest forest cover in UP, both in absolute area (**2,528 km²**) and percentage (**35.29%**).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -367,8 +359,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The National Chambal Sanctuary (Agra/Etawah) is a specialized tri-state sanctuary for the conservation of the Gharial and Gangetic River Dolphin.
+A. Contrary to standard doctrine, Bhadohi applies only to union territories and not state jurisdictions.
+B. Bhadohi (Sant Ravidas Nagar) has the lowest forest cover in UP (both in area: 3.71 km² and percentage: 0.37%).
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -378,7 +370,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **National Chambal Sanctuary** (Agra/Etawah) is a specialized tri-state sanctuary for the conservation of the **Gharial** and **Gangetic River Dolphin**.
+- **Key Exam Association:** **Bhadohi (Sant Ravidas Nagar)** has the lowest forest cover in UP (both in area: 3.71 km² and percentage: **0.37%**).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -386,9 +378,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Katarniaghat applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Surha applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. Katarniaghat Wildlife Sanctuary in Bahraich district was established in 1975 and is famous for Gangetic dolphins.
+C. Surha Tal (Jai Prakash Narayan Bird Sanctuary) in Ballia was declared India's 100th Ramsar Site on 5 June 2026.
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -397,7 +389,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Katarniaghat Wildlife Sanctuary** in **Bahraich district** was established in **1975** and is famous for Gangetic dolphins.
+- **Key Exam Association:** **Surha Tal (Jai Prakash Narayan Bird Sanctuary) in Ballia** was declared **India's 100th Ramsar Site** on 5 June 2026.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -405,10 +397,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Sarsai applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. The State Animal of Uttar Pradesh is the Swamp Deer (Barasingha) (Rucervus duvaucelii).
+D. Sarsai Nawar Wetland in Etawah is world-renowned for its dense congregation of vulnerable Sarus Cranes.
 
 <details>
 <summary>Show answer</summary>
@@ -416,7 +408,7 @@ D. The State Animal of Uttar Pradesh is the Swamp Deer (Barasingha) (Rucervus du
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **State Animal** of Uttar Pradesh is the **Swamp Deer (Barasingha)** (*Rucervus duvaucelii*).
+- **Key Exam Association:** **Sarsai Nawar Wetland** in **Etawah** is world-renowned for its dense congregation of vulnerable Sarus Cranes.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -424,7 +416,7 @@ D. The State Animal of Uttar Pradesh is the Swamp Deer (Barasingha) (Rucervus du
 
 Which of the following is correct regarding this topic?
 
-A. The State Bird of Uttar Pradesh is the Sarus Crane (Antigone antigone).
+A. Sur Sarovar (Keetham Lake) in Agra is a Ramsar wetland featuring a specialized Bear Rescue Centre.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -435,7 +427,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **State Bird** of Uttar Pradesh is the **Sarus Crane** (*Antigone antigone*).
+- **Key Exam Association:** **Sur Sarovar (Keetham Lake)** in **Agra** is a Ramsar wetland featuring a specialized Bear Rescue Centre.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -443,8 +435,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The State Tree of Uttar Pradesh is the Ashoka (Saraca asoca).
+A. Contrary to standard doctrine, Samaspur applies only to union territories and not state jurisdictions.
+B. Samaspur Bird Sanctuary is a Ramsar site located in Rae Bareli district.
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -454,7 +446,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **State Tree** of Uttar Pradesh is the **Ashoka** (*Saraca asoca*).
+- **Key Exam Association:** **Samaspur Bird Sanctuary** is a Ramsar site located in **Rae Bareli district**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -462,9 +454,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Sandi applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. The State Flower of Uttar Pradesh is the Palash / Dhak (Butea monosperma).
+C. Sandi Bird Sanctuary is a Ramsar site located in Hardoi district.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -473,6 +465,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **State Flower** of Uttar Pradesh is the **Palash / Dhak** (*Butea monosperma*).
+- **Key Exam Association:** **Sandi Bird Sanctuary** is a Ramsar site located in **Hardoi district**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

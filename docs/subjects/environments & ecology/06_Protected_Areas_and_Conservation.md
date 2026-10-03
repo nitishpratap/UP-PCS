@@ -21,7 +21,8 @@ Wildlife Sanctuary | National Park | Biosphere Reserve (जैवमंडल �
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Wildlife (Protection) Act, 1972** is India’s main protected-area statute.
 2. Terrestrial WPA strictness runs **National Park > Wildlife Sanctuary > Conservation/Community Reserve**.
@@ -56,9 +57,10 @@ Wildlife Sanctuary | National Park | Biosphere Reserve (जैवमंडल �
 31. **International Tiger Day = 29 July** (St Petersburg 2010). **M-STrIPES** monitors tiger reserves (patrol + ecology (पारिस्थितिकी) GIS tool).
 32. **Sathyamangalam TR (TN)** is a classic ecological link between Eastern and Western Ghats (पश्चिमी घाट).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -87,7 +89,7 @@ Wildlife Sanctuary | National Park | Biosphere Reserve (जैवमंडल �
 - **UP teaching row:** Dudhwa NP / TR, Pilibhit TR, Ranipur TR, **12 Ramsar**, Terai corridors, **no marine PA**, **no biosphere reserve** inside present UP.
 - **Three UNESCO instruments:** World Heritage · Biosphere (MAB / WNBR) · Intangible Cultural Heritage — do not force one site into all three without checking the list.
 
----
+</details>
 
 ## Must-score facts — WPA categories, tiger, Ramsar
 

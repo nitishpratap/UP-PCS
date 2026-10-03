@@ -30,7 +30,8 @@
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Dola-Palki (1930):** **Jayanand Bharati** fought feudal bans so Dalit (Shilpkar) brides/grooms could ride wedding palanquins — social-reform opener of the people’s-movement spine.
 2. **Chipko — Cause:** Commercial logging contracts threatened hill forests and livelihood after forest reservation tightened customary rights.
@@ -57,7 +58,7 @@
 23. Do not swap **Khatima 1 Sep** with **Mussoorie 2 Sep**; do not swap **Chipko** with **Maiti**; do not swap **Beej Bachao** with **Pani Rakho**.
 24. Hold the spectrum: Dola-Palki → Chipko → UKD → Beej/Pani/Maiti → 1994 firings → Jhapto-Cheeno → 9 Nov 2000 / 1 Jan 2007 rename.
 
----
+</details>
 
 ## The Spectrum of Uttarakhand People’s Movements
 
@@ -161,7 +162,8 @@ Following the 1994 reservation circular by the UP government under Mulayam Singh
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -172,7 +174,7 @@ Following the 1994 reservation circular by the UP government under Mulayam Singh
 | **Birth Date vs Rename Date** | State born as **Uttaranchal on 9 Nov 2000**; renamed **Uttarakhand on 1 Jan 2007**. |
 | **Dehradun vs Gairsain** | Dehradun = provisional / winter capital; Bhararisain (Gairsain) = official **Summer Capital** declared in 2020. |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

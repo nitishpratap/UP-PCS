@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Daily Read — High-Yield Revision Facts (Indian Polity & Governance)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## 1. Borrowed Features of the Indian Constitution (Country-Wise Master Table)
 
@@ -305,7 +303,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Rank 1: President of India
 - **Exam Anchor:** Rank 2: Vice-President of India
@@ -315,8 +313,6 @@ hide:
 - **Exam Anchor:** Rank 6: Chief Justice of India (CJI) and Speaker of Lok Sabha (Both have equal rank!)
 - **Exam Anchor:** Rank 7: Cabinet Ministers of the Union, Chief Ministers of States (within respective states), Deputy Chairman of NITI Aayog (former Planning Commission), Leaders of Opposition in Rajya Sabha and Lok Sabha
 - **Exam Anchor:** Rank 8: Ambassadors Extraordinary & Plenipotentiary, Chief Ministers (outside their respective states), Governors (outside their respective states)
-
-</details>
 
 ---
 

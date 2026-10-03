@@ -11,9 +11,21 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Economy Topic 9 — External Sector, Foreign Trade and Global Economy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **2024** | Current account of BoP includes **export and import of goods** — not FDI, ECB or IMF loans. | Capital-account distractors. |
+| **2024** | Flexible exchange rate = market demand–supply of forex; **central bank does not “determine”** that demand–supply. | A true, R false. |
+| **2024** | Remittances **2022** ranks: **India 1 · Mexico 2 · China 3 · Philippines 4**. | Match-list code **2 3 1 4**. |
+| **2024** | **Singapore** as top FDI source (2023–24 teaching); Mauritius tax-treaty shift explains routing change. | Full A/R lives also in Topic 7. |
+| **UKPCS 2024** | **FEMA** came into existence in **1999** (in force **1 June 2000**). | Enactment year ≠ force date. |
+| **UKPCS 2025** | FEMA from **1 June 2000** is true; “FERA is mainly for external debt liability” is **false**. | FERA was forex-control law. |
+| **UKPCS 2025** | WTO **MC-13** venue: **Abu Dhabi** (UAE), not Geneva HQ. | HQ ≠ ministerial venue. |
+
+---
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -29,24 +41,6 @@ hide:
 | **WTO HQ Geneva** | **MC venue (e.g. Abu Dhabi)** | Secretariat seat ≠ ministerial host city |
 | **Remittance** | **FDI** | Transfer income vs equity/control investment |
 | **Export** | **Import** | Earns forex vs spends forex |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2024** | Current account of BoP includes **export and import of goods** — not FDI, ECB or IMF loans. | Capital-account distractors. |
-| **2024** | Flexible exchange rate = market demand–supply of forex; **central bank does not “determine”** that demand–supply. | A true, R false. |
-| **2024** | Remittances **2022** ranks: **India 1 · Mexico 2 · China 3 · Philippines 4**. | Match-list code **2 3 1 4**. |
-| **2024** | **Singapore** as top FDI source (2023–24 teaching); Mauritius tax-treaty shift explains routing change. | Full A/R lives also in Topic 7. |
-| **UKPCS 2024** | **FEMA** came into existence in **1999** (in force **1 June 2000**). | Enactment year ≠ force date. |
-| **UKPCS 2025** | FEMA from **1 June 2000** is true; “FERA is mainly for external debt liability” is **false**. | FERA was forex-control law. |
-| **UKPCS 2025** | WTO **MC-13** venue: **Abu Dhabi** (UAE), not Geneva HQ. | HQ ≠ ministerial venue. |
 
 ---
 
@@ -113,18 +107,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Foreign trade is the exchange of goods and services across national borders — exports earn foreign exchange; imports spend it.
 - **Exam Anchor:** Balance of Trade (BoT) is merchandise exports minus merchandise imports (goods only in the classic teaching).
-- **Exam Anchor:** A trade surplus means goods exports exceed goods imports; a trade deficit means the reverse.
 - **Exam Anchor:** Balance of Payments (BoP) is the systematic record of all economic transactions between residents of a country and the rest of the world in a period.
-- **Exam Anchor:** BoP has two main books in school teaching: Current Account and Capital / Financial Account (plus reserve changes / balancing items).
 - **Exam Anchor:** Current account covers trade in goods, trade in services (invisibles), primary income (investment income, compensation), and secondary income (transfers / remittances teaching).
 - **Exam Anchor:** Export and import of goods belong to the current account.
 - **Exam Anchor:** FDI, External Commercial Borrowings (ECBs) and IMF loans belong to the capital / financial account — not the current account.
-
-</details>
+- **Exam Anchor:** Trade deficit is a goods-only gap; Current Account Deficit (CAD) is the broader current-account gap after services, income and transfers.
+- **Exam Anchor:** Invisible trade includes services such as software, tourism, transport and financial services.
 
 ---
 

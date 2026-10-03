@@ -37,7 +37,8 @@ Newest first. One event, one fact.
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The Preamble counts are **Justice 3**, **Liberty 5**, **Equality 2**, and **Fraternity 1**. The word **Federal** is **not** in the Preamble. The **42nd** Amendment added **Socialist**, **Secular**, and **integrity**.
 2. **Constitutionalism** means limited government under a higher law. Merely having a written constitution booklet is **not** enough by itself.
@@ -70,9 +71,10 @@ Newest first. One event, one fact.
 29. Indian secularism is often summarised as **Sarva Dharma Sambhava** / equal respect — not a US establishment-clause wall and not State indifference to reform needs.
 30. Rule by law (ruler uses statutes as a whip) is the trap opposite of Rule of Law (law binds the ruler too). Mark the second.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Term A | Term B | Core difference | Hindi Terminology |
 | -------- | -------- | ----------------- | -------- / -------- |
@@ -104,7 +106,7 @@ Newest first. One event, one fact.
 | **Constituent power** | **Legislative power** | Art. **368** (amend, within Basic Structure) | Art. **245** (laws, subject to the Constitution) |
 | **French triad** | **Indian four** | Liberty, Equality, Fraternity | **Justice** first, then the three |
 
----
+</details>
 
 ## Must-score facts — Rule of Law, Art. 21, Basic Structure
 

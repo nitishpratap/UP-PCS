@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 4 — Religious Movements</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -40,11 +38,7 @@ hide:
 | Anatta | Jiva | Buddhism: **no** permanent soul vs Jainism: **real** soul | अनात्मा / जीव |
 | Pataliputra (Jain) | Vallabhi | Early Magadhan compilation / Sthulabhadra vs **final Svetambara canon** | पाटलिपुत्र / वल्लभी |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Buddha life geography
 
@@ -657,18 +651,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Shramana (श्रमण) renouncer traditions (often nastika (नास्तिक) / नास्तिक - non-Vedic) include Buddhism, Jainism, Ajivika, and Charvaka. Astika (आस्तिक) schools accept the authority of the Veda.
-- **Exam Anchor:** Buddha’s life geography runs Lumbini (birth) → Bodh Gaya (enlightenment / सम्बोधि) → Sarnath first sermon (Dharmachakrapravartana / धर्मचक्रप्रवर्तन - UP) → Kushinagar Mahaparinirvana (Mahaparinirvana / महापरिनिर्वाण - UP).
-- **Exam Anchor:** Key persons: wife Yashodhara, son Rahula, attendant Ananda, Vinaya specialist Upali, schismatic Devadatta, and first nun Mahapajapati.
-- **Exam Anchor:** Buddhist Councils in order are Rajagriha → Vaishali → Pataliputra → Kundalvana (राजगृह → वैशाली → पाटलिपुत्र → कुण्डलवन). Remember place order, not a bare code.
-- **Exam Anchor:** The Tripitaka (त्रिपिटक) has three baskets: Vinaya (विनयपिटक - monk rules), Sutta (सुत्तपिटक - discourses), and Abhidhamma (अभिधम्मपिटक - philosophy).
-- **Exam Anchor:** The Second Council split produced Sthaviravada (स्थविरवाद - elders) and Mahasanghika (महासंधिक - great assembly). Theravada (थेरवाद / विभज्जवाद) is the surviving Hinayana line linked with the Third Council.
 - **Exam Anchor:** Sarvastivada (सर्वास्तिवाद) teaches sarvam asti, uses Sanskrit, and is tied to the Fourth Council at Kundalvana. Vaibhasika (Vaibhashika) (वैभाषिक) trusts Abhidharma; Sautrantika (सौत्रांतिक) trusts sutra only.
 - **Exam Anchor:** Hinayana (हीनयान) aims at the arhat (अर्हत्) and uses Pali. Mahayana (महायान) elevates the bodhisattva (बोधिसत्व) ideal and uses Sanskrit. Vajrayana (वज्रयान) adds tantra and mantra (Padmasambhava toward Tibet).
-
-</details>
+- **Exam Anchor:** Barabar caves were gifted to Ajivikas (आजीविक), not to Buddhists. Ajanta (अजंता) is later Buddhist painted cave architecture.
+- **Exam Anchor:** Chaitya (चैत्य) is a prayer hall. Vihara (विहार) is a monastery. Keep the architectural pair straight.
+- **Exam Anchor:** Rishabhanatha (ऋषभदेव / आदिनाथ) has an Ayodhya birth tradition. Bahubali / Gomateshwara (बाहुबली / गोमटेश्वर) is famous but is not one of the 24 tirthankaras.
+- **Exam Anchor:** Digambara (दिगम्बर) monks are sky-clad and deny women’s moksha as women. Svetambara (श्वेताम्बर) monks wear white and allow women’s liberation. Tattvartha Sutra is accepted by both.
+- **Exam Anchor:** Ajivika (आजीवक) doctrine centres on Makkhali Gosala (मक्खलि गोशाल) and fatalist niyati (नियतिवाद). Charvaka / Lokayata (चार्वाक / लोकायत) is materialist and accepts perception only (Pratyaksha (प्रत्यक्ष) / प्रत्यक्ष प्रमाण).
 
 ---
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 6 — Foreign Invasions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -45,11 +43,7 @@ hide:
 | Early Mathura Shiva | Chola Nataraja | Linga / mukhalinga / Oesho under Kushan vs later Tamil **bronze dancer** | मथुरा शिव / चोल नटराज |
 | Booted Surya | Barefoot South Surya | North Indian **udichya-vesa** (Shaka–Kushan) vs southern bare legs | सूर्य जूते / दक्षिणी सूर्य |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Alexander tags
 
@@ -138,18 +132,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** North-west doors into India are the Khyber and Bolan routes. After Achaemenid Persians came Macedon, then Indo-Greek → Shaka → Parthian → Kushan.
-- **Exam Anchor:** Correct invader order is Greeks → Sakas → Kushans. Kushans do not come before Sakas.
 - **Exam Anchor:** Darius I (about 518 BCE) took Gandhara (गांधार) and Hindush as the 20th satrapy with gold-dust tribute. Behistun lists many provinces of his empire; Herodotus makes India the twentieth. Skylax explored the Indus. Kharoshthi (खरोष्ठी) grew from Aramaic. Ctesias was physician to Artaxerxes II.
 - **Exam Anchor:** Alexander entered India about 327–325 BCE (year often 326). The campaign lasted roughly 19 months. He returned west from the Indus mouth / Paatal region about 325 BCE.
 - **Exam Anchor:** Ambhi of Taxila was Alexander’s ally. Porus fought him at the Hydaspes (Jhelum) and was then restored and enlarged.
-- **Exam Anchor:** The army mutinied at the Hyphasis (Beas). Alexander raised twelve altars there and turned back. Hydaspes is the battle; Beas is the turn-back.
-- **Exam Anchor:** On the return, Alexander stormed Sangala, was wounded among the Malloi, sent Nearchus by sea, crossed harsh Gedrosia, and died at Babylon in 323 BCE.
 - **Exam Anchor:** Kalanos went with Alexander and later self-immolated. Dandamis refused to follow. Aristotle tutored Alexander but never came to India. Deimachus also did not come with Alexander — he is later Seleucid envoy to Bindusara (बिन्दुसार).
-
-</details>
+- **Exam Anchor:** Seleucus Nicator fought Chandragupta about 305–303 BCE, ceded Arachosia, Gedrosia, and Paropamisadae, and received 500 elephants plus the envoy Megasthenes (मेगस्थनीज).
+- **Exam Anchor:** Shakas (Indo-Scythians) used the title kshatrapa. Maues / Moga was first strong at Taxila–Gandhara.
+- **Exam Anchor:** Sudarshana lake history runs Pushyagupta (Chandragupta Maurya) → Tushaspha (Ashoka) → repair by Rudradaman.
+- **Exam Anchor:** Parthians (Pahlavas) under Gondophares (about 19–45 CE) held a brief north-west phase, remembered at Takht-i-Bahi, before the Kushan peak.
 
 ---
 

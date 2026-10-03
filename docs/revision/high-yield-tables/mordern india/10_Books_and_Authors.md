@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 10 — Books & Authors</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -31,11 +29,7 @@ hide:
 | Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
 | The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ## Must-score facts — author ↔ definitive book
 
@@ -341,18 +335,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** Book ↔ author fact lives here (Topic 10). The political context behind a book (why Naoroji wrote the drain critique, why Savarkar wrote from London) has its fuller home in Topics 9 and 11; this topic keeps only the title-and-author fact plus one line of context.
+- **Exam Anchor:** Bhojpuri literature stays a UP-focus block here — do not scatter it into the socio-religious reform topic.
 - **Exam Anchor:** Anandamath (1882) is by Bankim Chandra Chattopadhyay and carries Vande Mataram. It is not the national anthem.
 - **Exam Anchor:** Neel Darpan (नील दर्पण) (1860) is Dinabandhu Mitra (मित्र)’s indigo (नील) play. Do not give it to Bankim.
 - **Exam Anchor:** Poverty and Un-British Rule in India by Dadabhai Naoroji (नौरोजी) was published in 1901. It is the classic drain-of-wealth tract.
 - **Exam Anchor:** The Rise and Growth of Economic Nationalism in India is Bipan Chandra’s later historiography, not Naoroji’s 1901 book.
 - **Exam Anchor:** Hind Swaraj (1909) is Gandhi (गांधी)’s political tract. My Experiments with Truth is his autobiography — do not swap the two.
 - **Exam Anchor:** The Discovery of India (1946) is Nehru (नेहरू)’s Ahmednagar-jail civilisation–nation book. Toward Freedom / Autobiography is a different Nehru title.
-- **Exam Anchor:** India Wins Freedom is Maulana Abul Kalam Azad’s freedom memoir. Do not confuse it with Nehru’s Discovery of India.
-- **Exam Anchor:** Gita Rahasya is Tilak (तिलक)’s Gita–politics work. Arctic Home in the Vedas (आर्कटिक होम) is also Tilak, but on a Vedic homeland — never swap.
-
-</details>
 
 ---
 

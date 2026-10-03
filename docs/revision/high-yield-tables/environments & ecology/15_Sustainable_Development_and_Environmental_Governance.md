@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 15 — Sustainable Development & Environmental Governance</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Mission LiFE (2022)** | **Agenda 21 (1992)** | Mass global citizen movement conceptualized by India to replace mindless consumption with mindful individual sustainable lifestyle actions vs Rio 1992 comprehensive non-binding intergovernmental action plan for sustainable governance | मिशन लाइफ (LiFE, व्यक्तिगत जीवनशैली) / एजेंडा 21 (सरकारी कार्ययोजना) |
 | **Natural Capital** | **Manufactured Capital** | World's natural ecological assets including geology, soil, air, water, biodiversity, and ecosystem services vs human-created physical infrastructure, machinery, factories, and financial assets | प्राकृतिक पूंजी (पारिस्थितिक संपदा) / निर्मित पूंजी (मानव-निर्मित संपत्ति) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Spine
 
@@ -161,18 +155,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Sustainable development (Brundtland 1987, Our Common Future) means meeting present needs without compromising future generations’ ability to meet theirs.
-- **Exam Anchor:** Brundtland is not Limits to Growth (Club of Rome, 1972).
-- **Exam Anchor:** SD rests on economic, social, and environmental pillars (plus institutional capacity). It is not environment-only.
-- **Exam Anchor:** Core objectives include basic needs, intra- and inter-generational equity, ecological limits, participation, and integrated planning.
-- **Exam Anchor:** Priority objectives also include poverty reduction, biodiversity conservation, and pollution control.
-- **Exam Anchor:** Indicators include HDI (UNDP (यूएनडीपी)), ecological footprint (पारिस्थितिक पदचिह्न), NITI (नीति) Aayog (नीति आयोग) SDG Index, global SDG indicator sets, and EPI.
 - **Exam Anchor:** Natural capital means renewable and non-renewable environmental resources (air, water, land, minerals, forests). Roads are not natural capital.
 - **Exam Anchor:** SDGs were adopted (अंगीकृत) in September 2015, run to 2030, and include 17 goals and 169 targets.
-
-</details>
+- **Exam Anchor:** Agenda 21 is Rio 1992, not 1995.
+- **Exam Anchor:** LiFE Mission launched in June 2022; the idea was floated at COP26 Glasgow 2021, not COP25.
+- **Exam Anchor:** Green economy (UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) 2011 line) means low-carbon, resource-efficient, socially inclusive growth.
+- **Exam Anchor:** Circular economy redesigns take-make-dispose into reduce-reuse-recycle loops, often with EPR rules. Circular sits inside, but is not identical to, green economy.
+- **Exam Anchor:** Sustainable agriculture means using land so its quality remains intact, with mixed cropping, organic manures, nitrogen-fixing plants, and pest-resistant varieties as the environment-friendly strategy set.
 
 ---
 

@@ -24,7 +24,8 @@
 
 ---
 
-## Consolidated — 35 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 35 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Regulating Act, 1773** created the **Governor-General (गवर्नर-जनरल) of Bengal** (Warren Hastings (वारेन)) and a Supreme Court at Calcutta in **1774**. It did **not** create the Governor-General of India.
 2. The **Charter Act, 1833** made the Governor-General of Bengal the **Governor-General of India**; William Bentinck (बेंटिंक) was the first holder of that title.
@@ -92,9 +93,10 @@
            1947: Indian Independence Act (Assent 18 July; Partition into India & Pakistan Dominions)
 ```
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -135,7 +137,8 @@
 | CA strength breakdown | **292 + 93 + 4 = 389** | Call total 296+93 only | 292+93+4 |
 | Calligrapher vs Drafting Chair | **Prem Behari Narain Raizada** (calligrapher) vs **Ambedkar** (Drafting Chair) | Say Ambedkar calligraphed the manuscript | रायज़ादा = सुलेखक |
 | English vs Hindi Calligrapher | **Prem Behari Narain Raizada** (English) vs **Vasant Krishan Vaidya** (Hindi) | Assume same person wrote both | अंग्रेज़ी = रायज़ादा; हिंदी = वैद्य |
----
+
+</details>
 
 ## Must-score facts — Acts, missions, CA dates
 

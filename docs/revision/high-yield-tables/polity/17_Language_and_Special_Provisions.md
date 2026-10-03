@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 17 — Language & Special Provisions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Term A | Term B | Core Difference | Hindi Terminology |
 |--------|--------|-----------------|-------------------|
@@ -31,11 +29,7 @@ hide:
 | **371I** | **371J** | Goa Assembly ≥30 vs Kalyana-Karnataka board + local quota | अनु. 371I (गोवा) / 371J (कल्याण-कर्नाटक) |
 | **370** | **35A** | Temporary J&K article (now inoperative) vs 1954 Order on permanent residents — **not** an Amd | अनु. 370 / अनु. 35A (स्थायी निवासी) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Official language (Part XVII)
 
@@ -165,18 +159,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Part XVII (Arts. 343–351) deals with official language. The Constitution never names a national language (राष्ट्रभाषा).
-- **Exam Anchor:** The Union official language (संघ राजभाषा) is Hindi in Devanagari. The international form of Indian numerals is used for official purposes of the Union.
-- **Exam Anchor:** The Constitution gave English fifteen years from 26 January 1950. The Official Languages Act 1963 (amended 1967) keeps English in use with Hindi without a sunset.
-- **Exam Anchor:** Article 344 creates an Official Language Commission at five years and again at ten years from 1950. It is not a standing body. A parliamentary committee of 30 MPs (20 Lok Sabha (लोकसभा) + 10 Rajya Sabha (राज्यसभा)) examines its report.
-- **Exam Anchor:** The 1976 Committee of Parliament on Official Language is a statutory standing body chaired by the Home Minister. It is not the Article 344 Commission (अनु. 344 आयोग).
-- **Exam Anchor:** A State may adopt one or more languages, or Hindi, as its official language under Article 345. Under Article 347, the President may direct that a language spoken by a section of the population (जनसंख्या) be officially recognised in that State.
-- **Exam Anchor:** Until Parliament otherwise provides, the authoritative texts of Acts and proceedings in the Supreme Court and High Courts are in English (Article 348).
-- **Exam Anchor:** Article 351 places a Union duty to promote Hindi as a medium of expression for India’s composite culture, drawing vocabulary from Eighth Schedule (आठवीं अनुसूची) languages.
-
-</details>
+- **Exam Anchor:** 2025 — Bhojpuri not in 8th; Nepali/Dogri/Bodo are.
+- **Exam Anchor:** 2024 — 350B ≠ per State; ≠ 9th Amd; classical = 11 (3 Oct Cabinet); J&K Assembly polls; Ladakh (लद्दाख) 6th-Schedule demand pending.
+- **Exam Anchor:** 2023 — English initially 15 years; OL = Part XVII; SC upholds 370 orders; Part X = Scheduled/Tribal Areas.
+- **Exam Anchor:** 2011 — 96th: Oriya → Odia.
+- **Exam Anchor:** 1987 — 58th / 394A Hindi authoritative text.
+- **Exam Anchor:** 1949 — Hindi Diwas 14 Sep (Munshi–Ayyangar).
+- **Exam Anchor:** 2019 — 370 inoperative; J&K + Ladakh UTs 31 Oct.
+- **Exam Anchor:** 2020 — 371J = Hyderabad-Karnataka.
 
 ---
 

@@ -11,9 +11,21 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Economy Topic 11 — Service Sector, Cooperatives, Companies and Regulatory Institutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **2025–26 (S.A.E.)** | Services ≈ **54.35%** of GVA at current prices; Industry ≈ **27.8%**; Agriculture & allied ≈ **17.9%**. | Services > Industry > Agriculture. |
+| **2025** | Consumers may bargain **below MRP**; MRP is a **ceiling** (seller cannot charge above it). | A/R both true; R explains A. |
+| **2021** | **ECOMARC** marks environment-friendly products — not “best quality” alone. | Eco-label trap. |
+| **2019** | Mandatory CSR sits in **Companies Act, 2013** (not a 2014 Act) at **≥2%** of average net profits (not 1%). | Neither statement correct. |
+| **Still current** | **Ministry of Cooperation** (2021) owns the cooperative policy desk at the Centre. | New ministry vs older MoA tag. |
+| **Still current** | **IFSCA** regulates financial services in **GIFT IFSC** (Gujarat). | Not a second RBI for all India. |
+| **Still current** | **IRDAI** HQ **Hyderabad**; **SEBI** / many finance regulators often Mumbai-linked in teaching. | HQ match traps. |
+
+---
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -34,24 +46,6 @@ hide:
 | **FSSAI** | **BIS** | Food safety law vs general standards |
 | **Cooperative** | **Company** | Member mutuality vs share capital company form |
 | **Ministry of Cooperation** | **Ministry of Agriculture alone** | Dedicated 2021 desk vs older combined tags |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2025–26 (S.A.E.)** | Services ≈ **54.35%** of GVA at current prices; Industry ≈ **27.8%**; Agriculture & allied ≈ **17.9%**. | Services > Industry > Agriculture. |
-| **2025** | Consumers may bargain **below MRP**; MRP is a **ceiling** (seller cannot charge above it). | A/R both true; R explains A. |
-| **2021** | **ECOMARC** marks environment-friendly products — not “best quality” alone. | Eco-label trap. |
-| **2019** | Mandatory CSR sits in **Companies Act, 2013** (not a 2014 Act) at **≥2%** of average net profits (not 1%). | Neither statement correct. |
-| **Still current** | **Ministry of Cooperation** (2021) owns the cooperative policy desk at the Centre. | New ministry vs older MoA tag. |
-| **Still current** | **IFSCA** regulates financial services in **GIFT IFSC** (Gujarat). | Not a second RBI for all India. |
-| **Still current** | **IRDAI** HQ **Hyderabad**; **SEBI** / many finance regulators often Mumbai-linked in teaching. | HQ match traps. |
 
 ---
 
@@ -111,18 +105,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The tertiary (services) sector covers trade, hotels, transport, communication, banking/finance, insurance, real estate, public administration & defence, education, entertainment and tourism.
 - **Exam Anchor:** Primary = agriculture, forestry, fishing, dairy, mining / quarrying; Secondary = manufacturing and related industrial processing; Tertiary = services.
 - **Exam Anchor:** Forestry and fishing, mining and quarrying are not tertiary — they are primary (mining support exploration is still primary-side in keyed NIC teaching).
 - **Exam Anchor:** Marketing, transport, communication and commerce are tertiary; weaving cloth is secondary; dairy farm is primary.
 - **Exam Anchor:** Storage of agricultural produce is a tertiary activity (with trade/transport/communication), not secondary.
-- **Exam Anchor:** In India’s structural-change story, services dominate GVA/GDP share while agriculture still employs a large workforce share.
-- **Exam Anchor:** Recent GVA share order (current prices teaching): Services > Industry > Agriculture — e.g. FY24 Survey ≈ 54.7 / 27.6 / 17.7; 2025–26 S.A.E. ≈ 54.35 / 27.76 / 17.88.
-- **Exam Anchor:** Within services GVA (2025–26 S.A.E. teaching): Financial, real estate & professional services is the largest sub-block (~27% of total GVA), ahead of trade–hotels–transport–communication (~14%) and public administration & other services (~13%).
-
-</details>
+- **Exam Anchor:** Construction is part of industry in national accounts — not a services-sector component in GVA share stems.
+- **Exam Anchor:** IT / ITeS (software, BPO, digital services) is a flagship tradable services cluster.
+- **Exam Anchor:** Tourism and hospitality convert natural / cultural assets into services income and jobs.
+- **Exam Anchor:** Transport and logistics (road, rail, air, ports, warehousing) enable goods and people movement — Gati Shakti links Topic 7.
 
 ---
 

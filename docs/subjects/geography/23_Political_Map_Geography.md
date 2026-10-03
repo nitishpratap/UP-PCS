@@ -48,7 +48,8 @@ D. 8 degrees 4' N to 37 degrees 6' N
 ---
 
 
-## Consolidated — 40 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 40 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. UNCLOS: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf may extend to **350 nm**, but that does **not** push EEZ water beyond 200.
 2. **Innocent passage** applies in the territorial sea. **Transit passage** applies in international straits.
@@ -85,9 +86,10 @@ D. 8 degrees 4' N to 37 degrees 6' N
 31. India’s land neighbours are seven; maritime neighbours are Sri Lanka and Maldives. Longest land border = **Bangladesh**; shortest = **Afghanistan** (via Wakhan / PoK teaching).
 32. Sobriquet diet extras: **Venice** = canals; **Osaka** = Manchester of the East; **Chicago** = City of Smoke; **Pamir** = Roof of the World; **Baikal** = Pearl of Siberia.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -142,7 +144,7 @@ D. 8 degrees 4' N to 37 degrees 6' N
 | Land of Promise | **Mindanao** | Java / Cuba | वादा द्वीप |
 | Ninety East Ridge | **Indian Ocean** | Pacific / Atlantic | नाइंटी ईस्ट रिज |
 
----
+</details>
 
 ## Must-score facts — UNCLOS, borders, straits
 

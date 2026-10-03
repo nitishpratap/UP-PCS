@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 8 — Peasant, Tribal (आदिवासी) & Labour Movements</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -32,11 +30,7 @@ hide:
 | Tebhaga 1946–47 | Telangana 1946–51 | Bengal sharecrop share-demand vs Hyderabad armed anti-*jagirdar* struggle | तेभागा / तेलंगाना |
 | Eka 1921–22 | Awadh Kisan Sabha ~1920 | Madari Pasi's rent-receipt oath vs Baba Ramchandra's broader mobilisation | एका / अवध |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Peasant / tribal revolt (जनजातीय) fact table
 
@@ -237,18 +231,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Three streams with distinct targets: peasant (rent, indigo, sharecrop), tribal (land–forest–diku), and labour (unions and wages). Method can overlap; the grievance target does not.
-- **Exam Anchor:** The Sanyasi–Fakir rising (~1763–1800) [संन्यासी-फ़क़ीर विद्रोह] in the Bengal–Bihar belt is the early chronology opener. Chronology order often starts here before Indigo and Pabna.
+- **Exam Anchor:** AITUC / union founding facts = home here (Topic 8). Workers and Peasants Party, Congress Socialist Party, and deeper left-labour party politics = home in Topic 12.
+- **Exam Anchor:** Telangana = home here as a peasant-stream movement. Its constitutional/integration angle (Police Action, Hyderabad's accession) is a Topic 15 (Post-Independence) cross-reference, not repeated here.
+- **Exam Anchor:** Champaran / Kheda / Bardoli satyagraha mechanics = home here. Gandhi's broader constructive programme = home in Topic 13.
 - **Exam Anchor:** Paika Rebellion (1817) [पाइक विद्रोह] in Odisha was led by Jagabandhu Bidyadhar. Cause: loss of paika privileges under Company (कंपनी) land-revenue changes. Course/Result: armed rising suppressed; it remains a major pre-1857 tribal/peasant fact.
 - **Exam Anchor:** Ahom rising is ~1828 under Gomdhar Konwar — not 1815 (a repeated false year). Khasi (खासी) Revolt (1829) was led by Tirut Singh.
 - **Exam Anchor:** Kol Rebellion (1831–32) [कोल विद्रोह] in Chotanagpur (छोटानागपुर) involved leaders such as Buddhu Bhagat. Santhal Hul (हूल) (1855–56) [संथाल हूल / विद्रोह] was led by Sidhu and Kanhu in the Rajmahal / Santhal Parganas belt.
 - **Exam Anchor:** Indigo Revolt (1859–60) [नील विद्रोह]. Cause — European planters' forced indigo and dadan (दादनी प्रथा - पेशगी). Course — Biswas brothers in Nadia and wider Bengal resistance. Result — Indigo Commission 1860 and a check on planter power.
 - **Exam Anchor:** Deccan Riots (1875) [दक्कन दंगे]. Cause — moneylender (sahukar / साहूकार) grip in Poona–Ahmednagar. Course — crowds attacked creditor power. Result — Deccan Agriculturists' Relief Act, 1879.
-- **Exam Anchor:** Pabna agrarian leagues (1873–85) fought zamindar (ज़मींदार) rent-hikes in Bengal — not the same grievance as indigo planters in 1859–60.
-
-</details>
 
 ---
 

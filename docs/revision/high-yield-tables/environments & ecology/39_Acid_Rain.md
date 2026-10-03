@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 39 — Acid Rain (अम्ल वर्षा)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -23,11 +21,7 @@ hide:
 | **Marble Cancer** | **Eutrophication** | Yellowing and pitting of calcium carbonate monuments (Taj Mahal) reacting with sulfuric acid to form soluble gypsum vs excess nutrient loading in water bodies causing algal blooms | संगमरमर कैंसर (ताजमहल क्षरण) / सुपोषण (शैवाल प्रस्फुटन) |
 | **Gothenburg Protocol (1999)** | **Montreal Protocol (1987)** | UNECE protocol to abate acidification, eutrophication, and ground-level ozone (SO₂, NOx, VOCs, NH₃) vs UNEP protocol phasing out ozone-depleting chlorofluorocarbons | गोथेनबर्ग प्रोटोकॉल (अम्लीकरण) / मॉन्ट्रियल प्रोटोकॉल (ओजोन) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Locks
 
@@ -121,18 +115,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Acid rain means acidic deposition with pH below 5.6.
-- **Exam Anchor:** Normal rain (सामान्य वर्षा) is already slightly acidic near pH 5.6 because CO₂ forms weak carbonic acid. It is not pH 7.
 - **Exam Anchor:** Wet deposition arrives with rain, snow, or fog. Dry deposition settles as acidic gases or particles without rain.
-- **Exam Anchor:** The main strong acid pathway is SO₂ → H₂SO₄. NOx → HNO₃ is the other major path.
 - **Exam Anchor:** CO₂ → H₂CO₃ sets the weak baseline. Carbon dioxide alone is not the main culprit of severe acid rain.
-- **Exam Anchor:** On the pH scale, acidic is below 7, basic is above 7, and neutral is 7.
-- **Exam Anchor:** Reversed statements that call normal rain alkaline or acid rain alkaline are both false.
-- **Exam Anchor:** Lake waters below about pH 5 can kill fish. Acid soils release toxic Al³⁺.
-
-</details>
+- **Exam Anchor:** Lichens die in high SO₂ and act as pollution bio-indicators — they indicate pollution but do not thrive in polluted air.
+- **Exam Anchor:** Mathura (मथुरा) refinery is a classic SO₂ source in the Taj Trapezium narrative.
+- **Exam Anchor:** Acid rain means precipitation or atmospheric deposition with pH below 5.6, mainly from sulphuric acid (H₂SO₄) and nitric acid (HNO₃) (नाइट्रिक अम्ल).
+- **Exam Anchor:** Normal unpolluted rain is already slightly acidic (~pH 5.6) because CO₂ forms weak carbonic acid (H₂CO₃) — it is not pH 7.
+- **Exam Anchor:** SO₂ from burning sulphur-rich coal/oil in thermal plants, refineries, smelters, brick kilns, and generators forms H₂SO₄.
 
 ---
 

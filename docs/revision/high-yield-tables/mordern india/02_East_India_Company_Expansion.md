@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 2 — East India Company (कंपनी) Expansion</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -32,11 +30,7 @@ hide:
 | Masterly Inactivity | Forward Policy | John Lawrence's Afghan caution vs Lytton's aggression. | मास्टरी इनएक्टिविटी / फॉरवर्ड |
 | Bedara 1759 | Wandiwash 1760 | English crushed the Dutch vs English crushed the French. | बेदारा / वाण्डीवाश |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Treaty ↔ Year
 
@@ -326,18 +320,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Company rule (कंपनी शासन) phases: Factories → Plassey puppet (1757) → Diwani (दीवानी) (1765) → Dual Govt ends 1772 → Ring Fence (रिंग फेंस) → Subsidiary Alliance (1798) → Paramountcy → Lapse (1848).
-- **Exam Anchor:** Plassey (23 June 1757) — Cause: Farman misuse, dastak abuse, and Siraj–Company friction after Calcutta crisis. Course: Clive’s conspiracy with Mir Jafar, Jagat Seth, Omichand. Result: Mir Jafar puppet Nawab — no Diwani yet.
-- **Exam Anchor:** Buxar (22 Oct 1764) — Cause: Mir Qasim’s break with the Company after Plassey puppetry. Course: Hector Munro defeats Mir Qasim + Shuja-ud-Daula (Awadh) + Shah Alam II. Result: real military supremacy; path to Diwani.
-- **Exam Anchor:** Treaty of Allahabad (Aug 1765): Clive negotiated; Company got Diwani of Bengal, Bihar, and Orissa.
-- **Exam Anchor:** Dual Government (1765–72): Clive’s design — Company took Diwani; Nawab kept Nizamat in name. Ended by Warren Hastings (1772).
-- **Exam Anchor:** Ring Fence vs Subsidiary Alliance: Hastings’ informal buffer (Awadh) vs Wellesley’s formal troops + subsidy + Resident from 1798.
-- **Exam Anchor:** Subsidiary Alliance sequence: Hyderabad (1798) → Mysore (1799) → Tanjore (1799) → Awadh (1801) → Peshwa via Bassein (1802).
-- **Exam Anchor:** Doctrine of Lapse sequence (Dalhousie): Satara (1848) → Jaitpur/Sambalpur (1849) → Baghat (1850) → Udaipur (1852) → Jhansi (1853) → Nagpur (1854).
-
-</details>
+- **Exam Anchor:** Subsidiary Alliance: Hyderabad (1798) → Mysore (1799) → Tanjore (1799) → Awadh (1801) → Peshwa (1802).
+- **Exam Anchor:** Doctrine of Lapse (विलुप्ति सिद्धांत): Satara (1848) → Jaitpur/Sambalpur (1849) → Baghat (1850) → Udaipur (1852) → Jhansi (1853) → Nagpur (1854).
+- **Exam Anchor:** 1st Maratha Treaties: Surat (1775) → Purandhar (1776) → Wadgaon (1779) → Salbai (1782).
+- **Exam Anchor:** Mid-18th Century Battles: Ambur (1749) → Plassey (1757) → Bedara (1759) → Wandiwash (1760) → Panipat III (1761) → Buxar (1764).
+- **Exam Anchor:** First Anglo-Mysore War
+- **Exam Anchor:** Second Anglo-French War
+- **Exam Anchor:** First Anglo-Sikh War
+- **Exam Anchor:** First Anglo-Afghan War
 
 ---
 

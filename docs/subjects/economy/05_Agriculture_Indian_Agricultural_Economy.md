@@ -36,7 +36,8 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Agriculture and allied sectors contribute approximately **17%–18% of India's Gross Value Added (GVA)** at current prices, but engage **~45%–47% of the nation's total workforce**.
 2. According to the **Agricultural Census of India** (conducted quinquennially since 1970–71), agricultural holdings are classified into 5 categories: **Marginal (< 1.00 ha)**, **Small (1.00–2.00 ha)**, **Semi-Medium (2.00–4.00 ha)**, **Medium (4.00–10.00 ha)**, and **Large (≥ 10.00 ha)**.
@@ -89,8 +90,10 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
 49. In the **WTO Agreement on Agriculture (AoA)**, domestic agricultural subsidies are categorized into three color-coded boxes: **Green Box** (non-trade distorting, allowed without limit, e.g. R&D, pest control, environment), **Blue Box** (direct payments under production-limiting programs, allowed), and **Amber Box** (trade-distorting market price support and input subsidies, subject to reduction commitments).
 50. Under WTO Amber Box rules, developing countries like India are entitled to a **de-minimis limit of 10%** of the total value of agricultural production; the **Peace Clause** agreed at the **Bali Ministerial Conference (2013)** protects India's food procurement programs under NFSA against legal challenges by developed nations even if the 10% ceiling is breached.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair (A vs B) | Correct Feature / Institution | Trap to avoid | Hindi keyword |
 | :--- | :--- | :--- | :--- |
@@ -105,7 +108,7 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
 | **PMKSY Per Drop More Crop vs Har Khet Ko Pani** | **Per Drop More Crop:** Micro-irrigation (Drip & Sprinkler).<br>**Har Khet Ko Pani:** Creating new water sources, repair of water bodies. | Do not confuse micro-irrigation with surface water creation. | प्रति बूंद अधिक फसल (सूक्ष्म सिंचाई) |
 | **Sikkim vs Lakshadweep Organic** | **Sikkim:** First 100% Organic **State** in India/World (2016).<br>**Lakshadweep:** First 100% Organic **Union Territory** (2020). | Watch the State vs Union Territory distinction in questions. | सिक्किम (राज्य) / लक्षद्वीप (UT) |
 
----
+</details>
 
 ## Must-score facts — Crops, Seasons, Inputs, and Committees
 

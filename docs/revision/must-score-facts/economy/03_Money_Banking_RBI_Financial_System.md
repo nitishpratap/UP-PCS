@@ -11,88 +11,62 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Economy Topic 3 — Money, Banking, RBI and Financial System</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Money** is anything generally accepted as a medium of exchange, a unit of account, a store of value and a standard of deferred payment.
 2. **Narrow money (M1)** in Indian teaching centres on currency with the public + demand deposits + other deposits with RBI (classic list).
 3. **Broad money (M3)** adds time deposits of banks to the narrow base — the most-watched aggregate in school keys.
 4. **Commercial banks** accept deposits, give loans and create credit within reserve rules.
-5. India’s banking map: **public sector banks**, private banks, foreign banks, **cooperative banks**, **Regional Rural Banks**, **Small Finance Banks**, **Payments Banks**, and Local Area Banks in older lists.
-6. **Bank nationalisation**: **14** major banks on **19 July 1969**; **6** more in **1980** — directed credit, branch expansion and priority lending followed.
-7. **Regional Rural Banks (1975)** combine local feel with commercial-bank discipline for small / marginal farmers, artisans and rural labour.
-8. **NABARD (12 July 1982)** is the apex **refinance and development** bank for agriculture and rural credit — not the day-to-day retail lender of first resort in the usual key.
-9. Rural-credit chronology: **RRBs (1975) → NABARD (1982) → SHG–Bank Linkage (1992) → Kisan Credit Card (1998)**.
-10. **Lead Bank Scheme (1969)** assigns one bank lead responsibility for a **district** (area approach after Gadgil / Nariman teaching).
-11. **Priority Sector Lending (PSL)** steers bank credit to agriculture, MSME, education, housing, weaker sections and related notified categories.
-12. **NPA (Non-Performing Asset)**: a loan where interest / principal stays overdue beyond the prescribed period (90-day teaching for term loans). Gross vs net NPA and provisioning are supervision keys.
-13. **Payments Banks** take deposits (subject to limits), provide payments / remittance services and issue debit cards / prepaid instruments — they **cannot** give ordinary loans or issue credit cards in the classic licence design.
-14. **Small Finance Banks** are full banks with a mandate to lend mainly to unserved / underserved segments (SFB licence differs from payments banks).
-15. **Digital banking / UPI**: Unified Payments Interface enables real-time account-to-account payments on phones; FinTech rides on bank rails, NPCI systems and RBI authorisations.
-16. **PMJDY (2014)** and business-correspondent / BC models are modern inclusion instruments after the nationalisation–RRB–Lead Bank phase.
-17. **RBI** was set up on **1 April 1935** under the **RBI Act, 1934**, and nationalised on **1 January 1949**.
-18. Core RBI roles: **monetary authority**, **issuer of banknotes**, **banker and debt manager to government**, **bankers’ bank / lender of last resort**, **regulator / supervisor of banks**, **manager of foreign exchange** (FEMA lane).
-19. **Monetary Policy Committee (MPC)** — six members (three from RBI including the Governor as Chair; three external, appointed by the Central Government) — decides the **policy repo** and related policy stance.
-20. Flexible **inflation targeting**: headline CPI **4%** with a tolerance band of **±2%** (target notified by government in consultation with RBI).
-21. **Repo rate**: rate at which RBI lends short-term funds to banks against eligible collateral (injects liquidity when used).
-22. **Reverse repo / SDF**: rates at which RBI absorbs liquidity from banks; **SDF (2022)** does so without collateral securities.
-23. **CRR (Cash Reserve Ratio)**: share of NDTL kept as cash balance with RBI — earns **no** interest in the post-2007 teaching.
-24. **SLR (Statutory Liquidity Ratio)**: share of NDTL held in approved liquid assets (G-Secs, cash, gold teaching) by the bank itself.
-25. **MSF (Marginal Standing Facility)**: overnight borrowing window against G-Secs, including dipping into SLR within limits — a safety valve above the repo.
-26. **Open Market Operations (OMO)**: RBI buys / sells government securities to inject / absorb durable liquidity.
-27. **Financial inclusion** means affordable access to useful formal financial services for all, especially the underbanked.
-28. **Microfinance / SHG–bank linkage** brings group savings and credit into formal banking; NABARD pioneered the large SHG programme.
-29. **Basel norms** set capital adequacy and risk-management standards for banks under RBI supervision.
-30. **SBI** was created by nationalising the Imperial Bank (1955 teaching).
-31. Major bank nationalisation waves: **1969** (14 banks) and **1980** (6 banks).
-32. **RRBs** began in **1975** (Prathama Bank teaching) for rural credit reach.
-33. **NABARD (12 July 1982)** refinances rural credit on the Sivaraman Committee line.
-34. **SHG–Bank Linkage** (NABARD, 1992 teaching) scaled group-based microcredit.
-35. **KCC (1998)** followed the R.V. Gupta Committee for flexible farm credit.
-36. **SHG–Bank Linkage** was pioneered by **NABARD** (pilot **1992–93**), not by SBI alone; RRBs and Scheduled Commercial Banks are key financing partners.
-37. **Bhandari Committee (1994)** recommended restructuring of **Regional Rural Banks**.
-38. **Narasimham Committee** (CFS **1991**; Banking Sector Reforms **1998**) drove financial / banking structure reforms; it suggested reducing **SLR and CRR**.
-39. **Raghuram Rajan Committee (2007–08)** proposed the next generation of **financial sector reforms** (Planning Commission).
-40. **Financial Stability and Development Council (FSDC, Dec 2010)** is chaired by the **Union Finance Minister** — not an organ of NITI Aayog; it monitors macroprudential supervision and inter-regulator coordination.
-41. **Swabhimaan (10 Feb 2011)** is a financial-inclusion campaign to take basic banking to unbanked villages (population >2000 teaching).
-42. **Kisan Credit Card (1998)** covers both **consumption and investment** credit for farm households; implemented by commercial banks, RRBs, SFBs and cooperatives.
-43. **Banking Ombudsman** is appointed by **RBI**; service is free; NRIs with Indian accounts may complain; Ombudsman orders are **not** final and binding without further remedy.
-44. Credit rating agencies in India are regulated by **SEBI** (not RBI). **CRISIL (1987) → ICRA (1991) → CARE (1993)** chronology.
-45. **‘Plastic money’ / ‘Smart money’** teaching tags point to **credit cards** (and related card instruments).
-46. **UPI** = **Unified Payments Interface** (NPCI); PIN = **Personal Identification Number**.
-47. **Sovereign Gold Bond** and **Gold Monetisation Scheme (2015)** aim to mobilise idle household gold and cut gold-import dependence — **not** primarily to promote FDI in jewellery.
-48. **₹1 note / coin** sits with the Government of India in teaching; other banknotes are issued by RBI.
-49. **M0 (Reserve Money)** = currency in circulation + bankers’ deposits with RBI + other deposits with RBI (teaching identity).
-50. **Fiat money** has value by legal tender / trust, not by intrinsic metal content. **Commodity money** and **representative money** are older teaching types.
-
-</details>
+5. **Bank nationalisation**: **14** major banks on **19 July 1969**; **6** more in **1980** — directed credit, branch expansion and priority lending followed.
+6. **Regional Rural Banks (1975)** combine local feel with commercial-bank discipline for small / marginal farmers, artisans and rural labour.
+7. **NABARD (12 July 1982)** is the apex **refinance and development** bank for agriculture and rural credit — not the day-to-day retail lender of first resort in the usual key.
+8. **Lead Bank Scheme (1969)** assigns one bank lead responsibility for a **district** (area approach after Gadgil / Nariman teaching).
+9. **Priority Sector Lending (PSL)** steers bank credit to agriculture, MSME, education, housing, weaker sections and related notified categories.
+10. **NPA (Non-Performing Asset)**: a loan where interest / principal stays overdue beyond the prescribed period (90-day teaching for term loans). Gross vs net NPA and provisioning are supervision keys.
+11. **Payments Banks** take deposits (subject to limits), provide payments / remittance services and issue debit cards / prepaid instruments — they **cannot** give ordinary loans or issue credit cards in the classic licence design.
+12. **Small Finance Banks** are full banks with a mandate to lend mainly to unserved / underserved segments (SFB licence differs from payments banks).
+13. **Digital banking / UPI**: Unified Payments Interface enables real-time account-to-account payments on phones; FinTech rides on bank rails, NPCI systems and RBI authorisations.
+14. **PMJDY (2014)** and business-correspondent / BC models are modern inclusion instruments after the nationalisation–RRB–Lead Bank phase.
+15. **RBI** was set up on **1 April 1935** under the **RBI Act, 1934**, and nationalised on **1 January 1949**.
+16. **Monetary Policy Committee (MPC)** — six members (three from RBI including the Governor as Chair; three external, appointed by the Central Government) — decides the **policy repo** and related policy stance.
+17. **Repo rate**: rate at which RBI lends short-term funds to banks against eligible collateral (injects liquidity when used).
+18. **Reverse repo / SDF**: rates at which RBI absorbs liquidity from banks; **SDF (2022)** does so without collateral securities.
+19. **CRR (Cash Reserve Ratio)**: share of NDTL kept as cash balance with RBI — earns **no** interest in the post-2007 teaching.
+20. **SLR (Statutory Liquidity Ratio)**: share of NDTL held in approved liquid assets (G-Secs, cash, gold teaching) by the bank itself.
+21. **MSF (Marginal Standing Facility)**: overnight borrowing window against G-Secs, including dipping into SLR within limits — a safety valve above the repo.
+22. **Open Market Operations (OMO)**: RBI buys / sells government securities to inject / absorb durable liquidity.
+23. **Financial inclusion** means affordable access to useful formal financial services for all, especially the underbanked.
+24. **Microfinance / SHG–bank linkage** brings group savings and credit into formal banking; NABARD pioneered the large SHG programme.
+25. **Basel norms** set capital adequacy and risk-management standards for banks under RBI supervision.
+26. **SBI** was created by nationalising the Imperial Bank (1955 teaching).
+27. **RRBs** began in **1975** (Prathama Bank teaching) for rural credit reach.
+28. **NABARD (12 July 1982)** refinances rural credit on the Sivaraman Committee line.
+29. **SHG–Bank Linkage** (NABARD, 1992 teaching) scaled group-based microcredit.
+30. **KCC (1998)** followed the R.V. Gupta Committee for flexible farm credit.
+31. **SHG–Bank Linkage** was pioneered by **NABARD** (pilot **1992–93**), not by SBI alone; RRBs and Scheduled Commercial Banks are key financing partners.
+32. **Bhandari Committee (1994)** recommended restructuring of **Regional Rural Banks**.
+33. **Narasimham Committee** (CFS **1991**; Banking Sector Reforms **1998**) drove financial / banking structure reforms; it suggested reducing **SLR and CRR**.
+34. **Raghuram Rajan Committee (2007–08)** proposed the next generation of **financial sector reforms** (Planning Commission).
+35. **Financial Stability and Development Council (FSDC, Dec 2010)** is chaired by the **Union Finance Minister** — not an organ of NITI Aayog; it monitors macroprudential supervision and inter-regulator coordination.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **M1** | **M3** | Narrow vs broad (adds time deposits) |
-| **Repo** | **Reverse repo / SDF** | RBI lends to banks vs absorbs liquidity |
-| **CRR** | **SLR** | Cash with RBI vs liquid assets with bank |
-| **Bank rate** | **Repo rate** | Older / penal signal vs LAF overnight policy rate |
-| **Payments Bank** | **Small Finance Bank** | No ordinary loans vs full bank with inclusion mandate |
-| **NABARD** | **RRB / commercial bank** | Apex refinance vs retail rural lending |
-| **RBI issues notes** | **Govt ₹1 note** | RBI banknotes vs government ₹1 |
-| **MPC Chair = Governor** | **Chair = Finance Minister** | Statutory MPC design |
-| **Lead Bank Scheme** | **Loan Banking Scheme** | Official LBS expansion |
-| **Nationalisation 1969** | **1980 second round** | 14 banks vs 6 more |
-| **Appreciation** | **Depreciation** | Currency rises vs falls vs another |
-| **NPA** | **PSL** | Bad loan classification vs mandated lending sectors |
-| **Narasimham** | **Raghuram Rajan FSR** | 1991/98 banking reforms vs 2008 next-gen financial reforms |
-| **FSDC Chair = FM** | **NITI organ** | Finance Minister apex council — not NITI |
-| **CRA regulator = SEBI** | **RBI regulates CRAs** | SEBI (Credit Rating Agencies) Regulations |
-| **SHG pioneer = NABARD** | **SHG pioneer = SBI alone** | NABARD designed SHG–BLP; banks finance |
-| **Plastic / smart money** | **Paper currency** | Credit/debit cards vs notes |
-| **KCC consumption + investment** | **Only investment credit** | Both farm household needs covered |
+## ⚡ Confused Pairs & Common Examiner Traps
 
-</details>
+* RBI issues notes (not tax, census, foreign policy); ₹1 is the government exception.
+* MPC = **6** members, **Governor** chairs, CPI **4% ± 2%** — not Finance Minister as Chair.
+* Repo injects; reverse repo / SDF absorbs; CRR = cash with RBI (no interest); SLR = liquid assets with bank.
+* Payments Banks ≠ loan banks; Small Finance Banks can lend.
+* Inclusion: nationalisation + RRBs + village adoption; LBS = **Lead Banking Scheme** (not Loan Banking…).
+* Rural chronology: **RRB 1975 → NABARD 1982 → SHG 1992 → KCC 1998**.
+* SHG pioneer = **NABARD**; group shares repayment burden; RRBs + SCBs finance.
+* Narasimham = banking reforms (cut SLR/CRR); Bhandari = RRB restructuring; Rajan 2008 = next-gen FSR.
+* FSDC Chair = **Finance Minister** — not NITI; CRA regulator = **SEBI**.
+* Plastic / smart money ≈ **credit card**; UPI = Unified Payments Interface.
+* KCC = consumption **and** investment credit; Ombudsman orders are **not** final without further remedy.
+* NABARD = apex refinance — not “RBI is the agri refinance apex” in the UKPCS key.
+* Appreciation ≠ depreciation; exchange-rate regimes deepen in Topic 4/9 as needed.
 
 
 ---

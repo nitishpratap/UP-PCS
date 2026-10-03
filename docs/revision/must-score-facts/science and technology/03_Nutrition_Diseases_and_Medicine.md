@@ -11,66 +11,65 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 3 — Nutrition, Vitamins, Diseases and Medicine</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. By mass, **Oxygen** is the most abundant element in the human body (~65%), followed by Carbon (~18.5%), Hydrogen (~9.5%), and Nitrogen (~3.2%); by total number of atoms, **Hydrogen** is the most abundant.
-2. **Calcium** is the most abundant mineral element in the human body (~1.5% of body weight; 99% in bones and teeth as hydroxyapatite crystals); **Iron** is the most abundant essential micromineral (3–4 grams, primarily inside haemoglobin).
-3. The adult human brain accounts for only **~2% of total body weight**, yet consumes **~20% of total resting oxygen and glucose**.
-4. Energy values of macronutrients: **Carbohydrates yield $\mathbf{\sim 4.0\text{ kcal/g}}$**; **Proteins yield $\mathbf{\sim 4.0\text{ kcal/g}}$**; **Fats / Lipids yield $\mathbf{\sim 9.0\text{ kcal/g}}$** (highest physiological fuel value).
-5. **Glucose** (dextrose / grape sugar) and **Fructose** (fruit sugar / levulose) are functional isomers with identical empirical formula ($C_6H_{12}O_6$); **Fructose is the sweetest naturally occurring sugar**.
-6. **Sucrose** (table / cane sugar) is a non-reducing disaccharide composed of **Glucose + Fructose**; **Lactose** (milk sugar) is **Glucose + Galactose**; **Maltose** (malt sugar) is **Glucose + Glucose**.
-7. **Starch** (plant storage carbohydrate) and **Glycogen** ("animal starch", stored in liver and skeletal muscles) are polymers of $\alpha$-D-glucose digested by human amylases; **Cellulose** is a structural polymer of $\beta$-D-glucose that humans **cannot digest** due to the total absence of the enzyme cellulase (acts as roughage / dietary fibre).
-8. Proteins are polymers of amino acids linked by peptide bonds; of the 20 standard amino acids, **9 are essential amino acids** in adults (must be supplied in diet: Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine).
-9. **Kwashiorkor** is caused by severe **protein deficiency with adequate calorie intake**; characterized by pitting **oedema**, swollen "pot belly", and "flaky-paint" dermatosis; **Marasmus** is caused by combined **protein-energy malnutrition (PEM)** in infants $<1\text{ year}$; characterized by extreme emaciation, dry wrinkled skin ("little old man" face), and **absence of oedema**.
-10. **Fat-Soluble Vitamins**: **A, D, E, K**; dissolve in organic solvents and fats, stored in the liver and adipose tissues; excessive intake causes toxic **Hypervitaminosis**.
-11. **Water-Soluble Vitamins**: **B-Complex group and Vitamin C**; not stored in large amounts in the human body (readily excreted in urine, require daily dietary intake); **Vitamin B12 is the unique exception** (stored in the human liver for 3–5 years).
-12. **Vitamin A (Retinol)**: Essential for rhodopsin synthesis in retinal rods; deficiency causes **Nyctalopia (Night Blindness)**, **Xerophthalmia** (dry, keratinized cornea), and **Bitot's spots**; rich sources: Cod-liver oil, liver, egg yolk, and plant precursors like **$\beta$-Carotene** in carrots, mangoes, and papayas.
-13. **Vitamin D (Calciferol / Sunshine Vitamin)**: Synthesised in human skin upon exposure to solar UV-B radiation from 7-dehydrocholesterol; acts as a pro-hormone promoting intestinal absorption of calcium and phosphorus; deficiency causes **Rickets** in children (bowed legs, pigeon chest) and **Osteomalacia** in adults (soft, fragile bones).
-14. **Vitamin E (Tocopherol / Anti-Sterility Vitamin)**: Powerful lipid-soluble biological **antioxidant** protecting cell membranes from free radical oxidation; richest natural dietary source is **Wheat-germ oil**, almonds, and sunflower oil.
-15. **Vitamin K (Phylloquinone / Naphthoquinone)**: Required in the liver as a cofactor for the post-translational carboxylation of clotting factors **II (Prothrombin), VII, IX, and X**; deficiency causes prolonged bleeding time and haemorrhage; synthesized by symbiotic colon bacteria (*E. coli*); rich plant source: **Alfalfa** and dark green leafy vegetables.
-16. **Vitamin C (Ascorbic Acid / Anti-Scurvy Vitamin)**: Required for the enzymatic hydroxylation of proline and lysine during **Collagen synthesis**; deficiency causes **Scurvy** (bleeding and spongy gums, loose teeth, poor wound healing, petechial haemorrhages); destroyed by prolonged boiling and cooking heat; richest sources: **Amla (Indian gooseberry)**, guava, citrus fruits (lemon, orange); **absent in milk, meat, and eggs**.
-17. **Vitamin B1 (Thiamine)**: Active coenzyme TPP (Thiamine Pyrophosphate) required in carbohydrate metabolism; deficiency causes **Beriberi** (Dry Beriberi = peripheral neuropathy; Wet Beriberi = congestive heart failure and oedema); **eating polished / milled parboiled rice strips the thiamine-rich outer aleurone layer**, precipitating beriberi.
-18. **Vitamin B2 (Riboflavin)**: Precursor of coenzymes FMN and FAD; imparts characteristic yellow colour to cow milk and whey; deficiency causes **Ariboflavinosis**: **Cheilosis** (painful cracks at the corners of the mouth), **Glossitis** (magenta-red inflamed tongue), and keratitis.
-19. **Vitamin B3 (Niacin / Nicotinic Acid)**: Precursor of NAD and NADP; synthesised in small quantities from the essential amino acid **Tryptophan**; deficiency causes **Pellagra**, classically remembered by the **"4 Ds"**: **Dermatitis** (Casal's necklace pattern on sun-exposed skin), **Diarrhoea**, **Dementia**, and **Death**; prevalent in populations relying exclusively on maize / corn diets (maize is deficient in tryptophan and contains bound niacytin).
-20. **Vitamin B5 (Pantothenic Acid)**: Essential constituent of **Coenzyme-A (CoA)**; deficiency causes "Burning Feet Syndrome" (*Gopalan's syndrome*).
-21. **Vitamin B6 (Pyridoxine)**: Coenzyme for amino acid transamination and decarboxylation; required for synthesis of haemoglobin, serotonin, and GABA; deficiency causes peripheral neuropathy, microcytic anaemia, and convulsions in infants; *Lucent note*: **Vitamin B6 helps in remembering dreams**.
-22. **Vitamin B7 (Biotin / Vitamin H)**: Sulfur-containing coenzyme for carboxylation reactions; raw egg white contains the protein **Avidin**, which binds biotin tightly and blocks absorption, causing induced biotin deficiency.
-23. **Vitamin B9 (Folic Acid / Folate)**: Required for DNA synthesis and purine/thymidylate production; deficiency causes **Megaloblastic Anaemia**; maternal folate deficiency in periconceptional period causes fatal **Neural Tube Defects (Spina Bifida and Anencephaly)** in newborns.
-24. **Vitamin B12 (Cyanocobalamin)**: The only vitamin containing a metallic trace element (**Cobalt**); absent in ordinary plant foods; synthesized exclusively by microorganisms; absorbs in the terminal ileum mediated by **Castle's Intrinsic Factor** secreted by gastric parietal cells; deficiency causes **Pernicious Anaemia** (megaloblastic anaemia + irreversible subacute combined degeneration of the spinal cord).
-25. Mineral toxicity and environmental water syndromes:
-26. **Bacterial Diseases**:
-27. **Viral Diseases**:
-28. **Protozoan Diseases**:
-29. **Cancer Biology & Classification**:
-30. **Diabetes Mellitus vs Diabetes Insipidus**:
-31. **Vaccine Classification & Modern Immunology**:
-32. **Clinical Diagnostic Tests & Instruments Drill**:
+1. **Calcium** is the most abundant mineral element in the human body (~1.5% of body weight; 99% in bones and teeth as hydroxyapatite crystals); **Iron** is the most abundant essential micromineral (3–4 grams, primarily inside haemoglobin).
+2. **Glucose** (dextrose / grape sugar) and **Fructose** (fruit sugar / levulose) are functional isomers with identical empirical formula ($C_6H_{12}O_6$); **Fructose is the sweetest naturally occurring sugar**.
+3. **Sucrose** (table / cane sugar) is a non-reducing disaccharide composed of **Glucose + Fructose**; **Lactose** (milk sugar) is **Glucose + Galactose**; **Maltose** (malt sugar) is **Glucose + Glucose**.
+4. **Starch** (plant storage carbohydrate) and **Glycogen** ("animal starch", stored in liver and skeletal muscles) are polymers of $\alpha$-D-glucose digested by human amylases; **Cellulose** is a structural polymer of $\beta$-D-glucose that humans **cannot digest** due to the total absence of the enzyme cellulase (acts as roughage / dietary fibre).
+5. **Kwashiorkor** is caused by severe **protein deficiency with adequate calorie intake**; characterized by pitting **oedema**, swollen "pot belly", and "flaky-paint" dermatosis; **Marasmus** is caused by combined **protein-energy malnutrition (PEM)** in infants $<1\text{ year}$; characterized by extreme emaciation, dry wrinkled skin ("little old man" face), and **absence of oedema**.
+6. **Fat-Soluble Vitamins**: **A, D, E, K**; dissolve in organic solvents and fats, stored in the liver and adipose tissues; excessive intake causes toxic **Hypervitaminosis**.
+7. **Water-Soluble Vitamins**: **B-Complex group and Vitamin C**; not stored in large amounts in the human body (readily excreted in urine, require daily dietary intake); **Vitamin B12 is the unique exception** (stored in the human liver for 3–5 years).
+8. **Vitamin A (Retinol)**: Essential for rhodopsin synthesis in retinal rods; deficiency causes **Nyctalopia (Night Blindness)**, **Xerophthalmia** (dry, keratinized cornea), and **Bitot's spots**; rich sources: Cod-liver oil, liver, egg yolk, and plant precursors like **$\beta$-Carotene** in carrots, mangoes, and papayas.
+9. **Vitamin D (Calciferol / Sunshine Vitamin)**: Synthesised in human skin upon exposure to solar UV-B radiation from 7-dehydrocholesterol; acts as a pro-hormone promoting intestinal absorption of calcium and phosphorus; deficiency causes **Rickets** in children (bowed legs, pigeon chest) and **Osteomalacia** in adults (soft, fragile bones).
+10. **Vitamin E (Tocopherol / Anti-Sterility Vitamin)**: Powerful lipid-soluble biological **antioxidant** protecting cell membranes from free radical oxidation; richest natural dietary source is **Wheat-germ oil**, almonds, and sunflower oil.
+11. **Vitamin K (Phylloquinone / Naphthoquinone)**: Required in the liver as a cofactor for the post-translational carboxylation of clotting factors **II (Prothrombin), VII, IX, and X**; deficiency causes prolonged bleeding time and haemorrhage; synthesized by symbiotic colon bacteria (*E. coli*); rich plant source: **Alfalfa** and dark green leafy vegetables.
+12. **Vitamin C (Ascorbic Acid / Anti-Scurvy Vitamin)**: Required for the enzymatic hydroxylation of proline and lysine during **Collagen synthesis**; deficiency causes **Scurvy** (bleeding and spongy gums, loose teeth, poor wound healing, petechial haemorrhages); destroyed by prolonged boiling and cooking heat; richest sources: **Amla (Indian gooseberry)**, guava, citrus fruits (lemon, orange); **absent in milk, meat, and eggs**.
+13. **Vitamin B1 (Thiamine)**: Active coenzyme TPP (Thiamine Pyrophosphate) required in carbohydrate metabolism; deficiency causes **Beriberi** (Dry Beriberi = peripheral neuropathy; Wet Beriberi = congestive heart failure and oedema); **eating polished / milled parboiled rice strips the thiamine-rich outer aleurone layer**, precipitating beriberi.
+14. **Vitamin B2 (Riboflavin)**: Precursor of coenzymes FMN and FAD; imparts characteristic yellow colour to cow milk and whey; deficiency causes **Ariboflavinosis**: **Cheilosis** (painful cracks at the corners of the mouth), **Glossitis** (magenta-red inflamed tongue), and keratitis.
+15. **Vitamin B3 (Niacin / Nicotinic Acid)**: Precursor of NAD and NADP; synthesised in small quantities from the essential amino acid **Tryptophan**; deficiency causes **Pellagra**, classically remembered by the **"4 Ds"**: **Dermatitis** (Casal's necklace pattern on sun-exposed skin), **Diarrhoea**, **Dementia**, and **Death**; prevalent in populations relying exclusively on maize / corn diets (maize is deficient in tryptophan and contains bound niacytin).
+16. **Vitamin B5 (Pantothenic Acid)**: Essential constituent of **Coenzyme-A (CoA)**; deficiency causes "Burning Feet Syndrome" (*Gopalan's syndrome*).
+17. **Vitamin B6 (Pyridoxine)**: Coenzyme for amino acid transamination and decarboxylation; required for synthesis of haemoglobin, serotonin, and GABA; deficiency causes peripheral neuropathy, microcytic anaemia, and convulsions in infants; *Lucent note*: **Vitamin B6 helps in remembering dreams**.
+18. **Vitamin B7 (Biotin / Vitamin H)**: Sulfur-containing coenzyme for carboxylation reactions; raw egg white contains the protein **Avidin**, which binds biotin tightly and blocks absorption, causing induced biotin deficiency.
+19. **Vitamin B9 (Folic Acid / Folate)**: Required for DNA synthesis and purine/thymidylate production; deficiency causes **Megaloblastic Anaemia**; maternal folate deficiency in periconceptional period causes fatal **Neural Tube Defects (Spina Bifida and Anencephaly)** in newborns.
+20. **Vitamin B12 (Cyanocobalamin)**: The only vitamin containing a metallic trace element (**Cobalt**); absent in ordinary plant foods; synthesized exclusively by microorganisms; absorbs in the terminal ileum mediated by **Castle's Intrinsic Factor** secreted by gastric parietal cells; deficiency causes **Pernicious Anaemia** (megaloblastic anaemia + irreversible subacute combined degeneration of the spinal cord).
+21. **Bacterial Diseases**:
+22. **Protozoan Diseases**:
+23. **Cancer Biology & Classification**:
+24. **Diabetes Mellitus vs Diabetes Insipidus**:
+25. **Vaccine Classification & Modern Immunology**:
+26. **Clinical Diagnostic Tests & Instruments Drill**:
+27. **Chemical Elemental Composition of the Human Body**:
+28. **Oxygen ($\sim 65\%$)**: Most abundant element by mass due to the vast water content ($\sim 60–65\%$ of body weight).
+29. **Carbon ($\sim 18.5\%$)**: Backbone of all organic macromolecules (carbohydrates, lipids, proteins, nucleic acids).
+30. **Hydrogen ($\sim 9.5\%$)**: Most abundant element by **total atom count** (each water molecule $H_2O$ contains two hydrogen atoms).
+31. **Nitrogen ($\sim 3.2\%$)**: Integral constituent of proteins, amino acids, DNA, RNA, ATP, and creatine.
+32. **Calcium ($\sim 1.5\%$)**: Most abundant mineral; structural hydroxyapatite in bone and teeth, blood coagulation, muscle contraction.
+33. **Phosphorus ($\sim 1.0\%$)**: Calcium phosphate in bones, phospholipid membranes, phosphodiester bonds of DNA/RNA, and high-energy ATP.
+34. **Macronutrients: Carbohydrates, Proteins & Fats**:
+35. **Carbohydrates**: Primary and immediate source of physiological energy; stored as **Glycogen** in liver (~100 g) and skeletal muscles (~400 g). Excess carbohydrates are converted to neutral fats via **lipogenesis** and deposited in subcutaneous adipose tissue.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
-|-----------|-----------|-------------------------------|-----------|
-| **Kwashiorkor** | **Marasmus** | Pure protein deficiency in children $>1$ yr with pitting oedema vs protein + calorie starvation in infants $<1$ yr without oedema | क्वाशिओरकोर / मरास्मस |
-| **Fat-Soluble Vitamins** | **Water-Soluble Vitamins** | Vitamins A, D, E, K stored in liver/adipose tissue vs B-complex & C excreted in urine (require daily intake) | वसा-घुलनशील / जल-घुलनशील विटामिन |
-| **Vitamin B1 (Thiamine)** | **Vitamin B3 (Niacin)** | Deficiency causes Beriberi (polished rice) vs deficiency causes Pellagra (4 Ds: Dermatitis, Diarrhoea, Dementia, Death) | थायमिन / नियासिन |
-| **Vitamin B9 (Folate)** | **Vitamin B12 (Cobalamin)** | Plant leafy origin, prevents neural tube defects vs animal origin only, contains Cobalt, needs intrinsic factor, stores in liver | फोलिक एसिड / कोबालामिन |
-| **Salk Vaccine** | **Sabin Vaccine** | Injected Inactivated Polio Vaccine (IPV, killed) vs Oral Polio Vaccine (OPV, live attenuated drops) | साल्क टीका / साबिन टीका |
-| **Minamata Disease** | **Itai-Itai Disease** | Caused by toxic organic Methyl Mercury ($Hg$) vs caused by toxic Cadmium ($Cd$) in river water | मिनामाटा / इटाई-इटाई रोग |
-| **Blue Baby Syndrome** | **Blackfoot Disease** | Nitrate ($NO_3^-$) in drinking water causing methemoglobinemia vs chronic Arsenic ($As$) poisoning causing peripheral gangrene | ब्लू बेबी / ब्लैकफुट रोग |
-| **Diabetes Mellitus** | **Diabetes Insipidus** | Insulin shortage/resistance, high blood sugar, glycosuria vs ADH shortage, dilute tasteless urine, normal blood sugar | मधुमेह / उदकमेह |
-| **Covaxin / Sinovac** | **Covishield / Sputnik V** | Inactivated whole-virus killed platform vs non-replicating adenoviral vector platform | कोवैक्सिन / कोविशील्ड |
-| **Carcinoma** | **Sarcoma** | Malignant cancer of epithelial tissues (~85%) vs malignant cancer of mesodermal/connective tissues (~1–2%) | कार्सिनोमा / सार्कोमा |
-| **Widal Test** | **Mantoux Test** | Agglutination diagnostic test for Typhoid vs intradermal tuberculin skin test for Tuberculosis | विडाल टेस्ट / मॉन्टौक्स टेस्ट |
-| **ECG** | **EEG** | Measures electrical activity of the heart (Einthoven) vs measures electrical activity of the brain (Hans Berger) | ईसीजी / ईईजी |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& Negative-Marking Eliminators
+
+1. **Kwashiorkor vs marasmus**: Kwashiorkor = protein lack with **oedema**; marasmus = protein-energy lack with **no oedema** and extreme wasting.
+2. **Fat-soluble vitamins**: **A, D, E, K** only — B and C are water-soluble (B12 is stored in liver anyway).
+3. **Night blindness**: Vitamin **A** deficiency — not Vitamin D.
+4. **Rickets vs scurvy**: Rickets/osteomalacia = **D**; scurvy = **C**.
+5. **Beriberi vs pellagra**: Beriberi = **B1**; pellagra = **B3** (4 Ds).
+6. **Minamata vs Itai-Itai**: Minamata = **methyl mercury**; Itai-Itai = **cadmium**.
+7. **Blue baby syndrome**: Excess **nitrates** in water → methemoglobin — not fluoride.
+8. **Malaria vector**: Female *Anopheles* — dengue/chikungunya use *Aedes*.
+9. **Typhoid test**: **Widal** test — not Mantoux (Mantoux is TB).
+10. **Diabetes mellitus vs insipidus**: Mellitus = insulin/glucose; insipidus = **ADH** / water balance.
+11. **Vaccine platforms**: Covaxin = inactivated; Covishield = adenovirus vector; Moderna/Pfizer = **mRNA**.
+12. **Vitamin B12**: Contains **cobalt**; absent in ordinary plant foods.
+
+---
 
 
 ---

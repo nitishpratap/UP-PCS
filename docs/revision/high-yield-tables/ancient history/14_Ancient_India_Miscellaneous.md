@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 14 — Ancient India Miscellaneous</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -36,11 +34,7 @@ hide:
 | Kosambi | Basham | Marxist *Introduction* vs cultural *Wonder* | कोसांबी / बैशम |
 | Charaka | Sushruta | Internal medicine **120/8** vs **surgery** | चरक / सुश्रुत |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Old World Bronze cores
 
@@ -222,18 +216,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The four Old World Bronze urban cores are Mesopotamia, Egypt, Indus (सिंधु), and Shang China. Iron-Age Greece, Rome, and Persia belong to a later bucket.
 - **Exam Anchor:** Mesopotamia sits on the Tigris–Euphrates, runs competing city-states, writes cuneiform on clay, and builds stepped ziggurat temple-towers — not tombs.
 - **Exam Anchor:** Egypt sits on the Nile, is a unified pharaoh monarchy, writes hieroglyphs on papyrus, and builds pyramid royal tombs.
 - **Exam Anchor:** Indus / Harappan Mature phase is about 2600–1900 BCE. Signatures include grid streets, baked brick, drains, and standard weights. The script is still undeciphered.
-- **Exam Anchor:** Mesopotamia knew the Indus land as Meluhha. Harappans built neither ziggurats nor pyramid tomb-fields and left no named pharaoh.
 - **Exam Anchor:** Shang China on the Yellow River uses readable oracle-bone script and ritual bronze ding vessels. Unlike the Indus script, Shang writing is read.
-- **Exam Anchor:** Puranas are post-Vedic smriti encyclopaedias shaped mainly in the Gupta age and after. Count fact is 18 Mahapuranas and 18 Upapuranas.
-- **Exam Anchor:** A Mahapurana is supposed to carry panchalakshana: sarga, pratisarga, vamsha, manvantara, and vamshanucharita.
-
-</details>
+- **Exam Anchor:** Charvaka ≠ Charaka. Charaka is the Ayurveda compiler; Charvaka is the materialist school. Mixing the names is the cheap trap.
+- **Exam Anchor:** Rudrama Devi ruled as a reigning queen under the male throne-name Rudradeva Maharaja. She is Ganapati’s daughter, not a Chola queen.
+- **Exam Anchor:** Warangal–Ramchandra Dev is NOT matched. Ramachandra is the Yadava of Devagiri. Warangal’s last Kakatiya is Prataparudra II.
+- **Exam Anchor:** Thousand Pillar Temple at Hanamkonda belongs to Rudradeva (tradition 1163). It is not inside Warangal fort.
 
 ---
 

@@ -28,7 +28,8 @@
 
 ---
 
-## Consolidated — 18 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 18 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Cropped area concentrates in the southern plains and Tarai where continuous fields are possible on gentler slopes.
 2. **Haridwar** and **Udham Singh Nagar** form the granary / high cultivated-area belt.
@@ -49,9 +50,10 @@
 17. Plains lead cultivated-area stories; hills lead terrace / horticulture stories — do not invert the contrast.
 18. Fresh land-use releases can shuffle absolute Haridwar vs Udham Singh Nagar ranks; prefer the Series B letter when that paper is cited.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct |
 |------|---------|
@@ -60,7 +62,7 @@
 | Q102 both vs only 1 | Series B **Only 1** — do not mark both unless an amended key says so |
 | Hill vs plain irrigation | Tubewell–canal plains ≠ spring-fed hill systems |
 
----
+</details>
 
 ## 5.1 Agriculture pattern
 

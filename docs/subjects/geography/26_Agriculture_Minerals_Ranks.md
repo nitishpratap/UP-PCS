@@ -5,7 +5,8 @@
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Wheat Ranks:** Top Producer States: **Uttar Pradesh (उत्तर प्रदेश) (#1)** > Madhya Pradesh (#2) > Punjab (#3). Highest productivity/yield (kg/ha): **Punjab** and **Haryana**. UP produces over **32%** of India's wheat.
 2. **Rice Ranks:** Top Producer States: **West Bengal (#1)** > Uttar Pradesh (#2) > Punjab (#3). Highest productivity/yield: **Punjab**. Rice is India's principal kharif (खरीफ) crop and largest cultivated area.
@@ -42,9 +43,10 @@
 31. Horticulture board / crop HQ reminders for ranks: potato / mango / guava leadership often **Uttar Pradesh**; banana / eggs / inland fish often **Andhra Pradesh**; marine fish often **Gujarat**.
 32. Keep **reserves vs production** traps alive for coal (Jharkhand reserves vs Chhattisgarh production) and copper (Rajasthan reserves vs Madhya Pradesh production).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -65,7 +67,7 @@
 | **Global Coal Rank 1** | **Global Uranium Rank 1** | **China** (>50% coal production) vs **Kazakhstan** (>43% uranium production) | विश्व कोयला शीर्ष (चीन) / यूरेनियम शीर्ष (कजाकिस्तान) |
 | **Global Iron Ore Rank 1** | **Global Copper Rank 1** | **Australia** (Pilbara iron ore) vs **Chile** (Escondida copper) | विश्व लौह अयस्क (ऑस्ट्रेलिया) / तांबा (चिली) |
 
----
+</details>
 
 ## 1. Top Agricultural Producers (India)
 | Crop | Top Producers (in descending order) |

@@ -10,7 +10,8 @@
 |---|---|---|
 | Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **8 of the 16 Mahajanapadas** of the 6th century BCE were located in present-day Uttar Pradesh.
 2. The **Sohgaura Copper Plate Inscription** in Gorakhpur is the earliest known record of state drought relief and famine storehouses in India.
@@ -63,9 +64,10 @@
 49. **Dadri Fair (Ballia)**, held on Kartik Purnima in honour of Maharishi Bhrigu, is the 2nd largest cattle fair in India.
 50. **Kumbh Mela (Prayagraj)** was inscribed on the **UNESCO Intangible Cultural Heritage List in 2017**, and **Ramnagar Ramlila** in **2008**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@
 | **Kirana Gharana** | **Atrauli Gharana** | Kirana (Shamli) was founded by **Abdul Karim Khan**; Atrauli (Aligarh) was founded by **Alladiya Khan**. |
 | **Annexation of Awadh (1856)** | **Annexation of Jhansi (1853)** | Awadh was annexed for **alleged misrule** (Outram Report); Jhansi was annexed under the **Doctrine of Lapse**. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

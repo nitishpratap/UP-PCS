@@ -11,51 +11,60 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 13 — Desertification (मरुस्थलीकरण) & Land Degradation (भू-क्षरण)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** areas from climate variation plus human pressure.
-2. Desertification is **not** only “desert expanding.” Any dryland losing productivity can count.
-3. **Land degradation** is broader: decline in productive capacity on any land through erosion, salinization, waterlogging, mining, or pollution.
-4. India has about **96.4 million ha** degraded land — roughly **29–30%** (ISRO Atlas **2016** class figure).
-5. **Normal geological erosion** is slow and roughly balanced by soil formation. **Accelerated erosion** is human-driven and faster than formation — the focus.
-6. Water-erosion sequence: **sheet → rill → gully → ravine**. Chambal (चंबल) badlands are the ravine end-member.
-7. Wind erosion works by **deflation** (lifting) and **abrasion** (sandblasting).
-8. Leading causes include overgrazing in drylands, deforestation, unsustainable farming, excessive irrigation (salinization/waterlogging), and mining.
-9. India hotspots: **Thar** (थार) wind erosion; **Chambal** (चंबल) ravines (MP–UP–Rajasthan); **Bundelkhand** drought (सूखा)–degradation cycle; Punjab–Haryana salinization belts.
-10. Conservation tools include contour bunding, terraces, shelter belts, afforestation, gully plugging, check dams, and watershed management (वाटरशेड (जलग्रहण) प्रबंधन).
-11. Earthworms are soil-fertility allies in restoration narratives.
-12. **UNCCD** was adopted (अंगीकृत) in **1994**. Desertification and Drought Day is **17 June**.
-13. **LDN** (Land Degradation Neutrality) under **SDG 15.3** targets no net loss of healthy land by **2030**.
-14. **DPAP** launched in **1973**. **DDP** is **1977–78**. **IWMP** is **2009**. **MGNREGA (2005)** funds bunds and check dams.
-15. Treaty trap: **UNCCD ≠ UNFCCC (यूएनएफसीसीसी)**. Desertification is not the climate convention.
-16. Afforestation helps **prevent** degradation; it is not a cause of desertification.
-17. Gully erosion (अवनलिका अपरदन) is not the same as sheet erosion (परत (चादर) अपरदन) — sheet is the first thin uniform stage.
-18. Chambal ravine area is about **3 million ha** in standard coaching numbers.
-19. UP Chambal ravine districts include **Etawah (इटावा) and Agra** (with Morena–Bhind on the MP side).
-20. Bundelkhand’s **seven UP districts** are the drought-plus-degradation fact.
-21. Thar-margin UP questions emphasise wind erosion and dune encroachment.
-22. **Sonbhadra** (सोनभद्र) is a UP mining-related land-degradation hotspot.
-23. Wasteland means degraded land poorly suited to cultivation — related to, but not identical with, desertification’s ASDM definition.
-24. LDN by 2030 is an SDG land target; do not date UNCCD itself as 2030.
+2. **Land degradation** is broader: decline in productive capacity on any land through erosion, salinization, waterlogging, mining, or pollution.
+3. **Normal geological erosion** is slow and roughly balanced by soil formation. **Accelerated erosion** is human-driven and faster than formation — the focus.
+4. **UNCCD** was adopted (अंगीकृत) in **1994**. Desertification and Drought Day is **17 June**.
+5. **LDN** (Land Degradation Neutrality) under **SDG 15.3** targets no net loss of healthy land by **2030**.
+6. **DPAP** launched in **1973**. **DDP** is **1977–78**. **IWMP** is **2009**. **MGNREGA (2005)** funds bunds and check dams.
+7. **Sonbhadra** (सोनभद्र) is a UP mining-related land-degradation hotspot.
+8. **Desertification** is **land degradation in arid, semi-arid, and dry sub-humid (ASDM) areas** caused by climate variation and human activities.
+9. **Overgrazing** is the **main human cause** in drylands. Livestock remove vegetation, compact soil, and expose topsoil to wind and water erosion.
+10. **Deforestation**, **fuelwood collection**, and **unsustainable cropping** remove root binding and reduce local moisture retention.
+11. **Improper irrigation** can cause **salinization** and **waterlogging**, turning fertile irrigated land barren — common in parts of Rajasthan canal commands and the Indo-Gangetic fringe.
+12. **Drought and climate change (जलवायु परिवर्तन)** kill vegetation and trigger flash erosion on bare soil, creating a feedback loop of further degradation.
+13. **Wind erosion** dominates true arid zones like the **Thar Desert**, where dunes migrate and bury fields.
+14. **17 June** is observed as **World Desertification and Drought Day**.
+15. **SDG 15.3** targets **Land Degradation Neutrality (LDN) (भूमि क्षरण तटस्थता) by 2030** — avoid new degradation and restore degraded land.
+16. **Land degradation** is the **broader decline in a land's productive capacity** from natural or human factors.
+17. **Desertification** is one **subset** limited to ASDM drylands. **Soil erosion** is one **major process** within degradation.
+18. **Human causes dominate** India's degradation statistics: overgrazing, deforestation, unsustainable agriculture, excessive fertilizers, mining, industrial pollution, and urban (नगरीय) sprawl.
+19. **Salinization** from excessive canal irrigation affects **Punjab, Haryana, and western UP**.
+20. **Mining degradation** is severe in **Sonbhadra (UP), Jharkhand, and Odisha**.
+21. **Salinization and waterlogging** can often be reversed through drainage, gypsum, and drip irrigation. **Deep ravines** are hardest to restore.
+22. **Afforestation prevents degradation** — it is **not** a cause. Pick it when asked "NOT a cause."
+23. **Topsoil (A-horizon)** is the fertile organic-rich layer, usually **15–30 cm deep**. It can take **centuries to form** but may be lost in **one heavy monsoon** on bare slopes.
+24. **Normal (geological) erosion** is slow and balanced by soil formation. **Accelerated erosion** from human activity is **10–100× faster** than formation — this is the usual default meaning of "soil erosion."
+25. **Water erosion** dominates humid and monsoon India. Raindrop impact dislodges soil and runoff carries it downslope.
+26. **Water erosion sequence:Sheet erosion** (thin uniform layer) → **rill erosion** (क्षुद्र सरिता (रिल) अपरदन) (small channels) → **gully erosion** (deep cuts) → **ravines** (extensive badland networks).
+27. **Chambal ravines** (चंबल) cover about **3 million hectares** across **MP (Morena, Bhind), UP (Etawah, Agra), and Rajasthan (Dholpur, Karauli)**. They are India's classic **gully/ravine erosion** landscape.
+28. **Wind erosion** dominates arid zones through **deflation** (lifting fine particles) and **abrasion** (sandblasting surfaces). It affects the **Thar**, Rann of Kutch, and western Rajasthan-UP margins.
+29. **Gravity erosion** (landslides, slumping) matters in **Himalayan and NE hill states**, especially after deforestation and road cutting.
+30. **Vegetation cover** is the best natural erosion shield. Deforestation and overgrazing are the top acceleration factors.
+31. **Conservation measures:contour bunding/ploughing**, **terrace farming**, **shelter belts/wind breaks**, **afforestation**, **gully plugging**, **check dams**, **strip cropping**, and **cover crops**.
+32. **Earthworms** aerate soil, improve structure, and boost fertility — healthy soil resists erosion.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Desertification** | **Land Degradation** | Persistent reduction or loss of biological and economic productivity occurring specifically in Arid, Semi-Arid, and Dry Sub-Humid areas (drylands) vs general decline in the productive capacity and ecosystem health of any land anywhere | मरुस्थलीकरण (शुष्क भूमियों में) / भू-क्षरण (सामान्य भूमि अवनति) |
-| **Drought** | **Desertification** | Temporary natural meteorological period of deficient precipitation over months or a few years from which ecosystems can recover vs persistent, semi-permanent ecological degradation and productivity loss driven by unsustainable human use and climate stress | सूखा (अस्थायी मौसमी संकट) / मरुस्थलीकरण (स्थायी भूमि ह्रास) |
-| **Sheet Erosion** | **Gully Erosion** | Uniform, imperceptible removal of a thin layer of topsoil over large flat cultivated fields by sheetwash runoff vs cutting of deep, severe channels and ravines by concentrated runoff carving badland topography (e.g. Chambal ravines) | परत (चादर) अपरदन / अवनलिका अपरदन (बीहड़ निर्माण) |
-| **Splash Erosion** | **Rill Erosion** | Initial detachment and airborne displacement of soil particles caused directly by the physical impact of falling raindrops vs intermediate erosion stage where tiny, shallow, visible finger-like channels are formed on sloped ground | आघात (स्पलैश) अपरदन / क्षुद्र सरिता (रिल) अपरदन |
-| **UNCCD (1994)** | **UNFCCC (1992)** | Sole legally binding international treaty linking environment and development to sustainable land management, desertification, and drought in drylands vs framework convention dedicated to addressing anthropogenic climate change and greenhouse gases | मरुस्थलीकरण रोकथाम संधि (UNCCD) / जलवायु परिवर्तन संधि (UNFCCC) |
-| **Land Degradation Neutrality (LDN)** | **Net Zero Emissions** | Target under UN SDG 15.3 ensuring that the quantity and quality of land resources necessary to support ecosystem functions remain stable or increase by 2030 vs balancing greenhouse gas emissions with equivalent removals | भूमि क्षरण तटस्थता (LDN, SDG 15.3) / नेट जीरो उत्सर्जन |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+| Trap | Correct fact |
+|------|----------------|
+| Desertification = desert expansion only | **Any ASDM dryland losing productivity** |
+| Land degradation = desertification | **Degradation is broader** |
+| Afforestation causes degradation | **It prevents degradation** |
+| Sheet erosion = deep ravines | **Sheet is first, mildest stage** |
+| Chambal ravines in one state | **MP + UP + Rajasthan** |
+| UNCCD = climate treaty | **UNCCD = desertification; UNFCCC = climate** |
+| Normal rain pH 7 stops erosion | **Unrelated — erosion is topsoil removal** |
+| Wind erosion in Chambal ravines | **Water/gully erosion** |
+| LDN target 2025 | **2030 (SDG 15.3)** |
+| UNCCD signed at Rio 1992 | **Adopted 1994, Paris** |
 
 
 ---

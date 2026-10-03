@@ -24,7 +24,8 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 ---
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Nagara** (नागर शैली) temples have a curvilinear **shikhara** (शिखर) and generally no monumental gopuram.
 2. **Dravida** (द्रविड़ शैली) temples have a pyramidal **vimana** (विमान) and a tall **gopuram** (गोपुरम).
@@ -77,9 +78,10 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 49. Rashtrakuta courts also backed Jain scholars. **Amoghavarsha I** was a disciple of **Jinasena**, author of the *Adipurana*. That is context for Ellora’s Jain caves.
 50. The south-temple chronology is **Sapt Pagoda**, then **Shore Temple** (शोर मंदिर), then **Brihadeeswara**, then **Gangaikonda Cholapuram**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -107,8 +109,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 | Konark 24 wheels | “12 wheels” shorthand | Full chariot has **24** wheels (12 pairs) | कोणार्क चक्र |
 | Mandu | Khajuraho / Sanchi / Bhimbetka | Mandu **not** UNESCO vs MP WHS trio | माण्डू / यूनेस्को |
 
----
-
+</details>
 
 ## Must-score drill — Nagara, Dravida, temples, pillars
 

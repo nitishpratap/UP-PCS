@@ -11,92 +11,63 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 2 — Animal Biology and Husbandry</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Animals are eukaryotic, multicellular, heterotrophic organisms lacking cell walls and photosynthetic pigments; store reserve food as **glycogen and fat**.
-2. **Porifera** (sponges) exhibit cellular level of organisation, have thousands of minute incurrent pores (**Ostia**) and a single large excurrent opening (**Osculum**), and maintain a unique water canal system lined by flagellated **Choanocytes / Collar cells**.
-3. **Cnidaria (Coelenterata)** possess stinging capsules called **Cnidoblasts / Nematocysts** for defence and prey capture; show radial symmetry and tissue-level organisation; exhibit alternation of generation (**Metagenesis**) between sessile cylindrical **Polyp** and free-swimming umbrella-like **Medusa** (e.g. *Hydra*, *Aurelia* jellyfish, *Physalia* Portuguese man-of-war). Corals (*Anthozoa*) secrete massive $CaCO_3$ skeletons of organic origin. *Hydra* has **no blood but respires** via simple diffusion.
-4. **Platyhelminthes** (flatworms) are triploblastic, acoelomate, dorso-ventrally flattened worms; excrete and osmoregulate via specialized **Flame cells (Protonephridia)** (e.g. *Planaria*, *Taenia solium* pork tapeworm, *Fasciola hepatica* liver fluke). Tapeworms are **hermaphrodites** (monoecious).
-5. **Aschelminthes / Nematoda** (roundworms) possess a **Pseudocoelom** (false body cavity); sexually dimorphic (separate sexes); examples: *Ascaris lumbricoides* (intestinal roundworm), *Wuchereria bancrofti* (filarial worm causing elephantiasis transmitted by *Culex* mosquito), *Dracunculus medinensis* (guinea worm, a nematode, NOT an annelid!).
-6. **Annelida** (segmented worms) exhibit true **metameric segmentation**, a closed circulatory system, and excrete via coiled tubular **Nephridia**; earthworms breathe cutaneously across moist glandular skin; possess **4 to 5 pairs of lateral hearts** (aortic arches in segments 7–11 or 7, 9, 12, 13).
-7. Earthworm (*Pheretima posthuma*) blood is **red** because haemoglobin (**erythrocruorin**) is dissolved in the blood plasma; **lacks red blood cells (RBCs)**; known as the "friend of the farmer" for aerating soil and increasing organic matter.
-8. **Arthropoda** is the **largest phylum** of the animal kingdom (over two-thirds of all named species, >1 million insects); characterized by **chitinous exoskeleton**, jointed appendages, open circulatory system with a haemocoel, and excretion via **Malpighian tubules** (insects), **Green glands / Antennal glands** (crustaceans/prawns), or **Coxal glands** (spiders/scorpions).
-9. **Insects (Class Insecta / Hexapoda)**: 3 main body segments (**Head, Thorax, Abdomen**), **3 pairs of legs (6 legs)** attached to the thorax, usually 2 pairs of wings, 1 pair of antennae, tracheal respiration via spiracles. Examples: Cockroach, Honeybee, Mosquito, Butterfly, Cicadas, Froghoppers (spittlebugs), Pond skaters (*Gerridae*), Termites (white ants, Isoptera).
-10. **Arachnids (Class Arachnida)**: 2 body regions (**Cephalothorax and Abdomen**), **4 pairs of walking legs (8 legs)**, **zero wings and zero antennae**; mouth appendages are **chelicerae** (fangs) and **pedipalps**. Examples: Spiders, Scorpions, Ticks, Mites. Ticks and mites have unsegmented fused bodies.
-11. **Spider Silk (Gossamer Silk)**: Protein fibre spun by spiders, renowned for being both strong and elastic (often described as stronger than steel). Spiders practice **sexual cannibalism** (female kills and eats the male before, during, or after copulation).
-12. **Peacock Tarantula (*Poecilotheria metallica*)**: Critically Endangered, arboreal spider endemic to deciduous forests of Andhra Pradesh / Pakkam Malai; it is an **insectivorous arachnid, NOT a crustacean**.
-13. Insect blood is termed **Haemolymph**; it is **colourless / white** in cockroaches because it completely lacks respiratory pigments like haemoglobin; does not transport oxygen (oxygen is delivered directly to cells by tracheae).
-14. **Mosquito Mouthparts & Posture**: Only **female mosquitoes suck blood** (mouthparts modified to pierce and suck: labium sheath, labrum feeding tube, paired mandibles and maxillae forming piercing stylet); **males have mouthparts adapted to suck flower/plant juices**. Females have larger wings. **Female *Anopheles* rests at an angle (~45°)** to the surface with abdomen pointing up; ***Culex* rests parallel** to the surface.
-15. **Bioluminescence in Glowworms**: Larvae and adults of *Arachnocampa luminosa* / fireflies emit blue-green light from abdominal light organs via the enzyme **Luciferase** acting on luciferin substrate.
-16. **Beneficial vs Harmful Insects**: *Bombyx mori* (silk), *Laccifer / Kerria lacca* (lac resin), *Apis mellifera* (honey/wax) are beneficial. ***Helicoverpa armigera*** (cotton bollworm/corn earworm) is a polyphagous destructive agricultural pest.
-17. **Parasitoid species**: Larvae develop inside/on a host and ultimately kill it (e.g. parasitic wasps, parasitic flies, certain carabid beetles). Centipedes are generalist predators; termites are detritivores.
-18. **Detritivores & Filter Feeders**:
-19. **Ant Biology**: Ants inject **Formic acid** ($HCOOH$, simple carboxylic acid) when they bite. Ants have the **largest brain relative to body size** in the animal kingdom. Leafcutter ants (*Attini*) actively **cultivate fungi** for food.
-20. **Mollusca** is the second largest animal phylum; soft-bodied, unsegmented animals usually enclosed in a calcareous shell ($CaCO_3$); possess a sensory rasping tongue-like feeding organ called **Radula** and a fleshy muscular foot; true pearls are harvested from the marine pearl oyster (***Pinctada vulgaris***, class Bivalvia/Pelecypoda).
-21. **Cephalopods**: **Octopus (Devilfish)** has 8 arms with suckers, camera eyes, and no external shell. **Colossal Squid (*Mesonychoteuthis hamiltoni*)** and **Giant Squid (*Architeuthis dux*)** are the largest living invertebrates.
-22. **False Fish vs True Fish (Must-Score Fact)**:
-23. **Fishes in Frozen Lakes**: Lakes freeze only at the surface; because water reaches maximum density at $4^\circ\text{C}$, the bottom water remains liquid ($>0^\circ\text{C}$), allowing fish and aquatic life to survive under the ice shield. Fish die outside water because gills collapse and cannot absorb gaseous oxygen.
-24. **Echinodermata**: Exclusively marine spiny-skinned animals; exhibit secondary radial symmetry (bilateral in free-swimming larvae, pentamerous radial in adults); possess an ambulacral **Water Vascular System** operating suction-cup **Tube feet (Podia)**; **all echinoderms are NOT viviparous — they are typically oviparous with external fertilisation**.
-25. **Animal heart chambers**: **Fish** = 2 chambers (1 atrium + 1 ventricle; single venous circulation); **Amphibians & most Reptiles** = 3 chambers (2 atria + 1 ventricle; mixed blood tolerated); **Crocodiles, Birds & Mammals** = **4 chambers** (2 atria + 2 ventricles; complete double circulation).
-26. **Amphibian Metamorphosis**: Tadpoles are aquatic and herbivorous; metamorphosis into carnivorous frogs involves **dramatic shortening of the intestine** (controlled by thyroid hormone) to process meat diets. Frogs are cold-blooded and breathe via skin and lungs.
-27. **Reptiles & Snakes**:
-28. **Poisonous Species Across Taxa**: Poisonous species occur among **butterflies** (African Giant Swallowtail, Monarch — sequester plant alkaloids), **fishes** (Puffer fish Tetraodontidae with tetrodotoxin; Reef stonefish most venomous fish), and **frogs** (poison dart frogs with skin alkaloid secretions).
-29. **Herbivorous Exceptions**: Adult **Green sea turtles** (*Chelonia mydas*) are strictly herbivorous; **Parrot fish** graze on algae; **Dugong / Sea cow** is a large herbivorous marine mammal. (Dogs are carnivores/omnivores, NOT herbivores).
-30. **Flightless Birds & Aves**: **Kiwi** (*Apteryx*) is a small flightless bird endemic to New Zealand. **White Leghorn** is an exotic Mediterranean breed of fowl (chicken).
-31. **Nocturnal Animals**: Highly developed hearing, smell, and adapted eyesight: Mosquitoes, Bats, Owls, Kiwis, Aye-aye (largest nocturnal primate using echolocation), **Malabar civet** (*Viverra civettina*). (Lion-tailed macaque is strictly diurnal; Sambar deer is crepuscular/nocturnal).
-32. **Poikilothermic (Cold-blooded)**: Fish, Amphibians, Reptiles (body temperature fluctuates with environment).
-33. **Homeothermic (Warm-blooded)**: Birds and Mammals (maintain stable internal body temperature via homeostasis).
-34. **Respiratory organs across animal taxa**: Cutaneous (Earthworms, Frogs), Branchial (Fish, Tadpoles), Tracheal (Insects), Book lungs (Spiders, Scorpions), Book gills (Horseshoe crab *Limulus*), Pulmonary (Adult frogs, Reptiles, Birds, Mammals via blowholes in Cetaceans).
-35. **Kangaroo rat** (*Dipodomys*) can survive its entire life without drinking water; produces the **most concentrated, almost solid urine** among all mammals and relies on metabolic water.
-36. **Camels**: Store water in their **intestine** (can drink $>100\text{ litres}$ at once) and store energy as **fat in the hump**; have broad padded 2-toed feet; lack an Omasum (pseudoruminant).
-37. **Gallbladder Absence**: Animals that do **not possess a gallbladder** include: all members of the deer family (except musk deer), equines (horses, zebras), camels, giraffes, elephants, rhinoceroses, whales, rats, and doves.
-38. **Hooves vs Claws**: Horses, zebras, deer, cattle have hooves; **Jackal (*Canis aureus*)** belongs to Canidae and has **padded feet with nails/claws, NO hooves**.
-39. **Nilgai (*Boselaphus tragocamelus*)**: Largest Asian **antelope** (family Bovidae, deer-like appearance, permanent hollow horns); NOT a cow.
-40. **Wild Animal Scientific Names**: Leopard = ***Panthera pardus***; Lion = *Panthera leo*; Tiger = *Panthera tigris*; Snow Leopard = *Panthera uncia*; Jaguar = *Panthera onca*; Asiatic wild ass = *Equus hemionus*; Barasingha = *Cervus duvaucelii*; Chinkara = *Gazella bennettii*.
-41. **Big Cat Behaviour**: Lions have **no specific breeding season**; **Cheetahs do NOT roar** (chirp, purr, growl); both male and female leopards mark territory by scent/urine.
-42. **Predator Defense Mechanisms**: **Hedgehog** rolls into a tight ball with quills pointing outwards; **Pangolin** rolls into an armoured ball with sharp overlapping scales; **Marmots do NOT roll up** (they live in burrows and hide).
-43. **Indian Squirrels**: Primarily arboreal, **build nests in trees** (not burrows in ground), hoard/bury nuts and seeds in ground, and are **omnivorous**.
-44. **Primate Intelligence & Tool Use**: **Orangutan** uses sticks as tools to scrape insects from tree holes, poke logs for honey, and open *Neesia* fruits. Chimpanzee, Parrot, and Dolphin have been taught language with success; dogs cannot learn language. Humans evince a unique desire to learn and self-express.
-45. **Apes vs Monkeys**: Apes (Superfamily Hominoidea) are tailless: Gibbons (lesser apes), Chimpanzees, Gorillas, Orangutans, Humans (great apes). **Gibbon** is the smallest, cleanest, gentlest ape. **Langurs** have long tails and are Old World monkeys (Colobinae), NOT apes.
-46. **Brain Capacity**: Modern human average cranial capacity is **~1,350 cc** (range 1,000–2,000 cc); fossil **Cro-Magnon man had ~1,600 cc** (larger than modern average). **Ant has the largest brain in proportion to its body size**. Sperm whale has largest absolute brain (~7 kg).
-47. **Panda**: Giant Panda (*Ailuropoda melanoleuca*) belongs to the **Bear family (Ursidae)**.
-48. **Dingo (*Canis lupus dingo*)**: Australian wild dog that **cannot bark**; instead, it howls like a wolf.
-49. **Sloth bear**: The shaggy bear commonly seen performing on Indian streets.
-50. **Otter**: Semiaquatic carnivorous mammal (subfamily Lutrinae, family Mustelidae); fierce, aggressive predatory behaviour.
+1. **Porifera** (sponges) exhibit cellular level of organisation, have thousands of minute incurrent pores (**Ostia**) and a single large excurrent opening (**Osculum**), and maintain a unique water canal system lined by flagellated **Choanocytes / Collar cells**.
+2. **Cnidaria (Coelenterata)** possess stinging capsules called **Cnidoblasts / Nematocysts** for defence and prey capture; show radial symmetry and tissue-level organisation; exhibit alternation of generation (**Metagenesis**) between sessile cylindrical **Polyp** and free-swimming umbrella-like **Medusa** (e.g. *Hydra*, *Aurelia* jellyfish, *Physalia* Portuguese man-of-war). Corals (*Anthozoa*) secrete massive $CaCO_3$ skeletons of organic origin. *Hydra* has **no blood but respires** via simple diffusion.
+3. **Platyhelminthes** (flatworms) are triploblastic, acoelomate, dorso-ventrally flattened worms; excrete and osmoregulate via specialized **Flame cells (Protonephridia)** (e.g. *Planaria*, *Taenia solium* pork tapeworm, *Fasciola hepatica* liver fluke). Tapeworms are **hermaphrodites** (monoecious).
+4. **Aschelminthes / Nematoda** (roundworms) possess a **Pseudocoelom** (false body cavity); sexually dimorphic (separate sexes); examples: *Ascaris lumbricoides* (intestinal roundworm), *Wuchereria bancrofti* (filarial worm causing elephantiasis transmitted by *Culex* mosquito), *Dracunculus medinensis* (guinea worm, a nematode, NOT an annelid!).
+5. **Annelida** (segmented worms) exhibit true **metameric segmentation**, a closed circulatory system, and excrete via coiled tubular **Nephridia**; earthworms breathe cutaneously across moist glandular skin; possess **4 to 5 pairs of lateral hearts** (aortic arches in segments 7–11 or 7, 9, 12, 13).
+6. **Arthropoda** is the **largest phylum** of the animal kingdom (over two-thirds of all named species, >1 million insects); characterized by **chitinous exoskeleton**, jointed appendages, open circulatory system with a haemocoel, and excretion via **Malpighian tubules** (insects), **Green glands / Antennal glands** (crustaceans/prawns), or **Coxal glands** (spiders/scorpions).
+7. **Insects (Class Insecta / Hexapoda)**: 3 main body segments (**Head, Thorax, Abdomen**), **3 pairs of legs (6 legs)** attached to the thorax, usually 2 pairs of wings, 1 pair of antennae, tracheal respiration via spiracles. Examples: Cockroach, Honeybee, Mosquito, Butterfly, Cicadas, Froghoppers (spittlebugs), Pond skaters (*Gerridae*), Termites (white ants, Isoptera).
+8. **Arachnids (Class Arachnida)**: 2 body regions (**Cephalothorax and Abdomen**), **4 pairs of walking legs (8 legs)**, **zero wings and zero antennae**; mouth appendages are **chelicerae** (fangs) and **pedipalps**. Examples: Spiders, Scorpions, Ticks, Mites. Ticks and mites have unsegmented fused bodies.
+9. **Spider Silk (Gossamer Silk)**: Protein fibre spun by spiders, renowned for being both strong and elastic (often described as stronger than steel). Spiders practice **sexual cannibalism** (female kills and eats the male before, during, or after copulation).
+10. **Peacock Tarantula (*Poecilotheria metallica*)**: Critically Endangered, arboreal spider endemic to deciduous forests of Andhra Pradesh / Pakkam Malai; it is an **insectivorous arachnid, NOT a crustacean**.
+11. **Mosquito Mouthparts & Posture**: Only **female mosquitoes suck blood** (mouthparts modified to pierce and suck: labium sheath, labrum feeding tube, paired mandibles and maxillae forming piercing stylet); **males have mouthparts adapted to suck flower/plant juices**. Females have larger wings. **Female *Anopheles* rests at an angle (~45°)** to the surface with abdomen pointing up; ***Culex* rests parallel** to the surface.
+12. **Bioluminescence in Glowworms**: Larvae and adults of *Arachnocampa luminosa* / fireflies emit blue-green light from abdominal light organs via the enzyme **Luciferase** acting on luciferin substrate.
+13. **Beneficial vs Harmful Insects**: *Bombyx mori* (silk), *Laccifer / Kerria lacca* (lac resin), *Apis mellifera* (honey/wax) are beneficial. ***Helicoverpa armigera*** (cotton bollworm/corn earworm) is a polyphagous destructive agricultural pest.
+14. **Parasitoid species**: Larvae develop inside/on a host and ultimately kill it (e.g. parasitic wasps, parasitic flies, certain carabid beetles). Centipedes are generalist predators; termites are detritivores.
+15. **Detritivores & Filter Feeders**:
+16. **Ant Biology**: Ants inject **Formic acid** ($HCOOH$, simple carboxylic acid) when they bite. Ants have the **largest brain relative to body size** in the animal kingdom. Leafcutter ants (*Attini*) actively **cultivate fungi** for food.
+17. **Mollusca** is the second largest animal phylum; soft-bodied, unsegmented animals usually enclosed in a calcareous shell ($CaCO_3$); possess a sensory rasping tongue-like feeding organ called **Radula** and a fleshy muscular foot; true pearls are harvested from the marine pearl oyster (***Pinctada vulgaris***, class Bivalvia/Pelecypoda).
+18. **Cephalopods**: **Octopus (Devilfish)** has 8 arms with suckers, camera eyes, and no external shell. **Colossal Squid (*Mesonychoteuthis hamiltoni*)** and **Giant Squid (*Architeuthis dux*)** are the largest living invertebrates.
+19. **False Fish vs True Fish (Must-Score Fact)**:
+20. **Fishes in Frozen Lakes**: Lakes freeze only at the surface; because water reaches maximum density at $4^\circ\text{C}$, the bottom water remains liquid ($>0^\circ\text{C}$), allowing fish and aquatic life to survive under the ice shield. Fish die outside water because gills collapse and cannot absorb gaseous oxygen.
+21. **Echinodermata**: Exclusively marine spiny-skinned animals; exhibit secondary radial symmetry (bilateral in free-swimming larvae, pentamerous radial in adults); possess an ambulacral **Water Vascular System** operating suction-cup **Tube feet (Podia)**; **all echinoderms are NOT viviparous — they are typically oviparous with external fertilisation**.
+22. **Animal heart chambers**: **Fish** = 2 chambers (1 atrium + 1 ventricle; single venous circulation); **Amphibians & most Reptiles** = 3 chambers (2 atria + 1 ventricle; mixed blood tolerated); **Crocodiles, Birds & Mammals** = **4 chambers** (2 atria + 2 ventricles; complete double circulation).
+23. **Amphibian Metamorphosis**: Tadpoles are aquatic and herbivorous; metamorphosis into carnivorous frogs involves **dramatic shortening of the intestine** (controlled by thyroid hormone) to process meat diets. Frogs are cold-blooded and breathe via skin and lungs.
+24. **Reptiles & Snakes**:
+25. **Poisonous Species Across Taxa**: Poisonous species occur among **butterflies** (African Giant Swallowtail, Monarch — sequester plant alkaloids), **fishes** (Puffer fish Tetraodontidae with tetrodotoxin; Reef stonefish most venomous fish), and **frogs** (poison dart frogs with skin alkaloid secretions).
+26. **Herbivorous Exceptions**: Adult **Green sea turtles** (*Chelonia mydas*) are strictly herbivorous; **Parrot fish** graze on algae; **Dugong / Sea cow** is a large herbivorous marine mammal. (Dogs are carnivores/omnivores, NOT herbivores).
+27. **Flightless Birds & Aves**: **Kiwi** (*Apteryx*) is a small flightless bird endemic to New Zealand. **White Leghorn** is an exotic Mediterranean breed of fowl (chicken).
+28. **Nocturnal Animals**: Highly developed hearing, smell, and adapted eyesight: Mosquitoes, Bats, Owls, Kiwis, Aye-aye (largest nocturnal primate using echolocation), **Malabar civet** (*Viverra civettina*). (Lion-tailed macaque is strictly diurnal; Sambar deer is crepuscular/nocturnal).
+29. **Poikilothermic (Cold-blooded)**: Fish, Amphibians, Reptiles (body temperature fluctuates with environment).
+30. **Homeothermic (Warm-blooded)**: Birds and Mammals (maintain stable internal body temperature via homeostasis).
+31. **Respiratory organs across animal taxa**: Cutaneous (Earthworms, Frogs), Branchial (Fish, Tadpoles), Tracheal (Insects), Book lungs (Spiders, Scorpions), Book gills (Horseshoe crab *Limulus*), Pulmonary (Adult frogs, Reptiles, Birds, Mammals via blowholes in Cetaceans).
+32. **Kangaroo rat** (*Dipodomys*) can survive its entire life without drinking water; produces the **most concentrated, almost solid urine** among all mammals and relies on metabolic water.
+33. **Camels**: Store water in their **intestine** (can drink $>100\text{ litres}$ at once) and store energy as **fat in the hump**; have broad padded 2-toed feet; lack an Omasum (pseudoruminant).
+34. **Gallbladder Absence**: Animals that do **not possess a gallbladder** include: all members of the deer family (except musk deer), equines (horses, zebras), camels, giraffes, elephants, rhinoceroses, whales, rats, and doves.
+35. **Hooves vs Claws**: Horses, zebras, deer, cattle have hooves; **Jackal (*Canis aureus*)** belongs to Canidae and has **padded feet with nails/claws, NO hooves**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
-|-----------|-----------|-------------------------------|-----------|
-| **Insect (Hexapoda)** | **Arachnid (Spider/Scorpion)** | 3 pairs of legs (6 legs), 3 body segments, antennae, wings vs **4 pairs of legs (8 legs)**, 2 body segments, no wings, no antennae | कीट (6 पैर) / अष्टपाद (8 पैर) |
-| **Cockroach Blood (Haemolymph)** | **Earthworm Blood** | Colourless/white, lacks haemoglobin vs red, haemoglobin dissolved in plasma (no RBCs) | तिलचट्टा रक्त / केंचुआ रक्त |
-| **True Fish (Seahorse/Catfish)** | **False Fish (Starfish/Silverfish)** | Chordate, gills, fins, 2-chambered heart vs Starfish (Echinoderm), Silverfish (Insect), Jellyfish (Cnidaria), Cuttlefish (Mollusc) | वास्तविक मछली / आभासी मछली |
-| **Cartilaginous Fish (Shark)** | **Bony Fish (Rohu/Seahorse)** | Skeleton purely cartilage, **0 bones**, no operculum, no air bladder vs bony skeleton, operculum, air bladder present | उपास्थिमीन / अस्थिमीन |
-| **Two-chambered Heart** | **Three-chambered Heart** | Fish (1 auricle + 1 ventricle, venous only) vs Amphibians & most Reptiles (2 auricles + 1 ventricle) | द्विकक्षीय / त्रिकक्षीय हृदय |
-| **Reptilian Heart** | **Crocodile Heart** | 3-chambered with incomplete interventricular septum vs fully **4-chambered heart** (exception) | सरीसृप / मगरमच्छ हृदय |
-| **Whale / Dolphin** | **Fish (Shark / Rohu)** | Warm-blooded mammals, lungs, blowhole, live birth vs cold-blooded pisces, gills, scales, 2-chambered heart | व्हेल/डॉल्फ़िन / मछली |
-| **Duck-billed Platypus** | **Kangaroo** | Monotreme, lays eggs, lacks nipples vs Marsupial, gives birth to immature live young, abdominal pouch | प्लैटिपस / कंगारू |
-| **Kangaroo Rat** | **Camel** | Survives entire life without drinking water (solid urine, metabolic water) vs drinks $>100\text{ L}$ in intestine, stores fat in hump | कंगारू चूहा / ऊँट |
-| **Ruminant (Cow/Buffalo)** | **Pseudoruminant (Camel)** | True 4-chambered stomach (Rumen, Reticulum, Omasum, Abomasum) vs 3-chambered (lacks Omasum) | रोमंथी / आभासी रोमंथी |
-| **Ape (Gibbon/Chimpanzee)** | **Monkey (Langur/Macaque)** | Tailless, superfamily Hominoidea, larger cranial cavity vs long tail, smaller brain, family Cercopithecidae | कपि (पूँछविहीन) / वानर (सपूँछ) |
-| **Cobra / Krait Venom** | **Viper Venom** | Primarily **neurotoxic & cardiotoxic** vs primarily **vasculotoxic & haemotoxic** | तंत्रिका-विष / रुधिर-विष |
-| **Snake Fangs** | **Venom Glands** | Modified **maxillary teeth** vs homologous to **salivary glands** of vertebrates | विषदंत (मैक्सिलरी) / विषग्रंथि |
-| **Mulberry Silk** | **Tasar Silk** | *Bombyx mori* on mulberry leaves (*Morus alba*) vs *Antheraea mylitta* on wild forest Arjun/Asan trees | शहतूत रेशम / टसर रेशम |
-| **Muga Silk** | **Eri Silk** | Golden-yellow silk exclusive to Assam (*Antheraea assamensis*) vs Ahimsa silk on Castor (*Samia ricini*) | मूंगा रेशम / एरी रेशम |
-| **Pashmina** | **Shahtoosh** | Undercoat of Changthangi goat (legal, commercial) vs underfleece of Tibetan Antelope / Chiru (illegal, banned) | पश्मीना / शहतूश |
-| **Pearl** | **Lac** | Secretion of mollusc (*Pinctada vulgaris*, mantle) vs resinous secretion of scale insect (*Kerria lacca*) | मोती / लाख |
-| **Sahiwal** | **Murrah** | Indigenous milch cattle breed of Punjab/Pakistan vs indigenous premier milch buffalo breed of Haryana | साहीवाल गाय / मुर्रा भैंस |
-| **Kadaknath** | **Aseel** | Black meat fowl rich in melanin (MP, GI tag) vs aggressive game fowl used for cock-fighting (AP/Telangana) | कड़कनाथ / असील |
-| **Extinct** | **Endangered** | Not a single living individual remains on Earth vs surviving in the wild but facing very high risk of extinction | विलुप्त / संकटग्रस्त प्रजाति |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& Negative-Marking Eliminators
+
+1. **Pearl source**: Pearl comes from a **mollusc** (oyster), not an insect — silk, honey, and lac are insect products.
+2. **Animals named fish that are not fish**: Jellyfish, starfish, cuttlefish, crayfish, shellfish — none are true fishes.
+3. **Cold-blooded vs warm-blooded**: Amphibians and reptiles are **poikilotherms**; birds and mammals are **homeotherms**.
+4. **Marsupial vs placental**: Kangaroo is marsupial; whale and bat are placental mammals.
+5. **Natural silk**: Pure protein, so it **contains nitrogen**; cotton has none.
+6. **Honey bee caste**: Queen and workers are female; drones are male — drones develop from **unfertilised eggs** (parthenogenesis).
+7. **Lac insect**: *Kerria lacca* on host trees; lac is a **resinous secretion**, not a plant gum.
+8. **Snake locomotion**: Snakes have no limbs; movement uses **ribs and ventral scales**, not "legs that folded away" as a living trait.
+9. **Bird bones**: Pneumatic (air-filled) bones reduce weight — do not mark them as "solid heavy bones".
+10. **Ruminant stomach**: Four chambers — rumen, reticulum, omasum, abomasum; **abomasum** is the true glandular stomach.
+
+---
 
 
 ---

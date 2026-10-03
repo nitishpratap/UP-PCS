@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 13 — Folk (लोक) Culture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -31,11 +29,7 @@ hide:
 | Sant Kabir Award | Shilp Guru | Highest **handloom** weaver honour vs highest **handicraft** artisan honour | संत कबीर / शिल्प गुरु |
 | PEHCHAN | e-Pehchan | Handicraft artisan card **2016** vs handloom worker digital ID **2025** | पहचान / ई-पहचान |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Painting ↔ region
 
@@ -90,8 +84,9 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** NHDP and RMSS remain the two handloom umbrella schemes.
 - **Exam Anchor:** Folk art (लोक कला) is community, oral, and ritual (कर्मकाण्ड). It is not a Natyashastra (नाट्यशास्त्र) classical school like Bharatanatyam (भरतनाट्यम्) or a court Mughal (मुग़ल) miniature (लघु चित्र) atelier.
 - **Exam Anchor:** Madhubani (मधुबनी) belongs to Mithila in Bihar. It is bright geometric work and carries a GI. It is not a named UNESCO ICH element by itself.
 - **Exam Anchor:** Warli (वारली) belongs to Maharashtra. It is tribal (आदिवासी) white-on-red painting. Do not place Warli in Bihar or Uttar Pradesh.
@@ -99,9 +94,6 @@ hide:
 - **Exam Anchor:** Phad (फड़) belongs to Rajasthan.
 - **Exam Anchor:** Gond (गोंड) belongs to Madhya Pradesh.
 - **Exam Anchor:** Kalamkari (कलमकारी) belongs to Andhra Pradesh.
-- **Exam Anchor:** Sanjhi (सांझी) belongs to Mathura (मथुरा)–Vrindavan (वृंदावन) in Uttar Pradesh. It is paper-cutting and now carries a GI.
-
-</details>
 
 ---
 

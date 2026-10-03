@@ -22,7 +22,8 @@ Indian Sculpture | Gupta (गुप्त) Sculpture | Buddhist Sculpture | Temp
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Indian sculpture timeline: Indus (सिंधु) bronze and terracotta (पकी मिट्टी) → **Mauryan polish** (मौर्य) → **Bharhut (भरहुत) / Sanchi (सांची)** relief → Kushan (कुषाण) **Gandhara + Mathura** → **Amaravati** → **Gupta Sarnath** (गुप्त) → temple walls → **Chola (चोल) bronze** (चोल).
 2. **Gandhara** school uses grey **schist** and Greco-Roman / Hellenistic modelling in the north-west. It is not an Uttar Pradesh school.
@@ -55,10 +56,10 @@ Indian Sculpture | Gupta (गुप्त) Sculpture | Buddhist Sculpture | Temp
 29. Do not swap Pala bronzes with Chola **Nataraja** processional icons or with tribal **Dhokra**.
 30. Hellenised Gandhara drapery and wavy hair mark Greco-Buddhist influence. Mathura’s spotted red sandstone stays the indigenous UP counter-school.
 
+</details>
 
----
-
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -71,8 +72,7 @@ Indian Sculpture | Gupta (गुप्त) Sculpture | Buddhist Sculpture | Temp
 | Khajuraho | Konark | Chandela mithuna vs Ganga Sun-chariot wheels | खजुराहो / कोणार्क |
 | Chola bronze | Dhokra | Temple lost-wax utsava murti vs tribal bell-metal | चोल / ढोकरा |
 
----
-
+</details>
 
 ## Must-score facts — schools, mudras, materials
 

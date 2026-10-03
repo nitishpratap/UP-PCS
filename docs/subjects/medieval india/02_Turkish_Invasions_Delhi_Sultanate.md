@@ -15,7 +15,8 @@ Turkish Invasions of India | Arab Invasion of Sind (सिंध) (Muhammad bin 
 
 ---
 
-## Consolidated — 42 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. In **712**, Arab **Muhammad bin Qasim** took **Sindh** from **Dahir** (**Chachnama**; capital **Arod**); this was an Indus (सिंधु) foothold, not Gangetic conquest.
 2. **Sind 712** Cause–Course–Result: Arab push for Indus ports → Qasim took Debal and killed Dahir → Multan–Sindh foothold only, no Gangetic empire.
@@ -60,9 +61,10 @@ Turkish Invasions of India | Arab Invasion of Sind (सिंध) (Muhammad bin 
 41. **Mubarak Shah Khalji** declared himself **Khalifa** and relaxed Alauddin’s controls; **Khusrau Khan**’s brief usurpation ended with Ghazi Malik’s victory (**1320**).
 42. **Yahiya Sirhindi**’s *Tarikh-i-Mubarak Shahi* is the main Sayyid-age chronicle; **Mubarakabad** on the Yamuna is Mubarak Shah Sayyid’s city, not a Khalji monument.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -92,7 +94,8 @@ Turkish Invasions of India | Arab Invasion of Sind (सिंध) (Muhammad bin 
 | Token Currency (Bronze/Copper) | Tanka & Jital (Silver & Copper standard) | **Muhammad bin Tughlaq (1329–30)** — UPPCS 2008 fact | टोकन मुद्रा |
 | Sikandar Lodi | Ibrahim | **Agra** builder vs **Panipat 1526** last Sultan | सिकंदर / इब्राहिम |
 | chakla | Sarkar | Between Subah and Pargana vs **Mughal** term trap | चकला / सरकार |
----
+
+</details>
 
 ## Must-score facts — battles, dynasties, admin tags
 

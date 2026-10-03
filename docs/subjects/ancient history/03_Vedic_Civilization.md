@@ -15,7 +15,8 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 ---
 
-## Consolidated — 42 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Early / Rigvedic** age is about **1500–1000 BCE** in the **Sapta Sindhu** (Punjab) belt. Its economy type is **pastoral**.
 2. The **Later Vedic** age is about **1000–600 BCE** in the **Ganga–Yamuna doab**, including much of western–central Uttar Pradesh. Its economy type is **agrarian**, with iron and **PGW**.
@@ -60,9 +61,10 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 41. **Sama Veda** is chant / melody drawn largely from Rigvedic verses. **Yajurveda** is the ritual-formula Veda (White / Black schools). **Atharvaveda** is charms and household rites.
 42. **Aitareya** and **Shatapatha** are key **Brahmana** texts. **Brihadaranyaka** and **Chandogya** are major early **Upanishads**. **Mundaka** gives *Satyameva Jayate*.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -90,7 +92,7 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 | Aghanya | Horse sacrifice | Cow “not to be killed” vs Ashvamedha horse rite | अघन्या / अश्वमेध |
 | Sindhu (most named) | Saraswati (most sacred) | Frequency in hymns vs *Naditama* piety | सिन्धु / सरस्वती |
 
----
+</details>
 
 ## Must-score facts — Early vs Later, assemblies, texts
 

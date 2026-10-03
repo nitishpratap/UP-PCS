@@ -22,7 +22,8 @@ Year-wise Modern India timeline | Later Mughals to Independence | Company wars c
 )
 
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Hold **four megaspines**, not one flat list: **Wars / Expansion**, **Acts**, **Reform & Press**, **National Movement**.
 2. Company political start: **Plassey 1757 → Buxar 1764 → Allahabad / Dual Govt 1765 → Regulating Act 1773**.
@@ -53,9 +54,10 @@ Year-wise Modern India timeline | Later Mughals to Independence | Company wars c
 27. **Nepal / Burma / Sindh tags:** Sugauli (**1816**); Yandabo (**1826**) → 2nd Burma (**1852**) → 3rd (**1885**); Sindh (**1843**, Napier).
 28. **Subsidiary (1798 Hyderabad first)** before **Lapse (1848 Satara first)** — method ladder for annexation politics.
 
----
+</details>
 
-## Confused Pairs (year / order swaps)
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs (year / order swaps)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -73,7 +75,7 @@ Year-wise Modern India timeline | Later Mughals to Independence | Company wars c
 | Cripps 1942 | Cabinet Mission 1946 | Wartime offer vs three-tier / interim path | क्रिप्स / कैबिनेट मिशन |
 | Chauri Chaura 1922 | Kakori 1925 | NCM ends vs HRA-era train action (UP) | चौरी चौरा / काकोरी |
 
----
+</details>
 
 ## C.0 How to solve “Arrange the events”
 

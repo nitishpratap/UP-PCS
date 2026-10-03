@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 40 — Desertification (मरुस्थलीकरण)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -23,11 +21,7 @@ hide:
 | **UNCCD (1994)** | **UNFCCC (1992)** | Only legally binding international agreement linking environment and development to sustainable land management in drylands vs framework treaty for combating greenhouse gases | मरुस्थलीकरण संधि (UNCCD) / जलवायु संधि (UNFCCC) |
 | **Land Degradation Neutrality (LDN)** | **Net Zero Emissions** | Target under SDG 15.3 ensuring no net loss of healthy land resources by 2030 vs balancing anthropogenic GHG emissions with equivalent carbon removals | भूमि क्षरण तटस्थता (LDN) / नेट जीरो उत्सर्जन |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Locks
 
@@ -113,18 +107,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Desertification is land degradation in arid, semi-arid, and dry sub-humid (ASDM) drylands. It is not merely “the desert expanding.”
-- **Exam Anchor:** Drivers combine climate variation with human pressures such as overgrazing, deforestation, and bad irrigation.
 - **Exam Anchor:** Land degradation is the broader productivity decline and can occur in any climate zone.
-- **Exam Anchor:** India’s degraded land share is often taught near 29–30% (ISRO Atlas 2016, about 96.4 million ha). Rajasthan (थार) is the worst state hotspot.
-- **Exam Anchor:** Drought types run meteorological → hydrological → agricultural. Meteorological drought (मौसमी (मौसम विज्ञान) सूखा) is often linked to rainfall below about 75% of long-period average.
 - **Exam Anchor:** DPAP began in 1973. Drought and desertification reinforce each other in a feedback loop.
-- **Exam Anchor:** Bundelkhand’s seven Uttar Pradesh (उत्तर प्रदेश) districts are a classic UP drought–degradation hotspot.
-- **Exam Anchor:** Water erosion stages run sheet → rill → gully → ravine. The Chambal (चंबल) ravines are the textbook deep badlands.
-
-</details>
+- **Exam Anchor:** Overgrazing is the top dryland cause in many coaching facts. Afforestation helps prevent further degradation.
+- **Exam Anchor:** Land Degradation Neutrality (LDN) (भूमि क्षरण तटस्थता) targets no net loss of healthy land by 2030 (SDG 15.3).
+- **Exam Anchor:** Desertification is land degradation in arid, semi-arid, and dry sub-humid (ASDM) areas from climate variation and human activities.
+- **Exam Anchor:** Overgrazing is the leading human cause in drylands; deforestation and unsustainable cropping follow.
+- **Exam Anchor:** Wind erosion dominates true arid zones such as the Thar (थार).
 
 ---
 

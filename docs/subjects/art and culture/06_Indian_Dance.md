@@ -26,7 +26,8 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 ---
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Sangeet Natak Akademi** recognises **eight** classical dances. **Sattriya** (सत्रीय) of Assam was added in **2000**. A list of seven has dropped Sattriya.
 2. **Chhau** (छऊ) is not one of those eight. It is UNESCO martial-folk. Some notes call it a ninth style. That is not the Akademi list.
@@ -66,9 +67,10 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 36. The *Abhinaya Darpana* of **Nandikesvara** is the hasta-mudra companion beside the Natyashastra.
 37. **Sankirtana** of Manipur is UNESCO ICH **2013**. It is ritual music and dance, not a ninth Akademi classical form.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -84,8 +86,7 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 | Folk | Tribal | Regional peasant festival vs adivasi ritual | लोक / आदिवासी |
 | Garba | Dandiya | Circle around lamp vs sticks | गरबा / डांडिया |
 
----
-
+</details>
 
 ## Must-score drill — eight classical dances, gharanas, markers
 

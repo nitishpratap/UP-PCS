@@ -12,7 +12,8 @@
 
 UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The proportion of the **Working-Age Population (15–59 years)** in India as per Census 2011 was **60.3%**.
 2. The proportion of the **Child Population (0–14 years)** in India in 2011 was **30.8%**, while the **Senior Citizen Population (60+ years)** was **8.6%**.
@@ -65,9 +66,10 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 49. The **Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act** was enacted in **1994** to prevent sex-selective abortions and arrest the declining child sex ratio.
 50. The **Beti Bachao Beti Padhao (BBBP)** national scheme was launched on **22 January 2015 from Panipat, Haryana**, to address the skewed child sex ratio.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **UP Highest Overall Literacy**: **Gautam Buddha Nagar (80.12%)** | **UP Highest Female Literacy**: **Kanpur Nagar (75.05%)** | **Trap**: GB Nagar is highest overall, but Kanpur Nagar is highest in female literacy. |
 | **Particularly Vulnerable Tribal Groups (PVTGs)**: **75 Groups** in 18 States & 1 UT | **Total Notified Scheduled Tribes**: Over **705 Distinct Tribes** | **Trap**: 75 is the number of PVTGs (Dhebar Commission); total scheduled tribes exceed 700. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

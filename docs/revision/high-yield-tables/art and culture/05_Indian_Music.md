@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 5 — Indian Music</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -32,11 +30,7 @@ hide:
 | Tansen | Amir Khusrau | Akbar dhrupad vs Nizamuddin, qawwali/tarana | तानसेन / अमीर खुसरो |
 | Tyagaraja | Tansen | Carnatic Rama kritis vs Hindustani Navaratna | त्यागराज / तानसेन |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Frame
 
@@ -94,18 +88,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** In Indian tradition, Sangeet encompasses the triad of gita (vocal music), vadya (instrumental music), and nritya (नृत्य) (dance). The earliest textual foundation for sacred melodic chanting is the Samaveda (सामवेद).
-- **Exam Anchor:** Theory roots are Natyashastra (नाट्यशास्त्र) by Bharata Muni (भरत मुनि) and the first clear use of the word raga in Matanga’s Brihaddeshi (बृहद्देशी).
-- **Exam Anchor:** The medieval encyclopedia is Sangeet Ratnakar (संगीत रत्नाकर) by Sharngadeva (शार्ङ्गदेव) (13th century, Devagiri).
-- **Exam Anchor:** There are seven swaras (Sa Re Ga Ma Pa Dha Ni) and traditionally 22 shrutis in an octave.
 - **Exam Anchor:** Hindustani (हिंदुस्तानी) is the north Indian system of khayal / dhrupad, tabla / pakhawaj, and gharanas. Carnatic (कर्नाटक) is the south Indian system of kriti, 72 melakarta, and mridangam.
 - **Exam Anchor:** Dhrupad (ध्रुपद) is the oldest surviving classical form and uses pakhawaj. Khayal is dominant today and uses tabla.
 - **Exam Anchor:** Thumri (ठुमरी) is light romantic song of the Awadh–Banaras belt. Tappa (टप्पा) has camel-song origin and is linked with Muhammad Shah’s court, not Akbar.
 - **Exam Anchor:** Tarana (तराना) uses nonsense syllables. Qawwali is linked with Amir Khusrau (अमीर खुसरो) at Nizamuddin’s circle.
-
-</details>
+- **Exam Anchor:** Gwalior is the oldest khayal gharana. Agra (आगरा) gharana is of Agra city in UP. Kirana gharana is of Kirana village in the western UP belt.
+- **Exam Anchor:** Rampur–Sahaswan is an Uttar Pradesh gharana of refined taans; Ustad Rashid Khan belongs to this line.
+- **Exam Anchor:** Mewati gharana is bhajan-coloured khayal; Pandit Jasraj is its flagship name. Bhendi Bazar is a Mumbai gharana known for note-stretching.
+- **Exam Anchor:** Dagar bani leads the modern dhrupad revival. Early dhrupad patronage is linked with Man Singh Tomar of Gwalior. Senia is the Tansen instrumental line.
 
 ---
 

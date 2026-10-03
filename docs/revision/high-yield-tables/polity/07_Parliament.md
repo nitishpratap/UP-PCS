@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 7 — Parliament</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -32,11 +30,7 @@ hide:
 | Anglo-Indian nomination | SC/ST reservation | Ended by **104th** vs continues till **25 Jan 2030** | एंग्लो-इंडियन / आरक्षण |
 | Speaker Money Bill certificate | Office-of-profit decision | Speaker final on Money Bill vs **President + EC** on office of profit | अध्यक्ष / लाभ का पद |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Composition
 
@@ -483,18 +477,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Article 79: Parliament of the Union = the President + Rajya Sabha (राज्यसभा) + Lok Sabha (लोकसभा). The President is an integral part of Parliament even though he sits in neither House.
-- **Exam Anchor:** Rajya Sabha maximum under Article 80 is 250 (238 States/UTs + 12 nominated). Present strength is 245 (233 + 12). Seats follow the Fourth Schedule and are not equal per State.
-- **Exam Anchor:** Rajya Sabha members are elected by elected MLAs through PR-STV. Term is six years; one-third retire every two years. The House is never dissolved.
-- **Exam Anchor:** The President nominates 12 members with special knowledge in literature, science, art, or social service. Sport is not in that list. Nominated members vote in the Vice-President election but not in the President election.
-- **Exam Anchor:** Rajya Sabha special powers: Article 249 (State List (राज्य सूची) for one year), Article 312 (All-India Services — 2/3 of members present and voting (गणपूर्ति)), and the start of Vice-President removal.
-- **Exam Anchor:** High-yield Rajya Sabha seat facts: Uttar Pradesh (उत्तर प्रदेश) 31, Maharashtra 19, Tamil Nadu (नाडु) 18, Bihar/West Bengal 16; UTs with seats include Delhi 3, Puducherry 1, Jammu & Kashmir 4.
-- **Exam Anchor:** Lok Sabha maximum under Article 81 is 550 (530 States + 20 UTs). Present elected strength is 543. Election is FPTP; minimum age is 25.
-- **Exam Anchor:** Anglo-Indian nomination to the Lok Sabha ended with the 104th Amendment. SC/ST reservation continues till 25 January 2030. Seat freeze uses the 1971 census (84th) until the first census after 2026.
-
-</details>
+- **Exam Anchor:** 2024: 18th Lok Sabha constituted; Om Birla re-elected Speaker; Rahul Gandhi (गांधी) recognised as Leader of the Opposition.
+- **Exam Anchor:** 2019–20: 104th Amendment ended Anglo-Indian nomination to LS (and State Assemblies) — Art. 331 / 334 trap.
+- **Exam Anchor:** Frozen: LS territorial seats frozen on 1971 census till the first census after 2026 (84th) — delimitation.
+- **Exam Anchor:** Jan 2022: ECI revised candidate expenditure ceilings — Lok Sabha up to ₹95 lakh (smaller States ₹75 lakh); Assembly up to ₹40 lakh (smaller States ₹28 lakh).
+- **Exam Anchor:** 2024 polls: 7 phases; Malogam (Arunachal East) one-voter booth; Shompen (Great Nicobar (निकोबार)) voted for the first time in Andaman (अंडमान) & Nicobar LS seat.
+- **Exam Anchor:** 2017–: Union Budget on 1 February; Railway Budget merged with General Budget.
+- **Exam Anchor:** Convention: PAC chair from the Opposition (since 1967).
+- **Exam Anchor:** 18th Lok Sabha committee chairs (2024–25, Om Birla): Public Accounts — K.C. Venugopal; Estimates — Sanjay Jaiswal; Public Undertakings — Baijayant Panda; SC/ST Welfare — Faggan Singh Kulaste; OBC (अन्य पिछड़ा वर्ग) Welfare — Ganesh Singh. Trap: Baijayant Panda is COPU, not Estimates.
 
 ---
 

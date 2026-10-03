@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>UP Special Topic 1 — Geography, Location, Boundaries, Physical Features, Climate, Soil and Drainage System</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -27,18 +33,6 @@ hide:
 | **Bhabhar Soil**: Porous boulders, uncultivable, streams sink underground | **Terai Soil**: Waterlogged silt, highly fertile for sugarcane, streams re-emerge | **Trap**: Bhabhar is dry on surface with underground flow; Terai is marshy and swampy. |
 | **Mar Soil (Bundelkhand)**: Black fertile clayey soil (Black cotton type) | **Rakar Soil (Bundelkhand)**: Reddish, coarse gravelly soil on rocky slopes | **Trap**: Mar is fertile and retains moisture; Rakar is highly eroded and nutrient-poor. |
 | **Bakhira Wetland (Ramsar)**: Located in **Sant Kabir Nagar** | **Suraha Taal (Oxbow Lake)**: Located in **Ballia** | **Trap**: Bakhira = Sant Kabir Nagar; Suraha Taal = Ballia; Keetham/Sur Sarovar = Agra. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -178,18 +172,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The total geographical area of Uttar Pradesh is 240,928 km², which constitutes 7.33% of India's total area.
-- **Exam Anchor:** Uttar Pradesh ranks 4th in India by area (after Rajasthan, Madhya Pradesh, and Maharashtra).
-- **Exam Anchor:** The latitudinal extent of UP is from $23^\circ 52'	ext{ N}$ to $31^\circ 28'	ext{ N}$, and longitudinal extent is from $77^\circ 03'	ext{ E}$ to $84^\circ 39'	ext{ E}$.
-- **Exam Anchor:** The east-to-west length of Uttar Pradesh is 650 km, and the north-to-south width is 240 km.
-- **Exam Anchor:** Uttar Pradesh shares its borders with 8 States, 1 Union Territory (Delhi), and 1 Foreign Country (Nepal).
-- **Exam Anchor:** The only foreign country sharing a boundary with Uttar Pradesh is Nepal (579 km border).
-- **Exam Anchor:** Exactly 7 districts of UP share an international border with Nepal: Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar, and Maharajganj.
 - **Exam Anchor:** Sonbhadra is the only district in India that shares boundaries with 4 different States: Madhya Pradesh, Chhattisgarh, Jharkhand, and Bihar.
-
-</details>
+- **Exam Anchor:** Lalitpur district is surrounded on three sides by Madhya Pradesh.
+- **Exam Anchor:** Lakhimpur Kheri is the largest district in UP by area (7,680 km²).
+- **Exam Anchor:** Hapur is the smallest district in UP by area (660 km²).
+- **Exam Anchor:** Sugarcane and Paddy (Rice) are the primary commercial crops cultivated extensively in the fertile Terai belt of UP.
+- **Exam Anchor:** Bangar soil is the older alluvium situated above flood levels, containing calcareous deposits known as Kankar.
+- **Exam Anchor:** Khadar soil is the newer, highly fertile silt deposited annually in the river floodplains.
+- **Exam Anchor:** Govind Ballabh Pant Sagar on the Rihand River in Sonbhadra district is the largest artificial reservoir in India.
 
 ---
 

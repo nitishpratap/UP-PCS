@@ -15,7 +15,8 @@ Development of Education | Orientalist (प्राच्यवादी)–Ang
 
 ---
 
-## Consolidated — 31 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 31 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Charter Act, 1813** set aside **₹1 lakh a year** for education and also allowed missionary entry. How to spend the grant sparked the Orientalist–Anglicist fight.
 2. **Orientalists** wanted Sanskrit, Arabic and Persian (फ़ारसी) learning. **Anglicists** wanted English and Western science. The fight ran through the **Committee of Public Instruction** from **1823**.
@@ -97,9 +98,10 @@ Development of Education | Orientalist (प्राच्यवादी)–Ang
            1931: Indian Press (Emergency Powers) Act (Civil Disobedience suppression)
 ```
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -118,7 +120,7 @@ Development of Education | Orientalist (प्राच्यवादी)–Ang
 | MAO College | Muir Central College | Aligarh (Sir Syed) vs Allahabad — both in Archbold's career | एमएओ / म्योर |
 | Serampore College | Fort William College | Danish missionary college (Carey, 1818) vs Company civil-servant college (Wellesley, 1800) | सेरामपुर / फोर्ट विलियम |
 
----
+</details>
 
 ## Must-score facts — commission/act ↔ year ↔ core recommendation
 

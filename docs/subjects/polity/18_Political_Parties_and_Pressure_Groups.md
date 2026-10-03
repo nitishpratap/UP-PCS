@@ -26,7 +26,8 @@ National Parties | Regional Parties | Recognition (मान्यता) of Pol
 ---
 
 
-## Consolidated — 26 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 26 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The Constitution barely names parties. The main hooks are Article **19(1)(c)** (association), the **Tenth Schedule** (defection), and Article **324** (elections). Parties were largely **extra-constitutional** until the **52nd** Amendment.
 2. Registration of a political party (राजनीतिक दल) is under **section 29A** of the Representation of the People Act, 1951 (Registered Unrecognised Political Party). **Recognition** as a National or State party is under the Election Symbols Order **1968**. Do not merge the two steps.
@@ -55,9 +56,10 @@ National Parties | Regional Parties | Recognition (मान्यता) of Pol
 25. A hung Assembly does not automatically mean President’s Rule. The constitutional path is invitation based on likely majority, then floor test; Article **356** is a last resort, not the first step.
 26. Multi-party democracy can still produce stable majorities. “Multi-party” describes the system type; it does not mean every election must end in a coalition.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Term A | Term B | Core Difference | Hindi Terminology |
 |--------|--------|-----------------|-------------------|
@@ -69,7 +71,8 @@ National Parties | Regional Parties | Recognition (मान्यता) of Pol
 | **Coalition** | **Hung House** | Two or more parties **govern** vs **No** single party has a majority (may still produce a coalition) | गठबंधन / त्रिशंकु सदन |
 | **AITUC** | **CITU** | **CPI** (1920) vs **CPI(M)** (1970) | एटक (भाकपा) / सीटू (माकपा) |
 | **INTUC** | **BMS** | **Congress** (1947) vs **BJP/RSS** (1955) | इंटक (कांग्रेस) / बीएमएस (संघ) |
----
+
+</details>
 
 ## Must-score facts — recognition, symbols, defection
 

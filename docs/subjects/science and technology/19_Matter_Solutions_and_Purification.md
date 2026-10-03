@@ -26,7 +26,8 @@ States of Matter (Solid, Liquid, Gas, Plasma, Bose-Einstein Condensate) | Phase 
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Matter** is defined as anything possessing mass, inertia, and occupying three-dimensional physical space.
 2. The five recognized physical states of matter are: **Solid**, **Liquid**, **Gas**, **Plasma**, and **Bose-Einstein Condensate (BEC)**.
@@ -94,9 +95,10 @@ States of Matter (Solid, Liquid, Gas, Plasma, Bose-Einstein Condensate) | Phase 
     - **Foam**: Gas dispersed in Liquid (Soap froth, Whipped cream, Shaving lather).
     - **Solid Foam**: Gas dispersed in Solid (Pumice stone, Foam rubber, Bread).
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -109,7 +111,7 @@ States of Matter (Solid, Liquid, Gas, Plasma, Bose-Einstein Condensate) | Phase 
 | **Sublimation vs. Evaporation** | **Sublimation**: Direct endothermic phase change from **solid $\to$ gas**, completely bypassing the liquid phase. | **Evaporation**: Surface transition from **liquid $\to$ gas** occurring at temperatures below the boiling point. | **Starting State**: Sublimation begins with a solid (camphor, dry ice); evaporation strictly begins with a liquid (water evaporating from a lake). |
 | **Distillation vs. Fractional Distillation** | **Simple Distillation**: Used when boiling points of two miscible liquids differ by **$>25^\circ\text{C}$** (e.g., acetone $56^\circ\text{C}$ and water $100^\circ\text{C}$). | **Fractional Distillation**: Used when boiling points differ by **$<25^\circ\text{C}$**; employs a fractionating column filled with glass beads (e.g., crude petroleum fractions, liquid air). | **Boiling Point Gap ($\Delta T$)**: Simple distillation fails if $\Delta T < 25^\circ\text{C}$ due to vapor overlap; a fractionating column provides repeated vaporization-condensation cycles. |
 
----
+</details>
 
 ## Master Reference Tables
 

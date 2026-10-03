@@ -35,7 +35,8 @@
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A **constitutional body** is created by the Constitution itself. Pay is often **charged** on the Consolidated Fund, and removal is often on the lines of a **Supreme Court judge**.
 2. The **Election Commission (Article 324)** superintends elections to Parliament, State legislatures, the President, and the Vice-President. It does **not** elect the Speaker and does **not** run Panchayat or municipality polls (those belong to the **State Election Commission**).
@@ -66,9 +67,10 @@
 27. Joint State PSCs exist only when **two or more States** ask through a **Parliamentary** law. A single State cannot invent a JPSC by State Act alone.
 28. Constitutional bodies with “like SC judge” removal include the **CEC**, **UPSC** (संघ लोक सेवा आयोग) members (after SC inquiry), and the **CAG**. The **Attorney General** (महान्यायवादी) is the classic pleasure-doctrine contrast — easy removal, no impeachment.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
@@ -82,7 +84,7 @@
 | **338B NCBC** | **340 commission** | Standing constitutional body (2018) | Ad hoc inquiry (Kalelkar / Mandal) |
 | **338A NCST** | **339(1) commission** | Standing ST commission | Ad hoc Scheduled Areas / ST-welfare inquiry |
 
----
+</details>
 
 ## Must-score facts — EC, UPSC, CAG, FC
 

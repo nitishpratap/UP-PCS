@@ -11,37 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 10 — Local Government</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct Match / Focus | Hindi Terminology |
-|---|----|-----------------------|-------------------|
-| **Part IX** | **Part IXA** | Panchayats (73rd) vs Municipalities (74th) | भाग IX / IXA |
-| **24 April 1993** | **1 June 1993** | 73rd in force (National PR Day) vs 74th in force | 24 अप्रैल / 1 जून |
-| **Art. 40** | **Urban local bodies** | Village panchayats DPSP only — **no** urban Art. 40 | अनु. 40 (ग्राम पंचायत) |
-| **ECI** | **SEC (243K / 243ZA)** | Parliament/State Houses vs PRI+ULB poll body | निर्वाचन आयोग / राज्य निर्वाचन आयोग |
-| **SEC Removal** | **ECI Removal** | SEC removed like **HC judge** vs ECI removed like **SC judge** | उच्च न्यायालय जज समान निष्कासन |
-| **Gram Sabha** | **All residents** | **Electoral-roll voters** of that GP vs every resident | ग्राम सभा (पंजीकृत मतदाता) |
-| **Ashok Mehta** | **Balwant Rai Mehta** | **2-tier**, district first vs classic **3-tier** | अशोक मेहता (द्वि-स्तरीय) / बलवंत राय (त्रि-स्तरीय) |
-| **G.V.K. Rao** | **Dantwala** | **District** planning vs **block** planning | जीवीके राव (ज़िला) / दांताला (ब्लॉक) |
-| **11th Schedule** | **12th Schedule** | **29** rural subjects vs **18** urban subjects | 11वीं (29 विषय) / 12वीं (18 विषय) |
-| **DPC 4/5** | **MPC 2/3** | District plans (PRIs+ULBs) vs metro ≥10 lakh | जिला (4/5) / महानगर योजना समिति (2/3) |
-| **Age 21** | **Age 25** | Local body member age is **21** vs MLA/MP age is 25 | न्यूनतम आयु 21 वर्ष |
-| **Women 1/3** | **Women 50%** | Constitutional **floor** vs optional **State law** (e.g. UP, Bihar) | महिला आरक्षण (न्यूनतम 1/3 vs 50%) |
-| **Mayor** | **Municipal Commissioner** | Political/ceremonial head vs executive (IAS) | महापौर / नगर आयुक्त |
-| **NAC** | **Nagar Panchayat** | Notified Area Committee (**all nominated**) vs elected transitional ULB (243Q) | अधिसूचित क्षेत्र समिति / नगर पंचायत |
-| **Cantonment Board** | **74th municipality** | Defence / Station Commander vs constitutional ULB | छावनी बोर्ड / नगरपालिका |
-| **PESA 1996** | **Sixth Schedule** | Extends 73rd to **Fifth Schedule** areas vs autonomous councils do not need it | पेसा (5वीं अनुसूची) / 6वीं अनुसूची |
-| **64th / 65th Bills** | **73rd / 74th Acts** | Failed in RS vs passed & enacted local-government dual laws | 64वां विधेयक (विफल) / 73वां अधिनियम |
-| **Kshetra Panchayat** | **Panchayat Samiti** | UP intermediate name vs generic/other-State label | क्षेत्र पंचायत / पंचायत समिति |
-| **Part IXB co-ops** | **State cooperatives** | 97th insert; SC 2021 — IXB **inoperative for State co-ops** | भाग IXB (सहकारिता) |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ### 1. The Constitutional Skeleton
 
@@ -70,6 +40,30 @@ hide:
 | **Thungon (1988)** | Constitutional status, 5-year term, State Finance Commission. |
 | **Gadgil (1988)** | Drafted the skeleton which became the basis of the 73rd AM Act. |
 | **64th Bill (1989)** | Rajiv Gandhi (गांधी) govt bill passed Lok Sabha (लोकसभा) but **failed in Rajya Sabha (राज्यसभा)**. |
+
+---
+
+| A | B | Correct Match / Focus | Hindi Terminology |
+|---|----|-----------------------|-------------------|
+| **Part IX** | **Part IXA** | Panchayats (73rd) vs Municipalities (74th) | भाग IX / IXA |
+| **24 April 1993** | **1 June 1993** | 73rd in force (National PR Day) vs 74th in force | 24 अप्रैल / 1 जून |
+| **Art. 40** | **Urban local bodies** | Village panchayats DPSP only — **no** urban Art. 40 | अनु. 40 (ग्राम पंचायत) |
+| **ECI** | **SEC (243K / 243ZA)** | Parliament/State Houses vs PRI+ULB poll body | निर्वाचन आयोग / राज्य निर्वाचन आयोग |
+| **SEC Removal** | **ECI Removal** | SEC removed like **HC judge** vs ECI removed like **SC judge** | उच्च न्यायालय जज समान निष्कासन |
+| **Gram Sabha** | **All residents** | **Electoral-roll voters** of that GP vs every resident | ग्राम सभा (पंजीकृत मतदाता) |
+| **Ashok Mehta** | **Balwant Rai Mehta** | **2-tier**, district first vs classic **3-tier** | अशोक मेहता (द्वि-स्तरीय) / बलवंत राय (त्रि-स्तरीय) |
+| **G.V.K. Rao** | **Dantwala** | **District** planning vs **block** planning | जीवीके राव (ज़िला) / दांताला (ब्लॉक) |
+| **11th Schedule** | **12th Schedule** | **29** rural subjects vs **18** urban subjects | 11वीं (29 विषय) / 12वीं (18 विषय) |
+| **DPC 4/5** | **MPC 2/3** | District plans (PRIs+ULBs) vs metro ≥10 lakh | जिला (4/5) / महानगर योजना समिति (2/3) |
+| **Age 21** | **Age 25** | Local body member age is **21** vs MLA/MP age is 25 | न्यूनतम आयु 21 वर्ष |
+| **Women 1/3** | **Women 50%** | Constitutional **floor** vs optional **State law** (e.g. UP, Bihar) | महिला आरक्षण (न्यूनतम 1/3 vs 50%) |
+| **Mayor** | **Municipal Commissioner** | Political/ceremonial head vs executive (IAS) | महापौर / नगर आयुक्त |
+| **NAC** | **Nagar Panchayat** | Notified Area Committee (**all nominated**) vs elected transitional ULB (243Q) | अधिसूचित क्षेत्र समिति / नगर पंचायत |
+| **Cantonment Board** | **74th municipality** | Defence / Station Commander vs constitutional ULB | छावनी बोर्ड / नगरपालिका |
+| **PESA 1996** | **Sixth Schedule** | Extends 73rd to **Fifth Schedule** areas vs autonomous councils do not need it | पेसा (5वीं अनुसूची) / 6वीं अनुसूची |
+| **64th / 65th Bills** | **73rd / 74th Acts** | Failed in RS vs passed & enacted local-government dual laws | 64वां विधेयक (विफल) / 73वां अधिनियम |
+| **Kshetra Panchayat** | **Panchayat Samiti** | UP intermediate name vs generic/other-State label | क्षेत्र पंचायत / पंचायत समिति |
+| **Part IXB co-ops** | **State cooperatives** | 97th insert; SC 2021 — IXB **inoperative for State co-ops** | भाग IXB (सहकारिता) |
 
 ---
 
@@ -186,8 +180,9 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** 24 April is National Panchayati Raj Day, marking when the 73rd Amendment came into force (1993).
 - **Exam Anchor:** Gram Sabha (243A): Comprises registered voters of the village, not all residents. Powers are fixed by State law, not Central notification.
 - **Exam Anchor:** Three Tiers (243B): Village, intermediate, and district. Intermediate tier is optional if State population (जनसंख्या) is ≤ 20 lakh.
 - **Exam Anchor:** Election (243C / 243R): All seats at all levels are filled by direct election. The chairperson's election mode is decided by State law (usually indirect, but UP Pradhan is direct).
@@ -195,9 +190,6 @@ hide:
 - **Exam Anchor:** Term & Age (243E, 243F / 243U, 243V): 5-year term. Early dissolution (विघटन) requires elections within 6 months, remaining term only. Minimum age is 21 years (not 25).
 - **Exam Anchor:** State Finance Commission (243-I / 243Y): Constituted by Governor every 5 years to recommend (सिफारिश) tax sharing and grants.
 - **Exam Anchor:** State Election Commission (243K / 243ZA): Appointed by Governor. Runs PRI and ULB polls (not ECI). Removed like a High Court judge.
-- **Exam Anchor:** Article 243O / 243ZG: Bars courts from interfering in local electoral matters (similar to Art 329 for Parliament/Assemblies).
-
-</details>
 
 ---
 

@@ -21,7 +21,8 @@ Carbon Dioxide (CO₂) (कार्बन डाइऑक्साइड) | Met
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A greenhouse gas absorbs outgoing infrared radiation and traps heat in the atmosphere.
 2. Without the natural greenhouse effect (प्राकृतिक ग्रीनहाउस प्रभाव) Earth would average about **−18°C**. With it the surface averages about **+15°C**. **Joseph Fourier (1820s)** framed the idea.
@@ -54,9 +55,10 @@ Carbon Dioxide (CO₂) (कार्बन डाइऑक्साइड) | Met
 29. **China** is the largest CO₂ emitter; India ~3rd absolute (निरपेक्ष); **Bhutan** often carbon-negative.
 30. CO₂ is both **useful** (photosynthesis) and **harmful** (enhanced greenhouse effect (मानवजनित संवर्धित प्रभाव)) to life on Earth.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -65,7 +67,8 @@ Carbon Dioxide (CO₂) (कार्बन डाइऑक्साइड) | Met
 | **Methane (CH₄)** | **Nitrous Oxide (N₂O)** | GWP ~28–30 (residence ~12 yrs; rice paddies, enteric livestock, wetlands) vs GWP ~265–273 (residence ~114 yrs; chemical fertilizers, adipic acid) | मीथेन (धान/पशुपालन) / नाइट्रस ऑक्साइड (उर्वरक) |
 | **Sulfur Hexafluoride (SF₆)** | **Carbon Dioxide (CO₂)** | Most potent GHG known with GWP >23,500 (used in electrical switchgear) vs benchmark baseline GHG with GWP = 1 | सल्फर हेक्साफ्लोराइड (GWP 23,500) / CO₂ (मानक 1) |
 | **Kyoto Six GHGs** | **Montreal Phase-Out Gases** | CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ (later NF₃ added) targeted for climate reduction vs CFCs, Halons, CCl₄, HCFCs targeted for stratospheric ozone protection | क्योटो 6 ग्रीनहाउस गैसें / मॉन्ट्रियल ओजोन गैसें |
----
+
+</details>
 
 ## Must-score facts — GWP, shares, Kyoto basket
 

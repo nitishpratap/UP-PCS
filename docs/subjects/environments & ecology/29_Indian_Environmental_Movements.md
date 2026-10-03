@@ -21,7 +21,8 @@ Chipko (चिपको) | Appiko (अप्पिको) | Silent Valley (स�
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Bishnoi** (बिश्नोई) resistance at **Khejarli, Rajasthan (1730)** is led in memory by **Amrita Devi** (अमृता देवी) and the **363** martyrs who died protecting khejri trees. It is centuries older than Chipko.
 2. **Chipko (1973)** began at **Reni, Uttarakhand** (then Uttar Pradesh (उत्तर प्रदेश)). Leaders include **Sunderlal Bahuguna, Chandi Prasad Bhatt (चंडी प्रसाद भट्ट), and Gaura Devi**. Method: embracing trees against logging.
@@ -46,9 +47,10 @@ Chipko (चिपको) | Appiko (अप्पिको) | Silent Valley (स�
 21. Tree-hugging method travelled from Chipko north to Appiko south — same method family, different states and years.
 22. Match movement → year → state → leader before answering “which state” stems; state alone often decides the key.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -59,7 +61,8 @@ Chipko (चिपको) | Appiko (अप्पिको) | Silent Valley (स�
 | **Appiko Movement (1983)** | **Silent Valley (1970s)** | Forest conservation by tree embrace in Karnataka vs grassroots campaign stopping hydro-electric project in Kerala rainforest | अप्पिको (कर्नाटक) / शांत घाटी (केरल) |
 | **Tehri Dam Protest** | **Narmada Bachao Andolan** | High-seismic zone anti-dam fast by Sunderlal Bahuguna on Bhagirathi vs multi-state anti-submergence movement across MP/Gujarat/Maharashtra | टिहरी बांध विरोध / नर्मदा बचाओ |
 | **Gadgil Commission (2011)** | **Kasturirangan Committee (2013)** | WGEEP designated entire Western Ghats as ecologically sensitive (ESZ 1, 2, 3) vs HLWG recommending only 37% area as Eco-Sensitive Area (ESA) | गाडगिल समिति / कस्तूरीरंगन समिति |
----
+
+</details>
 
 ## Must-score facts — Chipko, Appiko, Narmada, Silent Valley
 

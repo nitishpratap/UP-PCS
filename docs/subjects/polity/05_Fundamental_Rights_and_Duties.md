@@ -18,7 +18,8 @@
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Part III (मौलिक अधिकार) (Articles 12–35)** holds Fundamental Rights. They are **justiciable**. Part III is called the **Magna Carta of India**. Originally there were **seven** groups; after the **44th (44वां संशोधन) Amendment (1978)** removed the Right to Property, **six** groups remain. Pre-1950 demand spine: **1895** Tilak (तिलक) Bill → **Nehru (नेहरू) Report (नेहरू रिपोर्ट) 1928** (नेहरू रिपोर्ट) → **Karachi 1931** (Patel).
 2. **Article 12** defines **State** for Part III (Union and State governments and legislatures, local authorities, and other authorities under the instrumentality test).
@@ -53,9 +54,10 @@
 31. **Articles 31A, 31B and 31C** save certain laws from Fundamental Rights attack: **31B** works with the **Ninth Schedule** (1st Amendment, 1951); **31C** protects laws giving effect to Articles **39(b)/(c)**. The **42nd** tried to stretch 31C to **all** DPSPs; *Minerva Mills* struck that stretch and kept the FR–DPSP balance as Basic Structure.
 32. **Articles 33–35** let Parliament restrict or modify Fundamental Rights for the armed forces and similar forces (**33**), allow indemnity related to martial law (**34**), and reserve certain Part III powers exclusively to Parliament (**35**).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -78,7 +80,7 @@
 
 ---
 
----
+</details>
 
 ## Must-score facts — FR groups, writs, DPSP, Duties
 

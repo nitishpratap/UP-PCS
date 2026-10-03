@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 4 — Union & Territory</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct Distinction | Hindi Terminology |
 |---|----|------|-------|
@@ -28,11 +26,7 @@ hide:
 | **SRC (Fazl Ali)** | **JVP / Dhar** | 1953: Linguistic-friendly but not 1 language=1 state vs 1948: Rejected language strictly | फजल अली आयोग |
 | **Renunciation** | **Deprivation** | Voluntary by citizen vs Centre’s order against regd/naturalised | त्याग vs से वंचित करना |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Article & Constitutional Tags
 
@@ -279,18 +273,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Part I (Articles 1–4): India, that is Bharat, is a Union of States. The term "Federation" is nowhere used. Names and territorial extent are in the First Schedule.
-- **Exam Anchor:** Territory of India under Article 1(3) comprises States, Union Territories, and such other territories as may be acquired (e.g., Puducherry, Goa (गोवा) initially).
 - **Exam Anchor:** Article 2 vs Article 3: Art 2 allows Parliament to admit or establish new States (foreign territory, e.g., Sikkim). Art 3 allows forming/altering existing States (boundary/name changes).
 - **Exam Anchor:** Article 4: Laws under Art 2 & 3 amend the First and Fourth Schedules by a simple majority; they are not constitutional amendments under Article 368 (अनुच्छेद 368).
 - **Exam Anchor:** Article 3 Procedure (प्रक्रिया): Bill needs prior President's recommendation. The concerned State Legislature's views are sought but are not binding. The State Legislature cannot itself change its name.
 - **Exam Anchor:** Acquisition vs Cession: Acquisition requires ordinary law. Cession of Indian territory requires a Constitutional Amendment (Berubari Union case, 1960).
 - **Exam Anchor:** Cession Amendments: 9th Amendment (9वां संशोधन) (1960) ceded Berubari to Pakistan. 100th Amendment (2015) executed India–Bangladesh Land Boundary Agreement (exchange of 162 enclaves).
 - **Exam Anchor:** Dhar Commission (June 1948) and JVP Committee (Dec 1948) both purely rejected immediate linguistic reorganisation, prioritizing national unity.
-
-</details>
+- **Exam Anchor:** Andhra State: Formed on 1 Oct 1953 following Potti Sriramulu's fast unto death. It was the first linguistic State. First capital was Kurnool (not Hyderabad (हैदराबाद)).
 
 ---
 

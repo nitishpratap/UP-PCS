@@ -11,9 +11,21 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 9 — Transport & Communication</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **13 Oct 2021** | **PM Gati Shakti** National Master Plan launched (not 2022) | Year trap with seven engines |
+| **17 Sep 2022** | **National Logistics Policy** — complements Gati Shakti | Scheme pair |
+| **Feb 2023** | Amrit Bharat: about **1,275** stations all-India; **149** of them in UP for modernisation | 149 = UP stations, not new lines |
+| **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | RVNL + first vertical-lift fact |
+| **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa (गोवा)) | New airline + airport pair |
+| **2024–26** | **Noida International (Jewar)** — UP’s new greenfield intl hub | UP airport CA |
+| **DFC** | Western Dadri (ददरी)–JNPT / Eastern Ludhiana–Dankuni — phased opening | Freight spine |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -37,24 +49,6 @@ hide:
 | Alappuzha | **Kerala** | TN | आलप्पुझा |
 | NH vs rural roads | NH ~**2%** length but ~**40%** traffic | Think NH = most km | राष्ट्रीय राजमार्ग |
 | Silchar spelling | EW corridor = **Silchar / Silcher** Assam | Mix with Shillong | सिलचर |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **13 Oct 2021** | **PM Gati Shakti** National Master Plan launched (not 2022) | Year trap with seven engines |
-| **17 Sep 2022** | **National Logistics Policy** — complements Gati Shakti | Scheme pair |
-| **Feb 2023** | Amrit Bharat: about **1,275** stations all-India; **149** of them in UP for modernisation | 149 = UP stations, not new lines |
-| **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | RVNL + first vertical-lift fact |
-| **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa (गोवा)) | New airline + airport pair |
-| **2024–26** | **Noida International (Jewar)** — UP’s new greenfield intl hub | UP airport CA |
-| **DFC** | Western Dadri (ददरी)–JNPT / Eastern Ludhiana–Dankuni — phased opening | Freight spine |
 
 ---
 
@@ -462,18 +456,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Transport moves people and goods; communication moves information. About 95% of India’s trade by volume moves by sea.
-- **Exam Anchor:** India’s first passenger train ran Mumbai–Thane in 1853. Indian Railways is organised into about 18 zones (older books still say 16).
-- **Exam Anchor:** Zone–HQ pairs: Northern Railway — New Delhi; North Eastern Railway — Gorakhpur (गोरखपुर); South Eastern Railway — Garden Reach, Kolkata (not Cuttack); East Central Railway — Hajipur; North Central Railway — Prayagraj (प्रयागराज); South Western Railway — Hubballi; East Coast Railway — Bhubaneswar.
-- **Exam Anchor:** The Western Dedicated Freight Corridor runs Dadri–JNPT. The Eastern Dedicated Freight Corridor runs Ludhiana–Dankuni.
 - **Exam Anchor:** Amrit Bharat is a station modernisation programme, not a new-lines scheme. About 1,275 stations were identified all-India; in February 2023, 149 Uttar Pradesh (उत्तर प्रदेश) stations were listed.
-- **Exam Anchor:** The new Pamban bridge is an RVNL project and India’s first vertical-lift railway sea bridge. Hubballi holds both the South Western Railway HQ and the August 2020 railway museum.
-- **Exam Anchor:** National Highways are only about 2% of road length but carry about 40% of traffic. Rural roads are most of the length and are linked to PMGSY.
-- **Exam Anchor:** The Golden Quadrilateral joins Delhi–Mumbai–Chennai–Kolkata (about 5,846 km). North–South is Srinagar–Kanyakumari (कन्याकुमारी); East–West is Porbandar–Silchar. They meet at Jhansi (झांसी).
-
-</details>
+- **Exam Anchor:** Bharatmala is a highway programme. Sagarmala is port-led. Do not swap the two. PMGSY (2000) = rural all-weather roads; PMBJP = highway BOT corridors.
+- **Exam Anchor:** Kushinagar (कुशीनगर) became an international airport on 24 June 2020. Cochin was India’s first solar-powered airport. Jewar is Noida International Airport.
+- **Exam Anchor:** PM Gati Shakti was launched on 13 October 2021 with the “seven engines” model. The National Logistics Policy (September 2022) complements it. The Blue Economy means ocean-based growth.
+- **Exam Anchor:** Incredible India is the MoT tourism brand; ITDC dates from 1966. Match hill stations carefully: Chakrata–UK, Haflong–Assam, Kalimpong–WB, Kufri–HP.
+- **Exam Anchor:** City of Lakes = Udaipur (उदयपुर) (not Jaisalmer). Pink City = Jaipur. Sabarimala = Kerala. UNESCO tourist set includes Champaner–Pavagarh, CST Mumbai, Mamallapuram and Konark (कोणार्क).
+- **Exam Anchor:** Srisailam = Nallamala; Omkareshwar (ओंकारेश्वर) and Pushkar are not on Satmala / Mahadeo in the IAS 2015 trap. Biligiriranga holds the standing Ranganatha note in Karnataka.
+- **Exam Anchor:** Konkan Railway links Maharashtra–Goa–Karnataka–Kerala along the west coast. HBJ / HVJ (Hazira–Bijaipur–Jagdishpur) is a classic gas-pipeline spine in coaching notes.
 
 ---
 

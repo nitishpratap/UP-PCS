@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 6 — Indian Dance</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -29,11 +27,7 @@ hide:
 | Folk | Tribal | Regional peasant festival vs adivasi ritual | लोक / आदिवासी |
 | Garba | Dandiya | Circle around lamp vs sticks | गरबा / डांडिया |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ## Must-score drill — eight classical dances, gharanas, markers
 
@@ -100,18 +94,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Sangeet Natak Akademi recognises eight classical dances. Sattriya (सत्रीय) of Assam was added in 2000. A list of seven has dropped Sattriya.
+- **Exam Anchor:** Garba of Gujarat entered the UNESCO Intangible Cultural Heritage list in December 2023. It is a folk form. It is not one of the eight classical dances.
+- **Exam Anchor:** Yamini Krishnamurthy, a leading exponent of Bharatanatyam and Kuchipudi, died on 3 August 2024.
+- **Exam Anchor:** Birju Maharaj (बिरजू) of the Lucknow Kathak gharana died in January 2022.
+- **Exam Anchor:** Kalbelia (कालबेलिया) of Rajasthan entered UNESCO ICH in 2010.
+- **Exam Anchor:** Chhau (छऊ) entered UNESCO ICH in 2010. It is still not on the Sangeet Natak Akademi list of eight.
+- **Exam Anchor:** Sankirtana (संकीर्तन) of Manipur entered UNESCO ICH in 2013. It is ritual music and dance. It is not a ninth classical dance.
 - **Exam Anchor:** Chhau (छऊ) is not one of those eight. It is UNESCO martial-folk. Some notes call it a ninth style. That is not the Akademi list.
 - **Exam Anchor:** Bharatanatyam (भरतनाट्यम्) belongs to Tamil Nadu.
-- **Exam Anchor:** Kathak (कथक) belongs to North India, with Lucknow in Uttar Pradesh as the main gharana.
-- **Exam Anchor:** Kathakali (कथकली) and Mohiniyattam (मोहिनीअट्टम्) both belong to Kerala.
-- **Exam Anchor:** Kuchipudi (कुचिपुड़ी) belongs to Andhra Pradesh.
-- **Exam Anchor:** Odissi (ओडिसी) belongs to Odisha.
-- **Exam Anchor:** Manipuri (मणिपुरी) belongs to Manipur.
-
-</details>
 
 ---
 

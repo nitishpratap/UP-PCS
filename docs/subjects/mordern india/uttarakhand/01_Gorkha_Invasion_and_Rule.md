@@ -31,7 +31,8 @@
 
 ---
 
-## Consolidated — 18 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 18 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Causes (Gorkha entry):** After Shah–Thapa consolidation in Nepal, Gorkha armies pushed west for trade routes, revenue villages, and ridge lines between the **Kali** and the **Yamuna**; fragmented **Chand (Kumaon)** and **Parmar (Garhwal)** polities invited successive campaigns.
 2. **Course — occupation:** Gorkhas take **Kumaon / Almora ≈ 1790**; Garhwal climax ≈ **1804** when **Pradyuman Shah** dies at **Khurbura / Dehradun**; **Amar Singh Thapa** is the western Gorkha commander west of the Kali; peak hill control roughly **1790–1815**.
@@ -52,9 +53,10 @@
 17. Gorkha cultural and military memory (forts, titles, begar) survives in coaching traps even after political rule ends in **1815–16**.
 18. Hold the 360° map: **Cause** (Nepal expansion + frontier friction) → **Course** (1790 / 1804 occupation → Gillespie–Nalapani → Ochterlony squeeze) → **Result** (Sugauli map + Tehri restoration).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Key |
 |------|-----|
@@ -66,7 +68,7 @@
 | Full Garhwal under British | Eastern Garhwal to Company; **Tehri** princely state for Sudarshan Shah |
 | Sugauli vs Segauli | Same treaty — **Sugauli** is the usual spelling; **Segauli** appears in older texts |
 
----
+</details>
 
 ## 1.1 Causes — why the Gorkhas entered the hills
 

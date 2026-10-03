@@ -11,9 +11,21 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Economy Topic 7 — Industry, Manufacturing, MSME and Infrastructure</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **2024** | **Singapore** as top FDI source in 2023–24 teaching; **India–Mauritius tax treaty** change shifted routing away from Mauritius. | A true + R explains A. |
+| **2023** | **PM Gati Shakti** seven engines correct; launch year is **2021**, not 2022. | Date trap. |
+| **2022** | **Make in India** launched **2014**; aims to encourage manufacturing in India and facilitate investment. | Both statements. |
+| **2021 (UKPCS)** | Latest MSME classification revision effective **2020** (1 July 2020). | Composite investment + turnover. |
+| **2025** | MSME investment / turnover ceilings raised again (**w.e.f. 1 April 2025**) — 2.5× investment and 2× turnover over the 2020 bands. | Stem year decides which ceiling set. |
+| **SSI committees** | Keyed order **Karve → Abid Hussain → Nayak → Kohli** (IV, II, I, III) — middle pair is contested vs some date lists; carry Karve first / Kohli last as safe anchors. | Chronology stem. |
+| **CSR / companies** | CSR statute depth lives in **Topic 11**; labour codes / Act chronology deepen in **Topic 12**. | Topic border. |
+
+---
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -36,24 +48,6 @@ hide:
 | **Singapore FDI source** | **Mauritius historic routing** | Recent top source vs treaty-shift story |
 | **Seven engines** | **Sixteen ministries on GIS** | Engine list vs portal integration count |
 | **Bhilai–Russia** | **Rourkela–Germany** | Steel collaboration countries |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2024** | **Singapore** as top FDI source in 2023–24 teaching; **India–Mauritius tax treaty** change shifted routing away from Mauritius. | A true + R explains A. |
-| **2023** | **PM Gati Shakti** seven engines correct; launch year is **2021**, not 2022. | Date trap. |
-| **2022** | **Make in India** launched **2014**; aims to encourage manufacturing in India and facilitate investment. | Both statements. |
-| **2021 (UKPCS)** | Latest MSME classification revision effective **2020** (1 July 2020). | Composite investment + turnover. |
-| **2025** | MSME investment / turnover ceilings raised again (**w.e.f. 1 April 2025**) — 2.5× investment and 2× turnover over the 2020 bands. | Stem year decides which ceiling set. |
-| **SSI committees** | Keyed order **Karve → Abid Hussain → Nayak → Kohli** (IV, II, I, III) — middle pair is contested vs some date lists; carry Karve first / Kohli last as safe anchors. | Chronology stem. |
-| **CSR / companies** | CSR statute depth lives in **Topic 11**; labour codes / Act chronology deepen in **Topic 12**. | Topic border. |
 
 ---
 
@@ -108,18 +102,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The secondary sector covers manufacturing, electricity, gas, water and construction in national-accounts teaching.
 - **Exam Anchor:** Industrialisation raises manufacturing’s share of output and employment and deepens capital goods capacity.
-- **Exam Anchor:** India’s industrial policy moved from Licence–Permit controls toward liberalisation after 1991, with later missions for manufacturing and startups.
 - **Exam Anchor:** Large-scale industry uses heavy capital and organised labour; SSI / MSME and cottage units are smaller, more labour-intensive and dispersed.
 - **Exam Anchor:** Cottage industries are household / artisan-based with little separation of dwelling and workplace.
 - **Exam Anchor:** MSME classification (from 1 July 2020) uses a composite investment + turnover criterion for manufacturing and services together — no separate mfg/services formula.
 - **Exam Anchor:** 2020 bands (still keyed in many stems): Micro ≤ ₹1 crore / ≤ ₹5 crore; Small ≤ ₹10 crore / ≤ ₹50 crore; Medium ≤ ₹50 crore / ≤ ₹250 crore.
 - **Exam Anchor:** From 1 April 2025: Micro ≤ ₹2.5 crore / ≤ ₹10 crore; Small ≤ ₹25 crore / ≤ ₹100 crore; Medium ≤ ₹125 crore / ≤ ₹500 crore — read the stem year before picking a ceiling.
-
-</details>
+- **Exam Anchor:** Karve Committee (1955) is the early Village and Small-Scale Industries committee of the plan era.
+- **Exam Anchor:** Make in India (25 September 2014) encourages companies to manufacture in India and facilitates investment; logo is a lion of cogs.
 
 ---
 

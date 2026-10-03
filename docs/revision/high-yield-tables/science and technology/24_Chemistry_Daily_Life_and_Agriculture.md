@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chemistry Topic 7 — Chemistry in Daily Life, Industry and Agriculture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (2024–2026)
+
+| Year | Event | Core Concept & Must-Score Significance |
+|------|--------------|-----------------------------------|
+| **2025–2026** | **Nano Urea & Nano DAP Expansion** | IFFCO commercialization of **Nano Urea** ($4\%\text{ N}$ w/v liquid nanoparticles, $20–50\text{ nm}$) and **Nano DAP**: Provides $>80\%$ nutrient uptake efficiency via foliar stomatal absorption, eliminating massive nitrogen leaching into groundwater and cutting conventional bagged urea consumption. |
+| **2024** | **UPPCS Prelims 2024** | Question on **Photography Salt vs Artificial Rain**: Highlighted the recurring pair: **Silver Bromide ($AgBr$)** is the light-sensitive photographic emulsion salt, whereas **Silver Iodide ($AgI$)** is the cloud-seeding agent for artificial rain. |
+| **2023** | **UPPCS / UKPCS Trends** | Persistent testing of **DDT (Dichlorodiphenyltrichloroethane)**: Identified strictly as a **non-biodegradable organochlorine pollutant** that undergoes severe trophic biomagnification in food chains (thinning avian eggshells). |
+| **2022** | **UPPCS Prelims 2022** | Re-tested **Crookes Glass**: Keyed as the specialty glass containing Cerium oxide ($CeO_2$) that sharply cuts off and **absorbs ultraviolet (UV) radiation** in sunglasses. Pyrex/Borosilicate was an incorrect distractor. |
+| **2021** | **UPPCS Prelims 2021** | Agricultural Herbicide: Keyed **Sodium Chlorate ($NaClO_3$)** and **2,4-D** as non-selective and selective weedicides/herbicides, respectively. |
+
+---
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -25,22 +35,6 @@ hide:
 | **Soil Liming vs. Soil Gypsum** | **Liming ($CaCO_3 / Ca(OH)_2$)**: Applied to remediate **Acidic soils ($\text{pH} < 6$)** by neutralizing excess hydronium ions. | **Gypsum ($CaSO_4 \cdot 2H_2O$)**: Applied to remediate **Alkaline / Sodic soils ($\text{pH} > 8.5$)** by displacing exchangeable $Na^+$. | **Target Soil Acidity/Alkalinity**: Use Lime for acid soils; Use Gypsum for alkaline/sodic soils. |
 | **Zinc Phosphide vs. Sodium Chlorate** | **Zinc Phosphide ($Zn_3P_2$)**: Ingested **rodenticide (rat poison)**; releases toxic phosphine gas ($PH_3$) in stomach. | **Sodium Chlorate ($NaClO_3$)**: Non-selective **herbicide (weed killer)**; desiccates and destroys invasive plants. | **Target Pest**: Zinc phosphide kills rats/rodents; Sodium chlorate kills weeds/plants. |
 | **1G Ethanol vs. 2G Ethanol** | **1G Ethanol**: Fermented from **edible food crops** (sugarcane molasses, corn, broken food grains). | **2G Ethanol**: Fermented from **inedible agricultural crop residues** (rice/wheat straw, bagasse, bamboo). | **Feedstock Source**: 1G uses food grains; 2G uses non-food agricultural stubble and crop waste. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (2024–2026)
-
-| Year | Event | Core Concept & Must-Score Significance |
-|------|--------------|-----------------------------------|
-| **2025–2026** | **Nano Urea & Nano DAP Expansion** | IFFCO commercialization of **Nano Urea** ($4\%\text{ N}$ w/v liquid nanoparticles, $20–50\text{ nm}$) and **Nano DAP**: Provides $>80\%$ nutrient uptake efficiency via foliar stomatal absorption, eliminating massive nitrogen leaching into groundwater and cutting conventional bagged urea consumption. |
-| **2024** | **UPPCS Prelims 2024** | Question on **Photography Salt vs Artificial Rain**: Highlighted the recurring pair: **Silver Bromide ($AgBr$)** is the light-sensitive photographic emulsion salt, whereas **Silver Iodide ($AgI$)** is the cloud-seeding agent for artificial rain. |
-| **2023** | **UPPCS / UKPCS Trends** | Persistent testing of **DDT (Dichlorodiphenyltrichloroethane)**: Identified strictly as a **non-biodegradable organochlorine pollutant** that undergoes severe trophic biomagnification in food chains (thinning avian eggshells). |
-| **2022** | **UPPCS Prelims 2022** | Re-tested **Crookes Glass**: Keyed as the specialty glass containing Cerium oxide ($CeO_2$) that sharply cuts off and **absorbs ultraviolet (UV) radiation** in sunglasses. Pyrex/Borosilicate was an incorrect distractor. |
-| **2021** | **UPPCS Prelims 2021** | Agricultural Herbicide: Keyed **Sodium Chlorate ($NaClO_3$)** and **2,4-D** as non-selective and selective weedicides/herbicides, respectively. |
 
 ---
 
@@ -165,7 +159,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Soaps are sodium or potassium salts of higher fatty acids (containing 12 to 18 carbon atoms) such as Stearic acid ($C{17}H{35}COOH$), Palmitic acid ($C{15}H{31}COOH$), and Oleic acid ($C{17}H{33}COOH$).
 - **Exam Anchor:** Saponification: The chemical alkaline hydrolysis of animal fats or vegetable oils (triglycerides) with aqueous sodium hydroxide ($NaOH$) or potassium hydroxide ($KOH$), producing soap and a commercially valuable byproduct, Glycerol (Glycerine, $CH2OH-CHOH-CH2OH$).
@@ -175,8 +169,6 @@ hide:
 - **Exam Anchor:** Why Soap Fails in Hard Water: Hard water contains dissolved calcium ($Ca^{2+}$) and magnesium ($Mg^{2+}$) ions. These cations react with soluble sodium soap molecules to precipitate an insoluble, sticky white curd called Scum (calcium/magnesium stearate):
 - **Exam Anchor:** Synthetic Detergents (Syndets): Sodium salts of long-chain alkyl hydrogen sulphates or alkylbenzene sulphonic acids (e.g., Sodium Lauryl Sulphate, Sodium Dodecylbenzene Sulphonate).
 - **Exam Anchor:** Why Detergents Work in Hard Water: The calcium and magnesium salts of alkyl sulphates and sulphonates are completely soluble in water; hence, synthetic detergents form abundant rich lather in both soft and hard water without producing insoluble scum.
-
-</details>
 
 ---
 
@@ -359,8 +351,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Non-narcotic applies only to union territories and not state jurisdictions.
-B. Non-narcotic (non-opioid) analgesics: Aspirin (Acetylsalicylic acid) and Paracetamol (Acetaminophen). Aspirin also inhibits platelet blood clotting (anti-thrombotic) and is administered to prevent heart attacks.
+A. Contrary to standard doctrine, Antipyretics: applies only to union territories and not state jurisdictions.
+B. Antipyretics: Drugs used to reduce elevated body temperature in fever (e.g., Paracetamol, Aspirin, Phenacetin).
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -370,7 +362,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** *Non-narcotic (non-opioid) analgesics*: **Aspirin** (Acetylsalicylic acid) and **Paracetamol** (Acetaminophen). Aspirin also inhibits platelet blood clotting (anti-thrombotic) and is administered to prevent heart attacks.
+- **Key Exam Association:** **Antipyretics**: Drugs used to reduce elevated body temperature in fever (e.g., **Paracetamol**, **Aspirin**, **Phenacetin**).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -378,9 +370,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Narcotic applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Antiseptics: applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. Narcotic (opioid) analgesics: Morphine, Codeine, and Heroin; derived from opium poppy (Papaver somniferum); relieve severe post-operative and cancer pain, but induce addiction and respiratory depression.
+C. Antiseptics: Chemical antimicrobial agents applied to living human and animal tissues (wounds, cuts, skin ulcers, mouth infections) to kill or inhibit microbial growth without damaging tissue cells.
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -389,7 +381,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** *Narcotic (opioid) analgesics*: **Morphine**, **Codeine**, and **Heroin**; derived from opium poppy (*Papaver somniferum*); relieve severe post-operative and cancer pain, but induce addiction and respiratory depression.
+- **Key Exam Association:** **Antiseptics**: Chemical antimicrobial agents applied to **living human and animal tissues** (wounds, cuts, skin ulcers, mouth infections) to kill or inhibit microbial growth without damaging tissue cells.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -397,10 +389,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Antipyretics: applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Dettol applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Antipyretics: Drugs used to reduce elevated body temperature in fever (e.g., Paracetamol, Aspirin, Phenacetin).
+D. Dettol Composition: The commercial household antiseptic Dettol is a blend of Chloroxylenol ($\approx 4.8\%$) and $\alpha$-Terpineol dissolved in pine oil and alcohol.
 
 <details>
 <summary>Show answer</summary>
@@ -408,7 +400,7 @@ D. Antipyretics: Drugs used to reduce elevated body temperature in fever (e.g., 
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Antipyretics**: Drugs used to reduce elevated body temperature in fever (e.g., **Paracetamol**, **Aspirin**, **Phenacetin**).
+- **Key Exam Association:** **Dettol Composition**: The commercial household antiseptic Dettol is a blend of **Chloroxylenol** ($\approx 4.8\%$) and **$\alpha$-Terpineol** dissolved in pine oil and alcohol.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -416,7 +408,7 @@ D. Antipyretics: Drugs used to reduce elevated body temperature in fever (e.g., 
 
 Which of the following is correct regarding this topic?
 
-A. Antiseptics: Chemical antimicrobial agents applied to living human and animal tissues (wounds, cuts, skin ulcers, mouth infections) to kill or inhibit microbial growth without damaging tissue cells.
+A. Bithionol: An organosulfur chlorinated compound added to toilet soaps to impart long-lasting deodorant and antiseptic properties.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -427,7 +419,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Antiseptics**: Chemical antimicrobial agents applied to **living human and animal tissues** (wounds, cuts, skin ulcers, mouth infections) to kill or inhibit microbial growth without damaging tissue cells.
+- **Key Exam Association:** **Bithionol**: An organosulfur chlorinated compound added to toilet soaps to impart long-lasting deodorant and antiseptic properties.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -435,8 +427,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Dettol applies only to union territories and not state jurisdictions.
-B. Dettol Composition: The commercial household antiseptic Dettol is a blend of Chloroxylenol ($\approx 4.8\%$) and $\alpha$-Terpineol dissolved in pine oil and alcohol.
+A. Contrary to standard doctrine, Tincture applies only to union territories and not state jurisdictions.
+B. Tincture of Iodine: An effective antiseptic solution consisting of $2–3\%\text{ elemental Iodine } (I2)$ dissolved in an alcohol-water mixture.
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -446,7 +438,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Dettol Composition**: The commercial household antiseptic Dettol is a blend of **Chloroxylenol** ($\approx 4.8\%$) and **$\alpha$-Terpineol** dissolved in pine oil and alcohol.
+- **Key Exam Association:** **Tincture of Iodine**: An effective antiseptic solution consisting of **$2–3\%\text{ elemental Iodine } (I_2)$** dissolved in an alcohol-water mixture.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -454,9 +446,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Bithionol: applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Iodoform applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Bithionol: An organosulfur chlorinated compound added to toilet soaps to impart long-lasting deodorant and antiseptic properties.
+C. Iodoform ($CHI3$): A yellow crystalline solid with a medicinal odor, historically used as an antiseptic dusting powder for septic surgical wounds due to the slow liberation of free iodine.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -465,6 +457,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Bithionol**: An organosulfur chlorinated compound added to toilet soaps to impart long-lasting deodorant and antiseptic properties.
+- **Key Exam Association:** **Iodoform ($CHI_3$)**: A yellow crystalline solid with a medicinal odor, historically used as an antiseptic dusting powder for septic surgical wounds due to the slow liberation of free iodine.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

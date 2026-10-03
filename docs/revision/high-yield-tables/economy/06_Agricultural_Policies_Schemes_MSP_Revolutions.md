@@ -11,9 +11,18 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Economy Topic 6 — Agricultural Policies, Schemes, MSP and Revolutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year / Paper | Critical fact | Trap to avoid |
+|---|---|---|
+| **2025 (UKPCS Pre)** | **Dr. Verghese Kurien** is the Father of the White Revolution. **NDDB** was established in **1965** at Anand, Gujarat. | Operation Flood was launched in **1970** — do not confuse NDDB founding (1965) with Flood launch (1970). |
+| **2024 (UPPCS Pre)** | CACP recommends MSP for **22 mandated crops** + **FRP** for sugarcane. | Sugarcane gets **FRP**, not MSP (Sugarcane Control Order, 1966). |
+| **2024 (UKPCS Pre)** | National Commission on Farmers (Swaminathan, 2006) recommended MSP at least **C₂ + 50%**. | Government currently fixes MSP at **1.5 × (A₂ + FL)**, not C₂ + 50%. |
+| **2025–2026 focus** | **PMGKAY** free foodgrain (5 kg/person/month for Priority Households; 35 kg/household/month for AAY) extended under NFSA through **December 2028**. | Older NFSA issue prices of ₹2/₹3 per kg were reduced to **₹0 (100% free)** under the PMGKAY integration. |
+
+---
 
 | A | B | Correct distinction |
 |---|----|---------------------|
@@ -35,21 +44,6 @@ hide:
 | PM-KISAN | PMFBY | Income support **₹6,000/year** vs crop **insurance** premiums 2% / 1.5% / 5%. |
 | e-NAM | APMC abolition | e-NAM **networks** mandis digitally; it does not abolish physical APMCs. |
 | Palm oil support | CACP MSP oilseeds | Palm uses **Viability Price** (NMEO-OP), not the 22-crop MSP list. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year / Paper | Critical fact | Trap to avoid |
-|---|---|---|
-| **2025 (UKPCS Pre)** | **Dr. Verghese Kurien** is the Father of the White Revolution. **NDDB** was established in **1965** at Anand, Gujarat. | Operation Flood was launched in **1970** — do not confuse NDDB founding (1965) with Flood launch (1970). |
-| **2024 (UPPCS Pre)** | CACP recommends MSP for **22 mandated crops** + **FRP** for sugarcane. | Sugarcane gets **FRP**, not MSP (Sugarcane Control Order, 1966). |
-| **2024 (UKPCS Pre)** | National Commission on Farmers (Swaminathan, 2006) recommended MSP at least **C₂ + 50%**. | Government currently fixes MSP at **1.5 × (A₂ + FL)**, not C₂ + 50%. |
-| **2025–2026 focus** | **PMGKAY** free foodgrain (5 kg/person/month for Priority Households; 35 kg/household/month for AAY) extended under NFSA through **December 2028**. | Older NFSA issue prices of ₹2/₹3 per kg were reduced to **₹0 (100% free)** under the PMGKAY integration. |
 
 ---
 
@@ -159,18 +153,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Green Revolution (from about 1966–69) brought semi-dwarf High Yielding Variety (HYV) wheat developed by Dr. Norman Borlaug at CIMMYT, Mexico.
-- **Exam Anchor:** In India the Green Revolution was pioneered by Dr. M.S. Swaminathan with Union Agriculture Minister C. Subramaniam.
-- **Exam Anchor:** The first wave concentrated on wheat and rice in Punjab, Haryana, and Western Uttar Pradesh.
-- **Exam Anchor:** Key early wheat lines included Lerma Rojo 64A, Sonora 64, and Indian derivatives Kalyan Sona and Sonalika.
-- **Exam Anchor:** The rice variety IR-8 (“Miracle Rice”) came from IRRI (Philippines) and entered India around 1966.
-- **Exam Anchor:** Green Revolution success rested on three pillars: HYV seeds, chemical fertilizers, and assured irrigation.
-- **Exam Anchor:** Later critiques stressed regional bias, crop bias toward wheat–rice, class inequality, groundwater stress, and chemical dependency.
-- **Exam Anchor:** The Evergreen Revolution idea, coined by Dr. M.S. Swaminathan, means productivity growth without ecological harm.
-
-</details>
+- **Exam Anchor:** Dr. M.S. Swaminathan was awarded the Bharat Ratna in 2024 (posthumous).
+- **Exam Anchor:** Operation Flood was launched in 1970 by the National Dairy Development Board (NDDB) on the Amul cooperative model.
+- **Exam Anchor:** NDDB was established in 1965 at Anand, Gujarat — five years before Operation Flood.
+- **Exam Anchor:** Palm oil is not among the 22 MSP crops; it uses a Viability Price under NMEO-OP.
+- **Exam Anchor:** Cost A₂ covers paid-out cash and kind costs (seed, fertilizer, pesticide, hired labour, fuel, irrigation, lease rent for leased-in land).
+- **Exam Anchor:** Cost A₂ + FL equals A₂ plus the imputed value of unpaid family labour.
+- **Exam Anchor:** Cost C₂ equals A₂ + FL plus imputed rent of owned land and interest on owned fixed capital (excluding land).
+- **Exam Anchor:** Fair and Remunerative Price (FRP) is the statutory floor for sugarcane under the Sugarcane (Control) Order, 1966, on CACP advice.
 
 ---
 

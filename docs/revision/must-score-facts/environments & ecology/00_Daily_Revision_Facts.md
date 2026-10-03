@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Daily Read — High-Yield Revision Facts (Environment & Ecology)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Asan Conservation Reserve** (Dehradun; confluence of Asan and Yamuna; **first Ramsar of Uttarakhand, Oct 2020**).
 2. **Jhilmil Jheel Conservation Reserve** (Haridwar, **2005**) is the state’s swamp-deer / barasingha wetland — **not** the Ramsar first (that is Asan).
@@ -49,8 +48,6 @@ hide:
 33. **Water Vapour**: Most abundant natural greenhouse gas contributing greatest share to natural greenhouse effect (~60%), but has short atmospheric residence time.
 34. **Carbon Dioxide (CO2)**: Primary anthropogenic driver of global climate change due to massive volume and century-long residence time.
 35. **Methane (CH4)**: Major sources: Paddy/rice fields, ruminant livestock enteric fermentation, landfills, wetlands, coal mining.
-
-</details>
 
 
 ---

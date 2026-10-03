@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 5 — Revolt of 1857</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -32,11 +30,7 @@ hide:
 | Jaipur / Chittor | Auwa | Not centres of 1857 vs Thakur Kushal Singh’s Rajasthan rising | जयपुर-चित्तौड़ / आउवा |
 | S.N. Sen | Sir Syed Ahmad Khan | Official historian (*Eighteen Fifty-Seven*, 1957) vs *Asbab-e-Baghawat-e-Hind* (1859) | एस.एन. सेन / सैयद अहमद खान |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Centre ↔ leader
 
@@ -172,7 +166,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Causes (long): Doctrine of Lapse (विलुप्ति सिद्धांत), Awadh annexation 1856 for misrule, heavy revenue, missionary fear, and sepoy service grievances. Immediate spark: greased cartridges.
 - **Exam Anchor:** Enfield path: In December 1856 the Company (कंपनी) decided to replace the old Brown Bess (ब्राउन बेस) musket with the Enfield rifle. Trial centres were Dum Dum, Ambala and Sialkot. Rumours of cow–pig fat on the cartridge spread from January 1857.
@@ -182,8 +176,6 @@ hide:
 - **Exam Anchor:** Course — centres: Delhi, Kanpur (कानपुर), Lucknow (लखनऊ), Jhansi (झांसी), Bareilly, Bihar (Jagdishpur) and parts of Central India formed the main belt. Punjab, Madras, Bombay and Hyderabad (हैदराबाद) stayed mostly quiet or loyal. Chittor (चित्तौड़) and Jaipur were not revolt centres; Auwa (Rajasthan) and Assam had local risings.
 - **Exam Anchor:** Results: the Government of India Act, 1858 ended Company rule (कंपनी शासन); the Queen’s Proclamation was read at Allahabad (इलाहाबाद) on 1 November 1858; Canning became first Viceroy (कैनिंग); the army (सेना) was reorganised by the Peel Commission.
 - **Exam Anchor:** Delhi: Bahadur Shah Zafar (बहादुर शाह ज़फ़र) was the symbolic emperor; Bakht Khan (बख़्त खान) organised the army and received the title Saheb-e-Alam Bahadur. Do not swap the two roles.
-
-</details>
 
 ---
 

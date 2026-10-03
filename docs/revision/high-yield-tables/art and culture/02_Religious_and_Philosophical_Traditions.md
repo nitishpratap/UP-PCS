@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 2 — Religious and Philosophical Traditions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -33,11 +31,7 @@ hide:
 | Wujud | Shuhud | Unity of being (Ibn Arabi) vs unity of witness (Sirhindi) | वजूद / शुहूद |
 | Tangible WH | Intangible ICH | Monument (Qutub) vs living rite (Kumbh, Yoga) | मूर्त / अमूर्त |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Astika six (accept Veda)
 
@@ -110,18 +104,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The six Astika (आस्तिक) schools that accept the Veda as pramana (प्रमाण) are Nyaya–Gautama (न्याय - गौतम), Vaisheshika–Kanada (वैशेषिक - कणाद), Samkhya–Kapila (सांख्य - कपिल), Yoga–Patanjali (योग - पतंजलि), Mimamsa–Jaimini (मीमांसा - जैमिनि), and Vedanta–Badarayana (वेदांत - बादरायण).
-- **Exam Anchor:** The usual Nastika (नास्तिक) set is Charvaka (चार्वाक), Buddhism (बौद्ध धर्म), and Jainism (जैन धर्म). Add Ajivika (Makkhali Gosala) [आजीवक - मक्खलि गोसाल] when fate / niyati (नियति) appears in options.
+- **Exam Anchor:** Maha Kumbh at Prayagraj ran from 13 January to 26 February 2025, about 45 days.
+- **Exam Anchor:** Kumbh Mela (कुंभ मेला) is on the UNESCO Intangible Heritage list from 2017. It is not a tangible monument.
 - **Exam Anchor:** Nyaya (न्याय) is logic and epistemology with four pramanas (प्रमाण). Vaisheshika (वैशेषिक) is atomism (paramanu / परमाणु). This Gautama is not the Buddha.
 - **Exam Anchor:** Samkhya (सांख्य) is dualist Purusha–Prakriti (पुरुष-प्रकृति) with 25 tattvas (तत्त्व) and is classically nirishvara (निरीश्वरवाद). Yoga (योग) is its practical partner and adds Ishvara (ईश्वर).
 - **Exam Anchor:** Ashtanga Yoga (अष्टांग योग) order is yama (यम), niyama (नियम), asana (आसन), pranayama (प्राणायाम), pratyahara (प्रत्याहार), dharana (धारणा), dhyana (ध्यान), samadhi (समाधि).
 - **Exam Anchor:** Purva Mimamsa (पूर्व मीमांसा - Jaimini) treats Vedic ritual (कर्मकाण्ड). Uttara Mimamsa / Vedanta (उत्तर मीमांसा / वेदांत - Badarayana) treats the Upanishads. Kapila is not Vedanta.
 - **Exam Anchor:** Shankara taught Advaita (अद्वैतवाद). Ramanuja taught Vishishtadvaita (विशिष्टद्वैतवाद). Madhva taught Dvaita (द्वैतवाद). Nimbarka taught Dvaitadvaita (द्वैताद्वैतवाद). Vallabha taught Shuddhadvaita (शुद्धाद्वैतवाद).
-- **Exam Anchor:** Adi Shankara established four cardinal monastic centres (mathas) associated with the four Vedas: Sringeri (South — Yajurveda), Dwaraka (West — Samaveda), Puri (पुरी) (East — Rigveda), and Jyotirmath / Badrinath (North — Atharvaveda).
-
-</details>
+- **Exam Anchor:** Theravada (थेरवाद) aims at the arhat and uses Pali. Mahayana (महायान) aims at the Bodhisattva and uses Sanskrit.
 
 ---
 

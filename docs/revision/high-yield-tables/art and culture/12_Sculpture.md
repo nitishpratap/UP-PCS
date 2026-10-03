@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 12 — Sculpture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -26,11 +24,7 @@ hide:
 | Khajuraho | Konark | Chandela mithuna vs Ganga Sun-chariot wheels | खजुराहो / कोणार्क |
 | Chola bronze | Dhokra | Temple lost-wax utsava murti vs tribal bell-metal | चोल / ढोकरा |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Timeline / schools
 
@@ -101,18 +95,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Indian sculpture timeline: Indus (सिंधु) bronze and terracotta (पकी मिट्टी) → Mauryan polish (मौर्य) → Bharhut (भरहुत) / Sanchi (सांची) relief → Kushan (कुषाण) Gandhara + Mathura → Amaravati → Gupta Sarnath (गुप्त) → temple walls → Chola (चोल) bronze (चोल).
 - **Exam Anchor:** Gandhara school uses grey schist and Greco-Roman / Hellenistic modelling in the north-west. It is not an Uttar Pradesh school.
 - **Exam Anchor:** Mathura (मथुरा) school uses red or spotted sandstone, indigenous modelling, and sits in Uttar Pradesh. It cuts Buddha (बुद्ध) and Tirthankara images.
 - **Exam Anchor:** Amaravati school uses limestone narrative panels in Andhra. It is free narrative relief more than Mathura’s freestanding icons.
 - **Exam Anchor:** Gupta Sarnath Buddha (सारनाथ) shows dharmachakra (धर्मचक्र) mudra, a transparent robe, and spiritual calm. It differs from heavy-volume Kushan Mathura figures.
-- **Exam Anchor:** Early Buddhist art is aniconic (अनैकोनिक) (wheel, tree, empty throne). The human Buddha image becomes common from the Kushan (कुषाण) age.
-- **Exam Anchor:** Key mudras: dharmachakra (teaching), bhumisparsha (भूमिसपर्श) (earth-touching), abhaya (अभय) (fearlessness), dhyana (ध्यान) (meditation), and varada (वरद) (boon).
-- **Exam Anchor:** Landmark temple sculpture traditions: Khajuraho (खजुराहो) (sensuous Chandela (चंदेल) mithuna couples on Nagara (नागर) sandstone), Konark (कोणार्क) Sun Temple (conceived as Surya's chariot carved with 24 wheels and pulled by 7 horses), Mahabalipuram (महाबलिपुरम्) (monumental Pallava (पल्लव) open-air granite reliefs such as Arjuna's Penance), and Hoysala temples (intricate, jewel-like chloritic schist/soapstone carvings).
-
-</details>
+- **Exam Anchor:** Mauryan polish is the mirror Chunar surface. Gupta finish (गुप्त) is smooth idealism, not the same mirror polish.
+- **Exam Anchor:** Nataraja holds damaru (डमरु) and fire, shows abhaya and gajahasta, places the right foot on Apasmara (अपस्मार), and stands in a prabhamandala (प्रभामंडल).
+- **Exam Anchor:** Lion Capital of Sarnath: four (चार) lions back to back; abacus with horse, bull, elephant, and lion plus dharmachakra. It became the National Emblem in 1950.
+- **Exam Anchor:** Bharhut is Shunga (शुंग), not Mauryan. Early Sanchi remains largely aniconic before later iconic (साकार) additions.
 
 ---
 

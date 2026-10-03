@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 21 — Species & Ecology (पारिस्थितिकी)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Neritic Marine Zone** | **Oceanic (Pelagic) Zone** | Shallow coastal marine zone extending from low-tide mark to the edge of the continental shelf (depth up to 200 m) with abundant light and high marine productivity vs deep open marine waters beyond the continental shelf edge where nutrients and light drop precipitously | नेरिटिक मंडल (महाद्वीपीय मग्नतट) / खुला महासागरीय मंडल (पेलाजिक) |
 | **Zooxanthellae** | **Coral Polyp** | Photosynthetic single-celled dinoflagellate microalgae living symbiotically within coral tissues providing up to 90% of their organic nutrients vs tiny, soft-bodied marine invertebrate animal belonging to Phylum Cnidaria that secretes a hard calcium carbonate skeleton | ज़ूजैंथेली (सहजीवी प्रकाश-संश्लेषी शैवाल) / प्रवाल पॉलीप (कैल्शियम स्रावी जंतु) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Lists / wetlands
 
@@ -156,18 +150,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** India’s Red Data Book is a national catalogue — BSI for plants, ZSI for animals (both Kolkata). The IUCN Red List is the global extinction-risk system from IUCN (Gland).
-- **Exam Anchor:** IUCN has nine categories: EX, EW, CR, EN, VU, NT, LC, DD, NE. Risk order puts CR above EN above VU among living threatened tiers.
 - **Exam Anchor:** Threatened on IUCN means VU + EN + CR only — not “Endangered” alone.
-- **Exam Anchor:** IUCN assesses extinction risk. CITES (साइट्स) regulates international wildlife trade (पण्याध्यक्ष). Different institutions, different jobs.
 - **Exam Anchor:** Ramsar (रामसर) (1971) is the wetlands treaty under Wise Use. World Wetlands Day (विश्व आर्द्रभूमि दिवस) is 2 February (रामसर).
-- **Exam Anchor:** Uttar Pradesh (उत्तर प्रदेश) Ramsar examples include Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga (गंगा), Bakhira, and Haiderpur. Rudrasagar is Tripura; Sultanpur is Haryana — not UP.
 - **Exam Anchor:** Mangroves are salt-tolerant coastal forests with pneumatophores (वात-मूल) and often viviparous seeds. Sundarbans (सुंदरबन) is the classic largest mangrove belt; Rhizophora and Avicennia are common genera.
 - **Exam Anchor:** MISHTI is the Union Budget 2023–24 mangrove restoration push. Do not date it as 2019.
-
-</details>
+- **Exam Anchor:** Coral reefs are built from calcium-carbonate skeletons and live with symbiotic zooxanthellae (ज़ूजैंथेली). Bleaching happens when heat stress expels the algae.
+- **Exam Anchor:** Grasslands are grass-dominated systems maintained by fire and grazing. UP’s Terai (तराई) is a foothill grassland–forest mosaic; Dudhwa (दुधवा) holds barasingha (swamp deer). Kaziranga (काजीरंगा) is the floodplain grassland rhino fact.
+- **Exam Anchor:** ZSI (Zoological Survey of India) publishes the Red Data Book of Indian Animals.
+- **Exam Anchor:** Red Data Book ≠ IUCN Red List: Red Data Book is national documentation; IUCN Red List is a global standardised assessment (EX through NE).
 
 ---
 

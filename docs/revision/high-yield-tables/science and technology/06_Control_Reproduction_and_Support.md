@@ -11,9 +11,17 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 6 — Nervous System, Hormones, Reproduction and Support</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Event / Fact | Must-Score Fact |
+|------|-------------|----------------------|
+| **25 May** | **World Thyroid Day** observed annually on **25 May** to promote awareness of thyroid health, iodine deficiency goitre, and Hashimoto's thyroiditis. | Thyroid hormones ($T_3$ and $T_4$) regulate basal metabolic rate (BMR); require iodine for synthesis. |
+| **Still Current** | **Saheli (Centchroman / Ormeloxifene)**: The world's first **non-steroidal, non-hormonal, once-a-week oral contraceptive pill**. | Developed by Indian scientists at **Central Drug Research Institute (CDRI), Lucknow**; incorporated into the National Family Planning Programme as 'Chhaya'. |
+| **PCPNDT Act** | Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act, **1994** (enacted to prohibit prenatal sex determination via amniocentesis or ultrasonography). | Strictly penalises sex-selective abortions to correct adverse juvenile sex ratio. |
+
+---
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -29,20 +37,6 @@ hide:
 | **Ball-and-Socket Joint**| **Hinge Joint** | Multiaxial movement in all planes (shoulder, hip) vs uniaxial movement in one plane like a door (elbow, knee) | कंदुक-खल्लिका / कब्जा संधि |
 | **Sympathetic System** | **Parasympathetic System**| "Fight or Flight" (dilates pupil, speeds heart, stops gut) vs "Rest and Digest" (constricts pupil, slows heart, aids gut) | अनुकंपी / परानुकंपी तंत्र |
 | **Corpus Luteum** | **Graafian Follicle** | Endocrine yellow body secreting progesterone after ovulation vs ovarian follicle maturing egg and secreting estrogen before ovulation | कॉर्पस ल्यूटियम / ग्रैफ़ियन फॉलिकल |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Event / Fact | Must-Score Fact |
-|------|-------------|----------------------|
-| **25 May** | **World Thyroid Day** observed annually on **25 May** to promote awareness of thyroid health, iodine deficiency goitre, and Hashimoto's thyroiditis. | Thyroid hormones ($T_3$ and $T_4$) regulate basal metabolic rate (BMR); require iodine for synthesis. |
-| **Still Current** | **Saheli (Centchroman / Ormeloxifene)**: The world's first **non-steroidal, non-hormonal, once-a-week oral contraceptive pill**. | Developed by Indian scientists at **Central Drug Research Institute (CDRI), Lucknow**; incorporated into the National Family Planning Programme as 'Chhaya'. |
-| **PCPNDT Act** | Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act, **1994** (enacted to prohibit prenatal sex determination via amniocentesis or ultrasonography). | Strictly penalises sex-selective abortions to correct adverse juvenile sex ratio. |
 
 ---
 
@@ -197,18 +191,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The structural and functional unit of the nervous system is the Neuron; adult neurons reside permanently in the quiescent $G0$ phase of the cell cycle and do not divide (lack active centrioles).
-- **Exam Anchor:** A typical neuron consists of a Cell Body (Soma/Cyton) containing Nissl's granules, short branched receptive Dendrites, and a single long conducting Axon terminating in synaptic knobs; myelin sheath in the peripheral nervous system is secreted by Schwann cells.
-- **Exam Anchor:** Two neurons communicate across a microscopic gap called a Synapse via chemical messengers called Neurotransmitters (e.g. Acetylcholine, Noradrenaline, Dopamine, GABA); electrical sparks do not jump across ordinary synapses.
-- **Exam Anchor:** The central nervous system (CNS) is wrapped in three protective fibro-vascular membranes called Meninges: outer tough Duramater, middle web-like Arachnoid mater, and inner delicate vascular Piamater (Mnemonic: DAP); space between arachnoid and piamater is filled with shock-absorbing Cerebrospinal Fluid (CSF).
 - **Exam Anchor:** Cerebrum: Largest part of the human brain (~80% of brain mass); seat of intelligence, conscious thought, memory, reasoning, voluntary motor control, speech (Broca's area), and sensation; right and left cerebral hemispheres are joined internally by a broad transverse curved band of white nerve fibres called the Corpus Callosum.
 - **Exam Anchor:** Hypothalamus: Situated at the base of the diencephalon; acts as the body's Thermostat (regulates core body temperature); controls hunger, thirst, satiety, sleep-wake cycles, emotional responses (anger, fear, pleasure via the limbic system), and regulates the pituitary gland via releasing and inhibiting neurohormones.
 - **Exam Anchor:** Cerebellum: Second largest part of the brain; displays an internal tree-like branching pattern of white matter called Arbor Vitae ("Tree of Life"); coordinates voluntary muscular contractions, maintains posture, and controls physical equilibrium and body balance; alcohol intoxication temporarily depresses the cerebellum, causing muscular uncoordination and a staggering gait.
 - **Exam Anchor:** Medulla Oblongata: Continues inferiorly into the spinal cord; houses vital autonomous reflex centres controlling respiratory rhythm, cardiac rate, arterial blood pressure (vasomotor centre), as well as protective reflexes: swallowing, coughing, sneezing, vomiting, and salivation.
-
-</details>
+- **Exam Anchor:** Endocrine Glands (Ductless Glands): Secretions are poured directly into circulating blood; target distant organs; e.g. Pituitary, Thyroid, Parathyroid, Adrenal, Pineal, Thymus.
+- **Exam Anchor:** Exocrine Glands: Possess tubular ducts that deliver secretions locally onto an epithelial surface; e.g. Salivary, Sweat, Sebaceous, Lacrimal (tear), Mammary glands.
+- **Exam Anchor:** Heterocrine / Mixed Glands: The Pancreas acts as both an exocrine gland (acinar cells secrete digestive enzymes via the pancreatic duct) and an endocrine gland (Islets of Langerhans secrete insulin and glucagon into blood).
+- **Exam Anchor:** The Pituitary Gland (Hypophysis / Master Gland):
 
 ---
 

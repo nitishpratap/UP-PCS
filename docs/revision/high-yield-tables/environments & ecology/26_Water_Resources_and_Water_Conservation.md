@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 26 — Water Resources & Water Conservation</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Central Ground Water Board (CGWB)** | **Central Ground Water Authority (CGWA)** | Apex national scientific multidisciplinary organization under Ministry of Jal Shakti assessing groundwater resources, aquifer mapping, and monitoring vs statutory regulatory authority constituted under Section 3(3) of EPA 1986 issuing mandatory NOCs and regulating industrial groundwater extraction | केंद्रीय भूजल बोर्ड (CGWB, वैज्ञानिक आकलन) / केंद्रीय भूजल प्राधिकरण (CGWA, कानूनी नियमन) |
 | **Jal Jeevan Mission (JRM / Har Ghar Jal)** | **Atal Bhujal Yojana (ABHY)** | Centrally sponsored flagship mission launched in August 2019 ensuring 55 lpcd functional household tap connections (FHTC) to all rural households by 2024 vs World Bank assisted community-led groundwater management scheme focused on water-stressed districts across 7 states | जल जीवन मिशन (हर घर जल, नल कनेक्शन) / अटल भूजल योजना (सामुदायिक भूजल प्रबंधन) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Shares / policy
 
@@ -151,18 +145,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** World water rough shares: oceans about 97.2%, ice/glaciers about 2%, groundwater about 0.6%, rivers about 0.01%. Descending order is Oceans > Polar ice > Groundwater > Rivers.
-- **Exam Anchor:** India holds roughly 4% of world freshwater for about 18% of world population (जनसंख्या). Per-capita availability around 1400 m³ marks water stress in many readings.
-- **Exam Anchor:** The water cycle is driven primarily by solar radiation through evaporation from oceans, lakes, and rivers. Humidity is measured with a hygrometer or psychrometer.
-- **Exam Anchor:** Amount of rainfall depends strongly on humidity in the atmosphere — more vapour means greater chance of cloud and rain when temperature falls.
-- **Exam Anchor:** Many transplanted seedlings fail because most root hairs are lost during transplantation; root hairs absorb water and mineral nutrients.
 - **Exam Anchor:** Freshwater is not a biotic resource. Biotic resources come from living/organic material (forests, animals, fish); coal and petroleum are classed biotic because they form from decayed organic matter.
 - **Exam Anchor:** World Water Day (विश्व जल दिवस) = 22 March (UN observance from 1993; UN-Water since 2003). Theme 2024 = Leveraging Water for Peace (also taught as prosperity and peace).
 - **Exam Anchor:** Rajendra Singh (“Jal Purush” / Waterman of India; Tarun Bharat Sangh, Alwar) won Ramon Magsaysay 2001 and Stockholm Water Prize 2015.
-
-</details>
+- **Exam Anchor:** IWRM follows Dublin Principles (1992) and treats the river basin as the planning unit. National Water Policy 2012 priority language puts drinking first, then ecology (पारिस्थितिकी), agriculture, and industry.
+- **Exam Anchor:** National Water Mission (NAPCC, from 30 June 2008) aims at conservation, less wastage, equitable distribution via IWRM. Five goals include public water database + climate impact assessment, citizen/state conservation action, focus on over-exploited areas, +20% water-use efficiency, and basin-level IWRM. Urban (नगरीय) wastewater recycling and ocean-water tech for coastal cities fit NWM; Himalayan–peninsular river linking and free borewell reimbursement do not.
+- **Exam Anchor:** Rainwater harvesting captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu (नाडु)’s mandatory RWH (2003) is a state flagship fact.
+- **Exam Anchor:** Yamuna (यमुना) Action Plan launched 1993 (YAP-I to ~2003; YAP-II Dec 2004; YAP-III 7 May 2016 under Namami Gange).
+- **Exam Anchor:** Ganges River Dolphin (Platanista gangetica) = National Aquatic Animal (2009); dams, nets, agrochemicals threaten it — crocodile increase is not a standard decline cause in UPSC (संघ लोक सेवा आयोग) framing.
 
 ---
 

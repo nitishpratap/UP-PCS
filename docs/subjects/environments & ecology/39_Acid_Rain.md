@@ -21,7 +21,8 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Acid rain** means acidic deposition with **pH below 5.6**.
 2. Normal rain (सामान्य वर्षा) is already slightly acidic near **pH 5.6** because CO₂ forms weak carbonic acid. It is **not** pH 7.
@@ -52,9 +53,10 @@ Acid Rain | Causes | Effects | Prevention
 27. Secondary pollutants H₂SO₄ and HNO₃ form in the atmosphere from primary SO₂ and NOx.
 28. Acid rain is **not** “rain only”; dry deposition counts too.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -63,7 +65,8 @@ Acid Rain | Causes | Effects | Prevention
 | **Wet Acid Deposition** | **Dry Acid Deposition** | Acidic compounds deposited on Earth via rain, fog, sleet, or snow vs acidic gases, sulfate, and nitrate particles settling directly on soil and buildings without precipitation | आर्द्र निक्षेपण (वर्षा/कोहरा) / शुष्क निक्षेपण (धूल/गैस कण) |
 | **Marble Cancer** | **Eutrophication** | Yellowing and pitting of calcium carbonate monuments (Taj Mahal) reacting with sulfuric acid to form soluble gypsum vs excess nutrient loading in water bodies causing algal blooms | संगमरमर कैंसर (ताजमहल क्षरण) / सुपोषण (शैवाल प्रस्फुटन) |
 | **Gothenburg Protocol (1999)** | **Montreal Protocol (1987)** | UNECE protocol to abate acidification, eutrophication, and ground-level ozone (SO₂, NOx, VOCs, NH₃) vs UNEP protocol phasing out ozone-depleting chlorofluorocarbons | गोथेनबर्ग प्रोटोकॉल (अम्लीकरण) / मॉन्ट्रियल प्रोटोकॉल (ओजोन) |
----
+
+</details>
 
 ## Must-score facts — pH, Taj Trapezium, protocols
 

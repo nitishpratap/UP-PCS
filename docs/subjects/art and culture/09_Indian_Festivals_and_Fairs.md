@@ -25,7 +25,8 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 ---.
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The four **Kumbh** sites are **Prayagraj** (प्रयागराज), **Haridwar** (हरिद्वार), **Nashik**, and **Ujjain** (उज्जैन). Their rivers are Ganga–Yamuna–Saraswati, Ganga, Godavari, and Shipra. **Pushkar** is not a Kumbh site.
 2. **Kumbh Mela** is on the UNESCO Intangible Heritage list from **2017. Magh Mela** is the annual bathing fair at Prayagraj; it is not the twelve-year mega Kumbh at every site.
@@ -54,9 +55,10 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 25. **Kullu Dussehra** is Himachal. **Ratha Yatra** of Puri is Odisha. **Ganesh Chaturthi** (गणेश चतुर्थी) is Maharashtra’s flagship. **Hemis** is the Ladakh monastery festival.
 26. These are **not** Uttar Pradesh festival homes: Pushkar Fair (Rajasthan), Pushkar Kumbh 2025 (Uttarakhand), Surajkund (Haryana), Onam (Kerala), Hornbill (Nagaland), and Tansen Samaroh (Gwalior).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -73,8 +75,7 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 | Folk | Tribal | Peasant/community (Braj Holi) vs adivasi ritual (Sarhul) | लोक / आदिवासी |
 | Eid-ul-Fitr | Eid-ul-Adha | End of Ramadan vs Bakrid / sacrifice | ईद उल फितर / बकरीद |
 
----
-
+</details>
 
 ## Must-score facts — Kumbh, harvest, UNESCO, UP
 

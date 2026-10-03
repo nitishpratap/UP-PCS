@@ -11,79 +11,81 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 11 — Swadeshi (स्वदेशी) & Revolutionary (क्रांतिकारी) Movement</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Partition of Bengal** was announced in **July 1905** and became effective on **16 October 1905**. The new province was **East Bengal and Assam** with capital at **Dacca**.
 2. **Causes:** Curzon (कर्ज़न) claimed administrative size; nationalists read **divide and rule** aimed at Hindu–Muslim and Calcutta politics.
 3. **Course:** **16 October** was a mourning day with **Rakhi** (राखी) unity and Tagore’s ***Amar Sonar Bangla***; protest fused at once with Swadeshi and boycott (बहिष्कार).
 4. **Results:** Mass protest and underground radicalisation followed; Partition was **annulled in 1911** at the Delhi Durbar, and the capital moved **Calcutta → Delhi**.
-5. The **Lucknow (लखनऊ) Pact (लखनऊ पैक्ट) is 1916**, not 1911. Do not merge it with the annulment package.
-6. The **Boycott Resolution** was passed on **7 August 1905** at Calcutta Town Hall. Swadeshi means use Indian goods; boycott means reject British goods and institutions.
-7. The **National Council of Education** came in **August 1906**. **Aurobindo** (अरविंद) was principal of **Bengal National College**.
-8. **Ashwini Kumar Dutt’s Swadesh (स्वदेश) Bandhab Samiti** (Barisal) is the classic district volunteer body. **V.O.C. Pillai** founded **Swadeshi Steam Navigation** at Tuticorin.
-9. Calcutta Congress (कांग्रेस) **1906** (Dadabhai) stamped **Swaraj** (स्वराज) as a Congress goal. Open Swadeshi faded after **1908**; youth moved underground.
-10. **Extremist** (गरम दल) Congress politics (boycott/Swadeshi) is **not** the same as **revolutionary** secret societies.
-11. **Abhinav Bharat** is linked to **Savarkar** (सावरकर). **India House** in London is linked to **Shyamji Krishna (कृष्णा) Varma**.
-12. **Anushilan Samiti** is locked to the **Hardinge bomb of 1912**. **Jugantar** is the Barindra / *Yugantar* / Manicktolla stream.
-13. **Muzaffarpur 1908** (मुजफ्फरपुर) is the Kingsford attempt (**Khudiram–Chaki**). **Alipore 1908** (अलीपुर) is the Manicktolla conspiracy trial.
-14. **Ghadar Party** was founded in **1913** at **San Francisco**. The **Berlin Committee** is **1915** — a wartime Europe plot, not Ghadar.
-15. **Madam Cama’s Stuttgart flag** is **1907**. Do not merge it with the **1915** Berlin Committee.
-16. **HRA** was formed in **1924**. **Kakori** (**9 August 1925**) is an **HRA** action — never call it HSRA.
-17. **HSRA** dates from **1928** (after the socialist turn). **Naujawan Bharat Sabha (सभा)** is **1926**.
-18. **Central Assembly bomb** — **8 April 1929**, **Bhagat Singh** (भगत सिंह) and **B.K. Dutt**. **Chittagong Armoury Raid** — **18 April 1930**, **Surya Sen**.
-19. Chronology ladder: Chapekar **1897** → Muzaffarpur/Alipore **1908** → Hardinge **1912** → Ghadar **1913** → Kakori **1925** → Assembly **1929** → Chittagong **1930**.
-20. A standard order fact is **Ghadar → Berlin Committee → Assembly bomb → Chittagong**.
-21. **Ram Prasad Bismil** (राम प्रसाद) was born at **Shahjahanpur** (शाहजहाँपुर) and hanged at **Gorakhpur** (गोरखपुर) on **19 December 1927**.
-22. **Ashfaqulla** was hanged at **Faizabad**; **Roshan Singh** at **Naini**; **Azad** died at **Alfred Park, Allahabad (इलाहाबाद), 27 February 1931**.
-23. **Ambika Chakravarti** was **not** an early member of Naujawan Bharat Sabha. **M.A. Ansari** was **not** associated with the Kanpur (कानपुर) Conspiracy of **1924**.
-24. Bengal was the Anushilan–Jugantar–Chittagong centre; Maharashtra for Abhinav Bharat/Nasik (नासिक); Punjab for Ghadar/HSRA; UP for Kakori and Shahjahanpur.
-25. The **1877** Delhi Durbar (Lytton (लिटन)) proclaimed Victoria Empress. The **1911** Durbar annulled Partition and shifted the capital — do not merge the two.
-26. Swadeshi enterprise tags include **P.C. Ray’s Bengal Chemical** and VOC’s steam navigation challenge to British shipping.
-27. **Surat Split 1907** (सूरत) broke Congress after Moderate (नरम दल)–Extremist fights over boycott depth and Swaraj language.
-28. **Komagata Maru (1914)** sits in the Ghadar-era overseas chain between Ghadar founding and wartime plots.
-29. The Hardinge bomb (**1912**) hit a Viceroy (वायसराय)’s Delhi procession. The Assembly bomb (**1929**) was a Central Assembly protest — different year, different aim.
-30. UP Focus: Kakori is the Lucknow-belt treasury action of **HRA**; fact Bismil’s birth and hanging places separately.
-31. **Mitra (मित्र) Mela (1899)** became **Abhinav Bharat (1904)** under **V.D. Savarkar** (Maharashtra; London branch **1906**).
-32. **Barrah Dacoity (1908, East Bengal)** was led by **Pulin Behari Das** (Dhaka Anushilan).
-33. **Bagha Jatin (Jatindranath Mukherjee)** led the wartime **Yugantar** reorganisation; **Sachindra Nath Sanyal** opened an Anushilan branch at **Patna (1913)**; Sanyal’s *Bandi Jeevan* is remembered as the **“Bible of the Revolutionaries”** for HRA youth.
-34. **Ashfaqulla Khan** is keyed as the first recorded Muslim hanged in the freedom struggle (Kakori, **Faizabad**, **19 Dec 1927**).
-35. **Jatin Das** died after a **63-day** hunger strike (**13 Sep 1929**) in the Lahore Conspiracy jail context.
-36. **Provisional Government of India (Kabul, 1915)** — President **Raja (राजा) Mahendra Pratap (प्रताप)**, PM **Barkatullah**.
-37. **Udham Singh** killed **Michael O’Dwyer** in London (**1940**). **Madan Lal Dhingra** killed **Curzon Wyllie** (**1909**).
-38. **RSS** was founded by **K.B. Hedgewar** on **27 Sep 1925** at **Nagpur** — a Hindu social organisation, **not** HRA/HSRA.
+5. **Ashwini Kumar Dutt’s Swadesh (स्वदेश) Bandhab Samiti** (Barisal) is the classic district volunteer body. **V.O.C. Pillai** founded **Swadeshi Steam Navigation** at Tuticorin.
+6. **Extremist** (गरम दल) Congress politics (boycott/Swadeshi) is **not** the same as **revolutionary** secret societies.
+7. **Abhinav Bharat** is linked to **Savarkar** (सावरकर). **India House** in London is linked to **Shyamji Krishna (कृष्णा) Varma**.
+8. **Anushilan Samiti** is locked to the **Hardinge bomb of 1912**. **Jugantar** is the Barindra / *Yugantar* / Manicktolla stream.
+9. **Muzaffarpur 1908** (मुजफ्फरपुर) is the Kingsford attempt (**Khudiram–Chaki**). **Alipore 1908** (अलीपुर) is the Manicktolla conspiracy trial.
+10. **Ghadar Party** was founded in **1913** at **San Francisco**. The **Berlin Committee** is **1915** — a wartime Europe plot, not Ghadar.
+11. **Madam Cama’s Stuttgart flag** is **1907**. Do not merge it with the **1915** Berlin Committee.
+12. **HRA** was formed in **1924**. **Kakori** (**9 August 1925**) is an **HRA** action — never call it HSRA.
+13. **HSRA** dates from **1928** (after the socialist turn). **Naujawan Bharat Sabha (सभा)** is **1926**.
+14. **Central Assembly bomb** — **8 April 1929**, **Bhagat Singh** (भगत सिंह) and **B.K. Dutt**. **Chittagong Armoury Raid** — **18 April 1930**, **Surya Sen**.
+15. **Ram Prasad Bismil** (राम प्रसाद) was born at **Shahjahanpur** (शाहजहाँपुर) and hanged at **Gorakhpur** (गोरखपुर) on **19 December 1927**.
+16. **Ashfaqulla** was hanged at **Faizabad**; **Roshan Singh** at **Naini**; **Azad** died at **Alfred Park, Allahabad (इलाहाबाद), 27 February 1931**.
+17. **Ambika Chakravarti** was **not** an early member of Naujawan Bharat Sabha. **M.A. Ansari** was **not** associated with the Kanpur (कानपुर) Conspiracy of **1924**.
+18. **Surat Split 1907** (सूरत) broke Congress after Moderate (नरम दल)–Extremist fights over boycott depth and Swaraj language.
+19. **Komagata Maru (1914)** sits in the Ghadar-era overseas chain between Ghadar founding and wartime plots.
+20. **Mitra (मित्र) Mela (1899)** became **Abhinav Bharat (1904)** under **V.D. Savarkar** (Maharashtra; London branch **1906**).
+21. **Barrah Dacoity (1908, East Bengal)** was led by **Pulin Behari Das** (Dhaka Anushilan).
+22. **Bagha Jatin (Jatindranath Mukherjee)** led the wartime **Yugantar** reorganisation; **Sachindra Nath Sanyal** opened an Anushilan branch at **Patna (1913)**; Sanyal’s *Bandi Jeevan* is remembered as the **“Bible of the Revolutionaries”** for HRA youth.
+23. **Ashfaqulla Khan** is keyed as the first recorded Muslim hanged in the freedom struggle (Kakori, **Faizabad**, **19 Dec 1927**).
+24. **Jatin Das** died after a **63-day** hunger strike (**13 Sep 1929**) in the Lahore Conspiracy jail context.
+25. **Provisional Government of India (Kabul, 1915)** — President **Raja (राजा) Mahendra Pratap (प्रताप)**, PM **Barkatullah**.
+26. **Udham Singh** killed **Michael O’Dwyer** in London (**1940**). **Madan Lal Dhingra** killed **Curzon Wyllie** (**1909**).
+27. **RSS** was founded by **K.B. Hedgewar** on **27 Sep 1925** at **Nagpur** — a Hindu social organisation, **not** HRA/HSRA.
+28. **1905** opens two streams.
+29. **Surat Split 1907** broke Congress.
+30. **16 October 1905** was observed as a day of mourning. People tied **Rakhi** across communities as a sign of unity, and Tagore's ***Amar Sonar Bangla*** became the protest anthem.
+31. **Lucknow Pact is 1916**, not 1911 — do not merge it with the annulment package.
+32. **Ashwini Kumar Dutt's Swadesh Bandhab Samiti (Barisal)** is the classic district volunteer body.
+33. **V.O. Chidambaram Pillai** founded the **Swadeshi Steam Navigation Company (कंपनी)** at Tuticorin against British shipping.
+34. **Partition of Bengal was annulled**.
+35. **Sachindra Nath Sanyal** opened an Anushilan branch at **Patna in 1913**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| RSS 1925 (Hedgewar, Nagpur) | HRA / Kakori 1925 | Hindu social organisation vs revolutionary armed treasury action | आरएसएस / एचआरए |
-| *Sarfaroshi* poet Bismil Azimabadi | Ram Prasad Bismil | Poem author (Patna) vs Kakori martyr (Shahjahanpur) | बिस्मिल अजीमाबादी / राम प्रसाद |
-| Dhingra–Wyllie 1909 | Udham–O’Dwyer 1940 | India House London killing vs Jallianwala revenge killing | धिंगरा / ऊधम सिंह |
-| Barrah 1908 | Kakori 1925 | East Bengal Anushilan dacoity vs UP HRA train action | बर्राह / काकोरी |
-| Partition 1905 | Annulment 1911 | Curzon divides Bengal vs Durbar reverses it and moves capital | बंगाल विभाजन / रद्द |
-| Swadeshi | Boycott | Use Indian goods/institutions vs reject British goods/institutions | स्वदेशी / बहिष्कार |
-| Extremist | Revolutionary | Assertive Congress (boycott/Swadeshi) vs secret armed groups | गरम दल / क्रांतिकारी |
-| Anushilan | Jugantar | Secret-society network vs Barindra action circle + *Yugantar* paper | अनुशीलन / युगांतर |
-| HRA 1924 | HSRA 1928 | Republican armed group vs same stream after socialist turn | एचआरए / एचएसआरए |
-| Ghadar 1913 | Berlin Committee 1915 | N. America diaspora party vs wartime Europe plot | ग़दर / बर्लिन समिति |
-| Kakori 1925 | Chittagong 1930 | HRA train treasury (UP) vs Surya Sen armoury (Bengal) | काकोरी / चटगाँव |
-| Hardinge bomb 1912 | Assembly bomb 1929 | Delhi Viceroy procession vs Central Assembly protest | हार्डिंग / असेंबली |
-| Shahjahanpur | Gorakhpur | Bismil’s birthplace vs hanging jail | शाहजहाँपुर / गोरखपुर |
-| Delhi Durbar 1911 | Lucknow Pact 1916 | Annulment + capital vs Congress–League deal | दिल्ली दरबार / लखनऊ |
-| Muzaffarpur 1908 | Alipore 1908 | Kingsford attempt (Khudiram–Chaki) vs Manicktolla conspiracy trial | मुजफ्फरपुर / अलीपुर |
-| India House | Ghadar | London hub (Shyamji) vs 1913 N. America party | इंडिया हाउस / ग़दर |
-| Delhi Durbar 1877 | Delhi Durbar 1911 | Lytton proclaims Victoria Empress of India vs Hardinge annuls partition and shifts the capital | दिल्ली दरबार 1877 / 1911 |
-| Stuttgart flag 1907 | Berlin Committee 1915 | Madam Cama unfurls a tricolour at a Socialist Congress vs a wartime Europe plot with German help | स्टुटगार्ट ध्वज / बर्लिन समिति |
-| Bengal Swadeshi orgs | Bengal revolutionary orgs | Banerjee/Pal/Tagore/Aurobindo open politics vs Anushilan/Jugantar secret action | स्वदेशी संगठन / क्रांतिकारी संगठन |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Partition annulled in 1905** → annulment **1911**.
+2. **Lucknow Pact = 1911** → **1916**. 1911 = Durbar (annulment + capital).
+3. **Hardinge bomb = Jugantar / Bhagat Singh** → **Anushilan 1912** (Rash Behari).
+4. **Abhinav Bharat = Bhagat Singh** → **Savarkar**.
+5. **Kakori = HSRA / Surya Sen** → **HRA 1925**. HSRA = **1928**. Surya Sen = **Chittagong 1930**.
+6. **Bismil hanged at Shahjahanpur** → born Shahjahanpur; hanged **Gorakhpur**.
+7. **Azad hanged in Kakori** → he **escaped**; died Allahabad **1931**.
+8. **Ghadar after Berlin Committee** → Ghadar **1913**, Berlin **1915**.
+9. **Chittagong before Assembly bomb** → Assembly **1929**, Chittagong **1930**.
+10. **Ambika Chakravarti = Naujawan 1926** → he is **Chittagong**; 2021 odd man out.
+11. **M.A. Ansari = Kanpur Conspiracy** → **not** associated.
+12. **East Bengal and Assam never existed** → it was the **1905** new province.
+13. **NCE = BHU** → NCE **1906** Swadeshi; BHU is Topic 12.
+14. **Assembly bomb meant to kill members** → propaganda bombs; they **courted arrest**.
+15. **India House = Ghadar** → India House is **London / Shyamji**; Ghadar is **San Francisco 1913**.
+
+22. **Kakori = HSRA** → **HRA (1925)**; HSRA only from **1928**.
+23. **Abhinav Bharat = Bhagat Singh / Barindra** → **V.D. Savarkar** (from Mitra Mela).
+24. **Barrah Dacoity = Punjab / Madras** → **East Bengal**, **Pulin Behari Das**.
+25. **India House = Hardayal / Ghadar HQ** → **Shyamji Krishna Varma, London**; Ghadar HQ = **San Francisco**.
+26. **Cama flag = Paris 1907** → **Stuttgart** International Socialist Congress.
+27. **First Ghadar chairman = Hardayal** → **Sohan Singh Bhakna**; Hardayal = torchbearer / organiser.
+28. **Ashfaqulla hanged at Gorakhpur** → **Faizabad**; Gorakhpur = **Bismil**.
+29. **Sarfaroshi ki Tamanna = Ram Prasad Bismil** → **Bismil Azimabadi**.
+30. **RSS = Kakori revolutionary wing** → **Hedgewar’s Hindu social organisation (Nagpur, 1925)** — same year, different body.
+31. **Jatin Das hanged with Bhagat Singh** → he died on **hunger strike (1929)**; hangings = Bhagat–Rajguru–Sukhdev (**1931**).
+32. **Provisional government = Subhas / INA Singapore** → **Mahendra Pratap–Barkatullah at Kabul (1915)** is the WWI provisional government.
+33. **Udham Singh killed General Dyer** → he killed **Michael O’Dwyer**.
+34. **Chittagong = Bhagat Singh / Kakori men** → **Surya Sen (Master-da), 18 April 1930**.
+35. **Muzaffarpur = Alipore trial site** → Muzaffarpur = **Kingsford bomb**; Alipore = **Manicktolla conspiracy trial**.
 
 
 ---

@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 26 — One-Liner Revision</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. Originally **22** Parts (1950). Now **25** (IVA, IXA (नगरपालिका), IXB (सहकारिता), XIVA added; **VII repealed**).
 2. Trap: ECI = Art. 165. **165 = AdvG.** Trap: FC = 263. **263 = ISC.** Trap: standing NCBC = 340. **338B**; 340 = inquiry.
@@ -22,34 +21,36 @@ hide:
 6. Judges: 1981 executive → 1993 CJI+2 → 1998 CJI+4 → 2015 NJAC dead.
 7. First Governor **Sarojini Naidu** (1947). First CM **G.B. Pant**. First woman CM **Sucheta Kripalani** (1963).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Fact | Hindi Terminology |
-|---|----|------|-------------------|
-| Part XI | Part IXA / XIVA | Union–State relations · **not** Municipalities · **not** Tribunals | भाग XI (संबंध) / भाग IXA (नगरपालिका) |
-| 4th Schedule | 9th Schedule | RS seats vs validation of Acts | चौथी (राज्यसभा सीट) / 9वीं अनुसूची |
-| 5th Schedule | 6th Schedule | Scheduled Areas (many States) vs **AMTM** Autonomous Councils | 5वीं (अनुसूचित क्षेत्र) / 6वीं अनुसूची (AMTM) |
-| 11th / 12th | counts | **29** Panchayat vs **18** Municipality | 11वीं (29 विषय) / 12वीं (18 विषय) |
-| Art. 32 | Art. 226 | SC, FR only vs HC, **wider** | अनु. 32 (सर्वोच्च न्यायालय) / अनु. 226 (उच्च न्यायालय) |
-| Art. 54 | Art. 66 | President: MPs+MLAs · VP: **Parliament only** | राष्ट्रपति निर्वाचन मण्डल / उपराष्ट्रपति |
-| Precedence | Succession | **Warrant 1979** ceremonial · **not** Art. 56–62 line | वरीयता क्रम / उत्तराधिकार क्रम |
-| CJI | Speaker | **Same rank — 6** | मुख्य न्यायाधीश एवं लोकसभा अध्यक्ष (समान रैंक 6) |
-| Cabinet Minister | AG | Minister **7** · AG **11** | कैबिनेट मंत्री (7) / महान्यायवादी (11) |
-| SC judge | CEC/CAG | **9** vs **9A** | सर्वोच्च न्यायालय न्यायाधीश (9) / कैग व चुनाव आयुक्त (9A) |
-| Art. 352 | 356 / 360 | National vs State vs Financial | राष्ट्रीय / राज्य (राष्ट्रपति शासन) / वित्तीय आपातकाल |
-| Prohibition | Certiorari | **Before** the order vs **after** | प्रतिषेध (निर्णय पूर्व) / उत्प्रेषण (निर्णय पश्चात) |
-| 3rd Schedule | Arts. 60 / 69 / 159 | Ministers/MPs/judges/CAG vs **President / VP / Governor** | तीसरी अनुसूची शपथ / संवैधानिक विशिष्ट शपथ |
-| 42nd | 44th | Mini-Constitution **1976** vs Emergency rewrite **1978** | 42वां (1976) / 44वां संशोधन (1978) |
-| 9th Amendment | 9th Schedule | Berubari **1960** vs 1st Amd **1951** list of Acts | 9वां संशोधन (1960) / 9वीं अनुसूची (1951) |
-| 35th’s old 10th Sch | 52nd’s 10th Sch | Sikkim associate-State terms (repealed 36th) vs **defection** | सिक्किम सह-राज्य / दल-बदल विरोधी कानून |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Part XI = Municipalities / Tribunals | **IXA** / **XIVA** |
+| AG sits in Part XIII | **Part V**, Art. 76 |
+| 9th Schedule = RS seats | **4th** Schedule |
+| 8th has Bhojpuri | **22**, Bhojpuri **out** |
+| 11th = 18 subjects | **29** / 12th = **18** |
+| 6th Schedule includes UP | **AMTM only** |
+| Art. 32 wider than 226 | **226 is wider** |
+| VP elected like the President | **No MLAs** |
+| 352 ground still “internal disturbance” | **Armed rebellion** (44th) |
+| 360 has been used | **Never** |
+| 358 kills all FR | Only **Art. 19**, and only war/aggression |
+| 359 can freeze 21 | **Cannot** (44th) |
+| Panchayat polls = ECI / 324 | **SEC / 243K** |
+| President’s oath = 3rd Schedule | **Art. 60** |
+| Governor oath = CJI | **State HC CJ** |
+| 42nd = 1978 | **1976**; 44th is 1978 |
+| 9th Amd = 9th Schedule | Amd = **Berubari**; Schedule = **1st Amd** |
+| 106th is already filling seats | Waits **delimitation** |
+| Residuary = USA/States | **Canada / Centre** |
+| DPSP = USA | **Ireland** |
+| Joint sitting = UK | **Australia** |
+
+---
 
 
 ---

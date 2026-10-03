@@ -91,7 +91,8 @@ Uttarakhand currently has **9 Municipal Corporations (Nagar Nigams)**, presided 
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -101,7 +102,7 @@ Uttarakhand currently has **9 Municipal Corporations (Nagar Nigams)**, presided 
 | **Van Panchayats Origin Year** | Conceived in **1921** (Forest Grievances Committee), legislated in **1931** (Kumaon Van Panchayat Rules). |
 | **Gram Pradhan vs Block Pramukh Election** | Gram Pradhan is **directly elected**; Block Pramukh is **indirectly elected** by Kshetra Panchayat members. |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

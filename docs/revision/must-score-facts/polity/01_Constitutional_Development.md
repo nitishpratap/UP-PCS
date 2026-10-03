@@ -11,93 +11,75 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 1 — Constitutional Development</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The **Regulating Act, 1773** created the **Governor-General (गवर्नर-जनरल) of Bengal** (Warren Hastings (वारेन)) and a Supreme Court at Calcutta in **1774**. It did **not** create the Governor-General of India.
-2. The **Charter Act, 1833** made the Governor-General of Bengal the **Governor-General of India**; William Bentinck (बेंटिंक) was the first holder of that title.
-3. Under **Pitt’s India Act, 1784**, the **Board of Control** handled political affairs and the **Court of Directors** handled commercial affairs. Do not swap the two.
-4. The **Act of 1786** let the Governor-General **overrule** his Council on safety/peace grounds; **Lord Cornwallis** was the first Governor-General who was also Commander-in-Chief.
-5. Open competitive examination for the **ICS** was implemented under the **Charter Act, 1853**. The **1833** Act only carried the spirit of open competition.
-6. The **Charter Act, 1813** ended the Company’s trade monopoly except **tea and China trade**, and set aside **₹1 lakh** for education. Territory and revenue stayed with the Company for another **20 years**.
-7. The **Government of India Act, 1858** ended Company rule. The Crown took over; a **Secretary of State** and a **Viceroy** (वायसराय) replaced Company control. **Lord Canning** was the first Viceroy (कैनिंग).
-8. The **portfolio system** got legal recognition (मान्यता) under the **Indian Councils Act, 1861** (practice had begun around **1859**). Do not fact it to 1858, 1892, or 1909.
-9. The **Indian Councils Act, 1892** introduced **indirect elections** and allowed **budget discussion without voting**. Supplementary questions arrived with **1909**, not 1892.
-10. **Muslim separate electorates** began with the **Indian Councils Act, 1909** (Morley–Minto). The Communal Award of **1932** was not the first such device.
-11. **S.P. Sinha** was the first Indian member of the Viceroy’s Executive Council under the **1909** reforms.
-12. The **Government of India Act, 1919** introduced **Dyarchy** (द्वैध शासन) in the provinces, a bicameral legislature at the Centre, and the **Chamber of Princes**.
-13. The **Government of India Act, 1935** introduced **Provincial Autonomy**, which **operated**. The proposed **Federation** and **Dyarchy at the Centre never operated**.
-14. Under the **1935** Act, residuary (अवशिष्ट) powers rested with the **Viceroy / Governor-General**, not with the Federal Legislature.
-15. The **Federal Court** under the 1935 scheme began in **1937**. The **RBI** was created by the **RBI Act, 1934**; the 1935 Act only provided for a central bank.
-16. The **Communal Award** came in **1932** (not 1933). The **Poona Pact** (पूना पैक्ट) replaced separate electorates for Depressed Classes with **reserved seats and a joint electorate**.
-17. Gandhi (गांधी) attended the **Second Round Table Conference**; **Rajendra Prasad** did not go as the Congress (कांग्रेस) delegate.
-18. The **August Offer (1940)** (Viceroy Linlithgow) offered dominion status after the war and accepted in principle the idea of a constitution framed by Indians — the **1935** Act itself did not provide a written Constitution.
-19. The **Cripps Mission (March 1942)** offered a Constituent Assembly after the war and dominion status; Congress rejected it. Chronology: Cripps (**1942**) → Wavell/Shimla (**1945**) → Cabinet Mission (**1946**).
-20. The **Wavell Plan (1945)** proposed equal Hindu–Muslim seats on the Governor-General’s Executive Council (except Defence); the **Shimla Conference** failed to break the deadlock.
-21. The **Cabinet Mission (1946)** (Pethick-Lawrence, Stafford Cripps, A.V. Alexander) rejected a sovereign Pakistan, proposed a **three-tier** Union with **Sections A/B/C**, and framed the path to the Constituent Assembly.
-22. The Interim Government was **announced on 24 August 1946** and took **office on 2 September 1946**. Do not mix the two dates.
-23. The **Mountbatten Plan** (माउंटबेटन योजना) was announced on **3 June 1947**. The **Indian Independence Act** received assent on **18 July 1947**.
-24. The first clear demand for a Constituent Assembly (संविधान सभा) is linked to **M.N. Roy (1934)** and then the **Congress (1935)**.
-25. The Constituent Assembly’s original strength was **389 (292 + 93 + 4)**, later reduced to **299**. Election was **indirect** by provincial assemblies through **PR-STV**. About **15 women** were members. **Gandhi was not a member**.
-26. The Assembly first met on **9 December 1946**. The **Objectives Resolution** was moved on **13 December 1946** and adopted (अंगीकृत) on **22 January 1947**.
-27. The **Drafting Committee** was set up on **29 August 1947** with **B.R. Ambedkar** (बी.आर. अम्बेडकर) as Chairman. **B.N. Rau** was the **Constitutional Adviser**, not the Drafting Chair.
-28. The **Minorities Sub-Committee** was chaired by **H.C. Mukherjee**. The parent **Advisory Committee** was chaired by **Sardar Patel** (सरदार पटेल).
-29. The Constitution was **adopted on 26 November 1949** (**284** signatures) and **enforced on 26 January 1950**. The last Assembly sitting (बैठक) was on **24 January 1950**. The national Flag was adopted on **22 July 1947**.
-30. **C. Rajagopalachari** was the first Indian Governor-General (**1948–50**). Mountbatten was the last British Governor-General, not the first Indian one.
-31. Borrowed-feature facts: **UK** — parliamentary system; **USA** — Fundamental Rights (मौलिक अधिकार); **Ireland** — DPSP (राज्य के नीति निदेशक तत्व); **Canada** — residuary powers; **Australia** — Concurrent List (समवर्ती सूची); **Germany** — emergency suspension model; **Japan** — procedure (प्रक्रिया) established by law (Art. 21 style); **GOI Act 1935** — structural (संरचनात्मक) skeleton.
-32. The **Simon Commission (1927)** was all-British. The **Nehru Report** followed in **1928**, then the Round Table Conferences, the Award/Poona Pact, and the **1935** Act.
-33. Under **1919**, a path toward a Public Service Commission led to the **Central PSC in 1926**.
-34. Six provinces became bicameral under the 1935 scheme: **Bengal, Bombay, Madras, Bihar, Assam, and the United Provinces**.
-35. Constitution Day is remembered on **26 November** as the adoption anniversary, not as the enforcement date.
-
-</details>
+1. **Muslim separate electorates** began with the **Indian Councils Act, 1909** (Morley–Minto). The Communal Award of **1932** was not the first such device.
+2. **S.P. Sinha** was the first Indian member of the Viceroy’s Executive Council under the **1909** reforms.
+3. **C. Rajagopalachari** was the first Indian Governor-General (**1948–50**). Mountbatten was the last British Governor-General, not the first Indian one.
+4. **Supreme Court at Calcutta** was established in **1774**; first Chief Justice was **Sir Elijah Impey** (not Lemaister).
+5. **Board of Control** handled political / territorial matters; **Court of Directors** handled commercial matters.
+6. **Lord Cornwallis** was the first Governor-General to enjoy both powers.
+7. **₹1 lakh** annually was granted for education / revival of literature and science.
+8. **General Committee of Public Instruction (1823)** administered the ₹1 lakh grant.
+9. **Orientalist (प्राच्यवादी)–Anglicist (आंग्लवादी) Controversy** followed: Prinsep and H.H. Wilson backed oriental learning; Charles Trevelyan led the Anglicists for English medium.
+10. **Section 87** said no person of India or the Crown would be debarred from Company office on grounds of religion, place of birth, descent or colour — later treated as the foundation for Indian share in administration.
+11. **No differentiation** was yet made between Central and Provincial subjects.
+12. **Portfolio system:** Canning introduced departmental portfolios in practice (**1859**); the **1861 Act gave legal recognition**.
+13. **Dyarchy in provinces** (dual rule):
+14. **Reserved subjects** (administration of justice, police, prisons, land revenue, irrigation, forests, press) — Governor and Executive Councillors; **not** responsible to the legislature.
+15. **Transferred subjects** (education, health, local self-government, agriculture, public works) — Indian ministers responsible to the Legislative Council.
+16. **Council of State** (Upper House) — statute spoke of about **60** members (rules later set roughly **33 elected + 27 nominated**).
+17. **Legislative Assembly** (Lower House) — originally about **140** (100 elected + 40 nominated); rules later raised it to about **143–145**.
+18. **Provided for** establishment of **Reserve Bank of India** to control currency and credit — actual statute is **RBI Act, 1934** (operations from **1 April 1935**). Do not write “RBI was created only by GOI Act 1935” as a blunt fact.
+19. **1909 (Morley–Minto):** first introduced for **Muslims**.
+20. **1919 (Montagu–Chelmsford):** extended to Sikhs, Indian Christians, Anglo-Indians, Europeans.
+21. **Communal Award, 1932:** further extended separate electorates to **Depressed Classes** (among others).
+22. **Poona Pact, 1932:** replaced Depressed Classes’ separate electorates with **reserved seats in a joint electorate**.
+23. **All-British** composition — **no Indian member** → nationwide boycott (बहिष्कार) (“Simon Go Back”).
+24. **1st RTC (प्रथम) (Nov 1930–Jan 1931):** Congress absent (Civil Disobedience (सविनय अवज्ञा)); princes and other parties attended.
+25. **Gandhi–Irwin (इरविन) Pact (गांधी-इरविन) (5 March 1931):** Congress agreed to join 2nd RTC (द्वितीय गोलमेज); CDM suspended.
+26. **2nd RTC (Sep–Dec 1931):** Gandhi as sole Congress representative; also Sarojini Naidu, Madan Mohan Malaviya (मालवीय), etc.
+27. **Dr. Rajendra Prasad did NOT participate** in the 2nd RTC.
+28. **3rd RTC (Nov–Dec 1932):** Congress absent again; limited attendance → White Paper (1933) → Joint Select Committee → **GOI Act 1935**.
+29. **Dr. S. Radhakrishnan** was **not** a member of the Interim Government.
+30. **GG / Viceroy line (coaching fact):** first Viceroy = **Canning**; last Viceroy (माउंटबेटन) = **Mountbatten**; last British GG of Independent India = **Mountbatten**; first Indian GG = **C. Rajagopalachari**.
+31. **Initial strength 389** = **292** (British Indian provinces) + **93** (Princely States) + **4** (Chief Commissioner’s Provinces) — often remembered as **296 + 93**.
+32. **Congress** won about **208** provincial seats; **Muslim League** about **73**; others about **15** — League later **boycotted** early sittings after Direct Action politics.
+33. **Mahatma Gandhi (महात्मा गांधी) was not a member** of the Constituent Assembly.
+34. **Objectives Resolution** moved by **Jawaharlal Nehru** on **13 December 1946** (fifth meeting of the first session); adopted **22 January 1947** — philosophical base of the Constitution (later reflected in Preamble).
+35. **Maulana Azad** argued for deferring adult franchise by **15 years**; Rajendra Prasad and Nehru backed immediate UAF in the Constitution.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| GG of Bengal vs GG of India | **1773** Bengal (Hastings); **1833** India (Bentinck) | Call 1773 = GG of India | बंगाल ≠ भारत |
-| Board of Control vs Court of Directors | Board = **political**; Directors = **commercial** | Swap | बोर्ड = राजनीति |
-| Act of 1786 | GG may **overrule** Council; Cornwallis = first GG+CinC | Credit 1784 alone | 1786 ओवररूल |
-| First SC Chief Justice | **Sir Elijah Impey** | Lemaister | इम्पे |
-| ICS open competition | **Charter 1853** (implemented) | Charter 1833 (only spirit / §87) | 1853 खुली परीक्षा |
-| 1813 revenue control | Remained with **Company** for 20 years | Say Parliament took revenues in 1813 | राजस्व = कंपनी |
-| Portfolio system | Legal recognition = **1861** (practice from 1859) | 1858 / 1892 / 1909 | पोर्टफोलियो = 1861 |
-| Budget discuss vs supplementary Q | Discuss budget = **1892**; supplementary Q = **1909** | Give 1892 supplementary power | 1892 पूरक नहीं |
-| Muslim separate electorates | Begin **1909** | Communal Award 1932 as “first” | 1909 मुस्लिम |
-| Dyarchy vs Provincial Autonomy | **1919** provinces; **1935** autonomy | Swap or call both central | द्वैध / स्वायत्तता |
-| 1935 Federation / Centre Dyarchy | **Never operated** | Assume they ran like Autonomy | संघ / केंद्र द्वैध नहीं चले |
-| Residuary under 1935 | With **Viceroy / GG** | Federal Legislature | अवशिष्ट = वायसराय |
-| Residuary (Constitution source) | **Canada** | Australia | अवशिष्ट = कनाडा |
-| Concurrent List source | **Australia** | Canada | समवर्ती = ऑस्ट्रेलिया |
-| Federal Court | Began **1 Oct 1937**; first CJ **Maurice Gwyer** | Say established in 1935 alone | 1937 ग्वायर |
-| Communal Award vs Poona Pact | Award = separate for Depressed Classes; Poona = **reserved + joint** | Swap | पूना = संयुक्त |
-| Award year | **1932** | 1933 (2019 trap) | 1932 |
-| 2nd RTC attendance | Gandhi **yes**; Rajendra Prasad **no** | Prasad as Congress delegate | प्रसाद नहीं |
-| Interim date | Announced **24 Aug 1946**; office **2 Sep 1946** | Mix the two | 24 अगस्त घोषणा |
-| Adopt vs Enforce | **26 Nov 1949** / **26 Jan 1950** | Swap | अंगीकरण / प्रवर्तन |
-| B.N. Rau vs Ambedkar | Rau = **Constitutional Adviser**; Ambedkar = **Drafting Chair** | Swap titles | राऊ सलाहकार |
-| RBI creation | **RBI Act 1934**; GOI 1935 only *provided for* | “Created by GOI Act 1935 alone” | RBI = 1934 अधिनियम |
-| First Viceroy | **Lord Canning** (same man = last Company GG) | Mountbatten as first | कैनिंग पहला वायसराय |
-| First Indian GG | **C. Rajagopalachari** (1948–50) | Mountbatten | राजगोपालाचारी |
-| Chamber of Princes | **GOI Act 1919** (~120); first Chancellor **Ganga Singh** | 1909 / 1935 | नरेंद्र मंडल = 1919 |
-| Gandhi in CA | **Not a member** | List him among CA framers | गांधी सदस्य नहीं |
-| CA election method | **Indirect** (provincial assemblies; PR-STV) | Universal adult franchise at CA stage | अप्रत्यक्ष चुनाव |
-| CA idea vs formal demand | Idea = **M.N. Roy**; first formal demand = **Swaraj Party, Ranchi 1934** | Credit only Congress 1935 | स्वराज पार्टी |
-| Temporary vs permanent CA chair | Temp = **Sinha**; permanent = **Rajendra Prasad** | Swap | सिन्हा अस्थायी |
-| Temp vs permanent CA Vice-Chair | Temp Deputy = **Frank Anthony**; permanent VP = **H.C. Mukherjee** | Swap | एंथनी / मुखर्जी |
-| Minorities Sub-Committee | **H.C. Mukherjee** (Chair) | Sardar Patel as chair of this sub-committee | अल्पसंख्यक = मुखर्जी |
-| Advisory Committee | **Sardar Patel** (parent committee) | Confuse with Minorities Sub-Chair | सलाहकार = पटेल |
-| Flag Ad hoc Committee | **Rajendra Prasad** (23 June 1947) | Credit Kripalani / Ambedkar as chair | ध्वज = प्रसाद |
-| Election Commission source | **Indian original** | Say borrowed from Ireland/UK/USA | निर्वाचन आयोग स्वदेशी |
-| CA strength breakdown | **292 + 93 + 4 = 389** | Call total 296+93 only | 292+93+4 |
-| Calligrapher vs Drafting Chair | **Prem Behari Narain Raizada** (calligrapher) vs **Ambedkar** (Drafting Chair) | Say Ambedkar calligraphed the manuscript | रायज़ादा = सुलेखक |
-| English vs Hindi Calligrapher | **Prem Behari Narain Raizada** (English) vs **Vasant Krishan Vaidya** (Hindi) | Assume same person wrote both | अंग्रेज़ी = रायज़ादा; हिंदी = वैद्य |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. GG Bengal (**1773**) ≠ GG India (**1833**)
+2. ICS open competition = **1853** (not 1833)
+3. Portfolio = **1861** (not 1892/1909)
+4. Muslim separate electorates start = **1909**
+5. Chamber of Princes = **1919**
+6. Dyarchy = **1919**; Autonomy = **1935**
+7. 1935 Federation / Centre Dyarchy = never operated
+8. Federal Court inauguration = **1937**
+9. Bicameral under 1935 = **six** provinces (not all eleven; Punjab not in the six)
+10. RBI: GOI 1935 *provided for*; statute = **RBI Act 1934**
+11. Communal Award = **1932** (not 1933)
+12. Poona Pact = reserved seats + joint electorates
+13. 2nd RTC: Gandhi yes; **Prasad no**
+14. Cripps → Wavell/Shimla → Cabinet Mission
+15. Interim announced **24 Aug 1946** (office 2 Sep)
+16. Residuary source = **Canada**; Concurrent = **Australia**
+17. Rau = Adviser; Ambedkar = Drafting Chair
+18. Flag **22 Jul 1947**; last CA meeting **24 Jan 1950**
+19. Adopt **26 Nov 1949**; enforce **26 Jan 1950**
+20. First Viceroy = **Canning**; first Indian GG = **Rajagopalachari**
+21. 15 Aug 1947 ≠ Republic Day
+22. CA idea first floated by **M.N. Roy (1934)**
+23. CA strength = **292 + 93 + 4 = 389**; after Partition **~299**; **~15 women**
+24. Gandhi was **not** a CA member; election was **indirect PR-STV**, not UAF
+25. Minorities Sub-Committee chair = **H.C. Mukherjee** (Advisory Committee = Patel)
+26. **284** signed on **26 Nov 1949**; FR = **USA**; DPSP = **Ireland**; GOI **1935** = structural skeleton
 
 
 ---

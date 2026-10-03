@@ -21,7 +21,8 @@ MoEFCC (पर्यावरण, वन और जलवायु परिव�
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is India’s nodal ministry for environment (पर्यावरण), forests, wildlife, and climate change (जलवायु परिवर्तन). It began as MoEF in **1985** and was renamed MoEFCC in **2014**. Headquarters is **New Delhi**.
 2. MoEFCC grants **Category A Environmental Clearance**, runs the **PARIVESH** portal, and administers EPA, Wildlife Act, Forest Conservation Act, and Biodiversity Act. It does **not** set NAAQS pollution standards.
@@ -52,9 +53,10 @@ MoEFCC (पर्यावरण, वन और जलवायु परिव�
 27. **CAZRI = Jodhpur**; **IIFM = Bhopal**; operational Antarctica (भारती) stations = **Maitri + Bharati** (मैत्री).
 28. **INCOIS = Hyderabad (हैदराबाद)**; ENVIS population (जनसंख्या)–environment centre = **IIPS Mumbai**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -64,7 +66,8 @@ MoEFCC (पर्यावरण, वन और जलवायु परिव�
 | **Central Pollution Control Board (CPCB)** | **State Pollution Control Board (SPCB)** | Statutory apex body established under Water Act 1974 advising the Union Government, setting national ambient standards, and coordinating inter-state river/air monitoring vs state-level statutory body granting Consent to Establish/Operate to industrial units | केंद्रीय प्रदूषण नियंत्रण बोर्ड (मानक निर्माता) / राज्य प्रदूषण नियंत्रण बोर्ड (अनुमति प्रदाता) |
 | **National Green Tribunal (NGT)** | **Central Empowered Committee (CEC)** | Specialized statutory environmental court established under NGT Act 2010 with judicial and expert members deciding civil environmental disputes vs Supreme Court monitoring committee overseeing forest conservation and wildlife sanctuary clearances | राष्ट्रीय हरित अधिकरण (NGT, सांविधिक पीठ) / केंद्रीय अधिकार प्राप्त समिति (CEC) |
 | **National Environmental Engineering Research Institute (NEERI)** | **National Institute of Oceanography (NIO)** | CSIR premier lab specializing in water/air treatment, environmental engineering, and monitoring (founded 1958, Nagpur) vs CSIR oceanographic lab researching marine resources and ecology (Dona Paula, Goa) | नीरी (NEERI, नागपुर) / राष्ट्रीय समुद्र विज्ञान संस्थान (NIO, गोवा) |
----
+
+</details>
 
 ## Must-score facts — MoEFCC, CPCB, NGT, surveys
 

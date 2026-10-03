@@ -15,7 +15,8 @@ Rajput (राजपूत) Warriors | Maharana Pratap (प्रताप) | Ba
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Sisodia** ruled **Mewar** (Chittor (चित्तौड़) → Udaipur (उदयपुर)); **Rathore** ruled **Marwar** (मारवाड़) (Jodhpur); **Kachhwaha** ruled **Amber/Jaipur**.
 2. Title fact: **Maharana/Rana** for Mewar; **Rao** for Marwar and Bikaner.
@@ -42,9 +43,10 @@ Rajput (राजपूत) Warriors | Maharana Pratap (प्रताप) | Ba
 23. Cause–course–result for Haldighati: Pratap refused submission, Man Singh led the imperial wing, and Pratap withdrew to continue guerrilla resistance.
 24. **Tansen** (तानसेन) served Rewa/Bhata before Akbar; do not treat **Udai Singh of Mewar** as his pre-Akbar patron fact.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -59,7 +61,8 @@ Rajput (राजपूत) Warriors | Maharana Pratap (प्रताप) | Ba
 | Rana Hammir | Hamir Deva | Mewar restorer (1326) vs Ranthambore Chauhan (died 1301) | मेवाड़ हमीर / रणथम्भौर हमीर |
 | Vijay Stambha | Kirti Stambha | Kumbha’s victory tower vs older Jain tower, both at Chittor | विजय स्तम्भ / कीर्ति स्तम्भ |
 | Alauddin’s Chittor | Akbar’s | 1303 vs 1567–68 | अलाउद्दीन / अकबर |
----
+
+</details>
 
 ## Must-score facts — clan, battle, Chittor
 

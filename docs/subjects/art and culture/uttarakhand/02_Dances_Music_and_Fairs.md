@@ -7,7 +7,8 @@
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. State animal of Uttarakhand is the **Alpine Musk Deer** (*Moschus chrysogaster* / Kasturi Mriga).
 2. State bird is the **Himalayan Monal** (*Lophophorus impejanus* / Danfe). State tree is **Buransh** (बुरांश) (*Rhododendron arboreum*).
@@ -39,6 +40,8 @@
 28. Musk deer habitat memory often cites Kedarnath (केदारनाथ) and Askot sanctuaries. Brahma Kamal is offered at Kedarnath.
 29. Folk dances split by zone: Garhwal (Pandav, Langvir, Chaunfla, Thandya, Sarau) versus Kumaon (Chholiya, Jhora, Chanchari, Hurkiya Baul, Chhapeli).
 30. These state symbols and fairs are UKPCS Unit 1 / GK heads. They are not SNA classical dance forms.
+
+</details>
 
 ## Quick Revision — Spine Only
 
@@ -135,7 +138,8 @@
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -146,8 +150,7 @@
 | **Nanda Raj Jat Start vs End** | Starts at **Nauti village**; ends at **Homkund** (distance: 280 km, every 12 years). |
 | **State Flower vs State Tree** | State Flower = **Brahma Kamal**; State Tree = **Buransh** (Rhododendron). |
 
----
-
+</details>
 
 ## UKPCS Inline & Practice Questions
 

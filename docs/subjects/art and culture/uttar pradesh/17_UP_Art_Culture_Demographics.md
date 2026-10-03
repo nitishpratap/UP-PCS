@@ -5,7 +5,8 @@
 
 ---
 
-## Consolidated — 34 Must-Score Facts (UP Special)
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts (UP Special)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Sex Ratio Extremes (Census 2011):** Highest sex ratio is **Jaunpur (जौनपुर) (1024)**, followed by Azamgarh (1019) and Deoria (1017). Lowest sex ratio is **Gautam Buddha (बुद्ध) Nagar (851)**.
 2. **Density Extremes:** Highest population (जनसंख्या) density is **Ghaziabad (3971 per sq. km)**; lowest is **Lalitpur (242 per sq. km)**. State average is **829**.
@@ -42,10 +43,10 @@
 33. **HRI** (Harish-Chandra Research Institute) is at Jhunsi, Prayagraj. **V. V. Giri National Labour Institute** is at Noida.
 34. UP art–culture stems usually decide on **district + craft/fair/gharana**. Match the place first, then the tradition name.
 
+</details>
 
----
-
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Difference / Trap Clarification |
 | :--- | :--- | :--- |
@@ -59,7 +60,7 @@
 | **Lowest Literacy vs Female** | **Shrawasti (Both)** | Shrawasti ranks lowest in overall literacy (46.7%), lowest in male literacy (57.2%), and lowest in female literacy (34.8%). |
 | **Highest Literacy District** | **Gautam Buddha Nagar** | Gautam Buddha Nagar has highest overall literacy (80.1%) and male literacy (88.1%), but **Kanpur Nagar** holds highest female literacy (75.1%). |
 
----
+</details>
 
 ## 1. Demographics: Master Census 2011 Data for UP
 

@@ -27,7 +27,8 @@
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Silkyara–Barkot** bi-directional tunnel is **4.531 km** long on NH-134 under the Char Dham project and shortens the Gangotri–Yamunotri highway distance by more than **20 km**.
 2. Airports / airstrips: **Jolly Grant** (Dehradun), **Pantnagar** (Udham Singh Nagar), **Naini Saini** (Pithoragarh), **Chinyalisaur** (Uttarkashi), **Gauchar** (**Chamoli**).
@@ -58,9 +59,10 @@
 27. Silkyara exact length trap distractors are **3.531 km** and **6.531 km** — correct is **4.531 km**.
 28. Char Dham corridor, border roads, and alpine tourism all sit on the same fragile slope–seismic hazard map.
 
----
+</details>
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -71,7 +73,7 @@
 | **Malpa (1998) vs Kedarnath (2013)** | Malpa = **Landslide / rockfall** on Kali river (Protima Bedi); Kedarnath = **GLOF / cloudburst** on Mandakini. |
 | **SCCC Year & Department** | SCCC was created in **2011**; UAPCC is managed by the **Forest & Environment Department** (NOT Revenue Dept). |
 
----
+</details>
 
 ## Mountain Passes of Uttarakhand: Master Reference Table
 

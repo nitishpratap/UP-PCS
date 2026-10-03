@@ -26,7 +26,8 @@
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Uttarakhand rock art cluster: **Lakhudiyar** (Almora, Suyal), **Gwarkha Udyar** (Chamoli, Alaknanda), **Hudli** (Uttarkashi — **blue** pigment), **Kimni** (Chamoli — light white weapons/cattle), **Luethap** and **Falsima** (Almora), **Phadkanauli / Petshal** (Almora, Yashodhar Mathpal).
 2. **Lakhudiyar** (“One Lakh Caves”) at Barechhina, Almora, on the **Suyal** was found by **M. P. Joshi** in **1968**. Motifs use **red, black, and white**; interlocking-hand dance figures are the signature.
@@ -53,7 +54,7 @@
 23. National Stone Age facts (Bhimbetka, Belan) are **not** UK substitutes; UKPCS pulls the local site–district–pigment matrix.
 24. After Kalsi, the next historic UK layers are tribes → Kuninda / Yaudheya → Brahmapura / Taleshwar → Kartikepur (Katyuri).
 
----
+</details>
 
 ## Master Table of Prehistoric Rock Art Sites in Uttarakhand
 
@@ -112,7 +113,8 @@
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -122,7 +124,7 @@
 | **Bankot vs Bahadrabad** | Bankot = **Pithoragarh** (8 copper anthropomorphs); Bahadrabad = **Haridwar** (OCP and copper celts). |
 | **Kalsi Ashokan Edict Language** | Language is **Prakrit**; script is **Brahmi** (trap: not Sanskrit or Kharoshthi). |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

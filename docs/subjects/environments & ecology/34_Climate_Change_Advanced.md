@@ -21,7 +21,8 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Climate change** is a long-term shift in temperature, rainfall, and extremes. **Global warming** is the temperature-rise part only.
 2. IPCC AR6 places warming near **1.1°C** above **1850–1900**, with human influence dominant. Past-century rise ≈ **1°C / 1.8°F**.
@@ -56,9 +57,10 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 31. **Common Carbon Metric** (UNEP-linked) measures building-operation carbon footprints.
 32. Primary recent warming drivers are fossil fuels, autos, deforestation — **not** solar flares.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -69,7 +71,8 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 | **IPCC** | **UNFCCC** | Scientific assessment body established in 1988 by WMO/UNEP (doesn't conduct research) vs multilateral legal treaty framework adopted at Rio 1992 | आईपीसीसी (वैज्ञानिक निकाय) / यूएनएफसीसीसी (कानूनी संधि) |
 | **Emissions Gap Report** | **Adaptation Gap Report** | Annual UNEP report comparing actual NDC pledges vs Paris 1.5°C targets vs annual UNEP assessment of adaptation finance and planning shortfalls | उत्सर्जन अंतराल रिपोर्ट / अनुकूलन अंतराल रिपोर्ट |
 | **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Top-down binding targets on developed countries (Annex-I) vs bottom-up voluntary Nationally Determined Contributions (NDCs) applicable to all | क्योटो प्रोटोकॉल (1997) / पेरिस समझौता (2015) |
----
+
+</details>
 
 ## Must-score facts — AR6, sinks, NAPCC, NDC
 

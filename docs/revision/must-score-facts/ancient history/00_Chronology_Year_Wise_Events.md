@@ -11,57 +11,31 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chronology — Year-Wise Major Events (Ancient India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Culture ladder: **Palaeolithic → Mesolithic → Neolithic → Chalcolithic → Iron Age / NBPW**.
-2. Harappan: **Early c. 3300–2600 → Mature c. 2600–1900 → Late c. 1900–1300 BCE**.
-3. Vedic: **Early / Rigvedic c. 1500–1000 → Later Vedic c. 1000–600 BCE**.
-4. Religious founders (traditional coaching dates): **Mahavira c. 599–527 BCE**; **Buddha c. 563–483 BCE**.
-5. Magadha dynasties: **Haryanka → Shishunaga → Nanda → Maurya**.
-6. Magadha kings: **Bimbisara → Ajatashatru** (Haryanka peak) → **Udayin** (Pataliputra capital) → **Shishunaga** (takes Avanti) → **Mahapadma / Dhana Nanda**.
-7. **Alexander 326–325 BCE** (Hydaspes vs Porus; mutiny at Beas) → **Chandragupta Maurya c. 321 BCE**.
-8. Maurya spine: **Chandragupta → Bindusara → Ashoka (c. 268–232) → decline → Pushyamitra Shunga 185 BCE**.
-9. **Kalinga War c. 261 BCE** — Ashoka’s turning point to Dhamma; **Third Council c. 250 BCE** at Pataliputra.
-10. Post-Mauryan: **Shunga → Kanva**; Deccan **Satavahana**; NW **Indo-Greek → Shaka → Parthian → Kushana**.
-11. Eras: **Vikrama 57 BCE**; **Saka 78 CE** (Kanishka-linked). Difference = **135 years**.
-12. Kushana peak: **Kujula → Vima (gold) → Kanishka** (Fourth Council, Kashmir / Kundalvana tradition).
-13. Gupta Era begins **c. 319–320 CE** with **Chandragupta I** (first *Maharajadhiraja*).
-14. Gupta spine: **Chandragupta I → Samudragupta → Chandragupta II → Kumaragupta I → Skandagupta**.
-15. Pilgrims: **Fa-Hien** under Chandragupta II (~399–414); **Xuanzang** under Harsha (~630–644); **I-tsing** after Harsha (~671–695).
-16. Science tags: **Aryabhata** (born **476 CE**); **Varahamihira**; **Brahmagupta 628 CE**.
-17. **Harsha 606–647 CE**; defeated on the Narmada by **Pulakeshin II** (Aihole / Ravikirti).
-18. South spine: **Sangam → Satavahana → Pallava → Badami Chalukya → Rashtrakuta → Imperial Chola** (later = Medieval).
-19. Do not swap **Fa-Hien / Xuanzang** or **Chandragupta Maurya / Chandragupta I / Chandragupta II**.
-20. Do not swap **First Buddhist Council (Rajagriha)** with **Third (Pataliputra / Ashoka)** or **Fourth (Kanishka)**.
-21. Pottery clock: **OCP → PGW → NBPW** sits beside the culture ladder for doab stems.
-22. Invader order into NW India: **Greeks → Sakas → Kushans** (Parthians bridge Shaka and Kushan).
-23. Seleucus–Chandragupta treaty **~305–303 BCE** (500 elephants; Megasthenes). Diadochi **Ipsus 301 BCE**.
-24. Huna check: **Toramana → Mihirakula**; **Yashodharman** of Malwa at Mandasor **~532 CE**.
-25. Harsha capitals: early **Thanesar** → later **Kannauj**; Chinese title **Siladitya**.
-26. Sangam Muvendar: **Chera–Vanji**, **Chola–Uraiyur**, **Pandya–Madurai**; Karikala’s **Kallanai**.
-27. Key inscription pegs: **Hathigumpha** (Kharavela), **Junagadh** (Rudradaman), **Prayag Prashasti** (Samudragupta / Harishena), **Aihole** (Pulakeshin II).
-28. UP chronological anchors: Belan Neolithic → Alamgirpur / Sanauli fringe → Later Vedic doab → UP mahajanapadas → Sarnath / Kushinagar → Mathura Kushan → Bhitari Skandagupta → Kannauj Harsha.
+1. **Alexander 326–325 BCE** (Hydaspes vs Porus; mutiny at Beas) → **Chandragupta Maurya c. 321 BCE**.
+2. **Kalinga War c. 261 BCE** — Ashoka’s turning point to Dhamma; **Third Council c. 250 BCE** at Pataliputra.
+3. **Harsha 606–647 CE**; defeated on the Narmada by **Pulakeshin II** (Aihole / Ravikirti).
+4. **Chandragupta Maurya = Chandragupta I** → different dynasties.
+5. **Fa-Hien = Harsha** → Fa-Hien is Gupta-age; Xuanzang is Harsha-age.
+6. **Alexander after Chandragupta** → Alexander **before** Mauryan foundation.
+7. **Kanishka = Gupta** → Kushana, not Gupta.
+8. **First Buddhist Council under Ashoka** → First is Rajagriha; Ashoka linked to the Third.
+9. **Saka Era = 57 BCE** → **78 CE**; Vikrama is **57 BCE**.
+10. **Kalinga War = 185 BCE** → **c. 261 BCE**; 185 is Mauryan end.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Early Vedic | Later Vedic | Pastoral Rigvedic Jana vs territorial janapadas / iron | ऋग्वैदिक / उत्तर वैदिक |
-| Mahavira | Buddha | 24th Jain Tirthankara vs Buddhism’s founder | महावीर / बुद्ध |
-| Chandragupta Maurya | Chandragupta I | Maurya founder vs Gupta dynasty starter | मौर्य / गुप्त |
-| Fa-Hien | Xuanzang | Gupta-age pilgrim vs Harsha-age pilgrim | फाह्यान / ह्वेनसांग |
-| Vikrama Era 57 BCE | Saka Era 78 CE | Calendar eras often matched wrongly | विक्रम / शक |
-| Kanishka | Samudragupta | Kushana emperor vs Gupta conqueror | कनिष्क / समुद्रगुप्त |
-| Kalinga War | First Buddhist Council | Ashoka’s war vs Ajatashatru-era council | कलिंग / प्रथम संगीति |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. **Chandragupta Maurya = Chandragupta I** → different dynasties.
+2. **Fa-Hien = Harsha** → Fa-Hien is Gupta-age; Xuanzang is Harsha-age.
+3. **Alexander after Chandragupta** → Alexander **before** Mauryan foundation.
+4. **Kanishka = Gupta** → Kushana, not Gupta.
+5. **First Buddhist Council under Ashoka** → First is Rajagriha; Ashoka linked to the Third.
+6. **Saka Era = 57 BCE** → **78 CE**; Vikrama is **57 BCE**.
+7. **Kalinga War = 185 BCE** → **c. 261 BCE**; 185 is Mauryan end.
 
 
 ---

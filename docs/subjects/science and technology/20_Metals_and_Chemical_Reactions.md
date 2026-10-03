@@ -26,7 +26,8 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Metals** are electropositive elements that readily donate valence electrons to form positive cations ($M \to M^{n+} + n e^-$).
 2. **Gold ($Au$)** is the most **malleable** and most **ductile** metal known: a single gram of gold can be drawn into a microscopic wire over $2\text{ kilometers}$ long or beaten into gold leaf only $0.00001\text{ mm}$ thick.
@@ -85,9 +86,10 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 49. **Amalgams** are alloys formed by any metal with **Mercury ($Hg$)**. Notable exception: **Iron ($Fe$), Cobalt, Nickel, and Platinum do NOT form amalgams**; hence, mercury is stored and transported industrially in sealed **iron flasks**.
 50. **Galvanization** is the metallurgical process of coating iron or steel sheets with a thin protective layer of **Zinc ($Zn$)** by dipping them into molten zinc at $\sim 450^\circ\text{C}$. Zinc acts as a sacrificial anode because $Zn$ is more electropositive than $Fe$ ($E^\circ_{Zn^{2+}/Zn} = -0.76\text{ V}$ vs $E^\circ_{Fe^{2+}/Fe} = -0.44\text{ V}$); even if the zinc surface is scratched, zinc corrodes preferentially, shielding the underlying iron from rust.
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -100,7 +102,7 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 | **Oxidizing Agent vs. Reducing Agent** | **Oxidizing Agent**: Causes oxidation of other species; **gains electrons** and is **itself reduced** ($e^-$ acceptor). | **Reducing Agent**: Causes reduction of other species; **loses electrons** and is **itself oxidized** ($e^-$ donor). | **Direction of Electron Flow**: Oxidizing agent takes electrons (oxidation state decreases); Reducing agent gives electrons (oxidation state increases). |
 | **German Silver vs. Sterling Silver** | **German Silver**: $Cu + Zn + Ni$. Contains **$0\%$ elemental silver**. | **Sterling Silver**: Precious alloy of **$92.5\%\text{ pure Silver } (Ag) + 7.5\%\text{ Copper } (Cu)$**. | **Silver Content**: Sterling Silver is genuine precious silver ($925$ hallmark); German Silver contains zero silver atoms. |
 
----
+</details>
 
 ## Master Reference Tables
 

@@ -10,7 +10,8 @@
 |---|---|---|
 | Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The total geographical area of Uttar Pradesh is **240,928 km²**, which constitutes **7.33%** of India's total area.
 2. Uttar Pradesh ranks **4th in India by area** (after Rajasthan, Madhya Pradesh, and Maharashtra).
@@ -63,9 +64,10 @@
 49. **Haiderpur Wetland**, a Ramsar site situated on the Madhya Ganga Canal, spans **Muzaffarnagar and Bijnor districts**.
 50. **Sarsai Nawar Wetland** in **Etawah district** is famous as a premier breeding habitat for India's State Bird, the **Sarus Crane**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -80,7 +82,7 @@
 | **Mar Soil (Bundelkhand)**: Black fertile clayey soil (Black cotton type) | **Rakar Soil (Bundelkhand)**: Reddish, coarse gravelly soil on rocky slopes | **Trap**: Mar is fertile and retains moisture; Rakar is highly eroded and nutrient-poor. |
 | **Bakhira Wetland (Ramsar)**: Located in **Sant Kabir Nagar** | **Suraha Taal (Oxbow Lake)**: Located in **Ballia** | **Trap**: Bakhira = Sant Kabir Nagar; Suraha Taal = Ballia; Keetham/Sur Sarovar = Agra. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

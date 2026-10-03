@@ -32,7 +32,8 @@ National income and planning stay in Economy Topic 1. Money and RBI deepen in To
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Public finance** studies how government raises revenue, spends, borrows and manages debt for public purposes.
 2. **Revenue receipts** are regular, non-debt receipts — tax and non-tax — that do not create a liability or reduce assets.
@@ -85,8 +86,10 @@ National income and planning stay in Economy Topic 1. Money and RBI deepen in To
 49. **Effective Revenue Deficit** adjusts revenue deficit for grants used for capital-asset creation.
 50. **FRBM Act 2003** sets fiscal-responsibility targets; **N.K. Singh Committee** reviewed the FRBM framework.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -113,6 +116,8 @@ National income and planning stay in Economy Topic 1. Money and RBI deepen in To
 | **Gender Budget 2005–06** | **TEC India / Saptarishi themes** | First gender statement year vs later Budget slogans |
 | **ZBB origin USA** | **ZBB first India dept (DST 1980s)** | Country of origin vs Indian adoption |
 | **Marketism without exit** | **Socialism with limited entry** | Chakravyuha Survey key vs the starting regime |
+
+</details>
 
 ## Must-score drill — funds, deficits, FC, GST
 

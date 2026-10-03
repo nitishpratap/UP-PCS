@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 9 — Judiciary</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -38,11 +36,7 @@ hide:
 | Art. 127 ad hoc | Art. 128 retired | Sitting HC judge vs retired judge sitting | तदर्थ / सेवानिवृत्त |
 | Chartered HCs 1862 | Allahabad 1866 | Calcutta–Bombay–Madras vs Allahabad (not Chartered 1862) | चार्टर्ड / इलाहाबाद |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Supreme Court
 
@@ -382,18 +376,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** India’s judiciary is integrated (one hierarchy from district courts to the Supreme Court) and independent (separate from the executive and legislature). The United States uses a dual court system; India does not.
-- **Exam Anchor:** The Supreme Court was inaugurated on 28 January 1950. Its first Chief Justice was H.J. Kania. The Federal Court under the Government of India Act, 1935 had begun on 1 October 1937.
+- **Exam Anchor:** 2019: SC strength 34 (CJI + 33).
+- **Exam Anchor:** 2019: AP & Telangana High Courts split (1 Jan) — number of HCs = 25.
+- **Exam Anchor:** 2015: NJAC struck down 4:1; Collegium restored.
+- **Exam Anchor:** 2013: Manipur, Meghalaya (मेघालय), Tripura HCs — newest trio before 2019 split.
+- **Exam Anchor:** 2023:Fathima Beevi (फातिमा) died; Mediation Act.
+- **Exam Anchor:** 2025: PIL A/R on rule of law + access to justice.
 - **Exam Anchor:** Article 124 establishes the Supreme Court. It sits in Delhi under Article 130. Strength moved from 8 (CJI plus 7) to 34 judges in 2019. Retirement age for an SC judge is 65.
-- **Exam Anchor:** An SC judge resigns to the President and takes oath before the President. Qualification is citizen plus 5 years as High Court judge, or 10 years as High Court advocate, or a distinguished jurist. The jurist route exists for the Supreme Court only, not for High Courts.
-- **Exam Anchor:** Collegium is judge-made, not written in the Constitution. First Judges Case (प्रथम) (1981) gave the executive primacy. Second Judges Case (द्वितीय न्यायाधीश) (1993) created the Collegium (CJI plus two). Third Judges Case (1998) fixed CJI plus four (चातुर्याम) for Supreme Court appointments and CJI plus two for High Court appointments.
-- **Exam Anchor:** The 99th Amendment created the NJAC (six members: CJI, two senior SC judges, Law Minister, two eminent persons). The Supreme Court struck it down in 2015. Any two NJAC members could have vetoed a name.
-- **Exam Anchor:** Removal of an SC judge needs a motion by 100 Lok Sabha (लोकसभा) or 50 Rajya Sabha (राज्यसभा) members, a three-member inquiry under the 1968 Act, then a special majority in both Houses in the same session (पंगु सत्र). No judge has ever been fully removed; V. Ramaswami (1993) failed in the Lok Sabha and Soumitra Sen (2011) resigned after the Rajya Sabha passed the motion.
 - **Exam Anchor:** Article 129 makes the Supreme Court a court of record. Article 141 makes its law binding on all courts. Article 142 allows complete justice and is available to the Supreme Court only, not High Courts. A Constitution Bench under 145(3) needs at least five judges.
-
-</details>
 
 ---
 

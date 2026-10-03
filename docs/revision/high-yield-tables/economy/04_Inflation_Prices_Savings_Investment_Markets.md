@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Economy Topic 4 — Inflation, Prices, Savings, Investment and Financial Markets</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **2024 (UPPCS)** | **Retail inflation** in India is measured by **CPI** (not WPI / IIP / GDP deflator). | Four-way index trap. |
+| **2024 (UKPCS)** | Inflation including food and energy = **headline**; stripping them = **core**. | Headline ≠ core. |
+| **2021** | **WPI** released by **Ministry of Commerce and Industry** (OEA / DPIIT). | Not RBI / Finance / Consumer Affairs. |
+| **2021** | **Headline inflation** keyed on **Combined CPI**. | Not WPI or CPI-IW alone. |
+| **FIT link** | RBI targets **CPI** (Combined) at **4% ± 2%** — toolkit detail in Topic 3. | Index choice vs instrument choice. |
+
+---
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -29,22 +39,6 @@ hide:
 | **SEBI** | **RBI** | Securities market vs monetary / banking |
 | **Demand-pull** | **Bottleneck / cost-push** | Excess demand vs supply constraints / costs |
 | **Mutual fund** | **Direct equity only** | Pooled diversified portfolio vs single-stock DIY |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2024 (UPPCS)** | **Retail inflation** in India is measured by **CPI** (not WPI / IIP / GDP deflator). | Four-way index trap. |
-| **2024 (UKPCS)** | Inflation including food and energy = **headline**; stripping them = **core**. | Headline ≠ core. |
-| **2021** | **WPI** released by **Ministry of Commerce and Industry** (OEA / DPIIT). | Not RBI / Finance / Consumer Affairs. |
-| **2021** | **Headline inflation** keyed on **Combined CPI**. | Not WPI or CPI-IW alone. |
-| **FIT link** | RBI targets **CPI** (Combined) at **4% ± 2%** — toolkit detail in Topic 3. | Index choice vs instrument choice. |
 
 ---
 
@@ -101,7 +95,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Inflation is a sustained rise in the general price level, which cuts the purchasing power of money.
 - **Exam Anchor:** Deflation is a sustained fall in the general price level.
@@ -111,8 +105,6 @@ hide:
 - **Exam Anchor:** Cost-push inflation rises when input costs (wages, fuel, imported inputs) push prices up.
 - **Exam Anchor:** Bottleneck / structural inflation comes from supply bottlenecks and weak distribution — tough for demand management alone.
 - **Exam Anchor:** Headline inflation covers the full basket, including food and energy.
-
-</details>
 
 ---
 

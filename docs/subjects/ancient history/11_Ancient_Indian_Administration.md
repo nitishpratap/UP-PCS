@@ -17,7 +17,8 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Political time-order for titles and inscriptions runs **Vedic rajan (राजन) → Magadha houses → Maurya → Shunga / Kharavela / Kushan / Satavahana → Gupta → Harsha**.
 2. **Ashoka** on edicts is **Devanampiya Piyadassi** (देवानांप्रिय प्रियदर्शी). His personal name appears at **Maski** (and Gujarra, Nittur, Udegolam). **Bindusara** is **Amitraghata** (अमित्रघात).
@@ -56,9 +57,10 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 35. Foreign administration witnesses: **Megasthenes** (*Indica*) for Mauryas; **Fa-Hien** for Chandragupta II; **Xuanzang** for Harsha; **I-tsing** after Harsha. Use each for the age it saw.
 36. Harsha’s state is **personal**: **mahasamanta** feudatories and agrahara grants continue, and the machine collapses when he dies in **647**. Post-Gupta north shows clearer lord–vassal land control than Mauryan central pay.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -75,7 +77,7 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 | Ayodhya inscription | Besnagar | Pushyamitra ashwamedha vs **Heliodorus** | अयोध्या / बेसनगर |
 | Gaya copper plate | Asirgarh seal | **Samudragupta** plate vs Maukhari **Sarvavarman** | गया / असीरगढ़ |
 
----
+</details>
 
 ## Must-score facts — titles, inscriptions, officials
 

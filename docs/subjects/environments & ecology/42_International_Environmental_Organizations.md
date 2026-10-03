@@ -21,7 +21,8 @@ UNEP (संयुक्त राष्ट्र पर्यावरण क�
 
 ---
 
-## Consolidated — 29 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 29 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **UNEP** was created after **Stockholm 1972** (स्टॉकहोम सम्मेलन). Its HQ is **Nairobi**. Flagship products include the **Emissions Gap Report** (उत्सर्जन अंतराल रिपोर्ट) and **GEO**.
 2. **UNDP** sits in **New York** and publishes the **Human Development Report / HDI** (from **1990**).
@@ -53,9 +54,10 @@ UNEP (संयुक्त राष्ट्र पर्यावरण क�
 28. **OPCW** implements the **Chemical Weapons Convention** (force **29 April 1997**); HQ is **The Hague**. It won the Nobel Peace Prize in **2013**. It is **not** an EU, NATO, or WHO body.
 29. **UN-Habitat** (UN Human Settlements Programme; HQ **Nairobi**, from **1978**) promotes sustainable towns and shelter. Partners are **not** governments-only.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -64,7 +66,8 @@ UNEP (संयुक्त राष्ट्र पर्यावरण क�
 | **IUCN** | **WWF** | Oldest global conservation union (1948, Gland) publishing the Red List of Threatened Species vs private international conservation NGO (1961, Gland) famous for Giant Panda logo and Earth Hour | आईयूसीएन (रेड लिस्ट) / डब्ल्यूडब्ल्यूएफ (पांडा प्रतीक) |
 | **CITES** | **CMS (Bonn Convention)** | Regulates commercial cross-border trade in endangered species of wild flora and fauna (1973) vs promotes conservation and habitat protection for migratory wild animal species (1979) | साइट्स (वन्यजीव व्यापार) / बॉन कन्वेंशन (प्रवासी प्रजातियां) |
 | **Global Environment Facility (GEF)** | **Green Climate Fund (GCF)** | Multilateral financial mechanism (World Bank 1991) serving CBD, UNCCD, Stockholm, Minamata, and UNFCCC vs dedicated operating financial entity of UNFCCC created at COP16 Cancun | जीईएफ (वैश्विक पर्यावरण कोष) / जीसीएफ (हरित जलवायु कोष) |
----
+
+</details>
 
 ## Must-score facts — UNEP UNDP IUCN IPCC HQs
 

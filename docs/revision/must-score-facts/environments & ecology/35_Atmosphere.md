@@ -11,51 +11,46 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 35 — Atmosphere</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. From bottom to top the layers run **Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere**.
-2. The **troposphere** (क्षोभमंडल) holds weather. Temperature **falls** with height in this layer.
-3. The **stratosphere** (समतापमंडल) holds the **ozone layer**. Temperature **rises** with height here.
-4. The **mesosphere** is the **coldest** layer and is where most meteors burn.
-5. The **thermosphere** is very hot but thin. Auroras, the ISS path, and much of the ionosphere sit here.
-6. The **exosphere** is the outermost fringe and merges into space.
-7. Dry air composition is about **N₂ 78%**, **O₂ 21%**, **argon ~0.93%**, and **CO₂ ~0.04%**.
-8. **Nitrogen gas (N₂) is not a greenhouse gas.Nitrous oxide (N₂O)** is a greenhouse gas. Do not confuse the two.
-9. **Argon is not a greenhouse gas.** Oxygen and helium are also not greenhouse gases.
-10. Earth’s air is heated mainly by **long-wave terrestrial radiation (भौमिक विकिरण)** from the warmed surface, not by direct shortwave alone.
-11. The Sun sends **shortwave** insolation (सूर्यताप). The surface emits **longwave** radiation that warms the air.
-12. Maximum ozone concentration is in the **stratosphere**, not the troposphere.
-13. The **homosphere** (सममंडल) is well mixed to about **80 km**. Above that the **heterosphere** (विषममंडल) separates gases by mass.
-14. Tropospheric ozone (क्षोभमंडलीय ओजोन) is a pollutant and greenhouse gas. Stratospheric ozone (समतापमंडलीय ओजोन) is the UV shield.
-15. Temperature inversion and weather systems live in the troposphere. Commercial jets often cruise near the tropopause.
-16. Do not place the ozone layer in the troposphere on a match list.
-17. Mesosphere cold and thermosphere hot can both be true because density differs — thin hot air is not the same as surface heat.
-18. Exosphere atoms can escape to space. It is not a weather layer.
-19. Composition percentages are for **dry air**. Water vapour varies strongly by place and season.
-20. Atmospheric studies for climate start from this layer ladder plus greenhouse-gas composition facts.
-21. Ionosphere radio reflection is mainly a thermosphere–upper-atmosphere feature, not a troposphere fact.
-22. Stratospheric heating with height comes largely from ozone absorbing ultraviolet radiation.
-23. Never reverse the order of troposphere and stratosphere in a bottom-to-top ladder.
-24. Long-wave terrestrial radiation is the standard answer for how the lower atmosphere is heated after surface warming.
-
-</details>
+1. **Nitrogen gas (N₂) is not a greenhouse gas.Nitrous oxide (N₂O)** is a greenhouse gas. Do not confuse the two.
+2. **Argon is not a greenhouse gas.** Oxygen and helium are also not greenhouse gases.
+3. **Dry air near the surface: Nitrogen ~78.08%**, **Oxygen ~20.95%**, **Argon ~0.93%**, **CO₂ ~0.04%**.
+4. **Permanent gases** (N₂, O₂, Ar) stay roughly constant in the homosphere.
+5. **Variable gases** include water vapour (0–4%), CO₂, CH₄, O₃, and aerosols.
+6. **N₂ is not a greenhouse gas**; **N₂O** is. Do not confuse N₂ with nitrogen oxides or nitrous oxide.
+7. **Argon is not a GHG** (also covered in Topic 34 greenhouse-gas questions).
+8. **Water vapour** is the strongest natural tropospheric greenhouse gas by volume, but mainly a climate **feedback**.
+9. Assertion (A): Dry air is about N₂ 78%, O₂ 21%, argon ~0.93%, CO₂ ~0.04%.
+10. Reason (R): Argon is a major greenhouse gas.
+11. Assertion (A): Stratospheric temperature rises with height largely because ozone absorbs UV.
+12. Reason (R): The ozone layer’s maximum concentration is in the stratosphere.
+13. Assertion (A): Commercial jets often cruise near the tropopause.
+14. Reason (R): The tropopause sits atop the troposphere neighbourhood.
+15. Assertion (A): Do not place the ozone layer in the troposphere on a match list.
+16. Reason (R): Maximum ozone concentration is in the stratosphere.
+17. Assertion (A): Temperature falls with height in the troposphere.
+18. Reason (R): Temperature rises with height in the stratosphere.
+19. Assertion (A): Oxygen and helium are not greenhouse gases.
+20. Reason (R): Only CO₂ among all atmospheric gases can ever affect radiation.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Troposphere** | **Stratosphere** | Lowest weather layer, temperature decreases with altitude (normal lapse rate 6.5°C/km) vs calm dry layer where temperature increases with height due to UV absorption by ozone | क्षोभमंडल (मौसम परत) / समतापमंडल (ओजोन परत) |
-| **Stratosphere** | **Mesosphere** | Contains protective ozone layer; stable air suited for jet aircraft vs coldest atmospheric layer (-90°C) where incoming meteors burn upon entry | समतापमंडल / मध्यमंडल (उल्कापिंड दहन) |
-| **Mesosphere** | **Thermosphere (Ionosphere)** | Temperature plummets to lowest levels vs temperature surges past 1500°C; contains ionized gas reflecting terrestrial radio waves and hosting auroras | मध्यमंडल / तापमंडल (आयनमंडल) |
-| **Homosphere** | **Heterosphere** | Lower ~85 km where atmospheric gases remain uniformly mixed in proportion vs upper layer where gases stratify by molecular weight (N₂, O, He, H) | सममंडल (समान मिश्रण) / विषममंडल (गुरुत्वाकर्षण परतें) |
-| **Insolation** | **Terrestrial Radiation** | Shortwave electromagnetic solar radiation received by Earth vs outgoing longwave infrared radiation re-radiated by Earth's heated surface | सूर्यताप (लघुतरंग) / भौमिक विकिरण (दीर्घतरंग) |
-| **Good Ozone** | **Bad Ozone** | Naturally occurring stratospheric ozone shielding Earth from solar UV-B vs ground-level tropospheric ozone acting as secondary pollutant and respiratory irritant | अच्छा ओजोन (समतापमंडल) / बुरा ओजोन (क्षोभमंडल) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Ozone layer in troposphere | **Stratosphere** |
+| Atmosphere heated mainly by shortwave | **Longwave from surface** |
+| N₂ is a GHG | **Not**; N₂O is |
+| Temp falls in every layer | Tropo↓ Strato↑ Meso↓ Thermo↑ |
+| Weather in stratosphere | **Troposphere only** |
+| Meteors burn in troposphere | **Mesosphere** |
+| Max ozone in mesosphere/exosphere | **Stratosphere** |
+| Argon is a GHG | **Not** |
+| Thermosphere “feels” very hot | High T, **low density** |
+| Composition % = climate importance | Trace CO₂ still critical |
 
 
 ---

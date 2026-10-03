@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Daily Read — High-Yield Revision Facts (Modern India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Warren Hastings (1772–1785)**:
 2. **Regulating Act of 1773**; became first **Governor-General of Bengal**.
@@ -49,8 +48,6 @@ hide:
 33. **Sadler Commission (1917)**: Appointed by Lord Chelmsford under Sir Michael Sadler to investigate Calcutta University; recommended 12-year school course (10+2 pattern) and 3-year degree.
 34. **Hartog Committee (1929)**: Appointed by Simon Commission under Sir Philip Hartog; critiqued rapid expansion, emphasized quality and consolidation of primary education.
 35. **Wardha Scheme of Basic Education (1937)**: Formulated by Mahatma Gandhi (*Nai Talim*); detailed scheme drafted by **Zakir Hussain Committee**; free, compulsory learning through mother tongue and crafts.
-
-</details>
 
 
 ---

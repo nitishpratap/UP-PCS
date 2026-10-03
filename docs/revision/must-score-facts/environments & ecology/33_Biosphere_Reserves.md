@@ -11,53 +11,46 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 33 — Biosphere Reserves (जैवमंडल आरक्षित क्षेत्र)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. A Biosphere Reserve is a **UNESCO MAB (1971)** landscape with **core → buffer → transition**. It is **not** a Wildlife Protection (वन्यजीव सुरक्षा) Act category.
-2. India has **18** notified national Biosphere Reserves. About **13** sit on the UNESCO World Network.
-3. India’s **first** Biosphere Reserve is **Nilgiri (नीलगिरि) (1986)**. The **largest** is **Great Rann of Kutch (Gujarat)**. The **smallest** is **Nokrek (Meghalaya (मेघालय))**.
-4. **Nokrek** is in **Meghalaya** (मेघालय). Pairing Nokrek with **Manipur** is always wrong.
-5. **Manas (Assam)** remains a national Biosphere Reserve but was **removed from the UNESCO World Network in 2011**.
-6. **Uttar Pradesh has zero Biosphere Reserves.** Nanda Devi (नंदा देवी) BR is in **Uttarakhand** (उत्तराखंड), not UP.
-7. Dudhwa (दुधवा) is a National Park. Valmiki (वाल्मीकि) is a Bihar National Park. Neither is a UP Biosphere Reserve.
-8. Match fact: **Simlipal–Odisha**, **Nokrek–Meghalaya**, **Agasthyamalai–Kerala**, **Manas–Assam**.
-9. Match fact: **Simlipal–Odisha**, **Pachmarhi–Madhya Pradesh**, **Nanda Devi–Uttarakhand**, **Nokrek–Meghalaya**.
-10. **Panna (Madhya Pradesh, 2011)** is India’s newest notified Biosphere Reserve.
-11. Madhya Pradesh has **three** Biosphere Reserves: Pachmarhi, Achanakmar–Amarkantak (with Chhattisgarh), and Panna.
-12. Multi-state classics: **Nilgiri** (नीलगिरि) (Tamil Nadu (नाडु)–Karnataka–Kerala), **Agasthyamalai** (Kerala–Tamil Nadu), **Achanakmar–Amarkantak** (MP–Chhattisgarh).
-13. Core allows **no exploitation**. Buffer allows limited research and education use. Transition supports livelihoods.
-14. A National Park is the strictest Wildlife Protection Act site. A Biosphere Reserve adds sustainable use and research under MAB.
-15. World Network membership is a UNESCO subset of national Biosphere Reserves. National listing alone is not enough for WNBR.
-16. Bihar and Rajasthan also have **zero** Biosphere Reserves. Valmiki remains an NP, not a BR.
-17. Gulf of Mannar is a **marine** Biosphere Reserve in Tamil Nadu. Sundarbans (सुंदरबन) BR is in West Bengal.
-18. Cold Desert BR is in **Himachal (हिमाचल) Pradesh**. Khangchendzonga BR is in **Sikkim**.
-19. Seshachalam Hills BR is in **Andhra Pradesh**. Great Nicobar (निकोबार) BR is in the Andaman (अंडमान) and Nicobar Islands.
-20. Periodic UNESCO review can delist a site from the World Network — India’s example is **Manas 2011**.
-21. Yellowstone, Serengeti–Ngorongoro, Galápagos, Lake Baikal, Doñana, and Mount Kenya are classic world Biosphere icons.
-22. Do not place Nanda Devi in Uttar Pradesh on a match list. After bifurcation it is an **Uttarakhand** site.
-23. Agasthyamalai paired only with Kerala is accepted as correct in recent papers even though the landscape also spans Tamil Nadu.
-24. Biosphere Reserves can overlap National Parks and World Heritage (विश्व धरोहर) tags, but the MAB label is still a separate tool.
-25. Among common options, **biosphere reserves** are the best strategy for conserving biodiversity **together with traditional human life / cultural diversity**. **Gulf of Mannar** is often cited as India’s richest marine biodiversity BR mosaic.
-
-</details>
+1. **Nokrek** is in **Meghalaya** (मेघालय). Pairing Nokrek with **Manipur** is always wrong.
+2. **Manas (Assam)** remains a national Biosphere Reserve but was **removed from the UNESCO World Network in 2011**.
+3. **Uttar Pradesh has zero Biosphere Reserves.** Nanda Devi (नंदा देवी) BR is in **Uttarakhand** (उत्तराखंड), not UP.
+4. **Panna (Madhya Pradesh, 2011)** is India’s newest notified Biosphere Reserve.
+5. **Three zones:** **Core** (no exploitative use / genetic diversity (आनुवंशिक विविधता)) → **Buffer** (research, education, regulated eco-tourism and grazing) → **Transition** (settlements, crop cultivation, livelihoods).
+6. **Triple mandate:** conservation + sustainable development + logistic support (research/monitoring/education).
+7. **Agasthyamalai** includes Neyyar, Peppara, Shendurney WLS and **Kalakad–Mundanthurai Tiger Reserve**.
+8. **Gulf of Mannar** is often the largest **UNESCO-certified** Indian BR by area; **Great Rann of Kutch** is the largest **national** BR.
+9. **Bundala** Biosphere Reserve is in **Sri Lanka**, not India.
+10. **Largest BR:Great Rann of Kutch**, Gujarat. **Smallest:Nokrek**, Meghalaya.
+11. **Newest notified:Panna**, Madhya Pradesh (2011).
+12. **Manas (Assam)** remains a **national BR** but was **removed from UNESCO WNBR in 2011**.
+13. **Madhya Pradesh** has three BRs: Pachmarhi, Achanakmar–Amarkantak (with Chhattisgarh), Panna.
+14. **Uttar Pradesh has no notified Biosphere Reserve.**
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Biosphere Reserve (BR)** | **National Park (NP)** | Landscape-level conservation integrating human livelihoods (MAB 3-tier zoning) vs species/habitat preservation strictly excluding human activity | जैवमंडल आरक्षित क्षेत्र / राष्ट्रीय उद्यान |
-| **National BRs in India** | **WNBR (UNESCO) Listed** | Total **18** Biosphere Reserves designated by MoEFCC vs **12** inducted into UNESCO's World Network of Biosphere Reserves | 18 राष्ट्रीय बायोस्फीयर / 12 यूनेस्को WNBR सूची |
-| **First BR in India** | **Latest BR added to WNBR** | **Nilgiri** (1986, TN/KER/KAR) vs **Panna** (2020, Madhya Pradesh) | प्रथम बायोस्फीयर (नीलगिरि 1986) / नवीनतम यूनेस्को (पन्ना 2020) |
-| **Core Zone** | **Buffer Zone** | Legally protected untouched sanctum sanctorum vs zone surrounding core where research, education, and limited tourism are permitted | कोर क्षेत्र (पूर्णतः सुरक्षित) / बफर क्षेत्र (सीमित गतिविधि) |
-| **Buffer Zone** | **Transition Zone** | Managed area buffering the core vs outermost area where local communities, agriculture, and settlements sustainably coexist | बफर जोन / संक्रमण क्षेत्र (बस्तियां/खेती) |
-| **Nokrek Biosphere Reserve** | **Loktak Lake** | Located in Garo Hills, **Meghalaya** (Citrus indica) vs freshwater wetland in **Manipur** | नोकरेक (मेघालय) / लोकटक (मणिपुर) |
-| **Uttar Pradesh BR count** | **Madhya Pradesh BR count** | **Zero** Biosphere Reserves in UP vs **3** Biosphere Reserves in MP (Pachmarhi, Achanakmar-Amarkantak, Panna) | यूपी (शून्य बायोस्फीयर) / म.प्र. (3 बायोस्फीयर) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Nokrek = Manipur | **Meghalaya** |
+| Simlipal = Madhya Pradesh | **Odisha** |
+| UP has a Biosphere Reserve | **Zero** |
+| Nanda Devi = UP | **Uttarakhand** |
+| Manas no longer a BR | Still **national** BR; UNESCO removed 2011 |
+| BR = WPA category | **Executive / MAB**, not WPA Sec 35 |
+| Core allows farming | **No** exploitative use in core |
+| Dudhwa / Valmiki = UP BR | NP / Bihar NP — not UP BR |
+| Agasthyamalai = Assam | **Kerala (+ TN)** |
+| First BR = Nanda Devi | **Nilgiri 1986** |
+| BR only for a few species | Conserves **all forms of life** + sustainable use |
+| Largest BR = Nokrek | **Great Rann of Kutch** (national); Gulf of Mannar often largest UNESCO-certified |
+| Khangchendzonga = HP | **Sikkim**; Cold Desert = HP |
+| Bundala = India | **Sri Lanka** |
+| Nallamalai = Indian BR | **Not** a notified BR |
+| Transition = no people | Transition = **settlements / livelihoods** |
 
 
 ---

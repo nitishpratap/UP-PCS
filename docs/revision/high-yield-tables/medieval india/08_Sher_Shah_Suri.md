@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 8 — Sher Shah (शेरशाह) Suri</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -32,11 +30,7 @@ hide:
 | Jaunpur education | Sasaram birth | **Siraj-i-Hind** schooling vs birthplace/tomb | जौनपुर / सासाराम |
 | Marwar | Mewar (Jayata–Kumpa) | Rathore Maldeo vs Sisodia Pratap/Sanga | मारवाड़ / मेवाड़ |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Battle / event ↔ year
 
@@ -120,18 +114,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Farid Khan (फरीद खान) of Sasaram (सासाराम) became Sher Khan (शेर खान) after the tiger-kill tradition, then Sher Shah Suri as Padshah from 1540.
-- **Exam Anchor:** The Sur empire lasted only about 1540–1545, yet its admin, roads, and revenue model shaped later Mughal (मुग़ल) practice.
-- **Exam Anchor:** At Chausa (चौसा) on 26 June 1539, Sher Shah defeated Humayun (हुमायूँ), who escaped across the Ganga (गंगा) on a mashak.
-- **Exam Anchor:** At Kannauj (कन्नौज)/Bilgram (बिलग्राम) on 17 May 1540, Sher Shah won decisively and Humayun fled into exile.
 - **Exam Anchor:** Daurah (दौराह) (1532) was Humayun versus Afghan chiefs; it is not Sher Shah's Chausa battle.
-- **Exam Anchor:** Chronology fact: Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh (समुगढ़) 1658.
-- **Exam Anchor:** Sher Shah died in May 1545 at the Kalinjar (कालिंजर) siege from a gunpowder blast; his tomb is the lake mausoleum at Sasaram.
-- **Exam Anchor:** Successor Islam Shah (Jalal Khan) ruled 1545–1553; Humayun returned to Delhi–Agra in 1555.
-
-</details>
+- **Exam Anchor:** Jarib (जरीब) is the measuring rope used to fix the bigha; it is not a tax. Taxes included Jaribana (जरीबाना - survey fee) and Muhasilana (मुहसिलाना - tax collection fee). Desai is the revenue collector.
+- **Exam Anchor:** Todar Mal (टोडर मल) trained under Sher Shah's revenue system before carrying measurement practice into Akbar (अकबर)'s court.
+- **Exam Anchor:** Jayata and Kumpa were loyal Marwar Rathore captains who died fighting; they were not Mewar (मेवाड़) warriors.
+- **Exam Anchor:** Barid (बरीद - spy) watched officers; the qazi (क़ाज़ी) judged by sharia and stayed outside the revenue chain.
+- **Exam Anchor:** Farid Khan was educated at Jaunpur (जौनपुर) (Siraj-i-Hind). He took Hazrat-e-Ala (हज़रत-ए-आला) in Bengal service, then Sher Shah (शेरशाह) after Chausa (1539).
+- **Exam Anchor:** Khayr-ul-Manazil near Purana Qila was built by Maham Anaga in Akbar's era, not by Sher Shah. Qila-i-Kuhna mosque stands inside Purana Qila — Sher Shah's work.
 
 ---
 

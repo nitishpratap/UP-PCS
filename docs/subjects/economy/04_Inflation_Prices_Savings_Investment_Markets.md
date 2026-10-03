@@ -28,7 +28,8 @@ Monetary-policy tools (repo, CRR, MPC) stay in Economy Topic 3. External exchang
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Inflation** is a sustained rise in the general price level, which cuts the purchasing power of money.
 2. **Deflation** is a sustained fall in the general price level.
@@ -81,8 +82,10 @@ Monetary-policy tools (repo, CRR, MPC) stay in Economy Topic 3. External exchang
 49. **Structural inflation** in India teaching stresses bottlenecks, storage and marketing rigidities.
 50. During inflation, **debtors gain** and **creditors lose** in real terms.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -98,6 +101,8 @@ Monetary-policy tools (repo, CRR, MPC) stay in Economy Topic 3. External exchang
 | **SEBI** | **RBI** | Securities market vs monetary / banking |
 | **Demand-pull** | **Bottleneck / cost-push** | Excess demand vs supply constraints / costs |
 | **Mutual fund** | **Direct equity only** | Pooled diversified portfolio vs single-stock DIY |
+
+</details>
 
 ## Must-score drill — indices and effects
 

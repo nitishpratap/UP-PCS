@@ -21,7 +21,8 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Ozone (O₃) is triatomic oxygen. **Stratospheric ozone** (समतापमंडलीय ओजोन) (about **15–30/35 km**) is protective “good” ozone. **Tropospheric ozone** (क्षोभमंडलीय ओजोन) is a ground-level pollutant.
 2. About **90%** of ozone is stratospheric; about **10%** is tropospheric. Stratospheric ozone is regulated in part by **NO₂**.
@@ -54,9 +55,10 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 29. Column thickness often highest in **spring**, lowest in **rainy season** (general seasonal pattern).
 30. Full teaching depth for this chapter also lives in Topic **36**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -67,7 +69,8 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 | **Dobson Unit (DU)** | **Parts Per Million (ppm)** | Standard unit measuring the total vertical column abundance of atmospheric ozone (1 DU = 0.01 mm thickness at STP; normal baseline ~300 DU) vs standard volumetric concentration ratio of trace gases in ambient air | डॉबसन यूनिट (स्तंभ ओजोन मोटाई) / पीपीएम (सान्द्रता अनुपात) |
 | **Polar Stratospheric Clouds (PSCs)** | **Cirrus Clouds** | High-altitude clouds forming in extreme Antarctic winter cold (-78°C / Type I and II) that catalyze chlorine release from reservoirs vs normal high-altitude wispy ice-crystal weather clouds in the upper troposphere | ध्रुवीय समतापमंडलीय बादल (PSCs) / पक्षाभ मेघ (ट्रोपोस्फेरिक) |
 | **Kigali Amendment (2016)** | **Paris Agreement (2015)** | Legally binding amendment to Montreal Protocol committing countries to progressively phase down consumption of hydrofluorocarbons (HFCs) by 80–85% vs UNFCCC climate framework agreement targeting global warming mitigation | किगाली संशोधन (HFC कटौती) / पेरिस समझौता (जलवायु लक्ष्य) |
----
+
+</details>
 
 ## Must-score facts — good/bad ozone (बुरा ओजोन), Montreal, Kigali
 

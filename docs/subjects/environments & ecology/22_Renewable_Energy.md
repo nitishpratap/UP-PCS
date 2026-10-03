@@ -21,7 +21,8 @@ Solar Energy | Wind Energy | Biomass Energy (बायोमास ऊर्ज�
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Renewable** energy replenishes on a human timescale — sun, wind, water, biomass, geothermal. **Nuclear** is low-carbon but usually **not** counted as renewable MCQs.
 2. **Solar PV** turns sunlight directly into electricity. **CSP** (सीएसपी) uses mirrors to make heat, then steam and turbines.
@@ -58,9 +59,10 @@ Solar Energy | Wind Energy | Biomass Energy (बायोमास ऊर्ज�
 33. Microbial fuel cells and bioasphalt appear as advanced sustainable-energy neighbours (wastewater electricity; non-petroleum road binder).
 34. Algae biofuel limits for developing countries: high expertise + large facilities with ecological/social concerns — **not** “seas only.”
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -70,7 +72,8 @@ Solar Energy | Wind Energy | Biomass Energy (बायोमास ऊर्ज�
 | **Geothermal Energy** | **Ocean Thermal Energy (OTEC)** | Harnesses natural high-temperature hydrothermal heat and steam from Earth's deep crustal magma reservoirs (e.g. Puga Valley, Ladakh; Manikaran, HP) vs exploits the temperature differential between warm tropical surface ocean water and freezing deep seawater (≥20°C gradient) | भू-तापीय ऊर्जा (पृथ्वी का आंतरिक ताप) / महासागरीय तापीय ऊर्जा (OTEC, सतही-गहन ताप भेद) |
 | **Small Hydro Power (SHP)** | **Large Hydro Power** | Hydropower installations with individual installed capacity up to and including **25 MW** administered under the Ministry of New and Renewable Energy (MNRE) vs large dam-based hydropower plants >25 MW administered under the Ministry of Power | लघु जल विद्युत (≤25 MW, MNRE) / बड़ी जल विद्युत परियोजनाएं (>25 MW) |
 | **International Solar Alliance (ISA)** | **International Renewable Energy Agency (IRENA)** | Treaty-based intergovernmental solar coalition initiated by India and France at COP21 Paris with global HQ in Gurugram, India vs global renewable energy intergovernmental agency covering all renewables founded in 2009 with HQ in Abu Dhabi, UAE | अंतरराष्ट्रीय सौर गठबंधन (ISA, गुरुग्राम) / इरेना (IRENA, अबू धाबी) |
----
+
+</details>
 
 ## Must-score facts — solar, wind, biomass, tidal
 

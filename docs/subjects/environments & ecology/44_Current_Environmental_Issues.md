@@ -21,7 +21,8 @@ Carbon Footprint | Ecological Footprint (पारिस्थितिक प�
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A **carbon footprint** totals greenhouse gases in **tCO₂e**. Scope **1** is direct, Scope **2** is purchased energy, Scope **3** is the wider value chain.
 2. India’s **per capita** carbon footprint is about **2 tCO₂e** — low versus global and USA averages — even though absolute (निरपेक्ष) emissions are high.
@@ -48,9 +49,10 @@ Carbon Footprint | Ecological Footprint (पारिस्थितिक प�
 23. LiFE is lifestyle and demand-side behaviour change, not a substitute for the entire NDC package.
 24. Blue economy is oceans and coasts. Green hydrogen is energy. Do not merge the two labels.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -61,7 +63,8 @@ Carbon Footprint | Ecological Footprint (पारिस्थितिक प�
 | **Primary Microplastics** | **Secondary Microplastics** | Tiny plastic beads (<5mm) intentionally manufactured for cosmetics and industrial pellets vs microscopic plastic fragments resulting from physical weathering and breakdown of larger plastic debris | प्राथमिक माइक्रोप्लास्टिक (निर्मित मनके) / द्वितीयक माइक्रोप्लास्टिक (अपघटित टुकड़े) |
 | **Nature-based Solutions (NbS)** | **Geoengineering** | Ecosystem protection, restoration, and sustainable management to address societal challenges (e.g. mangrove restoration) vs large-scale technological manipulation of Earth's systems (e.g. solar radiation management) | प्रकृति-आधारित समाधान (NbS) / भू-इंजीनियरिंग |
 | **Mission LiFE Genesis** | **Mission LiFE Official Launch** | Conceptualized and introduced by PM Modi at COP26 Glasgow in **November 2021** vs officially launched jointly with UN Secretary-General António Guterres at Ekta Nagar (Kevadia), Gujarat in **October 2022** | मिशन लाइफ विचार (ग्लासगो 2021) / औपचारिक शुभारंभ (केवड़िया 2022) |
----
+
+</details>
 
 ## Must-score facts — footprints, net zero, hydrogen, plastics
 

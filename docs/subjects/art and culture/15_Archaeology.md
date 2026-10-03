@@ -21,7 +21,8 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 ---.
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Archaeology** studies material remains through excavation (उत्खनन) and dating. **History** (इतिहास) builds narrative mainly from written sources. The two work together but are not the same method.
 2. **Stratigraphy** (स्तरिकी) uses the law of superposition: a lower undisturbed layer is older. **Typology** (प्रकारिकी) compares artefact styles across sites.
@@ -50,9 +51,10 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 25. **Dholavira** is a Gujarat Harappan city with water systems and a signboard. **Lothal** is the dockyard city of Gujarat. Keep both in Gujarat, not in UP.
 26. Rakhigarhi remains Haryana even when laboratories in Lucknow or Kolkata study its bones. Lab location does not move the site’s state.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -67,8 +69,7 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 | In-situ | Ex-situ | Conserve on the mound vs shift to a museum | स्थान पर / स्थानांतरित |
 | Bhimbetka | Harappa | Prehistoric rock shelter, **MP** vs IVC city | भीमबेटका / हड़प्पा |
 
----
-
+</details>
 
 ## Must-score facts — methods, ASI, Indus excavators
 

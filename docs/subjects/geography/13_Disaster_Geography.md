@@ -33,7 +33,8 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 ---
 
 
-## Consolidated — 31 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 31 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Coaching risk fact: **Risk ≈ Hazard × Vulnerability / Capacity**. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
 2. The disaster-management cycle runs **mitigation → preparedness → response → recovery**. Mitigation is before impact; response is during and just after.
@@ -69,9 +70,10 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 30. Early-warning chain: IMD (weather / cyclone / heat), INCOIS (tsunami / ocean), CWC (floods), GSI / NDMA guidance for landslides — do not dump every warning on one agency.
 31. **Sendai Framework** has **seven** global targets and **four** priorities for action (not six targets / three priorities). Priority 4 includes **Build Back Better** in recovery. It was adopted at the **Third** UN World Conference on DRR (Sendai, Japan).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -107,7 +109,7 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 | NDRF year | Raised **2006** (MHA) | 2005 = DM Act only | NDRF |
 | NEC chair | **Union Home Secretary** | Home Minister / PM | NEC |
 
----
+</details>
 
 ## Must-score facts — hazard types, DM cycle, India belts
 

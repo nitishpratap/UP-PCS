@@ -11,9 +11,20 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 11 — Population (जनसंख्या) Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **Census 2011** | Official number set until **Census 2027** | Every density/SR/literacy MCQ | ORGI |
+| **NFHS-5** | TFR ~**2.0** nationally | NFHS-4 (2015–16) figure used in 2018 was **2.2** | MoHFW |
+| **UNFPA** | World Population Report | 2021 Q79 | UNFPA |
+| **~2023** | UN estimate: India most populous | CA only — 2011 still 2nd in Census table | UN / UNFPA |
+| **NPP 2000** | Stable population **2045** | Policy year fact | MoHFW |
+| **11 July** | World Population Day | 2018 Q114 | UN |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -47,23 +58,6 @@ hide:
 | Geometric vs arithmetic | Population **geometric**; food **arithmetic** | Swap the two progressions | गुणोत्तर / समानांतर |
 | Positive vs preventive checks | Positive = **death** up; preventive = **birth** down | Swap | धनात्मक / निवारक नियंत्रण |
 | Social capillarity | **Arsène Dumont** | Henry George | सामाजिक केशिका |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Census 2011** | Official number set until **Census 2027** | Every density/SR/literacy MCQ | ORGI |
-| **NFHS-5** | TFR ~**2.0** nationally | NFHS-4 (2015–16) figure used in 2018 was **2.2** | MoHFW |
-| **UNFPA** | World Population Report | 2021 Q79 | UNFPA |
-| **~2023** | UN estimate: India most populous | CA only — 2011 still 2nd in Census table | UN / UNFPA |
-| **NPP 2000** | Stable population **2045** | Policy year fact | MoHFW |
-| **11 July** | World Population Day | 2018 Q114 | UN |
 
 ---
 
@@ -218,18 +212,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** India’s first non-synchronous census was in 1872 (some papers key 1871). The first synchronous all-India census was in 1881.
 - **Exam Anchor:** 1921 is the Great Divide year of Indian census history (इतिहास). 2011 was the 15th census and the 7th after Independence.
-- **Exam Anchor:** Census 2011 India population was about 121.09 crore. Decadal growth 2001–11 was 17.64%. India holds roughly one-sixth of world population in that count.
-- **Exam Anchor:** Arithmetic density is population / total area. India’s 2011 arithmetic density is 382 persons per km².
-- **Exam Anchor:** Physiological density is population / net sown area. Agricultural density is agricultural population / net sown area. Do not swap these three density types.
-- **Exam Anchor:** Among States, Bihar has the highest density (1106). West Bengal and Kerala follow high; Uttar Pradesh (उत्तर प्रदेश) is 829. Arunachal Pradesh has the lowest State density (17). Delhi UT is very dense but is not a “lowest density State (न्यूनतम जनघनत्व)” answer.
-- **Exam Anchor:** Core 2011 figures: sex ratio 943, child sex ratio 919, literacy 74.04% (age 7+), urban (नगरीय) share 31.16%. Scheduled Castes about 16.6%; Scheduled Tribes about 8.6%.
 - **Exam Anchor:** Uttar Pradesh (उत्तर प्रदेश) is the most populous State and has the largest rural population. Sikkim is the least populous State. Nagaland showed negative growth in 2001–11.
-
-</details>
+- **Exam Anchor:** CBR and CDR are expressed per thousand of population; TFR is children per woman. Do not mix the units.
+- **Exam Anchor:** Distribution is the spread of people across space.
+- **Exam Anchor:** Density is persons per unit area (with special NCERT variants for agricultural pressure).
+- **Exam Anchor:** Composition covers age, sex, literacy, rural–urban status, religion, caste/tribe and occupation.
+- **Exam Anchor:** Dynamics covers births, deaths, natural growth, fertility and migration.
+- **Exam Anchor:** 1921 is the Great Divide — the first decade of decline in the growth rate after the modern census series.
 
 ---
 

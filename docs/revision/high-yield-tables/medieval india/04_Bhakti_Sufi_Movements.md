@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 4 — Bhakti (भक्ति) & Sufi (सूफी) Movements</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -34,11 +32,7 @@ hide:
 | Ulema | Shaikh | Islamic law scholars vs Sufi guide authorised to teach | उलेमा / शेख |
 | Firdausi | Chishti core | **Bihar** (Yahya Maneri line) vs Delhi–Ajmer Chishti belt | फिरदौसी / चिश्ती |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Saint ↔ region / work
 
@@ -353,18 +347,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Southern Bhakti began with Nayanars (नायनार) (Shiva) and Alvars (आलवार) (Vishnu) in 7th–12th century Tamil land, before the north Indian sant wave.
-- **Exam Anchor:** The north chain runs roughly Namdev → Ramananda → Kabir → Nanak → Chaitanya → Surdas → Tulsidas.
 - **Exam Anchor:** Saguna (सगुण) bhakti worships a formed deity such as Rama or Krishna (कृष्ण); Nirguna (निर्गुण) worships the formless One (Kabir, Nanak).
-- **Exam Anchor:** Guru–disciple facts: Kabir (कबीर) and Ravidas under Ramananda; Surdas under Vallabhacharya (शुद्धाद्वैत); Amir Khusrau (अमीर खुसरो) under Nizamuddin Auliya; Mardana (मरदाना) under Guru Nanak (गुरु नानक).
-- **Exam Anchor:** Saint chronology: Namdev (नामदेव) (~1270–1350) → Kabir (15th c.) → Nanak (1469–1539) → Chaitanya (चैतन्य) (1486–1533).
-- **Exam Anchor:** Later saints: Surdas (1478–1581) → Tulsidas (तुलसीदास) (1532–1623) → Dadu Dayal (1544–1603).
-- **Exam Anchor:** The Chishti line runs Moinuddin → Qutbuddin Bakhtiyar Kaki → Baba Farid → Nizamuddin → Nasiruddin Chiragh, stressing poverty, sama (समा), and ziyarat.
-- **Exam Anchor:** Great Chishti shrines include Ajmer (अजमेर), Delhi (Nizamuddin), Ajodhan (Farid), Nagaur, and Pakpattan.
-
-</details>
+- **Exam Anchor:** Suhrawardi saints of Multan accepted state wealth; Naqshbandi reformers under Ahmad Sirhindi opposed syncretism.
+- **Exam Anchor:** Qadiri order entered India later (famous Multan–Uch and Deccan links); do not merge it with Chishti poverty or Suhrawardi office-holding.
+- **Exam Anchor:** Ramcharitmanas (रामचरितमानस) is Tulsidas in Awadhi (अवधी); Sursagar (सूरसागर) is Surdas in Braj (ब्रज).
+- **Exam Anchor:** Fawaid-ul-Fuad records Nizamuddin conversations compiled by Amir Hasan Sijzi, not by Amir Khusrau.
+- **Exam Anchor:** Ramananda (born Prayag (प्रयाग), ~1299) taught Rama bhakti in Hindi first among north sants; do not confuse with south Ramanuja (Vishishtadvaita).
+- **Exam Anchor:** Basavanna led Lingayat / Virashaiva reform in Karnataka with Ishtalinga, Kayaka, and Anubhava Mantapa.
+- **Exam Anchor:** Jayadeva wrote Gita Govinda (गीत गोविंद) in Odisha; Shankaradeva led Assam Vaishnavism (वैष्णव) with satra and kirtana-ghosha.
 
 ---
 

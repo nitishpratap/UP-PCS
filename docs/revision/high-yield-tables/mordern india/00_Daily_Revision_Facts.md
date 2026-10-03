@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Daily Read — High-Yield Revision Facts (Modern India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## 1. European Trading Companies & First Factories
 
@@ -303,7 +301,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Warren Hastings (1772–1785):
 - **Exam Anchor:** Regulating Act of 1773; became first Governor-General of Bengal.
@@ -313,8 +311,6 @@ hide:
 - **Exam Anchor:** Anglo-Nepal War (1814–1816): Concluded by Treaty of Sagauli (1816) — Kumaon and Garhwal ceded to the British (crucial UKPCS fact!).
 - **Exam Anchor:** Lord William Bentinck (1828–1835):
 - **Exam Anchor:** Charter Act of 1833: Became the First Governor-General of India.
-
-</details>
 
 ---
 

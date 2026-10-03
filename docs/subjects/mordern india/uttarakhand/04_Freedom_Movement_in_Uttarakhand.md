@@ -29,7 +29,8 @@
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **1857 — Kalu Mahara (Kalu Singh Mehra):** First hill freedom-fighter memory; secret org **Krantiveer** in Kali Kumaon (Bisung / Lohaghat); attacked British barracks at **Chandmari**; linked in tradition to Wajid Ali Shah’s invitation.
 2. **Almora Debating Club (1870)** and **Almora Akhbar (1871)** open the vernacular political press; after the Akhbar was banned, **Badridatt Pandey** founded weekly *Shakti* on **15 October 1918**.
@@ -56,7 +57,7 @@
 23. Hold the hill freedom spine: **1857 Kalu Mahara → press/Parishad → Coolie-Begar 1921 → Gandhi 1929 → Peshawar 1930 → Dandi/Dola-Palki → Quit India Sult 1942**.
 24. Coolie-Begar and Sult both need Cause → Course → Result memory; Peshawar is a refusal-to-fire card, not a massacre-by-hill-troops card.
 
----
+</details>
 
 ## The Six Landmark Sessions of Kumaon Parishad (1916–1926)
 
@@ -125,7 +126,8 @@ Out of 78 chosen satyagrahis who marched 240 miles with Gandhi from Sabarmati (�
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -136,7 +138,7 @@ Out of 78 chosen satyagrahis who marched 240 miles with Gandhi from Sabarmati (�
 | **Bardoli of Kumaon vs Bardoli of Garhwal** | Bardoli of Kumaon = **Sult (Almora)**; Bardoli of Garhwal = **Gujaddoo (Garhwal)**. |
 | **Peshawar Refusal vs Tilari Kand** | Peshawar = Garhwal Rifles refused to fire on citizens; Tilari = Royal troops fired on unarmed Tehri peasants. |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

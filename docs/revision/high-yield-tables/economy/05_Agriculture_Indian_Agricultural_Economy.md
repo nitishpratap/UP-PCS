@@ -11,9 +11,18 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 5 — Agriculture and Indian Agricultural Economy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **IYM / Shree Anna** | UN International Year of Millets **2023**; India brands millets as Shree Anna. | Millet producer / export stems. |
+| **Nano urea / DAP** | IFFCO Kalol commercial nano liquid urea / nano DAP plants. | Place–product identity. |
+| **PM-PRANAM** | Union Budget 2023–24 incentive for states to cut chemical fertilizer use. | Scheme name stem. |
+| **Agri-Stack / DPI** | Digital Public Infrastructure for Agriculture narrative. | Rolling CA — refresh figures from Survey. |
+
+---
 
 | Pair (A vs B) | Correct Feature / Institution | Trap to avoid | Hindi keyword |
 | :--- | :--- | :--- | :--- |
@@ -27,21 +36,6 @@ hide:
 | **Amber Box vs Green Box** | **Amber Box:** Trade-distorting subsidies (MSP, input subsidies; capped at 10%).<br>**Green Box:** Non-trade distorting (R&D, disaster relief; allowed without limit). | MSP procurement falls in the Amber Box, NOT the Green Box. | अंबर बॉक्स (व्यापार विकृत) / ग्रीन बॉक्स (स्वीकृत) |
 | **PMKSY Per Drop More Crop vs Har Khet Ko Pani** | **Per Drop More Crop:** Micro-irrigation (Drip & Sprinkler).<br>**Har Khet Ko Pani:** Creating new water sources, repair of water bodies. | Do not confuse micro-irrigation with surface water creation. | प्रति बूंद अधिक फसल (सूक्ष्म सिंचाई) |
 | **Sikkim vs Lakshadweep Organic** | **Sikkim:** First 100% Organic **State** in India/World (2016).<br>**Lakshadweep:** First 100% Organic **Union Territory** (2020). | Watch the State vs Union Territory distinction in questions. | सिक्किम (राज्य) / लक्षद्वीप (UT) |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **IYM / Shree Anna** | UN International Year of Millets **2023**; India brands millets as Shree Anna. | Millet producer / export stems. |
-| **Nano urea / DAP** | IFFCO Kalol commercial nano liquid urea / nano DAP plants. | Place–product identity. |
-| **PM-PRANAM** | Union Budget 2023–24 incentive for states to cut chemical fertilizer use. | Scheme name stem. |
-| **Agri-Stack / DPI** | Digital Public Infrastructure for Agriculture narrative. | Rolling CA — refresh figures from Survey. |
 
 ---
 
@@ -96,18 +90,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Agriculture and allied sectors contribute approximately 17%–18% of India's Gross Value Added (GVA) at current prices, but engage ~45%–47% of the nation's total workforce.
-- **Exam Anchor:** According to the Agricultural Census of India (conducted quinquennially since 1970–71), agricultural holdings are classified into 5 categories: Marginal (< 1.00 ha), Small (1.00–2.00 ha), Semi-Medium (2.00–4.00 ha), Medium (4.00–10.00 ha), and Large (≥ 10.00 ha).
 - **Exam Anchor:** Small and Marginal Farmers (SMFs, holding < 2.0 ha) account for ~86.2% of all operational land holdings in India, but operate only ~47.3% of the total operated area.
 - **Exam Anchor:** Marginal holdings (< 1.0 ha) alone constitute 68.5% of all agricultural land holdings in India, with an average operational size of just 0.38 hectare.
-- **Exam Anchor:** The all-India average size of operational land holdings has consistently declined from 2.28 hectares in 1970–71 to 1.08 hectares in 2015–16 due to generational land subdivision and population pressure.
-- **Exam Anchor:** The state having the highest average size of operational land holdings in India is Nagaland (~5.06 ha) followed by Punjab (~3.62 ha) and Rajasthan (~2.73 ha); Kerala has among the lowest (~0.18 ha).
-- **Exam Anchor:** India is divided into 15 broad Agro-Climatic Zones by the Planning Commission (1988) based on physiography, climate, soil, and cropping patterns; ICAR under NARP classifies India into 127 Agro-Climatic Zones (and Uttar Pradesh into 9 zones).
 - **Exam Anchor:** Kharif crops (खरीफ) are sown with the onset of the South-West Monsoon in June–July and harvested in September–October; major crops include Rice, Maize, Jowar, Bajra, Cotton, Jute, Groundnut, Soybean, Tur/Arhar, Urad, and Moong.
-
-</details>
+- **Exam Anchor:** Rabi crops (रबी) are sown in October–November (winter onset) and harvested in March–April (spring); major crops include Wheat, Barley, Gram (चना), Mustard (सरसों), Linseed (अलसी), Peas (मटर), and Potato.
+- **Exam Anchor:** Zaid crops (जायद) are short-duration summer crops grown from March to June between Rabi harvest and Kharif sowing; predominantly include cucurbitaceous crops: Watermelon (तरबूज), Muskmelon (खरबूजा), Cucumber (खीरा), Bitter gourd (करेला), Moong, and leafy vegetables/fodder.
+- **Exam Anchor:** Rice (चावल) is the most cultivated crop in India, occupying the largest gross cropped area (~47 million hectares); West Bengal is the largest producer of Rice, while Punjab has the highest per-hectare productivity.
+- **Exam Anchor:** Wheat (गेहूं) is the second most important cereal crop in India, occupying ~31 million hectares; Uttar Pradesh is the largest producer of Wheat in terms of total absolute output, while Punjab records the highest yield/productivity per hectare.
+- **Exam Anchor:** Shree Anna (श्री अन्न / Millets) was championed by India, leading the UN to declare 2023 as the International Year of Millets; Rajasthan is the largest producer of Bajra (Pearl Millet), while Karnataka/Maharashtra lead in Jowar (Sorghum).
 
 ---
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 6 — Medieval Music & Culture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -25,11 +23,7 @@ hide:
 | Akbar | Muhammad Shah music | Dhrupad peak (Tansen) vs Khayal/Tappa later bloom | अकबर / मुहम्मद शाह |
 | Tabla | Pakhawaj | Khayal/thumri accompaniment vs dhrupad drum | तबला / पखावज |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Form ↔ tag
 
@@ -142,18 +136,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Sultanate music fused Amir Khusrau (अमीर खुसरो), Chishti (चिश्ती) sama (समा), and Hindavi synthesis before the Mughal dhrupad peak.
 - **Exam Anchor:** Dhrupad is the oldest art form, uses pakhawaj (पखावज), and runs from Man Singh (मान सिंह) Tomar to Tansen (तानसेन).
 - **Exam Anchor:** Khayal (ख्याल) is dominant today, uses tabla (तबला), and bloomed under Muhammad Shah through Sadarang / Adarang.
 - **Exam Anchor:** Qawwali (क़व्वाली) is the Sufi (सूफी) chorus linked to Amir Khusrau and the Nizamuddin Auliya circle.
 - **Exam Anchor:** Tappa (टप्पा) was refined at Muhammad Shah Rangeela (रंगीला)’s court, not at Akbar (अकबर)’s (अकबर) court.
 - **Exam Anchor:** Tarana (तराना) uses nonsense syllables and is traditionally linked to Khusrau.
-- **Exam Anchor:** Before Akbar, Raja (राजा) Ramchandra of Bhata (Rewa) patronised Tansen.
-- **Exam Anchor:** Under Akbar, Tansen was a Navratna and dhrupad master; his honorific was Miyan Tansen.
-
-</details>
+- **Exam Anchor:** Amir Khusrau (1253–1325) was a disciple of Nizamuddin and served Balban (बलबन) / Alauddin / Ghiyasuddin courts — not Akbar.
+- **Exam Anchor:** Raga Vibodh belongs to Somanath (1609); Ashiqa belongs to Amir Khusrau — never swap them.
+- **Exam Anchor:** Akbar (अकबर) marks the dhrupad peak; Muhammad Shah marks the later khayal and tappa bloom.
 
 ---
 

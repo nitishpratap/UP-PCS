@@ -11,27 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 12 — Constitutional Bodies</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **CEC** removal | **EC** removal | Like **SC judge** (impeachment) | Only on **CEC’s recommendation** |
-| **UPSC** | **SPSC** | President appoints **and** (in effect) removal path is Presidential | **Governor** appoints; **President** removes |
-| **ECI** | **SEC** | Parliament, State Houses, President, VP | Panchayat + ULB only (**243K/ZA**) |
-| **AG** | **SC judge** | Pleasure of President; private practice | Impeachment; no private practice |
-| **CAG** | **PAC** | Audits and **reports** | **Examines** the CAG report |
-| **FC** | **NITI** | Constitutional, tax-share | Executive think-tank; **not** 280 |
-| **350B** | **350A** | Special Officer (Union) | States’ duty: mother-tongue primary |
-| **338B NCBC** | **340 commission** | Standing constitutional body (2018) | Ad hoc inquiry (Kalelkar / Mandal) |
-| **338A NCST** | **339(1) commission** | Standing ST commission | Ad hoc Scheduled Areas / ST-welfare inquiry |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## Current Affairs
 
@@ -46,6 +26,20 @@ hide:
 | 2018 / 2021 | 102nd NCBC constitutional; **105th** State OBC (अन्य पिछड़ा वर्ग) lists | 338B vs 340 |
 | 1992–93 | *Indra (इन्द्र) Sawhney* → NCBC Act | Why a standing OBC body |
 | 1963 / 67 | Official Languages Act | English continues after 15-year clause |
+
+---
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
+| **CEC** removal | **EC** removal | Like **SC judge** (impeachment) | Only on **CEC’s recommendation** |
+| **UPSC** | **SPSC** | President appoints **and** (in effect) removal path is Presidential | **Governor** appoints; **President** removes |
+| **ECI** | **SEC** | Parliament, State Houses, President, VP | Panchayat + ULB only (**243K/ZA**) |
+| **AG** | **SC judge** | Pleasure of President; private practice | Impeachment; no private practice |
+| **CAG** | **PAC** | Audits and **reports** | **Examines** the CAG report |
+| **FC** | **NITI** | Constitutional, tax-share | Executive think-tank; **not** 280 |
+| **350B** | **350A** | Special Officer (Union) | States’ duty: mother-tongue primary |
+| **338B NCBC** | **340 commission** | Standing constitutional body (2018) | Ad hoc inquiry (Kalelkar / Mandal) |
+| **338A NCST** | **339(1) commission** | Standing ST commission | Ad hoc Scheduled Areas / ST-welfare inquiry |
 
 ---
 
@@ -233,18 +227,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A constitutional body is created by the Constitution itself. Pay is often charged on the Consolidated Fund, and removal is often on the lines of a Supreme Court judge.
-- **Exam Anchor:** The Election Commission (Article 324) superintends elections to Parliament, State legislatures, the President, and the Vice-President. It does not elect the Speaker and does not run Panchayat or municipality polls (those belong to the State Election Commission).
-- **Exam Anchor:** Disputes over President or Vice-President elections go to the Supreme Court under Article 71, not to the Election Commission. Article 325 creates one general electoral roll. Article 326 is adult suffrage.
-- **Exam Anchor:** The Election Commission began as a single-member body in 1950, became multi-member in 1989, briefly single again in 1990, and has been three-member from 1993. The Chief Election Commissioner is removed like a Supreme Court judge; other Election Commissioners are removed only on the CEC’s recommendation.
-- **Exam Anchor:** An Election Commissioner’s term is six years or age 65, whichever is earlier. The first CEC was Sukumar Sen. The first woman CEC was V.S. Ramadevi (1990). The 2023 Act places selection with the Prime Minister, Leader of Opposition in the Lok Sabha (लोकसभा), and a Union Cabinet Minister — the Chief Justice is not on that panel.
-- **Exam Anchor:** The UPSC (Articles 315–323) is appointed by the President. Term is six years or age 65. Roughly half the members must have at least ten years of government service. Removal follows the Supreme Court judge path after a Supreme Court inquiry (317).
-- **Exam Anchor:** UPSC advice is not binding. UPSC functions come from four (चातुर्याम) sources: the Constitution, Parliament, rules, and conventions. After leaving office, a UPSC Chairperson cannot take further Union or State office (319).
-- **Exam Anchor:** A State PSC member is appointed by the Governor but removed by the President, not the Governor. Extra functions for a State PSC need a law of the State Legislature (321). A Joint PSC for two or more States needs a Parliament law; the President appoints.
-
-</details>
+- **Exam Anchor:** Articles 350, 350A, and 350B came through the 7th Amendment (1956), not the 9th. 350 allows representation in any language; 350A (अनु. 350A) protects mother-tongue instruction at the primary stage; 350B creates one Special Officer for Linguistic Minorities for the whole of India.
+- **Exam Anchor:** Article 338 is the National Commission for Scheduled Castes (with list power under 341). 338A is the National Commission for Scheduled Tribes (342). 338B is the National Commission for Backward Classes (342A), given constitutional status by the 102nd Amendment.
+- **Exam Anchor:** Article 339 allows an ad hoc commission on Scheduled Areas and Scheduled Tribes administration — it is not the standing NCST. Article 340 is the inquiry article behind Kalelkar/Mandal-type exercises — it is not the standing NCBC under 338B.
+- **Exam Anchor:** NITI Aayog (नीति आयोग) is an executive body (Cabinet Resolution). NHRC (राष्ट्रीय मानव अधिकार आयोग) is statutory. NCSC (राष्ट्रीय अनुसूचित जाति आयोग) is constitutional. Sorting bodies by creation source is a standing prelims skill.
+- **Exam Anchor:** Warrant of Precedence (वरीयता):Chief Election Commissioner = rank 9A (with CAG and UPSC Chair; after SC judges — rank 9). Full table → Topic 6.
+- **Exam Anchor:** Article 324(1) gives the Election Commission superintendence, direction, and control over these four elections.
+- **Exam Anchor:** Article 324(2) provides for a Chief Election Commissioner plus such other Election Commissioners as the President may fix from time to time; Regional Commissioners may also be appointed.
+- **Exam Anchor:** Article 324(5) removes the CEC only like an SC judge. Other ECs and Regional Commissioners cannot be removed except on the CEC's recommendation.
 
 ---
 

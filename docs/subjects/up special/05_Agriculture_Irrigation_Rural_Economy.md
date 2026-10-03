@@ -10,7 +10,8 @@
 |---|---|---|
 | Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Uttar Pradesh is divided into **9 Agro-Climatic Zones** by the Planning Commission.
 2. The **South-Western Semi-Arid Zone** (Agra, Mathura) receives the **lowest rainfall** in Uttar Pradesh.
@@ -63,9 +64,10 @@
 49. **Ahraura Dam, Adwa Dam, and Sirsi Dam** are located in **Mirzapur district**.
 50. **Parichha Dam** is built on the **Betwa River in Jhansi district**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@
 | **Badua Dam (Bihar)** | **Baghelkhand Dams (UP)** | Badua Dam is in **Banka, Bihar** (NOT UP); Adwa/Sirsi/Meja are in **UP**. |
 | **Tubewell Share (~75%)** | **Canal Share (~15%)** | Tubewells are the **overwhelming #1 source**; Canals are a distant **#2**. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

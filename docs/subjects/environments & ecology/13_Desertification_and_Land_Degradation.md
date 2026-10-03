@@ -21,7 +21,8 @@ Desertification | Land Degradation | Soil Erosion
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** areas from climate variation plus human pressure.
 2. Desertification is **not** only “desert expanding.” Any dryland losing productivity can count.
@@ -48,9 +49,10 @@ Desertification | Land Degradation | Soil Erosion
 23. Wasteland means degraded land poorly suited to cultivation — related to, but not identical with, desertification’s ASDM definition.
 24. LDN by 2030 is an SDG land target; do not date UNCCD itself as 2030.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -60,7 +62,8 @@ Desertification | Land Degradation | Soil Erosion
 | **Splash Erosion** | **Rill Erosion** | Initial detachment and airborne displacement of soil particles caused directly by the physical impact of falling raindrops vs intermediate erosion stage where tiny, shallow, visible finger-like channels are formed on sloped ground | आघात (स्पलैश) अपरदन / क्षुद्र सरिता (रिल) अपरदन |
 | **UNCCD (1994)** | **UNFCCC (1992)** | Sole legally binding international treaty linking environment and development to sustainable land management, desertification, and drought in drylands vs framework convention dedicated to addressing anthropogenic climate change and greenhouse gases | मरुस्थलीकरण रोकथाम संधि (UNCCD) / जलवायु परिवर्तन संधि (UNFCCC) |
 | **Land Degradation Neutrality (LDN)** | **Net Zero Emissions** | Target under UN SDG 15.3 ensuring that the quantity and quality of land resources necessary to support ecosystem functions remain stable or increase by 2030 vs balancing greenhouse gas emissions with equivalent removals | भूमि क्षरण तटस्थता (LDN, SDG 15.3) / नेट जीरो उत्सर्जन |
----
+
+</details>
 
 ## Must-score facts — drylands, erosion, UNCCD, schemes
 

@@ -15,7 +15,8 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Southern Bhakti began with **Nayanars (नायनार) (Shiva)** and **Alvars (आलवार) (Vishnu)** in **7th–12th** century Tamil land, before the north Indian sant wave.
 2. The north chain runs roughly **Namdev → Ramananda → Kabir → Nanak → Chaitanya → Surdas → Tulsidas**.
@@ -54,9 +55,10 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 35. **Dadu Dayal** of Rajasthan taught nirguna devotion after Kabir’s generation; keep him after Surdas–Tulsidas in the later sant list.
 36. **Akka Mahadevi** (Kannada Virashaiva woman saint) pairs with Basavanna’s Karnataka reform, not with Mirabai’s Rajasthan Krishna bhakti.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -76,7 +78,8 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 | Chisht (Afghanistan) | Ajmer | Order name origin vs Moinuddin's Indian centre | चिश्त / अजमेर |
 | Ulema | Shaikh | Islamic law scholars vs Sufi guide authorised to teach | उलेमा / शेख |
 | Firdausi | Chishti core | **Bihar** (Yahya Maneri line) vs Delhi–Ajmer Chishti belt | फिरदौसी / चिश्ती |
----
+
+</details>
 
 ## Must-score facts — saints, silsilah, Vedanta
 

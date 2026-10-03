@@ -23,7 +23,8 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 ---.
 
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Asiatic Society of Bengal** was founded in **1784** at Calcutta by **Sir William Jones. Warren Hastings** declined the Presidentship in Jones’s favour.
 2. **Fort William College** was set up in **1800** by **Lord Wellesley** to train Company officers in Indian languages.
@@ -60,9 +61,10 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 33. **ICCR** does cultural diplomacy abroad. The seven **ZCCs** do regional folk outreach inside India. Do not swap MEA vs Culture parentage.
 34. Protected-monument status under AMASR is national legal protection. UNESCO World Heritage listing is a separate international inscription.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -80,6 +82,8 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 ---
 
 ![Institutions Related to Indian Culture Master Revision Cheat Sheet](images/00_topic01_institutions_overview_cheat_sheet.png)
+
+</details>
 
 ## Must-score facts — societies, colleges, museums
 

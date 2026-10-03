@@ -11,51 +11,51 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 28 — Environmental Research & Institutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Headquarters map: **Kolkata** — BSI and ZSI; **Dehradun** (देहरादून) — FSI, FRI, and WII; **New Delhi** — NBPGR; **Chennai** — NBA.
-2. **BSI (1890, Kolkata)** surveys **plants** (*Flora* (वनस्पति), plant Red Data Book (रेड डेटा बुक)). **ZSI (1916, Kolkata)** surveys **animals** (*Fauna* (प्राणीजात), animal Red Data Book).
-3. **FSI (1981, Dehradun)** maps forest cover (वन आवरण) and publishes **ISFR every two years**. **FRI (1906, Dehradun)** does forestry **research** under the ICFRE world — it does **not** publish ISFR.
-4. **WII (1982, Dehradun)** does wildlife research, IFS/officer training, and tiger-census protocols.
-5. **NBA** under the Biological Diversity Act sits in **Chennai**, not Delhi. It handles foreign access and ABS at the national level.
-6. Biodiversity pyramid (पिरामिड): **NBA (national) → SBB (state) → BMC (local)**. BMCs prepare the **People’s Biodiversity Register (PBR)**.
-7. **NBPGR (1978, New Delhi, ICAR)** is the plant gene bank. It is **not** Kolkata BSI and **not** Karnal **NBAGR** (animals).
-8. ISFR **2023** class figures often cited: India about **21.76%** forest cover; Uttar Pradesh (उत्तर प्रदेश) about **6.24%**. UP districts with **>20%** forest cover in that reading (रीडिंग) were **Chandauli and Shravasti only** — **Bahraich** was not in that pair.
-9. BSI ≠ animals; ZSI ≠ plants; FRI ≠ ISFR; NBA ≠ Delhi; PBR ≠ NBA headquarters function.
-10. SBB is the state biodiversity board — not the State Pollution Control Board.
-11. NBPGR ≠ Kolkata. Gene bank is Delhi; plant survey is Kolkata.
-12. ISFR is biennial, not annual.
-13. UPSBB sits in the Lucknow (लखनऊ) state-biodiversity lane; WII supports Terai (तराई) wildlife science links.
-14. BMC is local and owns PBR documentation of local biodiversity knowledge.
-15. SBB supervises state-level commercial access and BMC work under BDA — domestic track beside NBA’s foreign-access focus.
-16. FRI research ≠ FSI satellite forest-cover accounting, even though both are Dehradun forestry institutions.
-17. WII is wildlife science/training — not the ISFR publisher and not the plant gene bank.
-18. Red Data Books from BSI/ZSI are national catalogues; IUCN (आईयूसीएन) Red List remains the global risk ladder (different chapter neighbour).
-19. NBA year fact rides on BDA **2002** institutionalisation — headquarters city remains Chennai.
-20. Gene-bank NBPGR serves crop genetic resources for all states, including UP, from New Delhi.
-21. Forest-cover percentage traps for UP hinge on Chandauli + Shravasti, not a long distractor list of Terai districts.
-22. PBR is prepared locally by BMCs; it is not an NBA HQ publication series.
-23. Match institution → city before matching function. Wrong city is enough to kill a match list.
-24. Dehradun trio: FSI (cover/ISFR), FRI (research), WII (wildlife). Keep the three jobs separate.
-
-</details>
+1. **BSI (1890, Kolkata)** surveys **plants** (*Flora* (वनस्पति), plant Red Data Book (रेड डेटा बुक)). **ZSI (1916, Kolkata)** surveys **animals** (*Fauna* (प्राणीजात), animal Red Data Book).
+2. **FSI (1981, Dehradun)** maps forest cover (वन आवरण) and publishes **ISFR every two years**. **FRI (1906, Dehradun)** does forestry **research** under the ICFRE world — it does **not** publish ISFR.
+3. **WII (1982, Dehradun)** does wildlife research, IFS/officer training, and tiger-census protocols.
+4. **NBA** under the Biological Diversity Act sits in **Chennai**, not Delhi. It handles foreign access and ABS at the national level.
+5. **NBPGR (1978, New Delhi, ICAR)** is the plant gene bank. It is **not** Kolkata BSI and **not** Karnal **NBAGR** (animals).
+6. **BSI** is the national organisation for survey, taxonomy, and documentation of **Indian plant diversity**.
+7. **Does not** survey animals (ZSI), map forest cover (FSI), or store crop gene banks (NBPGR).
+8. **ZSI** documents **Indian animal (faunal) diversity** — taxonomy and inventories.
+9. **ZSI ≠ WII:** ZSI = species inventory/taxonomy; WII = applied wildlife ecology (पारिस्थितिकी) and training.
+10. **FSI** monitors India's **forest and tree cover (वृक्ष आवरण)** using satellite imagery and ground verification.
+11. **ISFR 2023:** India forest cover **21.76%**; UP **6.24%**.
+12. **FRI** is India's premier **forestry research** institute — silviculture, pathology, entomology, wood science, NTFPs.
+13. **FRI ≠ FSI:** both in Dehradun — FRI = **how to grow/manage forests**; FSI = **how much forest exists on the map**.
+14. **WII** is MoEFCC's autonomous institute for **wildlife research, training, and conservation science**.
+15. **Does not** do national plant/animal taxonomy (BSI/ZSI) or publish ISFR (FSI).
+16. **NBA** is the national statutory body under the **Biological Diversity Act, 2002**.
+17. **Does not** prepare People's Biodiversity Registers — that is **BMC**.
+18. **Uttar Pradesh State Biodiversity Board (UPSBB)** sits at **Lucknow** (लखनऊ).
+19. **SBB ≠ SPCB:** SBB = biodiversity (BDA); SPCB = pollution (Water/Air Acts).
+20. **BMC** is the **local** committee under BDA 2002 — at panchayat, municipality, or cantonment level.
+21. **PBR is not prepared by NBA or BSI**.
+22. **NBPGR** conserves **plant genetic resources** — seeds, tissue, DNA — for food and agriculture.
+23. **Ex-situ** (स्थानांतरित) conservation — complementary to in-situ (स्थान पर) protected areas.
+24. **NBPGR ≠ BSI:** BSI surveys/taxonomy (Kolkata); NBPGR stores germplasm (Delhi).
+25. **NBPGR ≠ NBAGR:** animals/livestock gene bank is **NBAGR, Karnal**.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Botanical Survey of India (BSI)** | **Zoological Survey of India (ZSI)** | Premier taxonomic institution (HQ: Kolkata, established 1890) undertaking floristic surveys, documenting plant species, and managing the Central National Herbarium vs premier institution (HQ: Kolkata, established 1916) surveying faunal diversity, animal taxonomy, and systematic collections | भारतीय वनस्पति सर्वेक्षण (BSI, 1890) / भारतीय प्राणी सर्वेक्षण (ZSI, 1916) |
-| **Forest Survey of India (FSI)** | **Forest Research Institute (FRI)** | Subordinate organization under MoEFCC (HQ: Dehradun, established 1981) conducting national forest resource inventory via satellite imagery and publishing biennial ISFR vs deemed university and premier research institution under ICFRE (HQ: Dehradun, established 1906 as Imperial Forest Research Institute) | भारतीय वन सर्वेक्षण (FSI, द्विवार्षिक वन रिपोर्ट) / वन अनुसंधान संस्थान (FRI, वानिकी अनुसंधान) |
-| **National Biodiversity Authority (NBA)** | **State Biodiversity Board (SBB)** | Autonomous statutory regulatory authority established in 2003 under Biological Diversity Act 2002 (HQ: Chennai) regulating foreign nationals' access to Indian bioresources and advising Union vs state-level statutory bodies regulating commercial utilization of bioresources by Indian citizens | राष्ट्रीय जैव विविधता प्राधिकरण (NBA, चेन्नई) / राज्य जैव विविधता बोर्ड (SBB) |
-| **National Bureau of Plant Genetic Resources (NBPGR)** | **National Bureau of Agricultural Insect Resources (NBAIR)** | Nodal ICAR organization (HQ: New Delhi) managing the National Gene Bank preserving orthodox seeds and germplasm of food and agricultural crops vs premier ICAR research bureau (HQ: Bengaluru) dedicated to insect taxonomy, molecular characterization, and biocontrol insect resources | राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो (NBPGR, दिल्ली) / कृषि कीट संसाधन ब्यूरो (NBAIR, बेंगलुरु) |
-| **Wildlife Institute of India (WII)** | **Indira Gandhi National Forest Academy (IGNFA)** | Autonomous scientific research and training institute under MoEFCC (HQ: Dehradun) conducting wildlife ecological research and Tiger Census vs premier apex staff college (HQ: Dehradun) providing two-year professional induction training to directly recruited Indian Forest Service (IFS) officers | भारतीय वन्यजीव संस्थान (WII, अनुसंधान) / इंदिरा गांधी राष्ट्रीय वन अकादमी (IGNFA, IFS प्रशिक्षण) |
-| **India State of Forest Report (ISFR)** | **Basic Animal Husbandry Statistics** | Biennial statutory publication by Forest Survey of India (FSI, Dehradun) reporting state-wise forest cover, tree cover, mangrove cover, and forest carbon stocks vs annual publication by Ministry of Fisheries, Animal Husbandry & Dairying reporting livestock census, milk, egg, and meat production | भारत वन स्थिति रिपोर्ट (ISFR, द्विवार्षिक) / बुनियादी पशुपालन सांख्यिकी (वार्षिक) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| BSI = animals | **Plants** |
+| ZSI = plants | **Animals** |
+| FRI publishes ISFR | **FSI publishes ISFR** |
+| NBA HQ Delhi | **Chennai** |
+| NBA prepares PBR | **BMC prepares PBR** |
+| SBB = SPCB | **Biodiversity ≠ pollution** |
+| NBPGR = Kolkata | **New Delhi** |
+| NBPGR = animal bank | **NBAGR Karnal** |
+| Bahraich >20% forest | **False** |
+| ISFR annual | **Biennial (2 years)** |
 
 
 ---

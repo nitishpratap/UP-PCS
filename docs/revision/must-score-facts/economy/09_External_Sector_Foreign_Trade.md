@@ -11,76 +11,59 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Economy Topic 9 — External Sector, Foreign Trade and Global Economy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Foreign trade** is the exchange of goods and services across national borders — exports earn foreign exchange; imports spend it.
 2. **Balance of Trade (BoT)** is merchandise exports minus merchandise imports (goods only in the classic teaching).
-3. A **trade surplus** means goods exports exceed goods imports; a **trade deficit** means the reverse.
-4. **Balance of Payments (BoP)** is the systematic record of all economic transactions between residents of a country and the rest of the world in a period.
-5. BoP has two main books in school teaching: **Current Account** and **Capital / Financial Account** (plus reserve changes / balancing items).
-6. **Current account** covers trade in goods, trade in services (invisibles), primary income (investment income, compensation), and secondary income (transfers / remittances teaching).
-7. **Export and import of goods** belong to the **current account**.
-8. **FDI, External Commercial Borrowings (ECBs) and IMF loans** belong to the **capital / financial account** — not the current account.
-9. **Trade deficit** is a goods-only gap; **Current Account Deficit (CAD)** is the broader current-account gap after services, income and transfers.
-10. India often runs a **merchandise trade deficit** while services and remittances cushion the current account.
-11. **Invisible trade** includes services such as software, tourism, transport and financial services.
-12. **Remittances** are private transfers from migrants — a major current-account credit for India.
-13. World Bank remittance ranks for **2022**: **India first**, **Mexico second**, **China third**, **Philippines fourth**.
-14. **Capital account / financial account** records capital flows: FDI, FPI, loans, banking capital and related items.
-15. **FDI** is lasting foreign investment with control / lasting interest in an enterprise.
-16. **FPI** is portfolio investment in securities — typically more reversible than FDI.
-17. FDI ≠ FPI; industry source/sector ranking depth also appears in Topic 7.
-18. **External Commercial Borrowings** are foreign-currency loans raised by Indian entities under RBI/government rules.
-19. **External debt** is what residents owe non-residents — short-term vs long-term and by borrower type matter in monitoring.
-20. **Foreign exchange reserves** are official holdings of foreign currencies, gold, SDRs and reserve position in the IMF (composition teaching).
-21. Reserves buffer import cover, intervene in forex markets and support confidence.
-22. **Exchange rate** is the price of one currency in terms of another.
-23. **Flexible (floating) exchange rate**: the national currency’s external value is set by demand and supply of foreign currency in the market.
-24. Under a flexible regime, demand and supply of forex come from trade, investment, remittances and market participants — **not** “determined by the Central Bank” as a definition.
-25. India follows a **managed float**: the market sets the path; RBI may intervene to curb disorderly moves.
-26. **Fixed exchange rate**: authorities announce a parity and defend it with reserves / controls.
-27. **Appreciation** is a rise in a currency’s value relative to another; **depreciation** is a fall (market regimes).
-28. **Devaluation** is a deliberate official cut in a fixed-parity currency’s value; **revaluation** is the opposite.
-29. Depreciation / devaluation make exports cheaper in foreign currency and imports dearer in domestic currency (competitiveness teaching).
-30. **Convertibility** means freedom to convert domestic currency into foreign currency for permitted transactions.
-31. India has long practised **current-account convertibility**; **full capital-account convertibility** remains managed / staged.
-32. **FERA, 1973** was a strict foreign-exchange **control** law from the shortage era.
-33. **FEMA, 1999** replaced FERA; it aims to facilitate external trade and payments and the orderly forex market.
-34. FEMA **came into existence / was enacted in 1999**; it **came into force on 1 June 2000**.
-35. FERA is **not** “mainly an external-debt liability law” — that tag is a false distractor.
-36. **Trade barriers** restrict free trade: **tariffs** (taxes on imports) and **non-tariff barriers** (quotas, standards, licences, procedural frictions).
-37. **WTO** (1995, successor to GATT) sets multilateral trade rules, runs negotiations and a **dispute settlement** system.
-38. WTO HQ is **Geneva**; Ministerial Conference venues rotate (e.g. **MC-13 at Abu Dhabi**, 2024).
-39. WTO **agriculture** rules (Amber / Blue / Green boxes, subsidies) deepen also in Topic 6 — do not invent “allows all direct / bans all indirect” as a simple law.
-40. **Globalisation** intensifies cross-border flows of goods, services, capital, technology and people.
-41. India’s major bilateral trade partners in teaching include **China, USA, UAE, EU** clusters — partner shares shift with energy prices and electronics.
-42. **India–China trade** often shows a large Indian merchandise deficit; **India–US** trade is services- and goods-heavy with different composition.
-43. **Free Trade Agreements / CEPA / CECA** lower barriers bilaterally or regionally within WTO-compatible frameworks.
-44. Topic border: IMF / World Bank / BRICS / G20 → Topic 10; company / FDI policy sector lists → Topic 7; FEMA PMLA neighbour acts deepen in Topic 12.
-
-</details>
+3. **Balance of Payments (BoP)** is the systematic record of all economic transactions between residents of a country and the rest of the world in a period.
+4. **Current account** covers trade in goods, trade in services (invisibles), primary income (investment income, compensation), and secondary income (transfers / remittances teaching).
+5. **Export and import of goods** belong to the **current account**.
+6. **FDI, External Commercial Borrowings (ECBs) and IMF loans** belong to the **capital / financial account** — not the current account.
+7. **Trade deficit** is a goods-only gap; **Current Account Deficit (CAD)** is the broader current-account gap after services, income and transfers.
+8. **Invisible trade** includes services such as software, tourism, transport and financial services.
+9. **Remittances** are private transfers from migrants — a major current-account credit for India.
+10. **Capital account / financial account** records capital flows: FDI, FPI, loans, banking capital and related items.
+11. **FDI** is lasting foreign investment with control / lasting interest in an enterprise.
+12. **FPI** is portfolio investment in securities — typically more reversible than FDI.
+13. **External Commercial Borrowings** are foreign-currency loans raised by Indian entities under RBI/government rules.
+14. **External debt** is what residents owe non-residents — short-term vs long-term and by borrower type matter in monitoring.
+15. **Foreign exchange reserves** are official holdings of foreign currencies, gold, SDRs and reserve position in the IMF (composition teaching).
+16. **Exchange rate** is the price of one currency in terms of another.
+17. **Flexible (floating) exchange rate**: the national currency’s external value is set by demand and supply of foreign currency in the market.
+18. **Fixed exchange rate**: authorities announce a parity and defend it with reserves / controls.
+19. **Appreciation** is a rise in a currency’s value relative to another; **depreciation** is a fall (market regimes).
+20. **Devaluation** is a deliberate official cut in a fixed-parity currency’s value; **revaluation** is the opposite.
+21. **Convertibility** means freedom to convert domestic currency into foreign currency for permitted transactions.
+22. **FERA, 1973** was a strict foreign-exchange **control** law from the shortage era.
+23. **FEMA, 1999** replaced FERA; it aims to facilitate external trade and payments and the orderly forex market.
+24. **Trade barriers** restrict free trade: **tariffs** (taxes on imports) and **non-tariff barriers** (quotas, standards, licences, procedural frictions).
+25. **WTO** (1995, successor to GATT) sets multilateral trade rules, runs negotiations and a **dispute settlement** system.
+26. **Globalisation** intensifies cross-border flows of goods, services, capital, technology and people.
+27. **India–China trade** often shows a large Indian merchandise deficit; **India–US** trade is services- and goods-heavy with different composition.
+28. **Free Trade Agreements / CEPA / CECA** lower barriers bilaterally or regionally within WTO-compatible frameworks.
+29. **Exports** are sales to non-residents and bring foreign exchange into the country.
+30. **Imports** are purchases from non-residents and spend foreign exchange.
+31. **Primary income** (investment income such as interest and dividends; compensation of employees in some presentations).
+32. **Secondary income / transfers** (remittances, gifts, grants in teaching).
+33. **Export and import of goods** is the classic current-account item in UPPCS stems.
+34. **Foreign Direct Investment (FDI)** inflows and outflows.
+35. **Foreign Portfolio Investment (FPI)** in equity and debt securities.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **Balance of Trade** | **Balance of Payments** | Goods gap vs full external transactions record |
-| **Trade deficit** | **Current Account Deficit** | Merchandise only vs goods+services+income+transfers |
-| **Current account** | **Capital / financial account** | Trade/income/transfers vs FDI/FPI/loans |
-| **FDI** | **FPI** | Lasting control interest vs portfolio securities |
-| **Appreciation / depreciation** | **Revaluation / devaluation** | Market float language vs official parity change |
-| **Flexible rate** | **Fixed rate** | Market demand–supply vs defended parity |
-| **FERA 1973** | **FEMA 1999** | Control-era criminalised regime vs management Act |
-| **FEMA enacted 1999** | **FEMA in force 1 June 2000** | Existence year vs commencement date |
-| **Tariff** | **Non-tariff barrier** | Border tax vs quota/standard/licence |
-| **WTO HQ Geneva** | **MC venue (e.g. Abu Dhabi)** | Secretariat seat ≠ ministerial host city |
-| **Remittance** | **FDI** | Transfer income vs equity/control investment |
-| **Export** | **Import** | Earns forex vs spends forex |
+## ⚡ Confused Pairs & Common Examiner Traps
 
-</details>
+* Current account = goods / services / income / transfers — **not** FDI, ECB or IMF loans.
+* Trade deficit ≠ CAD (CAD is broader).
+* Flexible rate = market D&S; “Central Bank determines D&S” is **false**.
+* Appreciation ≠ depreciation; devaluation ≠ market depreciation wording.
+* Remittances **2022**: India 1, Mexico 2, China 3, Philippines 4 → code **2 3 1 4**.
+* FEMA **1999** existence; **1 June 2000** force — FERA ≠ “external debt liability Act”.
+* FDI ≠ FPI ≠ remittance.
+* WTO **has** dispute settlement; HQ Geneva ≠ MC-13 Abu Dhabi.
+* WTO farm rules are not “allow all direct / ban all indirect”.
+* Full capital-account convertibility is **not** the same as current-account convertibility.
 
 
 ---

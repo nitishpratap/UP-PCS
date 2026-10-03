@@ -11,82 +11,47 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Census and Urbanisation Topic 2 — Population Growth, Demographic Transition and Theories</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Thomas Robert Malthus** published his seminal work *An Essay on the Principle of Population* in **1798**.
-2. Malthus postulated that population increases in **Geometric Progression** ($1, 2, 4, 8, 16...$) while food production increases in **Arithmetic Progression** ($1, 2, 3, 4, 5...$).
-3. According to Malthus, unchecked population has the biological tendency to **double every 25 years**.
-4. Malthusian checks are classified into two categories: **Preventive Checks** (man-made, moral restraint) and **Positive Checks** (nature-induced, famines/wars/diseases).
-5. The **Demographic Transition Theory (DTT)** was originally formulated by **Warren S. Thompson (1929)** and developed by **Frank W. Notestein (1945)**.
-6. The Demographic Transition Theory explains the transition from high birth and death rates to low birth and death rates as an economy modernizes.
-7. **Stage 1 (High Stationary)** of DTT is characterized by high birth rates, high death rates, and a stable, low population.
-8. **Stage 2 (Early Expanding)** of DTT is characterized by high birth rates and rapidly falling death rates, leading to a **Population Explosion**.
-9. **Stage 3 (Late Expanding)** of DTT is characterized by rapidly falling birth rates and low death rates, with population growth slowing down.
-10. **Stage 4 (Low Stationary)** of DTT is characterized by low birth rates, low death rates, and a stable, mature population.
-11. **India is currently in Stage 3 (Late Expanding Phase)** of the Demographic Transition.
-12. **India prior to 1921** was in **Stage 1 (High Stationary Phase)** of the Demographic Transition.
-13. The **Optimum Population Theory** was propounded by English economist **Edwin Cannan** in his 1924 book *Wealth*.
-14. Optimum population is defined as that population size which yields the **maximum output / real income per capita**.
-15. **Hugh Dalton** formulated the degree of maladjustment equation: **$M = (A - O) / O$**, where $A$ is Actual Population and $O$ is Optimum Population.
-16. If $M > 0$ in Dalton's formula, the country is suffering from **Overpopulation**; if $M < 0$, it is **Underpopulated**.
-17. **Karl Marx** rejected Malthusian population theory, arguing that overpopulation and poverty are products of **capitalist exploitation**, not natural laws.
-18. Marx introduced the concept of the **"Industrial Reserve Army of Labour"**, created by machinery displacing human workers.
-19. **Ester Boserup (1965)** propounded that population pressure acts as an engine of agricultural innovation and intensification.
-20. In Indian demographic history, **Phase I (1901–1921)** was the period of **stagnant / stationary population**.
-21. The **Year 1921** is universally termed **"The Year of the Great Divide"** because population registered a negative growth of **-0.31%**.
-22. The 1918 **Influenza (Spanish Flu) Pandemic** killed an estimated 14 million people (approx. 5% of India's population), causing negative growth in 1911–1921.
-23. **Phase II (1921–1951)** in India was characterized by **steady, moderate population growth**.
-24. **Phase III (1951–1981)** in India was characterized by **rapid high growth / Population Explosion**.
-25. India's decadal population growth rate peaked historically during the decade **1961–1971 at 24.80%**.
-26. **Phase IV (1981–2011+)** in India is characterized by **high growth with clear signs of slowing down**.
-27. India's decadal population growth rate dropped from **21.54%** (1991–2001) to **17.70%** (2001–2011).
-28. India's annual exponential population growth rate in Census 2011 was **1.64%** (down from 1.97% in 2001).
-29. **Natural Increase of Population** is calculated as: **Crude Birth Rate (CBR) minus Crude Death Rate (CDR)**.
-30. According to the **Rule of 70**, population doubling time is approximately **70 divided by the annual percentage growth rate**.
-31. At an annual growth rate of 1.64%, India's population doubling time is approximately **42.7 years**.
-32. The concept of **Demographic Dividend** refers to the economic growth advantage when the share of the working-age population (**15–59 years**) exceeds the dependent population.
-33. India entered its demographic dividend window around **2005–06**, which is expected to last until roughly **2055–56**.
-34. The **Dependency Ratio** is calculated as: $[(	ext{Population } 0-14 + 	ext{Population } 60+) / 	ext{Working-Age Population } 15-59] 	imes 100$.
-35. The **Total Fertility Rate (TFR)** required for population stabilization (Replacement Level) is **2.1 children per woman**.
-36. As per the **National Family Health Survey-5 (NFHS-5, 2019-21)**, India's national TFR declined to **2.0**, dropping below the replacement level of 2.1.
-37. **Henry George** in *Progress and Poverty* (1879) argued that poverty arises from land monopoly and landlord rent extraction, not overpopulation.
-38. **Paul R. Ehrlich** published the Neo-Malthusian bestseller *The Population Bomb* in **1968**.
-39. The **Club of Rome** published the influential environmental report *The Limits to Growth* in **1972**, warning of resource exhaustion from exponential growth.
-40. The **Simon-Ehrlich Wager (1980)** between Julian Simon (cornucopian economist) and Paul Ehrlich proved Ehrlich wrong when prices of 5 raw metals fell over 10 years.
-41. **Julian Simon** in *The Ultimate Resource* (1981) argued that human intellect and labour are the ultimate economic resource.
-42. A **Population Pyramid** with a broad base and sharply tapering top indicates a **young population with high birth and high mortality rates** (Stage 1 or 2).
-43. A **Stationary / Bell-shaped Population Pyramid** with nearly equal base and middle indicates **low birth and death rates** (Stage 3 or 4).
-44. An **Inverted / Urn-shaped Population Pyramid** with a narrow base and broad top indicates an **aging population with sub-replacement fertility** (Stage 5).
-45. In India, **Kerala and Tamil Nadu** were the first major States to achieve below-replacement level fertility (TFR $< 2.1$).
-46. Among large Indian States, **Bihar (TFR ~3.0)** and **Uttar Pradesh (TFR ~2.4 in NFHS-5)** still retain fertility above replacement level.
-47. India was the **first country in the world** to launch a National Family Planning Programme in **1952**.
-48. The **National Population Policy (NPP) 2000** aimed to achieve population stabilization in India by the year **2045** (subsequently revised to 2070).
-49. The **J-Curve of Population Growth** represents exponential / unrestricted population growth under ideal environmental conditions.
-50. The **S-Curve (Logistic Growth Curve)** represents population growth that stabilizes at the environment's **Carrying Capacity ($K$)**.
+2. **Stage 1 (High Stationary)** of DTT is characterized by high birth rates, high death rates, and a stable, low population.
+3. **Stage 2 (Early Expanding)** of DTT is characterized by high birth rates and rapidly falling death rates, leading to a **Population Explosion**.
+4. **Stage 3 (Late Expanding)** of DTT is characterized by rapidly falling birth rates and low death rates, with population growth slowing down.
+5. **Stage 4 (Low Stationary)** of DTT is characterized by low birth rates, low death rates, and a stable, mature population.
+6. **India is currently in Stage 3 (Late Expanding Phase)** of the Demographic Transition.
+7. **India prior to 1921** was in **Stage 1 (High Stationary Phase)** of the Demographic Transition.
+8. **Hugh Dalton** formulated the degree of maladjustment equation: **$M = (A - O) / O$**, where $A$ is Actual Population and $O$ is Optimum Population.
+9. **Karl Marx** rejected Malthusian population theory, arguing that overpopulation and poverty are products of **capitalist exploitation**, not natural laws.
+10. **Ester Boserup (1965)** propounded that population pressure acts as an engine of agricultural innovation and intensification.
+11. **Phase II (1921–1951)** in India was characterized by **steady, moderate population growth**.
+12. **Phase III (1951–1981)** in India was characterized by **rapid high growth / Population Explosion**.
+13. **Phase IV (1981–2011+)** in India is characterized by **high growth with clear signs of slowing down**.
+14. **Natural Increase of Population** is calculated as: **Crude Birth Rate (CBR) minus Crude Death Rate (CDR)**.
+15. **Henry George** in *Progress and Poverty* (1879) argued that poverty arises from land monopoly and landlord rent extraction, not overpopulation.
+16. **Paul R. Ehrlich** published the Neo-Malthusian bestseller *The Population Bomb* in **1968**.
+17. **Julian Simon** in *The Ultimate Resource* (1981) argued that human intellect and labour are the ultimate economic resource.
+18. **Natural Growth Rate of Population**:
+19. **Decadal Growth Rate**:
+20. **Annual Exponential Growth Rate ($r$)**:
+21. **Population Doubling Time (Rule of 70)**:
+22. **The Agricultural Revolution & Technological Innovations**:
+23. **Transportation & Global Food Supply Chains**:
+24. **Voluntary Birth Control & Rising Living Standards**:
+25. **Distinction between Biological Capability and Human Workforce**:
+26. **Underpopulation**: When the population of a country is too small relative to its natural resources and capital stock. In this state, the full benefits of division of labour, economies of scale, and infrastructure utilization cannot be realized. An increase in population leads to **increasing returns and rising per capita income**.
+27. **Optimum Population Point ($O$)**: That precise population size where the Law of Diminishing Returns is exactly balanced by the economies of large-scale production, resulting in the **highest possible output per head**.
+28. **Overpopulation**: When population exceeds the optimum point. The pressure of population on fixed natural resources and capital causes the Law of Diminishing Marginal Returns to dominate, resulting in **declining per capita income and falling living standards**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **Malthusian Theory (1798)**: Subsistence-based, biological food vs population ratio | **Optimum Population Theory (1924)**: Wealth-based, maximum per capita income ratio | **Trap**: Malthus focused on biological survival (food starvation); Edwin Cannan focused on *economic efficiency and highest per capita output*. |
-| **Stage 2 of DTT (Early Expanding)**: High Birth Rate + Plummeting Death Rate | **Stage 3 of DTT (Late Expanding)**: Plummeting Birth Rate + Low Death Rate | **Trap**: Population explosion happens in **Stage 2** (India 1951–81). India is currently in **Stage 3** (birth rates falling, growth decelerating). |
-| **Preventive Checks (Malthus)**: Voluntary human actions (late marriage, celibacy) | **Positive Checks (Malthus)**: Involuntary natural disasters (famines, plagues, wars) | **Trap**: Positive does NOT mean good; in Malthusian terminology, positive checks are nature's painful interventions that increase the death rate. |
-| **Boserup's Hypothesis**: Population pressure causes technological progress | **Malthus's Hypothesis**: Population growth causes inevitable poverty and collapse | **Trap**: Boserup is the exact antithesis of Malthus (Boserup: population drives agricultural intensification; Malthus: population causes starvation). |
-| **Dalton's Formula: $M = (A - O) / O$** (Overpopulation if $M > 0$) | **Dalton's Formula: $M < 0$** (Underpopulation) | **Trap**: If actual population ($A$) > optimum ($O$), $M$ is positive (Overpopulation). If $A < O$, $M$ is negative (Underpopulation). |
-| **1921: Year of the Great Divide** (Negative growth: -0.31%) | **1971: Peak Population Growth Decade** (Highest growth: 24.80%) | **Trap**: 1921 is the Great Divide (shift from stagnant to growing population); 1971 is the historical peak of the population explosion. |
-| **Neo-Malthusians (Paul Ehrlich)**: Advocate modern contraception & abortion | **Classical Malthus (1798)**: Rejected artificial birth control; advocated only moral restraint | **Trap**: Thomas Malthus was a clergyman who opposed artificial contraception; Neo-Malthusians actively promote technological birth control. |
-| **Replacement Level Fertility (TFR = 2.1)** | **Current India TFR (NFHS-5: 2.0)** | **Trap**: India's TFR has already dropped below replacement level (2.0) nationally, though population will continue growing due to *demographic momentum*. |
-| **Exponential (J-shaped) Growth**: Unchecked growth with constant birth/death rates | **Logistic (S-shaped) Growth**: Growth slowed by carrying capacity ($K$) | **Trap**: Real populations in nature follow the S-shaped logistic curve due to environmental resistance. |
-| **Demographic Dividend**: High ratio of working-age (15–59) to dependents | **Demographic Disaster / Drag**: High working-age population without jobs/skills | **Trap**: Dividend is only potential; if uneducated and unemployed, the dividend turns into a demographic liability/drag. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 
 
 ---

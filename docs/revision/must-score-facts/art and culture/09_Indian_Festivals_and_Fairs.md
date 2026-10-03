@@ -11,60 +11,65 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 9 — Indian Festivals & Fairs</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The four **Kumbh** sites are **Prayagraj** (प्रयागराज), **Haridwar** (हरिद्वार), **Nashik**, and **Ujjain** (उज्जैन). Their rivers are Ganga–Yamuna–Saraswati, Ganga, Godavari, and Shipra. **Pushkar** is not a Kumbh site.
-2. **Kumbh Mela** is on the UNESCO Intangible Heritage list from **2017. Magh Mela** is the annual bathing fair at Prayagraj; it is not the twelve-year mega Kumbh at every site.
-3. Maha Kumbh at **Prayagraj** in **2025** ran from **13 January to 26 February** for about **45** days at the Sangam.
-4. **Pushkar Fair** (पुष्कर मेला) is the **Rajasthan** (थार) camel and livestock fair of **Kartik** near Ajmer. **Pushkar Kumbh** of May **2025** was at **Mana / Keshav Prayag** in **Uttarakhand**, not Rajasthan and not Uttar Pradesh.
-5. **Pongal** (पोंगल) is the **Tamil Nadu** January harvest festival. **Onam** (ओणम) is the **Kerala** Aug–Sep harvest linked to Mahabali. Do not swap the two states.
-6. **Bihu** (बिहू) is the **Assam** harvest trio. **Hornbill** is the **Nagaland** cultural showcase at **Kisama**, usually **1–10 December**.
-7. **Baisakhi** (बैसाखी) and **Lohri** belong to **Punjab** (Lohri also Haryana–Himachal). **Nuakhai** (नुआखाइ) is the **Odisha** (ओडिशा) harvest. **Vishu** (विशु) is the **Kerala** New Year, not Ugadi.
-8. **Ugadi** (उगादि) is New Year in **Andhra Pradesh, Telangana, and Karnataka. Gudi Padwa** is the **Maharashtra** New Year in the same season. **Bathukamma** (बतुकम्मा) is the **Telangana** floral festival.
-9. **Garba / Dandiya** is **Gujarat** Navratri dance and UNESCO ICH from **2023. Bhangra / Giddha** is **Punjab** harvest dance at Baisakhi. Garba is not a ninth SNA classical.
-10. **Durga Puja of Kolkata** is UNESCO ICH from **2021. Navratri** is the nine-night goddess cycle; Gujarat’s Garba sits inside Navratri, not inside Bengal pandals alone.
-11. **Ramlila** (रामलीला) is the Ramayana play on UNESCO ICH from **2008. Dussehra / Vijayadashami** is the Ravana-effigy day. Ramlila is theatre, not classical dance.
-12. **Sarhul** (सरहुल) is the **Jharkhand** tribal sal-flower festival. **Bastar Dussehra** in **Chhattisgarh** lasts about **75** days around Danteshwari and is not Rama–Ravana Dussehra.
-13. **Medaram Jatara** (मेदारम जातरा) is the **Telangana** Koya tribal pilgrimage. **Bhagoria** (भगोरिया) is the **Madhya Pradesh** Bhil festival. **Wangala** is the **Meghalaya** Garo harvest. **Chapchar Kut** (चपचार कुट) is **Mizoram. Sangai** is **Manipur**.
-14. **Surajkund** (सूरजकुंड) crafts mela is in **Haryana** in February. It is not Rajasthan and not Uttar Pradesh.
-15. **Sonepur** cattle fair is in **Bihar. Gangasagar** mela is in **West Bengal. Ambubachi** is at Kamakhya in Assam.
-16. Uttar Pradesh festival spine: **Prayagraj Kumbh / Magh Mela**, **Braj Holi** (Mathura–Vrindavan–Barsana), **Ramlila** (Ramnagar / Varanasi), eastern **Chhath** (छठ), **Taj Mahotsav** (Agra, February), **Ganga Mahotsav** (Varanasi), **Lucknow Mahotsav**, and **Ayodhya Deepotsav**.
-17. **Chhath** is sun worship on eastern UP–Bihar–Jharkhand ghats. It is not moon worship.
-18. **Deva Mela** is held at **Barabanki**, while the historic **Bateshwar Fair** takes place in **Agra** (आगरा) district. Mourning processions of Muharram represent an integral part of the Shia cultural tradition in Lucknow.
-19. Government cultural festivals include **Taj Mahotsav** (Agra), **Ganga Mahotsav** (Varanasi), **Lucknow Mahotsav**, **Khajuraho Dance Festival** (Madhya Pradesh), and **Tansen Samaroh** (Gwalior, Madhya Pradesh). Tansen is not a UP fair.
-20. South Indias: **Pongal** (four-day January in Tamil Nadu), **Onam** (Kerala), **Mysore Dasara** (Karnataka), **Thrissur Pooram** (त्रिशूर पूरम) (Kerala), and **Bathukamma** (Telangana).
-21. Key North-Eastern festivals include: **Hornbill** (Nagaland), **Sangai** (सांगाइ) (Manipur), **Chapchar Kut** (Mizoram), **Wangala** (celebrated by the Garo of Meghalaya), and **Losar** (लोसार) (the Buddhist New Year observed across Sikkim, Arunachal Pradesh, and Ladakh).
-22. **Eid-ul-Fitr** ends Ramadan. **Eid-ul-Adha** is Bakrid, the sacrifice festival. Do not treat them as one festival.
-23. National days are **Republic Day (26 January)**, **Independence Day (15 August)**, and **Gandhi Jayanti (2 October)**. They sit beside harvest and religious calendars, not inside Kumbh geography.
-24. Folk festivals such as **Braj Holi** are peasant / regional joy. Tribal festivals such as **Sarhul** are adivasi ritual calendars. Do not collapse folk and tribal into one label.
-25. **Kullu Dussehra** is Himachal. **Ratha Yatra** of Puri is Odisha. **Ganesh Chaturthi** (गणेश चतुर्थी) is Maharashtra’s flagship. **Hemis** is the Ladakh monastery festival.
-26. These are **not** Uttar Pradesh festival homes: Pushkar Fair (Rajasthan), Pushkar Kumbh 2025 (Uttarakhand), Surajkund (Haryana), Onam (Kerala), Hornbill (Nagaland), and Tansen Samaroh (Gwalior).
+1. **Maha Kumbh** at Prayagraj ran from **13 January to 26 February 2025**, about **45** days.
+2. **Pushkar Kumbh** of **May 2025** was at Mana / Keshav Prayag in **Uttarakhand** (उत्तराखंड). It is not the Rajasthan camel fair.
+3. **Garba** (गरबा) of Gujarat entered UNESCO ICH in **December 2023**.
+4. **Durga Puja of Kolkata** entered UNESCO ICH in **2021**.
+5. **Kumbh Mela** (कुंभ मेला) entered UNESCO ICH in **2017**.
+6. **Kumbh Mela** is on the UNESCO Intangible Heritage list from **2017. Magh Mela** is the annual bathing fair at Prayagraj; it is not the twelve-year mega Kumbh at every site.
+7. **Pushkar Fair** (पुष्कर मेला) is the **Rajasthan** (थार) camel and livestock fair of **Kartik** near Ajmer. **Pushkar Kumbh** of May **2025** was at **Mana / Keshav Prayag** in **Uttarakhand**, not Rajasthan and not Uttar Pradesh.
+8. **Pongal** (पोंगल) is the **Tamil Nadu** January harvest festival. **Onam** (ओणम) is the **Kerala** Aug–Sep harvest linked to Mahabali. Do not swap the two states.
+9. **Bihu** (बिहू) is the **Assam** harvest trio. **Hornbill** is the **Nagaland** cultural showcase at **Kisama**, usually **1–10 December**.
+10. **Baisakhi** (बैसाखी) and **Lohri** belong to **Punjab** (Lohri also Haryana–Himachal). **Nuakhai** (नुआखाइ) is the **Odisha** (ओडिशा) harvest. **Vishu** (विशु) is the **Kerala** New Year, not Ugadi.
+11. **Ugadi** (उगादि) is New Year in **Andhra Pradesh, Telangana, and Karnataka. Gudi Padwa** is the **Maharashtra** New Year in the same season. **Bathukamma** (बतुकम्मा) is the **Telangana** floral festival.
+12. **Garba / Dandiya** is **Gujarat** Navratri dance and UNESCO ICH from **2023. Bhangra / Giddha** is **Punjab** harvest dance at Baisakhi. Garba is not a ninth SNA classical.
+13. **Durga Puja of Kolkata** is UNESCO ICH from **2021. Navratri** is the nine-night goddess cycle; Gujarat’s Garba sits inside Navratri, not inside Bengal pandals alone.
+14. **Ramlila** (रामलीला) is the Ramayana play on UNESCO ICH from **2008. Dussehra / Vijayadashami** is the Ravana-effigy day. Ramlila is theatre, not classical dance.
+15. **Sarhul** (सरहुल) is the **Jharkhand** tribal sal-flower festival. **Bastar Dussehra** in **Chhattisgarh** lasts about **75** days around Danteshwari and is not Rama–Ravana Dussehra.
+16. **Medaram Jatara** (मेदारम जातरा) is the **Telangana** Koya tribal pilgrimage. **Bhagoria** (भगोरिया) is the **Madhya Pradesh** Bhil festival. **Wangala** is the **Meghalaya** Garo harvest. **Chapchar Kut** (चपचार कुट) is **Mizoram. Sangai** is **Manipur**.
+17. **Surajkund** (सूरजकुंड) crafts mela is in **Haryana** in February. It is not Rajasthan and not Uttar Pradesh.
+18. **Sonepur** cattle fair is in **Bihar. Gangasagar** mela is in **West Bengal. Ambubachi** is at Kamakhya in Assam.
+19. **Chhath** is sun worship on eastern UP–Bihar–Jharkhand ghats. It is not moon worship.
+20. **Deva Mela** is held at **Barabanki**, while the historic **Bateshwar Fair** takes place in **Agra** (आगरा) district. Mourning processions of Muharram represent an integral part of the Shia cultural tradition in Lucknow.
+21. **Eid-ul-Fitr** ends Ramadan. **Eid-ul-Adha** is Bakrid, the sacrifice festival. Do not treat them as one festival.
+22. **Kullu Dussehra** is Himachal. **Ratha Yatra** of Puri is Odisha. **Ganesh Chaturthi** (गणेश चतुर्थी) is Maharashtra’s flagship. **Hemis** is the Ladakh monastery festival.
+23. **Andhra Pradesh**: Celebrates **Ugadi** (the Telugu New Year) as its premier state festival.
+24. **Arunachal Pradesh**: Marks the Buddhist New Year with **Losar** and the Theravada Buddhist water festival **Sangken** (community New Year among Tai groups such as Khamti). Celebrated tribal festivals include **Solung** and **Mopin** (both **Adi** agricultural festivals) and **Nyokum** (Nyishi tribe).
+25. **Assam**: Anchors its cultural calendar around the three **Bihu** harvest festivals (Rongali, Kongali, Bhogali); the sacred **Ambubachi Mela** is observed annually at the Kamakhya Temple in Guwahati.
+26. **Bihar**: Celebrates **Chhath Puja** (dedicated to the Sun God) as its paramount cultural festival and hosts the historic **Sonepur Cattle Fair** (Asia's largest animal fair at Harihar Kshetra).
+27. **Chhattisgarh**: Renowned for the unique 75-day-long **Bastar Dussehra**, honoring the local patron deity Goddess Danteshwari.
+28. **Goa**: Celebrates the vibrant pre-Lenten **Goa Carnival** and the joyous spring festival of **Shigmo** (the Goan counterpart of Holi).
+29. **Gujarat**: Celebrates nine nights of **Navratri** (नवरात्रि) with community **Garba** and Dandiya Raas (inscribed on UNESCO ICH in 2023), alongside **Uttarayan** (the International Kite Festival on Makar Sankranti).
+30. **Haryana**: Hosts the globally acclaimed **Surajkund International Crafts Mela** annually in February at Faridabad.
+31. **Himachal Pradesh**: Renowned for the week-long **Kullu Dussehra**, commencing on Vijayadashami day in the Dhalpur ground of Kullu.
+32. **Jharkhand**: Celebrates **Sarhul** (the tribal festival of the Sal tree blossoms), alongside **Karma Puja** and extensive observances of **Chhath Puja** across the plateau.
+33. **Karnataka**: Celebrates the grand ten-day **Mysore Dasara** (featuring the Jamboo Savari elephant procession), alongside **Ugadi** (Kannada New Year) and the **Hampi Utsav**.
+34. **Kerala**: Celebrates **Onam** as its signature harvest festival (commemorating King Mahabali), alongside the vibrant elephant and percussion spectacle **Thrissur Pooram** and the astronomical New Year **Vishu**.
+35. **Madhya Pradesh**: Hosts the premier classical **Khajuraho Dance Festival**, the prestigious **Tansen Samaroh** (classical music festival in Gwalior), and the vibrant tribal **Bhagoria** festival among the Bhils.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Kumbh (4 sites) | Pushkar Fair | Prayagraj–Haridwar–Nashik–Ujjain vs Rajasthan camel fair | कुंभ / पुष्कर मेला |
-| Pushkar Fair | Pushkar Kumbh 2025 | Ajmer **Rajasthan**, Kartik vs **Mana, Uttarakhand**, May | पुष्कर मेला / पुष्कर कुंभ |
-| Magh Mela | Kumbh | Annual Prayagraj bath vs 12-year mega at a Kumbh site | माघ मेला / कुंभ |
-| Pongal | Onam | **Tamil Nadu** January vs **Kerala** Aug–Sep | पोंगल / ओणम |
-| Bihu | Hornbill | **Assam** harvest trio vs **Nagaland** Dec showcase | बिहू / हॉर्नबिल |
-| Garba | Bhangra | **Gujarat** Navratri vs **Punjab** Baisakhi | गरबा / भांगड़ा |
-| Durga Puja | Navratri | **Bengal** pandals vs 9-night goddess (Gujarat Garba) | दुर्गा पूजा / नवरात्रि |
-| Ramlila | Dussehra | Ramayana play (UNESCO 2008) vs Vijayadashami / Ravana effigy | रामलीला / दशहरा |
-| Surajkund | Pushkar Fair | **Haryana** Feb crafts vs **Rajasthan** Kartik livestock | सूरजकुंड / पुष्कर |
-| Ugadi | Gudi Padwa | AP/Telangana/Karnataka New Year vs Maharashtra New Year (same season) | उगादि / गुड़ी पड़वा |
-| Folk | Tribal | Peasant/community (Braj Holi) vs adivasi ritual (Sarhul) | लोक / आदिवासी |
-| Eid-ul-Fitr | Eid-ul-Adha | End of Ramadan vs Bakrid / sacrifice | ईद उल फितर / बकरीद |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. The **Kumbh 4 sites** are Prayagraj, Haridwar, Nashik and Ujjain. **Pushkar is not** one of them.
+2. **Pushkar Fair** is the Rajasthan camel fair in Kartik. **Pushkar Kumbh May 2025** is **Uttarakhand (Mana)**.
+3. **Magh Mela** is annual at Prayagraj. It is not the 12-year Ujjain Kumbh.
+4. **Pongal is Tamil Nadu. Onam is Kerala**. Never swap.
+5. **Bihu is Assam. Hornbill is Nagaland (Kisama, December)**.
+6. **Surajkund is Haryana**, not Rajasthan and not UP.
+7. **Bastar Dussehra** is Chhattisgarh, about 75 days, Danteshwari. It is not Rama–Ravana.
+8. **Chhath is Sun**, Bihar / east UP. It is not moon.
+9. **Garba** is Gujarat Navratri, UNESCO 2023. It is not SNA classical.
+10. **Ramlila** is UNESCO 2008 theatre. It is not a ninth classical dance.
+11. **Tansen Samaroh is Gwalior (MP)**. **Taj Mahotsav is Agra (UP)**.
+12. **Sangai is Manipur**. Kisama is Hornbill, not Sangai.
+13. **Vishu is Kerala. Ugadi is AP / Telangana / Karnataka. Gudi Padwa is Maharashtra**.
+14. **Sonepur is Bihar. Gangasagar is West Bengal**.
+15. **Saras Ajeevika Mela 2021 is Noida**, not Lucknow.
+16. **Losar** is Buddhist New Year across Sikkim, Arunachal and Ladakh. It is not “Assam Bihu.”
 
 
 ---

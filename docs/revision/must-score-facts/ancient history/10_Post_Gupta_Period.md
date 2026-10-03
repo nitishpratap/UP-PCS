@@ -11,73 +11,76 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 10 — Post-Gupta Period</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. After the imperial Guptas break about **550 CE**, the **Hunas** are led first by **Toramana**, then by **Mihirakula** of **Sakala (Sialkot)**. **Yashodharman** of Malwa boasts the Huna check at **Mandasor** about **532 CE**. **Vasula** is remembered as composer of Yashodharman’s Sondani / Sondhni record.
-2. Regional houses to fact: **Pushyabhutis** at **Thanesar**, **Maukharis** at **Kannauj**, **Later Guptas** in Magadha, **Maitrakas** at **Valabhi** (वलभी), and **Gauda** under **Shashanka** at **Karnasuvarna**.
-3. **Harsha** (हर्ष) of the **Pushyabhuti** house ruled **606–647 CE**. He is a post-Gupta reunion king, **not** a Gupta emperor. **Harsha-samvat** starts in **606 CE**. Founder-memory of the house is **Pushyabhuti**.
-4. Early capital is **Thanesar (Sthaneshvara)** in Haryana. Later capital is **Kannauj (Kanyakubja)** in **Uttar Pradesh** (उत्तर प्रदेश).
-5. Elder brother **Rajyavardhana** was killed by **Shashanka** of Gauda. Sister **Rajyashri** had married Maukhari **Grihavarman** of Kannauj; Harsha later rescued her and united the two houses.
-6. Chinese title for Harsha is **Siladitya** (शीलादित्य). Family memory starts Shaiva; later he is a loud **Buddhist patron** while still hosting Brahmans. East ally is **Bhaskaravarman** of Kamarupa.
-7. About **630–634 CE**, **Pulakeshin II** of Badami stopped Harsha at the **Narmada** (नर्मदा). The boast sits in the **Aihole** (ऐहोल) inscription of **Ravikirti** on the Meguti temple.
-8. Harsha held the **Kannauj assembly** in **643** to honour Xuanzang, and the **Prayag Moksha-parishad / Mahamoksha** every five years for charity give-aways.
-9. Harsha’s copper-plate facts are **Banskhera** (with his signature) and **Madhuban**. The **Sonpat** seal is Pushyabhuti family. Hathigumpha is **not** Harsha — it is **Kharavela** (खारवेल).
-10. After **647** there is no stable heir. The Chinese envoy **Wang Xuance** is attacked by **Arunashva** of Tirhut, and the north fragments again.
-11. **Banabhatta** (बाणभट्ट) is Harsha’s court poet from **Pritikuta** (Son bank, Bihar tradition / Shravasti belt in notes). He writes ornate Sanskrit prose, not Gupta-age verse drama like **Kalidasa** (कालिदास). *Rajatarangini* (राजतरंगिणी) of Kalhana (कल्हण) also carries later Harsha-age memory.
-12. *Harshacharita* (हर्षचरित) is Bana’s prose **biography** of Harsha (**akhyayika**). *Kadambari* (कादंबरी) is his unfinished prose **romance** (**katha**), finished by tradition by son Bhushanabhatta.
-13. **Hiuen Tsang (Xuanzang)** was in India about **630–644**, studied at **Nalanda** (नालंदा) under **Shilabhadra**, and wrote the ***Si-Yu-Ki***. He is Harsha’s Chinese witness, not Fa-Hien.
-14. Traveller chronology: **Fa-Hien** (फाह्यान) (~399–414, Chandragupta II) → **Sung-yun** (~518–521) → **Hiuen Tsang** (ह्वेनसांग) (~630–644, Harsha) → **I-Tsing** (~671–695, after Harsha) → **Al-Biruni** (~1017).
-15. Maukhari inscription facts: **Ishanavarman–Haraha** (Barabanki, UP, **554 CE**), **Ishvaravarman–Jaunpur** stone, **Jivitagupta II–Deo-Baranark**.
-16. **Sarvavarman–Gaya copper plate** is **NOT** matched. The Gaya plate is Gupta / **Samudragupta** (समुद्रगुप्त). Sarvavarman’s fact is the **Asirgarh** seal.
-17. Harsha’s administration reuses Gupta vocabulary: **uparika**, **mahasandhivigrahika** (महासांधिविग्रहिक), **mahapratihara**, and **bhandagaradhikarana** (भाण्डागाराधिकरण). He did **not** invent the Uparika.
-18. The state is personal: **mahasamanta** (महासामंत) feudatories and agrahara grants continue, and the machine collapses when Harsha dies in **647**. Post-Gupta north shows clearer **feudal / lord–vassal land control** than Mauryan central pay.
-19. Three plays often given to Harsha are *Nagananda* (नागानन्द), *Ratnavali* (रत्नावली), and *Priyadarshika* (प्रियदर्शिका). *Nagananda* carries the Buddhist flavour of the three.
-20. **Rajyashri did not marry Dhruvasena** of Valabhi. She is Grihavarman’s widow; Maitraka **Dhruvasena II** was restored as an ally.
-21. Mihirakula’s remembered seats include **Sakala**, the **Gwalior** inscription, and Kashmir memory in the *Rajatarangini*. Toramana appears on the **Eran** boar inscription.
-22. Later Gupta **Adityasena** has the **Aphsad** inscription in Bihar. Maitraka founder-memory is **Bhatarka** at Valabhi.
-23. Fa-Hien came mainly for **Vinaya** under Chandragupta II. Xuanzang came for **Mahayana** (महायान) texts under Harsha. Nalanda’s founder-patron remains **Kumaragupta I**.
-24. Do not confuse **Thanesar** (early Haryana capital) with **Kannauj** (later UP capital), or **Banabhatta** with **Kalidasa** (कालिदास).
-25. The Narmada stop is **not** the Battle of Kannauj **1540** (Sher Shah / Humayun). It is Pulakeshin II’s Chalukya check of Harsha.
-26. After Harsha, the later Kannauj fight among Pratihara–Pala–Rashtrakuta belongs to early medieval; keep only a pointer here — full cards live in the Early Medieval Regional Kingdoms chapter.
-27. Xuanzang notes **Mathura** for **cotton** textiles and **Varanasi** (वाराणसी) for **silk**. Thanesar’s prosperity is remembered as trade-based.
-28. Chinese writers call India **Yin-tu / Thian-tu**. Silk cloth in this age can appear as **kausheya**.
-29. Post-Harsha credit notes remember **hundi** as a bill of exchange in trade.
-30. **I-tsing** comes by sea after Harsha (~671–695), studies at Nalanda, and returns via Sumatra.
-31. Nalanda’s final medieval destruction is linked to **Bakhtiyar Khalji** (~1193) — Pala–Sena age, not Harsha’s lifetime.
-32. Shankaracharya’s four maths and Chardham traps belong to Bhakti / Vedanta notes — do not merge them into Harsha’s court card.
-33. Harsha’s moving royal camp is remembered as **skandhavara**. Administration reuses Gupta vocabulary; the state dies with the king in **647**.
-34. **Pushyabhuti** house founder-memory is **Pushyabhuti**; Harsha’s Chinese title is **Siladitya**. Do not call Harsha a Gupta emperor.
+1. **Harsha** (हर्ष) of the **Pushyabhuti** house ruled **606–647 CE**. He is a post-Gupta reunion king, **not** a Gupta emperor. **Harsha-samvat** starts in **606 CE**. Founder-memory of the house is **Pushyabhuti**.
+2. **Banabhatta** (बाणभट्ट) is Harsha’s court poet from **Pritikuta** (Son bank, Bihar tradition / Shravasti belt in notes). He writes ornate Sanskrit prose, not Gupta-age verse drama like **Kalidasa** (कालिदास). *Rajatarangini* (राजतरंगिणी) of Kalhana (कल्हण) also carries later Harsha-age memory.
+3. **Hiuen Tsang (Xuanzang)** was in India about **630–644**, studied at **Nalanda** (नालंदा) under **Shilabhadra**, and wrote the ***Si-Yu-Ki***. He is Harsha’s Chinese witness, not Fa-Hien.
+4. **Sarvavarman–Gaya copper plate** is **NOT** matched. The Gaya plate is Gupta / **Samudragupta** (समुद्रगुप्त). Sarvavarman’s fact is the **Asirgarh** seal.
+5. **Rajyashri did not marry Dhruvasena** of Valabhi. She is Grihavarman’s widow; Maitraka **Dhruvasena II** was restored as an ally.
+6. **I-tsing** comes by sea after Harsha (~671–695), studies at Nalanda, and returns via Sumatra.
+7. **Pushyabhuti** house founder-memory is **Pushyabhuti**; Harsha’s Chinese title is **Siladitya**. Do not call Harsha a Gupta emperor.
+8. **Banabhatta** wrote *Harshacharita* and *Kadambari*. **Mayura** wrote *Suryashataka*.
+9. **Yashodharman** of Malwa boasts the Huna check at **Mandasor** (Dashapura), about **532 CE**. **Vasula** is the composer remembered for the **Sondani / Sondhni** record of that victory.
+10. **Gauda** is Bengal under **Shashanka**, with capital **Karnasuvarna**.
+11. **Harsha-samvat** starts in **606 CE**.
+12. **Ishanavarman — Haraha** is **correct**. It is Barabanki, UP. VS 611 / **554 CE**.
+13. **Ishvaravarman — Jaunpur stone** is **correct** in that paper. He is father of Ishanavarman.
+14. **Jivitagupta II — Deo-Baranark** is **correct**. It is Bhojpur, Bihar.
+15. **Sarvavarman — Gaya copper plate** is **NOT matched**. The Gaya plate is Gupta / **Samudragupta**. Sarvavarman is the **Asirgarh** seal.
+16. **Harshavardhan** is a common trap option for **Hathigumpha**. The inscription belongs to **Kharavela** of Kalinga, not Harsha.
+17. **Mahasamanta** feudatories sit under him. The grip is less tight than Mauryan amatyas. Agrahara grants to Brahmans go on. The court can move as a camp (**skandhavara**).
+18. **Rajyashri did not marry Dhruvasena.** She is Grihavarman’s widow.
+19. ***Harshacharita*** (हर्षचरित) is “Deeds of Harsha,” a prose **biography** of his patron. Class: **akhyayika** (आख्यायिका).
+20. ***Kadambari*** (कादंबरी) is a long **romance** named after the heroine. Class: **katha** (कथा). Not a second Harsha chronicle. He left it unfinished. Tradition: son **Bhushanabhatta** (भूषणभट्ट) finished it.
+21. **Banabhatta** (बाणभट्ट) is Harsha’s **7th-century** court poet. **Kalidasa** (कालिदास) is Chandragupta II’s (चंद्रगुप्त द्वितीय) Gupta-age poet.
+22. **Ucchvasa 1** = Bana’s own life (rare author-autobiography).
+23. **Fa-Hien** came two centuries earlier, under **Chandragupta II** (चंद्रगुप्त द्वितीय) (about 399–414), mainly for **Vinaya**. Xuanzang came for **Mahayana** texts. Nalanda itself was founded under **Kumaragupta I**. Xuanzang is the **visitor**, not the founder.
+24. **Sung-yun** (Song Yun) came about **518–521** under the Northern Wei — after Fa-Hien, before Xuanzang.
+25. **I-Tsing** comes by **sea** after Harsha (about 671–695). He is still at Nalanda. He is not Harsha’s guest. **Al-Biruni** writes ***Kitab-ul-Hind*** under Mahmud (about 1017). He is last in the 2024 list.
+26. **Hiuen Tsang** studies under **Shilabhadra** at Nalanda and spends years in Magadha recording campus life, libraries, and debate.
+27. **Toramana** is the early Huna king who pushes into north India.
+28. **Mihirakula** follows him. The Gwalior inscription remembers him. His seat is at **Sakala**.
+29. **Yashodharman** of Malwa boasts victory at **Mandasor / Sondani** about **532 CE**. The composer is **Vasula**.
+30. **Badami rock inscription** of Pulakeshin I dated Saka 465 = $465 + 78 + 58 = 601$ Vikrama Samvat.
+31. **Chalukya inscription** dated Saka 556 = $556 + 78 = 634$ CE.
+32. **Gadhaiya coins:** Sassanian-inspired silver coins circulated in western India during early medieval times.
+33. **Center of Gravity:** Trade and political supremacy shifted from Ujjain to **Kannauj (Mahodaya / Mahodayashri)** on the fertile Ganga-Yamuna doab, triggering the tripartite struggle (Palas, Pratiharas, Rashtrakutas).
+34. **Maukharis of Kannauj:** Rose as feudatories of Guptas from Gaya; kings: Hari Varma, Aditya Varma, Ishana Varma (**Haraha inscription, 554 CE**), Sarva Varma (**Asirgarh copper seal**), Graha Varma (married Harsha's sister Rajyashri).
+35. **Harshavardhana (606–647 CE):**
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Gupta | Post-Gupta | Imperial ~320–550 vs fragment then **Harsha** | गुप्त / उत्तर-गुप्त |
-| Thanesar | Kannauj | Early capital **Haryana** vs later capital **UP** | थानेसर / कन्नौज |
-| Banabhatta | Kalidasa | Harsha’s **prose** vs Gupta **poetry/drama** | बाणभट्ट / कालिदास |
-| Harshacharita | Kadambari | Harsha **biography** vs **romance** (same Bana) | हर्षचरित / कादम्बरी |
-| Harshacharita | Si-Yu-Ki | Sanskrit kavya vs Xuanzang’s **Chinese** record | हर्षचरित / सी-यू-की |
-| Fa-Hien | Hiuen Tsang | CG II ~400 vs Harsha **~630** | फाह्यान / ह्वेन त्सांग |
-| Hiuen Tsang | I-Tsing | Harsha’s guest vs **after** Harsha, still Nalanda | ह्वेन त्सांग / इ-त्सिंग |
-| Pulakeshin II | Shashanka | **Narmada** Chalukya stop vs **Gauda** who killed the brother | पुलकेशिन / शशांक |
-| Maukhari | Pushyabhuti | Kannauj house vs **Thanesar** house | मौखरी / पुष्यभूति |
-| Ishanavarman | Ishvaravarman | **Haraha** 554 CE vs father. **Jaunpur** in 2022 key | ईशानवर्मन / ईश्वरवर्मन |
-| Haraha | Gaya copper plate | Maukhari Ishanavarman vs **Samudragupta** plate (2022 trap) | हराहा / गया |
-| Harsha | Kharavela | 7th c. Kannauj vs **Hathigumpha** (2018 trap C) | हर्ष / खारवेल |
-| Mathura cotton | Varanasi silk | Xuanzang textile pair | मथुरा कपास / वाराणसी रेशम |
-| Kausheya | Cotton | Silk cloth word vs ordinary cotton | कौशेय / कपास |
-| Hundi | Royal edict | Bill of exchange vs king’s order | हुंडी / आज्ञा |
-| Sung-yun | Fa-Hien | ~518 Wei envoy vs CG II pilgrim ~400 | सुंगयुन / फाह्यान |
-| Harsha | Shankaracharya | 7th c. Kannauj king vs 8th c. Advaita maths | हर्ष / शंकर |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Facts
+
+1. **Harsha = Gupta emperor** → Pushyabhuti / Vardhana.
+2. **Thanesar = Kannauj** → early Haryana seat vs later **UP** capital.
+3. **Thanesar is in UP** → **Haryana**.
+4. **Fa-Hien visited Harsha** → Fa-Hien = Chandragupta II (~400).
+5. **Hiuen Tsang = Fa-Hien** → ~630 vs ~400. 2024 order Fa-Hien first.
+6. **I-Tsing sat in the 643 Kannauj assembly** → after Harsha.
+7. **Nalanda founder = Xuanzang / Harsha** → **Kumaragupta I**. Xuanzang is the visitor.
+8. **Sarvavarman issued the Gaya copper plate** → **2022 Q87 B**. Gaya plate = Gupta / Samudragupta. Sarvavarman = Asirgarh.
+9. **Haraha = Sarvavarman** → **Ishanavarman**, Barabanki.
+10. **Rajyashri married Dhruvasena II / Pulakeshin II** → **Grihavarman** only.
+11. **Pulakeshin killed Rajyavardhana** → **Shashanka** of Gauda.
+12. **Harsha conquered the Deccan** → **Narmada** stop. Aihole boast of Pulakeshin II.
+13. **Aihole = Harsha’s prasasti** → **Ravikirti** for Pulakeshin II.
+14. **Harshacharita = Si-Yu-Ki** → Bana’s Sanskrit vs Xuanzang’s Chinese.
+15. **Kadambari = second Harsha chronicle** → romance. *Harshacharita* is the biography.
+16. **Bana = Kalidasa** → Harsha court vs Gupta court.
+17. **2018 Hathigumpha = Harsha** → **Kharavela**.
+18. **2025 Battle of Kannauj = Harsha** → Humayun / Sher Shah.
+19. **Prayag charity = 1540 war** → quinquennial give-away Xuanzang saw.
+20. **Uparika invented by Harsha** → Gupta provincial title reused.
+21. **Mathura = silk, Varanasi = cotton in Xuanzang** → reverse the pair.
+22. **Yin-tu = a Harsha capital** → Chinese name for **India**.
+23. **Tripartite struggle = Harsha vs Pulakeshin** → later Pala–Pratihara–Rashtrakuta for Kannauj.
+24. **Shankaracharya’s four maths = Harsha foundations** → 8th-c. Advaita; not this file’s core.
+25. **Sung-yun = Fa-Hien under CG II** → ~518 Wei envoy, not Chandragupta II.
 
 
 ---

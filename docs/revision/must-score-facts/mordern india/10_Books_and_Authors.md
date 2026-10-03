@@ -11,63 +11,85 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 10 — Books & Authors</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. ***Anandamath*** (**1882**) is by **Bankim Chandra Chattopadhyay** and carries **Vande Mataram**. It is not the national anthem.
-2. ***Neel Darpan** (नील दर्पण)* (**1860**) is **Dinabandhu Mitra (मित्र)’s** indigo (नील) play. Do not give it to Bankim.
-3. ***Poverty and Un-British Rule in India*** by **Dadabhai Naoroji (नौरोजी)** was published in **1901**. It is the classic drain-of-wealth tract.
-4. ***The Rise and Growth of Economic Nationalism in India*** is **Bipan Chandra’s** later historiography, not Naoroji’s 1901 book.
-5. ***Hind Swaraj*** (**1909**) is Gandhi (गांधी)’s political tract. ***My Experiments with Truth*** is his autobiography — do not swap the two.
-6. ***The Discovery of India*** (**1946**) is **Nehru (नेहरू)’s** Ahmednagar-jail civilisation–nation book. ***Toward Freedom / Autobiography*** is a different Nehru title.
-7. ***India Wins Freedom*** is **Maulana Abul Kalam Azad’s** freedom memoir. Do not confuse it with Nehru’s *Discovery of India*.
-8. ***Gita Rahasya*** is **Tilak (तिलक)’s** Gita–politics work. ***Arctic Home in the Vedas** (आर्कटिक होम)* is also Tilak, but on a Vedic homeland — never swap.
-9. ***Gulamgiri*** (**1873**) is **Jyotiba Phule (ज्योतिबा फुले)’s** caste-as-slavery tract. ***Annihilation of Caste*** (**1936**) is **Ambedkar’s**.
-10. ***The Story of My Deportation (डिपोर्टेशन)*** is **Lala Lajpat Rai** (लाला लाजपत राय). ***A Nation in Making (ए नेशन इन मेकिंग)*** is **Surendranath Banerjee (बनर्जी)**.
-11. ***Unhappy India*** is Lajpat Rai’s reply to Katherine Mayo (मेयो)’s hostile ***Mother India*** (**1927**).
-12. ***The Indian War of Independence*** (**1909**) is **V.D. Savarkar (सावरकर)’s** reading (रीडिंग) of **1857** as a national war. It is not Bankim’s novel.
-13. ***India Divided*** is **Rajendra Prasad**. ***Pakistan or the Partition of India*** is **Ambedkar** (अम्बेडकर).
-14. Match-four fact: *Story of My Deportation* — **Lajpat Rai**; *Gita Rahasya* — **Tilak** (तिलक); *A Nation in Making* — **Banerjee**; *India Wins Freedom* — **Azad**.
-15. ***Firangiya** (फिरंगिया)* (**1921**) is **Manoranjan Prasad Sinha’s** Bhojpuri anti-British poem.
-16. ***Batohiya*** (**1911**) is **Raghuveer Narayan’s** Bhojpuri poem. The traveller character in *Bidesiya* (बिदेसिया) is a different fact.
-17. ***Bidesiya*** is **Bhikhari Thakur (भिखारी ठाकुर)’s** migrant folk-drama; he is remembered as the **Shakespeare of Bhojpuri**.
-18. ***Achhut Kee Shikayat*** (**1914**) is **Heera Dom**.
-19. ***Godaan** (गोदान)* and related social novels are **Premchand**. Do not place them with Bankim’s political romance.
-20. ***Economic History of India*** is **R.C. Dutt’s** economic-nationalist classic of that age.
-21. ***Satyarth Prakash*** is **Dayanand Saraswati** (Arya Samaj (आर्य समाज)). ***Tuhfat-ul-Muwahhidin*** is **Raja (राजा) Rammohan Roy**.
-22. ***Why I Am an Atheist*** is **Bhagat Singh** (भगत सिंह). ***The Indian Struggle*** / ***An Indian Pilgrim*** are **Subhas Chandra Bose** (सुभाष चंद्र बोस).
-23. ***Gitanjali*** is **Tagore** (Nobel **1913**). ***Jana Gana Mana (माना)*** is the national **anthem**; **Vande Mataram** is the national **song** (सोंग).
-24. Lord Curzon (कर्ज़न)’s GG-linked titles include ***Problems of the Far East*** / ***British Government in India***. ***My Indian Years*** is **Hardinge**.
+1. **Book ↔ author fact** lives here (Topic 10). The **political context** behind a book (why Naoroji wrote the drain critique, why Savarkar wrote from London) has its fuller home in **Topics 9 and 11**; this topic keeps only the title-and-author fact plus one line of context.
+2. Bhojpuri literature stays a **UP-focus block** here — do not scatter it into the socio-religious reform topic.
+3. ***Anandamath*** (**1882**) is by **Bankim Chandra Chattopadhyay** and carries **Vande Mataram**. It is not the national anthem.
+4. ***Neel Darpan** (नील दर्पण)* (**1860**) is **Dinabandhu Mitra (मित्र)’s** indigo (नील) play. Do not give it to Bankim.
+5. ***Poverty and Un-British Rule in India*** by **Dadabhai Naoroji (नौरोजी)** was published in **1901**. It is the classic drain-of-wealth tract.
+6. ***The Rise and Growth of Economic Nationalism in India*** is **Bipan Chandra’s** later historiography, not Naoroji’s 1901 book.
+7. ***Hind Swaraj*** (**1909**) is Gandhi (गांधी)’s political tract. ***My Experiments with Truth*** is his autobiography — do not swap the two.
+8. ***The Discovery of India*** (**1946**) is **Nehru (नेहरू)’s** Ahmednagar-jail civilisation–nation book. ***Toward Freedom / Autobiography*** is a different Nehru title.
+9. ***India Wins Freedom*** is **Maulana Abul Kalam Azad’s** freedom memoir. Do not confuse it with Nehru’s *Discovery of India*.
+10. ***Gita Rahasya*** is **Tilak (तिलक)’s** Gita–politics work. ***Arctic Home in the Vedas** (आर्कटिक होम)* is also Tilak, but on a Vedic homeland — never swap.
+11. ***Gulamgiri*** (**1873**) is **Jyotiba Phule (ज्योतिबा फुले)’s** caste-as-slavery tract. ***Annihilation of Caste*** (**1936**) is **Ambedkar’s**.
+12. ***The Story of My Deportation (डिपोर्टेशन)*** is **Lala Lajpat Rai** (लाला लाजपत राय). ***A Nation in Making (ए नेशन इन मेकिंग)*** is **Surendranath Banerjee (बनर्जी)**.
+13. ***Unhappy India*** is Lajpat Rai’s reply to Katherine Mayo (मेयो)’s hostile ***Mother India*** (**1927**).
+14. ***The Indian War of Independence*** (**1909**) is **V.D. Savarkar (सावरकर)’s** reading (रीडिंग) of **1857** as a national war. It is not Bankim’s novel.
+15. ***India Divided*** is **Rajendra Prasad**. ***Pakistan or the Partition of India*** is **Ambedkar** (अम्बेडकर).
+16. ***Firangiya** (फिरंगिया)* (**1921**) is **Manoranjan Prasad Sinha’s** Bhojpuri anti-British poem.
+17. ***Batohiya*** (**1911**) is **Raghuveer Narayan’s** Bhojpuri poem. The traveller character in *Bidesiya* (बिदेसिया) is a different fact.
+18. ***Bidesiya*** is **Bhikhari Thakur (भिखारी ठाकुर)’s** migrant folk-drama; he is remembered as the **Shakespeare of Bhojpuri**.
+19. ***Achhut Kee Shikayat*** (**1914**) is **Heera Dom**.
+20. ***Godaan** (गोदान)* and related social novels are **Premchand**. Do not place them with Bankim’s political romance.
+21. ***Economic History of India*** is **R.C. Dutt’s** economic-nationalist classic of that age.
+22. ***Satyarth Prakash*** is **Dayanand Saraswati** (Arya Samaj (आर्य समाज)). ***Tuhfat-ul-Muwahhidin*** is **Raja (राजा) Rammohan Roy**.
+23. ***Why I Am an Atheist*** is **Bhagat Singh** (भगत सिंह). ***The Indian Struggle*** / ***An Indian Pilgrim*** are **Subhas Chandra Bose** (सुभाष चंद्र बोस).
+24. ***Gitanjali*** is **Tagore** (Nobel **1913**). ***Jana Gana Mana (माना)*** is the national **anthem**; **Vande Mataram** is the national **song** (सोंग).
 25. ***Hindutva: Who is a Hindu?*** (**1923**) is Savarkar’s separate title from his **1909** 1857 history.
-26. Sort by type first to kill traps: **primary tract** (*Poverty…* 1901; *Hind Swaraj* 1909) vs **memoir** (*India Wins Freedom*; *Discovery*) vs **later historiography** (Bipan Chandra) vs **GG-linked** vs **partition narrative**.
-27. A book written **in** 1901 about the drain is a **primary tract**. A book written **about** that age decades later is **historiography** — never match Naoroji to Bipan Chandra titles.
-28. Highest-yield drill set: syllabus eight (*Anandamath, Poverty…, Hind Swaraj, Discovery, India Wins Freedom, Gita Rahasya, Gulamgiri, Annihilation*) → match-four (Lajpat / Tilak / Banerjee / Azad) → twin traps → Bhojpuri four (*Firangiya, Batohiya, Bidesiya, Achhut Kee Shikayat*).
+26. ***Young India*** as a **newspaper** = Gandhi. ***Young India*** as a **book** in match sets = **Lala Lajpat Rai**.
+27. ***New India*** = Besant. Do **not** give it to Tilak (*Kesari* / *Mahratta*).
+28. ***Bande Mataram*** the paper is Aurobindo’s line; the **song** *Vande Mataram* is Bankim’s (*Anandamath*).
+29. ***Kapalkundala*** followed in **1866**.
+30. ***Devi Chaudhurani*** came later, in **1884**.
+31. **Neel Darpan** is **not** his. That indigo play is **Dinabandhu Mitra (1860)**.
+32. ***Gitanjali***: Bengali **1910**; English *Song Offerings* **November 1912**; Nobel Literature **1913**.
+33. ***Amar Sonar Bangla*** (1905, Partition/Swadeshi protest) became Bangladesh’s national anthem (first ten lines, **1972**). Tagore also wrote ***Jana Gana Mana*** — the rare poet of **two** national anthems.
+34. ***The Rise and Growth of Economic Nationalism in India*** is **Bipan Chandra**, not Naoroji.
+35. ***Glimpses of World History*** is a third Nehru title.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Anandamath | Hind Swaraj | Bankim novel 1882 vs Gandhi tract 1909 | आनंदमठ / हिंद स्वराज |
-| Discovery of India | India Wins Freedom | Nehru civilisation-nation vs Azad freedom memoir | भारत एक खोज / इंडिया विन्स फ्रीडम |
-| Gita Rahasya | Arctic Home in the Vedas | Both Tilak; Gita politics vs Vedic homeland | गीता रहस्य / आर्कटिक होम |
-| Gulamgiri | Annihilation of Caste | Phule 1873 caste-slavery vs Ambedkar 1936 destroy-caste | गुलामगिरी / जाति का विनाश |
-| Poverty… (Naoroji) | Economic Nationalism (Bipan) | 1901 drain classic vs later historiography | दरिद्रता… / आर्थिक राष्ट्रवाद |
-| Nation in Making | Story of My Deportation | Banerjee vs Lajpat Rai | ए नेशन इन मेकिंग / डिपोर्टेशन |
-| Neel Darpan | Anandamath | Dinabandhu Mitra indigo play vs Bankim sanyasi novel | नील दर्पण / आनंदमठ |
-| Mother India | Unhappy India | Katherine Mayo’s 1927 hostile tract vs Lala Lajpat Rai’s reply | मदर इंडिया / अनहैप्पी इंडिया |
-| Firangiya | Bidesiya | Sinha 1921 anti-British poem vs Thakur migrant play | फिरंगिया / बिदेसिया |
-| Batohiya (poem) | Batohiya (character) | Raghuveer Narayan 1911 poem vs traveller in *Bidesiya* | बटोहिया |
-| India Divided | Pakistan or Partition | Rajendra Prasad vs Ambedkar | इंडिया डिवाइडेड |
-| Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
-| The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Poverty… = 1900 / 1902** → **1901**.
+2. **Economic Nationalism book = Naoroji** → **Bipan Chandra**.
+3. **Neel Darpan = Bankim** → **Dinabandhu Mitra**.
+4. **Discovery of India = Azad / autobiography** → **Nehru 1946**; autobiography = *Toward Freedom*.
+5. **India Wins Freedom = Collins / Nehru** → **Azad**.
+6. **Freedom at Midnight = Azad** → **Collins and Lapierre**.
+7. **Gita Rahasya = Gandhi / Aurobindo** → **Tilak**.
+8. **Arctic Home = Dayanand** → **Tilak**.
+9. **Gulamgiri = Ambedkar** → **Phule 1873**.
+10. **Annihilation of Caste = Phule** → **Ambedkar 1936**.
+11. **India Divided = Ambedkar** → **Rajendra Prasad**.
+12. **Pakistan or Partition = Jinnah** → **Ambedkar**.
+13. **Train to Pakistan = Azad** → **Khushwant Singh**.
+14. **Unhappy India = Mayo** → Mayo = *Mother India*; reply = **Lajpat Rai**.
+15. **Firangiya = Bhikhari Thakur** → **Manoranjan Prasad Sinha**. Thakur = **Bidesiya**.
+16. **Batohiya poem = Thakur** → **Raghuveer Narayan** (character in *Bidesiya* ≠ poem author).
+17. **Godaan = Bankim** → **Premchand**.
+18. **Nation in Making = Lajpat Rai / Gokhale** → **Surendranath Banerjee**.
+19. **Young India book = always Gandhi** → Gandhi’s *Young India* is a **paper**; Lajpat Rai also has a **book** of that name.
+20. **Vande Mataram = national anthem** → national **song** from *Anandamath*; anthem is *Jana Gana Mana*.
+21. **The Indian War of Independence = Bankim / Bipan Chandra** → **V.D. Savarkar, 1909**.
+22. **Savarkar wrote only one book** → he also wrote *Hindutva* (1923); do not merge the two Savarkar titles.
+23. **Mother India = an Indian nationalist author** → **Katherine Mayo**, an American writer; the nationalist reply is Lajpat Rai's *Unhappy India*.
+24. **My Indian Years = Curzon** → **Lord Hardinge**; Curzon's tag is *Problems of the Far East*.
+25. **The Viceroy's Journal = Mountbatten** → **Lord Wavell**'s posthumous diary.
+26. **Warren Hastings translated the Gita** → he **patronised** Charles Wilkins's 1785 translation and wrote its preface.
+27. **Amar Sonar Bangla = India’s anthem** → Bangladesh’s anthem (Tagore); India = **Jana Gana Mana**.
+28. **Hind Swaraj = English original 1909** → written in **Gujarati**; English to evade ban.
+29. **Bandi Jivan = Bhagat Singh / Bose** → **Sachindranath Sanyal**.
+30. **Indian Sociologist = Bhagat Singh** → **Shyamji Krishna Varma** (London).
+31. **Indian Unrest = Lajpat Rai** → **Valentine Chirol**; Unhappy India = Lajpat Rai.
+32. **Springing Tiger = Bhagat Singh biography** → **Subhas Bose** (Hugh Toye).
+33. **Discovery of India = Yeravda / Alipore** → **Ahmednagar Fort** jail.
+34. **Gitanjali English = 1910 / Nobel year book** → Bengali **1910**; English **1912**; Nobel **1913**.
 
 
 ---

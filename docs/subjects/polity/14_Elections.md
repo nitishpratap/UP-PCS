@@ -38,7 +38,8 @@
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Article 324** gives the Election Commission superintendence over elections to Parliament, State legislatures, the President, and the Vice-President. It does **not** cover the Speaker’s election inside the House or Panchayat/ULB polls (those are **SEC**).
 2. **Article 327** lets Parliament make election law; **Article 328** lets States legislate subject to Parliament. **RPA 1950** covers rolls, seats, and delimitation machinery; **RPA 1951** covers conduct, nominations, corrupt practices, and petitions.
@@ -69,9 +70,10 @@
 27. The Election Commission’s multi-member form and the CEC’s harder removal protect independence, but day-to-day election law still comes from the **RPAs** and Rules — Article **324** is not a blank cheque to ignore statute.
 28. Reserved constituencies change only through delimitation and constitutional extension dates. Women’s reservation under the **106th** waits for post-census delimitation; SC/ST reservation currently runs to **2030** under the **104th**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
@@ -90,7 +92,7 @@
 | **EVM** | **VVPAT** | Records the vote | Paper slip the voter sees |
 | **Election petition** | **Art. 71** | LS/Assembly → **HC** | President/VP → **SC** |
 
----
+</details>
 
 ## Must-score facts — suffrage, systems, RPA
 

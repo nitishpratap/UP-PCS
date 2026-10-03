@@ -11,65 +11,88 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 13 — Statutory & Non-Constitutional Bodies</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. A **statutory body** is created by an **Act of Parliament or a State legislature**. It is not created by the Constitution (CAT is the special case that rides on **Article 323A**).
-2. The **Lokpal and Lokayuktas Act, 2013** creates a Chairperson and up to **eight** members, with **half** judicial and **half** from SC/ST/OBC (अन्य पिछड़ा वर्ग)/minorities/women. Term is **five years or age 70**. Removal is like a Supreme Court judge.
-3. Lokpal’s Selection Committee is the **Prime Minister**, **Lok Sabha (लोकसभा) Speaker**, **Leader of Opposition in the Lok Sabha**, the **CJI or nominee**, and an **eminent jurist**. The **Chairman of the Rajya Sabha** is **not** on that panel. Search Committee and Selection Committee are different bodies.
-4. The first Lokpal was **Justice P.C. Ghose (2019)**. Complaints ordinarily cover acts within about **seven years** and follow a prescribed form. **Lokayukta** (लोकायुक्त) is a **State Act** office; **Maharashtra (1971)** was first; Uttar Pradesh (उत्तर प्रदेश) has a 1975 Act with an Up-Lokayukta.
-5. The **Central Vigilance Commission** began from the Santhanam idea (**1962**), became executive in **1964**, and gained statutory status under the **CVC Act, 2003** after *Vineet Narain*. It has **no constitutional article**. Composition is Chairperson plus **two** Vigilance Commissioners.
-6. CVC members are selected by the **Prime Minister, Home Minister, and Leader of Opposition**, for **four (चातुर्याम) years or age 65**. The CVC has superintendence over the CBI in Prevention of Corruption cases, but the CVC itself is **not** a police force. The CBI Director panel is **PM + LoP (LS) + CJI**, not the CVC.
-7. The **RTI Act, 2005** (in force **12 October 2005**) creates the CIC and SICs. Normal reply time is **30 days** (**48 hours** where life or liberty is at stake). PIO penalty can go up to **₹25,000**. The 2019 amendment lets the Centre prescribe term and salary.
-8. CIC selection involves the **Prime Minister, Leader of Opposition, and a Union Cabinet Minister (कैबिनेट मंत्री)**. The RTI movement’s grassroots fact is often traced to **MKSS**. Section **8** lists exemptions; section **4** demands suo motu disclosure.
-9. The **NHRC** (राष्ट्रीय मानव अधिकार आयोग) is under the **Protection of Human Rights Act, 1993**. It is **statutory**, not Article **338**. Its recommendations are recommendatory. Complaints are ordinarily within **one year**. After 2019, the Chair may be a retired **CJI or Supreme Court judge**; term is **three years or age 70**.
-10. An **SHRC** Chair is typically a retired High Court Chief Justice; after 2019 a retired High Court judge may also qualify. Do not treat NHRC/SHRC as constitutional commissions under 338–338B.
-11. The **National Green Tribunal (2010)** covers scheduled environment (पर्यावरण) Acts; the **Wildlife Protection (वन्यजीव सुरक्षा) Act** is **not** on that schedule. The Chair is an SC or HC judge; the Principal Bench is in **Delhi**; appeal lies to the Supreme Court; disposal aim is about **six months**.
-12. NGT decides with the principles of **sustainable development**, **polluter pays**, and the **precautionary** principle. It is created by the NGT Act, not by Article 323A.
-13. The **National Commission for Women** Act is **1990**. The **National Commission for Minorities** Act is **1992** (Jains notified in **2014**). NCM is **not** the Special Officer under **350B** (अनु. 350B).
-14. **NCPCR (2005)** deals with children below **18** and works with State Commissions. The **National Commission for Safai Karamcharis** is statutory (**1993** lineage; PEMSR **2013**) and is **not** Article 338.
-15. **NDMA** sits under the **Disaster Management Act, 2005**. The **Prime Minister** chairs NDMA; the **Chief Minister** chairs SDMA; the **District Magistrate** chairs DDMA. The National Executive Committee is headed by the **Cabinet Secretary**.
-16. The **Competition Commission of India** works under the Competition Act, **2002** (operations from **2009**). It replaced the old MRTP regime. Appeals go to **NCLAT**. Focus sections include anti-competitive agreements, abuse of dominance, and combinations.
-17. **SEBI** began as an executive body in **1988** and became statutory under the **SEBI Act, 1992**. Headquarters is in **Mumbai**. Appeals go to the **Securities Appellate Tribunal**.
-18. The **RBI** follows the Hilton Young idea (**1926**), the RBI Act **1934**, and started on **1 April 1935**; it was nationalised in **1949**. Currency notes are an RBI function, but **₹1 notes and coins (रूपक)** are Government of India. The **Monetary Policy Committee** dates to **2016**.
-19. The **National Housing Bank** Act is **1987**. From **2019**, the **RBI** regulates housing finance companies while the Government owns NHB — a classic ownership-versus-regulation split.
-20. **CAT** was created by the Administrative Tribunals Act, **1985**, with Principal Bench at Delhi, under **Article 323A**. High Court writ power under **226** survives after *L. Chandra Kumar* (एल चंद्र). Armed forces use the **Armed Forces Tribunal (2007)**, not CAT.
-21. **NITI Aayog** (नीति आयोग) began by Cabinet Resolution on **1 January 2015**. It is **neither constitutional nor statutory**. The **Prime Minister** is Chair; the first Vice-Chair was **Arvind Panagariya**. It is a think-tank and does **not** replace the Finance Commission (वित्त आयोग).
-22. NITI’s Governing Council includes Chief Ministers and Lieutenant Governors. It is the **SDG nodal** body. It runs AIM, DMEO, and Aspirational Districts. It does **not** allocate the old Planning Commission Plan funds.
-23. The old **Planning Commission** (योजना आयोग) began on **15 March 1950**. The **National Development Council** began on **6 August 1952** (PM plus Chief Ministers) and approved Five-Year Plans. NITI replaced the Planning Commission, not the NDC’s entire political history (इतिहास) overnight, but Plan-era machinery changed.
-24. The **CBI** was set up by an MHA resolution on **1 April 1963**. Its investigation power rides on the **Delhi Special Police Establishment Act, 1946**. It is **not** statutory in the same way as the CVC Act body. It needs **State consent** under section **6** unless a High Court or the Supreme Court orders otherwise.
-25. CBI is India’s National Central Bureau for **Interpol** and runs **BHARATPOL**. The Academy is at **Ghaziabad**. Administrative control links include **DoPT**.
-26. The **NIA** was created by the **NIA Act, 2008** after 26/11. It investigates scheduled offences and does **not** need State consent in the CBI sense. The **2019** amendment widened its reach.
-27. The **Intelligence Bureau (1887)** is the oldest, for **internal** intelligence under the Home Ministry. **RAW (21 September 1968)**, founded under **R.N. Kao**, handles **external** intelligence under the Cabinet Secretariat. The **Enforcement Directorate (1956)** under the Department of Revenue works FEMA and PMLA.
-28. The **National Security Council (1998)** is chaired by the **Prime Minister**. The first National Security Adviser was **Brajesh Mishra**. Related structures include SPG, NSAB, and NSCS.
-29. **Zonal Councils** are **statutory** under the **States Reorganisation Act, 1956** (five zones). The **Union Home Minister** is the common chair. Uttar Pradesh sits in the **Central** Zonal Council (HQ **Prayagraj**). The **North Eastern Council** is a separate **1971** Act body — not a sixth Zonal Council.
-30. The **Law Commission of India** is an **executive / extra-constitutional** advisory body (usually a **three-year** term under the Ministry of Law and Justice). The first Law Commission of independent India (**1955**) was chaired by **M.C. Setalvad**. It is **not** a constitutional body and **not** created by a standing statute.
+1. **NCPCR (2005)** deals with children below **18** and works with State Commissions. The **National Commission for Safai Karamcharis** is statutory (**1993** lineage; PEMSR **2013**) and is **not** Article 338.
+2. **NDMA** sits under the **Disaster Management Act, 2005**. The **Prime Minister** chairs NDMA; the **Chief Minister** chairs SDMA; the **District Magistrate** chairs DDMA. The National Executive Committee is headed by the **Cabinet Secretary**.
+3. **SEBI** began as an executive body in **1988** and became statutory under the **SEBI Act, 1992**. Headquarters is in **Mumbai**. Appeals go to the **Securities Appellate Tribunal**.
+4. **CAT** was created by the Administrative Tribunals Act, **1985**, with Principal Bench at Delhi, under **Article 323A**. High Court writ power under **226** survives after *L. Chandra Kumar* (एल चंद्र). Armed forces use the **Armed Forces Tribunal (2007)**, not CAT.
+5. **NITI Aayog** (नीति आयोग) began by Cabinet Resolution on **1 January 2015**. It is **neither constitutional nor statutory**. The **Prime Minister** is Chair; the first Vice-Chair was **Arvind Panagariya**. It is a think-tank and does **not** replace the Finance Commission (वित्त आयोग).
+6. **Zonal Councils** are **statutory** under the **States Reorganisation Act, 1956** (five zones). The **Union Home Minister** is the common chair. Uttar Pradesh sits in the **Central** Zonal Council (HQ **Prayagraj**). The **North Eastern Council** is a separate **1971** Act body — not a sixth Zonal Council.
+7. **At least 50%** of the members must be **judicial members**.
+8. **At least 50%** of the members must be from **SC, ST, OBC, minorities, or women**.
+9. **Prime Minister** — chair
+10. **Speaker, Lok Sabha**
+11. **Leader of Opposition, Lok Sabha** (or leader of the largest opposition party)
+12. **CJI or an SC judge** nominated by the CJI
+13. **Maharashtra**, in **1971**, was the **first State** to set up a Lokayukta.
+14. **Odisha** (ओडिशा) passed a Lokayukta law first in **1970**, but its institution became operational only in **1983**. Maharashtra enacted its law in **1971** and established the first functioning Lokayukta in **1972**.
+15. **Uttar Pradesh** (उत्तर प्रदेश) enacted the **U.P. Lokayukta and Up-Lokayukta Act, 1975** — one of the earliest State laws.
+16. **No Article** of the Constitution describes the CVC — a 2020 question asking "which Article" correctly answers **"none of the above."**
+17. **Nittoor Srinivasa Rau** was the **first CVC**, in 1964.
+18. **Wajahat Habibullah** was the **first Chief Information Commissioner**.
+19. **Osborne Smith (स्मिथ)** was the **first Governor** of the RBI; **C.D. Deshmukh (देशमुख)** was the **first Indian Governor**.
+20. **"Administrative Tribunal — Article 323A"** is a **correctly matched pair** (alongside Inter-State Council–263, Finance Commission–280, and UPSC (संघ लोक सेवा आयोग)–315) — a recurring 2020-style Match-List item. Do **not** treat 323A as wrongly matched. **Art. 323B**, by contrast, covers **other tribunals** (tax, land, etc.), which either Parliament **or** a State legislature may set up.
+21. **Ashok Chanda** called the Planning Commission the **"Economic Cabinet of India"** — a fact tested in **2018**.
+22. **India Innovation Index 2019:** Top State **Karnataka**.
+23. **SDG India Index 2019–20** (Dec 2019): UP grouped **Aspirant**.
+24. **State Energy and Climate Index** (10 Apr **2022**): Top three **Gujarat, Kerala, Punjab**.
+25. **Genesis & Statute:** Zonal Councils are **Statutory bodies** (NOT constitutional bodies). They were established by an Act of Parliament: **Part III of the States Reorganisation Act, 1956**.
+26. **Chairman:** The **Union Home Minister** is the common Chairman of all Zonal Councils.
+27. **Vice-Chairman:** The **Chief Ministers** of the states included in each zone act as Vice-Chairman by rotation, holding office for **one year** at a time.
+28. **Members:** Chief Minister and two other ministers nominated by the Governor from each state, plus the administrator of each UT in the zone.
+29. **Nature of Function:** Purely **deliberative and advisory** bodies to promote inter-state cooperation and regional integration.
+30. **Status & Nature:** **Non-statutory, extra-constitutional executive advisory body** constituted periodically by the Government of India (Ministry of Law and Justice) for a fixed **three-year term**.
+31. **Pre-Independence History:**
+32. **First Law Commission (1834):** Established under the **Charter Act of 1833**, chaired by **Lord Macaulay** (drafted the Indian Penal Code). Subsequent pre-independence commissions were set up in 1853, 1861, and 1879.
+33. **Independent India:**
+34. **First Law Commission of Independent India (1955):** Chaired by **M.C. Setalvad** (India's first Attorney General, 1955–1958).
+35. **Function:** Review obsolete laws, advise on codification and law reform to implement DPSPs, and examine judicial reforms.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **Lokpal** | **Lokayukta** | Union, 2013 Act | State Act (UP **1975**) |
-| **CVC** | **CBI** | Statutory watchdog; **no** police power of its own | Investigating agency (DPSE); CVC **supervises** PCA cases |
-| **CIC** | **NHRC** | RTI appeals | Human-rights complaints; **not** RTI |
-| **NHRC** | **NCSC** | **Statutory** (1993) | **Constitutional** (338) |
-| **NGT** | **CAT** | Environment, 2010 Act | Service matters, **323A / 1985** |
-| **RBI** | **SEBI** | Monetary / currency / banking | Capital market |
-| **Search Committee** | **Selection Committee** | Shortlists Lokpal names | Recommends to President (2024 panel) |
-| **SAT (State AT)** | **SAT (securities)** | State service tribunal | SEBI appeals |
-| **NITI** | **FC** | Executive think-tank (2015) | Constitutional **280** |
-| **NITI** | **Planning Commission** | Advisory; no Plan-fund allocation | Extra-constitutional **1950**; allocated Plan funds |
-| **CBI** | **NIA** | DSPE 1946 + 1963 resolution; **State consent** | **Statutory 2008**; **no** consent for scheduled offences |
-| **IB** | **RAW** | Internal; **1887**; MHA | External; **1968**; Cabinet Secretariat |
-| **ED** | **CBI** | FEMA / PMLA; Finance (Revenue) | General crime / PCA; DoPT |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Lokpal panel includes RS Chairman | **No** — PM, LS Speaker, LoP LS, CJI/nominee, jurist |
+| CVC is in the Constitution | **No article** (2020) |
+| CVC = CBI | CVC **supervises**; CBI **investigates** |
+| NHRC = Art. 338 | **Statutory 1993**. 338 = NCSC |
+| CIC tenure still = CEC | **2019** left it to the Centre |
+| NGT hears Wildlife Protection Act as a scheduled Act | **Not** in the NGT Schedule (nor Indian Forest Act **1927**) |
+| CAT ousts High Courts | *L. Chandra Kumar* — **226 stays** |
+| RBI collects income tax / does census | **Notes**; census ≠ RBI |
+| MSP = RBI or NITI | **CACP** |
+| NCM = 350B | 350B = **linguistic** officer; NCM = **religious** minorities, 1992 Act |
+| NCSK / NCW = constitutional | **Statutory** |
+| NDMA chaired by Home Minister | **PM** |
+| SEBI created in 1992 from scratch | Executive **1988**, Act **1992** |
+| RBI is a constitutional body | **Statute 1934**; Entry **38** Union List |
+| Search Committee = Selection Committee (Lokpal) | Search **shortlists**; Selection **recommends**; President **appoints** |
+| CVC appoints CBI Director | Panel = **PM + LoP LS + CJI** (DPSE). CVC only supervises PCA work |
+| ₹1 note signed by RBI Governor | **GoI**; Finance Secretary |
+| NEC of NDMA chaired by HM | **Cabinet Secretary** |
+| NGT is Art. 323A | **323A = CAT**. NGT = 2010 Act |
+| Political parties are settled RTI public authorities | CIC said so (2013); **not enforced** |
+| NITI = constitutional / FC | **Resolution 2015**; FC is **280** |
+| NITI allocates Plan funds / recommends MSP | Think-tank; MSP = **CACP** |
+| CBI = statutory like CVC | **1963 resolution** + DSPE **1946** |
+| CBI under MHA | **DoPT**. IB = MHA |
+| CBI can enter any State like NIA | Needs **s.6 consent** (unless court) |
+| BHARATPOL = IB or RAW | **CBI** (2025) |
+| RAW under MHA | **Cabinet Secretariat**. IB = MHA |
+| ED = CBI wing | **Finance (Revenue)**; FEMA/PMLA |
+| NIA needs State consent | **Does not** (2008 Act) |
+| NSC = NDMA | NSC **1998** security policy; NDMA **2005** disaster |
+| First NITI VC = Rajiv Kumar | **Arvind Panagariya** |
+| Human Rights Day = 29 January | **10 December** (2025) |
+| CCI still appeals to COMPAT | **NCLAT** from **2017** |
+| WPI = RBI | **Ministry of Commerce & Industry** |
+| NDMA Chair = HM because MHA is nodal | Chair = **PM** (2021) |
+
+---
 
 
 ---

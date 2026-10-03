@@ -22,7 +22,8 @@
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Sustainable development** (Brundtland **1987**, *Our Common Future*) means meeting present needs without compromising future generations’ ability to meet theirs.
 2. Brundtland is **not** *Limits to Growth* (Club of Rome, **1972**).
@@ -57,9 +58,10 @@
 31. Polluter Pays allocates cleanup cost to the polluter; Precautionary Principle acts under scientific uncertainty — different tools.
 32. Public Trust treats certain natural resources as held for public benefit, not absolute (निरपेक्ष) private exhaustion.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -69,7 +71,8 @@
 | **Linear Economy** | **Circular Economy** | Traditional unsustainable industrial model based on "take, make, use, and dispose" vs restorative circular model based on "reduce, reuse, repair, refurbish, and recycle" | रैखिक अर्थव्यवस्था (कचरा उत्पादक) / चक्रीय अर्थव्यवस्था (शून्य अपशिष्ट) |
 | **Mission LiFE (2022)** | **Agenda 21 (1992)** | Mass global citizen movement conceptualized by India to replace mindless consumption with mindful individual sustainable lifestyle actions vs Rio 1992 comprehensive non-binding intergovernmental action plan for sustainable governance | मिशन लाइफ (LiFE, व्यक्तिगत जीवनशैली) / एजेंडा 21 (सरकारी कार्ययोजना) |
 | **Natural Capital** | **Manufactured Capital** | World's natural ecological assets including geology, soil, air, water, biodiversity, and ecosystem services vs human-created physical infrastructure, machinery, factories, and financial assets | प्राकृतिक पूंजी (पारिस्थितिक संपदा) / निर्मित पूंजी (मानव-निर्मित संपत्ति) |
----
+
+</details>
 
 ## Must-score facts — Brundtland, SDGs, NITI Index
 

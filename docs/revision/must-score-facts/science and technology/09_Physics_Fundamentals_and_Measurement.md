@@ -11,94 +11,64 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 1 — Physics Fundamentals, Measurement and Instruments</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **Four Systems of Units**: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
-2. **Seven Fundamental Quantities**: Length ($m$), Mass ($kg$), Time ($s$), Electric Current ($A$), Thermodynamic Temperature ($K$), Luminous Intensity ($cd$), Amount of Substance ($mol$).
-3. **Supplementary Units**: Plane angle (Radian, $rad = m/m$, dimensionless), Solid angle (Steradian, $sr = m^2/m^2$, dimensionless).
-4. **22 SI Derived Units with Special Names**: Radian ($rad$), Steradian ($sr$), Hertz ($Hz$), Newton ($N$), Pascal ($Pa$), Joule ($J$), Watt ($W$), Coulomb ($C$), Volt ($V$), Farad ($F$), Ohm ($\Omega$), Siemens ($S$), Weber ($Wb$), Tesla ($T$), Henry ($H$), Degree Celsius ($^\circ C$), Lumen ($lm$), Lux ($lx$), Becquerel ($Bq$), Gray ($Gy$), Sievert ($Sv$), Katal ($kat$).
-5. **Katal ($kat$)**: SI unit of catalytic activity ($1\text{ kat} = 1\text{ mol/s}$ of substrate converted).
-6. **Tesla ($T$)**: SI unit of magnetic flux density ($B$-field). $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m) = 1\text{ kg}\cdot s^{-2}\cdot A^{-1} = 10^4\text{ Gauss}$.
-7. **Magnetic Field Strength ($H$) vs Flux Density ($B$)**: Unit of $H$ is Ampere per metre ($A/m$); unit of $B$ is Tesla ($T$).
-8. **Electrical Resistivity ($\rho$)**: SI unit is **Ohm-metre** ($\Omega\cdot m$), from $R = \rho l / A \implies \rho = RA/l$.
-9. **Electrical Conductance ($G$) & Conductivity ($\sigma$)**: Conductance unit is Siemens ($S = \Omega^{-1}$ or Mho); Conductivity unit is Siemens per metre ($S/m$ or $\Omega^{-1}\cdot m^{-1}$).
-10. **Capacitance**: SI unit is Farad ($F = C/V$). (Note: Faraday is a unit of electric charge: $1\text{ Faraday} \approx 96,485\text{ C}$).
-11. **Radioactivity Units**: SI unit is **Becquerel** ($Bq = 1\text{ disintegration/s}$). Historical unit is **Curie** ($Ci = 3.7 \times 10^{10}\text{ Bq}$). Rutherford ($Rd = 10^6\text{ Bq}$).
-12. **Radiation Absorbed Dose vs Dose Equivalent**: Absorbed dose is **Gray** ($Gy = 1\text{ J/kg} = 100\text{ rad}$). Equivalent/effective biological dose is **Sievert** ($Sv = 1\text{ J/kg} = 100\text{ rem}$).
-13. **Light-Year ($ly$)**: Unit of **astronomical distance** (NOT time). Distance travelled by light in vacuum in 1 Julian year ($365.25\text{ days} \times 86,400\text{ s}$). $1\text{ ly} = 9.46073 \times 10^{15}\text{ m} \approx 9.461 \times 10^{15}\text{ m} \approx 9.46 \times 10^{12}\text{ km}$.
-14. **Why Astronomical Distances are Measured in Light-Years**: The speed of light ($c$) is constant throughout the universe in a vacuum (unaffected by gravity or motion of medium).
-15. **Astronomical Unit ($AU$)**: Average distance between center of Earth and center of Sun. $1\text{ AU} = 1.495978707 \times 10^{11}\text{ m} \approx 1.496 \times 10^{11}\text{ m} \approx 149.6\text{ million km}$.
-16. **Parsec (Parallactic Second)**: Largest practical astronomical distance unit. Distance at which average radius of Earth's orbit ($1\text{ AU}$) subtends an angle of 1 arcsecond. $1\text{ Parsec} = 3.0857 \times 10^{16}\text{ m} = 3.262\text{ light-years} = 206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$. Coined by Herbert Hall Turner (1913).
-17. **Small Distance Units**:
-18. Fermi (Femtometre, $fm$): $10^{-15}\text{ m}$ (smallest practical length unit; used for nuclear radii).
-19. Angstrom ($\text{\AA}$): $10^{-10}\text{ m} = 0.1\text{ nm} = 10^{-8}\text{ cm}$ (atomic radii, X-ray & optical wavelengths).
-20. Nanometre ($nm$): $10^{-9}\text{ m} = 10^{-7}\text{ cm} = 10\text{ \AA}$. $1\text{ metre} = 10^9\text{ nm}$.
-21. Micron (Micrometre, $\mu m$): $10^{-6}\text{ m} = 10^{-4}\text{ cm} = 10^{-3}\text{ mm} = 1/1000\text{ mm}$ (cell dimensions).
+1. **BIPM 2019 SI Redefinition (Effective May 20, 2019)**: All 7 base units are now anchored to fixed numerical values of fundamental physical constants:
+2. **New SI Prefixes (27th CGPM, Versailles, 2022)**:
+3. **Solar Constant & TSIS-1 (NASA Consensus)**: Total Solar Irradiance (TSI) received at $1\text{ AU}$ outside Earth's atmosphere is standardized at **$1361.6 \pm 0.3\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$** (measured by TSIS-1 / SORCE; varies by $\sim 0.1\%$ over the 11-year solar sunspot cycle).
+4. **MEMS Accelerometers in Modern Tech (IAS 2023 Fact)**: Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
+5. **Four Systems of Units**: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
+6. **Seven Fundamental Quantities**: Length ($m$), Mass ($kg$), Time ($s$), Electric Current ($A$), Thermodynamic Temperature ($K$), Luminous Intensity ($cd$), Amount of Substance ($mol$).
+7. **Supplementary Units**: Plane angle (Radian, $rad = m/m$, dimensionless), Solid angle (Steradian, $sr = m^2/m^2$, dimensionless).
+8. **22 SI Derived Units with Special Names**: Radian ($rad$), Steradian ($sr$), Hertz ($Hz$), Newton ($N$), Pascal ($Pa$), Joule ($J$), Watt ($W$), Coulomb ($C$), Volt ($V$), Farad ($F$), Ohm ($\Omega$), Siemens ($S$), Weber ($Wb$), Tesla ($T$), Henry ($H$), Degree Celsius ($^\circ C$), Lumen ($lm$), Lux ($lx$), Becquerel ($Bq$), Gray ($Gy$), Sievert ($Sv$), Katal ($kat$).
+9. **Katal ($kat$)**: SI unit of catalytic activity ($1\text{ kat} = 1\text{ mol/s}$ of substrate converted).
+10. **Tesla ($T$)**: SI unit of magnetic flux density ($B$-field). $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m) = 1\text{ kg}\cdot s^{-2}\cdot A^{-1} = 10^4\text{ Gauss}$.
+11. **Magnetic Field Strength ($H$) vs Flux Density ($B$)**: Unit of $H$ is Ampere per metre ($A/m$); unit of $B$ is Tesla ($T$).
+12. **Electrical Resistivity ($\rho$)**: SI unit is **Ohm-metre** ($\Omega\cdot m$), from $R = \rho l / A \implies \rho = RA/l$.
+13. **Electrical Conductance ($G$) & Conductivity ($\sigma$)**: Conductance unit is Siemens ($S = \Omega^{-1}$ or Mho); Conductivity unit is Siemens per metre ($S/m$ or $\Omega^{-1}\cdot m^{-1}$).
+14. **Capacitance**: SI unit is Farad ($F = C/V$). (Note: Faraday is a unit of electric charge: $1\text{ Faraday} \approx 96,485\text{ C}$).
+15. **Radioactivity Units**: SI unit is **Becquerel** ($Bq = 1\text{ disintegration/s}$). Historical unit is **Curie** ($Ci = 3.7 \times 10^{10}\text{ Bq}$). Rutherford ($Rd = 10^6\text{ Bq}$).
+16. **Radiation Absorbed Dose vs Dose Equivalent**: Absorbed dose is **Gray** ($Gy = 1\text{ J/kg} = 100\text{ rad}$). Equivalent/effective biological dose is **Sievert** ($Sv = 1\text{ J/kg} = 100\text{ rem}$).
+17. **Light-Year ($ly$)**: Unit of **astronomical distance** (NOT time). Distance travelled by light in vacuum in 1 Julian year ($365.25\text{ days} \times 86,400\text{ s}$). $1\text{ ly} = 9.46073 \times 10^{15}\text{ m} \approx 9.461 \times 10^{15}\text{ m} \approx 9.46 \times 10^{12}\text{ km}$.
+18. **Why Astronomical Distances are Measured in Light-Years**: The speed of light ($c$) is constant throughout the universe in a vacuum (unaffected by gravity or motion of medium).
+19. **Astronomical Unit ($AU$)**: Average distance between center of Earth and center of Sun. $1\text{ AU} = 1.495978707 \times 10^{11}\text{ m} \approx 1.496 \times 10^{11}\text{ m} \approx 149.6\text{ million km}$.
+20. **Parsec (Parallactic Second)**: Largest practical astronomical distance unit. Distance at which average radius of Earth's orbit ($1\text{ AU}$) subtends an angle of 1 arcsecond. $1\text{ Parsec} = 3.0857 \times 10^{16}\text{ m} = 3.262\text{ light-years} = 206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$. Coined by Herbert Hall Turner (1913).
+21. **Small Distance Units**:
 22. **Height of a 6-foot tall person**: $1\text{ ft} = 0.3048\text{ m} \approx 30.5 \times 10^7\text{ nm} \implies 6\text{ ft} = 6 \times 30.5 \times 10^7\text{ nm} = 183 \times 10^7\text{ nm}$.
 23. **Mass Units Conversion**: $1\text{ kg} = 10^3\text{ g}$; $1\text{ mg} = 10^{-3}\text{ g}$; $1\text{ }\mu g = 10^{-6}\text{ g}$; $1\text{ ng} = 10^{-9}\text{ g}$; $1\text{ pg (picogram)} = 10^{-12}\text{ g}$; $1\text{ fg (femtogram)} = 10^{-15}\text{ g}$.
 24. **Pressure SI Unit**: **Pascal** ($Pa$). $1\text{ Pa} = 1\text{ N/m}^2 = 1\text{ kg}\cdot m^{-1}\cdot s^{-2}$.
 25. **Atmospheric Pressure & Conversions**:
-26. $1\text{ bar} = 10^5\text{ Pa} = 10^6\text{ dyne/cm}^2 \approx 1.02\text{ kgf/cm}^2$.
-27. $1\text{ atm} = 101,325\text{ Pa} = 1.01325\text{ bar} = 760\text{ mmHg} = 760\text{ torr}$.
-28. $1\text{ torr} = 1\text{ mmHg} = 133.322\text{ Pa}$.
-29. $1\text{ psi (pound per square inch)} \approx 6894.76\text{ Pa}$.
-30. $1\text{ kgf/cm}^2 = 98,066.5\text{ Pa} \approx 0.98\text{ bar} \approx 1.0\text{ bar}$.
-31. **Strain & Mach Number are Dimensionless**: Mechanical strain ($\Delta l / l$), Mach number (object speed / sound speed), Refractive index, Relative density, and Poisson's ratio have **NO units and NO dimensions**.
-32. **Barrel of Oil**: $1\text{ barrel} = 158.9873\text{ litres} \approx 159\text{ litres} = 0.158987\text{ m}^3 = 42\text{ US gallons} = 34.9723\text{ UK gallons}$.
-33. **Horsepower ($hp$)**: $1\text{ hp} = 746\text{ Watts}$. Metric horsepower $\approx 735.5\text{ W}$.
-34. **Megawatt ($MW$)**: Unit of power generated at power stations. $1\text{ MW} = 10^6\text{ W} = 1,000\text{ kW}$.
-35. **Kilowatt-hour ($kWh$)**: Unit of **electrical energy** (NOT power). $1\text{ kWh} = 3.6 \times 10^6\text{ Joules} = 1\text{ B.O.T. unit}$.
-36. **Cusec (Cubic feet per second)**: Unit of rate of water flow in rivers/canals. $1\text{ cusec} = 1\text{ ft}^3/s = 28.317\text{ litres/second}$.
-37. **NTU (Nephelometric Turbidity Units)**: Measures water turbidity (cloudiness/opaqueness due to suspended particulate matter).
-38. **Solar Constant**: Solar radiant energy received per unit area at top of Earth's atmosphere at $1\text{ AU} \approx 1.4\text{ kW/m}^2$ ($1361\text{ W/m}^2$).
-39. **Dobson Unit ($DU$)**: Measures atmospheric column ozone thickness. $1\text{ DU} = 0.01\text{ mm}$ thickness of pure ozone compressed to STP ($0^\circ\text{C}, 1\text{ atm}$). Represents $2.687 \times 10^{20}\text{ ozone molecules/m}^2$. Normal ozone layer $\approx 300\text{ DU}$; Ozone hole $<220\text{ DU}$.
-40. **Nautical Mile & Knot**: $1\text{ Nautical Mile} = 1.852\text{ km} = 1852\text{ m}$ (distance at sea). **Knot** = speed of 1 nautical mile per hour ($1.852\text{ km/h} \approx 0.514\text{ m/s}$).
-41. **Decibel ($dB$)**: Logarithmic unit measuring sound intensity/level. Whispering $\approx 15-20\text{ dB}$, Normal speech $\approx 50-60\text{ dB}$, Traffic $\approx 80\text{ dB}$, Jet engine takeoff $\approx 130-140\text{ dB}$ (pain threshold).
-42. **Computer Processor Speed**: Measured in **Hertz ($Hz$) / Gigahertz ($GHz$)**, indicating CPU clock speed ($1\text{ GHz} = 10^9\text{ cycles/second}$). Byte/bit measure memory/data storage, NOT processor speed.
-43. **Pyrometer (Total Radiation Pyrometer)**: Remote-sensing thermometer for extremely high temperatures ($>1500^\circ C$ to $2000^\circ C$ and beyond, e.g., Sun, furnaces, molten metal). Works on **Stefan-Boltzmann Law** ($E \propto T^4$). Does not require physical contact.
-44. **Pyrheliometer vs Pyranometer**: Pyrheliometer measures **direct beam solar irradiance** at normal incidence; Pyranometer measures **global (direct + diffuse) solar radiation** on a planar surface.
-45. **Anemometer vs Wind Vane**: Anemometer measures wind **speed / velocity and force**; Wind Vane indicates wind **direction**.
-46. **Barometer**: Measures atmospheric pressure. Simple barometer uses **mercury** ($Hg$). A sudden steep drop in mercury level indicates an approaching **storm / thunderstorm**; gradual fall indicates rain; gradual rise indicates fair/dry weather.
-47. **Hygrometer vs Hydrometer**: **Hygrometer** (or Psychrometer) measures **relative humidity** of the air. **Hydrometer** measures **relative density / specific gravity of liquids**.
-48. **Lactometer vs Butyrometer**: **Lactometer** checks milk purity by measuring **milk density**; **Butyrometer** measures **fat content** in milk and dairy products.
-49. **SONAR (Sound Navigation and Ranging)**: Uses **ultrasonic waves** ($>20\text{ kHz}$) to detect, locate, and measure depth/distance of submerged submarines, icebergs, shipwrecks, and sea beds.
-50. **Fathometer**: Measures **depth of the ocean/sea** using ultrasonic echo soundings ($1\text{ fathom} = 6\text{ feet} = 1.8288\text{ m}$).
-51. **RADAR (Radio Detection and Ranging)**: Uses **radio waves / microwaves** to determine range, elevation, angle, and velocity of aircraft, ships, spacecraft, and weather formations.
-52. **Polygraph**: Lie detector instrument; simultaneously records physiological parameters: arterial blood pressure, pulse rate, respiration rate, and galvanic skin resistance (electrodermal activity).
-53. **EEG (Electroencephalogram)**: Records **electrical activity of the brain** via scalp electrodes. (Compare: ECG for heart, EMG for muscles, EOG for eyes).
-54. **Ringelmann Scale**: Chart of graduated grid lines used to measure the **apparent density and opacity of smoke** in air pollution monitoring.
-55. **Theodolite vs Tacheometer**: **Theodolite** measures precise horizontal (azimuth) and vertical (elevation) angles. **Tacheometer** is a rapid surveying theodolite that optically/electronically determines distance and height.
-56. **Bolometer**: Measures the power of incident electromagnetic radiation via resistance change of a heated sensing element.
-57. **Crescograph**: Invented by Sir **Jagadish Chandra Bose** in early 20th century to measure and record infinitesimal **growth in plants**.
-58. **Kymograph**: Rotating cylindrical drum recording physiological changes such as muscle contraction, blood pressure variations, and vascular response.
-59. **Lysimeter**: Measures **actual evapotranspiration** (combined evaporation from soil + transpiration from crops).
+26. **Strain & Mach Number are Dimensionless**: Mechanical strain ($\Delta l / l$), Mach number (object speed / sound speed), Refractive index, Relative density, and Poisson's ratio have **NO units and NO dimensions**.
+27. **Barrel of Oil**: $1\text{ barrel} = 158.9873\text{ litres} \approx 159\text{ litres} = 0.158987\text{ m}^3 = 42\text{ US gallons} = 34.9723\text{ UK gallons}$.
+28. **Horsepower ($hp$)**: $1\text{ hp} = 746\text{ Watts}$. Metric horsepower $\approx 735.5\text{ W}$.
+29. **Megawatt ($MW$)**: Unit of power generated at power stations. $1\text{ MW} = 10^6\text{ W} = 1,000\text{ kW}$.
+30. **Kilowatt-hour ($kWh$)**: Unit of **electrical energy** (NOT power). $1\text{ kWh} = 3.6 \times 10^6\text{ Joules} = 1\text{ B.O.T. unit}$.
+31. **Cusec (Cubic feet per second)**: Unit of rate of water flow in rivers/canals. $1\text{ cusec} = 1\text{ ft}^3/s = 28.317\text{ litres/second}$.
+32. **NTU (Nephelometric Turbidity Units)**: Measures water turbidity (cloudiness/opaqueness due to suspended particulate matter).
+33. **Solar Constant**: Solar radiant energy received per unit area at top of Earth's atmosphere at $1\text{ AU} \approx 1.4\text{ kW/m}^2$ ($1361\text{ W/m}^2$).
+34. **Dobson Unit ($DU$)**: Measures atmospheric column ozone thickness. $1\text{ DU} = 0.01\text{ mm}$ thickness of pure ozone compressed to STP ($0^\circ\text{C}, 1\text{ atm}$). Represents $2.687 \times 10^{20}\text{ ozone molecules/m}^2$. Normal ozone layer $\approx 300\text{ DU}$; Ozone hole $<220\text{ DU}$.
+35. **Nautical Mile & Knot**: $1\text{ Nautical Mile} = 1.852\text{ km} = 1852\text{ m}$ (distance at sea). **Knot** = speed of 1 nautical mile per hour ($1.852\text{ km/h} \approx 0.514\text{ m/s}$).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Quantities / Instruments | Key Distinction & Trap Alert |
-|---|---|
-| **Curie vs Becquerel** | **Becquerel ($Bq$)** is the official SI unit ($1\text{ decay/s}$). **Curie ($Ci$)** is a traditional/non-SI unit ($1\text{ Ci} = 3.7 \times 10^{10}\text{ Bq}$). |
-| **Tesla vs Weber** | **Tesla ($T$)** is magnetic flux *density* ($Wb/m^2 = N/(A\cdot m)$). **Weber ($Wb$)** is total magnetic *flux* ($T\cdot m^2 = V\cdot s$). |
-| **Ohm vs Ohm-metre** | **Ohm ($\Omega$)** is electrical *resistance* ($R$). **Ohm-metre ($\Omega\cdot m$)** is specific electrical *resistivity* ($\rho$). |
-| **Farad vs Faraday** | **Farad ($F$)** is capacitance ($C/V$). **Faraday** is quantity of electric charge ($1\text{ Faraday} \approx 96,485\text{ Coulombs}$). |
-| **Gray vs Sievert** | **Gray ($Gy$)** measures physical *absorbed radiation dose* ($J/kg$). **Sievert ($Sv$)** measures biological *equivalent/effective dose* ($J/kg$). |
-| **Hydrometer vs Hygrometer** | **Hydrometer** measures *specific gravity/relative density of liquids*. **Hygrometer** measures atmospheric *relative humidity*. |
-| **Lactometer vs Butyrometer** | **Lactometer** measures *density* of milk to check adulteration with water. **Butyrometer** measures *fat percentage* in milk products. |
-| **Pyrometer vs Pyrheliometer** | **Pyrometer** measures *extreme high temperatures* of surfaces/furnaces/stars. **Pyrheliometer** measures *direct beam solar radiation*. |
-| **Anemometer vs Wind Vane** | **Anemometer** measures wind *speed/velocity and force*. **Wind Vane** indicates wind *direction*. |
-| **Barometer vs Manometer** | **Barometer** measures *atmospheric pressure*. **Manometer** measures *pressure of fluids/gases* in closed systems. |
-| **Ammeter vs Galvanometer** | **Ammeter** measures quantitative *magnitude of electric current*. **Galvanometer** detects *presence and direction* of minute currents. |
-| **Odometer vs Speedometer vs Tachometer** | **Odometer** records total *distance travelled* by vehicle. **Speedometer** displays instantaneous *linear speed*. **Tachometer** measures shaft *rotational speed (RPM)*. |
-| **Fathometer vs Sextant** | **Fathometer** measures *ocean depth* using acoustics. **Sextant** measures *angular altitude* of celestial bodies above the horizon. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& Negative-Marking Eliminators
+1. **Light-Year Trap**: Do NOT mark light-year as a unit of time. It is astronomical distance ($9.461 \times 10^{15}\text{ m}$).
+2. **Curie vs Becquerel Trap**: If a question asks for the **SI unit** of radioactivity, the answer is **Becquerel (Bq)**. Marking Curie will incur negative marks!
+3. **Barometer Sudden Drop**: A sudden steep drop means **storm / cyclone**. A gradual slow decline indicates rain. A gradual rise indicates dry, fair weather.
+4. **Hydrometer vs Hygrometer Trap**:
+   - **Hydro-** = water/liquid density (relative density of liquids).
+   - **Hygro-** = moisture/vapor in air (relative humidity).
+5. **Tesla vs Weber**: Tesla is magnetic flux *density* ($B$). Weber is magnetic *flux* ($\Phi$).
+6. **Ammeter Connection Trap**: An ammeter is connected in **series** and has ideally **zero** internal resistance. A voltmeter is connected in **parallel** and has ideally **infinite** resistance.
+7. **Computer Processor Clock Speed**: Measured in **Hertz ($Hz$) / Gigahertz ($GHz$)**, NOT bytes or bits (which measure memory/storage capacity).
+8. **Kilowatt-Hour Trap**: $kWh$ is a commercial unit of **energy** ($1\text{ kWh} = 3.6 \times 10^6\text{ J}$), NOT electrical power.
+9. **Strain is Unitless**: Mechanical strain is $\frac{\Delta l}{l}$ (dimensionless, no unit).
+10. **1 Parsec Value**: $1\text{ pc} = 3.262\text{ ly} = 206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU} = 3.0857 \times 10^{16}\text{ m}$.
+
+---
 
 
 ---
@@ -167,9 +137,11 @@ hide:
 49. **Kymograph**: Rotating cylindrical drum recording physiological changes such as muscle contraction, blood pressure variations, and vascular response.
 50. **Lysimeter**: Measures **actual evapotranspiration** (combined evaporation from soil + transpiration from crops).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+
 | Quantities / Instruments | Key Distinction & Trap Alert |
 |---|---|
 | **Curie vs Becquerel** | **Becquerel ($Bq$)** is the official SI unit ($1\text{ decay/s}$). **Curie ($Ci$)** is a traditional/non-SI unit ($1\text{ Ci} = 3.7 \times 10^{10}\text{ Bq}$). |
@@ -186,7 +158,7 @@ hide:
 | **Odometer vs Speedometer vs Tachometer** | **Odometer** records total *distance travelled* by vehicle. **Speedometer** displays instantaneous *linear speed*. **Tachometer** measures shaft *rotational speed (RPM)*. |
 | **Fathometer vs Sextant** | **Fathometer** measures *ocean depth* using acoustics. **Sextant** measures *angular altitude* of celestial bodies above the horizon. |
 
----
+</details>
 
 ## Must-Score Drill — SI Units, Constants & Scientific Instruments
 
@@ -554,10 +526,86 @@ The distance at which the average radius of Earth's orbit subtends an angle of 1
 
 Which of the following is correct regarding this topic?
 
-A. Four Systems of Units: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
+A. BIPM 2019 SI Redefinition (Effective May 20, 2019): All 7 base units are now anchored to fixed numerical values of fundamental physical constants:
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **BIPM 2019 SI Redefinition (Effective May 20, 2019)**: All 7 base units are now anchored to fixed numerical values of fundamental physical constants:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q7.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, New applies only to union territories and not state jurisdictions.
+B. New SI Prefixes (27th CGPM, Versailles, 2022):
+C. None of the above statements are correct according to official Commission keys.
+D. Recognized by UNESCO under World Heritage natural criteria
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **New SI Prefixes (27th CGPM, Versailles, 2022)**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q8.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Solar applies only to union territories and not state jurisdictions.
+B. Recognized by UNESCO under World Heritage natural criteria
+C. Solar Constant & TSIS-1 (NASA Consensus): Total Solar Irradiance (TSI) received at $1\text{ AU}$ outside Earth's atmosphere is standardized at $1361.6 \pm 0.3\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$ (measured by TSIS-1 / SORCE; varies by $\sim 0.1\%$ over the 11-year solar sunspot cycle).
+D. Enacted under Article 356 of the Constitution of India
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Solar Constant & TSIS-1 (NASA Consensus)**: Total Solar Irradiance (TSI) received at $1\text{ AU}$ outside Earth's atmosphere is standardized at **$1361.6 \pm 0.3\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$** (measured by TSIS-1 / SORCE; varies by $\sim 0.1\%$ over the 11-year solar sunspot cycle).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q9.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, MEMS applies only to union territories and not state jurisdictions.
+B. Enacted under Article 356 of the Constitution of India
+C. None of the above statements are correct according to official Commission keys.
+D. MEMS Accelerometers in Modern Tech (IAS 2023 Fact): Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **MEMS Accelerometers in Modern Tech (IAS 2023 Fact)**: Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q10.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Four Systems of Units: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
+B. Reported by the Law Commission in its 214th consultation paper
+C. None of the above statements are correct according to official Commission keys.
+D. Amended by the 44th Constitutional Amendment Act
 
 <details>
 <summary>Show answer</summary>
@@ -569,14 +617,14 @@ D. It was established during the First Five-Year Plan period
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
+**Q11.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Seven applies only to union territories and not state jurisdictions.
 B. Seven Fundamental Quantities: Length ($m$), Mass ($kg$), Time ($s$), Electric Current ($A$), Thermodynamic Temperature ($K$), Luminous Intensity ($cd$), Amount of Substance ($mol$).
 C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+D. Excavated primarily in the Belan and Son River valleys
 
 <details>
 <summary>Show answer</summary>
@@ -588,14 +636,14 @@ D. Recognized by UNESCO under World Heritage natural criteria
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q8.** in Science & Technology, consider the following statement:
+**Q12.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Supplementary applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
+B. Excavated primarily in the Belan and Son River valleys
 C. Supplementary Units: Plane angle (Radian, $rad = m/m$, dimensionless), Solid angle (Steradian, $sr = m^2/m^2$, dimensionless).
-D. Enacted under Article 356 of the Constitution of India
+D. Classified under Schedule VII List II (State List)
 
 <details>
 <summary>Show answer</summary>
@@ -607,12 +655,12 @@ D. Enacted under Article 356 of the Constitution of India
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q9.** in Science & Technology, consider the following statement:
+**Q13.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, 22 applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
+B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
 D. 22 SI Derived Units with Special Names: Radian ($rad$), Steradian ($sr$), Hertz ($Hz$), Newton ($N$), Pascal ($Pa$), Joule ($J$), Watt ($W$), Coulomb ($C$), Volt ($V$), Farad ($F$), Ohm ($\Omega$), Siemens ($S$), Weber ($Wb$), Tesla ($T$), Henry ($H$), Degree Celsius ($^\circ C$), Lumen ($lm$), Lux ($lx$), Becquerel ($Bq$), Gray ($Gy$), Sievert ($Sv$), Katal ($kat$).
 
@@ -626,14 +674,14 @@ D. 22 SI Derived Units with Special Names: Radian ($rad$), Steradian ($sr$), Her
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q10.** in Science & Technology, consider the following statement:
+**Q14.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Katal ($kat$): SI unit of catalytic activity ($1\text{ kat} = 1\text{ mol/s}$ of substrate converted).
-B. Reported by the Law Commission in its 214th consultation paper
+B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
+D. Statement I is correct but Statement II is incorrect
 
 <details>
 <summary>Show answer</summary>
@@ -645,88 +693,12 @@ D. Amended by the 44th Constitutional Amendment Act
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q11.** in Science & Technology, consider the following statement:
+**Q15.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Tesla applies only to union territories and not state jurisdictions.
 B. Tesla ($T$): SI unit of magnetic flux density ($B$-field). $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m) = 1\text{ kg}\cdot s^{-2}\cdot A^{-1} = 10^4\text{ Gauss}$.
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Tesla ($T$)**: SI unit of magnetic flux density ($B$-field). $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m) = 1\text{ kg}\cdot s^{-2}\cdot A^{-1} = 10^4\text{ Gauss}$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q12.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Magnetic applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Magnetic Field Strength ($H$) vs Flux Density ($B$): Unit of $H$ is Ampere per metre ($A/m$); unit of $B$ is Tesla ($T$).
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Magnetic Field Strength ($H$) vs Flux Density ($B$)**: Unit of $H$ is Ampere per metre ($A/m$); unit of $B$ is Tesla ($T$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q13.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Electrical applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Electrical Resistivity ($\rho$): SI unit is Ohm-metre ($\Omega\cdot m$), from $R = \rho l / A \implies \rho = RA/l$.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Electrical Resistivity ($\rho$)**: SI unit is **Ohm-metre** ($\Omega\cdot m$), from $R = \rho l / A \implies \rho = RA/l$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q14.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Electrical Conductance ($G$) & Conductivity ($\sigma$): Conductance unit is Siemens ($S = \Omega^{-1}$ or Mho); Conductivity unit is Siemens per metre ($S/m$ or $\Omega^{-1}\cdot m^{-1}$).
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Electrical Conductance ($G$) & Conductivity ($\sigma$)**: Conductance unit is Siemens ($S = \Omega^{-1}$ or Mho); Conductivity unit is Siemens per metre ($S/m$ or $\Omega^{-1}\cdot m^{-1}$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q15.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Capacitance: applies only to union territories and not state jurisdictions.
-B. Capacitance: SI unit is Farad ($F = C/V$). (Note: Faraday is a unit of electric charge: $1\text{ Faraday} \approx 96,485\text{ C}$).
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -736,6 +708,6 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Capacitance**: SI unit is Farad ($F = C/V$). (Note: Faraday is a unit of electric charge: $1\text{ Faraday} \approx 96,485\text{ C}$).
+- **Key Exam Association:** **Tesla ($T$)**: SI unit of magnetic flux density ($B$-field). $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m) = 1\text{ kg}\cdot s^{-2}\cdot A^{-1} = 10^4\text{ Gauss}$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

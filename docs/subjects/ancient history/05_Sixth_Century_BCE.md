@@ -15,7 +15,8 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The sixth–fourth centuries BCE bring **iron**, **NBPW**, punch-marked silver (**Aahat**), and the **second urbanisation**. This is still **before** the Mauryan empire.
 2. Sources for the sixteen mahajanapadas include the Buddhist **Anguttara Nikaya** and the Jain **Bhagavati Sutra** (different name-set). **Panini’s Ashtadhyayi** names about **22** janapadas and stresses **Magadha, Asmaka, and Kamboja**.
@@ -52,9 +53,10 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 33. Magadha’s geographic advantages are **iron**, **elephants**, **Ganga–Son** river trade, and aggressive conquest from **Anga** toward **Vajji** and finally **Avanti**.
 34. Canonical Buddhist sixteen are fixed furniture; Jain **Bhagavati** uses a different name-set. Capitals and UP/non-UP sorting decide most stems.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -78,7 +80,7 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 | Buddha-age ganas | Yaudheya | Shakya / Licchavi / Malla list vs later plains **gana** (not “earlier republic” stem) | गण / यौधेय |
 | Avantika | Taxila | Ancient name / pole of **Ujjain** vs **Gandhara** university town | अवन्तिका / तक्षशिला |
 
----
+</details>
 
 ## Must-score facts — capitals, UP list, Magadha order
 

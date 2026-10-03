@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 6 — Socio-Religious Reform Movements</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -32,11 +30,7 @@ hide:
 | Wahabi movement | Ahmadiyya movement | Sayyid Ahmad of Rae Bareli’s militant revivalist stream vs Mirza Ghulam Ahmad’s peaceful messianic stream | वहाबी / अहमदिया |
 | Aligarh | Sir Syed Ahmad Khan | The institution (MAO College, 1875) vs its founder-reformer; always paired, never separated in a match | अलीगढ़ / सर सैयद |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Founder ↔ institution ↔ year (consolidated)
 
@@ -243,7 +237,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Raja Ram Mohan Roy founded Atmiya Sabha (1815) and Brahmo Sabha / Brahmo Samaj (1828). He campaigned against Sati; Bentinck (बेंटिंक) banned Sati in 1829.
 - **Exam Anchor:** Ishwar Chandra Vidyasagar pushed the Widow Remarriage Act, 1856 and served as Principal of Sanskrit College, Calcutta. Do not swap him with D.K. Karve’s western-India work.
@@ -253,8 +247,6 @@ hide:
 - **Exam Anchor:** Arya Samaj (आर्य समाज) was founded by Dayanand Saraswati at Bombay in 1875 on the slogan “Back to the Vedas.” It is not Brahmo Samaj.
 - **Exam Anchor:** Prarthana Samaj rose in Bombay in 1867 under Atmaram Pandurang / M.G. Ranade. Paramahansa Mandali (1849, Dadoba Pandurang) was its secret precursor against caste and idolatry.
 - **Exam Anchor:** Ramakrishna Mission (रामकृष्ण मिशन) was founded by Vivekananda in 1897. Vivekananda’s Chicago address was in 1893. Ramakrishna himself was the saint of Dakshineswar, not the Mission’s founder.
-
-</details>
 
 ---
 

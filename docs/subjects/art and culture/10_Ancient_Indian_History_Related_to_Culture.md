@@ -23,7 +23,8 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 ---
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Ancient Indian cultural span runs from **Bhimbetka** (भीमबेटका) rock art through **Indus Valley** cities (about **2600–1900 BCE**), then **Maurya** (मौर्य), **Shunga–Kushan**, and **Gupta** (गुप्त) (4th–6th century CE).
 2. Hallmark artistic achievements of the Indus Valley Civilisation include carved **steatite seals**, figurines of the **terracotta Mother Goddess**, meticulously planned baked-brick cities, and the iconic **Dancing Girl** bronze sculpture cast using the **lost-wax** (*cire perdue* (सिर पर्ड्यू)) technique.
@@ -52,9 +53,10 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 25. Punch-marked coins are irregular silver or copper pieces. Gupta **dinara** are die-struck **gold**. Do not call every ancient coin a dinara.
 26. The inscription of **Sarnath** on the UNESCO World Heritage list (**2026**) affirms the global significance of its Dhamek Stupa, Ashokan Lion Capital, and classical Gupta sculpture school.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -68,8 +70,7 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 | Terracotta | Bronze | Mother goddess / plough models vs **Dancing Girl** lost-wax | पकी मिट्टी / कांस्य |
 | Sreni | Nanadesi | General craft guild vs itinerant “many-country” merchants | श्रेणी / नानादेशी |
 
----
-
+</details>
 
 ## Must-score facts — Indus, schools, UP sites
 

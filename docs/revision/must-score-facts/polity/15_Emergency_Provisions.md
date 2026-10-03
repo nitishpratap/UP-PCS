@@ -11,57 +11,66 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 15 — Emergency Provisions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Emergency Provisions sit in **Part XVIII** (**Articles 352–360**). There are three proclamations: **National Emergency (352)**, **President’s Rule (356)**, and **Financial Emergency (360)**.
-2. National Emergency under **352** may be proclaimed for **war**, **external aggression**, or **armed rebellion**. The **44th Amendment** replaced the old phrase **“internal disturbance”** with **armed rebellion**.
-3. A 352 proclamation needs **written advice of the Union Cabinet**, not the Prime Minister alone — a direct lesson from **1975**. Parliamentary approval must come within **one month** by **special majority** in both Houses (majority of total membership (सदन की कुल सदस्य संख्या का) plus two-thirds (ते-भागा) of those present and voting (गणपूर्ति)).
-4. Once approved, a National Emergency continues for **six months** at a time with fresh approvals. The Lok Sabha (लोकसभा) can force revocation by passing a disapproval resolution. One-tenth of Lok Sabha members can compel a sitting (बैठक) within **fourteen days**.
-5. National Emergency has been used in **1962** (China), **1971** (Pakistan), and **1975–77** (the Internal Emergency, **25 June 1975 to 21 March 1977**).
-6. Under **Article 358**, **Article 19** automatically suspends only when the Emergency is on grounds of **war or external aggression** — **not** for armed rebellion alone. Under **359**, the President may suspend enforcement of named Fundamental Rights, but **Articles 20 and 21** can **never** be suspended (44th Amendment; contrast *ADM Jabalpur*).
-7. After the 44th Amendment, laws or executive action during Emergency need a real **emergency nexus** (**358(2) / 359**). Blanket misuse without nexus is not protected.
+1. **2024:** 352 Assertion–Reason; Financial Emergency matched to **360** (direct PYQ).
+2. **1978:44th Amendment** rewrite — every 352 / 358 / 359 question.
+3. **1994:** *Bommai* — 356 is justiciable.
+4. **1975–77:** Internal Emergency — why the 44th exists.
+5. **Never:** Art. **360** (“Which has never been used?”).
+6. **1977–78:** Shah Commission on 1975 excesses.
+7. **1992:** UP President’s Rule after Babri (Leading state).
 8. **President’s Rule** uses **Article 356** (अनुच्छेद 356), linked to the Union’s duty under **355** and the directions-gateway under **365**. Parliamentary approval is needed within **two months** by **simple majority** in both Houses.
-9. President’s Rule runs in **six-month** slices. Beyond **one year**, continuation needs a National Emergency in force in India or that State **and** an Election Commission (निर्वाचन आयोग) certificate that elections cannot be held. Maximum is normally **three years**.
-10. *S.R. Bommai* (**1994**) made 356 justiciable, insisted on majority on the **floor of the House**, and warned against dissolving the Assembly before Parliament approves the proclamation. The President **cannot** assume High Court powers under 356.
-11. The first use of President’s Rule was in **Punjab in 1951**. Mass misuse is especially remembered around **1977** and **1980**.
-12. **Financial Emergency (360)** is for a threat to India’s financial stability or credit. It has **never been used**. Approval window is **two months** by simple majority; it then continues until revoked — there is **no** six-month renewal clock like 352/356.
-13. During a Financial Emergency the Centre may give directions on financial propriety, reduce salaries even of judges, and require State money bills to be reserved.
-14. **Martial law** is military control in a locality, with indemnity possible under **Article 34**. It is **not** a substitute for National Emergency. Under 352 the civilian Constitution continues with emergency overlays.
-15. While a National Emergency is on, **Article 250** lets Parliament legislate on the **State List** (राज्य सूची). Under **353** the Union may direct States on almost any matter — a strong unitary tilt. **354** lets the President modify Centre–State revenue sharing during 352.
-16. State Assembly life can be extended by **one year at a time** during a National Emergency (**Article 172**), subject to the usual outer limits after Emergency ends.
-17. Election petitions and the **Article 329** bar continue to matter even in Emergency contexts — Emergency does not invent a free-for-all over electoral disputes.
-18. Special majority for **352** approval is harder than the **simple majority** used for **356** and **360**. Approval time is **one month** for 352 and **two months** for 356/360.
-19. Textbook labels “National Emergency” and “State Emergency” map to **352** and **356**; the Constitution itself does not use the phrase “State Emergency.”
-20. External Emergencies (1962, 1971) rest on war or external aggression. The 1975 proclamation was still under the older **internal disturbance** language before the 44th rewrite.
-21. **Article 355** is the Union’s **duty** to protect States against external aggression and internal disturbance and to ensure that State government runs with the Constitution. **356** is the **proclamation** that takes over when that machinery fails.
-22. During 356 the President (through the Governor) can assume State executive powers and Parliament/State law roles as provided, but judicial independence of the High Court is ring-fenced — no takeover of **High Court** powers.
-23. Financial Emergency directions can reach salary cuts for government servants and judges and can force reservation of money bills — facts that do not appear under ordinary 356 politics.
-24. The Emergency FR map is simple if memorised as a triangle: **358** auto-hits **19** (war/external only); **359** can suspend enforcement of other named rights by order; **20 and 21** stay awake.
-25. Cabinet written advice, armed rebellion wording, unsuspendable 20/21, and emergency nexus are the four (चातुर्याम) **44th Amendment** knives every prelims answer should recall together.
-26. Punchhi (पुंछी आयोग) later suggested **localising** 356 rather than dismissing a whole State government for a local breakdown — useful for mains, while *Bommai* remains the judicial fact for prelims.
+9. **Financial Emergency (360)** is for a threat to India’s financial stability or credit. It has **never been used**. Approval window is **two months** by simple majority; it then continues until revoked — there is **no** six-month renewal clock like 352/356.
+10. **Martial law** is military control in a locality, with indemnity possible under **Article 34**. It is **not** a substitute for National Emergency. Under 352 the civilian Constitution continues with emergency overlays.
+11. **Article 355** is the Union’s **duty** to protect States against external aggression and internal disturbance and to ensure that State government runs with the Constitution. **356** is the **proclamation** that takes over when that machinery fails.
+12. **Art. 353:** The Union may give **directions** to States on any matter, and Parliament may make laws as if the matter were on the **Union List** (संघ सूची).
+13. **353 proviso (44th):** If 352 is confined to a **part** of India, directions or laws for **other** States are allowed only as required for that Emergency.
+14. **Art. 354:** The President may modify **revenue distribution** (Arts. 268–279) while 352 is on; the order is laid in Parliament.
+15. **Art. 250:** Parliament’s **State-List** power for the emergency area; the law dies **six months** after 352 ends.
+16. **Art. 251:** If a Union law under 249/250 clashes with a State law, the **Union law prevails** for the clash.
+17. **1962** was the China war — an external Emergency.
+18. **1971** was the Pakistan war — an external Emergency; it overlapped with 1975 for a time.
+19. **1975–77** was proclaimed on “internal disturbance” and ran from **25 June 1975 to 21 March 1977** (about 21 months).
+20. **MISA** (Maintenance of Internal Security Act) was the detention statute of the 1975 Emergency — name it; do not turn this into a police manual.
+21. **Art. 355** is the Union’s duty: protect every State against external aggression and internal disturbance, **and** ensure government is carried on as the Constitution provides.
+22. **Art. 365** is the gateway: if a State **fails to comply** with Union directions, the President **may** hold that 356 is attracted.
+23. **Sarkaria** (सरकारिया आयोग) said: keep 356, use it as a **last resort**, insist on a floor test, and put **material facts** in the proclamation.
+24. **Punchhi** said: **localise** 356 (district, not whole State) where possible, and use **355** first.
+25. **Rajamannar** said: **repeal** 356.
+26. **Secularism** is a basic feature; anti-secular State action can justify 356.
+27. **All** State Money Bills and other financial Bills are **reserved** for the President.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **352** | **356** | National / security | State constitutional machinery |
-| **352** | **360** | War / aggression / rebellion | Financial stability / credit |
-| **358** | **359** | Art. **19** auto (war/external only) | Other FRs by **order**; not **20 & 21** |
-| **Special majority (352)** | **Simple (356/360)** | Total membership + 2/3 P&V, both Houses | Ordinary majority, both Houses |
-| **1 month (352)** | **2 months (356/360)** | Time to get parliamentary approval | |
-| **Martial law** | **National Emergency** | Military, local, Art. **34** | Constitutional, civilian, **352** |
-| **355** | **356** | Union **duty** to protect States | The **proclamation** that takes over |
-| **National Emergency** | **State Emergency** | Textbook name for **352** | Textbook name for **356** (the Constitution never uses that phrase) |
-| **External 352** | **Internal 352** | War / external aggression (1962, 1971) | Armed rebellion (1975 was still “internal disturbance”) |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+**Wrong stem → correct fact.**
+
+- “356 establishes the Supreme Court” → **Art. 124**. Article 356 is President’s Rule.
+- “352 grounds are still ‘internal disturbance’” → **armed rebellion** (44th Amendment).
+- “352 can rest on the PM’s oral okay” → needs **written Cabinet** advice (44th).
+- “358 applies in an armed-rebellion Emergency” → 358 applies **only** in war / external aggression.
+- “359 can suspend Article 21” → **never** Arts. 20 and 21 (44th).
+- “356 approval needs special majority” → **simple** majority; special majority is for **352**.
+- “352 approval window is 2 months” → **1 month** (44th).
+- “360 was used in 1991 / 1997” → **never** used.
+- “Martial law = Art. 352” → Art. **34** indemnity; there is no martial-law proclamation article.
+- “356 dissolves the Assembly on day one” → *Bommai*: wait for **parliamentary** approval.
+- “Financial Emergency suspends FRs” → **No**.
+- “Lok Sabha life extends automatically for 5 more years” → **1 year** at a time, and not beyond **6 months** after 352 ends.
+- “Rajya Sabha can force revocation of 352” → only a **Lok Sabha** disapproval can force revoke.
+- “Residual powers = Australia” → residuary = **Canada**. Emergency FR-suspension idea = **Germany** (2021).
+- “352 always needed special majority” → original approval was **simple**; the **44th** made it special.
+- “President may take over a High Court under 356” → the President **expressly cannot**.
+- “358 covers every 352, including armed rebellion” → **only** war / external aggression.
+- “353 directions only on the Union List” → directions may cover **any** matter; proviso applies if 352 is territorial.
+- “Martial law = Art. 33” → **33** = armed-forces FR restriction; martial indemnity = **34**.
+- “360 suspends FRs / needs 6-month renewal” → **no** FR switch; it runs till revoked.
+- “Only the Lok Sabha (not State Assemblies) can be extended in 352” → **Art. 172** too — one year at a time.
+
+---
 
 
 ---

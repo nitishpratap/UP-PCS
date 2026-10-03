@@ -11,61 +11,69 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 22 — Renewable Energy (नवीकरणीय ऊर्जा)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Renewable** energy replenishes on a human timescale — sun, wind, water, biomass, geothermal. **Nuclear** is low-carbon but usually **not** counted as renewable MCQs.
 2. **Solar PV** turns sunlight directly into electricity. **CSP** (सीएसपी) uses mirrors to make heat, then steam and turbines.
-3. The **National Solar Mission** began in **2010** under NAPCC (JNNSM from Jan 2010). India chased about **100 GW** solar by 2022 and **500 GW** non-fossil capacity by **2030**.
-4. Solar has the **greatest RE potential** in India among common options and is the most eco-friendly among solar cell vs fossils/nuclear fission options.
-5. **Bhadla** in Rajasthan is India’s mega solar-park fact (not Gujarat as “largest”). **PM-KUSUM** supports farmer solar pumps. **OSOWOG** is One Sun One World One Grid.
-6. **Domestic Content Requirement (DCR)** in solar news means mandating domestically manufactured PV cells/modules.
-7. The **International Solar Alliance** began in **2015** (India–France, COP21). Headquarters is **Gurugram**. Not all UN members — originally sun-belt countries between Tropics. First Summit **New Delhi, March 2018**. Members target mobilising about **USD 1 trillion** for solar by **2030**.
-8. **Cochin International Airport** = world’s first fully solar-powered airport. **Diu** = first Indian UT / smart city running **100% solar** (daytime / UT stems). **Surat** = first district with **100% solar-powered PHCs**.
-9. Wind power converts kinetic energy of air; power scales roughly with the **cube** of wind speed. Leading states include **Tamil Nadu (नाडु), Gujarat, and Karnataka**.
-10. **Biomass** is energy from organic matter. **Biogas** (बायोगैस) from anaerobic digestion is mainly **methane (CH₄) and carbon dioxide (CO₂) (कार्बन डाइऑक्साइड)** — not a butane/carbon-monoxide pair.
-11. Bagasse cogeneration, **GOBAR-Dhan**, and **SATAT** (bio-CNG) are biomass-policy neighbours.
-12. **Geothermal** uses Earth’s internal heat. Indian provinces include **Himalaya (हिमालय), Cambay, West Coast, SONATA (Son–Narmada (नर्मदा)–Tapi (तापी)), Godavari (गोदावरी), Mahanadi (महानदी)** — **not Ganga (गंगा) Delta (डेल्टा)**. Sites: **Puga, Manikaran, Tattapani**.
-13. **Tidal** energy comes from Moon-driven sea-level change. India’s best potential is often locked to the **Gulf of Khambhat**, then Gulf of Kutch.
-14. **Small hydro** under MNRE is **≤25 MW**. Above that is treated as large hydro. Himalayan streams hold large SHP potential.
-15. The **Ramganga (रामगंगा) Project** in Garhwal (गढ़वाल), Uttarakhand (उत्तराखंड), is about **198 MW** — a hydro fact that also matters for irrigation links toward UP.
-16. **Green hydrogen** is H₂ from water electrolysis powered by **renewable** electricity. Grey hydrogen comes from natural gas; blue adds CCS (सुरक्षा कैबिनेट समिति) to gas routes.
-17. The **National Green Hydrogen Mission** (January **2023**) targets about **5 MMT** per year by **2030**. National Hydrogen Energy Board dates to **3 Oct 2003**.
-18. Hydrogen can power **IC engines**, be **blended with natural gas**, and run **fuel-cell vehicles** — all three are correct in recent stems.
-19. Fuel cells with pure H₂ emit **heat and water**; they produce **DC**; they can power buildings and portable devices.
-20. Solar ≠ wind ≠ tidal ≠ geothermal. Source and physics differ even when all are “clean.”
-21. ISA HQ is Gurugram, not Paris and not New Delhi as a casual guess.
-22. Biogas major pair is CH₄ + CO₂. Wrong gas pairs are frequent traps.
-23. Geothermal and nuclear are not “derived from the Sun” in the renewable-sun family sense used in many stems — though fossil-fuel energy ultimately traces to the Sun.
-24. India still lacks a large commercial tidal plant even where potential maps look strong.
-25. Green / grey / blue hydrogen colours mark production route and carbon intensity — not the colour of the gas.
-26. UP colour: Mirzapur (मिर्ज़ापुर) solar collaboration history (इतिहास), western UP bagasse cogeneration, limited wind, Ramganga water–power links.
-27. CSP is heat-first; PV is photon-to-electron. Do not describe CSP as a simple rooftop panel.
-28. Wind leadership is southern and western coastal/plateau states — not a default UP fact.
-29. Small hydro ceiling **25 MW** is the MNRE number; do not invent a different cutoff.
-30. OSOWOG is a grid-connectivity vision around solar; it is not a biomass scheme.
-31. Non-fossil **500 GW by 2030** is a capacity ambition fact beside older Solar Mission milestones.
-32. Tariffs for solar are set by **CERC / SERCs**, not by SECI alone; India is **not** a top silicon-wafer manufacturer (panels often assembled from imported cells).
-33. Microbial fuel cells and bioasphalt appear as advanced sustainable-energy neighbours (wastewater electricity; non-petroleum road binder).
-34. Algae biofuel limits for developing countries: high expertise + large facilities with ecological/social concerns — **not** “seas only.”
+3. **Bhadla** in Rajasthan is India’s mega solar-park fact (not Gujarat as “largest”). **PM-KUSUM** supports farmer solar pumps. **OSOWOG** is One Sun One World One Grid.
+4. **Domestic Content Requirement (DCR)** in solar news means mandating domestically manufactured PV cells/modules.
+5. **Cochin International Airport** = world’s first fully solar-powered airport. **Diu** = first Indian UT / smart city running **100% solar** (daytime / UT stems). **Surat** = first district with **100% solar-powered PHCs**.
+6. **Biomass** is energy from organic matter. **Biogas** (बायोगैस) from anaerobic digestion is mainly **methane (CH₄) and carbon dioxide (CO₂) (कार्बन डाइऑक्साइड)** — not a butane/carbon-monoxide pair.
+7. **Geothermal** uses Earth’s internal heat. Indian provinces include **Himalaya (हिमालय), Cambay, West Coast, SONATA (Son–Narmada (नर्मदा)–Tapi (तापी)), Godavari (गोदावरी), Mahanadi (महानदी)** — **not Ganga (गंगा) Delta (डेल्टा)**. Sites: **Puga, Manikaran, Tattapani**.
+8. **Tidal** energy comes from Moon-driven sea-level change. India’s best potential is often locked to the **Gulf of Khambhat**, then Gulf of Kutch.
+9. **Small hydro** under MNRE is **≤25 MW**. Above that is treated as large hydro. Himalayan streams hold large SHP potential.
+10. **Green hydrogen** is H₂ from water electrolysis powered by **renewable** electricity. Grey hydrogen comes from natural gas; blue adds CCS (सुरक्षा कैबिनेट समिति) to gas routes.
+11. **Solar energy** is radiant light and heat from the Sun — harnessed via **photovoltaic (PV)** panels or **concentrated solar power (CSP)** (संकेंद्रित सौर ताप).
+12. **PV cells** (silicon semiconductors) convert photons to DC electricity; an inverter converts to AC for the grid.
+13. **CSP** uses mirrors to heat fluid, produce steam, and drive a turbine — can store heat for after-sunset generation.
+14. **National Solar Mission (2010)** is a pillar of **NAPCC (2008)** — also called **JNNSM** from January 2010 — target scaled to **100 GW solar**, achieved around **2022–2024**.
+15. **500 GW non-fossil fuel capacity by 2030** (COP26, 2021) includes solar, wind, hydro, nuclear, and biomass — solar remains the largest growth component.
+16. **International Solar Alliance (ISA)** (अंतरराष्ट्रीय सौर गठबंधन) launched **30 November 2015** at **COP21 Paris** by **India and France** — treaty-based IGO, HQ **Gurugram, Haryana**.
+17. **Domestic Content Requirement (DCR)** in solar RfS means using domestically manufactured PV cells and modules.
+18. **OSOWOG (One Sun One World One Grid)** and **World Solar Bank** concepts are linked to ISA's cross-border solar grid vision.
+19. **PM-KUSUM (2019):** solar pumps for farmers and grid-connected solar on barren/fallow land — MNRE nodal.
+20. **Cochin International Airport** was the **first airport in the world** fully powered by solar energy.
+21. **Diu** became the first Indian UT / smart-city example to run on **100% solar** (daytime / UT stems). **Surat** became the first district with **100% solar-powered Primary Health Centres**.
+22. **Bhadla (Rajasthan)** is India’s mega solar park fact — not “Gujarat has the largest solar park” in newer stems. India’s large floating solar example: **Ramagundam (Telangana)**.
+23. **Wind energy** converts the **kinetic energy of moving air** into electricity using **wind turbines**.
+24. **Tamil Nadu** is historically India's leading wind state (**Muppandal wind farm**). **Gujarat, Karnataka, Maharashtra, Rajasthan** follow.
+25. **Onshore** turbines dominate India. **Offshore wind** potential on **Gujarat and Tamil Nadu coasts** — stronger winds but higher cost.
+26. **Intermittency:** wind is variable — needs **grid integration**, **hybrid wind+solar**, or **storage** (batteries, pumped hydro).
+27. **Capacity factor:** wind farms typically produce **~25–35%** of nameplate capacity annually — location-dependent.
+28. **UP has limited wind potential** compared to western and coastal states — focus is national leaders.
+29. **Biomass energy** is stored **chemical energy in organic matter** — plants, crop residue, animal waste, wood — released by burning, fermentation, or **anaerobic digestion**.
+30. **Anaerobic digestion:** bacteria break organic matter **without oxygen** in a digester → **biogas** + **slurry** (organic fertiliser).
+31. **Biogas composition:Methane (CH₄) ~50–70%** + **Carbon dioxide (CO₂) ~25–45%** + traces of H₂S and moisture.
+32. **Butane** is an LPG component — **not** a major biogas constituent. **Carbon monoxide** is incomplete combustion product — not main biogas component.
+33. **Bagasse** (sugarcane crush residue) is burned in **UP sugar mills** (Meerut (मेरठ), Muzaffarnagar belt) for **cogeneration** — electricity + process heat.
+34. **GOBAR-Dhan / SATAT:** government push for community biogas and **bio-CNG** — oil marketing companies procure compressed biogas.
+35. **E20 ethanol blending target by 2025** — ethanol from sugarcane, maize, and agri-waste reduces petrol imports.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Solar Photovoltaic (PV)** | **Concentrated Solar Power (CSP)** | Semiconductor solar cells that convert incident sunlight photon energy directly into direct-current electricity via the photoelectric effect vs optical mirrors/lenses that concentrate solar thermal energy to heat a fluid and drive a steam turbine | सौर फोटोवोल्टिक (सीधा विद्युत उत्पादन) / संकेंद्रित सौर ताप (CSP, टरबाइन चालित) |
-| **Green Hydrogen** | **Grey Hydrogen / Blue Hydrogen** | Produced by zero-carbon electrolysis of water powered entirely by renewable electricity (solar/wind) vs produced via steam methane reforming of natural gas releasing unabated CO₂ (Grey) or with carbon capture and storage (Blue) | हरित हाइड्रोजन (शून्य कार्बन जल अपघटन) / धूसर व नीला हाइड्रोजन (जीवाश्म स्रोत) |
-| **Biomass Energy** | **Biogas** | Direct thermal or electrical energy produced by combusting solid organic matter (bagasse, rice husk, wood pellets) vs gaseous fuel mixture consisting primarily of methane (50–70%) and CO₂ generated through anaerobic microbial digestion of organic waste | बायोमास ऊर्जा (ठोस जैविक ईंधन) / बायोगैस (अवायवीय पाचन, मीथेन प्रधान) |
-| **Geothermal Energy** | **Ocean Thermal Energy (OTEC)** | Harnesses natural high-temperature hydrothermal heat and steam from Earth's deep crustal magma reservoirs (e.g. Puga Valley, Ladakh; Manikaran, HP) vs exploits the temperature differential between warm tropical surface ocean water and freezing deep seawater (≥20°C gradient) | भू-तापीय ऊर्जा (पृथ्वी का आंतरिक ताप) / महासागरीय तापीय ऊर्जा (OTEC, सतही-गहन ताप भेद) |
-| **Small Hydro Power (SHP)** | **Large Hydro Power** | Hydropower installations with individual installed capacity up to and including **25 MW** administered under the Ministry of New and Renewable Energy (MNRE) vs large dam-based hydropower plants >25 MW administered under the Ministry of Power | लघु जल विद्युत (≤25 MW, MNRE) / बड़ी जल विद्युत परियोजनाएं (>25 MW) |
-| **International Solar Alliance (ISA)** | **International Renewable Energy Agency (IRENA)** | Treaty-based intergovernmental solar coalition initiated by India and France at COP21 Paris with global HQ in Gurugram, India vs global renewable energy intergovernmental agency covering all renewables founded in 2009 with HQ in Abu Dhabi, UAE | अंतरराष्ट्रीय सौर गठबंधन (ISA, गुरुग्राम) / इरेना (IRENA, अबू धाबी) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Biogas = butane + CO₂ | **Methane + CO₂** |
+| ISA HQ Paris/New Delhi | **Gurugram** |
+| ISA exactly 38 members / all UN | **Outdated / false** |
+| Rajasthan leads wind | **Tamil Nadu wind; Rajasthan solar** |
+| Geothermal from Sun | **Earth interior heat** |
+| Geothermal in Ganga Delta | **Not** a listed province |
+| Tidal = wave energy | **Moon gravity vs wind waves** |
+| Tidal potential in Thar | **Khambhat/Kutch coast** |
+| SHP = 50 MW | **≤25 MW** |
+| Nepal border = zero Indian hydro | **False — Q31** |
+| Grey hydrogen = green | **Grey = fossil gas** |
+| Largest solar park = always Gujarat | **Bhadla, Rajasthan** |
+| Fuel cell = AC | **DC**; heat + water |
+| DCR = TV licences | **Domestic solar PV content** |
+| India #3 silicon wafers | **Not** a wafer leader |
+| Green H₂ Mission 2019 | **January 2023** |
+| Nuclear = renewable in MCQs | **Usually non-renewable category** |
+| Singrauli = hydro | **Thermal power hub** |
 
 
 ---

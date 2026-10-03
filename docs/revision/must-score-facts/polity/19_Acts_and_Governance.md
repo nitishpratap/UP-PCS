@@ -11,76 +11,111 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 19 — Acts & Governance</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Under the Disaster Management Act **2005**, the **NDMA** is chaired by the **Prime Minister**, the **SDMA** by the **Chief Minister**, and the **DDMA** by the **District Magistrate**. The **NEC** is chaired by the **Cabinet Secretary**. The nodal ministry is **Home**.
-2. **NDRF** as a **force** is not the same as the National Disaster **Response Fund**. Do not swap the two.
-3. The RTI Act **2005** (assent **15 June 2005**; in force from **12 October 2005**) grew from the MKSS campaign. The fee is **₹10** (BPL free). Reply is due in **30 days** (**48 hours** if life or liberty is at stake). First appeal is **30 days**; second appeal **90 days**. Penalty can run **₹250** a day up to **₹25,000**.
-4. RTI section **22** makes RTI override the Official Secrets Act to that extent; it does **not** repeal the Official Secrets Act.
-5. The RTE Act **2009** (in force **1 April 2010**) covers ages **6–14**. Neighbourhood norms are about **1 km** (primary) and **3 km** (upper primary). Private schools reserve **25%** under section **12(1)(c)**. School Management Committees must be **three-fourths** parents. PTR is **1:30**.
-6. The National Food Security Act **2013** covers up to **75%** of the rural and **50%** of the urban population (जनसंख्या). Prices are **₹3 / ₹2 / ₹1** for rice, wheat, and coarse grains. Antyodaya gets **35 kg** per household. A woman aged **18 or more** is treated as household head. Do **not** date NFSA as **5 September 2010**.
-7. The Forest Rights Act **2006** starts recognition (मान्यता) at the **Gram Sabha** (ग्राम सभा). Eligible groups include Scheduled Tribes and Other Traditional Forest Dwellers with a **75-year** occupation test as on **13 December 2005**. Individual rights are capped around **4 hectares**. The nodal ministry is **Tribal Affairs**.
-8. The Protection of Human Rights Act **1993** has a **one-year** limitation for complaints. After the **2019** change, the NHRC (राष्ट्रीय मानव अधिकार आयोग) Chair must be a **retired Supreme Court judge**. NHRC recommendations are **recommendatory**.
-9. The Consumer Protection Act **2019** lists **six** consumer rights, creates the **CCPA**, adds product liability and e-commerce coverage, and uses district pecuniary jurisdiction up to **₹50 lakh**. World Consumer Rights Day is **15 March**; National Consumer Day is **24 December**.
-10. The Whistle Blowers Protection Act **2014** makes identity revelation an offence for disclosures about a **public authority**. It is **not** the same as RTI, Lokpal (लोकपाल), or the PIDPI resolution.
-11. **PESA 1996** (पेसा) (notified **24 December**) extends Part IX (भाग IX) to **Fifth Schedule** (5वीं अनुसूची) areas in **ten** States. It strengthens Gram Sabha control over land, minor forest produce, minerals, and intoxicants. It does **not** apply where there is no Fifth Schedule area.
-12. The SC/ST (Prevention of Atrocities) Act **1989** (in force **30 January 1990**) uses exclusive special courts (strengthened **2015**). Anticipatory bail bar under sections **18 / 18A** was restored in **2018**.
-13. **POCSO 2012** (पॉक्सो) covers sexual offences against children **under 18**. Section **19** makes reporting mandatory. Investigation has a **two-month** push. Trials are in-camera. The nodal ministry is **Women and Child Development**.
-14. The Prevention of Corruption Act **1988** (amended **2018**) criminalises **giving** a bribe as well as taking one. Section **17A** needs prior approval for inquiry. Corporate bribery is covered. Trial is aimed at **two years**.
-15. The Citizenship Act **1955** lists five ways to acquire and three ways to lose citizenship. Naturalisation normally needs **eleven years**; CAA shortens that path for notified groups from Afghanistan, Bangladesh, and Pakistan who entered by **31 December 2014**. **OCI is not dual citizenship**.
-16. The four (चातुर्याम) Labour Codes are **Wages (2019)** plus **IR, OSH, and Social Security (2020)**. The Wages Code merges minimum wages, payment of wages, bonus, and equal remuneration. It does **not** swallow the old Contract Labour Act as a one-line synonym.
-17. **RPA 1950** covers electoral rolls and seat allocation. **RPA 1951** covers conduct of elections, election petitions, and party registration under section **29A**.
-18. E-governance modes are **G2C (जी2सी), G2B, G2G (जी2जी), and G2E**. NeGP (**2006**) grew into Digital India’s **e-Kranti** pillar. ICT should **cut cost** and **raise citizen input**, not increase red tape.
-19. Citizen Charters began in the UK (**1991**, John Major). India’s Action Plan is **1997** (DARPG). A charter is a **promise document**, not a justiciable Union statute. Right-to-service laws (Madhya Pradesh **2010**, UP Janhit Guarantee **2011**) are **State statutes** with officer liability.
-20. Good Governance Day is **25 December** (Atal Bihari Vajpayee) from **2014**. UNDP (यूएनडीपी)’s eight principles and the World Bank’s 1990s framing are the usual theory facts.
-21. **Transparency** is not the same as **accountability**. Social audit under MGNREGA section **17** is Gram Sabha-led. Meghalaya (मेघालय) (**2017**) passed the first State social-audit Act. Social audit is **not** a CAG (भारत के नियंत्रक-महालेखापरीक्षक) audit (कैग लेखापरीक्षा).
-22. **Sevottam** (**2006**, DARPG) has three modules: Citizen Charter, Grievance Redress, and Capability Building. It uses the Charter; it is not merely another name for the Charter.
-23. Digital India launched on **1 July 2015** under **MeitY**, with three vision areas and **nine** pillars. **e-Kranti** is pillar **5**. Neighbours include UMANG (**2017**), DigiLocker, BharatNet, CSCs, GeM (**2016**), and MyGov (**2014**).
-24. Mission Karmayogi (**NPCSCB**, **2 September 2020**) uses iGOT, the Capacity Building Commission (**2021**), and Karmayogi Bharat SPV. **Adi Karmayogi (2025)** is a **Ministry of Tribal Affairs** drive — **not** the DoPT Mission Karmayogi programme.
-25. Civil-service neutrality rests on anonymity, permanence, and non-partisanship under the CCS (सुरक्षा कैबिनेट समिति) Conduct Rules **1964**. It is **not** the same as a “committed bureaucracy” slogan.
-26. A **Code of Conduct** is enforceable rules (CCS **1964**). A **Code of Ethics** (नैतिक संहिता) is values (Nolan seven principles; Second ARC fourth report). Do not swap them.
-27. Lateral entry (from **2018**) brings specialists at Joint Secretary level on short contracts through DoPT/UPSC (संघ लोक सेवा आयोग). It supplements, and does not replace, the civil services examination stream.
-28. The **Second ARC** (Veerappa Moily, **2005–09**) issued **15** reports. Report **4** is Ethics; **11** is e-Governance; **12** is citizen-centric administration / Sevottam. The **First ARC** (Morarji Desai (आमिल), then Hanumanthaiah, **1966–70**) issued **20** reports and recommended a Lokpal.
-29. **PRAGATI** (प्रगति) (**25 March 2015**) is a PMO ICT review platform. It is **not** a Digital India pillar. **CPGRAMS** (सीपीजीआरएएमएस) (DARPG) is not the same as the older Cabinet Secretariat **DPG** (लोक शिकायत निदेशालय) window (**1988**).
-30. ECO Mark (**1991**) is an **environment** (पर्यावरण) label for products. Do not treat it as a consumer-forum hierarchy fact under CPA 2019.
-31. POSH **2013** is workplace sexual harassment (Internal Committee if **ten or more** workers). POCSO **2012** is child sexual offences under **eighteen**. Keep the two Acts apart.
-32. The Environment (Protection) Act **1986** is the umbrella environment statute. The National Green Tribunal Act **2010** creates the green tribunal. Match the year to the institution, not the slogan.
+1. **2025:** "Accountability" is **not** a food-security dimension under NFSA. Consumers can bargain below the MRP. **Adi Karmayogi** (launched June) belongs to the **Ministry of Tribal (आदिवासी) Affairs**, not Mission Karmayogi.
+2. **2024:** NFSA covers **75%/50%** (rural/urban (नगरीय)), and was **not** enforced on 5 July 2010. ICT-based e-governance **reduces cost** and **increases citizen input** — it does **not** cut transparency or add red-tape.
+3. **2022:** PESA was passed in **1996**.
+4. **2021:** The **NDMA** (आपदा प्राधिकरण) is chaired by the **PM**. The ECO Mark denotes environment-safe goods. The Wages Code does **not** include Contract Labour.
+5. **2019:** MKSS is linked to **RTI**. NFSA's woman-head provision was also tested.
+6. **2019–24 (running themes):** the CPA, 2019; the RTI Amendment; the CAA's 2024 upholding; Mission Karmayogi (2020); the CBC (2021); and the lateral-entry debate (2018–24).
+7. **NDRF** as a **force** is not the same as the National Disaster **Response Fund**. Do not swap the two.
+8. **PESA 1996** (पेसा) (notified **24 December**) extends Part IX (भाग IX) to **Fifth Schedule** (5वीं अनुसूची) areas in **ten** States. It strengthens Gram Sabha control over land, minor forest produce, minerals, and intoxicants. It does **not** apply where there is no Fifth Schedule area.
+9. **POCSO 2012** (पॉक्सो) covers sexual offences against children **under 18**. Section **19** makes reporting mandatory. Investigation has a **two-month** push. Trials are in-camera. The nodal ministry is **Women and Child Development**.
+10. **RPA 1950** covers electoral rolls and seat allocation. **RPA 1951** covers conduct of elections, election petitions, and party registration under section **29A**.
+11. **Transparency** is not the same as **accountability**. Social audit under MGNREGA section **17** is Gram Sabha-led. Meghalaya (मेघालय) (**2017**) passed the first State social-audit Act. Social audit is **not** a CAG (भारत के नियंत्रक-महालेखापरीक्षक) audit (कैग लेखापरीक्षा).
+12. **Sevottam** (**2006**, DARPG) has three modules: Citizen Charter, Grievance Redress, and Capability Building. It uses the Charter; it is not merely another name for the Charter.
+13. **PRAGATI** (प्रगति) (**25 March 2015**) is a PMO ICT review platform. It is **not** a Digital India pillar. **CPGRAMS** (सीपीजीआरएएमएस) (DARPG) is not the same as the older Cabinet Secretariat **DPG** (लोक शिकायत निदेशालय) window (**1988**).
+14. **PESA** was passed in **1996**, and it applies only to **Fifth-Schedule** areas.
+15. **RPA 1950** covers electoral rolls; **RPA 1951** covers the conduct of elections.
+16. **Section 4** requires **suo motu / proactive disclosure** by public authorities.
+17. **Section 8** lists exemptions — sovereignty, security, Cabinet papers, commercial confidence, fiduciary relationships, **privacy (clause j)**, and ongoing investigations, among others.
+18. **Section 22** makes RTI **override** the Official Secrets Act only **to the extent of any inconsistency** — the OSA is **not repealed**.
+19. **Section 24** exempts listed intelligence and security organisations, except for allegations of **corruption or human-rights violations**.
+20. **Product liability** can attach to the manufacturer, seller, or service provider for a defect or deficiency.
+21. **National Consumer Day** is **24 December**; **World Consumer Rights Day** is **15 March** — do not swap the two.
+22. **Section 19** makes reporting **mandatory**; failure to report attracts imprisonment up to **6 months** and/or a fine.
+23. **OCI (Overseas Citizen of India)** is a **statutory status**, not dual citizenship — India does **not** ordinarily allow a person to hold two passports.
+24. **MGNREGA, 2005** guarantees **100 days** of wage employment; while MKSS is sometimes linked to it as an option, MKSS's **primary** key fact remains **RTI**.
+25. **Digital India, NeGP, e-Kranti, UMANG,** and **DigiLocker** all sit under **MeitY**.
+26. **Mission Karmayogi**, the **CCS Conduct Rules**, and **lateral entry** all sit under the **DoPT**.
+27. **Adi Karmayogi (2025)** sits under the **Ministry of Tribal Affairs** — not the DoPT.
+28. **PRAGATI, e-Samiksha,** and the **DPG** all sit under the **PMO / Cabinet Secretariat** — not MeitY, and not DARPG.
+29. **G2C** (government to citizen) includes UMANG, DigiLocker, passport services, DBT, and IRCTC.
+30. **G2B** (government to business) includes **GeM**, GSTN, MCA21, and e-Biz.
+31. **G2G** (government to government) includes e-Office, PFMS, CCTNS, and the e-Courts backend.
+32. **G2E** (government to employee) includes e-HRMS and iGOT Karmayogi.
+33. **e-Kranti (2015)**, meaning the electronic delivery of services, is **pillar 5 of Digital India** — it is not a rival mission to Digital India.
+34. **NeSDA** is DARPG's assessment tool that scores how well States and ministries actually deliver services online.
+35. **PRAGATI (25 March 2015)** is the PM's own monthly video-review platform, combining grievance redressal, programme review, and project monitoring in one chair.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Term A | Term B | Core Difference | Hindi Terminology |
-|--------|--------|-----------------|-------------------|
-| **RTI 2005** | **RTE 2009** | Information statute (MKSS) vs Education statute (86th / 21A) | आरटीआई 2005 / आरटीई 2009 |
-| **NFSA 2013** | **RTE 1 Apr 2010** | Food law; **not** 5 Jul 2010 vs School law commencement | खाद्य सुरक्षा 2013 / आरटीई लागू |
-| **PESA 1996** | **73rd 1993** | Extends Part IX to **5th Sch.** vs Constitutional PRI skeleton | पेसा 1996 / 73वां संशोधन |
-| **CPA 1986** | **CPA 2019** | Old COPRA vs CCPA + product liability + e-com | उपभोक्ता संरक्षण (1986 vs 2019) |
-| **AITUC-era labour Acts** | **Labour Codes** | Many old statutes vs **Four** Codes (Wages 2019 + three 2020) | पुराने श्रम कानून / चार श्रम संहिताएं |
-| **POCSO** | **JJ Act** | Sexual offences, child **<18** vs Children in conflict / need of care | पॉक्सो / किशोर न्याय (जेजे) अधिनियम |
-| **PoA 1989** | **PCR 1955** | Atrocities (heavier) vs Civil Rights / untouchability | अत्याचार निवारण / नागरिक अधिकार संरक्षण |
-| **NDMA** | **MHA DM Division** | Authority; **PM** chairs vs Nodal **division** in Home | आपदा प्राधिकरण / गृह मंत्रालय प्रभाग |
-| **NDRF (force)** | **NDRF (fund)** | Battalions under MHA vs National Disaster **Response Fund** (DM Act) | एनडीआरएफ बल / राष्ट्रीय आपदा प्रतिक्रिया कोष |
-| **RPA 1950** | **RPA 1951** | Rolls / seats vs Conduct / petitions / 29A | जनप्रतिनिधित्व (1950 vs 1951) |
-| **EPA 1986** | **NGT 2010** | Umbrella environment statute vs Green tribunal | पर्यावरण संरक्षण 1986 / एनजीटी 2010 |
-| **POSH 2013** | **POCSO 2012** | Workplace; ICC if **≥10** workers vs Child **<18** sexual offences | कार्यस्थल यौन उत्पीड़न (पॉश) / पॉक्सो |
-| **NeGP 2006** | **Digital India 2015** | 27→ MMPs plan vs Umbrella; **e-Kranti** is pillar **5** | राष्ट्रीय ई-शासन / डिजिटल इंडिया |
-| **Citizen Charter** | **Sevottam** | Promise document (1997) vs 2006 **3-module** delivery model that *uses* the Charter | नागरिक अधिकार-पत्र / सेवोत्तम मॉडल |
-| **Code of Conduct** | **Code of Ethics** | CCS Rules **1964** — enforceable vs Values / Nolan; 2nd ARC wanted a separate ethics code | आचरण नियमावली / नैतिक संहिता |
-| **Mission Karmayogi** | **Adi Karmayogi 2025** | DoPT / iGOT / CBC vs **MoTA** tribal responsive-governance drive | मिशन कर्मयोगी / आदि कर्मयोगी |
-| **Social audit** | **CAG audit** | Gram Sabha / MGNREGA s.17 vs Constitutional auditor (Art. **148**) | सामाजिक अंकेक्षण / कैग लेखापरीक्षा |
-| **1st ARC** | **2nd ARC** | Morarji **1966–70**, **20** reports vs Moily **2005–09**, **15** reports | प्रथम एआरसी / द्वितीय एआरसी |
-| **G2C** | **G2G** | Citizen services (UMANG, DigiLocker) vs Intra-government (e-Office, PFMS) | जी2सी (नागरिक) / जी2जी (अंतर-सरकारी) |
-| **Citizen Charter** | **RTS / Janhit Guarantee** | DARPG promise, not a Union Act vs **State statute** (MP **2010**, UP **2011**) with officer-penalty | नागरिक चार्टर / जनहित गारंटी कानून |
-| **CPGRAMS** | **DPG** | DARPG portal for all ministries vs Cabinet Secretariat **1988** residual window | सीपीजीआरएएमएस / लोक शिकायत निदेशालय |
-| **PRAGATI** | **Digital India** | PMO monthly ICT review (**2015**) vs MeitY programme, **9 pillars** | प्रगति (समीक्षा मंच) / डिजिटल इंडिया |
-| **Conduct 1964** | **CCA 1965** | Behaviour / gifts / politics vs How to punish | आचरण नियम / अनुशासनात्मक नियम |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. MKSS = RTE / MGNREGA → **RTI**
+2. NDMA Chair = Home Minister → **PM**. MHA only hosts the *division*
+3. NFSA enforced 5 July 2010 → **2013**. 2010 = **RTE** commencement
+4. NFSA covers 100% population → **75% rural / 50% urban**
+5. PESA = 73rd / Sixth Schedule → **1996**, **Fifth** Schedule
+6. RTE in force 2002 / 2009 → Statute 2009; **1 Apr 2010**
+7. CPA 2019 still the 1986 forums only → **CCPA + product liability + e-com**
+8. ECO Mark = export / best quality → **Environment-safe** goods
+9. Code on Wages includes Contract Labour → **OSH 2020**. Wages = MW + PW + Bonus + Equal Remuneration
+10. POCSO child = 14 / 16 → **Below 18**
+11. PoA still as *Mahajan* diluted it → **2018 Amd** restored the teeth
+12. FRA nodal = Environment Ministry → **Tribal Affairs**
+13. Whistle-blower Act = RTI → Separate **2014** statute
+14. PHRA Chair must still be retired CJI → **2019**: retired **SC judge** enough
+15. CAA = 6 religions including Muslim → **Six** listed; **Islam not** in
+16. NDRF force = NDRF fund → Force = battalions. Fund = **Response Fund** (plus SDRF)
+17. RTI repealed Official Secrets Act → **s.22** overrides to the extent of inconsistency; OSA **lives**
+18. RTI second appeal in 30 days → Second = **90 days** to CIC/SIC. First = **30 days**
+19. RTE no-detention still absolute till 8 → **2019 Amd** — State may detain in **5 and 8**
+20. FRA individual holding unlimited → Ordinarily **≤ 4 ha**
+21. NEC chaired by HM → **Cabinet Secretary**
+22. District consumer cap still ₹20 lakh → **₹50 lakh** (2019/21 bands)
+23. 15 March = National Consumer Day → **24 Dec** national; **15 Mar** World
+24. Contract Labour → Wages Code → **OSH 2020**
+25. IR standing orders still at 100 workers → Code: **300**
+26. POSH = POCSO → POSH = workplace ICC; POCSO = child **<18**
+27. EPA 1986 = NGT → NGT is **2010** tribunal
+28. Aadhaar = constitutional right → **2016 statute**; SC 2018 limited private use
+29. RPwD still 3% reservation → **4%** (2016). Old PWD Act **1995**
+30. Dual citizenship via OCI → OCI ≠ second Indian passport
+31. PESA = all tribal States → **10 Fifth-Schedule States** only
+32. e-gov reduces transparency / adds red-tape → **Opposite** (2024): cost **down**, citizen input **up**
+33. Digital India = NeGP → DI **2015** umbrella; NeGP **2006**; **e-Kranti = pillar 5**
+34. Citizen Charter = enforceable Act → **DARPG document**, not a statute
+35. Sevottam = a 2015 Digital India pillar → **2006** DARPG **3-module** model
+36. Good Governance Day = 26 January → **25 December** (Atal)
+37. UNDP 8 includes “food accountability” → That’s **NFSA 2025 trap**. UNDP 8 = participation…rule of law
+38. Social audit = CAG → GS / MGNREGA **s.17**. First **State Act = Meghalaya 2017**
+39. CPGRAMS = RTI / Lokpal → **Grievance portal**, DARPG
+40. Adi Karmayogi = DoPT / iGOT → **MoTA, June 2025**
+41. Mission Karmayogi = 2015 / MeitY → **2 Sep 2020**, **DoPT**; CBC **2021**
+42. Code of Ethics = CCS Conduct Rules → Conduct **1964** is enforceable; ethics code is **ARC wish-list**
+43. Nolan = Indian statute → **UK 1994**, seven principles
+44. 2nd ARC = Morarji / Santhanam → **Veerappa Moily 2005–09**, **15** reports. 1st ARC = Morarji. Santhanam = CVC
+45. Hota = 2nd ARC → **Hota 2004**, separate
+46. Lateral entry replaces UPSC CSE → Contract specialists via **UPSC**, **2018** window
+47. GeM = MeitY Digital India app → **Commerce**, **2016**, G2B
+48. MyGov launched 1 Jul 2015 → **26 Jul 2014**
+49. UMANG = 2015 → **23 Nov 2017**
+50. Committed bureaucracy = neutrality → **Opposite** of the steel-frame rule
+51. PRAGATI = a Digital India pillar → **PMO**, **25 Mar 2015** — grievance + programme + project
+52. DPG = DARPG / CPGRAMS → **Cabinet Secretariat, 1988** residual window
+53. Citizen Charter = Janhit Guarantee Act → Charter = DARPG promise. **UP 2011 / MP 2010** = **statute** with penalty
+54. First RTS Act = UP → **MP 2010**; UP Janhit Guarantee **2011**
+55. CPGRAMS expansion = “Chief Minister portal” → **Centralised Public Grievance Redress and Monitoring System**
+56. MeitY existed as a ministry in 2006 → **Ministry from 19 Jul 2016** (DeitY was a department)
+57. Conduct Rules = CCA Rules → Conduct **1964** (behaviour). CCA **1965** (discipline procedure)
+58. NIC born with Digital India → NIC **1976**; DI **2015**
+59. Meghalaya social-audit Act = AP → AP = pioneer *society*; **Meghalaya 2017** = first *Act*
+60. 1st ARC recommended Digital India → 1st ARC = **Lokpal / grievance machinery**. DI is **2015**
+
+---
 
 
 ---

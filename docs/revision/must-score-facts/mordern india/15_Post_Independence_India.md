@@ -11,69 +11,75 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 15 — Post-Independence India</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Arc after transfer: Independence **15 Aug 1947** → CA last sitting **24 Jan 1950** → Constitution **26 Jan 1950** → Planning Commission **Mar 1950** → CDP **2 Oct 1952** → Andhra **1 Oct 1953** → SRC Act **1 Nov 1956** → NITI **1 Jan 2015**.
-2. About **562** princely states were integrated under **Sardar Patel** and **V.P. Menon**. The **Instrument of Accession** covered only **Defence, External Affairs and Communications**.
-3. **Junagadh — Cause/Course/Result:** Nawab’s Pakistan accession vs Hindu-majority state → Indian blockade and local revolt → **plebiscite 1948** joins India.
-4. **Hyderabad — Cause/Course/Result:** Nizam’s refusal / Razakar violence → **Operation Polo (Sept 1948)** Police Action → Hyderabad integrated.
-5. **Jammu and Kashmir** signed the IoA on **26 October 1947** amid tribal invasion (later J&K Constitution steps ≠ Union Constitution dates).
-6. **Goa — Cause/Course/Result:** Portuguese refusal to negotiate enclaves → **Operation Vijay (18–19 Dec 1961)** → UT **1962** → Goa State **1987**. French enclaves used **referendum/treaty**, never the Goa military route.
-7. Constituent Assembly first met on **9 December 1946**. The **Objectives Resolution** was moved on **13 December 1946**.
-8. The national **Flag** was adopted on **22 July 1947**. The **Drafting Committee** (Ambedkar) was set up on **29 August 1947**.
-9. The Constitution was **adopted on 26 November 1949** and **commenced on 26 January 1950**. Do not swap the two dates.
-10. Committee chair facts: **Union Constitution — Nehru**; **Rules — Prasad**; **Drafting — Ambedkar**; **Fundamental Rights sub-committee — Kripalani**.
-11. **Chandernagore** used a French referendum route (**19 June 1949**) and merged into **West Bengal** on **2 October 1954**.
-12. **Pondicherry, Karaikal, Mahe and Yanam** used the **Kizhoor referendum (18 Oct 1954)**; de facto **1 Nov 1954**; de jure Union Territory **1962**.
-13. **Dadra and Nagar Haveli** saw local action in **1954** and became a UT by the **10th Amendment, 1961**.
-14. **Panchsheel** was signed on **29 April 1954** (India–China five principles). The first **NAM** summit was **Belgrade 1961**; **Bandung 1955** is the Afro-Asian mood conference, not the first NAM summit.
-15. **Etawah Pilot (1948)** was **Albert Mayer’s** UP village project. Nationwide **CDP** began on **2 October 1952**; **NES** followed in **1953**.
-16. Development chronology: **CDP → DPAP → Food for Work → TRYSEM**.
-17. **Balwant Rai Mehta (1957)** recommended the three-tier panchayati scheme. **Nyaya Panchayat** is not one of those three Mehta tiers.
-18. **States Reorganisation Commission** members were **Fazl Ali, K.M. Panikkar and H.N. Kunzru**. Not K.T. Shah; not Pattabhi Sitaramayya.
-19. The first linguistic state was **Andhra (1 October 1953)** after Potti Sriramulu’s fast. The **States Reorganisation Act** took effect on **1 November 1956**.
-20. **Dhar Commission (1948)** resisted language as the main basis. **SRC (1953)** accepted language with limits.
-21. The **Planning Commission (March 1950)** was **extra-constitutional**. Ashok Chanda called it an “**Economic Cabinet**.”
-22. The then **poverty line** exercise sat with the Planning Commission. **NITI Aayog** began on **1 January 2015**; first Vice-Chair was **Arvind Panagariya**.
-23. **1st Plan** stressed agriculture and CDP. **2nd Plan** followed the **Mahalanobis** heavy-industry path (steel plants).
-24. The **12th Plan** slogan fact is **sustainable growth**; it was the **last** Five-Year Plan.
-25. **1950 map:** Part A = Governor’s provinces; Part B = princely unions; Part C = Chief Commissioner’s provinces; Part D = Andaman and Nicobar — until **1956**.
-26. Privy purses ended with the **26th Amendment, 1971**.
-27. UP Focus: **Etawah 1948 (Mayer, Mahewa)** is the national CDP model; UP was a **Part A** state in 1950; **Uttarakhand** was carved on **9 November 2000**.
-28. **Standstill Agreement** kept interim arrangements; **IoA** permanently ceded the three subjects — do not swap the two instruments.
-29. **Nilokheri** is S.K. Dey’s refugee township model. Do not call it the same thing as Etawah’s Mayer pilot.
-30. Finance Commission is **Article 280**. Planning Commission was never a constitutional body — that is the PC vs FC trap.
-31. **Andhra linguistic agitation — Cause/Course/Result:** Demand for Telugu state → **Potti Sriramulu** fast unto death (**1952**) → Andhra State created **1 Oct 1953**, opening the SRC path.
-32. French route tags stay with **Chandernagore / Kizhoor**; Portuguese military tag stays with **Operation Vijay** — method swap is the classic enclave trap.
+1. **Junagadh — Cause/Course/Result:** Nawab’s Pakistan accession vs Hindu-majority state → Indian blockade and local revolt → **plebiscite 1948** joins India.
+2. **Hyderabad — Cause/Course/Result:** Nizam’s refusal / Razakar violence → **Operation Polo (Sept 1948)** Police Action → Hyderabad integrated.
+3. **Jammu and Kashmir** signed the IoA on **26 October 1947** amid tribal invasion (later J&K Constitution steps ≠ Union Constitution dates).
+4. **Goa — Cause/Course/Result:** Portuguese refusal to negotiate enclaves → **Operation Vijay (18–19 Dec 1961)** → UT **1962** → Goa State **1987**. French enclaves used **referendum/treaty**, never the Goa military route.
+5. **Chandernagore** used a French referendum route (**19 June 1949**) and merged into **West Bengal** on **2 October 1954**.
+6. **Pondicherry, Karaikal, Mahe and Yanam** used the **Kizhoor referendum (18 Oct 1954)**; de facto **1 Nov 1954**; de jure Union Territory **1962**.
+7. **Dadra and Nagar Haveli** saw local action in **1954** and became a UT by the **10th Amendment, 1961**.
+8. **Panchsheel** was signed on **29 April 1954** (India–China five principles). The first **NAM** summit was **Belgrade 1961**; **Bandung 1955** is the Afro-Asian mood conference, not the first NAM summit.
+9. **Etawah Pilot (1948)** was **Albert Mayer’s** UP village project. Nationwide **CDP** began on **2 October 1952**; **NES** followed in **1953**.
+10. **Balwant Rai Mehta (1957)** recommended the three-tier panchayati scheme. **Nyaya Panchayat** is not one of those three Mehta tiers.
+11. **States Reorganisation Commission** members were **Fazl Ali, K.M. Panikkar and H.N. Kunzru**. Not K.T. Shah; not Pattabhi Sitaramayya.
+12. **Dhar Commission (1948)** resisted language as the main basis. **SRC (1953)** accepted language with limits.
+13. **1st Plan** stressed agriculture and CDP. **2nd Plan** followed the **Mahalanobis** heavy-industry path (steel plants).
+14. **1950 map:** Part A = Governor’s provinces; Part B = princely unions; Part C = Chief Commissioner’s provinces; Part D = Andaman and Nicobar — until **1956**.
+15. **Standstill Agreement** kept interim arrangements; **IoA** permanently ceded the three subjects — do not swap the two instruments.
+16. **Nilokheri** is S.K. Dey’s refugee township model. Do not call it the same thing as Etawah’s Mayer pilot.
+17. **Andhra linguistic agitation — Cause/Course/Result:** Demand for Telugu state → **Potti Sriramulu** fast unto death (**1952**) → Andhra State created **1 Oct 1953**, opening the SRC path.
+18. **Butler Committee (1927)** studied paramountcy and princely-state relations with the Crown (Indian States Committee).
+19. **All India States People’s Conference (1927)** organised Praja Mandal politics; **Nehru** (नेहरू) became its President in **1939**.
+20. **Part C** were Chief Commissioner’s provinces. **Part D** was Andaman and Nicobar.
+21. **Dadra and Nagar Haveli** was a separate Portuguese pocket. Local action brought it in during 1954, and it became a Union Territory under the **10th Amendment, 1961**.
+22. **Panchsheel** was signed with China on **29 April 1954**. Its five principles include mutual non-interference and peaceful coexistence.
+23. **G.V. Mavlankar** bridged British Central Assembly Speakership and free India’s Lok Sabha (लोकसभा) Speakership.
+24. **N. Madhava Rau** replaced B.L. Mitter. **T.T. Krishnamachari** replaced D.P. Khaitan.
+25. **Sardar Patel** said in the CA debates on separate electorates, *“Can you show me one free country… British element is gone, but they have left mischief behind.”*
+26. **Jawaharlal Nehru** called Fundamental Rights *“a pledge to our people and a pact with the civilized world.”*
+27. **Nyaya Panchayat is not a Mehta tier**. Nyaya Panchayat was **not** a Mehta Committee tier.
+28. **Potti Sriramulu** undertook a fast unto death for a Telugu state and died in **December 1952**. Mass unrest followed across the Andhra region.
+29. **Ashok Chanda** called it the **“Economic Cabinet of India”**. Ashok Chanda applied that label to the **Planning Commission** (योजना आयोग).
+30. **Industrial Policy Resolution 1948** set a mixed economy.
+31. **Avadi 1955** spoke of a **socialistic pattern of society**.
+32. **Industrial Policy Resolution 1956** put the commanding heights with the public sector.
+33. **CDP = 1948** → Etawah **1948**; CDP **2 Oct 1952**.
+34. **Nilokheri = Albert Mayer** → Nilokheri ≈ **S.K. Dey**; Etawah = Mayer.
+35. **SRC = K.T. Shah / Sitaramayya** → **Fazl Ali, Panikkar, Kunzru**. Sitaramayya = **JVP**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Etawah 1948 | CDP 1952 | UP pilot (Mayer) vs nationwide programme | इटावा / सामुदायिक विकास |
-| Etawah | Nilokheri | Mayer village pilot vs S.K. Dey refugee township | इटावा / निलोखेडी |
-| CDP | NES | Intensive projects 1952 vs wider extension 1953 | सीडीपी / एनईएस |
-| IoA | Standstill | Three subjects ceded vs interim status-quo | अधिमिलन / स्टैन्डस्टिल |
-| Junagadh | Hyderabad | Plebiscite vs Police Action 1948 | जूनागढ़ / हैदराबाद |
-| Chandernagore | Pondicherry group | Merged into **West Bengal 1954** vs stayed a separate **UT, de jure 1962** | चंद्रनगर / पुदुचेरी |
-| Pondicherry 1954 | Goa 1961 | French referendum route vs Portuguese military route (**Operation Vijay**) | पुदुचेरी / गोवा |
-| Goa UT 1962 | Goa State 1987 | 12th Amendment made it a UT vs full statehood 25 years later | गोवा संघ शासित / गोवा राज्य |
-| Adopted | Commenced | **26 Nov 1949** vs **26 Jan 1950** | अंगीकृत / लागू |
-| Dhar 1948 | SRC 1953 | Against language basis vs language accepted with limits | धर / एसआरसी |
-| SRC | Act 1956 | Commission (Fazl Ali) vs statute **1 Nov 1956** | आयोग / अधिनियम |
-| Planning Commission | Finance Commission | Extra-constitutional 1950 vs Art. 280 | योजना आयोग / वित्त आयोग |
-| PC | NITI | Plan body 1950–2014 vs think-tank from 2015 | योजना / नीति |
-| 1st Plan | 2nd Plan | Agriculture/CDP vs heavy industry (Mahalanobis) | प्रथम / द्वितीय |
-| Part A | Part B (1950) | Governor’s provinces vs princely unions | ए / बी राज्य |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **CDP = 1948** → Etawah **1948**; CDP **2 Oct 1952**.
+2. **Nilokheri = Albert Mayer** → Nilokheri ≈ **S.K. Dey**; Etawah = Mayer.
+3. **SRC = K.T. Shah / Sitaramayya** → **Fazl Ali, Panikkar, Kunzru**. Sitaramayya = **JVP**.
+4. **First linguistic state = Kerala / 1956 Act** → **Andhra, 1 Oct 1953**.
+5. **Adopted = 26 Jan 1950** → Adopted **26 Nov 1949**; commenced **26 Jan 1950**.
+6. **Flag = 22 July 1948 / Jan 1950** → **22 July 1947**.
+7. **FR Sub-Committee = Ambedkar** → **J.B. Kripalani**. Drafting = Ambedkar.
+8. **Union Constitution Committee = Prasad** → **Nehru**. Prasad = Rules / CA President.
+9. **Planning Commission = Art. 280** → 280 = **Finance Commission**. PC = resolution, 1950.
+10. **NITI first VC = Rajiv Kumar** → **Arvind Panagariya**.
+11. **Sustainable growth = 11th Plan** → **12th**. 11th = inclusive growth.
+12. **Economic Cabinet = Finance Commission / Cabinet** → **Planning Commission** (Ashok Chanda).
+13. **Junagadh = Operation Polo** → Polo = **Hyderabad**. Junagadh = **plebiscite**.
+14. **IoA = all subjects / privy purse end** → IoA = **three** subjects; purses end **26th Amendment 1971**.
+15. **Nyaya Panchayat = Balwant Rai Mehta tier** → **Not** a Mehta tier (2024 Q129, Polity T10).
+16. **Bombay split = 1956** → **1 May 1960**.
+17. **Drafting Committee = Dec 1946** → **29 August 1947**.
+18. **NITI replaced Finance Commission** → replaced **Planning Commission**.
+19. **Chandernagore = same as the Pondicherry group** → Chandernagore merged into **West Bengal, 1954**; Pondicherry group is a **separate UT**, de jure only in **1962**.
+20. **Goa joined by referendum, like Pondicherry** → Goa needed **Operation Vijay, 1961**; Portugal refused talks.
+21. **Panchsheel = NAM's founding year** → Panchsheel **1954**; NAM's first summit is **Belgrade, 1961**. Bandung (1955) is a related mood, not the first NAM summit.
+22. **Jinnah was a Constituent Assembly member** → he was **not**.
+23. **Constitution commenced on 26 Nov 1949** → that is **adoption**; commencement = **26 Jan 1950**.
+24. **First CA President = Ambedkar** → temp **Sinha**, permanent **Prasad**; Ambedkar = **Drafting Committee**.
 
 
 ---

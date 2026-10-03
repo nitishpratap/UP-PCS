@@ -11,9 +11,18 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 3 — Nutrition, Vitamins, Diseases and Medicine</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Event / Fact | Must-Score Fact |
+|------|-------------|----------------------|
+| **2024–25** | WHO documented recurring **Nipah virus** cases in Kerala, localized to **Malappuram and Palakkad** districts. | Nipah virus is a zoonotic Henipavirus transmitted by fruit bats (genus ***Pteropus***); causes fatal acute encephalitis; **not** mosquito-borne. |
+| **2025** | Global malaria eradication push: WHO prequalified the second malaria vaccine **R21/Matrix-M** (developed by University of Oxford & Serum Institute of India). | Follows RTS,S/AS01 (Mosquirix); both target the circumsporozoite protein of *Plasmodium falciparum*. |
+| **Still Current** | **Sickle Cell Anaemia Elimination Mission** launched by Prime Minister from Shahdol, Madhya Pradesh, targeting elimination by **2047**. | Focuses on tribal populations; point mutation on chromosome 11 substituting Glutamic acid with Valine ($GAG \rightarrow GUG$). |
+| **COVID Platform Facts** | Diverse COVID-19 vaccine platforms: **Covaxin** = Inactivated whole virus; **Covishield** = Non-replicating chimpanzee adenovirus vector; **Moderna / Pfizer** = mRNA nanoparticle; **Corbevax** = Protein subunit; **ZyCoV-D** = Plasmid DNA (world's first needle-free DNA vaccine, Zydus Cadila). | Frequently tested matching pair in state PSCs (UPPCS 2022 tested Sinovac = inactivated whole virus). |
+
+---
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -29,21 +38,6 @@ hide:
 | **Carcinoma** | **Sarcoma** | Malignant cancer of epithelial tissues (~85%) vs malignant cancer of mesodermal/connective tissues (~1–2%) | कार्सिनोमा / सार्कोमा |
 | **Widal Test** | **Mantoux Test** | Agglutination diagnostic test for Typhoid vs intradermal tuberculin skin test for Tuberculosis | विडाल टेस्ट / मॉन्टौक्स टेस्ट |
 | **ECG** | **EEG** | Measures electrical activity of the heart (Einthoven) vs measures electrical activity of the brain (Hans Berger) | ईसीजी / ईईजी |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Event / Fact | Must-Score Fact |
-|------|-------------|----------------------|
-| **2024–25** | WHO documented recurring **Nipah virus** cases in Kerala, localized to **Malappuram and Palakkad** districts. | Nipah virus is a zoonotic Henipavirus transmitted by fruit bats (genus ***Pteropus***); causes fatal acute encephalitis; **not** mosquito-borne. |
-| **2025** | Global malaria eradication push: WHO prequalified the second malaria vaccine **R21/Matrix-M** (developed by University of Oxford & Serum Institute of India). | Follows RTS,S/AS01 (Mosquirix); both target the circumsporozoite protein of *Plasmodium falciparum*. |
-| **Still Current** | **Sickle Cell Anaemia Elimination Mission** launched by Prime Minister from Shahdol, Madhya Pradesh, targeting elimination by **2047**. | Focuses on tribal populations; point mutation on chromosome 11 substituting Glutamic acid with Valine ($GAG \rightarrow GUG$). |
-| **COVID Platform Facts** | Diverse COVID-19 vaccine platforms: **Covaxin** = Inactivated whole virus; **Covishield** = Non-replicating chimpanzee adenovirus vector; **Moderna / Pfizer** = mRNA nanoparticle; **Corbevax** = Protein subunit; **ZyCoV-D** = Plasmid DNA (world's first needle-free DNA vaccine, Zydus Cadila). | Frequently tested matching pair in state PSCs (UPPCS 2022 tested Sinovac = inactivated whole virus). |
 
 ---
 
@@ -263,18 +257,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** By mass, Oxygen is the most abundant element in the human body (~65%), followed by Carbon (~18.5%), Hydrogen (~9.5%), and Nitrogen (~3.2%); by total number of atoms, Hydrogen is the most abundant.
 - **Exam Anchor:** Calcium is the most abundant mineral element in the human body (~1.5% of body weight; 99% in bones and teeth as hydroxyapatite crystals); Iron is the most abundant essential micromineral (3–4 grams, primarily inside haemoglobin).
-- **Exam Anchor:** The adult human brain accounts for only ~2% of total body weight, yet consumes ~20% of total resting oxygen and glucose.
-- **Exam Anchor:** Energy values of macronutrients: Carbohydrates yield $\mathbf{\sim 4.0\text{ kcal/g}}$; Proteins yield $\mathbf{\sim 4.0\text{ kcal/g}}$; Fats / Lipids yield $\mathbf{\sim 9.0\text{ kcal/g}}$ (highest physiological fuel value).
 - **Exam Anchor:** Glucose (dextrose / grape sugar) and Fructose (fruit sugar / levulose) are functional isomers with identical empirical formula ($C6H{12}O6$); Fructose is the sweetest naturally occurring sugar.
 - **Exam Anchor:** Sucrose (table / cane sugar) is a non-reducing disaccharide composed of Glucose + Fructose; Lactose (milk sugar) is Glucose + Galactose; Maltose (malt sugar) is Glucose + Glucose.
 - **Exam Anchor:** Starch (plant storage carbohydrate) and Glycogen ("animal starch", stored in liver and skeletal muscles) are polymers of $\alpha$-D-glucose digested by human amylases; Cellulose is a structural polymer of $\beta$-D-glucose that humans cannot digest due to the total absence of the enzyme cellulase (acts as roughage / dietary fibre).
-- **Exam Anchor:** Proteins are polymers of amino acids linked by peptide bonds; of the 20 standard amino acids, 9 are essential amino acids in adults (must be supplied in diet: Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine).
-
-</details>
+- **Exam Anchor:** Kwashiorkor is caused by severe protein deficiency with adequate calorie intake; characterized by pitting oedema, swollen "pot belly", and "flaky-paint" dermatosis; Marasmus is caused by combined protein-energy malnutrition (PEM) in infants $<1\text{ year}$; characterized by extreme emaciation, dry wrinkled skin ("little old man" face), and absence of oedema.
+- **Exam Anchor:** Fat-Soluble Vitamins: A, D, E, K; dissolve in organic solvents and fats, stored in the liver and adipose tissues; excessive intake causes toxic Hypervitaminosis.
+- **Exam Anchor:** Water-Soluble Vitamins: B-Complex group and Vitamin C; not stored in large amounts in the human body (readily excreted in urine, require daily dietary intake); Vitamin B12 is the unique exception (stored in the human liver for 3–5 years).
+- **Exam Anchor:** Vitamin A (Retinol): Essential for rhodopsin synthesis in retinal rods; deficiency causes Nyctalopia (Night Blindness), Xerophthalmia (dry, keratinized cornea), and Bitot's spots; rich sources: Cod-liver oil, liver, egg yolk, and plant precursors like $\beta$-Carotene in carrots, mangoes, and papayas.
 
 ---
 

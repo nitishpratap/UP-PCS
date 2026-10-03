@@ -14,7 +14,8 @@
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Subatomic Mass & Charge Hierarchy:**
    - **Electron:** Discovered by **J.J. Thomson (1897)** via cathode ray discharge tubes. Charge $= -1.602 \\times 10^{-19}\\text{ C}$; Mass $= 9.109 \\times 10^{-31}\\text{ kg} = 0.000548\\text{ u}$ (approx. **$1/1836\\text{th}$ of proton mass**). Charge-to-mass ratio ($e/m$) $= 1.7588 \\times 10^{11}\\text{ C/kg}$.
@@ -156,9 +157,10 @@
 49. **Non-Metal Exhibiting Metallic Luster:** **Iodine ($I_2$)** forms dark violet-black lustrous crystals that sublime upon gentle heating into violet vapors. **Diamond** and **Graphite** also exhibit distinctive luster.
 50. **Non-Metal That Conducts Electricity:** **Graphite** (allotrope of Carbon). Each carbon atom is $sp^2$ hybridized, bonded to three neighbors in planar hexagonal sheets, leaving one **delocalized free $\\pi$-electron** per atom to drift freely under electric potential.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
 | :--- | :--- | :--- |
@@ -171,7 +173,7 @@
 | **$s$-Block** | **$d$-Block** | $s$-block: Groups 1 and 2; valence electrons in outermost $s$-subshell; fixed valency ($+1, +2$); highly electropositive metals. $d$-block: Groups 3 to 12; electrons filling inner $(n-1)d$ subshell; variable oxidation states ($Fe^{2+}, Fe^{3+}$); form colored coordination complexes. |
 | **Lanthanides** | **Actinides** | Lanthanides: Filling $4f$ subshell; $Z=58\\text{--}71$; only Promethium ($Pm$) is radioactive. Actinides: Filling $5f$ subshell; $Z=90\\text{--}103$; **ALL actinides are radioactive**. |
 
----
+</details>
 
 ## Must-Score Master Tables: Periodic Reference & Abundance
 

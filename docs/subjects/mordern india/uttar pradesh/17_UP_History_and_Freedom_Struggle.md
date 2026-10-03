@@ -5,7 +5,8 @@
 
 ---
 
-## Consolidated — 28 Must-Score Facts (UP History)
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts (UP History)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **8 Mahajanapadas in UP:** Exactly **8 out of the 16 Mahajanapadas** were located within modern Uttar Pradesh: **Kashi, Kosala, Vatsa, Malla, Chedi, Shurasena, Kuru, and Panchala**.
 2. **Sarnath (Isipatana):** Buddha’s **First Sermon** (*Dhammachakkappavattana*) to the five ascetics at Deer Park near Varanasi.
@@ -36,9 +37,10 @@
 27. Do not swap **UP Kisan Sabha 1918** with **Oudh Kisan Sabha 1920**.
 28. Hold the UP freedom map: 1857 centres → INC UP sessions → Kisan/Eka → Chauri Chaura → Kakori → Ballia 1942.
 
----
+</details>
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Difference / Trap Clarification |
 | :--- | :--- | :--- |
@@ -51,7 +53,7 @@
 | **1925 Kanpur vs 1917 Calcutta** | **First Indian Woman vs First Woman**| 1925 Kanpur = **Sarojini Naidu** (First Indian woman); 1917 Calcutta = **Annie Besant** (First woman overall). |
 | **Chittagong Armoury vs Kakori** | **Bengal vs UP** | Kakori = **UP (9 Aug 1925)**; Chittagong = **Bengal (18 April 1930, Surya Sen)**. |
 
----
+</details>
 
 ## 1. Ancient Period: Mahajanapadas & Buddhist Heritage in UP
 

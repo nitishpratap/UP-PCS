@@ -15,7 +15,8 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **“Swaraj (स्वराज) is my birthright and I shall have it”** is **Tilak** (तिलक). **“Do or Die (करो या मरो)”** is **Gandhi** (गांधी) at Quit India (भारत छोड़ो) (**8 August 1942**).
 2. **“Inquilab (इंकलाब) Zindabad”** was coined by **Hasrat Mohani** and popularised by **Bhagat Singh** (भगत सिंह). It is not Bose’s slogan.
@@ -46,9 +47,10 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 27. Vault priority rows: slogan six + INC “first” six + committee/mission six + British-official six — then UP press/1857/Kakori rows.
 28. Drill those vault rows before narrative chapters; event stories live in Topics 1–15, not here.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -65,7 +67,7 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 | Cripps Mission 1942 | Cabinet Mission 1946 | Solo envoy, failed vs three-member mission with a grouping plan | क्रिप्स / कैबिनेट मिशन |
 | Nehru Report 1928 | Simon Commission 1927 | Indian response vs all-white British body | नेहरू रिपोर्ट / साइमन |
 
----
+</details>
 
 ## Must-score facts — highest-yield vault rows
 

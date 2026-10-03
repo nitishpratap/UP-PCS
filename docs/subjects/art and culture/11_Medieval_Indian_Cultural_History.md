@@ -21,7 +21,8 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 ---
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Humayun** brought Persian (फ़ारसी) masters **Mir Sayyid (सैयद) Ali** and **Abdus Samad. Akbar** built the **kitabkhana** (किताबखाना) and the illustrated **Razmnama (रज्मनामा). Jahangir (जहाँगीर)** favoured naturalism under painters such as **Mansur**. Under Aurangzeb (औरंगजेब) many painters left the imperial atelier.
 2. Sultanate architecture spine: **Qutub** (कुतुब) under Aibak–Iltutmish (इल्तुतमिश), **Alai Darwaza** (अलाई दरवाज़ा) under the Khaljis, and **Jaunpur (जौनपुर) Sharqi** (जौनपुर शर्की) work such as **Atala Masjid** (अटाला मस्जिद).
@@ -52,9 +53,10 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 27. **Jaunpur** Sharqi architecture (शर्की स्थापत्य) is a regional Sultanate style of eastern UP. It is not Delhi Slave or Khalji architecture.
 28. In medieval cultural historiography, **Azizuddin Khan** is noted for translating Sanskrit texts during Firoz Shah (फ़िरोज़ शाह) Tughlaq (फिरोज शाह तुगलक)'s Nagarkot/Kangra (कांगड़ा) campaign (*Dalail-i-Firoz Shahi*); he is distinct from Abul Fazl's Mughal court histories.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -67,8 +69,7 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 | Buland Darwaza | Jahangir’s birth | Gujarat **victory** gateway vs 1569 birth (not the cause) | बुलंद दरवाज़ा |
 | Iqta | Khalsa | Muqti keeps revenue for troops vs cash to the treasury | इक्ता / खालसा |
 
----
-
+</details>
 
 ## Must-score facts — painting, architecture, admin culture
 

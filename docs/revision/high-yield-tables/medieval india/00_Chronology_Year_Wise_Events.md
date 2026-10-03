@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chronology — Year-Wise Major Events (Medieval India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -25,11 +23,7 @@ hide:
 | Shivaji 1674 | Khalsa 1699 | Maratha kingship vs Sikh Khalsa | शिवाजी / खालसा |
 | Vijayanagara 1336 | Bahmani 1347 | Hindu southern empire vs Deccan sultanate | विजयनगर / बहमनी |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ## M.0 Megaspine — memorise this first
 
@@ -212,18 +206,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Arab foothold: Muhammad bin Qasim in Sind, 712 CE.
-- **Exam Anchor:** Early medieval north: Tripartite struggle — Pala, Pratihara, Rashtrakuta for Kannauj.
-- **Exam Anchor:** Ghaznavid peak raid: Somnath c. 1025–26 under Mahmud of Ghazni.
-- **Exam Anchor:** Ghurid conquest: Tarain I 1191 (Prithviraj wins) → Tarain II 1192 (Ghori wins).
-- **Exam Anchor:** Sultanate dynasties: Slave → Khalji → Tughlaq → Sayyid → Lodi.
-- **Exam Anchor:** Slave anchors: Aibak 1206 → Iltutmish → Razia → Balban.
-- **Exam Anchor:** Khalji peak: Alauddin Khalji 1296–1316 — markets, Chittor, Deccan (Malik Kafur).
-- **Exam Anchor:** Tughlaq traps: Muhammad bin Tughlaq experiments; Firoz Shah Tughlaq canals / taxes.
-
-</details>
+- **Exam Anchor:** 1398 — Timur sacks Delhi.
+- **Exam Anchor:** 1526 — First Battle of Panipat; Babur founds Mughal rule.
+- **Exam Anchor:** 1539 Chausa / 1540 Kannauj — Sher Shah defeats Humayun.
+- **Exam Anchor:** 1555 Humayun returns; 1556 Second Battle of Panipat.
+- **Exam Anchor:** 1674 — Shivaji’s coronation at Raigad.
+- **Exam Anchor:** 1679 — Aurangzeb reimposes jizya.
+- **Exam Anchor:** 1686–87 — Bijapur and Golconda annexed.
+- **Exam Anchor:** 1699 — Khalsa founded by Guru Gobind Singh.
 
 ---
 

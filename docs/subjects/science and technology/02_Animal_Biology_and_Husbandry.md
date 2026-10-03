@@ -27,7 +27,8 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Animals are eukaryotic, multicellular, heterotrophic organisms lacking cell walls and photosynthetic pigments; store reserve food as **glycogen and fat**.
 2. **Porifera** (sponges) exhibit cellular level of organisation, have thousands of minute incurrent pores (**Ostia**) and a single large excurrent opening (**Osculum**), and maintain a unique water canal system lined by flagellated **Choanocytes / Collar cells**.
@@ -80,8 +81,10 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 49. **Sloth bear**: The shaggy bear commonly seen performing on Indian streets.
 50. **Otter**: Semiaquatic carnivorous mammal (subfamily Lutrinae, family Mustelidae); fierce, aggressive predatory behaviour.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -106,7 +109,7 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 | **Kadaknath** | **Aseel** | Black meat fowl rich in melanin (MP, GI tag) vs aggressive game fowl used for cock-fighting (AP/Telangana) | कड़कनाथ / असील |
 | **Extinct** | **Endangered** | Not a single living individual remains on Earth vs surviving in the wild but facing very high risk of extinction | विलुप्त / संकटग्रस्त प्रजाति |
 
----
+</details>
 
 ## Must-Score Drill — Phyla, Breeds & Products
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 19 — Climate & Environmental Institutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Food and Agriculture Organization (FAO)** | **World Meteorological Organization (WMO)** | Specialized UN agency leading international efforts to defeat hunger, maintain agricultural biodiversity, and soil health (HQ: Rome) vs specialized UN agency dedicated to atmospheric science, climatology, and operational hydrology (HQ: Geneva) | एफएओ (रोम, खाद्य व कृषि) / डब्लूएमओ (जिनेवा, मौसम विज्ञान) |
 | **International Solar Alliance (ISA)** | **International Renewable Energy Agency (IRENA)** | Intergovernmental treaty-based organization launched jointly by India and France at COP21 Paris to promote solar energy deployment (HQ: Gurugram, India) vs intergovernmental organization supporting countries in their transition to all renewable energy types (HQ: Abu Dhabi, UAE) | अंतरराष्ट्रीय सौर गठबंधन (ISA, गुरुग्राम) / इरेना (IRENA, अबू धाबी) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### HQ / product
 
@@ -124,18 +118,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** IPCC sits in Geneva, issues Assessment Reports, and synthesises climate science. It does not set NDCs and is not the UNFCCC treaty body.
-- **Exam Anchor:** IPCC was established in 1988 by WMO and UNEP and shared the Nobel Peace Prize in 2007.
 - **Exam Anchor:** UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) headquarters is Nairobi. Flagship products include the Emissions Gap Report (उत्सर्जन अंतराल रिपोर्ट) and GEO. UNEP was created after Stockholm 1972.
-- **Exam Anchor:** UNEP hosts several MEA secretariats (including Montreal, Basel, and Minamata lines) and works with GEF-linked convention finance.
 - **Exam Anchor:** UNDP headquarters is New York. It publishes the Human Development Report (from 1990) and the HDI. HDR is UNDP, not UNEP.
-- **Exam Anchor:** HDI is linked to Mahbub ul Haq and Amartya Sen. Do not invent a wrong founding-name trap for HDR.
 - **Exam Anchor:** IUCN (आईयूसीएन) headquarters is Gland. It publishes the Red List of extinction risk. IUCN assesses risk; it does not regulate wildlife trade (पण्याध्यक्ष) — that is CITES (साइट्स).
-- **Exam Anchor:** On the Red List, Threatened means Vulnerable + Endangered + Critically Endangered (VU + EN + CR). “Endangered alone” is not the full threatened set.
-
-</details>
+- **Exam Anchor:** WWF is a conservation NGO also linked to Gland, known for the panda logo and the Living Planet Report / Living Planet Index.
+- **Exam Anchor:** FAO headquarters is Rome. Environment-facing outputs include the State of the World’s Forests (SOFO) and agriculture–forest links. FAO partners UNEP on some chemical-convention work such as Rotterdam.
+- **Exam Anchor:** Headquarters is in Geneva, Switzerland.
+- **Exam Anchor:** Working Group I covers physical science. WG II covers impacts and adaptation. WG III covers mitigation.
 
 ---
 

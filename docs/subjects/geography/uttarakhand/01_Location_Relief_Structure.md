@@ -31,7 +31,8 @@
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Uttarakhand occupies the **central Himalayan** sector of India, roughly **28°43′–31°27′ N** and **77°34′–81°02′ E**.
 2. **Himachal Pradesh** borders the west; **Nepal** the east; the **Tibetan** frontier the north; **Uttar Pradesh** plains the south.
@@ -56,9 +57,10 @@
 21. Named Garhwal crest peaks also include **Trisul**, **Dunagiri**, and **Chaukhamba**.
 22. Great Himalayan glaciers (Gangotri, Pindari, Milam and related ice fields) feed Bhagirathi–Alaknanda headstreams and shape pilgrimage–tourism geography.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct |
 |------|---------|
@@ -68,7 +70,7 @@
 | Great Himalaya vs Tethys | Tethys / Trans-Himalaya lies farther north — a different question family |
 | UK vs HP relief vocabulary | Same thrust names; apply to **Uttarakhand** districts in state papers |
 
----
+</details>
 
 ## 1.1 Geographical location
 

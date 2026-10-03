@@ -85,7 +85,8 @@ PRECEDENCE (Warrant 1979, ceremonial): 1 Pres · 2 VP · 3 PM · 4 Gov(in state)
  7 CabMin/CM(in state)/ex-PM/LoP · 9 SC judges · 9A CEC/CAG/UPSC · 10 Dy RS/LS · 11 AG — NOT succession
 ```
 
-### Confused pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Fact | Hindi Terminology |
 |---|----|------|-------------------|
@@ -106,7 +107,7 @@ PRECEDENCE (Warrant 1979, ceremonial): 1 Pres · 2 VP · 3 PM · 4 Gov(in state)
 | 9th Amendment | 9th Schedule | Berubari **1960** vs 1st Amd **1951** list of Acts | 9वां संशोधन (1960) / 9वीं अनुसूची (1951) |
 | 35th’s old 10th Sch | 52nd’s 10th Sch | Sikkim associate-State terms (repealed 36th) vs **defection** | सिक्किम सह-राज्य / दल-बदल विरोधी कानून |
 
----
+</details>
 
 ## Frame
 

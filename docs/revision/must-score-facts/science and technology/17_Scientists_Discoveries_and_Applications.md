@@ -11,96 +11,69 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 9 — Scientists, Discoveries, Defence & Space Technology, and Applications of Physics</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **DRDO Genesis & Motto:** Established in **1958** by amalgamating Technical Development Establishment (TDEs), DTDP, and Defence Science Organisation (DSO). Motto: ***"Balasya Mulam Vigyanam"*** ("The source of strength is science").
-2. **Integrated Guided Missile Development Programme (IGMDP):** Conceived by **Dr. A.P.J. Abdul Kalam** in 1983 and sanctioned on 26 July 1983; completed in March 2012. Developed five indigenous missile systems: **P-A-T-A-N** (Prithvi, Agni, Trishul, Akash, Nag).
-3. **Prithvi Missile Family:** Surface-to-surface, single-stage liquid-propellant ballistic missiles.
-4. **Agni Missile Hierarchy:** Surface-to-surface ballistic missile family:
-5. **Trishul:** Short-range (9 km), quick-reaction, supersonic surface-to-air missile developed under IGMDP; officially closed in 2008 due to guidance limitations.
-6. **Akash:** Medium-range (25–30 km) mobile surface-to-air missile (SAM) system using an air-breathing **ramjet rocket** propulsion system; guided by indigenous **Rajendra 3D phased array radar**.
-7. **Nag & HELINA / Dhruvastra:** Third-generation, 'fire-and-forget' anti-tank guided missile (ATGM). Employs Imaging Infrared (IIR) passive seeker. Land range: **500 m to 4 km**. Air-launched helicopter version: **HELINA / Dhruvastra** (range **7–8 km**).
-8. **Amogha ATGM Series:** Developed by Bharat Dynamics Limited (BDL), Hyderabad. Amogha-III is a 3rd-gen man-portable fire-and-forget ATGM with a tandem HEAT warhead (range 200 m to 2.5 km).
-9. **BrahMos Supersonic Cruise Missile:** Joint venture between India (DRDO) and Russia (NPO Mashinostroyeniya), named after **Brahmaputra and Moskva** rivers.
-10. **Nirbhay Cruise Missile:** Indigenously designed long-range, all-weather, **subsonic cruise missile** (Mach 0.7, range **1,000 km**); uses a solid booster and a small turbofan engine.
-11. **Pralay Missile:** Battlefield quasi-ballistic solid-propellant missile (range **150–500 km**) capable of performing evasive maneuvers mid-course to defeat anti-ballistic missile systems.
-12. **K-Missile Family (Submarine Launched Ballistic Missiles - SLBMs):** Named in honor of Dr. A.P.J. Abdul Kalam.
-13. **Indian Ballistic Missile Defence (BMD) Program:** Double-tiered shield:
-14. **Astra Missile:** India's first indigenous Beyond-Visual-Range Air-to-Air Missile (**BVRAAM**), developed by DRDO. Range: 80–110 km (Astra Mk-1); integrated on Su-30 MKI and LCA Tejas.
-15. **RudraM Anti-Radiation Missiles:**
-16. **LCA Tejas:** Indigenous 4.5th generation, single-engine, compound delta-wing tailless multirole supersonic light combat aircraft; designed by Aeronautical Development Agency (ADA) and manufactured by HAL.
-17. **Fighter Jet Generations:**
-18. **Nuclear Submarine Fleet:**
-19. **Scorpene-Class Conventional Submarines (Project-75):** Built by Mazagon Dock Shipbuilders Limited (MDL) under technology transfer from Naval Group, France:
-20. **Aircraft Carriers of Indian Navy:**
-21. **Main Battle Tanks (MBT):**
-22. **Unmanned Aerial Vehicles (UAVs):**
-23. **Radars & Surveillance Systems:**
-24. **Foreign Air Defence Systems:**
-25. **Multilateral Export Regimes:**
-26. **Disarmament & Non-Proliferation Treaties:**
-27. **New START Treaty:** Signed in Prague (2010) between USA and Russia; limited deployed strategic warheads to 1,550 and launchers to 700. Expired on **5 February 2026**.
-28. **NATO (North Atlantic Treaty Organization):** Formed on 4 April 1949 (Washington Treaty). Collective defence enshrined in **Article 5**. Headquartered in **Brussels, Belgium**. 32 members (Finland joined 2023, Sweden joined March 2024).
-29. **Father & Son Nobel Physics Prize:** Sir **William Henry Bragg and William Lawrence Bragg** shared the 1915 Nobel Prize in Physics for crystal analysis using X-ray spectrometry.
-30. **Einstein's Miraculous Year (Annus Mirabilis, 1905):** Published 4 papers: Photoelectric Effect (light quanta), Brownian Motion (atomic proof), Special Relativity (speed of light constancy), and Mass-Energy Equivalence ($E = mc^2$).
-31. **Einstein's Nobel Prize (1921):** Awarded specifically for the **Law of the Photoelectric Effect**, *not* for Relativity.
-32. **Sir C.V. Raman:** Discovered the **Raman Effect on 28 February 1928** (inelastic scattering of light by molecules); 1930 Nobel Prize in Physics; Bharat Ratna in 1954.
-33. **National Days in Science & Technology:**
-34. **Acharya J.C. Bose:** Generated millimeter microwaves ($60\text{ GHz}$) in 1895; invented the **Crescograph** measuring plant physiological responses to stimuli.
-35. **Satyendra Nath Bose:** Formulated **Bose-Einstein Statistics** (1924) for integer-spin particles (**Bosons**, named by Dirac); predicted the **Bose-Einstein Condensate (BEC)**.
-36. **Meghnad Saha:** Formulated the **Saha Ionization Equation** (1920) linking stellar spectra to temperature and pressure; chaired Calendar Reform Committee (1952) establishing the Saka National Calendar.
-37. **Subrahmanyan Chandrasekhar:** Formulated the **Chandrasekhar Limit ($1.44 M_\odot$)** in 1930; white dwarf stars exceeding $1.44 M_\odot$ collapse into neutron stars or black holes. 1983 Nobel Prize in Physics.
-38. **Dr. Homi J. Bhabha:** Father of Indian Nuclear Program; founded TIFR (1945) and BARC (1954); formulated India's 3-stage nuclear power strategy.
-39. **Dr. Vikram Sarabhai:** Father of Indian Space Program; founded PRL (1947), TERLS (1963), and ISRO (1969).
-40. **Dr. Raja Ramanna:** Nuclear physicist who directed India's first nuclear test ('Smiling Buddha', 18 May 1974) at Pokhran.
-41. **John Bardeen:** Only person to win **two Nobel Prizes in Physics**: 1956 for the **Transistor** (with Brattain and Shockley) and 1972 for the **BCS Theory of Superconductivity**.
-42. **Landmark Inventions & Pioneers:**
-43. **Black Hole Physics:** Celestial body with escape velocity exceeding light ($v_{\text{esc}} > c$). Boundary is the **Event Horizon**; central density is the **Singularity**.
-44. **Gravitational Waves:** Spacetime ripples predicted by Einstein (1916); first directly observed by **LIGO on 14 September 2015** from a binary black hole merger.
-45. **Rocket Propulsion Dynamics:** Governed by **Newton's Third Law** and the **Law of Conservation of Linear Momentum** ($m \Delta v = -v_e \Delta m$).
-46. **Indian Launch Vehicle Fleet:**
-47. **Cryogenics Chemistry:** Involves temperatures below **$-150^\circ\text{C}$ ($120\text{ K}$)**. Rocket propellant combination: **Liquid Hydrogen ($LH_2$, fuel, boiling point $-252.9^\circ\text{C}$)** and **Liquid Oxygen ($LOX$, oxidizer, boiling point $-183.0^\circ\text{C}$)**.
-48. **Ramjet vs Scramjet:** Ramjet slows airflow to **subsonic** speeds inside the burner (Mach 2–5). Scramjet maintains **supersonic** airflow throughout the combustor (velocities **> Mach 6**).
-49. **Geostationary vs Geosynchronous Orbits:** Both have a 24-hour orbital period at **$35,786\text{ km}$ ($22,236\text{ miles}$)**. Geostationary is circular and strictly on the equatorial plane (stationary relative to Earth). Geosynchronous is inclined (figure-8 path).
-50. **NavIC (IRNSS):** Regional navigation satellite constellation covering India and **1,500 km** beyond its borders, using **7 satellites** (3 in Geostationary Orbit + 4 in Geosynchronous Orbit).
-
-</details>
+1. **Mission Divyastra (Agni-V MIRV Test, 11 March 2024):**
+2. **Agni Prime (Agni P) Milestones (2024–2025):**
+3. **Pralay Quasi-Ballistic Missile Salvo Launch (31 December 2025):**
+4. **RudraM-II Air-to-Surface Anti-Radiation Missile (29 May 2024):**
+5. **BrahMos Supersonic Cruise Missile Export Milestones (2024–2026):**
+6. **Phase-II Ballistic Missile Defence (BMD) System (24 July 2024):**
+7. **Akashteer Air Defence Command & Control System (2024–2025):**
+8. **VSHORADS (Very Short Range Air Defence System):**
+9. **Scorpene Submarine Fleet Complete:**
+10. **Multilateral Export Regimes & Arms Treaties:**
+11. **New START Treaty:** Bilateral US–Russia treaty officially **expired on 5 February 2026** (Russia suspended participation in Feb 2023).
+12. **NATO Expansion:** **Sweden officially joined NATO as its 32nd member on 7 March 2024** (following Finland as the 31st member in April 2023), ending over 200 years of military neutrality.
+13. **HCoC (Hague Code of Conduct):** Reached **145 subscribing states** in 2024 with the entry of **Qatar** (India joined on 1 June 2016).
+14. **Australia Group (43 members, India joined 2018)** and **Wassenaar Arrangement (42 states, India joined 2017)** export controls remain foundational.
+15. **SpaDeX Mission (Jan–April 2025):** Autonomous space docking executed on **16 January 2025** (India 4th nation after US, Russia, China), undocked 13 March, redocked 20 April, electrical power transfer 21 April 2025. **POEM-4** safely de-orbited into the Indian Ocean on **4 April 2025** (Debris Free Space Mission - DFSM).
+16. **Chandrayaan-4 (Cabinet Approval Sep 2024):** Rs. 2,104.06 cr lunar sample return mission (two LVM3 launches, lunar orbit docking, 36 months execution).
+17. **Chandrayaan-5 / LUPEX (March 10, 2025):** ISRO Lander + JAXA Rover (Mitsubishi) exploring South Pole PSR water-ice deposits via H3-24L launch.
+18. **Bharatiya Antariksh Station (BAS):** BAS-1 module launch by **2028**; operational station by **2035**; Indian crewed lunar landing by **2040**.
+19. **NISAR:** Dual-frequency (L-band & S-band) SweepSAR radar launch on GSLV-F16 (**30 July 2025**).
+20. **Aditya-L1:** Continuous solar observation from Halo orbit at Sun-Earth L1 (1.5M km); captured X6.3-class solar flare (Feb 2024); released 1st & 2nd global datasets (Jan & Feb 2025).
+21. **MACE Cherenkov Telescope (Hanle, Ladakh):** Inaugurated **4 October 2024** by AEC Chairman Dr. Ajit Kumar Mohanty; world's highest ($4,270\text{ m}$) and Asia's largest imaging Cherenkov observatory, built by BARC with ECIL.
+22. **Nobel Prizes in Physics (2023–2025):**
+23. **2023:** Pierre Agostini, Ferenc Krausz, and Anne L’Huillier (attosecond light pulses).
+24. **2024:** John J. Hopfield and Geoffrey E. Hinton (Artificial neural networks using statistical mechanics and spin-glass physics).
+25. **2025:** John Clarke, Michel H. Devoret, and John M. Martinis (macroscopic quantum tunneling and energy quantization in electrical circuits).
+26. **International Prize in Statistics:** C.R. Rao (2023); Grace Wahba (2025, 'mother of smoothing splines').
+27. **Deep Ocean Mission & Samudrayaan Project (2024–2026):**
+28. **CANI Submarine OFC Project:** Dedicated by PM Narendra Modi on **10 August 2020**, providing high-speed optical fibre connectivity between Chennai and Port Blair (plus 7 other islands) across 2,312 km of seabed.
+29. **Indian Polar Research Stations & Observatories:**
+30. **Antarctica:** Managed by National Centre for Polar and Ocean Research (**NCPOR, Vasco da Gama, Goa**). Stations: **Dakshin Gangotri** (1983–84; decommissioned and ice-submerged 1990), **Maitri** (1989, Schirmacher Oasis), and **Bharati** (commissioned 18 March 2012 at Larsemann Hills, Prydz Bay, constructed of 134 shipping containers).
+31. **Arctic:** Research station **Himadri** established July 2008 at Ny-Ålesund, Svalbard, Norway. **IndARC** deployed on 23 July 2014 in Kongsfjorden fjord, Svalbard—India's 1st multi-sensor moored underwater observatory studying Arctic climate influence on the Indian Summer Monsoon.
+32. **Polar Code:** IMO mandatory safety code for ships in polar waters entered into force on **1 January 2017** under SOLAS and MARPOL.
+33. **Nanotechnology & Advanced Semiconductors (2024–2026):**
+34. **IIT Roorkee Nanofabrication Facility (2025):** Uttarakhand’s first semiconductor nanofabrication research facility established to accelerate India Semiconductor Mission, Nano Mission, and National Quantum Mission.
+35. **ICAR-CIRCOT Nano-Cellulose Plant (Mumbai):** India's first pilot plant utilizing cotton linters and agro-waste to produce industrial-grade nano-cellulose.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
-| Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap Topic | Common Student Confusion / Mistake | Accurate Must-Score Reality & Razor-Sharp Rule |
 | :--- | :--- | :--- |
-| **Ballistic Missile** | **Cruise Missile** | Ballistic missiles (e.g., Prithvi, Agni) are rocket-powered during initial boost phase only, leave the atmosphere, and follow an unpowered arcing gravitational trajectory. Cruise missiles (e.g., BrahMos, Nirbhay) are jet-propelled continuously throughout flight, remain within the atmosphere, and fly at low altitudes following terrain contours. |
-| **BrahMos** | **Nirbhay** | BrahMos is a **supersonic** cruise missile (Mach 2.8–3.0, range 290–500 km) using a liquid ramjet engine. Nirbhay is a **subsonic** cruise missile (Mach 0.7, range 1,000 km) using a turbofan engine. |
-| **Endo-atmospheric** | **Exo-atmospheric** | Endo-atmospheric refers to interceptions occurring **inside Earth's atmosphere** (altitude < 30 km, e.g., AAD / Ashwin). Exo-atmospheric refers to interceptions occurring **outside the sensible atmosphere** in space (altitude > 50 km, e.g., PAD / Prithvi Air Defence). |
-| **MTCR** | **HCoC** | MTCR (1987, 35 partners) is an informal export control cartel targeting delivery systems carrying $\ge 500\text{ kg}$ payload over $\ge 300\text{ km}$. HCoC (2002, 145 states) is a multilateral transparency code requiring pre-launch notifications of ballistic missiles and space rockets. |
-| **Australia Group** | **Wassenaar Arrangement** | Australia Group (1985, 43 members) controls exports of **chemical and biological agents** and dual-use equipment. Wassenaar Arrangement (1996, 42 states) controls exports of **conventional arms and dual-use technologies**. |
-| **Homi Bhabha** | **Vikram Sarabhai** | Dr. Homi J. Bhabha = Father of the **Indian Nuclear Program** (TIFR, BARC). Dr. Vikram Sarabhai = Father of the **Indian Space Program** (PRL, TERLS, ISRO). |
-| **A.P.J. Abdul Kalam** | **Satish Dhawan** | Kalam = Project Director of **SLV-3**; Chief Architect of **IGMDP** (Prithvi, Agni, Trishul, Akash, Nag); 11th President. Dhawan = Longest-serving ISRO Chairman; built satellite communications; spaceport **SDSC SHAR** named in his honor. |
-| **Discovery** | **Invention** | Discovery uncovers a pre-existing natural phenomenon or law (e.g., Röntgen discovered X-rays; Fleming discovered Penicillin; Raman discovered Raman scattering). Invention creates a man-made machine or synthetic device that does not exist in nature (e.g., Bell invented the telephone; Maiman invented the laser; Edison invented the light bulb). |
-| **Einstein's Nobel Prize** | **Theory of Relativity** | Einstein won the 1921 Nobel Prize in Physics **strictly for the Law of the Photoelectric Effect**, *not* for the Theory of Relativity. |
-| **Ramjet** | **Scramjet** | Ramjet decelerates air to **subsonic** velocities inside the combustion chamber (optimal at Mach 2–5). Scramjet maintains **supersonic** airflow throughout the entire combustor (optimal at **> Mach 6**). |
-| **NavIC** | **GPS / Galileo** | NavIC is a **regional** navigation system (7 satellites covering India + 1,500 km). GPS and Galileo are **global** navigation constellations (24+ satellites in Medium Earth Orbit). |
-| **Comet Orbit** | **Asteroid Orbit** | Asteroids have relatively circular orbits primarily in the Asteroid Belt between Mars and Jupiter. Comets follow **highly elongated, eccentric elliptical orbits**; comet tails always point **away from the Sun** due to solar wind and radiation pressure. |
+| **Einstein's Nobel Prize** | Believing Einstein received the Nobel Prize for the Theory of Relativity. | Einstein was awarded the 1921 Nobel Prize **strictly for the Law of the Photoelectric Effect** ($E_k = h\nu - \phi$). Relativity was omitted due to contemporary committee debates. |
+| **BrahMos Range & Category**| Calling BrahMos a ballistic missile or assuming its range was always 500 km. | BrahMos is a **supersonic cruise missile** (Mach 2.8–3.0). Its range was originally capped at **290 km** under MTCR guidelines, and only extended to **450–500 km** after India's MTCR entry in 2016. |
+| **Agni-V MIRV Test** | Confusing Agni-V's first launch with Mission Divyastra. | Agni-V was first test-fired in 2012. **Mission Divyastra (11 March 2024)** was specifically the maiden test of Agni-V equipped with **Multiple Independently Targetable Re-entry Vehicles (MIRV)**. |
+| **Pralay vs Prithvi** | Confusing Pralay with the older Prithvi missile. | Prithvi is a liquid-fueled ballistic missile developed in the 1980s under IGMDP. Pralay is a modern, solid-fueled **quasi-ballistic battlefield missile** (150–500 km) capable of evasive mid-course maneuvers. |
+| **Mitra Shakti vs Sampriti** | Confusing Mitra Shakti (Sri Lanka) with Sampriti (Bangladesh). | **Mitra Shakti** is strictly with **Sri Lanka**. **Sampriti** is with **Bangladesh**. **Maitree** is with **Thailand**. |
+| **Geostationary Altitude** | Confusing 35,786 km with 22,236 km. | The altitude is **$35,786\text{ km}$**, which equals **$22,236\text{ miles}$**. Must-Score stems deliberately swap units to trap candidates! |
+| **NavIC Orbit Breakdown** | Believing all 7 NavIC satellites are in geostationary orbits. | NavIC comprises **3 in Geostationary Orbit (GEO)** and **4 in inclined Geosynchronous Orbit (GSO)**. |
+| **First Indian Satellite** | Confusing Aryabhata with Rohini or APPLE. | **Aryabhata (1975)** was India's 1st artificial satellite (launched from USSR). **Rohini RS-1 (1980)** was India's 1st satellite launched by an indigenous Indian rocket (SLV-3). **APPLE (1981)** was India's 1st experimental geostationary communication satellite. |
+| **New START Expiry** | Believing New START is still active or valid until 2030. | New START **officially expired on 5 February 2026** without renewal. Russia suspended participation in February 2023. |
+| **NATO Membership Count** | Remembering NATO as having 30 members. | NATO now has **32 members** following Finland's accession (31st in 2023) and Sweden's accession (32nd on 7 March 2024). |
+| **Pycnocline vs Thermocline** | Confusing density gradient with temperature gradient in oceanography. | **Pycnocline** is strictly the zone of rapid **density** change. **Thermocline** is the zone of rapid **temperature** change. |
+| **National Science Day Date** | Assuming National Science Day marks Sir C.V. Raman's birthday. | National Science Day (**28 February**) marks the discovery of the **Raman Effect (1928)**. Raman's birthday was **7 November 1888**! |
+| **Polar Research Station Locations** | Placing Himadri in Antarctica or Bharati in the Arctic. | **Himadri** and **IndARC** are in the **Arctic (Svalbard, Norway)**. **Dakshin Gangotri, Maitri, and Bharati** are in **Antarctica**. |
+| **Nanotechnology in Nature** | Believing nanoparticles are exclusively synthetic and never occur naturally. | Interplanetary cosmic dust, volcanic aerosols, and biological viruses are natural nanoparticles. |
+| **OLED vs LCD Flexibility** | Assuming LCD screens can be woven into flexible clothing. | Only **OLED** can be fabricated on flexible plastic substrates and roll-up textiles; LCD requires rigid glass and backlights. |
+| **Fissile Materials: Hiroshima vs Nagasaki** | Confusing the core fissile materials of the 1945 atomic bombs. | **Little Boy** (Hiroshima) used **Uranium-235**. **Fat Man** (Nagasaki) used **Plutonium-239**. |
 
 ---
-
-| **Pycnocline vs Halocline vs Thermocline** | Pycnocline = Density gradient; Halocline = Salinity gradient; Thermocline = Temperature gradient. | Pycnocline governs water mass layering; all three clines often physically coincide in the oceanic upper column. |
-| **Dakshin Gangotri vs Maitri vs Bharati vs Himadri** | Dakshin Gangotri (1983, submerged), Maitri (1989), and Bharati (2012) are in **Antarctica**. **Himadri** (2008) is in the **Arctic** (Svalbard, Norway). | Antarctic bases are in the Southern Hemisphere; Himadri & IndARC are in the Northern Hemisphere (Norway). |
-| **LCD vs OLED** | LCD requires a liquid crystal mesophase with an external backlight; OLED uses self-emissive organic films. | Only OLED can produce **flexible, roll-up (clothing-embedded), and transparent** displays. |
-| **Quantum Well vs Wire vs Dot** | Well = 1D nano-confined (2D free); Wire = 2D nano-confined (1D free); Dot = 3D nano-confined (0D free, 1.5–10 nm). | Dots are zero-dimensional quantum structures with completely discrete, atom-like energy levels. |
-| **PUMA vs Manav vs Optimus** | PUMA = Industrial manipulation arm (Victor Scheinman, Unimation); Manav = India's 1st 3D-printed humanoid robot (A-SET, 2014); Optimus = Tesla humanoid robot (2022). | PUMA is an assembly robot arm; Manav and Optimus are bipedal humanoid robots. |
-| **Cybernetics vs Horology vs Tribology vs Geodesy** | Cybernetics = Control & communication in animals/machines; Horology = Time measurement; Tribology = Friction & lubrication; Geodesy = Earth's shape, gravity, & orientation. | Coined by Norbert Wiener in 1948, Cybernetics unites engineering, biology, and computation. |
-| **National Science Day (28 Feb) vs Raman Birthday (7 Nov)** | 28 Feb commemorates discovery of Raman Effect (1928); 7 Nov 1888 is Raman's birth date. | Must-Score traps frequently ask if National Science Day is Raman's birthday (False!). |
-| **Hiroshima Bomb ("Little Boy") vs Nagasaki Bomb ("Fat Man")** | Little Boy (6 Aug 1945) used **Uranium-235**; Fat Man (9 Aug 1945) used **Plutonium-239**. | Both bombs relied on nuclear fission discovered by Otto Hahn and Fritz Strassmann in 1939. |
-| **ICSSR vs CSIR / DST / DAE** | ICSSR = Indian Council of Social Science Research; CSIR / DST / DAE = Core Science & Technology departments. | ICSSR is strictly a social science funding agency, not related to natural science and technology. |
-
----
-
-</details>
 
 
 ---
@@ -146,7 +119,8 @@ hide:
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **DRDO Genesis & Motto:** Established in **1958** by amalgamating Technical Development Establishment (TDEs), DTDP, and Defence Science Organisation (DSO). Motto: ***"Balasya Mulam Vigyanam"*** ("The source of strength is science").
 2. **Integrated Guided Missile Development Programme (IGMDP):** Conceived by **Dr. A.P.J. Abdul Kalam** in 1983 and sanctioned on 26 July 1983; completed in March 2012. Developed five indigenous missile systems: **P-A-T-A-N** (Prithvi, Agni, Trishul, Akash, Nag).
@@ -199,8 +173,10 @@ hide:
 49. **Geostationary vs Geosynchronous Orbits:** Both have a 24-hour orbital period at **$35,786\text{ km}$ ($22,236\text{ miles}$)**. Geostationary is circular and strictly on the equatorial plane (stationary relative to Earth). Geosynchronous is inclined (figure-8 path).
 50. **NavIC (IRNSS):** Regional navigation satellite constellation covering India and **1,500 km** beyond its borders, using **7 satellites** (3 in Geostationary Orbit + 4 in Geosynchronous Orbit).
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
 | :--- | :--- | :--- |
@@ -229,7 +205,7 @@ hide:
 | **Hiroshima Bomb ("Little Boy") vs Nagasaki Bomb ("Fat Man")** | Little Boy (6 Aug 1945) used **Uranium-235**; Fat Man (9 Aug 1945) used **Plutonium-239**. | Both bombs relied on nuclear fission discovered by Otto Hahn and Fritz Strassmann in 1939. |
 | **ICSSR vs CSIR / DST / DAE** | ICSSR = Indian Council of Social Science Research; CSIR / DST / DAE = Core Science & Technology departments. | ICSSR is strictly a social science funding agency, not related to natural science and technology. |
 
----
+</details>
 
 ## Must-Score Master Tables
 

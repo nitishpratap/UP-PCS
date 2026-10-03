@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 19 — Acts & Governance</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Term A | Term B | Core Difference | Hindi Terminology |
 |--------|--------|-----------------|-------------------|
@@ -41,11 +39,7 @@ hide:
 | **PRAGATI** | **Digital India** | PMO monthly ICT review (**2015**) vs MeitY programme, **9 pillars** | प्रगति (समीक्षा मंच) / डिजिटल इंडिया |
 | **Conduct 1964** | **CCA 1965** | Behaviour / gifts / politics vs How to punish | आचरण नियम / अनुशासनात्मक नियम |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Act ↔ lock
 
@@ -127,18 +121,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Under the Disaster Management Act 2005, the NDMA is chaired by the Prime Minister, the SDMA by the Chief Minister, and the DDMA by the District Magistrate. The NEC is chaired by the Cabinet Secretary. The nodal ministry is Home.
+- **Exam Anchor:** 2025: "Accountability" is not a food-security dimension under NFSA. Consumers can bargain below the MRP. Adi Karmayogi (launched June) belongs to the Ministry of Tribal (आदिवासी) Affairs, not Mission Karmayogi.
+- **Exam Anchor:** 2024: NFSA covers 75%/50% (rural/urban (नगरीय)), and was not enforced on 5 July 2010. ICT-based e-governance reduces cost and increases citizen input — it does not cut transparency or add red-tape.
+- **Exam Anchor:** 2022: PESA was passed in 1996.
+- **Exam Anchor:** 2021: The NDMA (आपदा प्राधिकरण) is chaired by the PM. The ECO Mark denotes environment-safe goods. The Wages Code does not include Contract Labour.
+- **Exam Anchor:** 2019: MKSS is linked to RTI. NFSA's woman-head provision was also tested.
+- **Exam Anchor:** 2019–24 (running themes): the CPA, 2019; the RTI Amendment; the CAA's 2024 upholding; Mission Karmayogi (2020); the CBC (2021); and the lateral-entry debate (2018–24).
 - **Exam Anchor:** NDRF as a force is not the same as the National Disaster Response Fund. Do not swap the two.
-- **Exam Anchor:** The RTI Act 2005 (assent 15 June 2005; in force from 12 October 2005) grew from the MKSS campaign. The fee is ₹10 (BPL free). Reply is due in 30 days (48 hours if life or liberty is at stake). First appeal is 30 days; second appeal 90 days. Penalty can run ₹250 a day up to ₹25,000.
-- **Exam Anchor:** RTI section 22 makes RTI override the Official Secrets Act to that extent; it does not repeal the Official Secrets Act.
-- **Exam Anchor:** The RTE Act 2009 (in force 1 April 2010) covers ages 6–14. Neighbourhood norms are about 1 km (primary) and 3 km (upper primary). Private schools reserve 25% under section 12(1)(c). School Management Committees must be three-fourths parents. PTR is 1:30.
-- **Exam Anchor:** The National Food Security Act 2013 covers up to 75% of the rural and 50% of the urban population (जनसंख्या). Prices are ₹3 / ₹2 / ₹1 for rice, wheat, and coarse grains. Antyodaya gets 35 kg per household. A woman aged 18 or more is treated as household head. Do not date NFSA as 5 September 2010.
-- **Exam Anchor:** The Forest Rights Act 2006 starts recognition (मान्यता) at the Gram Sabha (ग्राम सभा). Eligible groups include Scheduled Tribes and Other Traditional Forest Dwellers with a 75-year occupation test as on 13 December 2005. Individual rights are capped around 4 hectares. The nodal ministry is Tribal Affairs.
-- **Exam Anchor:** The Protection of Human Rights Act 1993 has a one-year limitation for complaints. After the 2019 change, the NHRC (राष्ट्रीय मानव अधिकार आयोग) Chair must be a retired Supreme Court judge. NHRC recommendations are recommendatory.
-
-</details>
+- **Exam Anchor:** PESA 1996 (पेसा) (notified 24 December) extends Part IX (भाग IX) to Fifth Schedule (5वीं अनुसूची) areas in ten States. It strengthens Gram Sabha control over land, minor forest produce, minerals, and intoxicants. It does not apply where there is no Fifth Schedule area.
 
 ---
 

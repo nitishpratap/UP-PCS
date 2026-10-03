@@ -25,7 +25,8 @@
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Katyuri / Kattyuri** house (c. **740–1050 CE**) is the first historic (ऐतिहासिक) empire of Uttarakhand spanning Garhwal and Kumaon.
 2. First capital was **Joshimath (Kartikeyapura)** in the Alaknanda (अलकनंदा) valley; later capital was **Baijnath** in the fertile **Katyur valley** (Bageshwar (बागेश्वर)) on the Gomti.
@@ -50,6 +51,7 @@
 21. **Ishtaganadeva** = great unifier; **Lalitsuradeva** = greatest builder/Pandukeshwar reign — keep the pair separate.
 22. Successor states after Katyuri break-up: **Chand** at Champawat (चंपावत) (Kumaon) and **Parmar** at Chandpur Garhi (Garhwal).
 
+</details>
 
 ## Dynastic Lineage & Three Ruling Houses
 
@@ -113,7 +115,8 @@ Following the assassination of Bir Dev, Katyuri princes scattered across Kumaon,
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -123,7 +126,7 @@ Following the assassination of Bir Dev, Katyuri princes scattered across Kumaon,
 | **Bir Dev vs Somchand** | Bir Dev = **Last tyrannical Katyuri monarch**; Somchand = **Founder of Chand dynasty** in Kali Kumaon (Champawat). |
 | **Kottapala vs Doshaparadhika** | Kottapala = **Fort and pass commander**; Doshaparadhika = **Criminal detective/investigator**. |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

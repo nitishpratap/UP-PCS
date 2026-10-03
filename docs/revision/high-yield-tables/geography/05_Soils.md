@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 5 — Soils</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **19 Feb 2015** | Soil Health Card launched at **Suratgarh, Rajasthan**; slogan **Swasth Dharaa, Khet Haraa**; 2015 = International Year of Soils | Scheme–place–slogan | PIB |
+| **2022–23 onward** | SHC merged into RKVY as **Soil Health and Fertility** | New name vs old scheme | PIB / DA&FW |
+| **Jul 2025** | **>25 crore** Soil Health Cards distributed; card reports **12 parameters** (N,P,K,S, Zn,Fe,Cu,Mn,B, pH, EC, OC) | Numbers / parameters | PIB Aug 2025 |
+| Ongoing | **WDC–PMKSY 2.0** = watershed soil–water conservation (not a soil-type topic) | Scheme vs conservation method | Jal Shakti (शक्ति) / DA&FW |
+| Static | World Soil Day (विश्व मृदा दिवस) **5 December** (UN;) | Date trap vs 5 June | UN / PYQ |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -58,22 +68,6 @@ hide:
 | Seed modification vs fertility | Seed mod = **yield/pest resistance**, NOT soil fertility | Seed mod improves soil fertility | बीज सुधार ≠ मृदा उर्वरता |
 | Matasi vs Kanhar (CG) | Matasi = **red-yellow**, higher altitude, paddy; Kanhar = lower black clay | Swap | मटासी लाल-पीली; कन्हार काली |
 | Karewa vs alluvium | Karewa = **Kashmir lacustrine** (saffron) | Call it ordinary Gangetic alluvium | करेवा = कश्मीर |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **19 Feb 2015** | Soil Health Card launched at **Suratgarh, Rajasthan**; slogan **Swasth Dharaa, Khet Haraa**; 2015 = International Year of Soils | Scheme–place–slogan | PIB |
-| **2022–23 onward** | SHC merged into RKVY as **Soil Health and Fertility** | New name vs old scheme | PIB / DA&FW |
-| **Jul 2025** | **>25 crore** Soil Health Cards distributed; card reports **12 parameters** (N,P,K,S, Zn,Fe,Cu,Mn,B, pH, EC, OC) | Numbers / parameters | PIB Aug 2025 |
-| Ongoing | **WDC–PMKSY 2.0** = watershed soil–water conservation (not a soil-type topic) | Scheme vs conservation method | Jal Shakti (शक्ति) / DA&FW |
-| Static | World Soil Day (विश्व मृदा दिवस) **5 December** (UN;) | Date trap vs 5 June | UN / PYQ |
 
 ---
 
@@ -580,18 +574,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Ancient Indian names: Urvara = fertile and Usara = sterile. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock, and Time (CLORPT).
 - **Exam Anchor:** Edaphic means a soil factor — not climate, biotic, or topography. Residual / sedentary soils form on bedrock (regur, red). Transported / azonal soils are the alluvium of the plains.
-- **Exam Anchor:** World zonal pairs: Podzol = cold temperate woods; Chernozem = temperate steppe; Laterite = hot humid; Terra Rossa = limestone/dolomite weathering; Sierozem = mid-latitude desert.
-- **Exam Anchor:** Capillary action strongest in clay (Clay > silt/loam > sand). Halophytes = saline soils. Contour bunding = hill slopes, not desert margins or flood plains.
-- **Exam Anchor:** Profile downward is O → A (topsoil) → E → B → C → R. Eluviation washes material out of A/E; illuviation deposits it into B. Young khadar has weak horizons; mature residual soils show clear horizons.
-- **Exam Anchor:** The usual eight-type teaching set is Alluvial, Black / Regur, Red & Yellow, Laterite, Arid, Saline / Usara, Peaty, and Forest / Mountain.
-- **Exam Anchor:** Parent material pairs: crystalline rock → red; Cuddapah–Vindhyan → calcareous / clay; Gondwana → immature poor; Deccan Trap → regur; extra-peninsular sediment → alluvium. Climate can override rock — granite becomes laterite if wet, or sandy if arid.
 - **Exam Anchor:** Pedocal soils accumulate lime in arid tracts such as Rajasthan. Himalayan soils develop better on gentler north-facing slopes; many south faces are too steep.
-
-</details>
+- **Exam Anchor:** Alluvial is India’s largest soil group (about 33.5%–40%, covering ~11 lakh sq km). It is rich in potash, lime, and phosphoric acid, but poor in phosphorus, nitrogen, and humus. Uttar Pradesh is about 90% alluvial.
+- **Exam Anchor:** Khadar is new, fine, and fertile. Bangar is older, coarser, and has more kankar. Bhur is sandy ridges of the western Gangetic belt. Rarh is older West Bengal / Jharkhand fringe upland.
+- **Exam Anchor:** Bhabar (about 8–16 km) is pebble fans where streams disappear. Tarai (about 15–30 km) lies south, where streams re-emerge; it is moist and nitrogen-rich but phosphorus-poor.
+- **Exam Anchor:** Black / regur soils sit mainly on Deccan and Rajmahal Trap (fissure volcanic basalt); Tamil Nadu black may sit on gneiss / schist. Clay is often ≥62%, montmorillonite is the key clay, and cotton is the crop. Aliases: Tropical Black Earth / Tropical Chernozem. Black soil is not Himalayan.
+- **Exam Anchor:** Red / yellow soils form on ancient crystalline and metamorphic rocks (granite, gneiss). Colour comes from ferric oxides / iron diffusion; looks yellow in hydrated form. Covers ~8.7 lakh sq km.
+- **Exam Anchor:** Laterite was named by F. Buchanan in 1807 from Latin later (brick). Formed under high temperature and heavy rainfall with alternate wet and dry periods (intense leaching). Rich in iron and aluminium oxides, poor in nitrogen, lime, phosphorus, and humus. Most widespread in Kerala (Malabar coast) followed by Maharashtra.
 
 ---
 

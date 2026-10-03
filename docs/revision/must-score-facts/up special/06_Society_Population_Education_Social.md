@@ -11,84 +11,54 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 6 — Society, Demographics, Tribes, Education System and Social Development</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. As per Census 2011, the total population of Uttar Pradesh is **199,812,341** (~**19.98 Crore**).
-2. Uttar Pradesh accounts for **16.51% of the total population of India**.
-3. If UP were an independent nation, it would be the **5th most populous country in the world**.
-4. The **decadal population growth rate** of UP during 2001–2011 was **20.22%** (India: 17.70%).
-5. **Gautam Buddha Nagar (49.1%)** recorded the highest decadal growth rate in UP, while **Kanpur Nagar (9.9%)** recorded the lowest.
-6. The **population density** of Uttar Pradesh is **829 persons per square kilometer** (India: 382).
-7. **Ghaziabad (3,971 persons/km²)** has the highest population density, while **Lalitpur (242 persons/km²)** has the lowest.
-8. The **sex ratio** of Uttar Pradesh is **912 females per 1000 males** (India: 943).
-9. **Jaunpur (1,024)** has the highest sex ratio in UP, followed by Azamgarh (1,019) and Deoria (1,017).
-10. **Gautam Buddha Nagar (851)** has the lowest sex ratio in UP.
-11. The **child sex ratio (0–6 years)** in UP is **902** (India: 919).
-12. **Balrampur (950)** has the highest child sex ratio, while **Baghpat (841)** has the lowest.
-13. The **overall literacy rate** of Uttar Pradesh is **67.68%** (Male: 77.28%, Female: 57.18%).
-14. The gender gap in literacy in UP is **20.10%**.
-15. **Gautam Buddha Nagar (80.12%)** has the highest overall literacy rate in UP.
-16. **Kanpur Nagar (75.05%)** has the highest **female literacy rate** in UP.
-17. **Shravasti (46.74%)** has the lowest literacy rate in UP across all three metrics (Overall 46.74%, Male 57.16%, Female 34.78%).
-18. **77.73%** of UP's population resides in rural areas, while **22.27%** resides in urban areas.
-19. **Ghaziabad (67.6%)** has the highest percentage of urban population in UP.
-20. **Shravasti (96.54%)** has the highest percentage of rural population (and lowest urban percentage at 3.46%).
-21. **Prayagraj (59.54 Lakh)** is the most populous district in UP, while **Mahoba (8.75 Lakh)** is the least populous.
-22. The **Scheduled Caste (SC)** population of UP is **4.14 Crore**, constituting **20.69%** of the state's population.
-23. Uttar Pradesh has the **largest absolute SC population in India**.
-24. **Kaushambi (34.72%)** has the highest percentage of SC population in UP.
-25. **Sitapur (14.46 Lakh)** has the highest absolute number of Scheduled Castes in UP.
-26. **Baghpat** has both the lowest SC percentage (11.44%) and lowest SC count (1.49 Lakh) in UP.
-27. The **Scheduled Tribe (ST)** population of UP is **11.34 Lakh**, constituting only **0.57%** of the state's population.
-28. **Sonbhadra** has the highest tribal population in UP, both in absolute terms (3.85 Lakh) and percentage (**20.67%**).
-29. The **Tharu tribe** is the most populous scheduled tribe in Uttar Pradesh.
-30. The Tharu tribe inhabits the **Terai region** (Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Maharajganj).
-31. The Tharu tribe traditionally commemorates **Diwali as a day of mourning / sorrow (*Shoka Parva*)**.
-32. The **Bajhar festival** is celebrated by the **Tharu tribe**.
-33. The traditional wedding feast of the Tharu community is called **Lathmarva Bhoj**.
-34. The **Buxa (Bhoksa) tribe** is primarily concentrated in **Bijnor district**.
-35. The Buxa tribe reveres **Chamunda Devi** as their supreme deity.
-36. The **Sahariya tribe** is found exclusively in **Lalitpur district** in UP.
-37. The **Agariya tribe** (traditional iron smelters) is concentrated in **Sonbhadra district**.
-38. The **Kharwar tribe** performs the traditional **Karma dance** and is found in Sonbhadra, Mirzapur, and Chandauli.
-39. The **University of Allahabad**, established on **23 September 1887**, was historically renowned as the **"Oxford of the East"**.
-40. **Banaras Hindu University (BHU)** was founded in **1916** by **Pandit Madan Mohan Malaviya**.
-41. **Aligarh Muslim University (AMU)** evolved from the **MAO College**, founded in **1875** by **Sir Syed Ahmad Khan**.
-42. **Babasaheb Bhimrao Ambedkar University (BBAU)** is a Central University situated at **Lucknow** (est. 1996).
-43. **Indian Institute of Technology (IIT) Kanpur** was established in **1959** under the Kanpur Indo-American Program.
-44. The **Indian Institute of Management (IIM) Lucknow** was founded in **1984**.
-45. The **Central Drug Research Institute (CDRI)** is located at **Lucknow** (developed the contraceptive pill 'Saheli').
-46. The **Birbal Sahni Institute of Palaeosciences (BSIP)** is situated at **Lucknow**.
-47. The **Harish-Chandra Research Institute (HRI)**, dedicated to Mathematics and Theoretical Physics, is located at **Jhunsi, Prayagraj**.
-48. The **V.V. Giri National Labour Institute** is located at **Noida (Gautam Buddha Nagar)**.
-49. **King George's Medical University (KGMU)** and **SGPGIMS** are located at **Lucknow**.
-50. **Sampurnanand Sanskrit University** (Varanasi) traces its origin to the **Sanskrit College** established by **Jonathan Duncan in 1791**.
+1. **Gautam Buddha Nagar (49.1%)** recorded the highest decadal growth rate in UP, while **Kanpur Nagar (9.9%)** recorded the lowest.
+2. **Ghaziabad (3,971 persons/km²)** has the highest population density, while **Lalitpur (242 persons/km²)** has the lowest.
+3. **Jaunpur (1,024)** has the highest sex ratio in UP, followed by Azamgarh (1,019) and Deoria (1,017).
+4. **Gautam Buddha Nagar (851)** has the lowest sex ratio in UP.
+5. **Balrampur (950)** has the highest child sex ratio, while **Baghpat (841)** has the lowest.
+6. **Gautam Buddha Nagar (80.12%)** has the highest overall literacy rate in UP.
+7. **Kanpur Nagar (75.05%)** has the highest **female literacy rate** in UP.
+8. **Shravasti (46.74%)** has the lowest literacy rate in UP across all three metrics (Overall 46.74%, Male 57.16%, Female 34.78%).
+9. **77.73%** of UP's population resides in rural areas, while **22.27%** resides in urban areas.
+10. **Ghaziabad (67.6%)** has the highest percentage of urban population in UP.
+11. **Shravasti (96.54%)** has the highest percentage of rural population (and lowest urban percentage at 3.46%).
+12. **Prayagraj (59.54 Lakh)** is the most populous district in UP, while **Mahoba (8.75 Lakh)** is the least populous.
+13. **Kaushambi (34.72%)** has the highest percentage of SC population in UP.
+14. **Sitapur (14.46 Lakh)** has the highest absolute number of Scheduled Castes in UP.
+15. **Baghpat** has both the lowest SC percentage (11.44%) and lowest SC count (1.49 Lakh) in UP.
+16. **Sonbhadra** has the highest tribal population in UP, both in absolute terms (3.85 Lakh) and percentage (**20.67%**).
+17. **Banaras Hindu University (BHU)** was founded in **1916** by **Pandit Madan Mohan Malaviya**.
+18. **Aligarh Muslim University (AMU)** evolved from the **MAO College**, founded in **1875** by **Sir Syed Ahmad Khan**.
+19. **Babasaheb Bhimrao Ambedkar University (BBAU)** is a Central University situated at **Lucknow** (est. 1996).
+20. **Indian Institute of Technology (IIT) Kanpur** was established in **1959** under the Kanpur Indo-American Program.
+21. **King George's Medical University (KGMU)** and **SGPGIMS** are located at **Lucknow**.
+22. **Sampurnanand Sanskrit University** (Varanasi) traces its origin to the **Sanskrit College** established by **Jonathan Duncan in 1791**.
+23. **Total Population**: **199,812,341** (Males: 104,480,510; Females: 95,331,831).
+24. **Global Context**: If Uttar Pradesh were an independent sovereign nation, it would be the **fifth most populous country in the world** (surpassing Brazil, Pakistan, Nigeria, and Bangladesh).
+25. **Total Literacy Rate**: **67.68%** (improved from 56.27% in 2001).
+26. **Male Literacy**: **77.28%**; **Female Literacy**: **57.18%**.
+27. **Gender Literacy Gap**: **20.10%** (Male minus Female).
+28. **National Context**: Uttar Pradesh has the **highest absolute SC population of any state in India** (constituting ~20.5% of all Scheduled Castes in India). However, in terms of **percentage of state population**, **Punjab ranks #1** (31.9%), followed by Himachal Pradesh and West Bengal; UP ranks 4th by percentage.
+29. **Top SC Percentage Districts in UP**:
+30. **Kaushambi (34.72%)**
+31. **Top SC Absolute Population Districts in UP**:
+32. **Sitapur (14.46 Lakh)**
+33. **Top ST Districts in UP**:
+34. **Sonbhadra**: Accounts for **20.67% ST population** (3.85 Lakh tribals — highest both in count and percentage).
+35. **Lalitpur**: 5.86% (Sahariya tribe).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
-| :--- | :--- | :--- |
-| **Highest Overall Literacy (GB Nagar)** | **Highest Female Literacy (Kanpur Nagar)** | GB Nagar leads **overall literacy (80.1%)**; Kanpur Nagar leads **female literacy (75.05%)**. |
-| **Lowest Literacy Across Board (Shravasti)** | **Lowest Child Sex Ratio (Baghpat)** | Shravasti is the **literacy floor (46.7%)**; Baghpat is the **CSR floor (841)**. |
-| **Highest Sex Ratio (Jaunpur - 1024)** | **Highest Child Sex Ratio (Balrampur - 950)** | Jaunpur leads **overall sex ratio**; Balrampur leads **0–6 child sex ratio**. |
-| **Highest SC % (Kaushambi - 34.7%)** | **Highest SC Absolute Count (Sitapur - 14.46 L)** | Kaushambi has the **highest proportion**; Sitapur has the **highest headcount**. |
-| **National SC Count Leader (UP)** | **National SC Percentage Leader (Punjab)** | UP has the **most SC individuals (4.14 Cr)**; Punjab has the **highest SC percentage (31.9%)**. |
-| **Tharu Tribe (Terai / Lakhimpur)** | **Buxa Tribe (Bijnor)** | Tharus inhabit the **Terai belt**; Buxas are concentrated in **Bijnor**. |
-| **Sahariya Tribe (Lalitpur)** | **Agariya Tribe (Sonbhadra)** | Sahariyas live in **Lalitpur**; Agariyas (iron smelters) live in **Sonbhadra**. |
-| **Most Populous District (Prayagraj)** | **Largest Area District (Lakhimpur Kheri)** | Prayagraj has the **most people (59.5 L)**; Lakhimpur Kheri has the **most land (7680 km²)**. |
-| **Highest Density (Ghaziabad - 3971)** | **Lowest Density (Lalitpur - 242)** | Ghaziabad is the **most crowded**; Lalitpur is the **least crowded**. |
-| **MAO College (1875)** | **AMU Central University (1920)** | Founded by Sir Syed in **1875**; upgraded to university status in **1920**. |
-| **University of Allahabad (1887)** | **Central University Status (2005)** | Established in **1887**; declared an Institution of National Importance/Central Univ in **2005**. |
-| **HRI (Prayagraj)** | **V.V. Giri NLI (Noida)** | HRI is for **Maths/Physics** in Prayagraj; NLI is for **Labour studies** in Noida. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 
 
 ---

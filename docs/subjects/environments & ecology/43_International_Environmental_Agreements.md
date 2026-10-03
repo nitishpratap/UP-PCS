@@ -21,7 +21,8 @@ UNFCCC (यूएनएफसीसीसी) | Kyoto (क्योटो) Proto
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The climate ladder is **UNFCCC 1992 → Kyoto 1997 → Paris 2015**.
 2. **Kyoto** (क्योटो) set binding targets mainly for **Annex-I** parties. **Paris** uses universal **NDCs** for all parties.
@@ -48,9 +49,10 @@ UNFCCC (यूएनएफसीसीसी) | Kyoto (क्योटो) Proto
 23. Paris NDCs are nationally determined. Kyoto Annex-I targets were top-down binding for listed developed parties.
 24. Bonn Convention means **CMS**, not the UNFCCC Bonn secretariat alone.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -60,7 +62,8 @@ UNFCCC (यूएनएफसीसीसी) | Kyoto (क्योटो) Proto
 | **Stockholm Convention (2001)** | **Minamata Convention (2013)** | Mandates global elimination and phase-out of Persistent Organic Pollutants (POPs - "Dirty Dozen") vs protects human health and environment from anthropogenic emissions of toxic mercury (Hg) | स्टॉकहोम (पीओपी कीटनाशक) / मिनामाता (पारा नियंत्रण) |
 | **Ramsar Convention (1971)** | **CITES (1973)** | Intergovernmental treaty dedicated specifically to the conservation and wise use of wetlands of international importance vs treaty controlling illegal commercial wildlife trade | रामसर कन्वेंशन (आर्द्रभूमि) / साइट्स (वन्यजीव व्यापार) |
 | **Stockholm Conference (1972)** | **Rio Earth Summit (1992)** | UN Conference on the Human Environment that led to creation of UNEP vs UN Conference on Environment & Development giving birth to Agenda 21, CBD, UNFCCC, and UNCCD | स्टॉकहोम सम्मेलन 1972 / रियो पृथ्वी शिखर सम्मेलन 1992 |
----
+
+</details>
 
 ## Must-score facts — UNFCCC Kyoto Paris CBD Basel
 

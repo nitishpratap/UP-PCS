@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 7 — Wildlife Conservation (वन्यजीव संरक्षण)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Wildlife Protection Act 1972** | **Biological Diversity Act 2002** | Focuses on species protection, hunting bans, protected area network, and trade schedules (MoEFCC/WCCB) vs focuses on sovereign rights over biological resources, fair & equitable benefit sharing (ABS), and traditional knowledge protection (NBA/SBB/BMC) | वन्यजीव संरक्षण अधिनियम 1972 / जैव विविधता अधिनियम 2002 |
 | **Central Zoo Authority (CZA)** | **National Board for Wildlife (NBWL)** | Statutory body under WPA Sec 38A overseeing standards, recognition, and animal exchanges in Indian zoos vs apex advisory body chaired by the Prime Minister framing national wildlife policies and approving PA boundary alterations | केंद्रीय चिड़ियाघर प्राधिकरण / राष्ट्रीय वन्यजीव बोर्ड (NBWL) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Law / schedules
 
@@ -114,18 +108,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Wildlife conservation protects species and habitats, with in-situ (स्थान पर) primary and ex-situ (स्थानांतरित) as backup.
-- **Exam Anchor:** Major threats include habitat (वास स्थान) loss, poaching, human–wildlife conflict, invasive species (आक्रामक विदेशी प्रजाति), and veterinary diclofenac (डाइक्लोफेनाक) for vultures.
-- **Exam Anchor:** The Wildlife (Protection) Act, 1972 followed the Stockholm moment and uses six Schedules. Schedule I is maximum protection.
-- **Exam Anchor:** Schedule I facts include tiger, elephant, rhino, gharial, and vultures among frequently asked species. A Schedule I tortoise enjoys the same protection level as the tiger.
 - **Exam Anchor:** Schedule VI plants cannot be cultivated without a licence from the Chief Wildlife Warden (or authorised officer) — not “banned under all circumstances.”
-- **Exam Anchor:** The Chief Wildlife Warden is the State implementing officer. NBWL is the PM-chaired national advisory body.
 - **Exam Anchor:** NTCA became statutory through the 2005/2006 WPA amendments and governs Tiger Reserves only.
 - **Exam Anchor:** Project Tiger (प्रोजेक्ट टाइगर) began in 1973. Corbett was the first tiger reserve. India has 58 tiger reserves. The 2022 census figure often cited is 3,682 tigers.
-
-</details>
+- **Exam Anchor:** Project Elephant (प्रोजेक्ट एलीफेंट) began in 1992 with about 33 elephant reserves and no WPA statutory basis — it covers wild and captive elephants.
+- **Exam Anchor:** Project Lion (2020) focuses on Asiatic lions at Gir (गीर), Gujarat. Uttar Pradesh (उत्तर प्रदेश) has no wild Asiatic lion population (जनसंख्या).
+- **Exam Anchor:** IRV 2020 planned rhino recovery across seven PAs, including Dudhwa (दुधवा) in Uttar Pradesh.
+- **Exam Anchor:** Project Snow Leopard (2009) and GSLEP (2013) cover high Himalaya (हिमालय). UP has no snow leopard habitat.
+- **Exam Anchor:** Operation Olivia is an Indian Coast Guard (तटरक्षक बल) nesting patrol on the Odisha (ओडिशा) coast.
 
 ---
 

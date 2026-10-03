@@ -5,7 +5,8 @@
 
 ---
 
-## Consolidated — 24 Must-Score Facts (Committees & Commissions)
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts (Committees & Commissions)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Santhanam Committee (1962–64):** Formed on Prevention of Corruption; recommended the establishment of the **Central Vigilance Commission (CVC, 1964)**.
 2. **Swaran Singh Committee (1976):** Recommended inclusion of **Fundamental Duties** (मौलिक कर्तव्य) (Part IVA, Art 51A) incorporated by the **42nd (42वां) Amendment Act 1976**. *(Note: Recommended 8 duties; 10 were added in 1976; 11th added in 2002 via 86th Amd).*
@@ -34,9 +35,10 @@
     - **1st ARC (प्रथम एआरसी) (1966):** Chaired by **Morarji Desai (आमिल)** (later K. Hanumanthaiah); recommended Lokpal (लोकपाल) and Lokayukta (लोकायुक्त).
     - **2nd ARC (द्वितीय एआरसी) (2005):** Chaired by **Veerappa Moily** (later V. Ramachandran); submitted 15 reports on ethics, RTI, and crisis management.
 
----
+</details>
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Committee A | Committee B | Critical Distinction (UPPCS / UKPCS Traps) |
 | :--- | :--- | :--- |
@@ -49,7 +51,7 @@
 | **L. M. Singhvi (1986)** | **G. V. K. Rao (1985)** | L. M. Singhvi = **Constitutional status for Panchayats**; G. V. K. Rao = **District level / "Grass without roots" warning**. |
 | **Tarkunde (1974)** | **Swaran Singh (1976)** | Tarkunde = **Voting age 18**; Swaran Singh = **Fundamental Duties**. |
 
----
+</details>
 
 ## 1. Centre-State Relations & Governance
 

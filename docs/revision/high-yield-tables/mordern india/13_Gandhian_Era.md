@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 13 — Gandhian Era (1915–1948)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -38,11 +36,7 @@ hide:
 | August Offer 1940 | Cripps Mission 1942 | Linlithgow's dominion-after-war + minority veto vs Cripps's Constituent Assembly + provincial opt-out | अगस्त प्रस्ताव / क्रिप्स मिशन |
 | Individual Satyagraha 1940 | Civil Disobedience 1930–34 | One person at a time, symbolic vs mass nationwide defiance | व्यक्तिगत सत्याग्रह / सविनय अवज्ञा |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Year ↔ event fact
 
@@ -204,18 +198,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Gandhi founded the Natal Indian Congress (कांग्रेस) (1894), ran Indian Opinion, and wrote Hind Swaraj (हिंद स्वराज) (1909) before returning to India in 1915. Gokhale (गोखले) was his political guru (गुरु).
 - **Exam Anchor:** Champaran 1917 fought the tinkathia (तीनकठिया प्रथा) indigo (नील) system (3/20); Raj Kumar Shukla brought Gandhi. This is Gandhi’s first satyagraha in India.
 - **Exam Anchor:** Kheda 1918 sought revenue remission (Patel). Ahmedabad mill strike 1918 (Anasuya Sarabhai) saw Gandhi’s first fast in India.
-- **Exam Anchor:** The Rowlatt Act (1919) and Jallianwala Bagh (13 April 1919, Dyer, Amritsar (अमृतसर)) opened the all-India protest climate.
 - **Exam Anchor:** Hunter Committee 1919 (हंटर कमेटी 1919) inquired into the Punjab firing. It is not the Hunter Commission 1882 (हंटर आयोग 1882) on education.
-- **Exam Anchor:** After Jallianwala, Tagore returned his knighthood. Sankaran Nair (शंकरन नायर) resigned from the Viceroy (वायसराय)’s Executive Council.
 - **Exam Anchor:** Non-Cooperation — Cause: Rowlatt–Jallianwala shock plus Khilafat grievance after Ottoman defeat. Course: launched Calcutta special (Sep 1920) / Nagpur (Dec 1920); boycott of titles, schools, courts; paired with Khilafat. Result: withdrawn after Chauri Chaura (5 Feb 1922); constructive work and council-entry debate follow.
 - **Exam Anchor:** Chauri Chaura (5 February 1922, Gorakhpur) led Gandhi to withdraw NCM. Belgaum 1924 is Gandhi’s only Congress presidentship.
-
-</details>
+- **Exam Anchor:** Gaya (Dec 1922) split No-changers (stay out; constructive work) from Pro-changers/Swarajists (enter councils and obstruct).
+- **Exam Anchor:** Lahore 1929 (लाहौर) (Nehru) declared Purna Swaraj; the pledge day was 26 January 1930. Dominion status (डोमिनियन) and complete independence are different goals.
+- **Exam Anchor:** Gandhi’s Eleven Points (Jan 1930) were an ultimatum to Irwin (इरविन). They are not Jinnah’s Fourteen Points (1929).
 
 ---
 

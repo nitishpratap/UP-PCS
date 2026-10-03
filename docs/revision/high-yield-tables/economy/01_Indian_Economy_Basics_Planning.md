@@ -11,9 +11,22 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Indian Economy Basics Planning</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **2026 (MoSPI)** | New National Accounts series with base year **2022–23** (released **27 Feb 2026**); replaces **2011–12**. | Real GDP uses 2022–23 prices; do not quote 2011–12 as current base. |
+| **2025 (NITI FHI)** | **Fiscal Health Index 2025** (FY **2022–23**): **Odisha** topped major States; **Uttar Pradesh** scored **45.9** (7th). | NITI index ranking + UP score stems. |
+| **2025 (UKPCS)** | NITI set up by **Cabinet resolution**; date is **1 Jan 2015** (not 2014); Chairperson is the **Prime Minister** (not President). | Only the resolution statement stands. |
+| **2025 (UKPCS)** | **11th Plan** keyed for **inclusive growth**. | 12th adds sustainable; do not swap. |
+| **2024** | India = **underdeveloped / developing** (textbook structure) + **mixed economy**. Keynes ≠ “Father of Economics”. | Adam Smith is the classical father tag. |
+| **2024** | Development = living standards / welfare; **per capita income growth alone is not enough**. | Growth ≠ development A/R. |
+| **2023 (UPPCS)** | **Voluntary social service** is **not** an economic activity. | Farming / transport / service are. |
+| **2015+** | **DMEO** (18 Sep 2015) is an attached office of **NITI Aayog** (PEO + IEO merged). | Monitor/evaluate GoI programmes — not PMO / Cabinet Secretariat. |
+
+---
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -46,25 +59,6 @@ hide:
 | **Naoroji** | **V.K.R.V. Rao** | First NI estimate vs first scientific NI |
 | **High COR** | **Low COR** | High capital per output slows growth despite savings |
 | **Gadgil–Mukherjee** | **Finance Commission formula** | Plan assistance weights (pop. 60%) vs tax-devolution FC |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2026 (MoSPI)** | New National Accounts series with base year **2022–23** (released **27 Feb 2026**); replaces **2011–12**. | Real GDP uses 2022–23 prices; do not quote 2011–12 as current base. |
-| **2025 (NITI FHI)** | **Fiscal Health Index 2025** (FY **2022–23**): **Odisha** topped major States; **Uttar Pradesh** scored **45.9** (7th). | NITI index ranking + UP score stems. |
-| **2025 (UKPCS)** | NITI set up by **Cabinet resolution**; date is **1 Jan 2015** (not 2014); Chairperson is the **Prime Minister** (not President). | Only the resolution statement stands. |
-| **2025 (UKPCS)** | **11th Plan** keyed for **inclusive growth**. | 12th adds sustainable; do not swap. |
-| **2024** | India = **underdeveloped / developing** (textbook structure) + **mixed economy**. Keynes ≠ “Father of Economics”. | Adam Smith is the classical father tag. |
-| **2024** | Development = living standards / welfare; **per capita income growth alone is not enough**. | Growth ≠ development A/R. |
-| **2023 (UPPCS)** | **Voluntary social service** is **not** an economic activity. | Farming / transport / service are. |
-| **2015+** | **DMEO** (18 Sep 2015) is an attached office of **NITI Aayog** (PEO + IEO merged). | Monitor/evaluate GoI programmes — not PMO / Cabinet Secretariat. |
 
 ---
 
@@ -147,18 +141,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** India is a mixed economy — public and private sectors coexist. The balance shifted toward markets after 1991, but public enterprise did not vanish.
-- **Exam Anchor:** Standard school texts still call India an underdeveloped / developing economy on structural grounds (low per capita income historically, large agri workforce share, poverty / underemployment, technology gaps) even while absolute GDP size is large.
 - **Exam Anchor:** Adam Smith is commonly called the Father of Economics. J.M. Keynes is the father of modern macroeconomics, not the blanket “Father of Economics” tag.
-- **Exam Anchor:** India is also keyed as a labour-surplus economy (large workforce at low wages) — not capital-surplus or trade-surplus.
-- **Exam Anchor:** Underdeveloped traits that decide stems: low per capita income and low capital formation. Low dependency ratio and a tertiary-heavy workforce are developed-economy tags.
 - **Exam Anchor:** Voluntary social service is not an economic activity; farming, transport and market services are.
 - **Exam Anchor:** Economic growth is a rise in real output / real income. The best single sign among options is a sustained rise in real per capita income.
 - **Exam Anchor:** Economic development is broader — living standards, welfare, health, education, inequality and poverty outcomes.
-
-</details>
+- **Exam Anchor:** Hindu rate of growth (Prof. Raj Krishna) = stagnant National Income / GDP growth around ~3.5% from the 1950s to early 1980s.
+- **Exam Anchor:** GDP is the market value of all final goods and services produced within the domestic territory in a period.
+- **Exam Anchor:** GNP / GNI adjusts domestic product for net factor income from abroad (NFIA): roughly GNP = GDP + NFIA.
+- **Exam Anchor:** NDP = GDP − depreciation (never GDP + depreciation). NNP = GNP − depreciation. Also NNP = GDP + NFIA − depreciation.
 
 ---
 

@@ -75,7 +75,8 @@ D. India
 ---
 
 
-## Consolidated — 31 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 31 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Transport moves people and goods; communication moves information. About **95%** of India’s trade by **volume** moves by sea.
 2. India’s first passenger train ran **Mumbai–Thane in 1853**. Indian Railways is organised into about **18 zones** (older books still say 16).
@@ -110,9 +111,10 @@ D. India
 30. **Deendayal (Kandla)** is a tidal / gulf port on the west; **Ennore / Kamarajar** is a major east-coast port near Chennai. Do not swap west- and east-coast port lists.
 31. Communication basics: postal / telecom move information; optical fibre uses **TIR**. Do not treat transport and communication as the same word.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -137,7 +139,7 @@ D. India
 | NH vs rural roads | NH ~**2%** length but ~**40%** traffic | Think NH = most km | राष्ट्रीय राजमार्ग |
 | Silchar spelling | EW corridor = **Silchar / Silcher** Assam | Mix with Shillong | सिलचर |
 
----
+</details>
 
 ## Must-score facts — rail, road, ports, waterways
 

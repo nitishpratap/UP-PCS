@@ -15,7 +15,8 @@ Books and Authors | History (इतिहास) Books | Books on Freedom Moveme
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. ***Anandamath*** (**1882**) is by **Bankim Chandra Chattopadhyay** and carries **Vande Mataram**. It is not the national anthem.
 2. ***Neel Darpan** (नील दर्पण)* (**1860**) is **Dinabandhu Mitra (मित्र)’s** indigo (नील) play. Do not give it to Bankim.
@@ -46,9 +47,10 @@ Books and Authors | History (इतिहास) Books | Books on Freedom Moveme
 27. A book written **in** 1901 about the drain is a **primary tract**. A book written **about** that age decades later is **historiography** — never match Naoroji to Bipan Chandra titles.
 28. Highest-yield drill set: syllabus eight (*Anandamath, Poverty…, Hind Swaraj, Discovery, India Wins Freedom, Gita Rahasya, Gulamgiri, Annihilation*) → match-four (Lajpat / Tilak / Banerjee / Azad) → twin traps → Bhojpuri four (*Firangiya, Batohiya, Bidesiya, Achhut Kee Shikayat*).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -66,7 +68,7 @@ Books and Authors | History (इतिहास) Books | Books on Freedom Moveme
 | Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
 | The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
 
----
+</details>
 
 ## Must-score facts — author ↔ definitive book
 

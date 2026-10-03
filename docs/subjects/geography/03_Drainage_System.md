@@ -41,7 +41,8 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 ---
 
 
-## Consolidated — 48 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 48 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. About **77%** of India’s drainage **area** faces the **Bay of Bengal**, about **23%** faces the **Arabian Sea**, and inland basins cover about **8%** of area. Over **90% of river water** still goes to the Bay of Bengal.
 2. Water-share fact: **Brahmaputra about 40%**, **Ganga about 25%**, **Godavari about 6%**. Brahmaputra leads water volume; Ganga leads Indian basin area.
@@ -94,10 +95,10 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 47. **Gandikota Canyon & S.P. Chatterjee Division:** The spectacular Gandikota canyon ("Grand Canyon of India") in Kadapa (AP) was carved by the **Pennar River**. In S.P. Chatterjee's physiographic division, the Mahanadi Basin is classified under the **Northern Deccan Plateau**.
 48. **Key City Riverbank Anchors:** **Kanpur** is the largest city on the Ganga; **Uttarkashi** is on the Bhagirathi (before Ganga forms); **Leh** is on the **right bank** of the Indus; **Pahalgam** is on the **Lidder**; **Hampi** is on the **Tungabhadra** (not Malaprabha); **Pandharpur** is on the **Chandrabhaga (Bhima)**; **Govindghat** is on the **Alaknanda / Lakshman Ganga** (not Mandakini).
 
+</details>
 
----
-
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -123,6 +124,8 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 ---
 
 ![Drainage System of India — Master Value Added Material](images/ch3_00_drainage_overview_sheet.png)
+
+</details>
 
 ## Must-score facts — basins, types, dam–river
 

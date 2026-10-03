@@ -11,9 +11,22 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 8 — Minerals, Energy & Industry</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **2023** | Li inferred resources **Reasi, J&K**; India import-dependent for **Li, Ni, Co** | Frozen 2023 Q77 | MoM / PYQ |
+| **2023** | Union list (संघ सूची) of **24 critical minerals** (Li, Ni, Co, REE, graphite, etc.) | Scheme/list trap | Ministry of Mines |
+| **2023–26** | **Critical Minerals Mission** + auction of critical-mineral blocks | Living CA | PIB / MoM |
+| **2015 / 2025** | **ISA**: India+France, HQ **Gurugram**; **not 38 members**; **OSOWOG** under ISA | 2019 Q63 + 2025 Q109 | ISA / MEA |
+| **Jan 2026** | US announced withdrawal from ISA; ISA continues with **120+** members | Member-count trap | MEA / ET |
+| **2018** | Major solar plant **Mirzapur (मिर्ज़ापुर) (UP)** with **France** | UP energy PYQ | 2020 Q46 |
+| **DFC** | **Western** Dadri (ददरी)–JNPT; **Eastern** Ludhiana–Dankuni — phased commissioning | Corridor syllabus | DFCCIL |
+| **Nuclear** | Kakrapar / Kudankulam expansion; **Narora = only UP** plant | Plant–state | NPCIL |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -58,25 +71,6 @@ hide:
 | Anthracite India | Scarce; **J&K** pockets | Call it India’s bulk coal | एन्थ्रेसाइट ≠ मुख्य |
 | Lignite home | **Neyveli (TN)** (+ RJ / GJ) | Call Neyveli bituminous Gondwana | नेयवेली = लिग्नाइट |
 | Bituminous share | ~**80%** deposits; mostly **non-coking** | Call most Indian coal anthracite / coking | अधिकतर नॉन-कोकिंग |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2023** | Li inferred resources **Reasi, J&K**; India import-dependent for **Li, Ni, Co** | Frozen 2023 Q77 | MoM / PYQ |
-| **2023** | Union list (संघ सूची) of **24 critical minerals** (Li, Ni, Co, REE, graphite, etc.) | Scheme/list trap | Ministry of Mines |
-| **2023–26** | **Critical Minerals Mission** + auction of critical-mineral blocks | Living CA | PIB / MoM |
-| **2015 / 2025** | **ISA**: India+France, HQ **Gurugram**; **not 38 members**; **OSOWOG** under ISA | 2019 Q63 + 2025 Q109 | ISA / MEA |
-| **Jan 2026** | US announced withdrawal from ISA; ISA continues with **120+** members | Member-count trap | MEA / ET |
-| **2018** | Major solar plant **Mirzapur (मिर्ज़ापुर) (UP)** with **France** | UP energy PYQ | 2020 Q46 |
-| **DFC** | **Western** Dadri (ददरी)–JNPT; **Eastern** Ludhiana–Dankuni — phased commissioning | Corridor syllabus | DFCCIL |
-| **Nuclear** | Kakrapar / Kudankulam expansion; **Narora = only UP** plant | Plant–state | NPCIL |
 
 ---
 
@@ -752,18 +746,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Most of India’s mineral wealth lies east of the Mangalore–Kanpur (कानपुर) line. The northern plains are almost empty of major ores. Chota Nagpur is the richest mineral belt and is often called India’s Ruhr. Dharwar rocks are the metallic storehouse; Gondwana holds nearly all coal.
-- **Exam Anchor:** India is poor in many non-ferrous metals but rich in bauxite. Mica’s classic dielectric belt is Koderma–Gaya (गया)–Hazaribagh in Jharkhand.
-- **Exam Anchor:** As per the Ministry of Mines Annual Report 2021–22, the leading iron-ore states are Odisha and Chhattisgarh. Jharkhand and Karnataka do not always lead.
-- **Exam Anchor:** Iron-ore mine–state pairs are Gurumahisani (Odisha), Bailadila (Chhattisgarh), Noamundi (Jharkhand), and Kudremukh (Karnataka). Mount Newman in Australia is famous for iron, not manganese.
-- **Exam Anchor:** The four (चातुर्याम) main iron belts are the Odisha–Jharkhand belt, the Durg–Bastar–Chandrapur belt, the Ballari–Chitradurga belt, and the Maharashtra–Goa (गोवा) belt.
-- **Exam Anchor:** Manganese leaders include Odisha, Maharashtra and Madhya Pradesh. Postmasburg in South Africa is a manganese centre. Bhilwara is mica and zinc (Rampura-Agucha), not manganese.
-- **Exam Anchor:** Bauxite feeds aluminium and often sits with laterite (लेटराइट). Odisha leads (Panchpatmali). MALCO is at Mettur, Tamil Nadu (नाडु), not Chennai. HINDALCO is at Renukoot, Uttar Pradesh (उत्तर प्रदेश). BALCO is at Korba; NALCO at Damanjodi/Angul.
-- **Exam Anchor:** Copper centres are Khetri (Rajasthan), Singhbhum (Jharkhand) and Malanjkhand (Madhya Pradesh). Panna (Madhya Pradesh) is diamond. Sukinda (Odisha) is chromite. Zawar and Rampura-Agucha (Bhilwara) are zinc–lead.
-
-</details>
+- **Exam Anchor:** Methane is the main gas in natural gas and CNG. LPG is propane–butane and is not the same as CNG. The Black Revolution means petroleum, not oilseeds.
+- **Exam Anchor:** Hematite has the largest iron-ore reserve volume in India among ore types.
+- **Exam Anchor:** Nathra-ki-Pal / Thoor–Hunder (Udaipur (उदयपुर)) is the Rajasthan iron centre.
+- **Exam Anchor:** Chiria (West Singhbhum) is an iron-mining centre.
+- **Exam Anchor:** Ballari and Chitradurga belong to the Karnataka iron belt.
+- **Exam Anchor:** Mount Newman in Australia is famous for iron ore.
+- **Exam Anchor:** Makrana (Nagaur, Rajasthan) supplies India’s best marble (Taj Mahal (ताज महल) / Victoria Memorial); marble is metamorphic (recrystallised limestone).
+- **Exam Anchor:** Coking coal makes metallurgical coke for blast furnaces. Jharia (Jharkhand) is the main coking field.
 
 ---
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 1 — Constitutional Development</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -55,11 +53,7 @@ hide:
 | Calligrapher vs Drafting Chair | **Prem Behari Narain Raizada** (calligrapher) vs **Ambedkar** (Drafting Chair) | Say Ambedkar calligraphed the manuscript | रायज़ादा = सुलेखक |
 | English vs Hindi Calligrapher | **Prem Behari Narain Raizada** (English) vs **Vasant Krishan Vaidya** (Hindi) | Assume same person wrote both | अंग्रेज़ी = रायज़ादा; हिंदी = वैद्य |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Act ↔ year / lock
 
@@ -301,18 +295,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Regulating Act, 1773 created the Governor-General (गवर्नर-जनरल) of Bengal (Warren Hastings (वारेन)) and a Supreme Court at Calcutta in 1774. It did not create the Governor-General of India.
-- **Exam Anchor:** The Charter Act, 1833 made the Governor-General of Bengal the Governor-General of India; William Bentinck (बेंटिंक) was the first holder of that title.
-- **Exam Anchor:** Under Pitt’s India Act, 1784, the Board of Control handled political affairs and the Court of Directors handled commercial affairs. Do not swap the two.
-- **Exam Anchor:** The Act of 1786 let the Governor-General overrule his Council on safety/peace grounds; Lord Cornwallis was the first Governor-General who was also Commander-in-Chief.
-- **Exam Anchor:** Open competitive examination for the ICS was implemented under the Charter Act, 1853. The 1833 Act only carried the spirit of open competition.
-- **Exam Anchor:** The Charter Act, 1813 ended the Company’s trade monopoly except tea and China trade, and set aside ₹1 lakh for education. Territory and revenue stayed with the Company for another 20 years.
-- **Exam Anchor:** The Government of India Act, 1858 ended Company rule. The Crown took over; a Secretary of State and a Viceroy (वायसराय) replaced Company control. Lord Canning was the first Viceroy (कैनिंग).
-- **Exam Anchor:** The portfolio system got legal recognition (मान्यता) under the Indian Councils Act, 1861 (practice had begun around 1859). Do not fact it to 1858, 1892, or 1909.
-
-</details>
+- **Exam Anchor:** Muslim separate electorates began with the Indian Councils Act, 1909 (Morley–Minto). The Communal Award of 1932 was not the first such device.
+- **Exam Anchor:** S.P. Sinha was the first Indian member of the Viceroy’s Executive Council under the 1909 reforms.
+- **Exam Anchor:** C. Rajagopalachari was the first Indian Governor-General (1948–50). Mountbatten was the last British Governor-General, not the first Indian one.
+- **Exam Anchor:** Supreme Court at Calcutta was established in 1774; first Chief Justice was Sir Elijah Impey (not Lemaister).
+- **Exam Anchor:** Board of Control handled political / territorial matters; Court of Directors handled commercial matters.
+- **Exam Anchor:** Lord Cornwallis was the first Governor-General to enjoy both powers.
+- **Exam Anchor:** ₹1 lakh annually was granted for education / revival of literature and science.
+- **Exam Anchor:** General Committee of Public Instruction (1823) administered the ₹1 lakh grant.
 
 ---
 

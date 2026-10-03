@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 24 — Current Environmental Issues</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Green Finance** | **Greenwashing** | Structured financial investments, bonds, and banking loans directed specifically towards environmentally sustainable development and clean energy projects vs deceptive marketing, publicity, or PR spin falsely exaggerating a company's environmental credentials and sustainability | हरित वित्त (टिकाऊ निवेश) / ग्रीनवॉशिंग (झूठा पर्यावरण प्रचार) |
 | **Mission LiFE (2022)** | **Lifestyle for Environment** | Global citizen movement launched in October 2022 at Kevadia by PM Modi and UN Secretary-General mobilizing individuals to become 'Pro-Planet People' (P3) through 75 actionable behavioral changes vs abstract corporate environmental pledges | मिशन लाइफ (LiFE, P3 नागरिक आंदोलन) / जीवनशैली पर्यावरण |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Markets / targets
 
@@ -146,18 +140,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Microplastics are plastic fragments smaller than 5 mm. Primary sources include microbeads; secondary sources come from larger plastic breaking down. They are not “fast biodegradable.”
-- **Exam Anchor:** Microplastics enter food webs from plankton to fish to humans. India’s identified single-use plastic bans tightened around 2022. UN plastics treaty talks (INC) also run from that period.
-- **Exam Anchor:** One carbon credit equals 1 tonne of CO₂-equivalent reduced, removed, or avoided. Kyoto (क्योटो)’s CDM produced CERs; voluntary markets use standards such as Verra and Gold Standard.
 - **Exam Anchor:** Carbon trading is the market that buys and sells allowances or credits (cap-and-trade). The EU ETS is the largest compliance market. India’s CCTS (2023) under the Energy Conservation Act line is steered with BEE.
 - **Exam Anchor:** PAT creates energy-efficiency certificates (ESCerts). PAT is not identical to carbon credits under CCTS.
 - **Exam Anchor:** Green Credit Programme (2023) rewards eco-actions. It is not the same instrument as a carbon credit.
 - **Exam Anchor:** Net zero means anthropogenic emissions balanced by removals. India’s target is 2070 (COP26 Glasgow 2021). China is often locked at 2060; EU/UK at 2050. Net zero is not gross zero.
-- **Exam Anchor:** India’s NDC track includes cutting emission intensity and raising non-fossil capacity share toward the 2030 horizon (including the ~50% non-fossil capacity language in later updates).
-
-</details>
+- **Exam Anchor:** Green finance is capital for climate and environment (पर्यावरण) projects — green bonds, climate funds, GCF. India issued Sovereign Green Bonds in FY 2022–23; SEBI’s Green Bond Framework is 2023.
+- **Exam Anchor:** Blue economy is sustainable ocean and coastal use — fisheries, ports, tourism, offshore renewables — aligned with SDG 14. Blue carbon (नीला कार्बन) is carbon stored in mangroves and seagrass.
+- **Exam Anchor:** MISHTI (2023 Budget) restores mangroves and sits beside Sagarmala and Deep Ocean Mission in the blue–coastal policy neighbourhood.
 
 ---
 

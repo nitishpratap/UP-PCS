@@ -11,64 +11,80 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 14 — Elections</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Article 324** gives the Election Commission superintendence over elections to Parliament, State legislatures, the President, and the Vice-President. It does **not** cover the Speaker’s election inside the House or Panchayat/ULB polls (those are **SEC**).
 2. **Article 327** lets Parliament make election law; **Article 328** lets States legislate subject to Parliament. **RPA 1950** covers rolls, seats, and delimitation machinery; **RPA 1951** covers conduct, nominations, corrupt practices, and petitions.
-3. Bye-elections are ordinarily held within **six months**, but may be skipped if the remainder of the term is less than **one year**.
-4. **Article 326** is universal adult suffrage. The voting age moved from **21 to 18** by the **61st Amendment (1988)**, in force from **1989**. **Article 325** creates one general electoral roll and forbids communal rolls.
-5. A person in prison under a sentence of imprisonment generally **cannot vote** under RPA section **62(5)**. A person in **preventive detention** may still be able to vote — do not collapse the two.
-6. **First Past the Post** elects the Lok Sabha (लोकसभा) and Vidhan Sabhas: most votes win, not proportional representation. Double-member constituencies ended in **1961**. Lok Sabha elected strength is **543**; Anglo-Indian nomination under **331** ended with the **104th Amendment**.
-7. **Proportional Representation by Single Transferable Vote** is used for the **President, Vice-President, Rajya Sabha (राज्यसभा), and Legislative Councils**. Rajya Sabha party voting uses an **open ballot (2003)**; President and Vice-President use a **secret** ballot.
-8. An MLA’s vote value for the Presidential election uses the **1971** population (जनसंख्या) formula: State population ÷ (elected MLAs × **1000**). Keep 1971 as the freeze year in that formula.
-9. The **Model Code of Conduct** is an Election Commission **convention**, not a statute. It starts from announcement of the schedule. The **48-hour silence** period is both MCC practice and statutory under RPA section **126**.
-10. **National Voters’ Day** is **25 January** — the day the Election Commission was founded in **1950**. The first National Voters’ Day was celebrated in **2011**.
-11. The **Delimitation Commission** is a **statutory** body separate from the Election Commission, even if the CEC sits on it. Major Delimitation Acts include **1952, 1962, 1972, and 2002**.
-12. The **42nd (42वां) Amendment** froze Lok Sabha seat allocation on the **1971** census until **2000**. The **84th Amendment** extended the freeze until the first census after **2026**. The **87th Amendment** allowed redrawing on the **2001** census **without** changing State-wise Lok Sabha totals.
-13. A delimitation order has the force of law, and **Article 329** bars courts from questioning delimitation. Election petitions for House seats also live under the **329** bar-and-petition scheme.
-14. **Article 330** reserves Lok Sabha seats for SC/ST; **332** does the same for Assemblies. All voters in that constituency vote; only SC/ST candidates contest the reserved seat.
-15. The **104th Amendment (2019)** extended SC/ST reservation to **25 January 2030** and **ended** Anglo-Indian nomination in the Lok Sabha and Assemblies. The **106th Amendment (2023)** reserves **one-third** of seats for women in the Lok Sabha and Assemblies, but only **after** the next delimitation.
-16. Uttar Pradesh (उत्तर प्रदेश) has the largest Lok Sabha contingent (**80** seats) and an Assembly of **403**. Local body polls in UP are run by the **UP State Election Commission**, not the ECI.
-17. Political party **registration** is under RPA section **29A**. **Recognition** as a national or State party follows the **Symbols Order, 1968**. National-party tests include vote share across States or Lok Sabha seat share thresholds.
-18. Anti-defection is in the **10th Schedule**, inserted by the **52nd Amendment (1985)**. The **91st Amendment (2003)** removed the one-third split escape and kept merger only at **two-thirds** (ते-भागा). The Speaker decides; *Kihoto Hollohan* allows limited judicial review.
-19. A recognised party may name up to **40** star campaigners; an unrecognised party may name **20** (RPA section **77** expenditure rules).
-20. An election petition for an MP or MLA goes to the **High Court** within **45 days**. Appeal lies to the Supreme Court. Corrupt practices are listed in RPA section **123**. President/VP election disputes stay under **Article 71**.
-21. **EVMs** were first used in Kerala in **1982** and covered all booths by **2004**. They are made by **BEL** and **ECIL**. **VVPAT** was first used at **Noksen (Nagaland) on 4 September 2013** and nationwide by **2019**; the Supreme Court required verification of **five** VVPAT slips per Assembly constituency.
-22. **NOTA** came from *PUCL* (**2013**). NOTA does **not** force a re-poll even if it “wins.”
-23. A useful chronology fact is **EVM (1982) → EPIC (1993) → VVPAT → NOTA**. Keep the order; do not invent a reverse sequence.
-24. India ran **simultaneous** elections from **1951–67**. The Kovind panel (**2023–24**) studied a return; implementing it would need changes around Articles such as **83, 85, 172, and 174**. It is **not yet law**.
-25. **Electoral bonds** (2018 scheme) were **struck down** by the Supreme Court in **February 2024**. Do not treat the scheme as still valid.
-26. Free and fair elections are part of the Constitution’s basic electoral design through **324–329**, adult suffrage, one roll, and independent machinery. Delimitation freezes and reserved seats are separate but related facts.
-27. The Election Commission’s multi-member form and the CEC’s harder removal protect independence, but day-to-day election law still comes from the **RPAs** and Rules — Article **324** is not a blank cheque to ignore statute.
-28. Reserved constituencies change only through delimitation and constitutional extension dates. Women’s reservation under the **106th** waits for post-census delimitation; SC/ST reservation currently runs to **2030** under the **104th**.
+3. **Article 326** is universal adult suffrage. The voting age moved from **21 to 18** by the **61st Amendment (1988)**, in force from **1989**. **Article 325** creates one general electoral roll and forbids communal rolls.
+4. **First Past the Post** elects the Lok Sabha (लोकसभा) and Vidhan Sabhas: most votes win, not proportional representation. Double-member constituencies ended in **1961**. Lok Sabha elected strength is **543**; Anglo-Indian nomination under **331** ended with the **104th Amendment**.
+5. **Proportional Representation by Single Transferable Vote** is used for the **President, Vice-President, Rajya Sabha (राज्यसभा), and Legislative Councils**. Rajya Sabha party voting uses an **open ballot (2003)**; President and Vice-President use a **secret** ballot.
+6. **National Voters’ Day** is **25 January** — the day the Election Commission was founded in **1950**. The first National Voters’ Day was celebrated in **2011**.
+7. **Article 330** reserves Lok Sabha seats for SC/ST; **332** does the same for Assemblies. All voters in that constituency vote; only SC/ST candidates contest the reserved seat.
+8. **EVMs** were first used in Kerala in **1982** and covered all booths by **2004**. They are made by **BEL** and **ECIL**. **VVPAT** was first used at **Noksen (Nagaland) on 4 September 2013** and nationwide by **2019**; the Supreme Court required verification of **five** VVPAT slips per Assembly constituency.
+9. **NOTA** came from *PUCL* (**2013**). NOTA does **not** force a re-poll even if it “wins.”
+10. **Electoral bonds** (2018 scheme) were **struck down** by the Supreme Court in **February 2024**. Do not treat the scheme as still valid.
+11. **Disputes** of President/VP election — **Art. 71 SC**.
+12. **Draw** constituencies — **Delimitation Commission**.
+13. **Age:** Originally **21**. **61st Amendment, 1988** (in force **28 Mar 1989**) → **18** (2021).
+14. **Contrast:1935 Act** = limited (property / tax / literacy). **UAF from the first LS** — women included from 1951–52; no property test.
+15. **Vote ≠ contest:** Vote at **18** (326). Contest LS **25** / RS **30** / Assembly **25** (Arts. **84 / 173**).
+16. **Who:** Citizen of India + **ordinarily resident** in the constituency + not disqualified. **No** plural voting.
+17. **325:One** general electoral roll for every territorial constituency. **No** special roll on religion / race / caste / sex.
+18. **Disqualify (vote):** Non-citizen · unsound mind as declared · corrupt practices / other RPA disqualifications.
+19. **s.62(5) RPA 1951:** Person in **prison / lawful custody** of police **cannot vote** (even if on the roll). **Preventive detention** is the usual exception.
+20. **Service / overseas:** Service voters (forces, diplomats) — postal / proxy as rules allow. Overseas electors can **enrol**; default is still to vote in the constituency unless a special postal scheme is notified.
+21. **Why India kept it:** Simple ballot; stable single-party majorities historically.
+22. **Cost:** Winner can have a **minority** of votes · “wasted” votes · smaller parties under-represented.
+23. **Origin:** Tried **1960** (Kerala); evolved; **T.N. Seshan** (1990–96) made it bite.
+24. **When:** From the **date ECI announces** the election programme till results.
+25. **Hits:** Ministers: no combining official tour with campaign; no new grants / transfers / foundation stones that influence voters; no using official machinery / aircraft for party work.
+26. **Silence:48 hours** before poll close — MCC **ands.126 RPA 1951** (statutory ban on public meeting / display / TV-radio election matter). s.126 is **law**; MCC is **not**.
+27. **Officials:** Transfers of key officers freeze; observers watch.
+28. **Why that date:ECI constituted 25 Jan 1950** (before the Republic).
+29. **Job:** Enrolment drive · SVEEP · EPIC distribution events.
+30. **2025 pair:** “National Voters’ Day — 25 January” is **correctly** matched. Constitution Day is **26 November**, not 27 Jan.
+31. **Acts:1952 · 1962 · 1972 · 2002** (orders implemented **2008**, 2001 census).
+32. **Typical chair:** Retired **Supreme Court** judge (2002 Commission: **Justice Kuldip Singh**); ECI members ex officio; Associate members (MPs) **without vote**.
+33. **Force:** Order published in Gazette = **law**. **Art. 329** + the Act: **cannot** be questioned in a court.
+34. **Why freeze:42nd** rationale = do not punish States that cut fertility — **1971** census as the base.
+35. **Freeze of seat numbers:42nd** used **1971** census and froze till 2000 → **84th (2001)** froze State-wise LS/Assembly **totals** till the first census after **2026** (**Art. 81(3) / 170**).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **ECI** | **SEC** | Parliament, State Houses, President, VP | PRI + ULB only (**243K/ZA**) |
-| **ECI** | **Delimitation Commission** | Conducts polls (324) | Statutory panel that **draws** seats |
-| **RPA 1950** | **RPA 1951** | Rolls, seats, delimitation machinery | Conduct, corrupt practices, petitions |
-| **FPTP** | **PR-STV** | LS / Assembly | President, VP, RS, Councils |
-| **325** | **326** | One roll; no communal electoral roll | Adult suffrage (age) |
-| **330/332** | **331/333** | SC/ST reserved *constituencies* | Anglo-Indian *nomination* — **ended 104th** |
-| **MCC** | **s.126 RPA** | ECI convention | Statutory 48-hour ban |
-| **327** | **328** | Parliament’s election law | State law, **subject to** 327 |
-| **General election** | **Bye-election** | Whole House | Casual vacancy (6 months / skip if <1y) |
-| **Registration (29A)** | **Recognition** | Any association → RUPP | National / State party (Symbols Order) |
-| **Reserved symbol** | **Free symbol** | Recognised parties | RUPP / independents |
-| **NOTA** | **Re-poll** | Button; result still the highest candidate | Booth cancelled / countermanded |
-| **EVM** | **VVPAT** | Records the vote | Paper slip the voter sees |
-| **Election petition** | **Art. 71** | LS/Assembly → **HC** | President/VP → **SC** |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| ECI elects the Speaker / runs municipal polls | **House** / **SEC** (2024) |
+| ECI = Delimitation Commission | **Separate** statute; CEC may *sit* |
+| Voting age cut by 62nd / 86th | **61st** (2021) |
+| UAF = Article 324 | **326**. 324 = superintendence |
+| LS uses PR | **FPTP**. PR-STV = President/VP/RS/Councils |
+| President elected by FPTP | **PR-STV** (MLA vote-value uses 1971 population) |
+| MCC is an Act | **Convention** + 324. The 48-hour **statute** is **s.126 RPA** |
+| RS election is secret like the President | Party vote = **open ballot (2003)** |
+| Bye-poll always within 6 months | Skip if remainder of term **< 1 year** |
+| 95th still the last word on 334 | **104th** carried SC/ST quota to **2030** |
+| Voters’ Day = 26 January | **25 January** (ECI’s birthday) |
+| Constitution Day = 27 January | **26 November** |
+| Delimitation order can be stayed like a statute in HC | **329** bar |
+| 84th froze internal boundaries forever | Froze **State-wise totals**; **87th** redrew on 2001 |
+| Anglo-Indians still nominated to LS | **104th ended** it |
+| 106th already applied in 2024 LS | **After** next delimitation |
+| Prisoners vote if their names are on the roll | **s.62(5)** — custody blocks the vote |
+| 7th Lok Sabha = 1982 | **1980** (2022) |
+| Registration = national party | **s.29A** only registers; recognition is **Symbols Order** |
+| 1/3 split still saves defectors | **91st deleted** it; merger = **2/3** |
+| NOTA wins → re-poll | **No** — highest candidate still elected |
+| VVPAT first in 2019 | First **Noksen 2013**; nationwide 2019 |
+| EPIC before EVM | **EVM 1982**, EPIC **1993** (2025) |
+| Election petition in SC first | **HC**; President/VP = **71** |
+| Star campaigners = 40 for every party | **40** recognised / **20** unrecognised |
+| Electoral bonds still valid | **SC 2024** struck down |
+| Simultaneous polls by ECI circular | Needs **83/85/172/174** |
+
+---
 
 
 ---

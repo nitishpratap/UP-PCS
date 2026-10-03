@@ -21,7 +21,8 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Headquarters map: **Kolkata** — BSI and ZSI; **Dehradun** (देहरादून) — FSI, FRI, and WII; **New Delhi** — NBPGR; **Chennai** — NBA.
 2. **BSI (1890, Kolkata)** surveys **plants** (*Flora* (वनस्पति), plant Red Data Book (रेड डेटा बुक)). **ZSI (1916, Kolkata)** surveys **animals** (*Fauna* (प्राणीजात), animal Red Data Book).
@@ -48,9 +49,10 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 23. Match institution → city before matching function. Wrong city is enough to kill a match list.
 24. Dehradun trio: FSI (cover/ISFR), FRI (research), WII (wildlife). Keep the three jobs separate.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -60,7 +62,8 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 | **National Bureau of Plant Genetic Resources (NBPGR)** | **National Bureau of Agricultural Insect Resources (NBAIR)** | Nodal ICAR organization (HQ: New Delhi) managing the National Gene Bank preserving orthodox seeds and germplasm of food and agricultural crops vs premier ICAR research bureau (HQ: Bengaluru) dedicated to insect taxonomy, molecular characterization, and biocontrol insect resources | राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो (NBPGR, दिल्ली) / कृषि कीट संसाधन ब्यूरो (NBAIR, बेंगलुरु) |
 | **Wildlife Institute of India (WII)** | **Indira Gandhi National Forest Academy (IGNFA)** | Autonomous scientific research and training institute under MoEFCC (HQ: Dehradun) conducting wildlife ecological research and Tiger Census vs premier apex staff college (HQ: Dehradun) providing two-year professional induction training to directly recruited Indian Forest Service (IFS) officers | भारतीय वन्यजीव संस्थान (WII, अनुसंधान) / इंदिरा गांधी राष्ट्रीय वन अकादमी (IGNFA, IFS प्रशिक्षण) |
 | **India State of Forest Report (ISFR)** | **Basic Animal Husbandry Statistics** | Biennial statutory publication by Forest Survey of India (FSI, Dehradun) reporting state-wise forest cover, tree cover, mangrove cover, and forest carbon stocks vs annual publication by Ministry of Fisheries, Animal Husbandry & Dairying reporting livestock census, milk, egg, and meat production | भारत वन स्थिति रिपोर्ट (ISFR, द्विवार्षिक) / बुनियादी पशुपालन सांख्यिकी (वार्षिक) |
----
+
+</details>
 
 ## Must-score facts — BSI ZSI FSI NBA NBPGR
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 20 — Biodiversity Conservation Methods</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Sacred Groves** | **Biosphere Reserves** | Community-protected virgin forest patches preserved through traditional spiritual beliefs and religious taboos (e.g. Deorais, Orans, Kavu, Law Kyntang) vs modern scientific statutory conservation landscape demarcated by government under UNESCO MAB | पवित्र उपवन (पारंपरिक संरक्षण) / जैवमंडल आरक्षित क्षेत्र (वैज्ञानिक प्रारूप) |
 | **National Bureau of Plant Genetic Resources (NBPGR)** | **National Bureau of Animal Genetic Resources (NBAGR)** | Premier ICAR institute managing the National Gene Bank for agricultural crop and wild relative germplasm (HQ: New Delhi) vs premier ICAR institute maintaining registrations and genetic databases of indigenous livestock breeds (HQ: Karnal, Haryana) | एनबीपीजीआर (नई दिल्ली, पादप जीन बैंक) / एनबीएजीआर (करनाल, पशु आनुवंशिकी) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Methods
 
@@ -147,18 +141,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** In-situ (स्थान पर) conservation protects biodiversity in the natural habitat (वास स्थान). It is the preferred primary strategy because the whole ecosystem (पारिस्थितिकी तंत्र) and natural selection stay intact.
 - **Exam Anchor:** Ex-situ (स्थानांतरित) conservation protects biodiversity outside the natural habitat — zoos, botanic gardens, seed banks, gene banks, cryobanks. It is a backup, not a replacement for in-situ.
-- **Exam Anchor:** In-situ examples: National Park, Wildlife Sanctuary, Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र), Conservation/Community Reserve (सामुदायिक आरक्षित क्षेत्र), sacred grove, Ramsar (रामसर) wetland, wildlife corridor.
-- **Exam Anchor:** Ex-situ examples: zoo, botanical garden, seed bank, gene bank, captive breeding centre, tissue culture, cryopreservation (क्रायो-संरक्षण).
-- **Exam Anchor:** Four-way pattern: National Park and sacred grove are in-situ; zoo, seed bank, and botanic garden are ex-situ.
-- **Exam Anchor:** A gene bank stores genetic material broadly — seeds, DNA, tissue, pollen, sperm, embryos. A seed bank stores seeds only.
 - **Exam Anchor:** Orthodox seeds (सामान्य (रूढ़िवादी) बीज) (wheat, rice) tolerate drying and cold storage around −18°C. Recalcitrant seeds (कठिन (असहनीय) बीज) (mango, coconut) cannot take simple dry seed-bank storage and need living collections or cryo routes.
 - **Exam Anchor:** Cryopreservation stores material at about −196°C in liquid nitrogen.
-
-</details>
+- **Exam Anchor:** CZA is the statutory zoo regulator under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय).
+- **Exam Anchor:** In-situ conservation protects species where they naturally live, keeping habitat, food webs, pollinators, and competitors intact.
+- **Exam Anchor:** National Parks offer strict habitat protection under Wildlife (Protection) Act, 1972, with human activity restricted. Dudhwa NP (UP) is a Terai (तराई) in-situ example.
+- **Exam Anchor:** Wildlife Sanctuaries protect habitat with slightly more flexible human use than NPs but remain in-situ. Katerniaghat WLS (UP) protects gharial and Gangetic dolphin in natural rivers.
 
 ---
 

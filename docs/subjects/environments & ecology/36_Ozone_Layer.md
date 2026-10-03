@@ -21,7 +21,8 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Ozone (O₃)** is triatomic oxygen. **Good ozone** (अच्छा ओजोन) sits in the **stratosphere** (समतापमंडल) (about **15–30/35 km**). Ground-level ozone is a harmful pollutant.
 2. About **90%** of atmospheric ozone is in the **stratosphere**; about **10%** is in the **troposphere** (क्षोभमंडल).
@@ -58,9 +59,10 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 33. Formation of ozone is slower over polar regions, so depletion effects are strongest there.
 34. Acid rain (अम्ल वर्षा) is driven by **SO₂ / NOx**, not “nitric acid alone” as a matched pair with ozone–CFC style keys.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -70,7 +72,8 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 | **Chlorofluorocarbons (CFCs)** | **Hydrofluorocarbons (HFCs)** | Chlorine-bearing potent ozone depleters + GHGs (phased out under Montreal) vs zero ODP non-ozone-depleting refrigerants that are super greenhouse gases (phased down under Kigali) | सीएफसी (ओजोन क्षयकारी) / एचएफसी (ग्रीनहाउस गैस) |
 | **Ozone Depletion Potential (ODP)** | **Global Warming Potential (GWP)** | Measure of substance's ability to destroy O₃ relative to CFC-11 (=1.0) vs measure of heat-trapping efficiency relative to CO₂ (=1.0) over 100 years | ओजोन रिक्तीकरण क्षमता (ODP) / वैश्विक तापन क्षमता (GWP) |
 | **Dobson Unit (DU)** | **Parts Per Million (ppm)** | Standard measure of atmospheric column ozone thickness (1 DU = 0.01 mm at STP; normal = ~300 DU) vs concentration ratio of gases in volume | डॉबसन यूनिट (DU) / पीपीएम (ppm) |
----
+
+</details>
 
 ## Must-score facts — DU, ODS, Vienna–Montreal–Kigali
 

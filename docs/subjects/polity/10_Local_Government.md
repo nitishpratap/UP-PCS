@@ -30,7 +30,8 @@
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### 1. The Constitutional Skeleton
 | Feature | Panchayati Raj (Rural) | Urban Local Bodies |
@@ -78,9 +79,10 @@
 - **Ward Committee (Article 243S):** Mandatory in a municipality with population **≥ 3 lakh**. It is a committee of councillors — **not** an urban Gram Sabha (Part IXA has no urban Gram Sabha).
 - **First municipal corporation:** **Madras, 1688**; Bombay and Calcutta followed in **1726**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct Match / Focus | Hindi Terminology |
 |---|----|-----------------------|-------------------|
@@ -103,6 +105,8 @@
 | **64th / 65th Bills** | **73rd / 74th Acts** | Failed in RS vs passed & enacted local-government dual laws | 64वां विधेयक (विफल) / 73वां अधिनियम |
 | **Kshetra Panchayat** | **Panchayat Samiti** | UP intermediate name vs generic/other-State label | क्षेत्र पंचायत / पंचायत समिति |
 | **Part IXB co-ops** | **State cooperatives** | 97th insert; SC 2021 — IXB **inoperative for State co-ops** | भाग IXB (सहकारिता) |
+
+</details>
 
 ## Frame — why PRIs exist
 

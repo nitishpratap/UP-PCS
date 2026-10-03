@@ -11,88 +11,63 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 4 — Digestion, Respiration and Excretion</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Starch digestion begins in the **mouth (buccal cavity)**; salivary glands secrete **Ptyalin (Salivary Amylase)** at optimum pH 6.8, hydrolysing ~30% of dietary starch into the disaccharide **Maltose**; protein and fat digestion do **not** occur in the mouth.
-2. The adult human dental formula is **$\frac{2123}{2123} \times 2 = 32$** (2 Incisors, 1 Canine, 2 Premolars, 3 Molars per quadrant); milk / deciduous dental formula of children is **$\frac{2102}{2102} \times 2 = 20$** (**Premolars are completely absent in milk dentition**).
-3. **Tooth Enamel** is the **hardest substance in the human body**; secreted by specialized epithelial cells called **Ameloblasts**; composed of 96% inorganic mineral crystals of **Calcium Hydroxyapatite**; dentine is secreted by **Odontoblasts**.
-4. Protein digestion begins in the **stomach**; gastric chief (peptic) cells secrete inactive **Pepsinogen**, which is activated into **Pepsin** by **Hydrochloric Acid (HCl)** at a strongly acidic **pH of 1.5–2.0**.
-5. Gastric juice also contains **Rennin (Chymosin)** in infants, which coagulates soluble milk protein **Casein** into insoluble **Calcium Paracaseinate** in the presence of calcium ions; adults digest milk protein via pepsin.
-6. **Trypsin** and **Chymotrypsin** are proteolytic enzymes produced by the **pancreas** and active in the alkaline medium of the **small intestine**; they are **never secreted by the stomach**.
-7. Inactive pancreatic **Trypsinogen** is activated into active **Trypsin** by the brush-border enzyme **Enterokinase (Enteropeptidase)** secreted by the duodenal intestinal mucosa.
-8. The **Liver** is the **largest gland of the human body** (weighing 1.2–1.5 kg); synthesises and secretes **Bile**; stores glycogen, synthesises urea via the ornithine cycle, detoxifies drugs, and produces prothrombin and fibrinogen.
-9. **Bile contains NO digestive enzymes whatsoever**; contains bile salts (**Sodium Glycocholate and Sodium Taurocholate**) which **emulsify fats** (breaking large lipid globules into micro-droplets) and bile pigments (**Bilirubin and Biliverdin**).
-10. Bile is stored and concentrated up to 10-fold inside the **Gall Bladder**; removal of the gall bladder (cholecystectomy) does **not** stop bile production (bile continues to trickle directly from liver hepatocytes into the duodenum).
-11. Complete digestion of carbohydrates, proteins, and lipids terminates in the **Small Intestine (Duodenum, Jejunum, and Ileum)**; the small intestine is the longest segment of the alimentary canal (~6 metres).
-12. Intestinal mucosal projections called **Villi and Microvilli** expand the internal absorptive surface area of the small intestine by **over 600-fold**; each villus houses blood capillaries and a central lymphatic vessel called a **Lacteal**.
-13. Dietary fats are absorbed uniquely: fatty acids and monoglycerides form water-soluble **Micelles**, enter mucosal enterocytes, are re-esterified into triglycerides, coated with a protein jacket to form microscopic globules called **Chylomicrons**, and released into **Lacteals (Lymph)**, not directly into blood.
-14. Humans **cannot digest Cellulose** because the human digestive tract does not secrete the enzyme **Cellulase**; cellulose passes through the gut undigested as dietary fibre / roughage, providing mechanical bulk to stimulate peristalsis.
-15. The **Large Intestine** (Caecum, Colon, Rectum) does **not** secrete digestive enzymes; absorbs water, mineral salts, and certain drugs, and consolidates undigested residue into faeces.
-16. The **Epiglottis** is a cartilaginous elastic flap that covers the glottis (opening of the larynx/windpipe) during swallowing to prevent food boluses from entering the respiratory tract.
-17. The human vocal cords are housed inside the **Larynx (Voice Box)**; the prominent anterior projection of the thyroid cartilage in adult human males is called the **Adam's Apple**.
-18. The **Trachea (Windpipe)** is supported by 16–20 incomplete **C-shaped rings of Hyaline Cartilage** that prevent airway collapse during negative-pressure inspiration.
-19. Microscopic **Alveoli** (~300 million in human lungs) are the ultimate structural and functional units of gas exchange; alveolar walls are lined by simple squamous epithelium and wrapped in capillary networks.
-20. Quiet normal **Inspiration** is an active muscular process: contraction and downward flattening of the dome-shaped **Diaphragm** (increases vertical thoracic volume) coupled with contraction of **External Intercostal Muscles** (lifts ribs outward and upward); intra-alveolar pressure drops below atmospheric pressure, drawing air into lungs.
-21. Normal quiet **Expiration** is a passive process resulting from the elastic recoil of lungs and relaxation of the diaphragm and intercostal muscles.
-22. **Tidal Volume (TV)**: Volume of air inspired or expired during a normal quiet breath = **$\mathbf{\sim 500\text{ mL}}$** in healthy adults.
-23. **Inspiratory Reserve Volume (IRV)**: Extra volume inspired forcefully after normal tidal inspiration = $2500–3000\text{ mL}$.
-24. **Expiratory Reserve Volume (ERV)**: Extra volume expired forcefully after normal tidal expiration = $1000–1100\text{ mL}$.
-25. **Residual Volume (RV)**: Volume of air remaining permanently inside lungs even after maximal forced expiration = **$\mathbf{1100–1200\text{ mL}}$**; prevents alveolar collapse; **cannot be measured by a spirometer**.
-26. **Vital Capacity (VC)**: Maximum volume of air exhaled after maximal forced inspiration: $VC = TV + IRV + ERV \approx \mathbf{3500–4500\text{ mL}}$.
-27. **Oxygen Transport in Blood**: **$\mathbf{97\%}$ is transported bound to Haemoglobin as Oxyhaemoglobin** inside red blood cells; only **$\mathbf{3\%}$** is dissolved in blood plasma.
-28. Each molecule of haemoglobin ($Hb$) contains 4 iron atoms ($Fe^{2+}$) and can reversibly bind a maximum of **4 molecules of Oxygen ($O_2$)**.
-29. **Carbon Dioxide Transport in Blood**:
-30. **$\mathbf{\sim 70\%}$ is transported as Bicarbonate ions ($\mathbf{HCO_3^-}$)** dissolved in blood plasma.
-31. **$\mathbf{\sim 20–25\%}$ is transported bound to haemoglobin as Carbamino-haemoglobin**.
-32. **$\mathbf{\sim 7\%}$ is transported dissolved in blood plasma**.
-33. The conversion of $CO_2$ and $H_2O$ into carbonic acid ($H_2CO_3$) and bicarbonate inside RBCs is catalysed by the zinc-containing enzyme **Carbonic Anhydrase**; balanced by the inward migration of chloride ions from plasma into RBCs (**Chloride Shift / Hamburger Phenomenon**).
-34. **Bohr Effect**: Lowering of blood pH (acidosis) or elevated carbon dioxide tension ($pCO_2$) shifts the oxyhaemoglobin dissociation curve to the **right**, decreasing haemoglobin's oxygen affinity and promoting rapid unloading of oxygen to respiring tissues.
-35. **Carbon Monoxide ($CO$) Poisoning**: Carbon monoxide has an affinity for haemoglobin **$\mathbf{200–250\text{ times greater}}$ than oxygen**; forms extremely stable **Carboxyhaemoglobin ($COHb$)**, permanently blocking oxygen binding sites, causing severe cellular asphyxiation, tissue hypoxia, and cherry-red skin discoloration.
-36. **Regulation of Respiration**: Primary respiratory rhythm centre is located in the **Medulla Oblongata** of the brain stem; **Pneumotaxic centre** is in the **Pons Varolii**; central chemoreceptors are exquisitely sensitive to arterial **excess of $\mathbf{CO_2}$ and Hydrogen ions ($\mathbf{H^+}$)**, **not to low oxygen**.
-37. Aerobic cellular respiration yields **36 or 38 molecules of ATP** per oxidized glucose molecule: Glycolysis in cytoplasm (net 2 ATP + 2 NADH) $\rightarrow$ Link reaction in mitochondrial matrix (2 NADH) $\rightarrow$ Krebs Cycle in mitochondrial matrix (2 ATP + 6 NADH + 2 FADH2) $\rightarrow$ Electron Transport System (ETS) on inner mitochondrial cristae.
-38. Anaerobic glycolysis in over-exerted skeletal muscles produces **Lactic Acid**; accumulation causes acute muscle fatigue and cramp; lactic acid is transported via bloodstream to the liver and resynthesised into glucose via the **Cori Cycle**.
-39. Nitrogenous excretion types:
-40. **Ammonotelic**: Excrete highly toxic **Ammonia** requiring copious water ($300–500\text{ mL/g}$); e.g. bony fish, aquatic amphibians (tadpoles), aquatic invertebrates.
-41. **Ureotelic**: Excrete less toxic **Urea**; synthesised in the liver via the **Ornithine Cycle / Krebs-Henseleit Cycle** from ammonia and $CO_2$; e.g. mammals, adult amphibians, marine sharks.
-42. **Uricotelic**: Excrete non-toxic, insoluble **Uric Acid** as a semi-solid paste/pellet with minimal water loss; e.g. birds, terrestrial reptiles, insects, land snails.
-43. The structural and functional filtration unit of the human kidney is the **Nephron** (~1 to 1.2 million nephrons per kidney).
-44. **Malpighian Body (Renal Corpuscle)**: Composed of a tuft of capillaries called the **Glomerulus** encased inside a double-walled cup called **Bowman's Capsule**.
-45. **Ultrafiltration**: Glomerular capillary blood pressure forces water, glucose, amino acids, ions, and urea across the trilaminar filtration membrane into Bowman's capsule, forming **Glomerular Filtrate (180 litres/day; GFR = 125 mL/min)**; blood cells and plasma proteins (albumin) are retained.
-46. **Selective Reabsorption in the Proximal Convoluted Tubule (PCT)**: PCT is lined by simple cuboidal brush-border epithelium with microvilli; **reabsorbs $\mathbf{70–80\%}$ of all filtered water and electrolytes, and $\mathbf{100\%}$ of filtered glucose and amino acids** via active transport.
-47. **Loop of Henle & Counter-Current Multiplier**: Hairpin loop maintaining high osmotic medullary gradient; descending limb is permeable to water and impermeable to salts; ascending limb is impermeable to water and actively pumps out NaCl; operates alongside **Vasa Recta** to produce concentrated hypertonic urine.
-48. **Hormonal Regulation of Excretion**:
-49. **Antidiuretic Hormone (ADH / Vasopressin)**: Secreted by posterior pituitary; acts on DCT and collecting ducts to insert aquaporins, promoting water reabsorption; deficiency causes **Diabetes Insipidus** (profuse dilute urine).
-50. **Renin-Angiotensin-Aldosterone System (RAAS)**: Juxtaglomerular apparatus (JGA) releases **Renin** in response to low blood pressure; renin converts angiotensinogen $\rightarrow$ angiotensin-I $\rightarrow$ angiotensin-II (powerful vasoconstrictor); stimulates adrenal cortex to release **Aldosterone**, increasing $Na^+$ and water reabsorption.
-51. **Atrial Natriuretic Factor (ANF)**: Secreted by heart atria in response to high blood pressure; promotes sodium excretion (natriuresis) and vasodilation, antagonising RAAS.
-52. Normal human urine is slightly acidic (**pH $\mathbf{\sim 6.0}$**); pale yellow colour is due to the pigment **Urochrome** (derived from the metabolic breakdown of haemoglobin).
-53. **Renal Calculi (Kidney Stones)**: Solid crystalline deposits formed inside renal pelvis and calyces, primarily composed of insoluble **Calcium Oxalate ($CaC_2O_4$)** crystals.
-54. **Gout**: Painful metabolic arthritis caused by the deposition of sharp **Monosodium Urate / Uric Acid crystals** in synovial joints (most commonly the metatarsophalangeal joint of the big toe) due to hyperuricaemia.
+1. **Tooth Enamel** is the **hardest substance in the human body**; secreted by specialized epithelial cells called **Ameloblasts**; composed of 96% inorganic mineral crystals of **Calcium Hydroxyapatite**; dentine is secreted by **Odontoblasts**.
+2. **Trypsin** and **Chymotrypsin** are proteolytic enzymes produced by the **pancreas** and active in the alkaline medium of the **small intestine**; they are **never secreted by the stomach**.
+3. **Bile contains NO digestive enzymes whatsoever**; contains bile salts (**Sodium Glycocholate and Sodium Taurocholate**) which **emulsify fats** (breaking large lipid globules into micro-droplets) and bile pigments (**Bilirubin and Biliverdin**).
+4. **Tidal Volume (TV)**: Volume of air inspired or expired during a normal quiet breath = **$\mathbf{\sim 500\text{ mL}}$** in healthy adults.
+5. **Inspiratory Reserve Volume (IRV)**: Extra volume inspired forcefully after normal tidal inspiration = $2500–3000\text{ mL}$.
+6. **Expiratory Reserve Volume (ERV)**: Extra volume expired forcefully after normal tidal expiration = $1000–1100\text{ mL}$.
+7. **Residual Volume (RV)**: Volume of air remaining permanently inside lungs even after maximal forced expiration = **$\mathbf{1100–1200\text{ mL}}$**; prevents alveolar collapse; **cannot be measured by a spirometer**.
+8. **Vital Capacity (VC)**: Maximum volume of air exhaled after maximal forced inspiration: $VC = TV + IRV + ERV \approx \mathbf{3500–4500\text{ mL}}$.
+9. **Oxygen Transport in Blood**: **$\mathbf{97\%}$ is transported bound to Haemoglobin as Oxyhaemoglobin** inside red blood cells; only **$\mathbf{3\%}$** is dissolved in blood plasma.
+10. **Carbon Dioxide Transport in Blood**:
+11. **$\mathbf{\sim 70\%}$ is transported as Bicarbonate ions ($\mathbf{HCO_3^-}$)** dissolved in blood plasma.
+12. **$\mathbf{\sim 20–25\%}$ is transported bound to haemoglobin as Carbamino-haemoglobin**.
+13. **$\mathbf{\sim 7\%}$ is transported dissolved in blood plasma**.
+14. **Bohr Effect**: Lowering of blood pH (acidosis) or elevated carbon dioxide tension ($pCO_2$) shifts the oxyhaemoglobin dissociation curve to the **right**, decreasing haemoglobin's oxygen affinity and promoting rapid unloading of oxygen to respiring tissues.
+15. **Carbon Monoxide ($CO$) Poisoning**: Carbon monoxide has an affinity for haemoglobin **$\mathbf{200–250\text{ times greater}}$ than oxygen**; forms extremely stable **Carboxyhaemoglobin ($COHb$)**, permanently blocking oxygen binding sites, causing severe cellular asphyxiation, tissue hypoxia, and cherry-red skin discoloration.
+16. **Regulation of Respiration**: Primary respiratory rhythm centre is located in the **Medulla Oblongata** of the brain stem; **Pneumotaxic centre** is in the **Pons Varolii**; central chemoreceptors are exquisitely sensitive to arterial **excess of $\mathbf{CO_2}$ and Hydrogen ions ($\mathbf{H^+}$)**, **not to low oxygen**.
+17. **Ammonotelic**: Excrete highly toxic **Ammonia** requiring copious water ($300–500\text{ mL/g}$); e.g. bony fish, aquatic amphibians (tadpoles), aquatic invertebrates.
+18. **Ureotelic**: Excrete less toxic **Urea**; synthesised in the liver via the **Ornithine Cycle / Krebs-Henseleit Cycle** from ammonia and $CO_2$; e.g. mammals, adult amphibians, marine sharks.
+19. **Uricotelic**: Excrete non-toxic, insoluble **Uric Acid** as a semi-solid paste/pellet with minimal water loss; e.g. birds, terrestrial reptiles, insects, land snails.
+20. **Malpighian Body (Renal Corpuscle)**: Composed of a tuft of capillaries called the **Glomerulus** encased inside a double-walled cup called **Bowman's Capsule**.
+21. **Ultrafiltration**: Glomerular capillary blood pressure forces water, glucose, amino acids, ions, and urea across the trilaminar filtration membrane into Bowman's capsule, forming **Glomerular Filtrate (180 litres/day; GFR = 125 mL/min)**; blood cells and plasma proteins (albumin) are retained.
+22. **Selective Reabsorption in the Proximal Convoluted Tubule (PCT)**: PCT is lined by simple cuboidal brush-border epithelium with microvilli; **reabsorbs $\mathbf{70–80\%}$ of all filtered water and electrolytes, and $\mathbf{100\%}$ of filtered glucose and amino acids** via active transport.
+23. **Loop of Henle & Counter-Current Multiplier**: Hairpin loop maintaining high osmotic medullary gradient; descending limb is permeable to water and impermeable to salts; ascending limb is impermeable to water and actively pumps out NaCl; operates alongside **Vasa Recta** to produce concentrated hypertonic urine.
+24. **Hormonal Regulation of Excretion**:
+25. **Antidiuretic Hormone (ADH / Vasopressin)**: Secreted by posterior pituitary; acts on DCT and collecting ducts to insert aquaporins, promoting water reabsorption; deficiency causes **Diabetes Insipidus** (profuse dilute urine).
+26. **Renin-Angiotensin-Aldosterone System (RAAS)**: Juxtaglomerular apparatus (JGA) releases **Renin** in response to low blood pressure; renin converts angiotensinogen $\rightarrow$ angiotensin-I $\rightarrow$ angiotensin-II (powerful vasoconstrictor); stimulates adrenal cortex to release **Aldosterone**, increasing $Na^+$ and water reabsorption.
+27. **Atrial Natriuretic Factor (ANF)**: Secreted by heart atria in response to high blood pressure; promotes sodium excretion (natriuresis) and vasodilation, antagonising RAAS.
+28. **Renal Calculi (Kidney Stones)**: Solid crystalline deposits formed inside renal pelvis and calyces, primarily composed of insoluble **Calcium Oxalate ($CaC_2O_4$)** crystals.
+29. **Gout**: Painful metabolic arthritis caused by the deposition of sharp **Monosodium Urate / Uric Acid crystals** in synovial joints (most commonly the metatarsophalangeal joint of the big toe) due to hyperuricaemia.
+30. **The Human Mouth & Mechanical Mastication**:
+31. **Human Dentition Characteristics**:
+32. **Thecodont**: Every tooth is embedded in a deep bony jaw socket (alveolus).
+33. **Diphyodont**: Two sets of teeth during lifetime: deciduous / milk teeth (20 teeth) replaced by permanent adult teeth (32 teeth).
+34. **Heterodont**: Four morphologically and functionally distinct types of teeth:
+35. **Incisors ($I$)**: Chisel-shaped, for biting and cutting food.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
-|-----------|-----------|-------------------------------|-----------|
-| **Pepsin** | **Trypsin** | Secreted by gastric chief cells, active in acidic pH (1.5–2.0) vs secreted by pancreas, active in alkaline duodenal pH (7.5–8.5) | पेप्सिन / ट्रिप्सिन |
-| **Bile** | **Pancreatic Juice** | Contains NO enzymes, emulsifies fats, neutralises acid chyme vs "complete digestive juice", contains amylase, trypsin, lipase | पित्त / अग्न्याशयी रस |
-| **Liver** | **Gall Bladder** | Manufactures and secretes bile, largest gland vs stores and concentrates bile 10-fold | यकृत / पित्ताशय |
-| **Lacteal** | **Blood Capillary (Villus)** | Lymphatic capillary absorbing chylomicrons/fats vs vascular capillary absorbing monosaccharides, amino acids, salts | लेक्टियल / रक्त केशिका |
-| **Starch** | **Cellulose** | $\alpha\text{-1,4-glucan}$ digested by human salivary/pancreatic amylase vs $\beta\text{-1,4-glucan}$ completely undigested by humans (roughage) | स्टार्च / सेलूलोज़ |
-| **Tidal Volume (TV)** | **Vital Capacity (VC)** | Normal quiet breath volume (~500 mL) vs maximal volume exhaled after forced inspiration (~3500–4500 mL) | ज्वारीय आयतन / जैव क्षमता |
-| **Residual Volume (RV)** | **Vital Capacity (VC)** | Air remaining in lungs after maximal forced expiration (~1200 mL, cannot measure on spirometer) vs movable air volume | अवशिष्ट आयतन / जैव क्षमता |
-| **Carbamino-haemoglobin** | **Carboxyhaemoglobin** | Normal physiological transport form of $CO_2$ bound to haemoglobin vs toxic stable complex of Carbon Monoxide ($CO$) + $Hb$ | कार्बेमिनो-हीमोग्लोबिन / कार्बोक्सी-हीमोग्लोबिन |
-| **Ultrafiltration** | **Selective Reabsorption** | Non-selective hydrostatic filtration across glomerulus (180 L/day) vs selective recovery of glucose, salts, water in PCT/tubule (99%) | परानिस्पंदन / पुनरावशोषण |
-| **Ureotelic** | **Uricotelic** | Excrete urea (mammals, adult frogs; moderate water loss) vs excrete insoluble uric acid paste (birds, reptiles, insects; water conservation) | यूरियोटेलिक / यूरिकोटेलिक |
-| **Renal Calculi** | **Gout** | Deposition of calcium oxalate stones in renal pelvis vs deposition of uric acid crystals in synovial joints | गुर्दे की पथरी / गठिया (गाउट) |
-| **Diabetes Mellitus** | **Diabetes Insipidus** | Insulin defect, hyperglycaemia, glucose present in urine vs ADH defect, massive dilute tasteless urine, zero glucose in urine | मधुमेह / उदकमेह |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& Negative-Marking Eliminators
+
+1. **Pepsin vs trypsin**: Pepsin works in **acidic** stomach; trypsin in **alkaline** duodenum.
+2. **Bile**: Emulsifies fats — it is **not** an enzyme.
+3. **Largest digestive gland**: **Liver**; pancreas is mixed exo/endocrine.
+4. **Oxygen transport**: Most O2 travels as **oxyhaemoglobin**; most CO2 as **bicarbonate**.
+5. **Inspiration vs expiration**: Inspiration is active (diaphragm contracts); quiet expiration is largely passive.
+6. **Urea vs uric acid vs ammonia**: Mammals = urea; birds/reptiles = uric acid; many aquatic animals = ammonia.
+7. **Nephron filtrate**: Ultrafiltration at **glomerulus**; major reabsorption in **proximal tubule**.
+8. **Dialysis**: Artificial kidney removes urea — it does **not** replace hormone functions of the kidney.
+9. **Salivary enzyme**: Ptyalin (salivary amylase) digests **starch**, not protein.
+10. **HCl role**: Activates pepsinogen and kills microbes — protein digestion enzyme is pepsin, not HCl itself.
+
+---
 
 
 ---

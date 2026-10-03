@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chronology — Year-Wise Major Events</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -31,11 +29,7 @@ hide:
 | Cripps 1942 | Cabinet Mission 1946 | Wartime offer vs three-tier / interim path | क्रिप्स / कैबिनेट मिशन |
 | Chauri Chaura 1922 | Kakori 1925 | NCM ends vs HRA-era train action (UP) | चौरी चौरा / काकोरी |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ## C.1 Megaspine — memorise this first
 
@@ -377,18 +371,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Hold four megaspines, not one flat list: Wars / Expansion, Acts, Reform & Press, National Movement.
-- **Exam Anchor:** Company political start: Plassey 1757 → Buxar 1764 → Allahabad / Dual Govt 1765 → Regulating Act 1773.
 - **Exam Anchor:** Mysore CCR ladder: 1st (1767–69, Madras treaty) → 2nd (1780–84, Mangalore) → 3rd (1790–92, half kingdom ceded) → 4th (1799, Tipu dies / Subsidiary).
 - **Exam Anchor:** Maratha CCR ladder: 1st (1775–82, Salbai peace) → 2nd (1803–05, after Bassein 1802) → 3rd (1817–18, Peshwa ends / Pindaris crushed).
-- **Exam Anchor:** Act ladder to Crown: 1773 → 1784 → 1793 → 1813 → 1833 → 1853 → 1858.
-- **Exam Anchor:** Crown constitutional ladder: 1861 → 1892 → 1909 → 1919 → 1935 → 1947.
-- **Exam Anchor:** Social reform anchors: Sati 1829 → Slavery Act 1843 → Widow Remarriage 1856 → Age of Consent 1891.
-- **Exam Anchor:** Education ladder: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944.
-
-</details>
+- **Exam Anchor:** Mass CCR ladder: NCM (1920–22, boycott + Khilafat; ends Chauri Chaura) → CDM (1930, salt; Gandhi–Irwin) → Quit India (1942, Do or Die; suppressed but legitimacy crash).
+- **Exam Anchor:** Awadh 1856 is misrule, not Doctrine of Lapse. Lapse starts with Satara 1848.
+- **Exam Anchor:** Queen’s Proclamation 1858 ≠ Kaiser-i-Hind / Empress Durbar 1877.
+- **Exam Anchor:** Vernacular Press Act 1878 (Lytton) before Ilbert Bill 1883 (Ripon).
+- **Exam Anchor:** Partition announced / effected 1905; annulled + capital to Delhi 1911.
+- **Exam Anchor:** Lahore Purna Swaraj Dec 1929 comes before Dandi March–April 1930.
 
 ---
 

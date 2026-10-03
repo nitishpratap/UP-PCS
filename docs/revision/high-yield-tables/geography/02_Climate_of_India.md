@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 2 — Climate of India</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **2026** | IMD SW monsoon (दक्षिण-पश्चिम) **below normal (~90% of LPA)** | Seasonal rainfall category | IMD LRF Apr/May 2026 |
+| **2026** | ENSO: **neutral → El Niño** during Jun–Sep 2026 | Weak-monsoon tendency | IMD / MMCFS |
+| **2026** | **IOD neutral** (no +IOD (धनात्मक) offset of El Niño) | Contrast with 2019 +IOD rescue | IMD Jul 2026 |
+| **2026** | Onset over Kerala **4 June** (slightly after normal 1 June) | Onset date trap | USDA / IMD advance |
+| Ongoing | **Mission Mausam** (MoES/IMD) — improved monsoon & severe-weather forecast | Scheme/institution CA | IMD–MHA |
+
+---
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -32,22 +42,6 @@ hide:
 | Willy-willy | Brickfielder | Australian **cyclone** vs Australian **hot local wind** | विली-विली / ब्रिकफील्डर |
 | Bora | Chinook | Adriatic **cold** vs Rockies **warm dry** | बोरा / चिनूक |
 | Harmattan | Khamsin | West Africa dust vs Egypt heat | हरमट्टन / खामसिन |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2026** | IMD SW monsoon (दक्षिण-पश्चिम) **below normal (~90% of LPA)** | Seasonal rainfall category | IMD LRF Apr/May 2026 |
-| **2026** | ENSO: **neutral → El Niño** during Jun–Sep 2026 | Weak-monsoon tendency | IMD / MMCFS |
-| **2026** | **IOD neutral** (no +IOD (धनात्मक) offset of El Niño) | Contrast with 2019 +IOD rescue | IMD Jul 2026 |
-| **2026** | Onset over Kerala **4 June** (slightly after normal 1 June) | Onset date trap | USDA / IMD advance |
-| Ongoing | **Mission Mausam** (MoES/IMD) — improved monsoon & severe-weather forecast | Scheme/institution CA | IMD–MHA |
 
 ---
 
@@ -542,18 +536,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** India’s climate is tropical monsoon, not wholly tropical, because the country stretches into the subtropical north. The Himalaya (हिमालय) acts as a winter wall against Central Asian cold and forces orographic rain on southern slopes in the monsoon.
-- **Exam Anchor:** The word monsoon comes from Arabic mausim (season). About 75–90% of India’s rain falls with the south-west monsoon from June to September. Onset usually begins first in Kerala around 1 June.
-- **Exam Anchor:** IMD seasons are Cold Weather (December–February, Western Disturbances in the north-west), Hot Weather (March–May, Loo, Nor’westers, mango and blossom showers), South-West Monsoon (June–September), and Retreating Monsoon (October–November, October heat and Bay of Bengal / Andaman (अंडमान) cyclones).
-- **Exam Anchor:** South-west monsoon starts when the ITCZ shifts north and a thermal low forms over north-west India. South-east trades cross the equator near about 40–60° E, then the Mascarene High and Somali Jet feed the two monsoon branches.
-- **Exam Anchor:** The Arabian Sea branch soaks the Western Ghats (पश्चिमी घाट) windward slope and leaves the leeward Deccan (दक्कन) dry. The Chhattisgarh basin is comparatively weak on this branch. The Bay of Bengal branch waters the north-east and the Ganga (गंगा) plain.
-- **Exam Anchor:** The Tamil Nadu south-east coast stays dry in the south-west monsoon because it lies parallel to the Bay branch and in the rain shadow (छाया) of the Arabian Sea branch. Its main rain comes with the north-east monsoon later.
-- **Exam Anchor:** Typical onset dates are Kerala about 1 June, Mumbai and Kolkata about 10 June, Delhi about 29 June, and Rajasthan last around mid-July.
-- **Exam Anchor:** An active monsoon keeps the trough on the Ganga plain so the plains stay wet. A break monsoon shifts the trough onto the Himalaya (हिमालय), so central India goes dry.
-
-</details>
+- **Exam Anchor:** Western Disturbances are Mediterranean extra-tropical systems that bring winter rain to the north-west. Their rain decreases west to east. They are not the retreating monsoon. Core belt: Punjab, Haryana, Himachal (हिमाचल), Jammu & Kashmir, Uttarakhand (उत्तराखंड), western Uttar Pradesh (उत्तर प्रदेश), and northern Rajasthan.
+- **Exam Anchor:** El Niño warms the eastern Pacific off Peru, usually weakens the Indian monsoon, and reduces plankton because warm water suppresses upwelling. La Niña cools that ocean and usually strengthens the monsoon.
+- **Exam Anchor:** Loo is the hot dry wind of the Indo-Gangetic plains in May–June. Kal Baisakhi / Nor’westers are violent pre-monsoon thunderstorms of eastern and north-eastern India in April–May.
+- **Exam Anchor:** Mango showers are pre-monsoon rains of Kerala and Karnataka. Blossom showers help coffee in Tamil Nadu and Kerala. Sea breeze blows by day toward land; land breeze blows by night toward sea.
+- **Exam Anchor:** Anabatic winds climb slopes by day. Katabatic winds drain downslope by night. Foehn / Chinook (चिनूक) are warm dry lee winds — not the same as cold katabatic drainage.
+- **Exam Anchor:** Monsoon origin concepts: The classical Thermal concept relies on differential heating rates between the continental landmass and the Indian Ocean. Flohn’s Dynamic concept explains monsoon as the seasonal migration of planetary pressure and wind belts with the shifting ITCZ.
+- **Exam Anchor:** Traditional Indian Calendar (6 Ritus): Six bimonthly seasons in chronological order: Vasanta (Spring: Mar–Apr) → Grishma (Summer: May–Jun) → Varsha (Rainy: Jul–Aug) → Sharad (Autumn: Sep–Oct) → Hemant (Pre-winter: Nov–Dec) → Shishir (Winter: Jan–Feb).
+- **Exam Anchor:** Rainy Day standard: IMD officially defines a "rainy day" as any 24-hour period recording ≥ 2.5 mm of precipitation.
 
 ---
 

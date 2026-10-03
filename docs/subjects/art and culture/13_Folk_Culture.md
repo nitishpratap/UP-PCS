@@ -23,7 +23,8 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom (�
 ---.
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Folk art** (लोक कला) is community, oral, and ritual (कर्मकाण्ड). It is not a Natyashastra (नाट्यशास्त्र) classical school like Bharatanatyam (भरतनाट्यम्) or a court Mughal (मुग़ल) miniature (लघु चित्र) atelier.
 2. **Madhubani** (मधुबनी) belongs to Mithila in Bihar. It is bright geometric work and carries a **GI**. It is not a named UNESCO ICH element by itself.
@@ -66,9 +67,10 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom (�
 39. **Phad** is Rajasthan scroll painting. **Pattachitra** is Odisha cloth or palm-leaf painting, sometimes also Bengal. Do not dump every scroll into Madhubani.
 40. Uttar Pradesh leads India’s GI count in recent tallies, about **81** by late **2025**. Craft–city matching stays high-yield.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -86,8 +88,7 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom (�
 | Sant Kabir Award | Shilp Guru | Highest **handloom** weaver honour vs highest **handicraft** artisan honour | संत कबीर / शिल्प गुरु |
 | PEHCHAN | e-Pehchan | Handicraft artisan card **2016** vs handloom worker digital ID **2025** | पहचान / ई-पहचान |
 
----
-
+</details>
 
 ## Must-score facts — folk painting, handloom, GI
 

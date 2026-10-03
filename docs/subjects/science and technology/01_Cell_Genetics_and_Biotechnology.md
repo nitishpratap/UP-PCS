@@ -26,7 +26,8 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The word **'Science'** originates from the Latin word *scientia*, meaning **'knowledge'**; science is the systematic empirical knowledge of the physical world gained through observation and experimentation.
 2. The term **'Biology'** was coined independently by French biologist **Jean-Baptiste Lamarck** and German naturalist **Gottfried Reinhold Treviranus** in **1802**; **Aristotle** is the Father of Biology and Zoology; **Theophrastus** is the Father of Botany (*Historia Plantarum*); **Hippocrates** is the Father of Medicine.
@@ -79,8 +80,10 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 49. **Sickle-cell anaemia** is an autosomal recessive point mutation on chromosome 11: substitution of **Glutamic acid by Valine** at position 6 of the $\beta$-globin chain ($GAG \rightarrow GUG$).
 50. Sex-linked recessive disorders carried on the X chromosome include **Haemophilia** (bleeder's / royal disease, factor VIII or IX deficiency) and **Red-Green Colour Blindness** (Daltonism); males are affected far more frequently ($XY$) while females are usually carriers ($X^h X$).
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -104,7 +107,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 | **Bt Cotton** | **Golden Rice** | Insect resistance (*cry* genes from *Bacillus thuringiensis*) vs nutritional enrichment ($\beta$-carotene / Vitamin A precursor) | बीटी कपास / गोल्डन राइस |
 | **Exotic Transgenic (Bt)** | **SDN-1 / SDN-2 Gene Editing** | Introduces foreign exogenous DNA from other species vs targeted precise edits without foreign DNA insertion | ट्रांसजेनिक / जीन एडिटिंग |
 
----
+</details>
 
 ## Must-Score Drill — Scientists, Organelles & Biotech Tools
 

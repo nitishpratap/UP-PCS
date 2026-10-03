@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chemistry Topic 1 — Atomic Structure and Periodic Classification</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
 | :--- | :--- | :--- |
@@ -26,11 +24,7 @@ hide:
 | **$s$-Block** | **$d$-Block** | $s$-block: Groups 1 and 2; valence electrons in outermost $s$-subshell; fixed valency ($+1, +2$); highly electropositive metals. $d$-block: Groups 3 to 12; electrons filling inner $(n-1)d$ subshell; variable oxidation states ($Fe^{2+}, Fe^{3+}$); form colored coordination complexes. |
 | **Lanthanides** | **Actinides** | Lanthanides: Filling $4f$ subshell; $Z=58\\text{--}71$; only Promethium ($Pm$) is radioactive. Actinides: Filling $5f$ subshell; $Z=90\\text{--}103$; **ALL actinides are radioactive**. |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Table 1: Fundamental Subatomic Particles & Atomic Dimensions
 
@@ -226,18 +220,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** IUPAC Superheavy Elements & Island of Stability: Synthesizing superheavy transactinide elements in the 7th period: Nihonium ($Z=113$, Nh), Moscovium ($Z=115$, Mc), Tennessine ($Z=117$, Ts), and Oganesson ($Z=118$, Og). Research targeting $Z=119$ (Ununennium) and $Z=120$ in the hypothetical 8th period to confirm Glenn Seaborg's predicted 'Island of Stability' ($Z=114, N=184$).
+- **Exam Anchor:** Rare Earth Elements (REEs) & Critical Minerals Mission: India's Ministry of Mines identified 30 critical minerals (including Lithium, Cobalt, Nickel, and the 17 Rare Earth Elements: 15 Lanthanides + Scandium + Yttrium). IREL operating monazite processing facilities in Odisha and Kerala; geological discoveries of Lithium reserves in Reasi (Jammu & Kashmir) and Degana (Nagaur, Rajasthan).
+- **Exam Anchor:** Gallium and Germanium Global Export Controls: Strategic semiconductor metalloids. Gallium ($Z=31$) and Germanium ($Z=32$) are critical for military radar electronics (Gallium Nitride, GaN), high-efficiency satellite photovoltaics, and fiber-optic infrared optics.
+- **Exam Anchor:** National Quantum Mission & Trapped-Ion Atoms: Development of neutral atom quantum processors utilizing Rydberg states of Group 1 alkali metals (Rubidium-87, Cesium-133) and alkaline earth ions (Strontium-88, Ytterbium-171).
+- **Exam Anchor:** International Year of the Periodic Table (IYPT): UNESCO commemorated the 150th anniversary of Dmitri Mendeleev's periodic system (1869).
 - **Exam Anchor:** Subatomic Mass & Charge Hierarchy:
 - **Exam Anchor:** Electron: Discovered by J.J. Thomson (1897) via cathode ray discharge tubes. Charge $= -1.602 \\times 10^{-19}\\text{ C}$; Mass $= 9.109 \\times 10^{-31}\\text{ kg} = 0.000548\\text{ u}$ (approx. $1/1836\\text{th}$ of proton mass). Charge-to-mass ratio ($e/m$) $= 1.7588 \\times 10^{11}\\text{ C/kg}$.
 - **Exam Anchor:** Proton: Observed as canal rays/anode rays by Eugen Goldstein (1886) and identified as the hydrogen nucleus by Ernest Rutherford (1919). Charge $= +1.602 \\times 10^{-19}\\text{ C}$; Mass $= 1.6726 \\times 10^{-27}\\text{ kg} = 1.00727\\text{ u}$.
-- **Exam Anchor:** Neutron: Discovered by James Chadwick in 1932 by bombarding beryllium foils with alpha particles ($^94Be + ^42He \\to ^{12}6C + ^10n$). Charge $= 0$ (neutral); Mass $= 1.6749 \\times 10^{-27}\\text{ kg} = 1.00866\\text{ u}$. The neutron is the heaviest subatomic particle in an ordinary atom.
-- **Exam Anchor:** Rutherford's Gold Foil $\\alpha$-Scattering Experiment (1911): Bombarded a thin gold foil ($100\\text{ nm}$ thick) with fast $\\alpha$-particles:
-- **Exam Anchor:** Most $\\alpha$-particles passed straight through undeflected $\\implies$ most of the atomic volume is empty space.
-- **Exam Anchor:** A few deflected at large angles, and roughly 1 in 20,000 bounced back ($180^\\circ$) $\\implies$ all positive charge and nearly all atomic mass is concentrated in a tiny central core called the Nucleus.
-- **Exam Anchor:** Nuclear diameter is $\\approx 10^{-15}\\text{ m}$ ($1\\text{ Fermi}$), whereas atomic diameter is $\\approx 10^{-10}\\text{ m}$ ($1\\text{ \\AA}$). The atom is $100,000\\text{ times larger}$ than its nucleus.
-
-</details>
 
 ---
 
@@ -249,7 +241,7 @@ hide:
 
 Which of the following is correct regarding this topic?
 
-A. Subatomic Mass & Charge Hierarchy:
+A. IUPAC Superheavy Elements & Island of Stability: Synthesizing superheavy transactinide elements in the 7th period: Nihonium ($Z=113$, Nh), Moscovium ($Z=115$, Mc), Tennessine ($Z=117$, Ts), and Oganesson ($Z=118$, Og). Research targeting $Z=119$ (Ununennium) and $Z=120$ in the hypothetical 8th period to confirm Glenn Seaborg's predicted 'Island of Stability' ($Z=114, N=184$).
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
@@ -260,7 +252,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Subatomic Mass & Charge Hierarchy:**
+- **Key Exam Association:** **IUPAC Superheavy Elements & Island of Stability:** Synthesizing superheavy transactinide elements in the 7th period: **Nihonium ($Z=113$, Nh)**, **Moscovium ($Z=115$, Mc)**, **Tennessine ($Z=117$, Ts)**, and **Oganesson ($Z=118$, Og)**. Research targeting $Z=119$ (Ununennium) and $Z=120$ in the hypothetical 8th period to confirm Glenn Seaborg's predicted 'Island of Stability' ($Z=114, N=184$).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -268,8 +260,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Electron: applies only to union territories and not state jurisdictions.
-B. Electron: Discovered by J.J. Thomson (1897) via cathode ray discharge tubes. Charge $= -1.602 \\times 10^{-19}\\text{ C}$; Mass $= 9.109 \\times 10^{-31}\\text{ kg} = 0.000548\\text{ u}$ (approx. $1/1836\\text{th}$ of proton mass). Charge-to-mass ratio ($e/m$) $= 1.7588 \\times 10^{11}\\text{ C/kg}$.
+A. Contrary to standard doctrine, Rare applies only to union territories and not state jurisdictions.
+B. Rare Earth Elements (REEs) & Critical Minerals Mission: India's Ministry of Mines identified 30 critical minerals (including Lithium, Cobalt, Nickel, and the 17 Rare Earth Elements: 15 Lanthanides + Scandium + Yttrium). IREL operating monazite processing facilities in Odisha and Kerala; geological discoveries of Lithium reserves in Reasi (Jammu & Kashmir) and Degana (Nagaur, Rajasthan).
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -279,7 +271,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Electron:** Discovered by **J.J. Thomson (1897)** via cathode ray discharge tubes. Charge $= -1.602 \\times 10^{-19}\\text{ C}$; Mass $= 9.109 \\times 10^{-31}\\text{ kg} = 0.000548\\text{ u}$ (approx. **$1/1836\\text{th}$ of proton mass**). Charge-to-mass ratio ($e/m$) $= 1.7588 \\times 10^{11}\\text{ C/kg}$.
+- **Key Exam Association:** **Rare Earth Elements (REEs) & Critical Minerals Mission:** India's Ministry of Mines identified **30 critical minerals** (including Lithium, Cobalt, Nickel, and the 17 Rare Earth Elements: 15 Lanthanides + Scandium + Yttrium). IREL operating monazite processing facilities in Odisha and Kerala; geological discoveries of Lithium reserves in Reasi (Jammu & Kashmir) and Degana (Nagaur, Rajasthan).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -287,9 +279,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Proton: applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Gallium applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. Proton: Observed as canal rays/anode rays by Eugen Goldstein (1886) and identified as the hydrogen nucleus by Ernest Rutherford (1919). Charge $= +1.602 \\times 10^{-19}\\text{ C}$; Mass $= 1.6726 \\times 10^{-27}\\text{ kg} = 1.00727\\text{ u}$.
+C. Gallium and Germanium Global Export Controls: Strategic semiconductor metalloids. Gallium ($Z=31$) and Germanium ($Z=32$) are critical for military radar electronics (Gallium Nitride, GaN), high-efficiency satellite photovoltaics, and fiber-optic infrared optics.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -298,7 +290,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Proton:** Observed as canal rays/anode rays by Eugen Goldstein (1886) and identified as the hydrogen nucleus by **Ernest Rutherford (1919)**. Charge $= +1.602 \\times 10^{-19}\\text{ C}$; Mass $= 1.6726 \\times 10^{-27}\\text{ kg} = 1.00727\\text{ u}$.
+- **Key Exam Association:** **Gallium and Germanium Global Export Controls:** Strategic semiconductor metalloids. Gallium ($Z=31$) and Germanium ($Z=32$) are critical for military radar electronics (Gallium Nitride, GaN), high-efficiency satellite photovoltaics, and fiber-optic infrared optics.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -306,10 +298,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Neutron: applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, National applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Neutron: Discovered by James Chadwick in 1932 by bombarding beryllium foils with alpha particles ($^94Be + ^42He \\to ^{12}6C + ^10n$). Charge $= 0$ (neutral); Mass $= 1.6749 \\times 10^{-27}\\text{ kg} = 1.00866\\text{ u}$. The neutron is the heaviest subatomic particle in an ordinary atom.
+D. National Quantum Mission & Trapped-Ion Atoms: Development of neutral atom quantum processors utilizing Rydberg states of Group 1 alkali metals (Rubidium-87, Cesium-133) and alkaline earth ions (Strontium-88, Ytterbium-171).
 
 <details>
 <summary>Show answer</summary>
@@ -317,7 +309,7 @@ D. Neutron: Discovered by James Chadwick in 1932 by bombarding beryllium foils w
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Neutron:** Discovered by **James Chadwick in 1932** by bombarding beryllium foils with alpha particles ($^9_4Be + ^4_2He \\to ^{12}_6C + ^1_0n$). Charge $= 0$ (neutral); Mass $= 1.6749 \\times 10^{-27}\\text{ kg} = 1.00866\\text{ u}$. **The neutron is the heaviest subatomic particle in an ordinary atom.**
+- **Key Exam Association:** **National Quantum Mission & Trapped-Ion Atoms:** Development of neutral atom quantum processors utilizing Rydberg states of Group 1 alkali metals (**Rubidium-87, Cesium-133**) and alkaline earth ions (**Strontium-88, Ytterbium-171**).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -325,7 +317,7 @@ D. Neutron: Discovered by James Chadwick in 1932 by bombarding beryllium foils w
 
 Which of the following is correct regarding this topic?
 
-A. Rutherford's Gold Foil $\\alpha$-Scattering Experiment (1911): Bombarded a thin gold foil ($100\\text{ nm}$ thick) with fast $\\alpha$-particles:
+A. International Year of the Periodic Table (IYPT): UNESCO commemorated the 150th anniversary of Dmitri Mendeleev's periodic system (1869).
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -336,7 +328,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Rutherford's Gold Foil $\\alpha$-Scattering Experiment (1911):** Bombarded a thin gold foil ($100\\text{ nm}$ thick) with fast $\\alpha$-particles:
+- **Key Exam Association:** **International Year of the Periodic Table (IYPT):** UNESCO commemorated the 150th anniversary of Dmitri Mendeleev's periodic system (1869).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -344,8 +336,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Most applies only to union territories and not state jurisdictions.
-B. Most $\\alpha$-particles passed straight through undeflected $\\implies$ most of the atomic volume is empty space.
+A. Reported by the Law Commission in its 214th consultation paper
+B. Subatomic Mass & Charge Hierarchy:
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -355,7 +347,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Most $\\alpha$-particles passed straight through undeflected $\\implies$ **most of the atomic volume is empty space**.
+- **Key Exam Association:** **Subatomic Mass & Charge Hierarchy:**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -363,9 +355,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, A applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Electron: applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. A few deflected at large angles, and roughly 1 in 20,000 bounced back ($180^\\circ$) $\\implies$ all positive charge and nearly all atomic mass is concentrated in a tiny central core called the Nucleus.
+C. Electron: Discovered by J.J. Thomson (1897) via cathode ray discharge tubes. Charge $= -1.602 \\times 10^{-19}\\text{ C}$; Mass $= 9.109 \\times 10^{-31}\\text{ kg} = 0.000548\\text{ u}$ (approx. $1/1836\\text{th}$ of proton mass). Charge-to-mass ratio ($e/m$) $= 1.7588 \\times 10^{11}\\text{ C/kg}$.
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -374,7 +366,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** A few deflected at large angles, and roughly 1 in 20,000 bounced back ($180^\\circ$) $\\implies$ all positive charge and nearly all atomic mass is concentrated in a tiny central core called the **Nucleus**.
+- **Key Exam Association:** **Electron:** Discovered by **J.J. Thomson (1897)** via cathode ray discharge tubes. Charge $= -1.602 \\times 10^{-19}\\text{ C}$; Mass $= 9.109 \\times 10^{-31}\\text{ kg} = 0.000548\\text{ u}$ (approx. **$1/1836\\text{th}$ of proton mass**). Charge-to-mass ratio ($e/m$) $= 1.7588 \\times 10^{11}\\text{ C/kg}$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -382,10 +374,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Nuclear applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Proton: applies only to union territories and not state jurisdictions.
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. Nuclear diameter is $\\approx 10^{-15}\\text{ m}$ ($1\\text{ Fermi}$), whereas atomic diameter is $\\approx 10^{-10}\\text{ m}$ ($1\\text{ \\AA}$). The atom is $100,000\\text{ times larger}$ than its nucleus.
+D. Proton: Observed as canal rays/anode rays by Eugen Goldstein (1886) and identified as the hydrogen nucleus by Ernest Rutherford (1919). Charge $= +1.602 \\times 10^{-19}\\text{ C}$; Mass $= 1.6726 \\times 10^{-27}\\text{ kg} = 1.00727\\text{ u}$.
 
 <details>
 <summary>Show answer</summary>
@@ -393,7 +385,7 @@ D. Nuclear diameter is $\\approx 10^{-15}\\text{ m}$ ($1\\text{ Fermi}$), wherea
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Nuclear diameter is $\\approx 10^{-15}\\text{ m}$ ($1\\text{ Fermi}$), whereas atomic diameter is $\\approx 10^{-10}\\text{ m}$ ($1\\text{ \\AA}$). The atom is $100,000\\text{ times larger}$ than its nucleus.
+- **Key Exam Association:** **Proton:** Observed as canal rays/anode rays by Eugen Goldstein (1886) and identified as the hydrogen nucleus by **Ernest Rutherford (1919)**. Charge $= +1.602 \\times 10^{-19}\\text{ C}$; Mass $= 1.6726 \\times 10^{-27}\\text{ kg} = 1.00727\\text{ u}$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -401,7 +393,7 @@ D. Nuclear diameter is $\\approx 10^{-15}\\text{ m}$ ($1\\text{ Fermi}$), wherea
 
 Which of the following is correct regarding this topic?
 
-A. Bohr's Quantum Postulates (1913):
+A. Neutron: Discovered by James Chadwick in 1932 by bombarding beryllium foils with alpha particles ($^94Be + ^42He \\to ^{12}6C + ^10n$). Charge $= 0$ (neutral); Mass $= 1.6749 \\times 10^{-27}\\text{ kg} = 1.00866\\text{ u}$. The neutron is the heaviest subatomic particle in an ordinary atom.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -412,7 +404,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Bohr's Quantum Postulates (1913):**
+- **Key Exam Association:** **Neutron:** Discovered by **James Chadwick in 1932** by bombarding beryllium foils with alpha particles ($^9_4Be + ^4_2He \\to ^{12}_6C + ^1_0n$). Charge $= 0$ (neutral); Mass $= 1.6749 \\times 10^{-27}\\text{ kg} = 1.00866\\text{ u}$. **The neutron is the heaviest subatomic particle in an ordinary atom.**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -420,8 +412,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Electrons applies only to union territories and not state jurisdictions.
-B. Electrons revolve around the nucleus only in certain discrete, non-radiating circular orbits called stationary states.
+A. Contrary to standard doctrine, Rutherford's applies only to union territories and not state jurisdictions.
+B. Rutherford's Gold Foil $\\alpha$-Scattering Experiment (1911): Bombarded a thin gold foil ($100\\text{ nm}$ thick) with fast $\\alpha$-particles:
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -431,7 +423,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Electrons revolve around the nucleus only in certain discrete, non-radiating circular orbits called **stationary states**.
+- **Key Exam Association:** **Rutherford's Gold Foil $\\alpha$-Scattering Experiment (1911):** Bombarded a thin gold foil ($100\\text{ nm}$ thick) with fast $\\alpha$-particles:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -439,9 +431,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Angular applies only to union territories and not state jurisdictions.
+A. Statement I is correct but Statement II is incorrect
 B. Both statements are true and explain the phenomenon
-C. Angular momentum of revolving electron is an integral multiple of $h / 2\\pi$:
+C. Bohr's Quantum Postulates (1913):
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -450,7 +442,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Angular momentum of revolving electron is an integral multiple of $h / 2\\pi$:
+- **Key Exam Association:** **Bohr's Quantum Postulates (1913):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -458,10 +450,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Radiation applies only to union territories and not state jurisdictions.
+A. Both statements are true and explain the phenomenon
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Radiation is emitted or absorbed only when an electron jumps from one stationary orbit to another: $\\Delta E = E2 - E1 = h\\nu$.
+D. Four Quantum Numbers:
 
 <details>
 <summary>Show answer</summary>
@@ -469,7 +461,7 @@ D. Radiation is emitted or absorbed only when an electron jumps from one station
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Radiation is emitted or absorbed only when an electron jumps from one stationary orbit to another: $\\Delta E = E_2 - E_1 = h\\nu$.
+- **Key Exam Association:** **Four Quantum Numbers:**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -477,7 +469,7 @@ D. Radiation is emitted or absorbed only when an electron jumps from one station
 
 Which of the following is correct regarding this topic?
 
-A. Four Quantum Numbers:
+A. Principal Quantum Number ($n = 1, 2, 3, \\dots$ / K, L, M, N): Dictates main energy level, electron shell, and average distance from nucleus. Max electrons in shell $= 2n^2$.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -488,7 +480,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Four Quantum Numbers:**
+- **Key Exam Association:** **Principal Quantum Number ($n = 1, 2, 3, \\dots$ / K, L, M, N):** Dictates main energy level, electron shell, and average distance from nucleus. Max electrons in shell $= 2n^2$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -496,8 +488,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Principal applies only to union territories and not state jurisdictions.
-B. Principal Quantum Number ($n = 1, 2, 3, \\dots$ / K, L, M, N): Dictates main energy level, electron shell, and average distance from nucleus. Max electrons in shell $= 2n^2$.
+A. Contrary to standard doctrine, Azimuthal applies only to union territories and not state jurisdictions.
+B. Azimuthal / Orbital Angular Momentum ($l = 0\\text{ to } n-1$): Dictates orbital shape ($l=0 \\to s$ spherical; $l=1 \\to p$ dumbbell; $l=2 \\to d$ double-dumbbell; $l=3 \\to f$ complex).
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -507,7 +499,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Principal Quantum Number ($n = 1, 2, 3, \\dots$ / K, L, M, N):** Dictates main energy level, electron shell, and average distance from nucleus. Max electrons in shell $= 2n^2$.
+- **Key Exam Association:** **Azimuthal / Orbital Angular Momentum ($l = 0\\text{ to } n-1$):** Dictates orbital shape ($l=0 \\to s$ spherical; $l=1 \\to p$ dumbbell; $l=2 \\to d$ double-dumbbell; $l=3 \\to f$ complex).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -515,9 +507,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Azimuthal applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Magnetic applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Azimuthal / Orbital Angular Momentum ($l = 0\\text{ to } n-1$): Dictates orbital shape ($l=0 \\to s$ spherical; $l=1 \\to p$ dumbbell; $l=2 \\to d$ double-dumbbell; $l=3 \\to f$ complex).
+C. Magnetic Quantum Number ($ml = -l\\text{ to } +l$): Dictates spatial orientation of orbitals in 3D space. Number of orbitals in a subshell $= 2l + 1$.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -526,6 +518,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Azimuthal / Orbital Angular Momentum ($l = 0\\text{ to } n-1$):** Dictates orbital shape ($l=0 \\to s$ spherical; $l=1 \\to p$ dumbbell; $l=2 \\to d$ double-dumbbell; $l=3 \\to f$ complex).
+- **Key Exam Association:** **Magnetic Quantum Number ($m_l = -l\\text{ to } +l$):** Dictates spatial orientation of orbitals in 3D space. Number of orbitals in a subshell $= 2l + 1$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

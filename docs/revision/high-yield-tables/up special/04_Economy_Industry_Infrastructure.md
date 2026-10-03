@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>UP Special Topic 4 — Economy, Industrial Policy, Mineral Resources, Infrastructure and ODOP</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -29,18 +35,6 @@ hide:
 | **Diaspore & Pyrophyllite (Jhansi/Mahoba)** | **Bauxite Ore (Banda/Chitrakoot)** | Diaspore/Pyrophyllite is used for **refractories** in Bundelkhand; Bauxite is **aluminium ore** found in Banda/Chitrakoot. |
 | **Noida Authority (YEIDA/GNIDA)** | **Municipal Corporation (Nagar Nigam)** | Industrial Authorities are **Statutory Industrial Townships** under Art. 243Q proviso, NOT elected Nagar Nigams. |
 | **Khurja (Bulandshahr)** | **Nizamabad (Azamgarh)** | Khurja produces **Glazed White Ceramic Pottery**; Nizamabad produces **Black Clay Terracotta Pottery with silver inlay**. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -221,18 +215,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Uttar Pradesh is the 3rd largest state economy in India by nominal Gross State Domestic Product (GSDP).
-- **Exam Anchor:** The Government of UP has set a formal strategic target to achieve a $1 Trillion Economy.
-- **Exam Anchor:** The Tertiary (Services) sector is the largest contributor to UP's GSDP, accounting for nearly 48%–50%.
-- **Exam Anchor:** The Primary (Agriculture) sector employs roughly 45%–50% of Uttar Pradesh's working population.
-- **Exam Anchor:** India's first modern sugar mill was established in 1903 at Pratappur in Deoria district.
-- **Exam Anchor:** Uttar Pradesh is the largest producer of sugarcane in India.
 - **Exam Anchor:** Muzaffarnagar hosts the largest jaggery (Gud) market in Asia.
 - **Exam Anchor:** Kanpur was historically renowned as the "Manchester of the East" and the "Leather City of the World".
-
-</details>
+- **Exam Anchor:** Agra accounts for approximately 28% of total Indian footwear exports.
+- **Exam Anchor:** Moradabad is known as "Peetal Nagari" (Brass City), accounting for over 40% of India's metal handicraft exports.
+- **Exam Anchor:** Firozabad is famous as "Suhag Nagari" and holds a virtual monopoly in glass bangles manufacturing.
+- **Exam Anchor:** Aligarh is internationally famous as the "City of Locks" (Taala Nagari).
+- **Exam Anchor:** Bhadohi is officially recognized as the "Carpet City", producing over half of India's exported handmade carpets.
+- **Exam Anchor:** Kannauj is known as the "Attar Nagari" (Perfume City) or the "Grasse of the East" for traditional Deg-Bhapka attar distillation.
 
 ---
 
@@ -244,7 +236,7 @@ hide:
 
 Which of the following is correct regarding this topic?
 
-A. Uttar Pradesh is the 3rd largest state economy in India by nominal Gross State Domestic Product (GSDP).
+A. Muzaffarnagar hosts the largest jaggery (Gud) market in Asia.
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
@@ -255,7 +247,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Uttar Pradesh is the **3rd largest state economy** in India by nominal Gross State Domestic Product (GSDP).
+- **Key Exam Association:** **Muzaffarnagar** hosts the largest jaggery (*Gud*) market in Asia.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -263,8 +255,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The Government of UP has set a formal strategic target to achieve a $1 Trillion Economy.
+A. Contrary to standard doctrine, Kanpur applies only to union territories and not state jurisdictions.
+B. Kanpur was historically renowned as the "Manchester of the East" and the "Leather City of the World".
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -274,7 +266,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The Government of UP has set a formal strategic target to achieve a **$1 Trillion Economy**.
+- **Key Exam Association:** **Kanpur** was historically renowned as the **"Manchester of the East"** and the **"Leather City of the World"**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -282,9 +274,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Agra applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. The Tertiary (Services) sector is the largest contributor to UP's GSDP, accounting for nearly 48%–50%.
+C. Agra accounts for approximately 28% of total Indian footwear exports.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -293,7 +285,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Tertiary (Services) sector** is the largest contributor to UP's GSDP, accounting for nearly **48%–50%**.
+- **Key Exam Association:** **Agra** accounts for approximately **28% of total Indian footwear exports**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -301,10 +293,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Moradabad applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. The Primary (Agriculture) sector employs roughly 45%–50% of Uttar Pradesh's working population.
+D. Moradabad is known as "Peetal Nagari" (Brass City), accounting for over 40% of India's metal handicraft exports.
 
 <details>
 <summary>Show answer</summary>
@@ -312,7 +304,7 @@ D. The Primary (Agriculture) sector employs roughly 45%–50% of Uttar Pradesh's
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Primary (Agriculture) sector** employs roughly **45%–50%** of Uttar Pradesh's working population.
+- **Key Exam Association:** **Moradabad** is known as **"Peetal Nagari" (Brass City)**, accounting for over 40% of India's metal handicraft exports.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -320,7 +312,7 @@ D. The Primary (Agriculture) sector employs roughly 45%–50% of Uttar Pradesh's
 
 Which of the following is correct regarding this topic?
 
-A. India's first modern sugar mill was established in 1903 at Pratappur in Deoria district.
+A. Firozabad is famous as "Suhag Nagari" and holds a virtual monopoly in glass bangles manufacturing.
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -331,7 +323,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** India's first modern sugar mill was established in **1903 at Pratappur in Deoria district**.
+- **Key Exam Association:** **Firozabad** is famous as **"Suhag Nagari"** and holds a virtual monopoly in glass bangles manufacturing.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -339,8 +331,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Uttar applies only to union territories and not state jurisdictions.
-B. Uttar Pradesh is the largest producer of sugarcane in India.
+A. Contrary to standard doctrine, Aligarh applies only to union territories and not state jurisdictions.
+B. Aligarh is internationally famous as the "City of Locks" (Taala Nagari).
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -350,7 +342,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Uttar Pradesh is the **largest producer of sugarcane** in India.
+- **Key Exam Association:** **Aligarh** is internationally famous as the **"City of Locks" (Taala Nagari)**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -358,9 +350,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Muzaffarnagar applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Bhadohi applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. Muzaffarnagar hosts the largest jaggery (Gud) market in Asia.
+C. Bhadohi is officially recognized as the "Carpet City", producing over half of India's exported handmade carpets.
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -369,7 +361,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Muzaffarnagar** hosts the largest jaggery (*Gud*) market in Asia.
+- **Key Exam Association:** **Bhadohi** is officially recognized as the **"Carpet City"**, producing over half of India's exported handmade carpets.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -377,10 +369,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Kanpur applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Kannauj applies only to union territories and not state jurisdictions.
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. Kanpur was historically renowned as the "Manchester of the East" and the "Leather City of the World".
+D. Kannauj is known as the "Attar Nagari" (Perfume City) or the "Grasse of the East" for traditional Deg-Bhapka attar distillation.
 
 <details>
 <summary>Show answer</summary>
@@ -388,7 +380,7 @@ D. Kanpur was historically renowned as the "Manchester of the East" and the "Lea
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Kanpur** was historically renowned as the **"Manchester of the East"** and the **"Leather City of the World"**.
+- **Key Exam Association:** **Kannauj** is known as the **"Attar Nagari"** (Perfume City) or the "Grasse of the East" for traditional *Deg-Bhapka* attar distillation.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -396,7 +388,7 @@ D. Kanpur was historically renowned as the "Manchester of the East" and the "Lea
 
 Which of the following is correct regarding this topic?
 
-A. Agra accounts for approximately 28% of total Indian footwear exports.
+A. Sonbhadra is celebrated as the "Energy Capital of India" due to its immense pithead thermal power complexes.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -407,7 +399,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Agra** accounts for approximately **28% of total Indian footwear exports**.
+- **Key Exam Association:** **Sonbhadra** is celebrated as the **"Energy Capital of India"** due to its immense pithead thermal power complexes.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -415,8 +407,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Moradabad applies only to union territories and not state jurisdictions.
-B. Moradabad is known as "Peetal Nagari" (Brass City), accounting for over 40% of India's metal handicraft exports.
+A. Contrary to standard doctrine, Renukoot applies only to union territories and not state jurisdictions.
+B. Renukoot (Sonbhadra) is the site of HINDALCO, one of Asia's largest integrated aluminium smelting plants.
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -426,7 +418,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Moradabad** is known as **"Peetal Nagari" (Brass City)**, accounting for over 40% of India's metal handicraft exports.
+- **Key Exam Association:** **Renukoot (Sonbhadra)** is the site of **HINDALCO**, one of Asia's largest integrated aluminium smelting plants.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -434,9 +426,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Firozabad applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Singrauli applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. Firozabad is famous as "Suhag Nagari" and holds a virtual monopoly in glass bangles manufacturing.
+C. Singrauli (Sonbhadra) is the only region in Uttar Pradesh with commercial coal mining deposits.
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -445,7 +437,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Firozabad** is famous as **"Suhag Nagari"** and holds a virtual monopoly in glass bangles manufacturing.
+- **Key Exam Association:** **Singrauli (Sonbhadra)** is the only region in Uttar Pradesh with commercial **coal mining** deposits.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -453,10 +445,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Aligarh applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Khurja applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Aligarh is internationally famous as the "City of Locks" (Taala Nagari).
+D. Khurja (Bulandshahr) is world-famous as the "Ceramic City" for glazed pottery and electrical porcelain insulators.
 
 <details>
 <summary>Show answer</summary>
@@ -464,7 +456,7 @@ D. Aligarh is internationally famous as the "City of Locks" (Taala Nagari).
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Aligarh** is internationally famous as the **"City of Locks" (Taala Nagari)**.
+- **Key Exam Association:** **Khurja (Bulandshahr)** is world-famous as the **"Ceramic City"** for glazed pottery and electrical porcelain insulators.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -472,7 +464,7 @@ D. Aligarh is internationally famous as the "City of Locks" (Taala Nagari).
 
 Which of the following is correct regarding this topic?
 
-A. Bhadohi is officially recognized as the "Carpet City", producing over half of India's exported handmade carpets.
+A. Saharanpur is internationally renowned for delicate carved wooden handicrafts in Sheesham wood.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -483,7 +475,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Bhadohi** is officially recognized as the **"Carpet City"**, producing over half of India's exported handmade carpets.
+- **Key Exam Association:** **Saharanpur** is internationally renowned for delicate **carved wooden handicrafts** in Sheesham wood.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -491,8 +483,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The Indian Institute of Carpet Technology (IICT) is located at Bhadohi.
+A. Contrary to standard doctrine, Nizamabad applies only to union territories and not state jurisdictions.
+B. Nizamabad (Azamgarh) is famous for its unique GI-tagged Black Clay Pottery.
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -502,7 +494,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Indian Institute of Carpet Technology (IICT)** is located at **Bhadohi**.
+- **Key Exam Association:** **Nizamabad (Azamgarh)** is famous for its unique GI-tagged **Black Clay Pottery**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -510,9 +502,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Kannauj applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Gorakhpur applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Kannauj is known as the "Attar Nagari" (Perfume City) or the "Grasse of the East" for traditional Deg-Bhapka attar distillation.
+C. Gorakhpur is renowned for its GI-tagged traditional terracotta horses, elephants, and clay artifacts.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -521,6 +513,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Kannauj** is known as the **"Attar Nagari"** (Perfume City) or the "Grasse of the East" for traditional *Deg-Bhapka* attar distillation.
+- **Key Exam Association:** **Gorakhpur** is renowned for its GI-tagged traditional terracotta horses, elephants, and clay artifacts.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

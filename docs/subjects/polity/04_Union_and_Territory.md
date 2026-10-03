@@ -15,7 +15,8 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Part I (Articles 1–4):** India, that is Bharat, is a **Union of States**. The term "Federation" is nowhere used. Names and territorial extent are in the **First Schedule**.
 2. Territory of India under **Article 1(3)** comprises **States**, **Union Territories**, and such other territories as may be **acquired** (e.g., Puducherry, Goa (गोवा) initially). 
@@ -50,9 +51,10 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 31. **Article 240** lets the President make **regulations** for peace, progress and good government of listed UTs without a legislature (or when the legislature is dissolved/suspended). Living list includes Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, and **Puducherry** when its Assembly is not functioning. **Goa is a State** — not on the Art. 240 list.
 32. **Article 241** enables a High Court for a Union Territory; Parliament may also place a UT under a neighbouring State’s High Court (e.g. Chandigarh with Punjab & Haryana HC).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct Distinction | Hindi Terminology |
 |---|----|------|-------|
@@ -67,7 +69,7 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 | **SRC (Fazl Ali)** | **JVP / Dhar** | 1953: Linguistic-friendly but not 1 language=1 state vs 1948: Rejected language strictly | फजल अली आयोग |
 | **Renunciation** | **Deprivation** | Voluntary by citizen vs Centre’s order against regd/naturalised | त्याग vs से वंचित करना |
 
----
+</details>
 
 ## Must-score facts — Arts. 1–4, SRC, citizenship
 

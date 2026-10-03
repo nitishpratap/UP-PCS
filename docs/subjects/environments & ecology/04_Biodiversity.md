@@ -21,7 +21,8 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity (आनुवंशि
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Biodiversity is variability among living organisms at **genetic, species, and ecosystem** levels — the range of plants and animals in an area.
 2. **Walter G. Rosen (1985)** coined the word *biodiversity*. **E.O. Wilson** popularised it. **Whittaker (1960)** advanced **alpha, beta, and gamma** diversity.
@@ -60,9 +61,10 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity (आनुवंशि
 35. **Gulf of Mannar Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र)** is often cited as India’s richest marine biodiversity region (21 islands mosaic).
 36. Afforestation does **not** cause biodiversity loss; road expansion, urbanisation, and agriculture expansion do (UKPCS-style stems).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -74,7 +76,8 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity (आनुवंशि
 | **Endemic Species** | **Invasive Alien Species** | Native species strictly restricted to a specific unique geographic territory and found nowhere else (e.g. Lion-tailed Macaque in Western Ghats) vs non-native species introduced from outside that outcompete and displace indigenous wildlife (e.g. Lantana camara, Water Hyacinth) | स्थानिक प्रजाति (Endemic) / आक्रामक विदेशी प्रजाति (Invasive) |
 | **Biodiversity Hotspot** | **Hope Spot** | Terrestrial regions with exceptionally high endemic species richness under severe threat (≥1,500 endemic vascular plants and ≥70% primary vegetation lost; Norman Myers) vs marine protected areas critical to the health of global oceans (Sylvia Earle / Mission Blue) | जैव विविधता हॉटस्पॉट (स्थलीय) / होप स्पॉट (समुद्री) |
 | **People's Biodiversity Register (PBR)** | **Red Data Book** | Mandated under Biological Diversity Act 2002 prepared by local Biodiversity Management Committees (BMCs) documenting traditional ecological knowledge vs official compendium published by IUCN documenting global extinction risks | जन जैव विविधता रजिस्टर (PBR) / रेड डेटा बुक (IUCN) |
----
+
+</details>
 
 ## Must-score facts — levels, hotspots, CBD, IUCN
 

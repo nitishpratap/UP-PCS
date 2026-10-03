@@ -22,7 +22,8 @@
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
 2. **Article 48A** (DPSP (राज्य के नीति निदेशक तत्व)) directs the State to protect the environment (पर्यावरण). **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
@@ -53,9 +54,10 @@
 27. Wildlife and forests sit on the **Concurrent List** (समवर्ती सूची) — Centre and states both legislate.
 28. Indian courts have adopted Rio principles — **Precautionary**, **Polluter Pays**, and **Public Trust** (*Vellore Citizens’ Welfare Forum*).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -65,7 +67,8 @@
 | **Biological Diversity Act (BDA 2002)** | **Protection of Plant Varieties and Farmers' Rights Act (PPVFRA 2001)** | Implements 1992 CBD via three-tier structure (NBA, SBB, BMC) controlling commercial bio-resource access and benefit sharing (ABS) vs sui generis IPR regime granting legal rights to commercial plant breeders while safeguarding traditional farmers' seed-saving rights | जैव विविधता अधिनियम 2002 / पौधा किस्म व कृषक अधिकार संरक्षण 2001 |
 | **Genetic Engineering Appraisal Committee (GEAC)** | **Central Ground Water Authority (CGWA)** | Statutory apex regulatory body constituted under Rules 1989 of EPA 1986 approving environmental release of GMOs (e.g. Bt Cotton) vs regulatory authority constituted under Section 3(3) of EPA 1986 regulating commercial groundwater extraction NOCs | जीईएसी (GEAC, जीएमओ नियामक) / केंद्रीय भूजल प्राधिकरण (CGWA) |
 | **Coastal Regulation Zone (CRZ)** | **Eco-Sensitive Zone (ESZ)** | Coastal belt up to 500 m from High Tide Line classified into CRZ-I to IV under EPA 1986 to regulate beach and marine development vs buffer belt around protected areas notified under Section 3 of EPA 1986 to curb polluting industrial operations | तटीय विनियमन क्षेत्र (CRZ) / पर्यावरण-संवेदनशील क्षेत्र (ESZ) |
----
+
+</details>
 
 ## Must-score facts — act years, articles, clearances
 

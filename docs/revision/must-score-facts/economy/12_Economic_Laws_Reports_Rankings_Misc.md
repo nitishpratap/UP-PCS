@@ -11,92 +11,76 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Economy Topic 12 — Economic Laws, Reports, Rankings and Miscellaneous</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The **Economic Survey** is tabled by the Finance Ministry (CEA wing) usually a day before the Union Budget — a review of the economy and policy narrative.
-2. Survey questions are **edition-specific** — match the year in the stem before picking a number or phrase.
-3. Economic Survey 2022–23: amid global supply disruptions, the government **reduced taxes on fuel and certain imported products** (not cut food/fertiliser subsidies; not raised fuel taxes).
-4. Economic Survey 2022–23 services teaching: services credit growth above **16%** since July 2022; **75 Digital Banking Units**; PMI services strong expansion — e-commerce fashion/grocery “two-thirds” was framed as **next four years (~2027)**, not **2030**.
-5. **Insolvency and Bankruptcy Code (IBC), 2016** — time-bound corporate insolvency resolution; IBBI is the regulator.
-6. **RERA (Real Estate Regulation and Development Act), 2016** — regulates promoters / projects and protects home buyers.
-7. **Competition Act, 2002** — CCI (Topic 11).
-8. **Companies Act, 2013** — company law + CSR (Topic 11).
-9. **Consumer Protection Act, 2019** — consumer rights / e-commerce duties (Topic 11).
-10. **FEMA, 1999** (force **1 June 2000**) replaced **FERA, 1973** (Topic 9).
-11. **PMLA, 2002** — Prevention of Money Laundering Act; Enforcement Directorate investigates; scheduled offences feed the laundering definition.
-12. Under PMLA, the Director **can** call for records from financial institutions — a stem saying the Director “is not given” that power is **false**.
-13. Four **Labour Codes** (Wages; Industrial Relations; Social Security; Occupational Safety) consolidate many older labour laws — year tags are CA-sensitive (2019–20 passage teaching).
-14. **FRBM Act** anchors fiscal-deficit rules (Topic 2).
-15. **Human Development Index / HDR** — UNDP; first HDR **1990**; pillars in Topic 8.
-16. Rank **number rising** (e.g. 130 → 132) means a **worse** position — “slipped” is correct language; “upgraded” is wrong.
-17. HDR 2021–22 teaching: India around **132**; prior report band ~130/131 — keyed stem uses **slipped** as the true statement.
-18. **Gender Inequality Index (GII)** entered HDR in **2010** (UKPCS neighbour).
-19. HDR 2020 India HDI rank teaching: **131**.
-20. **Physical Quality of Life Index (PQLI)** was developed by **Morris D. Morris** — literacy, IMR, life expectancy teaching — **not** UNDP and **not** Mahbub ul Haq.
-21. **Global Hunger Index (GHI)** — IFPRI / Welthungerhilfe / Concern Worldwide editions; higher score = worse hunger; ranks are **not** comparable across editions without care.
-22. GHI **2017**: India **100th** (of 119 scored that year).
-23. **World Happiness Report** — Gallup World Poll / Cantril ladder; Finland often tops recent tables.
-24. World Happiness Report **2022**: India **136th**.
+1. Economic Survey 2022–23: response to supply shocks included **reducing taxes on fuel and certain imported products**.
+2. That response was **not** cutting food/fertiliser subsidies and **not** raising fuel taxes.
+3. Services chapter teaching: credit growth to services above **16%** since July 2022; **75 Digital Banking Units**; strong PMI services.
+4. E-commerce fashion / grocery / general merchandise “two-thirds” share was framed as **next four years (~2027)** — **not by 2030**.
+5. RBI Annual Report / Monetary Policy Report track money, banking and inflation.
+6. Finance Commission Report tracks devolution (Topic 2).
+7. IMF **World Economic Outlook** and World Bank **World Development Report** are global cousins.
+8. UNDP **Human Development Report** carries HDI (Topics 8 / 12.3).
+9. Decreasing food and fertiliser subsidies
+10. Increasing taxes on fuel and imported products
+11. Reducing taxes on fuel and certain imported products
+12. **Insolvency and Bankruptcy Code (IBC), 2016** — time-bound corporate insolvency resolution; IBBI is the regulator.
+13. **RERA (Real Estate Regulation and Development Act), 2016** — regulates promoters / projects and protects home buyers.
+14. **Competition Act, 2002** — CCI (Topic 11).
+15. **Companies Act, 2013** — company law + CSR (Topic 11).
+16. **Consumer Protection Act, 2019** — consumer rights / e-commerce duties (Topic 11).
+17. **FEMA, 1999** (force **1 June 2000**) replaced **FERA, 1973** (Topic 9).
+18. **PMLA, 2002** — Prevention of Money Laundering Act; Enforcement Directorate investigates; scheduled offences feed the laundering definition.
+19. **FRBM Act** anchors fiscal-deficit rules (Topic 2).
+20. **Human Development Index / HDR** — UNDP; first HDR **1990**; pillars in Topic 8.
+21. **Gender Inequality Index (GII)** entered HDR in **2010** (UKPCS neighbour).
+22. **Physical Quality of Life Index (PQLI)** was developed by **Morris D. Morris** — literacy, IMR, life expectancy teaching — **not** UNDP and **not** Mahbub ul Haq.
+23. **Global Hunger Index (GHI)** — IFPRI / Welthungerhilfe / Concern Worldwide editions; higher score = worse hunger; ranks are **not** comparable across editions without care.
+24. **World Happiness Report** — Gallup World Poll / Cantril ladder; Finland often tops recent tables.
 25. **Global Peace Index (GPI)** — Institute for Economics and Peace (IEP); domains: conflict, safety/security, militarisation.
-26. GPI **2018**: India **136th**.
-27. **Ease of Doing Business / Doing Business** — World Bank (historical); India **77** in DB 2019 and **63** in DB 2020; report **discontinued** after 2021.
-28. Learn both EoDB ranks; do not invent a live annual World Bank EoDB after discontinuation.
-29. **Global Competitiveness Index** — World Economic Forum (Topic 10 neighbour).
-30. **Global Innovation Index** — WIPO-led teaching in recent editions (CA-sensitive ranks).
-31. **SDG India Index** — **NITI Aayog**; state performance dashboard.
-32. SDG India Index top performers rotate by edition (Kerala / Uttarakhand shared top score **79** in 2023–24 UKPCS teaching).
-33. Publisher drill: UNDP → HDI/HDR; World Bank → (historical) Doing Business / WDR; WEF → competitiveness; IEP → GPI; Happiness Report → happiness ranks; NITI → SDG India Index.
-34. IBC’s corporate insolvency resolution process (CIRP) and committee of creditors are the high-yield process tags.
-35. RERA registration of projects and escrow of buyer funds are the high-yield buyer-protection tags.
-36. Rank stems fail when you mix **years** — always read the edition year first.
-37. **NITI Aayog** is the **nodal institution** for SDG implementation in India (not Planning Commission / Finance Commission).
-38. SDG India Index categories: **Aspirant 0–49**; **Performer 50–64**; **Front-runner 65–99**; **Achiever 100**.
-39. National SDG India Index score: **57** (2018) → **66** (2020–21) → **71** (2023–24).
-40. **2023–24** joint toppers: **Kerala + Uttarakhand (79)**; Tamil Nadu **78**; Bihar lowest **57**.
-41. **Uttar Pradesh**: Performer (2019–20 / 2020–21) → Front Runner **67** (2023–24).
-42. Gujarat was **not** among top-five States in 2019–20 / 2020–21 SDG India Index stems.
-43. Global SDSN ranks (edition-bound): **2016 = 110**; **2017 = 116**; **2023 ≈ 112**; **2024 ≈ 109**; **2025 = 99** (first top-100).
-44. **SDG-6** = Clean Water and Sanitation; **SDG-15** = Life on Land; **SDG-1 / 2 / 9** = No Poverty / Zero Hunger / Industry–Innovation–Infrastructure.
-45. SDG Urban Index 2021–22 top: **Shimla → Coimbatore → Chandigarh / Thiruvananthapuram** — Indore not in top three.
-46. India’s SDG success is globally critical because India is ≈ **one-sixth** of world population.
-47. UN SG **Annual SDG Progress Report** vs **Global Sustainable Development Report** every **four years** (not every quarter).
-48. SDG-4 (Quality Education) keyed levers: free/compulsory education + school infrastructure / digital — not agri expansion.
-49. Publisher split: **NITI** = SDG India Index (States); **SDSN** = global Sustainable Development Report.
-50. Match drill: SDG-10 Reduced Inequalities; 13 Climate Action; 14 Life Below Water; 15 Life on Land.
-
-</details>
+26. **Ease of Doing Business / Doing Business** — World Bank (historical); India **77** in DB 2019 and **63** in DB 2020; report **discontinued** after 2021.
+27. **Global Competitiveness Index** — World Economic Forum (Topic 10 neighbour).
+28. **Global Innovation Index** — WIPO-led teaching in recent editions (CA-sensitive ranks).
+29. **SDG India Index** — **NITI Aayog**; state performance dashboard.
+30. **NITI Aayog** is the **nodal institution** for SDG implementation in India (not Planning Commission / Finance Commission).
+31. **2023–24** joint toppers: **Kerala + Uttarakhand (79)**; Tamil Nadu **78**; Bihar lowest **57**.
+32. **Uttar Pradesh**: Performer (2019–20 / 2020–21) → Front Runner **67** (2023–24).
+33. **SDG-6** = Clean Water and Sanitation; **SDG-15** = Life on Land; **SDG-1 / 2 / 9** = No Poverty / Zero Hunger / Industry–Innovation–Infrastructure.
+34. **RERA (Real Estate Regulation and Development Act), 2016** regulates promoters and projects.
+35. **Code on Wages, 2019** amalgamates: **Payment of Wages Act**, **Minimum Wages Act**, **Payment of Bonus Act**, and **Equal Remuneration Act** — **not** the Contract Labour Act.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **Economic Survey** | **Union Budget** | Review / narrative day-before vs Annual Financial Statement |
-| **HDI rank rise (number)** | **HDI improvement** | Larger rank number = worse place |
-| **“Slipped” to 132** | **“Upgraded” to 132** | Direction word decides the stem |
-| **PQLI (Morris)** | **HDI (UNDP / Haq)** | Older physical-quality index vs UNDP HDI |
-| **GHI edition year** | **Latest GHI you remember** | Stem year wins |
-| **World Happiness 2022 = 136** | **Later Happiness ranks** | Edition-bound |
-| **Doing Business 2019 = 77** | **Doing Business 2020 = 63** | Two-step improvement; report later stopped |
-| **GPI (IEP)** | **Happiness Report** | Peacefulness vs life-evaluation |
-| **IBC 2016** | **RERA 2016** | Insolvency resolution vs real-estate regulation |
-| **PMLA** | **FEMA** | Money-laundering criminal law vs forex management |
-| **SDG India Index (NITI)** | **Global SDG indices (SDSN)** | Domestic state dashboard vs global country ranks |
-| **GII 2010** | **HDI 1990** | Gender index entry vs first HDR |
-| **Brundtland / Our Common Future** | **Limits to Growth** | 1987 WCED vs 1972 Club of Rome (Topic 8) |
-| **Aspirant / Performer / Front-runner / Achiever** | **Any other score bands** | 0–49 / 50–64 / 65–99 / 100 |
-| **Kerala + Uttarakhand 79 (2023–24)** | **Older Kerala-only top** | Joint top in latest NITI edition |
-| **SDG-6 water** | **SDG-7 energy** | Clean water vs clean energy |
-| **PAT (BEE / Power)** | **NCAP (MoEFCC, 2019)** | Industry SEC / energy trade vs city clean-air strategy |
-| **MISHTI (Budget 2023–24)** | **LiFE (COP26 2021)** | Mangrove shoreline income vs lifestyle climate call |
-| **NEP 2020 (Kasturirangan)** | **NEP 1986** | New policy vs ~34-year predecessor (not “38”) |
-| **Raghavan Committee** | **Narasimham Committee** | Competition Act path vs banking reforms |
-| **DigiLocker** | **Saaransh** | Citizen e-document wallet vs NeGP MMP compendium |
-| **UDAY** | **Saubhagya / UJALA** | Discom financial turnaround vs household electrification / LED |
+## ⚡ Confused Pairs & Common Examiner Traps
 
-</details>
+* Survey ≠ Budget; read the **edition year** before picking Survey facts.
+* E-commerce “two-thirds” = **~2027 / next four years**, not **2030**.
+* HDI: larger rank number = **worse**; “slipped” ≠ “upgraded”.
+* PQLI = **Morris D. Morris** ≠ UNDP/Haq HDI.
+* Ranks are edition-bound: GHI 2017 = **100**; Happiness 2022 = **136**; GPI 2018 = **136**; EoDB **77 → 63** then discontinued.
+* IBC & RERA = **2016**; PMLA Director **can** call FI records.
+* GII = HDR **2010**; first HDR = **1990**.
+* SDG India Index = **NITI**, not IMF/World Bank.
+* NITI categories: Aspirant **0–49** / Performer **50–64** / Front-runner **65–99** / Achiever **100**.
+* 2023–24 joint top = **Kerala + Uttarakhand (79)**; Bihar lowest **57**.
+* UP: Performer (2019–20) → Front Runner (2023–24) — year matters.
+* Gujarat **not** top-five in 2019–20 / 2020–21.
+* SDSN global ranks are edition-bound (2016=110; 2017=116; 2025=99).
+* SDG-6 = water; SDG-15 = life on land; GSDR = every **four years**, not quarterly.
+* NITI SDG India Index ≠ SDSN global SDG Index.
+* PAT = **2012** BEE energy-intensive SEC cut ≠ NCAP **2019** clean air ≠ MISHTI Budget **2023–24** ≠ LiFE **COP26**.
+* NEP 2020 = Kasturirangan; replaces **1986** (~**34** years, not 38); vocational from **Grade 6**.
+* Competition Act ← **Raghavan**; CCI founded **14 Oct 2003**.
+* DigiLocker = Digital India e-docs; **Saaransh** = NeGP Mission Mode Projects book.
+* UDAY = Discom turnaround (**2015**); Surya Ghar = rooftop solar + free-units teaching (**2024**).
+* UN years: **2023 Millets**; **2025** Peace and Trust; **2026** Woman Farmer; **2027** Sustainable Tourism; **2029** Asteroid Awareness.
+* “Missing women” = **Amartya Sen**; Marginal Man = **Robert E. Park**; Global Village = **McLuhan** (transport/communication).
+* East–West corridor = **Silchar–Porbandar**; Golden Triangle tourism = **Delhi–Agra–Jaipur**.
+* GQ longest arm teaching = **Chennai–Kolkata**; Amrit Bharat UP Feb 2023 = **149** stations.
+* Kamaiya = Nepal bonded labour; colonial India = raw-material supplier (**not** manufactured-goods exporter to Britain).
+* Arthashastra = **15** adhikaranas; Athavana = Vijayanagara revenue department.
+* BRI = China; O-SMART = MoES oceans; Yamuna Expressway = Greater Noida–Agra.
 
 
 ---

@@ -7,7 +7,8 @@
 
 ---
 
-## Consolidated — 20 Must-Score Facts (UK Protected Areas)
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 20 Must-Score Facts (UK Protected Areas)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Oldest National Park in India:** **Corbett National Park** was established in **1936** as *Hailey National Park* (later Ramganga (रामगंगा) NP in 1954, renamed Corbett in 1957); India’s first national park and the launch site of **Project Tiger (प्रोजेक्ट टाइगर) on 1 April 1973**.
 2. **Largest National Park in Uttarakhand:** **Gangotri (गंगोत्री) National Park (2,390.02 sq. km)** located in **Uttarkashi** (उत्तरकाशी); covers Gaumukh (गौमुख) glacier and high-altitude alpine terrain.
@@ -30,9 +31,10 @@
 19. Gangotri is the **largest NP**; Kedarnath is the **largest WLS** — do not swap size crowns across categories.
 20. Valley of Flowers is the **smallest NP**; Mussoorie/Benog is the **smallest WLS** — different categories, different districts.
 
----
+</details>
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Protected Area A | Protected Area B | Critical Distinction (UKPCS Traps) |
 | :--- | :--- | :--- |
@@ -44,7 +46,7 @@
 | **Asan Conservation Reserve** | **Jhilmil Jheel Conservation Reserve**| Asan = **1st Ramsar Site (Dehradun, 2020)**; Jhilmil Jheel = **Swamp Deer habitat (Haridwar, 2005)**. |
 | **Nanda Devi NP (1982)** | **Valley of Flowers NP (1982)** | Both established in 1982 in Chamoli — Nanda Devi UNESCO status **1988**; Valley of Flowers UNESCO status **2005**. |
 
----
+</details>
 
 ## 1. Master Table: The 6 National Parks of Uttarakhand
 

@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Census and Urbanisation Topic 3 — Population Composition and Demographic Characteristics</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -27,18 +33,6 @@ hide:
 | **2nd Most Spoken Language in India**: **Bengali (8.03%)** | **3rd Most Spoken Language in India**: **Marathi (6.86%)** | **Trap**: In 2001, Telugu was 3rd. In 2011, Marathi surpassed Telugu (6.70%) to become the 3rd most spoken language. |
 | **UP Highest Overall Literacy**: **Gautam Buddha Nagar (80.12%)** | **UP Highest Female Literacy**: **Kanpur Nagar (75.05%)** | **Trap**: GB Nagar is highest overall, but Kanpur Nagar is highest in female literacy. |
 | **Particularly Vulnerable Tribal Groups (PVTGs)**: **75 Groups** in 18 States & 1 UT | **Total Notified Scheduled Tribes**: Over **705 Distinct Tribes** | **Trap**: 75 is the number of PVTGs (Dhebar Commission); total scheduled tribes exceed 700. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -155,18 +149,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The proportion of the Working-Age Population (15–59 years) in India as per Census 2011 was 60.3%.
-- **Exam Anchor:** The proportion of the Child Population (0–14 years) in India in 2011 was 30.8%, while the Senior Citizen Population (60+ years) was 8.6%.
-- **Exam Anchor:** India's Total Dependency Ratio in Census 2011 was 65.2% (down from 75.2% in 2001).
-- **Exam Anchor:** In Census classification, a Main Worker is an individual who engaged in economic activity for 183 days (6 months) or more in the preceding year.
-- **Exam Anchor:** A Marginal Worker is an individual who worked for less than 183 days during the preceding reference year.
-- **Exam Anchor:** Among India's workforce in 2011, Agricultural Labourers (30.0%) formed the largest single occupational category, surpassing Cultivators (24.6%).
-- **Exam Anchor:** The overall Sex Ratio of India in Census 2011 was 943 females per 1,000 males.
 - **Exam Anchor:** Kerala has the highest sex ratio among Indian States at 1,084, followed by Tamil Nadu (996) and Andhra Pradesh (993).
-
-</details>
+- **Exam Anchor:** Haryana has the lowest sex ratio among Indian States at 879, followed by Jammu & Kashmir (889) and Sikkim (890).
+- **Exam Anchor:** Puducherry has the highest sex ratio among Union Territories at 1,037, while Daman & Diu has the lowest at 618.
+- **Exam Anchor:** Mizoram recorded the highest Child Sex Ratio among States at 970, followed by Meghalaya (970) and Chhattisgarh (969).
+- **Exam Anchor:** Haryana recorded the lowest Child Sex Ratio among States at 834, followed by Punjab (846).
+- **Exam Anchor:** Kerala has the highest overall literacy rate (94.0%) as well as highest female literacy (92.1%).
+- **Exam Anchor:** Bihar has the lowest overall literacy rate (61.8%) and the lowest male literacy rate (71.2%).
+- **Exam Anchor:** Rajasthan recorded the lowest female literacy rate among all States at 52.1% (and the widest gender literacy gap of 27.1%).
 
 ---
 

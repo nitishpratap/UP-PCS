@@ -24,7 +24,8 @@ None mandatory — static world-map chapter. No living scheme tag.
 ---
 
 
-## Consolidated — 40 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 40 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Area order (largest → smallest): **Asia → Africa → North America → South America → Antarctica → Europe → Australia**. Australia is the **smallest** continent; Africa has the **most countries (~54)**.
 2. Mean elevation leader is **Antarctica** (~2300 m). Europe has the **highest share of plains** in its area. **Guyana** is in **South America**, not Africa.
@@ -59,9 +60,10 @@ None mandatory — static world-map chapter. No living scheme tag.
 29. Plateau types in teaching: intermontane (**Tibet**), piedmont, and volcanic / lava (**Columbia**, Deccan). **Pamir** = “Roof of the world”; **Altiplano** = Bolivia–Peru.
 30. Valley tags: rift valleys (East Africa, Rhine), glacial U-valleys, and structural vales. **Death Valley** = rift / extreme heat; do not confuse with Silicon Valley.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -104,7 +106,7 @@ None mandatory — static world-map chapter. No living scheme tag.
 | Socotra | **Yemen** | Oman | सोकोत्रा |
 | Majuli | **Brahmaputra** river island | Amazon | माजुली |
 
----
+</details>
 
 ## Must-score facts — continents, mountains, grasslands
 

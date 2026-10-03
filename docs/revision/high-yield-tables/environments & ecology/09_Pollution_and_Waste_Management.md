@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 9 — Pollution & Waste Management</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Central Pollution Control Board (CPCB)** | **Central Ground Water Board (CGWB)** | Statutory apex pollution regulator established under Water Act 1974 for framing air/water standards and national monitoring vs subordinate scientific office under Ministry of Jal Shakti assessing groundwater resources and aquifer dynamics | केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) / केंद्रीय भूजल बोर्ड (CGWB) |
 | **Classical (London) Smog** | **Photochemical (Los Angeles) Smog** | Occurs in cool, humid winter mornings; high concentrations of SO₂ and coal soot; chemically reducing in nature vs occurs in hot, dry, sunny afternoons; vehicle exhaust NOx + volatile organic compounds (VOCs); chemically oxidizing in nature with high ozone and PAN | लंदन स्मॉग (सल्फ्यूरस/अपचायक) / प्रकाश रासायनिक स्मॉग (ऑक्सीकारक) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Basics
 
@@ -137,18 +131,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Pollution is harmful addition beyond the environment (पर्यावरण)’s absorption capacity. Degradation is the broader fall in environmental quality and productivity.
-- **Exam Anchor:** Human-caused pollution / human-modified environment = anthropogenic. Anthropogenic pollution often raises persistent non-biodegradable loads.
 - **Exam Anchor:** Biodegradable pollutants (sewage, faecal matter, urine, domestic waste, rubber in some stems) break down by microbes. Non-biodegradable include pesticides, plastics, mercury, asbestos.
 - **Exam Anchor:** Point sources are chimneys and drains. Non-point sources include farm runoff and roads.
 - **Exam Anchor:** Primary pollutants are emitted directly (SO₂, PM, CO, NOx, lead). Secondary pollutants form in air (O₃, PAN, photochemical smog, acid rain (अम्ल वर्षा)).
-- **Exam Anchor:** Law years: Water Act 1974 → Air Act 1981 → EPA 1986 (पर्यावरण संरक्षण 1986). Noise Rules date to 2000. Air Act amended 1987 to include noise.
 - **Exam Anchor:** CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) sets ambient air and surface-water standards. SPCB enforces in States. CGWB handles groundwater assessment — not CPCB.
-- **Exam Anchor:** India’s AQI uses eight pollutants: PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb — not CO₂ or CH₄ (those are climate gases). Bands: 0–50 Good … 401–500 Severe.
-
-</details>
+- **Exam Anchor:** CO binds haemoglobin ~200–300× more strongly than O₂ (carboxyhaemoglobin). Lead antiknock in petrol harms IQ/brain development.
+- **Exam Anchor:** Fly ash from coal TPPs: usable in bricks / Portland cement replacement; contains SiO₂, Al₂O₃, CaO plus toxic metals — not “oxides only.”
+- **Exam Anchor:** Lichens are SO₂ bio-indicators and die in polluted air. Radon is the classic major indoor air pollutant (lung cancer risk).
 
 ---
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 2 — Ecology (पारिस्थितिकी) & Ecosystem (पारिस्थितिकी तंत्र)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -28,11 +26,7 @@ hide:
 | **Sere** | **Climax Community** | Entire chronological transitional sequence of developmental communities during ecological succession vs final, stable, self-perpetuating terminal community in equilibrium with regional climate | क्रमक (Sere) / चरम समुदाय |
 | **Bionomics** | **Ecology** | Historical 19th-century synonym of ecology meaning "laws of life" (UPPCS trap: bionomics is NOT management of life) vs modern ecology | बायोनॉमिक्स / पारिस्थितिकी |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Founders / levels
 
@@ -199,18 +193,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Ecology is the study of organism–environment (पर्यावरण) interactions. Haeckel (1866) coined the term. Ramdeo Misra is called the father of Indian ecology. Bionomics (बायोनॉमिक्स) is synonymous with ecology; it does not mean “management of life.”
-- **Exam Anchor:** An ecosystem (पारिस्थितिकी तंत्र) is a functional unit of biotic and abiotic interaction with energy flow and nutrient cycling. Tansley (1935) coined the word.
-- **Exam Anchor:** Ecosystems are normally open systems. Calling an ecosystem a closed system is wrong.
-- **Exam Anchor:** Four (चातुर्याम) basic components often listed together are abiotic materials, producers, consumers, and decomposers.
-- **Exam Anchor:** The seven ecological levels run organism → population (जनसंख्या) → community → ecosystem → landscape → biome (जीवोम) → biosphere. A frequent shorter order asked is Population → Community → Ecosystem → Landscape.
-- **Exam Anchor:** The biosphere is the largest ecosystem of Earth. Among ecosystem types, the marine/ocean ecosystem covers the largest area and is cited as the most stable.
-- **Exam Anchor:** Ecosystems may be natural or anthropogenic, terrestrial or aquatic, and lentic (standing) or lotic (flowing).
-- **Exam Anchor:** Artificial / anthropogenic examples include farmland / rice field, orchard, garden, aquarium, and human-made reservoir.
-
-</details>
+- **Exam Anchor:** Gause’s competitive exclusion says two species with identical niches cannot stably coexist when resources are limited.
+- **Exam Anchor:** Liebig = limiting factor; Shelford = tolerance range; Lindeman (1942) ≈ 10% energy transfer between trophic levels.
+- **Exam Anchor:** NPP = GPP − plant respiration. Plants capture only about 1% of incident sunlight on leaves.
+- **Exam Anchor:** Primary succession (प्राथमिक अनुक्रमण) starts on a lifeless substrate. Secondary succession (द्वितीयक अनुक्रमण) starts where soil already exists after disturbance.
+- **Exam Anchor:** Eutrophication (सुपोषण) is nutrient overload that drives algal bloom and a dissolved-oxygen crash.
+- **Exam Anchor:** Upwelling brings cold, nutrient-rich water to the surface and raises marine productivity.
+- **Exam Anchor:** Eucalyptus is often treated as an environmental hazard because it draws heavy groundwater and can lower the water table.
 
 ---
 

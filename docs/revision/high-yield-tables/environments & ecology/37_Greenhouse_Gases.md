@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 37 — Greenhouse Gases</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -23,11 +21,7 @@ hide:
 | **Sulfur Hexafluoride (SF₆)** | **Carbon Dioxide (CO₂)** | Most potent GHG known with GWP >23,500 (used in electrical switchgear) vs benchmark baseline GHG with GWP = 1 | सल्फर हेक्साफ्लोराइड (GWP 23,500) / CO₂ (मानक 1) |
 | **Kyoto Six GHGs** | **Montreal Phase-Out Gases** | CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ (later NF₃ added) targeted for climate reduction vs CFCs, Halons, CCl₄, HCFCs targeted for stratospheric ozone protection | क्योटो 6 ग्रीनहाउस गैसें / मॉन्ट्रियल ओजोन गैसें |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Gases
 
@@ -105,18 +99,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A greenhouse gas absorbs outgoing infrared radiation and traps heat in the atmosphere.
-- **Exam Anchor:** Without the natural greenhouse effect (प्राकृतिक ग्रीनहाउस प्रभाव) Earth would average about −18°C. With it the surface averages about +15°C. Joseph Fourier (1820s) framed the idea.
 - **Exam Anchor:** CO₂ has GWP = 1. It dominates long-term forcing from fossil fuels, cement, and deforestation.
-- **Exam Anchor:** Pre-industrial CO₂ was about 280 ppm (~0.03%). Present levels are above 415–420 ppm.
-- **Exam Anchor:** Rough WMO-style relative (सापेक्ष) shares: CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%. Order: CO₂ > CH₄ > CFCs > N₂O.
 - **Exam Anchor:** Methane (CH₄) has GWP about 28–36, a shorter lifetime near 12 years, and strong links to paddies, cattle, landfills, termites, and wetlands (marsh gas).
 - **Exam Anchor:** Nitrous oxide (N₂O) is “laughing gas,” has very high GWP (about 265), and is strongly linked to fertilizer use. Rice emits both CH₄ and N₂O.
 - **Exam Anchor:** Water vapour is the most abundant natural greenhouse gas (~half of natural effect), but it mainly acts as a feedback, not the primary anthropogenic driver.
-
-</details>
+- **Exam Anchor:** Tropospheric ozone (क्षोभमंडलीय ओजोन) is a greenhouse gas and pollutant. Stratospheric ozone (समतापमंडलीय ओजोन) is the UV shield.
+- **Exam Anchor:** CFCs are both greenhouse gases and ozone-depleting substances and fall under Montreal controls.
+- **Exam Anchor:** HFCs are greenhouse gases only (not classic ODS) and are phased down under Kigali 2016.
+- **Exam Anchor:** GWP compares heat-trapping power to CO₂ over a stated horizon, usually 100 years. Methane’s short-horizon GWP is much higher than CO₂ — CH₄ is more potent per molecule.
 
 ---
 

@@ -46,7 +46,8 @@ D. None of the above
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Bhimbetka** (भीमबेटका) rock shelters are in Raisen, **Madhya Pradesh. V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
 2. The **Jogimara** (जोगीमारा) cave at Ramgarh in **Chhattisgarh**, dating to about the **3rd–1st** century BCE, contains the earliest surviving Indian frescoes, depicting secular dance and theatrical scenes rather than Buddhist narrative cycles.
@@ -81,10 +82,10 @@ D. None of the above
 31. **Gond** painting of Madhya Pradesh uses dotted tree-and-animal patterning. Do not place Gond in Bihar or Maharashtra.
 32. The celebrated treatise *Venushilpa* by Chitracharya Upendra Maharathi is a definitive work on **bamboo** art and craft, not a painting school.
 
+</details>
 
----
-
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -102,8 +103,7 @@ D. None of the above
 | Srikalahasti Kalamkari | Machilipatnam Kalamkari | Temple kalam (pen) religious vs block-print trade cloth | श्रीकालहस्ती / मछलीपट्टनम |
 | Jogimara | Ajanta | Earliest secular fresco (Ramgarh, CG) vs Buddhist narrative peak | जोगीमारा / अजंता |
 
----
-
+</details>
 
 ## Must-score facts — murals, Mughal, Rajput/Pahari
 

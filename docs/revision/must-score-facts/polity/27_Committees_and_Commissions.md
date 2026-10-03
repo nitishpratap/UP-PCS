@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 27 – Important Committees and Commissions (Fact-Lock)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Santhanam Committee (1962–64):** Formed on Prevention of Corruption; recommended the establishment of the **Central Vigilance Commission (CVC, 1964)**.
 2. **Swaran Singh Committee (1976):** Recommended inclusion of **Fundamental Duties** (मौलिक कर्तव्य) (Part IVA, Art 51A) incorporated by the **42nd (42वां) Amendment Act 1976**. *(Note: Recommended 8 duties; 10 were added in 1976; 11th added in 2002 via 86th Amd).*
@@ -40,29 +39,6 @@ hide:
 24. **First & Second Administrative Reforms Commissions:**
 25. **1st ARC (प्रथम एआरसी) (1966):** Chaired by **Morarji Desai (आमिल)** (later K. Hanumanthaiah); recommended Lokpal (लोकपाल) and Lokayukta (लोकायुक्त).
 26. **2nd ARC (द्वितीय एआरसी) (2005):** Chaired by **Veerappa Moily** (later V. Ramachandran); submitted 15 reports on ethics, RTI, and crisis management.
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-& Common Traps
-
-| Committee A | Committee B | Critical Distinction (UPPCS / UKPCS Traps) |
-| :--- | :--- | :--- |
-| **Balwant Rai Mehta (1957)** | **Ashok Mehta (1977)** | Balwant Rai = **3-tier system**; Ashok Mehta = **2-tier system** (Mandal Panchayat & Zila Parishad). |
-| **Sarkaria Commission (1983)**| **Punchhi Commission (2007)**| Both on Centre-State Relations — Sarkaria = **1983 (Inter-State Council)**; Punchhi = **2007 (Governor impeachment & localized Art 355)**. |
-| **Santhanam Committee (1962)**| **Swaran Singh Committee (1976)**| Santhanam = **Anti-corruption / CVC (1964)**; Swaran Singh = **Fundamental Duties / 42nd Amendment (1976)**. |
-| **Dinesh Goswami (1990)** | **Indrajit Gupta (1998)** | Both on Electoral Reforms — Dinesh Goswami = **EVMs & Anti-defection**; Indrajit Gupta = **State funding of elections**. |
-| **Kaka Kalelkar (1953)** | **Mandal Commission (1979)**| 1st Backward Classes Commission (1953) = **Kaka Kalelkar**; 2nd Backward Classes Commission (1979) = **B. P. Mandal**. |
-| **1st ARC (1966)** | **2nd ARC (2005)** | 1st ARC = **Morarji Desai / Hanumanthaiah**; 2nd ARC = **Veerappa Moily / V. Ramachandran**. |
-| **L. M. Singhvi (1986)** | **G. V. K. Rao (1985)** | L. M. Singhvi = **Constitutional status for Panchayats**; G. V. K. Rao = **District level / "Grass without roots" warning**. |
-| **Tarkunde (1974)** | **Swaran Singh (1976)** | Tarkunde = **Voting age 18**; Swaran Singh = **Fundamental Duties**. |
-
----
-
-</details>
 
 
 ---

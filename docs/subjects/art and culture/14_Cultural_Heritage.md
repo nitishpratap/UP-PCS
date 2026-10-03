@@ -64,7 +64,8 @@ D. A and D only
 ---
 
 
-## Consolidated Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Tangible** cultural heritage is a monument or site you can touch. **Intangible** cultural heritage is a living practice or skill you perform.
 2. The World Heritage Convention is **1972** for sites with Outstanding Universal Value. The Intangible Heritage Convention is **2003** for living traditions. **Ramsar (रामसर) 1971** is wetlands, not WHS.
@@ -93,9 +94,10 @@ D. A and D only
 25. **Qutub Minar** (कुतुब मीनार) is a Delhi WHS, not an Uttar Pradesh site. **Khajuraho** is Madhya Pradesh, not UP.
 26. Tangible vs intangible is the first filter: if you can walk into it as a monument, it is tangible; if you perform it as living culture, it is intangible.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -112,8 +114,7 @@ D. A and D only
 | Masterpiece year | Representative List year | Kutiyattam **2001** / Vedic **2003** / Ramlila **2005** vs all three on RL in **2008** | घोषणा / प्रतिनिधि सूची |
 | World Heritage Day | ICH Convention day | **18 April** vs **17 October 2003** | 18 अप्रैल / 17 अक्टूबर |
 
----
-
+</details>
 
 ## Must-score facts — WHS, ICH, UP sites
 

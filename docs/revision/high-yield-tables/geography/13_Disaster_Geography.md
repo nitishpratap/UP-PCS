@@ -11,21 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 13 — Disaster Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Pair | Correct |
-|------|---------|
-| Heat wave vs any hot day | Need **gate** + departure / actual cut |
-| Cold wave vs ordinary winter night | Need abnormal **Tmin** drop / departure |
-| Loo | Hot dry plains wind of north India in summer |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## Current Affairs (this topic)
 
@@ -38,6 +24,42 @@ hide:
 | **2023** | Joshimath subsidence; Sikkim GLOF | Landslide / flood CA | NDMA / news |
 | **2021** | Tauktae (Arabian Sea → Gujarat) | “Arabian Sea never hits west coast” trap | IMD |
 | **2020** | Amphan (BoB → WB/Odisha) | Super cyclone east coast | IMD |
+
+---
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| Focus vs epicentre | Focus = **inside**; epicentre = **surface** | Swapped | उद्गम / अधिकेन्द्र |
+| Body vs surface waves | Body = through Earth (**P, S**); surface = along ground (**Love, Rayleigh**) | Treating all as one family | शरीर तरंग / पृष्ठ तरंग |
+| P-wave vs S-wave | **P** = fastest, solids+liquids+gases; **S** = slower, **solids only** | S through outer core | प्राथमिक / द्वितीयक |
+| P shadow vs S shadow | P miss ~**103–142°**; S absent beyond ~**103°** | Same belt for both / both recorded past 105° | छाया क्षेत्र |
+| Richter vs Mercalli | Magnitude vs **intensity/damage** | Same scale | रिक्टर / मर्कली |
+| Zone V vs II | V = **highest** (NE, Himalaya, Kutch, A&N) | V = safest | क्षेत्र V |
+| Latur 1993 | **Peninsular** / Killari (Zone III) | “Only Himalaya shakes” | लातूर |
+| Koyna 1967 | **Reservoir-induced** | Pure Himalayan thrust | कोयना |
+| Rajasthan / Deccan | Mostly **II–III** | All India Zone V | |
+| Tsunami | **Seafloor slip** / landslide / volcano — Japanese harbour wave | Wind-raised waves / “tidal wave” | सुनामी |
+| INCOIS | Tsunami warning — **Hyderabad** (MoES) | NDMA HQ / IMD Pune as the tsunami hub | INCOIS |
+| Kilimanjaro | **E. African Rift** — not Ring of Fire | Fuji/Pinatubo/St Helens are | किलिमंजारो |
+| Cloudburst | **≥100 mm in one hour** | Any heavy rain | बादल फटना |
+| Heat wave plains | Gate **≥40°C** then +4.5°C | Any hot afternoon | लू / ऊष्मा तरंग |
+| BoB vs Arabian | **BoB more** cyclones | Equal / Arabian more | बंगाल की खाड़ी |
+| Baguio | **Philippines** | Japan / USA | बागिओ |
+| Willy-willies | **Australia** | USA | विली-विली |
+| NDMA chair | **Prime Minister** | Home Minister | प्रधानमंत्री |
+| SDMA chair | **Chief Minister** | Governor | मुख्यमंत्री |
+| Sendai vs Hyogo | **2015–30** vs 2005–15 | Yokohama 2015 | सेंडाई |
+| DPAP year | **1973–74** | 1952 (that is CDP) | DPAP |
+| Hazard vs disaster | Hazard = potential; disaster = when capacity fails | Same word | आपदा ≠ संकट बीज |
+| Mitigation vs response | Before impact vs during/after | Swap | न्यूनीकरण ≠ अनुक्रिया |
+| NPDM year | **2009** | 2005 (that is DM Act) | 2009 नीति |
+| Chemical / industrial | **Bhopal 1984** man-made | “Natural only India” | भोपाल |
+| GLOF vs ordinary flood | Glacial-lake outburst (e.g. **Sikkim 2023**) | Any river monsoon rise | GLOF |
+| Joshimath vs Kedarnath | Joshimath **2023** = subsidence; Kedarnath **2013** = rain–debris–flood | Same mechanism | जोशीमठ / केदारनाथ |
+| Heat gate vs hot day | Plains need **Tmax ≥40°C** then departure/actual cut | Any afternoon above 35°C | ऊष्मा तरंग |
+| BoB peak months | **May–Jun** and **Oct–Dec** | Mid-monsoon as the only peak | चक्रवात ऋतु |
+| NDRF year | Raised **2006** (MHA) | 2005 = DM Act only | NDRF |
+| NEC chair | **Union Home Secretary** | Home Minister / PM | NEC |
 
 ---
 
@@ -173,6 +195,16 @@ hide:
 
 ---
 
+### Confused pair
+
+| Pair | Correct |
+|------|---------|
+| Heat wave vs any hot day | Need **gate** + departure / actual cut |
+| Cold wave vs ordinary winter night | Need abnormal **Tmin** drop / departure |
+| Loo | Hot dry plains wind of north India in summer |
+
+---
+
 ### IMD wind ladder (increasing intensity)
 
 | Stage | Approx. wind (km/h) |
@@ -295,18 +327,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Coaching risk fact: Risk ≈ Hazard × Vulnerability / Capacity. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
-- **Exam Anchor:** The disaster-management cycle runs mitigation → preparedness → response → recovery. Mitigation is before impact; response is during and just after.
-- **Exam Anchor:** Earthquake focus is the point inside the Earth; epicentre is the point on the surface above it. Richter measures magnitude; Mercalli measures intensity / damage.
-- **Exam Anchor:** Seismic waves split into body (through the Earth) and surface (along the ground). Body waves arrive P then S; surface waves come last and do most damage. P-wave shadow (छाया) is about 103–142°; S-wave shadow lies beyond about 103° (liquid outer core). The Himalaya (हिमालय) is India’s highest seismic belt because of collision and thrust zones.
-- **Exam Anchor:** India uses seismic Zones II–V only (Zone I was dropped in 2002). Zone V is highest. A draft Zone VI was withdrawn in March 2026 — maps still follow the 2016 II–V zones.
-- **Exam Anchor:** Zone V covers the North-East, Himalayan pockets, Kutch and the Andaman (अंडमान) & Nicobar (निकोबार) belt. Much of Rajasthan and the Deccan (दक्कन) sits in Zones II–III.
-- **Exam Anchor:** About 59% of India’s landmass is earthquake-prone in NDMA note. Famous shocks: Kangra (कांगड़ा) 1905, Bihar–Nepal 1934, Koyna 1967 (reservoir-induced), Latur 1993 (peninsular / Killari, Zone III), Bhuj 2001, and the 26 December 2004 tsunami.
-- **Exam Anchor:** A tsunami (Japanese “harbour wave”) is caused by seafloor displacement (quake, landslide or volcano), not by ordinary wind waves or tides. It races fast in deep water and piles up near the coast. India’s warning hub is INCOIS, Hyderabad (हैदराबाद). Hall event: 26 Dec 2004 Sumatra megathrust.
-
-</details>
+- **Exam Anchor:** Kilimanjaro sits on the East African Rift and is not part of the Pacific Ring of Fire.
+- **Exam Anchor:** NDMA is chaired by the Prime Minister. SDMA is chaired by the Chief Minister. DDMA is chaired by the District Magistrate / Collector.
+- **Exam Anchor:** Mangroves cut cyclone and surge impact. Bhopal 1984 is the classic man-made industrial / chemical disaster.
+- **Exam Anchor:** DPAP began in 1973–74. The earlier Community Development Programme pair is 1952.
+- **Exam Anchor:** Sendai Framework has seven global targets and four priorities for action (not six targets / three priorities). Priority 4 includes Build Back Better in recovery. It was adopted at the Third UN World Conference on DRR (Sendai, Japan).
+- **Exam Anchor:** Vulnerability is how exposed and fragile a community, house or economy is.
+- **Exam Anchor:** Capacity is the ability to prepare, resist, cope and recover.
+- **Exam Anchor:** Exposure is who or what sits in harm’s way; without exposure, a hazard may not become a disaster.
 
 ---
 

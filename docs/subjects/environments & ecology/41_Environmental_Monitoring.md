@@ -21,7 +21,8 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit (प�
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **PSR** model runs **Pressure → State → Response** for environmental indicators.
 2. Air indicators include **PM2.5, PM10, SO₂, NOx, and AQI**. Water indicators include **BOD, COD, DO, pH, and coliform**.
@@ -46,9 +47,10 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit (प�
 21. Do not call an audit “just another AQI reading (रीडिंग).” Audit checks legal conformity.
 22. Surface-water networks (NWMP) do not replace groundwater networks (CGWB).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -57,7 +59,8 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit (प�
 | **National Air Monitoring Programme (NAMP)** | **Continuous Ambient Air Quality (CAAQMS)** | Nationwide manual sampling network monitoring SO₂, NO₂, PM10, PM2.5 twice weekly vs automated sensors measuring 12 criteria pollutants with real-time online data | राष्ट्रीय वायु निगरानी (NAMP) / सतत परिवेशी वायु निगरानी (CAAQMS) |
 | **Bioindicator** | **Biomarker** | Organism whose presence/absence indicates environmental quality (Lichens for air, Diatoms/Mayfly for fresh water) vs cellular/biochemical alteration measured in an organism due to chemical exposure | जैव संकेतक (लाइकेन/मेफ्लाई) / जैव मार्कर |
 | **Ringelmann Scale** | **Decibel (dB)** | Visual chart scale (0 to 5) used to measure the apparent density/opacity of industrial smoke emissions vs logarithmic acoustic unit measuring environmental sound levels | रिंगेलमैन पैमाना (धुआं घनत्व) / डेसिबल (ध्वनि तीव्रता) |
----
+
+</details>
 
 ## Must-score facts — PSR, NAMP, audit, BOD
 

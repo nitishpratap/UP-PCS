@@ -12,7 +12,8 @@
 
 UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Global human population officially surpassed **8 Billion** on **15 November 2022** (designated by the UN as the "Day of 8 Billion").
 2. **India** officially surpassed China to become the **most populous country in the world** in **April 2023** according to UN DESA estimates.
@@ -65,9 +66,10 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 49. The **United Nations Development Programme (UNDP)** was formed in **1965** and is headquartered in **New York, USA**.
 50. **Sustainable Development Goal 3 (SDG 3)** is dedicated to ensuring **"Good Health and Well-Being for All at All Ages"** by 2030.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **IIPS (International Institute for Population Sciences)**: **Mumbai** | **NIMS (National Institute of Medical Statistics)**: **New Delhi** | **Trap**: IIPS is located in Deonar, Mumbai; NIMS (ICMR) is in New Delhi. |
 | **UN-Habitat Headquarters**: **Nairobi, Kenya** | **UNFPA Headquarters**: **New York, USA** | **Trap**: UN-Habitat is in Nairobi (along with UNEP); UNFPA and UNICEF are in New York. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 1 — Stone Age (Prehistoric India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -35,11 +33,7 @@ hide:
 | Damdama triple burial | Sarai Nahar Rai four-skeleton grave | One triple grave at Damdama vs four skeletons in one grave at Sarai Nahar Rai | दमदमा / सराय नाहर राय |
 | Lahuradewa | Mehrgarh | Early Ganga rice (Sant Kabir Nagar) vs NW wheat–barley village (Balochistan) | लहुरादेवा / मेहरगढ़ |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Period ↔ tool / economy
 
@@ -180,18 +174,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Indian prehistory runs Paleolithic → Mesolithic → Neolithic → Chalcolithic. Paleolithic people used chipped tools and lived by hunting and gathering. Neolithic people used polished or ground stone, pottery, and farming.
-- **Exam Anchor:** Lower Paleolithic tools are handaxes and cleavers (Acheulian). Middle Paleolithic tools are flakes made by the Levallois method. Upper Paleolithic tools are blades, burins, and scrapers.
-- **Exam Anchor:** The Soanian industry of the Soan–Siwalik belt used pebble chopper-chopping tools. The Acheulian industry of the peninsula and Narmada used handaxe-cleaver tools. Do not mix the two traditions.
 - **Exam Anchor:** Hathnora on the Narmada in Madhya Pradesh yielded a Homo erectus skull, found by Arun Sonakia in 1982. It is not a modern Homo sapiens fossil.
 - **Exam Anchor:** Attirampakkam in the Kortallayar valley of Tamil Nadu has Acheulian tools about 1.5 million years old. It is a tool site, not a hominin fossil site.
 - **Exam Anchor:** Robert Bruce Foote recognised the first Indian Paleolithic tools at Pallavaram (Tamil Nadu) in 1863. He is called the Father of Indian Prehistory.
 - **Exam Anchor:** Bagor on the Kothari in Rajasthan is the Mesolithic animal-domestication key. V.N. Misra excavated it. It is not a Paleolithic shrine.
 - **Exam Anchor:** Sarai Nahar Rai (सराय नाहर राय), Mahadaha, and Damdama in Pratapgarh, Uttar Pradesh, are Mesolithic burial sites of the Ganga plain. Domestication is Bagor; burials are Pratapgarh.
-
-</details>
+- **Exam Anchor:** Non-geometric microliths (backed blades) belong to the earlier Mesolithic. Geometric microliths (lunates, triangles, trapezes) belong to the later Mesolithic.
+- **Exam Anchor:** Mehrgarh (मेहरगढ़) in Balochistan is the earliest farming village of the subcontinent, around 7000 BCE. First crops are wheat and barley. Period I is aceramic (farming without pottery).
+- **Exam Anchor:** Koldihwa and Mahagara in the Belan valley of Mirzapur–Prayagraj, Uttar Pradesh, are the early rice pair. G.R. Sharma excavated them.
 
 ---
 

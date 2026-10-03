@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 14 — Final Phase of Freedom Struggle</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -32,11 +30,7 @@ hide:
 | RIN Revolt Feb 1946 | Quit India Aug 1942 | Ratings' mutiny, Bombay/Karachi vs Congress mass movement | नौसेना विद्रोह / भारत छोड़ो |
 | Direct Action Day 1946 | Partition Aug 1947 | League's call for mass action vs the final territorial split | डायरेक्ट एक्शन / विभाजन |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Chronology ladder (1937–47)
 
@@ -194,18 +188,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Congress ministries were formed in 1937 after provincial elections and resigned in 1939 when war was declared without consultation.
 - **Exam Anchor:** CSP (सीएसपी) (1934) worked inside Congress; Nehru (नेहरू) never formally joined. Forward Bloc (1939) is Bose’s separate left-nationalist body.
-- **Exam Anchor:** Bose presided at Haripura 1938 and Tripuri 1939, then resigned and founded the Forward Bloc.
-- **Exam Anchor:** Bose escaped in January 1941. The Azad Hind Government was proclaimed on 21 October 1943 at Singapore.
-- **Exam Anchor:** The Rani of Jhansi (झांसी) Regiment is keyed to Lakshmi Sehgal. INA slogans include Give me blood (खून दो)…, Delhi Chalo and Jai Hind.
 - **Exam Anchor:** INA Trials at the Red Fort (लाल किला) tried Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon. Mass protest forced remission of sentences.
-- **Exam Anchor:** Wartime bridge: ministries resign 1939 → Ramgarh (Mar 1940) → August Offer (अगस्त प्रस्ताव) (Aug 1940) → Individual Satyagraha (सत्याग्रह) (Oct 1940, Vinoba first).
 - **Exam Anchor:** Cripps Mission (March 1942) — Cause: Japan’s advance and need for Indian war cooperation. Course: Stafford Cripps offers dominion after war, Constituent Assembly, and provincial opt-out. Result: Congress and League reject; Gandhi’s “post-dated cheque” line; path opens to Quit India.
-
-</details>
+- **Exam Anchor:** Quit India — Cause: Cripps failure plus wartime repression and “Quit India” demand. Course: 8 August 1942 Bombay launch (Do or Die); leaders jailed; underground and parallel governments. Result: suppressed by 1944 but mass legitimacy of British rule collapses; endgame pressure continues via INA/RIN.
+- **Exam Anchor:** Wavell Plan + Simla Conference sit in June–July 1945. Mission order: Cripps → Wavell Plan → Shimla → Cabinet Mission.
+- **Exam Anchor:** 1945–47 ladder: UK Parliamentary Delegation (Jan 1946) → RIN Revolt (Feb 1946) → Cabinet Mission announced (Feb 1946) → Interim Government (Sep 1946).
+- **Exam Anchor:** Cabinet Mission Plan (16 May 1946) proposed grouping and a union centre. League later withdrew support but still joined the Interim Government.
+- **Exam Anchor:** Direct Action Day (16 August 1946) was the League’s call and triggered Calcutta–Noakhali–Bihar violence that hardened Partition politics.
 
 ---
 

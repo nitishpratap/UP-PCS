@@ -11,91 +11,63 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 1 — Living World, Cell, Genetics and Biotechnology</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The word **'Science'** originates from the Latin word *scientia*, meaning **'knowledge'**; science is the systematic empirical knowledge of the physical world gained through observation and experimentation.
-2. The term **'Biology'** was coined independently by French biologist **Jean-Baptiste Lamarck** and German naturalist **Gottfried Reinhold Treviranus** in **1802**; **Aristotle** is the Father of Biology and Zoology; **Theophrastus** is the Father of Botany (*Historia Plantarum*); **Hippocrates** is the Father of Medicine.
-3. Defining properties of life are **Cellular organisation**, **Metabolism** (sum of all chemical reactions), and **Consciousness** (response to stimuli); growth and reproduction are **not** absolute defining properties (mules, worker bees, infertile human couples do not reproduce).
-4. **Key Specialized Biological Branches**:
-5. **Key Agricultural & Applied Culture Terminologies**:
-6. **Origin of Life (Oparin-Haldane Hypothesis)**:
-7. **The Primitive Earth Atmosphere**:
-8. **The Miller-Urey Experiment (1953)**:
-9. **Geological Chronology of Cenozoic Epochs (Oldest to Most Recent)**:
-10. **Lamarckism (Theory of Inheritance of Acquired Characteristics)**:
-11. **Darwinism (Theory of Natural Selection)**:
-12. **Neo-Darwinism & Modern Synthetic Theory**:
-13. **Hugo de Vries' Mutation Theory (1901)**:
-14. **Landmark Evolutionary Fossils & Missing Links**:
-15. **Augustin Pyramus de Candolle (A. P. de Candolle)**: Swiss botanist who **first coined the term 'Taxonomy'** and was the **first to use vascular tissue characteristics** to classify plants into *Vasculares* (with vascular bundles) and *Cellulares* (without vascular bundles).
-16. **Carolus Linnaeus** (*Systema Naturae*, 1758) established the **Binomial Nomenclature** and is the Father of Modern Taxonomy; scientific names consist of **Genus** (capitalised) and **species epithet** (lowercase), printed in *italics*.
-17. The taxonomic hierarchy in ascending order is: **Species → Genus → Family → Order → Class → Phylum / Division → Kingdom**; the basic and real unit of classification is **Species** (group of individuals with fundamental similarities capable of interbreeding).
-18. **R. H. Whittaker (1969)** proposed the **Five-Kingdom System**: **Monera** (prokaryotes), **Protista** (unicellular eukaryotes), **Fungi** (chitinous heterotrophs), **Plantae** (autotrophs with cellulose wall), and **Animalia** (heterotrophs without cell wall).
-19. **Carl Woese (1990)** introduced the **Three-Domain System** based on 16S rRNA sequences: **Bacteria**, **Archaea**, and **Eukarya**; Archaebacteria have branched ether lipids allowing them to survive in extreme environments (methanogens in ruminant guts, halophiles in salt lakes, thermoacidophiles in hot springs).
-20. **Antony van Leeuwenhoek (1632–1723)** is the Father of Microbiology; discovered bacteria ("animalcules") using single high-power lenses; bacteria are 0.5–5.0 $\mu m$ in size and visible under a compound microscope.
-21. The smallest known living cell capable of autonomous growth and reproduction is ***Mycoplasma gallisepticum*** (0.1–0.3 $\mu m$, lacks a cell wall, naturally insensitive to penicillin and beta-lactam antibiotics); the largest single cell is an **Ostrich egg**; the longest human cell is the **Neuron**.
-22. **Prokaryotes** (bacteria, cyanobacteria) have naked circular DNA in a **nucleoid**, lack membrane-bound organelles, and possess **70S ribosomes** (50S + 30S); **Eukaryotes** have membrane-bound nuclei, linear DNA with histones, and cytoplasmic **80S ribosomes** (60S + 40S).
-23. **Cell Wall** chemical facts: Plants = **Cellulose + Hemicellulose + Pectin**; Fungi = **Chitin** (polymer of N-acetylglucosamine); Bacteria = **Peptidoglycan / Murein**; Algae = **Cellulose + Galactans + Mannans + $CaCO_3$**.
-24. **Singer and Nicolson (1972)** proposed the **Fluid Mosaic Model** of the plasma membrane: a quasi-fluid bilayer of phospholipids with protein "icebergs floating in a lipid sea"; selectively permeable.
-25. **Mitochondria** (Kolliker 1857, Benda 1898) are the powerhouses of the cell (ATP generation via oxidative phosphorylation on inner membrane cristae); contain circular DNA and 70S ribosomes (semi-autonomous); inherited maternally.
-26. **Plastids** (Schimper): **Chloroplasts** (photosynthesis, contain chlorophyll and circular DNA); **Chromoplasts** (pigment storage: Lycopene in tomato, Capsanthin in red chilli, Carotene in carrot, Betanin in beetroot); **Leucoplasts** (storage: Amyloplasts = starch, Elaioplasts = oils/fats, Aleuroplasts = proteins).
-27. **Endoplasmic Reticulum (ER)**: **Rough ER (RER)** has 80S ribosomes on its surface and synthesises proteins; **Smooth ER (SER)** lacks ribosomes and synthesises lipids, steroid hormones, and detoxifies drugs in the liver.
-28. **Golgi Apparatus** (Camillo Golgi, 1898) packages and secretes macromolecules, modifies proteins (glycosylation to form glycoproteins and glycolipids), and forms the **acrosome** of sperm and primary lysosomes.
-29. **Lysosomes** (Christian de Duve, 1955) are "suicidal bags" containing hydrolytic enzymes (acid hydrolases active at pH 4.5–5.0) that digest cellular waste and foreign pathogens.
-30. **Ribosomes** (George Palade, 1953) are non-membrane-bound ribonucleoprotein particles (rRNA + protein) responsible for protein synthesis; known as the "protein factories" of the cell.
-31. **Centrosome / Centrioles** (Boveri, 1888) have a $9+0$ cartwheel microtubule arrangement; present in animal cells to form the mitotic spindle and basal bodies; **absent in higher plant cells**.
-32. **Peroxisomes** contain catalase and urate oxidase to break down toxic $H_2O_2$ and perform photorespiration in plants; **Glyoxysomes** convert fats into carbohydrates via the glyoxylate cycle in germinating fatty seeds (castor, groundnut).
-33. **Nucleus** was discovered by **Robert Brown (1831)**; the **Nucleolus** (Fontana 1781) is the site of active ribosomal RNA (**rRNA**) synthesis; **Chromatin** was named by Walther Flemming.
-34. Human somatic cells have **46 chromosomes (23 pairs)**; gametes have **23 chromosomes (haploid, $n$)**; 22 pairs are autosomes and 1 pair is sex chromosomes (allosomes: XX in female, XY in male).
-35. **Watson and Crick (1953)** proposed the **double-helix model of DNA** based on Rosalind Franklin and Maurice Wilkins' X-ray crystallography; won the Nobel Prize in 1962.
-36. In DNA, **Adenine pairs with Thymine** ($A = T$, two hydrogen bonds) and **Guanine pairs with Cytosine** ($G \equiv C$, three hydrogen bonds); purines ($A, G$) always pair with pyrimidines ($C, T, U$).
-37. **Chargaff's Rule**: In double-stranded DNA, the ratio of Adenine to Thymine and Guanine to Cytosine is equal, i.e., $A + G = T + C$ or $(A+G)/(T+C) = 1$.
-38. **RNA** is typically single-stranded, contains **Ribose sugar**, and replaces Thymine with **Uracil**; three functional types: mRNA (messenger), tRNA (transfer / soluble adaptor with cloverleaf secondary structure), and rRNA (ribosomal, structural and catalytic).
-39. Nitrogen is an essential constituent of **DNA, RNA, proteins, and chlorophyll**, but is **not** an essential constituent of ordinary **carbohydrates** (composed solely of C, H, and O).
-40. The **Cell Cycle** consists of Interphase ($G_1 \rightarrow S \rightarrow G_2$) and M-Phase; **DNA replication and centriole duplication occur strictly during the S (Synthesis) phase**; chromosome number remains $2n$ while DNA content doubles from $2C$ to $4C$.
-41. **Mitosis** (equational division) occurs in somatic cells, yielding 2 genetically identical diploid ($2n$) daughter cells; metaphase is the best stage to study chromosome morphology and count; anaphase is the stage where sister chromatids separate.
-42. **Colchicine** (alkaloid from *Colchicum autumnale*) inhibits mitotic spindle microtubule formation, arresting cell division at **metaphase**; widely used to induce artificial **polyploidy** in plant breeding.
-43. **Meiosis** (reductional division) occurs in germ cells, producing 4 genetically diverse haploid ($n$) daughter cells; chromosome number is halved during **Anaphase-I**.
-44. **Prophase-I of Meiosis has 5 stages**: Leptotene (bouquet stage) → **Zygotene** (synapsis, synaptonemal complex formation) → **Pachytene** (**crossing over** between non-sister chromatids via enzyme **recombinase**) → **Diplotene** (**chiasmata** formation) → Diakinesis (terminalisation of chiasmata).
-45. **Gregor Johann Mendel (1822–1884)**, Father of Genetics, performed hybridisation on garden pea (*Pisum sativum*) for 7 years (1856–1863), tracking 7 contrasting characters; work rediscovered in **1900** by **Hugo de Vries, Carl Correns, and Erich von Tschermak**.
-46. Mendel's phenotypic ratios: Monohybrid = **3:1** (genotypic **1:2:1**); Dihybrid = **9:3:3:1**; Test cross ratios = **1:1** (monohybrid) and **1:1:1:1** (dihybrid).
-47. **Non-Mendelian inheritance**: **Incomplete dominance** gives an intermediate phenotype (e.g., pink 4 o'clock plant *Mirabilis jalapa* and snapdragon *Antirrhinum* with 1:2:1 phenotypic ratio); **Codominance** expresses both alleles fully (e.g., ABO blood group $I^A I^B$ producing AB blood); **Multiple alleles** (ABO system has 3 alleles $I^A, I^B, i$, yielding 6 genotypes and 4 phenotypes).
-48. **Pleiotropy** is when a single gene influences multiple phenotypic traits (e.g., Phenylketonuria, Sickle-cell anaemia); **Polygenic inheritance** is when a single trait is controlled by three or more genes (e.g., human skin colour, human height).
-49. **Sickle-cell anaemia** is an autosomal recessive point mutation on chromosome 11: substitution of **Glutamic acid by Valine** at position 6 of the $\beta$-globin chain ($GAG \rightarrow GUG$).
-50. Sex-linked recessive disorders carried on the X chromosome include **Haemophilia** (bleeder's / royal disease, factor VIII or IX deficiency) and **Red-Green Colour Blindness** (Daltonism); males are affected far more frequently ($XY$) while females are usually carriers ($X^h X$).
+1. **Key Specialized Biological Branches**:
+2. **Key Agricultural & Applied Culture Terminologies**:
+3. **Origin of Life (Oparin-Haldane Hypothesis)**:
+4. **The Primitive Earth Atmosphere**:
+5. **The Miller-Urey Experiment (1953)**:
+6. **Geological Chronology of Cenozoic Epochs (Oldest to Most Recent)**:
+7. **Lamarckism (Theory of Inheritance of Acquired Characteristics)**:
+8. **Darwinism (Theory of Natural Selection)**:
+9. **Neo-Darwinism & Modern Synthetic Theory**:
+10. **Hugo de Vries' Mutation Theory (1901)**:
+11. **Landmark Evolutionary Fossils & Missing Links**:
+12. **Augustin Pyramus de Candolle (A. P. de Candolle)**: Swiss botanist who **first coined the term 'Taxonomy'** and was the **first to use vascular tissue characteristics** to classify plants into *Vasculares* (with vascular bundles) and *Cellulares* (without vascular bundles).
+13. **Carolus Linnaeus** (*Systema Naturae*, 1758) established the **Binomial Nomenclature** and is the Father of Modern Taxonomy; scientific names consist of **Genus** (capitalised) and **species epithet** (lowercase), printed in *italics*.
+14. **R. H. Whittaker (1969)** proposed the **Five-Kingdom System**: **Monera** (prokaryotes), **Protista** (unicellular eukaryotes), **Fungi** (chitinous heterotrophs), **Plantae** (autotrophs with cellulose wall), and **Animalia** (heterotrophs without cell wall).
+15. **Carl Woese (1990)** introduced the **Three-Domain System** based on 16S rRNA sequences: **Bacteria**, **Archaea**, and **Eukarya**; Archaebacteria have branched ether lipids allowing them to survive in extreme environments (methanogens in ruminant guts, halophiles in salt lakes, thermoacidophiles in hot springs).
+16. **Antony van Leeuwenhoek (1632–1723)** is the Father of Microbiology; discovered bacteria ("animalcules") using single high-power lenses; bacteria are 0.5–5.0 $\mu m$ in size and visible under a compound microscope.
+17. **Prokaryotes** (bacteria, cyanobacteria) have naked circular DNA in a **nucleoid**, lack membrane-bound organelles, and possess **70S ribosomes** (50S + 30S); **Eukaryotes** have membrane-bound nuclei, linear DNA with histones, and cytoplasmic **80S ribosomes** (60S + 40S).
+18. **Cell Wall** chemical facts: Plants = **Cellulose + Hemicellulose + Pectin**; Fungi = **Chitin** (polymer of N-acetylglucosamine); Bacteria = **Peptidoglycan / Murein**; Algae = **Cellulose + Galactans + Mannans + $CaCO_3$**.
+19. **Singer and Nicolson (1972)** proposed the **Fluid Mosaic Model** of the plasma membrane: a quasi-fluid bilayer of phospholipids with protein "icebergs floating in a lipid sea"; selectively permeable.
+20. **Mitochondria** (Kolliker 1857, Benda 1898) are the powerhouses of the cell (ATP generation via oxidative phosphorylation on inner membrane cristae); contain circular DNA and 70S ribosomes (semi-autonomous); inherited maternally.
+21. **Plastids** (Schimper): **Chloroplasts** (photosynthesis, contain chlorophyll and circular DNA); **Chromoplasts** (pigment storage: Lycopene in tomato, Capsanthin in red chilli, Carotene in carrot, Betanin in beetroot); **Leucoplasts** (storage: Amyloplasts = starch, Elaioplasts = oils/fats, Aleuroplasts = proteins).
+22. **Endoplasmic Reticulum (ER)**: **Rough ER (RER)** has 80S ribosomes on its surface and synthesises proteins; **Smooth ER (SER)** lacks ribosomes and synthesises lipids, steroid hormones, and detoxifies drugs in the liver.
+23. **Golgi Apparatus** (Camillo Golgi, 1898) packages and secretes macromolecules, modifies proteins (glycosylation to form glycoproteins and glycolipids), and forms the **acrosome** of sperm and primary lysosomes.
+24. **Lysosomes** (Christian de Duve, 1955) are "suicidal bags" containing hydrolytic enzymes (acid hydrolases active at pH 4.5–5.0) that digest cellular waste and foreign pathogens.
+25. **Ribosomes** (George Palade, 1953) are non-membrane-bound ribonucleoprotein particles (rRNA + protein) responsible for protein synthesis; known as the "protein factories" of the cell.
+26. **Centrosome / Centrioles** (Boveri, 1888) have a $9+0$ cartwheel microtubule arrangement; present in animal cells to form the mitotic spindle and basal bodies; **absent in higher plant cells**.
+27. **Peroxisomes** contain catalase and urate oxidase to break down toxic $H_2O_2$ and perform photorespiration in plants; **Glyoxysomes** convert fats into carbohydrates via the glyoxylate cycle in germinating fatty seeds (castor, groundnut).
+28. **Nucleus** was discovered by **Robert Brown (1831)**; the **Nucleolus** (Fontana 1781) is the site of active ribosomal RNA (**rRNA**) synthesis; **Chromatin** was named by Walther Flemming.
+29. **Watson and Crick (1953)** proposed the **double-helix model of DNA** based on Rosalind Franklin and Maurice Wilkins' X-ray crystallography; won the Nobel Prize in 1962.
+30. **Chargaff's Rule**: In double-stranded DNA, the ratio of Adenine to Thymine and Guanine to Cytosine is equal, i.e., $A + G = T + C$ or $(A+G)/(T+C) = 1$.
+31. **RNA** is typically single-stranded, contains **Ribose sugar**, and replaces Thymine with **Uracil**; three functional types: mRNA (messenger), tRNA (transfer / soluble adaptor with cloverleaf secondary structure), and rRNA (ribosomal, structural and catalytic).
+32. **Mitosis** (equational division) occurs in somatic cells, yielding 2 genetically identical diploid ($2n$) daughter cells; metaphase is the best stage to study chromosome morphology and count; anaphase is the stage where sister chromatids separate.
+33. **Colchicine** (alkaloid from *Colchicum autumnale*) inhibits mitotic spindle microtubule formation, arresting cell division at **metaphase**; widely used to induce artificial **polyploidy** in plant breeding.
+34. **Meiosis** (reductional division) occurs in germ cells, producing 4 genetically diverse haploid ($n$) daughter cells; chromosome number is halved during **Anaphase-I**.
+35. **Prophase-I of Meiosis has 5 stages**: Leptotene (bouquet stage) → **Zygotene** (synapsis, synaptonemal complex formation) → **Pachytene** (**crossing over** between non-sister chromatids via enzyme **recombinase**) → **Diplotene** (**chiasmata** formation) → Diakinesis (terminalisation of chiasmata).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
-|-----------|-----------|-------------------------------|-----------|
-| **Pedology** | **Edaphology** | Study of soil origin, morphology & pedogenesis vs study of soil's influence on living plants and crops | मृदा विज्ञान / एडाफोलॉजी |
-| **Bionics** | **Bionomics** | Applying biological systems to engineering & technology vs study of organism in its natural habitat (ecology) | बायोनिक्स / बायोनोमिक्स |
-| **Lamarckism** | **Darwinism** | Inheritance of acquired characters via use/disuse vs survival of the fittest via heritable natural selection | लैमार्कवाद / डार्विनवाद |
-| **Archaeopteryx** | **Modern Bird** | Connecting link having teeth, clawed digits and long bony tail vs toothless horny beak and fused tail (pygostyle) | आर्कियोप्टेरिक्स / आधुनिक पक्षी |
-| **Cro-Magnon Man** | **Neanderthal Man** | 1600 cc brain, prominent chin, direct modern ancestor vs robust heavy brow-ridge, extinct archaic human | क्रो-मैग्नॉन / निएंडरथल मानव |
-| **Apiculture** | **Sericulture** | Honeybee rearing for honey, wax and pollination vs silkworm rearing on mulberry for natural silk yarn | मधुमक्खी पालन / रेशम कीट पालन |
-| **Horticulture** | **Olericulture** | Broad cultivation of fruits, vegetables, flowers and plantation vs specific cultivation of non-woody vegetable crops | उद्यान विज्ञान / शाकभाजी विज्ञान |
-| **Prokaryote** | **Eukaryote** | 70S ribosomes, nucleoid, no membrane organelles vs 80S ribosomes, true membrane nucleus | प्रोकैरियोटिक / यूकैरियोटिक |
-| **Plant Cell** | **Animal Cell** | Cellulose cell wall, large central vacuole, plastids vs centrosome/centrioles, lysosomes, no cell wall | पादप कोशिका / जन्तु कोशिका |
-| **Mitosis** | **Meiosis** | Somatic cells, 1 division, 2 diploid daughter cells, no crossing over vs germ cells, 2 divisions, 4 haploid cells, crossing over | समसूत्री / अर्धसूत्री विभाजन |
-| **Pachytene** | **Diplotene** | Crossing over occurs via recombinase enzyme vs Chiasmata become visible, dissolution of synaptonemal complex | पैकाइटीन / डिप्लोटीन |
-| **Incomplete Dominance** | **Codominance** | Phenotypic blending (Red $\times$ White = Pink snapdragon) vs simultaneous distinct expression (AB blood group) | अपूर्ण प्रभाविता / सह-प्रभाविता |
-| **Pleiotropy** | **Polygenic Inheritance** | One single gene controls multiple traits (PKU) vs multiple genes control one single trait (skin colour) | एकप्रभाविता / बहुजीनी वंशागति |
-| **Sickle-cell Anaemia** | **Thalassemia** | Qualitative defect in haemoglobin (Valine replaces Glutamic acid) vs quantitative defect (reduced synthesis of globin chains) | सिकल सेल एनीमिया / थैलेसीमिया |
-| **Turner Syndrome** | **Klinefelter Syndrome** | $45, XO$ (monosomy, phenotypic female, 0 Barr bodies) vs $47, XXY$ (trisomy, phenotypic male, 1 Barr body) | टर्नर / क्लाइनफेल्टर सिंड्रोम |
-| **Restriction Enzyme** | **DNA Ligase** | Molecular scissors (cleaves phosphodiester bonds at palindromes) vs molecular glue (joins DNA fragments) | रेस्ट्रिक्शन एंजाइम / डीएनए लाइगेस |
-| **Southern Blotting** | **Western Blotting** | Detects specific DNA sequences vs detects specific proteins using antibodies (Mnemonic: SNOW DROP) | सदर्न / वेस्टर्न ब्लॉटिंग |
-| **Bt Cotton** | **Golden Rice** | Insect resistance (*cry* genes from *Bacillus thuringiensis*) vs nutritional enrichment ($\beta$-carotene / Vitamin A precursor) | बीटी कपास / गोल्डन राइस |
-| **Exotic Transgenic (Bt)** | **SDN-1 / SDN-2 Gene Editing** | Introduces foreign exogenous DNA from other species vs targeted precise edits without foreign DNA insertion | ट्रांसजेनिक / जीन एडिटिंग |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& Negative-Marking Eliminators
+
+1. **Prokaryote vs eukaryote nucleus**: Bacteria have **no true nucleus**; DNA lies in the nucleoid. Do not mark a nuclear membrane for prokaryotes.
+2. **Ribosome numbers**: Prokaryotes = **70S**; eukaryotes = **80S** (mitochondria/chloroplasts still have 70S — that is the endosymbiont trap).
+3. **Mitochondria vs chloroplast DNA**: Both have circular DNA and 70S ribosomes; only **chloroplasts** do photosynthesis.
+4. **Mitosis stage for counting chromosomes**: **Metaphase** is best for morphology and count; **Anaphase** is best for chromosome shape (V, L, J, I).
+5. **DNA vs RNA sugar**: DNA has **deoxyribose**; RNA has **ribose**. Thymine is in DNA; uracil replaces it in RNA.
+6. **Transcription vs translation**: Transcription makes **RNA** in the nucleus (eukaryotes); translation makes **protein** on ribosomes.
+7. **Miller–Urey gases**: Classic mix is **CH4 : NH3 : H2 = 2 : 2 : 1**; free **O2 was absent**.
+8. **Cell wall chemistry**: Plants = cellulose; fungi = **chitin**; bacteria = peptidoglycan — do not swap.
+9. **Crossing over**: Occurs in **pachytene of prophase I** of meiosis, not in mitosis.
+10. **Clone vs transgenic**: A clone is a genetic copy; a transgenic organism carries a **foreign inserted gene**.
+
+---
 
 
 ---

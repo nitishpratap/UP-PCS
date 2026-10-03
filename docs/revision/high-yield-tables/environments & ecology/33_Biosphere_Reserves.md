@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 33 — Biosphere Reserves (जैवमंडल आरक्षित क्षेत्र)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Nokrek Biosphere Reserve** | **Loktak Lake** | Located in Garo Hills, **Meghalaya** (Citrus indica) vs freshwater wetland in **Manipur** | नोकरेक (मेघालय) / लोकटक (मणिपुर) |
 | **Uttar Pradesh BR count** | **Madhya Pradesh BR count** | **Zero** Biosphere Reserves in UP vs **3** Biosphere Reserves in MP (Pachmarhi, Achanakmar-Amarkantak, Panna) | यूपी (शून्य बायोस्फीयर) / म.प्र. (3 बायोस्फीयर) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Frame
 
@@ -174,18 +168,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A Biosphere Reserve is a UNESCO MAB (1971) landscape with core → buffer → transition. It is not a Wildlife Protection (वन्यजीव सुरक्षा) Act category.
-- **Exam Anchor:** India has 18 notified national Biosphere Reserves. About 13 sit on the UNESCO World Network.
-- **Exam Anchor:** India’s first Biosphere Reserve is Nilgiri (नीलगिरि) (1986). The largest is Great Rann of Kutch (Gujarat). The smallest is Nokrek (Meghalaya (मेघालय)).
 - **Exam Anchor:** Nokrek is in Meghalaya (मेघालय). Pairing Nokrek with Manipur is always wrong.
 - **Exam Anchor:** Manas (Assam) remains a national Biosphere Reserve but was removed from the UNESCO World Network in 2011.
 - **Exam Anchor:** Uttar Pradesh has zero Biosphere Reserves. Nanda Devi (नंदा देवी) BR is in Uttarakhand (उत्तराखंड), not UP.
-- **Exam Anchor:** Dudhwa (दुधवा) is a National Park. Valmiki (वाल्मीकि) is a Bihar National Park. Neither is a UP Biosphere Reserve.
-- **Exam Anchor:** Match fact: Simlipal–Odisha, Nokrek–Meghalaya, Agasthyamalai–Kerala, Manas–Assam.
-
-</details>
+- **Exam Anchor:** Panna (Madhya Pradesh, 2011) is India’s newest notified Biosphere Reserve.
+- **Exam Anchor:** Three zones: Core (no exploitative use / genetic diversity (आनुवंशिक विविधता)) → Buffer (research, education, regulated eco-tourism and grazing) → Transition (settlements, crop cultivation, livelihoods).
+- **Exam Anchor:** Triple mandate: conservation + sustainable development + logistic support (research/monitoring/education).
+- **Exam Anchor:** Agasthyamalai includes Neyyar, Peppara, Shendurney WLS and Kalakad–Mundanthurai Tiger Reserve.
+- **Exam Anchor:** Gulf of Mannar is often the largest UNESCO-certified Indian BR by area; Great Rann of Kutch is the largest national BR.
 
 ---
 

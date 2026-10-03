@@ -11,52 +11,63 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 20 — Biodiversity Conservation Methods</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **In-situ** (स्थान पर) conservation protects biodiversity **in the natural habitat (वास स्थान)**. It is the preferred primary strategy because the whole ecosystem (पारिस्थितिकी तंत्र) and natural selection stay intact.
 2. **Ex-situ** (स्थानांतरित) conservation protects biodiversity **outside** the natural habitat — zoos, botanic gardens, seed banks, gene banks, cryobanks. It is a backup, not a replacement for in-situ.
-3. In-situ examples: National Park, Wildlife Sanctuary, Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र), Conservation/Community Reserve (सामुदायिक आरक्षित क्षेत्र), sacred grove, Ramsar (रामसर) wetland, wildlife corridor.
-4. Ex-situ examples: zoo, botanical garden, seed bank, gene bank, captive breeding centre, tissue culture, cryopreservation (क्रायो-संरक्षण).
-5. Four-way pattern: National Park and sacred grove are **in-situ**; zoo, seed bank, and botanic garden are **ex-situ**.
-6. A **gene bank** stores genetic material broadly — seeds, DNA, tissue, pollen, sperm, embryos. A **seed bank** stores **seeds only**.
-7. **Orthodox seeds** (सामान्य (रूढ़िवादी) बीज) (wheat, rice) tolerate drying and cold storage around **−18°C**. **Recalcitrant seeds** (कठिन (असहनीय) बीज) (mango, coconut) cannot take simple dry seed-bank storage and need living collections or cryo routes.
-8. **Cryopreservation** stores material at about **−196°C** in liquid nitrogen.
-9. India’s plant gene/seed flagship is **NBPGR**, New Delhi (**1976/1978** line). India’s animal gene-bank flagship is **NBAGR**, Karnal (**1984**).
-10. The **Indian Botanic Garden**, Howrah (**1787**), is India’s classic large botanic garden, linked with BSI administration. The **National Zoological Park**, New Delhi (**1959**), is the national zoo flagship.
-11. **CZA** is the statutory zoo regulator under **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय).
-12. The **Svalbard Global Seed Vault** in Norway is a duplicate backup vault — not India’s NBPGR.
-13. NBPGR is plants in Delhi; NBAGR is animals in Karnal. BSI in Kolkata surveys plants; it is **not** the national gene bank.
-14. Dudhwa (दुधवा) and Katerniaghat-style protected areas are **in-situ**. Kukrail crocodile centre and garden collections are **ex-situ**.
-15. Sacred groves (पवित्र उपवन) are community in-situ pockets — do not park them with zoos.
-16. Wildlife corridors keep in-situ populations linked; they are not ex-situ cages.
-17. Captive breeding is ex-situ recovery support; releasing only works if habitat (in-situ) remains.
-18. Seed banks fail for recalcitrant species if the stem assumes every crop seed stores like wheat.
-19. Gene bank ⊃ seed bank. Calling every gene bank a “seeds-only room” is wrong.
-20. Biosphere Reserves (जैवमंडल आरक्षित क्षेत्र) and National Parks are in-situ frameworks; botanic gardens are living ex-situ plant collections.
-21. UP colour: Dudhwa/Katerniaghat = in-situ; NBRI Lucknow (लखनऊ) garden collections = ex-situ; NBPGR in Delhi still serves national plant genetic resources including UP crops.
-22. Community and Conservation Reserves are newer in-situ tools beside classic parks and sanctuaries.
-23. Cryobanking is an ex-situ technology for germplasm that ordinary refrigeration cannot hold.
-24. Priority line for prelims: **in-situ first, ex-situ supplementary** — never reverse the preference.
+3. **Orthodox seeds** (सामान्य (रूढ़िवादी) बीज) (wheat, rice) tolerate drying and cold storage around **−18°C**. **Recalcitrant seeds** (कठिन (असहनीय) बीज) (mango, coconut) cannot take simple dry seed-bank storage and need living collections or cryo routes.
+4. **Cryopreservation** stores material at about **−196°C** in liquid nitrogen.
+5. **CZA** is the statutory zoo regulator under **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय).
+6. **In-situ conservation** protects species **where they naturally live**, keeping habitat, food webs, pollinators, and competitors intact.
+7. **National Parks** offer strict habitat protection under **Wildlife (Protection) Act, 1972**, with human activity restricted. **Dudhwa NP (UP)** is a Terai (तराई) in-situ example.
+8. **Wildlife Sanctuaries** protect habitat with slightly more flexible human use than NPs but remain **in-situ**. **Katerniaghat WLS (UP)** protects gharial and Gangetic dolphin in natural rivers.
+9. **Biosphere Reserves** follow the UNESCO **MAB** model with **core**, **buffer**, and **transition** zones, combining strict protection with sustainable community use.
+10. **Conservation Reserves** and **Community Reserves** (WPA amendments) protect habitat patches with community participation.
+11. **Sacred groves** (deorai, sarna (सरना), kavu) are traditional **in-situ** community forests protected by local belief systems.
+12. **Ramsar wetlands** and **marine protected areas** are specialised **in-situ** tools for aquatic and coastal ecosystems.
+13. **Wildlife corridors** link fragmented habitats at landscape scale. The **Terai Arc Landscape** connects Dudhwa–Corbett habitats.
+14. **Limitation:** In-situ alone cannot save species whose habitat is completely destroyed or whose wild population (जनसंख्या) is critically small without ex-situ backup.
+15. **Ex-situ conservation** removes or copies genetic material **outside the natural ecosystem** — zoos, seed banks, gene banks, captive breeding, tissue culture.
+16. **When essential:** critically small wild populations, **habitat already lost**, **reintroduction stock** needed (gharial, vulture), or **Extinct in the Wild (EW)** species surviving only in collections.
+17. **Major ex-situ types:** zoological parks, botanical gardens, seed banks, gene banks, captive breeding centres, tissue culture, cryopreservation.
+18. **Genetic bottleneck risk:** small captive groups lose diversity through inbreeding — zoos rotate breeding pairs and maintain studbooks.
+19. **Reintroduction link:** ex-situ breeding succeeds only if **in-situ habitat** is restored. Cheetah reintroduction required **Kuno NP** habitat preparation alongside captive stock.
+20. **IUCN (आईयूसीएन) Red List "Extinct in the Wild (EW)"** marks species surviving only in zoos, botanic gardens, or seed banks with no viable wild population.
+21. **CBD + BDA 2002:** India regulates access to genetic resources; ex-situ collections at NBPGR/NBAGR support national biodiversity obligations.
+22. **ICAR-NBPGR** at **Pusa Campus, New Delhi** (est. **1978**) is India's national **plant** gene bank. It holds one of the world's largest plant collections.
+23. **NBAGR, Karnal (Haryana)** (est. **1984**) conserves **animal** genetic resources — semen, embryos, and DNA of indigenous livestock breeds (Sahiwal, Gir (गीर), Red Sindhi).
+24. **Cryopreservation** uses **liquid nitrogen at -196°C**, stopping biological activity for decades-long storage of embryos, sperm, pollen, and tissue.
+25. **Active collection** holds frequently accessed seeds for breeders. **Base collection** is long-term duplicate storage with minimal disturbance.
+26. **Trap: NBPGR vs BSI** — NBPGR **stores** genetic resources (Delhi). **BSI** does plant **survey/taxonomy** (Kolkata).
+27. **Trap: NBPGR vs NBAGR** — **NBPGR = plants (Delhi)**; **NBAGR = animals (Karnal)**.
+28. **Orthodox seeds** (wheat, rice, maize, millets, pulses) tolerate desiccation and cold — suitable for **decades of storage**.
+29. **Recalcitrant seeds** (mango, jackfruit, coconut, sal) **cannot tolerate drying** and need **botanical garden living collections** or **cryopreservation** instead of conventional seed banking.
+30. **NBPGR** operates the **National Active Collection** (breeder access) and **National Gene Bank** (long-term base store) with **4 lakh+ accessions** including landraces and crop wild relatives.
+31. **Svalbard Global Seed Vault (Norway, 2008)** stores **duplicate copies** of national collections as Arctic "doomsday backup" — not ownership transfer.
+32. **Regeneration** is mandatory when germination rates fall — gene banking is dynamic, not store-and-forget.
+33. **Community seed banks** (on-farm) preserve landraces in active cultivation — different from **formal ex-situ cold storage** at NBPGR. Notes usually mean NBPGR-style cold storage.
+34. **Botanical gardens** maintain **living plant collections** outside wild habitat for conservation, research, education, and display.
+35. **Other major gardens:** Lalbagh (Bengaluru, 1760), **NBRI garden (Lucknow)**, Empress Garden (Pune (पुणे)).
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **In-situ Conservation** | **Ex-situ Conservation** | On-site conservation of wild populations within their natural ecosystems where evolutionary processes continue uninterrupted (National Parks, Wildlife Sanctuaries, Sacred Groves) vs off-site conservation of threatened components outside natural habitats in human custody (Botanical Gardens, Zoological Parks, Cryobanks) | स्व-स्थाने संरक्षण (प्राकृतिक आवास) / बाह्य-स्थाने संरक्षण (मानव-निर्मित व्यवस्था) |
-| **Botanical Garden** | **Herbarium** | Ex-situ facility maintaining curated collections of *living* plant species for scientific research, propagation, and conservation display vs reference repository of *dried, pressed, and mounted* plant specimens preserved on archival sheets for taxonomic identification | वनस्पति उद्यान (जीवित पादप संग्रह) / पादप संग्रहालय (हर्बेरियम, शुष्क नमूने) |
-| **Zoological Park (Zoo)** | **Safari / Wildlife Sanctuary** | Ex-situ facility where wild animals are maintained in artificial enclosures under human management for captive breeding and public education vs in-situ natural protected habitat where free-ranging wild animals live in untamed wild conditions | चिड़ियाघर (कृत्रिम बाड़ा) / वन्यजीव अभयारण्य / सफारी |
-| **Orthodox Seeds** | **Recalcitrant Seeds** | Desiccation-tolerant seeds that can survive dehydration to low moisture content (≤5%) and sub-zero freezing, ideal for conventional long-term seed banking (wheat, rice, legumes) vs desiccation-sensitive seeds that lose viability rapidly if dried or frozen, requiring cryopreservation (mango, rubber, jackfruit, tea) | सामान्य (रूढ़िवादी) बीज / कठिन (असहनीय) बीज |
-| **Cryopreservation** | **Seed Bank** | Ultra-low temperature preservation of living cells, gametes, embryos, and tissues suspended in liquid nitrogen at **-196°C** stopping all metabolic decay vs storage of dried orthodox seeds in vault freezers at standard temperatures of -18°C to -20°C | क्रायो-संरक्षण (-196°C द्रवित नाइट्रोजन) / बीज बैंक (-18°C शुष्क भंडारण) |
-| **Sacred Groves** | **Biosphere Reserves** | Community-protected virgin forest patches preserved through traditional spiritual beliefs and religious taboos (e.g. Deorais, Orans, Kavu, Law Kyntang) vs modern scientific statutory conservation landscape demarcated by government under UNESCO MAB | पवित्र उपवन (पारंपरिक संरक्षण) / जैवमंडल आरक्षित क्षेत्र (वैज्ञानिक प्रारूप) |
-| **National Bureau of Plant Genetic Resources (NBPGR)** | **National Bureau of Animal Genetic Resources (NBAGR)** | Premier ICAR institute managing the National Gene Bank for agricultural crop and wild relative germplasm (HQ: New Delhi) vs premier ICAR institute maintaining registrations and genetic databases of indigenous livestock breeds (HQ: Karnal, Haryana) | एनबीपीजीआर (नई दिल्ली, पादप जीन बैंक) / एनबीएजीआर (करनाल, पशु आनुवंशिकी) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Zoo = in-situ | **Ex-situ** — captive, off-site |
+| Seed bank = in-situ | **Ex-situ** — cold storage off-site |
+| Botanical garden = in-situ | **Ex-situ** — managed living collection |
+| NBPGR = Kolkata | **New Delhi** — Kolkata = BSI/ZSI |
+| NBAGR = Delhi or NBPGR | **Karnal** — animals only |
+| NBPGR stores animal semen | **NBAGR Karnal** |
+| BSI = botanical garden | BSI **surveys** flora; garden is a **facility** |
+| Zoos are primary conservation | **In-situ PAs preferred** |
+| Mango in standard seed bank | **Recalcitrant** — living collection/cryo |
+| Svalbard vault in India | **Norway** — duplicate backup only |
+| Sanctuary = zoo | Sanctuary = **wild in-situ**; zoo = **captive ex-situ** |
+| Gene bank = in-situ farmer field | Formal gene bank = **ex-situ** storage |
 
 
 ---

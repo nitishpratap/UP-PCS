@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 1 — Living World, Cell, Genetics and Biotechnology</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Event / Fact | Must-Score Fact |
+|------|-------------|----------------------|
+| **2024** | Nobel Prize in Physiology or Medicine awarded to **Victor Ambros** and **Gary Ruvkun**. | Discovered **microRNA (miRNA)** and its role in post-transcriptional gene regulation; miRNA silences mRNA after transcription. |
+| **2025** | Nobel Prize in Physiology or Medicine awarded to **Mary E. Brunkow**, **Fred Ramsdell**, and **Shimon Sakaguchi**. | Discovered mechanisms of **peripheral immune tolerance** mediated by regulatory T cells ($T_{reg}$), preventing autoimmune attack. |
+| **2025** | **GenomeIndia Project** completed by Department of Biotechnology (DBT). | Sequenced **10,000 whole genomes** across **83 distinct population groups**; housed at Indian Biological Data Centre (IBDC), Faridabad. |
+| **2025** | Ministry of Agriculture approved commercial release of **two genome-edited rice varieties** developed by ICAR-IARI. | Utilise **SDN-1 / SDN-2** CRISPR edits; exempt from strict GMO transgenic rules under Rule 20 of Environment Protection Act 1989. |
+| **Current Status** | **Bt cotton** remains the **only** transgenic commercial crop approved for cultivation in India (approved by GEAC in **2002**). | Bt brinjal (moratorium 2010) and DMH-11 GM mustard are not cleared for unrestricted farmer-level commercial cultivation. |
+
+---
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -36,22 +46,6 @@ hide:
 | **Southern Blotting** | **Western Blotting** | Detects specific DNA sequences vs detects specific proteins using antibodies (Mnemonic: SNOW DROP) | सदर्न / वेस्टर्न ब्लॉटिंग |
 | **Bt Cotton** | **Golden Rice** | Insect resistance (*cry* genes from *Bacillus thuringiensis*) vs nutritional enrichment ($\beta$-carotene / Vitamin A precursor) | बीटी कपास / गोल्डन राइस |
 | **Exotic Transgenic (Bt)** | **SDN-1 / SDN-2 Gene Editing** | Introduces foreign exogenous DNA from other species vs targeted precise edits without foreign DNA insertion | ट्रांसजेनिक / जीन एडिटिंग |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Event / Fact | Must-Score Fact |
-|------|-------------|----------------------|
-| **2024** | Nobel Prize in Physiology or Medicine awarded to **Victor Ambros** and **Gary Ruvkun**. | Discovered **microRNA (miRNA)** and its role in post-transcriptional gene regulation; miRNA silences mRNA after transcription. |
-| **2025** | Nobel Prize in Physiology or Medicine awarded to **Mary E. Brunkow**, **Fred Ramsdell**, and **Shimon Sakaguchi**. | Discovered mechanisms of **peripheral immune tolerance** mediated by regulatory T cells ($T_{reg}$), preventing autoimmune attack. |
-| **2025** | **GenomeIndia Project** completed by Department of Biotechnology (DBT). | Sequenced **10,000 whole genomes** across **83 distinct population groups**; housed at Indian Biological Data Centre (IBDC), Faridabad. |
-| **2025** | Ministry of Agriculture approved commercial release of **two genome-edited rice varieties** developed by ICAR-IARI. | Utilise **SDN-1 / SDN-2** CRISPR edits; exempt from strict GMO transgenic rules under Rule 20 of Environment Protection Act 1989. |
-| **Current Status** | **Bt cotton** remains the **only** transgenic commercial crop approved for cultivation in India (approved by GEAC in **2002**). | Bt brinjal (moratorium 2010) and DMH-11 GM mustard are not cleared for unrestricted farmer-level commercial cultivation. |
 
 ---
 
@@ -332,18 +326,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The word 'Science' originates from the Latin word scientia, meaning 'knowledge'; science is the systematic empirical knowledge of the physical world gained through observation and experimentation.
-- **Exam Anchor:** The term 'Biology' was coined independently by French biologist Jean-Baptiste Lamarck and German naturalist Gottfried Reinhold Treviranus in 1802; Aristotle is the Father of Biology and Zoology; Theophrastus is the Father of Botany (Historia Plantarum); Hippocrates is the Father of Medicine.
-- **Exam Anchor:** Defining properties of life are Cellular organisation, Metabolism (sum of all chemical reactions), and Consciousness (response to stimuli); growth and reproduction are not absolute defining properties (mules, worker bees, infertile human couples do not reproduce).
 - **Exam Anchor:** Key Specialized Biological Branches:
 - **Exam Anchor:** Key Agricultural & Applied Culture Terminologies:
 - **Exam Anchor:** Origin of Life (Oparin-Haldane Hypothesis):
 - **Exam Anchor:** The Primitive Earth Atmosphere:
 - **Exam Anchor:** The Miller-Urey Experiment (1953):
-
-</details>
+- **Exam Anchor:** Geological Chronology of Cenozoic Epochs (Oldest to Most Recent):
+- **Exam Anchor:** Lamarckism (Theory of Inheritance of Acquired Characteristics):
+- **Exam Anchor:** Darwinism (Theory of Natural Selection):
 
 ---
 

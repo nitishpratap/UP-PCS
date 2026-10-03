@@ -15,7 +15,8 @@ Congress (कांग्रेस) Socialist Party | Subhash Chandra Bose | For
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Congress ministries were **formed in 1937** after provincial elections and **resigned in 1939** when war was declared without consultation.
 2. **CSP (सीएसपी) (1934)** worked inside Congress; **Nehru (नेहरू) never formally joined**. **Forward Bloc (1939)** is Bose’s separate left-nationalist body.
@@ -86,9 +87,10 @@ Congress (कांग्रेस) Socialist Party | Subhash Chandra Bose | For
            15 August 1947: Dawn of Independence (India & Pakistan Dominions)
 ```
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -107,7 +109,7 @@ Congress (कांग्रेस) Socialist Party | Subhash Chandra Bose | For
 | RIN Revolt Feb 1946 | Quit India Aug 1942 | Ratings' mutiny, Bombay/Karachi vs Congress mass movement | नौसेना विद्रोह / भारत छोड़ो |
 | Direct Action Day 1946 | Partition Aug 1947 | League's call for mass action vs the final territorial split | डायरेक्ट एक्शन / विभाजन |
 
----
+</details>
 
 ## Must-score facts — missions, INA, 1947 dates
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 11 — Medieval Indian Cultural History (इतिहास)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -26,11 +24,7 @@ hide:
 | Buland Darwaza | Jahangir’s birth | Gujarat **victory** gateway vs 1569 birth (not the cause) | बुलंद दरवाज़ा |
 | Iqta | Khalsa | Muqti keeps revenue for troops vs cash to the treasury | इक्ता / खालसा |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Painting / books
 
@@ -165,18 +159,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** Fatehpur Sikri (फतेहपुर सीकरी), the Taj Mahal (ताज महल), and Humayun (हुमायूँ)’s Tomb remain UNESCO World Heritage (विश्व धरोहर) monuments. Tomb–city pairs and Buland Darwaza (बुलंद दरवाज़ा) still sit in the standing Mughal (मुग़ल) set.
 - **Exam Anchor:** Humayun brought Persian (फ़ारसी) masters Mir Sayyid (सैयद) Ali and Abdus Samad. Akbar built the kitabkhana (किताबखाना) and the illustrated Razmnama (रज्मनामा). Jahangir (जहाँगीर) favoured naturalism under painters such as Mansur. Under Aurangzeb (औरंगजेब) many painters left the imperial atelier.
-- **Exam Anchor:** Sultanate architecture spine: Qutub (कुतुब) under Aibak–Iltutmish (इल्तुतमिश), Alai Darwaza (अलाई दरवाज़ा) under the Khaljis, and Jaunpur (जौनपुर) Sharqi (जौनपुर शर्की) work such as Atala Masjid (अटाला मस्जिद).
-- **Exam Anchor:** Mughal architecture spine: Humayun’s Tomb at Delhi with charbagh (चारबाग़), Fatehpur Sikri under Akbar, and the Taj Mahal under Shah Jahan (शाहजहाँ) at Agra.
-- **Exam Anchor:** Tomb locations of the Great Mughals: Babur (बाबर) is buried in Kabul (Bagh-e Babur), Humayun in Delhi, Jahangir (जहाँगीर) at Shahdara in Lahore, and Shah Jahan alongside Mumtaz Mahal (मुमताज महल) in Agra (Taj Mahal, the only one among these located in Uttar Pradesh (उत्तर प्रदेश)).
 - **Exam Anchor:** Buland Darwaza at Fatehpur Sikri marks Akbar’s (अकबर) Gujarat victory. It is not a monument for Jahangir’s birth in 1569.
 - **Exam Anchor:** Babur wrote his memoir (Tuzuk-i-Baburi (तुजुक-ए-बाबरी)) in Chagatai (चगताई) Turki (तुर्की). The Mughal court language was Persian. Do not swap the two.
 - **Exam Anchor:** Abul Fazl (अबुल फजल) wrote the narrative Akbarnama (अकबरनामा) and the gazetteer Ain-i-Akbari (आइन-ए-अकबरी). Faizi (फैजी) was the court poet. Nakhshabi wrote the Tutinama.
-- **Exam Anchor:** Key Mughal court chronology of deaths: Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl (1602) → Prince Daniyal (1604).
-
-</details>
+- **Exam Anchor:** Zabt (जब्त) is measured land assessment. Dahsala (दहसाला) is Todar Mal (टोडर मल)’s ten-year average revenue system from about 1580.
+- **Exam Anchor:** Ibadat Khana (इबादत खाना) debates began at Fatehpur Sikri in 1575. Sulh-i-kul (सुलह-ए-कुल) was the public peace policy. Din-i-Ilahi (दीन-ए-इलाही) of 1582 was a private fellowship, not a state religion.
+- **Exam Anchor:** Tulsidas (तुलसीदास) wrote the Awadhi (अवधी) Ramcharitmanas (रामचरितमानस) in Akbar’s age. Kavindra Acharya of Banaras is linked to Shah Jahan’s court culture.
 
 ---
 

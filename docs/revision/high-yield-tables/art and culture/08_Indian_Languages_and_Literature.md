@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 8 — Indian Languages & Literature</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -38,11 +36,7 @@ hide:
 | Pliny | Ptolemy | Natural History vs geography / Almagest | प्लिनी / टॉलेमी |
 | Panini | Patanjali | Ashtadhyayi (earlier) vs Mahabhashya (Shunga link) | पाणिनि / पतंजलि |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Shruti / epics
 
@@ -240,18 +234,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** Yuva Puraskar is Sahitya Akademi’s prize for writers of 35 and under. It is not Jnanpith.
 - **Exam Anchor:** Shruti (श्रुति) is the heard Veda stack of Samhita (संहिता), Brahmana (ब्राह्मण), Aranyaka (आरण्यक), and Upanishad (उपनिषद्). Smriti (स्मृति) covers epics, Puranas, Dharmashastra, and related remembered texts.
-- **Exam Anchor:** The four Vedas are Rig (ऋग्वेद, hymns), Sama (सामवेद, chant), Yajur (यजुर्वेद, ritual), and Atharva (अथर्ववेद). Shukla Yajurveda is Vajasaneyi (वाजसनेयी). Krishna Yajurveda is Taittiriya (तैत्तिरीय).
 - **Exam Anchor:** Valmiki’s (वाल्मीकि) Ramayana (रामायण) has seven kandas. Vyasa’s (व्यास) Mahabharata (महाभारत) has eighteen parvas. The Bhagavad Gita (भगवद्गीता) sits inside Bhishma Parva (भीष्म पर्व).
 - **Exam Anchor:** Kalidasa (कालिदास) wrote Meghaduta (मेघदूत), Raghuvamsha (रघुवंश), Kumarasambhava (कुमारसंभव), and Ritusamhara (ऋतुसंहार). His three dramas are Abhijnanashakuntalam (अभिज्ञानशाकुन्तलम्), Vikramorvashiya (विक्रमोर्वशीयम्), and Malavikagnimitram (मालविकाग्निमित्रम्).
-- **Exam Anchor:** Mudrarakshasa (मुद्राराक्षस) by Vishakhadatta (विशाखदत्त) is a historical political drama about Chandragupta Maurya and Chanakya. It has no major romantic theme.
 - **Exam Anchor:** Trivikrama Bhatta (त्रिविक्रम भट्ट) wrote Nalachampu (नलचम्पू). Somadeva (सोमदेव) wrote Kathasaritsagara (कथासरित्सागर). Jayadeva (जयदेव) wrote Gita Govinda (गीत गोविंद). Kshemendra (क्षेमेन्द्र) wrote Brihatkathamanjari (बृहत्कथामंजरी).
-- **Exam Anchor:** Early Tamil literature is the Sangam (संगम) corpus. Ettuttokai (एट्टुत्तोकै) is the Eight Anthologies. Pattuppattu (पत्तुप्पाट्टु) is the Ten Idylls. Tolkappiyam (तोल्काप्पियम्) is grammar. The later epics are Silappadikaram (शिलप्पदिकारम्) and Manimekalai (मणिमेकलै).
 - **Exam Anchor:** Charaka (चरक) wrote the Charaka Samhita (चरक संहिता). Sushruta (सुश्रुत) wrote the Sushruta Samhita (सुश्रुत संहिता). Aryabhata (आर्यभट) wrote the Aryabhatiya (आर्यभटीय). Varahamihira (वराहमिहिर) wrote the Brihatsamhita (बृहत्संहिता).
-
-</details>
+- **Exam Anchor:** Ashvaghosha (अश्वघोष) wrote Buddhacharita (बुद्धचरित) and Saundarananda (सौंदरानंद). Bhasa (भास) left about 13 plays. King Harsha (हर्ष) wrote Ratnavali (रत्नावली), Nagananda (नागानन्द), and Priyadarshika (प्रियदर्शिका).
+- **Exam Anchor:** Amir Khusrau (अमीर खुसरो) wrote in Persian and early Hindavi. He served under multiple Delhi Sultanate rulers and coined the phrase about the Indian parrot (Tuti-i-Hind).
 
 ---
 

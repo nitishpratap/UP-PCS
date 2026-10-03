@@ -15,7 +15,8 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 
 ---
 
-## Consolidated — 40 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 40 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Causes (long):** Doctrine of Lapse (विलुप्ति सिद्धांत), **Awadh annexation 1856** for misrule, heavy revenue, missionary fear, and sepoy service grievances. **Immediate spark:** greased cartridges.
 2. **Enfield path:** In **December 1856** the Company (कंपनी) decided to replace the old **Brown Bess** (ब्राउन बेस) musket with the **Enfield** rifle. Trial centres were **Dum Dum, Ambala and Sialkot**. Rumours of cow–pig fat on the cartridge spread from **January 1857**.
@@ -58,9 +59,10 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 39. **Sahukars (साहूकार) / moneylenders** and many landlords did **not** support the revolt; inefficiency of British officers was **not** a standard sepoy grievance.
 40. Centre↔leader first: Delhi (Zafar / Bakht Khan), Kanpur (Nana / Tantia), Lucknow (Begum), Jhansi (Lakshmibai), Bareilly (Khan Bahadur Khan), Jagdishpur (Kunwar), Faizabad (Ahmadullah), Allahabad (Liaquat Ali) — then **Meerut 10 May** and **1858 Crown**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -79,7 +81,7 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 | Jaipur / Chittor | Auwa | Not centres of 1857 vs Thakur Kushal Singh’s Rajasthan rising | जयपुर-चित्तौड़ / आउवा |
 | S.N. Sen | Sir Syed Ahmad Khan | Official historian (*Eighteen Fifty-Seven*, 1957) vs *Asbab-e-Baghawat-e-Hind* (1859) | एस.एन. सेन / सैयद अहमद खान |
 
----
+</details>
 
 ## Must-score facts — centres, leaders, aftermath
 

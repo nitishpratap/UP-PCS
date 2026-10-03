@@ -21,7 +21,8 @@ Wildlife Conservation | Wildlife Protection (वन्यजीव सुरक�
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Wildlife conservation protects species and habitats, with **in-situ** (स्थान पर) primary and **ex-situ** (स्थानांतरित) as backup.
 2. Major threats include habitat (वास स्थान) loss, poaching, human–wildlife conflict, invasive species (आक्रामक विदेशी प्रजाति), and veterinary **diclofenac** (डाइक्लोफेनाक) for vultures.
@@ -90,9 +91,10 @@ Wildlife Conservation | Wildlife Protection (वन्यजीव सुरक�
            2022: Project Cheetah (Kuno National Park, MP - African Cheetah reintroduction)
 ```
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -103,7 +105,8 @@ Wildlife Conservation | Wildlife Protection (वन्यजीव सुरक�
 | **Diclofenac** | **Meloxicam** | Non-steroidal anti-inflammatory drug (NSAID) administered to cattle causing lethal visceral gout and acute renal failure in Gyps vultures (banned in 2006) vs safe, vulture-tested veterinary NSAID recommended as its non-toxic replacement | डाइक्लोफेनाक (गिद्ध नाशक) / मेलोक्सिकैम (सुरक्षित विकल्प) |
 | **Wildlife Protection Act 1972** | **Biological Diversity Act 2002** | Focuses on species protection, hunting bans, protected area network, and trade schedules (MoEFCC/WCCB) vs focuses on sovereign rights over biological resources, fair & equitable benefit sharing (ABS), and traditional knowledge protection (NBA/SBB/BMC) | वन्यजीव संरक्षण अधिनियम 1972 / जैव विविधता अधिनियम 2002 |
 | **Central Zoo Authority (CZA)** | **National Board for Wildlife (NBWL)** | Statutory body under WPA Sec 38A overseeing standards, recognition, and animal exchanges in Indian zoos vs apex advisory body chaired by the Prime Minister framing national wildlife policies and approving PA boundary alterations | केंद्रीय चिड़ियाघर प्राधिकरण / राष्ट्रीय वन्यजीव बोर्ड (NBWL) |
----
+
+</details>
 
 ## Must-score facts — projects, schedules, NTCA
 

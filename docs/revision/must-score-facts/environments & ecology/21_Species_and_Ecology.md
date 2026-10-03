@@ -11,54 +11,63 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 21 — Species & Ecology (पारिस्थितिकी)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. India’s **Red Data Book** is a **national** catalogue — **BSI** for plants, **ZSI** for animals (both Kolkata). The **IUCN Red List** is the **global** extinction-risk system from IUCN (Gland).
-2. IUCN has nine categories: EX, EW, CR, EN, VU, NT, LC, DD, NE. Risk order puts CR above EN above VU among living threatened tiers.
-3. **Threatened** on IUCN means **VU + EN + CR** only — not “Endangered” alone.
-4. IUCN assesses extinction risk. **CITES** (साइट्स) regulates international wildlife **trade** (पण्याध्यक्ष). Different institutions, different jobs.
-5. **Ramsar (रामसर) (1971)** is the wetlands treaty under Wise Use. World Wetlands Day (विश्व आर्द्रभूमि दिवस) is **2 February** (रामसर).
-6. Uttar Pradesh (उत्तर प्रदेश) Ramsar examples include Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga (गंगा), Bakhira, and Haiderpur. **Rudrasagar is Tripura**; **Sultanpur is Haryana** — not UP.
-7. **Mangroves** are salt-tolerant coastal forests with **pneumatophores** (वात-मूल) and often viviparous seeds. **Sundarbans** (सुंदरबन) is the classic largest mangrove belt; Rhizophora and Avicennia are common genera.
-8. **MISHTI** is the Union Budget **2023–24** mangrove restoration push. Do not date it as 2019.
-9. **Coral reefs** are built from calcium-carbonate skeletons and live with symbiotic **zooxanthellae** (ज़ूजैंथेली). **Bleaching** happens when heat stress expels the algae.
-10. India’s coral belts include Gulf of Mannar, Lakshadweep (लक्षद्वीप), Andaman (अंडमान) & Nicobar (निकोबार), and Gulf of Kutch.
-11. **Grasslands** are grass-dominated systems maintained by fire and grazing. UP’s Terai (तराई) is a foothill grassland–forest mosaic; **Dudhwa** (दुधवा) holds barasingha (swamp deer). Kaziranga (काजीरंगा) is the floodplain grassland rhino fact.
-12. Himalayan vegetation follows altitude belts: tropical → subtropical → temperate → alpine → nival. Snow leopard is a high Himalaya (हिमालय) fact; Dudhwa is Terai foothill fringe, not alpine.
-13. Marine **neritic** shelf waters are the highest fisheries-productivity zone; pelagic means open ocean. India’s coast is about **7516 km**.
-14. The **Gangetic dolphin** is a **freshwater river** dolphin — not a marine species trap.
-15. Wetland ≠ mangrove ≠ coral. Inland marsh, saline (लवणीय) coastal forest, and reef builders are three different ecosystems.
-16. Pneumatophores are mangrove breathing roots for gas exchange in waterlogged saline soil.
-17. Amrit Dharohar (**2023**) is India’s wetland stewardship framing beside Ramsar listing.
-18. Coral bleaching (प्रवाल विरंजन) is a stress response, not a synonym for mangrove dieback.
-19. Terai grasslands of UP are not Himalayan alpine meadows.
-20. Red Data Book (national BSI/ZSI) is not identical to IUCN Red List categories, even when species appear on both tracks.
-21. World Wetlands Day is February **2**, not Environment (पर्यावरण) Day (5 June).
-22. Mangrove restoration schemes do not make landlocked UP a mangrove state — UP links are scheme awareness and river–wetland ecology.
-23. Zooxanthellae live inside coral polyps; losing them bleaches the coral’s colour and energy supply.
-24. Threatened = three IUCN tiers combined. Memorise VU, EN, CR as the band.
-25. CMS covers migratory species; Ramsar covers wetlands; do not swap those treaty jobs when ecosystems are asked.
-26. Dudhwa = Terai grassland–forest and barasingha; Sundarbans = mangrove; Lakshadweep/Mannar = coral — keep the flagship map clean.
+1. **Threatened** on IUCN means **VU + EN + CR** only — not “Endangered” alone.
+2. **Ramsar (रामसर) (1971)** is the wetlands treaty under Wise Use. World Wetlands Day (विश्व आर्द्रभूमि दिवस) is **2 February** (रामसर).
+3. **Mangroves** are salt-tolerant coastal forests with **pneumatophores** (वात-मूल) and often viviparous seeds. **Sundarbans** (सुंदरबन) is the classic largest mangrove belt; Rhizophora and Avicennia are common genera.
+4. **MISHTI** is the Union Budget **2023–24** mangrove restoration push. Do not date it as 2019.
+5. **Coral reefs** are built from calcium-carbonate skeletons and live with symbiotic **zooxanthellae** (ज़ूजैंथेली). **Bleaching** happens when heat stress expels the algae.
+6. **Grasslands** are grass-dominated systems maintained by fire and grazing. UP’s Terai (तराई) is a foothill grassland–forest mosaic; **Dudhwa** (दुधवा) holds barasingha (swamp deer). Kaziranga (काजीरंगा) is the floodplain grassland rhino fact.
+7. **ZSI (Zoological Survey of India)** publishes the **Red Data Book of Indian Animals**.
+8. **Red Data Book ≠ IUCN Red List:** Red Data Book is **national documentation**; IUCN Red List is a **global standardised assessment** (EX through NE).
+9. **Red Data Book ≠ CITES:** Red Data Book documents status; **CITES** regulates **international trade** in listed species.
+10. **Extinct (EX):** No reasonable doubt the last individual has died.
+11. **Extinct in the Wild (EW):** Survives only in **captivity, cultivation, or seed banks** — no viable wild population.
+12. **Critically Endangered (CR) (अति संकटग्रस्त):** Extremely high extinction risk — e.g., **gharial**, **Great Indian Bustard**.
+13. **Endangered (EN) (लुप्तप्राय):** Very high risk — e.g., **Gangetic dolphin**, **tiger** (improved from CR in some assessments).
+14. **Vulnerable (VU):** High risk but lower urgency than EN/CR — e.g., **sloth bear**.
+15. **Near Threatened (NT):** Close to qualifying as threatened but not yet.
+16. **Least Concern (LC):** Widespread, low extinction risk.
+17. **Data Deficient (DD):** Insufficient data — not the same as safe.
+18. **Not Evaluated (NE):** Not yet assessed — majority of world's species.
+19. **Threatened = VU + EN + CR** — the most tested formula. **Endangered alone is only one-third of threatened.**
+20. **Risk hierarchy** among living categories: **CR > EN > VU > NT > LC**.
+21. **IUCN assesses extinction risk.CITES** regulates **trade** — separate bodies, separate functions.
+22. **Wetlands** are ecosystems where **water saturates the soil** — marshes, swamps, bogs, floodplains, lake margins — permanent or seasonal.
+23. **India** has **75+ Ramsar sites** (2024 milestone). **Amrit Dharohar Scheme (2023)** supports wetland conservation and livelihoods.
+24. **UP Ramsar sites:Sarsai Nawar** (Etawah (इटावा)), **Samaspur Bird Sanctuary** (Raebareli), **Nawabganj** (Unnao), **Upper Ganga River**, **Bakhira**, **Haiderpur**, **Parvati Agra Bird Sanctuary**.
+25. **NOT in UP:Rudrasagar Lake** = **Tripura**. **Sultanpur National Park** = **Gurugram, Haryana**. Both are Ramsar sites outside UP.
+26. **Threats:** drainage for agriculture, pollution (eutrophication (सुपोषण)), invasive species (आक्रामक विदेशी प्रजाति) (**water hyacinth** chokes UP ponds), hydrological alteration.
+27. **Mangroves** are **salt-tolerant** trees and shrubs growing in **intertidal mudflats** of tropical and subtropical coasts.
+28. **Pneumatophores** (vertical aerial breathing roots) and **prop roots** (Rhizophora) enable gas exchange in waterlogged anaerobic soil.
+29. **Viviparous germination:** seeds germinate **while attached to the parent tree** and drop as ready seedlings (propagules).
+30. **Ecological roles:** coastal protection against cyclones/tsunamis, fish nursery grounds, sediment trapping, shoreline stability, **blue carbon** (नीला कार्बन) sequestration.
+31. **Coastal Odisha** is India’s most cyclone-prone Bay of Bengal coast; large mangrove loss in the **Mahanadi (महानदी) delta (डेल्टा)** increases cyclone risk (classic A/R pair).
+32. **Sundarbans** (West Bengal + Bangladesh) is the **largest mangrove forest** — **Sundari** tree is the flagship associate; royal Bengal tiger and estuarine crocodile.
+33. **Bhitarkanika** (Kendrapara, Odisha) sits on the **Brahmani–Baitarni** delta — **not** Vansadhara–Subarnarekha, and **not** West Bengal. Ramsar site (**2002**).
+34. **Coringa** mangrove (Andhra Pradesh) lies in the **Godavari** (गोदावरी) delta — do not confuse with Coondapur/Honnavar (Karnataka coast names).
+35. **Andaman & Nicobar** uniquely combine **mangrove + evergreen + deciduous** forests in one geography.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **IUCN Red List** | **Red Data Book of India** | Global extinction risk assessments maintained by IUCN (HQ: Gland, Switzerland) categorizing global species from LC to EX vs national taxonomic inventories published by BSI (plants) and ZSI (animals) cataloguing Indian threatened flora/fauna | आईयूसीएन रेड लिस्ट (वैश्विक) / भारतीय रेड डेटा बुक (राष्ट्रीय - BSI/ZSI) |
-| **Threatened Species** | **Endangered Species (EN)** | Broader collective umbrella category encompassing three distinct risk levels: Vulnerable (VU) + Endangered (EN) + Critically Endangered (CR) vs a specific single IUCN conservation status indicating very high risk of extinction | संकटग्रस्त प्रजातियां (VU + EN + CR समग्र) / लुप्तप्राय प्रजाति (EN विशिष्ट वर्ग) |
-| **Mangrove Ecosystem** | **Coral Reef Ecosystem** | Salt-tolerant halophytic coastal wetland forests adapted to intertidal muddy sediments featuring pneumatophores (Rhizophora, Avicennia) vs marine calcium carbonate structures formed by symbiotic coral polyps and zooxanthellae in clear, shallow, warm waters | मैंग्रोव पारितंत्र (श्वसन मूल वन) / प्रवाल भित्ति पारितंत्र (उष्ण जलीय प्रवाल) |
-| **Pneumatophores** | **Stilt Roots** | Specialized vertical negative geotropic aerial roots that emerge above mud to facilitate oxygen gas exchange in waterlogged swamp soils (Avicennia) vs adventitious support roots emerging from lower trunk/branches providing mechanical anchor against coastal tidal surges (Rhizophora) | वात-मूल (श्वसन मूल, न्यूमेटोफोर) / अवस्तंभ मूल (सहारा जड़ें) |
-| **Coral Bleaching** | **Ocean Acidification** | Stress response where coral polyps expel their symbiotic photosynthetic zooxanthellae due to elevated sea surface temperatures turning white vs chemical lowering of ocean pH caused by oceanic absorption of excess atmospheric CO₂ dissolving calcium carbonate aragonite structures | प्रवाल विरंजन (ऊष्मा तनाव से शैवाल निष्कासन) / महासागरीय अम्लीकरण (pH ह्रास) |
-| **Neritic Marine Zone** | **Oceanic (Pelagic) Zone** | Shallow coastal marine zone extending from low-tide mark to the edge of the continental shelf (depth up to 200 m) with abundant light and high marine productivity vs deep open marine waters beyond the continental shelf edge where nutrients and light drop precipitously | नेरिटिक मंडल (महाद्वीपीय मग्नतट) / खुला महासागरीय मंडल (पेलाजिक) |
-| **Zooxanthellae** | **Coral Polyp** | Photosynthetic single-celled dinoflagellate microalgae living symbiotically within coral tissues providing up to 90% of their organic nutrients vs tiny, soft-bodied marine invertebrate animal belonging to Phylum Cnidaria that secretes a hard calcium carbonate skeleton | ज़ूजैंथेली (सहजीवी प्रकाश-संश्लेषी शैवाल) / प्रवाल पॉलीप (कैल्शियम स्रावी जंतु) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Threatened = Endangered only | **VU + EN + CR** |
+| Red Data Book = IUCN Red List | **National vs global** |
+| BSI = animal Red Data Book | **BSI = plants; ZSI = animals** |
+| IUCN = CITES | **Assessment vs trade** |
+| Sultanpur Ramsar in UP | **Haryana (Gurugram)** |
+| Rudrasagar Ramsar in UP | **Tripura** |
+| MISHTI launched 2019 | **2023–24 Budget** |
+| Coral bleaching from cooling | **Heat (+2°C) stress** |
+| Mangroves = freshwater wetland only | **Coastal saline** |
+| Gangetic dolphin = marine | **Freshwater river** |
+| Zoo/sanctuary same as wetland | Different ecosystems |
+| EW = EX | **EW = captive survival remains** |
 
 
 ---

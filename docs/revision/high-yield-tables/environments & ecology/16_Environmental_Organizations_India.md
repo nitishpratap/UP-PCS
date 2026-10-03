@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 16 — Environmental Organizations (India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **National Green Tribunal (NGT)** | **Central Empowered Committee (CEC)** | Specialized statutory environmental court established under NGT Act 2010 with judicial and expert members deciding civil environmental disputes vs Supreme Court monitoring committee overseeing forest conservation and wildlife sanctuary clearances | राष्ट्रीय हरित अधिकरण (NGT, सांविधिक पीठ) / केंद्रीय अधिकार प्राप्त समिति (CEC) |
 | **National Environmental Engineering Research Institute (NEERI)** | **National Institute of Oceanography (NIO)** | CSIR premier lab specializing in water/air treatment, environmental engineering, and monitoring (founded 1958, Nagpur) vs CSIR oceanographic lab researching marine resources and ecology (Dona Paula, Goa) | नीरी (NEERI, नागपुर) / राष्ट्रीय समुद्र विज्ञान संस्थान (NIO, गोवा) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### HQ map
 
@@ -131,18 +125,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is India’s nodal ministry for environment (पर्यावरण), forests, wildlife, and climate change (जलवायु परिवर्तन). It began as MoEF in 1985 and was renamed MoEFCC in 2014. Headquarters is New Delhi.
-- **Exam Anchor:** MoEFCC grants Category A Environmental Clearance, runs the PARIVESH portal, and administers EPA, Wildlife Act, Forest Conservation Act, and Biodiversity Act. It does not set NAAQS pollution standards.
 - **Exam Anchor:** CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) was created under the Water Act, 1974, sits in New Delhi, sets NAAQS, and coordinates State Pollution Control Boards. The Air Act 1981 widened its air-pollution role.
-- **Exam Anchor:** CPCB does not grant Environmental Clearance, does not publish ISFR, and does not prepare the Annual Groundwater Quality Report — that report belongs to CGWB.
-- **Exam Anchor:** Every state has an SPCB. SPCBs issue Consent to Establish and Consent to Operate under the Water and Air Acts. They do not grant Category B EC — that is SEIAA.
 - **Exam Anchor:** UPPCB is Uttar Pradesh (उत्तर प्रदेश)’s board with headquarters at Lucknow (लखनऊ). It enforces norms on Kanpur (कानपुर) tanneries, Noida–Ghaziabad industry, and Ganga (गंगा)–Yamuna (यमुना) discharges.
 - **Exam Anchor:** NGT was created by the NGT Act, 2010 (operational 2011). Headquarters is New Delhi, with regional benches at Bhopal, Pune (पुणे), Kolkata, and Chennai.
-- **Exam Anchor:** NGT hears environmental appeals, including EC appeals, and can award compensation under Polluter Pays. The Act aims for disposal within six months. NGT does not itself grant EC.
-
-</details>
+- **Exam Anchor:** WII (1982, Dehradun (देहरादून)) does wildlife research and trains forest officers. It helped frame India’s ten biogeographic zones and tiger-census methods. It is not the plant or animal survey body.
+- **Exam Anchor:** BSI (1890, Kolkata) surveys plants and publishes Flora (वनस्पति) of India and the plant Red Data Book (रेड डेटा बुक). ZSI (1916, Kolkata) surveys animals and publishes Fauna (प्राणीजात) of India and the animal Red Data Book.
+- **Exam Anchor:** FSI (1981, Dehradun) maps forest cover (वन आवरण) and publishes the India State of Forest Report every two years. ISFR is not an annual CPCB product.
+- **Exam Anchor:** NEERI (1958, Nagpur) began as CPHERI and is a CSIR laboratory for environmental science and engineering under the Ministry of Science and Technology.
 
 ---
 

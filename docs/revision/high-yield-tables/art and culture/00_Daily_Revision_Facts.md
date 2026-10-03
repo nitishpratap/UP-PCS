@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Daily Read — High-Yield Revision Facts (Indian Art & Culture)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## 1. The 8 Classical Dances of India (Recognized by Sangeet Natak Akademi)
 
@@ -182,7 +180,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Tamil (Declared in 2004) — Conferred status as India's first Classical Language.
 - **Exam Anchor:** Sanskrit (Declared in 2005).
@@ -192,8 +190,6 @@ hide:
 - **Exam Anchor:** Odia (Declared in 2014).
 - **Exam Anchor:** Marathi (Approved by the Union Cabinet on 3 October 2024).
 - **Exam Anchor:** Pali (Approved on 3 October 2024).
-
-</details>
 
 ---
 

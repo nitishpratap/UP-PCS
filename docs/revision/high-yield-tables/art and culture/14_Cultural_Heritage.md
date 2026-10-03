@@ -11,9 +11,14 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 14 — Cultural Heritage</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+| Theory | Core claim |
+|--------|------------|
+| **Idealistic Theory** | Culture grows from **divine inspiration**, intuition, or higher ideas perceived by individuals or groups. |
+| **Materialistic Theory** | **Physical environment**, climate, and **means of production** shape culture first. |
+
+---
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -29,17 +34,6 @@ hide:
 | Ramlila ICH | Taj Mahal WHS | Intangible 2008 performance vs tangible 1983 tomb | रामलीला / ताज |
 | Masterpiece year | Representative List year | Kutiyattam **2001** / Vedic **2003** / Ramlila **2005** vs all three on RL in **2008** | घोषणा / प्रतिनिधि सूची |
 | World Heritage Day | ICH Convention day | **18 April** vs **17 October 2003** | 18 अप्रैल / 17 अक्टूबर |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Theory | Core claim |
-|--------|------------|
-| **Idealistic Theory** | Culture grows from **divine inspiration**, intuition, or higher ideas perceived by individuals or groups. |
-| **Materialistic Theory** | **Physical environment**, climate, and **means of production** shape culture first. |
 
 ---
 
@@ -167,18 +161,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** Moidams (मोइदाम) of Charaideo, Assam, entered the World Heritage list in 2024 as India’s 43rd property.
+- **Exam Anchor:** Maratha (मराठा) Military Landscapes entered in 2025 as the 44th. The serial covers 12 forts: eleven in Maharashtra and Gingee in Tamil Nadu (तमिलनाडु).
+- **Exam Anchor:** Sarnath (सारनाथ) was inscribed in July 2026 as India’s 45th property and Uttar Pradesh (उत्तर प्रदेश)’s fourth.
+- **Exam Anchor:** Deepavali (दीपावली) entered UNESCO ICH on 10 December 2025 as India’s 16th element, at 20.COM at the Red Fort (लाल किला), Delhi.
 - **Exam Anchor:** Tangible cultural heritage is a monument or site you can touch. Intangible cultural heritage is a living practice or skill you perform.
-- **Exam Anchor:** The World Heritage Convention is 1972 for sites with Outstanding Universal Value. The Intangible Heritage Convention is 2003 for living traditions. Ramsar (रामसर) 1971 is wetlands, not WHS.
-- **Exam Anchor:** The World Heritage Committee of 21 states decides inscriptions. ICOMOS advises on cultural sites. IUCN (आईयूसीएन) advises on natural sites. OUV is required.
-- **Exam Anchor:** India has 45 World Heritage Sites: about 37 cultural, 7 natural, and 1 mixed (Khangchendzonga, Sikkim).
-- **Exam Anchor:** Uttar Pradesh has four (चातुर्याम) WHS: Taj Mahal (ताज महल) (1983), Agra Fort (आगरा किला) (1983), Fatehpur Sikri (फतेहपुर सीकरी) (1986), and Sarnath (2026).
 - **Exam Anchor:** Varanasi (वाराणसी) ghats (वाराणसी घाट) remain on the Tentative List only. Do not count them as a fifth UP World Heritage Site.
-- **Exam Anchor:** Recent India inscriptions: Moidams (Assam, 2024), Maratha Military Landscapes (2025), and Sarnath (2026). Earlier pairs include Santiniketan and Hoysala (2023) and Dholavira (धोलावीरा) and Ramappa (रामप्पा) (2021).
-- **Exam Anchor:** India has 16 UNESCO ICH elements. Early Masterpiece proclamations were Kutiyattam 2001, Vedic chanting 2003, and Ramlila (रामलीला) 2005; all three entered the Representative List (प्रतिनिधि) in 2008.
-
-</details>
+- **Exam Anchor:** World Heritage Day (18 अप्रैल) (International Day for Monuments and Sites) is celebrated on 18 April under ICOMOS; the UNESCO Intangible Cultural Heritage Convention was adopted (अंगीकृत) on 17 October 2003 (ratified by India in 2005).
+- **Exam Anchor:** Keoladeo (केवलादेव) is both a natural WHS and a Ramsar wetland. Most Ramsar sites are not World Heritage Sites.
 
 ---
 

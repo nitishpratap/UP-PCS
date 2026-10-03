@@ -15,7 +15,8 @@ Political Organisations before INC | Zamindari Association | Bangabhasha Prakash
 
 ---
 
-## Consolidated — 35 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 35 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **East India Association** was founded in **1866** in **London** by **Dadabhai Naoroji**. It is not the Calcutta Indian Association of 1876.
 2. The pre-INC chronology four (चातुर्याम) run **East India Association (1866) → National Indian Association (1870) → Indian Society (1872) → Indian Association (1876)**.
@@ -53,9 +54,10 @@ Political Organisations before INC | Zamindari Association | Bangabhasha Prakash
 34. **Extremist programme triad:** Swaraj + Swadeshi + Boycott (+ national education) — distinct from Moderate 3Ps (petition, prayer, protest).
 35. **Surat 1907** split is about method and Swaraj language after Partition heat; **Lucknow 1916** reunites Moderates–Extremists **and** seals Congress–League Pact — two different reunions of different pairs.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -74,7 +76,7 @@ Political Organisations before INC | Zamindari Association | Bangabhasha Prakash
 | Safety Valve theory | National awakening view | Hume as a British-designed vent for discontent vs Congress as the natural culmination of decades of Indian political work | सेफ्टी वाल्व / राष्ट्रीय जागरण |
 | Lajpat Rai's Mandalay | Tilak's Mandalay | Six-month deportation, 1907 vs six-year sedition sentence, 1908–14 | लाजपत राय / तिलक मंडाले |
 
----
+</details>
 
 ## Must-score facts — 12 must-know INC sessions
 

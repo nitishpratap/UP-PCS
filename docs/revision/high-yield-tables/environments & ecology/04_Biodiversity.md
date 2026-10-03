@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 4 — Biodiversity</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -26,11 +24,7 @@ hide:
 | **Biodiversity Hotspot** | **Hope Spot** | Terrestrial regions with exceptionally high endemic species richness under severe threat (≥1,500 endemic vascular plants and ≥70% primary vegetation lost; Norman Myers) vs marine protected areas critical to the health of global oceans (Sylvia Earle / Mission Blue) | जैव विविधता हॉटस्पॉट (स्थलीय) / होप स्पॉट (समुद्री) |
 | **People's Biodiversity Register (PBR)** | **Red Data Book** | Mandated under Biological Diversity Act 2002 prepared by local Biodiversity Management Committees (BMCs) documenting traditional ecological knowledge vs official compendium published by IUCN documenting global extinction risks | जन जैव विविधता रजिस्टर (PBR) / रेड डेटा बुक (IUCN) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Concepts
 
@@ -177,18 +171,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Biodiversity is variability among living organisms at genetic, species, and ecosystem levels — the range of plants and animals in an area.
 - **Exam Anchor:** Walter G. Rosen (1985) coined the word biodiversity. E.O. Wilson popularised it. Whittaker (1960) advanced alpha, beta, and gamma diversity.
 - **Exam Anchor:** Genetic diversity is variation within a species. Species diversity is variety among species. Ecosystem diversity is variety of habitats and ecosystems.
 - **Exam Anchor:** Alpha = mean species diversity at a local habitat (वास स्थान). Beta = change between ecosystems. Gamma = overall regional diversity.
-- **Exam Anchor:** The most significant aspect of biodiversity is maintenance of the ecosystem, not food or drugs alone.
-- **Exam Anchor:** Species richness is generally highest in the tropics / tropical rainforest (optimum biome (जीवोम)) and increases toward the equator; it decreases toward the poles and with altitude.
-- **Exam Anchor:** On land, tropical rainforest is richest; in the sea, coral reefs are among the richest. UPPCS has accepted both rainforest and coral reefs for “relatively higher diversity.”
-- **Exam Anchor:** India holds about 2.4% of world land but about 7–8% of global species (rough shares often cited: mammals ~7.6%, birds ~12.6%, reptiles ~6.2%, amphibians ~4.4%).
-
-</details>
+- **Exam Anchor:** Silent Valley (साइलेंट वैली) (Kerala) is among India’s richest rainforest biodiversity sites (NP 1984; Silent Valley Project = Kerala). Valley of Flowers (फूलों की घाटी) is in Chamoli (चमोली), Uttarakhand (उत्तराखंड). Himalayan richness reflects confluence of biogeographic zones.
+- **Exam Anchor:** In-situ (स्थान पर) = natural habitat (NP, sanctuary, BR, sacred grove). Ex-situ (स्थानांतरित) = outside habitat (zoo, botanical garden (वनस्पति उद्यान), seed bank (बीज बैंक)). Cryo-banks use liquid nitrogen. Biosphere reserves (जैवमंडल आरक्षित क्षेत्र) best join biodiversity with traditional human life / cultural diversity.
+- **Exam Anchor:** TRAFFIC (WWF (डब्ल्यूडब्ल्यूएफ)–IUCN alliance, 1976) monitors wildlife trade (पण्याध्यक्ष) — not a UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) bureau.
+- **Exam Anchor:** Diclofenac (डाइक्लोफेनाक) veterinary painkiller caused India’s vulture crash. Dugong = herbivorous marine mammal (Schedule I); Gulf of Mannar / Palk. Indian wild ass = Rann of Kachchh. Lion-tailed macaque = Western Ghats (Kerala, Karnataka, Tamil Nadu (तमिलनाडु)).
+- **Exam Anchor:** Sea buckthorn (Ladakh (लद्दाख) / cold Himalaya) checks erosion and is nutritious — not primarily a biodiesel (बायो-डीजल) timber crop.
 
 ---
 

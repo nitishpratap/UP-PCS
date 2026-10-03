@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 21 — World Minerals & Energy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -55,11 +53,7 @@ hide:
 | Carajás vs Newman | Both **iron**; Carajás = Brazil, Newman = Australia | Swap countries | काराजास |
 | Producer vs exporter (coal/iron) | China often huge **volume**; Australia/Indonesia **ship** | China = export king | |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Coalfield ↔ country
 
@@ -439,18 +433,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Coalfield–country pairs: Appalachian–USA, Lancashire–England, Ruhr–Germany, Kuzbass–Russia. Donetsk / Donbass = Ukraine. Karaganda = Kazakhstan coal city.
 - **Exam Anchor:** Mount Newman / Pilbara / Hamersley = iron in Australia. Krivoy Rog = Ukraine iron. Lorraine = France. Kiruna = Sweden. Mesabi = USA. Germany–Normandy iron is wrong — Normandy is in France.
-- **Exam Anchor:** Iron exporters = Australia (Pilbara) and Brazil (Carajás). China mines iron and still imports heavily. Hematite = red bulk ore; magnetite = black highest grade.
 - **Exam Anchor:** Chile leads copper with northern Andes porphyry deposits (Chuquicamata, El Teniente). Also fact Katanga (DRC), Copperbelt (Zambia), and Bingham (USA).
-- **Exam Anchor:** Malaysia’s Kinta Valley = tin (cassiterite). Also tin centres: Bangka–Belitung (Indonesia) and the Andes of Bolivia. Myanmar’s Pegu Yoma = mineral oil, not tin.
 - **Exam Anchor:** Kashagan oil is in Kazakhstan, not Kuwait. Burgan = Kuwait. Also fact Ghawar / Dhahran (Saudi), Kirkuk / Zubair (Iraq), Haft Kel (Iran), Baku (Azerbaijan). Brent = North Sea light crude.
-- **Exam Anchor:** Natural gas’s main constituent is methane. LPG (propane–butane) is not the same as CNG. Qatar’s North Field and Iran’s South Pars are one continuous Gulf gas giant.
 - **Exam Anchor:** Postmasburg (South Africa) = manganese (not uranium / mica / bauxite). Also Mn: Moanda (Gabon), Groote Eylandt (Australia), Nikopol (Ukraine).
-
-</details>
+- **Exam Anchor:** Lithium Triangle = Chile–Argentina–Bolivia (Brazil is not in it). Cobalt volume = DRC. REE processing fact = China. Tungsten volume often China.
+- **Exam Anchor:** OPEC HQ = Vienna. Original OPEC five (1960): Iran, Iraq, Kuwait, Saudi Arabia, Venezuela. North Sea oil/gas = UK–Norway; West Siberia = Russia’s giant hydrocarbon province.
+- **Exam Anchor:** Itaipu = Brazil–Paraguay hydel. Three Gorges = China on the Yangtze. Steel tonnage top = China.
+- **Exam Anchor:** German silver contains no silver. Peace Pipeline = Iran–Pakistan. Sheet mica classic = India. Platinum = Bushveld / Norilsk.
 
 ---
 

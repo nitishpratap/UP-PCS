@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 22 — World Industries</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -47,11 +45,7 @@ hide:
 | Footloose vs steel | Footloose = electronics / R&D; steel = ore + coal | Electronics on coalfield only | |
 | Silicon Valley | California Bay Area **electronics / IT** | Detroit auto dump | सिलिकॉन वैली |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### City ↔ industry
 
@@ -421,18 +415,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** City–industry pairs: Osaka–cotton, Detroit–auto, Cuba–cigar, St Petersburg–shipbuilding.
 - **Exam Anchor:** Akron = tyres; Toulouse = Airbus; Silicon Valley (California) = electronics / IT — not Detroit.
 - **Exam Anchor:** Igarka is in Russia (Yenisei timber), not China. Rotterdam is in the Netherlands. Montevideo is Uruguay. Jakarta is Indonesia.
 - **Exam Anchor:** Duisburg is an inland Rhine port, not a Dutch sea mouth. Entrepôt classics = Singapore, Rotterdam, Hong Kong. Break-of-bulk points concentrate at ports.
-- **Exam Anchor:** The Suez Canal joins the Mediterranean and Red Sea and cut India–Europe distance by about 7000 km. It is a sea-level cut (no stepped chambers). Lakes north to south: Manzala → Timsah → Great Bitter → Little Bitter.
-- **Exam Anchor:** Port Said is at the north end of Suez; Suez town is at the south.
 - **Exam Anchor:** Panama joins Atlantic / Caribbean and Pacific with stepped chambers and Gatun Lake. Kiel joins the North Sea and Baltic.
-- **Exam Anchor:** Location logics: weight-losing industries (steel) sit near ore / coking coal; market-oriented (bottling) sit near consumers; aluminium seeks cheap hydel; footloose example = electronics / software; oil refining often seeks the port or pipeline end.
-
-</details>
+- **Exam Anchor:** Ruhr = Germany heavy industry. Lancashire = cotton. Yorkshire = wool. Pittsburgh–Great Lakes = steel. Detroit = autos.
+- **Exam Anchor:** Chinook is a warm dry wind of the Rockies; Foehn is the Alps equivalent. Both can be true together.
+- **Exam Anchor:** Mistral = southern France (not Australia). Shamal = Arabia (not Austria). Brickfielder = Australia.
+- **Exam Anchor:** Weight-losing raw material (iron ore, sugarcane, timber) pulls the mill near the source.
 
 ---
 

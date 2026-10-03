@@ -21,7 +21,8 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A **habitat** (वास स्थान) is the physical **place** where an organism lives. A **niche** is the **role**. An **ecosystem** (पारिस्थितिकी तंत्र) is the functional unit. **Environment** (पर्यावरण) is the total surroundings.
 2. Habitats are commonly classed as **terrestrial, aquatic, or transitional** (mangrove/wetland). Transitional habitats are not purely terrestrial.
@@ -48,9 +49,10 @@ Habitat | Habitat Conservation | Flora and Fauna
 23. Jal Jeevan Mission (**2019**) is the latest fact in the urban/habitat chronology set above; do not date NUHHP as 2019.
 24. Corridor questions for UP should start from Terai Arc links, not from Western Ghat mangrove corridors.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -61,7 +63,8 @@ Habitat | Habitat Conservation | Flora and Fauna
 | **Umbrella Species** | **Flagship Species** | Wide-ranging species whose habitat protection automatically shields hundreds of co-occurring species (e.g. Tiger, Asian Elephant) vs charismatic, culturally iconic species chosen as marketing symbols to rally conservation campaigns (e.g. Giant Panda, Polar Bear) | छत्र (अंब्रेला) प्रजाति / प्रतीक (फ्लैगशिप) प्रजाति |
 | **Indicator Species** | **Invasive Species** | Species whose presence, absence, or abundance directly signals environmental stress or health (e.g. Lichens for SO₂ air pollution, Mayfly larvae for clean water) vs non-native species proliferating aggressively and threatening native ecology | जैव संकेतक प्रजाति / आक्रामक विदेशी प्रजाति |
 | **In-situ Conservation** | **Ex-situ Conservation** | On-site conservation in natural ecosystems (Sacred Groves, Wildlife Sanctuaries) vs off-site conservation under artificial human custody (Seed Banks, Tissue Culture Labs) | स्व-स्थाने संरक्षण / बाह्य-स्थाने संरक्षण |
----
+
+</details>
 
 ## Must-score facts — habitat, flora–fauna, schemes
 

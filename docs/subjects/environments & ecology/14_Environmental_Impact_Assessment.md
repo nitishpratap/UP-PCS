@@ -21,7 +21,8 @@ Environmental Impact Assessment (EIA) (पर्यावरण प्रभा�
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **EIA** studies a project’s likely environmental effects **before** approval. The aim is anticipatory prevention, not reactive cleanup.
 2. Legal base is the **Environment (पर्यावरण) (Protection) Act, 1986** (Section **3**). First EIA Notification was **1994**; the current framework is **EIA Notification 2006 (14 September)**.
@@ -48,9 +49,10 @@ Environmental Impact Assessment (EIA) (पर्यावरण प्रभा�
 23. EMP is mitigation and monitoring inside the EIA package — not a substitute for the EC grant itself.
 24. PARIVESH tracks applications; it does not replace NGT’s appellate role.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -60,7 +62,8 @@ Environmental Impact Assessment (EIA) (पर्यावरण प्रभा�
 | **Terms of Reference (ToR)** | **Environmental Management Plan (EMP)** | Comprehensive boundary document outlining all environmental baseline issues and studies that the project proponent must investigate vs actionable mitigation, monitoring, and institutional plan submitted in the final EIA report | संदर्भ की शर्तें (ToR, आरंभिक ढांचा) / पर्यावरण प्रबंधन योजना (EMP, शमन कार्ययोजना) |
 | **Public Hearing (Consultation)** | **Appraisal** | Statutory public stage where local affected communities and citizens voice concerns and objections to the draft EIA vs detailed scientific scrutiny of final EIA and public hearing proceedings by EAC or SEAC | जन सुनवाई (स्थानीय सहभागिता) / वैज्ञानिक मूल्यांकन (EAC/SEAC) |
 | **National Green Tribunal (NGT)** | **Appellate Authority under Air/Water Acts** | Specialized judicial tribunal established under NGT Act 2010 hearing original environmental disputes and appeals against environmental clearances (EC) vs administrative appellate authorities designated under Water Act 1974 / Air Act 1981 | राष्ट्रीय हरित अधिकरण (न्यायिक अधिकरण) / राज्य अपीलीय प्राधिकरण |
----
+
+</details>
 
 ## Must-score facts — EIA stages, categories, SEA
 

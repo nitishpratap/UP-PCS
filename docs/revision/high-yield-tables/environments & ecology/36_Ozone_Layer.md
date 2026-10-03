@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 36 — Ozone Layer</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Ozone Depletion Potential (ODP)** | **Global Warming Potential (GWP)** | Measure of substance's ability to destroy O₃ relative to CFC-11 (=1.0) vs measure of heat-trapping efficiency relative to CO₂ (=1.0) over 100 years | ओजोन रिक्तीकरण क्षमता (ODP) / वैश्विक तापन क्षमता (GWP) |
 | **Dobson Unit (DU)** | **Parts Per Million (ppm)** | Standard measure of atmospheric column ozone thickness (1 DU = 0.01 mm at STP; normal = ~300 DU) vs concentration ratio of gases in volume | डॉबसन यूनिट (DU) / पीपीएम (ppm) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Science / treaties
 
@@ -123,18 +117,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Ozone (O₃) is triatomic oxygen. Good ozone (अच्छा ओजोन) sits in the stratosphere (समतापमंडल) (about 15–30/35 km). Ground-level ozone is a harmful pollutant.
-- **Exam Anchor:** About 90% of atmospheric ozone is in the stratosphere; about 10% is in the troposphere (क्षोभमंडल).
-- **Exam Anchor:** Stratospheric ozone (समतापमंडलीय ओजोन) forms when UV acts on O₂ (Chapman cycle). Ozone absorbs ultraviolet, not IR as its main protective role.
-- **Exam Anchor:** Ozone amount is measured in Dobson Units. 1 DU ≈ 0.01 mm of pure ozone at 0°C and 1 atm. Average column ≈ 300 DU. An ozone hole is often taken as below 220 DU.
-- **Exam Anchor:** Stratospheric ozone is naturally regulated in part by nitrogen dioxide (NO₂). Column thickness is often highest in spring and lowest in the rainy season (general seasonal pattern — distinct from the Antarctic spring hole).
-- **Exam Anchor:** Ozone depletion is driven by ODS such as CFCs through chlorine and bromine catalytic cycles.
-- **Exam Anchor:** One chlorine atom can destroy on the order of 100,000 ozone molecules before it is removed.
-- **Exam Anchor:** The classic ozone hole forms over Antarctica in spring (September–October) with polar stratospheric clouds, polar front/vortex, and CFCs.
-
-</details>
+- **Exam Anchor:** HFCs are high-GWP climate gases under Kigali. They are not classic ozone-depleting substances.
+- **Exam Anchor:** Montreal = ozone. Kyoto (क्योटो) = climate. Carbon trading ≠ Montreal.
+- **Exam Anchor:** UV-A (315–400 nm) largely reaches the surface; UV-B (280–315 nm) is mostly blocked by ozone; UV-C (100–280 nm) is blocked and does not reach the surface under normal conditions.
+- **Exam Anchor:** G.W. Kent Moore (University of Toronto) led the 2005 report of an ozone “halo” / low-ozone feature over the Tibetan Plateau.
+- **Exam Anchor:** Ozone (O₃) is triatomic oxygen that absorbs harmful solar ultraviolet radiation.
+- **Exam Anchor:** UV-A (315–400 nm) largely reaches the surface; UV-B (280–315 nm) is mostly blocked by ozone; UV-C (100–280 nm) is blocked by O₂/O₃ and does not reach the surface under normal conditions.
+- **Exam Anchor:** Ozone depletion is a sustained fall in stratospheric ozone below natural levels.
 
 ---
 

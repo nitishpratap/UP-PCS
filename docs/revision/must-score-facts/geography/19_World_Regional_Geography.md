@@ -11,87 +11,79 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 19 — World Regional Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
-2. The **Nobi** and **Kanto** plains are in **Japan**, not Korea.
-3. Iraq’s **Sunni Triangle** is **Baghdad, Tikrit, and Ramadi**. **Basra** (Shia south) is the trap.
-4. West Asia mountains west to east: **Pontic → Zagros → Hindu Kush → Karakoram (काराकोरम)**.
-5. Central Asia capitals: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**, Kazakhstan **Astana**.
-6. The **Kara Kum** desert is in **Turkmenistan**.
-7. **Borneo** is shared by Indonesia, Malaysia, and Brunei and is **not** a volcanic island dump.
-8. Philippines cane and coconut history (इतिहास) fact: **Spanish and Americans**.
-9. Korea: **Seoul** south, **Pyongyang** north, roughly the **38th parallel**. Nobi/Kanto are not Korean plains.
-10. Palestine map: **Gaza** on the Egypt (मिस्र) side, **West Bank** on the Jordan side, with the **Jordan River / Dead Sea** belt. Neighbours include Israel, Jordan, Egypt, Lebanon, and Syria.
-11. Western Europe has **westerlies** and rain in **all months**.
-12. The **Suez Canal** shortened the India–Europe sea route by about **7000 km**.
-13. **Cape Verde**’s capital is **Praia**. **Bamako** is Mali’s capital — do not swap them.
-14. Maghreb capitals: Morocco **Rabat**, Algeria **Algiers**, Tunisia **Tunis**.
-15. Brazil points: **Selva** (सेल्वा) rainforest and **Terra Roxa** coffee soil are both true.
-16. Australia’s **interior is desert**. The **north is tropical**, not temperate. The **Darling Range** lies in **south-west** Australia.
-17. India’s operational Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri (गंगोत्री)** is not the operational answer.
-18. **Madeira** is Atlantic Portugal and is **not** Caribbean.
-19. Indonesia west to east: **Sumatra → Java → Bali (बलि) → Lombok**.
-20. The **Mekong** delta (डेल्टा) is in **southern Vietnam**, not Cambodia.
-21. South America’s landlocked pair is **Bolivia** and **Paraguay**. Uruguay, Peru, and Suriname have coasts.
-22. **Igarka** is in **Russia**, not China.
-23. New Zealand’s capital is **Wellington**. NZ has North and South Islands with **Cook Strait** and is **not** an Australian state.
-24. **Ethiopia** is landlocked after Eritrea’s secession; **Eritrea** holds the Red Sea coast. The Horn is Ethiopia–Somalia–Eritrea–Djibouti.
-25. Only **double-landlocked** states in the usual set are **Uzbekistan** and **Liechtenstein**.
-26. Capitals that are not the country’s most-famous tourist city: Turkey **Ankara**, Australia **Canberra**, Brazil **Brasília**, UAE **Abu Dhabi**, NZ **Wellington**.
-27. Boundary parallels: **38th** ≈ Koreas; **49th** ≈ Canada–USA.
-28. South Asia map: Nepal and Bhutan are landlocked; Maldives and Sri Lanka are islands; **Kabul** is Afghanistan’s capital. The Caucasus trio is Georgia–Armenia–Azerbaijan; Istanbul is not Turkey’s capital.
-29. **Esperanto** is an artificial world auxiliary language. **Tamil** is an official language of **Singapore**. Spanish is official in Chile/Colombia/Cuba — **not** Congo. **Bahasa** = Indonesia (not Thailand). Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
-30. Great Lakes west→east: **Superior → Michigan → Huron → Erie → Ontario**. The St Lawrence is the seaway outlet.
-31. Maghreb = Morocco–Algeria–Tunisia (sometimes Libya in wider use). Sahel is the semi-arid belt south of the Sahara — not the same as Maghreb.
-32. USA–Canada land border roughly follows the **49th parallel** in the west. Alaska is USA; Greenland is Denmark politically / North America geographically.
-33. East Asia flash cards: Japan’s **Honshu** is the main island; Korea split near the **38th parallel**; China’s capital is **Beijing** (not Shanghai).
+1. **Borneo** is shared by Indonesia, Malaysia, and Brunei and is **not** a volcanic island dump.
+2. **Cape Verde**’s capital is **Praia**. **Bamako** is Mali’s capital — do not swap them.
+3. **Madeira** is Atlantic Portugal and is **not** Caribbean.
+4. **Igarka** is in **Russia**, not China.
+5. **Ethiopia** is landlocked after Eritrea’s secession; **Eritrea** holds the Red Sea coast. The Horn is Ethiopia–Somalia–Eritrea–Djibouti.
+6. **Esperanto** is an artificial world auxiliary language. **Tamil** is an official language of **Singapore**. Spanish is official in Chile/Colombia/Cuba — **not** Congo. **Bahasa** = Indonesia (not Thailand). Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
+7. **Basra** is far **south**, Shia / Gulf head — **NOT** in the triangle.
+8. **Nobi/Kanto = Korea** — FALSE. **Japan**.
+9. **Basra in the Sunni Triangle** — FALSE. **South Iraq**.
+10. **Northern Australia = temperate** — FALSE. **Tropical**. Interior dry is still true.
+11. **Darling Range = east coast** — FALSE. **South-west**. East = Great Dividing Range.
+12. **Kara Kum = Kazakhstan** — FALSE. **Turkmenistan**.
+13. **Bishkek = Kazakhstan** — FALSE. **Kyrgyzstan**.
+14. **Cape Verde = Bamako** — FALSE. **Praia**. Bamako = Mali.
+15. **Madeira = Caribbean** — FALSE. **Atlantic / Portugal**.
+16. **Dakshin Gangotri still operational** — FALSE. **Maitri + Bharati**.
+17. **W Europe = Mediterranean winter rain only** — FALSE. Rain in **all months**.
+18. **Philippines plantations = Dutch** — FALSE. **Spanish and Americans**.
+19. **Istanbul = capital of Turkey** — FALSE. **Ankara**.
+20. **Borneo = volcanic + two countries** — FALSE. **Three countries**, continental shelf.
+21. **Iraq borders Israel** — FALSE.
+22. **Greenland = US state** — FALSE. **Denmark**.
+23. **Java is west of Sumatra** — FALSE. **Sumatra → Java → Bali → Lombok**.
+24. **Mekong delta = Cambodia** — FALSE. **Southern Vietnam**.
+25. **Uruguay / Peru / Suriname = landlocked** — FALSE. **Bolivia** (and Paraguay).
+26. **Igarka = China** — FALSE. **Russia**.
+27. **Ethiopia has a Red Sea coast** — FALSE since Eritrea. **Landlocked**.
+28. **Wellington is in Australia** — FALSE. **New Zealand**. Canberra = Australia.
+29. **Equator through India** — FALSE.
+30. **Paraguay has a seacoast** — FALSE. Landlocked with Bolivia.
+31. **Casablanca / Istanbul / Sydney / Rio / Auckland = capitals** — FALSE. Rabat / Ankara / Canberra / Brasília / Wellington.
+32. **Europe is the largest continent** — FALSE. **Asia** is largest; Australia/Oceania is smallest inhabited.
+33. **Double-landlocked = Bolivia** — FALSE. Bolivia is landlocked; **Uzbekistan / Liechtenstein** are the double-landlocked pair.
+34. **49th parallel = Korea** — FALSE. Korea ≈ **38th**; 49th ≈ Canada–USA.
+35. **Skip capitals map because recent papers asked Australia A/R** — FALSE. Next year can ask any Lucent capital or landlocked trap.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Nobi / Kanto | **Japan** | Korea | नोबी / कांतो |
-| Esperanto | Artificial world language | Mountain / seaport | एस्पेरान्तो |
-| Bahasa | **Indonesia** | Thailand | बहासा |
-| Tamil abroad | **Singapore** official set | Myanmar major | तमिल |
-| Sunni Triangle | Baghdad, Tikrit, **Ramadi** | **Basra** (Shia south) | सुन्नी त्रिभुज |
-| Pontic vs Zagros | Pontic = **N Turkey**; Zagros = **W Iran** | Swapped on W→E list | पोंटिक / ज़ाग्रोस |
-| Kara Kum vs Kyzylkum | Kara Kum = **Turkmenistan** | Kazakhstan / Tajikistan | काराकुम |
-| Tashkent vs Ashgabat | Tashkent = **Uzbekistan**; Ashgabat = **Turkmenistan** | Swapped stans | ताशकंद |
-| Bishkek vs Dushanbe | Bishkek = **Kyrgyzstan**; Dushanbe = **Tajikistan** | Swapped | बिश्केक |
-| Darling vs Great Dividing | Darling = **SW** Australia; GDR = **east** | Darling on east coast | डार्लिंग रेंज |
-| N Australia climate | **Tropical** | Temperate (2025 R) | उत्तरी ऑस्ट्रेलिया |
-| Cape Verde capital | **Praia** | Bamako (**Mali**) | केप वर्डे |
-| Madeira | NE **Atlantic** (Portugal) | Caribbean | मदेरा |
-| Maitri / Bharati | Both **operational** Antarctica | Dakshin Gangotri still open | मैत्री / भारती |
-| W Europe rain | **All months** (westerlies) | Mediterranean winter-only | पश्चिमी यूरोप |
-| Philippines cane/coconut | **Spanish and Americans** | British / Dutch | फिलीपींस |
-| Palestine vs Israel map | West Bank + Gaza as units | “No such region on map” | फिलिस्तीन |
-| Seoul vs Pyongyang | Seoul = **South**; Pyongyang = **North** | Swapped | सियोल / प्योंगयांग |
-| Sumatra vs Java | Sumatra is **west** of Java | Java first on W→E list | सुमात्रा / जावा |
-| Bali vs Lombok | Bali **west** of Lombok (Wallace Line between them) | Lombok before Bali | बाली / लॉम्बोक |
-| Mekong delta | **S Vietnam** | Cambodia | मेकांग डेल्टा |
-| Bolivia vs Uruguay | Bolivia = **landlocked**; Uruguay has Atlantic | Uruguay landlocked | बोलीविया |
-| Igarka | **Russia** (Yenisei) | China | इगारका |
-| Casablanca vs Rabat | Rabat = **capital** | Casablanca | रबात |
-| UK vs Great Britain | UK = GB + **N Ireland**; GB = Eng+Scot+Wales | Ireland in UK | यूके |
-| Ethiopia vs Eritrea | Ethiopia **landlocked**; Eritrea has Red Sea | Ethiopia still coastal | इथियोपिया |
-| Bolivia vs Paraguay | **Both** landlocked S America | Only one of them | पराग्वे |
-| NZ vs Tasmania | NZ = separate country, capital **Wellington** | NZ is an Australian state | न्यूज़ीलैंड |
-| Continent size | Asia largest; Australia / Oceania smallest inhabited | Europe largest | महाद्वीप |
-| Double landlocked | **Uzbekistan** / Liechtenstein | Any coastal state | दोहरा स्थलरुद्ध |
-| 38th vs 49th parallel | Korea DMZ vs Canada–USA | Swapped | 38° / 49° |
-| Capital ≠ mega-city | Ankara / Canberra / Brasília / Abu Dhabi | Istanbul / Sydney / Rio / Dubai | राजधानी |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Nobi/Kanto = Korea** — FALSE. **Japan**.
+2. **Basra in the Sunni Triangle** — FALSE. **South Iraq**.
+3. **Northern Australia = temperate** — FALSE. **Tropical**. Interior dry is still true.
+4. **Darling Range = east coast** — FALSE. **South-west**. East = Great Dividing Range.
+5. **Kara Kum = Kazakhstan** — FALSE. **Turkmenistan**.
+6. **Bishkek = Kazakhstan** — FALSE. **Kyrgyzstan**.
+7. **Cape Verde = Bamako** — FALSE. **Praia**. Bamako = Mali.
+8. **Madeira = Caribbean** — FALSE. **Atlantic / Portugal**.
+9. **Dakshin Gangotri still operational** — FALSE. **Maitri + Bharati**.
+10. **W Europe = Mediterranean winter rain only** — FALSE. Rain in **all months**.
+11. **Philippines plantations = Dutch** — FALSE. **Spanish and Americans**.
+12. **Istanbul = capital of Turkey** — FALSE. **Ankara**.
+13. **Borneo = volcanic + two countries** — FALSE. **Three countries**, continental shelf.
+14. **Iraq borders Israel** — FALSE.
+15. **Greenland = US state** — FALSE. **Denmark**.
+16. **Java is west of Sumatra** — FALSE. **Sumatra → Java → Bali → Lombok**.
+17. **Mekong delta = Cambodia** — FALSE. **Southern Vietnam**.
+18. **Uruguay / Peru / Suriname = landlocked** — FALSE. **Bolivia** (and Paraguay).
+19. **Igarka = China** — FALSE. **Russia**.
+20. **Ethiopia has a Red Sea coast** — FALSE since Eritrea. **Landlocked**.
+21. **Wellington is in Australia** — FALSE. **New Zealand**. Canberra = Australia.
+22. **Equator through India** — FALSE.
+23. **Paraguay has a seacoast** — FALSE. Landlocked with Bolivia.
+24. **Casablanca / Istanbul / Sydney / Rio / Auckland = capitals** — FALSE. Rabat / Ankara / Canberra / Brasília / Wellington.
+25. **Europe is the largest continent** — FALSE. **Asia** is largest; Australia/Oceania is smallest inhabited.
+26. **Double-landlocked = Bolivia** — FALSE. Bolivia is landlocked; **Uzbekistan / Liechtenstein** are the double-landlocked pair.
+27. **49th parallel = Korea** — FALSE. Korea ≈ **38th**; 49th ≈ Canada–USA.
+28. **Skip capitals map because recent papers asked Australia A/R** — FALSE. Next year can ask any Lucent capital or landlocked trap.
 
 
 ---

@@ -12,7 +12,8 @@
 
 UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Thomas Robert Malthus** published his seminal work *An Essay on the Principle of Population* in **1798**.
 2. Malthus postulated that population increases in **Geometric Progression** ($1, 2, 4, 8, 16...$) while food production increases in **Arithmetic Progression** ($1, 2, 3, 4, 5...$).
@@ -65,9 +66,10 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 49. The **J-Curve of Population Growth** represents exponential / unrestricted population growth under ideal environmental conditions.
 50. The **S-Curve (Logistic Growth Curve)** represents population growth that stabilizes at the environment's **Carrying Capacity ($K$)**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **Exponential (J-shaped) Growth**: Unchecked growth with constant birth/death rates | **Logistic (S-shaped) Growth**: Growth slowed by carrying capacity ($K$) | **Trap**: Real populations in nature follow the S-shaped logistic curve due to environmental resistance. |
 | **Demographic Dividend**: High ratio of working-age (15–59) to dependents | **Demographic Disaster / Drag**: High working-age population without jobs/skills | **Trap**: Dividend is only potential; if uneducated and unemployed, the dividend turns into a demographic liability/drag. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

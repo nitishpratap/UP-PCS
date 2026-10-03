@@ -11,32 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 14 — Elections</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **ECI** | **SEC** | Parliament, State Houses, President, VP | PRI + ULB only (**243K/ZA**) |
-| **ECI** | **Delimitation Commission** | Conducts polls (324) | Statutory panel that **draws** seats |
-| **RPA 1950** | **RPA 1951** | Rolls, seats, delimitation machinery | Conduct, corrupt practices, petitions |
-| **FPTP** | **PR-STV** | LS / Assembly | President, VP, RS, Councils |
-| **325** | **326** | One roll; no communal electoral roll | Adult suffrage (age) |
-| **330/332** | **331/333** | SC/ST reserved *constituencies* | Anglo-Indian *nomination* — **ended 104th** |
-| **MCC** | **s.126 RPA** | ECI convention | Statutory 48-hour ban |
-| **327** | **328** | Parliament’s election law | State law, **subject to** 327 |
-| **General election** | **Bye-election** | Whole House | Casual vacancy (6 months / skip if <1y) |
-| **Registration (29A)** | **Recognition** | Any association → RUPP | National / State party (Symbols Order) |
-| **Reserved symbol** | **Free symbol** | Recognised parties | RUPP / independents |
-| **NOTA** | **Re-poll** | Button; result still the highest candidate | Booth cancelled / countermanded |
-| **EVM** | **VVPAT** | Records the vote | Paper slip the voter sees |
-| **Election petition** | **Art. 71** | LS/Assembly → **HC** | President/VP → **SC** |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## Current Affairs
 
@@ -54,6 +29,25 @@ hide:
 | 2018–24 | Electoral bonds; SC struck down Feb 2024 | Party funding |
 | 2003 | 91st Amendment — merger 2/3, split gone | 10th Schedule |
 | 2023–24 | Kovind committee, simultaneous polls | Not yet law |
+
+---
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
+| **ECI** | **SEC** | Parliament, State Houses, President, VP | PRI + ULB only (**243K/ZA**) |
+| **ECI** | **Delimitation Commission** | Conducts polls (324) | Statutory panel that **draws** seats |
+| **RPA 1950** | **RPA 1951** | Rolls, seats, delimitation machinery | Conduct, corrupt practices, petitions |
+| **FPTP** | **PR-STV** | LS / Assembly | President, VP, RS, Councils |
+| **325** | **326** | One roll; no communal electoral roll | Adult suffrage (age) |
+| **330/332** | **331/333** | SC/ST reserved *constituencies* | Anglo-Indian *nomination* — **ended 104th** |
+| **MCC** | **s.126 RPA** | ECI convention | Statutory 48-hour ban |
+| **327** | **328** | Parliament’s election law | State law, **subject to** 327 |
+| **General election** | **Bye-election** | Whole House | Casual vacancy (6 months / skip if <1y) |
+| **Registration (29A)** | **Recognition** | Any association → RUPP | National / State party (Symbols Order) |
+| **Reserved symbol** | **Free symbol** | Recognised parties | RUPP / independents |
+| **NOTA** | **Re-poll** | Button; result still the highest candidate | Booth cancelled / countermanded |
+| **EVM** | **VVPAT** | Records the vote | Paper slip the voter sees |
+| **Election petition** | **Art. 71** | LS/Assembly → **HC** | President/VP → **SC** |
 
 ---
 
@@ -158,18 +152,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Article 324 gives the Election Commission superintendence over elections to Parliament, State legislatures, the President, and the Vice-President. It does not cover the Speaker’s election inside the House or Panchayat/ULB polls (those are SEC).
 - **Exam Anchor:** Article 327 lets Parliament make election law; Article 328 lets States legislate subject to Parliament. RPA 1950 covers rolls, seats, and delimitation machinery; RPA 1951 covers conduct, nominations, corrupt practices, and petitions.
-- **Exam Anchor:** Bye-elections are ordinarily held within six months, but may be skipped if the remainder of the term is less than one year.
 - **Exam Anchor:** Article 326 is universal adult suffrage. The voting age moved from 21 to 18 by the 61st Amendment (1988), in force from 1989. Article 325 creates one general electoral roll and forbids communal rolls.
-- **Exam Anchor:** A person in prison under a sentence of imprisonment generally cannot vote under RPA section 62(5). A person in preventive detention may still be able to vote — do not collapse the two.
 - **Exam Anchor:** First Past the Post elects the Lok Sabha (लोकसभा) and Vidhan Sabhas: most votes win, not proportional representation. Double-member constituencies ended in 1961. Lok Sabha elected strength is 543; Anglo-Indian nomination under 331 ended with the 104th Amendment.
 - **Exam Anchor:** Proportional Representation by Single Transferable Vote is used for the President, Vice-President, Rajya Sabha (राज्यसभा), and Legislative Councils. Rajya Sabha party voting uses an open ballot (2003); President and Vice-President use a secret ballot.
-- **Exam Anchor:** An MLA’s vote value for the Presidential election uses the 1971 population (जनसंख्या) formula: State population ÷ (elected MLAs × 1000). Keep 1971 as the freeze year in that formula.
-
-</details>
+- **Exam Anchor:** National Voters’ Day is 25 January — the day the Election Commission was founded in 1950. The first National Voters’ Day was celebrated in 2011.
+- **Exam Anchor:** Article 330 reserves Lok Sabha seats for SC/ST; 332 does the same for Assemblies. All voters in that constituency vote; only SC/ST candidates contest the reserved seat.
+- **Exam Anchor:** EVMs were first used in Kerala in 1982 and covered all booths by 2004. They are made by BEL and ECIL. VVPAT was first used at Noksen (Nagaland) on 4 September 2013 and nationwide by 2019; the Supreme Court required verification of five VVPAT slips per Assembly constituency.
 
 ---
 

@@ -22,7 +22,9 @@
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+
 1. **Four Systems of Units**: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
 2. **Seven Fundamental Quantities**: Length ($m$), Mass ($kg$), Time ($s$), Electric Current ($A$), Thermodynamic Temperature ($K$), Luminous Intensity ($cd$), Amount of Substance ($mol$).
 3. **Supplementary Units**: Plane angle (Radian, $rad = m/m$, dimensionless), Solid angle (Steradian, $sr = m^2/m^2$, dimensionless).
@@ -83,9 +85,11 @@
 49. **Kymograph**: Rotating cylindrical drum recording physiological changes such as muscle contraction, blood pressure variations, and vascular response.
 50. **Lysimeter**: Measures **actual evapotranspiration** (combined evaporation from soil + transpiration from crops).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+
 | Quantities / Instruments | Key Distinction & Trap Alert |
 |---|---|
 | **Curie vs Becquerel** | **Becquerel ($Bq$)** is the official SI unit ($1\text{ decay/s}$). **Curie ($Ci$)** is a traditional/non-SI unit ($1\text{ Ci} = 3.7 \times 10^{10}\text{ Bq}$). |
@@ -102,7 +106,7 @@
 | **Odometer vs Speedometer vs Tachometer** | **Odometer** records total *distance travelled* by vehicle. **Speedometer** displays instantaneous *linear speed*. **Tachometer** measures shaft *rotational speed (RPM)*. |
 | **Fathometer vs Sextant** | **Fathometer** measures *ocean depth* using acoustics. **Sextant** measures *angular altitude* of celestial bodies above the horizon. |
 
----
+</details>
 
 ## Must-Score Drill — SI Units, Constants & Scientific Instruments
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 9 — Gupta Age</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -41,11 +39,7 @@ hide:
 | Devagupta | Chandragupta Maurya | CG II alias vs Mauryan founder | देवगुप्त / मौर्य |
 | Vishti | Bhaga | Forced labour as tax vs produce share (~1/6) | विष्टि / भाग |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 | King | Tag |
 |------|-----|
@@ -262,18 +256,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The imperial Gupta line runs Sri Gupta → Ghatotkacha → Chandragupta I → Samudragupta → Chandragupta II → Kumaragupta I → Skandagupta. Coaching often pegs Sri Gupta about 275 CE; the imperial span is roughly 320–550 CE, with capital Pataliputra (पाटलिपुत्र).
 - **Exam Anchor:** Sri Gupta and Ghatotkacha carry only the title Maharaja (महाराज). The first Gupta Maharajadhiraja (महाराजाधिराज) is Chandragupta I.
-- **Exam Anchor:** Chandragupta I married Lichchhavi princess Kumaradevi. The king-and-queen gold type belongs to this pair, and the Gupta era is usually pegged at 319–320 CE.
 - **Exam Anchor:** Samudragupta is the digvijaya (Digvijaya / दिग्विजय) king. V. A. Smith called him the Napoleon of India. In the north he uprooted nine kings and annexed land; in the south he defeated then restored twelve kings as tribute.
-- **Exam Anchor:** The south matches are Dhananjaya–Kusthalapura, Nilaraja–Avamukta, Ugrasena–Palaka, and Vishnugopa–Kanchi. Mahendra is the Kosala king named in the Prashasti.
-- **Exam Anchor:** The Prayag Prashasti (प्रयाग प्रशस्ति) is Harishena’s (हरिषेण) eulogy of Samudragupta, carved on the Allahabad (इलाहाबाद) Ashokan shaft. The prashasti is the text; the pillar is the shaft.
 - **Exam Anchor:** Chandragupta II (Vikramaditya) (विक्रमादित्य) ended the Western Kshatrapas (क्षत्रप) by defeating Rudrasimha III. He took the title Sakari (शकारि - destroyer of Shakas). Ujjain (उज्जैन) became a second pole while Pataliputra stayed the old capital.
-- **Exam Anchor:** The strongest Shaka-victory proof for Chandragupta II is his silver coins (rupaka / रूपक) weighing about 33 grains. Gold dinaras (dinara (दीनार) / दीनार) are prestige types, not that proof.
-
-</details>
+- **Exam Anchor:** Fa-Hien (फाह्यान) visited India about 399–414 CE under Chandragupta II. Traveller order is Fa-Hien → Hiuen Tsang → I-Tsing → Al-Biruni.
+- **Exam Anchor:** Kumaragupta I (Mahendraditya) (महेन्द्रादित्य) is the traditional founder-patron of Nalanda (नालंदा). Chinese visitors later studied there; they did not found it.
+- **Exam Anchor:** Skandagupta is the last great imperial Gupta. The Bhitari pillar (Ghazipur, UP) records his Huna war, and he also repaired the Sudarsana lake at Girnar.
+- **Exam Anchor:** Nalanda is Gupta (Kumaragupta I). Takshashila is the older Gandhara town. Vikramashila (विक्रमशिला) is Pala Dharmapala (धर्मपाल). Vallabhi is Maitraka Gujarat.
+- **Exam Anchor:** Kalidasa (कालिदास) belongs to the Chandragupta II (चंद्रगुप्त द्वितीय) court tradition. Plays (नाटक): Abhijnanashakuntalam (अभिज्ञानशाकुन्तलम्), Malavikagnimitra (मालविकाग्निमित्रम्), Vikramorvashiyam (विक्रमोर्वशीयम्). Mahakavyas (महाकाव्य): Raghuvamsa (रघुवंश), Kumarasambhava (कुमारसंभव). Lyrics (गीतिकाव्य): Meghaduta (मेघदूत), Ritusamhara (ऋतुसंहार). Shringara Shataka (शृंगार शतक) is Bhartrihari (भर्तृहरि), not Kalidasa.
 
 ---
 

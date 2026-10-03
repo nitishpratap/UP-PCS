@@ -37,7 +37,8 @@
 
 ---
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Key |
 |------|-----|
@@ -45,7 +46,7 @@
 | Mobile court vs Lok Adalat only | Mobile e-court is a **van-based courtroom** project |
 | Only purpose true / only tech true | 2025 keys **both** |
 
----
+</details>
 
 ## 3.1 High Court sketch
 

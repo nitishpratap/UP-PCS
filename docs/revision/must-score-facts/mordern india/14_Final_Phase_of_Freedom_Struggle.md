@@ -11,66 +11,78 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 14 — Final Phase of Freedom Struggle</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Congress ministries were **formed in 1937** after provincial elections and **resigned in 1939** when war was declared without consultation.
-2. **CSP (सीएसपी) (1934)** worked inside Congress; **Nehru (नेहरू) never formally joined**. **Forward Bloc (1939)** is Bose’s separate left-nationalist body.
-3. Bose presided at **Haripura 1938** and **Tripuri 1939**, then resigned and founded the **Forward Bloc**.
-4. Bose escaped in **January 1941**. The **Azad Hind Government** was proclaimed on **21 October 1943** at **Singapore**.
-5. The **Rani of Jhansi (झांसी) Regiment** is keyed to **Lakshmi Sehgal**. INA slogans include **Give me blood (खून दो)…**, **Delhi Chalo** and **Jai Hind**.
-6. **INA Trials** at the **Red Fort** (लाल किला) tried **Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon**. Mass protest forced remission of sentences.
-7. Wartime bridge: ministries resign **1939** → **Ramgarh (Mar 1940)** → **August Offer (अगस्त प्रस्ताव) (Aug 1940)** → **Individual Satyagraha (सत्याग्रह) (Oct 1940**, Vinoba first).
-8. **Cripps Mission (March 1942) — Cause:** Japan’s advance and need for Indian war cooperation. **Course:** Stafford Cripps offers dominion after war, Constituent Assembly, and provincial opt-out. **Result:** Congress and League reject; Gandhi’s “post-dated cheque” line; path opens to Quit India.
-9. **Quit India — Cause:** Cripps failure plus wartime repression and “Quit India” demand. **Course:** **8 August 1942** Bombay launch (**Do or Die**); leaders jailed; underground and parallel governments. **Result:** suppressed by 1944 but mass legitimacy of British rule collapses; endgame pressure continues via INA/RIN.
-10. Quit India women facts: **Aruna Asaf Ali (अरुणा), Matangini Hazra, Kanaklata Barua, Usha Mehta** (radio). **Shanti Ghosh** (शांति घोष) is **not** a QI 1942 name.
-11. Parallel governments: **Ballia** (Chittu Pandey, UP), **Tamluk**, and **Satara (Prati Sarkar (सरकार))**.
-12. The **C.R. Formula (1944)** is **Rajagopalachari’s**, not C.R. Das (dead **1925**). **Desai–Liaquat** talks followed in **1945**.
-13. **Wavell Plan + Simla Conference** sit in **June–July 1945**. Mission order: **Cripps → Wavell Plan → Shimla → Cabinet Mission**.
-14. **1945–47 ladder:** UK Parliamentary Delegation (**Jan 1946**) → **RIN Revolt (Feb 1946)** → Cabinet Mission announced (**Feb 1946**) → Interim Government (**Sep 1946**).
-15. **Cabinet Mission Plan (16 May 1946)** proposed grouping and a union centre. League later withdrew support but still joined the Interim Government.
-16. Interim Government was **announced 24 August 1946** and **took office 2 September 1946**. League joined on **26 October**.
-17. **Direct Action Day (16 August 1946)** was the League’s call and triggered Calcutta–Noakhali–Bihar violence that hardened Partition politics.
-18. **Attlee’s statement (20 February 1947)** set transfer by **June 1948** and named Mountbatten. The **Mountbatten Plan (3 June 1947)** then advanced the date.
-19. Keep the three 1947 dates apart: **Plan 3 June**, **Independence Act 18 July**, **Independence/Partition 15 August**.
-20. **INA** was armed struggle abroad under Bose. **Quit India** was mass struggle inside India in **1942** — different methods and theatres.
-21. **Azad Hind Fauj** is the army (सेना). **Azad Hind Government** is the provisional government of **21 October 1943**.
-22. **August Offer 1940** (अगस्त प्रस्ताव) (Linlithgow (लिनलिथगो)) is not **Cripps 1942** (क्रिप्स). Dominion-after-war with minority veto is the August Offer shape.
-23. The **RIN Mutiny (February 1946)** was a ratings’ revolt over pay, race and demobilisation — not a Congress satyagraha and not Quit India.
-24. **Lahore / Pakistan resolution (March 1940)** of the League sits alongside Ramgarh Congress in the same season.
-25. UP Focus: **Ballia** parallel government under **Chittu Pandey**; **Ramgarh 1940** (Azad); **G.B. Pant** as UP Premier after 1937 elections.
-26. The Indian Independence Act received assent on **18 July 1947** and created two dominions from **15 August 1947**.
-27. Do not swap **Wavell Plan (1945 interim executive)** with **Mountbatten Plan (1947 partition + transfer)**.
-28. Do not swap **Simla 1945** (शिमला) (Wavell conference) with **Cabinet Mission 1946** (कैबिनेट मिशन) (three-minister grouping plan).
-29. Bose’s INA and the Red Fort trials turned military defeat into a political storm that pressed the endgame of **1945–47**.
-30. Endgame with dates: Cripps fail (**Mar 1942**) → Quit India (**8 Aug 1942**) → INA/RIN pressure (**1945–46**) → Cabinet Mission (**1946**) → Direct Action (**16 Aug 1946**) → Mountbatten Plan (**3 June 1947**) → Independence Act (**18 July**) → **15 August 1947**.
+1. **CSP (सीएसपी) (1934)** worked inside Congress; **Nehru (नेहरू) never formally joined**. **Forward Bloc (1939)** is Bose’s separate left-nationalist body.
+2. **INA Trials** at the **Red Fort** (लाल किला) tried **Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon**. Mass protest forced remission of sentences.
+3. **Cripps Mission (March 1942) — Cause:** Japan’s advance and need for Indian war cooperation. **Course:** Stafford Cripps offers dominion after war, Constituent Assembly, and provincial opt-out. **Result:** Congress and League reject; Gandhi’s “post-dated cheque” line; path opens to Quit India.
+4. **Quit India — Cause:** Cripps failure plus wartime repression and “Quit India” demand. **Course:** **8 August 1942** Bombay launch (**Do or Die**); leaders jailed; underground and parallel governments. **Result:** suppressed by 1944 but mass legitimacy of British rule collapses; endgame pressure continues via INA/RIN.
+5. **Wavell Plan + Simla Conference** sit in **June–July 1945**. Mission order: **Cripps → Wavell Plan → Shimla → Cabinet Mission**.
+6. **1945–47 ladder:** UK Parliamentary Delegation (**Jan 1946**) → **RIN Revolt (Feb 1946)** → Cabinet Mission announced (**Feb 1946**) → Interim Government (**Sep 1946**).
+7. **Cabinet Mission Plan (16 May 1946)** proposed grouping and a union centre. League later withdrew support but still joined the Interim Government.
+8. **Direct Action Day (16 August 1946)** was the League’s call and triggered Calcutta–Noakhali–Bihar violence that hardened Partition politics.
+9. **Attlee’s statement (20 February 1947)** set transfer by **June 1948** and named Mountbatten. The **Mountbatten Plan (3 June 1947)** then advanced the date.
+10. **INA** was armed struggle abroad under Bose. **Quit India** was mass struggle inside India in **1942** — different methods and theatres.
+11. **Azad Hind Fauj** is the army (सेना). **Azad Hind Government** is the provisional government of **21 October 1943**.
+12. **August Offer 1940** (अगस्त प्रस्ताव) (Linlithgow (लिनलिथगो)) is not **Cripps 1942** (क्रिप्स). Dominion-after-war with minority veto is the August Offer shape.
+13. **Lahore / Pakistan resolution (March 1940)** of the League sits alongside Ramgarh Congress in the same season.
+14. **Congress ministries were formed in eight provinces**: Madras, Bombay, UP, Bihar, Orissa, CP, Assam and NWFP, either alone or in coalition (गठबंधन), through **1937**.
+15. **Jawaharlal Nehru (जवाहरलाल नेहरू) sympathised** with many CSP ideas but **never formally joined** the party — a classic UPPCS trap.
+16. **Rabindranath Tagore** called him **Desh Nayak**; Gandhi called him the **Patriot of Patriots**.
+17. **Congress ministries resigned** in late 1939.
+18. **Iqbal** floated a consolidated north-west Muslim homeland at the League’s **Allahabad (इलाहाबाद) session (पंगु सत्र) (1930)**. Cambridge student **Chaudhary Rahmat Ali** coined **Pakstan/Pakistan** in the **1933** pamphlet ***Now or Never***.
+19. **Sarojini Naidu** had earlier called Jinnah **Ambassador of Hindu–Muslim Unity**. Iqbal’s line in Nehru’s telling: Nehru a patriot, Jinnah a politician.
+20. **Ramgarh Congress** met in **March 1940**. **Azad** was President.
+21. **Individual Satyagraha** began in **October 1940**.
+22. **Vinoba Bhave** was first. **Nehru** (नेहरू) was among those jailed.
+23. **Jawaharlal Nehru** (जवाहरलाल नेहरू) and **Maulana Azad** were Congress’s official negotiators with Cripps.
+24. **Congress rejected** it: there was no immediate national government, and the opt-out clause threatened Indian unity.
+25. **Yusuf Meher Ali** is keyed with coining the slogan **Quit India**. Nehru moved the Bombay AICC resolution; Patel supported; Azad was Congress President (Ramgarh 1940 continuity).
+26. **Aruna Asaf Ali** hoisted the flag at Gowalia Tank; **Usha Mehta** ran **Congress Radio** from Bombay; **Matangini Hazra**, 73, was shot at Tamluk while carrying the flag; **Kanaklata Barua** fell at Gohpur in Assam.
+27. **Shanti Ghosh** was **not** a Quit India woman — she belongs to the **1931** Bengal revolutionary (क्रांतिकारी) shooting with Suniti Chaudhuri, not 1942.
+28. **Rashid Ali** drew a **seven-year** sentence in related proceedings; the famous trio faced transportation for life before remission.
+29. **Azad Hind Fauj Week** **5–11 November 1945**; **Azad Hind Fauj Day** **12 November 1945**. Mass protest filled the streets.
+30. **Mohan Singh** is **not** among the Red Fort trio defendants. Do not place the trials at Gwalior, Amer or Agra.
+31. **Gandhi** (गांधी) called it the best document Britain could produce in the circumstances. Congress President during Mission talks = **Maulana Azad** (also the Cripps/Wavell negotiator tag).
+32. **Partition** emerged from this spiral as the price both the League and, eventually, Congress accepted to stop the killing and reach a fixed transfer date — it was not a British-imposed idea from the start, but a solution both major parties came to accept by 1947.
+33. **Direct Action Day (16 August 1946)** and the communal violence that followed (full card above) hardened the drive toward Partition.
+34. **Attlee's statement of 20 February 1947** promised transfer of power by **June 1948**.
+35. **Plan Balkan** is the discarded May draft; the **Mountbatten Plan** is the accepted **3 June** framework — do not swap them.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Cripps 1942 | Cabinet Mission 1946 | Wartime dominion offer vs transfer plan with grouping | क्रिप्स / कैबिनेट मिशन |
-| Wavell Plan | Mountbatten Plan | 1945 interim executive vs 1947 partition + transfer | वेवेल / माउंटबेटन |
-| Simla 1945 | Cabinet Mission 1946 | Wavell Plan conference vs three-minister plan | शिमला / कैबिनेट मिशन |
-| Forward Bloc | CSP | Bose 1939 left-nationalist vs socialists inside Congress 1934 | फॉरवर्ड ब्लॉक / सीएसपी |
-| INA | Quit India | Armed abroad under Bose vs mass struggle inside India 1942 | आजाद हिंद फौज / भारत छोड़ो |
-| Azad Hind Fauj | Azad Hind Government | Army vs provisional government 21 Oct 1943 | फौज / सरकार |
-| August Offer | Cripps | Aug 1940 Linlithgow vs Mar 1942 Cripps | अगस्त प्रस्ताव / क्रिप्स |
-| C.R. Formula | C.R. Das | Rajagopalachari 1944 vs Swaraj Party Das (dead 1925) | सी.आर. फॉर्मूला |
-| 3 June Plan | Independence Act | Mountbatten framework vs statute 18 July 1947 | 3 जून योजना / अधिनियम |
-| Interim announce | Interim form | **24 Aug 1946** vs **2 Sep 1946** | घोषणा / गठन |
-| Shanti Ghosh | Aruna Asaf Ali | 1931 Bengal revolutionary vs Quit India 1942 | शांति घोष / अरुणा |
-| Congress ministries 1937 | Congress ministries resign 1939 | Formed after provincial elections vs quit over WWII without consultation | कांग्रेस मंत्रिमंडल गठन / त्यागपत्र |
-| RIN Revolt Feb 1946 | Quit India Aug 1942 | Ratings' mutiny, Bombay/Karachi vs Congress mass movement | नौसेना विद्रोह / भारत छोड़ो |
-| Direct Action Day 1946 | Partition Aug 1947 | League's call for mass action vs the final territorial split | डायरेक्ट एक्शन / विभाजन |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Cripps = 1946 / Cabinet Mission = 1942** → Cripps **1942**; Cabinet **1946**.
+2. **Wavell/Simla = 1946** → **June–July 1945**.
+3. **C.R. Formula = C.R. Das** → **Rajagopalachari**. Das died 1925.
+4. **Shanti Ghosh = Quit India** → **1931** Bengal revolutionary.
+5. **Rani Jhansi Regiment = 1857** → **INA** women’s regiment.
+6. **INA trials at Agra/Gwalior** → **Red Fort, Delhi**.
+7. **Independence Act = 3 June / 15 August** → Act **18 July 1947**.
+8. **Forward Bloc = 1934 CSP** → Bloc **1939**; CSP **1934**.
+9. **League never joined Interim** → it **did** (Oct 1946) after withdrawing the Mission.
+10. **Cabinet Mission A/R trap** → both facts can be true, but joining the Interim Government does **not** explain the earlier withdrawal.
+11. **Do or Die = Bose** → **Gandhi, 8 Aug 1942**.
+12. **RIN = 1942** → **February 1946**.
+13. **August Offer = Cripps** → Offer **1940**; Cripps **1942**.
+14. **Mountbatten Plan = Independence Act** → Plan **3 June**; Act **18 July**.
+15. **Usha Mehta = Rani Jhansi** → Mehta = **Congress Radio**; Jhansi = **Lakshmi Sehgal / INA**.
+16. **Deliverance Day = Independence Day** → League’s **22 December 1939** after Congress resignations.
+17. **Pakistan coined by Jinnah in 1940** → word **Rahmat Ali, 1933**; League demand crystallised at **Lahore 1940**.
+18. **Cripps = 1946** → **March 1942**; 1946 = Cabinet Mission.
+19. **Quit India slogan coined by Gandhi** → often keyed to **Yusuf Meher Ali**; Gandhi’s mantra = **Do or Die**.
+20. **Gandhi jailed at Ahmednagar Fort in QI** → **Aga Khan Palace**; Ahmednagar held many CWC members.
+21. **Pirpur Report = Cabinet Mission** → League grievance dossier on Congress provinces (**1938**).
+22. **Desh Nayak = Gandhi’s title for Bose** → **Tagore**; Gandhi = **Patriot of Patriots**.
+23. **INA founded by Bose in 1943 only** → first INA **Mohan Singh, 1942**; Bose rebuilds from **July 1943**.
+24. **Wavell was a Cabinet Mission member** → Mission = **Pethick-Lawrence, Cripps, Alexander**.
+25. **Azad was in the Interim Cabinet** → he was **not**; Nehru headed the Interim team.
+26. **Patel led INA defence at Red Fort** → lead counsel **Bhulabhai Desai**.
+27. **Indian Independence Act = 3 June 1947** → Plan **3 June**; Act royal assent **18 July**; freedom **15 August**.
 
 
 ---

@@ -11,70 +11,68 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 2 — Ecology (पारिस्थितिकी) & Ecosystem (पारिस्थितिकी तंत्र)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Ecology** is the **study** of organism–environment (पर्यावरण) interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology. **Bionomics** (बायोनॉमिक्स) is synonymous with ecology; it does **not** mean “management of life.”
-2. An **ecosystem** (पारिस्थितिकी तंत्र) is a **functional unit** of biotic and abiotic interaction with energy flow and nutrient cycling. **Tansley (1935)** coined the word.
-3. Ecosystems are normally **open systems**. Calling an ecosystem a closed system is wrong.
-4. Four (चातुर्याम) basic components often listed together are **abiotic materials, producers, consumers, and decomposers**.
-5. The seven ecological levels run **organism → population (जनसंख्या) → community → ecosystem → landscape → biome (जीवोम) → biosphere**. A frequent shorter order asked is **Population → Community → Ecosystem → Landscape**.
-6. The **biosphere** is the largest ecosystem of Earth. Among ecosystem *types*, the **marine/ocean** ecosystem covers the largest area and is cited as the **most stable**.
-7. Ecosystems may be natural or anthropogenic, terrestrial or aquatic, and **lentic** (standing) or **lotic** (flowing).
-8. Artificial / anthropogenic examples include **farmland / rice field**, orchard, garden, aquarium, and human-made reservoir.
-9. A pond’s vertical/horizontal zones include **littoral → limnetic → profundal**. Marine zones include littoral, neritic, pelagic, benthic, and abyssal.
-10. Structure runs **producers → primary/secondary/tertiary consumers → decomposers and detritivores**. Producers generally outnumber primary consumers.
-11. Core ecosystem functions are **productivity, decomposition, nutrient cycling, and unidirectional energy flow**.
-12. A **niche** is a species’ **role**, not its place. A **habitat** (वास स्थान) is the place. **Joseph Grinnell (1917)** coined the ecological-niche concept.
-13. A **fundamental niche** (मूल (मौलिक) निकेत) is the full potential role without competitors. A **realized niche** (वास्तविक निकेत) is the narrower role after competition.
-14. **Gause’s competitive exclusion** says two species with identical niches cannot stably coexist when resources are limited.
-15. **Liebig** = limiting factor; **Shelford** = tolerance range; **Lindeman (1942)** ≈ **10%** energy transfer between trophic levels.
-16. **NPP = GPP − plant respiration**. Plants capture only about **1%** of incident sunlight on leaves.
-17. Decreasing productivity order often tested: **Mangroves > grasslands > lakes > oceans**.
-18. **Primary succession** (प्राथमिक अनुक्रमण) starts on a lifeless substrate. **Secondary succession** (द्वितीयक अनुक्रमण) starts where **soil already exists** after disturbance.
-19. Full succession phases: **Nudation → Migration → Ecesis → Reaction → Stabilisation**. The full community sequence is a **sere** (क्रमक). UPPCS 2024 often starts from Migration when Nudation is omitted.
-20. Pioneers such as lichen and moss lead through seral stages to a **climax community** (चरम समुदाय). **Monoclimax** theory is linked to **F.E. Clements**. **Hydrosere** is wet; **xerosere** is dry.
-21. In grasslands, trees often fail to replace grasses because of **water limits and fire**.
-22. An **r-strategist** produces many offspring with fast growth and short life. A **K-strategist** produces few offspring with slow growth and long life.
-23. Population growth models contrast the **J-curve** (exponential) with the **S-curve** (logistic) that levels near **carrying capacity**.
-24. MEA (**2005**) ecosystem services are usually **provisioning, regulating, supporting, and cultural**. Some WDR/UPSC (संघ लोक सेवा आयोग) framings add **preserving**. Supporting examples include nutrient cycling and (in that framing) crop pollination.
-25. Ecosystem balance is a **dynamic equilibrium**. **Resilience** is the capacity to recover after disturbance. **Deforestation** is a main cause of ecological imbalance in India.
-26. **Eutrophication** (सुपोषण) is nutrient overload that drives algal bloom and a dissolved-oxygen crash.
-27. Energy flow is **one-way**. Nutrients **cycle**. Saying energy cycles is a classic wrong option.
-28. A **community** is all populations of different species in an area. A **population** is one interbreeding species in one area.
-29. An **ecotone** (इकोटोन) is the transition zone between two communities or ecosystems.
-30. Aquatic clines: **pycnocline** = density gradient; **halocline** = salinity gradient; **thermocline** = temperature-with-depth gradient.
-31. In the **phosphorus cycle**, weathering of rocks is the main source releasing the nutrient into the cycle.
-32. **Upwelling** brings cold, nutrient-rich water to the surface and raises marine productivity.
-33. **Eucalyptus** is often treated as an environmental hazard because it draws heavy groundwater and can lower the water table.
-34. UP lotic examples include the **Ganga (गंगा), Yamuna (यमुना), and Gomti**. Terai (तराई) forest and Vindhyan scrub are terrestrial examples.
-35. UP wetland examples include **Sur Sarovar (Agra)** and **Nawabganj (Unnao)**. Western UP sugarcane belts are classic agro-ecosystems.
-36. Odum is linked to modern ecosystem ecology; keep him separate from Haeckel (term ecology) and Tansley (term ecosystem). **Deep ecology** was coined by **Arne Næss (1973)**. **Ecological Transition** was used by **John W. Bennett**.
-37. **Allen’s Rule:** colder climates → smaller appendages (less heat loss). **Bergmann’s Rule:** colder climates → larger body size (heat conservation). Do not swap the pair.
-38. **Gloger’s Rule:** darker pigmentation is more common in warm, humid regions.
-39. **Limiting similarity** means coexisting species differ enough in niche use that they do not compete for exactly the same resource at the same time.
-
-</details>
+2. **Gause’s competitive exclusion** says two species with identical niches cannot stably coexist when resources are limited.
+3. **Liebig** = limiting factor; **Shelford** = tolerance range; **Lindeman (1942)** ≈ **10%** energy transfer between trophic levels.
+4. **NPP = GPP − plant respiration**. Plants capture only about **1%** of incident sunlight on leaves.
+5. **Primary succession** (प्राथमिक अनुक्रमण) starts on a lifeless substrate. **Secondary succession** (द्वितीयक अनुक्रमण) starts where **soil already exists** after disturbance.
+6. **Eutrophication** (सुपोषण) is nutrient overload that drives algal bloom and a dissolved-oxygen crash.
+7. **Upwelling** brings cold, nutrient-rich water to the surface and raises marine productivity.
+8. **Eucalyptus** is often treated as an environmental hazard because it draws heavy groundwater and can lower the water table.
+9. **Allen’s Rule:** colder climates → smaller appendages (less heat loss). **Bergmann’s Rule:** colder climates → larger body size (heat conservation). Do not swap the pair.
+10. **Gloger’s Rule:** darker pigmentation is more common in warm, humid regions.
+11. **Limiting similarity** means coexisting species differ enough in niche use that they do not compete for exactly the same resource at the same time.
+12. **Ecology** (from Greek *Oikos* = house + *Logos* = study) is the study of relationships between living organisms and their environment.
+13. **Ernst Haeckel** coined the term **Ecology** in **1866**.
+14. **Bionomics** (Greek *bio* = life; *nomos* = law) is a comprehensive study of an organism in relation to its environment. It is **synonymous with ecology**.
+15. **Ramdeo Misra** is regarded as the father of **ecology in India** (ecology teaching at BHU).
+16. **Eugene P. Odum** is called the father of modern **ecosystem ecology** (*Fundamentals of Ecology*, 1953).
+17. **Arne Næss** coined **deep ecology** in **1973**.
+18. **John W. Bennett** used the concept of **Ecological Transition** in *The Ecological Transition: Cultural Anthropology and Human Adaptation*.
+19. **Organ** is anatomy, **not** an ecological organisation level.
+20. **Autoecology** studies one species in its environment.
+21. **Synecology** studies communities and ecosystems together.
+22. **A.G. Tansley** introduced the term **ecosystem** in **1935**.
+23. **Energy flow** is **unidirectional** (Sun → producers → consumers → heat loss).
+24. **Nutrient cycling** is **cyclic** — matter is reused through decomposers.
+25. **Natural ecosystems** self-regulate (forest, lake, ocean).
+26. **Anthropogenic / artificial ecosystems** depend on human inputs (cropland, rice field, orchard, garden, aquarium, sewage-treatment wetland, spaceship life-support systems).
+27. **Mountain ecosystems** show vegetation change with altitude along the Himalaya (हिमालय) belts.
+28. **Tundra** (टुंड्रा) and **taiga** are cold-climate terrestrial types. They are not typical of the Indian mainland in Prelims options.
+29. **Wetlands**, **estuaries**, and **mangroves** are **transitional**. They are neither purely terrestrial nor purely open aquatic.
+30. **Phytoplankton** grow abundantly in the limnetic zone because open water receives enough light for photosynthesis.
+31. **Producers (autotrophs)** convert solar energy into food through photosynthesis or chemosynthesis. Green plants, algae, and cyanobacteria are the main producers.
+32. **Consumers (heterotrophs)** feed on other organisms. They include herbivores, carnivores, and omnivores arranged in trophic levels.
+33. **Decomposers** break down dead organic matter and return minerals to the environment. Bacteria and fungi are the classic decomposers. Viruses are **not** treated as decomposer organisms in standard food-chain questions.
+34. **Producers and decomposers** act as intermediaries between biotic and abiotic components.
+35. **Detritivores** feed directly on detritus. Earthworms are a common example.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Ecology (Haeckel 1866)** | **Ecosystem (Tansley 1935)** | Scientific academic study of organism-environment interactions vs concrete structural-functional unit of nature combining biotic and abiotic components | पारिस्थितिकी / पारिस्थितिक तंत्र |
-| **Habitat** | **Ecological Niche** | Physical place or environmental zone where a species resides vs unique functional role, trophic position, and resource utilization pattern (Grinnell) | वास स्थान / पारिस्थितिक निकेत |
-| **Population** | **Ecological Community** | Group of interbreeding individuals of the *same* species in an area vs assemblage of populations of *different* interacting species in an area | जनसंख्या (समष्टि) / जैविक समुदाय |
-| **Gross Primary Productivity (GPP)** | **Net Primary Productivity (NPP)** | Total rate of organic matter synthesized by producers via photosynthesis vs actual biomass available to consumers after plant respiration losses (NPP = GPP - R) | सकल प्राथमिक उत्पादकता (GPP) / शुद्ध प्राथमिक उत्पादकता (NPP) |
-| **Fundamental Niche** | **Realized Niche** | Full theoretical potential range of environmental conditions and resources a species can use without competition vs actual restricted niche occupied due to biotic competition | मूल (मौलिक) निकेत / वास्तविक निकेत |
-| **Primary Succession** | **Secondary Succession** | Ecological succession beginning on barren, lifeless substrate with no pre-existing soil (cooled lava, bare rock) vs succession on disturbed areas where soil already exists (after forest fire, flood) | प्राथमिक अनुक्रमण / द्वितीयक अनुक्रमण |
-| **r-Selected Species** | **K-Selected Species** | High reproductive rate, small body, short lifespan, little parental care (insects, rodents, weeds) vs low reproductive rate, large body, long lifespan, high parental care (elephants, whales, humans) | r-रणनीतिकारी / K-रणनीतिकारी प्रजाति |
-| **Ecotone** | **Ecotype** | Sharp transition boundary zone between two distinct ecological communities (mangroves, forest-grassland edge) vs genetically distinct geographic variety or sub-population within a species | इकोटोन (संक्रमण क्षेत्र) / इकोटाइप |
-| **Sere** | **Climax Community** | Entire chronological transitional sequence of developmental communities during ecological succession vs final, stable, self-perpetuating terminal community in equilibrium with regional climate | क्रमक (Sere) / चरम समुदाय |
-| **Bionomics** | **Ecology** | Historical 19th-century synonym of ecology meaning "laws of life" (UPPCS trap: bionomics is NOT management of life) vs modern ecology | बायोनॉमिक्स / पारिस्थितिकी |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+| Trap | Correct fact |
+|------|----------------|
+| Odum coined "ecosystem" | **Tansley 1935** coined ecosystem |
+| Ecosystem is a closed system | Ecosystem is normally **open** |
+| Ecesis before Migration | Full: **Nudation → Migration → Ecesis → Reaction → Stabilisation** |
+| Sere = nutrient cycle | **Sere** = succession community **sequence** |
+| Lichens thrive in polluted air | Lichens are **sensitive** indicators |
+| 1% and 10% cannot both be true | **Both true** in different stages |
+| Energy increases up food chain | Energy **decreases** (~10% transfer) |
+| Coral reefs = most stable ecosystem | Coral reefs = high **diversity**; marine = high **stability** |
+| Primary succession has soil already | Primary = **no soil**; secondary = soil present |
+| Bionomics = management of life | Bionomics = **ecology** |
+| Niche coined by Odum | Niche concept linked to **Grinnell (1917)** |
+| Ecological Transition = Ratzel | **John W. Bennett** |
+| ESZ under WPA 1972 / total human ban | ESZ under **EPA 1986**; activities regulated, not all banned |
+| Eucalyptus is eco-friendly | Often treated as **groundwater hazard** |
+| Productivity: oceans first | Decreasing order **Mangroves > grasslands > lakes > oceans** |
 
 
 ---

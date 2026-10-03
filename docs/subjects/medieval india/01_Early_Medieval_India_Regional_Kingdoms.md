@@ -15,7 +15,8 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 
 ---
 
-## Consolidated — 55 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 55 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Early Medieval India runs roughly **750–1200 CE** after Harsha (हर्ष) as an age of regional kingdoms and hereditary **samantas** (सामंत), not the Delhi Sultanate (दिल्ली सल्तनत) that begins in **1206**.
 2. The **Tripartite Struggle** for **Kannauj** (कन्नौज) was fought by the **Pala**, **Gurjara-Pratihara**, and **Rashtrakuta** (राष्ट्रकूट) powers — not by the Cholas.
@@ -73,9 +74,10 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 54. *Hammira Mahakavya* (महाकाव्य) treats Chauhans as **Suryavanshi** / Agnikula. *Hammir Raso* (हम्मीर रासो) is by **Sharangadeva** (not Abdur Rehman). *Prithviraja Vijaya* (विजय) is by **Jayanaka**.
 55. **Pundravardhana bhukti (भुक्ति)** was in **north Bengal** (later into north Bihar under Pala–Chandra–Sena). **Araghatta** = Persian-wheel style water device for irrigation.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -111,6 +113,8 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 
 ---
 ![early_medieval.png](images/early_medieval.png)
+
+</details>
 
 ## Must-score facts — dynasty, capital, temple, UP tags
 

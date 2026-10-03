@@ -26,7 +26,8 @@ Fuel Taxonomy (Solid, Liquid, Gaseous) | Calorific Value Hierarchy (Hydrogen Hig
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A **Fuel** is any combustible substance containing chemical energy that undergoes controlled exothermal reaction with oxygen to generate useful thermal energy.
 2. An **Ideal Fuel** possesses: high calorific value, moderate ignition temperature (neither too low nor too high), low moisture content, burns without producing poisonous gases or ash, and is safe and economical to transport.
@@ -157,9 +158,10 @@ Fuel Taxonomy (Solid, Liquid, Gaseous) | Calorific Value Hierarchy (Hydrogen Hig
 49. **Mustard Gas (Dichlorodiethyl sulphide)**: Vesicant chemical warfare blister agent deployed in World War I, causing painful chemical burns on skin and lungs.
 50. **Bhopal Gas Tragedy (December 2–3, 1984)**: The world's worst industrial disaster, caused by the accidental release of over 40 tonnes of lethal **Methyl Isocyanate (MIC, $CH_3NCO$)** gas from the Union Carbide pesticide plant in Bhopal, Madhya Pradesh, reacting with water in a runaway exothermic reaction.
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -172,7 +174,7 @@ Fuel Taxonomy (Solid, Liquid, Gaseous) | Calorific Value Hierarchy (Hydrogen Hig
 | **Boyle's Law vs. Charles's Law** | **Boyle's Law**: Relates Pressure and Volume at **constant Temperature** ($P_1V_1 = P_2V_2$). | **Charles's Law**: Relates Volume and Temperature at **constant Pressure** ($V_1/T_1 = V_2/T_2$). | **Constant Variable**: Boyle's law holds $T$ constant; Charles's law holds $P$ constant. |
 | **Complete vs. Incomplete Combustion** | **Complete Combustion**: Excess oxygen; blue non-luminous flame; products strictly **$CO_2 + H_2O$**. | **Incomplete Combustion**: Deficient oxygen; yellow luminous flame; yields toxic **$CO$ and carbon soot**. | **Byproduct Toxicity**: Complete combustion yields non-toxic $CO_2$; incomplete combustion generates lethal, odorless $CO$. |
 
----
+</details>
 
 ## Master Reference Tables
 

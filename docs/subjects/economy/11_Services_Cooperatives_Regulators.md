@@ -30,7 +30,8 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **tertiary (services) sector** covers trade, hotels, transport, communication, banking/finance, insurance, real estate, public administration & defence, education, entertainment and tourism.
 2. **Primary** = agriculture, forestry, fishing, dairy, mining / quarrying; **Secondary** = manufacturing and related industrial processing; **Tertiary** = services.
@@ -83,8 +84,10 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 49. Regulators are mostly **statutory** bodies — distinct from constitutional bodies (Election Commission, UPSC, etc.).
 50. Sector overlap traps: SEBI vs IRDAI on some hybrid products; TRAI vs CCI on telecom competition — coordination, not identity.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -105,6 +108,8 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 | **FSSAI** | **BIS** | Food safety law vs general standards |
 | **Cooperative** | **Company** | Member mutuality vs share capital company form |
 | **Ministry of Cooperation** | **Ministry of Agriculture alone** | Dedicated 2021 desk vs older combined tags |
+
+</details>
 
 ## Must-score drill — tertiary map, CSR, MRP, regulators
 

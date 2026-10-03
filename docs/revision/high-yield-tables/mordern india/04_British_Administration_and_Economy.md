@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 4 — British Administration & Economy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -41,11 +39,7 @@ hide:
 | Herschell (1893) | Fowler (1898) | Closed free silver coinage vs gold-exchange standard at 1s 4d | हर्शेल / फाउलर |
 | Dual economy | Drain of Wealth | Split modern-export pocket vs mass distress vs unrequited transfer of surplus to Britain | द्वैत अर्थव्यवस्था / धन निष्कासन |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Land revenue ↔ architect ↔ year ↔ region
 
@@ -237,18 +231,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Colonial economic policy moved through three phases: mercantilism (Plassey (प्लासी)–1813), one-way free trade (1813–1858), and finance capital / Drain (1858 onward) [धन की निकासी / बहिर्गमन] with railway guarantees and Home Charges (गृह प्रभार).
-- **Exam Anchor:** The Permanent Settlement (1793) [स्थायी बंदोबस्त / ज़मींदारी प्रथा] under Cornwallis (planned with John Shore) made the zamindar (ज़मींदार) proprietor in Bengal, Bihar, Orissa and Varanasi (वाराणसी). Also called Istamrari / Jagirdari (इस्तमरारी / जागीरदारी). About 19% of British India. Share: 10/11 to Company (कंपनी), 1/11 to Zamindar.
 - **Exam Anchor:** Ryotwari (रैयतवाड़ी बंदोबस्त, ~51%) settled revenue with the ryot (रैयत / किसान) in Madras, Bombay, Assam & Coorg (Munro (मुनरो) and Read first tested in Baramahal).
 - **Exam Anchor:** Mahalwari (महालवाड़ी बंदोबस्त, ~30%, 1822) under Holt Mackenzie (मैकेंज़ी) settled with the village / mahal (महाल / ग्राम) in UP / NWP, Central Provinces and Punjab. William Bentinck (बेंटिंक) heavily expanded it.
-- **Exam Anchor:** Different land systems in different regions created different classes of Indian peasantry — a standard A/R fact.
-- **Exam Anchor:** The Cornwallis Code (1793) [कॉर्नवालिस कोड] built the civil ladder: Munsiff → Registrar → District (Diwani (दीवानी)) Judge (ज़िला न्यायाधीश) → Provincial Courts of Appeal → Sadar Diwani Adalat (सदर दीवानी अदालत). The same District Judge sat as Magistrate; criminal appeals rose to Sadar Nizamat (निज़ामत) Adalat (सदर निज़ामत अदालत).
-- **Exam Anchor:** In 1793, the zamindar’s police role was abolished. The thana–daroga (थाना - दरोगा प्रणाली) system was placed under the District Magistrate.
 - **Exam Anchor:** Haileybury College (हेलीबरी) (1806) trained Company nominees in England. The Charter Act, 1853 opened competition; the Macaulay Committee (1854) followed. First Indian ICS was Satyendranath Tagore (1863).
-
-</details>
+- **Exam Anchor:** Simultaneous ICS exams in India began in 1922 (Allahabad (इलाहाबाद)/London) under Montford reforms. The Lee Commission (1924) led to the Public Service Commission (1926).
+- **Exam Anchor:** Fort William College (फोर्ट विलियम) (1800) was Wellesley (वेलेज़ली)’s Calcutta language college for civil servants. Do not confuse it with Haileybury.
+- **Exam Anchor:** Dadabhai Naoroji (नौरोजी) published Poverty and Un-British Rule (अन-ब्रिटिश शासन) in India in 1901 (not 1900). He called Drain the “evil of all evils” [धन का बहिर्गमन सिद्धांत / Drain of Wealth]. First Indian in the British Commons (1892, Liberal).
+- **Exam Anchor:** Sir Syed Ahmad Khan (सर सैयद) explicitly rejected the Drain Theory (ड्रेन). INC accepted it at the Calcutta Session (पंगु सत्र) 1896. Drain ≠ deindustrialization (विऔद्योगीकरण).
+- **Exam Anchor:** R.C. Dutt wrote the Economic History (इतिहास) of India (often asked opposite Naoroji as the other classic Drain critic).
 
 ---
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 25 — UP Special</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Year | What happened | What you mark |
 |------|-----------------|---------------|
@@ -149,18 +147,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Uttar Pradesh’s capital is Lucknow (लखनऊ) (Raj Bhavan and Vidhan Bhavan). The High Court’s principal seat is Prayagraj (प्रयागराज). Lucknow hosts a Bench, not a second High Court.
-- **Exam Anchor:** The first Governor of the United Provinces / Uttar Pradesh was Sarojini Naidu (15 August 1947). She was the first woman Governor of an Indian State and died in office on 2 March 1949.
-- **Exam Anchor:** The first Chief Minister was Govind Ballabh Pant. The first woman Chief Minister was Sucheta Kripalani (1963). Do not swap Governor and CM firsts.
-- **Exam Anchor:** Under the 91st Amendment, the Council of Ministers (including the Chief Minister) cannot exceed 15% of the Assembly strength. For UP’s 403, that is about 60. The floor is 12.
-- **Exam Anchor:** Uttar Pradesh has no Article 371–371J special provision. The State Secretariat is at Lucknow.
-- **Exam Anchor:** The Legislative Assembly has 403 elected members — the largest in India. Before 9 November 2000 it was 425. Assembly membership age is 25; term is five years. Money Bills originate only here.
-- **Exam Anchor:** The Legislative Council has 100 members. It cannot be dissolved; one-third retire every two years; membership age is 30.
-- **Exam Anchor:** Council composition is 36 local bodies + 8 graduates + 8 teachers + 36 MLAs + 12 Governor nominees = 100. Article 171 caps a Council at one-third of the Assembly (134) and a minimum of 40; UP chose 100.
-
-</details>
+- **Exam Anchor:** UPPSC HQ is Prayagraj (from 1937). The Governor appoints; the President removes after a Supreme Court path on misbehaviour. Age limit is 62 / six years. Functions are extended by the UP Legislature under Article 321.
+- **Exam Anchor:** Oath (Art. 159): before the Chief Justice of the Allahabad High Court (or a person appointed by the President)
+- **Exam Anchor:** First woman Governor of an Indian State. Died in office, Lucknow, 2 Mar 1949
+- **Exam Anchor:** Not the first CM: first CM = Govind Ballabh Pant. First woman CM = Sucheta Kripalani (1963–67)
+- **Exam Anchor:** Appointment / term: President; 5 years; holds office during pleasure; can be transferred; one person may be Governor of more than one State (153)
+- **Exam Anchor:** Council of Ministers (91st): including the CM, not more than 15% of the LA. 15% of 403 ≈ 60. Floor in any State is 12. Collectively responsible to the LA
+- **Exam Anchor:** Secretariat:Lucknow (with Raj Bhavan and Vidhan Bhavan). Do not raata a 2026 occupant’s name as if it were in the Constitution
+- **Exam Anchor:** Before Uttarakhand:425. Seat freeze till the census after 2026 — so 403 is the number the paper uses
 
 ---
 

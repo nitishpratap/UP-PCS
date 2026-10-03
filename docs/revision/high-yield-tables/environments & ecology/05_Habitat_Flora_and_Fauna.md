@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 5 — Habitat (वास स्थान), Flora (वनस्पति) & Fauna (प्राणीजात)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Indicator Species** | **Invasive Species** | Species whose presence, absence, or abundance directly signals environmental stress or health (e.g. Lichens for SO₂ air pollution, Mayfly larvae for clean water) vs non-native species proliferating aggressively and threatening native ecology | जैव संकेतक प्रजाति / आक्रामक विदेशी प्रजाति |
 | **In-situ Conservation** | **Ex-situ Conservation** | On-site conservation in natural ecosystems (Sacred Groves, Wildlife Sanctuaries) vs off-site conservation under artificial human custody (Seed Banks, Tissue Culture Labs) | स्व-स्थाने संरक्षण / बाह्य-स्थाने संरक्षण |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Tags
 
@@ -141,18 +135,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A habitat (वास स्थान) is the physical place where an organism lives. A niche is the role. An ecosystem (पारिस्थितिकी तंत्र) is the functional unit. Environment (पर्यावरण) is the total surroundings.
-- **Exam Anchor:** Habitats are commonly classed as terrestrial, aquatic, or transitional (mangrove/wetland). Transitional habitats are not purely terrestrial.
-- **Exam Anchor:** Adaptation labels include arboreal (trees), fossorial (burrows), cursorial (open plains), and xericole (desert).
 - **Exam Anchor:** Habitat loss is the number-one biodiversity threat. Fragmentation splits patches; corridors reconnect them.
 - **Exam Anchor:** MISHTI is the Mangrove Initiative for Shoreline Habitats & Tangible Income from Budget 2023–24 under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय). It is not a 2019 scheme.
 - **Exam Anchor:** NUHHP is the National Urban (नगरीय) Housing and Habitat Policy of 2007 (MoHUA).
-- **Exam Anchor:** Habitat–scheme chronology: JNNURM 2005 → NUHHP 2007 → AMRUT 2015 → Jal Jeevan Mission 2019.
 - **Exam Anchor:** Flora means plant life of a region. Fauna means animal life. Do not swap the two.
-
-</details>
+- **Exam Anchor:** BSI (1890, Kolkata) surveys plants. ZSI (1916, Kolkata) surveys animals. Both sit in Kolkata; kingdoms differ.
+- **Exam Anchor:** Water hyacinth is a common invasive threat in UP village ponds.
+- **Exam Anchor:** Terrestrial habitats exist on land. Organisms that live on land are called terrestrial habitants.
+- **Exam Anchor:** Aquatic habitats exist in freshwater or marine water. Rivers are lotic and lakes are lentic aquatic habitats.
 
 ---
 

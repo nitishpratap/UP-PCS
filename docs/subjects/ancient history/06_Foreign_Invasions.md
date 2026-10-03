@@ -15,7 +15,8 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 ---
 
-## Consolidated — 42 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. North-west doors into India are the **Khyber** and **Bolan** routes. After Achaemenid Persians came Macedon, then **Indo-Greek → Shaka → Parthian → Kushan**.
 2. Correct invader order is **Greeks → Sakas → Kushans**. Kushans do **not** come before Sakas.
@@ -60,9 +61,10 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 41. Early anthropomorphic **Buddha** (बुद्ध) images grow under Indo-Greek to Kushan patronage at both schools. Kanishka’s coins and the Sarnath image of monk **Bala** (year 3) are dated Buddhist-icon pegs.
 42. Classic **Nataraja** (Chola lost-wax bronze, damaru–agni–Apasmara) is **not** a Kushan sculpture fact. Kushan Mathura shows early **Shiva** as linga / mukhalinga and as **Oesho** on coins — not the Chola Nataraja type.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -94,7 +96,7 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 | Early Mathura Shiva | Chola Nataraja | Linga / mukhalinga / Oesho under Kushan vs later Tamil **bronze dancer** | मथुरा शिव / चोल नटराज |
 | Booted Surya | Barefoot South Surya | North Indian **udichya-vesa** (Shaka–Kushan) vs southern bare legs | सूर्य जूते / दक्षिणी सूर्य |
 
----
+</details>
 
 ## Must-score facts — Alexander, order, kings
 

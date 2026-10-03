@@ -7,7 +7,8 @@
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. ***The Hills*** (Mussoorie (मसूरी), **1842**), published by **John Mckinnon**, is the first newspaper of Uttarakhand / the north Indian hill belt.
 2. ***Samay Vinod** (समय विनोद)* (Nainital (नैनीताल), **1868**), edited by **Jay Datt Joshi**, is the first Hindi/Urdu vernacular fortnightly of the region.
@@ -37,6 +38,8 @@
 26. Mukandi Lal appears in press (*Tarun Bharat*) and in Garhwal painting rediscovery (*Garhwal Painting*, **1969**).
 27. Sports–gallantry spine for UK: Somnath Sharma (first PVC) and Bachendri Pal (first Indian woman on Everest).
 28. These press, sobriquet, and personality facts are UKPCS Unit 1 / GK heads. They are not national akademi award lists.
+
+</details>
 
 ## 1. History of Press & Journalism in Uttarakhand
 
@@ -243,7 +246,8 @@ Uttarakhand has a glorious martial tradition with two dedicated army (सेन�
 
 ---
 
-## Confused Pairs & Exam Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Exam Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Critical Distinction (UKPCS Traps) |
 | :--- | :--- | :--- |
@@ -258,7 +262,7 @@ Uttarakhand has a glorious martial tradition with two dedicated army (सेन�
 | **Radha Bahin Bhatt (2025)** | **Madhuri Barthwal (2022)**| Radha Bahin Bhatt = **Social Work (Padma Shri 2025)**; Madhuri Barthwal = **Folk Music (Padma Shri 2022)**. |
 | **Chandi Prasad Bhatt** | **Deep Joshi** | Both Ramon Magsaysay awardees — Bhatt = **Chipko/DGSM (1982)**; Deep Joshi = **PRADAN/Rural (2009)**. |
 
----
+</details>
 
 ## UKPCS Practice Drill Questions
 

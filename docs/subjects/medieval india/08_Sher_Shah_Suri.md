@@ -15,7 +15,8 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 
 ---
 
-## Consolidated — 25 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 25 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Farid Khan** (फरीद खान) of **Sasaram** (सासाराम) became **Sher Khan** (शेर खान) after the tiger-kill tradition, then **Sher Shah Suri** as Padshah from **1540**.
 2. The Sur empire lasted only about **1540–1545**, yet its admin, roads, and revenue model shaped later Mughal (मुग़ल) practice.
@@ -43,9 +44,10 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 24. **Farid Khan** was educated at **Jaunpur** (जौनपुर) (**Siraj-i-Hind**). He took **Hazrat-e-Ala** (हज़रत-ए-आला) in Bengal service, then **Sher Shah** (शेरशाह) after **Chausa (1539)**.
 25. **Khayr-ul-Manazil** near Purana Qila was built by **Maham Anaga** in Akbar's era, not by Sher Shah. **Qila-i-Kuhna** mosque stands **inside** Purana Qila — Sher Shah's work.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -63,7 +65,8 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 | Hazrat-e-Ala | Sher Shah | Bengal-service title vs imperial **Sher Shah** after **Chausa 1539** | हज़रत-ए-आला / शेर शाह |
 | Jaunpur education | Sasaram birth | **Siraj-i-Hind** schooling vs birthplace/tomb | जौनपुर / सासाराम |
 | Marwar | Mewar (Jayata–Kumpa) | Rathore Maldeo vs Sisodia Pratap/Sanga | मारवाड़ / मेवाड़ |
----
+
+</details>
 
 ## Must-score facts — battles, revenue, roads
 

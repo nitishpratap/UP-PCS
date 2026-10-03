@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 32 — National Parks & Protected Areas (Advanced)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Hemis National Park** | **South Button Island NP** | India's largest National Park (Ladakh, snow leopard) vs India's smallest National Park (Andaman & Nicobar, 0.03 km²) | हेमिस (लद्दाख, सबसे बड़ा) / साउथ बटन (अंडमान, सबसे छोटा) |
 | **Biosphere Reserve Core** | **National Park** | Untouched strictly protected sanctuary within UNESCO MAB zoning vs statutory strictly protected area under Wildlife Protection Act, 1972 | बायोस्फीयर कोर क्षेत्र / राष्ट्रीय उद्यान |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### UP / India firsts
 
@@ -251,18 +245,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Uttar Pradesh has one National Park — Dudhwa (दुधवा) — in Lakhimpur Kheri on the Indo-Nepal Terai (तराई).
-- **Exam Anchor:** Dudhwa moved sanctuary (1958) → National Park (1977) → core of Dudhwa Tiger Reserve (1987) with Kishanpur and Katarniaghat. Rhino rehabilitation began 1984 (later phases including ~2018).
 - **Exam Anchor:** Valmiki (वाल्मीकि) National Park is in Bihar. Sultanpur National Park is in Haryana. Corbett is in Uttarakhand (उत्तराखंड). None is a UP national park.
-- **Exam Anchor:** Uttar Pradesh is landlocked, so it has zero marine or coastal national parks.
-- **Exam Anchor:** UP has 25 Wildlife Sanctuaries. Hastinapur (हस्तिनापुर) is the largest. Chandraprabha is in Chandauli. Katarniaghat was established in 1975.
 - **Exam Anchor:** Rudrasagar Lake is in Tripura. Sultanpur NP is in Haryana. Samaspur and Sarsai Nawar are in Uttar Pradesh.
-- **Exam Anchor:** India’s first National Park is Hailey / Jim Corbett (जिम कॉर्बेट) (1936) in Uttarakhand. The world’s first is Yellowstone (USA, 1872) — Old Faithful geyser; Wyoming–Montana–Idaho.
-- **Exam Anchor:** India’s largest National Park is Hemis in Ladakh (लद्दाख). Madhya Pradesh has the most national parks (~11). Andaman (अंडमान) & Nicobar (निकोबार) has the most wildlife sanctuaries.
-
-</details>
+- **Exam Anchor:** Gir (गीर) (Gujarat) holds the only wild Asiatic lions. Kaziranga (काजीरंगा) (Assam) is the classic one-horned rhino stronghold.
+- **Exam Anchor:** Pilibhit (2014) and Ranipur (2023) are tiger reserves. They are not additional full state national parks of UP.
+- **Exam Anchor:** Rajaji (राजाजी) NP (UK) = Dehradun (देहरादून)–Haridwar (हरिद्वार)–Pauri (पौड़ी) (Rajaji + Motichur + Chilla merged 1983); Tiger Reserve 2015. Named after C. Rajagopalachari.
+- **Exam Anchor:** Pin Valley = Himachal (हिमाचल) (Lahaul–Spiti), not J&K. Van Vihar = Bhopal. Salim Ali NP = Srinagar (ex–City Forest). Nagarhole = Rajiv Gandhi NP (Karnataka).
+- **Exam Anchor:** Indravati = Bastar (Chhattisgarh) NP 1981 / TR 1983. Bandhavgarh (Umaria, MP) famous for white tiger association. Betla/Palamu = Jharkhand.
+- **Exam Anchor:** Keibul Lamjao (Manipur) on Loktak is the only floating NP (phumdis; Sangai (सांगाइ) deer). Valley of Flowers (फूलों की घाटी) lies wholly in temperate alpine zone.
 
 ---
 

@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Census and Urbanisation Topic 7 — World Population and Demographic Miscellaneous</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -27,18 +33,6 @@ hide:
 | **Least Densely Populated Country**: **Mongolia (~2.1 / km²)** | **Least Densely Populated Island Territory**: **Greenland (0.03 / km²)** | **Trap**: Mongolia is the least dense sovereign country; Greenland is an autonomous territory. |
 | **IIPS (International Institute for Population Sciences)**: **Mumbai** | **NIMS (National Institute of Medical Statistics)**: **New Delhi** | **Trap**: IIPS is located in Deonar, Mumbai; NIMS (ICMR) is in New Delhi. |
 | **UN-Habitat Headquarters**: **Nairobi, Kenya** | **UNFPA Headquarters**: **New York, USA** | **Trap**: UN-Habitat is in Nairobi (along with UNEP); UNFPA and UNICEF are in New York. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -187,18 +181,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Global human population officially surpassed 8 Billion on 15 November 2022 (designated by the UN as the "Day of 8 Billion").
 - **Exam Anchor:** India officially surpassed China to become the most populous country in the world in April 2023 according to UN DESA estimates.
-- **Exam Anchor:** The top 5 most populous countries in the world are: (1) India, (2) China, (3) USA, (4) Indonesia, and (5) Pakistan.
 - **Exam Anchor:** Asia is the most populous continent, containing approximately 60% of the total world population.
 - **Exam Anchor:** Africa is the second most populous continent (~18%) and possesses the highest population growth rate and highest fertility rate (TFR ~4.2).
 - **Exam Anchor:** World Population Day is observed globally every year on 11 July.
-- **Exam Anchor:** World Population Day was instituted by the Governing Council of UNDP in 1989 to commemorate the "Day of Five Billion" (11 July 1987).
 - **Exam Anchor:** Monaco is the most densely populated sovereign nation in the world (approx. 26,000 persons / sq km).
-
-</details>
+- **Exam Anchor:** Bangladesh is the most densely populated major country (population $> 10	ext{ Million}$) in the world (approx. 1,160 persons / sq km).
+- **Exam Anchor:** Mongolia is the least densely populated sovereign country in the world (approx. 2.1 persons / sq km).
+- **Exam Anchor:** International Women's Day is celebrated annually on 8 March.
 
 ---
 

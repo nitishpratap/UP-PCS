@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Institutions Related to Indian Culture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -28,11 +26,7 @@ hide:
 | ICCR | Mo Culture bodies | **MEA** cultural diplomacy vs Culture ministry akademis | ICCR = विदेश मंत्रालय |
 | Protected monument | Site museum | AMASR-notified structure vs ASI museum at the excavation | संरक्षित स्मारक / स्थल संग्रहालय |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Institution ↔ year / founder
 
@@ -214,18 +208,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Asiatic Society of Bengal was founded in 1784 at Calcutta by Sir William Jones. Warren Hastings declined the Presidentship in Jones’s favour.
+- **Exam Anchor:** Sachin Chaturvedi assumed charge as Vice-Chancellor of Nalanda University in May 2025.
 - **Exam Anchor:** Fort William College was set up in 1800 by Lord Wellesley to train Company officers in Indian languages.
 - **Exam Anchor:** Sanskrit College, Calcutta opened in 1824. Benares Sanskrit College was founded by Jonathan Duncan in 1791 and must not be confused with the Asiatic Society.
-- **Exam Anchor:** The Bhandarkar Oriental Research Institute at Pune was founded in 1917 and is known for critical editions such as the Mahabharata.
-- **Exam Anchor:** A gurukul (गुरुकुल) is a residential guru–shishya school. Guru dakshina (गुरु दक्षिणा) is an end-of-study offering, not a monthly fee.
-- **Exam Anchor:** Classical learning counted 18 Vidyas and 64 Kalas. The ashrama order is Brahmacharya (ब्रह्मचर्य) → Grihastha (गृहस्थ) → Vanaprastha (वानप्रस्थ) → Sannyasa (संन्यास).
 - **Exam Anchor:** Kangri Gurukul at Haridwar was founded in 1902 by Swami Shraddhanand in the Dayananda / Arya Samaj line.
 - **Exam Anchor:** Nalanda (नालंदा) mahavihara in Bihar flourished under Pala patronage. Hiuen Tsang (ह्वेनसांग) studied there. It was destroyed around 1193 by Bakhtiyar Khilji. The ruins are UNESCO 2016 under the ASI.
-
-</details>
+- **Exam Anchor:** Taxila (Takshashila) lay in Gandhara, now in Pakistan. It was a multi-teacher city linked with Panini (पाणिनि) and Chanakya (चाणक्य), and is UNESCO 1980.
+- **Exam Anchor:** Vikramashila (विक्रमशिला) at Bhagalpur was founded by Pala Dharmapala. Atisha taught there. It fell around 1203 to Khilji and is not a separate World Heritage site.
+- **Exam Anchor:** Sangeet Natak Akademi (संगीत नाटक अकादेमी) (1952) covers performing arts. Sahitya Akademi and Lalit Kala Akademi (ललित कला अकादेमी) both date to 1954 for literature and visual arts.
 
 ---
 

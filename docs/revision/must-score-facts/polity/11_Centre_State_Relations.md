@@ -11,62 +11,92 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 11 — Centre–State Relations</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Centre–State rules sit mainly in **Part XI** (legislative and administrative, **245–263**), **Part XII** (finance, **264–293** slice), and **Part XIII** (trade, **301–307**). The **7th Schedule** carries the Union, State, and Concurrent Lists.
-2. Under **Article 246**, Union List prevails over Concurrent, and Concurrent prevails over State List. Residuary powers, including residuary taxation, belong to the **Union** under **Article 248** and Union List **Entry 97** — unlike the US model where residuary powers lie with the states.
-3. Parliament can legislate on a State List subject under **249** (Rajya Sabha (राज्यसभा) resolution for national interest, lasting **one year**), **250** (during a National Emergency (राष्ट्रीय आपात)), **252** (two or more States request), **253** (treaty or international obligation), and during **President’s Rule** under **356**.
-4. The Rajya Sabha special majority for **Articles 249 and 312** is **two-thirds (ते-भागा) of members present and voting**, **not** two-thirds of total membership (सदन की कुल सदस्य संख्या का).
-5. **Article 252** needs resolutions from **two or more States**; other States may adopt later; only **Parliament** can amend or repeal that law. **Article 253** needs **no** State request — treaties and international conferences are enough.
-6. On the Concurrent List (समवर्ती सूची), **Article 254(1)** makes the Union law prevail in a clash. Under **254(2)**, a State law reserved for the President and assented to can prevail in that State **until** Parliament legislates again on the same matter.
-7. Key doctrines are **pith and substance** (incidental encroachment can be valid), **colourable legislation** (you cannot do indirectly what you cannot do directly), **repugnancy**, **harmonious construction**, **territorial nexus**, and **occupied field**.
-8. **Articles 256 and 257** bind States to comply with Union laws and directions and not to impede Union railways and communications. Ignoring Union directions under **Article 365** is a gateway to **President’s Rule (356)**.
-9. **Article 258** lets the Union entrust functions to a State (usually with consent). **Article 258A** (7th Amendment) lets a State entrust functions to the Union. **Article 261** is full faith and credit for public acts, records, and judicial proceedings across India.
-10. All-India Services under **Article 312** need a Rajya Sabha resolution by **two-thirds present and voting**, then a Parliament law. The three AIS are **IAS, IPS, and IFoS** (IFoS from **1966**). **Article 312A** (28th Amendment) deals with ex-ICS officers.
-11. **Article 265** bars tax without authority of law. **Article 271** surcharge on certain Union taxes belongs to the **Union only** and is not shared. **Article 268** stamp duties are levied by the Union but collected by the States.
-12. The **Finance Commission (Article 280)** is appointed by the **President** every five years: a Chair and **four** (चातुर्याम) other members. It reports to the **President**, not to NITI Aayog (नीति आयोग). Qualifications are fixed by Parliament through the **1951 Act**.
-13. The first Finance Commission was chaired by **K.C. Neogy**. The **14th** Finance Commission set the States’ vertical share of the divisible pool at **42%**; the **15th** set it at **41%**. The **16th** is chaired by **Arvind Panagariya**.
-14. **Article 275** grants recommended by the Finance Commission are **charged** on the Consolidated Fund of India (भारत की संचित निधि) (with a tribal (आदिवासी) proviso). **Article 282** allows **discretionary** grants by the Union **or** a State for any public purpose — do not swap 275 and 282.
-15. A State cannot tax Union property (**285**). The Union cannot tax State property except as allowed (**289**). A State that is indebted to the Centre needs Union consent to borrow further (**293**).
-16. GST arrived through the **101st Amendment (2016)** and went live on **1 July 2017**. It is a dual tax (CGST + SGST / IGST) under **Article 246A**, **not** residuary Entry 97. **Liquor** stays out; **five petroleum** items stay out until the Council decides otherwise.
-17. The **GST Council (279A)** is chaired by the **Union Finance Minister**. Centre has **one-third** weight and States **two-thirds** (ते-भागा); decisions need **three-fourths** weighted majority; quorum (गणपूर्ति) is **half**. Recommendations are not strictly binding (*Mohit Minerals*, 2022).
-18. **Article 301** guarantees freedom of trade, commerce, and intercourse throughout India; it is **not** a Fundamental Right under Article 19. Parliament may restrict under **302**. A State restriction under **304(b)** needs **previous Presidential sanction**.
-19. Inter-State migration and inter-State quarantine sit in **Union List Entry 81**, not the State List.
-20. The **Inter-State Council (Article 263)** is constitutional: the President **may** establish it; the **1990** order did so on **Sarkaria** advice; the **Prime Minister** chairs; it is recommendatory. Do not credit Punchhi for creating it.
-21. **Zonal Councils** are statutory under the **States Reorganisation Act, 1956**. There are **five** zones. The **Union Home Minister** chairs them. Uttar Pradesh (उत्तर प्रदेश) sits in the **Central** Zonal Council (with Uttarakhand (उत्तराखंड), Madhya Pradesh, and Chhattisgarh), not the Northern zone.
-22. The **North Eastern Council** is under a **1971 Act**. It is **not** a sixth Zonal Council. The **Prime Minister** chairs it (from 2002).
-23. Water is **State List Entry 17**, subject to **Union List Entry 56** for inter-State rivers. **Article 262** lets Parliament bar courts; the **1956 Act** did bar **Article 131**. The 2019 tribunal Bill **lapsed** and is not in force.
-24. **Article 131** is the Supreme Court’s exclusive original jurisdiction for Union–State or inter-State disputes involving a **legal right**. Private parties are out. River water is out where barred. Faith-and-credit is **261**, not 131.
-25. **Rajamannar (1969, Tamil Nadu (नाडु))** wanted residuary powers with States, abolition of All-India Services, and repeal of **356**. **Sarkaria (1983–88)** backed a strong Centre, keeping AIS and 356, and creating the Inter-State Council.
-26. **Punchhi (2007–10)** came after Sarkaria. It favoured localising **356**, strengthening the Inter-State Council, and time-capping bills under **Article 201**.
-27. NITI Aayog (**2015**) replaced the **Planning Commission** (योजना आयोग). It did **not** replace the Finance Commission under **Article 280**. NITI is the SDG nodal body; it does not allocate the old Plan funds and does not report as if it were the FC.
-28. The **42nd (42वां) Amendment** moved **five** subjects from the State List to the Concurrent List.
-29. Profession tax under **Article 276** has a constitutional ceiling (figure **₹2,500** after the **60th Amendment**). Jute export-duty grants under **273** go to Assam, Bihar, Odisha, and West Bengal.
-30. Border and inter-State settlements are often political (Union Home Minister plus Chief Ministers), not automatic **Article 131** cases. Read whether a **legal right** is pleaded before jumping to the Supreme Court’s original jurisdiction.
+1. **Article 252** needs resolutions from **two or more States**; other States may adopt later; only **Parliament** can amend or repeal that law. **Article 253** needs **no** State request — treaties and international conferences are enough.
+2. **Articles 256 and 257** bind States to comply with Union laws and directions and not to impede Union railways and communications. Ignoring Union directions under **Article 365** is a gateway to **President’s Rule (356)**.
+3. **Article 258** lets the Union entrust functions to a State (usually with consent). **Article 258A** (7th Amendment) lets a State entrust functions to the Union. **Article 261** is full faith and credit for public acts, records, and judicial proceedings across India.
+4. **Article 265** bars tax without authority of law. **Article 271** surcharge on certain Union taxes belongs to the **Union only** and is not shared. **Article 268** stamp duties are levied by the Union but collected by the States.
+5. **Article 275** grants recommended by the Finance Commission are **charged** on the Consolidated Fund of India (भारत की संचित निधि) (with a tribal (आदिवासी) proviso). **Article 282** allows **discretionary** grants by the Union **or** a State for any public purpose — do not swap 275 and 282.
+6. **Article 301** guarantees freedom of trade, commerce, and intercourse throughout India; it is **not** a Fundamental Right under Article 19. Parliament may restrict under **302**. A State restriction under **304(b)** needs **previous Presidential sanction**.
+7. **Zonal Councils** are statutory under the **States Reorganisation Act, 1956**. There are **five** zones. The **Union Home Minister** chairs them. Uttar Pradesh (उत्तर प्रदेश) sits in the **Central** Zonal Council (with Uttarakhand (उत्तराखंड), Madhya Pradesh, and Chhattisgarh), not the Northern zone.
+8. **Article 131** is the Supreme Court’s exclusive original jurisdiction for Union–State or inter-State disputes involving a **legal right**. Private parties are out. River water is out where barred. Faith-and-credit is **261**, not 131.
+9. **Rajamannar (1969, Tamil Nadu (नाडु))** wanted residuary powers with States, abolition of All-India Services, and repeal of **356**. **Sarkaria (1983–88)** backed a strong Centre, keeping AIS and 356, and creating the Inter-State Council.
+10. **Punchhi (2007–10)** came after Sarkaria. It favoured localising **356**, strengthening the Inter-State Council, and time-capping bills under **Article 201**.
+11. **245:** Parliament may legislate for the **whole or any part of India**; **extra-territorial** laws are valid (245(2)). A State legislates for the **whole or any part of the State**; extra-territorial State law needs **territorial nexus** (*Tata (तत) Iron*).
+12. **246:(1)** Union List exclusive to Parliament · **(2)** Concurrent — both · **(3)** State List exclusive to the State, **subject to (1) and (2)**. Union List is **non-obstante** over the other two.
+13. **246A (101st Amendment, 2016):** Concurrent GST power for Parliament and State legislatures, **notwithstanding** Arts. **246** and **254**. Clause (2) keeps **exclusive** Union power for GST on **inter-State** supply (paired with **Art. 269A**).
+14. **247:** Parliament may create extra courts for better Union-law administration.
+15. **248:** Residuary (including residuary **taxation**) is **Parliament’s** — paired with Union List **Entry 97**. Cyber law, space research, and similar unforeseen heads sit here.
+16. **249:** RS resolution — **2/3 of members present and voting** that it is necessary in the **national interest** → Parliament may make law on a **State List** (राज्य सूची) item (and, after the 101st, also on GST under **246A** in that frame). Resolution lasts **1 year** (re-passable 1 year at a time). Law dies **6 months** after the resolution expires.
+17. **250:** While a Proclamation of Emergency is in force, Parliament may legislate on **any State List** item (and GST under **246A**). Law dies **6 months** after Emergency ends.
+18. **251:** If a 249/250 Union law clashes with a State law, **Union prevails**; the State law revives after the Union law ends, minus the inconsistency.
+19. **252:Two or more** State legislatures **pass resolutions** requesting Parliament. Law applies only to them; **other States may adopt** by resolution. **Amend / repeal = Parliament only**, not the State.
+20. **253:** Parliament may legislate for **whole or any part of India** to implement a **treaty / agreement / international conference** — even on a **State List** subject. **No** State consent.
+21. **254:** Repugnancy — own home below.
+22. **255:** Some Bills need prior recommendation / sanction of President or Governor; later assent can **cure** the defect.
+23. **Art. 200:** Governor may **reserve** a State Bill for the **President**.
+24. **Art. 201:** President may **assent / withhold / direct reconsideration**. If returned and passed again, the President **need not** assent (unlike the Governor after reconsideration).
+25. **Compulsory reservation** (practice + some Acts): Bills that **endanger HC powers**, certain **compulsory-acquisition** / 31A-class Bills, and Bills the Governor is **required** by the Constitution to reserve.
+26. **Previous sanction / recommendation:304(b)** trade restrictions; **274** Bills affecting taxation in which **States are interested**; State Money Bills need the **Governor’s** recommendation.
+27. **255:** Missing prior recommendation/sanction can be **cured by later assent**.
+28. **Protection of wild animals and birds**
+29. **Weights and measures** (except establishment of standards)
+30. **Administration of justice**; constitution of all courts **except** SC and HCs
+31. **Union List:** Defence · foreign · currency / **RBI** · atomic · **railways** · airways · ports · posts & telegraphs · **banking · insurance · stock exchanges** · **census (69)** · UPSC (संघ लोक सेवा आयोग) · inter-State trade **(42)** · foreign trade **(41)** · **inter-State migration & quarantine (81)** · **inter-State rivers (56)** · income-tax (except agri) · customs · corporation tax · **residuary (97)**.
+32. **State List:Public order** · **police** · **local government (5)** · **public health & sanitation (6)** · agriculture · land · **water (17)** subject to Union **56** · intra-State trade **(26)** · intoxicating **liquor** · **betting and gambling** · **profession tax subject (60)** · public order ≠ “security of India” (that is Union).
+33. **Concurrent List:** Criminal law / CrPC · marriage & **succession (उत्तराधिकार क्रम) (5)** · **adulteration of foodstuffs and other goods (18)** · labour / factories · **electricity** · economic & social **planning** · **newspapers** · population (जनसंख्या) control · **preventive detention** · (post-42nd) **education, forests, wildlife, weights & measures, subordinate courts**.
+34. **GST is not residuary.** Art. **246A** is a **special** power inserted by the **101st Amendment**.
+35. **256:** State executive **shall** comply with Parliament’s laws and existing Union laws. Union **may give directions** to that end.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| Art. **249** | Art. **250** | RS resolution, **1 year**, national interest | Emergency proclamation — Parliament on State List while Emergency is on |
-| Art. **252** | Art. **253** | **Two or more States** request; others may adopt | Treaties / international conferences — **no** State request needed |
-| Art. **254(1)** | Art. **254(2)** | Union law on Concurrent **prevails** | State Concurrent law **reserved + President assents** → State law prevails *until* Parliament legislates again |
-| Art. **275** | Art. **282** | FC-recommended, **charged** on CFI; tribal proviso | **Discretionary** grant for any public purpose (Union **and** States) |
-| Pith & substance | Colourable legislation | Incidental encroachment **OK** if true nature is in your list | Cannot do **indirectly** what you cannot do directly |
-| Entry **97** residuary | Art. **246A** GST | Leftover subjects → **Union** | GST is a **special** concurrent-style power, **not** residuary |
-| 2/3 **present and voting** (312 / 249) | 2/3 of **total membership** | AIS creation & 249 RS resolution | That formula is for **other** special majorities (e.g. 368 with majority of total) |
-| **ISC (263)** | **Zonal Council** | Constitutional, **PM**, 1990 | Statutory **SRA 1956**, **Union HM**, five zones |
-| **Art. 131** | **Art. 262** | SC original for Union/State **legal** disputes | Water: Parliament **may bar** courts — **1956 Act did** |
-| **Sarkaria** | **Rajamannar** | Strong Centre; keep AIS & 356; ISC **done** | Residuary to States; **abolish AIS**; **repeal 356** |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Residuary with States (US model) | **Union** — 248 / Entry **97** |
+| GST is residuary | **246A** special power; **101st** |
+| 249 / 312 = 2/3 of **total** RS | **2/3 present and voting** |
+| 253 needs State consent | **No** |
+| 252 law can be amended by the State | **Only Parliament** |
+| 254 applies to Union vs State List | **246** does that; **254 = Concurrent** |
+| Census = State List | **Union 69** |
+| Trade and commerce = Concurrent (bare) | Split **41 / 42 / 26 / 33** |
+| FC = Chair + six; report to NITI | **+ four**; report to **President** |
+| President fixes FC qualifications | **Parliament** (1951 Act) |
+| First FC = Rajamannar / Santhanam | **K.C. Neogy** |
+| FC = 263 | **280**. 263 = Inter-State Council |
+| 275 = discretionary | **282** is discretionary; **275** is FC / charged |
+| Surcharge shared with States | **271** Union **only** |
+| Mayor of GST Council = PM | **Union FM** |
+| GST Council vote = simple majority | **3/4 weighted**; Centre **1/3**, States **2/3** |
+| 301 is a Fundamental Right | It is **Part XIII**, not 19(1)(g) |
+| State 304(b) restriction without Centre | Needs **previous Presidential sanction** |
+| Inter-State migration = State List | **Union Entry 81** |
+| 257A still in the text | **Repealed, 44th** |
+| 258 and 258A both need the same consent rule | **258(1)** consent; **258(2)** Union law can impose **without** consent; **258A** is State→Union with consent |
+| All Union taxes are shared with States | **Customs, corporation tax, 271 surcharge** stay with Union |
+| 14th and 15th FC vertical share identical | **42%** then **41%** |
+| Concurrent List is full of tax heads | **No** (GST = **246A**) |
+| GST covers liquor and petrol already | **Liquor out**; **five petro** items out until Council says |
+| NITI Aayog replaced the Finance Commission | NITI replaced **Planning Commission**, **not** 280 |
+| Art. 261 = Art. 131 | Faith-and-credit vs **original SC** disputes |
+| ISC set up on Punchhi / Rajamannar | **Sarkaria**; constituted **1990** |
+| ISC chair = Union Home Minister | **PM**. HM chairs **Zonal** Councils **and** ISC **Standing Committee** |
+| UP is in the Northern Zonal Council | **Central** (with UK, MP, CG) |
+| NEC is the sixth Zonal Council | **Separate 1971 Act**; PM chairs NEC |
+| SC original jurisdiction over river water | **262 + 1956 Act bar 131** |
+| 2019 water Bill is in force | **Lapsed** |
+| Sarkaria wanted residuary with States | **Union**; that was **Rajamannar** |
+| Rajamannar wanted to keep AIS | Wanted them **abolished** |
+| Punchhi before Sarkaria | Sarkaria **1983–88**; Punchhi **2007–10** |
+| Water is only a Union subject | **State 17**, subject to **Union 56** |
+| Assam–Meghalaya 2022 = SC 131 | **Union HM + two CMs** |
+| NITI / FC implements SDGs | Nodal = **NITI** (2019), not FC |
+
+---
 
 
 ---

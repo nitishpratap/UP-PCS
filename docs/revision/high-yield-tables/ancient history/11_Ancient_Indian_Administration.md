@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 11 — Ancient Indian Administration</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -30,11 +28,7 @@ hide:
 | Ayodhya inscription | Besnagar | Pushyamitra ashwamedha vs **Heliodorus** | अयोध्या / बेसनगर |
 | Gaya copper plate | Asirgarh seal | **Samudragupta** plate vs Maukhari **Sarvavarman** | गया / असीरगढ़ |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Title ↔ ruler
 
@@ -196,9 +190,8 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Political time-order for titles and inscriptions runs Vedic rajan (राजन) → Magadha houses → Maurya → Shunga / Kharavela / Kushan / Satavahana → Gupta → Harsha.
 - **Exam Anchor:** Ashoka on edicts is Devanampiya Piyadassi (देवानांप्रिय प्रियदर्शी). His personal name appears at Maski (and Gujarra, Nittur, Udegolam). Bindusara is Amitraghata (अमित्रघात).
 - **Exam Anchor:** Chandragupta I is the first Gupta Maharajadhiraja (महाराजाधिराज). Chandragupta II is Vikramaditya (विक्रमादित्य). Harsha is Chinese Siladitya (शीलादित्य). Kanishka is Devaputra (देवपुत्र).
 - **Exam Anchor:** Gautamiputra Satakarni is Dakshinapathapati (दक्षिणापथपति). Kharavela is Mahameghavahana (महामेघवाहन). Rudradaman I is Mahakshatrapa (महाक्षत्रप). Mahapadma Nanda is Ekarat / Sarvakshatrantaka (एकराट् / सर्वक्षत्रान्तक).
@@ -206,8 +199,7 @@ hide:
 - **Exam Anchor:** Prayag Prashasti (प्रयाग प्रशस्ति) = Samudragupta (समुद्रगुप्त) by Harishena on the Allahabad Ashokan shaft. Aihole (ऐहोल) = Pulakeshin II stopping Harsha.
 - **Exam Anchor:** Girnar / Junagadh rock carries three ages: Ashoka, then Rudradaman (रुद्रदामन), then Skandagupta.
 - **Exam Anchor:** Sarvavarman–Gaya copper plate is NOT matched. The Gaya plate is Samudragupta. Sarvavarman’s fact is the Asirgarh seal.
-
-</details>
+- **Exam Anchor:** Nasik prasasti of Gautami Balashri records Gautamiputra against Nahapana. Naneghat records queen Naganika with Satakarni I.
 
 ---
 

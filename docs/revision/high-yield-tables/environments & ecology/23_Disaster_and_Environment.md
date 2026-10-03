@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 23 — Disaster & Environment (पर्यावरण)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **National Disaster Management Authority (NDMA)** | **National Institute of Disaster Management (NIDM)** | Apex statutory policy-making and executive body for disaster management established under DM Act 2005, chaired ex-officio by the Prime Minister vs premier national statutory institute responsible for capacity building, research, training, and documentation in disaster management | राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA, नीति पीठ) / राष्ट्रीय आपदा प्रबंधन संस्थान (NIDM, प्रशिक्षण) |
 | **Hazard** | **Vulnerability** | Dangerous physical event, phenomenon, or human activity that has the potential to cause loss of life, injury, or property damage (e.g. earthquake, cyclone) vs conditions determined by physical, social, economic, and environmental factors increasing susceptibility to hazards | आपदा जोखिम/खतरा (Hazard) / सुभेद्यता (Vulnerability) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Institutions / hazards
 
@@ -130,18 +124,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Environmental degradation (पर्यावरणीय क्षरण) raises disaster risk (deforestation worsens floods and landslides). Disasters also damage ecosystems through erosion, pollution, and forest loss.
-- **Exam Anchor:** Flood types include riverine floods on the Ganga (गंगा) plains, flash floods/cloudbursts in Himalaya–Terai (तराई), and urban (नगरीय) waterlogging. UP river facts include Ganga, Yamuna (यमुना), Ghaghara (घाघरा), Rapti (राप्ती), and Gandak (गंडक).
 - **Exam Anchor:** NDMA (आपदा प्राधिकरण) is under the Disaster Management Act 2005. The Prime Minister chairs NDMA. NDRF is the response force. Sendai Framework for disaster risk reduction is 2015.
-- **Exam Anchor:** Drought progresses from meteorological (low rain) to agricultural (soil moisture) to hydrological (rivers and wells). Bundelkhand’s seven UP districts are a chronic drought hotspot.
 - **Exam Anchor:** DPAP (Drought Prone Areas Programme) is 1973. Do not date DPAP as 1952. A rough programme spine is CDP (सीडीपी) 1952 (सामुदायिक विकास) → DPAP 1973 → FWP 1977 → TRYSEM 1979.
-- **Exam Anchor:** Landslides need gravity, water, weak slopes, and often vegetation loss. Himalaya and north-eastern hills are core belts. Kedarnath (केदारनाथ) 2013 is the cloudburst–landslide–flood chain fact. Roads, mining, and deforestation are human triggers.
-- **Exam Anchor:** Tropical cyclones need warm seas around 26–27°C. The Bay of Bengal produces more than the Arabian Sea. The eye is calm; the eyewall has the strongest winds; storm surge (तूफानी महोर्मि) is the coastal flood killer.
-- **Exam Anchor:** Mangroves reduce storm-surge damage. Named cyclone memory often uses Fani (2019) and Amphan (2020).
-
-</details>
+- **Exam Anchor:** Piral Lao–Paise Pao in Uttarakhand (उत्तराखंड) pays for pine-needle collection to cut fire risk and raise income. It is an Uttarakhand flagship, not a default UP scheme name.
+- **Exam Anchor:** Riverine floods swell slowly over days–weeks on plains. Flash floods follow cloudbursts in hills within hours. Urban flooding is waterlogging from impervious surfaces and clogged drains.
+- **Exam Anchor:** UP flood rivers: Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti — monsoon inundation of the Gangetic floodplain.
+- **Exam Anchor:** Human amplification: floodplain encroachment, embankments that raise silted beds, and deforestation in catchments that speeds runoff.
+- **Exam Anchor:** Terai flash risk: Himalayan/Nepal-side catchments can inundate Pilibhit, Lakhimpur Kheri, Bahraich rapidly after extreme rain.
+- **Exam Anchor:** Natural flood benefit: controlled flooding deposits alluvial (जलोढ़) silt that renews soil fertility — the problem is uncontrolled flooding of encroached zones.
 
 ---
 

@@ -28,7 +28,8 @@ Budget / tax / FC stay in Economy Topic 2. CPI / WPI inflation depth and capital
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Money** is anything generally accepted as a medium of exchange, a unit of account, a store of value and a standard of deferred payment.
 2. **Narrow money (M1)** in Indian teaching centres on currency with the public + demand deposits + other deposits with RBI (classic list).
@@ -81,8 +82,10 @@ Budget / tax / FC stay in Economy Topic 2. CPI / WPI inflation depth and capital
 49. **M0 (Reserve Money)** = currency in circulation + bankers’ deposits with RBI + other deposits with RBI (teaching identity).
 50. **Fiat money** has value by legal tender / trust, not by intrinsic metal content. **Commodity money** and **representative money** are older teaching types.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -104,6 +107,8 @@ Budget / tax / FC stay in Economy Topic 2. CPI / WPI inflation depth and capital
 | **SHG pioneer = NABARD** | **SHG pioneer = SBI alone** | NABARD designed SHG–BLP; banks finance |
 | **Plastic / smart money** | **Paper currency** | Credit/debit cards vs notes |
 | **KCC consumption + investment** | **Only investment credit** | Both farm household needs covered |
+
+</details>
 
 ## Must-score drill — RBI tools and rural credit
 

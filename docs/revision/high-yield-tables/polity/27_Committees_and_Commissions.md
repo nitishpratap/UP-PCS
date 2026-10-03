@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 27 – Important Committees and Commissions (Fact-Lock)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Committee A | Committee B | Critical Distinction (UPPCS / UKPCS Traps) |
 | :--- | :--- | :--- |
@@ -26,11 +24,7 @@ hide:
 | **L. M. Singhvi (1986)** | **G. V. K. Rao (1985)** | L. M. Singhvi = **Constitutional status for Panchayats**; G. V. K. Rao = **District level / "Grass without roots" warning**. |
 | **Tarkunde (1974)** | **Swaran Singh (1976)** | Tarkunde = **Voting age 18**; Swaran Singh = **Fundamental Duties**. |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ## 1. Centre-State Relations & Governance
 
@@ -82,7 +76,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Santhanam Committee (1962–64): Formed on Prevention of Corruption; recommended the establishment of the Central Vigilance Commission (CVC, 1964).
 - **Exam Anchor:** Swaran Singh Committee (1976): Recommended inclusion of Fundamental Duties (मौलिक कर्तव्य) (Part IVA, Art 51A) incorporated by the 42nd (42वां) Amendment Act 1976. (Note: Recommended 8 duties; 10 were added in 1976; 11th added in 2002 via 86th Amd).
@@ -92,8 +86,6 @@ hide:
 - **Exam Anchor:** L. M. Singhvi Committee (1986): First to recommend (सिफारिश) Constitutional Status for Panchayati Raj Institutions (later materialized via the 73rd Amendment 1992).
 - **Exam Anchor:** P. K. Thungon Committee (1988): Recommended constitutional recognition (मान्यता) for PRIs, 5-year fixed tenure, and State Finance Commissions.
 - **Exam Anchor:** G. V. K. Rao Committee (1985): Warned of bureaucratization of development (“grass without roots”) and pushed district-level planning / a District Development Commissioner model.
-
-</details>
 
 ---
 

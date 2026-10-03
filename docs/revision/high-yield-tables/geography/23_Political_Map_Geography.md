@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 23 — Political & Map-Based Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -68,11 +66,7 @@ hide:
 | Land of Promise | **Mindanao** | Java / Cuba | वादा द्वीप |
 | Ninety East Ridge | **Indian Ocean** | Pacific / Atlantic | नाइंटी ईस्ट रिज |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### UNCLOS distances
 
@@ -481,18 +475,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** UNCLOS: territorial sea 12 nm, contiguous zone 24 nm, EEZ 200 nm. The continental shelf may extend to 350 nm, but that does not push EEZ water beyond 200.
 - **Exam Anchor:** Innocent passage applies in the territorial sea. Transit passage applies in international straits.
 - **Exam Anchor:** McMahon Line = India–China (1914). Durand Line = Pakistan–Afghanistan (1893). Radcliffe Line = 1947 India–Pakistan/Bangladesh.
-- **Exam Anchor:** India has seven land neighbours (Pakistan, Afghanistan via Wakhan/PoK, China, Nepal, Bhutan, Myanmar, Bangladesh). Maritime neighbours are Sri Lanka and the Maldives.
-- **Exam Anchor:** Longest Indian state coastline = Gujarat. Longest land border = Bangladesh. Shortest land border = Afghanistan. Mainland plus islands coastline ≈ 7516 km.
-- **Exam Anchor:** The Suez Canal joins Med and Red Sea, shortens India–Europe by about 7000 km, and lakes run Manzala → Timsah → Great Bitter → Little Bitter.
 - **Exam Anchor:** Panama = Atlantic–Pacific canal. Kiel = North Sea–Baltic.
-- **Exam Anchor:** Straits: Hormuz = Gulf oil; Malacca = Indian Ocean–South China Sea; Gibraltar = Med–Atlantic; Bosporus = Black Sea–Marmara; Bering = Russia–USA.
-
-</details>
+- **Exam Anchor:** Bolivia is landlocked among common South America traps. Laos = only SE Asia landlocked. Nobi/Kanto = Japan. Igarka = Russia.
+- **Exam Anchor:** Thornthwaite (थॉर्नथ्वेट) is the true vegetation climate index. Köppen gives letter-code climate classes. Mediterranean = winter rain. Western Europe = rain all months plus westerlies (Cfb).
+- **Exam Anchor:** Cape Verde capital = Praia. Bamako = Mali. Only common double-landlocked states: Uzbekistan and Liechtenstein.
+- **Exam Anchor:** 49th Parallel ≈ USA–Canada. 38th Parallel ≈ Koreas. Maginot ≈ France–Germany; Rio Grande ≈ USA–Mexico.
+- **Exam Anchor:** Norway = Land of the Midnight Sun (Arctic Circle). Japan = Land of the Rising Sun. Finland = Thousand Lakes. (South) Korea = Morning Calm. Thailand = White Elephants.
 
 ---
 

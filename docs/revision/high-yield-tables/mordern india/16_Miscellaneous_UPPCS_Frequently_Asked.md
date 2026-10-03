@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 16 — Miscellaneous (Frequently Asked by UPPCS)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -30,11 +28,7 @@ hide:
 | Cripps Mission 1942 | Cabinet Mission 1946 | Solo envoy, failed vs three-member mission with a grouping plan | क्रिप्स / कैबिनेट मिशन |
 | Nehru Report 1928 | Simon Commission 1927 | Indian response vs all-white British body | नेहरू रिपोर्ट / साइमन |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Slogan ↔ person (top 6)
 
@@ -855,7 +849,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** “Swaraj (स्वराज) is my birthright and I shall have it” is Tilak (तिलक). “Do or Die (करो या मरो)” is Gandhi (गांधी) at Quit India (भारत छोड़ो) (8 August 1942).
 - **Exam Anchor:** “Inquilab (इंकलाब) Zindabad” was coined by Hasrat Mohani and popularised by Bhagat Singh (भगत सिंह). It is not Bose’s slogan.
@@ -864,9 +858,7 @@ hide:
 - **Exam Anchor:** “Back to the Vedas” is Dayanand Saraswati (सरस्वती). “One caste, one religion, one God” is Sri Narayana Guru (गुरु).
 - **Exam Anchor:** “Educate, Agitate, Organise” is Ambedkar (अम्बेडकर). “Sarfaroshi ki tamanna” sits with the Bismil / Kakori stream.
 - **Exam Anchor:** Tilak’s Kesari (Marathi) and Mahratta (English) are Pune (पुणे) papers — not Gorakhpur (गोरखपुर).
-- **Exam Anchor:** UP press match: Swadesh (स्वदेश)–Gorakhpur, Bharat Bandhu–Hathras (हाथरस), Satyawadi–Agra, Shakti (शक्ति)–Almora (अल्मोड़ा).
-
-</details>
+- **Exam Anchor:** Belgaum 1924 (बेलगाव) is Gandhi’s only presidentship. Lahore 1929 (लाहौर) is Purna Swaraj (पूर्ण स्वराज). Karachi 1931 (Patel) is Fundamental Rights (मौलिक अधिकार). Faizpur 1937 is the first village session.
 
 ---
 

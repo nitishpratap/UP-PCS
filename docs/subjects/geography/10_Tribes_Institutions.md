@@ -32,7 +32,8 @@ Masai habitat (वास स्थान) remains **East Africa**. Do not “upd
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Scheduled Tribe (अनुसूचित जनजाति) lists are **state-wise** under **Article 342**. Parliament can amend the lists by law. A community listed in one State need not be listed in another.
 2. STs are about **8.6%** of India’s population (जनसंख्या) (Census 2011). Among the largest groups are **Bhil, Gond (गोंड) and Santhal (संथाल)**. Madhya Pradesh often leads in absolute (निरपेक्ष) ST population.
@@ -65,9 +66,10 @@ Masai habitat (वास स्थान) remains **East Africa**. Do not “upd
 27. World habitat extras: **Masai** = East Africa (not West Africa); **Ainu** = Japan; **Punan** = Borneo; Lapps / Sami = Sweden–Finland; **Maori** = New Zealand; **Zulu** = South Africa.
 28. Gypsies’ original home in the usual teaching line = **India**. Transhumance = seasonal valley–mountain herding. Cro-Magnon is the most recent among classic fossil-human options.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -95,7 +97,7 @@ Masai habitat (वास स्थान) remains **East Africa**. Do not “upd
 | PVTG count | **75** groups | 95 | 75 पीवीटीजी |
 | Fifth vs Sixth Schedule | Fifth = many Scheduled Areas; Sixth = **four** NE states’ councils | Swap | पाँचवीं ≠ छठी |
 
----
+</details>
 
 ## Must-score facts — tribe↔state, PVTG, institutes
 

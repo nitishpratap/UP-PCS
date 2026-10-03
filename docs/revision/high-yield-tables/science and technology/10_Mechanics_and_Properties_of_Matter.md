@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 2 — Mechanics, Gravitation and Physical Properties of Matter</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Pairs / Concepts | Critical Distinction & Trap Alert |
 |---|---|
@@ -26,11 +24,7 @@ hide:
 | **Iceberg in Freshwater vs Seawater** | In freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface. |
 | **Straw vs Blotting Paper** | Blotting paper absorbs ink by **capillarity**. Drinking through a straw operates by **atmospheric pressure difference** created by mouth suction, NOT capillarity. |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Table 1: Master Formula Matrix for Kinematics & Mechanics
 
@@ -185,18 +179,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Brahmagupta's Precedence: 7th-century astronomer Brahmagupta (Brahmasphuta Siddhanta) stated that all bodies gravitate toward Earth long before Newton.
-- **Exam Anchor:** Definition of Speed: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
-- **Exam Anchor:** Mass vs Weight: Mass ($kg$, scalar, constant everywhere) measures inertia. Weight ($N$, vector, $W = mg$) depends on local gravitational acceleration.
-- **Exam Anchor:** Deep Breath on Sensitive Scale: Inhaling deeply increases scale reading because $4.8\text{ L}$ of inhaled air adds $\approx 5.88\text{ g}$ mass.
-- **Exam Anchor:** Distance vs Displacement: Distance is actual path length (scalar, $\ge 0$). Displacement is shortest straight line (vector, can be zero).
-- **Exam Anchor:** Average Speed for Equal Distance Halves: Harmonic mean $v{\text{avg}} = \frac{2 v1 v2}{v1 + v2}$.
-- **Exam Anchor:** Newton's First Law (Inertia): Passenger leans backwards when vehicle starts (inertia of rest); leans forwards on sudden braking (inertia of motion); leans left when bus turns sharp right (inertia of direction).
-- **Exam Anchor:** Newton's Second Law: $F = \frac{dp}{dt} = ma$. Goalkeeper pulls hands backwards to prolong contact time ($t$), lowering rate of change of momentum and impact force.
-
-</details>
+- **Exam Anchor:** Confirmed Moons Count in Solar System (2026 IAU Data):
+- **Exam Anchor:** Saturn: Maximum number of confirmed satellites in the solar system = 285 moons (leading the solar system).
+- **Exam Anchor:** Jupiter: 101 confirmed moons (Ganymede, Callisto, Io, Europa).
+- **Exam Anchor:** Uranus: 29 moons; Neptune: 16 moons; Mars: 2 moons (Phobos & Deimos); Earth: 1 moon; Mercury & Venus: 0 moons; Dwarf planet Pluto: 5 moons.
+- **Exam Anchor:** 71st BPSC (Pre 2025) Mechanics & Fluid Facts:
+- **Exam Anchor:** UKPCS (Pre 2025) Elasticity & Thermal Facts:
+- **Exam Anchor:** UP RO/ARO (Pre 2023) Moduli of Elasticity Facts:
+- **Exam Anchor:** 70th BPSC (Pre 2024) Gas Liquefaction Condition:
 
 ---
 
@@ -208,10 +200,162 @@ hide:
 
 Which of the following is correct regarding this topic?
 
-A. Brahmagupta's Precedence: 7th-century astronomer Brahmagupta (Brahmasphuta Siddhanta) stated that all bodies gravitate toward Earth long before Newton.
+A. Confirmed Moons Count in Solar System (2026 IAU Data):
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Confirmed Moons Count in Solar System (2026 IAU Data)**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q2.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Saturn: applies only to union territories and not state jurisdictions.
+B. Saturn: Maximum number of confirmed satellites in the solar system = 285 moons (leading the solar system).
+C. None of the above statements are correct according to official Commission keys.
+D. Recognized by UNESCO under World Heritage natural criteria
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Saturn**: Maximum number of confirmed satellites in the solar system = **285 moons** (leading the solar system).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q3.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Jupiter: applies only to union territories and not state jurisdictions.
+B. Recognized by UNESCO under World Heritage natural criteria
+C. Jupiter: 101 confirmed moons (Ganymede, Callisto, Io, Europa).
+D. Enacted under Article 356 of the Constitution of India
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Jupiter**: **101 confirmed moons** (Ganymede, Callisto, Io, Europa).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q4.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Uranus: applies only to union territories and not state jurisdictions.
+B. Enacted under Article 356 of the Constitution of India
+C. None of the above statements are correct according to official Commission keys.
+D. Uranus: 29 moons; Neptune: 16 moons; Mars: 2 moons (Phobos & Deimos); Earth: 1 moon; Mercury & Venus: 0 moons; Dwarf planet Pluto: 5 moons.
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Uranus**: 29 moons; **Neptune**: 16 moons; **Mars**: 2 moons (Phobos & Deimos); **Earth**: 1 moon; **Mercury & Venus**: 0 moons; Dwarf planet **Pluto**: 5 moons.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q5.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. 71st BPSC (Pre 2025) Mechanics & Fluid Facts:
+B. Reported by the Law Commission in its 214th consultation paper
+C. None of the above statements are correct according to official Commission keys.
+D. Amended by the 44th Constitutional Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **71st BPSC (Pre 2025) Mechanics & Fluid Facts**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q6.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, UKPCS applies only to union territories and not state jurisdictions.
+B. UKPCS (Pre 2025) Elasticity & Thermal Facts:
+C. None of the above statements are correct according to official Commission keys.
+D. Excavated primarily in the Belan and Son River valleys
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **UKPCS (Pre 2025) Elasticity & Thermal Facts**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q7.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, UP applies only to union territories and not state jurisdictions.
+B. Excavated primarily in the Belan and Son River valleys
+C. UP RO/ARO (Pre 2023) Moduli of Elasticity Facts:
+D. Classified under Schedule VII List II (State List)
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **UP RO/ARO (Pre 2023) Moduli of Elasticity Facts**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q8.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, 70th applies only to union territories and not state jurisdictions.
+B. Classified under Schedule VII List II (State List)
+C. None of the above statements are correct according to official Commission keys.
+D. 70th BPSC (Pre 2024) Gas Liquefaction Condition:
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **70th BPSC (Pre 2024) Gas Liquefaction Condition**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q9.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Brahmagupta's Precedence: 7th-century astronomer Brahmagupta (Brahmasphuta Siddhanta) stated that all bodies gravitate toward Earth long before Newton.
+B. Originated during the Later Vedic transitional period
+C. None of the above statements are correct according to official Commission keys.
+D. Statement I is correct but Statement II is incorrect
 
 <details>
 <summary>Show answer</summary>
@@ -223,14 +367,14 @@ D. It was established during the First Five-Year Plan period
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q2.** in Science & Technology, consider the following statement:
+**Q10.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Definition applies only to union territories and not state jurisdictions.
 B. Definition of Speed: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
 C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+D. Both statements are true and explain the phenomenon
 
 <details>
 <summary>Show answer</summary>
@@ -242,14 +386,14 @@ D. Recognized by UNESCO under World Heritage natural criteria
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q3.** in Science & Technology, consider the following statement:
+**Q11.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Mass applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
+B. Both statements are true and explain the phenomenon
 C. Mass vs Weight: Mass ($kg$, scalar, constant everywhere) measures inertia. Weight ($N$, vector, $W = mg$) depends on local gravitational acceleration.
-D. Enacted under Article 356 of the Constitution of India
+D. It was established during the First Five-Year Plan period
 
 <details>
 <summary>Show answer</summary>
@@ -261,12 +405,12 @@ D. Enacted under Article 356 of the Constitution of India
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q4.** in Science & Technology, consider the following statement:
+**Q12.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Deep applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
+B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
 D. Deep Breath on Sensitive Scale: Inhaling deeply increases scale reading because $4.8\text{ L}$ of inhaled air adds $\approx 5.88\text{ g}$ mass.
 
@@ -280,14 +424,14 @@ D. Deep Breath on Sensitive Scale: Inhaling deeply increases scale reading becau
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q5.** in Science & Technology, consider the following statement:
+**Q13.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Distance vs Displacement: Distance is actual path length (scalar, $\ge 0$). Displacement is shortest straight line (vector, can be zero).
-B. Reported by the Law Commission in its 214th consultation paper
+B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
+D. Enacted under Article 356 of the Constitution of India
 
 <details>
 <summary>Show answer</summary>
@@ -299,14 +443,14 @@ D. Amended by the 44th Constitutional Amendment Act
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q6.** in Science & Technology, consider the following statement:
+**Q14.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Average applies only to union territories and not state jurisdictions.
 B. Average Speed for Equal Distance Halves: Harmonic mean $v{\text{avg}} = \frac{2 v1 v2}{v1 + v2}$.
 C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
+D. Reported by the Law Commission in its 214th consultation paper
 
 <details>
 <summary>Show answer</summary>
@@ -318,165 +462,13 @@ D. Excavated primarily in the Belan and Son River valleys
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Newton's applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Newton's First Law (Inertia): Passenger leans backwards when vehicle starts (inertia of rest); leans forwards on sudden braking (inertia of motion); leans left when bus turns sharp right (inertia of direction).
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Newton's First Law (Inertia)**: Passenger leans backwards when vehicle starts (inertia of rest); leans forwards on sudden braking (inertia of motion); leans left when bus turns sharp right (inertia of direction).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q8.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Newton's applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Newton's Second Law: $F = \frac{dp}{dt} = ma$. Goalkeeper pulls hands backwards to prolong contact time ($t$), lowering rate of change of momentum and impact force.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Newton's Second Law**: $F = \frac{dp}{dt} = ma$. Goalkeeper pulls hands backwards to prolong contact time ($t$), lowering rate of change of momentum and impact force.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q9.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Newton's Third Law: Action and reaction forces are equal, opposite, and act simultaneously on two different bodies.
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Newton's Third Law**: Action and reaction forces are equal, opposite, and act simultaneously on **two different bodies**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q10.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Propulsion applies only to union territories and not state jurisdictions.
-B. Propulsion by Whistling: On frictionless ice, whistling/blowing air forward expels momentum, generating an equal backward reaction that propels the body (conservation of momentum).
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Propulsion by Whistling**: On frictionless ice, whistling/blowing air forward expels momentum, generating an equal backward reaction that propels the body (conservation of momentum).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q11.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Boat applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Boat Jump: Jumping at $5\text{ m/s}$ from a boat that recoils at $0.5\text{ m/s}$ implies the boat is 10 times heavier than the person ($M{\text{boat}} = 10 M{\text{man}}$).
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Boat Jump**: Jumping at $5\text{ m/s}$ from a boat that recoils at $0.5\text{ m/s}$ implies the boat is **10 times heavier** than the person ($M_{\text{boat}} = 10 M_{\text{man}}$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q12.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Friction applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Friction Hierarchy: Static Friction $>$ Kinetic (Sliding) Friction $>$ Rolling Friction.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Friction Hierarchy**: **Static Friction $>$ Kinetic (Sliding) Friction $>$ Rolling Friction**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q13.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Loaded Cart Principle: Harder to start moving than to keep rolling because limiting static friction exceeds dynamic kinetic friction.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. None of the above statements are correct according to official Commission keys.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Loaded Cart Principle**: Harder to start moving than to keep rolling because limiting static friction exceeds dynamic kinetic friction.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q14.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Ball applies only to union territories and not state jurisdictions.
-B. Ball Bearings: Convert sliding/static friction into rolling friction by drastically minimizing contact surface area.
-C. None of the above statements are correct according to official Commission keys.
-D. Reported by the Law Commission in its 214th consultation paper
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Ball Bearings**: Convert sliding/static friction into **rolling friction** by drastically minimizing contact surface area.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
 **Q15.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Marginal applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Newton's applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Marginal Friction at Constant Speed: $a = 0 \implies F{\text{applied}} = f{\text{friction}}$ ($200\text{ N} \implies 200\text{ N}$).
+C. Newton's First Law (Inertia): Passenger leans backwards when vehicle starts (inertia of rest); leans forwards on sudden braking (inertia of motion); leans left when bus turns sharp right (inertia of direction).
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -485,6 +477,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Marginal Friction at Constant Speed**: $a = 0 \implies F_{\text{applied}} = f_{\text{friction}}$ ($200\text{ N} \implies 200\text{ N}$).
+- **Key Exam Association:** **Newton's First Law (Inertia)**: Passenger leans backwards when vehicle starts (inertia of rest); leans forwards on sudden braking (inertia of motion); leans left when bus turns sharp right (inertia of direction).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

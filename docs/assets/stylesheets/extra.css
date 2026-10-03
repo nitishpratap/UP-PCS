@@ -10649,8 +10649,10 @@ body.st-is-admin .md-tabs__item.st-admin-tab-item {
 }
 
 /* ======================================================================
-   REVISION CHAPTER COLLAPSIBLE TOGGLES (<details class="rev-toggle">)
+   SUBJECT CHAPTER COLLAPSIBLE DETAILS (<details class="st-chapter-toggle">)
+   For Consolidated Must-Score Facts & Confused Pairs inside Subject Notes
    ====================================================================== */
+details.st-chapter-toggle,
 details.rev-toggle {
   margin: 1.25rem 0;
   border-radius: 0.75rem;
@@ -10661,10 +10663,12 @@ details.rev-toggle {
   overflow: hidden;
 }
 
+details.st-chapter-toggle[open],
 details.rev-toggle[open] {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
 }
 
+details.st-chapter-toggle summary,
 details.rev-toggle summary {
   padding: 0.85rem 1.25rem;
   font-family: var(--study-ui);
@@ -10680,15 +10684,18 @@ details.rev-toggle summary {
   border-bottom: 1px solid transparent;
 }
 
+details.st-chapter-toggle[open] summary,
 details.rev-toggle[open] summary {
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
   background: rgba(99, 102, 241, 0.09);
 }
 
+details.st-chapter-toggle summary:hover,
 details.rev-toggle summary:hover {
   background: rgba(99, 102, 241, 0.12);
 }
 
+.st-toggle-hint,
 .rev-toggle-hint {
   margin-left: auto;
   font-size: 0.75rem;
@@ -10699,10 +10706,12 @@ details.rev-toggle summary:hover {
 }
 
 /* Color-coded accent borders */
+details.st-toggle-facts,
 details.rev-toggle-facts {
   border-left: 4px solid #3b82f6;
 }
 
+details.st-toggle-confused,
 details.rev-toggle-confused {
   border-left: 4px solid #f59e0b;
 }
@@ -10712,11 +10721,14 @@ details.rev-toggle-tables {
 }
 
 /* Interior padding */
+details.st-chapter-toggle > *:not(summary),
 details.rev-toggle > *:not(summary) {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
 
+details.st-chapter-toggle > ol,
+details.st-chapter-toggle > ul,
 details.rev-toggle > ol,
 details.rev-toggle > ul {
   padding-left: 2.75rem;
@@ -10725,25 +10737,30 @@ details.rev-toggle > ul {
   margin-bottom: 1rem;
 }
 
+details.st-chapter-toggle table,
 details.rev-toggle table {
   margin: 1rem 0;
 }
 
 /* Dark mode adjustments */
+[data-md-color-scheme="slate"] details.st-chapter-toggle,
 [data-md-color-scheme="slate"] details.rev-toggle {
   background: #1e2330;
   border-color: rgba(255, 255, 255, 0.08);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
 }
 
+[data-md-color-scheme="slate"] details.st-chapter-toggle summary,
 [data-md-color-scheme="slate"] details.rev-toggle summary {
   background: rgba(255, 255, 255, 0.03);
 }
 
+[data-md-color-scheme="slate"] details.st-chapter-toggle[open] summary,
 [data-md-color-scheme="slate"] details.rev-toggle[open] summary {
   background: rgba(255, 255, 255, 0.07);
   border-bottom-color: rgba(255, 255, 255, 0.08);
 }
+
 
 
 

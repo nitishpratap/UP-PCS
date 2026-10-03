@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 16 — Constitutional Amendments</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
@@ -29,11 +27,7 @@ hide:
 | **52nd** | **91st** | 10th Schedule inserted | 1/3 split killed; CoM 15% |
 | **104th** | **106th** | Anglo-Indian nomination **ends** | Women 33% — **not yet** in force |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Amendment lanes (Art. 368 / outside)
 
@@ -156,18 +150,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Amendment power sits in Part XX, Article 368 (अनुच्छेद 368). An amendment Bill may start in either House. There is no joint sitting (संयुक्त बैठक). After the 24th Amendment, the President shall assent.
-- **Exam Anchor:** There are three lanes: simple majority changes that are not “under 368” (new States, Article 169 Councils, Schedules 5/6 matters, and similar); special majority under 368(2) (majority of total membership (सदन की कुल सदस्य संख्या का) plus two-thirds (ते-भागा) present and voting (गणपूर्ति)); and special majority plus ratification by half the States for federal provisions.
-- **Exam Anchor:** Federal provisions needing State ratification include Presidential election, extent of executive power (73/162), Supreme Court and High Courts, the 7th Schedule, Article 368 (अनुच्छेद 368) itself, and State representation in the Rajya Sabha (राज्यसभा).
-- **Exam Anchor:** The basic-structure chain runs Shankari Prasad (1951) → Sajjan Singh (1965) → Golaknath (1967) → 24th Amendment (1971) → Kesavananda (1973) → 42nd (1976) → Minerva Mills (1980). Kesavananda held that Parliament can amend Fundamental Rights (मौलिक अधिकार) but not destroy basic structure.
-- **Exam Anchor:** A shorter chronology trap is Golaknath → 24th → Kesavananda → 42nd. Golaknath said Fundamental Rights could not be amended; the 24th asserted Parliament’s power; Kesavananda balanced power with basic structure.
-- **Exam Anchor:** The 1st Amendment (1951) added 15(4), widened 19(2) for public order, and inserted 31A/31B with the 9th Schedule (9वीं अनुसूची) shield for certain laws.
-- **Exam Anchor:** The 7th Amendment (1956) reorganised States and added 350A (अनु. 350A)/350B (अनु. 350B). Linguistic-minority Articles 350A/350B are 7th, not 9th. The 9th Amendment (9वां संशोधन) is the Berubari boundary amendment.
-- **Exam Anchor:** The 24th Amendment (1971) affirmed that Parliament can amend Part III (मौलिक अधिकार) and that the President shall assent. The 25th inserted 31C linked to Articles 39(b)/(c) and spoke of “amount” rather than market value for compensation. The 26th abolished privy purses.
-
-</details>
+- **Exam Anchor:** 2025 — 42nd Preamble (प्रस्तावना) = Socialist + Secular (direct).
+- **Exam Anchor:** 2024 — Kesavananda (केशवानंद भारती 1973) chronology; 42nd = 1976; GST (वस्तु एवं सेवा कर) = 101st; local bodies = 73rd+74th.
+- **Exam Anchor:** 2021 — Golaknath (गोलकनाथ 1967) → 24th → Kesavananda → 42nd (order trap); Rajendra N. Shah — 97th Part IXB (सहकारिता) dead for State co-ops.
+- **Exam Anchor:** 2019 — 43A workers (42nd DPSP (राज्य के नीति निदेशक तत्व)).
+- **Exam Anchor:** 2022 — RTE = 86th not 103rd; Delhi NCT = 69th; Janhit Abhiyan upholds EWS (103rd valid).
+- **Exam Anchor:** 2023 — 106th women 33% — not yet in force; waits delimitation.
+- **Exam Anchor:** No joint sitting (108 does not apply). If one House rejects, the Bill dies.
+- **Exam Anchor:** Supreme Court / High Courts
 
 ---
 

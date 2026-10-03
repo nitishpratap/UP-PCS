@@ -11,89 +11,84 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 2 — Turkish Invasions & Delhi Sultanate (दिल्ली सल्तनत)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. In **712**, Arab **Muhammad bin Qasim** took **Sindh** from **Dahir** (**Chachnama**; capital **Arod**); this was an Indus (सिंधु) foothold, not Gangetic conquest.
-2. **Sind 712** Cause–Course–Result: Arab push for Indus ports → Qasim took Debal and killed Dahir → Multan–Sindh foothold only, no Gangetic empire.
-3. **Alptigin** founded the **Ghaznavid (गज़नवी) (Yamini)** dynasty at **Ghazni**; **Mahmud** (**998**) led about **17** raids, plundered **Somnath** (सोमनाथ) under **Bhimdev I**, and usually **raided and withdrew**.
-4. **Somnath ~1025/26** Cause–Course–Result: temple plunder prestige → Mahmud stormed the shrine → **Bhimdev I** later rebuilt; no lasting Gujarat annexation.
-5. **Utbi** was Mahmud’s court historian (**Kitab-ul-Yamini** / **Tarikh-i-Yamini**); **Firdausi** (फिरदौसी) wrote **Shahnama**; **Al-Biruni** wrote **Kitab-ul-Hind / Tahqiq-i-Hind** and was the first Muslim to study the **Puranas**.
-6. **Muhammad Ghori** practised **territorial conquest** — governors, garrisons, and coinage — unlike Mahmud’s raid-and-return pattern. His **first defeat in India** was near **Mount Abu (1178)** by **Naika Devi** (नायका देवी) (regent for **Mularaja II / Bhimdev II**).
-7. **First Tarain (1191)** Cause–Course–Result: Ghori sought the Delhi–Ajmer corridor → Prithviraj (पृथ्वीराज) broke the Ghurid left and Ghori fled wounded → no pursuit, so the **1192** rematch followed.
-8. **Second Tarain (1192)** Cause–Course–Result: Ghori returned stronger → feigned retreat and archery captured Prithviraj near Sirsa → Ajmer–Delhi fell and Turkish garrisons stayed (unlike Mahmud’s raids).
-9. **Chandawar (1194)** Cause–Course–Result: after Tarain, Kannauj (कन्नौज) still blocked the upper Ganga → Ghori killed **Jay Chandra** near **Firozabad (Yamuna (यमुना))** → the upper Ganga valley opened to Ghurid agents.
-10. At **First Panipat (1526) Babur (बाबर)** defeated **Ibrahim Lodi** and ended the Delhi Sultanate.
-11. Five dynasties span **1206–1526**: **Slave 1206–1290** → **Khalji 1290–1320** → **Tughlaq 1320–1414** → **Sayyid 1414–1451** → **Lodi 1451–1526**.
-12. **Qutb-ud-din Aibak** ruled from **Lahore (1206–10)** as **Malik/Sipahsalar** (not “Sultan”), was called **Lakh Baksh / Quran Khwan**, and died playing **chaugan**.
-13. **Iltutmish** (इल्तुतमिश) (**1210–1236**), **Ilbari** “slave of a slave,” made **Delhi** the capital, coined **tanka/jital**, took Caliph’s **khilat (1229)**, organised the **Turkan-i-Chahalgani (Forty)**, and refused asylum to **Jalaluddin Mingburni**.
-14. **Razia** (रजिया) (**1236–1240**) was the **only woman Sultan** of Delhi; **Altunia (Bhatinda)** and anger over **Yaqut** ended her rule.
-15. **Balban** used **Blood and Iron** (लौह एवं रक्त की नीति), **Zil-i-Ilahi / Niyabat-i-Khudai** (ज़िल्ल-ए-इलाही / नियाबत-ए-ख़ुदाई), **Sijda (सिजदा)/Paibos** (सिजदा / पैबोस), **Nawruz** (नौरोज़), and **Diwan-i-Arz** (दीवान-ए-अर्घ - सैन्य विभाग) (**Imad-ul-Mulk**); the Slave line closed with weak **Kaiqubad** and infant **Kayumars** before the **1290 Khalji coup**.
-16. **Jalaluddin Khalji** (**1290–1296**) founded the dynasty, was crowned at **Kilokhari**, and was killed by Alauddin at **Kara**.
-17. **Alauddin Khalji** kept a cash-paid standing army (सेना) and used **Dagh** (दाग़ - horse branding) and **Chehra (चेहरा) / Huliya** (चेहरा / हुलिया - soldier descriptive rolls) against fake musters.
-18. Alauddin’s four revolt ordinances hit noble gifts and land grants, widened intelligence, banned wine and gambling, and curbed free noble feasts and intermarriage.
-19. Alauddin’s north–Deccan (दक्कन) conquest order is **Gujarat 1299 → Ranthambor 1301 → Chittor (चित्तौड़) 1303 → Malwa → Devagiri → Warangal (वारंगल) → Dwarasamudra → Madurai**; **Malik Kafur** rose from Cambay.
-20. Alauddin took about **50%** by measurement (**Diwan-i-Mustakharaj** (दीवान-ए-मुस्तख़राज) / दीवान-ए-मुस्तख़राज - arrears dept), added **Ghari/Charai** (घरी / चराई कर), built **Siri**, used **Sikandar-i-Sani** (सिकंदर-ए-सानी - second Alexander (सिकंदर)), and died in **1316**; **Malik Kafur** = **Hazar-Dinari** (हज़ार दिनारी).
-21. **Shahna-i-Mandi** (शहना-ए-मंडी - market controller) was Alauddin’s market controller; **Amir-i-Kohi** (अमीर-ए-कोही / दीवान-ए-कोही) was Muhammad bin Tughlaq’s agriculture department — do not swap them.
-22. **Ghazi Malik / Ghiyasuddin Tughlaq** (**1320–1325**) killed usurper **Khusrau Khan**, founded the Tughlaqs, and built **Tughlaqabad**; he did **not** build Qutub Minar.
-23. **Muhammad bin Tughlaq** (मुहम्मद बिन तुगलक) was the most learned Sultan; his main experiments were **Daulatabad**, **token currency** (सांकेतिक मुद्रा), **Amir-i-Kohi**, Doab (दोआब) tax, and Khurasan/Qarachil plans; **Ibn Battuta** (इब्न बतूता) wrote *Rihla* (रिहला).
-24. **Firoz Shah** built canals and levied **Haqq-i-Sharb** (हक़-ए-शर्ब - irrigation tax), ran **Diwan-i-Khairat** (दीवान-ए-ख़ैरात - charity) / **Bandagan** (दीवान-ए-बंदगान - slaves) and **Dar-ul-Shafa** (दार-उल-शफ़ा - charitable hospital), funded Haj from the treasury, moved Ashoka (अशोक) pillars (**Topra/Meerut (मेरठ)**), used **Azizuddin Khan** for Nagarkot texts, made **iqta (इक्ता) hereditary** (इक्ता वंशानुगत), and put **jizya (जज़िया) on Brahmins** (जज़िया).
-25. **Khizr Khan** (**1414–1421**) founded the **Sayyid** house as Timur’s Multan–Delhi nominee (**Rayat-i-Ala** style); **Alam Shah** abdicated to **Bahlul Lodi** in **1451**.
-26. **Bahlul Lodi** founded the first **Afghan** Sultanate dynasty, issued the **Bahluli** coin, and annexed **Sharqi Jaunpur (1484)**; **Sikandar Lodi** built up **Agra** (आगरा) and used **Gaz-i-Sikandari**; **Ibrahim Lodi** (**1517–1526**) was the last Delhi Sultan.
-27. **Iltutmish** institutionalised the **Iqta** (इक्ता) system in India; **Siyasatnama** (निजाम-उल-मुल्क) (Nizam-ul-Mulk (निजाम-उल-मुल्क)) is the classical source on Muqti duties; Iqta revenue went to the **Muqti** (मुक़्ती / वली), not directly to the Sultan; **Khalsa** (ख़ालिसा) was crown land.
-28. **Khams** (ख़म्स) was one-fifth of war booty; **jizya** (जज़िया) was the tax on non-Muslims.
-29. Admin facts: **Diwan-i-Insha** (दीवान-ए-इंशा) = correspondence; **Diwan-i-Tan** (दीवान-ए-तन) = salaries/jagirs; **Mustarfi** (मुस्तौफ़ी) = audit; **Mushrif** (मुशरिफ़) = accounts/records; **Vakianvis** (वाक़ियानवीस) = firmans/events list; **Khareetadar** (खरीतादार) = despatch of decrees.
-30. **Tarikh-i-Firoz Shahi** is by **Barani** (बरनी) (or **Afif** for Firoz’s reign alone); **Tughlaqnama** (तुग़लक़नामा) is by **Amir Khusrau** (अमीर खुसरो), not Ibn Battuta; **Rihla** is Ibn Battuta’s travel book.
-31. **Tabaqat-i-Nasiri** is by **Minhaj**; Amir Khusrau wrote **Khazain-ul-Futuh** and **Khaliq-e-Bari**; **Rag Vibodh** (राग विबोध) is **Somnath’s** music treatise (**1609**), not Khusrau’s.
-32. Architecture facts: **Sultan Garhi** = Iltutmish; **Red Palace** = Balban; **Jamat Khana** = Alauddin; **Dhai Din Ka Jhopra** = Aibak; **Tughlaqabad** = Ghiyasuddin; **Hauz Khas** = Firoz.
-33. **Qutub (कुतुब) Minar** (कुतुब मीनार) was started by Aibak and finished by Iltutmish; **Firuz** repaired the fourth storey and added the fifth; **Alai Darwaza** (अलाई दरवाज़ा) is Alauddin’s gateway of **1311**.
-34. **Bakhtiyar Khalji** took **Odantapuri** (उदंतपुरी), destroyed **Nalanda** (नालंदा) and **Vikramshila** (विक्रमशिला), took **Nadia** (~**1204**), and made **Lakhnauti** his capital; **Lakshmana Sena** fled to East Bengal.
-35. Ghori’s coins (रूपक) show **Goddess Lakshmi** with Arabic **Kalma**; Mahmud issued bilingual silver (रूपक) with Sanskrit **“Avyaktamekam Muhammad Avatar Nripati Mahmud”**.
-36. After Tarain, Ghori granted the first Indian **iqta** charge to **Qutbuddin Aibak** (कुतुबुद्दीन ऐबक) (**Kuhram** and **Samana**); **Iltutmish** later made Iqta the Sultanate’s regular framework; **Timur** sacked Delhi in **1398**.
-37. UP facts: **Chandawar** **1194**; **Jaunpur** (जौनपुर) annexed **1484**; **Kol (Aligarh (अलीगढ़))** garrison; do not confuse **Sikandar (Agra)** with **Ibrahim (Panipat 1526)**.
-38. Turkish success rested on Rajput (राजपूत) **disunity** after Pratihara (गुर्जर-प्रतिहार) decline — Chauhans, Gahadavalas, Chandelas (**Vidyadhar** alone held Mahmud in **1019–20**), and Paramaras fought separately.
-39. Ghaznavids **raided**; Ghurids **conquered and stayed** — that contrast is the first Turkish-invasion trap. **Firdausi ≠ Firishta (फरिश्ता)** (Shahnama vs Bijapur (बीजापुर) chronicle).
-40. Longest Sultanate house is often **Tughlaq**; shortest major house is often **Khalji**; first Afghan house is **Lodi**.
-41. **Mubarak Shah Khalji** declared himself **Khalifa** and relaxed Alauddin’s controls; **Khusrau Khan**’s brief usurpation ended with Ghazi Malik’s victory (**1320**).
-42. **Yahiya Sirhindi**’s *Tarikh-i-Mubarak Shahi* is the main Sayyid-age chronicle; **Mubarakabad** on the Yamuna is Mubarak Shah Sayyid’s city, not a Khalji monument.
-
-</details>
+1. **Sind 712** Cause–Course–Result: Arab push for Indus ports → Qasim took Debal and killed Dahir → Multan–Sindh foothold only, no Gangetic empire.
+2. **Alptigin** founded the **Ghaznavid (गज़नवी) (Yamini)** dynasty at **Ghazni**; **Mahmud** (**998**) led about **17** raids, plundered **Somnath** (सोमनाथ) under **Bhimdev I**, and usually **raided and withdrew**.
+3. **Somnath ~1025/26** Cause–Course–Result: temple plunder prestige → Mahmud stormed the shrine → **Bhimdev I** later rebuilt; no lasting Gujarat annexation.
+4. **Utbi** was Mahmud’s court historian (**Kitab-ul-Yamini** / **Tarikh-i-Yamini**); **Firdausi** (फिरदौसी) wrote **Shahnama**; **Al-Biruni** wrote **Kitab-ul-Hind / Tahqiq-i-Hind** and was the first Muslim to study the **Puranas**.
+5. **Muhammad Ghori** practised **territorial conquest** — governors, garrisons, and coinage — unlike Mahmud’s raid-and-return pattern. His **first defeat in India** was near **Mount Abu (1178)** by **Naika Devi** (नायका देवी) (regent for **Mularaja II / Bhimdev II**).
+6. **First Tarain (1191)** Cause–Course–Result: Ghori sought the Delhi–Ajmer corridor → Prithviraj (पृथ्वीराज) broke the Ghurid left and Ghori fled wounded → no pursuit, so the **1192** rematch followed.
+7. **Second Tarain (1192)** Cause–Course–Result: Ghori returned stronger → feigned retreat and archery captured Prithviraj near Sirsa → Ajmer–Delhi fell and Turkish garrisons stayed (unlike Mahmud’s raids).
+8. **Chandawar (1194)** Cause–Course–Result: after Tarain, Kannauj (कन्नौज) still blocked the upper Ganga → Ghori killed **Jay Chandra** near **Firozabad (Yamuna (यमुना))** → the upper Ganga valley opened to Ghurid agents.
+9. **Qutb-ud-din Aibak** ruled from **Lahore (1206–10)** as **Malik/Sipahsalar** (not “Sultan”), was called **Lakh Baksh / Quran Khwan**, and died playing **chaugan**.
+10. **Iltutmish** (इल्तुतमिश) (**1210–1236**), **Ilbari** “slave of a slave,” made **Delhi** the capital, coined **tanka/jital**, took Caliph’s **khilat (1229)**, organised the **Turkan-i-Chahalgani (Forty)**, and refused asylum to **Jalaluddin Mingburni**.
+11. **Razia** (रजिया) (**1236–1240**) was the **only woman Sultan** of Delhi; **Altunia (Bhatinda)** and anger over **Yaqut** ended her rule.
+12. **Balban** used **Blood and Iron** (लौह एवं रक्त की नीति), **Zil-i-Ilahi / Niyabat-i-Khudai** (ज़िल्ल-ए-इलाही / नियाबत-ए-ख़ुदाई), **Sijda (सिजदा)/Paibos** (सिजदा / पैबोस), **Nawruz** (नौरोज़), and **Diwan-i-Arz** (दीवान-ए-अर्घ - सैन्य विभाग) (**Imad-ul-Mulk**); the Slave line closed with weak **Kaiqubad** and infant **Kayumars** before the **1290 Khalji coup**.
+13. **Jalaluddin Khalji** (**1290–1296**) founded the dynasty, was crowned at **Kilokhari**, and was killed by Alauddin at **Kara**.
+14. **Alauddin Khalji** kept a cash-paid standing army (सेना) and used **Dagh** (दाग़ - horse branding) and **Chehra (चेहरा) / Huliya** (चेहरा / हुलिया - soldier descriptive rolls) against fake musters.
+15. **Shahna-i-Mandi** (शहना-ए-मंडी - market controller) was Alauddin’s market controller; **Amir-i-Kohi** (अमीर-ए-कोही / दीवान-ए-कोही) was Muhammad bin Tughlaq’s agriculture department — do not swap them.
+16. **Ghazi Malik / Ghiyasuddin Tughlaq** (**1320–1325**) killed usurper **Khusrau Khan**, founded the Tughlaqs, and built **Tughlaqabad**; he did **not** build Qutub Minar.
+17. **Muhammad bin Tughlaq** (मुहम्मद बिन तुगलक) was the most learned Sultan; his main experiments were **Daulatabad**, **token currency** (सांकेतिक मुद्रा), **Amir-i-Kohi**, Doab (दोआब) tax, and Khurasan/Qarachil plans; **Ibn Battuta** (इब्न बतूता) wrote *Rihla* (रिहला).
+18. **Firoz Shah** built canals and levied **Haqq-i-Sharb** (हक़-ए-शर्ब - irrigation tax), ran **Diwan-i-Khairat** (दीवान-ए-ख़ैरात - charity) / **Bandagan** (दीवान-ए-बंदगान - slaves) and **Dar-ul-Shafa** (दार-उल-शफ़ा - charitable hospital), funded Haj from the treasury, moved Ashoka (अशोक) pillars (**Topra/Meerut (मेरठ)**), used **Azizuddin Khan** for Nagarkot texts, made **iqta (इक्ता) hereditary** (इक्ता वंशानुगत), and put **jizya (जज़िया) on Brahmins** (जज़िया).
+19. **Khizr Khan** (**1414–1421**) founded the **Sayyid** house as Timur’s Multan–Delhi nominee (**Rayat-i-Ala** style); **Alam Shah** abdicated to **Bahlul Lodi** in **1451**.
+20. **Bahlul Lodi** founded the first **Afghan** Sultanate dynasty, issued the **Bahluli** coin, and annexed **Sharqi Jaunpur (1484)**; **Sikandar Lodi** built up **Agra** (आगरा) and used **Gaz-i-Sikandari**; **Ibrahim Lodi** (**1517–1526**) was the last Delhi Sultan.
+21. **Iltutmish** institutionalised the **Iqta** (इक्ता) system in India; **Siyasatnama** (निजाम-उल-मुल्क) (Nizam-ul-Mulk (निजाम-उल-मुल्क)) is the classical source on Muqti duties; Iqta revenue went to the **Muqti** (मुक़्ती / वली), not directly to the Sultan; **Khalsa** (ख़ालिसा) was crown land.
+22. **Khams** (ख़म्स) was one-fifth of war booty; **jizya** (जज़िया) was the tax on non-Muslims.
+23. **Tarikh-i-Firoz Shahi** is by **Barani** (बरनी) (or **Afif** for Firoz’s reign alone); **Tughlaqnama** (तुग़लक़नामा) is by **Amir Khusrau** (अमीर खुसरो), not Ibn Battuta; **Rihla** is Ibn Battuta’s travel book.
+24. **Tabaqat-i-Nasiri** is by **Minhaj**; Amir Khusrau wrote **Khazain-ul-Futuh** and **Khaliq-e-Bari**; **Rag Vibodh** (राग विबोध) is **Somnath’s** music treatise (**1609**), not Khusrau’s.
+25. **Qutub (कुतुब) Minar** (कुतुब मीनार) was started by Aibak and finished by Iltutmish; **Firuz** repaired the fourth storey and added the fifth; **Alai Darwaza** (अलाई दरवाज़ा) is Alauddin’s gateway of **1311**.
+26. **Bakhtiyar Khalji** took **Odantapuri** (उदंतपुरी), destroyed **Nalanda** (नालंदा) and **Vikramshila** (विक्रमशिला), took **Nadia** (~**1204**), and made **Lakhnauti** his capital; **Lakshmana Sena** fled to East Bengal.
+27. **Mubarak Shah Khalji** declared himself **Khalifa** and relaxed Alauddin’s controls; **Khusrau Khan**’s brief usurpation ended with Ghazi Malik’s victory (**1320**).
+28. **Yahiya Sirhindi**’s *Tarikh-i-Mubarak Shahi* is the main Sayyid-age chronicle; **Mubarakabad** on the Yamuna is Mubarak Shah Sayyid’s city, not a Khalji monument.
+29. **Prophet Muhammad** was born at **Mecca** (Saudi Arabia) in **570 CE** and died in **632 CE**.
+30. **Iranians** called the land **Hindustan** and the **Greeks** (यूनानी) called it **India**.
+31. **Muhammad bin Qasim** was the **first successful Muslim invader** of India; the first Muslim invaders as a group were the **Arabs**, not the later Ghaznavids or Ghurids.
+32. **Alptigin**, a Turkish Samanid slave-governor, founded the independent **Ghaznavid** kingdom with capital at **Ghazni**. The line is also called the **Yamini** dynasty.
+33. **Mahmud of Ghazni** became ruler in **998 CE**. Between about **1000–1027** he invaded India about **17** times (Sir Henry Elliot’s count).
+34. **Firdausi** authored **Shahnama** and was called the **“Homer of the East.”** Do **not** confuse him with **Firishta** (**Muhammad Qasim Hindu Shah Astarabadi**), whose **Tarikh-i-Firishta / Gulshan-i-Ibrahimi** is dedicated to **Ibrahim Adil Shah II** of **Bijapur** (बीजापुर).
+35. **Al-Biruni** (born **973**, **Khiva / Khwarizm**) came to India with Mahmud in the **11th century**. He wrote **Tahqiq-i-Hind / Kitab-ul-Hind** in **Arabic** on Indian society, religion, and science. He was the **first Muslim to study the Puranas**, used Sanskrit works of **Brahmagupta**, **Balabhadra**, and **Varahamihira** (वराहमिहिर), and is not treated as a “secular” apologist for the Somnath raid. **Edward Sachau** translated the work into English.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Arabs | Turks | **Qasim 712** Sindh foothold vs Ghazni/Ghori north India | अरब / तुर्क |
-| Ghaznavid | Ghurid | Mahmud raided; Ghori conquered and stayed | गज़नवी / गौर |
-| Firdausi | Firishta | **Shahnama** (Mahmud’s court) vs **Tarikh-i-Firishta** (Bijapur) | फिरदौसी / फरिश्ता |
-| Tarain I | II | **1191** Prithviraj wins; **1192** Ghori wins | तराइन प्रथम / द्वितीय |
-| Naika Devi | Prithviraj | Ghori’s **first India defeat (1178 Abu)** vs Tarain **1191** win | नायका देवी / पृथ्वीराज |
-| Tarain | Chandawar vs Panipat | 1192 Prithviraj; **1194** Jaichand (**Firozabad/Yamuna**); **1526** Ibrahim Lodi | तराइन / चंदावर / पानीपत |
-| Vidyadhar | other Chandelas | Only Chandela who **resisted Mahmud** (**1019–20**) | विद्याधर |
-| Mamluk | Khalji | Turkish slave rulers **1206–1290** vs Turko-Afghan **1290+** | मामलूक / खिलजी |
-| Aibak Lahore | Iltutmish Delhi | Aibak capital **Lahore**; Iltutmish first lasting **Delhi** capital | लाहौर / दिल्ली |
-| Firuz | Ghiyasuddin on Qutub | **Firuz** repaired 4th/added 5th; **Ghiyasuddin Tughlaq** did not build it | कुतुब मीनार |
-| Yalduz/Qabacha | Altunia | Iltutmish rivals vs Razia’s **Bhatinda** rebel | अल्तुनिया |
-| Devgiri | Warangal rulers | **Ramachandra** (Devgiri) vs **Prataparudra** (Warangal) | देवगिरि / वारंगल |
-| Hazar-Dinari | Zafar Khan | **Malik Kafur** vs Mongol-martyr general | हजार दिनारी |
-| Iqta | Khalsa | Assigned revenue to **Muqti** (not direct Sultan deposit) vs **crown** land; **Iltutmish** institutionalised Iqta; **Siyasatnama** = Muqti source | इक्ता / खालसा |
-| Khalsa | Jagir (2025) | Direct Sultan land vs assigned noble land | खालसा / जागीर |
-| Dagh | Chehra | Horse branding vs soldier descriptive roll (Alauddin) | दाग / चेहरा |
-| Sijda | Paibos | Prostration vs kissing feet (Balban rituals) | सिजदा / पैबोस |
-| Barani | Ibn Battuta | Sultanate historian vs Moroccan traveller (**Rihla**) | बरनी / इब्न बतूता |
-| Qutub Minar | Alai Darwaza | Aibak/Iltutmish minar vs **Alauddin** gateway **1311** | क़ुतुब / अलाई दरवाज़ा |
-| Muhammad bin Tughlaq | Firoz Shah | Experiments (Daulatabad, token, Amir-i-Kohi) vs canals, welfare, hereditary iqta | मुहम्मद बिन तुग़लक / फ़िरोज़ शाह |
-| Amir-i-Kohi | Shahna-i-Mandi | Agriculture dept (Muhammad) vs market control (Alauddin) | आमिर-ए-कोही / शहना-ए-मंडी |
-| Haqq-i-Sharb | Ghari/Charai | Firoz irrigation tax vs Alauddin house/grazing taxes | हक़-ए-शर्ब |
-| Gulrukhi | Lakh Baksh | Sikandar Lodi’s pen-name vs Aibak’s generosity title | गुलरुखी |
-| Token Currency (Bronze/Copper) | Tanka & Jital (Silver & Copper standard) | **Muhammad bin Tughlaq (1329–30)** — UPPCS 2008 fact | टोकन मुद्रा |
-| Sikandar Lodi | Ibrahim | **Agra** builder vs **Panipat 1526** last Sultan | सिकंदर / इब्राहिम |
-| chakla | Sarkar | Between Subah and Pargana vs **Mughal** term trap | चकला / सरकार |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. First successful Muslim invader = Arab **Muhammad bin Qasim (712, Sindh / Dahir / Chachnama / Arod)** — not Mahmud or Ghori.
+2. **Mahmud of Ghazni raided and withdrew**; **Muhammad Ghori conquered and stayed**. That is the Ghaznavid vs Ghurid difference.
+3. **Firdausi** wrote **Shahnama** (Mahmud’s court); **Firishta** wrote **Tarikh-i-Firishta** for Bijapur — never swap.
+4. Ghori’s **first defeat in India** = **Naika Devi / Mularaja II near Mount Abu (1178)** — not First Tarain (**1191**, Prithviraj win).
+5. **Second Tarain (1192)** founded lasting Turkish power; **Chandawar (1194)** killed **Jayachandra** at **Firozabad / Yamuna**.
+6. **Ghori** coins show **Lakshmi + Kalma**; **Mahmud** issued bilingual **Arabic–Sanskrit** silver.
+7. **Bakhtiyar Khalji** took Bihar–Bengal (**Odantapuri, Nalanda, Vikramshila, Nadia, Lakhnauti**) — not Aibak.
+8. The Delhi Sultanate begins in **1206** when Aibak took the title of Sultan, not in **1192** when Ghori won Tarain.
+9. **Iltutmish** was the real consolidator of the Sultanate, not Aibak.
+10. **Hamida Banu Begum** was **Humayun's** wife, not Alauddin Khalji's.
+11. **Tughlaqnama** was written by **Ziauddin Barani**, not Ibn Battuta.
+12. **Iqta revenue** went to the Muqti first and was **not deposited directly** in the Sultan's treasury. First Ghori-era iqta charge in India goes to **Aibak (Kuhram–Samana)**.
+13. **Jagirs** were assigned noble land; **Khalsa** was direct crown land.
+14. Balban's centralisation against the nobles is **not fully explained** by Mongol frontier policy alone.
+15. Alauddin's conquest order is **Gujarat → Ranthambor → Chittor → Warangal**.
+16. **Qutub Minar** was built by **Aibak/Iltutmish**; **Alai Darwaza** was built by **Alauddin**.
+17. **Sikandar Lodi** made **Agra** important; **Ibrahim Lodi** was the last Sultan at Panipat.
+18. **Chakla** is a Sultanate unit between Subah and Pargana; it is **not the Mughal Sarkar**.
+19. **Jarib** is a **measuring rope**, not a tax.
+20. **Khareetadar** despatched royal decrees; **Barid** was the spy.
+21. **First Panipat (1526)** is Babur vs Ibrahim Lodi; **Second Panipat (1556)** is Akbar vs Hemu.
+22. **Vidyadhar** is the Chandela who resisted Mahmud (**1019–20**); Somnath raid under **Bhimdev I**, who rebuilt the temple.
+
+23. **Aibak** never took the title **Sultan** (**Malik/Sipahsalar** only); capital **Lahore**; death by **Chaugan**.
+24. **Iltutmish** = Delhi capital, **tanka/jital**, Caliph **khilat 1229**, refused **Mingburni**; rivals ≠ **Altunia**.
+25. **Balban** = **Blood and Iron**, **Zil-i-Ilahi**, **Nawruz**, **Diwan-i-Arz** — he did **not** invent **iqta**.
+26. **Malik Kafur** = **Hazar-Dinari**; Deccan = plunder not full annexation; **Mubarak** alone declared himself **Khalifa**.
+27. After **1306**, Mongol–Sultanate line keyed on the **Ravi**; **Ghari/Charai** and **PDS** are Alauddin facts.
+
+28. **Ghazi Malik** founded the **Tughlaq** line; longest dynasty span = **Tughlaq**; **Timur 1398** under **Nasiruddin Mahmud**.
+29. **Token currency / Daulatabad / Amir-i-Kohi / Holi** = **Muhammad bin Tughlaq**; **Rihla** = Ibn Battuta (Morocco), not Tughlaqnama.
+30. **Firoz** = canals + **Haqq-i-Sharb**, **Diwan-i-Khairat/Bandagan**, **Dar-ul-Shafa**, Haj from treasury, Ashoka pillars (**Topra/Meerut**), Nagarkot translator **Azizuddin Khan** (not Mulla Abdul Baqi).
+31. **Sikandar Lodi** = **Agra (1504)**, **Gulrukhi**, **Gaj-i-Sikandari**, abolished grain zakat; **Ibrahim** = **Khatoli 1518** + **Panipat 1526**.
 
 
 ---

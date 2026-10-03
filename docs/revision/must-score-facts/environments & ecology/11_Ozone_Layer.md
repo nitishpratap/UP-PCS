@@ -11,58 +11,45 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 11 — Ozone Layer</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Ozone (O₃) is triatomic oxygen. **Stratospheric ozone** (समतापमंडलीय ओजोन) (about **15–30/35 km**) is protective “good” ozone. **Tropospheric ozone** (क्षोभमंडलीय ओजोन) is a ground-level pollutant.
-2. About **90%** of ozone is stratospheric; about **10%** is tropospheric. Stratospheric ozone is regulated in part by **NO₂**.
-3. The **Chapman cycle** describes natural formation and destruction balance of stratospheric ozone (UV acting on O₂).
-4. **UV-A (315–400 nm)** reaches the surface; **UV-B (280–315 nm)** is mostly blocked by ozone; **UV-C (100–280 nm)** is fully blocked. Ozone blocks ~**93–99%** of the most damaging UV.
-5. Ozone-depleting substances release chlorine and bromine radicals that catalytically destroy ozone. One chlorine atom can destroy on the order of **100,000** ozone molecules.
-6. Main ODS include **CFCs, Halon-1211/1301, carbon tetrachloride, methyl chloroform, methyl bromide, and transitional HCFCs**. Fridge coolants often sold as **Mafron**; large plants may use **ammonia**.
-7. An **ozone hole** is not a physical hole. It means column ozone below **220 Dobson Units**. **1 DU ≈ 0.01 mm** pure ozone at 0°C, 1 atm.
-8. The Antarctic ozone hole peaks in Southern Hemisphere spring (**September–October**) under a polar vortex with polar stratospheric clouds + CFCs.
-9. The Antarctic ozone hole was discovered in **1985** by **Farman (फ़रमान), Gardiner, Shanklin** (British Antarctic Survey). **Kent Moore** reported Tibetan Plateau ozone feature in **2005**.
-10. Treaty chain: **Vienna Convention 1985 → Montreal Protocol 1987 (force 1 Jan 1989) → Kigali Amendment 2016 (force 1 Jan 2019)**.
-11. Montreal is the binding ODS phase-out treaty. International Ozone Day is **16 September** (UN observance from **1994**).
-12. **Kigali (2016)** phases down **HFCs**. HFCs are not classic ODS, but they have high global-warming potential.
-13. Montreal achieved near-universal ratification and cut ODS emissions by about **99%** from peak levels.
-14. Treaty trap: **Montreal = ozone**; **Kyoto/Paris = climate**. Never swap the issue tags. Carbon trading ≠ Montreal.
-15. Global average ozone column is often near about **300 DU**; the hole threshold is **<220 DU**.
-16. India ratified Montreal in **1992**. The nodal unit is the **Ozone Cell, MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय)**.
-17. India CFC phase-out fact is **2010**. HCFC freeze is **2020**; complete HCFC phase-out aims at **2030**.
-18. India’s Kigali HFC phase-down commitment begins from **2028** in standard coaching facts.
-19. Stratospheric ozone protects life; tropospheric ozone harms lungs and crops — same molecule, opposite verdict by layer.
-20. Vienna is the framework convention; Montreal is the binding control protocol — parallel to UNFCCC (यूएनएफसीसीसी)/Kyoto structure, but for ozone.
-21. Dobson Unit measures total ozone column, not ground-level ppm of pollution ozone.
-22. Polar stratospheric clouds enable chlorine activation — that is why the deep hole is polar-spring specific.
-23. HCFCs were transitional substitutes on the way out of CFCs; they are still ODS, just weaker/longer phase-out.
-24. Kigali sits under the Montreal family, not under UNFCCC as a climate protocol.
-25. Ozone Day is **16 September**; do not confuse it with World Environment (पर्यावरण) Day (विश्व पर्यावरण दिवस) (**5 June**) or Wildlife Day (**3 March**).
-26. CFCs are both ODS and GHGs; CFC source is not primarily automobiles; CFC use is not tubeless tyres.
-27. Extra UV mainly raises **skin cancer** risk (classic stem).
-28. Homosphere (सममंडल) ≈ troposphere (क्षोभमंडल) + stratosphere (समतापमंडल) + mesosphere (मध्यमंडल); **ionosphere not** in that set.
-29. Column thickness often highest in **spring**, lowest in **rainy season** (general seasonal pattern).
-30. Full teaching depth for this chapter also lives in Topic **36**.
-
-</details>
+1. **UV-A (315–400 nm)** reaches the surface; **UV-B (280–315 nm)** is mostly blocked by ozone; **UV-C (100–280 nm)** is fully blocked. Ozone blocks ~**93–99%** of the most damaging UV.
+2. **Kigali (2016)** phases down **HFCs**. HFCs are not classic ODS, but they have high global-warming potential.
+3. **Ozone (O₃)** is a molecule of three oxygen atoms that absorbs harmful ultraviolet radiation.
+4. **UV-A** largely reaches the surface. **UV-B** is mostly blocked by ozone and causes sunburn and skin cancer if exposure rises.
+5. **UV-C** is fully absorbed by ozone and oxygen under normal conditions.
+6. **Column ozone** is measured in **Dobson Units (DU)**. Global average is about **300 DU**.
+7. **Stratospheric ozone** is protective. **Tropospheric ozone** is a harmful air pollutant and greenhouse gas.
+8. **Ozone depletion** is the sustained reduction of stratospheric ozone below natural levels.
+9. **Ozone-Depleting Substances (ODS)** contain chlorine and/or bromine that destroy ozone in the stratosphere.
+10. **CFCs** were used in refrigerants, aerosols, foam blowing, and solvents.
+11. **One chlorine atom can destroy up to about 100,000 ozone molecules** before removal.
+12. **Halons** used in fire suppressants release **bromine**, which is even more destructive per atom.
+13. **Polar Stratospheric Clouds (PSCs)** (ध्रुवीय समतापमंडलीय बादल) form at very low temperatures and enable chlorine activation.
+14. **Arctic** ozone loss can occur in cold winters but is **less severe and less regular** than Antarctic depletion.
+15. **International Ozone Day** is **16 September**, the date the Montreal Protocol was signed.
+16. **India ratified in 1992**. The **Ozone Cell under MoEFCC** coordinates compliance.
+17. **Montreal controls ozone**. **Kyoto controls climate**. Do not swap them.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Stratospheric Ozone** | **Tropospheric Ozone** | Essential atmospheric shield absorbing harmful solar UV-B radiation (20–30 km altitude) vs toxic secondary pollutant and greenhouse gas causing smog and respiratory ailments | समतापमंडलीय ओजोन (सुरक्षा कवच) / क्षोभमंडलीय ओजोन (हानिकारक प्रदूषक) |
-| **Ozone Depletion** | **Ozone Hole** | Widespread gradual thinning of the stratospheric ozone layer globally caused by halogenated gases vs severe, seasonal Antarctic springtime drop where column ozone drops below 220 Dobson Units (DU) | ओजोन क्षरण (वैश्विक स्तर पर) / ओजोन छिद्र (अंटार्कटिक <220 DU) |
-| **Vienna Convention (1985)** | **Montreal Protocol (1987)** | Non-binding multilateral framework agreement establishing international cooperation on ozone research and monitoring vs legally binding international treaty mandating precise, phase-out timetables for ozone-depleting substances (ODS) | वियना कन्वेंशन (ढांचागत समझौता) / मॉन्ट्रियल प्रोटोकॉल (बाध्यकारी प्रतिबंध) |
-| **Chlorofluorocarbons (CFCs)** | **Hydrofluorocarbons (HFCs)** | Powerful ozone-depleting substances with high chlorine and high GWP (phased out under Montreal) vs zero-ODP fluorinated gases that do not harm ozone but are super greenhouse gases (phased down under 2016 Kigali Amendment) | सीएफसी (ओजोन विनाशक + GHG) / एचएफसी (केवल GHG, किगाली द्वारा नियंत्रित) |
-| **Dobson Unit (DU)** | **Parts Per Million (ppm)** | Standard unit measuring the total vertical column abundance of atmospheric ozone (1 DU = 0.01 mm thickness at STP; normal baseline ~300 DU) vs standard volumetric concentration ratio of trace gases in ambient air | डॉबसन यूनिट (स्तंभ ओजोन मोटाई) / पीपीएम (सान्द्रता अनुपात) |
-| **Polar Stratospheric Clouds (PSCs)** | **Cirrus Clouds** | High-altitude clouds forming in extreme Antarctic winter cold (-78°C / Type I and II) that catalyze chlorine release from reservoirs vs normal high-altitude wispy ice-crystal weather clouds in the upper troposphere | ध्रुवीय समतापमंडलीय बादल (PSCs) / पक्षाभ मेघ (ट्रोपोस्फेरिक) |
-| **Kigali Amendment (2016)** | **Paris Agreement (2015)** | Legally binding amendment to Montreal Protocol committing countries to progressively phase down consumption of hydrofluorocarbons (HFCs) by 80–85% vs UNFCCC climate framework agreement targeting global warming mitigation | किगाली संशोधन (HFC कटौती) / पेरिस समझौता (जलवायु लक्ष्य) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+| Trap | Correct fact |
+|------|----------------|
+| Montreal = climate treaty | **Ozone / ODS** |
+| Ozone layer in troposphere | **Stratosphere** |
+| Ozone hole = physical hole | **Low ozone column < 220 DU** |
+| Ozone hole over Arctic always | **Antarctic spring** |
+| Tropospheric ozone is good | **Pollutant** |
+| CFCs controlled under Kyoto | **Montreal Protocol** |
+| Ozone Day = 5 June | **16 September** |
+| Kigali targets CFCs | **HFC phase-down** |
+| UV-C reaches surface normally | **Blocked by O₃/O₂** |
+| Depletion permanent with no recovery | Recovery expected **~2040/2066** |
 
 
 ---

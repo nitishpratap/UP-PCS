@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 14 — Environmental Impact Assessment</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Public Hearing (Consultation)** | **Appraisal** | Statutory public stage where local affected communities and citizens voice concerns and objections to the draft EIA vs detailed scientific scrutiny of final EIA and public hearing proceedings by EAC or SEAC | जन सुनवाई (स्थानीय सहभागिता) / वैज्ञानिक मूल्यांकन (EAC/SEAC) |
 | **National Green Tribunal (NGT)** | **Appellate Authority under Air/Water Acts** | Specialized judicial tribunal established under NGT Act 2010 hearing original environmental disputes and appeals against environmental clearances (EC) vs administrative appellate authorities designated under Water Act 1974 / Air Act 1981 | राष्ट्रीय हरित अधिकरण (न्यायिक अधिकरण) / राज्य अपीलीय प्राधिकरण |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Framework
 
@@ -120,18 +114,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** EIA studies a project’s likely environmental effects before approval. The aim is anticipatory prevention, not reactive cleanup.
-- **Exam Anchor:** Legal base is the Environment (पर्यावरण) (Protection) Act, 1986 (Section 3). First EIA Notification was 1994; the current framework is EIA Notification 2006 (14 September).
 - **Exam Anchor:** Environmental Clearance is mandatory prior clearance for listed projects.
 - **Exam Anchor:** Category A is appraised centrally by MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) through the EAC.
 - **Exam Anchor:** Category B is appraised by SEIAA through SEAC. B1 needs full EIA (usually with public hearing); B2 is simplified.
-- **Exam Anchor:** Under a General Condition, a Category B project in a sensitive area is treated as Category A.
-- **Exam Anchor:** The four (चातुर्याम) classic stages are screening → scoping → public consultation → appraisal. Screening applies to Category B only.
 - **Exam Anchor:** Scoping fixes the Terms of Reference (ToR) (संदर्भ की शर्तें) for the EIA study.
-
-</details>
+- **Exam Anchor:** Rapid EIA uses one season; comprehensive EIA covers all seasons.
+- **Exam Anchor:** NGT (Act 2010) hears EC and pollution appeals. PARIVESH is MoEFCC’s online EC portal.
+- **Exam Anchor:** SEA assesses policies, plans, and programmes upstream of projects. India has project-level EIA law but no standalone SEA statute.
 
 ---
 

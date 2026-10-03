@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 2 — Indus Valley Civilization (Harappan Civilization)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -30,11 +28,7 @@ hide:
 | Cow on seals | Unicorn / bull on seals | Cow **absent** vs common seal animals | गाय / एकशृंगी–वृषभ |
 | Sohgaura | Chanhudaro | Mauryan copper-plate village (Gorakhpur) vs Harappan craft town (Sindh) | सोहगौरा / चन्हूदड़ो |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Discoverer / excavator ↔ site
 
@@ -189,18 +183,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Indus Valley Civilization is a Bronze Age urban culture. The Mature phase is about 2600–1900 BCE. Early is roughly 3300–2600 BCE and Late about 1900–1300 BCE.
-- **Exam Anchor:** It is also called Harappan after the first excavated site. The economy type in match-lists is Urban, not pastoral. Pastoral belongs to the Rigvedic age.
+- **Exam Anchor:** 2021: Dholavira → UNESCO World Heritage Site.
+- **Exam Anchor:** 2018: Sanauli chariot burials (ASI).
+- **Exam Anchor:** 2026: Rakhigarhi skeletons to AnSI (Kolkata) and BSIP Lucknow for DNA / facial reconstruction; ASI 3-year excavation.
+- **Exam Anchor:** Budget 2026: 15 archaeological sites as experiential destinations, including Lothal and Rakhigarhi (राखीगढ़ी).
 - **Exam Anchor:** Charles Masson noticed Harappa ruins in 1826. Daya Ram Sahni excavated Harappa in 1921. R.D. Banerji excavated Mohenjo-daro in 1922. John Marshall announced the civilization in 1924.
-- **Exam Anchor:** Geographic extremes are Sutkagen-dor (west), Alamgirpur (आलमगीरपुर) in Meerut, UP (east), Manda (मांडा) on the Chenab in Jammu (north), and Daimabad in Maharashtra (south).
-- **Exam Anchor:** Uttar Pradesh Harappan sites are Alamgirpur (Meerut), Hulas (हुलास) (Saharanpur), and Mandi (मंडी) (Muzaffarnagar). Rakhigarhi is in Hisar, Haryana, not Uttar Pradesh.
 - **Exam Anchor:** Alamgirpur marks the eastern boundary of Harappan culture. Do not give that role to Rakhigarhi or Manda.
 - **Exam Anchor:** Sanauli / Sinauli (सनौली) in Baghpat, Uttar Pradesh (ASI, D.V. Sharma & S.K. Manjul, 2018), is a Late Harappan / Copper Hoard necropolis with wooden-wheel chariots, copper-antenna swords, and coffined burials (~2000–1800 BCE). It is not a Mature grid-city with a Great Bath.
-- **Exam Anchor:** The Great Bath is at Mohenjo-daro (मोहनजोदड़ो). The famous dockyard (गोदीबाड़ा) is at Lothal (Gujarat), excavated by S.R. Rao. Boat evidence is linked with Mohenjo-daro and Lothal.
-
-</details>
+- **Exam Anchor:** Dholavira (धोलावीरा) in Gujarat is known for water reservoirs, a three-part town plan (citadel, middle town, lower town), and a large signboard. UNESCO listed it in 2021.
 
 ---
 

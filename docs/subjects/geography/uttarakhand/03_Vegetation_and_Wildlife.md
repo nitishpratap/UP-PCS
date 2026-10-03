@@ -37,7 +37,8 @@
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Forest richness of Uttarakhand is explained primarily by **topography and climate** packing many belts into a short horizontal distance.
 2. Altitude stack: foothill **sal** → **chir** → oak–rhododendron → **deodar / fir** → alpine **birch–juniper** → **bugyal**.
@@ -64,9 +65,10 @@
 23. Swapping Askot and Binsar districts loses sanctuary–district match codes.
 24. Protected-area size crowns and Ramsar detail live mainly in the Environment UK parks chapter; this card keeps vegetation belts, products, and district–sanctuary pairs.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct |
 |------|------|
@@ -79,7 +81,7 @@
 | Deodar vs chir height | Deodar temperate **1500–2500 m**; chir sub-tropical pine lower (**~900–2000 m**) |
 | Birch location | **Himalayas** — not Nilgiris / Aravallis / Vindhyas |
 
----
+</details>
 
 ## 3.1 Vegetation belts
 

@@ -25,7 +25,8 @@ Microbiology: Major Groups (Bacteria, Viruses, Fungi, Protozoa) | Discovery of B
 
 ---
 
-## Consolidated — 39 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 39 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **The Four Microbial Groups**:
 2. **Bacterial Morphology & Gram Staining**:
@@ -67,8 +68,10 @@ Microbiology: Major Groups (Bacteria, Viruses, Fungi, Protozoa) | Discovery of B
 38. **Oceanic Primary Producers**:
 39. **Biological Unity of the Human Species**:
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Fact |
 |-----------|-----------|----------------------------------|
@@ -96,7 +99,7 @@ Microbiology: Major Groups (Bacteria, Viruses, Fungi, Protozoa) | Discovery of B
 | **Varsha (Monsoon)** | **Shishira (Winter)** | Sowing of Kharif crops, monsoon rains, mosquito breeding vs biting cold, morning frost/fog, growth of winter wheat. |
 | **National Science Day (28 Feb)** | **World Environment Day (5 June)** | Celebrates Raman Effect discovery (1928) vs commemorates 1972 Stockholm Conference on Human Environment. |
 
----
+</details>
 
 ## Must-Score Drill — Microbes, Waste, Institutes & Seasons
 

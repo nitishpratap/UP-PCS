@@ -11,17 +11,16 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 7 — Indian Theatre & Performing Arts</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **Natyashastra** (नाट्यशास्त्र) by **Bharata Muni** (भरत मुनि) (about **200 BCE–200 CE**) codifies drama with about **10** rupaka (रूपक), **9** rasa (रस), and four abhinaya (अभिनय).
-2. **Abhinavabharati** (अभिनवभारती) is Abhinavagupta’s (अभिनवगुप्त) commentary on Natyashastra. **Dasharupaka** (दशरूपक) is Dhananjaya’s (धनंजय) later summary of play types.
-3. **Ashvaghosha** (अश्वघोष) is often tagged with the earliest Sanskrit play tradition. **Bhasa** (भास) left about **13** plays. **Kalidasa** (कालिदास) wrote **three** dramas.
-4. **Shudraka** (शूद्रक) wrote *Mrichchhakatika* (मृच्छकटिकम्). **Vishakhadatta** (विशाखदत्त) wrote *Mudrarakshasa* (मुद्राराक्षस). **Bhavabhuti** (भवभूति) wrote *Uttararamacharita* (उत्तररामचरित). King **Harsha** (हर्ष) wrote *Ratnavali* (रत्नावली).
-5. *Shringara Shataka* (शृंगार शतक) is by **Bhartrihari** (भर्तृहरि), not Kalidasa. Do not park poem titles inside the drama list.
-6. **Yavanika** (यवनिका) is the stage curtain. **Nepathya** (नेपथ्य) is the backstage dressing room. **Sutradhara** (सूत्रधार) is the director and narrator-presenter.
-7. The oldest rock-cut theatre in India is **Sitabenga** (सीताबेंगा) at Ramgarh in Chhattisgarh. Neighbouring **Jogimara** (जोगीमारा) is noted for early frescoes, not theatrical architecture.
-8. Kerala temple theatre houses are called **koothambalam** (कूथम्बलम). Living Sanskrit theatre is **Koodiyattam** (कूड़ियाट्टम्) of the Chakyar (चाक्यार) tradition with the **mizhavu** (मिझावु) drum.
+1. **Koodiyattam** (कूड़ियाट्टम्) was proclaimed a UNESCO masterpiece in **2001** and entered the Representative List in **2008**.
+2. **Ramlila** (रामलीला) entered UNESCO ICH in **2008**.
+3. **Mudiyettu** (मुडियेट्टु) of Kerala entered UNESCO ICH in **2010**. It is ritual theatre, not Kathakali.
+4. **Natyashastra** (नाट्यशास्त्र) by **Bharata Muni** (भरत मुनि) (about **200 BCE–200 CE**) codifies drama with about **10** rupaka (रूपक), **9** rasa (रस), and four abhinaya (अभिनय).
+5. **Abhinavabharati** (अभिनवभारती) is Abhinavagupta’s (अभिनवगुप्त) commentary on Natyashastra. **Dasharupaka** (दशरूपक) is Dhananjaya’s (धनंजय) later summary of play types.
+6. **Ashvaghosha** (अश्वघोष) is often tagged with the earliest Sanskrit play tradition. **Bhasa** (भास) left about **13** plays. **Kalidasa** (कालिदास) wrote **three** dramas.
+7. **Shudraka** (शूद्रक) wrote *Mrichchhakatika* (मृच्छकटिकम्). **Vishakhadatta** (विशाखदत्त) wrote *Mudrarakshasa* (मुद्राराक्षस). **Bhavabhuti** (भवभूति) wrote *Uttararamacharita* (उत्तररामचरित). King **Harsha** (हर्ष) wrote *Ratnavali* (रत्नावली).
+8. **Yavanika** (यवनिका) is the stage curtain. **Nepathya** (नेपथ्य) is the backstage dressing room. **Sutradhara** (सूत्रधार) is the director and narrator-presenter.
 9. **Koodiyattam** is UNESCO living Sanskrit theatre (proclaimed **2001**, list **2008**). It is theatre, not a ninth SNA classical dance.
 10. **Nautanki** (नौटंकी) is the high-yield **UP** folk opera, named in the *Ain-i-Akbari*, with **Kanpur** and **Lucknow** schools and the **nagara** (नगाड़ा) drum.
 11. **Ramlila** (रामलीला) of Ramnagar–Varanasi / Braj is UNESCO **2008**. **Raslila** (रासलीला) is the Braj Krishna folk play, not Manipuri classical Ras Lila.
@@ -30,42 +29,49 @@ hide:
 14. **Bhaona** (भाओना) stages **Ankiya Nat** (अंकिया नाट) in the satras of Majuli, Assam. **Ramman** (रम्माण) is the sacred masked ritual theatre of Uttarakhand. **Powada** (पोवाड़ा) belongs to Maharashtra. **Burrakatha** (बुराकथा) belongs to Andhra Pradesh.
 15. **Kathputli** (कठपुतली) of Rajasthan is string marionette, often without carved legs. **Gulabo–Sitabo** (गुलाबो-सीताबो) of **Lucknow** are glove comic puppets.
 16. **Kundhei** (कुंधेई) is Odisha string puppetry. **Tholu Bommalata** (तोलू बोम्मलता) of Andhra Pradesh and **Ravana Chhaya** (रावण छाया) of Odisha are shadow forms.
-17. The musical drama **Indra Sabha** (इंद्र सभा), composed by **Agha Hasan Amanat** (आगा हसन अमानत) and staged at **Lucknow in 1853** under Wajid Ali Shah, marks the dawn of modern operatic theatre in Awadh.
-18. **Bidesiya** (बिदेसिया) is a migration-themed folk play of the Bhojpuri belt of eastern Uttar Pradesh and western Bihar. In Banaras, **Bhartendu Harishchandra** (भारतेन्दु हरिश्चंद्र) laid the foundation of modern Hindi drama.
-19. The Indian People's Theatre Association (**IPTA**) was established in **1943**. The **National School of Drama (NSD)** was founded at New Delhi in **1959**, and was shaped decisively under the legendary directorship of **Ebrahim Alkazi**.
-20. **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) (**1952**) covers music, dance, **and theatre**. It is not a dance-only body.
-21. Sanskrit plays as a rule **end well**. Stock figures are **nayaka** (नायक), **nayika** (नायिका), and **vidushaka** (विदूषक). There is no Greek-style tragedy as the default form.
-22. **Nataka** (नाटक) is a mythic heroic play type. **Prakarana** (प्रकरण) invents a social plot. Do not confuse **natya** (नाट्य, drama) with **nritta** (नृत्त, pure dance).
-23. UNESCO Intangible Cultural Heritage performing arts elements include **Koodiyattam** Sanskrit theatre (**2008**), the traditional **Ramlila** (**2008**), and **Mudiyettu** (मुडियेट्टु) ritual drama (**2010**).
-24. These are **not** UP: Kathputli (Rajasthan), Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), and Ramman (Uttarakhand).
+17. **Bidesiya** (बिदेसिया) is a migration-themed folk play of the Bhojpuri belt of eastern Uttar Pradesh and western Bihar. In Banaras, **Bhartendu Harishchandra** (भारतेन्दु हरिश्चंद्र) laid the foundation of modern Hindi drama.
+18. **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) (**1952**) covers music, dance, **and theatre**. It is not a dance-only body.
+19. **Nataka** (नाटक) is a mythic heroic play type. **Prakarana** (प्रकरण) invents a social plot. Do not confuse **natya** (नाट्य, drama) with **nritta** (नृत्त, pure dance).
+20. **Indra Sabha**, composed by **Agha Hasan Amanat** and performed at **Lucknow in 1853**, is the milestone Urdu-Awadhi musical play patronized by the court of Awadh.
+21. **Badal Sircar** is linked to Third Theatre (street, no proscenium).
+22. **Nautanki** (नौटंकी) belongs to **Uttar Pradesh** (उत्तर प्रदेश). It is folk opera and an offshoot of Swang. It is named in **Ain-i-Akbari**.
+23. **Ramlila** (रामलीला) belongs to **UP** (Ramnagar–Varanasi, Braj). It is for Dussehra and is UNESCO **2008** (proclaimed 2005). Traditionally men play Sita too.
+24. **Raslila** (रासलीला) is the **Braj / Mathura–Vrindavan** Krishna play. Manipuri Ras Lila is classical dance of Manipur, not this Braj folk play.
+25. **Swang** (स्वांग) belongs to Haryana, western **UP**, and Rajasthan. It is satire. Men play women.
+26. **Jatra** (यात्रा) belongs to Bengal and Odisha. It is open-air, and Chaitanya used it for Krishna-bhakti. The Odisha street variant is **Sahi Jatra** (साही यात्रा).
+27. **Tamasha** (तमाशा) belongs to Maharashtra. It uses **Lavani** (लावणी). **Women even play male roles** (opposite of Swang).
+28. **Yakshagana** (यक्षगान) belongs to coastal **Karnataka**. It is all-night, on Vijayanagara court soil, and in Kannada.
+29. **Bhavai** (भवई) belongs to Gujarat (Kutch–Kathiawar). It uses vesha/swanga skits. The sutradhara is called **Nayaka**.
+30. **Bhand Pather** (भांड पाथर) belongs to Kashmir. It is satire. Muslim performers tell secular stories.
+31. **Maach** (माच) belongs to Malwa / Ujjain, MP. Couplets are called *rangat doha*.
+32. **Therukoothu** (तेरुक्कूत्तु) is Tamil Nadu street theatre.
+33. **Dashavatar** (दशावतार) belongs to Konkan (Sindhudurg–Goa). It presents ten Vishnu avatars.
+34. **Ankiya Nat** (अंकिया नाट) belongs to Assam and is linked to **Sankaradeva** (शंकरदेव). It is one-act and uses masks. Musicians are Gayan–Bayan (khol).
+35. **Bhaona** (भाओना) is the dramatic staging of Srimanta Sankaradeva's Ankiya Nat, traditionally preserved and enacted in the Vaishnavite satras of **Majuli Island** in Assam.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Nataka | Prakarana | Mythic heroic play vs invented social plot | नाटक / प्रकरण |
-| Natya | Nritta | Drama-story vs pure dance | नाट्य / नृत्त |
-| Nautanki | Tamasha | **UP** folk opera vs Maharashtra + lavani | नौटंकी / तमाशा |
-| Ramlila (Braj) | Koodiyattam | Hindi Ramayana folk vs Kerala Sanskrit temple | रामलीला / कूड़ियाट्टम् |
-| Koodiyattam | Kathakali | Sanskrit theatre vs Kerala dance-drama makeup | कूड़ियाट्टम् / कथकली |
-| Yavanika | Nepathya | Curtain vs backstage | यवनिका / नेपथ्य |
-| Kathputli | Shadow puppet | Rajasthan string marionette vs leather silhouette | कठपुतली / छाया |
-| Kalidasa | Bhavabhuti | Shakuntala trio vs **Uttararamacharita** | कालिदास / भवभूति |
-| Rasa | Bhava | Spectator flavour vs actor’s emotion | रस / भाव |
-| String | Glove | Kathputli threads vs Gulabo-Sitabo hand-puppets | सूत्र / दस्ताना |
-| Yakshagana | Koodiyattam | Karnataka Kannada dance-drama vs Kerala Sanskrit temple theatre | यक्षगान / कूड़ियाट्टम् |
-| Ramman | Ramlila | Uttarakhand masked ritual vs UP Ramayana folk play | रम्माण / रामलीला |
-| Mudiyettu | Kathakali | Kerala ritual theatre vs Kerala dance-drama | मुडियेट्टु / कथकली |
-| Tholu Bommalata | Ravana Chhaya | Andhra coloured leather vs Odisha dark deer-skin shadow | तोलू बोम्मलता / रावण छाया |
-| Bidesiya | Nautanki | Bhojpuri migrant play vs UP folk opera | बिदेसिया / नौटंकी |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. **Nautanki** belongs to **UP** (Kanpur and Lucknow). Tamasha belongs to Maharashtra. Jatra belongs to Bengal.
+2. **Yakshagana** belongs to **Karnataka**, not Kerala.
+3. **Koodiyattam** is **Sanskrit theatre**, not Kathakali and not SNA dance no. 9.
+4. Kalidasa (कालिदास) dramas are **three**. *Uttararamacharita* (उत्तररामचरित) is by **Bhavabhuti** (भवभूति).
+5. *Mrichchhakatika* (मृच्छकटिकम्) is by **Shudraka** (शूद्रक). *Mudrarakshasa* (मुद्राराक्षस) is by **Vishakhadatta** (विशाखदत्त). *Sariputraprakarana* (शारिपुत्रप्रकरण) is by **Ashvaghosha** (अश्वघोष).
+6. *Shringara Shataka* (शृंगार शतक) is not by Kalidasa (**Bhartrihari** (भर्तृहरि)).
+7. **Kathputli** is **Rajasthan string**, not Lucknow. **Kundhei** is **Odisha string**.
+8. **Gulabo-Sitabo** is **Lucknow glove**, not Kathputli.
+9. In shadow puppetry, Tholu belongs to AP. Ravana Chhaya belongs to Odisha. Tolpavakoothu belongs to Kerala.
+10. Yavanika is the curtain. Nepathya is backstage.
+11. IPTA is **1943**. NSD is **1959**. SNA is **1952**.
+12. Ramlila is UNESCO folk **theatre**, not a classical dance. **Ramman** belongs to **Uttarakhand**, not UP.
+13. Koothambalam is the Kerala temple stage, not NSD Delhi.
+14. Khayal singing is not Khyal, the Rajasthan folk play.
+15. In Swang, men play women. In Tamasha, women may play men.
+16. **Indra Sabha** is by Amanat, Lucknow, not Kalidasa.
+17. Sitabenga is the amphitheatre (CG). Jogimara next door is the painting fact.
+18. Learn all ten rupakas. Do not stop at Nataka/Prakarana only.
 
 
 ---

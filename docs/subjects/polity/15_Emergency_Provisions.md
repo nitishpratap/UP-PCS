@@ -33,7 +33,8 @@
 ---
 
 
-## Consolidated — 26 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 26 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Emergency Provisions sit in **Part XVIII** (**Articles 352–360**). There are three proclamations: **National Emergency (352)**, **President’s Rule (356)**, and **Financial Emergency (360)**.
 2. National Emergency under **352** may be proclaimed for **war**, **external aggression**, or **armed rebellion**. The **44th Amendment** replaced the old phrase **“internal disturbance”** with **armed rebellion**.
@@ -62,9 +63,10 @@
 25. Cabinet written advice, armed rebellion wording, unsuspendable 20/21, and emergency nexus are the four (चातुर्याम) **44th Amendment** knives every prelims answer should recall together.
 26. Punchhi (पुंछी आयोग) later suggested **localising** 356 rather than dismissing a whole State government for a local breakdown — useful for mains, while *Bommai* remains the judicial fact for prelims.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
@@ -78,7 +80,7 @@
 | **National Emergency** | **State Emergency** | Textbook name for **352** | Textbook name for **356** (the Constitution never uses that phrase) |
 | **External 352** | **Internal 352** | War / external aggression (1962, 1971) | Armed rebellion (1975 was still “internal disturbance”) |
 
----
+</details>
 
 ## Must-score facts — 352, 356, 360
 

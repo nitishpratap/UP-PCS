@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Daily Read — High-Yield Revision Facts (Indian Art & Culture)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Tamil** (Declared in **2004**) — Conferred status as India's first Classical Language.
 2. **Sanskrit** (Declared in **2005**).
@@ -49,8 +48,6 @@ hide:
 33. **Nauchandi Mela (Meerut):** A celebrated symbol of communal fraternity held after Holi, where pilgrims pay homage concurrently to the shrine of Nav Chandi Devi and the dargah of Sufi saint Hazrat Bale Miyan.
 34. **Shakumbhari Devi Mela (Saharanpur):** Organized twice every year during the auspicious Chaitra and Ashwin Navratris at the historic Shakumbhari Devi Peeth in the Shivalik foothills.
 35. **Devi Patan Mela (Tulsipur, Balrampur):** A major annual fair held at the sacred Devi Patan Shaktipeeth, deeply revered across the Indo-Nepal Terai region.
-
-</details>
 
 
 ---

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 1 — Advent of Europeans</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -38,11 +36,7 @@ hide:
 | Farman 1717 | Diwani 1765 | Farrukhsiyar trade privilege vs revenue grant after Buxar | फ़रमान 1717 / दीवानी 1765 |
 | Swally 1612 | Surat factory 1613 | Thomas Best’s naval win vs first permanent English factory | स्वाली / सूरत |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Must-Know European Forts
 
@@ -600,18 +594,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Vasco da Gama reached Calicut on 20 May 1498, guided by the Gujarati navigator Ahmad ibn Majid. He opened the all-sea Atlantic route for Portugal. He did not capture Goa (गोवा).
-- **Exam Anchor:** Black pepper (काली मिर्च) profits from that voyage (about 60x) pulled more Portuguese merchants to India. Portuguese also introduced the printing press (Goa, 1556), tobacco, potato, tomato, cashew nut, papaya, and chili to India.
 - **Exam Anchor:** Francisco de Almeida (अल्मेदा) was the first Portuguese Viceroy (वायसराय) in 1505. His Blue Water Policy meant control of sea lanes, not conquest of the Deccan (दक्कन) interior.
 - **Exam Anchor:** Afonso de Albuquerque captured Goa in 1510 from Yusuf Adil Shah (यूसुफ आदिल) of Bijapur (बीजापुर) and made it the capital of Estado da Índia. Do not swap him with Almeida as the first Viceroy (कैनिंग). He encouraged Portuguese men to marry Indian women (casados).
 - **Exam Anchor:** Nuno da Cunha shifted the Portuguese HQ from Cochin to Goa in 1530 and acquired Bassein (1534) and Diu (1535).
-- **Exam Anchor:** The first European fort in India was built by Albuquerque at Cochin in 1503 (before he became Governor). First Portuguese factory (फैक्टरी) was at Calicut in 1500 (Cabral’s voyage).
-- **Exam Anchor:** A cartaze was a Portuguese sea-pass for Indian Ocean ships (नावाध्यक्ष). A Mughal farman was a trade (पण्याध्यक्ष) grant on land — do not swap the two.
-- **Exam Anchor:** Arrival order in India: Portuguese → Dutch → English → Danes → French. Portuguese came first (1498) and left last (1961, Goa liberation).
-
-</details>
+- **Exam Anchor:** William Hawkins (हॉकिन्स) reached Jahangir (जहाँगीर)’s court in 1608 as an EIC captain who knew Turkish. Sir Thomas Roe (रो) was James I’s ambassador in 1615–19. Hawkins did not come in 1611 as James I’s envoy.
+- **Exam Anchor:** Francis Day obtained the Madras grant in 1639; Fort St George followed in 1640. Bombay came as Portuguese dowry in 1661–62 and was leased to the EIC in 1668 for £10 a year.
+- **Exam Anchor:** Job Charnock settled at Sutanuti (Calcutta) in 1690 (Fort William). Shah Jahan (शाहजहाँ) destroyed the Portuguese base at Hooghly (हुगली) in 1632 (piracy base in the Bay of Bengal).
+- **Exam Anchor:** First Carnatic War (1746–48) — French lead Dupleix (डुप्ले)/La Bourdonnais; sparked by English seizure of French ships (Austrian Succession (उत्तराधिकार क्रम) context). Ended by Aix-la-Chapelle 1748 (Madras returned).
+- **Exam Anchor:** Second Carnatic War (1749–54) — Sparked by dynastic struggles in Hyderabad (हैदराबाद) and Carnatic. Ambur 1749, Clive (क्लाइव)’s Arcot 1751; Dupleix recalled; ends with Treaty of Pondicherry 1754.
 
 ---
 

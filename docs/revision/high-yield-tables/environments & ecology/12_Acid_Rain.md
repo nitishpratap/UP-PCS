@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 12 — Acid Rain (अम्ल वर्षा)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Gothenburg Protocol (1999)** | **Montreal Protocol (1987)** | UNECE agreement under CLRTAP targeting multi-pollutant abatement of acidification, eutrophication, and ground-level ozone (SO₂, NOx, VOCs, NH₃) vs UNEP treaty targeting the global phase-out of ozone-depleting substances | गोथेनबर्ग प्रोटोकॉल (अम्लीकरण नियंत्रण) / मॉन्ट्रियल प्रोटोकॉल (ओजोन) |
 | **Taj Trapezium Zone (TTZ)** | **Eco-Sensitive Zone (ESZ)** | Specifically demarcated ~10,400 km² protective geographical zone covering Agra, Firozabad, Mathura, and Bharatpur to safeguard the Taj Mahal from industrial air pollution vs buffer belt up to 10 km declared around National Parks under EPA 1986 | ताज ट्रपेज़ियम ज़ोन (10,400 वर्ग किमी) / पारिस्थितिक संवेदनशील क्षेत्र |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Chemistry
 
@@ -125,18 +119,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Acid rain means wet or dry acidic deposition with pH below 5.6.
-- **Exam Anchor:** Normal unpolluted rain is already about pH 5.6 because dissolved CO₂ forms weak carbonic acid — it is not pH 7.
 - **Exam Anchor:** Wet deposition is acids in rain, snow, or fog. Dry deposition is acidic gases and particles settling without rain.
 - **Exam Anchor:** SO₂ oxidises to H₂SO₄ (sulphuric acid), mainly from coal TPPs, smelters, and refineries.
 - **Exam Anchor:** NOx oxidises to HNO₃ (nitric acid), mainly from vehicles and high-temperature combustion.
-- **Exam Anchor:** CO₂ forms only weak H₂CO₃ and sets the 5.6 baseline; it is not the main culprit of severe acid rain.
-- **Exam Anchor:** On the pH scale, acidic is <7, basic is >7, neutral is 7. Each step down multiplies H⁺ by 10.
-- **Exam Anchor:** Freshwater below about pH 5 stresses fish and can release toxic Al³⁺.
-
-</details>
+- **Exam Anchor:** Lichens die in high SO₂ and act as pollution bio-indicators.
+- **Exam Anchor:** Mathura (मथुरा) refinery is a classic SO₂ source in the Taj Trapezium narrative.
+- **Exam Anchor:** Acid rain is precipitation or atmospheric deposition with pH below 5.6, mainly from sulphuric acid (H₂SO₄) and nitric acid (HNO₃) (नाइट्रिक अम्ल).
+- **Exam Anchor:** Normal unpolluted rain has pH about 5.6, not 7, because atmospheric CO₂ forms weak carbonic acid (H₂CO₃).
 
 ---
 

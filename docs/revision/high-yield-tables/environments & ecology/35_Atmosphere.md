@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 35 — Atmosphere</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Insolation** | **Terrestrial Radiation** | Shortwave electromagnetic solar radiation received by Earth vs outgoing longwave infrared radiation re-radiated by Earth's heated surface | सूर्यताप (लघुतरंग) / भौमिक विकिरण (दीर्घतरंग) |
 | **Good Ozone** | **Bad Ozone** | Naturally occurring stratospheric ozone shielding Earth from solar UV-B vs ground-level tropospheric ozone acting as secondary pollutant and respiratory irritant | अच्छा ओजोन (समतापमंडल) / बुरा ओजोन (क्षोभमंडल) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Structure
 
@@ -115,18 +109,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** From bottom to top the layers run Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere.
-- **Exam Anchor:** The troposphere (क्षोभमंडल) holds weather. Temperature falls with height in this layer.
-- **Exam Anchor:** The stratosphere (समतापमंडल) holds the ozone layer. Temperature rises with height here.
-- **Exam Anchor:** The mesosphere is the coldest layer and is where most meteors burn.
-- **Exam Anchor:** The thermosphere is very hot but thin. Auroras, the ISS path, and much of the ionosphere sit here.
-- **Exam Anchor:** The exosphere is the outermost fringe and merges into space.
-- **Exam Anchor:** Dry air composition is about N₂ 78%, O₂ 21%, argon ~0.93%, and CO₂ ~0.04%.
 - **Exam Anchor:** Nitrogen gas (N₂) is not a greenhouse gas.Nitrous oxide (N₂O) is a greenhouse gas. Do not confuse the two.
-
-</details>
+- **Exam Anchor:** Argon is not a greenhouse gas. Oxygen and helium are also not greenhouse gases.
+- **Exam Anchor:** Dry air near the surface: Nitrogen ~78.08%, Oxygen ~20.95%, Argon ~0.93%, CO₂ ~0.04%.
+- **Exam Anchor:** Permanent gases (N₂, O₂, Ar) stay roughly constant in the homosphere.
+- **Exam Anchor:** Variable gases include water vapour (0–4%), CO₂, CH₄, O₃, and aerosols.
+- **Exam Anchor:** N₂ is not a greenhouse gas; N₂O is. Do not confuse N₂ with nitrogen oxides or nitrous oxide.
+- **Exam Anchor:** Argon is not a GHG (also covered in Topic 34 greenhouse-gas questions).
+- **Exam Anchor:** Water vapour is the strongest natural tropospheric greenhouse gas by volume, but mainly a climate feedback.
 
 ---
 

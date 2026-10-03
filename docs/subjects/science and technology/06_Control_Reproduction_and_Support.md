@@ -24,7 +24,8 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 
 ---
 
-## Consolidated — 31 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 31 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The structural and functional unit of the nervous system is the **Neuron**; adult neurons reside permanently in the quiescent $G_0$ phase of the cell cycle and **do not divide** (lack active centrioles).
 2. A typical neuron consists of a **Cell Body (Soma/Cyton)** containing Nissl's granules, short branched receptive **Dendrites**, and a single long conducting **Axon** terminating in synaptic knobs; myelin sheath in the peripheral nervous system is secreted by **Schwann cells**.
@@ -58,8 +59,10 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 30. **Connective Support Tissues: Tendon vs Ligament**:
 31. **Muscular Physiology & Contraction**:
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -76,7 +79,7 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 | **Sympathetic System** | **Parasympathetic System**| "Fight or Flight" (dilates pupil, speeds heart, stops gut) vs "Rest and Digest" (constricts pupil, slows heart, aids gut) | अनुकंपी / परानुकंपी तंत्र |
 | **Corpus Luteum** | **Graafian Follicle** | Endocrine yellow body secreting progesterone after ovulation vs ovarian follicle maturing egg and secreting estrogen before ovulation | कॉर्पस ल्यूटियम / ग्रैफ़ियन फॉलिकल |
 
----
+</details>
 
 ## Must-Score Drill — Glands, Lenses & Bone Counts
 

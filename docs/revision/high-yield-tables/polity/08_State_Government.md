@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 8 — State Government</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -32,11 +30,7 @@ hide:
 | LC Chairman | Governor as automatic Chair | Council elects its **own** Chairman from members | परिषद सभापति |
 | One Governor, one State | 7th Amd proviso | Same person **may** govern two or more States | एक व्यक्ति दो राज्य |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Governor
 
@@ -296,18 +290,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** Ongoing: Six bicameral States: AP, Bihar, Karnataka, MH, Telangana, UP (match / how-many).
+- **Exam Anchor:** 2019: J&K Legislative Council abolished with the State (Art. 169 / reorganisation trap). J&K UT with legislature + Ladakh (लद्दाख) UT without; both under Lieutenant Governors appointed by the President.
+- **Exam Anchor:** First LGs: J&K UT — Girish Chandra Murmu; Ladakh — Radha Krishna (कृष्णा) Mathur (31 Oct 2019).
+- **Exam Anchor:** Convention: Bommai floor-test still the fact in every hung-house controversy (discretion vs majority).
+- **Exam Anchor:** First woman Governor: Sarojini Naidu (UP / United Provinces, 15 Aug 1947 – 2 Mar 1949); National Women’s Day 13 February (her birth date).
+- **Exam Anchor:** Rajasthan: Rajpramukh abolished on States Reorganisation Commission recommendation via 7th Amendment (from 1 Nov 1956); first Governor Gurumukh Nihal Singh appointed 25 Oct 1956 (not 1 Nov).
 - **Exam Anchor:** Part VI covers the State Executive: Governor + Chief Minister + Council of Ministers + Advocate General. The Governor is the nominal head; the CoM headed by the CM is the real executive.
 - **Exam Anchor:** Article 153 creates the office of Governor. The 7th Amendment proviso allows the same person to be Governor of two or more States.
-- **Exam Anchor:** Article 155 is appointment by the President — not removal. Removal / tenure sits under Article 156 (five-year outer term during the pleasure of the President; no impeachment).
-- **Exam Anchor:** Qualifications (Article 157): citizen and completed 35 years. Oath (Article 159) is before the Chief Justice of the High Court.
-- **Exam Anchor:** Article 154 vests State executive power in the Governor. Article 162 only states the extent of that power — do not call 162 the vesting article.
-- **Exam Anchor:** Article 163: the Governor acts on CoM aid and advice except where the Constitution gives discretion. Dual role: constitutional head of the State and the Centre’s agent.
-- **Exam Anchor:** Classic discretionary situations: choosing a CM in a hung House (त्रिशंकु सदन); dismissing a CoM that has lost the House; dissolving the Assembly; reserving a Bill under Article 200; recommending Article 356 (अनुच्छेद 356); and certain Article 371 special responsibilities.
-- **Exam Anchor:** Bommai fact: majority is tested on the House floor, not in Raj Bhavan by private claim alone.
-
-</details>
 
 ---
 

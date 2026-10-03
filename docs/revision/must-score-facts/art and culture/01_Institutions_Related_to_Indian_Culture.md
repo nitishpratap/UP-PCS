@@ -11,68 +11,55 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Institutions Related to Indian Culture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The **Asiatic Society of Bengal** was founded in **1784** at Calcutta by **Sir William Jones. Warren Hastings** declined the Presidentship in Jones’s favour.
+1. **Sachin Chaturvedi** assumed charge as Vice-Chancellor of Nalanda University in **May 2025**.
 2. **Fort William College** was set up in **1800** by **Lord Wellesley** to train Company officers in Indian languages.
 3. **Sanskrit College, Calcutta** opened in **1824. Benares Sanskrit College** was founded by **Jonathan Duncan** in **1791** and must not be confused with the Asiatic Society.
-4. The **Bhandarkar Oriental Research Institute** at Pune was founded in **1917** and is known for critical editions such as the Mahabharata.
-5. A **gurukul** (गुरुकुल) is a residential guru–shishya school. **Guru dakshina** (गुरु दक्षिणा) is an end-of-study offering, not a monthly fee.
-6. Classical learning counted **18 Vidyas** and **64 Kalas**. The ashrama order is **Brahmacharya** (ब्रह्मचर्य) → **Grihastha** (गृहस्थ) → **Vanaprastha** (वानप्रस्थ) → **Sannyasa** (संन्यास).
-7. **Kangri Gurukul** at Haridwar was founded in **1902** by **Swami Shraddhanand** in the Dayananda / Arya Samaj line.
-8. **Nalanda** (नालंदा) mahavihara in Bihar flourished under Pala patronage. **Hiuen Tsang** (ह्वेनसांग) studied there. It was destroyed around **1193** by Bakhtiyar Khilji. The ruins are UNESCO **2016** under the **ASI**.
-9. The **new Nalanda University** is under the **MEA** by the Act of **2010**, with campus at **Rajgir**. It is not a Culture Ministry body.
-10. **Taxila (Takshashila)** lay in Gandhara, now in **Pakistan**. It was a multi-teacher city linked with **Panini** (पाणिनि) and **Chanakya** (चाणक्य), and is UNESCO **1980**.
-11. **Vikramashila** (विक्रमशिला) at Bhagalpur was founded by Pala **Dharmapala. Atisha** taught there. It fell around **1203** to Khilji and is **not** a separate World Heritage site.
-12. The **Indian Museum**, Kolkata (**1814**) is India’s oldest museum. The **National Museum**, Delhi dates to **1949**.
-13. Landmark museums outside Delhi–Kolkata include **Salar Jung** (Hyderabad, **1951**), **Victoria Memorial** (Kolkata, **1921**), **CSMVS / Prince of Wales** (Mumbai, **1922**), and the **Calico Museum of Textiles** (Ahmedabad, **1949**).
-14. The **Archaeological Survey of India** was founded in **1861** under **Alexander Cunningham**. The **National Archives of India** began in **1891**.
-15. Monument protection runs under the **AMASR Act 1958** (amended **2010**). The **National Monument Authority** regulates a **100 m** prohibited zone and a **200 m** regulated zone around centrally protected monuments.
-16. **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) (**1952**) covers performing arts. **Sahitya Akademi** and **Lalit Kala Akademi** (ललित कला अकादेमी) both date to **1954** for literature and visual arts.
-17. **Sahitya Akademi** awards in **24** languages. **Jnanpith** (ज्ञानपीठ) (**1965**) is a Bharatiya Jnanpith trust prize, not a Sahitya Akademi award.
-18. **IGNCA** and the **Ministry of Culture** date to **1985**. **CCRT** began in **1979**. **NGMA** dates to **1954**. The **National School of Drama (NSD)** was founded in **1959** at New Delhi.
-19. **Kalakshetra** at Chennai, founded by **Rukmini Devi Arundale**, is the premier Bharatanatyam and arts academy. **INTACH** (**1984**) is an **NGO** for heritage conservation, not a Culture ministry akademi.
-20. **ICCR** (Indian Council for Cultural Relations, **1950**) belongs to the **MEA**, not the Culture Ministry.
-21. India has **seven Zonal Cultural Centres** (about **1985–87**) under Culture for folk and tribal promotion. The **North Central ZCC** headquarters is at **Prayagraj** (प्रयागराज).
-22. Important museums in Uttar Pradesh include the **Allahabad Museum** (Prayagraj, **1931**), the State Museum at Lucknow, the Government Museum at Jhansi, and the **Sarnath** (सारनाथ) ASI site museum.
-23. ASI circles for key UP monuments run through **Lucknow** (लखनऊ) and **Agra** (आगरा), covering Sarnath, Kushinagar, Taj, and Fatehpur Sikri.
-24. IVC sites in UP include **Alamgirpur** (आलमगीरपुर), **Mandi** (मंडी), and **Hulas. Rakhigarhi** is in Haryana, not UP.
-25. Lalit Kala has a regional centre at **Lucknow**. IGNCA has a regional centre at **Varanasi** (वाराणसी). **Bhartendu Natya Academy** (Lucknow, **1975**) trains theatre on an NSD-style model.
-26. **HRIDAY** (**2015**) includes **Varanasi. PRASAD** is a **Tourism** ministry scheme, not Culture.
-27. The **National Culture Fund** began in **1996. Ek Bharat Shreshtha Bharat** began in **2015**.
-28. The **National Mission for Manuscripts** (**2003**) was restructured as **Gyan Bharatam** for **2024–31**.
-29. **Odantapuri** and **Somapura** (Paharpur, Bangladesh) are Pala-age Buddhist centres often paired with Nalanda and Vikramashila; Somapura is UNESCO, not a UP site.
-30. The **Raja Rammohun Roy Library Foundation** (Kolkata) and the **National Library** (Kolkata) anchor national library policy under Culture, distinct from the akademis.
-31. **Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)** is Mumbai’s former Prince of Wales Museum. Do not place Salar Jung in Delhi or Mumbai.
-32. Site museums such as **Sarnath** and **Kushinagar** are ASI excavation museums. They are not the same as the National Museum, Delhi.
-33. **ICCR** does cultural diplomacy abroad. The seven **ZCCs** do regional folk outreach inside India. Do not swap MEA vs Culture parentage.
-34. Protected-monument status under AMASR is national legal protection. UNESCO World Heritage listing is a separate international inscription.
+4. **Kangri Gurukul** at Haridwar was founded in **1902** by **Swami Shraddhanand** in the Dayananda / Arya Samaj line.
+5. **Nalanda** (नालंदा) mahavihara in Bihar flourished under Pala patronage. **Hiuen Tsang** (ह्वेनसांग) studied there. It was destroyed around **1193** by Bakhtiyar Khilji. The ruins are UNESCO **2016** under the **ASI**.
+6. **Taxila (Takshashila)** lay in Gandhara, now in **Pakistan**. It was a multi-teacher city linked with **Panini** (पाणिनि) and **Chanakya** (चाणक्य), and is UNESCO **1980**.
+7. **Vikramashila** (विक्रमशिला) at Bhagalpur was founded by Pala **Dharmapala. Atisha** taught there. It fell around **1203** to Khilji and is **not** a separate World Heritage site.
+8. **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) (**1952**) covers performing arts. **Sahitya Akademi** and **Lalit Kala Akademi** (ललित कला अकादेमी) both date to **1954** for literature and visual arts.
+9. **Sahitya Akademi** awards in **24** languages. **Jnanpith** (ज्ञानपीठ) (**1965**) is a Bharatiya Jnanpith trust prize, not a Sahitya Akademi award.
+10. **IGNCA** and the **Ministry of Culture** date to **1985**. **CCRT** began in **1979**. **NGMA** dates to **1954**. The **National School of Drama (NSD)** was founded in **1959** at New Delhi.
+11. **Kalakshetra** at Chennai, founded by **Rukmini Devi Arundale**, is the premier Bharatanatyam and arts academy. **INTACH** (**1984**) is an **NGO** for heritage conservation, not a Culture ministry akademi.
+12. **ICCR** (Indian Council for Cultural Relations, **1950**) belongs to the **MEA**, not the Culture Ministry.
+13. **HRIDAY** (**2015**) includes **Varanasi. PRASAD** is a **Tourism** ministry scheme, not Culture.
+14. **Odantapuri** and **Somapura** (Paharpur, Bangladesh) are Pala-age Buddhist centres often paired with Nalanda and Vikramashila; Somapura is UNESCO, not a UP site.
+15. **Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)** is Mumbai’s former Prince of Wales Museum. Do not place Salar Jung in Delhi or Mumbai.
+16. **ICCR** does cultural diplomacy abroad. The seven **ZCCs** do regional folk outreach inside India. Do not swap MEA vs Culture parentage.
+17. **Gurukul Kangri Vishwavidyalaya** was founded at Haridwar in **1902** by **Dayananda Saraswati** (Arya Samaj). It taught Vedic and modern subjects. Arya Samaj gurukuls spread in the Gangetic belt including **Uttar Pradesh.
+18. **Hiuen Tsang (Xuanzang)** visited in **630–643 CE**. His teacher was **Shilabhadra**. Studies covered logic (**Hetuvidya**), medicine, grammar and Mahayana (plus some Vedas for comparison).
+19. **Alexander** encountered the Taxila kingdom in **326 BCE**. Later **Gandhara Greco-Buddhist art developed here.
+20. **Rabindra Bhavan**, Mandi House, New Delhi, houses **Sangeet Natak Akademi (1952, performing)**, **Sahitya Akademi (1954, letters)** and **Lalit Kala Akademi (1954, visual)**.
+21. **Jnanpith** (first **1965**, Bharatiya Jnanpith **trust**) is a **different** honour. It is not an Akademi prize.
+22. **NGMA** is a museum/gallery of modern art. Lalit Kala is an **academy** (awards, scholarships, triennale).
+23. **BNA** is theatre training, not painting.
+24. **Kathak Sansthan** is Lucknow gharana documentation, not Bharatanatyam.
+25. **NCZCC** HQ is **Prayagraj**, not Lucknow — the planted city swap in many match lists.
+26. **ICCR** is under **MEA**. The new Nalanda University is also under **MEA**. ASI and the akademis are under **Culture**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Indology | Orientalism | Textual/philological study of India vs colonial framing of the “East” | भारतविद्या / प्राच्यवाद |
-| Gurukul | Mahavihara | Residential guru-shishya vs large Buddhist monastic university | गुरुकुल / महाविहार |
-| Taxila | Nalanda | NW multi-teacher city (Pakistan) vs E mahavihara campus (Bihar) | तक्षशिला / नालंदा |
-| ASI ruins Nalanda | New Nalanda Univ. | ASI + UNESCO 2016 vs **MEA**, Act **2010**, Rajgir campus | ASI खंडहर / नालंदा विश्वविद्यालय |
-| ASI | IGNCA | Monument protection vs arts research/documentation | पुरातत्व सर्वेक्षण / कला केंद्र |
-| National Museum | Indian Museum | Delhi **1949** vs Kolkata **1814** (oldest) | राष्ट्रीय / भारतीय संग्रहालय |
-| SNA | Sahitya / Lalit Kala | Performing **1952** vs literature **1954** / visual **1954** | संगीत नाटक / साहित्य / ललित कला |
-| Sahitya Akademi | Jnanpith | Mo Culture academy vs Bharatiya Jnanpith trust **1965** | साहित्य अकादेमी / ज्ञानपीठ |
-| ICCR | Mo Culture bodies | **MEA** cultural diplomacy vs Culture ministry akademis | ICCR = विदेश मंत्रालय |
-| Protected monument | Site museum | AMASR-notified structure vs ASI museum at the excavation | संरक्षित स्मारक / स्थल संग्रहालय |
 
 ---
 
-![Institutions Related to Indian Culture Master Revision Cheat Sheet](images/00_topic01_institutions_overview_cheat_sheet.png)
+## ⚡ Confused Pairs & Common Examiner Traps
 
-</details>
+1. The Asiatic Society founder is **Jones**, not Hastings (Hastings **declined**) and not **Jonathan Duncan**.
+2. The oldest museum is the **Indian Museum Kolkata 1814**, not the National Museum Delhi 1949.
+3. The National Museum is **not** in Kolkata. Salar Jung is **not** in Delhi (**Hyderabad**).
+4. Taxila is in **Pakistan**, not Bihar/UP. The model is **many teachers**, not one campus.
+5. The Nalanda destroyer is **Bakhtiyar Khilji ~1193**, not Iltutmish, Ghazni or Alauddin.
+6. UNESCO Nalanda is **2016**. The Act of **2010** created the **new** university under **MEA** at Rajgir, not the ruins.
+7. Vikramashila is linked to **Dharmapala, Atisha and ~1203**. It is **not** separately WH-listed.
+8. SNA is **1952** performing arts. Sahitya and Lalit Kala are **1954**. Lalit Kala is not literature.
+9. **ICCR** is under **MEA**. The new Nalanda University is also under **MEA**. ASI and the akademis are under **Culture**.
+10. Jnanpith (**1965**, trust) is not the Sahitya Akademi Award.
+11. Guru dakshina is not a monthly fee. 64 Kalas are not 64 Vedas.
+12. INTACH is an **NGO**. NGMA is a **gallery**, not an akademi.
+13. PRASAD is under **Tourism**. EBSB is Culture + Education, launched in **2015**. NCF is **1996**.
+14. North Central ZCC is at **Prayagraj**, not Lucknow.
+15. Rakhigarhi is not in UP (it is in Haryana). UP IVC sites are Alamgirpur, Mandi and Hulas.
 
 
 ---

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 6 — Protected Areas & Conservation</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Ramsar Wetland Site** | **Natural World Heritage Site** | International designation under 1971 Ramsar Convention specifically targeting ecological wise use of waterfowl/wetland habitats vs UNESCO World Heritage designation recognizing universal natural value under 1972 Convention | रामसर आर्द्रभूमि स्थल / प्राकृतिक विश्व धरोहर स्थल |
 | **Core Zone (Biosphere)** | **Transition Zone (Biosphere)** | Legally protected untouched sanctum sanctorum where all human activity except non-destructive research is barred vs outermost open area where local sustainable agriculture, settlements, and economic activities are actively fostered | कोर क्षेत्र (पूर्ण सुरक्षित) / संक्रमण क्षेत्र (सहअस्तित्व) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Protected-area hierarchy — one card
 
@@ -156,18 +150,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Wildlife (Protection) Act, 1972 is India’s main protected-area statute.
-- **Exam Anchor:** Terrestrial WPA strictness runs National Park > Wildlife Sanctuary > Conservation/Community Reserve.
-- **Exam Anchor:** A Wildlife Sanctuary (Section 18) allows limited human use with Chief Wildlife Warden permission.
-- **Exam Anchor:** A National Park (Section 35) is the strictest WPA protected area. Grazing and forestry are largely banned. Boundary change needs a resolution of the State Legislature (not Parliament).
-- **Exam Anchor:** A Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र) follows the UNESCO MAB three-zone model: core (no exploitative use) → buffer (research, education, regulated tourism/grazing) → transition (settlements, cultivation, livelihoods). It has no WPA statutory basis.
-- **Exam Anchor:** India has 18 biosphere reserves (जैवमंडल आरक्षित क्षेत्र); about 12–13 are in the UNESCO network (count drifts with new WNBR listings). The first was Nilgiri (नीलगिरि) (1986). Nokrek is in Meghalaya (मेघालय), not Manipur.
-- **Exam Anchor:** A Conservation Reserve (Section 36A, 2002) is a government/community forest buffer near a protected area.
-- **Exam Anchor:** A Community Reserve (Section 36B, 2002) sits on private or community land with voluntary consent.
-
-</details>
+- **Exam Anchor:** Ramsar (1971) marks wetlands of international importance. India joined in 1982. Uttar Pradesh has 12 Ramsar sites.
+- **Exam Anchor:** Rudrasagar is in Tripura. Sultanpur is in Haryana. Neither is an Uttar Pradesh Ramsar site.
+- **Exam Anchor:** International Tiger Day = 29 July (St Petersburg 2010). M-STrIPES monitors tiger reserves (patrol + ecology (पारिस्थितिकी) GIS tool).
+- **Exam Anchor:** Sathyamangalam TR (TN) is a classic ecological link between Eastern and Western Ghats (पश्चिमी घाट).
+- **Exam Anchor:** UP teaching row: Dudhwa NP / TR, Pilibhit TR, Ranipur TR, 12 Ramsar, Terai corridors, no marine PA, no biosphere reserve inside present UP.
+- **Exam Anchor:** Three UNESCO instruments: World Heritage · Biosphere (MAB / WNBR) · Intangible Cultural Heritage — do not force one site into all three without checking the list.
+- **Exam Anchor:** Nokrek is in Meghalaya (Garo (गारो) Hills; Nokrek peak), not Manipur. Simlipal is in Odisha (ओडिशा). Agasthyamalai spans Kerala and Tamil Nadu (तमिलनाडु) (Neyyar, Peppara, Shendurney WLS + Kalakad–Mundanthurai TR).
+- **Exam Anchor:** Asan (आसन) Conservation Reserve in Uttarakhand is a known example and is also a Ramsar site.
 
 ---
 

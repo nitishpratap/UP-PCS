@@ -15,7 +15,8 @@ Community Development Programme | Etawah (इटावा) Pilot Project | Post-
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Arc after transfer: Independence **15 Aug 1947** → CA last sitting **24 Jan 1950** → Constitution **26 Jan 1950** → Planning Commission **Mar 1950** → CDP **2 Oct 1952** → Andhra **1 Oct 1953** → SRC Act **1 Nov 1956** → NITI **1 Jan 2015**.
 2. About **562** princely states were integrated under **Sardar Patel** and **V.P. Menon**. The **Instrument of Accession** covered only **Defence, External Affairs and Communications**.
@@ -50,9 +51,10 @@ Community Development Programme | Etawah (इटावा) Pilot Project | Post-
 31. **Andhra linguistic agitation — Cause/Course/Result:** Demand for Telugu state → **Potti Sriramulu** fast unto death (**1952**) → Andhra State created **1 Oct 1953**, opening the SRC path.
 32. French route tags stay with **Chandernagore / Kizhoor**; Portuguese military tag stays with **Operation Vijay** — method swap is the classic enclave trap.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -72,7 +74,7 @@ Community Development Programme | Etawah (इटावा) Pilot Project | Post-
 | 1st Plan | 2nd Plan | Agriculture/CDP vs heavy industry (Mahalanobis) | प्रथम / द्वितीय |
 | Part A | Part B (1950) | Governor’s provinces vs princely unions | ए / बी राज्य |
 
----
+</details>
 
 ## Must-score facts — integration, enclaves and plans
 

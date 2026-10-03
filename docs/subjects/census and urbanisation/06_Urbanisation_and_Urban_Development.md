@@ -12,7 +12,8 @@
 
 UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. As per Census 2011, India's total **Urban Population** was **37.71 Crore (31.16% of total population)**.
 2. The decadal growth rate of the urban population during 2001–2011 was **31.80%** (compared to 12.30% for rural population).
@@ -65,9 +66,10 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 49. **Gentrification** is the socio-economic process of renovating and improving urban deteriorated neighbourhoods, often displacing lower-income residents.
 50. In India, the Ministry of Housing and Urban Affairs (**MoHUA**) is the apex Union ministry responsible for urban development policies, planning, and schemes.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **Census Slum Threshold**: Minimum **300 people or 60–70 households** | **Highest Slum Population State**: **Maharashtra (1.18 Crore)** | **Trap**: 300 persons is the census identification threshold; Maharashtra has the most slum dwellers. |
 | **73rd Amendment (Panchayats)**: Part IX, 11th Schedule (29 items) | **74th Amendment (Municipalities)**: Part IX-A, 12th Schedule (18 items) | **Trap**: 11th Schedule has 29 items (Panchayats); 12th Schedule has 18 items (Municipalities). |
 
----
+</details>
 
 ## Must-score drill — master tables
 

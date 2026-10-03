@@ -24,7 +24,8 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 ---
 
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. In Indian tradition, **Sangeet** encompasses the triad of **gita** (vocal music), **vadya** (instrumental music), and **nritya** (नृत्य) (dance). The earliest textual foundation for sacred melodic chanting is the **Samaveda** (सामवेद).
 2. Theory roots are **Natyashastra** (नाट्यशास्त्र) by **Bharata Muni** (भरत मुनि) and the first clear use of the word **raga** in **Matanga**’s *Brihaddeshi* (बृहद्देशी).
@@ -61,10 +62,10 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 33. **Banaras** is a major tabla and thumri centre (Kishan Maharaj, Girija Devi). Do not collapse Banaras into only shehnai.
 34. Gharana is a **Hindustani** guru–shishya house. Carnatic lines run by composer and kriti, not by gharana.
 
+</details>
 
----
-
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -83,8 +84,7 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 | Tansen | Amir Khusrau | Akbar dhrupad vs Nizamuddin, qawwali/tarana | तानसेन / अमीर खुसरो |
 | Tyagaraja | Tansen | Carnatic Rama kritis vs Hindustani Navaratna | त्यागराज / तानसेन |
 
----
-
+</details>
 
 ## Must-score facts — forms, treatises, gharanas
 

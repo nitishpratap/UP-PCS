@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 15 — Post-Independence India</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -33,11 +31,7 @@ hide:
 | 1st Plan | 2nd Plan | Agriculture/CDP vs heavy industry (Mahalanobis) | प्रथम / द्वितीय |
 | Part A | Part B (1950) | Governor’s provinces vs princely unions | ए / बी राज्य |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Territory ↔ route ↔ year merged
 
@@ -179,18 +173,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Arc after transfer: Independence 15 Aug 1947 → CA last sitting 24 Jan 1950 → Constitution 26 Jan 1950 → Planning Commission Mar 1950 → CDP 2 Oct 1952 → Andhra 1 Oct 1953 → SRC Act 1 Nov 1956 → NITI 1 Jan 2015.
-- **Exam Anchor:** About 562 princely states were integrated under Sardar Patel and V.P. Menon. The Instrument of Accession covered only Defence, External Affairs and Communications.
 - **Exam Anchor:** Junagadh — Cause/Course/Result: Nawab’s Pakistan accession vs Hindu-majority state → Indian blockade and local revolt → plebiscite 1948 joins India.
 - **Exam Anchor:** Hyderabad — Cause/Course/Result: Nizam’s refusal / Razakar violence → Operation Polo (Sept 1948) Police Action → Hyderabad integrated.
 - **Exam Anchor:** Jammu and Kashmir signed the IoA on 26 October 1947 amid tribal invasion (later J&K Constitution steps ≠ Union Constitution dates).
 - **Exam Anchor:** Goa — Cause/Course/Result: Portuguese refusal to negotiate enclaves → Operation Vijay (18–19 Dec 1961) → UT 1962 → Goa State 1987. French enclaves used referendum/treaty, never the Goa military route.
-- **Exam Anchor:** Constituent Assembly first met on 9 December 1946. The Objectives Resolution was moved on 13 December 1946.
-- **Exam Anchor:** The national Flag was adopted on 22 July 1947. The Drafting Committee (Ambedkar) was set up on 29 August 1947.
-
-</details>
+- **Exam Anchor:** Chandernagore used a French referendum route (19 June 1949) and merged into West Bengal on 2 October 1954.
+- **Exam Anchor:** Pondicherry, Karaikal, Mahe and Yanam used the Kizhoor referendum (18 Oct 1954); de facto 1 Nov 1954; de jure Union Territory 1962.
+- **Exam Anchor:** Dadra and Nagar Haveli saw local action in 1954 and became a UT by the 10th Amendment, 1961.
+- **Exam Anchor:** Panchsheel was signed on 29 April 1954 (India–China five principles). The first NAM summit was Belgrade 1961; Bandung 1955 is the Afro-Asian mood conference, not the first NAM summit.
 
 ---
 

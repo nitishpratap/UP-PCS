@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 2 — Features of the Constitution</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -44,11 +42,7 @@ hide:
 | Munshi vs Ambedkar tags | Munshi = **political horoscope** (Preamble); Ambedkar **heart and soul** = **Art. 32** | Swap Preamble / Art. 32 | मुंशी / आंबेडकर |
 | Berubari vs Kesavananda | *Berubari* = Preamble **not** part (1960); *Kesavananda* = **is** part (1973) | Say Kesavananda first denied it | बेरुबारी / केशवानंद |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Type / design tags
 
@@ -337,18 +331,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** India’s Constitution is the lengthiest written Constitution of any sovereign country. It is a single Constitution for both the Union and the States (except earlier J&K anomaly).
-- **Exam Anchor:** India’s type of government is Parliamentary plus a Democratic Republic. Its polity structure is a quasi-federal Union — not a Presidential system and not a pure classical federation.
 - **Exam Anchor:** B.R. Ambedkar (बी.आर. अम्बेडकर) described the design as federal in form but unitary in spirit. Indian federation did not arise from an agreement among States, and States have no right to secede.
-- **Exam Anchor:** In the parliamentary model the President is the nominal executive and the Prime Minister with the Council of Ministers is the real executive. Collective responsibility is to the Lok Sabha (लोकसभा).
-- **Exam Anchor:** The Constitution blends rigidity and flexibility. Many changes use Article 368 (अनुच्छेद 368), but paths such as Articles 2–4 and Article 169 use only a simple majority of Parliament and are outside Article 368.
-- **Exam Anchor:** Three amendment tracks exist: simple majority (e.g., Arts. 2–4, 169); special majority under Article 368; and special majority plus ratification by half the States for federal provisions.
 - **Exam Anchor:** Article 1 calls India a Union of States. The word “federation” is not used anywhere in the Constitution. Parliament may alter State areas, boundaries, and names under Article 3.
-- **Exam Anchor:** Dual polity with a strong Centre is labelled quasi-federal. Scholar facts: Wheare = quasi-federal; Austin = cooperative; Morris-Jones = bargaining; Jennings = centralising tendency; Alexandrowicz = sui generis.
-
-</details>
+- **Exam Anchor:** Universal adult franchise and the Basic Structure politics are treated as Indian originality, not a copy of the 1935 Act.
+- **Exam Anchor:** Jana Gana Mana (National Anthem) and Vande Mataram (National Song) were adopted on 24 January 1950; full anthem rendition is about 52 seconds. The National Calendar follows the Saka era (from 22 March 1957), not Vikram.
+- **Exam Anchor:** Lengthiest written Constitution of any sovereign country.
+- **Exam Anchor:** Blend of rigidity and flexibility (Article 368 plus simple-majority paths).
+- **Exam Anchor:** Federal system with unitary bias — often called quasi-federal (K.C. Wheare).
+- **Exam Anchor:** Parliamentary form of government (UK Westminster model adapted).
 
 ---
 

@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 6 — Agriculture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **May 2026** | CCEA raised MSP for **14 Kharif (खरीफ)** crops, MS 2026–27; common paddy **₹2,441/q** (+₹72); Grade A ₹2,461 | Latest paddy MSP figure | PIB / CCEA |
+| Static rule | MSP for **22 mandated crops**; CACP recommends, Cabinet decides; target **≥1.5×** all-India cost (Budget 2018–19) | Institution > old rupees | PIB |
+| 2025–26 Kharif | Highest MSP hike then: nigerseed, ragi, cotton, sesamum; extra push pulses/oilseeds/**Shree Anna** | Diversification narrative | PIB |
+| Ongoing | **PM-AASHA** (PSS via NAFED/NCCF); **e-NAM**; **PM-KISAN**; **PMFBY** | Scheme names | DA&FW |
+| 2025 | Delhi **bio-decomposer** (fungal mix, free) for stubble | Free fungal mix for stubble-to-manure | PYQ / GNCTD |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -55,22 +65,6 @@ hide:
 | Coimbatore cane | Sugarcane Breeding Institute | Lucknow only | कोयंबटूर |
 | Pratappur mill | First sugar mill **1903** | Mawana / Balrampur first | प्रतापपुर |
 | Contract farming | Pioneer **Punjab** | Pick Haryana / TN | पंजाब अनुबंध |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **May 2026** | CCEA raised MSP for **14 Kharif (खरीफ)** crops, MS 2026–27; common paddy **₹2,441/q** (+₹72); Grade A ₹2,461 | Latest paddy MSP figure | PIB / CCEA |
-| Static rule | MSP for **22 mandated crops**; CACP recommends, Cabinet decides; target **≥1.5×** all-India cost (Budget 2018–19) | Institution > old rupees | PIB |
-| 2025–26 Kharif | Highest MSP hike then: nigerseed, ragi, cotton, sesamum; extra push pulses/oilseeds/**Shree Anna** | Diversification narrative | PIB |
-| Ongoing | **PM-AASHA** (PSS via NAFED/NCCF); **e-NAM**; **PM-KISAN**; **PMFBY** | Scheme names | DA&FW |
-| 2025 | Delhi **bio-decomposer** (fungal mix, free) for stubble | Free fungal mix for stubble-to-manure | PYQ / GNCTD |
 
 ---
 
@@ -506,18 +500,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Net sown area (NSA) is land sown at least once a year. Gross cropped area (GCA) counts every sowing. Cropping intensity = GCA / NSA × 100 (about 111% in 1950–51 to about 156% now). About 86% of holdings are small or marginal, and about half of NSA is still rainfed.
-- **Exam Anchor:** Groundwater covers about 64% of irrigated area (2018–19: tubewell ~48.5%; canals ~23%; tanks ~2.3%). Canals suit clayey plains; tube wells dominate north-west and western Uttar Pradesh (उत्तर प्रदेश); tanks suit the peninsula; drip suits horticulture. Minor projects (CCA ≤ 2,000 ha) create ~62% of irrigation potential.
 - **Exam Anchor:** Kharif (खरीफ) (June–October) includes rice, maize, jowar (ज्वार), bajra (बाजरा), ragi, cotton, jute, groundnut, soy, and tur. Rabi (रबी) (October–March) includes wheat, barley, gram, mustard, peas, and linseed, helped by Western Disturbances. Zaid (जायद) (March–June) covers melons, cucumber, fodder, and vegetables. Cane is long-duration; tea, coffee, and rubber are perennial.
-- **Exam Anchor:** Rice needs hot-wet conditions (often above 20–27°C and above 100 cm rain) on clayey alluvium. Methods include transplant, broadcast, drill, DSR, and AWD. Aus / Aman / Boro are eastern season names. Azolla is a biofertiliser. Golden rice carries Vitamin A.
-- **Exam Anchor:** West Bengal often leads rice volume; Punjab leads yield. India is usually the world’s second rice producer after China. In 2024–25, the Union Agriculture Minister claimed India had become first — that is a separate recent claim, not the usual textbook rank.
-- **Exam Anchor:** Wheat needs cool growing weather and bright ripening, about 50–75 cm rain, and loam soils. It is a rabi crop with two belts: Ganga (गंगा)–Satluj plains and Deccan (दक्कन) black soil (काली मिट्टी). Assam–Wheat is a wrong pair. India is usually world number two.
-- **Exam Anchor:** Millet leaders: Jowar = Maharashtra, Bajra = Rajasthan, Ragi = Karnataka. Maize is food plus feed and mostly kharif. International Year of Millets 2023 marketed millets as Shree Anna.
-- **Exam Anchor:** Pulses fix nitrogen through Rhizobium. Gram is rabi; tur, moong, and urad are kharif. India is the world’s top pulse producer.
-
-</details>
+- **Exam Anchor:** CACP recommends MSP; the Cabinet decides. Mandated MSP crops are 22. Cane uses FRP, not the cereal MSP schedule.
+- **Exam Anchor:** M.S. Swaminathan (एम.एस. स्वामीनाथन) is the Green / Evergreen face. Verghese Kurien is White Revolution (श्वेत क्रांति) / Operation Flood (ऑपरेशन फ्लड) / NDDB / Amul — not milk for Swaminathan.
+- **Exam Anchor:** Jhum is north-east shifting cultivation (also podu / bewar / dahiya / kumari / waltre). Organic farming bans synthetics; Sikkim is the first fully organic state. Precision farming is GIS / GPS site-specific management.
+- **Exam Anchor:** Wheat Dwarfing Gene & Mutants: Norin-10 is the principal dwarfing gene of wheat. Sonora-64 was developed through induced mutation at IARI. Macaroni wheat (Triticum durum) is ideal for rainfed/dryland conditions. Triticale is a man-made cereal cross between Wheat and Rye (Rai).
+- **Exam Anchor:** Critical Irrigation Stage in Wheat: Crown Root Initiation (CRI) stage (20–25 days after sowing) is the single most critical stage for wheat irrigation; moisture stress at CRI leads to severe tillering loss.
+- **Exam Anchor:** Rice Intensification (SRI): Developed in Madagascar (1980s), the System of Rice Intensification relies on alternate wetting and drying, resulting in reduced seed rate, reduced methane emissions, and lower electricity consumption.
 
 ---
 

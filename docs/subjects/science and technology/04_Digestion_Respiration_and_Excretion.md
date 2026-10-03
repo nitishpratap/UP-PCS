@@ -24,7 +24,8 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
 
 ---
 
-## Consolidated — 45 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Starch digestion begins in the **mouth (buccal cavity)**; salivary glands secrete **Ptyalin (Salivary Amylase)** at optimum pH 6.8, hydrolysing ~30% of dietary starch into the disaccharide **Maltose**; protein and fat digestion do **not** occur in the mouth.
 2. The adult human dental formula is **$\frac{2123}{2123} \times 2 = 32$** (2 Incisors, 1 Canine, 2 Premolars, 3 Molars per quadrant); milk / deciduous dental formula of children is **$\frac{2102}{2102} \times 2 = 20$** (**Premolars are completely absent in milk dentition**).
@@ -81,9 +82,10 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
 44. **Renal Calculi (Kidney Stones)**: Solid crystalline deposits formed inside renal pelvis and calyces, primarily composed of insoluble **Calcium Oxalate ($CaC_2O_4$)** crystals.
 45. **Gout**: Painful metabolic arthritis caused by the deposition of sharp **Monosodium Urate / Uric Acid crystals** in synovial joints (most commonly the metatarsophalangeal joint of the big toe) due to hyperuricaemia.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -100,7 +102,7 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
 | **Renal Calculi** | **Gout** | Deposition of calcium oxalate stones in renal pelvis vs deposition of uric acid crystals in synovial joints | गुर्दे की पथरी / गठिया (गाउट) |
 | **Diabetes Mellitus** | **Diabetes Insipidus** | Insulin defect, hyperglycaemia, glucose present in urine vs ADH defect, massive dilute tasteless urine, zero glucose in urine | मधुमेह / उदकमेह |
 
----
+</details>
 
 ## Must-Score Drill — Digestive Juices, Lung Volumes & Nephron Functions
 

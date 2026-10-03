@@ -11,64 +11,75 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 11 — Marathas</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Shivaji (1630–1680)** built swaraj (स्वराज), was crowned **Chhatrapati at Raigad (रायगढ़) in 1674** (**Gaga Bhatt / Vishweshwar** of Banaras declared him Kshatriya), and died at Raigad in **1680**.
-2. He was born at **Shivneri** to **Shahji Bhonsle** and **Jijabai**; tradition remembers **Samarth Ramdas** as his guru (गुरु).
-3. At **Pratapgad in 1659**, Shivaji killed Bijapur (बीजापुर)'s **Afzal Khan** and expanded western Deccan (दक्कन) power.
-4. By the **Treaty of Purandar (पुरंदर) (1665)** with **Raja (राजा) Jai Singh I**, Shivaji surrendered **23 forts**; the **Agra** (आगरा) detention followed in **1666**. He defeated the Mughals at **Salher in 1672**.
-5. Big **Deshmukhs** opposed an independent Maratha state because they preferred remaining **Bijapur feudal lords**.
-6. The **Ashtapradhan** (अष्टप्रधान) was Shivaji's eight-minister council; under him the **Peshwa** (पेशवा) was one minister, not the sovereign.
-7. Ashtapradhan portfolios: **Peshwa** (पेशवा / मुख्य प्रधान - admin), **Amatya** (अमात्य / मजूमदार - finance/revenue), **Mantri** (मंत्री / वाक़ियानवीस - records/home), **Senapati** (सेनापति / सर-ए-नौबत - army (सेना) chief), **Sumant** (सुमंत / डबीर - foreign affairs), **Nyayadish** (न्यायाधीश - justice), **Pandit Rao** (पंडितराव / दानाध्यक्ष - religious endowments), **Sachiv** (सचिव / सुरनवीस - royal correspondence).
-8. **Chauth** (चौथ) is a **25%** (1/4) protection levy; **sardeshmukhi** (सरदेशमुखी) is an extra **10%** (1/10) hereditary chief claim (together up to **35%**). **Saranzami** (सरंजामी) land supported Maratha jagirdars’ livelihood.
-9. From **1713**, **Balaji Vishwanath** (बालाजी विश्वनाथ) made the Peshwa office **hereditary** and de facto ruling under Shahu (शाहू).
-10. Core Peshwa order: **Balaji Vishwanath → Bajirao (बाजीराव) I (बाजीराव I) → Balaji Bajirao (बालाजी बाजीराव) → Madhav Rao I (माधवराव) → Narayan Rao (नारायणराव) → Raghunath Rao**.
-11. **Bajirao I (1720–40)** drove north expansion; **Balaji Bajirao (1740–61)** belongs to the Panipat III generation. By the **Sangola (सांगोला) agreement (1750)**, the Chhatrapati became a do-nothing king and the **Peshwa** the real head.
-12. **Madhav Rao I (1761–72)** comes **before Narayan Rao (1772–73)**; do not reverse them.
-13. At **Panipat III on 14 January 1761**, **Ahmad Shah Abdali (अब्दाली)** defeated the Marathas under **Sadashiv Rao Bhau (भाऊ)**; heir **Vishwas Rao** was killed. Eyewitness **Kashiraj Pandit** called it catastrophic; immediate spark was Maratha expulsion of Abdali’s viceroy (वायसराय) **Timur Shah** from **Lahore**.
-14. Panipat III is not Panipat I (**1526**) or II (**1556**); **Shivaji** (शिवाजी) was already dead and did not fight it.
-15. **Nadir Shah (नादिर शाह)'s Delhi sack (1739)** is a separate Afghan shock from Abdali's Panipat victory.
-16. After Shivaji, **Sambhaji** (सम्भाजी) was executed in **1689**; **Rajaram** then **Tarabai** (for **Shivaji II**) led resistance; at **Aurangzeb (औरंगजेब)’s death** Maratha leadership was with **Tarabai**. **Shahu** was released after **1707** and the Peshwa line rose.
-17. Later confederacy seats: **Peshwa–Pune (पुणे)**, **Scindia–Gwalior**, **Holkar–Indore**, **Gaekwad–Baroda**, **Bhonsle–Nagpur**.
-18. The **Treaty of Lanavada (लानावड़ा) (1718)** won Mughal (मुग़ल) recognition (मान्यता) of Maratha chauth rights.
-19. **Palkhed (1728)** is Bajirao I's famous campaign against the **Nizam** (निजाम).
-20. Shivaji's navy used Konkan forts such as **Sindhudurg** and **Vijaydurg**.
-21. Maratha **chauth** reached the **Doab** (दोआब), **Bundelkhand**, and **Rohilkhand**.
-22. Peshwa power ended with the British in **1818**; the last Peshwa was **Baji Rao II**.
-23. **Shaista Khan** was raided in Pune in **1663** before the Purandar settlement.
-24. **Abwab** (अबवाब) and **Jamadani** are distractors; the protection revenue name asked is **Chauth**.
-25. Cause–course–result for Purandar: Aurangzeb sent Jai Singh, Shivaji surrendered forts under treaty, then recovered strength toward the 1674 coronation.
-26. Cause–course–result for Panipat III: Maratha northern surge met Abdali and Najib-ud-Daula; Bhau's army was crushed; the all-India northern surge broke though the confederacy survived.
-27. **Modi script** (मोड़ी लिपि) was used in Maratha revenue and administrative papers.
-28. **Ahilyabai Holkar** (अहल्याबाई होल्कर) ruled from the **Holkar** house of **Indore**.
-29. Ashtapradhan ministers headed departments but did **not** hold independent cabinet power; Shivaji could accept or reject advice.
+2. **Chauth** (चौथ) is a **25%** (1/4) protection levy; **sardeshmukhi** (सरदेशमुखी) is an extra **10%** (1/10) hereditary chief claim (together up to **35%**). **Saranzami** (सरंजामी) land supported Maratha jagirdars’ livelihood.
+3. **Bajirao I (1720–40)** drove north expansion; **Balaji Bajirao (1740–61)** belongs to the Panipat III generation. By the **Sangola (सांगोला) agreement (1750)**, the Chhatrapati became a do-nothing king and the **Peshwa** the real head.
+4. **Madhav Rao I (1761–72)** comes **before Narayan Rao (1772–73)**; do not reverse them.
+5. **Nadir Shah (नादिर शाह)'s Delhi sack (1739)** is a separate Afghan shock from Abdali's Panipat victory.
+6. **Palkhed (1728)** is Bajirao I's famous campaign against the **Nizam** (निजाम).
+7. **Shaista Khan** was raided in Pune in **1663** before the Purandar settlement.
+8. **Abwab** (अबवाब) and **Jamadani** are distractors; the protection revenue name asked is **Chauth**.
+9. **Modi script** (मोड़ी लिपि) was used in Maratha revenue and administrative papers.
+10. **Ahilyabai Holkar** (अहल्याबाई होल्कर) ruled from the **Holkar** house of **Indore**.
+11. **Shivaji** built **swaraj** (स्वराज) and took the title **Chhatrapati** in **1674**.
+12. **Rajaram** and **Tarabai** continued that resistance.
+13. **Sambhaji** was executed in **1689**.
+14. **Shahu** was released after Aurangzeb’s death (**1707**) and won the succession (उत्तराधिकार क्रम) against Tarabai’s line.
+15. **Scindia** sat at **Gwalior**.
+16. **Holkar** sat at **Indore**.
+17. **Gaekwad** sat at **Baroda**.
+18. **Bhonsle** sat at **Nagpur**.
+19. **Panipat III (1761)** broke the northern surge.
+20. **Shahji** held jagirs around **Pune, Supa, and Indapur**, and later served Bijapur in the Karnataka belt. Young Shivaji grew up mainly under **Jijabai** at Pune, not as a pampered court prince.
+21. **Jijabai** shaped his sense of **Hindavi Swarajya (स्वराज्य)** — rule free of Bijapur–Mughal overlordship — through Ramayana (रामायण)–Mahabharata (महाभारत) ideals and hatred of local oppression.
+22. **Afzal Khan** of Bijapur was killed at **Pratapgad in 1659**.
+23. **Cause:** Bijapur sent **Afzal Khan** with a large army to crush Shivaji after early Maratha gains on the Konkan and Ghats forts.
+24. **Course:** Shivaji met Afzal Khan at **Pratapgad** under a truce pretext. In close combat Shivaji killed Afzal Khan with **wagh nakh** (tiger claws), and his men routed the Bijapur force.
+25. **Result:** Bijapur prestige fell. Shivaji secured **Raigad** and expanded Swarajya in the western Deccan.
+26. **Cause:** After Bijapur failed, the Mughals under **Shaista Khan** occupied Pune and pressed Shivaji’s homeland.
+27. **Course:** In **1663** Shivaji’s night raid cut Shaista Khan’s force inside Pune. In **1664** he sacked rich **Surat**.
+28. **Result:** Mughal prestige in the Deccan was shaken, and Aurangzeb turned to a heavier campaign under **Raja Jai Singh**.
+29. **Cause:** Aurangzeb sent **Raja Jai Singh I** to pin Shivaji after earlier Mughal failures.
+30. **Course:** Jai Singh besieged **Purandar**. Shivaji signed the **Treaty of Purandar**, surrendered **23 forts**, and accepted Mughal alliance terms; **Sambhaji** went as hostage for a time. In **1666** Shivaji was detained at **Agra** and later escaped.
+31. **Result:** Shivaji kept a core of forts, recovered strength in the hills, and moved toward full sovereignty instead of Bijapur jagirdari (इस्तमरारी) status.
+32. **Rajyabhishek** at **Raigad in 1674** made him **Chhatrapati**, not a Bijapur jagirdar.
+33. **Deshmukhs** were Bijapur-era feudal chiefs in the countryside. They are **not** the eight Ashtapradhan ministers.
+34. **Chauth** means **one-fourth (25%)** of the assessed land revenue of a territory.
+35. **Sardeshmukhi** is an extra **10%** of land revenue.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Chauth | Sardeshmukhi | 25% protection vs extra 10% chief claim | चौथ / सरदेशमुखी |
-| Shivaji | Peshwa | Chhatrapati founder vs later de facto ruler | शिवाजी / पेशवा |
-| Bajirao I | Balaji Bajirao | Father 1720–40 vs son 1740–61 (Panipat) | बाजीराव I / बालाजी बाजीराव |
-| Madhav Rao I | Narayan Rao | 1761–72 recovery vs 1772–73 murdered | माधवराव / नारायणराव |
-| Panipat I | II vs III | 1526 Babur / 1556 Akbar–Hemu / 1761 Maratha–Abdali | पानीपत I / II / III |
-| Abdali | Nadir Shah | Panipat 1761 vs Delhi sack 1739 | अब्दाली / नादिर शाह |
-| Bhau | Bajirao I | 1761 commander vs died 1740 | भाऊ / बाजीराव |
-| Raigad | Pune | Shivaji coronation vs Peshwa seat | रायगढ़ / पुणे |
-| Sangola | Lanavada | 1750 Peshwa supremacy vs 1718 chauth recognition | सांगोला / लानावड़ा |
-| Chauth | Saranzami | 25% protection levy vs jagirdar livelihood land | चौथ / सरंजामी |
-| Deshmukh | Ashtapradhan | Feudal Bijapur chiefs vs Shivaji’s 8 ministers | देशमुख / अष्टप्रधान |
-| Purandar | Lanavada | 1665 Shivaji–Jai Singh vs 1718 Shahu–Mughals | पुरंदर / लणवाडा |
-| Sambhaji | Shahu | Executed 1689 vs released 1707, Peshwa rise | सम्भाजी / शाहू |
-| Sikh Khalsa | Chauth | 1699 Panth vs Maratha 25% levy | खालसा / चौथ |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+20. **Salher 1672** = battlefield win vs Mughals; **Purandar 1665** = treaty with Jai Singh.
+21. **Gaga Bhatt** = coronation priest; **Ramdas** = guru.
+22. **Sangola 1750** (Balaji Bajirao) ≠ **Lanavada 1718** (Balaji Vishwanath).
+23. **Tarabai** at Aurangzeb’s death; do not pick Sambhaji (already dead) or Ahilyabai.
+24. **Kashiraj Pandit** = Panipat III eyewitness; immediate spark = **Timur Shah** expelled from Lahore.
+25. **Ruka** is not Shivaji’s silver coin; **Modi** script = Maratha papers.
+
+1. **Chauth** and **Sardeshmukhi** are different levies. Chauth is **25%** protection. Sardeshmukhi is an extra **10%**.
+2. **Madhav Rao I** ruled **before Narayan Rao**.
+3. Some Peshwa chronology lists skip Madhav and place **Raghoba** after Narayan — always read the four names in the stem.
+4. **Bajirao I** and **Balaji Bajirao** are different Peshwas.
+5. The **Peshwa** was not king in Shivaji’s lifetime. He was one of eight ministers.
+6. **Shivaji** did not fight at Panipat III. He died in **1680**.
+7. **Sadashiv Rao Bhau** commanded at Panipat III. He is not **Bajirao I**.
+8. **Ahmad Shah Abdali** won at Panipat in **1761**. That is not **Nadir Shah** in **1739**.
+9. **Panipat III** is not Panipat I or II.
+10. **Deshmukhs** wanted to remain **Bijapur feudal lords**, not join Shivaji’s swaraj.
+11. **Raigad** is not **Pune**. Raigad is Shivaji’s coronation fort. Pune is the Peshwa seat.
+12. **Purandar (1665)** is not **Lanavada (1718)**.
+13. **Abwab** and **Jamadani** are not Maratha protection terms.
+14. **Sumant** handled foreign affairs. **Amatya** handled finance. Do not swap them.
+15. On each Peshwa chronology stem, read **which four names** are in the list. The option letter changes with the list.
+16. **Torna / Rajgad / Sinhagad** belong to Shivaji’s early rise; do not start his story only at Afzal Khan.
+17. **Mastani** is linked to **Bajirao I**, not Balaji Bajirao.
 
 
 ---

@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>UP Special Topic 6 — Society, Demographics, Tribes, Education System and Social Development</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -29,18 +35,6 @@ hide:
 | **MAO College (1875)** | **AMU Central University (1920)** | Founded by Sir Syed in **1875**; upgraded to university status in **1920**. |
 | **University of Allahabad (1887)** | **Central University Status (2005)** | Established in **1887**; declared an Institution of National Importance/Central Univ in **2005**. |
 | **HRI (Prayagraj)** | **V.V. Giri NLI (Noida)** | HRI is for **Maths/Physics** in Prayagraj; NLI is for **Labour studies** in Noida. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -178,18 +172,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** As per Census 2011, the total population of Uttar Pradesh is 199,812,341 (~19.98 Crore).
-- **Exam Anchor:** Uttar Pradesh accounts for 16.51% of the total population of India.
-- **Exam Anchor:** If UP were an independent nation, it would be the 5th most populous country in the world.
-- **Exam Anchor:** The decadal population growth rate of UP during 2001–2011 was 20.22% (India: 17.70%).
 - **Exam Anchor:** Gautam Buddha Nagar (49.1%) recorded the highest decadal growth rate in UP, while Kanpur Nagar (9.9%) recorded the lowest.
-- **Exam Anchor:** The population density of Uttar Pradesh is 829 persons per square kilometer (India: 382).
 - **Exam Anchor:** Ghaziabad (3,971 persons/km²) has the highest population density, while Lalitpur (242 persons/km²) has the lowest.
-- **Exam Anchor:** The sex ratio of Uttar Pradesh is 912 females per 1000 males (India: 943).
-
-</details>
+- **Exam Anchor:** Jaunpur (1,024) has the highest sex ratio in UP, followed by Azamgarh (1,019) and Deoria (1,017).
+- **Exam Anchor:** Gautam Buddha Nagar (851) has the lowest sex ratio in UP.
+- **Exam Anchor:** Balrampur (950) has the highest child sex ratio, while Baghpat (841) has the lowest.
+- **Exam Anchor:** Gautam Buddha Nagar (80.12%) has the highest overall literacy rate in UP.
+- **Exam Anchor:** Kanpur Nagar (75.05%) has the highest female literacy rate in UP.
+- **Exam Anchor:** Shravasti (46.74%) has the lowest literacy rate in UP across all three metrics (Overall 46.74%, Male 57.16%, Female 34.78%).
 
 ---
 

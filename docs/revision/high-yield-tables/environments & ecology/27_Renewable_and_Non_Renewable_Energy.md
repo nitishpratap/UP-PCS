@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 27 — Renewable & Non-Renewable Energy (अनवीकरणीय ऊर्जा)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Bureau of Energy Efficiency (BEE)** | **Petroleum Conservation Research Association (PCRA)** | Statutory body established under the Energy Conservation Act 2001 (Ministry of Power) promoting star rating standards for electric appliances and energy conservation codes vs registered society under the Ministry of Petroleum and Natural Gas promoting conservation and fuel efficiency in the petroleum sector | ऊर्जा दक्षता ब्यूरो (BEE, स्टार लेबलिंग) / पेट्रोलियम संरक्षण अनुसंधान संघ (PCRA) |
 | **Biogas** | **Compressed Biogas (CBG)** | Unrefined raw gaseous fuel mixture generated from anaerobic digestion of cattle dung and agro-waste containing ~55–60% methane and ~40% CO₂ vs purified, upgraded methane gas (≥90% CH₄) scrubbed of CO₂ and H₂S and compressed to ~250 bar for use as clean green automotive transport fuel (SATAT initiative) | बायोगैस (कच्ची गोबर गैस) / संपीडित बायोगैस (CBG, परिष्कृत 90%+ मीथेन) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Classifications
 
@@ -151,18 +145,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Renewable sources replenish on a human timescale (sun, wind, water, biomass, geothermal). Non-renewable sources are finite stocks (coal, oil, gas, uranium). Notes usually treat nuclear as non-renewable even though it is low-carbon.
-- **Exam Anchor:** In Indian usage, conventional energy means coal, oil, gas, large hydro, and nuclear. Non-conventional means solar, wind, biomass, biogas, tidal, geothermal, ocean, and small hydro ≤25 MW — treated as roughly equal to renewable in many stems.
-- **Exam Anchor:** Non-conventional is treated as roughly equal to renewable in many prelims stems — but large hydro sits on the conventional side of that Indian classification.
 - **Exam Anchor:** Energy crisis in bank language means the danger of exhaustion of fossil fuels (coal, oil, gas) — not merely “short hydro” or malnutrition.
-- **Exam Anchor:** UNGA declared 2014–2024 the Decade of Sustainable Energy for All (supports SDG 7). Initiative is of the United Nations, not World Bank alone.
-- **Exam Anchor:** Ultimate source of energy stored in fossil fuels is the Sun (ancient photosynthesis).
-- **Exam Anchor:** Among coal / oil-gas / nuclear / hydro options, hydroelectricity is often the best answer for electricity generation under sustainable development (water not depleted by the generation cycle).
 - **Exam Anchor:** Uranium is not a fossil fuel — nuclear fuel, non-renewable. Coal / petroleum / natural gas are fossils.
-
-</details>
+- **Exam Anchor:** Biogas major constituents are methane and carbon dioxide. Butane or carbon monoxide as the major pair is wrong.
+- **Exam Anchor:** Bioethanol (maize, sugarcane, etc.) blends with petrol. Biodiesel (Jatropha, Pongamia, UCO) blends with diesel. Biofuels are eco-friendly and can ease crisis but are often not cost-effective vs fossils.
+- **Exam Anchor:** OTEC uses the temperature difference between warm surface water and cold deep water — not the same as tidal barrage power.
+- **Exam Anchor:** Energy Conservation Act 2001 created BEE. PAT (2012) trades ESCerts. Star labels and UJALA LEDs are efficiency/conservation tools. PAT is not CCTS carbon credits.
+- **Exam Anchor:** Hydrogen is the least-polluting common fuel option (burns to water); called a future fuel. National Hydrogen Energy Board set up 3 October 2003.
 
 ---
 

@@ -15,7 +15,8 @@ Prehistoric cultures | Indus / Harappan phases | Vedic age | Mahajanapadas & Mag
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Culture ladder: **Palaeolithic → Mesolithic → Neolithic → Chalcolithic → Iron Age / NBPW**.
 2. Harappan: **Early c. 3300–2600 → Mature c. 2600–1900 → Late c. 1900–1300 BCE**.
@@ -46,9 +47,10 @@ Prehistoric cultures | Indus / Harappan phases | Vedic age | Mahajanapadas & Mag
 27. Key inscription pegs: **Hathigumpha** (Kharavela), **Junagadh** (Rudradaman), **Prayag Prashasti** (Samudragupta / Harishena), **Aihole** (Pulakeshin II).
 28. UP chronological anchors: Belan Neolithic → Alamgirpur / Sanauli fringe → Later Vedic doab → UP mahajanapadas → Sarnath / Kushinagar → Mathura Kushan → Bhitari Skandagupta → Kannauj Harsha.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -60,7 +62,7 @@ Prehistoric cultures | Indus / Harappan phases | Vedic age | Mahajanapadas & Mag
 | Kanishka | Samudragupta | Kushana emperor vs Gupta conqueror | कनिष्क / समुद्रगुप्त |
 | Kalinga War | First Buddhist Council | Ashoka’s war vs Ajatashatru-era council | कलिंग / प्रथम संगीति |
 
----
+</details>
 
 ## A.0 Megaspine — memorise this first
 

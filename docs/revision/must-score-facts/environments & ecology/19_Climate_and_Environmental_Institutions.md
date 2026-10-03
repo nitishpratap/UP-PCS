@@ -11,51 +11,50 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 19 — Climate & Environmental Institutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **IPCC** sits in **Geneva**, issues Assessment Reports, and synthesises climate science. It does **not** set NDCs and is **not** the UNFCCC treaty body.
-2. IPCC was established in **1988** by **WMO and UNEP** and shared the Nobel Peace Prize in **2007**.
-3. **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) headquarters is **Nairobi**. Flagship products include the **Emissions Gap Report** (उत्सर्जन अंतराल रिपोर्ट) and GEO. UNEP was created after Stockholm **1972**.
-4. UNEP hosts several MEA secretariats (including Montreal, Basel, and Minamata lines) and works with GEF-linked convention finance.
-5. **UNDP** headquarters is **New York**. It publishes the **Human Development Report** (from **1990**) and the **HDI**. HDR is UNDP, not UNEP.
-6. HDI is linked to **Mahbub ul Haq** and **Amartya Sen**. Do not invent a wrong founding-name trap for HDR.
-7. **IUCN** (आईयूसीएन) headquarters is **Gland**. It publishes the **Red List** of extinction risk. IUCN assesses risk; it does **not** regulate wildlife trade (पण्याध्यक्ष) — that is **CITES** (साइट्स).
-8. On the Red List, **Threatened** means **Vulnerable + Endangered + Critically Endangered** (VU + EN + CR). “Endangered alone” is not the full threatened set.
-9. **WWF** is a conservation NGO also linked to Gland, known for the panda logo and the **Living Planet Report / Living Planet Index**.
-10. **FAO** headquarters is **Rome**. Environment-facing outputs include the **State of the World’s Forests (SOFO)** and agriculture–forest links. FAO partners UNEP on some chemical-convention work such as Rotterdam.
-11. HQ memory: Nairobi = UNEP; New York = UNDP; Geneva = IPCC; Gland = IUCN and WWF; Rome = FAO.
-12. IPCC ≠ UNFCCC. Science assessment is not the same as the climate treaty and COP process.
-13. UNEP ≠ UNDP. Environment (पर्यावरण) programme versus development agency — swap reports and you lose marks.
-14. Emissions Gap Report → **UNEP**. Human Development Report → **UNDP**. Red List → **IUCN**. Living Planet → **WWF**. Assessment Reports → **IPCC**.
-15. IUCN ≠ CITES. Risk categories versus trade appendices.
-16. WWF ≠ IUCN. NGO Living Planet work versus Red List authority.
-17. FAO is food and agriculture first; it is not the Red List body and not the Emissions Gap publisher.
-18. GEF (**1991**) finances global environmental conventions; do not confuse GEF with IPCC authorship of Assessment Reports.
-19. Red List codes to know: CR, EN, VU as the threatened band; also EX, EW, NT, LC, DD, NE in the wider ladder.
-20. UNEP’s Green Economy (हरित अर्थव्यवस्था) work and GEO sit in the environment-programme lane — not in UNDP’s HDI lane.
-21. IPCC reports inform negotiators; parties still adopt NDCs under the UNFCCC/Paris track.
-22. Living Planet Index tracks vertebrate abundance trends; it is not a legal trade permit system.
-23. SOFO is FAO’s forest flagship — not FSI’s India State of Forest Report.
-24. Match org → city → product before matching slogans. Geography of headquarters is a frequent prelims filter.
-
-</details>
+2. **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) headquarters is **Nairobi**. Flagship products include the **Emissions Gap Report** (उत्सर्जन अंतराल रिपोर्ट) and GEO. UNEP was created after Stockholm **1972**.
+3. **UNDP** headquarters is **New York**. It publishes the **Human Development Report** (from **1990**) and the **HDI**. HDR is UNDP, not UNEP.
+4. **IUCN** (आईयूसीएन) headquarters is **Gland**. It publishes the **Red List** of extinction risk. IUCN assesses risk; it does **not** regulate wildlife trade (पण्याध्यक्ष) — that is **CITES** (साइट्स).
+5. **WWF** is a conservation NGO also linked to Gland, known for the panda logo and the **Living Planet Report / Living Planet Index**.
+6. **FAO** headquarters is **Rome**. Environment-facing outputs include the **State of the World’s Forests (SOFO)** and agriculture–forest links. FAO partners UNEP on some chemical-convention work such as Rotterdam.
+7. **Headquarters** is in **Geneva, Switzerland**.
+8. **Working Group I** covers physical science. **WG II** covers impacts and adaptation. **WG III** covers mitigation.
+9. **UNFCCC** (यूएनएफसीसीसी) is the **treaty body** where countries negotiate **NDCs** at **COP** meetings. IPCC informs but does not decide policy.
+10. **UNEP** was created by the **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) as the UN's principal environmental authority.
+11. **Headquarters** is in **Nairobi, Kenya** — the only major UN environment HQ in the Global South.
+12. **GEO (Global Environment Outlook)** is UNEP's comprehensive state-of-environment assessment.
+13. **UNDP** is the UN's global **development** network working on poverty, governance, and SDG implementation.
+14. **Headquarters** is in **New York**.
+15. **HDI** combines **life expectancy**, **education**, and **GNI per capita (PPP)**.
+16. **IUCN** is a global conservation union of states and NGOs, founded in **1948**.
+17. **Headquarters** is in **Gland, Switzerland**.
+18. **Threatened species** (संकटग्रस्त प्रजातियां) means **Vulnerable + Endangered + Critically Endangered (VU + EN + CR)**.
+19. **WWF (World Wide Fund for Nature)** is a global conservation **NGO**, not a UN agency.
+20. **Headquarters** is also in **Gland, Switzerland** — same city as IUCN but **different organisation and role**.
+21. **FAO (Food and Agriculture Organization)** is a UN specialised agency for **food and agriculture**.
+22. **Headquarters** is in **Rome, Italy**.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Intergovernmental Panel on Climate Change (IPCC)** | **UN Framework Convention on Climate Change (UNFCCC)** | Scientific assessment panel established in 1988 by WMO and UNEP that reviews peer-reviewed literature (does not conduct research or negotiate policy) vs international legal treaty and negotiating secretariat that coordinates annual Conference of Parties (COPs) | आईपीसीसी (वैज्ञानिक समीक्षा निकाय) / यूएनएफसीसीसी (वार्ता व संधि सचिवालय) |
-| **United Nations Environment Programme (UNEP)** | **United Nations Development Programme (UNDP)** | Apex global environmental authority coordinating UN environmental activities, hosting MEA secretariats (HQ: Nairobi, Kenya) vs UN global development network focusing on poverty reduction, sustainable growth, and publishing the Human Development Report (HQ: New York) | यूएनईपी (नैरोबी, पर्यावरण एजेंसी) / यूएनडीपी (न्यूयॉर्क, विकास एजेंसी) |
-| **International Union for Conservation of Nature (IUCN)** | **World Wide Fund for Nature (WWF)** | World's oldest and largest global conservation union composed of governments and civil society (1948, Gland) publishing the IUCN Red List vs independent international private conservation NGO (1961, Gland) famous for the Giant Panda symbol and Earth Hour | आईयूसीएन (रेड लिस्ट प्रकाशक) / डब्ल्यूडब्ल्यूएफ (पांडा प्रतीक एनजीओ) |
-| **Global Environment Facility (GEF)** | **Green Climate Fund (GCF)** | Multilateral financial partnership established in 1991 serving as financial mechanism for 5 MEAs (CBD, UNCCD, Stockholm, Minamata, UNFCCC) vs dedicated operating financial mechanism of the UNFCCC established at COP16 Cancun focusing specifically on climate projects in developing nations | जीईएफ (GEF, बहु-संधि कोष) / जीसीएफ (GCF, हरित जलवायु कोष) |
-| **Food and Agriculture Organization (FAO)** | **World Meteorological Organization (WMO)** | Specialized UN agency leading international efforts to defeat hunger, maintain agricultural biodiversity, and soil health (HQ: Rome) vs specialized UN agency dedicated to atmospheric science, climatology, and operational hydrology (HQ: Geneva) | एफएओ (रोम, खाद्य व कृषि) / डब्लूएमओ (जिनेवा, मौसम विज्ञान) |
-| **International Solar Alliance (ISA)** | **International Renewable Energy Agency (IRENA)** | Intergovernmental treaty-based organization launched jointly by India and France at COP21 Paris to promote solar energy deployment (HQ: Gurugram, India) vs intergovernmental organization supporting countries in their transition to all renewable energy types (HQ: Abu Dhabi, UAE) | अंतरराष्ट्रीय सौर गठबंधन (ISA, गुरुग्राम) / इरेना (IRENA, अबू धाबी) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+| Trap | Correct fact |
+|------|----------------|
+| IPCC sets NDCs | **UNFCCC/COP** |
+| IPCC = UNFCCC | **Science vs treaty** |
+| UNEP HQ Geneva | **Nairobi** |
+| Emissions Gap = IPCC/UNDP | **UNEP** |
+| HDR = UNEP | **UNDP** |
+| HDI team included Priesner | **Haq + Sen** |
+| IUCN regulates trade | **CITES** |
+| WWF = IUCN | **Same city, different roles** |
+| FAO HQ Nairobi | **Rome** |
+| GEF donors only developed | **Stmt 2 false in Q145** |
 
 
 ---

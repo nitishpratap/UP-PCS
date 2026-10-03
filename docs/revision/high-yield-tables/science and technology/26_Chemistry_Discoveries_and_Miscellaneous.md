@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chemistry Topic 9 — Discoveries, Scientists and Miscellaneous Chemistry</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (2024–2026)
+
+| Year | Event | Core Concept & Must-Score Significance |
+|------|--------------|-----------------------------------|
+| **2024–2025** | **Nobel Prize in Chemistry (2024)** | Awarded to **David Baker** (computational protein design) and **Demis Hassabis & John M. Jumper** (AI protein structure prediction via AlphaFold2), decoding the 3D structures of virtually all 200 million identified biological proteins. |
+| **2024** | **Election Chemistry — Voter's Indelible Ink** | In the 2024 Indian General Elections, Mysore Paints & Varnish Ltd. supplied indelible voter ink containing **Silver Nitrate ($AgNO_3$, Lunar Caustic)**. When applied to the fingernail, $AgNO_3$ reacts with skin proteins and ambient sunlight to photochemically precipitate insoluble black metallic silver ($Ag$), which cannot be washed off with soap or organic solvents. |
+| **2023** | **UPPCS Prelims 2023** | Questions on Gas Nicknames & Element Groups: **Laughing gas** confirmed as **Nitrous Oxide ($N_2O$)**. Identified that **Actinium ($Ac, Z=89$)** is an actinide transition element, NOT a noble gas (Group 18). |
+| **2023** | **Nobel Prize in Chemistry (2023)** | Awarded to **Moungi Bawendi, Louis Brus, and Alexei Ekimov** for the discovery and synthesis of **Quantum Dots** (semiconductor nanocrystals whose optical properties are governed by quantum size confinement, widely used in QLED televisions and bio-imaging). |
+| **2020** | **UPPCS Prelims 2020** | Classic Master Match Set: Blue vitriol (fungicide), Eosin (red ink), Silver iodide (artificial rain), and Zinc phosphide (rodenticide). |
+
+---
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -25,22 +35,6 @@ hide:
 | **Red Lead vs. White Lead** | **Red Lead (Sindoor / Minium)**: Trilead tetroxide (**$Pb_3O_4$**); scarlet red anti-rust primer. | **White Lead (Dutch White)**: Basic lead carbonate (**$2PbCO_3 \cdot Pb(OH)_2$**); traditional white paint pigment. | **Color & Chemistry**: Red lead is a mixed oxide ($Pb_3O_4$); White lead is a basic carbonate. |
 | **Saltpetre vs. Chile Saltpetre** | **Saltpetre (Nitre)**: Potassium nitrate (**$KNO_3$**); used in gunpowder and fireworks. | **Chile Saltpetre**: Sodium nitrate (**$NaNO_3$**); mined in Atacama desert for fertilizers. | **Alkali Cation**: Saltpetre is Potassium ($K$); Chile Saltpetre is Sodium ($Na$). |
 | **Zeolite vs. Calgon** | **Zeolite (Permutit)**: Sodium aluminium silicate; **exchanges $Na^+$ for $Ca^{2+}$/$\text{Mg}^{2+}$**; regenerated with $NaCl$. | **Calgon**: Sodium hexametaphosphate; **sequesters $Ca^{2+}$/$\text{Mg}^{2+}$ inside a soluble complex** without resin beds. | **Mechanism of Softening**: Zeolite is an ion-exchange solid filter bed; Calgon is a dissolved complexing chemical additive. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (2024–2026)
-
-| Year | Event | Core Concept & Must-Score Significance |
-|------|--------------|-----------------------------------|
-| **2024–2025** | **Nobel Prize in Chemistry (2024)** | Awarded to **David Baker** (computational protein design) and **Demis Hassabis & John M. Jumper** (AI protein structure prediction via AlphaFold2), decoding the 3D structures of virtually all 200 million identified biological proteins. |
-| **2024** | **Election Chemistry — Voter's Indelible Ink** | In the 2024 Indian General Elections, Mysore Paints & Varnish Ltd. supplied indelible voter ink containing **Silver Nitrate ($AgNO_3$, Lunar Caustic)**. When applied to the fingernail, $AgNO_3$ reacts with skin proteins and ambient sunlight to photochemically precipitate insoluble black metallic silver ($Ag$), which cannot be washed off with soap or organic solvents. |
-| **2023** | **UPPCS Prelims 2023** | Questions on Gas Nicknames & Element Groups: **Laughing gas** confirmed as **Nitrous Oxide ($N_2O$)**. Identified that **Actinium ($Ac, Z=89$)** is an actinide transition element, NOT a noble gas (Group 18). |
-| **2023** | **Nobel Prize in Chemistry (2023)** | Awarded to **Moungi Bawendi, Louis Brus, and Alexei Ekimov** for the discovery and synthesis of **Quantum Dots** (semiconductor nanocrystals whose optical properties are governed by quantum size confinement, widely used in QLED televisions and bio-imaging). |
-| **2020** | **UPPCS Prelims 2020** | Classic Master Match Set: Blue vitriol (fungicide), Eosin (red ink), Silver iodide (artificial rain), and Zinc phosphide (rodenticide). |
 
 ---
 
@@ -163,7 +157,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Antoine Laurent Lavoisier (1743–1794): Revered as the "Father of Modern Chemistry". Formulated the fundamental Law of Conservation of Mass (1789), proved that combustion and respiration are chemical combinations with oxygen, disproved the ancient phlogiston theory, named the elements Oxygen and Hydrogen, and published the first modern list of chemical elements.
 - **Exam Anchor:** John Dalton (1766–1844): Formulated the modern Atomic Theory (1808) (matter consists of indivisible atoms); established the Law of Multiple Proportions and Dalton's Law of Partial Pressures.
@@ -173,8 +167,6 @@ hide:
 - **Exam Anchor:** Friedrich Wöhler (1828): Synthesized Urea ($NH2CONH2$) by heating inorganic ammonium cyanate ($NH4CNO$):
 - **Exam Anchor:** Jöns Jacob Berzelius (1779–1848): Introduced the modern system of chemical symbols using Latin letters ($H, O, C, Fe, Au$); determined accurate atomic weights; discovered the elements Cerium, Selenium, Silicon, and Thorium; coined the terms catalysis, isomerism, allotropy, and protein.
 - **Exam Anchor:** August Kekulé (1865): Proposed the cyclic hexagonal ring structure of Benzene ($C6H6$) with alternating double bonds, inspired by a famous daydream of a snake biting its own tail (Ouroboros); established the tetravalency of carbon.
-
-</details>
 
 ---
 

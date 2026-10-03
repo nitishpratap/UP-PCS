@@ -11,67 +11,73 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 4 — Indian Painting</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **Bhimbetka** (भीमबेटका) rock shelters are in Raisen, **Madhya Pradesh. V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
-2. The **Jogimara** (जोगीमारा) cave at Ramgarh in **Chhattisgarh**, dating to about the **3rd–1st** century BCE, contains the earliest surviving Indian frescoes, depicting secular dance and theatrical scenes rather than Buddhist narrative cycles.
-3. **Mirzapur–Sonbhadra** holds the main **UP** prehistoric rock-art belt. **Bagh** caves are in **Madhya Pradesh**, not UP.
-4. The **Shadanga** six limbs are **Rupabheda** (रूपभेद), **Pramanam** (प्रमाणम्) (proportion), **Bhava** (भाव) (emotion), **Lavanyam** (grace), **Sadrisyam** (likeness), and **Varnikabhangam** (वर्णिकाभंगम्) (colour and brush).
-5. Ajanta is famous for **paintings**. Ellora is famous for **sculpture**, especially Kailasa. Do not swap the two.
-6. Ajanta Cave **1** holds Padmapani and Vajrapani. Cave **16** holds the Dying Princess / Mahajanaka theme. Cave **17** holds Vessantara. Rediscovery is linked to **John Smith** in **1819**.
-7. Other celebrated mural sites across India include **Bagh** in Madhya Pradesh, **Badami** (बादामी) in Karnataka, the Jain cave of **Sittanavasal** in Tamil Nadu, **Brihadeeswara** (बृहदीश्वर) Chola frescoes at Thanjavur, **Lepakshi** in Andhra Pradesh, traditional Kerala temple murals, and the Himalayan Buddhist wall paintings at **Alchi and Tabo**.
-8. Emperor Akbar’s imperial atelier produced major illustrated manuscript projects including the **Hamzanama** (हम्जानामा) (an adventure cycle painted on cloth across ~1,400 folios), the **Tuti-nama**, and the Persian Mahabharata (**Razmnama** (रज्मनामा)), led by master painters such as **Daswanth** and **Basawan**.
-9. Emperor Jahangir’s court atelier emphasized naturalism and portraiture, featuring **Ustad Mansur** (famed for flora and fauna studies) and **Bishandas** (celebrated for state portraits). Under Shah Jahan, the imperial court chronicle was illuminated as the **Padshahnama** (पादशाहनामा).
-10. Deccani painting centres are **Ahmadnagar**, **Bijapur**, and **Golconda** (गोलकोंडा), often with gold ground and books such as *Nujum al-Ulum*.
-11. **Rajput** painting is Rajasthan princely and bhakti / ragamala based. **Pahari** painting is Himalayan hill painting. Kangra is hills, not Rajasthan plains.
-12. In Rajasthani painting, the Mewar school is highlighted by the master artist **Sahibdin**, Kishangarh is celebrated for the iconic **Bani Thani** (बनी ठनी) portrait by Nihal Chand, and Nathdwara is renowned for **Pichwai** (पिछवाई) cloth paintings dedicated to Shrinathji. Bundi and Kotah are famed for dynamic hunting landscapes.
-13. Pahari sequence runs **Basohli → Guler (Nainsukh / Manaku) → Kangra (Sansar Chand)**. Basohli is bold and flat; Kangra is lyrical Krishna–nature.
-14. **Garhwal** is a Pahari school. **Mola Ram** (मोला राम) is its named master. The line begins with **Shyamdas** and **Hardas** as *Tasbirdar* at Srinagar Garhwal in **1658**.
-15. Other Pahari place-names to keep distinct are **Chamba**, **Nurpur**, and **Bilaspur** beside the Basohli–Guler–Kangra spine.
-16. **Tanjore** painting uses gold foil and gems on wood. **Mysore** painting uses finer gesso and is less gem-studded.
-17. **Srikalahasti Kalamkari** is temple pen-work. **Machilipatnam Kalamkari** is block-printed trade cloth.
-18. Traditional Indian folk painting traditions include **Madhubani** of Bihar, **Warli** of Maharashtra, **Phad** of Rajasthan, **Pattachitra** (पट्टचित्र) of Odisha and Bengal, **Gond** of Madhya Pradesh, **Pithora** of Gujarat/MP, **Kalighat** (कालीघाट) of West Bengal, and the stencilled **Sanjhi** (सांझी) art of the Braj region in Uttar Pradesh.
-19. **Cheriyal** is Telangana narrative scroll painting. **Manjusha** is Bihar’s snake-theme scroll art of the Bhagalpur belt. **Tikuli** is glass-and-enamel craft painting linked with Bihar.
-20. Tibetan–Himalayan **Thangka** painting is scroll art of Buddhist deities and mandalas. It is not a Rajasthani miniature school.
-21. **Madhubani** has a GI tag. It is **not** UNESCO intangible heritage. Do not confuse GI with ICH.
-22. **Ravi Varma** used oil and oleograph realism. **Abanindranath** led the Bengal School wash revival and painted **Bharat Mata** (भारत माता).
-23. **Nandalal Bose** painted the Haripura Congress panels and Constitution illumination. The **Progressive Artists’ Group** formed in **1947. Amrita Sher-Gil** painted *Three Girls*.
-24. The **Company School** made colonial documentary pictures for East India Company patrons. It is not the nationalist Bengal School.
-25. Awadh and Lucknow painting is distinguished by the master artist **Mihr Chand** and local Company School developments. In Varanasi, **Bharat Kala Bhavan** at Banaras Hindu University houses one of India's richest collections of Mughal and Rajasthani miniatures.
-26. Ajanta technique is pigment on **wet** plaster (fresco tradition). Tempera / secco puts binder on a **dry** surface.
-27. A **mural** is wall or ceiling paint integral to a building. A **miniature** is a small album or manuscript picture.
-28. Basohli is epitomized by *Rasamanjari* cycles with hot flat colour. Kangra softens into green–blue–pink Krishna lyricism under **Sansar Chand**.
-29. **Marwar**, **Bikaner**, and **Jaipur** are additional Rajasthani ateliers beside Mewar, Kishangarh, Bundi, and Kotah.
-30. **Pithora** of the Rathwa (Gujarat / western Madhya Pradesh) is ritual wall painting, not a Mughal album style.
-31. **Gond** painting of Madhya Pradesh uses dotted tree-and-animal patterning. Do not place Gond in Bihar or Maharashtra.
-32. The celebrated treatise *Venushilpa* by Chitracharya Upendra Maharathi is a definitive work on **bamboo** art and craft, not a painting school.
+1. **Pithora** (पिथौरा) painting of the Rathwa of Gujarat saw a GI-led livelihood push in **2025–26**. It is folk wall art. It is not a Mughal school.
+2. **Madhubani** (मधुबनी) carries a GI tag. It is not a UNESCO Intangible Cultural Heritage element.
+3. **Bhimbetka** (भीमबेटका) rock shelters are in Raisen, **Madhya Pradesh. V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
+4. **Mirzapur–Sonbhadra** holds the main **UP** prehistoric rock-art belt. **Bagh** caves are in **Madhya Pradesh**, not UP.
+5. **Rajput** painting is Rajasthan princely and bhakti / ragamala based. **Pahari** painting is Himalayan hill painting. Kangra is hills, not Rajasthan plains.
+6. **Garhwal** is a Pahari school. **Mola Ram** (मोला राम) is its named master. The line begins with **Shyamdas** and **Hardas** as *Tasbirdar* at Srinagar Garhwal in **1658**.
+7. **Tanjore** painting uses gold foil and gems on wood. **Mysore** painting uses finer gesso and is less gem-studded.
+8. **Srikalahasti Kalamkari** is temple pen-work. **Machilipatnam Kalamkari** is block-printed trade cloth.
+9. **Cheriyal** is Telangana narrative scroll painting. **Manjusha** is Bihar’s snake-theme scroll art of the Bhagalpur belt. **Tikuli** is glass-and-enamel craft painting linked with Bihar.
+10. **Madhubani** has a GI tag. It is **not** UNESCO intangible heritage. Do not confuse GI with ICH.
+11. **Ravi Varma** used oil and oleograph realism. **Abanindranath** led the Bengal School wash revival and painted **Bharat Mata** (भारत माता).
+12. **Nandalal Bose** painted the Haripura Congress panels and Constitution illumination. The **Progressive Artists’ Group** formed in **1947. Amrita Sher-Gil** painted *Three Girls*.
+13. **Marwar**, **Bikaner**, and **Jaipur** are additional Rajasthani ateliers beside Mewar, Kishangarh, Bundi, and Kotah.
+14. **Pithora** of the Rathwa (Gujarat / western Madhya Pradesh) is ritual wall painting, not a Mughal album style.
+15. **Gond** painting of Madhya Pradesh uses dotted tree-and-animal patterning. Do not place Gond in Bihar or Maharashtra.
+16. **Bhimbetka** is in Raisen, **MP**. It is UNESCO **2003**, with about **500** shelters.
+17. **Adamgarh** is on the Narmada in **MP**.
+18. **Pachmarhi** is in **MP**.
+19. **Lakhudiyar** is in Almora, Uttarakhand (“one lakh caves”).
+20. **Kupgallu** is a Karnataka Neolithic site.
+21. **Piklihal** is a Karnataka Neolithic site.
+22. **Tekkalkota** is a Karnataka Neolithic site.
+23. **Singhanpur** is in Raigarh.
+24. **Mirzapur–Sonbhadra** holds **UP** rock shelters.
+25. **Jogimara** in Ramgarh, Surguja (**Chhattisgarh**), dating to the **3rd–1st century BCE**, contains the earliest surviving Indian frescoes. The scenes portray secular dancers and animals rather than Buddhist narratives.
+26. **Sitabenga** (सीताबेंगा) is in the same hills. There is a theatre / rest-house debate. Inscriptions are Brahmi–Magadhi.
+27. **Rupabheda** is variety of forms / appearances.
+28. **Pramanam** is proportion / measurement (iconometry).
+29. **Bhava** is emotion / expression.
+30. **Lavanyayojana (Lavanyam)** is grace / charm.
+31. **Sadrisyam** is likeness / verisimilitude.
+32. **Varnikabhangam** is mixing of colours and brush mastery.
+33. **Ellora** (एलोरा) is sculpture-famous. Cave 32 (Indra Sabha) has some paint. It is still not an Ajanta-class painting site.
+34. **Jogimara and Sitabenga** in Surguja/Ramgarh (Chhattisgarh) preserve the earliest surviving pre-Christian Indian frescoes.
+35. **Ajanta** (अजंता) in Maharashtra contains world-renowned Buddhist rock-cut wall paintings executed between the **2nd century BCE and the 6th century CE**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Fresco | Tempera / secco | Pigment on **wet** plaster (Ajanta) vs binder on **dry** surface | भित्ति-फ्रेस्को / टेम्पेरा |
-| Mural | Miniature | Wall/ceiling integral to building vs small album/manuscript | भित्ति / लघु चित्र |
-| Mughal | Rajput | Imperial Persianised court vs Hindu princely, bhakti/ragamala | मुग़ल / राजपूत |
-| Rajput | Pahari | Rajasthan plains (Mewar, Marwar) vs Himalayan hills (Kangra) | राजपूत / पहाड़ी |
-| Basohli | Kangra | Early bold flat colour vs late lyrical Krishna–nature | बसोहली / कांगड़ा |
-| Company | Bengal School | Colonial documentary for EIC vs nationalist wash revival | कंपनी / बंगाल स्कूल |
-| Ravi Varma | Abanindranath | Oil + oleograph realism vs wash / anti-academic revival | रवि वर्मा / अवनिंद्रनाथ |
-| Ajanta | Ellora | Famous for **paintings** vs famous for **sculpture** (Kailasa) | अजंता / एलोरा |
-| Aniconic | Iconic (Ajanta) | Phase I symbols vs Phase II Buddha/Bodhisattva figures | अप्रतिमेय / प्रतिमेय |
-| Hamzanama | Ragamala | Akbar adventure manuscript vs Rajput/Pahari musical-mode series | हमज़ानामा / रागमाला |
-| Tanjore | Mysore | Gold foil + gems on wood vs finer gesso, less gem-studded | तंजावुर / मैसूर |
-| Srikalahasti Kalamkari | Machilipatnam Kalamkari | Temple kalam (pen) religious vs block-print trade cloth | श्रीकालहस्ती / मछलीपट्टनम |
-| Jogimara | Ajanta | Earliest secular fresco (Ramgarh, CG) vs Buddhist narrative peak | जोगीमारा / अजंता |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. **Bhimbetka** is **MP** prehistoric rock art (Wakankar **1957**), **not** Ajanta fresco.
+2. **Bagh** is **MP**, not UP.
+3. In Shadanga, **Pramanam** is proportion. **Bhava** is emotion. **Sadrisyam** is likeness. **Varnikabhangam** is colour.
+4. **Ajanta** is paintings. **Ellora** is sculpture (Kailasa).
+5. **Padmapani** is Cave **1**, Mahayana iconic — not Hinayana aniconic.
+6. **Hamzanama**, **Daswanth** and **Basawan** are **Akbar. Mansur** and **Bishandas** are **Jahangir**.
+7. **Bani Thani** is Kishangarh, **not** Kangra.
+8. The order is Basohli → Guler → Kangra. Kangra is hills, not Marwar.
+9. Company School is not Bengal School. Photography ends Company documentary demand.
+10. Ravi Varma oil/oleograph is not Abanindranath wash.
+11. PAG is **1947** Husain–Raza–Souza. **Raza** is Bindu, not Husain.
+12. Haripura posters are Nandalal Bose **1938**, not Ravi Varma.
+13. Venushilpa is **bamboo**, not painting.
+14. **Sittanavasal** is Jain. **Ajanta** is Buddhist.
+15. Madhubani is GI, not UNESCO ICH. Sigiriya is Sri Lanka.
+16. Mughal painting is miniature, not mural.
+17. **Jogimara** (Chhattisgarh) contains the earliest surviving Indian frescoes — **not** Ajanta and **not** Uttar Pradesh.
+18. Dying Princess is Ajanta **Cave 16**, not Cave 1 Padmapani.
+19. **Nimatnama** is Mandu cookbook, not Akbar. **Hamzanama** is Akbar cloth folios.
+20. **Tanjore** is gold/gems on wood. **Mysore** is finer gesso.
+21. Srikalahasti Kalamkari is pen. Machilipatnam is block-print.
+22. Constitution illuminations and Haripura are **Nandalal**, not Ravi Varma.
+23. **Sanjhi** is Braj/UP. **Pichwai** is Nathdwara. **Phad** is Pabuji.
+24. Deccani (Bijapur/Golconda) is not Kangra. Awadh/**Mihr Chand** is not Sahibdin.
 
 
 ---

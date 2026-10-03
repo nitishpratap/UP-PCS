@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Census and Urbanisation Topic 6 — Urbanisation and Urban Development</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -27,18 +33,6 @@ hide:
 | **UP Most Urbanised District (%)**: **Ghaziabad (67.6%)** | **UP Most Populous City (Corporation)**: **Kanpur Nagar** | **Trap**: Ghaziabad is the most urbanised district by percentage; Kanpur is the largest city by municipal population in UP. |
 | **Census Slum Threshold**: Minimum **300 people or 60–70 households** | **Highest Slum Population State**: **Maharashtra (1.18 Crore)** | **Trap**: 300 persons is the census identification threshold; Maharashtra has the most slum dwellers. |
 | **73rd Amendment (Panchayats)**: Part IX, 11th Schedule (29 items) | **74th Amendment (Municipalities)**: Part IX-A, 12th Schedule (18 items) | **Trap**: 11th Schedule has 29 items (Panchayats); 12th Schedule has 18 items (Municipalities). |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -170,18 +164,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** As per Census 2011, India's total Urban Population was 37.71 Crore (31.16% of total population).
-- **Exam Anchor:** The decadal growth rate of the urban population during 2001–2011 was 31.80% (compared to 12.30% for rural population).
 - **Exam Anchor:** Goa is the most urbanised State in India, with 62.2% of its population living in urban areas.
 - **Exam Anchor:** Mizoram is the second most urbanised State in India (52.1%), followed by Tamil Nadu (48.4%).
 - **Exam Anchor:** Himachal Pradesh is the least urbanised State in India, with only 10.0% urban population.
 - **Exam Anchor:** Bihar is the second least urbanised State in India (11.3%), followed by Assam (14.1%).
-- **Exam Anchor:** Among Union Territories, the NCT of Delhi is the most urbanised (97.5%), followed by Chandigarh (97.3%).
 - **Exam Anchor:** Maharashtra has the largest absolute urban population in India (5.08 Crore), followed by Uttar Pradesh (4.45 Crore).
-
-</details>
+- **Exam Anchor:** Class I Towns (Cities) are defined as urban centres having a population of 100,000 (1 Lakh) and above.
+- **Exam Anchor:** Greater Mumbai Urban Agglomeration is the most populous urban agglomeration in India with 18.4 Million inhabitants.
+- **Exam Anchor:** Delhi Urban Agglomeration is the second most populous UA (16.3 Million), followed by Kolkata UA (14.1 Million).
 
 ---
 

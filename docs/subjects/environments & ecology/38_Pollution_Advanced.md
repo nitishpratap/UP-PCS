@@ -21,7 +21,8 @@ Air Pollution (Sources | Air Quality | AQI | NCAP (राष्ट्रीय �
 
 ---
 
-## Consolidated — 38 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 38 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Primary** air pollutants are emitted directly (SO₂, PM, CO, NOx, lead). **Secondary** pollutants form in air (O₃, PAN, photochemical smog, acid mist).
 2. **Lichens** are pollution indicators and do **not** grow well in badly polluted air.
@@ -62,9 +63,10 @@ Air Pollution (Sources | Air Quality | AQI | NCAP (राष्ट्रीय �
 37. Excess **nitrogen and phosphorus** fertilisers drive **eutrophication**, raise nitrate in groundwater, and link to **N₂O** climate forcing — Indo-Gangetic wheat–rice systems are high-input geography.
 38. Fertiliser pollution is mostly **nutrient overload**, not heavy-metal tanning chemistry.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -73,7 +75,8 @@ Air Pollution (Sources | Air Quality | AQI | NCAP (राष्ट्रीय �
 | **Classical (London) Smog** | **Photochemical (Los Angeles) Smog** | Occurs in cool, humid winter mornings; sulfurous, reducing, coal-smoke based vs occurs in dry, sunny afternoons; oxidizing, auto-exhaust NOx + VOCs generating ground ozone and PAN | लंदन स्मॉग (सल्फ्यूरस, अपचायक) / प्रकाश रासायनिक स्मॉग (ऑक्सीकारक) |
 | **Central Pollution Control Board (CPCB)** | **Central Ground Water Board (CGWB)** | Statutory body under Water Act 1974 for overall air/water quality monitoring vs apex subordinate office under Jal Shakti Ministry for groundwater management | सीपीसीबी (प्रदूषण नियंत्रण) / सीजीडब्ल्यूबी (भूजल बोर्ड) |
 | **SAFAR** | **NCAP** | Ministry of Earth Sciences real-time metropolitan air quality forecasting system vs MoEFCC national targeted programme to cut PM2.5/PM10 by 20–30% across 131 non-attainment cities | सफर (सटीक पूर्वानुमान प्रणाली) / राष्ट्रीय स्वच्छ वायु कार्यक्रम |
----
+
+</details>
 
 ## Must-score facts — AQI, smog, BOD, disease traps
 

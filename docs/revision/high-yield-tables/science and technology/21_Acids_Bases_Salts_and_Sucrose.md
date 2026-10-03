@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chemistry Topic 4 — Acids, Bases, Salts and Carbohydrates</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (2024–2026)
+
+| Year | Event | Core Concept & Must-Score Significance |
+|------|--------------|-----------------------------------|
+| **2025–2026** | **Global Ocean Acidification Monitoring** | Ocean absorption of anthropogenic $CO_2$ produces carbonic acid ($CO_2 + H_2O \rightleftharpoons H_2CO_3 \rightleftharpoons H^+ + HCO_3^-$), dropping surface ocean pH from pre-industrial $8.25$ to $\approx 8.14$. Even this $0.1$ unit drop represents a $\approx 30\%$ increase in $[H^+]$ activity, severely impairing calcium carbonate ($CaCO_3$) calcification by coral reefs and molluscs. |
+| **2025** | **UPPCS Prelims 2025** | Direct question on **pH Scale Inversion & Acid-Base Identification**: Keyed that statements claiming "Acids have pH > 7" or "Bases have pH < 7" are unequivocally false. Re-tested baking soda ($NaHCO_3$) decomposition in soda-acid fire extinguishers ($2NaHCO_3 + H_2SO_4 \to Na_2SO_4 + 2H_2O + 2CO_2 \uparrow$). |
+| **2024** | **UPPCS Prelims 2024** | Question on **Litmus Paper Response**: Acid turns blue litmus paper red; base turns red litmus blue. Litmus is derived naturally from **Lichens** (symbiotic association of fungus and alga). |
+| **2024** | **UPPCS / UKPCS Trends** | Formula: **Baking Soda is $NaHCO_3$** (Sodium hydrogen carbonate); **Washing Soda is $Na_2CO_3 \cdot 10H_2O$** (Sodium carbonate decahydrate); **Plaster of Paris is $CaSO_4 \cdot \frac{1}{2}H_2O$**; **Gypsum is $CaSO_4 \cdot 2H_2O$**. |
+| **2023** | **Biomolecules & Sweeteners** | Testing of **Relative Sweetness Index**: **Fructose** is the sweetest naturally occurring sugar ($1.7\times$ sweeter than sucrose). Cane sugar (**Sucrose**) is a non-reducing disaccharide composed of $\alpha\text{-D-glucose} + \beta\text{-D-fructose}$, hydrolyzing to yield optically inverted **Invert Sugar**. |
+
+---
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -25,22 +35,6 @@ hide:
 | **Quicklime vs. Slaked Lime** | **Quicklime**: Calcium Oxide (**$CaO$**). Dry solid produced by calcining limestone. | **Slaked Lime**: Calcium Hydroxide (**$Ca(OH)_2$**). Produced by adding water to quicklime (slaking). | **Hydration State**: Quicklime is anhydrous ($CaO$); Slaked lime contains hydroxide ($Ca(OH)_2$). |
 | **Efflorescence vs. Deliquescence** | **Efflorescence**: Hydrated crystal loses water of crystallization to dry air (e.g., $Na_2CO_3 \cdot 10H_2O \to Na_2CO_3 \cdot H_2O$). | **Deliquescence**: Substance absorbs atmospheric moisture until it completely dissolves into a liquid solution (e.g., $CaCl_2, NaOH$). | **Water Direction**: Efflorescence gives away water molecules into air; Deliquescence sucks in water from air until liquefied. |
 | **Arrhenius Base vs. Lewis Base** | **Arrhenius Base**: Yields **$OH^-$ ions** when dissolved in aqueous solution. | **Lewis Base**: An **electron-pair donor** ($e^-$ pair donor, e.g., $:NH_3$). | **Scope & Solvent**: Arrhenius is strictly restricted to water solutions yielding $OH^-$; Lewis applies to any solvent or gas phase donating an electron pair. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (2024–2026)
-
-| Year | Event | Core Concept & Must-Score Significance |
-|------|--------------|-----------------------------------|
-| **2025–2026** | **Global Ocean Acidification Monitoring** | Ocean absorption of anthropogenic $CO_2$ produces carbonic acid ($CO_2 + H_2O \rightleftharpoons H_2CO_3 \rightleftharpoons H^+ + HCO_3^-$), dropping surface ocean pH from pre-industrial $8.25$ to $\approx 8.14$. Even this $0.1$ unit drop represents a $\approx 30\%$ increase in $[H^+]$ activity, severely impairing calcium carbonate ($CaCO_3$) calcification by coral reefs and molluscs. |
-| **2025** | **UPPCS Prelims 2025** | Direct question on **pH Scale Inversion & Acid-Base Identification**: Keyed that statements claiming "Acids have pH > 7" or "Bases have pH < 7" are unequivocally false. Re-tested baking soda ($NaHCO_3$) decomposition in soda-acid fire extinguishers ($2NaHCO_3 + H_2SO_4 \to Na_2SO_4 + 2H_2O + 2CO_2 \uparrow$). |
-| **2024** | **UPPCS Prelims 2024** | Question on **Litmus Paper Response**: Acid turns blue litmus paper red; base turns red litmus blue. Litmus is derived naturally from **Lichens** (symbiotic association of fungus and alga). |
-| **2024** | **UPPCS / UKPCS Trends** | Formula: **Baking Soda is $NaHCO_3$** (Sodium hydrogen carbonate); **Washing Soda is $Na_2CO_3 \cdot 10H_2O$** (Sodium carbonate decahydrate); **Plaster of Paris is $CaSO_4 \cdot \frac{1}{2}H_2O$**; **Gypsum is $CaSO_4 \cdot 2H_2O$**. |
-| **2023** | **Biomolecules & Sweeteners** | Testing of **Relative Sweetness Index**: **Fructose** is the sweetest naturally occurring sugar ($1.7\times$ sweeter than sucrose). Cane sugar (**Sucrose**) is a non-reducing disaccharide composed of $\alpha\text{-D-glucose} + \beta\text{-D-fructose}$, hydrolyzing to yield optically inverted **Invert Sugar**. |
 
 ---
 
@@ -195,18 +189,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Arrhenius Theory: An acid is a chemical substance that dissociates in aqueous solution to yield hydrogen ions ($H^+$ or hydronium ions $H3O^+$); a base dissociates to yield hydroxide ions ($OH^-$).
 - **Exam Anchor:** Brønsted-Lowry Theory: An acid is a proton ($H^+$) donor, and a base is a proton ($H^+$) acceptor. Every acid has a corresponding conjugate base, and every base has a conjugate acid.
 - **Exam Anchor:** Lewis Theory: An acid is an electron-pair acceptor (electrophile, e.g., $BF3, AlCl3, H^+$); a base is an electron-pair donor (nucleophile, e.g., $NH3, H2O, OH^-$).
-- **Exam Anchor:** The pH scale was devised in 1909 by Danish biochemist S.P.L. Sørensen at the Carlsberg Laboratory:
-- **Exam Anchor:** In pure neutral water at standard room temperature ($25^\circ\text{C}$ or $298\text{ K}$), $[H^+] = [OH^-] = 10^{-7}\text{ M}$, yielding:
 - **Exam Anchor:** Acidic solutions possess $[H^+] > 10^{-7}\text{ M}$, corresponding to $\text{pH} < 7$. The lower the pH value, the stronger the acidity.
 - **Exam Anchor:** Basic (alkaline) solutions possess $[H^+] < 10^{-7}\text{ M}$ and $[OH^-] > 10^{-7}\text{ M}$, corresponding to $\text{pH} > 7$. The higher the pH value, the stronger the alkalinity.
-- **Exam Anchor:** At $25^\circ\text{C}$, the ionic product of water is $Kw = [H^+][OH^-] = 10^{-14}\text{ mol}^2/\text{L}^2$, which dictates:
-
-</details>
+- **Exam Anchor:** Temperature Effect on pH: Because auto-ionization of water ($H2O \rightleftharpoons H^+ + OH^-$) is endothermic, increasing temperature shifts equilibrium to the right, increasing $Kw$. Consequently, at $50^\circ\text{C}$ the pH of pure neutral water drops to $\approx 6.63$, but the water remains completely neutral because $[H^+]$ remains exactly equal to $[OH^-]$.
+- **Exam Anchor:** Human Blood pH: Strictly maintained within the narrow, slightly alkaline window of $7.35\text{ to }7.45$ (mean $\approx 7.40$). A blood pH drop below $7.0$ (acidosis) or rise above $7.8$ (alkalosis) is fatal.
+- **Exam Anchor:** Human Gastric Juice contains hydrochloric acid ($HCl$, $\sim 0.5\%$), with a highly acidic pH of $1.0\text{ to }1.5$, which activates the protein-digesting enzyme pepsinogen into pepsin and sterilizes ingested pathogens.
 
 ---
 
@@ -275,10 +267,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Acidic applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. The pH scale was devised in 1909 by Danish biochemist S.P.L. Sørensen at the Carlsberg Laboratory:
+D. Acidic solutions possess $[H^+] > 10^{-7}\text{ M}$, corresponding to $\text{pH} < 7$. The lower the pH value, the stronger the acidity.
 
 <details>
 <summary>Show answer</summary>
@@ -286,7 +278,7 @@ D. The pH scale was devised in 1909 by Danish biochemist S.P.L. Sørensen at the
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **pH scale** was devised in 1909 by Danish biochemist **S.P.L. Sørensen** at the Carlsberg Laboratory:
+- **Key Exam Association:** **Acidic solutions** possess $[H^+] > 10^{-7}\text{ M}$, corresponding to **$\text{pH} < 7$**. The lower the pH value, the stronger the acidity.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -294,7 +286,7 @@ D. The pH scale was devised in 1909 by Danish biochemist S.P.L. Sørensen at the
 
 Which of the following is correct regarding this topic?
 
-A. In pure neutral water at standard room temperature ($25^\circ\text{C}$ or $298\text{ K}$), $[H^+] = [OH^-] = 10^{-7}\text{ M}$, yielding:
+A. Basic (alkaline) solutions possess $[H^+] < 10^{-7}\text{ M}$ and $[OH^-] > 10^{-7}\text{ M}$, corresponding to $\text{pH} > 7$. The higher the pH value, the stronger the alkalinity.
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -305,7 +297,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** In pure neutral water at standard room temperature ($25^\circ\text{C}$ or $298\text{ K}$), $[H^+] = [OH^-] = 10^{-7}\text{ M}$, yielding:
+- **Key Exam Association:** **Basic (alkaline) solutions** possess $[H^+] < 10^{-7}\text{ M}$ and $[OH^-] > 10^{-7}\text{ M}$, corresponding to **$\text{pH} > 7$**. The higher the pH value, the stronger the alkalinity.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -313,8 +305,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Acidic applies only to union territories and not state jurisdictions.
-B. Acidic solutions possess $[H^+] > 10^{-7}\text{ M}$, corresponding to $\text{pH} < 7$. The lower the pH value, the stronger the acidity.
+A. Contrary to standard doctrine, Temperature applies only to union territories and not state jurisdictions.
+B. Temperature Effect on pH: Because auto-ionization of water ($H2O \rightleftharpoons H^+ + OH^-$) is endothermic, increasing temperature shifts equilibrium to the right, increasing $Kw$. Consequently, at $50^\circ\text{C}$ the pH of pure neutral water drops to $\approx 6.63$, but the water remains completely neutral because $[H^+]$ remains exactly equal to $[OH^-]$.
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -324,7 +316,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Acidic solutions** possess $[H^+] > 10^{-7}\text{ M}$, corresponding to **$\text{pH} < 7$**. The lower the pH value, the stronger the acidity.
+- **Key Exam Association:** **Temperature Effect on pH**: Because auto-ionization of water ($H_2O \rightleftharpoons H^+ + OH^-$) is endothermic, increasing temperature shifts equilibrium to the right, increasing $K_w$. Consequently, at $50^\circ\text{C}$ the pH of pure neutral water drops to $\approx 6.63$, but the water **remains completely neutral** because $[H^+]$ remains exactly equal to $[OH^-]$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -332,86 +324,10 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Basic applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Basic (alkaline) solutions possess $[H^+] < 10^{-7}\text{ M}$ and $[OH^-] > 10^{-7}\text{ M}$, corresponding to $\text{pH} > 7$. The higher the pH value, the stronger the alkalinity.
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Basic (alkaline) solutions** possess $[H^+] < 10^{-7}\text{ M}$ and $[OH^-] > 10^{-7}\text{ M}$, corresponding to **$\text{pH} > 7$**. The higher the pH value, the stronger the alkalinity.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q8.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, At applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. At $25^\circ\text{C}$, the ionic product of water is $Kw = [H^+][OH^-] = 10^{-14}\text{ mol}^2/\text{L}^2$, which dictates:
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** At $25^\circ\text{C}$, the ionic product of water is $K_w = [H^+][OH^-] = 10^{-14}\text{ mol}^2/\text{L}^2$, which dictates:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q9.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Temperature Effect on pH: Because auto-ionization of water ($H2O \rightleftharpoons H^+ + OH^-$) is endothermic, increasing temperature shifts equilibrium to the right, increasing $Kw$. Consequently, at $50^\circ\text{C}$ the pH of pure neutral water drops to $\approx 6.63$, but the water remains completely neutral because $[H^+]$ remains exactly equal to $[OH^-]$.
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Temperature Effect on pH**: Because auto-ionization of water ($H_2O \rightleftharpoons H^+ + OH^-$) is endothermic, increasing temperature shifts equilibrium to the right, increasing $K_w$. Consequently, at $50^\circ\text{C}$ the pH of pure neutral water drops to $\approx 6.63$, but the water **remains completely neutral** because $[H^+]$ remains exactly equal to $[OH^-]$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q10.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, A applies only to union territories and not state jurisdictions.
-B. A change of 1 pH unit represents a tenfold ($10\times$) change in hydrogen ion concentration. A solution of pH 2 is $100$ times more acidic than a solution of pH 4 ($10^{4-2} = 10^2$).
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** A change of **1 pH unit** represents a **tenfold ($10\times$) change in hydrogen ion concentration**. A solution of pH 2 is $100$ times more acidic than a solution of pH 4 ($10^{4-2} = 10^2$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q11.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
 A. Contrary to standard doctrine, Human applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
+B. Excavated primarily in the Belan and Son River valleys
 C. Human Blood pH: Strictly maintained within the narrow, slightly alkaline window of $7.35\text{ to }7.45$ (mean $\approx 7.40$). A blood pH drop below $7.0$ (acidosis) or rise above $7.8$ (alkalosis) is fatal.
-D. It was established during the First Five-Year Plan period
+D. Classified under Schedule VII List II (State List)
 
 <details>
 <summary>Show answer</summary>
@@ -423,14 +339,14 @@ D. It was established during the First Five-Year Plan period
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q12.** in Science & Technology, consider the following statement:
+**Q8.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
+A. Contrary to standard doctrine, Human applies only to union territories and not state jurisdictions.
+B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. The primary biological buffer maintaining human blood pH is the Carbonic acid–Bicarbonate buffer system:
+D. Human Gastric Juice contains hydrochloric acid ($HCl$, $\sim 0.5\%$), with a highly acidic pH of $1.0\text{ to }1.5$, which activates the protein-digesting enzyme pepsinogen into pepsin and sterilizes ingested pathogens.
 
 <details>
 <summary>Show answer</summary>
@@ -438,7 +354,83 @@ D. The primary biological buffer maintaining human blood pH is the Carbonic acid
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The primary biological buffer maintaining human blood pH is the **Carbonic acid–Bicarbonate buffer system**:
+- **Key Exam Association:** **Human Gastric Juice** contains hydrochloric acid ($HCl$, $\sim 0.5\%$), with a highly acidic pH of **$1.0\text{ to }1.5$**, which activates the protein-digesting enzyme pepsinogen into pepsin and sterilizes ingested pathogens.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q9.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Acid Rain is defined as precipitation with a $\text{pH} < 5.6$, caused primarily by atmospheric emissions of sulphur dioxide ($SO2$) and nitrogen oxides ($NOx$) reacting with rainwater to form sulphuric acid ($H2SO4$) and nitric acid ($HNO3$).
+B. Originated during the Later Vedic transitional period
+C. None of the above statements are correct according to official Commission keys.
+D. Statement I is correct but Statement II is incorrect
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Acid Rain** is defined as precipitation with a **$\text{pH} < 5.6$**, caused primarily by atmospheric emissions of sulphur dioxide ($SO_2$) and nitrogen oxides ($NO_x$) reacting with rainwater to form sulphuric acid ($H_2SO_4$) and nitric acid ($HNO_3$).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q10.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Natural applies only to union territories and not state jurisdictions.
+B. Natural Organic Acids & Food Sources:
+C. None of the above statements are correct according to official Commission keys.
+D. Both statements are true and explain the phenomenon
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Natural Organic Acids & Food Sources**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q11.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Acetic applies only to union territories and not state jurisdictions.
+B. Both statements are true and explain the phenomenon
+C. Acetic Acid (Ethanoic Acid, $CH3COOH$): Vinegar ($4–8\%$ aqueous solution).
+D. It was established during the First Five-Year Plan period
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Acetic Acid (Ethanoic Acid, $CH_3COOH$)**: Vinegar ($4–8\%$ aqueous solution).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q12.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Formic applies only to union territories and not state jurisdictions.
+B. It was established during the First Five-Year Plan period
+C. None of the above statements are correct according to official Commission keys.
+D. Formic Acid (Methanoic Acid, $HCOOH$): Stings of red ants, bees, wasps, and stinging nettle plant hairs.
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Formic Acid (Methanoic Acid, $HCOOH$)**: Stings of red ants, bees, wasps, and stinging nettle plant hairs.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -446,7 +438,7 @@ D. The primary biological buffer maintaining human blood pH is the Carbonic acid
 
 Which of the following is correct regarding this topic?
 
-A. Human Gastric Juice contains hydrochloric acid ($HCl$, $\sim 0.5\%$), with a highly acidic pH of $1.0\text{ to }1.5$, which activates the protein-digesting enzyme pepsinogen into pepsin and sterilizes ingested pathogens.
+A. Citric Acid ($C6H8O7$): Citrus fruits (lemons, oranges, limes, sweet limes).
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -457,7 +449,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Human Gastric Juice** contains hydrochloric acid ($HCl$, $\sim 0.5\%$), with a highly acidic pH of **$1.0\text{ to }1.5$**, which activates the protein-digesting enzyme pepsinogen into pepsin and sterilizes ingested pathogens.
+- **Key Exam Association:** **Citric Acid ($C_6H_8O_7$)**: Citrus fruits (lemons, oranges, limes, sweet limes).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -465,8 +457,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Normal applies only to union territories and not state jurisdictions.
-B. Normal Human Saliva has a pH range of $6.5\text{ to }7.5$. When oral bacteria ferment dietary sugars, dropping saliva pH below $5.5$, tooth enamel (calcium hydroxyapatite, $Ca{10}(PO4)6(OH)2$) begins to demineralize, initiating dental decay.
+A. Contrary to standard doctrine, Tartaric applies only to union territories and not state jurisdictions.
+B. Tartaric Acid ($C4H6O6$): Tamarind (imli), unripe grapes, cream of tartar; essential component of baking powder.
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -476,7 +468,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Normal **Human Saliva** has a pH range of **$6.5\text{ to }7.5$**. When oral bacteria ferment dietary sugars, dropping saliva pH below **$5.5$**, tooth enamel (calcium hydroxyapatite, $Ca_{10}(PO_4)_6(OH)_2$) begins to demineralize, initiating dental decay.
+- **Key Exam Association:** **Tartaric Acid ($C_4H_6O_6$)**: Tamarind (imli), unripe grapes, cream of tartar; essential component of baking powder.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -484,9 +476,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Acid applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Lactic applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Acid Rain is defined as precipitation with a $\text{pH} < 5.6$, caused primarily by atmospheric emissions of sulphur dioxide ($SO2$) and nitrogen oxides ($NOx$) reacting with rainwater to form sulphuric acid ($H2SO4$) and nitric acid ($HNO3$).
+C. Lactic Acid ($CH3CH(OH)COOH$): Sour milk, curd (dahi), yogurt; muscle accumulation during anaerobic respiration causes muscular fatigue and cramps.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -495,6 +487,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Acid Rain** is defined as precipitation with a **$\text{pH} < 5.6$**, caused primarily by atmospheric emissions of sulphur dioxide ($SO_2$) and nitrogen oxides ($NO_x$) reacting with rainwater to form sulphuric acid ($H_2SO_4$) and nitric acid ($HNO_3$).
+- **Key Exam Association:** **Lactic Acid ($CH_3CH(OH)COOH$)**: Sour milk, curd (dahi), yogurt; muscle accumulation during anaerobic respiration causes muscular fatigue and cramps.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

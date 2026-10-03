@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 7 — Indian Theatre & Performing Arts</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -33,11 +31,7 @@ hide:
 | Tholu Bommalata | Ravana Chhaya | Andhra coloured leather vs Odisha dark deer-skin shadow | तोलू बोम्मलता / रावण छाया |
 | Bidesiya | Nautanki | Bhojpuri migrant play vs UP folk opera | बिदेसिया / नौटंकी |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Texts / playwrights
 
@@ -95,18 +89,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** Koodiyattam (कूड़ियाट्टम्) was proclaimed a UNESCO masterpiece in 2001 and entered the Representative List in 2008.
+- **Exam Anchor:** Ramlila (रामलीला) entered UNESCO ICH in 2008.
+- **Exam Anchor:** Mudiyettu (मुडियेट्टु) of Kerala entered UNESCO ICH in 2010. It is ritual theatre, not Kathakali.
 - **Exam Anchor:** Natyashastra (नाट्यशास्त्र) by Bharata Muni (भरत मुनि) (about 200 BCE–200 CE) codifies drama with about 10 rupaka (रूपक), 9 rasa (रस), and four abhinaya (अभिनय).
 - **Exam Anchor:** Abhinavabharati (अभिनवभारती) is Abhinavagupta’s (अभिनवगुप्त) commentary on Natyashastra. Dasharupaka (दशरूपक) is Dhananjaya’s (धनंजय) later summary of play types.
 - **Exam Anchor:** Ashvaghosha (अश्वघोष) is often tagged with the earliest Sanskrit play tradition. Bhasa (भास) left about 13 plays. Kalidasa (कालिदास) wrote three dramas.
 - **Exam Anchor:** Shudraka (शूद्रक) wrote Mrichchhakatika (मृच्छकटिकम्). Vishakhadatta (विशाखदत्त) wrote Mudrarakshasa (मुद्राराक्षस). Bhavabhuti (भवभूति) wrote Uttararamacharita (उत्तररामचरित). King Harsha (हर्ष) wrote Ratnavali (रत्नावली).
-- **Exam Anchor:** Shringara Shataka (शृंगार शतक) is by Bhartrihari (भर्तृहरि), not Kalidasa. Do not park poem titles inside the drama list.
 - **Exam Anchor:** Yavanika (यवनिका) is the stage curtain. Nepathya (नेपथ्य) is the backstage dressing room. Sutradhara (सूत्रधार) is the director and narrator-presenter.
-- **Exam Anchor:** The oldest rock-cut theatre in India is Sitabenga (सीताबेंगा) at Ramgarh in Chhattisgarh. Neighbouring Jogimara (जोगीमारा) is noted for early frescoes, not theatrical architecture.
-- **Exam Anchor:** Kerala temple theatre houses are called koothambalam (कूथम्बलम). Living Sanskrit theatre is Koodiyattam (कूड़ियाट्टम्) of the Chakyar (चाक्यार) tradition with the mizhavu (मिझावु) drum.
-
-</details>
 
 ---
 

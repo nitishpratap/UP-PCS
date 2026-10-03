@@ -21,7 +21,8 @@ Desertification | Land Degradation (भू-क्षरण) | Drought (सूख
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** drylands. It is not merely “the desert expanding.”
 2. Drivers combine climate variation with human pressures such as overgrazing, deforestation, and bad irrigation.
@@ -46,9 +47,10 @@ Desertification | Land Degradation (भू-क्षरण) | Drought (सूख
 21. Thar wind processes and Chambal water ravines are twin Indian landform facts.
 22. Deforestation removes cover and raises runoff and erosion risk in drylands and beyond.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -57,7 +59,8 @@ Desertification | Land Degradation (भू-क्षरण) | Drought (सूख
 | **Sheet Erosion** | **Gully Erosion** | Uniform, imperceptible removal of thin topsoil layer by surface runoff on gentle slopes vs formation of deep pronounced ravines and gorges rendering land unfit for cultivation (Chambal Badlands) | परत अपरदन (अदृश्य मिट्टी ह्रास) / अवनलिका अपरदन (बीहड़ निर्माण) |
 | **UNCCD (1994)** | **UNFCCC (1992)** | Only legally binding international agreement linking environment and development to sustainable land management in drylands vs framework treaty for combating greenhouse gases | मरुस्थलीकरण संधि (UNCCD) / जलवायु संधि (UNFCCC) |
 | **Land Degradation Neutrality (LDN)** | **Net Zero Emissions** | Target under SDG 15.3 ensuring no net loss of healthy land resources by 2030 vs balancing anthropogenic GHG emissions with equivalent carbon removals | भूमि क्षरण तटस्थता (LDN) / नेट जीरो उत्सर्जन |
----
+
+</details>
 
 ## Must-score facts — ASDM, Chambal, UNCCD, LDN
 

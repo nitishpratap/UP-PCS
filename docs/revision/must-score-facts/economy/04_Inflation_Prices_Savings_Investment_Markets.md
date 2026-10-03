@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Economy Topic 4 — Inflation, Prices, Savings, Investment and Financial Markets</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Inflation** is a sustained rise in the general price level, which cuts the purchasing power of money.
 2. **Deflation** is a sustained fall in the general price level.
@@ -23,70 +22,46 @@ hide:
 7. **Bottleneck / structural inflation** comes from supply bottlenecks and weak distribution — tough for demand management alone.
 8. **Headline inflation** covers the full basket, including food and energy.
 9. **Core inflation** excludes volatile food and fuel to show underlying pressure.
-10. In India, **retail / headline inflation** for policy is measured by the **Consumer Price Index (Combined)**.
-11. **CPI** is compiled by the **National Statistical Office (NSO)** under **MoSPI**.
-12. Segment CPIs in older teaching include CPI-IW, CPI-AL / RL (Labour Bureau lane) — Combined CPI is the all-India headline key.
-13. **WPI (Wholesale Price Index)** tracks wholesale / producer-level goods prices and **excludes services**.
-14. **WPI** is released by the **Office of the Economic Adviser**, DPIIT, **Ministry of Commerce and Industry** (base year teaching often **2011–12**).
-15. **GDP deflator** = (Nominal GDP / Real GDP) × 100 — a broad output-price measure, not the usual retail-inflation key.
-16. **IIP** measures industrial production volume — not an inflation index.
-17. Inflation **benefits debtors** (real burden of fixed debt falls) and hurts **creditors / bondholders / fixed-income** groups whose real receipts erode.
-18. Moderate inflation can coexist with growth; very high inflation damages savings, contracts and planning.
-19. Control mix: monetary tightening (Topic 3 tools), fiscal restraint, supply-side fixes (logistics, stocks, imports), and administrative measures on essentials.
-20. **Savings** = income not consumed. **Household financial savings** sit in deposits, shares, insurance, pensions and small savings.
-21. **Investment / capital formation** builds physical and related productive assets (machinery, structures, inventories teaching).
-22. **Gross capital formation** is the flow of investment in a period; **gross domestic savings** finance it from domestic sources (plus foreign saving).
-23. The **household sector** dominates India’s gross domestic savings; within household savings, **physical assets** usually lead deposits / currency / shares.
-24. **High capital–output ratio** can keep growth low even when savings and capital formation look high (Topic 1 neighbour).
-25. Capital-formation data: **RBI + CSO/NSO** (K.N. Raj committee roles).
-26. In a closed-economy identity teaching, **S = I** in equilibrium; open economy adds net foreign capital.
-27. **Financial markets** channel savings to investment through instruments and intermediaries.
-28. **Money market**: short-term funds (T-bills, commercial paper, call money, certificates of deposit teaching).
-29. **Capital market**: longer-term funds — **equity** (shares) and **debt** (bonds / debentures).
-30. **Primary market** issues new securities; **secondary market** trades existing ones (liquidity for investors).
-31. **SEBI** regulates the securities market — exchanges, brokers, mutual funds, listed companies (capital-market depth here; one-line in Topic 11).
-32. **Mutual funds** pool investors’ money into portfolios of securities under SEBI norms; NAV reflects portfolio value.
-33. **Insurance** products (life / general) are market savings / risk tools; **IRDAI** is the sector regulator (list depth in Topic 11).
-34. **NPS (National Pension System)** is a market-linked pension architecture under PFRDA supervision teaching.
-35. **Bonds** are debt instruments; rising inflation / rates typically hurt existing fixed-coupon bond prices.
-36. **Equity** offers residual ownership claims; returns are not contractually fixed like many bonds.
-37. **Financial literacy** is the ability to understand products, risk, inflation and compounding for better household decisions.
-38. **Real interest rate** ≈ nominal rate − inflation — when inflation exceeds the nominal rate, real returns turn negative.
-39. **Hyperinflation** is extremely rapid inflation that destroys money’s store-of-value role (rare teaching extreme).
-40. **Reflation** is policy aimed at raising prices / demand after a deflationary or weak spell.
-41. Imported inflation rises when foreign prices or a weaker rupee lift domestic costs of imports.
-42. Wage–price spiral teaching: wages chase prices and prices chase wages.
-43. Indexation (DA, some contracts) adjusts payments to inflation so real incomes / obligations stay closer to intended levels.
-44. **Creeping inflation** is a mild rise (often taught as under ~3%); it can coexist with growth.
-45. **Walking / trotting inflation** is the moderate warning band in school lists.
-46. **Running / galloping / hyperinflation** marks rapid to out-of-control price rises.
-47. **Demand-pull inflation** = too much money chasing too few goods at high capacity.
-48. **Cost-push inflation** = supply shocks (oil, wages, raw materials) raise unit costs.
-49. **Structural inflation** in India teaching stresses bottlenecks, storage and marketing rigidities.
-50. During inflation, **debtors gain** and **creditors lose** in real terms.
-
-</details>
+10. **CPI** is compiled by the **National Statistical Office (NSO)** under **MoSPI**.
+11. **WPI (Wholesale Price Index)** tracks wholesale / producer-level goods prices and **excludes services**.
+12. **WPI** is released by the **Office of the Economic Adviser**, DPIIT, **Ministry of Commerce and Industry** (base year teaching often **2011–12**).
+13. **GDP deflator** = (Nominal GDP / Real GDP) × 100 — a broad output-price measure, not the usual retail-inflation key.
+14. **IIP** measures industrial production volume — not an inflation index.
+15. **Savings** = income not consumed. **Household financial savings** sit in deposits, shares, insurance, pensions and small savings.
+16. **Investment / capital formation** builds physical and related productive assets (machinery, structures, inventories teaching).
+17. **Gross capital formation** is the flow of investment in a period; **gross domestic savings** finance it from domestic sources (plus foreign saving).
+18. **High capital–output ratio** can keep growth low even when savings and capital formation look high (Topic 1 neighbour).
+19. **Financial markets** channel savings to investment through instruments and intermediaries.
+20. **Money market**: short-term funds (T-bills, commercial paper, call money, certificates of deposit teaching).
+21. **Capital market**: longer-term funds — **equity** (shares) and **debt** (bonds / debentures).
+22. **Primary market** issues new securities; **secondary market** trades existing ones (liquidity for investors).
+23. **SEBI** regulates the securities market — exchanges, brokers, mutual funds, listed companies (capital-market depth here; one-line in Topic 11).
+24. **Mutual funds** pool investors’ money into portfolios of securities under SEBI norms; NAV reflects portfolio value.
+25. **Insurance** products (life / general) are market savings / risk tools; **IRDAI** is the sector regulator (list depth in Topic 11).
+26. **NPS (National Pension System)** is a market-linked pension architecture under PFRDA supervision teaching.
+27. **Bonds** are debt instruments; rising inflation / rates typically hurt existing fixed-coupon bond prices.
+28. **Equity** offers residual ownership claims; returns are not contractually fixed like many bonds.
+29. **Financial literacy** is the ability to understand products, risk, inflation and compounding for better household decisions.
+30. **Real interest rate** ≈ nominal rate − inflation — when inflation exceeds the nominal rate, real returns turn negative.
+31. **Hyperinflation** is extremely rapid inflation that destroys money’s store-of-value role (rare teaching extreme).
+32. **Reflation** is policy aimed at raising prices / demand after a deflationary or weak spell.
+33. **Creeping inflation** is a mild rise (often taught as under ~3%); it can coexist with growth.
+34. **Walking / trotting inflation** is the moderate warning band in school lists.
+35. **Running / galloping / hyperinflation** marks rapid to out-of-control price rises.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **Inflation** | **Disinflation** | Rising prices vs falling inflation *rate* |
-| **Deflation** | **Disinflation** | Falling price level vs slowing inflation |
-| **Headline** | **Core** | Full basket vs ex-food & fuel |
-| **CPI** | **WPI** | Retail (+ services) vs wholesale goods only |
-| **CPI agency (MoSPI/NSO)** | **WPI agency (Commerce / OEA)** | Different ministries |
-| **Retail inflation key** | **GDP deflator / IIP** | CPI vs output-price / production index |
-| **Debtors gain** | **Bondholders / fixed income lose** | Real debt burden falls vs real receipts erode |
-| **Money market** | **Capital market** | Short-term vs long-term |
-| **Primary market** | **Secondary market** | New issue vs trading existing securities |
-| **SEBI** | **RBI** | Securities market vs monetary / banking |
-| **Demand-pull** | **Bottleneck / cost-push** | Excess demand vs supply constraints / costs |
-| **Mutual fund** | **Direct equity only** | Pooled diversified portfolio vs single-stock DIY |
+## ⚡ Confused Pairs & Common Examiner Traps
 
-</details>
+* **Retail / headline** = **CPI (Combined)**; **WPI** = Commerce & Industry, goods only, no services.
+* **Core** excludes food & energy; **headline** includes them.
+* **IIP** and **GDP deflator** are not the retail-inflation key.
+* Inflation helps **debtors**, hurts **bondholders / fixed income**.
+* **Bottleneck** inflation = supply / distribution — hard for demand tools alone.
+* **Disinflation** ≠ **deflation**; **stagflation** = inflation + stagnation.
+* Money market = short-term; capital market = long-term; SEBI ≠ RBI.
+* Repo / MPC instruments live in Topic 3 — this chapter owns the **index** and **market-product** side.
 
 
 ---

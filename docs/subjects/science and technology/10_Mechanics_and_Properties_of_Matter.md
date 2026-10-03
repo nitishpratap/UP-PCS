@@ -26,7 +26,8 @@
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Brahmagupta's Precedence**: 7th-century astronomer Brahmagupta (*Brahmasphuta Siddhanta*) stated that all bodies gravitate toward Earth long before Newton.
 2. **Definition of Speed**: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
@@ -79,8 +80,11 @@
 49. **Charging a Soap Bubble**: Placing an electric charge (positive or negative) on a soap bubble causes mutual electrostatic repulsion, causing its **radius to expand**.
 50. **Capillarity (Capillary Action)**: Rise or fall of liquids in narrow tubes. Liquids that wet glass (contact angle $<90^\circ$, e.g. water) rise; liquids that do not wet glass (contact angle $>90^\circ$, e.g. mercury) show capillary depression.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+
 | Pairs / Concepts | Critical Distinction & Trap Alert |
 |---|---|
 | **Steel vs Rubber Elasticity** | In physics, **Steel is more elastic than rubber** because steel has a higher Young's Modulus and offers greater restoring force per unit strain. |
@@ -92,7 +96,7 @@
 | **Iceberg in Freshwater vs Seawater** | In freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface. |
 | **Straw vs Blotting Paper** | Blotting paper absorbs ink by **capillarity**. Drinking through a straw operates by **atmospheric pressure difference** created by mouth suction, NOT capillarity. |
 
----
+</details>
 
 ## Teaching Cards — Mechanics and Properties of Matter
 

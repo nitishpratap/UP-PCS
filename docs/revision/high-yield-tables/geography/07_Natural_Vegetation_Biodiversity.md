@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 7 — Natural Vegetation & Biodiversity Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **5 Jun 2026** | **Surha Tal / JP Narayan BS (Ballia)** = India’s **100th Ramsar**; UP **13th** | Count + latest UP site | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) / PIB |
+| **2025–26** | UP Ramsar adds Patna (पटना) BS, Sheikha Jheel, Surha Tal (full names in N.6) | State list (राज्य सूची) | MoEFCC |
+| **Budget 2023–24** | **MISHTI** mangrove restoration — not a 2019 start | Mangrove scheme year | Budget |
+| Static | Olivia (Coast Guard (तटरक्षक बल), Odisha, Nov–May); coral warming 2024 PYQ | Coastal ops | ICG / PYQ |
+| ISFR | Use the **report year in the question**; 2017 = 21.54% is a frozen PYQ | Figure trap | FSI |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -49,22 +59,6 @@ hide:
 | Vembanad mangrove | **Kerala** | Karnataka | वेम्बनाड = केरल |
 | Mahogany belt | Tropical evergreen (not Himalaya) | Call it Himalayan with fir/spruce | महोगनी ≠ हिमालय |
 | Khejri vs Dhak | Khejri = desert social forestry; Dhak/Palash = flame of forest | Swap uses | खेजड़ी ≠ पलाश |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **5 Jun 2026** | **Surha Tal / JP Narayan BS (Ballia)** = India’s **100th Ramsar**; UP **13th** | Count + latest UP site | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) / PIB |
-| **2025–26** | UP Ramsar adds Patna (पटना) BS, Sheikha Jheel, Surha Tal (full names in N.6) | State list (राज्य सूची) | MoEFCC |
-| **Budget 2023–24** | **MISHTI** mangrove restoration — not a 2019 start | Mangrove scheme year | Budget |
-| Static | Olivia (Coast Guard (तटरक्षक बल), Odisha, Nov–May); coral warming 2024 PYQ | Coastal ops | ICG / PYQ |
-| ISFR | Use the **report year in the question**; 2017 = 21.54% is a frozen PYQ | Figure trap | FSI |
 
 ---
 
@@ -431,18 +425,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** “Vegetation is the true index of climate” is Thornthwaite (थॉर्नथ्वेट)’s line, not Köppen (कोपेन)’s letter codes. Controls are climate, soil, relief, biotic factors, and time.
-- **Exam Anchor:** India is a mega-biodiversity country. The four (चातुर्याम) hotspots touching India are Himalaya (हिमालय), Western Ghats (पश्चिमी घाट)–Sri Lanka, Indo-Burma, and Sundaland (Nicobar (निकोबार), not Andaman (अंडमान)). Do not split Himalaya into east and west as if those were the four.
-- **Exam Anchor:** Rain ladder: tropical evergreen >200 cm; moist deciduous 100–200 cm (largest area, about 37%); dry deciduous 70–100 cm (about 28%); thorn below about 70–75 cm. Semi-evergreen is the mix zone. Some notes put wet evergreen above 250 cm — both figures appear in standard texts.
-- **Exam Anchor:** Champion–Seth teaching heads group into five major classes and about 16 sub-types (moist tropical, dry tropical, subtropical montane, temperate montane, alpine).
 - **Exam Anchor:** Dry evergreen of the Tamil Nadu (नाडु) Coromandel grows on about 100 cm of north-east monsoon with jamun–neem–tamarind. It is not Western Ghat wet rainforest.
 - **Exam Anchor:** Chir pine belts the western Himalaya at about 1000–2000 m. Alpine moist belts carry rhododendron–birch; dry alpine juniper sits above about 3500 m. Shola forests are South Indian hill patches.
-- **Exam Anchor:** Species diversity (प्रजाति विविधता) decreases from equator to poles. Richness is not the same as evenness. Alpha is within one ecosystem (पारिस्थितिकी तंत्र), beta between ecosystems, gamma across a region.
-- **Exam Anchor:** India has two realms (Palearctic Himalaya + Indomalayan rest), five biomes, ten biogeographic zones, and about 25 provinces.
-
-</details>
+- **Exam Anchor:** In-situ (स्थान पर) conservation = National Park, Sanctuary, Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र), sacred grove. Ex-situ (स्थानांतरित) = zoo, botanical garden (वनस्पति उद्यान), seed bank (बीज बैंक). A botanical garden is not in-situ.
+- **Exam Anchor:** Dachigam protects the Hangul (Kashmir stag). Keibul Lamjao sits on Loktak (Manipur) for the Sangai (सांगाइ).
+- **Exam Anchor:** MISHTI restores mangroves and belongs to Budget 2023–24, not 2019. Mangrove breathing roots are pneumatophores. Sundarbans (सुंदरबन) are the sundari mangrove fact.
+- **Exam Anchor:** Operation Olivia is the Coast Guard Olive Ridley programme in Odisha. Nesting season is about November–May, not August.
+- **Exam Anchor:** Butea monosperma is the flame of the forest, also called Dhak or Palash, and is the state flower of Uttar Pradesh.
+- **Exam Anchor:** Katha is obtained from khair wood. Khejri is the multipurpose “king of the desert” tree used in social forestry (सामाजिक वानिकी).
 
 ---
 

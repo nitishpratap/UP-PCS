@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 3 — Drainage System</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **Dec 2021 / Dec 2024** | Ken–Betwa (बेतवा) Link: Cabinet ₹44,605 cr; PM foundation **25 Dec 2024** | First ILR under implementation | PIB |
+| **2025–26** | **Only** priority NPP link in implementation (30 identified: 16 peninsular + 14 Himalayan); NWDA nodal | “How many links operational?” trap | Rajya Sabha (राज्यसभा) / Jal Shakti (शक्ति) Aug 2026 |
+| **2026** | Spend ~₹12,382 cr to Jun 2026; target ~Mar 2030; Bundelkhand MP–UP; **Panna TR** forest | Cost / ecology (पारिस्थितिकी) pairing | LS Q Aug 2026 |
+| Ongoing | Polavaram includes Godavari–Krishna (Vijayawada) link assistance | Peninsular grid | PIB |
+| 2016 | National Waterways Act — 106 NWs; core still NW-1 to NW-5 | Number vs names | Act |
+
+---
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -35,22 +45,6 @@ hide:
 | E. Dhauliganga | Alaknanda Dhauli | Kali trib vs Vishnuprayag Dhauli | पूर्वी धौली |
 | Chambal ravines | Damodar rift | Badlands vs fault-valley tag | चंबल / दामोदर |
 | Kosi | Damodar | Sorrow of Bihar vs Sorrow of Bengal | कोसी / दामोदर |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Dec 2021 / Dec 2024** | Ken–Betwa (बेतवा) Link: Cabinet ₹44,605 cr; PM foundation **25 Dec 2024** | First ILR under implementation | PIB |
-| **2025–26** | **Only** priority NPP link in implementation (30 identified: 16 peninsular + 14 Himalayan); NWDA nodal | “How many links operational?” trap | Rajya Sabha (राज्यसभा) / Jal Shakti (शक्ति) Aug 2026 |
-| **2026** | Spend ~₹12,382 cr to Jun 2026; target ~Mar 2030; Bundelkhand MP–UP; **Panna TR** forest | Cost / ecology (पारिस्थितिकी) pairing | LS Q Aug 2026 |
-| Ongoing | Polavaram includes Godavari–Krishna (Vijayawada) link assistance | Peninsular grid | PIB |
-| 2016 | National Waterways Act — 106 NWs; core still NW-1 to NW-5 | Number vs names | Act |
 
 ---
 
@@ -332,18 +326,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** About 77% of India’s drainage area faces the Bay of Bengal, about 23% faces the Arabian Sea, and inland basins cover about 8% of area. Over 90% of river water still goes to the Bay of Bengal.
-- **Exam Anchor:** Water-share fact: Brahmaputra about 40%, Ganga about 25%, Godavari about 6%. Brahmaputra leads water volume; Ganga leads Indian basin area.
-- **Exam Anchor:** The Western Ghats (पश्चिमी घाट) are the main peninsular divide. From Amarkantak, drainage is radial — Narmada (नर्मदा) west and Son toward the Ganga.
 - **Exam Anchor:** Ganga is the largest basin inside India. Godavari (गोदावरी) is the largest peninsular basin. Among Tapti (ताप्ती) / Narmada / Mahanadi / Cauvery alone, Mahanadi (महानदी) is the largest basin.
-- **Exam Anchor:** Himalayan rivers are mostly perennial (melt plus rain) and include antecedent (पूर्ववर्ती) giants. Peninsular rivers are mostly rain-fed and graded.
-- **Exam Anchor:** Drainage types: consequent (अनुवर्ती) follows original slope; subsequent (परवर्ती) follows weak belts later; antecedent (Indus, Sutlej (सतलुज), Brahmaputra) cuts rising Himalaya (हिमालय); superimposed (अध्यारोपित) (Chambal (चंबल)) inherits an older course.
 - **Exam Anchor:** Trans-Himalayan rivers rise north of the Great Himalaya in Tibet and cut through — fact Sutlej (सतलुज), and also Indus and Brahmaputra (Tsangpo). Among Jhelum (झेलम) / Sutlej / Ganga / Ravi (रावी), the trans-Himalayan pick is Sutlej.
-- **Exam Anchor:** The Indus rises in a Tibet gorge and reaches the Arabian Sea in Pakistan. The five Punjab rivers east to west are Sutlej–Beas (ब्यास)–Ravi–Chenab (चिनाब)–Jhelum. Under the Indus Treaty, India gets Ravi, Beas, and Sutlej; Pakistan gets Indus, Jhelum, and Chenab.
-
-</details>
+- **Exam Anchor:** Jonk (जोंक) joins the Mahanadi, not the Ganga. Gandak (गंडक) is not an Uttar Pradesh river in the usual state list (राज्य सूची). Punpun (पुनपुन) meets near Fatuha. Chambal ravines (चंबल) start near Mhow.
+- **Exam Anchor:** Teesta was captured from the Ganga system into the Brahmaputra. Barak (बराक) becomes Meghna and reaches the Bay of Bengal — it is not inland drainage.
+- **Exam Anchor:** Pranhita (प्रणहिता) joins Godavari. Hemavati joins Kaveri. Malaprabha joins Krishna. Hyderabad (हैदराबाद) stands on the Musi, not the Krishna stem. Ludhiana is on the Sutlej, not the Ravi.
+- **Exam Anchor:** Luni (लूनी) is inland: upper course fresh, lower course saline (लवणीय). The classic fault-valley tag is Damodar (दामोदर); Narmada and Tapi are also rift valleys.
+- **Exam Anchor:** Ken–Betwa is the only National Perspective Plan link under implementation, linking Madhya Pradesh and Uttar Pradesh in Bundelkhand.
+- **Exam Anchor:** Kosi (कोसी) is the Sorrow of Bihar; Damodar is the Sorrow of Bengal. Do not swap those titles.
 
 ---
 

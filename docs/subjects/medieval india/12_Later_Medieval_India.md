@@ -15,7 +15,8 @@ Later Mughals | Disintegration of the Mughal (मुग़ल) Empire | Nadir Sh
 
 ---
 
-## Consolidated — 39 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 39 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Sea-power arrival order: **Portuguese 1498 → Dutch ~1605 → English Surat factory (फैक्टरी) 1613 (सूरत) → Danish Tranquebar (ट्रैंकेबार) 1620 → French Pondicherry (पांडिचेरी) 1674**.
 2. Charter fact: **EIC 1600** (ईआईसी), **VOC 1602** (वीओसी), **Danish 1616**, **French 1664** — the English charter comes **before** the Dutch.
@@ -57,9 +58,10 @@ Later Mughals | Disintegration of the Mughal (मुग़ल) Empire | Nadir Sh
 38. **Thomas Best** broke Portuguese naval monopoly at **Swally** near Surat. **Sir John Child** was expelled by **Aurangzeb** (औरंगजेब) after attacking Mughal ports (**1688**).
 39. First modern **Municipal Corporation** in India: **Madras, 1688**. Europeans prized **Bihar** for high-grade **opium** and **saltpetre**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -87,7 +89,8 @@ Later Mughals | Disintegration of the Mughal (मुग़ल) Empire | Nadir Sh
 | Fitch | Bernier | English 1580s vs French Aurangzeb court | फिच / बर्नियर |
 | 1608 | 1611 | Hawkins arrives **1608** vs trap year **1611** | 1608 / 1611 |
 | Awadh 1722 | annex 1856 | Nawabi start vs Dalhousie end | 1722 / 1856 |
----
+
+</details>
 
 ## Must-score facts — Europeans, Awadh, Later Mughals
 

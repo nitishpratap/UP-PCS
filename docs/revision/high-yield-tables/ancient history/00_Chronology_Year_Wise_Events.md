@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chronology — Year-Wise Major Events (Ancient India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -25,11 +23,7 @@ hide:
 | Kanishka | Samudragupta | Kushana emperor vs Gupta conqueror | कनिष्क / समुद्रगुप्त |
 | Kalinga War | First Buddhist Council | Ashoka’s war vs Ajatashatru-era council | कलिंग / प्रथम संगीति |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ## A.0 Megaspine — memorise this first
 
@@ -186,18 +180,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Culture ladder: Palaeolithic → Mesolithic → Neolithic → Chalcolithic → Iron Age / NBPW.
-- **Exam Anchor:** Harappan: Early c. 3300–2600 → Mature c. 2600–1900 → Late c. 1900–1300 BCE.
-- **Exam Anchor:** Vedic: Early / Rigvedic c. 1500–1000 → Later Vedic c. 1000–600 BCE.
-- **Exam Anchor:** Religious founders (traditional coaching dates): Mahavira c. 599–527 BCE; Buddha c. 563–483 BCE.
-- **Exam Anchor:** Magadha dynasties: Haryanka → Shishunaga → Nanda → Maurya.
-- **Exam Anchor:** Magadha kings: Bimbisara → Ajatashatru (Haryanka peak) → Udayin (Pataliputra capital) → Shishunaga (takes Avanti) → Mahapadma / Dhana Nanda.
 - **Exam Anchor:** Alexander 326–325 BCE (Hydaspes vs Porus; mutiny at Beas) → Chandragupta Maurya c. 321 BCE.
-- **Exam Anchor:** Maurya spine: Chandragupta → Bindusara → Ashoka (c. 268–232) → decline → Pushyamitra Shunga 185 BCE.
-
-</details>
+- **Exam Anchor:** Kalinga War c. 261 BCE — Ashoka’s turning point to Dhamma; Third Council c. 250 BCE at Pataliputra.
+- **Exam Anchor:** Harsha 606–647 CE; defeated on the Narmada by Pulakeshin II (Aihole / Ravikirti).
+- **Exam Anchor:** Chandragupta Maurya = Chandragupta I → different dynasties.
+- **Exam Anchor:** Fa-Hien = Harsha → Fa-Hien is Gupta-age; Xuanzang is Harsha-age.
+- **Exam Anchor:** Alexander after Chandragupta → Alexander before Mauryan foundation.
+- **Exam Anchor:** Kanishka = Gupta → Kushana, not Gupta.
+- **Exam Anchor:** First Buddhist Council under Ashoka → First is Rajagriha; Ashoka linked to the Third.
 
 ---
 

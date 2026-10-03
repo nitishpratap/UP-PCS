@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 9 — Rajputs</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -29,11 +27,7 @@ hide:
 | Vijay Stambha | Kirti Stambha | Kumbha’s victory tower vs older Jain tower, both at Chittor | विजय स्तम्भ / कीर्ति स्तम्भ |
 | Alauddin’s Chittor | Akbar’s | 1303 vs 1567–68 | अलाउद्दीन / अकबर |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Clan ↔ state
 
@@ -138,18 +132,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Sisodia ruled Mewar (Chittor (चित्तौड़) → Udaipur (उदयपुर)); Rathore ruled Marwar (मारवाड़) (Jodhpur); Kachhwaha ruled Amber/Jaipur.
-- **Exam Anchor:** Title fact: Maharana/Rana for Mewar; Rao for Marwar and Bikaner.
-- **Exam Anchor:** At Khanwa (खानवा) on 16 March 1527, Babur (बाबर) defeated Rana Sanga's confederacy; never pair Pratap with Khanwa.
 - **Exam Anchor:** Maharana Pratap, son of Udai Singh II, refused Akbar (अकबर)'s mansab (मनसब) and held out from Aravalli (अरावली) bases such as Kumbhalgarh and Gogunda.
-- **Exam Anchor:** At Haldighati on 18 June 1576, Pratap faced Raja (राजा) Man Singh (राजा मान सिंह) of Amber; Akbar was not present in the pass.
-- **Exam Anchor:** Haldighati was tactically indecisive; Pratap escaped, fought a guerrilla war, and died in 1597.
-- **Exam Anchor:** Pratap's son Amar Singh made peace with Jahangir (जहाँगीर) in 1615, keeping Mewar honour without personal court attendance.
 - **Exam Anchor:** Alauddin sacked Chittor in 1303; Akbar (अकबर) took it in 1567–68 after Jaimal–Patta (पट्टा) resistance and jauhar (जौहर).
-
-</details>
+- **Exam Anchor:** Udaipur became Mewar capital from 1559, while Chittor remained the prestige fort.
+- **Exam Anchor:** Rana Hamir (हमीर) belongs to Mewar; Rana Chunda (राणा चुंडा) is also Mewar, while Rao Chunda (राव चुंडा) is the Marwar line.
+- **Exam Anchor:** Rana Hammir (मेवाड़ हमीर) (c. 1326) restored Mewar after the Khalji (खिलजी) sack; he is not Hamir Deva (रणथम्भौर हमीर) of Ranthambore (died 1301).
+- **Exam Anchor:** Vijay Stambha (विजय स्तम्भ) is Kumbha (कुम्भा)'s victory tower; Kirti Stambha (कीर्ति स्तम्भ) is the older Jain tower — both stand at Chittor.
+- **Exam Anchor:** Jayata and Kumpa fought for Marwar against Sher Shah (शेरशाह) at Sammel in 1544.
 
 ---
 

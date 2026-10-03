@@ -16,7 +16,8 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Regulating Act, 1773** created the **Governor-General (गवर्नर-जनरल) of Bengal**; first holder **Warren Hastings**. The **Supreme Court at Calcutta** began in **1774**.
 2. The **Charter Act, 1833** created the **Governor-General of India**; first holder **William Bentinck**. The Company (कंपनी) stopped **all** trade (पण्याध्यक्ष).
@@ -49,9 +50,10 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 29. The office ladder is four (चातुर्याम) shapes: Company Governors of Bengal (to 1773) → GG of Bengal (**1773**) → GG of India (**1833**) → Viceroy (**1858**). Hastings is never a Viceroy; Canning is never a mere GG of Bengal.
 30. Under **1833** a **Law Member** was added to the Council (**Macaulay**). Under **1858** a **Secretary of State** replaced the Board of Control and Court of Directors in London.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -88,7 +90,7 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | August Offer | Wavell Plan | Linlithgow, 1940 vs Wavell, 1945 | अगस्त प्रस्ताव / वेवेल योजना |
 | First Viceroy | Last Viceroy | Canning vs Mountbatten | कैनिंग / माउंटबेटन |
 
----
+</details>
 
 ## Must-score facts — GG/Viceroy ↔ reform / war / Act
 

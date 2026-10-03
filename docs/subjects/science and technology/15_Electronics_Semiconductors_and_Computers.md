@@ -56,7 +56,8 @@
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A computer executes sequences of arithmetic or logical operations automatically; raw unorganized facts and figures are **Data**, while organized, interpreted, and meaningful processed data is **Information**.
 2. **Bit (Binary Digit)** is the smallest unit of digital data ($0$ or $1$); a **Byte** comprises **$8\text{ bits}$**, and a **Nibble** comprises **$4\text{ bits}$**.
@@ -115,9 +116,10 @@
 49. The **Turing Test**, originally proposed as the **"Imitation Game"** by Alan Turing in 1949, evaluates whether a machine can exhibit conversational behaviour indistinguishable from a human.
 50. **Blockchain** is a decentralized, distributed, cryptographically secured public ledger; under **Web 3.0**, blockchain enables user data sovereignty, decentralized finance (DeFi), and censorship-resistant social networks.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinction & Common Trap |
 | :--- | :--- | :--- |
@@ -132,7 +134,7 @@
 | **MAC Address** | **IP Address** | MAC address is a permanent physical hardware address ($48\text{ bits}$) at Layer 2. IP address is a logical network address assigned by router/ISP at Layer 3. |
 | **Augmented Reality (AR)** | **Virtual Reality (VR)** | AR overlays digital computer-generated elements onto the real physical world (e.g. smartphone camera, Pokémon Go). VR completely shuts out the physical world into a simulated immersive digital environment (e.g. VR headsets). |
 
----
+</details>
 
 ## Must-Score Master Tables
 

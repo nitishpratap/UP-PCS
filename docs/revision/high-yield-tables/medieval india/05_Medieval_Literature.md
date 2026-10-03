@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 5 — Medieval Literature</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -30,11 +28,7 @@ hide:
 | Ashiqa | Rag Vibodh | Amir Khusrau's romantic historical poem (Deval Rani) vs Somnath's Sanskrit music treatise (1609) | आशिक़ा (खुसरो) / राग विबोध (सोमनाथ) |
 | Persian | Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Sultanate chronicles
 
@@ -315,18 +309,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The court language of the Sultanate and Mughal empires was Persian; Baburnama (बाबरनामा) alone is written in Chagatai (चगताई) Turki (तुर्की).
 - **Exam Anchor:** Tabaqat-i-Nasiri is by Minhaj-us-Siraj; Tarikh-i-Firoz Shahi is by Ziauddin Barani.
 - **Exam Anchor:** Tughlaqnama (तुग़लक़नामा) is by Amir Khusrau (अमीर खुसरो) (his last historical masnavi, 1320); Rihla (रिहला) is Ibn Battuta (इब्न बतूता)’s travelogue.
 - **Exam Anchor:** Fatawa-i-Jahandari is Barani’s political theory text, not a narrative history (इतिहास).
-- **Exam Anchor:** Both Barani (बरनी) and Shams-i-Siraj Afif wrote works titled Tarikh-i-Firoz Shahi for different periods of Firuz’s age.
 - **Exam Anchor:** Taj-ul-Maasir is by Hasan Nizami; Kitab-ul-Hind is by Alberuni.
 - **Exam Anchor:** Amir Khusrau wrote Khamsa, Nuh Sipihr, Miftah-ul-Futuh, Khazain-ul-Futuh, and Ashiqa (आशिक़ा); Rag Vibodh (राग विबोध) was written by Somnath (सोमनाथ) (1609).
 - **Exam Anchor:** Miftah-ul-Futuh covers Jalaluddin Khalji (खिलजी); Khazain-ul-Futuh covers Alauddin — keep the Khalji pair straight.
-
-</details>
+- **Exam Anchor:** Padmavat (पद्मावत) is Malik Muhammad Jaisi’s Awadhi (अवधी) epic — not Damodar Kavi’s Padmavati Katha.
+- **Exam Anchor:** Baburnama = Babur (बाबर); Humayunnama = Gulbadan Begum; Tuzuk-i-Jahangiri (तुजुक-ए-जहाँगीरी) = Jahangir (जहाँगीर)’s own memoir.
 
 ---
 

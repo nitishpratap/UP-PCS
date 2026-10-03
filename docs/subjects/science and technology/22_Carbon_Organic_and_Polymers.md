@@ -26,7 +26,8 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Carbon ($Z=6$)** exhibits exceptional chemical versatility due to two foundational properties: **Catenation** (the unique ability of carbon atoms to link together via strong covalent bonds to form long open chains, branched structures, or rings) and **Tetravalency** (sharing four valence electrons to form 4 covalent bonds).
 2. The $C-C$ single bond dissociation enthalpy is exceptionally high (**$348\text{ kJ/mol}$**), imparting extraordinary thermodynamic stability to organic chains (unlike Silicon, whose $Si-Si$ bond energy is only $222\text{ kJ/mol}$).
@@ -127,9 +128,10 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 49. **Urea-Formaldehyde Resin**: Thermosetting adhesive resin used for manufacturing particle boards, decorative laminated sheets, and unbreakable plastic bottle closures.
 50. **Plasticizer**: Low-molecular-weight organic liquids (e.g., dioctyl phthalate, DOP) added to rigid polymers like PVC to lower glass transition temperature ($T_g$) and impart mechanical softness and flexibility (used for garden hoses, synthetic leather).
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -142,7 +144,7 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 | **Graphene vs. Fullerene** | **Graphene**: Single **flat 2D planar sheet** of $sp^2$ carbon packed in an open honeycomb lattice. | **Fullerene ($C_{60}$)**: **Hollow 3D spherical closed cage** composed of 20 hexagons and 12 pentagons. | **Dimensionality & Shape**: Graphene is an infinite 2D open planar sheet; Fullerene is a discrete 3D closed molecular soccer ball. |
 | **Silk Fibroin vs. Wool Keratin** | **Silk (Fibroin)**: Rich in small amino acids (glycine, alanine); forms anti-parallel $\beta$-pleated sheets; smooth, non-elastic. | **Wool (Keratin)**: Rich in sulphur-containing cysteine; forms coiled $\alpha$-helical structures held by disulphide bonds; crimped, highly elastic. | **Secondary Protein Conformation**: Silk is composed of $\beta$-sheets (no stretch); Wool is composed of coiled $\alpha$-helices with disulphide cross-links (stretchy). |
 
----
+</details>
 
 ## Master Reference Tables
 

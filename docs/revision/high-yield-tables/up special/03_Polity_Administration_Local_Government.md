@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>UP Special Topic 3 — Polity, Constitutional Framework, Administration and Local Governance</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -29,18 +35,6 @@ hide:
 | **NOIDA Authority** | **Nagar Nigam** | NOIDA is an **Industrial Township** under Art. 243Q proviso; it has **no elected Municipal Corporation**. |
 | **Devipatan Division HQ** | **Chitrakoot Division HQ** | Devipatan Division HQ is at **Gonda**; Chitrakoot Division HQ is at **Banda**. |
 | **Hindi Official (1951)** | **Urdu Official (1989)** | Hindi was made official language in **1951**; Urdu became the second official language in **1989**. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -146,18 +140,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Uttar Pradesh has the largest Legislative Assembly (Vidhan Sabha) in India with 403 elected members.
-- **Exam Anchor:** Prior to the creation of Uttarakhand on 9 November 2000, the UP Legislative Assembly had 425 seats.
-- **Exam Anchor:** The UP Legislative Council (Vidhan Parishad) has 100 seats, the largest Upper House among Indian states.
-- **Exam Anchor:** Uttar Pradesh is represented by 80 Lok Sabha Members and 31 Rajya Sabha Members, the highest for any state.
-- **Exam Anchor:** In the Lok Sabha, 17 seats are reserved for Scheduled Castes (SC) and 0 seats for Scheduled Tribes (ST) from UP.
-- **Exam Anchor:** In the UP Legislative Assembly, 84 seats are reserved for SCs and 2 seats (Obra and Duddhi) for STs.
-- **Exam Anchor:** Under the 91st Constitutional Amendment Act (2003), the Council of Ministers in UP is capped at 60 ministers (15% of 403).
-- **Exam Anchor:** The value of an MLA's vote from Uttar Pradesh in the Presidential Election is 208, the highest among all Indian states.
-
-</details>
+- **Exam Anchor:** Smt. Sarojini Naidu was the First Woman Governor of Uttar Pradesh and the first woman Governor in India (1947–1949).
+- **Exam Anchor:** Pandit Govind Ballabh Pant was the First Chief Minister of Uttar Pradesh (1950–1954).
+- **Exam Anchor:** Smt. Sucheta Kripalani became the First Woman Chief Minister of Uttar Pradesh and India in October 1963.
+- **Exam Anchor:** Chaudhary Charan Singh served as the first non-Congress Chief Minister of UP (1967) and later became Prime Minister of India.
+- **Exam Anchor:** Hapur is the smallest district of UP by geographic area (660 km²), while Lakhimpur Kheri is the largest (7,680 km²).
+- **Exam Anchor:** NOIDA, Greater Noida, and YEIDA are not Nagar Nigams; they are Industrial Townships constituted under Article 243Q proviso.
+- **Exam Anchor:** Urdu was declared the Second Official Language of Uttar Pradesh in 1989 through an amendment to the UP Official Language Act.
+- **Exam Anchor:** President's Rule (Article 356) has been imposed in Uttar Pradesh a total of 10 times (first in 1968, last in 2002).
 
 ---
 
@@ -169,162 +161,10 @@ hide:
 
 Which of the following is correct regarding this topic?
 
-A. Uttar Pradesh has the largest Legislative Assembly (Vidhan Sabha) in India with 403 elected members.
+A. Smt. Sarojini Naidu was the First Woman Governor of Uttar Pradesh and the first woman Governor in India (1947–1949).
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** Uttar Pradesh has the largest **Legislative Assembly (Vidhan Sabha)** in India with **403 elected members**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q2.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Prior applies only to union territories and not state jurisdictions.
-B. Prior to the creation of Uttarakhand on 9 November 2000, the UP Legislative Assembly had 425 seats.
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** Prior to the creation of Uttarakhand on 9 November 2000, the UP Legislative Assembly had **425 seats**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q3.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. The UP Legislative Council (Vidhan Parishad) has 100 seats, the largest Upper House among Indian states.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** The **UP Legislative Council (Vidhan Parishad)** has **100 seats**, the largest Upper House among Indian states.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q4.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Uttar applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Uttar Pradesh is represented by 80 Lok Sabha Members and 31 Rajya Sabha Members, the highest for any state.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** Uttar Pradesh is represented by **80 Lok Sabha Members** and **31 Rajya Sabha Members**, the highest for any state.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q5.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. In the Lok Sabha, 17 seats are reserved for Scheduled Castes (SC) and 0 seats for Scheduled Tribes (ST) from UP.
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** In the Lok Sabha, **17 seats** are reserved for Scheduled Castes (SC) and **0 seats** for Scheduled Tribes (ST) from UP.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q6.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
-B. In the UP Legislative Assembly, 84 seats are reserved for SCs and 2 seats (Obra and Duddhi) for STs.
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** In the UP Legislative Assembly, **84 seats** are reserved for SCs and **2 seats** (Obra and Duddhi) for STs.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q7.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Under applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Under the 91st Constitutional Amendment Act (2003), the Council of Ministers in UP is capped at 60 ministers (15% of 403).
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** Under the 91st Constitutional Amendment Act (2003), the Council of Ministers in UP is capped at **60 ministers** (15% of 403).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q8.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. The value of an MLA's vote from Uttar Pradesh in the Presidential Election is 208, the highest among all Indian states.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** The value of an MLA's vote from Uttar Pradesh in the Presidential Election is **208**, the highest among all Indian states.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q9.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Smt. Sarojini Naidu was the First Woman Governor of Uttar Pradesh and the first woman Governor in India (1947–1949).
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
 
 <details>
 <summary>Show answer</summary>
@@ -336,14 +176,14 @@ D. Statement I is correct but Statement II is incorrect
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q10.** in UP Special, consider the following statement:
+**Q2.** in UP Special, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Pandit applies only to union territories and not state jurisdictions.
 B. Pandit Govind Ballabh Pant was the First Chief Minister of Uttar Pradesh (1950–1954).
 C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
+D. Recognized by UNESCO under World Heritage natural criteria
 
 <details>
 <summary>Show answer</summary>
@@ -355,14 +195,14 @@ D. Both statements are true and explain the phenomenon
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q11.** in UP Special, consider the following statement:
+**Q3.** in UP Special, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Smt. applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
+B. Recognized by UNESCO under World Heritage natural criteria
 C. Smt. Sucheta Kripalani became the First Woman Chief Minister of Uttar Pradesh and India in October 1963.
-D. It was established during the First Five-Year Plan period
+D. Enacted under Article 356 of the Constitution of India
 
 <details>
 <summary>Show answer</summary>
@@ -374,12 +214,12 @@ D. It was established during the First Five-Year Plan period
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q12.** in UP Special, consider the following statement:
+**Q4.** in UP Special, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Chaudhary applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
+B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
 D. Chaudhary Charan Singh served as the first non-Congress Chief Minister of UP (1967) and later became Prime Minister of India.
 
@@ -393,11 +233,163 @@ D. Chaudhary Charan Singh served as the first non-Congress Chief Minister of UP 
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
+**Q5.** in UP Special, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Hapur is the smallest district of UP by geographic area (660 km²), while Lakhimpur Kheri is the largest (7,680 km²).
+B. Reported by the Law Commission in its 214th consultation paper
+C. None of the above statements are correct according to official Commission keys.
+D. Amended by the 44th Constitutional Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Hapur** is the smallest district of UP by geographic area (660 km²), while **Lakhimpur Kheri** is the largest (7,680 km²).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q6.** in UP Special, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, NOIDA, applies only to union territories and not state jurisdictions.
+B. NOIDA, Greater Noida, and YEIDA are not Nagar Nigams; they are Industrial Townships constituted under Article 243Q proviso.
+C. None of the above statements are correct according to official Commission keys.
+D. Excavated primarily in the Belan and Son River valleys
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **NOIDA, Greater Noida, and YEIDA** are not Nagar Nigams; they are **Industrial Townships** constituted under Article 243Q proviso.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q7.** in UP Special, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Urdu applies only to union territories and not state jurisdictions.
+B. Excavated primarily in the Belan and Son River valleys
+C. Urdu was declared the Second Official Language of Uttar Pradesh in 1989 through an amendment to the UP Official Language Act.
+D. Classified under Schedule VII List II (State List)
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Urdu** was declared the **Second Official Language** of Uttar Pradesh in **1989** through an amendment to the UP Official Language Act.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q8.** in UP Special, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, President's applies only to union territories and not state jurisdictions.
+B. Classified under Schedule VII List II (State List)
+C. None of the above statements are correct according to official Commission keys.
+D. President's Rule (Article 356) has been imposed in Uttar Pradesh a total of 10 times (first in 1968, last in 2002).
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **President's Rule (Article 356)** has been imposed in Uttar Pradesh a total of **10 times** (first in 1968, last in 2002).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q9.** in UP Special, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Appointment & Qualifications: Appointed by the President of India under Article 155 for a normal term of 5 years (holds office during the pleasure of the President). Must be a citizen of India and at least 35 years of age.
+B. Originated during the Later Vedic transitional period
+C. None of the above statements are correct according to official Commission keys.
+D. Statement I is correct but Statement II is incorrect
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Appointment & Qualifications**: Appointed by the President of India under Article 155 for a normal term of 5 years (holds office during the pleasure of the President). Must be a citizen of India and at least 35 years of age.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q10.** in UP Special, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Oath applies only to union territories and not state jurisdictions.
+B. Oath of Office: Administered by the Chief Justice of the Allahabad High Court (Article 159).
+C. None of the above statements are correct according to official Commission keys.
+D. Both statements are true and explain the phenomenon
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Oath of Office**: Administered by the Chief Justice of the **Allahabad High Court** (Article 159).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q11.** in UP Special, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Statement I is correct but Statement II is incorrect
+B. Both statements are true and explain the phenomenon
+C. Historical Milestones:
+D. It was established during the First Five-Year Plan period
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Historical Milestones**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q12.** in UP Special, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Smt. applies only to union territories and not state jurisdictions.
+B. It was established during the First Five-Year Plan period
+C. None of the above statements are correct according to official Commission keys.
+D. Smt. Sarojini Naidu: Appointed on 15 August 1947, becoming the First Woman Governor of any State in Independent India. She served until her death in office on 2 March 1949 at Lucknow.
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Smt. Sarojini Naidu**: Appointed on 15 August 1947, becoming the **First Woman Governor of any State in Independent India**. She served until her death in office on 2 March 1949 at Lucknow.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
 **Q13.** in UP Special, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
-A. The High Court of Judicature at Allahabad was established on 17 March 1866 at Agra before moving to Allahabad in 1869.
+A. Sri Hormasji Peroshaw Mody: Served as Governor from 1949 to 1952 during the formal renaming of the state from United Provinces to Uttar Pradesh on 24 January 1950.
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -408,7 +400,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **High Court of Judicature at Allahabad** was established on **17 March 1866** at Agra before moving to Allahabad in **1869**.
+- **Key Exam Association:** **Sri Hormasji Peroshaw Mody**: Served as Governor from 1949 to 1952 during the formal renaming of the state from United Provinces to Uttar Pradesh on 24 January 1950.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -416,8 +408,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The Lucknow Bench of the Allahabad High Court was created in 1948 by amalgamating the Chief Court of Oudh.
+A. Contrary to standard doctrine, Size applies only to union territories and not state jurisdictions.
+B. Size Limitation (91st Amendment Act, 2003):
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -427,7 +419,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Lucknow Bench** of the Allahabad High Court was created in **1948** by amalgamating the Chief Court of Oudh.
+- **Key Exam Association:** **Size Limitation (91st Amendment Act, 2003)**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -435,9 +427,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Enacted under Article 356 of the Constitution of India
 B. Reported by the Law Commission in its 214th consultation paper
-C. The Allahabad High Court has a sanctioned strength of 160 Judges, making it the largest High Court in India.
+C. Historical Leadership in UP:
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -446,6 +438,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The Allahabad High Court has a sanctioned strength of **160 Judges**, making it the largest High Court in India.
+- **Key Exam Association:** **Historical Leadership in UP**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

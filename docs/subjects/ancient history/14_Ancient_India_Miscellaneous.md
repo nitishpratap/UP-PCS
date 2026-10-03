@@ -17,7 +17,8 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The four Old World Bronze urban cores are **Mesopotamia**, **Egypt**, **Indus** (सिंधु), and **Shang China**. Iron-Age Greece, Rome, and Persia belong to a later bucket.
 2. **Mesopotamia** sits on the **Tigris–Euphrates**, runs competing **city-states**, writes **cuneiform** on clay, and builds stepped **ziggurat** temple-towers — not tombs.
@@ -54,9 +55,10 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 33. **Upapuranas** are the eighteen minor Puranas beside the eighteen Mahapuranas. Use Puranas as genealogy supplements to inscriptions, not as year-perfect chronicles.
 34. *Charaka Samhita* is internal medicine; **Sushruta** is surgery. **Charvaka ≠ Charaka** remains the cheap name trap beside both cards.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -79,7 +81,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 | Kosambi | Basham | Marxist *Introduction* vs cultural *Wonder* | कोसांबी / बैशम |
 | Charaka | Sushruta | Internal medicine **120/8** vs **surgery** | चरक / सुश्रुत |
 
----
+</details>
 
 ## Must-score facts — world civs, Puranas, Kakatiya
 

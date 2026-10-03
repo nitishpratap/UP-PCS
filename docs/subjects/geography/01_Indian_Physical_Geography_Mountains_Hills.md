@@ -71,7 +71,8 @@ D. Hispar
 ---
 
 
-## Consolidated — 50 Must-Score Facts (Ghatnachakra & UPPCS Aligned)
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts (Ghatnachakra & UPPCS Aligned)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. India has **six** relief divisions for map questions: Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert (Thar (थार)), Coastal Plains, and Islands. The Thar is a **Pleistocene and recent** sand sheet, not an older Tertiary desert.
 2. From north to south the Himalayan belts are **Trans-Himalaya → Himadri (Greater) → Himachal (Lesser) → Shiwalik**. Himadri (हिमाद्रि) is crystalline and **fossil-less**. Himachal (हिमाचल) carries **marine fossils**. Shiwalik (शिवालिक) is the outermost belt and holds **human remains**.
@@ -128,7 +129,10 @@ D. Hispar
 49. **Coastline Statistics & MSL:** Total coastline is **7,516.6 km** (mainland 5,422.6 km; islands 2,094 km). 9 states + 4 UTs. Longest mainland coast: **Gujarat (1,214.7 km)**, followed by **Andhra Pradesh (973.7 km)** and **Tamil Nadu (906.9 km)**. Mean Sea Level (MSL) is measured from **Chennai coast**. Maximum coastal erosion is caused by **waves**.
 50. **Islands & Channels:** 10° Channel (~150 km wide) separates Andaman from Nicobar. 9° Channel separates Minicoy from main Lakshadweep; 8° Channel separates Minicoy from Maldives. Saddle Peak (732 m, North Andaman) is highest in Andaman; Mount Thuillier (642 m, Great Nicobar) is highest in Nicobar. Barren Island is the **only active volcano in South Asia**.
 
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -156,6 +160,8 @@ D. Hispar
 ---
 
 ![Indian Physical Geography Overview Cheat Sheet](images/00_chapter_overview_cheat_sheet.png)
+
+</details>
 
 ## Must-score facts — belts, peaks, passes
 

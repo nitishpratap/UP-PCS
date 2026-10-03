@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 12 — Ancient Indian Economy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -29,11 +27,7 @@ hide:
 | Port | Entrepot | Landing point vs **warehouse / redistributor** | बंदरगाह / एंट्रेपो |
 | Urban | Pastoral | IVC (2020) vs **Rigvedic** | नगरीय / पशुपालक |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Coin ladder
 
@@ -153,18 +147,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Economy match ladder: Indus = Urban, Rigvedic = Pastoral, Later Vedic = Agrarian, and the medieval slot is landlordism. The Indus uses weights and seals but has no coins.
-- **Exam Anchor:** Vedic nishka (निष्क) is a gold unit or ornament. It is not a minted coin. The first Indian coins are punch-marked silver from about the sixth century BCE (karshapana / pana / कार्षापण या पण - आहत सिक्के).
-- **Exam Anchor:** Mauryas keep punch-marks and also issue cast copper. The weights officer is the pautavadhyaksha (पौतवाध्यक्ष).
 - **Exam Anchor:** Indo-Greeks bring the first portrait die-struck coins, with Greek and Kharoshthi legends. Portraits do not begin with the Guptas.
 - **Exam Anchor:** Vima Kadphises and the Kushans make gold coinage common in India. Gupta dinara (दीनार) is later prestige gold named through the Roman denarius path.
-- **Exam Anchor:** Gupta gold types: king-queen = Chandragupta I; lyrist / horse = Samudragupta; archer = Chandragupta II. Gold often weighs about 120–144 grains.
-- **Exam Anchor:** Chandragupta II’s Shaka-victory proof is silver (rupaka / रूपक) coins of about 33 grains. Gold dinara is the trap option.
 - **Exam Anchor:** Yajna Sri Satakarni put a ship on some Satavahana coins as a Deccan sea-trade stamp.
-
-</details>
+- **Exam Anchor:** Shreni (श्रेणी) is the general craft or trade guild headed by a shreshthin (श्रेष्ठिन्) or jyeshthaka (ज्येष्ठक). Nigama (निगम) is a merchant association; Sarthavaha (सार्थवाह) is the caravan leader. Nagaram (नगरम) is a south Indian town merchant body.
+- **Exam Anchor:** Manigrama (मणिग्रामम) is the foreign / overseas trade institution. Nanadesi (नानादेशी) means merchants of many lands, but the foreign-trade key is still Manigrama.
+- **Exam Anchor:** Lothal is the Harappan dockyard (गोदीबाड़ा). Boat models come from Mohenjo-daro and Lothal, not from Dholavira alone.
+- **Exam Anchor:** Tamralipti (ताम्रलिप्ति) at the Ganga mouth faces the Bay of Bengal. Muziris (Muchiri) on the Malabar is the Roman pepper (काली मिर्च) port.
+- **Exam Anchor:** Sopara (शूर्पारक) and Kalyan on the Konkan run from Mauryan times onward. Puhar / Kaveripattinam is the Sangam Chola port at the Kaveri mouth. Uraiyur is the Sangam Chola capital and a cotton centre.
 
 ---
 

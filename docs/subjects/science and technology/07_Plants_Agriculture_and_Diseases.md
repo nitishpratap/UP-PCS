@@ -25,7 +25,8 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 ---
 
-## Consolidated — 25 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 25 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Plant Taxonomy Hierarchy**: Categorized from higher to lower: **Kingdom $\rightarrow$ Phylum (Division) $\rightarrow$ Class $\rightarrow$ Order $\rightarrow$ Family $\rightarrow$ Genus $\rightarrow$ Species**. **Species** is the basic taxonomic unit consisting of individuals with fundamental morphological similarities capable of interbreeding.
 2. **Augustin Pyramus de Candolle (A.P. de Candolle)**: Swiss botanist who **first coined the term "Taxonomy" (1813)** and first used internal **vascular tissue characteristics** to divide plants into *Vasculares* (with vascular bundles) and *Cellulares* (without vascular bundles). (Linnaeus is the "Father of Modern Taxonomy").
@@ -53,8 +54,10 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 24. **Biological Nitrogen Fixation (BNF) & Biofertilisers**:
 25. **Crop Diseases & Nutritional Disorders**:
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -75,7 +78,7 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 | ***Cuscuta* (Amarbel)** | ***Nepenthes* (Pitcher Plant)**| Total stem parasite extracting food via haustoria vs photosynthetic plant trapping insects for nitrogen in Meghalaya | अमरबेल (परजीवी) / घटपर्णी (कीटभक्षी) |
 | **Triticale** | **Common Wheat** | First man-made cereal hybrid (Wheat $\times$ Rye) vs naturally evolved hexaploid cereal crop | ट्रिटिकेल / सामान्य गेहूँ |
 
----
+</details>
 
 ## Must-Score Drill — Edible Parts, Hormones & Diseases
 

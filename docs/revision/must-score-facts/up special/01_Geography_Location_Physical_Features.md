@@ -11,82 +11,54 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 1 — Geography, Location, Boundaries, Physical Features, Climate, Soil and Drainage System</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The total geographical area of Uttar Pradesh is **240,928 km²**, which constitutes **7.33%** of India's total area.
-2. Uttar Pradesh ranks **4th in India by area** (after Rajasthan, Madhya Pradesh, and Maharashtra).
-3. The latitudinal extent of UP is from **$23^\circ 52'	ext{ N}$ to $31^\circ 28'	ext{ N}$**, and longitudinal extent is from **$77^\circ 03'	ext{ E}$ to $84^\circ 39'	ext{ E}$**.
-4. The east-to-west length of Uttar Pradesh is **650 km**, and the north-to-south width is **240 km**.
-5. Uttar Pradesh shares its borders with **8 States, 1 Union Territory (Delhi), and 1 Foreign Country (Nepal)**.
-6. The only foreign country sharing a boundary with Uttar Pradesh is **Nepal (579 km border)**.
-7. Exactly **7 districts of UP** share an international border with Nepal: **Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar, and Maharajganj**.
-8. **Sonbhadra** is the only district in India that shares boundaries with **4 different States**: Madhya Pradesh, Chhattisgarh, Jharkhand, and Bihar.
-9. **Lalitpur** district is surrounded on **three sides by Madhya Pradesh**.
-10. **Lakhimpur Kheri** is the **largest district in UP by area (7,680 km²)**.
-11. **Hapur** is the **smallest district in UP by area (660 km²)**.
-12. The **northernmost district** of UP is **Saharanpur**; the **southernmost district** is **Sonbhadra**.
-13. The **easternmost district** of UP is **Ballia**; the **westernmost district** is **Shamli**.
-14. Uttar Pradesh shares its **longest border** with **Madhya Pradesh (11 districts)** and its **shortest border** with **Himachal Pradesh (1 district: Saharanpur)**.
-15. The state capital, **Lucknow**, is surrounded by **5 districts**: Barabanki, Unnao, Raebareli, Sitapur, and Hardoi.
-16. The **Bhabhar tract** is a narrow, boulder-strewn porous piedmont belt at the base of the Siwalik hills where rivers sink underground.
-17. The **Terai tract** is a marshy, humid, swampy lowland immediately south of Bhabhar where underground streams re-emerge.
-18. **Sugarcane and Paddy (Rice)** are the primary commercial crops cultivated extensively in the fertile Terai belt of UP.
-19. **Bangar** soil is the older alluvium situated above flood levels, containing calcareous deposits known as **Kankar**.
-20. **Khadar** soil is the newer, highly fertile silt deposited annually in the river floodplains.
-21. The **Southern Plateau region** of UP is part of the ancient **Vindhyan and Bundelkhand Gneissic shield**.
-22. The **Bundelkhand region** in UP comprises **7 districts**: Jhansi, Jalaun, Lalitpur, Hamirpur, Mahoba, Banda, and Chitrakoot.
-23. The **Ganga River** enters Uttar Pradesh in **Bijnor district** and exits the state from **Ballia district** into Bihar.
-24. The Ganga traverses **28 districts** of Uttar Pradesh over a length of approximately **1,450 km**.
-25. The **Yamuna River** enters Uttar Pradesh at **Faizabad village in Saharanpur district**.
-26. The **Yamuna River** merges with the Ganga at the sacred **Triveni Sangam in Prayagraj**.
-27. The **Gomti River** originates in the plains from **Gomat Taal (Fulhar Jheel) in Pilibhit district**.
-28. The Gomti River flows through **Lucknow, Sultanpur, and Jaunpur** before meeting the Ganga at **Kaithi (Ghazipur)**.
-29. The **Ramganga River** enters the UP plains at **Bijnor (near Kalagarh)** and joins the Ganga near **Kannauj**.
-30. The **Chambal River** enters UP near Agra and joins the Yamuna at **Pachnada (Etawah)**.
-31. The badlands and deep ravines (*Beehad*) of UP are most notoriously formed along the basins of the **Chambal and Yamuna rivers**.
-32. The **Ken-Betwa River Link Project** is India's first river interlinking project, connecting the Ken River (Banda) with the Betwa River (Hamirpur).
-33. **Govind Ballabh Pant Sagar** on the Rihand River in **Sonbhadra district** is the **largest artificial reservoir in India**.
-34. The climate of Uttar Pradesh is classified as **Sub-tropical Humid Monsoon (*Cwg*)**.
-35. The summer wind in UP is a hot, dry westerly wind known as **Loo**.
-36. The highest summer temperatures in UP are recorded in **Agra and Jhansi**.
-37. The lowest average summer temperature in UP is recorded in **Bareilly**.
-38. Approximately **85%–90%** of UP's annual rainfall is received during the **South-West Monsoon (Bay of Bengal branch)**, locally called **Purva**.
-39. **Gorakhpur** district receives the **highest rainfall in UP (184.7 cm)**.
-40. **Mathura** district receives the **lowest rainfall in UP (54.4 cm)**.
-41. Winter rainfall in north-western UP is caused by **Western Disturbances** originating in the Mediterranean Sea.
-42. **Mar** and **Kabar** are local varieties of **Black Soil** found in the Bundelkhand region of UP.
-43. **Parwa** is a light yellow sandy-loam soil, while **Rakar** is a shallow reddish gravelly soil found on rocky slopes in Bundelkhand.
-44. **Bhur** refers to elevated sandy mounds found in the floodplains of the Ganga-Yamuna Doab.
-45. **Reh** or **Kallar** refers to white saline/alkaline crusts appearing on barren uncultivated lands (*Usar*) in UP.
-46. **Keetham Lake (Sur Sarovar)**, a Ramsar wetland site, is located in **Agra district**.
-47. **Bakhira Bird Sanctuary Lake**, a Ramsar wetland site, is located in **Sant Kabir Nagar district**.
-48. **Suraha Taal (Loknayak Bird Sanctuary)** is a large natural oxbow lake located in **Ballia district**.
-49. **Haiderpur Wetland**, a Ramsar site situated on the Madhya Ganga Canal, spans **Muzaffarnagar and Bijnor districts**.
-50. **Sarsai Nawar Wetland** in **Etawah district** is famous as a premier breeding habitat for India's State Bird, the **Sarus Crane**.
+1. **Sonbhadra** is the only district in India that shares boundaries with **4 different States**: Madhya Pradesh, Chhattisgarh, Jharkhand, and Bihar.
+2. **Lalitpur** district is surrounded on **three sides by Madhya Pradesh**.
+3. **Lakhimpur Kheri** is the **largest district in UP by area (7,680 km²)**.
+4. **Hapur** is the **smallest district in UP by area (660 km²)**.
+5. **Sugarcane and Paddy (Rice)** are the primary commercial crops cultivated extensively in the fertile Terai belt of UP.
+6. **Bangar** soil is the older alluvium situated above flood levels, containing calcareous deposits known as **Kankar**.
+7. **Khadar** soil is the newer, highly fertile silt deposited annually in the river floodplains.
+8. **Govind Ballabh Pant Sagar** on the Rihand River in **Sonbhadra district** is the **largest artificial reservoir in India**.
+9. **Gorakhpur** district receives the **highest rainfall in UP (184.7 cm)**.
+10. **Mathura** district receives the **lowest rainfall in UP (54.4 cm)**.
+11. **Mar** and **Kabar** are local varieties of **Black Soil** found in the Bundelkhand region of UP.
+12. **Parwa** is a light yellow sandy-loam soil, while **Rakar** is a shallow reddish gravelly soil found on rocky slopes in Bundelkhand.
+13. **Bhur** refers to elevated sandy mounds found in the floodplains of the Ganga-Yamuna Doab.
+14. **Reh** or **Kallar** refers to white saline/alkaline crusts appearing on barren uncultivated lands (*Usar*) in UP.
+15. **Keetham Lake (Sur Sarovar)**, a Ramsar wetland site, is located in **Agra district**.
+16. **Bakhira Bird Sanctuary Lake**, a Ramsar wetland site, is located in **Sant Kabir Nagar district**.
+17. **Suraha Taal (Loknayak Bird Sanctuary)** is a large natural oxbow lake located in **Ballia district**.
+18. **Haiderpur Wetland**, a Ramsar site situated on the Madhya Ganga Canal, spans **Muzaffarnagar and Bijnor districts**.
+19. **Sarsai Nawar Wetland** in **Etawah district** is famous as a premier breeding habitat for India's State Bird, the **Sarus Crane**.
+20. **Latitudinal Coordinates**: Extends from **$23^\circ 52'	ext{ N}$** (southern tip of Sonbhadra) to **$31^\circ 28'	ext{ N}$** (northern boundary of Saharanpur). Latitudinal span = **$7^\circ 36'$**.
+21. **Longitudinal Coordinates**: Extends from **$77^\circ 03'	ext{ E}$** (western edge of Shamli) to **$84^\circ 39'	ext{ E}$** (eastern edge of Ballia). Longitudinal span = **$7^\circ 36'$**.
+22. **Geographical Dimensions**:
+23. **Total Surface Area**: **240,928 square kilometers** (constituting **7.33% of the total geographical area of India**).
+24. **National Area Rank**: Uttar Pradesh is the **4th largest State** in India by area (after Rajasthan, Madhya Pradesh, and Maharashtra).
+25. **Northernmost District**: **Saharanpur** (borders HP, Uttarakhand, Haryana).
+26. **Southernmost District**: **Sonbhadra** (borders MP, Chhattisgarh, Jharkhand, Bihar).
+27. **Easternmost District**: **Ballia** (surrounded on 3 sides by Bihar).
+28. **Westernmost District**: **Shamli** (borders Haryana).
+29. **Largest District by Area**: **Lakhimpur Kheri (7,680 km²)**, followed by Sonbhadra (6,905 km²), Hardoi (5,986 km²), and Sitapur (5,743 km²).
+30. **Smallest District by Area**: **Hapur (660 km²)**, followed by Bhadohi / Sant Ravidas Nagar (1,015 km²), Shamli (1,067 km²), and Ghaziabad (1,179 km²).
+31. **Three Distinct Seasons**:
+32. **Summer Season (March to mid-June)**:
+33. **Rainy / Monsoon Season (mid-June to September)**:
+34. **East to West** (Eastern UP receives ~112 cm; Western UP receives ~65 cm).
+35. **North to South** (Terai foothill belt receives ~150 cm; Bundelkhand receives ~80 cm).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **UP Area Rank in India**: **4th Rank (240,928 km² — 7.33%)** | **UP Population Rank in India**: **1st Rank (19.98 Crore — 16.51%)** | **Trap**: UP is 1st in population, but 4th in area (behind Rajasthan, MP, Maharashtra). |
-| **Highest Rainfall District in UP**: **Gorakhpur (184.7 cm)** | **Lowest Rainfall District in UP**: **Mathura (54.4 cm)** | **Trap**: Gorakhpur in the east gets highest rain; Mathura in the south-west receives lowest rain. |
-| **Ganga Entry District**: **Bijnor** | **Ganga Exit District**: **Ballia** | **Trap**: Ganga enters at Bijnor from Uttarakhand and leaves UP at Ballia into Bihar. |
-| **Yamuna Entry District**: **Saharanpur** (Faizabad village) | **Yamuna Confluence District**: **Prayagraj** (Triveni Sangam) | **Trap**: Yamuna enters at Saharanpur and ends its journey at Prayagraj by merging into the Ganga. |
-| **Largest District by Area**: **Lakhimpur Kheri (7,680 km²)** | **Smallest District by Area**: **Hapur (660 km²)** | **Trap**: Prior to 2011, Bhadohi was smallest. Now Hapur (created in 2011) is the smallest district. |
-| **Plains-Origin River**: **Gomti** (Gomat Taal, Pilibhit) | **Himalayan-Origin River**: **Ramganga / Ganga / Yamuna / Sarda** | **Trap**: Gomti does NOT originate in the Himalayas; it originates from a low-lying lake in Pilibhit. |
-| **Sonbhadra Borders (4 States)**: MP, Chhattisgarh, Jharkhand, Bihar | **Saharanpur Borders (3 States)**: Uttarakhand, Himachal Pradesh, Haryana | **Trap**: Sonbhadra touches 4 states; Saharanpur touches 3 states. |
-| **Bhabhar Soil**: Porous boulders, uncultivable, streams sink underground | **Terai Soil**: Waterlogged silt, highly fertile for sugarcane, streams re-emerge | **Trap**: Bhabhar is dry on surface with underground flow; Terai is marshy and swampy. |
-| **Mar Soil (Bundelkhand)**: Black fertile clayey soil (Black cotton type) | **Rakar Soil (Bundelkhand)**: Reddish, coarse gravelly soil on rocky slopes | **Trap**: Mar is fertile and retains moisture; Rakar is highly eroded and nutrient-poor. |
-| **Bakhira Wetland (Ramsar)**: Located in **Sant Kabir Nagar** | **Suraha Taal (Oxbow Lake)**: Located in **Ballia** | **Trap**: Bakhira = Sant Kabir Nagar; Suraha Taal = Ballia; Keetham/Sur Sarovar = Agra. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 
 
 ---

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 3 — Food Chain (खाद्य श्रृंखला) & Energy Flow</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Primary Consumer** | **Secondary Consumer** | Herbivores feeding directly on autotrophic green plants (cow, deer, zooplankton) vs primary carnivores that hunt and feed on herbivores (frog, fox, small fish) | प्राथमिक उपभोक्ता (शाकाहारी) / द्वितीयक उपभोक्ता (मांसाहारी) |
 | **Pyramid of Energy** | **Pyramid of Numbers** | Always universally upright in all ecosystems because energy is irretrievably lost as metabolic heat at each level vs can be upright (grassland) or inverted (single large tree supporting thousands of birds/parasites) | ऊर्जा पिरामिड (सदैव सीधा) / संख्या पिरामिड |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Chain types
 
@@ -136,18 +130,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A food chain is a single linear who-eats-whom sequence. A food web is a network of interconnected chains and is more stable than one chain alone.
-- **Exam Anchor:** A grazing food chain starts from living green plants. A detritus food chain starts from dead organic matter.
-- **Exam Anchor:** Classic terrestrial chain: Grass → Grasshopper → Frog → Snake. Classic human-linked chain: Grass → Goat → Human.
-- **Exam Anchor:** Classic marine chain: Diatoms → Crustaceans → Herrings.
 - **Exam Anchor:** Trophic levels are feeding ranks counted from producers: T1 producers, T2 herbivores, T3–T5 carnivores.
-- **Exam Anchor:** The Sun is the energy source, not a trophic level. Never count sunlight as T1. Solar energy is the driving force of the ecosystem.
-- **Exam Anchor:** Energy flow is unidirectional: Sun → producers → consumers → heat. Nutrients cycle; energy does not.
-- **Exam Anchor:** About 10% of energy passes to the next trophic level (Lindeman, 1942). About 90% is lost as heat, respiration, and movement. Energy decreases upward.
-
-</details>
+- **Exam Anchor:** Humans are primary as well as secondary consumers (plants and meat).
+- **Exam Anchor:** Biomagnification raises toxin concentration up the chain. For DDT, the snake (tertiary consumer) shows higher concentration than grasshopper or toad.
+- **Exam Anchor:** Omnivores such as bears, crows, and humans link grazing and detritus pathways. They can occupy more than one trophic level at once.
+- **Exam Anchor:** Keystone predators such as tigers regulate entire webs. Removing them causes trophic cascade across several chains.
+- **Exam Anchor:** T1 (Producers) are autotrophs such as green plants, algae, and phytoplankton. They fix solar energy into chemical energy.
+- **Exam Anchor:** T2 (Primary consumers) are herbivores that eat producers directly. Examples include deer, zooplankton, and caterpillars.
+- **Exam Anchor:** T3 (Secondary consumers) are carnivores that eat primary consumers. Examples include frogs and small fish.
 
 ---
 

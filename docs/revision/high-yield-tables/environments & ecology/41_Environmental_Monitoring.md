@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 41 — Environmental Monitoring (पर्यावरणीय निगरानी)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -23,11 +21,7 @@ hide:
 | **Bioindicator** | **Biomarker** | Organism whose presence/absence indicates environmental quality (Lichens for air, Diatoms/Mayfly for fresh water) vs cellular/biochemical alteration measured in an organism due to chemical exposure | जैव संकेतक (लाइकेन/मेफ्लाई) / जैव मार्कर |
 | **Ringelmann Scale** | **Decibel (dB)** | Visual chart scale (0 to 5) used to measure the apparent density/opacity of industrial smoke emissions vs logarithmic acoustic unit measuring environmental sound levels | रिंगेलमैन पैमाना (धुआं घनत्व) / डेसिबल (ध्वनि तीव्रता) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Tools
 
@@ -124,18 +118,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The PSR model runs Pressure → State → Response for environmental indicators.
-- **Exam Anchor:** Air indicators include PM2.5, PM10, SO₂, NOx, and AQI. Water indicators include BOD, COD, DO, pH, and coliform.
-- **Exam Anchor:** Noise is measured in decibels. Smoke opacity uses the Ringelmann scale 0–5.
 - **Exam Anchor:** Lichens are classic bio-indicators for sulphur dioxide stress.
 - **Exam Anchor:** Monitoring means systematic repeated measurement against standards. It is not the same as an audit.
 - **Exam Anchor:** CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) runs NAMP (manual air), CAAQMS (real-time air), and NWMP (surface water).
 - **Exam Anchor:** CGWB monitors groundwater quality and levels and publishes the annual groundwater quality report.
 - **Exam Anchor:** SAFAR (सफर) is the IITM air-quality and weather forecast system associated with Harsh Vardhan’s launch messaging in July 2018.
-
-</details>
+- **Exam Anchor:** NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) (2019) expands city monitoring and action. SAMEER is an AQI public app.
+- **Exam Anchor:** Form V Environmental Statement under EPA Rule 14 goes to the SPCB yearly.
+- **Exam Anchor:** ISO 14001 is the Environmental Management System standard.
 
 ---
 

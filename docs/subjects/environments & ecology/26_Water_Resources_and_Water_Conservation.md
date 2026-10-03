@@ -21,7 +21,8 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management (वाट�
 
 ---
 
-## Consolidated — 38 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 38 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. World water rough shares: oceans about **97.2%**, ice/glaciers about **2%**, groundwater about **0.6%**, rivers about **0.01%**. Descending order is **Oceans > Polar ice > Groundwater > Rivers**.
 2. India holds roughly **4%** of world freshwater for about **18%** of world population (जनसंख्या). Per-capita availability around **1400 m³** marks water stress in many readings.
@@ -62,9 +63,10 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management (वाट�
 37. STP vs CETP: domestic vs industrial effluent trains — swap them and consent logic breaks.
 38. National Water Policy priority order starts with **drinking water**, not industry.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -74,7 +76,8 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management (वाट�
 | **Rainwater Harvesting (RWH)** | **Artificial Groundwater Recharge** | Collection, conveyance, and storage of runoff rainwater from rooftops or ground surfaces into surface storage tanks for immediate usage vs purposeful diversion and injection of harvested surface runoff deep into depleted subterranean aquifers through recharge shafts/borewells | वर्षा जल संचयन (सतही उपयोग) / कृत्रिम भूजल पुनर्भरण (भूजल रीचार्ज) |
 | **Central Ground Water Board (CGWB)** | **Central Ground Water Authority (CGWA)** | Apex national scientific multidisciplinary organization under Ministry of Jal Shakti assessing groundwater resources, aquifer mapping, and monitoring vs statutory regulatory authority constituted under Section 3(3) of EPA 1986 issuing mandatory NOCs and regulating industrial groundwater extraction | केंद्रीय भूजल बोर्ड (CGWB, वैज्ञानिक आकलन) / केंद्रीय भूजल प्राधिकरण (CGWA, कानूनी नियमन) |
 | **Jal Jeevan Mission (JRM / Har Ghar Jal)** | **Atal Bhujal Yojana (ABHY)** | Centrally sponsored flagship mission launched in August 2019 ensuring 55 lpcd functional household tap connections (FHTC) to all rural households by 2024 vs World Bank assisted community-led groundwater management scheme focused on water-stressed districts across 7 states | जल जीवन मिशन (हर घर जल, नल कनेक्शन) / अटल भूजल योजना (सामुदायिक भूजल प्रबंधन) |
----
+
+</details>
 
 ## Must-score facts — water shares, IWRM, days, schemes
 

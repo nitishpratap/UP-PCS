@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 3 — Indian Architecture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -41,11 +39,7 @@ hide:
 | Konark 24 wheels | “12 wheels” shorthand | Full chariot has **24** wheels (12 pairs) | कोणार्क चक्र |
 | Mandu | Khajuraho / Sanchi / Bhimbetka | Mandu **not** UNESCO vs MP WHS trio | माण्डू / यूनेस्को |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Style
 
@@ -118,18 +112,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
+- **Exam Anchor:** Maratha Military Landscapes of India entered the list in 2025 as India’s 44th property. The set covers 12 forts: eleven in Maharashtra and Gingee in Tamil Nadu.
+- **Exam Anchor:** Moidams – the Mound-Burial System of the Ahom Dynasty at Charaideo in Assam entered the list in 2024 as India’s 43rd property.
 - **Exam Anchor:** Nagara (नागर शैली) temples have a curvilinear shikhara (शिखर) and generally no monumental gopuram.
 - **Exam Anchor:** Dravida (द्रविड़ शैली) temples have a pyramidal vimana (विमान) and a tall gopuram (गोपुरम).
 - **Exam Anchor:** Vesara (वेसर शैली) is the Deccan hybrid of Chalukya and Hoysala land.
-- **Exam Anchor:** The temple sequence runs garbhagriha (गर्भगृह) to antarala (अंतराल) to mandapa (मंडप), with pradakshina (प्रदक्षिणा पथ) around the sanctum.
-- **Exam Anchor:** An amalaka (आमलक) and a kalasha (कलश) crown a Nagara tower.
-- **Exam Anchor:** A gopuram is a Dravida gateway. A shikhara is the Nagara sanctum tower. These two words are often swapped. Pandya and Nayaka phases make gopurams the dominant outer face.
-- **Exam Anchor:** The Odisha Nagara order is Parasuramesvara (परशुरामेश्वर), then Mukteshvara (मुक्तेश्वर), then Lingaraja, then Jagannath (जगन्नाथ), then Konark (कोणार्क).
-- **Exam Anchor:** A rekha deul (रेखा देउल) is the Odisha sanctum tower. A pidha deul (पीढ़ा देउल) is the jagamohana hall. Lingaraja is the tallest standing temple in Bhubaneswar, about 180 feet.
-
-</details>
+- **Exam Anchor:** Konark Sun Temple is a stone chariot of Surya with 24 wheels and 7 horses. Eastern Ganga Narasimhadeva I built it in the 13th century. It is also called the Black Pagoda.
+- **Exam Anchor:** Khajuraho (खजुराहो) is a Chandela sandstone Nagara group in Madhya Pradesh, built in the 10th–12th centuries. About 85 shrines were planned. About 25 still stand. Groups are Hindu and Jain.
+- **Exam Anchor:** Kandariya Mahadeva (कंदरिया महादेव), built by Vidyadhara, is the largest Khajuraho temple. Matangeshvara belongs to Dhanga’s age.
 
 ---
 

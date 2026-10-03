@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 8 — Nuclear and Atomic Physics</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Concept A | Concept B | Core Distinction & Common Trap |
 | :--- | :--- | :--- |
@@ -24,11 +22,7 @@ hide:
 | **NPT (1968)** | **CTBT (1996)** | NPT prevents weapon proliferation and divides world into 5 NWS and NNWS (India did not sign). CTBT bans all nuclear test explosions in all environments (not yet in force). |
 | **Atom Bomb** | **Hydrogen Bomb** | Atom bomb is based on **uncontrolled fission** of uranium/plutonium. Hydrogen bomb is based on **uncontrolled fusion** of hydrogen isotopes, triggered by an atomic bomb. |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Table 1: Operating Nuclear Power Stations in India
 
@@ -136,18 +130,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Nuclear fission is the splitting of a heavy atomic nucleus (e.g. U-235, Pu-239) into two medium-sized fragments of comparable mass upon absorbing a thermal (slow) neutron.
-- **Exam Anchor:** In each fission of a Uranium-235 nucleus, approximately $200\text{ MeV}$ of energy is liberated, along with $2$ to $3$ fast neutrons and energetic gamma rays.
-- **Exam Anchor:** Fission of $1\text{ gram}$ of Uranium-235 yields approximately $5 \times 10^{23}\text{ MeV}$ of energy, equivalent to detonating $20\text{ tonnes of TNT}$.
-- **Exam Anchor:** Most of the energy released during nuclear fission appears as the kinetic energy (thermal heat) of the fission fragments.
-- **Exam Anchor:** When a neutron is captured by a heavy nucleus without causing fission, it forms a heavier isotope via radiative neutron capture, not fission.
-- **Exam Anchor:** An Atomic Bomb utilizes an uncontrolled chain reaction of fast neutrons in highly enriched U-235 or Pu-239.
-- **Exam Anchor:** Critical Mass is the minimum quantity of fissile material required to sustain a self-propagating nuclear chain reaction.
-- **Exam Anchor:** The atomic bomb dropped on Hiroshima ("Little Boy", Aug 6, 1945) used enriched Uranium-235 in a gun-type assembly; the bomb dropped on Nagasaki ("Fat Man", Aug 9, 1945) used Plutonium-239 in an implosion assembly.
-
-</details>
+- **Exam Anchor:** India's Three-Stage Nuclear Programme & Kalpakkam PFBR (High-Yield Science Fact):
+- **Exam Anchor:** Stage 1: Pressurized Heavy Water Reactors (PHWR) fuelled by Natural Uranium ($\text{U-238} + 0.7\%\text{ U-235}$), producing electricity and byproduct Plutonium-239 ($\text{Pu-239}$).
+- **Exam Anchor:** Stage 2: Fast Breeder Reactors (FBR) fuelled by Plutonium-239 with a Thorium-232 blanket, breeding fissile Uranium-233 ($\text{U-233}$). Core loading commenced at the $500\text{ MWe}$ Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, Tamil Nadu.
+- **Exam Anchor:** Stage 3: Advanced Heavy Water Reactors (AHWR) fuelled by Thorium-232 / Uranium-233, unlocking energy independence.
+- **Exam Anchor:** Monazite Placer Sands & Legal Monopoly in India (IAS Pre 2022 Fact):
+- **Exam Anchor:** Monazite is a complex reddish-brown phosphate mineral of Thorium and rare-earth elements $[(\text{Ce, La, Nd, Th, Y})\text{PO}4]$.
+- **Exam Anchor:** Legal Fact: Monazite is a prescribed strategic substance under the Atomic Energy Act, 1962. Private entities are strictly prohibited from processing or exporting monazite. Only government undertakings—IREL (Indian Rare Earths Limited) under DAE and KMML (Kerala Minerals and Metals Ltd)—are legally authorized to mine, process, and extract thorium compounds.
+- **Exam Anchor:** Uranium Enrichment Levels for Civil vs Military Use (IAS Pre 2023 Fact):
 
 ---
 
@@ -159,7 +151,7 @@ hide:
 
 Which of the following is correct regarding this topic?
 
-A. Nuclear fission is the splitting of a heavy atomic nucleus (e.g. U-235, Pu-239) into two medium-sized fragments of comparable mass upon absorbing a thermal (slow) neutron.
+A. India's Three-Stage Nuclear Programme & Kalpakkam PFBR (High-Yield Science Fact):
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
@@ -170,7 +162,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Nuclear fission** is the splitting of a heavy atomic nucleus (e.g. U-235, Pu-239) into two medium-sized fragments of comparable mass upon absorbing a thermal (slow) neutron.
+- **Key Exam Association:** **India's Three-Stage Nuclear Programme & Kalpakkam PFBR (High-Yield Science Fact):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -178,8 +170,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
-B. In each fission of a Uranium-235 nucleus, approximately $200\text{ MeV}$ of energy is liberated, along with $2$ to $3$ fast neutrons and energetic gamma rays.
+A. Contrary to standard doctrine, Stage applies only to union territories and not state jurisdictions.
+B. Stage 1: Pressurized Heavy Water Reactors (PHWR) fuelled by Natural Uranium ($\text{U-238} + 0.7\%\text{ U-235}$), producing electricity and byproduct Plutonium-239 ($\text{Pu-239}$).
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -189,7 +181,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** In each fission of a Uranium-235 nucleus, approximately **$200\text{ MeV}$** of energy is liberated, along with $2$ to $3$ fast neutrons and energetic gamma rays.
+- **Key Exam Association:** **Stage 1:** Pressurized Heavy Water Reactors (PHWR) fuelled by **Natural Uranium ($\text{U-238} + 0.7\%\text{ U-235}$)**, producing electricity and byproduct **Plutonium-239 ($\text{Pu-239}$)**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -197,9 +189,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Fission applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Stage applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. Fission of $1\text{ gram}$ of Uranium-235 yields approximately $5 \times 10^{23}\text{ MeV}$ of energy, equivalent to detonating $20\text{ tonnes of TNT}$.
+C. Stage 2: Fast Breeder Reactors (FBR) fuelled by Plutonium-239 with a Thorium-232 blanket, breeding fissile Uranium-233 ($\text{U-233}$). Core loading commenced at the $500\text{ MWe}$ Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, Tamil Nadu.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -208,7 +200,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Fission of $1\text{ gram}$ of Uranium-235 yields approximately **$5 \times 10^{23}\text{ MeV}$ of energy**, equivalent to detonating **$20\text{ tonnes of TNT}$**.
+- **Key Exam Association:** **Stage 2:** Fast Breeder Reactors (FBR) fuelled by **Plutonium-239** with a Thorium-232 blanket, breeding fissile **Uranium-233 ($\text{U-233}$)**. Core loading commenced at the **$500\text{ MWe}$ Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, Tamil Nadu**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -216,10 +208,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Most applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Stage applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Most of the energy released during nuclear fission appears as the kinetic energy (thermal heat) of the fission fragments.
+D. Stage 3: Advanced Heavy Water Reactors (AHWR) fuelled by Thorium-232 / Uranium-233, unlocking energy independence.
 
 <details>
 <summary>Show answer</summary>
@@ -227,7 +219,7 @@ D. Most of the energy released during nuclear fission appears as the kinetic ene
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Most of the energy released during nuclear fission appears as the **kinetic energy (thermal heat) of the fission fragments**.
+- **Key Exam Association:** **Stage 3:** Advanced Heavy Water Reactors (AHWR) fuelled by **Thorium-232 / Uranium-233**, unlocking energy independence.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -235,7 +227,7 @@ D. Most of the energy released during nuclear fission appears as the kinetic ene
 
 Which of the following is correct regarding this topic?
 
-A. When a neutron is captured by a heavy nucleus without causing fission, it forms a heavier isotope via radiative neutron capture, not fission.
+A. Monazite Placer Sands & Legal Monopoly in India (IAS Pre 2022 Fact):
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -246,7 +238,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** When a neutron is captured by a heavy nucleus without causing fission, it forms a heavier isotope via **radiative neutron capture**, not fission.
+- **Key Exam Association:** **Monazite Placer Sands & Legal Monopoly in India (IAS Pre 2022 Fact):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -254,8 +246,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, An applies only to union territories and not state jurisdictions.
-B. An Atomic Bomb utilizes an uncontrolled chain reaction of fast neutrons in highly enriched U-235 or Pu-239.
+A. Contrary to standard doctrine, Monazite applies only to union territories and not state jurisdictions.
+B. Monazite is a complex reddish-brown phosphate mineral of Thorium and rare-earth elements $[(\text{Ce, La, Nd, Th, Y})\text{PO}4]$.
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -265,7 +257,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** An **Atomic Bomb** utilizes an **uncontrolled chain reaction** of fast neutrons in highly enriched U-235 or Pu-239.
+- **Key Exam Association:** **Monazite** is a complex reddish-brown phosphate mineral of Thorium and rare-earth elements $[(\text{Ce, La, Nd, Th, Y})\text{PO}_4]$.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -273,9 +265,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Critical applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Legal applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. Critical Mass is the minimum quantity of fissile material required to sustain a self-propagating nuclear chain reaction.
+C. Legal Fact: Monazite is a prescribed strategic substance under the Atomic Energy Act, 1962. Private entities are strictly prohibited from processing or exporting monazite. Only government undertakings—IREL (Indian Rare Earths Limited) under DAE and KMML (Kerala Minerals and Metals Ltd)—are legally authorized to mine, process, and extract thorium compounds.
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -284,7 +276,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Critical Mass** is the minimum quantity of fissile material required to sustain a self-propagating nuclear chain reaction.
+- **Key Exam Association:** **Legal Fact:** Monazite is a prescribed strategic substance under the Atomic Energy Act, 1962. **Private entities are strictly prohibited from processing or exporting monazite**. Only government undertakings—**IREL (Indian Rare Earths Limited)** under DAE and **KMML (Kerala Minerals and Metals Ltd)**—are legally authorized to mine, process, and extract thorium compounds.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -292,10 +284,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Uranium applies only to union territories and not state jurisdictions.
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. The atomic bomb dropped on Hiroshima ("Little Boy", Aug 6, 1945) used enriched Uranium-235 in a gun-type assembly; the bomb dropped on Nagasaki ("Fat Man", Aug 9, 1945) used Plutonium-239 in an implosion assembly.
+D. Uranium Enrichment Levels for Civil vs Military Use (IAS Pre 2023 Fact):
 
 <details>
 <summary>Show answer</summary>
@@ -303,7 +295,7 @@ D. The atomic bomb dropped on Hiroshima ("Little Boy", Aug 6, 1945) used enriche
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The atomic bomb dropped on Hiroshima ("Little Boy", Aug 6, 1945) used **enriched Uranium-235** in a gun-type assembly; the bomb dropped on Nagasaki ("Fat Man", Aug 9, 1945) used **Plutonium-239** in an implosion assembly.
+- **Key Exam Association:** **Uranium Enrichment Levels for Civil vs Military Use (IAS Pre 2023 Fact):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -311,7 +303,7 @@ D. The atomic bomb dropped on Hiroshima ("Little Boy", Aug 6, 1945) used enriche
 
 Which of the following is correct regarding this topic?
 
-A. A Nuclear Reactor (Atomic Pile / Molecular Furnace) sustains a controlled, self-propagating chain reaction for peaceful power generation and radioisotope production.
+A. Natural Uranium: Contains only $0.7\%$ U-235; the remaining $99.3\%$ is non-fissile U-238.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -322,7 +314,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** A **Nuclear Reactor (Atomic Pile / Molecular Furnace)** sustains a **controlled, self-propagating chain reaction** for peaceful power generation and radioisotope production.
+- **Key Exam Association:** **Natural Uranium:** Contains only **$0.7\%$ U-235**; the remaining $99.3\%$ is non-fissile U-238.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -330,8 +322,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The world's first artificial nuclear reactor was built in 1942 at the University of Chicago by Enrico Fermi ("Chicago Pile-1").
+A. Contrary to standard doctrine, Low applies only to union territories and not state jurisdictions.
+B. Low Enriched Uranium (LEU): Enriched up to $3\% - 5\%$ U-235, which is standard for commercial civil nuclear power reactors.
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -341,7 +333,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The world's first artificial nuclear reactor was built in 1942 at the University of Chicago by **Enrico Fermi** ("Chicago Pile-1").
+- **Key Exam Association:** **Low Enriched Uranium (LEU):** Enriched up to **$3\% - 5\%$ U-235**, which is standard for commercial civil nuclear power reactors.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -349,9 +341,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Nuclear applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Highly applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. Nuclear Reactor Fuel: Fissile materials such as Uranium-235 ($^{235}{92}\text{U}$), Plutonium-239 ($^{239}{94}\text{Pu}$), or synthetic Uranium-233 ($^{233}{92}\text{U}$).
+C. Highly Enriched Uranium (HEU): Enriched to $> 20\%$ U-235. Weapons-grade uranium requires $\ge 90\%$ U-235 to achieve compact critical mass.
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -360,7 +352,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Nuclear Reactor Fuel:** Fissile materials such as **Uranium-235 ($^{235}_{92}\text{U}$)**, **Plutonium-239 ($^{239}_{94}\text{Pu}$)**, or synthetic **Uranium-233 ($^{233}_{92}\text{U}$)**.
+- **Key Exam Association:** **Highly Enriched Uranium (HEU):** Enriched to $> 20\%$ U-235. **Weapons-grade uranium requires $\ge 90\%$ U-235** to achieve compact critical mass.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -368,10 +360,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Moderator: applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Common applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Moderator: Slows down energetic fast fission neutrons ($2\text{ MeV}$) to thermal speeds ($0.025\text{ eV}$) through elastic collisions so they can induce subsequent fission.
+D. Common Trap Fact: Commercial electricity DOES NOT require $60\%$ enriched uranium (IAS Pre 2023 statement debunked). India derives $43.5\%$ of its electrical power from coal, not uranium.
 
 <details>
 <summary>Show answer</summary>
@@ -379,7 +371,7 @@ D. Moderator: Slows down energetic fast fission neutrons ($2\text{ MeV}$) to the
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Moderator:** Slows down energetic fast fission neutrons ($2\text{ MeV}$) to thermal speeds ($0.025\text{ eV}$) through elastic collisions so they can induce subsequent fission.
+- **Key Exam Association:** **Common Trap Fact:** Commercial electricity DOES NOT require $60\%$ enriched uranium (IAS Pre 2023 statement debunked). India derives $43.5\%$ of its electrical power from coal, not uranium.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -387,7 +379,7 @@ D. Moderator: Slows down energetic fast fission neutrons ($2\text{ MeV}$) to the
 
 Which of the following is correct regarding this topic?
 
-A. Common moderators: Light water ($\text{H}2\text{O}$, most common globally), Heavy water ($\text{D}2\text{O}$), High-purity Graphite, and Beryllium oxide (BeO).
+A. Narora Atomic Power Station (NAPS, Uttar Pradesh Fact):
 B. Recognized by UNESCO under World Heritage natural criteria
 C. None of the above statements are correct according to official Commission keys.
 D. Enacted under Article 356 of the Constitution of India
@@ -398,7 +390,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Common moderators: **Light water ($\text{H}_2\text{O}$, most common globally)**, **Heavy water ($\text{D}_2\text{O}$)**, **High-purity Graphite**, and **Beryllium oxide (BeO)**.
+- **Key Exam Association:** **Narora Atomic Power Station (NAPS, Uttar Pradesh Fact):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -406,8 +398,8 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Heavy applies only to union territories and not state jurisdictions.
-B. Heavy water ($\text{D}2\text{O}$) is the superior moderator because deuterium has an exceptionally low neutron absorption cross-section, permitting the use of un-enriched natural uranium as fuel (as in Indian PHWRs).
+A. Contrary to standard doctrine, International applies only to union territories and not state jurisdictions.
+B. International Non-Proliferation Treaties (NPT & CTBT Must-Score):
 C. None of the above statements are correct according to official Commission keys.
 D. Reported by the Law Commission in its 214th consultation paper
 
@@ -417,7 +409,7 @@ D. Reported by the Law Commission in its 214th consultation paper
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Heavy water ($\text{D}_2\text{O}$) is the superior moderator because deuterium has an exceptionally **low neutron absorption cross-section**, permitting the use of un-enriched **natural uranium** as fuel (as in Indian PHWRs).
+- **Key Exam Association:** **International Non-Proliferation Treaties (NPT & CTBT Must-Score):**
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -425,9 +417,9 @@ D. Reported by the Law Commission in its 214th consultation paper
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Control applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, NPT applies only to union territories and not state jurisdictions.
 B. Reported by the Law Commission in its 214th consultation paper
-C. Control Rods: Absorb surplus slow-moving thermal neutrons to regulate or halt the fission rate. Inserting control rods dampens the chain reaction; withdrawing them increases reactivity.
+C. NPT (Non-Proliferation Treaty): Opened for signature in 1968, in force 1970, extended indefinitely in 1995 ($191\text{ parties}$). Recognizes 5 Nuclear-Weapon States (tested before 1 Jan 1967: US, Russia, UK, France, China). India, Pakistan, Israel, and South Sudan have never signed. North Korea announced withdrawal in 2003.
 D. Amended by the 44th Constitutional Amendment Act
 
 <details>
@@ -436,6 +428,6 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Control Rods:** Absorb surplus slow-moving thermal neutrons to regulate or halt the fission rate. Inserting control rods dampens the chain reaction; withdrawing them increases reactivity.
+- **Key Exam Association:** **NPT (Non-Proliferation Treaty):** Opened for signature in 1968, in force 1970, extended indefinitely in 1995 ($191\text{ parties}$). Recognizes 5 Nuclear-Weapon States (tested before 1 Jan 1967: US, Russia, UK, France, China). **India, Pakistan, Israel, and South Sudan have never signed**. North Korea announced withdrawal in 2003.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

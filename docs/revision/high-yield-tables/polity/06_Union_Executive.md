@@ -11,26 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 6 — Union Executive</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Pair | Correct | Trap |
-|------|------------|------|
-| Precedence vs succession | **Ceremonial table only** | Treat rank 2 VP as automatic President-in-waiting for all purposes |
-| CJI vs Speaker | **Same rank — 6** | Call Speaker rank 7 or below Cabinet Ministers |
-| Former President vs CJI | **Former President = 5** (above 6) | Place ex-President below Speaker |
-| Governor vs PM | **PM = 3** always at Centre | Governor always outranks PM |
-| Governor “rank 4” | Only **within own State** | Same rank at an all-India Delhi function |
-| AG vs Cabinet Minister | **Cabinet Minister = 7**; **AG = 11** | AG outranks every Minister |
-| CEC / CAG vs SC judge | **SC judge = 9**; **CEC/CAG/UPSC = 9A** | Swap 9 and 9A |
-| Bharat Ratna | **7A** — after rank 7 block | Place with rank 1–3 |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## Current Affairs (Union Executive)
 
@@ -39,6 +20,25 @@ hide:
 | 2022 | **Droupadi Murmu** elected **15th President** (took office 25 July 2022) | First **tribal** (दिकू) and **second woman** President; youngest to hold the office |
 | 2022 | Jagdeep Dhankhar sworn as **16th** Vice-President | Electoral college = **all** MPs (elected + nominated); States out |
 | 2025 | **C. P. Radhakrishnan** sworn as Vice-President | Continuity of Art. 64 / Art. 67 traps |
+
+---
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| President election voters | VP election voters | Only **elected** MPs + MLAs (no nominated / Councils) vs **all** MPs including nominated (no States) | राष्ट्रपति / उपराष्ट्रपति मतदाता |
+| Nominated MPs in election | Nominated MPs in impeachment | **No** vote in Presidential election vs **yes** vote in impeachment | नामित सांसद |
+| MLAs in Presidential election | MLAs in impeachment | **Yes** in election vs **no** in impeachment | विधायक |
+| Absolute / suspensive / pocket veto | Qualified veto | India’s three types vs **USA-only** qualified veto | वीटो |
+| Money Bill return | Ordinary Bill return | President **cannot** return Money Bill vs may return ordinary Bill | धन विधेयक |
+| Art. 72 pardon | Art. 161 pardon | President: death + court-martial vs Governor: **neither** | क्षमा |
+| VP as RS Chairman | VP as RS member | Ex-officio Chairman vs **not** a member | सभापति |
+| CoM responsibility | “Both Houses” claim | Collective responsibility to **Lok Sabha only** | सामूहिक उत्तरदायित्व |
+| PMO head | Cabinet Secretariat head | **Principal Secretary** vs **Cabinet Secretary** | पीएमओ / सचिवालय |
+| AG tenure | SC judge removal | AG during **pleasure** vs judge removal by special process | महान्यायवादी |
+| Ordinance power | Constitution amendment | Art. 123 **cannot** amend the Constitution | अध्यादेश |
+| Warrant of Precedence | Constitutional succession | Ceremonial ranks only vs Arts. 56–65 succession | वरीयता / उत्तराधिकार |
+| Rank 6 (CJI = Speaker) | Rank 7 (Cabinet Ministers) | Speaker **not** below Cabinet | रैंक 6 / 7 |
+| SC judges (9) | CEC/CAG/UPSC (9A) | Do not swap the bands | 9 / 9A |
 
 ---
 
@@ -256,6 +256,21 @@ hide:
 
 ---
 
+### Confused pairs (precedence traps)
+
+| Pair | Correct | Trap |
+|------|------------|------|
+| Precedence vs succession | **Ceremonial table only** | Treat rank 2 VP as automatic President-in-waiting for all purposes |
+| CJI vs Speaker | **Same rank — 6** | Call Speaker rank 7 or below Cabinet Ministers |
+| Former President vs CJI | **Former President = 5** (above 6) | Place ex-President below Speaker |
+| Governor vs PM | **PM = 3** always at Centre | Governor always outranks PM |
+| Governor “rank 4” | Only **within own State** | Same rank at an all-India Delhi function |
+| AG vs Cabinet Minister | **Cabinet Minister = 7**; **AG = 11** | AG outranks every Minister |
+| CEC / CAG vs SC judge | **SC judge = 9**; **CEC/CAG/UPSC = 9A** | Swap 9 and 9A |
+| Bharat Ratna | **7A** — after rank 7 block | Place with rank 1–3 |
+
+---
+
 ## Common Traps
 
 | Trap | Correct |
@@ -388,18 +403,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Part V covers the Union: Executive (Articles 52–78 — President, Vice-President, Prime Minister, Council of Ministers, Attorney General) plus Parliament, and the CAG under Articles 148–151.
-- **Exam Anchor:** India follows a parliamentary system: the President is the nominal / de jure head; the real / de facto executive is the Council of Ministers headed by the Prime Minister.
 - **Exam Anchor:** Article 53 vests executive power of the Union in the President, exercised in practice on the aid and advice of the Council of Ministers under Article 74.
-- **Exam Anchor:** The President is elected indirectly by an Electoral College of elected MPs of both Houses, elected MLAs of the States, and elected MLAs of Delhi and Puducherry (70th Amendment).
 - **Exam Anchor:** Nominated members of Parliament and members of State Legislative Councils do not vote in the Presidential election. They do vote in the Vice-President’s election.
-- **Exam Anchor:** Election uses proportional representation by single transferable vote and a secret ballot. Vote-value population (जनसंख्या) is frozen at the 1971 census until the first census after 2026.
-- **Exam Anchor:** Presidential qualifications (Article 58): citizen, completed 35 years, and qualified for election to the Lok Sabha (लोकसभा) (not Rajya Sabha). Oath is before the Chief Justice of India.
-- **Exam Anchor:** Term is five years; re-election is allowed any number of times. A vacancy by death, resignation or removal must be filled within six months; the Vice-President acts until then.
-
-</details>
+- **Exam Anchor:** Article 72 (President) covers Union offences, court-martial sentences, and death sentences. Article 161 (Governor) does not cover death sentence or court-martial.
+- **Exam Anchor:** Article 123 ordinances: Houses not in session (पंगु सत्र); must be laid and lapse if not approved within six weeks of reassembly. An ordinance cannot amend the Constitution.
+- **Exam Anchor:** Article 74 aid and advice is binding on the President (42nd (42वां) / 44th (44वां संशोधन) line). Article 78 is the Prime Minister’s duty to communicate information to the President.
+- **Exam Anchor:** CEC / CAG (भारत के नियंत्रक-महालेखापरीक्षक) / UPSC (संघ लोक सेवा आयोग) Chair sit at 9A; Supreme Court judges sit at 9 — do not swap those bands.
+- **Exam Anchor:** Doctrine of Pleasure (Article 310) is the general rule for civil servants, but it is restricted by Article 311 and by the hard removal routes for judges, CAG, CEC and similar offices.
 
 ---
 

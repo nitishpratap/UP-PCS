@@ -11,84 +11,79 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 13 — Disaster Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Coaching risk fact: **Risk ≈ Hazard × Vulnerability / Capacity**. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
-2. The disaster-management cycle runs **mitigation → preparedness → response → recovery**. Mitigation is before impact; response is during and just after.
-3. Earthquake **focus** is the point **inside** the Earth; **epicentre** is the point on the **surface** above it. **Richter** measures magnitude; **Mercalli** measures intensity / damage.
-4. Seismic waves split into **body** (through the Earth) and **surface** (along the ground). Body waves arrive **P then S**; surface waves come last and do most damage. **P-wave** shadow (छाया) is about **103–142°**; **S-wave** shadow lies beyond about **103°** (liquid outer core). The Himalaya (हिमालय) is India’s highest seismic belt because of **collision and thrust zones**.
-5. India uses seismic **Zones II–V** only (Zone I was dropped in 2002). **Zone V is highest**. A draft Zone VI was **withdrawn in March 2026** — maps still follow the 2016 II–V zones.
-6. Zone V covers the North-East, Himalayan pockets, **Kutch** and the **Andaman (अंडमान) & Nicobar (निकोबार)** belt. Much of Rajasthan and the Deccan (दक्कन) sits in Zones II–III.
-7. About **59%** of India’s landmass is earthquake-prone in NDMA note. Famous shocks: Kangra (कांगड़ा) 1905, Bihar–Nepal 1934, **Koyna 1967 (reservoir-induced)**, **Latur 1993 (peninsular / Killari, Zone III)**, Bhuj 2001, and the **26 December 2004** tsunami.
-8. A **tsunami** (Japanese “harbour wave”) is caused by **seafloor displacement** (quake, landslide or volcano), not by ordinary wind waves or tides. It races fast in deep water and piles up near the coast. India’s warning hub is **INCOIS, Hyderabad (हैदराबाद)**. Hall event: **26 Dec 2004** Sumatra megathrust.
-9. **Kilimanjaro** sits on the East African Rift and is **not** part of the Pacific Ring of Fire.
-10. Landslide belts are the Himalaya, Western Ghats (पश्चिमी घाट) and North-East. pairs include Kedarnath (केदारनाथ) **2013**, Joshimath subsidence **2023**, and Sikkim GLOF **2023**.
-11. Flood types include riverine (Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)), flash floods in hills, urban (नगरीय) floods and coastal storm surge (तूफानी महोर्मि). Drought is classed as meteorological, hydrological and agricultural. IMD drought criteria often use rainfall deficiency **>25%** of normal.
-12. IMD **cloudburst** fact is rainfall **≥100 mm in one hour**, typically in Uttarakhand (उत्तराखंड)–Himachal (हिमाचल)–J&K–North-East hill belts around **1000–2500 m**.
-13. IMD plains heat-wave gate: when **Tmax ≥40°C**, a departure of **4.5–6.4°C** is a heat wave and **>6.4°C** is severe; or actual **≥45°C / ≥47°C**. Criteria also use two stations for two days. Cold-wave plains gate is **Tmin ≤10°C** with a sharp drop.
-14. The **Bay of Bengal** produces **more** cyclones than the Arabian Sea. Peak seasons are roughly **May–June** and **October–December**. Arabian Sea storms can still hit Gujarat–Maharashtra (Tauktae / Kandla note).
-15. Cyclone-name pairs: **Baguio = Philippines**; Hurricane = USA; Typhoon / Taifu = China–Japan; **Willy-willy (विली-विली) = Australia**; cyclone = North Indian Ocean; Cordonazo = Mexico.
-16. 2019 storm–place pairs: Dorian–Bahamas, Hagibis–Japan, Lekima–China, Mitag–Korea, with Indian Ocean names like Amphan, Fani and Tauktae also in the news map.
-17. **NDMA** is chaired by the **Prime Minister**. **SDMA** is chaired by the **Chief Minister**. **DDMA** is chaired by the District Magistrate / Collector.
-18. Framework years: **DM Act 2005**, **NPDM 2009**, **NDRF 2006** (MHA), **NDMP 2016**, **Sendai Framework 2015–2030** (after Hyogo 2005–15), **CDRI 2019**. International Day for Disaster Risk Reduction is **13 October**.
-19. NEC pair = Union Home Secretary. **NIDM** handles training from Delhi. Its ancestor **NCDM** was set up in **1995** under **IIPA** (not ICSSR / NDMA). India is **not** a disaster-free country.
-20. India’s multi-hazard note: ~**59%** quake-prone, ~**12%** flood-prone, ~**5,700 km** cyclone/tsunami coast, ~**68%** of cultivable area drought-vulnerable.
-21. **Mangroves** cut cyclone and surge impact. **Bhopal 1984** is the classic man-made industrial / chemical disaster.
-22. **DPAP** began in **1973–74**. The earlier Community Development Programme pair is **1952**.
-23. Uttar Pradesh (उत्तर प्रदेश) sits mainly in seismic **Zones III–IV** (not Zone V as a whole-State label). Eastern districts face river floods; Bundelkhand faces drought. Plains heat waves peak in May–June (**Loo** (लू)).
-24. In the 2018 UP paper, the **Gomati** (गोमती) carried the “biological disaster” pollution label among the given rivers.
-25. Hazard is potential danger; disaster is when capacity fails. Do not treat the two words as identical.
-26. Cold-wave and fog risk in western Uttar Pradesh and the Terai (तराई) peaks in **December–January**; plains heat waves (**Loo**) peak in **May–June**.
-27. Surface seismic waves include **Love** and **Rayleigh**; they arrive after body waves and do most damage. **P** waves travel through solids, liquids and gases; **S** waves travel through **solids only**.
-28. Hazard classes include geophysical (quake, volcano, tsunami), hydrological (flood), meteorological (cyclone, heat/cold wave), climatological (drought) and technological / industrial (Bhopal-type).
-29. Landslide triggers include steep slopes, heavy rain, earthquakes, deforestation and toe-cutting of slopes. Avalanche risk sits mainly in high Himalayan snow belts.
-30. Early-warning chain: IMD (weather / cyclone / heat), INCOIS (tsunami / ocean), CWC (floods), GSI / NDMA guidance for landslides — do not dump every warning on one agency.
-31. **Sendai Framework** has **seven** global targets and **four** priorities for action (not six targets / three priorities). Priority 4 includes **Build Back Better** in recovery. It was adopted at the **Third** UN World Conference on DRR (Sendai, Japan).
+1. **Kilimanjaro** sits on the East African Rift and is **not** part of the Pacific Ring of Fire.
+2. **NDMA** is chaired by the **Prime Minister**. **SDMA** is chaired by the **Chief Minister**. **DDMA** is chaired by the District Magistrate / Collector.
+3. **Mangroves** cut cyclone and surge impact. **Bhopal 1984** is the classic man-made industrial / chemical disaster.
+4. **DPAP** began in **1973–74**. The earlier Community Development Programme pair is **1952**.
+5. **Sendai Framework** has **seven** global targets and **four** priorities for action (not six targets / three priorities). Priority 4 includes **Build Back Better** in recovery. It was adopted at the **Third** UN World Conference on DRR (Sendai, Japan).
+6. **Vulnerability** is how exposed and fragile a community, house or economy is.
+7. **Capacity** is the ability to prepare, resist, cope and recover.
+8. **Exposure** is who or what sits in harm’s way; without exposure, a hazard may not become a disaster.
+9. **Mitigation** — reduce risk before the event (codes, embankments, zoning, note).
+10. **Preparedness** — plans, drills, early warning, stockpiles.
+11. **Response** — rescue, relief, medical care during and just after impact.
+12. **Recovery / reconstruction** — restore livelihoods and build back better.
+13. **Richter / moment magnitude** measures size or energy (logarithmic).
+14. **P-waves (primary / longitudinal)** are the **fastest**. They push and pull like sound waves and travel through **solids, liquids and gases**. They arrive **first** on a seismogram.
+15. **S-waves (secondary / transverse / shear)** are **slower** than P. They shake side-to-side and travel through **solids only**. They cannot cross the **liquid outer core**, so they arrive **second** where they are recorded.
+16. **S-wave shadow:** Beyond about **103–105°** from the epicentre, **S-waves are not recorded**. The liquid outer core blocks shear waves.
+17. **P-wave shadow:** **P-waves** are weak or absent in a belt of about **103–142°** (often taught as ~**105–140°**). They do enter the core but are **refracted** at the mantle–core boundary, so that angular belt is a gap.
+18. **Richter** magnitude and **moment magnitude (Mw)** measure how much energy the quake released.
+19. **Body waves** travel through Earth’s interior; they are **P** and **S** waves.
+20. **Surface waves** travel along the ground; **Love** and **Rayleigh** waves are the main types.
+21. **Zone V** covers almost the entire **Northeast** (except some plains pockets on some maps), the **Andaman & Nicobar**, parts of **J&K / Ladakh (लद्दाख), Himachal and Uttarakhand**, the **Rann of Kutch**, and parts of north Bihar.
+22. **Zone IV** covers the rest of the Himalayan states, **Delhi**, northern and eastern **UP** (Terai / Ghaghara (घाघरा)–Gandak (गंडक) belt), and parts of Bihar, Haryana, Punjab, Maharashtra and J&K.
+23. **Zone III** covers the broad peninsula plus **most of UP** (Lucknow (लखनऊ), Kanpur (कानपुर), Prayagraj (प्रयागराज), Varanasi (वाराणसी), Agra). Mumbai, Chennai and Kolkata are often tagged III. The **Latur–Koyna** belt sits here too.
+24. **Zone II** covers large stable Deccan and western Rajasthan interiors (Hyderabad–Bengaluru belt).
+25. **Riverine floods** rise when large rivers overtop banks after prolonged monsoon rain or snowmelt. The **Ganga–Brahmaputra–Meghna** system dominates India’s flood map.
+26. **Flash floods** rise in minutes to hours in hills after cloudbursts or sudden dam (बांध) / landslide lake bursts.
+27. **Urban floods** follow blocked drains, paved catchments and intense city rain (Mumbai-type events).
+28. **Coastal floods** come with cyclone **storm surge** and high tides.
+29. **GLOF** (glacial-lake outburst flood) releases a glacial lake when a moraine dam fails.
+30. **Sikkim Teesta / South Lhonak 2023** is the standard glacial-lake outburst pair.
+31. **CWC** (केंद्रीय जल आयोग) (Central Water Commission) and **IMD** run flood watch and rainfall alerts.
+32. **Kedarnath 2013** is the classic rain–flash flood–debris cascade linked to extreme hill rainfall.
+33. **Mangroves** and coastal forests cut surge and wind impact before water reaches settlements.
+34. **Phailin (2013)** struck Odisha as a very severe cyclonic storm with strong surge and rain.
+35. **Hudhud (2014)** made landfall near **Visakhapatnam** and damaged the Andhra coast.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Focus vs epicentre | Focus = **inside**; epicentre = **surface** | Swapped | उद्गम / अधिकेन्द्र |
-| Body vs surface waves | Body = through Earth (**P, S**); surface = along ground (**Love, Rayleigh**) | Treating all as one family | शरीर तरंग / पृष्ठ तरंग |
-| P-wave vs S-wave | **P** = fastest, solids+liquids+gases; **S** = slower, **solids only** | S through outer core | प्राथमिक / द्वितीयक |
-| P shadow vs S shadow | P miss ~**103–142°**; S absent beyond ~**103°** | Same belt for both / both recorded past 105° | छाया क्षेत्र |
-| Richter vs Mercalli | Magnitude vs **intensity/damage** | Same scale | रिक्टर / मर्कली |
-| Zone V vs II | V = **highest** (NE, Himalaya, Kutch, A&N) | V = safest | क्षेत्र V |
-| Latur 1993 | **Peninsular** / Killari (Zone III) | “Only Himalaya shakes” | लातूर |
-| Koyna 1967 | **Reservoir-induced** | Pure Himalayan thrust | कोयना |
-| Rajasthan / Deccan | Mostly **II–III** | All India Zone V | |
-| Tsunami | **Seafloor slip** / landslide / volcano — Japanese harbour wave | Wind-raised waves / “tidal wave” | सुनामी |
-| INCOIS | Tsunami warning — **Hyderabad** (MoES) | NDMA HQ / IMD Pune as the tsunami hub | INCOIS |
-| Kilimanjaro | **E. African Rift** — not Ring of Fire | Fuji/Pinatubo/St Helens are | किलिमंजारो |
-| Cloudburst | **≥100 mm in one hour** | Any heavy rain | बादल फटना |
-| Heat wave plains | Gate **≥40°C** then +4.5°C | Any hot afternoon | लू / ऊष्मा तरंग |
-| BoB vs Arabian | **BoB more** cyclones | Equal / Arabian more | बंगाल की खाड़ी |
-| Baguio | **Philippines** | Japan / USA | बागिओ |
-| Willy-willies | **Australia** | USA | विली-विली |
-| NDMA chair | **Prime Minister** | Home Minister | प्रधानमंत्री |
-| SDMA chair | **Chief Minister** | Governor | मुख्यमंत्री |
-| Sendai vs Hyogo | **2015–30** vs 2005–15 | Yokohama 2015 | सेंडाई |
-| DPAP year | **1973–74** | 1952 (that is CDP) | DPAP |
-| Hazard vs disaster | Hazard = potential; disaster = when capacity fails | Same word | आपदा ≠ संकट बीज |
-| Mitigation vs response | Before impact vs during/after | Swap | न्यूनीकरण ≠ अनुक्रिया |
-| NPDM year | **2009** | 2005 (that is DM Act) | 2009 नीति |
-| Chemical / industrial | **Bhopal 1984** man-made | “Natural only India” | भोपाल |
-| GLOF vs ordinary flood | Glacial-lake outburst (e.g. **Sikkim 2023**) | Any river monsoon rise | GLOF |
-| Joshimath vs Kedarnath | Joshimath **2023** = subsidence; Kedarnath **2013** = rain–debris–flood | Same mechanism | जोशीमठ / केदारनाथ |
-| Heat gate vs hot day | Plains need **Tmax ≥40°C** then departure/actual cut | Any afternoon above 35°C | ऊष्मा तरंग |
-| BoB peak months | **May–Jun** and **Oct–Dec** | Mid-monsoon as the only peak | चक्रवात ऋतु |
-| NDRF year | Raised **2006** (MHA) | 2005 = DM Act only | NDRF |
-| NEC chair | **Union Home Secretary** | Home Minister / PM | NEC |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **NDMA chair = Home Minister** — FALSE. **Prime Minister**.
+2. **Zone V = safest / Zone I still exists** — FALSE. **V = highest**; I abolished.
+3. **Entire UP = Zone V** — FALSE. **III–IV**.
+4. **Only Himalaya shakes** — FALSE. **Latur 1993, Koyna 1967**.
+5. **Richter = damage scale** — FALSE. **Mercalli** = intensity.
+6. **S-waves travel through the liquid outer core / both P and S recorded past 105°** — FALSE. **S** stop beyond ~**103°**; **P** miss ~**103–142°**.
+7. **Surface waves arrive first / P waves do most surface damage** — FALSE. Arrival is **P → S → surface**; surface waves usually do worst ground damage.
+8. **Tsunami = wind waves / cyclone swell / tidal wave** — FALSE. **Seafloor displacement**; Japanese **harbour wave**.
+9. **INCOIS = NDMA HQ / IMD Pune** — FALSE. Tsunami warning = **INCOIS, Hyderabad**.
+10. **Kilimanjaro = Ring of Fire** — FALSE. **East African Rift**.
+11. **Cloudburst = any hill rain** — FALSE. **≥100 mm/hour**.
+12. **Heat wave = any day above 35°C** — FALSE. Plains **gate 40°C** + departure/actual cuts.
+13. **Arabian Sea never hits India** — FALSE. **Gujarat/MH** (Tauktae).
+14. **Baguio = Japan; Willy-willy = USA** — FALSE. **PH and Australia**.
+15. **Sendai = 2005–15** — FALSE. That is **Hyogo**. Sendai **2015–30**.
+16. **NPDM = 2005** — FALSE. DM Act **2005**; NPDM **2009**.
+17. **NDMA chair = Home Minister** — FALSE. **Prime Minister**.
+18. **Hazard = disaster always** — FALSE. Disaster needs exposure + weak capacity.
+19. **Skip HVRC / Sendai priorities because recent papers asked zones** — FALSE. Next year can ask the framework from the same topic.
+20. **Arabian Sea never hits India** — FALSE. Gujarat–Maharashtra landfalls exist.
+21. **India is disaster-free** — FALSE (2018 key).
+22. **DPAP = 1952** — FALSE. **1973–74**; 1952 = CDP.
+23. **Gomati vs Yamuna as 2018 biological-disaster river** — paper key **Gomati**.
+24. **2004 deaths = 50 lakh / Bangladesh worst-hit by that wave path** — FALSE. Order **2–3 lakh**; Bangladesh relatively few for wave-direction reasons.
+25. **Joshimath 2023 = same as Kedarnath 2013 rain wall** — FALSE. Joshimath is mainly **subsidence / slope distress**; Kedarnath is a rain–debris–flood cascade.
+26. **GLOF = ordinary Ganga bank flood** — FALSE. **Glacial-lake outburst** (Sikkim Teesta / South Lhonak 2023).
+27. **Cyclones need the equator / form only in mid-monsoon BoB** — FALSE. Need **Coriolis** (usually outside ~5°) and peak in **May–Jun / Oct–Dec**.
+28. **Bhopal = natural earthquake disaster** — FALSE. **Man-made** chemical / industrial (1984).
 
 
 ---

@@ -23,7 +23,8 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 ---
 
 
-## Consolidated — 52 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 52 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Endogenic** processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. **Exogenic** processes wear and deposit at the surface. **Gradation** = degradation + aggradation.
 2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
@@ -80,9 +81,10 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 51. **Centripetal** streams drain into **Loktak (लोकतक)** and into **Sambhar (सांभर)**.
 52. The **Sharavati (शरावती)** follows a **parallel** pattern down the Western Ghats.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -123,7 +125,7 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 | Endogenic vs exogenic | Interior build vs surface wear | Same | अंतर्जात / बहिर्जात |
 | Weathering vs denudation | In situ breakdown vs weathering+erosion | Same | अपक्षय ≠ अनाच्छादन |
 
----
+</details>
 
 ## Must-score facts — agents, landforms, rocks
 

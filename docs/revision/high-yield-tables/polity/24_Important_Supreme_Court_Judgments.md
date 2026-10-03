@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 24 — Important Supreme Court Judgments</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Year | What happened | What you mark |
 |------|-----------------|---------------|
@@ -126,18 +124,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A.K. Gopalan (1950) held that Article 21 is satisfied by any procedure (प्रक्रिया) in a valid law and read Fundamental Rights (मौलिक अधिकार) in silos. Maneka Gandhi (1978) requires a fair, just, and reasonable procedure and reads Articles 14, 19, and 21 together.
-- **Exam Anchor:** ADM Jabalpur (1976) held that habeas corpus (बन्दी प्रत्यक्षीकरण) fails if Article 21 (अनुच्छेद 21) is suspended in Emergency; Justice Khanna dissented. The 44th (44वां संशोधन) Amendment (44वां संशोधन) later blocked suspension of Articles 20 and 21. Puttaswamy (2017) said the Jabalpur majority was wrong.
-- **Exam Anchor:** Shankari Prasad (1951) upheld the First Amendment and said Article 368 can amend Fundamental Rights. Sajjan Singh (1965) upheld the Seventeenth Amendment; Mudholkar hinted at “basic features.”
-- **Exam Anchor:** Golaknath (1967, 11-judge, 6:5) held that Fundamental Rights cannot be amended, with prospective overruling. It is not the Basic Structure case.
-- **Exam Anchor:** The 24th Amendment (1971) inserted Article 13(4) so a 368 amendment is not “law” under Article 13. It came before Kesavananda.
-- **Exam Anchor:** Kesavananda Bharati (24 April 1973, 13-judge, 7:6) held that Parliament can amend Fundamental Rights but cannot destroy the Basic Structure. This is the Basic Structure fact.
-- **Exam Anchor:** The four-case amendment order is 1951 → 1965 → 1967 → 1973 (Shankari → Sajjan → Golaknath → Kesavananda).
-- **Exam Anchor:** Indira Nehru Gandhi (1975) struck the Thirty-ninth Amendment’s Article 329A(4)/(5) election-shield clauses and added Rule of Law / free-fair elections themes to Basic Structure talk.
-
-</details>
+- **Exam Anchor:** 1950 Gopalan → 1951 Shankari / 1st Amd → 1960 Berubari / 9th Amd → 1965 Sajjan → 1967 Golaknath → 1971 24th Amd → 24 Apr 1973 Kesavananda (13-j 7:6)
+- **Exam Anchor:** 1975 Indira Gandhi / 39th → 1976 Jabalpur / 42nd → 1978 Maneka / 44th → 1980 Minerva → 1981 Waman Rao + First Judges → 1986 Mehta Oleum
+- **Exam Anchor:** 1992 Sawhney + Kihoto → 1993 Second Judges (CJI+2) → 1994 Bommai → 1997 Vishaka → 1998 Third Judges (CJI+4 / HC CJI+2)
+- **Exam Anchor:** 2006 Rameshwar Prasad → 2007 Coelho → 2013 Lily Thomas → 2015 Shreya + NJAC 4:1 → 2016 Nabam Rebia → 2017 Puttaswamy → 2018 Navtej + Joseph Shine
+- **Exam Anchor:** Bench: 6-judge. H.J. Kania CJ. Fazl Ali dissent
+- **Exam Anchor:** Fazl Ali: 19 and 21 should be read together; procedure must be reasonable
+- **Exam Anchor:** Severability: s.14 of the PD Act (barred the court from seeing the grounds of detention) was struck; the rest of the Act stood
+- **Exam Anchor:** Later: the silo / “any procedure” reading (रीडिंग) is replaced by Maneka 1978. The need for a valid law remains
 
 ---
 

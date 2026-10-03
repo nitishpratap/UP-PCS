@@ -32,7 +32,8 @@ Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks sta
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Poverty** is the inability to meet a minimum standard of living — measured by income/consumption lines or by multidimensional deprivations.
 2. India’s official poverty estimation has mainly used **household consumption** surveys, not per capita income alone.
@@ -85,8 +86,10 @@ Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks sta
 49. Poverty causes: low productivity, unemployment / underemployment, inequality, social exclusion, shocks (health, climate, debt).
 50. Alleviation mix: growth, targeted programmes, food security (Topic 6), employment guarantees, human-capital investment.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -149,6 +152,8 @@ Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks sta
 | **PMAY Housing for All 2022** | **IAY / RAY alone** | Current umbrella vs older rural / slum schemes |
 | **SSA (2001)** | **Samagra Shiksha (2018)** | Elementary mission vs SSA+RMSA+TE amalgam |
 | **Mid-day Meal 1995** | **PM POSHAN 2021 rename** | Launch vs rename |
+
+</details>
 
 ## Must-score drill — HDI, MPI, labour, sustainable development
 

@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 16 — Miscellaneous (Frequently Asked by UPPCS)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **“Swaraj (स्वराज) is my birthright and I shall have it”** is **Tilak** (तिलक). **“Do or Die (करो या मरो)”** is **Gandhi** (गांधी) at Quit India (भारत छोड़ो) (**8 August 1942**).
 2. **“Inquilab (इंकलाब) Zindabad”** was coined by **Hasrat Mohani** and popularised by **Bhagat Singh** (भगत सिंह). It is not Bose’s slogan.
@@ -21,52 +20,72 @@ hide:
 5. **“Back to the Vedas”** is **Dayanand Saraswati (सरस्वती)**. **“One caste, one religion, one God”** is **Sri Narayana Guru (गुरु)**.
 6. **“Educate, Agitate, Organise”** is **Ambedkar** (अम्बेडकर). **“Sarfaroshi ki tamanna”** sits with the **Bismil** / Kakori stream.
 7. **Tilak’s *Kesari* (Marathi) and *Mahratta* (English)** are **Pune** (पुणे) papers — not Gorakhpur (गोरखपुर).
-8. UP press match: **Swadesh (स्वदेश)–Gorakhpur**, **Bharat Bandhu–Hathras (हाथरस)**, **Satyawadi–Agra**, **Shakti (शक्ति)–Almora (अल्मोड़ा)**.
-9. Gandhi’s papers include ***Young India***, ***Harijan** (हरिजन)* and ***Navajivan***. ***Indian Opinion*** belongs to his South Africa years.
-10. INC firsts: **Bonnerjee 1885** (first session); **Tyabji 1887** (first Muslim); **Yule 1888** (first English); **Besant (बेसेंट) 1917** (एनी बेसेंट) (first woman); **Sarojini 1925** (सरोजिनी) (first Indian woman).
-11. **Belgaum 1924** (बेलगाव) is Gandhi’s **only** presidentship. **Lahore 1929** (लाहौर) is **Purna Swaraj** (पूर्ण स्वराज). **Karachi 1931** (Patel) is Fundamental Rights (मौलिक अधिकार). **Faizpur 1937** is the first village session.
-12. **Tilak never** became Congress (कांग्रेस) President. Bose held **1938–39**; Azad held **Ramgarh 1940**.
-13. UP 1857: **Lucknow (लखनऊ) = Begum Hazrat Mahal (बेगम हज़रत महल)**; **Allahabad (इलाहाबाद) = Liyaqat Ali (लियाकत)** — never swap.
-14. UP map facts: **Kakori 9 Aug 1925**; **Chauri Chaura (चौरी चौरा) 4/5 Feb 1922 (Gorakhpur)**; **Azad Park, Allahabad**.
-15. Treaty year facts: **Allahabad 1765**, **Madras 1769**, **Salbai 1782** (सालबाई), **Mangalore 1784**. Chronological order is Allahabad → Madras → Salbai → Mangalore.
-16. Education commissions ladder: **Wood 1854 (वुड) → Hunter 1882 (हंटर) → Sadler 1917 → Sargeant 1944**.
-17. **Hunter Commission 1882** (हंटर आयोग 1882) is education. **Hunter Committee 1919** (हंटर कमेटी 1919) is the Jallianwala inquiry — different bodies.
-18. Mission year facts: **Simon 1927**, **Nehru (नेहरू) Report (नेहरू रिपोर्ट) 1928** (नेहरू रिपोर्ट), **Cripps (क्रिप्स) 1942** (क्रिप्स), **Cabinet Mission (कैबिनेट मिशन) 1946** (कैबिनेट मिशन).
-19. Official ↔ policy: **Curzon (कर्ज़न) — Partition 1905 (बंगाल विभाजन)**; **Minto — separate electorates 1909**; **Chelmsford — Montford 1919**; **Irwin (इरविन) — Gandhi–Irwin Pact (गांधी-इरविन) 1931**; **Willingdon (विलिंग्डन) — Communal Award (सांप्रदायिक पंचाट) 1932**; **Mountbatten — 3 June Plan (3 जून योजना)**.
-20. **Shanti Ghosh** (शांति घोष) is a **1931 Bengal** revolutionary name. **Aruna Asaf Ali** (अरुणा) is **Quit India 1942** — do not swap.
-21. INA trials sat at the **Red Fort** (लाल किला), not Gwalior Fort.
-22. **Rani Lakshmibai** (रानी लक्ष्मीबाई) is the Rani of Jhansi (झांसी). **Jhalkari Bai** (झलकारी बाई) is the Dalit (दलित) soldier remembered as resembling her in battle.
-23. ***Poverty and Un-British Rule (अन-ब्रिटिश शासन)*** = Naoroji (नौरोजी) **1901**. ***Economic Nationalism*** historiography = **Bipan Chandra**.
-24. ***Anandamath*** = Bankim; ***Hind Swaraj** (हिंद स्वराज)* = Gandhi; ***Discovery of India** (भारत एक खोज)* = Nehru; ***India Wins Freedom** (इंडिया विन्स फ्रीडम)* = Azad; ***Gita Rahasya** (गीता रहस्य)* = Tilak.
-25. **Simon Go Back** is keyed to the anti-Simon agitation and the **Lajpat Rai (राई)** association.
-26. **Garibi Hatao** is a later Indira-era slogan, not a 1920s freedom-struggle fact.
-27. Vault priority rows: slogan six + INC “first” six + committee/mission six + British-official six — then UP press/1857/Kakori rows.
-28. Drill those vault rows before narrative chapters; event stories live in Topics 1–15, not here.
+8. **Belgaum 1924** (बेलगाव) is Gandhi’s **only** presidentship. **Lahore 1929** (लाहौर) is **Purna Swaraj** (पूर्ण स्वराज). **Karachi 1931** (Patel) is Fundamental Rights (मौलिक अधिकार). **Faizpur 1937** is the first village session.
+9. **Tilak never** became Congress (कांग्रेस) President. Bose held **1938–39**; Azad held **Ramgarh 1940**.
+10. **Hunter Commission 1882** (हंटर आयोग 1882) is education. **Hunter Committee 1919** (हंटर कमेटी 1919) is the Jallianwala inquiry — different bodies.
+11. **Shanti Ghosh** (शांति घोष) is a **1931 Bengal** revolutionary name. **Aruna Asaf Ali** (अरुणा) is **Quit India 1942** — do not swap.
+12. **Rani Lakshmibai** (रानी लक्ष्मीबाई) is the Rani of Jhansi (झांसी). **Jhalkari Bai** (झलकारी बाई) is the Dalit (दलित) soldier remembered as resembling her in battle.
+13. ***Poverty and Un-British Rule (अन-ब्रिटिश शासन)*** = Naoroji (नौरोजी) **1901**. ***Economic Nationalism*** historiography = **Bipan Chandra**.
+14. ***Anandamath*** = Bankim; ***Hind Swaraj** (हिंद स्वराज)* = Gandhi; ***Discovery of India** (भारत एक खोज)* = Nehru; ***India Wins Freedom** (इंडिया विन्स फ्रीडम)* = Azad; ***Gita Rahasya** (गीता रहस्य)* = Tilak.
+15. **Simon Go Back** is keyed to the anti-Simon agitation and the **Lajpat Rai (राई)** association.
+16. **Garibi Hatao** is a later Indira-era slogan, not a 1920s freedom-struggle fact.
+17. **Swadesh** is the Gorakhpur paper in the standard match set; do not swap it with Tilak's **Kesari** (Pune).
+18. **Bal Gangadhar Tilak** **never** presided over an INC session.
+19. **Abhinav Bharat** founder: **V.D. Savarkar**, not Bhagat Singh.
+20. **1857 UP map:** Lucknow = **Begum Hazrat Mahal**; **Liyaqat Ali** = **Allahabad** — never swap.
+21. **Shanti Ghosh** belongs to the **1931** Bengal revolutionary shooting, not Quit India. **Rajendra Prasad** did **not** attend the **2nd RTC**; **Sarojini Naidu** did.
+22. **Do or Die = Bose** → **Gandhi, 8 Aug 1942**.
+23. **Inquilab = Bose / Tilak** → **Hasrat coined; Bhagat popularised**.
+24. **First woman INC President = Sarojini** → **Besant 1917**; Sarojini = first **Indian** woman **1925**.
+25. **Gandhi President = Lahore** → **Belgaum 1924 only**.
+26. **2022 Kesari = Gorakhpur** → that slot is **Swadesh**. Kesari = **Pune**.
+27. **Lucknow 1857 = Liyaqat Ali** → **Hazrat Mahal**. Liyaqat = **Allahabad**.
+28. **Hunter 1882 = Jallianwala** → 1882 = **education**; Punjab inquiry = **1919**.
+29. **INA trials = Gwalior / Agra** → **Red Fort**.
+30. **Shanti Ghosh = QI** → **1931** Bengal; QI women = Aruna, Matangini, Kanaklata.
+31. **Abhinav Bharat = Bhagat Singh** → **Savarkar**.
+32. **Vande Mataram = anthem** → **song**. Anthem = **Jana Gana Mana**.
+33. **Salbai = 1765** → **1782**. 1765 = **Allahabad**.
+34. **Young India = Tilak** → **Gandhi**. Tilak = **Kesari / Mahratta**.
+35. **Tilak was Congress President** → **never**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Do or Die | Give me blood | Gandhi QI vs Bose INA | करो या मरो / खून दो |
-| Inquilab | Swaraj birthright | Hasrat/Bhagat vs Tilak | इंकलाब / स्वराज |
-| Besant 1917 | Sarojini 1925 | First woman INC President vs first **Indian** woman | एनी / सरोजिनी |
-| Kesari (Pune) | Swadesh (Gorakhpur) | Tilak vs 2022 UP place-match | केसरी / स्वदेश |
-| Hunter 1882 | Hunter 1919 | Education vs Jallianwala inquiry | हंटर शिक्षा / हंटर पंजाब |
-| Belgaum 1924 | Lahore 1929 | Only Gandhi President vs Purna Swaraj | बेलगाव / लाहौर |
-| Shanti Ghosh | Aruna Asaf Ali | 1931 Bengal revolutionary vs QI 1942 | शांति / अरुणा |
-| Liyaqat Ali | Hazrat Mahal | Allahabad 1857 vs Lucknow 1857 | लियाकत / हजरत महल |
-| Red Fort | Gwalior Fort | INA trials vs **not** the INA court | लाल किला |
-| Rani Lakshmibai | Jhalkari Bai | The Rani herself vs the Dalit soldier who resembled her in battle | लक्ष्मीबाई / झलकारी बाई |
-| Cripps Mission 1942 | Cabinet Mission 1946 | Solo envoy, failed vs three-member mission with a grouping plan | क्रिप्स / कैबिनेट मिशन |
-| Nehru Report 1928 | Simon Commission 1927 | Indian response vs all-white British body | नेहरू रिपोर्ट / साइमन |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Do or Die = Bose** → **Gandhi, 8 Aug 1942**.
+2. **Inquilab = Bose / Tilak** → **Hasrat coined; Bhagat popularised**.
+3. **First woman INC President = Sarojini** → **Besant 1917**; Sarojini = first **Indian** woman **1925**.
+4. **Gandhi President = Lahore** → **Belgaum 1924 only**.
+5. **2022 Kesari = Gorakhpur** → that slot is **Swadesh**. Kesari = **Pune**.
+6. **Lucknow 1857 = Liyaqat Ali** → **Hazrat Mahal**. Liyaqat = **Allahabad**.
+7. **Hunter 1882 = Jallianwala** → 1882 = **education**; Punjab inquiry = **1919**.
+8. **INA trials = Gwalior / Agra** → **Red Fort**.
+9. **Shanti Ghosh = QI** → **1931** Bengal; QI women = Aruna, Matangini, Kanaklata.
+10. **Abhinav Bharat = Bhagat Singh** → **Savarkar**.
+11. **Vande Mataram = anthem** → **song**. Anthem = **Jana Gana Mana**.
+12. **Salbai = 1765** → **1782**. 1765 = **Allahabad**.
+13. **Young India = Tilak** → **Gandhi**. Tilak = **Kesari / Mahratta**.
+14. **Tilak was Congress President** → **never**.
+15. **Rani Jhansi Regiment = 1857** → **INA**, Lakshmi Sehgal.
+16. **Karachi 1931 = Nehru President** → **Patel**; Nehru = Lahore 1929.
+17. **Faizpur = first English President** → first **village** session; first English = **Yule 1888**.
+18. **GOI 1935 started dyarchy in provinces** → dyarchy provinces = **1919**; 1935 = **autonomy**.
+19. **Jhalkari Bai = Rani Lakshmibai** → she was a **separate** Dalit soldier who resembled the Rani; not the same person.
+20. **Cabinet Mission = solo envoy** → that is **Cripps Mission, 1942**. Cabinet Mission (1946) had **three** members.
+21. **Chandernagore = part of Pondicherry UT** → Chandernagore merged into **West Bengal (1954)**; Pondicherry group is a separate UT.
+22. **Bismil and Ashfaqullah born in different towns** → both born in **Shahjahanpur**, UP.
+23. **Sea of Calamity = Bihar / Madras 1866–67** → that nickname is **Odisha (Orissa) famine 1866–67**.
+24. **Famine Codes = Hunter Commission** → Codes follow **Strachey (1880)**; Hunter **1882** is education.
+25. **Jai Jawan Jai Kisan = Nehru / Devi Lal** → **Lal Bahadur Shastri**.
+26. **Great Sentinel = Bose’s title for Tagore** → **Gandhi** called Tagore the Great Sentinel.
+27. **Operation Vijay always = Goa** → Goa **1961** and Kargil **1999** both used the name; check the year.
+28. **Simla Pact 1972 = Wavell Simla 1945** → **1972** Indira–Bhutto; **1945** is Wavell Conference.
+29. **First woman PM = Indira Gandhi** → world’s first is **Sirimavo Bandaranaike** (Sri Lanka).
+30. **Whitley = constitutional reforms** → **labour** conditions commission (**1929**).
 
 
 ---

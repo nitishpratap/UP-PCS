@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 21 — International Relations</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Year | What happened | What you mark |
 |------|-----------------|---------------|
@@ -217,18 +215,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** India’s foreign policy rests on independent judgment — historically called non-alignment and later strategic autonomy. It is not isolation and was not joining a US or USSR military camp in the Cold War textbook sense.
 - **Exam Anchor:** Panchsheel was signed on 29 April 1954 in the India–China Tibet trade (पण्याध्यक्ष) agreement. The five principles are mutual respect for sovereignty, non-aggression, non-interference, equality and mutual benefit, and peaceful coexistence.
 - **Exam Anchor:** Bandung 1955 echoed the same five principles at the Afro-Asian conference. Panchsheel is the India–China five; Bandung is the wider conference that used them.
 - **Exam Anchor:** Non-alignment is a policy. NAM is a movement, founded at Belgrade 1961 by Nehru (नेहरू), Nasser, Tito (with Sukarno and Nkrumah). India hosted the 7th Summit in Delhi (1983). NAM is not a military alliance and is not NATO.
-- **Exam Anchor:** The UN Security Council has 15 members: P5 (China, France, Russia, UK, USA) plus 10 elected for two years. A P5 veto blocks substantive drafts. India has been elected eight times; the last term was 2021–22.
-- **Exam Anchor:** The G4 (India, Japan, Germany, Brazil) seek permanent seats. The Uniting for Consensus (Coffee Club) group resists easy expansion of permanent membership.
 - **Exam Anchor:** NATO was founded on 4 April 1949 in Washington. Article 5 is collective defence. HQ is Brussels. Membership is 32 after Finland (2023) and Sweden (2024). India is not a member.
 - **Exam Anchor:** AUKUS (2021) is Australia–UK–US (nuclear submarines). QUAD is India–Japan–US–Australia as a dialogue. Do not merge AUKUS with QUAD.
-
-</details>
+- **Exam Anchor:** Uniting for Peace (GA Resolution 377(V), 1950) lets the General Assembly recommend action if a veto paralyses the Security Council. Abstention is not a veto. The PRC replaced the ROC in China’s UN seat in 1971.
+- **Exam Anchor:** Bretton Woods 1944 created the IMF and IBRD (World Bank). Both have headquarters in Washington, D.C. The World Bank is not headquartered in New York.
+- **Exam Anchor:** WHO is Geneva (1948). UNESCO is Paris (1945). ILO is Geneva (1919, tripartite). ICJ has 15 judges for nine-year terms at The Hague. India is not a party to the Rome Statute ICC.
 
 ---
 

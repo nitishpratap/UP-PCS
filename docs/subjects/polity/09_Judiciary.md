@@ -32,7 +32,8 @@
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. India’s judiciary is **integrated** (one hierarchy from district courts to the Supreme Court) and **independent** (separate from the executive and legislature). The United States uses a **dual** court system; India does not.
 2. The Supreme Court was inaugurated on **28 January 1950**. Its first Chief Justice was **H.J. Kania**. The Federal Court under the Government of India Act, 1935 had begun on **1 October 1937**.
@@ -65,9 +66,10 @@
 29. Election petitions for MPs and MLAs go to the **High Court** under the Representation of the People Act and **Article 329**, not straight to the Supreme Court. President and Vice-President election disputes stay under **Article 71**.
 30. The USA Supreme Court does **not** give advisory opinions. India’s Supreme Court **does**, under **Article 143**, but those opinions are **not binding** on the President.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -92,7 +94,7 @@
 | Art. 127 ad hoc | Art. 128 retired | Sitting HC judge vs retired judge sitting | तदर्थ / सेवानिवृत्त |
 | Chartered HCs 1862 | Allahabad 1866 | Calcutta–Bombay–Madras vs Allahabad (not Chartered 1862) | चार्टर्ड / इलाहाबाद |
 
----
+</details>
 
 ## Must-score facts — SC, HC, collegium, writs
 

@@ -11,88 +11,61 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 7 — Electronics, Semiconductors and Computer Technology</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. A computer executes sequences of arithmetic or logical operations automatically; raw unorganized facts and figures are **Data**, while organized, interpreted, and meaningful processed data is **Information**.
-2. **Bit (Binary Digit)** is the smallest unit of digital data ($0$ or $1$); a **Byte** comprises **$8\text{ bits}$**, and a **Nibble** comprises **$4\text{ bits}$**.
-3. **Charles Babbage** is celebrated as the "Father of Computing" for designing the **Analytical Engine (1834/1837)**, which pioneered the ALU, integrated memory, and flow control.
-4. **Alan Turing** formulated the theoretical foundation of modern computer science and artificial intelligence (Turing Machine, 1936; Turing Test / Imitation Game, 1949).
-5. The first electronic digital computer was **Colossus** (designed by Tommy Flowers and Alan Turing in Britain, 1943–1945 for deciphering the Lorenz cipher) and **ENIAC** (1946, USA).
-6. The first commercial digital computer built with integrated circuit (IC) chips was the **IBM System/360** (1964).
-7. The physical circuit board housing the CPU, memory sockets, and chipset is the **Motherboard**.
-8. The computer mouse was invented in **1964 by Dr. Douglas Engelbart**; the original prototype body was carved out of **wood** with two metal wheels.
-9. **Primary (Internal) Memory** is semiconductor memory directly addressed by the CPU: volatile **RAM** (Random Access Memory) and non-volatile **ROM** (Read-Only Memory).
-10. **ROM** stores system firmware, specifically the **BIOS (Basic Input/Output System) / UEFI**, which initializes hardware during the Power-On Self-Test (POST).
-11. **Cache Memory** is an extremely high-speed, small SRAM memory situated between the CPU core and main RAM to accelerate data access and eliminate latency.
-12. **Virtual Memory** is a memory management technique where the operating system uses allocated space on the secondary hard drive (pagefile/swap) to supplement physical RAM.
-13. Storage capacity equivalence ladder:
-14. $1\text{ Byte} = 8\text{ bits}$
-15. $1\text{ KB} = 1024\text{ Bytes} = 8192\text{ bits}$
-16. $1\text{ MB} = 1024\text{ KB} = 1024 \times 1024 = \mathbf{1,048,576\text{ Bytes}}$ (approximately $1\text{ million bytes}$)
-17. $1\text{ GB} = 1024\text{ MB} = 2^{30}\text{ Bytes}$ (approximately $1\text{ billion bytes}$)
-18. $1\text{ TB} = 1024\text{ GB} = 2^{40}\text{ Bytes}$
-19. $1\text{ PB (Petabyte)} = 1024\text{ TB} = 2^{50}\text{ Bytes}$
-20. A standard single-layer **CD-ROM holds $\sim 650 - 700\text{ MB}$**; a standard single-layer **DVD holds $4.7\text{ GB}$** (approx. 7 times a CD); a single-layer **Blu-ray Disc holds $25\text{ GB}$** ($50\text{ GB}$ dual-layer).
-21. Blu-ray Discs utilize a **blue-violet laser ($405\text{ nm}$)** with shorter wavelength than the red laser ($650\text{ nm}$) used in DVDs, allowing significantly denser data pit packing.
-22. Binary arithmetic addition rule: **$1 + 1 = 0$ with a carry of $1$** (which represents $2$ in decimal, binary $10$).
-23. A **self-complementing code** has the mathematical property that replacing $1$ with $0$ and $0$ with $1$ yields the 9's complement of the decimal digit; examples include **$2421$ and $5211$ codes** (sum of weights equals 9). The standard $8421$ BCD code is NOT self-complementing.
-24. **MAC Address (Media Access Control):** A permanent physical hardware identifier burned into the Network Interface Card (NIC) at **Layer 2 (Data Link Layer)**, measuring **$48\text{ bits}$** in length, expressed as six pairs of hexadecimal digits (e.g., `00:1A:2B:3C:4D:5E`).
-25. **IP Address:** A logical software address assigned at **Layer 3 (Network Layer)** of the OSI model. **IPv4 is $32\text{-bit}$** ($2^{32} \approx 4.3\text{ billion}$ addresses); **IPv6 is $128\text{-bit}$** ($2^{128} \approx 3.4 \times 10^{38}$ addresses).
-26. **Domain Name System (DNS):** A hierarchical distributed database that translates human-friendly domain names (e.g. `upsc.gov.in`) into numerical IP addresses.
-27. The **World Wide Web (WWW)** was invented in **1989 by British scientist Sir Tim Berners-Lee** at CERN, Geneva, using HyperText Markup Language (HTML) over HTTP.
-28. The **World Wide Web Consortium (W3C)**, founded in 1994 by Tim Berners-Lee, is the primary international standards organization for the Web.
-29. **Email** network addressing using the **"@"** symbol was introduced by **Raymond (Ray) Tomlinson** in 1971 on ARPANET.
-30. An email address consists of two parts separated by "@": **username@domainname** (e.g. in `mark.sttol@ITdesk.info`, `ITdesk.info` is the domain name).
-31. **Bluetooth** (invented 1994 by Jaap Haartsen) operates in the **$2.4\text{ GHz}$ ISM radio band** over short distances ($10\text{ m}$); **Wi-Fi** operates in both **$2.4\text{ GHz}$ and $5\text{ GHz}$** bands over local areas; **Li-Fi (Light Fidelity)** transmits wireless data using **visible light spectrum ($375 - 780\text{ nm}$)** via high-speed pulsing LEDs, achieving speeds up to **$10\text{ Gbps}$** with zero electromagnetic interference.
-32. **Near Field Communication (NFC):** Contactless short-range wireless communication using electromagnetic radio fields operating at **$\le 4\text{ cm}$** with maximum transfer speed of **$424\text{ kbps}$**.
-33. A **Virtual Private Network (VPN)** extends an encrypted private network tunnel across the public Internet, ensuring end-to-end security, confidentiality, and data integrity.
-34. **Modem (Modulator/Demodulator):** A hardware device that converts digital computer signals into analog signals for transmission over telephone lines and demodulates incoming analog signals back into digital data.
-35. A **Network Switch** connects devices within a LAN and directs data packets specifically to the destination port; a **Router** directs data packets between distinct interconnected computer networks at the Network Layer.
-36. A **Repeater** operates at the Physical Layer to regenerate and amplify electrical or optical signals to overcome cable attenuation without loss of signal strength.
-37. The Internet operates fundamentally on **packet switching** (not circuit switching), breaking messages into discrete packets routed independently using TCP/IP.
-38. In the **OSI 7-Layer Model**, the layers from 1 to 7 are: **1. Physical $\to$ 2. Data Link $\to$ 3. Network $\to$ 4. Transport $\to$ 5. Session $\to$ 6. Presentation $\to$ 7. Application**. The Data Link Layer sits precisely between Physical and Network layers.
-39. **Search Engines:** Google, Bing (Microsoft, 2009), Baidu (China), DuckDuckGo (privacy-focused, no personal profiling), Kurrently (social media real-time search engine). **Orkut was a social networking site, NOT a search engine.**
-40. A **Web Crawler (Spider / Spiderbot):** An automated bot that systematically traverses hyperlinks across the World Wide Web for indexing and search engine optimization.
-41. **VIRUS** stands for **Vital Information Resources Under Siege**; an intentionally destructive computer program that infects executable files and replicates itself across systems.
-42. **Worm:** A standalone self-replicating malware program that spreads across computer networks automatically without requiring a host file or human intervention.
-43. **Trojan Horse:** A malware disguised as legitimate, harmless software (e.g. games or utilities) that tricks the user into installing it; **Trojans do NOT replicate or inject themselves into other files**.
-44. **Ransomware:** Malicious software that encrypts user data and demands cryptocurrency payment for decryption keys; major global strains include **WannaCry, Petya, and EternalBlue** (exploiting Windows SMB vulnerabilities).
-45. **Pegasus Spyware:** Highly invasive surveillance spyware developed by the **NSO Group (Israel)**, capable of zero-click infections on iOS and Android devices to access messages, microphones, and cameras.
-46. **Stuxnet:** A sophisticated cyberwarfare worm detected in 2010 that targeted industrial supervisory control and data acquisition (SCADA) systems at the **Bushehr nuclear enrichment facility in Iran**, physically destroying uranium gas centrifuges.
-47. A **Firewall** monitors and filters incoming and outgoing network traffic based on predetermined security access rules, preventing unauthorized external access to private networks.
-48. **Denial of Service (DoS) / DDoS:** A cyberattack that intentionally floods a server with millions of spoofed requests from distributed botnets, exhausting bandwidth and denying legitimate user access.
-49. **Black Hat Hackers (Crackers)** breach computer security unlawfully for malicious intent, data theft, or financial fraud; **White Hat Hackers (Ethical Hackers)** uncover system vulnerabilities to assist organizations in strengthening defensive security.
-50. **MS-DOS** was released by Microsoft in **August 1981** as a non-graphical **Command Line Interface (CLI)** operating system.
-51. **UNIX** was developed in **1969 at AT&T Bell Labs** by Ken Thompson, Dennis Ritchie, and others; its central core is the **Kernel**, which controls memory allocation, process scheduling, and hardware access.
-52. **GNU Project:** Initiated in **1983 by Richard Stallman** at MIT to build a completely free, open-source Unix-compatible operating system ("GNU's Not Unix").
-53. Programming Language Generations: **1GL = Machine Code (0s and 1s)**; **2GL = Assembly Language (Mnemonics)**; **3GL = High-Level Procedural (C, C++, Java, Python, FORTRAN, COBOL, BASIC)**; **4GL = Declarative / Query (SQL, 4GL tools)**; **5GL = AI / Logic Programming (Prolog, OPS5, Mercury)**.
-54. **John McCarthy** coined the term **Artificial Intelligence** in 1955 and organized the 1956 Dartmouth Conference; recognized globally as the **"Father of Artificial Intelligence"**.
-55. The **Turing Test**, originally proposed as the **"Imitation Game"** by Alan Turing in 1949, evaluates whether a machine can exhibit conversational behaviour indistinguishable from a human.
-56. **Blockchain** is a decentralized, distributed, cryptographically secured public ledger; under **Web 3.0**, blockchain enables user data sovereignty, decentralized finance (DeFi), and censorship-resistant social networks.
+1. **AI Action Summit, Paris (February 2025 - IAS Pre 2025 / 71st BPSC Fact):**
+2. **Common Trap Fact:** The **USA and the UK DID NOT sign** this declaration!
+3. **Quantum Computing Processors: Majorana 1 & Ocelot (IAS Pre 2025 Fact):**
+4. **Majorana 1:** Unveiled by **Microsoft** on 19 February 2025, utilizing topological qubits aimed at achieving a million-qubit scale.
+5. **Ocelot:** Quantum processor developed by **Amazon Web Services (AWS)**.
+6. **National Supercomputing Mission (NSM) Milestones (November 2025 Status):**
+7. **Fastest Supercomputer Installed in India:** **PowerEdge XE 9680** (installed at Shakti Cloud, Yotta Data Services, Mumbai; ranked 28th globally; $R_{\max} = 84.31\text{ Petaflops}$, manufactured by Dell, USA).
+8. **Fastest Indigenous Supercomputer Developed in India:** **AIRAWAT-PSAI** (installed at C-DAC Pune; ranked 188th globally; $R_{\max} = 8.50\text{ Petaflops}$, $R_{\text{peak}} = 13.17\text{ Petaflops}$).
+9. **World's Top 3 Supercomputers (Nov 2025):** 1. **El Capitan (USA)** ($1.809\text{ Exaflops}$), 2. **Frontier (USA)**, 3. **Aurora (USA)**.
+10. **PARAM Series Deployment in India:**
+11. **PARAM 8000:** India's first indigenous supercomputer, built by C-DAC Pune in 1991 under **Dr. Vijay Bhatkar** ("Father of Indian Supercomputers").
+12. **PARAM Kamrupa:** IIT-Guwahati (inaugurated by President Droupadi Murmu, Oct 2022; $838\text{ TFLOPS}$).
+13. **PARAM Shivay:** IIT-BHU (first installed under NSM).
+14. **PARAM Shakti:** IIT-Kharagpur.
+15. **PARAM Pravega:** IISc Bengaluru ($3.3\text{ Petaflops}$).
+16. **PARAM Ganga:** IIT-Roorkee.
+17. **PARAM Ananta:** IIT-Gandhinagar.
+18. **PARAM Sanganak:** IIT-Kanpur.
+19. **PARAM Rudra:** High-performance systems at IUAC Delhi, IIT-Bombay, IIT-Madras, NCRA Pune, SNBNCBS Kolkata, IIT-Patna, and C-DAC Delhi.
+20. **ANUPAM Series:** Supercomputer series developed indigenously by **Bhabha Atomic Research Centre (BARC)** for internal nuclear simulations (first was Anupam 860/4 in 1991).
+21. **Historical Firsts in Indian Computing:**
+22. **HEC-2M (Hollerith Electronic Computer-2M):** India's first digital computer, imported from England (designed by A.D. Booth) and installed in **1956 at the Indian Statistical Institute (ISI) in Calcutta**.
+23. **TIFRAC (TIFR Automatic Calculator):** First digital computer built in India, commissioned in **1960 at TIFR Mumbai**.
+24. **E-Governance Initiatives (2024–2025 Focus):**
+25. **Suvidha 2.0 App:** Upgraded mobile application launched by the **Election Commission of India (ECI)** in October 2024 as a one-stop portal for candidates and political parties to track nominations, schedules, and campaign permissions.
+26. **Gartner's 4-Phase Evolution Model of E-Governance (MPPSC Pre 2025 Fact):**
+27. **Four Pillars of E-Governance:** **People, Process, Technology, Resources** (MPPSC Pre 2024).
+28. **Generative AI & Enterprise Breakthroughs:**
+29. **ChatGPT:** Developed by OpenAI, launched on **November 30, 2022**, based on the Generative Pre-trained Transformer Large Language Model architecture.
+30. **Maharaja:** World's first airline Generative AI virtual agent deployed by **Air India** (2023), powered by Microsoft's Azure OpenAI service, handling over 1,300 customer query domains.
+31. **FPGA (Field Programmable Gate Array):** Reconfigurable semiconductor ICs widely deployed for hardware acceleration in AI inference and edge computing (MPPSC Pre 2025).
+32. **Bit (Binary Digit)** is the smallest unit of digital data ($0$ or $1$); a **Byte** comprises **$8\text{ bits}$**, and a **Nibble** comprises **$4\text{ bits}$**.
+33. **Charles Babbage** is celebrated as the "Father of Computing" for designing the **Analytical Engine (1834/1837)**, which pioneered the ALU, integrated memory, and flow control.
+34. **Alan Turing** formulated the theoretical foundation of modern computer science and artificial intelligence (Turing Machine, 1936; Turing Test / Imitation Game, 1949).
+35. **Primary (Internal) Memory** is semiconductor memory directly addressed by the CPU: volatile **RAM** (Random Access Memory) and non-volatile **ROM** (Read-Only Memory).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Concept A | Concept B | Core Distinction & Common Trap |
-| :--- | :--- | :--- |
-| **Data** | **Information** | Data represents raw, unorganized, unprocessed facts and figures. Information is processed, organized, structured data endowed with contextual meaning. |
-| **Bit** | **Byte vs Nibble** | A bit is a single binary digit ($0$ or $1$). A byte is **$8\text{ bits}$**. A nibble is **$4\text{ bits}$** (half a byte). |
-| **RAM** | **ROM** | RAM is **volatile** primary memory lost on power down. ROM is **non-volatile** firmware memory retaining BIOS/UEFI instructions permanently. |
-| **SRAM** | **DRAM** | SRAM uses flip-flops, requires no refresh, is ultra-fast and expensive (used for CPU Cache). DRAM uses capacitor-transistor cells, requires continuous dynamic electrical refresh (used for Main RAM). |
-| **Virus** | **Worm vs Trojan** | A virus requires a host executable file and human action to propagate. A worm is standalone and self-propagates automatically across networks. A Trojan disguises itself as legitimate software and **does NOT self-replicate**. |
-| **White Hat Hacker** | **Black Hat Hacker (Cracker)** | White hat hacks authorized systems to expose flaws and patch security. Black hat (cracker) breaks into systems unlawfully for sabotage, data theft, or financial fraud. |
-| **Compiler** | **Assembler vs Interpreter** | Compiler translates an entire high-level program into machine code at once. Interpreter translates and executes high-level code line-by-line. Assembler converts low-level assembly mnemonics into machine code. |
-| **IPv4 ($32\text{-bit}$)** | **IPv6 ($128\text{-bit}$)** | IPv4 uses 32 bits ($4\text{ octets}$, $4.3\text{ billion}$ addresses). IPv6 uses 128 bits ($8\text{ groups of } 4\text{ hex digits}$, $3.4 \times 10^{38}$ addresses). |
-| **MAC Address** | **IP Address** | MAC address is a permanent physical hardware address ($48\text{ bits}$) at Layer 2. IP address is a logical network address assigned by router/ISP at Layer 3. |
-| **Augmented Reality (AR)** | **Virtual Reality (VR)** | AR overlays digital computer-generated elements onto the real physical world (e.g. smartphone camera, Pokémon Go). VR completely shuts out the physical world into a simulated immersive digital environment (e.g. VR headsets). |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. **The "Trojans Self-Replicate" Trap:**
+   - Both viruses and worms self-replicate, but **Trojans do NOT self-replicate or inject code into other files**. They rely on social engineering to trick the user into installing them.
+2. **The "Aadhaar Proves Citizenship" Trap:**
+   - Under Section 9 of the Aadhaar Act, 2016, an Aadhaar card is **proof of identity only, NOT proof of citizenship or domicile**.
+3. **The "1 MB = 1 Million Bytes Exactly" Trap:**
+   - In binary computing, $1\text{ MB} = 1024 \times 1024 = \mathbf{1,048,576\text{ Bytes}}$, which is approximately $1.05\text{ million bytes}$.
+4. **The "USA Signed the 2025 Paris AI Statement" Trap:**
+   - While over 50 countries (including India, France, and China) signed the Statement on Inclusive and Sustainable AI, **both the USA and the UK refused to sign**.
+5. **The "Data Link vs Network Layer Addressing" Trap:**
+   - **MAC addresses ($48\text{ bits}$)** live strictly at **Layer 2 (Data Link Layer)**, while **IP addresses ($32\text{-bit}$ or $128\text{-bit}$)** live at **Layer 3 (Network Layer)**.
+
+---
 
 
 ---
@@ -149,7 +122,8 @@ hide:
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A computer executes sequences of arithmetic or logical operations automatically; raw unorganized facts and figures are **Data**, while organized, interpreted, and meaningful processed data is **Information**.
 2. **Bit (Binary Digit)** is the smallest unit of digital data ($0$ or $1$); a **Byte** comprises **$8\text{ bits}$**, and a **Nibble** comprises **$4\text{ bits}$**.
@@ -208,9 +182,10 @@ hide:
 49. The **Turing Test**, originally proposed as the **"Imitation Game"** by Alan Turing in 1949, evaluates whether a machine can exhibit conversational behaviour indistinguishable from a human.
 50. **Blockchain** is a decentralized, distributed, cryptographically secured public ledger; under **Web 3.0**, blockchain enables user data sovereignty, decentralized finance (DeFi), and censorship-resistant social networks.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinction & Common Trap |
 | :--- | :--- | :--- |
@@ -225,7 +200,7 @@ hide:
 | **MAC Address** | **IP Address** | MAC address is a permanent physical hardware address ($48\text{ bits}$) at Layer 2. IP address is a logical network address assigned by router/ISP at Layer 3. |
 | **Augmented Reality (AR)** | **Virtual Reality (VR)** | AR overlays digital computer-generated elements onto the real physical world (e.g. smartphone camera, Pokémon Go). VR completely shuts out the physical world into a simulated immersive digital environment (e.g. VR headsets). |
 
----
+</details>
 
 ## Must-Score Master Tables
 

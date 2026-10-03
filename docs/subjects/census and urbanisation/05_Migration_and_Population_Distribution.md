@@ -12,7 +12,8 @@
 
 UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. As per Census 2011, **45.36 Crore people (37.5% of India's population)** are internal migrants by place of last residence.
 2. **Rural to Rural (R $	o$ R)** is the **largest internal migration stream** in India, accounting for over 53% of all internal migrants.
@@ -65,9 +66,10 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 49. **Ecological / Climate Migrants** are individuals forced to migrate due to environmental degradation, rising sea levels, desertification, or natural disasters.
 50. In the Northern Plains of India, the high concentration of population is primarily driven by **flat fertile alluvial terrain, perennial Himalayan rivers, and favourable agricultural climate**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **Agricultural Density**: $rac{	ext{Agricultural Workers}}{	ext{Net Cultivated Area}}$ | **Agricultural Population Density**: Total farm household members on arable land | **Trap**: Agricultural density measures the ratio of farm workers to farm land; high agricultural density indicates agricultural overcrowding and low labour productivity. |
 | **One Nation One Ration Card (ONORC)**: Domestic food ration portability | **e-Shram Portal**: National database of unorganized & migrant labour | **Trap**: ONORC provides food grain portability across PDS ration shops; e-Shram is a digital registry issuing 12-digit UAN numbers. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

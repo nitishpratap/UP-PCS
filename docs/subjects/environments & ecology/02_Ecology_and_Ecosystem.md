@@ -21,7 +21,8 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ---
 
-## Consolidated — 39 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 39 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Ecology** is the **study** of organism–environment (पर्यावरण) interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology. **Bionomics** (बायोनॉमिक्स) is synonymous with ecology; it does **not** mean “management of life.”
 2. An **ecosystem** (पारिस्थितिकी तंत्र) is a **functional unit** of biotic and abiotic interaction with energy flow and nutrient cycling. **Tansley (1935)** coined the word.
@@ -63,9 +64,10 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 38. **Gloger’s Rule:** darker pigmentation is more common in warm, humid regions.
 39. **Limiting similarity** means coexisting species differ enough in niche use that they do not compete for exactly the same resource at the same time.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -79,7 +81,8 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 | **Ecotone** | **Ecotype** | Sharp transition boundary zone between two distinct ecological communities (mangroves, forest-grassland edge) vs genetically distinct geographic variety or sub-population within a species | इकोटोन (संक्रमण क्षेत्र) / इकोटाइप |
 | **Sere** | **Climax Community** | Entire chronological transitional sequence of developmental communities during ecological succession vs final, stable, self-perpetuating terminal community in equilibrium with regional climate | क्रमक (Sere) / चरम समुदाय |
 | **Bionomics** | **Ecology** | Historical 19th-century synonym of ecology meaning "laws of life" (UPPCS trap: bionomics is NOT management of life) vs modern ecology | बायोनॉमिक्स / पारिस्थितिकी |
----
+
+</details>
 
 ## Must-score facts — terms, succession, productivity
 

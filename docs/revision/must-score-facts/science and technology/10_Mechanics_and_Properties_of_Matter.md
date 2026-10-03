@@ -11,80 +11,62 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 2 — Mechanics, Gravitation and Physical Properties of Matter</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **Brahmagupta's Precedence**: 7th-century astronomer Brahmagupta (*Brahmasphuta Siddhanta*) stated that all bodies gravitate toward Earth long before Newton.
-2. **Definition of Speed**: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
-3. **Mass vs Weight**: Mass ($kg$, scalar, constant everywhere) measures inertia. Weight ($N$, vector, $W = mg$) depends on local gravitational acceleration.
-4. **Deep Breath on Sensitive Scale**: Inhaling deeply increases scale reading because $4.8\text{ L}$ of inhaled air adds $\approx 5.88\text{ g}$ mass.
-5. **Distance vs Displacement**: Distance is actual path length (scalar, $\ge 0$). Displacement is shortest straight line (vector, can be zero).
-6. **Average Speed for Equal Distance Halves**: Harmonic mean $v_{\text{avg}} = \frac{2 v_1 v_2}{v_1 + v_2}$.
-7. **Newton's First Law (Inertia)**: Passenger leans backwards when vehicle starts (inertia of rest); leans forwards on sudden braking (inertia of motion); leans left when bus turns sharp right (inertia of direction).
-8. **Newton's Second Law**: $F = \frac{dp}{dt} = ma$. Goalkeeper pulls hands backwards to prolong contact time ($t$), lowering rate of change of momentum and impact force.
-9. **Newton's Third Law**: Action and reaction forces are equal, opposite, and act simultaneously on **two different bodies**.
-10. **Propulsion by Whistling**: On frictionless ice, whistling/blowing air forward expels momentum, generating an equal backward reaction that propels the body (conservation of momentum).
-11. **Boat Jump**: Jumping at $5\text{ m/s}$ from a boat that recoils at $0.5\text{ m/s}$ implies the boat is **10 times heavier** than the person ($M_{\text{boat}} = 10 M_{\text{man}}$).
-12. **Friction Hierarchy**: **Static Friction $>$ Kinetic (Sliding) Friction $>$ Rolling Friction**.
-13. **Loaded Cart Principle**: Harder to start moving than to keep rolling because limiting static friction exceeds dynamic kinetic friction.
-14. **Ball Bearings**: Convert sliding/static friction into **rolling friction** by drastically minimizing contact surface area.
-15. **Marginal Friction at Constant Speed**: $a = 0 \implies F_{\text{applied}} = f_{\text{friction}}$ ($200\text{ N} \implies 200\text{ N}$).
-16. **Energy in Friction**: Moving against friction irreversibly dissipates **kinetic energy into heat energy**.
-17. **Simple Machines**: Enable doing the **same amount of work with lesser effort force**; they never save total energy.
-18. **Centripetal Force**: Inward radial force ($F_c = mv^2/r$) required for circular paths (gravity for orbits, tire friction for curves).
-19. **Centrifugal Force**: Fictitious outward inertial force in rotating frames; drives cream separation from milk and washing machine spin drying.
-20. **Overturning on Curves**: Unbanked vehicle moving too fast skids outwards and **overturns about its outer wheels**.
-21. **Coriolis Force**: Due to Earth's rotation; deflects winds/currents to the **right in Northern Hemisphere** and **left in Southern Hemisphere**.
-22. **Accelerated Liquid Tanker**: When a tanker accelerates forward, the liquid surface tilts backward, creating **larger depth at the rear end** ($\tan\theta = a/g$).
-23. **Equal KE Stopping Distance**: Vehicles with equal KE stop over the **same distance ($X = Y = Z$)** under equal braking forces ($W = F \cdot d = KE$).
-24. **de Broglie Wavelength**: $\lambda = h/p$. For $0.12\text{ kg}$ ball at $20\text{ m/s}$, $\lambda = 2.76 \times 10^{-34}\text{ m}$.
-25. **Energy Sources NOT from Sun**: **Geothermal energy** and **Nuclear energy** do NOT originate from solar radiation. Biomass and wind are solar-derived.
-26. **Kepler's Laws**: 1st (elliptical orbits, Sun at focus); 2nd (areal velocity constant; fastest at perihelion, slowest at aphelion); 3rd ($T^2 \propto a^3$).
-27. **Universal Gravitational Constant**: $G = 6.67430 \times 10^{-11}\text{ N}\cdot m^2/kg^2$ (measured by Henry Cavendish).
-28. **Acceleration due to Gravity ($g$)**: $g = GM_e/R_e^2$. Independent of falling object's mass! Maximum at poles, minimum at equator.
-29. **Free Fall in Vacuum**: Feather, rubber ball, and iron ball fall with identical acceleration $g$ and strike ground simultaneously ($v = \sqrt{2gh}$).
-30. **Apparent Weight in Elevator**: Upward acceleration $\implies m(g+a)$ (heavier); Downward acceleration $\implies m(g-a)$ (lighter); Free fall $\implies 0$ (weightlessness).
-31. **Moon Surface Gravity**: $g_{\text{moon}} = \frac{1}{6} g_{\text{earth}}$. Mass of $100\text{ kg}$ body on Earth remains **$100\text{ kg}$ on the Moon**, but weight is only $100/6\text{ kgf} \approx 163.3\text{ N}$.
-32. **No Atmosphere on Moon**: Lunar escape velocity ($2.38\text{ km/s}$) is **lower than the root-mean-square (RMS) thermal velocity of gas molecules**.
-33. **Orbital & Escape Velocities**: $V_o = \sqrt{g R_e} \approx 7.92\text{ km/s}$; $V_e = \sqrt{2g R_e} \approx 11.2\text{ km/s} = \sqrt{2} V_o$. Projectile launched at $8\text{ km/s}$ falls back to Earth.
-34. **Simple Pendulum Formula**: $T = 2\pi \sqrt{l/g}$. Independent of bob mass. Increases in summer (clocks lose time); decreases in winter (clocks gain time). Standing up on swing shortens $l$, making swing oscillate faster.
-35. **Schuler Period & Seconds Pendulum**: Maximum pendulum period on Earth is **$84.4\text{ minutes}$** ($l = R_e$). Seconds pendulum has period of **$2.0\text{ seconds}$** ($l \approx 1\text{ metre}$).
-36. **Elasticity vs Plasticity**: Elasticity is the ability to regain original shape after deforming force is removed. Perfectly plastic materials (putty, mud, wet clay) remain deformed forever.
-37. **Hooke's Law**: Within proportional elastic limit, $\text{Stress} \propto \text{Strain}$. Modulus of elasticity $E = \text{Stress}/\text{Strain}$.
-38. **Stress vs Strain**: Stress is internal restoring force per unit area ($F/A$, SI unit Pascal or $N/m^2$). Strain is fractional dimensional change ($\Delta L/L$, dimensionless and unitless).
-39. **Steel is More Elastic Than Rubber**: For identical tensile strain, steel requires a much greater restoring stress than rubber ($Y_{\text{steel}} \gg Y_{\text{rubber}}$).
-40. **Bulk Modulus of Rigid Body**: For an ideal perfectly rigid body, $\Delta V = 0 \implies$ Bulk Modulus $K = -\Delta P / 0 = \mathbf{\infty}$ (**Infinite**).
-41. **Stretching a Spring**: Determined by **Shear Modulus (Modulus of Rigidity)**, as pulling a coil subjects the wire to shear/torsional deformation.
-42. **Wire Elongation Ratio**: Extension $\Delta l = \frac{F L}{A Y} = \frac{F L}{\pi r^2 Y} \propto \frac{L}{d^2}$. A wire of $3\text{ m}$ length and $1.5\text{ mm}$ diameter stretches the most among equal-load wires.
-43. **Surface Tension**: Elastic property of liquid surface contracting to minimum surface area ($T = F/L$, SI unit $N/m$). Drops and bubbles assume **spherical shapes** to minimize surface area and surface energy.
-44. **Temperature Effect on Surface Tension**: Surface tension **decreases with rising temperature** and becomes **zero at the critical temperature**.
-45. **Cohesion vs Adhesion**: Cohesion is attraction between identical molecules (e.g. water-water). Adhesion is attraction between different molecules (e.g. water-glass).
-46. **Why Oil Spreads on Water**: The surface tension of water is greater than that of oil; hence water pulls oil outward into a thin film. Conversely, water on an oily surface beads up into spherical droplets.
-47. **Pressure Inside a Soap Bubble**: Due to two liquid surfaces, excess pressure $\Delta P = \frac{4T}{R}$. Pressure inside a soap bubble is strictly **greater than atmospheric pressure**.
-48. **Two Connected Soap Bubbles**: When connected by a tube, air flows from the smaller bubble (higher pressure $\Delta P \propto 1/R$) to the larger bubble; the **smaller bubble shrinks and the larger bubble grows**.
-49. **Charging a Soap Bubble**: Placing an electric charge (positive or negative) on a soap bubble causes mutual electrostatic repulsion, causing its **radius to expand**.
-50. **Capillarity (Capillary Action)**: Rise or fall of liquids in narrow tubes. Liquids that wet glass (contact angle $<90^\circ$, e.g. water) rise; liquids that do not wet glass (contact angle $>90^\circ$, e.g. mercury) show capillary depression.
+1. **Confirmed Moons Count in Solar System (2026 IAU Data)**:
+2. **Saturn**: Maximum number of confirmed satellites in the solar system = **285 moons** (leading the solar system).
+3. **Jupiter**: **101 confirmed moons** (Ganymede, Callisto, Io, Europa).
+4. **Uranus**: 29 moons; **Neptune**: 16 moons; **Mars**: 2 moons (Phobos & Deimos); **Earth**: 1 moon; **Mercury & Venus**: 0 moons; Dwarf planet **Pluto**: 5 moons.
+5. **71st BPSC (Pre 2025) Mechanics & Fluid Facts**:
+6. **UKPCS (Pre 2025) Elasticity & Thermal Facts**:
+7. **UP RO/ARO (Pre 2023) Moduli of Elasticity Facts**:
+8. **70th BPSC (Pre 2024) Gas Liquefaction Condition**:
+9. **Brahmagupta's Precedence**: 7th-century astronomer Brahmagupta (*Brahmasphuta Siddhanta*) stated that all bodies gravitate toward Earth long before Newton.
+10. **Definition of Speed**: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
+11. **Mass vs Weight**: Mass ($kg$, scalar, constant everywhere) measures inertia. Weight ($N$, vector, $W = mg$) depends on local gravitational acceleration.
+12. **Deep Breath on Sensitive Scale**: Inhaling deeply increases scale reading because $4.8\text{ L}$ of inhaled air adds $\approx 5.88\text{ g}$ mass.
+13. **Distance vs Displacement**: Distance is actual path length (scalar, $\ge 0$). Displacement is shortest straight line (vector, can be zero).
+14. **Average Speed for Equal Distance Halves**: Harmonic mean $v_{\text{avg}} = \frac{2 v_1 v_2}{v_1 + v_2}$.
+15. **Newton's First Law (Inertia)**: Passenger leans backwards when vehicle starts (inertia of rest); leans forwards on sudden braking (inertia of motion); leans left when bus turns sharp right (inertia of direction).
+16. **Newton's Second Law**: $F = \frac{dp}{dt} = ma$. Goalkeeper pulls hands backwards to prolong contact time ($t$), lowering rate of change of momentum and impact force.
+17. **Newton's Third Law**: Action and reaction forces are equal, opposite, and act simultaneously on **two different bodies**.
+18. **Propulsion by Whistling**: On frictionless ice, whistling/blowing air forward expels momentum, generating an equal backward reaction that propels the body (conservation of momentum).
+19. **Boat Jump**: Jumping at $5\text{ m/s}$ from a boat that recoils at $0.5\text{ m/s}$ implies the boat is **10 times heavier** than the person ($M_{\text{boat}} = 10 M_{\text{man}}$).
+20. **Friction Hierarchy**: **Static Friction $>$ Kinetic (Sliding) Friction $>$ Rolling Friction**.
+21. **Loaded Cart Principle**: Harder to start moving than to keep rolling because limiting static friction exceeds dynamic kinetic friction.
+22. **Ball Bearings**: Convert sliding/static friction into **rolling friction** by drastically minimizing contact surface area.
+23. **Marginal Friction at Constant Speed**: $a = 0 \implies F_{\text{applied}} = f_{\text{friction}}$ ($200\text{ N} \implies 200\text{ N}$).
+24. **Energy in Friction**: Moving against friction irreversibly dissipates **kinetic energy into heat energy**.
+25. **Simple Machines**: Enable doing the **same amount of work with lesser effort force**; they never save total energy.
+26. **Centripetal Force**: Inward radial force ($F_c = mv^2/r$) required for circular paths (gravity for orbits, tire friction for curves).
+27. **Centrifugal Force**: Fictitious outward inertial force in rotating frames; drives cream separation from milk and washing machine spin drying.
+28. **Overturning on Curves**: Unbanked vehicle moving too fast skids outwards and **overturns about its outer wheels**.
+29. **Coriolis Force**: Due to Earth's rotation; deflects winds/currents to the **right in Northern Hemisphere** and **left in Southern Hemisphere**.
+30. **Accelerated Liquid Tanker**: When a tanker accelerates forward, the liquid surface tilts backward, creating **larger depth at the rear end** ($\tan\theta = a/g$).
+31. **Equal KE Stopping Distance**: Vehicles with equal KE stop over the **same distance ($X = Y = Z$)** under equal braking forces ($W = F \cdot d = KE$).
+32. **de Broglie Wavelength**: $\lambda = h/p$. For $0.12\text{ kg}$ ball at $20\text{ m/s}$, $\lambda = 2.76 \times 10^{-34}\text{ m}$.
+33. **Energy Sources NOT from Sun**: **Geothermal energy** and **Nuclear energy** do NOT originate from solar radiation. Biomass and wind are solar-derived.
+34. **Kepler's Laws**: 1st (elliptical orbits, Sun at focus); 2nd (areal velocity constant; fastest at perihelion, slowest at aphelion); 3rd ($T^2 \propto a^3$).
+35. **Universal Gravitational Constant**: $G = 6.67430 \times 10^{-11}\text{ N}\cdot m^2/kg^2$ (measured by Henry Cavendish).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Pairs / Concepts | Critical Distinction & Trap Alert |
-|---|---|
-| **Steel vs Rubber Elasticity** | In physics, **Steel is more elastic than rubber** because steel has a higher Young's Modulus and offers greater restoring force per unit strain. |
-| **Cohesion vs Adhesion** | **Cohesion** is attraction between *like* molecules (water-water, mercury-mercury). **Adhesion** is attraction between *unlike* molecules (water-glass, ink-paper). |
-| **Viscosity of Liquid vs Gas** | With increasing temperature, liquid viscosity **decreases**, but gas viscosity **increases** due to greater molecular momentum exchange. |
-| **Capillary Rise vs Depression** | Water wets glass (acute angle) $\implies$ **capillary rise** with concave meniscus. Mercury does not wet glass (obtuse angle) $\implies$ **capillary depression** with convex meniscus. |
-| **Excess Pressure: Drop vs Bubble** | Liquid drop (one surface): $\Delta P = \frac{2T}{R}$. Soap bubble (two surfaces, inner & outer): $\Delta P = \frac{4T}{R}$. |
-| **Iron Ball in Water vs Mercury** | Iron ball sinks in water ($\text{density } 7.8 > 1.0\text{ g/cm}^3$) but floats in mercury ($\text{density } 7.8 < 13.6\text{ g/cm}^3$). |
-| **Iceberg in Freshwater vs Seawater** | In freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface. |
-| **Straw vs Blotting Paper** | Blotting paper absorbs ink by **capillarity**. Drinking through a straw operates by **atmospheric pressure difference** created by mouth suction, NOT capillarity. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+& Negative-Marking Eliminators
+1. **Steel vs Rubber Trap**: Steel is **more elastic** than rubber ($Y_{\text{steel}} \gg Y_{\text{rubber}}$). Do not confuse everyday stretchiness with physical elasticity (restoring stress per unit strain).
+2. **Bulk Modulus of Rigid Body**: Bulk modulus of a perfectly rigid body is **Infinite ($\infty$)**, NOT zero! Compressibility is zero.
+3. **Capillarity vs Straw Suction**: Straw suction is caused by **atmospheric pressure difference** created by muscular expansion of the mouth cavity, NOT capillarity.
+4. **Viscosity Temperature Dependency**: Liquid viscosity **decreases** with temperature, but gas viscosity **increases** with temperature.
+5. **Melting Ice Water Level**: Melting floating ice cube leaves water level **strictly unchanged**. It does not rise or spill over!
+6. **Excess Pressure Soap Bubble vs Drop**: Soap bubble has **two surfaces** ($\Delta P = 4T/R$). Droplet has **one surface** ($\Delta P = 2T/R$).
+7. **Small Connected Bubbles**: Air flows from the **smaller bubble to the larger bubble** because the smaller bubble has higher internal excess pressure.
+8. **Surface Tension on Charging**: Charging a bubble makes it **expand** (radius increases) due to electrostatic repulsion.
+9. **Iceberg Floating Fractions**: In pure freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface ($89\%$ submerged).
+10. **Iron Needle Floatation**: An iron needle floats on water due to **surface tension**, NOT Archimedes' buoyant force!
+
+---
 
 
 ---
@@ -144,8 +126,11 @@ hide:
 49. **Charging a Soap Bubble**: Placing an electric charge (positive or negative) on a soap bubble causes mutual electrostatic repulsion, causing its **radius to expand**.
 50. **Capillarity (Capillary Action)**: Rise or fall of liquids in narrow tubes. Liquids that wet glass (contact angle $<90^\circ$, e.g. water) rise; liquids that do not wet glass (contact angle $>90^\circ$, e.g. mercury) show capillary depression.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+
 | Pairs / Concepts | Critical Distinction & Trap Alert |
 |---|---|
 | **Steel vs Rubber Elasticity** | In physics, **Steel is more elastic than rubber** because steel has a higher Young's Modulus and offers greater restoring force per unit strain. |
@@ -157,7 +142,7 @@ hide:
 | **Iceberg in Freshwater vs Seawater** | In freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface. |
 | **Straw vs Blotting Paper** | Blotting paper absorbs ink by **capillarity**. Drinking through a straw operates by **atmospheric pressure difference** created by mouth suction, NOT capillarity. |
 
----
+</details>
 
 ## Teaching Cards — Mechanics and Properties of Matter
 
@@ -439,10 +424,162 @@ If a gas is compressed to half of its original volume at $27^\circ\text{C}$, to 
 
 Which of the following is correct regarding this topic?
 
-A. Brahmagupta's Precedence: 7th-century astronomer Brahmagupta (Brahmasphuta Siddhanta) stated that all bodies gravitate toward Earth long before Newton.
+A. Confirmed Moons Count in Solar System (2026 IAU Data):
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Confirmed Moons Count in Solar System (2026 IAU Data)**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q5.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Saturn: applies only to union territories and not state jurisdictions.
+B. Saturn: Maximum number of confirmed satellites in the solar system = 285 moons (leading the solar system).
+C. None of the above statements are correct according to official Commission keys.
+D. Recognized by UNESCO under World Heritage natural criteria
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Saturn**: Maximum number of confirmed satellites in the solar system = **285 moons** (leading the solar system).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q6.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Jupiter: applies only to union territories and not state jurisdictions.
+B. Recognized by UNESCO under World Heritage natural criteria
+C. Jupiter: 101 confirmed moons (Ganymede, Callisto, Io, Europa).
+D. Enacted under Article 356 of the Constitution of India
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Jupiter**: **101 confirmed moons** (Ganymede, Callisto, Io, Europa).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q7.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Uranus: applies only to union territories and not state jurisdictions.
+B. Enacted under Article 356 of the Constitution of India
+C. None of the above statements are correct according to official Commission keys.
+D. Uranus: 29 moons; Neptune: 16 moons; Mars: 2 moons (Phobos & Deimos); Earth: 1 moon; Mercury & Venus: 0 moons; Dwarf planet Pluto: 5 moons.
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **Uranus**: 29 moons; **Neptune**: 16 moons; **Mars**: 2 moons (Phobos & Deimos); **Earth**: 1 moon; **Mercury & Venus**: 0 moons; Dwarf planet **Pluto**: 5 moons.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q8.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. 71st BPSC (Pre 2025) Mechanics & Fluid Facts:
+B. Reported by the Law Commission in its 214th consultation paper
+C. None of the above statements are correct according to official Commission keys.
+D. Amended by the 44th Constitutional Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **71st BPSC (Pre 2025) Mechanics & Fluid Facts**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q9.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, UKPCS applies only to union territories and not state jurisdictions.
+B. UKPCS (Pre 2025) Elasticity & Thermal Facts:
+C. None of the above statements are correct according to official Commission keys.
+D. Excavated primarily in the Belan and Son River valleys
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **UKPCS (Pre 2025) Elasticity & Thermal Facts**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q10.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, UP applies only to union territories and not state jurisdictions.
+B. Excavated primarily in the Belan and Son River valleys
+C. UP RO/ARO (Pre 2023) Moduli of Elasticity Facts:
+D. Classified under Schedule VII List II (State List)
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **UP RO/ARO (Pre 2023) Moduli of Elasticity Facts**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q11.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, 70th applies only to union territories and not state jurisdictions.
+B. Classified under Schedule VII List II (State List)
+C. None of the above statements are correct according to official Commission keys.
+D. 70th BPSC (Pre 2024) Gas Liquefaction Condition:
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** **70th BPSC (Pre 2024) Gas Liquefaction Condition**:
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q12.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Brahmagupta's Precedence: 7th-century astronomer Brahmagupta (Brahmasphuta Siddhanta) stated that all bodies gravitate toward Earth long before Newton.
+B. Originated during the Later Vedic transitional period
+C. None of the above statements are correct according to official Commission keys.
+D. Statement I is correct but Statement II is incorrect
 
 <details>
 <summary>Show answer</summary>
@@ -454,14 +591,14 @@ D. It was established during the First Five-Year Plan period
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q5.** in Science & Technology, consider the following statement:
+**Q13.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Definition applies only to union territories and not state jurisdictions.
 B. Definition of Speed: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
 C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+D. Both statements are true and explain the phenomenon
 
 <details>
 <summary>Show answer</summary>
@@ -473,14 +610,14 @@ D. Recognized by UNESCO under World Heritage natural criteria
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q6.** in Science & Technology, consider the following statement:
+**Q14.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Mass applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
+B. Both statements are true and explain the phenomenon
 C. Mass vs Weight: Mass ($kg$, scalar, constant everywhere) measures inertia. Weight ($N$, vector, $W = mg$) depends on local gravitational acceleration.
-D. Enacted under Article 356 of the Constitution of India
+D. It was established during the First Five-Year Plan period
 
 <details>
 <summary>Show answer</summary>
@@ -492,12 +629,12 @@ D. Enacted under Article 356 of the Constitution of India
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
+**Q15.** in Science & Technology, consider the following statement:
 
 Which of the following is correct regarding this topic?
 
 A. Contrary to standard doctrine, Deep applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
+B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
 D. Deep Breath on Sensitive Scale: Inhaling deeply increases scale reading because $4.8\text{ L}$ of inhaled air adds $\approx 5.88\text{ g}$ mass.
 
@@ -508,157 +645,5 @@ D. Deep Breath on Sensitive Scale: Inhaling deeply increases scale reading becau
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Deep Breath on Sensitive Scale**: Inhaling deeply increases scale reading because $4.8\text{ L}$ of inhaled air adds $\approx 5.88\text{ g}$ mass.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q8.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Distance vs Displacement: Distance is actual path length (scalar, $\ge 0$). Displacement is shortest straight line (vector, can be zero).
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Distance vs Displacement**: Distance is actual path length (scalar, $\ge 0$). Displacement is shortest straight line (vector, can be zero).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q9.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Average applies only to union territories and not state jurisdictions.
-B. Average Speed for Equal Distance Halves: Harmonic mean $v{\text{avg}} = \frac{2 v1 v2}{v1 + v2}$.
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Average Speed for Equal Distance Halves**: Harmonic mean $v_{\text{avg}} = \frac{2 v_1 v_2}{v_1 + v_2}$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q10.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Newton's applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Newton's First Law (Inertia): Passenger leans backwards when vehicle starts (inertia of rest); leans forwards on sudden braking (inertia of motion); leans left when bus turns sharp right (inertia of direction).
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Newton's First Law (Inertia)**: Passenger leans backwards when vehicle starts (inertia of rest); leans forwards on sudden braking (inertia of motion); leans left when bus turns sharp right (inertia of direction).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q11.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Newton's applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Newton's Second Law: $F = \frac{dp}{dt} = ma$. Goalkeeper pulls hands backwards to prolong contact time ($t$), lowering rate of change of momentum and impact force.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Newton's Second Law**: $F = \frac{dp}{dt} = ma$. Goalkeeper pulls hands backwards to prolong contact time ($t$), lowering rate of change of momentum and impact force.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q12.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Newton's Third Law: Action and reaction forces are equal, opposite, and act simultaneously on two different bodies.
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Newton's Third Law**: Action and reaction forces are equal, opposite, and act simultaneously on **two different bodies**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q13.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Propulsion applies only to union territories and not state jurisdictions.
-B. Propulsion by Whistling: On frictionless ice, whistling/blowing air forward expels momentum, generating an equal backward reaction that propels the body (conservation of momentum).
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Propulsion by Whistling**: On frictionless ice, whistling/blowing air forward expels momentum, generating an equal backward reaction that propels the body (conservation of momentum).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q14.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Boat applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Boat Jump: Jumping at $5\text{ m/s}$ from a boat that recoils at $0.5\text{ m/s}$ implies the boat is 10 times heavier than the person ($M{\text{boat}} = 10 M{\text{man}}$).
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Boat Jump**: Jumping at $5\text{ m/s}$ from a boat that recoils at $0.5\text{ m/s}$ implies the boat is **10 times heavier** than the person ($M_{\text{boat}} = 10 M_{\text{man}}$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q15.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Friction applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Friction Hierarchy: Static Friction $>$ Kinetic (Sliding) Friction $>$ Rolling Friction.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Friction Hierarchy**: **Static Friction $>$ Kinetic (Sliding) Friction $>$ Rolling Friction**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

@@ -11,9 +11,17 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 4 — Lakes, Waterfalls & Water Resources</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **5 Jun 2026** | India designates **100th Ramsar** — **Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia, UP** (World Environment (पर्यावरण) Day (विश्व पर्यावरण दिवस)) | “How many Ramsar in India / latest UP site?” | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) / PIB |
+| **2025–26** | UP Ramsar total **13** — adds **Patna (पटना) BS (Etah)**, **Sheikha/Shekha Jheel (Aligarh (अलीगढ़))**, **Surha Tal (Ballia)** | State-paper list + 2025 Q58 “NOT in UP” | MoEFCC LS annex |
+| **2025** | India among top Ramsar countries in Asia; proposals in pipeline include Sauj Jheel (UP) | Count vs names trap | MoEFCC |
+| Ongoing | **Jal Jeevan Mission** extended (rural tap water) — water-*supply* overlay, not a dam (दाम -)–river fact | Don’t confuse with multipurpose dams | Jal Shakti (शक्ति) |
+| 2019–20 | Six UP Ramsar added in the Jan 2020 window | Number question | UPPCS 2020 |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -62,20 +70,6 @@ hide:
 | Dam vs barrage | Dam **stores**; barrage **diverts** (Farakka ~**40,000 cusec** to Hooghly) | Call Farakka a storage dam | बांध जलाशय; बैराज मोड़ |
 | Garland vs Visvesvaraya | Garland = **Dastur**; first linking idea often **Visvesvaraya**; later **K.L. Rao** | Tag Garland to Rao alone | गारलैंड = दस्तूर |
 | Jawai Project | **Rajasthan** (Luni tributary) | Tamil Nadu | जवाई = राजस्थान |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **5 Jun 2026** | India designates **100th Ramsar** — **Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia, UP** (World Environment (पर्यावरण) Day (विश्व पर्यावरण दिवस)) | “How many Ramsar in India / latest UP site?” | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) / PIB |
-| **2025–26** | UP Ramsar total **13** — adds **Patna (पटना) BS (Etah)**, **Sheikha/Shekha Jheel (Aligarh (अलीगढ़))**, **Surha Tal (Ballia)** | State-paper list + 2025 Q58 “NOT in UP” | MoEFCC LS annex |
-| **2025** | India among top Ramsar countries in Asia; proposals in pipeline include Sauj Jheel (UP) | Count vs names trap | MoEFCC |
-| Ongoing | **Jal Jeevan Mission** extended (rural tap water) — water-*supply* overlay, not a dam (दाम -)–river fact | Don’t confuse with multipurpose dams | Jal Shakti (शक्ति) |
-| 2019–20 | Six UP Ramsar added in the Jan 2020 window | Number question | UPPCS 2020 |
 
 ---
 
@@ -544,9 +538,8 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** First classify a lake as lagoon, inland saline, freshwater, crater, glacial, oxbow, or artificial. Origin pairs: Wular tectonic, Chilika lagoon, Lonar crater, Sambhar wind / playa, Kabartal oxbow.
 - **Exam Anchor:** Chilika is the largest east-coast lagoon (Odisha / Northern Circars). If a question says “largest saline” and omits “inland,” Chilika is often the intended answer.
 - **Exam Anchor:** Sambhar is the largest inland saline lake (Rajasthan). Sister Rajasthan saline names include Didwana, Kuchaman, Sargol, and Khatu.
 - **Exam Anchor:** Wular is the largest-freshwater volume fact (Jammu & Kashmir, on the Jhelum (झेलम), tectonic). Dal is the tourism lake. Roopkund is Uttarakhand (उत्तराखंड)’s Mystery / Skeleton Lake.
@@ -554,8 +547,7 @@ hide:
 - **Exam Anchor:** Pulicat is the second major brackish lagoon (Andhra Pradesh–Tamil Nadu (नाडु), Sriharikota bar). Kolleru is mainly freshwater, not a lagoon king.
 - **Exam Anchor:** Vembanad is Kerala’s largest lake and India’s longest; it is a west-coast kayal / Ramsar, not India’s overall largest lake. Kayal means a Kerala coastal lagoon / backwater.
 - **Exam Anchor:** Phulhar (Pilibhit) is linked to the Gomti source. Kodaikanal lake is artificial. Periyar (पेरियार) Lake is not a coastal lagoon.
-
-</details>
+- **Exam Anchor:** Kunchikal on the Varahi is the usual UPPCS highest waterfall key. Nohkalikai is the tallest plunge. Jog on the Sharavati is famous for width, not height.
 
 ---
 

@@ -17,7 +17,8 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Archaeological Survey of India** was founded in **1861** under Viceroy Canning. The first Director-General was **Alexander Cunningham**.
 2. ASI headquarters is **24 Tilak Marg, New Delhi**. It is **not** Lucknow; Lucknow holds UP State Archaeology and the State Museum.
@@ -54,9 +55,10 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 33. **Typology** matches pottery and tool shapes across sites as another relative clock beside stratigraphy.
 34. UP trenches beyond the Harappan trio: **Koldihwa / Mahagara** (Belan rice), **Hastinapur** (PGW / OCP), **Kaushambi**, **Ahichchhatra**, **Sarnath**, **Shravasti**, **Atranjikhera**, **Sanauli** (Baghpat chariots).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -72,7 +74,7 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 | Rock shelter | Cave | Bhimbetka overhang vs hollow | शैल आश्रय / गुफा |
 | ASI HQ | Lucknow | **New Delhi** vs UP state archaeology | दिल्ली / लखनऊ |
 
----
+</details>
 
 ## Must-score facts — ASI, dating, site↔state
 

@@ -11,96 +11,80 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 1 — Advent of Europeans</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Vasco da Gama reached **Calicut** on **20 May 1498**, guided by the Gujarati navigator **Ahmad ibn Majid**. He opened the all-sea Atlantic route for Portugal. He did **not** capture **Goa** (गोवा).
-2. Black pepper (काली मिर्च) profits from that voyage (about **60x**) pulled more Portuguese merchants to India. Portuguese also introduced the **printing press (Goa, 1556)**, **tobacco, potato, tomato, cashew nut, papaya, and chili** to India.
-3. **Francisco de Almeida (अल्मेदा)** was the first **Portuguese Viceroy (वायसराय)** in **1505**. His **Blue Water Policy** meant control of sea lanes, not conquest of the Deccan (दक्कन) interior.
-4. **Afonso de Albuquerque** captured **Goa in 1510** from **Yusuf Adil Shah** (यूसुफ आदिल) of Bijapur (बीजापुर) and made it the capital of **Estado da Índia**. Do not swap him with Almeida as the first Viceroy (कैनिंग). He encouraged Portuguese men to marry Indian women (*casados*).
-5. **Nuno da Cunha** shifted the Portuguese HQ from **Cochin to Goa in 1530** and acquired **Bassein (1534)** and **Diu (1535)**.
-6. The first European fort in India was built by Albuquerque at **Cochin in 1503** (before he became Governor). First Portuguese factory (फैक्टरी) was at **Calicut in 1500** (Cabral’s voyage).
-7. A **cartaze** was a Portuguese sea-pass for Indian Ocean ships (नावाध्यक्ष). A Mughal **farman** was a trade (पण्याध्यक्ष) grant on land — do not swap the two.
-8. Arrival order in India: **Portuguese → Dutch → English → Danes → French**. Portuguese came first (**1498**) and left last (**1961**, Goa liberation).
-9. The **English East India Company** was chartered on **31 December 1600** (Akbar (अकबर) still emperor). The Dutch **VOC** was founded in **1602**.
-10. The **French East India Company** was founded in **1664** by **Colbert** under **Louis XIV**, with **Pondicherry** (पांडिचेरी) as HQ from **1674**. **Goa** stayed Portuguese; do not call Pondicherry Portuguese.
-11. The Danish company dates from **1616**, with the **Tranquebar** (ट्रैंकेबार) factory from **1620**. They sold their settlements to the British in **1845** and never built a land empire.
-12. A **factory** was a **trading post** with local permission (warehouse), not an industrial mill and not a colony (उपनिवेश).
-13. Early English and Dutch trade at ports like Surat rested on a **Mughal farman**, not on conquest. Early presence was coastal and commercial.
-14. The three classic EIC **presidencies** were **Madras, Bombay and Bengal**. The early western Presidency (प्रेसीडेंसी) sat at **Surat**, then shifted to Bombay. First **Municipal Corporation** was at **Madras** in **1687–88**.
-15. **William Hawkins (हॉकिन्स)** reached Jahangir (जहाँगीर)’s court in **1608** as an EIC captain who knew Turkish. **Sir Thomas Roe (रो)** was James I’s ambassador in **1615–19**. Hawkins did **not** come in 1611 as James I’s envoy.
-16. First English temporary factory: **Masulipatnam 1611** (मसूलिपत्तनम). After **Thomas Best** won naval battle at **Swally (1612)**, the first permanent English factory rose at **Surat in 1613**. Dutch Surat followed in **1616**; French Surat in **1668**.
-17. **Francis Day** obtained the Madras grant in **1639**; **Fort St George** followed in **1640**. **Bombay** came as Portuguese dowry in **1661–62** and was leased to the EIC in **1668** for **£10** a year.
-18. **Job Charnock** settled at **Sutanuti** (Calcutta) in **1690** (Fort William). **Shah Jahan** (शाहजहाँ) destroyed the Portuguese base at **Hooghly (हुगली) in 1632** (piracy base in the Bay of Bengal).
-19. Dutch spine: first factory **Masulipatnam 1605**; Coromandel HQ **Pulicat (Fort Geldria (गेल्ड्रिया))** then **Nagapattinam (1690)**; Bengal **Chinsurah (Fort Gustavus (गुस्तावस), 1653)**; **Cochin 1663**. Trade = Coromandel textiles, Bengal silk, Bihar saltpetre/opium for Spice Islands profits.
-20. At **Colachel (10 Aug 1741)**, Travancore under **Marthanda Varma** defeated the Dutch. At **Bedara / Chinsurah (25 Nov 1759)**, English under **Francis Forde** ended Dutch political challenge in India.
-21. **First Carnatic War (1746–48)** — French lead **Dupleix (डुप्ले)/La Bourdonnais**; sparked by English seizure of French ships (Austrian Succession (उत्तराधिकार क्रम) context). Ended by **Aix-la-Chapelle 1748** (Madras returned).
-22. **Second Carnatic War (1749–54)** — Sparked by dynastic struggles in Hyderabad (हैदराबाद) and Carnatic. **Ambur 1749**, Clive (क्लाइव)’s **Arcot 1751**; **Dupleix** recalled; ends with **Treaty of Pondicherry 1754**.
-23. **Third Carnatic War (1758–63)** — Seven Years War context. **Count de Lally** fails at Madras; **Eyre Coote** wins **Wandiwash 1760** (वांडिवाश); **Treaty of Paris 1763** leaves French with factories only (cannot fortify them).
-24. **Wandiwash (1760)** is Anglo–French (Coote). **Plassey (प्लासी) (1757)** is Clive’s Bengal battle. Do not swap commanders or theatres.
-25. After **1763** the English dominated European rivals in India. French power was reduced to enclaves; the path to Bengal empire opened next.
-26. Portuguese India was a **crown** empire (**Estado da Índia**). Dutch, English, French and Danish presence was mainly **company-led** under royal charters.
-27. English beat the French through a stronger navy, Bengal wealth after Plassey, steadier home support, and the recall of Dupleix that broke French continuity.
-28. **Hormuz (1515)** and **Malacca (1511)** were Portuguese choke-points for sea lanes. Their main late Indian holdings were **Goa, Daman and Diu**.
-29. Traveller order: **Fitch** (फिच) (before EIC) → **Hawkins (1608)** → **Roe (1615–19)**. **Peter Mundy** was English under Shah Jahan (not Portuguese).
-30. Bengal power map: **Bandel (बन्देल्)/Hooghly** Portuguese, **Chinsurah** Dutch, **Chandernagore** (चंद्रनगर) French, **Serampore** (श्रीरामपुर) Danish, **Calcutta** English.
-31. Carnatic Wars are **English vs French** in the 1740s–60s. Anglo–Mysore (मैसूर) Wars are **English vs Hyder/Tipu** later.
-32. Portuguese **capitanias** were coastal captaincies under fort captains. A **cartaze** was the sea-pass.
-33. **Farrukhsiyar (फ़र्रुख़)’s farman of 1717** (Magna Carta of Company) gave EIC duty-free trade privileges in Bengal via *dastaks*. It is **not** the **Diwani (दीवानी) of 1765** (दीवानी अधिकार).
-34. **Founders of Cities (Match-the-following list)**: Job Charnock (Calcutta), Francis Day (Madras), Gerald Aungier (Bombay), François Martin (Pondicherry).
-35. **Albuquerque’s policies:** control Goa as capital; choke Hormuz/Malacca sea lanes; break Arab spice middlemen; encourage *casados* (Portuguese–Indian marriages); fortify key ports — conquest of coast, not Deccan interior like Almeida’s Blue Water line.
-36. **Battle of Swally (1612) — Cause/Course/Result:** Portuguese challenge to English Surat trade → **Thomas Best** wins the naval fight → permanent English **Surat factory (1613)** follows; Swally is not the factory founding date.
-37. **EIC charter ladder (not Factory Acts):** original **1600** (Elizabeth I) → renewals through the 17th–18th centuries → **1813** ends India trade monopoly (tea/China kept) → **1833** ends all Company trade → **1853** opens ICS competition — keep this distinct from industrial Factory Acts.
-38. **Arrival vs charter trap:** Dutch ships reach India before permanent English factories, but EIC charter (**1600**) precedes VOC charter (**1602**). **Levant Company (1592)** was a **land-route** charter — not the first sea East India Company.
+1. **Francisco de Almeida (अल्मेदा)** was the first **Portuguese Viceroy (वायसराय)** in **1505**. His **Blue Water Policy** meant control of sea lanes, not conquest of the Deccan (दक्कन) interior.
+2. **Afonso de Albuquerque** captured **Goa in 1510** from **Yusuf Adil Shah** (यूसुफ आदिल) of Bijapur (बीजापुर) and made it the capital of **Estado da Índia**. Do not swap him with Almeida as the first Viceroy (कैनिंग). He encouraged Portuguese men to marry Indian women (*casados*).
+3. **Nuno da Cunha** shifted the Portuguese HQ from **Cochin to Goa in 1530** and acquired **Bassein (1534)** and **Diu (1535)**.
+4. **William Hawkins (हॉकिन्स)** reached Jahangir (जहाँगीर)’s court in **1608** as an EIC captain who knew Turkish. **Sir Thomas Roe (रो)** was James I’s ambassador in **1615–19**. Hawkins did **not** come in 1611 as James I’s envoy.
+5. **Francis Day** obtained the Madras grant in **1639**; **Fort St George** followed in **1640**. **Bombay** came as Portuguese dowry in **1661–62** and was leased to the EIC in **1668** for **£10** a year.
+6. **Job Charnock** settled at **Sutanuti** (Calcutta) in **1690** (Fort William). **Shah Jahan** (शाहजहाँ) destroyed the Portuguese base at **Hooghly (हुगली) in 1632** (piracy base in the Bay of Bengal).
+7. **First Carnatic War (1746–48)** — French lead **Dupleix (डुप्ले)/La Bourdonnais**; sparked by English seizure of French ships (Austrian Succession (उत्तराधिकार क्रम) context). Ended by **Aix-la-Chapelle 1748** (Madras returned).
+8. **Second Carnatic War (1749–54)** — Sparked by dynastic struggles in Hyderabad (हैदराबाद) and Carnatic. **Ambur 1749**, Clive (क्लाइव)’s **Arcot 1751**; **Dupleix** recalled; ends with **Treaty of Pondicherry 1754**.
+9. **Third Carnatic War (1758–63)** — Seven Years War context. **Count de Lally** fails at Madras; **Eyre Coote** wins **Wandiwash 1760** (वांडिवाश); **Treaty of Paris 1763** leaves French with factories only (cannot fortify them).
+10. **Wandiwash (1760)** is Anglo–French (Coote). **Plassey (प्लासी) (1757)** is Clive’s Bengal battle. Do not swap commanders or theatres.
+11. **Hormuz (1515)** and **Malacca (1511)** were Portuguese choke-points for sea lanes. Their main late Indian holdings were **Goa, Daman and Diu**.
+12. **Farrukhsiyar (फ़र्रुख़)’s farman of 1717** (Magna Carta of Company) gave EIC duty-free trade privileges in Bengal via *dastaks*. It is **not** the **Diwani (दीवानी) of 1765** (दीवानी अधिकार).
+13. **Founders of Cities (Match-the-following list)**: Job Charnock (Calcutta), Francis Day (Madras), Gerald Aungier (Bombay), François Martin (Pondicherry).
+14. **Albuquerque’s policies:** control Goa as capital; choke Hormuz/Malacca sea lanes; break Arab spice middlemen; encourage *casados* (Portuguese–Indian marriages); fortify key ports — conquest of coast, not Deccan interior like Almeida’s Blue Water line.
+15. **Battle of Swally (1612) — Cause/Course/Result:** Portuguese challenge to English Surat trade → **Thomas Best** wins the naval fight → permanent English **Surat factory (1613)** follows; Swally is not the factory founding date.
+16. **EIC charter ladder (not Factory Acts):** original **1600** (Elizabeth I) → renewals through the 17th–18th centuries → **1813** ends India trade monopoly (tea/China kept) → **1833** ends all Company trade → **1853** opens ICS competition — keep this distinct from industrial Factory Acts.
+17. **Arrival vs charter trap:** Dutch ships reach India before permanent English factories, but EIC charter (**1600**) precedes VOC charter (**1602**). **Levant Company (1592)** was a **land-route** charter — not the first sea East India Company.
+18. **Successor states** rose under loose Mughal shadow (छाया): **Bengal, Awadh (अवध), Hyderabad**, the **Carnatic** (कर्नाटक) Nawabs, **Mysore**, the **Marathas**, and later the **Sikhs**.
+19. **Bartolomeu Dias** rounded the Cape of Good Hope in **1488**.
+20. **Vasco da Gama** reached India in **1498**.
+21. **Hormuz** and **Malacca** were choke-points. The aim was control of sea lanes, not conquest of the Deccan interior.
+22. **St Francis Xavier** and Goan churches are a cultural fact. Papers still test **Goa = Portuguese**.
+23. **Francisco de Almeida** was the first **Portuguese Viceroy (1505–09)**.
+24. **Afonso de Albuquerque** was Governor **1509–15**.
+25. **Nuno da Cunha** governed **1529–38**, after **Lopo Vaz de Sampaio**.
+26. **Cornelis de Houtman** had already reached Sumatra and Bantam in **1596**, before the VOC charter.
+27. **Nagapattinam** and Malabar forts followed the same anti-Portuguese push.
+28. **Mir Jafar** (मीर जाफ़र), the puppet Nawab, grew restless under English pressure and secretly invited Dutch help from **Chinsurah**.
+29. **Amboyna (1623)** and later Anglo–Dutch wars kept rivalry alive at sea and in Asia.
+30. **Colachel (1741)** ended Dutch Malabar push. **Bedara (1759)** ended Dutch Bengal politics.
+31. **Diwani of Bengal, Bihar and Orissa** came only in **1765**, after Buxar (बक्सर).
+32. **Trichinopoly** and **Chicacole** were **not** English factory centres in the first quarter of the 17th century.
+33. **François Martin** turned **Pondicherry** into the French headquarters from **1674**.
+34. **Dupleix’s recall** broke French political continuity.
+35. **Lally** quarrelled with officers and Indian allies; **Wandiwash 1760** ended field power.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-& Famous Forts
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Factory | Colony | Trading post (warehouse) vs territorial rule | फैक्टरी / उपनिवेश |
-| EIC 1600 | VOC 1602 | English company vs Dutch company | ईस्ट इंडिया कंपनी / वीओसी |
-| Cartaze | Farman | Portuguese sea-pass vs Mughal land trade grant | कार्टाज़ / फ़रमान |
-| Chinsurah | Chandernagore | Dutch Bengal HQ vs French Bengal HQ | चिन्सुरा / चंद्रनगर |
-| Goa | Pondicherry | Portuguese capital vs French headquarters | गोवा / पांडिचेरी |
-| Aix-la-Chapelle (1748) | Paris (1763) | Ends 1st Carnatic War (Madras returned) vs Ends 3rd Carnatic (French defeat) | एक्स-ला-शापेल / पेरिस |
-| Carnatic Wars | Anglo-Mysore Wars | English vs French vs English vs Hyder/Tipu | कर्नाटक युद्ध / आंग्ल-मैसूर |
-| Hawkins 1608 | Roe 1615–19 | EIC captain at Jahangir’s court vs ambassador of James I | हॉकिन्स / रो |
-| Wandiwash 1760 | Plassey 1757 | Anglo-French battle (Coote) vs Bengal battle (Clive) | वांडिवाश / प्लासी |
-| Presidency | Factory | Madras / Bombay / Bengal administrative unit vs a local trading station | प्रेसीडेंसी / फैक्टरी |
-| Cochin fort 1503 | Goa 1510 | First European fort (Albuquerque, not yet Governor) vs Estado capital | कोचीन / गोवा |
-| Masulipatnam 1611 | Surat 1613 | First English temporary factory vs first permanent English factory | मसूलीपट्टनम / सूरत |
-| Chinsurah | Bandel | Dutch Bengal (Fort Gustavus) vs Portuguese Bengal pocket | चिन्सुरा / बन्देल् |
-| Levant 1592 | EIC 1600 | Land-route charter vs sea East Indies charter | लेवेंट / ईआईसी |
-| Colachel 1741 | Bedara 1759 | Travancore defeats Dutch vs English defeat Dutch | कोलाचेल / बेदारा |
-| Fort Geldria | Fort Gustavus | Dutch Pulicat fort vs Dutch Chinsurah fort | गेल्ड्रिया / गुस्तावस |
-| Lenoir / Dumas | Dupleix | Mid governors before Dupleix vs Carnatic proxy architect **1742–54** | लनोआ–डूमा / डूप्ले |
-| Capitanias | Cartaze | Portuguese coastal captaincies under fort captains vs Portuguese sea-pass | कैपिटानिया / कार्टाज़ |
-| Farman 1717 | Diwani 1765 | Farrukhsiyar trade privilege vs revenue grant after Buxar | फ़रमान 1717 / दीवानी 1765 |
-| Swally 1612 | Surat factory 1613 | Thomas Best’s naval win vs first permanent English factory | स्वाली / सूरत |
-
-### Must-Know European Forts
-
-| Fort | Location | Built By (Power) |
-|---|---|---|
-| **Fort St. George** | Madras | English (Francis Day, 1640) |
-| **Fort William** | Calcutta | English (Job Charnock, 1696) |
-| **Fort St. David** | Cuddalore | English (Purchased from Marathas, 1690) |
-| **Fort Geldria** | Pulicat | Dutch (1610) |
-| **Fort Gustavus** | Chinsurah | Dutch (1653) |
-| **Fort Louis** | Pondicherry | French (François Martin) |
-| **Fort St. Angelo** | Cannanore | Portuguese (1505) |
-| **Fort Emmanuel** | Cochin | Portuguese (1503 — First European Fort) |
-| **Fort Dansborg** | Tranquebar | Danish (1620) |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Gama conquered Goa** → Calicut **1498**; **Albuquerque** = Goa **1510**.
+2. **EIC = VOC = 1600** → EIC **1600**, VOC **1602**.
+3. **French company before Dutch** → French **1664** is last in arrival order.
+4. **Hawkins arrived 1611 as James I’s envoy** → arrived **1608**; envoy = **Roe**.
+5. **Roe before Hawkins / both at Akbar’s court** → Hawkins **1608**, Roe **1615**; court = **Jahangir**. EIC charter year still falls in **Akbar’s** reign.
+6. **Pondicherry = Dutch / Chinsurah = French** → Pondicherry **French**; Chinsurah **Dutch**; Chandernagore **French**.
+7. **Serampore = French / Bandel = Dutch** → Serampore **Danish**; Bandel **Portuguese**.
+8. **Aix-la-Chapelle = 1763 / Paris returned Madras** → Aix **1748** (Madras back); Paris **1763**.
+9. **Wandiwash = Plassey / Clive** → Wandiwash **1760**, **Coote vs Lally**. Plassey is Bengal, 1757.
+10. **Carnatic Wars = Anglo-Mysore** → different enemy and decades; Anglo-French Carnatic comes **before** Anglo-Mysore.
+11. **Factory = industrial mill / first Municipal Corp = Calcutta** → factory = **trading post**; Corp = **Madras 1687–88**.
+12. **Almeida after Albuquerque as first Viceroy** → **Almeida 1505** first.
+13. **Arcot = Third Carnatic War** → Arcot **1751** = **Second** War.
+14. **Muhammad Ali = French client** → Muhammad Ali = **English**; Chanda Sahib = French.
+15. **First European fort = Goa** → **Cochin 1503**; Goa is **1510** capital.
+16. **Anwaruddin died in the First Carnatic War** → he was killed at **Ambur 1749**, which opens the **Second** War.
+17. **Surat permanent factory = 1612 / Masulipatnam never temporary** → Swally **1612**; permanent Surat **1613**; Masulipatnam temporary **1611**.
+18. **English never occupied Pondicherry** → they did (**1793**), returned it in **1814**.
+19. **Portuguese left India with the British in 1947** → Portuguese held Goa till **1961**.
+20. **Levant Company = first sea EIC** → Levant **1592** was a **land-route** charter; sea EIC is **1600**.
+21. **Immediate cause of First Carnatic War = Carnatic succession** → succession is Second War; First War spark = **seizure of French ships**.
+22. **Kochi Fort Williams = English Fort William** → Dutch fort at Kochi **1663**; Calcutta Fort William is English.
+23. **Colachel = English vs Dutch / Bedara = Travancore vs Dutch** → Colachel = **Travancore vs Dutch (1741)**; Bedara = **English vs Dutch (1759)**.
+24. **Fort Gustavus = Pulicat / Fort Geldria = Chinsurah** → **Geldria = Pulicat**; **Gustavus = Chinsurah**.
+25. **Dutch left India in 1667 forever** → coaching “sphere split” with Indonesia; factories continued till **Bedara** politics ended and **1824** treaty ceded posts.
+26. **Farman 1717 = Diwani** → Farrukhsiyar trade privilege ≠ revenue Diwani of **1765**.
+27. **Capitanias = cartaze** → capitanias = coastal captaincies; cartaze = sea-pass.
+28. **Swally = permanent Surat factory year** → battle **1612**; permanent factory **1613**.
+29. **Company charter ladder = industrial Factory Acts** → these are EIC monopoly renewals (**1600–1708**), not labour Factory Acts.
 
 
 ---

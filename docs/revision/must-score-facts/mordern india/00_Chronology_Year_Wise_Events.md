@@ -11,65 +11,63 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chronology — Year-Wise Major Events</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Hold **four megaspines**, not one flat list: **Wars / Expansion**, **Acts**, **Reform & Press**, **National Movement**.
-2. Company political start: **Plassey 1757 → Buxar 1764 → Allahabad / Dual Govt 1765 → Regulating Act 1773**.
-3. **Mysore CCR ladder:** 1st (**1767–69**, Madras treaty) → 2nd (**1780–84**, Mangalore) → 3rd (**1790–92**, half kingdom ceded) → 4th (**1799**, Tipu dies / Subsidiary).
-4. **Maratha CCR ladder:** 1st (**1775–82**, Salbai peace) → 2nd (**1803–05**, after Bassein 1802) → 3rd (**1817–18**, Peshwa ends / Pindaris crushed).
-5. Act ladder to Crown: **1773 → 1784 → 1793 → 1813 → 1833 → 1853 → 1858**.
-6. Crown constitutional ladder: **1861 → 1892 → 1909 → 1919 → 1935 → 1947**.
-7. Social reform anchors: **Sati 1829 → Slavery Act 1843 → Widow Remarriage 1856 → Age of Consent 1891**.
-8. Education ladder: **Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944**.
-9. Nationalism megaspine: **INC 1885 → Partition 1905 → League 1906 → Surat 1907 → 1909 → Delhi 1911**.
-10. Gandhi early ladder: **Champaran 1917 → Ahmedabad + Kheda 1918 → Rowlatt / Jallianwala 1919**.
-11. **Mass CCR ladder:** NCM (**1920–22**, boycott + Khilafat; ends Chauri Chaura) → CDM (**1930**, salt; Gandhi–Irwin) → Quit India (**1942**, Do or Die; suppressed but legitimacy crash).
-12. Mission ladder: **Simon 1927 → Nehru Report 1928 → Cripps 1942 → Cabinet Mission 1946 → Mountbatten Plan 3 June 1947**.
-13. UP spine: **Banaras 1781 → Allahabad Proclamation 1 Nov 1858 → Chauri Chaura Feb 1922 → Kakori 9 Aug 1925 → Ballia 1942**.
-14. Do not swap **Hunter Commission 1882** (education) with **Hunter Committee 1919** (Punjab).
-15. Do not swap **First Afghan War (Auckland 1839–42)** with **Second Afghan War (Lytton 1878–80)**.
-16. **Awadh 1856** is **misrule**, not Doctrine of Lapse. Lapse starts with **Satara 1848**.
-17. **Queen’s Proclamation 1858** ≠ **Kaiser-i-Hind / Empress Durbar 1877**.
-18. **Vernacular Press Act 1878 (Lytton)** before **Ilbert Bill 1883 (Ripon)**.
-19. **Partition announced / effected 1905**; **annulled + capital to Delhi 1911**.
-20. **Lahore Purna Swaraj Dec 1929** comes **before** Dandi **March–April 1930**.
-21. **Communal Award → Poona Pact** both sit in **1932**, Award first.
-22. **Cripps Mission** and **Quit India** share **1942**; Cripps fails first, then Quit India (**8 August**).
-23. **Wavell / Simla 1945 → Cabinet Mission 1946 → Mountbatten Plan 1947 → Independence 15 August 1947**.
-24. Arrival order of Europeans: **Portuguese → Dutch → English → Danes → French** (charter years differ from arrival order).
-25. **Sikh / Punjab ladder:** Amritsar (**1809**) → Lahore (**1846**) → annexation (**1849**).
-26. **1857 CCR compact:** Causes (Lapse, Awadh 1856, cartridges) → Course (Meerut **10 May** → centres) → Result (**1858** Crown / Peel army).
-27. **Nepal / Burma / Sindh tags:** Sugauli (**1816**); Yandabo (**1826**) → 2nd Burma (**1852**) → 3rd (**1885**); Sindh (**1843**, Napier).
-28. **Subsidiary (1798 Hyderabad first)** before **Lapse (1848 Satara first)** — method ladder for annexation politics.
+1. **Mysore CCR ladder:** 1st (**1767–69**, Madras treaty) → 2nd (**1780–84**, Mangalore) → 3rd (**1790–92**, half kingdom ceded) → 4th (**1799**, Tipu dies / Subsidiary).
+2. **Maratha CCR ladder:** 1st (**1775–82**, Salbai peace) → 2nd (**1803–05**, after Bassein 1802) → 3rd (**1817–18**, Peshwa ends / Pindaris crushed).
+3. **Mass CCR ladder:** NCM (**1920–22**, boycott + Khilafat; ends Chauri Chaura) → CDM (**1930**, salt; Gandhi–Irwin) → Quit India (**1942**, Do or Die; suppressed but legitimacy crash).
+4. **Awadh 1856** is **misrule**, not Doctrine of Lapse. Lapse starts with **Satara 1848**.
+5. **Queen’s Proclamation 1858** ≠ **Kaiser-i-Hind / Empress Durbar 1877**.
+6. **Vernacular Press Act 1878 (Lytton)** before **Ilbert Bill 1883 (Ripon)**.
+7. **Partition announced / effected 1905**; **annulled + capital to Delhi 1911**.
+8. **Lahore Purna Swaraj Dec 1929** comes **before** Dandi **March–April 1930**.
+9. **Communal Award → Poona Pact** both sit in **1932**, Award first.
+10. **Cripps Mission** and **Quit India** share **1942**; Cripps fails first, then Quit India (**8 August**).
+11. **Wavell / Simla 1945 → Cabinet Mission 1946 → Mountbatten Plan 1947 → Independence 15 August 1947**.
+12. **Sikh / Punjab ladder:** Amritsar (**1809**) → Lahore (**1846**) → annexation (**1849**).
+13. **1857 CCR compact:** Causes (Lapse, Awadh 1856, cartridges) → Course (Meerut **10 May** → centres) → Result (**1858** Crown / Peel army).
+14. **Nepal / Burma / Sindh tags:** Sugauli (**1816**); Yandabo (**1826**) → 2nd Burma (**1852**) → 3rd (**1885**); Sindh (**1843**, Napier).
+15. **Subsidiary (1798 Hyderabad first)** before **Lapse (1848 Satara first)** — method ladder for annexation politics.
+16. **Buxar before Plassey** → Plassey **1757**, Buxar **1764**.
+17. **1813 ends all Company trade** → tea/China kept; **1833** ends all trade.
+18. **Awadh = Lapse** → **misrule 1856**; Lapse starts **Satara 1848**.
+19. **Victoria Empress in 1858** → Proclamation **1858**; Empress Durbar **1877**.
+20. **Ilbert before Vernacular Press** → Press **1878**, Ilbert **1883**.
+21. **Hunter 1919 = education** → education Hunter is **1882**; 1919 is Punjab inquiry.
+22. **Annulment of Partition in 1905** → Partition **1905**; annulment **1911**.
+23. **Dandi before Lahore Purna Swaraj** → Lahore **Dec 1929**, Dandi **1930**.
+24. **Quit India before Cripps** → both **1942**, but **Cripps first**.
+25. **Cabinet Mission before Wavell Plan** → Wavell/Simla **1945**, Cabinet **1946**.
+26. **Chauri Chaura after Kakori** → Chauri Chaura **1922**, Kakori **1925**.
+27. **First GG of India = Hastings** → Hastings is GG of **Bengal**; GG of India from **1833** = **Bentinck**.
+28. **French Company before Dutch** → Dutch **1602**, French **1664**.
+29. **2nd Afghan under Auckland** → Auckland = **1st**; Lytton = **2nd**.
+30. **Poona Pact before Communal Award** → Award first, then Pact, both **1932**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-(year / order swaps)
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Plassey 1757 | Buxar 1764 | Political foothold vs decisive Diwani path | प्लासी / बक्सर |
-| Regulating Act 1773 | Pitt’s India Act 1784 | Creates GG office vs Board of Control | रेगुलेटिंग / पिट्स |
-| Charter 1813 | Charter 1833 | Ends India trade monopoly (tea/China kept) vs GG of India + all trade ends | 1813 / 1833 |
-| Sati 1829 | Widow Remarriage 1856 | Bentinck vs Canning / Vidyasagar | सती / विधवा विवाह |
-| 1st Afghan 1839–42 | 2nd Afghan 1878–80 | Auckland vs Lytton | प्रथम / द्वितीय अफगान |
-| Proclamation 1858 | Empress Durbar 1877 | Crown rule starts vs Kaiser-i-Hind title | 1858 / 1877 |
-| Vernacular Press 1878 | Ilbert Bill 1883 | Lytton gagging vs Ripon judicial equality attempt | प्रेस अधिनियम / इल्बर्ट |
-| Hunter Comm. 1882 | Hunter Cttee 1919 | Education vs Jallianwala inquiry | हंटर आयोग / समिति |
-| Partition 1905 | Annulment 1911 | Curzon vs Hardinge II | बंगाल विभाजन / रद्द |
-| Simon 1927 | Nehru Report 1928 | All-white commission vs Indian constitutional draft | साइमन / नेहरू रिपोर्ट |
-| NCM 1920 | CDM 1930 | First mass non-cooperation vs Salt / Civil Disobedience | असहयोग / सविनय अवज्ञा |
-| Cripps 1942 | Cabinet Mission 1946 | Wartime offer vs three-tier / interim path | क्रिप्स / कैबिनेट मिशन |
-| Chauri Chaura 1922 | Kakori 1925 | NCM ends vs HRA-era train action (UP) | चौरी चौरा / काकोरी |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Buxar before Plassey** → Plassey **1757**, Buxar **1764**.
+2. **1813 ends all Company trade** → tea/China kept; **1833** ends all trade.
+3. **Awadh = Lapse** → **misrule 1856**; Lapse starts **Satara 1848**.
+4. **Victoria Empress in 1858** → Proclamation **1858**; Empress Durbar **1877**.
+5. **Ilbert before Vernacular Press** → Press **1878**, Ilbert **1883**.
+6. **Hunter 1919 = education** → education Hunter is **1882**; 1919 is Punjab inquiry.
+7. **Annulment of Partition in 1905** → Partition **1905**; annulment **1911**.
+8. **Dandi before Lahore Purna Swaraj** → Lahore **Dec 1929**, Dandi **1930**.
+9. **Quit India before Cripps** → both **1942**, but **Cripps first**.
+10. **Cabinet Mission before Wavell Plan** → Wavell/Simla **1945**, Cabinet **1946**.
+11. **Chauri Chaura after Kakori** → Chauri Chaura **1922**, Kakori **1925**.
+12. **First GG of India = Hastings** → Hastings is GG of **Bengal**; GG of India from **1833** = **Bentinck**.
+13. **French Company before Dutch** → Dutch **1602**, French **1664**.
+14. **2nd Afghan under Auckland** → Auckland = **1st**; Lytton = **2nd**.
+15. **Poona Pact before Communal Award** → Award first, then Pact, both **1932**.
+
+---
 
 
 ---

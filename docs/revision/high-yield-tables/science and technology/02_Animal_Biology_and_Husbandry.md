@@ -11,9 +11,20 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 2 — Animal Biology and Husbandry</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Event / Fact | Must-Score Fact |
+|------|-------------|----------------------|
+| **2024–25** | **21st Livestock Census** field enumeration conducted from **October 2024 to February 2025** by Ministry of Fisheries, Animal Husbandry & Dairying. | Livestock census in India started in **1919** and is conducted every **5 years**; 20th census was in 2019 (India #1 in total livestock and buffalo population). |
+| **2025** | Asiatic Lion Population Estimation (Gujarat Forest Department, May 2025) counted **891 lions**, up from **674 in 2020** (+32% growth). | Asiatic lion (*Panthera leo persica*) survives in the wild **only in the Greater Gir landscape** of Gujarat; listed as Endangered on IUCN Red List. |
+| **2024** | **WPA 1972 Amendment (w.e.f. 2023) & Indian Flying Fox**: Schedule V (vermin list) omitted; Indian Flying Fox (*Pteropus giganteus*) moved to Schedule II; it is a frugivorous/nectar bat, NOT blood-sucking. | Section 62 allows Central Govt to declare Schedule II animals as vermin by notification; bats are vital pollinators and seed dispersers. |
+| **2025** | **Peacock Tarantula (*Poecilotheria metallica*)** sighted in Pakkam Malai Reserve Forest (~370 km south of Eastern Ghats range); Critically Endangered, arboreal spider, NOT a crustacean. | Class Arachnida (8 legs, 2 body parts), insectivorous, threatened by habitat loss and pet trade. |
+| **2006 / Still Current** | Government of India banned veterinary use of **Diclofenac** in **2006**; banned Ketoprofen and Aceclofenac in **2023**. | Non-Steroidal Anti-Inflammatory Drug (NSAID) given to cattle causes fatal visceral gout and acute renal failure in scavenging *Gyps* vultures. |
+| **Current Status** | **National Milk Day** is celebrated on **26 November** to commemorate the birth anniversary of **Dr. Verghese Kurien** (Father of India's White Revolution). | India is the **world's largest milk producer** (~24% of global output), followed by the USA and Pakistan; leading Indian states are Uttar Pradesh and Rajasthan. |
+
+---
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -37,23 +48,6 @@ hide:
 | **Sahiwal** | **Murrah** | Indigenous milch cattle breed of Punjab/Pakistan vs indigenous premier milch buffalo breed of Haryana | साहीवाल गाय / मुर्रा भैंस |
 | **Kadaknath** | **Aseel** | Black meat fowl rich in melanin (MP, GI tag) vs aggressive game fowl used for cock-fighting (AP/Telangana) | कड़कनाथ / असील |
 | **Extinct** | **Endangered** | Not a single living individual remains on Earth vs surviving in the wild but facing very high risk of extinction | विलुप्त / संकटग्रस्त प्रजाति |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Event / Fact | Must-Score Fact |
-|------|-------------|----------------------|
-| **2024–25** | **21st Livestock Census** field enumeration conducted from **October 2024 to February 2025** by Ministry of Fisheries, Animal Husbandry & Dairying. | Livestock census in India started in **1919** and is conducted every **5 years**; 20th census was in 2019 (India #1 in total livestock and buffalo population). |
-| **2025** | Asiatic Lion Population Estimation (Gujarat Forest Department, May 2025) counted **891 lions**, up from **674 in 2020** (+32% growth). | Asiatic lion (*Panthera leo persica*) survives in the wild **only in the Greater Gir landscape** of Gujarat; listed as Endangered on IUCN Red List. |
-| **2024** | **WPA 1972 Amendment (w.e.f. 2023) & Indian Flying Fox**: Schedule V (vermin list) omitted; Indian Flying Fox (*Pteropus giganteus*) moved to Schedule II; it is a frugivorous/nectar bat, NOT blood-sucking. | Section 62 allows Central Govt to declare Schedule II animals as vermin by notification; bats are vital pollinators and seed dispersers. |
-| **2025** | **Peacock Tarantula (*Poecilotheria metallica*)** sighted in Pakkam Malai Reserve Forest (~370 km south of Eastern Ghats range); Critically Endangered, arboreal spider, NOT a crustacean. | Class Arachnida (8 legs, 2 body parts), insectivorous, threatened by habitat loss and pet trade. |
-| **2006 / Still Current** | Government of India banned veterinary use of **Diclofenac** in **2006**; banned Ketoprofen and Aceclofenac in **2023**. | Non-Steroidal Anti-Inflammatory Drug (NSAID) given to cattle causes fatal visceral gout and acute renal failure in scavenging *Gyps* vultures. |
-| **Current Status** | **National Milk Day** is celebrated on **26 November** to commemorate the birth anniversary of **Dr. Verghese Kurien** (Father of India's White Revolution). | India is the **world's largest milk producer** (~24% of global output), followed by the USA and Pakistan; leading Indian states are Uttar Pradesh and Rajasthan. |
 
 ---
 
@@ -212,18 +206,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Animals are eukaryotic, multicellular, heterotrophic organisms lacking cell walls and photosynthetic pigments; store reserve food as glycogen and fat.
 - **Exam Anchor:** Porifera (sponges) exhibit cellular level of organisation, have thousands of minute incurrent pores (Ostia) and a single large excurrent opening (Osculum), and maintain a unique water canal system lined by flagellated Choanocytes / Collar cells.
 - **Exam Anchor:** Cnidaria (Coelenterata) possess stinging capsules called Cnidoblasts / Nematocysts for defence and prey capture; show radial symmetry and tissue-level organisation; exhibit alternation of generation (Metagenesis) between sessile cylindrical Polyp and free-swimming umbrella-like Medusa (e.g. Hydra, Aurelia jellyfish, Physalia Portuguese man-of-war). Corals (Anthozoa) secrete massive $CaCO3$ skeletons of organic origin. Hydra has no blood but respires via simple diffusion.
 - **Exam Anchor:** Platyhelminthes (flatworms) are triploblastic, acoelomate, dorso-ventrally flattened worms; excrete and osmoregulate via specialized Flame cells (Protonephridia) (e.g. Planaria, Taenia solium pork tapeworm, Fasciola hepatica liver fluke). Tapeworms are hermaphrodites (monoecious).
 - **Exam Anchor:** Aschelminthes / Nematoda (roundworms) possess a Pseudocoelom (false body cavity); sexually dimorphic (separate sexes); examples: Ascaris lumbricoides (intestinal roundworm), Wuchereria bancrofti (filarial worm causing elephantiasis transmitted by Culex mosquito), Dracunculus medinensis (guinea worm, a nematode, NOT an annelid!).
 - **Exam Anchor:** Annelida (segmented worms) exhibit true metameric segmentation, a closed circulatory system, and excrete via coiled tubular Nephridia; earthworms breathe cutaneously across moist glandular skin; possess 4 to 5 pairs of lateral hearts (aortic arches in segments 7–11 or 7, 9, 12, 13).
-- **Exam Anchor:** Earthworm (Pheretima posthuma) blood is red because haemoglobin (erythrocruorin) is dissolved in the blood plasma; lacks red blood cells (RBCs); known as the "friend of the farmer" for aerating soil and increasing organic matter.
 - **Exam Anchor:** Arthropoda is the largest phylum of the animal kingdom (over two-thirds of all named species, >1 million insects); characterized by chitinous exoskeleton, jointed appendages, open circulatory system with a haemocoel, and excretion via Malpighian tubules (insects), Green glands / Antennal glands (crustaceans/prawns), or Coxal glands (spiders/scorpions).
-
-</details>
+- **Exam Anchor:** Insects (Class Insecta / Hexapoda): 3 main body segments (Head, Thorax, Abdomen), 3 pairs of legs (6 legs) attached to the thorax, usually 2 pairs of wings, 1 pair of antennae, tracheal respiration via spiracles. Examples: Cockroach, Honeybee, Mosquito, Butterfly, Cicadas, Froghoppers (spittlebugs), Pond skaters (Gerridae), Termites (white ants, Isoptera).
+- **Exam Anchor:** Arachnids (Class Arachnida): 2 body regions (Cephalothorax and Abdomen), 4 pairs of walking legs (8 legs), zero wings and zero antennae; mouth appendages are chelicerae (fangs) and pedipalps. Examples: Spiders, Scorpions, Ticks, Mites. Ticks and mites have unsegmented fused bodies.
 
 ---
 

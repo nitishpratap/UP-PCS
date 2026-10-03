@@ -11,72 +11,74 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Fundamental Rights (मौलिक अधिकार) & Duties</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Part III (मौलिक अधिकार) (Articles 12–35)** holds Fundamental Rights. They are **justiciable**. Part III is called the **Magna Carta of India**. Originally there were **seven** groups; after the **44th (44वां संशोधन) Amendment (1978)** removed the Right to Property, **six** groups remain. Pre-1950 demand spine: **1895** Tilak (तिलक) Bill → **Nehru (नेहरू) Report (नेहरू रिपोर्ट) 1928** (नेहरू रिपोर्ट) → **Karachi 1931** (Patel).
 2. **Article 12** defines **State** for Part III (Union and State governments and legislatures, local authorities, and other authorities under the instrumentality test).
-3. Rights available only to **citizens**: **Articles 15, 16, 19, 29 and 30**. Rights available to **all persons** (citizens and foreigners): **14, 20, 21, 21A, 22, 23, 24, 25–28 and 32**.
-4. **Article 14** (equality before law / equal protection) covers **any person**. **Article 16** (equality of opportunity in public employment) covers **citizens only**.
-5. Reservation / special-provision facts: **15(4)** is the first explicit special provision; **15(5)** is the **93rd**; **15(6) / 16(6)** are the **103rd** (EWS). Promotion facts include **16(4A)** (**77th**) and **16(4B)** (**81st** / related **85th** teaching).
-6. **Article 17** abolishes **untouchability** (absolute (निरपेक्ष) equality fact). **Article 18** bans titles; national awards such as **Bharat Ratna** (भारत रत्न) are **not** “titles” in that sense.
-7. **Article 19** gives **six** freedoms to **citizens**. The old property freedom **19(1)(f)** was deleted by the **44th Amendment** (44वां संशोधन); property now sits as a **legal right** under **Article 300A**.
-8. The six freedoms are speech and expression, assembly, association (cooperatives reinforced by the **97th**), movement, residence, and profession — each with reasonable restrictions under **19(2)–(6)**.
-9. **Article 20** protects **all persons** against ex post facto criminal law, double jeopardy, and self-incrimination. Torture and privacy questions are **not** solved only by Article 20.
-10. **Article 21** (अनुच्छेद 21) protects life and personal liberty for **all persons**. After *Maneka Gandhi (गांधी)*, procedure (प्रक्रिया) must be **fair, just and reasonable**. **Privacy** was treated as a Fundamental Right in ***Puttaswamy* (2017)**.
-11. **Article 21A** (Right to Education) covers free and compulsory education for ages **6–14**, inserted by the **86th Amendment**. Do not stretch 21A to every age group.
-12. **Article 22**: ordinary arrest needs production before a magistrate within **24 hours**. Preventive detention has a separate code (Advisory Board and three-month rhythm in the usual teaching).
-13. **Articles 23–24** are rights against **exploitation** (begar (बेगार), trafficking, child labour under 14 in hazardous work). Do not park untouchability here — that is **Article 17** under equality.
-14. Religion cluster **25–28**: **25** includes the right to **propagate**; **26** is to manage religious affairs; **27** bars a **tax** for promotion of a religion (a regulatory **fee** is different); **28** covers religious instruction in certain institutions.
-15. **Article 29** protects culture of **any section** of citizens. **Article 30** protects **minorities**’ right to establish and administer educational institutions. “Minority” is not exhaustively defined in the text (*T.M.A. Pai* line).
-16. **Article 32** (अनुच्छेद 32) is the Supreme Court writ remedy for **Fundamental Rights only** — Ambedkar (अम्बेडकर)’s “heart and soul.” **Article 226** is **wider**: Fundamental Rights **plus** other legal rights.
-17. Five writs (पाँच प्रकार की रिटें): **Habeas Corpus** (बन्दी प्रत्यक्षीकरण), **Mandamus** (परमादेश), **Prohibition** (प्रतिषेध), **Certiorari** (उत्प्रेषण), **Quo Warranto** (अधिकार-पृच्छा). **Prohibition** comes **before** the decision; **Certiorari** comes **after** to quash. Mandamus does **not** run against the President or a Governor in the usual fact.
-18. High Court Habeas Corpus can reach even a **private** person in the classic teaching. Quo Warranto tests illegal occupation of a **public office**.
-19. Under a National Emergency (राष्ट्रीय आपात), **Article 358** automatically suspends **Article 19** freedoms (subject to later refinements). **Article 359** can suspend enforcement of other rights by order, but **Articles 20 and 21** cannot be suspended.
-20. **DPSP** (राज्य के नीति निदेशक तत्व) sit in **Part IV (नीति निर्देशक) (Articles 36–51)**, borrowed in form from **Ireland**, and are **non-justiciable** (**Article 37**) though fundamental in governance.
-21. High-yield DPSP map: **39A** legal aid; **40** village panchayats; **43A** workers’ participation; **43B** cooperatives (**97th**); **44** Uniform Civil Code; **45** early childhood care (under-6 after 86th shift); **48A** environment (पर्यावरण); **50** separation of judiciary; **51** international peace.
-22. Do not swap **43A** (workers) with **43B** (cooperatives), or **48** (cattle / agriculture) with **50** (separation of judiciary).
-23. **Fundamental Duties** (मौलिक कर्तव्य) sit in **Part IVA, Article 51A**, added by the **42nd Amendment (1976)** — originally **10**, raised to **11** by the **86th** (**51A(k)** education of child). Duties bind **citizens**.
-24. **Article 51A(g)** (protect environment) pairs with DPSP **48A** — same idea in two Parts.
-25. Fundamental Rights are justiciable (USA-style Bill of Rights form); DPSP are non-justiciable (Ireland-style directives). Conflict cases later balanced them without erasing either Part.
-26. **Article 13** voids inconsistent laws. Constitutional amendments sit outside via **13(4)** after the **24th Amendment**. Doctrines: eclipse, severability, and generally **no waiver** of Fundamental Rights.
-27. Exceptions to equality include **Article 361** immunities of the President and Governors — Article 14 does not apply fully to those official-act shields.
-28. S. Radhakrishnan’s Constituent Assembly (संविधान सभा) line: Fundamental Rights are “a **pledge** to our people and a **pact** with the civilized world.”
-29. Some rights (notably **17, 23, 24**) also bind private persons; most Part III rights primarily bind the **State** under Article 12.
-30. Property is **not** a Fundamental Right after the 44th; it is a **constitutional legal right** under **300A** — State can deprive only by authority of law.
-31. **Articles 31A, 31B and 31C** save certain laws from Fundamental Rights attack: **31B** works with the **Ninth Schedule** (1st Amendment, 1951); **31C** protects laws giving effect to Articles **39(b)/(c)**. The **42nd** tried to stretch 31C to **all** DPSPs; *Minerva Mills* struck that stretch and kept the FR–DPSP balance as Basic Structure.
-32. **Articles 33–35** let Parliament restrict or modify Fundamental Rights for the armed forces and similar forces (**33**), allow indemnity related to martial law (**34**), and reserve certain Part III powers exclusively to Parliament (**35**).
+3. **Article 14** (equality before law / equal protection) covers **any person**. **Article 16** (equality of opportunity in public employment) covers **citizens only**.
+4. **Article 17** abolishes **untouchability** (absolute (निरपेक्ष) equality fact). **Article 18** bans titles; national awards such as **Bharat Ratna** (भारत रत्न) are **not** “titles” in that sense.
+5. **Article 19** gives **six** freedoms to **citizens**. The old property freedom **19(1)(f)** was deleted by the **44th Amendment** (44वां संशोधन); property now sits as a **legal right** under **Article 300A**.
+6. **Article 20** protects **all persons** against ex post facto criminal law, double jeopardy, and self-incrimination. Torture and privacy questions are **not** solved only by Article 20.
+7. **Article 21** (अनुच्छेद 21) protects life and personal liberty for **all persons**. After *Maneka Gandhi (गांधी)*, procedure (प्रक्रिया) must be **fair, just and reasonable**. **Privacy** was treated as a Fundamental Right in ***Puttaswamy* (2017)**.
+8. **Article 21A** (Right to Education) covers free and compulsory education for ages **6–14**, inserted by the **86th Amendment**. Do not stretch 21A to every age group.
+9. **Article 22**: ordinary arrest needs production before a magistrate within **24 hours**. Preventive detention has a separate code (Advisory Board and three-month rhythm in the usual teaching).
+10. **Articles 23–24** are rights against **exploitation** (begar (बेगार), trafficking, child labour under 14 in hazardous work). Do not park untouchability here — that is **Article 17** under equality.
+11. **Article 29** protects culture of **any section** of citizens. **Article 30** protects **minorities**’ right to establish and administer educational institutions. “Minority” is not exhaustively defined in the text (*T.M.A. Pai* line).
+12. **Article 32** (अनुच्छेद 32) is the Supreme Court writ remedy for **Fundamental Rights only** — Ambedkar (अम्बेडकर)’s “heart and soul.” **Article 226** is **wider**: Fundamental Rights **plus** other legal rights.
+13. **DPSP** (राज्य के नीति निदेशक तत्व) sit in **Part IV (नीति निर्देशक) (Articles 36–51)**, borrowed in form from **Ireland**, and are **non-justiciable** (**Article 37**) though fundamental in governance.
+14. **Fundamental Duties** (मौलिक कर्तव्य) sit in **Part IVA, Article 51A**, added by the **42nd Amendment (1976)** — originally **10**, raised to **11** by the **86th** (**51A(k)** education of child). Duties bind **citizens**.
+15. **Article 51A(g)** (protect environment) pairs with DPSP **48A** — same idea in two Parts.
+16. **Article 13** voids inconsistent laws. Constitutional amendments sit outside via **13(4)** after the **24th Amendment**. Doctrines: eclipse, severability, and generally **no waiver** of Fundamental Rights.
+17. **Articles 31A, 31B and 31C** save certain laws from Fundamental Rights attack: **31B** works with the **Ninth Schedule** (1st Amendment, 1951); **31C** protects laws giving effect to Articles **39(b)/(c)**. The **42nd** tried to stretch 31C to **all** DPSPs; *Minerva Mills* struck that stretch and kept the FR–DPSP balance as Basic Structure.
+18. **Articles 33–35** let Parliament restrict or modify Fundamental Rights for the armed forces and similar forces (**33**), allow indemnity related to martial law (**34**), and reserve certain Part III powers exclusively to Parliament (**35**).
+19. **Part III, Arts. 12–35.** Justiciable (courts enforce). Part III is often called the **Magna Carta of India**. Form is compared with the **US Bill of Rights**.
+20. **S. Radhakrishnan**: FRs are “a **pledge** to our people and a **pact** with the civilized world.” **Nehru** (नेहरू): an FR should be made **permanent** in the Constitution, not fixed for a passing difficulty.
+21. **Not absolute** — reasonable restrictions / other Part III limits. Can be amended, but **Basic Structure** cannot be destroyed (*Kesavananda* (केशवानंद भारती 1973)).
+22. **Art. 33–35:** Parliament may restrict FR of armed forces / police; martial-law indemnity; only Parliament legislates on certain FR punishments.
+23. **Local authorities** (municipality, panchayat, etc.)
+24. **Other authorities** within India or under the control of the Government of India
+25. **13(1):** Pre-Constitution laws inconsistent with FR are **void to that extent**.
+26. **13(2):** State shall **not make** a law that takes away / abridges FR; such law is void.
+27. **13(3):** “Law” includes ordinance, order, bye-law, rule, regulation, notification, custom, usage.
+28. **13(4):** Nothing in Art. 13 applies to a **constitutional amendment** under Art. 368 (inserted by **24th Amendment** after *Golaknath* (गोलकनाथ 1967)).
+29. **Equality before law** = British (Dicey’s rule of law; no special privileges).
+30. **Equal protection of laws** = US (equal treatment in equal circumstances).
+31. **Intelligible differentia** — the group is distinguishable
+32. **Rational nexus** — the difference has a relation to the object of the law
+33. **Art. 361** — President / Governor: not answerable to any court for exercise of official powers; no criminal proceedings / arrest during term.
+34. **Art. 361A** — no liability for true reports of Parliament / State Legislature proceedings.
+35. **Art. 105 / 194** — parliamentary / assembly privileges (no court action for speech/vote in the House).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Art. 14 | Art. 16 | Any **person** vs public employment (**citizens**) | — |
-| Art. 15 | Art. 17 | Discrimination grounds vs **Untouchability** (absolute) | — |
-| Art. 19 | Art. 21 | Citizens + six freedoms vs **all persons** + life/liberty | — |
-| Art. 19(1)(f) | Art. 300A | Deleted FR (44th) vs legal right to property | — |
-| Art. 20 | Art. 21 | Conviction protections vs torture/privacy/livelihood | — |
-| Art. 21 | Art. 21A | Life/liberty (wide) vs RTE **6–14** only | — |
-| Art. 22 ordinary | Art. 22 PD | 24-hour magistrate vs preventive detention code | — |
-| Art. 17 | Arts. 23–24 | Equality (untouchability) vs **Exploitation** | — |
-| Art. 29 | Art. 30 | Any section (culture) vs **minorities** institutions | — |
-| Art. 27 | Fee | No **tax** for a religion vs regulatory **fee** allowed | — |
-| Art. 32 | Art. 226 | SC (FR only) vs HC (FR + any legal right) | — |
-| Prohibition | Certiorari | **Before** decision vs **after** (quash) | — |
-| Art. 43A | Art. 43B | Workers’ participation vs **co-operatives** (97th) | — |
-| Art. 48 | Art. 50 | Cattle/agriculture vs **separation of judiciary** | — |
-| Art. 358 | Art. 359 | Only Art. 19 (auto) vs other FRs by order (not 20/21) | — |
-| FR | DPSP | Justiciable (USA) vs non-justiciable (**Ireland**) | — |
 
 ---
 
----
+## ⚡ Confused Pairs & Common Examiner Traps
 
-</details>
+1. Equality before law = **14**, not 12/19/21 — 2024
+2. Property **not** in present Art. 19 — 2024
+3. Exploitation = **23–24**, not untouchability (17) or minorities (29–30) — 2024
+4. Torture **≠** Art. 20 — 2023
+5. RTE = **86th / 21A**, not 103rd (EWS) — 2022
+6. 14 = all persons; **16 and 19 = citizens**
+7. 19(1)(f) was **property**, 19(1)(g) is **profession**
+8. 15 grounds do **not** include residence (that is 16)
+9. Bharat Ratna **≠** Art. 18 title
+10. PD is **constitutional**; 44th’s 2-month Board rule is **not in force**
+11. Art. **361** = President/Governor exception to Art. 14
+12. Promotion reservation: **77th (4A)**, backlog **81st (4B)**, seniority **85th**
+13. Property removed by **44th** (→ 300A), **not** 42nd/86th
+14. 15(4) = **1st** · 15(5) = **93rd** · 15(6)/16(6) = **103rd**
+15. Art. **27** = no **tax** (fee allowed); 25 = **propagate**
+16. **29** = any section of citizens; **30** = minorities only; minority **undefined**
+17. **32** = FR only (heart & soul); **226** wider
+18. Habeas Corpus vs **private** person too; Mandamus **not** vs President/Governor
+19. Prohibition = **before**, Certiorari = **after**; Quo Warranto = **public office**
+20. **358** = only Art. 19 (war/external aggression); **359** never **20 & 21**
+21. DPSP = **Ireland**, non-justiciable (Art. 37)
+22. **43A** workers ≠ **43B** co-operatives; **50** separation ≠ **48** cattle
+23. Duties: **42nd** added 10; **86th** added 11th (51A(k)); **citizens** only
+24. Monuments = DPSP **49** (not a Duty); environment in **both** (48A + 51A(g))
+25. Right to **strike** / right to **property** are **not** FRs
 
 
 ---

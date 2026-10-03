@@ -27,7 +27,8 @@
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A wave transports **energy and momentum** from one point to another without any net transport of matter.
 2. Mechanical waves require an elastic material medium possessing **inertia and elasticity (restoring force)** for propagation.
@@ -80,9 +81,10 @@
 49. **Timbre (Quality)** is governed by the waveform and harmonic overtones, allowing the human ear to distinguish between a Sitar and a Flute playing the identical musical note at identical loudness.
 50. **Mach Number** is the ratio of object velocity to local speed of sound; Supersonic jets ($M > 1$) flying through the stratosphere emit nitrogen oxides ($\text{NO}_x$) that catalyze ozone layer depletion.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinction & Common Trap |
 | :--- | :--- | :--- |
@@ -95,7 +97,7 @@
 | **AM (Amplitude Mod.)** | **FM (Frequency Mod.)** | AM varies carrier amplitude (used in TV picture, long/medium wave radio; prone to noise). FM varies carrier frequency (used in TV audio, FM radio; superior noise immunity, wider bandwidth). |
 | **Echo** | **Reverberation** | Echo is a discrete reflection heard after $\ge 0.1\text{ s}$ ($d \ge 17.2\text{ m}$). Reverberation is a continuous persistence of sound due to rapid, multiple overlapping reflections ($t < 0.1\text{ s}$). |
 
----
+</details>
 
 ## Must-Score Master Tables
 

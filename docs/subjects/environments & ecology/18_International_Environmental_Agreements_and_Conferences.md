@@ -22,7 +22,8 @@
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Conference spine: **Stockholm 1972 → Brundtland 1987 → Rio 1992 → Johannesburg 2002 → Rio+20 2012 → SDGs and Paris 2015**.
 2. **Stockholm 1972** (स्टॉकहोम सम्मेलन) was the first UN Conference on the Human Environment (पर्यावरण). It led to **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) (Nairobi). World Environment Day (विश्व पर्यावरण दिवस) is **5 June**. The slogan fact is “Only One Earth.”
@@ -55,9 +56,10 @@
 29. Wise Use is the Ramsar philosophy. It is not the CBD’s three objectives word-for-word.
 30. Master year table worth ratta: Ramsar 1971, CITES 1973, Vienna 1985, Montreal 1987, Basel 1989, UNFCCC/CBD 1992, UNCCD 1994, Kyoto 1997, Rotterdam 1998, Stockholm POPs 2001, Nagoya 2010, Minamata 2013, New York Forests Declaration 2014, Paris 2015, Kigali 2016.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -67,7 +69,8 @@
 | **Stockholm Convention (2001)** | **Minamata Convention (2013)** | Mandates the global elimination, restriction, and unintentional release reduction of Persistent Organic Pollutants (POPs - "Dirty Dozen") vs global treaty designed to protect human health and the environment from anthropogenic emissions and releases of toxic Mercury (Hg) | स्टॉकहोम संधि (POPs उन्मूलन) / मिनामाता संधि (पारा प्रदूषण नियंत्रण) |
 | **Ramsar Convention (1971)** | **Convention on Migratory Species (CMS / Bonn 1979)** | Dedicated specifically to the ecological conservation and sustainable wise use of internationally significant wetlands and waterfowl habitats vs treaty dedicated to the conservation of terrestrial, aquatic, and avian migratory wild animal species across range states | रामसर कन्वेंशन (आर्द्रभूमि संरक्षण) / बॉन कन्वेंशन (प्रवासी प्रजाति संरक्षण) |
 | **CITES (1973)** | **Convention on Biological Diversity (CBD 1992)** | International trade treaty strictly regulating commercial import/export of endangered wild flora and fauna through Appendices I, II, III vs comprehensive framework convention covering in-situ/ex-situ conservation, sustainable use, and fair benefit-sharing | साइट्स (CITES, वन्यजीव व्यापार) / जैव विविधता संधि (CBD, समग्र संरक्षण) |
----
+
+</details>
 
 ## Must-score facts — conferences, treaty–issue map
 

@@ -30,7 +30,8 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 
 ---
 
-## Consolidated — 46 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 46 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Bretton Woods Conference (1944)** created the **IMF** and the **IBRD** (core of today’s World Bank) — popularly the **Bretton Woods twins**.
 2. **IMF** headquarters: **Washington D.C.**
@@ -79,9 +80,10 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 45. Regional groupings matter for trade corridors: ASEAN FTA track, BIMSTEC connectivity, SAARC stall vs BIMSTEC push in Indian diplomacy teaching.
 46. Topic border: trade barriers / BoP / FEMA → Topic 9; CSR / domestic regulators → Topic 11; index publishers deepen → Topic 12.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -98,6 +100,8 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 | **SAARC Kathmandu** | **BIMSTEC Dhaka** | Secretariat cities |
 | **G20** | **G7** | Major economies forum vs advanced-seven club |
 | **G20 lotus 7 petals** | **G20 member count** | Continents motif ≠ “20 petals” |
+
+</details>
 
 ## Must-score drill — twins, groupings, HQs
 

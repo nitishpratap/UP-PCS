@@ -11,84 +11,54 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 7 — Transport, Tourism Circuits, Forests, Protected Areas, Wetlands and Disaster Management</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Dudhwa National Park** in **Lakhimpur Kheri** is the **only National Park** in Uttar Pradesh (established 1977).
-2. Uttar Pradesh has **4 designated Tiger Reserves**: (1) Dudhwa TR, (2) Pilibhit TR, (3) Amangarh TR, and (4) Ranipur TR.
-3. **Ranipur Tiger Reserve** in **Chitrakoot district** was notified in **2022** as India's **53rd Tiger Reserve** and UP's 4th.
-4. **Pilibhit Tiger Reserve** won the international **TX2 Award in 2020** for doubling its wild tiger count ahead of schedule.
-5. The scenic eco-tourism spot **Chuka Beach** is located inside **Pilibhit Tiger Reserve** on the Sharda Sagar reservoir.
-6. **Amangarh Tiger Reserve (Bijnor)** served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
-7. **Chandraprabha Wildlife Sanctuary** in **Chandauli district** is the **oldest wildlife sanctuary** in UP (established in **1957**).
-8. **Hastinapur Wildlife Sanctuary** (2,073 km²) is the **largest wildlife sanctuary** in Uttar Pradesh by area.
-9. **Mahavir Swami Wildlife Sanctuary** in **Lalitpur district** (5.4 km²) is the **smallest wildlife sanctuary** in UP.
-10. The **National Chambal Sanctuary** (Agra/Etawah) is a specialized tri-state sanctuary for the conservation of the **Gharial** and **Gangetic River Dolphin**.
-11. **Katarniaghat Wildlife Sanctuary** in **Bahraich district** was established in **1975** and is famous for Gangetic dolphins.
-12. The **State Animal** of Uttar Pradesh is the **Swamp Deer (Barasingha)** (*Rucervus duvaucelii*).
-13. The **State Bird** of Uttar Pradesh is the **Sarus Crane** (*Antigone antigone*).
-14. The **State Tree** of Uttar Pradesh is the **Ashoka** (*Saraca asoca*).
-15. The **State Flower** of Uttar Pradesh is the **Palash / Dhak** (*Butea monosperma*).
-16. The **State Aquatic Animal** is the **Gangetic Dolphin** (*Platanista gangetica*).
-17. According to the India State of Forest Report (ISFR), the forest cover of Uttar Pradesh is **6.15%** of its total geographic area.
-18. The tree cover of Uttar Pradesh is **3.08%** of its total area, making the total green cover **9.23%**.
-19. **Sonbhadra district** has the highest forest cover in UP, both in absolute area (**2,528 km²**) and percentage (**35.29%**).
-20. **Bhadohi (Sant Ravidas Nagar)** has the lowest forest cover in UP (both in area: 3.71 km² and percentage: **0.37%**).
-21. Only two districts in Uttar Pradesh have more than 20% forest cover: **Sonbhadra (35.29%)** and **Chandauli (21.78%)**.
-22. The **Upper Ganga River (Brijghat to Narora)** was declared the **first Ramsar site** of Uttar Pradesh in **2005**.
-23. **Surha Tal (Jai Prakash Narayan Bird Sanctuary) in Ballia** was declared **India's 100th Ramsar Site** on 5 June 2026.
-24. **Sarsai Nawar Wetland** in **Etawah** is world-renowned for its dense congregation of vulnerable Sarus Cranes.
-25. **Sur Sarovar (Keetham Lake)** in **Agra** is a Ramsar wetland featuring a specialized Bear Rescue Centre.
-26. **Samaspur Bird Sanctuary** is a Ramsar site located in **Rae Bareli district**.
-27. **Sandi Bird Sanctuary** is a Ramsar site located in **Hardoi district**.
-28. **Parvati Arga Bird Sanctuary** is a Ramsar site located in **Gonda district**.
-29. **Saman Bird Sanctuary** is a Ramsar site located in **Mainpuri district**.
-30. **Bakhira Bird Sanctuary** is a Ramsar wetland located in **Sant Kabir Nagar district**.
-31. **Haiderpur Wetland** (Muzaffarnagar-Bijnor) was declared a Ramsar site in **December 2021**.
-32. **Patna Bird Sanctuary** is located in **Jalesar (Etah district)**.
-33. **Rudrasagar Lake** (Tripura), **Sultanpur National Park** (Haryana), and **Surinsar-Mansar** (J&K) are frequently tested Ramsar sites that are **NOT in Uttar Pradesh**.
-34. The **Yamuna Expressway** (165 km) was the first access-controlled expressway in UP, connecting Greater Noida to Agra.
-35. The **Agra-Lucknow Expressway** (302 km) features a dedicated 3.3 km emergency airstrip in Unnao district.
-36. The **Purvanchal Expressway** (340.8 km) connects **Lucknow (Chand Saray) to Ghazipur (Haidariya)** via Mau (does NOT pass through Basti).
-37. The **Bundelkhand Expressway** (296 km) connects **Chitrakoot (Bharatkoop) to Etawah (Kudrail)**.
-38. The **Ganga Expressway** (594 km) connects **Meerut to Prayagraj**, traversing 12 districts.
-39. Uttar Pradesh has **5 International Airports**: Lucknow, Varanasi, Kushinagar, Ayodhya Dham, and Noida (Jewar).
-40. **Kushinagar Airport** was upgraded to international status on **24 June 2020** to facilitate Buddhist pilgrimage.
-41. **Noida International Airport at Jewar** is located in **Gautam Buddha Nagar district**.
-42. The headquarters of the **North Eastern Railway (NER)** is located at **Gorakhpur**.
-43. The headquarters of the **North Central Railway (NCR)** is located at **Prayagraj (Subedarganj)**.
-44. **Gorakhpur Railway Station** features one of the world's longest railway platforms at **1,366.3 metres**.
-45. **National Waterway 1 (NW-1)** operates on the **Ganga River** connecting **Prayagraj to Haldia (1,620 km)**.
-46. The country's first inland **Multimodal Freight Terminal** on NW-1 was inaugurated at **Ralhupur, Varanasi** in November 2018.
-47. Uttar Pradesh has operational metro transit systems in **6 cities**: Lucknow, Kanpur, Agra, Noida-Greater Noida, Ghaziabad, and Meerut.
-48. The **Taj Trapezium Zone (TTZ)** covers an area of **10,400 km²** around the Taj Mahal to prevent air pollution damage.
-49. The **Uttar Pradesh State Disaster Management Authority (UPSDMA)** is headed by the **Chief Minister**.
-50. **Eastern UP (Terai/Purvanchal)** is highly prone to **recurrent river floods**, while **Bundelkhand** is prone to **chronic agricultural drought**.
+2. **Ranipur Tiger Reserve** in **Chitrakoot district** was notified in **2022** as India's **53rd Tiger Reserve** and UP's 4th.
+3. **Pilibhit Tiger Reserve** won the international **TX2 Award in 2020** for doubling its wild tiger count ahead of schedule.
+4. **Amangarh Tiger Reserve (Bijnor)** served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
+5. **Chandraprabha Wildlife Sanctuary** in **Chandauli district** is the **oldest wildlife sanctuary** in UP (established in **1957**).
+6. **Hastinapur Wildlife Sanctuary** (2,073 km²) is the **largest wildlife sanctuary** in Uttar Pradesh by area.
+7. **Mahavir Swami Wildlife Sanctuary** in **Lalitpur district** (5.4 km²) is the **smallest wildlife sanctuary** in UP.
+8. **Katarniaghat Wildlife Sanctuary** in **Bahraich district** was established in **1975** and is famous for Gangetic dolphins.
+9. **Sonbhadra district** has the highest forest cover in UP, both in absolute area (**2,528 km²**) and percentage (**35.29%**).
+10. **Bhadohi (Sant Ravidas Nagar)** has the lowest forest cover in UP (both in area: 3.71 km² and percentage: **0.37%**).
+11. **Surha Tal (Jai Prakash Narayan Bird Sanctuary) in Ballia** was declared **India's 100th Ramsar Site** on 5 June 2026.
+12. **Sarsai Nawar Wetland** in **Etawah** is world-renowned for its dense congregation of vulnerable Sarus Cranes.
+13. **Sur Sarovar (Keetham Lake)** in **Agra** is a Ramsar wetland featuring a specialized Bear Rescue Centre.
+14. **Samaspur Bird Sanctuary** is a Ramsar site located in **Rae Bareli district**.
+15. **Sandi Bird Sanctuary** is a Ramsar site located in **Hardoi district**.
+16. **Parvati Arga Bird Sanctuary** is a Ramsar site located in **Gonda district**.
+17. **Saman Bird Sanctuary** is a Ramsar site located in **Mainpuri district**.
+18. **Bakhira Bird Sanctuary** is a Ramsar wetland located in **Sant Kabir Nagar district**.
+19. **Haiderpur Wetland** (Muzaffarnagar-Bijnor) was declared a Ramsar site in **December 2021**.
+20. **Patna Bird Sanctuary** is located in **Jalesar (Etah district)**.
+21. **Rudrasagar Lake** (Tripura), **Sultanpur National Park** (Haryana), and **Surinsar-Mansar** (J&K) are frequently tested Ramsar sites that are **NOT in Uttar Pradesh**.
+22. **Kushinagar Airport** was upgraded to international status on **24 June 2020** to facilitate Buddhist pilgrimage.
+23. **Noida International Airport at Jewar** is located in **Gautam Buddha Nagar district**.
+24. **Gorakhpur Railway Station** features one of the world's longest railway platforms at **1,366.3 metres**.
+25. **National Waterway 1 (NW-1)** operates on the **Ganga River** connecting **Prayagraj to Haldia (1,620 km)**.
+26. **Eastern UP (Terai/Purvanchal)** is highly prone to **recurrent river floods**, while **Bundelkhand** is prone to **chronic agricultural drought**.
+27. **Total Recorded Forest Area (RFA)**: 17,384 km² (approx. 7.22% of UP's geographical area).
+28. **Actual Forest Cover (ISFR Data)**:
+29. **Tree Cover (Trees outside forest)**: **7,421 km²** (**3.08% of total area**).
+30. **Total Green Cover (Forest + Tree Cover)**: **22,239 km²** (**9.23% of total area**).
+31. **Dudhwa Tiger Reserve (Lakhimpur Kheri & Bahraich)**:
+32. **Pilibhit Tiger Reserve (Pilibhit)**:
+33. **Amangarh Tiger Reserve (Bijnor)**:
+34. **Ranipur Tiger Reserve (Chitrakoot)**:
+35. **Uttar Pradesh Elephant Reserve (UPER)**: Notified in **2009**, spanning 744 km² across Saharanpur and Bijnor (Shivalik Elephant Reserve).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
-| :--- | :--- | :--- |
-| **Only National Park (Dudhwa)** | **Tiger Reserves (4 TRs)** | Dudhwa is the **only National Park**; UP has **4 Tiger Reserves** (Dudhwa, Pilibhit, Amangarh, Ranipur). |
-| **Katarniaghat Sanctuary (Bahraich)** | **Kishanpur Sanctuary (Lakhimpur)** | Katarniaghat is in **Bahraich (est. 1975)**; Kishanpur is in **Lakhimpur Kheri**. Both are part of Dudhwa TR. |
-| **Chandraprabha (Chandauli)** | **Kaimoor (Mirzapur/Sonbhadra)** | Chandraprabha (est. 1957) is UP's **oldest WLS in Chandauli**; Kaimoor spans **Mirzapur and Sonbhadra**. |
-| **Hastinapur WLS (Largest - 2073 km²)** | **Mahavir Swami WLS (Smallest - 5.4 km²)** | Hastinapur is the **largest sanctuary** (5 districts); Mahavir Swami is the **smallest** (Lalitpur). |
-| **Ramsar Sites IN Uttar Pradesh** | **Ramsar Sites NOT in Uttar Pradesh** | Sarsai Nawar, Samaspur, Sandi, Sur Sarovar, Bakhira are **IN UP**; Rudrasagar (Tripura), Sultanpur (Haryana) are **NOT in UP**. |
-| **Surha Tal Ramsar (Ballia)** | **Sur Sarovar Ramsar (Agra)** | Surha Tal (JP Narayan) is in **Ballia** (India's 100th Ramsar); Sur Sarovar (Keetham) is in **Agra**. |
-| **Purvanchal Exp (via Mau)** | **Purvanchal Exp (via Basti - FALSE)** | Purvanchal Expressway passes through **Mau and Ghazipur**; it does **NOT** pass through Basti. |
-| **NER Zonal HQ (Gorakhpur)** | **NCR Zonal HQ (Prayagraj)** | North Eastern Railway is at **Gorakhpur**; North Central Railway is at **Prayagraj**. |
-| **Chuka Beach (Pilibhit TR)** | **Dudhwa National Park** | Chuka Beach is an eco-tourism destination inside **Pilibhit TR**, NOT in Dudhwa. |
-| **Forest Cover (6.15%)** | **Total Green Cover (9.23%)** | Actual forest cover is **6.15%**; Forest + Tree cover combined is **9.23%**. |
-| **Highest Forest % (Sonbhadra - 35.3%)** | **Lowest Forest % (Bhadohi - 0.37%)** | Sonbhadra has the **highest forest proportion**; Bhadohi has the **lowest**. |
-| **HRIDAY Cities (Varanasi & Mathura)** | **Smart Cities (10 Central Cities)** | HRIDAY covered ONLY **Varanasi and Mathura**; Central Smart Cities covered **10 cities** (Ghaziabad excluded). |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 
 
 ---
@@ -231,8 +201,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Uttar applies only to union territories and not state jurisdictions.
-B. Uttar Pradesh has 4 designated Tiger Reserves: (1) Dudhwa TR, (2) Pilibhit TR, (3) Amangarh TR, and (4) Ranipur TR.
+A. Contrary to standard doctrine, Ranipur applies only to union territories and not state jurisdictions.
+B. Ranipur Tiger Reserve in Chitrakoot district was notified in 2022 as India's 53rd Tiger Reserve and UP's 4th.
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -242,7 +212,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Uttar Pradesh has **4 designated Tiger Reserves**: (1) Dudhwa TR, (2) Pilibhit TR, (3) Amangarh TR, and (4) Ranipur TR.
+- **Key Exam Association:** **Ranipur Tiger Reserve** in **Chitrakoot district** was notified in **2022** as India's **53rd Tiger Reserve** and UP's 4th.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -250,9 +220,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Ranipur applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Pilibhit applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. Ranipur Tiger Reserve in Chitrakoot district was notified in 2022 as India's 53rd Tiger Reserve and UP's 4th.
+C. Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling its wild tiger count ahead of schedule.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -261,7 +231,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Ranipur Tiger Reserve** in **Chitrakoot district** was notified in **2022** as India's **53rd Tiger Reserve** and UP's 4th.
+- **Key Exam Association:** **Pilibhit Tiger Reserve** won the international **TX2 Award in 2020** for doubling its wild tiger count ahead of schedule.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -269,10 +239,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Pilibhit applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Amangarh applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling its wild tiger count ahead of schedule.
+D. Amangarh Tiger Reserve (Bijnor) served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
 
 <details>
 <summary>Show answer</summary>
@@ -280,7 +250,7 @@ D. Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling i
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Pilibhit Tiger Reserve** won the international **TX2 Award in 2020** for doubling its wild tiger count ahead of schedule.
+- **Key Exam Association:** **Amangarh Tiger Reserve (Bijnor)** served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -288,7 +258,7 @@ D. Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling i
 
 Which of the following is correct regarding this topic?
 
-A. The scenic eco-tourism spot Chuka Beach is located inside Pilibhit Tiger Reserve on the Sharda Sagar reservoir.
+A. Chandraprabha Wildlife Sanctuary in Chandauli district is the oldest wildlife sanctuary in UP (established in 1957).
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -299,7 +269,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The scenic eco-tourism spot **Chuka Beach** is located inside **Pilibhit Tiger Reserve** on the Sharda Sagar reservoir.
+- **Key Exam Association:** **Chandraprabha Wildlife Sanctuary** in **Chandauli district** is the **oldest wildlife sanctuary** in UP (established in **1957**).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -307,8 +277,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Amangarh applies only to union territories and not state jurisdictions.
-B. Amangarh Tiger Reserve (Bijnor) served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
+A. Contrary to standard doctrine, Hastinapur applies only to union territories and not state jurisdictions.
+B. Hastinapur Wildlife Sanctuary (2,073 km²) is the largest wildlife sanctuary in Uttar Pradesh by area.
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -318,7 +288,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Amangarh Tiger Reserve (Bijnor)** served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
+- **Key Exam Association:** **Hastinapur Wildlife Sanctuary** (2,073 km²) is the **largest wildlife sanctuary** in Uttar Pradesh by area.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -326,9 +296,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Chandraprabha applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Mahavir applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. Chandraprabha Wildlife Sanctuary in Chandauli district is the oldest wildlife sanctuary in UP (established in 1957).
+C. Mahavir Swami Wildlife Sanctuary in Lalitpur district (5.4 km²) is the smallest wildlife sanctuary in UP.
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -337,7 +307,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Chandraprabha Wildlife Sanctuary** in **Chandauli district** is the **oldest wildlife sanctuary** in UP (established in **1957**).
+- **Key Exam Association:** **Mahavir Swami Wildlife Sanctuary** in **Lalitpur district** (5.4 km²) is the **smallest wildlife sanctuary** in UP.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -345,10 +315,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Hastinapur applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Katarniaghat applies only to union territories and not state jurisdictions.
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. Hastinapur Wildlife Sanctuary (2,073 km²) is the largest wildlife sanctuary in Uttar Pradesh by area.
+D. Katarniaghat Wildlife Sanctuary in Bahraich district was established in 1975 and is famous for Gangetic dolphins.
 
 <details>
 <summary>Show answer</summary>
@@ -356,6 +326,6 @@ D. Hastinapur Wildlife Sanctuary (2,073 km²) is the largest wildlife sanctuary 
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Hastinapur Wildlife Sanctuary** (2,073 km²) is the **largest wildlife sanctuary** in Uttar Pradesh by area.
+- **Key Exam Association:** **Katarniaghat Wildlife Sanctuary** in **Bahraich district** was established in **1975** and is famous for Gangetic dolphins.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

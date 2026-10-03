@@ -11,51 +11,57 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chronology — Year-Wise Major Events (Medieval India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Arab foothold: **Muhammad bin Qasim in Sind, 712 CE**.
-2. Early medieval north: **Tripartite struggle** — Pala, Pratihara, Rashtrakuta for Kannauj.
-3. Ghaznavid peak raid: **Somnath c. 1025–26** under Mahmud of Ghazni.
-4. Ghurid conquest: **Tarain I 1191** (Prithviraj wins) → **Tarain II 1192** (Ghori wins).
-5. Sultanate dynasties: **Slave → Khalji → Tughlaq → Sayyid → Lodi**.
-6. Slave anchors: **Aibak 1206 → Iltutmish → Razia → Balban**.
-7. Khalji peak: **Alauddin Khalji 1296–1316** — markets, Chittor, Deccan (Malik Kafur).
-8. Tughlaq traps: **Muhammad bin Tughlaq** experiments; **Firoz Shah Tughlaq** canals / taxes.
-9. **1398** — Timur sacks Delhi.
-10. South: **Vijayanagara 1336**; **Bahmani 1347**; **Talikota 1565**.
-11. **1526** — First Battle of Panipat; Babur founds Mughal rule.
-12. **1539 Chausa / 1540 Kannauj** — Sher Shah defeats Humayun.
-13. **1555** Humayun returns; **1556** Second Battle of Panipat.
-14. Akbar: **Haldighati 1576**; **Din-i-Ilahi 1582**; Fatehpur Sikri phase.
-15. Jahangir **1605**; Shah Jahan **1628**; Aurangzeb **1658**.
-16. **1674** — Shivaji’s coronation at Raigad.
-17. **1679** — Aurangzeb reimposes jizya.
-18. **1686–87** — Bijapur and Golconda annexed.
-19. **1699** — Khalsa founded by Guru Gobind Singh.
-20. **1707** — Death of Aurangzeb.
-21. Do not swap **Tarain I / II** or **Panipat I / II / III** (III is Modern 1761).
-22. Do not swap **Shivaji coronation 1674** with **Khalsa 1699**.
+1. **1398** — Timur sacks Delhi.
+2. **1526** — First Battle of Panipat; Babur founds Mughal rule.
+3. **1539 Chausa / 1540 Kannauj** — Sher Shah defeats Humayun.
+4. **1555** Humayun returns; **1556** Second Battle of Panipat.
+5. **1674** — Shivaji’s coronation at Raigad.
+6. **1679** — Aurangzeb reimposes jizya.
+7. **1686–87** — Bijapur and Golconda annexed.
+8. **1699** — Khalsa founded by Guru Gobind Singh.
+9. **1707** — Death of Aurangzeb.
+10. **2. Slave (Mamluk / Ilbari) dynasty (1206–1290):** Founded by Qutbuddin Aibak upon the death of Muhammad Ghori; ruled for 84 years.
+11. **4. Khalji dynasty (1290–1320):** Founded by Jalaluddin Khalji through the "Khalji Revolution", ending Turkic racial exclusivity; famous for Alauddin Khalji's market reforms and southern conquests.
+12. **1. Tughlaq dynasty (1320–1414):** Founded by Ghiyasuddin Tughlaq; witnessed the vast territorial expanse and radical experiments of Muhammad bin Tughlaq, followed by Firoz Shah Tughlaq.
+13. **3. Lodi dynasty (1451–1526):** Founded by Bahlol Lodi as the first Afghan dynasty in India; ended at the First Battle of Panipat (1526).
+14. **2. First Battle of Tarain (1191):** Rajput confederacy led by Prithviraj Chauhan (Chahamana of Ajmer/Delhi) decisively defeated Mu'izz al-Din Muhammad Ghori.
+15. **1. Second Battle of Tarain (1192):** Muhammad Ghori returned with superior cavalry tactics and defeated Prithviraj Chauhan, permanently opening the Gangetic plains to Turkish conquest.
+16. **3. Foundation of the Delhi Sultanate (1206):** Following the assassination of Muhammad Ghori, his Turkish viceroy Qutbuddin Aibak declared independence at Lahore, establishing the Sultanate.
+17. **4. Timur's sack of Delhi (1398):** The Central Asian conqueror Amir Timur invaded India during the reign of Nasir-ud-din Mahmud Tughlaq, pillaging Delhi and dealing a fatal blow to the Tughlaq dynasty.
+18. **2. First Battle of Panipat (21 April 1526):** Babur defeated Ibrahim Lodi, establishing the Mughal Empire in northern India.
+19. **1. Second Battle of Panipat (5 November 1556):** Young Akbar (commanded by Bairam Khan) defeated Hemu (Hemchandra Vikramaditya), reclaiming Delhi and Agra for the Mughals.
+20. **3. Battle of Haldighati (18 June 1576):** Mughal army led by Man Singh of Amber and Asaf Khan fought Maharana Pratap of Mewar.
+21. **4. Coronation of Shivaji at Raigad (6 June 1674):** Formal Vedic coronation of Shivaji as Chhatrapati by Gaga Bhatt of Varanasi.
+22. **2. Battle of Chausa (June 1539):** Sher Khan routed Humayun's Mughal army on the banks of the Ganges, assuming the royal title *Sher Shah*.
+23. **3. Sher Shah's administrative peak (1540–1545):** After defeating Humayun again at Kannauj (Bilgram, May 1540), Sher Shah established the Second Afghan Empire, building the Grand Trunk Road, introducing the silver *Rupiya*, and reforming the revenue system before his death at Kalinjar (1545).
+24. **1. Humayun recovers Delhi (July 1555):** Aided by Safavid Persian troops, Humayun defeated Sikandar Suri at the Battle of Sirhind (June 1555) and reoccupied Delhi.
+25. **4. Second Battle of Panipat (November 1556):** Fought months after Humayun's death, establishing Akbar's reign against Hemu.
+26. **2. Second Battle of Panipat (1556):** Inaugurated Akbar's reign.
+27. **4. Construction of Fatehpur Sikri and Ibadat Khana (1571–1575):** Akbar founded Fatehpur Sikri in 1571 as his imperial capital and established the **Ibadat Khana** (Hall of Worship) in **1575** for inter-faith theological debates.
+28. **3. Battle of Haldighati (1576):** Fought between Mughal forces and Maharana Pratap.
+29. **1. Promulgation of Din-i-Ilahi (1582):** Following the *Mahzar* (Infallibility Decree) of 1579, Akbar promulgated his syncretic ethical code **Din-i-Ilahi** (Tauhid-i-Ilahi) in **1582**.
+30. **3. Coronation of Shivaji (1674):** Celebrated at Raigad Fort on 6 June 1674.
+31. **4. Reimposition of Jizya by Aurangzeb (April 1679):** Reimposed religious poll tax on non-Muslim subjects, 115 years after Akbar had abolished it in 1564.
+32. **2. Foundation of the Khalsa (13 April 1699):** Instituted by Guru Gobind Singh at Anandpur Sahib on Baisakhi day.
+33. **1. Death of Aurangzeb (3 March 1707):** Passed away at Ahmadnagar in the Deccan after a 49-year reign, inaugurating the decline of the Mughal Empire.
+34. **2. Foundation of Vijayanagara Empire (1336):** Founded by Harihara I and Bukka I of the Sangama dynasty on the banks of the Tungabhadra during the reign of Muhammad bin Tughlaq.
+35. **3. Foundation of Bahmani Kingdom (1347):** Established by Alauddin Hasan Bahman Shah (Hasan Gangu) at Gulbarga, revolting against Muhammad bin Tughlaq.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Tarain 1191 | Tarain 1192 | Prithviraj victory vs Ghori’s decisive win | तराइन प्रथम / द्वितीय |
-| Panipat 1526 | Panipat 1556 | Babur vs Ibrahim Lodi / Akbar–Bairam vs Hemu | पानीपत प्रथम / द्वितीय |
-| Babur | Humayun | Founder vs son who lost and regained Delhi | बाबर / हुमायूँ |
-| Sher Shah | Islam Shah | Sur founder vs successor | शेरशाह / इस्लाम शाह |
-| Akbar | Aurangzeb | Sulh-i-Kul / expansion vs orthodoxy / Deccan drain | अकबर / औरंगज़ेब |
-| Shivaji 1674 | Khalsa 1699 | Maratha kingship vs Sikh Khalsa | शिवाजी / खालसा |
-| Vijayanagara 1336 | Bahmani 1347 | Hindu southern empire vs Deccan sultanate | विजयनगर / बहमनी |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+1. **Tarain I = Ghori wins** → Prithviraj wins 1191; Ghori wins 1192.
+2. **Panipat I = Akbar** → Babur 1526; Akbar’s is Panipat II 1556.
+3. **Sher Shah after Akbar** → Sher Shah defeats Humayun before Akbar’s consolidation.
+4. **Shivaji crowned by Aurangzeb** → independent coronation at Raigad, 1674.
+5. **Khalsa founded by Guru Nanak** → Guru Gobind Singh, 1699.
+6. **Talikota = Mughal victory** → Deccan Sultanates vs Vijayanagara.
+7. **Third Battle of Panipat = Medieval** → **1761**, Modern India.
+8. **Iltutmish founded Sultanate** → **Aibak 1206**; Iltutmish consolidated.
 
 
 ---

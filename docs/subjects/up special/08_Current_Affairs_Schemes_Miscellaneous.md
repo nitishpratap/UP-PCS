@@ -10,7 +10,8 @@
 |---|---|---|
 | Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Uttar Pradesh Diwas (UP Day)** is officially celebrated every year on **24 January**.
 2. On **24 January 1950**, the United Provinces was officially renamed as **Uttar Pradesh**.
@@ -63,9 +64,10 @@
 49. The **Ramnagar Ramlila of Varanasi** (2008) and **Kumbh Mela of Prayagraj** (2017) are inscribed on **UNESCO's Intangible Cultural Heritage List**.
 50. North India's first hyperscale data centre, **Yotta D1**, was inaugurated at **Greater Noida** in 2022.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@
 | **Nivesh Mitra (Single Window)** | **Nivesh Sarathi (MoU Monitoring)** | Nivesh Mitra is for **Statutory Approvals**; Nivesh Sarathi is for **tracking Investment MoUs**. |
 | **Peetal Nagari (Moradabad)** | **Taala Nagari (Aligarh)** | Moradabad is **Brassware**; Aligarh is **Locks & Hardware**. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

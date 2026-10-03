@@ -21,7 +21,8 @@ National Parks of Uttar Pradesh (उत्तर प्रदेश) | Wildlife 
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Uttar Pradesh has **one National Park — Dudhwa (दुधवा)** — in **Lakhimpur Kheri** on the Indo-Nepal Terai (तराई).
 2. Dudhwa moved sanctuary (**1958**) → National Park (**1977**) → core of **Dudhwa Tiger Reserve (1987)** with Kishanpur and Katarniaghat. Rhino rehabilitation began **1984** (later phases including ~**2018**).
@@ -58,9 +59,10 @@ National Parks of Uttar Pradesh (उत्तर प्रदेश) | Wildlife 
 33. Early world peers: **Royal National Park, Australia (1879)**; **Banff NP, Canada (1885)**.
 34. Continent icons: **Serengeti (Tanzania)**, **Kruger (South Africa)**, **Kakadu (Australia)**, **Galápagos (Ecuador)**, plus USA icons Yosemite / Everglades / Grand Canyon.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -71,7 +73,8 @@ National Parks of Uttar Pradesh (उत्तर प्रदेश) | Wildlife 
 | **Keibul Lamjao NP** | **Khangchendzonga NP** | World's only floating park on Loktak Lake, Manipur (Sangai deer) vs India's only Mixed World Heritage Site in Sikkim | केइबुल लामजाओ (मणिपुर) / कंचनजंगा (सिक्किम) |
 | **Hemis National Park** | **South Button Island NP** | India's largest National Park (Ladakh, snow leopard) vs India's smallest National Park (Andaman & Nicobar, 0.03 km²) | हेमिस (लद्दाख, सबसे बड़ा) / साउथ बटन (अंडमान, सबसे छोटा) |
 | **Biosphere Reserve Core** | **National Park** | Untouched strictly protected sanctuary within UNESCO MAB zoning vs statutory strictly protected area under Wildlife Protection Act, 1972 | बायोस्फीयर कोर क्षेत्र / राष्ट्रीय उद्यान |
----
+
+</details>
 
 ## Must-score facts — UP PAs, firsts, marine
 

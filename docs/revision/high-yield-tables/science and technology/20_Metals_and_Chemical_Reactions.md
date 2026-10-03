@@ -11,9 +11,19 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Chemistry Topic 3 — Metals, Non-Metals and Chemical Reactions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (2024–2026)
+
+| Year | Event | Core Concept & Must-Score Significance |
+|------|--------------|-----------------------------------|
+| **2025–2026** | **Critical Minerals Mission & Lithium Reserves** | Geological Survey of India (GSI) exploration of **Lithium** reserves in Reasi (Jammu & Kashmir) and Degana (Rajasthan). Lithium ($Li$, $Z=3$) is the lightest metal and lowest-density solid element ($0.534\text{ g/cm}^3$), with the highest negative standard reduction potential ($-3.04\text{ V}$), making it the bedrock of EV lithium-ion batteries. |
+| **2024** | **UPPCS Prelims 2024** | Question on **German Silver composition**: Highlighted the recurring trap that German Silver contains **$0\%\text{ Silver}$** ($Cu \approx 50\%, Zn \approx 30\%, Ni \approx 20\%$). Named solely for its silvery-white metallic luster. |
+| **2023** | **Noble Prize in Chemistry & Carbon Materials** | Advancements in **Graphene** (single atomic layer of $sp^2$ carbon) and Carbon Nanotubes (CNTs) for supercapacitors and aerospace composites: Graphene exhibits ballistic electrical conductivity and tensile strength $>100$ times higher than structural steel. |
+| **2022** | **UPPCS Prelims 2022** | Core thermodynamic trap: **Graphite** is the thermodynamically most stable allotropic form of carbon at standard temperature and pressure ($298.15\text{ K}, 1\text{ bar}$), with standard enthalpy of formation $\Delta_f H^\circ = 0\text{ kJ/mol}$ (Diamond has $\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
+| **2020** | **UPPCS Prelims 2020** | Characteristic matching of metals: Sodium (soft, cut with a knife), Mercury (liquid metal), Silver (highest electrical conductivity), and Lead (poorest thermal conductor among common commercial metals). |
+
+---
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -25,22 +35,6 @@ hide:
 | **Amalgam vs. Standard Alloy** | **Amalgam**: Alloy that strictly contains **Mercury ($Hg$)** as a major constituent liquid metal. | **Standard Alloy**: Solid or liquid mixture of two or more metals containing no mercury. | **Mercury Mandate**: Any alloy with mercury is an amalgam (dental amalgam $Ag-Sn-Hg$). Non-mercury alloys cannot be called amalgams. |
 | **Oxidizing Agent vs. Reducing Agent** | **Oxidizing Agent**: Causes oxidation of other species; **gains electrons** and is **itself reduced** ($e^-$ acceptor). | **Reducing Agent**: Causes reduction of other species; **loses electrons** and is **itself oxidized** ($e^-$ donor). | **Direction of Electron Flow**: Oxidizing agent takes electrons (oxidation state decreases); Reducing agent gives electrons (oxidation state increases). |
 | **German Silver vs. Sterling Silver** | **German Silver**: $Cu + Zn + Ni$. Contains **$0\%$ elemental silver**. | **Sterling Silver**: Precious alloy of **$92.5\%\text{ pure Silver } (Ag) + 7.5\%\text{ Copper } (Cu)$**. | **Silver Content**: Sterling Silver is genuine precious silver ($925$ hallmark); German Silver contains zero silver atoms. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (2024–2026)
-
-| Year | Event | Core Concept & Must-Score Significance |
-|------|--------------|-----------------------------------|
-| **2025–2026** | **Critical Minerals Mission & Lithium Reserves** | Geological Survey of India (GSI) exploration of **Lithium** reserves in Reasi (Jammu & Kashmir) and Degana (Rajasthan). Lithium ($Li$, $Z=3$) is the lightest metal and lowest-density solid element ($0.534\text{ g/cm}^3$), with the highest negative standard reduction potential ($-3.04\text{ V}$), making it the bedrock of EV lithium-ion batteries. |
-| **2024** | **UPPCS Prelims 2024** | Question on **German Silver composition**: Highlighted the recurring trap that German Silver contains **$0\%\text{ Silver}$** ($Cu \approx 50\%, Zn \approx 30\%, Ni \approx 20\%$). Named solely for its silvery-white metallic luster. |
-| **2023** | **Noble Prize in Chemistry & Carbon Materials** | Advancements in **Graphene** (single atomic layer of $sp^2$ carbon) and Carbon Nanotubes (CNTs) for supercapacitors and aerospace composites: Graphene exhibits ballistic electrical conductivity and tensile strength $>100$ times higher than structural steel. |
-| **2022** | **UPPCS Prelims 2022** | Core thermodynamic trap: **Graphite** is the thermodynamically most stable allotropic form of carbon at standard temperature and pressure ($298.15\text{ K}, 1\text{ bar}$), with standard enthalpy of formation $\Delta_f H^\circ = 0\text{ kJ/mol}$ (Diamond has $\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
-| **2020** | **UPPCS Prelims 2020** | Characteristic matching of metals: Sodium (soft, cut with a knife), Mercury (liquid metal), Silver (highest electrical conductivity), and Lead (poorest thermal conductor among common commercial metals). |
 
 ---
 
@@ -192,7 +186,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Metals are electropositive elements that readily donate valence electrons to form positive cations ($M \to M^{n+} + n e^-$).
 - **Exam Anchor:** Gold ($Au$) is the most malleable and most ductile metal known: a single gram of gold can be drawn into a microscopic wire over $2\text{ kilometers}$ long or beaten into gold leaf only $0.00001\text{ mm}$ thick.
@@ -202,8 +196,6 @@ hide:
 - **Exam Anchor:** Gallium ($Ga$, m.p. $29.76^\circ\text{C}$) and Caesium ($Cs$, m.p. $28.44^\circ\text{C}$) are low-melting metals that liquefy directly in the palm of a human hand.
 - **Exam Anchor:** Osmium ($Os$, density $22.59\text{ g/cm}^3$) is the densest naturally occurring element, closely followed by Iridium ($Ir$, $22.56\text{ g/cm}^3$) and Platinum ($Pt$, $21.45\text{ g/cm}^3$).
 - **Exam Anchor:** Lithium ($Li$, density $0.534\text{ g/cm}^3$) is the lightest metal and lowest-density solid element; it floats easily on water and paraffin oil.
-
-</details>
 
 ---
 

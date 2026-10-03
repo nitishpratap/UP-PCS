@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 2 — Turkish Invasions & Delhi Sultanate (दिल्ली सल्तनत)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|---|------------|-------|
@@ -44,11 +42,7 @@ hide:
 | Sikandar Lodi | Ibrahim | **Agra** builder vs **Panipat 1526** last Sultan | सिकंदर / इब्राहिम |
 | chakla | Sarkar | Between Subah and Pargana vs **Mughal** term trap | चकला / सरकार |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Battle ↔ year
 
@@ -294,9 +288,8 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** In 712, Arab Muhammad bin Qasim took Sindh from Dahir (Chachnama; capital Arod); this was an Indus (सिंधु) foothold, not Gangetic conquest.
 - **Exam Anchor:** Sind 712 Cause–Course–Result: Arab push for Indus ports → Qasim took Debal and killed Dahir → Multan–Sindh foothold only, no Gangetic empire.
 - **Exam Anchor:** Alptigin founded the Ghaznavid (गज़नवी) (Yamini) dynasty at Ghazni; Mahmud (998) led about 17 raids, plundered Somnath (सोमनाथ) under Bhimdev I, and usually raided and withdrew.
 - **Exam Anchor:** Somnath ~1025/26 Cause–Course–Result: temple plunder prestige → Mahmud stormed the shrine → Bhimdev I later rebuilt; no lasting Gujarat annexation.
@@ -304,8 +297,7 @@ hide:
 - **Exam Anchor:** Muhammad Ghori practised territorial conquest — governors, garrisons, and coinage — unlike Mahmud’s raid-and-return pattern. His first defeat in India was near Mount Abu (1178) by Naika Devi (नायका देवी) (regent for Mularaja II / Bhimdev II).
 - **Exam Anchor:** First Tarain (1191) Cause–Course–Result: Ghori sought the Delhi–Ajmer corridor → Prithviraj (पृथ्वीराज) broke the Ghurid left and Ghori fled wounded → no pursuit, so the 1192 rematch followed.
 - **Exam Anchor:** Second Tarain (1192) Cause–Course–Result: Ghori returned stronger → feigned retreat and archery captured Prithviraj near Sirsa → Ajmer–Delhi fell and Turkish garrisons stayed (unlike Mahmud’s raids).
-
-</details>
+- **Exam Anchor:** Chandawar (1194) Cause–Course–Result: after Tarain, Kannauj (कन्नौज) still blocked the upper Ganga → Ghori killed Jay Chandra near Firozabad (Yamuna (यमुना)) → the upper Ganga valley opened to Ghurid agents.
 
 ---
 

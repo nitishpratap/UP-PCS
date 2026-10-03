@@ -11,55 +11,50 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 17 — Environmental Laws & Policies</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
-2. **Article 48A** (DPSP (राज्य के नीति निदेशक तत्व)) directs the State to protect the environment (पर्यावरण). **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
-3. **Article 21** (अनुच्छेद 21) has been read to include a healthy environment. **Article 48** is about agriculture and cattle — it is **not** the environment article (**48A** is).
-4. The **Environment (Protection) Act, 1986** is the post-Bhopal umbrella law under **Article 253**. Section **3** powers support EIA, CRZ, ESZ, **GEAC**, and **CGWA**. It **supplements** Water and Air Acts; it does not repeal them.
-5. EIA Notification and related clearances flow from **EPA**, not from the Water Act.
-6. The **Wildlife (Protection) Act, 1972** uses **six** Schedules. Schedules **I–IV** protect animals; Schedule **V** is vermin; Schedule **VI** covers plants. **Schedule I** is the highest protection; Schedule **V** animals may be hunted as vermin.
-7. Under WPA, a **National Park** (Section **35**) is stricter than a **Sanctuary** (Section **18**). Tiger Reserves rest on Section **38V** (2006 amendment path).
-8. The **Forest (Conservation) Act, 1980** requires prior **Central** approval before diverting forest land. CAMPA and NPV sit in this clearance world.
-9. The **Forest Rights Act, 2006** recognises rights of Scheduled Tribes and Other Traditional Forest Dwellers. Individual forest rights are capped around **4 hectares**, with a cutoff of **13 December 2005**, and recognition (मान्यता) begins at the **Gram Sabha** (ग्राम सभा).
-10. **FCA** controls **diversion** of forest land. **FRA** recognises **rights** of forest dwellers. Do not treat them as one Act.
-11. The **Biological Diversity Act, 2002** implements the CBD through **NBA** (national), **SBB** (state), and **BMC** (local) with People’s Biodiversity Registers.
-12. The **Water Act, 1974** created **CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड)/SPCB** and the consent regime. The **Air Act, 1981** covers air pollution and NAAQS. Water is **1974**; Air is **1981** — do not reverse the years.
-13. Industry **consent** (CTE/CTO) is under Water/Air Acts via **SPCB**. **Environmental Clearance** is under EPA/EIA via **MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय)/SEIAA**. Forest clearance is under **FCA** via MoEFCC.
-14. The **NGT Act, 2010** creates the green tribunal for environmental appeals and compensation, with a six-month disposal target.
-15. National Forest Policy **1952** was revenue-leaning. Later practice follows National Forest Policy **1988** targets of about **33%** forest cover (वन आवरण) nationally and **66%** in hills.
-16. EPA is **1986**, not 1972. WPA is **1972**, not 1986. Mixing those years is a standard trap.
-17. Schedule **V** under WPA is **not** the highest protection tier — Schedule **I** is.
-18. Consent is not EC, and EC is not forest clearance. Keep the three tools on separate legal tracks.
-19. FRA’s nodal line is tribal (आदिवासी) forest rights, not MoEFCC forest diversion under FCA.
-20. BDA is about biodiversity access and benefit-sharing institutions — not the same as WPA schedules or NGT appeals.
-21. Article **48A** binds the State as a Directive Principle; **51A(g)** binds the citizen as a duty. Both environment hooks sit beside Article **21** case law.
-22. Water Act creates the pollution-board architecture; EPA is the later umbrella for broader environmental regulation including EIA.
-23. Air Act year fact is **1981**. Pairing Air with **1974** or Water with **1981** is wrong.
-24. NGT hears appeals; it does not rewrite the year of EPA or replace CPCB’s standards role.
-25. CAMPA/NPV issues arise after forest diversion under FCA — they are not FRA Gram Sabha rights tools.
-26. Match clearance labels carefully: **SPCB consent**, **MoEFCC/SEIAA EC**, **MoEFCC forest clearance**.
-27. Wildlife and forests sit on the **Concurrent List** (समवर्ती सूची) — Centre and states both legislate.
-28. Indian courts have adopted Rio principles — **Precautionary**, **Polluter Pays**, and **Public Trust** (*Vellore Citizens’ Welfare Forum*).
-
-</details>
+1. **Article 48A** (DPSP (राज्य के नीति निदेशक तत्व)) directs the State to protect the environment (पर्यावरण). **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
+2. **Article 21** (अनुच्छेद 21) has been read to include a healthy environment. **Article 48** is about agriculture and cattle — it is **not** the environment article (**48A** is).
+3. **FCA** controls **diversion** of forest land. **FRA** recognises **rights** of forest dwellers. Do not treat them as one Act.
+4. **Environmental law** in India combines **constitutional duties**, **statutory Acts**, and **Supreme Court/NGT jurisprudence**.
+5. **Article 48A** (DPSP) directs the **State** to protect and improve the environment and safeguard forests and wildlife.
+6. **Article 51A(g)** (Fundamental Duty) requires every **citizen** to protect and improve the natural environment.
+7. **Article 21** (Right to Life) was expanded by the Supreme Court to include the **right to a wholesome environment** (*M.C. Mehta*, *Subhash Kumar*).
+8. **Article 48** deals with **agriculture and animal husbandry** — it is **not** the environment article. Do not confuse with **48A**.
+9. **Section 6** empowers the Centre to make **rules** for environmental protection.
+10. **Environmental Clearance** under EIA is distinct from SPCB **consent** under Water/Air Acts. Large projects may need **both**.
+11. **CGWA** (regulatory authority under EPA) is **not** the same as **CGWB** (assessment board under Jal Shakti (शक्ति)).
+12. **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is the nodal ministry for EPA implementation.
+13. **Six Schedules** classify species by protection level.
+14. **Hunting** is banned for Schedule **I–IV** species with narrow exceptions for research or public safety with permission.
+15. **National Park (Section 35)** has the **strictest** protection — no grazing or exploitation.
+16. **Wildlife Sanctuary (Section 18)** allows more regulated human use under the Chief Wildlife Warden.
+17. **Tiger Reserves** are notified under **Section 38V** (2006 amendment) with **NTCA** oversight.
+18. **Prior Central Government approval** is mandatory before using **forest land** for **non-forest purposes** like mining, dams, or industry.
+19. **Community Forest Resource (CFR)** (सामुदायिक वन संसाधन अधिकार) rights allow communities to manage and protect forest resources.
+20. **State Biodiversity Boards (SBB)** operate at state level.
+21. **Biodiversity Management Committees (BMC)** function at local panchayat level.
+22. **People's Biodiversity Registers (PBR)** document local biodiversity.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environment (Protection) Act (EPA 1986)** | **Wildlife (Protection) Act (WPA 1972)** | Umbrella legislation enacted under Article 253 post-Bhopal disaster enabling the Union to frame rules for EIA, CRZ, ESZ, and hazardous waste vs dedicated legislation protecting wild animal/plant species, regulating hunting, and establishing National Parks/Sanctuaries | पर्यावरण संरक्षण अधिनियम 1986 (छाता कानून) / वन्यजीव संरक्षण अधिनियम 1972 |
-| **Forest (Conservation) Act (FCA 1980)** | **Forest Rights Act (FRA 2006)** | Central law barring de-reservation or diversion of forest land for non-forest purposes without prior Union MoEFCC approval vs rights-based law administered by Ministry of Tribal Affairs restoring land tenure and customary rights to forest-dwelling STs and OTFDs | वन संरक्षण अधिनियम 1980 (विकास नियंत्रण) / वन अधिकार अधिनियम 2006 (जनजातीय अधिकार) |
-| **Water (Prevention and Control of Pollution) Act 1974** | **Air (Prevention and Control of Pollution) Act 1981** | India's first dedicated environmental pollution statute that established CPCB and SPCBs under Article 252 vs legislation enacted under Article 253 to implement 1972 Stockholm decisions that empowered existing Water Boards to regulate air pollution and noise | जल अधिनियम 1974 (प्रदूषण बोर्डों का गठन) / वायु अधिनियम 1981 (स्टॉकहोम अनुपालन) |
-| **Biological Diversity Act (BDA 2002)** | **Protection of Plant Varieties and Farmers' Rights Act (PPVFRA 2001)** | Implements 1992 CBD via three-tier structure (NBA, SBB, BMC) controlling commercial bio-resource access and benefit sharing (ABS) vs sui generis IPR regime granting legal rights to commercial plant breeders while safeguarding traditional farmers' seed-saving rights | जैव विविधता अधिनियम 2002 / पौधा किस्म व कृषक अधिकार संरक्षण 2001 |
-| **Genetic Engineering Appraisal Committee (GEAC)** | **Central Ground Water Authority (CGWA)** | Statutory apex regulatory body constituted under Rules 1989 of EPA 1986 approving environmental release of GMOs (e.g. Bt Cotton) vs regulatory authority constituted under Section 3(3) of EPA 1986 regulating commercial groundwater extraction NOCs | जीईएसी (GEAC, जीएमओ नियामक) / केंद्रीय भूजल प्राधिकरण (CGWA) |
-| **Coastal Regulation Zone (CRZ)** | **Eco-Sensitive Zone (ESZ)** | Coastal belt up to 500 m from High Tide Line classified into CRZ-I to IV under EPA 1986 to regulate beach and marine development vs buffer belt around protected areas notified under Section 3 of EPA 1986 to curb polluting industrial operations | तटीय विनियमन क्षेत्र (CRZ) / पर्यावरण-संवेदनशील क्षेत्र (ESZ) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+| Trap | Correct fact |
+|------|----------------|
+| Water Act = 1981 | **Water 1974; Air 1981** |
+| EPA = 1972 | **EPA 1986; WPA 1972** |
+| FCA = FRA | **1980 diversion vs 2006 rights** |
+| Art 48 = environment | **Art 48A** |
+| Schedule V highest protection | **Schedule I** |
+| EIA under Water Act | **EPA 1986** |
+| NGT grants EC | **MoEFCC/SEIAA** |
+| NBA HQ Delhi | **Chennai** |
+| NFP 1988 in syllabus list | Syllabus says **1952** — know both |
+| Consent = EC | **SPCB consent ≠ EC** |
 
 
 ---

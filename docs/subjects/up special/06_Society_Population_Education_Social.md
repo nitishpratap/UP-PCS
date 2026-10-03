@@ -10,7 +10,8 @@
 |---|---|---|
 | Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. As per Census 2011, the total population of Uttar Pradesh is **199,812,341** (~**19.98 Crore**).
 2. Uttar Pradesh accounts for **16.51% of the total population of India**.
@@ -63,9 +64,10 @@
 49. **King George's Medical University (KGMU)** and **SGPGIMS** are located at **Lucknow**.
 50. **Sampurnanand Sanskrit University** (Varanasi) traces its origin to the **Sanskrit College** established by **Jonathan Duncan in 1791**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@
 | **University of Allahabad (1887)** | **Central University Status (2005)** | Established in **1887**; declared an Institution of National Importance/Central Univ in **2005**. |
 | **HRI (Prayagraj)** | **V.V. Giri NLI (Noida)** | HRI is for **Maths/Physics** in Prayagraj; NLI is for **Labour studies** in Noida. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

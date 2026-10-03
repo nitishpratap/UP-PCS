@@ -11,9 +11,18 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 7 — Plants, Agriculture and Plant Diseases</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Event / Fact | Must-Score Fact |
+|------|-------------|----------------------|
+| **10 February** | **World Pulses Day** observed annually on **10 February** by the UN FAO. | Pulses belong to **Fabaceae (Pea family)**; host symbiotic *Rhizobium* in root nodules to fix atmospheric nitrogen and enrich soil. |
+| **Discovery** | ***Musa indandamanensis*** discovered in Little Andaman Island by BSI scientists. | Wild banana attaining **11 metres height** with unique green flowers and orange-coloured fruit pulp thrice the size of regular banana species. |
+| **Still Current** | FSSAI ban on **Calcium Carbide ($\mathbf{CaC_2}$)** for artificial fruit ripening; promotes safe ripening using **Ethylene gas ($\mathbf{C_2H_4}$)**. | Calcium carbide reacts with moisture to release hazardous **Acetylene gas ($\mathbf{C_2H_2}$)** contaminated with carcinogenic arsenic and phosphorus hydride. |
+| **Still Current** | **Irish Potato Famine (1845)**: Historical cornerstone of plant pathology caused by **Late Blight of Potato (***Phytophthora infestans***)**, which destroyed Ireland's staple potato crop, leading to mass starvation. |
+
+---
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
@@ -33,21 +42,6 @@ hide:
 | **Eurythermal** | **Stenothermal** | Tolerates wide temperature variations vs restricted to narrow temperature range | पृथुतापी / तनुतापी |
 | ***Cuscuta* (Amarbel)** | ***Nepenthes* (Pitcher Plant)**| Total stem parasite extracting food via haustoria vs photosynthetic plant trapping insects for nitrogen in Meghalaya | अमरबेल (परजीवी) / घटपर्णी (कीटभक्षी) |
 | **Triticale** | **Common Wheat** | First man-made cereal hybrid (Wheat $\times$ Rye) vs naturally evolved hexaploid cereal crop | ट्रिटिकेल / सामान्य गेहूँ |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Event / Fact | Must-Score Fact |
-|------|-------------|----------------------|
-| **10 February** | **World Pulses Day** observed annually on **10 February** by the UN FAO. | Pulses belong to **Fabaceae (Pea family)**; host symbiotic *Rhizobium* in root nodules to fix atmospheric nitrogen and enrich soil. |
-| **Discovery** | ***Musa indandamanensis*** discovered in Little Andaman Island by BSI scientists. | Wild banana attaining **11 metres height** with unique green flowers and orange-coloured fruit pulp thrice the size of regular banana species. |
-| **Still Current** | FSSAI ban on **Calcium Carbide ($\mathbf{CaC_2}$)** for artificial fruit ripening; promotes safe ripening using **Ethylene gas ($\mathbf{C_2H_4}$)**. | Calcium carbide reacts with moisture to release hazardous **Acetylene gas ($\mathbf{C_2H_2}$)** contaminated with carcinogenic arsenic and phosphorus hydride. |
-| **Still Current** | **Irish Potato Famine (1845)**: Historical cornerstone of plant pathology caused by **Late Blight of Potato (***Phytophthora infestans***)**, which destroyed Ireland's staple potato crop, leading to mass starvation. |
 
 ---
 
@@ -313,7 +307,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Plant Taxonomy Hierarchy: Categorized from higher to lower: Kingdom $\rightarrow$ Phylum (Division) $\rightarrow$ Class $\rightarrow$ Order $\rightarrow$ Family $\rightarrow$ Genus $\rightarrow$ Species. Species is the basic taxonomic unit consisting of individuals with fundamental morphological similarities capable of interbreeding.
 - **Exam Anchor:** Augustin Pyramus de Candolle (A.P. de Candolle): Swiss botanist who first coined the term "Taxonomy" (1813) and first used internal vascular tissue characteristics to divide plants into Vasculares (with vascular bundles) and Cellulares (without vascular bundles). (Linnaeus is the "Father of Modern Taxonomy").
@@ -323,8 +317,6 @@ hide:
 - **Exam Anchor:** Ascent of Sap: Driven by Transpiration Pull based on the Cohesion-Tension Theory of Dixon and Joly (1894). Positive Root Pressure causes Guttation through marginal leaf Hydathodes in moist early mornings.
 - **Exam Anchor:** Modified Underground Stems (Food Storage):
 - **Exam Anchor:** Modified Storage Roots (NOT Stems):
-
-</details>
 
 ---
 

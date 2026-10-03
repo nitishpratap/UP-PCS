@@ -46,7 +46,8 @@ D. Colorado
 ---
 
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **New Orleans** stands on the **Mississippi**, not the Missouri. The Missouri joins the Mississippi at **St Louis**.
 2. **Budapest** is on the **Danube**. **Cologne** is on the **Rhine**. India’s **Hyderabad** (हैदराबाद) is on the **Musi**, not the Godavari (गोदावरी) or Paleru.
@@ -87,9 +88,10 @@ D. Colorado
 29. International rivers to keep: Nile (Africa), Amazon (South America), Danube (most countries crossed), Rhine (busy European navigation), Mekong (SE Asia), Rio Grande (USA–Mexico border).
 30. Lake genesis types: tectonic / rift, glacial, crater, lagoon, oxbow and artificial reservoir — do not treat every famous lake as simply “fresh”.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 Read as: **this** is correct · **that** is the usual wrong option.
 
@@ -127,7 +129,7 @@ Read as: **this** is correct · **that** is the usual wrong option.
 | Niger | **Paradox** (inland arc first) | Straight to Gulf | नाइजर |
 | Volga mouth | **Caspian** | Black Sea | वोल्गा |
 
----
+</details>
 
 ## Must-score facts — city–river, deltas, lakes
 

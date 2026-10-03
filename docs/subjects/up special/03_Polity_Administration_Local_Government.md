@@ -10,7 +10,8 @@
 |---|---|---|
 | Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Uttar Pradesh has the largest **Legislative Assembly (Vidhan Sabha)** in India with **403 elected members**.
 2. Prior to the creation of Uttarakhand on 9 November 2000, the UP Legislative Assembly had **425 seats**.
@@ -63,9 +64,10 @@
 49. The head of the administrative hierarchy and civil services in Uttar Pradesh is the **Chief Secretary**.
 50. Uttar Pradesh has **no Scheduled Areas** under the Fifth Schedule of the Constitution; therefore, the **PESA Act, 1996 does not apply** in UP.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@
 | **Devipatan Division HQ** | **Chitrakoot Division HQ** | Devipatan Division HQ is at **Gonda**; Chitrakoot Division HQ is at **Banda**. |
 | **Hindi Official (1951)** | **Urdu Official (1989)** | Hindi was made official language in **1951**; Urdu became the second official language in **1989**. |
 
----
+</details>
 
 ## Must-score drill — master tables
 

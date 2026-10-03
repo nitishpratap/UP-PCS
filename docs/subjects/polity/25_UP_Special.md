@@ -38,7 +38,8 @@ Newest first. One event, one fact.
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Uttar Pradesh’s **capital** is **Lucknow** (लखनऊ) (Raj Bhavan and Vidhan Bhavan). The High Court’s **principal seat** is **Prayagraj** (प्रयागराज). Lucknow hosts a **Bench**, not a second High Court.
 2. The first Governor of the United Provinces / Uttar Pradesh was **Sarojini Naidu** (**15 August 1947**). She was the first woman Governor of an Indian State and died in office on **2 March 1949**.
@@ -73,9 +74,10 @@ Newest first. One event, one fact.
 31. Lucknow runs the political executive; Prayagraj runs the High Court and UPPSC. That geography-of-power split is a recurring prelims trap.
 32. Reorganisation arithmetic (**425/85/34 → 403/80/31**) plus Council **100** and bicameral status are the densest number facts on this sheet.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Term A | Term B | Core difference | Hindi Terminology |
 | -------- | -------- | ----------------- | -------- / -------- |
@@ -101,7 +103,7 @@ Newest first. One event, one fact.
 | **Art. 371 States** | **Uttar Pradesh** | Special provisions in 371–371J | **None** |
 | **CoM cap (91st)** | **Art. 164 pleasure** | ≤ **15%** of LA (UP ≈ **60** incl. CM); floor **12** | Governor dismisses a ministry that has lost the floor |
 
----
+</details>
 
 ## Must-score facts — UP polity tags
 

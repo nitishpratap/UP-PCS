@@ -11,63 +11,67 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 27 — Renewable & Non-Renewable Energy (अनवीकरणीय ऊर्जा)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Renewable** sources replenish on a human timescale (sun, wind, water, biomass, geothermal). **Non-renewable** sources are finite stocks (coal, oil, gas, uranium). Notes usually treat **nuclear as non-renewable** even though it is low-carbon.
-2. In Indian usage, **conventional** energy means coal, oil, gas, **large hydro**, and nuclear. **Non-conventional** means solar, wind, biomass, biogas, tidal, geothermal, ocean, and **small hydro ≤25 MW** — treated as roughly equal to **renewable** in many stems.
-3. Non-conventional is treated as roughly equal to renewable in many prelims stems — but large hydro sits on the conventional side of that Indian classification.
-4. **Energy crisis** in bank language means the danger of exhaustion of **fossil fuels** (coal, oil, gas) — not merely “short hydro” or malnutrition.
-5. UNGA declared **2014–2024** the **Decade of Sustainable Energy for All** (supports SDG 7). Initiative is of the **United Nations**, not World Bank alone.
-6. Ultimate source of energy stored in fossil fuels is the **Sun** (ancient photosynthesis).
-7. Among coal / oil-gas / nuclear / hydro options, **hydroelectricity** is often the best answer for electricity generation under **sustainable development** (water not depleted by the generation cycle).
-8. **Uranium is not a fossil fuel** — nuclear fuel, non-renewable. Coal / petroleum / natural gas are fossils.
-9. **Biogas** major constituents are **methane and carbon dioxide**. Butane or carbon monoxide as the major pair is wrong.
-10. **Bioethanol** (maize, sugarcane, etc.) blends with petrol. **Biodiesel** (Jatropha, Pongamia, UCO) blends with diesel. Biofuels are eco-friendly and can ease crisis but are often **not cost-effective** vs fossils.
-11. Biomass gasification of shells/husk yields **producer gas** (CO, H₂, traces of CH₄ — not CO₂-only); can run IC engines.
-12. Solar facts include National Solar Mission **2010**, ISA at **Gurugram**, **500 GW** non-fossil by **2030**, and **PM-KUSUM**.
-13. Wind leadership often names Tamil Nadu (नाडु) and Gujarat. **SHP ≤25 MW**. **Tidal** is Moon-driven. **Ocean energy** is a wider set that includes wave, OTEC, and tidal.
-14. **OTEC** uses the temperature difference between warm surface water and cold deep water — not the same as tidal barrage power.
-15. Energy security: India imports a very large share of crude oil (often taught near **~85%**), while coal is mostly domestic. Strategic Petroleum Reserves sit at **Vizag, Mangalore, and Padur**.
-16. **Energy Conservation Act 2001** created **BEE**. **PAT (2012)** trades **ESCerts**. Star labels and UJALA LEDs are efficiency/conservation tools. PAT is **not** CCTS carbon credits.
-17. Coal is fossil non-renewable; biomass is renewable organic matter — do not call coal “biomass.” Nuclear is **not** a biomass energy (बायोमास ऊर्जा) source.
-18. Tidal ≠ wave ≠ OTEC, even though all are ocean-related.
-19. Conventional includes large hydro; calling all hydro “non-conventional” is wrong under the Indian split.
-20. E20 is the higher ethanol blend ambition beyond E10 — do not freeze policy forever at E10.
-21. BEE sits under the EC Act **2001** efficiency architecture.
-22. SPR locations are Vizag, Mangalore, Padur — three coastal storage facts.
-23. Western UP sugarcane supports bioethanol; bagasse supports cogeneration; UP wind remains limited; rooftop solar is the distributed play.
-24. **Hydrogen** is the least-polluting common fuel option (burns to water); called a **future fuel**. National Hydrogen Energy Board set up **3 October 2003**.
-25. Fuel cells: pure H₂ → electricity + **heat and water**; can power buildings **and** small devices; output is **DC** (not AC).
-26. Microbial fuel cells use living microbes as catalysts; useful in wastewater plants — substrates are mainly **organic**, not “only inorganic.”
-27. **Bioasphalt** is non-petroleum / renewable-based paving binder — eco-friendlier road surfacing.
-28. Green hydrogen can be used in IC engines, blended with natural gas, and in fuel-cell vehicles — all three routes appear in stems.
-29. Ocean energy is the umbrella; tidal is one member of that set.
-30. ISA is solar diplomacy/IGO; BEE is domestic efficiency regulation — different lanes.
-31. PAT certificates measure energy savings trading; carbon markets measure CO₂ units — related climate politics, different instruments.
-32. Small hydro cutoff **≤25 MW** is the recurring MNRE number.
-33. Nuclear’s classification is usually non-renewable/conventional, not “renewable because low carbon.”
-34. Energy conservation (using less) and energy efficiency (more service per unit energy) are neighbours under BEE/PAT, not synonyms for renewable capacity addition alone.
-35. **SATAT** promotes **compressed biogas (CBG)** for transport; oil-marketing companies procure CBG. **GOBAR-Dhan** is the community/dung biogas neighbour scheme — do not invent butane as a major biogas gas.
-36. Biogas forms by **anaerobic** digestion; slurry is useful bio-fertiliser after gas capture.
-
-</details>
+2. **Energy crisis** in bank language means the danger of exhaustion of **fossil fuels** (coal, oil, gas) — not merely “short hydro” or malnutrition.
+3. **Uranium is not a fossil fuel** — nuclear fuel, non-renewable. Coal / petroleum / natural gas are fossils.
+4. **Biogas** major constituents are **methane and carbon dioxide**. Butane or carbon monoxide as the major pair is wrong.
+5. **Bioethanol** (maize, sugarcane, etc.) blends with petrol. **Biodiesel** (Jatropha, Pongamia, UCO) blends with diesel. Biofuels are eco-friendly and can ease crisis but are often **not cost-effective** vs fossils.
+6. **OTEC** uses the temperature difference between warm surface water and cold deep water — not the same as tidal barrage power.
+7. **Energy Conservation Act 2001** created **BEE**. **PAT (2012)** trades **ESCerts**. Star labels and UJALA LEDs are efficiency/conservation tools. PAT is **not** CCTS carbon credits.
+8. **Hydrogen** is the least-polluting common fuel option (burns to water); called a **future fuel**. National Hydrogen Energy Board set up **3 October 2003**.
+9. **Bioasphalt** is non-petroleum / renewable-based paving binder — eco-friendlier road surfacing.
+10. **SATAT** promotes **compressed biogas (CBG)** for transport; oil-marketing companies procure CBG. **GOBAR-Dhan** is the community/dung biogas neighbour scheme — do not invent butane as a major biogas gas.
+11. **Renewable energy** comes from sources replenished continuously on a human timescale — sun, wind, flowing water, tides, biomass, geothermal heat.
+12. **Energy crisis** commonly means the danger of exhaustion of **fossil fuels** such as coal and petroleum.
+13. **Nuclear** is usually classified as **non-renewable** (finite uranium + waste).
+14. **Non-renewable** sources form over geological time — use depletes the stock.
+15. **Coal:** India's primary electricity fuel; large domestic reserves in Jharkhand, Odisha, Chhattisgarh, West Bengal — eastern belt.
+16. **Petroleum:** India imports ~**85%** of crude — main energy-security vulnerability.
+17. **Natural gas:** cleaner than coal; used in power, fertiliser, CNG; partly imported (LNG).
+18. **Uranium/thorium:** nuclear fuel — low operational carbon, finite ore, radioactive waste — **not a fossil fuel**.
+19. **Non-conventional** sources are newer/alternative sources — solar, wind, biomass, biogas, tidal, geothermal, ocean energy, small hydro.
+20. **PV** converts sunlight directly to electricity; **CSP** uses mirrors to heat fluid for steam turbines.
+21. **National Solar Mission (2010)** under NAPCC — solar capacity scaled toward ~100 GW by early 2020s.
+22. **ISA (2015):** India–France treaty IGO, HQ **Gurugram**; OSOWOG linked to ISA.
+23. **PM-KUSUM (2019):** solar pumps and farmer solarisation.
+24. **Bagasse** cogeneration is major in western UP sugar mills.
+25. **Coal and nuclear are NOT biomass** sources.
+26. **Biofuels** are fuels produced from biomass — bioethanol, biodiesel, biogas/CBG, advanced (2G) fuels.
+27. **National Policy on Biofuels, 2018** sets blending roadmap and feedstock categories.
+28. **1st generation:** sugarcane molasses ethanol; edible-oil biodiesel — food vs fuel concern.
+29. **2G:** agri-waste, residues — reduces food competition.
+30. **Maize** is a classic **ethanol** crop; **Jatropha / Pongamia / sunflower** are classic **biodiesel** crops — do not swap.
+31. **Butane** and **carbon monoxide** are not major biogas components.
+32. **Bioethanol** is alcohol produced mainly by fermenting sugarcane molasses (also maize, 2G waste).
+33. **Biodiesel** is fatty acid methyl ester (**FAME**) made by **transesterification** of vegetable oils + methanol + catalyst → biodiesel + glycerol.
+34. **Pongamia** grows in arid / saline (लवणीय) / alkaline soils; seeds are lipid-rich with nearly half **oleic acid** — classic dual-statement biodiesel stem with Jatropha.
+35. **Ramganga (रामगंगा) (~198 MW)** is **large hydro**, not SHP.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Renewable Energy** | **Non-Renewable Energy** | Energy derived from natural regenerative sources that replenish naturally on a human timescale without depleting stocks (solar, wind, small hydro, geothermal, biomass) vs finite geological energy reserves that take millions of years to form and cannot be replenished once consumed (coal, petroleum, natural gas, uranium) | नवीकरणीय ऊर्जा (अक्षय स्रोत) / अनवीकरणीय ऊर्जा (परिमित जीवाश्म भंडार) |
-| **Conventional Energy** | **Non-Conventional Energy** | Traditional energy sources that have been historically established and extensively utilized for commercial power generation for centuries (coal, oil, gas, large hydro, commercial nuclear) vs alternative, modern clean renewable sources developed to replace fossil fuels (solar, wind, tidal, ocean thermal, fuel cells) | पारंपरिक ऊर्जा स्रोत / गैर-पारंपरिक (वैकल्पिक) ऊर्जा स्रोत |
-| **Bioethanol** | **Biodiesel** | Pure ethanol fuel produced through the biochemical fermentation of sugary and starchy feedstocks (sugarcane juice, molasses, damaged grains, corn) blended with petrol (E20 mandate) vs fatty acid methyl esters (FAME) produced via the transesterification of non-edible plant vegetable oils (Jatropha curcas, Pongamia, animal fats) blended with diesel | बायो-इथेनॉल (किण्वन, पेट्रोल संवर्धन) / बायो-डीजल (ट्रांसएस्टरीकरण, डीजल संवर्धन) |
-| **Perform, Achieve and Trade (PAT)** | **Renewable Purchase Obligation (RPO)** | Market-based regulatory mechanism under the National Mission for Enhanced Energy Efficiency (BEE / EC Act 2001) issuing tradable Energy Saving Certificates (ESCerts) to designated energy-intensive industries vs statutory mandate under Electricity Act 2003 requiring power discoms to purchase a minimum percentage of electricity from renewable sources | निष्पादन, उपलब्धि और व्यापार (PAT, ऊर्जा बचत प्रमाण पत्र) / नवीकरणीय खरीद दायित्व (RPO) |
-| **Bureau of Energy Efficiency (BEE)** | **Petroleum Conservation Research Association (PCRA)** | Statutory body established under the Energy Conservation Act 2001 (Ministry of Power) promoting star rating standards for electric appliances and energy conservation codes vs registered society under the Ministry of Petroleum and Natural Gas promoting conservation and fuel efficiency in the petroleum sector | ऊर्जा दक्षता ब्यूरो (BEE, स्टार लेबलिंग) / पेट्रोलियम संरक्षण अनुसंधान संघ (PCRA) |
-| **Biogas** | **Compressed Biogas (CBG)** | Unrefined raw gaseous fuel mixture generated from anaerobic digestion of cattle dung and agro-waste containing ~55–60% methane and ~40% CO₂ vs purified, upgraded methane gas (≥90% CH₄) scrubbed of CO₂ and H₂S and compressed to ~250 bar for use as clean green automotive transport fuel (SATAT initiative) | बायोगैस (कच्ची गोबर गैस) / संपीडित बायोगैस (CBG, परिष्कृत 90%+ मीथेन) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Nuclear = renewable | Usually **non-renewable** |
+| Non-conventional = non-renewable | **= renewable** |
+| Coal = biomass | **Fossil, not biomass** |
+| Uranium = fossil fuel | **Nuclear fuel**, not fossil |
+| Biogas = butane | **CH₄ + CO₂** |
+| Tidal = OTEC/wave | **Different drivers** |
+| PAT = carbon credits | **ESCerts** |
+| BEE = MNRE | **Power vs Renewables** |
+| Large hydro = non-conventional | Usually **conventional** |
+| E20 already forever since 2010 | **Target ~2025–26** |
+| SPR only in Delhi | **Vizag, Mangalore, Padur** |
+| Energy crisis = only hydro shortage | **Fossil fuel exhaustion risk** |
+| Biofuels always cheap | Often **not cost-effective** |
+| Maize = biodiesel crop | **Ethanol**; Jatropha = biodiesel |
+| Fuel cell = AC output | **DC**; by-products heat + water |
+| Gasification gas = CO₂ only | **Producer gas** CO + H₂ (+ CH₄) |
 
 
 ---

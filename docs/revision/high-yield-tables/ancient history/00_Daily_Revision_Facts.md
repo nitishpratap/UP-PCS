@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Daily Read — High-Yield Revision Facts (Ancient India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## 1. Indus Valley Civilization (IVC) Master Matrix
 
@@ -323,7 +321,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Rigveda: 10 Mandalas, 1,028 Suktas (hymns); 3rd Mandala contains Gayatri Mantra (composed by Vishvamitra dedicated to solar deity Savitr); 7th Mandala describes Dasrajan Yudha (Battle of 10 Kings on Parushni/Ravi river won by Sudas of Bharata tribe); 9th Mandala dedicated entirely to Soma; 10th Mandala contains Purusha Sukta (first mention of 4 Varnas).
 - **Exam Anchor:** Samaveda: Book of chants / melodies (Ragas); origin of Indian classical music; chanted by Udgatri priests.
@@ -333,8 +331,6 @@ hide:
 - **Exam Anchor:** Mundaka Upanishad: Sourced national motto "Satyam Eva Jayate" (Truth Alone Triumphs).
 - **Exam Anchor:** Katha Upanishad: Famous philosophical dialogue between young boy Nachiketa and Yama (God of Death) on the nature of soul and immortality.
 - **Exam Anchor:** Brihadaranyaka Upanishad: Largest Upanishad; contains celebrated philosophical debate between sage Yajnavalkya and scholarly woman Gargi; phrase "Tamaso Ma Jyotirgamaya".
-
-</details>
 
 ---
 

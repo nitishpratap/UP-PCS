@@ -37,7 +37,8 @@
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. UP is India’s most populous state and has the **largest rural** population. Area rank is **4th** (~**2.4 lakh km²**). There are **75** districts and **18** divisions. Capital is **Lucknow**; High Court is at **Prayagraj**. The State name date is **24 January 1950**; **Uttarakhand** was carved on **9 November 2000**.
 2. Latitudes run roughly **23°52′–31°28′ N**; longitudes **77°–84° E**. The **Tropic of Cancer does not** enter UP. Present UP has **no Himalayan high peaks** after 2000 — **Nanda Devi** is in **Uttarakhand**.
@@ -68,8 +69,10 @@
 27. NER HQ = **Gorakhpur**; NCR HQ = **Prayagraj**. No major seaport; waterway fact = **NW-1** on the Ganga. **Kushinagar** international airport opened **24 June 2020**. Jewar = Noida International. Amrit Bharat UP stations fact = **149**.
 28. Expressways: **Yamuna** (Noida–Agra) was the first; also Agra–Lucknow, **Purvanchal** (Lucknow–Ballia via **Mau**), Bundelkhand, Ganga Expressway and Gorakhpur Link. Built Purvanchal does **not** run through Basti.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -106,7 +109,7 @@
 | Extremes N/S/E/W | Saharanpur / Sonbhadra / Ballia / Shamli | Swap Ballia–Sonbhadra | सीमा ज़िले |
 | Tubewell vs canal | Tubewells **dominant**; west dark-zone pressure | Only canals everywhere | नलकूप |
 
----
+</details>
 
 ## Must-score facts — parks, rivers, soils, Census
 

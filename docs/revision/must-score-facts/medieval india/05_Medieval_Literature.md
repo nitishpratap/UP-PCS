@@ -11,61 +11,71 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Medieval Literature</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The court language of the Sultanate and Mughal empires was **Persian**; **Baburnama** (बाबरनामा) alone is written in **Chagatai (चगताई) Turki (तुर्की)**.
-2. **Tabaqat-i-Nasiri** is by **Minhaj-us-Siraj**; **Tarikh-i-Firoz Shahi** is by **Ziauddin Barani**.
-3. **Tughlaqnama** (तुग़लक़नामा) is by **Amir Khusrau** (अमीर खुसरो) (his last historical masnavi, 1320); **Rihla** (रिहला) is **Ibn Battuta (इब्न बतूता)’s** travelogue.
-4. **Fatawa-i-Jahandari** is Barani’s political theory text, not a narrative history (इतिहास).
-5. Both **Barani** (बरनी) and **Shams-i-Siraj Afif** wrote works titled **Tarikh-i-Firoz Shahi** for different periods of Firuz’s age.
-6. **Taj-ul-Maasir** is by Hasan Nizami; **Kitab-ul-Hind** is by **Alberuni**.
-7. **Amir Khusrau** wrote **Khamsa**, **Nuh Sipihr**, **Miftah-ul-Futuh**, **Khazain-ul-Futuh**, and **Ashiqa** (आशिक़ा); **Rag Vibodh** (राग विबोध) was written by **Somnath** (सोमनाथ) (1609).
-8. **Miftah-ul-Futuh** covers Jalaluddin Khalji (खिलजी); **Khazain-ul-Futuh** covers Alauddin — keep the Khalji pair straight.
-9. Vernacular & treatise matches: **Mulla Daud–Chandayan**; **Damodar (दामोदर) Kavi–Padmavati Katha (पद्मावती कथा)**; **Amir Khusrau–Ashiqa**; **Somnath–Rag Vibodh**.
-10. **Padmavat** (पद्मावत) is **Malik Muhammad Jaisi’s** Awadhi (अवधी) epic — not Damodar Kavi’s Padmavati Katha.
-11. **Baburnama** = Babur (बाबर); **Humayunnama** = Gulbadan Begum; **Tuzuk-i-Jahangiri** (तुजुक-ए-जहाँगीरी) = Jahangir (जहाँगीर)’s own memoir.
-12. **Akbarnama** is Abul Fazl (अबुल फजल)’s narrative history; **Ain-i-Akbari** (आइन-ए-अकबरी) is his admin gazetteer, not a biography.
-13. **Padshahnama** (पादशाहनामा) = Abdul Hamid Lahori (Shah Jahan (शाहजहाँ)); **Muntakhab-ut-Tawarikh** = Badauni, who was critical of Akbar (अकबर).
-14. Death chronology: **Faizi (फैजी) (1595)** → **Sheikh Mubarak (1597)** → **Abul Fazl murdered (1602)** → **Daniyal (1604)**.
-15. Regional Persian facts: **Mirat-e-Sikandari** = Gujarat; **Burhan-e-Masir** = Ahmadnagar; **Riyaz-us-Salatin** (रियाज़-उस-सलातीन) = Bengal; **Riyaz-ul-Insha** (रियाज़-उल-इंशा) = Gawan’s letters.
-16. **Tutinama** is by **Nakhshabi**, not by Amir Khusrau.
-17. **Amir Khusrau** belongs to the Sultanate age; do not place him in the Akbar–Tansen (तानसेन) court.
-18. **Alamgirnama** is by Mirza Muhammad Kazim (Aurangzeb (औरंगजेब)); **Futuh-us-Salatin** is by Abdul Malik Isami.
-19. **Fatwa-i-Firuz Shahi** is Firuz Shah’s own regulations — not Barani’s **Fatawa-i-Jahandari**.
-20. **Tarikh** (तारीख) means continuous annals; **tabaqat** (तबक़ात) means generational “classes” of biographies.
-21. UP literary facts: **Jaisi–Padmavat** and **Mulla Daud–Chandayan** for Awadhi / Hindavi romance.
-22. **Hindavi** bridge literature is especially associated with Amir Khusrau.
-23. **Badauni** stands for hostile historiography; **Abul Fazl** (अबुल फजल) stands for official panegyric under Akbar.
-24. Akbar’s (अकबर) translation peak rendered the Mahabharata (**Razmnama** (रज्मनामा)), Ramayana (रामायण), and related texts into Persian with Faizi’s circle.
-25. **Gulbadan Begum** is a rare female voice in Mughal prose through **Humayunnama**.
-26. Court Persian ran from **Iltutmish** (इल्तुतमिश) through **Aurangzeb** (औरंगजेब) as the main administrative literary language.
-27. Vernacular Bhakti (भक्ति) poetry of Kabir (कबीर), Tulsidas (तुलसीदास), and Surdas (सूरदास) ran parallel to Persian court literature.
-28. **Afif** covers later Firuz; Barani’s Tarikh stops earlier — that period split is the double-title trap.
+1. **Tabaqat-i-Nasiri** is by **Minhaj-us-Siraj**; **Tarikh-i-Firoz Shahi** is by **Ziauddin Barani**.
+2. **Tughlaqnama** (तुग़लक़नामा) is by **Amir Khusrau** (अमीर खुसरो) (his last historical masnavi, 1320); **Rihla** (रिहला) is **Ibn Battuta (इब्न बतूता)’s** travelogue.
+3. **Fatawa-i-Jahandari** is Barani’s political theory text, not a narrative history (इतिहास).
+4. **Taj-ul-Maasir** is by Hasan Nizami; **Kitab-ul-Hind** is by **Alberuni**.
+5. **Amir Khusrau** wrote **Khamsa**, **Nuh Sipihr**, **Miftah-ul-Futuh**, **Khazain-ul-Futuh**, and **Ashiqa** (आशिक़ा); **Rag Vibodh** (राग विबोध) was written by **Somnath** (सोमनाथ) (1609).
+6. **Miftah-ul-Futuh** covers Jalaluddin Khalji (खिलजी); **Khazain-ul-Futuh** covers Alauddin — keep the Khalji pair straight.
+7. **Padmavat** (पद्मावत) is **Malik Muhammad Jaisi’s** Awadhi (अवधी) epic — not Damodar Kavi’s Padmavati Katha.
+8. **Baburnama** = Babur (बाबर); **Humayunnama** = Gulbadan Begum; **Tuzuk-i-Jahangiri** (तुजुक-ए-जहाँगीरी) = Jahangir (जहाँगीर)’s own memoir.
+9. **Akbarnama** is Abul Fazl (अबुल फजल)’s narrative history; **Ain-i-Akbari** (आइन-ए-अकबरी) is his admin gazetteer, not a biography.
+10. **Padshahnama** (पादशाहनामा) = Abdul Hamid Lahori (Shah Jahan (शाहजहाँ)); **Muntakhab-ut-Tawarikh** = Badauni, who was critical of Akbar (अकबर).
+11. **Tutinama** is by **Nakhshabi**, not by Amir Khusrau.
+12. **Amir Khusrau** belongs to the Sultanate age; do not place him in the Akbar–Tansen (तानसेन) court.
+13. **Alamgirnama** is by Mirza Muhammad Kazim (Aurangzeb (औरंगजेब)); **Futuh-us-Salatin** is by Abdul Malik Isami.
+14. **Fatwa-i-Firuz Shahi** is Firuz Shah’s own regulations — not Barani’s **Fatawa-i-Jahandari**.
+15. **Tarikh** (तारीख) means continuous annals; **tabaqat** (तबक़ात) means generational “classes” of biographies.
+16. **Hindavi** bridge literature is especially associated with Amir Khusrau.
+17. **Badauni** stands for hostile historiography; **Abul Fazl** (अबुल फजल) stands for official panegyric under Akbar.
+18. **Gulbadan Begum** is a rare female voice in Mughal prose through **Humayunnama**.
+19. **Afif** covers later Firuz; Barani’s Tarikh stops earlier — that period split is the double-title trap.
+20. **Persian** dominated as the court language from **Iltutmish to Aurangzeb**, Arabic served religious texts, and Sanskrit continued in temples.
+21. **Gulbadan Begum** wrote *Humayunnama*, a rare female voice in Mughal prose.
+22. **Minhaj-us-Siraj** wrote **Tabaqat-i-Nasiri**, covering the **Ghaznavids to Nasiruddin Mahmud** (~1260); **tabaqat** means a generational or class format, and the work is named after patron Sultan **Nasiruddin Mahmud**.
+23. **Hasan Nizami** wrote **Taj-ul-Maasir**, covering **Qutb-ud-din Aibak to Iltutmish**, the earliest Delhi conquest narrative.
+24. **Ziauddin Barani** was a privileged Delhi court insider who wrote for **Firuz Shah Tughlaq** and is a primary source on **Alauddin Khalji's** reforms.
+25. **Amir Khusrau** was a poet-musician at the courts of **Balban, Alauddin, and Ghiyasuddin Tughlaq**, a Hindavi pioneer, and a disciple of **Nizamuddin Auliya**.
+26. **Ibn Battuta's Rihla** records his stay at **Muhammad bin Tughlaq (मुहम्मद बिन तुगलक)'s** court (~1334–1341) as an eyewitness travel account; he did **not** write Tughlaqnama.
+27. **Firuz Shah** collected Sanskrit books from **Nagarkot** and encouraged translations, creating a parallel track to Persian chronicles.
+28. **Baburnama** introduced a frank autobiographical style covering gardens, wine, battles, and feelings.
+29. **Ain-i-Akbari** broke new ground as an imperial gazetteer that catalogued the empire as data on revenue, castes, animals, and customs, rather than as narrative history.
+30. **Gulbadan Begum** (Babur's daughter) wrote *Humayunnama*, a voice absent from Sultanate chronicles.
+31. **Badauni** wrote a secret critique of Akbar's liberal policies while serving at court, marking critical historiography.
+32. **Khamsa** is a set of five Persian masnavis modeled on Nizami, including **Matla-ul-Anwar** and **Khusrau-o-Shirin**.
+33. **Nuh Sipihr (Nine Skies)** praises **India's climate, languages, and culture**, showing pride in Hindustan.
+34. **Khaliq-e-Bari** contains early **Hindavi** devotional verses and marks the Hindi-Urdu literary synthesis.
+35. **Ashiqa** (Deval Rani Khizr Khan) is Khusrau’s romantic historical masnavi; **Rag Vibodh** is **Somnath’s** Sanskrit music treatise (1609), not Khusrau’s.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Akbarnama | Ain-i-Akbari | Narrative history of Akbar vs admin/statistical gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
-| Baburnama | Akbarnama | Babur's Turki memoir vs Abul Fazl's Persian Akbar history | बाबरनामा / अकबरनामा |
-| Tarikh | Tabaqat | Annal/continuous history vs generational biographies ("classes") | तारीख / तबक़ात |
-| Barani | Ibn Battuta | Delhi Sultanate historian vs Moroccan traveller (Rihla) | बरनी / इब्न बतूता |
-| Tughlaqnama | Rihla | Amir Khusrau's historical masnavi on Ghiyasuddin Tughlaq vs Ibn Battuta's travelogue | तुग़लक़नामा (अमीर खुसरो) / रिहला (इब्न बतूता) |
-| Barani | Afif (Tarikh) | Barani's Tarikh (Balban→early Firuz) vs Afif's later Tarikh (Firuz→end) | बरनी / आफ़िफ़ |
-| Padmavat | Padmavati Katha | Jaisi's Awadhi epic vs Damodar Kavi's **Padmavati Katha** | पद्मावत / पद्मावती कथा |
-| Riyaz-us-Salatin | Riyaz-ul-Insha | Bengal history vs Gawan's official letters | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
-| Amir Khusrau | Tansen | 13th–14th c. Sultanate poet vs Akbar's dhrupad master | अमीर खुसरो / तानसेन |
-| Tuzuk-i-Jahangiri | Padshahnama | Emperor's own memoir vs court historian's Shah Jahan chronicle | तुज़ुक / पादशाहनामा |
-| Ashiqa | Rag Vibodh | Amir Khusrau's romantic historical poem (Deval Rani) vs Somnath's Sanskrit music treatise (1609) | आशिक़ा (खुसरो) / राग विबोध (सोमनाथ) |
-| Persian | Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Tughlaqnama** was **not** written by Ibn Battuta; the correct author is **Barani**.
+2. **Tarikh-i-Firoz Shahi** was **not** written by Shams-i-Siraj Alif; the correct author is **Barani**.
+3. **Baburnama** was originally written in **Chagatai Turki**, not Persian.
+4. **Turki** was **not** the Mughal court language; **Persian** was the court language.
+5. **Ain-i-Akbari** is **not** a biography; **Akbarnama** is narrative history, while Ain-i-Akbari is an **administrative gazetteer**.
+6. **Akbarnama** was **not** written by Jahangir; **Abul Fazl** wrote it under Akbar.
+7. **Tuzuk-i-Jahangiri** was **not** written by Abul Fazl; **Jahangir** wrote his own memoir.
+8. **Padshahnama** is **not** about Akbar or Jahangir; it chronicles **Shah Jahan** (Abdul Hamid Lahori).
+9. **Rag Vibodh** belongs to **Somnath** (1609); **Ashiqa** belongs to **Amir Khusrau** — never swap them.
+10. **Amir Khusrau** did **not** serve Akbar or Tansen's court; he was a 13th–14th century Sultanate poet.
+11. **Ibn Battuta** was an eyewitness **traveller** who wrote **Rihla**, not a Tughlaq historian.
+12. **Tabaqat-i-Nasiri** was **not** written by Barani; the correct author is **Minhaj-us-Siraj**.
+13. **Tutinama** was **not** translated by Amir Khusrau; the translator was **Nakhshabi**.
+14. Abul Fazl family death order is **Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl (1602) → Daniyal (1604)**, not 2-1-4-3.
+15. **Riyaz-us-Salatin** is Bengal history, while **Riyaz-ul-Insha** contains Gawan's letters; do not swap them.
+16. **Khazain-ul-Futuh** (Alauddin) and **Miftah-ul-Futuh** (Jalaluddin) are both **Amir Khusrau** works — not Barani.
+17. **Fatawa-i-Jahandari** is Barani's **political theory** — not the same as **Tarikh-i-Firoz Shahi** narrative history.
+18. **Padmavat** (Jaisi) ≠ **Padmavati Katha** (Damodar Kavi) — different authors in vernacular match traps.
+19. **Kitab-ul-Hind** = **Alberuni** (Arabic, Ghaznavid era) — not a Delhi Sultanate court chronicle.
+20. **Shams-i-Siraj Afif** also wrote a **Tarikh-i-Firoz Shahi**, but the standard chronicle pair is **Barani**, not Afif.
 
 
 ---

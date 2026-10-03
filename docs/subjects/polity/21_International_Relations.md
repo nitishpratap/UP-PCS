@@ -55,7 +55,8 @@ Newest first. One event, one fact.
 ---
 
 
-## Consolidated — 33 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 33 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. India’s foreign policy rests on **independent judgment** — historically called non-alignment and later strategic autonomy. It is **not** isolation and was **not** joining a US or USSR military camp in the Cold War textbook sense.
 2. **Panchsheel** was signed on **29 April 1954** in the India–China Tibet trade (पण्याध्यक्ष) agreement. The five principles are mutual respect for sovereignty, non-aggression, non-interference, equality and mutual benefit, and peaceful coexistence.
@@ -91,9 +92,10 @@ Newest first. One event, one fact.
 32. Connect Central Asia (**2012**) and the **2+2** format with the US, Japan, Australia, and Russia are standard India outreach facts beside Look/Act East and SAGAR.
 33. **Article 51** (DPSP) directs the State to promote **international peace and security**, just and honourable relations, respect for international law and treaty obligations, and settlement of disputes by arbitration — the constitutional footing for foreign-policy ideals, not a Fundamental Right.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Term A | Term B | Core difference | Hindi Terminology |
 | -------- | -------- | ----------------- | -------- / -------- |
@@ -129,7 +131,7 @@ Newest first. One event, one fact.
 | **Shanghai Five 1996** | **SCO 2001** | CN–RU–KZ–KG–TJ (**no Uzbekistan**) | Five **+ Uzbekistan** (then India/Pak 2017…) |
 | **RCEP** | **ASEAN** | Mega FTA; **India walked out Nov 2019** | 10-member club; India still **not** a member |
 
----
+</details>
 
 ## Must-score facts — Panchsheel, UN, groupings
 

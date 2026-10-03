@@ -38,7 +38,8 @@
 
 ---
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Key |
 |------|-----|
@@ -47,7 +48,7 @@
 | AG vs Governor’s private counsel | AG is the State’s constitutional law officer |
 | State Finance Commission vs UKPSC | Different bodies — do not merge “first” chairs |
 
----
+</details>
 
 ## 2.1 Public services and UKPSC
 

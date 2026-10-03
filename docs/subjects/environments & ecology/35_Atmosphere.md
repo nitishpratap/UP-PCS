@@ -21,7 +21,8 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. From bottom to top the layers run **Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere**.
 2. The **troposphere** (क्षोभमंडल) holds weather. Temperature **falls** with height in this layer.
@@ -48,9 +49,10 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 23. Never reverse the order of troposphere and stratosphere in a bottom-to-top ladder.
 24. Long-wave terrestrial radiation is the standard answer for how the lower atmosphere is heated after surface warming.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -60,7 +62,8 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 | **Homosphere** | **Heterosphere** | Lower ~85 km where atmospheric gases remain uniformly mixed in proportion vs upper layer where gases stratify by molecular weight (N₂, O, He, H) | सममंडल (समान मिश्रण) / विषममंडल (गुरुत्वाकर्षण परतें) |
 | **Insolation** | **Terrestrial Radiation** | Shortwave electromagnetic solar radiation received by Earth vs outgoing longwave infrared radiation re-radiated by Earth's heated surface | सूर्यताप (लघुतरंग) / भौमिक विकिरण (दीर्घतरंग) |
 | **Good Ozone** | **Bad Ozone** | Naturally occurring stratospheric ozone shielding Earth from solar UV-B vs ground-level tropospheric ozone acting as secondary pollutant and respiratory irritant | अच्छा ओजोन (समतापमंडल) / बुरा ओजोन (क्षोभमंडल) |
----
+
+</details>
 
 ## Must-score facts — layers, composition, radiation
 

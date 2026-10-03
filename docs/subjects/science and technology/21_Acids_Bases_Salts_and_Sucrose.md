@@ -26,7 +26,8 @@ Acid-Base Theories (Arrhenius, Brønsted-Lowry, Lewis) | pH Scale & Mathematical
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Arrhenius Theory**: An **acid** is a chemical substance that dissociates in aqueous solution to yield hydrogen ions ($H^+$ or hydronium ions $H_3O^+$); a **base** dissociates to yield hydroxide ions ($OH^-$).
 2. **Brønsted-Lowry Theory**: An **acid is a proton ($H^+$) donor**, and a **base is a proton ($H^+$) acceptor**. Every acid has a corresponding conjugate base, and every base has a conjugate acid.
@@ -158,9 +159,10 @@ Acid-Base Theories (Arrhenius, Brønsted-Lowry, Lewis) | pH Scale & Mathematical
 49. **Antacids**: Weakly basic compounds that neutralize excess gastric $HCl$ without irritating the stomach lining. Classic examples: **Milk of Magnesia ($Mg(OH)_2$)**, Aluminium Hydroxide gel ($Al(OH)_3$), and Sodium Bicarbonate ($NaHCO_3$).
 50. **Aqua Regia**: The royal solvent consisting of **$3\text{ parts concentrated } HCl + 1\text{ part concentrated } HNO_3$** by volume ($3:1$ ratio).
 
----
+</details>
 
-## Confused Pairs — Razor-Sharp Distinctions
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
@@ -173,7 +175,7 @@ Acid-Base Theories (Arrhenius, Brønsted-Lowry, Lewis) | pH Scale & Mathematical
 | **Efflorescence vs. Deliquescence** | **Efflorescence**: Hydrated crystal loses water of crystallization to dry air (e.g., $Na_2CO_3 \cdot 10H_2O \to Na_2CO_3 \cdot H_2O$). | **Deliquescence**: Substance absorbs atmospheric moisture until it completely dissolves into a liquid solution (e.g., $CaCl_2, NaOH$). | **Water Direction**: Efflorescence gives away water molecules into air; Deliquescence sucks in water from air until liquefied. |
 | **Arrhenius Base vs. Lewis Base** | **Arrhenius Base**: Yields **$OH^-$ ions** when dissolved in aqueous solution. | **Lewis Base**: An **electron-pair donor** ($e^-$ pair donor, e.g., $:NH_3$). | **Scope & Solvent**: Arrhenius is strictly restricted to water solutions yielding $OH^-$; Lewis applies to any solvent or gas phase donating an electron pair. |
 
----
+</details>
 
 ## Master Reference Tables
 

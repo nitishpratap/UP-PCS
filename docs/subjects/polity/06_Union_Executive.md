@@ -55,7 +55,8 @@ D. Members of Lok Sabha (लोकसभा) only
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Part V** covers the Union: Executive (**Articles 52–78** — President, Vice-President, Prime Minister, Council of Ministers, Attorney General) plus Parliament, and the **CAG under Articles 148–151**.
 2. India follows a parliamentary system: the **President** is the **nominal / de jure** head; the **real / de facto** executive is the **Council of Ministers headed by the Prime Minister**.
@@ -88,9 +89,10 @@ D. Members of Lok Sabha (लोकसभा) only
 29. **Doctrine of Pleasure** (Article **310**) is the general rule for civil servants, but it is **restricted** by Article **311** and by the hard removal routes for judges, CAG, CEC and similar offices.
 30. **Droupadi Murmu** became the **15th President** (office from **25 July 2022**) — first tribal President and second woman President.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct | Hindi |
 |---|----|------|-------|
@@ -109,7 +111,7 @@ D. Members of Lok Sabha (लोकसभा) only
 | Rank 6 (CJI = Speaker) | Rank 7 (Cabinet Ministers) | Speaker **not** below Cabinet | रैंक 6 / 7 |
 | SC judges (9) | CEC/CAG/UPSC (9A) | Do not swap the bands | 9 / 9A |
 
----
+</details>
 
 ## Must-score facts — President, VP, PM, ordinances
 

@@ -62,7 +62,8 @@ D. Gopi Aqua vs. Union of India
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. *A.K. Gopalan* (**1950**) held that Article **21** is satisfied by any procedure (प्रक्रिया) in a valid law and read Fundamental Rights (मौलिक अधिकार) in silos. *Maneka Gandhi* (**1978**) requires a **fair, just, and reasonable** procedure and reads Articles **14, 19, and 21** together.
 2. *ADM Jabalpur* (**1976**) held that habeas corpus (बन्दी प्रत्यक्षीकरण) fails if Article 21 (अनुच्छेद 21) is suspended in Emergency; Justice **Khanna** dissented. The **44th (44वां संशोधन) Amendment** (44वां संशोधन) later blocked suspension of Articles **20 and 21**. *Puttaswamy* (**2017**) said the *Jabalpur* majority was wrong.
@@ -97,9 +98,10 @@ D. Gopi Aqua vs. Union of India
 31. Floor test (*Bommai*) is the majority fact for Assembly confidence. Raj Bhavan letters and media claims do not replace a House vote.
 32. Rights-expansion neighbours often tested together are privacy (*Puttaswamy*), expression online (*Shreya Singhal*), sexual autonomy (*Navtej*), gender equality in adultery law (*Joseph Shine*), and environmental absolute liability (*Mehta*).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Term A | Term B | Core difference | Hindi Terminology |
 | -------- | -------- | ----------------- | -------- / -------- |
@@ -123,7 +125,7 @@ D. Gopi Aqua vs. Union of India
 | ***Joseph Shine*** | **Divorce adultery** | s.497 **crime** struck | Adultery can still be a **civil** matrimonial ground |
 | ***M.C. Mehta* Oleum** | **Rylands v Fletcher** | **Absolute** liability — no exceptions | English **strict** liability — several exceptions |
 
----
+</details>
 
 ## Must-score facts — case ↔ holding
 

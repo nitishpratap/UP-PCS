@@ -21,7 +21,8 @@ Food Chain | Food Web (खाद्य जाल) | Trophic Levels | Energy Flow
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A **food chain** is a single linear who-eats-whom sequence. A **food web** is a network of interconnected chains and is more stable than one chain alone.
 2. A **grazing food chain** starts from **living green plants**. A **detritus food chain** starts from **dead organic matter**.
@@ -54,9 +55,10 @@ Food Chain | Food Web (खाद्य जाल) | Trophic Levels | Energy Flow
 29. Match pyramid type to exception: energy never inverts; biomass may invert at sea/pond; numbers may invert with parasites.
 30. Keep Lindeman’s **10% rule** as an approximate key fact, not an exact laboratory constant for every ecosystem.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -67,7 +69,8 @@ Food Chain | Food Web (खाद्य जाल) | Trophic Levels | Energy Flow
 | **Bioaccumulation** | **Biomagnification** | Increase in toxicant concentration within a single organism's tissues through direct absorption from water/food vs increase in toxic chemical concentration (e.g. DDT, mercury) across successive trophic levels of a food chain | जैव संचय (एक जीव में) / जैव आवर्धन (खाद्य श्रृंखला में) |
 | **Primary Consumer** | **Secondary Consumer** | Herbivores feeding directly on autotrophic green plants (cow, deer, zooplankton) vs primary carnivores that hunt and feed on herbivores (frog, fox, small fish) | प्राथमिक उपभोक्ता (शाकाहारी) / द्वितीयक उपभोक्ता (मांसाहारी) |
 | **Pyramid of Energy** | **Pyramid of Numbers** | Always universally upright in all ecosystems because energy is irretrievably lost as metabolic heat at each level vs can be upright (grassland) or inverted (single large tree supporting thousands of birds/parasites) | ऊर्जा पिरामिड (सदैव सीधा) / संख्या पिरामिड |
----
+
+</details>
 
 ## Must-score facts — chains, pyramids, biomagnification
 

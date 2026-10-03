@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 25 — Global Environmental Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **Permafrost** | **Mollisols (Chernozem)** | Subsurface ground (soil, sediment, or rock) that remains continuously frozen below 0°C for at least two consecutive years, trapping massive ancient methane and organic carbon deposits vs deep, dark, humus-rich organic soils characteristic of temperate grasslands with highest agricultural fertility | स्थायी हिम मृदा (पर्माफ्रॉस्ट) / चेर्नोज़म (काली उपजाऊ घास मृदा) |
 | **Biodiversity Hotspot** | **Ecological Island** | Large biogeographic region meeting Norman Myers' criteria (≥1,500 endemic plant species and ≥70% primary habitat lost) vs isolated terrestrial habitat surrounded by completely different ecosystems or human urbanization functioning like an oceanic island | जैव विविधता हॉटस्पॉट (ह्रासग्रस्त समृद्ध क्षेत्र) / पारिस्थितिक द्वीप (पृथक वास) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Biomes / climate
 
@@ -172,18 +166,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Global environmental geography asks where and why Earth’s climate–biome patterns occur. Climate (temperature and rainfall) shapes biomes, biodiversity, and degradation belts.
-- **Exam Anchor:** Major biomes to ratta: tropical rainforest (Amazon Selva (सेल्वा)), tropical deciduous (Indian monsoon forests), desert (<25 cm rain), savanna (सवाना) (scattered trees with wet–dry seasons), temperate grassland (Prairie (प्रेयरी), Steppe (स्टेपी), Pampas, Puszta (पुस्ज़टा)), taiga/boreal, tundra (टुंड्रा), Mediterranean chaparral, and coastal mangrove as a transitional belt.
 - **Exam Anchor:** Köppen letters: A tropical, B arid, C temperate, D cold, E polar. India is largely monsoon (Am type language); Thar (थार) is hot desert (BWh); Gobi is cold desert (BWk).
 - **Exam Anchor:** Sahara is the largest hot desert. Atacama is among the driest. Gobi spans Mongolia and China.
-- **Exam Anchor:** Australia’s interior desert is explained mainly by subtropical high pressure and continentality — not by calling northern Australia “temperate.”
-- **Exam Anchor:** Brazil facts: Selva = Amazon equatorial rainforest name; Terra Roxa = fertile dark volcanic soil. Both can be true together in match stems.
-- **Exam Anchor:** Floral matching classics: Planting Hearth → C.O. Sauer; World Floral Regions → Adolf Engler; Cryophyte Steppe → Arctic tundra setting; Puszta → Hungary.
-- **Exam Anchor:** Tribe–region facts: Bushman–Kalahari; Eskimo–northern Canada; Pygmy–Congo. Masai are East Africa, not West Africa.
-
-</details>
+- **Exam Anchor:** Permafrost (स्थायी हिम मृदा) appears in taiga and tundra. It is not a savanna feature.
+- **Exam Anchor:** Global environmental geography studies where environmental systems occur and why — linking physical geography (climate, relief, oceans) to biomes, biodiversity, and degradation.
+- **Exam Anchor:** Climate (temperature + precipitation) is the primary control on biome distribution.
+- **Exam Anchor:** Latitude: equatorial regions receive direct sunlight year-round → high productivity and biodiversity; polar regions receive oblique rays → low productivity.
+- **Exam Anchor:** Continentality: interior continents (central Australia, central Asia) have extreme temperatures and aridity.
+- **Exam Anchor:** Altitude: Himalaya (हिमालय), Andes, Alps show vertical zonation — tropical forest at base, alpine/nival at summit.
 
 ---
 

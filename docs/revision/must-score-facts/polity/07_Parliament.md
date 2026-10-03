@@ -11,66 +11,84 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 7 — Parliament</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **Article 79**: Parliament of the Union = the **President** + **Rajya Sabha** (राज्यसभा) + **Lok Sabha** (लोकसभा). The President is an integral part of Parliament even though he sits in neither House.
-2. Rajya Sabha maximum under **Article 80** is **250** (**238** States/UTs + **12** nominated). Present strength is **245** (**233 + 12**). Seats follow the **Fourth Schedule** and are **not** equal per State.
-3. Rajya Sabha members are elected by **elected MLAs** through **PR-STV**. Term is **six years**; **one-third retire every two years**. The House is **never dissolved**.
-4. The President nominates **12** members with special knowledge in **literature, science, art, or social service**. **Sport** is **not** in that list. Nominated members vote in the **Vice-President** election but **not** in the **President** election.
-5. Rajya Sabha special powers: **Article 249** (State List (राज्य सूची) for one year), **Article 312** (All-India Services — **2/3 of members present and voting (गणपूर्ति)**), and the start of **Vice-President removal**.
-6. High-yield Rajya Sabha seat facts: **Uttar Pradesh (उत्तर प्रदेश) 31**, Maharashtra 19, Tamil Nadu (नाडु) 18, Bihar/West Bengal 16; UTs with seats include **Delhi 3**, **Puducherry 1**, **Jammu & Kashmir 4**.
-7. Lok Sabha maximum under **Article 81** is **550** (**530** States + **20** UTs). Present elected strength is **543**. Election is **FPTP**; minimum age is **25**.
-8. Anglo-Indian nomination to the Lok Sabha ended with the **104th Amendment**. SC/ST reservation continues till **25 January 2030**. Seat freeze uses the **1971** census (84th) until the first census after **2026**.
-9. **Uttar Pradesh** (उत्तर प्रदेश) has **80** Lok Sabha seats — the highest Leading state in the usual map.
-10. Qualifications sit in **Article 84**; disqualifications in **Article 102**. Office of profit is decided by the **President on binding Election Commission (निर्वाचन आयोग) advice**, not by the Speaker alone.
-11. Dual-membership clocks: both Houses of Parliament — choose within **10 days**; Parliament and a State legislature — Parliament seat goes after **14 days**. *Lily Thomas*: conviction of **two years or more** brings **instant** disqualification.
-12. The **Speaker** is elected by the House (**Article 93**), resigns to the Deputy Speaker, and can be removed by **14 days’** notice plus a majority of **all then members**. The Speaker gives the **Money Bill certificate** and presides over a **joint sitting** (संयुक्त बैठक).
-13. The **Vice-President** is *ex-officio* **Chairman** of the Rajya Sabha and is **not a member**. The Deputy Chairman is elected **from among** Rajya Sabha members. **Pro Tem Speaker** is appointed by the **President**.
-14. Sessions under **Article 85**: Budget, Monsoon, Winter; gap between two sittings of a House must not exceed **six months**. **Adjournment** (स्थगन) ends a sitting; **prorogation** (सत्रावसान) ends a session (Bills survive); **dissolution** (विघटन) ends the Lok Sabha’s life.
-15. **Quorum** (गणपूर्ति / कोरम) is **one-tenth** (1/10) of total membership (सदन की कुल सदस्य संख्या का) (**Article 100**). A **lame-duck** session (पंगु सत्र) is the last sitting of an outgoing Lok Sabha after a new House has been elected.
-16. **Joint sitting** (संयुक्त बैठक) is **Article 108** (not 109). It is for **ordinary Bills** only. The **Speaker** presides. There is **never** a joint sitting for a **Money Bill**, Appropriation Bill, or **Constitution Amendment Bill**.
-17. **Article 110** defines a Money Bill (धन विधेयक); **Article 109** is the **procedure** (प्रक्रिया). A Money Bill can originate **only in the Lok Sabha**. The Speaker’s certificate is **final**. Rajya Sabha gets **14 days** and may only **recommend** (सिफारिश).
-18. **Financial Bill I** (**117(1)**) has money-matter clauses plus other matter: only Lok Sabha origin; Rajya Sabha can amend; joint sitting **possible**. **Financial Bill II** (**117(3)**) involves expenditure from the Consolidated Fund: either House; joint sitting **possible**.
-19. **Finance Bill** is the annual tax Bill (usually certified as a Money Bill). **Appropriation Bill** (**Article 114**) is a Money Bill. Do not treat “Financial Bill” and “Finance Bill” as the same label.
-20. Funds: **Consolidated Fund of India** (भारत की संचित निधि) and **Public Account** (लोक लेखा) sit under **Article 266**; the **Contingency Fund** (आकस्मिकता निधि) sits under **Article 267** (at the President’s disposal). Charged expenditure is **discussed but not voted**.
-21. Budget is the **Annual Financial Statement** (वार्षिक वित्तीय विवरण) under **Article 112**. Lok Sabha may **reduce or refuse** a Demand for Grants — it **cannot increase** it. Guillotine (गिलोटिन - बिना चर्चा के सभी अनुदान मांगों पर मतदान) closes undiscussed demands at the time limit.
-22. Devices: **Question Hour** (प्रश्न काल) is the first hour; **Zero Hour** (शून्य काल - Indian innovation, 1962 teaching) comes **after** Question Hour. **Adjournment motion** (स्थगन प्रस्ताव) and **no-confidence** (अविश्वास प्रस्ताव) are **Lok Sabha only**.
-23. Cut motions (कटौती प्रस्ताव): **policy cut** (नीतिगत कटौती) reduces a demand to **₹1**; **economy cut** (मितव्ययिता कटौती) reduces by a specified amount; **token cut** (सांकेतिक कटौती) reduces by **₹100**.
-24. **Public Accounts Committee**: **22** members (**15 Lok Sabha + 7 Rajya Sabha**), conventionally chaired by an **opposition** member, and examines **CAG** reports.
-25. **Estimates Committee**: **30** members, **all from the Lok Sabha** — the largest of the three classic financial committees and with **no** Rajya Sabha members. **COPU** is also **22**.
-26. Parliamentary privileges under **Article 105** cover freedom of speech in the House and protection from **civil** arrest in the session window (**40 days** before/after plus during). They do **not** cover ordinary **criminal** process.
-27. Prorogation does **not** kill Bills — notices and pending motions may lapse, but Bills remain. Only dissolution ends the Lok Sabha’s unfinished ordinary business in the usual way.
-28. Leader of Opposition rests on the **1977** statutory recognition (मान्यता) with a practical **~10%** strength convention. Party **whips** (one-/two-/three-line) are **extra-constitutional**.
-29. Each House has its own **Secretariat** under **Article 98**. Ministers and the Attorney General may **speak in both Houses** (**Article 88**) but vote only in the House where they are members.
-30. **Meira Kumar** is the first woman Speaker of the Lok Sabha. Business Advisory Committee is chaired by the **Speaker**.
+1. **2024: 18th Lok Sabha** constituted; **Om Birla** re-elected Speaker; **Rahul Gandhi (गांधी)** recognised as Leader of the Opposition.
+2. **2019–20: 104th Amendment** ended Anglo-Indian nomination to LS (and State Assemblies) — Art. 331 / 334 trap.
+3. **Frozen:** LS territorial seats frozen on **1971** census till the first census after **2026** (84th) — delimitation.
+4. **Jan 2022:** ECI revised candidate expenditure ceilings — Lok Sabha up to **₹95 lakh** (smaller States **₹75 lakh**); Assembly up to **₹40 lakh** (smaller States **₹28 lakh**).
+5. **2024 polls:** 7 phases; **Malogam** (Arunachal East) one-voter booth; **Shompen** (Great Nicobar (निकोबार)) voted for the first time in Andaman (अंडमान) & Nicobar LS seat.
+6. **2017–:** Union Budget on **1 February**; **Railway Budget merged** with General Budget.
+7. **Convention:** PAC chair from the **Opposition** (since 1967).
+8. **18th Lok Sabha committee chairs (2024–25, Om Birla):** **Public Accounts** — **K.C. Venugopal**; **Estimates** — **Sanjay Jaiswal**; **Public Undertakings** — **Baijayant Panda**; **SC/ST Welfare** — **Faggan Singh Kulaste**; **OBC (अन्य पिछड़ा वर्ग) Welfare** — **Ganesh Singh**. Trap: Baijayant Panda is **COPU**, not Estimates.
+9. **Article 79**: Parliament of the Union = the **President** + **Rajya Sabha** (राज्यसभा) + **Lok Sabha** (लोकसभा). The President is an integral part of Parliament even though he sits in neither House.
+10. **Uttar Pradesh** (उत्तर प्रदेश) has **80** Lok Sabha seats — the highest Leading state in the usual map.
+11. **Quorum** (गणपूर्ति / कोरम) is **one-tenth** (1/10) of total membership (सदन की कुल सदस्य संख्या का) (**Article 100**). A **lame-duck** session (पंगु सत्र) is the last sitting of an outgoing Lok Sabha after a new House has been elected.
+12. **Joint sitting** (संयुक्त बैठक) is **Article 108** (not 109). It is for **ordinary Bills** only. The **Speaker** presides. There is **never** a joint sitting for a **Money Bill**, Appropriation Bill, or **Constitution Amendment Bill**.
+13. **Article 110** defines a Money Bill (धन विधेयक); **Article 109** is the **procedure** (प्रक्रिया). A Money Bill can originate **only in the Lok Sabha**. The Speaker’s certificate is **final**. Rajya Sabha gets **14 days** and may only **recommend** (सिफारिश).
+14. **Financial Bill I** (**117(1)**) has money-matter clauses plus other matter: only Lok Sabha origin; Rajya Sabha can amend; joint sitting **possible**. **Financial Bill II** (**117(3)**) involves expenditure from the Consolidated Fund: either House; joint sitting **possible**.
+15. **Finance Bill** is the annual tax Bill (usually certified as a Money Bill). **Appropriation Bill** (**Article 114**) is a Money Bill. Do not treat “Financial Bill” and “Finance Bill” as the same label.
+16. **Public Accounts Committee**: **22** members (**15 Lok Sabha + 7 Rajya Sabha**), conventionally chaired by an **opposition** member, and examines **CAG** reports.
+17. **Estimates Committee**: **30** members, **all from the Lok Sabha** — the largest of the three classic financial committees and with **no** Rajya Sabha members. **COPU** is also **22**.
+18. **Meira Kumar** is the first woman Speaker of the Lok Sabha. Business Advisory Committee is chaired by the **Speaker**.
+19. **Art. 79:** Parliament of the Union = the **President** + **Rajya Sabha** (Council of States) + **Lok Sabha** (House of the People).
+20. **Art. 98:** each House has its own **Secretariat**, independent of the executive; **Secretary-General** is the administrative head.
+21. **Art. 120:** business in Hindi or English; a member may speak in his mother tongue with the Presiding Officer (पीठासीन अधिकारी)’s permission. English continues under the **Official Languages Act, 1963**.
+22. **Art. 106:** salaries/allowances of MPs are determined by **Parliament by law**.
+23. **Art. 88:** every Minister and the AG may **speak in both Houses** and in committees of which they are named, but **vote only** in the House of which they are a member.
+24. **Legislative Councils do not vote** in Rajya Sabha elections — only the elected members of the Assembly do.
+25. **Sport** is **not** one of these four listed fields — a recurring trap.
+26. **One-third of members retire every two years** (biennial retirement); the **House itself is never dissolved**.
+27. **Madhya Pradesh** currently has the **highest number of ST-reserved** Lok Sabha seats (**6**). States such as **Kerala** and **Tamil Nadu** have **no** ST-reserved LS seats; **Arunachal Pradesh** and the UT of **Jammu & Kashmir** have **no** SC/ST LS reservation in the usual teaching list.
+28. **Uttar Pradesh** sends **80** members to the Lok Sabha — the **largest** of any State — followed by **Maharashtra (48)** and **West Bengal (42)**.
+29. **G. V. Mavalankar** was the first Speaker; the first motion seeking removal of a Speaker (1954) was moved against him and **rejected**. **M. A. Ayyangar** was the first Deputy Speaker. **Meira Kumar** was the first woman Speaker. **Om Birla** is Speaker of the **18th** Lok Sabha.
+30. **Parliament may exempt** specific offices by law — the **Parliament (Prevention of Disqualification) Act, 1959** — covering ministers, whips, and certain parliamentary secretaries, among others.
+31. **Ministers** are **expressly excepted** from this disqualification in Art. **102** itself.
+32. **Jaya Bachchan**, a Rajya Sabha member, was disqualified for holding an office in a **UP film-development body** — the best-known office-of-profit case.
+33. **Removal (Art. 94)** requires a resolution with **14 days' notice**, passed by a **majority of all the then members** of the Lok Sabha (an **effective majority**).
+34. **G.V. Mavalankar** was the **first Speaker** of the Lok Sabha (1952–1956); hailed by Jawaharlal Nehru (जवाहरलाल नेहरू) as the **"Father of the Lok Sabha"**.
+35. **First Speaker faced with Removal Motion:** **G.V. Mavalankar** was the first Speaker against whom a resolution for removal was moved in the Lok Sabha (on **18 December 1954** by opposition members led by J.B. Kripalani; the resolution was discussed and defeated by the House).
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Art. 79 Parliament | “Two Houses only” | President **+** RS **+** LS | संसद |
-| Art. 108 joint sitting | Art. 109 Money Bill procedure | Joint sitting ≠ 109 | संयुक्त बैठक / धन विधेयक |
-| Money Bill (110) | Financial Bill (117) | LS only + RS 14 days vs 117(1)/117(3) paths | धन / वित्तीय |
-| Finance Bill | Financial Bill | Annual tax Bill vs Art. 117 categories | वित्त / वित्तीय |
-| RS permanent House | Member’s 6-year term | House **never** dissolved vs individual term | राज्य सभा |
-| VP as Chairman | VP as RS member | Ex-officio Chairman vs **not** a member | सभापति |
-| Question Hour | Zero Hour | First hour vs **after** Question Hour | प्रश्न / ज़ीरो ऑवर |
-| PAC (22; opp. chair) | Estimates (30 LS-only) | Mixed Houses + opposition chair vs LS-only largest | लोक लेखा / प्राक्कलन |
-| CFI / Public Account (266) | Contingency Fund (267) | Do not park Contingency under 266 | निधि |
-| Charged expenditure | Voted expenditure | Discussed **not** voted vs needs vote | भारित / मतदेय |
-| No-confidence | Rajya Sabha | **Lok Sabha only** | अविश्वास |
-| Civil privilege | Criminal process | Privilege covers civil arrest window, **not** crime | विशेषाधिकार |
-| Anglo-Indian nomination | SC/ST reservation | Ended by **104th** vs continues till **25 Jan 2030** | एंग्लो-इंडियन / आरक्षण |
-| Speaker Money Bill certificate | Office-of-profit decision | Speaker final on Money Bill vs **President + EC** on office of profit | अध्यक्ष / लाभ का पद |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+- **Parliament = two Houses only:+ the President** (Art. 79).
+- **RS seats equal for every State:No** — Fourth Schedule; population-weighted (UP 31 vs Goa 1).
+- **Art. 109 = joint sitting:108**; **109** is Money Bill.
+- **Joint sitting for CAB / Money Bill:Never.**
+- **VP is a member of RS:Ex-officio Chairman**, not a member.
+- **RS dissolved after 6 years:** House is **permanent**; members’ term is 6 years.
+- **Art. 312 = 2/3 of total membership:2/3 present and voting**.
+- **Max UT LS seats = 13 / 15 / present strength:maximum is 20** (Art. 81).
+- **Anglo-Indian LS members still nominated:** ended by **104th**; SC/ST reservation **continues till 25 Jan 2030**.
+- **Speaker elected by ECI:House elects**; ECI has no role.
+- **Chairman (VP) presides over joint sitting:Speaker** does.
+- **60-day absence is automatic disqualification:** House **may declare** the seat vacant.
+- **Office of profit decided by the Speaker:President + binding EC advice** (Art. 103).
+- **Dual membership = instant dual sitting:** LS+RS: choose in **10 days**; Parliament+State: Parliament seat goes after **14 days**.
+- **Privilege covers criminal arrest:No** — only civil cases, 40 days before/after + during session.
+- **Prorogation kills Bills:No** — only notices/motions; Bills survive.
+- **Art. 109 defines Money Bill:110** defines; **109** is procedure.
+- **Money Bill can originate in RS:Never.**
+- **RS can amend a Money Bill:** only **recommend**; LS may accept or reject.
+- **Financial Bill = Finance Bill:Finance** = annual tax Bill; **Financial** = 117(1) or 117(3).
+- **Contingency Fund = Art. 266:267**; 266 = CFI + Public Account.
+- **LS can increase a Demand for Grants:No** — only reduce or refuse.
+- **AG’s salary is charged:No.**
+- **PAC has 15 members from RS:** No — **15 LS + 7 RS**.
+- **Estimates Committee has RS members:** No — **30, all LS**.
+- **PAC chair from ruling party:** Opposition (since **1967**).
+- **Ethics complaint only by an MP:** Wrong — any person may complain if **forwarded by a member**.
+- **Baijayant Panda = Estimates chair (2024–25):** Wrong — he chairs **COPU**; **Sanjay Jaiswal** chairs Estimates.
+- **Zero Hour is the first hour:** first hour = **Question Hour**; Zero Hour **follows** it.
+- **No-confidence in Rajya Sabha:LS only**.
+- **Charged expenditure is not discussed:** it **is discussed**, but **not voted**.
+- **Token grant = policy cut:** token **grant** = ₹1 demand for re-appropriation; policy **cut** reduces a demand to ₹1.
+- **Consultative Committees are House committees:extra-constitutional**; Ministry of Parliamentary Affairs.
+
+---
 
 
 ---

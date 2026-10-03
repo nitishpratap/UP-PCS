@@ -11,110 +11,86 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 15 — Geomorphology & Landform Processes</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Endogenic** processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. **Exogenic** processes wear and deposit at the surface. **Gradation** = degradation + aggradation.
-2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
-3. **Igneous** rocks are primary: **granite** is intrusive (acidic); **basalt** is extrusive (basic). Fossils belong to **sedimentary** rocks.
-4. Igneous bodies: batholith, laccolith, lopolith, phacolith; a **sill** is parallel to beds; a **dyke** cuts across beds.
-5. Metamorphic pairs: **limestone → marble**, **sandstone → quartzite**, **granite → gneiss**, **shale → slate / schist**. Foliated rocks include slate–schist–gneiss; marble and quartzite are non-foliated.
-6. **Weathering** breaks rock **in situ**. **Erosion** picks up and carries material. **Denudation** is weathering plus erosion. Chemical routes include carbonation, oxidation, hydrolysis and hydration.
-7. River load moves by traction, saltation, suspension and solution. Agents of erosion are river, wind, glacier, sea, groundwater (karst) and gravity (mass wasting).
-8. Fluvial stages: youth = **V-valley / waterfall / pothole**; mature = **meander / floodplain / levee**; old = **ox-bow / delta (डेल्टा) / peneplain**. Rejuvenation adds knickpoints, terraces and incised meanders.
-9. On a meander, the **concave** bank erodes and the **convex** bank builds a **point bar**. A **yazoo** stream is deferred behind a levee. Mountain-foot dumps are **alluvial (जलोढ़) fans**; coalescing fans form a **bajada**.
-10. Stream genetic types include consequent (अनुवर्ती), subsequent (परवर्ती), obsequent and resequent. **Antecedent** (पूर्ववर्ती) streams cut rising land; **superimposed** (अध्यारोपित) streams inherit a course from a cover; subsequent streams follow structure.
-11. The **only** bird’s-foot (पक्षी-पाद) example is the **Mississippi**. **Arcuate** (चापाकार) examples include the **Nile** and the **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)**. The usual cuspate example is the **Tiber**. East-flowing Indian mouths often build deltas; **Narmada (नर्मदा)** and **Tapi (तापी)** usually form estuaries.
-12. Drainage patterns: **folded** beds → **trellis**; homogeneous rock → **dendritic** (वृक्षाकार); dome → **radial**; joints / faults → **rectangular**.
-13. The classic fault-valley river tag is the **Damodar** (दामोदर), not the Chambal (चंबल). **Narmada–Tapi** are rift / fault-line pairs as well.
-14. The **Imphal** basin is **lacustrine** (lake-filled), not loess or glacial. Kashmir Vale also has lacustrine / structural pairs. **Loess** is wind-laid silt (China belt), not Imphal.
-15. Structure landforms include cuesta, hogback, mesa and butte. A **mesa** is broader than a **butte**. Davis’s humid old-age plain is a **peneplain** with leftover **monadnocks**; King’s arid form is a **pediplain**.
-16. Glacial erosional forms: cirque, arête, horn, **U-valley**, hanging valley, fjord, tarn. Depositional forms: moraine, drumlin, esker, kame, outwash, erratic.
-17. A **fjord** is a drowned glacial trough. A **ria** is a drowned river valley. Do not treat them as the same estuary (ज्वारनदमुख) type.
-18. Aeolian points: **barchan** horns point **downwind**; parabolic dunes often show horns upwind. Yardang, zeugen and mushroom rocks are wind-eroded forms.
-19. Coastal deposition builds **spit, bar, tombolo and lagoon** with longshore drift. Coral reefs include fringing, barrier and atoll types. An **atoll’s shape** is **horseshoe / ring** around a central lagoon (not triangular or rectangular).
-20. Karst needs **limestone plus carbonation**. **Stalactite** hangs from the **ceiling**; **stalagmite** grows from the **floor**. Forms include doline, cave, uvala and polje.
-21. River capture vocabulary includes pirate stream, beheaded stream, wind gap and elbow of capture.
-22. East Indian rivers typically build **deltas**; west-flowing Narmada and Tapi typically form **estuaries** into the Arabian Sea.
-23. Conglomerate has rounded pebbles; breccia has angular fragments. Organic sedimentary rock pair includes coal.
-24. Intertrappean beds between Deccan (दक्कन) lava flows hold **land and freshwater** fossils, not marine plant–animal assemblages.
-25. Himadri (हिमाद्रि) is fossil-poor crystalline rock; Lesser Himalaya carries marine fossils; Shiwalik (शिवालिक) holds human remains — keep the three belts distinct when landform stems mix fossils.
-26. A gorge is a steep mountain cut; a canyon is often the arid stair-step equivalent. U-valley = glacier; V-valley = youthful river.
-27. Mekong source is Tibet; its delta is in **Vietnam**, not Cambodia.
-28. The rock cycle links magma ⇄ igneous → sedimentary → metamorphic → melt, so the same material can reappear as a different rock type after burial, melting or recrystallisation.
-29. Mass wasting moves material downslope under gravity (creep, slide, flow, fall). It is an agent alongside river, wind, glacier, sea and groundwater.
-30. Glacial depositional set: **moraine, drumlin, esker, kame, outwash, erratic**. Erosional set: cirque, arête, horn, U-valley, hanging valley, fjord, tarn.
-31. Aeolian deposition builds **barchan** (horns downwind) and often **parabolic** dunes (horns upwind). Wind erosion forms yardang, zeugen and mushroom rocks.
-32. Coastal deposition builds spit, bar, tombolo and lagoon with longshore drift. Coral reefs: fringing, barrier and **atoll** (horseshoe / ring around a lagoon).
-33. If the stem calls a moribund delta a **subdivision**, the answer is the **Bengal Delta** (moribund, mature, active). If the stem asks which river’s delta is the moribund **lobe**, the answer is the **Cauvery**. **Krishna (कृष्णा)–Godavari (गोदावरी)** and **Mahanadi (महानदी)** fit neither wording.
-34. The **Irrawaddy** (इरावदी) delta lies in **southern Myanmar**.
-35. The **Nile** (नील) delta lies in **northern Egypt**.
-36. The **Indus** (सिंधु) delta lies in **Sindh, Pakistan**.
-37. The **Danube** (डेन्यूब) delta meets the **Black Sea** in **Romania and Ukraine**.
-38. The **Rhine** (राइन) delta lies in the **Netherlands**.
-39. The **Volga** (वोल्गा) delta lies on the **Caspian Sea**.
-40. The **Niger** (नाइजर) has an inland delta in **Mali** and a sea delta in **Nigeria**.
-41. The **Godavari** (गोदावरी) delta lies in **Andhra Pradesh**.
-42. The **Krishna** (कृष्णा) delta lies in **Andhra Pradesh**.
-43. The **Mahanadi** (महानदी) delta lies in **Odisha**.
-44. The **Cauvery** (कावेरी) delta lies in **Tamil Nadu**.
-45. The **Red River** delta lies in **northern Vietnam**.
-46. The **Amazon** meets the Atlantic in **Brazil** as a broad estuary.
-47. Dendritic rivers include the **Ganga (गंगा)** and **Indus (सिंधु)** plains, the **Godavari (गोदावरी)**, the **Mahanadi (महानदी)**, the **Krishna (कृष्णा)**, and the **Kaveri (कावेरी)**.
-48. From **Amarkantak (अमरकंटक)**, the **Narmada (नर्मदा)** flows west and the **Son (सोन)** flows toward the Ganga. That spread is **radial**. The Mahanadi rises at **Sihawa**, so it is not in this radial set.
-49. The Indian **trellis** ground is the old folded belt of **Singhbhum (सिंहभूम)** on the Chotanagpur plateau.
-50. **Rectangular** streams follow joints on the **Vindhyan (विंध्य)** rocks.
-51. **Centripetal** streams drain into **Loktak (लोकतक)** and into **Sambhar (सांभर)**.
-52. The **Sharavati (शरावती)** follows a **parallel** pattern down the Western Ghats.
+2. **Igneous** rocks are primary: **granite** is intrusive (acidic); **basalt** is extrusive (basic). Fossils belong to **sedimentary** rocks.
+3. **Weathering** breaks rock **in situ**. **Erosion** picks up and carries material. **Denudation** is weathering plus erosion. Chemical routes include carbonation, oxidation, hydrolysis and hydration.
+4. **Rectangular** streams follow joints on the **Vindhyan (विंध्य)** rocks.
+5. **Centripetal** streams drain into **Loktak (लोकतक)** and into **Sambhar (सांभर)**.
+6. **Endogenic processes** come from Earth’s interior — folding, faulting, volcanism, earthquakes and uplift. They build relief.
+7. **Exogenic processes** work at the surface — weathering, mass wasting, erosion, transport and deposition by river, wind, glacier, sea and groundwater. They wear relief down and fill basins.
+8. **Gradation** is the overall smoothing of the land: **degradation** (wearing down) plus **aggradation** (building up by deposition).
+9. **Structure** is the rock arrangement (folds, faults, joints, bedding). **Process** is the work of agents. **Time** is how long the process has operated on that structure.
+10. **Magma** cools and solidifies to form **igneous** rock — intrusive granite deep underground, or extrusive basalt at the surface.
+11. **Weathering** breaks rock **in place** — no travel.
+12. **Erosion** detaches and **transports** material by an agent.
+13. **Deposition** drops the load when energy falls.
+14. **Denudation** is weathering plus erosion lowering the land.
+15. **Mass wasting** is gravity movement (creep, slide, fall) without a true transporting stream.
+16. **Frost / ice wedging** works where water freezes in cracks: ice expands and pries the rock apart (cold, wet climates).
+17. **Exfoliation / unloading** peels rock in **onion-like sheets** when overlying pressure is removed — classic on **granite** domes.
+18. **Thermal / insolation (सूर्यताप)** weathering follows desert day–night heating and cooling; the surface expands and contracts until it flakes.
+19. **Salt wedging** grows salt crystals in pores on arid coasts and playas and pries grains apart.
+20. **Block disintegration** breaks jointed masses into large angular blocks; **granular disintegration** frees mineral grains one by one (common in coarse granite).
+21. **Spheroidal weathering** rounds corestones as chemical softening and physical peeling work together from the outside in.
+22. **Carbonation** forms when CO₂ in rain makes weak carbonic acid that dissolves **limestone** and builds **karst**.
+23. **Solution** dissolves highly soluble rocks such as rock salt and gypsum directly into water.
+24. **Oxidation** rusts iron-bearing minerals and often colours soils red or brown.
+25. **Hydration** lets minerals take up water, swell, and crack the surrounding rock.
+26. **Hydrolysis** breaks feldspar into **clay** minerals — a main route from granite to clay soils.
+27. **Chelation** uses organic acids from plants and microbes to pull metal ions out of minerals (biological overlap).
+28. **Deflation** lifts fine dust and lowers desert floors.
+29. **Abrasion** sandblasts rock into polished surfaces and elongated **yardangs**.
+30. **Potholes**: Cylindrical holes drilled into rocky river beds by pebbles whirling in eddies (abrasion/cavitation). Famous Indian pothole fields are seen in Maharashtra in the beds of the **Kukadi river** (Nighoj potholes), **Krishna**, and **Godavari**.
+31. **Etymology of Delta**: The geographical term **'Delta'** was first coined by Greek historian **Herodotus** (the 'Father of History') after the Greek triangular letter delta (Δ), observing the fan shape at the mouth of the river **Nile**.
+32. **Davis** framed erosion as **structure–process–time**: youth → mature → old age, ending in a humid **peneplain** with leftover **monadnocks**.
+33. **Penck** argued that uplift and denudation often work **together**, so landscapes need not wait for a neat old-age plain.
+34. **L.C. King** stressed pediment retreat in arid and savanna (सवाना) lands, ending in a **pediplain** rather than a Davis peneplain.
+35. **Antecedent** drainage is **older than the uplift** it cuts — Himalayan transverse giants (Indus (सिंधु), Sutlej (सतलुज), Brahmaputra and often Ganga in keys) are the classic Indian centre.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Weathering vs erosion | In situ vs **transport** | Same thing | अपक्षय / अपरदन |
-| Granite vs basalt | Intrusive acidic vs **extrusive basic** | Swapped | ग्रेनाइट / बेसाल्ट |
-| Marble | From **limestone** | From sandstone | संगमरमर |
-| Quartzite | From **sandstone** | From limestone | क्वार्टजाइट |
-| Gneiss | From **granite** | From shale | नाइस |
-| Trellis | **Folded** structures | Dendritic on folds | जाल / जाली |
-| Bird’s-foot delta | **Mississippi only** | Ganga / Nile / a second river | पक्षी-पाद |
-| Arcuate delta | **Nile, Ganga–Brahmaputra** | Mississippi | चापाकार |
-| Moribund wording | **Subdivision → Bengal**; **lobe → Cauvery** | One answer for both | मृतप्राय |
-| Mekong delta | **Southern Vietnam** | Cambodia | मेकांग |
-| Nile delta | **Northern Egypt** | Sudan / Ethiopia | नील |
-| Indus delta | **Sindh, Pakistan** | Indian west coast | सिंधु |
-| Irrawaddy delta | **Southern Myanmar** | Thailand | इरावदी |
-| Danube delta | **Black Sea (Romania–Ukraine)** | Hungary | डेन्यूब |
-| Volga delta | **Caspian Sea** | Black Sea | वोल्गा |
-| Niger deltas | **Mali inland; Nigeria at the sea** | One mouth only | नाइजर |
-| Imphal basin | **Lacustrine** | Loess / glacial | झीलकृत |
-| Barchan horns | Point **downwind** | Upwind | बरखान |
-| Stalactite | **Ceiling** | Floor | स्टैलेक्टाइट |
-| Stalagmite | **Floor** | Ceiling | स्टैलेग्माइट |
-| U-valley vs V-valley | Glacier vs **river youth** | Swapped | U / V |
-| Fjord | Glacial trough drowned | Any estuary | फियोर्ड |
-| East vs west India mouth | **Delta** vs **estuary** | All India deltas | डेल्टा / ज्वारनदमुख |
-| Fault-valley river | **Damodar** (2019) | Chambal (ravines) | भ्रंश घाटी |
-| Antecedent vs superimposed | Cuts rising land vs **inherited** on cover | Swapped | पूर्ववर्ती / अध्यारोपित |
-| Consequent vs subsequent | Follows slope vs **follows structure** | Same | अनुगामी / परवर्ती |
-| Sill vs dyke | **Parallel** to beds vs **cuts** beds | Swapped | सिल / डाइक |
-| Conglomerate vs breccia | Rounded pebbles vs **angular** | Swapped | समूहिका / ब्रेशिया |
-| Peneplain vs pediplain | Davis humid old-age vs **King arid** | Same word | समप्राय मैदान / पदस्थली |
-| Mesa vs butte | Broad flat cap vs **narrow remnant** | Swapped | मेसा / ब्यूट |
-| Cuesta vs hogback | Gentle dip + steep scarp vs **steep both sides** | Same landform | क्वेस्टा / हॉगबैक |
-| Atoll shape | **Horseshoe / ring** around a lagoon | Triangular / rectangular / rod | एटॉल आकार |
-| Ria vs fjord | Drowned **river** vs drowned **glacier** | Same estuary | रिया / फियोर्ड |
-| Gorge vs canyon | Steep mountain cut vs **arid stair-step** | Always identical | गॉर्ज / कैनियन |
-| Endogenic vs exogenic | Interior build vs surface wear | Same | अंतर्जात / बहिर्जात |
-| Weathering vs denudation | In situ breakdown vs weathering+erosion | Same | अपक्षय ≠ अनाच्छादन |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+1. **Ganga delta = bird’s-foot** — FALSE. Bird’s-foot has **one** example: the **Mississippi**. Ganga = **arcuate**.
+2. **Every moribund stem = Cauvery** — FALSE. **Subdivision** wording → **Bengal**; **abandoned lobe** wording → **Cauvery**. Krishna–Godavari and Mahanadi fit neither.
+3. **Folds → dendritic** — FALSE. **Trellis**.
+4. **Imphal = loess / glacial** — FALSE. **Lacustrine**.
+5. **Marble from sandstone** — FALSE. **Limestone**. Quartzite = sandstone.
+6. **Weathering = erosion** — FALSE. Weathering is **in situ**.
+7. **Barchan horns upwind** — FALSE. **Downwind**.
+8. **Stalactite on the floor** — FALSE. **Ceiling**.
+9. **U-valley = youthful river** — FALSE. **Glacier**. River youth = **V**.
+10. **Mekong delta = Cambodia** — FALSE. **Southern Vietnam**. The Red River delta is the **northern** Vietnam one.
+11. **West Indian rivers = big arcuate deltas** — FALSE. **Estuaries** (Narmada/Tapi).
+12. **Nile delta = Sudan / Ethiopia** — FALSE. **Northern Egypt**.
+13. **Indus delta = Indian west coast** — FALSE. **Sindh, Pakistan**.
+14. **Irrawaddy delta = Thailand** — FALSE. **Southern Myanmar**.
+15. **Danube delta = Hungary** — FALSE. **Black Sea** (Romania and Ukraine).
+16. **Volga delta = Black Sea** — FALSE. **Caspian Sea**.
+17. **Niger has one delta** — FALSE. Inland delta in **Mali**; sea delta in **Nigeria**.
+18. **Greater Himalaya full of marine fossils** — FALSE. That’s **Lesser**; Greater is fossil-poor crystalline.
+19. **Fjord = any estuary** — FALSE. **Drowned glacial trough**.
+20. **Basalt = intrusive granite twin** — FALSE. Basalt = **extrusive**.
+21. **Loess = river silt of Imphal** — FALSE. **Wind silt**; Imphal = lake plain.
+22. **Fault-valley = Chambal** — FALSE. **Damodar**.
+23. **Endogenic = only rivers** — FALSE. Endogenic = interior build (fold/fault/volcano).
+24. **Weathering always transports** — FALSE. Weathering is **in situ**.
+25. **Skip process framework because recent papers asked trellis/Damodar** — FALSE. Next year can ask any standard NCERT agent or pair.
+26. **Sill cuts the beds** — FALSE. **Dyke** cuts; sill is **parallel**.
+27. **Point bar on the concave bank** — FALSE. Concave **erodes**; convex **deposits**.
+28. **Ria = fjord** — FALSE. Ria = drowned **river**; fjord = drowned **glacier**.
+29. **Peneplain = King’s arid pediment** — FALSE. Peneplain = **Davis**; pediplain = **King**.
+30. **Marble is foliated** — FALSE. Marble/quartzite = **non-foliated**.
+31. **Intertrappean = sea fossils** — FALSE. **Freshwater / land** fossils.
+
+
+### 🏞️ Fluvial Landform Concept — Peneplain (Ghatnachakra Complete)
+- **Peneplain**: An almost featureless, gently undulating plain produced by end-stage **fluvial (river) erosion and deposition**, reducing land close to base level. The term was coined by **William Morris Davis**.
 
 
 ---

@@ -28,7 +28,8 @@
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. British hill rule begins **May 1815** (Sugauli formalized **1816**) over **Kumaon** and **British Garhwal** as a **Non-Regulation** tract: the Commissioner of Kumaon answered to the Governor-General outside standard plains procedure codes.
 2. **Edward Gardner** is the **first Commissioner** (**May 1815 – April 1816**, ~9 months) and ran the first provisional settlement (**1815**).
@@ -53,7 +54,7 @@
 21. Do not swap **Gardner (first, short)** with **Ramsay (longest, 1857 peace)**.
 22. Hold the admin map: Non-Regulation Commissioner rule → Traill revenue-police + Assi Sala → Batten Golden Settlement / Nainital HQ → Ramsay 1857 stability → Becket scientific survey → forest–begar burdens.
 
----
+</details>
 
 ## Chronology of British Commissioners of Kumaon
 
@@ -137,7 +138,8 @@ Sir Henry Ramsay (1856–1884) ["King of Kumaon", 28-year reign, 1857 stability]
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -147,7 +149,7 @@ Sir Henry Ramsay (1856–1884) ["King of Kumaon", 28-year reign, 1857 stability]
 | **Gardner vs Ramsay** | Gardner = 1st Commissioner (1815, 9 months); Ramsay = longest-serving Commissioner (1856–1884, "Ramji"). |
 | **Hill Patwari vs Plains Patwari** | Hill Patwari holds **police investigation powers**; plains Patwari only manages land records. |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

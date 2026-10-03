@@ -11,62 +11,64 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 32 — National Parks & Protected Areas (Advanced)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Uttar Pradesh has **one National Park — Dudhwa (दुधवा)** — in **Lakhimpur Kheri** on the Indo-Nepal Terai (तराई).
-2. Dudhwa moved sanctuary (**1958**) → National Park (**1977**) → core of **Dudhwa Tiger Reserve (1987)** with Kishanpur and Katarniaghat. Rhino rehabilitation began **1984** (later phases including ~**2018**).
-3. **Valmiki** (वाल्मीकि) National Park is in **Bihar**. **Sultanpur** National Park is in **Haryana**. **Corbett** is in **Uttarakhand** (उत्तराखंड). None is a UP national park.
-4. Uttar Pradesh is **landlocked**, so it has **zero** marine or coastal national parks.
-5. UP has **25 Wildlife Sanctuaries**. **Hastinapur** (हस्तिनापुर) is the largest. **Chandraprabha** is in **Chandauli**. **Katarniaghat** was established in **1975**.
-6. **Rudrasagar** Lake is in **Tripura**. **Sultanpur** NP is in **Haryana**. **Samaspur** and **Sarsai Nawar** are in Uttar Pradesh.
-7. India’s first National Park is **Hailey / Jim Corbett (जिम कॉर्बेट) (1936)** in Uttarakhand. The world’s first is **Yellowstone (USA, 1872)** — Old Faithful geyser; Wyoming–Montana–Idaho.
-8. India’s **largest** National Park is **Hemis** in **Ladakh** (लद्दाख). **Madhya Pradesh** has the most national parks (~**11**). **Andaman (अंडमान) & Nicobar (निकोबार)** has the most wildlife sanctuaries.
-9. **Gir (गीर) (Gujarat)** holds the only wild **Asiatic lions**. **Kaziranga (काजीरंगा) (Assam)** is the classic one-horned rhino stronghold.
-10. A National Park is the strictest **Wildlife Protection (वन्यजीव सुरक्षा) Act** category (Section **35**). Boundary change needs the **State Legislature**.
-11. A Wildlife Sanctuary (Section **18**) is more flexible than a National Park. National Parks are **in-situ** (स्थान पर) conservation.
-12. India’s first Marine National Park is **Gulf of Kutch (Gujarat)**. Others include **Gulf of Mannar (Tamil Nadu (नाडु))** and the Andaman marine parks.
-13. Marine NP facts: **Mahatma Gandhi (महात्मा गांधी) Marine** and **Rani Jhansi (झांसी) Marine (1996)** are in the **Andaman** (अंडमान) group.
-14. Natural World Heritage (विश्व धरोहर) overlaps include Kaziranga, Keoladeo (केवलादेव), Manas, Sundarbans (सुंदरबन), Nanda Devi (नंदा देवी)–Valley of Flowers (फूलों की घाटी), Western Ghats (पश्चिमी घाट), Great Himalayan (**2014**), and Khangchendzonga (mixed **2016**).
-15. Uttar Pradesh has **no** natural UNESCO World Heritage site of its own.
-16. Classic match set: **Dachigam–J&K–Hangul**, **Keoladeo–Rajasthan–birds**, **Kanha (कान्हा)–MP–hard-ground barasingha / Bhoorsingh mascot**, **Periyar (पेरियार)–Kerala–elephant/tiger**.
-17. **Pilibhit (2014)** and **Ranipur (2023)** are tiger reserves. They are **not** additional full state national parks of UP.
-18. National Chambal (चंबल) Sanctuary spans UP–MP–Rajasthan and is famous for **gharial** and dolphin — **not Haryana**.
-19. River–park traps: Corbett = **Ramganga (रामगंगा) + Kosi (कोसी)**; Kaziranga = **Brahmaputra (ब्रह्मपुत्र) / Diphlu**; Silent Valley (साइलेंट वैली) = **Kunthipuzha**.
-20. Species–park traps: **Keoladeo Ghana (घन) ≠ lion (सिंह)**; **Eravikulam = Nilgiri (नीलगिरि) Tahr** (not Hoolock); **Hoolock = NE Assam**; **Bhitarkanika = saltwater crocodile**; **Desert NP = Great Indian Bustard** (Jaisalmer–Barmer; human habitation exists).
-21. Dudhwa flagship fauna (प्राणीजात) include tiger, reintroduced one-horned rhino, and **barasingha** (swamp deer).
-22. Terai Arc pieces with Dudhwa are **Kishanpur** (Lakhimpur Kheri) and **Katarniaghat** (Bahraich).
-23. **Rajaji (राजाजी) NP (UK)** = Dehradun (देहरादून)–Haridwar (हरिद्वार)–Pauri (पौड़ी) (Rajaji + Motichur + Chilla merged **1983**); Tiger Reserve **2015**. Named after C. Rajagopalachari.
-24. **Pin Valley = Himachal (हिमाचल) (Lahaul–Spiti)**, not J&K. **Van Vihar = Bhopal**. **Salim Ali NP = Srinagar (ex–City Forest)**. **Nagarhole = Rajiv Gandhi NP (Karnataka)**.
-25. **Indravati = Bastar (Chhattisgarh)** NP 1981 / TR 1983. **Bandhavgarh (Umaria, MP)** famous for white tiger association. **Betla/Palamu = Jharkhand**.
-26. **Keibul Lamjao (Manipur)** on **Loktak** is the only floating NP (**phumdis**; Sangai (सांगाइ) deer). **Valley of Flowers** (फूलों की घाटी) lies wholly in temperate alpine zone.
-27. **Govind NP (Uttarkashi (उत्तरकाशी))** includes the source region of the **Tons** (टौंस) (Yamuna (यमुना) tributary). **Great Himalayan NP = Kullu (HP)**.
-28. **Wild Ass Sanctuary (Rann of Kachchh, Gujarat)** is India’s largest wildlife sanctuary. **Kuno–Palpur (MP)** is the Asiatic lion second-home site.
-29. UK west→east sanctuary line: **Kedarnath (केदारनाथ) → Nanda Devi → Binsar → Askot** (Askot/Kedarnath = musk deer country).
-30. **Sathyamangalam TR** links Eastern and Western Ghats. **Nagarjunsagar–Srisailam** holds the largest critical tiger habitat (वास स्थान) among common options.
-31. Bird/butterfly facts: first butterfly park = **Bannerghatta (Karnataka)**; first State butterfly = **Blue Mormon (Maharashtra)**; Great Indian Hornbill (हॉर्नबिल) = **Western Ghats** (पश्चिमी घाट).
-32. World-first versus India-first is a fixed pair: **Yellowstone 1872** versus **Corbett 1936**.
-33. Early world peers: **Royal National Park, Australia (1879)**; **Banff NP, Canada (1885)**.
-34. Continent icons: **Serengeti (Tanzania)**, **Kruger (South Africa)**, **Kakadu (Australia)**, **Galápagos (Ecuador)**, plus USA icons Yosemite / Everglades / Grand Canyon.
-
-</details>
+1. **Valmiki** (वाल्मीकि) National Park is in **Bihar**. **Sultanpur** National Park is in **Haryana**. **Corbett** is in **Uttarakhand** (उत्तराखंड). None is a UP national park.
+2. **Rudrasagar** Lake is in **Tripura**. **Sultanpur** NP is in **Haryana**. **Samaspur** and **Sarsai Nawar** are in Uttar Pradesh.
+3. **Gir (गीर) (Gujarat)** holds the only wild **Asiatic lions**. **Kaziranga (काजीरंगा) (Assam)** is the classic one-horned rhino stronghold.
+4. **Pilibhit (2014)** and **Ranipur (2023)** are tiger reserves. They are **not** additional full state national parks of UP.
+5. **Rajaji (राजाजी) NP (UK)** = Dehradun (देहरादून)–Haridwar (हरिद्वार)–Pauri (पौड़ी) (Rajaji + Motichur + Chilla merged **1983**); Tiger Reserve **2015**. Named after C. Rajagopalachari.
+6. **Pin Valley = Himachal (हिमाचल) (Lahaul–Spiti)**, not J&K. **Van Vihar = Bhopal**. **Salim Ali NP = Srinagar (ex–City Forest)**. **Nagarhole = Rajiv Gandhi NP (Karnataka)**.
+7. **Indravati = Bastar (Chhattisgarh)** NP 1981 / TR 1983. **Bandhavgarh (Umaria, MP)** famous for white tiger association. **Betla/Palamu = Jharkhand**.
+8. **Keibul Lamjao (Manipur)** on **Loktak** is the only floating NP (**phumdis**; Sangai (सांगाइ) deer). **Valley of Flowers** (फूलों की घाटी) lies wholly in temperate alpine zone.
+9. **Govind NP (Uttarkashi (उत्तरकाशी))** includes the source region of the **Tons** (टौंस) (Yamuna (यमुना) tributary). **Great Himalayan NP = Kullu (HP)**.
+10. **Wild Ass Sanctuary (Rann of Kachchh, Gujarat)** is India’s largest wildlife sanctuary. **Kuno–Palpur (MP)** is the Asiatic lion second-home site.
+11. **Sathyamangalam TR** links Eastern and Western Ghats. **Nagarjunsagar–Srisailam** holds the largest critical tiger habitat (वास स्थान) among common options.
+12. **Uttar Pradesh has one National Park — Dudhwa** — in **Lakhimpur Kheri** on the Indo-Nepal Terai border.
+13. **Pilibhit TR (2014)** and **Ranipur TR (2023)** are tiger reserves — not additional full state NPs.
+14. **Terai trio with Dudhwa:Katarniaghat** (Bahraich) and **Kishanpur** (Lakhimpur Kheri) — tiger, gharial, dolphin corridor.
+15. **Hastinapur WLS** (~2,073 sq km) is UP’s **largest**, spanning Meerut (मेरठ)–Muzaffarnagar–Ghaziabad–Bijnor–Amroha.
+16. **National Chambal WLS** (Agra–Etawah (इटावा) + MP–Rajasthan) — gharial, dolphin, Indian skimmer.
+17. **Chandraprabha WLS** is in **Chandauli** (1957; among earliest in UP).
+18. **Katarniaghat** was established in **1975**.
+19. **Largest NP:Hemis**, Ladakh (~3,350 sq km) — snow leopard country.
+20. **Most NPs:Madhya Pradesh** (~11).
+21. **Gulf of Mannar Marine NP, Tamil Nadu** — coral islands, dugong; sits inside Gulf of Mannar Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र).
+22. **Mahatma Gandhi Marine NP (Wandoor)** and **Rani Jhansi Marine NP** are in the **Andaman** Islands.
+23. **World’s first National Park** is **Yellowstone NP, USA (1872)** — signed under President **Ulysses S. Grant**.
+24. **Keoladeo** (केवलादेव) often carries **NP + Ramsar + UNESCO WH** together.
+25. **Manas** was removed from the WH danger list in **2011** after recovery.
+26. **Uttar Pradesh has no natural UNESCO World Heritage Site** — nearest are Valley of Flowers / Nanda Devi in Uttarakhand.
+27. **Coastal NPs** protect mangrove, estuary, delta (डेल्टा), intertidal, and reef ecosystems; all marine NPs are coastal, but not every coastal NP is a “Marine NP” label.
+28. **Gahirmatha** = marine **sanctuary** (turtle rookery), not NP.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **National Park (NP)** | **Wildlife Sanctuary (WLS)** | WPA Sec 35; highest protection, no human settlement/grazing, boundaries altered only by State Legislature on NBWL advice vs WPA Sec 18; regulated grazing/traditional rights allowed | राष्ट्रीय उद्यान (NP) / वन्यजीव अभयारण्य (WLS) |
-| **Community Reserve** | **Conservation Reserve** | Established on private or community-owned lands under WPA Sec 36C vs established on government-owned contiguous lands under WPA Sec 36A | सामुदायिक रिज़र्व / संरक्षण रिज़र्व |
-| **First Marine NP** | **First National Park in India** | **Gulf of Kutch Marine NP** (1982, Gujarat) vs **Hailey / Jim Corbett NP** (1936, Uttarakhand) | प्रथम समुद्री उद्यान (कच्छ की खाड़ी) / प्रथम राष्ट्रीय उद्यान (कॉर्बेट 1936) |
-| **Dudhwa National Park** | **Valmiki National Park** | Only National Park in **Uttar Pradesh** (Lakhimpur Kheri) vs only National Park in **Bihar** (West Champaran) | दुधवा राष्ट्रीय उद्यान (यूपी) / वाल्मीकि राष्ट्रीय उद्यान (बिहार) |
-| **Keibul Lamjao NP** | **Khangchendzonga NP** | World's only floating park on Loktak Lake, Manipur (Sangai deer) vs India's only Mixed World Heritage Site in Sikkim | केइबुल लामजाओ (मणिपुर) / कंचनजंगा (सिक्किम) |
-| **Hemis National Park** | **South Button Island NP** | India's largest National Park (Ladakh, snow leopard) vs India's smallest National Park (Andaman & Nicobar, 0.03 km²) | हेमिस (लद्दाख, सबसे बड़ा) / साउथ बटन (अंडमान, सबसे छोटा) |
-| **Biosphere Reserve Core** | **National Park** | Untouched strictly protected sanctuary within UNESCO MAB zoning vs statutory strictly protected area under Wildlife Protection Act, 1972 | बायोस्फीयर कोर क्षेत्र / राष्ट्रीय उद्यान |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Valmiki / Sultanpur in UP | **Bihar / Haryana** |
+| Dudhwa = Pilibhit district | **Lakhimpur Kheri** |
+| First Marine NP = Sundarbans | **Gulf of Kutch** |
+| World first NP = Corbett | **Yellowstone 1872** |
+| Simlipal = MP | **Odisha** |
+| Keoladeo = UP | **Rajasthan** |
+| Samaspur / Sarsai Nawar not in UP | **Both are in UP** |
+| Gahirmatha = Marine NP | **Marine sanctuary** |
+| UP has UNESCO natural WH | **None** |
+| Hangul = Gir | **Dachigam** |
+| NP boundary needs Parliament | **State Legislature** |
+| Corbett river = Ganga | **Ramganga + Kosi** |
+| Silent Valley river = Kaveri | **Kunthipuzha** |
+| Ghana = lion | **Birds** (Keoladeo) |
+| Pin Valley = J&K | **Himachal (Lahaul–Spiti)** |
+| Eravikulam = Hoolock | **Nilgiri Tahr** |
+| Periyar = Hangul | **Elephant / tiger** |
+| Desert NP = no people | Habitation **exists**; GIB yes |
+| Nagarhole = Andhra | **Karnataka** (Rajiv Gandhi NP) |
+| Bandipur = Tamil Nadu | **Karnataka** |
 
 
 ---

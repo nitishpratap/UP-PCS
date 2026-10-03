@@ -31,7 +31,8 @@
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Work Formula & Sign:** Work done $W = \vec{F} \cdot \vec{d} = F d \cos\theta$. If force and displacement are perpendicular ($\theta = 90^\circ$, such as a porter carrying a load horizontally or centripetal force on a satellite), work done by that force is **identically zero**.
 2. **Kinetic Energy & Momentum Relation:** $KE = \frac{p^2}{2m}$. If the momentum $p$ of a body is doubled, its kinetic energy becomes **4 times**. If $p$ increases by $100\%$, $KE$ increases by $300\%$. If $p$ increases by $50\%$, $KE$ increases by $125\%$.
@@ -84,8 +85,10 @@
 49. **Why Cloudy Nights are Warmer than Clear Nights:** Clouds consist of liquid water droplets and water vapor, which are strong absorbers and reflectors of terrestrial infrared radiation emitted by the Earth's surface. On a clear starry night, infrared heat escapes unobstructed into space, causing rapid radiational cooling; on cloudy nights, the cloud layer reflects this heat back, trapping warmth.
 50. **Open Refrigerator Door in a Closed Room:** Leaving the door of a running refrigerator open inside a closed, insulated room **warms the room up**. A refrigerator is a heat pump that transfers heat from its interior to the exterior condenser coils while consuming electrical work: $Q_{\text{released}} = Q_{\text{absorbed}} + W_{\text{electric}}$. The heat discharged into the room exceeds the cooling effect, elevating room temperature.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
 | :--- | :--- | :--- |
@@ -100,7 +103,7 @@
 | **Absolute Humidity** | **Relative Humidity** | Absolute humidity is the actual mass of water vapor present per unit volume of air (expressed in $\text{g/m}^3$). Relative humidity is the ratio (expressed as a percentage) of actual vapor present to the maximum vapor the air can hold at that specific temperature. As temperature increases, saturation vapor capacity rises, causing relative humidity to drop if vapor mass is unchanged. |
 | **Sublimation** | **Deposition / Desublimation** | Sublimation is the direct phase transition from **solid to gas** without passing through the liquid phase (Camphor, Naphthalene, Ammonium chloride, Iodine, Dry Ice). Deposition is the direct phase transition from **gas to solid** (e.g., formation of frost on freezing windshields). |
 
----
+</details>
 
 ## Must-Score Master Tables: Constants, Modes & Thermodynamic Laws
 

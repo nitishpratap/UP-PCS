@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 7 — Electronics, Semiconductors and Computer Technology</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Concept A | Concept B | Core Distinction & Common Trap |
 | :--- | :--- | :--- |
@@ -28,11 +26,7 @@ hide:
 | **MAC Address** | **IP Address** | MAC address is a permanent physical hardware address ($48\text{ bits}$) at Layer 2. IP address is a logical network address assigned by router/ISP at Layer 3. |
 | **Augmented Reality (AR)** | **Virtual Reality (VR)** | AR overlays digital computer-generated elements onto the real physical world (e.g. smartphone camera, Pokémon Go). VR completely shuts out the physical world into a simulated immersive digital environment (e.g. VR headsets). |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Table 1: Computer Generations Summary Matrix
 
@@ -165,18 +159,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A computer executes sequences of arithmetic or logical operations automatically; raw unorganized facts and figures are Data, while organized, interpreted, and meaningful processed data is Information.
-- **Exam Anchor:** Bit (Binary Digit) is the smallest unit of digital data ($0$ or $1$); a Byte comprises $8\text{ bits}$, and a Nibble comprises $4\text{ bits}$.
-- **Exam Anchor:** Charles Babbage is celebrated as the "Father of Computing" for designing the Analytical Engine (1834/1837), which pioneered the ALU, integrated memory, and flow control.
-- **Exam Anchor:** Alan Turing formulated the theoretical foundation of modern computer science and artificial intelligence (Turing Machine, 1936; Turing Test / Imitation Game, 1949).
-- **Exam Anchor:** The first electronic digital computer was Colossus (designed by Tommy Flowers and Alan Turing in Britain, 1943–1945 for deciphering the Lorenz cipher) and ENIAC (1946, USA).
-- **Exam Anchor:** The first commercial digital computer built with integrated circuit (IC) chips was the IBM System/360 (1964).
-- **Exam Anchor:** The physical circuit board housing the CPU, memory sockets, and chipset is the Motherboard.
-- **Exam Anchor:** The computer mouse was invented in 1964 by Dr. Douglas Engelbart; the original prototype body was carved out of wood with two metal wheels.
-
-</details>
+- **Exam Anchor:** AI Action Summit, Paris (February 2025 - IAS Pre 2025 / 71st BPSC Fact):
+- **Exam Anchor:** Common Trap Fact: The USA and the UK DID NOT sign this declaration!
+- **Exam Anchor:** Quantum Computing Processors: Majorana 1 & Ocelot (IAS Pre 2025 Fact):
+- **Exam Anchor:** Majorana 1: Unveiled by Microsoft on 19 February 2025, utilizing topological qubits aimed at achieving a million-qubit scale.
+- **Exam Anchor:** Ocelot: Quantum processor developed by Amazon Web Services (AWS).
+- **Exam Anchor:** National Supercomputing Mission (NSM) Milestones (November 2025 Status):
+- **Exam Anchor:** Fastest Supercomputer Installed in India: PowerEdge XE 9680 (installed at Shakti Cloud, Yotta Data Services, Mumbai; ranked 28th globally; $R{\max} = 84.31\text{ Petaflops}$, manufactured by Dell, USA).
+- **Exam Anchor:** Fastest Indigenous Supercomputer Developed in India: AIRAWAT-PSAI (installed at C-DAC Pune; ranked 188th globally; $R{\max} = 8.50\text{ Petaflops}$, $R{\text{peak}} = 13.17\text{ Petaflops}$).
 
 ---
 
@@ -232,7 +224,8 @@ hide:
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A computer executes sequences of arithmetic or logical operations automatically; raw unorganized facts and figures are **Data**, while organized, interpreted, and meaningful processed data is **Information**.
 2. **Bit (Binary Digit)** is the smallest unit of digital data ($0$ or $1$); a **Byte** comprises **$8\text{ bits}$**, and a **Nibble** comprises **$4\text{ bits}$**.
@@ -291,9 +284,10 @@ hide:
 49. The **Turing Test**, originally proposed as the **"Imitation Game"** by Alan Turing in 1949, evaluates whether a machine can exhibit conversational behaviour indistinguishable from a human.
 50. **Blockchain** is a decentralized, distributed, cryptographically secured public ledger; under **Web 3.0**, blockchain enables user data sovereignty, decentralized finance (DeFi), and censorship-resistant social networks.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Core Distinction & Common Trap |
 | :--- | :--- | :--- |
@@ -308,7 +302,7 @@ hide:
 | **MAC Address** | **IP Address** | MAC address is a permanent physical hardware address ($48\text{ bits}$) at Layer 2. IP address is a logical network address assigned by router/ISP at Layer 3. |
 | **Augmented Reality (AR)** | **Virtual Reality (VR)** | AR overlays digital computer-generated elements onto the real physical world (e.g. smartphone camera, Pokémon Go). VR completely shuts out the physical world into a simulated immersive digital environment (e.g. VR headsets). |
 
----
+</details>
 
 ## Must-Score Master Tables
 

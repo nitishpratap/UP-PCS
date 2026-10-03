@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 1 — Early Medieval (प्रारंभिक मध्यकाल) India (Regional Kingdoms)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -47,11 +45,7 @@ hide:
 | Rajasekhara | Hemadri / Vijnaneshwara | Pratihara court poet vs early medieval **jurists** | राजशेखर / हेमाद्रि–विज्ञानेश्वर |
 | Anhilwada | Dhara | Solanki capital vs Paramara capital | अणहिलवाड़ / धारा |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Dynasty ↔ capital
 
@@ -369,18 +363,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Early Medieval India runs roughly 750–1200 CE after Harsha (हर्ष) as an age of regional kingdoms and hereditary samantas (सामंत), not the Delhi Sultanate (दिल्ली सल्तनत) that begins in 1206.
-- **Exam Anchor:** The Tripartite Struggle for Kannauj (कन्नौज) was fought by the Pala, Gurjara-Pratihara, and Rashtrakuta (राष्ट्रकूट) powers — not by the Cholas.
-- **Exam Anchor:** In the south, imperial power rotated Pallava → Chalukya → Rashtrakuta → Chola.
-- **Exam Anchor:** The Pallava (पल्लव) capital was Kanchi (कांची); the Pandya capital was Madurai (मदुरै).
-- **Exam Anchor:** Early Chalukyas ruled from Badami (बादामी) / Vatapi; Eastern Chalukyas from Vengi (Pedavegi near Eluru, West Godavari (गोदावरी), Andhra); later Western Chalukyas from Kalyani — do not merge the three seats.
-- **Exam Anchor:** The Rashtrakuta capital was Manyakheta (Malkhed) in the Deccan (दक्कन).
-- **Exam Anchor:** The imperial Chola capital moved from Thanjavur (तंजावुर) to Gangaikondacholapuram under Rajendra I.
 - **Exam Anchor:** Hoysala power centred on Halebid / Dvarasamudra; Kakatiya on Warangal (वारंगल); Yadava on Devagiri (देवगिरी) (later Daulatabad).
-
-</details>
+- **Exam Anchor:** Ur was the ordinary village assembly; Sabha (सभा) / Mahasabha was the Brahmana (ब्राह्मण) agrahara assembly.
+- **Exam Anchor:** Gopala was elected Pala founder; Dharmapala founded Vikramashila (विक्रमशिला); Devapala marked the Pala peak; Atisha (अतीश) carried Buddhism (बौद्ध धर्म) toward Tibet.
+- **Exam Anchor:** Mihir Bhoja (Pratihara (गुर्जर-प्रतिहार), Adivaraha, Kannauj) is not Bhoja I of the Paramaras at Dhara (धारा) in Malwa.
+- **Exam Anchor:** Chandelas held Khajuraho (खजुराहो) / Mahoba / Kalinjar (कालिंजर) in Bundelkhand; Paramaras held Malwa / Dhara.
+- **Exam Anchor:** Gahadavalas ruled Kannauj and Banaras in the 11th–12th century after Pratihara decline.
+- **Exam Anchor:** Jay Chandra of the Gahadavalas was killed at Chandawar (चंदावर) in 1194.
+- **Exam Anchor:** Mahoba and Kalinjar (Banda district) are the Chandela strongholds in Bundelkhand UP.
 
 ---
 

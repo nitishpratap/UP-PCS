@@ -30,7 +30,8 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 
 ---
 
-## Consolidated — 44 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 44 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Foreign trade** is the exchange of goods and services across national borders — exports earn foreign exchange; imports spend it.
 2. **Balance of Trade (BoT)** is merchandise exports minus merchandise imports (goods only in the classic teaching).
@@ -77,9 +78,10 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 43. **Free Trade Agreements / CEPA / CECA** lower barriers bilaterally or regionally within WTO-compatible frameworks.
 44. Topic border: IMF / World Bank / BRICS / G20 → Topic 10; company / FDI policy sector lists → Topic 7; FEMA PMLA neighbour acts deepen in Topic 12.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing fact |
 |---|---|---|
@@ -95,6 +97,8 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 | **WTO HQ Geneva** | **MC venue (e.g. Abu Dhabi)** | Secretariat seat ≠ ministerial host city |
 | **Remittance** | **FDI** | Transfer income vs equity/control investment |
 | **Export** | **Import** | Earns forex vs spends forex |
+
+</details>
 
 ## Must-score drill — BoP, forex, FEMA
 

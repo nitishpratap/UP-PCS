@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Daily Read — High-Yield Revision Facts (Environment & Ecology)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## 1. Core Environmental Legislation in India (Exact Years & Articles)
 
@@ -226,7 +224,7 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Asan Conservation Reserve (Dehradun; confluence of Asan and Yamuna; first Ramsar of Uttarakhand, Oct 2020).
 - **Exam Anchor:** Jhilmil Jheel Conservation Reserve (Haridwar, 2005) is the state’s swamp-deer / barasingha wetland — not the Ramsar first (that is Asan).
@@ -236,8 +234,6 @@ hide:
 - **Exam Anchor:** Nawabganj Bird Sanctuary (Chandra Shekhar Azad, Unnao).
 - **Exam Anchor:** Parvati Arga Bird Sanctuary (Gonda).
 - **Exam Anchor:** Saman Bird Sanctuary (Mainpuri).
-
-</details>
 
 ---
 

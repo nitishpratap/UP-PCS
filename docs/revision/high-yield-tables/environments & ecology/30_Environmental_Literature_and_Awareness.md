@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 30 — Environmental Literature & Awareness</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Greendex** | **Ecological Footprint** | National Geographic consumer sustainability index vs Global Footprint Network measure of nature's demand vs biocapacity | ग्रीनडेक्स / पारिस्थितिक पदचिह्न |
 | **National Green Corps (NGC)** | **Mission LiFE (2022)** | MoEFCC Eco-club programme in school networks vs international citizen-movement promoting lifestyle for environment | नेशनल ग्रीन कॉर्प्स / मिशन लाइफ (LiFE) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Books / campaigns
 
@@ -125,18 +119,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Four (चातुर्याम) pillars on this sheet: literature (landmark books/reports), education (formal EE), awareness (public campaigns), and communication (science to citizens).
 - **Exam Anchor:** Silent Spring (1962) by Rachel Carson exposed pesticide/DDT harms. It is not Hardin’s commons essay.
 - **Exam Anchor:** “Tragedy of the Commons” (1968) by Garrett Hardin is about overuse of shared resources.
 - **Exam Anchor:** Limits to Growth (1972) is the Club of Rome systems study. Our Common Future (1987) is the Brundtland Report that popularised sustainable development. Brundtland ≠ Limits to Growth.
 - **Exam Anchor:** Small Is Beautiful (1973) by E.F. Schumacher critiques mass-production economics — “economics as if people mattered.” It is not Carson’s pesticide book.
-- **Exam Anchor:** Assertion–reason traps often make Brundtland and Limits to Growth look interchangeable — they are different books/years/authors.
-- **Exam Anchor:** Environmental education landmarks include Tbilisi (1977), MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) NGC/ECO Clubs, GSDP (2017), and NEP 2020 ESD language.
-- **Exam Anchor:** Environmental awareness hooks include Article 51A(g), NEAC, Van Mahotsav (July tree planting), and LiFE (launched June 2022 from a COP26 idea).
-
-</details>
+- **Exam Anchor:** Eco-mark (1991) is the BIS earthen-pot label for certified environment-friendly consumer goods. It is not AGMARK and not a FAO mark.
+- **Exam Anchor:** Indira Gandhi Paryavaran Puraskar (1987, MoEF) honours measurable contribution to environment protection. Rajiv Gandhi Environment Award recognises clean technology and industrial pollution reduction.
+- **Exam Anchor:** Tyler Prize (University of Southern California) is often called the “Nobel of Environment” for environmental science, health, and energy.
+- **Exam Anchor:** Environmental literature includes books and landmark reports that shaped ecological thought and policy.
 
 ---
 

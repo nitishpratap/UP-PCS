@@ -8,7 +8,8 @@
 
 ---
 
-## Consolidated — 18 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 18 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Recent UPPCS papers give roughly **15–20 tagged environment marks** most years. Planning for only 8–10 is outdated.
 2. Tagged volume rose from about **12** questions (2018–20 average) to about **17.7** (2023–25 average).
@@ -29,9 +30,10 @@
 17. Format formula after 2025: prepare heavily for multi-statement and Match/NOT-matched, with a smaller share of pure direct MCQs.
 18. Volume formula for the next attempt: budget about **15–20 tagged** plus a few cross-subject environment hits.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -42,6 +44,9 @@
 | **Kigali Amendment (2016)** | **Paris Agreement (2015)** | Binding phase-down of Hydrofluorocarbons (HFCs) under the Montreal Protocol vs global climate framework under UNFCCC capping warming at 1.5°C | किगाली संशोधन (एचएफसी कटौती) / पेरिस समझौता |
 | **Stockholm 1972** | **Stockholm 2001** | First UN global conference on the environment giving birth to UNEP vs binding international treaty banning Persistent Organic Pollutants (POPs) | स्टॉकहोम सम्मेलन (1972) / स्टॉकहोम संधि (2001) |
 | **National Green Tribunal (NGT)** | **Central Pollution Control Board (CPCB)** | Specialized judicial tribunal established under NGT Act 2010 for environmental disputes vs statutory executive regulatory board established under Water Act 1974 | राष्ट्रीय हरित अधिकरण (न्यायिक) / सीपीसीबी (कार्यकारी बोर्ड) |
+
+</details>
+
 ## Must-score facts — volume, hot clusters, year traps
 
 ### Trend locks

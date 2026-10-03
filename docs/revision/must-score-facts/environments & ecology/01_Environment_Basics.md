@@ -11,60 +11,61 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 1 — Environment (पर्यावरण) Basics</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Environment means the sum of **biotic and abiotic** factors that affect living organisms. Notes do not treat “only physical” or “only living” as the full definition.
-2. The four (चातुर्याम) spheres are **lithosphere, hydrosphere, atmosphere, and biosphere**. Biosphere roughly spans from about **200 m below soil** to about **6 km** above sea level.
-3. **Ecology** (पारिस्थितिकी) is the **study** of organism–environment links. An **ecosystem** (पारिस्थितिकी तंत्र) is the **functional unit**. A **habitat** (वास स्थान) is the **place**. A **niche** is the **role**.
-4. Abiotic factors include light, temperature, water, soil, gases, pH, and salinity. **Edaphic** means soil; **climatic** means weather; **topographic** means slope and altitude.
-5. Biotic structure runs **producers → consumers → decomposers**. **Rhizobium** fixes nitrogen in legumes.
-6. **Liebig’s law** says growth is limited by the **scarcest** essential resource. **Shelford’s law** says a species survives only inside a **min–max tolerance** range.
-7. Land is about **29%** of Earth’s surface and water about **71%**. **Lentic** means standing water; **lotic** means flowing water. Mangroves and wetlands are **transitional**.
-8. Human–environment thought moves **environmental determinism (Ratzel) → possibilism (Vidal de la Blache) → neo-determinism (Griffith Taylor)**.
-9. **IPAT** is Impact = Population (जनसंख्या) × Affluence × Technology. Hardin’s **Tragedy of the Commons** dates to **1968**.
-10. Sustainable development is defined in the **Brundtland Report (1987)** (ब्रंटलैंड रिपोर्ट). **Rio 1992** produced **Agenda 21**, **UNFCCC** (यूएनएफसीसीसी), and **CBD**.
-11. India’s **LiFE** Mission launched in **2022**; the idea was floated at **COP26 in 2021**, not COP25.
-12. **Chipko** (चिपको) began in **1973** at **Reni, Uttarakhand (उत्तराखंड)**. **JFM** guidance is **1990**. **FRA** is **2006**.
-13. **Article 48A** is the State DPSP (राज्य के नीति निदेशक तत्व) on environment. **Article 51A(g)** is the citizen’s Fundamental Duty. **Article 48** is about agriculture and cows — not environment.
-14. **Article 21** (अनुच्छेद 21) has been read to include a **healthy environment**. The **42nd (42वां) Amendment (1976)** added 48A and 51A(g).
-15. The **Environment (Protection) Act, 1986** is India’s post-**Bhopal (1984)** umbrella law.
-16. **MoEF** began in **1985** and became **MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) in 2014**. Headquarters is New Delhi.
-17. **Stockholm 1972** (स्टॉकहोम सम्मेलन) was the first UN human-environment conference and led to **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) at **Nairobi**.
-18. World Environment Day (विश्व पर्यावरण दिवस) is **5 June**. Earth Day (पृथ्वी दिवस) is **22 April**. World Wildlife Day (विश्व वन्यजीव दिवस) is **3 March**, not 22 March.
-19. World Wetlands Day (विश्व आर्द्रभूमि दिवस) is **2 February**. International Ozone Day is **16 September**. Desertification (मरुस्थलीकरण) and Drought (सूखा) Day is **17 June**. International Day for Biological Diversity is **22 May**.
-20. UNEP headquarters is **Nairobi, Kenya**. CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) and MoEFCC sit in **New Delhi**.
-21. The **Brundtland Commission (WCED)** worked **1983–1987** and defined sustainable development in *Our Common Future*.
-22. Uttar Pradesh (उत्तर प्रदेश) mainly falls in the **Gangetic Plain** biogeographic zone (**Zone 7**).
-23. Classic UP river–city facts include Ganga (गंगा) at Varanasi (वाराणसी) and Kanpur (कानपुर), Yamuna (यमुना) at Agra, and Gomti at Lucknow (लखनऊ).
-24. Pollution hotspots often tested for UP include **Kanpur tanneries**, NCR air (Ghaziabad/Noida), and Ganga ghats at **Varanasi** (वाराणसी).
-25. **Ganga Action Plan** (गंगा एक्शन प्लान) began in **1985**. **Namami Gange** (नमामि गंगे) launched in **2014**.
-26. A standard triad classifies environment as **physical**, **biological**, and **cultural**. **Operational environment** is **not** part of that triad.
-27. Natural versus anthropogenic, terrestrial versus aquatic, and internal versus external are further common classification axes.
-28. Micro-, meso-, and macro-scales describe environment size from a pond edge to a region or the globe. Competitive papers usually default to the **natural/physical** sense of environment.
-29. Agenda 21 belongs to **Rio 1992**, not 1995. Mixing Brundtland 1987 with Agenda 21’s year is a common trap.
-30. **Carrying capacity** is the maximum load an environment can sustain indefinitely. Resource extraction must stay **below** regeneration, and waste must stay **within** absorption capacity — not the reverse.
-31. **Ecological footprint** (पारिस्थितिक पदचिह्न) measures the land/water area needed to support consumption, in **global hectares (gha)**.
+1. **Ecology** (पारिस्थितिकी) is the **study** of organism–environment links. An **ecosystem** (पारिस्थितिकी तंत्र) is the **functional unit**. A **habitat** (वास स्थान) is the **place**. A **niche** is the **role**.
+2. **Liebig’s law** says growth is limited by the **scarcest** essential resource. **Shelford’s law** says a species survives only inside a **min–max tolerance** range.
+3. **IPAT** is Impact = Population (जनसंख्या) × Affluence × Technology. Hardin’s **Tragedy of the Commons** dates to **1968**.
+4. **Chipko** (चिपको) began in **1973** at **Reni, Uttarakhand (उत्तराखंड)**. **JFM** guidance is **1990**. **FRA** is **2006**.
+5. **Article 48A** is the State DPSP (राज्य के नीति निदेशक तत्व) on environment. **Article 51A(g)** is the citizen’s Fundamental Duty. **Article 48** is about agriculture and cows — not environment.
+6. **Article 21** (अनुच्छेद 21) has been read to include a **healthy environment**. The **42nd (42वां) Amendment (1976)** added 48A and 51A(g).
+7. **MoEF** began in **1985** and became **MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) in 2014**. Headquarters is New Delhi.
+8. **Stockholm 1972** (स्टॉकहोम सम्मेलन) was the first UN human-environment conference and led to **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) at **Nairobi**.
+9. **Ganga Action Plan** (गंगा एक्शन प्लान) began in **1985**. **Namami Gange** (नमामि गंगे) launched in **2014**.
+10. **Carrying capacity** is the maximum load an environment can sustain indefinitely. Resource extraction must stay **below** regeneration, and waste must stay **within** absorption capacity — not the reverse.
+11. **Ecological footprint** (पारिस्थितिक पदचिह्न) measures the land/water area needed to support consumption, in **global hectares (gha)**.
+12. **Pedosphere** (soil) is usually grouped with the lithosphere or with edaphic abiotic factors. It is not counted as a fifth sphere.
+13. **Micro-scale** environment covers immediate surroundings such as a room or a pond edge.
+14. **Meso-scale** covers a village or city.
+15. **Macro-scale** covers regional or global systems.
+16. **Total environment** can be natural, social, economic, or cultural. Competitive papers usually default to **natural/physical** environment.
+17. **UNEP** (United Nations Environment Programme) was created at Stockholm. Its headquarters is in **Nairobi, Kenya**.
+18. **World Environment Day (WED)** is observed every year on **5 June**. The date marks the opening day of the Stockholm Conference in 1972.
+19. **MoEF** was established in **1985**. It was renamed **MoEFCC in 2014** when climate change (जलवायु परिवर्तन) was added to its mandate.
+20. **Article 48A** is a Directive Principle. The State shall protect the environment and safeguard forests and wildlife. The **42nd Amendment (1976)** added it.
+21. **Article 51A(g)** is a Fundamental Duty. Every citizen shall protect and improve the natural environment. The same amendment added it.
+22. **Article 21** guarantees the Right to Life. The Supreme Court expanded it to include the **right to a wholesome and healthy environment** in cases such as *M.C. Mehta* and *Subhash Kumar*.
+23. **Liebig's Law of Minimum** states that growth is controlled by the **scarcest essential resource**. That resource is the limiting factor.
+24. **Shelford's Law of Tolerance** (शेलफोर्ड का सहनशीलता नियम) states that each species survives only within a **minimum–maximum range** for each factor. Beyond that range, stress or death follows even if other factors are abundant.
+25. **N₂** makes up about **78%** of air, but most life cannot use it directly. Organisms need **nitrogen fixation** first.
+26. **Rhizobium** bacteria live in legume root nodules and fix atmospheric N₂. Pulses, gram, and soybean are common legume examples.
+27. **Azotobacter** is a free-living soil bacterium that fixes nitrogen.
+28. **Cyanobacteria** (blue-green algae) also fix nitrogen in soil and water.
+29. **Humus** is organic matter in soil. It comes from decomposed plant and animal material, so it is **not** an abiotic component.
+30. **Dissolved Oxygen (DO)** is a key aquatic abiotic indicator. Fish die in polluted rivers when DO falls too low.
+31. **Operational environment** is **not** part of this standard classification.
+32. **Internal environment** (आंतरिक पर्यावरण) means conditions inside an organism's body, such as blood chemistry and tissue fluids studied in physiology.
+33. **External environment** (बाह्य पर्यावरण) means conditions outside the organism. Ecology usually studies the external environment.
+34. **World Wetlands Day** is observed on **2 February** (Ramsar (रामसर) Convention anniversary).
+35. **CRZ-IA** covers ecologically sensitive areas such as mangroves, coral reefs, and nesting beaches — **no new development** of the usual commercial kind.
 
-</details>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environment** | **Ecology** | Total biotic and abiotic surroundings influencing an organism vs the scientific *study* of interactions between organisms and environment | पर्यावरण / पारिस्थितिकी |
-| **Ecology** | **Ecosystem** | Scientific discipline/field of study (Ernst Haeckel 1866) vs functional, structural ecological *unit* of nature (A.G. Tansley 1935) | पारिस्थितिकी / पारिस्थितिकी तंत्र |
-| **Habitat** | **Ecological Niche** | Physical address / geographical place where an organism lives vs functional profession / ecological role of a species in an ecosystem | वास स्थान / पारिस्थितिक निकेत (Niche) |
-| **Biotic Components** | **Abiotic Components** | Living organisms (producers, consumers, decomposers) vs non-living physical and chemical factors (light, temperature, soil, water) | जैविक घटक / अजैविक घटक |
-| **Lentic Ecosystem** | **Lotic Ecosystem** | Standing or stagnant fresh water bodies (ponds, lakes, bogs, swamps) vs running or flowing fresh water bodies (rivers, streams, brooks) | स्थिर जल (लैंटिक) / प्रवाही जल (लोटिक) |
-| **Liebig's Law of the Minimum** | **Shelford's Law of Tolerance** | Population growth is controlled by the scarcest limiting resource vs species survival requires environmental factors to remain between minimum and maximum tolerance limits | लाइबिग का न्यूनतम नियम / शेलफोर्ड का सहनशीलता नियम |
-| **Internal Environment** | **External Environment** | Biochemical and physiological conditions within an organism (homeostasis) vs physical surroundings external to the organism | आंतरिक पर्यावरण / बाह्य पर्यावरण |
-| **Physical Environment** | **Biological Environment** | Inanimate non-living components (lithosphere, hydrosphere, atmosphere) vs living communities of flora, fauna, and microbes | भौतिक पर्यावरण / जैविक पर्यावरण |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Don't Fall For These
+
+| Trap | Correct fact |
+|------|----------------|
+| Art **48** vs **48A** | Environment = **48A** (48 = agriculture/cows) |
+| Humus = abiotic? | **No** — organic, biotic-origin |
+| Mangrove = terrestrial? | **No** — coastal/transitional |
+| MoEFCC est. 1972? | **No** — **1985** (1972 = Stockholm) |
+| Lentic = flowing? | **No** — Lentic = **standing** |
+| Wildlife Day = 22 March? | **No** — **3 March** |
+| Agenda 21 = 1995? | **No** — **Rio 1992** |
+| Brundtland = *Limits to Growth*? | **No** — Brundtland = *Our Common Future* (1987) |
 
 
 ---

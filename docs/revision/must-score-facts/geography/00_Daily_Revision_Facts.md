@@ -11,8 +11,7 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Daily Read — High-Yield Revision Facts (Geography)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Thalghat (Kasara Ghat)**: Connects **Mumbai to Nashik / Nagpur / North India** (National Highway 160 & railway line).
 2. **Bhorghat**: Connects **Mumbai to Pune / Bengaluru / South India** (Mumbai-Pune Expressway).
@@ -49,8 +48,6 @@ hide:
 33. **Kaveri** (800 km — **Ganga of the South**): Talakaveri (Brahmagiri Range, Coorg, Karnataka); flows year-round (perennial due to SW & NE monsoons); creates river islands: **Srirangapatna, Shivanasamudra, and Srirangam**; Tributaries: Hemavati, Harangi, Shimsha, Arkavathi (left); Lakshmantirtha, Kabini, Bhavani, Noyyal, Amaravati (right).
 34. **Deendayal Port (Kandla)** (Gulf of Kutch, Gujarat): Tidal port; free trade zone (SEZ); handles crude oil & grains.
 35. **Mumbai Port** (Maharashtra): Largest natural port and harbour in India.
-
-</details>
 
 
 ---

@@ -11,82 +11,63 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 3 — Energy, Heat and Thermal Science</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. **Work Formula & Sign:** Work done $W = \vec{F} \cdot \vec{d} = F d \cos\theta$. If force and displacement are perpendicular ($\theta = 90^\circ$, such as a porter carrying a load horizontally or centripetal force on a satellite), work done by that force is **identically zero**.
-2. **Kinetic Energy & Momentum Relation:** $KE = \frac{p^2}{2m}$. If the momentum $p$ of a body is doubled, its kinetic energy becomes **4 times**. If $p$ increases by $100\%$, $KE$ increases by $300\%$. If $p$ increases by $50\%$, $KE$ increases by $125\%$.
-3. **Calorific Value Leader:** **Hydrogen** has the highest calorific value ($\approx 150\text{ kJ/g}$), followed by LPG ($\approx 50\text{ kJ/g}$), CNG/Methane ($\approx 50\text{ kJ/g}$), Petrol/Diesel ($\approx 45\text{ kJ/g}$), Coal ($25\text{--}33\text{ kJ/g}$), Dry wood ($17\text{ kJ/g}$), and Cow-dung cake ($6\text{--}8\text{ kJ/g}$).
-4. **Mechanical Equivalent of Heat ($J$):** First determined by James Prescott Joule: $W = J \cdot Q$, where $J = 4.184\text{ J/cal} \approx 4.2\text{ J/cal}$. $1\text{ calorie}$ is the heat required to raise the temperature of $1\text{ g}$ of pure water from $14.5^\circ\text{C}$ to $15.5^\circ\text{C}$ at standard atmospheric pressure.
-5. **Commercial Unit of Electrical Energy:** $1\text{ Board of Trade Unit (B.O.T.U.)} = 1\text{ kilowatt-hour (kWh)} = 1000\text{ W} \times 3600\text{ s} = 3.6 \times 10^6\text{ J} = 3.6\text{ MJ}$.
-6. **Zeroth Law of Thermodynamics:** Formulated by Ralph H. Fowler (1931). States that if bodies A and B are each in thermal equilibrium with body C, then A and B are in thermal equilibrium with each other. This law introduces and **defines the concept of Temperature**.
-7. **First Law of Thermodynamics:** $\Delta Q = \Delta U + \Delta W$. It is a direct manifestation of the universal **Law of Conservation of Energy**. It states that heat added to a system goes into increasing internal energy plus doing external work.
-8. **Second Law of Thermodynamics:** Imposes direction on heat flow. **Clausius Statement:** Heat cannot spontaneously flow from a colder body to a hotter body without external work. **Kelvin-Planck Statement:** No engine can completely convert heat absorbed from a single reservoir into mechanical work in a cyclic process without rejecting heat.
-9. **Concept of Entropy:** Clausius introduced Entropy ($S$, where $dS = dQ_{\text{rev}}/T$). In any irreversible natural process, the total entropy of the universe **always increases** ($\Delta S_{\text{univ}} > 0$).
-10. **Absolute Zero Temperature:** The theoretical lowest possible temperature where molecular kinetic motion ceases and volume of an ideal gas drops to zero: $0\text{ K} = -273.15^\circ\text{C} = -459.67^\circ\text{F}$. Negative temperatures on the Kelvin scale are physically impossible.
-11. **Triple Point of Water:** The unique thermodynamic point where solid ice, liquid water, and water vapor coexist in stable dynamic equilibrium: $T = 273.16\text{ K} = 0.01^\circ\text{C}$ at a vapor pressure of $611.65\text{ Pa}$ ($4.58\text{ mm of Hg}$).
-12. **Anomalous Expansion of Water:** Pure water contracts upon heating from $0^\circ\text{C}$ to $4^\circ\text{C}$, reaching its **maximum density ($1.000\text{ g/cm}^3 = 1000\text{ kg/m}^3$)** and **minimum volume** at **$4^\circ\text{C}$ ($3.98^\circ\text{C}$)**. Above $4^\circ\text{C}$, it expands normally.
-13. **Aquatic Survival in Frozen Lakes:** During severe winters, surface water cools to $4^\circ\text{C}$, becomes densest, and sinks to the lake bed. Once the entire lake reaches $4^\circ\text{C}$, surface water cools to $0^\circ\text{C}$, expands, becomes lighter, and freezes into floating surface ice. Because ice is a poor conductor of heat, the bottom water remains liquid at **$+4^\circ\text{C}$**, allowing aquatic fauna and flora to survive.
-14. **Bursting of Water Pipes in Freezing Weather:** When liquid water freezes into ice at $0^\circ\text{C}$, its volume expands by approximately **$9\%$**. In rigid metal or PVC pipes, the immense hydrostatic expansion pressure ruptures the pipes.
-15. **Specific Heat Capacity of Water:** Exceptionally high: $c_{\text{water}} = 1\text{ cal/g}\cdot^\circ\text{C} = 4184\text{ J/kg}\cdot\text{K} \approx 4200\text{ J/kg}\cdot\text{K}$. It absorbs or releases large amounts of heat with minimal change in temperature.
-16. **Why Water is Used as an Engine Coolant & in Radiators:** Because of water's high specific heat capacity, circulating water extracts massive heat energy from engine blocks without boiling rapidly.
-17. **Why Water is Used in Hot Water Fermentation Bags:** Water holds thermal energy longer than any other common liquid due to its high specific heat capacity, providing prolonged, steady warmth.
-18. **Maritime Climate Moderation:** Coastal areas (Mumbai, Chennai) experience mild winters and moderate summers because the adjoining sea acts as a giant thermal buffer due to water's high specific heat capacity. Conversely, continental interiors (Delhi, Nagpur) have extreme climates.
-19. **Desert Temperature Extremes:** Dry silica sand has a very low specific heat capacity ($\approx 800\text{ J/kg}\cdot\text{K}$) and high solar absorptivity. It heats up rapidly under daytime sun and radiates heat away rapidly at night, producing dramatic diurnal temperature swings ($45^\circ\text{C}$ day down to $10^\circ\text{C}$ night).
-20. **Latent Heat of Fusion of Ice:** $L_f = 80\text{ cal/g} = 3.34 \times 10^5\text{ J/kg} = 334\text{ kJ/kg}$. Heat absorbed to convert $1\text{ g}$ of ice at $0^\circ\text{C}$ to $1\text{ g}$ of water at $0^\circ\text{C}$ without any temperature change.
-21. **Latent Heat of Vaporization of Steam:** $L_v = 540\text{ cal/g} = 2.26 \times 10^6\text{ J/kg} = 2260\text{ kJ/kg}$. Heat absorbed to convert $1\text{ g}$ of water at $100^\circ\text{C}$ into steam at $100^\circ\text{C}$.
-22. **Why Steam Burns are More Severe Than Boiling Water Burns:** Both are at $100^\circ\text{C}$, but each gram of steam carries an extra **$540\text{ calories}$ ($2260\text{ J}$)** of hidden latent heat of vaporization, which is released directly onto the skin tissues during condensation.
-23. **Cooling Sensation from Ice at $0^\circ\text{C}$ vs Water at $0^\circ\text{C}$:** Ice at $0^\circ\text{C}$ produces significantly more effective cooling because it absorbs an additional $80\text{ cal/g}$ of latent heat of fusion from the surrounding drink to melt.
-24. **Pressure Cooker Physics:** Boiling point of a liquid **increases with increasing external pressure**. Inside a sealed pressure cooker, steam pressure rises to $\approx 2\text{ atmospheres}$ ($200\text{ kPa}$), elevating the boiling point of water from $100^\circ\text{C}$ to **$120^\circ\text{C}\text{--}125^\circ\text{C}$**. Food cooks at this higher temperature, cutting cooking time by over $60\%$.
-25. **Cooking at High Altitudes (Hill Stations):** Atmospheric pressure at high altitudes (Shimla, Leh) is substantially lower than $1\text{ atm}$. Consequently, water boils at a lower temperature ($85^\circ\text{C}\text{--}90^\circ\text{C}$). Food takes much longer to cook or remains uncooked in open pots, making pressure cookers essential on mountains.
-26. **Regelation of Ice:** For substances that contract upon melting (like ice), **increasing pressure lowers the melting point**. When wire weighted by heavy loads passes through an ice block, the high pressure under the wire melts the ice below $0^\circ\text{C}$. As the wire sinks, pressure above is relieved and the water refreezes immediately without splitting the block.
-27. **Ice Skating Mechanism:** The sharp blade of the skate concentrates body weight over a tiny area, generating immense pressure that lowers the melting point of ice. A thin layer of liquid water forms under the blade, acting as a frictionless lubricant.
-28. **Evaporative Cooling Principle:** Evaporation is an endothermic surface phenomenon where energetic molecules escape into the vapor phase, lowering the average kinetic energy (and temperature) of remaining liquid.
-29. **Earthen Pitcher (Matka / Surahi) Cooling:** Porous clay walls contain millions of microscopic capillary pores. Water seeps through these pores to the outer surface and evaporates into dry ambient air, continuously extracting its latent heat of vaporization ($540\text{ cal/g}$) from the internal water reservoir.
-30. **Desert Cooler Efficiency:** Desert coolers function via evaporative cooling. They work with **maximum cooling efficiency on hot, dry summer days** because dry air has low relative humidity, enabling rapid water evaporation. On humid monsoon days, evaporation ceases and coolers only produce muggy discomfort.
-31. **Thermal Expansion Coefficients Ratio:** Linear ($\alpha$), Superficial/Areal ($\beta$), and Volumetric/Cubical ($\gamma$) expansion coefficients for an isotropic solid satisfy the exact ratio: $\alpha : \beta : \gamma = 1 : 2 : 3$.
-32. **Thermal Expansion in Railway Tracks:** Small expansion gaps are deliberately left between consecutive steel rail sections, connected by fishplates with slotted bolt holes. In hot summers, rails expand linearly ($\Delta L = L_0 \alpha \Delta T$); without gaps, thermal stress causes catastrophic track buckling.
-33. **Bimetallic Strip Working Principle:** Consists of two dissimilar metal strips (e.g., brass and invar/iron) riveted together. Because brass has a higher coefficient of thermal expansion ($\alpha_{\text{brass}} > \alpha_{\text{iron}}$), the strip bends into a curve with the brass on the convex outer side when heated, opening or closing electrical contacts in thermostats and fire alarms.
-34. **Pendulum Clock Summer Drift:** Period of a simple pendulum is $T = 2\pi\sqrt{L/g}$. In summer, the metal rod expands ($\Delta L > 0$), lengthening $T$ (pendulum swings slower), causing the clock to **lose time (run slow)**. In winter, contraction makes it **gain time (run fast)**.
-35. **Thermal Shock in Thick Glass Tumblers:** Pouring boiling water into a thick-walled ordinary glass tumbler causes it to crack because glass is a poor thermal conductor. The inner surface expands immediately upon contact with boiling water, while the outer surface remains cold and unexpanded, creating destructive internal shearing stress. Thin glass or borosilicate (Pyrex) glass has a very low thermal expansion coefficient and withstands this.
-36. **Conduction in Solids:** Heat transfers via transfer of kinetic energy between colliding adjacent atoms/molecules and through migration of free conduction electrons, without any net bulk movement of matter. Metals are excellent conductors due to abundant free electrons (Silver is the best, followed by Copper, Gold, and Aluminum).
-37. **Davy's Safety Lamp:** Invented by Sir Humphry Davy for coal miners. A fine wire gauze of copper surrounds the flame. The metal gauze rapidly conducts heat away into the surrounding atmosphere, keeping the temperature outside the gauze below the ignition point of explosive methane gas (firedamp).
-38. **Two Thin Blankets vs One Thick Blanket:** Two thin blankets provide significantly better thermal insulation than a single blanket of double thickness because an insulating layer of still air is trapped between the two blankets. Air is one of the worst thermal conductors ($k_{\text{air}} \approx 0.026\text{ W/m}\cdot\text{K}$).
-39. **Why Birds Fluff Feathers in Winter:** Fluffing feathers traps a thick layer of dead air around their bodies, preventing body heat from escaping by conduction and convection.
-40. **Convection in Fluids:** Heat transfer accompanied by the actual **macroscopic bulk movement of heated fluid matter** driven by density gradients under gravity. Warm fluid expands, becomes less dense, and ascends; cooler, denser fluid descends to replace it, establishing **convection currents**.
-41. **Convection Fails in Weightlessness:** In an orbiting satellite or the International Space Station (microgravity), gravity is effectively zero ($g \approx 0$). Without buoyancy forces, convection currents cannot form. Heat can only transfer by conduction and radiation. A candle flame in space burns as a faint, spherical, blue flame and suffocates in its own $CO_2$.
-42. **Sea Breeze vs Land Breeze:**
-43. **Ventilation in Architecture:** Ventilators and exhaust windows are always placed near the ceiling because warm, exhaled air containing $CO_2$ is less dense and ascends to exit near the top, while fresh, cooler air enters through doors and windows below.
-44. **Thermal Radiation:** Heat transfer in the form of **electromagnetic waves (primarily Infrared, $\lambda \approx 700\text{ nm to } 1\text{ mm}$)**. It requires **no material medium**, travels through vacuum at the speed of light ($c = 3 \times 10^8\text{ m/s}$), and obeys the inverse-square law.
-45. **Thermos Flask (Dewar Flask) Tripartite Defense:**
-46. **Kirchhoff's Law of Thermal Radiation:** At thermal equilibrium, the ratio of emissive power to absorptive power is equal for all bodies and matches the emissive power of a black body ($e/a = E_{\text{black}}$). Colloquial rule: **Good absorbers are good emitters; poor absorbers are poor emitters.** A black pot absorbs radiant heat fastest and cools fastest.
-47. **Stefan-Boltzmann Law:** The total radiant energy emitted per second per unit surface area of a black body is directly proportional to the fourth power of its absolute thermodynamic temperature: $E = \sigma T^4$, where $\sigma = 5.670 \times 10^{-8}\text{ W/m}^2\cdot\text{K}^4$. If a body's absolute temperature is doubled, its radiant emission increases by $2^4 = 16\text{ times}$.
-48. **Wien's Displacement Law:** The wavelength ($\lambda_{\max}$) corresponding to the peak emission of black-body radiation is inversely proportional to absolute temperature: $\lambda_{\max} \cdot T = b$, where $b = 2.898 \times 10^{-3}\text{ m}\cdot\text{K}$. Hotter stars radiate at shorter wavelengths (blue/white), whereas cooler stars peak at longer wavelengths (red).
-49. **Why Cloudy Nights are Warmer than Clear Nights:** Clouds consist of liquid water droplets and water vapor, which are strong absorbers and reflectors of terrestrial infrared radiation emitted by the Earth's surface. On a clear starry night, infrared heat escapes unobstructed into space, causing rapid radiational cooling; on cloudy nights, the cloud layer reflects this heat back, trapping warmth.
-50. **Open Refrigerator Door in a Closed Room:** Leaving the door of a running refrigerator open inside a closed, insulated room **warms the room up**. A refrigerator is a heat pump that transfers heat from its interior to the exterior condenser coils while consuming electrical work: $Q_{\text{released}} = Q_{\text{absorbed}} + W_{\text{electric}}$. The heat discharged into the room exceeds the cooling effect, elevating room temperature.
+1. **70th BPSC (Pre 2024) Heat Transfer Without Medium Fact**:
+2. **Thermal Radiation** is the only mode of heat transfer that does **NOT require any material medium** (propagates via electromagnetic waves across vacuum, e.g. solar energy reaching Earth). Conduction and convection strictly require material media.
+3. **70th BPSC (Pre Re-Exam 2024) Steam Burn Severity Fact**:
+4. **MP PCS (Pre 2023) Ecosystem Energy Degradation Fact**:
+5. **69th BPSC (Pre 2023) Official Heat Wave Temperature Criteria**:
+6. **67th BPSC (Pre 2022) Triple Point of Water Fact**:
+7. **UPPCS (Pre 2025) Sweating & Humidity Fact**:
+8. **UPPCS (Pre 2024) Humidity & Temperature Interdependence**:
+9. **Relative humidity decreases** as air temperature rises (warm air has greater moisture-holding capacity). **Absolute humidity increases** with increasing surface evaporation.
+10. **National Green Hydrogen Mission:** India targets **5 MMT (Million Metric Tonnes)** per annum green hydrogen production capacity by **2030**, supported by **125 GW** of associated renewable energy capacity. Reduces ₹1 lakh crore worth of fossil fuel imports. Hydrogen has the **highest calorific value** among all known chemical fuels (~$150\text{ kJ/g}$ or $150\text{ MJ/kg}$), producing only water vapor on combustion.
+11. **PM Surya Ghar: Muft Bijli Yojana (February 2024):** Aims to install rooftop solar power systems in **1 crore (10 million) households**, providing up to **300 units of free electricity** per month with a total financial outlay of ₹75,021 crore.
+12. **COP28 UAE Consensus & India's Target:** Tripling global renewable energy capacity by 2030. India's updated NDC (*Panchamrit* targets announced at Glasgow COP26) commits to achieving **500 GW of non-fossil energy capacity by 2030** and reducing emissions intensity of GDP by **45%** by 2030 relative to 2005 levels.
+13. **India's First 100% Solar-Powered Airport:** **Cochin International Airport (CIAL)**, Kerala became the world's first fully solar-powered airport in August 2015, winning the UN Champions of the Earth Award.
+14. **Ultra-Supercritical Thermal Power Units:** NTPC's deployment of ultra-supercritical coal units operating at pressures above $22.1\text{ MPa}$ and temperatures exceeding $600^\circ\text{C}$, elevating Carnot thermal efficiency to $>42\%$, thereby reducing specific coal consumption and $CO_2$ emissions.
+15. **ITER & Tokamak Fusion Reactor Progress:** International Thermonuclear Experimental Reactor (Cadarache, Southern France). Magnetic confinement fusion utilizing deuterium-tritium plasma heated to $>150\text{ million }^\circ\text{C}$ (ten times hotter than the Sun's core). India is one of the seven key founding members providing the cryostat (built by L&T).
+16. **Cryogenic Upper Stage (C32 / CE-20) in Gaganyaan & LVM3:** Liquid hydrogen fuel stored at $-253^\circ\text{C}$ ($20\text{ K}$) and liquid oxygen oxidizer stored at $-183^\circ\text{C}$ ($90\text{ K}$), delivering a very high specific impulse ($I_{sp} \approx 443\text{ s}$).
+17. **Energy Conservation Building Code (ECBC) & Cool Roofs:** Implementing high Solar Reflectance Index (SRI) paints and phase-change building materials to block solar thermal infrared radiation, curbing indoor temperatures by $2\text{--}5^\circ\text{C}$.
+18. **Work Formula & Sign:** Work done $W = \vec{F} \cdot \vec{d} = F d \cos\theta$. If force and displacement are perpendicular ($\theta = 90^\circ$, such as a porter carrying a load horizontally or centripetal force on a satellite), work done by that force is **identically zero**.
+19. **Kinetic Energy & Momentum Relation:** $KE = \frac{p^2}{2m}$. If the momentum $p$ of a body is doubled, its kinetic energy becomes **4 times**. If $p$ increases by $100\%$, $KE$ increases by $300\%$. If $p$ increases by $50\%$, $KE$ increases by $125\%$.
+20. **Calorific Value Leader:** **Hydrogen** has the highest calorific value ($\approx 150\text{ kJ/g}$), followed by LPG ($\approx 50\text{ kJ/g}$), CNG/Methane ($\approx 50\text{ kJ/g}$), Petrol/Diesel ($\approx 45\text{ kJ/g}$), Coal ($25\text{--}33\text{ kJ/g}$), Dry wood ($17\text{ kJ/g}$), and Cow-dung cake ($6\text{--}8\text{ kJ/g}$).
+21. **Mechanical Equivalent of Heat ($J$):** First determined by James Prescott Joule: $W = J \cdot Q$, where $J = 4.184\text{ J/cal} \approx 4.2\text{ J/cal}$. $1\text{ calorie}$ is the heat required to raise the temperature of $1\text{ g}$ of pure water from $14.5^\circ\text{C}$ to $15.5^\circ\text{C}$ at standard atmospheric pressure.
+22. **Commercial Unit of Electrical Energy:** $1\text{ Board of Trade Unit (B.O.T.U.)} = 1\text{ kilowatt-hour (kWh)} = 1000\text{ W} \times 3600\text{ s} = 3.6 \times 10^6\text{ J} = 3.6\text{ MJ}$.
+23. **Zeroth Law of Thermodynamics:** Formulated by Ralph H. Fowler (1931). States that if bodies A and B are each in thermal equilibrium with body C, then A and B are in thermal equilibrium with each other. This law introduces and **defines the concept of Temperature**.
+24. **First Law of Thermodynamics:** $\Delta Q = \Delta U + \Delta W$. It is a direct manifestation of the universal **Law of Conservation of Energy**. It states that heat added to a system goes into increasing internal energy plus doing external work.
+25. **Second Law of Thermodynamics:** Imposes direction on heat flow. **Clausius Statement:** Heat cannot spontaneously flow from a colder body to a hotter body without external work. **Kelvin-Planck Statement:** No engine can completely convert heat absorbed from a single reservoir into mechanical work in a cyclic process without rejecting heat.
+26. **Concept of Entropy:** Clausius introduced Entropy ($S$, where $dS = dQ_{\text{rev}}/T$). In any irreversible natural process, the total entropy of the universe **always increases** ($\Delta S_{\text{univ}} > 0$).
+27. **Absolute Zero Temperature:** The theoretical lowest possible temperature where molecular kinetic motion ceases and volume of an ideal gas drops to zero: $0\text{ K} = -273.15^\circ\text{C} = -459.67^\circ\text{F}$. Negative temperatures on the Kelvin scale are physically impossible.
+28. **Triple Point of Water:** The unique thermodynamic point where solid ice, liquid water, and water vapor coexist in stable dynamic equilibrium: $T = 273.16\text{ K} = 0.01^\circ\text{C}$ at a vapor pressure of $611.65\text{ Pa}$ ($4.58\text{ mm of Hg}$).
+29. **Anomalous Expansion of Water:** Pure water contracts upon heating from $0^\circ\text{C}$ to $4^\circ\text{C}$, reaching its **maximum density ($1.000\text{ g/cm}^3 = 1000\text{ kg/m}^3$)** and **minimum volume** at **$4^\circ\text{C}$ ($3.98^\circ\text{C}$)**. Above $4^\circ\text{C}$, it expands normally.
+30. **Aquatic Survival in Frozen Lakes:** During severe winters, surface water cools to $4^\circ\text{C}$, becomes densest, and sinks to the lake bed. Once the entire lake reaches $4^\circ\text{C}$, surface water cools to $0^\circ\text{C}$, expands, becomes lighter, and freezes into floating surface ice. Because ice is a poor conductor of heat, the bottom water remains liquid at **$+4^\circ\text{C}$**, allowing aquatic fauna and flora to survive.
+31. **Bursting of Water Pipes in Freezing Weather:** When liquid water freezes into ice at $0^\circ\text{C}$, its volume expands by approximately **$9\%$**. In rigid metal or PVC pipes, the immense hydrostatic expansion pressure ruptures the pipes.
+32. **Specific Heat Capacity of Water:** Exceptionally high: $c_{\text{water}} = 1\text{ cal/g}\cdot^\circ\text{C} = 4184\text{ J/kg}\cdot\text{K} \approx 4200\text{ J/kg}\cdot\text{K}$. It absorbs or releases large amounts of heat with minimal change in temperature.
+33. **Why Water is Used as an Engine Coolant & in Radiators:** Because of water's high specific heat capacity, circulating water extracts massive heat energy from engine blocks without boiling rapidly.
+34. **Why Water is Used in Hot Water Fermentation Bags:** Water holds thermal energy longer than any other common liquid due to its high specific heat capacity, providing prolonged, steady warmth.
+35. **Maritime Climate Moderation:** Coastal areas (Mumbai, Chennai) experience mild winters and moderate summers because the adjoining sea acts as a giant thermal buffer due to water's high specific heat capacity. Conversely, continental interiors (Delhi, Nagpur) have extreme climates.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
-| :--- | :--- | :--- |
-| **Heat** | **Temperature** | Heat is the total thermal energy in transit between bodies due to a temperature gradient (measured in Joules or Calories; extensive property). Temperature is the measure of the average kinetic energy of molecules, dictating the *direction* of heat flow (measured in Kelvin, $^\circ\text{C}$; intensive property). A bucket of warm water holds more heat than a boiling test-tube, yet the test-tube has a higher temperature. |
-| **Specific Heat Capacity ($c$)** | **Heat Capacity / Thermal Capacity ($C$)** | Specific heat capacity ($c$) is the heat required to raise the temperature of **unit mass ($1\text{ kg}$)** of a substance by $1\text{ K}$ ($c = Q / m\Delta T$, unit: $\text{J/kg}\cdot\text{K}$, intensive property). Heat capacity ($C$) is the heat needed for an entire given body of mass $m$ ($C = mc = Q / \Delta T$, unit: $\text{J/K}$, extensive property). |
-| **Latent Heat of Fusion ($L_f$)** | **Latent Heat of Vaporization ($L_v$)** | $L_f$ is the energy required to transform solid to liquid at melting point ($80\text{ cal/g}$ for ice). $L_v$ is the energy required to transform liquid to vapor at boiling point ($540\text{ cal/g}$ for water). $L_v$ is almost $7\times$ larger than $L_f$ because vaporization involves completely overcoming intermolecular attractions to disperse molecules far apart. |
-| **Isothermal Process** | **Adiabatic Process** | Isothermal: Temperature remains strictly constant ($\Delta T = 0, \Delta U = 0, Q = W$, governed by Boyle's law $PV = \text{constant}$). Occurs **very slowly** through **perfectly conducting walls**. Adiabatic: No heat enters or leaves the system ($Q = 0, \Delta U = -W$, governed by $PV^\gamma = \text{constant}$). Occurs **rapidly/suddenly** in insulated enclosures (e.g., sudden puncture of bicycle tube causes cooling; sound propagation in air). |
-| **Evaporation** | **Boiling** | Evaporation is a **surface phenomenon** occurring spontaneously at **any temperature** below the boiling point; cooling always accompanies it. Boiling is a **bulk phenomenon** occurring only at a **specific boiling point** when saturated vapor pressure equals prevailing atmospheric pressure; bubbles form throughout the liquid. |
-| **Conduction** | **Convection** | Conduction transfers heat through molecular collisions without any macroscopic migration of matter (predominant in solids). Convection transfers heat via the **actual physical bulk movement** of fluid particles (liquids and gases only, requires gravity). |
-| **Renewable Energy** | **Non-Conventional Energy** | Renewable energy is naturally replenished on a human timescale (solar, wind, biomass, hydro). Non-conventional refers to energy sources tapped widely only in recent decades (solar, wind, nuclear, tidal). While almost all non-conventional sources are renewable, **Nuclear energy is non-conventional but non-renewable** (finite uranium stock). |
-| **Heat Engine** | **Refrigerator / Heat Pump** | Heat engine operates in a clockwise cycle: absorbs heat from a high-temperature reservoir ($T_1$), performs external mechanical work ($W$), and dumps rejected heat into a cold sink ($T_2$). Refrigerator/heat pump operates in reverse: consumes mechanical work ($W$) to extract heat from a cold body ($T_2$) and discharge it into a hotter surroundings ($T_1$). |
-| **Absolute Humidity** | **Relative Humidity** | Absolute humidity is the actual mass of water vapor present per unit volume of air (expressed in $\text{g/m}^3$). Relative humidity is the ratio (expressed as a percentage) of actual vapor present to the maximum vapor the air can hold at that specific temperature. As temperature increases, saturation vapor capacity rises, causing relative humidity to drop if vapor mass is unchanged. |
-| **Sublimation** | **Deposition / Desublimation** | Sublimation is the direct phase transition from **solid to gas** without passing through the liquid phase (Camphor, Naphthalene, Ammonium chloride, Iodine, Dry Ice). Deposition is the direct phase transition from **gas to solid** (e.g., formation of frost on freezing windshields). |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Concept | Trap / Confusion Point | Examiner's Angle | Correct Fact |
+| :--- | :--- | :--- | :--- |
+| **Open Refrigerator Door** | Students think an open fridge cools the room like an AC. | UPPCS repeatedly asks what happens to room temp when fridge door is left open. | The room **warms up** ($Q_H = Q_C + W$; net heat added equals electrical power consumed). |
+| **Melting Ice Water Level** | Students assume adding liquid from melted ice will make water overflow. | Standard Archimedes question in PCS/IAS. | Water level remains **strictly unchanged** because floating ice displaces its exact melted volume. |
+| **Water Density at $4^\circ\text{C}$** | Confusing maximum density with minimum volume or freezing point. | Tricky options include $0^\circ\text{C}, -4^\circ\text{C}, 4^\circ\text{C}, 100^\circ\text{C}$. | Density is **maximum** at $4^\circ\text{C}$; volume is **minimum** at $4^\circ\text{C}$. |
+| **Boiling vs Evaporation** | Assuming evaporation requires reaching the boiling point. | Asked in conceptual science questions. | Evaporation occurs at **any temperature** (surface phenomenon); boiling occurs at a **fixed boiling point** (bulk phenomenon). |
+| **Steam vs Boiling Water** | Assuming both burn equally because both are at $100^\circ\text{C}$. | Favorite UPPCS and BPSC question. | Steam delivers an extra **$540\text{ cal/g}$ of latent heat of vaporization**, causing vastly more severe burns. |
+| **Pressure Cooker Speed** | Assuming steam cooks food directly or cooks faster due to high pressure itself. | Questions often ask why food cooks faster. | Trapped pressure raises water's **boiling temperature** to $\approx 120^\circ\text{C}$; cooking rate depends on temperature. |
+| **Specific Heat of Water vs Ice** | Assuming all forms of $H_2O$ share the same specific heat. | Numerical and statement questions. | Liquid water ($1.0\text{ cal/g}\cdot^\circ\text{C}$) is **twice** that of ice and steam ($0.5\text{ cal/g}\cdot^\circ\text{C}$). |
+| **Convection in Space** | Assuming convection works identically in an orbiting spacecraft. | IAS and State PCS assertion-reason questions. | Convection **strictly requires gravity** ($g > 0$). In weightlessness, only conduction and radiation occur. |
+| **Nuclear Power Classification** | Confusing "non-conventional" with "renewable". | Classified in energy resources matrices. | Nuclear power is **non-conventional**, but it is **non-renewable** (finite mineral ores). |
+| **Dew Formation on Cloudy Nights** | Thinking clouds promote dew by providing moisture. | Meteorological conditions for dew/frost. | Dew forms only on **clear nights** with rapid radiative cooling; clouds block cooling. |
+
+---
 
 
 ---
@@ -146,8 +127,10 @@ hide:
 49. **Why Cloudy Nights are Warmer than Clear Nights:** Clouds consist of liquid water droplets and water vapor, which are strong absorbers and reflectors of terrestrial infrared radiation emitted by the Earth's surface. On a clear starry night, infrared heat escapes unobstructed into space, causing rapid radiational cooling; on cloudy nights, the cloud layer reflects this heat back, trapping warmth.
 50. **Open Refrigerator Door in a Closed Room:** Leaving the door of a running refrigerator open inside a closed, insulated room **warms the room up**. A refrigerator is a heat pump that transfers heat from its interior to the exterior condenser coils while consuming electrical work: $Q_{\text{released}} = Q_{\text{absorbed}} + W_{\text{electric}}$. The heat discharged into the room exceeds the cooling effect, elevating room temperature.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
 | :--- | :--- | :--- |
@@ -162,7 +145,7 @@ hide:
 | **Absolute Humidity** | **Relative Humidity** | Absolute humidity is the actual mass of water vapor present per unit volume of air (expressed in $\text{g/m}^3$). Relative humidity is the ratio (expressed as a percentage) of actual vapor present to the maximum vapor the air can hold at that specific temperature. As temperature increases, saturation vapor capacity rises, causing relative humidity to drop if vapor mass is unchanged. |
 | **Sublimation** | **Deposition / Desublimation** | Sublimation is the direct phase transition from **solid to gas** without passing through the liquid phase (Camphor, Naphthalene, Ammonium chloride, Iodine, Dry Ice). Deposition is the direct phase transition from **gas to solid** (e.g., formation of frost on freezing windshields). |
 
----
+</details>
 
 ## Must-Score Master Tables: Constants, Modes & Thermodynamic Laws
 
@@ -600,7 +583,7 @@ The surface of a lake is frozen in severe winter, but the water at its bottom is
 
 Which of the following is correct regarding this topic?
 
-A. Work Formula & Sign: Work done $W = \vec{F} \cdot \vec{d} = F d \cos\theta$. If force and displacement are perpendicular ($\theta = 90^\circ$, such as a porter carrying a load horizontally or centripetal force on a satellite), work done by that force is identically zero.
+A. 70th BPSC (Pre 2024) Heat Transfer Without Medium Fact:
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
@@ -611,7 +594,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Work Formula & Sign:** Work done $W = \vec{F} \cdot \vec{d} = F d \cos\theta$. If force and displacement are perpendicular ($\theta = 90^\circ$, such as a porter carrying a load horizontally or centripetal force on a satellite), work done by that force is **identically zero**.
+- **Key Exam Association:** **70th BPSC (Pre 2024) Heat Transfer Without Medium Fact**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -619,8 +602,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Kinetic applies only to union territories and not state jurisdictions.
-B. Kinetic Energy & Momentum Relation: $KE = \frac{p^2}{2m}$. If the momentum $p$ of a body is doubled, its kinetic energy becomes 4 times. If $p$ increases by $100\%$, $KE$ increases by $300\%$. If $p$ increases by $50\%$, $KE$ increases by $125\%$.
+A. Contrary to standard doctrine, Thermal applies only to union territories and not state jurisdictions.
+B. Thermal Radiation is the only mode of heat transfer that does NOT require any material medium (propagates via electromagnetic waves across vacuum, e.g. solar energy reaching Earth). Conduction and convection strictly require material media.
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -630,7 +613,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Kinetic Energy & Momentum Relation:** $KE = \frac{p^2}{2m}$. If the momentum $p$ of a body is doubled, its kinetic energy becomes **4 times**. If $p$ increases by $100\%$, $KE$ increases by $300\%$. If $p$ increases by $50\%$, $KE$ increases by $125\%$.
+- **Key Exam Association:** **Thermal Radiation** is the only mode of heat transfer that does **NOT require any material medium** (propagates via electromagnetic waves across vacuum, e.g. solar energy reaching Earth). Conduction and convection strictly require material media.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -638,9 +621,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Calorific applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, 70th applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. Calorific Value Leader: Hydrogen has the highest calorific value ($\approx 150\text{ kJ/g}$), followed by LPG ($\approx 50\text{ kJ/g}$), CNG/Methane ($\approx 50\text{ kJ/g}$), Petrol/Diesel ($\approx 45\text{ kJ/g}$), Coal ($25\text{--}33\text{ kJ/g}$), Dry wood ($17\text{ kJ/g}$), and Cow-dung cake ($6\text{--}8\text{ kJ/g}$).
+C. 70th BPSC (Pre Re-Exam 2024) Steam Burn Severity Fact:
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -649,7 +632,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Calorific Value Leader:** **Hydrogen** has the highest calorific value ($\approx 150\text{ kJ/g}$), followed by LPG ($\approx 50\text{ kJ/g}$), CNG/Methane ($\approx 50\text{ kJ/g}$), Petrol/Diesel ($\approx 45\text{ kJ/g}$), Coal ($25\text{--}33\text{ kJ/g}$), Dry wood ($17\text{ kJ/g}$), and Cow-dung cake ($6\text{--}8\text{ kJ/g}$).
+- **Key Exam Association:** **70th BPSC (Pre Re-Exam 2024) Steam Burn Severity Fact**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -657,10 +640,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Mechanical applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, MP applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. Mechanical Equivalent of Heat ($J$): First determined by James Prescott Joule: $W = J \cdot Q$, where $J = 4.184\text{ J/cal} \approx 4.2\text{ J/cal}$. $1\text{ calorie}$ is the heat required to raise the temperature of $1\text{ g}$ of pure water from $14.5^\circ\text{C}$ to $15.5^\circ\text{C}$ at standard atmospheric pressure.
+D. MP PCS (Pre 2023) Ecosystem Energy Degradation Fact:
 
 <details>
 <summary>Show answer</summary>
@@ -668,7 +651,7 @@ D. Mechanical Equivalent of Heat ($J$): First determined by James Prescott Joule
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Mechanical Equivalent of Heat ($J$):** First determined by James Prescott Joule: $W = J \cdot Q$, where $J = 4.184\text{ J/cal} \approx 4.2\text{ J/cal}$. $1\text{ calorie}$ is the heat required to raise the temperature of $1\text{ g}$ of pure water from $14.5^\circ\text{C}$ to $15.5^\circ\text{C}$ at standard atmospheric pressure.
+- **Key Exam Association:** **MP PCS (Pre 2023) Ecosystem Energy Degradation Fact**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -676,7 +659,7 @@ D. Mechanical Equivalent of Heat ($J$): First determined by James Prescott Joule
 
 Which of the following is correct regarding this topic?
 
-A. Commercial Unit of Electrical Energy: $1\text{ Board of Trade Unit (B.O.T.U.)} = 1\text{ kilowatt-hour (kWh)} = 1000\text{ W} \times 3600\text{ s} = 3.6 \times 10^6\text{ J} = 3.6\text{ MJ}$.
+A. 69th BPSC (Pre 2023) Official Heat Wave Temperature Criteria:
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -687,7 +670,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Commercial Unit of Electrical Energy:** $1\text{ Board of Trade Unit (B.O.T.U.)} = 1\text{ kilowatt-hour (kWh)} = 1000\text{ W} \times 3600\text{ s} = 3.6 \times 10^6\text{ J} = 3.6\text{ MJ}$.
+- **Key Exam Association:** **69th BPSC (Pre 2023) Official Heat Wave Temperature Criteria**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -695,8 +678,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Zeroth applies only to union territories and not state jurisdictions.
-B. Zeroth Law of Thermodynamics: Formulated by Ralph H. Fowler (1931). States that if bodies A and B are each in thermal equilibrium with body C, then A and B are in thermal equilibrium with each other. This law introduces and defines the concept of Temperature.
+A. Contrary to standard doctrine, 67th applies only to union territories and not state jurisdictions.
+B. 67th BPSC (Pre 2022) Triple Point of Water Fact:
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -706,7 +689,7 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Zeroth Law of Thermodynamics:** Formulated by Ralph H. Fowler (1931). States that if bodies A and B are each in thermal equilibrium with body C, then A and B are in thermal equilibrium with each other. This law introduces and **defines the concept of Temperature**.
+- **Key Exam Association:** **67th BPSC (Pre 2022) Triple Point of Water Fact**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -714,9 +697,9 @@ D. Excavated primarily in the Belan and Son River valleys
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, First applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, UPPCS applies only to union territories and not state jurisdictions.
 B. Excavated primarily in the Belan and Son River valleys
-C. First Law of Thermodynamics: $\Delta Q = \Delta U + \Delta W$. It is a direct manifestation of the universal Law of Conservation of Energy. It states that heat added to a system goes into increasing internal energy plus doing external work.
+C. UPPCS (Pre 2025) Sweating & Humidity Fact:
 D. Classified under Schedule VII List II (State List)
 
 <details>
@@ -725,7 +708,7 @@ D. Classified under Schedule VII List II (State List)
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **First Law of Thermodynamics:** $\Delta Q = \Delta U + \Delta W$. It is a direct manifestation of the universal **Law of Conservation of Energy**. It states that heat added to a system goes into increasing internal energy plus doing external work.
+- **Key Exam Association:** **UPPCS (Pre 2025) Sweating & Humidity Fact**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -733,10 +716,10 @@ D. Classified under Schedule VII List II (State List)
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Second applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, UPPCS applies only to union territories and not state jurisdictions.
 B. Classified under Schedule VII List II (State List)
 C. None of the above statements are correct according to official Commission keys.
-D. Second Law of Thermodynamics: Imposes direction on heat flow. Clausius Statement: Heat cannot spontaneously flow from a colder body to a hotter body without external work. Kelvin-Planck Statement: No engine can completely convert heat absorbed from a single reservoir into mechanical work in a cyclic process without rejecting heat.
+D. UPPCS (Pre 2024) Humidity & Temperature Interdependence:
 
 <details>
 <summary>Show answer</summary>
@@ -744,7 +727,7 @@ D. Second Law of Thermodynamics: Imposes direction on heat flow. Clausius Statem
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Second Law of Thermodynamics:** Imposes direction on heat flow. **Clausius Statement:** Heat cannot spontaneously flow from a colder body to a hotter body without external work. **Kelvin-Planck Statement:** No engine can completely convert heat absorbed from a single reservoir into mechanical work in a cyclic process without rejecting heat.
+- **Key Exam Association:** **UPPCS (Pre 2024) Humidity & Temperature Interdependence**:
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -752,7 +735,7 @@ D. Second Law of Thermodynamics: Imposes direction on heat flow. Clausius Statem
 
 Which of the following is correct regarding this topic?
 
-A. Concept of Entropy: Clausius introduced Entropy ($S$, where $dS = dQ{\text{rev}}/T$). In any irreversible natural process, the total entropy of the universe always increases ($\Delta S{\text{univ}} > 0$).
+A. Relative humidity decreases as air temperature rises (warm air has greater moisture-holding capacity). Absolute humidity increases with increasing surface evaporation.
 B. Originated during the Later Vedic transitional period
 C. None of the above statements are correct according to official Commission keys.
 D. Statement I is correct but Statement II is incorrect
@@ -763,7 +746,7 @@ D. Statement I is correct but Statement II is incorrect
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Concept of Entropy:** Clausius introduced Entropy ($S$, where $dS = dQ_{\text{rev}}/T$). In any irreversible natural process, the total entropy of the universe **always increases** ($\Delta S_{\text{univ}} > 0$).
+- **Key Exam Association:** **Relative humidity decreases** as air temperature rises (warm air has greater moisture-holding capacity). **Absolute humidity increases** with increasing surface evaporation.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -771,8 +754,8 @@ D. Statement I is correct but Statement II is incorrect
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Absolute applies only to union territories and not state jurisdictions.
-B. Absolute Zero Temperature: The theoretical lowest possible temperature where molecular kinetic motion ceases and volume of an ideal gas drops to zero: $0\text{ K} = -273.15^\circ\text{C} = -459.67^\circ\text{F}$. Negative temperatures on the Kelvin scale are physically impossible.
+A. Contrary to standard doctrine, National applies only to union territories and not state jurisdictions.
+B. National Green Hydrogen Mission: India targets 5 MMT (Million Metric Tonnes) per annum green hydrogen production capacity by 2030, supported by 125 GW of associated renewable energy capacity. Reduces ₹1 lakh crore worth of fossil fuel imports. Hydrogen has the highest calorific value among all known chemical fuels (~$150\text{ kJ/g}$ or $150\text{ MJ/kg}$), producing only water vapor on combustion.
 C. None of the above statements are correct according to official Commission keys.
 D. Both statements are true and explain the phenomenon
 
@@ -782,7 +765,7 @@ D. Both statements are true and explain the phenomenon
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Absolute Zero Temperature:** The theoretical lowest possible temperature where molecular kinetic motion ceases and volume of an ideal gas drops to zero: $0\text{ K} = -273.15^\circ\text{C} = -459.67^\circ\text{F}$. Negative temperatures on the Kelvin scale are physically impossible.
+- **Key Exam Association:** **National Green Hydrogen Mission:** India targets **5 MMT (Million Metric Tonnes)** per annum green hydrogen production capacity by **2030**, supported by **125 GW** of associated renewable energy capacity. Reduces ₹1 lakh crore worth of fossil fuel imports. Hydrogen has the **highest calorific value** among all known chemical fuels (~$150\text{ kJ/g}$ or $150\text{ MJ/kg}$), producing only water vapor on combustion.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -790,9 +773,9 @@ D. Both statements are true and explain the phenomenon
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Triple applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, PM applies only to union territories and not state jurisdictions.
 B. Both statements are true and explain the phenomenon
-C. Triple Point of Water: The unique thermodynamic point where solid ice, liquid water, and water vapor coexist in stable dynamic equilibrium: $T = 273.16\text{ K} = 0.01^\circ\text{C}$ at a vapor pressure of $611.65\text{ Pa}$ ($4.58\text{ mm of Hg}$).
+C. PM Surya Ghar: Muft Bijli Yojana (February 2024): Aims to install rooftop solar power systems in 1 crore (10 million) households, providing up to 300 units of free electricity per month with a total financial outlay of ₹75,021 crore.
 D. It was established during the First Five-Year Plan period
 
 <details>
@@ -801,7 +784,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Triple Point of Water:** The unique thermodynamic point where solid ice, liquid water, and water vapor coexist in stable dynamic equilibrium: $T = 273.16\text{ K} = 0.01^\circ\text{C}$ at a vapor pressure of $611.65\text{ Pa}$ ($4.58\text{ mm of Hg}$).
+- **Key Exam Association:** **PM Surya Ghar: Muft Bijli Yojana (February 2024):** Aims to install rooftop solar power systems in **1 crore (10 million) households**, providing up to **300 units of free electricity** per month with a total financial outlay of ₹75,021 crore.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -809,10 +792,10 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Anomalous applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, COP28 applies only to union territories and not state jurisdictions.
 B. It was established during the First Five-Year Plan period
 C. None of the above statements are correct according to official Commission keys.
-D. Anomalous Expansion of Water: Pure water contracts upon heating from $0^\circ\text{C}$ to $4^\circ\text{C}$, reaching its maximum density ($1.000\text{ g/cm}^3 = 1000\text{ kg/m}^3$) and minimum volume at $4^\circ\text{C}$ ($3.98^\circ\text{C}$). Above $4^\circ\text{C}$, it expands normally.
+D. COP28 UAE Consensus & India's Target: Tripling global renewable energy capacity by 2030. India's updated NDC (Panchamrit targets announced at Glasgow COP26) commits to achieving 500 GW of non-fossil energy capacity by 2030 and reducing emissions intensity of GDP by 45% by 2030 relative to 2005 levels.
 
 <details>
 <summary>Show answer</summary>
@@ -820,6 +803,6 @@ D. Anomalous Expansion of Water: Pure water contracts upon heating from $0^\circ
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Anomalous Expansion of Water:** Pure water contracts upon heating from $0^\circ\text{C}$ to $4^\circ\text{C}$, reaching its **maximum density ($1.000\text{ g/cm}^3 = 1000\text{ kg/m}^3$)** and **minimum volume** at **$4^\circ\text{C}$ ($3.98^\circ\text{C}$)**. Above $4^\circ\text{C}$, it expands normally.
+- **Key Exam Association:** **COP28 UAE Consensus & India's Target:** Tripling global renewable energy capacity by 2030. India's updated NDC (*Panchamrit* targets announced at Glasgow COP26) commits to achieving **500 GW of non-fossil energy capacity by 2030** and reducing emissions intensity of GDP by **45%** by 2030 relative to 2005 levels.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

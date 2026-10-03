@@ -45,7 +45,8 @@ Sitting (बैठक) AG / CAG / SG names are **CA colour** — don’t raata a
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Attorney General** (महान्यायवादी) (Article **76**) is the Union’s first law officer. Qualification matches a **Supreme Court judge**. Tenure is during the **pleasure of the President**. Removal is **not** by judge-impeachment.
 2. Under Article **88**, the Attorney General may speak in **both** Houses and their committees but has **no vote**. Private practice is allowed except against the Government of India or in a matter already advised on.
@@ -78,9 +79,10 @@ Sitting (बैठक) AG / CAG / SG names are **CA colour** — don’t raata a
 29. Solicitor General has no Article **88** speaking right by constitutional text. If the SG appears in Parliament contexts, that is not the AG’s Article 88 status.
 30. Study every office on six axes: appointment, removal, qualification, tenure, oath, and resign-to-whom. One missing axis is the usual prelims trap.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Term A | Term B | Core difference | Hindi Terminology |
 | -------- | -------- | ----------------- | -------- / -------- |
@@ -105,7 +107,7 @@ Sitting (बैठक) AG / CAG / SG names are **CA colour** — don’t raata a
 | **CEC 2023 panel** | **Lokpal panel** | PM + LoP LS + Cabinet Minister (**no CJI**) | **Includes CJI** (or an SC judge he nominates) |
 | **LS Speaker resigns** | **RS Chairman resigns** | To **Deputy Speaker** (94) | RS Chairman **is the VP** → resigns to the **President** (67) |
 
----
+</details>
 
 ## Must-score facts — AG, SG, AdvG, CAG
 

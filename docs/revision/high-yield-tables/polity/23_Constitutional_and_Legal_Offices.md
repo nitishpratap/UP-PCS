@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 23 — Constitutional & Legal Offices</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Year | What happened | What you mark |
 |------|-----------------|---------------|
@@ -180,18 +178,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Attorney General (महान्यायवादी) (Article 76) is the Union’s first law officer. Qualification matches a Supreme Court judge. Tenure is during the pleasure of the President. Removal is not by judge-impeachment.
-- **Exam Anchor:** Under Article 88, the Attorney General may speak in both Houses and their committees but has no vote. Private practice is allowed except against the Government of India or in a matter already advised on.
-- **Exam Anchor:** The Attorney General’s oath is not a Third Schedule form. Pay is fixed by the President and is not a Second Schedule charged office like the CAG. The first AG was M.C. Setalvad.
-- **Exam Anchor:** The Solicitor General is not in the Constitution. The SG assists the AG, has no Article 88 right by that office, and is regulated by executive / Law Officers rules.
-- **Exam Anchor:** The Advocate General (महाधिवक्ता) (Article 165) is the State’s first law officer. Qualification matches a High Court judge. Appointment and pleasure are of the Governor. Article 177 allows speaking in the State House(s) without a vote.
-- **Exam Anchor:** There is no office called “Advocate General of India.” Do not invent a Union AdvG.
-- **Exam Anchor:** The CAG (Articles 148–151) is appointed by the President for six years or age 65, whichever is earlier. Removal is like a Supreme Court judge. Article 148(4) bars further Union or State office after leaving the post.
-- **Exam Anchor:** The CAG takes a Third Schedule oath before the President. Salary is in the Second Schedule and charged. Union reports go President → Parliament; State reports go Governor → Legislature (Article 151).
-
-</details>
+- **Exam Anchor:** Article:76 (office) · 88 (Houses) · 105 privileges while performing
+- **Exam Anchor:** Appointment:President. Qualification: same as a Supreme Court judge (Art. 124): citizen + 5y HC judge / 10y HC advocate / distinguished jurist
+- **Exam Anchor:** Tenure:none fixed in the text. Removal:pleasure of the President. Not the SC-judge impeachment path
+- **Exam Anchor:** Resignation: to the President. Oath:not a Third Schedule form
+- **Exam Anchor:** Powers: advise GoI on legal matters the President refers · appear for the Union in SC/HC · right of audience in all Indian courts (76(3)) · other duties the President assigns / law confers · Contempt of Courts Act s.15 — AG’s (or SG’s) consent is used for some criminal-contempt motions; that does not make him a judge
+- **Exam Anchor:** Parliament: Art. 88 — take part in both Houses and their committees; no vote. Not a minister / Cabinet member by this office
+- **Exam Anchor:** Practice:not a government servant. Private briefs OK except against the Government of India / in a matter he has advised on
+- **Exam Anchor:** Pay: fixed by the President. Not 2nd Schedule / not CFI-charged as a judge/CAG
 
 ---
 

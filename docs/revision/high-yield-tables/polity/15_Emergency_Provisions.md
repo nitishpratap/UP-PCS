@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 15 — Emergency Provisions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
@@ -27,11 +25,7 @@ hide:
 | **National Emergency** | **State Emergency** | Textbook name for **352** | Textbook name for **356** (the Constitution never uses that phrase) |
 | **External 352** | **Internal 352** | War / external aggression (1962, 1971) | Armed rebellion (1975 was still “internal disturbance”) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Three Emergencies
 
@@ -174,18 +168,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Emergency Provisions sit in Part XVIII (Articles 352–360). There are three proclamations: National Emergency (352), President’s Rule (356), and Financial Emergency (360).
-- **Exam Anchor:** National Emergency under 352 may be proclaimed for war, external aggression, or armed rebellion. The 44th Amendment replaced the old phrase “internal disturbance” with armed rebellion.
-- **Exam Anchor:** A 352 proclamation needs written advice of the Union Cabinet, not the Prime Minister alone — a direct lesson from 1975. Parliamentary approval must come within one month by special majority in both Houses (majority of total membership (सदन की कुल सदस्य संख्या का) plus two-thirds (ते-भागा) of those present and voting (गणपूर्ति)).
-- **Exam Anchor:** Once approved, a National Emergency continues for six months at a time with fresh approvals. The Lok Sabha (लोकसभा) can force revocation by passing a disapproval resolution. One-tenth of Lok Sabha members can compel a sitting (बैठक) within fourteen days.
-- **Exam Anchor:** National Emergency has been used in 1962 (China), 1971 (Pakistan), and 1975–77 (the Internal Emergency, 25 June 1975 to 21 March 1977).
-- **Exam Anchor:** Under Article 358, Article 19 automatically suspends only when the Emergency is on grounds of war or external aggression — not for armed rebellion alone. Under 359, the President may suspend enforcement of named Fundamental Rights, but Articles 20 and 21 can never be suspended (44th Amendment; contrast ADM Jabalpur).
-- **Exam Anchor:** After the 44th Amendment, laws or executive action during Emergency need a real emergency nexus (358(2) / 359). Blanket misuse without nexus is not protected.
+- **Exam Anchor:** 2024: 352 Assertion–Reason; Financial Emergency matched to 360 (direct PYQ).
+- **Exam Anchor:** 1978:44th Amendment rewrite — every 352 / 358 / 359 question.
+- **Exam Anchor:** 1994: Bommai — 356 is justiciable.
+- **Exam Anchor:** 1975–77: Internal Emergency — why the 44th exists.
+- **Exam Anchor:** Never: Art. 360 (“Which has never been used?”).
+- **Exam Anchor:** 1977–78: Shah Commission on 1975 excesses.
+- **Exam Anchor:** 1992: UP President’s Rule after Babri (Leading state).
 - **Exam Anchor:** President’s Rule uses Article 356 (अनुच्छेद 356), linked to the Union’s duty under 355 and the directions-gateway under 365. Parliamentary approval is needed within two months by simple majority in both Houses.
-
-</details>
 
 ---
 

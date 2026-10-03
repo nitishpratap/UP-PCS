@@ -15,7 +15,8 @@ Morley–Minto Reforms (context) | Lucknow (लखनऊ) Pact (लखनऊ प
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Tilak’s Indian Home Rule League** was founded in **April 1916** at **Poona**. **Joseph Baptista (बैपटिस्टा)** was President; **N.C. Kelkar** was Secretary.
 2. Tilak’s area was Maharashtra **except Bombay city**, plus Karnataka, CP and Berar. **Bombay city** belonged to **Besant’s** league.
@@ -52,9 +53,10 @@ Morley–Minto Reforms (context) | Lucknow (लखनऊ) Pact (लखनऊ प
 33. Home Rule leagues (दो लीग) **did not permanently merge** into one body in 1916–18; Gandhi renamed the All-India league **Swarajya Sabha** in **1920**.
 34. **Annie Besant** was a **Fabian** as well as a Theosophist–Home Rule leader; she did **not** found the Theosophical Society (थियोसोफिकल सोसायटी).
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -74,7 +76,7 @@ Morley–Minto Reforms (context) | Lucknow (लखनऊ) Pact (लखनऊ प
 | Lucknow Pact 1916 | Montagu Declaration 1917 | Congress–League electoral deal vs British statement of policy goal | लखनऊ पैक्ट / मॉण्टेग्यू घोषणा |
 | Montagu Declaration | August Offer 1940 | 1917 promise of responsible government vs 1940 wartime offer to Congress/League | मॉण्टेग्यू / अगस्त प्रस्ताव |
 
----
+</details>
 
 ## Must-score facts — Home Rule, education, labour
 

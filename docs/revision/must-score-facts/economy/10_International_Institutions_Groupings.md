@@ -11,79 +11,58 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Economy Topic 10 — International Financial Institutions, Economic Groupings and Global Summits</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. The **Bretton Woods Conference (1944)** created the **IMF** and the **IBRD** (core of today’s World Bank) — popularly the **Bretton Woods twins**.
-2. **IMF** headquarters: **Washington D.C.**
-3. **World Bank** headquarters: also **Washington D.C.** — **not New York** (New York hosts the UN Secretariat).
-4. **IMF** role teaching: monetary cooperation, exchange-rate surveillance, BoP support / conditional lending to **member** countries.
-5. IMF does **not** lend to “any country” indiscriminately — membership and programme rules matter.
-6. **World Bank Group** is a development-finance family aimed at poverty reduction and shared prosperity.
-7. **IBRD** lends mainly to middle-income / creditworthy countries.
-8. **IDA** provides concessional finance to the poorest countries.
-9. **IFC** focuses on **private-sector** development finance.
-10. Other World Bank Group arms in teaching: **MIGA** (political-risk insurance) and **ICSID** (investment dispute settlement).
-11. World Bank membership count in classic keys is about **189** (year-sensitive — confirm CA if asked for a fresh count).
-12. **ADB (Asian Development Bank)** — regional development bank; HQ **Manila**.
-13. **AIIB (Asian Infrastructure Investment Bank)** — China-initiated multilateral bank for infrastructure; HQ **Beijing**; India is a founding member and major shareholder.
-14. **New Development Bank (NDB)** — BRICS development bank; HQ **Shanghai**.
-15. **Special Drawing Rights (SDRs)** are an IMF reserve asset — appear in forex-reserve composition (Topic 9 neighbour).
-16. **G20** is the premier forum for major economies’ economic cooperation (19 countries + EU; **African Union** joined as a permanent member under India’s 2023 Presidency teaching).
-17. India held the **G20 Presidency in 2023**; Leaders’ Summit in New Delhi; theme **Vasudhaiva Kutumbakam — One Earth, One Family, One Future**.
-18. India’s G20 logo features a **lotus with seven petals** representing the **seven continents**.
-19. During India’s Presidency, Uttar Pradesh hosted G20 meetings in **Varanasi, Agra, Lucknow and Greater Noida** — **Kanpur was not** a venue in the keyed stem.
-20. **G7** is the group of advanced industrial democracies (Canada, France, Germany, Italy, Japan, UK, USA) — Russia’s G8 period ended after 2014 teaching.
-21. **BRIC** acronym was coined by **Jim O’Neill** (Goldman Sachs) in **2001**.
-22. First **BRIC** Summit: **2009**, Russia (Yekaterinburg teaching).
-23. **South Africa** joined → grouping became **BRICS** in **2010**.
-24. **10th BRICS Summit (2018)** was held in **South Africa** (Johannesburg).
-25. BRICS later expanded (2024 wave: Egypt, Ethiopia, Iran, UAE, and Saudi Arabia invitation track in CA; **Indonesia** full member from **2025** in UKPCS key).
-26. **New Development Bank** and the Contingent Reserve Arrangement are BRICS financial pillars in teaching.
-27. Stock BRICS share lines (population large; GDP share significant) appear in stems — an inflated **“~46% of global trade”** tag is a classic **NOT correct** distractor.
-28. **SCO (Shanghai Cooperation Organisation)** — Eurasian security–economy grouping; India and Pakistan joined as full members in **2017** teaching.
-29. **ASEAN** — ten Southeast Asian states; Central Secretariat in **Jakarta**.
-30. ASEAN–India summits rotate with the ASEAN Chair (e.g. **Vientiane / Laos** for the 21st Summit teaching in 2024).
-31. **SAARC** — South Asian Association for Regional Cooperation; members: Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka.
-32. First SAARC Summit: **Dhaka, 1985**; first SAARC Summit **in India**: **Bangalore, 1986**.
-33. SAARC Secretariat: **Kathmandu**.
-34. **BIMSTEC** links Bay of Bengal South Asia and Southeast Asia: **Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand**.
-35. **Indonesia is not** a BIMSTEC member (ASEAN member distractor).
-36. BIMSTEC Permanent Secretariat: **Dhaka** (opened 2014 teaching).
-37. **5th BIMSTEC Summit (30 March 2022)**: virtual / Colombo chair — **Sri Lanka** chaired; PM Modi **addressed**; India did **not** chair that summit.
-38. **6th BIMSTEC Summit (2025)**: **Bangkok**, Thailand chair (UKPCS neighbour).
-39. **OECD** — club of mostly advanced economies setting policy standards; HQ **Paris**; India is a key partner, not a classic full member in older teaching.
-40. **WTO** organisation desk: founded **1995**, HQ **Geneva**; Ministerial Conference venues rotate (MC-13 **Abu Dhabi** — Topic 9).
-41. **World Economic Forum (WEF)** — Davos meetings; publishes competitiveness / risk reports (Global Competitiveness Index classic tag).
-42. IMF publishes **World Economic Outlook**; World Bank publishes **World Development Report** / Doing Business era products (Doing Business discontinued — Topic 12 rankings).
-43. Multilateral development banks finance infrastructure and reforms with longer horizons than short-term IMF BoP support.
-44. India is a member / shareholder across IMF, World Bank, ADB, AIIB and NDB — voting power and capital subscriptions are CA-sensitive.
-45. Regional groupings matter for trade corridors: ASEAN FTA track, BIMSTEC connectivity, SAARC stall vs BIMSTEC push in Indian diplomacy teaching.
-46. Topic border: trade barriers / BoP / FEMA → Topic 9; CSR / domestic regulators → Topic 11; index publishers deepen → Topic 12.
-
-</details>
+1. **IMF** headquarters: **Washington D.C.**
+2. **World Bank** headquarters: also **Washington D.C.** — **not New York** (New York hosts the UN Secretariat).
+3. **IMF** role teaching: monetary cooperation, exchange-rate surveillance, BoP support / conditional lending to **member** countries.
+4. **World Bank Group** is a development-finance family aimed at poverty reduction and shared prosperity.
+5. **IBRD** lends mainly to middle-income / creditworthy countries.
+6. **IDA** provides concessional finance to the poorest countries.
+7. **IFC** focuses on **private-sector** development finance.
+8. **ADB (Asian Development Bank)** — regional development bank; HQ **Manila**.
+9. **AIIB (Asian Infrastructure Investment Bank)** — China-initiated multilateral bank for infrastructure; HQ **Beijing**; India is a founding member and major shareholder.
+10. **New Development Bank (NDB)** — BRICS development bank; HQ **Shanghai**.
+11. **Special Drawing Rights (SDRs)** are an IMF reserve asset — appear in forex-reserve composition (Topic 9 neighbour).
+12. **G20** is the premier forum for major economies’ economic cooperation (19 countries + EU; **African Union** joined as a permanent member under India’s 2023 Presidency teaching).
+13. **G7** is the group of advanced industrial democracies (Canada, France, Germany, Italy, Japan, UK, USA) — Russia’s G8 period ended after 2014 teaching.
+14. **BRIC** acronym was coined by **Jim O’Neill** (Goldman Sachs) in **2001**.
+15. **South Africa** joined → grouping became **BRICS** in **2010**.
+16. **10th BRICS Summit (2018)** was held in **South Africa** (Johannesburg).
+17. **New Development Bank** and the Contingent Reserve Arrangement are BRICS financial pillars in teaching.
+18. **SCO (Shanghai Cooperation Organisation)** — Eurasian security–economy grouping; India and Pakistan joined as full members in **2017** teaching.
+19. **ASEAN** — ten Southeast Asian states; Central Secretariat in **Jakarta**.
+20. **SAARC** — South Asian Association for Regional Cooperation; members: Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka.
+21. **BIMSTEC** links Bay of Bengal South Asia and Southeast Asia: **Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand**.
+22. **Indonesia is not** a BIMSTEC member (ASEAN member distractor).
+23. **5th BIMSTEC Summit (30 March 2022)**: virtual / Colombo chair — **Sri Lanka** chaired; PM Modi **addressed**; India did **not** chair that summit.
+24. **6th BIMSTEC Summit (2025)**: **Bangkok**, Thailand chair (UKPCS neighbour).
+25. **OECD** — club of mostly advanced economies setting policy standards; HQ **Paris**; India is a key partner, not a classic full member in older teaching.
+26. **WTO** organisation desk: founded **1995**, HQ **Geneva**; Ministerial Conference venues rotate (MC-13 **Abu Dhabi** — Topic 9).
+27. **World Economic Forum (WEF)** — Davos meetings; publishes competitiveness / risk reports (Global Competitiveness Index classic tag).
+28. **Both** institutions are headquartered in **Washington D.C.**
+29. **New York** hosts the UN Secretariat — it is **not** the World Bank headquarters.
+30. **Jim O’Neill** (Goldman Sachs) coined **BRIC** in **2001** for Brazil, Russia, India and China.
+31. **South Africa** joined in **2010**, turning BRIC into **BRICS**.
+32. **Kanpur was not** a UP G20 venue in the keyed stem.
+33. **G7** is the group of advanced industrial democracies (Canada, France, Germany, Italy, Japan, UK, USA).
+34. **ASEAN** has **ten** Southeast Asian member states.
+35. **SAARC** has eight members: Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **IMF** | **World Bank** | Monetary / BoP stability vs development lending |
-| **IBRD** | **IDA** | Near-market loans vs soft / concessional window |
-| **IFC** | **IBRD** | Private sector vs sovereign development lending |
-| **World Bank HQ** | **UN HQ** | Washington D.C. vs New York |
-| **ADB (Manila)** | **AIIB (Beijing)** | Older Asian MDB vs China-initiated infra bank |
-| **NDB (Shanghai)** | **AIIB** | BRICS bank vs broader AIIB membership |
-| **BRIC 2001 term** | **BRICS 2010** | O’Neill acronym vs South Africa join |
-| **First BRIC Summit 2009** | **BRICS name 2010** | Russia summit vs SA accession year |
-| **ASEAN (Jakarta)** | **BIMSTEC (Dhaka secretariat)** | SE Asia ten vs Bay of Bengal seven |
-| **Indonesia** | **Thailand** | ASEAN not BIMSTEC vs BIMSTEC member |
-| **SAARC Kathmandu** | **BIMSTEC Dhaka** | Secretariat cities |
-| **G20** | **G7** | Major economies forum vs advanced-seven club |
-| **G20 lotus 7 petals** | **G20 member count** | Continents motif ≠ “20 petals” |
+## ⚡ Confused Pairs & Common Examiner Traps
 
-</details>
+* Bretton Woods twins = IMF + World Bank; **both** HQ **Washington D.C.** — not New York.
+* IBRD ≠ IDA ≠ IFC; IFC ≠ IMF.
+* ADB Manila ≠ AIIB Beijing ≠ NDB Shanghai ≠ ASEAN Jakarta.
+* BRIC term **2001** (O’Neill); first summit **2009**; BRICS name **2010**; 10th Summit **South Africa 2018**.
+* BIMSTEC ≠ ASEAN; **Indonesia** out; Secretariat **Dhaka**; 5th Summit chair **Sri Lanka**.
+* SAARC first in India **1986**; SAARC Secretariat **Kathmandu**.
+* G20 logo: **7 petals = 7 continents**; UP odd venue **Kanpur**.
+* WEF → Global Competitiveness Index; IMF → WEO; UNDP → HDI.
+* Inflated BRICS “~46% of world trade” is the usual NOT-correct line.
 
 
 ---

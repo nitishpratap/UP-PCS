@@ -24,7 +24,8 @@ None mandatory.
 ---
 
 
-## Consolidated — 25 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 25 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. City–industry pairs: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
 2. **Akron** = tyres; **Toulouse** = Airbus; **Silicon Valley** (California) = electronics / IT — not Detroit.
@@ -46,8 +47,10 @@ None mandatory.
 18. A **willy-willy** is a cyclone name, not a local wind.
 19. More wind pairs: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** = Adriatic cold; **Harmattan** = West Africa; **Sirocco** = Sahara→Med; **Khamsin** = Egypt.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -81,7 +84,7 @@ None mandatory.
 | Footloose vs steel | Footloose = electronics / R&D; steel = ore + coal | Electronics on coalfield only | |
 | Silicon Valley | California Bay Area **electronics / IT** | Detroit auto dump | सिलिकॉन वैली |
 
----
+</details>
 
 ## Must-score facts — city–industry, canals, winds
 

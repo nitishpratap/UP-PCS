@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 45 — Environment (पर्यावरण) PYQ Trend Analysis</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -25,11 +23,7 @@ hide:
 | **Stockholm 1972** | **Stockholm 2001** | First UN global conference on the environment giving birth to UNEP vs binding international treaty banning Persistent Organic Pollutants (POPs) | स्टॉकहोम सम्मेलन (1972) / स्टॉकहोम संधि (2001) |
 | **National Green Tribunal (NGT)** | **Central Pollution Control Board (CPCB)** | Specialized judicial tribunal established under NGT Act 2010 for environmental disputes vs statutory executive regulatory board established under Water Act 1974 | राष्ट्रीय हरित अधिकरण (न्यायिक) / सीपीसीबी (कार्यकारी बोर्ड) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Trend locks
 
@@ -344,18 +338,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Recent UPPCS papers give roughly 15–20 tagged environment marks most years. Planning for only 8–10 is outdated.
-- **Exam Anchor:** Tagged volume rose from about 12 questions (2018–20 average) to about 17.7 (2023–25 average).
 - **Exam Anchor:** 2023 was the peak tagged year (25 questions). 2025 stayed strong at 19.
 - **Exam Anchor:** 2020 and 2024 dips in tagged count still hide cross-subject environment leakage in Economy and Geography.
-- **Exam Anchor:** The hottest topic cluster by frequency is SDGs and sustainable development, then pollution, then ecology (पारिस्थितिकी) and ecosystem (पारिस्थितिकी तंत्र).
-- **Exam Anchor:** Climate change (जलवायु परिवर्तन), wildlife conservation (वन्यजीव संरक्षण), biodiversity, biosphere reserves (जैवमंडल आरक्षित क्षेत्र), forests/ISFR, and Ramsar (रामसर)–UP traps also stay hot.
-- **Exam Anchor:** From 2023–2025, rising lines include SDGs, wildlife, biodiversity, biosphere, forests, and current schemes such as LiFE and MISHTI.
-- **Exam Anchor:** The 2025 environment paper shifted toward multi-statement, A/R, Match, and NOT-matched formats — about two-thirds (ते-भागा) multi-format.
-
-</details>
+- **Exam Anchor:** DPAP = 1973. India net zero = 2070. GEF = 1991. Montreal = ozone. Kyoto (क्योटो)/Paris = climate.
+- **Exam Anchor:** Early period (2018–20): average 12 questions per paper.
+- **Exam Anchor:** Recent period (2023–25): average 17.7 questions per paper, +47% increase.
+- **Exam Anchor:**  planning rule: budget 15–20 environment marks in every attempt. Treating env as a 8-question afterthought is outdated.
+- **Exam Anchor:** 2020 and 2024 dips are anomalies. Cross-subject env-adjacent questions (Economy reports, Geography protected areas) keep true environment ROI higher than tagged count alone.
+- **Exam Anchor:** 2-statement correct? — Scheme years, treaty purposes, pollution facts
 
 ---
 

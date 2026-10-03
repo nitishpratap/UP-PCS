@@ -26,7 +26,8 @@ Environment – Meaning | Environmental Components | Classification of Environme
 ---
 
 
-## Consolidated — 31 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 31 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Environment means the sum of **biotic and abiotic** factors that affect living organisms. Notes do not treat “only physical” or “only living” as the full definition.
 2. The four (चातुर्याम) spheres are **lithosphere, hydrosphere, atmosphere, and biosphere**. Biosphere roughly spans from about **200 m below soil** to about **6 km** above sea level.
@@ -60,9 +61,10 @@ Environment – Meaning | Environmental Components | Classification of Environme
 30. **Carrying capacity** is the maximum load an environment can sustain indefinitely. Resource extraction must stay **below** regeneration, and waste must stay **within** absorption capacity — not the reverse.
 31. **Ecological footprint** (पारिस्थितिक पदचिह्न) measures the land/water area needed to support consumption, in **global hectares (gha)**.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -74,7 +76,8 @@ Environment – Meaning | Environmental Components | Classification of Environme
 | **Liebig's Law of the Minimum** | **Shelford's Law of Tolerance** | Population growth is controlled by the scarcest limiting resource vs species survival requires environmental factors to remain between minimum and maximum tolerance limits | लाइबिग का न्यूनतम नियम / शेलफोर्ड का सहनशीलता नियम |
 | **Internal Environment** | **External Environment** | Biochemical and physiological conditions within an organism (homeostasis) vs physical surroundings external to the organism | आंतरिक पर्यावरण / बाह्य पर्यावरण |
 | **Physical Environment** | **Biological Environment** | Inanimate non-living components (lithosphere, hydrosphere, atmosphere) vs living communities of flora, fauna, and microbes | भौतिक पर्यावरण / जैविक पर्यावरण |
----
+
+</details>
 
 ## Must-score facts — spheres, laws, articles, days
 

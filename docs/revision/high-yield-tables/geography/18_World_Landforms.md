@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 18 — World Landforms</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -56,11 +54,7 @@ hide:
 | Socotra | **Yemen** | Oman | सोकोत्रा |
 | Majuli | **Brahmaputra** river island | Amazon | माजुली |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Mountain / plateau tags
 
@@ -757,18 +751,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Area order (largest → smallest): Asia → Africa → North America → South America → Antarctica → Europe → Australia. Australia is the smallest continent; Africa has the most countries (~54).
-- **Exam Anchor:** Mean elevation leader is Antarctica (~2300 m). Europe has the highest share of plains in its area. Guyana is in South America, not Africa.
-- **Exam Anchor:** The Andes are the world’s longest fold chain. The Himalaya (हिमालय) are the highest. Aconcagua stands in the Andes of Argentina. Length ladder pair: Andes > Rockies > Great Dividing Range > Himalaya.
 - **Exam Anchor:** Pyrenees = Spain–France; Alps = Switzerland / central Europe (not England); Apennine = Italy; Balkan = Bulgaria; Urals mark Europe–Asia. British Columbia = “Sea of Mountains.”
 - **Exam Anchor:** Toubkal (Atlas) is in Morocco. Hoggar is in Algeria. Stanley / Rwenzori is in Uganda. Kilimanjaro is in Tanzania. Darling Range = SW Australia.
 - **Exam Anchor:** Chimborazo is in Ecuador. The Atlas system is North African — do not place it in France or Spain. Sierra Nevada = block mountain (not young fold like Rockies/Alps/Himalaya).
 - **Exam Anchor:** Kilimanjaro sits on the East African Rift and is not in the Pacific Ring of Fire. Etna is in Italy / the Mediterranean. Tertiary young folds: Alps, Andes, Himalaya, Rockies, Atlas; Appalachians = Caledonian / old.
 - **Exam Anchor:** Tibet is the highest large plateau (~4500 m). The Pamir is the “Roof of the world”. The Altiplano is Bolivia–Peru. The Meseta / Madrid is Spain. Patagonia Plateau = mineral storehouse pair.
-
-</details>
+- **Exam Anchor:** Borneo is shared by three countries and is not a volcanic dump. Java and Sumatra sit on a volcanic arc.
+- **Exam Anchor:** Gibson = Australia (not Brazil). Sonoran = USA. Taklamakan = China. Karakum = Turkmenistan (also Kazakhstan fringe note).
+- **Exam Anchor:** Epiphytes mark equatorial forest; baobab marks savanna; cedars mark the Mediterranean; acacia marks the Sahara fringe.
 
 ---
 

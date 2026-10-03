@@ -11,69 +11,70 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 12 — Ancient Indian Economy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Economy match ladder: **Indus = Urban**, **Rigvedic = Pastoral**, **Later Vedic = Agrarian**, and the medieval slot is **landlordism**. The Indus uses weights and seals but has **no coins**.
-2. Vedic **nishka** (निष्क) is a gold unit or ornament. It is **not** a minted coin. The first Indian coins are **punch-marked silver** from about the sixth century BCE (**karshapana / pana** / कार्षापण या पण - आहत सिक्के).
-3. Mauryas keep punch-marks and also issue **cast copper**. The weights officer is the ***pautavadhyaksha*** (पौतवाध्यक्ष).
-4. **Indo-Greeks** bring the first **portrait** die-struck coins, with Greek and Kharoshthi legends. Portraits do **not** begin with the Guptas.
-5. **Vima Kadphises** and the **Kushans** make gold coinage common in India. Gupta **dinara** (दीनार) is later prestige gold named through the Roman *denarius* path.
-6. Gupta gold types: **king-queen** = Chandragupta I; **lyrist / horse** = Samudragupta; **archer** = Chandragupta II. Gold often weighs about **120–144 grains**.
-7. Chandragupta II’s Shaka-victory proof is **silver** (*rupaka* / रूपक) coins of about **33 grains**. Gold dinara is the trap option.
-8. **Yajna Sri Satakarni** put a **ship** on some Satavahana coins as a Deccan sea-trade stamp.
-9. Early trade texts and archaeology both show **river-ports** and large **entrepots** (warehouse / redistributor hubs). An entrepot is not “any landing point.”
-10. **Shreni** (श्रेणी) is the general craft or trade guild headed by a **shreshthin** (श्रेष्ठिन्) or **jyeshthaka** (ज्येष्ठक). **Nigama** (निगम) is a merchant association; **Sarthavaha** (सार्थवाह) is the caravan leader. **Nagaram** (नगरम) is a south Indian town merchant body.
-11. **Manigrama** (मणिग्रामम) is the **foreign / overseas** trade institution. **Nanadesi** (नानादेशी) means merchants of many lands, but the foreign-trade key is still **Manigrama**.
-12. **Lothal** is the Harappan **dockyard** (गोदीबाड़ा). Boat models come from **Mohenjo-daro and Lothal**, not from Dholavira alone.
-13. Periplus west ports: **Barygaza** is **Broach** (Narmada mouth); **Barbarikon** is the **Indus-mouth** port — do not swap them.
-14. **Tamralipti** (ताम्रलिप्ति) at the Ganga mouth faces the Bay of Bengal. **Muziris (Muchiri)** on the Malabar is the Roman **pepper** (काली मिर्च) port.
-15. Inland highways: **Uttarapatha** (उत्तरापथ) runs Taxila toward **Pataliputra**; **Dakshinapatha** (दक्षिणापथ) runs from the Ganga belt through **Ujjain** (उज्जैन) into the Deccan. Dakshinapatha is a **road**, not “only sea.”
-16. Roman trade peaks about the first to third centuries CE. The ***Periplus of the Erythraean Sea*** is the coastal handbook; **Pliny** complains of a **gold drain** to India.
-17. Sangam poems call western foreign traders **Yavana** (यवन). **Arikamedu** near Puducherry yields Roman amphorae and related ware; the *Periplus* calls it **Poduke**.
-18. Punch-marked silver carries geometric and animal punches — **no royal portrait**. Common marks include sun, six-armed symbol, hill, elephant, bull, and tree-in-railing.
-19. Later Vedic dues appear as **bali** (बलि) and **bhaga** (भाग). From the mahajanapada age, towns, **NBPW**, and punch-marked silver travel with long-distance trade.
-20. **Sopara** (शूर्पारक) and **Kalyan** on the Konkan run from Mauryan times onward. **Puhar / Kaveripattinam** is the Sangam Chola port at the Kaveri mouth. **Uraiyur** is the Sangam Chola capital and a **cotton** centre.
-21. Pepper, cotton, ivory, pearls, and gems leave Indian ports; **horses**, wine, gold, and glass are famous western imports. Sailors use **monsoon** reversal. Sanskrit ***Yavanapriya*** (यवनप्रिय) means **pepper** (काली मिर्च).
-22. East-coast **Tamralipti** is **not** the main Roman door. The pepper–gold circuit centres on Malabar and Broach.
-23. Gupta markets still use silver and copper for daily exchange even while gold dinaras advertise imperial prestige.
-24. The **Ainnurruvar** (“500”) are a later south merchant network. They are not a Mauryan guild label.
-25. Harappan west end on the Makran is **Sutkagen-dor**. Harappan sea traffic runs toward the Gulf from Lothal and the Makran coast.
-26. After the Guptas, imperial gold thins. Roman **aurei** in south Indian hoards remain pepper-trade bullion evidence, not Gupta mintage.
-27. Guild custom is treated as usable law in the *Arthashastra* (अर्थशास्त्र), and Sanchi–Bharhut gifts name shrenis — so shreni is **not** “only foreign trade.”
-28. Economy type changes by age: pastoral cattle wealth in the Rigveda, agrarian dues later, then coin-and-town trade from the sixth century BCE onward.
-29. An **amphora** is a tall Roman jar with a long neck and **two handles**, used for wine or oil — a classic Arikamedu find type.
-30. **Tagara** sat on the inland trade route connecting **Kalyan** with **Vengi**.
-31. Land dues begin as Vedic **bali** and **bhaga**. Mauryan *Arthashastra* keeps **bhaga** (often about one-sixth): **Samaharta** collects, **Sannidhata** stores.
-32. Forced labour appears as **vishti**. Gupta copper-plates thicken **brahmadeya** and **agrahara** holdings; feudatory **samanta** tribute sits beside the old share tax.
-33. Under Harsha, agrahara grants continue and the moving royal camp is remembered as **skandhavara**. Land-grant thickening bridges Mauryan salaried collection toward post-Gupta feudal land control.
-34. East-bound maritime memory runs from **Tamralipti** toward **Suvarnabhumi** (Southeast Asia). That eastern door is **not** the Roman pepper circuit of Muziris and Barygaza.
-35. Gupta markets still use **silver and copper** for daily exchange even while gold **dinara** advertise prestige. After the Guptas, imperial gold thins.
-36. UP economy nodes: **Varanasi** (textile / Ganga river-port), **Kaushambi** (Uttarapatha), later **Kannauj** (Harsha-age entrepot). **Alamgirpur** is IVC east fringe — **not** a sea-port.
+1. **Indo-Greeks** bring the first **portrait** die-struck coins, with Greek and Kharoshthi legends. Portraits do **not** begin with the Guptas.
+2. **Vima Kadphises** and the **Kushans** make gold coinage common in India. Gupta **dinara** (दीनार) is later prestige gold named through the Roman *denarius* path.
+3. **Yajna Sri Satakarni** put a **ship** on some Satavahana coins as a Deccan sea-trade stamp.
+4. **Shreni** (श्रेणी) is the general craft or trade guild headed by a **shreshthin** (श्रेष्ठिन्) or **jyeshthaka** (ज्येष्ठक). **Nigama** (निगम) is a merchant association; **Sarthavaha** (सार्थवाह) is the caravan leader. **Nagaram** (नगरम) is a south Indian town merchant body.
+5. **Manigrama** (मणिग्रामम) is the **foreign / overseas** trade institution. **Nanadesi** (नानादेशी) means merchants of many lands, but the foreign-trade key is still **Manigrama**.
+6. **Lothal** is the Harappan **dockyard** (गोदीबाड़ा). Boat models come from **Mohenjo-daro and Lothal**, not from Dholavira alone.
+7. **Tamralipti** (ताम्रलिप्ति) at the Ganga mouth faces the Bay of Bengal. **Muziris (Muchiri)** on the Malabar is the Roman **pepper** (काली मिर्च) port.
+8. **Sopara** (शूर्पारक) and **Kalyan** on the Konkan run from Mauryan times onward. **Puhar / Kaveripattinam** is the Sangam Chola port at the Kaveri mouth. **Uraiyur** is the Sangam Chola capital and a **cotton** centre.
+9. **Tagara** sat on the inland trade route connecting **Kalyan** with **Vengi**.
+10. **Lothal** on the Gulf of Khambhat is the Harappan **dockyard**. **Sutkagen-dor** on the Makran is the Harappan west end. Boat **models** come from **Mohenjo-daro and Lothal**. Dholavira is not that pair.
+11. **Bharukaccha / Broach** at the Narmada mouth is Periplus **Barygaza**. **Sopara** and **Kalyan** on the Konkan run from Mauryan times onward. **Barbarikon** is the Indus-mouth Periplus port. It is **not** Broach.
+12. **Tamralipti** at the Ganga mouth faces the Bay of Bengal.
+13. **Muziris (Muchiri)** on the Malabar is the Roman **pepper** port. **Nelcynda** in Kerala is another Periplus pepper landing. **Tondi** and **Mushiri** sit on the western *Periplus* list with them. **Puhar / Kaveripattinam** at the Kaveri mouth is the Sangam Chola port. **Arikamedu** near Puducherry yields Roman amphorae and was called **Poduke** in the *Periplus*.
+14. **Uraiyur** on the Kaveri was a Sangam Chola capital and a major **cotton** centre.
+15. **Tagara** was a significant inland trade centre on the route connecting **Kalyan** with **Vengi**.
+16. **Pepper** is the famous west-coast export. Cotton, ivory, pearls, and gems also leave Indian ports. **Horses** are a famous import. Wine, gold, and glass also arrive from the west.
+17. **Pliny** complains of a **gold drain** to India. Hoards of Roman gold and silver sit in Kerala, Tamil country, and Karnataka. **Arikamedu** yields amphorae and Arretine ware.
+18. **First Indian coins = Gupta gold** → **punch-marked silver**.
+19. **2022 Shaka proof = dinara** → **silver**, ~33 grains.
+20. **33 grains = gold weight** → silver rupaka. Gold is ~120–144.
+21. **King-queen gold = Chandragupta II** → **Chandragupta I**.
+22. **Lyrist = Chandragupta II** → **Samudragupta**.
+23. **Nishka = Mauryan coin** → Vedic gold **unit**.
+24. **Shreni = 2018 foreign trade** → **Manigrama**.
+25. **Shreni = only northern India** → north **and** south; quality/price/conduct are guild-controlled.
+26. **Nanadesi = Manigrama** → many-lands vs overseas guild.
+27. **Boat models = Dholavira** → **Mohenjo-daro + Lothal**.
+28. **Barbarikon = Broach** → Indus mouth. Broach = **Barygaza**.
+29. **Tamralipti = main Roman port** → **Muziris** / west-south.
+30. **Lothal = Muziris** → Bronze Age dock vs Sangam–Roman pepper.
+31. **IVC = pastoral** → **Urban** (2020). Pastoral = Rigvedic.
+32. **Later Vedic = urban** → **agrarian**.
+33. **Entrepot = any jetty** → warehouse / redistributor.
+34. **Dakshinapatha = only sea** → inland north–Deccan road.
+35. **Yavana = only a Greek king** → Sangam foreign / western trader.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Punch-marked | Gupta dinara | First **silver** coins vs later **gold** prestige | पंच-मार्क / दीनार |
-| Dinara | Rupaka | Gupta **gold** vs CG II **silver** (~33 grains) | दीनार / रूपक |
-| Nishka | Karshapana | Vedic gold **unit** vs punch-marked **coin** | निष्क / कार्षापण |
-| Shreni | Manigrama | General craft guild vs **foreign** trade (2018) | श्रेणी / मणिग्राम |
-| Nanadesi | Manigrama | Merchants of **many lands** vs overseas **Manigrama** | नानादेशी / मणिग्राम |
-| Lothal | Muziris | Harappan **dock** vs Sangam–Roman **pepper** port | लोथल / मुज़िरिस |
-| Barygaza | Barbarikon | **Broach** vs **Indus-mouth** in Periplus | भरूच / बारबारिकोन |
-| Tamralipti | Broach | East Ganga mouth vs west Narmada mouth | ताम्रलिप्ति / भरूच |
-| Uttarapatha | Dakshinapatha | NW–Ganga highway vs north–**Deccan** | उत्तरापथ / दक्षिणापथ |
-| Port | Entrepot | Landing point vs **warehouse / redistributor** | बंदरगाह / एंट्रेपो |
-| Urban | Pastoral | IVC (2020) vs **Rigvedic** | नगरीय / पशुपालक |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+— Facts
+
+1. **First Indian coins = Gupta gold** → **punch-marked silver**.
+2. **2022 Shaka proof = dinara** → **silver**, ~33 grains.
+3. **33 grains = gold weight** → silver rupaka. Gold is ~120–144.
+4. **King-queen gold = Chandragupta II** → **Chandragupta I**.
+5. **Lyrist = Chandragupta II** → **Samudragupta**.
+6. **Nishka = Mauryan coin** → Vedic gold **unit**.
+7. **Shreni = 2018 foreign trade** → **Manigrama**.
+8. **Shreni = only northern India** → north **and** south; quality/price/conduct are guild-controlled.
+9. **Nanadesi = Manigrama** → many-lands vs overseas guild.
+10. **Boat models = Dholavira** → **Mohenjo-daro + Lothal**.
+11. **Barbarikon = Broach** → Indus mouth. Broach = **Barygaza**.
+12. **Tamralipti = main Roman port** → **Muziris** / west-south.
+13. **Lothal = Muziris** → Bronze Age dock vs Sangam–Roman pepper.
+14. **IVC = pastoral** → **Urban** (2020). Pastoral = Rigvedic.
+15. **Later Vedic = urban** → **agrarian**.
+16. **Entrepot = any jetty** → warehouse / redistributor.
+17. **Dakshinapatha = only sea** → inland north–Deccan road.
+18. **Yavana = only a Greek king** → Sangam foreign / western trader.
+19. **Only the first statement true** → check whether **both** statements hold before locking “Only 1”.
 
 
 ---

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 38 — Pollution (Advanced)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -23,11 +21,7 @@ hide:
 | **Central Pollution Control Board (CPCB)** | **Central Ground Water Board (CGWB)** | Statutory body under Water Act 1974 for overall air/water quality monitoring vs apex subordinate office under Jal Shakti Ministry for groundwater management | सीपीसीबी (प्रदूषण नियंत्रण) / सीजीडब्ल्यूबी (भूजल बोर्ड) |
 | **SAFAR** | **NCAP** | Ministry of Earth Sciences real-time metropolitan air quality forecasting system vs MoEFCC national targeted programme to cut PM2.5/PM10 by 20–30% across 131 non-attainment cities | सफर (सटीक पूर्वानुमान प्रणाली) / राष्ट्रीय स्वच्छ वायु कार्यक्रम |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Air / water
 
@@ -138,18 +132,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Primary air pollutants are emitted directly (SO₂, PM, CO, NOx, lead). Secondary pollutants form in air (O₃, PAN, photochemical smog, acid mist).
 - **Exam Anchor:** Lichens are pollution indicators and do not grow well in badly polluted air.
-- **Exam Anchor:** India’s AQI uses eight pollutants (PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb) — not CO₂/CH₄. Bands: Good (0–50) to Severe (401–500). NAQI launched 2014.
 - **Exam Anchor:** NCAP (2019) targets non-attainment cities with about a 20–30% particulate cut goal.
 - **Exam Anchor:** London smog is SO₂ plus smoke. Photochemical smog needs NOx, VOCs, and sunlight and yields ozone + PAN; PAN is a strong eye irritant.
 - **Exam Anchor:** Fly ash is a thermal-power primary pollutant usable in bricks/cement; oxides SiO₂/Al₂O₃/CaO plus toxic metals. BS-VI began 1 Apr 2020.
 - **Exam Anchor:** SAFAR (सफर) is an IITM air-quality and weather forecast system. WAYU units were installed in Delhi.
 - **Exam Anchor:** CO forms carboxyhaemoglobin (~200–300× affinity vs O₂). Radon is the top indoor air-pollutant teaching fact.
-
-</details>
+- **Exam Anchor:** BOD measures organic pollution through microbial oxygen demand. High BOD means worse water quality.
 
 ---
 

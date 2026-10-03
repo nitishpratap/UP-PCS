@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 18 — Political Parties & Pressure Groups</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | Term A | Term B | Core Difference | Hindi Terminology |
 |--------|--------|-----------------|-------------------|
@@ -26,11 +24,7 @@ hide:
 | **AITUC** | **CITU** | **CPI** (1920) vs **CPI(M)** (1970) | एटक (भाकपा) / सीटू (माकपा) |
 | **INTUC** | **BMS** | **Congress** (1947) vs **BJP/RSS** (1955) | इंटक (कांग्रेस) / बीएमएस (संघ) |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Hooks in Constitution / law
 
@@ -165,18 +159,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The Constitution barely names parties. The main hooks are Article 19(1)(c) (association), the Tenth Schedule (defection), and Article 324 (elections). Parties were largely extra-constitutional until the 52nd Amendment.
-- **Exam Anchor:** Registration of a political party (राजनीतिक दल) is under section 29A of the Representation of the People Act, 1951 (Registered Unrecognised Political Party). Recognition as a National or State party is under the Election Symbols Order 1968. Do not merge the two steps.
-- **Exam Anchor:** A party becomes a National party by any one route: 6% votes in four (चातुर्याम) States plus four Lok Sabha (लोकसभा) seats; or 2% of Lok Sabha seats from at least three States; or State-party status in four States.
-- **Exam Anchor:** A party becomes a State party in that State by any one route: 6% votes plus two MLAs or one MP; or 3% of Assembly seats or three seats (whichever is higher); or one Lok Sabha seat per 25 Assembly seats; or 8% of votes even with zero seats.
-- **Exam Anchor:** As of 2024–26 there are six national parties: AAP (broom), BSP (elephant), BJP (lotus), CPI(M) (hammer-sickle-star), INC (hand), and NPP (book). CPI lost national status in 2023. NPP was the first north-eastern national party (2019).
-- **Exam Anchor:** Reserved symbols go to recognised parties. Free symbols go to unrecognised parties and independents.
-- **Exam Anchor:** A standard founding-year order is TDP 1982 → BSP 1984 → SP 1992 → TMC 1998.
-- **Exam Anchor:** India has a multi-party system, not a classic two-party system. After the Congress-system decades, 1967 brought large state coalitions; 1989–2014 was a long coalition era at the Centre; 2014 returned a single-party majority; 2024 again produced an NDA coalition with the BJP on 240 seats.
-
-</details>
+- **Exam Anchor:** Votes + Seats Route: Polling at least 6% of total valid votes in 4 or more States in a Lok Sabha or State Assembly election, AND winning at least 4 seats in the Lok Sabha from any State or States.
+- **Exam Anchor:** Lok Sabha Seats Route: Winning at least 2% of total seats in the Lok Sabha (i.e., $543 \times 2\% = \mathbf{11\text{ seats}}$), and these elected members must represent at least 3 different States.
+- **Exam Anchor:** Multi-State Recognition Route: Being recognized as a State Party in at least 4 States.
+- **Exam Anchor:** 6% Votes + 2 MLAs: Polling at least 6% of valid votes in the State Assembly election AND winning at least 2 Assembly seats (MLAs).
+- **Exam Anchor:** 6% Votes + 1 MP: Polling at least 6% of valid votes in the State during a Lok Sabha election AND winning at least 1 Lok Sabha seat (MP) from that State.
+- **Exam Anchor:** 3% Seats or 3 MLAs: Winning at least 3% of the total Assembly seats or 3 seats in the Legislative Assembly, whichever is higher.
+- **Exam Anchor:** 1 MP per 25 LS Seats: Winning at least 1 Lok Sabha seat for every 25 seats allotted to that State (or any fraction thereof).
+- **Exam Anchor:** 8% Vote-Share Alone (2011 Rule): Polling at least 8% of the total valid votes in the State in an Assembly or Lok Sabha election, even if it wins ZERO seats.
 
 ---
 

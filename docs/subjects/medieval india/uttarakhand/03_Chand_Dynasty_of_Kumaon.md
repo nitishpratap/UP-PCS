@@ -28,7 +28,8 @@
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 24 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Chand** dynasty of Kumaon used the **Garud** emblem; founder **Somchand** (c. 10th/11th c. Jhusi/Prayag (प्रयाग) legend) built **Rajbunga Fort** at **Champawat (चंपावत)**.
 2. **Char Aal** guard clans appointed by Somchand: **Karki, Bora (बोरा), Taragi (Tadagi), Chaudhary** at the four gates of Rajbunga.
@@ -55,6 +56,7 @@
 23. Do not confuse **Hawalbagh 1790** (Kumaon Chand end) with Garhwal’s **Khudbuda 1804** (Parmar end).
 24. Emblem **Garud** and title origin under Gyan Chand remain the standard Chand identity pair for match stems.
 
+</details>
 
 ## Chronological Ruler Guide & Significant Milestones
 
@@ -145,7 +147,8 @@ Chand taxation was notorious for having 36 principal taxes (*Rakam*) and 32 cler
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -155,7 +158,7 @@ Chand taxation was notorious for having 36 principal taxes (*Rakam*) and 32 cler
 | **Hawalbagh vs Khudbuda** | Hawalbagh (1790) = Gorkha conquest of **Kumaon (Chands)**; Khudbuda (1804) = Gorkha conquest of **Garhwal (Parmars)**. |
 | **Sirtee vs Jhoolia** | Sirtee = **cash agriculture tax**; Jhoolia = **rope bridge crossing tax**. |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

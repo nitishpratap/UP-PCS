@@ -32,7 +32,8 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 ---
 
 
-## Consolidated — 40 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 40 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
 2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
@@ -73,9 +74,10 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 35. Warm currents raise coastal temperature and humidity; cold currents cool and dry coasts and help west-coast deserts. Fog is common where warm and cold currents meet.
 36. Coral needs warm clear shallow water; bleaching pairs with about **2°C** sea-surface warming. India’s reef facts: Andaman & Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -128,7 +130,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 | Syria sea | **Mediterranean** | Black Sea | सीरिया |
 | Gaza water | **Mediterranean** | Red / Dead Sea as coast | गाजा |
 
----
+</details>
 
 ## Must-score facts — relief, currents, El Niño
 

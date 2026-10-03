@@ -11,84 +11,54 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 4 — Economy, Industrial Policy, Mineral Resources, Infrastructure and ODOP</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
-1. Uttar Pradesh is the **3rd largest state economy** in India by nominal Gross State Domestic Product (GSDP).
-2. The Government of UP has set a formal strategic target to achieve a **$1 Trillion Economy**.
-3. The **Tertiary (Services) sector** is the largest contributor to UP's GSDP, accounting for nearly **48%–50%**.
-4. The **Primary (Agriculture) sector** employs roughly **45%–50%** of Uttar Pradesh's working population.
-5. India's first modern sugar mill was established in **1903 at Pratappur in Deoria district**.
-6. Uttar Pradesh is the **largest producer of sugarcane** in India.
-7. **Muzaffarnagar** hosts the largest jaggery (*Gud*) market in Asia.
-8. **Kanpur** was historically renowned as the **"Manchester of the East"** and the **"Leather City of the World"**.
-9. **Agra** accounts for approximately **28% of total Indian footwear exports**.
-10. **Moradabad** is known as **"Peetal Nagari" (Brass City)**, accounting for over 40% of India's metal handicraft exports.
-11. **Firozabad** is famous as **"Suhag Nagari"** and holds a virtual monopoly in glass bangles manufacturing.
-12. **Aligarh** is internationally famous as the **"City of Locks" (Taala Nagari)**.
-13. **Bhadohi** is officially recognized as the **"Carpet City"**, producing over half of India's exported handmade carpets.
-14. The **Indian Institute of Carpet Technology (IICT)** is located at **Bhadohi**.
-15. **Kannauj** is known as the **"Attar Nagari"** (Perfume City) or the "Grasse of the East" for traditional *Deg-Bhapka* attar distillation.
-16. The **Fragrance and Flavour Development Centre (FFDC)** is located at **Kannauj**.
-17. **Sonbhadra** is celebrated as the **"Energy Capital of India"** due to its immense pithead thermal power complexes.
-18. **Renukoot (Sonbhadra)** is the site of **HINDALCO**, one of Asia's largest integrated aluminium smelting plants.
-19. The **HINDALCO** plant at Renukoot draws hydro-electric power from the **Rihand Dam (Govind Ballabh Pant Sagar)**.
-20. **Singrauli (Sonbhadra)** is the only region in Uttar Pradesh with commercial **coal mining** deposits.
-21. **Khurja (Bulandshahr)** is world-famous as the **"Ceramic City"** for glazed pottery and electrical porcelain insulators.
-22. **Saharanpur** is internationally renowned for delicate **carved wooden handicrafts** in Sheesham wood.
-23. **Nizamabad (Azamgarh)** is famous for its unique GI-tagged **Black Clay Pottery**.
-24. **Gorakhpur** is renowned for its GI-tagged traditional terracotta horses, elephants, and clay artifacts.
-25. **Lalitpur** is the **only district in Uttar Pradesh** where traces of **Uranium** have been discovered.
-26. **Copper** mineralization in UP is concentrated in the **Sonrai area of Lalitpur district**.
-27. **Shankargarh (Prayagraj)** is the premier hub for high-grade **Silica Sand (Glass Sand)** extraction.
-28. UP is the leading producer of **Diaspore and Pyrophyllite** minerals in India (Jhansi, Lalitpur, Mahoba).
-29. **Kajrahat (Sonbhadra)** and **Bhalua (Mirzapur)** are major sources of high-grade **Limestone** for cement factories.
-30. The **Narora Atomic Power Station (NAPS)** in **Bulandshahr** is the **only nuclear power plant** in Uttar Pradesh.
-31. The oldest thermal power plant in Uttar Pradesh is the **Harduaganj Thermal Power Station (Aligarh)**, set up in **1942**.
-32. The **Mathura Oil Refinery (IOCL)**, commissioned in 1982, is the only petroleum refinery in Uttar Pradesh.
-33. The **UP Defence Industrial Corridor (UPDIC)** consists of exactly **6 nodes**: **Aligarh, Agra, Kanpur, Chitrakoot, Jhansi, and Lucknow**.
-34. The BrahMos Aerospace supersonic cruise missile manufacturing and integration unit is located at the **Lucknow node** of UPDIC.
-35. The flagship **One District One Product (ODOP)** scheme was launched on **24 January 2018 (UP Diwas)**.
-36. Under ODOP, **Moonj products** are assigned to **Amethi, Sultanpur, and Prayagraj**.
-37. Under ODOP, **Home Furnishings** (not wooden toys) is the designated product for **Baghpat**.
-38. Under ODOP, **Wooden Toys** are the designated handicraft for **Chitrakoot and Varanasi**.
-39. Under ODOP, **Aromatic Kalanamak Rice** is the designated product for **Siddharthnagar**.
-40. Under ODOP, **Aonla (Gooseberry)** products are designated for **Pratapgarh**.
-41. Under ODOP, **Shajar Stone Craft** is the designated GI product for **Banda**.
-42. Under ODOP, **Gaura Stone Craft** is the designated product for **Mahoba**.
-43. Under ODOP, **Tarkashi Woodcraft** (brass wire inlay) is designated for **Mainpuri**.
-44. The **Yamuna Expressway** (165 km) connects **Greater Noida to Agra**.
-45. The **Agra-Lucknow Expressway** (302 km) was constructed by UPEIDA and features a dedicated 3.3 km emergency airstrip in Unnao.
-46. The **Purvanchal Expressway** (340.8 km) connects **Lucknow (Chand Saray) to Ghazipur (Haidariya)**, passing through 9 districts.
-47. The Purvanchal Expressway **does NOT pass through Basti or Gorakhpur**.
-48. The **Bundelkhand Expressway** (296 km) connects **Chitrakoot (Bharatkoop) to Etawah (Kudrail)**, linking into the Agra-Lucknow Expressway.
-49. **Noida International Airport (Jewar)** in Gautam Buddha Nagar is developed as a major greenfield international cargo and passenger hub.
-50. Under the Central Smart Cities Mission, exactly **10 cities** were selected from Uttar Pradesh (**Ghaziabad is NOT on the Central 10 list**).
+1. **Muzaffarnagar** hosts the largest jaggery (*Gud*) market in Asia.
+2. **Kanpur** was historically renowned as the **"Manchester of the East"** and the **"Leather City of the World"**.
+3. **Agra** accounts for approximately **28% of total Indian footwear exports**.
+4. **Moradabad** is known as **"Peetal Nagari" (Brass City)**, accounting for over 40% of India's metal handicraft exports.
+5. **Firozabad** is famous as **"Suhag Nagari"** and holds a virtual monopoly in glass bangles manufacturing.
+6. **Aligarh** is internationally famous as the **"City of Locks" (Taala Nagari)**.
+7. **Bhadohi** is officially recognized as the **"Carpet City"**, producing over half of India's exported handmade carpets.
+8. **Kannauj** is known as the **"Attar Nagari"** (Perfume City) or the "Grasse of the East" for traditional *Deg-Bhapka* attar distillation.
+9. **Sonbhadra** is celebrated as the **"Energy Capital of India"** due to its immense pithead thermal power complexes.
+10. **Renukoot (Sonbhadra)** is the site of **HINDALCO**, one of Asia's largest integrated aluminium smelting plants.
+11. **Singrauli (Sonbhadra)** is the only region in Uttar Pradesh with commercial **coal mining** deposits.
+12. **Khurja (Bulandshahr)** is world-famous as the **"Ceramic City"** for glazed pottery and electrical porcelain insulators.
+13. **Saharanpur** is internationally renowned for delicate **carved wooden handicrafts** in Sheesham wood.
+14. **Nizamabad (Azamgarh)** is famous for its unique GI-tagged **Black Clay Pottery**.
+15. **Gorakhpur** is renowned for its GI-tagged traditional terracotta horses, elephants, and clay artifacts.
+16. **Lalitpur** is the **only district in Uttar Pradesh** where traces of **Uranium** have been discovered.
+17. **Copper** mineralization in UP is concentrated in the **Sonrai area of Lalitpur district**.
+18. **Shankargarh (Prayagraj)** is the premier hub for high-grade **Silica Sand (Glass Sand)** extraction.
+19. **Kajrahat (Sonbhadra)** and **Bhalua (Mirzapur)** are major sources of high-grade **Limestone** for cement factories.
+20. **Noida International Airport (Jewar)** in Gautam Buddha Nagar is developed as a major greenfield international cargo and passenger hub.
+21. **Economy Scale**: Uttar Pradesh is the **third largest state economy in India** by nominal GSDP (after Maharashtra and Tamil Nadu / Gujarat), contributing ~8.5%–9.0% to India's national GDP.
+22. **The $1 Trillion Dollar Target**: The Government of Uttar Pradesh has formally set a strategic goal to scale the state's GSDP to **$1 Trillion USD**, anchoring development around:
+23. **Sectoral Contribution**:
+24. **Primary Sector (Agriculture & Allied)**: Contributes ~24%–26% of GSDP, employing nearly 45%–50% of the state's total workforce.
+25. **Secondary Sector (Manufacturing, Mining, Construction, Electricity)**: Contributes ~24%–26% of GSDP.
+26. **Tertiary Sector (Services, IT, Banking, Tourism, Real Estate)**: Contributes the largest share (~48%–50%) of GSDP.
+27. **Per Capita Income Dynamics**: Despite high aggregate GSDP, UP's per capita Net State Domestic Product (NSDP) remains below the national average due to the massive population base (~24 crore).
+28. **Pioneering Legacy**: India's first modern vacuum-pan sugar mill was established in **1903 at Pratappur in Deoria district** of Uttar Pradesh.
+29. **Production Dynamics**: UP is the **largest sugarcane-producing state in India** (~45%–50% of national production) and alternates with Maharashtra for the #1 spot in refined sugar output.
+30. **Ethanol Blending Programme**: UP is India's leading producer of **molasses-based fuel ethanol**, contributing massively to the National Biofuel Policy target of 20% ethanol blending in petrol.
+31. **Leather & Saddlery**:
+32. **Textiles & Handlooms**:
+33. **Glassware at Firozabad**:
+34. **Carpets at Bhadohi-Mirzapur**:
+35. **Coal**: Confined to the **Singrauli coalfields** in the southern part of **Sonbhadra district**.
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
-| :--- | :--- | :--- |
-| **Sugar Production Volume (UP)** | **Sugar Cane Yield & Recovery (Maharashtra)** | UP leads in **total cane output and acreage**; Maharashtra leads in **sugar recovery percentage and cooperative yield**. |
-| **ODOP Moonj Products** | **Sant Kabir Nagar Brassware** | Moonj products belong to **Amethi, Sultanpur, and Prayagraj**; Sant Kabir Nagar's ODOP is **Brassware (Bakhira)**. |
-| **Baghpat ODOP Product** | **Chitrakoot ODOP Product** | Baghpat ODOP is **Home Furnishings** (NOT wooden toys); Chitrakoot ODOP is **Wooden Toys**. |
-| **HINDALCO (Renukoot)** | **BHEL (Jhansi / Jagdishpur)** | HINDALCO is an **Aluminium smelter** in Sonbhadra; BHEL manufactures **Transformers & Power equipment** in Jhansi/Amethi. |
-| **Central Smart Cities List (10 Cities)** | **State Smart Cities List (7 Cities)** | Central 10 includes Saharanpur, Moradabad, Bareilly; **Ghaziabad, Meerut, Gorakhpur, Ayodhya** are on the State-funded list. |
-| **HRIDAY Scheme Cities in UP** | **PRASHAD Scheme Cities** | HRIDAY covered only **Varanasi and Mathura**; PRASHAD covers Varanasi, Mathura, Ayodhya, Naimisharanya, etc. |
-| **Purvanchal Expressway Route** | **Gorakhpur Link Expressway** | Purvanchal Expressway runs **Lucknow to Ghazipur via Mau** (NOT Basti/Gorakhpur); Gorakhpur is connected via a separate 91 km Link Expressway. |
-| **Harduaganj Thermal Plant** | **Narora Power Plant** | Harduaganj (Aligarh) is UP's **oldest thermal power plant (1942)**; Narora (Bulandshahr) is UP's **only nuclear power plant (1991)**. |
-| **Silica Sand (Shankargarh)** | **Pottery Clay (Khurja / Chinhat)** | Silica sand is mined at **Shankargarh (Prayagraj)** for glass/ceramics; China clay is imported for **Khurja/Chinhat pottery**. |
-| **Diaspore & Pyrophyllite (Jhansi/Mahoba)** | **Bauxite Ore (Banda/Chitrakoot)** | Diaspore/Pyrophyllite is used for **refractories** in Bundelkhand; Bauxite is **aluminium ore** found in Banda/Chitrakoot. |
-| **Noida Authority (YEIDA/GNIDA)** | **Municipal Corporation (Nagar Nigam)** | Industrial Authorities are **Statutory Industrial Townships** under Art. 243Q proviso, NOT elected Nagar Nigams. |
-| **Khurja (Bulandshahr)** | **Nizamabad (Azamgarh)** | Khurja produces **Glazed White Ceramic Pottery**; Nizamabad produces **Black Clay Terracotta Pottery with silver inlay**. |
 
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 
 
 ---
@@ -245,7 +215,7 @@ D. Silk sarees
 
 Which of the following is correct regarding this topic?
 
-A. Uttar Pradesh is the 3rd largest state economy in India by nominal Gross State Domestic Product (GSDP).
+A. Muzaffarnagar hosts the largest jaggery (Gud) market in Asia.
 B. Both statements are true and explain the phenomenon
 C. None of the above statements are correct according to official Commission keys.
 D. It was established during the First Five-Year Plan period
@@ -256,7 +226,7 @@ D. It was established during the First Five-Year Plan period
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Uttar Pradesh is the **3rd largest state economy** in India by nominal Gross State Domestic Product (GSDP).
+- **Key Exam Association:** **Muzaffarnagar** hosts the largest jaggery (*Gud*) market in Asia.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -264,8 +234,8 @@ D. It was established during the First Five-Year Plan period
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
-B. The Government of UP has set a formal strategic target to achieve a $1 Trillion Economy.
+A. Contrary to standard doctrine, Kanpur applies only to union territories and not state jurisdictions.
+B. Kanpur was historically renowned as the "Manchester of the East" and the "Leather City of the World".
 C. None of the above statements are correct according to official Commission keys.
 D. Recognized by UNESCO under World Heritage natural criteria
 
@@ -275,7 +245,7 @@ D. Recognized by UNESCO under World Heritage natural criteria
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The Government of UP has set a formal strategic target to achieve a **$1 Trillion Economy**.
+- **Key Exam Association:** **Kanpur** was historically renowned as the **"Manchester of the East"** and the **"Leather City of the World"**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -283,9 +253,9 @@ D. Recognized by UNESCO under World Heritage natural criteria
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Agra applies only to union territories and not state jurisdictions.
 B. Recognized by UNESCO under World Heritage natural criteria
-C. The Tertiary (Services) sector is the largest contributor to UP's GSDP, accounting for nearly 48%–50%.
+C. Agra accounts for approximately 28% of total Indian footwear exports.
 D. Enacted under Article 356 of the Constitution of India
 
 <details>
@@ -294,7 +264,7 @@ D. Enacted under Article 356 of the Constitution of India
 **Correct Answer:** **C**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Tertiary (Services) sector** is the largest contributor to UP's GSDP, accounting for nearly **48%–50%**.
+- **Key Exam Association:** **Agra** accounts for approximately **28% of total Indian footwear exports**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -302,10 +272,10 @@ D. Enacted under Article 356 of the Constitution of India
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, The applies only to union territories and not state jurisdictions.
+A. Contrary to standard doctrine, Moradabad applies only to union territories and not state jurisdictions.
 B. Enacted under Article 356 of the Constitution of India
 C. None of the above statements are correct according to official Commission keys.
-D. The Primary (Agriculture) sector employs roughly 45%–50% of Uttar Pradesh's working population.
+D. Moradabad is known as "Peetal Nagari" (Brass City), accounting for over 40% of India's metal handicraft exports.
 
 <details>
 <summary>Show answer</summary>
@@ -313,7 +283,7 @@ D. The Primary (Agriculture) sector employs roughly 45%–50% of Uttar Pradesh's
 **Correct Answer:** **D**
 
 **Detailed Explanation:**
-- **Key Exam Association:** The **Primary (Agriculture) sector** employs roughly **45%–50%** of Uttar Pradesh's working population.
+- **Key Exam Association:** **Moradabad** is known as **"Peetal Nagari" (Brass City)**, accounting for over 40% of India's metal handicraft exports.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -321,7 +291,7 @@ D. The Primary (Agriculture) sector employs roughly 45%–50% of Uttar Pradesh's
 
 Which of the following is correct regarding this topic?
 
-A. India's first modern sugar mill was established in 1903 at Pratappur in Deoria district.
+A. Firozabad is famous as "Suhag Nagari" and holds a virtual monopoly in glass bangles manufacturing.
 B. Reported by the Law Commission in its 214th consultation paper
 C. None of the above statements are correct according to official Commission keys.
 D. Amended by the 44th Constitutional Amendment Act
@@ -332,7 +302,7 @@ D. Amended by the 44th Constitutional Amendment Act
 **Correct Answer:** **A**
 
 **Detailed Explanation:**
-- **Key Exam Association:** India's first modern sugar mill was established in **1903 at Pratappur in Deoria district**.
+- **Key Exam Association:** **Firozabad** is famous as **"Suhag Nagari"** and holds a virtual monopoly in glass bangles manufacturing.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
 
@@ -340,8 +310,8 @@ D. Amended by the 44th Constitutional Amendment Act
 
 Which of the following is correct regarding this topic?
 
-A. Contrary to standard doctrine, Uttar applies only to union territories and not state jurisdictions.
-B. Uttar Pradesh is the largest producer of sugarcane in India.
+A. Contrary to standard doctrine, Aligarh applies only to union territories and not state jurisdictions.
+B. Aligarh is internationally famous as the "City of Locks" (Taala Nagari).
 C. None of the above statements are correct according to official Commission keys.
 D. Excavated primarily in the Belan and Son River valleys
 
@@ -351,6 +321,6 @@ D. Excavated primarily in the Belan and Son River valleys
 **Correct Answer:** **B**
 
 **Detailed Explanation:**
-- **Key Exam Association:** Uttar Pradesh is the **largest producer of sugarcane** in India.
+- **Key Exam Association:** **Aligarh** is internationally famous as the **"City of Locks" (Taala Nagari)**.
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>

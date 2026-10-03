@@ -46,7 +46,8 @@ D. South Africa
 ---
 
 
-## Consolidated — 26 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 26 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Coalfield–country pairs: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk / Donbass** = Ukraine. **Karaganda** = Kazakhstan coal city.
 2. **Mount Newman / Pilbara / Hamersley** = **iron** in Australia. **Krivoy Rog** = Ukraine iron. **Lorraine** = France. **Kiruna** = Sweden. **Mesabi** = USA. Germany–Normandy iron is **wrong** — **Normandy** is in **France**.
@@ -69,8 +70,10 @@ D. South Africa
 19. **German silver** contains **no silver**. **Peace Pipeline** = Iran–Pakistan. Sheet **mica** classic = **India**. Platinum = Bushveld / Norilsk.
 20. Energy classification check: coal / oil / gas = conventional non-renewable; wind / biomass / hydro = renewable solar-linked; nuclear and geothermal stand apart from “stored solar” wording.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -112,7 +115,7 @@ D. South Africa
 | Carajás vs Newman | Both **iron**; Carajás = Brazil, Newman = Australia | Swap countries | काराजास |
 | Producer vs exporter (coal/iron) | China often huge **volume**; Australia/Indonesia **ship** | China = export king | |
 
----
+</details>
 
 ## Must-score facts — coalfields, ores, energy types
 

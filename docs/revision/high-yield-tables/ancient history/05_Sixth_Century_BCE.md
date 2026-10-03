@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 5 — Sixth Century BCE</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -37,11 +35,7 @@ hide:
 | Buddha-age ganas | Yaudheya | Shakya / Licchavi / Malla list vs later plains **gana** (not “earlier republic” stem) | गण / यौधेय |
 | Avantika | Taxila | Ancient name / pole of **Ujjain** vs **Gandhara** university town | अवन्तिका / तक्षशिला |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 | No. | Mahajanapada (महाजनपद) | Capital(s) (राजधानी) | Modern Region (वर्तमान क्षेत्र) | Polity Type / Contemporary Ruler | High-Yield Exam Note |
 |:---:|:----------------------|:---------------------|:--------------------------------|:---------------------------------|:---------------------|
@@ -213,18 +207,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** The sixth–fourth centuries BCE bring iron, NBPW, punch-marked silver (Aahat), and the second urbanisation. This is still before the Mauryan empire.
-- **Exam Anchor:** Sources for the sixteen mahajanapadas include the Buddhist Anguttara Nikaya and the Jain Bhagavati Sutra (different name-set). Panini’s Ashtadhyayi names about 22 janapadas and stresses Magadha, Asmaka, and Kamboja.
-- **Exam Anchor:** The four great monarchies were Magadha, Kosala, Vatsa, and Avanti. Republics (gana-sangha (गण-संघ)) include Vajji and Malla. Papers often call the Licchavis of Vaishali the world’s first republic.
+- **Exam Anchor:** 8 in Modern Uttar Pradesh: Kashi, Kosala, Vatsa, Malla, Surasena, Panchala, Kuru (partly), Chedi (partly).
+- **Exam Anchor:** 3 in Bihar: Magadha, Anga, Vajji.
+- **Exam Anchor:** 1 in Madhya Pradesh: Avanti (plus parts of Chedi).
+- **Exam Anchor:** 1 in Rajasthan: Matsya.
+- **Exam Anchor:** 1 in South India (Godavari basin): Ashmaka (Assaka).
+- **Exam Anchor:** 2 in Northwest / Beyond Indus: Gandhara, Kamboja.
+- **Exam Anchor:** Gana-Sanghas (Republics / Non-monarchical): Vajji (8 confederate clans) and Malla (two branches: Pava and Kushinara).
 - **Exam Anchor:** Vajji was a confederacy with capital Vaishali (वैशाली) (called Magadhham Puram in the Suttanipata). Malla held Kushinagar (कुशीनगर) and Pava. Asmaka was the only mahajanapada south of the Vindhyas.
-- **Exam Anchor:** Classic capital matches: Matsya–Viratnagar, Kuru–Indraprastha, Surasena–Mathura, Asmaka–Potana, Chedi–Suktimati / Sotthivati, Anga–Champa.
-- **Exam Anchor:** Early strongest was often Kashi (काशी). Anga was Magadha’s first major bite. Avanti survived until the Shishunaga conquest.
-- **Exam Anchor:** Eight mahajanapadas touch Uttar Pradesh (उत्तर प्रदेश): Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena, and Chedi.
-- **Exam Anchor:** Not UP: Magadha / Anga / Vajji are Bihar-centred, Avanti is Madhya Pradesh, and Matsya is Rajasthan.
-
-</details>
 
 ---
 

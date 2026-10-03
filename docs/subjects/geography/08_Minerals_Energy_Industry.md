@@ -56,7 +56,8 @@ D. Vadodara
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Most of India’s mineral wealth lies **east of the Mangalore–Kanpur (कानपुर) line**. The northern plains are almost empty of major ores. **Chota Nagpur** is the richest mineral belt and is often called India’s Ruhr. **Dharwar** rocks are the metallic storehouse; **Gondwana** holds nearly all coal.
 2. India is poor in many non-ferrous metals but rich in **bauxite**. Mica’s classic dielectric belt is **Koderma–Gaya (गया)–Hazaribagh** in Jharkhand.
@@ -93,9 +94,10 @@ D. Vadodara
 31. Power mix: thermal dominates generation share in the usual teaching line; hydro is strong in Himalayan / Western Ghat pockets; nuclear plants sit where cooling water and security allow (Tarapur, Kakrapar, Kudankulam, Kaiga, Rawatbhata, Kalpakkam, Narora).
 32. Industrial region tags: Chotanagpur = mineral-heavy heartland; Mumbai–Pune = cotton / engineering; Ahmedabad–Vadodara = textile / petrochem; Hugli = jute / engineering; Coimbatore = spinning.
 
----
+</details>
 
-## Confused Pairs
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -141,7 +143,7 @@ D. Vadodara
 | Lignite home | **Neyveli (TN)** (+ RJ / GJ) | Call Neyveli bituminous Gondwana | नेयवेली = लिग्नाइट |
 | Bituminous share | ~**80%** deposits; mostly **non-coking** | Call most Indian coal anthracite / coking | अधिकतर नॉन-कोकिंग |
 
----
+</details>
 
 ## Must-score facts — ore belts, mine–state, energy
 

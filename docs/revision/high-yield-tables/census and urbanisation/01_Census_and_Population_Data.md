@@ -11,9 +11,15 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Census and Urbanisation Topic 1 — Census and Population Data</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs
+
+| Year | Fact | Why it matters |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
+
+---
 
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
@@ -27,18 +33,6 @@ hide:
 | **Highest Density State**: **Bihar (1,106 / km²)** | **Highest Density UT**: **Delhi (11,320 / km²)** | **Trap**: In 2001, West Bengal was #1 state in density. In 2011, Bihar surpassed West Bengal to take 1st rank. |
 | **Lowest Decadal Growth State**: **Nagaland (-0.58%)** | **Second Lowest Decadal Growth State**: **Kerala (4.91%)** | **Trap**: Nagaland is the only state with negative growth (-0.58%). Kerala has the lowest *positive* growth among states. |
 | **Civil Registration System (CRS)**: Continuous legal registration of births/deaths | **Sample Registration System (SRS)**: Annual dual-record demographic sample survey | **Trap**: SRS provides official annual demographic estimates (IMR, TFR, CBR); CRS is administrative civil record registration. |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs
-
-| Year | Fact | Why it matters |
-|---|---|---|
-| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
 ---
 
@@ -202,18 +196,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Under the Constitution of India, the Census is a subject enumerated in Entry 69 of the Union List (List I) of the Seventh Schedule.
-- **Exam Anchor:** The Census Act, 1948 was piloted by Sardar Vallabhbhai Patel to provide permanent statutory authority for census operations.
-- **Exam Anchor:** Individual census information is strictly confidential and protected from judicial disclosure under Section 15 of the Census Act, 1948.
-- **Exam Anchor:** The Registrar General and Census Commissioner of India (RGCCI) operates under the Ministry of Home Affairs (MHA).
-- **Exam Anchor:** The first non-synchronous census in modern India was conducted in 1872 during the viceroyalty of Lord Mayo.
-- **Exam Anchor:** The first complete synchronous decennial census of India was conducted in 1881 under Lord Ripon.
 - **Exam Anchor:** W. C. Plowden was the first Census Commissioner of India during the 1881 Census.
-- **Exam Anchor:** The Year 1921 is known as the "Year of the Great Divide" in Indian demographic history because it recorded negative population growth (-0.31%).
-
-</details>
+- **Exam Anchor:** Census 2011 was the 15th National Census of India since 1872 and the 7th Census after Independence.
+- **Exam Anchor:** Kerala had the highest sex ratio among Indian States (1,084), while Haryana had the lowest (879).
+- **Exam Anchor:** Meghalaya recorded the highest decadal population growth rate among States (27.95%), followed by Arunachal Pradesh (26.03%).
+- **Exam Anchor:** Nagaland was the only Indian State to record a negative decadal growth rate (-0.58%) during 2001–2011.
+- **Exam Anchor:** Bihar has the highest population density among States (1,106 persons / sq km), followed by West Bengal (1,028).
+- **Exam Anchor:** Arunachal Pradesh has the lowest population density in India (17 persons / sq km).
+- **Exam Anchor:** Punjab has the highest proportion of Scheduled Castes (31.9%), while Uttar Pradesh has the largest absolute SC population.
 
 ---
 

@@ -11,9 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 13 — Desertification (मरुस्थलीकरण) & Land Degradation (भू-क्षरण)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
@@ -24,11 +22,7 @@ hide:
 | **UNCCD (1994)** | **UNFCCC (1992)** | Sole legally binding international treaty linking environment and development to sustainable land management, desertification, and drought in drylands vs framework convention dedicated to addressing anthropogenic climate change and greenhouse gases | मरुस्थलीकरण रोकथाम संधि (UNCCD) / जलवायु परिवर्तन संधि (UNFCCC) |
 | **Land Degradation Neutrality (LDN)** | **Net Zero Emissions** | Target under UN SDG 15.3 ensuring that the quantity and quality of land resources necessary to support ecosystem functions remain stable or increase by 2030 vs balancing greenhouse gas emissions with equivalent removals | भूमि क्षरण तटस्थता (LDN, SDG 15.3) / नेट जीरो उत्सर्जन |
 
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+---
 
 ### Concepts
 
@@ -117,18 +111,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Desertification is land degradation in arid, semi-arid, and dry sub-humid (ASDM) areas from climate variation plus human pressure.
-- **Exam Anchor:** Desertification is not only “desert expanding.” Any dryland losing productivity can count.
 - **Exam Anchor:** Land degradation is broader: decline in productive capacity on any land through erosion, salinization, waterlogging, mining, or pollution.
-- **Exam Anchor:** India has about 96.4 million ha degraded land — roughly 29–30% (ISRO Atlas 2016 class figure).
 - **Exam Anchor:** Normal geological erosion is slow and roughly balanced by soil formation. Accelerated erosion is human-driven and faster than formation — the focus.
-- **Exam Anchor:** Water-erosion sequence: sheet → rill → gully → ravine. Chambal (चंबल) badlands are the ravine end-member.
-- **Exam Anchor:** Wind erosion works by deflation (lifting) and abrasion (sandblasting).
-- **Exam Anchor:** Leading causes include overgrazing in drylands, deforestation, unsustainable farming, excessive irrigation (salinization/waterlogging), and mining.
-
-</details>
+- **Exam Anchor:** UNCCD was adopted (अंगीकृत) in 1994. Desertification and Drought Day is 17 June.
+- **Exam Anchor:** LDN (Land Degradation Neutrality) under SDG 15.3 targets no net loss of healthy land by 2030.
+- **Exam Anchor:** DPAP launched in 1973. DDP is 1977–78. IWMP is 2009. MGNREGA (2005) funds bunds and check dams.
+- **Exam Anchor:** Sonbhadra (सोनभद्र) is a UP mining-related land-degradation hotspot.
+- **Exam Anchor:** Desertification is land degradation in arid, semi-arid, and dry sub-humid (ASDM) areas caused by climate variation and human activities.
 
 ---
 

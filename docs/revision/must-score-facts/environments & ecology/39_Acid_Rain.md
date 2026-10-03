@@ -11,54 +11,41 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 39 — Acid Rain (अम्ल वर्षा)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-<details class="rev-toggle rev-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 🎯 Consolidated Must-Score Facts
 
 1. **Acid rain** means acidic deposition with **pH below 5.6**.
-2. Normal rain (सामान्य वर्षा) is already slightly acidic near **pH 5.6** because CO₂ forms weak carbonic acid. It is **not** pH 7.
-3. **Wet deposition** arrives with rain, snow, or fog. **Dry deposition** settles as acidic gases or particles without rain.
-4. The main strong acid pathway is **SO₂ → H₂SO₄**. **NOx → HNO₃** is the other major path.
-5. **CO₂ → H₂CO₃** sets the weak baseline. Carbon dioxide alone is **not** the main culprit of severe acid rain.
-6. On the pH scale, acidic is below **7**, basic is above **7**, and neutral is **7**.
-7. Reversed statements that call normal rain alkaline or acid rain alkaline are both false.
-8. Lake waters below about **pH 5** can kill fish. Acid soils release toxic **Al³⁺**.
-9. Acid deposition harms conifers and weathers marble and limestone. The Taj marble → **gypsum** story is the classic Indian fact.
-10. **Lichens** die in high SO₂ and act as pollution bio-indicators — they indicate pollution but do **not** thrive in polluted air.
-11. Prevention tools include **FGD**, catalytic converters, cleaner fuel norms such as **BS-VI**, and regional protocols.
-12. The **Gothenburg Protocol (1999)** under **CLRTAP (1979)** targets acidifying air pollutants. **Montreal** targets ozone ODS — different problem.
-13. The **Taj Trapezium Zone** covers about **10,400 km²** around the Taj Mahal (ताज महल), with Supreme Court-driven controls from **1996**.
-14. **Mathura (मथुरा) refinery** is a classic SO₂ source in the Taj Trapezium narrative.
-15. The **Singrauli** thermal belt and industrial NCR/Kanpur (कानपुर) airsheds are Indian acidifying-emission hotspots.
-16. SO₂ is denser than air and can travel long distances before deposition.
-17. Acid rain is a **secondary-pollutant** story built from primary SO₂ and NOx emissions.
-18. Coal power and some industries are major SO₂ sources. Vehicles and combustion add NOx.
-19. Liming lakes is an emergency response, not a substitute for cutting emissions at source.
-20. Do not blame acid rain mainly on CO₂ just because normal rain is weakly acidic.
-21. Dry deposition can damage materials even on rainless days.
-22. Acid mist and acid fog are wet forms even when they are not classic rainfall.
-23. Cultural-heritage damage and forest dieback are both valid effect facts alongside aquatic harm.
-24. India’s focus pairs chemistry (SO₂/NOx) with Taj protection geography.
-25. Calling Montreal the acid-rain treaty is a standard distractor.
-26. FGD is flue-gas desulphurisation at power-plant chimneys — mitigation hardware, not a treaty name.
-27. Secondary pollutants H₂SO₄ and HNO₃ form in the atmosphere from primary SO₂ and NOx.
-28. Acid rain is **not** “rain only”; dry deposition counts too.
-
-</details>
+2. **Wet deposition** arrives with rain, snow, or fog. **Dry deposition** settles as acidic gases or particles without rain.
+3. **CO₂ → H₂CO₃** sets the weak baseline. Carbon dioxide alone is **not** the main culprit of severe acid rain.
+4. **Lichens** die in high SO₂ and act as pollution bio-indicators — they indicate pollution but do **not** thrive in polluted air.
+5. **Mathura (मथुरा) refinery** is a classic SO₂ source in the Taj Trapezium narrative.
+6. **Acid rain** means precipitation or atmospheric deposition with **pH below 5.6**, mainly from **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)** (नाइट्रिक अम्ल).
+7. **Normal unpolluted rain** is already slightly acidic (~**pH 5.6**) because **CO₂** forms weak **carbonic acid (H₂CO₃)** — it is **not** pH 7.
+8. **SO₂** from burning sulphur-rich **coal/oil** in thermal plants, refineries, smelters, brick kilns, and generators forms **H₂SO₄**.
+9. **NOx** from vehicles, power plants, and high-temperature combustion forms **HNO₃**.
+10. **CO₂** only sets the weak baseline (~5.6); it is **not** the main cause of damaging acid rain.
+11. **SO₂ is heavier than air** and can linger near ground-level sources.
+12. **Conifers** (pine, spruce) are especially sensitive to acid fog and soil change.
+13. **Lichens** die in high-SO₂ air and act as pollution bio-indicators (Topic 38 crossover).
+14. **Flue Gas Desulphurisation (FGD)** scrubbers use lime/limestone to cut SO₂ from power-plant stacks.
+15. **Taj Trapezium Zone (~10,400 km²)** — Supreme Court-driven controls (1996 onward) forced gas switch/relocation of polluting units around Agra.
 
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Normal Rain** | **Acid Rain** | Slightly acidic with pH ~5.6 due to dissolved atmospheric CO₂ forming weak carbonic acid (H₂CO₃) vs precipitation with pH < 5.6 caused by anthropogenic SO₂ and NOx | सामान्य वर्षा (pH 5.6) / अम्ल वर्षा (pH < 5.6) |
-| **Sulfuric Acid (H₂SO₄)** | **Nitric Acid (HNO₃)** | Contributes ~60–70% of total acid precipitation (emitted mainly by coal thermal power plants) vs contributes ~30–40% (emitted by automobile engines and fertilizers) | सल्फ्यूरिक अम्ल (60-70%) / नाइट्रिक अम्ल (30-40%) |
-| **Wet Acid Deposition** | **Dry Acid Deposition** | Acidic compounds deposited on Earth via rain, fog, sleet, or snow vs acidic gases, sulfate, and nitrate particles settling directly on soil and buildings without precipitation | आर्द्र निक्षेपण (वर्षा/कोहरा) / शुष्क निक्षेपण (धूल/गैस कण) |
-| **Marble Cancer** | **Eutrophication** | Yellowing and pitting of calcium carbonate monuments (Taj Mahal) reacting with sulfuric acid to form soluble gypsum vs excess nutrient loading in water bodies causing algal blooms | संगमरमर कैंसर (ताजमहल क्षरण) / सुपोषण (शैवाल प्रस्फुटन) |
-| **Gothenburg Protocol (1999)** | **Montreal Protocol (1987)** | UNECE protocol to abate acidification, eutrophication, and ground-level ozone (SO₂, NOx, VOCs, NH₃) vs UNEP protocol phasing out ozone-depleting chlorofluorocarbons | गोथेनबर्ग प्रोटोकॉल (अम्लीकरण) / मॉन्ट्रियल प्रोटोकॉल (ओजोन) |
 ---
 
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Trap | Correct |
+|------|------|
+| Normal rain pH = 7 | **~5.6** |
+| Acidic pH > 7 | **Acidic < 7** |
+| CO₂ = main severe acid rain gas | **Weak only**; SO₂/NOx drive strong acids |
+| Montreal = acid rain | **Ozone**; Gothenburg/CLRTAP for acidifying |
+| Acid rain = only liquid rain | Includes **dry deposition** |
+| SO₂ lighter than air | **Heavier** |
+| Taj damage from CO₂ alone | **SO₂ + acid → gypsum** |
+| Lichens love polluted SO₂ air | **Die / indicate pollution** |
+| FGD removes only NOx | Mainly **SO₂** |
+| Neutral rain = natural rain | Natural rain already **slightly acidic** |
 
 
 ---

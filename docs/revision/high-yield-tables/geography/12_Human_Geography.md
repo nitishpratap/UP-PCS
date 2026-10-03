@@ -11,9 +11,22 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 12 — Human Geography (Settlements)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📊 Master High-Yield Comparison Tables
 
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **25 Jun 2015** | Smart Cities Mission + PMAY-U same day | Year pair vs JNNURM 2005 | MoHUA |
+| **Jun 2015** | AMRUT (~500 cities) | 2025 chronology | MoHUA |
+| **1 Oct 2021** | **AMRUT 2.0** — water-secure towns | Successor of AMRUT | PIB / MoHUA |
+| **21 Feb 2016** | **SPMRM** launched (not “2015 launch”) | 2023 Q143 | MoRD |
+| **ISAC-2020** | Indore/Surat best cities; **UP best state**; category winners above | 2022 Q26 | PIB / MoHUA |
+| **100 / 10** | 100 Smart Cities nationally; **10 Central in UP** | 2018 + 2020 | MoHUA |
+| **2019** | UP **State** Smart Cities (7 Nagar Nigams) | Does **not** change 2018/2020 keys of 10 | UP DoUD |
+| Mission window | Smart Cities Mission timeline extended to **31 Mar 2025** | Completing works | MoHUA |
+
+---
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -41,25 +54,6 @@ hide:
 | Possibilism | Man chooses within nature (**Vidal de la Blache**) | Determinism | संभावनावाद |
 | Neo-determinism | Stop-and-go determinism (**Griffith Taylor**) | Pure free will | नव-नियतिवाद |
 | Site vs situation | Local ground vs wider regional location | Same thing | स्थल ≠ स्थिति |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **25 Jun 2015** | Smart Cities Mission + PMAY-U same day | Year pair vs JNNURM 2005 | MoHUA |
-| **Jun 2015** | AMRUT (~500 cities) | 2025 chronology | MoHUA |
-| **1 Oct 2021** | **AMRUT 2.0** — water-secure towns | Successor of AMRUT | PIB / MoHUA |
-| **21 Feb 2016** | **SPMRM** launched (not “2015 launch”) | 2023 Q143 | MoRD |
-| **ISAC-2020** | Indore/Surat best cities; **UP best state**; category winners above | 2022 Q26 | PIB / MoHUA |
-| **100 / 10** | 100 Smart Cities nationally; **10 Central in UP** | 2018 + 2020 | MoHUA |
-| **2019** | UP **State** Smart Cities (7 Nagar Nigams) | Does **not** change 2018/2020 keys of 10 | UP DoUD |
-| Mission window | Smart Cities Mission timeline extended to **31 Mar 2025** | Completing works | MoHUA |
 
 ---
 
@@ -303,18 +297,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** Human geography studies the man–environment (पर्यावरण) relationship and the spatial patterns of human life, settlements and economy.
 - **Exam Anchor:** Environmental determinism (Ratzel / Semple) says nature controls culture. Possibilism (Vidal de la Blache) says humans choose among nature’s options. Neo-determinism (Griffith Taylor) is stop-and-go determinism.
 - **Exam Anchor:** Site is the local ground of a settlement. Situation is its wider regional location relative (सापेक्ष) to routes, resources and other places.
-- **Exam Anchor:** A census town needs population ≥5,000, density ≥400/km², and ≥75% of male main workers in non-agriculture. It need not be a municipality.
-- **Exam Anchor:** Rural settlements lean on primary activities and lower density. Urban places are statutory towns or census towns.
-- **Exam Anchor:** Village types are clustered / nucleated, semi-clustered, hamleted and dispersed. Clustered villages appear on plains, around Rajasthan water points, and for defence in Bundelkhand / Nagaland — do not call the Thar (थार) “dispersed by default.”
-- **Exam Anchor:** Dispersed villages typify Meghalaya (मेघालय), Uttarakhand (उत्तराखंड), Himachal (हिमाचल) Pradesh, Kerala and many North-East forest–hill tracts. Hamlet local names include panna, para, palli, nagla and dhani.
-- **Exam Anchor:** Semi-clustered villages often show a dominant-caste centre with lower strata on the flanks (Gujarat / Rajasthan pair). Linear villages follow a road, river, canal or coast.
-
-</details>
+- **Exam Anchor:** HRIDAY covers 12 heritage cities. In Uttar Pradesh the pair is Varanasi and Mathura — not Prayagraj or Ayodhya.
+- **Exam Anchor:** SPMRM (Rurban) was launched on 21 February 2016 (Cabinet approval 2015). Matching the scheme to 2015 is the classic trap. It is under MoRD, not MoHUA.
+- **Exam Anchor:** Rurbanization is linked to sociologist G.S. Ghurye. McLuhan’s Global Village rests on transport plus communication.
+- **Exam Anchor:** Bhopal is the classic “not on a major river bank” city trap against Agra, Patna (पटना) or Kolkata.
+- **Exam Anchor:** Site is the immediate ground (water, slope, soil, flood-free height).
+- **Exam Anchor:** Situation is the place in the wider region (routes, markets, other towns).
 
 ---
 

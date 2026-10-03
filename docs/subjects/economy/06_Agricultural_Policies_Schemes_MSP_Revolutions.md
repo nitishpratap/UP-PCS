@@ -34,7 +34,8 @@ Structural agrarian data and land holdings sit in [Economy Topic 5](05_Agricultu
 
 ---
 
-## Consolidated — 50 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. The **Green Revolution** (from about **1966–69**) brought semi-dwarf High Yielding Variety (HYV) wheat developed by **Dr. Norman Borlaug** at CIMMYT, Mexico.
 2. In India the Green Revolution was pioneered by **Dr. M.S. Swaminathan** with Union Agriculture Minister **C. Subramaniam**.
@@ -87,8 +88,10 @@ Structural agrarian data and land holdings sit in [Economy Topic 5](05_Agricultu
 49. Buffer stock norms fix minimum FCI inventories at the start of each quarter (**1 Jan, 1 Apr, 1 Jul, 1 Oct**).
 50. FCI mainly procures **wheat and rice**; pulses and oilseeds under Price Support Scheme are largely handled by **NAFED / NCCF**.
 
----
-## Confused Pairs
+</details>
+
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | A | B | Correct distinction |
 |---|----|---------------------|
@@ -111,7 +114,7 @@ Structural agrarian data and land holdings sit in [Economy Topic 5](05_Agricultu
 | e-NAM | APMC abolition | e-NAM **networks** mandis digitally; it does not abolish physical APMCs. |
 | Palm oil support | CACP MSP oilseeds | Palm uses **Viability Price** (NMEO-OP), not the 22-crop MSP list. |
 
----
+</details>
 
 ## Must-score facts — Revolutions matrix & 22 MSP crops
 

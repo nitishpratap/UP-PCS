@@ -25,7 +25,8 @@
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Ancient ethnic wave order in Uttarakhand: **Kol (Munda) → Kirat (Kinnar) → Khas → Shakas / Kushanas**.
 2. **Kol** are the earliest inhabitants in Dabral’s scheme — Munda affinity, totemism, snake / linga worship.
@@ -50,7 +51,7 @@
 21. National tribe lists are not UK substitutes — UKPCS asks the local wave order and the 1967 five.
 22. Pair this chapter with prehistoric rock art and Kuninda coins; do not merge Khas customary law into Katyuri admin titles.
 
----
+</details>
 
 ## Ancient Ethnic Strata of Uttarakhand
 
@@ -103,7 +104,8 @@ Shaka / Kushana (Sun worship: Katarmal, Surya temples)
 
 ---
 
-## Confused Pairs & Common Traps
+<details class="st-chapter-toggle st-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs & Common Traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Confused Pair | Critical Distinction |
 | :--- | :--- |
@@ -113,7 +115,7 @@ Shaka / Kushana (Sun worship: Katarmal, Surya temples)
 | **Raji vs Tharu Population** | Tharu is the **most numerous** ST (~33%); Raji is the **least numerous** ST (< 1%). |
 | **Bissu vs Baisakhi** | Bissu is the **Jaunsari festival** celebrated on Baisakhi featuring traditional archery (*Thoda*) dance. |
 
----
+</details>
 
 ## UKPCS Inline & Practice Questions
 

@@ -11,31 +11,7 @@ hide:
   <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 13 — Statutory & Non-Constitutional Bodies</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-
-<details class="rev-toggle rev-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **Lokpal** | **Lokayukta** | Union, 2013 Act | State Act (UP **1975**) |
-| **CVC** | **CBI** | Statutory watchdog; **no** police power of its own | Investigating agency (DPSE); CVC **supervises** PCA cases |
-| **CIC** | **NHRC** | RTI appeals | Human-rights complaints; **not** RTI |
-| **NHRC** | **NCSC** | **Statutory** (1993) | **Constitutional** (338) |
-| **NGT** | **CAT** | Environment, 2010 Act | Service matters, **323A / 1985** |
-| **RBI** | **SEBI** | Monetary / currency / banking | Capital market |
-| **Search Committee** | **Selection Committee** | Shortlists Lokpal names | Recommends to President (2024 panel) |
-| **SAT (State AT)** | **SAT (securities)** | State service tribunal | SEBI appeals |
-| **NITI** | **FC** | Executive think-tank (2015) | Constitutional **280** |
-| **NITI** | **Planning Commission** | Advisory; no Plan-fund allocation | Extra-constitutional **1950**; allocated Plan funds |
-| **CBI** | **NIA** | DSPE 1946 + 1963 resolution; **State consent** | **Statutory 2008**; **no** consent for scheduled offences |
-| **IB** | **RAW** | Internal; **1887**; MHA | External; **1968**; Cabinet Secretariat |
-| **ED** | **CBI** | FEMA / PMLA; Finance (Revenue) | General crime / PCA; DoPT |
-
-</details>
-
-
-<details class="rev-toggle rev-toggle-tables" markdown="1">
-<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+## 📊 Master High-Yield Comparison Tables
 
 ## Current Affairs
 
@@ -54,6 +30,24 @@ hide:
 | 2018 | Aspirational Districts | NITI; UP **8** (2021) |
 | 2019 | NIA Amendment | Schedule / extra-territorial |
 | 2025 | BHARATPOL | **CBI**, not IB/RAW/ED |
+
+---
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
+| **Lokpal** | **Lokayukta** | Union, 2013 Act | State Act (UP **1975**) |
+| **CVC** | **CBI** | Statutory watchdog; **no** police power of its own | Investigating agency (DPSE); CVC **supervises** PCA cases |
+| **CIC** | **NHRC** | RTI appeals | Human-rights complaints; **not** RTI |
+| **NHRC** | **NCSC** | **Statutory** (1993) | **Constitutional** (338) |
+| **NGT** | **CAT** | Environment, 2010 Act | Service matters, **323A / 1985** |
+| **RBI** | **SEBI** | Monetary / currency / banking | Capital market |
+| **Search Committee** | **Selection Committee** | Shortlists Lokpal names | Recommends to President (2024 panel) |
+| **SAT (State AT)** | **SAT (securities)** | State service tribunal | SEBI appeals |
+| **NITI** | **FC** | Executive think-tank (2015) | Constitutional **280** |
+| **NITI** | **Planning Commission** | Advisory; no Plan-fund allocation | Extra-constitutional **1950**; allocated Plan funds |
+| **CBI** | **NIA** | DSPE 1946 + 1963 resolution; **State consent** | **Statutory 2008**; **no** consent for scheduled offences |
+| **IB** | **RAW** | Internal; **1887**; MHA | External; **1968**; Cabinet Secretariat |
+| **ED** | **CBI** | FEMA / PMLA; Finance (Revenue) | General crime / PCA; DoPT |
 
 ---
 
@@ -191,18 +185,16 @@ hide:
 
 ---
 
-### 🔍 Key Table Observations &amp; Memory Anchors
+## 🔍 Key Table Observations & Memory Anchors
 
-- **Exam Anchor:** A statutory body is created by an Act of Parliament or a State legislature. It is not created by the Constitution (CAT is the special case that rides on Article 323A).
-- **Exam Anchor:** The Lokpal and Lokayuktas Act, 2013 creates a Chairperson and up to eight members, with half judicial and half from SC/ST/OBC (अन्य पिछड़ा वर्ग)/minorities/women. Term is five years or age 70. Removal is like a Supreme Court judge.
-- **Exam Anchor:** Lokpal’s Selection Committee is the Prime Minister, Lok Sabha (लोकसभा) Speaker, Leader of Opposition in the Lok Sabha, the CJI or nominee, and an eminent jurist. The Chairman of the Rajya Sabha is not on that panel. Search Committee and Selection Committee are different bodies.
-- **Exam Anchor:** The first Lokpal was Justice P.C. Ghose (2019). Complaints ordinarily cover acts within about seven years and follow a prescribed form. Lokayukta (लोकायुक्त) is a State Act office; Maharashtra (1971) was first; Uttar Pradesh (उत्तर प्रदेश) has a 1975 Act with an Up-Lokayukta.
-- **Exam Anchor:** The Central Vigilance Commission began from the Santhanam idea (1962), became executive in 1964, and gained statutory status under the CVC Act, 2003 after Vineet Narain. It has no constitutional article. Composition is Chairperson plus two Vigilance Commissioners.
-- **Exam Anchor:** CVC members are selected by the Prime Minister, Home Minister, and Leader of Opposition, for four (चातुर्याम) years or age 65. The CVC has superintendence over the CBI in Prevention of Corruption cases, but the CVC itself is not a police force. The CBI Director panel is PM + LoP (LS) + CJI, not the CVC.
-- **Exam Anchor:** The RTI Act, 2005 (in force 12 October 2005) creates the CIC and SICs. Normal reply time is 30 days (48 hours where life or liberty is at stake). PIO penalty can go up to ₹25,000. The 2019 amendment lets the Centre prescribe term and salary.
-- **Exam Anchor:** CIC selection involves the Prime Minister, Leader of Opposition, and a Union Cabinet Minister (कैबिनेट मंत्री). The RTI movement’s grassroots fact is often traced to MKSS. Section 8 lists exemptions; section 4 demands suo motu disclosure.
-
-</details>
+- **Exam Anchor:** NCPCR (2005) deals with children below 18 and works with State Commissions. The National Commission for Safai Karamcharis is statutory (1993 lineage; PEMSR 2013) and is not Article 338.
+- **Exam Anchor:** NDMA sits under the Disaster Management Act, 2005. The Prime Minister chairs NDMA; the Chief Minister chairs SDMA; the District Magistrate chairs DDMA. The National Executive Committee is headed by the Cabinet Secretary.
+- **Exam Anchor:** SEBI began as an executive body in 1988 and became statutory under the SEBI Act, 1992. Headquarters is in Mumbai. Appeals go to the Securities Appellate Tribunal.
+- **Exam Anchor:** CAT was created by the Administrative Tribunals Act, 1985, with Principal Bench at Delhi, under Article 323A. High Court writ power under 226 survives after L. Chandra Kumar (एल चंद्र). Armed forces use the Armed Forces Tribunal (2007), not CAT.
+- **Exam Anchor:** NITI Aayog (नीति आयोग) began by Cabinet Resolution on 1 January 2015. It is neither constitutional nor statutory. The Prime Minister is Chair; the first Vice-Chair was Arvind Panagariya. It is a think-tank and does not replace the Finance Commission (वित्त आयोग).
+- **Exam Anchor:** Zonal Councils are statutory under the States Reorganisation Act, 1956 (five zones). The Union Home Minister is the common chair. Uttar Pradesh sits in the Central Zonal Council (HQ Prayagraj). The North Eastern Council is a separate 1971 Act body — not a sixth Zonal Council.
+- **Exam Anchor:** At least 50% of the members must be judicial members.
+- **Exam Anchor:** At least 50% of the members must be from SC, ST, OBC, minorities, or women.
 
 ---
 
