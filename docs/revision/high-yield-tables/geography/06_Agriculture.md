@@ -882,3 +882,278 @@ D. 1–3–2
 **Logic:** Wells+tubewells together ~64%.
 
 </details>
+
+**Q16.** With reference to sugarcane pricing in India, consider the following statements:
+
+1. Fair and Remunerative Price (FRP) of sugarcane is approved by the Cabinet Committee on Economic Affairs (CCEA) on the recommendations of CACP.
+2. State Advised Price (SAP) is fixed by state governments like Uttar Pradesh and is generally higher than the FRP.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Both 1 and 2 are correct. Under the Sugarcane (Control) Order, 1966, the central FRP is recommended by CACP and approved by CCEA chaired by the Prime Minister. Major cane-producing states like Uttar Pradesh, Punjab, and Haryana announce their own State Advised Price (SAP), which sugar mills are required to pay farmers, and which is usually set above the FRP.
+</details>
+
+**Q17.** Match List-I (Indigenous Livestock Breed) with List-II (Species & Native Tract) and select the correct answer:
+
+| List-I (Breed) | List-II (Trait / Tract) |
+|---|---|
+| A. Murrah | 1. Indigenous Dairy Cattle — Kathiawar (Gujarat) |
+| B. Gir | 2. Premier Dairy Buffalo — Rohtak/Hisar (Haryana) |
+| C. Sahiwal | 3. High-milk Heavy Buffalo — Gir Forests (Gujarat) |
+| D. Jaffarabadi | 4. Indigenous Dairy Cattle — Montgomery (Punjab/Pakistan) |
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-3, D-4
+
+C. A-3, B-4, C-1, D-2
+
+D. A-2, B-4, C-1, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Murrah is Haryana's world-famous water buffalo known for curled horns and high milk yield (2); Gir is Gujarat's premier zebu dairy cattle breed (1); Sahiwal is Punjab's best dairy cow breed with high milk production (4); Jaffarabadi is the heavy riverine buffalo from the Gir forest region of Gujarat (3).
+</details>
+
+**Q18.** According to the Agricultural Census of India, an operational land holding of size 0.5 to 0.99 hectare is classified as:
+
+A. Small holding
+
+B. Marginal holding
+
+C. Semi-medium holding
+
+D. Sub-marginal holding
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Marginal holding. The official classification of operational holdings in India is: Marginal = Below 1.0 ha (accounts for ~68% of all holdings); Small = 1.0 to 2.0 ha (~18%); Semi-medium = 2.0 to 4.0 ha; Medium = 4.0 to 10.0 ha; Large = 10.0 ha and above. Small and marginal holdings combined constitute over 86% of total operational holdings in India.
+</details>
+
+**Q19.** Into how many Agro-Climatic Zones (ACZs) has the state of Uttar Pradesh been divided for agricultural planning?
+
+A. 7
+
+B. 8
+
+C. 9
+
+D. 12
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — 9 zones. Uttar Pradesh is divided into 9 Agro-Climatic Zones based on rainfall, soil type, and topography: (1) Bhabhar & Tarai Zone, (2) Western Plain Zone, (3) Mid-Western Plain Zone, (4) South-Western Semi-Arid Zone, (5) Central Plain Zone, (6) Bundelkhand Zone, (7) North-Eastern Plain Zone, (8) Eastern Plain Zone, and (9) Vindhyan Zone.
+</details>
+
+**Q20.** With reference to the calculation of Minimum Support Price (MSP), consider the following statements:
+
+1. A2 cost includes all paid-out expenses directly incurred by the farmer on seeds, fertilizers, pesticides, hired labour, and fuel.
+2. The National Commission on Farmers headed by Dr. M.S. Swaminathan recommended that MSP should be at least 50% above the Comprehensive Cost (C2).
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Both 1 and 2 are correct. A2 covers all direct paid-out expenses. A2+FL adds the imputed value of unpaid family labour. C2 is the comprehensive cost which includes rent of leased land, interest on owned capital assets, plus A2+FL. Dr. M.S. Swaminathan's National Commission on Farmers (2006) recommended MSP to be C2 + 50%, while the Central Government currently fixes MSP at 1.5 times the A2+FL cost.
+</details>
+
+**Q21.** Match List-I (Plant Disease / Disorder) with List-II (Associated Crop) and select the correct code:
+
+| List-I (Disease) | List-II (Crop) |
+|---|---|
+| A. Khaira disease | 1. Groundnut |
+| B. Tikka disease | 2. Sugarcane |
+| C. Loose Smut | 3. Rice |
+| D. Red Rot | 4. Wheat |
+
+A. A-3, B-1, C-4, D-2
+
+B. A-1, B-3, C-2, D-4
+
+C. A-3, B-2, C-4, D-1
+
+D. A-4, B-1, C-3, D-2
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Khaira disease of Rice is caused by Zinc (Zn) deficiency (discovered by Dr. Y.L. Nene at Pantnagar) (3); Tikka disease of Groundnut is caused by Cercospora fungus (1); Loose Smut of Wheat is caused by Ustilago nuda tritici (4); Red Rot is the most devastating fungal disease of Sugarcane caused by Colletotrichum falcatum (2).
+</details>
+
+**Q22.** Which of the following genes is recognized globally as the primary dwarfing gene responsible for the Green Revolution in Wheat?
+
+A. Dee-geo-woo-gen
+
+B. Norin-10
+
+C. Cry1Ac
+
+D. Opaque-2
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Norin-10. Norin-10 is the dwarfing gene derived from a Japanese wheat variety by Dr. Cecil Salmon, which Dr. Norman Borlaug incorporated at CIMMYT in Mexico to breed high-yielding semi-dwarf wheat lines (e.g. Sonora-64, Lerma Rojo). Dee-geo-woo-gen is the semi-dwarfing gene of Rice used to create IR-8 at IRRI.
+</details>
+
+**Q23.** Match List-I (National Research Institute) with List-II (Headquarters / City) and select the correct answer:
+
+| List-I (Institute) | List-II (Location) |
+|---|---|
+| A. Indian Institute of Vegetable Research (IIVR) | 1. Jhansi |
+| B. Indian Institute of Sugarcane Research (IISR) | 2. Varanasi |
+| C. Indian Grassland and Fodder Research Institute (IGFRI) | 3. Shimla |
+| D. Central Potato Research Institute (CPRI) | 4. Lucknow |
+
+A. A-2, B-4, C-1, D-3
+
+B. A-4, B-2, C-1, D-3
+
+C. A-2, B-1, C-4, D-3
+
+D. A-1, B-4, C-2, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — IIVR is situated at Varanasi, UP (2); IISR is situated at Dilkusha, Lucknow, UP (4); IGFRI is situated at Jhansi, Bundelkhand, UP (1); CPRI is located at Kufri / Shimla, Himachal Pradesh (3).
+</details>
+
+**Q24.** Consider the following statements regarding silk production in India:
+
+1. India is the only country in the world producing all four commercial varieties of silk: Mulberry, Tasar, Eri, and Muga.
+2. Assam holds a global monopoly in the production of the GI-tagged golden Muga silk.
+3. Mulberry silk accounts for the majority of total silk produced in India, with Karnataka as the leading producer.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — All 1, 2 and 3 are correct. India uniquely produces Mulberry, Tropical/Temperate Tasar, Eri, and Muga silk. Assam produces ~99% of Golden Muga silk (GI protected). Mulberry silk makes up ~70% of Indian raw silk, with Karnataka as the top producer followed by Andhra Pradesh.
+</details>
+
+**Q25.** Under the Soil Health Card (SHC) scheme launched by the Government of India, how many total nutrient and soil quality parameters are analyzed and reported to farmers?
+
+A. 8 parameters
+
+B. 10 parameters
+
+C. 12 parameters
+
+D. 16 parameters
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — 12 parameters. The Soil Health Card assesses 12 key parameters: (1–3) Macro-nutrients: Nitrogen (N), Phosphorus (P), Potassium (K); (4) Secondary nutrient: Sulphur (S); (5–9) Micro-nutrients: Zinc (Zn), Iron (Fe), Copper (Cu), Manganese (Mn), Boron (Bo); (10–12) Physical/Chemical indices: pH, Electrical Conductivity (EC), Organic Carbon (OC). Launched on 19 Feb 2015 with the motto 'Swasth Dhara, Khet Hara'.
+</details>
+
+**Q26.** What is considered the ideal national N:P:K (Nitrogen : Phosphorus : Potassium) fertilizer consumption ratio for sustainable crop production in India?
+
+A. 2 : 1 : 1
+
+B. 4 : 2 : 1
+
+C. 6 : 3 : 2
+
+D. 8 : 4 : 1
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — 4 : 2 : 1. The scientifically recommended benchmark N:P:K ratio for Indian soils is 4:2:1. However, due to heavy subsidies on Urea (Nitrogen) relative to DAP and MOP, actual consumption in intensive agricultural zones (like Punjab, Haryana, and Western UP) has distorted to as high as 8:3:1 or even 12:4:1, causing soil acidification and groundwater nitrate toxicity.
+</details>
+
+**Q27.** Match List-I (Local Name of Shifting Cultivation) with List-II (State / Region in India):
+
+| List-I (Local Term) | List-II (State / Region) |
+|---|---|
+| A. Podu / Penda | 1. Western Ghats |
+| B. Kumari | 2. Andhra Pradesh |
+| C. Waltre / Walra | 3. Madhya Pradesh / Bastar |
+| D. Dahiya / Bewar | 4. South-Eastern Rajasthan |
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-4, C-1, D-3
+
+D. A-3, B-1, C-4, D-2
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Podu / Penda is shifting cultivation practiced in Andhra Pradesh (2); Kumari is practiced in the hilly tracts of Western Ghats (1); Waltre / Walra is practiced in South-Eastern Rajasthan (4); Dahiya / Bewar is practiced in Madhya Pradesh and Chhattisgarh / Bastar (3).
+</details>
+
+**Q28.** Under the Pradhan Mantri Fasal Bima Yojana (PMFBY), what is the uniform maximum insurance premium payable by farmers for Rabi foodgrain and oilseed crops?
+
+A. 1.0%
+
+B. 1.5%
+
+C. 2.0%
+
+D. 5.0%
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — 1.5%. Under PMFBY, the actuarial premium is subsidized heavily by Central and State Governments. The fixed premium rate payable by farmers is: 2.0% for all Kharif foodgrain and oilseeds; 1.5% for all Rabi foodgrain and oilseeds; and 5.0% for Annual Commercial and Horticultural crops.
+</details>
+
+**Q29.** In the cultivation of wheat, which growth stage is regarded as the single most critical stage for irrigation, where water stress leads to the heaviest yield penalty?
+
+A. Crown Root Initiation (CRI) stage
+
+B. Tillering stage
+
+C. Flowering / Anthesis stage
+
+D. Dough / Grain filling stage
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Crown Root Initiation (CRI) stage. Crown roots emerge about 20 to 25 days after sowing (DAS). If moisture is deficient during CRI, root system development and tiller formation are permanently stunted, reducing wheat yield by up to 30–40%. If a farmer has water for only one irrigation, it MUST be given at the CRI stage.
+</details>
+
+**Q30.** Consider the following statements regarding the production of commercial and horticultural crops in India:
+
+1. Uttar Pradesh is the highest producer of sugarcane, wheat, and potatoes in India.
+2. Jammu and Kashmir is the sole commercial producer of Saffron (Kesar) in India.
+3. Karnataka is the largest producer of coffee in India, accounting for over 70% of total national output.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — All 1, 2 and 3 are correct. UP leads nationally in sugarcane (~45%), wheat (~32%), and potato (~30%). Jammu & Kashmir (particularly the karewa plateau of Pampore, Pulwama) is the sole commercial grower of saffron in India. Karnataka produces over 70% of India's coffee (predominantly Arabica and Robusta in Kodagu, Chikkamagaluru, and Hassan), followed by Kerala and Tamil Nadu.
+</details>

@@ -322,17 +322,7 @@ function requireAdmin(req, res, next) {
 // Search disk for chapter markdown file and sync into MongoDB on-demand
 async function findAndSyncChapterFile(dbInstance, subject, targetTopic) {
   const subjectsDir = path.resolve(__dirname, '../docs/subjects');
-  if (!fs.existsSync(subjectsDir)) return null;
-
-  const normSubject = subject.toLowerCase().trim();
-  const subDirs = fs.readdirSync(subjectsDir).filter(d => {
-    const p = path.join(subjectsDir, d);
-    return fs.statSync(p).isDirectory() && d.toLowerCase().trim() === normSubject;
-  });
-
-  const subjectDirName = subDirs.length > 0 ? subDirs[0] : subject;
-  const targetDir = path.join(subjectsDir, subjectDirName);
-  if (!fs.existsSync(targetDir)) return null;
+  const revisionDir = path.resolve(__dirname, '../docs/revision');
 
   function cleanString(str) {
     return (str || '')
@@ -343,8 +333,10 @@ async function findAndSyncChapterFile(dbInstance, subject, targetTopic) {
   }
 
   const cleanTarget = cleanString(targetTopic);
+  const normSubject = (subject || '').toLowerCase().trim();
 
   function searchFile(dir) {
+    if (!fs.existsSync(dir)) return null;
     const entries = fs.readdirSync(dir);
     for (const entry of entries) {
       const full = path.join(dir, entry);
@@ -354,11 +346,11 @@ async function findAndSyncChapterFile(dbInstance, subject, targetTopic) {
       } else if (entry.endsWith('.md') && !entry.endsWith('index.md') && !entry.endsWith('prompt.md')) {
         const slug = entry.replace(/\.md$/, '');
         const cleanSlug = cleanString(slug);
-        const relPath = path.relative(targetDir, full).replace(/\\/g, '/').replace(/\.md$/, '');
+        const relPath = path.relative(dir, full).replace(/\\/g, '/').replace(/\.md$/, '');
         const cleanRel = cleanString(relPath);
 
         if (cleanSlug === cleanTarget || cleanRel === cleanTarget || (cleanTarget.length >= 4 && cleanSlug.includes(cleanTarget)) || (cleanSlug.length >= 4 && cleanTarget.includes(cleanSlug))) {
-          return { full, relSlug: relPath };
+          return { full, relSlug: slug };
         }
 
         try {
@@ -367,7 +359,7 @@ async function findAndSyncChapterFile(dbInstance, subject, targetTopic) {
           if (h1Match) {
             const cleanH1 = cleanString(h1Match[1]);
             if (cleanH1 === cleanTarget || (cleanTarget.length >= 4 && cleanH1.includes(cleanTarget)) || (cleanH1.length >= 4 && cleanTarget.includes(cleanH1))) {
-              return { full, relSlug: relPath };
+              return { full, relSlug: slug };
             }
           }
         } catch (e) {}
@@ -376,12 +368,46 @@ async function findAndSyncChapterFile(dbInstance, subject, targetTopic) {
     return null;
   }
 
-  const found = searchFile(targetDir);
-  if (found) {
-    const res = await syncChapterQuestions(dbInstance, found.full, subject, found.relSlug);
-    console.log(`[On-Demand Sync] Found file "${found.full}" -> Ingested ${res.count} questions for [${subject} / ${found.relSlug}]`);
-    return res;
+  // 1. Revision Desk search
+  if (normSubject.includes('high yield tables') || targetTopic.startsWith('hyt__')) {
+    const hytDir = path.join(revisionDir, 'high-yield-tables');
+    const found = searchFile(hytDir);
+    if (found) {
+      const res = await syncChapterQuestions(dbInstance, found.full, subject, targetTopic);
+      console.log(`[Revision On-Demand Sync] Found file "${found.full}" -> Ingested ${res.count} questions for [${subject} / ${targetTopic}]`);
+      return res;
+    }
   }
+
+  if (normSubject.includes('must score facts') || targetTopic.startsWith('msf__')) {
+    const msfDir = path.join(revisionDir, 'must-score-facts');
+    const found = searchFile(msfDir);
+    if (found) {
+      const res = await syncChapterQuestions(dbInstance, found.full, subject, targetTopic);
+      console.log(`[Revision On-Demand Sync] Found file "${found.full}" -> Ingested ${res.count} questions for [${subject} / ${targetTopic}]`);
+      return res;
+    }
+  }
+
+  // 2. Standard subjects directory search
+  if (fs.existsSync(subjectsDir)) {
+    const subDirs = fs.readdirSync(subjectsDir).filter(d => {
+      const p = path.join(subjectsDir, d);
+      return fs.statSync(p).isDirectory() && d.toLowerCase().trim() === normSubject;
+    });
+
+    const subjectDirName = subDirs.length > 0 ? subDirs[0] : subject;
+    const targetDir = path.join(subjectsDir, subjectDirName);
+    if (fs.existsSync(targetDir)) {
+      const found = searchFile(targetDir);
+      if (found) {
+        const res = await syncChapterQuestions(dbInstance, found.full, subject, found.relSlug);
+        console.log(`[On-Demand Sync] Found file "${found.full}" -> Ingested ${res.count} questions for [${subject} / ${found.relSlug}]`);
+        return res;
+      }
+    }
+  }
+
   return null;
 }
 
@@ -1074,8 +1100,40 @@ app.get('/api/admin/stats', requireAdmin, checkDb, async (req, res) => {
 // Manual / On-demand Question Sync endpoint
 app.post('/api/sync-questions', checkDb, async (req, res) => {
   try {
-    const { subject, chapter, full } = req.body || {};
+    const { subject, chapter, chapter_title, questions, full } = req.body || {};
     const subjectsDir = path.resolve(__dirname, '../docs/subjects');
+
+    // 1. Direct questions payload provided (e.g., from browser or revision sync script)
+    if (Array.isArray(questions) && questions.length > 0 && subject && chapter) {
+      const qCol = db.collection('questions');
+      const cleanSubject = subject.toLowerCase().trim();
+      await qCol.deleteMany({ subject: cleanSubject, chapter: chapter });
+      const bulkOps = questions.map((q, idx) => ({
+        updateOne: {
+          filter: { q_id: q.q_id || `${cleanSubject}_${chapter}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase() },
+          update: {
+            $set: {
+              q_id: q.q_id || `${cleanSubject}_${chapter}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
+              subject: cleanSubject,
+              chapter: chapter,
+              chapter_title: chapter_title || q.chapter_title || chapter,
+              q_num: idx + 1,
+              q_header: q.q_header || `Revision Practice — Q${idx + 1}`,
+              stem: q.stem,
+              options: q.options,
+              category: q.category || 'revision_mcq',
+              section_title: q.section_title || '',
+              correct_answer: q.correct_answer,
+              all_correct_answers: q.all_correct_answers || [q.correct_answer],
+              explanation: q.explanation || q.explanation_html || ''
+            }
+          },
+          upsert: true
+        }
+      }));
+      await qCol.bulkWrite(bulkOps);
+      return res.json({ success: true, mode: 'direct_payload', count: bulkOps.length, subject: cleanSubject, chapter });
+    }
 
     if (full || (!subject && !chapter)) {
       const summary = await syncAllQuestions(db, subjectsDir);
@@ -1091,7 +1149,7 @@ app.post('/api/sync-questions', checkDb, async (req, res) => {
       }
     }
 
-    res.status(400).json({ error: 'Specify either full: true or both subject and chapter' });
+    res.status(400).json({ error: 'Specify either questions array, full: true, or both subject and chapter' });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
@@ -1461,7 +1519,11 @@ app.get('/api/chapter-questions', checkDb, async (req, res) => {
     }
 
     const normSubject = subject.toLowerCase().trim();
-    const subjectRegex = new RegExp(`^${normSubject.replace(/[-_]/g, '[-_ ]')}$`, 'i');
+    function escapeRegex(str) {
+      return (str || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+    const escapedSubject = escapeRegex(normSubject).replace(/[-_]/g, '[-_ ]');
+    const subjectRegex = new RegExp(`^${escapedSubject}$`, 'i');
 
     const cleanTopicStr = targetTopic
       .replace(/^topic\s*\d+\s*[-–—:]*\s*/i, '')
@@ -1469,8 +1531,8 @@ app.get('/api/chapter-questions', checkDb, async (req, res) => {
       .replace(/[\(\)\[\]]/g, '')
       .trim();
 
-    const cleanRegex = new RegExp(cleanTopicStr.replace(/[-_]/g, '[-_ ]'), 'i');
-    const topicRegex = new RegExp(targetTopic.replace(/[-_]/g, '[-_ ]'), 'i');
+    const cleanRegex = new RegExp(escapeRegex(cleanTopicStr).replace(/[-_]/g, '[-_ ]'), 'i');
+    const topicRegex = new RegExp(escapeRegex(targetTopic).replace(/[-_]/g, '[-_ ]'), 'i');
 
     function buildQuery() {
       return {

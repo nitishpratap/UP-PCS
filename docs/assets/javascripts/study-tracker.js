@@ -205,9 +205,9 @@
     const t = topic.trim();
     const key = `${s}:::${t}`;
 
-    // Revision Desk Notes — Enforce 80% Target Mastery Gate
+    // Revision Desk Notes — Enforce 100% Target Mastery Gate (Both Must Score Facts & High Yield Tables)
     if (s.includes('(must score facts)') || s.includes('(high yield tables)') || t.startsWith('msf__') || t.startsWith('hyt__')) {
-      return { group: 'revision', targetAccuracy: 80, label: 'Revision Gate', badgeText: 'Target: 80% (Mastery Gate)', badgeClass: 'st-badge-target-least' };
+      return { group: 'revision', targetAccuracy: 100, label: 'Revision Gate', badgeText: 'Target: 100% (Mastery Gate)', badgeClass: 'st-badge-target-high' };
     }
 
     if (HIGH_PRIORITY_CHAPTERS.has(key)) {
@@ -3998,10 +3998,17 @@
       btn.disabled = true;
       btn.innerHTML = 'Syncing…';
       try {
+        const domQuestions = topicInfo.isRevision ? extractChapterQuestions() : [];
+        const payload = {
+          subject: topicInfo.subject,
+          chapter: topicInfo.topic,
+          chapter_title: topicInfo.title,
+          questions: domQuestions
+        };
         const res = await authFetch(`${API_BASE}/sync-questions`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ subject: topicInfo.subject, chapter: topicInfo.topic })
+          body: JSON.stringify(payload)
         });
         const data = await res.json();
         if (res.ok) {
@@ -4025,25 +4032,43 @@
   }
 
   // Refresh question count on the Question Bank KPI card
+  // Refresh question count on the Question Bank KPI card
   async function refreshChapterQuestionCount(topicInfo) {
     const bankVal = document.getElementById('st-kpi-bank-val');
     const bankSub = document.getElementById('st-kpi-bank-sub');
     if (!bankVal) return;
 
-    // For revision notes, the note's own 15 MCQs are the primary target
+    // For revision notes, strictly use the revision note's dedicated questions
     if (topicInfo.isRevision) {
+      // 1. Try DOM questions from the revision note
       const domQs = extractChapterQuestions();
       if (domQs.length > 0) {
         bankVal.textContent = `${domQs.length} Questions`;
-        if (bankSub) bankSub.textContent = `Revision Practice MCQs`;
+        if (bankSub) bankSub.textContent = `High-Yield Revision MCQs`;
         return;
       }
+
+      // 2. Query MongoDB ONLY for the revision subject/topic (never original subject's PYQs)
+      try {
+        const res = await authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}&limit=1`);
+        if (res.ok) {
+          const data = await res.json();
+          if (data.total_available > 0) {
+            bankVal.textContent = `${data.total_available} Questions`;
+            if (bankSub) bankSub.textContent = `High-Yield Revision MCQs`;
+            return;
+          }
+        }
+      } catch {}
+
+      bankVal.textContent = `0 Questions`;
+      if (bankSub) bankSub.textContent = `Revision MCQs pending`;
+      return;
     }
 
+    // Standard subject chapters
     try {
-      const subToFetch = topicInfo.isRevision ? (topicInfo.originalSubject || topicInfo.subject) : topicInfo.subject;
-      const topToFetch = topicInfo.isRevision ? (topicInfo.originalTopic || topicInfo.topic) : topicInfo.topic;
-      const res = await authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(subToFetch)}&topic=${encodeURIComponent(topToFetch)}&limit=1`);
+      const res = await authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}&limit=1`);
       if (res.ok) {
         const data = await res.json();
         if (data.total_available > 0) {
@@ -4054,7 +4079,7 @@
       }
     } catch {}
 
-    // Fallback to DOM questions
+    // Fallback to DOM questions for subject notes
     const domQs = extractChapterQuestions();
     if (domQs.length > 0) {
       bankVal.textContent = `${domQs.length} Questions`;
@@ -4491,8 +4516,8 @@
       openTestEngineModal(cleanInfo, {
         isMasteryGate: true,
         isMasteryRedemption: false,
-        targetAccuracy: 80,
-        questionCount: 50,
+        targetAccuracy: cleanInfo.isRevision ? 100 : 80,
+        questionCount: cleanInfo.isRevision ? 'all' : 50,
         testMode: 'exam',
         onMasteryPassed: async (sc) => {
           await officiallyConquerChapter(cleanInfo, sc);
@@ -5155,8 +5180,8 @@
         options: (q.options && typeof q.options === 'object') ? q.options : { A: 'Option A', B: 'Option B', C: 'Option C', D: 'Option D' }
       }));
     } else {
-      // 1. On revision desks, if not requesting large DB exam drill, use the chapter's own 15 revision MCQs
-      if (topicInfo.isRevision && !testOptions.useDbQuestions) {
+      // 1. On revision desks, strictly use the revision note's dedicated MCQs
+      if (topicInfo.isRevision) {
         const domQuestions = extractChapterQuestions();
         if (domQuestions.length > 0) {
           loadedQuestions = domQuestions.map((q, idx) => ({
@@ -5170,18 +5195,34 @@
             correct_answer: q.correct_answer,
             explanation: q.explanation_html
           }));
+        } else {
+          // Query backend ONLY for the revision subject/topic
+          try {
+            const queryParams = new URLSearchParams({
+              subject: topicInfo.subject,
+              topic: topicInfo.topic,
+              chapter: topicInfo.topic,
+              title: topicInfo.title || '',
+              shuffle: 'true'
+            });
+            const res = await authFetch(`${API_BASE}/chapter-questions?${queryParams.toString()}`);
+            if (res.ok) {
+              const data = await res.json();
+              if (data.questions && data.questions.length > 0) {
+                loadedQuestions = data.questions;
+              }
+            }
+          } catch (e) {
+            console.warn('Backend revision questions fetch failed:', e);
+          }
         }
-      }
-
-      // 2. Fetch from backend if loadedQuestions is still empty
-      if (loadedQuestions.length === 0) {
+      } else {
+        // 2. Standard subject chapters: fetch from backend, fallback to DOM
         try {
-          const subToQuery = topicInfo.isRevision ? (topicInfo.originalSubject || topicInfo.subject) : topicInfo.subject;
-          const topToQuery = topicInfo.isRevision ? (topicInfo.originalTopic || topicInfo.topic) : (topicInfo.slug || topicInfo.topic);
           const queryParams = new URLSearchParams({
-            subject: subToQuery,
-            topic: topToQuery,
-            chapter: topToQuery,
+            subject: topicInfo.subject,
+            topic: topicInfo.slug || topicInfo.topic,
+            chapter: topicInfo.slug || topicInfo.topic,
             title: topicInfo.title || '',
             shuffle: 'true'
           });
@@ -5195,23 +5236,22 @@
         } catch (e) {
           console.warn('Backend questions fetch failed:', e);
         }
-      }
 
-      // 3. Fallback to DOM questions if database returned 0
-      if (loadedQuestions.length === 0) {
-        const domQuestions = extractChapterQuestions();
-        if (domQuestions.length > 0) {
-          loadedQuestions = domQuestions.map((q, idx) => ({
-            q_id: `${topicInfo.subject}_${topicInfo.topic}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
-            q_num: idx + 1,
-            q_header: q.q_header || `Question ${idx + 1}`,
-            category: q.category || 'practice',
-            section_title: q.section_title || '',
-            stem: q.stem,
-            options: q.options,
-            correct_answer: q.correct_answer,
-            explanation: q.explanation_html
-          }));
+        if (loadedQuestions.length === 0) {
+          const domQuestions = extractChapterQuestions();
+          if (domQuestions.length > 0) {
+            loadedQuestions = domQuestions.map((q, idx) => ({
+              q_id: `${topicInfo.subject}_${topicInfo.topic}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
+              q_num: idx + 1,
+              q_header: q.q_header || `Question ${idx + 1}`,
+              category: q.category || 'practice',
+              section_title: q.section_title || '',
+              stem: q.stem,
+              options: q.options,
+              correct_answer: q.correct_answer,
+              explanation: q.explanation_html
+            }));
+          }
         }
       }
     }
@@ -5978,8 +6018,9 @@
       saveLocalTestAttempt(topicInfo.subject, topicInfo.topic, sc);
       refreshPastScoresBadge(topicInfo);
 
-      const isMasteryPassed = isMasteryGate && (sc.total_questions >= 5) && (sc.score_pct >= 80) && (sc.net_marks > 0);
-      const isRedemptionPassed = isMasteryRedemption && (sc.total_questions >= 5) && (sc.correct === sc.total_questions);
+      const requiredPassScore = topicInfo.isRevision ? 100 : (testOptions.targetAccuracy || 80);
+      const isMasteryPassed = isMasteryGate && (sc.total_questions >= 3) && (topicInfo.isRevision ? (sc.correct === sc.total_questions) : (sc.score_pct >= requiredPassScore && sc.net_marks > 0));
+      const isRedemptionPassed = isMasteryRedemption && (sc.total_questions >= 3) && (sc.correct === sc.total_questions);
 
       if (isMasteryGate || isMasteryRedemption) {
         if (isMasteryPassed || isRedemptionPassed) {
@@ -6076,7 +6117,7 @@
                 <div class="st-mpass-icon">🏆</div>
                 <div class="st-mpass-body">
                   <h4>CHAPTER OFFICIALLY CONQUERED & FINISHED!</h4>
-                  <p>You scored <strong>${sc.score_pct}% Total Exam Score</strong> (Net: <strong>${sc.net_marks}/${sc.max_marks}</strong> marks &bull; ${sc.correct}/${sc.total_questions} correct &bull; ${sc.accuracy_pct}% Accuracy), meeting the strict 80% Mastery Requirement!</p>
+                  <p>You scored <strong>${sc.score_pct}% Total Exam Score</strong> (Net: <strong>${sc.net_marks}/${sc.max_marks}</strong> marks &bull; ${sc.correct}/${sc.total_questions} correct &bull; ${sc.accuracy_pct}% Accuracy), meeting the strict ${requiredPassScore}% Mastery Requirement!</p>
                   <div class="st-mpass-tag">✅ +1 Read Recorded &bull; Cleared from Daily Plan &amp; Backlog</div>
                 </div>
               </div>
@@ -6084,8 +6125,8 @@
               <div class="st-mastery-fail-card">
                 <div class="st-mfail-icon">🛑</div>
                 <div class="st-mfail-body">
-                  <h4>MASTERY NOT ACHIEVED (${sc.score_pct}% &lt; 80% Required)</h4>
-                  <p>You scored <strong>${sc.score_pct}% Total Exam Score</strong> (Net: <strong>${sc.net_marks}/${sc.max_marks}</strong> marks &bull; ${sc.correct}/${sc.total_questions} correct &bull; ${sc.accuracy_pct}% Accuracy on attempted). Under your preparation rules, you must achieve <strong>at least 80% of total exam marks (${(sc.max_marks * 0.8).toFixed(1)}/${sc.max_marks})</strong> on this 50-Question Qualifying Exam to finish this chapter.</p>
+                  <h4>MASTERY NOT ACHIEVED (${sc.score_pct}% &lt; ${requiredPassScore}% Required)</h4>
+                  <p>You scored <strong>${sc.score_pct}% Total Exam Score</strong> (Net: <strong>${sc.net_marks}/${sc.max_marks}</strong> marks &bull; ${sc.correct}/${sc.total_questions} correct &bull; ${sc.accuracy_pct}% Accuracy on attempted). Under your preparation rules, you must achieve <strong>at least ${requiredPassScore}%</strong> on this qualifying exam (${topicInfo.isRevision ? '100% required for revision desks' : '80% required for standard chapters'}) to finish this note.</p>
                   <div class="st-mfail-tag">⚠️ Chapter Remains PENDING &bull; NOT Marked as Read</div>
                   <p class="st-mfail-sub">Review your wrong questions below, revise your notes, or activate the Fast-Track 100% Redemption Drill below!</p>
                 </div>
