@@ -381,6 +381,7 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     const ansMatch4 = detailsContent.match(/(?:Ans|Answer|Option)[^\w\n\r]*\(?\s*([A-D])\b/i);
     const ansMatch5 = detailsContent.match(/\*\*Ans:\*\*\s*\*\*([A-D])\b/i);
     const ansMatch6 = detailsContent.match(/(?:\*\*|\b)(?:Ans|Answer|Correct Answer|Option)[^\w\n\r]*\(?\s*([A-D])\b/i);
+    const ansMatch7 = detailsContent.match(/(?:^|\n)\s*\*\*([A-D])\*\*/i);
 
     if (ansMatch1) {
       const letters = ansMatch1[1].match(/[A-D]/gi);
@@ -395,6 +396,8 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
       correctLetters = [ansMatch4[1].toUpperCase()];
     } else if (ansMatch6) {
       correctLetters = [ansMatch6[1].toUpperCase()];
+    } else if (ansMatch7) {
+      correctLetters = [ansMatch7[1].toUpperCase()];
     }
 
     if (correctLetters.length === 0) {
