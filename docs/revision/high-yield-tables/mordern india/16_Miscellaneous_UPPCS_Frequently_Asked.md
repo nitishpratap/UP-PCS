@@ -1279,3 +1279,300 @@ D. Cabinet Mission — 1928 Nehru Report twin
 **Logic:** Mission year vault.
 
 </details>
+
+**Q16.** Match List-I (Historical Newspaper / Journal) with List-II (Founder / Editor) and select the correct answer:
+
+| List-I (Newspaper / Journal) | List-II (Founder / Editor) |
+|---|---|
+| A. Bengal Gazette (1780) | 1. Ishwar Chandra Vidyasagar |
+| B. Mirat-ul-Akhbar (1822) | 2. James Augustus Hicky |
+| C. Som Prakash (1858) | 3. Dadabhai Naoroji |
+| D. Rast Goftar (1851) | 4. Raja Ram Mohan Roy |
+
+A. A-2, B-4, C-1, D-3
+
+B. A-4, B-2, C-1, D-3
+
+C. A-2, B-1, C-4, D-3
+
+D. A-1, B-4, C-2, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Bengal Gazette (India's first newspaper) was started by James Augustus Hicky (2); Mirat-ul-Akhbar (first Persian journal in India) was founded by Raja Ram Mohan Roy (4); Som Prakash was founded by Ishwar Chandra Vidyasagar (associated with the Vernacular Press Act trigger) (1); Rast Goftar was a Gujarati fortnightly founded by Dadabhai Naoroji and Naoroji Furdunji (3).
+</details>
+
+**Q17.** Match List-I (Nationalist Literary Work) with List-II (Author) and select the correct answer:
+
+| List-I (Book / Play) | List-II (Author) |
+|---|---|
+| A. Anandamath | 1. Dinabandhu Mitra |
+| B. Nil Darpan | 2. Bankim Chandra Chatterjee |
+| C. Ghulamgiri | 3. Lala Lajpat Rai |
+| D. Unhappy India | 4. Jyotirao Phule |
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-4, C-1, D-3
+
+D. A-4, B-1, C-2, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Anandamath (containing 'Vande Mataram', based on Sanyasi Rebellion) = Bankim Chandra Chatterjee (2); Nil Darpan (portraying the plight of Indigo cultivators in Bengal) = Dinabandhu Mitra (1); Ghulamgiri (1873, dedicated to American movement against slavery) = Jyotirao Phule (4); Unhappy India (reply to Katherine Mayo's 'Mother India') = Lala Lajpat Rai (3).
+</details>
+
+**Q18.** Arrange the following revolutionary conspiracy cases in correct chronological order:
+
+1. Delhi-Lahore Conspiracy Case (Hardinge Bomb)
+2. Alipore Bomb Case
+3. Kakori Train Action
+4. Second Lahore Conspiracy Case (Saunders Murder)
+
+A. 2 → 1 → 3 → 4
+
+B. 1 → 2 → 3 → 4
+
+C. 2 → 3 → 1 → 4
+
+D. 3 → 2 → 1 → 4
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — 2 → 1 → 3 → 4. Alipore Bomb Case (1908, Aurobindo Ghosh defended by C.R. Das) → Delhi-Lahore Conspiracy Case (1912, bomb on Viceroy Hardinge led by Rash Behari Bose) → Kakori Train Action (9 August 1925, HRA members Ram Prasad Bismil, Ashfaqulla, Roshan Singh, Rajendra Lahiri) → Second Lahore Conspiracy Case (1928–1930, trial of Bhagat Singh, Sukhdev, and Rajguru for Saunders assassination).
+</details>
+
+**Q19.** Match List-I (Socio-Religious Reform Organization) with List-II (Founder / Year):
+
+| List-I (Organization) | List-II (Founder & City) |
+|---|---|
+| A. Brahmo Samaj | 1. Swami Dayanand Saraswati (1875, Bombay) |
+| B. Prarthana Samaj | 2. Raja Ram Mohan Roy (1828, Calcutta) |
+| C. Arya Samaj | 3. Atmaram Pandurang with M.G. Ranade (1867, Bombay) |
+| D. Ramakrishna Mission | 4. Swami Vivekananda (1897, Belur) |
+
+A. A-2, B-3, C-1, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-3, D-4
+
+D. A-3, B-1, C-4, D-2
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Brahmo Samaj = Raja Ram Mohan Roy, 1828 (2); Prarthana Samaj = Atmaram Pandurang (inspired by Keshab Chandra Sen, later joined by Ranade and Bhandarkar), 1867 (3); Arya Samaj = Swami Dayanand Saraswati at Bombay, 1875 (slogan 'Go back to Vedas') (1); Ramakrishna Mission = Swami Vivekananda at Belur, 1897 (4).
+</details>
+
+**Q20.** Who was the first Indian woman to preside over a session of the Indian National Congress?
+
+A. Annie Besant
+
+B. Sarojini Naidu
+
+C. Nelli Sengupta
+
+D. Sucheta Kripalani
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Sarojini Naidu. She was the first **Indian woman** president of INC at the **1925 Kanpur Session**. Note the classic UPPCS trap: Dr. Annie Besant was the **first woman** president (1917 Calcutta Session), but she was British/Irish. Nelli Sengupta presided over the 1933 Calcutta session.
+</details>
+
+**Q21.** Match List-I (British Governor-General / Viceroy) with List-II (Major Policy / Event):
+
+| List-I (Viceroy / Governor-General) | List-II (Policy / Associated Event) |
+|---|---|
+| A. Lord Dalhousie | 1. Partition of Bengal (1905) |
+| B. Lord Ripon | 2. Doctrine of Lapse & First Railway Line (1853) |
+| C. Lord Curzon | 3. Factory Act (1881) & Father of Local Self-Government |
+| D. Lord Chelmsford | 4. Montagu-Chelmsford Reforms & Rowlatt Act (1919) |
+
+A. A-2, B-3, C-1, D-4
+
+B. A-3, B-2, C-1, D-4
+
+C. A-2, B-1, C-3, D-4
+
+D. A-4, B-3, C-1, D-2
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Dalhousie = Doctrine of Lapse (Satara, Sambalpur, Jhansi, Nagpur) and introduction of railways/telegraph (2); Ripon = Repeal of Vernacular Press Act (1882), Local Self-Government resolution, and First Factory Act (3); Curzon = Partition of Bengal (1905), Ancient Monuments Preservation Act (1); Chelmsford = Rowlatt Act, Jallianwala Bagh, Non-Cooperation Movement (4).
+</details>
+
+**Q22.** Match List-I (Peasant / Tribal Uprising) with List-II (Leader / Region) and select the correct answer:
+
+| List-I (Rebellion) | List-II (Leader & Year) |
+|---|---|
+| A. Santhal Hul | 1. Digambar Biswas and Bishnu Biswas (1859, Bengal) |
+| B. Indigo Revolt | 2. Sidhu, Kanhu, Chand, and Bhairav (1855, Rajmahal) |
+| C. Munda Ulgulan | 3. Madari Pasi (1921, Hardoi/Bahraich/Sitapur) |
+| D. Eka Movement | 4. Birsa Munda (1899–1900, Chotanagpur) |
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-4, C-1, D-3
+
+D. A-3, B-1, C-4, D-2
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Santhal Rebellion = Sidhu and Kanhu, 1855 (Damin-i-Koh / Rajmahal hills) (2); Indigo Revolt = Digambar and Bishnu Biswas, 1859 (Nadia district, Bengal) (1); Munda Ulgulan = Birsa Munda, 1899–1900 (4); Eka Movement = Madari Pasi, 1921 (Awadh districts: Hardoi, Bahraich, Sitapur, Barabanki) (3).
+</details>
+
+**Q23.** The historic 'Poona Pact' of September 1932 was signed between:
+
+A. Mahatma Gandhi and Lord Willingdon
+
+B. Dr. B.R. Ambedkar and Mahatma Gandhi (represented by M.M. Malaviya on behalf of caste Hindus)
+
+C. Jawaharlal Nehru and Mohammad Ali Jinnah
+
+D. Subhas Chandra Bose and Sardar Patel
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Signed on 24 September 1932 at Yerwada Central Jail in Pune between Dr. B.R. Ambedkar and representatives of caste Hindus (signed by Madan Mohan Malaviya, C. Rajagopalachari, Rajendra Prasad) to end Gandhi's fast unto death against Ramsay MacDonald's Communal Award. It abandoned separate electorates for Depressed Classes and in return increased reserved seats in provincial legislatures from 71 to 147.
+</details>
+
+**Q24.** Who among the following participated in all the three Round Table Conferences held in London (1930, 1931, 1932)?
+
+1. Dr. B.R. Ambedkar
+2. Tej Bahadur Sapru
+3. Mahatma Gandhi
+4. Muhammad Ali Jinnah
+
+A. 1 and 2 only
+
+B. 1, 2 and 3
+
+C. 1 and 4 only
+
+D. 2 and 4 only
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — 1 and 2 only. Dr. B.R. Ambedkar and Sir Tej Bahadur Sapru attended all three Round Table Conferences (1930, 1931, 1932). Mahatma Gandhi represented the Indian National Congress only at the **Second Round Table Conference (1931)** following the Gandhi-Irwin Pact.
+</details>
+
+**Q25.** Match List-I (British Colonial Commission) with List-II (Mandated Subject) and select the correct answer:
+
+| List-I (Commission) | List-II (Area of Inquiry) |
+|---|---|
+| A. MacDonnell Commission (1901) | 1. Police Administration Reforms |
+| B. Fraser Commission (1902) | 2. Famine Relief Administration |
+| C. Hunter Committee (1919) | 3. Relations between Princely States & Paramount Power |
+| D. Butler Committee (1927) | 4. Jallianwala Bagh Massacre Inquiry |
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-4, C-1, D-3
+
+D. A-4, B-1, C-2, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — MacDonnell Commission = Famine (under Lord Curzon) (2); Fraser Commission = Police reform (led to establishment of CID) (1); Hunter Committee (Disorders Inquiry Committee) = Jallianwala Bagh firing (4); Butler Committee (Indian States Committee) = Relationship between Princely States and British Crown (3).
+</details>
+
+**Q26.** In the Individual Satyagraha launched by Mahatma Gandhi in October 1940, who were chosen as the first and second Satyagrahis respectively?
+
+A. Jawaharlal Nehru and Sardar Patel
+
+B. Acharya Vinoba Bhave and Jawaharlal Nehru
+
+C. Acharya Vinoba Bhave and Brahma Datt
+
+D. C. Rajagopalachari and Maulana Azad
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Acharya Vinoba Bhave was selected by Gandhi as the **first Satyagrahi** (who inaugurated it at Paunar, Maharashtra on 17 Oct 1940), and **Jawaharlal Nehru was the second Satyagrahi**. Brahma Datt was the third Satyagrahi. Popularly called the 'Delhi Chalo Satyagraha'.
+</details>
+
+**Q27.** In the Interim Government of India formed on 2 September 1946, who held the portfolio of 'Finance' upon the entry of the Muslim League?
+
+A. John Mathai
+
+B. Liaquat Ali Khan
+
+C. C. Rajagopalachari
+
+D. Asaf Ali
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Liaquat Ali Khan (nominee of the Muslim League). The key portfolios in the Interim Government were: Jawaharlal Nehru (Vice-President, External Affairs & Commonwealth), Sardar Patel (Home, Information & Broadcasting), Dr. Rajendra Prasad (Food & Agriculture), Jagjivan Ram (Labour), Baldev Singh (Defence), Dr. John Mathai (Industries & Supplies), and Liaquat Ali Khan (Finance).
+</details>
+
+**Q28.** Match List-I (Historic Session of INC) with List-II (President & Significance) and select the correct answer:
+
+| List-I (INC Session) | List-II (President & Resolution) |
+|---|---|
+| A. 1907 Surat | 1. Jawaharlal Nehru — 'Purna Swaraj' (Complete Independence) Resolution |
+| B. 1916 Lucknow | 2. Sardar Vallabhbhai Patel — Fundamental Rights & National Economic Programme |
+| C. 1929 Lahore | 3. Ambica Charan Mazumdar — Moderates & Extremists Reunited |
+| D. 1931 Karachi | 4. Rash Behari Ghosh — Surat Split |
+
+A. A-4, B-3, C-1, D-2
+
+B. A-4, B-1, C-3, D-2
+
+C. A-3, B-4, C-1, D-2
+
+D. A-2, B-3, C-4, D-1
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Surat 1907 = Rash Behari Ghosh (Surat Split between Moderates and Extremists) (4); Lucknow 1916 = A.C. Mazumdar (Reunion of Moderates/Extremists and Lucknow Pact with Muslim League) (3); Lahore 1929 = Jawaharlal Nehru (Purna Swaraj declaration on banks of Ravi) (1); Karachi 1931 = Sardar Patel (Ratified Gandhi-Irwin Pact and passed historic Resolution on Fundamental Rights and National Economic Programme drafted by Nehru) (2).
+</details>
+
+**Q29.** Consider the following statements regarding the Indian National Army (Azad Hind Fauj):
+
+1. The idea of the Indian National Army (INA) was first conceived in Malaya by Mohan Singh.
+2. Subhas Chandra Bose officially proclaimed the establishment of the Provisional Government of Free India (Arzi Hukumat-e-Azad Hind) at Singapore on 21 October 1943.
+3. The INA headquarters was established at Rangoon and Singapore.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — All 1, 2 and 3 are correct. Capt. Mohan Singh first formed the INA with Japanese officer Major Fujiwara from British Indian POWs in Malaya. Rash Behari Bose created the Indian Independence League. Subhas Chandra Bose arrived in Singapore in 1943, took supreme command, proclaimed the Provisional Government (with its Rani of Jhansi women's regiment headed by Capt. Lakshmi Swaminathan), and set up headquarters in Singapore and Rangoon.
+</details>
+
+**Q30.** Match List-I (Historic Slogan) with List-II (National Leader) and select the correct answer:
+
+| List-I (Slogan) | List-II (Leader) |
+|---|---|
+| A. "Swaraj is my birthright and I shall have it" | 1. Subhas Chandra Bose |
+| B. "Do or Die" (Karo ya Maro) | 2. Bal Gangadhar Tilak |
+| C. "Give me blood, and I will give you freedom" | 3. Bankim Chandra Chatterjee |
+| D. "Vande Mataram" | 4. Mahatma Gandhi |
+
+A. A-2, B-4, C-1, D-3
+
+B. A-4, B-2, C-1, D-3
+
+C. A-2, B-1, C-4, D-3
+
+D. A-1, B-4, C-2, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Tilak = "Swaraj is my birthright and I shall have it" (said at 1916 Lucknow session) (2); Gandhi = "Do or Die" (at Gowalia Tank Maidan, Bombay during Quit India 1942 launch) (4); Subhas Chandra Bose = "Tum mujhe khoon do, main tumhe azadi doonga" (address to INA in Burma 1944) (1); Bankim Chandra Chatterjee = "Vande Mataram" (hymn in novel Anandamath) (3).
+</details>

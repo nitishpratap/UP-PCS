@@ -1074,3 +1074,288 @@ D. 2 1 4 3
 **Ans: B.** Elections; Special classes; Language; Emergency.
 
 </details>
+
+**Q16.** Which of the following subjects is correctly matched with its respective legislative list under the Seventh Schedule of the Constitution of India?
+
+1. Public health and sanitation — State List
+2. Education — Concurrent List
+3. Banking and Insurance — Union List
+4. Agriculture — Union List
+
+A. 1, 2 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — 1, 2 and 3 are correct. Agriculture is in the **State List (Entry 14)**, not the Union List. Public health and sanitation, police, and local government are in the State List. Education was shifted from State to Concurrent List by the 42nd Amendment Act, 1976. Banking and Insurance are in the Union List.
+</details>
+
+**Q17.** With reference to the Tenth Schedule (Anti-Defection Law) of the Indian Constitution, consider the following statements:
+
+1. It was inserted by the 52nd Constitutional Amendment Act, 1985.
+2. The 91st Amendment Act, 2003 omitted the provision regarding defence from disqualification in case of split by one-third members.
+3. The decision of the Speaker/Chairman on disqualification is immune from judicial review.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+
+B. 1 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — 1 and 2 are correct. Statement 3 is false: In the landmark *Kihoto Hollohan v. Zachillhu (1992)* case, the Supreme Court ruled that the Speaker acts as a tribunal while deciding defection questions and his decision is **subject to judicial review** on grounds of mala fides or perversity.
+</details>
+
+**Q18.** The provisions of the Sixth Schedule of the Indian Constitution apply to the administration of tribal areas in which group of states?
+
+A. Assam, Meghalaya, Tripura, and Mizoram
+
+B. Assam, Manipur, Nagaland, and Meghalaya
+
+C. Arunachal Pradesh, Nagaland, Assam, and Tripura
+
+D. Meghalaya, Mizoram, Manipur, and Tripura
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Assam, Meghalaya, Tripura, and Mizoram (popular mnemonic: **AMTM**). The Sixth Schedule provides for Autonomous District Councils (ADCs) with legislative and judicial powers in these four northeastern states only. Tribal areas in other states are governed under the Fifth Schedule.
+</details>
+
+**Q19.** Consider the following statements regarding the Eleventh and Twelfth Schedules:
+
+1. The Eleventh Schedule was added by the 73rd Amendment Act, 1992 and contains 29 functional matters for Panchayats.
+2. The Twelfth Schedule was added by the 74th Amendment Act, 1992 and contains 18 functional matters for Municipalities.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Both 1 and 2 are correct. 73rd Amendment added Part IX and the 11th Schedule (29 items, Article 243G). 74th Amendment added Part IXA and the 12th Schedule (18 items, Article 243W).
+</details>
+
+**Q20.** Match List-I (Directive Principles of State Policy) with List-II (Article) and select the correct answer:
+
+| List-I (DPSP Subject) | List-II (Article) |
+|---|---|
+| A. Organization of village panchayats | 1. Article 44 |
+| B. Uniform Civil Code for the citizens | 2. Article 50 |
+| C. Separation of judiciary from executive | 3. Article 40 |
+| D. Protection of environment and wild life | 4. Article 48A |
+
+A. A-3, B-1, C-2, D-4
+
+B. A-1, B-3, C-4, D-2
+
+C. A-3, B-2, C-1, D-4
+
+D. A-4, B-1, C-2, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Village Panchayats = Article 40 (3); UCC = Article 44 (1); Separation of Judiciary = Article 50 (2); Environment and Wildlife = Article 48A (inserted by 42nd Amendment) (4).
+</details>
+
+**Q21.** Match List-I (Emergency Provisions) with List-II (Article / Feature) and select the correct answer:
+
+| List-I (Emergency Type) | List-II (Constitutional Article) |
+|---|---|
+| A. National Emergency (War / External aggression / Armed rebellion) | 1. Article 360 |
+| B. President's Rule (Failure of constitutional machinery in State) | 2. Article 352 |
+| C. Financial Emergency | 3. Article 365 |
+| D. Failure of State to comply with directions of the Union | 4. Article 356 |
+
+A. A-2, B-4, C-1, D-3
+
+B. A-4, B-2, C-1, D-3
+
+C. A-2, B-1, C-4, D-3
+
+D. A-3, B-4, C-1, D-2
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — National Emergency = Article 352 (2); President's Rule under constitutional breakdown = Article 356 (4); Financial Emergency = Article 360 (never declared so far in India) (1); Failure to comply with Union directions enabling 356 imposition = Article 365 (3).
+</details>
+
+**Q22.** Under Part XXI (Temporary, Transitional and Special Provisions), which Article provides special provisions with respect to the State of Nagaland?
+
+A. Article 371
+
+B. Article 371A
+
+C. Article 371B
+
+D. Article 371C
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Article 371A. Article 371 covers Maharashtra and Gujarat; 371A = Nagaland; 371B = Assam; 371C = Manipur; 371D & 371E = Andhra Pradesh and Telangana; 371F = Sikkim; 371G = Mizoram; 371H = Arunachal Pradesh; 371I = Goa; 371J = Karnataka (Hyderabad-Karnataka region).
+</details>
+
+**Q23.** Match List-I (Constitutional Authority) with List-II (Article of the Constitution):
+
+| List-I (Authority / Commission) | List-II (Article) |
+|---|---|
+| A. Comptroller and Auditor General of India | 1. Article 280 |
+| B. Finance Commission of India | 2. Article 148 |
+| C. Election Commission of India | 3. Article 315 |
+| D. Union Public Service Commission | 4. Article 324 |
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-4, C-1, D-3
+
+D. A-4, B-1, C-2, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — CAG = Article 148 (2); Finance Commission = Article 280 (1); Election Commission = Article 324 (4); UPSC and State PSCs = Article 315 (3).
+</details>
+
+**Q24.** With reference to Article 368 (Power of Parliament to amend the Constitution), which of the following amendments requires ratification by the legislatures of not less than one-half of the States?
+
+1. Election of the President (Articles 54 and 55)
+2. Any of the Lists in the Seventh Schedule
+3. Representation of States in Parliament
+4. Abolition or creation of Legislative Councils in States (Article 169)
+
+A. 1, 2 and 3 only
+
+B. 1 and 2 only
+
+C. 2, 3 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — 1, 2 and 3 only. Creation or abolition of Legislative Councils under Article 169 requires only a **simple majority** of Parliament and is explicitly not deemed an amendment under Article 368. Federal provisions affecting the states (Articles 54/55, 7th Schedule, Supreme Court/High Courts, Article 368 itself) require special majority + ratification by 50% state legislatures.
+</details>
+
+**Q25.** Part IXB relating to 'The Co-operative Societies' was inserted into the Indian Constitution by which Constitutional Amendment Act?
+
+A. 73rd Amendment Act, 1992
+
+B. 86th Amendment Act, 2002
+
+C. 97th Amendment Act, 2011
+
+D. 102nd Amendment Act, 2018
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — 97th Amendment Act, 2011. It gave constitutional status to co-operative societies by: (1) making the right to form co-operatives a Fundamental Right under Article 19(1)(c); (2) inserting Article 43B in DPSPs; and (3) adding Part IXB (Articles 243ZH to 243ZT).
+</details>
+
+**Q26.** Which constitutional amendment added the four languages Bodo, Dogri, Maithili, and Santhali to the Eighth Schedule of the Constitution, raising the total number of recognized languages to 22?
+
+A. 21st Amendment Act, 1967
+
+B. 71st Amendment Act, 1992
+
+C. 92nd Amendment Act, 2003
+
+D. 96th Amendment Act, 2011
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — 92nd Amendment Act, 2003 (mnemonic: **BDMS**). The Constitution originally had 14 languages. 21st Amendment (1967) added Sindhi; 71st Amendment (1992) added Konkani, Manipuri, Nepali (KMN); 92nd Amendment (2003) added Bodo, Dogri, Maithili, Santhali, making a total of 22 languages.
+</details>
+
+**Q27.** Match List-I (Prerogative Writ under Article 32 / 226) with List-II (Literal Meaning) and select the correct answer:
+
+| List-I (Writ) | List-II (Literal Meaning) |
+|---|---|
+| A. Habeas Corpus | 1. We Command |
+| B. Mandamus | 2. You may have the body |
+| C. Quo-Warranto | 3. To be certified / To be informed |
+| D. Certiorari | 4. By what warrant or authority |
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-4, C-1, D-3
+
+D. A-3, B-1, C-4, D-2
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Habeas Corpus = "You may have the body" (protects personal liberty against unlawful detention) (2); Mandamus = "We Command" (orders a public authority to perform legal duty) (1); Quo-Warranto = "By what authority" (inquires into legality of claim to public office) (4); Certiorari = "To be certified" (quashes order of lower court/tribunal exceeding jurisdiction) (3).
+</details>
+
+**Q28.** With reference to the ordinance-making power of the President (Article 123) and the Governor (Article 213), consider the following statements:
+
+1. An ordinance can be promulgated only when either or both Houses of Parliament/State Legislature are not in session.
+2. An ordinance ceases to operate at the expiration of six weeks from the reassembly of the legislature.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Both 1 and 2 are correct. An ordinance has the same force as an Act of Parliament/Legislature, but is a temporary measure. It must be laid before both Houses upon reassembly and expires 6 weeks after reassembly unless approved earlier.
+</details>
+
+**Q29.** With reference to Money Bills in the Indian Parliament, consider the following statements:
+
+1. A Money Bill is defined under Article 110 of the Constitution.
+2. The decision of the Speaker of the Lok Sabha whether a Bill is a Money Bill or not is final.
+3. The Rajya Sabha has no power to amend or reject a Money Bill and must return it within 14 days.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — All 1, 2 and 3 are correct. Under Article 110, Money Bills can only be introduced in the Lok Sabha on the prior recommendation of the President. The Rajya Sabha cannot reject or amend it, can only make recommendations, and must return it within 14 days, failing which it is deemed passed by both Houses.
+</details>
+
+**Q30.** Part XIVA of the Constitution dealing with Tribunals (Articles 323A and 323B) was incorporated on the recommendation of which committee?
+
+A. Sarkaria Commission
+
+B. Swaran Singh Committee
+
+C. Balwant Rai Mehta Committee
+
+D. Verma Committee
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Swaran Singh Committee. The 42nd Amendment Act, 1976 introduced Part XIVA (Tribunals) based on the recommendations of the Swaran Singh Committee (which also recommended Fundamental Duties under Part IVA). Article 323A deals with Administrative Tribunals (CAT/SAT), while Article 323B deals with Tribunals for other matters (taxation, foreign exchange, land reforms).
+</details>

@@ -1000,3 +1000,270 @@ D. Only 1 and 2
 **Logic:** Largest group is alluvial.
 
 </details>
+
+**Q16.** With reference to 'Black Soil' (Regur) of India, consider the following statements:
+
+1. It becomes sticky when wet and develops deep wide cracks during the dry hot season.
+2. It exhibits 'self-ploughing' characteristics due to the high proportion of swelling montmorillonite clay.
+3. It is richly endowed with nitrogen, phosphorus, and organic matter.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — 1 and 2 are correct. Statement 3 is false: Black soil is rich in lime, iron, magnesia, and alumina, but characteristically **deficient in nitrogen, phosphorus, and organic matter/humus** (like most Indian soils). Its swelling and deep cracking enable slow aeration, termed 'self-ploughing'.
+</details>
+
+**Q17.** Consider the following comparisons between Khadar and Bhangar alluvial soils:
+
+1. Khadar is newer alluvium deposited by floods annually, whereas Bhangar represents older alluvium situated above flood levels.
+2. Bhangar soils frequently contain calcareous concretions locally known as 'Kankar'.
+3. Khadar soils are more fertile and silty compared to Bhangar soils.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — All 1, 2 and 3 are correct. Khadar is the newer, active floodplain silt replenished by seasonal river floods, making it highly fertile. Bhangar occupies river terraces well above flood reach, is clayey, and contains impure nodular calcium carbonate deposits called 'kankar'.
+</details>
+
+**Q18.** Which of the following amendments is scientifically applied to reclaim saline and alkali (sodic) soils (locally known as Reh/Usar/Kallar)?
+
+A. Quick lime (Calcium oxide)
+
+B. Agricultural Gypsum (Calcium sulphate)
+
+C. Dolomite powder
+
+D. Urea
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Gypsum (CaSO4·2H2O). Alkali/sodic soils have high exchangeable sodium (ESP > 15%) which disperses soil particles. Application of gypsum introduces soluble calcium ions (Ca²⁺) which exchange with and displace toxic sodium ions (Na⁺) from the soil exchange complex, which are then leached out with irrigation water.
+</details>
+
+**Q19.** Laterite soil develops in areas characterized by:
+
+A. Low temperature and scanty rainfall
+
+B. High temperature and heavy rainfall with alternating wet and dry seasons
+
+C. Moderate temperature and low humidity
+
+D. Persistent water-logging and stagnant drainage
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — High temperature and alternating heavy rainfall/dry spells. This induces intense tropical leaching (desilication), whereby soluble silica and alkaline bases are washed down, leaving residual oxides of iron and aluminium in the topsoil. It is acidic, low in fertility, but responds well to fertilizers for cashew, tea, and rubber.
+</details>
+
+**Q20.** Match List-I (Soil Type) with List-II (Dominant State / Geographic Belt) and select the correct answer:
+
+| List-I (Soil Group) | List-II (Major Region) |
+|---|---|
+| A. Black Soil | 1. Malabar Coast / Western Ghat summits |
+| B. Laterite Soil | 2. Deccan Lava Plateau (Maharashtra/Malwa) |
+| C. Arid / Desert Soil | 3. Eastern Ghats & Chotanagpur plateau |
+| D. Red Soil | 4. Western Rajasthan (Thar) |
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-4, C-1, D-3
+
+D. A-3, B-1, C-4, D-2
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Black soil dominates the Deccan Trap basaltic region (2); Laterite soil forms on high plateaus/Western Ghats of Kerala/Karnataka (1); Arid soil spans the Thar desert of Rajasthan (4); Red soil spreads across the archean crystalline terrain of Chotanagpur, Odisha, and Eastern Ghats (3).
+</details>
+
+**Q21.** Arrange the following stages of soil water erosion in correct chronological sequence of occurrence:
+
+1. Gully erosion
+2. Splash erosion
+3. Sheet erosion
+4. Rill erosion
+
+A. 2 → 3 → 4 → 1
+
+B. 3 → 2 → 1 → 4
+
+C. 2 → 4 → 3 → 1
+
+D. 4 → 3 → 2 → 1
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — 2 → 3 → 4 → 1. Splash erosion (impact of raindrops detaching soil) → Sheet erosion (uniform thin removal of topsoil by surface runoff, often unnoticed) → Rill erosion (runoff creates tiny finger-like channels) → Gully erosion (rills deepen into wide chasms/ravines, e.g. Chambal badlands).
+</details>
+
+**Q22.** Which soil order according to the USDA Soil Taxonomy occupies the largest percentage area of India?
+
+A. Vertisols
+
+B. Inceptisols
+
+C. Entisols
+
+D. Alfisols
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Inceptisols. According to the National Bureau of Soil Survey and Land Use Planning (NBSS&LUP), Inceptisols (young, weakly developed embryonic soils, encompassing much of the alluvial and hill soils) occupy the largest area in India (~39.7%), followed by Entisols (~28.1%), Alfisols (~13.6%), and Vertisols (~8.5%).
+</details>
+
+**Q23.** The red colour of Red and Yellow soils in peninsular India is primarily attributed to:
+
+A. High concentration of volcanic ash
+
+B. Diffusion of iron in crystalline and metamorphic rocks
+
+C. Presence of excess humus and organic matter
+
+D. Accumulation of calcium carbonate nodules
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Diffusion of iron oxides (ferric oxide) in crystalline and metamorphic rocks under warm, temperate, and moist conditions. When the soil occurs in a hydrated form, it appears yellow.
+</details>
+
+**Q24.** Peaty soils (locally termed 'Kari' in parts of Kerala) are distinguished by which of the following features?
+
+1. They occur in areas of heavy rainfall and high humidity with rich vegetation growth.
+2. They contain a remarkably large amount of organic matter (often 40% to 50%).
+3. They are usually highly alkaline in reaction.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — 1 and 2 only. Statement 3 is false: Peaty soils are typically **heavily acidic** (low pH), dark/black in colour, and heavy due to incomplete decomposition of organic matter under submerged anaerobic conditions. Found in Kottayam and Alappuzha districts of Kerala and Sundarbans delta.
+</details>
+
+**Q25.** Soil acidification is common in areas of high rainfall due to the leaching of basic cations. Which material is primarily applied to neutralize acidic soils?
+
+A. Agricultural Gypsum
+
+B. Agricultural Lime (CaCO3 / Slaked lime)
+
+C. Elemental Sulphur
+
+D. Ammonium sulphate
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Agricultural Lime. Liming materials like calcium carbonate (CaCO3), dolomite, or calcium hydroxide raise soil pH, neutralize excess H⁺ and toxic Al³⁺ ions, and restore beneficial microbial activity in acidic soils (common in Assam, Kerala, and Western Ghats).
+</details>
+
+**Q26.** In Uttar Pradesh, the soils of the southern Bundelkhand region are traditionally classified into:
+
+A. Khadar and Bangar
+
+B. Bhabhar and Tarai
+
+C. Mar, Kabar, Parwa, and Rakar
+
+D. Usar, Reh, and Kallar
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Mar, Kabar, Parwa, and Rakar. Bundelkhand soils are broadly grouped into two categories: Black soils (Mar and Kabar — highly clayey, fertile, moisture retentive) and Red soils (Parwa — sandy loam, and Rakar — shallow, stony, highly erodible plateau soil).
+</details>
+
+**Q27.** Consider the following statements regarding 'Usar' (Saline-Alkaline) soils in Uttar Pradesh:
+
+1. They are extensively found in districts like Mainpuri, Aligarh, Raebareli, Unnao, and Etah.
+2. Introduction of perennial canal irrigation without proper sub-surface drainage has worsened soil salinization in Western and Central UP.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Both 1 and 2 are correct. Flat topography combined with intensive canal irrigation causes water tables to rise near the surface. Capillary action evaporates water, leaving behind a white efflorescence of sodium, calcium, and magnesium salts (locally called 'Reh'), rendering hundreds of thousands of hectares into uncultivable Usar land.
+</details>
+
+**Q28.** Contour bunding is an effective soil conservation practice implemented in:
+
+A. Low flat plains with high river flooding
+
+B. Gently undulating slopes in rainfed dryland and hilly terrains
+
+C. Coastal sand dunes
+
+D. Waterlogged river deltas
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Gently undulating slopes in hilly and semi-arid terrain. Contour bunding involves constructing earthen embankments along equal elevation contours across the slope. This intercepts runoff, divides the slope into smaller segments, reduces water velocity, and enhances infiltration.
+</details>
+
+**Q29.** What is the normal Carbon to Nitrogen (C:N) ratio of fertile agricultural surface soils?
+
+A. 5 : 1 to 8 : 1
+
+B. 10 : 1 to 12 : 1
+
+C. 25 : 1 to 30 : 1
+
+D. 50 : 1 to 60 : 1
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — 10:1 to 12:1. In well-balanced arable topsoils, the microbial equilibrium stabilizes at a C:N ratio between 10:1 and 12:1. Legumes have a narrower ratio, while undecomposed straw/sawdust has a wide C:N ratio (>80:1) causing microbial nitrogen immobilization.
+</details>
+
+**Q30.** Match List-I (Soil Characteristics) with List-II (Soil Type) and select the correct answer:
+
+| List-I (Characteristics) | List-II (Soil Name) |
+|---|---|
+| A. Calcareous nodules (Kankar) in sub-surface | 1. Laterite Soil |
+| B. Intense silica leaching and brick-like hardening | 2. Bhangar Soil |
+| C. High capillary rise with white efflorescence | 3. Black (Regur) Soil |
+| D. Self-aeration through shrinkage cracks | 4. Saline / Usar Soil |
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-3, C-4, D-1
+
+D. A-4, B-1, C-2, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Kankar nodules characterize older alluvium Bhangar (2); Brick-like hardening on drying characterizes Laterite (from Latin 'later' = brick) (1); White salt crust on surface characterizes Saline/Usar (4); Shrinkage cracking characterizes Black Regur (3).
+</details>
