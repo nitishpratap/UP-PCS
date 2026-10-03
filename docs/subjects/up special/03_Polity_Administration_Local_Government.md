@@ -86,7 +86,8 @@
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Constitutional Structure, Legislature and Parliamentary Representation of Uttar Pradesh
 
@@ -125,6 +126,8 @@
 | **Gram Panchayat (Village Tier)** | **Gram Pradhan** (Political);<br>**Gram Panchayat Adhikari / Secretary** (Executive) | UP Panchayat Raj Act, 1947 | **~58,189 Gram Panchayats** | • Base rural self-governance unit; accountable to **Gram Sabha** (all registered voters); 50% reservation for women in UP. |
 | **Nagar Nigam (Municipal Corporation)** | **Mayor (Mahapaur)** (Political);<br>**Municipal Commissioner (Nagar Ayukt - IAS)** (Executive) | UP Municipal Corporation Act, 1959 | **17 Municipal Corporations** | • Urban local bodies for large metropolitan cities (Lucknow, Kanpur, Prayagraj, Varanasi, Agra, Ghaziabad, Meerut, Bareilly, Aligarh, Moradabad, Gorakhpur, Jhansi, Saharanpur, Firozabad, Ayodhya, Mathura-Vrindavan, Shahjahanpur). |
 | **Industrial Townships (Exception under Art. 243Q)** | **Chief Executive Officer (CEO - IAS)** | UP Industrial Area Development Act, 1976 | **NOIDA, Greater Noida, YEIDA** | • Governed by statutory industrial authorities providing civic amenities; exempt from forming elected Municipal Corporations under the proviso to Art. 243Q. |
+
+</details>
 
 ---
 

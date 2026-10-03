@@ -99,7 +99,8 @@
 
 </details>
 
-## Must-Score Master Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Master Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Speed of Sound Across Common Media (Standard Conditions)
 
@@ -170,6 +171,8 @@
 | **Dha** | A | $5/3$ | $426.7\text{ Hz}$ |
 | **Ni** | B | $15/8$ | **$480\text{ Hz}$** |
 | **$\text{Sa}_1$ (Octave)** | $\text{C}_1$ | $2$ | **$512\text{ Hz}$** |
+
+</details>
 
 ---
 

@@ -88,7 +88,8 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 
 </details>
 
-## Must-score drill — eight classical dances, gharanas, markers
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — eight classical dances, gharanas, markers</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Dance | State and marker |
 |-------|-------------|
@@ -109,9 +110,9 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 | Lasya / Tandava | Graceful / vigorous |
 | Kathak gharanas | **Lucknow** (Wajid Ali Shah, Birju Maharaj), Jaipur, Banaras |
 
+</details>
+
 ---
-
-
 
 ## 6.1 Indian Classical Dances
 

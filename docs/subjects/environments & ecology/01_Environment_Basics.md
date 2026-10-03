@@ -79,7 +79,8 @@ Environment – Meaning | Environmental Components | Classification of Environme
 
 </details>
 
-## Must-score facts — spheres, laws, articles, days
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — spheres, laws, articles, days</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Core tags
 
@@ -117,6 +118,8 @@ Environment – Meaning | Environmental Components | Classification of Environme
 ---
 
 ![Earth's Four Interconnected Spheres & Biosphere Envelope](images/env_ch01_01_earth_four_spheres_atmosphere_biosphere.png)
+
+</details>
 
 ## 1.1 Environment – Meaning
 

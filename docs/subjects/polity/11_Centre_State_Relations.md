@@ -91,7 +91,8 @@
 
 </details>
 
-## Must-score facts — Lists, 249–263, Finance
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Lists, 249–263, Finance</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Legislative frame
 
@@ -119,6 +120,8 @@
 | 263 | Inter-State Council |
 | 280 | Finance Commission |
 | GST Council | Cooperative federalism example |
+
+</details>
 
 ---
 

@@ -83,7 +83,8 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 
 </details>
 
-## Must-score facts — centres, leaders, aftermath
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — centres, leaders, aftermath</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Centre ↔ leader
 
@@ -114,6 +115,8 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 | Peel Commission army reorg | Europeans ↑, Indians ↓; Gurkha–Sikh–Punjabi recruitment |
 | Symbols | **Lotus** and **chapatis** |
 | British PM (1857) | **Palmerston** |
+
+</details>
 
 ---
 

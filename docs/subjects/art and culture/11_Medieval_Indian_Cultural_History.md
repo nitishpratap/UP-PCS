@@ -71,7 +71,8 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 
 </details>
 
-## Must-score facts — painting, architecture, admin culture
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — painting, architecture, admin culture</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Painting / books
 
@@ -100,6 +101,8 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 | Mansab | Zat + sawar (not originally hereditary) |
 | Zabt / Dahsala | Measurement / Todar Mal 10-year average (~1580) |
 | Dam | Copper coin (मुद्रा) Sher Shah → Akbar |
+
+</details>
 
 ---
 

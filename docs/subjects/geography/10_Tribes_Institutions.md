@@ -99,7 +99,8 @@ Masai habitat (वास स्थान) remains **East Africa**. Do not “upd
 
 </details>
 
-## Must-score facts — tribe↔state, PVTG, institutes
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — tribe↔state, PVTG, institutes</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Frame
 
@@ -137,6 +138,8 @@ Masai habitat (वास स्थान) remains **East Africa**. Do not “upd
 | CISH | **Lucknow** (लखनऊ); CSAUAT **Kanpur** (कानपुर) |
 | FRA | **2006** |
 | Janjatiya Gaurav Diwas | **15 Nov** (Birsa birth) |
+
+</details>
 
 ---
 

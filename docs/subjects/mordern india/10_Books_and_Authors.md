@@ -70,7 +70,8 @@ Books and Authors | History (इतिहास) Books | Books on Freedom Moveme
 
 </details>
 
-## Must-score facts — author ↔ definitive book
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — author ↔ definitive book</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Author | Definitive book(s) | Never confuse with |
 |--------|----------------------|----------------------|
@@ -95,6 +96,8 @@ Books and Authors | History (इतिहास) Books | Books on Freedom Moveme
 - Bhojpuri literature stays a **UP-focus block** here — do not scatter it into the socio-religious reform topic.
 
 > **Logic:** Any twin pair above (same author, two books) is a **standing UPPCS trap**. Learn the pair, not just one title.
+
+</details>
 
 ---
 

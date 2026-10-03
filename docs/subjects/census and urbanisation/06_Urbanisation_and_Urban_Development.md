@@ -86,7 +86,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Census Classification of Towns and Size-Classes in India (Census 2011)
 
@@ -125,6 +126,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **Pradhan Mantri Awas Yojana - Urban (PMAY-U)** | **25 June 2015** (MoHUA) | Provide all-weather pucca houses to all eligible urban households ("Housing for All"). | Four implementation verticals:<br>1. **ISSR**: In-situ Slum Redevelopment with private participation.<br>2. **CLSS**: Credit Linked Subsidy Scheme on home loan interest.<br>3. **AHP**: Affordable Housing in Partnership with public/private sectors.<br>4. **BLC**: Beneficiary-led individual house construction. |
 | **Swachh Bharat Mission - Urban (SBM-U)** | **2 October 2014** (MoHUA) | Eliminate open defecation, achieve 100% scientific municipal solid waste management, and promote behavioral change. | Certified cities as **ODF, ODF+, ODF++, and Water+**. **SBM-U 2.0 (2021)** targets making all Indian cities completely **"Garbage Free"** with Star Ratings. |
 | **PM SVANidhi** | **1 June 2020** (MoHUA) | Micro-credit facility providing affordable, collateral-free working capital loans to **urban street vendors** affected by COVID-19. | Initial loan of Rs 10,000 (escalating to Rs 20,000 and Rs 50,000 upon timely repayment) with **7% interest subvention** and cashback on digital transactions. |
+
+</details>
 
 ---
 

@@ -62,7 +62,8 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit (प�
 
 </details>
 
-## Must-score facts — PSR, NAMP, audit, BOD
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — PSR, NAMP, audit, BOD</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Tools
 
@@ -78,6 +79,8 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit (प�
 | Form V | EPA Rule 14 Environmental Statement → SPCB yearly |
 | ISO 14001 | EMS standard |
 | Monitoring ≠ audit | Repeated measurement / compliance verification |
+
+</details>
 
 ---
 

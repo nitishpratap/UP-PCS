@@ -69,7 +69,8 @@ UNEP (संयुक्त राष्ट्र पर्यावरण क�
 
 </details>
 
-## Must-score facts — UNEP UNDP IUCN IPCC HQs
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — UNEP UNDP IUCN IPCC HQs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Org ↔ HQ / product
 
@@ -84,6 +85,8 @@ UNEP (संयुक्त राष्ट्र पर्यावरण क�
 | IPCC | Geneva; WMO+UNEP 1988; Nobel 2007 |
 | IUCN ≠ CITES | Risk assess / trade regulate |
 | GEF | **1991** multilateral funder |
+
+</details>
 
 ---
 

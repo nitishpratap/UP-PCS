@@ -140,7 +140,8 @@
 
 </details>
 
-## Must-score facts — Acts, missions, CA dates
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Acts, missions, CA dates</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Act ↔ year / lock
 
@@ -176,6 +177,8 @@
 | Concurrent List | **Australia** |
 | Fundamental Rights | **USA** |
 | DPSP | **Ireland** |
+
+</details>
 
 ---
 

@@ -66,7 +66,8 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 </details>
 
-## Must-score facts — habitat, flora–fauna, schemes
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — habitat, flora–fauna, schemes</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Tags
 
@@ -86,6 +87,8 @@ Habitat | Habitat Conservation | Flora and Fauna
 | MISHTI | Mangrove initiative; Budget **2023–24** (≠ 2019) |
 | NUHHP | Urban Housing & Habitat Policy **2007** |
 | Chronology | JNNURM 2005 → NUHHP 2007 → AMRUT 2015 → JJM 2019 |
+
+</details>
 
 ---
 

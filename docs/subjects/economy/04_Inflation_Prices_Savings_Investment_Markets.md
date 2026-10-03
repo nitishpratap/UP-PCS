@@ -104,7 +104,8 @@ Monetary-policy tools (repo, CRR, MPC) stay in Economy Topic 3. External exchang
 
 </details>
 
-## Must-score drill — indices and effects
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — indices and effects</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Item | Tag |
 |---|---|
@@ -118,6 +119,8 @@ Monetary-policy tools (repo, CRR, MPC) stay in Economy Topic 3. External exchang
 | Money vs capital market | Short vs long term |
 | SEBI | Securities regulator |
 | S = I teaching | Savings finance investment |
+
+</details>
 
 ---
 

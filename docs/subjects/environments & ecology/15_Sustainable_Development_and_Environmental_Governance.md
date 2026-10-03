@@ -74,7 +74,8 @@
 
 </details>
 
-## Must-score facts — Brundtland, SDGs, NITI Index
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Brundtland, SDGs, NITI Index</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Spine
 
@@ -88,6 +89,8 @@
 | Conference chain | Stockholm 72 → Brundtland 87 → Rio 92 → SDGs 15 |
 | Agenda 21 | Rio **1992** (≠ 1995) |
 | NITI SDG Index top | Kerala repeatedly first; HP/TN near top |
+
+</details>
 
 ---
 

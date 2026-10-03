@@ -82,7 +82,8 @@
 
 </details>
 
-## Must-score facts — FR groups, writs, DPSP, Duties
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — FR groups, writs, DPSP, Duties</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Citizens-only vs all persons
 
@@ -124,6 +125,8 @@
 | 48A + 51A(g) | Environment in **both** Parts |
 | Duties | **42nd** (10) + **86th** 51A(k); **vote is NOT a Duty** |
 | Monuments | DPSP **49** (not a Duty) |
+
+</details>
 
 ---
 

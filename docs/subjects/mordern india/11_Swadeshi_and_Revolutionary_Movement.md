@@ -86,7 +86,8 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 
 </details>
 
-## Must-score facts — partition, orgs, chronology
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — partition, orgs, chronology</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Year ↔ event
 
@@ -137,6 +138,8 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 | Punjab | Ghadar / HSRA / Lahore |
 | UP | Kakori / Shahjahanpur / Allahabad |
 | Abroad | India House (London); Ghadar (N. America); Berlin **1915** |
+
+</details>
 
 ---
 

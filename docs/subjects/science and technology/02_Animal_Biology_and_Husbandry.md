@@ -111,7 +111,8 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 
 </details>
 
-## Must-Score Drill — Phyla, Breeds & Products
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Drill — Phyla, Breeds & Products</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Major Invertebrate & Vertebrate Phyla
 
@@ -164,6 +165,8 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 | **Poultry** | **Kadaknath** | Jhabua, Dhar (Madhya Pradesh) | Melanin pigment turns meat, bones, and organs jet black (GI tag) |
 | **Poultry** | **Aseel** | Andhra Pradesh / Telangana | Muscular game bird renowned for courage and stamina in fights |
 | **Poultry (Exotic)**| **White Leghorn** | Italy | Most popular commercial egg-laying bird (layer) globally |
+
+</details>
 
 ---
 

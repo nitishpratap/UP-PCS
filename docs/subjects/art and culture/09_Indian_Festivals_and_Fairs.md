@@ -77,7 +77,8 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 
 </details>
 
-## Must-score facts — Kumbh, harvest, UNESCO, UP
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Kumbh, harvest, UNESCO, UP</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Kumbh / fairs
 
@@ -107,6 +108,8 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 **Prayagraj Kumbh/Magh · Braj Holi · Ramlila · Chhath · Deva Mela (Barabanki) · Bateshwar (Agra)**
 
 Not UP: Pushkar, Surajkund, Onam, Hornbill, Kullu Dussehra.
+
+</details>
 
 ---
 

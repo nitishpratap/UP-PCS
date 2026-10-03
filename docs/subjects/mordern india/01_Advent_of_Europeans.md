@@ -101,7 +101,8 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 
 </details>
 
-## Must-score facts — settlements, founders, wars
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — settlements, founders, wars</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Founders of Cities
 
@@ -172,6 +173,8 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 | First Printing Press setup in Goa | **1556** |
 | Hooghly crushed by Shah Jahan | **1632** |
 | Goa liberated (Operation Vijay) | **1961** |
+
+</details>
 
 ---
 

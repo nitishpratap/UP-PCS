@@ -82,7 +82,8 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 </details>
 
-## Must-score facts — capitals, UP list, Magadha order
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — capitals, UP list, Magadha order</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Master Table — All 16 Mahajanapadas (सोलह महाजनपद)
 
@@ -131,6 +132,8 @@ The **Sutta Pitaka** (doctrine & dialogues of Buddha, recited by **Ananda** at t
 | **5. Khuddaka Nikaya** (खुद्दक निकाय) | *Minor Collection* (15 distinct poetic & narrative books) | • **Jatakas** (547 stories of Buddha's previous births)<br>• **Dhammapada** (423 verses of moral wisdom)<br>• **Theragatha** (verses of elder monks)<br>• **Therigatha** (verses of elder nuns - earliest women's poetry)<br>• Sutta Nipata, Khuddakapatha | UPPCS 2008 / Mains: Jatakas & Therigatha belong to Khuddaka Nikaya |
 
 ---
+
+</details>
 
 ---
 

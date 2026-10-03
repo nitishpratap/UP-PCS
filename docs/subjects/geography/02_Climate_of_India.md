@@ -149,7 +149,8 @@ D. Mistral
 
 </details>
 
-## Must-score facts — seasons, monsoon, onset
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — seasons, monsoon, onset</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Frame
 
@@ -181,6 +182,8 @@ D. Mistral
 | Tamil Nadu SE coast | **Dry in SW monsoon**; rain in **NE monsoon** (उत्तर-पूर्व मानसून) |
 | Active vs break | Trough on Ganga plain vs shift to Himalaya foothills |
 | Plains rain | Declines **east → west** |
+
+</details>
 
 ---
 

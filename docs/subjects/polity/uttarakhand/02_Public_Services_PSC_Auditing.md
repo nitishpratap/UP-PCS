@@ -28,7 +28,8 @@
 
 ---
 
-## Must-Score Facts
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. UKPSC = state PSC.
 2. Advocate General ≠ Attorney General of India.
@@ -47,6 +48,8 @@
 | Advocate General vs Attorney General | State (**Art. 165**) vs Union (**Art. 76**) |
 | AG vs Governor’s private counsel | AG is the State’s constitutional law officer |
 | State Finance Commission vs UKPSC | Different bodies — do not merge “first” chairs |
+
+</details>
 
 </details>
 

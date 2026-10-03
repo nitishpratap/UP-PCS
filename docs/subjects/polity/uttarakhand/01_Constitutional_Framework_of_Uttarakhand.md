@@ -34,7 +34,8 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Facts (High-Yield UKPCS)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Assembly Reservation Architecture:**  
    $$\text{Total Seats: 70} = \text{General (55)} + \text{SC Reserved (13)} + \text{ST Reserved (2: Chakrata \& Nanakmatta)}$$
@@ -43,6 +44,8 @@
 3. **State Executive Composition (UKPCS 2025 Q139):** The executive consists of the Governor (Head of State under Article 153/154) and the Council of Ministers headed by the Chief Minister (Article 163/164). Both arms are co-constitutive of the executive branch.
 4. **Harbans Kapoor Record (UKPCS 2025 Q141):** Senior Dehradun legislator who uniquely discharged the duties of **Speaker** (2007–2012) and **Protem Speaker** on more than one occasion in the Uttarakhand Assembly.
 5. **N. D. Tiwari Landmark:** The only Chief Minister in the entire history (इतिहास) of Uttarakhand to complete an unbroken full 5-year tenure (2002 to 2007).
+
+</details>
 
 ---
 

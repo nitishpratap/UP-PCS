@@ -104,7 +104,8 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
 
 </details>
 
-## Must-Score Drill — Digestive Juices, Lung Volumes & Nephron Functions
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Drill — Digestive Juices, Lung Volumes & Nephron Functions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Complete Alimentary Canal Enzymes Master Reference
 
@@ -145,6 +146,8 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
 | **Ascending Limb of Henle** | Thick cuboidal epithelium | **Active electrolyte pumping** | Impermeable to water; actively pumps $Na^+, K^+, Cl^-$ into medullary interstitium |
 | **Distal Convoluted Tubule (DCT)** | Simple cuboidal epithelium | **Conditional reabsorption** | Facultative water reabsorption under **ADH**; $Na^+$ reabsorption under **Aldosterone** |
 | **Collecting Duct** | Simple columnar epithelium | **Final urine concentration** | Water reabsorption under ADH; secretes $H^+, K^+$ to regulate blood pH |
+
+</details>
 
 ---
 

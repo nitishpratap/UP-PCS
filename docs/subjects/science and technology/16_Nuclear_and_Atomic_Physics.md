@@ -108,7 +108,8 @@
 
 </details>
 
-## Must-Score Master Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Master Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Operating Nuclear Power Stations in India
 
@@ -149,6 +150,8 @@
 | **Ionizing Power** | **Highest (10,000)** | Moderate (100) | Lowest (1) |
 | **Penetrating Power**| **Lowest (stopped by paper / skin)**| Moderate (stopped by few mm aluminium)| **Highest (requires thick lead/concrete)**|
 | **Deflection in Fields**| Deflected slightly towards negative plate| Deflected strongly towards positive plate| **No deflection in electric/magnetic fields**|
+
+</details>
 
 ---
 

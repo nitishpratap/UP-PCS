@@ -104,7 +104,8 @@ Million-city **population (जनसंख्या) ranks**. Missions and settl
 
 </details>
 
-## Must-score facts — approaches, settlements, activities
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — approaches, settlements, activities</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Nature & scope
 
@@ -122,6 +123,8 @@ Million-city **population (जनसंख्या) ranks**. Missions and settl
 | Rural patterns | Compact, dispersed, linear, circular |
 | Urban functions | Administrative, industrial, commercial, transport, garrison |
 | Primate city / rank-size | Coaching definitions |
+
+</details>
 
 ---
 

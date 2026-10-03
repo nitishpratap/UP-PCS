@@ -129,7 +129,8 @@
 
 </details>
 
-## Must-score facts — profile, types, doab (दोआब) belts
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — profile, types, doab (दोआब) belts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Profile / terms
 
@@ -157,6 +158,8 @@
 | Black / regur | Deccan Trap; cotton soil |
 | Laterite | High rain leaching; brick-like |
 | Red & yellow | Crystalline parent |
+
+</details>
 
 ---
 

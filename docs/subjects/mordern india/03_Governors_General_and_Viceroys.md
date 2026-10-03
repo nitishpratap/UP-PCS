@@ -92,7 +92,8 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 
 </details>
 
-## Must-score facts — GG/Viceroy ↔ reform / war / Act
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — GG/Viceroy ↔ reform / war / Act</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### GG ↔ reform (match home)
 
@@ -190,6 +191,8 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | Cornwallis tomb | **Ghazipur (UP)**, died **5 Oct 1805** |
 | Asiatic Society | **15 Jan 1784**, Calcutta, under Warren Hastings (founder **Jones**) |
 | Muir Central College (म्योर) | Established at **Allahabad in 1872** (William Muir, Northbrook era) |
+
+</details>
 
 ---
 

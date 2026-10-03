@@ -86,7 +86,8 @@
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Ancient & Medieval Historical Sites, Dynasties and Monuments in Uttar Pradesh
 
@@ -152,6 +153,8 @@
 | **Major Fair** | **Dadri Fair** | **Ballia** | Dedicated to Sage Bhrigu | **Second largest cattle fair in India** (after Sonepur); held annually on Kartik Purnima. |
 | **Major Fair** | **Nauchandi Fair** | **Meerut** | Symbol of communal harmony | Month-long post-Holi fair celebrating both Navchandi Devi Temple and Saint Bale Miyan Dargah. |
 | **Major Fair** | **Dewa Sharif Fair** | **Dewa (Barabanki)** | Dargah of Haji Waris Ali Shah | Celebrated during Safar/Kartik; promotes universal brotherhood (*Jo Rab Hai Wahi Ram Hai*). |
+
+</details>
 
 ---
 

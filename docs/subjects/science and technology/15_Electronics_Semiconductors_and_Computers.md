@@ -136,7 +136,8 @@
 
 </details>
 
-## Must-Score Master Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Master Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Computer Generations Summary Matrix
 
@@ -198,6 +199,8 @@
 | **PARAM Shivay** | IIT-BHU | $833\text{ TFLOPS}$ | First supercomputer installed under NSM |
 | **Pratyush & Mihir** | IITM Pune & NCMRWF Noida | $6.8\text{ Petaflops}$ (Combined)| Monsoon forecasting, cyclone prediction, climate research |
 | **ANUPAM Series** | Bhabha Atomic Research Centre (BARC) | Multi-node parallel systems | Nuclear reactor design, molecular dynamics, atomic research |
+
+</details>
 
 ---
 

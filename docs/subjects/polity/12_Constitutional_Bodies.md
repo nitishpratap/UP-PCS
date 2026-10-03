@@ -86,7 +86,8 @@
 
 </details>
 
-## Must-score facts — EC, UPSC, CAG, FC
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — EC, UPSC, CAG, FC</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### What is a constitutional body?
 
@@ -105,6 +106,8 @@ Created by the **Constitution**; often charged expenditure; removal harder than 
 | CAG | Arts. **148–151**; 6 years / age 65 |
 | Finance Commission | Art. **280** |
 | National Commission for SCs/STs/BCs | Constitutional (related Articles 338 etc.) |
+
+</details>
 
 ---
 

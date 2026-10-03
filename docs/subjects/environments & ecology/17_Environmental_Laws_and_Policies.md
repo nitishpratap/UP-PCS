@@ -70,7 +70,8 @@
 
 </details>
 
-## Must-score facts — act years, articles, clearances
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — act years, articles, clearances</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Act chain
 
@@ -88,6 +89,8 @@
 ---
 
 ![India Environmental Legal Architecture & Statutory Chronology](images/env_ch17_01_india_environmental_legislation_timeline.png)
+
+</details>
 
 ## 17.1 Environmental Law (Constitutional Framework)
 

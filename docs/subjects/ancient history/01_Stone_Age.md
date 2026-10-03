@@ -88,7 +88,8 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 
 </details>
 
-## Must-score facts — period, site, excavator
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — period, site, excavator</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Period ↔ tool / economy
 
@@ -127,6 +128,8 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 ### UP Stone Age cluster
 
 **Belan** (Chopani Mando, Koldihwa, Mahagara) · **Lahuradewa** · Pratapgarh Mesolithic · **Morhana Pahar** · **Lekhahia**
+
+</details>
 
 ---
 

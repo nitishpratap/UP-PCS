@@ -112,7 +112,8 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 
 </details>
 
-## Must-score facts — rain ladder, hotspots, zones
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — rain ladder, hotspots, zones</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Rain ↔ forest
 
@@ -133,6 +134,8 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 | Chir pine belt | W. Himalaya ~**1000–2000 m** |
 | Realms | Palearctic (Himalaya) + Indomalayan |
 | Biogeographic zones | About **10** zones |
+
+</details>
 
 ---
 

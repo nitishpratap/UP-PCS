@@ -86,7 +86,8 @@ Governor | Governor's Discretionary Powers | Absolute (निरपेक्ष)
 
 </details>
 
-## Must-score facts — Governor, CM, AG, legislature
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Governor, CM, AG, legislature</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Governor
 
@@ -113,6 +114,8 @@ Governor | Governor's Discretionary Powers | Absolute (निरपेक्ष)
 | Advocate General | Art. **165**; HC-judge qualification |
 | Bicameral States | Include UP (Council exists) |
 | Money Bill in State | Similar Speaker role; Council limited time |
+
+</details>
 
 ---
 

@@ -86,7 +86,8 @@ None mandatory.
 
 </details>
 
-## Must-score facts — city–industry, canals, winds
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — city–industry, canals, winds</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### City ↔ industry
 
@@ -119,6 +120,8 @@ None mandatory.
 | Mistral | S. France (**≠ Australia**) |
 | Footloose | Electronics; aluminium seeks hydel; steel seeks ore+coal |
 | Entrepôt | Singapore, Rotterdam, Hong Kong |
+
+</details>
 
 ---
 

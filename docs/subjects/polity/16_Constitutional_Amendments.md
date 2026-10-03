@@ -121,7 +121,8 @@ D. 86th Constitutional Amendment Act, 2002
 
 </details>
 
-## Must-score facts — 368 lanes, landmark Amendments
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — 368 lanes, landmark Amendments</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Amendment lanes (Art. 368 / outside)
 
@@ -150,6 +151,8 @@ D. 86th Constitutional Amendment Act, 2002
 | 101st | GST |
 | 103rd | EWS |
 | 104th | Anglo-Indian LS nomination ended |
+
+</details>
 
 ---
 

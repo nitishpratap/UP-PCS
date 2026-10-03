@@ -117,7 +117,8 @@ D. South Africa
 
 </details>
 
-## Must-score facts — coalfields, ores, energy types
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — coalfields, ores, energy types</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Coalfield ↔ country
 
@@ -149,6 +150,8 @@ D. South Africa
 | Natural gas main | **Methane** |
 | LPG ≠ CNG | Different fuel forms |
 | Nuclear / geothermal | **Not** “stored solar” |
+
+</details>
 
 ---
 

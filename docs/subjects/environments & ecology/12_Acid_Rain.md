@@ -65,7 +65,8 @@ Acid Rain | Causes | Effects | Prevention
 
 </details>
 
-## Must-score facts — pH, acids, Taj, Gothenburg
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — pH, acids, Taj, Gothenburg</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Chemistry
 
@@ -83,6 +84,8 @@ Acid Rain | Causes | Effects | Prevention
 ---
 
 ![Acid Rain Pathways Landscape Profile & Taj Mahal Stone Cancer](images/env_ch12_01_acid_rain_mechanisms_impacts.png)
+
+</details>
 
 ## 12.1 Acid Rain
 

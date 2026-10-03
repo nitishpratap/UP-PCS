@@ -71,7 +71,8 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 </details>
 
-## Must-score facts — Arts. 1–4, SRC, citizenship
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Arts. 1–4, SRC, citizenship</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Article & Constitutional Tags
 
@@ -106,6 +107,8 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 | **Loss (3 modes)** | Renunciation, termination (automatic on foreign passport), deprivation (Central order) |
 | **Pravasi Bh. Divas** | **9 Jan**; L.M. Singhvi Committee (2000) recommendation |
 | **CAA 2019** | 6 minority religions from Pak, Afghan, Bangladesh entering before **31 Dec 2014** |
+
+</details>
 
 ---
 

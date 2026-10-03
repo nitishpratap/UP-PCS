@@ -92,7 +92,8 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 
 </details>
 
-## Must-score facts — kings, coins, admin, travellers
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — kings, coins, admin, travellers</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Imperial line
 
@@ -138,6 +139,8 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 | Nilaraja | Avamukta |
 | Ugrasena | Palaka |
 | Vishnugopa | **Kanchi** (कांची) |
+
+</details>
 
 ---
 

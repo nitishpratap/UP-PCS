@@ -111,7 +111,8 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 
 </details>
 
-## Must-score facts — hazard types, DM cycle, India belts
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — hazard types, DM cycle, India belts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Terms
 
@@ -131,6 +132,8 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 | Flood | Ganga–Brahmaputra plains; flash floods hills |
 | Drought | Rain-shadow / arid west; monsoon failure |
 | Landslide | Himalaya / WG steep slopes |
+
+</details>
 
 ---
 

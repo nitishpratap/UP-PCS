@@ -78,7 +78,8 @@ Global Warming (भूमंडलीय तापन) | Greenhouse Effect | Gre
 
 </details>
 
-## Must-score facts — warming, GHGs, sinks
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — warming, GHGs, sinks</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Frame
 
@@ -94,6 +95,8 @@ Global Warming (भूमंडलीय तापन) | Greenhouse Effect | Gre
 | India rank / Bhutan | ~3rd absolute (निरपेक्ष) / often carbon-negative |
 | Sink / sequestration | Net CO₂ absorb / storage process |
 | Blue carbon | Ocean–coastal sinks (mangroves etc.) |
+
+</details>
 
 ---
 

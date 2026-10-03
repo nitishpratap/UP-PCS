@@ -107,7 +107,9 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 </details>
 
-## Must-score facts — revolt ↔ leader ↔ year
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — revolt ↔ leader ↔ year</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+
 ### Peasant / tribal revolt (जनजातीय) fact table
 
 | Revolt | Year | Leader | Region |
@@ -156,6 +158,8 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 - **Champaran / Kheda / Bardoli satyagraha mechanics** = home here. Gandhi's **broader constructive programme** = home in Topic 13.
 
 > **Logic:** If the stem says **Nizam / Razakars / dalams**, fact **Telangana 1946–51** (तेलंगाना), closing on the **CPI's 1951 withdrawal**, not the 1948 Police Action.
+
+</details>
 
 ---
 

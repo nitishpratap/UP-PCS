@@ -127,7 +127,8 @@ D. Gopi Aqua vs. Union of India
 
 </details>
 
-## Must-score facts — case ↔ holding
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — case ↔ holding</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Amendment / Basic Structure chain
 
@@ -153,6 +154,8 @@ D. Gopi Aqua vs. Union of India
 ### Order trap
 
 **1951 → 1965 → 1967 → 1973** (*Shankari → Sajjan → Golaknath → Kesavananda*)
+
+</details>
 
 ---
 

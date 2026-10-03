@@ -86,7 +86,8 @@
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Flagship Government Welfare Schemes & Mission Programmes of Uttar Pradesh
 
@@ -148,6 +149,8 @@
 | **First Modern Sugar Mill** | Industrial History | **Pratappur (Deoria)** | • Established in **1903**, pioneering the modern vacuum-pan sugar industry in India. |
 | **First Access-Controlled Expressway** | Road Infrastructure | **Yamuna Expressway** | • 165-km 6-lane expressway connecting Greater Noida to Agra (operational 2012). |
 | **First UNESCO Intangible Cultural Heritage from UP** | Global Cultural Recognition | **Ramnagar Ramlila** (2008) & **Kumbh Mela** (2017) | • Inscribed on UNESCO's Representative List of Intangible Cultural Heritage of Humanity. |
+
+</details>
 
 ---
 

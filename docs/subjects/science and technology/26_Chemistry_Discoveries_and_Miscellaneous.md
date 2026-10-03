@@ -149,7 +149,8 @@ Foundational Chemists & Historical Discoveries (Lavoisier, Dalton, Priestley, Ca
 
 </details>
 
-## Master Reference Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Master Reference Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Master Dictionary of Chemical Common / Trade Names
 
@@ -190,6 +191,8 @@ Foundational Chemists & Historical Discoveries (Lavoisier, Dalton, Priestley, Ca
 | **Calgon Process** | Permanent & Temporary | Sodium Hexametaphosphate ($Na_6P_6O_{18}$) | $2Ca^{2+} + [Na_4P_6O_{18}]^{2-} \to [Ca_2P_6O_{18}]^{2-} + 4Na^+$ | Sequestration; no precipitate formed. |
 | **Permutit / Zeolite Process** | Permanent & Temporary | Sodium Aluminium Silicate ($Na_2\text{Ze}$) | $Ca^{2+} + Na_2\text{Ze} \to Ca\text{Ze} + 2Na^+$ | Regenerated with $10\%$ brine ($NaCl$). |
 | **Synthetic Resins** | Complete Demineralization | Cation ($R-H$) & Anion ($R-OH$) resins | $2R-H + Ca^{2+} \to R_2Ca + 2H^+$; $R-OH + Cl^- \to R-Cl + OH^-$ | Produces ultra-pure deionized water. |
+
+</details>
 
 ---
 

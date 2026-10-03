@@ -133,7 +133,8 @@ Newest first. One event, one fact.
 
 </details>
 
-## Must-score facts — Panchsheel, UN, groupings
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Panchsheel, UN, groupings</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### India doctrine tags
 
@@ -153,6 +154,8 @@ Newest first. One event, one fact.
 | NATO | **4 Apr 1949**; Art. 5; HQ Brussels |
 | QUAD | India–Japan–US–Australia (dialogue) |
 | AUKUS | Australia–UK–US **2021** (subs) |
+
+</details>
 
 ---
 

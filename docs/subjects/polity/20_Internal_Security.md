@@ -106,7 +106,8 @@ Newest first. One event, one fact — not a dump of keywords.
 
 </details>
 
-## Must-score facts — agencies, CAPF, NSC
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — agencies, CAPF, NSC</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Division of labour
 
@@ -127,6 +128,8 @@ Newest first. One event, one fact — not a dump of keywords.
 | CBI | Interpol NCB India; BHARATPOL channel |
 | NSC | **1998**; Chair **PM**; first NSA **Brajesh Mishra** |
 | CCS (सुरक्षा कैबिनेट समिति) | Cabinet committee (≠ NSC) |
+
+</details>
 
 ---
 

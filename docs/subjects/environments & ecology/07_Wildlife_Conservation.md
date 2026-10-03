@@ -108,7 +108,8 @@ Wildlife Conservation | Wildlife Protection (वन्यजीव सुरक�
 
 </details>
 
-## Must-score facts — projects, schedules, NTCA
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — projects, schedules, NTCA</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Law / schedules
 
@@ -130,6 +131,8 @@ Wildlife Conservation | Wildlife Protection (वन्यजीव सुरक�
 | IRV 2020 | Rhino recovery; includes **Dudhwa** |
 | Project Snow Leopard / GSLEP | **2009** / **2013** (no UP habitat) |
 | Vulture plan / diclofenac ban | **2006** / **2006** |
+
+</details>
 
 ---
 

@@ -175,7 +175,8 @@
 
 </details>
 
-## Must-Score Master Tables: Periodic Reference & Abundance
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Master Tables: Periodic Reference & Abundance</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Fundamental Subatomic Particles & Atomic Dimensions
 
@@ -271,6 +272,8 @@
 | **6** | Sodium (Na) | $2.8\\%$ | Phosphorus (P) | $1.0\\%$ | ATP and bone mineral phosphates. |
 | **7** | Potassium (K) | $2.6\\%$ | Potassium (K) | $0.4\\%$ | Major intracellular cation. |
 | **8** | Magnesium (Mg) | $2.1\\%$ | Sulfur (S) | $0.3\\%$ | Disulfide bridges in protein keratin. |
+
+</details>
 
 ---
 

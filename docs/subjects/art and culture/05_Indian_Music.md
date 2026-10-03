@@ -86,7 +86,8 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 
 </details>
 
-## Must-score facts — forms, treatises, gharanas
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — forms, treatises, gharanas</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Frame
 
@@ -120,9 +121,9 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 | Agra / Kirana | Agra city UP / Kirana village |
 | Patiala / Jaipur–Atrauli / Maihar | Bade Ghulam Ali / Kishori Amonkar / Allauddin Khan |
 
+</details>
+
 ---
-
-
 
 ## 5.1 Indian Music
 

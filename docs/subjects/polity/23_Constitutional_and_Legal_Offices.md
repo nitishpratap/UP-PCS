@@ -109,7 +109,8 @@ Sitting (बैठक) AG / CAG / SG names are **CA colour** — don’t raata a
 
 </details>
 
-## Must-score facts — AG, SG, AdvG, CAG
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — AG, SG, AdvG, CAG</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Union law officers
 
@@ -128,6 +129,8 @@ Sitting (बैठक) AG / CAG / SG names are **CA colour** — don’t raata a
 | “AdvG of India” | **Does not exist** |
 | CAG | Arts. **148–151**; 6 yrs / age 65 |
 | CAG oath / salary | Third Schedule; Second Schedule; charged |
+
+</details>
 
 ---
 

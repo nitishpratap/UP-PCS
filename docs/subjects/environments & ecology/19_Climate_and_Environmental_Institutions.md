@@ -65,7 +65,8 @@ IPCC (आईपीसीसी) | UNEP (संयुक्त राष्ट्
 
 </details>
 
-## Must-score facts — IPCC, UNEP, IUCN HQs & reports
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — IPCC, UNEP, IUCN HQs & reports</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### HQ / product
 
@@ -79,6 +80,8 @@ IPCC (आईपीसीसी) | UNEP (संयुक्त राष्ट्
 | FAO | Rome; SOFO |
 | Threatened | VU + EN + CR |
 | IPCC ≠ UNFCCC | Science assessment ≠ climate treaty/COP |
+
+</details>
 
 ---
 

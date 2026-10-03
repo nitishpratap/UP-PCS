@@ -72,7 +72,8 @@ Maratha (मराठा) Empire | Shivaji (शिवाजी) | Administrative
 
 </details>
 
-## Must-score facts — Ashtapradhan, Peshwa, battles
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Ashtapradhan, Peshwa, battles</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Ashtapradhan portfolio
 
@@ -126,6 +127,8 @@ Maratha (मराठा) Empire | Shivaji (शिवाजी) | Administrative
 | Holkar | **Indore** |
 | Gaekwad | **Baroda** |
 | Bhonsle | **Nagpur** |
+
+</details>
 
 ---
 

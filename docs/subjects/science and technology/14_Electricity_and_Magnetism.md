@@ -114,7 +114,8 @@
 
 </details>
 
-## Must-Score Master Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Master Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Electrical & Magnetic Units and Dimensions
 
@@ -142,6 +143,8 @@
 | **Average Lifespan** | $\sim 1,000\text{ hours}$ | $\sim 8,000\text{ hours}$ | $6,000 - 15,000\text{ h}$ | **$50,000 - 100,000\text{ h}$** |
 | **Environmental Hazard**| Minimal (inert gas) | Contains toxic mercury | Contains toxic mercury | **Zero toxic mercury** |
 | **Radiation Pattern** | Omnidirectional ($360^\circ$) | Cylindrical | Omnidirectional | Directional ($180^\circ$) |
+
+</details>
 
 ---
 

@@ -108,7 +108,8 @@ None mandatory — static world-map chapter. No living scheme tag.
 
 </details>
 
-## Must-score facts — continents, mountains, grasslands
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — continents, mountains, grasslands</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Continent area (large → small)
 
@@ -136,6 +137,8 @@ None mandatory — static world-map chapter. No living scheme tag.
 | Llanos | Venezuela–Colombia |
 | Puszta | Hungary |
 | Prairie / Steppe / Veld | N. America / Eurasia / S. Africa |
+
+</details>
 
 ---
 

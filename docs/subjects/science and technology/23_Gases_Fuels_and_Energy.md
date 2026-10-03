@@ -176,7 +176,8 @@ Fuel Taxonomy (Solid, Liquid, Gaseous) | Calorific Value Hierarchy (Hydrogen Hig
 
 </details>
 
-## Master Reference Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Master Reference Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Master Matrix of Gaseous Fuels (NCERT / Lucent Standard)
 
@@ -233,6 +234,8 @@ Fuel Taxonomy (Solid, Liquid, Gaseous) | Calorific Value Hierarchy (Hydrogen Hig
 | **Innermost Zone** | Surrounding the cotton wick | Zero (No Oxygen) | Unburnt paraffin wax vapors | **Lowest Temperature (Coolest zone)** | Black / Dark | Wax melts and rises by capillary action |
 | **Middle Luminous Zone** | Central broad region | Insufficient / Restricted | Incomplete combustion of wax | Moderate Temperature | Bright Yellow | Incandescent unburnt carbon soot particles emit light |
 | **Outermost Zone** | Thin exterior envelope | Excess / Abundant | Complete combustion into $CO_2 + H_2O$ | **Highest Temperature (Hottest zone)** | Blue / Non-luminous | Goldsmiths blow air here to melt gold/silver |
+
+</details>
 
 ---
 

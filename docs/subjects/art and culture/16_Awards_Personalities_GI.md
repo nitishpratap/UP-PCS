@@ -123,7 +123,8 @@ D. Lazzatnama (लज़्ज़तनामा)
 
 </details>
 
-## Must-score facts — akademis, Bharat Ratna, GI
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — akademis, Bharat Ratna, GI</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Three Culture akademis (Rabindra Bhavan)
 
@@ -152,6 +153,8 @@ D. Lazzatnama (लज़्ज़तनामा)
 | First Indian GI | Darjeeling Tea teaching |
 | UP culture GIs | Banarasi brocade; Chikankari |
 | Blue Pottery | **Jaipur** (≠ UP) |
+
+</details>
 
 ---
 

@@ -28,7 +28,8 @@
 
 ---
 
-## Must-Score Facts
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Consolidated Fund ≠ Contingency Fund.
 2. Contingency Fund = unforeseen advances (Art. 267(2) idea).
@@ -47,6 +48,8 @@
 | State Finance Commission vs Finance Commission of India | Local devolution vs Centre–State finance |
 | SEC vs ECI | Local elections vs Parliament / Assembly (ECI for Assembly) |
 | First SFC Chair = first CM automatically | Test the pair; 2025 did not key Swami as SFC chair |
+
+</details>
 
 </details>
 

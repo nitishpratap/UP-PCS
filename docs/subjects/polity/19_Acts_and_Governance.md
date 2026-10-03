@@ -99,7 +99,8 @@
 
 </details>
 
-## Must-score facts — key Acts & chairs
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — key Acts & chairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Act ↔ lock
 
@@ -120,6 +121,8 @@
 |------|------|
 | NITI (नीति) Aayog (नीति आयोग) | 2015; think-tank; replaced Planning Commission (योजना आयोग) |
 | GST (वस्तु एवं सेवा कर) | 101st Amd; GST Council (जीएसटी परिषद) |
+
+</details>
 
 ---
 

@@ -68,7 +68,8 @@ Acid Rain | Causes | Effects | Prevention
 
 </details>
 
-## Must-score facts — pH, Taj Trapezium, protocols
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — pH, Taj Trapezium, protocols</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Locks
 
@@ -81,6 +82,8 @@ Acid Rain | Causes | Effects | Prevention
 | Taj Trapezium | Pollution-control belt for Taj |
 | Gothenburg/CLRTAP | Acidifying air (≠ Montreal ozone) |
 | Prevention | FGD, converters, BS-VI, cleaner fuel |
+
+</details>
 
 ---
 

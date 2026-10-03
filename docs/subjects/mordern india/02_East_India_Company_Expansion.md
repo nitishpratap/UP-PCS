@@ -135,7 +135,8 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey (
 
 </details>
 
-## Must-score facts — treaties, battles, GG tags
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — treaties, battles, GG tags</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Treaty ↔ Year
 
@@ -307,6 +308,8 @@ D. I, II, III, IV
 | Mudki | **1845** | 1st Anglo-Sikh |
 
 **Ans: B** — III, IV, II, I.
+
+</details>
 
 </details>
 

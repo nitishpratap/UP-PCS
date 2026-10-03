@@ -143,7 +143,8 @@ Blood Composition (Plasma, Albumin, Globulin, Fibrinogen) | Formed Elements: Ery
 
 </details>
 
-## Must-Score Drill — Chambers, Blood Groups & Vessels
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Drill — Chambers, Blood Groups & Vessels</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Vertebrate Heart Chambers Master Summary
 
@@ -181,6 +182,8 @@ Blood Composition (Plasma, Albumin, Globulin, Fibrinogen) | Formed Elements: Ery
 | **Pulmonary Veins (4)**| **Oxygenated** | Lungs (Alveoli) | Left Atrium | **Only veins carrying oxygenated blood** |
 | **Hepatic Portal Vein** | Deoxygenated (Nutrient-rich)| Gastrointestinal Tract | Liver Sinusoids | Connects two capillary networks |
 | **Coronary Arteries** | Oxygenated | Root of Aorta | Myocardium of Heart | Supplies heart muscle directly |
+
+</details>
 
 ---
 

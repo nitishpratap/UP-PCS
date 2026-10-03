@@ -127,7 +127,8 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 
 </details>
 
-## Must-score facts — agents, landforms, rocks
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — agents, landforms, rocks</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Endogenic / exogenic
 
@@ -150,6 +151,8 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 ### Rock cycle
 
 **Igneous → Sedimentary → Metamorphic** (with melting / uplift loops)
+
+</details>
 
 ---
 

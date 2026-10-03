@@ -85,7 +85,8 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 
 </details>
 
-## Must-score facts — plantation, shifting, leaders
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — plantation, shifting, leaders</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Crop / system tags
 
@@ -108,6 +109,8 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 | Podu | Andhra / Odisha |
 | Ladang | Malaysia |
 | Milpa | Mexico |
+
+</details>
 
 ---
 

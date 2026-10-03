@@ -64,7 +64,8 @@ Rajput (राजपूत) Warriors | Maharana Pratap (प्रताप) | Ba
 
 </details>
 
-## Must-score facts — clan, battle, Chittor
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — clan, battle, Chittor</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Clan ↔ state
 
@@ -111,6 +112,8 @@ Rajput (राजपूत) Warriors | Maharana Pratap (प्रताप) | Ba
 |-------|------|
 | Vijay Stambha | **Kumbha** victory tower |
 | Kirti Stambha | Older **Jain** tower |
+
+</details>
 
 ---
 

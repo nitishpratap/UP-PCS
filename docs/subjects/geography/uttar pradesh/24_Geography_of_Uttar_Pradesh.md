@@ -111,7 +111,8 @@
 
 </details>
 
-## Must-score facts — parks, rivers, soils, Census
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — parks, rivers, soils, Census</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Parks / wetlands
 
@@ -143,6 +144,8 @@
 | Lowest female literacy (common) | **Shrawasti** |
 | NER HQ | **Gorakhpur** |
 | Smart Cities | **10**; **Ghaziabad** out of central list teaching |
+
+</details>
 
 ---
 

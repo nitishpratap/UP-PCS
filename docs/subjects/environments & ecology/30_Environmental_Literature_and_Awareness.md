@@ -70,7 +70,8 @@ Environmental Literature | Environmental Education (पर्यावरण श
 
 </details>
 
-## Must-score facts — books, EE, LiFE
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — books, EE, LiFE</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Books / campaigns
 
@@ -84,6 +85,8 @@ Environmental Literature | Environmental Education (पर्यावरण श
 | LiFE | COP26 idea **2021**; launch Jun **2022** |
 | NGC / ECO Clubs | MoEFCC school programmes |
 | CSE flagship | *Down To Earth* / Gobar Times |
+
+</details>
 
 ---
 

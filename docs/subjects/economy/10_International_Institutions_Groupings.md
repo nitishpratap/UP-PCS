@@ -103,7 +103,8 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 
 </details>
 
-## Must-score drill — twins, groupings, HQs
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — twins, groupings, HQs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Item | Tag |
 |---|---|
@@ -120,6 +121,8 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 | UP G20 odd city | Kanpur |
 | ASEAN Secretariat | Jakarta |
 | First SAARC in India | 1986 |
+
+</details>
 
 ---
 

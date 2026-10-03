@@ -58,7 +58,8 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Facts (High-Yield UKPCS)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Aipan Raw (रॉ) Materials & GI Tag:**
    - Ground wash: **Geru** (natural red clay / ochre).
@@ -77,6 +78,8 @@
    - Practiced exclusively in the **Sor Valley (Pithoragarh)** during the rainy season paddy planting (*Ropai*).
    - Mythological tradition received from Nepal (Kathmandu Indra (इन्द्र) Jatra (यात्रा)).
    - The climax of the performance is the entrance of **Lakhia Bhoot** (a ferocious attendant of Lord Shiva wearing a horned mask and black hair) who blesses the villagers for fertile crops and cattle protection.
+
+</details>
 
 ---
 

@@ -117,7 +117,8 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 
 </details>
 
-## Must-score drill — Acts, Survey, ranks
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — Acts, Survey, ranks</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Item | Tag |
 |---|---|
@@ -137,6 +138,8 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 | SDG categories | Aspirant / Performer / Front-runner / Achiever |
 | SDSN 2017 / 2025 | India **116** / **99** |
 | SDG-6 / SDG-15 | Water & sanitation / Life on Land |
+
+</details>
 
 ---
 

@@ -74,7 +74,8 @@ National Parties | Regional Parties | Recognition (मान्यता) of Pol
 
 </details>
 
-## Must-score facts — recognition, symbols, defection
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — recognition, symbols, defection</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Hooks in Constitution / law
 
@@ -136,6 +137,8 @@ A party registered under **Section 29A of RPA 1951** is initially a *Registered 
 | **National People's Party** | NPP | **2013** (6 Jan) | P.A. Sangma | Book (किताब) | National Party (1st North-East 2019) |
 
 > **UPPCS Classic Trap Sequence:** **TDP (1982) → BSP (1984) → SP (1992) → TMC (1998)**.
+
+</details>
 
 ---
 

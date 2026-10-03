@@ -64,7 +64,8 @@ Chipko (चिपको) | Appiko (अप्पिको) | Silent Valley (स�
 
 </details>
 
-## Must-score facts — Chipko, Appiko, Narmada, Silent Valley
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Chipko, Appiko, Narmada, Silent Valley</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Movement ↔ place / year
 
@@ -82,6 +83,8 @@ Chipko (चिपको) | Appiko (अप्पिको) | Silent Valley (स�
 ---
 
 ![Cartographic Spatial Map of Historic Indian Environmental Movements](images/env_ch29_01_indian_environmental_movements_map.png)
+
+</details>
 
 ## 29.1 Chipko Movement (चिपको आंदोलन)
 

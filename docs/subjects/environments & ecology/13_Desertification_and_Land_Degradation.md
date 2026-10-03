@@ -65,7 +65,8 @@ Desertification | Land Degradation | Soil Erosion
 
 </details>
 
-## Must-score facts — drylands, erosion, UNCCD, schemes
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — drylands, erosion, UNCCD, schemes</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Concepts
 
@@ -79,6 +80,8 @@ Desertification | Land Degradation | Soil Erosion
 | UNCCD / Day | **1994** / **17 June** |
 | LDN | SDG **15.3**; no net loss by **2030** |
 | DPAP / DDP / IWMP | **1973** / **1977–78** / **2009** |
+
+</details>
 
 ---
 

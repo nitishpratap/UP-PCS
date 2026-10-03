@@ -399,7 +399,8 @@ Year-wise Modern India timeline | Later Mughals to Independence | Company wars c
 
 ---
 
-## Must-score facts — parallel ladders only
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — parallel ladders only</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Acts (short)
 
@@ -412,6 +413,8 @@ Year-wise Modern India timeline | Later Mughals to Independence | Company wars c
 ### National movement (short)
 
 `1885 → 1905 → 1906 → 1907 → 1909 → 1911 → 1916 → 1917 → 1919 → 1920 → 1922 → 1929 → 1930 → 1931 → 1932 → 1935 → 1942 → 1946 → 1947`
+
+</details>
 
 ---
 

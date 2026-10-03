@@ -78,7 +78,8 @@ Air Pollution (Sources | Air Quality | AQI | NCAP (राष्ट्रीय �
 
 </details>
 
-## Must-score facts — AQI, smog, BOD, disease traps
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — AQI, smog, BOD, disease traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Air / water
 
@@ -94,6 +95,8 @@ Air Pollution (Sources | Air Quality | AQI | NCAP (राष्ट्रीय �
 | CGWB ≠ CPCB | GW quality report / ambient air–surface water |
 | Disease locks | Fluoride knock-knee · As Black Foot · Hg Minamata · Cd Itai-itai |
 | Damodar / Ganga BOD | Biological desert / Kanpur–Allahabad peak class |
+
+</details>
 
 ---
 

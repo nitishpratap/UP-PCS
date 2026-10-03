@@ -66,7 +66,8 @@ In-situ (स्थान पर) Conservation (स्व-स्थाने स�
 
 </details>
 
-## Must-score facts — in-situ, ex-situ, gene banks
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — in-situ, ex-situ, gene banks</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Methods
 
@@ -85,6 +86,8 @@ In-situ (स्थान पर) Conservation (स्व-स्थाने स�
 ---
 
 ![Biodiversity Conservation In-situ vs Ex-situ Taxonomy & IUCN Red List Hierarchy](images/env_ch20_01_in_situ_ex_situ_conservation_taxonomy.png)
+
+</details>
 
 ## 20.1 In-situ Conservation
 

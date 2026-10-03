@@ -162,7 +162,8 @@ D. Jupiter
 
 </details>
 
-## Must-score facts — motions, structure, latitudes
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — motions, structure, latitudes</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Earth motions / shape
 
@@ -182,6 +183,8 @@ D. Jupiter
 | Equator | 0° |
 | International Date Line | ~180° (zigzag) |
 | Atmosphere layers | Troposphere → Stratosphere → Mesosphere → Thermosphere |
+
+</details>
 
 ---
 

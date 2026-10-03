@@ -91,7 +91,8 @@ Gandhi (गांधी) early life | Gandhi in South Africa | Gandhian Ideology
 
 </details>
 
-## Must-score facts — chronology, same-year traps
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — chronology, same-year traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Year ↔ event fact
 
@@ -130,6 +131,8 @@ Gandhi (गांधी) early life | Gandhi in South Africa | Gandhian Ideology
 ### Chronology ladder — drill this order end-to-end
 
 1917 Champaran → 1918 Kheda/Ahmedabad → 1919 Rowlatt → 1919 Jallianwala → 1920 NCM launch → 1922 Chauri Chaura → 1922 Gaya → 1923 Swaraj Party → 1927 Simon → 1928 Nehru Report → 1929 Lahore/Purna Swaraj → 1930 Eleven Points → 1930 Dandi/CDM → 1931 Gandhi–Irwin → 1931 2nd RTC → 1932 Communal Award → 1932 Poona Pact → 1934 CDM ends → 1937 Wardha → 1940 August Offer → 1940 Individual Satyagraha → *(Topic 14: 1942 Cripps/Quit India → 1945–47 endgame)*
+
+</details>
 
 ---
 

@@ -76,7 +76,8 @@ Community Development Programme | Etawah (इटावा) Pilot Project | Post-
 
 </details>
 
-## Must-score facts — integration, enclaves and plans
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — integration, enclaves and plans</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Territory ↔ route ↔ year merged
 
@@ -103,6 +104,8 @@ Community Development Programme | Etawah (इटावा) Pilot Project | Post-
 | 12th (2012–17) | Sustainable growth — the **last** Five-Year Plan |
 
 > **Logic:** Do not swap the enclave dates — de facto merger and de jure/legal completion can be years apart, especially for Pondicherry (1954 vs 1962).
+
+</details>
 
 ---
 

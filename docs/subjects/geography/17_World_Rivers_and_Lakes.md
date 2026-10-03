@@ -131,7 +131,8 @@ Read as: **this** is correct · **that** is the usual wrong option.
 
 </details>
 
-## Must-score facts — city–river, deltas, lakes
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — city–river, deltas, lakes</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### City ↔ river
 
@@ -162,6 +163,8 @@ Read as: **this** is correct · **that** is the usual wrong option.
 | Arcuate | Nile, Hwang Ho, Niger |
 | Onega | **Russia** (≠ Canada) |
 | Michigan | Wholly **USA** |
+
+</details>
 
 ---
 

@@ -116,7 +116,8 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 
 </details>
 
-## Must-score facts — dynasty, capital, temple, UP tags
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — dynasty, capital, temple, UP tags</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Dynasty ↔ capital
 
@@ -180,6 +181,8 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 | Varanasi | **Kashi / Avimukta** |
 | Mahoba | **Mahotsava Nagar** (Chandela) |
 | Aligarh | **Koil** |
+
+</details>
 
 ---
 

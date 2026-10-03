@@ -135,7 +135,8 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 </details>
 
-## Must-score facts — Buddha life, councils, Jain tags
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Buddha life, councils, Jain tags</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Buddha life geography
 
@@ -187,6 +188,8 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 | Enlightenment | Bodhi tree |
 | First sermon | Wheel |
 | Nirvana | Stupa |
+
+</details>
 
 ---
 

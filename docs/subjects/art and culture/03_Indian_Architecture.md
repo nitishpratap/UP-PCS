@@ -111,7 +111,8 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 </details>
 
-## Must-score drill — Nagara, Dravida, temples, pillars
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — Nagara, Dravida, temples, pillars</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Style
 
@@ -143,9 +144,9 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 | Sankisa | Elephant |
 | Vaishali | Single lion |
 
+</details>
+
 ---
-
-
 
 ## 3.1 Indian Temple Architecture
 

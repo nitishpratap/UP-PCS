@@ -105,7 +105,8 @@ D. None of the above
 
 </details>
 
-## Must-score facts — murals, Mughal, Rajput/Pahari
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — murals, Mughal, Rajput/Pahari</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Prehistoric / mural
 
@@ -131,9 +132,9 @@ D. None of the above
 | Rajput vs Pahari | Rajasthan princely / ragamala vs Himalayan hills |
 | Mewar / Kishangarh / Nathdwara | Sahibdin / **Bani Thani** / Pichwai |
 
+</details>
+
 ---
-
-
 
 ## 4.1 Ancient Indian Painting
 

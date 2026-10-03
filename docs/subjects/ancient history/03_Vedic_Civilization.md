@@ -94,7 +94,8 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 </details>
 
-## Must-score facts — Early vs Later, assemblies, texts
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Early vs Later, assemblies, texts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Age ↔ geography / economy
 
@@ -139,6 +140,8 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 ### UP Later Vedic sites
 
 **Hastinapur · Atranjikhera · Ahichchhatra** (Kuru–Panchala belt)
+
+</details>
 
 ---
 

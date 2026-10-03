@@ -65,7 +65,8 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 
 </details>
 
-## Must-score facts — layers, composition, radiation
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — layers, composition, radiation</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Structure
 
@@ -80,6 +81,8 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 | Not GHGs | Ar, N₂, O₂, He |
 | Air heating | Mainly longwave from warmed surface |
 | Homosphere | Well mixed to ~**80 km** |
+
+</details>
 
 ---
 

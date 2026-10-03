@@ -84,7 +84,8 @@
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Geographical Boundaries and Inter-State / International Borders of Uttar Pradesh
 
@@ -127,6 +128,8 @@
 | **Chambal** | Janapao Hills (Vindhyan Range, Indore, MP) | Agra / Etawah border | Merges into Yamuna at **Pachnada (Etawah)** | **~965 km** | Famous for badland topography and ravines (*Beehad*). Forms boundary between UP, MP, and Rajasthan. Protected under National Chambal Sanctuary. |
 | **Ken (Karnavati)** | Kaimur Hills (Jabalpur, MP) | **Banda** | Merges into Yamuna at **Chilla (Banda)** | **~427 km** | Famous for Shajar stone; part of the **Ken-Betwa River Interlinking Project** (Daodhan Dam). |
 | **Son (Swarna)** | Amarkantak Plateau (Madhya Pradesh) | **Sonbhadra** | Passes Sonbhadra into Bihar to join Ganga | **~784 km** | Second largest southern tributary of Ganga after Yamuna. Major tributary: Rihand River (Rihand Dam / Govind Ballabh Pant Sagar). |
+
+</details>
 
 ---
 

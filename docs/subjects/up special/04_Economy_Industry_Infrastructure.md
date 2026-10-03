@@ -86,7 +86,8 @@
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Industrial Specialization, Mineral Deposits and Manufacturing Hubs of Uttar Pradesh
 
@@ -180,6 +181,8 @@ The flagship **One District One Product (ODOP)** scheme was launched by the UP G
 | **Nuclear Power Station** | **Narora Atomic Power Station (NAPS)**, Bulandshahr district | $2 	imes 220	ext{ MWe}$ (Pressurized Heavy Water Reactors - PHWR); NPCIL | • **Only nuclear power station in Uttar Pradesh** (Unit 1 commissioned 1991, Unit 2 in 1992); uses water from the Upper Ganga Canal for cooling. |
 | **Hydro-Electric Power Plants** | • **Rihand Project (Govind Ballabh Pant Sagar)**, Pipri (Sonbhadra - 300 MW)<br>• **Obra Hydel Project** (Rihand River - 99 MW)<br>• **Matatila Dam Project** (Betwa River, Lalitpur - 30.6 MW)<br>• **Rajghat Hydel Project** (Betwa River - UP-MP Joint Venture)<br>• **Khara Hydel Project** (Asan River, Saharanpur - 72 MW) | State Hydel Grid (UPJVNL) | • Primary hydel generation located in southern plateau (Vindhyan-Bundelkhand) and northern foothills. |
 | **Major Oil Refinery** | **Mathura Refinery (Indian Oil Corporation - IOCL)** | Capacity: 8.0 MMTPA (Commissioned 1982) | • Processes crude oil piped from Vadinar (Gujarat); produces petrol, diesel, aviation fuel, and petrochemical feedstocks. Highly scrutinized for emissions near Taj Mahal (Taj Trapezium Zone). |
+
+</details>
 
 ---
 

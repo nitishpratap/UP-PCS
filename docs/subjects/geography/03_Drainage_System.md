@@ -127,7 +127,8 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 
 </details>
 
-## Must-score facts — basins, types, dam–river
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — basins, types, dam–river</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Area / water share
 
@@ -213,6 +214,8 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 | **Bhor Ghat** (भोर घाट) | Maharashtra | Western Ghats (Sahyadri) | Links **Mumbai to Pune & Chennai** (Mumbai-Pune Expressway & rail line) |
 | **Palghat Gap** (पालघाट) | Kerala & Tamil Nadu | Between Nilgiris & Anaimalai | Major gap connecting **Palakkad (Kerala) with Coimbatore (Tamil Nadu)** |
 | **Shencottah Gap** (शेनकोट्टा) | Kerala & Tamil Nadu | Between Cardamom & Agasthyamalai | Connects **Kollam (Kerala) with Madurai (Tamil Nadu)** |
+
+</details>
 
 ---
 

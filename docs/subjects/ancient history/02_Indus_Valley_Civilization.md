@@ -96,7 +96,8 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 
 </details>
 
-## Must-score facts — site, excavator, UP trio
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — site, excavator, UP trio</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Discoverer / excavator ↔ site
 
@@ -152,6 +153,8 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 | Script | Undeciphered seals |
 | Common seal animal | **Unicorn** |
 | Economy type | **Urban** (not pastoral) |
+
+</details>
 
 ---
 

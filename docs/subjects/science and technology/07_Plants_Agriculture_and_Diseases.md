@@ -80,7 +80,8 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 </details>
 
-## Must-Score Drill — Edible Parts, Hormones & Diseases
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Drill — Edible Parts, Hormones & Diseases</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Master Edible Parts & Commercial Products Table
 
@@ -193,6 +194,8 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
     2. Incorporating **Nitrification inhibitors** (e.g. nitrapyrin, dicyandiamide) to prevent rapid conversion of ammonium to leachable nitrates.
     3. Applying **Slow-release nitrogen fertilizers** (e.g., Neem-coated urea, sulphur-coated urea).
   - **Non-Nitrogen-Fixing Crops Trap**: Paddy, wheat, sugarcane, amaranth, spinach, and purslane (kulfa) do **not** fix atmospheric nitrogen on their own and require microbial inoculants or chemical nitrogen supplementation!
+
+</details>
 
 ## 7.1 Plant Physiology: Photosynthesis, Photolysis & Carbon Assimilation
 

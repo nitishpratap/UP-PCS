@@ -99,7 +99,8 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 
 </details>
 
-## Must-score facts — Vedas, authors, classical languages
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Vedas, authors, classical languages</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Shruti / epics
 
@@ -133,6 +134,8 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 | Early classical years | Tamil 2004 · Sanskrit 2005 · Kannada/Telugu 2008 · Malayalam 2013 · Odia 2014 |
 | Alvars / Nayanars | **12** Vaishnava / **63** Shaiva |
 | Court–poet | CG II (चंद्रगुप्त द्वितीय)–Kalidasa (कालिदास); Samudragupta (समुद्रगुप्त)–Harisena (हरिषेण); Harsha (हर्ष)–Bana (बाण) |
+
+</details>
 
 ---
 

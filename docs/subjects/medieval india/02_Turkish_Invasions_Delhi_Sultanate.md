@@ -97,7 +97,8 @@ Turkish Invasions of India | Arab Invasion of Sind (सिंध) (Muhammad bin 
 
 </details>
 
-## Must-score facts — battles, dynasties, admin tags
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — battles, dynasties, admin tags</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Battle ↔ year
 
@@ -146,6 +147,8 @@ Turkish Invasions of India | Arab Invasion of Sind (सिंध) (Muhammad bin 
 | Sultan Garhi | **Iltutmish** |
 | Alai Darwaza | **Alauddin, 1311** |
 | Qutub Minar | Aibak start → Iltutmish finish |
+
+</details>
 
 ---
 

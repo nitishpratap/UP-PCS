@@ -76,7 +76,8 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 
 </details>
 
-## Must-score facts — ASI, dating, site↔state
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — ASI, dating, site↔state</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### ASI / method tags
 
@@ -122,6 +123,8 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 ### UP trenches (beyond IVC)
 
 **Koldihwa / Mahagara · Hastinapur · Kaushambi · Ahichchhatra · Sarnath · Shravasti · Atranjikhera**
+
+</details>
 
 ---
 

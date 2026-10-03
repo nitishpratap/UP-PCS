@@ -72,7 +72,8 @@ Food Chain | Food Web (खाद्य जाल) | Trophic Levels | Energy Flow
 
 </details>
 
-## Must-score facts — chains, pyramids, biomagnification
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — chains, pyramids, biomagnification</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Chain types
 
@@ -95,6 +96,8 @@ Food Chain | Food Web (खाद्य जाल) | Trophic Levels | Energy Flow
 | Biomagnification | Toxin ↑ up chain (DDT highest in apex) |
 | Diclofenac | Vulture crash → scavenging pathway break |
 | UP grazing example | Dudhwa grass → deer → tiger |
+
+</details>
 
 ---
 

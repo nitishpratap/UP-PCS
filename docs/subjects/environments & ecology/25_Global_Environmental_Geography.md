@@ -71,7 +71,8 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 
 </details>
 
-## Must-score facts — biomes, Köppen, grasslands
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — biomes, Köppen, grasslands</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Biomes / climate
 
@@ -90,6 +91,8 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 ---
 
 ![Global Biomes Distribution, Climatic Pressure Belts & World Deserts](images/env_ch25_01_global_biomes_climatic_zones_geography.png)
+
+</details>
 
 ## 25.1 Scope & Climate Controls
 

@@ -24,7 +24,8 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Facts (High-Yield UKPCS)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Uttarakhand Panchayati Raj Amendment Act, 2019:**
    - **Educational Qualification:**
@@ -39,6 +40,8 @@
    - *(The **Health Register** is maintained by ANMs / Primary Health Centres, NOT Panchayats).*
 3. **50% Women Reservation Benchmark (2008):** In March 2008, Uttarakhand became one of the earliest states to enhance women’s reservation in all three tiers of Panchayati Raj from 33% to **50%**.
 4. **Van Panchayats (Forest Councils):** Uttarakhand is the **only state in India** with statutory, democratic community forestry institutions. Established under the **Forest Grievances Committee (1921)** headed by P. Wyndham; first formalized under the **Kumaon (कुमाऊँ) Van Panchayat Rules, 1931**. Over 12,000 Van Panchayats manage community forests today.
+
+</details>
 
 ---
 

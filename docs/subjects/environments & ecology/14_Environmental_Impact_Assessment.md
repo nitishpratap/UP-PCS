@@ -65,7 +65,8 @@ Environmental Impact Assessment (EIA) (पर्यावरण प्रभा�
 
 </details>
 
-## Must-score facts — EIA stages, categories, SEA
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — EIA stages, categories, SEA</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Framework
 
@@ -85,6 +86,8 @@ Environmental Impact Assessment (EIA) (पर्यावरण प्रभा�
 ---
 
 ![EIA Notification 2006 Statutory Stages & Categorization Architecture](images/env_ch14_01_eia_notification_2006_workflow.png)
+
+</details>
 
 ## 14.1 Environmental Impact Assessment (EIA)
 

@@ -69,7 +69,8 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate (दि
 
 </details>
 
-## Must-score facts — book ↔ author
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — book ↔ author</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Sultanate chronicles
 
@@ -116,6 +117,8 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate (दि
 ### Death chronology (Akbar circle)
 
 **Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl murdered 1602 → Daniyal 1604**
+
+</details>
 
 ---
 

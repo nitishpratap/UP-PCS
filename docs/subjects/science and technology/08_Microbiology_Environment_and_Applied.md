@@ -101,7 +101,8 @@ Microbiology: Major Groups (Bacteria, Viruses, Fungi, Protozoa) | Discovery of B
 
 </details>
 
-## Must-Score Drill — Microbes, Waste, Institutes & Seasons
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Drill — Microbes, Waste, Institutes & Seasons</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### 1. Master Table of Microbes & Industrial Products
 
@@ -169,6 +170,8 @@ Microbiology: Major Groups (Bacteria, Viruses, Fungi, Protozoa) | Discovery of B
 | **Lichens** | Composite Mutualistic Organism | Dual organism: **Phycobiont** (cyanobacteria/green alga) + **Mycobiont** (Ascomycete/Basidiomycete fungus). | **Pioneer species** in lithosere ecological succession on bare rocks; **exceptionally sensitive to Sulfur Dioxide ($\mathbf{SO_2}$) air pollution**; absent in polluted cities. |
 | **Mycorrhiza** | Symbiotic Association | Mutualism between soil fungal hyphae and roots of higher vascular plants (gymnosperms/angiosperms). | Increases root absorption of **Phosphorus, Nitrogen, and minerals**; protects against root pathogens; increases drought resistance. |
 | **Oceanic Phytoplankton** | Monera / Protista (**Diatoms & Cyanobacteria**) | Microscopic photosynthetic organisms floating in the photic zone; diatoms have silica cell walls (frustules). | Chief **primary producers of the oceans** (Diatoms contribute **~45%** of marine organic synthesis); sustain marine food webs. |
+
+</details>
 
 ---
 

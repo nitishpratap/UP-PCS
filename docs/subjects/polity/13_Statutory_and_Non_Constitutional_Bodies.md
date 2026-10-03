@@ -143,7 +143,8 @@ D. 2 and 3
 
 </details>
 
-## Must-score facts — Lokpal, CVC, RTI, NITI
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Lokpal, CVC, RTI, NITI</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Constitutional vs statutory vs executive
 
@@ -164,6 +165,8 @@ D. 2 and 3
 | CIC / SIC | RTI Act **2005** (in force **12 Oct 2005**); reply **30 days** |
 | NITI Aayog | **1 Jan 2015**; replaced Planning Commission; **not** constitutional |
 | NHRC | PHRA **1993**; 1-year complaint limit |
+
+</details>
 
 ---
 

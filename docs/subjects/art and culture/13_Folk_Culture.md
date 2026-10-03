@@ -90,7 +90,8 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom (�
 
 </details>
 
-## Must-score facts — folk painting, handloom, GI
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — folk painting, handloom, GI</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Painting ↔ region
 
@@ -115,6 +116,8 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom (�
 | Handloom Day | **7 August** (1905 Swadeshi recall; first **2015**) |
 | GI Act / Registry | **1999**; **Chennai**; DPIIT/Commerce (**≠ Culture**) |
 | PEHCHAN | Artisan cards from **2016** |
+
+</details>
 
 ---
 

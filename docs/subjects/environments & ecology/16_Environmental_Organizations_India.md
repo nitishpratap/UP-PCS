@@ -69,7 +69,8 @@ MoEFCC (पर्यावरण, वन और जलवायु परिव�
 
 </details>
 
-## Must-score facts — MoEFCC, CPCB, NGT, surveys
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — MoEFCC, CPCB, NGT, surveys</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### HQ map
 
@@ -83,6 +84,8 @@ MoEFCC (पर्यावरण, वन और जलवायु परिव�
 | WII / FSI | **1982** / **1981**; both **Dehradun** |
 | BSI / ZSI | **1890** / **1916**; both **Kolkata** |
 | NEERI | **1958** Nagpur; CSIR (≠ MoEFCC) |
+
+</details>
 
 ---
 

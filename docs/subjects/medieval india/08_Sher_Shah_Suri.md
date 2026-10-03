@@ -68,7 +68,8 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 
 </details>
 
-## Must-score facts — battles, revenue, roads
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — battles, revenue, roads</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Battle / event ↔ year
 
@@ -111,6 +112,8 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 ### Name ladder
 
 **Farid Khan → Sher Khan → Sher Shah (Padshah from 1540)**
+
+</details>
 
 ---
 

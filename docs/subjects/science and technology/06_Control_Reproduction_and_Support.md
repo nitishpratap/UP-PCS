@@ -81,7 +81,8 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 
 </details>
 
-## Must-Score Drill — Glands, Lenses & Bone Counts
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Drill — Glands, Lenses & Bone Counts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Master Gland Secretions & Clinical Pathology
 
@@ -115,6 +116,8 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 | **Appendicular (126)** | Upper Limbs | **60** | Humerus (2), Radius (2), Ulna (2), Carpals (16), Metacarpals (10), Phalanges (28) |
 | **Appendicular (126)** | Pelvic Girdle | **2** | Coxal / Hip bones (2: Ilium + Ischium + Pubis fused) |
 | **Appendicular (126)** | Lower Limbs | **60** | **Femur (2 — longest bone)**, Patella (2), Tibia (2), Fibula (2), Tarsals (14), Metatarsals (10), Phalanges (28) |
+
+</details>
 
 ---
 

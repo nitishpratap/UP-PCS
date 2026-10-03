@@ -220,7 +220,8 @@ Radioactivity & Radiations (Alpha, Beta, Gamma Properties & Soddy-Fajans Displac
 
 </details>
 
-## Master Reference Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Master Reference Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Master Classification of High Chemical Explosives
 
@@ -245,6 +246,8 @@ Radioactivity & Radiations (Alpha, Beta, Gamma Properties & Soddy-Fajans Displac
 | **Blue Baby Syndrome** | **Nitrate ($NO_3^- > 45\text{ mg/L}$)** | Runoff of agricultural fertilizers into drinking wells | Blood hemoglobin | Oxidizes $Fe^{2+} \to Fe^{3+}$, forming **methemoglobin**; infant cyanosis (hypoxia). |
 | **Dental & Skeletal Fluorosis** | **Fluoride ($F^- > 1.5\text{ ppm}$)** | Deep granitic groundwater leaching natural fluoride | Tooth enamel, skeletal bone matrix | Enamel yellow-brown mottling; permanent skeletal stiffness, knock-knee deformity. |
 | **Plumbism (Saturnism)** | **Lead ($Pb$)** | Leaded paints, old lead plumbing pipes, industrial fumes | Central nervous system, bone marrow | Lowered IQ in children, anemia, behavioral changes, **Burton's blue line on gums**. |
+
+</details>
 
 ---
 

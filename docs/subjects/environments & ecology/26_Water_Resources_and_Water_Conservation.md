@@ -79,7 +79,8 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management (वाट�
 
 </details>
 
-## Must-score facts — water shares, IWRM, days, schemes
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — water shares, IWRM, days, schemes</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Shares / policy
 
@@ -98,6 +99,8 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management (वाट�
 ---
 
 ![Global Water Partitioning, Aquifer Hydrogeology & Water Stress](images/env_ch26_01_global_water_partitioning_aquifers.png)
+
+</details>
 
 ## 26.1 Water Resources
 

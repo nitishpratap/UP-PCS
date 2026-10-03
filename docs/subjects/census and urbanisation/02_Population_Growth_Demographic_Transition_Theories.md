@@ -86,7 +86,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Four Distinct Phases of India's Demographic Growth (1901 to Present)
 
@@ -120,6 +121,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **Stage 3** | **Late Expanding (Slowing Growth)** | **Declining Rapidly** (15–25 per 1000) | **Low & Stabilized** (6–10 per 1000) | **Moderate to Low** (1.0% to 1.5%) | Bulging middle age group; demographic dividend phase; bell-shaped pyramid. | **India currently (Census 2011 to present)**, Brazil, South Africa, Mexico. |
 | **Stage 4** | **Low Stationary (Stabilized)** | **Low** (10–14 per 1000) | **Low** (8–12 per 1000) | **Near Zero / Stable** ($\le 0.5\%$) | Barrel / urn-shaped pyramid; high median age; aging population. | United States, Canada, United Kingdom, Australia, China. |
 | **Stage 5** | **Declining / Contracting (Negative Growth)** | **Extremely Low** (below CDR, $< 9$ per 1000) | **Rising slightly due to old age** (10–12 per 1000) | **Negative Natural Growth** ($< 0\%$) | Inverted pyramid; shrinking youth population; acute elderly dependency. | Japan, Germany, Italy, South Korea, Russia. |
+
+</details>
 
 ---
 

@@ -47,7 +47,8 @@
 
 </details>
 
-## Must-score facts — volume, hot clusters, year traps
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — volume, hot clusters, year traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Trend locks
 
@@ -62,6 +63,8 @@
 | DPAP / Net zero / GEF | **1973** / **2070** / **1991** |
 | UP negatives | Rudrasagar Tripura · Sultanpur Haryana · no UP BR · Nokrek≠Manipur |
 | Montreal / Kyoto–Paris | Ozone / climate |
+
+</details>
 
 ---
 

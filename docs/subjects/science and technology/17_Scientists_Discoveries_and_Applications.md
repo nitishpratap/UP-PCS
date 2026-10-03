@@ -163,7 +163,8 @@
 
 </details>
 
-## Must-Score Master Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Master Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: India's Missile Arsenal & Strategic Delivery Fleet
 
@@ -298,6 +299,8 @@
 | **Tribology** | Peter Jost (1966) | Science of interacting surfaces in relative motion: friction, wear, and lubrication. | Engine efficiency, bearings, industrial lubricants, nanomaterials friction. |
 | **Plasma Physics** | Irving Langmuir (1928) | 4th state of matter: ionized gas containing free ions and electrons. | Fusion reactors (Tokamak), stellar physics (Sun & stars), interstellar medium. |
 | **Degenerate Astronomy** | R.H. Fowler / S. Chandrasekhar | White dwarfs supported by electron degeneracy pressure ($M < 1.44 M_\odot$). | Final evolutionary stage of low-to-intermediate mass stars. |
+
+</details>
 
 ---
 

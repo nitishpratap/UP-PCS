@@ -141,7 +141,8 @@ D. India
 
 </details>
 
-## Must-score facts — rail, road, ports, waterways
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — rail, road, ports, waterways</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Rail / freight
 
@@ -178,6 +179,8 @@ D. India
 | Harbour vs port | Sheltered water vs harbour + cargo facilities |
 | Kushinagar intl | **24 Jun 2020**; Jewar = Noida greenfield |
 | UP | **No major seaport**; rail HQ NER Gorakhpur; **NW-1** |
+
+</details>
 
 ---
 

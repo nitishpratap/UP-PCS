@@ -64,7 +64,8 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Facts (High-Yield UKPCS)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **State Symbols Official Ratta:**
    - *State Flower:* **Brahma Kamal** (*Saussurea obvallata*), blooms July–September between 3,600 and 4,800 m. Offered at Kedarnath (केदारनाथ).
@@ -80,6 +81,8 @@
    - Women are traditionally not allowed beyond **Wan village** (the last inhabited village).
 3. **Devidhura Bagwal Mela (Champawat):** Held on Raksha Bandhan at the **Maa Barahi Devi Temple**. Traditionally, 4 clans (*Khams* (ख़म्स): Chamyal, Gaharwal, Walik, Lamgariya) pelted stones at each other using bamboo shields (*Chhatoli*) until blood equivalent to one human sacrifice was shed. Now played with flowers, walnuts, and pears.
 4. **Padma Shri 2025 Traps (UKPCS 2025 Q53):** Smt. Radha Bahin Bhatt received the Padma Shri in 2025 for **Social Work** (associated with Sarvodaya and Lakshmi Ashram, Kausani). Do not confuse with Dr. Madhuri Barthwal who received Padma Shri in 2022 for **Art / Folk Music**.
+
+</details>
 
 ---
 

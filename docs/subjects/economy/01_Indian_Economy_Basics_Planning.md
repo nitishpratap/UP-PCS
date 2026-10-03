@@ -124,7 +124,8 @@ Budget / tax deepens in Economy Topic 2. Money / banking deepens in Topic 3. Inf
 
 </details>
 
-## Must-score drill — plans and institutions
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — plans and institutions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Item | Tag |
 |---|---|
@@ -164,6 +165,8 @@ Budget / tax deepens in Economy Topic 2. Money / banking deepens in Topic 3. Inf
 | First NI / scientific NI | Naoroji / V.K.R.V. Rao |
 | Lowest State PCI | Bihar |
 | Largest State economy | Maharashtra |
+
+</details>
 
 ---
 

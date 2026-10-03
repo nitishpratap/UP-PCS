@@ -163,7 +163,8 @@ D. Hispar
 
 </details>
 
-## Must-score facts — belts, peaks, passes
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — belts, peaks, passes</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Himalayan belts (N → S)
 
@@ -195,6 +196,8 @@ D. Hispar
 | Venkateswara / Tirupati | **Tirumala / Mallamalla** — Eastern Ghats (AP) |
 | Intertrappean beds | Land / freshwater fossils (not marine) |
 | India area rank | **7th** (~3.28 million km²; ~2.4% world land) |
+
+</details>
 
 ---
 

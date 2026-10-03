@@ -177,7 +177,8 @@ Acid-Base Theories (Arrhenius, Brønsted-Lowry, Lewis) | pH Scale & Mathematical
 
 </details>
 
-## Master Reference Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Master Reference Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Master pH Spectrum of Common Substances (UPPCS Hierarchy)
 
@@ -237,6 +238,8 @@ Acid-Base Theories (Arrhenius, Brønsted-Lowry, Lewis) | pH Scale & Mathematical
 | **White Vitriol** | Zinc Sulphate Heptahydrate | **$ZnSO_4 \cdot 7H_2O$** | Reaction of zinc or $ZnO$ with dilute $H_2SO_4$ | Lithopone pigment, zinc dietary supplements, eye drops. |
 | **Potash Alum** | Potassium Aluminium Sulphate | **$K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$**| Double crystallization of equimolar $K_2SO_4$ and $Al_2(SO_4)_3$ | Water purification coagulant, hemostatic styptic (stops cut bleeding). |
 | **Epsom Salt** | Magnesium Sulphate Heptahydrate | **$MgSO_4 \cdot 7H_2O$** | Mining of kieserite mineral | Saline osmotic purgative laxative, therapeutic mineral bath soak. |
+
+</details>
 
 ---
 

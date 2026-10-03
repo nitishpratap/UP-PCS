@@ -108,7 +108,8 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 
 </details>
 
-## Must-score facts — density, growth, Census tags
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — density, growth, Census tags</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Terms
 
@@ -128,6 +129,8 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 | Lowest density (large state) | Arunachal teaching |
 | Highest literacy (usual) | Kerala |
 | Phase model | High stationary → early expanding → late expanding → low stationary |
+
+</details>
 
 ---
 

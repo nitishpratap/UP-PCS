@@ -76,7 +76,8 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 
 </details>
 
-## Must-score facts — Sanskrit drama, folk theatre, puppets
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Sanskrit drama, folk theatre, puppets</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Texts / playwrights
 
@@ -102,6 +103,8 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 | Bidesiya / Bhartendu | E. UP–Bhojpuri / Banaras modern Hindi |
 | IPTA / NSD | **1943** / **1959** Delhi |
 | Not UP | Kathputli (RJ), Yakshagana (KA), Tamasha (MH), Ramman (UK) |
+
+</details>
 
 ---
 

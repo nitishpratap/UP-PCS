@@ -108,7 +108,8 @@
 
 </details>
 
-## Must-Score Drill — SI Units, Constants & Scientific Instruments
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Drill — SI Units, Constants & Scientific Instruments</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### 1. Master Table of Fundamental & Derived Physical Units
 #### A. The Seven SI Base Units (2019 BIPM Anchor Constants)
@@ -309,6 +310,8 @@
 | **Wind Vane (Weathercock)**| Direction from which the wind is blowing | Meteorological wind direction observation |
 | **SONAR** | Underwater navigation, detection, and ranging using ultrasonic pulses | Locating submerged submarines, sea depth mapping (Active transmits; Passive listens) |
 | **RADAR** | Range, velocity, and angle of targets using reflected radio/microwaves | Air traffic control, military air defense, weather radar |
+
+</details>
 
 ---
 

@@ -78,7 +78,8 @@ Morley–Minto Reforms (context) | Lucknow (लखनऊ) Pact (लखनऊ प
 
 </details>
 
-## Must-score facts — Home Rule, education, labour
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Home Rule, education, labour</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Two Home Rule Leagues
 
@@ -122,6 +123,8 @@ Morley–Minto Reforms (context) | Lucknow (लखनऊ) Pact (लखनऊ प
 | CSP | Patna/Bombay **1934**; Nehru never formally joined |
 | WPP All-India form | **Dec 1928** (not 1927) |
 | Justice Party | **1916** Madras non-Brahmin |
+
+</details>
 
 ---
 

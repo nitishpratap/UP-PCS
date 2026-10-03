@@ -10716,6 +10716,7 @@ details.rev-toggle-confused {
   border-left: 4px solid #f59e0b;
 }
 
+details.st-toggle-must-score,
 details.rev-toggle-tables {
   border-left: 4px solid #10b981;
 }

@@ -86,7 +86,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Master Matrix of Demographic Vital Rates & Mathematical Formulas
 
@@ -131,6 +132,8 @@ ight]$ | **Surviving Daughters per Woman** | **NRR = 1.0** represents exact demo
 | **Infant Mortality Rate (IMR per 1000)** | **1. Kerala (6)**<br>2. Mizoram (12)<br>3. Goa (13)<br>4. Tamil Nadu (13) | **1. Madhya Pradesh (43)**<br>2. Uttar Pradesh (38)<br>3. Assam (36)<br>4. Chhattisgarh (35)<br>5. Odisha (34) | **IMR: 38 per 1000** (Substantially improved from 67 in 2008, but 2nd highest in India). |
 | **Maternal Mortality Ratio (MMR per 1 Lakh)** | **1. Kerala (19)**<br>2. Maharashtra (33)<br>3. Telangana (43)<br>4. Andhra Pradesh (45)<br>5. Tamil Nadu (54) | **1. Assam (195)**<br>2. Madhya Pradesh (173)<br>3. Uttar Pradesh (167)<br>4. Chhattisgarh (137)<br>5. Odisha (119) | **MMR: 167 per Lakh Live Births** (Down from 359 in 2007–09; high-priority intervention state). |
 | **Institutional Deliveries (%)** | **1. Kerala (99.8%)**<br>2. Tamil Nadu (99.5%)<br>3. Goa (99.5%) | **1. Nagaland (45.7%)**<br>2. Meghalaya (58.1%)<br>3. Bihar (76.2%) | **Institutional Deliveries: 83.4%** in NFHS-5 (up from 67.8% in NFHS-4 and 20.6% in NFHS-3). |
+
+</details>
 
 ---
 

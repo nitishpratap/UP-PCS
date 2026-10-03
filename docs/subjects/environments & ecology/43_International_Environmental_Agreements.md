@@ -65,7 +65,8 @@ UNFCCC (यूएनएफसीसीसी) | Kyoto (क्योटो) Proto
 
 </details>
 
-## Must-score facts — UNFCCC Kyoto Paris CBD Basel
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — UNFCCC Kyoto Paris CBD Basel</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Ladders / tags
 
@@ -80,6 +81,8 @@ UNFCCC (यूएनएफसीसीसी) | Kyoto (क्योटो) Proto
 | Minamata | Mercury **2013** |
 | Two Stockholms | **1972** conference→UNEP / **2001** POPs treaty |
 | UNFCCC secretariat | **Bonn** |
+
+</details>
 
 ---
 

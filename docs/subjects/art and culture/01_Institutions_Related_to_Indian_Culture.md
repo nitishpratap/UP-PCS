@@ -85,7 +85,8 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 </details>
 
-## Must-score facts — societies, colleges, museums
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — societies, colleges, museums</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Institution ↔ year / founder
 
@@ -111,6 +112,8 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 | New Nalanda University | **MEA**, Act **2010**, campus **Rajgir** (≠ Culture Ministry) |
 | Taxila | Gandhara / **Pakistan**; Panini–Chanakya link |
 | Vikramashila | Bhagalpur; **Dharmapala** (धर्मपाल); Atisha; fell ~1203 |
+
+</details>
 
 ---
 

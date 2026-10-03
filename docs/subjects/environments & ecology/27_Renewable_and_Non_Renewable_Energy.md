@@ -78,7 +78,8 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 </details>
 
-## Must-score facts — conventional vs non-conventional
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — conventional vs non-conventional</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Classifications
 
@@ -94,6 +95,8 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 | Bioethanol / Biodiesel | Petrol blend / diesel blend (Jatropha, UCO…) |
 | OTEC vs tidal | Warm–cold water ΔT / Moon-driven sea level |
 | SHP | ≤**25 MW** |
+
+</details>
 
 ---
 

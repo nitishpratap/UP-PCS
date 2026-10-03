@@ -79,7 +79,8 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 </details>
 
-## Must-score facts — titles, inscriptions, officials
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — titles, inscriptions, officials</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Title ↔ ruler
 
@@ -126,6 +127,8 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 | Rajuka (रज्जुक) | Mauryan land / justice |
 | Uparika (उपरिक) | Gupta province |
 | Sandhivigrahika (संधिविग्रहिक) | Gupta / Harsha peace–war |
+
+</details>
 
 ---
 

@@ -105,7 +105,8 @@
 
 </details>
 
-## Must-Score Master Tables: Constants, Modes & Thermodynamic Laws
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Master Tables: Constants, Modes & Thermodynamic Laws</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Standard Thermal Constants of Water & Key Substances
 
@@ -172,6 +173,8 @@
 | **Two Blankets vs One Double-Thick** | Still air layer trapped between two blankets acts as an exceptional thermal insulator. | Air has extremely low thermal conductivity ($k = 0.026\text{ W/m}\cdot\text{K}$). |
 | **Open Refrigerator in Closed Room** | Compressor electrical work is dissipated as heat at condenser coils ($Q_H = Q_C + W$). | The room warms up; it does **not** cool down. |
 | **Shattering of Thick Glass Tumbler** | Unequal thermal expansion: inner surface expands instantly while outer surface remains cold. | Borosilicate glass resists shattering due to very low thermal expansion. |
+
+</details>
 
 ---
 

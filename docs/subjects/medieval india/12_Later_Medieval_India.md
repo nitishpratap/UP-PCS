@@ -92,7 +92,8 @@ Later Mughals | Disintegration of the Mughal (मुग़ल) Empire | Nadir Sh
 
 </details>
 
-## Must-score facts — Europeans, Awadh, Later Mughals
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Europeans, Awadh, Later Mughals</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### European arrival order
 
@@ -149,6 +150,8 @@ Later Mughals | Disintegration of the Mughal (मुग़ल) Empire | Nadir Sh
 | Nadir Shah | **Karnal 1739**; Peacock Throne / Kohinoor |
 | Nizam-ul-Mulk | Hyderabad after **Shakar Kheda 1724** |
 | Sawai Jai Singh II | Jantar Mantar (Delhi, Jaipur, Ujjain, Mathura, Varanasi) |
+
+</details>
 
 ---
 

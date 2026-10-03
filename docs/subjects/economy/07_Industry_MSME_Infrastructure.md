@@ -110,7 +110,8 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 
 </details>
 
-## Must-score drill — missions and MSME
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — missions and MSME</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Item | Tag |
 |---|---|
@@ -131,6 +132,8 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 | SIDBI | MSME apex DFI |
 | IIP | Industrial production index |
 | Disinvestment | Govt sells PSU equity |
+
+</details>
 
 ---
 

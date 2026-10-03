@@ -65,7 +65,8 @@ Floods | Drought (सूखा) | Landslides | Cyclones | Heat Waves | Forest Fi
 
 </details>
 
-## Must-score facts — NDMA, drought, cyclone, fire
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — NDMA, drought, cyclone, fire</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Institutions / hazards
 
@@ -80,6 +81,8 @@ Floods | Drought (सूखा) | Landslides | Cyclones | Heat Waves | Forest Fi
 | Heat wave (plains) | ≥40°C + departure rules; severe ≥47°C or +6.4°C |
 | Forest fire season | Roughly Mar–Jun; chir pine fuel |
 | Piral Lao–Paise Pao | UK pine-needle scheme (≠ Delhi) |
+
+</details>
 
 ---
 

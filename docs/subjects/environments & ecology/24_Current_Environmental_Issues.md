@@ -67,7 +67,8 @@ Microplastics | Carbon Credit (कार्बन क्रेडिट) | Carbo
 
 </details>
 
-## Must-score facts — carbon markets, net zero, LiFE
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — carbon markets, net zero, LiFE</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Markets / targets
 
@@ -81,6 +82,8 @@ Microplastics | Carbon Credit (कार्बन क्रेडिट) | Carbo
 | LiFE | Idea COP26 **2021**; launch Jun **2022** |
 | MISHTI | Budget **2023** mangroves |
 | Blue economy | Sustainable ocean use; SDG **14** |
+
+</details>
 
 ---
 

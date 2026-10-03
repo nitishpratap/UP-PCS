@@ -116,7 +116,8 @@ D. A and D only
 
 </details>
 
-## Must-score facts — WHS, ICH, UP sites
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — WHS, ICH, UP sites</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Conventions / India counts
 
@@ -145,9 +146,9 @@ D. A and D only
 
 **Not** named UNESCO ICH: Bharatanatyam, Kathak, Nautanki, Holi (standalone).
 
+</details>
+
 ---
-
-
 
 ## 14.1 Tangible Cultural Heritage
 

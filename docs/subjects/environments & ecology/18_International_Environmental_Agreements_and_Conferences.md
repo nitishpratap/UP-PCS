@@ -72,7 +72,8 @@
 
 </details>
 
-## Must-score facts — conferences, treaty–issue map
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — conferences, treaty–issue map</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Conferences
 
@@ -97,6 +98,8 @@
 ---
 
 ![Global Environmental Governance Summits Roadmap & MEA Clusters](images/env_ch18_01_global_environmental_treaties_roadmap.png)
+
+</details>
 
 ## 18.1 Conferences — Stockholm, Brundtland, Rio, Agenda 21 & SD Summits
 

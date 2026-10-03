@@ -112,7 +112,8 @@ D. Governor
 
 </details>
 
-## Must-score facts — RS, LS, Money Bill, seats
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — RS, LS, Money Bill, seats</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Composition
 
@@ -140,6 +141,8 @@ D. Governor
 | Money Bill | Art. **110**; Speaker’s certificate; RS **14 days** only |
 | Joint sitting | Art. **108** (not for Money / Constitution amendment Bills) |
 | Quorum | 1/10 of total membership |
+
+</details>
 
 ---
 

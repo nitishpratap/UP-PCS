@@ -65,7 +65,8 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 </details>
 
-## Must-score facts — BSI ZSI FSI NBA NBPGR
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — BSI ZSI FSI NBA NBPGR</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### HQ map
 
@@ -79,6 +80,8 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 | ISFR | Biennial (≠ annual); FSI product |
 | BDA ladder | NBA → SBB → BMC → PBR |
 | SBB ≠ SPCB | Biodiversity board ≠ pollution board |
+
+</details>
 
 ---
 

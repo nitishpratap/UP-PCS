@@ -81,7 +81,8 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 </details>
 
-## Must-score facts — saints, silsilah, Vedanta
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — saints, silsilah, Vedanta</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Saint ↔ region / work
 
@@ -154,6 +155,8 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 ### Saint chronology (north)
 
 **Namdev (~1270–1350) → Kabir (15th c.) → Nanak (1469–1539) → Chaitanya (1486–1533) → Surdas → Tulsidas → Dadu**
+
+</details>
 
 ---
 

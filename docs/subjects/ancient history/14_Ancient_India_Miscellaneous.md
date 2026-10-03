@@ -83,7 +83,8 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 </details>
 
-## Must-score facts — world civs, Puranas, Kakatiya
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — world civs, Puranas, Kakatiya</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Old World Bronze cores
 
@@ -136,6 +137,8 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 | Basham | *Wonder that was India* |
 | Kosambi | *Introduction to the Study of Indian History* |
 | Smith | *Early History of India* |
+
+</details>
 
 ---
 

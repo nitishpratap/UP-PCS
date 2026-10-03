@@ -27,7 +27,8 @@
 
 ---
 
-## Must-Score Facts
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. High Court seat = **Nainital**.
 2. Mobile vans = courtroom + IT connectivity.
@@ -45,6 +46,8 @@
 | HC seat Nainital vs capital Dehradun | Court at **Nainital**; executive capital **Dehradun** |
 | Mobile court vs Lok Adalat only | Mobile e-court is a **van-based courtroom** project |
 | Only purpose true / only tech true | 2025 keys **both** |
+
+</details>
 
 </details>
 

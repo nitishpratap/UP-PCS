@@ -108,7 +108,8 @@ Newest first. One event, one fact.
 
 </details>
 
-## Must-score facts — Rule of Law, Art. 21, Basic Structure
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Rule of Law, Art. 21, Basic Structure</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Keywords / counts
 
@@ -129,6 +130,8 @@ Newest first. One event, one fact.
 | US contrast | Due process |
 | *Gopalan* (1950) | Any procedure in valid law; rights in silos |
 | *Maneka* (1978) | Fair, just, reasonable; procedural + substantive |
+
+</details>
 
 ---
 

@@ -111,7 +111,8 @@ Congress (कांग्रेस) Socialist Party | Subhash Chandra Bose | For
 
 </details>
 
-## Must-score facts — missions, INA, 1947 dates
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — missions, INA, 1947 dates</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Chronology ladder (1937–47)
 
@@ -165,6 +166,8 @@ Congress (कांग्रेस) Socialist Party | Subhash Chandra Bose | For
 |------|------|
 | CSP | **1934** inside Congress; Nehru never formally joined |
 | Forward Bloc | **1939** Bose’s separate body |
+
+</details>
 
 ---
 

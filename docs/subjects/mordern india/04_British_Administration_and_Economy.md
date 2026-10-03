@@ -86,7 +86,8 @@ Administrative System of British India | Local Administration | Cornwallis (क�
 
 </details>
 
-## Must-score facts — administration, economy, dates
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — administration, economy, dates</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Land revenue ↔ architect ↔ year ↔ region
 
@@ -156,6 +157,9 @@ Administrative System of British India | Local Administration | Cornwallis (क�
 | Ripon — local self-government Resolution | 1882 |
 | Royal Commission on Decentralisation | 1907 |
 | Local self-government "transferred" under dyarchy | 1919 |
+
+</details>
+
 ---
 
 ## 4.0 One clear picture — three phases of colonial economic policy

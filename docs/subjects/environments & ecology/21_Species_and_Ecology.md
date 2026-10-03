@@ -68,7 +68,8 @@ Red Data Book (रेड डेटा बुक) | IUCN (आईयूसीए�
 
 </details>
 
-## Must-score facts — Red List, Ramsar, biomes
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Red List, Ramsar, biomes</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Lists / wetlands
 
@@ -83,6 +84,8 @@ Red Data Book (रेड डेटा बुक) | IUCN (आईयूसीए�
 | MISHTI | Budget **2023–24** mangroves |
 | India corals | Mannar · Lakshadweep · A&N · Kutch (**not** Sundarbans) |
 | Gangetic dolphin | Freshwater river (≠ marine trap) |
+
+</details>
 
 ---
 

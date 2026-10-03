@@ -89,7 +89,8 @@ Babur (बाबर) | Establishment of the Mughal Empire | Literary Contributio
 
 </details>
 
-## Must-score facts — battles, tombs, admin
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — battles, tombs, admin</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Battle ↔ year
 
@@ -133,6 +134,8 @@ Babur (बाबर) | Establishment of the Mughal Empire | Literary Contributio
 ### Court death order
 
 **Sheikh Mubarak → Faizi → Abul Fazl (1602) → Daniyal**
+
+</details>
 
 ---
 

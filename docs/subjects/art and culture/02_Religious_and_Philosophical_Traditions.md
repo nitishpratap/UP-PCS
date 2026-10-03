@@ -78,7 +78,8 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 </details>
 
-## Must-score facts — Darshanas, Vedanta, Buddhism
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Darshanas, Vedanta, Buddhism</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Astika six (accept Veda)
 
@@ -110,9 +111,9 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 | Theravada / Mahayana | Arhat + Pali / Bodhisattva + Sanskrit |
 | *Milindapanha* | Menander–**Nagasena** |
 
+</details>
+
 ---
-
-
 
 ## 2.1 Six Schools of Indian Philosophy (Shad Darshana / षड्दर्शन)
 

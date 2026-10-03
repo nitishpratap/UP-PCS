@@ -96,7 +96,8 @@
 
 </details>
 
-## Must-score facts — SC, HC, collegium, writs
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — SC, HC, collegium, writs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Supreme Court
 
@@ -124,6 +125,8 @@
 | 226 vs 227 | Writs (wider than 32) / superintendence |
 | Common HC | Art. **231** |
 | Integrated + independent | One hierarchy; security of tenure / salaries |
+
+</details>
 
 ---
 

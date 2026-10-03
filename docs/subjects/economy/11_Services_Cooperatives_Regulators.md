@@ -111,7 +111,8 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 
 </details>
 
-## Must-score drill — tertiary map, CSR, MRP, regulators
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — tertiary map, CSR, MRP, regulators</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Item | Tag |
 |---|---|
@@ -132,6 +133,8 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 | IFSCA | GIFT IFSC |
 | FSSAI | Food Safety Act 2006 |
 | Ministry of Cooperation | 2021 |
+
+</details>
 
 ---
 

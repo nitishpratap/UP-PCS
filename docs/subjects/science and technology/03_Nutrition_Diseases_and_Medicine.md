@@ -83,7 +83,8 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 
 </details>
 
-## Must-Score Drill — Vitamins, Diseases & Diagnostic Tests
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Drill — Vitamins, Diseases & Diagnostic Tests</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Comprehensive Vitamin Master Reference Table
 
@@ -124,6 +125,8 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 | **Rabies** | Virus | Rhabdovirus | Bite of rabid dog/animal | Hydrophobia, Negri bodies; Pasteur vaccine |
 | **Polio** | Virus | Poliovirus (Enterovirus) | Faecal-oral route | Salk (injected killed) vs Sabin (oral live) |
 | **AIDS** | Virus | Human Immunodeficiency Virus | Blood, sexual, perinatal | Destroys CD4+ $T_H$ cells; ELISA + Western blot |
+
+</details>
 
 ---
 

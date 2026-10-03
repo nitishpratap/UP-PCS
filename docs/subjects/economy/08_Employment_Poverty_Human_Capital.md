@@ -155,7 +155,8 @@ Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks sta
 
 </details>
 
-## Must-score drill — HDI, MPI, labour, sustainable development
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — HDI, MPI, labour, sustainable development</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Item | Tag |
 |---|---|
@@ -225,6 +226,8 @@ Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks sta
 | Alagh kcal | 2400 rural / 2100 urban |
 | Lorenz / Gini | Distribution graph / inequality index |
 | Nurkse / Oscar Lewis | Vicious circle / culture of poverty |
+
+</details>
 
 ---
 

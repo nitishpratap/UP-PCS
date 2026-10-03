@@ -86,7 +86,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Top 10 Most Populous Countries in the World (UN DESA / WPP Matrix)
 
@@ -132,6 +133,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **World Population Conference (Bucharest)** | **1974** (Bucharest, Romania) | United Nations (136 Governments) | **"Development is the Best Contraceptive"** | First inter-governmental conference. Indian delegation led by **Dr. Karan Singh** propounded that socio-economic development automatically lowers fertility. Adopted **World Population Plan of Action**. |
 | **International Conference on Population (Mexico City)** | **1984** (Mexico City, Mexico) | United Nations (148 Governments) | Integration of population in development planning | Reaffirmed Bucharest goals; focused on primary healthcare, maternal health, and urban growth. |
 | **International Conference on Population and Development (ICPD)** | **September 1994** (Cairo, Egypt) | United Nations / UNFPA (179 Governments) | **Paradigm Shift: Human Rights & Reproductive Choice** | **Revolutionary Watershed**: Abandoned coercive demographic targets. Placed **women's empowerment, gender equality, and universal reproductive rights** at the centre of population policies. Adopted the 20-year **ICPD Programme of Action (Cairo Consensus)**. |
+
+</details>
 
 ---
 

@@ -116,7 +116,8 @@ Structural agrarian data and land holdings sit in [Economy Topic 5](05_Agricultu
 
 </details>
 
-## Must-score facts — Revolutions matrix & 22 MSP crops
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Revolutions matrix & 22 MSP crops</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1 — Agricultural revolutions & proponents
 
@@ -157,6 +158,8 @@ A₂ + FL     = A₂ + unpaid family labour
 C₂          = A₂ + FL + owned-land rent + interest on fixed capital
             → Swaminathan recommendation: C₂ + 50%  (not the current fixing rule)
 ```
+
+</details>
 
 ---
 

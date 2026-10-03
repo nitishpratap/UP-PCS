@@ -109,7 +109,8 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 
 </details>
 
-## Must-Score Drill — Scientists, Organelles & Biotech Tools
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Drill — Scientists, Organelles & Biotech Tools</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Key Biological Scientists & Landmark Milestones
 
@@ -135,6 +136,8 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 | **Alec Jeffreys** | Invented DNA Fingerprinting (1984) | Used Variable Number Tandem Repeats (VNTRs) for individual forensic identification |
 | **Köhler & Milstein** | Hybridoma Technology (1975) | Fused B-lymphocytes with myeloma cells to produce **Monoclonal Antibodies (mAbs)** |
 | **Charpentier & Doudna** | CRISPR-Cas9 Gene Editing (2012) | Molecular tool for precise genome editing; Nobel Prize in Chemistry 2020 |
+
+</details>
 
 ---
 

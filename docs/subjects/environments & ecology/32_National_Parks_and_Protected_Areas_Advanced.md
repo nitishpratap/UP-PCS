@@ -76,7 +76,8 @@ National Parks of Uttar Pradesh (उत्तर प्रदेश) | Wildlife 
 
 </details>
 
-## Must-score facts — UP PAs, firsts, marine
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — UP PAs, firsts, marine</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### UP / India firsts
 
@@ -93,6 +94,8 @@ National Parks of Uttar Pradesh (उत्तर प्रदेश) | Wildlife 
 | Most NPs / most WLS | MP / A&N |
 | First Marine NP (प्रथम समुद्री उद्यान) | Gulf of Kutch **1980** |
 | Gir / Kaziranga | Only Asiatic lions / one-horned rhino classic |
+
+</details>
 
 ---
 

@@ -86,7 +86,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Census 2011 Master Demographic Matrix (India vs Uttar Pradesh vs Uttarakhand)
 
@@ -133,6 +134,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **Child Sex Ratio (0–6 Years)** | **1. Balrampur (950)**<br>2. Sant Kabir Nagar (942)<br>3. Bahraich (935)<br>4. Siddharthnagar (935)<br>5. Barabanki (932) | **1. Baghpat (841)**<br>2. Gautam Buddha Nagar (843)<br>3. Ghaziabad (850)<br>4. Meerut (852)<br>5. Bulandshahr (854) |
 | **Overall Literacy Rate (%)** | **1. Gautam Buddha Nagar (80.12%)**<br>2. Kanpur Nagar (79.65%)<br>3. Auraiya (78.95%)<br>4. Etawah (78.41%)<br>5. Ghaziabad (78.07%) | **1. Shravasti (46.74%)**<br>2. Bahraich (49.36%)<br>3. Balrampur (49.51%)<br>4. Badaun (51.29%)<br>5. Rampur (53.34%) |
 | **Female Literacy Rate (%)** | **1. Kanpur Nagar (75.05%)**<br>2. Lucknow (71.54%)<br>3. Gautam Buddha Nagar (70.82%)<br>4. Auraiya (70.41%)<br>5. Ghaziabad (69.79%) | **1. Shravasti (34.78%)**<br>2. Balrampur (38.43%)<br>3. Bahraich (39.18%)<br>4. Badaun (40.09%)<br>5. Rampur (44.44%) |
+
+</details>
 
 ---
 

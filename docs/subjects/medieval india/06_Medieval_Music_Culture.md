@@ -60,7 +60,8 @@ Medieval Music | Later Mughal (मुग़ल) Music | Mughal Court Patronage |
 
 </details>
 
-## Must-score facts — form, patron, treatise
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — form, patron, treatise</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Form ↔ tag
 
@@ -105,6 +106,8 @@ Medieval Music | Later Mughal (मुग़ल) Music | Mughal Court Patronage |
 | Agra gharana | Khayal |
 | Lucknow–Banaras | Thumri |
 | Mirzapur–Banaras belt | **Kajri** |
+
+</details>
 
 ---
 

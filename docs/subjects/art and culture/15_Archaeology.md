@@ -71,7 +71,8 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 
 </details>
 
-## Must-score facts — methods, ASI, Indus excavators
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — methods, ASI, Indus excavators</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Method tags
 
@@ -101,6 +102,8 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 | Rakhigarhi | **Haryana** (largest in India) |
 | Balu / Manda / Padri / Hulas | Haryana / J&K / Gujarat / UP |
 | Lothal / Dholavira | Gujarat (dock / reservoirs) |
+
+</details>
 
 ---
 

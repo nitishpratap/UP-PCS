@@ -77,7 +77,8 @@ Sharqi Sultanate (Jaunpur (जौनपुर)) | Kashmir under Zain-ul-Abidin (
 
 </details>
 
-## Must-score facts — capitals, books, chronology
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — capitals, books, chronology</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### State ↔ capital / founder
 
@@ -124,6 +125,8 @@ Sharqi Sultanate (Jaunpur (जौनपुर)) | Kashmir under Zain-ul-Abidin (
 ### Vijayanagara dynasty order
 
 **Sangama → Saluva → Tuluva → Aravidu**
+
+</details>
 
 ---
 

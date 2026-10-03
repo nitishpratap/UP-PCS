@@ -86,7 +86,8 @@
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: National Parks, Tiger Reserves and Major Wildlife Sanctuaries in Uttar Pradesh
 
@@ -140,6 +141,8 @@ Uttar Pradesh possesses one of the largest concentrations of **Ramsar Wetlands o
 | **Railway Zonal Headquarters** | 1. **North Eastern Railway (NER)**: Headquartered at **Gorakhpur**<br>2. **North Central Railway (NCR)**: Headquartered at **Prayagraj (Subedarganj)** | 2 Railway Zonal HQs located inside UP | • UP has the **largest railway route kilometer network in India** (>8,800 route km).<br>• Gorakhpur features one of the world's longest railway platforms (1,366.3 metres). |
 | **Inland Waterway (National Waterway 1 - NW-1)** | **Prayagraj (UP) to Haldia (West Bengal)** along the Ganga River | **1,620 km** (Jal Marg Vikas Project - World Bank assisted) | • India's first National Waterway.<br>• **Multimodal Freight Terminal** operational at **Ralhupur, Varanasi** and floating cargo terminals at Prayagraj and Ghazipur. |
 | **Urban Rapid Transit / Metro** | Operational in **6 Cities**: **Lucknow, Kanpur, Agra, Noida-Greater Noida (Aqua Line), Ghaziabad, Meerut (Metro + Namo Bharat RRTS)** | India's premier State with 6 operational metro transit cities | • Namo Bharat (Regional Rapid Transit System - RRTS) links Delhi–Ghaziabad–Meerut with operational speeds of $160	ext{ km/h}$. |
+
+</details>
 
 ---
 

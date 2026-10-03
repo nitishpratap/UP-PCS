@@ -74,7 +74,8 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 </details>
 
-## Must-score facts — AR6, sinks, NAPCC, NDC
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — AR6, sinks, NAPCC, NDC</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Advanced tags
 
@@ -89,6 +90,8 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 | NDC class facts | ~45% intensity cut; ~50% non-fossil capacity |
 | 1 carbon credit | 1 tCO₂e |
 | Green Credit / PAT | **2023** / ESCerts — ≠ Kyoto credit |
+
+</details>
 
 ---
 

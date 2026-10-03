@@ -80,7 +80,8 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 
 </details>
 
-## Must-score facts — Harsha, travellers, houses
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Harsha, travellers, houses</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Regional houses after Guptas
 
@@ -126,6 +127,8 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 | Ishvaravarman | **Jaunpur** (जौनपुर) stone |
 | Jivitagupta II | **Deo-Baranark** |
 | Sarvavarman | **Asirgarh** seal (≠ Gaya plate) |
+
+</details>
 
 ---
 

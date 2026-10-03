@@ -104,7 +104,8 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 
 </details>
 
-## Master Reference Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Master Reference Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Master Ore & Metallurgy Classification (NCERT / Lucent Standard)
 
@@ -171,6 +172,8 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 | **Double Displacement (Precipitation)** | $AB + CD \to AD\downarrow + CB$ | Mutual exchange of ions between two aqueous solutions forming a precipitate. | Barium sulphate test: $Na_2SO_4\text{(aq)} + BaCl_2\text{(aq)} \to BaSO_4\downarrow\text{ (white ppt)} + 2NaCl\text{(aq)}$. |
 | **Neutralization** | $\text{Acid} + \text{Base} \to \text{Salt} + H_2O$ | $H^+$ from acid combines with $OH^-$ from base; exothermic ($\Delta H = -57.1\text{ kJ/mol}$). | Hydrochloric acid with sodium hydroxide: $HCl + NaOH \to NaCl + H_2O$. |
 | **Redox Reaction** | $\text{Oxidation} + \text{Reduction}$ | Simultaneous transfer of electrons; one species oxidized, other reduced. | Thermite welding: $Fe_2O_3 + 2Al \to Al_2O_3 + 2Fe$ ($Al$ is oxidized; $Fe^{3+}$ is reduced). |
+
+</details>
 
 ---
 

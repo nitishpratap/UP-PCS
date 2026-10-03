@@ -69,7 +69,8 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 
 </details>
 
-## Must-score facts — highest-yield vault rows
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — highest-yield vault rows</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Slogan ↔ person (top 6)
 
@@ -116,6 +117,8 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 | Mountbatten | 3 June Plan; last Viceroy (माउंटबेटन) |
 
 > **Logic:** These four (चातुर्याम) tables carry the heaviest repeat weight across 2018–2025 papers. Drill them first if short on time.
+
+</details>
 
 ---
 

@@ -79,7 +79,8 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity (आनुवंशि
 
 </details>
 
-## Must-score facts — levels, hotspots, CBD, IUCN
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — levels, hotspots, CBD, IUCN</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Concepts
 
@@ -106,6 +107,8 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity (आनुवंशि
 | Kunming–Montreal | **2022**; 30×30 |
 | India Ramsar | **80** sites; TN highest; UP **10** class fact |
 | Hotspot concept | Norman Myers (≠ BirdLife) |
+
+</details>
 
 ---
 

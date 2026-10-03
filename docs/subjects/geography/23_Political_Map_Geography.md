@@ -146,7 +146,8 @@ D. 8 degrees 4' N to 37 degrees 6' N
 
 </details>
 
-## Must-score facts — UNCLOS, borders, straits
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — UNCLOS, borders, straits</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### UNCLOS distances
 
@@ -179,6 +180,8 @@ D. 8 degrees 4' N to 37 degrees 6' N
 | Malacca | Indian Ocean–South China Sea |
 | Gibraltar | Med–Atlantic |
 | Bosporus | Black Sea–Marmara |
+
+</details>
 
 ---
 

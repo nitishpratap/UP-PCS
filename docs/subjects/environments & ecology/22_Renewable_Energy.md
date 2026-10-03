@@ -75,7 +75,8 @@ Solar Energy | Wind Energy | Biomass Energy (बायोमास ऊर्ज�
 
 </details>
 
-## Must-score facts — solar, wind, biomass, tidal
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — solar, wind, biomass, tidal</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Solar / wind
 
@@ -90,6 +91,8 @@ Solar Energy | Wind Energy | Biomass Energy (बायोमास ऊर्ज�
 | Biogas majors | **CH₄ + CO₂** (≠ butane/CO) |
 | Tidal best India | Gulf of Khambhat → Gulf of Kutch |
 | SHP (MNRE) | ≤**25 MW** |
+
+</details>
 
 ---
 

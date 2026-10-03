@@ -122,7 +122,8 @@ Development of Education | Orientalist (प्राच्यवादी)–Ang
 
 </details>
 
-## Must-score facts — commission/act ↔ year ↔ core recommendation
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — commission/act ↔ year ↔ core recommendation</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Education bodies
 
@@ -161,6 +162,8 @@ Development of Education | Orientalist (प्राच्यवादी)–Ang
 - Hunter is **not** Sadler, and neither is Hartog.
 - Metcalfe **freed** the press; Adam had **licensed** it — do not swap the two names.
 - Lytton **passed** the Vernacular Press Act; Ripon **repealed** it.
+
+</details>
 
 ---
 

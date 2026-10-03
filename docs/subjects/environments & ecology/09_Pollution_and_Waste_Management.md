@@ -81,7 +81,8 @@ Environmental Pollution (पर्यावरणीय प्रदूषण) |
 
 </details>
 
-## Must-score facts — pollutants, AQI, smog, laws
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — pollutants, AQI, smog, laws</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Basics
 
@@ -95,6 +96,8 @@ Environmental Pollution (पर्यावरणीय प्रदूषण) |
 | CO / Lead | Hb affinity ~200–300× / IQ–brain harm |
 | Lichens / Radon | SO₂ bio-indicator / top indoor pollutant |
 | NCAP / BS-VI | **2019** / **2020** |
+
+</details>
 
 ---
 

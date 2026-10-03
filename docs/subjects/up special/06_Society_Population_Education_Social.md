@@ -86,7 +86,8 @@
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Census 2011 Master Demographic Matrix for Uttar Pradesh (State Aggregate vs District Extremes)
 
@@ -140,6 +141,8 @@
 | **CSIR Cluster Lucknow** | • **CDRI** (Central Drug Research Institute - 1951)<br>• **IITR** (Indian Institute of Toxicology Research - 1965)<br>• **NBRI** (National Botanical Research Institute - 1953)<br>• **CIMAP** (Central Inst. of Medicinal & Aromatic Plants - 1959) | **Lucknow** | 1951–1965 | Lucknow is one of India's largest CSIR biological research clusters (developed drugs like *Centchroman/Saheli* and *Arteether*). |
 | **Palaeobotany** | **Birbal Sahni Institute of Palaeosciences (BSIP)** | **Lucknow** | **1946** | Founded by renowned palaeobotanist **Prof. Birbal Sahni**; global centre for fossil plant and palaeoclimate research. |
 | **Fisheries Genetics** | **National Bureau of Fish Genetic Resources (NBFGR)** | **Telibagh, Lucknow** | **1983** | ICAR institute for cataloguing and conserving fish genetic resources and aquatic biodiversity. |
+
+</details>
 
 ---
 

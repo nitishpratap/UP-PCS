@@ -84,7 +84,8 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 </details>
 
-## Must-score facts — terms, succession, productivity
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — terms, succession, productivity</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Founders / levels
 
@@ -109,6 +110,8 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 | Eutrophication | Nutrient overload → bloom → DO crash |
 | Energy vs nutrients | Energy **one-way**; nutrients **cycle** |
 | Ecotone / Deep ecology | Transition zone / Arne Næss **1973** |
+
+</details>
 
 ---
 

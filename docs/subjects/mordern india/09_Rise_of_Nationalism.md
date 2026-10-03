@@ -78,7 +78,8 @@ Political Organisations before INC | Zamindari Association | Bangabhasha Prakash
 
 </details>
 
-## Must-score facts — 12 must-know INC sessions
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — 12 must-know INC sessions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 Every list-matching or chronology question draws from this spine. Learn **year, place, President, and the one fact** — nothing more is needed for prelims.
 
@@ -98,6 +99,8 @@ Every list-matching or chronology question draws from this spine. Learn **year, 
 | 12 | 1931 | Karachi | **Vallabhbhai Patel** | **Fundamental Rights** resolution |
 
 > **Logic:** If a question gives four sessions and asks for the **odd one out** or a chronology, these twelve cover almost every UPPCS angle seen 2018–2025. Sessions after 1931 (Faizpur, Haripura, Tripuri, Ramgarh) belong with the Gandhian-era and final-phase topics but are listed here too (see 9.4) for completeness.
+
+</details>
 
 ---
 

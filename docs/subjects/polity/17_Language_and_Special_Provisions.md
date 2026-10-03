@@ -86,7 +86,8 @@ Official Language | Arts. 343–351 | 8th Schedule (अष्टम अनुस
 
 </details>
 
-## Must-score facts — official language, 8th Schedule, 371
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — official language, 8th Schedule, 371</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Official language (Part XVII)
 
@@ -109,6 +110,8 @@ Official Language | Arts. 343–351 | 8th Schedule (अष्टम अनुस
 | Out | **Bhojpuri** (classic trap) |
 | Special States | **371–371J** (Part XXI) |
 | UP | **No** 371-series special article |
+
+</details>
 
 ---
 

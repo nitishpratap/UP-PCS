@@ -86,7 +86,8 @@
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: The 9 Agro-Climatic Zones of Uttar Pradesh (Planning Commission Classification)
 
@@ -141,6 +142,8 @@
 | **Central Institute for Subtropical Horticulture (CISH)** | **Rehmankhera, Lucknow** | ICAR | **1972** | Nodal institute for subtropical fruits (Mango, Guava, Papaya, Bael, Jamun) and pest management. |
 | **National Botanical Research Institute (NBRI)** | **Lucknow** | CSIR (Council of Scientific & Industrial Research) | **1953** | Plant taxonomy, floriculture, phytoremediation, and herbal drug standardization. |
 | **Central Institute of Medicinal and Aromatic Plants (CIMAP)** | **Lucknow** | CSIR | **1959** | Research on aromatic crops (Mentha/Peppermint, Lemongrass, Palmarosa) and herbal extracts. |
+
+</details>
 
 ---
 

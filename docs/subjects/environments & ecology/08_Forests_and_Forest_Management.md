@@ -78,7 +78,8 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 </details>
 
-## Must-score facts — ISFR, types, law chain
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — ISFR, types, law chain</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Cover definitions
 
@@ -104,6 +105,8 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 ---
 
 ![India Forest Canopy Architecture & ISFR Forest Types](images/env_ch08_01_india_forest_canopy_classification.png)
+
+</details>
 
 ## 8.1 Forests and their Types
 

@@ -92,7 +92,8 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 </details>
 
-## Must-score facts — Shunga, Satavahana, Sangam, Kushan
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Shunga, Satavahana, Sangam, Kushan</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### House / inscription tags
 
@@ -168,6 +169,8 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 | **Satavahana Coins** | **Lead (सीसा), Potin (पोटीन)**, Copper, Silver | • **NEVER ISSUED GOLD COINS** (high-frequency trap!)<br>• Bilingual silver coins (*Gautamiputra Satakarni* restruck Nahapana's silver coins at Jogalthambi)<br>• Distinctive motif: **Ship with double masts** representing active Indian Ocean maritime trade | **Yajna Sri Satakarni** (ship-type coins); **Gautamiputra Satakarni** (Jogalthambi hoard) |
 | **Yaudheya Coins**<br>(Tribal / Republican) | Copper & Bronze | • Issued by republican warrior clan of Punjab/Haryana/Rajasthan<br>• Reverse shows **Karttikeya (Brahmanyadeva)** holding spear with peacock (*Mayura*), six-headed (*Shadanana*)<br>• Legend: *Yaudheya Ganasya Jaya* ("Victory to the Yaudheya Republic") | UPPCS Special Mains 2008 Q14 (Yaudheyas = Karttikeya coins) |
 | **Gupta Coins**<br>(*Dinar* gold, *Rupaka* silver) | Gold, Silver, Copper | • **LARGEST NUMBER OF GOLD COINS** in ancient India (*Dinar*)<br>• Elaborate artistic classical types: Archer type, Tiger-slayer, Lion-slayer, Ashwamedha type, Lyrist (Veena) type, King-and-Queen (*Chandragupta I & Kumaradevi*)<br>• Silver coins (*Rupaka*) first issued by **Chandragupta II** after conquering Western Kshatrapas of Malwa/Saurashtra | • **Samudragupta**: Veena/Lyrist type & Ashwamedha type<br>• **Chandragupta II Vikramaditya**: Lion-slayer & Silver Rupaka<br>• **Kumaragupta I**: Karttikeya type & maximum number of hoards (Bayana hoard in Bharatpur, Rajasthan) |
+
+</details>
 
 ---
 

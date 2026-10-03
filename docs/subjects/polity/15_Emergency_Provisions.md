@@ -82,7 +82,8 @@
 
 </details>
 
-## Must-score facts — 352, 356, 360
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — 352, 356, 360</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Three Emergencies
 
@@ -108,6 +109,8 @@
 |------|------|
 | Floor test | *Bommai* — majority in House |
 | Approval | Parliament within **2 months**; renewable |
+
+</details>
 
 ---
 

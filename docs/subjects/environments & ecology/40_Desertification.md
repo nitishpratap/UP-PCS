@@ -62,7 +62,8 @@ Desertification | Land Degradation (भू-क्षरण) | Drought (सूख
 
 </details>
 
-## Must-score facts — ASDM, Chambal, UNCCD, LDN
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — ASDM, Chambal, UNCCD, LDN</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Locks
 
@@ -77,6 +78,8 @@ Desertification | Land Degradation (भू-क्षरण) | Drought (सूख
 | UNCCD / Day | **1994** / **17 June** |
 | LDN | No net loss by **2030** (SDG 15.3) |
 | UNCCD ≠ UNFCCC | Desertification / climate |
+
+</details>
 
 ---
 

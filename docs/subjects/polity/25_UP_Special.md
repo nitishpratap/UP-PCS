@@ -105,7 +105,8 @@ Newest first. One event, one fact.
 
 </details>
 
-## Must-score facts — UP polity tags
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — UP polity tags</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Capitals / firsts
 
@@ -133,6 +134,8 @@ Newest first. One event, one fact.
 | Item | Lock |
 |------|------|
 | Before **9 Nov 2000** | Larger Assembly strength (Uttarakhand carved out) |
+
+</details>
 
 ---
 

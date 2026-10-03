@@ -119,7 +119,8 @@ National income and planning stay in Economy Topic 1. Money and RBI deepen in To
 
 </details>
 
-## Must-score drill — funds, deficits, FC, GST
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — funds, deficits, FC, GST</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Item | Tag |
 |---|---|
@@ -150,6 +151,8 @@ National income and planning stay in Economy Topic 1. Money and RBI deepen in To
 | Saksham | CBIC indirect-tax network |
 | AIDC products (2021–22) | 29 |
 | Chakravyuha | Marketism without exit |
+
+</details>
 
 ---
 

@@ -110,7 +110,8 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
 
 </details>
 
-## Must-score facts — Crops, Seasons, Inputs, and Committees
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Crops, Seasons, Inputs, and Committees</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Cropping Seasons in India (शस्य ऋतुएं)
 
@@ -129,6 +130,8 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
 | **R.V. Gupta Committee** | **1997 (Report 1998)** | Simplification of agricultural credit delivery | Recommended formulation of the **Kisan Credit Card (KCC)** scheme (launched Aug 1998). |
 | **Prof. M.S. Swaminathan Committee (NCF)** | **2004 (5 Reports, 2004–06)** | National Commission on Farmers | Recommended that MSP must be at least **Cost C2 + 50%**, asset protection, and farm credit interest rate cap at 4%. |
 | **Dr. Ashok Dalwai Committee** | **2016 (Report 2018)** | Doubling Farmers' Income by 2022 | Recommended shift from "production-centric" to "income-centric" agriculture, promoting FPOs, secondary agri, e-NAM. |
+
+</details>
 
 ---
 

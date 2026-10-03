@@ -113,7 +113,8 @@ D. Members of Lok Sabha (लोकसभा) only
 
 </details>
 
-## Must-score facts — President, VP, PM, ordinances
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — President, VP, PM, ordinances</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Frame
 
@@ -144,6 +145,8 @@ D. Members of Lok Sabha (लोकसभा) only
 | VP role | Ex-officio RS Chair |
 | PM | Appointed by President; real executive; collective responsibility to LS |
 | AG | Art. **76**; may speak both Houses; no vote |
+
+</details>
 
 ---
 

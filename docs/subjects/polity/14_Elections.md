@@ -94,7 +94,8 @@
 
 </details>
 
-## Must-score facts — suffrage, systems, RPA
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — suffrage, systems, RPA</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Articles
 
@@ -121,6 +122,8 @@
 | Bye-election | Ordinarily within **6 months** |
 | Presidential MLA vote value | **1971** population formula |
 | Model Code | EC-enforced; not in Constitution text |
+
+</details>
 
 ---
 

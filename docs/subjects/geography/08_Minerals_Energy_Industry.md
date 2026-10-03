@@ -145,7 +145,8 @@ D. Vadodara
 
 </details>
 
-## Must-score facts — ore belts, mine–state, energy
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — ore belts, mine–state, energy</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Frame
 
@@ -173,6 +174,8 @@ D. Vadodara
 | Coal belts | Damodar, Mahanadi, Godavari, Son |
 | Petroleum | Mumbai High; Assam; Gujarat |
 | Atomic minerals | Beach sands (monazite) South India |
+
+</details>
 
 ---
 

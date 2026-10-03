@@ -74,7 +74,8 @@ Raja (राजा) Ram Mohan Roy (राम मोहन राय) | Ishwar Ch
 
 </details>
 
-## Must-score facts — founders, years, regions
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — founders, years, regions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Founder ↔ institution ↔ year (consolidated)
 
@@ -118,6 +119,8 @@ Raja (राजा) Ram Mohan Roy (राम मोहन राय) | Ishwar Ch
 | Punjab | Arya Samaj (base); Singh Sabha | Dayanand; Khem Singh Bedi / Gurmukh Singh |
 | South (Kerala/Tamil) | SNDP; Self-Respect | Narayana Guru; Periyar |
 | Muslim streams | Aligarh; Deoband; Wahabi; Faraizi; Ahmadiyya | Sir Syed; Nanautawi–Gangohi; Sayyid Ahmad; Shariatullah; Ghulam Ahmad |
+
+</details>
 
 ---
 

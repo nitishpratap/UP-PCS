@@ -132,7 +132,8 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 
 </details>
 
-## Must-score facts — relief, currents, El Niño
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — relief, currents, El Niño</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Ocean relief
 
@@ -153,6 +154,8 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 | Agulhas | Into Indian Ocean (S. Africa teaching) |
 | El Niño | Warm water off Peru; weak upwelling; fish crash |
 | Tides | Spring / neap; lunar–solar alignment |
+
+</details>
 
 ---
 

@@ -90,7 +90,8 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 </details>
 
-## Must-score facts — kings, edicts, officials
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — kings, edicts, officials</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### King order
 
@@ -130,6 +131,8 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 ### Neighbours (not provinces)
 
 **Chola · Pandya · Satiyaputra · Keralaputra · Sri Lanka (Tamraparni)**
+
+</details>
 
 ---
 

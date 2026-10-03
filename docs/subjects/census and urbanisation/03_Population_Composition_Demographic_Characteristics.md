@@ -86,7 +86,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Population Composition by Religion (Census 2011 Master Matrix)
 
@@ -133,6 +134,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **9th** | **Odia** | **3.75 Cr** | **3.10%** | Indo-Aryan | Odisha, Jharkhand, West Bengal. |
 | **10th** | **Malayalam** | **3.48 Cr** | **2.88%** | Dravidian | Kerala, Lakshadweep, Mahe (Puducherry). |
 | **Least Spoken** | **Sanskrit** | **24,821 speakers** | **0.002%** | Indo-Aryan | Declared classical language; primarily scholarly and ritual use. |
+
+</details>
 
 ---
 

@@ -28,7 +28,8 @@
 
 ---
 
-## Must-Score Facts
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Five STs = Jaunsari, Tharu, Bhotia, Buksa, Raji.
 2. Declared ST in **1967**.
@@ -47,6 +48,8 @@
 | Five STs vs many hill castes | Only the notified five are STs of UK |
 | Raji vs Bhotia | Both in the five; different ecological niches |
 | Language Hindi vs English only | Hindi is the official language card for state polity |
+
+</details>
 
 </details>
 

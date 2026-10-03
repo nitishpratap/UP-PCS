@@ -66,7 +66,8 @@ Carbon Footprint | Ecological Footprint (पारिस्थितिक प�
 
 </details>
 
-## Must-score facts — footprints, net zero, hydrogen, plastics
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — footprints, net zero, hydrogen, plastics</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Current locks
 
@@ -82,6 +83,8 @@ Carbon Footprint | Ecological Footprint (पारिस्थितिक प�
 | Grey / Blue / Green H₂ | Gas reform / +CCS / RE electrolysis |
 | Microplastics | <5 mm; SUP ban push **2022** |
 | Climate refugees | Mostly IDPs; not 1951 Refugee Convention category |
+
+</details>
 
 ---
 

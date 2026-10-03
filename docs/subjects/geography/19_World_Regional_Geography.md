@@ -109,7 +109,8 @@ None mandatory — static political-map chapter.
 
 </details>
 
-## Must-score facts — capitals, deserts, regional traps
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — capitals, deserts, regional traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Central Asia capitals
 
@@ -131,6 +132,8 @@ None mandatory — static political-map chapter.
 | Borneo | Indonesia + Malaysia + Brunei |
 | Korea | Seoul south / Pyongyang north (~38th parallel) |
 | Gaza / West Bank | Egypt side / Jordan side |
+
+</details>
 
 ---
 

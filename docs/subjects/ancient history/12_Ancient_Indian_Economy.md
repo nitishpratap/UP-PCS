@@ -78,7 +78,8 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 </details>
 
-## Must-score facts — coins, ports, guilds
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — coins, ports, guilds</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Coin ladder
 
@@ -137,6 +138,8 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 | **Anjuvannam** (अंजुवण्णम्) | Guild of **foreign / West Asian merchants** (Jews, Christians, Muslims, Persians) | Malabar & Coromandel coasts (Kerala, TN) | Autonomous trading privileges granted by royal charters (e.g., **Jewish Copper Plates of Cochin** to Joseph Rabban, 1000 CE; **Quilon Syrian Plates** to Mar Sapir Iso) |
 | **Valanjiyar** (वलंजियर) | Martial merchant community / trading corporation | South India & Ceylon | Often associated with the Ayyavole 500; traded in jewels, spices, and fine textiles; maintained martial guards |
 | **Nagaram** (नगरम) | Local assembly of resident merchants in market towns | Chola Empire (Tamil Nadu) | Handled urban local administration, commercial dispute resolution, and trade tax collection for the crown |
+
+</details>
 
 ---
 

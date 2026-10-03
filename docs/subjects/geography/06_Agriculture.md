@@ -137,7 +137,8 @@
 
 </details>
 
-## Must-score facts — seasons, crop–state, irrigation
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — seasons, crop–state, irrigation</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Land-use terms
 
@@ -165,6 +166,8 @@
 | Groundnut / Mustard / Soy | **GJ** / **RJ** (rabi) / **MP** (kharif) |
 | Cotton | ~21°C+; 50–100 cm; ~210 frost-free days; black soil preferred |
 | Pulses | Rhizobium N-fix; India top producer |
+
+</details>
 
 ---
 

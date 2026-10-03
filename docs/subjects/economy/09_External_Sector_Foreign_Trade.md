@@ -100,7 +100,8 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 
 </details>
 
-## Must-score drill — BoP, forex, FEMA
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — BoP, forex, FEMA</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Item | Tag |
 |---|---|
@@ -114,6 +115,8 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 | FEMA force date | 1 June 2000 |
 | FERA false tag | “Mainly external debt liability” |
 | WTO MC-13 | Abu Dhabi |
+
+</details>
 
 ---
 

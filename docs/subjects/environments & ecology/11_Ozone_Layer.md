@@ -72,7 +72,8 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 
 </details>
 
-## Must-score facts — good/bad ozone (बुरा ओजोन), Montreal, Kigali
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — good/bad ozone (बुरा ओजोन), Montreal, Kigali</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Science
 
@@ -97,6 +98,8 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 ---
 
 ![Chapman Ozone Cycle & CFC Catalytic Depletion Chain](images/env_ch11_01_ozone_layer_formation_depletion_mechanism.png)
+
+</details>
 
 ## 11.1 Ozone Layer
 

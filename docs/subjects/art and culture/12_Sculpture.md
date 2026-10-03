@@ -74,7 +74,8 @@ Indian Sculpture | Gupta (गुप्त) Sculpture | Buddhist Sculpture | Temp
 
 </details>
 
-## Must-score facts — schools, mudras, materials
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — schools, mudras, materials</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Timeline / schools
 
@@ -102,9 +103,9 @@ Indian Sculpture | Gupta (गुप्त) Sculpture | Buddhist Sculpture | Temp
 | Chola Nataraja | Processional bronze; damaru + fire; foot on Apasmara |
 | Stone map | Mathura red sandstone · Gandhara schist · Hoysala soapstone teaching |
 
+</details>
+
 ---
-
-
 
 ## 12.1 Indian Sculpture
 

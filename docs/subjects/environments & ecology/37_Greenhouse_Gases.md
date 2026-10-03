@@ -70,7 +70,8 @@ Carbon Dioxide (CO₂) (कार्बन डाइऑक्साइड) | Met
 
 </details>
 
-## Must-score facts — GWP, shares, Kyoto basket
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — GWP, shares, Kyoto basket</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Gases
 
@@ -85,6 +86,8 @@ Carbon Dioxide (CO₂) (कार्बन डाइऑक्साइड) | Met
 | CFCs / HFCs | GHG+ODS (Montreal) / GHG only (Kigali) |
 | Not GHGs | Ar, N₂, O₂, He, H₂, propane |
 | Kyoto basket | CO₂ CH₄ N₂O HFCs PFCs SF₆ (+NF₃) |
+
+</details>
 
 ---
 

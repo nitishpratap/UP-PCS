@@ -98,7 +98,8 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 </details>
 
-## Must-score facts — Alexander, order, kings
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Alexander, order, kings</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Invader order
 
@@ -140,6 +141,8 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 ### Art pair
 
 **Gandhara** (Greco-Buddhist schist) · **Mathura** (red sandstone)
+
+</details>
 
 ---
 

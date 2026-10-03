@@ -98,7 +98,8 @@
 
 </details>
 
-## Must-score facts — type, Preamble, scholars
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — type, Preamble, scholars</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Type / design tags
 
@@ -153,6 +154,8 @@
 | Constitution amendment, RS members election | South Africa |
 | Fundamental Duties, Ideals of Justice | USSR (Russia) |
 | Republic, Ideals of Liberty/Equality/Fraternity | France |
+
+</details>
 
 ---
 

@@ -86,7 +86,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 
 </details>
 
-## Must-score drill — master tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — master tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Four Streams of Internal Migration in India (Census 2011 Matrix)
 
@@ -118,6 +119,8 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 | **Push-Pull Model of Migration** | **Everett S. Lee** | *A Theory of Migration* (**1966**) | Migration is governed by 4 sets of factors:<br>1. **Factors associated with the area of origin** (Push factors).<br>2. **Factors associated with the area of destination** (Pull factors).<br>3. **Intervening Obstacles** (Distance, travel cost, physical barriers, immigration laws).<br>4. **Personal Factors** (Age, gender, education, risk appetite). | Classifies migration into Push factors (negative forces driving out) and Pull factors (positive attractions drawing in). |
 | **Mobility Transition Model** | **Wilbur Zelinsky** | *The Hypothesis of the Mobility Transition* (**1971**) | Spatial mobility transitions through sequential stages parallel to the **Demographic Transition Model (DTT)**:<br>• Phase 1 (Pre-modern): Little circulation.<br>• Phase 2 (Early transition): Massive rural-to-urban and international migration.<br>• Phase 3 (Late transition): Urban-to-urban dominates.<br>• Phase 4 (Advanced): Inter-urban and intra-urban circulation dominates. | Connects industrialisation and demographic transition with patterns of human migration. |
 | **Todaro Migration Model** | **Michael P. Todaro** | *A Model of Labor Migration and Urban Unemployment* (**1969**) | Rural-urban migration is driven by **expected urban-rural income differentials** rather than actual wage differentials, accounting for urban unemployment probability. | Explains why rural migration to cities continues even in the presence of high urban unemployment. |
+
+</details>
 
 ---
 

@@ -152,7 +152,8 @@ Saponification & Detergent Chemistry (Micelle Dynamics, Hard Water Scum vs Synth
 
 </details>
 
-## Master Reference Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Master Reference Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Master Classification of Industrial Glasses & Optical Formulations
 
@@ -195,6 +196,8 @@ Saponification & Detergent Chemistry (Micelle Dynamics, Hard Water Scum vs Synth
 | **Fungicides** | **Bordeaux Mixture ($CuSO_4 + Ca(OH)_2$)**, Sulphur | Copper ions destroy fungal spores | Standard spray for grape downy mildew and potato blight. |
 | **Cloud-Seeding Nucleants** | **Silver Iodide ($AgI$)**, Dry Ice (solid $CO_2$) | Hexagonal crystal template for ice crystal growth | Deployed by aircraft for artificial precipitation. |
 | **Photographic Salts** | **Silver Bromide ($AgBr$)**, Hypo ($Na_2S_2O_3$) | Light-sensitive emulsion; hypo fixes image | Foundational to classical monochrome photography. |
+
+</details>
 
 ---
 

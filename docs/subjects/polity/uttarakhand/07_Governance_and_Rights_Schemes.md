@@ -24,7 +24,8 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-Score Facts (High-Yield UKPCS)</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Uniform Civil Code (UCC) of Uttarakhand (2024) Milestones:**
    - *Drafting Committee Head:* Retired SC Judge **Justice Ranjana Prakash Desai** (constituted May 2022).
@@ -50,6 +51,8 @@
    - Enacted as the *Uttarakhand Competitive Examination (Measures for Prevention and Redressal of Unfair Means in Recruitment) Act, 2023*.
    - Provisions: Offenses are non-bailable and cognizable; organizers of paper leaks face **life imprisonment and ₹10 Crore fine** plus property confiscation; candidates caught cheating are debarred for **10 years**.
 5. **Sanskrit as Second Official Language:** In January 2010, Uttarakhand became the **first state in India** to accord **Sanskrit** the status of second official language alongside Hindi.
+
+</details>
 
 ---
 

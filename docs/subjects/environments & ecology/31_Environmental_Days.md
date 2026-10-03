@@ -70,7 +70,8 @@ World Environment (पर्यावरण) Day (विश्व पर्य�
 
 </details>
 
-## Must-score facts — calendar order of key days
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — calendar order of key days</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Day ↔ date
 
@@ -86,6 +87,8 @@ World Environment (पर्यावरण) Day (विश्व पर्य�
 | Ozone | **16 September** (Montreal) |
 | March ladder | Wildlife 3 → Forests 21 → Water 22 |
 | India WED hosts | **2011** Forests; **2018** Beat Plastic |
+
+</details>
 
 ---
 

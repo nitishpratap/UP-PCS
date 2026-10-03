@@ -146,7 +146,8 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 
 </details>
 
-## Master Reference Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Master Reference Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Master Commercial Polymer Classification (NCERT / Lucent Standard)
 
@@ -202,6 +203,8 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 > - **Lab-Grown Diamonds (LGDs):** Synthesized via **High Pressure High Temperature (HPHT)** or **Chemical Vapour Deposition (CVD)** using **graphite or small diamond fragments as seeds**.
 > - **Bond Order of CO Group:** Carbon monoxide has 10 valence electrons; Molecular orbital configuration yields $\text{Bond Order} = \frac{1}{2}(N_b - N_a) = \frac{1}{2}(8 - 2) = \mathbf{3}$.
 > - **Dry Ice:** Solid carbon dioxide ($CO_2$) sublimes at $-78.5^\circ\text{C}$ without liquid transition; non-toxic cooling agent.
+
+</details>
 
 ## Detailed Theory Notes
 

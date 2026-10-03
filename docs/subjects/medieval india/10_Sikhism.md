@@ -72,7 +72,8 @@ Sikhism | Guru (गुरु) Tradition | Ten Sikh Gurus | Guru Granth (गु�
 
 </details>
 
-## Must-score facts — Gurus, Granth, Khalsa
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Gurus, Granth, Khalsa</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Ten Gurus (दस गुरु) (order)
 
@@ -119,6 +120,8 @@ Sikhism | Guru (गुरु) Tradition | Ten Sikh Gurus | Guru Granth (गु�
 | Amritsar | Ram Das tank / Harmandir |
 | Anandpur | Khalsa founding |
 | Hem Kund (Chamoli, UK) | Gobind Singh tradition gurudwara |
+
+</details>
 
 ---
 

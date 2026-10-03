@@ -91,7 +91,8 @@ Wildlife Sanctuary | National Park | Biosphere Reserve (जैवमंडल �
 
 </details>
 
-## Must-score facts — WPA categories, tiger, Ramsar
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — WPA categories, tiger, Ramsar</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Strictness / categories
 
@@ -114,6 +115,8 @@ Wildlife Sanctuary | National Park | Biosphere Reserve (जैवमंडल �
 | Ramsar | **1971**; India joined **1982** |
 | Rudrasagar / Sultanpur | Tripura / Haryana (**not** UP) |
 | ESZ | EPA **1986** buffer (≠ WPA category) |
+
+</details>
 
 ---
 

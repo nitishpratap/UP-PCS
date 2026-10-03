@@ -110,7 +110,8 @@ Budget / tax / FC stay in Economy Topic 2. CPI / WPI inflation depth and capital
 
 </details>
 
-## Must-score drill — RBI tools and rural credit
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score drill — RBI tools and rural credit</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 | Item | Tag |
 |---|---|
@@ -131,6 +132,8 @@ Budget / tax / FC stay in Economy Topic 2. CPI / WPI inflation depth and capital
 | Swabhimaan | Rural banking inclusion (2011) |
 | CRA regulator | SEBI (CRISIL → ICRA → CARE) |
 | Plastic / smart money | Credit card teaching tag |
+
+</details>
 
 ---
 

@@ -72,7 +72,8 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 
 </details>
 
-## Must-score facts — Indus, schools, UP sites
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Indus, schools, UP sites</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Culture spine
 
@@ -103,6 +104,8 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 | Sanauli | Baghpat; Late Harappan / OCP chariots |
 | Stupa vs chaitya | Solid relic mound vs rock-cut prayer hall |
 | Balu / Manda / Padri / Hulas | Haryana / J&K / Gujarat / **UP** |
+
+</details>
 
 ---
 

@@ -92,7 +92,8 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA (नगरपा�
 
 </details>
 
-## Must-score facts — Parts, Schedules, Articles
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — Parts, Schedules, Articles</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Part ↔ subject
 
@@ -149,6 +150,8 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA (नगरपा�
 | 338 / 338A / 338B | NCSC / NCST / NCBC |
 | 352 / 356 / 360 | National / State / Financial Emergency |
 | 368 | Amendment procedure (प्रक्रिया) |
+
+</details>
 
 ---
 

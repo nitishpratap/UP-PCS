@@ -75,7 +75,8 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 
 </details>
 
-## Must-score facts — DU, ODS, Vienna–Montreal–Kigali
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — DU, ODS, Vienna–Montreal–Kigali</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Science / treaties
 
@@ -91,6 +92,8 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 | Vienna / Montreal / Kigali | **1985** / **1987** (force 1989) / **2016** |
 | Ozone Day | **16 Sep** |
 | Montreal ≠ Kyoto | Ozone / climate |
+
+</details>
 
 ---
 

@@ -113,7 +113,8 @@ States of Matter (Solid, Liquid, Gas, Plasma, Bose-Einstein Condensate) | Phase 
 
 </details>
 
-## Master Reference Tables
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Master Reference Tables</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Table 1: Complete Matrix of Colloidal Systems (NCERT / Lucent Master Reference)
 
@@ -172,6 +173,8 @@ States of Matter (Solid, Liquid, Gas, Plasma, Bose-Einstein Condensate) | Phase 
 | **Solid Solution** | Gas | Solid | **Hydrogen gas absorbed in Palladium** (fuel cell hydrogen storage) | Interstitial occlusion in crystal lattice |
 | **Solid Solution** | Liquid | Solid | **Mercury in gold or silver (Amalgam)**; Hexane in paraffin wax | Intermetallic wetting and solution |
 | **Solid Solution** | Solid | Solid | **Brass** ($70\%\text{ Cu} + 30\%\text{ Zn}$); **Bronze** ($90\%\text{ Cu} + 10\%\text{ Sn}$); Sterling silver | Substitutional metallic solid solution |
+
+</details>
 
 ## Detailed Theory Notes
 

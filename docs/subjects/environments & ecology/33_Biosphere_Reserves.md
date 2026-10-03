@@ -67,7 +67,8 @@ Biosphere Reserve (जैवमंडल आरक्षित क्षेत�
 
 </details>
 
-## Must-score facts — MAB zones, India list tags
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — MAB zones, India list tags</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Frame
 
@@ -82,6 +83,8 @@ Biosphere Reserve (जैवमंडल आरक्षित क्षेत�
 | Newest notified | Panna **2011** (MP) |
 | MP trio | Pachmarhi · Achanakmar–Amarkantak · Panna |
 | Multi-state | Nilgiri TN–KA–KL; Agasthyamalai KL–TN |
+
+</details>
 
 ---
 

@@ -159,7 +159,8 @@ D. Chilka, Michigan, Superior, Victoria
 
 </details>
 
-## Must-score facts — lakes, lagoons, Ramsar traps
+<details class="st-chapter-toggle st-toggle-must-score" markdown="1">
+<summary><strong>📋 Must-score facts — lakes, lagoons, Ramsar traps</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 ### Lake ↔ type / state
 
@@ -187,6 +188,8 @@ D. Chilka, Michigan, Superior, Victoria
 | Onega / Ladoga | **Russia** (≠ Canada) |
 | Michigan | Wholly **USA** |
 | Superior | USA + Canada |
+
+</details>
 
 ---
 
