@@ -1,0 +1,643 @@
+---
+hide:
+  - toc
+---
+
+# Topic 12 — Human Geography (Settlements) — High-Yield Tables
+
+<div class="rev-hero-banner rev-tables-hero" markdown="0">
+  <div class="rev-hero-badge">📊 HIGH-YIELD TABLES & MATRICES</div>
+  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
+  <p class="rev-hero-lead">Dense comparative tables, structural classifications, chronologies, and match-the-following matrices for <strong>Topic 12 — Human Geography (Settlements)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+</div>
+
+
+<details class="rev-toggle rev-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| Census town | 5,000 + 400/km² + 75% non-agri male main | Any big village / always a municipality | जनगणना नगर |
+| Clustered village | Plains + **Rajasthan water** + Bundelkhand/Nagaland defence | “Thar = dispersed” | संकुल |
+| Dispersed village | **Meghalaya, UK, HP, Kerala**, NE forests/hills | Ganga plain / all Rajasthan | प्रकीर्ण |
+| Hamleted local names | **panna, para, palli, nagla, dhani** | A separate census town | पुरवा/ढाणी |
+| Semi-clustered | Dominant caste **centre**; lower strata **flanks** (GJ/RJ) | Same as hamleted | अर्ध-संकुल |
+| Class I town | ≥**1 lakh** (468 in 2011; ~**60%** urban pop) | ≥10 lakh | श्रेणी I |
+| Metropolitan (NCERT) | **10 lakh–50 lakh** | 10 million | महानगर |
+| Mega city (NCERT) | **> 50 lakh**; **six** in 2011 | Only 1 crore / only Mumbai | मेगा |
+| UN megacity | ≥ **1 crore** | Mixing with NCERT 50-lakh mega | UN मेगा |
+| 2011 size rank | **Mumbai > Delhi > Kolkata > Chennai** | Mumbai > Kolkata > Delhi (that is **2001**) | 2011 क्रम |
+| Bhopal | **Not** on a major river bank | Agra/Patna/Kolkata are | भोपाल ≠ नदी |
+| UP Smart Cities (papers) | **10 Central** listed | 12/15/18; Ghaziabad | 10 शहर |
+| Ghaziabad | Not in **Mission-100 / Central-10** | “Is a Smart City” (only **State** 2019) | गाजियाबाद नहीं |
+| SPMRM year | **2016 launch** | 2015 | 2016 |
+| HRIDAY in UP | **Varanasi + Mathura** | Prayagraj / Ayodhya | काशी+मथुरा |
+| AMRUT | **Jun 2015** | 2005 (that is JNNURM) | 2015 |
+| JNNURM | **2005** | 2015 | 2005 |
+| Smart Cities vs SPMRM | MoHUA vs **MoRD** | Same ministry | आवास vs ग्राम |
+| Global Village | Transport + communication | UN / politics only | परिवहन+संचार |
+| Rurbanization (options) | **G.S. Ghurye** | M.N. Srinivas | घुर्ये |
+| Determinism | Nature controls man (**Ratzel / Semple**) | Possibilism | नियतिवाद |
+| Possibilism | Man chooses within nature (**Vidal de la Blache**) | Determinism | संभावनावाद |
+| Neo-determinism | Stop-and-go determinism (**Griffith Taylor**) | Pure free will | नव-नियतिवाद |
+| Site vs situation | Local ground vs wider regional location | Same thing | स्थल ≠ स्थिति |
+
+</details>
+
+
+<details class="rev-toggle rev-toggle-tables" markdown="1">
+<summary><strong>📊 Master High-Yield Comparison Tables &amp; Memory Anchors</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **25 Jun 2015** | Smart Cities Mission + PMAY-U same day | Year pair vs JNNURM 2005 | MoHUA |
+| **Jun 2015** | AMRUT (~500 cities) | 2025 chronology | MoHUA |
+| **1 Oct 2021** | **AMRUT 2.0** — water-secure towns | Successor of AMRUT | PIB / MoHUA |
+| **21 Feb 2016** | **SPMRM** launched (not “2015 launch”) | 2023 Q143 | MoRD |
+| **ISAC-2020** | Indore/Surat best cities; **UP best state**; category winners above | 2022 Q26 | PIB / MoHUA |
+| **100 / 10** | 100 Smart Cities nationally; **10 Central in UP** | 2018 + 2020 | MoHUA |
+| **2019** | UP **State** Smart Cities (7 Nagar Nigams) | Does **not** change 2018/2020 keys of 10 | UP DoUD |
+| Mission window | Smart Cities Mission timeline extended to **31 Mar 2025** | Completing works | MoHUA |
+
+---
+
+### Nature & scope
+
+| Item | Lock |
+|------|------|
+| Human geography | Study of human–environment relations / spatial organisation |
+| Approaches | Welfare, behavioural, radical, humanistic (coaching set) |
+| Primary / secondary / tertiary | Extraction · manufacturing · services |
+| Quaternary / quinary | Knowledge / high decision-making |
+
+---
+
+### Settlements
+
+| Item | Lock |
+|------|------|
+| Rural patterns | Compact, dispersed, linear, circular |
+| Urban functions | Administrative, industrial, commercial, transport, garrison |
+| Primate city / rank-size | Coaching definitions |
+
+---
+
+| Approach | Core fact | Name pair |
+|----------|-----------|----------|
+| **Environmental determinism** | Nature controls human life and culture | **Friedrich Ratzel**; **Ellen C. Semple** |
+| **Possibilism** | Nature offers possibilities; humans choose | **Vidal de la Blache** |
+| **Neo-determinism / stop-and-go** | Nature sets limits; man can proceed carefully | **Griffith Taylor** |
+
+---
+
+| Feature | Rural | Urban |
+|---------|-------|-------|
+| Economy | Mainly primary (farm, forest, fish, village-scale mine) | Secondary / tertiary / quaternary |
+| Density / size | Lower; hamlet to village | Compact; town to mega city |
+| Link | Supply food and raw (रॉ) material | Supply goods, services and jobs |
+| Census status | Village / rural | **Statutory town** or **census town** |
+| Social life | Face-to-face primary groups | Secondary groups and specialised jobs |
+
+---
+
+| Type | Form | Where (India) — match this |
+|------|------|----------------------------|
+| **Clustered / nucleated / agglomerated** | Compact houses with living area **separate** from fields; streets may be rectangular, radial or linear | Fertile **alluvial (जलोढ़) plains**; also **NE plains**; **Rajasthan** (थार) (scarce water → cluster at well/oasis); **Bundelkhand + Nagaland** (defence) |
+| **Semi-clustered / fragmented** | One main cluster plus groups pushed a little away | **Gujarat** and **Rajasthan** fragmentation. The dominant / land-owning community sits at the **centre**; lower strata / menial workers sit on the **outer flanks** |
+| **Hamleted** | Several physically separated units, **one village name** | **Middle & lower Ganga**, **Chhattisgarh**, lower **Himalayan valleys** |
+| **Dispersed / isolated** | Isolated huts / tiny hamlets on hills, jungle, pasture slopes | **Meghalaya, Uttarakhand, Himachal, Kerala**; forests & hills of **North-East** |
+
+---
+
+| Name | Region |
+|------|------------|
+| **Panna / para / palli** | East / Ganga–Chhattisgarh belt |
+| **Nagla** | Western UP / Ganga plain |
+| **Dhani** | Rajasthan |
+
+---
+
+| Shape | Note |
+|-------|-----|
+| **Linear** | Road, river, canal, coast, levee |
+| Rectangular | Planned / northern plains field grid |
+| Circular / radial | Around tank, temple, well |
+| Star / T / Y | Where routes meet |
+
+---
+
+| Belt | Note |
+|------|------|
+| Heavy rain (W. coast, NE) | **Sloping** roofs; bamboo / wood in NE |
+| Arid Rajasthan | **Flat** roofs; compact around water |
+| Himalaya (हिमालय) | Stone / slate |
+| Ganga plain | Mud / brick; courtyard houses |
+
+---
+
+| Class | Population | 2011 fact |
+|-------|------------|-----------|
+| **I** (city) | **≥ 1,00,000** | **468** towns; ~**60%** of India’s urban population |
+| II | 50,000–99,999 | |
+| III | 20,000–49,999 | |
+| IV | 10,000–19,999 | |
+| V | 5,000–9,999 | |
+| VI | < 5,000 | |
+
+---
+
+| Type | Example |
+|------|----------------|
+| Administrative | Chandigarh, New Delhi, Bhopal, Shillong, Guwahati, Imphal, Srinagar, Gandhinagar, Jaipur, Chennai, **Lucknow** (लखनऊ) |
+| Industrial | Jamshedpur, Bhilai, Durgapur, Modinagar, Barauni, Sindri, Mumbai, Madurai, **Kanpur** (कानपुर) |
+| Transport / port | Kandla, Kochi, Visakhapatnam, **Mughalsarai / Pt. Deen Dayal Upadhyaya Jn.**, Itarsi, Katni |
+| Commercial | Kolkata, **Saharanpur**, Satna |
+| Mining | Raniganj, Jharia / Dhanbad, Digboi, Ankleshwar, **Singrauli** |
+| Garrison / cantonment | Ambala, Jalandhar, Mhow, Babina, Udhampur, **Meerut** (मेरठ) |
+| Educational | Roorkee, **Aligarh**, Pilani, Varanasi (BHU), Prayagraj |
+| Religious / cultural | **Varanasi** (वाराणसी), Mathura, Amritsar (अमृतसर), Madurai, Puri (पुरी), Ajmer (अजमेर), Pushkar, Tirupati, Kurukshetra, Haridwar (हरिद्वार), Ujjain (उज्जैन) |
+| Tourist | Nainital (नैनीताल), Mussoorie (मसूरी), Shimla, Pachmarhi, Jodhpur, Jaisalmer, Udhagamandalam (Ooty), Mount Abu, **Agra** (आगरा) |
+
+---
+
+| Layer | Fact |
+|-------|------|
+| Ancient (~2000+ yrs) | **Varanasi, Prayag (Prayagraj), Pataliputra (पाटलिपुत्र) (Patna), Madurai** — religion / river / administration |
+| Medieval (~100 towns) | Fort / court HQ — **Delhi, Hyderabad, Jaipur, Lucknow, Agra, Nagpur** |
+| Modern — European foothold | First **ports** at Surat, Daman, Goa (गोवा), Puducherry; later **Mumbai, Chennai, Kolkata**; hill stations as summer resorts; cantonments |
+| After Independence | New capitals such as **Chandigarh, Bhubaneswar, Gandhinagar, Dispur**; industrial towns such as **Durgapur, Bhilai, Sindri, Barauni** |
+| Satellite towns | Old towns pulled into a metro’s orbit — **Ghaziabad, Gurugram, Rohtak** around Delhi; Navi Mumbai / Thane around Mumbai |
+
+---
+
+| City | Note |
+|------|------|
+| New Delhi | Lutyens / Baker |
+| Chandigarh | **Le Corbusier** |
+| Bhubaneswar | Otto Koenigsberger |
+| Jamshedpur | Company (कंपनी) / steel town (Tata (तत)) |
+
+---
+
+## N.4 Metropolitan Cities & Urban Hierarchy
+
+| Term | Fact (Census / NCERT) |
+|------|------------------------|
+| Town | Urban centre below Class I, or loosely any urban place |
+| **City / Class I** | ≥ **1 lakh** |
+| **Million city** | ≥ **10 lakh** · Census 2011 = **53** UAs · largest **Greater Mumbai** · smallest **Kota** |
+| **Metropolitan (NCERT)** | **1–5 million** (10 lakh–50 lakh) |
+| **Mega city (NCERT table)** | **> 5 million** · **six** in 2011: Greater Mumbai, Delhi, Kolkata, Chennai, Bengaluru, Hyderabad · ~**21%** of urban pop |
+| **Megacity (UN)** | ≥ **10 million** · 2011 India: Mumbai, Delhi, Kolkata |
+| **Conurbation** | Once-separate cities fused (Mumbai–Thane) |
+| **Megalopolis** | Chain of conurbations (Boswash type) |
+| **Primate city** | One city dwarfs the national urban system — **India does not** have a single primate city (Mumbai vs Delhi) |
+| **NCR** | Delhi + **Ghaziabad, Noida, Greater Noida, Meerut** (UP) + Gurugram, Faridabad (HR) |
+
+---
+
+| Round | When | Cities |
+|-------|------|--------|
+| Fast-track / first UP entry | **May 2016** | **Lucknow** (first UP city on the Mission list) |
+| Round 2 | **Sep 2016** | **Kanpur, Agra, Varanasi** |
+| Round 3 | **Jun 2017** | **Prayagraj (Allahabad (इलाहाबाद)), Aligarh, Jhansi** |
+| Round 4 | **2018** | **Moradabad, Bareilly, Saharanpur** |
+
+---
+
+| Category | Winner in the paper’s list |
+|----------|----------------------------|
+| Culture | **Indore** |
+| Governance | **Vadodara** |
+| Social Aspects | **Tirupati** |
+| Urban Environment | **Bhopal** |
+
+---
+
+| Scheme | Year / fact | Trap |
+|--------|-------------|------|
+| **SPMRM** (Shyama Prasad Mukherji Rurban Mission) | Launch **21 Feb 2016** (Cabinet **16 Sep 2015**); **MoRD**; about **300** clusters | **2015** is **not** the launch year (2023 NOT-matched) |
+| Sansad Adarsh Gram Yojana (SAGY) | **11 Oct 2014** | |
+| DDU-GKY | **2014** | |
+| Rural Housing Interest Subsidy Scheme | **2017** (that paper) | |
+| **JNNURM** | **2005** | Confusing with AMRUT |
+| National Urban Housing and Habitat (वास स्थान) Policy | **2007** | |
+| **AMRUT** | **June 2015**; about **500** cities (all 1-lakh+ ULBs, capitals, HRIDAY cities and selected others) | 2005 |
+| **AMRUT 2.0** | **1 Oct 2021** — water security; all statutory towns | Calling it 2015 |
+| Jal Jeevan Mission | **2019** (Har Ghar Jal) | Putting it before AMRUT |
+| PMAY-U | **25 Jun 2015** (same day as Smart Cities) — housing neighbour, year fact only | |
+| SBM-Urban | **2 Oct 2014** (with rural SBM) — sanitation neighbour | Calling it 2015 Smart Cities |
+| DAY-NULM | Urban livelihoods (MoHUA) | Mixing with SPMRM / DDU-GKY |
+
+---
+
+| Scheme | Year |
+|--------|------|
+| **JNNURM** | **2005** |
+| National Urban Housing and Habitat Policy | **2007** |
+| **AMRUT** | **2015** |
+| Jal Jeevan Mission | **2019** |
+
+---
+
+| City | Functional / tag |
+|------|------------------------|
+| **Lucknow** | State capital — administrative; first UP Smart City (May 2016) |
+| **Kanpur** | Industrial / leather–textile; first UP million city (**1971**) |
+| **Prayagraj** (प्रयागराज) | Ancient Prayag; educational; Smart City round 3; **not** HRIDAY |
+| **Varanasi** | Ancient; religious–educational (BHU); HRIDAY; Smart City round 2 |
+| **Agra** | Medieval; tourist (Taj); Smart City round 2 |
+| **Aligarh** | Educational (AMU); industrial neighbour of the western UP belt; Smart City round 3 |
+| **Meerut** | Garrison / NCR satellite — **not** Central Smart-10 |
+| **Ghaziabad** | NCR satellite / large UA — **not** Central Smart-10 (State 2019 only) |
+| **Noida / Greater Noida** | Planned satellite of Delhi — **not** Mission-100 |
+| **Saharanpur** | NCERT **commercial** town; Smart City round 4 |
+| **Bareilly / Moradabad / Jhansi** | Smart City round 4 / 3; Moradabad brass |
+| **Mathura** | Religious; **HRIDAY**; State Smart City 2019 (not Central-10) |
+| **Ayodhya** (अयोध्या) | Religious; State Smart City 2019; **not** HRIDAY |
+| **Singrauli belt (Sonbhadra (सोनभद्र))** | Mining / energy belt — mining-town type |
+| Mission fact | Fact |
+|--------------|------|
+| Central Smart Cities | **10** — Ghaziabad is **out** of Mission-100 |
+| State Smart Cities (2019) | 7 Nagar Nigams — do **not** change 2018/2020 keys |
+| HRIDAY | **Varanasi** and **Mathura** only |
+| ISAC-2020 | UP is the **best state** |
+| NCR (UP slice) | Ghaziabad, Noida, Greater Noida, Meerut |
+
+---
+
+| Term | Meaning |
+|---|---|
+| 1. Site | Local ground of a settlement |
+| 2. Situation | Wider regional location relative to routes and resources |
+| 3. Census town | Always a statutory municipality |
+
+---
+
+| List-I (Scheme) | List-II (Year / note) |
+|---|---|
+| A. JNNURM | 1. 2005 |
+| B. AMRUT | 2. June 2015 |
+| C. Smart Cities Mission | 3. 25 June 2015; 100 cities; MoHUA |
+| D. SPMRM | 4. 2016 launch; MoRD |
+
+---
+
+| List-I (ISAC-2020 theme) | List-II (City) |
+|---|---|
+| A. Culture | 1. Indore |
+| B. Governance | 2. Vadodara |
+| C. Social | 3. Tirupati |
+| D. Urban environment | 4. Bhopal |
+
+---
+
+| List-I | List-II |
+|---|---|
+| A. Determinism | 1. Ratzel / Semple |
+| B. Possibilism | 2. Vidal de la Blache |
+| C. Neo-determinism | 3. Griffith Taylor |
+| D. Global Village | 4. Transport + communication (McLuhan) |
+
+---
+
+### 🔍 Key Table Observations &amp; Memory Anchors
+
+- **Exam Anchor:** Human geography studies the man–environment (पर्यावरण) relationship and the spatial patterns of human life, settlements and economy.
+- **Exam Anchor:** Environmental determinism (Ratzel / Semple) says nature controls culture. Possibilism (Vidal de la Blache) says humans choose among nature’s options. Neo-determinism (Griffith Taylor) is stop-and-go determinism.
+- **Exam Anchor:** Site is the local ground of a settlement. Situation is its wider regional location relative (सापेक्ष) to routes, resources and other places.
+- **Exam Anchor:** A census town needs population ≥5,000, density ≥400/km², and ≥75% of male main workers in non-agriculture. It need not be a municipality.
+- **Exam Anchor:** Rural settlements lean on primary activities and lower density. Urban places are statutory towns or census towns.
+- **Exam Anchor:** Village types are clustered / nucleated, semi-clustered, hamleted and dispersed. Clustered villages appear on plains, around Rajasthan water points, and for defence in Bundelkhand / Nagaland — do not call the Thar (थार) “dispersed by default.”
+- **Exam Anchor:** Dispersed villages typify Meghalaya (मेघालय), Uttarakhand (उत्तराखंड), Himachal (हिमाचल) Pradesh, Kerala and many North-East forest–hill tracts. Hamlet local names include panna, para, palli, nagla and dhani.
+- **Exam Anchor:** Semi-clustered villages often show a dominant-caste centre with lower strata on the flanks (Gujarat / Rajasthan pair). Linear villages follow a road, river, canal or coast.
+
+</details>
+
+---
+
+## 🎯 Revision Practice MCQs (Table Matching Drill)
+
+> **Mastery Rule:** Analyze the comparative tables above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+
+**Q1.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Class I towns have ≥1 lakh people.
+
+Reason (R): In 2011, 468 Class I towns held about 60% of urban population.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R supports the importance of the Class I threshold stated in A.
+
+**A/R logic:** Do not confuse Class I (≥1 lakh) with metropolitan (≥10 lakh).
+
+</details>
+
+**Q2.** With reference to Indian city-size thresholds, which of the following statements is/are correct?
+
+1. Metropolitan cities (NCERT teaching) are above 50 lakh only.
+2. Mega cities (NCERT) are 10 lakh–50 lakh.
+3. A UN megacity is ≥1 crore.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 3 is correct.
+
+**Logic:** NCERT metropolitan = 10–50 lakh; mega = above 50 lakh (six in 2011). A UN megacity is ≥1 crore — do not mix the thresholds.
+
+</details>
+
+**Q3.** Arrange the following 2011 million-plus UA ranks (largest first):
+
+1. Delhi
+2. Mumbai
+3. Kolkata
+4. Chennai
+
+Select the correct answer from the code given below:
+
+A. 1-2-3-4
+B. 2-3-1-4
+C. 2-1-3-4
+D. 2-1-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mumbai > Delhi > Kolkata > Chennai.
+
+**Logic:** 2001 order Mumbai > Kolkata > Delhi is the trap for 2011 stems.
+
+</details>
+
+**Q4.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Scheme) | List-II (Year / note) |
+|---|---|
+| A. JNNURM | 1. 2005 |
+| B. AMRUT | 2. June 2015 |
+| C. Smart Cities Mission | 3. 25 June 2015; 100 cities; MoHUA |
+| D. SPMRM | 4. 2016 launch; MoRD |
+
+*Row order is not the answer code.*
+
+A. A-1, B-3, C-2, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-2, C-3, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All four scheme year/ministry pairs are correct.
+
+**Logic:** Keep Smart Cities under MoHUA and Rurban/SPMRM under MoRD.
+
+</details>
+
+**Q5.** With reference to Uttar Pradesh Smart Cities, which of the following statements is/are correct?
+
+1. The Central / Mission Smart City list for UP is 10 cities.
+2. UP State Smart Cities (2019) include Ghaziabad among seven Nagar Nigams.
+3. Ghaziabad is in that Central-10 Mission list.
+
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1 and 2 only are correct.
+
+**Logic:** Ghaziabad is State-2019, not Mission-100 Central-10.
+
+</details>
+
+**Q6.** Which of the following pairs is NOT correctly matched?
+
+A. HRIDAY in UP — Varanasi + Mathura
+B. Bhopal — not on a major river bank
+C. Chandigarh — Le Corbusier planned city
+D. HRIDAY in UP — Prayagraj + Ayodhya as the only pair
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** UP HRIDAY pair is Varanasi + Mathura.
+
+**Logic:** Prayagraj/Ayodhya are distractors for HRIDAY.
+
+</details>
+
+**Q7.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Semi-clustered villages often show a dominant-caste centre with lower strata on the flanks.
+
+Reason (R): Linear villages follow a road, river, canal or coast.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; linear form does not explain semi-clustered caste geometry.
+
+**A/R logic:** Gujarat/Rajasthan is the semi-clustered teaching pair.
+
+</details>
+
+**Q8.** With reference to economic activities, which of the following statements is/are correct?
+
+1. Primary = extraction; secondary = manufacturing; tertiary = services.
+2. Quaternary = knowledge; quinary = high decision-making.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both activity ladders are correct.
+
+**Logic:** Keep quaternary/quinary above tertiary services.
+
+</details>
+
+**Q9.** Consider the following statements about Global Village and rurbanization:
+
+1. McLuhan’s Global Village rests on transport plus communication.
+2. Rurbanization is linked to G.S. Ghurye.
+
+Which of the statements given above is/are correct?
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** M.N. Srinivas is the wrong scholar distractor for rurbanization.
+
+</details>
+
+**Q10.** Arrange the following schemes chronologically:
+
+1. JNNURM
+2. AMRUT
+3. Jal Jeevan Mission
+4. AMRUT 2.0
+
+Select the correct answer from the code given below:
+
+A. 1-2-3-4
+B. 2-1-3-4
+C. 1-3-2-4
+D. 1-2-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 2005 → Jun 2015 → 2019 → 1 Oct 2021.
+
+**Logic:** Urban Housing Policy 2007 sits between JNNURM and AMRUT in the fuller spine.
+
+</details>
+
+**Q11.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (ISAC-2020 theme) | List-II (City) |
+|---|---|
+| A. Culture | 1. Indore |
+| B. Governance | 2. Vadodara |
+| C. Social | 3. Tirupati |
+| D. Urban environment | 4. Bhopal |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four ISAC-2020 theme–city pairs are correct.
+
+**Logic:** Best State award teaching note went to Uttar Pradesh.
+
+</details>
+
+**Q12.** Which one of the following correctly states an urban agglomeration form?
+
+A. Only a single municipal ward
+B. A town with outgrowths, two contiguous towns, or a city with adjoining towns and outgrowths
+C. Only rural hamlets
+D. Only census villages without outgrowths
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** UA can be town+outgrowths / contiguous towns / city+adjoining towns+outgrowths.
+
+**Logic:** Outgrowths include railway colonies, campuses, ports and cantonments.
+
+</details>
+
+**Q13.** With reference to settlement evolution pairs, which of the following statements is/are correct?
+
+1. Ancient pairs include Varanasi / Prayag / Madurai.
+2. Medieval pairs include Delhi / Agra / Jaipur / Lucknow.
+3. Modern planned pair includes Chandigarh (Le Corbusier).
+
+Select the correct answer from the code given below:
+
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three statements are correct.
+
+**Logic:** Satellite towns include Ghaziabad in the NCR teaching set.
+
+</details>
+
+**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Smart Cities Mission and SPMRM are under the same ministry.
+
+Reason (R): Smart Cities = MoHUA; smart village / Rurban = MoRD.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) correctly separates the ministries.
+
+**A/R logic:** Ministry split is the confused pair.
+
+</details>
+
+**Q15.** Which of the following pairs is/are NOT correctly matched?
+
+1. Metropolitan (NCERT) — 10 lakh–50 lakh
+2. Mega city (NCERT) — >50 lakh
+3. Class I town — ≥10 lakh
+
+A. 3 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only pair 3 is wrong — Class I is ≥1 lakh.
+
+**Logic:** ≥10 lakh is metropolitan, not Class I.
+
+</details>

@@ -1,13 +1,9 @@
 nav:
   - Home: index.md
+  - Revision: revision
   - Prep Tracker: tracker-dashboard.md
-  - Error Tracker: error-tracker.md
-  - Chapter Tracker: chapter-tracker.md
   - Subject Notes: subjects
   - UKPCS: ukpcs
-  - Fact Locks: fact-locks
   - Prelims Analysis: prelims-analysis
   - Current Affairs: current-affairs
   - Mains PYQs: mains-pyqs
-  - Active Recall: active-recall
-  - Admin: admin.md

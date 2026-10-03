@@ -1,0 +1,451 @@
+---
+hide:
+  - toc
+---
+
+# Topic 5 — Revolt of 1857 — Must-Score Facts
+
+<div class="rev-hero-banner rev-facts-hero" markdown="0">
+  <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
+  <div class="rev-hero-meta">🇮🇳 Modern India &bull; Target: 80% Mastery Gate Required</div>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Revolt of 1857</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+</div>
+
+<details class="rev-toggle rev-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+
+1. **Causes (long):** Doctrine of Lapse (विलुप्ति सिद्धांत), **Awadh annexation 1856** for misrule, heavy revenue, missionary fear, and sepoy service grievances. **Immediate spark:** greased cartridges.
+2. **Enfield path:** In **December 1856** the Company (कंपनी) decided to replace the old **Brown Bess** (ब्राउन बेस) musket with the **Enfield** rifle. Trial centres were **Dum Dum, Ambala and Sialkot**. Rumours of cow–pig fat on the cartridge spread from **January 1857**.
+3. **Course — spark:** **Mangal Pandey** (मंगल पांडे) at **Barrackpore (बैरकपुर) on 29 March 1857** (**34th Bengal Native Infantry**). Commanding officer there was **John Bennet Hearsey**. **Mass outbreak:** **Meerut (मेरठ) on 10 May 1857** (**3rd Bengal Light Cavalry**). Delhi was seized on **11–12 May**; it was **not** the first outbreak.
+4. **Meerut detail:** Major General **William Hewitt** had about **2,200** European troops at Meerut but did **not** stop the sepoys’ march on Delhi.
+5. **Symbols of 1857:** **lotus** and **chapatis** circulated widely in North India as the revolt’s popular symbols.
+6. **Course — centres:** Delhi, Kanpur (कानपुर), Lucknow (लखनऊ), Jhansi (झांसी), Bareilly, Bihar (Jagdishpur) and parts of Central India formed the main belt. **Punjab, Madras, Bombay and Hyderabad (हैदराबाद)** stayed mostly quiet or loyal. **Chittor** (चित्तौड़) and **Jaipur** were **not** revolt centres; **Auwa** (Rajasthan) and **Assam** had local risings.
+7. **Results:** the **Government of India Act, 1858** ended Company rule (कंपनी शासन); the **Queen’s Proclamation** was read at **Allahabad (इलाहाबाद) on 1 November 1858**; **Canning** became first Viceroy (कैनिंग); the army (सेना) was reorganised by the **Peel Commission**.
+8. **Delhi:** **Bahadur Shah Zafar** (बहादुर शाह ज़फ़र) was the symbolic emperor; **Bakht Khan** (बख़्त खान) organised the army and received the title **Saheb-e-Alam Bahadur**. Do not swap the two roles.
+9. **Kanpur:** **Nana Sahib** (नाना साहेब) (Nana Dhondho Pant) was declared **Peshwa (पेशवा) on 5 June 1857**; **Tantia Tope** (तात्या टोपे) (**Ramchandra Pandurang**) was his commander-in-chief; **Azimullah Khan** was his adviser (**Krantidoot**).
+10. **Lucknow / Awadh:** **Begum Hazrat Mahal** (बेगम हज़रत महल) led the rising and seated minor son **Birjis Qadr**. **Bareilly:** **Khan Bahadur Khan** (खान बहादुर खान) (Bahadur Shah II named him **Viceroy**). Do not put the Begum at Bareilly.
+11. **Jhansi:** **Rani Lakshmibai** (रानी लक्ष्मीबाई) (**Manikarnika**, born **19 November 1835** at **Golghar, Varanasi (वाराणसी)**) led the rising (**June 1857**, not 11 May). She died fighting **Hugh Rose** near **Gwalior** (**18 June 1858**). Samadhi (समाधि) is at **Gwalior**.
+12. **Jagdishpur (Bihar):** **Kunwar Singh** (कुंवर सिंह) led the revolt (Danapur/Arrah theatre). **Faizabad:** **Maulvi Ahmadullah Shah** (अहमदुल्लाह शाह). **Allahabad:** **Maulvi Liaquat Ali** (लियाक़त अली) (Khusro Bagh HQ).
+13. **Awadh (1856)** was annexed for alleged **misrule**, not under Lapse. The largest share of rebel sepoys came from **Awadh** (अवध) (often cited above **75,000**).
+14. **Assam:** **Diwan Maniram Dutta** raised **Kandarpeshwar Singh** as king; Maniram was later hanged. **Auwa (Rajasthan):** **Thakur Kushal Singh** defeated the combined British–Jodhpur force.
+15. British writers called it a **Sepoy Mutiny** (सिपाही विद्रोह). **V.D. Savarkar (सावरकर) (1909)** called it the **First War of Independence** (प्रथम स्वतंत्रता संग्राम). **R.C. Majumdar** (मजूमदार) denied that it was “first, national, or a war of independence.” **S.N. Sen** (एस.एन. सेन) (*Eighteen Fifty-Seven*, **1957**) was the official government historian.
+16. **Sir Syed Ahmad Khan** (सर सैयद) wrote *Asbab-e-Baghawat-e-Hind* (**1859**) on the causes of 1857 — the first major Indian-language analysis of the uprising.
+17. There was **no single national command**. Loyal princes, telegraph, railways and a quiet South/Punjab helped the British recover. **Educated middle class** largely stayed **neutral**.
+18. The revolt began under **Company** rule. **Crown** rule began only with the **1858** settlement — do not date Crown rule (क्राउन शासन) from Meerut.
+19. Why it failed (compact): disunity of aims, weak central leadership, limited geography, superior British reinforcements and Indian allies who stayed loyal. Partial success still matters: Company rule ended, annexation-stop followed, and the army was rebuilt — independence was not won.
+20. Uttar Pradesh was the revolt’s strongest civilian and sepoy belt — Meerut, Delhi’s UP hinterland, Lucknow, Kanpur, Allahabad and Bareilly all sit on that map. Meerut–Delhi opened as a sepoy rising; Awadh mixed sepoys with peasants and taluqdars.
+21. Mangal Pandey’s Barrackpore act was the **spark**, not the **war’s start**. The mass outbreak began at **Meerut on 10 May**.
+22. After Delhi fell back to the British in **September 1857**, the fighting continued into **1858** in Awadh and Central India before final suppression.
+23. Tantia Tope kept guerrilla fighting after Kanpur’s fall; betrayed by **Man Singh** (मान सिंह), he was hanged at **Shivpuri on 18 April 1859**.
+24. Kunwar Singh was an ageing zamindar (ज़मींदार) of Jagdishpur who still led a major Bihar rising; after his death (**26 April 1858**) his brother **Amar Singh** continued the fight.
+25. Begum Hazrat Mahal and **Nana Sahib** both fled to **Nepal** after their centres fell.
+26. Bahadur Shah Zafar was tried and exiled to **Rangoon**; the Mughal (मुग़ल) imperial fiction ended with the revolt’s failure.
+27. **Peel Commission** army reorg: European troops about **45,000 → 65,000**; Indian troops about **2,38,000 → 1,40,000**; Bengal European:Indian ratio **1:2**, Madras/Bombay **1:3**; more recruitment from **Gurkhas, Sikhs and Punjabis**.
+28. **Lord Canning** was GG during the revolt; he made **Allahabad** (इलाहाबाद) the **emergency headquarters**. British PM was **Palmerston**.
+29. Peasant, taluqdar and sepoy strands mixed in Awadh; keep the **centre ↔ leader** tags clear even when historiography stresses social depth.
+30. Jhansi rising date trap: **June 1857**, not the Delhi dates of mid-May.
+31. Company ends in **1858**; first Viceroy is **Canning**. Mountbatten is the **last** Viceroy, never the first.
+32. **Scindias of Gwalior** (minister **Dinkar Rao**), **Holkars of Indore**, **Nizam (निजाम) of Hyderabad** (**Salar Jung**), **Bhopal**, **Jodhpur**, Sikh chiefs of **Patiala, Nabha, Jind**, and Kashmir’s ruler aided the British. Canning praised such rulers as a **breakwater** against the revolt.
+33. **Mirza Ghalib** (born Agra **27 Dec 1797**, died Delhi **15 Feb 1869**) witnessed the Delhi rising. **W.H. Russell** of *The Times* (London) reported North Indian hostility to white rule.
+34. Historiography traps: **Outram & W. Taylor** = Hindu–Muslim **conspiracy**; **John Lawrence (लॉरेंस) / Seeley** = **Sepoy Mutiny**; **T.R. Holmes** = civilisation vs barbarism; **Savarkar** = First War of Independence.
+35. **Maulvi Ahmadullah Shah** of Faizabad came from **Chinapattan (Madras)**; the British put a **₹50,000** bounty on him and called him among the bravest rebel soldiers.
+36. British deaths: **John Nicholson** died taking **Delhi** (Sept 1857); **Henry Lawrence**, **Havelock** and **Neill** died in the **Lucknow** (लखनऊ) theatre.
+37. Among Queen’s Proclamation promises, the one most clearly followed was ending further **annexation** of princely states (adoption allowed again).
+38. Sepoy military grievances also included stoppage of **bhatta/batta** (foreign-service allowance) and fear of **sea voyage** (kalapani) under the **General Service Enlistment Act, 1856**.
+39. **Sahukars (साहूकार) / moneylenders** and many landlords did **not** support the revolt; inefficiency of British officers was **not** a standard sepoy grievance.
+40. Centre↔leader first: Delhi (Zafar / Bakht Khan), Kanpur (Nana / Tantia), Lucknow (Begum), Jhansi (Lakshmibai), Bareilly (Khan Bahadur Khan), Jagdishpur (Kunwar), Faizabad (Ahmadullah), Allahabad (Liaquat Ali) — then **Meerut 10 May** and **1858 Crown**.
+
+</details>
+
+
+<details class="rev-toggle rev-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Sepoy Mutiny | First War of Independence | British / Lawrence–Seeley name vs Savarkar’s name (1909) | सिपाही विद्रोह / प्रथम स्वतंत्रता संग्राम |
+| Barrackpore | Meerut | Spark on 29 March vs actual start of the war on 10 May | बैरकपुर / मेरठ |
+| Nana Sahib | Tantia Tope | Political leader at Kanpur vs his military commander (Ramchandra Pandurang) | नाना साहेब / तात्या टोपे |
+| Begum Hazrat Mahal | Khan Bahadur Khan | Lucknow / Awadh vs Bareilly | हज़रत महल / खान बहादुर खान |
+| Kunwar Singh | Rani Lakshmibai | Jagdishpur (Bihar) vs Jhansi (dies at Gwalior) | कुंवर सिंह / लक्ष्मीबाई |
+| Annexation of Awadh | Doctrine of Lapse | Awadh taken for “misrule” in 1856 vs states taken when there was no natural heir | अवध अधिग्रहण / विलुप्ति सिद्धांत |
+| Bahadur Shah Zafar | Bakht Khan | Nominal emperor at Delhi vs real military organiser (Saheb-e-Alam Bahadur) | बहादुर शाह ज़फ़र / बख़्त खान |
+| Company rule | Crown rule | Revolt took place under the Company; Crown took over in 1858 | कंपनी शासन / क्राउन शासन |
+| Savarkar | R.C. Majumdar | First War of Independence vs “neither first, nor national, nor a war of independence” | सावरकर / मजूमदार |
+| Outram–Taylor | John Lawrence | Hindu–Muslim conspiracy reading vs pure Sepoy Mutiny reading | आउटराम / लॉरेंस |
+| Maulvi Liaquat Ali | Maulvi Ahmadullah Shah | Allahabad (Khusro Bagh) vs Faizabad | लियाक़त अली / अहमदुल्लाह शाह |
+| Brown Bess | Enfield rifle | Old musket replaced Dec 1856 vs new greased-cartridge rifle | ब्राउन बेस / एन्फ़ील्ड |
+| Jaipur / Chittor | Auwa | Not centres of 1857 vs Thakur Kushal Singh’s Rajasthan rising | जयपुर-चित्तौड़ / आउवा |
+| S.N. Sen | Sir Syed Ahmad Khan | Official historian (*Eighteen Fifty-Seven*, 1957) vs *Asbab-e-Baghawat-e-Hind* (1859) | एस.एन. सेन / सैयद अहमद खान |
+
+---
+
+</details>
+
+
+---
+
+## 🎯 Revision Practice MCQs (Mastery Drill)
+
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+
+**Q1.** With reference to the causes of the Revolt of 1857, which of the following statements is/are correct?
+
+1. Long-term causes excluded Doctrine of Lapse and Awadh annexation; only cartridges mattered.
+2. Awadh was annexed in 1856 strictly under Doctrine of Lapse.
+3. The immediate spark was the greased-cartridge rumour around the Enfield rifle.
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. 1 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 3 is correct.
+
+**Logic:** Stmt 1 false: Doctrine of Lapse, Awadh 1856, revenue and missionary fear are standard long-term causes; cartridges are the immediate spark. Stmt 2 remains false: Awadh = misrule annexation, not Lapse.
+
+</details>
+
+**Q2.** With reference to the course of the Revolt’s opening, which of the following statements is/are correct?
+
+1. Mangal Pandey’s Barrackpore act on 29 March 1857 was the mass outbreak that started the war.
+2. The mass outbreak began at Meerut on 10 May 1857.
+3. Delhi’s seizure on 11–12 May was the first outbreak of the Revolt.
+
+A. 1 and 2
+
+B. 2 and 3
+
+C. Only 2
+
+D. 1 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 2 is correct.
+
+**Logic:** Stmt 1 false: Barrackpore is the spark; mass outbreak begins at Meerut on 10 May 1857. Stmt 3 remains false: Delhi follows Meerut, it is not the first outbreak.
+
+</details>
+
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Bahadur Shah Zafar organised the rebel army at Delhi as Saheb-e-Alam Bahadur.
+
+**Reason (R):** Bakht Khan was the real military organiser at Delhi and received the title Saheb-e-Alam Bahadur.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Zafar = symbolic emperor; Bakht Khan = army — do not swap.
+
+</details>
+
+**Q4.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Centre) | List-II (Leader) |
+|-----------------|------------------|
+| A. Kanpur | 1. Begum Hazrat Mahal |
+| B. Lucknow | 2. Nana Sahib / Tantia Tope |
+| C. Bareilly | 3. Kunwar Singh |
+| D. Jagdishpur | 4. Khan Bahadur Khan |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kanpur–Nana/Tantia; Lucknow–Begum; Bareilly–Khan Bahadur; Jagdishpur–Kunwar.
+
+**Logic:** Centre↔leader must-score grid.
+
+</details>
+
+**Q5.** Which of the following pairs is NOT correctly matched?
+
+
+A. Sepoy Mutiny — British / Lawrence–Seeley label
+
+B. R.C. Majumdar — affirmed it was first, national and a war of independence
+
+C. First War of Independence — V.D. Savarkar (1909)
+
+D. S.N. Sen — official historian, Eighteen Fifty-Seven (1957)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Majumdar denied that it was first, national, or a war of independence.
+
+**Logic:** Historiography twin: Savarkar vs Majumdar.
+
+</details>
+
+**Q6.** Arrange the following in chronological order:
+
+1. Queen’s Proclamation at Allahabad
+2. Meerut outbreak
+3. Mangal Pandey at Barrackpore
+4. Enfield decision to replace Brown Bess (December)
+
+
+A. 4, 3, 2, 1
+
+B. 3, 4, 2, 1
+
+C. 4, 2, 3, 1
+
+D. 4, 3, 1, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Dec 1856 Enfield → 29 Mar Barrackpore → 10 May Meerut → 1 Nov 1858 Proclamation.
+
+**Logic:** Cause spark → course → result timeline.
+
+</details>
+
+**Q7.** With reference to results of 1857, which of the following statements is/are correct?
+
+1. Crown rule had already begun from the Meerut outbreak in May 1857.
+2. The Government of India Act, 1858 ended Company rule.
+3. Canning became the first Viceroy; the Queen’s Proclamation was read at Delhi on 1 November 1857.
+
+A. 1 and 2
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 2 is correct.
+
+**Logic:** Stmt 3 false: Proclamation was read at Allahabad on 1 November 1858, not Delhi 1857. Stmt 1 remains false: Crown rule begins with the 1858 settlement.
+
+</details>
+
+**Q8.** With reference to Jhansi in 1857, which of the following statements is/are correct?
+
+1. Rani Lakshmibai’s rising is dated mid-May 1857 at Delhi, before Meerut.
+2. Jaipur and Chittor were her principal rebel capitals.
+3. She died fighting Hugh Rose near Gwalior (18 June 1858).
+
+A. Only 3
+
+B. 1 and 2
+
+C. 2 and 3
+
+D. 1 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 3 is correct.
+
+**Logic:** Stmt 1 false: Her Jhansi rising is dated June 1857, not mid-May Delhi. Stmt 2 remains false: Jaipur/Chittor were not her rebel capitals.
+
+</details>
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** British writers and Indian nationalist writers used the same single name for 1857.
+
+**Reason (R):** Savarkar called it the First War of Independence while many British writers called it a Sepoy Mutiny.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Naming itself is a historiography trap.
+
+</details>
+
+**Q10.** With reference to Cause–Course–Result at Kanpur, which of the following statements is/are correct?
+
+1. Nana Sahib was declared Peshwa on 5 June 1857.
+2. Tantia Tope (Ramchandra Pandurang) served as his commander-in-chief.
+3. Begum Hazrat Mahal was the military commander at Kanpur.
+
+A. Only 3
+
+B. 2 and 3
+
+C. Only 1
+
+D. Only 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 1 and 2 only are correct.
+
+**Logic:** Begum = Lucknow/Awadh — not Kanpur.
+
+</details>
+
+**Q11.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|--------|---------|
+| A. Auwa | 1. Maniram Dutta / Kandarpeshwar Singh |
+| B. Assam | 2. Thakur Kushal Singh |
+| C. Faizabad | 3. Maulvi Liaquat Ali |
+| D. Allahabad | 4. Maulvi Ahmadullah Shah |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Auwa–Kushal Singh; Assam–Maniram; Faizabad–Ahmadullah; Allahabad–Liaquat Ali.
+
+**Logic:** Secondary-centre matching.
+
+</details>
+
+**Q12.** Which of the following pairs is NOT correctly matched?
+
+
+A. Brown Bess — old musket replaced from December 1856
+
+B. Enfield rifle — new greased-cartridge weapon
+
+C. Trial centres — Dum Dum, Ambala and Sialkot
+
+D. General Service Enlistment Act 1856 — abolished all sepoy grievances overnight
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The 1856 Act fed sea-voyage/kalapani fear — it did not abolish grievances.
+
+**Logic:** Military-cause card, not a cure-all.
+
+</details>
+
+**Q13.** With reference to why the Revolt failed, which of the following statements is/are correct?
+
+1. There was no single national command.
+2. Punjab, Madras, Bombay and Hyderabad stayed mostly quiet or loyal.
+3. The educated middle class provided a unified all-India rebel government.
+
+A. Only 1 and 2
+
+B. Only 3
+
+C. Only 1 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1 and 2 only are correct.
+
+**Logic:** Educated middle class largely stayed neutral — course/result limit.
+
+</details>
+
+**Q14.** Arrange the following Result-side measures in chronological order of the settlement year context:
+
+1. Peel Commission army reorganisation themes after 1858
+2. Meerut outbreak
+3. Government of India Act ending Company rule
+4. Barrackpore spark
+
+
+A. 4, 2, 3, 1
+
+B. 2, 4, 3, 1
+
+C. 4, 3, 2, 1
+
+D. 4, 2, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Spark → outbreak → 1858 Act → Peel reorg themes.
+
+**Logic:** Course then Result sequence.
+
+</details>
+
+**Q15.** With reference to Peel Commission army reorganisation, which of the following statements is/are correct?
+
+1. European troops were increased while Indian troop numbers were reduced.
+2. More recruitment came from Gurkhas, Sikhs and Punjabis.
+3. Bengal European:Indian ratio was set looser than Madras/Bombay.
+
+A. Only 3
+
+B. 2 and 3
+
+C. Only 1
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 1 and 2 only are correct.
+
+**Logic:** Bengal ratio 1:2 was tighter than Madras/Bombay 1:3.
+
+</details>

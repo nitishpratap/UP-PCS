@@ -1,0 +1,392 @@
+---
+hide:
+  - toc
+---
+
+# Topic 7 — Indian Theatre & Performing Arts — Must-Score Facts
+
+<div class="rev-hero-banner rev-facts-hero" markdown="0">
+  <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
+  <div class="rev-hero-meta">🎨 Art & Culture &bull; Target: 80% Mastery Gate Required</div>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 7 — Indian Theatre & Performing Arts</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+</div>
+
+<details class="rev-toggle rev-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+
+1. **Natyashastra** (नाट्यशास्त्र) by **Bharata Muni** (भरत मुनि) (about **200 BCE–200 CE**) codifies drama with about **10** rupaka (रूपक), **9** rasa (रस), and four abhinaya (अभिनय).
+2. **Abhinavabharati** (अभिनवभारती) is Abhinavagupta’s (अभिनवगुप्त) commentary on Natyashastra. **Dasharupaka** (दशरूपक) is Dhananjaya’s (धनंजय) later summary of play types.
+3. **Ashvaghosha** (अश्वघोष) is often tagged with the earliest Sanskrit play tradition. **Bhasa** (भास) left about **13** plays. **Kalidasa** (कालिदास) wrote **three** dramas.
+4. **Shudraka** (शूद्रक) wrote *Mrichchhakatika* (मृच्छकटिकम्). **Vishakhadatta** (विशाखदत्त) wrote *Mudrarakshasa* (मुद्राराक्षस). **Bhavabhuti** (भवभूति) wrote *Uttararamacharita* (उत्तररामचरित). King **Harsha** (हर्ष) wrote *Ratnavali* (रत्नावली).
+5. *Shringara Shataka* (शृंगार शतक) is by **Bhartrihari** (भर्तृहरि), not Kalidasa. Do not park poem titles inside the drama list.
+6. **Yavanika** (यवनिका) is the stage curtain. **Nepathya** (नेपथ्य) is the backstage dressing room. **Sutradhara** (सूत्रधार) is the director and narrator-presenter.
+7. The oldest rock-cut theatre in India is **Sitabenga** (सीताबेंगा) at Ramgarh in Chhattisgarh. Neighbouring **Jogimara** (जोगीमारा) is noted for early frescoes, not theatrical architecture.
+8. Kerala temple theatre houses are called **koothambalam** (कूथम्बलम). Living Sanskrit theatre is **Koodiyattam** (कूड़ियाट्टम्) of the Chakyar (चाक्यार) tradition with the **mizhavu** (मिझावु) drum.
+9. **Koodiyattam** is UNESCO living Sanskrit theatre (proclaimed **2001**, list **2008**). It is theatre, not a ninth SNA classical dance.
+10. **Nautanki** (नौटंकी) is the high-yield **UP** folk opera, named in the *Ain-i-Akbari*, with **Kanpur** and **Lucknow** schools and the **nagara** (नगाड़ा) drum.
+11. **Ramlila** (रामलीला) of Ramnagar–Varanasi / Braj is UNESCO **2008**. **Raslila** (रासलीला) is the Braj Krishna folk play, not Manipuri classical Ras Lila.
+12. **Swang** (स्वांग) belongs to Haryana, western UP, and Rajasthan. **Tamasha** (तमाशा) of Maharashtra uses **Lavani** (लावणी) and often has women playing male roles.
+13. **Jatra** (यात्रा) belongs to Bengal and Odisha. **Yakshagana** (यक्षगान) belongs to coastal Karnataka. **Bhavai** (भवई) belongs to Gujarat.
+14. **Bhaona** (भाओना) stages **Ankiya Nat** (अंकिया नाट) in the satras of Majuli, Assam. **Ramman** (रम्माण) is the sacred masked ritual theatre of Uttarakhand. **Powada** (पोवाड़ा) belongs to Maharashtra. **Burrakatha** (बुराकथा) belongs to Andhra Pradesh.
+15. **Kathputli** (कठपुतली) of Rajasthan is string marionette, often without carved legs. **Gulabo–Sitabo** (गुलाबो-सीताबो) of **Lucknow** are glove comic puppets.
+16. **Kundhei** (कुंधेई) is Odisha string puppetry. **Tholu Bommalata** (तोलू बोम्मलता) of Andhra Pradesh and **Ravana Chhaya** (रावण छाया) of Odisha are shadow forms.
+17. The musical drama **Indra Sabha** (इंद्र सभा), composed by **Agha Hasan Amanat** (आगा हसन अमानत) and staged at **Lucknow in 1853** under Wajid Ali Shah, marks the dawn of modern operatic theatre in Awadh.
+18. **Bidesiya** (बिदेसिया) is a migration-themed folk play of the Bhojpuri belt of eastern Uttar Pradesh and western Bihar. In Banaras, **Bhartendu Harishchandra** (भारतेन्दु हरिश्चंद्र) laid the foundation of modern Hindi drama.
+19. The Indian People's Theatre Association (**IPTA**) was established in **1943**. The **National School of Drama (NSD)** was founded at New Delhi in **1959**, and was shaped decisively under the legendary directorship of **Ebrahim Alkazi**.
+20. **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) (**1952**) covers music, dance, **and theatre**. It is not a dance-only body.
+21. Sanskrit plays as a rule **end well**. Stock figures are **nayaka** (नायक), **nayika** (नायिका), and **vidushaka** (विदूषक). There is no Greek-style tragedy as the default form.
+22. **Nataka** (नाटक) is a mythic heroic play type. **Prakarana** (प्रकरण) invents a social plot. Do not confuse **natya** (नाट्य, drama) with **nritta** (नृत्त, pure dance).
+23. UNESCO Intangible Cultural Heritage performing arts elements include **Koodiyattam** Sanskrit theatre (**2008**), the traditional **Ramlila** (**2008**), and **Mudiyettu** (मुडियेट्टु) ritual drama (**2010**).
+24. These are **not** UP: Kathputli (Rajasthan), Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), and Ramman (Uttarakhand).
+
+</details>
+
+
+<details class="rev-toggle rev-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Nataka | Prakarana | Mythic heroic play vs invented social plot | नाटक / प्रकरण |
+| Natya | Nritta | Drama-story vs pure dance | नाट्य / नृत्त |
+| Nautanki | Tamasha | **UP** folk opera vs Maharashtra + lavani | नौटंकी / तमाशा |
+| Ramlila (Braj) | Koodiyattam | Hindi Ramayana folk vs Kerala Sanskrit temple | रामलीला / कूड़ियाट्टम् |
+| Koodiyattam | Kathakali | Sanskrit theatre vs Kerala dance-drama makeup | कूड़ियाट्टम् / कथकली |
+| Yavanika | Nepathya | Curtain vs backstage | यवनिका / नेपथ्य |
+| Kathputli | Shadow puppet | Rajasthan string marionette vs leather silhouette | कठपुतली / छाया |
+| Kalidasa | Bhavabhuti | Shakuntala trio vs **Uttararamacharita** | कालिदास / भवभूति |
+| Rasa | Bhava | Spectator flavour vs actor’s emotion | रस / भाव |
+| String | Glove | Kathputli threads vs Gulabo-Sitabo hand-puppets | सूत्र / दस्ताना |
+| Yakshagana | Koodiyattam | Karnataka Kannada dance-drama vs Kerala Sanskrit temple theatre | यक्षगान / कूड़ियाट्टम् |
+| Ramman | Ramlila | Uttarakhand masked ritual vs UP Ramayana folk play | रम्माण / रामलीला |
+| Mudiyettu | Kathakali | Kerala ritual theatre vs Kerala dance-drama | मुडियेट्टु / कथकली |
+| Tholu Bommalata | Ravana Chhaya | Andhra coloured leather vs Odisha dark deer-skin shadow | तोलू बोम्मलता / रावण छाया |
+| Bidesiya | Nautanki | Bhojpuri migrant play vs UP folk opera | बिदेसिया / नौटंकी |
+
+---
+
+</details>
+
+
+---
+
+## 🎯 Revision Practice MCQs (Mastery Drill)
+
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+
+**Q1.** With reference to Natyashastra theatre theory, which of the following statements is/are correct?
+
+1. Bharata Muni’s Natyashastra codifies drama with about 10 rupaka and 9 rasa.
+2. Abhinavabharati is Kalidasa’s commentary on Natyashastra.
+3. Dasharupaka is Bharata’s original Natyashastra title, not a later summary.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 is correct.
+
+**Logic:** Abhinavabharati is Abhinavagupta’s commentary. Dasharupaka is Dhananjaya’s later summary of play types.
+
+</details>
+
+**Q2.** Consider the following pairs:
+
+| Playwright | Work |
+|------------|------|
+| 1. Shudraka | Mrichchhakatika |
+| 2. Vishakhadatta | Mudrarakshasa |
+| 3. Bhavabhuti | Uttararamacharita |
+| 4. Bhartrihari | Abhijnanashakuntalam |
+
+Which of the pairs given above are correctly matched?
+
+A. 1 and 4 only
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pairs 1–3 are correct.
+
+**Logic:** Shringara Shataka is Bhartrihari. Shakuntala is Kalidasa.
+
+</details>
+
+**Q3.** With reference to Sanskrit stage vocabulary, which of the following pairs is/are correctly matched?
+
+1. Yavanika — curtain
+2. Nepathya — backstage
+3. Sutradhara — director-presenter
+
+Select the correct answer from the code given below:
+
+A. 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** These are frequent one-line traps in match lists.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Sitabenga at Ramgarh, Chhattisgarh, is the oldest rock amphitheatre fact in standard teaching.
+
+Reason (R): Neighbouring Jogimara is primarily the painting fact, not the theatre amphitheatre fact.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) correctly separates the adjacent Ramgarh sites by discipline.
+
+**A/R logic:** Theatre vs painting is the local confused pair.
+
+</details>
+
+**Q5.** With reference to Koodiyattam, which of the following statements is/are correct?
+
+1. It is living Sanskrit theatre of Kerala’s Chakyar tradition.
+2. It uses the tabla as its main percussion instead of mizhavu.
+3. It is the ninth SNA classical dance.
+
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 is correct.
+
+**Logic:** Koodiyattam uses the mizhavu drum. It is theatre (UNESCO), not a classical dance ninth.
+
+</details>
+
+**Q6.** correctly matched?
+
+A. Nautanki — UP folk opera; Kanpur and Lucknow schools
+B. Tamasha — Maharashtra; often linked with Lavani
+C. Yakshagana — coastal Karnataka
+D. Nautanki — Kerala Sanskrit temple theatre identical with Koodiyattam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Nautanki is UP folk opera, not Kerala Koodiyattam.
+
+**Logic:** Ain-i-Akbari names Nautanki. Nagara drum is a marker.
+
+</details>
+
+**Q7.** With reference to Ramlila and Raslila, which of the following statements is/are correct?
+
+1. Braj Raslila is identical with Manipuri classical Ras Lila.
+2. Ramlila of Ramnagar–Varanasi / Braj is UNESCO 2008.
+3. Raslila is the Kerala Chakyar Sanskrit play identical with Koodiyattam.
+
+A. Only 1 and 2
+B. 1, 2 and 3
+C. Only 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 2 is correct.
+
+**Logic:** Raslila is the Braj Krishna folk play. Manipuri classical Ras Lila is a separate dance-chapter fact.
+
+</details>
+
+**Q8.** Arrange the following institutional foundations in chronological order:
+
+1. National School of Drama
+2. IPTA
+3. Sangeet Natak Akademi
+
+Select the correct answer from the code given below:
+
+A. 2–1–3
+B. 3–2–1
+C. 2–3–1
+D. 1–2–3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The order is IPTA 1943 → SNA 1952 → NSD 1959.
+
+**Logic:** Ebrahim Alkazi is the long NSD director fact.
+
+</details>
+
+**Q9.** Consider the following puppetry pairs:
+
+| Form | Tag |
+|------|-----|
+| 1. Kathputli | Rajasthan string marionette |
+| 2. Gulabo–Sitabo | Lucknow glove comic puppets |
+| 3. Kundhei | Odisha string puppetry |
+| 4. Tholu Bommalata | Andhra Pradesh shadow form |
+
+Which of the pairs given above are correctly matched?
+
+A. 1 and 2 only
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four puppetry pairs are correctly matched.
+
+**Logic:** Ravana Chhaya of Odisha is another shadow form.
+
+</details>
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Sanskrit plays as a rule end well and do not default to Greek-style tragedy.
+
+Reason (R): Stock figures include nayaka, nayika and vidushaka.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true, but stock figures do not by themselves explain the happy-ending convention.
+
+**A/R logic:** Ending convention and stock roles are related classroom facts, not a tight causal pair.
+
+</details>
+
+**Q11.** With reference to nataka and prakarana, which statement is correct?
+
+A. Nataka is pure dance; prakarana is curtain vocabulary
+B. Nataka is mythic heroic; prakarana invents a social plot
+C. Both are identical with nritta
+D. Both are UNESCO ICH listings of 2010 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Nataka vs prakarana is mythic heroic versus invented social plot.
+
+**Logic:** Natya is drama. Nritta is pure dance.
+
+</details>
+
+**Q12.** Which of the following UP modern-folk stage facts is/are correct?
+
+1. Indra Sabha by Amanat (Lucknow, 1853)
+2. Bidesiya of the eastern UP / Bhojpuri belt
+3. Bhartendu Harishchandra of Banaras as modern Hindi theatre fact
+
+Select the correct answer from the code given below:
+
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** These are the highest-yield UP theatre CA/history tags.
+
+</details>
+
+**Q13.** Consider the following regional theatre matches:
+
+| Form | Region |
+|------|--------|
+| 1. Swang | Haryana, western UP, Rajasthan |
+| 2. Jatra | Bengal and Odisha |
+| 3. Bhavai | Gujarat |
+| 4. Bhaona | Assam Majuli satras |
+
+Which of the pairs given above are correctly matched?
+
+A. 1 and 2 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four regional matches are correct.
+
+**Logic:** Ramman is Uttarakhand. Powada / Burrakatha are narrative theatre facts.
+
+</details>
+
+**Q14.** a UP form in the chapter’s exclusion list?
+
+A. Nautanki
+B. Kathputli
+C. Gulabo–Sitabo
+D. Ramlila of Ramnagar–Varanasi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Kathputli is Rajasthan string marionette.
+
+**Logic:** Also not UP: Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), Ramman (Uttarakhand).
+
+</details>
+
+**Q15.** With reference to Kalidasa and Bhasa, which of the following statements is/are correct?
+
+1. Bhasa left about 13 plays.
+2. Kalidasa wrote three dramas.
+3. Ashvaghosha is often tagged with the earliest Sanskrit play tradition.
+
+Select the correct answer from the code given below:
+
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Harsha wrote Ratnavali among other plays.
+
+</details>

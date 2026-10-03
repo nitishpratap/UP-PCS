@@ -1,0 +1,410 @@
+---
+hide:
+  - toc
+---
+
+# Chronology — Year-Wise Major Events — Must-Score Facts
+
+<div class="rev-hero-banner rev-facts-hero" markdown="0">
+  <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
+  <div class="rev-hero-meta">🇮🇳 Modern India &bull; Target: 80% Mastery Gate Required</div>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chronology — Year-Wise Major Events</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+</div>
+
+<details class="rev-toggle rev-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+
+1. Hold **four megaspines**, not one flat list: **Wars / Expansion**, **Acts**, **Reform & Press**, **National Movement**.
+2. Company political start: **Plassey 1757 → Buxar 1764 → Allahabad / Dual Govt 1765 → Regulating Act 1773**.
+3. **Mysore CCR ladder:** 1st (**1767–69**, Madras treaty) → 2nd (**1780–84**, Mangalore) → 3rd (**1790–92**, half kingdom ceded) → 4th (**1799**, Tipu dies / Subsidiary).
+4. **Maratha CCR ladder:** 1st (**1775–82**, Salbai peace) → 2nd (**1803–05**, after Bassein 1802) → 3rd (**1817–18**, Peshwa ends / Pindaris crushed).
+5. Act ladder to Crown: **1773 → 1784 → 1793 → 1813 → 1833 → 1853 → 1858**.
+6. Crown constitutional ladder: **1861 → 1892 → 1909 → 1919 → 1935 → 1947**.
+7. Social reform anchors: **Sati 1829 → Slavery Act 1843 → Widow Remarriage 1856 → Age of Consent 1891**.
+8. Education ladder: **Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944**.
+9. Nationalism megaspine: **INC 1885 → Partition 1905 → League 1906 → Surat 1907 → 1909 → Delhi 1911**.
+10. Gandhi early ladder: **Champaran 1917 → Ahmedabad + Kheda 1918 → Rowlatt / Jallianwala 1919**.
+11. **Mass CCR ladder:** NCM (**1920–22**, boycott + Khilafat; ends Chauri Chaura) → CDM (**1930**, salt; Gandhi–Irwin) → Quit India (**1942**, Do or Die; suppressed but legitimacy crash).
+12. Mission ladder: **Simon 1927 → Nehru Report 1928 → Cripps 1942 → Cabinet Mission 1946 → Mountbatten Plan 3 June 1947**.
+13. UP spine: **Banaras 1781 → Allahabad Proclamation 1 Nov 1858 → Chauri Chaura Feb 1922 → Kakori 9 Aug 1925 → Ballia 1942**.
+14. Do not swap **Hunter Commission 1882** (education) with **Hunter Committee 1919** (Punjab).
+15. Do not swap **First Afghan War (Auckland 1839–42)** with **Second Afghan War (Lytton 1878–80)**.
+16. **Awadh 1856** is **misrule**, not Doctrine of Lapse. Lapse starts with **Satara 1848**.
+17. **Queen’s Proclamation 1858** ≠ **Kaiser-i-Hind / Empress Durbar 1877**.
+18. **Vernacular Press Act 1878 (Lytton)** before **Ilbert Bill 1883 (Ripon)**.
+19. **Partition announced / effected 1905**; **annulled + capital to Delhi 1911**.
+20. **Lahore Purna Swaraj Dec 1929** comes **before** Dandi **March–April 1930**.
+21. **Communal Award → Poona Pact** both sit in **1932**, Award first.
+22. **Cripps Mission** and **Quit India** share **1942**; Cripps fails first, then Quit India (**8 August**).
+23. **Wavell / Simla 1945 → Cabinet Mission 1946 → Mountbatten Plan 1947 → Independence 15 August 1947**.
+24. Arrival order of Europeans: **Portuguese → Dutch → English → Danes → French** (charter years differ from arrival order).
+25. **Sikh / Punjab ladder:** Amritsar (**1809**) → Lahore (**1846**) → annexation (**1849**).
+26. **1857 CCR compact:** Causes (Lapse, Awadh 1856, cartridges) → Course (Meerut **10 May** → centres) → Result (**1858** Crown / Peel army).
+27. **Nepal / Burma / Sindh tags:** Sugauli (**1816**); Yandabo (**1826**) → 2nd Burma (**1852**) → 3rd (**1885**); Sindh (**1843**, Napier).
+28. **Subsidiary (1798 Hyderabad first)** before **Lapse (1848 Satara first)** — method ladder for annexation politics.
+
+</details>
+
+
+<details class="rev-toggle rev-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+
+(year / order swaps)
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Plassey 1757 | Buxar 1764 | Political foothold vs decisive Diwani path | प्लासी / बक्सर |
+| Regulating Act 1773 | Pitt’s India Act 1784 | Creates GG office vs Board of Control | रेगुलेटिंग / पिट्स |
+| Charter 1813 | Charter 1833 | Ends India trade monopoly (tea/China kept) vs GG of India + all trade ends | 1813 / 1833 |
+| Sati 1829 | Widow Remarriage 1856 | Bentinck vs Canning / Vidyasagar | सती / विधवा विवाह |
+| 1st Afghan 1839–42 | 2nd Afghan 1878–80 | Auckland vs Lytton | प्रथम / द्वितीय अफगान |
+| Proclamation 1858 | Empress Durbar 1877 | Crown rule starts vs Kaiser-i-Hind title | 1858 / 1877 |
+| Vernacular Press 1878 | Ilbert Bill 1883 | Lytton gagging vs Ripon judicial equality attempt | प्रेस अधिनियम / इल्बर्ट |
+| Hunter Comm. 1882 | Hunter Cttee 1919 | Education vs Jallianwala inquiry | हंटर आयोग / समिति |
+| Partition 1905 | Annulment 1911 | Curzon vs Hardinge II | बंगाल विभाजन / रद्द |
+| Simon 1927 | Nehru Report 1928 | All-white commission vs Indian constitutional draft | साइमन / नेहरू रिपोर्ट |
+| NCM 1920 | CDM 1930 | First mass non-cooperation vs Salt / Civil Disobedience | असहयोग / सविनय अवज्ञा |
+| Cripps 1942 | Cabinet Mission 1946 | Wartime offer vs three-tier / interim path | क्रिप्स / कैबिनेट मिशन |
+| Chauri Chaura 1922 | Kakori 1925 | NCM ends vs HRA-era train action (UP) | चौरी चौरा / काकोरी |
+
+---
+
+</details>
+
+
+---
+
+## 🎯 Revision Practice MCQs (Mastery Drill)
+
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+
+**Q1.** Arrange:
+
+1. Battle of Buxar  
+2. Battle of Plassey  
+3. Treaty of Allahabad  
+4. Regulating Act  
+
+A. 2, 1, 3, 4  
+B. 1, 2, 3, 4  
+C. 2, 3, 1, 4  
+D. 2, 1, 4, 3  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Political foothold → decisive battle → Diwani treaty → parliamentary office.
+
+**Ans: A** — Plassey **1757** → Buxar **1764** → Allahabad **1765** → Regulating Act **1773**.
+
+</details>
+
+**Q2.** Arrange the Mysore Wars’ end years / climax markers:
+
+1. Treaty of Seringapatam  
+2. Treaty of Madras  
+3. Death of Tipu  
+4. Treaty of Mangalore  
+
+A. 2, 4, 1, 3  
+B. 2, 1, 4, 3  
+C. 4, 2, 1, 3  
+D. 2, 4, 3, 1  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** 1st → 2nd → 3rd → 4th Mysore sequence.
+
+**Ans: A** — Madras **1769** → Mangalore **1784** → Seringapatam **1792** → Tipu dies **1799**.
+
+</details>
+
+**Q3.** Arrange:
+
+1. Subsidiary Alliance (Hyderabad)  
+2. Permanent Settlement  
+3. Doctrine of Lapse (Satara)  
+4. Dual Government ended  
+
+A. 4, 2, 1, 3  
+B. 2, 4, 1, 3  
+C. 4, 1, 2, 3  
+D. 4, 2, 3, 1  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Hastings reform → Cornwallis revenue → Wellesley alliance → Dalhousie lapse.
+
+**Ans: A** — Dual ends **1772** → Permanent Settlement **1793** → Hyderabad **1798** → Satara **1848**.
+
+</details>
+
+**Q4.** Arrange Charter / constitutional Acts:
+
+1. Charter Act 1833  
+2. Regulating Act 1773  
+3. GOI Act 1858  
+4. Charter Act 1813  
+
+A. 2, 4, 1, 3  
+B. 2, 1, 4, 3  
+C. 4, 2, 1, 3  
+D. 2, 4, 3, 1  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Office created → monopoly cut → GG of India → Crown.
+
+**Ans: A** — **1773 → 1813 → 1833 → 1858**.
+
+</details>
+
+**Q5.** Arrange:
+
+1. Abolition of Sati  
+2. Hindu Widow Remarriage Act  
+3. Age of Consent Act  
+4. Slavery Act V  
+
+A. 1, 4, 2, 3  
+B. 1, 2, 4, 3  
+C. 4, 1, 2, 3  
+D. 1, 4, 3, 2  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Bentinck social → Ellenborough slavery → Canning widow → Lansdowne consent.
+
+**Ans: A** — Sati **1829** → Slavery **1843** → Widow Remarriage **1856** → Age of Consent **1891**.
+
+</details>
+
+**Q6.** Arrange:
+
+1. Queen’s Proclamation  
+2. Revolt of 1857 begins  
+3. Delhi Durbar (Victoria Empress)  
+4. First passenger railway Bombay–Thane  
+
+A. 4, 2, 1, 3  
+B. 2, 4, 1, 3  
+C. 4, 2, 3, 1  
+D. 2, 1, 4, 3  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Dalhousie rail before revolt; Crown proclamation after revolt; Empress title much later.
+
+**Ans: A** — Railway **1853** → Revolt **1857** → Proclamation **1858** → Empress Durbar **1877**.
+
+</details>
+
+**Q7.** Arrange:
+
+1. Ilbert Bill Controversy  
+2. Vernacular Press Act  
+3. Acquisition of Awadh  
+4. Second Anglo-Afghan War  
+
+A. 3, 2, 4, 1  
+B. 3, 4, 2, 1  
+C. 3, 2, 1, 4  
+D. 2, 3, 4, 1  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Same spine as a standard UPPCS arrange set — Awadh before Indigo-era politics, then Lytton Afghan/Press, then Ripon Ilbert.
+
+**Ans: A** — Awadh **1856** → Vernacular Press **1878** → 2nd Afghan **1878–80** → Ilbert **1883**.  
+(If Indigo **1859** appears instead of Press, place Indigo right after Awadh.)
+
+</details>
+
+**Q8.** Arrange education landmarks:
+
+1. Hunter Commission  
+2. Wood’s Despatch  
+3. Sargeant Plan  
+4. Sadler Commission  
+
+A. 2, 1, 4, 3  
+B. 1, 2, 4, 3  
+C. 2, 4, 1, 3  
+D. 2, 1, 3, 4  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Classic education commission ladder.
+
+**Ans: A** — Wood **1854** → Hunter **1882** → Sadler **1917** → Sargeant **1944**.
+
+</details>
+
+**Q9.** Arrange:
+
+1. Formation of Muslim League  
+2. Partition of Bengal  
+3. Morley–Minto Reforms  
+4. Surat Split  
+
+A. 2, 1, 4, 3  
+B. 2, 4, 1, 3  
+C. 1, 2, 4, 3  
+D. 2, 1, 3, 4  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Partition triggers Swadeshi; League follows; Surat split; then 1909 Act.
+
+**Ans: A** — Partition **1905** → League **1906** → Surat **1907** → Morley–Minto **1909**.
+
+</details>
+
+**Q10.** Arrange:
+
+1. Capital shifted to Delhi  
+2. Partition of Bengal  
+3. Ancient Monuments Preservation Act  
+4. Morley–Minto Reforms  
+
+A. 3, 2, 4, 1  
+B. 2, 3, 4, 1  
+C. 3, 2, 1, 4  
+D. 2, 3, 1, 4  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Curzon monuments → Partition → 1909 reforms → Hardinge capital shift 1911.
+
+**Ans: A** — Ancient Monuments **1904** → Partition **1905** → Morley–Minto **1909** → Capital Delhi **1911**.
+
+</details>
+
+**Q11.** Arrange Gandhi’s early satyagrahas:
+
+1. Kheda  
+2. Champaran  
+3. Ahmedabad Mill Strike  
+4. Rowlatt Satyagraha  
+
+A. 2, 3, 1, 4  
+B. 2, 1, 3, 4  
+C. 3, 2, 1, 4  
+D. 2, 3, 4, 1  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Champaran first in India; Ahmedabad and Kheda in 1918; Rowlatt 1919.
+
+**Ans: A** — Champaran **1917** → Ahmedabad **1918** → Kheda **1918** → Rowlatt **1919**.
+
+</details>
+
+**Q12.** Arrange:
+
+1. Chauri Chaura  
+2. Non-Cooperation launched  
+3. Jallianwala Bagh  
+4. Kakori Conspiracy  
+
+A. 3, 2, 1, 4  
+B. 3, 1, 2, 4  
+C. 2, 3, 1, 4  
+D. 3, 2, 4, 1  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Punjab wrong → NCM → Chauri Chaura ends NCM → Kakori later.
+
+**Ans: A** — Jallianwala **1919** → NCM **1920** → Chauri Chaura **1922** → Kakori **1925**.
+
+</details>
+
+**Q13.** Arrange:
+
+1. Dandi March  
+2. Lahore Purna Swaraj  
+3. Gandhi–Irwin Pact  
+4. Simon Commission  
+
+A. 4, 2, 1, 3  
+B. 4, 1, 2, 3  
+C. 2, 4, 1, 3  
+D. 4, 2, 3, 1  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Simon → Lahore goal → Salt march → Pact.
+
+**Ans: A** — Simon **1927** → Lahore **1929** → Dandi **1930** → Gandhi–Irwin **1931**.
+
+</details>
+
+**Q14.** Arrange:
+
+1. Poona Pact  
+2. Communal Award  
+3. First Round Table Conference  
+4. Karachi Session (Fundamental Rights)  
+
+A. 3, 4, 2, 1  
+B. 3, 2, 4, 1  
+C. 4, 3, 2, 1  
+D. 3, 4, 1, 2  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** First RTC during CDM; Karachi after Pact 1931; Award then Poona Pact in 1932.
+
+**Ans: A** — First RTC **1930–31** → Karachi **1931** → Communal Award **1932** → Poona Pact **1932**.
+
+</details>
+
+**Q15.** Arrange:
+
+1. Quit India Movement  
+2. Cripps Mission  
+3. August Offer  
+4. Individual Satyagraha  
+
+A. 3, 4, 2, 1  
+B. 3, 2, 4, 1  
+C. 4, 3, 2, 1  
+D. 3, 4, 1, 2  
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:** Linlithgow offer → Individual Satyagraha → Cripps fails → Quit India.
+
+**Ans: A** — August Offer **1940** → Individual Satyagraha **1940** → Cripps **1942** → Quit India **1942**.
+
+</details>

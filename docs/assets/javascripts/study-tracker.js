@@ -205,6 +205,11 @@
     const t = topic.trim();
     const key = `${s}:::${t}`;
 
+    // Revision Desk Notes — Enforce 80% Target Mastery Gate
+    if (s.includes('(must score facts)') || s.includes('(high yield tables)') || t.startsWith('msf__') || t.startsWith('hyt__')) {
+      return { group: 'revision', targetAccuracy: 80, label: 'Revision Gate', badgeText: 'Target: 80% (Mastery Gate)', badgeClass: 'st-badge-target-least' };
+    }
+
     if (HIGH_PRIORITY_CHAPTERS.has(key)) {
       return { group: 'high', targetAccuracy: 100, label: 'Highly Important', badgeText: 'Target: 100% (High Priority)', badgeClass: 'st-badge-target-high' };
     }
@@ -434,7 +439,7 @@
       }
     });
 
-    // Target sidebar drawer nav items (.md-nav__item) pointing specifically to the admin control center
+    // Sidebar drawer nav items: Keep dedicated admin item strictly hidden from all subject/revision sidebars
     const adminNavLinks = document.querySelectorAll(
       'a.md-nav__link[href*="admin/"], a.md-nav__link[href$="admin/"], a.md-nav__link[href*="admin.md"]'
     );
@@ -446,7 +451,7 @@
         const item = link.closest('.md-nav__item');
         if (item) {
           item.classList.add('st-admin-nav-item');
-          item.style.setProperty('display', isAdmin ? 'block' : 'none', 'important');
+          item.style.setProperty('display', 'none', 'important');
         }
       }
     });
@@ -2303,13 +2308,43 @@
   // -------------------------------------------------------------
   function getCurrentTopicInfo() {
     const rawPath = decodeURIComponent(location.pathname);
+
+    // 1. Revision Desk path matching: /revision/(must-score-facts|high-yield-tables)/([^/]+)/([^/]+)
+    const revMatch = rawPath.match(/\/revision\/(must-score-facts|high-yield-tables)\/([^\/]+)\/([^\/]+)/i);
+    if (revMatch) {
+      const mode = revMatch[1]; // 'must-score-facts' or 'high-yield-tables'
+      const modeTitle = mode === 'must-score-facts' ? 'Must Score Facts' : 'High Yield Tables';
+      const subjectRaw = revMatch[2].replace(/%20/g, ' ').trim();
+      let topicSlug = revMatch[3].trim().replace(/\.(html|md)$/i, '');
+
+      if (topicSlug === 'index' || topicSlug === '' || topicSlug === 'prompt') {
+        return null;
+      }
+
+      const subject = `${subjectRaw} (${modeTitle})`;
+      const topic = `${mode === 'must-score-facts' ? 'msf' : 'hyt'}__${topicSlug}`;
+      const heading = document.querySelector('.md-content__inner h1');
+      const title = heading ? heading.textContent.replace(/¶/g, '').trim() : topicSlug.replace(/_/g, ' ');
+
+      return {
+        subject,
+        topic,
+        title,
+        isRevision: true,
+        revisionType: mode,
+        originalSubject: subjectRaw,
+        originalTopic: topicSlug
+      };
+    }
+
+    // 2. Standard Subject Notes path matching: /subjects/([^/]+)/([^/]+)
     const match = rawPath.match(/\/subjects\/([^\/]+)\/([^\/]+)/i);
     if (!match) return null;
 
     const subject = match[1].replace(/%20/g, ' ').trim();
-    const topicSlug = match[2].trim();
+    let topicSlug = match[2].trim().replace(/\.(html|md)$/i, '');
 
-    if (topicSlug === 'index.html' || topicSlug === 'index' || topicSlug === '' || topicSlug === 'prompt') {
+    if (topicSlug === 'index' || topicSlug === '' || topicSlug === 'prompt') {
       return null;
     }
 
@@ -2780,9 +2815,9 @@
       // Only parse details that are answer reveal blocks
       if (!/show answer|answer|solution|view logic/i.test(summaryText)) return;
 
-      const answerBody = details.innerHTML;
-      // Extract correct answer letter: Ans: B, Correct Answer: D, etc.
-      const ansMatch = answerBody.match(/(?:Ans|Correct Answer|Answer)\s*:\s*\*?\*?([A-D])\*?\*?/i) ||
+      // Extract correct answer letter: Ans: B, Correct Answer: D, **Correct Answer:** **C**, etc.
+      const ansMatch = answerBody.match(/(?:\*\*|<strong>)?(?:Ans|Correct Answer|Answer):?(?:\*\*|<\/strong>)?\s*:?\s*(?:\*\*|<strong>)?([A-D])(?:\*\*|<\/strong>)?/i) ||
+                       answerBody.match(/(?:Ans|Correct Answer|Answer)\s*:\s*\*?\*?([A-D])\*?\*?/i) ||
                        answerBody.match(/\*?\*?([A-D])\*?\*?\s*(?:is correct|only)/i);
       const correctLetter = ansMatch ? ansMatch[1].toUpperCase() : null;
       if (!correctLetter) return; // Skip if no clear answer letter
@@ -3529,8 +3564,24 @@
   }
 
   // -------------------------------------------------------------
+  // Dynamic Revision Collapsible Toggles (<details class="rev-toggle">)
+  // -------------------------------------------------------------
+  function enhanceRevisionToggles() {
+    const toggles = document.querySelectorAll('details.rev-toggle');
+    toggles.forEach(details => {
+      const hint = details.querySelector('.rev-toggle-hint');
+      if (!hint) return;
+      const updateHint = () => {
+        hint.textContent = details.open ? '(Click to Collapse)' : '(Click to Expand)';
+      };
+      details.addEventListener('toggle', updateHint);
+      updateHint();
+    });
+  }
+
+  // -------------------------------------------------------------
   // 1. INJECT IN-CHAPTER TRACKER BAR & QUICK CONTROLS
-  // ---------------------------------------------------------------
+  // -------------------------------------------------------------
   async function injectSubjectNoteWidget() {
     const topicInfo = getCurrentTopicInfo();
     if (!topicInfo) {
@@ -3549,6 +3600,7 @@
 
     // Initialize floating in-chapter reading clock stopwatch
     initChapterReadingClock(topicInfo);
+    enhanceRevisionToggles();
 
     const priorityInfo = getChapterPriority(topicInfo.subject, topicInfo.topic);
 
@@ -3939,8 +3991,9 @@
   // Helper to resolve topic slug or title to catalog topic info
   function resolveTopicInfo(subject, topic) {
     const normSub = (subject || '').toLowerCase().trim();
-    const cat = CHAPTER_CATALOG[normSub] || [];
-    const cleanTopic = (topic || '').trim();
+    const baseSub = normSub.replace(/\s*\((must score facts|high yield tables)\)/i, '').trim();
+    const cat = CHAPTER_CATALOG[baseSub] || CHAPTER_CATALOG[normSub] || [];
+    const cleanTopic = (topic || '').trim().replace(/^(msf|hyt)__/, '');
     const normClean = cleanTopic.toLowerCase().replace(/^topic\s*\d+\s*[-–—:]*\s*/i, '').replace(/^[0-9\s._-]+/, '').replace(/[-_ ]/g, '');
     const found = cat.find(c => {
       if (c.slug === cleanTopic || c.title === cleanTopic) return true;
@@ -3950,11 +4003,13 @@
       const cNormTitle = (c.title || '').toLowerCase().replace(/^topic\s*\d+\s*[-–—:]*\s*/i, '').replace(/^[0-9\s._-]+/, '').replace(/[-_ ]/g, '');
       return Boolean(normClean && (cNormSlug === normClean || cNormTitle === normClean || c.slug.toLowerCase().endsWith(normClean)));
     });
+    const modeLabel = normSub.includes('facts') ? 'Must Score Facts' : (normSub.includes('tables') ? 'High Yield Tables' : '');
+    const resolvedTitle = found ? (modeLabel ? `${found.title} (${modeLabel})` : found.title) : (topic || cleanTopic);
     return {
       subject: normSub,
-      topic: found ? found.slug : cleanTopic,
+      topic: (topic || '').trim(),
       slug: found ? found.slug : cleanTopic,
-      title: found ? found.title : cleanTopic
+      title: resolvedTitle
     };
   }
 

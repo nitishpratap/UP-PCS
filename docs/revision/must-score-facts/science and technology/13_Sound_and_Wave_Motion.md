@@ -1,0 +1,631 @@
+---
+hide:
+  - toc
+---
+
+# Topic 5 — Sound and Wave Motion — Must-Score Facts
+
+<div class="rev-hero-banner rev-facts-hero" markdown="0">
+  <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
+  <div class="rev-hero-meta">🔬 Science & Technology &bull; Target: 80% Mastery Gate Required</div>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Sound and Wave Motion</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+</div>
+
+<details class="rev-toggle rev-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated Must-Score Facts</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+
+1. A wave transports **energy and momentum** from one point to another without any net transport of matter.
+2. Mechanical waves require an elastic material medium possessing **inertia and elasticity (restoring force)** for propagation.
+3. Transverse mechanical waves can propagate only in **solids** (which sustain shear stress) and on liquid surfaces; they **cannot propagate through the bulk of fluids (liquids and gases)**.
+4. Ocean surface waves are a hybrid: water particles execute **both vertical and horizontal orbital motions** (elliptical trajectories).
+5. Longitudinal waves propagate through **all three states of matter (solids, liquids, and gases)** as alternating compressions and rarefactions.
+6. Sound waves in air and all fluid media are strictly **longitudinal mechanical waves**.
+7. In solids (such as rocks and metals), sound can propagate as **both longitudinal waves and transverse (shear) waves**.
+8. In an earthquake, **Primary (P) waves are longitudinal** (compressional, travel through solid, liquid, gas, recorded first on seismograph), while **Secondary (S) waves are transverse** (shear, travel only through solids, recorded later).
+9. Plucking the string of a Sitar produces **transverse stationary (standing) waves** along the string, which induce longitudinal pressure sound waves in the surrounding air.
+10. Electromagnetic (EM) waves do not require any material medium and travel through a vacuum at the speed of light ($c \approx 3.0 \times 10^8\text{ m/s}$).
+11. In a vacuum, **all electromagnetic waves travel at the exact same velocity** ($c$), regardless of their wavelength or frequency.
+12. EM waves are self-sustaining oscillating electric ($\vec{E}$) and magnetic ($\vec{B}$) fields perpendicular to each other and to the direction of propagation (**transverse nature**).
+13. Electromagnetic spectrum in decreasing order of frequency (increasing order of wavelength): **Gamma rays > X-rays > Ultraviolet > Visible light > Infrared > Microwaves > Radio waves**.
+14. **Gamma rays ($\gamma$)** have the shortest wavelength ($< 10^{-12}\text{ m}$), highest frequency, highest energy per photon ($E = h\nu$), and maximum penetrating power; used in radiotherapy to destroy cancerous cells.
+15. **Wilhelm Conrad Röntgen** discovered X-rays ($1\text{ nm} - 10^{-3}\text{ nm}$); X-rays are not deflected by electric or magnetic fields because they carry no electric charge.
+16. X-rays are used in **crystallography (crystal structure analysis by diffraction)**, medical radiography, CT scans (computed tomography), and diagnosing intestinal disorders.
+17. **Cosmic rays are NOT electromagnetic waves**; they are streams of extremely high-energy charged subatomic particles (chiefly protons and alpha particles) arriving from outer space.
+18. Ultraviolet radiation is divided into UV-A ($320-400\text{ nm}$), UV-B ($280-320\text{ nm}$), and UV-C ($100-280\text{ nm}$). UV-C is lethal to cells but is completely absorbed by the stratospheric ozone layer.
+19. Ozone layer depletion exposes Earth to UV radiation of minimum wavelength around **$100\text{ nm} = 10^{-7}\text{ m}$**.
+20. Infrared radiation ($1\text{ mm} - 700\text{ nm}$) was discovered by **William Herschel**; it is the physical agent responsible for radiant thermal heating and is used in night-vision devices and TV remotes.
+21. Common TV remote controls primarily emit **Infrared (IR) rays** (some smart remotes use radio waves/Bluetooth).
+22. Microwaves ($0.1\text{ m} - 1\text{ mm}$, $300\text{ MHz} - 300\text{ GHz}$) were pioneered by Sir J.C. Bose and Heinrich Hertz; widely used in Radar, satellite communication, and microwave ovens.
+23. The carrier frequency of a $30\text{ m}$ radio band is: $\nu = c/\lambda = (3 \times 10^8\text{ m/s}) / 30\text{ m} = 10\text{ MHz}$.
+24. **Sky wave propagation** depends on the reflection of medium- and shortwave radio waves from the electrically ionized gas layers of the **Ionosphere**.
+25. Satellite dish antennas experience signal dropout during heavy rain because **raindrops absorb and scatter/disperse the radio wave energy**, attenuating high-frequency satellite downlinks.
+26. In television broadcasting, **picture signals are transmitted by Amplitude Modulation (AM)**, while **audio signals are transmitted by Frequency Modulation (FM)**.
+27. **Edwin Howard Armstrong** invented wideband Frequency Modulation (FM) in 1935; FM operates at higher frequency ($88-108\text{ MHz}$) and wider bandwidth, offering complete immunity from amplitude noise and static.
+28. Medium-speed data communication ($1200 - 2400\text{ bps}$) conventionally employs **Frequency Modulation (Frequency Shift Keying)**.
+29. Speed of sound in various media at standard temperature: **Steel ($5960\text{ m/s}$) > Iron ($5950\text{ m/s}$) > Seawater ($1531\text{ m/s}$) > Fresh Water ($1498\text{ m/s}$) > Hydrogen ($1284\text{ m/s}$) > Air at $22^\circ\text{C}$ ($344\text{ m/s}$) > Air at $0^\circ\text{C}$ ($331\text{ m/s}$)**.
+30. The speed of sound in steel is approximately **17 times** greater than in air.
+31. When sound moves from one medium to another, its **frequency remains completely unchanged**, while its velocity and wavelength change proportionally ($v = f\lambda$).
+32. Speed of sound in a gas is directly proportional to the square root of absolute temperature ($v \propto \sqrt{T}$); speed of sound is higher in summer than in winter.
+33. Speed of sound in air is **completely independent of atmospheric pressure changes** at constant temperature.
+34. Speed of sound is greater in **humid air than in dry air** because the molecular weight of water vapour ($18\text{ g/mol}$) is lower than that of dry air ($\sim 29\text{ g/mol}$), reducing density $\rho$.
+35. The audible frequency range for human ears is **$20\text{ Hz} - 20,000\text{ Hz}$ ($20\text{ kHz}$)**.
+36. **Infrasonic waves** have frequencies below $20\text{ Hz}$; generated by earthquakes, volcanoes, ocean swells, avalanches, and elephants, whales, and rhinos.
+37. Prior to the arrival of destructive main earthquake shockwaves, **infrasound waves** are generated, alerting animals.
+38. The human heart vibrates at **infrasonic frequencies**, picked up by the acoustic diaphragm of a stethoscope.
+39. **Ultrasonic waves** have frequencies exceeding $20,000\text{ Hz}$ ($20\text{ kHz}$); bats, dolphins, and porpoises use ultrasound for echolocation.
+40. High-frequency ultrasonic vibrations are used in **lithotripsy** to pulverize kidney stones into fine gravel that passes harmlessly in urine.
+41. **Echocardiography (Echo test)** utilizes reflected ultrasound beams to produce dynamic real-time images of cardiac valves and chambers.
+42. **Galton Whistle** emits ultrasonic frequencies ($> 20\text{ kHz}$), completely inaudible to human ears but heard clearly by dogs for training.
+43. Stethoscopes operate on the principle of **multiple reflection of sound waves** within the hollow tubing.
+44. The persistence of hearing in the human brain lasts for **$0.1\text{ second}$ ($1/10\text{ s}$)**.
+45. To hear a distinct, clear echo, the reflecting barrier must be situated at a minimum distance of **$17.2\text{ metres}$** (approx $17\text{ m}$ or $16.5\text{ m}$) at $22^\circ\text{C}$ ($d = vt/2 = 344 \times 0.1 / 2$).
+46. Reverberation in large halls and auditoriums is caused by **multiple consecutive reflections**; music hall walls are lined with porous, acoustic-absorbing materials.
+47. **Pitch** is governed strictly by **frequency** (and inversely by wavelength); high pitch produces a sharp, shrill voice (females, children), while low pitch produces a deep, grave voice.
+48. **Loudness** is governed by the **amplitude** of wave vibration ($I \propto A^2$); perceived loudness is measured in decibels ($\text{dB}$).
+49. **Timbre (Quality)** is governed by the waveform and harmonic overtones, allowing the human ear to distinguish between a Sitar and a Flute playing the identical musical note at identical loudness.
+50. **Mach Number** is the ratio of object velocity to local speed of sound; Supersonic jets ($M > 1$) flying through the stratosphere emit nitrogen oxides ($\text{NO}_x$) that catalyze ozone layer depletion.
+
+</details>
+
+
+<details class="rev-toggle rev-toggle-confused" markdown="1">
+<summary><strong>⚡ Confused Pairs &amp; Common Examiner Traps</strong> <span class="rev-toggle-hint">(Click to Expand)</span></summary>
+
+| Concept A | Concept B | Core Distinction & Common Trap |
+| :--- | :--- | :--- |
+| **Transverse Waves** | **Longitudinal Waves** | Transverse particles oscillate perpendicular to wave direction (crests/troughs; solids & surface water only). Longitudinal particles oscillate parallel to wave direction (compressions/rarefactions; solids, liquids, and gases). |
+| **Mechanical Waves** | **Electromagnetic Waves** | Mechanical waves require an elastic material medium ($v_{\text{solid}} > v_{\text{gas}}$; zero in vacuum). EM waves need no medium and propagate fastest in vacuum ($c = 3 \times 10^8\text{ m/s}$). |
+| **Pitch** | **Loudness** | Pitch depends exclusively on **frequency / wavelength** (shrillness). Loudness depends on **amplitude / intensity** ($I \propto A^2$, measured in decibels). |
+| **Timbre (Quality)** | **Pitch** | Pitch is the note frequency; Timbre is the harmonic complexity / waveform that differentiates two instruments (sitar vs flute) playing the same pitch and loudness. |
+| **Ground Waves** | **Sky Waves vs Space Waves** | Ground waves follow Earth curvature ($< 2\text{ MHz}$). Sky waves reflect off Ionosphere ($2-30\text{ MHz}$). Space waves are direct line-of-sight waves (UHF $> 300\text{ MHz}$), cannot reflect off ionosphere. |
+| **Infrasound ($<20\text{ Hz}$)** | **Ultrasound ($>20\text{ kHz}$)** | Infrasound has immense wavelengths (earthquakes, elephants, heart vibration). Ultrasound has micro wavelengths (bats, kidney lithotripsy, SONAR, fetal imaging). |
+| **AM (Amplitude Mod.)** | **FM (Frequency Mod.)** | AM varies carrier amplitude (used in TV picture, long/medium wave radio; prone to noise). FM varies carrier frequency (used in TV audio, FM radio; superior noise immunity, wider bandwidth). |
+| **Echo** | **Reverberation** | Echo is a discrete reflection heard after $\ge 0.1\text{ s}$ ($d \ge 17.2\text{ m}$). Reverberation is a continuous persistence of sound due to rapid, multiple overlapping reflections ($t < 0.1\text{ s}$). |
+
+---
+
+</details>
+
+
+---
+
+## 🎯 Revision Practice MCQs (Mastery Drill)
+
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+
+**Q1.** UNEP 'Frontiers Report' on Noise Pollution (Moradabad Spotlight):**
+   - In the UNEP report *Noise, Blazes and Mismatches*, **Moradabad (Uttar Pradesh)** was documented recording peak noise levels of **$114\text{ dB}$**, ranking as the second noisiest city in the world after Dhaka, Bangladesh ($119\text{ dB}$), and ahead of Islamabad ($105\text{ dB}$).
+   - **UPPCS Direct Question Fact:** WHO recommends ambient residential noise levels below **$45\text{ dB}$**. Any continuous exposure above **$80\text{ dB}$** constitutes hazardous noise pollution causing permanent auditory damage, hypertension, and sleep disorders.
+
+2. **Insolation vs Terrestrial Radiation (IAS Pre 2024 / UPPCS 2022 Fact):**
+   - Earth receives incoming solar energy primarily in **shortwave radiation** (visible and near UV/IR). The atmosphere is largely transparent to incoming shortwave solar radiation ($14\%$ absorbed directly by air, $51\%$ by the Earth's surface, $35\%$ reflected by clouds/aerosols/albedo).
+   - Earth heated by insolation re-radiates energy back as **longwave terrestrial radiation (infrared)**. Greenhouse gases ($\text{CO}_2, \text{CH}_4, \text{H}_2\text{O}$ vapour) strongly absorb this longwave radiation. Thus, **the Earth's atmosphere is heated primarily from below by longwave terrestrial radiation**, NOT directly by incoming sunlight!
+
+3. **Albedo Measurements in Climate Science (UPPCS Pre Fact):**
+   - **Fresh snow cover** exhibits the highest albedo on Earth ($80\% - 95\%$ reflecting power), causing skiers to suffer UV burns from reflected radiation. Open water exhibits the lowest albedo ($\sim 3\% - 5\%$).
+
+4. **Telecommunication Frequency Bands & Space Waves (RAS Pre / UPPCS Fact):**
+   - **Ultra High Frequency (UHF: $300\text{ MHz} - 3\text{ GHz}$)** cannot follow the curvature of Earth (ground waves) nor be reflected by the ionosphere (sky waves). They propagate via **space waves (line-of-sight propagation)**, which powers mobile telephony, Wi-Fi, and UHF television broadcasting.
+
+5. **Acoustic Bathymetry & Deep Sea Submersibles (Samudrayaan / MATSYA 6000 Fact):**
+   - Radio waves and light cannot penetrate deep seawater due to massive electrical conductivity and absorption. Only **acoustic pulses (ultrasonic SONAR)** can navigate, map seabed bathymetry, and communicate under deep oceanic trenches.
+
+---
+
+## Consolidated — 50 Must-Score Facts
+
+1. A wave transports **energy and momentum** from one point to another without any net transport of matter.
+2. Mechanical waves require an elastic material medium possessing **inertia and elasticity (restoring force)** for propagation.
+3. Transverse mechanical waves can propagate only in **solids** (which sustain shear stress) and on liquid surfaces; they **cannot propagate through the bulk of fluids (liquids and gases)**.
+4. Ocean surface waves are a hybrid: water particles execute **both vertical and horizontal orbital motions** (elliptical trajectories).
+5. Longitudinal waves propagate through **all three states of matter (solids, liquids, and gases)** as alternating compressions and rarefactions.
+6. Sound waves in air and all fluid media are strictly **longitudinal mechanical waves**.
+7. In solids (such as rocks and metals), sound can propagate as **both longitudinal waves and transverse (shear) waves**.
+8. In an earthquake, **Primary (P) waves are longitudinal** (compressional, travel through solid, liquid, gas, recorded first on seismograph), while **Secondary (S) waves are transverse** (shear, travel only through solids, recorded later).
+9. Plucking the string of a Sitar produces **transverse stationary (standing) waves** along the string, which induce longitudinal pressure sound waves in the surrounding air.
+10. Electromagnetic (EM) waves do not require any material medium and travel through a vacuum at the speed of light ($c \approx 3.0 \times 10^8\text{ m/s}$).
+11. In a vacuum, **all electromagnetic waves travel at the exact same velocity** ($c$), regardless of their wavelength or frequency.
+12. EM waves are self-sustaining oscillating electric ($\vec{E}$) and magnetic ($\vec{B}$) fields perpendicular to each other and to the direction of propagation (**transverse nature**).
+13. Electromagnetic spectrum in decreasing order of frequency (increasing order of wavelength): **Gamma rays > X-rays > Ultraviolet > Visible light > Infrared > Microwaves > Radio waves**.
+14. **Gamma rays ($\gamma$)** have the shortest wavelength ($< 10^{-12}\text{ m}$), highest frequency, highest energy per photon ($E = h\nu$), and maximum penetrating power; used in radiotherapy to destroy cancerous cells.
+15. **Wilhelm Conrad Röntgen** discovered X-rays ($1\text{ nm} - 10^{-3}\text{ nm}$); X-rays are not deflected by electric or magnetic fields because they carry no electric charge.
+16. X-rays are used in **crystallography (crystal structure analysis by diffraction)**, medical radiography, CT scans (computed tomography), and diagnosing intestinal disorders.
+17. **Cosmic rays are NOT electromagnetic waves**; they are streams of extremely high-energy charged subatomic particles (chiefly protons and alpha particles) arriving from outer space.
+18. Ultraviolet radiation is divided into UV-A ($320-400\text{ nm}$), UV-B ($280-320\text{ nm}$), and UV-C ($100-280\text{ nm}$). UV-C is lethal to cells but is completely absorbed by the stratospheric ozone layer.
+19. Ozone layer depletion exposes Earth to UV radiation of minimum wavelength around **$100\text{ nm} = 10^{-7}\text{ m}$**.
+20. Infrared radiation ($1\text{ mm} - 700\text{ nm}$) was discovered by **William Herschel**; it is the physical agent responsible for radiant thermal heating and is used in night-vision devices and TV remotes.
+21. Common TV remote controls primarily emit **Infrared (IR) rays** (some smart remotes use radio waves/Bluetooth).
+22. Microwaves ($0.1\text{ m} - 1\text{ mm}$, $300\text{ MHz} - 300\text{ GHz}$) were pioneered by Sir J.C. Bose and Heinrich Hertz; widely used in Radar, satellite communication, and microwave ovens.
+23. The carrier frequency of a $30\text{ m}$ radio band is: $\nu = c/\lambda = (3 \times 10^8\text{ m/s}) / 30\text{ m} = 10\text{ MHz}$.
+24. **Sky wave propagation** depends on the reflection of medium- and shortwave radio waves from the electrically ionized gas layers of the **Ionosphere**.
+25. Satellite dish antennas experience signal dropout during heavy rain because **raindrops absorb and scatter/disperse the radio wave energy**, attenuating high-frequency satellite downlinks.
+26. In television broadcasting, **picture signals are transmitted by Amplitude Modulation (AM)**, while **audio signals are transmitted by Frequency Modulation (FM)**.
+27. **Edwin Howard Armstrong** invented wideband Frequency Modulation (FM) in 1935; FM operates at higher frequency ($88-108\text{ MHz}$) and wider bandwidth, offering complete immunity from amplitude noise and static.
+28. Medium-speed data communication ($1200 - 2400\text{ bps}$) conventionally employs **Frequency Modulation (Frequency Shift Keying)**.
+29. Speed of sound in various media at standard temperature: **Steel ($5960\text{ m/s}$) > Iron ($5950\text{ m/s}$) > Seawater ($1531\text{ m/s}$) > Fresh Water ($1498\text{ m/s}$) > Hydrogen ($1284\text{ m/s}$) > Air at $22^\circ\text{C}$ ($344\text{ m/s}$) > Air at $0^\circ\text{C}$ ($331\text{ m/s}$)**.
+30. The speed of sound in steel is approximately **17 times** greater than in air.
+31. When sound moves from one medium to another, its **frequency remains completely unchanged**, while its velocity and wavelength change proportionally ($v = f\lambda$).
+32. Speed of sound in a gas is directly proportional to the square root of absolute temperature ($v \propto \sqrt{T}$); speed of sound is higher in summer than in winter.
+33. Speed of sound in air is **completely independent of atmospheric pressure changes** at constant temperature.
+34. Speed of sound is greater in **humid air than in dry air** because the molecular weight of water vapour ($18\text{ g/mol}$) is lower than that of dry air ($\sim 29\text{ g/mol}$), reducing density $\rho$.
+35. The audible frequency range for human ears is **$20\text{ Hz} - 20,000\text{ Hz}$ ($20\text{ kHz}$)**.
+36. **Infrasonic waves** have frequencies below $20\text{ Hz}$; generated by earthquakes, volcanoes, ocean swells, avalanches, and elephants, whales, and rhinos.
+37. Prior to the arrival of destructive main earthquake shockwaves, **infrasound waves** are generated, alerting animals.
+38. The human heart vibrates at **infrasonic frequencies**, picked up by the acoustic diaphragm of a stethoscope.
+39. **Ultrasonic waves** have frequencies exceeding $20,000\text{ Hz}$ ($20\text{ kHz}$); bats, dolphins, and porpoises use ultrasound for echolocation.
+40. High-frequency ultrasonic vibrations are used in **lithotripsy** to pulverize kidney stones into fine gravel that passes harmlessly in urine.
+41. **Echocardiography (Echo test)** utilizes reflected ultrasound beams to produce dynamic real-time images of cardiac valves and chambers.
+42. **Galton Whistle** emits ultrasonic frequencies ($> 20\text{ kHz}$), completely inaudible to human ears but heard clearly by dogs for training.
+43. Stethoscopes operate on the principle of **multiple reflection of sound waves** within the hollow tubing.
+44. The persistence of hearing in the human brain lasts for **$0.1\text{ second}$ ($1/10\text{ s}$)**.
+45. To hear a distinct, clear echo, the reflecting barrier must be situated at a minimum distance of **$17.2\text{ metres}$** (approx $17\text{ m}$ or $16.5\text{ m}$) at $22^\circ\text{C}$ ($d = vt/2 = 344 \times 0.1 / 2$).
+46. Reverberation in large halls and auditoriums is caused by **multiple consecutive reflections**; music hall walls are lined with porous, acoustic-absorbing materials.
+47. **Pitch** is governed strictly by **frequency** (and inversely by wavelength); high pitch produces a sharp, shrill voice (females, children), while low pitch produces a deep, grave voice.
+48. **Loudness** is governed by the **amplitude** of wave vibration ($I \propto A^2$); perceived loudness is measured in decibels ($\text{dB}$).
+49. **Timbre (Quality)** is governed by the waveform and harmonic overtones, allowing the human ear to distinguish between a Sitar and a Flute playing the identical musical note at identical loudness.
+50. **Mach Number** is the ratio of object velocity to local speed of sound; Supersonic jets ($M > 1$) flying through the stratosphere emit nitrogen oxides ($\text{NO}_x$) that catalyze ozone layer depletion.
+
+---
+
+## Confused Pairs
+
+| Concept A | Concept B | Core Distinction & Common Trap |
+| :--- | :--- | :--- |
+| **Transverse Waves** | **Longitudinal Waves** | Transverse particles oscillate perpendicular to wave direction (crests/troughs; solids & surface water only). Longitudinal particles oscillate parallel to wave direction (compressions/rarefactions; solids, liquids, and gases). |
+| **Mechanical Waves** | **Electromagnetic Waves** | Mechanical waves require an elastic material medium ($v_{\text{solid}} > v_{\text{gas}}$; zero in vacuum). EM waves need no medium and propagate fastest in vacuum ($c = 3 \times 10^8\text{ m/s}$). |
+| **Pitch** | **Loudness** | Pitch depends exclusively on **frequency / wavelength** (shrillness). Loudness depends on **amplitude / intensity** ($I \propto A^2$, measured in decibels). |
+| **Timbre (Quality)** | **Pitch** | Pitch is the note frequency; Timbre is the harmonic complexity / waveform that differentiates two instruments (sitar vs flute) playing the same pitch and loudness. |
+| **Ground Waves** | **Sky Waves vs Space Waves** | Ground waves follow Earth curvature ($< 2\text{ MHz}$). Sky waves reflect off Ionosphere ($2-30\text{ MHz}$). Space waves are direct line-of-sight waves (UHF $> 300\text{ MHz}$), cannot reflect off ionosphere. |
+| **Infrasound ($<20\text{ Hz}$)** | **Ultrasound ($>20\text{ kHz}$)** | Infrasound has immense wavelengths (earthquakes, elephants, heart vibration). Ultrasound has micro wavelengths (bats, kidney lithotripsy, SONAR, fetal imaging). |
+| **AM (Amplitude Mod.)** | **FM (Frequency Mod.)** | AM varies carrier amplitude (used in TV picture, long/medium wave radio; prone to noise). FM varies carrier frequency (used in TV audio, FM radio; superior noise immunity, wider bandwidth). |
+| **Echo** | **Reverberation** | Echo is a discrete reflection heard after $\ge 0.1\text{ s}$ ($d \ge 17.2\text{ m}$). Reverberation is a continuous persistence of sound due to rapid, multiple overlapping reflections ($t < 0.1\text{ s}$). |
+
+---
+
+## Must-Score Master Tables
+
+### Table 1: Speed of Sound Across Common Media (Standard Conditions)
+
+| Medium | State | Approximate Speed ($v$) in $\text{m/s}$ | Must-Score Notes |
+| :--- | :--- | :---: | :--- |
+| **Aluminium** | Solid Metal | $6,420\text{ m/s}$ | Extremely high speed due to high Young's modulus |
+| **Steel** | Solid Alloy | $5,960\text{ m/s}$ | $\approx 17$ times faster than air; highest common civil question |
+| **Iron** | Solid Metal | $5,950\text{ m/s}$ | Tested in UPPCS / BPSC rail-track questions |
+| **Granite / Rock** | Solid Mineral | $\sim 6,000\text{ m/s}$ | Transmits both P (longitudinal) and S (transverse) waves |
+| **Glass** | Solid Amorphous | $\sim 4,000 - 5,000\text{ m/s}$ | Lower than aluminium and steel |
+| **Seawater ($25^\circ\text{C}$)** | Liquid | $1,531\text{ m/s}$ | Higher than fresh water due to salinity and density |
+| **Distilled Water ($25^\circ\text{C}$)**| Liquid | $1,498\text{ m/s}$ | Standard reference liquid speed |
+| **Hydrogen Gas ($25^\circ\text{C}$)** | Gas | $1,284\text{ m/s}$ | Fastest gas speed due to very low molecular weight ($M=2$) |
+| **Helium Gas ($25^\circ\text{C}$)** | Gas | $965\text{ m/s}$ | High speed in light inert gas |
+| **Air ($22^\circ\text{C}$)** | Gas Mixture | $344\text{ m/s}$ | Standard room temperature speed (used for $17.2\text{ m}$ echo) |
+| **Air ($0^\circ\text{C}$)** | Gas Mixture | $331\text{ m/s}$ | Zero degrees standard speed |
+| **Vacuum** | Free Space | **$0\text{ m/s}$** | **Cannot propagate**; astronauts on Moon cannot hear speech |
+
+### Table 2: The Decibel Scale & Physiological Impact
+
+| Sound Source / Environment | Sound Intensity Level ($\text{dB}$) | Physiological / Regulatory Impact |
+| :--- | :---: | :--- |
+| **Threshold of Hearing** | $0\text{ dB}$ | Faintest audible sound at $1000\text{ Hz}$ |
+| **Rustling of Tree Leaves** | **$20\text{ dB}$** | Standard quiet nature level (UPPCS Pre 2018) |
+| **Whisper (at $1\text{ m}$)** | $15 - 20\text{ dB}$ | Very quiet acoustic level |
+| **Quiet Library / Soft Music** | $30\text{ dB}$ | Comfortable reading level |
+| **Normal Conversation** | **$30 - 60\text{ dB}$** | Optimal human communication level |
+| **WHO Safe Urban Level** | **$45\text{ dB}$** | WHO recommended daytime city ambient limit |
+| **Average Street Traffic** | $60 - 70\text{ dB}$ | Moderate noise |
+| **Anger / Heated Conversation**| $70 - 80\text{ dB}$ | Annoying level |
+| **Heavy Truck / Motorcycle** | $90 - 95\text{ dB}$ | Hazardous under prolonged exposure |
+| **Machine Shop / Factory Floor**| **$100 - 110\text{ dB}$** | Permanent hearing loss risk over 8 hours |
+| **Orchestra / Rock Concert** | $110 - 120\text{ dB}$ | Extreme acoustic intensity |
+| **Moradabad Peak Noise (UNEP)**| **$114\text{ dB}$** | Ranked 2nd noisiest city globally (2022) |
+| **Threshold of Pain** | **$120 - 130\text{ dB}$** | Physical pain in ear canal |
+| **Jet Aircraft Takeoff (close)**| $140 - 150\text{ dB}$ | Immediate acoustic trauma / eardrum rupture |
+
+#### CPCB Ambient Noise Standards (Noise Pollution Rules, 2000)
+
+| Category of Zone | Day Time ($6\text{ AM} - 10\text{ PM}$) | Night Time ($10\text{ PM} - 6\text{ AM}$) |
+| :--- | :---: | :---: |
+| **Industrial Area** | $75\text{ dB}$ | $70\text{ dB}$ |
+| **Commercial Area** | $65\text{ dB}$ | $55\text{ dB}$ |
+| **Residential Area** | **$55\text{ dB}$** | **$45\text{ dB}$** |
+| **Silence Zone** (Hospital, School $\le 100\text{ m}$) | **$50\text{ dB}$** | **$40\text{ dB}$** |
+
+### Table 3: Complete Electromagnetic Spectrum Breakdown
+
+| Wave Type | Discoverer | Wavelength Range ($\lambda$) | Frequency Range ($\nu$) | Key Applications & High-Yield Facts |
+| :--- | :--- | :--- | :--- | :--- |
+| **Gamma Rays ($\gamma$)** | Paul Villard (identified), Henri Becquerel (named) | $< 10^{-3}\text{ nm}$ ($< 10^{-12}\text{ m}$) | $> 3 \times 10^{20}\text{ Hz}$ | Maximum penetrating power; radiotherapy for cancer; nuclear emissions |
+| **X-Rays** | Wilhelm Conrad Röntgen (1895) | $1\text{ nm} - 10^{-3}\text{ nm}$ ($10^{-9} - 10^{-12}\text{ m}$) | $3 \times 10^{17} - 3 \times 10^{20}\text{ Hz}$ | Crystal structure diffraction; CT scans; intestinal disease diagnosis |
+| **Ultraviolet (UV)** | Johann Wilhelm Ritter (1801) | $400\text{ nm} - 1\text{ nm}$ ($4 \times 10^{-7} - 10^{-9}\text{ m}$) | $7.5 \times 10^{14} - 3 \times 10^{17}\text{ Hz}$ | Water & surgical sterilization; Vitamin D synthesis; absorbed by stratospheric ozone |
+| **Visible Light** | Isaac Newton (1666) | $700\text{ nm} - 400\text{ nm}$ ($7 \times 10^{-7} - 4 \times 10^{-7}\text{ m}$) | $4.3 \times 10^{14} - 7.5 \times 10^{14}\text{ Hz}$ | Human vision (VIBGYOR); peak sensitivity at $555\text{ nm}$ (yellowish-green) |
+| **Infrared (IR)** | William Herschel (1800) | $1\text{ mm} - 700\text{ nm}$ ($10^{-3} - 7 \times 10^{-7}\text{ m}$) | $3 \times 10^{11} - 4.3 \times 10^{14}\text{ Hz}$ | Thermal radiation; greenhouse effect; night-vision goggles; TV remote controllers |
+| **Microwaves** | J.C. Bose, Heinrich Hertz | $0.1\text{ m} - 1\text{ mm}$ ($10^{-1} - 10^{-3}\text{ m}$) | $300\text{ MHz} - 300\text{ GHz}$ | Radar systems; microwave ovens; point-to-point satellite & cellular telecommunication |
+| **Radio Waves** | Heinrich Hertz (proof), Guglielmo Marconi | $> 0.1\text{ m}$ ($> 10^{-1}\text{ m}$ to $10^4\text{ m}$) | $< 300\text{ MHz}$ | Radio and television broadcast; reflected by ionosphere (sky waves) |
+
+### Table 4: Diatonic Scale Musical Octave
+
+| Indian Note | Western Note | Frequency Ratio to Key Note | Frequency (if $\text{Sa} = 256\text{ Hz}$) |
+| :---: | :---: | :---: | :---: |
+| **Sa** | C | $1$ | $256\text{ Hz}$ |
+| **Re** | D | $9/8$ | $288\text{ Hz}$ |
+| **Ga** | E | $5/4$ | $320\text{ Hz}$ |
+| **Ma** | F | $4/3$ | $341.3\text{ Hz}$ |
+| **Pa** | G | $3/2$ | $384\text{ Hz}$ |
+| **Dha** | A | $5/3$ | $426.7\text{ Hz}$ |
+| **Ni** | B | $15/8$ | **$480\text{ Hz}$** |
+| **$\text{Sa}_1$ (Octave)** | $\text{C}_1$ | $2$ | **$512\text{ Hz}$** |
+
+---
+
+## Detailed In-Depth Core Theory
+
+### 5.1 Wave Motion: Mechanical vs Electromagnetic
+1. **Mechanical Waves:**
+   - Require a continuous elastic medium endowed with mass (inertia) and elasticity (restoring capability).
+   - **Transverse Waves:** Particle motion is strictly orthogonal to wave propagation. Propagates via **shear stress** (crests and troughs). Can only propagate through media that possess shear modulus (solids, and specialized orbital motion on liquid surfaces). They **cannot propagate through the bulk interior of liquids or gases**.
+   - **Longitudinal Waves:** Particle displacement is parallel to wave propagation direction, creating regions of compression (high density, high pressure) and rarefaction (low density, low pressure). Propagate via **bulk modulus**; can exist in solids, liquids, and gases.
+2. **Electromagnetic Waves:**
+   - Originate from accelerated electric charges. Maxwell showed that time-varying electric fields produce magnetic fields, and vice versa.
+   - Travel through vacuum at $c = 1/\sqrt{\mu_0 \varepsilon_0} \approx 3.0 \times 10^8\text{ m/s}$.
+   - Transverse in nature: $\vec{E} \perp \vec{B} \perp \vec{v}$.
+
+### 5.2 Sound Propagation and Speed Determinants
+1. **Newton-Laplace Formula:**
+   - Laplace corrected Newton's isothermal assumption by proving that sound compressions/rarefactions occur adiabatically:
+   $$v = \sqrt{\frac{\gamma P}{\rho}} = \sqrt{\frac{\gamma R T}{M}}$$
+   - Where $\gamma = C_p/C_v$ (adiabatic index, $\approx 1.4$ for air), $P$ is pressure, $\rho$ is density, $T$ is absolute temperature, and $M$ is molecular mass.
+2. **Determinants of Speed of Sound:**
+   - **Effect of Temperature:** $v \propto \sqrt{T}$. Speed increases by approximately $0.61\text{ m/s}$ for every $1^\circ\text{C}$ temperature rise in air.
+   - **Effect of Humidity:** Moist air contains water vapour ($M = 18$), which is lighter than dry air ($M \approx 29$). Thus, humid air is less dense than dry air, and the speed of sound is **greater in humid air**.
+   - **Effect of Pressure:** Pressure changes at constant temperature cause density to change in identical proportion ($P/\rho = \text{constant}$). Hence, **speed of sound is independent of pressure**.
+   - **Effect of Medium State:** Rigidity/Elasticity determines speed: $v_{\text{solid}} > v_{\text{liquid}} > v_{\text{gas}}$.
+
+### 5.3 Characteristics of Sound: Pitch, Loudness and Timbre
+1. **Pitch (Frequency):**
+   - Sensation of the frequency of sound. High pitch corresponds to high frequency and shorter wavelength (shrill sound of female voice, mosquito whine). Low pitch corresponds to low frequency (deep roar of lion).
+2. **Loudness (Amplitude):**
+   - Objective intensity $I = P/A = \frac{1}{2} \rho v \omega^2 A^2$ (proportional to square of amplitude). Subjective sensation is loudness: $L = 10 \log_{10}(I/I_0)$ in decibels ($\text{dB}$).
+3. **Quality / Timbre:**
+   - Characteristic that enables distinction between two musical notes having the exact same pitch and loudness, caused by the number and relative intensities of **harmonics (overtones)**.
+   - Phonemes are the basic structural sound units in linguistics.
+
+### 5.4 Reflection, Echo and Reverberation
+1. **Echo Physics:**
+   - Persistence of hearing is $0.1\text{ s}$. The reflected wave must return after $\ge 0.1\text{ s}$.
+   - Distance: $2d = v \cdot t \implies d = \frac{v \times 0.1}{2} = \frac{344 \times 0.1}{2} = 17.2\text{ m}$.
+2. **Reverberation:**
+   - Prolongation of sound due to repetitive reflections in enclosed spaces. Controlled using Sabine's formula $T = 0.161 V / A$ by adding absorbent acoustic tiles, heavy drapes, and upholstered seating.
+
+### 5.5 Infrasound, Ultrasound and Technological Applications
+1. **Infrasound ($< 20\text{ Hz}$):** Generated before earthquake P-waves; perceived by elephants and whales for long-distance communication; stethoscope records cardiac infrasonic vibrations.
+2. **Ultrasound ($> 20\text{ kHz}$):**
+   - **Echolocation:** Bats emit ultrasonic pulses ($20 - 100\text{ kHz}$) and capture returning echoes to navigate and hunt in total darkness.
+   - **Medical Imaging (Sonography & Echocardiography):** High-frequency acoustic pulses reflect from tissue interfaces without ionizing tissue damage (unlike X-rays).
+   - **Lithotripsy:** Focused shockwaves fragment renal calculi.
+   - **SONAR (Sound Navigation and Ranging):** Emits acoustic ultrasound pulses into seawater; calculates target distance via $d = v \cdot t / 2$.
+
+### 5.6 Seismic Waves, Radio Propagation & Atmospheric Energetics
+1. **Earthquake Waves:** P-waves (compressional/longitudinal, fastest, all states) vs S-waves (shear/transverse, slower, solids only).
+2. **Radio Communication Modes:**
+   - **Ground Waves:** Follow Earth curvature; attenuated at high frequencies ($< 2\text{ MHz}$).
+   - **Sky Waves:** Bounded by total internal reflection from the Ionosphere layer ($2 - 30\text{ MHz}$).
+   - **Space Waves:** Line of sight; UHF ($300\text{ MHz} - 3\text{ GHz}$) passes through the ionosphere into space; used for satellite and line-of-sight communications.
+3. **Atmospheric Heat Engine:**
+   - Earth is heated from below: Sun emits shortwave radiation $\to$ Earth absorbs $\to$ Earth emits longwave infrared $\to$ Absorbed by greenhouse gases.
+
+---
+
+## Bilingual Terminology -- Sound and Wave Motion
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Sound** (ध्वनि) | ध्वनि | Mechanical longitudinal wave; needs medium; cannot travel in vacuum |
+| **Frequency** (आवृत्ति) | आवृत्ति | Number of vibrations per second; SI unit = Hz |
+| **Wavelength** (तरंगदैर्ध्य) | तरंगदैर्ध्य | Distance between two consecutive crests/troughs; SI unit = metre |
+| **Amplitude** (आयाम) | आयाम | Maximum displacement from mean position; determines loudness |
+| **Pitch** (तारत्व) | तारत्व | Highness/lowness of sound; depends on frequency |
+| **Loudness** (प्रबलता) | प्रबलता | Subjective sensation; depends on amplitude and intensity |
+| **Infrasound** (अवश्रव्य ध्वनि) | अवश्रव्य ध्वनि | Frequency < 20 Hz; humans cannot hear; elephants, whales use it |
+| **Ultrasound** (पराश्रव्य ध्वनि) | पराश्रव्य ध्वनि | Frequency > 20,000 Hz; bats, dolphins; used in SONAR, medical imaging |
+| **Echo** (प्रतिध्वनि) | प्रतिध्वनि | Reflection of sound; minimum distance for echo = 17 m (at 20 degC) |
+| **Reverberation** (अनुनाद) | प्रतिध्वनि लम्बी / अनुगूँज | Persistence of sound due to multiple reflections in enclosed space |
+| **Resonance** (अनुनाद) | अनुनाद | When applied frequency = natural frequency; amplitude becomes large |
+| **Doppler Effect** (डॉपलर प्रभाव) | डॉपलर प्रभाव | Change in apparent frequency due to relative motion between source and observer |
+| **Decibel (dB)** (डेसिबल) | डेसिबल | Logarithmic unit of sound intensity |
+| **SONAR** (सोनार) | सोनार | Sound Navigation and Ranging; uses ultrasound to detect underwater objects |
+| **Noise Pollution** (ध्वनि प्रदूषण) | ध्वनि प्रदूषण | Unwanted sound causing health problems; >85 dB prolonged = hearing damage |
+
+---
+
+## Complete PYQ Bank — UPPCS
+
+**Q-ST1. UP RO/ARO (Pre) 2021**
+
+In a Sitar, which type of sound vibrations are produced?
+
+(a) Progressive and Longitudinal
+
+(b) Progressive and Transverse
+
+(c) Stationary and Longitudinal
+
+(d) Stationary and Transverse
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** When we pluck the string of an instrument, like the Sitar, the sound that we hear is not only that of the string.
+
+**Ans: D.** Stationary and Transverse
+</details>
+
+**Q2.** Ans: A.** 3 × 108
+</details>
+
+**Q-ST14. 70th B.P.S.C. (Pre) (Re-Exam) 2024**
+
+One of the properties associated with X-rays is that
+
+they can be deflected by :
+
+(a) Both electric and magnetic fields together
+
+(b) Electric fields only
+
+(c) Magnetic fields only
+
+(d) None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** X-rays are electromagnetic waves or radiation and do not carry an electric charge, therefore they are not deflected by electric or magnetic fields.
+
+**Ans: D.** None of the above
+</details>
+
+**Q3.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. A wave transports energy and momentum from one point to another without any net transport of matter.
+B. Both statements are true and explain the phenomenon
+C. None of the above statements are correct according to official Commission keys.
+D. It was established during the First Five-Year Plan period
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** A wave transports **energy and momentum** from one point to another without any net transport of matter.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q4.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Mechanical applies only to union territories and not state jurisdictions.
+B. Mechanical waves require an elastic material medium possessing inertia and elasticity (restoring force) for propagation.
+C. None of the above statements are correct according to official Commission keys.
+D. Recognized by UNESCO under World Heritage natural criteria
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** Mechanical waves require an elastic material medium possessing **inertia and elasticity (restoring force)** for propagation.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q5.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Transverse applies only to union territories and not state jurisdictions.
+B. Recognized by UNESCO under World Heritage natural criteria
+C. Transverse mechanical waves can propagate only in solids (which sustain shear stress) and on liquid surfaces; they cannot propagate through the bulk of fluids (liquids and gases).
+D. Enacted under Article 356 of the Constitution of India
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** Transverse mechanical waves can propagate only in **solids** (which sustain shear stress) and on liquid surfaces; they **cannot propagate through the bulk of fluids (liquids and gases)**.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q6.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Ocean applies only to union territories and not state jurisdictions.
+B. Enacted under Article 356 of the Constitution of India
+C. None of the above statements are correct according to official Commission keys.
+D. Ocean surface waves are a hybrid: water particles execute both vertical and horizontal orbital motions (elliptical trajectories).
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** Ocean surface waves are a hybrid: water particles execute **both vertical and horizontal orbital motions** (elliptical trajectories).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q7.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Longitudinal waves propagate through all three states of matter (solids, liquids, and gases) as alternating compressions and rarefactions.
+B. Reported by the Law Commission in its 214th consultation paper
+C. None of the above statements are correct according to official Commission keys.
+D. Amended by the 44th Constitutional Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** Longitudinal waves propagate through **all three states of matter (solids, liquids, and gases)** as alternating compressions and rarefactions.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q8.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Sound applies only to union territories and not state jurisdictions.
+B. Sound waves in air and all fluid media are strictly longitudinal mechanical waves.
+C. None of the above statements are correct according to official Commission keys.
+D. Excavated primarily in the Belan and Son River valleys
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** Sound waves in air and all fluid media are strictly **longitudinal mechanical waves**.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q9.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
+B. Excavated primarily in the Belan and Son River valleys
+C. In solids (such as rocks and metals), sound can propagate as both longitudinal waves and transverse (shear) waves.
+D. Classified under Schedule VII List II (State List)
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** In solids (such as rocks and metals), sound can propagate as **both longitudinal waves and transverse (shear) waves**.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q10.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
+B. Classified under Schedule VII List II (State List)
+C. None of the above statements are correct according to official Commission keys.
+D. In an earthquake, Primary (P) waves are longitudinal (compressional, travel through solid, liquid, gas, recorded first on seismograph), while Secondary (S) waves are transverse (shear, travel only through solids, recorded later).
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** In an earthquake, **Primary (P) waves are longitudinal** (compressional, travel through solid, liquid, gas, recorded first on seismograph), while **Secondary (S) waves are transverse** (shear, travel only through solids, recorded later).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q11.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Plucking the string of a Sitar produces transverse stationary (standing) waves along the string, which induce longitudinal pressure sound waves in the surrounding air.
+B. Originated during the Later Vedic transitional period
+C. None of the above statements are correct according to official Commission keys.
+D. Statement I is correct but Statement II is incorrect
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** Plucking the string of a Sitar produces **transverse stationary (standing) waves** along the string, which induce longitudinal pressure sound waves in the surrounding air.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q12.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, Electromagnetic applies only to union territories and not state jurisdictions.
+B. Electromagnetic (EM) waves do not require any material medium and travel through a vacuum at the speed of light ($c \approx 3.0 \times 10^8\text{ m/s}$).
+C. None of the above statements are correct according to official Commission keys.
+D. Both statements are true and explain the phenomenon
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **B**
+
+**Detailed Explanation:**
+- **Key Exam Association:** Electromagnetic (EM) waves do not require any material medium and travel through a vacuum at the speed of light ($c \approx 3.0 \times 10^8\text{ m/s}$).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q13.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, In applies only to union territories and not state jurisdictions.
+B. Both statements are true and explain the phenomenon
+C. In a vacuum, all electromagnetic waves travel at the exact same velocity ($c$), regardless of their wavelength or frequency.
+D. It was established during the First Five-Year Plan period
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **C**
+
+**Detailed Explanation:**
+- **Key Exam Association:** In a vacuum, **all electromagnetic waves travel at the exact same velocity** ($c$), regardless of their wavelength or frequency.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q14.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Contrary to standard doctrine, EM applies only to union territories and not state jurisdictions.
+B. It was established during the First Five-Year Plan period
+C. None of the above statements are correct according to official Commission keys.
+D. EM waves are self-sustaining oscillating electric ($\vec{E}$) and magnetic ($\vec{B}$) fields perpendicular to each other and to the direction of propagation (transverse nature).
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D**
+
+**Detailed Explanation:**
+- **Key Exam Association:** EM waves are self-sustaining oscillating electric ($\vec{E}$) and magnetic ($\vec{B}$) fields perpendicular to each other and to the direction of propagation (**transverse nature**).
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
+
+**Q15.** in Science & Technology, consider the following statement:
+
+Which of the following is correct regarding this topic?
+
+A. Electromagnetic spectrum in decreasing order of frequency (increasing order of wavelength): Gamma rays > X-rays > Ultraviolet > Visible light > Infrared > Microwaves > Radio waves.
+B. Recognized by UNESCO under World Heritage natural criteria
+C. None of the above statements are correct according to official Commission keys.
+D. Enacted under Article 356 of the Constitution of India
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A**
+
+**Detailed Explanation:**
+- **Key Exam Association:** Electromagnetic spectrum in decreasing order of frequency (increasing order of wavelength): **Gamma rays > X-rays > Ultraviolet > Visible light > Infrared > Microwaves > Radio waves**.
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+</details>
