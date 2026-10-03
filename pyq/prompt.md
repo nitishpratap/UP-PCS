@@ -36,7 +36,8 @@ Then save the output under the correct folder:
 | UPPCS Prelims | 2023 | `pyq/2023/UP_PCS_PRE_2023_GS_PAPER_1.md` | ✅ Available |
 | UPPCS Prelims | 2024 | `pyq/2024/UPPCS_2024_Prelims_GS1_Question_Paper.md` | ✅ Available |
 | UPPCS Prelims | 2025 | `pyq/2025/UP_PCS_Pre_2025_GS_Paper_1.md` | ✅ Available |
-| RO-ARO Prelims | YYYY | `pyq/ro-aro/RO_ARO_YYYY_Prelims_GS1_Question_Paper.md` | As added |
+| RO-ARO Prelims | 2023 | `pyq/ro-aro/RO_ARO_2023_Prelims_GS1_Question_Paper.md` | ✅ Available |
+| RO-ARO General Hindi | 2023 | `pyq/ro-aro/RO_ARO_2023_Prelims_Hindi_Question_Paper.md` | ✅ Available |
 
 **Coverage:** UPPCS Prelims GS Paper-I is complete for **2018–2025** (150 questions per year).
 
