@@ -1,5 +1,6 @@
 title: Polity & Constitution
 nav:
+  - Overview: index.md
   - "Daily Read — High-Yield Revision Facts (Indian Polity & Governance)": 00_Daily_Revision_Facts.md
   - "Topic 1 — Constitutional Development": 01_Constitutional_Development.md
   - "Topic 2 — Features of the Constitution": 02_Features_of_the_Constitution.md

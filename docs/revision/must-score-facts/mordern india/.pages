@@ -1,5 +1,6 @@
 title: Modern India
 nav:
+  - Overview: index.md
   - "Chronology — Year-Wise Major Events": 00_Chronology_Year_Wise_Events.md
   - "Daily Read — High-Yield Revision Facts (Modern India)": 00_Daily_Revision_Facts.md
   - "Topic 1 — Advent of Europeans": 01_Advent_of_Europeans.md

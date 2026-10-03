@@ -1,5 +1,6 @@
 title: Ancient History
 nav:
+  - Overview: index.md
   - "Chronology — Year-Wise Major Events (Ancient India)": 00_Chronology_Year_Wise_Events.md
   - "Daily Read — High-Yield Revision Facts (Ancient India)": 00_Daily_Revision_Facts.md
   - "Topic 1 — Stone Age (Prehistoric India)": 01_Stone_Age.md

@@ -1,5 +1,6 @@
 title: Economy
 nav:
+  - Overview: index.md
   - "Indian Economy Basics Planning": 01_Indian_Economy_Basics_Planning.md
   - "Economy Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy": 02_Public_Finance_Budget_Taxation.md
   - "Economy Topic 3 — Money, Banking, RBI and Financial System": 03_Money_Banking_RBI_Financial_System.md

@@ -1,5 +1,6 @@
 title: Census & Urbanisation
 nav:
+  - Overview: index.md
   - "Census and Urbanisation Topic 1 — Census and Population Data": 01_Census_and_Population_Data.md
   - "Census and Urbanisation Topic 2 — Population Growth, Demographic Transition and Theories": 02_Population_Growth_Demographic_Transition_Theories.md
   - "Census and Urbanisation Topic 3 — Population Composition and Demographic Characteristics": 03_Population_Composition_Demographic_Characteristics.md

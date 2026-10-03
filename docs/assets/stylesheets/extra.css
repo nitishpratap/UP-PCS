@@ -10648,6 +10648,45 @@ body.st-is-admin .md-tabs__item.st-admin-tab-item {
   box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
 }
 
+.rev-row-action {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.rev-chapter-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.38rem 0.75rem;
+  background: rgba(99, 102, 241, 0.08);
+  color: #4f46e5 !important;
+  border: 1px solid rgba(99, 102, 241, 0.25);
+  border-radius: 0.5rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+
+.rev-chapter-btn:hover {
+  background: rgba(99, 102, 241, 0.18);
+  border-color: #6366f1;
+  color: #4338ca !important;
+  transform: translateY(-1px);
+}
+
+[data-md-color-scheme="slate"] .rev-chapter-btn {
+  background: rgba(129, 140, 248, 0.12);
+  color: #a5b4fc !important;
+  border-color: rgba(129, 140, 248, 0.3);
+}
+
+[data-md-color-scheme="slate"] .rev-chapter-btn:hover {
+  background: rgba(129, 140, 248, 0.22);
+}
+
 /* ======================================================================
    SUBJECT CHAPTER COLLAPSIBLE DETAILS (<details class="st-chapter-toggle">)
    For Consolidated Must-Score Facts & Confused Pairs inside Subject Notes

@@ -2815,6 +2815,7 @@
       // Only parse details that are answer reveal blocks
       if (!/show answer|answer|solution|view logic/i.test(summaryText)) return;
 
+      const answerBody = details.innerHTML;
       // Extract correct answer letter: Ans: B, Correct Answer: D, **Correct Answer:** **C**, etc.
       const ansMatch = answerBody.match(/(?:\*\*|<strong>)?(?:Ans|Correct Answer|Answer):?(?:\*\*|<\/strong>)?\s*:?\s*(?:\*\*|<strong>)?([A-D])(?:\*\*|<\/strong>)?/i) ||
                        answerBody.match(/(?:Ans|Correct Answer|Answer)\s*:\s*\*?\*?([A-D])\*?\*?/i) ||
@@ -2828,7 +2829,7 @@
       let foundOptions = false;
       let countBack = 0;
 
-      while (curr && countBack < 8) {
+      while (curr && countBack < 12) {
         // Stop if we hit previous details or an H2/H3
         if (curr.tagName === 'DETAILS' || /^H[1-3]$/.test(curr.tagName) || curr.tagName === 'HR') break;
 
@@ -2853,6 +2854,10 @@
       const parsedData = extractStemAndOptions(rawText);
       const options = parsedData.options;
       let stem = parsedData.stem;
+
+      // Clean up stem question number
+      const qNumMatch = stem.match(/Q(?:uestion)?\s*(\d+)/i);
+      const qNum = qNumMatch ? Number(qNumMatch[1]) : (index + 1);
 
       // Find preceding section heading (H2/H3/H4)
       let secHeading = '';
@@ -3775,7 +3780,62 @@
       updateChapterPlanBanner();
     }).catch(() => {});
 
-    h1.insertAdjacentElement('afterend', deck);
+    // Quick Switch / Context Banner between Revision Notes and Full Subject Chapter Notes
+    let navBanner = document.getElementById('st-chapter-revision-banner');
+    if (!navBanner) {
+      navBanner = document.createElement('div');
+      navBanner.id = 'st-chapter-revision-banner';
+      if (topicInfo.isRevision) {
+        const modeLabel = topicInfo.revisionType === 'must-score-facts' ? 'Must-Score Facts' : 'High-Yield Tables';
+        const switchMode = topicInfo.revisionType === 'must-score-facts' ? 'high-yield-tables' : 'must-score-facts';
+        const switchLabel = topicInfo.revisionType === 'must-score-facts' ? 'Switch to High-Yield Tables 📊' : 'Switch to Must-Score Facts 🎯';
+        const chapterUrl = `${getSiteBasePath()}subjects/${encodeURIComponent(topicInfo.originalSubject)}/${encodeURIComponent(topicInfo.originalTopic)}/`;
+        const switchUrl = `${getSiteBasePath()}revision/${switchMode}/${encodeURIComponent(topicInfo.originalSubject)}/${encodeURIComponent(topicInfo.originalTopic)}/`;
+
+        navBanner.className = 'st-revision-context-banner is-revision';
+        navBanner.innerHTML = `
+          <div class="st-rev-banner-inner" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:0.6rem; margin:1rem 0 0.85rem; padding:0.65rem 1rem; background:linear-gradient(135deg, rgba(79, 70, 229, 0.08), rgba(124, 58, 237, 0.08)); border:1px solid rgba(99, 102, 241, 0.25); border-radius:10px;">
+            <div style="display:flex; align-items:center; gap:0.5rem; font-size:0.86rem; font-weight:700; color:var(--md-primary-fg-color, #4f46e5);">
+              <span>⚡ Revision Desk: <strong>${escapeHtml(modeLabel)}</strong></span>
+            </div>
+            <div style="display:flex; align-items:center; gap:0.5rem; flex-wrap:wrap;">
+              <a href="${chapterUrl}" class="st-kpi-btn st-kpi-btn-primary" style="text-decoration:none; padding:0.35rem 0.85rem; font-size:0.8rem; font-weight:700; border-radius:6px; box-shadow:0 2px 6px rgba(79, 70, 229, 0.25);">
+                📖 Open Full Chapter Note &rarr;
+              </a>
+              <a href="${switchUrl}" class="st-kpi-btn st-kpi-btn-ghost" style="text-decoration:none; padding:0.35rem 0.85rem; font-size:0.8rem; font-weight:600; border-radius:6px;">
+                ${switchLabel}
+              </a>
+            </div>
+          </div>
+        `;
+      } else {
+        const hytUrl = `${getSiteBasePath()}revision/high-yield-tables/${encodeURIComponent(topicInfo.subject)}/${encodeURIComponent(topicInfo.topic)}/`;
+        const msfUrl = `${getSiteBasePath()}revision/must-score-facts/${encodeURIComponent(topicInfo.subject)}/${encodeURIComponent(topicInfo.topic)}/`;
+        navBanner.className = 'st-revision-context-banner is-subject';
+        navBanner.innerHTML = `
+          <div class="st-rev-banner-inner" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:0.6rem; margin:1rem 0 0.85rem; padding:0.6rem 1rem; background:rgba(0,0,0,0.02); border:1px solid rgba(0,0,0,0.08); border-radius:10px;">
+            <div style="display:flex; align-items:center; gap:0.5rem; font-size:0.84rem; font-weight:600;">
+              <span>⚡ Rapid Prelims Revision Desks:</span>
+            </div>
+            <div style="display:flex; align-items:center; gap:0.5rem; flex-wrap:wrap;">
+              <a href="${hytUrl}" class="st-kpi-btn st-kpi-btn-ghost" style="text-decoration:none; padding:0.32rem 0.75rem; font-size:0.78rem; font-weight:700; border:1px solid rgba(99,102,241,0.3); border-radius:6px;">
+                📊 High-Yield Tables &rarr;
+              </a>
+              <a href="${msfUrl}" class="st-kpi-btn st-kpi-btn-ghost" style="text-decoration:none; padding:0.32rem 0.75rem; font-size:0.78rem; font-weight:700; border:1px solid rgba(16,185,129,0.3); border-radius:6px;">
+                🎯 Must-Score Facts &rarr;
+              </a>
+            </div>
+          </div>
+        `;
+      }
+      h1.insertAdjacentElement('afterend', navBanner);
+    }
+
+    if (navBanner) {
+      navBanner.insertAdjacentElement('afterend', deck);
+    } else {
+      h1.insertAdjacentElement('afterend', deck);
+    }
 
     // Automatic Chapter Subtopics Ribbon (populated dynamically from live test performance)
     const subtopicsBar = document.createElement('div');
