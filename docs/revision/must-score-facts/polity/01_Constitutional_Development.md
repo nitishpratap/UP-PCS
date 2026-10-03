@@ -134,295 +134,82 @@ hide:
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
 **Q1.**
-Consider the following events and arrange them in correct chronological order.
+Under the Regulating Act of 1773, the Supreme Court of Judicature was established at Fort William (Calcutta) in 1774. Who among the following was appointed its first Chief Justice?
 
-1. Poona Pact
-2. End of Civil Disobedience Movement
-3. Gandhi-Irwin Pact
-4. Second Round Table Conference
-
-Select the correct answer from the code given below:
-
-A. 3, 4, 2, 1
-B. 4, 3, 1, 2
-C. 4, 3, 2, 1
-D. 3, 4, 1, 2
+A. Sir Elijah Impey
+B. Lord Cornwallis
+C. Sir Robert Chambers
+D. Stephen Le Maistre
 
 <details>
 <summary>Show answer</summary>
 
-**D** — GI Mar 1931 → 2nd RTC 1931 → Poona Sep 1932 → CDM ends 1934.
+**Ans: A** — Sir Elijah Impey was appointed the first Chief Justice of the Supreme Court at Calcutta (established in 1774 under Regulating Act 1773).
 </details>
 
 **Q2.**
-Consider the following events and arrange them in correct chronological order.
+Pitt's India Act of 1784 established a 'Dual System of Government' by dividing Company powers. Which of the following bodies was created to manage political, military, and revenue affairs?
 
-1. Cripps Mission
-2. Cabinet Mission
-3. Shimla Conference
-4. Wavell Plan
-
-Select the correct answer from the code given below:
-
-A. 1, 4, 3, 2
-B. 4, 1, 2, 3
-C. 4, 1, 3, 2
-D. 1, 4, 2, 3
+A. Court of Directors
+B. Board of Control
+C. Law Commission
+D. Council of India
 
 <details>
 <summary>Show answer</summary>
 
-**A** — Cripps 1942 (क्रिप्स) → Wavell 1945 → Shimla 1945 → Cabinet 1946.
+**Ans: B** — Board of Control (6 commissioners) handled political and territorial affairs, while the Court of Directors handled commercial matters.
 </details>
 
 **Q3.**
-Match List-I with List-II and choose the correct answer using the code given below the lists.
-
-**List-I (Committee)**
-A. Union Constitution Committee
-B. Rules of Procedure Committee
-C. Drafting Committee
-D. Fundamental Rights Sub-Committee
-
-**List-II (Chairman)**
-1. Dr. Rajendra Prasad
-2. J. B. Kripalani
-3. Dr. B. R. Ambedkar
-4. Jawaharlal Nehru
-
-A. 2 1 3 4
-B. 1 4 3 2
-C. 4 1 3 2
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**C** — Nehru; Rajendra Prasad; Ambedkar; Kripalani.
-</details>
-
-**Q4.**
-Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:
-
-1. Royal Indian Navy Revolt
-2. Announcement of Cabinet Mission
-3. Formation of Interim Government
-4. Arrival of a UK Parliamentary Delegation in Delhi
-
-A. 4, 3, 2, 1
-B. 4, 1, 2, 3
-C. 4, 2, 1, 3
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**B** — Delegation Jan → RIN Feb → Cabinet announced Feb → Interim Sep 1946.
-</details>
-
-**Q5.**
-Consider the following events and arrange them in chronological order:
-
-1. Linlithgow August Offer
-2. Cripps Mission arrival in India
-3. Ramgarh Congress Session
-4. Resignation letters of Congress Ministers
-
-A. 3, 1, 4, 2
-B. 4, 3, 1, 2
-C. 1, 3, 4, 2
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**B** — Resignations 1939 → Ramgarh 1940 → August Offer 1940 (अगस्त प्रस्ताव) → Cripps 1942.
-</details>
-
-**Q6.**
-Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
-
-(I) Appointment of the Drafting Committee
-(II) Indian Constitution was adopted and enacted
-(III) Date of commencement of Indian Constitution
-(IV) Constituent Assembly first met
-
-A. III, II, I, IV
-B. IV, I, III, II
-C. I, II, IV, III
-D. IV, I, II, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — (IV) First met 9 Dec 1946 → (I) Drafting Comm. 29 Aug 1947 → (II) Adopted 26 Nov 1949 → (III) Commencement 26 Jan 1950.
-</details>
-
-**Q7.**
-By which of the following Acts was the **Chamber of Princes** with 120 members created?
-
-A. Charter Act of 1853
-B. Act of 1793
-C. Act of 1909
-D. Government of India Act, 1919
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Chamber of Princes (Narendra Mandal) was set up under Royal Proclamation following the GOI Act 1919.
-</details>
-
-**Q8.**
-The first Interim National Government was announced on—
-
-A. 25th August 1946
-B. 24th August 1946
-C. 23rd August 1946
-D. 22nd August 1946
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Announced on 24 August 1946; took office on 2 September 1946 under Nehru's leadership.
-</details>
-
-**Q9.**
-"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind."
-
-Who among the following said the above mentioned statement in the Constituent Assembly debates?
-
-A. Somnath Lahiri
-B. Jawaharlal Nehru
-C. Sardar Vallabh Bhai Patel
-D. N. G. Ranga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Sardar Vallabhbhai Patel spoke these famous words against separate electorates in the Constituent Assembly.
-</details>
-
-**Q10.**
-Which one of the following Acts of British India strengthened the Viceroy's authority over his executive council by substituting 'portfolio' or 'departmental' system for corporate functioning?
-
-A. Indian Council Act, 1861
-B. Government of India Act, 1858
-C. Indian Council Act, 1892
-D. Indian Council Act, 1909
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Lord Canning introduced portfolio system in 1859; the Indian Councils Act 1861 gave it statutory sanction.
-</details>
-
-**Q11.**
-Consider the following events and arrange them into chronological order:
-
-I. Sharda Act
-II. Nehru Report
-III. Constitution of Simon Commission
-IV. Dandi March
-
-A. III, II, I and IV
-B. I, II, III and IV
-C. IV, III, II and I
-D. I, IV, II and III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Simon Commission (Nov 1927) → Nehru Report (Aug 1928) → Sharda Act (1929) → Dandi March (Mar 1930).
-</details>
-
-**Q12.**
-Which one of the following is NOT correctly matched?
-
-(Provisions) — (Sources)
-
-A. Fundamental Rights – USA
-B. Directive Principles of State Policy – Ireland
-C. Residual Powers of Center – Australia
-D. Emergency powers - Germany
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Residuary powers of the Centre were borrowed from Canada; Concurrent List was borrowed from Australia.
-</details>
-
-**Q13.**
-Who among the following leaders did NOT participated in the Second Round Table Conference?
-
-A. M.K. Gandhi
-B. Sarojini Naidu
-C. Pt. Madan Mohan Malviya
-D. Dr. Rajendra Prasad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Dr. Rajendra Prasad did not participate in the 2nd RTC; Gandhi, Sarojini Naidu, and Malaviya attended.
-</details>
-
-**Q14.**
-On which of the following dates, Constituent Assembly of India adopted the National Flag?
-
-A. 22 January, 1950
-B. 24 January, 1950
-C. 22 July, 1947
-D. 22 July, 1948
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — National Flag adopted on 22 July 1947; National Anthem & Song adopted on 24 January 1950.
-</details>
-
-**Q15.**
-Which of the following is NOT correctly matched?
-
-A. Indian Navy Act — 1927
-B. Civil Disobedience Movement — 1930
-C. Second Round Table Conference — 1931
-D. The Communal Award — 1933
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Communal Award was announced by Ramsay MacDonald in August 1932 (not 1933).
-</details>
-
-**Q16.**
-Under which Act was the Supreme Court at Calcutta established, and who was appointed as its first Chief Justice?
-
-A. Regulating Act 1773; Sir Elijah Impey
-B. Pitt's India Act 1784; Lord Cornwallis
-C. Charter Act 1793; Sir William Jones
-D. Charter Act 1813; Sir James Stephen
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Supreme Court of Judicature at Fort William (Calcutta) was established under Regulating Act 1773 (in 1774) with Sir Elijah Impey as first Chief Justice.
-</details>
-
-**Q17.**
-Which Act introduced the 'Dual System of Government' by bifurcating commercial and political functions through the Court of Directors and Board of Control?
+Which British enactment specifically empowered Lord Cornwallis to overrule his Council in extraordinary circumstances and hold both offices of Governor-General and Commander-in-Chief?
 
 A. Regulating Act, 1773
 B. Pitt's India Act, 1784
-C. Charter Act, 1813
-D. Charter Act, 1833
+C. Act of 1786
+D. Charter Act of 1793
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Pitt's India Act 1784 created the Board of Control (6 commissioners) to manage political/military/revenue affairs, while Court of Directors retained commercial management.
+**Ans: C** — The Act of 1786 gave the Governor-General power to overrule his council in special cases and enabled Cornwallis to be both Governor-General and Commander-in-Chief.
 </details>
 
-**Q18.**
-By which Charter Act was the commercial monopoly of the East India Company in India ended, except for trade in tea and trade with China?
+**Q4.**
+Consider the following provisions of the Charter Act of 1813:
+
+1. It ended the commercial trade monopoly of the East India Company, except for trade in tea and trade with China.
+2. It allocated an annual sum of ₹1 lakh for the revival and promotion of literature, science, and education in India.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both statements are correct under the Charter Act of 1813. Company revenues also remained with the Company for another 20 years.
+</details>
+
+**Q5.**
+With reference to the ₹1 lakh educational grant under the Charter Act of 1813, which body was created in 1823 to administer this fund, leading to the Orientalist–Anglicist controversy?
+
+A. Macaulay Committee
+B. General Committee of Public Instruction
+C. Hunter Education Commission
+D. Wood's Despatch Council
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The General Committee of Public Instruction (1823) administered the ₹1 lakh grant; H.T. Prinsep supported Orientalist learning while Charles Trevelyan led the Anglicists.
+</details>
+
+**Q6.**
+By which Charter Act was the Governor-General of Bengal redesignated as the 'Governor-General of India', with Lord William Bentinck becoming the first to hold this office?
 
 A. Charter Act of 1793
 B. Charter Act of 1813
@@ -432,25 +219,25 @@ D. Charter Act of 1853
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Charter Act 1813 ended Company trade monopoly except tea and trade with China, and allocated ₹1 lakh annually for education.
+**Ans: C** — Charter Act 1833 made Lord William Bentinck the first Governor-General of India and completely ended the Company's commercial activities.
 </details>
 
-**Q19.**
-The Governor-General of Bengal was redesignated as the 'Governor-General of India' with full civil and military powers by which Act?
+**Q7.**
+Which section of the Charter Act of 1833 declared that no native of British India would be debarred from holding any place, office, or employment under the Company on grounds only of religion, place of birth, descent, or colour?
 
-A. Pitt's India Act, 1784
-B. Charter Act, 1813
-C. Charter Act, 1833
-D. Charter Act, 1853
+A. Section 53
+B. Section 87
+C. Section 92
+D. Section 101
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Charter Act 1833 made Lord William Bentinck the first Governor-General of India and completely ended Company's commercial functions.
+**Ans: B** — Section 87 of the Charter Act 1833 laid the historic foundation for non-discrimination in Indian administrative appointments.
 </details>
 
-**Q20.**
-Which Act for the first time separated the legislative and executive functions of the Governor-General’s Council and introduced an open competition system for Civil Services?
+**Q8.**
+Which Act for the first time separated the legislative and executive functions of the Governor-General's Council and introduced an open competition system for the Indian Civil Services?
 
 A. Charter Act of 1833
 B. Charter Act of 1853
@@ -460,95 +247,314 @@ D. Government of India Act, 1858
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Charter Act 1853 established a 6-member Indian (Central) Legislative Council and introduced open competition for ICS (Macaulay Committee formed in 1854).
+**Ans: B** — Charter Act 1853 established a 6-member Indian Legislative Council and introduced open competition for civil services (Macaulay Committee appointed in 1854).
 </details>
 
-**Q21.**
-Following the 1857 revolt, the British Crown assumed direct control of India under the Government of India Act 1858. The newly created office of Secretary of State for India was assisted by a Council of:
+**Q9.**
+Under the Government of India Act, 1858, following the 1857 Revolt:
 
-A. 10 members
-B. 12 members
-C. 15 members
-D. 20 members
+1. The rule of the East India Company was replaced by direct British Crown rule.
+2. The office of Secretary of State for India was created, assisted by a 15-member Council of India.
+3. Lord Canning became the first Viceroy of India.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — GOI Act 1858 created the Secretary of State for India as a Cabinet Minister assisted by a 15-member advisory Council of India.
+**Ans: D** — All three statements are correct under the Government of India Act 1858.
 </details>
 
-**Q22.**
-The power of Indian members to discuss the annual financial statement (budget) was first granted under which British enactment?
+**Q10.**
+Which British enactment gave statutory recognition to the 'Portfolio System' (introduced earlier in practice by Lord Canning in 1859) and empowered the Viceroy to issue ordinances?
 
-A. Indian Councils Act, 1861
-B. Indian Councils Act, 1892
+A. Government of India Act, 1858
+B. Indian Councils Act, 1861
+C. Indian Councils Act, 1892
+D. Indian Councils Act, 1909
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The Indian Councils Act 1861 legalized the portfolio system, restored legislative devolution to Bombay and Madras, and granted emergency ordinance powers to the Viceroy.
+</details>
+
+**Q11.**
+Under the Indian Councils Act of 1892, non-official Indian members in the Legislative Council were granted the power to:
+
+A. Vote on the budget and move amendments
+B. Discuss the annual budget and address questions to the executive without voting
+C. Introduce money bills without prior sanction
+D. Ask supplementary questions on any subject
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The Indian Councils Act 1892 allowed members to discuss the budget and ask questions, but did not permit voting on the budget or asking supplementary questions.
+</details>
+
+**Q12.**
+Consider the following statements regarding the Indian Councils Act of 1909 (Morley-Minto Reforms):
+
+1. It introduced separate communal electorates for Muslims for the first time.
+2. Satyendra Prasanna (S.P.) Sinha became the first Indian appointed to the Viceroy’s Executive Council.
+3. Members were allowed to move resolutions on the budget and ask supplementary questions.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — All three statements are correct under the Indian Councils Act of 1909.
+</details>
+
+**Q13.**
+Under the Government of India Act 1919 (Montagu-Chelmsford Reforms), provincial subjects were divided into 'Reserved' and 'Transferred'. Which of the following was classified as a 'Reserved' subject?
+
+A. Local Self-Government
+B. Public Health
+C. Education
+D. Police and Land Revenue
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Police, justice, prisons, and land revenue were Reserved subjects (administered by the Governor and his Executive Council without responsibility to the legislature).
+</details>
+
+**Q14.**
+Which British enactment created a Bicameral Legislature at the Centre (Council of State and Central Legislative Assembly) and led to the establishment of the Central Public Service Commission in 1926?
+
+A. Indian Councils Act, 1909
+B. Government of India Act, 1919
+C. Government of India Act, 1935
+D. Indian Independence Act, 1947
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The Government of India Act 1919 introduced bicameralism at the Centre (Council of State ~60 members, Legislative Assembly ~140 members) and provided for a Central PSC (set up 1926).
+</details>
+
+**Q15.**
+By which Act / Royal Proclamation was the 'Chamber of Princes' (Narendra Mandal) comprising 120 members established in 1921?
+
+A. Charter Act of 1853
+B. Government of India Act, 1919
 C. Indian Councils Act, 1909
-D. Government of India Act, 1919
+D. Government of India Act, 1935
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Indian Councils Act 1892 allowed discussion of the budget and addressing questions to the executive, but did not permit voting on budget or supplementary questions.
+**Ans: B** — Chamber of Princes (Narendra Mandal) was established under the scheme of the Government of India Act 1919 with Maharaja Ganga Singh of Bikaner as its first Chancellor.
 </details>
 
-**Q23.**
-Who was the first Indian appointed as a law member in the Viceroy’s Executive Council under the Morley-Minto Reforms of 1909?
+**Q16.**
+Why was the Simon Commission (appointed in November 1927 to review the working of the Government of India Act 1919) boycotted across British India with slogans of "Simon Go Back"?
 
-A. Satyendra Prasanna Sinha
-B. Tej Bahadur Sapru
-C. Syed Ameer Ali
-D. Sir C.P. Ramaswami Iyer
+A. It recommended the abolition of provincial autonomy
+B. It was an all-British commission with no Indian member
+C. It proposed the immediate partition of India
+D. It rejected the proposal for a federal court
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Satyendra Prasanna (S.P.) Sinha was appointed as the first Indian member of the Viceroy's Executive Council under the Indian Councils Act 1909.
+**Ans: B** — Simon Commission comprised 7 British parliamentarians with zero Indian representation, leading to a nationwide boycott by all major parties.
 </details>
 
-**Q24.**
-Under the Montagu-Chelmsford Reforms (GOI Act 1919), which of the following was classified as a 'Transferred' subject in the provinces?
+**Q17.**
+With reference to the Round Table Conferences held in London (1930–1932):
 
-A. Land Revenue
-B. Police
-C. Local Self-Government and Education
-D. Administration of Justice
+1. The Indian National Congress boycotted the First and Third Round Table Conferences.
+2. Mahatma Gandhi attended the Second Round Table Conference (1931) as the sole Congress delegate.
+3. Dr. Rajendra Prasad was an official delegate at the Second Round Table Conference.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Under provincial Dyarchy (1919), Local Self-Government, Education, Public Health, and Agriculture were Transferred subjects administered by ministers responsible to the legislative council.
+**Ans: A** — Statements 1 and 2 are correct. Dr. Rajendra Prasad did NOT participate in the Second Round Table Conference (Sarojini Naidu, Malaviya attended).
 </details>
 
-**Q25.**
+**Q18.**
+Match List-I with List-II regarding British electoral arrangements:
+
+**List-I**
+A. Indian Councils Act 1909
+B. Government of India Act 1919
+C. Communal Award 1932
+D. Poona Pact 1932
+
+**List-II**
+1. Extended separate electorates to Sikhs, Indian Christians, Anglo-Indians
+2. Separate electorates introduced for Muslims
+3. Reserved seats within a joint electorate for Depressed Classes
+4. Extended separate electorates to Depressed Classes
+
+Select the correct code:
+
+A. 2 1 4 3
+B. 1 2 3 4
+C. 2 4 1 3
+D. 4 1 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1909 = Muslims; 1919 = Sikhs & Christians; Communal Award (1932) = Depressed Classes separate electorates; Poona Pact (1932) = Reserved seats in joint electorate.
+</details>
+
+**Q19.**
+Which of the following was a major structural change introduced by the Government of India Act, 1935?
+
+A. Introduction of Dyarchy in the provinces
+B. Complete Provincial Autonomy replacing provincial dyarchy
+C. Unicameral central legislature
+D. Separation of Judiciary from Executive in all districts
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The Government of India Act 1935 abolished provincial dyarchy and introduced Provincial Autonomy in 11 provinces.
+</details>
+
+**Q20.**
 Under the Government of India Act 1935, in whom were the 'Residuary Powers' of legislation vested?
 
 A. Federal Legislature
-B. Provincial Legislature
+B. Provincial Legislatures
 C. Governor-General / Viceroy in his discretion
 D. Secretary of State for India
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — In the GOI Act 1935, residuary powers were neither given to the federal nor provincial legislatures, but were vested in the Governor-General in his discretion.
+**Ans: C** — Under the GOI Act 1935, residuary powers were vested in the Governor-General in his discretion (unlike the Constitution where they are borrowed from Canada and vested in the Centre).
 </details>
 
-**Q26.**
-Who presided over the inaugural session of the Constituent Assembly on 9 December 1946 as its temporary Chairman?
+**Q21.**
+The Federal Court of India, provided for under the Government of India Act 1935, was inaugurated on 1 October 1937. Who among the following was its first Chief Justice?
 
-A. Dr. Rajendra Prasad
-B. Dr. Sachchidananda Sinha
-C. Dr. B.R. Ambedkar
-D. Frank Anthony
+A. Sir Elijah Impey
+B. Sir Maurice Gwyer
+C. Sir Hari Singh Gour
+D. H.J. Kania
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Dr. Sachchidananda Sinha presided as the interim/temporary Chairman following the French practice of electing the oldest member; Dr. Rajendra Prasad was elected permanent President on 11 Dec 1946.
+**Ans: B** — Sir Maurice Gwyer served as the first Chief Justice of the Federal Court of India (established on 1 Oct 1937).
+</details>
+
+**Q22.**
+Which of the following statements regarding the creation of the Reserve Bank of India (RBI) is historically accurate?
+
+A. RBI was created solely by an executive resolution under GOI Act 1919
+B. GOI Act 1935 provided for its establishment, while the actual governing statute was the RBI Act, 1934 (operations began 1 April 1935)
+C. RBI was established under Charter Act 1853
+D. RBI was created on 26 January 1950 by the Constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The GOI Act 1935 provided for the establishment of the RBI, but the enabling statute was the RBI Act, 1934 (commencing operations on 1 April 1935).
+</details>
+
+**Q23.**
+Consider the following statements regarding the first Interim National Government of 1946:
+
+1. It was officially announced on 24 August 1946 and took office on 2 September 1946.
+2. Dr. S. Radhakrishnan was a member of the 1946 Interim Government.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1 only. The Interim Government was announced on 24 August 1946 and assumed office on 2 September 1946. Dr. S. Radhakrishnan was NOT a member.
+</details>
+
+**Q24.**
+How were the members of the Constituent Assembly of India elected in 1946?
+
+A. Directly by universal adult franchise across British India
+B. Indirectly by the provincial legislative assemblies via proportional representation with single transferable vote (PR-STV)
+C. Nominated entirely by the Governor-General
+D. Elected through separate communal electorates only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Constituent Assembly members were elected indirectly by the provincial assemblies using PR-STV; Mahatma Gandhi was NOT a member.
+</details>
+
+**Q25.**
+What was the total initial membership of the Constituent Assembly under the Cabinet Mission Plan before partition?
+
+A. 296
+B. 389 (292 British provinces + 93 Princely States + 4 Chief Commissioner's provinces)
+C. 299
+D. 324
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Initial strength was 389 (292 provinces + 93 princely states + 4 chief commissioners); after partition it was reduced to 299.
+</details>
+
+**Q26.**
+Match List-I (Post in Constituent Assembly) with List-II (Leader):
+
+**List-I**
+A. Temporary Chairman (9 Dec 1946)
+B. Permanent President (11 Dec 1946)
+C. Constitutional Adviser
+D. Drafting Committee Chairman
+
+**List-II**
+1. Dr. Rajendra Prasad
+2. Dr. Sachchidananda Sinha
+3. Dr. B.R. Ambedkar
+4. Sir B.N. Rau
+
+Select the correct code:
+
+A. 2 1 4 3
+B. 1 2 3 4
+C. 2 4 1 3
+D. 4 1 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Sinha = Temporary Chairman; Prasad = Permanent President; Rau = Constitutional Adviser; Ambedkar = Drafting Committee Chairman.
 </details>
 
 **Q27.**
-The historic 'Objectives Resolution' outlining the philosophical foundations of the Constitution was moved in the Constituent Assembly by Jawaharlal Nehru on:
+The historic 'Objectives Resolution' outlining the philosophical foundations of the Indian Constitution was moved in the Constituent Assembly by Jawaharlal Nehru on:
 
 A. 9 December 1946
 B. 11 December 1946
@@ -558,47 +564,61 @@ D. 22 January 1947
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Moved on 13 December 1946 by Jawaharlal Nehru and unanimously adopted on 22 January 1947.
+**Ans: C** — Moved on 13 December 1946 (fifth meeting) and unanimously adopted on 22 January 1947.
 </details>
 
 **Q28.**
-Who served as the Chairman of the 'Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas' in the Constituent Assembly?
+Which of the following Constituent Assembly committees is NOT correctly matched with its Chairman?
 
-A. Dr. B.R. Ambedkar
-B. Sardar Vallabhbhai Patel
-C. J.B. Kripalani
-D. H.C. Mukherjee
+A. Rules of Procedure Committee — Dr. Rajendra Prasad
+B. Union Constitution Committee — Jawaharlal Nehru
+C. Advisory Committee on Fundamental Rights and Minorities — Sardar Vallabhbhai Patel
+D. Minorities Sub-Committee — Dr. B.R. Ambedkar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Sardar Vallabhbhai Patel chaired this major parent Advisory Committee; J.B. Kripalani chaired the Fundamental Rights Sub-Committee; H.C. Mukherjee chaired the Minorities Sub-Committee.
+**Ans: D** — The Minorities Sub-Committee was chaired by H.C. Mukherjee (Fundamental Rights Sub-Committee was chaired by J.B. Kripalani; parent committee by Sardar Patel).
 </details>
 
 **Q29.**
-The original Indian Constitution was handwritten and calligraphed in flowing italic style by which renowned artist?
+Consider the following pairs regarding the Constitution and National Symbols:
 
-A. Nandalal Bose
-B. Prem Behari Narain Raizada
-C. Beohar Rammanohar Sinha
-D. Vasant Krishan Vaidya
+1. English Calligrapher of the original Constitution: Prem Behari Narain Raizada
+2. Hindi Calligrapher of the original Constitution: Vasant Krishan Vaidya
+3. Adoption of the National Flag by Constituent Assembly: 22 July 1947
+4. Adoption of the Constitution: 26 November 1949
+
+Which of the pairs given above are correctly matched?
+
+A. 1 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Prem Behari Narain Raizada calligraphed the original English manuscript; Nandalal Bose and Santiniketan artists illuminated the borders; Vasant Krishan Vaidya calligraphed the Hindi version.
+**Ans: D** — All 4 pairs are correctly matched according to the Must-Score Facts and Confused Pairs table.
 </details>
 
 **Q30.**
-The Indian Independence Bill received the Royal Assent from King George VI on:
+Arrange the following constitutional events in correct chronological sequence from earliest to latest:
 
-A. 3 June 1947
-B. 4 July 1947
-C. 18 July 1947
-D. 15 August 1947
+I. Constituent Assembly first met
+II. Appointment of the Drafting Committee
+III. Adoption and enactment of the Constitution
+IV. Date of commencement of the Constitution
+
+Select the correct code:
+
+A. I, II, III, IV
+B. II, I, III, IV
+C. I, III, II, IV
+D. IV, I, II, III
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Introduced in British Parliament on 4 July 1947 and received Royal Assent on 18 July 1947, providing for partition and two independent Dominions on 15 August 1947.
+**Ans: A** — First met 9 Dec 1946 (I) → Drafting Committee appointed 29 Aug 1947 (II) → Constitution adopted 26 Nov 1949 (III) → Commencement 26 Jan 1950 (IV).
 </details>
