@@ -32,7 +32,7 @@ hide:
 17. **Value of an MLA's vote** = (Population of State as per **1971 census** ÷ total elected MLAs) ÷ **1000**.
 18. **Value of an MP's vote** = (Total value of votes of all MLAs of all States ÷ total number of elected MPs).
 19. **Only ground:"violation of the Constitution"** (the term is not defined).
-20. **Procedure (प्रक्रिया):** charges may be initiated by **either House**; the resolution must be:
+20. **Impeachment Procedure (Article 61):** Charges may be initiated by **either House** of Parliament; the resolution must be signed by at least **1/4th of the total members** of that House, give **14 days' written notice**, and be passed by a majority of **not less than 2/3rds of the total membership** of each House.
 21. **Money Bill (Art. 111):** the President can **assent** or **withhold** assent, but can **NOT return** it for reconsideration (it was introduced on his own recommendation).
 22. **Constitutional Amendment Bill:** after the **24th Amendment (1971)**, the President is **bound to give assent** — no veto.
 23. **State Bills reserved by the Governor (Art. 201):** the President may assent, withhold assent (absolute veto), or direct the Governor to return it; he can use a **pocket veto** (no time limit) and even a second reservation.

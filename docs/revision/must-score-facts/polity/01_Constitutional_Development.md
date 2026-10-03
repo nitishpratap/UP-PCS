@@ -25,7 +25,7 @@ hide:
 10. **Section 87** said no person of India or the Crown would be debarred from Company office on grounds of religion, place of birth, descent or colour — later treated as the foundation for Indian share in administration.
 11. **No differentiation** was yet made between Central and Provincial subjects.
 12. **Portfolio system:** Canning introduced departmental portfolios in practice (**1859**); the **1861 Act gave legal recognition**.
-13. **Dyarchy in provinces** (dual rule):
+13. **Dyarchy in provinces** (dual rule) was introduced by the **Government of India Act 1919** (Montagu–Chelmsford Reforms), dividing provincial subjects into Reserved and Transferred.
 14. **Reserved subjects** (administration of justice, police, prisons, land revenue, irrigation, forests, press) — Governor and Executive Councillors; **not** responsible to the legislature.
 15. **Transferred subjects** (education, health, local self-government, agriculture, public works) — Indian ministers responsible to the Legislative Council.
 16. **Council of State** (Upper House) — statute spoke of about **60** members (rules later set roughly **33 elected + 27 nominated**).

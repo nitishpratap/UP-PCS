@@ -32,7 +32,7 @@ hide:
   <div class="rev-row-main">
     <a href="00_Daily_Revision_Facts/" class="rev-row-link">Daily Read — High-Yield Revision Facts (Indian Polity & Governance)</a>
     <div class="rev-row-meta">
-      <span class="rev-pill rev-pill-qs">⚡ 15 MCQs</span>
+      <span class="rev-pill rev-pill-qs">⚡ 30 MCQs</span>
       <span class="rev-pill rev-pill-gate">80% Pass Gate</span>
     </div>
   </div>
@@ -45,7 +45,7 @@ hide:
   <div class="rev-row-main">
     <a href="01_Constitutional_Development/" class="rev-row-link">Topic 1 — Constitutional Development</a>
     <div class="rev-row-meta">
-      <span class="rev-pill rev-pill-qs">⚡ 15 MCQs</span>
+      <span class="rev-pill rev-pill-qs">⚡ 30 MCQs</span>
       <span class="rev-pill rev-pill-gate">80% Pass Gate</span>
     </div>
   </div>
@@ -58,7 +58,7 @@ hide:
   <div class="rev-row-main">
     <a href="02_Features_of_the_Constitution/" class="rev-row-link">Topic 2 — Features of the Constitution</a>
     <div class="rev-row-meta">
-      <span class="rev-pill rev-pill-qs">⚡ 15 MCQs</span>
+      <span class="rev-pill rev-pill-qs">⚡ 30 MCQs</span>
       <span class="rev-pill rev-pill-gate">80% Pass Gate</span>
     </div>
   </div>
@@ -383,7 +383,7 @@ hide:
   <div class="rev-row-main">
     <a href="27_Committees_and_Commissions/" class="rev-row-link">Topic 27 – Important Committees and Commissions (Fact-Lock)</a>
     <div class="rev-row-meta">
-      <span class="rev-pill rev-pill-qs">⚡ 15 MCQs</span>
+      <span class="rev-pill rev-pill-qs">⚡ 25 MCQs</span>
       <span class="rev-pill rev-pill-gate">80% Pass Gate</span>
     </div>
   </div>
