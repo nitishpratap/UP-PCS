@@ -175,7 +175,19 @@ def clean_heading(title: str) -> str:
     return title
 
 
+def unwrap_toggles(text: str) -> str:
+    def repl(m: re.Match[str]) -> str:
+        summary_m = re.search(r"<summary><strong>(.*?)</strong>", m.group(0))
+        title = summary_m.group(1).strip() if summary_m else "High-Yield Section"
+        title = re.sub(r"^[🎯⚡\s]+", "", title).strip()
+        body = m.group(1).split("</summary>", 1)[-1].strip()
+        return f"\n\n## {title}\n\n{body}\n\n"
+
+    return re.sub(r'<details class="st-chapter-toggle[^">]*"[^>]*>([\s\S]*?)</details>', repl, text)
+
+
 def strip_noise(text: str) -> str:
+    text = unwrap_toggles(text)
     text = re.sub(r"<details>.*?</details>", "", text, flags=re.S | re.I)
     text = re.sub(r"\$\$([^$]+)\$\$", r"\1", text)
     text = re.sub(r"\$([^$]+)\$", r"\1", text)
@@ -544,9 +556,14 @@ def main() -> int:
         shutil.rmtree(tmp, ignore_errors=True)
 
     print("\nWrote:")
+    printout_dir = ROOT / "pdfs" / "printout"
     for path in written:
         size = path.stat().st_size / (1024 * 1024)
         print(f"  {path}  ({size:.1f} MB)")
+        if printout_dir.exists():
+            dest = printout_dir / path.name
+            shutil.copy2(path, dest)
+            print(f"  -> Mirrored to {dest}")
     print(f"\n{len(written)} PDFs in {OUT_DIR}")
     return 0
 
