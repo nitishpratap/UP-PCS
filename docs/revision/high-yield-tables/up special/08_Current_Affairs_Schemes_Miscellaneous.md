@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Element A ↔ Confused Element B ↔ Critical Differentiating Fact & Exam Anchor
+
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
 | **State Flower of UP (Palash)** | **National Flower of India (Lotus)** | UP State Flower is **Palash (*Butea monosperma*)**; National Flower is **Lotus (*Nelumbo nucifera*)**. |

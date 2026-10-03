@@ -93,6 +93,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Year Inscribed ↔ Intangible Cultural Heritage Element ↔ Region / Community
+
 | # | Year Inscribed | Intangible Cultural Heritage Element | Region / Community | Primary Ritual & Cultural Significance |
 |---|---|---|---|---|
 | 1 | **2008** | **Koodiyattam (Kutiyattam)** | **Kerala** | India’s oldest living Sanskrit temple theatre tradition, performed in consecrated theatre halls called *Koothambalams* with the accompaniment of copper *Mizhavu* drums. |

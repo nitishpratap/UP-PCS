@@ -74,6 +74,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Before  / 1975 Practice) ↔ After 44Th
+
 | Before (38th/42nd (42वां) / 1975 practice) | After **44th** |
 |------------------------------------|----------------|
 | “Internal disturbance” enough for 352 | **Armed rebellion** |
@@ -91,6 +94,9 @@ hide:
 
 ---
 
+
+### Master Comparison Table
+
 | | **358** | **359** |
 |--|---------|---------|
 | What sleeps | **Article 19** itself | The **right to move courts** for FRs named in the Presidential order |
@@ -104,6 +110,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Consolidated Fund of India (भारत की संचित निधि) |
@@ -113,6 +122,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Article 266 |
@@ -121,6 +133,9 @@ hide:
 | 4 | Article 148 |
 
 ---
+
+
+### Comparative Matrix: Martial Law ↔ National Emergency
 
 | | **Martial law** | **National Emergency (352)** |
 |--|-----------------|------------------------------|
@@ -134,6 +149,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Manipur |
@@ -142,6 +160,9 @@ hide:
 | D | Odisha |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -152,6 +173,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Article 358 | 1. Enforcement of named FRs may be suspended by order; 20 & 21 never |
@@ -159,6 +183,9 @@ hide:
 | C. Article 355 | 3. Union duty to protect States |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

@@ -76,6 +76,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Class ↔ How Formed ↔ Rocks
+
 | Class | How formed | rocks |
 |-------|------------|------------|
 | **Igneous** (primary) | Cooling of magma/lava | **Granite** (intrusive, acidic, coarse); **basalt** (extrusive, basic, Deccan Trap (दक्कन ट्रैप)); gabbro, pegmatite, pumice, obsidian |
@@ -83,6 +86,9 @@ hide:
 | **Metamorphic** | Heat + pressure on existing rock | See pair table |
 
 ---
+
+
+### Comparative Matrix: Parent Rock ↔ Metamorphic Product ↔ Type / Notes
 
 | Parent Rock | Metamorphic Product | Type / Notes |
 |-------------|---------------------|--------------|
@@ -96,6 +102,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Acidic ↔ Basic
+
 | | Acidic (SiO₂ high) | Basic (SiO₂ low) |
 |--|--------------------|------------------|
 | **Intrusive (plutonic, coarse)** | **Granite** | Gabbro |
@@ -103,6 +112,9 @@ hide:
 | Glassy / frothy | Obsidian | Pumice (floats) |
 
 ---
+
+
+### Comparative Matrix: Body ↔ Role
 
 | Body | Role |
 |------|------|
@@ -116,6 +128,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Family ↔ Rocks
+
 | Family | Rocks |
 |--------|-------|
 | **Clastic** | Conglomerate (**rounded**), **breccia** (angular), sandstone, shale/mudstone |
@@ -123,6 +138,9 @@ hide:
 | **Organic / biogenic** | Coal, peat, chalk, some limestone |
 
 ---
+
+
+### Comparative Matrix: From ↔ Process ↔ To
 
 | From | Process | To |
 |------|---------|-----|
@@ -133,6 +151,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Meaning
+
 | Term | Meaning |
 |------|------|
 | Weathering | In situ breakdown |
@@ -142,6 +163,9 @@ hide:
 | Mass wasting | Gravity movement |
 
 ---
+
+
+### Comparative Matrix: Process ↔ Quick Recall
 
 | Process | Quick recall |
 |---------|--------------|
@@ -154,6 +178,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Process ↔ Quick Recall
+
 | Process | Quick recall |
 |---------|--------------|
 | Carbonation | Carbonic acid → limestone karst |
@@ -165,6 +192,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Agent ↔ Work Words ↔ Signature
+
 | Agent | Work words | Signature |
 |-------|------------|-----------|
 | **River** | Hydraulic, abrasion/corrasion, attrition, solution; load = traction · saltation · suspension · solution | V-valley → meander → delta |
@@ -175,6 +205,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Stage ↔ Landforms
+
 | Stage | Landforms |
 |-------|-----------|
 | **Youth** | Steep **V-valley**, gorge/canyon, waterfall, rapids, **potholes**, interlocking spurs |
@@ -183,6 +216,9 @@ hide:
 | **Rejuvenation** | Uplift / base-level fall → **knickpoint**, river **terrace**, **incised meander** |
 
 ---
+
+
+### Comparative Matrix: Form ↔ Quick Recall
 
 | Form | Quick recall |
 |------|--------------|
@@ -197,6 +233,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Theory ↔ Quick Recall
+
 | Theory | Quick recall |
 |--------|--------------|
 | **Davis** | Structure–process–time → **peneplain** + **monadnock** |
@@ -204,6 +243,9 @@ hide:
 | **L.C. King** | Pediment retreat → **pediplain** |
 
 ---
+
+
+### Comparative Matrix: Stream ↔ Follows
 
 | Stream | Follows |
 |--------|---------|
@@ -215,6 +257,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Wording In The Stem ↔ What It Asks ↔ Answer
+
 | Wording in the stem | What it asks | Answer |
 |------|----------------|---------|
 | **Subdivision** of a named delta | Which delta is split into moribund–mature–active belts | **Bengal Delta** |
@@ -222,6 +267,9 @@ hide:
 | Either wording, with Krishna–Godavari or Mahanadi as the pick | Distractor on both stems | **Neither** |
 
 ---
+
+
+### Comparative Matrix: River ↔ Rises In ↔ Delta Lies In
 
 | River | Rises in | Delta lies in | Usual wrong place |
 |------|----------|----------------|-------------------|
@@ -247,6 +295,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Shape / Fact ↔ Classic
+
 | Type | Shape / fact | Classic |
 |------|----------------|---------|
 | **Arcuate** | Bow / fan | Nile, Ganga–Brahmaputra (Sundarbans), Rhine, Niger, Hwang Ho |
@@ -258,6 +309,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Example ↔ Type
+
 | Example | Type |
 |---------|------|
 | **Imphal basin** | **Lacustrine** plain (old lake) — **not** loess / glacial / ordinary alluvial trap |
@@ -265,6 +319,9 @@ hide:
 | Chhattisgarh / Michigan type | Structural/sedimentary basin |
 
 ---
+
+
+### Comparative Matrix: Plain ↔ Agent
 
 | Plain | Agent |
 |-------|-------|
@@ -276,6 +333,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Form ↔ Dip Of Beds ↔ Side View
+
 | Form | Dip of beds | Side view |
 |------|-------------|-----------|
 | **Cuesta** | Gentle | One gentle slope + one steep scarp |
@@ -283,12 +343,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Form ↔ Size Feel ↔ Cap
+
 | Form | Size feel | Cap |
 |------|-----------|-----|
 | **Mesa** | Broad flat top | Hard cap still wide |
 | **Butte** | Smaller / pillar-like | Same idea, much less area |
 
 ---
+
+
+### Comparative Matrix: Pattern ↔ Looks Like ↔ Control
 
 | Pattern | Looks like | Control (why) | River / ground |
 |---------|------------|---------------|----------------|
@@ -303,6 +369,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Quick Recall
+
 | Type | Quick recall |
 |------|--------------|
 | Cirque glacier | Armchair hollow |
@@ -313,6 +382,9 @@ hide:
 | Ice shelf | Floating fringe |
 
 ---
+
+
+### Comparative Matrix: Form ↔ Quick Recall
 
 | Form | Quick recall |
 |------|--------------|
@@ -327,6 +399,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Form ↔ Quick Recall
+
 | Form | Quick recall |
 |------|--------------|
 | Moraine | Lateral, medial, terminal, ground |
@@ -338,6 +413,9 @@ hide:
 | Kettle | Melt pit → lake |
 
 ---
+
+
+### Comparative Matrix: Form ↔ Quick Recall
 
 | Form | Quick recall |
 |------|--------------|
@@ -351,6 +429,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Form ↔ Quick Recall
+
 | Form | Quick recall |
 |------|--------------|
 | Beach | Wave-built sand / shingle strip |
@@ -362,11 +443,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Reef Type ↔ Where It Sits ↔ Lagoon?
+
 | Reef type | Where it sits | Lagoon? |
 |-----------|---------------|---------|
 | **Fringing** | Against the shore | Little / none |
 | **Barrier** | Offshore, parallel to land | Yes — between reef and land |
 | **Atoll** | Ring / horseshoe in open sea | Yes — **central** lagoon; island mostly gone |
+
+### Comparative Matrix: Coast Type ↔ Meaning
+
 | Coast type | Meaning |
 |------------|------|
 | **Fjord** | Drowned **glacial** trough |
@@ -377,6 +464,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Rock / Body ↔ Fact
+
 | Rock / body | Fact |
 |---|---|
 | 1. Granite | Intrusive acidic igneous |
@@ -384,6 +474,9 @@ hide:
 | 3. Fossils | Typical of igneous rocks |
 
 ---
+
+
+### Match Matrix: Delta Type ↔ Details
 
 | List-I (Delta type) | List-II |
 |---|---|
@@ -394,6 +487,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Barchan horns | 1. Point downwind |
@@ -403,6 +499,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Weathering | 1. In situ breakdown |
@@ -411,6 +510,9 @@ hide:
 | D. Glacier deposition | 4. Moraine, drumlin, esker, kame |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

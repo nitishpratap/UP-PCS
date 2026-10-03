@@ -64,12 +64,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Kind ↔ Meaning ↔ Typical Cases
+
 | Kind | Meaning | Typical cases |
 |------|---------|----------------|
 | **Constitutional / absolute discretion** | The Constitution **itself** requires the Governor to act on his own | Reserving a Bill for the President (**200**); recommending **President’s Rule (356)**; seeking information from the CM (**167**); special responsibility in **Art. 371** States (e.g. Nagaland, Arunachal, Maharashtra/Gujarat development boards, etc.) |
 | **Situational discretion** | The Constitution is silent; political reality forces a choice | **Hung Assembly** — whom to invite as CM; dismissing a CoM that has **lost the House** but will not resign; dissolving the LA when the CM has lost majority / advises dissolution (विघटन) after losing a floor test |
 
 ---
+
+
+### Comparative Matrix: Option ↔ Ordinary Bill ↔ Money Bill
 
 | Option | Ordinary Bill | Money Bill |
 |--------|---------------|------------|
@@ -81,6 +87,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Cm ↔ Governor
+
 | CM | Governor |
 |----|----------|
 | Real executive; majority in **LA** | Nominal executive; **appointee** of the President |
@@ -89,6 +98,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Unicameral ↔ Bicameral
+
 | | Unicameral | Bicameral |
 |--|-----------|-----------|
 | Houses | Only **LA** | **LA + LC** |
@@ -96,6 +108,9 @@ hide:
 | Deadlock on an ordinary Bill | — | **Art. 197** — LA **prevails**. **No joint sitting** in a State |
 
 ---
+
+
+### Comparative Matrix: Point ↔ President ↔ Governor
 
 | Point | President | Governor |
 |-------|-----------|----------|
@@ -110,6 +125,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Bhagwat Dayal Sharma |
@@ -118,6 +136,9 @@ hide:
 | D | Sarojini Naidu |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -128,6 +149,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Sarojini Naidu |
@@ -136,6 +160,9 @@ hide:
 | D | Mridula Sinha |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -146,6 +173,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Members elected by local bodies |
@@ -154,6 +184,9 @@ hide:
 | 4 | Members elected by the Legislative Assembly |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -164,6 +197,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Uttar Pradesh |
@@ -172,6 +208,9 @@ hide:
 | 4 | Mizoram |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -182,6 +221,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Composition of State Legislature |
@@ -190,6 +232,9 @@ hide:
 | 4 | Quorum |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -200,6 +245,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Uttar Pradesh |
@@ -208,6 +256,9 @@ hide:
 | 4 | Telangana |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -218,6 +269,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Five-year term; may be dissolved earlier |
@@ -226,6 +280,9 @@ hide:
 | 4 | Quorum: ten members or one-tenth, whichever is greater |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -236,6 +293,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Article 154 |
@@ -244,6 +304,9 @@ hide:
 | D | Article 200 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -254,6 +317,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Article 169 |
@@ -262,6 +328,9 @@ hide:
 | D | Article 192 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -272,6 +341,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Governor oath |
@@ -280,6 +352,9 @@ hide:
 | D | Assembly minimum |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|

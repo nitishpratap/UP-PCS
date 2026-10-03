@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
 | **UP Area Rank in India**: **4th Rank (240,928 km² — 7.33%)** | **UP Population Rank in India**: **1st Rank (19.98 Crore — 16.51%)** | **Trap**: UP is 1st in population, but 4th in area (behind Rajasthan, MP, Maharashtra). |

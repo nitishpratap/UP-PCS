@@ -89,6 +89,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Office / Post ↔ Appointed Individual ↔ Region / Authority
+
 | Office / Post | Appointed Individual | Region / Authority | Exam Context & Significant Notes |
 |:--------------|:---------------------|:-------------------|:---------------------------------|
 | **Deputy Diwan (Naib Diwan) of Bengal** | **Mohammad Raza Khan** (मोहम्मद रज़ा खान) | Bengal (also functioned as Naib Nazim) | Appointed by Robert Clive under Treaty of Allahabad (1765); exercised dual civil and criminal oversight until Warren Hastings arrested him in 1772 |
@@ -98,6 +101,9 @@ hide:
 | **Commander & Trusted Minister** | **Raja Jhaulal** (राजा झाऊलाल) | Awadh (Nawab Asaf-ud-Daula) | Influential minister in Lucknow court; later removed under British pressure |
 
 ---
+
+
+### Comparative Matrix: Phase ↔ Battle Name ↔ Date
 
 | Phase | Battle Name | Date | British Commander vs Sikh Leaders | Decisive Outcome & Treaty |
 |:------|:------------|:-----|:-----------------------------------|:---------------------------|
@@ -115,6 +121,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Battle ↔ Year ↔ Theatre
+
 | Battle | Year | Theatre |
 |--------|------|---------|
 | Shakarkheda | **1724** | Nizam-ul-Mulk vs Mubariz Khan |
@@ -123,6 +132,9 @@ hide:
 | Mudki | **1845** | 1st Anglo-Sikh |
 
 ---
+
+
+### Comparative Matrix: Phase ↔ Rough Years ↔ Method
 
 | Phase | Rough years | Method | Key fact |
 |-------|-------------|--------|-----------|
@@ -137,6 +149,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Nawab ↔ Years ↔ Tag
+
 | Nawab | Years | Tag |
 |-------|-------|-----|
 | **Murshid Quli Khan** | from **1717** | Last Mughal-appointed Subedar; Murshidabad; ijara |
@@ -150,6 +165,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Party ↔ Terms
+
 | Party | Terms |
 |-------|-------|
 | **Shah Alam II** | Granted **Diwani** of Bengal, Bihar, Orissa; about **₹26 lakh/year**; lived under Company protection at Allahabad |
@@ -157,6 +175,9 @@ hide:
 | **Bengal Nawab** | **Najm-ud-Daulah** became a pensioned figurehead |
 
 ---
+
+
+### Comparative Matrix: Policy ↔ Who ↔ What It Meant
 
 | Policy | Who | What it meant | example |
 |--------|-----|---------------|--------------|
@@ -173,6 +194,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: State ↔ Year
+
 | State | Year |
 |-------|------|
 | **Hyderabad (Nizam)** | **1798 — first** |
@@ -184,6 +208,9 @@ hide:
 | Many Rajput (राजपूत) states | under Lord Hastings after 1818 |
 
 ---
+
+
+### Comparative Matrix: State ↔ Year ↔ Note
 
 | State | Year | Note |
 |-------|------|------|
@@ -251,6 +278,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Board Of Three ↔ Role
+
 | Board of Three (1849) | Role |
 |-----------------------|------|
 | **Sir Henry Lawrence** | President |
@@ -258,6 +288,9 @@ hide:
 | **Charles Grenville Mansel** | Member |
 
 ---
+
+
+### Comparative Matrix: Lock ↔ Fact
 
 | Lock | Fact |
 |------|------|
@@ -284,6 +317,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Treaty ↔ Year
+
 | Treaty | Year |
 |--------|------|
 | A. Allahabad | 1. 1782 |
@@ -292,6 +328,9 @@ hide:
 | D. Madras | 4. 1784 |
 
 ---
+
+
+### Match Matrix: Treaty ↔ Year / War
 
 | List-I (Treaty) | List-II (Year / war) |
 |-----------------|----------------------|
@@ -302,6 +341,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Plassey | 1. Hector Munro |
@@ -310,6 +352,9 @@ hide:
 | D. Miani | 4. Sindh 1843 |
 
 ---
+
+
+### Match Matrix: Policy / Man ↔ Tag
 
 | List-I (Policy / man) | List-II (Tag) |
 |-----------------------|---------------|

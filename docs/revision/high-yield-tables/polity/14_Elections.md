@@ -32,6 +32,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Correct ↔ Hindi
+
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
 | **ECI** | **SEC** | Parliament, State Houses, President, VP | PRI + ULB only (**243K/ZA**) |
@@ -83,6 +86,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Election ↔ System
+
 | Election | System |
 |----------|--------|
 | **President (55)** / **VP (66)** | PR-STV. MLA vote-value = 1971 population ÷ (elected MLAs × 1000); MP value = total MLA values ÷ elected MPs |
@@ -92,6 +98,9 @@ hide:
 | **Lok Sabha / Assembly** | **FPTP**, not PR |
 
 ---
+
+
+### Comparative Matrix: National Party ↔ State Party
 
 | National party (any one) | State party (any one, in that State) |
 |--------------------------|--------------------------------------|
@@ -136,6 +145,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. FPTP | 1. President, VP, Rajya Sabha, Councils |
@@ -143,6 +155,9 @@ hide:
 | C. Open ballot (2003) | 3. Rajya Sabha party voting |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

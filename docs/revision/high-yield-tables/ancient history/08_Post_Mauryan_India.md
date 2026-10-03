@@ -58,6 +58,9 @@ hide:
 | Chera | Bow | **Vanji / Karur** |
 | Chola | Tiger | **Uraiyur** |
 | Pandya | Fish | **Madurai** |
+
+### Major Seaports & Coastal Trade Hubs
+
 | Port | Lock |
 |------|------|
 | Muziris | Chera / Roman pepper |
@@ -77,6 +80,9 @@ hide:
 | Art | Gandhara + Mathura |
 
 ---
+
+
+### Comparative Matrix: Era Name ↔ Starting Year ↔ Founder / Associated Event
 
 | Era Name (संवत) | Starting Year | Founder / Associated Event | Key Inscriptional / Historical Usage |
 |:----------------|:-------------:|:---------------------------|:-------------------------------------|
@@ -98,6 +104,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Coin Type / Dynasty ↔ Primary Metals ↔ Distinguishing Features & Motifs
+
 | Coin Type / Dynasty | Primary Metals | Distinguishing Features & Motifs | Key Rulers / Canonical References |
 |:-------------------|:---------------|:---------------------------------|:-----------------------------------|
 | **Punch-Marked Coins**<br>(*Aahat / Karshapana / Pana / Dharana*) | Silver & Copper | • **Earliest coins of India** (6th c. BCE Mahajanapadas & Mauryas)<br>• Irregular shape, stamped with separate punches (sun, six-armed symbol, tree-in-railing, hill, bull)<br>• **NO royal portraits, NO written legends** | Mentioned by Panini (*Ashtadhyayi*) & Kautilya (*Arthashastra*); *Lakhana-adhyaksha* (mint superintendent) |
@@ -108,6 +117,9 @@ hide:
 | **Gupta Coins**<br>(*Dinar* gold, *Rupaka* silver) | Gold, Silver, Copper | • **LARGEST NUMBER OF GOLD COINS** in ancient India (*Dinar*)<br>• Elaborate artistic classical types: Archer type, Tiger-slayer, Lion-slayer, Ashwamedha type, Lyrist (Veena) type, King-and-Queen (*Chandragupta I & Kumaradevi*)<br>• Silver coins (*Rupaka*) first issued by **Chandragupta II** after conquering Western Kshatrapas of Malwa/Saurashtra | • **Samudragupta**: Veena/Lyrist type & Ashwamedha type<br>• **Chandragupta II Vikramaditya**: Lion-slayer & Silver Rupaka<br>• **Kumaragupta I**: Karttikeya type & maximum number of hoards (Bayana hoard in Bharatpur, Rajasthan) |
 
 ---
+
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ Horizon / Use
 
 | Book / text | Writer / authority | Horizon / use |
 |-------------|--------------------|---------------|
@@ -128,6 +140,9 @@ hide:
 | *Vayu Purana* | Puranic tradition | Kanva end / Andhra founder memory |
 
 ---
+
+
+### Comparative Matrix: Ruler ↔ Fact
 
 | Ruler | Fact |
 |-------|------|
@@ -151,6 +166,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Sangam ↔ Place ↔ President / Tradition
+
 | Sangam | Place | President / tradition |
 |--------|-------|------------------------|
 | **First** | **Madurai** | Saint **Agastya** (with **Tolkappiyar** in some lists) |
@@ -158,6 +176,9 @@ hide:
 | **Third** | **Madurai** | **Nakkirar** |
 
 ---
+
+
+### Major Seaports & Coastal Trade Hubs
 
 | Kingdom | Emblem | Capital | Port | Famous king |
 |---------|--------|---------|------|-------------|
@@ -195,6 +216,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Inscription / Record ↔ Associated Person
+
 | List-I (Inscription / record) | List-II (Associated person) |
 |---|---|
 | 1. Hathigumpha | A. Heliodorus |
@@ -204,6 +228,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Sangam House ↔ Emblem / Capital
+
 | List-I (Sangam house) | List-II (Emblem / capital) |
 |---|---|
 | 1. Chera | A. Fish; Madurai |
@@ -211,6 +238,9 @@ hide:
 | 3. Pandya | C. Tiger; Uraiyur |
 
 ---
+
+
+### Match Matrix: Text / Author ↔ Horizon
 
 | List-I (Text / author) | List-II (Horizon) |
 |---|---|

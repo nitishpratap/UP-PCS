@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
 | **Infant Mortality Rate (IMR)**: Deaths under 1 year per **1,000 Live Births** | **Maternal Mortality Ratio (MMR)**: Maternal deaths per **100,000 (1 Lakh) Live Births** | **Trap**: The most common unit trap in competitive exams! IMR denominator is 1,000; MMR denominator is strictly 100,000 (1 Lakh). |

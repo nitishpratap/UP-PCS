@@ -40,6 +40,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Pollutant ↔ Cpcb 24-H Standard
+
 | Pollutant | CPCB 24-h standard (μg/m³) |
 |-----------|---------------------------|
 | PM2.5 | 60 |
@@ -48,6 +51,9 @@ hide:
 | NO₂ | 80 |
 
 ---
+
+
+### Industrial Centres, Raw Material Belts & Clusters
 
 | Disease | Causative Pollutant / Dust | Industry / Occupational Source | Key feature / Nickname |
 |---------|---------------------------|--------------------------------|-----------------------------|
@@ -61,6 +67,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Parameter ↔ Clean River ↔ Polluted River
+
 | Parameter | Clean river | Polluted river |
 |-----------|-------------|----------------|
 | BOD (mg/L) | <3 | >10 |
@@ -68,6 +77,9 @@ hide:
 | pH | 6.5–8.5 | <6 or >9 |
 
 ---
+
+
+### Comparative Matrix: Colour ↔ Waste Type ↔ Treatment
 
 | Colour | Waste type | Treatment |
 |--------|------------|-----------|
@@ -78,6 +90,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Point source | 1. Farm runoff / roads |
@@ -86,6 +101,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. NCAP | 1. 2020 |
@@ -93,6 +111,9 @@ hide:
 | C. Air Act noise inclusion amendment | 3. 1987 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

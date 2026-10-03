@@ -63,6 +63,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: School ↔ Material / Region
+
 | School | Material / region |
 |--------|-------------------|
 | 1. Gandhara | Grey schist; north-west Greco-Roman style |
@@ -70,6 +73,9 @@ hide:
 | 3. Amaravati | Black basalt freestanding icons of Punjab |
 
 ---
+
+
+### Comparative Matrix: Site / Object ↔ Tag
 
 | Site / object | Tag |
 |---------------|-----|

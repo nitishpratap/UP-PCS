@@ -85,6 +85,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Continent ↔ Rivers To Place First
+
 | Continent | Rivers to place first |
 |-----------|------------------------|
 | **North America** | Mississippi–Missouri, Mackenzie, St Lawrence, Colorado, Rio Grande |
@@ -95,6 +98,9 @@ hide:
 | **Australia** | Murray–Darling |
 
 ---
+
+
+### Comparative Matrix: River ↔ Continent ↔ Mouth
 
 | River | Continent | Mouth | What the means by “famous” |
 |-------|-----------|-------|----------------------------------|
@@ -107,6 +113,9 @@ hide:
 | **Murray–Darling** | Australia | Southern Ocean (via Murray mouth) | Australia’s main river system. **Darling Range** in Western Australia is a **hill range**, not this river. |
 
 ---
+
+
+### Comparative Matrix: River ↔ Source ↔ Mouth
 
 | River | Source | Mouth | Direction / countries | |
 |-------|--------|-------|----------------------|------|
@@ -128,6 +137,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: River ↔ Source ↔ Mouth
+
 | River | Source | Mouth | Cities / dams / falls | Note |
 |-------|---------------|-------|----------------------|------|
 | **Nile** | White: Victoria · Blue: **Tana** | Mediterranean | **Khartoum** (confluence), Cairo, **Aswan High Dam** → **Lake Nasser** | Arcuate delta. Traditional **longest** river. **GERD** sits on the **Blue Nile** in Ethiopia (Egypt (मिस्र)–Sudan dispute) |
@@ -138,6 +150,9 @@ hide:
 | Limpopo | S Africa | Indian Ocean (Mozambique) | Crosses **Tropic of Capricorn twice** | |
 
 ---
+
+
+### Comparative Matrix: River ↔ Mouth ↔ Cities
 
 | River | Mouth | Cities | |
 |-------|-------|--------|------|
@@ -154,6 +169,9 @@ hide:
 | Tagus | Atlantic | **Lisbon** | |
 
 ---
+
+
+### Comparative Matrix: River ↔ Source → Mouth ↔ Cities / Dams
 
 | River | Source → mouth | Cities / dams | |
 |-------|----------------|---------------|------|
@@ -172,6 +190,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Shape ↔ Meaning ↔ Classic River
+
 | Shape | Meaning | Classic river |
 |-------|---------|----------------|
 | **Arcuate** | Bow / fan | **Nile**, Hwang Ho, Niger, Rhine, Ganga–Brahmaputra |
@@ -180,6 +201,9 @@ hide:
 | **Moribund** | Abandoned / dying lobe | Cauvery (India) |
 
 ---
+
+
+### Comparative Matrix: Continent ↔ Delta ↔ River
 
 | Continent | Delta | River | Opens into |
 |-----------|-------|-------|------------|
@@ -196,6 +220,9 @@ hide:
 | South America | Orinoco Delta | Orinoco | **Atlantic** |
 
 ---
+
+
+### Comparative Matrix: Form ↔ Note
 
 | Form | Note |
 |------|-----|
@@ -267,6 +294,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: River ↔ Countries / Border Stretch ↔ Trap
+
 | River | Countries / border stretch | Trap |
 |-------|----------------------------|------|
 | **Rio Grande** | **USA–Mexico** for a long stretch | Not Colorado, not Mississippi |
@@ -288,6 +318,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Waterway ↔ From / To
+
 | Waterway | From / to | |
 |----------|-----------|------|
 | **Rhine** | Swiss Alps → Rotterdam (North Sea) | Europe’s **busiest** inland waterway |
@@ -298,6 +331,9 @@ hide:
 | Mississippi | Interior USA → Gulf of Mexico | USA inland trunk |
 
 ---
+
+
+### Comparative Matrix: Dam ↔ Country ↔ River
 
 | Dam | Country | River |
 |-----|---------|-------|
@@ -323,6 +359,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Chain ↔ Path
+
 | Chain | Path |
 |-------|------|
 | **Yangtze** | Tibetan Plateau → China → **Three Gorges** → Shanghai belt → **East China Sea** |
@@ -330,6 +369,9 @@ hide:
 | **Paraná** | Interior South America → **Itaipu** (Brazil–Paraguay) → Río de la Plata → **Atlantic** |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Fact / Example
 
 | Type | Fact / example |
 |------|----------------|
@@ -339,6 +381,9 @@ hide:
 | Lagoon / coastal | Chilika-type coastal idea. Barred coastal lakes |
 | Oxbow | Cut-off meander lakes on floodplains |
 | Endorheic | Caspian, Aral, Chad, Dead Sea, Eyre — inland, no sea outlet |
+
+### Lakes, Waterfalls & Water Reservoirs
+
 | Lake | Country | Fresh / salt | |
 |------|---------|--------------|------|
 | **Caspian** | RU / IR / KZ / TM / AZ | Saline (लवणीय) inland sea | **Largest lake** on Earth |
@@ -363,6 +408,9 @@ hide:
 
 ---
 
+
+### Lakes, Waterfalls & Water Reservoirs
+
 | Lake / pair | Fact |
 |------------|------|
 | **Faguibine** | Mali (W Africa) — dried / desertified |
@@ -382,6 +430,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Fall ↔ River / Basin ↔ Countries
+
 | Fall | River / basin | Countries | |
 |------|---------------|-----------|------|
 | **Angel** | Churún (Caroní / Orinoco) | **Venezuela** | **Highest** on Earth |
@@ -395,6 +446,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: River ↔ Flows Into
+
 | River | Flows into |
 |-------|------------|
 | 1. Mekong | Andaman Sea |
@@ -403,6 +457,9 @@ hide:
 | 4. Zambezi | Indian Ocean |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -413,6 +470,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: River ↔ Country
+
 | River | Country |
 |-------|---------|
 | (a) Dnieper | Ukraine |
@@ -421,6 +481,9 @@ hide:
 | (d) Rhone | Spain |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -431,6 +494,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Paris | 1. Paraguay |
@@ -439,6 +505,9 @@ hide:
 | D. Asuncion | 4. Seine |
 
 ---
+
+
+### Match Matrix: Rivers ↔ Tributaries & Confluences
 
 | List-I | List-II |
 |--------|---------|
@@ -449,6 +518,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Berlin | 1. Tiber |
@@ -457,6 +529,9 @@ hide:
 | D. Rome | 4. Spree |
 
 ---
+
+
+### Match Matrix: Rivers ↔ Tributaries & Confluences
 
 | List-I | List-II |
 |--------|---------|
@@ -467,6 +542,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Khartoum | 1. Zaire |
@@ -475,6 +553,9 @@ hide:
 | D. Paris | 4. Rhine |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -485,6 +566,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: City ↔ River
+
 | City | River |
 |------|-------|
 | 1. Budapest | Danube |
@@ -493,6 +577,9 @@ hide:
 | 4. Vienna | Danube |
 
 ---
+
+
+### Match Matrix: Dam / Project ↔ River
 
 | List-I (Dam / project) | List-II (River) |
 |------------------------|-----------------|
@@ -503,6 +590,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Feature ↔ Association
+
 | List-I (Feature) | List-II (Association) |
 |-------------------|------------------------|
 | A. Bird’s-foot delta | 1. Nile / Hwang Ho / Niger |
@@ -511,6 +601,9 @@ hide:
 | D. St Lawrence | 4. Great Lakes seaway |
 
 ---
+
+
+### Match Matrix: River ↔ Direction / Mouth Note
 
 | List-I (River) | List-II (Direction / mouth note) |
 |-----------------|----------------------------------|

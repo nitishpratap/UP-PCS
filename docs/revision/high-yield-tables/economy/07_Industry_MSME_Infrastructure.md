@@ -27,6 +27,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Distinguishing Fact
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Make in India 2014** | **Gati Shakti 2021** | Manufacturing mission vs infra master plan |
@@ -75,6 +78,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Cottage industry | 1. Household / artisan production |
@@ -84,6 +90,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Micro MSME | 1. ≤ ₹50 cr investment / ≤ ₹250 cr turnover |
@@ -92,6 +101,9 @@ hide:
 | D. Karve Committee | 4. 1955 SSI / village industries |
 
 ---
+
+
+### Match Matrix: Transport Infrastructure ↔ Regions
 
 | List-I | List-II |
 |---|---|

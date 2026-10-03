@@ -70,6 +70,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Treatise ↔ Author / Tag
+
 | Treatise | Author / tag |
 |----------|--------------|
 | 1. Natyashastra | Bharata Muni |
@@ -78,6 +81,9 @@ hide:
 | 4. Chaturdandi Prakashika | Pundrik Vitthal |
 
 ---
+
+
+### Comparative Matrix: Work ↔ Author
 
 | Work | Author |
 |------|--------|

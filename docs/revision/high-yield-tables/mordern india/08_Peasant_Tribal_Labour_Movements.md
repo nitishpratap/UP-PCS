@@ -75,6 +75,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Stream ↔ Core Grievance ↔ Typical Method
+
 | Stream | Core grievance | Typical method | Arc across the chapter |
 |--------|----------------|-----------------|-------------------------|
 | **Peasant** | Rent, revenue, eviction, indigo/tinkathia, sharecrop share | Legal league → satyagraha → sharecropper strike → armed struggle | Pabna (1873) → Champaran/Kheda/Eka (1917–22) → Bardoli (1928) → Tebhaga / **Telangana** (1946–51) |
@@ -82,6 +85,9 @@ hide:
 | **Labour** | Wages, hours, union recognition (मान्यता) | Strike → union → legislation → party-linked federation | Madras Labour Union (1918) → AITUC (1920) → post-1947 party-wise split (INTUC/UTUC/BMS/CITU) |
 
 ---
+
+
+### Comparative Matrix: Revolt ↔ Year ↔ Region
 
 | Revolt | Year | Region | Leader tag |
 |--------|-------------|--------|------------|
@@ -125,6 +131,9 @@ hide:
 | **Vallabhbhai Patel** | Bardoli 1928 | Moplah |
 
 ---
+
+
+### Comparative Matrix: Body ↔ Year ↔ Tag
 
 | Body | Year | tag |
 |------|------|----------|
@@ -195,6 +204,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Revolt ↔ Leader
+
 | List-I (Revolt) | List-II (Leader) |
 |-----------------|------------------|
 | A. Paika 1817 | 1. Sidhu and Kanhu |
@@ -203,6 +215,9 @@ hide:
 | D. Khasi 1829 | 4. Birsa Munda |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -213,6 +228,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Dwivedi | 1. Oudh Kisan Sabha 1920 |
@@ -221,6 +239,9 @@ hide:
 | D. Sahajanand | 4. All India Kisan Sabha 1936 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|

@@ -143,12 +143,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: India ↔ Usa ↔ Uk
+
 | India | USA | UK |
 |-------|-----|-----|
 | **Explicit** (13, 32, 226…) | *Marbury v. Madison* (implied) | **Parliamentary supremacy** — no JR of primary Acts |
 | JR = **basic structure** | No “basic structure” label | — |
 
 ---
+
+
+### Comparative Matrix: Activism ↔ Restraint ↔ Overreach
 
 | | **Activism** | **Restraint** | **Overreach** |
 |--|--------------|---------------|---------------|
@@ -157,6 +163,9 @@ hide:
 | Examples | *Maneka*; *Hussainara*; *Vishaka*; *M.C. Mehta*; *Olga Tellis* | Refusal to rewrite a tax statute | Highway liquor ban / some firecracker / anthem directions (criticised as policy) |
 
 ---
+
+
+### Comparative Matrix: Traditional ↔ Pil
 
 | | Traditional | PIL |
 |--|-------------|-----|
@@ -181,6 +190,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Art. 323A ↔ Art. 323B
+
 | | **Art. 323A** | **Art. 323B** |
 |--|---------------|---------------|
 | Subject | **Administrative** tribunals — Union / State **public services** | **Other** tribunals |
@@ -190,6 +202,9 @@ hide:
 | After *L. Chandra Kumar* | Exclusion of **HC (226/227) is void**. Tribunal = **court of first instance** → HC **Division Bench** → SC | Same logic |
 
 ---
+
+
+### Comparative Matrix: Track ↔ Question ↔ Cases / Law
 
 | Track | Question | Cases / law |
 |-------|----------|-------------|
@@ -214,6 +229,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Punjab & Haryana |
@@ -222,6 +240,9 @@ hide:
 | D | Kerala |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -232,6 +253,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Article 233 |
@@ -240,6 +264,9 @@ hide:
 | D | Article 236 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -250,6 +277,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Article 215 |
@@ -258,6 +288,9 @@ hide:
 | D | Article 227 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -268,6 +301,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Calcutta |
@@ -276,6 +312,9 @@ hide:
 | D | Uttarakhand |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -286,6 +325,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | First Lok Adalat (independent India) |
@@ -294,6 +336,9 @@ hide:
 | D | Fast Track Courts scheme |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -304,6 +349,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Family Courts Act |
@@ -312,6 +360,9 @@ hide:
 | D | Legal Services Authorities Act in force |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -322,6 +373,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | First Judges Case |
@@ -330,6 +384,9 @@ hide:
 | D | NJAC case |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -340,6 +397,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Article 129 |
@@ -348,6 +408,9 @@ hide:
 | D | Article 143 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -358,6 +421,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Fathima Beevi |
@@ -366,6 +432,9 @@ hide:
 | D | Indu Malhotra |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|

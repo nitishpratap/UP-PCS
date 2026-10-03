@@ -61,6 +61,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Committee ↔ Chairman
+
 | Committee | Chairman |
 |-----------|----------|
 | Union Constitution Committee | **Jawaharlal Nehru** (जवाहरलाल नेहरू) |
@@ -69,6 +72,9 @@ hide:
 | Fundamental Rights Sub-Committee | **J.B. Kripalani** |
 
 ---
+
+
+### Comparative Matrix: Year ↔ What
 
 | Year | What |
 |------|------|
@@ -128,6 +134,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Junagadh | 1. Operation Polo / Police Action, Sep 1948 |
@@ -136,6 +145,9 @@ hide:
 | D. Pondicherry group | 4. Kizhoor referendum route; de facto 1954; de jure 1962 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -146,6 +158,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Part A | 1. Princely unions |
@@ -155,6 +170,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. 1st Plan | 1. Mahalanobis; steel plants |
@@ -163,6 +181,9 @@ hide:
 | D. 12th Plan | 4. Last FYP; sustainable growth fact |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|

@@ -40,6 +40,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Scheme ↔ Year ↔ Fact
+
 | Scheme | Year | Fact |
 |--------|------|------|
 | National Solar Mission | 2010 | NAPCC pillar / JNNSM |
@@ -49,6 +52,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Onshore ↔ Offshore
+
 | Feature | Onshore | Offshore |
 |---------|---------|----------|
 | Cost | Lower | Higher |
@@ -56,6 +62,9 @@ hide:
 | India status | Mature | Early policy stage |
 
 ---
+
+
+### Comparative Matrix: Category ↔ Capacity
 
 | Category | Capacity |
 |----------|----------|
@@ -65,6 +74,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Source ↔ Co₂
+
 | Type | Source | CO₂ |
 |------|--------|-----|
 | Green | Renewable electrolysis | Very low |
@@ -72,6 +84,9 @@ hide:
 | Blue | Gas + CCS | Moderate |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -81,6 +96,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Tidal | 1. ≤25 MW MNRE |
@@ -88,6 +106,9 @@ hide:
 | C. Geothermal India | 3. Himalaya, Cambay, West Coast, SONATA… |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

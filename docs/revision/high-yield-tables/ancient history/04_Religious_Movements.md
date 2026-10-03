@@ -51,6 +51,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Vehicle ↔ Lock
+
 | Vehicle | Lock |
 |---------|------|
 | Hinayana | Arhat ideal; Pali |
@@ -97,6 +100,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
+
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
 | *Milinda Panha* | **Menander (Milinda)** and **Nagasena** | Indo-Greek Buddhist dialogue |
@@ -111,6 +117,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Event ↔ Place ↔ Age / Fact
+
 | Event | Place | Age / fact | Art symbol |
 |-------|-------|------------|------------|
 | **Birth** | **Lumbini** (Nepal) | Ashokan **Rummindei** pillar marks the site | **Lotus** and **bull** |
@@ -121,6 +130,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Pali Name ↔ Meaning ↔ Key Fact
+
 | # | Pali name | Meaning | Key fact |
 |---|-----------|---------|-----------|
 | 1 | **Dukkha** | Suffering / unsatisfactoriness | Does **not** mean “life is only pain” |
@@ -129,6 +141,9 @@ hide:
 | 4 | **Magga** | Path to cessation | Names the **Eightfold Path** as the cure |
 
 ---
+
+
+### Comparative Matrix: Group ↔ Path Factor ↔ Sanskrit / Pali Fact
 
 | Group | Path factor | Sanskrit / Pali fact | What it means |
 |---|---|---|---|
@@ -150,6 +165,9 @@ hide:
 | **Anicca** | All conditioned things are impermanent |
 | **Dukkha** | Unsatisfactoriness follows from impermanence |
 | **Anatta** | There is **no permanent self** — split from Jain **jiva** and Upanishadic **atman** |
+
+### Comparative Matrix: Skandha ↔ Sanskrit ↔ What It Is
+
 | Skandha | Sanskrit | What it is |
 |---------|----------|------------|
 | Form | **Rupa** | Physical body |
@@ -159,6 +177,9 @@ hide:
 | Consciousness | **Vijnana** | Awareness of an object |
 
 ---
+
+
+### Comparative Matrix: Nidana ↔ Meaning
 
 | # | Nidana | Meaning |
 |---|--------|---------|
@@ -177,6 +198,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Place ↔ Patron / Ruler ↔ President
+
 | # | Place | Patron / ruler | President | Main outcome |
 |---|-------|----------------|-----------|--------------|
 | **1st** (~483 BCE) | **Rajagriha** (Sattapanni / Saptaparni cave) | **Ajatashatru** (अजातशत्रु) (Magadha) | **Mahakassapa** | **Upali** recited **Vinaya**; **Ananda** recited **Suttas** |
@@ -185,6 +209,9 @@ hide:
 | **4th** (north-Indian list) | **Kundalvana**, Kashmir | **Kanishka** (कनिष्क) | **Vasumitra** (+ **Ashvaghosha** as deputy) | **Sarvastivada** school; **Sanskrit** turn; *Mahavibhasha*; Mahayana gains Kushan patronage; Buddha elevated as deity in Mahayana framing |
 
 ---
+
+
+### Comparative Matrix: Text ↔ Fact
 
 | Text | Fact |
 |------|------|
@@ -198,6 +225,9 @@ hide:
 | ***Visuddhimagga*** | Buddhaghosa’s Theravada manual |
 
 ---
+
+
+### Comparative Matrix: Pitaka ↔ Content ↔ Traditional Reciter
 
 | Pitaka | Content | Traditional reciter | Key fact |
 |--------|---------|---------------------|-----------|
@@ -232,6 +262,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Bodhisattva ↔ Also Called ↔ Virtue / Role
+
 | Bodhisattva | Also called | Virtue / role | Attribute or trap |
 |-------------|-------------|---------------|-------------------|
 | **Avalokiteshvara** | **Padmapani**, Lokesvara | **Compassion**; hears the cries of all beings | Lotus; central in *Lotus Sutra*; Ajanta **Padmapani** painting |
@@ -263,6 +296,9 @@ hide:
 | **Vajrayana** | From ~7th–8th century CE | **Bodhisattva** through tantra | Mantra, mandala, guru initiation | Tibet, Bhutan, parts of eastern India |
 
 ---
+
+
+### Comparative Matrix: Site ↔ Type ↔ Meaning
 
 | Site | Type | Meaning |
 |------|------|------|
@@ -341,6 +377,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Doctrine ↔ Meaning ↔ Key Fact
+
 | Doctrine | Meaning | Key fact |
 |----------|---------|-----------|
 | **Anekantavada** | Reality is **many-sided** — no single statement captures the whole truth. | “Non-absolutism” or “many-sidedness of reality.” |
@@ -348,6 +387,9 @@ hide:
 | **Nayavada** | Doctrine of **standpoints** — every judgment comes from a partial viewpoint (*naya*). | Perspective-based analysis. |
 
 ---
+
+
+### Comparative Matrix: Mode ↔ Meaning
 
 | # | Mode | Meaning |
 |---|------|---------|
@@ -359,6 +401,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Tirthankara ↔ Key Fact
+
 | # | Tirthankara | Key fact |
 |---|-------------|----------|
 | 1 | **Rishabhanatha / Adinatha** | Born **Ayodhya** (UP); nirvana **Ashtapad**; symbol **bull** |
@@ -368,6 +413,9 @@ hide:
 | 24 | **Mahavira** | Symbol **lion**; nirvana **Pavapuri** |
 
 ---
+
+
+### Comparative Matrix: Tirthankara ↔ Symbol
 
 | # | Tirthankara | Symbol |
 |---|-------------|--------|
@@ -441,6 +489,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Fact ↔ Parshvanatha ↔ Mahavira
+
 | Fact | Parshvanatha (23rd) | Mahavira (24th) |
 |------|---------------------|------------------|
 | Vows | **Four** (chaturyama): ahimsa, satya, asteya, aparigraha | **Five** — added **brahmacharya** (ब्रह्मचर्य) |
@@ -480,6 +531,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Vow ↔ Meaning ↔ Monk
+
 | # | Vow (Sanskrit) | Meaning | Monk (mahavrata) | Layperson (anuvrata) |
 |---|----------------|---------|------------------|----------------------|
 | 1 | **Ahimsa** | Non-violence in thought, word, and deed | Strict — no harm to any being | Avoid deliberate injury |
@@ -489,6 +543,9 @@ hide:
 | 5 | **Aparigraha** | Non-possession | No property; sky-clad Digambaras take this furthest | Limit possessions |
 
 ---
+
+
+### Comparative Matrix: Point ↔ Digambara ↔ Svetambara
 
 | Point | Digambara | Svetambara |
 |-------|-----------|------------|
@@ -500,6 +557,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Place ↔ Leader ↔ When
+
 | # | Place | Leader | When (approx.) | Outcome |
 |---|-------|--------|----------------|---------|
 | **1st** | **Pataliputra** (Bihar) | **Sthulabhadra** | ~300 BCE | **12 Angas** arranged in **Ardhamagadhi**. **Drishtivada** (12th Anga) later **lost**. |
@@ -507,6 +567,9 @@ hide:
 | **3rd** (final) | **Vallabhi** (Maitraka Gujarat) | **Devardhigani Kshamashramana** | ~453–512 CE | Svetambara **Agamas written down**; **11 Angas** + **Upangas**. |
 
 ---
+
+
+### Comparative Matrix: Teacher ↔ Doctrine ↔ One-Line Fact
 
 | Teacher | Doctrine | One-line fact |
 |---------|----------|---------------|
@@ -519,6 +582,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Fact ↔ Detail
+
 | Fact | Detail |
 |------|--------|
 | Founder-teacher | **Makkhali Gosala** — wandered with Mahavira, then broke away |
@@ -529,6 +595,9 @@ hide:
 | Sites | **Barabar** caves (Ajivika) vs **Ajanta** (Buddhist paintings) |
 
 ---
+
+
+### Comparative Matrix: Fact ↔ Charvaka Position
 
 | Fact | Charvaka position |
 |------|------------------|
@@ -542,6 +611,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: School ↔ Reject Veda? ↔ Soul / Karma?
+
 | School | Reject Veda? | Soul / karma? | One-line |
 |--------|--------------|---------------|----------|
 | Buddhism | Yes | No permanent soul; karma yes | Middle Path |
@@ -550,6 +622,9 @@ hide:
 | Charvaka | Yes | Neither | Perception-only |
 
 ---
+
+
+### Comparative Matrix: School ↔ Focus
 
 | School | Focus |
 |--------|-------|
@@ -561,6 +636,9 @@ hide:
 | **Vedanta** (वेदांत) | Upanishadic philosophy (Advaita, Vishishtadvaita, Dvaita) |
 
 ---
+
+
+### Comparative Matrix: Jyotirlinga ↔ Place
 
 | Jyotirlinga | Place |
 |-------------|--------|
@@ -578,6 +656,9 @@ hide:
 | Grishneshwar | Maharashtra |
 
 ---
+
+
+### Comparative Matrix: Avatar ↔ Note
 
 | Avatar | Note |
 |--------|------|
@@ -633,6 +714,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Person ↔ Association
+
 | List-I (Person) | List-II (Association) |
 |---|---|
 | 1. Yashodhara | A. First nun |
@@ -641,6 +725,9 @@ hide:
 | 4. Mahapajapati | D. Vinaya specialist |
 
 ---
+
+
+### Match Matrix: Council / School ↔ Tag
 
 | List-I (Council / School) | List-II (Tag) |
 |---|---|

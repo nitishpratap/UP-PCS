@@ -81,6 +81,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Year ↔ Battle ↔ Winner Vs Loser
+
 | Year | Battle | Winner vs loser | Fact |
 |------|--------|-----------------|------|
 | **1526** | Panipat I | Babur vs Ibrahim Lodi | Empire founded |
@@ -115,6 +118,9 @@ hide:
 | **Daniyal** | Akbar’s son; died **1605** |
 
 ---
+
+
+### Comparative Matrix: Emperor ↔ Tomb City
 
 | Emperor | Tomb city |
 |---------|-----------|
@@ -195,6 +201,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ruler ↔ Tomb Location
+
 | Ruler | Tomb Location |
 |-------|---------------|
 | 1. Babur | Kabul |
@@ -203,6 +212,9 @@ hide:
 | 4. Aurangzeb | Khuldabad |
 
 ---
+
+
+### Match Matrix: Battle ↔ Year / Tag
 
 | List-I (Battle) | List-II (Year / tag) |
 |-----------------|----------------------|
@@ -213,6 +225,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Hamida Banu | 1. Wrote Humayunnama |
@@ -221,6 +236,9 @@ hide:
 | D. Nahr-i-Bihisht | 4. Shahjahanabad canal drawing on Firuz’s Rajabwah |
 
 ---
+
+
+### Comparative Matrix: Term ↔ Description
 
 | Term | Description |
 |------|-------------|

@@ -23,6 +23,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Correct ↔ Hindi
+
 | A | B | Correct | Hindi |
 |---|----|------|-------|
 | President election voters | VP election voters | Only **elected** MPs + MLAs (no nominated / Councils) vs **all** MPs including nominated (no States) | राष्ट्रपति / उपराष्ट्रपति मतदाता |
@@ -78,6 +81,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Included ↔ Excluded
+
 | Included | Excluded |
 |----------|----------|
 | Elected MPs (both Houses) | **Nominated** members of Parliament |
@@ -99,6 +105,9 @@ hide:
 | **Emoluments** | Paid from the **Consolidated Fund of India** (भारत की संचित निधि) (current teaching figure: **₹5 lakh** per month) |
 
 ---
+
+
+### Comparative Matrix: Impeachment Feature ↔ Fact
 
 | Impeachment feature | Fact |
 |---------------------|------|
@@ -293,6 +302,9 @@ hide:
 
 ---
 
+
+### Match Matrix: President ↔ Term
+
 | List-I (President) | List-II (Term) |
 |--------------------------|----------------|
 | A. Fakhruddin Ali Ahmed | 1. 1967–1969 |
@@ -301,6 +313,9 @@ hide:
 | D. V. V. Giri | 4. 1977–1982 |
 
 ---
+
+
+### Comparative Matrix: List I — Prime Minister ↔ List Ii — Tenure
 
 | List I — Prime Minister | List II — Tenure |
 | --- | --- |
@@ -312,6 +327,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: List I — Prime Minister ↔ List Ii — State
+
 | List I — Prime Minister | List II — State |
 | --- | --- |
 | A. P. V. Narasimha Rao | 1. Uttar Pradesh |
@@ -322,6 +340,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: List I — Person ↔ List Ii — Office
+
 | List I — Person | List II — Office |
 | --- | --- |
 | A. Nagendra Singh | 1. Chief Justice of India |
@@ -330,6 +351,9 @@ hide:
 | D. Ashok Desai | 4. Chief Election Commissioner |
 
 ---
+
+
+### Comparative Matrix: List I ↔ List Ii
 
 | List I | List II |
 |---|---|
@@ -340,6 +364,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: List I ↔ List Ii
+
 | List I | List II |
 |---|---|
 | A. Vice-President | 1. Public Accounts Committee |
@@ -348,6 +375,9 @@ hide:
 | D. Attorney General | 4. Meetings of Lok Sabha |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -358,6 +388,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Ordinance-making power of President |
@@ -366,6 +399,9 @@ hide:
 | 4 | Pardoning power of President |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -376,6 +412,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Both Houses including nominated members; no State legislatures |
@@ -385,6 +424,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Rank 1 |
@@ -393,6 +435,9 @@ hide:
 | D | Rank 11 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|

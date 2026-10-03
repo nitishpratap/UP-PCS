@@ -29,6 +29,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Distinguishing Fact
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Revenue deficit** | **Fiscal deficit** | Current gap vs total borrowing need |
@@ -91,6 +94,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Consolidated Fund of India | 1. Article 266 |
@@ -99,6 +105,9 @@ hide:
 | D. Comptroller and Auditor General of India | 4. Article 148 |
 
 ---
+
+
+### Match Matrix: Finance Commission ↔ Chairman
 
 | List-I (Finance Commission) | List-II (Chairman) |
 |---|---|
@@ -109,6 +118,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Progressive tax | 1. Same rate at all incomes |
@@ -117,6 +129,9 @@ hide:
 | D. Tobin tax | 4. Proposed forex-transaction levy |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -127,6 +142,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. CGST + SGST | 1. Inter-State supply / imports |
@@ -135,6 +153,9 @@ hide:
 | D. 1 July 2017 | 4. GST rollout date |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

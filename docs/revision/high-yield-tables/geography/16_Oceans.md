@@ -28,6 +28,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Benguela | **Atlantic** cold (SW Africa) | Pacific | बेंगुएला |
@@ -105,6 +108,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ocean ↔ Area & Depth ↔ Salinity / Features
+
 | Ocean | Area & Depth | Salinity / Features | Key Historical & Geographic Facts |
 |-------|--------------|---------------------|-----------------------------------|
 | **Pacific** | ~166.24 million sq. km; Avg depth ~**4,200 m** (deepest ocean) | ~35‰ | Named *Pacific* (meaning calm or peaceful) by **Ferdinand Magellan** during world circumnavigation. Mariana Trench is deepest point (11,033 m). Contains >20,000 islands, mostly volcanic or coral. |
@@ -114,6 +120,9 @@ hide:
 | **Arctic** | ~13.23 million sq. km; Avg depth ~**1,500 m** (shallowest ocean) | **Least salinity (~20‰)** | Smallest ocean, centered on the North Pole within the Arctic Circle. Largely ice-covered year-round with widest continental shelves. |
 
 ---
+
+
+### Comparative Matrix: Sea ↔ Just Remember This
 
 | Sea | Just remember this |
 |-----|--------------------|
@@ -129,6 +138,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Direction ↔ Sea ↔ Easy Cue
+
 | Direction | Sea | Easy cue |
 |-----------|-----|----------|
 | **North (12)** | **Black Sea** | Cold wall **above** Türkiye |
@@ -138,6 +150,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Letter ↔ Sea
+
 | Letter | Sea |
 |--------|-----|
 | **M** | **Mediterranean** |
@@ -146,6 +161,9 @@ hide:
 | **A** | **Aral** |
 
 ---
+
+
+### Comparative Matrix: Sea / Water Body ↔ Coastal Countries ↔ Classic “Does Not” Trap
 
 | Sea / water body | Coastal countries (core list) | Classic “does NOT” trap |
 |------------------|-------------------------------|-------------------------|
@@ -163,6 +181,9 @@ hide:
 | **South China Sea** | China, Taiwan, Vietnam, Philippines, Malaysia, Brunei, Indonesia (parts) | — |
 
 ---
+
+
+### Comparative Matrix: Name ↔ Where ↔ Opens Into
 
 | Name | Where | Opens into | Note |
 |------|-------|------------|-----------|
@@ -190,6 +211,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Step ↔ Depth / Slope ↔ What It Is
+
 | Step | Depth / slope | What it is | Key fact |
 |------|----------------|------------|-----------|
 | **Continental shelf** | Shore to **shelf break ~100–200 m**; slope ≤1°; ~**7.5%** of ocean area; avg width ~**80 km** | Drowned edge of the continent | Rich in **fisheries and oil/gas**. World’s widest shelves are **Siberian / Arctic**. India’s **west shelf is wider than the east** (Gujarat–Mumbai / Khambhat up to ~300 km; Konkan–Kerala narrower). The east shelf is narrower overall but carries big **delta / Bengal Fan** sediment. Oil pair: **Bombay High** (west) and KG basin (east) |
@@ -203,6 +227,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Form ↔ Quick Recall
+
 | Form | Quick recall |
 |------|--------------|
 | Seamount | Peaked undersea volcano (>1000 m) |
@@ -214,6 +241,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ridge ↔ Fact
+
 | Ridge | Fact |
 |-------|------|
 | Mid-Atlantic | S-shaped; **Telegraphic Plateau** on the **North** arm |
@@ -224,6 +254,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Word ↔ Where
+
 | Word | Where |
 |------|--------|
 | Neritic | Over the **shelf** |
@@ -232,6 +265,9 @@ hide:
 | **Hadal** | Inside the **trench** |
 
 ---
+
+
+### Comparative Matrix: Deposit ↔ Fact
 
 | Deposit | Fact |
 |---------|------|
@@ -245,6 +281,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ocean ↔ Deepest Point ↔ Exact Max Depth
+
 | Ocean | Deepest Point (Trench) | Exact Max Depth | Geographical Location |
 |-------|------------------------|-----------------|-----------------------|
 | **Pacific** | **Mariana Trench** (Challenger Deep) | **11,033 m** (~36,201 ft) | Near Guam / Mariana Islands (W. Pacific) |
@@ -254,6 +293,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Ocean ↔ Deepest Point
+
 | List-I (Ocean) | List-II (Deepest point) |
 |----------------|-------------------------|
 | A. Pacific | 1. Sunda Trench |
@@ -262,6 +304,9 @@ hide:
 | D. Atlantic | 4. Molloy Deep |
 
 ---
+
+
+### Ocean Currents: Characteristics & Climatic Effects
 
 | Current | Type |
 |---------|------|
@@ -276,6 +321,9 @@ hide:
 
 ---
 
+
+### Ocean Currents: Characteristics & Climatic Effects
+
 | Current | Type |
 |---------|------|
 | **Gulf Stream** / Florida | **Warm** |
@@ -289,6 +337,9 @@ hide:
 
 ---
 
+
+### Ocean Currents: Characteristics & Climatic Effects
+
 | Current | Type |
 |---------|------|
 | **Agulhas** | **Warm** current off SE Africa — the classic **Indian Ocean** option (not Florida, Canary or Kurile) |
@@ -299,6 +350,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Belt ↔ Salinity
+
 | Belt | Salinity |
 |------|----------|
 | **Tropics of Cancer / Capricorn** | **Maximum** in the open ocean — high evaporation, less rain |
@@ -306,6 +360,9 @@ hide:
 | Poles | Lower (ice melt, low evaporation) |
 
 ---
+
+
+### Lakes, Waterfalls & Water Reservoirs
 
 | Hypersaline lake | Approx. salinity | Place note |
 |------------------|------------------|------------|
@@ -316,6 +373,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Quick Recall
+
 | Type | Quick recall |
 |------|--------------|
 | Spring | Syzygy (new/full); **large** range |
@@ -325,6 +385,9 @@ hide:
 | Mixed | Unequal highs / lows |
 
 ---
+
+
+### Comparative Matrix: Item ↔ Fact
 
 | Item | Fact |
 |------|------|
@@ -406,6 +469,9 @@ hide:
 
 ---
 
+
+### Railway Zones & Administrative Headquarters
+
 | Zone | Breadth |
 |------|---------|
 | **Territorial sea** | **12 nautical miles** — full sovereignty, with innocent passage |
@@ -416,6 +482,9 @@ hide:
 | **The Area** | Seabed beyond national jurisdiction — **common heritage**, managed by the **ISA** (Kingston, Jamaica) |
 
 ---
+
+
+### Comparative Matrix: Ground ↔ Why
 
 | Ground | Why |
 |--------|-----|
@@ -428,12 +497,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Arctic ↔ Antarctic
+
 | | Arctic | Antarctic |
 |--|--------|-----------|
 | Nature | Ocean + sea ice + rim lands | **Continent** + ice sheet |
 | India station | **Himadri** (Ny-Ålesund, Svalbard) | **Maitri**, **Bharati** |
 
 ---
+
+
+### Ocean Currents: Characteristics & Climatic Effects
 
 | Current | Type | Ocean |
 |---------|------|-------|
@@ -443,6 +518,9 @@ hide:
 | 4 California | **Cold** | Pacific, W USA |
 
 ---
+
+
+### Comparative Matrix: Sea ↔ Bordering Country
 
 | Sea | Bordering country |
 |-----|-------------------|
@@ -454,6 +532,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Ocean Currents ↔ Nature & Basins
+
 | List-I | List-II |
 |--------|---------|
 | A. Gulf Stream | 1. Pacific Ocean |
@@ -462,6 +543,9 @@ hide:
 | D. West Australian Current | 4. Warm current |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -472,6 +556,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Pacific Ocean | 1. Java Trench |
@@ -480,6 +567,9 @@ hide:
 | D. Arctic Ocean | 4. Puerto Rico Trench |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -490,6 +580,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Strait ↔ Between
+
 | Strait | Between |
 |--------|---------|
 | A. Gibraltar | iii. Africa and Europe |
@@ -498,6 +591,9 @@ hide:
 | D. Hormuz | ii. Gulf of Persia and Gulf of Oman |
 
 ---
+
+
+### Match Matrix: Lakes & Waterfalls ↔ Geographic Locations
 
 | List-I | List-II |
 |--------|---------|
@@ -508,6 +604,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Fact
+
 | Feature | Fact |
 |---|---|
 | 1. Ocean-floor order from shore | Shelf → slope → rise/trench → abyssal plain |
@@ -515,6 +614,9 @@ hide:
 | 3. Continental shelf depth (teaching) | About 200 m; ~7.5% of ocean floor |
 
 ---
+
+
+### Match Matrix: Current ↔ Details
 
 | List-I (Current) | List-II |
 |---|---|
@@ -525,6 +627,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Global Landforms ↔ Locations
+
 | List-I | List-II |
 |---|---|
 | A. Suez Canal opening | 1. 1869 |
@@ -534,6 +639,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Grand Banks | 1. Labrador meets Gulf Stream |
@@ -542,6 +650,9 @@ hide:
 | D. Red Sea form | 4. Axial trough |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

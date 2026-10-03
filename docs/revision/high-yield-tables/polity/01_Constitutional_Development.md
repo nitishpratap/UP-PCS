@@ -96,6 +96,9 @@ hide:
 
 ---
 
+
+### Major Seaports & Coastal Trade Hubs
+
 | Member | Portfolio |
 |--------|-----------|
 | Jawaharlal Nehru | Vice-President; External Affairs & Commonwealth Relations |
@@ -130,6 +133,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Woman Member ↔ Province / Seat
+
 | Woman member | Province / seat (1946 election) |
 |--------------|----------------------------------|
 | Ammu Swaminathan | Madras |
@@ -149,6 +155,9 @@ hide:
 | Annie Mascarene | Travancore–Cochin |
 
 ---
+
+
+### Comparative Matrix: Sub-Committee ↔ Chairman ↔ Focus
 
 | Sub-committee | Chairman | Focus |
 |---------------|----------|-------|
@@ -204,6 +213,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Establishment of Board of Control | 1. Regulating Act, 1773 |
@@ -212,6 +224,9 @@ hide:
 | D. Appointment of Law Member in Governor-General Council | 4. Charter Act, 1833 |
 
 ---
+
+
+### Comparative Matrix: List-X ↔ List-Y
 
 | List-X | List-Y |
 |--------|--------|
@@ -222,6 +237,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Union Constitution Committee | 1. Dr. Rajendra Prasad |
@@ -230,6 +248,9 @@ hide:
 | D. Fundamental Rights Sub-committee | 4. Jawaharlal Nehru |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -241,6 +262,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Fundamental Rights | i. British Constitution |
@@ -249,6 +273,9 @@ hide:
 | D. Union-State Relations | iv. U.S. Bill of Rights |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -259,6 +286,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Regulating Act, 1773 |
@@ -267,6 +297,9 @@ hide:
 | D | Councils Act, 1909 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -277,6 +310,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | UK |
@@ -285,6 +321,9 @@ hide:
 | D | Canada |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|

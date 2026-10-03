@@ -40,6 +40,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Gas ↔ Approx. % ↔ Key Fact
+
 | Gas | Approx. % | Key fact |
 |-----|-----------|-----------|
 | N₂ | 78% | Not GHG |
@@ -49,6 +52,9 @@ hide:
 | H₂O | 0–4% | Variable |
 
 ---
+
+
+### Comparative Matrix: Layer ↔ Approx. Height ↔ Temp Trend
 
 | Layer | Approx. height | Temp trend | Signature |
 |-------|----------------|------------|-----------|
@@ -60,6 +66,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
+
 | List-I | List-II |
 |--------|--------|
 | A. Troposphere | 1. Ozone layer; T rises with height |
@@ -67,6 +76,9 @@ hide:
 | C. Mesosphere | 3. Coldest; most meteors burn |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -76,6 +88,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. N₂ | 1. ~0.04% |
@@ -83,6 +98,9 @@ hide:
 | C. CO₂ | 3. ~21% |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

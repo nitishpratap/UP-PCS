@@ -2811,17 +2811,18 @@
     const questions = [];
 
     detailsList.forEach((details, index) => {
-      const summaryText = details.querySelector('summary')?.textContent || '';
-      // Only parse details that are answer reveal blocks
-      if (!/show answer|answer|solution|view logic/i.test(summaryText)) return;
+      try {
+        const summaryText = details.querySelector('summary')?.textContent || '';
+        // Only parse details that are answer reveal blocks
+        if (!/show answer|answer|solution|view logic/i.test(summaryText)) return;
 
-      const answerBody = details.innerHTML;
-      // Extract correct answer letter: Ans: B, Correct Answer: D, **Correct Answer:** **C**, etc.
-      const ansMatch = answerBody.match(/(?:\*\*|<strong>)?(?:Ans|Correct Answer|Answer):?(?:\*\*|<\/strong>)?\s*:?\s*(?:\*\*|<strong>)?([A-D])(?:\*\*|<\/strong>)?/i) ||
-                       answerBody.match(/(?:Ans|Correct Answer|Answer)\s*:\s*\*?\*?([A-D])\*?\*?/i) ||
-                       answerBody.match(/\*?\*?([A-D])\*?\*?\s*(?:is correct|only)/i);
-      const correctLetter = ansMatch ? ansMatch[1].toUpperCase() : null;
-      if (!correctLetter) return; // Skip if no clear answer letter
+        const answerBody = details.innerHTML;
+        // Extract correct answer letter: Ans: B, Correct Answer: D, **Correct Answer:** **C**, etc.
+        const ansMatch = answerBody.match(/(?:\*\*|<strong>)?(?:Ans|Correct Answer|Answer)\.?:?(?:\*\*|<\/strong>)?\s*:?\s*(?:\*\*|<strong>)?\(?([A-D])\)?(?:\*\*|<\/strong>)?/i) ||
+                         answerBody.match(/(?:Ans|Correct Answer|Answer)\.?:?\s*\*?\*?\(?([A-D])\)?\*?\*?/i) ||
+                         answerBody.match(/\*?\*?\(?([A-D])\)?\*?\*?\s*(?:is correct|only)/i);
+        const correctLetter = ansMatch ? ansMatch[1].toUpperCase() : null;
+        if (!correctLetter) return; // Skip if no clear answer letter
 
       // Extract question and options by looking at preceding elements
       let curr = details.previousElementSibling;
@@ -2892,6 +2893,9 @@
         explanation_html: answerBody,
         raw_html: combinedHtml
       });
+    } catch (err) {
+      console.warn('Question extract item error:', err);
+    }
     });
 
     if (questions.length === 0) {
@@ -4026,8 +4030,20 @@
     const bankSub = document.getElementById('st-kpi-bank-sub');
     if (!bankVal) return;
 
+    // For revision notes, the note's own 15 MCQs are the primary target
+    if (topicInfo.isRevision) {
+      const domQs = extractChapterQuestions();
+      if (domQs.length > 0) {
+        bankVal.textContent = `${domQs.length} Questions`;
+        if (bankSub) bankSub.textContent = `Revision Practice MCQs`;
+        return;
+      }
+    }
+
     try {
-      const res = await authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}&limit=1`);
+      const subToFetch = topicInfo.isRevision ? (topicInfo.originalSubject || topicInfo.subject) : topicInfo.subject;
+      const topToFetch = topicInfo.isRevision ? (topicInfo.originalTopic || topicInfo.topic) : topicInfo.topic;
+      const res = await authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(subToFetch)}&topic=${encodeURIComponent(topToFetch)}&limit=1`);
       if (res.ok) {
         const data = await res.json();
         if (data.total_available > 0) {
@@ -4045,6 +4061,7 @@
       if (bankSub) bankSub.textContent = `Extracted from Chapter Note`;
     } else {
       bankVal.textContent = `0 Questions`;
+      if (bankSub) bankSub.textContent = `No questions found`;
     }
   }
 
@@ -5138,26 +5155,49 @@
         options: (q.options && typeof q.options === 'object') ? q.options : { A: 'Option A', B: 'Option B', C: 'Option C', D: 'Option D' }
       }));
     } else {
-      try {
-        const queryParams = new URLSearchParams({
-          subject: topicInfo.subject,
-          topic: topicInfo.slug || topicInfo.topic,
-          chapter: topicInfo.slug || topicInfo.topic,
-          title: topicInfo.title || '',
-          shuffle: 'true'
-        });
-        const res = await authFetch(`${API_BASE}/chapter-questions?${queryParams.toString()}`);
-        if (res.ok) {
-          const data = await res.json();
-          if (data.questions && data.questions.length > 0) {
-            loadedQuestions = data.questions;
-          }
+      // 1. On revision desks, if not requesting large DB exam drill, use the chapter's own 15 revision MCQs
+      if (topicInfo.isRevision && !testOptions.useDbQuestions) {
+        const domQuestions = extractChapterQuestions();
+        if (domQuestions.length > 0) {
+          loadedQuestions = domQuestions.map((q, idx) => ({
+            q_id: `${topicInfo.subject}_${topicInfo.topic}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
+            q_num: idx + 1,
+            q_header: q.q_header || `Revision Practice — Q${idx + 1}`,
+            category: q.category || 'practice',
+            section_title: q.section_title || '',
+            stem: q.stem,
+            options: q.options,
+            correct_answer: q.correct_answer,
+            explanation: q.explanation_html
+          }));
         }
-      } catch (e) {
-        console.warn('Backend questions fetch failed:', e);
       }
 
-      // Fallback to DOM questions if database returned 0
+      // 2. Fetch from backend if loadedQuestions is still empty
+      if (loadedQuestions.length === 0) {
+        try {
+          const subToQuery = topicInfo.isRevision ? (topicInfo.originalSubject || topicInfo.subject) : topicInfo.subject;
+          const topToQuery = topicInfo.isRevision ? (topicInfo.originalTopic || topicInfo.topic) : (topicInfo.slug || topicInfo.topic);
+          const queryParams = new URLSearchParams({
+            subject: subToQuery,
+            topic: topToQuery,
+            chapter: topToQuery,
+            title: topicInfo.title || '',
+            shuffle: 'true'
+          });
+          const res = await authFetch(`${API_BASE}/chapter-questions?${queryParams.toString()}`);
+          if (res.ok) {
+            const data = await res.json();
+            if (data.questions && data.questions.length > 0) {
+              loadedQuestions = data.questions;
+            }
+          }
+        } catch (e) {
+          console.warn('Backend questions fetch failed:', e);
+        }
+      }
+
+      // 3. Fallback to DOM questions if database returned 0
       if (loadedQuestions.length === 0) {
         const domQuestions = extractChapterQuestions();
         if (domQuestions.length > 0) {

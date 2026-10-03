@@ -39,6 +39,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Body ↔ Hq / Year ↔ Job
+
 | Body | HQ / year | Job |
 |------|-----------|-----|
 | WMO | Geneva | Weather/climate cooperation; IPCC parent |
@@ -64,6 +67,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 | --- | --- |
 | 1. UNDP | A. Emissions Gap Report |
@@ -73,6 +79,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. UNDP | 1. Rome; SOFO |
@@ -80,6 +89,9 @@ hide:
 | C. UNESCO | 3. Paris; WH + MAB |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -89,6 +101,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Minerals ↔ Major Mining Basins
+
 | List-I | List-II |
 |--------|--------|
 | A. UNESCO | 1. Environment coordination |
@@ -96,6 +111,9 @@ hide:
 | C. UNDP | 3. Development coordination |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

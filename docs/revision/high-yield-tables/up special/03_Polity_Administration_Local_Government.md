@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Element A ↔ Confused Element B ↔ Critical Differentiating Fact & Exam Anchor
+
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
 | **Lucknow (State Capital)** | **Prayagraj (Judicial Capital)** | Executive and Legislature sit in **Lucknow**; Principal Seat of High Court and UPPSC are in **Prayagraj**. |

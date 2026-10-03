@@ -69,6 +69,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Split ↔ Meaning ↔ Picture
+
 | Split | Meaning | picture |
 |-------|---------|--------------|
 | **Subsistence** | Family food; little surplus | Wet-rice monsoon Asia; shifting tropics |
@@ -80,6 +83,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Intensive Subsistence ↔ Extensive Commercial Grain
+
 | | Intensive subsistence | Extensive commercial grain |
 |--|----------------------|----------------------------|
 | Land | Tiny holdings | Very large holdings |
@@ -90,6 +96,9 @@ hide:
 | Surplus | Thin; local markets | Export belt |
 
 ---
+
+
+### Comparative Matrix: System ↔ Climate / Where ↔ What Is Grown / Raised
 
 | System | Climate / where | What is grown / raised | Note |
 |--------|-----------------|------------------------|------------|
@@ -106,6 +115,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Recall
+
 | Term | Recall |
 |------|--------|
 | **Viticulture** | Grapes (wine) — France, Italy, Spain, California, Chile, Australia, Cape |
@@ -115,6 +127,9 @@ hide:
 | **Floriculture** | Flowers (Netherlands auction) |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Core Belt
 
 | Type | Core belt |
 |------|-----------|
@@ -134,6 +149,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Patch ↔ Where
+
 | Patch | Where |
 |-------|-------|
 | 1 | Mediterranean Sea basin (Spain, Italy, Greece, Levant (लेवेंट), Maghreb) |
@@ -144,6 +162,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Usual Key Fact
+
 | | Usual key fact |
 |--|-----------------|
 | **Producers (volume)** | **China > India > Indonesia > Bangladesh > Vietnam** |
@@ -152,6 +173,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Usual Key Fact
+
 | | Usual key fact |
 |--|-----------------|
 | **Producers (volume)** | **China, India, Russia, USA, France, Canada, Australia, Ukraine** |
@@ -159,6 +183,9 @@ hide:
 | Trap | India/China = huge **producers**, not the Prairie-style **export** story |
 
 ---
+
+
+### Comparative Matrix: Belt ↔ Where
 
 | Belt | Where |
 |------|-------|
@@ -195,6 +222,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Fact
+
 | Feature | Fact |
 |---------|------|
 | Climate | Tropical / subtropical; **no severe frost** |
@@ -207,6 +237,9 @@ hide:
 
 ---
 
+
+### Crop Cultivation, Growing Conditions & Producing States
+
 | Crop | India | Do not write |
 |------|------------|--------------|
 | Tea | Assam (volume), WB Darjeeling, Nilgiri (नीलगिरि) | Gujarat — Tea |
@@ -217,6 +250,9 @@ hide:
 | Banana | India = huge **producer**; **Ecuador** = classic **exporter** | India = world’s banana-ship king |
 
 ---
+
+
+### Crop Cultivation, Growing Conditions & Producing States
 
 | Place | Crop | Credit / trap |
 |-------|------|----------------|
@@ -229,6 +265,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Processing ↔ Where The Puts It
+
 | Type | Processing | Where the puts it |
 |------|------------|------------------------|
 | **Black** | Fully **fermented** | India, Sri Lanka, Kenya |
@@ -236,6 +275,9 @@ hide:
 | **Oolong** | Semi-fermented | Taiwan / SE China |
 | **CTC** | Crush–tear–curl (granular, tea-bag) | Indian plains/Assam bulk |
 | **Orthodox** | Whole-leaf | Darjeeling, Ceylon high-grown |
+
+### Comparative Matrix: Region ↔ Fact
+
 | Region | Fact |
 |--------|------|
 | **China** | Usual **largest producer**; original home; green tea |
@@ -246,6 +288,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Character ↔ Where
+
 | Type | Character | Where |
 |------|-----------|-------|
 | **Arabica** (*C. arabica*) | Milder aroma; higher hills (~600–1600 m) | Brazilian highlands, **Colombia**, Ethiopia, India’s Ghats |
@@ -253,6 +298,9 @@ hide:
 | **Liberica** | Secondary example | W Africa pockets |
 
 ---
+
+
+### Comparative Matrix: Country ↔ Note
 
 | Country | Note |
 |---------|------------|
@@ -265,6 +313,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Country ↔ Fact
+
 | Country | Fact |
 |---------|------|
 | **Côte d’Ivoire (Ivory Coast)** | World’s usual **#1** |
@@ -275,6 +326,9 @@ hide:
 | **Latvia** | **NOT** a cocoa country (2021) — Baltic **temperate forest**, not equator |
 
 ---
+
+
+### Comparative Matrix: Country ↔ Fact
 
 | Country | Fact |
 |---------|------|
@@ -303,6 +357,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Item ↔ Note
+
 | Item | Note |
 |------|------|
 | **Cattle numbers** | **India** often #1 inventory; then Brazil, China, USA |
@@ -314,6 +371,9 @@ hide:
 | **Silk** | **China** volume; India second-story (mulberry + wild silks) |
 
 ---
+
+
+### Comparative Matrix: Local Name ↔ Where
 
 | Local name | Where |
 |------------|-------|
@@ -328,6 +388,9 @@ hide:
 | **Bringa / koman** | Odisha pockets |
 
 ---
+
+
+### Comparative Matrix: Local Name ↔ Where
 
 | Local name | Where |
 |------------|-------|
@@ -344,6 +407,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Note ↔ Note
+
 | Note | Note |
 |------|------|
 | **HYV package** | Seeds + water + fertiliser + pesticide — same logic worldwide |
@@ -354,6 +420,9 @@ hide:
 | **Golden rice** | **Vitamin A** (correct 2018 pair) |
 
 ---
+
+
+### Crop Cultivation, Growing Conditions & Producing States
 
 | Crop / item | Usual coaching leader / note |
 |-------------|------------------------------|
@@ -378,6 +447,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Note ↔ Fact
+
 | Note | Fact |
 |-----|------|
 | **Mocha** coffee | **Yemen** (port (बंदरगाह) name) |
@@ -396,6 +468,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Recall
+
 | Term | Recall |
 |------|--------|
 | **Apiculture** | Bees / honey |
@@ -407,6 +482,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Shifting Name ↔ Region
+
 | List-I (Shifting name) | List-II (Region) |
 |-------------------------|------------------|
 | A. Jhum | 1. Mexico |
@@ -415,6 +493,9 @@ hide:
 | D. Roca | 4. Brazil |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -425,6 +506,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Crop / Tag ↔ Association
+
 | List-I (Crop / tag) | List-II (Association) |
 |----------------------|------------------------|
 | A. Podu | 1. Myanmar |
@@ -433,6 +517,9 @@ hide:
 | D. Shahtoosh | 4. Chiru |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

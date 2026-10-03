@@ -152,6 +152,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Cripps Mission | 1. 1945 interim executive / Simla conference season |
@@ -160,6 +163,9 @@ hide:
 | D. Mountbatten Plan | 4. 3 June 1947 partition + transfer framework |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -170,6 +176,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Ballia | 1. Prati Sarkar |
@@ -178,6 +187,9 @@ hide:
 | D. Lakshmi Sehgal | 4. Rani of Jhansi Regiment |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|

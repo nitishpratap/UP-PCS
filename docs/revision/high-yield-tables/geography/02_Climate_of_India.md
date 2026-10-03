@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Correct ↔ Hindi
+
 | A | B | Correct | Hindi |
 |---|----|------|-------|
 | SW monsoon | NE monsoon | Jun–Sep most of India vs Oct–Dec **SE coast only** | दक्षिण-पश्चिम / उत्तर-पूर्व मानसून |
@@ -73,6 +76,9 @@ hide:
 | Kerala | ~**1 June** |
 | Mumbai / Kolkata | ~**10 June** |
 | Delhi | ~**29 June** |
+
+### Comparative Matrix: Branch ↔ Lock
+
 | Branch | Lock |
 |--------|------|
 | Arabian Sea | Windward Western Ghats wet; leeward Deccan dry |
@@ -81,6 +87,9 @@ hide:
 | Plains rain | Declines **east → west** |
 
 ---
+
+
+### Comparative Matrix: Factor ↔ What It Does In India
 
 | Factor | What it does in India |
 |--------|------------------------|
@@ -95,6 +104,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Station ↔ January ↔ Control
+
 | Station | January (approx.) | Control |
 |---------|-------------------|---------|
 | Drass / Ladakh (लद्दाख) | −20 to −40 °C | Altitude plus continentality |
@@ -105,6 +117,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Climate Contrast ↔ Main Control
+
 | Climate contrast | Main control |
 |------------------|--------------|
 | Chennai warmer than Kolkata (annual) | **Latitude** (Chennai farther south) |
@@ -113,6 +128,9 @@ hide:
 | Sutlej (सतलुज)–Ganga plain winter rain | **Western Disturbances** |
 
 ---
+
+
+### Comparative Matrix: Surface ↔ Albedo ↔ Fact
 
 | Surface | Albedo | Fact |
 |---------|--------|------|
@@ -135,6 +153,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Sr. ↔ Season ↔ Hindu Months
+
 | Sr. | Season (*Ritu*) | Hindu Months | Gregorian Months | Key Characteristics |
 |:---:|-----------------|--------------|------------------|---------------------|
 | 1 | **Vasanta** (वसंत - Spring) | Chaitra – Vaishakha | March – April | Mild pleasant weather, blooming flowers, new foliage |
@@ -146,6 +167,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ When / Where ↔ What Happens
+
 | Type | When / where | What happens |
 |------|--------------|--------------|
 | **Radiation inversion** | Clear, calm **winter nights** on the Indo-Gangetic plain | Ground cools fast; fog / smog trap over Delhi, UP, Bihar |
@@ -154,6 +178,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Hemisphere ↔ Deflection
+
 | Hemisphere | Deflection |
 |------------|------------|
 | **Northern** (India) | to the **right** |
@@ -161,12 +188,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Spell ↔ Trough Position ↔ Rain
+
 | Spell | Trough position | Rain |
 |-------|-----------------|------|
 | **Active monsoon** (सक्रिय) | Over the **Ganga plain** | Plains wet (UP, Bihar, MP) |
 | **Break monsoon** (विराम मानसून) | Over the **Himalaya** | Central India dry; foothills wet |
 
 ---
+
+
+### Comparative Matrix: Layer ↔ Height ↔ Fact
 
 | Layer | Height | Fact |
 |-------|--------|------|
@@ -190,15 +223,24 @@ hide:
 | 5 | Other surface air from 30° moves toward 60° | **Westerlies** |
 | 6 | Cold air sinks at the poles | Polar **high** |
 | 7 | Polar air moves toward 60° and meets westerlies | Subpolar **low**; **polar easterlies** |
+
+### Comparative Matrix: Cell ↔ Span ↔ Role
+
 | Cell | Span | Role |
 |------|------|------|
 | **Hadley cell** | Equator to ~30° | Rise at ITCZ, sink at 30°, trades return |
 | **Ferrel cell** | ~30° to 60° | Mid-latitude belt of the westerlies |
 | **Polar cell** | ~60° to pole | Polar easterlies; rise near 60° |
+
+### Comparative Matrix: Nickname ↔ Meaning
+
 | Nickname | Meaning |
 |----------|---------|
 | **Doldrums** | Rainy, weak-surface-wind belt of the ITCZ |
 | **Horse latitudes** | Dry, calm subtropical highs near 30° |
+
+### Comparative Matrix: Belt ↔ Latitude ↔ Pressure
+
 | Belt | Latitude | Pressure | Weather |
 |------|----------|----------|---------|
 | Equatorial low / **ITCZ** | Near 0° (shifts with the Sun) | **Low** | Rising air, cloud, heavy rain |
@@ -207,6 +249,9 @@ hide:
 | Polar high | About **90°** | **High** | Cold, dry outflow |
 
 ---
+
+
+### Comparative Matrix: Season ↔ Itcz Position ↔ Effect On India
 
 | Season | ITCZ position | Effect on India |
 |--------|---------------|-----------------|
@@ -226,6 +271,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: System ↔ Months ↔ Where The Rain Falls
+
 | System | Months | Where the rain falls | Trap |
 |--------|--------|----------------------|------|
 | **South-west monsoon** | Jun–Sep | Most of India (~75–90% of annual rain) | TN SE coast stays **dry** |
@@ -235,10 +283,16 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Concept ↔ Fact
+
 | Concept | Fact |
 |---------|------|
 | **Thermal** | Land heats faster than sea → summer low over India pulls ocean air in |
 | **Dynamic (Flohn)** | Pressure belts and the ITCZ shift with the Sun; monsoon is largely that seasonal shift |
+
+### Comparative Matrix: Step ↔ What Happens ↔ Note
+
 | Step | What happens | Note |
 |------|--------------|------|
 | 1 | Tibetan Plateau / NW India heat strongly in late spring | Thermal **low** over NW India–Pakistan |
@@ -251,6 +305,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Place ↔ Normal Onset ↔ Withdrawal
+
 | Place | Normal onset | Withdrawal (start) |
 |-------|----------------|--------------------|
 | Kerala | about 1 June | Extreme south last (December for NE rains) |
@@ -262,12 +319,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Branch ↔ Path ↔ Wet Places
+
 | Branch | Path | Wet places | Dry / weak places |
 |--------|------|------------|-------------------|
 | **Arabian Sea branch** | Arabian Sea → Western Ghats → inland (also a stream toward central India / Ganga that later meets the Bay branch) | Konkan, Malabar, Goa (गोवा); some rain into Gujarat / western MP | Leeward Deccan and TN rain shadow; **Chhattisgarh basin** is little fed by this branch |
 | **Bay of Bengal branch** | BoB → NE India → curves west along Himalaya | Assam, Meghalaya, Ganga plain, UP, Bihar | TN coast (sits **parallel** — little orographic lift) |
 
 ---
+
+
+### Comparative Matrix: Pattern ↔ Fact
 
 | Pattern | Fact |
 |---------|------|
@@ -281,6 +344,9 @@ hide:
 
 ---
 
+
+### Railway Zones & Administrative Headquarters
+
 | Zone | Rain (approx.) | Why |
 |------|----------------|-----|
 | Mawsynram / Cherrapunji (**Khasi (खासी) Hills**, Meghalaya) | more than 1100 cm | Bay branch plus orography; Mawsynram = wettest class |
@@ -293,6 +359,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Cause ↔ India Example
+
 | Type | Cause | India example |
 |------|------------|---------------|
 | **Orographic** | Moist wind is forced **up a mountain**, cools, and rains on the windward side | Western Ghats windward vs Deccan; Meghalaya scarp |
@@ -301,6 +370,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Map Line ↔ Meaning
+
 | Map line | Meaning |
 |----------|---------|
 | **Isotherm** | Same temperature |
@@ -308,6 +380,9 @@ hide:
 | **Isohyet** | Same rainfall |
 
 ---
+
+
+### Comparative Matrix: Feature ↔ Retreating Sw Monsoon ↔ North-East Monsoon
 
 | Feature | Retreating SW monsoon | North-east monsoon |
 |---------|----------------------|--------------------|
@@ -330,6 +405,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Item ↔ Note
+
 | Item | Note |
 |------|------|
 | Type | Extra-tropical cyclone |
@@ -341,10 +419,16 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Time ↔ Land Vs Sea ↔ Wind
+
 | Time | Land vs sea | Wind |
 |------|-------------|------|
 | **Day** | Land heats faster → low over land | **Sea breeze** (sea → land) |
 | **Night** | Land cools faster → high over land | **Land breeze** (land → sea) |
+
+### Comparative Matrix: Wind ↔ When ↔ Direction
+
 | Wind | When | Direction | Cause |
 |------|------|-----------|-------|
 | **Anabatic** | Day | Upslope | Slope heats; warm air climbs |
@@ -352,6 +436,9 @@ hide:
 | **Foehn / Chinook** | After crossing a mountain | Warm and dry downslope | Air rains on the windward side, then sinks and warms by compression on the lee |
 
 ---
+
+
+### Comparative Matrix: Name ↔ Region ↔ Season
 
 | Name | Region | Season | Character |
 |------|--------|--------|-----------|
@@ -366,6 +453,9 @@ hide:
 | **Katabatic** | Valleys | **Night** | **Downslope** cold drainage |
 
 ---
+
+
+### Comparative Matrix: Family ↔ Wind ↔ Region
 
 | Family | Wind | Region | trap |
 |--------|------|--------|-----------|
@@ -394,12 +484,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Need ↔ Note
+
 | Need | Note |
 |------|------|
 | Sea surface temperature | About **26–27 °C or more** |
 | Moisture | Deep moist air |
 | Coriolis | Enough spin — usually **5°–30°** latitude |
 | Vertical wind shear | **Low** (strong SW-monsoon shear suppresses many Bay storms in Jul–Sep) |
+
+### Comparative Matrix: Part ↔ Meaning
+
 | Part | Meaning |
 |------|---------|
 | **Eye** | Calm centre with sinking air and clearer skies |
@@ -408,10 +504,16 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Basin ↔ Frequency / Strength ↔ Why
+
 | Basin | Frequency / strength | Why | Hit states |
 |-------|---------------------|-----|------------|
 | **Bay of Bengal** | **More and stronger** | Warm shallow shelf + river freshwater; storm surge (तूफानी महोर्मि) risk high | Odisha, AP, West Bengal, Sundarbans (सुंदरबन) |
 | **Arabian Sea** | Fewer, often weaker | Higher salinity; narrower fetch | Gujarat, Maharashtra, Kerala still take hits |
+
+### Comparative Matrix: Imd Class ↔ Wind
+
 | IMD class | Wind (km/h) |
 |-----------|-------------|
 | Depression | 31–49 |
@@ -421,12 +523,18 @@ hide:
 | Very severe | 118–166 |
 | Extremely severe | 167–221 |
 | **Super cyclone** | **222 or more** |
+
+### Comparative Matrix: Local Storm ↔ Scale ↔ Fact
+
 | Local storm | Scale | Fact |
 |-------------|-------|------|
 | **Thunderstorm / Nor’wester** | Hours; local convection | **Not** a cyclone |
 | **Tropical cyclone** | Days; ocean-scale | Synoptic storm |
 
 ---
+
+
+### Comparative Matrix: Local / Basin Name ↔ Where ↔ Note
 
 | Local / basin name | Where | Note |
 |--------------------|-------|------|
@@ -441,6 +549,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Thinker ↔ Method ↔ Note
+
 | Thinker | Method | Note |
 |---------|--------|-----------|
 | **Köppen** | Temperature + precipitation **letter codes** | India’s Am / Aw / As / BWh / Cwg map |
@@ -448,6 +559,9 @@ hide:
 | **Trewartha** | Modified Köppen | **Not** Thornthwaite |
 
 ---
+
+
+### Comparative Matrix: Letter Clue ↔ Meaning ↔ India Example
 
 | Letter clue | Meaning | India example |
 |-------------|---------|---------------|
@@ -460,6 +574,9 @@ hide:
 | **h** | Hot | Thar **BWh** |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Type ↔ India
 
 | Code | Type | India |
 |------|------|-------|
@@ -474,6 +591,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Köppen Code ↔ Climatic Type ↔ Representative Regions In India
+
 | Köppen Code | Climatic Type | Representative Regions in India |
 |:---:|---|---|
 | **Amw** | Monsoon with short dry season | Western coastal plains south of Goa (Malabar/Konkan), parts of Arunachal/Assam |
@@ -486,6 +606,9 @@ hide:
 | **E / ET** | Polar / Tundra | High mountain belts of Jammu & Kashmir, Ladakh, Himachal Pradesh, Uttarakhand |
 
 ---
+
+
+### Comparative Matrix: Jet ↔ Season ↔ Direction
 
 | Jet | Season | Direction | Where | Role for India |
 |-----|--------|-----------|-------|----------------|
@@ -509,6 +632,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Loo | 1. Pre-monsoon Kerala–Karnataka rain |
@@ -518,6 +644,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Anabatic | 1. Night downslope drainage |
@@ -526,6 +655,9 @@ hide:
 | D. Land breeze | 4. Night wind toward sea |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

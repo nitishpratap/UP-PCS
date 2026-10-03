@@ -42,6 +42,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ghg / Group ↔ Rough Relative Share ↔ Gwp
+
 | GHG / group | Rough relative share (WMO-style stems) | GWP (100-yr) |
 |-------------|----------------------------------------|--------------|
 | CO₂ | ~64% | 1 |
@@ -50,6 +53,9 @@ hide:
 | CFCs + others | ~11% | Very high (F-gases) |
 
 ---
+
+
+### High-Yield Data: Napcc Mission
 
 | # | NAPCC Mission |
 |---|---------------|
@@ -73,6 +79,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Treaty ↔ Year ↔ Focus
+
 | Treaty | Year | Focus |
 |--------|------|-------|
 | UNFCCC | 1992 | Framework |
@@ -82,6 +91,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. CO₂ GWP | 1. ~28–36 |
@@ -90,6 +102,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Carbon sink | 1. Storage process |
@@ -97,6 +112,9 @@ hide:
 | C. Blue carbon | 3. Ocean/coastal sinks |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

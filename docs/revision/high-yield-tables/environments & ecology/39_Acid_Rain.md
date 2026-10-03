@@ -37,6 +37,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ph ↔ Meaning
+
 | pH | Meaning |
 |----|---------|
 | < 5.6 | Acid rain threshold |
@@ -45,6 +48,9 @@ hide:
 | > 7 | Basic |
 
 ---
+
+
+### Comparative Matrix: Receptor ↔ Effect
 
 | Receptor | Effect |
 |----------|--------|
@@ -56,6 +62,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Tool ↔ Cuts
+
 | Tool | Cuts |
 |------|------|
 | FGD | SO₂ |
@@ -66,6 +75,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Wet deposition | 1. Acidic gases/particles without rain |
@@ -73,6 +85,9 @@ hide:
 | C. Main strong path | 3. SO₂ → H₂SO₄ (and NOx → HNO₃) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -82,6 +97,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. H₂SO₄ path | 1. NOx |
@@ -89,6 +107,9 @@ hide:
 | C. Weak baseline | 3. CO₂ → H₂CO₃ |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

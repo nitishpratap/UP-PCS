@@ -26,6 +26,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Concept A ↔ Concept B ↔ Core Distinguishing Fact
+
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Insect (Hexapoda)** | **Arachnid (Spider/Scorpion)** | 3 pairs of legs (6 legs), 3 body segments, antennae, wings vs **4 pairs of legs (8 legs)**, 2 body segments, no wings, no antennae | कीट (6 पैर) / अष्टपाद (8 पैर) |
@@ -109,6 +112,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Class ↔ Heart Chambers ↔ Circulation Type
+
 | Class | Heart Chambers | Circulation Type | Nature of Blood Flowing Through Heart |
 |-------|----------------|------------------|--------------------------------------|
 | **Pisces (Fish)** | **2 Chambers** (1 Atrium + 1 Ventricle) | **Single Circulation** | Exclusively deoxygenated **Venous Blood** (pumps blood to gills for oxygenation, then directly to tissues) |
@@ -119,6 +125,9 @@ hide:
 | **Mammalia (Mammals)** | **4 Chambers** (2 Atria + 2 Ventricles) | **Complete Double** | Complete separation; left systemic aortic arch persists |
 
 ---
+
+
+### Comparative Matrix: Vector Insect ↔ Causative Pathogen ↔ Disease Transmitted
 
 | Vector Insect | Causative Pathogen | Disease Transmitted | Pathogen Nature |
 |---------------|-------------------|---------------------|-----------------|
@@ -196,6 +205,9 @@ hide:
 | 30 | Amphibians = first vertebrates to live on land; "biological thermometers" of ecosystem |
 
 ---
+
+
+### Match Matrix: Animal Product / Breed ↔ Source Organism / Origin
 
 | List-I (Animal Product / Breed) | List-II (Source Organism / Origin) |
 |---|---|

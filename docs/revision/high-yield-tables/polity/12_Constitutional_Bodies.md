@@ -29,6 +29,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Correct ↔ Hindi
+
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
 | **CEC** removal | **EC** removal | Like **SC judge** (impeachment) | Only on **CEC’s recommendation** |
@@ -70,6 +73,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Spsc ↔ Jpsc
+
 | | **SPSC** | **JPSC** |
 |--|----------|----------|
 | Who | Each State (**315**) | **Two or more** States: legislatures **resolve** + **Parliament** by law |
@@ -81,6 +87,9 @@ hide:
 | Expenses | Charged on **State** CFI | Shared as the law provides |
 
 ---
+
+
+### Comparative Matrix: Union Fc ↔ Sfc
 
 | | **Union FC** | **SFC (243I/Y)** |
 |--|--------------|------------------|
@@ -113,11 +122,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Uk Comptroller ↔ Indian Cag
+
 | UK Comptroller | Indian CAG |
 |----------------|------------|
 | Can **block** a payment **before** it is made | **Audits after** spend — “Comptroller” in the name is **historical** |
 
 ---
+
+
+### Comparative Matrix: Attorney General ↔ Advocate General
 
 | | **Attorney General (76)** | **Advocate General (165)** |
 |--|---------------------------|----------------------------|
@@ -132,6 +147,9 @@ hide:
 | First | **M.C. Setalvad** | — |
 
 ---
+
+
+### Comparative Matrix: Art. 340 ↔ Art. 338B
 
 | | **Art. 340** | **Art. 338B (NCBC)** |
 |--|--------------|----------------------|
@@ -211,6 +229,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. First CEC | 1. V.S. Ramadevi |
@@ -218,6 +239,9 @@ hide:
 | C. Multi-member EC from | 3. 1993 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

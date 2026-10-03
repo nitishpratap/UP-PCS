@@ -31,6 +31,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Part ↔ Roman ↔ Subject Matter Covered
+
 | Part | Roman | Subject Matter Covered | Article Span | Key Prelims Takeaway / Recurring Trap |
 |---|---|---|---|---|
 | **Part I** | **I** | **The Union and its Territory** | **Arts. 1–4** | Art. 1: "India, that is Bharat, shall be a Union of States"; Art. 3: Parliament alters state boundaries/names by simple majority |
@@ -250,6 +253,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Writ Name ↔ Literal Latin Meaning ↔ Purpose & Grounds For Issue
+
 | Writ Name | Literal Latin Meaning | Purpose & Grounds for Issue | Against Whom Issued | Exceptions (Cannot be Issued Against) |
 |---|---|---|---|---|
 | **Habeas Corpus** (बन्दी प्रत्यक्षीकरण) | **"To have the body of"** | Remedy against **unlawful detention or illegal custody**; court orders the detaining authority to produce the detained person before it to examine legality of detention | **Both Public Authorities and Private Individuals** | 1. Detention is lawful  <br>2. Proceeding is for contempt of court/legislature  <br>3. Detention is by competent court  <br>4. Outside court's territorial jurisdiction |
@@ -289,6 +295,9 @@ hide:
 | **Punchhi Commission** | **2007–2010** | Central Govt (Justice **M.M. Punchhi**) | 1. Localized emergency (targeted under Art. 355/356 without dissolving state assembly)  <br>2. Governor's tenure: fixed 5 years, removal only through impeachment by State Legislature  <br>3. Governor should not be Chancellor of state universities |
 
 ---
+
+
+### Comparative Matrix: Water Dispute Tribunal ↔ Year Set Up ↔ Riparian States Involved In Dispute
 
 | Water Dispute Tribunal | Year Set Up | Riparian States Involved in Dispute |
 |---|---|---|

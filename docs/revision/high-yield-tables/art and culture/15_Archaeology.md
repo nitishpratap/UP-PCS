@@ -63,6 +63,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Method ↔ Tag
+
 | Method | Tag |
 |--------|-----|
 | 1. Stratigraphy | Lower undisturbed layer is older |
@@ -70,6 +73,9 @@ hide:
 | 3. C-14 | Direct dating of bare stone seals |
 
 ---
+
+
+### Comparative Matrix: Person ↔ Tag
 
 | Person | Tag |
 |--------|-----|
@@ -79,6 +85,9 @@ hide:
 | 4. B. B. Lal | Kalibangan–Hastinapur |
 
 ---
+
+
+### Comparative Matrix: Site ↔ Tag
 
 | Site | Tag |
 |------|-----|

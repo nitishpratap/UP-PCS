@@ -23,6 +23,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Distinguishing Fact / Correct Match ↔ Hindi Terminology
+
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
 |---|---|-------------------------------------|-------------------|
 | **Environment** | **Ecology** | Total biotic and abiotic surroundings influencing an organism vs the scientific *study* of interactions between organisms and environment | पर्यावरण / पारिस्थितिकी |
@@ -75,6 +78,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Source ↔ Definition
+
 | Source | Definition |
 |--------|------------|
 | **NCERT (Class 12)** | Sum of all **biotic + abiotic** factors influencing living organisms ← **most asked** |
@@ -84,11 +90,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Abiotic Factor Category ↔ Includes ↔ Hindi
+
 | Abiotic factor category | Includes | Hindi |
 |-------------------------|----------|-------|
 | **Edaphic** | Soil texture, minerals, pH, moisture | मृदा संबंधी |
 | **Climatic** | Temperature, rainfall, wind, humidity | जलवायु संबंधी |
 | **Topographic** | Altitude, slope, aspect | स्थलाकृति संबंधी |
+
+### Comparative Matrix: Biotic Group ↔ Also Called ↔ Function
+
 | Biotic group | Also called | Function |
 |--------------|-------------|----------|
 | **Producers** | Autotrophs | Convert solar energy → chemical energy |
@@ -97,6 +109,9 @@ hide:
 | **Detritivores** | — | Feed on detritus (earthworms, termites) |
 
 ---
+
+
+### Comparative Matrix: Basis ↔ Categories
 
 | Basis | Categories |
 |-------|------------|
@@ -110,6 +125,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Aquatic Type ↔ Description ↔ Indian Example
+
 | Aquatic type | Description | Indian example |
 |--------------|-------------|----------------|
 | **Marine** | Oceans/seas — high salinity | Arabian Sea, Bay of Bengal |
@@ -117,6 +135,9 @@ hide:
 | **Lotic** | **Flowing** freshwater | Ganga, Yamuna |
 | **Estuarine** | River meets sea — brackish | Sundarbans (सुंदरबन) delta (डेल्टा) |
 | **Wetland** | Transitional — neither fully land nor water | Chilika, Keoladeo (केवलादेव) |
+
+### Railway Zones & Administrative Headquarters
+
 | Marine zone | Location | Key fact |
 |-------------|----------|-----------|
 | **Neritic** | Shallow shelf (0–200 m) | Fisheries, coral, mangroves |
@@ -125,6 +146,9 @@ hide:
 | **Littoral** | Intertidal shore | Barnacles, molluscs |
 
 ---
+
+
+### Railway Zones & Administrative Headquarters
 
 | # | Zone | feature |
 |---|------|--------------|
@@ -141,11 +165,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Model ↔ Proponent ↔ Idea
+
 | Model | Proponent | Idea | Status |
 |-------|-----------|------|--------|
 | **Environmental Determinism** | Ratzel | Environment **dictates** culture/society | Largely **rejected** |
 | **Possibilism** | Vidal de la Blache | Environment offers **possibilities**; humans choose | **Accepted** |
 | **Neo-determinism** | Griffith Taylor | Humans modify environment **within limits** | Balanced view |
+
+### Comparative Matrix: Concept ↔ Definition / Fact
+
 | Concept | Definition / fact |
 |---------|-------------------|
 | **Carrying capacity** | Maximum load an environment can sustain indefinitely. Resource extraction must stay **below** regeneration. Waste must stay **within** absorption capacity |
@@ -156,6 +186,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Meaning
+
 | Term | Meaning |
 |------|---------|
 | 1. Ecology | Functional unit of living + non-living interaction |
@@ -165,6 +198,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Factor Type ↔ Concerned With
+
 | List-I (Factor type) | List-II (Concerned with) |
 |----------------------|--------------------------|
 | A. Edaphic | 1. Slope and altitude |
@@ -172,6 +208,9 @@ hide:
 | C. Topographic | 3. Weather elements |
 
 ---
+
+
+### Match Matrix: Event / Law ↔ Year
 
 | List-I (Event / law) | List-II (Year) |
 |----------------------|----------------|
@@ -182,6 +221,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Day ↔ Date
+
 | Day | Date |
 |-----|------|
 | 1. World Environment Day | 5 June |
@@ -190,6 +232,9 @@ hide:
 | 4. International Day for Biological Diversity | 22 May |
 
 ---
+
+
+### Match Matrix: River ↔ City Association Often Tested
 
 | List-I (River) | List-II (City association often tested) |
 |----------------|-----------------------------------------|

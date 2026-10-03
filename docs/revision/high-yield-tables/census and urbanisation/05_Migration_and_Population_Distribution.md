@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
 | **Arithmetic Density**: $rac{	ext{Total Population}}{	ext{Total Land Area}}$ | **Physiological Density**: $rac{	ext{Total Population}}{	ext{Net Cultivated Arable Land Area}}$ | **Trap**: Arithmetic density uses *total* geographical area; physiological density uses only *arable / cultivated* land area. Physiological density is always much higher than arithmetic density. |

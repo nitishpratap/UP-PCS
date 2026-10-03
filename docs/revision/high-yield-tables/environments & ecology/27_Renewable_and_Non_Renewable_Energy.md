@@ -41,6 +41,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Conventional ↔ Non-Conventional
+
 | Conventional | Non-conventional |
 |--------------|------------------|
 | Coal, oil, gas | Solar, wind, biomass |
@@ -48,6 +51,9 @@ hide:
 | Nuclear | Tidal, geothermal, ocean |
 
 ---
+
+
+### Comparative Matrix: Fuel ↔ Feedstock ↔ Blend Use
 
 | Fuel | Feedstock | Blend use |
 |------|-----------|-----------|
@@ -57,6 +63,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Driver
+
 | Type | Driver |
 |------|--------|
 | Tidal | Moon gravity |
@@ -64,6 +73,9 @@ hide:
 | OTEC | Warm–cold water ΔT |
 
 ---
+
+
+### Comparative Matrix: Source ↔ Key Fact
 
 | Source | Key fact |
 |--------|-----------|
@@ -74,6 +86,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Item ↔ Year/Body
+
 | Item | Year/body |
 |------|-----------|
 | Energy Conservation Act | **2001** |
@@ -81,6 +96,9 @@ hide:
 | Star labeling | Appliance efficiency |
 
 ---
+
+
+### Comparative Matrix: Scheme ↔ What It Trades/Does
 
 | Scheme | What it trades/does |
 |--------|---------------------|
@@ -90,6 +108,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Conventional (India) | 1. Solar, wind, SHP, biomass… |
@@ -97,6 +118,9 @@ hide:
 | C. SHP cut-off | 3. ≤25 MW |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -106,6 +130,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Microbial fuel cell | 1. Non-petroleum paving |
@@ -113,6 +140,9 @@ hide:
 | C. National Hydrogen Board | 3. Set up teaching neighbourhood |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

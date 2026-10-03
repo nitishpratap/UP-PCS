@@ -42,6 +42,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Committee ↔ Year ↔ Decisive Recommendation
+
 | Committee | Year | Decisive Recommendation |
 | :--- | :---: | :--- |
 | **Balwant Rai Mehta** | **1957** | **3-tier system:** Gram Panchayat (village), Panchayat Samiti (block), Zila Parishad (district); National Development Council accepted report in 1958. |
@@ -66,6 +69,9 @@ hide:
 | **M. S. Swaminathan Commission**| **2004–06**| National Commission on Farmers; recommended fixing Minimum Support Price (MSP) at least 50% more than weighted average cost of production (C2 + 50%). |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 | :--- | :--- |

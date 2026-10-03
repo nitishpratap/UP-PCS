@@ -147,6 +147,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Scheme/Concept ↔ Correct Year ↔ Common Trap
+
 | Scheme/Concept | Correct year | Common trap |
 |--------------|--------------|-------------|
 | **LiFE Mission** | Idea COP26 **2021**; launch **June 2022** | COP-25 Madrid 2019 |
@@ -158,6 +161,9 @@ hide:
 | **UNCCD** | **1994** | Rio 1992 (same year trap) |
 
 ---
+
+
+### Comparative Matrix: Year ↔ Q# ↔ Trap Tested
 
 | Year | Q# | Trap tested |
 |------|-----|-------------|
@@ -171,6 +177,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Year ↔ Q# ↔ Subject
+
 | Year | Q# | Subject | Env concept |
 |------|-----|---------|-------------|
 | 2024 | Q6 | Economy | Emissions Gap Report = **UNEP** |
@@ -178,6 +187,9 @@ hide:
 | 2021 | Q125 | Environment | Carbon credit (कार्बन क्रेडिट) → Kyoto Protocol |
 
 ---
+
+
+### Major Seaports & Coastal Trade Hubs
 
 | Report / Data | Publisher | PYQ year |
 |---------------|-----------|----------|
@@ -190,6 +202,9 @@ hide:
 | **IPCC Assessment Reports** | **IPCC** (आईपीसीसी) | Pattern |
 
 ---
+
+
+### Comparative Matrix: Q# ↔ Format ↔ Topic Cluster
 
 | Q# | Format | Topic cluster | Subtopic / concept |
 |----|--------|---------------|-------------------|
@@ -306,6 +321,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
+
 | List-I | List-II |
 |--------|--------|
 | A. 2018–20 avg tagged | 1. ~17.7 |
@@ -313,6 +331,9 @@ hide:
 | C. 2023 peak | 3. 25 questions |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -322,6 +343,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. LiFE false date | 1. 2019 |
@@ -329,6 +353,9 @@ hide:
 | C. GEF year | 3. 1991 |
 
 ---
+
+
+### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
 
 | List-I | List-II |
 |--------|--------|

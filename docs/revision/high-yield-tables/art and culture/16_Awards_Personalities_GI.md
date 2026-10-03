@@ -63,6 +63,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Award / Body ↔ Tag
+
 | Award / body | Tag |
 |--------------|-----|
 | 1. Sahitya Akademi Award | Annual Culture-academy book prize |
@@ -71,6 +74,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Person ↔ Tag
+
 | Person | Tag |
 |--------|-----|
 | 1. Premchand | UP Hindi-Urdu fiction |
@@ -78,6 +84,9 @@ hide:
 | 3. Rambhadracharya | Sanskrit Jnanpith fact |
 
 ---
+
+
+### Comparative Matrix: Item ↔ Tag
 
 | Item | Tag |
 |------|-----|

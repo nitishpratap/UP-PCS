@@ -39,6 +39,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Fact ↔ Hindi Terminology
+
 | A | B | Fact | Hindi Terminology |
 |---|----|------|-------------------|
 | Part XI | Part IXA / XIVA | Union–State relations · **not** Municipalities · **not** Tribunals | भाग XI (संबंध) / भाग IXA (नगरपालिका) |
@@ -59,6 +62,9 @@ hide:
 | 35th’s old 10th Sch | 52nd’s 10th Sch | Sikkim associate-State terms (repealed 36th) vs **defection** | सिक्किम सह-राज्य / दल-बदल विरोधी कानून |
 
 ---
+
+
+### Comparative Matrix: Part ↔ Subject
 
 | Part | Subject |
 |------|---------|
@@ -90,6 +96,9 @@ hide:
 | **XXII** | Short Title, Commencement, Authoritative Text, Repeals |
 
 ---
+
+
+### Comparative Matrix: Sch. ↔ Subject ↔ Born
 
 | Sch. | Subject | Born |
 |------|---------|------|
@@ -270,6 +279,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Art. ↔ State / Fact
+
 | Art. | State / fact |
 |------|----------------|
 | **371** | Maharashtra and Gujarat — development boards (Vidarbha, Marathwada, Saurashtra, Kutch…) |
@@ -335,6 +347,9 @@ hide:
 | **Prohibition** (प्रतिषेध) | to forbid | Lower **judicial / quasi-judicial** body exceeding jurisdiction — issued **before** the order |
 | **Certiorari** (उत्प्रेषण) | to be certified | **Quash** an order already made — **after** |
 | **Quo Warranto** (अधिकार-पृच्छा) | by what authority | A person in a **substantive public office** created by law; any person may ask |
+
+### Comparative Matrix: Art. 32 ↔ Art. 226
+
 | | **Art. 32** | **Art. 226** |
 |--|-------------|-------------|
 | Court | Supreme Court | High Court |
@@ -461,6 +476,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Source ↔ What India Took
+
 | Source | What India took |
 |--------|-----------------|
 | **UK** | Parliamentary government · Cabinet · Rule of Law · legislative procedure · **single citizenship** · bicameralism · parliamentary privileges · **prerogative writs** |
@@ -504,6 +522,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Schedule
+
 | Code | Schedule |
 |------|----------|
 | A | Third Schedule |
@@ -512,6 +533,9 @@ hide:
 | D | Eighth Schedule |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Subject
 
 | Code | Subject |
 |------|---------|
@@ -571,6 +595,9 @@ hide:
 | **Constitutional** | Born in the **Constitution** | ECI, UPSC, FC, CAG, AG, GST Council, NCSC/ST/BC, SEC, SFC, ISC, 350B |
 | **Statutory** | Born in an **Act** | Lokpal (लोकपाल) **2013** · CVC **2003** · CIC/SIC **RTI 2005** (आरटीआई 2005) · NHRC (राष्ट्रीय मानव अधिकार आयोग) **1993** · NGT **2010** · CAT **1985** · NCW **1990** · NCM (असहयोग) **1992** · NCPCR · NCSK · SEBI **1992** · RBI Act **1934** · NIA (राष्ट्रीय अन्वेषण एजेंसी) **2008** · Delimitation Commission |
 | **Executive** | Resolution / order | **NITI 1 Jan 2015** · Planning Commission (योजना आयोग) **1950** · **NDC 1952** · Law Commission of India |
+
+### Comparative Matrix: Body ↔ One-Liner
+
 | Body | One-liner |
 |------|-----------|
 | **Lokpal** (लोकपाल) | 2013 Act. Chair + ≤8. Selection: PM + LS Speaker + **LoP LS** + CJI/nominee + jurist — **not** RS Chairman. 5y/70. First: **P.C. Ghose, 2019** |

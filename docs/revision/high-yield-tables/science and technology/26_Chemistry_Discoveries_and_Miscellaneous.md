@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Pair ↔ Concept A ↔ Concept B
+
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
 | **Temporary vs. Permanent Hardness** | **Temporary Hardness**: Caused strictly by dissolved **Bicarbonates of Ca and Mg** ($Ca(HCO_3)_2, Mg(HCO_3)_2$). | **Permanent Hardness**: Caused by dissolved **Chlorides and Sulphates of Ca and Mg** ($CaCl_2, MgCl_2, CaSO_4, MgSO_4$). | **Removability by Boiling**: Temporary hardness precipitates on boiling; Permanent hardness cannot be boiled away and requires chemicals/zeolites. |

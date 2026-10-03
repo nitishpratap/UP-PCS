@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
 | **Highest Overall Sex Ratio State**: **Kerala (1,084)** | **Highest Child Sex Ratio State (0–6)**: **Mizoram (970)** / Meghalaya | **Trap**: Kerala is #1 in overall sex ratio, but Mizoram/Meghalaya are #1 in Child Sex Ratio (Kerala child sex ratio is 964). |

@@ -76,6 +76,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Phase ↔ Years ↔ Character
+
 | Phase | Years | Character | Key fact |
 |-------|-------|-----------|-----------|
 | Return & apprenticeship | 1915–16 | Learns India on Gokhale's advice before acting | Champaran, not 1915, is the first satyagraha |
@@ -162,6 +165,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. NCM | 1. Salt and civil-law defiance |
@@ -170,6 +176,9 @@ hide:
 | D. Pro-changers / Swarajists | 4. Enter councils and obstruct |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -180,6 +189,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Phoenix Ashram | 1. Ahmedabad bank ashram after move |
@@ -188,6 +200,9 @@ hide:
 | D. ‘Father of the Nation’ | 4. Subhas Bose, Azad Hind Radio, 1944 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|

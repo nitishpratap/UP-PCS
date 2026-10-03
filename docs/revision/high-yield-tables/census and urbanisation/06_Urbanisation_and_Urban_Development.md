@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
 | **Statutory Town**: Created by State statute/law (4,041 towns) | **Census Town**: Defined by 3 demographic ratios (3,894 towns) | **Trap**: A Census Town is NOT a statutory municipality; it is legally administered by a Gram Panchayat despite having urban demographics. |

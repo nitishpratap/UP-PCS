@@ -39,6 +39,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Fri ↔ Fsi
+
 | Feature | FRI | FSI |
 |---------|-----|-----|
 | Year | 1906 | 1981 |
@@ -46,6 +49,9 @@ hide:
 | Output | Silviculture protocols | **ISFR** |
 
 ---
+
+
+### Comparative Matrix: Level ↔ Body ↔ Seat
 
 | Level | Body | Seat | Role |
 |-------|------|------|------|
@@ -55,6 +61,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. BSI | 1. Animals / Fauna |
@@ -62,6 +71,9 @@ hide:
 | C. NBPGR | 3. New Delhi plant gene bank |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -71,6 +83,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. FSI | 1. 1906 |
@@ -78,6 +93,9 @@ hide:
 | C. WII | 3. 1982 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

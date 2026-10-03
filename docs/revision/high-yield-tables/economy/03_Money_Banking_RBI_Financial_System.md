@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Distinguishing Fact
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **M1** | **M3** | Narrow vs broad (adds time deposits) |
@@ -72,6 +75,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. 1969 | 1. NABARD |
@@ -80,6 +86,9 @@ hide:
 | D. 1998 | 4. Kisan Credit Card |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -90,6 +99,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Repo | 1. Cash with RBI |
@@ -99,6 +111,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. RBI established | 1. 1949 |
@@ -107,6 +122,9 @@ hide:
 | D. Second bank nationalisation wave | 4. 1980 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

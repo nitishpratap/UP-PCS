@@ -147,6 +147,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Power ↔ Vehicle ↔ Key Year
+
 | Power | Vehicle | Key year | First / main early base |
 |-------|---------|----------|-------------------------|
 | **Portuguese** | Estado da Índia (crown) | **1498** (Gama) | **Goa** from 1510 |
@@ -157,6 +160,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Order ↔ Power ↔ First Contact / Company Tag
+
 | Order | Power | First contact / company tag |
 |------:|-------|-----------------------------|
 | 1 | **Portuguese** | **1498** (Gama) |
@@ -164,6 +170,9 @@ hide:
 | 3 | **English** | Charter **1600**; India from **1608** |
 | 4 | **Danes** | Company **1616**; Tranquebar **1620** |
 | 5 | **French** | Company **1664**; Surat **1668** |
+
+### Comparative Matrix: Stage ↔ Period ↔ Nature
+
 | Stage | Period | Nature |
 |-------|--------|--------|
 | Portuguese monopoly | 1498–c.1600 | Crown forts + cartaze |
@@ -172,6 +181,9 @@ hide:
 | English ascendancy | After 1763 | Rivals reduced to enclaves |
 
 ---
+
+
+### Comparative Matrix: Voyager ↔ Linked To ↔ What Papers Test
 
 | Voyager | Linked to | What papers test |
 |---------|-----------|------------------|
@@ -230,6 +242,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Commodity ↔ Source Belt
+
 | Commodity | Source belt |
 |-----------|-------------|
 | Cotton textiles | Coromandel, Gujarat, Bengal |
@@ -284,6 +299,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Battle ↔ Year ↔ Theatre / Who Fought
+
 | Battle | Year | Theatre / who fought |
 |--------|------|----------------------|
 | **Shakarkheda** | **1724** | **Nizam-ul-Mulk** (निजाम-उल-मुल्क) defeats **Mubariz Khan**; Asaf Jahi Deccan hold |
@@ -292,6 +310,9 @@ hide:
 | **Mudki** | **1845** | English vs Sikhs — opening battle of 1st Anglo-Sikh (आंग्ल-सिख) War |
 
 ---
+
+
+### Comparative Matrix: Year ↔ Tag
 
 | Year | Tag |
 |------|-----|
@@ -367,6 +388,9 @@ hide:
 | **French** | **1668** |
 
 ---
+
+
+### Comparative Matrix: Order ↔ Person ↔ Years
 
 | Order | Person | Years | Tag |
 |------:|--------|-------|-----|
@@ -467,12 +491,18 @@ hide:
 | **Coromandel east** | **Pulicat** (Dutch HQ / Fort Geldria) · **Madras** (English / Fort St George) · **Pondicherry** (French HQ) · **Tranquebar** (Danish / Fort Dansborg) · **Nagapattinam** (Dutch HQ from **1690**) · **Sadras** (Dutch) · **Karaikal / Yanam** (French) |
 | **Bengal river belt** | **Bandel / Hooghly** (Portuguese till **1632**) · **Chinsurah** (Dutch / Fort Gustavus) · **Chandernagore** (French) · **Serampore** (Danish) · **Calcutta** (English / Job Charnock **1690**) |
 | **Bihar hinterland** | **Patna** belt — **saltpetre** and **opium** for European trade |
+
+### Comparative Matrix: Belt ↔ Why It Mattered ↔ Typical Centres
+
 | Belt | Why it mattered | Typical centres |
 |------|-----------------|-----------------|
 | Malabar / west | Early spice; Arabian Sea gateways | Calicut, Cochin, Goa, Surat, Bombay |
 | Coromandel | Cotton piece-goods | Madras, Pulicat, Pondicherry, Tranquebar, Sadras |
 | Bengal rivers | Textiles + **saltpetre** (gunpowder) | Calcutta, Chinsurah, Chandernagore, Hooghly, Bandel, Serampore |
 | Bihar hinterland | Best **opium** and **saltpetre** for European trade | Patna belt |
+
+### Comparative Matrix: Settlement ↔ Power ↔ Trap
+
 | Settlement | Power | Trap |
 |------------|-------|------|
 | **Goa, Daman, Diu** | Portuguese | Not Dutch; held till **1961** |
@@ -495,6 +525,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Match List ↔ Power
+
 | Match list (classic) | Power |
 |----------------------|-------|
 | Pondicherry | French |
@@ -513,6 +546,9 @@ hide:
 | Western shift | **Bombay** | Lease **1668** |
 | First Municipal Corporation | **Madras** | **1687–88** |
 | Bengal Presidency nucleus | **Calcutta / Fort William** | Settlement **1690**; villages **1698** |
+
+### Comparative Matrix: Presidency ↔ Nucleus
+
 | Presidency | Nucleus |
 |------------|---------|
 | **Madras** | Fort St George |
@@ -561,12 +597,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Treaty ↔ Year ↔ Ends
+
 | Treaty | Year | Ends | India |
 |--------|------|------|------------|
 | **Aix-la-Chapelle** | **1748** | First Carnatic War | **Madras returned** to English |
 | **Paris** | **1763** | Third Carnatic / Seven Years’ War | French **political** defeat; factories remain |
 
 ---
+
+
+### Match Matrix: Settlement ↔ Power
 
 | List-I (Settlement) | List-II (Power) |
 |---|---|
@@ -577,6 +619,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | 1. Hawkins | A. James I’s ambassador, 1615–19 |
@@ -585,6 +630,9 @@ hide:
 | 4. Thomas Best | D. Swally, 1612 |
 
 ---
+
+
+### Match Matrix: War / Battle ↔ Tag
 
 | List-I (War / battle) | List-II (Tag) |
 |---|---|

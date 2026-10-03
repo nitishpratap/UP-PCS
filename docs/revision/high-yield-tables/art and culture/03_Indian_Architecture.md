@@ -77,6 +77,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Meaning
+
 | Term | Meaning |
 |------|---------|
 | 1. Stupa | Solid relic mound |
@@ -85,6 +88,9 @@ hide:
 | 4. Charbagh | Hindu five-shrine plan |
 
 ---
+
+
+### Comparative Matrix: Monument / Site ↔ Correct Tag
 
 | Monument / site | Correct tag |
 |-----------------|-------------|
@@ -95,6 +101,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Temple ↔ Dynasty / Region
+
 | Temple | Dynasty / region |
 |--------|------------------|
 | 1. Brihadeeswara | Chola; Thanjavur granite |
@@ -103,6 +112,9 @@ hide:
 | 4. Virupaksha, Hampi | Vijayanagara living shrine |
 
 ---
+
+
+### Comparative Matrix: Wrong Claim ↔ Correct
 
 | Wrong claim | Correct |
 |-------------|---------|

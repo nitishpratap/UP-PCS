@@ -84,6 +84,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
+
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
 | *Anabasis* (and related *Indica*) | **Arrian** | Alexander’s Indian march (draws on Ptolemy and Aristobulus) |
@@ -93,6 +96,9 @@ hide:
 | *Milinda Panha* | **Menander (Milinda)** and **Nagasena** | Indo-Greek Buddhist dialogue |
 
 ---
+
+
+### Comparative Matrix: Year ↔ Macedonian Step
 
 | Year | Macedonian step |
 |------|-----------------|
@@ -114,6 +120,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Item ↔ Association
+
 | List-I (Item) | List-II (Association) |
 |---|---|
 | 1. Hydaspes | A. Beas — mutiny / turn-back |
@@ -122,6 +131,9 @@ hide:
 | 4. Porus | D. Paurava opponent, then restored |
 
 ---
+
+
+### Match Matrix: King ↔ Horizon
 
 | List-I (King) | List-II (Horizon) |
 |---|---|

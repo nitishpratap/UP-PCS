@@ -66,6 +66,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: State ↔ Br Count ↔ Fact
+
 | State | BR count | Fact |
 |-------|----------|------|
 | **Uttar Pradesh** (उत्तर प्रदेश) | **0** | Any “UP BR” option is false |
@@ -74,6 +77,9 @@ hide:
 | Bihar | 0 | Valmiki = NP, not BR |
 
 ---
+
+
+### Comparative Matrix: World Br / Landscape ↔ Country ↔ Fact
 
 | World BR / landscape | Country | Fact |
 |----------------------|---------|------|
@@ -86,6 +92,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 | --- | --- |
 | A. Simlipal | 1. Kerala |
@@ -94,6 +103,9 @@ hide:
 | D. Manas | 4. Meghalaya |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 | --- | --- |
@@ -104,6 +116,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 | --- | --- |
 | A. Similipal | 1. Uttarakhand |
@@ -113,6 +128,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. First BR (India) | 1. Great Rann of Kutch |
@@ -120,6 +138,9 @@ hide:
 | C. Smallest BR | 3. Nokrek |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -129,6 +150,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Pachmarhi | 1. Assam |
@@ -136,6 +160,9 @@ hide:
 | C. Sundarbans BR | 3. West Bengal |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

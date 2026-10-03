@@ -40,6 +40,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Work ↔ Author/Body ↔ Year
+
 | Work | Author/Body | Year |
 |------|-------------|------|
 | Silent Spring | Rachel Carson | 1962 |
@@ -49,6 +52,9 @@ hide:
 | Green Development | W.M. Adams | 1990 |
 
 ---
+
+
+### Comparative Matrix: Year ↔ Milestone
 
 | Year | Milestone |
 |------|-----------|
@@ -61,6 +67,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Channel ↔ Example
+
 | Channel | Example |
 |---------|---------|
 | Magazine | Down To Earth |
@@ -70,6 +79,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Silent Spring | 1. Garrett Hardin 1968 |
@@ -77,6 +89,9 @@ hide:
 | C. Limits to Growth | 3. Club of Rome 1972 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -86,6 +101,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Tbilisi | 1. June 2022 launch |
@@ -93,6 +111,9 @@ hide:
 | C. GSDP | 3. 2017 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

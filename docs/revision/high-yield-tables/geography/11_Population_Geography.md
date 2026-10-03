@@ -26,6 +26,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | First census | **1872** non-sync; paper **1871** (2023) | 1881 as “first ever” | प्रथम जनगणना |
@@ -84,6 +87,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Phase ↔ Years ↔ Character
+
 | Phase | Years | Character |
 |-------|-------|-----------|
 | I | 1901–1921 | Stagnant / low growth (ends at the Great Divide) |
@@ -93,6 +99,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Formula ↔ What It Shows
+
 | Type | Formula | What it shows |
 |------|---------|---------------|
 | **Arithmetic density** | Total population ÷ total area | Everyday “persons per km²” fact |
@@ -100,6 +109,9 @@ hide:
 | **Agricultural density** | Agricultural population ÷ **net sown** area | Pressure of farm workers on cultivated land |
 
 ---
+
+
+### Comparative Matrix: Theory ↔ Propounder
 
 | Theory | Propounder |
 |--------|------------|
@@ -110,6 +122,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Stage ↔ Birth Rate ↔ Death Rate
+
 | Stage | Birth rate | Death rate | Growth |
 |-------|------------|------------|--------|
 | 1 High stationary | High | High | Slow |
@@ -119,6 +134,9 @@ hide:
 | 5 Declining (Blacker) | Very low | Low, but can exceed births | Shrinks / ages |
 
 ---
+
+
+### Comparative Matrix: Idea ↔ Person
 
 | Idea | Person |
 |------|--------|
@@ -134,6 +152,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Theory ↔ Propounder
+
 | List-I (Theory) | List-II (Propounder) |
 |---|---|
 | A. Optimum Population Theory | 1. Thompson |
@@ -142,6 +163,9 @@ hide:
 | D. Population–Food Supply Relationship Theory | 4. Henry George |
 
 ---
+
+
+### Comparative Matrix: Item ↔ Uttar Pradesh 2011 ↔ India 2011
 
 | Item | Uttar Pradesh 2011 | India 2011 |
 |------|--------------------|------------|
@@ -159,6 +183,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Theory ↔ Propounder
+
 | List-I (Theory) | List-II (Propounder) |
 |---|---|
 | A. Optimum Population Theory | 1. Thompson |
@@ -168,6 +195,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Density Type ↔ Definition
+
 | Density type | Definition |
 |---|---|
 | 1. Arithmetic density | Population / total area |
@@ -175,6 +205,9 @@ hide:
 | 3. Agricultural density | Agricultural population / net sown area |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -185,6 +218,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Immigration | 1. In-movement |
@@ -194,6 +230,9 @@ hide:
 
 ---
 
+
+### Match Matrix: 2011 Up Ua Order Teaching ↔ Details
+
 | List-I (2011 UP UA order teaching) | List-II |
 |---|---|
 | A. Largest | 1. Kanpur |
@@ -202,6 +241,9 @@ hide:
 | D. Fourth | 4. Agra |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

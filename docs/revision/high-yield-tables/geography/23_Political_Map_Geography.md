@@ -106,6 +106,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Line ↔ Note
+
 | Line | Note |
 |------|------|
 | **49th Parallel** | Long USA–**Canada** international border (not USA–Mexico) |
@@ -121,6 +124,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Country ↔ Capital ↔ Trap
+
 | Country | Capital | Trap |
 |---------|---------|------|
 | **Uzbekistan** ★ | **Tashkent** | — |
@@ -132,6 +138,9 @@ hide:
 | Iran | Tehran | Neighbourhood |
 
 ---
+
+
+### Comparative Matrix: Region ↔ Members / Pair
 
 | Region | Members / pair |
 |--------|----------------|
@@ -154,6 +163,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Place ↔ Owner / Note
+
 | Place | Owner / note |
 |-------|----------------|
 | **Greenland** | Denmark politically; geographically **N America**; largest island |
@@ -168,6 +180,9 @@ hide:
 | **Aleutian** | USA; **Bear** Norway; **Franz Josef** Russia |
 
 ---
+
+
+### Comparative Matrix: Old Name ↔ New Name
 
 | Old Name | New Name |
 |----------|----------|
@@ -200,6 +215,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Country ↔ Capital
+
 | List-I (Country) | List-II (Capital) |
 |------------------|-------------------|
 | A. Uzbekistan | 1. Tashkent |
@@ -208,6 +226,9 @@ hide:
 | D. Turkmenistan | 4. Ashgabat |
 
 ---
+
+
+### Comparative Matrix: Sobriquet ↔ Place
 
 | Sobriquet | Place |
 |-----------|-------|
@@ -238,6 +259,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Sobriquet ↔ Place
+
 | Sobriquet | Place |
 |-----------|-------|
 | Venice of the North | **St. Petersburg** (Russia) / Stockholm (Sweden) |
@@ -265,6 +289,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Sobriquet ↔ Place
+
 | Sobriquet | Place |
 |-----------|-------|
 | City of Golden Temple (स्वर्ण मंदिर) | Amritsar (अमृतसर) |
@@ -284,6 +311,9 @@ hide:
 | World’s Bread Basket | Prairies of North America |
 
 ---
+
+
+### Comparative Matrix: Range / Highland ↔ Region / Country Fact ↔ Tag
 
 | Range / highland | Region / country fact | Tag |
 |------------------|----------------------|-----|
@@ -322,6 +352,9 @@ hide:
 
 ---
 
+
+### Match Matrix: World Islands ↔ Owner Country
+
 | List-I (World Islands) | List-II (Owner Country) |
 |------------------------|-------------------------|
 | A. Aleutian Islands | 1. Russia |
@@ -330,6 +363,9 @@ hide:
 | D. Franz Josef Island | 4. U.S.A. |
 
 ---
+
+
+### Comparative Matrix: Regions Sometimes Mentioned In News ↔ Country
 
 | Regions sometimes mentioned in news | Country |
 |-------------------------------------|---------|
@@ -340,6 +376,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Old Name ↔ New Name
+
 | List-I (Old Name) | List-II (New Name) |
 |-------------------|--------------------|
 | A. Siam | 1. Taiwan |
@@ -348,6 +387,9 @@ hide:
 | D. Burma | 4. Iraq |
 
 ---
+
+
+### Comparative Matrix: Current Name ↔ Old Name
 
 | Current Name | Old Name |
 |--------------|----------|
@@ -358,6 +400,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Capital City ↔ Country
+
 | List-I (Capital City) | List-II (Country) |
 |-----------------------|-------------------|
 | A. Kampala | 1. Rwanda |
@@ -366,6 +411,9 @@ hide:
 | D. Khartoum | 4. Democratic Republic of the Congo |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -376,6 +424,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Towns Sometimes Mentioned In News ↔ Country
+
 | Towns sometimes mentioned in news | Country |
 |-----------------------------------|---------|
 | 1. Aleppo | Syria |
@@ -384,6 +435,9 @@ hide:
 | 4. Mazar-i-sharif | Afghanistan |
 
 ---
+
+
+### Master Comparison Table
 
 | A | B |
 |---|---|
@@ -394,6 +448,9 @@ hide:
 
 ---
 
+
+### Master Comparison Table
+
 | A | B |
 |---|---|
 | A. Dark Continent | 1. Finland |
@@ -402,6 +459,9 @@ hide:
 | D. Pearls Island | 4. Pamir |
 
 ---
+
+
+### Match Matrix: Country ↔ Capital
 
 | List-I (Country) | List-II (Capital) |
 |---|---|
@@ -412,6 +472,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Country ↔ Capital
+
 | List-I (Country) | List-II (Capital) |
 |---|---|
 | A. Bulgaria | 1. Oslo |
@@ -420,6 +483,9 @@ hide:
 | D. Norway | 4. Tbilisi |
 
 ---
+
+
+### Match Matrix: Country ↔ Capital
 
 | List-I (Country) | List-II (Capital) |
 |---|---|
@@ -430,6 +496,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Province ↔ Capital City
+
 | List-I (Province) | List-II (Capital City) |
 |---|---|
 | A. New South Wales | 1. Brisbane |
@@ -438,6 +507,9 @@ hide:
 | D. Western Australia | 4. Melbourne |
 
 ---
+
+
+### Match Matrix: Line ↔ Pair
 
 | List-I (Line) | List-II (Pair) |
 |----------------|----------------|
@@ -448,6 +520,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Sobriquet ↔ Details
+
 | List-I (Sobriquet) | List-II |
 |---------------------|--------|
 | A. Land of the Midnight Sun | 1. Japan |
@@ -457,6 +532,9 @@ hide:
 
 ---
 
+
+### Match Matrix: City Tag ↔ Details
+
 | List-I (City tag) | List-II |
 |--------------------|--------|
 | A. Venice | 1. Golden Gate |
@@ -465,6 +543,9 @@ hide:
 | D. Buenos Aires | 4. City of Smoke |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

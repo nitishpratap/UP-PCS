@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Year ↔ Treaty Name ↔ Signed Between
+
 | Year | Treaty Name | Signed Between | War / Context & Significance |
 |---|---|---|---|
 | **1757 (Feb)** | **Treaty of Alinagar** | Robert Clive and Nawab Siraj-ud-Daulah | Preceded Battle of Plassey (23 June 1757); British restored Calcutta privileges |

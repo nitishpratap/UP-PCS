@@ -57,6 +57,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Festival / Fair ↔ State / Tag
+
 | Festival / fair | State / tag |
 |-----------------|-------------|
 | 1. Pongal | Tamil Nadu January harvest |
@@ -64,6 +67,9 @@ hide:
 | 3. Bihu | Nagaland December showcase |
 
 ---
+
+
+### Comparative Matrix: Item ↔ Tag
 
 | Item | Tag |
 |------|-----|

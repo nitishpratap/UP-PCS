@@ -41,6 +41,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ods Family ↔ Typical Use ↔ Fact
+
 | ODS family | Typical use | Fact |
 |------------|-------------|------|
 | CFCs | Cooling, aerosols, foam, electronics cleaners | Main Cl source |
@@ -51,6 +54,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Treaty ↔ Year ↔ Role
+
 | Treaty | Year | Role |
 |--------|------|------|
 | Vienna Convention | **1985** | Framework / cooperation |
@@ -58,6 +64,9 @@ hide:
 | Kigali Amendment | **2016** (force **1 Jan 2019**) | HFC phase-down under Montreal |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -67,6 +76,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Stratospheric O₃ | 1. Pollutant / GHG |
@@ -75,6 +87,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. ODP | 1. Heat-trapping |
@@ -82,6 +97,9 @@ hide:
 | C. NO₂ | 3. Helps regulate stratospheric ozone naturally |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

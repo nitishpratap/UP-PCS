@@ -23,6 +23,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Chilika vs Sambhar | Chilika = lagoon / often “largest saline”; Sambhar = **inland** saline | Pick Sambhar whenever “saline” appears | चिल्का = तटीय; सांभर = अंतर्देशीय खारा |
@@ -100,6 +103,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: If The Question Says… ↔ Pick ↔ Where
+
 | If the question says… | Pick | Where | Why this one wins |
 |-------------------|------|-------|-------------------|
 | Largest **lagoon** / east-coast lagoon | **Chilika** | Odisha | Barred from the sea; brackish; biggest east-coast lagoon |
@@ -108,6 +114,9 @@ hide:
 | Largest **freshwater** | **Wular** | J&K (Jhelum) | Usual volume fact; tectonic basin |
 
 ---
+
+
+### Comparative Matrix: Wrong Thought ↔ Correct
 
 | Wrong thought | Correct |
 |---------------|------------|
@@ -118,6 +127,9 @@ hide:
 | Pulicat = largest lagoon | Pulicat = **second** after Chilika |
 
 ---
+
+
+### Comparative Matrix: Origin ↔ Meaning In One Line ↔ Indian Fact
 
 | Origin | Meaning in one line | Indian fact | Trap |
 |--------|---------------------|-------------|------|
@@ -130,6 +142,9 @@ hide:
 | **Artificial** | Reservoir behind a dam | Gobind Sagar, Hirakud, Tehri, Pant Sagar | Treating them as natural glacial lakes |
 
 ---
+
+
+### Lakes, Waterfalls & Water Reservoirs
 
 | Lake | State / UT | Note |
 |------|------------|------------|
@@ -170,6 +185,9 @@ hide:
 
 ---
 
+
+### Lakes, Waterfalls & Water Reservoirs
+
 | Lake | Country | tag / trap |
 |------|---------|-----------------|
 | **Baikal** ★2023 | **Russia** (Siberia) | Deepest + oldest freshwater; huge volume |
@@ -194,6 +212,9 @@ hide:
 
 ---
 
+
+### Lakes, Waterfalls & Water Reservoirs
+
 | Crown | Lake |
 |-------|------|
 | Largest lake by **area** (world) | **Caspian** (saline) |
@@ -202,6 +223,9 @@ hide:
 | Lowest / densest salt | **Dead Sea** |
 
 ---
+
+
+### Comparative Matrix: Site ↔ District / Belt
 
 | Site | District / belt |
 |------|-----------------|
@@ -218,6 +242,9 @@ hide:
 | Patna Bird Sanctuary | Etah |
 | Sheikha / Shekha Jheel | Aligarh |
 | **Jai Prakash Narayan BS / Surha Tal** | **Ballia** (India’s 100th Ramsar, 5 Jun 2026) |
+
+### Comparative Matrix: Name That Sounds Like Up ↔ Actual State ↔ Trap
+
 | Name that sounds like UP | Actual state | Trap |
 |--------------------------|--------------|------|
 | Rudrasagar | **Tripura** | Not UP |
@@ -226,12 +253,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Superlative ↔ Fact ↔ Trap
+
 | Superlative | Fact | Trap |
 |-------------|------|------|
 | Highest | **Kunchikal** (Varahi, Karnataka; older figure ~455 m) | Jog |
 | Tallest **plunge** (newer World Waterfalls Database) | **Nohkalikai** (Meghalaya (मेघालय), ~340 m) | Using Nohkalikai to beat every Kunchikal height question |
 | Largest by **width** | **Jog / Gersoppa** (Sharavati, Karnataka) | Calling Jog highest |
 | Largest by **volume** | **Shivanasamudra** (Cauvery, Karnataka) | Putting volume crown on Jog |
+
+### Lakes, Waterfalls & Water Reservoirs
+
 | Waterfall | ~Height | River | State | tag |
 |-----------|---------|-------|-------|----------|
 | **Kunchikal** | older ~455 m; newer DB ~183 m | **Varahi** | Karnataka (Shimoga / Agumbe) | UPPCS **highest** answer |
@@ -277,6 +310,9 @@ hide:
 | **Tehri** | **Bhagirathi** (+ **Bhilangana** confluence at old Tehri) | Uttarakhand; **rock-fill**; THDC | India’s **tallest** dam (~**260.5 m**); cleared **1972**, work from **1978**; seismic / displacement protest |
 
 ---
+
+
+### Comparative Matrix: Project / Dam ↔ River ↔ State / Union Territory
 
 | Project / Dam (बांध / परियोजना) | River (नदी) | State / Union Territory | Key Characteristics & Exam Notes |
 |:--------------------------------|:------------|:------------------------|:---------------------------------|
@@ -328,6 +364,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Project ↔ River / Place ↔ Note
+
 | Project | River / place | Note |
 |---------|---------------|------|
 | **Telugu Ganga** | Krishna → **Chennai** drinking water | Joint TN–AP–KA–MH |
@@ -355,6 +394,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Tribunal ↔ Year / Note ↔ Parties
+
 | Tribunal | Year / note | Parties (count) |
 |----------|-------------|-----------------|
 | **Mahadayi** | **2010** | Goa, Karnataka, Maharashtra (**3**) |
@@ -363,6 +405,9 @@ hide:
 | **Mahanadi** | **2018** | Odisha, Chhattisgarh (**2**) |
 
 ---
+
+
+### Comparative Matrix: Canal ↔ Source / Offtake ↔ Region
 
 | Canal | Source / offtake | Region | Tag |
 |-------|------------------|--------|-----|
@@ -396,6 +441,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Waterfall ↔ Location
+
 | List-I (Waterfall) | List-II (Location) |
 |---|---|
 | A. Dudhsagar | 1. Karnataka |
@@ -404,6 +452,9 @@ hide:
 | D. Palani | 4. Goa |
 
 ---
+
+
+### Match Matrix: Lake ↔ Location
 
 | List-I (Lake) | List-II (Location) |
 |---|---|
@@ -414,6 +465,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Canal Project ↔ Location
+
 | Canal Project | Location |
 | --- | --- |
 | A. Ghatprabha Canal Project | Karnataka |
@@ -423,6 +477,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Programme/Project ↔ Ministry
+
 | Programme/Project | Ministry |
 | --- | --- |
 | 1. Drought-Prone Area Programme | Ministry of Agriculture |
@@ -430,6 +487,9 @@ hide:
 | 3. National Watershed Development Project for Rainfed Areas | Ministry of Rural Development |
 
 ---
+
+
+### Match Matrix: Project ↔ Location
 
 | List-I (Project) | List-II (Location) |
 | --- | --- |
@@ -440,6 +500,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: List–I ↔ List–Ii
+
 | List–I (Rivers) | List–II (Dams) |
 | --- | --- |
 | A. Cauvery | 1. Almatti |
@@ -448,6 +511,9 @@ hide:
 | D. Chambal | 4. Sardar Sarovar |
 
 ---
+
+
+### Match Matrix: Multipurpose Projects ↔ Rivers
 
 | List-I (Multipurpose Projects) | List-II (Rivers) |
 | --- | --- |
@@ -458,6 +524,9 @@ hide:
 
 ---
 
+
+### Lakes, Waterfalls & Water Reservoirs
+
 | Dam/Lake | River |
 | --- | --- |
 | A. Govind Sagar | Satluj |
@@ -467,6 +536,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Irrigation Project ↔ State
+
 | Irrigation Project | State |
 | --- | --- |
 | 1. Damanganga | Gujarat |
@@ -474,6 +546,9 @@ hide:
 | 3. Pamba | Kerala |
 
 ---
+
+
+### Comparative Matrix: Power Project ↔ State
 
 | Power Project | State |
 | --- | --- |
@@ -484,6 +559,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Dam ↔ River
+
 | List-I (Dam) | List-II (River) |
 | --- | --- |
 | A. Doolhasti | 1. Chambal |
@@ -492,6 +570,9 @@ hide:
 | D. Tawa | 4. Tawa |
 
 ---
+
+
+### Comparative Matrix: Reservoirs ↔ States
 
 | Reservoirs | States |
 | --- | --- |
@@ -502,6 +583,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Interstate Water Disputes ↔ No. Of States Involved
+
 | List-I (Interstate Water Disputes) | List-II (No. of States involved) |
 | --- | --- |
 | A. Mahadayi Water Disputes Tribunal | (i) 3 |
@@ -510,6 +594,9 @@ hide:
 | D. Mahanadi Water Disputes Tribunal | (iv) 2 |
 
 ---
+
+
+### Match Matrix: Lakes & Waterfalls ↔ Geographic Locations
 
 | List-I | List-II |
 |---|---|
@@ -520,6 +607,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Hundru | 1. Indravati |
@@ -528,6 +618,9 @@ hide:
 | D. Kapildhara | 4. Narmada (not Godavari) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

@@ -56,6 +56,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Region ↔ Megadiverse Countries
+
 | Region | Megadiverse countries (17) |
 |--------|----------------------------|
 | **South America** | Brazil, Colombia, Ecuador, Peru, Venezuela |
@@ -66,12 +69,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Group ↔ India'S Rough Share Of Global Species
+
 | Group | India's rough share of global species |
 |-------|----------------------------------------|
 | Mammals | ~**7.6%** |
 | Birds | ~**12.6%** |
 | Reptiles | ~**6.2%** |
 | Amphibians | ~**4.4%** |
+
+### Comparative Matrix: Indian Endemism Centre ↔ Note
+
 | Indian endemism centre | Note |
 |------------------------|------|
 | **Western Ghats** (पश्चिमी घाट) | Richest among common Indian options |
@@ -95,6 +104,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Hotspot ↔ Indian Region ↔ Up Link
+
 | Hotspot | Indian region | UP link |
 |---------|---------------|---------|
 | **Himalaya** (often called Eastern Himalaya in older stems) | Himalaya + Terai belt; Sikkim is a botanist’s paradise here | Dudhwa, Pilibhit Terai |
@@ -103,6 +115,9 @@ hide:
 | **Sundaland** | **Nicobar Islands** (not Andaman) | Not mainland |
 
 ---
+
+
+### Comparative Matrix: Category ↔ One-Line Fact ↔ India Example
 
 | Category | One-line fact | India example |
 |----------|---------------|---------------|
@@ -118,6 +133,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Alpha diversity | 1. Overall regional diversity |
@@ -126,6 +144,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. CBD | 1. Biosafety / LMOs |
@@ -133,6 +154,9 @@ hide:
 | C. Nagoya Protocol | 3. 1992 Rio biodiversity convention |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

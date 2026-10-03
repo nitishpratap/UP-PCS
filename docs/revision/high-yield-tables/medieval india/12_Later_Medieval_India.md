@@ -42,6 +42,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Company ↔ Charter Year
+
 | Company | Charter year |
 |---------|--------------|
 | EIC | **1600** |
@@ -103,6 +106,9 @@ hide:
 | Sawai Jai Singh II | Jantar Mantar (Delhi, Jaipur, Ujjain, Mathura, Varanasi) |
 
 ---
+
+
+### Comparative Matrix: Company ↔ Charter ↔ India
 
 | Company | Charter | India |
 |---------|---------|------------|

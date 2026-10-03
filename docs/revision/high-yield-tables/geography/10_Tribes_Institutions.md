@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Khasi | **Meghalaya** | Arunachal | मेघालय |
@@ -96,6 +99,9 @@ hide:
 
 ---
 
+
+### Major Scheduled Tribes & Regional Distribution
+
 | State / UT | High-yield tribes |
 |------------|-------------------|
 | Andhra Pradesh / Telangana | **Chenchu**, **Yanadi**, Koya, Lambadi, Gond |
@@ -126,6 +132,9 @@ hide:
 
 ---
 
+
+### Major Scheduled Tribes & Regional Distribution
+
 | # | Tribe | Note |
 |---|-------|-----|
 | 1 | Bhotia | Himalayan trading and herding |
@@ -143,12 +152,18 @@ hide:
 | 13 | Patari | Sonbhadra |
 | 14 | Chero | Sonbhadra, Varanasi |
 | 15 | Bhuiya | Sonbhadra |
+
+### Major Scheduled Tribes & Regional Distribution
+
 | Zone | Districts | Key tribes |
 |------|-----------|------------|
 | Terai / north | Kheri, Bahraich, Balrampur, Shravasti, Pilibhit, Bijnor fringe | Tharu, Buksa |
 | Vindhyan / south | Sonbhadra, Mirzapur, Lalitpur and notified east pockets | Gond, Kharwar, Chero, Baiga, Agariya, Saharya |
 
 ---
+
+
+### Comparative Matrix: People ↔ Habitat / Note
 
 | People | Habitat / note |
 |--------|----------------|
@@ -187,6 +202,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Wrong Claim ↔ Correct Teaching
+
 | Wrong claim | Correct teaching |
 |-------------|------------------|
 | Semang live in Indonesia | The **Semang** belong to the **Malay Peninsula / Malaysia** |
@@ -197,6 +215,9 @@ hide:
 
 ---
 
+
+### Major Scheduled Tribes & Regional Distribution
+
 | Tribe / people | Habitat |
 |----------------|---------|
 | 1. Bushman | Kalahari Desert |
@@ -206,6 +227,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Body ↔ Headquarters ↔ Role
+
 | Body | Headquarters | Role |
 |------|--------------|------|
 | **IMD** | **New Delhi** | Weather, climate, cyclone warnings |
@@ -213,6 +237,9 @@ hide:
 | **IARI** | **Pusa, New Delhi** | Flagship ICAR institute |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -223,6 +250,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Eskimo | 1. Botswana |
@@ -231,6 +261,9 @@ hide:
 | D. Bushman | 4. Kenya |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -241,6 +274,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Kayak | 1. Boat for transport |
@@ -249,6 +285,9 @@ hide:
 | D. Sledge | 4. Snow house |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -259,6 +298,9 @@ hide:
 
 ---
 
+
+### Major Scheduled Tribes & Regional Distribution
+
 | Tribe | State / region |
 |---|---|
 | 1. Angami / Rengma | Nagaland |
@@ -266,6 +308,9 @@ hide:
 | 3. Khasi | Arunachal Pradesh |
 
 ---
+
+
+### Match Matrix: Up Group ↔ Region / Note
 
 | List-I (UP group) | List-II (Region / note) |
 |---|---|
@@ -276,6 +321,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. CISH | 1. Lucknow |
@@ -284,6 +332,9 @@ hide:
 | D. ICAR HQ | 4. New Delhi (1929 teaching) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Distinguishing Fact
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Inflation** | **Disinflation** | Rising prices vs falling inflation *rate* |
@@ -59,6 +62,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. CPI | 1. MoC&I / OEA |
@@ -67,6 +73,9 @@ hide:
 | D. GDP deflator | 4. Nominal/Real GDP ratio × 100 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -77,6 +86,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Demand-pull | 1. Input cost surge |
@@ -85,6 +97,9 @@ hide:
 | D. Core inflation | 4. Ex-food & fuel |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

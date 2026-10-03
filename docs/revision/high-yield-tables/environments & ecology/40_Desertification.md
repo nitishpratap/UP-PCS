@@ -39,6 +39,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Process ↔ Meaning
+
 | Process | Meaning |
 |---------|------|
 | Water/wind erosion | Topsoil loss |
@@ -47,6 +50,9 @@ hide:
 | Mining / pollution | Direct land damage |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Feature
 
 | Type | Feature |
 |------|---------|
@@ -58,6 +64,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. UNCCD | 1. 17 June |
@@ -65,6 +74,9 @@ hide:
 | C. LDN | 3. No net loss healthy land by 2030 (SDG 15.3) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -74,6 +86,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Rivers ↔ Tributaries & Confluences
+
 | List-I | List-II |
 |--------|--------|
 | A. Meteorological drought | 1. Rivers/groundwater stress neighbourhood |
@@ -81,6 +96,9 @@ hide:
 | C. Hydrological drought | 3. Soil moisture / crop stress |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

@@ -56,6 +56,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Level ↔ Example
+
 | Level | example |
 |-------|--------------|
 | **Organism** | Camel water conservation in desert |
@@ -66,6 +69,9 @@ hide:
 | **Biosphere** | Global life-support zone |
 
 ---
+
+
+### Comparative Matrix: Basis ↔ Categories
 
 | Basis | Categories |
 |-------|------------|
@@ -109,6 +115,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Category ↔ What Humans Get ↔ Example
+
 | Category | What humans get | Example |
 |----------|-----------------|---------|
 | **Provisioning** | Direct material products | Food, water, timber |
@@ -118,6 +127,9 @@ hide:
 | **Preserving** (WDR/UPSC five-fold framing) | Long-term diversity maintenance | Maintenance of diversity |
 
 ---
+
+
+### Comparative Matrix: Term ↔ Meaning
 
 | Term | Meaning |
 |------|---------|
@@ -129,6 +141,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Interaction ↔ What Happens ↔ Example
+
 | Interaction | What happens | Example |
 |-------------|--------------|---------|
 | **Competition** | Two species vie for the same limited resource | Two grazers on one pasture |
@@ -139,6 +154,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Fact
+
 | Term | fact |
 |------|------|
 | 1. Habitat | Role of a species |
@@ -146,6 +164,9 @@ hide:
 | 3. Community | Populations of different species in an area |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -155,6 +176,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Cline ↔ Details
+
 | List-I (Cline) | List-II |
 |----------------|--------|
 | A. Pycnocline | 1. Temperature-with-depth gradient |
@@ -162,6 +186,9 @@ hide:
 | C. Thermocline | 3. Salinity gradient |
 
 ---
+
+
+### Match Matrix: Rivers ↔ Tributaries & Confluences
 
 | List-I | List-II |
 |--------|--------|

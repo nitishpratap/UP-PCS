@@ -100,6 +100,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Dynasty ↔ Period ↔ Key Rulers
+
 | Dynasty | Period | Key rulers |
 |---------|--------|------------|
 | **Slave (Mamluk)** | **1206–1290** | Aibak → Iltutmish → Razia → Balban → **Kaiqubad** → **Kayumars** (last) |
@@ -110,6 +113,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ruler ↔ Reign ↔ Fact
+
 | Ruler | Reign | Fact |
 |-------|-------|------|
 | **Jalaluddin Khalji** | 1290–1296 | Crowned at **Kilokhari**; killed by Alauddin at **Kara** |
@@ -118,6 +124,9 @@ hide:
 | **Khusrau Khan** | 1320 | Hindu convert usurper; killed by **Ghiyasuddin Tughlaq** |
 
 ---
+
+
+### Comparative Matrix: Title / Name ↔ Meaning
 
 | Title / name | Meaning |
 |--------------|---------|
@@ -145,6 +154,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ruler ↔ Reign ↔ Fact
+
 | Ruler | Reign | Fact |
 |-------|-------|------|
 | **Ghiyasuddin Tughlaq (Ghazi Malik)** | 1320–1325 | Defeated **Khusrau**; **Tughlaqabad** (तुगलकाबाद); early canals/farmer relief |
@@ -153,6 +165,9 @@ hide:
 | **Nasiruddin Mahmud** (last) | 1394–1412 | “Delhi to Palam”; **Timur 1398**; dynasty ends **1412/14** |
 
 ---
+
+
+### Comparative Matrix: Ruler ↔ Reign ↔ Fact
 
 | Ruler | Reign | Fact |
 |-------|-------|------|
@@ -163,6 +178,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ruler ↔ Reign ↔ Fact
+
 | Ruler | Reign | Fact |
 |-------|-------|------|
 | **Bahlul Lodi** | 1451–1489 | Afghan founder; annexed **Jaunpur Sharqi (जौनपुर शर्की) (1484)** |
@@ -170,6 +188,9 @@ hide:
 | **Ibrahim Lodi** | 1517–1526 | Last Sultan; alienated **Daulat Khan**; killed **Panipat** (पानीपत) |
 
 ---
+
+
+### Comparative Matrix: Department ↔ Head / Role
 
 | Department | Head / role |
 |------------|-------------|
@@ -208,6 +229,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Work ↔ Author ↔ Fact
+
 | Work | Author | Fact |
 |------|--------|------|
 | **Tabaqat-i-Nasiri** | **Minhaj-us-Siraj Juzjani** | Early Sultanate chronicle from Ghaznavid times to Nasiruddin Mahmud’s age |
@@ -243,6 +267,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Sultan Garhi | 1. Alauddin Khilji |
@@ -251,6 +278,9 @@ hide:
 | D. Dhai Din Ka Jhopra | 4. Balban |
 
 ---
+
+
+### Match Matrix: Battle ↔ Year / Result Tag
 
 | List-I (Battle) | List-II (Year / result tag) |
 |-----------------|-----------------------------|
@@ -261,6 +291,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Work ↔ Author / Tag
+
 | List-I (Work) | List-II (Author / tag) |
 |---------------|------------------------|
 | A. Kitab-ul-Yamini | 1. Firdausi |
@@ -270,6 +303,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Office / Term ↔ Meaning
+
 | List-I (Office / term) | List-II (Meaning) |
 |------------------------|-------------------|
 | A. Diwan-i-Tan | 1. Accounts |
@@ -278,6 +314,9 @@ hide:
 | D. Khams | 4. One-fifth of war booty |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

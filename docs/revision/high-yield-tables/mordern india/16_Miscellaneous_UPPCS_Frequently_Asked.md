@@ -82,6 +82,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Slogan ↔ Person ↔ Role
+
 | Slogan | Person | Role |
 |--------|--------|------|
 | **Swaraj is my birthright and I shall have it** | **Bal Gangadhar Tilak** (बाल गंगाधर तिलक) | Not Gokhale (गोखले), not Gandhi |
@@ -113,6 +116,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Paper ↔ Person ↔ Place / Tag
+
 | Paper | Person | Place / tag |
 |-------|--------|-------------|
 | **Kesari** (Marathi) / **Mahratta** (English) | Tilak | **Pune** — not Gorakhpur |
@@ -140,6 +146,9 @@ hide:
 | **Hindoo Patriot** | Harish Chandra Mukherjee | Bengal; Indigo (नील) revolt coverage |
 
 ---
+
+
+### Comparative Matrix: Book ↔ Author
 
 | Book | Author |
 |------|--------|
@@ -222,6 +231,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Year ↔ Act ↔ One Fact
+
 | Year | Act | One fact |
 |------|-----|----------|
 | **1773** | Regulating Act (रेगुलेटिंग एक्ट) | GG of Bengal; Supreme Court Calcutta |
@@ -251,6 +263,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Treaty ↔ Year ↔ War / Fact
+
 | Treaty | Year | War / fact |
 |--------|------|------------|
 | **Aix-la-Chapelle** | **1748** | 1st Carnatic (कर्नाटक) ends; **Madras returned** to English |
@@ -271,6 +286,9 @@ hide:
 | **Shimla Agreement** (Indira–Bhutto) | **1972** | After 1971 war — **≠** 1945 Simla Conference |
 
 ---
+
+
+### Comparative Matrix: Year ↔ Place ↔ President
 
 | Year | Place | President | Resolution / Milestone Fact |
 |:---|:---|:---|:---|
@@ -310,6 +328,9 @@ hide:
 | **1946** | Meerut (मेरठ) | Acharya J.B. Kripalani | President during the transfer of power and at the dawn of Independence (August 1947) |
 
 ---
+
+
+### Comparative Matrix: Organisation ↔ Year / Hq ↔ Person
 
 | Organisation | Year / HQ | Person |
 |--------------|-----------|--------|
@@ -383,6 +404,9 @@ hide:
 | **Rajkumari Amrit Kaur** | Free India's first **Health Minister** | |
 
 ---
+
+
+### Comparative Matrix: Official ↔ Policy Fact
 
 | Official | Policy fact |
 |----------|-------------|
@@ -513,6 +537,9 @@ hide:
 | Press 2022 | Swadesh **Gorakhpur**; Bharat Bandhu **Hathras**; Satyawadi **Agra**; Shakti **Almora** |
 
 ---
+
+
+### Comparative Matrix: Fact ↔ Match
 
 | Fact | Match |
 |------|------|
@@ -741,6 +768,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Swaraj is my birthright | 1. Gandhi, Quit India 1942 |
@@ -749,6 +779,9 @@ hide:
 | D. Inquilab Zindabad | 4. Subhas Chandra Bose / INA |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -759,6 +792,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Curzon | 1. Separate electorates 1909 |
@@ -767,6 +803,9 @@ hide:
 | D. Irwin | 4. Gandhi–Irwin Pact 1931 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -777,6 +816,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Willingdon | 1. 3 June Plan |
@@ -785,6 +827,9 @@ hide:
 | D. One caste, one religion, one God | 4. Sri Narayana Guru |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -795,6 +840,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Megasthenes | 1. Devaraya II / Zamorin of Calicut |
@@ -803,6 +851,9 @@ hide:
 | D. Jean-Baptiste Tavernier | 4. Devaraya I (Vijayanagar) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -813,6 +864,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Bardoli | 1. Mahatma Gandhi |
@@ -821,6 +875,9 @@ hide:
 | D. Seringapatam | 4. Sri Ramakrishna Paramahamsa / Vivekananda |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -831,6 +888,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Richard Strachey Commission (1880) | 1. Lord Curzon |
@@ -839,6 +899,9 @@ hide:
 | D. John Woodhead Commission (1943–44) | 4. Lord Elgin II |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

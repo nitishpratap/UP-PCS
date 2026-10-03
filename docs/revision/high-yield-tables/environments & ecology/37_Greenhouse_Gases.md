@@ -39,6 +39,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Gas ↔ Ods? ↔ Climate Role
+
 | Gas | ODS? | Climate role | Treaty home |
 |-----|------|--------------|-------------|
 | CFC | Yes | High GWP GHG | Montreal |
@@ -46,6 +49,9 @@ hide:
 | HCFC | Yes (lower) | Transitional | Montreal phase-out |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -55,6 +61,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Tropospheric O₃ | 1. UV shield |
@@ -63,6 +72,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Methane hydrates | 1. Feedback amplifier |
@@ -70,6 +82,9 @@ hide:
 | C. Rice | 3. Emits CH₄ and links to N₂O fertiliser neighbourhood |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

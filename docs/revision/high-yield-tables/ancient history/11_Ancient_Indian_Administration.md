@@ -82,12 +82,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
+
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
 | *Arthashastra* (अर्थशास्त्र) | **Kautilya / Chanakya** | Saptanga, adhyakshas, spies, revenue |
 | *Indica* | **Megasthenes** (मेगस्थनीज) | Agronomai, city boards, seven classes |
 
 ---
+
+
+### Comparative Matrix: Kind ↔ Examples ↔ Use
 
 | Kind | Examples | use |
 |------|----------|----------|
@@ -113,6 +119,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Period ↔ Revenue Fact ↔ Province / District
+
 | Period | Revenue fact | Province / district | War-peace |
 |--------|----------------|---------------------|-----------|
 | Vedic | **Bhagadugha** (भागदुघ) | — | — |
@@ -121,6 +130,9 @@ hide:
 | Harsha | grants | **Uparika** (उपरिक) | **Mahasandhivigrahika** (महासांधिविग्रहिक) |
 
 ---
+
+
+### Comparative Matrix: Traveller ↔ Age ↔ Admin Observation
 
 | Traveller | Age | Admin observation |
 |-----------|-----|-------------------|
@@ -145,6 +157,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Dhananjaya | 1. Kanchi |
@@ -153,6 +168,9 @@ hide:
 | D. Vishnugopa | 4. Palaka |
 
 ---
+
+
+### Match Matrix: Title ↔ Ruler
 
 | List-I (Title) | List-II (Ruler) |
 |---|---|
@@ -163,6 +181,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Inscription ↔ Fact
+
 | List-I (Inscription) | List-II (Fact) |
 |---|---|
 | 1. Aihole | A. Pulakeshin II vs Harsha |
@@ -172,6 +193,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Official ↔ Age / Role
+
 | List-I (Official) | List-II (Age / role) |
 |---|---|
 | 1. Bhagadugha | A. Gupta provincial governor |
@@ -180,6 +204,9 @@ hide:
 | 4. Rajuka | D. Mauryan district land and justice |
 
 ---
+
+
+### Confusing Pairs & High-Frequency Traps
 
 | List-I (Confused pair A) | List-II (Correct distinction) |
 |---|---|

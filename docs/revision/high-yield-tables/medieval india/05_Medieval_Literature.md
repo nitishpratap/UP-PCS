@@ -105,6 +105,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Work ↔ Author ↔ Language
+
 | Work | Author | Language |
 |------|--------|----------|
 | **Chandayan** | Mulla Daud | Awadhi/Hindavi |
@@ -115,6 +118,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Book ↔ Author ↔ Region / Subject
+
 | Book | Author (fact) | Region / subject |
 |------|---------------|------------------|
 | **Mirat-e-Sikandari** | Sikandar ibn Muhammad (**Manjhu**) | **Gujarat** Sultanate history |
@@ -123,6 +129,9 @@ hide:
 | **Riyaz-ul-Insha** | Letters of **Mahmud Gawan** | Bahmani wazir (वज़ीर)'s state correspondence |
 
 ---
+
+
+### Comparative Matrix: Work ↔ Translator/Author ↔ Notes
 
 | Work | Translator/Author | Notes |
 |------|-------------------|-------|
@@ -155,6 +164,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Akbarnama ↔ Ain-I-Akbari
+
 | | Akbarnama | Ain-i-Akbari |
 |---|-----------|--------------|
 | **Type** | Narrative history (3 volumes) | Administrative gazetteer |
@@ -162,6 +174,9 @@ hide:
 | **Trap** | Called "gazetteer" = wrong | Called "biography" = wrong |
 
 ---
+
+
+### Match Matrix: Book ↔ Context
 
 | List-I (Book) | List-II (Context) | Author cue |
 |---------------|-------------------|-------------|
@@ -186,12 +201,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Book ↔ Author ↔ Remember
+
 | Book | Author | Remember |
 |------|--------|----------|
 | **Padmavat** | **Malik Muhammad Jaisi** | Awadhi epic; UP fact |
 | **Padmavati Katha** | **Damodar Kavi** | Appears in vernacular book–author match lists |
 
 ---
+
+
+### Comparative Matrix: Historian ↔ Attitude ↔ Main Works
 
 | Historian | Attitude | Main works |
 |-----------|----------|------------|
@@ -210,6 +231,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Author ↔ Work
+
 | List-I (Author) | List-II (Work) |
 | :--- | :--- |
 | A. Mulla Daud | 1. Chandayan |
@@ -219,6 +243,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Disciple ↔ Guru
+
 | List-I (Disciple) | List-II (Guru) |
 | :--- | :--- |
 | A. Kabir | 1. Guru Nanak Dev |
@@ -227,6 +254,9 @@ hide:
 | D. Mardana | 4. Vallabhacharya |
 
 ---
+
+
+### Match Matrix: Historical Work ↔ Subject / Theme
 
 | List-I (Historical Work) | List-II (Subject / Theme) |
 | :--- | :--- |
@@ -264,6 +294,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Book ↔ Author
+
 | List-I (Book) | List-II (Author) |
 |---------------|------------------|
 | A. Tabaqat-i-Nasiri | 1. Ziauddin Barani |
@@ -272,6 +305,9 @@ hide:
 | D. Taj-ul-Maasir | 4. Hasan Nizami |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -282,6 +318,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Author ↔ Work
+
 | List-I (Author) | List-II (Work) |
 |---|---|
 | A. Mulla Daud | 1. Rag Vibodh |
@@ -291,6 +330,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Razmnama | 1. Persian Mahabharata rendering under Akbar |
@@ -299,6 +341,9 @@ hide:
 | D. Official Akbar panegyric | 4. Abul Fazl |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

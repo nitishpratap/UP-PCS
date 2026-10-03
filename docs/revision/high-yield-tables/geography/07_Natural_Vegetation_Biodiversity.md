@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Thornthwaite vs Köppen | Vegetation = climate **index** → Thornthwaite | Köppen | थॉर्नथ्वेट |
@@ -86,6 +89,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Rain ↔ Region
+
 | Type | Rain (cm) | Region | Trees / trait |
 |------|-----------|------------|---------------|
 | **Tropical evergreen (Selvas)** | **>200** | W Ghats, NE, Kerala, WB, Andamans | Multilayer; rosewood, mahogany, ebony, cinchona, rubber, bamboo; **no** complete dry leaf-shed |
@@ -98,6 +104,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Head ↔ Sub-Types
+
 | Head | Sub-types |
 |------|-----------|
 | **Moist tropical** | Wet evergreen · Semi-evergreen · Moist deciduous · Littoral and swamp |
@@ -105,6 +114,9 @@ hide:
 | **Montane sub-tropical** | Broad-leaved hill · Moist hill (pine) · Dry evergreen |
 | **Montane temperate** | Wet temperate · Himalayan moist temperate · Himalayan dry temperate |
 | **Alpine** | Sub-alpine · Moist alpine scrub · Dry alpine scrub |
+
+### Comparative Matrix: Share Of Forest Area ↔ Type
+
 | Share of forest area (class figures) | Type |
 |------------------------------------------|------|
 | About **37%** | Tropical **moist deciduous** (largest) |
@@ -115,6 +127,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Name ↔ Where ↔ Memory
+
 | Name | Where | Memory |
 |------|--------|--------|
 | **Maquis** | Mediterranean coast | Maquis = Mediterranean |
@@ -123,6 +138,9 @@ hide:
 | **Fynbos** | South Africa (Cape) | Fynbos = fine bush of the Cape |
 
 ---
+
+
+### Comparative Matrix: Plant ↔ Belt ↔ Why
 
 | Plant | Belt | Why |
 |------|------|-----|
@@ -133,6 +151,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Note ↔ Standard Figure ↔ Alternate Note You May See
+
 | Note | Standard figure | Alternate note you may see |
 |-----|-----------------|----------------------------|
 | Rain | **>200 cm** | Wet evergreen often written **>250 cm** |
@@ -142,6 +163,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Rain ↔ Area
+
 | Type | Rain (usual) | Area | Signature trees |
 |------|--------------|----------|-----------------|
 | **Moist deciduous** | **100–200 cm** | Largest share (~**37%**) | **Teak**, **sal**, shisham, neem, mango |
@@ -149,6 +173,9 @@ hide:
 | Whole deciduous family (wide notes) | Sometimes written **70–200 cm** | Same monsoon-forest family | Split by rain, not by a different “family” |
 
 ---
+
+
+### Comparative Matrix: Note ↔ Figure / Trait
 
 | Note | Figure / trait |
 |-----|----------------|
@@ -183,6 +210,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Mangrove Pocket ↔ State
+
 | Mangrove pocket | State |
 |-----------------|-------|
 | **Achra–Ratnagiri** | **Maharashtra** |
@@ -191,6 +221,9 @@ hide:
 | **Vembanad** | **Kerala** (not Karnataka) |
 
 ---
+
+
+### Comparative Matrix: Fact ↔ Note
 
 | Fact | Note |
 |------|------|
@@ -235,6 +268,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Hindi ↔ Meaning
+
 | Type | Hindi | Meaning | Example |
 |------|--------|---------|---------|
 | **Xerophyte** | मरुद्भिद | Dry-adapted | Thorn forest: spines, succulence, deep roots |
@@ -245,11 +281,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Hindi ↔ Meaning
+
 | Feature | Hindi | Meaning | Example |
 |---------|--------|---------|---------|
 | **Pneumatophore** | वात-मूल / श्वसन मूल | Breathing root | Mangrove roots that stick up out of mud |
 
 ---
+
+
+### Comparative Matrix: Category ↔ Fact
 
 | Category | Fact |
 |----------|------|
@@ -306,6 +348,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Name ↔ Type ↔ Belt
+
 | Name | Type | Belt | Note |
 |------|------|------|------|
 | Dudhwa | NP | Lakhimpur Kheri | Only UP NP |
@@ -313,6 +358,9 @@ hide:
 | Pilibhit TR | Tiger Reserve | Pilibhit–Shahjahanpur (शाहजहाँपुर) | Separate Terai TR — not Dudhwa NP |
 | Amangarh TR | Tiger Reserve | **Bijnor** | Corbett buffer/extension |
 | Ranipur TR | Tiger Reserve | **Chitrakoot** (चित्रकूट) | Bundelkhand |
+
+### National Parks, Wildlife Sanctuaries & Biosphere Reserves
+
 | Sanctuary | District | Extra |
 |-----------|----------|-------|
 | Katarniaghat | Bahraich | Est. **1975** |
@@ -329,6 +377,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ramsar Site ↔ District / Belt
+
 | # | Ramsar site (IN UP) | District / belt |
 |---|---------------------|-----------------|
 | 1 | Upper Ganga | Brijghat–Narora |
@@ -344,6 +395,9 @@ hide:
 | 11 | Patna Bird Sanctuary | Etah |
 | 12 | Sheikha / Shekha Jheel | Aligarh (अलीगढ़) |
 | 13 | Surha Tal / JP Narayan Bird Sanctuary | Ballia |
+
+### Comparative Matrix: Name That Sounds Like Up ↔ Actual State ↔ Trap
+
 | Name that sounds like UP | Actual state | Trap |
 |--------------------------|--------------|------|
 | Rudrasagar | **Tripura** | Not UP |
@@ -351,6 +405,9 @@ hide:
 | Surinsar–Mansar | **J&K** | Not UP |
 
 ---
+
+
+### Comparative Matrix: Tree ↔ Region
 
 | Tree | Region |
 | --- | --- |
@@ -361,6 +418,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Forest ↔ Region
+
 | Forest | Region |
 | --- | --- |
 | A. Tropical moist deciduous | 1. Arunachal Pradesh |
@@ -370,6 +430,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 | --- | --- |
 | A. Tropical forest | 1. Sunderbans |
@@ -378,6 +441,9 @@ hide:
 | D. Deciduous forest | 4. Silent Valley |
 
 ---
+
+
+### Comparative Matrix: Mangrove ↔ State
 
 | Mangrove | State |
 | --- | --- |
@@ -389,6 +455,9 @@ hide:
 
 ---
 
+
+### National Parks, Wildlife Sanctuaries & Biosphere Reserves
+
 | National Park | State |
 | --- | --- |
 | A. Simlipal | 1. Karnataka |
@@ -397,6 +466,9 @@ hide:
 | D. Bandipur | 4. Odisha |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -407,6 +479,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Achra–Ratnagiri | 1. Kerala |
@@ -415,6 +490,9 @@ hide:
 | D. Silent Valley | 4. Tropical evergreen, Kerala |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

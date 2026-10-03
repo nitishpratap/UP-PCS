@@ -145,6 +145,9 @@ hide:
 
 ---
 
+
+### Mineral Belts, Mining Centres & State Shares
+
 | Mineral / resource | Uttar Pradesh | Uttarakhand | Trap |
 |---|---|---|---|
 | **Limestone / cement** | **Sonbhadra** (Churk, Dalla, Ghurma); also Banda–Mirzapur belt | **Dehradun**, Tehri, Pithoragarh, Pauri belts | Do not give Rajasthan’s Makrana marble as a UP fact |
@@ -180,6 +183,9 @@ hide:
 | **Mica (Ruby Mica / Muscovite)** | **Andhra Pradesh** (1st in production), Rajasthan, Jharkhand | • **Andhra Pradesh**: Nellore Mica Belt (Gudur)  <br>• **Jharkhand**: **Koderma** (historically called the *"Mica Capital of the World"*), Giridih, Hazaribagh  <br>• **Rajasthan**: Bhilwara, Ajmer, Jaipur | • India was historic world leader in sheet mica (Muscovite / Ruby mica).  <br>• Essential electrical insulator resistant to high voltages. |
 
 ---
+
+
+### Ocean Currents: Characteristics & Climatic Effects
 
 | Ocean Basin | Warm Ocean Currents | Cold Ocean Currents | High-Yield Prelims Exam Takeaways |
 |---|---|---|---|

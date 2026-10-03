@@ -92,6 +92,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Carbon ↔ Character
+
 | Type | Carbon | Character | Region |
 |------|---------------|-----------|-------------------------|
 | **Peat** | Lowest | First stage; high water | Ireland, Russia, Canada bogs |
@@ -101,6 +104,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Role ↔ Usual Names
+
 | Role | Usual names |
 |------|-------------|
 | **Volume miners** | **China** (eats most of it), India, Indonesia, USA, Australia, Russia, South Africa |
@@ -108,6 +114,9 @@ hide:
 | Trap | China is **not** the classic export king — it is the volume **consumer** |
 
 ---
+
+
+### Comparative Matrix: Coalfield ↔ Country ↔ Note
 
 | Coalfield | Country | Note |
 |-----------|---------|------------|
@@ -135,6 +144,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Coal Field ↔ Country
+
 | List-I (Coal Field) | List-II (Country) |
 |---------------------|-------------------|
 | A. Appalachian | 1. England |
@@ -143,6 +155,9 @@ hide:
 | D. Kuzbass | 4. USA |
 
 ---
+
+
+### Comparative Matrix: Ore ↔ Colour ↔ Fe
 
 | Ore | Colour | Fe | Fact |
 |-----|--------|-----------|------|
@@ -153,6 +168,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Role ↔ Usual Names
+
 | Role | Usual names |
 |------|-------------|
 | **Volume miners** | Australia, Brazil, **China**, India, Russia |
@@ -160,6 +178,9 @@ hide:
 | Trap | China mines a lot and still **imports**. India is a miner, not the Pilbara-style ship king |
 
 ---
+
+
+### Comparative Matrix: Area ↔ Country ↔ Note
 
 | Area | Country | Note |
 |------|---------|------------|
@@ -188,6 +209,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Place ↔ Country ↔ Note
+
 | Place | Country | Note |
 |-------|---------|------------|
 | **Chuquicamata** | **Chile** | Open-pit giant; Atacama / N Chile |
@@ -206,6 +230,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Place ↔ Country ↔ Note
+
 | Place | Country | Note |
 |-------|---------|------------|
 | **Kinta Valley** | **Malaysia** | 2020 PYQ. Rubber grows in Malaysia; Kinta still = **tin** |
@@ -218,6 +245,9 @@ hide:
 | Rondônia (राष्ट्रीय अन्वेषण एजेंसी) | Brazil | Also revise |
 
 ---
+
+
+### Comparative Matrix: Field / Area ↔ Country ↔ Trap
 
 | Field / area | Country | Trap |
 |--------------|---------|------|
@@ -254,6 +284,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Role ↔ Usual Names
+
 | Role | Usual names |
 |------|-------------|
 | Reserves | **Russia, Iran, Qatar**, USA, Turkmenistan |
@@ -261,6 +294,9 @@ hide:
 | LNG export | **Qatar, Australia**, USA |
 
 ---
+
+
+### Comparative Matrix: Field / Area ↔ Country ↔ Note
 
 | Field / area | Country | Note |
 |--------------|---------|------------|
@@ -279,6 +315,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Project ↔ River ↔ Country
+
 | Project | River | Country |
 |---------|-------|---------|
 | **Three Gorges** | Yangtze | **China** |
@@ -292,6 +331,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Country ↔ Fact
+
 | Country | Fact |
 |---------|------|
 | **Iceland** | Power + heating |
@@ -302,6 +344,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Body ↔ Hq
+
 | Body | HQ |
 |------|-----|
 | OPEC | Vienna |
@@ -310,6 +355,9 @@ hide:
 | IRENA | Abu Dhabi |
 
 ---
+
+
+### Comparative Matrix: Place ↔ Country
 
 | Place | Country |
 |-------|---------|
@@ -320,6 +368,9 @@ hide:
 | Odisha / Maharashtra | India |
 
 ---
+
+
+### Comparative Matrix: Place ↔ Country
 
 | Place | Country |
 |-------|---------|
@@ -332,6 +383,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Place ↔ Country
+
 | Place | Country |
 |-------|---------|
 | **Witwatersrand** | South Africa |
@@ -342,6 +396,9 @@ hide:
 | — | China (modern volume) |
 
 ---
+
+
+### Mineral Belts, Mining Centres & State Shares
 
 | Mineral | World centre |
 |---------|------------|
@@ -388,6 +445,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Coal Field ↔ Country
+
 | List-I (Coal Field) | List-II (Country) |
 |---------------------|-------------------|
 | A. Appalachian | 1. England |
@@ -396,6 +456,9 @@ hide:
 | D. Kuzbass | 4. USA |
 
 ---
+
+
+### Match Matrix: Field / Place ↔ Mineral
 
 | List-I (Field / place) | List-II (Mineral) |
 |-------------------------|-------------------|
@@ -406,6 +469,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Minerals ↔ Major Mining Basins
+
 | List-I | List-II |
 |--------|--------|
 | A. Weipa | 1. Phosphate |
@@ -415,6 +481,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Field ↔ Country
+
 | List-I (Field) | List-II (Country) |
 |-----------------|-------------------|
 | A. Donetsk | 1. Iraq |
@@ -423,6 +492,9 @@ hide:
 | D. North Sea belt | 4. UK–Norway |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

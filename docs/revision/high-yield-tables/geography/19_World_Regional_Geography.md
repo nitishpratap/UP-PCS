@@ -75,6 +75,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: East Asia ↔ Capital ↔ Physical Fact
+
 | East Asia | Capital | Physical fact |
 |-----------|---------|---------------|
 | **China** | Beijing | Tibet; Hwang Ho / Yangtze; Manchurian plain NE; Tropic through south; Shanghai on Yangtze mouth |
@@ -100,6 +103,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Order ↔ Range ↔ Where
+
 | Order | Range | Where |
 |-------|-------|-------|
 | 1 | **Pontic** | North **Turkey**, Black Sea coast |
@@ -108,6 +114,9 @@ hide:
 | 4 | **Karakoram** (काराकोरम) | Pakistan–China |
 
 ---
+
+
+### Comparative Matrix: Country ↔ Capital ↔ Extra
 
 | Country | Capital | Extra |
 |---------|---------|-------|
@@ -128,6 +137,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Country ↔ Capital ↔ Desert / Extra
+
 | Country | Capital | Desert / extra |
 |---------|---------|----------------|
 | **Uzbekistan** | **Tashkent** | Aral / Amu–Syr irrigation |
@@ -138,6 +150,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Country ↔ Capital
+
 | List-I (Country) | List-II (Capital) |
 |------------------|-------------------|
 | A. Uzbekistan | 1. Tashkent |
@@ -146,6 +161,9 @@ hide:
 | D. Turkmenistan | 4. Ashgabat |
 
 ---
+
+
+### Comparative Matrix: Country ↔ Capital ↔ Fact
 
 | Country | Capital | Fact |
 |---------|---------|------|
@@ -163,6 +181,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: South Korea ↔ North Korea
+
 | | **South Korea** | **North Korea** |
 |--|-----------------|-----------------|
 | Capital | **Seoul** | **Pyongyang** |
@@ -171,6 +192,9 @@ hide:
 | Divide | **~38th parallel** / DMZ | |
 
 ---
+
+
+### Comparative Matrix: Piece ↔ Fact
 
 | Piece | Fact |
 |-------|------|
@@ -182,6 +206,9 @@ hide:
 | **Ramallah** | West Bank administrative centre often in news |
 
 ---
+
+
+### Comparative Matrix: Extra Map Piece ↔ Fact
 
 | Extra map piece | Fact |
 |-----------------|------|
@@ -209,6 +236,9 @@ hide:
 
 ---
 
+
+### Major Seaports & Coastal Trade Hubs
+
 | Port–country | Right? |
 |-------------------------|--------|
 | Rotterdam – Netherlands | Yes |
@@ -217,6 +247,9 @@ hide:
 | **Igarka – China** | **NO** — Igarka is **Russia** (Yenisei, Siberia) |
 
 ---
+
+
+### Comparative Matrix: Belt ↔ Countries / Fact
 
 | Belt | Countries / fact |
 |------|------------------|
@@ -230,6 +263,9 @@ hide:
 | **Islands** | Madagascar (4th largest island), Cape Verde (**Praia**), Mauritius, Seychelles, Comoros. **Madeira / Canary = Atlantic, not “African Caribbean”** |
 
 ---
+
+
+### Comparative Matrix: Country ↔ Capital
 
 | Country | Capital |
 |---------|---------|
@@ -253,6 +289,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Country ↔ Capital ↔ Coast?
+
 | Country | Capital | Coast? | Regional fact |
 |---------|---------|--------|---------------|
 | **Brazil** | **Brasília** (not Rio / São Paulo) | Atlantic | **Selva** + **Terra Roxa** (2025 both). Amazon |
@@ -271,6 +310,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Coast ↔ What Sits There
+
 | Coast | What sits there |
 |-------|-----------------|
 | **South-west** | **Darling Range** (Perth / WA) — 2020 |
@@ -281,6 +323,9 @@ hide:
 | **Tasmania** | South of Bass Strait |
 
 ---
+
+
+### Comparative Matrix: Extra ↔ Fact
 
 | Extra | Fact |
 |-------|------|
@@ -303,6 +348,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Station ↔ Fact
+
 | Station | Fact |
 |---------|------|
 | **Dakshin Gangotri** | First Indian (1983/84). **Not operational** now (supply base / abandoned as permanent station) |
@@ -311,11 +359,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Group ↔ Islands
+
 | Group | Islands |
 |-------|---------|
 | **Greater Antilles** | Cuba, Jamaica, Hispaniola (**Haiti + Dominican Republic**), Puerto Rico |
 | **Lesser Antilles** (names) | **Grenada, Montserrat, Anguilla**, Barbados, Trinidad (S edge), Antigua |
 | **NOT Caribbean** | **Madeira** (Portugal, NE Atlantic off Morocco), Canary Islands (Spain, Atlantic), **Azores**, **Cape Verde**, Bermuda (N Atlantic) |
+
+### Comparative Matrix: Island ↔ Capital / Extra
+
 | Island | Capital / extra |
 |--------|-----------------|
 | Cuba | Havana; largest Caribbean island |
@@ -327,6 +381,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Line ↔ Note
+
 | Line | Note |
 |------|------|
 | **38th parallel** | Approx. Korea DMZ / North–South Korea |
@@ -337,6 +394,9 @@ hide:
 | **Maginot / Siegfried** | Historic France–Germany fortification names |
 
 ---
+
+
+### Comparative Matrix: Country ↔ Capital ↔ Famous Non-Capital
 
 | Country | Capital | Famous non-capital |
 |---------|---------|-------------------|
@@ -358,6 +418,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Country ↔ Capital
+
 | List-I (Country) | List-II (Capital) |
 |------------------|-------------------|
 | A. Uzbekistan | 1. Tashkent |
@@ -367,6 +430,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Note ↔ Fact
+
 | Note | Fact |
 |-----|------|
 | Largest by **L-1** | Often **Mandarin Chinese** |
@@ -375,6 +441,9 @@ hide:
 | Spanish | Official across much of Latin America |
 
 ---
+
+
+### Comparative Matrix: Country / Place ↔ Language
 
 | Country / place | Language |
 |-----------------|--------------|
@@ -389,6 +458,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Country ↔ Capital
+
 | List-I (Country) | List-II (Capital) |
 |-------------------|-------------------|
 | A. Uzbekistan | 1. Ashgabat |
@@ -397,6 +469,9 @@ hide:
 | D. Tajikistan | 4. Bishkek |
 
 ---
+
+
+### Match Matrix: Country ↔ Capital ≠ Tourist Mega-City Trap
 
 | List-I (Country) | List-II (Capital ≠ tourist mega-city trap) |
 |-------------------|---------------------------------------------|
@@ -407,6 +482,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Item ↔ Association
+
 | Item | Association |
 |------|-------------|
 | 1. Mekong delta | Southern Vietnam |
@@ -414,6 +492,9 @@ hide:
 | 3. Brazil Selva / Terra Roxa | Rainforest / coffee soil |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

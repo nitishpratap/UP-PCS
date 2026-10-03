@@ -39,12 +39,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Origin ↔ Example
+
 | Type | Origin | Example |
 |------|--------|---------|
 | Primary | Manufactured small | Microbeads, nurdles |
 | Secondary | Large plastic breaks down | Bag fragments, tyre particles |
 
 ---
+
+
+### Comparative Matrix: Concept ↔ What It Is
 
 | Concept | What it is |
 |---------|------------|
@@ -54,6 +60,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Country ↔ Net Zero Year
+
 | Country | Net zero year |
 |---------|---------------|
 | EU / UK | 2050 |
@@ -61,6 +70,9 @@ hide:
 | **India** | **2070** |
 
 ---
+
+
+### Comparative Matrix: Instrument ↔ India Milestone
 
 | Instrument | India milestone |
 |------------|-----------------|
@@ -70,6 +82,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Sector ↔ Scheme
+
 | Sector | Scheme |
 |--------|--------|
 | Mangrove restoration | MISHTI 2023 |
@@ -77,6 +92,9 @@ hide:
 | Deep-sea exploration | Deep Ocean Mission |
 
 ---
+
+
+### Comparative Matrix: Field ↔ Detail
 
 | Field | Detail |
 |-------|--------|
@@ -87,6 +105,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Report ↔ Organisation
+
 | List-I (Report) | List-II (Organisation) |
 | --- | --- |
 | A. Human Development Report | 1. IMF |
@@ -96,6 +117,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. 1 carbon credit | 1. 2023 eco-action rewards |
@@ -104,6 +128,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. SUP ban push | 1. Lifestyle mission |
@@ -111,6 +138,9 @@ hide:
 | C. Loss & Damage Fund | 3. Climate finance politics |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

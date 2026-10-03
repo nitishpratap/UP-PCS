@@ -40,6 +40,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Indicator ↔ Medium ↔ High Value Means
+
 | Indicator | Medium | High value means |
 |-----------|--------|------------------|
 | PM2.5 / AQI | Air | Worse air |
@@ -49,6 +52,9 @@ hide:
 | Ringelmann | Smoke | Denser plume |
 
 ---
+
+
+### Comparative Matrix: System ↔ Nodal ↔ Medium
 
 | System | Nodal | Medium |
 |--------|-------|--------|
@@ -60,6 +66,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Tool ↔ Role
+
 | Tool | Role |
 |------|------|
 | Form V statement | Annual statutory disclosure to SPCB |
@@ -69,6 +78,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. NAMP | 1. Real-time air |
@@ -76,6 +88,9 @@ hide:
 | C. NWMP | 3. Surface water |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -85,6 +100,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. BOD | 1. EMS standard |
@@ -92,6 +110,9 @@ hide:
 | C. ISO 14001 | 3. Chemical oxygen demand |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

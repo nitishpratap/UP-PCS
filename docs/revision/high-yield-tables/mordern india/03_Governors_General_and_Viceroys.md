@@ -157,6 +157,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Phase ↔ Years ↔ What Changed
+
 | Phase | Years | What changed | First holder |
 |-------|-------|---------------|---------------|
 | **Company Governors of Bengal** | to 1773 | Governor of Fort William / Bengal Presidency (प्रेसीडेंसी) under Company charter; no all-India legal standing | Clive (1758–60, 1765–67) |
@@ -217,6 +220,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Person ↔ Tag
+
 | List-I (Person) | List-II (Tag) |
 |-----------------|---------------|
 | A. Cornwallis | 1. Subsidiary Alliance |
@@ -225,6 +231,9 @@ hide:
 | D. Dalhousie | 4. Abolition of Sati 1829 |
 
 ---
+
+
+### Match Matrix: Gg/Viceroy ↔ War / Event
 
 | List-I (GG/Viceroy) | List-II (War / event) |
 |---------------------|------------------------|
@@ -235,6 +244,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Act ↔ Core
+
 | List-I (Act) | List-II (Core) |
 |--------------|----------------|
 | A. Charter Act 1853 | 1. Muslim separate electorates |
@@ -243,6 +255,9 @@ hide:
 | D. GOI Act 1935 | 4. Provincial dyarchy |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|

@@ -32,6 +32,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Year ↔ Place ↔ President
+
 | # | Year | Place | President | The one fact |
 |---|------|-------|-----------|---------------|
 | 1 | 1885 | Bombay | **W.C. Bonnerjee** | First session; Hume organised, did not preside |
@@ -49,6 +52,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Stage ↔ Rough Years ↔ Method
+
 | Stage | Rough years | Method | Key fact |
 |-------|-------------|--------|-----------|
 | Pre-Congress associations | **1866–1885** | Petitions, provincial lobbies | East India Assoc → Indian Assoc → INC |
@@ -59,6 +65,9 @@ hide:
 | Gandhian mass phase | **1919 onward** | Mass satyagraha (सत्याग्रह) (full detail **Topics 13–14**) | Amritsar (अमृतसर) 1919 onward |
 
 ---
+
+
+### Comparative Matrix: Year ↔ Organisation ↔ Place
 
 | Year | Organisation (संगठन) | Place | Key Founder(s) / Promoters | Core Objectives & Notes |
 |:----:|:---------------------|:------|:---------------------------|:------------------------|
@@ -86,12 +95,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Year ↔ Organisation Name ↔ Founders / Leaders
+
 | Year | Organisation Name | Founders / Leaders | Core Objective / Platform |
 |:----:|:------------------|:-------------------|:--------------------------|
 | **1888** | **United Indian Patriotic Association** (संयुक्त भारतीय राजभक्त सभा) | **Sir Syed Ahmad Khan** & **Raja Shiv Prasad (Sitara-i-Hind)** of Banaras | Formed to **oppose the Indian National Congress**, dissuade Muslims and Hindu landlords from joining Congress, and rally support for the British Raj |
 | **1893** | **Muhammadan Anglo-Oriental Defence Association of Upper India** | **Sir Syed Ahmad Khan** & **Theodore Beck** (Principal of MAO College, Aligarh) | Formed to prevent Muslims from participating in national political agitation and to advocate separate Muslim political interests |
 
 ---
+
+
+### Comparative Matrix: Year ↔ City / Venue ↔ President
 
 | # | Year | City / Venue | President (अध्यक्ष) | Historical Significance / Landmark Event |
 |:---:|:----:|:-------------|:--------------------|:-----------------------------------------|
@@ -106,6 +121,9 @@ hide:
 | **9** | **1946** | **Meerut** (मेरठ) | **J.B. Kripalani** | Last pre-independence session; Kripalani was President **at the time of Indian Independence** (15 Aug 1947) |
 
 ---
+
+
+### Comparative Matrix: Safety Valve Theory ↔ National Awakening View
 
 | | Safety Valve Theory | National Awakening view |
 |---|---|---|
@@ -159,6 +177,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Leader ↔ Penalty ↔ Years
+
 | Leader | Penalty | Years |
 |--------|---------|-------|
 | **Lala Lajpat Rai** | Deported to **Mandalay** without trial under Regulation III of 1818 | **May–November 1907** (six months) |
@@ -208,6 +229,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Session ↔ Fact
+
 | List-I (Session) | List-II (Fact) |
 |------------------|----------------|
 | A. Madras 1887 | 1. First English President |
@@ -216,6 +240,9 @@ hide:
 | D. Kanpur 1925 | 4. First Indian woman President |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -226,6 +253,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Bombay 1885 | 1. Dadabhai Naoroji; Swaraj as goal |
@@ -234,6 +264,9 @@ hide:
 | D. Karachi 1931 | 4. Vallabhbhai Patel; Fundamental Rights |
 
 ---
+
+
+### Match Matrix: Association ↔ Founder / Place Tag
 
 | List-I (Association) | List-II (Founder / place tag) |
 |----------------------|-------------------------------|

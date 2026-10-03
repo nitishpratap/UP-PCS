@@ -126,6 +126,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Marine Np ↔ State/Ut ↔ Fact
+
 | # | Marine NP | State/UT | Fact |
 |---|-----------|----------|------|
 | 1 | Gulf of Kutch | Gujarat | **First** |
@@ -134,6 +137,9 @@ hide:
 | 4 | Rani Jhansi Marine | Andaman | Ritchie’s Archipelago |
 
 ---
+
+
+### Comparative Matrix: Park ↔ Country ↔ Fact
 
 | Park | Country | Fact |
 |------|---------|------|
@@ -145,6 +151,9 @@ hide:
 | Galápagos | Ecuador | Evolution / WH |
 
 ---
+
+
+### Comparative Matrix: Site ↔ State ↔ Wh Note
 
 | Site | State | WH note |
 |------|-------|---------|
@@ -158,6 +167,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Coastal / Marine Park ↔ Coast ↔ Fact
+
 | Coastal / marine park | Coast | Fact |
 |-----------------------|-------|------|
 | Sundarbans NP | East | Mangrove + WH |
@@ -168,6 +180,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 | --- | --- |
 | A. Dachigam | 1. Madhya Pradesh |
@@ -176,6 +191,9 @@ hide:
 | D. Periyar | 4. Jammu and Kashmir |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 | --- | --- |
@@ -186,6 +204,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Corbett | 1. Haryana |
@@ -193,6 +214,9 @@ hide:
 | C. Rudrasagar | 3. Tripura |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -202,6 +226,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. National Chambal | 1. Gujarat largest WLS |
@@ -209,6 +236,9 @@ hide:
 | C. Kuno–Palpur | 3. Asiatic lion second-home neighbourhood |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

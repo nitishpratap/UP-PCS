@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Pair ↔ Concept A ↔ Concept B
+
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
 | **Brass vs. Bronze** | **Brass**: Alloy of Copper ($Cu$) and **Zinc ($Zn$)**. | **Bronze**: Alloy of Copper ($Cu$) and **Tin ($Sn$)**. | **Second Metal**: Brass has Zinc (yellowish, ductile); Bronze has Tin (brownish, sonorous, harder). |

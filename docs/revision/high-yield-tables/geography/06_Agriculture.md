@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Kharif vs rabi | Wheat = **rabi**; cotton/rice = **kharif** | Wheat kharif / cotton rabi | गेहूँ रबी; कपास खरीफ |
@@ -101,6 +104,9 @@ hide:
 
 ---
 
+
+### Nine-Fold Land-Use Classification (Ministry of Agriculture)
+
 | Class | What it means |
 |-------|----------------|
 | Forests | Area reported as forest |
@@ -112,6 +118,9 @@ hide:
 | **Net sown area (NSA)** | Land sown with crops **at least once** in the year |
 
 ---
+
+
+### Major Farming Systems & Agricultural Typology
 
 | Type | Recall |
 |------|--------|
@@ -128,6 +137,9 @@ hide:
 | Contract farming | **Punjab** pioneer in India |
 
 ---
+
+
+### Cropping Patterns & Agronomic Systems
 
 | Pattern | Recall |
 |---------|--------|
@@ -154,6 +166,9 @@ hide:
 
 ---
 
+
+### Core Rice Belts of India
+
 | Belt | States |
 |------|--------|
 | Lower Ganga / delta | West Bengal (multi-rice + jute) |
@@ -165,6 +180,9 @@ hide:
 
 ---
 
+
+### Nutri-Cereals & Millets (Shree Anna)
+
 | Crop | Leading state | Note |
 |------|---------------|------|
 | **Jowar** (ज्वार) | **Maharashtra** | Some rabi jowar in the peninsula |
@@ -172,6 +190,9 @@ hide:
 | **Ragi** | **Karnataka** | Ca-rich; red/lateritic soils OK |
 
 ---
+
+
+### Major Pulses & Leguminous Crops Matrix
 
 | Pulse | Season | Note |
 |-------|--------|------|
@@ -199,6 +220,9 @@ hide:
 
 ---
 
+
+### Four Cultivated Cotton Species in India
+
 | Species | Common tag | What it gives |
 |---------|------------|---------------|
 | *Gossypium arboreum* | Desi / Old World | Short staple; drought- and pest-hardy |
@@ -207,6 +231,9 @@ hide:
 | *Gossypium barbadense* | Egyptian / Sea Island | **Extra-long staple (ELS)**; small premium pockets in the south |
 
 ---
+
+
+### Cotton Staple Length Classification
 
 | Class | Approx. length | India note |
 |-------|----------------|------------|
@@ -217,6 +244,9 @@ hide:
 | **Extra-long staple (ELS)** | about **≥32.5 mm** | Premium yarn; India still **imports** much ELS (Egypt (मिस्र) / USA style) |
 
 ---
+
+
+### Jute & Bast Fibre Classification
 
 | Type | Botanical name | Field note |
 |------|----------------|------------|
@@ -239,12 +269,18 @@ hide:
 
 ---
 
+
+### Indian Coffee Cultivars (Arabica vs Robusta)
+
 | Coffee species | Note |
 |----------------|------|
 | **Arabica** | Higher elevation, milder cup, more pest-sensitive |
 | **Robusta** | Lower elevation, stronger cup, hardier |
 
 ---
+
+
+### Agricultural GI Tags & Renowned Regional Varieties
 
 | GI / variety | Place |
 |--------------|-------|
@@ -260,6 +296,9 @@ hide:
 | Coorg coffee / Alleppey cardamom | KA / KL GI note |
 
 ---
+
+
+### Regional Zoning Frameworks (Planning Commission vs ICAR vs NBSS&LUP)
 
 | System | Count | Use |
 |--------|-------|-----|
@@ -291,6 +330,9 @@ hide:
 
 ---
 
+
+### Agro-Ecological Regions (AER) by Ecosystem
+
 | Ecosystem | Example AER tags |
 |-----------|------------------|
 | Arid | Western Himalayas cold arid; Western Plain–Kachchh; Deccan Plateau (दक्कन पठार) arid |
@@ -300,6 +342,9 @@ hide:
 | Coastal | Eastern Coastal Plains + A&N; Western Ghats (पश्चिमी घाट) coastal plains and hills |
 
 ---
+
+
+### Irrigation Systems & Efficiency Metrics in India
 
 | Type | Best terrain | Risk / note |
 |------|--------------|-------------|
@@ -327,6 +372,9 @@ hide:
 
 ---
 
+
+### Major Crop Diseases & Causal Agents
+
 | Disease / problem | Cause |
 |-------------------|------------------|
 | Citrus canker | **Bacteria** |
@@ -341,6 +389,9 @@ hide:
 
 ---
 
+
+### Prominent Indigenous Livestock Breeds
+
 | Breed | Animal | Tag |
 |-------|--------|-----|
 | Murrah | Buffalo | Haryana / high yield |
@@ -354,6 +405,9 @@ hide:
 
 ---
 
+
+### Irrigation Systems & Efficiency Metrics in India
+
 | System | Core | Where / tool |
 |--------|------|--------------|
 | **Jhum** (shifting) | Slash-burn, 1–3 yr crop, then fallow | **NE** (jhum); **podu / penda** (AP/Odisha); **bewar / dahiya / mashan** (MP–CG); **kumari** (W Ghats); **waltre** (SE Rajasthan); **poonam** (Kerala); **kuruwa** (Jharkhand); **khil** (Himalayan belt) |
@@ -361,6 +415,9 @@ hide:
 | **Precision** | Site-specific inputs | GIS / GPS / sensors / drones — not “stop irrigation” |
 
 ---
+
+
+### Pioneers & Architects of Indian Agriculture
 
 | Person | Role |
 |--------|------|
@@ -371,6 +428,9 @@ hide:
 | Morarji Desai (आमिल) | Bank social control |
 | Amartya Sen | Food **entitlements** — not Swaminathan |
 | Hiralal Chaudhuri | Blue Revolution (fisheries) tag |
+
+### Agricultural Revolutions & Commodity Matrix
+
 | Revolution | Sector |
 |------------|--------|
 | Green | Food grains (wheat → rice) |
@@ -388,6 +448,9 @@ hide:
 
 ---
 
+
+### Frequently Confused Revolution Colours
+
 | Colour | Sector |
 |--------|--------|
 | Golden | Horticulture **and honey** |
@@ -396,6 +459,9 @@ hide:
 | Black | Petroleum |
 
 ---
+
+
+### Uttar Pradesh Agricultural Milestones & High-Yield Facts
 
 | Theme | Fact |
 |-------|------|
@@ -410,6 +476,9 @@ hide:
 
 ---
 
+
+### Major Crop Diseases & Causal Agents
+
 | List-I (Plant Disease) | List-II (Cause) |
 |---|---|
 | A. Citrus Canker | 1. Insect |
@@ -418,6 +487,9 @@ hide:
 | D. Sahu Disease of Wheat | 4. Fungus |
 
 ---
+
+
+### Pioneers & Architects of Indian Agriculture
 
 | List-I (Person) | List-II (Concerned with) |
 |---|---|
@@ -428,6 +500,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Revolution ↔ Related With
+
 | List-I (Revolution) | List-II (Related with) |
 |---|---|
 | A. Golden Revolution | 1. Oilseed production |
@@ -436,6 +511,9 @@ hide:
 | D. Black Revolution | 4. Fertilizers |
 
 ---
+
+
+### Match Matrix: Agricultural Revolutions ↔ Associated Sectors
 
 | List-I | List-II |
 | --- | --- |
@@ -446,6 +524,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Commercial Crops ↔ Leading Producing States
+
 | List-I | List-II |
 | --- | --- |
 | A. Soybean | 1. Gujarat |
@@ -454,6 +535,9 @@ hide:
 | D. Gram (often) | 4. Madhya Pradesh (leader belt) |
 
 ---
+
+
+### Shifting Cultivation (Jhum) Regional Terminology
 
 | List-I | List-II |
 | --- | --- |
@@ -464,6 +548,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Board ↔ Hq
+
 | List-I (Board) | List-II (HQ) |
 | --- | --- |
 | A. Coffee Board | 1. Kottayam |
@@ -472,6 +559,9 @@ hide:
 | D. Tobacco Board | 4. Kolkata |
 
 ---
+
+
+### Match Matrix: Millets & Oilseeds ↔ Major Producer Hubs
 
 | List-I | List-II |
 |---|---|
@@ -482,6 +572,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Agricultural Pioneers ↔ Revolutionary Contributions
+
 | List-I | List-II |
 |---|---|
 | A. M.S. Swaminathan | 1. White Revolution / NDDB / Amul |
@@ -490,6 +583,9 @@ hide:
 | D. Hiralal Chaudhuri | 4. Blue Revolution (fish) |
 
 ---
+
+
+### High-Yield Match Matrix
 
 | List-I | List-II |
 |---|---|
@@ -534,7 +630,7 @@ D. 1 and 2
 
 <details><summary>Show answer</summary>
 
-**Ans:** Statement **1 is correct** (fertiliser = indirect input subsidy). Statement **2 is usually treated as false** (cheap power/irrigation is also an *input/indirect* subsidy, not a direct cash transfer). 3 and 4 are false (WTO does not simply “allow direct / prohibit indirect”; not *all* Indian subsidies are indirect). Best reading (रीडिंग) is **only 1**; some notes still mark **D** — know the trap.
+**Ans: D** — Statement **1 is correct** (fertiliser = indirect input subsidy). Statement **2 is usually treated as false** (cheap power/irrigation is also an *input/indirect* subsidy, not a direct cash transfer). 3 and 4 are false (WTO does not simply “allow direct / prohibit indirect”; not *all* Indian subsidies are indirect). Best reading (रीडिंग) is **only 1**; some notes still mark **D** — know the trap.
 </details>
 
 **Q2.** With reference to Western Uttar Pradesh, which of the following statements is/are correct?

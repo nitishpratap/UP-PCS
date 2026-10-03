@@ -26,6 +26,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Ozone layer | **Stratosphere** | Troposphere | समतापमंडल |
@@ -110,6 +113,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Theory ↔ Propounder ↔ Teaching Line
+
 | Theory | Propounder | Teaching line |
 |--------|------------|---------------|
 | **Nebular** | **Kant – Laplace** | Rotating gas cloud flattened into Sun + planets |
@@ -122,6 +128,9 @@ hide:
 | Pulsating | Oscillating model | Repeated expansion and contraction |
 
 ---
+
+
+### Comparative Matrix: Note ↔ Fact
 
 | Note | Fact |
 |------|------|
@@ -140,6 +149,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Planet ↔ Axial Tilt ↔ Rotation Sense
+
 | Planet | Axial tilt (approx.) | Rotation sense | Rotation (day) | Revolution (year) | Moons (coaching) | Must-score note |
 |--------|----------------------|----------------|----------------|-------------------|------------------|-----------------|
 | **Mercury** | ~**0°** | Prograde | ~**59** Earth days | ~**88** Earth days | **0** | Smallest planet, fastest orbit, no moon |
@@ -154,6 +166,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Motion ↔ Period ↔ Effect
+
 | Motion | Period | Effect |
 |--------|--------|--------|
 | **Rotation** | ~**24 h** (west to east) | Day and night, apparent Sun motion, and **Coriolis** |
@@ -162,6 +177,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Date ↔ Event ↔ Sun Overhead / Polar Day
+
 | Date | Event | Sun overhead / polar day |
 |------|--------|---------------------------|
 | **21 Mar / 23 Sep** | Equinox | Sun over Equator; day equals night |
@@ -169,6 +187,9 @@ hide:
 | **22 Dec** | NH winter solstice | Tropic of **Capricorn**; Arctic 24 h night |
 
 ---
+
+
+### Comparative Matrix: Note ↔ Fact
 
 | Note | Fact |
 |------------|------|
@@ -179,6 +200,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Parallel ↔ Value ↔ Note
+
 | Parallel | Value | Note |
 |----------|-------|------|
 | Tropic of Cancer | **23½° N** | Sun overhead at NH summer solstice |
@@ -187,6 +211,9 @@ hide:
 | Heat zones | See bullets below |
 
 ---
+
+
+### Comparative Matrix: Note ↔ Note
 
 | Note | Note |
 |------|------|
@@ -200,6 +227,9 @@ hide:
 | Cairo | About **30° E**, so about **2 h ahead** of GMT |
 
 ---
+
+
+### Railway Zones & Administrative Headquarters
 
 | Country pair | Time zones |
 |-------------|------------------------|
@@ -268,6 +298,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Surface ↔ Typical Albedo
+
 | Surface | Typical albedo |
 |---------|----------------|
 | Fresh snow | **75–95%** |
@@ -278,6 +311,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Fate ↔ Units
+
 | Fate | Units |
 |------|-------|
 | Reflected / scattered back to space (**planetary albedo**) | ~**35** |
@@ -285,6 +321,9 @@ hide:
 | Absorbed by Earth’s surface | ~**51** |
 
 ---
+
+
+### Comparative Matrix: Term ↔ Quick Recall
 
 | Term | Quick recall |
 |------|--------------|
@@ -344,6 +383,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Local Name ↔ Region
+
 | Local name | Region |
 |------------|--------|
 | **Hurricane** | USA / Atlantic–Caribbean |
@@ -355,12 +397,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: System ↔ Centre ↔ Surface Spin
+
 | System | Centre | Surface spin (NH) | Surface spin (SH) | Typical weather |
 |--------|--------|-------------------|-------------------|-----------------|
 | Cyclone / low | Low | Anticlockwise | Clockwise | Cloud, rain, strong wind |
 | Anticyclone / high | High | Clockwise | Anticlockwise | Clear, settled, light wind |
 
 ---
+
+
+### Comparative Matrix: Weather ↔ Climate
 
 | | Weather | Climate |
 |--|---------|---------|
@@ -390,6 +438,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Is A Greenhouse Gas ↔ Not A Greenhouse Gas
+
 | Is a greenhouse gas | Not a greenhouse gas |
 |---------------------|----------------------|
 | Water vapour, **CO₂**, **CH₄**, **N₂O**, **O₃**, **CFCs / HCFCs** | **Argon** |
@@ -407,6 +458,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Wrong pairing | Correct |
 |---------------|---------|
 | Kyoto → save water | Kyoto → climate / GHG / carbon credit |
@@ -417,6 +471,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: El Niño ↔ La Niña
+
 | | El Niño | La Niña |
 |--|---------|---------|
 | E. Pacific SST | **Warm** off **Peru** | Cool |
@@ -426,6 +483,9 @@ hide:
 | Typical risk sketch | E. Pacific rain; Indo–Aus drought risk | Stronger trades; cooler east Pacific |
 
 ---
+
+
+### Comparative Matrix: Latitude ↔ Belt ↔ Wind
 
 | Latitude | Belt | Wind |
 |----------|------|------|
@@ -446,11 +506,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Boundary ↔ Depth Pair ↔ Fact
+
 | Boundary | Depth pair | Fact |
 |----------|-----------|------|
 | **Moho** | Base of crust (~8–40 km) | Crust / mantle |
 | **Gutenberg** | ~**2900 km** | Mantle / **outer core** — **S-waves stop** (liquid) |
 | **Lehmann** | ~5100 km | Outer / **inner core** (solid iron–nickel) |
+
+### Comparative Matrix: Layer Chemistry ↔ Fact
+
 | Layer chemistry (names) | Fact |
 |------------------------------|------|
 | **Sial** | Continental crust (~2.7–3.0 g/cm³) — silica + aluminium; granite; less dense than sima |
@@ -459,12 +525,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Shadow ↔ Note
+
 | Shadow | Note |
 |--------|-----|
 | **S-wave** | None beyond ~**103°** from epicentre (liquid outer core) |
 | **P-wave** | Weak/absent ~**103–142°** (refraction in the core) |
 
 ---
+
+
+### Comparative Matrix: Later Piece ↔ Fact
 
 | Later piece | Fact |
 |-------------|------|
@@ -474,6 +546,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Boundary ↔ Motion ↔ Result
+
 | Boundary | Motion | Result |
 |----------|--------|--------|
 | Divergent | Apart | MOR, rift (East African), new crust |
@@ -481,6 +556,9 @@ hide:
 | Transform | Slide | San Andreas; quakes, little crust created |
 
 ---
+
+
+### Comparative Matrix: Fold ↔ Fault / Block / Rift
 
 | | Fold | Fault / block / rift |
 |--|------|----------------------|
@@ -490,6 +568,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Family ↔ How It Forms ↔ Key Traits
+
 | Family | How it forms | Key traits |
 |--------|--------------|----------|
 | **Igneous** (primary) | Cooling of **magma / lava** | No fossils; not layered like sediment |
@@ -498,12 +579,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Kind ↔ Setting ↔ Examples
+
 | Kind | Setting | Examples |
 |------|---------|----------|
 | **Plutonic / intrusive** | Magma cools **slowly deep** inside the crust | **Granite**, gabbro, pegmatite |
 | **Volcanic / extrusive** | Lava cools at / near the surface | **Basalt**, volcanic breccia |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Examples
 
 | Type | Examples |
 |------|----------|
@@ -512,6 +599,9 @@ hide:
 | Chemical | Halite, potassium salts |
 
 ---
+
+
+### Comparative Matrix: Parent ↔ Metamorphic Product
 
 | Parent | Metamorphic product |
 |--------|---------------------|
@@ -525,6 +615,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Note ↔ Fact
+
 | Note | Fact |
 |-----|------|
 | **Magma** | Molten rock **below** the surface |
@@ -535,6 +628,9 @@ hide:
 | Caldera | Large collapsed vent / crater |
 | Geyser | Intermittent hot water + steam (e.g. Old Faithful, Yellowstone) — near magmatic heat |
 | Fumarole / solfatara | Late-stage gas vents (a sulfurous vent is a solfatara); Katmai’s “Valley of Ten Thousand Smokes” is the classic note |
+
+### Comparative Matrix: Type ↔ Fact / Example
+
 | Type | Fact / example |
 |------|----------------|
 | **Shield** | Low-silica, runny lava; classic Hawaii pair is **Mauna Loa / Mauna Kea** |
@@ -545,6 +641,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Status ↔ Fact
+
 | Status | Fact |
 |--------|------|
 | **Active** | Open vent / recent eruptions — **Stromboli** (“lighthouse of the Mediterranean”), **Etna** (Sicily), **Kilauea** (often ranked among most active), **Mauna Loa**, **Barren Island** (India’s only confirmed active — Andaman Sea), **Fuji**, **Vesuvius**, **Erebus** (Ross Island, Antarctica), **Cotopaxi** (Ecuador) |
@@ -553,6 +652,9 @@ hide:
 | **Extinct** | Unlikely to erupt again — Kulal (Kenya), Chimborazo (Ecuador), Popa (Myanmar), Koh-e-Sultan (Pakistan) note |
 
 ---
+
+
+### Mountain Peaks & Highest Elevations
 
 | Volcano / peak | Country | Teaching note |
 |----------------|---------|---------------|
@@ -566,6 +668,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Volcano ↔ Country
+
 | List-I (Volcano) | List-II (Country) |
 |---|---|
 | A. Rainier | 1. Italy |
@@ -574,6 +679,9 @@ hide:
 | D. Apo | 4. USA |
 
 ---
+
+
+### Comparative Matrix: Term ↔ Quick Recall
 
 | Term | Quick recall |
 |------|--------------|
@@ -584,6 +692,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Wave ↔ Nature ↔ Travels Through
+
 | Wave | Nature | Travels through | Note |
 |------|--------|-----------------|-----|
 | **P (primary)** | Longitudinal / sound-like; **fastest**; arrives first | Solids, liquids, gases | Body wave |
@@ -592,6 +703,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Scale ↔ Measures ↔ Note
+
 | Scale | Measures | Note |
 |-------|----------|-----|
 | **Richter** (C.F. Richter, **1935**) | **Magnitude** ≈ energy released (log₁₀ amplitude) | +1 magnitude ≈ **10×** amplitude; ≈ **~32×** energy (not 100×) |
@@ -599,12 +713,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Event Pair ↔ Fact
+
 | Event pair | Fact |
 |-----------|------|
 | **26 Dec 2004** Indian Ocean | Sumatra subduction quake. Waves reached as far as Africa. Deaths were about **2–3 lakh**, not “50 lakh”. Bangladesh saw relatively few casualties because the fault trended roughly N–S while main wave energy ran roughly E–W |
 | **11 Mar 2011** Japan | A great quake and tsunami damaged **Fukushima** Daiichi and caused a nuclear disaster |
 
 ---
+
+
+### Comparative Matrix: Belt ↔ Note
 
 | Belt | Note |
 |------|------|
@@ -616,6 +736,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: List I ↔ List Ii
+
 | List I (Moon) | List II (Planet) |
 | --- | --- |
 | A. Ganymede | 1. Mars |
@@ -624,6 +747,9 @@ hide:
 | D. Nix | 4. Pluto |
 
 ---
+
+
+### Match Matrix: Parent Rock ↔ Metamorphic Product
 
 | List-I (Parent rock) | List-II (Metamorphic product) |
 |---|---|
@@ -634,6 +760,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Volcano ↔ Location
+
 | List-I (Volcano) | List-II (Location) |
 |---|---|
 | A. Etna | 1. Ross Island / Antarctica |
@@ -642,6 +771,9 @@ hide:
 | D. Cotopaxi | 4. Ecuador |
 
 ---
+
+
+### Match Matrix: Volcano ↔ Country
 
 | List-I (Volcano) | List-II (Country) |
 |---|---|
@@ -652,6 +784,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mountain / Peak ↔ Country
+
 | List-I (Mountain / peak) | List-II (Country) |
 |---|---|
 | A. Kinabalu | 1. Iran |
@@ -660,6 +795,9 @@ hide:
 | D. Kilimanjaro | 4. Malaysia |
 
 ---
+
+
+### Match Matrix: Volcano ↔ Country
 
 | List-I (Volcano) | List-II (Country) |
 |---|---|
@@ -670,6 +808,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Focus | 1. Point on surface above hypocentre |
@@ -678,6 +819,9 @@ hide:
 | D. Seismograph | 4. Instrument that records waves |
 
 ---
+
+
+### Match Matrix: Feature ↔ Ring Of Fire Link
 
 | List-I (Feature) | List-II (Ring of Fire link) |
 |------------------|----------------------------|
@@ -688,6 +832,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Australia | 1. Hurricanes |
@@ -697,6 +844,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Location / Fact
+
 | Feature | Location / fact |
 |---|---|
 | 1. Asteroid belt | Between Mars and Jupiter |
@@ -704,6 +854,9 @@ hide:
 | 3. Titan | Mars |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -714,6 +867,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Big Bang | 1. Lemaître / Gamow; Hubble expansion |
@@ -722,6 +878,9 @@ hide:
 | D. Milky Way | 4. Barred spiral |
 
 ---
+
+
+### Match Matrix: Rock ↔ Details
 
 | List-I (Rock) | List-II |
 |---|---|

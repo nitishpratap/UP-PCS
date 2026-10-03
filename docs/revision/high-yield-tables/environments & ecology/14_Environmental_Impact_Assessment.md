@@ -41,12 +41,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Category ↔ Authority ↔ Screening?
+
 | Category | Authority | Screening? | Full EIA? |
 |----------|-----------|------------|-----------|
 | A | MoEFCC + EAC | No | Usually yes |
 | B1 | SEIAA + SEAC | Yes | Yes |
 | B2 | SEIAA/DEIAA | Yes | No full report |
 | B + General Condition | MoEFCC (elevated) | — | As Category A |
+
+### Comparative Matrix: Stage ↔ What Happens
+
 | Stage | What happens |
 |-------|--------------|
 | Screening | B → B1 or B2 |
@@ -56,6 +62,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Eia ↔ Sea
+
 | Feature | EIA | SEA |
 |---------|-----|-----|
 | Level | Individual project | Policy/plan/programme |
@@ -63,6 +72,9 @@ hide:
 | India law | Mandatory (2006) | No standalone law |
 | Cumulative impacts | Limited | Core focus |
 | Example | EC for one thermal plant | National sector plan before siting |
+
+### Comparative Matrix: Instrument ↔ Year ↔ Scope
+
 | Instrument | Year | Scope |
 |------------|------|-------|
 | Rio Principle 17 | 1992 | Project EIA norm |
@@ -73,6 +85,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Category A | 1. SEIAA / SEAC |
@@ -81,6 +96,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. NGT | 1. MoEFCC online EC portal |
@@ -88,6 +106,9 @@ hide:
 | C. SEA | 3. Policies/plans/programmes upstream |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

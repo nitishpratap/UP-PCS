@@ -23,6 +23,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Correct ↔ Hindi
+
 | A | B | Correct | Hindi |
 |---|----|------|-------|
 | Himadri | Himachal | Fossil-less crystalline vs marine fossils | हिमाद्रि / हिमाचल |
@@ -47,6 +50,9 @@ hide:
 | Indira Col | Indira Point | Northern extreme (Siachen / Ladakh) vs southernmost **territory** (Great Nicobar) | इंदिरा कोल / इंदिरा पॉइंट |
 
 ---
+
+
+### Comparative Matrix: Item ↔ Lock
 
 | Item | Lock |
 |------|------|
@@ -77,6 +83,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Structural Unit ↔ What It Is ↔ Note
+
 | Structural unit | What it is | Note |
 |-----------------|------------|-----------|
 | **Peninsular Block** | Oldest stable crust; gneiss, granite, schist | Faulted and eroded, **not** recently folded like the Himalaya |
@@ -84,6 +93,9 @@ hide:
 | **Indo–Ganga–Brahmaputra (ब्रह्मपुत्र) Plain** | Foredeep filled with Himalayan alluvium | One of the world’s largest alluvial (जलोढ़) tracts |
 
 ---
+
+
+### Comparative Matrix: Division ↔ Where ↔ Age
 
 | Division | Where | Age | One-line identity |
 |----------|-------|-----|-------------------|
@@ -96,6 +108,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Sub-Region ↔ Location ↔ Fact
+
 | Sub-region | Location | Fact |
 |------------|----------|------|
 | **Punjab Plain** | Punjab, Haryana | Doabs; **chos** gullying on Shiwalik edge |
@@ -104,6 +119,9 @@ hide:
 | **Brahmaputra Plain** | Assam | Braided channel with **bils** (ox-bows) and heavy floods |
 
 ---
+
+
+### Comparative Matrix: Doab ↔ Between
 
 | Doab | Between |
 |------|---------|
@@ -115,6 +133,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Western Strip ↔ Stretch
+
 | Western strip | Stretch |
 |---------------|---------|
 | **Kachchh–Kathiawar** | Gujarat |
@@ -122,6 +143,9 @@ hide:
 | **Konkan** | Daman to Goa |
 | **Kanara (Canara)** | Goa to Mangaluru |
 | **Malabar** | Kerala |
+
+### Comparative Matrix: Eastern Strip ↔ Stretch
+
 | Eastern strip | Stretch |
 |---------------|---------|
 | **Utkal Coast** | Odisha coast with the Mahanadi (महानदी) delta and **Chilika** |
@@ -131,6 +155,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Range ↔ Typical Height ↔ Rock / Fossil Fact
+
 | Range | Typical height | Rock / fossil fact |
 |-------|----------------|--------------------|
 | **Trans-Himalaya** | 3000–6500 m | Granitic cold desert **north of the Indus** |
@@ -139,6 +166,9 @@ hide:
 | **Shiwalik** (शिवालिक) (Outer) | 900–1100 m | Youngest unconsolidated rocks; **human remains** |
 
 ---
+
+
+### Comparative Matrix: Region ↔ Local Name Of Shiwalik
 
 | Region | Local name of Shiwalik |
 |--------|------------------------|
@@ -160,6 +190,9 @@ hide:
 
 ---
 
+
+### Mountain Peaks & Highest Elevations
+
 | Peak | m | Note |
 |------|---|------|
 | **K2 (Godwin Austin)** | 8611 | **Karakoram** (PoK) — not the main Himalayan arc |
@@ -174,6 +207,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Range ↔ Trend ↔ Location
+
 | Range | Trend | Location | Highest | Fact |
 |-------|-------|----------|---------|------|
 | **Aravalli** | SW–NE | Gujarat–Rajasthan–Delhi | **Guru Shikhar 1722 m** | **Oldest** fold mountains; Rajasthan highest |
@@ -187,6 +223,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Trap Layer ↔ Depth Fact
+
 | Trap layer | Depth fact |
 |------------|------------------------------|
 | Upper | about **450 m** |
@@ -195,6 +234,9 @@ hide:
 | **Intertrappean beds** | Sediment **between** lava flows; **land / freshwater** fossils — **not** sea plants and animals |
 
 ---
+
+
+### Strategic Mountain Passes ↔ Connecting Regions
 
 | Pass | State / UT | Route / note | Trap |
 |------|------------|--------------|------|
@@ -270,6 +312,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Item ↔ Note
+
 | Item | Note |
 |------|------|
 | Latitude | **8°4′ N – 37°6′ N** (about 29°; about 3214 km N–S) |
@@ -279,6 +324,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Step ↔ Easy Fact
+
 | Step | Easy fact |
 |------|-----------|
 | Earth | 360° in 24 h means roughly **15°** of longitude per hour, or **1° ≈ 4 minutes** |
@@ -286,6 +334,9 @@ hide:
 | Why this line | It sits near the **middle** of India’s longitude span (~68° E to ~97° E), so west (Gujarat) and east (Arunachal / Andaman) share one national clock |
 
 ---
+
+
+### Comparative Matrix: State ↔ Place / Belt Fact ↔ Trap
 
 | State | Place / belt fact | trap |
 |-------|-------------------|-----------|
@@ -296,6 +347,9 @@ hide:
 | **Andhra Pradesh** | Northern / coastal AP strip | **Not Telangana** (TG lies west of 82.5° E) |
 
 ---
+
+
+### Comparative Matrix: Order ↔ State On The Tropic
 
 | Order (west → east) | State on the Tropic |
 |---------------------|---------------------|
@@ -310,6 +364,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Extreme ↔ Place ↔ Easy Fact
+
 | Extreme | Place | Easy fact |
 |---------|-------|-----------|
 | **North** | **Indira Col**, Siachen / Ladakh | High pass on the northern frontier — not a city |
@@ -319,6 +376,9 @@ hide:
 | **West** | **Guhar Moti** (also Ghuar Mota), Kutch, Gujarat | Westernmost village belt of Kachchh |
 
 ---
+
+
+### Comparative Matrix: Rank ↔ Coastal State
 
 | Rank (longest → shortest) | Coastal state |
 |---------------------------|---------------|
@@ -334,6 +394,9 @@ hide:
 
 ---
 
+
+### Match Matrix: States ↔ Highest Peak
+
 | List-I (States) | List-II (Highest Peak) |
 |---|---|
 | A. Kerala | 1. Dodda Betta |
@@ -342,6 +405,9 @@ hide:
 | D. Tamil Nadu | 4. Saramati |
 
 ---
+
+
+### Match Matrix: State ↔ Peak
 
 | List-I (State) | List-II (Peak) |
 |---|---|
@@ -352,6 +418,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
+
 | List-I | List-II |
 |---|---|
 | A. K2 | 1. Highest peak fully in India |
@@ -360,6 +429,9 @@ hide:
 | D. Anaimudi | 4. Highest peak of South India |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

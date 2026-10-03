@@ -83,6 +83,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Rank ↔ Continent ↔ Area Pair
+
 | Rank | Continent | Area pair (km²) | % of Earth’s land (Philip’s-type) | Countries (GC sheet) |
 |------|-----------|----------------|----------------------------------|----------------------|
 | 1 | **Asia** | ~44.6 million | ~29.8% | ~48 |
@@ -95,6 +98,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Family ↔ Force / Story ↔ World Examples
+
 | Family | Force / story | World examples |
 |--------|---------------|----------------|
 | **Fold** | Compression (orogeny) | Himalaya, Alps, Andes, Rockies, Atlas, Pyrenees, Zagros. The **Appalachians** are an old worn fold |
@@ -103,6 +109,9 @@ hide:
 | **Residual / dome** | Old highland left after long denudation; or magma push (dome) | Residual leftovers of old folds (Appalachian-type worn highlands); **Black Hills** / laccolith **dome** |
 
 ---
+
+
+### Mountain Peaks & Highest Elevations
 
 | Continent | Peak | Range | Country fact |
 |-----------|------|-------|--------------|
@@ -132,6 +141,9 @@ hide:
 | **Antarctica** | **Vinson Massif** (4,897 m) | **Bentley Subglacial Trench** (-2,555 m) |
 
 ---
+
+
+### Comparative Matrix: Range ↔ Where ↔ Highest / Note
 
 | Range | Where | Highest / note |
 |-------|-------|----------------------|
@@ -173,6 +185,9 @@ hide:
 
 ---
 
+
+### Mountain Peaks & Highest Elevations
+
 | Peak | Country | Do not confuse with |
 |------|---------|---------------------|
 | **Kilimanjaro** | **Tanzania** | Kenya (Mt Kenya is a different peak); **not** Ring of Fire |
@@ -185,6 +200,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Country ↔ Mountain
+
 | List-I (Country) | List-II (Mountain) |
 |------------------|--------------------|
 | A. Spain–France | 1. Alps |
@@ -193,6 +211,9 @@ hide:
 | D. Italy | 4. Balkan |
 
 ---
+
+
+### Match Matrix: Mountain ↔ Country
 
 | List-I (Mountain) | List-II (Country) |
 |-------------------|-------------------|
@@ -203,6 +224,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mountain ↔ Country
+
 | List-I (Mountain) | List-II (Country) |
 |-------------------|-------------------|
 | A. Kilimanjaro | 1. Morocco |
@@ -212,12 +236,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Kind ↔ Meaning ↔ World Example
+
 | Kind | Meaning | World example |
 |------|---------|---------------|
 | **Intermontane** | High block **between** fold ranges | **Tibet** (Himalaya–Kunlun); **Altiplano** (Andes) |
 | **Piedmont** | At the **foot** of mountains | Appalachian piedmont; Patagonian edge |
 | **Continental / shield** | Old worn-down block | **Deccan** (दक्कन), Brazilian, African, Western Australian |
 | **Lava / volcanic** | Flood basalt | **Columbia** (USA), **Deccan Trap** (दक्कन ट्रैप) cover |
+
+### Comparative Matrix: Plateau ↔ Where ↔ Note
+
 | Plateau | Where | Note |
 |---------|-------|-----------|
 | **Tibetan Plateau** | China / Tibet | **Highest large** plateau. Headwaters: Indus (सिंधु), Sutlej (सतलुज), Brahmaputra (ब्रह्मपुत्र), Mekong, Yangtze, Hwang Ho |
@@ -246,6 +276,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Place ↔ Quick Recall
+
 | Place | Quick recall |
 |-------|--------------|
 | **Death Valley** | California rift; heat; salt pan; ~−86 m |
@@ -259,12 +292,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Kind ↔ How Formed ↔ Example
+
 | Kind | How formed | Example |
 |------|------------|---------|
 | **Alluvial** | River dump | Indo-Gangetic, Nile, Mesopotamia, Hwang Ho, Mississippi |
 | **Glacial / till** | Ice-sheet | North European Plain, Prairie of Canada–USA |
 | **Coastal** | Sea + river | Atlantic coastal USA; eastern India |
 | **Lacustrine** | Old lake floor | Imphal-type locally; some interior basins |
+
+### Comparative Matrix: Plain ↔ Where ↔ Note
+
 | Plain | Where | Note |
 |-------|-------|-----------|
 | **Indo-Gangetic** | India–Pakistan–Bangladesh | Alluvium; wheat–rice–cane |
@@ -283,12 +322,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Belt ↔ Share Of Great Volcanoes ↔ Names
+
 | Belt | Share of great volcanoes | names |
 |------|--------------------------|------------|
 | **Circum-Pacific / Ring of Fire** | ~**80%** | Fuji, Pinatubo, Mayon, Apo, St Helens, Rainier, Popocatépetl, Andes cones, Krakatoa, Tambora |
 | **Mid-Atlantic** | Divergent | **Iceland** (Hekla), Azores |
 | **Alpine–Himalayan / Med** | Collision | **Etna, Vesuvius, Stromboli** (Italy) |
 | **East African Rift** | Tension | **Kilimanjaro, Kenya** — **not** Ring of Fire |
+
+### Comparative Matrix: Volcano ↔ Country ↔ Belt / Extra
+
 | Volcano | Country | Belt / extra |
 |---------|---------|--------------|
 | **Fuji** | Japan | Pacific. Classic cone |
@@ -313,6 +358,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Volcanic Mountains ↔ Country
+
 | List-I (Volcanic Mountains) | List-II (Country) |
 |-----------------------------|-------------------|
 | A. Mount Rainier | 1. Italy |
@@ -321,6 +369,9 @@ hide:
 | D. Mount Apo | 4. U.S.A. |
 
 ---
+
+
+### Comparative Matrix: Rank ↔ Island ↔ Note
 
 | Rank | Island | Note |
 |------|--------|------|
@@ -337,12 +388,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Kind ↔ How Made ↔ Examples
+
 | Kind | How made | Examples |
 |------|----------|----------|
 | **Continental** | Piece of a continent, shallow shelf | **Greenland**, **Borneo**, **New Guinea**, **Madagascar**, Britain, Sri Lanka |
 | **Volcanic arc / hot-spot** | Magma | **Java**, **Iceland**, **Hawaii**, Japan (Honshu mixed arc), Sicily (Etna) |
 | **Coral / atoll** | Reef on a sinking volcanic peak or shelf | Maldives, Lakshadweep (लक्षद्वीप), many Pacific atolls |
 | **Coral reef (not an island rank)** | — | Great Barrier Reef (Australia) is a **reef**, not a “largest island” option |
+
+### Comparative Matrix: Island ↔ Fact
+
 | Island | Fact |
 |--------|------|
 | **Greenland** | **Largest island**. Denmark. Ice sheet. Inuit |
@@ -365,6 +422,9 @@ hide:
 | **New Zealand** | North Island + South Island; Cook Strait |
 
 ---
+
+
+### Comparative Matrix: Island / Group ↔ Note
 
 | Island / group | Note |
 |----------------|-----|
@@ -393,12 +453,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Kind ↔ Why Dry ↔ Examples
+
 | Kind | Why dry | Examples |
 |------|---------|----------|
 | **Hot subtropical** | Descending air ~**30°** (horse latitudes) | Sahara, Arabian, Australian, Kalahari, Thar |
 | **Coastal / fog** | Cold current + stable air | **Atacama** (Peru/Humboldt), **Namib** (Benguela) |
 | **Rain-shadow** | High range steals moisture | **Patagonia** (Andes), **Atacama** (Andes), Thar (Aravalli leeward) |
 | **Cold interior** | Far from sea, winter freeze | **Gobi**, **Taklamakan**, Great Basin, Colorado Plateau dry side |
+
+### Comparative Matrix: Desert ↔ Country / Belt
+
 | Desert | Country / belt | |
 |--------|----------------|------|
 | **Sahara** | N Africa (many states) | **Largest hot** desert. Hoggar / Tibesti are highland islands in it |
@@ -426,6 +492,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Local Name ↔ Where ↔ Climate
+
 | Local name | Where | Climate | Economy tag |
 |------------|-------|---------|-------------|
 | **Prairie** | USA–Canada (Great Plains) | Temperate | Wheat / maize / cattle; chernozem-type soils |
@@ -443,6 +512,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Belt ↔ Where ↔ Plant Picture
+
 | Belt | Where | Plant picture |
 |------|-------|---------------|
 | **Equatorial rainforest (Af)** | Amazon, Congo, Malaysia–Indonesia | Multilayer, **epiphytes**, hardwood (mahogany, ebony). Brazil name = **Selva** |
@@ -458,6 +530,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Name ↔ Region
+
 | Name | Region |
 |------|--------|
 | **Maquis** | **Mediterranean** Sea coast |
@@ -466,6 +541,9 @@ hide:
 | **Matorral** | **Chile** |
 
 ---
+
+
+### Comparative Matrix: Plant ↔ Region
 
 | Plant | Region |
 |-------|--------|
@@ -476,12 +554,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Brazil Pair ↔ Meaning
+
 | Brazil pair | Meaning |
 |------------------------|---------|
 | **Selva** | Equatorial **rainforest** |
 | **Terra Roxa** | Fertile dark **basaltic coffee soil** — **not** a forest name. Parallel to Deccan fertility, **not** the same as Indian regur (रेगुर) as a name |
 
 ---
+
+
+### Match Matrix: Vegetation Type ↔ Region
 
 | List-I (Vegetation Type) | List-II (Region) |
 |--------------------------|------------------|
@@ -492,6 +576,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Natural Vegetation ↔ Region
+
 | List-I (Natural Vegetation) | List-II (Region) |
 |-----------------------------|------------------|
 | A. Epiphytes | 1. Mediterranean |
@@ -501,6 +588,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Planting Hearth | 1. Hungary |
@@ -509,6 +599,9 @@ hide:
 | D. Puszta Grassland | 4. Arctic Tundra |
 
 ---
+
+
+### Crop Cultivation, Growing Conditions & Producing States
 
 | Type (Köppen (कोपेन)) | Where | Rain timing | Vegetation / crop |
 |---------------|-------|-------------|-------------------|
@@ -527,6 +620,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Planting Hearth | 1. Hungary |
@@ -535,6 +631,9 @@ hide:
 | D. Puszta Grassland | 4. Arctic Tundra |
 
 ---
+
+
+### Match Matrix: Country ↔ Mountain
 
 | List-I (Country) | List-II (Mountain) |
 |------------------|--------------------|
@@ -545,6 +644,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mountain ↔ Country
+
 | List-I (Mountain) | List-II (Country) |
 |-------------------|-------------------|
 | A. Kilimanjaro | 1. Morocco |
@@ -553,6 +655,9 @@ hide:
 | D. Hoggar | 4. Uganda |
 
 ---
+
+
+### Match Matrix: Volcanic Mountains ↔ Country
 
 | List-I (Volcanic Mountains) | List-II (Country) |
 |-----------------------------|-------------------|
@@ -563,6 +668,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mountain ↔ Country
+
 | List-I (Mountain) | List-II (Country) |
 |-------------------|-------------------|
 | A. Atlas | 1. France/Spain |
@@ -571,6 +679,9 @@ hide:
 | D. Pyrenees | 4. Morocco |
 
 ---
+
+
+### Match Matrix: Vegetation Type ↔ Region
 
 | List-I (Vegetation Type) | List-II (Region) |
 |--------------------------|------------------|
@@ -581,6 +692,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Natural Vegetation ↔ Region
+
 | List-I (Natural Vegetation) | List-II (Region) |
 |-----------------------------|------------------|
 | A. Epiphytes | 1. Mediterranean |
@@ -589,6 +703,9 @@ hide:
 | D. Cedars | 4. Savanna |
 
 ---
+
+
+### Match Matrix: Global Landforms ↔ Locations
 
 | List-I | List-II |
 |--------|---------|
@@ -599,6 +716,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Range ↔ Region
+
 | List-I (Range) | List-II (Region) |
 |----------------|------------------|
 | A. Andes | 1. Central Asia |
@@ -608,6 +728,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Allegheny | 1. Iran |
@@ -616,6 +739,9 @@ hide:
 | D. Mackenzie | 4. Canada |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -626,6 +752,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Peak ↔ Country
+
 | List-I (Peak) | List-II (Country) |
 |---------------|-------------------|
 | A. Kilimanjaro | 1. Morocco |
@@ -634,6 +763,9 @@ hide:
 | D. Hoggar | 4. Uganda |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -644,6 +776,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Peak ↔ Continent
+
 | List-I (Peak) | List-II (Continent) |
 |---------------|---------------------|
 | A. Elbrus | 1. Africa |
@@ -652,6 +787,9 @@ hide:
 | D. McKinley | 4. North America |
 
 ---
+
+
+### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
 
 | List-I | List-II |
 |--------|---------|
@@ -662,6 +800,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Range ↔ Region
+
 | List-I (Range) | List-II (Region) |
 |----------------|------------------|
 | A. Allegheny | 1. Iran |
@@ -670,6 +811,9 @@ hide:
 | D. Mackenzie | 4. Canada |
 
 ---
+
+
+### Match Matrix: Peak ↔ Continent
 
 | List-I (Peak) | List-II (Continent) |
 |---------------|---------------------|
@@ -680,6 +824,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Grassland ↔ Country / Continent
+
 | List-I (Grassland) | List-II (Country / continent) |
 |--------------------|-------------------------------|
 | A. Steppes | 1. United States of America |
@@ -688,6 +835,9 @@ hide:
 | D. Downs | 4. Australia |
 
 ---
+
+
+### Match Matrix: Grassland ↔ Continent
 
 | List-I (Grassland) | List-II (Continent) |
 |--------------------|---------------------|
@@ -698,6 +848,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Grasslands ↔ Countries
+
 | List-I (Grasslands) | List-II (Countries) |
 |---------------------|---------------------|
 | A. Pampas | 1. Australia |
@@ -707,6 +860,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Association
+
 | Feature | Association |
 |---------|-------------|
 | 1. Highest mean elevation | Antarctica |
@@ -714,6 +870,9 @@ hide:
 | 3. Guyana | Africa |
 
 ---
+
+
+### Match Matrix: Range / Peak ↔ Location
 
 | List-I (Range / peak) | List-II (Location) |
 |------------------------|--------------------|
@@ -724,6 +883,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Scrub / Biome Tag ↔ Region
+
 | List-I (Scrub / biome tag) | List-II (Region) |
 |-----------------------------|------------------|
 | A. Maquis | 1. California |
@@ -733,6 +895,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Peak ↔ Continent / Region
+
 | List-I (Peak) | List-II (Continent / region) |
 |----------------|------------------------------|
 | A. Elbrus | 1. Australia mainland |
@@ -741,6 +906,9 @@ hide:
 | D. Aconcagua | 4. Andes (Argentina) |
 
 ---
+
+
+### Match Matrix: Tag ↔ Place
 
 | List-I (Tag) | List-II (Place) |
 |---------------|-----------------|

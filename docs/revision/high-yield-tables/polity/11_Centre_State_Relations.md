@@ -31,6 +31,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Correct ↔ Hindi
+
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
 | Art. **249** | Art. **250** | RS resolution, **1 year**, national interest | Emergency proclamation — Parliament on State List while Emergency is on |
@@ -79,6 +82,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Part ↔ Arts. ↔ What
+
 | Part | Arts. | What |
 |------|-------|------|
 | **XI** | **245–263** | Legislative (245–255) + Administrative (256–263) |
@@ -123,6 +129,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Eleventh |
@@ -131,6 +140,9 @@ hide:
 | D | Fourteenth |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -141,6 +153,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Art. 275 ↔ Art. 282
+
 | | **Art. 275** | **Art. 282** |
 |--|--------------|--------------|
 | Who pays | Union, from **CFI** | Union **or** a State |
@@ -150,6 +165,9 @@ hide:
 | Nickname | Statutory / FC grants | Discretionary / miscellaneous grants |
 
 ---
+
+
+### Comparative Matrix: Act ↔ Job
 
 | Act | Job |
 |-----|-----|
@@ -231,6 +249,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Eleventh |
@@ -239,6 +260,9 @@ hide:
 | D | Fourteenth |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -249,6 +273,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Seventh |
@@ -257,6 +284,9 @@ hide:
 | D | Tenth |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -267,6 +297,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Consolidated Fund of India |
@@ -275,6 +308,9 @@ hide:
 | D | CAG |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -285,6 +321,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Art. 324 |
@@ -293,6 +332,9 @@ hide:
 | D | Art. 338 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -303,6 +345,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Third |
@@ -311,6 +356,9 @@ hide:
 | D | Eighth |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -321,6 +369,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Article 245 |
@@ -329,6 +380,9 @@ hide:
 | D | Article 249 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -339,6 +393,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Stamp duties on Union-list instruments |
@@ -347,6 +404,9 @@ hide:
 | D | Surcharge on income-tax |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -357,6 +417,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Doctrine ↔ Idea
+
 | List-I (Doctrine) | List-II (Idea) |
 |--------------------|----------------|
 | A. Pith and substance | 1. Cannot do indirectly what you cannot do directly |
@@ -364,6 +427,9 @@ hide:
 | C. Repugnancy | 3. Concurrent clash — Union generally prevails |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

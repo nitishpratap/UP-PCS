@@ -24,6 +24,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Concept A ↔ Concept B ↔ Core Distinguishing Fact
+
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Kwashiorkor** | **Marasmus** | Pure protein deficiency in children $>1$ yr with pitting oedema vs protein + calorie starvation in infants $<1$ yr without oedema | क्वाशिओरकोर / मरास्मस |
@@ -115,6 +118,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Toxic Agent / Contaminant ↔ Environmental Source ↔ Disease / Clinical Syndrome
+
 | Toxic Agent / Contaminant | Environmental Source | Disease / Clinical Syndrome | Pathological Manifestation |
 |---------------------------|----------------------|-----------------------------|----------------------------|
 | **Methyl Mercury ($Hg$)** | Industrial effluent in fish/shellfish | **Minamata Disease** | Severe neurotoxicity, sensory ataxia, constriction of visual fields, hearing loss, convulsions |
@@ -198,6 +204,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Vaccine Trade Name ↔ Developing Manufacturer / Country ↔ Vaccine Technology Platform
+
 | Vaccine Trade Name | Developing Manufacturer / Country | Vaccine Technology Platform | Antigen Used |
 |--------------------|-----------------------------------|-----------------------------|--------------|
 | **Covaxin (BBV152)** | Bharat Biotech & ICMR (India) | **Inactivated Whole Virus** | Chemically killed whole SARS-CoV-2 virion |
@@ -247,6 +256,9 @@ hide:
 | 30 | DOTS = Directly Observed Treatment Short-course; for **tuberculosis** control |
 
 ---
+
+
+### Match Matrix: Syndrome / Disease ↔ Specific Environmental Toxin / Defect
 
 | List-I (Syndrome / Disease) | List-II (Specific Environmental Toxin / Defect) |
 |---|---|

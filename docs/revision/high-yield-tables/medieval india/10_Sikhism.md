@@ -124,6 +124,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Kabir | 1. Guru Nanak Dev |
@@ -132,6 +135,9 @@ hide:
 | D. Mardana | 4. Vallabhacharya |
 
 ---
+
+
+### Match Matrix: Guru ↔ Key Institution / Contribution
 
 | List-I (Guru) | List-II (Key Institution / Contribution) |
 |---------------|------------------------------------------|
@@ -142,6 +148,9 @@ hide:
 
 ---
 
+
+### Match Matrix: City ↔ Historical Association
+
 | List-I (City) | List-II (Historical Association) |
 |---------------|----------------------------------|
 | A. Patna | 1. Gobind Singh death; eternal Granth (1708) |
@@ -151,6 +160,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Guru ↔ Tag
+
 | Guru | Tag |
 |------|-----|
 | 1. Har Krishan | Child eighth Guru; Delhi epidemic service |
@@ -158,6 +170,9 @@ hide:
 | 3. Lehna | Chosen successor Angad; not Sri Chand |
 
 ---
+
+
+### Match Matrix: Event ↔ Year / Context
 
 | List-I (Event) | List-II (Year / Context) |
 |----------------|--------------------------|

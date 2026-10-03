@@ -40,6 +40,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Traditional ↔ Iwrm
+
 | Traditional | IWRM |
 |-------------|------|
 | Departmental silos | River basin planning |
@@ -47,6 +50,9 @@ hide:
 | Environment (पर्यावरण) ignored | Ecological flows included |
 
 ---
+
+
+### Comparative Matrix: Method ↔ Function
 
 | Method | Function |
 |--------|----------|
@@ -56,6 +62,9 @@ hide:
 | Johad/taanka | Traditional arid storage |
 
 ---
+
+
+### Comparative Matrix: Programme ↔ Year ↔ Fact
 
 | Programme | Year | Fact |
 |-----------|------|------|
@@ -69,6 +78,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Body ↔ Role
+
 | Body | Role |
 |------|------|
 | CGWB | Groundwater quantity/quality assessment |
@@ -78,6 +90,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Parameter ↔ Limit
+
 | Parameter | Limit (IS 10500) |
 |-----------|------------------|
 | pH | 6.5–8.5 |
@@ -85,6 +100,9 @@ hide:
 | Arsenic | ≤0.01 mg/L |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -94,6 +112,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. CGWB | 1. Groundwater regulation under EPA |
@@ -102,6 +123,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Yamuna Action Plan | 1. 2014 |
@@ -109,6 +133,9 @@ hide:
 | C. NLCP start | 3. June 2001 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

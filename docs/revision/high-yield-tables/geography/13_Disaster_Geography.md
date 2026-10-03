@@ -27,6 +27,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Focus vs epicentre | Focus = **inside**; epicentre = **surface** | Swapped | उद्गम / अधिकेन्द्र |
@@ -86,6 +89,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Wave ↔ Family ↔ Nature
+
 | Wave | Family | Nature | Travels through | Arrival / damage |
 |------|--------|--------|-----------------|------------------|
 | **P (primary)** | Body | Longitudinal / sound-like; **fastest** | Solids, liquids, gases | First |
@@ -93,6 +99,9 @@ hide:
 | **Love / Rayleigh** | Surface | Along the free surface | Near-surface rock / soil | Last; usually most destructive at ground |
 
 ---
+
+
+### Comparative Matrix: Term ↔ Recall
 
 | Term | Recall |
 |------|--------|
@@ -107,6 +116,9 @@ hide:
 | P shadow | Gap ~**103–142°** (core refraction) |
 
 ---
+
+
+### Comparative Matrix: Year ↔ Event ↔ Trap
 
 | Year | Event | Trap |
 |------|-------|------|
@@ -127,6 +139,9 @@ hide:
 
 ---
 
+
+### Railway Zones & Administrative Headquarters
+
 | Zone | Risk | Where (list) |
 |------|------|-------------------|
 | **V** | Very high | NE India, Andaman & Nicobar, Himalayan pockets, Kutch, N Bihar |
@@ -135,6 +150,9 @@ hide:
 | **II** | Low | Large stable Deccan / western Rajasthan interiors |
 
 ---
+
+
+### Comparative Matrix: Item ↔ Fact
 
 | Item | Fact |
 |------|------|
@@ -183,11 +201,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Region ↔ Gate
+
 | Region | Gate (Tmax) |
 |--------|-------------|
 | Plains | ≥ **40°C** |
 | Coast | ≥ **37°C** |
 | Hills | ≥ **30°C** |
+
+### Comparative Matrix: Rule ↔ Heat Wave ↔ Severe Heat Wave
+
 | Rule | Heat wave | Severe heat wave |
 |------|-----------|------------------|
 | Departure from normal | **4.5–6.4°C** | **> 6.4°C** |
@@ -230,6 +254,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Name ↔ Country / Basin ↔ Note
+
 | Name | Country / basin | Note |
 |------|-----------------|------|
 | **Baguio / Baguios** ★ | **Philippines** | High-yield match |
@@ -258,6 +285,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Body ↔ Role
+
 | Body | Role |
 |------|------|
 | **DM Act** | **23 Dec 2005** |
@@ -279,6 +309,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Hazard ↔ Fact
+
 | Hazard | Fact |
 |--------|------|
 | Seismic | **No Zone V.** Terai / north–east is **IV**; Lucknow–Kanpur–Prayagraj–Varanasi–Agra belt is **III** |
@@ -292,6 +325,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Meaning
+
 | Term | Meaning |
 |---|---|
 | 1. Focus | Point inside the Earth |
@@ -299,6 +335,9 @@ hide:
 | 3. Richter | Intensity / damage scale |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -309,6 +348,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Local Name ↔ Details
+
 | List-I (Local name) | List-II |
 |---|---|
 | A. Baguio | 1. Philippines |
@@ -317,6 +359,9 @@ hide:
 | D. Typhoon / Taifu | 4. China–Japan |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

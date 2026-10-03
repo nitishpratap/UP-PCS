@@ -156,6 +156,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 | :--- | :--- |
 | A. Zeroth Law of Thermodynamics | 1. Conservation of energy in thermal systems |
@@ -164,6 +167,9 @@ hide:
 | D. Third Law of Thermodynamics | 4. Spontaneous processes increase the entropy of the universe |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 | :--- | :--- |

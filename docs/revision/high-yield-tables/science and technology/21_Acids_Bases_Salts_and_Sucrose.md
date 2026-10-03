@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Pair ↔ Concept A ↔ Concept B
+
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
 | **Baking Soda vs. Washing Soda** | **Baking Soda**: Sodium Hydrogen Carbonate (**$NaHCO_3$**). Edible, mild base, antacid, leavening agent. | **Washing Soda**: Sodium Carbonate Decahydrate (**$Na_2CO_3 \cdot 10H_2O$**). Caustic, laundry detergent, water softener. | **Chemical Formula & Safety**: Baking Soda contains Hydrogen ($NaHCO_3$) and is safe to consume; Washing Soda has 10 waters of crystallization ($Na_2CO_3 \cdot 10H_2O$) and is toxic to ingest. |

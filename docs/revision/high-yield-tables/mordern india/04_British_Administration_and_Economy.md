@@ -122,6 +122,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Phase ↔ Rough Years ↔ Method
+
 | Phase | Rough years | Method | Key fact |
 |-------|-------------|--------|-----------|
 | Mercantilism / trade monopoly | Plassey to **1813** | The Company held a **trade monopoly**; Bengal's own land revenue funded the "investment" — goods bought in India for sale in Europe | Charter Act **1813** ends the India trade monopoly |
@@ -129,6 +132,9 @@ hide:
 | Finance capital / Drain | **1858 onward** | British capital entered through **railway guarantees**, **managing-agency** control of industry and public loans; **Home Charges** and guaranteed interest moved Indian revenue to Britain | Naoroji's Drain critique, published **1901** |
 
 ---
+
+
+### Comparative Matrix: Court ↔ Who Presided ↔ Note
 
 | Court | Who presided | Note |
 |-------|---------------|------|
@@ -139,6 +145,9 @@ hide:
 | **Sadar Diwani Adalat** | Governor-General-in-Council | Final civil court, sat at Calcutta |
 
 ---
+
+
+### Comparative Matrix: Feature ↔ Permanent Settlement ↔ Ryotwari
 
 | Feature | Permanent Settlement | Ryotwari | Mahalwari |
 |---------|----------------------|----------|-----------|
@@ -166,6 +175,9 @@ hide:
 | **Adade** | Associated with **Karnataka** in the standard match set |
 
 ---
+
+
+### Mineral Belts, Mining Centres & State Shares
 
 | Famine | Years | Context | Governor-General / Viceroy | Rough toll |
 |--------|-------|---------|------------------------------|------------|
@@ -195,6 +207,9 @@ hide:
 
 ---
 
+
+### Match Matrix: System ↔ Approx Share / Unit
+
 | List-I (System) | List-II (Approx share / unit) |
 |-----------------|-------------------------------|
 | A. Permanent Settlement | 1. ~51%; ryot |
@@ -203,6 +218,9 @@ hide:
 | D. Istamrari | 4. Another name for Permanent Settlement |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -213,6 +231,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Transport Infrastructure ↔ Regions
+
 | List-I | List-II |
 |--------|---------|
 | A. Telegraph experiment | 1. 1853 |
@@ -221,6 +242,9 @@ hide:
 | D. Uniform penny postage | 4. 1854 (Dalhousie) |
 
 ---
+
+
+### Match Matrix: Famine / Body ↔ Tag
 
 | List-I (Famine / body) | List-II (Tag) |
 |------------------------|---------------|

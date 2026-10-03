@@ -34,6 +34,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Emperor ↔ Period ↔ Last / How It Ended
+
 | Emperor | Period (from–to) | Last / how it ended | Capital | Key ruler & high-yield |
 |---|---|---|---|---|
 | **Babur** | **1526–1530** | Died; buried **Kabul** (not Delhi) | Agra | Panipat I (**21 Apr 1526**, *Tulughma* + *Araba*); Khanwa 1527 (title *Ghazi*); Chanderi 1528; Ghaghra 1529. *Baburnama* in **Chagatai Turkish**. |
@@ -90,6 +93,9 @@ hide:
 | **Dar-ul-Shafa** | **Free Royal Charitable Hospital** | Built by **Firoz Shah Tughlaq** | Hakims |
 
 ---
+
+
+### Comparative Matrix: Administrative Unit ↔ Heading Officer / Functionary ↔ Nature Of Authority / Duties
 
 | Administrative Unit | Heading Officer / Functionary | Nature of Authority / Duties |
 |---|---|---|
@@ -198,6 +204,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Land Category ↔ Frequency Of Cultivation ↔ Quality / Revenue Status
+
 | Land Category | Frequency of Cultivation | Quality / Revenue Status |
 |---|---|---|
 | **Polaj** (पोलज) | Cultivated **annually and continuously** for each harvest; never allowed to lie fallow | Best quality, most fertile agricultural land; assessed at full revenue |
@@ -290,6 +299,9 @@ hide:
 | **Chaitanya Mahaprabhu** | 16th c. (1486–1534 CE) | **Achintya Bhedabheda** (*Inconceivable Oneness & Difference*) | Kirtana & Sankirtana movement; ecstatic love for Radha-Krishna | Nadia / Navadvip (Bengal) |
 
 ---
+
+
+### Comparative Matrix: Saint ↔ Birth–Death ↔ Place / Language
 
 | Saint | Birth–death | Place / language | High-yield |
 |---|---|---|---|

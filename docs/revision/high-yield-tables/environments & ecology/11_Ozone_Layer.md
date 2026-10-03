@@ -49,6 +49,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Uv Type ↔ Wavelength ↔ Effect If Unfiltered
+
 | UV type | Wavelength | Effect if unfiltered |
 |---------|------------|----------------------|
 | UVA | 320–400 nm | Ageing, tanning |
@@ -56,6 +59,9 @@ hide:
 | UVC | 100–280 nm | Lethal — normally blocked |
 
 ---
+
+
+### Comparative Matrix: Ods ↔ Main Use
 
 | ODS | Main use |
 |-----|----------|
@@ -67,6 +73,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Antarctic ↔ Arctic
+
 | Feature | Antarctic | Arctic |
 |---------|-----------|--------|
 | Severity | Severe, recurring | Occasional, milder |
@@ -74,6 +83,9 @@ hide:
 | Polar vortex | Strong, very cold | Weaker, warmer |
 
 ---
+
+
+### Comparative Matrix: Treaty / Step ↔ Year ↔ Role
 
 | Treaty / step | Year | Role |
 |---------------|------|------|
@@ -84,6 +96,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. UV-A | 1. Fully blocked |
@@ -92,6 +107,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Montreal | 1. 2016 |
@@ -99,6 +117,9 @@ hide:
 | C. Kigali | 3. 1985 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

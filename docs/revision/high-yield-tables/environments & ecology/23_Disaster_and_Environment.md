@@ -40,6 +40,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Speed ↔ Up Example
+
 | Type | Speed | UP example |
 |------|-------|------------|
 | Riverine | Days–weeks | Ganga at Prayagraj (प्रयागराज)/Varanasi (वाराणसी) |
@@ -48,12 +51,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Eye ↔ Eyewall
+
 | Feature | Eye | Eyewall |
 |---------|-----|---------|
 | Winds | Calm | **Strongest** |
 | Pressure | Lowest | Rising outward |
 
 ---
+
+
+### Comparative Matrix: Feature ↔ Heat Wave ↔ Urban Heat Island
 
 | Feature | Heat wave | Urban heat island |
 |---------|-----------|-------------------|
@@ -62,6 +71,9 @@ hide:
 | Cause | Atmospheric pattern | Built surfaces, lost greenery |
 
 ---
+
+
+### Match Matrix: Tropical Cyclones ↔ Country/Region
 
 | List-I (Tropical cyclones) | List-II (Country/region) |
 | --- | --- |
@@ -72,6 +84,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Cyclone Name ↔ Country
+
 | List-I (Cyclone name) | List-II (Country) |
 | --- | --- |
 | A. Willy-Willies | 1. Philippines |
@@ -81,6 +96,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. NDMA | 1. Response force |
@@ -89,6 +107,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
+
 | List-I | List-II |
 |--------|--------|
 | A. Forest fire season | 1. UK pine-needle scheme |
@@ -96,6 +117,9 @@ hide:
 | C. Piral Lao–Paise Pao | 3. Himalayan fuel fact |
 
 ---
+
+
+### Match Matrix: Rivers ↔ Tributaries & Confluences
 
 | List-I | List-II |
 |--------|--------|

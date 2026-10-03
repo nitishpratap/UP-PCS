@@ -78,6 +78,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Date ↔ Place ↔ What Happened
+
 | Date | Place | What happened |
 |------|--------|----------------|
 | **Dec 1856** | Army | Decision to introduce Enfield (replace Brown Bess); trials at Dum Dum, Ambala, Sialkot |
@@ -89,6 +92,9 @@ hide:
 | **June 1857** | Jhansi | Rising — **not 11 May** |
 
 ---
+
+
+### Comparative Matrix: Centre ↔ Leader ↔ When It Rose
 
 | Centre | Leader | When it rose |
 |--------|--------|--------------|
@@ -130,6 +136,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Centre ↔ Leader
+
 | List-I (Centre) | List-II (Leader) |
 |-----------------|------------------|
 | A. Kanpur | 1. Begum Hazrat Mahal |
@@ -138,6 +147,9 @@ hide:
 | D. Jagdishpur | 4. Khan Bahadur Khan |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -148,6 +160,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Reading ↔ Tag
+
 | List-I (Reading) | List-II (Tag) |
 |------------------|---------------|
 | A. Outram & W. Taylor | 1. Sepoy Mutiny |
@@ -156,6 +171,9 @@ hide:
 | D. Savarkar | 4. Civilisation vs barbarism |
 
 ---
+
+
+### Match Matrix: British Death Theatre ↔ Details
 
 | List-I (British death theatre) | List-II |
 |--------------------------------|---------|

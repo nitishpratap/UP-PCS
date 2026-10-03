@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
 | **World Population Day**: **11 July** (Commemorates 5 Billion in 1987) | **World Health Day**: **7 April** (Commemorates WHO founding 1948) | **Trap**: Highly tested date pair. 11 July is Population Day; 7 April is Health Day. |

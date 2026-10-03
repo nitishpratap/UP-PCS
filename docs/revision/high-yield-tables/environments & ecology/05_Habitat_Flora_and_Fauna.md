@@ -95,6 +95,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Adaptation ↔ Details
+
 | List-I (Adaptation) | List-II |
 |---------------------|--------|
 | A. Arboreal | 1. Burrows |
@@ -104,6 +107,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Engler | 1. Planting hearths |
@@ -111,6 +117,9 @@ hide:
 | C. Microhabitat | 3. Small subdivision inside a larger habitat |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

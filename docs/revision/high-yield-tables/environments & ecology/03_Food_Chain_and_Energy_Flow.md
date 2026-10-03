@@ -51,6 +51,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Starts From ↔ Up / Textbook Example
+
 | Type | Starts from | UP / textbook example |
 |------|-------------|------------------------|
 | **Grazing** | Living producers | Grass → deer → tiger (Dudhwa); Grass → grasshopper → frog → snake |
@@ -59,6 +62,9 @@ hide:
 | **Parasitic** (special) | Living host tissue | Tree → insects → parasites |
 
 ---
+
+
+### Comparative Matrix: Level ↔ Role ↔ Up / India Example
 
 | Level | Role | UP / India example |
 |-------|------|-------------------|
@@ -70,6 +76,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Where Energy Goes At Each Level ↔ Key Fact
+
 | Where energy goes at each level | Key fact |
 |--------------------------------|-----------|
 | Respiration and heat | Largest share — why pyramid of energy (ऊर्जा पिरामिड) is upright |
@@ -79,6 +88,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Pyramid ↔ Unit ↔ Always Upright?
+
 | Pyramid | Unit | Always upright? | Inverted example |
 |---------|------|-----------------|------------------|
 | **Energy** | kcal/m²/yr | **Yes — always** | Never inverted |
@@ -86,6 +98,9 @@ hide:
 | **Numbers** | Individual count | Usually | One tree → many insects/parasites |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -95,6 +110,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Classic marine chain start | 1. Phytoplankton / diatoms |
@@ -102,6 +120,9 @@ hide:
 | C. Apex predator example | 3. Tiger |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

@@ -67,6 +67,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: 73Rd ↔ 74Th
+
 | | **73rd** | **74th** |
 |--|----------|----------|
 | In force | **24 Apr 1993** (National Panchayati Raj (पंचायती राज) Day) | **1 Jun 1993** |
@@ -79,6 +82,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
+
 | List-I: Amendment | List-II: Subject |
 |---|---|
 | A. 13th Amendment | i. Nagaland |
@@ -88,6 +94,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I: Provision | List-II: Amendment |
 |---|---|
 | A. Curtailment of judicial review | 1. 61st Amendment |
@@ -96,6 +105,9 @@ hide:
 | D. Addition of “Secular” to the Preamble | 4. 44th Amendment |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I: Amendment | List-II: Subject |
 |---|---|
@@ -107,6 +119,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I: Provision | List-II: Amendment |
 |---|---|
 | A. Right to form cooperative societies under Article 19(1)(c) | i. 81st Amendment, 2000 |
@@ -115,6 +130,9 @@ hide:
 | D. Limiting the Council of Ministers | iv. 99th Amendment, 2014 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I: Amendment | List-II: Provision amended |
 |---|---|
@@ -125,6 +143,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: List-A: Case ↔ List-B: Amendment Challenged
+
 | List-A: Case | List-B: Amendment challenged |
 |---|---|
 | A. Indira Gandhi v Raj Narain | i. 42nd Amendment |
@@ -134,6 +155,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Amendment ↔ Tag
+
 | List-I (Amendment) | List-II (Tag) |
 |--------------------|----------------|
 | A. 1st (1951) | 1. Socialist/Secular/Integrity; Duties; Mini-Constitution |
@@ -141,6 +165,9 @@ hide:
 | C. 44th (1978) | 3. Property to 300A; unsuspendable 20/21; Emergency rewrite |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

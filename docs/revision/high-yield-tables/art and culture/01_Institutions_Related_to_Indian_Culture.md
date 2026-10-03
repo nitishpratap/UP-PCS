@@ -57,6 +57,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Person / Body ↔ Key Fact
+
 | Person / body | Key fact |
 |---------------|-----------|
 | **Sir William Jones** | Founder-President; Sanskrit–Latin–Greek cognates; translated **Abhijnanashakuntalam** (अभिज्ञानशाकुन्तलम्) |
@@ -72,6 +75,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Fact ↔ Content
+
 | Fact | Content |
 |------|---------|
 | **4 ashramas** | Brahmacharya (student) → Grihastha → Vanaprastha → Sannyasa |
@@ -83,6 +89,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Short ↔ Full Form ↔ Year
+
 | Short | Full form | Year | Parent | One-line function |
 |------|-----------|------|--------|-------------------|
 | **ICCR** | **Indian Council for Cultural Relations** | 1950 | **MEA** (Ministry of External Affairs) | Cultural diplomacy abroad |
@@ -93,6 +102,9 @@ hide:
 | **7 ZCCs** | **Seven Zonal Cultural Centres** | 1985–87 | Ministry of Culture | Folk and tribal promotion — regional HQs below |
 
 ---
+
+
+### Comparative Matrix: Zcc ↔ Hq
 
 | ZCC | HQ |
 |-----|-----|
@@ -106,6 +118,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Division ↔ Work
+
 | Division | Work |
 |----------|------|
 | **Kalakosa** | Research + *Kalatattva Kosha* encyclopaedia |
@@ -114,6 +129,9 @@ hide:
 | **Mati Ghar** | Exhibition / auditorium |
 
 ---
+
+
+### Comparative Matrix: Museum ↔ City ↔ Est.
 
 | Museum | City | Est. | Speciality |
 |--------|------|------|------------|
@@ -136,6 +154,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Institution ↔ City / Hq ↔ Established
+
 | Institution | City / HQ | Established | Historical Fact |
 |-------------|-----------|-------------|-----------------|
 | **Bhatkhande Sanskriti Vishwavidyalaya** | **Lucknow** | **1926** | Founded by Pt. Vishnu Narayan Bhatkhande with help of Rai Umanath Bali. Originally named **Marris College of Music**; renamed Bhatkhande Hindustani Sangeet Mahavidyalaya in 1960; declared Deemed University in 2000; upgraded to State Cultural University in **2022**. |
@@ -149,6 +170,9 @@ hide:
 | **Bharat Kala Bhavan** | **Varanasi** | **1920** | Renowned museum of art and archaeology situated inside Banaras Hindu University (BHU); founded by Rai Krishnadasa. |
 
 ---
+
+
+### Comparative Matrix: Scheme ↔ Year ↔ Ministry
 
 | Scheme | Year | Ministry | Objective | Trap |
 |--------|------|----------|-----------|------|
@@ -165,6 +189,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Institution ↔ Fact
+
 | Institution | Fact |
 |-------------|------|
 | 1. Fort William College | Set up in 1800 by Lord Wellesley |
@@ -173,6 +200,9 @@ hide:
 | 4. Kangri Gurukul | Founded at Haridwar in 1857 by Vivekananda |
 
 ---
+
+
+### Comparative Matrix: Body ↔ Year / Tag
 
 | Body | Year / tag |
 |------|------------|
@@ -183,6 +213,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Scheme / Body ↔ Correct Tag
+
 | Scheme / body | Correct tag |
 |---------------|-------------|
 | 1. HRIDAY | 2015; includes Varanasi |
@@ -192,6 +225,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Item ↔ Location / Tag
+
 | Item | Location / tag |
 |------|----------------|
 | 1. Sarnath site museum | ASI site museum |
@@ -199,6 +235,9 @@ hide:
 | 3. National Mission for Manuscripts start year | 2003 |
 
 ---
+
+
+### Comparative Matrix: Person ↔ Correct Association
 
 | Person | Correct association |
 |--------|---------------------|

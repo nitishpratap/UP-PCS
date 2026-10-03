@@ -41,6 +41,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Red Data Book ↔ Iucn Red List
+
 | Feature | Red Data Book (India) | IUCN Red List |
 |---------|----------------------|---------------|
 | Scope | National | Global |
@@ -48,6 +51,9 @@ hide:
 | Function | National threat inventory | Standardised risk categories |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Category
 
 | Code | Category |
 |------|----------|
@@ -63,6 +69,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ India Example
+
 | Type | India example |
 |------|---------------|
 | Freshwater marsh | Keoladeo (केवलादेव) Ghana (घन) |
@@ -72,6 +81,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Species ↔ Feature
+
 | Species | Feature |
 |---------|---------|
 | Rhizophora | Stilt/prop roots |
@@ -79,6 +91,9 @@ hide:
 | Sonneratia | Pneumatophores |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Location ↔ Key Species
 
 | Type | Location | Key species |
 |------|----------|-------------|
@@ -89,6 +104,9 @@ hide:
 
 ---
 
+
+### Railway Zones & Administrative Headquarters
+
 | Zone | Altitude (approx.) | Vegetation |
 |------|-------------------|------------|
 | Tropical foothills | <1,000 m | Sal, riverine forest |
@@ -97,6 +115,9 @@ hide:
 | Nival | >4,500 m | Lichens, permanent snow |
 
 ---
+
+
+### Railway Zones & Administrative Headquarters
 
 | Zone | Character | Productivity |
 |------|-----------|--------------|
@@ -107,6 +128,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. IUCN | 1. Wildlife trade |
@@ -115,6 +139,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Rivers ↔ Tributaries & Confluences
+
 | List-I | List-II |
 |--------|--------|
 | A. Gangetic dolphin | 1. High Himalaya |
@@ -122,6 +149,9 @@ hide:
 | C. Barasingha | 3. Dudhwa Terai teaching |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

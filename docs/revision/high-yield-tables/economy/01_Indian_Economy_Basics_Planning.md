@@ -28,6 +28,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Distinguishing Fact
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Growth** | **Development** | Output / income rise vs broader welfare / living standards |
@@ -105,6 +108,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Adam Smith | 1. First NITI Vice-Chairperson |
@@ -113,6 +119,9 @@ hide:
 | D. Mahalanobis | 4. Second Plan industry model |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -123,6 +132,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. First Plan | 1. Heavy industry / Mahalanobis |
@@ -131,6 +143,9 @@ hide:
 | D. Twelfth Plan | 4. Inclusive + sustainable growth tag |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

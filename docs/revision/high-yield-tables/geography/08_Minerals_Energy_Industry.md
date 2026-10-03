@@ -28,6 +28,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Iron leaders | **OD + CG** (2021–22 report) | JH+KA always lead | ओडिशा+छत्तीसगढ़ |
@@ -118,6 +121,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Mode ↔ How It Forms ↔ Examples
+
 | Mode | How it forms | Examples |
 |------|--------------|----------|
 | **Vein / lode** | Molten / gaseous minerals rise into cracks of **igneous and metamorphic** rock, then cool | Tin, copper, zinc, lead |
@@ -139,6 +145,9 @@ hide:
 | **Energy / mineral fuels** | Organic fossil fuels + nuclear fuels | Coal, petroleum, natural gas, uranium, thorium |
 
 ---
+
+
+### Comparative Matrix: Belt ↔ Cover ↔ Character
 
 | Belt | Cover | Character |
 |------|-------|-----------|
@@ -171,6 +180,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ore ↔ Iron Content ↔ Trait
+
 | Ore | Iron content | Trait |
 |-----|--------------|-----------|
 | **Magnetite** (Fe₃O₄) | About **70%** | Finest / richest ore; magnetic; electrical industry |
@@ -180,12 +192,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Belt ↔ Note
+
 | Belt | Note |
 |------|------|
 | **Odisha–Jharkhand** | Mayurbhanj (मयूरभंज)–Keonjhar–Sundargarh hematite; Gua–Noamundi in Singhbhum |
 | **Durg–Bastar–Chandrapur** | Bailadila high-grade hematite in Chhattisgarh; Dalli–Rajhara; export via Visakhapatnam |
 | **Ballari–Chitradurga–Chikkamagaluru–Tumakuru** | Karnataka magnetite–hematite; Kudremukh slurry to Mangaluru |
 | **Maharashtra–Goa** | Lower grade; export via **Mormugao** |
+
+### Mineral Belts, Mining Centres & State Shares
+
 | Mine / belt | State | Note |
 |-------------|-------|------|
 | Gurumahisani / Badampahar / Sulaipat | **Odisha** | Mayurbhanj hematite belt |
@@ -199,6 +217,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Point ↔ Teaching Line
+
 | Point | Teaching line |
 |-------|---------------|
 | Steel need | About **10 kg of manganese** per tonne of steel |
@@ -211,6 +232,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Point ↔ Teaching Line
+
 | Point | Teaching line |
 |-------|---------------|
 | Main Indian belt | **Sukinda in Odisha** (India’s leading chromite belt) |
@@ -219,6 +243,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Point ↔ Teaching Line
+
 | Point | Teaching line |
 |-------|---------------|
 | Leading state | **Odisha** |
@@ -226,6 +253,9 @@ hide:
 | Other belts | Gujarat, Jharkhand, Chhattisgarh, Maharashtra |
 | Older city tag | **Katni** (Madhya Pradesh) |
 | Smelting logic | Aluminium smelting is **power-hungry**, so plants sit near cheap electricity as well as near ore |
+
+### Comparative Matrix: Company ↔ Plant ↔ State
+
 | Company (कंपनी) | Plant | State | Note |
 |---------|-------|-------|------|
 | BALCO | **Korba** | Chhattisgarh | Correct |
@@ -235,6 +265,9 @@ hide:
 | NALCO | Damanjodi (alumina) / Angul (smelter) | Odisha | Headquarters **Bhubaneswar** |
 
 ---
+
+
+### Comparative Matrix: Centre ↔ State ↔ Note
 
 | Centre | State | Note |
 |--------|-------|------|
@@ -274,6 +307,9 @@ hide:
 | **Rampura-Agucha** (Bhilwara) | Rajasthan | Asia’s richest zinc–lead reserve belt; Hindustan Zinc link |
 
 ---
+
+
+### Comparative Matrix: Belt ↔ State / Region ↔ Note
 
 | Belt | State / region | Note |
 |------|----------------|------|
@@ -335,6 +371,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Iron Ore Mine ↔ State
+
 | List-I (Iron Ore Mine) | List-II (State) |
 |---|---|
 | A. Gurumahisani | 1. Jharkhand |
@@ -352,6 +391,9 @@ hide:
 | **Tertiary coal** | Small share; younger; often **high sulphur** | **Assam, Meghalaya, Nagaland, Arunachal Pradesh**; also Kalakot (J&K) in older NCERT lists |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Carbon ↔ Moisture / Quality
 
 | Type | Carbon (approx.) | Moisture / quality | Where found in India | Main use |
 |------|------------------|--------------------|----------------------|----------|
@@ -377,6 +419,9 @@ hide:
 | Sohagpur | Madhya Pradesh | Son family |
 | Singareni | Telangana | **Godavari** (गोदावरी) valley |
 | Wardha / Kamptee / Umrer | Maharashtra | Godavari–Wardha |
+
+### Comparative Matrix: Coalfield ↔ Valley
+
 | Coalfield | Valley |
 |-----------|--------|
 | **Talcher** | **Mahanadi** |
@@ -411,6 +456,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Coal Fields ↔ Located
+
 | List-I (Coal Fields) | List-II (Located) |
 |---|---|
 | A. Talcher | 1. Damodar Valley |
@@ -419,6 +467,9 @@ hide:
 | D. Singareni | 4. Mahanadi Valley |
 
 ---
+
+
+### Comparative Matrix: Fuel ↔ Main Composition ↔ Teaching Line
 
 | Fuel | Main composition | Teaching line |
 |------|------------------|---------------|
@@ -444,6 +495,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Refinery ↔ State
+
 | Refinery | State |
 |----------|-------|
 | **Nayara** (Vadinar / Jamnagar belt) | Gujarat |
@@ -466,6 +520,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Refinery ↔ State
+
 | List-I (Refinery) | List-II (State) |
 |---|---|
 | A. Nayara | 1. Assam |
@@ -485,6 +542,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Hydel Name ↔ Note
+
 | Hydel name | Note |
 |------------|-----|
 | Shivanasamudra | pair with Kalpakkam |
@@ -498,6 +558,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Plant ↔ State ↔ Key Facts
+
 | Plant (परमाणु संयंत्र) | State (राज्य) | Key Facts (मुख्य तथ्य) |
 |---|---|---|
 | **Tarapur (तारापुर)** | Maharashtra (महाराष्ट्र) | First commercial nuclear plant in India (1969) / भारत का पहला परमाणु संयंत्र |
@@ -510,6 +573,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Nuclear Power Plant ↔ State
+
 | List-I (Nuclear Power Plant) | List-II (State) |
 |---|---|
 | A. Kudankulam | 1. Karnataka |
@@ -518,6 +584,9 @@ hide:
 | D. Rawatbhata | 4. Gujarat |
 
 ---
+
+
+### Comparative Matrix: Plant ↔ State
 
 | Plant | State |
 |-------|-------|
@@ -558,6 +627,9 @@ hide:
 
 ---
 
+
+### Railway Zones & Administrative Headquarters
+
 | Corridor / zone | Meaning |
 |-----------------|---------|
 | **DMIC** | Delhi–Mumbai Industrial Corridor — the must-know industrial corridor |
@@ -570,6 +642,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Coalfield ↔ State
+
 | Coalfield | State (as given in options) |
 |---|---|
 | 1. Maolong | Arunachal Pradesh |
@@ -578,6 +653,9 @@ hide:
 | 4. Talcher | Odisha |
 
 ---
+
+
+### Industrial Centres, Raw Material Belts & Clusters
 
 | City | Industry tag |
 |------|----------------|
@@ -593,6 +671,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Coal Fields ↔ Located
+
 | List-I (Coal Fields) | List-II (Located) |
 |---|---|
 | A. Talcher | 1. Damodar Valley |
@@ -601,6 +682,9 @@ hide:
 | D. Singareni | 4. Mahanadi Valley |
 
 ---
+
+
+### Match Matrix: Mineral Exploration Agencies ↔ Headquarters
 
 | List-I (Mineral Exploration Agencies) | List-II (Headquarters) |
 |---|---|
@@ -611,6 +695,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Centre ↔ Industry
+
 | List-I (Centre) | List-II (Industry) |
 |---|---|
 | A. Osaka | 1. Cigar |
@@ -619,6 +706,9 @@ hide:
 | D. St. Petersburg | 4. Automobile |
 
 ---
+
+
+### Match Matrix: Revolution ↔ Related With
 
 | List-I (Revolution) | List-II (Related with) |
 |---|---|
@@ -629,6 +719,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Coal Field ↔ Country
+
 | List-I (Coal Field) | List-II (Country) |
 |---|---|
 | A. Appalachian | 1. England |
@@ -637,6 +730,9 @@ hide:
 | D. Kuzbass | 4. USA |
 
 ---
+
+
+### Match Matrix: Refinery ↔ State
 
 | List-I (Refinery) | List-II (State) |
 |---|---|
@@ -647,6 +743,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Nuclear Power Plant ↔ State
+
 | List-I (Nuclear Power Plant) | List-II (State) |
 |---|---|
 | A. Kudankulam | 1. Karnataka |
@@ -655,6 +754,9 @@ hide:
 | D. Rawatbhata | 4. Gujarat |
 
 ---
+
+
+### Match Matrix: Iron Ore Mine ↔ State
 
 | List-I (Iron Ore Mine) | List-II (State) |
 |---|---|
@@ -665,6 +767,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Rock System ↔ Main Minerals
+
 | List-I (Rock system) | List-II (Main minerals) |
 |---|---|
 | A. Dharwar | 1. Limestone for cement |
@@ -673,6 +778,9 @@ hide:
 | D. Tertiary | 4. North-East younger coal |
 
 ---
+
+
+### Match Matrix: Mine / Area ↔ State
 
 | List-I (Mine / area) | List-II (State) |
 |---|---|
@@ -683,6 +791,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Copper Area ↔ State
+
 | List-I (Copper area) | List-II (State) |
 |---|---|
 | A. Khetri | 1. Telangana |
@@ -691,6 +802,9 @@ hide:
 | D. Malanjkhand | 4. Madhya Pradesh |
 
 ---
+
+
+### Match Matrix: Valley ↔ Coalfield
 
 | List-I (Valley) | List-II (Coalfield) |
 |---|---|
@@ -701,6 +815,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Coalfield / Lignite Centre ↔ State
+
 | List-I (Coalfield / lignite centre) | List-II (State) |
 |---|---|
 | A. Karanpura | 1. Telangana |
@@ -709,6 +826,9 @@ hide:
 | D. Korba | 4. Chhattisgarh |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -719,6 +839,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Tarapur | 1. Uttar Pradesh |
@@ -728,6 +851,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Mathura | 1. Assam |
@@ -736,6 +862,9 @@ hide:
 | D. Barauni | 4. Bihar |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

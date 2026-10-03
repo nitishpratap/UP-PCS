@@ -57,6 +57,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Schedule
+
 | Code | Schedule |
 |------|----------|
 | A | Seventh Schedule |
@@ -65,6 +68,9 @@ hide:
 | D | Tenth Schedule |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Subject
 
 | Code | Subject |
 |------|---------|
@@ -75,6 +81,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Schedule
+
 | Code | Schedule |
 |------|----------|
 | A | Third Schedule |
@@ -83,6 +92,9 @@ hide:
 | D | Eighth Schedule |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Subject
 
 | Code | Subject |
 |------|---------|
@@ -106,6 +118,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Schedule
+
 | Code | Schedule |
 |------|----------|
 | A | Seventh Schedule |
@@ -114,6 +129,9 @@ hide:
 | D | Tenth Schedule |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Subject
 
 | Code | Subject |
 |------|---------|
@@ -124,6 +142,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Schedule
+
 | Code | Schedule |
 |------|----------|
 | A | Third Schedule |
@@ -132,6 +153,9 @@ hide:
 | D | Eighth Schedule |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Subject
 
 | Code | Subject |
 |------|---------|
@@ -142,6 +166,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Article 350 | 1. One Special Officer for Linguistic Minorities |
@@ -149,6 +176,9 @@ hide:
 | C. Article 350B | 3. Mother-tongue instruction at primary stage |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

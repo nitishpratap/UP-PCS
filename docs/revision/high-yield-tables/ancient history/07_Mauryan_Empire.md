@@ -68,6 +68,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
+
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
 | *Arthashastra* (अर्थशास्त्र) | **Kautilya / Chanakya / Vishnugupta** (कौटिल्य / चाणक्य / विष्णुगुप्त) | Sanskrit statecraft; saptanga, officials, courts |
@@ -99,6 +102,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Named In Re Ii ↔ Fact
+
 | Named in RE II | Fact |
 |----------------|------|
 | **Chola** (चोल) | South neighbour |
@@ -110,6 +116,9 @@ hide:
 | **Kambojas** | Northwest neighbours |
 
 ---
+
+
+### Comparative Matrix: Re ↔ Fact
 
 | RE | Fact |
 |----|------|
@@ -127,6 +136,9 @@ hide:
 | **XII** | **Samavaya / religious synthesis** ← |
 | **XIII** | **Kalinga**; five Greek kings (**Antioka** = Antiochus II Theos of Syria; **Turamaya** = Ptolemy II Philadelphus of Egypt; **Antikini** = Antigonus Gonatas of Macedonia; **Maka** = Magas of Cyrene; **Alikasudara** = Alexander of Epirus); dhamma-vijaya |
 | **XIV** | Edicts written short or long as the place needs |
+
+### Comparative Matrix: Site ↔ Region ↔ Script / Extra
+
 | Site | Region | Script / extra |
 |------|--------|----------------|
 | **Girnar (Junagadh)** | Gujarat | Full 14; later **Rudradaman** (रुद्रदामन) + Skandagupta on same rock |
@@ -141,6 +153,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Pe ↔ Fact
+
 | PE | Fact |
 |----|------|
 | **I** | Self-check; little sin |
@@ -150,6 +165,9 @@ hide:
 | **V** | Closed slaughter-days; **list of protected animals** (not dhamma-mahamatras — those are **RE V**) |
 | **VI** | Inscriptions from the **12th** year onward |
 | **VII** | Longest; “gift of dhamma is the best gift”; only on **Delhi-Topra** in full |
+
+### Comparative Matrix: Shaft ↔ Place ↔ Capital / Extra
+
 | Shaft | Place | Capital / extra |
 |-------|-------|-----------------|
 | **Sarnath** | Varanasi, UP | **Four lions** + abacus animals + dharmachakra = **national emblem** (1950; lotus dropped). **Schism edict** |
@@ -166,6 +184,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Cave ↔ Hill ↔ Patron
+
 | Cave | Hill | Patron | Fact |
 |------|------|--------|------|
 | **Sudama** | Barabar | Ashoka, 12th year | Polished cell; Ajivika |
@@ -176,6 +197,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Province ↔ Hq ↔ Governor
+
 | Province | HQ | Governor |
 |----------|-----|----------|
 | **Prachyapatha** / Magadha core | **Pataliputra** | King |
@@ -185,6 +209,9 @@ hide:
 | **Dakshinapatha** (दक्षिणापथ) | **Suvarnagiri** | Kumara |
 
 ---
+
+
+### Comparative Matrix: Levy ↔ Fact
 
 | Levy | Fact |
 |------|------|
@@ -216,6 +243,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Edict / Tag ↔ Content
+
 | List-I (Edict / Tag) | List-II (Content) |
 |---|---|
 | 1. Rock Edict XIII | A. Samavaya / religious concord |
@@ -224,6 +254,9 @@ hide:
 | 4. Maski MRE | D. Dhamma-mahamatras (14th year) |
 
 ---
+
+
+### Match Matrix: Term ↔ Meaning
 
 | List-I (Term) | List-II (Meaning) |
 |---|---|

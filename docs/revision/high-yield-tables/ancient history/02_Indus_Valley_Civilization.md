@@ -93,6 +93,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Harappan Site ↔ Ut/State Of India
+
 | List-I (Harappan Site) | List-II (UT/State of India) |
 |------------------------|-----------------------------|
 | A. Balu | 1. Uttar Pradesh |
@@ -101,6 +104,9 @@ hide:
 | D. Hulas | 4. Gujarat |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -111,6 +117,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Harappa | 1. N.G. Majumdar (1936-37) |
@@ -119,6 +128,9 @@ hide:
 | D. Kaushambi | 4. B.B. Lal (1950-52) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -129,6 +141,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Harappa | 1. Cemetery R-37 |
@@ -137,6 +152,9 @@ hide:
 | D. Mohenjo-Daro | 4. Furrowed land |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -147,6 +165,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Harappa | 1. Bhogava |
@@ -155,6 +176,9 @@ hide:
 | D. Ropar | 4. Sutlej |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -165,6 +189,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Site ↔ Feature
+
 | List-I (Site) | List-II (Feature) |
 |---|---|
 | 1. Lothal | A. Great Bath |
@@ -173,6 +200,9 @@ hide:
 | 4. Chanhudaro | D. Ploughed field and fire altars |
 
 ---
+
+
+### Match Matrix: Person ↔ Work
 
 | List-I (Person) | List-II (Work) |
 |---|---|

@@ -70,6 +70,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Non-Alignment ↔ Nam
+
 | | **Non-alignment** | **NAM** |
 |--|-------------------|--------|
 | What | A **policy**: no military camp in the Cold War; issue-by-issue judgment | A **movement of States**, first summit **1961 Belgrade** |
@@ -78,6 +81,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Collective Security ↔ Collective Defence
+
 | | **Collective security** | **Collective defence** |
 |--|------------------------|------------------------|
 | Idea | The *system* punishes a breaker of peace | *Allies* fight if one of them is attacked |
@@ -85,6 +91,9 @@ hide:
 | India | UN peacekeeping / Chapter VII mandates | **Not** in Art. 5 clubs |
 
 ---
+
+
+### Comparative Matrix: Imf ↔ World Bank Group
 
 | | **IMF** | **World Bank Group** |
 |--|--------|----------------------|
@@ -97,6 +106,9 @@ hide:
 | Money | **SDR** (1969) = unit of account. Basket classically **USD, EUR, CNY, JPY, GBP**. Not cash in your wallet | IBRD bonds + IDA donor replenishments |
 
 ---
+
+
+### Comparative Matrix: Saarc ↔ Asean ↔ Bimstec
 
 | | **SAARC** | **ASEAN** | **BIMSTEC** |
 |--|-----------|-----------|-------------|
@@ -188,6 +200,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. IMF | 1. Geneva; from GATT 1947 |
@@ -197,6 +212,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. WHO | 1. Paris; 1945 |
@@ -205,6 +223,9 @@ hide:
 | D. NDB | 4. Shanghai; BRICS bank |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

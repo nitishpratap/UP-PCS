@@ -76,6 +76,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Site ↔ State
+
 | Site | State |
 |------|--------|
 | **Nevasa** | **Maharashtra** (Pravara) |
@@ -84,6 +87,9 @@ hide:
 | **Gudiyam Cave** | **Tamil Nadu** |
 
 ---
+
+
+### Comparative Matrix: Site ↔ State / Ut
 
 | Site | State / UT |
 |------|------------|
@@ -94,11 +100,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Site ↔ District / River ↔ Fact
+
 | Site | District / river | Fact |
 |------|------------------|------|
 | **Alamgirpur** | Meerut, **Hindon** | **Easternmost** IVC site in India |
 | **Hulas** | Baghpat | UP Harappan; PYQs **2018, 2020, 2025** |
 | **Mandi** | Bijnor, **Ramganga** (रामगंगा) | UP Harappan (2021, 2025) |
+
+### Comparative Matrix: Often Used As Bait ↔ Actual Location
+
 | Often used as bait | Actual location |
 |--------------------|-----------------|
 | **Manda** | Jammu and Kashmir |
@@ -109,6 +121,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Culture ↔ Marker ↔ Usual Date / Link
+
 | Culture | Marker | Usual date / link |
 |---------|--------|-------------------|
 | **OCP** (Ochre Coloured Pottery) | eastern doab pottery | Chalcolithic overlap; pairs with **copper hoards** |
@@ -117,6 +132,9 @@ hide:
 | **Megalithic** | burials with big stones | Iron-age **south**; not Harappan |
 
 ---
+
+
+### Comparative Matrix: Site ↔ State ↔ Excavator / Fact
 
 | Site | State | Excavator / fact | Signature find |
 |------|-------|------------------|----------------|
@@ -128,6 +146,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Method ↔ Samples ↔ Fact
+
 | Method | Samples | Fact |
 |--------|---------|------|
 | **Stratigraphy** | soil layers | relative order only |
@@ -137,6 +158,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Trap ↔ Fact
+
 | Trap | Fact |
 |------|------|
 | Bhimbetka in UP | **MP** |
@@ -144,6 +168,9 @@ hide:
 | Sanauli = Mature Harappan dock | Late Harappan / OCP **chariots**, Baghpat |
 
 ---
+
+
+### Match Matrix: Archaeologist ↔ Fact
 
 | List-I (Archaeologist) | List-II (Fact) |
 |---|---|
@@ -154,6 +181,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Site ↔ State / Ut
+
 | List-I (Site) | List-II (State / UT) |
 |---|---|
 | 1. Nevasa | A. Rajasthan |
@@ -163,6 +193,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Concept ↔ Fact
+
 | List-I (Concept) | List-II (Fact) |
 |---|---|
 | 1. Relative dating | A. Calendar years |
@@ -171,6 +204,9 @@ hide:
 | 4. Rock shelter | D. Bhimbetka overhang complex (not hollow cave wording) |
 
 ---
+
+
+### Match Matrix: Harappan Site ↔ State
 
 | List-I (Harappan site) | List-II (State) |
 |---|---|

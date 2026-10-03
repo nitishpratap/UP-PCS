@@ -45,6 +45,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Item ↔ Correct
+
 | Item | Correct |
 |------|------|
 | Root text | **Natyashastra** of Bharata Muni; **nine** rasas; four abhinaya |
@@ -53,6 +56,9 @@ hide:
 | Kathak gharanas | **Lucknow** (Wajid Ali Shah, Birju Maharaj), Jaipur, Banaras |
 
 ---
+
+
+### Comparative Matrix: Rasa ↔ Mood
 
 | Rasa | Mood |
 |------|------|
@@ -68,6 +74,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Dance ↔ State / Tag
+
 | Dance | State / tag |
 |-------|-------------|
 | 1. Bharatanatyam | Tamil Nadu |
@@ -77,6 +86,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Person ↔ Form / Institution
+
 | Person | Form / institution |
 |--------|--------------------|
 | 1. Rukmini Devi Arundale | Bharatanatyam / Kalakshetra |
@@ -85,6 +97,9 @@ hide:
 | 4. Vallathol | Kerala Kalamandalam |
 
 ---
+
+
+### Comparative Matrix: Concept ↔ Meaning
 
 | Concept | Meaning |
 |---------|---------|

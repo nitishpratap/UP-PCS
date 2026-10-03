@@ -62,6 +62,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Playwright ↔ Work
+
 | Playwright | Work |
 |------------|------|
 | 1. Shudraka | Mrichchhakatika |
@@ -71,6 +74,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Form ↔ Tag
+
 | Form | Tag |
 |------|-----|
 | 1. Kathputli | Rajasthan string marionette |
@@ -79,6 +85,9 @@ hide:
 | 4. Tholu Bommalata | Andhra Pradesh shadow form |
 
 ---
+
+
+### Comparative Matrix: Form ↔ Region
 
 | Form | Region |
 |------|--------|

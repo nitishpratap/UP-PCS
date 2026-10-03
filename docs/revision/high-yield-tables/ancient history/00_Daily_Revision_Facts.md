@@ -80,6 +80,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ancient Vedic Term ↔ Literal Meaning / Context ↔ Historical & Exam Significance
+
 | Ancient Vedic Term | Literal Meaning / Context | Historical & Exam Significance |
 |---|---|---|
 | **Aghanya** (अघन्या) | "Not to be killed / slain" | Refers to the **Cow**; highest penalty (capital punishment or expulsion) for hurting/killing |
@@ -109,6 +112,9 @@ hide:
 | **Nishka / Satamana** (निष्क / शतमान) | Gold ornament / unit | In Rigveda: gold necklet/bullion; in Later Vedic: standardized gold unit of value |
 
 ---
+
+
+### Major Seaports & Coastal Trade Hubs
 
 | # | Ratnin (Jewel-Official) | Exact Designation / Official Portfolio | Key UPPCS Exam Trap |
 |---|---|---|---|
@@ -197,6 +203,9 @@ hide:
 | **Proof of birthplace** | Ashoka’s **Rummindei** pillar at Lumbini | Kundagrama / Vaishali tradition; not marked by Rummindei |
 
 ---
+
+
+### Comparative Matrix: Dynasty ↔ Period ↔ Founder
 
 | Dynasty | Period (from–to) | Founder | Last ruler | Capital | Key ruler & high-yield |
 |---|---|---|---|---|---|
@@ -310,6 +319,9 @@ hide:
 | **Iravu** (इरवु) | Sangam | Extra forced contribution or emergency demand made by the king. | Forced emergency demand |
 
 ---
+
+
+### Railway Zones & Administrative Headquarters
 
 | Tinai (Landscape) | Eco-Zone / Topography | Presiding Deity | Primary Livelihood / Occupation |
 |---|---|---|---|

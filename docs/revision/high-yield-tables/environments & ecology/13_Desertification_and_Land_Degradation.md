@@ -39,6 +39,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Concept ↔ Scope
+
 | Concept | Scope |
 |---------|-------|
 | Desertification | ASDM drylands only |
@@ -46,6 +49,9 @@ hide:
 | Land degradation | All land types, all processes |
 
 ---
+
+
+### Comparative Matrix: Process ↔ Example Region
 
 | Process | Example region |
 |---------|----------------|
@@ -56,12 +62,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Erosion Stage ↔ Feature
+
 | Erosion stage | Feature |
 |---------------|---------|
 | Sheet | Thin uniform topsoil loss |
 | Rill | Small grooves after rain |
 | Gully | Deep channels, uncrossable by plough |
 | Ravine | Chambal-type badland maze |
+
+### Comparative Matrix: Agent ↔ Main Region ↔ Processes
+
 | Agent | Main region | Processes |
 |-------|-------------|-----------|
 | Water | Monsoon slopes, Chambal | Sheet → ravine |
@@ -69,6 +81,9 @@ hide:
 | Gravity | Himalaya (हिमालय), NE hills | Landslides, slumping |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -78,6 +93,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Deflation | 1. Sandblasting |
@@ -85,6 +103,9 @@ hide:
 | C. Shelter belts | 3. Wind-erosion control |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

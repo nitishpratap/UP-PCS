@@ -36,6 +36,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Party Name ↔ Abbr. ↔ Founded
+
 | Party Name (दल) | Abbr. | Founded (वर्ष) | Key Founder(s) (संस्थापक) | Official Symbol (प्रतीक) | Level / Status |
 |:----------------|:-----:|:--------------:|:--------------------------|:-------------------------|:---------------|
 | **Indian National Congress** | INC | **1885** (28 Dec) | A.O. Hume, W.C. Bonnerjee | Hand (हाथ का पंजा) | National Party |
@@ -73,6 +76,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Party ↔ Leader
+
 | # | Party | Leader |
 |---|-------|--------|
 | 1 | Bharatiya Jana Sangh | Dr. Shyama Prasad Mukherjee |
@@ -82,12 +88,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Political Party
+
 | Code | Political party |
 |------|-----------------|
 | A | CPI |
 | B | CPI(M) |
 | C | AIADMK |
 | D | Telugu Desam |
+
+### Comparative Matrix: Code ↔ Year Of Formation
+
 | Code | Year of formation |
 |------|-------------------|
 | 1 | 1972 |
@@ -97,12 +109,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Political Party
+
 | Code | Political party |
 |------|-----------------|
 | A | Indian National Congress |
 | B | Bharatiya Jana Sangh |
 | C | Communist Party of India |
 | D | AIADMK |
+
+### Comparative Matrix: Code ↔ Year
+
 | Code | Year |
 |------|------|
 | 1 | 1951 |
@@ -112,12 +130,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Political Party
+
 | Code | Political party |
 |------|-----------------|
 | A | Communist Party of India (Marxist) |
 | B | Communist Party of India |
 | C | Bahujan Samaj Party |
 | D | All India Trinamool Congress |
+
+### Comparative Matrix: Code ↔ Year Of Establishment
+
 | Code | Year of establishment |
 |------|-----------------------|
 | 1 | 1964 |
@@ -127,12 +151,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Trade Union
+
 | Code | Trade union |
 |------|-------------|
 | A | Bharatiya Mazdoor Sangh |
 | B | Indian National Trade Union Congress |
 | C | United Trade Union Congress |
 | D | All India Trade Union Congress |
+
+### Comparative Matrix: Code ↔ Political Affiliation
+
 | Code | Political affiliation |
 |------|-----------------------|
 | 1 | Indian National Congress |
@@ -142,6 +172,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Union ↔ Link
+
 | List-I (Union) | List-II (Link) |
 |----------------|----------------|
 | A. AITUC | 1. Congress (1947) |
@@ -150,6 +183,9 @@ hide:
 | D. CITU | 4. BJP/RSS (1955) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

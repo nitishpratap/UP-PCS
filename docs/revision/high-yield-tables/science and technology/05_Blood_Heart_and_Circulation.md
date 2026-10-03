@@ -23,6 +23,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Concept A ↔ Concept B ↔ Core Distinguishing Fact
+
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Pulmonary Artery** | **Pulmonary Vein** | Carries deoxygenated blood from right ventricle to lungs vs carries oxygenated blood from lungs to left atrium | फुप्फुस धमनी / फुप्फुस शिरा |
@@ -143,6 +146,9 @@ hide:
 | 30 | Carotid arteries = main arteries supplying blood to the brain |
 
 ---
+
+
+### Match Matrix: Heart Structure / Chamber ↔ Specific Physiological Valve / Vessel
 
 | List-I (Heart Structure / Chamber) | List-II (Specific Physiological Valve / Vessel) |
 |---|---|

@@ -83,11 +83,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Available To Citizens Only ↔ Available To All Persons
+
 | Available to **citizens only** | Available to **all persons** (citizens + foreigners) |
 |--------------------------------|--------------------------------------------------------|
 | Arts. **15, 16, 19, 29, 30** | Arts. **14, 20, 21, 21A, 22, 23, 24, 25–28, 32** |
 
 ---
+
+
+### Comparative Matrix: Point ↔ Art. 32 ↔ Art. 226
 
 | Point | Art. 32 (SC) | Art. 226 (HC) |
 |-------|--------------|----------------|
@@ -97,6 +103,9 @@ hide:
 | Suspension | Possible under 359 (not 20/21) | Not tied to 359 in the same way |
 
 ---
+
+
+### Comparative Matrix: Point ↔ Fundamental Rights ↔ Dpsp
 
 | Point | Fundamental Rights (III) | DPSP (IV) |
 |-------|--------------------------|-----------|
@@ -109,12 +118,18 @@ hide:
 | Implementation | Automatically enforceable | Need **legislation** |
 | Against | Mainly the State | Positive obligations on the State |
 | Conflict | *Kesavananda / Minerva Mills* — **balance**; DPSP cannot destroy FR basic structure | 39(b)(c) laws saved by **31C** |
+
+### Comparative Matrix: Fr ↔ Legal / Constitutional Right
+
 | FR | Legal / Constitutional right |
 |----|------------------------------|
 | In **Part III**; enforceable via **Art. 32** (SC) | Outside Part III (e.g. **300A**); enforced via ordinary law / **226** |
 | Guaranteed by Constitution | May be created/altered by ordinary law (except constitutional ones) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -124,6 +139,9 @@ hide:
 | D. Article 31 (1) | 4. No citizen shall be denied admission into any educational institution maintained by the State, or receiving State aid, on the grounds of religion, race, caste, language or any of them. |
 
 ---
+
+
+### Comparative Matrix: List - I ↔ List - Ii
 
 | List - I | List - II |
 |---|---|
@@ -135,6 +153,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mountain Passes ↔ States / Locations
+
 | List-I | List-II |
 |---|---|
 | A. To foster respect for international law | 1. Article 51-A (h) |
@@ -143,6 +164,9 @@ hide:
 | D. To separate judiciary from the executive in Public Service of the State | 4. Article 51A (g) |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -153,6 +177,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | RTE ages 6–14 |
@@ -161,6 +188,9 @@ hide:
 | 4 | Rights against exploitation |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -171,6 +201,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Uniform Civil Code |
@@ -180,6 +213,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Habeas Corpus |
@@ -188,6 +224,9 @@ hide:
 | D | Certiorari |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|

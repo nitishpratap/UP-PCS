@@ -24,6 +24,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair (A vs B) | Correct Feature / Institution | Trap to avoid | Hindi keyword |
 | :--- | :--- | :--- | :--- |
 | **Marginal Holding vs Small Holding** | **Marginal:** Less than 1.00 ha (68.5% holdings).<br>**Small:** 1.00 to 2.00 ha (17.7% holdings). | Do NOT call 1–2 ha marginal; SMFs together make **86.2%**. | सीमांत (<1 ha) / लघु (1-2 ha) |

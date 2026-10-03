@@ -23,6 +23,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Concept A ↔ Concept B ↔ Core Distinguishing Fact
+
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Myopia** | **Hypermetropia** | Image falls in front of retina, near vision clear, corrected by concave lens vs image behind retina, far vision clear, convex lens | निकट दृष्टि / दूर दृष्टि दोष |
@@ -181,6 +184,9 @@ hide:
 | 30 | EEG = Electroencephalogram (brain waves); ECG = Electrocardiogram (heart waves) |
 
 ---
+
+
+### Match Matrix: Endocrine Hormone ↔ Specific Physiological Action / Target
 
 | List-I (Endocrine Hormone) | List-II (Specific Physiological Action / Target) |
 |---|---|

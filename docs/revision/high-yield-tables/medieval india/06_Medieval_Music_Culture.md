@@ -100,6 +100,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Treatise ↔ Author
+
 | List-I (Treatise) | List-II (Author) |
 |-------------------|------------------|
 | A. Ragamala | 1. Somanath |
@@ -108,6 +111,9 @@ hide:
 | D. Chaturdandi Prakashika | 4. Venkatamakhin |
 
 ---
+
+
+### Match Matrix: Form ↔ Tag
 
 | List-I (Form) | List-II (Tag) |
 |---------------|---------------|
@@ -118,6 +124,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Brihaddeshi | 1. Sharngadeva |
@@ -126,6 +135,9 @@ hide:
 | D. Muhammad Shah | 4. Khayal / tappa bloom |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

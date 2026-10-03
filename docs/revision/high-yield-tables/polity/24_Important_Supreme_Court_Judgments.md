@@ -97,6 +97,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Shankari Prasad (1951) | 1. FR cannot be amended (6:5) |
@@ -106,6 +109,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Puttaswamy (2017) | 1. Privacy = FR under Art. 21 |
@@ -114,6 +120,9 @@ hide:
 | D. Joseph Shine (2018) | 4. s.497 IPC adultery crime struck |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

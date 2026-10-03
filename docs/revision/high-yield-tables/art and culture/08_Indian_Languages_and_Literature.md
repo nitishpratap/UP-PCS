@@ -123,6 +123,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Purana ↔ Dynasty It Is Asked For ↔ What It Preserves
+
 | Purana | Dynasty it is asked for | What it preserves |
 |--------|-------------------------|-------------------|
 | **Vishnu Purana** (विष्णु पुराण) | **Maurya** (मौर्य) | Maurya genealogy. The same Magadha chain also names Nanda, Shunga, and Kanva. |
@@ -207,6 +210,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Text / Author ↔ Tag
+
 | Text / author | Tag |
 |---------------|-----|
 | 1. Valmiki Ramayana | Seven kandas |
@@ -216,6 +222,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Author ↔ Work
+
 | Author | Work |
 |--------|------|
 | 1. Panini | Ashtadhyayi |
@@ -224,6 +233,9 @@ hide:
 | 4. Harsha | Karpuramanjari |
 
 ---
+
+
+### Comparative Matrix: Wrong ↔ Correct
 
 | Wrong | Correct |
 |-------|---------|

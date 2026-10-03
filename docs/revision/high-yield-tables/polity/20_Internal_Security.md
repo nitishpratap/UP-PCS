@@ -35,6 +35,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term A ↔ Term B ↔ Core Difference
+
 | Term A | Term B | Core Difference | Hindi Terminology |
 |--------|--------|-----------------|-------------------|
 | **IB** | **RAW** | Internal intel, **MHA**, **1887** vs External intel, **Cabinet Secretariat**, **1968** | आईबी (आंतरिक) / रॉ (बाह्य) |
@@ -83,6 +86,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ib ↔ Raw
+
 | | **IB** | **RAW** |
 |--|--------|---------|
 | Year | **1887** (Central Special Branch) — **oldest** | **21 Sep 1968** (founder **R.N. Kao**) |
@@ -93,6 +99,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Layer ↔ Who ↔ Water
+
 | Layer | Who | Water |
 |-------|-----|--------|
 | Shore / territorial | **Coastal police** (State), Coastal Security Scheme (**MHA**) | Roughly **12 nautical miles** |
@@ -100,6 +109,9 @@ hide:
 | Blue water (ब्लू वॉटर) / war | **Navy (MoD)** | Beyond / joint ops |
 
 ---
+
+
+### Comparative Matrix: Law ↔ Life ↔ What To Mark
 
 | Law | Life | What to mark |
 |-----|------|----------------|
@@ -149,6 +161,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Force ↔ Primary Beat
+
 | List-I (Force) | List-II (Primary beat) |
 |----------------|------------------------|
 | A. BSF | 1. China / LAC belt |
@@ -158,6 +173,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. IT Act s.66A | 1. Critical Information Infrastructure |
@@ -166,6 +184,9 @@ hide:
 | D. IT Act s.66F | 4. Cyber-terrorism |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

@@ -88,6 +88,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Term ↔ Role / Meaning
+
 | List-I (Term) | List-II (Role / Meaning) |
 |---------------|--------------------------|
 | A. Shiqdar | 1. Accounts at pargana |
@@ -97,6 +100,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Ruler/Dynasty ↔ Monument
+
 | List-I (Ruler/Dynasty) | List-II (Monument) |
 |------------------------|--------------------|
 | A. Ibrahim Shah Sharqi | 1. Atala Mosque, Jaunpur |
@@ -105,6 +111,9 @@ hide:
 | D. Prince Azam Shah | 4. Bibi ka Maqbara, Aurangabad |
 
 ---
+
+
+### Comparative Matrix: Item ↔ Tag
 
 | Item | Tag |
 |------|-----|

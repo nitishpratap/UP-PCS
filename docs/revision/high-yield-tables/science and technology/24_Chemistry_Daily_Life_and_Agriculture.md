@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Pair ↔ Concept A ↔ Concept B
+
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
 | **Antiseptic vs. Disinfectant** | **Antiseptic**: Applied safely to **living animal/human tissue** (wounds, cuts, skin). Non-toxic to host cells (Dettol, Tincture of Iodine). | **Disinfectant**: Applied exclusively to **inanimate surfaces** (floors, toilets, instruments). Toxic and corrosive to living tissue. | **Living vs. Non-Living Surface**: $0.2\%$ Phenol is an antiseptic for skin; $1.0\%$ Phenol is a disinfectant for hospital floors. |

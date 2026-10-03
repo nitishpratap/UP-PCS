@@ -39,6 +39,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ph ↔ Meaning
+
 | pH | Meaning |
 |----|---------|
 | < 5.6 | Anthropogenic acid rain threshold |
@@ -48,6 +51,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Pollutant ↔ Main Acid ↔ Main Sources
+
 | Pollutant | Main acid | Main sources |
 |-----------|-----------|--------------|
 | SO₂ | H₂SO₄ | Coal TPPs, smelters, refineries |
@@ -55,6 +61,9 @@ hide:
 | CO₂ | H₂CO₃ (weak) | Natural baseline only |
 
 ---
+
+
+### Comparative Matrix: Receptor ↔ Key Impact
 
 | Receptor | Key impact |
 |----------|------------|
@@ -65,6 +74,9 @@ hide:
 | Lichens | Die in SO₂ pollution |
 
 ---
+
+
+### Comparative Matrix: Measure ↔ Target
 
 | Measure | Target |
 |---------|--------|
@@ -77,6 +89,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Wet deposition | 1. Gases/particles without rain |
@@ -85,6 +100,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Acidic | 1. =7 |
@@ -92,6 +110,9 @@ hide:
 | C. Basic | 3. >7 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

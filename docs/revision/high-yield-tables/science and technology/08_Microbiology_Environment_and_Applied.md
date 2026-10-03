@@ -24,6 +24,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Concept A ↔ Concept B ↔ Razor-Sharp Distinguishing Fact
+
 | Concept A | Concept B | Razor-Sharp Distinguishing Fact |
 |-----------|-----------|----------------------------------|
 | **Bacterium** | **Virus** | Unicellular prokaryote with peptidoglycan wall, 70S ribosomes, binary fission, killed by antibiotics vs acellular nucleoprotein (DNA or RNA inside capsid), obligate parasite, totally unaffected by antibiotics. |
@@ -163,6 +166,9 @@ hide:
 | **Saharanpur** | **CPPRI** (pulp & paper) |
 
 ---
+
+
+### Comparative Matrix: Order ↔ Season ↔ Approx. Window
 
 | Order | Season (*Ritu*) | Approx. window |
 |---|---|---|
@@ -365,6 +371,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Agent / Product ↔ Source / Action
+
 | List-I (Agent / Product) | List-II (Source / Action) |
 |---|---|
 | A. Streptokinase | 1. Immunosuppressive agent in organ transplants |
@@ -374,6 +383,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Research Institute ↔ City In Up
+
 | List-I (Research Institute) | List-II (City in UP) |
 |---|---|
 | A. Central Drug Research Institute (CDRI) | 1. Izatnagar, Bareilly |
@@ -382,6 +394,9 @@ hide:
 | D. Indian Grassland and Fodder Research Institute (IGFRI) | 4. Jhansi |
 
 ---
+
+
+### Match Matrix: Institute ↔ Headquarters City
 
 | List-I (Institute) | List-II (Headquarters City) |
 |---|---|

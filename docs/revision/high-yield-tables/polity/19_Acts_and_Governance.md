@@ -65,6 +65,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Act ↔ Owns
+
 | Act | Owns |
 |-----|------|
 | **RPA 1950** | Electoral **rolls** · allocation of **seats** · delimitation machinery · voter qualifications |
@@ -94,6 +97,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Act / Body ↔ Fact
+
 | List-I (Act / body) | List-II (Fact) |
 |---------------------|----------------|
 | A. NDMA | 1. Gram Sabha starts recognition |
@@ -103,6 +109,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Minerals ↔ Major Mining Basins
+
 | List-I | List-II |
 |--------|--------|
 | A. First ARC | 1. Veerappa Moily; 15 reports |
@@ -111,6 +120,9 @@ hide:
 | D. ECO Mark | 4. Environment label for products (1991) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

@@ -40,6 +40,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Biome ↔ Climate ↔ Global Example
+
 | Biome | Climate | Global example |
 |-------|---------|----------------|
 | Tropical rainforest | Hot wet year-round | Amazon Selva |
@@ -51,6 +54,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Group ↔ Name ↔ India / Example
+
 | Group | Name | India / example |
 |-------|------|----------------------|
 | A | Tropical | India Am |
@@ -60,6 +66,9 @@ hide:
 | E | Polar | Antarctica |
 
 ---
+
+
+### Comparative Matrix: Desert ↔ Region ↔ Fact
 
 | Desert | Region | Fact |
 |--------|--------|------|
@@ -71,6 +80,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Pair ↔ Fact
+
 | Pair | Fact |
 |------|------|
 | Planting Hearth | C.O. Sauer |
@@ -81,6 +93,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: India Hotspot ↔ Region
+
 | India hotspot | Region |
 |---------------|--------|
 | Himalaya | Mountain endemism |
@@ -89,6 +104,9 @@ hide:
 | Sundaland | Nicobar |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 | --- | --- |
@@ -99,6 +117,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Natural Vegetation ↔ Region
+
 | List-I (Natural Vegetation) | List-II (Region) |
 | --- | --- |
 | A. Epiphytes | 1. Mediterranean |
@@ -107,6 +128,9 @@ hide:
 | D. Cedars | 4. Savanna |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -117,6 +141,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Planting Hearth | 1. Adolf Engler |
@@ -124,6 +151,9 @@ hide:
 | C. Puszta | 3. Hungary grassland |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -133,6 +163,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Masai | 1. Congo |
@@ -140,6 +173,9 @@ hide:
 | C. Bushman | 3. Kalahari |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

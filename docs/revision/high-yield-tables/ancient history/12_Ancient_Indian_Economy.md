@@ -44,6 +44,9 @@ hide:
 
 ---
 
+
+### Major Seaports & Coastal Trade Hubs
+
 | Port Name (प्राचीन पत्तन) | Periplus / Classical Name | Coast / Modern State | River / Geographical Location | Key Commercial Role & Commodities |
 |:--------------------------|:--------------------------|:---------------------|:------------------------------|:-----------------------------------|
 | **Lothal** (लोथल) | — | Gujarat (Gulf of Khambhat) | Bhogavo river, Saurashtra | World's earliest tidal **dockyard** (गोदीबाड़ा); Harappan bead factories & Persian Gulf seal |
@@ -66,6 +69,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Guild / Body ↔ Nature & Operational Scope ↔ Geographic Sphere
+
 | Guild / Body (संस्था) | Nature & Operational Scope | Geographic Sphere | Key Characteristics & Powers |
 |:----------------------|:---------------------------|:------------------|:-----------------------------|
 | **Shreni** (श्रेणी) | Occupational guild of artisans or merchants of the **same profession** | Pan-India | Headed by **Shreshthin** (or *Jyeshthaka*); had judicial powers over members; maintained own militia (*Shrenibala*); accepted fixed deposits and paid interest |
@@ -78,6 +84,9 @@ hide:
 | **Nagaram** (नगरम) | Local assembly of resident merchants in market towns | Chola Empire (Tamil Nadu) | Handled urban local administration, commercial dispute resolution, and trade tax collection for the crown |
 
 ---
+
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -111,6 +120,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Stage ↔ Fact
+
 | List-I (Stage) | List-II (Fact) |
 |---|---|
 | 1. Punch-marked silver | A. First portrait die-struck coins |
@@ -119,6 +131,9 @@ hide:
 | 4. Gupta dinara | D. Prestige gold (~120–144 grains) |
 
 ---
+
+
+### Match Matrix: Port / Place ↔ Fact
 
 | List-I (Port / place) | List-II (Fact) |
 |---|---|
@@ -129,6 +144,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Term ↔ Meaning
+
 | List-I (Term) | List-II (Meaning) |
 |---|---|
 | 1. Yavana (Sangam) | A. Pepper |
@@ -137,6 +155,9 @@ hide:
 | 4. Tagara | D. Inland route linking Kalyan with Vengi |
 
 ---
+
+
+### Confusing Pairs & High-Frequency Traps
 
 | List-I (Confused pair) | List-II (Correct fact) |
 |---|---|

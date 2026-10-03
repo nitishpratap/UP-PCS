@@ -29,6 +29,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Distinguishing Fact
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Income / consumption poverty** | **MPI** | Money line vs deprivation score |
@@ -166,6 +169,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Alagh | 1. 2010 MPI introduction |
@@ -175,6 +181,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Disguised unemployment | 1. Job-search transition |
@@ -183,6 +192,9 @@ hide:
 | D. Seasonal unemployment | 4. Agri / season calendar |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

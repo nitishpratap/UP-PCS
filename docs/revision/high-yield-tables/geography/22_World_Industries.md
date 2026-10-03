@@ -85,6 +85,9 @@ hide:
 
 ---
 
+
+### Industrial Centres, Raw Material Belts & Clusters
+
 | Factor | Industry |
 |--------|----------|
 | Ore + coking coal | Iron and steel (Ruhr, Pittsburgh, Damodar (दामोदर)) |
@@ -100,6 +103,9 @@ hide:
 
 ---
 
+
+### Industrial Centres, Raw Material Belts & Clusters
+
 | Industry | Typical location |
 |----------|------------------|
 | Iron–steel | Coalfield **or** ore **or** lake/port mixing both (Mesabi ore + Appalachian coal → Pittsburgh–Great Lakes) |
@@ -114,6 +120,9 @@ hide:
 | Electronics | **Footloose** — Silicon Valley, East Asia coasts |
 
 ---
+
+
+### Comparative Matrix: Region ↔ Country ↔ Fact
 
 | Region | Country | Fact |
 |--------|---------|------|
@@ -137,6 +146,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Region ↔ Fact
+
 | Region | Fact |
 |--------|------|
 | New England | Early cotton; now diversified |
@@ -151,6 +163,9 @@ hide:
 | Windsor–Ontario | Canada auto (next to Detroit) |
 
 ---
+
+
+### Comparative Matrix: Region ↔ Fact
 
 | Region | Fact |
 |--------|------|
@@ -169,6 +184,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Region ↔ Fact
+
 | Region | Fact |
 |--------|------|
 | São Paulo–Santos | Brazil |
@@ -181,6 +199,9 @@ hide:
 
 ---
 
+
+### Industrial Centres, Raw Material Belts & Clusters
+
 | Centre | Industry |
 |--------|----------|
 | **Osaka** | **Cotton textile** |
@@ -190,6 +211,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Nickname ↔ City ↔ Fact
+
 | Nickname | City | Fact |
 |----------|------|------|
 | Manchester of Japan | **Osaka** | Cotton |
@@ -198,6 +222,9 @@ hide:
 | Russian Manchester | **Ivanovo** | Cotton textiles |
 
 ---
+
+
+### Industrial Centres, Raw Material Belts & Clusters
 
 | City | Industry |
 |------|----------|
@@ -247,6 +274,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Centre ↔ Industry
+
 | List-I (Centre) | List-II (Industry) |
 |-----------------|-------------------|
 | A. Osaka | 1. Cigar |
@@ -255,6 +285,9 @@ hide:
 | D. St. Petersburg | 4. Automobile |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Recall ↔ Example
 
 | Type | Recall | Example |
 |------|--------|---------|
@@ -267,6 +300,9 @@ hide:
 | Inland / river | Sea-going on river/lakes | **Igarka**, Duisburg, Chicago, Kolkata |
 
 ---
+
+
+### Major Seaports & Coastal Trade Hubs
 
 | Port | Country |
 |------|---------|
@@ -281,6 +317,9 @@ hide:
 | Gdansk | Poland |
 
 ---
+
+
+### Major Seaports & Coastal Trade Hubs
 
 | Port | Country |
 |------|---------|
@@ -305,6 +344,9 @@ hide:
 
 ---
 
+
+### Major Seaports & Coastal Trade Hubs
+
 | Port | Country |
 |------|---------|
 | New York / Houston / LA–Long Beach / New Orleans | USA |
@@ -325,6 +367,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Canal / Seaway ↔ Links ↔ Extra
+
 | Canal / seaway | Links | Extra |
 |----------------|-------|-------|
 | **Kiel** | North Sea ↔ **Baltic** | Germany; not Med |
@@ -336,6 +381,9 @@ hide:
 | Volga–Don | Caspian system ↔ Black Sea | Russia |
 
 ---
+
+
+### Strategic Mountain Passes ↔ Connecting Regions
 
 | Passage | Gates |
 |---------|-------|
@@ -353,6 +401,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Centre ↔ Industry
+
 | List-I (Centre) | List-II (Industry) |
 |-----------------|-------------------|
 | A. Osaka | 1. Cigar |
@@ -361,6 +412,9 @@ hide:
 | D. St. Petersburg | 4. Automobile |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -371,6 +425,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Canal ↔ Waters
+
 | List-I (Canal) | List-II (Waters) |
 |-----------------|------------------|
 | A. Suez | 1. North Sea ↔ Baltic |
@@ -378,6 +435,9 @@ hide:
 | C. Kiel | 3. Atlantic/Caribbean ↔ Pacific (with stepped chambers) |
 
 ---
+
+
+### Match Matrix: Wind ↔ Region
 
 | List-I (Wind) | List-II (Region) |
 |----------------|------------------|
@@ -388,6 +448,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Haboob | 1. Sahara → Med |
@@ -397,6 +460,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Lancashire | 1. Wool |
@@ -405,6 +471,9 @@ hide:
 | D. Ivanovo | 4. Russian Manchester |
 
 ---
+
+
+### Match Matrix: City ↔ Tag
 
 | List-I (City) | List-II (Tag) |
 |----------------|---------------|

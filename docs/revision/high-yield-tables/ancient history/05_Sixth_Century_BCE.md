@@ -37,6 +37,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: No. ↔ Mahajanapada ↔ Capital
+
 | No. | Mahajanapada (महाजनपद) | Capital(s) (राजधानी) | Modern Region (वर्तमान क्षेत्र) | Polity Type / Contemporary Ruler | High-Yield Exam Note |
 |:---:|:----------------------|:---------------------|:--------------------------------|:---------------------------------|:---------------------|
 | **1** | **Kashi** (काशी) | **Varanasi** (वाराणसी) | Varanasi, UP | Monarchy; King Ashvasena (Parshvanatha's father) | Conquered by Kosala before Buddha's death |
@@ -58,6 +61,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Nikaya ↔ Meaning / Scope ↔ Key Suttas & Canonical Contents
+
 | Nikaya (निकाय) | Meaning / Scope | Key Suttas & Canonical Contents | High-Yield PYQ Reference |
 |:---------------|:----------------|:--------------------------------|:--------------------------|
 | **1. Digha Nikaya** (दीघ निकाय) | *Long Discourses* (34 long suttas) | • **Mahaparinibbana Sutta** (Buddha’s final days, relics, last words)<br>• **Brahmajala Sutta** (62 philosophical wrong views)<br>• **Ambattha Sutta** (caste debate)<br>• **Sigalovada Sutta** (layman ethics) | UPPCS Spl Pre 2004 Q2 (Digha Nikaya = Buddhist canonical text, not Jain) |
@@ -67,6 +73,9 @@ hide:
 | **5. Khuddaka Nikaya** (खुद्दक निकाय) | *Minor Collection* (15 distinct poetic & narrative books) | • **Jatakas** (547 stories of Buddha's previous births)<br>• **Dhammapada** (423 verses of moral wisdom)<br>• **Theragatha** (verses of elder monks)<br>• **Therigatha** (verses of elder nuns - earliest women's poetry)<br>• Sutta Nipata, Khuddakapatha | UPPCS 2008 / Mains: Jatakas & Therigatha belong to Khuddaka Nikaya |
 
 ---
+
+
+### Comparative Matrix: Mahajanapada ↔ Capital ↔ River / Belt
 
 | # | Mahajanapada | Capital | River / belt |
 |---|--------------|---------|--------------|
@@ -89,6 +98,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Gana-Sangha ↔ Monarchy
+
 | Feature | Gana-sangha (e.g. Vajji, Malla) | Monarchy (e.g. Magadha, Kosala) |
 |---------|--------------------------------|----------------------------------|
 | Ruler | Clan assembly / oligarchy | Hereditary king |
@@ -97,6 +109,9 @@ hide:
 | trap | Vajji is **not** one of the "four monarchies" | Magadha is **not** a gana |
 
 ---
+
+
+### Comparative Matrix: State ↔ Up Fact
 
 | State | UP fact |
 |-------|---------|
@@ -111,6 +126,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Dynasty ↔ Approx. Span
+
 | Dynasty | Approx. span (Buddhist coaching line) |
 |---------|----------------------------------------|
 | Haryanka | ~544–412 BCE |
@@ -120,6 +138,9 @@ hide:
 | Shunga | ~184–75 BCE |
 
 ---
+
+
+### Comparative Matrix: Ware ↔ Date ↔ Key Fact
 
 | Ware | Date (approx.) | Key fact |
 |------|----------------|-----------|
@@ -162,6 +183,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Kuru | 1. Saket |
@@ -170,6 +194,9 @@ hide:
 | D. Vatsa | 4. Indraprastha |
 
 ---
+
+
+### Match Matrix: Mahajanpadas ↔ Capitals
 
 | List-I (Mahajanpadas) | List-II (Capitals) |
 |-----------------------|-------------------|
@@ -180,6 +207,9 @@ hide:
 
 ---
 
+
+### Match Matrix: King ↔ State
+
 | List-I (King) | List-II (State) |
 |---------------|-----------------|
 | A. Pradyot | 1. Magadha |
@@ -189,6 +219,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Mahajanapada ↔ Capital
+
 | List-I (Mahajanapada) | List-II (Capital) |
 |---|---|
 | 1. Matsya | A. Potana |
@@ -197,6 +230,9 @@ hide:
 | 4. Anga | D. Champa |
 
 ---
+
+
+### Match Matrix: Ruler / House ↔ Tag
 
 | List-I (Ruler / House) | List-II (Tag) |
 |---|---|

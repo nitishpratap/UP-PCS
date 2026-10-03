@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Element A ↔ Confused Element B ↔ Critical Differentiating Fact & Exam Anchor
+
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
 | **Highest Overall Literacy (GB Nagar)** | **Highest Female Literacy (Kanpur Nagar)** | GB Nagar leads **overall literacy (80.1%)**; Kanpur Nagar leads **female literacy (75.05%)**. |

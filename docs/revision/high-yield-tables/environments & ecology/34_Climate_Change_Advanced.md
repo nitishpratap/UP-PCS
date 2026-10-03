@@ -41,6 +41,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Year ↔ Fact
+
 | Year | Fact |
 |------|------|
 | 2008 | NAPCC |
@@ -51,6 +54,9 @@ hide:
 
 ---
 
+
+### Major Seaports & Coastal Trade Hubs
+
 | Report | Year | Fact |
 |--------|------|------|
 | AR1 | 1990 | Helped lead to UNFCCC |
@@ -59,6 +65,9 @@ hide:
 | AR6 SYR | **2023** | Latest synthesis |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 | --- | --- |
@@ -69,6 +78,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Keeling Curve | 1. Annual UNEP |
@@ -76,6 +88,9 @@ hide:
 | C. IPCC | 3. Science assessment; WMO+UNEP parents |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -85,6 +100,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Milankovitch | 1. Cryogenic climate archive |
@@ -92,6 +110,9 @@ hide:
 | C. Deep Carbon Observatory | 3. Deep-Earth carbon mapping |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Pair ↔ Concept A ↔ Concept B
+
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
 | **LPG vs. CNG** | **LPG (Liquefied Petroleum Gas)**: Mainly **Butane and Propane** ($C_4H_{10} + C_3H_8$). Stored as liquid at $6–8\text{ bar}$. Denser than air ($d \approx 1.5–2$). | **CNG (Compressed Natural Gas)**: Mainly **Methane** ($CH_4, >85\%$). Stored as gas at $200–250\text{ bar}$. Lighter than air ($d \approx 0.6$). | **Chemical Identity & Dispersion**: LPG is butane/propane (sinks in air, pools on floor); CNG is methane (rises and disperses into atmosphere if leaked). |

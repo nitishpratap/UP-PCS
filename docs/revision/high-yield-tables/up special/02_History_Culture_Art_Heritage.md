@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Element A ↔ Confused Element B ↔ Critical Differentiating Fact & Exam Anchor
+
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
 | **Sarnath (Varanasi)** | **Shravasti (Sahet-Mahet)** | Sarnath is the site of **First Sermon**; Shravasti is where Buddha spent **maximum Varshavas (25)** and delivered most discourses. |

@@ -50,6 +50,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Schedule ↔ Protection ↔ Examples
+
 | Schedule | Protection | Examples |
 |----------|------------|----------|
 | **I** | Maximum — hunting banned | Tiger, elephant, rhino, gharial, vulture |
@@ -60,6 +63,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Project Tiger | 1. 1992 |
@@ -68,6 +74,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. NBWL | 1. State implementing officer |
@@ -75,6 +84,9 @@ hide:
 | C. IRV 2020 | 3. Rhino recovery plan including Dudhwa |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

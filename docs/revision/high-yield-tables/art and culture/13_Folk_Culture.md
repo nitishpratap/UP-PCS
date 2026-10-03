@@ -59,6 +59,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Painting ↔ Region
+
 | Painting | Region |
 |----------|--------|
 | 1. Madhubani | Bihar Mithila |
@@ -66,6 +69,9 @@ hide:
 | 3. Sanjhi | West Bengal Kalighat lane |
 
 ---
+
+
+### Comparative Matrix: Art ↔ Region
 
 | Art | Region |
 |-----|--------|
@@ -75,6 +81,9 @@ hide:
 | 4. Phulkari | Punjab |
 
 ---
+
+
+### Comparative Matrix: Item ↔ Tag
 
 | Item | Tag |
 |------|-----|

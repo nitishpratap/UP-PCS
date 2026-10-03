@@ -78,6 +78,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Dynasty ↔ Key Rulers ↔ Period
+
 | Dynasty | Key rulers | Period |
 |---------|------------|--------|
 | **Sangama** | Harihara I, Bukka I, Deva Raya II | 1336–1485 |
@@ -86,6 +89,9 @@ hide:
 | **Aravidu** | Tirumala, Venkata II | 1570–1646 |
 
 ---
+
+
+### Comparative Matrix: Office / Unit ↔ Function
 
 | Office / unit | Function |
 |---------------|----------|
@@ -137,6 +143,9 @@ hide:
 | **Mirat-e-Sikandari** | **Gujarat** victory narrative | Regional history; match with Gujarat |
 
 ---
+
+
+### Comparative Matrix: Sultanate ↔ Dynasty ↔ Founder
 
 | Sultanate | Dynasty | Founder | Capital | Period |
 |-----------|---------|---------|---------|--------|
@@ -192,6 +201,9 @@ hide:
 
 ---
 
+
+### Match Matrix: State / House ↔ Tag
+
 | List-I (State / house) | List-II (Tag) |
 |------------------------|---------------|
 | A. Vijayanagara | 1. Gulbarga → Bidar |
@@ -200,6 +212,9 @@ hide:
 | D. Golkonda | 4. Qutb Shahi; later Hyderabad |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -210,6 +225,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Amuktamalyada | 1. Ibrahim Adil Shah II |
@@ -218,6 +236,9 @@ hide:
 | D. Mirat-e-Sikandari | 4. Gujarat narrative |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

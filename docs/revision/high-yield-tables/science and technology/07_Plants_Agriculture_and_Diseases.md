@@ -24,6 +24,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Concept A ↔ Concept B ↔ Core Distinguishing Fact
+
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Rhizome (Ginger/Turmeric)** | **Tuber (Potato)** | Underground stem growing horizontally with nodes/internodes vs swollen stem tip with axillary eyes | प्रकंद / स्तंभ कंद |
@@ -297,6 +300,9 @@ hide:
 | 30 | Angiosperms = enclosed seeds in fruit; most advanced; ~2.5 lakh species |
 
 ---
+
+
+### Match Matrix: Crop Plant / Commercial Spice ↔ Morphological Edible Plant Part
 
 | List-I (Crop Plant / Commercial Spice) | List-II (Morphological Edible Plant Part) |
 |---|---|

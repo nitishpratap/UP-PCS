@@ -42,6 +42,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Scope ↔ Type ↔ Example
+
 | Scope | Type | Example |
 |-------|------|---------|
 | Scope 1 | Direct | Factory (फैक्टरी) boiler |
@@ -50,12 +53,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Metric ↔ Unit ↔ Rough India
+
 | Metric | Unit | Rough India |
 |--------|------|------------------|
 | Ecological footprint | gha | ~1.0–1.2 / person |
 | Carbon footprint | tCO₂e | ~2 / person |
 
 ---
+
+
+### Comparative Matrix: Country/Bloc ↔ Net Zero Year
 
 | Country/bloc | Net zero year |
 |--------------|---------------|
@@ -65,6 +74,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Sector ↔ Fact
+
 | Sector | Fact |
 |--------|------|
 | Mangroves | MISHTI 2023 |
@@ -73,12 +85,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Linear ↔ Circular
+
 | Linear | Circular |
 |--------|----------|
 | Virgin in → dump out | Recycled/regenerative loops |
 | Waste = disposal problem | Waste = design flaw |
 
 ---
+
+
+### Comparative Matrix: Colour ↔ Method
 
 | Colour | Method |
 |--------|--------|
@@ -89,12 +107,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Origin
+
 | Type | Origin |
 |------|--------|
 | Primary | Made small |
 | Secondary | Fragmented from large items |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Example
 
 | Type | Example |
 |------|---------|
@@ -103,6 +127,9 @@ hide:
 | Legal refugee (1951) | Persecution — not climate alone |
 
 ---
+
+
+### Comparative Matrix: Field ↔ Detail
 
 | Field | Detail |
 |-------|--------|
@@ -113,6 +140,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Grey hydrogen | 1. RE electrolysis |
@@ -120,6 +150,9 @@ hide:
 | C. Green hydrogen | 3. Grey + CCS |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -129,6 +162,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Carbon footprint | 1. gha |
@@ -136,6 +172,9 @@ hide:
 | C. NbS examples | 3. Mangroves, wetlands, urban forests |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

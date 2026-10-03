@@ -53,6 +53,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Dicey ↔ India
+
 | # | Dicey (UK) | India |
 |---|------------|--------|
 | **1** | Supremacy of law — **no arbitrary** power | **Yes.** Art. **14**; no one above the Constitution; executive needs legal authority (*Ram Jawaya* line) |
@@ -60,6 +63,9 @@ hide:
 | **3** | Constitution is the **result of ordinary law**; rights are from court rulings, not a Bill of Rights | **No.** India has a **written** supreme Constitution + **justiciable FRs**. Limb 3 is the UK story |
 
 ---
+
+
+### Comparative Matrix: Procedure Established By Law ↔ Due Process Of Law
 
 | | **Procedure established by law** | **Due process of law** |
 |--|----------------------------------|------------------------|
@@ -71,6 +77,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Usa ↔ India
+
 | | **USA** | **India** |
 |--|---------|-----------|
 | Model | **Rigid** — Constitution Arts. I, II, III | **Functional**, not watertight |
@@ -80,6 +89,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Parliamentary Sovereignty ↔ Judicial Supremacy ↔ Constitutional Supremacy
+
 | | **Parliamentary sovereignty** | **Judicial supremacy** | **Constitutional supremacy** |
 |--|-------------------------------|------------------------|------------------------------|
 | Exhibit | Classic **UK** (Dicey) | Phrase often hung on the **US** Court | **India** (and the US, more accurately) |
@@ -87,6 +99,9 @@ hide:
 | India? | **No.** Arts. **13, 245** (“subject to this Constitution”), **368** + Basic Structure | Review is **strong** (*Kesavananda, Minerva, NJAC*). That is still **not** a slogan that “judges are the State” | **Yes.** Written + judicial review + limited amendment |
 
 ---
+
+
+### Comparative Matrix: Indian ↔ Us Textbook
 
 | | **Indian (positive / principled)** | **US textbook (negative / wall)** |
 |--|-----------------------------------|-----------------------------------|
@@ -144,6 +159,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Gopalan (1950) | 1. Fair/just/reasonable; 14-19-21 together |
@@ -153,6 +171,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Preamble Justice ↔ Article Map
+
 | List-I (Preamble justice) | List-II (Article map) |
 |---------------------------|------------------------|
 | A. Social | 1. Article 39 |
@@ -161,6 +182,9 @@ hide:
 | D. Fraternity theme | 4. Dignity + unity and integrity |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

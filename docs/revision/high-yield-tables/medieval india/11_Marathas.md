@@ -89,6 +89,9 @@ hide:
 
 ---
 
+
+### Major Seaports & Coastal Trade Hubs
+
 | Minister | Also called | Portfolio |
 |----------|-------------|-----------|
 | **Peshwa** | Mukhya Pradhan | General administration |
@@ -114,6 +117,9 @@ hide:
 | **Saranzami** (सरंजामी) | Land supporting Maratha **jagirdars’** livelihood | Mixing it with chauth |
 
 ---
+
+
+### Comparative Matrix: Peshwa ↔ Years ↔ Fact
 
 | Peshwa | Years | Fact |
 |--------|-------|------|

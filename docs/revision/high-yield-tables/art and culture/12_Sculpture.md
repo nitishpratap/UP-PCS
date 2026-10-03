@@ -47,6 +47,9 @@ hide:
 | Bhumisparsha | Earth-touching |
 | Abhaya | Fearlessness |
 | Dhyana | Meditation |
+
+### Comparative Matrix: Item ↔ Correct
+
 | Item | Correct |
 |------|------|
 | Human Buddha image | Common from **Kushan** age |
@@ -71,6 +74,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Mudra ↔ Meaning
+
 | Mudra | Meaning |
 |-------|---------|
 | 1. Dharmachakra | Teaching |
@@ -79,6 +85,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Site / School ↔ Tag
+
 | Site / school | Tag |
 |---------------|-----|
 | 1. Udayagiri Varaha | Gupta Hindu sculpture |
@@ -86,6 +95,9 @@ hide:
 | 3. Early Sanchi | Fully iconic human Buddha from the start |
 
 ---
+
+
+### Comparative Matrix: Item ↔ Tag
 
 | Item | Tag |
 |------|-----|

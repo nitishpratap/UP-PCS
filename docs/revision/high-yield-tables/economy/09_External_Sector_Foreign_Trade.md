@@ -27,6 +27,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Distinguishing Fact
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Balance of Trade** | **Balance of Payments** | Goods gap vs full external transactions record |
@@ -71,14 +74,8 @@ hide:
 
 ---
 
-| List-I (Country) | List-II (Rank) |
-|---|---|
-| A. Mexico | 1. First |
-| B. China | 2. Second |
-| C. India | 3. Third |
-| D. Philippines | 4. Fourth |
 
----
+### Match Matrix: Country ↔ Rank
 
 | List-I (Country) | List-II (Rank) |
 |---|---|
@@ -88,6 +85,21 @@ hide:
 | D. Philippines | 4. Fourth |
 
 ---
+
+
+### Match Matrix: Country ↔ Rank
+
+| List-I (Country) | List-II (Rank) |
+|---|---|
+| A. Mexico | 1. First |
+| B. China | 2. Second |
+| C. India | 3. Third |
+| D. Philippines | 4. Fourth |
+
+---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -97,6 +109,9 @@ hide:
 | D. ECB | 4. Foreign-currency commercial borrowing |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

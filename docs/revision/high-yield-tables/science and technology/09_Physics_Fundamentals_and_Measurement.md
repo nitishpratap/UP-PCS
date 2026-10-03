@@ -139,6 +139,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Instrument ↔ Physical Quantity Measured / Operating Mechanism ↔ Core Practical Application
+
 | Instrument | Physical Quantity Measured / Operating Mechanism | Core Practical Application |
 |---|---|---|
 | **Accelerometer** | Acceleration, vibrations, dynamic tilt, inertial force | Airbag crash deployment, laptop drop HDD safety park, smartphone portrait/landscape tilt |

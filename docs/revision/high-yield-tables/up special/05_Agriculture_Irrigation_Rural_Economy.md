@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Element A ↔ Confused Element B ↔ Critical Differentiating Fact & Exam Anchor
+
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
 | **CIP-SARC (Potato Centre)** | **IRRI-SARC (Rice Centre)** | CIP-SARC is at **Singna, Agra**; IRRI-SARC is at **Varanasi**. |

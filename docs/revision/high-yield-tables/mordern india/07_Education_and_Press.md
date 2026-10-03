@@ -67,6 +67,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Phase ↔ Rough Years ↔ Method
+
 | Phase | Rough years | Method | Key fact |
 |-------|-------------|--------|-----------|
 | Ambiguous grant | **1813** | ₹1 lakh/year, purpose left vague | Charter Act; missionaries also let in |
@@ -80,6 +83,9 @@ hide:
 | Primary-stage audit | **1929** | Wastage/stagnation flagged; consolidate, don't just expand | **Hartog Committee** |
 | Nationalist alternative | **1937** | Craft-centred, self-supporting schooling | **Wardha Scheme** (Gandhi) |
 | Official post-war blueprint | **1944** | Free compulsory schooling 6–14, 40-year target | **Sargent Plan** |
+
+### Comparative Matrix: Press Phase ↔ Rough Years ↔ Method
+
 | Press phase | Rough years | Method | Key fact |
 |-------------|-------------|--------|-----------|
 | Free start | **1780–99** | No formal law yet, but Company hostility to criticism | **Hicky's Bengal Gazette 1780** |
@@ -91,6 +97,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Person ↔ Linked Institution ↔ Tag
+
 | Person | Linked institution | tag |
 |--------|--------------------|----------|
 | **Jonathan Duncan** | Sanskrit College, Banaras (1791) | Did **not** found Asiatic Society |
@@ -101,6 +110,9 @@ hide:
 | **William A.J. Archbold** | MAO College Aligarh; Government College Dacca; Muir Central College Allahabad | **Not** Principal of Lahore College |
 
 ---
+
+
+### Comparative Matrix: Step ↔ Year ↔ Ruler / Official
 
 | Step | Year | Ruler / official | What it did |
 |------|------|-------------------|-------------|
@@ -116,6 +128,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Paper ↔ Place
+
 | Paper | Place |
 |-------|--------|
 | **Swadesh** | **Gorakhpur** (गोरखपुर) |
@@ -124,6 +139,9 @@ hide:
 | **Shakti** | **Almora** (अल्मोड़ा) |
 
 ---
+
+
+### Comparative Matrix: Paper ↔ Place / Note
 
 | Paper | Place / note |
 |-------|----------------|
@@ -166,6 +184,9 @@ hide:
 | Hindoo Patriot | Girish Chandra Ghosh → Harish Chandra Mukherjee |
 
 ---
+
+
+### Comparative Matrix: Paper / Act ↔ Fact
 
 | Paper / act | Fact |
 |-------------|------|
@@ -237,6 +258,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Body ↔ Focus
+
 | List-I (Body) | List-II (Focus) |
 |---------------|-----------------|
 | A. Hunter Commission 1882 | 1. Calcutta University / higher education |
@@ -245,6 +269,9 @@ hide:
 | D. Sargent Plan 1944 | 4. Primary wastage; consolidate |
 
 ---
+
+
+### Match Matrix: Up Newspaper ↔ Place
 
 | List-I (UP newspaper) | List-II (Place) |
 |-----------------------|-----------------|
@@ -255,6 +282,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Paper / Person ↔ Details
+
 | List-I (Paper / person) | List-II |
 |-------------------------|---------|
 | A. Al-Hilal | 1. Ambedkar |
@@ -263,6 +293,9 @@ hide:
 | D. Ghadar first issue language | 4. Urdu (1 Nov 1913) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|

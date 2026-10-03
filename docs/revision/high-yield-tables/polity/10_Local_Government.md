@@ -43,6 +43,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Correct Match / Focus ↔ Hindi Terminology
+
 | A | B | Correct Match / Focus | Hindi Terminology |
 |---|----|-----------------------|-------------------|
 | **Part IX** | **Part IXA** | Panchayats (73rd) vs Municipalities (74th) | भाग IX / IXA |
@@ -67,6 +70,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Balwant Rai Mehta |
@@ -76,6 +82,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | 1957 |
@@ -84,6 +93,9 @@ hide:
 | 4 | 1988 |
 
 ---
+
+
+### Comparative Matrix: Job ↔ Articles ↔ One Fact
 
 | Job | Articles | One fact |
 |-----|----------|----------|
@@ -95,6 +107,9 @@ hide:
 | Where and courts | 243L–243O | UTs, exclusions, 1-year window, bar like **329** |
 
 ---
+
+
+### Comparative Matrix: Village ↔ Intermediate ↔ District
 
 | | Village | Intermediate | District |
 |--|---------|--------------|----------|
@@ -123,6 +138,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Also Called ↔ Where
+
 | Type | Also called | Where | Political head | Executive |
 |------|-------------|-------|----------------|-----------|
 | **Nagar Panchayat** | Town panchayat | **Transitional** (rural → urban) | Chairperson / President | Executive Officer |
@@ -130,6 +148,9 @@ hide:
 | **Municipal Corporation** | **Nagar Nigam** / Mahanagar Palika | **Larger urban** | **Mayor** | **Municipal Commissioner** (IAS) |
 
 ---
+
+
+### Comparative Matrix: Mayor ↔ Municipal Commissioner
 
 | | **Mayor** | **Municipal Commissioner** |
 |--|-----------|----------------------------|
@@ -154,6 +175,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Item ↔ Date / Tag
+
 | Item | Date / tag |
 |------|------------|
 | 1. National Panchayati Raj Day | 24 April |
@@ -161,6 +185,9 @@ hide:
 | 3. First PR inauguration (Nagaur) | 2 October 1959 |
 
 ---
+
+
+### Match Matrix: Committee ↔ Tag
 
 | List-I (Committee) | List-II (Tag) |
 |--------------------|----------------|
@@ -170,6 +197,9 @@ hide:
 | D. L.M. Singhvi | 4. Block-level planning |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

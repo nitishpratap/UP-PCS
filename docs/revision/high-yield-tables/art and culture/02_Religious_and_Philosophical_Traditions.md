@@ -69,6 +69,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: School ↔ Founder / Tag
+
 | School | Founder / tag |
 |--------|---------------|
 | 1. Samkhya | Kapila — Purusha–Prakriti; 25 tattvas |
@@ -77,6 +80,9 @@ hide:
 | 4. Vedanta | Jaimini — Upanishads |
 
 ---
+
+
+### Comparative Matrix: Concept ↔ Meaning
 
 | Concept | Meaning |
 |---------|---------|
@@ -87,6 +93,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Sufi / Concept ↔ Tag
+
 | Sufi / concept | Tag |
 |----------------|-----|
 | 1. Chishti | Sama and qawwali; Ajmer / Delhi |
@@ -95,6 +104,9 @@ hide:
 | 4. Fawaid-ul-Fuad | Nizamuddin’s conversations via Amir Hasan Sijzi |
 
 ---
+
+
+### Confusing Pairs & High-Frequency Traps
 
 | Pair | Correct distinction |
 |------|---------------------|

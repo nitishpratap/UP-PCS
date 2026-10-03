@@ -66,6 +66,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Dimension ↔ Cec ↔ Other Ecs
+
 | Dimension | **CEC** | **Other ECs** |
 |-----------|---------|----------------|
 | **Article** | **324** — CEC + such other ECs as the President may fix | Same Commission; **equal vote** in decisions |
@@ -78,6 +81,9 @@ hide:
 | **Conditions** | Not varied to disadvantage after appointment | — |
 
 ---
+
+
+### Comparative Matrix: Ceases To Be ↔ May Later Be ↔ May Not
 
 | Ceases to be | May later be | May **not** |
 |--------------|--------------|-------------|
@@ -151,6 +157,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. ECI | 1. Article 165 |
@@ -160,6 +169,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. CEC 2023 panel | 1. Includes CJI (or nominee) |
@@ -168,6 +180,9 @@ hide:
 | D. ECI (324) | 4. Parliament / State legislature / President–VP polls |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

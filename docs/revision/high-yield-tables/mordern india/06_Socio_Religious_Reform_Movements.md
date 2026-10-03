@@ -81,6 +81,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Stream ↔ Core Region ↔ Lead Names
+
 | Stream | Core region | Lead names | Central method | Key fact |
 |--------|-------------|-----------|-----------------|-----------|
 | **Bengal** | Calcutta and the Bengal presidency | Rammohan Roy, Debendranath Tagore, Vidyasagar, Keshab Chandra Sen, Derozio | Reasoned monotheism, print and English education, law reform (Sati, widow remarriage) | Brahmo Samaj; Sati **1829**; Widow Remarriage **1856** |
@@ -90,6 +93,9 @@ hide:
 | **Muslim streams** | North India and Bengal | Sayyid Ahmad of Rae Bareli, Haji Shariatullah, Mirza Ghulam Ahmad, Sir Syed Ahmad Khan, Nanautawi/Gangohi | Ranges from militant revival to modern loyalist college to traditional seminary | Aligarh **1875**; Deoband **1866** (full comparative table in §6.7) |
 
 ---
+
+
+### Comparative Matrix: Stream ↔ Founder / Leading Name ↔ Year / Place
 
 | Stream | Founder / leading name | Year / place | Orientation |
 |--------|------------------------|--------------|-------------|
@@ -101,6 +107,9 @@ hide:
 | **Deoband (Dar-ul-Ulum)** | **Muhammad Qasim Nanautawi**, **Rashid Ahmad Gangohi** | **1866, Deoband (UP)** | Traditional seminary revival of Hadith and fiqh; later turned more anti-colonial |
 
 ---
+
+
+### Comparative Matrix: Institution ↔ Founder / Leading Name ↔ Year / Place
 
 | Institution | Founder / leading name | Year / place |
 |-------------|------------------------|--------------|
@@ -129,6 +138,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Body ↔ Correct Place
+
 | Body | Correct place |
 |------|----------------|
 | **Sanatan Dharma Rakshini Sabha** | **Calcutta** — this is the correctly matched pair |
@@ -137,6 +149,9 @@ hide:
 | Deva Samaj (Shiv Narayan Agnihotri) | **Lahore**, not Banaras |
 
 ---
+
+
+### Comparative Matrix: Body ↔ Founder / Tag ↔ Year / Place
 
 | Body | Founder / tag | Year / place |
 |------|---------------|--------------|
@@ -151,6 +166,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Person ↔ Work / Post
+
 | Person | Work / post |
 |--------|-------------|
 | **D.K. Karve** | Secretary, Widow Remarriage Association |
@@ -159,6 +177,9 @@ hide:
 | **B.M. Malabari** | Crusade against child marriage |
 
 ---
+
+
+### Comparative Matrix: Person ↔ Title / Tag
 
 | Person | Title / tag |
 |--------|-------------|
@@ -201,6 +222,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Person ↔ Institution / Year
+
 | List-I (Person) | List-II (Institution / year) |
 |-----------------|------------------------------|
 | A. Jyotiba Phule | 1. Prarthana Samaj, 1867 |
@@ -209,6 +233,9 @@ hide:
 | D. Dayanand | 4. Arya Samaj, 1875 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -219,6 +246,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Dev Samaj | 1. Radhakant Deb, 1830 |
@@ -227,6 +257,9 @@ hide:
 | D. Servants of India Society | 4. Gopal Hari Deshmukh |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|

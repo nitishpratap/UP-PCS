@@ -28,6 +28,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Census town | 5,000 + 400/km² + 75% non-agri male main | Any big village / always a municipality | जनगणना नगर |
@@ -78,6 +81,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Approach ↔ Core Fact ↔ Name Pair
+
 | Approach | Core fact | Name pair |
 |----------|-----------|----------|
 | **Environmental determinism** | Nature controls human life and culture | **Friedrich Ratzel**; **Ellen C. Semple** |
@@ -85,6 +91,9 @@ hide:
 | **Neo-determinism / stop-and-go** | Nature sets limits; man can proceed carefully | **Griffith Taylor** |
 
 ---
+
+
+### Comparative Matrix: Feature ↔ Rural ↔ Urban
 
 | Feature | Rural | Urban |
 |---------|-------|-------|
@@ -96,6 +105,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Form ↔ Where  — Match This
+
 | Type | Form | Where (India) — match this |
 |------|------|----------------------------|
 | **Clustered / nucleated / agglomerated** | Compact houses with living area **separate** from fields; streets may be rectangular, radial or linear | Fertile **alluvial (जलोढ़) plains**; also **NE plains**; **Rajasthan** (थार) (scarce water → cluster at well/oasis); **Bundelkhand + Nagaland** (defence) |
@@ -105,6 +117,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Name ↔ Region
+
 | Name | Region |
 |------|------------|
 | **Panna / para / palli** | East / Ganga–Chhattisgarh belt |
@@ -112,6 +127,9 @@ hide:
 | **Dhani** | Rajasthan |
 
 ---
+
+
+### Comparative Matrix: Shape ↔ Note
 
 | Shape | Note |
 |-------|-----|
@@ -122,6 +140,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Belt ↔ Note
+
 | Belt | Note |
 |------|------|
 | Heavy rain (W. coast, NE) | **Sloping** roofs; bamboo / wood in NE |
@@ -130,6 +151,9 @@ hide:
 | Ganga plain | Mud / brick; courtyard houses |
 
 ---
+
+
+### Comparative Matrix: Class ↔ Population ↔ 2011 Fact
 
 | Class | Population | 2011 fact |
 |-------|------------|-----------|
@@ -141,6 +165,9 @@ hide:
 | VI | < 5,000 | |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Example
 
 | Type | Example |
 |------|----------------|
@@ -156,6 +183,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Layer ↔ Fact
+
 | Layer | Fact |
 |-------|------|
 | Ancient (~2000+ yrs) | **Varanasi, Prayag (Prayagraj), Pataliputra (पाटलिपुत्र) (Patna), Madurai** — religion / river / administration |
@@ -165,6 +195,9 @@ hide:
 | Satellite towns | Old towns pulled into a metro’s orbit — **Ghaziabad, Gurugram, Rohtak** around Delhi; Navi Mumbai / Thane around Mumbai |
 
 ---
+
+
+### Comparative Matrix: City ↔ Note
 
 | City | Note |
 |------|------|
@@ -192,6 +225,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Round ↔ When ↔ Cities
+
 | Round | When | Cities |
 |-------|------|--------|
 | Fast-track / first UP entry | **May 2016** | **Lucknow** (first UP city on the Mission list) |
@@ -201,6 +237,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Category ↔ Winner In The Paper’S List
+
 | Category | Winner in the paper’s list |
 |----------|----------------------------|
 | Culture | **Indore** |
@@ -209,6 +248,9 @@ hide:
 | Urban Environment | **Bhopal** |
 
 ---
+
+
+### Comparative Matrix: Scheme ↔ Year / Fact ↔ Trap
 
 | Scheme | Year / fact | Trap |
 |--------|-------------|------|
@@ -227,6 +269,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Scheme ↔ Year
+
 | Scheme | Year |
 |--------|------|
 | **JNNURM** | **2005** |
@@ -235,6 +280,9 @@ hide:
 | Jal Jeevan Mission | **2019** |
 
 ---
+
+
+### Comparative Matrix: City ↔ Functional / Tag
 
 | City | Functional / tag |
 |------|------------------------|
@@ -252,6 +300,9 @@ hide:
 | **Mathura** | Religious; **HRIDAY**; State Smart City 2019 (not Central-10) |
 | **Ayodhya** (अयोध्या) | Religious; State Smart City 2019; **not** HRIDAY |
 | **Singrauli belt (Sonbhadra (सोनभद्र))** | Mining / energy belt — mining-town type |
+
+### Comparative Matrix: Mission Fact ↔ Fact
+
 | Mission fact | Fact |
 |--------------|------|
 | Central Smart Cities | **10** — Ghaziabad is **out** of Mission-100 |
@@ -262,6 +313,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Meaning
+
 | Term | Meaning |
 |---|---|
 | 1. Site | Local ground of a settlement |
@@ -269,6 +323,9 @@ hide:
 | 3. Census town | Always a statutory municipality |
 
 ---
+
+
+### Match Matrix: Scheme ↔ Year / Note
 
 | List-I (Scheme) | List-II (Year / note) |
 |---|---|
@@ -279,6 +336,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Isac-2020 Theme ↔ City
+
 | List-I (ISAC-2020 theme) | List-II (City) |
 |---|---|
 | A. Culture | 1. Indore |
@@ -287,6 +347,9 @@ hide:
 | D. Urban environment | 4. Bhopal |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

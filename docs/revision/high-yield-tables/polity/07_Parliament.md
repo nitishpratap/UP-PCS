@@ -65,6 +65,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: State / Ut ↔ Rs Seats
+
 | State / UT | RS seats |
 |---|---|
 | Uttar Pradesh | **31** (largest) |
@@ -136,6 +139,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Device ↔ Who ↔ What It Ends
+
 | Device | Who | What it ends | What lapses |
 |--------|-----|----------------|-------------|
 | **Summon** (आहूत करना) | **President** (राष्ट्रपति) | Starts a session. Max gap between two sessions: **6 months** (≥ **two** sessions a year) | — |
@@ -146,6 +152,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ State
+
 | Code | State |
 |------|-------|
 | A | Maharashtra |
@@ -154,6 +163,9 @@ hide:
 | D | Tamil Nadu |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Seats
 
 | Code | Seats |
 |------|-------|
@@ -164,6 +176,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Lok Sabha
+
 | Code | Lok Sabha |
 |------|-----------|
 | A | 11th |
@@ -172,6 +187,9 @@ hide:
 | D | 17th |
 
 ---
+
+
+### Mountain Peaks & Highest Elevations
 
 | Code | Speaker |
 |------|---------|
@@ -182,6 +200,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ State
+
 | Code | State |
 |------|-------|
 | A | Rajasthan |
@@ -190,6 +211,9 @@ hide:
 | D | Punjab |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Seats
 
 | Code | Seats |
 |------|-------|
@@ -200,6 +224,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Article
+
 | Code | Article |
 |------|---------|
 | A | Article 61 |
@@ -208,6 +235,9 @@ hide:
 | D | Article 90 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Provision
 
 | Code | Provision |
 |------|-----------|
@@ -218,6 +248,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: State ↔ Seats
+
 | State | Seats |
 |---|---:|
 | Uttar Pradesh | 80 |
@@ -227,12 +260,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: List I — State / Union Territory ↔ List Ii — Lok Sabha Seats
+
 | List I — State / Union Territory | List II — Lok Sabha seats |
 |---|---:|
 | A. Chhattisgarh | 1. 11 |
 | B. Maharashtra | 2. 48 |
 | C. West Bengal | 3. 42 |
 | D. Uttarakhand | 4. 5 |
+
+### High-Yield Data: Code
+
 | Code | A | B | C | D |
 |---|---:|---:|---:|---:|
 | A | 2 | 1 | 4 | 3 |
@@ -242,6 +281,9 @@ hide:
 
 ---
 
+
+### Mountain Peaks & Highest Elevations
+
 | List I — Lok Sabha | List II — Speaker |
 |---|---|
 | A. Eleventh | 1. Om Birla |
@@ -250,6 +292,9 @@ hide:
 | D. Seventeenth | 4. G. M. C. Balayogi |
 
 ---
+
+
+### Comparative Matrix: List I — State ↔ List Ii — Lok Sabha Seats
 
 | List I — State | List II — Lok Sabha seats |
 |-------------------|--------------------------:|
@@ -261,6 +306,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Code
+
 | Code | A | B | C | D | E |
 |------|--:|--:|--:|--:|--:|
 | A | 2 | 1 | 4 | 5 | 3 |
@@ -269,6 +317,9 @@ hide:
 | D | 1 | 2 | 3 | 4 | 5 |
 
 ---
+
+
+### Match Matrix: State ↔ Rajya Sabha Seats
 
 | List-I (State) | List-II (Rajya Sabha seats) |
 |----------------|-----------------------------|
@@ -279,6 +330,9 @@ hide:
 
 ---
 
+
+### Match Matrix: State ↔ Rajya Sabha Seats
+
 | List-I (State) | List-II (Rajya Sabha seats) |
 |-----------------|-----------------------------|
 | A. Jharkhand | 1. 3 |
@@ -287,6 +341,9 @@ hide:
 | D. Punjab | 4. 6 |
 
 ---
+
+
+### Match Matrix: State ↔ Rajya Sabha Seats
 
 | List-I (State) | List-II (Rajya Sabha seats) |
 |----------------|-----------------------------|
@@ -297,6 +354,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Fund ↔ Article ↔ What Goes In
+
 | Fund | Article | What goes in | Vote of Parliament? |
 |------|---------|--------------|---------------------|
 | **Consolidated Fund of India (CFI)** | **266(1)** | All revenues, loans raised, loan repayments | **Yes** — no money out except by **Appropriation Act** |
@@ -304,6 +364,9 @@ hide:
 | **Contingency Fund of India** | **267** | Imprest for unforeseen expenditure; at the **disposal of the President** (in practice Finance Secretary); later **recouped from CFI** | Corpus fixed by Parliament by law |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -313,6 +376,9 @@ hide:
 | D | Comptroller and Auditor General of India |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -358,6 +424,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Pac ↔ Estimates Committee ↔ Copu
+
 | | **PAC** | **Estimates Committee** | **COPU** |
 |--|---------|-------------------------|----------|
 | Born | **1921** (Montagu–Chelmsford; continued after 1950) | **1950** (John Mathai’s suggestion) | **1964** (on Krishna (कृष्णा) Menon’s suggestion) |
@@ -369,6 +438,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Consolidated Fund of India |
@@ -377,6 +449,9 @@ hide:
 | D | CAG |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Article
 
 | Code | Article |
 |------|---------|
@@ -387,6 +462,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Lok Sabha ↔ Rajya Sabha ↔ Total
+
 | | Lok Sabha | Rajya Sabha | Total |
 |--|-----------|-------------|-------|
 | A | 11 | 05 | 16 |
@@ -395,6 +473,9 @@ hide:
 | D | 17 | 10 | 27 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -405,6 +486,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Article 110 |
@@ -413,6 +497,9 @@ hide:
 | D | Article 117(1) |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -423,6 +510,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Adjournment |
@@ -431,6 +521,9 @@ hide:
 | D | Quorum |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -441,6 +534,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | PAC |
@@ -449,6 +545,9 @@ hide:
 | D | Business Advisory |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -459,6 +558,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Token grant |
@@ -467,6 +569,9 @@ hide:
 | D | Vote on Account |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|

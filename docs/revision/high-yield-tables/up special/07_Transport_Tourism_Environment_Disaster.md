@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Element A ↔ Confused Element B ↔ Critical Differentiating Fact & Exam Anchor
+
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
 | **Only National Park (Dudhwa)** | **Tiger Reserves (4 TRs)** | Dudhwa is the **only National Park**; UP has **4 Tiger Reserves** (Dudhwa, Pilibhit, Amangarh, Ranipur). |
@@ -57,6 +60,9 @@ hide:
 | **Suhelwa Wildlife Sanctuary** | **Balrampur, Shravasti & Gonda** | **1988**; Area: **452 km²** | Leopards, Sloth Bears, Barking Deer, Jungle Cat | • Stretches along the Indo-Nepal international boundary. |
 
 ---
+
+
+### Comparative Matrix: Ramsar Site / Wetland ↔ District / Location ↔ Ramsar Inscription Date
 
 | Ramsar Site / Wetland | District / Location | Ramsar Inscription Date | Surface Area (Hectares) | Ecological Significance & Flagship Avifauna |
 | :--- | :--- | :--- | :--- | :--- |

@@ -52,6 +52,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Bucket ↔ What It Covers ↔ Anchor Titles
+
 | Bucket | What it covers | Anchor titles |
 |--------|-----------------|-----------------|
 | **Primary political tracts** | Written *during* the freedom struggle to argue a position | *Poverty and Un-British Rule*, *Hind Swaraj*, *Gulamgiri*, *Annihilation of Caste*, *The Indian War of Independence* |
@@ -62,6 +65,9 @@ hide:
 | **Social / regional / caste literature** | Anti-caste tracts, Bhojpuri works, realist novels | *Gulamgiri*, *Annihilation of Caste*, Bhojpuri four, Premchand's novels |
 
 ---
+
+
+### Comparative Matrix: Book ↔ Author ↔ Tag
 
 | Book | Author | Tag |
 |------|--------|-----|
@@ -146,6 +152,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Paper / Magazine ↔ Editor / Founder ↔ Tag
+
 | Paper / magazine | Editor / founder | Tag |
 |------------------|------------------|-----|
 | ***Kesari*** / ***Mahratta*** | **B.G. Tilak** | Marathi / English; Extremist (गरम दल) Poona press |
@@ -224,6 +233,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Book ↔ Author ↔ Tag
+
 | Book | Author | Tag |
 |------|--------|-----|
 | **Problems of the Far East** (1894) | **Lord Curzon** | Written before his viceroyalty, on Asian geopolitics |
@@ -234,6 +246,9 @@ hide:
 | Patronage (not authorship) of the **first English Gita translation** by **Charles Wilkins** (1785) | **Warren Hastings** (वारेन) | Wrote the preface encouraging Orientalist (प्राच्यवादी) scholarship; not himself the Gita's translator |
 
 ---
+
+
+### Comparative Matrix: Book ↔ Author
 
 | Book | Author |
 |------|--------|
@@ -299,6 +314,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. The Story of My Deportation | 1. Surendranath Banerjee |
@@ -307,6 +325,9 @@ hide:
 | D. India Wins Freedom | 4. Bal Gangadhar Tilak |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -317,6 +338,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Dadabhai Naoroji | 1. *Hind Swaraj* |
@@ -325,6 +349,9 @@ hide:
 | D. Abul Kalam Azad | 4. *India Wins Freedom* |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|

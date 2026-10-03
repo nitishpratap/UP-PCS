@@ -48,6 +48,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Conference ↔ Year ↔ Key Output
+
 | Conference | Year | Key output |
 |------------|------|------------|
 | Stockholm | 1972 | UNEP, WED 5 June |
@@ -62,6 +65,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Treaty ↔ Year ↔ Model
+
 | Treaty | Year | Model |
 |--------|------|-------|
 | UNFCCC | 1992 | Framework |
@@ -69,6 +75,9 @@ hide:
 | Paris | 2015 | Universal NDCs |
 
 ---
+
+
+### Comparative Matrix: Treaty ↔ Issue ↔ Year
 
 | Treaty | Issue | Year |
 |--------|-------|------|
@@ -79,6 +88,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Treaty ↔ Targets
+
 | Treaty | Targets |
 |--------|---------|
 | Basel | Hazardous **waste** shipment |
@@ -87,6 +99,9 @@ hide:
 | Minamata | **Mercury** |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -97,6 +112,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Basel | 1. Mercury |
@@ -106,6 +124,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Kyoto | 1. 2015 |
@@ -113,6 +134,9 @@ hide:
 | C. Montreal | 3. 1987 |
 
 ---
+
+
+### Comparative Matrix: Cop Session ↔ Location
 
 | COP session | Location |
 | --- | --- |

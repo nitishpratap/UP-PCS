@@ -27,6 +27,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | NER HQ | **Gorakhpur** | Hajipur | गोरखपुर |
@@ -94,6 +97,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Factory  / Works ↔ Place ↔ What It Builds
+
 | Factory (फैक्टरी) / works | Place | What it builds |
 |-----------------|-------|----------------|
 | Rail Coach Factory | **Kapurthala** | Coaches |
@@ -103,6 +109,9 @@ hide:
 | Modern Coach Factory | **Rae Bareli** | Third major coach factory |
 
 ---
+
+
+### Railway Zones & Administrative Headquarters
 
 | Zone | Headquarters |
 |------|----------------|
@@ -126,6 +135,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Class ↔ Who Builds / Maintains ↔ Note
+
 | Class | Who builds / maintains | Note |
 |-------|------------------------|----------|
 | **National Highways** | Central government / **NHAI** | About **2%** of road length but about **40%** of road traffic |
@@ -136,6 +148,9 @@ hide:
 | **International highways** | Cross-border links | Neighbour connectivity |
 
 ---
+
+
+### Comparative Matrix: Expressway ↔ Note
 
 | Expressway | Note |
 |------------|-----|
@@ -148,6 +163,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Nw ↔ River / Canal ↔ Stretch
+
 | NW | River / canal | Stretch | States / note |
 |----|---------------|---------|--------------|
 | **NW-1** | Ganga–Bhagirathi (भागीरथी)–Hooghly (हुगली) | **Haldia–Prayagraj** (about 1,620 km) | UP, Bihar, Jharkhand, West Bengal |
@@ -158,12 +176,18 @@ hide:
 
 ---
 
+
+### Major Seaports & Coastal Trade Hubs
+
 | Coast | Major ports |
 |-------|-------------|
 | West / NW | Kandla (**Deendayal**, Gujarat), Mumbai, JNPT, Mormugao (Goa), New Mangalore (Karnataka), Cochin (Kerala) |
 | East / SE | Kolkata–Haldia, Paradip (Odisha), Visakhapatnam (Andhra Pradesh), Chennai, Ennore (**Kamarajar**), Tuticorin (**VOC**, Tamil Nadu) |
 
 ---
+
+
+### Major Seaports & Coastal Trade Hubs
 
 | Port | State | Tag |
 |------|-------|-----|
@@ -186,6 +210,9 @@ hide:
 | Dhamra | **Odisha** | Non-major east coast |
 
 ---
+
+
+### Match Matrix: Port ↔ State
 
 | List-I (Port) | List-II (State) |
 |---|---|
@@ -219,6 +246,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Scheme ↔ Focus ↔ Trap
+
 | Scheme | Focus | Trap |
 |--------|-------|------|
 | **Sagarmala** | Port-led development, coastal shipping, port connectivity, coastal communities | Not a highway scheme |
@@ -229,6 +259,9 @@ hide:
 | **DFC** | Dedicated rail freight hardware | Neighbour of Sagarmala, not the same scheme |
 
 ---
+
+
+### Comparative Matrix: Theme ↔ Fact
 
 | Theme | Fact |
 |-------|------|
@@ -287,12 +320,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Stadium ↔ City
+
 | Stadium | City |
 |---------|------|
 | **Aishbagh** | **Bhopal** |
 | **Brabourne** | **Mumbai** |
 | **Green Park** | **Kanpur** (कानपुर) |
 | **Eden Gardens** | **Kolkata** |
+
+### Comparative Matrix: Pilgrimage Centre ↔ State / Place
+
 | Pilgrimage centre | State / place |
 |-------------------|---------------|
 | **Rameswaram** | **Tamil Nadu** |
@@ -301,6 +340,9 @@ hide:
 | **Mahakal** | **Ujjain** (उज्जैन), Madhya Pradesh |
 
 ---
+
+
+### Match Matrix: National Highway ↔ City / Node
 
 | List-I (National Highway) | List-II (City / node) |
 |---|---|
@@ -311,6 +353,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Shipyard ↔ State
+
 | Shipyard | State |
 |---|---|
 | Garden Reach | West Bengal |
@@ -319,6 +364,9 @@ hide:
 | Cochin Shipyard | Kerala |
 
 ---
+
+
+### Match Matrix: Port ↔ State
 
 | List-I (Port) | List-II (State) |
 |---|---|
@@ -329,6 +377,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Hill Station / Resort ↔ State / Ut
+
 | List-I (Hill station / resort) | List-II (State / UT) |
 |---|---|
 | A. Chakrata | 1. Assam |
@@ -337,6 +388,9 @@ hide:
 | D. Kufri | 4. West Bengal |
 
 ---
+
+
+### Match Matrix: Place ↔ State / Ut
 
 | List-I (Place) | List-II (State / UT) |
 |---|---|
@@ -347,6 +401,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Hill Station ↔ State
+
 | List-I (Hill station) | List-II (State) |
 |---|---|
 | A. Keylong | 1. Karnataka |
@@ -355,6 +412,9 @@ hide:
 | D. Ooty | 4. Uttarakhand |
 
 ---
+
+
+### Match Matrix: Landscape / Meadow / Resort ↔ State / Ut
 
 | List-I (Landscape / meadow / resort) | List-II (State / UT) |
 |---|---|
@@ -365,6 +425,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Place ↔ Known For
+
 | List-I (Place) | List-II (Known for) |
 |---|---|
 | A. Alibag | 1. Major container port (JNPT) |
@@ -372,6 +435,9 @@ hide:
 | C. Ratnagiri | 3. Konkan fishing and Alphonso mango coast |
 
 ---
+
+
+### Match Matrix: Stadium ↔ City
 
 | List-I (Stadium) | List-II (City) |
 |---|---|
@@ -382,6 +448,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Pilgrimage Centre ↔ State
+
 | List-I (Pilgrimage centre) | List-II (State) |
 |---|---|
 | A. Rameswaram | 1. Gujarat |
@@ -390,6 +459,9 @@ hide:
 | D. Mahakaleshwar (Ujjain) | 4. Madhya Pradesh |
 
 ---
+
+
+### Comparative Matrix: Note ↔ Fact
 
 | Note | Fact |
 |-----|------|
@@ -409,6 +481,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Line ↔ What It Joins
+
 | Line | What it joins (equal value) |
 |------|--------|
 | **Isobar** | Pressure |
@@ -421,6 +496,9 @@ hide:
 
 ---
 
+
+### Railway Zones & Administrative Headquarters
+
 | Railway Zone | Headquarters |
 |---|---|
 | 1. Northern Railway | New Delhi |
@@ -428,6 +506,9 @@ hide:
 | 3. East Central Railway | Gorakhpur |
 
 ---
+
+
+### Match Matrix: Corridor / Tunnel ↔ Fact
 
 | List-I (Corridor / tunnel) | List-II (Fact) |
 |---|---|
@@ -438,6 +519,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. IWAI | 1. 1986 |
@@ -446,6 +530,9 @@ hide:
 | D. NHAI set-up year | 4. 1995 |
 
 ---
+
+
+### Match Matrix: Port / Place ↔ Details
 
 | List-I (Port / place) | List-II |
 |---|---|

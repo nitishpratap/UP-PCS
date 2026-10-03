@@ -28,6 +28,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Distinguishing Fact
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Economic Survey** | **Union Budget** | Review / narrative day-before vs Annual Financial Statement |
@@ -78,6 +81,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Act / Code ↔ Year Tag ↔ One-Line Job
+
 | Act / code | Year tag | One-line job |
 |---|---|---|
 | **IBC** | 2016 | Time-bound insolvency resolution |
@@ -119,6 +125,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Global Peace Index | 1. NITI Aayog |
@@ -127,6 +136,9 @@ hide:
 | D. Doing Business (historical) | 4. World Bank |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

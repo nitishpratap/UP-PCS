@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Correct ↔ Hindi
+
 | A | B | Correct | Hindi |
 |---|----|------|-------|
 | Ganga basin | Godavari basin | Largest **India** vs largest **peninsular** | गंगा / गोदावरी |
@@ -83,6 +86,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Prayag ↔ Headstream 1 ↔ Headstream 2
+
 | Prayag (प्रयाग) | Headstream 1 | Headstream 2 (Tributary) | District / Location | Key Shrine / Geographical Landmark |
 |:----------------|:-------------|:-------------------------|:--------------------|:-----------------------------------|
 | **1. Vishnuprayag** (विष्णुप्रयाग) | **Alaknanda** (अलकनंदा) | **Dhauliganga** (धौलीगंगा - Western) | Chamoli, Uttarakhand | Nearest prayag to Badrinath & Joshimath; origin from Satopanth glacier |
@@ -92,6 +98,9 @@ hide:
 | **5. Devprayag** (देवप्रयाग) | **Alaknanda** | **Bhagirathi** (भागीरथी) | Tehri Garhwal, Uttarakhand | **The river is officially named GANGA (गंगा) from this confluence onward**; Bhagirathi rises from Gaumukh (Gangotri glacier) |
 
 ---
+
+
+### Major Rivers: Origins, Tributaries & Drainage
 
 | River System | Origin (उद्गम) | Left-Bank Tributaries (बायाँ तट) | Right-Bank Tributaries (दायाँ तट) | Drainage Mouth / Key Notes |
 |:-------------|:---------------|:---------------------------------|:----------------------------------|:---------------------------|
@@ -107,6 +116,9 @@ hide:
 | **Tapi / Tapti** (724 km) | Multai (Betul district, Satpura Range, MP) | • **Purna** (main tributary; drains Vidarbha)<br>• **Girna**<br>• Panjhra<br>• Bori, Waghur | • Suki<br>• Gomai<br>• Arunavati | Parallel rift valley south of Satpuras; Ukai & Kakrapar dams; forms estuary at Surat |
 
 ---
+
+
+### Strategic Mountain Passes ↔ Connecting Regions
 
 | Pass Name (दर्रा) | State / Union Territory | Mountain Range | Strategic / Historical Connection |
 |:------------------|:------------------------|:---------------|:----------------------------------|
@@ -129,6 +141,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Outlet ↔ Share Of Area ↔ Typical Rivers
+
 | Outlet | Share of **area** | Typical rivers |
 |--------|-------------------|----------------|
 | **Bay of Bengal** | about 77% | Ganga, Brahmaputra, Godavari, Krishna, Mahanadi, Kaveri, Pennar, Palar, Vaigai, Damodar, Subarnarekha, Barak |
@@ -136,6 +151,9 @@ hide:
 | **Inland** | about 8% of area | Luni, Ghaggar, Rajasthan salt (लवणाध्यक्ष) lakes, Ladakh |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Meaning ↔ India
 
 | Type | Meaning | India |
 |------|---------|------------|
@@ -165,6 +183,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Tributary ↔ Bank Of Yamuna ↔ Meets Yamuna At / Near
+
 | Tributary | Bank of Yamuna | Meets Yamuna at / near |
 |-----------|----------------|------------------------|
 | **Tons** (टौंस) | Left | Near **Kalsi** (Uttarakhand) |
@@ -176,6 +197,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Prayag ↔ Confluence
+
 | Prayag | Confluence |
 |--------|------------|
 | Vishnuprayag | Alaknanda + **Dhauli Ganga** (western / Alaknanda Dhauli — not Eastern Dhauliganga of Kali) |
@@ -185,6 +209,9 @@ hide:
 | **Devprayag** | Alaknanda + **Bhagirathi** = **Ganga** |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Meaning ↔ Example
 
 | Type | Meaning | example |
 |------|---------|--------------|
@@ -220,6 +247,9 @@ hide:
 | Sharavati | Western Ghats (Jog Falls) |
 | Subarnarekha | Chotanagpur (Ranchi / Nagri class) |
 | Jhelum | Verinag (Pir Panjal) |
+
+### Comparative Matrix: City ↔ River ↔ Trap
+
 | City | River | Trap |
 |------|-------|------|
 | Lucknow | Gomti | Not Ganga |
@@ -249,6 +279,9 @@ hide:
 | Dibrugarh | Brahmaputra | — |
 | Kota | Chambal | — |
 | Gorakhpur | Rapti | — |
+
+### Comparative Matrix: Dam / Project ↔ River
+
 | Dam / project | River |
 |---------------|-------|
 | **Bhakra–Nangal** | Sutlej |
@@ -274,6 +307,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Additional City / Town ↔ River ↔ Key Geographic Anchor
+
 | Additional City / Town | River | Key Geographic Anchor |
 |------------------------|-------|-----------------------|
 | **Pahalgam** | **Lidder** | Starting point of Amarnath Yatra in Kashmir (2,130 m altitude) |
@@ -287,6 +323,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Pattern ↔ Control ↔ River / Ground
+
 | Pattern | Control | River / ground |
 |---------|---------|----------------|
 | **Dendritic** | Uniform rock | **Ganga** and **Indus** plains; **Godavari**; **Mahanadi**; **Krishna**; **Kaveri** |
@@ -298,6 +337,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Nw ↔ Route
+
 | NW | Route |
 |----|-------|
 | **NW-1** | Ganga–Bhagirathi–Hooghly (Haldia–Prayagraj) — longest |
@@ -308,6 +350,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Rivers ↔ Tributaries & Confluences
+
 | List-I | List-II |
 |---|---|
 | A. Antecedent | 1. Follows original slope |
@@ -316,6 +361,9 @@ hide:
 | D. Subsequent | 4. Later weak-belt tributary |
 
 ---
+
+
+### Match Matrix: Rivers ↔ Tributaries & Confluences
 
 | List-I | List-II |
 |---|---|

@@ -39,6 +39,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Pillar ↔ Focus
+
 | Pillar | Focus |
 |--------|-------|
 | Economic | Employment, innovation, infrastructure |
@@ -47,6 +50,9 @@ hide:
 | Institutional | Governance, rule of law, participation |
 
 ---
+
+
+### Comparative Matrix: Goal ↔ Official Name
 
 | Goal | Official name |
 |------|---------------|
@@ -67,6 +73,9 @@ hide:
 | 15 | Life on Land |
 | 16 | Peace, Justice and Strong Institutions |
 | 17 | Partnerships for the Goals |
+
+### Comparative Matrix: Feature ↔ Mdgs ↔ Sdgs
+
 | Feature | MDGs | SDGs |
 |---------|------|------|
 | Goals | 8 | 17 |
@@ -74,6 +83,9 @@ hide:
 | Scope | Mainly developing countries | Universal |
 
 ---
+
+
+### Comparative Matrix: Concept ↔ Fact
 
 | Concept | Fact |
 |---------|------|
@@ -86,6 +98,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Green Economy ↔ Circular Economy
+
 | Feature | Green economy | Circular economy |
 |---------|---------------|------------------|
 | Focus | Overall low-carbon inclusive growth | Material/waste loop design |
@@ -94,6 +109,9 @@ hide:
 | SDG link | 7, 8, 13 and more | Mainly SDG 12 |
 
 ---
+
+
+### Comparative Matrix: Idea ↔ Correct Fact
 
 | Idea | Correct fact |
 |------|------|
@@ -104,6 +122,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: List I ↔ List Ii
+
 | List I (Goal) | List II (Name) |
 |---------------|----------------|
 | 1. Goal 1 | A. Clean Water and Sanitation |
@@ -112,6 +133,9 @@ hide:
 | 4. Goal 6 | D. Good Health and Well-being |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -122,6 +146,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Brundtland Report | 1. 1972 Club of Rome |
@@ -129,6 +156,9 @@ hide:
 | C. Rio Agenda 21 | 3. 1992 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

@@ -67,6 +67,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Minerals ↔ Major Mining Basins
+
 | List-I | List-II |
 | :--- | :--- |
 | A. Bauxite | 1. Madhya Pradesh |

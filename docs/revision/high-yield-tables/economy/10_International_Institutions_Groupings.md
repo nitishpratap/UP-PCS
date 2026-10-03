@@ -27,6 +27,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Distinguishing Fact
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **IMF** | **World Bank** | Monetary / BoP stability vs development lending |
@@ -77,6 +80,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. IMF HQ | 1. Shanghai |
@@ -85,6 +91,9 @@ hide:
 | D. ASEAN Secretariat | 4. Jakarta |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Element A ↔ Confused Element B ↔ Critical Differentiating Fact & Exam Anchor
+
 | Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
 | :--- | :--- | :--- |
 | **Sugar Production Volume (UP)** | **Sugar Cane Yield & Recovery (Maharashtra)** | UP leads in **total cane output and acreage**; Maharashtra leads in **sugar recovery percentage and cooperative yield**. |
@@ -59,6 +62,9 @@ hide:
 | **Mineral: Diaspore & Pyrophyllite** | **Jhansi, Lalitpur, Mahoba, Hamirpur** | Hydrothermal alteration zones in Bundelkhand Gneiss | Refractory bricks, ceramics, insecticides | • UP is the leading producer of Diaspore and Pyrophyllite in India. |
 
 ---
+
+
+### Comparative Matrix: Division / Region ↔ District ↔ Odop Flagship Product
 
 | Division / Region | District | ODOP Flagship Product | Key Distinction / GI Status |
 | :--- | :--- | :--- | :--- |

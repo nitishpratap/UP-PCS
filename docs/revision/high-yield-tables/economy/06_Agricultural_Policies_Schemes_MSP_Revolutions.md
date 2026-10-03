@@ -24,6 +24,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Correct Distinction
+
 | A | B | Correct distinction |
 |---|----|---------------------|
 | Father of Green Revolution (World) | Father of Green Revolution (India) | **Norman Borlaug** (Nobel 1970) vs **M.S. Swaminathan** (Bharat Ratna 2024). |
@@ -81,6 +84,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Revolution ↔ Commodity
+
 | Revolution | Commodity |
 |---|---|
 | A. Yellow Revolution | 1. Oilseeds |
@@ -89,6 +95,9 @@ hide:
 | D. Grey Revolution | 4. Fertilizers |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -99,6 +108,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Fertilizers |
@@ -108,6 +120,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | TPDS |
@@ -116,6 +131,9 @@ hide:
 | D | e-NAM |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|

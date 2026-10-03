@@ -118,6 +118,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Dynasty ↔ Capital ↔ Region
+
 | Dynasty | Capital(s) | Region | Key rulers () |
 |---------|------------|--------|-------------------|
 | **Pallava** | **Kanchi** | N. Tamil Nadu / S. Andhra | Mahendravarman I; Narasimhavarman I (**Vatapikonda**) |
@@ -151,6 +154,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Pallava | 1. Warangal |
@@ -159,6 +165,9 @@ hide:
 | D. Kakatiya | 4. Devagiri |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -169,6 +178,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Early ↔ Western
+
 | Feature | Early (Badami) | Western (Kalyani) |
 |---------|----------------|-------------------|
 | Capital | **Badami / Vatapi** | **Kalyani** |
@@ -177,6 +189,9 @@ hide:
 | End | Overthrown by **Rashtrakutas** (**757**) | Pressed by Hoysalas, Yadavas, later Sultanate |
 
 ---
+
+
+### Comparative Matrix: Body / Board ↔ Who / Meaning ↔ Role
 
 | Body / board | Who / meaning | Role |
 |--------------|---------------|------|
@@ -190,6 +205,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Meaning
+
 | Term | Meaning |
 |------|---------|
 | **Eripatti** | Land whose revenue was set apart for maintenance of the **village tank** |
@@ -197,6 +215,9 @@ hide:
 | **Ghatika** | A college generally attached to a temple |
 
 ---
+
+
+### Comparative Matrix: Target ↔ Ruler ↔ Fact
 
 | Target | Ruler | Fact |
 |--------|-------|------|
@@ -208,6 +229,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Actor ↔ Move
+
 | Actor | Move |
 |-------|------|
 | **Dharmapala** (Pala) | Occupied Kannauj and installed **Chakrayudha** as nominee |
@@ -216,6 +240,9 @@ hide:
 | **Krishna III** (Rashtrakuta) | Later northern raid **963** that further weakened Pratiharas |
 
 ---
+
+
+### Comparative Matrix: Order ↔ Ruler ↔ Fact
 
 | Order (ascending) | Ruler | Fact |
 |-------------------|-------|------|
@@ -309,6 +336,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Mahendravarman I | 1. Rashtrakuta |
@@ -317,6 +347,9 @@ hide:
 | D. Rajaraja I | 4. Pandya |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -327,6 +360,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Text ↔ Author
+
 | List-I (Text) | List-II (Author) |
 | --- | --- |
 | A. Ramcharita | 1. Padmagupta |
@@ -335,6 +371,9 @@ hide:
 | D. Vikramankdevacharit | 4. Bilhana (बिल्हण) |
 
 ---
+
+
+### Match Matrix: Dynasty ↔ Capital / Seat
 
 | List-I (Dynasty) | List-II (Capital / seat) |
 |------------------|--------------------------|
@@ -345,6 +384,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Ruler ↔ Dynasty
+
 | List-I (Ruler) | List-II (Dynasty) |
 |----------------|-------------------|
 | A. Mahendravarman | 1. Chola |
@@ -353,6 +395,9 @@ hide:
 | D. Kadungon | 4. Pandya |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

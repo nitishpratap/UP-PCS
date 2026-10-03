@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Edaphic vs climatic | Edaphic = **soil** | Call climate “edaphic” | मृदीय = मिट्टी |
@@ -71,6 +74,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Item ↔ Lock
+
 | Item | Lock |
 |------|------|
 | Profile (down) | **O → A → E → B → C → R** |
@@ -97,6 +103,9 @@ hide:
 | Red & yellow | Crystalline parent |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Simple Meaning ↔ What Changes?
 
 | Type | Simple meaning | What changes? | India note |
 |------|-------------|-----------------|----------------|
@@ -131,6 +140,9 @@ hide:
 
 ---
 
+
+### Soil Types, Texture & Agricultural Suitability
+
 | Soil | How it forms | Core belt | Star crop / use | Classic trap |
 |------|--------------|-----------|-----------------|--------------|
 | **Alluvial** | River-borne silt (**transported**) | Indo-Gangetic, Brahmaputra (ब्रह्मपुत्र), E-coast deltas (NCERT ~**40%**; other notes ~**46%**) | Wheat, rice, sugarcane, jute | UP is **alluvial**, not a black-soil state |
@@ -159,6 +171,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Local / Regional Formation ↔ Exact Match Location ↔ Geological / Pedological Fact
+
 | Local / Regional Formation | Exact Match Location | Geological / Pedological Fact | Commission Trap to Avoid |
 |:---|:---|:---|:---|
 | **Karewa Soil**<br>*(करेवा)* | **Jammu & Kashmir**<br>(Kashmir Valley & Bhadarwah) | Thick lacustrine (lake-bed) silt & clay deposits from Pleistocene glaciation; famous for **Zafran (Saffron)**, almond, and walnut orchards. | Not river alluvium; not volcanic. It is specifically **lacustrine** (झील निक्षेप). |
@@ -167,6 +182,9 @@ hide:
 | **Bhabar vs Tarai Belt** | **Sub-Himalayan Foothills**<br>(Piedmont strip from Indus to Teesta) | **Bhabar:** Porous pebble-gravel-boulder strip along Shiwalik foothills where mountain streams vanish underground (coarse, dry surface, unsuited for farming).<br>**Tarai:** Immediately south of Bhabar; damp, marshy, fine-silted waterlogged belt where lost streams re-emerge; rich in nitrogen & organic matter, excellent for sugarcane and paddy. | Do not invert their spatial order: **Shiwalik → Bhabar (north) → Tarai (south)**. Bhabar streams disappear; Tarai streams re-emerge. |
 
 ---
+
+
+### Soil Types, Texture & Agricultural Suitability
 
 | Local Name | Region in UP | Core Soil Group | Distinguishing Characteristics & Crop Fit |
 |:---|:---|:---|:---|
@@ -178,6 +196,9 @@ hide:
 | **Matiyar / Dhub (मटियार)** | Ganga-Yamuna Doab & Eastern UP | **Alluvial Clay-Loam** | Fine clayey-loam alluvium with high moisture-retention capacity; prime paddy, wheat, and sugarcane belt. |
 
 ---
+
+
+### Match Matrix: Soil Type ↔ State / Region
 
 | List-I (Soil Type) | List-II (State / Region) |
 |:---|:---|
@@ -244,6 +265,9 @@ hide:
 
 ---
 
+
+### Soil Types, Texture & Agricultural Suitability
+
 | Soil Type | Etymology & Literal Meaning | Climate Belt & Biome | Pedological Formation & Characteristics | Classic Prelims Match / Key Trap |
 |:---|:---|:---|:---|:---|
 | **Chernozem**<br>*(चेरनोज़ेम)* | Russian: *Cherniy* (Black) + *Zemlya* (Earth) = **"Black Earth"** | **Temperate Grasslands** (Eurasian Steppes of Ukraine/Russia, North American Prairies) | Annual death of dense fibrous grass roots; cold winters slow bacterial decay → colossal accumulation of **dark humus (up to 10–16%)**; rich in calcium and moisture. | **The world's most fertile natural soil.** Known as the global "Breadbasket of the World" (wheat belt). |
@@ -256,6 +280,9 @@ hide:
 | **Terra Rossa**<br>*(टेरा रोसा)* | Italian: *Terra* (Earth) + *Rossa* (Red) = **"Red Earth"** | **Mediterranean Karst Terrain** (Italy, Greece, Spain, Croatia) | Formed exclusively on **Limestone / Dolomite** bedrock. Rainwater dissolves and carries away soluble CaCO₃, leaving behind an insoluble residual **red clay mantle** enriched with ferric iron. | **High-Yield Prelims Pair:** Limestone weathering + Mediterranean climate. |
 
 ---
+
+
+### Comparative Matrix: Plant Label ↔ Prefix Meaning ↔ Everyday Science Anchor Word
 
 | Plant Label (पादप वर्ग) | Prefix Meaning | Everyday Science Anchor Word | Natural Habitat & Substrate | Typical Examples |
 |:---|:---|:---|:---|:---|
@@ -272,6 +299,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Khadar ↔ Bangar / Bhangar
+
 | | **Khadar** (newer) | **Bangar / Bhangar (भांगर)** (older) |
 |--|-------------------|------------------------------|
 | Site | Active floodplain | Higher terraces / older plain |
@@ -282,6 +312,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Chemistry ↔ Status
+
 | Chemistry | Status |
 |-----------|--------|
 | Potash | Generally **rich** (Class 11 fact) |
@@ -290,6 +323,9 @@ hide:
 | Nitrogen, humus | Generally **low** |
 
 ---
+
+
+### Crop Cultivation, Growing Conditions & Producing States
 
 | Belt | Region | Star crops |
 |------|--------|------------|
@@ -301,11 +337,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Chemistry ↔ Status
+
 | Chemistry | Status |
 |-----------|--------|
 | Lime, iron, magnesia, alumina | Rich |
 | Potash | Present / variable |
 | Nitrogen, phosphorus, organic matter / humus | **Deficient** — so “rich in humus” A/R reasons are **false** |
+
+### Comparative Matrix: Region ↔ Note
+
 | Region | Note |
 |--------|------|
 | Maharashtra (Vidarbha) | Classic / most widespread cotton regur |
@@ -319,10 +361,16 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Chemistry ↔ Status
+
 | Chemistry | Status |
 |-----------|--------|
 | Iron oxides (colour); potash often adequate | Present |
 | N, P, humus; sometimes lime | Often deficient |
+
+### Comparative Matrix: Region ↔ Note
+
 | Region | Note |
 |--------|------|
 | Tamil Nadu, Karnataka, AP/TG | Wide red loams |
@@ -333,6 +381,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Red / Yellow ↔ Laterite
+
 | Feature | Red / Yellow | Laterite |
 |---------|--------------|----------|
 | Parent / climate | Crystalline rocks, often lower rain | Hot-wet **intense leaching** |
@@ -342,10 +393,16 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Chemistry ↔ Status
+
 | Chemistry | Status |
 |-----------|--------|
 | Iron oxide, aluminium compounds | Excess / rich |
 | OM, N, phosphate, calcium, lime, silica | Poor / leached |
+
+### Comparative Matrix: Item ↔ Note
+
 | Item | Note |
 |------|------|
 | Climate | High T + heavy rain + wet–dry |
@@ -356,6 +413,9 @@ hide:
 | Not typical | Rajasthan, Uttar Pradesh plains |
 
 ---
+
+
+### Comparative Matrix: Feature ↔ Saline ↔ Alkaline
 
 | Feature | Saline | Alkaline (sodic) |
 |---------|--------|------------------|
@@ -379,6 +439,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Texture ↔ Water ↔ Drainage
+
 | Texture | Water | Drainage | Tillage | Example |
 |---------|-------|----------|---------|---------|
 | Sandy | Low | Fast | Easy | Desert |
@@ -388,6 +451,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Particle ↔ Diameter
+
 | Particle | Diameter |
 |----------|--------------------------|
 | **Clay** | **less than 0.002 mm** |
@@ -395,6 +461,9 @@ hide:
 | Fine sand | About 0.06–2 mm |
 
 ---
+
+
+### Comparative Matrix: Condition ↔ Ph Tendency ↔ Remedy Hint
 
 | Condition | pH tendency | Remedy hint |
 |-----------|-------------|-------------|
@@ -404,6 +473,9 @@ hide:
 | Tea garden ideal | **Slightly acidic** | Avoid stagnant water + lime excess |
 
 ---
+
+
+### Comparative Matrix: Factor ↔ Role
 
 | Factor | Role |
 |--------|------|
@@ -415,6 +487,9 @@ hide:
 | Drainage | Prevents salinity / waterlogging |
 
 ---
+
+
+### Comparative Matrix: Stage / Type ↔ Primary Agent ↔ Physical Mechanism & Diagnostic Feature
 
 | Stage / Type | Primary Agent | Physical Mechanism & Diagnostic Feature | Real-World Example & Field Signature | Exam Decision Rule |
 |:---|:---|:---|:---|:---|
@@ -492,6 +567,9 @@ hide:
 
 ---
 
+
+### Crop Cultivation, Growing Conditions & Producing States
+
 | Group | Where | Character | Crop / tag |
 |-------|-------|-----------|----------|
 | **Bhabar** | Shivalik (शिवालिक) foothill strip (~8–16 km); Saharanpur–Bijnor west | Shallow, pebbly, porous; streams **disappear** into fans | **Poor** for crops |
@@ -501,6 +579,9 @@ hide:
 | Vindhyan / Baghelkhand fringe | Mirzapur (मिर्ज़ापुर), Sonbhadra (सोनभद्र), parts of Prayagraj (प्रयागराज)–Chandauli | Red–yellow with Fe/Al; **Bhonta/Monta** | Pulses, millets, oilseeds |
 | Aravali fringe | Parts of Agra | Reddish, Chambal-brought | Local fringe |
 | Usar / Reh | W–central canal plains | Saline–alkaline crusts | Gypsum + drainage |
+
+### Comparative Matrix: Local Name ↔ Colour Family ↔ Trait
+
 | Local name | Colour family | Trait | Core districts |
 |------------|---------------|-------|----------------|
 | **Mar** | Black | Fine clayey and OM-rich | Jalaun, Hamirpur, Jhansi, Banda |
@@ -509,6 +590,9 @@ hide:
 | **Rakar (pathari)** | Reddish-brown | Coarse on slopes; slightly acidic | Sloping Bundelkhand |
 
 ---
+
+
+### Comparative Matrix: Problem ↔ Hotspot ↔ Fix
 
 | Problem | Hotspot | Fix |
 |---------|---------|-----|
@@ -520,6 +604,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Day ↔ Event
+
 | List-I (Day) | List-II (Event) |
 |---|---|
 | A. April 18 | 1. International Tiger Day |
@@ -528,6 +615,9 @@ hide:
 | D. December 5 | 4. International Day of Biodiversity |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -538,6 +628,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Soil Classifications ↔ Characteristics
+
 | List-I | List-II |
 |---|---|
 | A. Bhabar | 1. Streams re-emerge; moist belt |
@@ -546,6 +639,9 @@ hide:
 | D. Laterite | 4. Hot-wet leached Fe/Al soil |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -556,6 +652,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Soil Classifications ↔ Characteristics
+
 | List-I | List-II |
 |---|---|
 | A. Residual / sedentary | 1. Alluvium of plains |
@@ -564,6 +663,9 @@ hide:
 | D. Cotton soils | 4. Prefer black / regur |
 
 ---
+
+
+### Match Matrix: Soil Classifications ↔ Characteristics
 
 | List-I | List-II |
 |---|---|

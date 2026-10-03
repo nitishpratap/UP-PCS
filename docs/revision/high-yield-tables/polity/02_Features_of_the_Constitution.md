@@ -137,6 +137,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Procedure ↔ Examples
+
 | Type | Procedure | Examples (key facts) |
 |------|-----------|------------------------|
 | **Simple majority** of Parliament | Like ordinary law; **outside** Art. 368 | Formation/alteration of States (**Arts. 2–4**); abolition/creation of Legislative Councils (**Art. 169**); some Second Schedule / procedure matters as specified |
@@ -277,6 +280,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Person ↔ Phrase / Idea
+
 | List-I (Person) | List-II (Phrase / idea) |
 |--------|--------|
 | A. K.M. Munshi | 1. Identity card of the Constitution |
@@ -285,6 +291,9 @@ hide:
 | D. Thakurdas Bhargava | 4. Heart and soul — Article 32 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -295,6 +304,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Cooperative Federalism |
@@ -303,6 +315,9 @@ hide:
 | D | Federalism with Centralising Tendency |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -313,6 +328,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | USA |
@@ -321,6 +339,9 @@ hide:
 | D | Japan |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|

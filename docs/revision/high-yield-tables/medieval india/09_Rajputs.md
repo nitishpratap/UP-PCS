@@ -98,6 +98,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Rana Hammir | 1. Founded Jodhpur (1459) |
@@ -106,6 +109,9 @@ hide:
 | D. Man Singh | 4. Amber; ~7000 zat; Haldighati commander |
 
 ---
+
+
+### Match Matrix: Clan ↔ Seat
 
 | List-I (Clan) | List-II (Seat) |
 |---------------|----------------|
@@ -116,6 +122,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ruler ↔ Tag
+
 | Ruler | Tag |
 |-------|-----|
 | 1. Rana Sanga | Khanwa 1527 |
@@ -123,6 +132,9 @@ hide:
 | 3. Udai Singh II | Father of Pratap; capital shift context for Udaipur |
 
 ---
+
+
+### Comparative Matrix: Battle ↔ Location Character
 
 | Battle | Location character |
 |--------|--------------------|

@@ -73,6 +73,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Period ↔ Approx. ↔ Economy
+
 | Period | Approx. (India) | Economy | Defining fact |
 |--------|-----------------|---------|---------------|
 | **Paleolithic** | ~2 mya – 10,000 BCE | Hunting and gathering | Chipped stone (core, flake, blade) |
@@ -81,11 +84,17 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Period ↔ Approx. ↔ Economy
+
 | Period | Approx. (India) | Economy | Defining fact |
 |--------|-----------------|---------|---------------|
 | **Chalcolithic** | ~3000 – 1000 BCE | Farming villages plus first metal | **Copper plus stone**; rural, not Harappan cities |
 
 ---
+
+
+### Comparative Matrix: Tool Class ↔ What It Is ↔ Typical Period
 
 | Tool class | What it is | Typical period |
 |------------|------------|----------------|
@@ -98,17 +107,26 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Sub-Period ↔ Approx. ↔ Tools
+
 | Sub-period | Approx. | Tools (booklet triad) |
 |------------|---------|-------|
 | **Lower** | ~2 mya – 100,000 BP | **Handaxe, cleaver, chopper** — Acheulian / Soanian cores |
 | **Middle** | ~100,000 – 35,000 BP | **Points, borers, scrapers**; flake / Levallois |
 | **Upper** | ~35,000 – 10,000 BP | **Burins** with blades and scrapers; bone tools; ostrich-eggshell beads |
+
+### Railway Zones & Administrative Headquarters
+
 | Lower Pal tradition | Zone | Fact |
 |---------------------|------|------|
 | **Soanian** | Soan–Siwalik (Punjab/Pakistan) | Pebble **chopper-chopping**; Yale–Cambridge team under **H. De Terra** (with Paterson), **1935** |
 | **Acheulian** (also called **Madrasian** in older books) | Peninsula + Narmada + Kortallayar | **Handaxe-cleaver**; Foote at **Pallavaram** and **Attirampakkam** |
 
 ---
+
+
+### Crop Cultivation, Growing Conditions & Producing States
 
 | Region | Crop / trait |
 |--------|----------------|
@@ -120,6 +138,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Colour ↔ Pigment ↔ Typical Use
+
 | Colour | Pigment | Typical use (Bhimbetka rule of thumb) |
 |--------|---------|----------------------------------------|
 | **Red** | Haematite / ochre | Animals |
@@ -128,6 +149,9 @@ hide:
 | **Black** | Manganese / charcoal | Occasional |
 
 ---
+
+
+### Comparative Matrix: Age ↔ Site
 
 | Age | Site |
 |---|---|
@@ -138,6 +162,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Archaeological Site ↔ Present Location
+
 | List-I (Archaeological site) | List-II (Present location) |
 |---|---|
 | A. Nevasa | 1. Rajasthan |
@@ -146,6 +173,9 @@ hide:
 | D. Gudiyam cave | 4. Karnataka |
 
 ---
+
+
+### Comparative Matrix: Archaeological Site ↔ State ↔ Description
 
 | Archaeological Site | State | Description |
 |---|---|---|
@@ -156,6 +186,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Site ↔ Specialty
+
 | List-I (Site) | List-II (Specialty) |
 |---|---|
 | 1. Bagor | A. Upper Paleolithic shrine |
@@ -164,6 +197,9 @@ hide:
 | 4. Chirand | D. Pit dwellings and dog burial |
 
 ---
+
+
+### Match Matrix: Person ↔ Association
 
 | List-I (Person) | List-II (Association) |
 |---|---|

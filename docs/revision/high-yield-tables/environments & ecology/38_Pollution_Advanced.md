@@ -40,6 +40,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Aqi ↔ Category
+
 | AQI | Category |
 |-----|----------|
 | 0–50 | Good |
@@ -50,6 +53,9 @@ hide:
 | 401–500 | Severe |
 
 ---
+
+
+### Comparative Matrix: Metal / Pollutant ↔ Classic Disease / Effect
 
 | Metal / pollutant | Classic disease / effect |
 |-------------------|--------------------------|
@@ -63,6 +69,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Area ↔ Level
+
 | Area | Level (dB) |
 | --- | --- |
 | Residential | 55 |
@@ -72,6 +81,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. London smog | 1. NOx + VOCs + sunlight → O₃ + PAN |
@@ -79,6 +91,9 @@ hide:
 | C. PAN | 3. Strong eye irritant |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -88,6 +103,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. SAFAR | 1. Delhi units teaching |
@@ -95,6 +113,9 @@ hide:
 | C. Green muffler | 3. Tree belts for noise |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

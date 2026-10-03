@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Pair ↔ Concept A ↔ Concept B
+
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
 | **Thermoplastic vs. Thermosetting Plastic** | **Thermoplastic**: Linear/branched polymer; **softens on heating and hardens on cooling reversibly** (Polyethylene, PVC, Teflon). Can be remelted and recycled. | **Thermosetting**: 3D cross-linked network; **hardens permanently on initial heating** via chemical cross-links (Bakelite, Melamine). Cannot be remelted; decomposes on overheating. | **Recyclability & Heat Response**: Thermoplastics melt cleanly upon heating and are recyclable; Thermosets do not melt and char without reshaping. |

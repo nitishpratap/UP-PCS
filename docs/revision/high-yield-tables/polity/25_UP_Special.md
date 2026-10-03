@@ -62,6 +62,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: House ↔ Up Now ↔ Before 9 Nov 2000
+
 | House | UP now | Before 9 Nov 2000 | All-India rank |
 |-------|--------|-------------------|----------------|
 | **Lok Sabha** (लोकसभा) | **80** | **85** | **Largest** (next: Maharashtra 48) |
@@ -120,6 +123,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. UP LA | 1. 100 members; 1/3 retire every 2 years |
@@ -129,6 +135,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Gram Panchayat head | 1. Adhyaksha |
@@ -137,6 +146,9 @@ hide:
 | D. UP intermediate tier name | 4. Kshetra Panchayat |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

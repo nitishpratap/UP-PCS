@@ -66,6 +66,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Silsila ↔ Indian Founder ↔ Main Centres / Khanqah
+
 | Silsila (सिलसिला) | Indian Founder(s) | Main Centres / Khanqah | Key Saints (पीर / शेख) | Doctrinal Stance & State Relations |
 |:------------------|:------------------|:-----------------------|:-----------------------|:-----------------------------------|
 | **Chishti** (चिश्ती) | **Khwaja Muinuddin Chishti** (arrived 1192 with Ghori) | **Ajmer** (Rajasthan), Delhi, Nagaur, Pakpattan, Daulatabad, Gulbarga | • **Qutbuddin Bakhtiyar Kaki** (Delhi; Qutb Minar dedicated to him)<br>• **Baba Fariduddin Ganj-i-Shakar** (Ajodhan/Pakpattan; verses in Guru Granth Sahib)<br>• **Hazrat Nizamuddin Auliya** (*Mahbub-i-Ilahi*; Delhi; saw reign of 7 Sultans; Yogic pranayama master / *Siddha*)<br>• **Nasiruddin Chiragh-i-Dehli** (last great Chishti of Delhi)<br>• **Shaikh Salim Chishti** (Fatehpur Sikri; Akbar's spiritual guide)<br>• **Burhanuddin Gharib** (introduced Chishti order in Deccan; **Daulatabad**, 1309)<br>• **Khwaja Gesudaraz Banda Nawaz** (**Gulbarga**; author of *Miraj-ul-Ashiqin*) | • **Poverty, simplicity, service to mankind**<br>• Kept **strict aloofness from state patronage and wealth**<br>• Practiced **Sama (समा)** — spiritual musical gatherings to attain ecstasy<br>• Embraced *Wahdat-ul-Wujud* (Unity of Being / Pantheism) |
@@ -76,6 +79,9 @@ hide:
 | **Firdausi** (फिरदौसी) | **Shaikh Badruddin Samarqandi** (branch of Suhrawardi) | **Bihar** (Maner, Rajgir, Patna) | • **Shaikh Sharfuddin Yahya Maneri** (*Makhdum-ul-Mulk*; famous for *Maktubat-i-Sadi* / Hundred Letters on spiritual guidance) | • Active almost exclusively in **Bihar**<br>• Emphasized social justice, humanitarian service, and spiritual letters |
 
 ---
+
+
+### Comparative Matrix: Book / Text Title ↔ Author / Compiler ↔ Subject / Nature Of Work
 
 | Book / Text Title | Author / Compiler | Subject / Nature of Work | High-Yield Exam Takeaway |
 |:------------------|:------------------|:-------------------------|:-------------------------|
@@ -112,12 +118,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Group ↔ Deity ↔ Number
+
 | Group | Deity | Number | Main text | Key fact |
 |-------|-------|--------|-----------|-----------|
 | **Nayanars** (नायनार) | **Shiva** | **63** saints | **Tevaram** (तेवारम्) hymns | Shaiva Bhakti in Tamil Nadu |
 | **Alvars** (आलवार) | **Vishnu** | **12** saints | **Divya Prabandham** (~**4000** hymns) | Called the **"Tamil Veda (वेद)"** |
 
 ---
+
+
+### Comparative Matrix: Thinker ↔ School ↔ One-Line Fact
 
 | Thinker | School | One-line fact |
 |---------|--------|---------------|
@@ -126,6 +138,9 @@ hide:
 | **Madhva** | **Dvaita** (द्वैतवाद) (dualism) | Soul and God are eternally distinct. |
 
 ---
+
+
+### Comparative Matrix: Stream ↔ God Idea ↔ Representative Saints
 
 | Stream | God idea | Representative saints | Key trait |
 |--------|----------|----------------------|-----------|
@@ -257,6 +272,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Bridge ↔ What It Shows
+
 | Bridge | What it shows |
 |--------|----------------|
 | **Guru Granth Sahib** | Verses of **Kabir**, **Namdev**, **Ravidas**, and **Baba Farid** in one scripture |
@@ -311,6 +329,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Saint ↔ Tag
+
 | List-I (Saint) | List-II (Tag) |
 |----------------|---------------|
 | A. Surdas | 1. Awadhi; Ramcharitmanas |
@@ -319,6 +340,9 @@ hide:
 | D. Mirabai | 4. Rajasthan Krishna devotee |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -329,6 +353,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Pir | 1. Bhakti preceptor |
@@ -337,6 +364,9 @@ hide:
 | D. Shaikh | 4. Sufi guide authorised to teach |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

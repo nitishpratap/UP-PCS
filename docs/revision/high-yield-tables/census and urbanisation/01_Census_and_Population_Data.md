@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
 | **First Census in Modern India**: **1872** (Lord Mayo, non-synchronous) | **First Synchronous Decennial Census**: **1881** (Lord Ripon, W. C. Plowden) | **Trap**: If the question asks for the *first census*, the answer is 1872. If it asks for the *first regular/complete decennial synchronous census*, the answer is strictly 1881. |
@@ -117,6 +120,9 @@ hide:
 | **Year of Great Divide** | महाविभाजन वर्ष | 1921 — only negative growth (-0.31%) in Indian census |
 
 ---
+
+
+### Comparative Matrix: Section ↔ Provision
 
 | Section | Provision |
 |---|---|

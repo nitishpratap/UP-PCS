@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Pair ↔ Concept A ↔ Concept B
+
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
 | **Physical vs. Chemical Change** | **Physical Change**: No new chemical bonds broken or formed. Retains chemical identity ($H_2O\text{ (ice)} \rightleftharpoons H_2O\text{ (liquid)}$). | **Chemical Change**: New substances formed with altered atomic bonds ($2H_2 + O_2 \to 2H_2O$). | **Reversibility & Identity**: If you can recover the starting material by reversing temperature/pressure without a chemical reaction, it is physical. If mass increases/decreases via chemical binding (e.g., rusting, burning), it is chemical. |

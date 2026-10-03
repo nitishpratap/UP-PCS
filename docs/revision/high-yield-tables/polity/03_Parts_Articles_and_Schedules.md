@@ -296,6 +296,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Clause ↔ Duty Of Every Citizen
+
 | Clause | Duty of every citizen |
 |--------|------------------------|
 | **51A(a)** | Abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem. |
@@ -345,6 +348,9 @@ hide:
 | **71** | Matters relating to election of President / VP | Doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the **Supreme Court**, whose decision is final. |
 
 ---
+
+
+### Comparative Matrix: Art. ↔ Subject ↔ Elaboration
 
 | Art. | Subject | Elaboration |
 |------|---------|-------------|
@@ -516,6 +522,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Schedule ↔ Subject ↔ Amendment / Note
+
 | Schedule | Subject | Amendment / note |
 |----------|---------|------------------|
 | **First** | Names of States & UTs; territorial extent | — |
@@ -533,6 +542,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Schedule
+
 | Code | Schedule |
 |------|----------|
 | A | Seventh Schedule |
@@ -541,6 +553,9 @@ hide:
 | D | Tenth Schedule |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Subject
 
 | Code | Subject |
 |------|---------|
@@ -608,6 +623,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Schedule
+
 | Code | Schedule |
 |------|----------|
 | A | Seventh Schedule |
@@ -616,6 +634,9 @@ hide:
 | D | Tenth Schedule |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Subject
 
 | Code | Subject |
 |------|---------|
@@ -626,6 +647,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Schedule
+
 | Code | Schedule |
 |------|----------|
 | A | Third Schedule |
@@ -634,6 +658,9 @@ hide:
 | D | Eighth Schedule |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Subject
 
 | Code | Subject |
 |------|---------|
@@ -644,6 +671,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Abolition of Titles | 1. DPSP |
@@ -652,6 +682,9 @@ hide:
 | D. India, that is Bharat, is the Union of States | 4. Fundamental Duties |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -662,6 +695,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Anti-defection |
@@ -670,6 +706,9 @@ hide:
 | 4 | Official languages |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -680,6 +719,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | 1 | Election Commission |
@@ -689,6 +731,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Part XV |
@@ -697,6 +742,9 @@ hide:
 | D | Part XX |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|

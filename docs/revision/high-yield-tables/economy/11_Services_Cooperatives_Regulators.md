@@ -27,6 +27,9 @@ hide:
 
 ---
 
+
+### High-Yield Data: Distinguishing Fact
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Tertiary / services** | **Primary (forestry, fishing, mining)** | Services vs resource extraction |
@@ -73,6 +76,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Regulator ↔ Sector / Mandate ↔ Teaching Tag
+
 | Regulator | Sector / mandate | Teaching tag |
 |---|---|---|
 | **RBI** | Banking, monetary policy, payment systems | Topic 3 depth |
@@ -87,6 +93,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. IRDAI | 1. Securities market |
@@ -95,6 +104,9 @@ hide:
 | D. CCI | 4. NPS / pensions |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|

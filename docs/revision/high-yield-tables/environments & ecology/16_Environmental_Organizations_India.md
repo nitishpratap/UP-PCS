@@ -39,6 +39,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Function ↔ Body
+
 | Function | Body |
 |----------|------|
 | Category A EC | **MoEFCC** |
@@ -49,6 +52,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Body ↔ Purpose
+
 | Term | Body | Purpose |
 |------|------|---------|
 | Consent (CTE/CTO) | **SPCB** | Pollution control for industry operation |
@@ -56,6 +62,9 @@ hide:
 | Forest Clearance | **MoEFCC** | Forest land diversion |
 
 ---
+
+
+### Comparative Matrix: Body ↔ Est. ↔ Hq
 
 | Body | Est. | HQ | Kingdom |
 |------|------|-----|---------|
@@ -65,6 +74,9 @@ hide:
 | FSI | 1981 | Dehradun | Forest cover |
 
 ---
+
+
+### Major Seaports & Coastal Trade Hubs
 
 | Report | Publisher |
 |--------|-----------|
@@ -76,6 +88,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Body ↔ Hq ↔ Job
+
 | Body | HQ | Job |
 |------|-----|-----|
 | NEERI | **Nagpur** | Env. engineering research (CSIR) |
@@ -83,6 +98,9 @@ hide:
 | NGT | New Delhi | Environmental adjudication |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -92,6 +110,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. PARIVESH | 1. CSIR lab Nagpur |
@@ -99,6 +120,9 @@ hide:
 | C. NBA | 3. Chennai (BDA) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

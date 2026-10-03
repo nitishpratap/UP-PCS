@@ -98,6 +98,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
+
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
 | *Hindu Polity* | **K.P. Jayaswal** | Nationalist gana / polity reading |
@@ -108,6 +111,9 @@ hide:
 | *Sushruta Samhita* (सुश्रुत संहिता) | **Sushruta** | Surgery / rhinoplasty tradition |
 
 ---
+
+
+### Comparative Matrix: Trait ↔ Mesopotamia ↔ Egypt
 
 | Trait | Mesopotamia | Egypt | Harappan | Shang |
 |-------|-------------|-------|----------|-------|
@@ -120,6 +126,9 @@ hide:
 | End-note | Conquest replacement | Dynastic continuity | De-urbanisation ~1900 BCE | Zhou conquest |
 
 ---
+
+
+### Comparative Matrix: Mark ↔ Meaning
 
 | Mark | Meaning |
 |------|---------|
@@ -156,6 +165,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Purana ↔ Dynasty It Is Asked For ↔ What It Preserves
+
 | Purana | Dynasty it is asked for | What it preserves |
 |--------|-------------------------|-------------------|
 | **Vishnu Purana** (विष्णु पुराण) | **Maurya** (मौर्य) | Maurya genealogy. The same Magadha chain also names Nanda, Shunga, and Kanva. |
@@ -180,6 +192,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Civilization ↔ Fact
+
 | List-I (Civilization) | List-II (Fact) |
 |---|---|
 | 1. Mesopotamia | A. Nile; hieroglyphs; pyramid tombs |
@@ -188,6 +203,9 @@ hide:
 | 4. Shang China | D. ~2600–1900 BCE; undeciphered script |
 
 ---
+
+
+### Match Matrix: Author ↔ Book
 
 | List-I (Author) | List-II (Book) |
 |---|---|
@@ -198,6 +216,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Kakatiya / Related ↔ Fact
+
 | List-I (Kakatiya / related) | List-II (Fact) |
 |---|---|
 | 1. Ganapati Deva | A. Last king; fall 1323 |
@@ -206,6 +227,9 @@ hide:
 | 4. Motupalli | D. Safety-charter port; Marco Polo Mutfili |
 
 ---
+
+
+### Match Matrix: Term ↔ Fact
 
 | List-I (Term) | List-II (Fact) |
 |---|---|

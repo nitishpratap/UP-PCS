@@ -20,6 +20,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Correct ↔ Hindi
+
 | A | B | Correct | Hindi |
 |---|----|------|-------|
 | Tangible heritage | Intangible heritage | Physical monument/site vs living practice/skill | भौतिक / अभौतिक विरासत |
@@ -58,6 +61,9 @@ hide:
 | Fatehpur Sikri | **1986** |
 | Sarnath | **2026** |
 | Varanasi ghats | **Tentative only** (not a 5th WHS) |
+
+### Comparative Matrix: Ich Element ↔ Year
+
 | ICH element | Year |
 |-------------|------|
 | Kutiyattam / Vedic chanting | 2001 / 2003 |
@@ -65,6 +71,9 @@ hide:
 | Durga Puja Kolkata / Garba | **2021** / **2023** |
 
 ---
+
+
+### Comparative Matrix: Site ↔ State/Ut ↔ Year
 
 | Site | State/UT | Year | Type |
 |------|----------|------|------|
@@ -116,6 +125,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Element ↔ Year ↔ Region
+
 | Element | Year | Region |
 |---------|------|--------|
 | Kutiyattam (Koodiyattam (कूड़ियाट्टम्)), Sanskrit theatre | 2001★ / RL 2008 | Kerala |
@@ -137,6 +149,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Convention / Body ↔ Tag
+
 | Convention / body | Tag |
 |-------------------|-----|
 | 1. World Heritage Convention | 1972 |
@@ -145,6 +160,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Day / Date ↔ Tag
+
 | Day / date | Tag |
 |------------|-----|
 | 1. World Heritage Day | 18 April (ICOMOS) |
@@ -152,6 +170,9 @@ hide:
 | 3. India ICH ratification | 2005 |
 
 ---
+
+
+### Comparative Matrix: Ich Element ↔ Year
 
 | ICH element | Year |
 |-------------|------|

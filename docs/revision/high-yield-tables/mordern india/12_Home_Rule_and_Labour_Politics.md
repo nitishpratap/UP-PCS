@@ -84,6 +84,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ Tilak’S Indian Home Rule League ↔ Besant’S All India Home Rule League
+
 | Feature | Tilak’s Indian Home Rule League | Besant’s All India Home Rule League |
 |---------|--------------------------------|-------------------------------------|
 | Founded | **April 1916** | **September 1916** |
@@ -93,6 +96,9 @@ hide:
 | Area | Maharashtra **except Bombay city**, Karnataka, CP, Berar | Rest of India **including Bombay city** |
 
 ---
+
+
+### Comparative Matrix: Trade Union ↔ Party In The Uppcs Map
 
 | Trade union | Party in the UPPCS map |
 |-------------|--------------------------|
@@ -151,6 +157,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Feature ↔ Details
+
 | List-I (Feature) | List-II |
 |------------------|---------|
 | A. Tilak League President | 1. N.C. Kelkar |
@@ -159,6 +168,9 @@ hide:
 | D. Theosophical Society founders | 4. Blavatsky and Olcott, New York 1875 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -169,6 +181,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Morley–Minto 1909 | 1. Congress–League electoral bargain |
@@ -177,6 +192,9 @@ hide:
 | D. August Offer 1940 | 4. Wartime dominion-after-war offer with minority veto |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|

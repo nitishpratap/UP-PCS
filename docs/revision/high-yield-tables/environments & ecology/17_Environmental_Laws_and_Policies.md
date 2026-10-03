@@ -39,6 +39,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Article ↔ Type ↔ Content
+
 | Article | Type | Content |
 |---------|------|---------|
 | 48A | DPSP | State protects environment |
@@ -47,6 +50,9 @@ hide:
 | 48 | DPSP | Agriculture — **not** environment |
 
 ---
+
+
+### Comparative Matrix: Schedule ↔ Content
 
 | Schedule | Content |
 |----------|---------|
@@ -57,12 +63,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Act ↔ Year ↔ Key Output
+
 | Act | Year | Key output |
 |-----|------|------------|
 | Water Act | **1974** | CPCB, SPCB, water consent |
 | Air Act | **1981** | NAAQS, air pollution control |
 
 ---
+
+
+### Comparative Matrix: Act ↔ Purpose
 
 | Act | Purpose |
 |-----|---------|
@@ -72,12 +84,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Act ↔ Year ↔ Key Body
+
 | Act | Year | Key body |
 |-----|------|----------|
 | BDA | 2002 | NBA Chennai |
 | NGT Act | 2010 | NGT Delhi |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -87,6 +105,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. BDA | 1. 2006 |
@@ -94,6 +115,9 @@ hide:
 | C. NGT Act | 3. 2010 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

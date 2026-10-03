@@ -41,6 +41,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Method ↔ Type ↔ India Example
+
 | Method | Type | India example |
 |--------|------|---------------|
 | National Park | In-situ | Dudhwa (UP) |
@@ -51,6 +54,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Feature ↔ In-Situ ↔ Ex-Situ
+
 | Feature | In-situ | Ex-situ |
 |---------|---------|---------|
 | Location | Natural habitat | Captive/stored |
@@ -59,6 +65,9 @@ hide:
 | trap | NP, sanctuary, BR | Zoo, seed bank, botanic garden |
 
 ---
+
+
+### Comparative Matrix: Institution ↔ Location ↔ Conserves
 
 | Institution | Location | Conserves |
 |-------------|----------|-----------|
@@ -69,10 +78,16 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Type ↔ Storage ↔ Examples
+
 | Type | Storage | Examples |
 |------|---------|----------|
 | Orthodox | Conventional seed bank (-18°C) | Wheat, rice, chickpea |
 | Recalcitrant | Living collection or cryo | Mango, coconut, jackfruit |
+
+### Comparative Matrix: Feature ↔ Seed Bank ↔ Gene Bank
+
 | Feature | Seed Bank | Gene Bank |
 |---------|-----------|-----------|
 | Material | Seeds primarily | Seeds + DNA + tissue + sperm + embryos |
@@ -81,6 +96,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Garden ↔ Location ↔ Notable
+
 | Garden | Location | Notable |
 |--------|----------|---------|
 | Indian Botanic Garden | Howrah | 1787; Great Banyan; largest in India |
@@ -88,6 +106,9 @@ hide:
 | NBRI Garden | Lucknow | Medicinal plant research |
 
 ---
+
+
+### Comparative Matrix: Facility ↔ Location ↔ Type
 
 | Facility | Location | Type |
 |----------|----------|------|
@@ -98,6 +119,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Gene bank | 1. Seeds only |
@@ -106,6 +130,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. In-situ | 1. Captive breeding centre |
@@ -113,6 +140,9 @@ hide:
 | C. Cryobank | 3. Liquid nitrogen storage |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

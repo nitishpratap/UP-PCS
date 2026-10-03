@@ -39,12 +39,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Body ↔ Role
+
 | Body | Role |
 |------|------|
 | IPCC | **Science assessment** |
 | UNFCCC | **Treaty negotiations** |
 
 ---
+
+
+### Major Seaports & Coastal Trade Hubs
 
 | Report | Publisher |
 |--------|-----------|
@@ -53,12 +59,18 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Org ↔ Output
+
 | Org | Output |
 |-----|--------|
 | IUCN | **Red List** |
 | WWF | **Living Planet Report** |
 
 ---
+
+
+### Match Matrix: Report ↔ Organisation
 
 | List-I (Report) | List-II (Organisation) |
 | --- | --- |
@@ -69,6 +81,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. UNEP | 1. New York; HDR/HDI |
@@ -76,6 +91,9 @@ hide:
 | C. FAO | 3. Rome; SOFO |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -85,6 +103,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. GEO | 1. UNDP |
@@ -92,6 +113,9 @@ hide:
 | C. SOFO | 3. FAO |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

@@ -88,6 +88,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
+
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
 | *Harshacharita* | **Banabhatta** | Prose biography (*akhyayika*) of Harsha |
@@ -143,6 +146,9 @@ hide:
 
 ---
 
+
+### Match Matrix: House ↔ Seat
+
 | List-I (House) | List-II (Seat) |
 |---|---|
 | 1. Pushyabhuti | A. Valabhi |
@@ -152,6 +158,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Record ↔ Owner / Use
+
 | List-I (Record) | List-II (Owner / use) |
 |---|---|
 | 1. Banskhera | A. Harsha copper-plate with signature |
@@ -160,6 +169,9 @@ hide:
 | 4. Hathigumpha | D. Kharavela (not Harsha) |
 
 ---
+
+
+### Match Matrix: Term / Note ↔ Meaning
 
 | List-I (Term / note) | List-II (Meaning) |
 |---|---|

@@ -23,6 +23,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Concept A ↔ Concept B ↔ Core Distinguishing Fact
+
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Pepsin** | **Trypsin** | Secreted by gastric chief cells, active in acidic pH (1.5–2.0) vs secreted by pancreas, active in alkaline duodenal pH (7.5–8.5) | पेप्सिन / ट्रिप्सिन |
@@ -150,6 +153,9 @@ hide:
 | 30 | Appendix = vestigial organ in large intestine; removed in appendicitis |
 
 ---
+
+
+### Match Matrix: Organ / Cell Type ↔ Key Secretion / Function
 
 | List-I (Organ / Cell Type) | List-II (Key Secretion / Function) |
 |---|---|

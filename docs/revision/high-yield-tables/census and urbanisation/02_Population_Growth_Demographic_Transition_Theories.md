@@ -21,6 +21,9 @@ hide:
 
 ---
 
+
+### Confusing Pairs & High-Frequency Traps
+
 | Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
 | :--- | :--- | :--- |
 | **Malthusian Theory (1798)**: Subsistence-based, biological food vs population ratio | **Optimum Population Theory (1924)**: Wealth-based, maximum per capita income ratio | **Trap**: Malthus focused on biological survival (food starvation); Edwin Cannan focused on *economic efficiency and highest per capita output*. |

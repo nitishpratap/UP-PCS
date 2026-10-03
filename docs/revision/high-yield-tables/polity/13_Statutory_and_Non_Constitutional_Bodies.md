@@ -33,6 +33,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Correct ↔ Hindi
+
 | A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
 | **Lokpal** | **Lokayukta** | Union, 2013 Act | State Act (UP **1975**) |
@@ -75,6 +78,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Cic ↔ Sic
+
 | | **CIC** | **SIC** |
 |--|---------|---------|
 | Appoint | **President**. Committee: **PM + LoP LS + a Union Cabinet Minister** | **Governor**. Committee: **CM + LoP + a Cabinet Minister** |
@@ -94,6 +100,9 @@ hide:
 | **Executive / extra-constitutional** | **Resolution / order** | **NITI, NDC, CBI, IB, RAW, ED, NSC**. **NIA** is the odd one: **statutory** terror agency parked here because the syllabus lists it with the police/intel set |
 
 ---
+
+
+### Major Seaports & Coastal Trade Hubs
 
 | Agency | Founded | Beat / role | Ministry / reporting line |
 |---|---|---|---|
@@ -161,6 +170,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. CVC selection | 1. PM, LoP, Union Cabinet Minister |
@@ -169,6 +181,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. NCW Act | 1. 1992 |
@@ -176,6 +191,9 @@ hide:
 | C. NCPCR | 3. 2005; children below 18 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

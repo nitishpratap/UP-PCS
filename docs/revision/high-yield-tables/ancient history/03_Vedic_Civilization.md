@@ -83,6 +83,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
+
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
 | *Ashtadhyayi* (अष्टाध्यायी) | **Panini** (पाणिनि) | Vyakarana; Classical Sanskrit grammar |
@@ -90,6 +93,9 @@ hide:
 | Chhanda / metre tradition | **Pingala** | Metre Vedanga |
 
 ---
+
+
+### Comparative Matrix: Ratnin ↔ Role
 
 | Ratnin (jewel-officer) | Role |
 |------------------------|------|
@@ -120,6 +126,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: God ↔ Approx. Rigvedic Hymns ↔ Role / Fact
+
 | God | Approx. Rigvedic hymns | Role / fact |
 |-----|------------------------|-------------|
 | **Indra** | **~250** (largest) | War god, rain-bringer, slayer of **Vritra**; called **Purandara** (fort-breaker) |
@@ -137,6 +146,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Veda ↔ Core Content ↔ Priest
+
 | Veda | Core content | Priest | Upaveda | Main Samhita(s) | Key Brahmana(s) | Structure fact |
 |------|--------------|--------|---------|-----------------|-----------------|----------------|
 | **Rigveda** | Oldest; hymns (*rik*) | **Hotri / Hota** | **Ayurveda** (often also linked Atharva) | Rigveda Samhita | **Aitareya**, Kausitaki | **1028** hymns; **~10552** verses (*richas*); **10** mandalas |
@@ -145,6 +157,9 @@ hide:
 | **Atharvaveda** | Spells, healing, household | **Brahman** (rite supervisor) | **Arthashastra** (अर्थशास्त्र) | Atharvaveda Samhita | **Gopatha** (only one) | **20** books; newest of the four; early **iron** hints |
 
 ---
+
+
+### Comparative Matrix: Brahmana ↔ Veda
 
 | Brahmana | Veda |
 |----------|------|
@@ -156,6 +171,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Vedanga ↔ Job ↔ Fact
+
 | Vedanga | Job | Fact |
 |---------|-----|------|
 | **Shiksha** | Phonetics | Pratishakhya texts |
@@ -166,6 +184,9 @@ hide:
 | **Jyotisha** | Ritual calendar / astronomy | Vedanga Jyotisha |
 
 ---
+
+
+### Comparative Matrix: Region ↔ Iron Age Marker ↔ Period Fact
 
 | Region | Iron Age marker | Period fact |
 |--------|-----------------|-------------|
@@ -190,6 +211,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Rigveda | 1. Musical hymns |
@@ -198,6 +222,9 @@ hide:
 | D. Atharvaveda | 4. Hymns and prayers |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |---|---|
@@ -208,6 +235,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |---|---|
 | A. Kubha | 1. Gandak |
@@ -217,6 +247,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Assembly / Official ↔ Role
+
 | List-I (Assembly / Official) | List-II (Role) |
 |---|---|
 | 1. Sabha | A. Collects king’s share (bhaga) |
@@ -225,6 +258,9 @@ hide:
 | 4. Akshavapa | D. Dice / gambling officer |
 
 ---
+
+
+### Match Matrix: Term ↔ Meaning
 
 | List-I (Term) | List-II (Meaning) |
 |---|---|

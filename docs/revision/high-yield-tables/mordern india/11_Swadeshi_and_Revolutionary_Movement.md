@@ -163,6 +163,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Abhinav Bharat | 1. Shyamji Krishna Varma |
@@ -171,6 +174,9 @@ hide:
 | D. Berlin Committee | 4. Wartime Europe plot, 1915 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|
@@ -181,6 +187,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|---------|
 | A. Shahjahanpur | 1. Bismil hanged |
@@ -189,6 +198,9 @@ hide:
 | D. Alfred Park, Allahabad | 4. Azad died, 27 Feb 1931 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|---------|

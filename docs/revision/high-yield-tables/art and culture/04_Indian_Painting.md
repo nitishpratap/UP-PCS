@@ -55,6 +55,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Meaning
+
 | Term | Meaning |
 |------|---------|
 | 1. Fresco | Pigment on wet plaster |
@@ -63,6 +66,9 @@ hide:
 | 4. Miniature | Wall or ceiling paint integral to a building |
 
 ---
+
+
+### Comparative Matrix: School / Centre ↔ Marker
 
 | School / centre | Marker |
 |-----------------|--------|
@@ -73,6 +79,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Artist / Group ↔ Tag
+
 | Artist / group | Tag |
 |----------------|-----|
 | 1. Nandalal Bose | Haripura Congress panels; Constitution illumination |
@@ -81,6 +90,9 @@ hide:
 | 4. Mihr Chand | Lucknow / Company Kalam association |
 
 ---
+
+
+### Confusing Pairs & High-Frequency Traps
 
 | Pair | Correct distinction |
 |------|---------------------|

@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Concept A ↔ Concept B ↔ Core Distinguishing Fact
+
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Pedology** | **Edaphology** | Study of soil origin, morphology & pedogenesis vs study of soil's influence on living plants and crops | मृदा विज्ञान / एडाफोलॉजी |
@@ -169,6 +172,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Historical Theory / Concept ↔ Pioneer Scientist ↔ Landmark Work / Organism Studied
+
 | Historical Theory / Concept | Pioneer Scientist(s) | Landmark Work / Organism Studied |
 |-----------------------------|----------------------|----------------------------------|
 | **Theory of Mutation** | **Hugo de Vries** (1901) | Evening Primrose (*Oenothera lamarckiana*) |
@@ -182,6 +188,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Kingdom ↔ Cell Type ↔ Nuclear Envelope
+
 | Kingdom | Cell Type | Nuclear Envelope | Cell Wall | Mode of Nutrition | Key Examples |
 |---------|-----------|------------------|-----------|-------------------|--------------|
 | **Monera** | Prokaryotic | Absent | Non-cellulosic (Peptidoglycan / Murein) | Autotrophic (phototrophic/chemotrophic) or Heterotrophic (saprophytic/parasitic) | Bacteria, Cyanobacteria (BGA), Archaebacteria, *Mycoplasma* |
@@ -191,6 +200,9 @@ hide:
 | **Animalia** | Eukaryotic | Present | **Absent** | Heterotrophic (Holozoic / ingestion, saprozoic) | Sponges, Worms, Insects, Fish, Amphibians, Reptiles, Birds, Mammals |
 
 ---
+
+
+### Comparative Matrix: Feature ↔ Prokaryotic Cell ↔ Eukaryotic Cell
 
 | Feature | Prokaryotic Cell (e.g. Bacteria, BGA) | Eukaryotic Cell (e.g. Plant, Animal, Fungi) |
 |---------|--------------------------------------|---------------------------------------------|
@@ -205,6 +217,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Character ↔ Dominant Trait ↔ Recessive Trait
+
 | Character | Dominant Trait (प्रभावी) | Recessive Trait (अप्रभावी) | Chromosome Location |
 |-----------|------------------------|---------------------------|---------------------|
 | **Stem Height** | Tall ($T$) | Dwarf ($t$) | Chromosome 4 |
@@ -216,6 +231,9 @@ hide:
 | **Seed Colour (Cotyledon)** | Yellow ($Y$) | Green ($y$) | Chromosome 1 |
 
 ---
+
+
+### Comparative Matrix: Disorder ↔ Inheritance Pattern ↔ Molecular Cause / Biochemical Defect
 
 | Disorder | Inheritance Pattern | Molecular Cause / Biochemical Defect | Clinical Symptoms |
 |----------|-------------------|--------------------------------------|-------------------|
@@ -308,6 +326,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Scientist ↔ Discovery / Concept
+
 | List-I (Scientist) | List-II (Discovery / Concept) |
 |---|---|
 | A. Robert Hooke | 1. Identified ribosomes |
@@ -316,6 +337,9 @@ hide:
 | D. Rudolf Virchow | 4. Coined the word cell from cork |
 
 ---
+
+
+### Match Matrix: Biotechnology Product / Tool ↔ Key Association / Feature
 
 | List-I (Biotechnology Product / Tool) | List-II (Key Association / Feature) |
 |---|---|

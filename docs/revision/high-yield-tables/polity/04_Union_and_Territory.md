@@ -68,6 +68,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Art. ↔ Subject ↔ Elaboration
+
 | Art. | Subject | Elaboration |
 |------|---------|-------------|
 | **1** | Name and territory | India, that is Bharat, shall be a **Union of States**. First Schedule = names & territorial extent of States/UTs. |
@@ -106,6 +109,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ut Type ↔ Uts ↔ Political Executive
+
 | UT type | UTs | Political executive |
 |---------|-----|---------------------|
 | **No** legislature | Andaman & Nicobar; Chandigarh; DNH & DD; Lakshadweep; **Ladakh** | President → Administrator / LG only |
@@ -137,6 +143,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Art. ↔ Subject ↔ Elaboration
+
 | Art. | Subject | Elaboration |
 |------|---------|-------------|
 | **5** | Citizenship at commencement | Domiciled in India + (born in India **or** either parent born in India **or** ordinarily resident **5 years** before commencement). |
@@ -159,6 +168,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Mode ↔ Who / How ↔ Fact
+
 | Mode | Who / how | Fact |
 |------|-----------|------|
 | **Renunciation (s. 8)** | Voluntary declaration by an Indian citizen of **full age and capacity** who is also a citizen of another country | Minor children **also lose**; child may **resume** Indian citizenship within **1 year of turning 18** |
@@ -176,6 +188,9 @@ hide:
 | **OCI** | Foreign citizen registered as Overseas Citizen of India (2005 scheme; s. 7A) | Foreign | **No** vote; **no** LS/RS/Assembly; **no** constitutional posts (President, VP, Judge, etc.); **no** public employment as of right | **Not dual citizenship.** Lifelong multi-entry visa; parity with NRIs in specified economic/education matters. Eligible to **register as citizen** after 5 years OCI + 1 year residence |
 
 ---
+
+
+### Comparative Matrix: Cue ↔ Fact
 
 | Cue | Fact |
 |------|------|
@@ -201,6 +216,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Union Territories ↔ Years Of Creation
+
 | Union Territories | Years of Creation |
 |---|---|
 | A. Lakshadweep | (i) 1961 |
@@ -209,6 +227,9 @@ hide:
 | D. Dadra and Nagar Haveli | (iv) 1956 |
 
 ---
+
+
+### Match Matrix: State ↔ Year
 
 | List-I (State) | List-II (Year) |
 |---|---|
@@ -219,6 +240,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Article 239 |
@@ -227,6 +251,9 @@ hide:
 | D | Article 1 |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -237,6 +264,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | 9th Amendment |
@@ -245,6 +275,9 @@ hide:
 | D | 69th Amendment |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|
@@ -255,6 +288,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Code ↔ Item
+
 | Code | Item |
 |------|------|
 | A | Dhar Commission |
@@ -263,6 +299,9 @@ hide:
 | D | Sikkim special provision |
 
 ---
+
+
+### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
 |------|------|

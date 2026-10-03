@@ -40,12 +40,18 @@ hide:
 
 ---
 
+
+### Major Seaports & Coastal Trade Hubs
+
 | Report | Year | Tone |
 |--------|------|------|
 | Gadgil WGEEP | **2011** | Stronger ESZ / conservation |
 | Kasturirangan HLWG | **2013** | Narrower ESA / moderated |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -55,6 +61,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Bishnoi | 1. 1973 |
@@ -63,6 +72,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Medha Patkar | 1. Appiko |
@@ -70,6 +82,9 @@ hide:
 | C. Amrita Devi | 3. Bishnoi/Khejarli |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

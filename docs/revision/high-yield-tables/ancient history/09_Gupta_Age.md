@@ -41,6 +41,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: King ↔ Tag
+
 | King | Tag |
 |------|-----|
 | Chandragupta I | First **Maharajadhiraja**; Kumaradevi; era ~**319–320** |
@@ -63,6 +66,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Lock
+
 | Term | Lock |
 |------|------|
 | Sandhivigrahika | Peace and war |
@@ -81,6 +87,9 @@ hide:
 | Vishnugopa | **Kanchi** (कांची) |
 
 ---
+
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -117,6 +126,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Level ↔ Unit ↔ Officer
+
 | Level | Unit | Officer |
 |-------|------|---------|
 | Empire | | Maharajadhiraja |
@@ -126,6 +138,9 @@ hide:
 | Village | **Grama** | **Gramika** / *ashtakuladhikarana* |
 
 ---
+
+
+### Comparative Matrix: Record ↔ Ruler ↔ Fact
 
 | Record | Ruler | Fact |
 |--------|-------|------|
@@ -139,6 +154,9 @@ hide:
 | **Mandasor / Dashpur** | Kumaragupta age / silk weavers | Sun temple; Bandhuvarman. Yashodharman’s later Huna boast is a different Mandasor text |
 
 ---
+
+
+### Comparative Matrix: Type ↔ Usual King
 
 | Type | Usual king |
 |------|------------|
@@ -155,6 +173,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: University ↔ Region ↔ Founder / Patron Fact
+
 | University | Region | Founder / patron fact |
 |------------|--------|------------------------|
 | **Takshashila** | Gandhara | Pre-Mauryan teaching town; Panini grammar |
@@ -163,6 +184,9 @@ hide:
 | **Vallabhi** | Gujarat | **Maitraka**; Jain Svetambara council |
 
 ---
+
+
+### Comparative Matrix: Gem ↔ Field
 
 | Gem | Field |
 |-----|-------|
@@ -177,6 +201,9 @@ hide:
 | **Vetala Bhatta** (वेताल भट्ट) | Magic / counsel |
 
 ---
+
+
+### Comparative Matrix: Writer ↔ Book
 
 | Writer | Book |
 |--------|------|
@@ -229,6 +256,9 @@ hide:
 
 ---
 
+
+### Match Matrix: King ↔ Tag
+
 | List-I (King) | List-II (Tag) |
 |---|---|
 | 1. Samudragupta | A. Sakari; ends Western Kshatrapas |
@@ -238,6 +268,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Author / Work ↔ Fact
+
 | List-I (Author / work) | List-II (Fact) |
 |---|---|
 | 1. Kalidasa | A. Shringara Shataka |
@@ -246,6 +279,9 @@ hide:
 | 4. Jayadeva | D. Gita Govinda |
 
 ---
+
+
+### Match Matrix: South / Frontier Match ↔ Place
 
 | List-I (South / frontier match) | List-II (Place) |
 |---|---|

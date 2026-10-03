@@ -50,6 +50,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Ifa Class ↔ Protection Level
+
 | IFA class | Protection level |
 |-----------|------------------|
 | **Reserved Forest** | Strictest — hunting, grazing, felling banned unless permitted |
@@ -57,6 +60,9 @@ hide:
 | **Unclassed Forest** | Not yet formally classified |
 
 ---
+
+
+### Comparative Matrix: Champion & Seth Type ↔ Key Region
 
 | # | Champion & Seth type | Key region |
 |---|----------------------|------------|
@@ -79,6 +85,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Up Region ↔ Forest Type ↔ Key Districts
+
 | UP region | Forest type | Key districts |
 |-----------|-------------|---------------|
 | Terai-Duar | Tropical Moist Deciduous | Pilibhit, Bahraich, Shravasti |
@@ -86,6 +95,9 @@ hide:
 | Bundelkhand | Thorn / Dry Deciduous | Jhansi, Banda, Lalitpur |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -95,6 +107,9 @@ hide:
 
 ---
 
+
+### Match Matrix: Up Belt ↔ Details
+
 | List-I (UP belt) | List-II |
 |------------------|--------|
 | A. Terai | 1. Thorn |
@@ -103,6 +118,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. FCA | 1. 2006 |
@@ -110,6 +128,9 @@ hide:
 | C. CAMPA Act | 3. 2016 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|

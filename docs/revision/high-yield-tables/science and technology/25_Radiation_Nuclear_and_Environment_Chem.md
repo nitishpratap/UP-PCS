@@ -25,6 +25,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Confused Pair ↔ Concept A ↔ Concept B
+
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
 | **Atomic Bomb vs. Hydrogen Bomb** | **Atomic Bomb**: Operates strictly on **Nuclear Fission** (splitting $^{235}U$ or $^{239}Pu$). Critical mass trigger. | **Hydrogen Bomb**: Operates on **Nuclear Fusion** (joining $^2H + {}^3H \to {}^4He$). Requires an internal fission atomic bomb as an ignition trigger. | **Energy Mechanism**: Atomic bomb = Fission; Hydrogen bomb = Thermonuclear Fusion (triggered by a fission core). |

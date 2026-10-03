@@ -135,6 +135,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Monument / Phase ↔ Tag
+
 | Monument / phase | Tag |
 |------------------|-----|
 | 1. Alai Darwaza | Khalji gateway at the Qutub complex |
@@ -143,6 +146,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Term ↔ Meaning
+
 | Term | Meaning |
 |------|---------|
 | 1. Zabt | Measured land assessment |
@@ -150,6 +156,9 @@ hide:
 | 3. Mansab | Originally a fully hereditary landed title like a European peerage |
 
 ---
+
+
+### Comparative Matrix: Item ↔ Tag
 
 | Item | Tag |
 |------|-----|

@@ -68,6 +68,9 @@ hide:
 
 ---
 
+
+### National Parks, Wildlife Sanctuaries & Biosphere Reserves
+
 | Feature | Wildlife Sanctuary | National Park |
 |---------|-------------------|---------------|
 | **WPA section** | Sec 18–27 | Sec 35 |
@@ -78,6 +81,9 @@ hide:
 | **Strictness** | Moderate (नरम दल) | **Highest** among WPA terrestrial PAs |
 
 ---
+
+
+### Comparative Matrix: Biosphere Reserve ↔ State
 
 | # | Biosphere Reserve | State(s) |
 |---|-------------------|----------|
@@ -102,6 +108,9 @@ hide:
 
 ---
 
+
+### Comparative Matrix: Category ↔ Wpa Section Teaching
+
 | Category | WPA section teaching |
 |----------|----------------------|
 | 1. Wildlife Sanctuary | Section 18 |
@@ -109,6 +118,9 @@ hide:
 | 3. Tiger Reserve | Section 38V (2006 path) |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
@@ -118,6 +130,9 @@ hide:
 
 ---
 
+
+### High-Yield Match Matrix (List-I ↔ List-II)
+
 | List-I | List-II |
 |--------|--------|
 | A. Ramsar Convention | 1. 1982 |
@@ -125,6 +140,9 @@ hide:
 | C. WPA | 3. 1972 |
 
 ---
+
+
+### High-Yield Match Matrix (List-I ↔ List-II)
 
 | List-I | List-II |
 |--------|--------|
