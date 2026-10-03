@@ -3858,8 +3858,14 @@
     // Event listeners
     document.getElementById('st-btn-plus-one')?.addEventListener('click', () => handleQuickPlusOne(topicInfo));
     document.getElementById('st-btn-quick-update')?.addEventListener('click', () => openChapterLogsModal(topicInfo));
-    document.getElementById('st-btn-start-test')?.addEventListener('click', () => openTestEngineModal(topicInfo));
-    document.getElementById('st-btn-all-questions')?.addEventListener('click', () => openTestEngineModal(topicInfo, { autoStartCount: 'all', testMode: 'exam' }));
+    document.getElementById('st-btn-start-test')?.addEventListener('click', () => {
+      const opts = topicInfo.isRevision ? { isMasteryGate: true, targetAccuracy: 100, testMode: 'exam' } : {};
+      openTestEngineModal(topicInfo, opts);
+    });
+    document.getElementById('st-btn-all-questions')?.addEventListener('click', () => {
+      const opts = topicInfo.isRevision ? { isMasteryGate: true, targetAccuracy: 100, autoStartCount: 'all', testMode: 'exam' } : { autoStartCount: 'all', testMode: 'exam' };
+      openTestEngineModal(topicInfo, opts);
+    });
     document.getElementById('st-btn-quick-10')?.addEventListener('click', () => openTestEngineModal(topicInfo, { autoStartCount: 10 }));
     document.getElementById('st-btn-view-scores')?.addEventListener('click', () => openPastScoresModal(topicInfo));
     document.getElementById('st-btn-view-mistakes')?.addEventListener('click', () => openTrapRadarModal(topicInfo));
