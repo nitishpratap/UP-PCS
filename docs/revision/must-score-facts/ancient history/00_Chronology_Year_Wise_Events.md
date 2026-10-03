@@ -29,13 +29,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **Chandragupta Maurya = Chandragupta I** → different dynasties.
-2. **Fa-Hien = Harsha** → Fa-Hien is Gupta-age; Xuanzang is Harsha-age.
-3. **Alexander after Chandragupta** → Alexander **before** Mauryan foundation.
-4. **Kanishka = Gupta** → Kushana, not Gupta.
-5. **First Buddhist Council under Ashoka** → First is Rajagriha; Ashoka linked to the Third.
-6. **Saka Era = 57 BCE** → **78 CE**; Vikrama is **57 BCE**.
-7. **Kalinga War = 185 BCE** → **c. 261 BCE**; 185 is Mauryan end.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Early Vedic | Later Vedic | Pastoral Rigvedic Jana vs territorial janapadas / iron | ऋग्वैदिक / उत्तर वैदिक |
+| Mahavira | Buddha | 24th Jain Tirthankara vs Buddhism’s founder | महावीर / बुद्ध |
+| Chandragupta Maurya | Chandragupta I | Maurya founder vs Gupta dynasty starter | मौर्य / गुप्त |
+| Fa-Hien | Xuanzang | Gupta-age pilgrim vs Harsha-age pilgrim | फाह्यान / ह्वेनसांग |
+| Vikrama Era 57 BCE | Saka Era 78 CE | Calendar eras often matched wrongly | विक्रम / शक |
+| Kanishka | Samudragupta | Kushana emperor vs Gupta conqueror | कनिष्क / समुद्रगुप्त |
+| Kalinga War | First Buddhist Council | Ashoka’s war vs Ajatashatru-era council | कलिंग / प्रथम संगीति |
 
 
 ---

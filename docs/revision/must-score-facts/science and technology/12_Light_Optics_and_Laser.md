@@ -54,21 +54,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-1. **Focal Length of Plane Mirror**: Plane mirror focal length is **Infinite ($\infty$)**, NOT zero! Its optical power is zero.
-2. **Air Bubble in Water**: An air bubble in water looks convex but acts as a **concave (diverging) lens** because light moves from a denser medium ($\mu=1.33$) into rarer air ($\mu=1.0$).
-3. **Frequency Never Changes**: When light refracts into a new medium, **frequency remains constant**. Speed and wavelength change proportionally.
-4. **Rainbow at Noon Trap**: A rainbow **cannot be seen at 12 noon** because rainbows require the Sun to be at the observer's back and lower than $42^\circ$ elevation.
-5. **Myopia vs Hypermetropia Lens**:
-   - **Myopia** $\implies$ **Concave lens** (diverging, minus power).
-   - **Hypermetropia** $\implies$ **Convex lens** (converging, plus power).
-6. **Mirror Height for Full View**: The required mirror height is **half the person's height ($H/2$)**, independent of distance from the mirror.
-7. **Color TV Pixels**: Uses **Red, Green, Blue (RGB)** additive lights, NOT Red, Yellow, Blue.
-8. **Soap Bubble / Film Colors**: Caused by **interference**, NOT dispersion or prism refraction!
-9. **Eye Sensitivity**: The human eye is most sensitive to **yellowish-green ($555\text{ nm}$)**, NOT red or blue.
-10. **Telescope Aperture and Resolution**: Larger objective lens aperture **increases resolution and light-gathering power**, decreasing diffraction blur.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Concave vs Convex Mirror Uses** | **Concave mirror**: Shaving, dentist, car headlight (produces magnified erect image up close, parallel beam at focus). **Convex mirror**: Automobile rear-view mirror (erect, diminished, wide field of view). |
+| **Myopia vs Hypermetropia** | **Myopia (Near-sightedness)**: Can see near, cannot see far; image formed *in front of retina*; corrected by **Concave lens**. **Hypermetropia (Far-sightedness)**: Can see far, cannot see near; image formed *behind retina*; corrected by **Convex lens**. |
+| **Air Bubble in Water** | Physically shaped as a convex sphere, but optically behaves as a **diverging / concave lens** because light travels through water ($\mu=1.33$) into air ($\mu=1.0$). |
+| **Additive vs Subtractive Colors** | **Additive (Light)**: Red + Green + Blue = **White**. **Subtractive (Pigments/Paint)**: Cyan + Magenta + Yellow = **Black**. |
+| **Rayleigh Scattering vs Dispersion** | **Scattering**: Redirection of light in all directions by particles smaller than $\lambda$ ($I \propto 1/\lambda^4$; makes sky blue). **Dispersion**: Splitting of white light into constituent wavelengths by refraction in a prism or raindrop. |
+| **Rainbow at Noon** | Rainbow is formed directly opposite the Sun. At 12:00 noon, the Sun is directly overhead; therefore, a natural rainbow **cannot be seen**. |
 
 
 ---

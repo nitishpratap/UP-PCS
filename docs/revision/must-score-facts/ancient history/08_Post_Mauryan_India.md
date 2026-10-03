@@ -54,50 +54,26 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Kushans before Shakas** (2023 B) → Greeks → Sakas → Kushans.
-2. **Hathigumpha = Ashoka / Kanishka / Harsha** → **Kharavela**.
-3. **Pushyamitra ashwamedha = Besnagar / Hathigumpha** → **Ayodhya**.
-4. **Satavahanas = Sanskrit-first / gold coins** → **Prakrit**; metals include lead/copper/silver/potin, **not gold**.
-5. **Karikala = Rajaraja I** → Sangam vs imperial Chola.
-6. **Mahendravarman = Chola** → **Pallava** (2025).
-7. **Rajaraja = Pallava** → **Chola**.
-8. **Shaka era = 57 BCE** → **78 CE**; Vikrama = 57 BCE; difference **135**.
-9. **Patanjali = Kanishka court** → **Shunga** / *Mahabhashya*.
-10. **Rabatak lists Shravasti** → Saketa, Kaushambi, Pataliputra, Champa — **not Shravasti**.
-11. **Sudarshana founded by Rudradaman** → built under Chandragupta; repaired **without forced labour**.
-12. **Vima = copper only / Kujula = gold** → reverse: Vima = gold; Kujula = copper.
-13. **Milinda contemporary of Bimbisara** → Indo-Greek, centuries later.
-14. **Strato II = silver only** → remembered for **lead**.
-15. **Satavahana capital = only Amaravati** → lasting capital **Pratishthana**.
-16. **Ekabrahmana = Pushyamitra** → **Gautamiputra Satakarni**.
-17. **Kushan navy explains Red Sea trade** → trade yes; navy claim false.
-18. **Gandhara = red sandstone** → **green schist**; Mathura = red sandstone.
-19. **Hathigumpha = Khandagiri** → **Udayagiri** (18 caves); Khandagiri has 15.
-20. **Yaudheya coins = Vasudeva** → **Kartikeya** + peacock.
-21. **Kadungon = Rashtrakuta** → **Pandya**.
-22. **Milinda’s monk = Nagarjuna** → **Nagasena**.
-23. **Gondophares = Kushan** → **Parthian**.
-24. **Purushapura = Mathura** → Peshawar main; Mathura second.
-25. **Muvendar includes Pallava** → Chera, Chola, Pandya only.
-26. **Akam = war** → Akam = love; Puram = war.
-27. **Junagadh = Hathigumpha** → Gujarat Shaka vs Odisha Kalinga.
-28. **Simuka = Kushan founder** → Satavahana; Kushan founder = **Kujula**.
-29. **Fourth Council = Ashoka** → **Kanishka** / Kashmir; Ashoka = Third.
-30. **Heliodorus = Pushyamitra’s ashwamedha clerk** → Bhagavata envoy of Antialcidas.
-31. **Sangam = Satavahana dynasty** → Tamil literary age; different house.
-32. **Kon / Ko / Mannan = minister** → **king**.
-33. **Third Sangam president = Agastya** → **Nakkirar**; First/Second = Agastya tradition.
-34. **Yavanapriya = muslin / ivory** → **pepper**.
-35. **Poduke = Tamralipti** → **Arikamedu**.
-36. **Uraiyur = pepper / Pandya capital** → Sangam **Chola** capital and **cotton** centre.
-37. **Kadamba / Pallava = Sangam Muvendar** → Chera, Chola, Pandya only.
-38. **Vattakirutal = peaceful court debate** → defeated king’s **fast unto death**.
-39. **Pandya river = Godavari / Krishna Vengi** → **Vaigai** core (MCQ “Vengi” ≠ Eastern Chalukya Vengi).
-40. ***Tolkappiyam* = astronomy / law code** → **grammar and poetry**.
-41. ***Silappadikaram* = Sattanar** → **Ilango Adigal**; Sattanar = *Manimekalai*.
-42. ***Kural* = Greek / Telugu** → **Tamil**; Laghuveda / Muppal by Tiruvalluvar.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Indo-Greek | Shaka | Hellenistic **Menander** vs Central Asian **Maues / Rudradaman** | इंडो-ग्रीक / शक |
+| Shaka | Kushan | After Greeks, before Kushan vs **Kanishka** empire | शक / कुषाण |
+| Shunga | Satavahana | Magadha **north** vs Deccan **Andhra** | शुंग / सातवाहन |
+| Kharavela | Rudradaman | **Hathigumpha** Kalinga vs **Junagadh** Shaka | खारवेल / रुद्रदामन |
+| Ayodhya inscription | Besnagar pillar | Pushyamitra **ashwamedha** vs Heliodorus **Bhagavata** | अयोध्या / बेसनगर |
+| Vikrama 57 BCE | Shaka 78 CE | Traditional Vikramaditya vs **Kanishka-era** count | विक्रम / शक |
+| Karikala | Rajaraja I | Sangam Chola, **Kallanai** vs imperial Chola, **Thanjavur** | करिकाल / राजराज |
+| Mahendravarman I | Rajaraja I | **Pallava** vs **Chola** (2025 swap trap) | महेन्द्रवर्मन / राजराज |
+| Kadungon | Amoghavarsha I | **Pandya** revival vs **Rashtrakuta** | कडुंगों / अमोघवर्ष |
+| Akam | Puram | Inner **love** poetry vs outer **war / kingship** | अकम् / पुरम् |
+| Gandhara art | Amaravati art | Kushan NW Greco-Buddhist vs Satavahana **Andhra** limestone | गांधार / अमरावती |
+| Sangam Chola | Imperial Chola | Karikala age vs 9th–11th c. revival | संगम चोल / साम्राज्य चोल |
+| Muvendar | Satavahana | Chera-Chola-Pandya vs north-Deccan **Andhra** house | मुवेन्दर / सातवाहन |
+| Nahapana | Rudradaman | Kshaharata, beaten by Gautamiputra vs Kardamaka, Junagadh | नहपान / रुद्रदामन |
+| Purushapura | Mathura | Kushan **main** capital vs **second** Indian capital | पुरुषपुर / मथुरा |
+| Vaigai (Pandya) | Vengi (Andhra) | Madurai Pandya river vs Eastern Chalukya capital **Pedavegi** near **Eluru** | वैगई / वेंगी |
+| Arikamedu / Poduke | Tamralipti | Coromandel Roman station vs Ganga-mouth Bay port | अरिकामेडु / ताम्रलिप्ति |
+| Muvendar | Pallava / Kadamba | Sangam trio only vs later Kanchi / Vanavasi houses | मुवेन्दर / पल्लव–कदम्ब |
 
 
 ---

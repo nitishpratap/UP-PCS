@@ -54,20 +54,11 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-
-1. **Pepsin vs trypsin**: Pepsin works in **acidic** stomach; trypsin in **alkaline** duodenum.
-2. **Bile**: Emulsifies fats — it is **not** an enzyme.
-3. **Largest digestive gland**: **Liver**; pancreas is mixed exo/endocrine.
-4. **Oxygen transport**: Most O2 travels as **oxyhaemoglobin**; most CO2 as **bicarbonate**.
-5. **Inspiration vs expiration**: Inspiration is active (diaphragm contracts); quiet expiration is largely passive.
-6. **Urea vs uric acid vs ammonia**: Mammals = urea; birds/reptiles = uric acid; many aquatic animals = ammonia.
-7. **Nephron filtrate**: Ultrafiltration at **glomerulus**; major reabsorption in **proximal tubule**.
-8. **Dialysis**: Artificial kidney removes urea — it does **not** replace hormone functions of the kidney.
-9. **Salivary enzyme**: Ptyalin (salivary amylase) digests **starch**, not protein.
-10. **HCl role**: Activates pepsinogen and kills microbes — protein digestion enzyme is pepsin, not HCl itself.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2024** | UKPCS tested agent class utilized as an **immunosuppressor in kidney transplantation**. | Keyed answer: **Monoclonal antibodies** (e.g. Basiliximab / Daclizumab) and calcineurin inhibitors (Cyclosporine A), preventing allograft organ rejection; antibiotics do not prevent graft rejection. |
+| **Still Current** | **Kidney stone composition in India**: Over **80% of urinary calculi** are composed of insoluble **Calcium Oxalate ($CaC_2O_4$) crystals**, followed by calcium phosphate and uric acid. | Dietary facts: Foods rich in oxalates (tomatoes, spinach, beetroot, chocolate) accelerate stone formation in genetically prone individuals. |
+| **Still Current** | Medical device fact: **Haemodialysis machine ("Artificial Kidney")** operates on the physical principle of **Dialysis across a semi-permeable cellophane membrane**. | Patient's blood is drawn from an artery, mixed with anticoagulant **Heparin**, filtered against dialyzing fluid, rewarmed, and reinfused with **Anti-heparin** into a vein. |
 
 
 ---

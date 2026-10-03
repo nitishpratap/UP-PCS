@@ -54,42 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Edaphic = climate** — FALSE. Edaphic = **soil**.
-2. **Black soil in Himalaya** — FALSE. **Deccan Trap / regur**.
-3. **Laterite poor in Fe/Al** — FALSE. **Rich** in Fe/Al.
-4. **Every red soil is laterite** — FALSE. Laterite needs hot-wet extreme leaching.
-5. **Khadar has more kankar** — FALSE. **Bangar** is the kankar-heavy fact.
-6. **Gypsum for acid soils** — FALSE. **Lime** for acid; **gypsum** for alkali/sodic.
-7. **Irrigation alone cures usar** — FALSE. Needs **drainage** (else more reh).
-8. **Mitti Bachao = Darbhanga** — FALSE. **Hoshangabad, MP**.
-9. **World Soil Day = 5 June** — FALSE. **5 December**; 5 June = Environment Day.
-10. **UP = black-soil state** — FALSE. ~**90% alluvial**; black mainly Bundelkhand Mar/Kabar.
-11. **Mar = Bundelkhand red** — FALSE. Mar/Kabar = **black**; Parua/Rakar = **red**.
-12. **Bhabar = best rice soil** — FALSE. Pebbly/poor; streams vanish; **Tarai** re-emerges and is moist fertile.
-13. **Shelter belt stops gullies** — FALSE. Shelter belt = **wind**; check dams = gullies.
-14. **Terra Roxa = Indian regur** — FALSE. **Brazil** basaltic coffee soil.
-29. **Contour bunding = desert margins / flood plains** — FALSE. Classic use = **hill / mountain slopes**.
-30. **Earthworms are bad for agriculture** — FALSE. They are **ecosystem engineers** that raise fertility.
-31. **Clay pores are large** — FALSE. Clay pores are **tiny**; that is why capillary climb and water holding are high.
-32. **Organic matter cuts water-holding capacity** — FALSE. OM usually **raises** water holding; irrigation can still **salinise** land.
-33. **Terra Rossa forms on granite** — FALSE. On **limestone / dolomite**.
-34. **Halophytes = acidic soils** — FALSE. **Saline** soils.
-15. **Earthworms have two pairs of hearts** — FALSE. Fertility statement alone is correct.
-16. **Alluvial always rich in phosphorus** — FALSE. Class 11 keys **rich potash, poor phosphorus**.
-17. **Karewa = Gangetic bangar** — FALSE. Kashmir **lacustrine**; saffron belt.
-18. **Rann salt = only canal usar** — FALSE. Rann crust is largely **SW monsoon** salt deposit.
-19. **Red soil is India’s largest group** — FALSE. **Alluvial** is largest.
-20. **Black soil covers 46 lakh km²** — FALSE. Keep **~16.6%**. The 46-lakh figure cannot fit India.
-21. **Alluvium is always rich in phosphorus** — FALSE. Follow **NCERT: poor P**.
-22. **Himalayan soil is equal on both faces** — FALSE. **North-facing** gentler slopes hold soil; south faces are often stripped.
-23. **IGC only blesses the desert** — FALSE. It can also **create usar** without drainage.
-24. **Lime reclaims usar** — FALSE. **Gypsum** for alkali/usar; **lime** for acid soils.
-25. **Laterite = Rajasthan / UP plain soil** — FALSE. Hot-wet Ghats / Malabar / plateau edges.
-26. **Erosion ladder starts at gully** — FALSE. **Splash → sheet → rill → gully → ravine**.
-27. **Black soil rich in humus** — FALSE. Suitable for cotton despite **low** N–P–humus.
-28. **Tea = alkaline / regur default** — FALSE. Prefers **slightly acidic**, drained soil.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **19 Feb 2015** | Soil Health Card launched at **Suratgarh, Rajasthan**; slogan **Swasth Dharaa, Khet Haraa**; 2015 = International Year of Soils | Scheme–place–slogan | PIB |
+| **2022–23 onward** | SHC merged into RKVY as **Soil Health and Fertility** | New name vs old scheme | PIB / DA&FW |
+| **Jul 2025** | **>25 crore** Soil Health Cards distributed; card reports **12 parameters** (N,P,K,S, Zn,Fe,Cu,Mn,B, pH, EC, OC) | Numbers / parameters | PIB Aug 2025 |
+| Ongoing | **WDC–PMKSY 2.0** = watershed soil–water conservation (not a soil-type topic) | Scheme vs conservation method | Jal Shakti (शक्ति) / DA&FW |
+| Static | World Soil Day (विश्व मृदा दिवस) **5 December** (UN;) | Date trap vs 5 June | UN / PYQ |
 
 
 ---

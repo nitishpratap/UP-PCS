@@ -54,66 +54,17 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-* HDI = **life + education + income** — not environment; post-2010 living standard = **GNI PPP** (not GDP).
-* First HDR **1990** (Haq); Priesner co-lead tag fails.
-* Measure order: **PCI → PQLI (Morris) → HDI**; Capability Approach = **Sen**.
-* GNH = **Bhutan**; Happiness Report rank ≠ HDI rank.
-* Kerala tops State HDI; Bihar usually bottom; first State HDR = **Madhya Pradesh (1995)**.
-* BNI = **26** indicators, **five** dimensions, 2012 & 2018.
-* GII introduced HDR **2010**; LEI bounds **85 / 20** (current).
-* Social indicators: **not size of house**.
-* Alagh = nutrition-exclusive line; Naoroji = jail cost of living.
-* Demographic dividend = **15–59** in UPPCS key (not 0–6 / 60+ / 14–50).
-* Natural growth = **CBR − CDR** (not migration); Great Divide = **1921**; sync Census = **1881**.
-* Density 2011: **Bihar** highest, **Arunachal** lowest; 2001 densest State was **West Bengal**.
-* Decadal growth 2001–11 ≈ **17.7%**; Meghalaya highest State growth; **Nagaland** negative.
-* Malthus: population **geometric**, food **arithmetic**; preferred check = birth control / moral restraint.
-* Standard of living ≠ demographic feature.
-* Urban share 2011 ≈ **31.1%**; most urbanized State **Goa**; least **Himachal**; largest urban absolute **Maharashtra**.
-* Census urban = ≥5,000 + ≥75% male non-agri + density ≥400 — **not** physical expansion.
-* Million+ cities: **35 (2001) → 53 (2011)**; Class I holds most urban population.
-* Cultural diversity / informal ties swap: diversity = urban; informal ties ≠ urban feature.
-* High rural living standards are **not** a cause of urbanization.
-* JNNURM = Dec **2005**, ~**7** years — not electrification-centred / not 10-year.
-* World Population Day = **11 July**; ~8 billion ≈ **Nov 2022**; India’s world share 2011 ≈ **17.5%**.
-* UNFPA = State of World Population; densest continent **Asia**; fastest growth continent **Africa**.
-* New Population Bomb = Third World **urban** surge; Folk–Urban Continuum = **Redfield** (Mexico).
-* Most populous Islamic country = **Indonesia**; Africa most populous = **Nigeria**; India FP programme **1952**.
-* World urban share mid-2010s ≈ **55%**; Asia fastest recent urbanization growth among regions.
-* Disguised ≠ seasonal; LFPR ≠ unemployment rate.
-* Human capital returns via **productivity** (education + health).
-* **Brundtland ≠ Limits to Growth**; Agenda 21 = **1992**, not 1995.
-* Social capital = **trust/harmony**; irrigation ≠ human capital.
-* Inclusive growth ≠ high NI growth alone; NBFC banking ≠ inclusive governance.
-* EKC = **inverted U**; Meadows horizon ≈ **100 years**.
-* HCI 2020 top = **Singapore**; India ≈ **116**.
-* Circular economy: less raw material + less waste → lower GHG.
-* ADP = **Jan 2018** / 112 districts; ABP = **Jan 2023** / 500 blocks — do not swap.
-* PM-JAY = **₹5 lakh per family** (not per person); implementer = **NHA**; launch Ranchi **2018**.
-* ABDM participation is **voluntary**; portability statement is the true one in the classic stem.
-* RSBY = **unorganised** BPL; now under PM-JAY umbrella teaching.
-* NRHM = **12 April 2005** / **Tenth** Plan; ASHA does **not** conduct deliveries as a standard job.
-* PMKVY = **MSDE** (not Labour); STRIDE ≠ skill scheme.
-* Ujjwala launch desk = **Ballia**; Saubhagya = **Power** ministry.
-* Bharat Nirman ≠ rural sanitation / SSA / hospitals; JJM ≠ AMRUT (rural taps vs urban mission).
-* Swadhar ≠ Swayam Siddha labels; JSY ≠ wage-loss reimbursement.
-* SGSY = **1999**; restructured as **NRLM (June 2011)** → **DAY-NRLM (Mar 2016)**; SHGs + skills — not free farm kits / new factories.
-* MGNREGA = **100 days per household** + **legal right**; force **2 Feb 2006** / 200 districts; rename **2 Oct 2009**.
-* SJSRY = **urban** (1 Dec 1997); excludes PMRY; Nehru Rozgar = three urban schemes.
-* CDP = **2 Oct 1952** / **S.K. Dey**; NES = **1953**.
-* APY: unorganised + spouse continuation; “only one member” false.
-* PM-SYM / Kisan Maan-dhan: **₹3,000** after 60; PM-SYM family pension = **spouse only**.
-* AABY = **2 Oct 2007** / rural landless; age **18–59** (not 30–65).
-* SBM = sanitation/ODF (**2014→2019** target) — not drinking-water aim; WaterCredit ≠ WHO/World Bank.
-* NSAP ≠ Mahila Kisan Sashaktikaran; RMSA ≠ employment programme.
-* Alagh calories = **2400 rural / 2100 urban**; Tendulkar ≈ **₹26/₹32**; Rangarajan ≈ **₹32/₹47** (not adopted as live official line).
-* Higher **Gini** = higher inequality; Lorenz shows distribution; Nurkse = vicious circle; Oscar Lewis = culture of poverty.
-* SVAMITVA = **Panchayati Raj** + drones + CORS (not Mines; CORS ≠ web CORS).
-* PMAY = Housing for All from **2015** toward **2022**; RAY = **slum-free India**; IAY → PMAY-G.
-* SSA **2001** (6–14); Samagra = **SSA + RMSA + TE**; MDM **1995** → **PM POSHAN 2021**.
-* MPLADS funds are **non-lapsable**; inspect ≥**10%** works; SAGY = **11 Oct 2014**.
-* Aadhaar first village = **Tembhli**; PURA = **Abdul Kalam**.
-* MPI **2010** ≠ $1/day line; HPI **1997** → MPI **2010**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025 (HDR)** | India’s HDI rank **130** (2023, HDR 2025); life expectancy rose from **58.6** (1990) to **72** (2023). | Rank / LE update stems. |
+| **2026 (WHR)** | World Happiness Report 2026: India ≈ **116th** (improving vs mid-120s earlier). | Happiness ≠ HDI; do not mix ranks. |
+| **2025** | MPI introduced **2010**; it is **not** the $1/day money line. | Income poverty ≠ MPI. |
+| **2025** | Social indicators of poverty include illiteracy, water, jobs — **not size of house**. | Quality of dwelling ≠ floor area. |
+| **2025** | First HDR/HDI **1990** (Mahbub ul Haq); “Haq + S. Priesner” team tag fails. | Sen/capability circle, not Priesner. |
+| **2025** | Human-capital investment yields future returns because education and health raise productivity. | A/R both true, R explains A. |
+| **2024** | HDI uses **income, education, life expectancy** — not environment condition. | Three-pillar trap. |
+| **2022** | Demographic dividend keyed to working-age **15–59** (Indian convention). | Not 60+, 0–6, or 14–50. |
+| **UKPCS 2025** | **Dadabhai Naoroji** used **jail cost of living** for an early poverty-line estimate. | Pre-Independence estimate tag. |
 
 
 ---

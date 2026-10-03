@@ -54,14 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **Tarain I = Ghori wins** → Prithviraj wins 1191; Ghori wins 1192.
-2. **Panipat I = Akbar** → Babur 1526; Akbar’s is Panipat II 1556.
-3. **Sher Shah after Akbar** → Sher Shah defeats Humayun before Akbar’s consolidation.
-4. **Shivaji crowned by Aurangzeb** → independent coronation at Raigad, 1674.
-5. **Khalsa founded by Guru Nanak** → Guru Gobind Singh, 1699.
-6. **Talikota = Mughal victory** → Deccan Sultanates vs Vijayanagara.
-7. **Third Battle of Panipat = Medieval** → **1761**, Modern India.
-8. **Iltutmish founded Sultanate** → **Aibak 1206**; Iltutmish consolidated.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Tarain 1191 | Tarain 1192 | Prithviraj victory vs Ghori’s decisive win | तराइन प्रथम / द्वितीय |
+| Panipat 1526 | Panipat 1556 | Babur vs Ibrahim Lodi / Akbar–Bairam vs Hemu | पानीपत प्रथम / द्वितीय |
+| Babur | Humayun | Founder vs son who lost and regained Delhi | बाबर / हुमायूँ |
+| Sher Shah | Islam Shah | Sur founder vs successor | शेरशाह / इस्लाम शाह |
+| Akbar | Aurangzeb | Sulh-i-Kul / expansion vs orthodoxy / Deccan drain | अकबर / औरंगज़ेब |
+| Shivaji 1674 | Khalsa 1699 | Maratha kingship vs Sikh Khalsa | शिवाजी / खालसा |
+| Vijayanagara 1336 | Bahmani 1347 | Hindu southern empire vs Deccan sultanate | विजयनगर / बहमनी |
 
 
 ---

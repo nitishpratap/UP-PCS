@@ -54,22 +54,11 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-(precedence traps)
-
-| Pair | Correct | Trap |
-|------|------------|------|
-| Precedence vs succession | **Ceremonial table only** | Treat rank 2 VP as automatic President-in-waiting for all purposes |
-| CJI vs Speaker | **Same rank — 6** | Call Speaker rank 7 or below Cabinet Ministers |
-| Former President vs CJI | **Former President = 5** (above 6) | Place ex-President below Speaker |
-| Governor vs PM | **PM = 3** always at Centre | Governor always outranks PM |
-| Governor “rank 4” | Only **within own State** | Same rank at an all-India Delhi function |
-| AG vs Cabinet Minister | **Cabinet Minister = 7**; **AG = 11** | AG outranks every Minister |
-| CEC / CAG vs SC judge | **SC judge = 9**; **CEC/CAG/UPSC = 9A** | Swap 9 and 9A |
-| Bharat Ratna | **7A** — after rank 7 block | Place with rank 1–3 |
-
-> **Logic:** Fact **6 = CJI + Speaker**; **11 = AG**; table is **ceremonial**, not constitutional hierarchy. Speaker detail also in **Topic 7 — Parliament**.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| 2022 | **Droupadi Murmu** elected **15th President** (took office 25 July 2022) | First **tribal** (दिकू) and **second woman** President; youngest to hold the office |
+| 2022 | Jagdeep Dhankhar sworn as **16th** Vice-President | Electoral college = **all** MPs (elected + nominated); States out |
+| 2025 | **C. P. Radhakrishnan** sworn as Vice-President | Continuity of Art. 64 / Art. 67 traps |
 
 
 ---
@@ -250,16 +239,21 @@ D. A false, R true
 </details>
 
 **Q12.**
-Consider the following statements in the context of the Attorney General of India. *(Statement text missing in source copy.)*
-A. Only 1 is correct
-B. Only 2 is correct
-C. Both 1 and 2 are correct
-D. Neither 1 nor 2 is correct
+With reference to the Attorney General for India, consider the following statements:
+1. He is appointed by the President and holds office during the pleasure of the President.
+2. He has the right to speak and take part in the proceedings of either House of Parliament, but has no right to vote.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Answer key not reproducible** — statements illegible in the source paper. Concept: AG = first law officer; SC-judge qualification; office **during pleasure**; speaks in both Houses without a vote.
+**Ans: C** — Both 1 and 2 are correct. Under Article 76, the Attorney General is appointed by the President and holds office during the President's pleasure. Under Article 88, he has the right to speak and participate in parliamentary proceedings without the right to vote.
 
 </details>
 
@@ -279,16 +273,17 @@ D. Neither 1 nor 2
 </details>
 
 **Q14.**
-Who was the UPA candidate for the 2017 Presidential election?
-A. Ms. Meira Kumar
-B. Mr. Gopal Krishna Gandhi (गांधी)
-C. Dr. Karan Singh
-D. None of the above
+Under which Article of the Constitution of India is the President empowered to promulgate Ordinances during the recess of Parliament?
+
+A. Article 123
+B. Article 213
+C. Article 352
+D. Article 143
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — Meira Kumar** (lost to Ram Nath Kovind). Gopal Krishna Gandhi was the opposition VP candidate that year.
+**Ans: A** — Article 123 empowers the President to promulgate Ordinances when either House of Parliament is not in session. Article 213 confers similar powers on the Governor.
 
 </details>
 

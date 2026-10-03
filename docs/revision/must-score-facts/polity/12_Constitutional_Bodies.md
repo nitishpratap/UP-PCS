@@ -54,51 +54,17 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| ECI elects the Speaker | **House** elects |
-| ECI runs municipal / PRI polls | **SEC** |
-| CEC and ECs removed the same way | Only **CEC** = SC-judge path; EC needs **CEC’s recommendation** |
-| 2023 ECI panel includes the CJI | **CJI out**; Cabinet Minister in |
-| First CEC = S.P. Sen / T.N. Seshan | **Sukumar Sen**. Seshan = famous, not first |
-| First woman CEC = Gopala / Navin Chawla | **V.S. Ramadevi**, 1990 |
-| UPSC functions = Constitution only | **Four** sources (2024) |
-| UPSC advice is binding | **Not** |
-| Governor removes SPSC members | **President** |
-| President extends UPPSC functions | **State Legislature** |
-| FC = Chair + six; report to NITI | **+ four**; **President** |
-| FC = Art. 263 | **280** |
-| CAG report → Estimates Committee | **PAC** |
-| CAG is a UK-style Comptroller | Indian CAG **audits after** spend |
-| AG removed like an SC judge | **Pleasure** of President |
-| AG = Part XIII | **Part V** |
-| SG is a constitutional office | **No** |
-| AdvG = Art. 76 | **165** |
-| 350B = one officer per State; 9th Amd | **One** for India; **7th** Amd |
-| GST Council chaired by PM | **Union FM** |
-| ECI decides President-election disputes | **Art. 71 — SC** |
-| ECI = Delimitation Commission | **Separate** statutory body |
-| UPSC Chair can take a State job later | **319: no** further Union **or** State office |
-| Governor removes UPPSC members | **President** |
-| CAG = Accountant General = Advocate General | CAG’s field officer ≠ **165** |
-| Form of accounts is Finance Ministry alone | President on **CAG’s advice (150)** |
-| 350B = 9th Amd / one officer per State | **7th** Amd; **one** for India |
-| 350B = Eighth Schedule | 8th Sch = **languages**; 350B = **officer** |
-| NCST still under 338 | **338A** after **89th / 2004** |
-| Standing NCBC = only 340 | **338B** (102nd). **340** = Kalelkar/Mandal-type inquiry |
-| 102nd ended State OBC lists forever | **105th (2021)** restored State lists |
-| Official Language Part XI | **Part XVII**. Tribunals = **XIVA** |
-| English was allowed for 10 years only | **15 years** (343), then 1963/67 Act |
-| 344 Commission = Home Minister’s OL Committee | 344 = **Kher-type** time-bound body; HM chairs the **1976 Parliamentary Committee** |
-| NHRC / NCW / NCM = constitutional | **Statutory**. NCSC is constitutional |
-| NITI Aayog = constitutional | **Executive** (2015) |
-| NCST = Art. 339 | Standing body = **338A**. **339** = ad hoc areas/welfare inquiry |
-| NCSC list = 342 | SC list **341** · ST **342** · SEBC **342A** |
-| NCW / NCM = 338-family | **Statutory**. Only SC/ST/BC national commissions are constitutional |
-| CAT is a constitutional body | **Part XIVA enables**; CAT is **statutory** (1985) |
-| Delimitation Commission = ECI | **Separate statute** |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| 2023 | CEC & Other ECs Act — panel **PM + LoP + Cabinet Minister (कैबिनेट मंत्री)** | Replaced the SC’s interim **CJI-on-panel** |
+| 2023 | *Anoop Baranwal* | Independence of ECI appointments |
+| 2022 | *Mohit Minerals* | GST Council recommendatory |
+| 2023– | 16th FC constituted **31 December 2023**, chaired by **Arvind Panagariya** | Body, not NITI (नीति) |
+| 1993 | ECI became durable multi-member | 3 commissioners |
+| 2004 | 89th — NCSC / NCST split | 338 vs 338A |
+| 2018 / 2021 | 102nd NCBC constitutional; **105th** State OBC (अन्य पिछड़ा वर्ग) lists | 338B vs 340 |
+| 1992–93 | *Indra (इन्द्र) Sawhney* → NCBC Act | Why a standing OBC body |
+| 1963 / 67 | Official Languages Act | English continues after 15-year clause |
 
 
 ---
@@ -285,23 +251,36 @@ D. None of the above
 </details>
 
 **Q11.**
-FC primary duty = tax distribution · First Chair = **K.C. Neogy** · President does **not** fix qualifications (Parliament does); President **does** appoint.
+Who was the Chairman of the First Finance Commission of India?
+
+A. K. Santhanam
+B. K.C. Neogy
+C. A.K. Chanda
+D. Mahavir Tyagi
 
 <details>
 <summary>Show answer</summary>
 
-Facts as above.
+**Ans: B** — K.C. Neogy was the Chairman of the First Finance Commission (constituted in 1951). K. Santhanam was Chairman of the Second Finance Commission.
 
 </details>
 
 **Q12.**
-1. Sukumar Sen was the first CEC.
-2. Rama Devi was the first woman CEC.
+Consider the following statements regarding the Election Commission of India:
+1. Sukumar Sen was the first Chief Election Commissioner of India.
+2. V.S. Ramadevi was the first woman Chief Election Commissioner of India.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Both true** (V.S. **Ramadevi**, 1990). Options garbled in some dumps.
+**Ans: C** — Both 1 and 2 are correct. Sukumar Sen served as the first Chief Election Commissioner (1950–1958) and V.S. Ramadevi was the first woman to hold the post of CEC (in 1990).
 
 </details>
 

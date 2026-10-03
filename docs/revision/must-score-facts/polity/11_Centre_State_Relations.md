@@ -54,49 +54,19 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Residuary with States (US model) | **Union** — 248 / Entry **97** |
-| GST is residuary | **246A** special power; **101st** |
-| 249 / 312 = 2/3 of **total** RS | **2/3 present and voting** |
-| 253 needs State consent | **No** |
-| 252 law can be amended by the State | **Only Parliament** |
-| 254 applies to Union vs State List | **246** does that; **254 = Concurrent** |
-| Census = State List | **Union 69** |
-| Trade and commerce = Concurrent (bare) | Split **41 / 42 / 26 / 33** |
-| FC = Chair + six; report to NITI | **+ four**; report to **President** |
-| President fixes FC qualifications | **Parliament** (1951 Act) |
-| First FC = Rajamannar / Santhanam | **K.C. Neogy** |
-| FC = 263 | **280**. 263 = Inter-State Council |
-| 275 = discretionary | **282** is discretionary; **275** is FC / charged |
-| Surcharge shared with States | **271** Union **only** |
-| Mayor of GST Council = PM | **Union FM** |
-| GST Council vote = simple majority | **3/4 weighted**; Centre **1/3**, States **2/3** |
-| 301 is a Fundamental Right | It is **Part XIII**, not 19(1)(g) |
-| State 304(b) restriction without Centre | Needs **previous Presidential sanction** |
-| Inter-State migration = State List | **Union Entry 81** |
-| 257A still in the text | **Repealed, 44th** |
-| 258 and 258A both need the same consent rule | **258(1)** consent; **258(2)** Union law can impose **without** consent; **258A** is State→Union with consent |
-| All Union taxes are shared with States | **Customs, corporation tax, 271 surcharge** stay with Union |
-| 14th and 15th FC vertical share identical | **42%** then **41%** |
-| Concurrent List is full of tax heads | **No** (GST = **246A**) |
-| GST covers liquor and petrol already | **Liquor out**; **five petro** items out until Council says |
-| NITI Aayog replaced the Finance Commission | NITI replaced **Planning Commission**, **not** 280 |
-| Art. 261 = Art. 131 | Faith-and-credit vs **original SC** disputes |
-| ISC set up on Punchhi / Rajamannar | **Sarkaria**; constituted **1990** |
-| ISC chair = Union Home Minister | **PM**. HM chairs **Zonal** Councils **and** ISC **Standing Committee** |
-| UP is in the Northern Zonal Council | **Central** (with UK, MP, CG) |
-| NEC is the sixth Zonal Council | **Separate 1971 Act**; PM chairs NEC |
-| SC original jurisdiction over river water | **262 + 1956 Act bar 131** |
-| 2019 water Bill is in force | **Lapsed** |
-| Sarkaria wanted residuary with States | **Union**; that was **Rajamannar** |
-| Rajamannar wanted to keep AIS | Wanted them **abolished** |
-| Punchhi before Sarkaria | Sarkaria **1983–88**; Punchhi **2007–10** |
-| Water is only a Union subject | **State 17**, subject to **Union 56** |
-| Assam–Meghalaya 2022 = SC 131 | **Union HM + two CMs** |
-| NITI / FC implements SDGs | Nodal = **NITI** (2019), not FC |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| 1 July 2017 | GST operational | 101st vs “GST Act year” |
+| 2022 | *Mohit Minerals* — GST Council (जीएसटी परिषद) recommendatory | Binding vs cooperative |
+| 2023 | **16th FC** under **Arvind Panagariya** | Chair matching; award **2026–31** |
+| 2021–26 | 15th FC (**N.K. Singh**) | vs 14th Y.V. Reddy |
+| 2025 PYQ | AIS 312 majority | present and voting (गणपूर्ति) ≠ total |
+| 14th / 15th FC | Vertical **42% → 41%** | Devolution matching |
+| 1 Jan 2015 | NITI replaces Planning Commission (योजना आयोग) | Extra-constitutional; **≠ FC** |
+| 2019 | NITI = nodal for **SDGs** (not FC) | 2019 PYQ |
+| Mar 2022 | Assam–Meghalaya (मेघालय) border: **HM + CMs** | Inter-State dispute ≠ 131 |
+| 2019 | ISRWD Amendment Bill (permanent tribunal) | **LS only; lapsed — not law** |
+| 2018 | SC Cauvery judgment / CWMA | Award ≠ 131 original |
 
 
 ---
@@ -432,14 +402,15 @@ D. 104th
 
 **Q15.**
 Which one of the following pairs is NOT correctly matched?
-A. Interstate Council — Article 263
+
+A. Inter-State Council — Article 263
 B. Finance Commission — Article 280
-C. Administrative Tribunal — Article 323A
-D. Union Public Service Commission (संघ लोक सेवा आयोग) — Article 315
+C. Adjudication of disputes relating to waters of inter-State rivers — Article 262
+D. Inter-State Trade and Commerce Authority — Article 280
 
 <details>
 <summary>Show answer</summary>
 
-**Article facts (all four as printed are the right articles):** ISC **263** · FC **280** · CAT **323A** · UPSC **315**. (Some dumps of this Q are messy — do not overfit a “wrong” letter.)
+**Ans: D** — Inter-State Council is under Article 263, Finance Commission is under Article 280, and river water disputes are under Article 262. Inter-State trade authority is provided under Article 307 (Part XIII), not Article 280.
 
 </details>

@@ -47,28 +47,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Khasi = Arunachal** — FALSE. **Meghalaya**.
-2. **Rengma = Andaman native** — FALSE. **Nagaland**.
-3. **Kuki = Uttar Pradesh** — FALSE. **North-East**.
-4. **Yanadi = Rajasthan** — FALSE. **Andhra Pradesh**. Paliyan = **Tamil Nadu**. Keria = **Odisha**.
-5. **Masai = West Africa** — FALSE. **East Africa**.
-6. **Khirghiz = Sudan** — FALSE. **Central Asia**.
-7. **Alaska = Koryak** — FALSE. Koryak = **north-east Siberia**.
-8. **Tharu = Sonbhadra only** — FALSE. **Terai**.
-9. **UP PVTG = Tharu + Gond** — FALSE. **Buksa + Raji**.
-10. **Agariya = only farmers** — FALSE. Traditional **iron smelting**.
-11. **Birjia / Santhal = island tribes** — FALSE. **Jharkhand / mainland**.
-12. **NDRI = Izatnagar / IVRI = Karnal** — SWAP. NDRI **Karnal**; IVRI **Bareilly**.
-13. **FRI = Delhi or Lucknow** — FALSE. **Dehradun**.
-14. **Toda = Nagaland** — FALSE. **Tamil Nadu** (Nilgiris).
-15. **IMD / ICAR HQ = a regional campus** — FALSE. Both **New Delhi**. NDRI ≠ NDDB; FRI ≠ WII.
-16. **PVTG count = 95** — FALSE. There are **75** groups. Odisha has the most communities.
-17. **Fifth Schedule = only four NE states** — FALSE. Those four are the **Sixth Schedule** set.
-18. **PTG rename year = 1973** — FALSE. Dhebar identified PTGs in 1973. The rename to PVTG is **2006**.
-19. **One all-India ST roster** — FALSE. Lists are **state/UT-wise** under Article 342.
-20. **Any forest dweller = PVTG** — FALSE. PVTG is a tighter vulnerability subset with set criteria.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **15 Nov** | **Janjatiya Gaurav Diwas** — Birsa Munda (मुंडा) birth anniversary | Tribal (आदिवासी) identity day |
+| **2023** | **PM-JANMAN** — PVTG mission (housing, health, education, connectivity) | Living PVTG scheme |
+| **1875–2025** | **IMD** 150 years; headquarters still **New Delhi** | Institute anniversary |
+| **Jun 2025** | **Adi Karmayogi** launched by **Ministry of Tribal Affairs** | Ministry trap vs Social Justice / AYUSH |
+| Static | Uttar Pradesh (उत्तर प्रदेश) ST list is still the **15-entry** notification set, many of them district-limited | Match traps |
 
 
 ---

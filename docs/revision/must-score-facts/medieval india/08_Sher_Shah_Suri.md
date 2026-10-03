@@ -54,27 +54,22 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Jarib** is a **measuring rope**, not a tax.
-2. **Jayata and Kumpa** impressed Sher Shah in **Marwar** under Rao Maldeo, not in Mewar.
-3. **Chausa (1539)** is where Humayun escaped on a water-skin; **Kannauj/Bilgram (1540)** sent him into exile. Do not swap them.
-4. **Daurah (1532)** is Humayun's battle; it is neither **Dharmat (1658)** nor **Chausa (1539)**.
-5. When Kannauj, Daurah, Samugarh, and Chausa appear together, order is **Daurah (1532) → Chausa (1539) → Kannauj (1540) → Samugarh (1658)**.
-6. **Sasaram** holds Sher Shah's tomb; **Kalinjar** is where he died in 1545.
-7. **Sher Khan** was his earlier title; he took **Sher Shah** and the style of Padshah after 1540.
-8. **Islam Shah** ruled after Sher Shah; **Humayun** returned in **1555**, not Islam Shah.
-9. **Khayr-ul-Manazil** mosque was built by **Maham Anaga** in Akbar's time; **Purana Qila** is Sher Shah's Delhi fort.
-10. The **Grand Trunk Road** ran from **Sonargaon to Peshawar**, not only from Agra to Lahore.
-11. The **Shiqdar** handled policing; the **Munshif** kept accounts. They are different officers.
-12. **Bilgram (Kannauj, 1540)** is the same decisive Humayun defeat; it is not a separate later war name.
-13. Akbar continued Sher Shah's **Dam** as the chief copper coin.
-14. Sher Shah ruled only about **five years (1540–1545)**, but his reforms became the template for Akbar.
-15. **Khanwa (1527)** was Babur's battle against Rana Sanga, not Sher Shah's war.
-16. **Farid Khan** was educated at **Jaunpur (Siraj-i-Hind)**, not only born at Sasaram.
-17. **Hazrat-e-Ala** was an earlier title; **Sher Shah** followed **Chausa (1539)**, not Daurah (1532).
-18. **Qila-i-Kuhna** is **inside Purana Qila** — do not confuse with **Khayr-ul-Manazil** (Maham Anaga).
-19. **RO 2021** — Sher Shah's **qualities as ruler** (stmt 1) outlasted battlefield fame; he **did** leave admin legacy (stmt 2 false).
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Farid Khan | Sher Shah | Birth name vs Padshah title after 1540 | फरीद खान / शेर शाह |
+| Sher Khan | Sher Shah | Tiger-kill title in Bihar vs imperial title | शेर खान / शेर शाह |
+| Chausa | Kannauj | 1539 escape vs 1540 exile | चौसा / कन्नौज |
+| Bilgram | Kannauj | Same 1540 battle | बिलग्राम / कन्नौज |
+| Daurah | Chausa | 1532 Humayun–Afghans vs 1539 Sher Shah | दौराह / चौसा |
+| Jarib | Rai | Measuring rope vs crop-rate per bigha | जरीब / रै |
+| Patta | Qabuliat | State document vs peasant acceptance | पट्टा / क़बूलियत |
+| Dam | Rupiya vs Mohur | Copper vs silver vs gold | दाम / रुपया / मोहर |
+| Shiqdar | Munshif | Law/order vs accounts | शिकदार / मुंशिफ |
+| Rohtas | Purana Qila | Bihar hill fort vs Delhi citadel | रोहतास / पुराना किला |
+| Sasaram | Kalinjar | Birth + tomb vs death siege 1545 | सासाराम / कालिंजर |
+| Hazrat-e-Ala | Sher Shah | Bengal-service title vs imperial **Sher Shah** after **Chausa 1539** | हज़रत-ए-आला / शेर शाह |
+| Jaunpur education | Sasaram birth | **Siraj-i-Hind** schooling vs birthplace/tomb | जौनपुर / सासाराम |
+| Marwar | Mewar (Jayata–Kumpa) | Rathore Maldeo vs Sisodia Pratap/Sanga | मारवाड़ / मेवाड़ |
 
 
 ---

@@ -54,83 +54,22 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Ahom = 1815** → **~1828**.
-
-2. **Sanyasi after Indigo** → Sanyasi is **late 18th century**; Indigo **1859–60**.
-
-3. **Kuka after Pabna** → Kuka **~1872**, Pabna **1873–85**.
-
-4. **Santhal = 1857 / Birsa** → **1855–56, Sidhu–Kanhu**.
-
-5. **Kol = 1855** → Kol **1831**; Santhal 1855.
-
-6. **UP Kisan Sabha 1918 = Baba Ramchandra / Sahajanand / Nehru** → **Indra Narayan Dwivedi**.
-
-7. **Bardoli = 1921 / Birsa** → **1928, Patel**.
-
-8. **Moplah before Jallianwala** → Moplah **1921** is **last** in the 2023 set.
-
-9. **Tebhaga = Eka** → Tebhaga **Bengal 1946–47 (2/3)**; Eka **Awadh 1921–22**.
-
-10. **INTUC = 1920** → **AITUC 1920**; INTUC **1947**.
-
-11. **BMS = CPI** → BMS = **BJP (1955)**.
-
-12. **ILO 1919 = Wadia** → **N.M. Joshi**.
-
-13. **Bareilly 2024 list = Khan Bahadur Khan** → **Mufti Muhammad Aiwaz** (1816 tag); 1857 is Topic 5.
-
-14. **Paika = Edachena / Birsa** → **Jagabandhu Bidyadhar**.
-
-15. **Pabna = 1922** → **1873–85**; 1922 = **Eka**.
-
-16. **WPP All-India in 1927 / 2024 Q14 Both** → objective true; All-India form **Dec 1928** → **Only 2** (Topic 12).
-
-17. **Telangana ends in 1948** → the Nizam fell in 1948; the peasant struggle closed only on **CPI's October 1951** withdrawal.
-
-18. **Telangana = Tebhaga** → Telangana is **Hyderabad State, CPI *dalams*, 1946–51**; Tebhaga is **Bengal sharecroppers, 1946–47**.
-
-19. **Oudh Kisan Sabha = 1918 UP Kisan Sabha** → 1918 is Dwivedi's Lucknow body; Oudh Kisan Sabha is **Baba Ramchandra's October 1920** Pratapgarh body.
-
-20. **Indigo decline = only Neel Darpan success** → early-20th-c. decline key is often **synthetic dyes**.
-
-21. **Wahabi centre = Lahore / Amritsar** → after Balakot, **Patna**.
-
-22. **Kuka = Bengal** → **Punjab** (Ram Singh; Rangoon exile).
-
-23. **Pagal Panthi = Bhils/Gonds** → **Garos** (Karam Shah / Tipu).
-
-24. **Faraizi = Dadu Dayal** → **Haji Shariatullah / Dudu Miyan** (Faridpur).
-
-25. **Velu Thampi = Mysore** → **Travancore (Kerala)**.
-
-26. **Gadakari = Bihar Sharif** → **Kolhapur**.
-
-27. **Mariah ban = Oraon** → **Khond** (Chakra Bisoi).
-
-28. **Adivasi word = Gandhi / Ambedkar** → **Thakkar Bapa**.
-
-29. **Ulgulan = Santhal / Moplah** → **Birsa Munda, 1899–1900**.
-
-30. **First labour organiser = Lajpat Rai** → **N.M. Lokhande** (pioneer); Lajpat Rai = AITUC first president **1920**.
-
-31. **Chuar = Madhya Pradesh** → **Bengal** Jungle Mahals.
-
-32. **Ho revolt = 1920** → **1820–21**.
-
-33. **Nai-Dhobi Band = saints' uplift only** → **Pratapgarh** peasant social boycott of landlords.
-
-34. **AIKS President = N.G. Ranga** → **Sahajanand**; Ranga = **General Secretary** / Faizpur chair tag.
-
-35. **Sardar title = Nehru / Azad** → **Bardoli** recognition (Gandhi / Bardoli women).
-
-36. **Tebhaga = end zamindari overnight** → demand was **share cut half → one-third**.
-
-37. **Bhoodan began in UP** → **Pochampalli (Telangana/Andhra), 1951**.
-
-38. **Bijolia = Champaran / Bardoli** → princely **Mewar** peasant movement (Pathik stream).
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Peasant revolt | Tribal revolt | Rent / indigo / zamindar of settled cultivators vs land–forest–*diku* in tribal belts | किसान / जनजातीय |
+| Indigo 1859–60 | Pabna 1873–85 | European planters vs zamindar rent-hikes | नील / पाबना |
+| Santhal 1855 | Munda Ulgulan 1899–1900 | Sidhu–Kanhu vs Birsa Munda | संथाल / मुंडा |
+| Kol 1831 | Khasi 1829 | Chotanagpur vs Meghalaya hills (Tirut Singh) | कोल / खासी |
+| Ahom 1828 | Ahom 1815 | Correct year vs **2018 trap year** | अहोम |
+| Moplah 1921 | Bardoli 1928 | Malabar tenants (violent phase) vs Gujarat no-tax satyagraha | मोपला / बारडोली |
+| Tebhaga | Eka | Bengal 1946 share 2/3 vs Awadh 1921–22 rent receipts | तेभागा / एका |
+| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
+| UTUC | CITU | UPPCS maps UTUC → CPI(M); CITU is the real CPI(M) centre (1970) | यूटीयूसी / सीटू |
+| Dwivedi | Baba Ramchandra | UP Kisan Sabha **1918** founder tag vs Awadh peasant mobiliser | द्विवेदी / बाबा रामचंद्र |
+| Bareilly 1816 | Bareilly 1857 | Mufti Muhammad Aiwaz vs Khan Bahadur Khan | बरेली |
+| Bonded labour | Wage labour | Debt-tied unfree work vs paid factory / mill labour | बंधुआ मजदूरी / मजदूरी |
+| Tebhaga 1946–47 | Telangana 1946–51 | Bengal sharecrop share-demand vs Hyderabad armed anti-*jagirdar* struggle | तेभागा / तेलंगाना |
+| Eka 1921–22 | Awadh Kisan Sabha ~1920 | Madari Pasi's rent-receipt oath vs Baba Ramchandra's broader mobilisation | एका / अवध |
 
 
 ---

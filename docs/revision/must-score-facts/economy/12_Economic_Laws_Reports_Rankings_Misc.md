@@ -54,33 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-* Survey ≠ Budget; read the **edition year** before picking Survey facts.
-* E-commerce “two-thirds” = **~2027 / next four years**, not **2030**.
-* HDI: larger rank number = **worse**; “slipped” ≠ “upgraded”.
-* PQLI = **Morris D. Morris** ≠ UNDP/Haq HDI.
-* Ranks are edition-bound: GHI 2017 = **100**; Happiness 2022 = **136**; GPI 2018 = **136**; EoDB **77 → 63** then discontinued.
-* IBC & RERA = **2016**; PMLA Director **can** call FI records.
-* GII = HDR **2010**; first HDR = **1990**.
-* SDG India Index = **NITI**, not IMF/World Bank.
-* NITI categories: Aspirant **0–49** / Performer **50–64** / Front-runner **65–99** / Achiever **100**.
-* 2023–24 joint top = **Kerala + Uttarakhand (79)**; Bihar lowest **57**.
-* UP: Performer (2019–20) → Front Runner (2023–24) — year matters.
-* Gujarat **not** top-five in 2019–20 / 2020–21.
-* SDSN global ranks are edition-bound (2016=110; 2017=116; 2025=99).
-* SDG-6 = water; SDG-15 = life on land; GSDR = every **four years**, not quarterly.
-* NITI SDG India Index ≠ SDSN global SDG Index.
-* PAT = **2012** BEE energy-intensive SEC cut ≠ NCAP **2019** clean air ≠ MISHTI Budget **2023–24** ≠ LiFE **COP26**.
-* NEP 2020 = Kasturirangan; replaces **1986** (~**34** years, not 38); vocational from **Grade 6**.
-* Competition Act ← **Raghavan**; CCI founded **14 Oct 2003**.
-* DigiLocker = Digital India e-docs; **Saaransh** = NeGP Mission Mode Projects book.
-* UDAY = Discom turnaround (**2015**); Surya Ghar = rooftop solar + free-units teaching (**2024**).
-* UN years: **2023 Millets**; **2025** Peace and Trust; **2026** Woman Farmer; **2027** Sustainable Tourism; **2029** Asteroid Awareness.
-* “Missing women” = **Amartya Sen**; Marginal Man = **Robert E. Park**; Global Village = **McLuhan** (transport/communication).
-* East–West corridor = **Silchar–Porbandar**; Golden Triangle tourism = **Delhi–Agra–Jaipur**.
-* GQ longest arm teaching = **Chennai–Kolkata**; Amrit Bharat UP Feb 2023 = **149** stations.
-* Kamaiya = Nepal bonded labour; colonial India = raw-material supplier (**not** manufactured-goods exporter to Britain).
-* Arthashastra = **15** adhikaranas; Athavana = Vijayanagara revenue department.
-* BRI = China; O-SMART = MoES oceans; Yamuna Expressway = Greater Noida–Agra.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2024** | Economic Survey 2022–23: response to supply shocks included **reducing taxes on fuel and certain imports** — not cutting food/fertiliser subsidies or raising fuel taxes. | Only statement 3. |
+| **2023** | Survey services “NOT correct”: e-commerce fashion/grocery share “by **2030**” — Survey said ~next four years (**~2027**). | Year trap. |
+| **2023** | HDR 2021–22: India’s HDI rank **slipped** to **132** (from prior ~130/131 band) — “upgrade” wording fails. | Direction trap. |
+| **2022** | World Happiness Report **2022**: India **136th**. | Year-bound rank. |
+| **2020** | Doing Business: India **77** (DB 2019) and **63** (DB 2020); report later **discontinued**. | Learn both ranks. |
+| **2019** | **PQLI** by **Morris D. Morris** — not UNDP / Haq. | Author trap. |
+| **2019** | GHI **2017**: India **100th**. | Edition-bound. |
+| **2018** | Global Peace Index **2018**: India **136th** (IEP). | Edition-bound. |
 
 
 ---

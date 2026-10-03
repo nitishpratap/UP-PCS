@@ -45,21 +45,18 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. The Asiatic Society founder is **Jones**, not Hastings (Hastings **declined**) and not **Jonathan Duncan**.
-2. The oldest museum is the **Indian Museum Kolkata 1814**, not the National Museum Delhi 1949.
-3. The National Museum is **not** in Kolkata. Salar Jung is **not** in Delhi (**Hyderabad**).
-4. Taxila is in **Pakistan**, not Bihar/UP. The model is **many teachers**, not one campus.
-5. The Nalanda destroyer is **Bakhtiyar Khilji ~1193**, not Iltutmish, Ghazni or Alauddin.
-6. UNESCO Nalanda is **2016**. The Act of **2010** created the **new** university under **MEA** at Rajgir, not the ruins.
-7. Vikramashila is linked to **Dharmapala, Atisha and ~1203**. It is **not** separately WH-listed.
-8. SNA is **1952** performing arts. Sahitya and Lalit Kala are **1954**. Lalit Kala is not literature.
-9. **ICCR** is under **MEA**. The new Nalanda University is also under **MEA**. ASI and the akademis are under **Culture**.
-10. Jnanpith (**1965**, trust) is not the Sahitya Akademi Award.
-11. Guru dakshina is not a monthly fee. 64 Kalas are not 64 Vedas.
-12. INTACH is an **NGO**. NGMA is a **gallery**, not an akademi.
-13. PRASAD is under **Tourism**. EBSB is Culture + Education, launched in **2015**. NCF is **1996**.
-14. North Central ZCC is at **Prayagraj**, not Lucknow.
-15. Rakhigarhi is not in UP (it is in Haryana). UP IVC sites are Alamgirpur, Mandi and Hulas.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Indology | Orientalism | Textual/philological study of India vs colonial framing of the “East” | भारतविद्या / प्राच्यवाद |
+| Gurukul | Mahavihara | Residential guru-shishya vs large Buddhist monastic university | गुरुकुल / महाविहार |
+| Taxila | Nalanda | NW multi-teacher city (Pakistan) vs E mahavihara campus (Bihar) | तक्षशिला / नालंदा |
+| ASI ruins Nalanda | New Nalanda Univ. | ASI + UNESCO 2016 vs **MEA**, Act **2010**, Rajgir campus | ASI खंडहर / नालंदा विश्वविद्यालय |
+| ASI | IGNCA | Monument protection vs arts research/documentation | पुरातत्व सर्वेक्षण / कला केंद्र |
+| National Museum | Indian Museum | Delhi **1949** vs Kolkata **1814** (oldest) | राष्ट्रीय / भारतीय संग्रहालय |
+| SNA | Sahitya / Lalit Kala | Performing **1952** vs literature **1954** / visual **1954** | संगीत नाटक / साहित्य / ललित कला |
+| Sahitya Akademi | Jnanpith | Mo Culture academy vs Bharatiya Jnanpith trust **1965** | साहित्य अकादेमी / ज्ञानपीठ |
+| ICCR | Mo Culture bodies | **MEA** cultural diplomacy vs Culture ministry akademis | ICCR = विदेश मंत्रालय |
+| Protected monument | Site museum | AMASR-notified structure vs ASI museum at the excavation | संरक्षित स्मारक / स्थल संग्रहालय |
 
 
 ---

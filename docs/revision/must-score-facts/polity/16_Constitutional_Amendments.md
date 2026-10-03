@@ -54,48 +54,19 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. Basic structure = Golaknath → **Kesavananda 1973**
-2. 24th came after Kesavananda → **1971**, before
-3. 350B = 9th Amendment → **7th** (1956)
-4. 42nd added Sovereign / Republic → those are **original**; it added **Socialist, Secular**
-5. 39A = workers in management → **43A**. 39A = legal aid
-6. New State needs 368 + half the States → **simple** majority, Art. **4**
-7. Joint sitting can pass a 368 Bill → **no** 108
-8. 9th Schedule = 9th Amendment → Schedule = **1st Amd**; 9th Amd = **Berubari**
-9. 42nd year 1978 → **1976**. 44th is 1978
-10. 368(4) still bars courts → *Minerva Mills* **struck** it
-11. 31C still covers all DPSP → *Minerva* cut it back to **39(b)(c)**
-12. 38(2) = 42nd → **44th**
-13. 361A = 42nd → **44th** — true report of House proceedings
-14. 31D still in the Constitution → **43rd** repealed it
-15. Art. 3 Bill = 368 special majority → **simple**; President **recommends**; States only **expressed views**
-16. Preamble cannot be amended → *Kesavananda*: **can**, within basic structure
-17. RS is weaker on a 368 Bill → **equal** — no joint sitting to override RS
-18. GST = 91st / 86th / 73rd → **101st** (2016; levy from **1 Jul 2017**)
-19. RTE = 103rd → **86th** (2002). 103rd = **EWS**
-20. 69th created NCR planning region → **NCT of Delhi** (239AA). NCR = 1985 statute
-21. 73rd/74th in force 1992 → passed **1992**; in force **24 Apr / 1 Jun 1993**
-22. 106th already seats women in 2024 LS → **not commenced** — needs census + delimitation
-23. 102nd killed State OBC lists forever → **105th** restored State identification
-24. 91st still allows 1/3 split → **gone**. Only **2/3 merger**
-25. 52nd year 1978/1989 → **1985**. 61st is the 18-year vote
-26. 97th Part IXB fully dead → struck for **State** co-ops; **multi-State** survives
-27. 104th ended SC/ST reservation → only **Anglo-Indian nomination**. SC/ST till **2030**
-28. 86th 21A from 2002 itself → RTE Act **2009**; **21A** from **1 Apr 2010**
-29. 61st year 1985 → **1988** Act / **1989** in force. 52nd is 1985
-30. 10th Schedule was always defection → first 10th Schedule = **Sikkim associate (35th)**. **36th** repealed it. **52nd** wrote defection
-31. 69th put Delhi in the Presidential college → that is **70th**. 69th = **239AA NCT**
-32. 61st extended SC/ST seats → that is **62nd** (a 334 extension). 61st = **age 18**
-33. 86th = 15(5) private colleges → **93rd** is 15(5). 86th = **21A / 45 / 51A(k)**
-34. 91st CoM cap uses RS strength → **LS** only. States: 15% of **Assembly**, floor **12**. Delhi **10%**
-35. Defector can still take a paid political post → **361B** (91st) bars it
-36. 97th killed 43B / 19(1)(c) too → only **Part IXB for State** co-ops. 19(1)(c) and 43B **live**
-37. 99th NJAC is good law → **struck 2015** — basic structure (judicial independence)
-38. 106th = 128th Amendment → **128th** was the **Bill** number. **Act = 106th**
-39. Vacancies shrink “total membership” for 368 → vacancies **still count** in the total
-40. States must pass 368 ratification by special majority → State House: **ordinary** majority. **UTs do not** ratify
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Simple majority** | **Special (368)** | Ordinary legislative majority; **outside** 368 | Total membership + 2/3 P&V |
+| **368 only** | **368 + States** | Unitary-looking amendments | Federal provisions; **half** State legislatures |
+| **13** | **368** | Laws inconsistent with FR void | Power to **amend** the Constitution |
+| **Golaknath** | **Kesavananda** | FR cannot be amended | FR can, **basic structure** cannot |
+| **42nd** | **44th** | Mini-Constitution (Emergency era) | Janata unwind: property, 20/21, 352 |
+| **9th Schedule** | **9th Amendment** | 1st Amd — shield for laws | 1960 — Berubari / boundary (not 350B) |
+| **73rd** | **74th** | Panchayats · 11th Sch · 24 Apr 1993 | Municipalities · 12th Sch · 1 Jun 1993 |
+| **86th** | **103rd** | RTE as FR (21A), 2002 | EWS 10%, 2019 |
+| **102nd** | **105th** | NCBC + Central SEBC list | State power to identify OBC **restored** |
+| **52nd** | **91st** | 10th Schedule inserted | 1/3 split killed; CoM 15% |
+| **104th** | **106th** | Anglo-Indian nomination **ends** | Women 33% — **not yet** in force |
 
 
 ---
@@ -165,13 +136,21 @@ D. A-3, B-1, C-4, D-2
 </details>
 
 **Q5.**
-Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd
-*(Both wrong — one officer for India; 7th Amd.)*
+Consider the following statements regarding the Special Officer for Linguistic Minorities:
+1. Article 350B provides for a Special Officer for Linguistic Minorities appointed by the President.
+2. Article 350B was inserted into the Constitution by the 7th Constitutional Amendment Act, 1956.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Neither.** 350B officer (भाषाई अल्पसंख्यक अधिकारी) = 7th Amd, not 9th.
+**Ans: C** — Both 1 and 2 are correct. Article 350B was inserted by the 7th Constitutional Amendment Act, 1956, providing for a Special Officer for Linguistic Minorities appointed by the President of India.
 
 </details>
 
@@ -321,6 +300,6 @@ D. (A) is false, but (R) is true.
 
 **A/R logic:** Article 368 grants constituent power, but Kesavananda Bharati limits it: Parliament cannot damage the basic structure. The booklet keys A even though that wording makes the assertion overbroad.
 
-**Ans: A (booklet key). Both are treated as correct in the booklet, but A must now be read subject to the basic-structure limit.**
+**Ans: A** — Both (A) and (R) are correct, and (R) is the correct explanation of (A), subject to the basic structure limitation.
 
 </details>

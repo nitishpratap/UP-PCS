@@ -54,68 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Benguela = Pacific** — FALSE. **Atlantic**.
-2. **Agulhas / Brazil = cold** — FALSE. **Warm** (2025).
-3. **Syzygy = small tide** — FALSE. **Spring / large**.
-4. **Salinity max at equator** — FALSE. **Tropics**.
-5. **Tide every exactly 12 h 30 min** — FALSE. **~12 h 25 min**.
-6. **El Niño → more Peruvian plankton** — FALSE. **Less**.
-7. **Suez = Atlantic–Indian directly in 2025 codes** — FALSE. **Red + Mediterranean**.
-8. **Suez lakes start at Timsah in the north** — FALSE. **Manzala** first.
-9. **Mariana = Atlantic** — FALSE. **Pacific**. Puerto Rico = Atlantic.
-10. **Molloy = Atlantic** — FALSE. **Arctic**.
-11. **Dakshin Gangotri still operational** — FALSE. **Maitri + Bharati**.
-12. **Himadri = Antarctica** — FALSE. **Arctic**.
-13. **EEZ = 12 nm** — FALSE. Territorial **12**; EEZ **200**.
-14. **Panama is sea-level like Suez** — FALSE. **Suez** is sea-level; Panama uses **stepped chambers** + Gatun.
-15. **Kurile/Oyashio = Indian Ocean** — FALSE. **Pacific cold**. Indian MCQ = **Agulhas**.
-16. **Telegraphic Plateau = Indian Ocean Ridge** — FALSE. **North Atlantic Ridge**.
-17. **Guyot = peaked seamount** — FALSE. **Flat top**.
-18. **Caspian = true ocean sea** — FALSE. **Lake**.
-19. **Ninetyeast Ridge = Mid-Atlantic spreading** — FALSE. Volcanic trail in the **Indian** Ocean.
-20. **Red clay = shallow coral mud** — FALSE. **Deepest** abyssal, carbonate gone.
-21. **Diatom ooze = calcareous tropics** — FALSE. **Siliceous**, cold.
-22. **Fundy = India’s tidal-energy MCQ** — FALSE. World range king; India option = **Khambhat**.
-23. **Drake = Magellan** — FALSE. Drake is open south of the Horn.
-24. **India is an Arctic Council member** — FALSE. **Observer**.
-25. **Himadri = Maitri’s other name** — FALSE. Himadri = **Arctic**.
-26. **ISA mines the EEZ** — FALSE. ISA = **the Area** beyond national zones.
-27. **Skip ocean floor / deposits because recent papers asked currents** — FALSE. Next year can ask any standard NCERT trench, deposit or UNCLOS zone.
-28. **India east shelf always wider than west** — FALSE. Coaching fact = **west wider** overall (Gujarat–Mumbai).
-29. **Density ignores salinity** — FALSE. Cold + salt (+ pressure) set density and deep flow.
-30. **Waves = tides** — FALSE. Waves need wind/fetch; tides need Moon/Sun gravity.
-31. **Upwelling on east coasts of continents** — FALSE. Classic upwelling = **west** coasts.
-
-35. **OMT depth is always 129 m** — FALSE. IAS key uses ~**59 m** mean for SW Indian Ocean Jan–Mar; statement 1 in that stem is wrong.
-36. **Fresh usable = 95% in ice of all Earth water** — FALSE. Ice is most of *fresh* water; usable total is **<1%** of all water.
-37. **Rivers+lakes > groundwater** — FALSE among remaining fresh after ice. **Groundwater** is larger.
-38. **Sargasso has a coastline** — FALSE.
-39. **Telegraph Plateau = Indian Ocean** — FALSE. **North Atlantic Ridge**.
-40. **Neap tide = new/full moon** — FALSE. New/full = **spring**. Neap = quadrature (~7–8th day).
-41. **Benguela = Pacific / Indian** — FALSE. **South Atlantic**.
-42. **Agulhas = cold** — FALSE. **Warm** Indian Ocean.
-
-43. **Suez uses Panama-style stepped chambers** — FALSE. Suez is **sea-level**; Panama climbs chambers + **Gatun Lake**.
-44. **Persian Gulf borders Oman** — FALSE. Oman faces **Gulf of Oman**.
-45. **Soo Canal = Superior–Michigan** — FALSE. Superior–**Huron**.
-46. **Great Barrier Reef = Atlantic / New Zealand** — FALSE. **Pacific**, NE **Queensland / Australia**.
-47. **Coral reefs = cold coasts only** — FALSE. Tropical warm clear water.
-48. **Türkiye north = Mediterranean / Caspian** — FALSE. North = **Black Sea**; south = Mediterranean.
-49. **W→E = Black → Med → Caspian → Aral** — FALSE. **Mediterranean → Black → Caspian → Aral** (“My Black Cat Ate”).
-50. **Norway on the Baltic** — FALSE. Baltic ring excludes Norway.
-51. **Jordan opens to the Mediterranean** — FALSE. Only **Aqaba / Red Sea**.
-52. **Gaza faces the Red Sea** — FALSE. Gaza faces the **Mediterranean**.
-53. **Hormuz shores = Iran + UAE only** — FALSE. Classic pair = **Iran + Oman** (Musandam).
-54. **Syria borders the Black Sea** — FALSE. Syria is **Mediterranean**.
-55. **Hormuz joins Red Sea and Mediterranean** — FALSE. That is **Suez**. Hormuz = Persian Gulf ↔ Gulf of Oman.
-
-
-### 🌊 Bermuda Triangle & Fishing Grounds Master Facts (Ghatnachakra Complete)
-- **Major World Fishing Grounds**: Formed where **cold and warm ocean currents meet** in shallow continental shelves (e.g. Labrador Cold + Gulf Stream Warm). Plankton thrives abundantly, creating rich marine ecosystems.
-- **Grand Banks**: Off the coast of Newfoundland (Canada), in the North Atlantic Ocean. Formed by convergence of cold Labrador Current and warm Gulf Stream.
-- **Bermuda Triangle ("Devil's Triangle")**: Oceanic area in the **North Atlantic Ocean** bounded roughly by points in **Miami (Florida)**, **San Juan (Puerto Rico)**, and **Bermuda**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Feb 2026–ongoing** | After US–Israel strikes on Iran (from **28 Feb 2026**), Iran moved to control / restrict the **Strait of Hormuz**; tanker traffic collapsed; mines, boardings and attacks on merchant ships (नावाध्यक्ष) were reported | World’s top oil–LNG chokepoint in the news | Reuters / IEA / CRS |
+| **2025 baseline** | About **20 mb/d** of oil products (~**25%** of seaborne oil) and ~**20%** of world **LNG** (mainly Qatar + UAE) normally transit Hormuz | Scale of any closure | IEA |
+| Static geography | Hormuz joins **Persian (फ़ारसी) Gulf ↔ Gulf of Oman**; shores are **Iran (north)** and **Oman (Musandam, south)**; UAE sits on the approaches | Country / strait MCQs | Atlas |
+| Bypass note | Only **Saudi Arabia** and the **UAE** have meaningful pipeline routes that can skip Hormuz; Iraq, Kuwait, Qatar, Bahrain and Iran lean almost entirely on the strait | Who is trapped if closed | IEA |
+| Demand side | Most Hormuz oil goes to **Asia** (China, India, Japan, Korea); India is a major importer through this gate | India linkage | EIA / visualisers |
+| Other 2026 themes | Dual blockade talk (Iran on the strait / US on Iranian ports), insurance spikes, and later escort / corridor politics kept oil prices elevated | Chokepoint = price risk | Reuters / Brookings |
+| Static | **BBNJ 2023** high-seas biodiversity treaty — India has signed; UNCLOS **12 / 24 / 200 nm** unchanged | Law of the sea | UN |
+| Static | India Arctic Policy **2022**; Arctic Council **observer** since **2013**; Deep Ocean Mission / Samudrayaan / Blue Economy (नीली अर्थव्यवस्था) | Polar + deep ocean | MEA / MoES |
 
 
 ---

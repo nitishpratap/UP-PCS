@@ -54,34 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-| Trap | Correct fact |
-|------|----------------|
-| Biodiversity = species count only | **Genetic + species + ecosystem** |
-| Wilson coined “biodiversity” | **Walter G. Rosen (1985)** coined; Wilson popularised |
-| Alpha = regional diversity | Alpha = **local** mean; gamma = regional |
-| Russia is megadiverse | **Not** in the standard 17 list |
-| India has 6 hotspots | **4** — Himalaya, Indo-Burma, WG–Sri Lanka, Sundaland |
-| Sundaland = Andaman + Nicobar | **Nicobar** under Sundaland; **Andaman** under Indo-Burma |
-| Eastern Ghats / Vindhyas = hotspot | **Not** hotspots |
-| Hotspots only in tropics | Temperate hotspots also exist |
-| Threatened = Endangered | Threatened = **VU + EN + CR** |
-| Botanical garden = in-situ | **Ex-situ** |
-| Cryo-bank gas = oxygen / CO₂ | **Liquid nitrogen** |
-| Lichens thrive in pollution | **Sensitive** indicators — fail in pollution |
-| Ex-situ preferred over in-situ | **In-situ preferred** |
-| NBA headquarters Delhi | **Chennai** |
-| BirdLife invented hotspots | **Norman Myers**; BirdLife = IBAs |
-| TRAFFIC = UNEP bureau | **WWF–IUCN** NGO alliance |
-| Coral reefs in Sundarbans | Sundarbans = **mangroves**; reefs = GoM, GoK, A&N, Lakshadweep |
-| Vegetarianism threatens biodiversity | **Not** a threat |
-| NCMB = Mumbai / Bhavnagar | **Jamnagar** |
-| Silent Valley = Uttarakhand | **Kerala**; Valley of Flowers = Chamoli UK |
-| India Ramsar ≈ 26 forever | About **80**; TN **16**, UP **10**, Punjab **6** |
-| Gangetic Plain is a hotspot | **Not** a global hotspot |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Genetic Diversity** | **Species Diversity** | Variation of genes and alleles *within* a single species across its geographic range vs the variety and abundance of *different species* within a given ecological region | आनुवंशिक विविधता / प्रजाति विविधता |
+| **Species Diversity** | **Ecosystem Diversity** | Number of species and their relative abundance (species richness + evenness) vs variety of distinct habitats, biotic communities, and ecological processes in a landscape | प्रजाति विविधता / पारिस्थितिक तंत्र विविधता |
+| **Alpha Diversity** | **Beta Diversity** | Species richness measured *within* a particular local habitat or community vs rate of species turnover / change in species composition *between* two different habitats across an environmental gradient | अल्फा विविधता (स्थानीय) / बीटा विविधता (आवासीय परिवर्तन) |
+| **In-situ Conservation** | **Ex-situ Conservation** | Protecting endangered species within their natural evolutionary habitats (National Parks, Sanctuaries, Biosphere Reserves) vs conserving species outside their natural habitats in artificial environments (Zoological Parks, Botanical Gardens, Gene Banks) | स्व-स्थाने संरक्षण (In-situ) / बाह्य-स्थाने संरक्षण (Ex-situ) |
+| **Endangered (EN)** | **Critically Endangered (CR)** | Very high risk of extinction in the wild (e.g. Asiatic Lion, Tiger) vs extremely high imminent risk of extinction in the wild (e.g. Great Indian Bustard, Gharial, Hangul) | लुप्तप्राय (EN) / अति संकटग्रस्त (CR) |
+| **Endemic Species** | **Invasive Alien Species** | Native species strictly restricted to a specific unique geographic territory and found nowhere else (e.g. Lion-tailed Macaque in Western Ghats) vs non-native species introduced from outside that outcompete and displace indigenous wildlife (e.g. Lantana camara, Water Hyacinth) | स्थानिक प्रजाति (Endemic) / आक्रामक विदेशी प्रजाति (Invasive) |
+| **Biodiversity Hotspot** | **Hope Spot** | Terrestrial regions with exceptionally high endemic species richness under severe threat (≥1,500 endemic vascular plants and ≥70% primary vegetation lost; Norman Myers) vs marine protected areas critical to the health of global oceans (Sylvia Earle / Mission Blue) | जैव विविधता हॉटस्पॉट (स्थलीय) / होप स्पॉट (समुद्री) |
+| **People's Biodiversity Register (PBR)** | **Red Data Book** | Mandated under Biological Diversity Act 2002 prepared by local Biodiversity Management Committees (BMCs) documenting traditional ecological knowledge vs official compendium published by IUCN documenting global extinction risks | जन जैव विविधता रजिस्टर (PBR) / रेड डेटा बुक (IUCN) |
 
 
 ---

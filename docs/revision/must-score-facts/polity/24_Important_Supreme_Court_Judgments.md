@@ -54,43 +54,22 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Basic Structure = *Golaknath* | ***Kesavananda* 1973** |
-| 24th Amd after Kesavananda | **1971**, before |
-| *Golaknath* voided the 1st Amd | **Prospective** — pre-1967 Amds stood |
-| *Shankari / Sajjan* = BS | They **upheld** 368 over FR. Mudholkar = **hint** |
-| *Kesavananda* froze Part III | It **allowed** FR amendment, forbade **identity** destruction |
-| Preamble was always “part” | *Berubari* said **not**; *Kesavananda* said **is** |
-| 9th Schedule = 9th Amd | Schedule = **1st Amd**; 9th Amd = **Berubari 1960** |
-| 9th Schedule is still FR-proof | Post-**24 Apr 1973** inserts face BS (*Coelho*) |
-| *Maneka* changed Art. 21’s words | Still **procedure established by law** |
-| *Gopalan* is the live Art. 21 test | ***Maneka* 1978** |
-| *Jabalpur* majority = Khanna | Khanna **dissented**. 44th saved **20 & 21** |
-| *Indira Gandhi* invented BS | **Applied** it to **39th / 329A** |
-| *Minerva* invented BS | Struck **368(4)(5)** and 31C-to-all-DPSP |
-| 31C covers all DPSPs | Only **39(b)(c)** after *Minerva* |
-| *Coelho* emptied the 9th Schedule | Cut-off + BS test, not a wipe |
-| Cession = ordinary law | ***Berubari***: needs **Amd** |
-| Bench: Kesavananda = 11 | **13**. Golaknath = **11**. Coelho = **9**. Maneka = **7** |
-| Collegium = First Judges | **Second Judges 1993**. First = **executive primacy** |
-| Third Judges = CJI+2 for SC | SC = CJI+**4**. HC = CJI+**2** |
-| NJAC still working / in force | **Struck 16 Oct 2015**. Collegium revived |
-| NJAC = CJI + Law Minister | **Six** seats; **any two** veto |
-| Collegium is in Art. 124 | **Judge-made**. NJAC **was** in 124A–C and still fell |
-| *Bommai* = 356 can never be used | Justiciable; majority on the **floor**; secularism can **justify** 356 |
-| Speaker’s defection order is final | ***Kihoto***: reviewable. Para 7 ouster **dead** |
-| *Lily Thomas* = 10th Schedule | **RPA s.8(4)** cushion struck |
-| Creamy layer in *Sawhney* = SC/ST | **OBC only** in that case |
-| *Sawhney* allows promotion quota | It **barred** promotion; **77th** put SC/ST promotion back |
-| *Navtej* = Article 377 | **s.377 IPC**. Art. 377 = transitory **CAG** clause |
-| *Puttaswamy* killed Aadhaar | **2017** = privacy is an FR. **2018** = Aadhaar mostly **upheld** |
-| *Shreya Singhal* killed the IT Act | Only **s.66A** |
-| *Vishaka* = POSH Act | **1997** guidelines; Act is **2013** |
-| *Mehta* = English strict liability | **Absolute** liability — no *Rylands* exceptions |
-| *Joseph Shine* = 377 | **s.497** adultery |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2018** | *Navtej* on homosexuality | **s.377 IPC**, not Art. 377 (UPPCS Q79) |
+| **2018** | *Joseph Shine* | s.497 adultery **struck** as a crime |
+| **2017** | *Puttaswamy* 9-judge | Privacy = FR; *Jabalpur* majority **wrong** |
+| **2016** | *Nabam Rebia* | Governor cannot rig (ऋग्वेद) the Assembly calendar |
+| **2015** | NJAC / *Shreya Singhal* | **99th struck 4:1** · **s.66A void** |
+| **2013** | *Lily Thomas* · POSH Act | Instant DQ on conviction · *Vishaka* guidelines get a statute |
+| **2006** | *Rameshwar Prasad* | Bihar dissolution (विघटन) on horse-trading fear **struck** |
+| **2024** | Chronology of the four (चातुर्याम) amendment cases | **1951 → 1965 → 1967 → 1973** |
+| **2022 / 2020** | Who propounded Basic Structure? | ***Kesavananda* 1973**, not Golaknath |
+| **2021** | Golaknath / 24th / Kesavananda / 42nd (42वां) | **1967 → 1971 → 1973 → 1976** |
+| **2017** | *Puttaswamy* on *Jabalpur* | Majority was **wrongly decided** |
+| **2007** | *Coelho* 9-judge | 9th Schedule (9वीं अनुसूची) post-**24 Apr 1973** still faces BS |
+| **1980** | *Minerva* | 368(4)(5) **dead** |
+| **24 Apr 1973** | *Kesavananda* | The date *and* the doctrine |
 
 
 ---

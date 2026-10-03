@@ -54,24 +54,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Nuclear = renewable | Usually **non-renewable** |
-| Non-conventional = non-renewable | **= renewable** |
-| Coal = biomass | **Fossil, not biomass** |
-| Uranium = fossil fuel | **Nuclear fuel**, not fossil |
-| Biogas = butane | **CH₄ + CO₂** |
-| Tidal = OTEC/wave | **Different drivers** |
-| PAT = carbon credits | **ESCerts** |
-| BEE = MNRE | **Power vs Renewables** |
-| Large hydro = non-conventional | Usually **conventional** |
-| E20 already forever since 2010 | **Target ~2025–26** |
-| SPR only in Delhi | **Vizag, Mangalore, Padur** |
-| Energy crisis = only hydro shortage | **Fossil fuel exhaustion risk** |
-| Biofuels always cheap | Often **not cost-effective** |
-| Maize = biodiesel crop | **Ethanol**; Jatropha = biodiesel |
-| Fuel cell = AC output | **DC**; by-products heat + water |
-| Gasification gas = CO₂ only | **Producer gas** CO + H₂ (+ CH₄) |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Renewable Energy** | **Non-Renewable Energy** | Energy derived from natural regenerative sources that replenish naturally on a human timescale without depleting stocks (solar, wind, small hydro, geothermal, biomass) vs finite geological energy reserves that take millions of years to form and cannot be replenished once consumed (coal, petroleum, natural gas, uranium) | नवीकरणीय ऊर्जा (अक्षय स्रोत) / अनवीकरणीय ऊर्जा (परिमित जीवाश्म भंडार) |
+| **Conventional Energy** | **Non-Conventional Energy** | Traditional energy sources that have been historically established and extensively utilized for commercial power generation for centuries (coal, oil, gas, large hydro, commercial nuclear) vs alternative, modern clean renewable sources developed to replace fossil fuels (solar, wind, tidal, ocean thermal, fuel cells) | पारंपरिक ऊर्जा स्रोत / गैर-पारंपरिक (वैकल्पिक) ऊर्जा स्रोत |
+| **Bioethanol** | **Biodiesel** | Pure ethanol fuel produced through the biochemical fermentation of sugary and starchy feedstocks (sugarcane juice, molasses, damaged grains, corn) blended with petrol (E20 mandate) vs fatty acid methyl esters (FAME) produced via the transesterification of non-edible plant vegetable oils (Jatropha curcas, Pongamia, animal fats) blended with diesel | बायो-इथेनॉल (किण्वन, पेट्रोल संवर्धन) / बायो-डीजल (ट्रांसएस्टरीकरण, डीजल संवर्धन) |
+| **Perform, Achieve and Trade (PAT)** | **Renewable Purchase Obligation (RPO)** | Market-based regulatory mechanism under the National Mission for Enhanced Energy Efficiency (BEE / EC Act 2001) issuing tradable Energy Saving Certificates (ESCerts) to designated energy-intensive industries vs statutory mandate under Electricity Act 2003 requiring power discoms to purchase a minimum percentage of electricity from renewable sources | निष्पादन, उपलब्धि और व्यापार (PAT, ऊर्जा बचत प्रमाण पत्र) / नवीकरणीय खरीद दायित्व (RPO) |
+| **Bureau of Energy Efficiency (BEE)** | **Petroleum Conservation Research Association (PCRA)** | Statutory body established under the Energy Conservation Act 2001 (Ministry of Power) promoting star rating standards for electric appliances and energy conservation codes vs registered society under the Ministry of Petroleum and Natural Gas promoting conservation and fuel efficiency in the petroleum sector | ऊर्जा दक्षता ब्यूरो (BEE, स्टार लेबलिंग) / पेट्रोलियम संरक्षण अनुसंधान संघ (PCRA) |
+| **Biogas** | **Compressed Biogas (CBG)** | Unrefined raw gaseous fuel mixture generated from anaerobic digestion of cattle dung and agro-waste containing ~55–60% methane and ~40% CO₂ vs purified, upgraded methane gas (≥90% CH₄) scrubbed of CO₂ and H₂S and compressed to ~250 bar for use as clean green automotive transport fuel (SATAT initiative) | बायोगैस (कच्ची गोबर गैस) / संपीडित बायोगैस (CBG, परिष्कृत 90%+ मीथेन) |
 
 
 ---

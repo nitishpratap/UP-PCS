@@ -54,32 +54,37 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Osaka = automobile** — FALSE. **Cotton**. Detroit = auto.
-2. **Cuba = shipbuilding** — FALSE. **Cigar**. St. Petersburg = ships.
-3. **Igarka = China** — FALSE. **Russia**.
-4. **Suez = Atlantic + Med** — FALSE. **Red Sea + Med**.
-5. **Suez cut = 10,000 km** — FALSE. **~7,000 km**.
-6. **Suez lakes start at Little Bitter** — FALSE. North door = **Manzala**.
-7. **Panama = Med–Red** — FALSE. That is Suez. Panama = Atlantic–Pacific.
-8. **Kiel = Med** — FALSE. **North Sea–Baltic**.
-9. **Mistral = Australia** — FALSE. **France**. Brickfielder = Australia.
-10. **Shamal = Austria** — FALSE. **Arabia**.
-11. **Chinook is cold** — FALSE. Warm **and dry**.
-12. **Foehn = Rockies** — FALSE. **Alps**. Chinook = Rockies.
-13. **Rotterdam = Germany** — FALSE. **Netherlands**.
-14. **Montevideo = Argentina** — FALSE. **Uruguay**.
-15. **Lancashire = wool** — FALSE. **Cotton**. Yorkshire = wool.
-16. **Hanshin = Tokyo** — FALSE. Osaka–Kobe. Keihin = Tokyo–Yokohama.
-17. **Suez has Panama-style facts** — FALSE. Suez is **sea-level**.
-18. **Willy-willy = Brickfielder** — FALSE. Willy-willy is a **cyclone**.
-19. **Duisburg = Netherlands sea port** — FALSE. **German inland** Rhine port.
-20. **Toulouse = Boeing** — FALSE. **Airbus**. Boeing = Seattle.
-21. **Manchester of Japan = Nagoya** — FALSE. **Osaka**. Nagoya = Detroit of Japan.
-22. **Footloose = steel on coal only** — FALSE. Electronics / R&D flexible location.
-23. **Silicon Valley = Detroit** — FALSE. California electronics / IT.
-24. **Skip non-PYQ cities/winds** — FALSE. Next year can ask any Lucent pair on this map.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Osaka | **Cotton textile** | Auto / ship | ओसाका |
+| Detroit | **Automobile** | Cotton | डेट्रॉइट |
+| Cuba | **Cigar** | Ship | क्यूबा |
+| St. Petersburg | **Shipbuilding** | Cotton | सेंट पीटर्सबर्ग |
+| Igarka | **Russia** (Yenisei timber) | China | इगारका |
+| Rotterdam | **Netherlands** | Germany / Belgium | रॉटरडैम |
+| Montevideo | **Uruguay** | Argentina | मोंटेवीडियो |
+| Suez waters | **Mediterranean + Red Sea** | Atlantic as a canal bank | स्वेज |
+| Suez cut | **~7,000 km** India–Europe | 5,000 / 10,000 | 7,000 किमी |
+| Suez lakes N→S | Manzala → Timsah → Great Bitter → Little Bitter | Reverse / skip Timsah | मंज़ाला पहले |
+| Panama | Atlantic (Caribbean) ↔ **Pacific** | Med ↔ Red (that is Suez) | पनामा |
+| Kiel | North Sea ↔ **Baltic** | Med | कील |
+| Chinook | Warm **dry**, **Rockies** | Cold wind | चिनूक |
+| Foehn | **Alps**, warm dry | Australia | फॉन |
+| Mistral | Southern **France** (Rhône) | **Australia** | मिस्ट्रल |
+| Shamal | **Arabia / Persian Gulf** | **Austria** | शमाल |
+| Brickfielder | **Australia** | France | ब्रिकफील्डर |
+| Santa Ana | **California** | Spain | सांता आना |
+| Harmattan | West Africa | Alps | हरमट्टन |
+| Bora | Adriatic (cold) | Warm Chinook dump | बोरा |
+| Suez vs Panama | Suez = no facts, Med–Red; Panama = **facts**, Atlantic–Pacific | Swap | स्वेज / पनामा |
+| Duisburg | Inland Rhine port, **Germany** | Netherlands / sea entrepôt | ड्यूसबर्ग |
+| Willy-willy | Australian **cyclone** | Local wind like Brickfielder | विली-विली |
+| Akron | **Tyres / rubber** (USA) | Steel | एक्रॉन |
+| Toulouse | **Airbus** | Boeing (Seattle) | टूलूज़ |
+| Khamsin | **Egypt** | Australia | खामसिन |
+| Osaka vs Detroit (Japan) | Osaka = **Manchester** (cotton); Nagoya = **Detroit** (auto) | Swap nicknames | |
+| Footloose vs steel | Footloose = electronics / R&D; steel = ore + coal | Electronics on coalfield only | |
+| Silicon Valley | California Bay Area **electronics / IT** | Detroit auto dump | सिलिकॉन वैली |
 
 
 ---

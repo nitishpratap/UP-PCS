@@ -54,22 +54,20 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. The **Kumbh 4 sites** are Prayagraj, Haridwar, Nashik and Ujjain. **Pushkar is not** one of them.
-2. **Pushkar Fair** is the Rajasthan camel fair in Kartik. **Pushkar Kumbh May 2025** is **Uttarakhand (Mana)**.
-3. **Magh Mela** is annual at Prayagraj. It is not the 12-year Ujjain Kumbh.
-4. **Pongal is Tamil Nadu. Onam is Kerala**. Never swap.
-5. **Bihu is Assam. Hornbill is Nagaland (Kisama, December)**.
-6. **Surajkund is Haryana**, not Rajasthan and not UP.
-7. **Bastar Dussehra** is Chhattisgarh, about 75 days, Danteshwari. It is not Rama–Ravana.
-8. **Chhath is Sun**, Bihar / east UP. It is not moon.
-9. **Garba** is Gujarat Navratri, UNESCO 2023. It is not SNA classical.
-10. **Ramlila** is UNESCO 2008 theatre. It is not a ninth classical dance.
-11. **Tansen Samaroh is Gwalior (MP)**. **Taj Mahotsav is Agra (UP)**.
-12. **Sangai is Manipur**. Kisama is Hornbill, not Sangai.
-13. **Vishu is Kerala. Ugadi is AP / Telangana / Karnataka. Gudi Padwa is Maharashtra**.
-14. **Sonepur is Bihar. Gangasagar is West Bengal**.
-15. **Saras Ajeevika Mela 2021 is Noida**, not Lucknow.
-16. **Losar** is Buddhist New Year across Sikkim, Arunachal and Ladakh. It is not “Assam Bihu.”
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Kumbh (4 sites) | Pushkar Fair | Prayagraj–Haridwar–Nashik–Ujjain vs Rajasthan camel fair | कुंभ / पुष्कर मेला |
+| Pushkar Fair | Pushkar Kumbh 2025 | Ajmer **Rajasthan**, Kartik vs **Mana, Uttarakhand**, May | पुष्कर मेला / पुष्कर कुंभ |
+| Magh Mela | Kumbh | Annual Prayagraj bath vs 12-year mega at a Kumbh site | माघ मेला / कुंभ |
+| Pongal | Onam | **Tamil Nadu** January vs **Kerala** Aug–Sep | पोंगल / ओणम |
+| Bihu | Hornbill | **Assam** harvest trio vs **Nagaland** Dec showcase | बिहू / हॉर्नबिल |
+| Garba | Bhangra | **Gujarat** Navratri vs **Punjab** Baisakhi | गरबा / भांगड़ा |
+| Durga Puja | Navratri | **Bengal** pandals vs 9-night goddess (Gujarat Garba) | दुर्गा पूजा / नवरात्रि |
+| Ramlila | Dussehra | Ramayana play (UNESCO 2008) vs Vijayadashami / Ravana effigy | रामलीला / दशहरा |
+| Surajkund | Pushkar Fair | **Haryana** Feb crafts vs **Rajasthan** Kartik livestock | सूरजकुंड / पुष्कर |
+| Ugadi | Gudi Padwa | AP/Telangana/Karnataka New Year vs Maharashtra New Year (same season) | उगादि / गुड़ी पड़वा |
+| Folk | Tribal | Peasant/community (Braj Holi) vs adivasi ritual (Sarhul) | लोक / आदिवासी |
+| Eid-ul-Fitr | Eid-ul-Adha | End of Ramadan vs Bakrid / sacrifice | ईद उल फितर / बकरीद |
 
 
 ---

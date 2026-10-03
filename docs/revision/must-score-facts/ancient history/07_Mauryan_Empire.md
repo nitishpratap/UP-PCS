@@ -54,46 +54,27 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **RE XII vs XIII** → XII = synthesis (2022); XIII = Kalinga.
-2. **Rahulovada = Ashoka’s dhamma definition** → **false** (2024).
-3. **Agronomai = roads / weights** → **revenue** (2020); roads are the Strabo extra.
-4. **Maski = Girnar Major set** → Maski = **MRE** that **names** Ashoka.
-5. **Sannidhata collects tax** → he **stores**; Samaharta collects.
-6. **Chandragupta Maurya = Chandragupta II** → 322 BCE vs Gupta.
-7. **Barabar = Buddhist Ajanta / 6th c. BCE** → **Ajivika**, Mauryan polish.
-8. **Sarnath lions = Sanchi stupa** → emblem = **Sarnath**; “best stupa” often = **Sanchi**.
-9. **Megasthenes with Alexander** → Seleucus’s envoy.
-10. **Indica’s seven castes = varna** → Greek seven-fold sketch; philosophers = Brahman + Shramana.
-11. **Chola/Pandya / Sri Lanka = Mauryan provinces** → **neighbours** in RE II.
-12. **Vayu Purana = Gupta administration** → 2023 stmt 2 false.
-13. **Ashoka’s death = end of empire** → lasts to **185** (Brihadratha).
-14. **Arthashastra = Indica** → Kautilya vs Megasthenes.
-15. **Allahabad pillar is only Gupta** → Mauryan shaft, later reused.
-16. **Dhauli/Jaugada print full RE XIII** → they carry **separate Kalinga edicts** instead.
-17. **Punch-marked coins = Ashoka’s portrait issues** → anonymous *karshapana*; portraits = Indo-Greek.
-18. **Didarganj Yakshi = Gupta Sarnath Buddha** → Mauryan-polish Patna figure (date debated).
-19. **Prinsep 1837** reads Brahmi; Maski later proves Piyadassi = Ashoka.
-20. **PE V = dhamma-mahamatras** → that is **RE V**; PE V = **animals**.
-21. **Ahraura = Sarnath lions** → Ahraura = **Mirzapur MRE**.
-22. **Lomas Rishi donated by Ashoka in writing** → famous **facade**; Sudama/Karan Chaupar carry Ashokan Ajivika grants.
-23. **Bhabru Laghulovada proves 2024 stmt 1** → listed as a *monk-text*, not the definition of state Dhamma.
-24. **Indica “no slavery” = Arthashastra** → they **clash**.
-25. **Six city boards = six army boards = 18 tirthas** → three different lists.
-26. **Girnar is only Ashokan** → same rock later has **Rudradaman**.
-27. **Vaishali pillar carries the seven PE** → single lion, **no** edict.
-28. **Chola/Keralaputra = kumara provinces** → **neighbours** (RE II).
-29. **Kunala is as epigraphic as Tivala** → Tivala is on the Queen’s edict; Kunala is legend.
-30. **Pranaya = ordinary land tax** → **emergency** tax (UKPCS 2021).
-31. **Sita = goddess in revenue stems** → crown-land produce.
-32. **Turamaya = Syria** → **Egypt** (Ptolemy II).
-33. **Mauryas started religious land grants** → Satavahana epigraphy; Mauryas did not.
-34. **Vishnugupta = Vishakhadatta** → Chanakya’s other name.
-35. **Sudarshana founded by Rudradaman** → built under **Chandragupta**; Rudradaman **repairs**.
-36. **Third Council = Ashokan edicts** → *Dipavamsa* / *Mahavamsa*.
-37. **Parkham Yaksha unnamed** → inscribed **Manibhadra**.
-38. **Kumrahar / Bulandibagh = Vaishali** → **Pataliputra**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Chandragupta Maurya | Chandragupta II | 322 BCE founder vs Gupta **Vikramaditya** | चंद्रगुप्त मौर्य / द्वितीय |
+| Samaharta | Sannidhata | **Collects** revenue vs **stores** the kosha | समाहर्ता / संनिधाता |
+| RE XII | RE XIII | **Samavaya** / religious concord (2022) vs **Kalinga** | बारहवाँ / तेरहवाँ |
+| RE XIII | Separate Kalinga edicts | Full Kalinga text on most sites vs **Dhauli/Jaugada** (“all men are my children”) | तेरहवाँ / कलिंग पृथक |
+| Major RE | Minor RE | 14-set, title Piyadassi vs local; **Maski names Ashoka** | प्रमुख / लघु |
+| Dhamma | Buddhism | Ethical **state policy** vs the religion he patronised | धम्म / बौद्ध |
+| Kautilya | Megasthenes | Sanskrit *Arthashastra* vs Greek *Indica* | कौटिल्य / मेगस्थनीज |
+| Agronomai | Pautavadhyaksha | Rural **revenue/land** (2020 D) vs **weights** | एग्रोनोमोई / पौतवाध्यक्ष |
+| Barabar | Ajanta | Mauryan polish, **Ajivika** gift vs later Buddhist painted caves | बराबर / अजंता |
+| Rajuka | Dhamma-mahamatra | Land/justice (PE) vs **moral/welfare** cadre (RE V) | राजुक / धम्म-महामात्र |
+| Bherighosha | Dhammaghosha | War-drum vs **dhamma-drum** (RE IV / XIII) | भेरीघोष / धम्मघोष |
+| RE V | PE V | **Dhamma-mahamatras** vs **protected-animal** list | शैल ५ / स्तंभ ५ |
+| Six city boards | Six army boards | Crafts/foreigners/census… vs navy/transport/infantry… | नगर षट् / सेना षट् |
+| Bhaga | Bali | Produce **share** vs extra/religious levy (Rummindei drops *bali*) | भाग / बलि |
+| Sudama | Lomas Rishi | Polished Ajivika cell vs **horseshoe chaitya-arch** facade | सुदामा / लोमश ऋषि |
+| Ahraura | Sarnath | UP **Minor Rock** (Mirzapur) vs UP **lion capital** | अह्रौरा / सारनाथ |
+| Kunala | Tivala | Blinded-son legend vs **Queen’s edict** son of Karuvaki | कुणाल / तिवल |
+| Sanstha | Sanchara | Stationary covers vs **mobile** spies | संस्था / संचार |
+| Moriya kshatriya | Purana shudra | Buddhist Pipphalivana origin vs Brahmanical **low-birth** smear | मोरिय / पुराण |
 
 
 ---

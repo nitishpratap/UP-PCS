@@ -54,20 +54,11 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-
-1. **Myopia correction**: **Concave** lens; hypermetropia = **convex** lens.
-2. **Thyroxine element**: Needs **iodine** — deficiency → goitre.
-3. **Insulin source**: **Beta cells** of islets of Langerhans — alpha cells make glucagon.
-4. **Adrenaline**: Emergency hormone from adrenal **medulla**; cortex makes steroids.
-5. **Neuron impulse**: Travels axon terminal via synapse with neurotransmitters — not continuous cytoplasm jump in chemical synapses.
-6. **Male vs female gamete**: Sperm is motile and tiny; ovum is larger and non-motile.
-7. **Fertilisation site**: Usually **fallopian tube** (ampulla), not uterus.
-8. **Bone vs cartilage**: Bone is hard with osteocytes; cartilage is flexible with chondrocytes — ear pinna is cartilage.
-9. **Ball-and-socket vs hinge**: Shoulder/hip = ball-and-socket; elbow/knee = hinge.
-10. **Reflex arc**: Sensory → interneuron (often) → motor — brain is not required for simple spinal reflexes.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **25 May** | **World Thyroid Day** observed annually on **25 May** to promote awareness of thyroid health, iodine deficiency goitre, and Hashimoto's thyroiditis. | Thyroid hormones ($T_3$ and $T_4$) regulate basal metabolic rate (BMR); require iodine for synthesis. |
+| **Still Current** | **Saheli (Centchroman / Ormeloxifene)**: The world's first **non-steroidal, non-hormonal, once-a-week oral contraceptive pill**. | Developed by Indian scientists at **Central Drug Research Institute (CDRI), Lucknow**; incorporated into the National Family Planning Programme as 'Chhaya'. |
+| **PCPNDT Act** | Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act, **1994** (enacted to prohibit prenatal sex determination via amniocentesis or ultrasonography). | Strictly penalises sex-selective abortions to correct adverse juvenile sex ratio. |
 
 
 ---

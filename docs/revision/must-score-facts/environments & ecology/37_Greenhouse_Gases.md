@@ -47,21 +47,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Argon / N₂ / O₂ are GHGs | **Not** |
-| Hydrogen / propane are GHGs | **Not** |
-| Paddy gas = CO₂ or CO | **Methane** |
-| Laughing gas = ammonia / CFC | **N₂O** |
-| Biogas = butane / CO | **CH₄ + CO₂** |
-| Highest GWP = most total warming | **CO₂ dominates by volume** |
-| Water vapour = primary human driver | **Feedback** / most abundant **natural** GHG |
-| CFC is not a GHG | **It is** (and ODS) |
-| SO₂ warms Earth directly | **Indirect** / acid-rain role |
-| Fourier missing | **Joseph Fourier (1820s)** |
-| HFC = ODS | **GHG only**; Kigali |
-| Stratospheric O₃ = smog pollutant | **UV shield**; bad O₃ is tropospheric |
-| CNG = butane | **Methane** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Global Warming Potential (GWP)** | **Radiative Forcing** | Heat absorption efficiency of 1 kg of a gas over 100 years relative to CO₂ (=1) vs net change in energy balance of Earth (W/m²) caused by that gas | वैश्विक तापन क्षमता (GWP) / विकिरण दबाव |
+| **Carbon Dioxide (CO₂)** | **Water Vapour (H₂O)** | Primary anthropogenic driver of long-term climate change (atmospheric residence 100+ yrs) vs dominant natural greenhouse gas acting as a fast temperature feedback | कार्बन डाइऑक्साइड (मानवजनित) / जलवाष्प (प्राकृतिक फीडबैक) |
+| **Methane (CH₄)** | **Nitrous Oxide (N₂O)** | GWP ~28–30 (residence ~12 yrs; rice paddies, enteric livestock, wetlands) vs GWP ~265–273 (residence ~114 yrs; chemical fertilizers, adipic acid) | मीथेन (धान/पशुपालन) / नाइट्रस ऑक्साइड (उर्वरक) |
+| **Sulfur Hexafluoride (SF₆)** | **Carbon Dioxide (CO₂)** | Most potent GHG known with GWP >23,500 (used in electrical switchgear) vs benchmark baseline GHG with GWP = 1 | सल्फर हेक्साफ्लोराइड (GWP 23,500) / CO₂ (मानक 1) |
+| **Kyoto Six GHGs** | **Montreal Phase-Out Gases** | CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ (later NF₃ added) targeted for climate reduction vs CFCs, Halons, CCl₄, HCFCs targeted for stratospheric ozone protection | क्योटो 6 ग्रीनहाउस गैसें / मॉन्ट्रियल ओजोन गैसें |
 
 
 ---

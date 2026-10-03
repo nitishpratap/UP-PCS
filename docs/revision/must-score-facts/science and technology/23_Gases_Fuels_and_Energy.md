@@ -54,22 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **LPG vs. CNG Main Molecule** | Mixing up whether LPG or CNG contains Methane. | **CNG is Methane ($CH_4$)**. **LPG is Butane + Propane**. |
-| **LPG Smell Source** | Believing LPG naturally smells bad. | Pure LPG is **completely odorless**; the foul smell is added **Ethyl Mercaptan ($C_2H_5SH$)**. |
-| **Water Gas vs. Producer Gas** | Mixing up which gas contains Hydrogen vs. Nitrogen. | **Water Gas = $CO + H_2$** (steam reaction). **Producer Gas = $CO + N_2$** (air reaction). |
-| **Highest Calorific Value** | Answering methane or petrol for highest calorific value. | **Hydrogen has the highest calorific value ($150,000\text{ kJ/kg}$)**, $\approx 3\times$ higher than petrol. |
-| **Coal Ranks Hierarchy** | Ranking bituminous as the highest grade coal. | **Anthracite is highest ($>90\%$ C)**. Bituminous is most abundant ($75–85\%$). Lignite is brown ($60–70\%$). |
-| **Neyveli Coal Type** | Thinking Neyveli produces anthracite or bituminous coal. | Neyveli (Tamil Nadu) produces **Lignite ("brown coal")**. Anthracite is found in Jammu & Kashmir. |
-| **Ideal Gas Conditions** | Believing gases behave ideally at high pressure. | Real gases behave ideally at **low pressure and high temperature** (where molecules are far apart and moving fast). |
-| **Octane vs. Cetane Target** | Confusing Octane for diesel and Cetane for petrol. | **Octane rating is for Petrol (Gasoline)**. **Cetane rating is for Diesel**. |
-| **Water on Petrol Fire** | Assuming water extinguishes oil fires by cooling them. | Petrol floats on water ($d \approx 0.7–0.8$) and spreads the fire; use **$CO_2$ or foam extinguishers**. |
-| **Bhopal Gas Name** | Writing methyl isocyanide or phosgene for Bhopal. | The disaster was caused by **Methyl Isocyanate (MIC, $CH_3NCO$)**, not isocyanide. |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025–2026** | **National Green Hydrogen Mission** | Targeted green hydrogen production capacity of $5\text{ MMT}$ per annum by 2030. Hydrogen ($H_2$) possesses the **highest gravimetric calorific value of all fuels ($150,000\text{ kJ/kg}$)** and burns to produce pure water ($2H_2 + O_2 \to 2H_2O$) with zero greenhouse gas emissions. |
+| **2025** | **UPPCS Prelims 2025** | Direct question on **Biogas Major Constituents**: Keyed strictly as **Methane ($CH_4$, $55–70\%$) + Carbon Dioxide ($CO_2$, $30–45\%$)**. Distractors like Butane (LPG) and Carbon Monoxide (Water/Producer gas) were eliminated. |
+| **2024–2025** | **E20 Ethanol Blending Target** | India successfully rolled out **E20 Fuel** ($20\%$ bio-ethanol blended with $80\%$ motor gasoline/petrol) nationwide across retail fuel pumps, advancing the target date from 2030 to 2025. Ethanol acts as a high-octane oxygenate reducing carbon monoxide tailpipe emissions. |
+| **2022** | **UPPCS Prelims 2022** | Re-tested identity of **CNG** and **Natural Gas**: Both consist predominantly of **Methane ($CH_4$, $>85\%$)**. Mechanical compression to $200\text{ bar}$ does not alter the fundamental chemical identity of the gas. |
+| **2021** | **UPPCS Prelims 2021** | Tested **LPG Primary Constituent**: Correctly keyed as **Butane** (together with propane). Highlighted the role of **Ethyl Mercaptan ($C_2H_5SH$)** as the vital foul-smelling leak indicator added to odorless LPG cylinders. |
 
 
 ---

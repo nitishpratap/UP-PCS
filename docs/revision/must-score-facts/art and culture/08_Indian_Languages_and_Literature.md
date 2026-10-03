@@ -54,36 +54,28 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. *Shringara Shataka* (शृंगार शतक) is not by Kalidasa (कालिदास). It is by **Bhartrihari** (भर्तृहरि).
-2. *Uttararamacharita* (उत्तररामचरित) is not by Kalidasa. It is by **Bhavabhuti** (भवभूति).
-3. *Mrichchhakatika* (मृच्छकटिकम्) is not by Kalidasa. It is by **Shudraka** (शूद्रक).
-4. *Kathasaritsagara* is **Somadeva**, not Kshemendra (*Brihatkathamanjari*).
-5. *Gita Govinda* is **Jayadeva**, not Trivikram Bhatta.
-6. Shukla Yajurveda is **Vajasaneyi**, not Taittiriya. Kathaka is not Kathak dance.
-7. **Bhojpuri** is not Eighth Schedule. Nepali, Dogri and Bodo are.
-8. Schedule 8 is **22**. Sahitya Akademi is **24**. Classical is **11** from Oct 2024, not 6.
-9. **Hindi is not** classical. **Tamil was first** (2004).
-10. CIIL is **Mysuru**, not Banaras.
-11. Baburnama language is **Turki**. Court language is **Persian**.
-12. The Tutinama translator is **Nakhshabi**, not Khusrau.
-13. Tulsidas is not Valmiki. The Gita is not a Veda.
-14. The 2024 Sanskrit conclave was at **Kathmandu**, not New Delhi.
-15. Kavindra Acharya of Banaras is **Shah Jahan**, not Akbar.
-16. *Harshacharita* / *Kadambari* = **Banabhatta**; Harsha’s own plays are *Ratnavali*, *Priyadarshika*, *Nagananda*.
-17. *Karpuramanjari* = **Rajasekhara**, not Harsha.
-18. *Milindapanha* monk = **Nagasena**, not Nagarjuna; language = **Pali**.
-19. *Devichandragupta* = **Vishakhadatta**, not **Bilhana** (बिल्हण) (*Vikramankadevacharita* (विक्रमांकदेवचरित)).
-20. *Amarakosha* = **Amarasimha**, not Varahamihira (*Brihatsamhita* / *Panchasiddhantika*).
-21. Panini ≠ Pushyamitra court; **Patanjali** is the Shunga-linked grammarian. Amarasimha ≠ Harsha.
-22. *Janakiharanam* = **Kumaradasa**, not Kalidasa. *Malavikagnimitram* protagonist = **Agnimitra**.
-23. Mitakshara ≠ upper-caste-only law; tested difference is **lifetime vs after-death** inheritance claim.
-24. *Natural History* = **Pliny**, not Ptolemy. Father of History = **Herodotus**.
-25. *Panchatantra* = **Vishnu Sharma**; Mughal Persian = ***Ayar-e-Danish*** (Abul Fazl).
-26. Zero = **anonymous Indian** in many keys; do not force Aryabhata on every zero stem.
-27. *Rajatarangini* continuators = **Jonaraja** and **Srivara**; contemporary king = **Jayasimha / Jai Singh**.
-28. *Gita Govinda* court = **Lakshmana Sena**, not Dharmapala / Devapala.
-29. *Natyashastra* = **Bharata Muni**. *Mattavilasa* = **Mahendravarman I**.
-31. **Vishnu Purana** (विष्णु पुराण) = **Maurya** (मौर्य) genealogy. **Matsya Purana** (मत्स्य पुराण) = longest **Andhra / Satavahana** (सातवाहन) list. **Vayu Purana** (वायु पुराण) lists Gupta kings but is **not** a Gupta admin manual.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Shruti | Smriti | Heard/revealed (Veda–Upanishad) vs remembered (epic, Purana, smriti-law) | श्रुति / स्मृति |
+| Samhita | Brahmana | Mantra collection vs ritual prose | संहिता / ब्राह्मण |
+| Shukla Yajurveda | Krishna Yajurveda | Vajasaneyi (Madhyandina, Kanva) vs Taittiriya, Maitrayani, Kathaka, Kapisthala | शुक्ल / कृष्ण यजुर्वेद |
+| Itihasa | Purana | Ramayana–Mahabharata vs 18 Maha Puranas | इतिहास / पुराण |
+| Kavya | Nataka | Poem (*Meghaduta* (मेघदूत)) vs drama (*Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्)) | काव्य / नाटक |
+| Kalidasa | Bhavabhuti | 3 plays + 4 poems vs Uttararamacharita | कालिदास / भवभूति |
+| 8th Schedule | Classical language | Constitutional **22** vs Culture tag **11** | अष्टम अनुसूची / शास्त्रीय भाषा |
+| 8th Schedule | Sahitya Akademi | 22 vs **24** award languages | 22 / 24 |
+| Awadhi | Braj | Tulsidas vs Surdas | अवधी / ब्रज |
+| Pali | Prakrit | Buddhist canon vs Jain/secular Middle Indo-Aryan | पाली / प्राकृत |
+| Valmiki | Tulsidas | Sanskrit Adikavi vs Awadhi Ramcharitmanas | वाल्मीकि / तुलसीदास |
+| Harsha plays | Harshacharita | Ratnavali / Nagananda / Priyadarshika vs Banabhatta’s biography | हर्ष नाटक / हर्षचरित |
+| Karpuramanjari | Harsha | **Rajasekhara** vs Harsha’s three plays | कर्पूरमंजरी / हर्ष |
+| Kalhana | Jonaraja / Srivara | Rajatarangini founder vs continuators | कल्हण / जोनराज–श्रीवर |
+| Amarakosha | Brihatsamhita | Amarasimha lexicon vs Varahamihira encyclopedia | अमरकोश / बृहत्संहिता |
+| Mitakshara | Dayabhaga | Vijnaneshwara (son’s right in father’s lifetime) vs Jimutavahana (after death) | मिताक्षरा / दायाभाग |
+| Nagasena | Nagarjuna | Milindapanha monk vs Madhyamaka philosopher | नागसेन / नागार्जुन |
+| Vishakhadatta | Bilhana | Mudrarakshasa / Devichandraguptam vs Vikramankadevacharita | विशाखदत्त / बिल्हण |
+| Pliny | Ptolemy | Natural History vs geography / Almagest | प्लिनी / टॉलेमी |
+| Panini | Patanjali | Ashtadhyayi (earlier) vs Mahabhashya (Shunga link) | पाणिनि / पतंजलि |
 
 
 ---

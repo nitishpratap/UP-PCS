@@ -26,31 +26,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Part XI = Municipalities / Tribunals | **IXA** / **XIVA** |
-| AG sits in Part XIII | **Part V**, Art. 76 |
-| 9th Schedule = RS seats | **4th** Schedule |
-| 8th has Bhojpuri | **22**, Bhojpuri **out** |
-| 11th = 18 subjects | **29** / 12th = **18** |
-| 6th Schedule includes UP | **AMTM only** |
-| Art. 32 wider than 226 | **226 is wider** |
-| VP elected like the President | **No MLAs** |
-| 352 ground still “internal disturbance” | **Armed rebellion** (44th) |
-| 360 has been used | **Never** |
-| 358 kills all FR | Only **Art. 19**, and only war/aggression |
-| 359 can freeze 21 | **Cannot** (44th) |
-| Panchayat polls = ECI / 324 | **SEC / 243K** |
-| President’s oath = 3rd Schedule | **Art. 60** |
-| Governor oath = CJI | **State HC CJ** |
-| 42nd = 1978 | **1976**; 44th is 1978 |
-| 9th Amd = 9th Schedule | Amd = **Berubari**; Schedule = **1st Amd** |
-| 106th is already filling seats | Waits **delimitation** |
-| Residuary = USA/States | **Canada / Centre** |
-| DPSP = USA | **Ireland** |
-| Joint sitting = UK | **Australia** |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| 2025 | Part XI ≠ Municipalities; 8th Schedule (अष्टम अनुसूची) **Bhojpuri OUT**; 42nd (42वां) Preamble (प्रस्तावना) = **Socialist + Secular** |
+| 2024 | *Kesavananda* (केशवानंद भारती 1973) chronology; 42nd = **1976**; GST (वस्तु एवं सेवा कर) = **101st** |
+| 2023 | Schedule NOT-matched (9th ≠ RS seats); Panchayat polls = **SEC** |
+| 2022 | 3rd/4th/7th/8th match; RTE = **86th** not 103rd |
+| 2021 | *Golaknath* (गोलकनाथ 1967) → 24th → *Kesavananda* → 42nd |
+| 2023 | **106th** women 33% — **not yet in force** |
 
 
 ---

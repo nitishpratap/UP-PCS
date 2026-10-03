@@ -54,30 +54,21 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **Bhimbetka** is **MP** prehistoric rock art (Wakankar **1957**), **not** Ajanta fresco.
-2. **Bagh** is **MP**, not UP.
-3. In Shadanga, **Pramanam** is proportion. **Bhava** is emotion. **Sadrisyam** is likeness. **Varnikabhangam** is colour.
-4. **Ajanta** is paintings. **Ellora** is sculpture (Kailasa).
-5. **Padmapani** is Cave **1**, Mahayana iconic — not Hinayana aniconic.
-6. **Hamzanama**, **Daswanth** and **Basawan** are **Akbar. Mansur** and **Bishandas** are **Jahangir**.
-7. **Bani Thani** is Kishangarh, **not** Kangra.
-8. The order is Basohli → Guler → Kangra. Kangra is hills, not Marwar.
-9. Company School is not Bengal School. Photography ends Company documentary demand.
-10. Ravi Varma oil/oleograph is not Abanindranath wash.
-11. PAG is **1947** Husain–Raza–Souza. **Raza** is Bindu, not Husain.
-12. Haripura posters are Nandalal Bose **1938**, not Ravi Varma.
-13. Venushilpa is **bamboo**, not painting.
-14. **Sittanavasal** is Jain. **Ajanta** is Buddhist.
-15. Madhubani is GI, not UNESCO ICH. Sigiriya is Sri Lanka.
-16. Mughal painting is miniature, not mural.
-17. **Jogimara** (Chhattisgarh) contains the earliest surviving Indian frescoes — **not** Ajanta and **not** Uttar Pradesh.
-18. Dying Princess is Ajanta **Cave 16**, not Cave 1 Padmapani.
-19. **Nimatnama** is Mandu cookbook, not Akbar. **Hamzanama** is Akbar cloth folios.
-20. **Tanjore** is gold/gems on wood. **Mysore** is finer gesso.
-21. Srikalahasti Kalamkari is pen. Machilipatnam is block-print.
-22. Constitution illuminations and Haripura are **Nandalal**, not Ravi Varma.
-23. **Sanjhi** is Braj/UP. **Pichwai** is Nathdwara. **Phad** is Pabuji.
-24. Deccani (Bijapur/Golconda) is not Kangra. Awadh/**Mihr Chand** is not Sahibdin.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Fresco | Tempera / secco | Pigment on **wet** plaster (Ajanta) vs binder on **dry** surface | भित्ति-फ्रेस्को / टेम्पेरा |
+| Mural | Miniature | Wall/ceiling integral to building vs small album/manuscript | भित्ति / लघु चित्र |
+| Mughal | Rajput | Imperial Persianised court vs Hindu princely, bhakti/ragamala | मुग़ल / राजपूत |
+| Rajput | Pahari | Rajasthan plains (Mewar, Marwar) vs Himalayan hills (Kangra) | राजपूत / पहाड़ी |
+| Basohli | Kangra | Early bold flat colour vs late lyrical Krishna–nature | बसोहली / कांगड़ा |
+| Company | Bengal School | Colonial documentary for EIC vs nationalist wash revival | कंपनी / बंगाल स्कूल |
+| Ravi Varma | Abanindranath | Oil + oleograph realism vs wash / anti-academic revival | रवि वर्मा / अवनिंद्रनाथ |
+| Ajanta | Ellora | Famous for **paintings** vs famous for **sculpture** (Kailasa) | अजंता / एलोरा |
+| Aniconic | Iconic (Ajanta) | Phase I symbols vs Phase II Buddha/Bodhisattva figures | अप्रतिमेय / प्रतिमेय |
+| Hamzanama | Ragamala | Akbar adventure manuscript vs Rajput/Pahari musical-mode series | हमज़ानामा / रागमाला |
+| Tanjore | Mysore | Gold foil + gems on wood vs finer gesso, less gem-studded | तंजावुर / मैसूर |
+| Srikalahasti Kalamkari | Machilipatnam Kalamkari | Temple kalam (pen) religious vs block-print trade cloth | श्रीकालहस्ती / मछलीपट्टनम |
+| Jogimara | Ajanta | Earliest secular fresco (Ramgarh, CG) vs Buddhist narrative peak | जोगीमारा / अजंता |
 
 
 ---

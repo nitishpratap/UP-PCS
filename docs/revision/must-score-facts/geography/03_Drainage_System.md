@@ -54,32 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Pranhita → Mahanadi** — FALSE. **Godavari**.
-2. **Betwa joins Yamuna at Prayagraj** — FALSE. **Hamirpur**.
-3. **Any Prayag forms the Ganga** — FALSE. Only **Devprayag** (Alaknanda + Bhagirathi).
-4. **Ganga delta = bird’s-foot** — FALSE. **Mississippi**; Ganga is **arcuate**.
-5. **Moribund delta subdivision = Cauvery / Krishna–Godavari** — FALSE. UPPCS 2019 keys **Bengal Delta** (moribund / mature / active). Cauvery is the usual trap.
-6. **Tapi from Western Ghats** — FALSE. **Multai, Satpura**.
-7. **Jonk in Ganga basin** — FALSE. **Mahanadi**.
-8. **Srisailam on Tungabhadra / Pandoh on Ravi** — FALSE. **Krishna / Beas**.
-9. **Pennar and Palar → Arabian Sea** — FALSE. **Bay of Bengal**; Periyar is west.
-10. **Fault-valley tag = Chambal** — FALSE. **Damodar**.
-11. **Folded structure = dendritic** — FALSE. **Trellis**.
-12. **Trans-Himalayan = Jhelum or Ravi** — FALSE. **Sutlej** among usual options. Also Indus and Brahmaputra are Trans-Himalayan; Ganga is not the pick in that set.
-13. **Chambal Sanctuary includes Haryana** — FALSE. **UP, MP, Rajasthan** only (2020).
-14. **UP biological disaster = Yamuna** — FALSE. **Gomti**.
-15. **Barak = inland saline like Luni** — FALSE. Barak → **BoB**; Luni = fresh upper / saline lower.
-16. **Indus / Sutlej / Brahmaputra = superimposed** — FALSE. They are **antecedent**. Superimposed example = **Chambal**.
-17. **Hemavati → Mahanadi** — FALSE. **Kaveri**.
-18. **Largest share of river *water* = Ganga basin area rank** — FALSE. **Brahmaputra** ~40% of water; Ganga is the largest **Indian basin by area**.
-19. **Hyderabad on Krishna** — FALSE. On **Musi** (Krishna tributary).
-20. **Northern Assam Brahmaputra tribs = left bank** — FALSE when looking downstream west: north bank = **right bank** (Subansiri, Manas, Sankosh, Teesta).
-21. **Eastern Dhauliganga = Alaknanda Prayag set** — FALSE. Eastern Dhauliganga → **Kali / Sharda**.
-22. **Gandak flows through UP** — FALSE. Nepal → Bihar → Ganga at Sonpur.
-23. **Narmada forms a delta** — FALSE. **Estuary** (rift / hard rock / little silt).
-24. **Ludhiana on Ravi** — FALSE. Old **Sutlej** bank belt.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Dec 2021 / Dec 2024** | Ken–Betwa (बेतवा) Link: Cabinet ₹44,605 cr; PM foundation **25 Dec 2024** | First ILR under implementation | PIB |
+| **2025–26** | **Only** priority NPP link in implementation (30 identified: 16 peninsular + 14 Himalayan); NWDA nodal | “How many links operational?” trap | Rajya Sabha (राज्यसभा) / Jal Shakti (शक्ति) Aug 2026 |
+| **2026** | Spend ~₹12,382 cr to Jun 2026; target ~Mar 2030; Bundelkhand MP–UP; **Panna TR** forest | Cost / ecology (पारिस्थितिकी) pairing | LS Q Aug 2026 |
+| Ongoing | Polavaram includes Godavari–Krishna (Vijayawada) link assistance | Peninsular grid | PIB |
+| 2016 | National Waterways Act — 106 NWs; core still NW-1 to NW-5 | Number vs names | Act |
 
 
 ---

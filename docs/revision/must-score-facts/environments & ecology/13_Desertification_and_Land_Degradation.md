@@ -51,20 +51,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-| Trap | Correct fact |
-|------|----------------|
-| Desertification = desert expansion only | **Any ASDM dryland losing productivity** |
-| Land degradation = desertification | **Degradation is broader** |
-| Afforestation causes degradation | **It prevents degradation** |
-| Sheet erosion = deep ravines | **Sheet is first, mildest stage** |
-| Chambal ravines in one state | **MP + UP + Rajasthan** |
-| UNCCD = climate treaty | **UNCCD = desertification; UNFCCC = climate** |
-| Normal rain pH 7 stops erosion | **Unrelated — erosion is topsoil removal** |
-| Wind erosion in Chambal ravines | **Water/gully erosion** |
-| LDN target 2025 | **2030 (SDG 15.3)** |
-| UNCCD signed at Rio 1992 | **Adopted 1994, Paris** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Desertification** | **Land Degradation** | Persistent reduction or loss of biological and economic productivity occurring specifically in Arid, Semi-Arid, and Dry Sub-Humid areas (drylands) vs general decline in the productive capacity and ecosystem health of any land anywhere | मरुस्थलीकरण (शुष्क भूमियों में) / भू-क्षरण (सामान्य भूमि अवनति) |
+| **Drought** | **Desertification** | Temporary natural meteorological period of deficient precipitation over months or a few years from which ecosystems can recover vs persistent, semi-permanent ecological degradation and productivity loss driven by unsustainable human use and climate stress | सूखा (अस्थायी मौसमी संकट) / मरुस्थलीकरण (स्थायी भूमि ह्रास) |
+| **Sheet Erosion** | **Gully Erosion** | Uniform, imperceptible removal of a thin layer of topsoil over large flat cultivated fields by sheetwash runoff vs cutting of deep, severe channels and ravines by concentrated runoff carving badland topography (e.g. Chambal ravines) | परत (चादर) अपरदन / अवनलिका अपरदन (बीहड़ निर्माण) |
+| **Splash Erosion** | **Rill Erosion** | Initial detachment and airborne displacement of soil particles caused directly by the physical impact of falling raindrops vs intermediate erosion stage where tiny, shallow, visible finger-like channels are formed on sloped ground | आघात (स्पलैश) अपरदन / क्षुद्र सरिता (रिल) अपरदन |
+| **UNCCD (1994)** | **UNFCCC (1992)** | Sole legally binding international treaty linking environment and development to sustainable land management, desertification, and drought in drylands vs framework convention dedicated to addressing anthropogenic climate change and greenhouse gases | मरुस्थलीकरण रोकथाम संधि (UNCCD) / जलवायु परिवर्तन संधि (UNFCCC) |
+| **Land Degradation Neutrality (LDN)** | **Net Zero Emissions** | Target under UN SDG 15.3 ensuring that the quantity and quality of land resources necessary to support ecosystem functions remain stable or increase by 2030 vs balancing greenhouse gas emissions with equivalent removals | भूमि क्षरण तटस्थता (LDN, SDG 15.3) / नेट जीरो उत्सर्जन |
 
 
 ---

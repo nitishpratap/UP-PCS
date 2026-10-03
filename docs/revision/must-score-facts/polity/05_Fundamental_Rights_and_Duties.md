@@ -54,31 +54,24 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. Equality before law = **14**, not 12/19/21 — 2024
-2. Property **not** in present Art. 19 — 2024
-3. Exploitation = **23–24**, not untouchability (17) or minorities (29–30) — 2024
-4. Torture **≠** Art. 20 — 2023
-5. RTE = **86th / 21A**, not 103rd (EWS) — 2022
-6. 14 = all persons; **16 and 19 = citizens**
-7. 19(1)(f) was **property**, 19(1)(g) is **profession**
-8. 15 grounds do **not** include residence (that is 16)
-9. Bharat Ratna **≠** Art. 18 title
-10. PD is **constitutional**; 44th’s 2-month Board rule is **not in force**
-11. Art. **361** = President/Governor exception to Art. 14
-12. Promotion reservation: **77th (4A)**, backlog **81st (4B)**, seniority **85th**
-13. Property removed by **44th** (→ 300A), **not** 42nd/86th
-14. 15(4) = **1st** · 15(5) = **93rd** · 15(6)/16(6) = **103rd**
-15. Art. **27** = no **tax** (fee allowed); 25 = **propagate**
-16. **29** = any section of citizens; **30** = minorities only; minority **undefined**
-17. **32** = FR only (heart & soul); **226** wider
-18. Habeas Corpus vs **private** person too; Mandamus **not** vs President/Governor
-19. Prohibition = **before**, Certiorari = **after**; Quo Warranto = **public office**
-20. **358** = only Art. 19 (war/external aggression); **359** never **20 & 21**
-21. DPSP = **Ireland**, non-justiciable (Art. 37)
-22. **43A** workers ≠ **43B** co-operatives; **50** separation ≠ **48** cattle
-23. Duties: **42nd** added 10; **86th** added 11th (51A(k)); **citizens** only
-24. Monuments = DPSP **49** (not a Duty); environment in **both** (48A + 51A(g))
-25. Right to **strike** / right to **property** are **not** FRs
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Art. 14 | Art. 16 | Any **person** vs public employment (**citizens**) | — |
+| Art. 15 | Art. 17 | Discrimination grounds vs **Untouchability** (absolute) | — |
+| Art. 19 | Art. 21 | Citizens + six freedoms vs **all persons** + life/liberty | — |
+| Art. 19(1)(f) | Art. 300A | Deleted FR (44th) vs legal right to property | — |
+| Art. 20 | Art. 21 | Conviction protections vs torture/privacy/livelihood | — |
+| Art. 21 | Art. 21A | Life/liberty (wide) vs RTE **6–14** only | — |
+| Art. 22 ordinary | Art. 22 PD | 24-hour magistrate vs preventive detention code | — |
+| Art. 17 | Arts. 23–24 | Equality (untouchability) vs **Exploitation** | — |
+| Art. 29 | Art. 30 | Any section (culture) vs **minorities** institutions | — |
+| Art. 27 | Fee | No **tax** for a religion vs regulatory **fee** allowed | — |
+| Art. 32 | Art. 226 | SC (FR only) vs HC (FR + any legal right) | — |
+| Prohibition | Certiorari | **Before** decision vs **after** (quash) | — |
+| Art. 43A | Art. 43B | Workers’ participation vs **co-operatives** (97th) | — |
+| Art. 48 | Art. 50 | Cattle/agriculture vs **separation of judiciary** | — |
+| Art. 358 | Art. 359 | Only Art. 19 (auto) vs other FRs by order (not 20/21) | — |
+| FR | DPSP | Justiciable (USA) vs non-justiciable (**Ireland**) | — |
 
 
 ---

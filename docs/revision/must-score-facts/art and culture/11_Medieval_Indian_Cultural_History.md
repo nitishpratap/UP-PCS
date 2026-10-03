@@ -54,21 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. The **court language was Persian**. Babur’s book was in **Turki**.
-2. **Buland Darwaza** marks the **Gujarat victory**, not Jahangir’s birth.
-3. Tomb cities: **Babur** at **Kabul**, **Humayun** at **Delhi**, **Jahangir** at **Lahore**, **Shah Jahan** at **Agra**.
-4. **Khalsa** means **direct** control. **Jagir / iqta** are not direct treasury land.
-5. **Mansab is not hereditary** in Akbar’s system. **Zat** is not **sawar**.
-6. **Din-i-Ilahi is not a state religion.** Sulh-i-kul is the public ethic.
-7. **Khan-i-Khanan** on Bairam is from **Humayun**, not Akbar’s vazir gift.
-8. **Tughlaqnama** is by **Khusrau**, not Ibn Battuta.
-9. **Hamida Banu** is tied to **Humayun**, not Alauddin.
-10. **Adina Masjid** is in **Bengal/Pandua**, not Mandu. **Atala** is at **Jaunpur**.
-11. **Tutinama** is by **Nakhshabi**, not Khusrau.
-12. **Faizi died in 1595.Abul Fazl was murdered in 1602.**
-13. **Tansen** before Akbar was at the court of **Ramchandra of Bhata**.
-14. The **dam** is the copper coin of Sher Shah **and** Akbar.
-15. Iqta revenue is **not** fully parked in the Sultan’s chest. The muqti pays troops from it.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Khalsa | Jagir / Iqta | Crown land under **direct** control vs revenue assignment | खालसा / जागीर |
+| Zat | Sawar | Personal rank vs cavalry-contingent rank | जात / सवार |
+| Zabt | Dahsala | Measured assessment vs **10-year** average (Todar Mal) | जब्त / दहसाला |
+| Turki | Persian | Babur’s memoir language vs **Mughal court** language | तुर्की / फ़ारसी |
+| Akbarnama | Ain-i-Akbari | Narrative reign-history vs gazetteer / statistics | अकबरनामा / आइने अकबरी |
+| Sulh-i-kul | Din-i-Ilahi | Public peace policy vs private 1582 fellowship | सुलह-ए-कुल / दीन-ए-इलाही |
+| Buland Darwaza | Jahangir’s birth | Gujarat **victory** gateway vs 1569 birth (not the cause) | बुलंद दरवाज़ा |
+| Iqta | Khalsa | Muqti keeps revenue for troops vs cash to the treasury | इक्ता / खालसा |
 
 
 ---

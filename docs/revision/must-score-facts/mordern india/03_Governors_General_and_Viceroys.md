@@ -54,58 +54,40 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-40. **Clive = first GG of Bengal** → **Warren Hastings (1773)**; Clive founded empire power, not that office title.
-41. **Subsidiary Alliance aim = fixed Company income** → false (IAS 2018); tool is army/paramountcy/Napoleon buffer.
-42. **Cornwallis = Third Anglo-Maratha** → **Lord Hastings**; Cornwallis = Permanent Settlement / Third Mysore.
-43. **Awadh = Doctrine of Lapse** → **misrule 1856**; first Lapse = **Satara 1848**.
-44. **Vernacular Press Act = Curzon / Ripon** → **Lytton 1878**; Ripon repealed.
-45. **Ilbert Bill = Lytton** → **Ripon 1883**.
-
-1. **Hastings = first Viceroy** → first **GG**; **Canning** first Viceroy **1858**.
-2. **Cornwallis abolished Sati** → **Bentinck 1829**.
-3. **Bentinck = Permanent Settlement** → **Cornwallis 1793**.
-4. **Wellesley = Lapse** → Subsidiary; Lapse = **Dalhousie**.
-5. **Curzon = microscopic minority** → **Dufferin**.
-6. **Ilbert Bill = Curzon** → **Ripon 1883**.
-7. **Ripon passed Vernacular Press Act** → **Lytton 1878**; Ripon repealed.
-8. **Chamber of Princes = 1909** → **GOI 1919**.
-9. **Macaulay Minute = 1854** → **1835**; 1854 = Wood.
-10. **August Offer = Wavell** → **Linlithgow 1940**.
-11. **Warren Hastings = Lord Hastings** → Nepal/Sugauli = **Lord Hastings 1813–23**.
-12. **Jones Society under Bentinck / Hastings as president** → **1784**; Hastings **declined**.
-13. **Mountbatten = last GG of India** → last **Viceroy**; last GG = **Rajagopalachari**.
-14. **Awadh annexed under Lapse** → **misrule 1856**.
-15. **Partition of Bengal = Hardinge 1911** → announced **Curzon 1905**; Hardinge **annulled** + moved capital.
-16. **Tagore resigned from Executive Council** → he returned **knighthood**; **Nair** resigned.
-17. **First GG of India = Hastings/Canning** → title from **1833** = **Bentinck**.
-18. **Portfolio system created by GOI Act, 1858** → 1858 only ends Company rule; portfolios are the **1861** Act.
-19. **1813 Act ends ALL Company trade** → it keeps **tea/China**; all trade ends only in **1833**.
-20. **Separate electorates = 1919** → separate electorates for Muslims are **1909**; 1919 adds dyarchy and extends electorates to more groups.
-21. **Dyarchy = Morley-Minto, 1909** → dyarchy is the **1919** Act; 1909 is communal electorates only.
-22. **Federation under GOI Act 1935 actually started** → it was **proposed on paper** but never came into force; only **provincial autonomy** actually operated.
-23. **Masterly Inactivity = Lytton** → that is **Lawrence's** caution; **Lytton's** forward policy is "Proud Reserve."
-24. **Elgin I and Elgin II are the same tenure** → Elgin I (1862–63, died at Dharamshala) is a different, earlier viceroyalty from Elgin II (1894–99, famine/plague years).
-25. **Age of Consent Act 1891 = Ripon** → it belongs to **Lansdowne**; Ripon's signature reforms are Ilbert Bill and local self-government.
-26. **Cornwallis tomb = Varanasi / Ballia** → **Ghazipur (UP)**.
-27. **Slavery abolished by Bentinck** → finished by **Ellenborough, Act V 1843** (export ban from Bengal was earlier, **1789**).
-28. **First Subsidiary Alliance state = Awadh under Wellesley** → Wellesley's first was **Hyderabad 1798**; Awadh **1765** is the early Company form; first Maratha = **Bajirao II (Bassein)**.
-29. **Ring Fence = Dalhousie** → **Warren Hastings / Wellesley** (Security Cell).
-30. **Regular census 1872 = Ripon** → **1872 attempt = Mayo**; **1881 regular = Ripon**.
-31. **Vernacular Press Act = Curzon** → **Lytton 1878** (Gagging Act).
-32. **Awadh Resident at annexation = Sleeman** → **James Outram** replaced Sleeman in **1854**.
-33. **1892 began Muslim separate electorates** → **1892** is budget discussion / indirect election; separate electorates = **1909**.
-34. **1853 ended Company rule** → **1853** opens ICS competition; Company ends in **1858**.
-35. **RBI created only by GOI Act 1935** → RBI statute is **1934**; Act **provided for** a reserve bank.
-36. **Simon Commission invented in 1927 from nowhere** → it is the **ten-year statutory review** ordered by **GOI Act 1919**.
-37. **1909 = dyarchy / provincial autonomy** → **communal representation**; dyarchy = **1919**.
-38. **Father of Pakistan = Jinnah (Rajendra Prasad’s tag in this bank)** → **Lord Minto** (communal electorates).
-39. **Capital transfer completed in 1905 / under Curzon** → announced **1911**, Hardinge II; Curzon = Partition.
-40. **Bihar separated in 1905 with Partition** → **Bihar–Orissa province 1912** after Durbar rearrangement.
-41. **1935 = dyarchy introduced in provinces** → **1919** introduced provincial dyarchy; **1935 abolished** it and tried (paper) dyarchy at Centre.
-42. **Charter 1813 ended all Company trade** → ended India monopoly but kept **tea/China**; **1833** ended all trade.
-43. **Instrument of Instructions = Fundamental Rights** → memory link is to **Directive Principles**, not FR.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Governor-General | Viceroy | Company head from 1773 to 1858 vs Crown's representative from 1858 | गवर्नर-जनरल / वायसराय |
+| Warren Hastings | Lord Hastings | First GG, 1773–85 vs GG 1813–23 (Nepal and Third Maratha War) | वारेन हेस्टिंग्स / लॉर्ड हेस्टिंग्स |
+| Regulating Act 1773 | Pitt's India Act 1784 | Creates the office (GG + Council) vs creates dual control (Board + Directors) | रेगुलेटिंग एक्ट / पिट्स इंडिया एक्ट |
+| Charter Act 1813 | Charter Act 1833 | Ends Company's trade monopoly (kept tea/China) vs ends ALL Company trade, creates GG of India | चार्टर एक्ट 1813 / 1833 |
+| Cornwallis | Bentinck | Permanent Settlement 1793 vs abolition of Sati 1829 | कॉर्नवालिस / बेंटिंक |
+| Wellesley | Dalhousie | Subsidiary Alliance 1798 vs Doctrine of Lapse from 1848 | वेलेज़ली / डलहौज़ी |
+| Ring Fence | Subsidiary Alliance | Hastings–Wellesley buffer / Security Cell vs Wellesley's finished alliance tool | रिंग फेंस / सहायक संधि |
+| Clive Dual Govt | Hastings Dual Govt end | Enforced 1765 vs abolished 1772 | क्लाइव / हेस्टिंग्स |
+| Mayo census 1872 | Ripon census 1881 | First attempt vs first regular decennial census | मेयो / रिपन |
+| First Factory Act 1881 | Second Factory Act 1891 | Ripon (child labour limits) vs Lansdowne (women work hours) | पहला कारखाना अधिनियम / दूसरा |
+| Arms Act 1878 | Vernacular Press Act 1878 | Lytton (arms restriction) vs Lytton (gagging Indian language press) | आर्म्स एक्ट / वर्नाक्युलर प्रेस एक्ट |
+| GOI Act 1858 | Indian Councils Act 1861 | Ends Company rule, creates Viceroy vs adds the portfolio system | 1858 / 1861 |
+| Indian Councils Act 1861 | Indian Councils Act 1892 | Portfolio + nomination vs budget discussion + indirect election | 1861 / 1892 |
+| Indian Councils Act 1892 | Indian Councils Act 1909 | Indirect election without the word “election” vs Muslim separate electorates | 1892 / 1909 |
+| Lytton | Ripon | Vernacular Press Act 1878 vs Ilbert Bill 1883 (Ripon repealed the Press Act) | लिटन / रिपन |
+| Dufferin | Curzon | "Microscopic minority" vs Partition of Bengal 1905 | डफ़रिन / कर्ज़न |
+| Macaulay 1835 | Wood 1854 | English Minute vs education despatch in Dalhousie's time | मैकाले / वुड |
+| Hunter 1882 | Raleigh 1902 | Ripon (primary & secondary education) vs Curzon (University reforms) | हंटर / रैले |
+| Indian Councils Act 1909 | GOI Act 1919 | Separate electorates for Muslims vs dyarchy and Chamber of Princes | 1909 / 1919 |
+| GOI Act 1919 | GOI Act 1935 | Dyarchy in provinces vs provincial autonomy + federation on paper | 1919 / 1935 |
+| Strachey 1878 | MacDonnell 1900 | Famine commission by Lytton vs Famine commission by Curzon | स्ट्रेची / मैकडोनेल |
+| Sir John Shore | Lord Wellesley | Non-intervention, no new war vs Subsidiary Alliance and wars | शोर / वेलेज़ली |
+| Metcalfe | Bentinck | Acting GG, freed the press 1835 vs abolished Sati 1829 | मेटकाफ़ / बेंटिंक |
+| Lawrence | Lytton | Masterly Inactivity on Afghanistan vs Proud Reserve / forward policy | लॉरेंस / लिटन |
+| Mayo | Northbrook | Assassinated at the Andamans vs resigned over Afghan policy disagreement | मेयो / नॉर्थब्रुक |
+| Kuka Movement | Wahabi Movement | Northbrook (Punjab) vs Elgin I (Suppressed) | कूका / वहाबी |
+| Lansdowne | Ripon | Age of Consent Act 1891 + Councils Act 1892 vs Ilbert Bill + local self-government | लैंसडाउन / रिपन |
+| Elgin I | Elgin II | Died in office at Dharamshala, 1863 vs frontier/famine years before Curzon | एल्गिन प्रथम / द्वितीय |
+| Reading | Irwin | Chauri Chaura, Swaraj Party vs Dandi March, Gandhi-Irwin Pact | रीडिंग / इरविन |
+| Willingdon | Linlithgow | GOI Act 1935 passed vs longest-serving Viceroy, August Offer | विलिंग्डन / लिनलिथगो |
+| August Offer | Wavell Plan | Linlithgow, 1940 vs Wavell, 1945 | अगस्त प्रस्ताव / वेवेल योजना |
+| First Viceroy | Last Viceroy | Canning vs Mountbatten | कैनिंग / माउंटबेटन |
 
 
 ---

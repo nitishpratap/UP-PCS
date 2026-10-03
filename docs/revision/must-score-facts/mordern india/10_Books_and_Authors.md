@@ -54,42 +54,21 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Poverty… = 1900 / 1902** → **1901**.
-2. **Economic Nationalism book = Naoroji** → **Bipan Chandra**.
-3. **Neel Darpan = Bankim** → **Dinabandhu Mitra**.
-4. **Discovery of India = Azad / autobiography** → **Nehru 1946**; autobiography = *Toward Freedom*.
-5. **India Wins Freedom = Collins / Nehru** → **Azad**.
-6. **Freedom at Midnight = Azad** → **Collins and Lapierre**.
-7. **Gita Rahasya = Gandhi / Aurobindo** → **Tilak**.
-8. **Arctic Home = Dayanand** → **Tilak**.
-9. **Gulamgiri = Ambedkar** → **Phule 1873**.
-10. **Annihilation of Caste = Phule** → **Ambedkar 1936**.
-11. **India Divided = Ambedkar** → **Rajendra Prasad**.
-12. **Pakistan or Partition = Jinnah** → **Ambedkar**.
-13. **Train to Pakistan = Azad** → **Khushwant Singh**.
-14. **Unhappy India = Mayo** → Mayo = *Mother India*; reply = **Lajpat Rai**.
-15. **Firangiya = Bhikhari Thakur** → **Manoranjan Prasad Sinha**. Thakur = **Bidesiya**.
-16. **Batohiya poem = Thakur** → **Raghuveer Narayan** (character in *Bidesiya* ≠ poem author).
-17. **Godaan = Bankim** → **Premchand**.
-18. **Nation in Making = Lajpat Rai / Gokhale** → **Surendranath Banerjee**.
-19. **Young India book = always Gandhi** → Gandhi’s *Young India* is a **paper**; Lajpat Rai also has a **book** of that name.
-20. **Vande Mataram = national anthem** → national **song** from *Anandamath*; anthem is *Jana Gana Mana*.
-21. **The Indian War of Independence = Bankim / Bipan Chandra** → **V.D. Savarkar, 1909**.
-22. **Savarkar wrote only one book** → he also wrote *Hindutva* (1923); do not merge the two Savarkar titles.
-23. **Mother India = an Indian nationalist author** → **Katherine Mayo**, an American writer; the nationalist reply is Lajpat Rai's *Unhappy India*.
-24. **My Indian Years = Curzon** → **Lord Hardinge**; Curzon's tag is *Problems of the Far East*.
-25. **The Viceroy's Journal = Mountbatten** → **Lord Wavell**'s posthumous diary.
-26. **Warren Hastings translated the Gita** → he **patronised** Charles Wilkins's 1785 translation and wrote its preface.
-27. **Amar Sonar Bangla = India’s anthem** → Bangladesh’s anthem (Tagore); India = **Jana Gana Mana**.
-28. **Hind Swaraj = English original 1909** → written in **Gujarati**; English to evade ban.
-29. **Bandi Jivan = Bhagat Singh / Bose** → **Sachindranath Sanyal**.
-30. **Indian Sociologist = Bhagat Singh** → **Shyamji Krishna Varma** (London).
-31. **Indian Unrest = Lajpat Rai** → **Valentine Chirol**; Unhappy India = Lajpat Rai.
-32. **Springing Tiger = Bhagat Singh biography** → **Subhas Bose** (Hugh Toye).
-33. **Discovery of India = Yeravda / Alipore** → **Ahmednagar Fort** jail.
-34. **Gitanjali English = 1910 / Nobel year book** → Bengali **1910**; English **1912**; Nobel **1913**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Anandamath | Hind Swaraj | Bankim novel 1882 vs Gandhi tract 1909 | आनंदमठ / हिंद स्वराज |
+| Discovery of India | India Wins Freedom | Nehru civilisation-nation vs Azad freedom memoir | भारत एक खोज / इंडिया विन्स फ्रीडम |
+| Gita Rahasya | Arctic Home in the Vedas | Both Tilak; Gita politics vs Vedic homeland | गीता रहस्य / आर्कटिक होम |
+| Gulamgiri | Annihilation of Caste | Phule 1873 caste-slavery vs Ambedkar 1936 destroy-caste | गुलामगिरी / जाति का विनाश |
+| Poverty… (Naoroji) | Economic Nationalism (Bipan) | 1901 drain classic vs later historiography | दरिद्रता… / आर्थिक राष्ट्रवाद |
+| Nation in Making | Story of My Deportation | Banerjee vs Lajpat Rai | ए नेशन इन मेकिंग / डिपोर्टेशन |
+| Neel Darpan | Anandamath | Dinabandhu Mitra indigo play vs Bankim sanyasi novel | नील दर्पण / आनंदमठ |
+| Mother India | Unhappy India | Katherine Mayo’s 1927 hostile tract vs Lala Lajpat Rai’s reply | मदर इंडिया / अनहैप्पी इंडिया |
+| Firangiya | Bidesiya | Sinha 1921 anti-British poem vs Thakur migrant play | फिरंगिया / बिदेसिया |
+| Batohiya (poem) | Batohiya (character) | Raghuveer Narayan 1911 poem vs traveller in *Bidesiya* | बटोहिया |
+| India Divided | Pakistan or Partition | Rajendra Prasad vs Ambedkar | इंडिया डिवाइडेड |
+| Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
+| The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
 
 
 ---

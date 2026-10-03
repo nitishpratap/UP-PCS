@@ -54,22 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Photography vs. Artificial Rain** | Mixing up Silver Bromide and Silver Iodide. | **Silver Bromide ($AgBr$) = Photography**. **Silver Iodide ($AgI$) = Cloud Seeding / Artificial Rain**. |
-| **Urea Nitrogen Percentage** | Guessing 20% or 60% for urea. | Urea contains strictly **$46\%\text{ Nitrogen (N)}$** (highest of all solid fertilizers). |
-| **Crookes Glass Function** | Confusing Crookes glass with Pyrex heat-resistant glass. | **Crookes glass cuts off UV radiation** (contains $CeO_2$); Pyrex resists heat shock ($B_2O_3$). |
-| **DDT Biodegradability** | Assuming DDT is an organic compound that degrades in soil. | DDT is **strictly non-biodegradable** and biomagnifies up trophic levels. |
-| **Soil Remediation Pairs** | Reversing gypsum and lime for acid vs alkaline soils. | **Lime ($CaCO_3$) is for Acid soils**. **Gypsum ($CaSO_4 \cdot 2H_2O$) is for Alkaline / Sodic soils**. |
-| **Antiseptic vs. Disinfectant Phenol** | Thinking phenol is solely a disinfectant. | **$0.2\%$ Phenol is an Antiseptic**; **$1.0\%$ Phenol is a Disinfectant**. |
-| **Herbicide vs. Rodenticide** | Confusing Sodium Chlorate with Zinc Phosphide. | **Sodium Chlorate = Herbicide (weed killer)**. **Zinc Phosphide = Rodenticide (rat poison)**. |
-| **Neem-Coated Urea Purpose** | Assuming neem is added as a green dye or pesticide. | Neem oil **retards nitrification**, slowing nitrogen release and preventing industrial diversion. |
-| **Imported Fertilizer** | Believing India is self-sufficient in all fertilizer nutrients. | India imports **$100\%$ of its Potash (MOP)** fertilizer requirements. |
-| **Soap in Hard Water** | Assuming detergents form scum like soap. | Soaps form insoluble scum in hard water; **synthetic detergents lather and clean effectively in hard water**. |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025–2026** | **Nano Urea & Nano DAP Expansion** | IFFCO commercialization of **Nano Urea** ($4\%\text{ N}$ w/v liquid nanoparticles, $20–50\text{ nm}$) and **Nano DAP**: Provides $>80\%$ nutrient uptake efficiency via foliar stomatal absorption, eliminating massive nitrogen leaching into groundwater and cutting conventional bagged urea consumption. |
+| **2024** | **UPPCS Prelims 2024** | Question on **Photography Salt vs Artificial Rain**: Highlighted the recurring pair: **Silver Bromide ($AgBr$)** is the light-sensitive photographic emulsion salt, whereas **Silver Iodide ($AgI$)** is the cloud-seeding agent for artificial rain. |
+| **2023** | **UPPCS / UKPCS Trends** | Persistent testing of **DDT (Dichlorodiphenyltrichloroethane)**: Identified strictly as a **non-biodegradable organochlorine pollutant** that undergoes severe trophic biomagnification in food chains (thinning avian eggshells). |
+| **2022** | **UPPCS Prelims 2022** | Re-tested **Crookes Glass**: Keyed as the specialty glass containing Cerium oxide ($CeO_2$) that sharply cuts off and **absorbs ultraviolet (UV) radiation** in sunglasses. Pyrex/Borosilicate was an incorrect distractor. |
+| **2021** | **UPPCS Prelims 2021** | Agricultural Herbicide: Keyed **Sodium Chlorate ($NaClO_3$)** and **2,4-D** as non-selective and selective weedicides/herbicides, respectively. |
 
 
 ---

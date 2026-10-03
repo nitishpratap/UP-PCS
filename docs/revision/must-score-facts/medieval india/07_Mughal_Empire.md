@@ -54,32 +54,26 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Baburnama** was written in **Chagatai Turki**, but the Mughal **court language** was **Persian**.
-2. **Buland Darwaza** commemorates Akbar's **Gujarat victory of 1572**, not Jahangir's birth.
-3. **Daurah (1532)** is Humayun's early victory; **Dharmat (1658)** is Aurangzeb's succession battle. Do not swap them.
-4. When Kannauj, Daurah, Samugarh, and Chausa appear together, chronological order is **Daurah (1532) → Chausa (1539) → Kannauj (1540) → Samugarh (1658)**.
-5. **Akbar** gave **Bairam Khan** the title **Khan-i-Khanan** — only statement 1 is true; statement 2 is false.
-6. **Mansab** was **not hereditary** under Akbar.
-7. **Ain-i-Akbari** is an administrative gazetteer; **Akbarnama** is narrative biography.
-8. **William Hawkins** reached India in **1608**, not 1611.
-9. **Hamida Banu Begum** was **Humayun's** wife, not Alauddin Khalji's.
-10. When Aurangzeb captured **Golkonda in 1687**, the last ruler was **Abul Hasan Qutb Shah**, not an Adil Shahi sultan.
-11. **Nahr-i-Bihisht** in Shahjahanabad used water from the restored **Firuz Rajabwah**; it was not a wholly new Akbar-era canal.
-12. **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**, not Akbar.
-13. **Jajau (1707)** came after Aurangzeb's death; it is not one of the 1658 succession battles.
-14. **Bahadur Shah I (1707)** is not **Bahadur Shah Zafar (1837–57)** — first after Aurangzeb versus last Mughal.
-15. **Nadir Shah’s 1739** sack hit **Muhammad Shah Rangeela**, not Aurangzeb or Shah Alam II.
-16. **Din-i-Ilahi (1582)** was a small court circle, not a mass religion.
-17. In the Mughal military-state A/R, the empire began as a military state and central vitality rested on army power — Reason explains Assertion.
-18. The **Ilahi calendar (1584)** is separate from **Din-i-Ilahi (1582)**.
-19. The **Hamzanama** folio cycle belongs to **Akbar's** atelier, not Jahangir's natural-history albums with Mansur.
-20. **Chagatai Turks** — not Ottoman or Seljuk — were Babur's lineage; **Padshah** came at **Kabul (1504)**, Indian empire after **Panipat (27 April 1526)**.
-21. **Alam Khan** was Ibrahim Lodi's **uncle**, not the same as **Daulat Khan Lodi** of Punjab.
-22. **Mir Baqi** (Babur's commandant) built the **Babri Masjid** — state as a single careful fact.
-23. Court death order: **Mubarak 1593** → **Faizi 1595** → **Abul Fazl 1602** → **Daniyal 1605**.
-24. Shah Jahan’s **Balkh (1646–47)** failed; do not confuse it with Aurangzeb’s successful **Bijapur / Golkonda** annexations.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Panipat I | II vs III | 1526 Babur–Ibrahim; 1556 Akbar–Hemu; 1761 Marathas–Abdali | पानीपत I / II / III |
+| Chausa | Kannauj | 1539 Humayun escaped; 1540 decisive Sher Shah win | चौसा / कन्नौज |
+| Daurah | Dharmat | **1532** Humayun vs Afghans; **Apr 1658** Aurangzeb vs Jaswant Singh | दौराह / धर्मत |
+| Dharmat | Samugarh | Apr 1658 Jaswant Singh; May 1658 Dara defeated | धर्मत / समुगढ़ |
+| Zabt | Dahsala | Measurement-based assessment vs 10-year average yield | ज़ब्त / दहसाला |
+| Zat | Sawar | Personal rank vs cavalry obligation | ज़ात / सवार |
+| Jagir | Khalsa | Assigned to mansabdars vs crown land | जागीर / खालसा |
+| Sulh-i-Kul | Din-i-Ilahi | Universal peace policy vs 1582 small court cult | सुलह-ए-कुल / दीन-ए-इलाही |
+| Akbarnama | Ain-i-Akbari | Narrative history vs admin gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
+| Buland Darwaza | Panch Mahal | Gujarat victory gate vs five-storey palace at Sikri | बुलंद दरवाज़ा / पंच महल |
+| Padshah at Kabul | after Panipat | **1504 Kabul** title vs **27 April 1526** Indian empire proclamation | काबुल पादशाह / पानीपत |
+| Chagatai | Timurid claim | Ethnic **Chagatai Turk** line vs **Timur** descent for legitimacy | चगताई / तैमूर |
+| Alam Khan | Daulat Khan | Ibrahim's **uncle**/pretender vs Punjab governor invite | आलम खान / दौलत खान |
+| Bairam Khan | Rahim | Regent; **Khan-i-Khana from Akbar** vs son, Hindi poet | बैरम खान / रहीम |
+| Dara | Aurangzeb | Scholar, syncretic; orthodox, won 1658 | दारा / औरंगज़ेब |
+| Balkh failure | Deccan annexation | Shah Jahan’s **1646–47** prestige flop vs Aurangzeb’s **Bijapur 1686 / Golkonda 1687** | बल्ख / दक्कन |
+| Bahadur Shah I | Zafar | **1707** successor of Aurangzeb vs **last** Mughal **1837–57** | बहादुर शाह I / ज़फ़र |
+| Rangeela | Farrukhsiyar | **Nadir / Peacock Throne 1739** vs **1717** Company farman + Sayyid peak | रंगीला / फ़र्रुख़ |
 
 
 ---

@@ -54,20 +54,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-
-1. **Pearl source**: Pearl comes from a **mollusc** (oyster), not an insect — silk, honey, and lac are insect products.
-2. **Animals named fish that are not fish**: Jellyfish, starfish, cuttlefish, crayfish, shellfish — none are true fishes.
-3. **Cold-blooded vs warm-blooded**: Amphibians and reptiles are **poikilotherms**; birds and mammals are **homeotherms**.
-4. **Marsupial vs placental**: Kangaroo is marsupial; whale and bat are placental mammals.
-5. **Natural silk**: Pure protein, so it **contains nitrogen**; cotton has none.
-6. **Honey bee caste**: Queen and workers are female; drones are male — drones develop from **unfertilised eggs** (parthenogenesis).
-7. **Lac insect**: *Kerria lacca* on host trees; lac is a **resinous secretion**, not a plant gum.
-8. **Snake locomotion**: Snakes have no limbs; movement uses **ribs and ventral scales**, not "legs that folded away" as a living trait.
-9. **Bird bones**: Pneumatic (air-filled) bones reduce weight — do not mark them as "solid heavy bones".
-10. **Ruminant stomach**: Four chambers — rumen, reticulum, omasum, abomasum; **abomasum** is the true glandular stomach.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2024–25** | **21st Livestock Census** field enumeration conducted from **October 2024 to February 2025** by Ministry of Fisheries, Animal Husbandry & Dairying. | Livestock census in India started in **1919** and is conducted every **5 years**; 20th census was in 2019 (India #1 in total livestock and buffalo population). |
+| **2025** | Asiatic Lion Population Estimation (Gujarat Forest Department, May 2025) counted **891 lions**, up from **674 in 2020** (+32% growth). | Asiatic lion (*Panthera leo persica*) survives in the wild **only in the Greater Gir landscape** of Gujarat; listed as Endangered on IUCN Red List. |
+| **2024** | **WPA 1972 Amendment (w.e.f. 2023) & Indian Flying Fox**: Schedule V (vermin list) omitted; Indian Flying Fox (*Pteropus giganteus*) moved to Schedule II; it is a frugivorous/nectar bat, NOT blood-sucking. | Section 62 allows Central Govt to declare Schedule II animals as vermin by notification; bats are vital pollinators and seed dispersers. |
+| **2025** | **Peacock Tarantula (*Poecilotheria metallica*)** sighted in Pakkam Malai Reserve Forest (~370 km south of Eastern Ghats range); Critically Endangered, arboreal spider, NOT a crustacean. | Class Arachnida (8 legs, 2 body parts), insectivorous, threatened by habitat loss and pet trade. |
+| **2006 / Still Current** | Government of India banned veterinary use of **Diclofenac** in **2006**; banned Ketoprofen and Aceclofenac in **2023**. | Non-Steroidal Anti-Inflammatory Drug (NSAID) given to cattle causes fatal visceral gout and acute renal failure in scavenging *Gyps* vultures. |
+| **Current Status** | **National Milk Day** is celebrated on **26 November** to commemorate the birth anniversary of **Dr. Verghese Kurien** (Father of India's White Revolution). | India is the **world's largest milk producer** (~24% of global output), followed by the USA and Pakistan; leading Indian states are Uttar Pradesh and Rajasthan. |
 
 
 ---

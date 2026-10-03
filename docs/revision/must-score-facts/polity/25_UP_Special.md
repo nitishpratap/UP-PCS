@@ -54,54 +54,19 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| UP LA = 500 / 425 | **403** (425 was pre-2000) |
-| Manipur LA = 62 | **60** (2022) |
-| UP LC = 134 | Cap **134**; actual **100** |
-| LC can be dissolved | **Abolished** (169), not dissolved |
-| LS 85 / RS 34 | **80 / 31** after Uttarakhand |
-| Only one of 31 and 80 is true | **Both** (2023) |
-| Capital = Prayagraj because of the HC | Capital **Lucknow**; HC **Prayagraj** + Lucknow Bench |
-| Lucknow High Court | **Bench** of Allahabad HC (1948) |
-| Allahabad HC = 1862 Chartered | **1866**; first seat **Agra** |
-| First Governor = Pant | **Sarojini Naidu**. Pant = first **CM** |
-| Urdu = official language | **Hindi** official; Urdu **second** (1989) |
-| Uttarakhand = 1 Nov 2000 | **9 Nov**. 1 Nov = **Chhattisgarh** |
-| Always named Uttarakhand | **Uttaranchal** till **1 Jan 2007** |
-| UK still under Allahabad HC | **Nainital** HC from 2000 |
-| UP has 17 divisions | **18**. Districts **75** |
-| Faizabad division | **Ayodhya** |
-| Devipatan = Lucknow | **Gonda** (Bahraich, Balrampur, Gonda, Shravasti) |
-| UPPSC HQ = Lucknow | **Prayagraj** |
-| Governor removes UPPSC members | **President**, after **SC** |
-| UPPSC retire at 65 | SPSC **62** · UPSC **65** |
-| President extends UPPSC functions | **UP Legislature** |
-| Panchayat / Nigam polls = ECI | **UP SEC** |
-| SEC removed like CEC / SC judge | Like an **HC judge** |
-| “Panchayati Raj Commission of India” | **Does not exist** (2023) |
-| SFC = Union FC | **243I/Y** vs **280** |
-| SFC report → President | **Governor** → both Houses |
-| Two SFCs (rural / urban) | **One** Commission, 243I + 243Y |
-| UP middle tier = Samiti | **Kshetra Panchayat** |
-| Nyaya Panchayat = 73rd tier | **1947 Act**; not Part IX |
-| Constitution = 50% women | Floor **1/3**; UP statute **50%** |
-| PESA in UP | **No Fifth Schedule areas** |
-| First Lokayukta State = UP | **Maharashtra 1971**. UP Act **1975** |
-| Lokayukta = Lokpal | State **1975** vs Union **2013** |
-| Mayor = executive | **Nagar Ayukt / Commissioner** |
-| Cantonment / LDA = Nagar Nigam | **Defence** / development authority |
-| Noida / Greater Noida = Nagar Nigam | **Industrial development authorities** (243Q) |
-| UP has Art. 371 special provision | **None** |
-| CoM can be any size | **≤ 15% of 403 ≈ 60** including CM (91st) |
-| LC members vote for President | **Only elected MLAs** |
-| UP LS has ST-reserved seats | **17 SC, 0 ST** |
-| Governor nominates Rajya Sabha from UP | MLAs elect the **31**; no Governor’s RS list |
-| Meerut is a permanent HC bench | Only **Lucknow** is |
-| Gram Sabha = all residents | **Registered voters** of that GP |
-| Lokayukta term = Lokpal’s 5y/70 | UP Act: classically **8 years**, no reappointment |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025** | Devipatan division districts (geography paper) | **Gonda** division: Bahraich, Balrampur, Gonda, Shravasti |
+| **2023** | UP in Parliament | RS **31** and LS **80** — **both** true |
+| **2022** | LA strengths “NOT matched” | **Manipur 62** is wrong (**60**). UP **403** is right |
+| **2007** | Uttaranchal renamed | **Uttarakhand, 1 Jan 2007** |
+| **2000** | Reorganisation | **9 Nov** · LA 425→**403** · LS 85→**80** · RS 34→**31** |
+| **1989** | Urdu | **Second** official language |
+| **1948** | Lucknow Bench | Oudh Chief Court **merged**, not a new HC |
+| **2023** | Who conducts Panchayat elections? | **SEC** — not ECI, not a “PR Commission of India” |
+| **2021** | Who extends UPPSC functions? | **UP State Legislature** (321) |
+| **2013** | Union Lokpal (लोकपाल) Act | UP already had Lokayukta **1975** |
+| **1866** | Allahabad HC | Letters Patent **17 Mar**; first seat **Agra** (आगरा) |
 
 
 ---

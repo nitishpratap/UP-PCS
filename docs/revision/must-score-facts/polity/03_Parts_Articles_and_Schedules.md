@@ -54,34 +54,31 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. Part XI ≠ Municipalities (**IXA**) — 2025
-2. Part XI ≠ Tribunals (**XIVA**) — 2023
-3. Ninth ≠ RS seats (**Fourth**) — 2023
-4. Second ≠ RS seats (Second = emoluments) — 2019
-5. Attorney General ≠ Part XIII (**Part V**) — 2020
-6. 11th Schedule = **29**, not 22/24/32 — 2019
-7. 12th Schedule = **18**, not 29
-8. Sixth Schedule = **AMTM only** — not Nagaland/Sikkim — 2019
-9. **Bhojpuri** not in 8th Schedule — 2025
-10. Nepali / Dogri / Bodo **are** in 8th Schedule
-11. Bare “Trade and Commerce” ≠ whole Concurrent — 2024
-12. Public Health = **State** List; Census = **Union** List
-13. Duties = **Part IVA**, not Part IV
-14. Anti-defection = **10th**, not 9th
-15. Citizenship = **Part II** — 2018
-16. 9th Schedule added by **1st** Amendment; 10th by **52nd**
-17. Art. **4** laws (new/altered States) ≠ Art. **368** amendments
-18. Art. **32** SC vs Art. **226** HC (HC wider)
-19. Art. **226** writs vs Art. **227** superintendence — different powers
-20. President oath = **Art. 60**; VP oath = **Art. 69**; Governor oath = **Art. 159** — none in 3rd Schedule
-21. 371J = Karnataka, **not** Goa (371I)
-22. Property = **Art. 300A** (legal right), not FR after 44th
-23. Second Schedule ≠ PM/CM salaries (emoluments of President, Governors, Judges, CAG, Speakers)
-24. Art. **54** (President) includes State MLAs; Art. **66** (VP) is Parliament only
-25. SC Judge age **65**; HC Judge age **62**
-26. Art. **76** = Attorney-General of India; Art. **165** = Advocate-General of a State
-27. Art. **21** expansions ≠ Art. **21A** RTE ages 6–14
-28. Art. **51A** has **11** clauses (a–k); (k) is the 86th addition only
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Part III | Part IV | FR justiciable vs DPSP non-justiciable | मौलिक अधिकार / नीति निर्देशक |
+| Part IV | Part IVA | DPSP vs Fundamental Duties | — |
+| Part IX / IXA / IXB | — | Panchayats / Municipalities / Cooperatives | — |
+| Part XI | Part XIVA | Centre–State relations vs Tribunals | — |
+| 4th Schedule | 9th Schedule | RS seats vs validation of Acts | — |
+| 5th Schedule | 6th Schedule | Scheduled Areas (many States) vs AMTM Autonomous Councils | — |
+| 7th Schedule | 8th Schedule | Three Lists (Union, State, Concurrent) vs 22 Languages | — |
+| 11th Schedule | 12th Schedule | 29 Panchayat subjects vs 18 Municipality subjects | — |
+| Art. 32 | Art. 226 | SC writs (FR) vs HC writs (wider — any purpose) | — |
+| Art. 226 | Art. 227 | HC writs vs HC **superintendence** over subordinate courts | — |
+| Art. 54 | Art. 66 | President: elected MPs + elected MLAs vs VP: **Parliament only** | — |
+| Art. 61 | Art. 67 | President **impeachment** vs VP removal by RS resolution + LS agreement | — |
+| Art. 72 | Art. 161 | President’s pardon vs Governor’s pardon | — |
+| Art. 76 | Art. 165 | Attorney-General of India vs Advocate-General of a State | — |
+| Art. 110 | Art. 112 | Money Bill vs Annual Financial Statement (Budget) | — |
+| Art. 123 | Art. 213 | President’s Ordinance vs Governor’s Ordinance | — |
+| Art. 124 age | Art. 217 age | SC Judge **65** vs HC Judge **62** | — |
+| Art. 266 | Art. 267 | Consolidated Fund vs Contingency Fund | — |
+| Art. 21 | Art. 21A | Life/liberty (wide, all persons) vs RTE **6–14** only | — |
+| Art. 29 | Art. 30 | Any **section** (culture) vs **minorities**’ institutions | — |
+| Art. 338 | Art. 338A | National Commission for SCs vs National Commission for STs | — |
+| Art. 352 | Art. 356 / 360 | National vs State vs Financial Emergency | — |
+| Art. 371I | Art. 371J | **Goa** (min. 30 MLAs) vs **Karnataka** (Kalyana-Karnataka) | — |
 
 
 ---

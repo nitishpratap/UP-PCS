@@ -54,26 +54,20 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Both statements always true** → read each stem; Rahulovada-type distractors flip one statement.
-2. **Jivitagupta–Deo-Baranark is the wrong Maukhari pair** → the wrong pair in that match set is **Sarvavarman–Gaya**.
-3. **Bhagadugha = gambling** → **Akshavapa**. Bhagadugha = revenue.
-4. **Agronomai = roads / weights** → **revenue** (2020).
-5. **Hathigumpha = Harsha / Ashoka / Kanishka** → **Kharavela**.
-6. **Pushyamitra ashwamedha = Besnagar / Hathigumpha** → **Ayodhya**.
-7. **Vikramaditya = Samudragupta** → **Chandragupta II**.
-8. **Devanampiya = Gupta title** → **Ashoka**.
-9. **Samaharta = treasurer** → **Sannidhata** stores. Samaharta collects.
-10. **Uparika = Mauryan district** → Gupta/Harsha **province**.
-11. **Gaya plate = Sarvavarman** → **Samudragupta**. Sarvavarman = Asirgarh.
-12. **Start the Gupta line at Chandragupta II** → Sri Gupta → Ghatotkacha → **Chandragupta I**.
-13. **Vayu Purana = Gupta admin** → 2023 stmt 2 false.
-14. **Allahabad pillar is only Gupta** → Ashokan shaft reused.
-15. **Aihole = Harsha’s prasasti** → **Ravikirti** for Pulakeshin II.
-16. **Guptas more central than Mauryas** → opposite.
-17. **Dhananjaya = Avamukta** → **Kusthalapura**.
-18. **Sabha = Mauryan board** → Vedic assembly.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Rajan | Maharajadhiraja | Vedic chief vs Gupta/Harsha **king of kings** | राजन / महाराजाधिराज |
+| Devanampiya | Vikramaditya | Ashoka on edicts vs **Chandragupta II** | देवानंप्रिय / विक्रमादित्य |
+| Sabha | Samiti | Smaller/elder council vs larger tribal assembly | सभा / समिति |
+| Bhagadugha | Akshavapa | Vedic **revenue** vs **dice** (2023 C) | भागदुघ / अक्षावाप |
+| Bhagadugha | Samaharta | Vedic share-collector vs Mauryan **chief** collector | भागदुघ / समाहर्ता |
+| Samaharta | Sannidhata | Collects vs **stores** | समाहर्ता / संनिधाता |
+| Agronomai | Pautavadhyaksha | Megasthenes **revenue** vs weights | एग्रोनोमाई / पौतवाध्यक्ष |
+| Rajuka | Uparika | Mauryan district land/justice vs Gupta **province** | राजुक / उपरिक |
+| Sandhivigrahika | Mahasandhivigrahika | Gupta war-peace vs Harsha’s **maha-** grade | संधिविग्रहिक / महा- |
+| Hathigumpha | Prayag Prashasti | **Kharavela** vs **Samudragupta** | हाथीगुम्फा / प्रयाग |
+| Ayodhya inscription | Besnagar | Pushyamitra ashwamedha vs **Heliodorus** | अयोध्या / बेसनगर |
+| Gaya copper plate | Asirgarh seal | **Samudragupta** plate vs Maukhari **Sarvavarman** | गया / असीरगढ़ |
 
 
 ---

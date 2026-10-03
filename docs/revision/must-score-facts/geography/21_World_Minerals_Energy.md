@@ -54,32 +54,45 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Ruhr = Britain / France / Russia** — FALSE. **Germany**.
-2. **Kuzbass = Ukraine** — FALSE. **Russia**. Donetsk = Ukraine.
-3. **Appalachian = England** — FALSE. **USA**. Lancashire = England.
-4. **Mount Newman = manganese** — FALSE. **Iron**, Australia. Mn = **Postmasburg**.
-5. **Germany–Normandy iron** — FALSE. Normandy = **France**.
-6. **Chile has no copper** — FALSE. 2022 **leading** + Andes **porphyry**.
-7. **Kinta = rubber** — FALSE. **Tin**.
-8. **Pegu Yoma = tin** — FALSE. **Mineral oil**.
-9. **Kuwait = Kashagan** — FALSE. Kashagan = **Kazakhstan**. Kuwait = **Burgan**.
-10. **LPG = methane / CNG** — FALSE. CNG = methane; LPG = propane+butane.
-11. **Iodine = Japan 2018** — FALSE. **Chile**.
-12. **Kyiv = Ukraine’s coal centre** — FALSE. **Donetsk**.
-13. **Nuclear / geothermal = stored solar** — FALSE.
-14. **2022 steel #1 = India** — FALSE. **China**.
-15. **Haft Kel = Iraq** — FALSE. **Iran**. Zubair = Iraq. Dhahran = Saudi.
-16. **Mount Newman = bauxite** — FALSE. **Iron**. Weipa = bauxite.
-17. **Postmasburg = gold** — FALSE. **Manganese**. Witwatersrand = gold.
-18. **Pegu Yoma = Kinta tin** — FALSE. Pegu = **oil**; Kinta = **tin**.
-19. **North Field = Russian Urengoy** — FALSE. **Qatar** (pair = Iran South Pars).
-20. **OPEC HQ = Riyadh / Geneva** — FALSE. **Vienna**.
-21. **Lithium Triangle includes Brazil** — FALSE. Chile–Argentina–Bolivia.
-22. **Rare earths = Chile only** — FALSE. Processing fact = **China**.
-23. **Carajás = Mount Newman** — FALSE. Carajás = Brazil iron; Newman = Australia iron.
-24. **Skip non-PYQ fields because papers asked Ruhr/Kinta** — FALSE. Next year can ask any Lucent field.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Ruhr | **Germany** | Britain / France / Russia | रुहर |
+| Kuzbass | **Russia** | Ukraine / Germany | कुजबास |
+| Donetsk | **Ukraine** coal | Kyiv / Kharkiv as the coal answer | दोनेत्स्क |
+| Appalachian | **USA** | England | अप्लेशियन |
+| Lancashire | **England** | USA / Germany | लंकाशायर |
+| Mount Newman | **Iron**, Australia | Mn / Cu / bauxite | माउंट न्यूमैन |
+| Krivoy Rog | **Ukraine** iron | Russia | क्रिवॉय रोग |
+| Normandy iron | **France** | Germany (2020 wrong pair) | नॉर्मंडी |
+| Karaganda | Kazakhstan (coal renown; 2020 iron list accepted) | Kuwait oil | कारागांदा |
+| Chile copper | **Andes porphyry**, N Chile | “Chile has no copper” | चिली तांबा |
+| Kinta Valley | **Tin** | Rubber / tea / coffee | किंटा |
+| Pegu Yoma | **Mineral oil** | Tin (that is Kinta / Bangka / Tenasserim) | पेगू योमा |
+| Kashagan | **Kazakhstan** | Kuwait | कशागन |
+| Burgan | **Kuwait** | Kashagan dump | बुर्गान |
+| Haft Kel | **Iran** | Iraq | हफ्त केल |
+| Zubair | **Iraq** | Iran | ज़ुबैर |
+| Dhahran | **Saudi Arabia** | Kuwait | धहरान |
+| Methane | Natural gas **and** CNG | LPG (propane/butane) | मीथेन |
+| Nuclear vs solar | Nuclear **not** stored solar | Marking only wind as non-solar | नाभिकीय |
+| Iodine | **Chile** | Japan / USA / China as the 2018 fact | आयोडीन |
+| Postmasburg | **Manganese**, South Africa | Uranium / mica / bauxite | पोस्टमासबर्ग |
+| Weipa vs Newman | Weipa = **bauxite**; Newman = **iron** | Swap | वीपा / न्यूमैन |
+| Witwatersrand | **Gold**, South Africa | Postmasburg Mn dump | विटवाटरसैंड |
+| Sudbury | Canada **Ni + Cu** | Tin / oil | सडबरी |
+| North Field / South Pars | Qatar / Iran — **same** Gulf gas giant | Two unrelated fields | नॉर्थ फील्ड |
+| OPEC vs IAEA | Both **Vienna**; OPEC = oil, IAEA = nuclear | Swap jobs | वियना |
+| Brass vs bronze | Brass = Cu+Zn; bronze = Cu+Sn | Swap | पीतल / कांसा |
+| Morocco | **Phosphate** reserves | Oil / copper | मोरक्को |
+| Broken Hill | Australia **Pb–Zn** | Iron / tin | ब्रोकन हिल |
+| Lithium Triangle | **Chile–Argentina–Bolivia** (brines) | Brazil in the triangle | लिथियम |
+| Rare earths | **China** dominates processing | “India has zero REE” | दुर्लभ मृदा |
+| German silver | Cu–Ni–Zn (**no Ag**) | Contains silver | जर्मन सिल्वर |
+| Peace Pipeline | Iran–Pakistan gas | Russia–Europe only | पीस पाइपलाइन |
+| Uranium City | **Canada** | Australia / USA | यूरेनियम सिटी |
+| Kinta Valley | **Tin** (Malaysia) | Rubber | किंटा घाटी |
+| Carajás vs Newman | Both **iron**; Carajás = Brazil, Newman = Australia | Swap countries | काराजास |
+| Producer vs exporter (coal/iron) | China often huge **volume**; Australia/Indonesia **ship** | China = export king | |
 
 
 ---

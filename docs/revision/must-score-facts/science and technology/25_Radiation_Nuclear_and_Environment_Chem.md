@@ -54,22 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Hydrogen Bomb Principle** | Believing the hydrogen bomb is a fission weapon. | The hydrogen bomb operates on **Nuclear Fusion**; fission is used only as an ignition trigger. |
-| **Radioactivity Nature** | Confusing radioactivity with chemical valence reactions. | Radioactivity is strictly a **nuclear property**, unaffected by chemical bonds, temperature, or pressure. |
-| **Greenhouse Gas Exclusions** | Assuming Argon or Nitrogen are greenhouse gases. | **Argon, Nitrogen, and Oxygen are NOT greenhouse gases**; they do not absorb thermal infrared radiation. |
-| **Dynamite Inventor** | Confusing Alfred Nobel with Oppenheimer or Curie. | **Alfred Nobel invented Dynamite** in 1867 by stabilizing nitroglycerin in kieselguhr. |
-| **Acid Rain Threshold** | Thinking normal rain has a neutral pH of 7.0. | Unpolluted rain is naturally acidic (**$\text{pH} \approx 5.6$**); acid rain has **$\text{pH} < 5.6$**. |
-| **Heavy Metal Disease Matching** | Swapping Mercury and Cadmium diseases. | **Mercury ($Hg$) = Minamata Disease**. **Cadmium ($Cd$) = Itai-Itai Disease**. |
-| **Water Contaminant Syndromes** | Confusing Arsenic and Nitrate conditions. | **Arsenic = Blackfoot Disease**. **Nitrate = Blue Baby Syndrome (Methemoglobinemia)**. |
-| **Smog Types Character** | Calling classical smog oxidizing. | **Classical smog is Reducing** ($SO_2$); **Photochemical smog is Oxidizing** ($O_3$, PAN). |
-| **Nuclear Moderator vs Control Rod** | Mixing up moderators ($D_2O$, graphite) with control rods ($Cd$, $B$). | **Moderators slow neutrons** ($D_2O$, graphite); **Control rods absorb neutrons** ($Cd$, $B$). |
-| **Radiation Penetration Order** | Reversing alpha and gamma penetration. | **Gamma has the highest penetration** ($\alpha < \beta < \gamma$); **Alpha has the highest ionization power**. |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025–2026** | **Global Carbon & Methane Pledges** | Enhanced monitoring of non-$CO_2$ greenhouse gases under COP agreements. Methane ($CH_4$) possesses a **Global Warming Potential (GWP) $\approx 28–36\text{ times}$ greater than $CO_2$** over a 100-year timescale, primarily emanating from flooded paddy cultivation, livestock rumination, and coalbed degassing. |
+| **2025** | **UPPCS Prelims 2025** | Direct question on **Stratospheric Ozone Layer & CFCs**: Both statements confirmed correct—the ozone layer shields the biosphere from lethal solar UV-B rays, and chlorofluorocarbons (CFCs) trigger catalytic ozone destruction via free chlorine radicals ($Cl^\bullet$). |
+| **2024** | **UPPCS Prelims 2024** | Assertion-Reason on **Acid Rain Chemistry**: Rainwater acidity is driven by atmospheric $SO_2$ and $NO_x$ dissolving to form sulphuric ($H_2SO_4$) and nitric ($HNO_3$) acids, with pH dropping below $5.6$. Causes severe "stone cancer" on white marble monuments ($CaCO_3 \to CaSO_4$). |
+| **2022** | **UPPCS Prelims 2022** | Greenhouse Gas Identification: **Argon ($Ar$)** is strictly **NOT** a greenhouse gas. Diatomic/monatomic symmetric gases ($N_2, O_2, Ar$) lack dipole moments during vibrational excitation and cannot absorb infrared radiation. |
+| **2021** | **UPPCS Prelims 2021** | Nuclear vs Atomic Trap: **Radioactivity is strictly a nuclear property** (originating in the unstable nucleus), completely unaffected by chemical bonds, temperature, or pressure. Confirmed the **Hydrogen Bomb operates on Nuclear Fusion**, using a fission device only as a detonating trigger. |
 
 
 ---

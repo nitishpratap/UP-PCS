@@ -54,18 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **The "Sound in Vacuum" Trap:**
-   - Light and radio waves travel through a vacuum, but **sound waves cannot travel in a vacuum under any circumstances**. Astronauts on the Moon use radio transceivers to communicate.
-2. **The "Pressure Changes Speed of Sound" Trap:**
-   - Changing atmospheric pressure does NOT change the speed of sound if temperature remains constant, because $P/\rho$ remains constant.
-3. **The "Cosmic Rays are EM Waves" Trap:**
-   - Cosmic rays are **NOT electromagnetic radiation**; they are high-energy charged particles (chiefly protons and atomic nuclei).
-4. **The "Atmosphere Heated Directly by Sun" Trap:**
-   - Incoming solar radiation is shortwave, which passes through clear air with minimal direct absorption ($\sim 14\%$). The atmosphere is heated predominantly from below by **longwave terrestrial infrared radiation**.
-5. **The "Transverse Waves in Water" Trap:**
-   - Transverse waves can exist on the **surface** of water due to surface tension and gravity, but **inside the bulk of water, only longitudinal waves can propagate**.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Transverse Waves** | **Longitudinal Waves** | Transverse particles oscillate perpendicular to wave direction (crests/troughs; solids & surface water only). Longitudinal particles oscillate parallel to wave direction (compressions/rarefactions; solids, liquids, and gases). |
+| **Mechanical Waves** | **Electromagnetic Waves** | Mechanical waves require an elastic material medium ($v_{\text{solid}} > v_{\text{gas}}$; zero in vacuum). EM waves need no medium and propagate fastest in vacuum ($c = 3 \times 10^8\text{ m/s}$). |
+| **Pitch** | **Loudness** | Pitch depends exclusively on **frequency / wavelength** (shrillness). Loudness depends on **amplitude / intensity** ($I \propto A^2$, measured in decibels). |
+| **Timbre (Quality)** | **Pitch** | Pitch is the note frequency; Timbre is the harmonic complexity / waveform that differentiates two instruments (sitar vs flute) playing the same pitch and loudness. |
+| **Ground Waves** | **Sky Waves vs Space Waves** | Ground waves follow Earth curvature ($< 2\text{ MHz}$). Sky waves reflect off Ionosphere ($2-30\text{ MHz}$). Space waves are direct line-of-sight waves (UHF $> 300\text{ MHz}$), cannot reflect off ionosphere. |
+| **Infrasound ($<20\text{ Hz}$)** | **Ultrasound ($>20\text{ kHz}$)** | Infrasound has immense wavelengths (earthquakes, elephants, heart vibration). Ultrasound has micro wavelengths (bats, kidney lithotripsy, SONAR, fetal imaging). |
+| **AM (Amplitude Mod.)** | **FM (Frequency Mod.)** | AM varies carrier amplitude (used in TV picture, long/medium wave radio; prone to noise). FM varies carrier frequency (used in TV audio, FM radio; superior noise immunity, wider bandwidth). |
+| **Echo** | **Reverberation** | Echo is a discrete reflection heard after $\ge 0.1\text{ s}$ ($d \ge 17.2\text{ m}$). Reverberation is a continuous persistence of sound due to rapid, multiple overlapping reflections ($t < 0.1\text{ s}$). |
 
 
 ---

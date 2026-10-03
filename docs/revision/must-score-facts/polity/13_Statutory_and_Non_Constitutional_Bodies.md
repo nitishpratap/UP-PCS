@@ -54,45 +54,21 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Lokpal panel includes RS Chairman | **No** — PM, LS Speaker, LoP LS, CJI/nominee, jurist |
-| CVC is in the Constitution | **No article** (2020) |
-| CVC = CBI | CVC **supervises**; CBI **investigates** |
-| NHRC = Art. 338 | **Statutory 1993**. 338 = NCSC |
-| CIC tenure still = CEC | **2019** left it to the Centre |
-| NGT hears Wildlife Protection Act as a scheduled Act | **Not** in the NGT Schedule (nor Indian Forest Act **1927**) |
-| CAT ousts High Courts | *L. Chandra Kumar* — **226 stays** |
-| RBI collects income tax / does census | **Notes**; census ≠ RBI |
-| MSP = RBI or NITI | **CACP** |
-| NCM = 350B | 350B = **linguistic** officer; NCM = **religious** minorities, 1992 Act |
-| NCSK / NCW = constitutional | **Statutory** |
-| NDMA chaired by Home Minister | **PM** |
-| SEBI created in 1992 from scratch | Executive **1988**, Act **1992** |
-| RBI is a constitutional body | **Statute 1934**; Entry **38** Union List |
-| Search Committee = Selection Committee (Lokpal) | Search **shortlists**; Selection **recommends**; President **appoints** |
-| CVC appoints CBI Director | Panel = **PM + LoP LS + CJI** (DPSE). CVC only supervises PCA work |
-| ₹1 note signed by RBI Governor | **GoI**; Finance Secretary |
-| NEC of NDMA chaired by HM | **Cabinet Secretary** |
-| NGT is Art. 323A | **323A = CAT**. NGT = 2010 Act |
-| Political parties are settled RTI public authorities | CIC said so (2013); **not enforced** |
-| NITI = constitutional / FC | **Resolution 2015**; FC is **280** |
-| NITI allocates Plan funds / recommends MSP | Think-tank; MSP = **CACP** |
-| CBI = statutory like CVC | **1963 resolution** + DSPE **1946** |
-| CBI under MHA | **DoPT**. IB = MHA |
-| CBI can enter any State like NIA | Needs **s.6 consent** (unless court) |
-| BHARATPOL = IB or RAW | **CBI** (2025) |
-| RAW under MHA | **Cabinet Secretariat**. IB = MHA |
-| ED = CBI wing | **Finance (Revenue)**; FEMA/PMLA |
-| NIA needs State consent | **Does not** (2008 Act) |
-| NSC = NDMA | NSC **1998** security policy; NDMA **2005** disaster |
-| First NITI VC = Rajiv Kumar | **Arvind Panagariya** |
-| Human Rights Day = 29 January | **10 December** (2025) |
-| CCI still appeals to COMPAT | **NCLAT** from **2017** |
-| WPI = RBI | **Ministry of Commerce & Industry** |
-| NDMA Chair = HM because MHA is nodal | Chair = **PM** (2021) |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| 2019 | First Lokpal (**P.C. Ghose**) | 2013 Act finally operational |
+| 2024 | Justice **Ajay Manikrao Khanwilkar** became Lokpal Chairperson | Current office-holder |
+| 2019 | RTI Amendment — term/salary by government | Independence |
+| 2019 | PHRA amendment — NHRC Chair, 3-year term | Composition |
+| 2016 | RBI MPC | Monetary policy |
+| 2014 | Jains notified as minority | NCM |
+| 2013 | PEMSR Act (manual scavenging) | NCSK neighbour |
+| 2011 | Anna Hazare / IAC | Political origin of Lokpal Act |
+| 2003 | CVC Act | Vineet Narain |
+| 2015 | NITI replaces Planning Commission (योजना आयोग) | Extra-constitutional (2018) |
+| 2018 | Aspirational Districts | NITI; UP **8** (2021) |
+| 2019 | NIA Amendment | Schedule / extra-territorial |
+| 2025 | BHARATPOL | **CBI**, not IB/RAW/ED |
 
 
 ---
@@ -194,7 +170,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Chair + **four** (चातुर्याम); report to **President**. NITI is **not** the FC.
+**Ans: D** — Chair + **four** (चातुर्याम); report to **President**. NITI is **not** the FC.
 
 </details>
 
@@ -250,7 +226,7 @@ D. The Ministry of Consumer Affairs, Food and Public Distribution
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** RBI is the trap — **not** a WPI publisher.
+**Ans: B** — RBI is the trap — **not** a WPI publisher.
 
 </details>
 
@@ -269,16 +245,17 @@ D. None of the above
 </details>
 
 **Q12.**
-Which one of the following pairs is NOT correctly matched?
-A. Interstate Council – Article 263
-B. Finance Commission – Article 280
-C. Administrative Tribunal – Article 323A
-D. Union Public Service Commission – Article 315
+Who among the following is NOT a member of the Committee for the appointment of the Chairperson and Members of the National Human Rights Commission (NHRC)?
+
+A. Prime Minister
+B. Speaker of the House of the People (Lok Sabha)
+C. Leader of Opposition in the Council of States (Rajya Sabha)
+D. Chief Justice of India
 
 <details>
 <summary>Show answer</summary>
 
-**Fact:C is a correct pair** (323A = administrative tribunals / CAT). *L. Chandra Kumar*: CAT supplements the High Court; **226/227 survive**.
+**Ans: D** — Under the Protection of Human Rights Act, 1993, the selection committee consists of: Prime Minister (Chairperson), Speaker of Lok Sabha, Deputy Chairman of Rajya Sabha, Leaders of Opposition in both Houses, and the Union Home Minister. The Chief Justice of India is NOT a member.
 
 </details>
 

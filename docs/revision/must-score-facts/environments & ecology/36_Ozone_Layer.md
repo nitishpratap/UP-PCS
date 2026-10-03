@@ -35,29 +35,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Montreal = climate mitigation | **Ozone / ODS**; Kyoto = climate |
-| Ozone layer in troposphere | **Stratosphere** (~90% of O₃) |
-| Ozone hole over India like Antarctica | **Antarctic spring** feature |
-| Vienna = detailed CFC ban alone | **Framework**; Montreal = phase-out |
-| HFC = classic ODS | **High GWP**; Kigali track |
-| Ozone Day = 5 June | **16 September** |
-| Hole = physical hole | Column O₃ **< 220 DU** |
-| Good ozone at ground level | Ground O₃ = **bad** pollutant |
-| CFC not a greenhouse gas | CFCs **are** GHGs and ODS |
-| CFC main source = automobiles | Refrigerants / foam / aerosols / electronics cleaners |
-| CFC use = tubeless tyres | **Not** a classic CFC use |
-| Fridge gas = methane | **Mafron**/halocarbon; large plants may use **ammonia** |
-| Ozone absorbs IR as UV-shield role | Protective role = **UV** |
-| UV harm key = liver/brain cancer | Classic key = **skin cancer** |
-| Carbon trading = Montreal | **Kyoto** |
-| Agenda 21 = ozone treaty | **Sustainable Development** |
-| Kyoto = save water / ozone | **GHG / climate** |
-| Ionosphere in homosphere | Homosphere ≈ tropo + strato + meso; **ionosphere not included** |
-| Methyl chloroform not an ODS | It **is** Montreal-controlled ODS |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Stratospheric Ozone** | **Tropospheric Ozone** | Beneficial atmospheric filter blocking lethal solar UV radiation vs harmful photochemical smog component damaging human lungs and crop yields | समतापमंडलीय ओजोन (सुरक्षा कवच) / क्षोभमंडलीय ओजोन (प्रदूषक) |
+| **Ozone Depletion** | **Ozone Hole** | Global thinning of the stratospheric ozone layer by ODS vs severe seasonal Antarctic drop in total column ozone below 220 Dobson Units (DU) | ओजोन क्षरण / ओजोन छिद्र (<220 DU) |
+| **Vienna Convention (1985)** | **Montreal Protocol (1987)** | Non-binding framework agreement establishing ozone research/cooperation vs binding international protocol mandating specific phase-out schedules for ODS | वियना कन्वेंशन (1985) / मॉन्ट्रियल प्रोटोकॉल (1987) |
+| **Chlorofluorocarbons (CFCs)** | **Hydrofluorocarbons (HFCs)** | Chlorine-bearing potent ozone depleters + GHGs (phased out under Montreal) vs zero ODP non-ozone-depleting refrigerants that are super greenhouse gases (phased down under Kigali) | सीएफसी (ओजोन क्षयकारी) / एचएफसी (ग्रीनहाउस गैस) |
+| **Ozone Depletion Potential (ODP)** | **Global Warming Potential (GWP)** | Measure of substance's ability to destroy O₃ relative to CFC-11 (=1.0) vs measure of heat-trapping efficiency relative to CO₂ (=1.0) over 100 years | ओजोन रिक्तीकरण क्षमता (ODP) / वैश्विक तापन क्षमता (GWP) |
+| **Dobson Unit (DU)** | **Parts Per Million (ppm)** | Standard measure of atmospheric column ozone thickness (1 DU = 0.01 mm at STP; normal = ~300 DU) vs concentration ratio of gases in volume | डॉबसन यूनिट (DU) / पीपीएम (ppm) |
 
 
 ---

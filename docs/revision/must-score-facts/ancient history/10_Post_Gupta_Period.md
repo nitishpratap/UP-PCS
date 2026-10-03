@@ -54,33 +54,25 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Harsha = Gupta emperor** → Pushyabhuti / Vardhana.
-2. **Thanesar = Kannauj** → early Haryana seat vs later **UP** capital.
-3. **Thanesar is in UP** → **Haryana**.
-4. **Fa-Hien visited Harsha** → Fa-Hien = Chandragupta II (~400).
-5. **Hiuen Tsang = Fa-Hien** → ~630 vs ~400. 2024 order Fa-Hien first.
-6. **I-Tsing sat in the 643 Kannauj assembly** → after Harsha.
-7. **Nalanda founder = Xuanzang / Harsha** → **Kumaragupta I**. Xuanzang is the visitor.
-8. **Sarvavarman issued the Gaya copper plate** → **2022 Q87 B**. Gaya plate = Gupta / Samudragupta. Sarvavarman = Asirgarh.
-9. **Haraha = Sarvavarman** → **Ishanavarman**, Barabanki.
-10. **Rajyashri married Dhruvasena II / Pulakeshin II** → **Grihavarman** only.
-11. **Pulakeshin killed Rajyavardhana** → **Shashanka** of Gauda.
-12. **Harsha conquered the Deccan** → **Narmada** stop. Aihole boast of Pulakeshin II.
-13. **Aihole = Harsha’s prasasti** → **Ravikirti** for Pulakeshin II.
-14. **Harshacharita = Si-Yu-Ki** → Bana’s Sanskrit vs Xuanzang’s Chinese.
-15. **Kadambari = second Harsha chronicle** → romance. *Harshacharita* is the biography.
-16. **Bana = Kalidasa** → Harsha court vs Gupta court.
-17. **2018 Hathigumpha = Harsha** → **Kharavela**.
-18. **2025 Battle of Kannauj = Harsha** → Humayun / Sher Shah.
-19. **Prayag charity = 1540 war** → quinquennial give-away Xuanzang saw.
-20. **Uparika invented by Harsha** → Gupta provincial title reused.
-21. **Mathura = silk, Varanasi = cotton in Xuanzang** → reverse the pair.
-22. **Yin-tu = a Harsha capital** → Chinese name for **India**.
-23. **Tripartite struggle = Harsha vs Pulakeshin** → later Pala–Pratihara–Rashtrakuta for Kannauj.
-24. **Shankaracharya’s four maths = Harsha foundations** → 8th-c. Advaita; not this file’s core.
-25. **Sung-yun = Fa-Hien under CG II** → ~518 Wei envoy, not Chandragupta II.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Gupta | Post-Gupta | Imperial ~320–550 vs fragment then **Harsha** | गुप्त / उत्तर-गुप्त |
+| Thanesar | Kannauj | Early capital **Haryana** vs later capital **UP** | थानेसर / कन्नौज |
+| Banabhatta | Kalidasa | Harsha’s **prose** vs Gupta **poetry/drama** | बाणभट्ट / कालिदास |
+| Harshacharita | Kadambari | Harsha **biography** vs **romance** (same Bana) | हर्षचरित / कादम्बरी |
+| Harshacharita | Si-Yu-Ki | Sanskrit kavya vs Xuanzang’s **Chinese** record | हर्षचरित / सी-यू-की |
+| Fa-Hien | Hiuen Tsang | CG II ~400 vs Harsha **~630** | फाह्यान / ह्वेन त्सांग |
+| Hiuen Tsang | I-Tsing | Harsha’s guest vs **after** Harsha, still Nalanda | ह्वेन त्सांग / इ-त्सिंग |
+| Pulakeshin II | Shashanka | **Narmada** Chalukya stop vs **Gauda** who killed the brother | पुलकेशिन / शशांक |
+| Maukhari | Pushyabhuti | Kannauj house vs **Thanesar** house | मौखरी / पुष्यभूति |
+| Ishanavarman | Ishvaravarman | **Haraha** 554 CE vs father. **Jaunpur** in 2022 key | ईशानवर्मन / ईश्वरवर्मन |
+| Haraha | Gaya copper plate | Maukhari Ishanavarman vs **Samudragupta** plate (2022 trap) | हराहा / गया |
+| Harsha | Kharavela | 7th c. Kannauj vs **Hathigumpha** (2018 trap C) | हर्ष / खारवेल |
+| Mathura cotton | Varanasi silk | Xuanzang textile pair | मथुरा कपास / वाराणसी रेशम |
+| Kausheya | Cotton | Silk cloth word vs ordinary cotton | कौशेय / कपास |
+| Hundi | Royal edict | Bill of exchange vs king’s order | हुंडी / आज्ञा |
+| Sung-yun | Fa-Hien | ~518 Wei envoy vs CG II pilgrim ~400 | सुंगयुन / फाह्यान |
+| Harsha | Shankaracharya | 7th c. Kannauj king vs 8th c. Advaita maths | हर्ष / शंकर |
 
 
 ---

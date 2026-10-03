@@ -54,41 +54,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **First census = 1881** — FALSE as “first ever.” **1881 = first synchronous**; 2023 key **1871**.
-2. **Density 324** — that is **2001**. **2011 = 382**.
-3. **Highest density = West Bengal / Delhi as a “state”** — state fact is **Bihar**.
-4. **Lowest density = Himachal / Mizoram** — **Arunachal**.
-5. **CSR = 943** — 943 is **overall** SR; CSR = **919** (0–6).
-6. **Lowest CSR = UP** — FALSE. **Haryana** (rural and urban).
-7. **TFR 2.1 = 2.1 per thousand** — FALSE. That wording is **CBR**. TFR = per **woman**.
-8. **Natural growth includes migration** — FALSE. **CBR − CDR** only.
-9. **Dividend = 60+ or 0–6** — FALSE. **15–59**.
-10. **Urbanisation acceleration = 3rd/4th stage** — FALSE. **2nd stage**.
-11. **Most urbanised religion = Christians** — FALSE. **Jains**.
-12. **Kanpur million in 1961 / Lucknow 1971** — FALSE. **1971 and 1981**.
-13. **Largest rural population = Maharashtra** — FALSE. **UP**.
-14. **Shrawasti vs Balrampur/Bahraich** — female literacy floor = **Shrawasti**.
-15. **Replace 2011 with UN 2023 headcount in Prelims tables** — FALSE until **Census 2027**.
-16. **Lorenz curve = illiteracy** — FALSE. It measures **income inequality**.
-17. **World Population Report = WHO / UNDP** — FALSE. **UNFPA**.
-18. **Highest density state = Delhi** — FALSE as a state answer. Fact **Bihar**.
-19. **Nagaland = least populous** — FALSE. Negative growth ≠ least populous; least populous = **Sikkim**.
-20. **Literacy age = 0–6 or 18+** — FALSE. Census literacy = age **7+**.
-21. **Arithmetic density = population ÷ net sown area** — FALSE. That is **physiological** density.
-22. **Natural growth includes migration** as “induced natural” — FALSE. Migration = **induced**; natural = CBR−CDR.
-23. **Immigration = movement out** — FALSE. Immigration = **in**; emigration = **out**.
-24. **ST share = 16.6%** — FALSE. ST ~**8.6%**; SC ~**16.6%**.
-25. **Skip factors of distribution because UPPCS never asked them** — FALSE. Next year can ask terrain/soil/industry pulls from the same topic.
-26. **Optimum Population = Robbins / Dalton / Carr-Saunders as the first name** — FALSE. Propounder = **Edwin Cannan**. The others restated it.
-27. **Social mal-adjustment = Dalton or Malthus** — FALSE. **Henry George**. Dalton’s M = (A − O) / O is the optimum **gap**, not George’s land-distribution argument.
-28. **Demographic Transition = Cannan** — FALSE. **Thompson** (Notestein also appears). Cannan is optimum.
-29. **Population geometric / food arithmetic swapped** — FALSE. Population is **geometric**. Food is **arithmetic**.
-30. **Malthusian Theory = poverty / economy / unemployment** — FALSE. It is a theory of **population**. Poverty-from-distribution is **Henry George**.
-31. **Positive checks = delayed marriage** — FALSE. Positive checks **raise deaths** (famine, disease, war). **Preventive** checks lower births.
-32. **Marx = geometric vs arithmetic** — FALSE. Marx criticised Malthus and treated surplus population as a product of **capitalism**.
-33. **Dumont = Social Mal-adjustment** — FALSE. Dumont is **social capillarity**. George is social mal-adjustment.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Census 2011** | Official number set until **Census 2027** | Every density/SR/literacy MCQ | ORGI |
+| **NFHS-5** | TFR ~**2.0** nationally | NFHS-4 (2015–16) figure used in 2018 was **2.2** | MoHFW |
+| **UNFPA** | World Population Report | 2021 Q79 | UNFPA |
+| **~2023** | UN estimate: India most populous | CA only — 2011 still 2nd in Census table | UN / UNFPA |
+| **NPP 2000** | Stable population **2045** | Policy year fact | MoHFW |
+| **11 July** | World Population Day | 2018 Q114 | UN |
 
 
 ---

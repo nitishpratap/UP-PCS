@@ -54,37 +54,20 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| ECI elects the Speaker / runs municipal polls | **House** / **SEC** (2024) |
-| ECI = Delimitation Commission | **Separate** statute; CEC may *sit* |
-| Voting age cut by 62nd / 86th | **61st** (2021) |
-| UAF = Article 324 | **326**. 324 = superintendence |
-| LS uses PR | **FPTP**. PR-STV = President/VP/RS/Councils |
-| President elected by FPTP | **PR-STV** (MLA vote-value uses 1971 population) |
-| MCC is an Act | **Convention** + 324. The 48-hour **statute** is **s.126 RPA** |
-| RS election is secret like the President | Party vote = **open ballot (2003)** |
-| Bye-poll always within 6 months | Skip if remainder of term **< 1 year** |
-| 95th still the last word on 334 | **104th** carried SC/ST quota to **2030** |
-| Voters’ Day = 26 January | **25 January** (ECI’s birthday) |
-| Constitution Day = 27 January | **26 November** |
-| Delimitation order can be stayed like a statute in HC | **329** bar |
-| 84th froze internal boundaries forever | Froze **State-wise totals**; **87th** redrew on 2001 |
-| Anglo-Indians still nominated to LS | **104th ended** it |
-| 106th already applied in 2024 LS | **After** next delimitation |
-| Prisoners vote if their names are on the roll | **s.62(5)** — custody blocks the vote |
-| 7th Lok Sabha = 1982 | **1980** (2022) |
-| Registration = national party | **s.29A** only registers; recognition is **Symbols Order** |
-| 1/3 split still saves defectors | **91st deleted** it; merger = **2/3** |
-| NOTA wins → re-poll | **No** — highest candidate still elected |
-| VVPAT first in 2019 | First **Noksen 2013**; nationwide 2019 |
-| EPIC before EVM | **EVM 1982**, EPIC **1993** (2025) |
-| Election petition in SC first | **HC**; President/VP = **71** |
-| Star campaigners = 40 for every party | **40** recognised / **20** unrecognised |
-| Electoral bonds still valid | **SC 2024** struck down |
-| Simultaneous polls by ECI circular | Needs **83/85/172/174** |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| 2023 | CEC Act — appointment panel **without CJI** | CEC Act 2023 panel sans CJI; machinery still 324 |
+| 2023 | **106th** — 33% women, after delimitation | Reserved seats |
+| 2019–20 | **104th** — Anglo-Indian nomination ends; SC/ST quota till 2030 | 331/333/334 |
+| 2011 | First National Voters’ Day | 25 January |
+| 2001/03 | 84th freeze / 87th redraw on 2001 census | Delimitation |
+| 1988–89 | **61st** — voting (गणपूर्ति) age 18 | 326 |
+| 2003 | RS elections: **open ballot** for party vote | PR-STV trap |
+| 2022 | Four (चातुर्याम) qualifying dates for the roll | Age 18 tested quarterly |
+| 2013 | NOTA (*PUCL*) · VVPAT Noksen | 2025 chronology |
+| 2018–24 | Electoral bonds; SC struck down Feb 2024 | Party funding |
+| 2003 | 91st Amendment — merger 2/3, split gone | 10th Schedule |
+| 2023–24 | Kovind committee, simultaneous polls | Not yet law |
 
 
 ---

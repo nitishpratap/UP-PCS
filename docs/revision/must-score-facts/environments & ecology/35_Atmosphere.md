@@ -39,18 +39,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Ozone layer in troposphere | **Stratosphere** |
-| Atmosphere heated mainly by shortwave | **Longwave from surface** |
-| N₂ is a GHG | **Not**; N₂O is |
-| Temp falls in every layer | Tropo↓ Strato↑ Meso↓ Thermo↑ |
-| Weather in stratosphere | **Troposphere only** |
-| Meteors burn in troposphere | **Mesosphere** |
-| Max ozone in mesosphere/exosphere | **Stratosphere** |
-| Argon is a GHG | **Not** |
-| Thermosphere “feels” very hot | High T, **low density** |
-| Composition % = climate importance | Trace CO₂ still critical |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Troposphere** | **Stratosphere** | Lowest weather layer, temperature decreases with altitude (normal lapse rate 6.5°C/km) vs calm dry layer where temperature increases with height due to UV absorption by ozone | क्षोभमंडल (मौसम परत) / समतापमंडल (ओजोन परत) |
+| **Stratosphere** | **Mesosphere** | Contains protective ozone layer; stable air suited for jet aircraft vs coldest atmospheric layer (-90°C) where incoming meteors burn upon entry | समतापमंडल / मध्यमंडल (उल्कापिंड दहन) |
+| **Mesosphere** | **Thermosphere (Ionosphere)** | Temperature plummets to lowest levels vs temperature surges past 1500°C; contains ionized gas reflecting terrestrial radio waves and hosting auroras | मध्यमंडल / तापमंडल (आयनमंडल) |
+| **Homosphere** | **Heterosphere** | Lower ~85 km where atmospheric gases remain uniformly mixed in proportion vs upper layer where gases stratify by molecular weight (N₂, O, He, H) | सममंडल (समान मिश्रण) / विषममंडल (गुरुत्वाकर्षण परतें) |
+| **Insolation** | **Terrestrial Radiation** | Shortwave electromagnetic solar radiation received by Earth vs outgoing longwave infrared radiation re-radiated by Earth's heated surface | सूर्यताप (लघुतरंग) / भौमिक विकिरण (दीर्घतरंग) |
+| **Good Ozone** | **Bad Ozone** | Naturally occurring stratospheric ozone shielding Earth from solar UV-B vs ground-level tropospheric ozone acting as secondary pollutant and respiratory irritant | अच्छा ओजोन (समतापमंडल) / बुरा ओजोन (क्षोभमंडल) |
 
 
 ---

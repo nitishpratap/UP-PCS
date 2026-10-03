@@ -48,20 +48,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Emissions Gap = IPCC/UNDP | **UNEP** |
-| HDR = UNEP | **UNDP** |
-| UNEP HQ Geneva/NY | **Nairobi** |
-| IPCC sets NDCs | **UNFCCC/COP** |
-| IUCN regulates trade | **CITES** |
-| WWF = IUCN | Same city, **different roles** |
-| FAO HQ Nairobi | **Rome** |
-| GEF donors = developed only | **False** |
-| HDI team = Priesner | **Haq–Sen** lineage |
-| Limits to Growth = UNESCO | **Club of Rome** |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **UNEP** | **UNDP** | UN environmental coordinator established post-1972 Stockholm Conference (HQ: Nairobi, Kenya) vs UN development network producing the Human Development Index (HQ: New York) | यूएनईपी (नैरोबी, पर्यावरण) / यूएनडीपी (न्यूयॉर्क, विकास) |
+| **IPCC** | **UNFCCC** | Scientific review panel established in 1988 by WMO/UNEP to assess peer-reviewed climate data (HQ: Geneva) vs legally binding treaty secretariat coordinating annual COPs (HQ: Bonn, Germany) | आईपीसीसी (वैज्ञानिक समीक्षा) / यूएनएफसीसीसी (वार्ता सचिवालय) |
+| **IUCN** | **WWF** | Oldest global conservation union (1948, Gland) publishing the Red List of Threatened Species vs private international conservation NGO (1961, Gland) famous for Giant Panda logo and Earth Hour | आईयूसीएन (रेड लिस्ट) / डब्ल्यूडब्ल्यूएफ (पांडा प्रतीक) |
+| **CITES** | **CMS (Bonn Convention)** | Regulates commercial cross-border trade in endangered species of wild flora and fauna (1973) vs promotes conservation and habitat protection for migratory wild animal species (1979) | साइट्स (वन्यजीव व्यापार) / बॉन कन्वेंशन (प्रवासी प्रजातियां) |
+| **Global Environment Facility (GEF)** | **Green Climate Fund (GCF)** | Multilateral financial mechanism (World Bank 1991) serving CBD, UNCCD, Stockholm, Minamata, and UNFCCC vs dedicated operating financial entity of UNFCCC created at COP16 Cancun | जीईएफ (वैश्विक पर्यावरण कोष) / जीसीएफ (हरित जलवायु कोष) |
 
 
 ---

@@ -54,19 +54,19 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-- SNA is **1952**. Sahitya and Lalit Kala are **1954**.
-- **Jnanpith ≠ Sahitya Akademi**. First year **1965**.
-- Yuva Puraskar **≤35** is Sahitya. **Bismillah Khan Yuva** is SNA.
-- **24** Akademi languages ≠ **22** Schedule. **Bhojpuri** is not a separate Akademi language.
-- **2025 Yuva**: 23 languages, **no Dogri**. Dogri is still a recognised language.
-- First musician Bharat Ratna = **Subbulakshmi 1998**, not Ravi Shankar, not Bismillah.
-- **1963 Bharat Ratna Zakir Husain ≠ tabla Ustad Zakir Hussain**.
-- **Birju Maharaj** is Kathak, **not** Bharat Ratna.
-- Tagore = Nobel **1913**, not Bharat Ratna.
-- GI ministry = **Commerce**, registry **Chennai**, first = **Darjeeling Tea 2004**.
-- Blue Pottery = **Jaipur**, not Lucknow. Chikankari = **Lucknow**, not Varanasi.
-- SNA Ratna living cap is about **40**, not 5.
-- Lalit Kala ≠ literature. NGMA ≠ the academy.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| SNA | Sahitya / Lalit Kala | Performing **1952** vs letters **1954** / visual **1954** | संगीत नाटक / साहित्य / ललित कला |
+| Sahitya Akademi Award | Jnanpith | Culture academy, annual book vs **Bharatiya Jnanpith trust, 1965** | साहित्य अकादमी / ज्ञानपीठ |
+| Sahitya Yuva Puraskar | Bismillah Khan Yuva | Authors **≤35** vs young **performing** artists (SNA) | युवा पुरस्कार / बिस्मिल्लाह खां युवा |
+| Akademi Award | Akademi Ratna | Annual discipline prize vs lifetime Fellowship | अकादमी पुरस्कार / अकादमी रत्न |
+| Lalit Kala | NGMA | Visual **academy** vs modern-art **gallery** | ललित कला / राष्ट्रीय आधुनिक कला गैलरी |
+| Bharat Ratna | Padma Vibhushan | Highest civilian vs second Padma tier | भारत रत्न / पद्म विभूषण |
+| 24 Akademi languages | 22 Eighth Schedule | Adds **English + Rajasthani** | 24 भाषाएँ / 22 अनुसूची |
+| GI tag | Trademark | Place + community vs a firm’s brand | भौगोलिक संकेत / व्यापार चिह्न |
+| GI ministry | Culture ministry | **Commerce / DPIIT** runs GI; Culture runs Akademis | वाणिज्य / संस्कृति |
+| MS Subbulakshmi | Lata Mangeshkar | First musician BR **1998** Carnatic vs playback BR **2001** | एम.एस. / लता |
+| Bismillah Khan | Birju Maharaj | Shehnai, Varanasi, BR 2001 vs Kathak Lucknow, **not** BR | बिस्मिल्लाह / बिरजू |
 
 
 ---

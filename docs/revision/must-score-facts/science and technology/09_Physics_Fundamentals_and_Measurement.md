@@ -54,21 +54,21 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-1. **Light-Year Trap**: Do NOT mark light-year as a unit of time. It is astronomical distance ($9.461 \times 10^{15}\text{ m}$).
-2. **Curie vs Becquerel Trap**: If a question asks for the **SI unit** of radioactivity, the answer is **Becquerel (Bq)**. Marking Curie will incur negative marks!
-3. **Barometer Sudden Drop**: A sudden steep drop means **storm / cyclone**. A gradual slow decline indicates rain. A gradual rise indicates dry, fair weather.
-4. **Hydrometer vs Hygrometer Trap**:
-   - **Hydro-** = water/liquid density (relative density of liquids).
-   - **Hygro-** = moisture/vapor in air (relative humidity).
-5. **Tesla vs Weber**: Tesla is magnetic flux *density* ($B$). Weber is magnetic *flux* ($\Phi$).
-6. **Ammeter Connection Trap**: An ammeter is connected in **series** and has ideally **zero** internal resistance. A voltmeter is connected in **parallel** and has ideally **infinite** resistance.
-7. **Computer Processor Clock Speed**: Measured in **Hertz ($Hz$) / Gigahertz ($GHz$)**, NOT bytes or bits (which measure memory/storage capacity).
-8. **Kilowatt-Hour Trap**: $kWh$ is a commercial unit of **energy** ($1\text{ kWh} = 3.6 \times 10^6\text{ J}$), NOT electrical power.
-9. **Strain is Unitless**: Mechanical strain is $\frac{\Delta l}{l}$ (dimensionless, no unit).
-10. **1 Parsec Value**: $1\text{ pc} = 3.262\text{ ly} = 206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU} = 3.0857 \times 10^{16}\text{ m}$.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Curie vs Becquerel** | **Becquerel ($Bq$)** is the official SI unit ($1\text{ decay/s}$). **Curie ($Ci$)** is a traditional/non-SI unit ($1\text{ Ci} = 3.7 \times 10^{10}\text{ Bq}$). |
+| **Tesla vs Weber** | **Tesla ($T$)** is magnetic flux *density* ($Wb/m^2 = N/(A\cdot m)$). **Weber ($Wb$)** is total magnetic *flux* ($T\cdot m^2 = V\cdot s$). |
+| **Ohm vs Ohm-metre** | **Ohm ($\Omega$)** is electrical *resistance* ($R$). **Ohm-metre ($\Omega\cdot m$)** is specific electrical *resistivity* ($\rho$). |
+| **Farad vs Faraday** | **Farad ($F$)** is capacitance ($C/V$). **Faraday** is quantity of electric charge ($1\text{ Faraday} \approx 96,485\text{ Coulombs}$). |
+| **Gray vs Sievert** | **Gray ($Gy$)** measures physical *absorbed radiation dose* ($J/kg$). **Sievert ($Sv$)** measures biological *equivalent/effective dose* ($J/kg$). |
+| **Hydrometer vs Hygrometer** | **Hydrometer** measures *specific gravity/relative density of liquids*. **Hygrometer** measures atmospheric *relative humidity*. |
+| **Lactometer vs Butyrometer** | **Lactometer** measures *density* of milk to check adulteration with water. **Butyrometer** measures *fat percentage* in milk products. |
+| **Pyrometer vs Pyrheliometer** | **Pyrometer** measures *extreme high temperatures* of surfaces/furnaces/stars. **Pyrheliometer** measures *direct beam solar radiation*. |
+| **Anemometer vs Wind Vane** | **Anemometer** measures wind *speed/velocity and force*. **Wind Vane** indicates wind *direction*. |
+| **Barometer vs Manometer** | **Barometer** measures *atmospheric pressure*. **Manometer** measures *pressure of fluids/gases* in closed systems. |
+| **Ammeter vs Galvanometer** | **Ammeter** measures quantitative *magnitude of electric current*. **Galvanometer** detects *presence and direction* of minute currents. |
+| **Odometer vs Speedometer vs Tachometer** | **Odometer** records total *distance travelled* by vehicle. **Speedometer** displays instantaneous *linear speed*. **Tachometer** measures shaft *rotational speed (RPM)*. |
+| **Fathometer vs Sextant** | **Fathometer** measures *ocean depth* using acoustics. **Sextant** measures *angular altitude* of celestial bodies above the horizon. |
 
 
 ---

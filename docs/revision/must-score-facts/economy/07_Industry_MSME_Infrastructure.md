@@ -54,18 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-* **Make in India = 2014** (lion logo); **Gati Shakti = 2021** (not 2022) + **seven engines**.
-* MSME **2020** composite — then **Apr 2025** ceiling hike; stem year wins.
-* SSI chronology keyed **Karve → Abid Hussain → Nayak → Kohli**.
-* IIP = mining + manufacturing + electricity — **not** construction.
-* Eight Core ≠ chemicals/textiles; heaviest weight = **refinery products**.
-* NIP period ≠ “2020–30”; NIIF ≠ NITI organ; corpus ≠ ₹4 lakh crore.
-* Bharatmala = **roads**; DMIC partner = **Japan**.
-* Stand-Up India = SC/ST + women; MUDRA max now **₹20 lakh** teaching.
-* Digital India ≠ industrial initiative; PNGRB ≠ first regulator.
-* FDI ≠ FPI; Services = classic top sector; Singapore = recent top **source**.
-* Steel map: Bhilai–Russia, Rourkela–Germany, Durgapur–UK, Bokaro–USSR.
-* CSR / Kotak governance → Topic 11; labour codes → Topic 12.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2024** | **Singapore** as top FDI source in 2023–24 teaching; **India–Mauritius tax treaty** change shifted routing away from Mauritius. | A true + R explains A. |
+| **2023** | **PM Gati Shakti** seven engines correct; launch year is **2021**, not 2022. | Date trap. |
+| **2022** | **Make in India** launched **2014**; aims to encourage manufacturing in India and facilitate investment. | Both statements. |
+| **2021 (UKPCS)** | Latest MSME classification revision effective **2020** (1 July 2020). | Composite investment + turnover. |
+| **2025** | MSME investment / turnover ceilings raised again (**w.e.f. 1 April 2025**) — 2.5× investment and 2× turnover over the 2020 bands. | Stem year decides which ceiling set. |
+| **SSI committees** | Keyed order **Karve → Abid Hussain → Nayak → Kohli** (IV, II, I, III) — middle pair is contested vs some date lists; carry Karve first / Kohli last as safe anchors. | Chronology stem. |
+| **CSR / companies** | CSR statute depth lives in **Topic 11**; labour codes / Act chronology deepen in **Topic 12**. | Topic border. |
 
 
 ---

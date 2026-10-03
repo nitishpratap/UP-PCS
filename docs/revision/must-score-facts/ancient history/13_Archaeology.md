@@ -54,23 +54,19 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Rakhigarhi = UP** → **Haryana**. 2025 bait.
-2. **Biggest IVC = eastern boundary** → east end is **Alamgirpur**.
-3. **Mandi = Manda** → Bijnor UP vs **J&K**.
-4. **Hulas = Gujarat** → **Baghpat, UP**. Padri is Gujarat.
-5. **Kalibangan / Lothal = UP** → Rajasthan / Gujarat (2018).
-6. **Wheeler discovered IVC** → Sahni + Banerjee under **Marshall 1924**. Wheeler = 1946 grid.
-7. **Marshall dug every trench** → he is the **DG** who announced.
-8. **Wakankar = Vatsa** → Vatsa is Harappan. Wakankar = **Bhimbetka**.
-9. **Bhimbetka = UP** → **MP**.
-10. **C-14 dates stone / copper** → **organic** only.
-11. **ASI HQ = Lucknow** → **New Delhi**.
-12. **Sanauli = Lothal dock** → Baghpat **chariots**, Late Harappan / OCP.
-13. **Didwana = Tamil Nadu** → **Rajasthan**. Gudiyam = TN.
-14. **Isampur = Maharashtra** → **Karnataka**. Nevasa = MH.
-15. **Manda = eastern Harappan** → **north** (J&K). East = Alamgirpur.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Site | Excavation | Place with remains vs the **dig** | स्थल / उत्खनन |
+| Stratigraphy | C-14 | Relative (layers) vs **calendar years** | स्तरिकी / कार्बन-14 |
+| Relative | Absolute | Older/younger vs **5730-year** clock | सापेक्ष / निरपेक्ष |
+| Marshall | Wheeler | Announces IVC **1924** vs grid dig **1946** | मार्शल / व्हीलर |
+| Sahni | Banerjee | **Harappa 1921** vs **Mohenjo-daro 1922** | साहनी / बनर्जी |
+| Wakankar | Sankalia | **Bhimbetka** vs Deccan prehistory | वाकणकर / संकलिया |
+| Alamgirpur | Rakhigarhi | Easternmost **UP** vs largest **Haryana** | आलमगीरपुर / राखीगढ़ी |
+| Mandi | Manda | **Muzaffarnagar UP** vs **J&K** Chenab | मंडी / मांडा |
+| Hulas | Lothal | Baghpat **UP** vs Gujarat **dock** | हुलास / लोथल |
+| Rock shelter | Cave | Bhimbetka overhang vs hollow | शैल आश्रय / गुफा |
+| ASI HQ | Lucknow | **New Delhi** vs UP state archaeology | दिल्ली / लखनऊ |
 
 
 ---

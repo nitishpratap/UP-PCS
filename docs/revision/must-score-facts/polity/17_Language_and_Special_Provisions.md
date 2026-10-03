@@ -54,43 +54,21 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. Hindi is the **national** language → Constitution has **no** national language. Hindi = Union **official** language
-2. English is in the 8th Schedule → **statute** (1963/67). **Not** 8th
-3. Bhojpuri / Rajasthani in 8th → **not**
-4. 8th Schedule has 24 / 23 languages → **22**. 96th only **renamed** Oriya
-5. Sindhi = 71st / 92nd → **21st, 1967** — first add-on
-6. Nepali not in 8th → **71st, 1992** — it is
-7. Classical languages = 6 → **11** after **3 Oct 2024**
-8. Pali is 8th Schedule → classical **2024**, **not** 8th
-9. 350B officer in every State → **one** for India
-10. 350B = 9th Amd → **7th** (1956). 9th Amd = Berubari
-11. 344 Commission still sits every 5 years → only **1955** and **1960** were constitutionally mandated
-12. 1976 OL Committee = 344 → **statutory**, Home Minister; 344 is the old constitutional commission
-13. 15 years was extended by a constitutional Amd → **no.343(3) + 1963 Act**
-14. 348 lets a State drop English in the Supreme Court → Governor’s permission is for the **High Court** only
-15. 351 lets Hindi **replace** other 8th Schedule languages → duty to promote Hindi **and** draw from them; not a kill-switch
-16. NCM = 350B → NCM = **religious**, 1992 Act
-17. 8th Schedule language = Union OL → only **Hindi** is Union OL. Tamil/Bengali in 8th ≠ Union OL
-18. Amending 343 needs half the States → **not** on the 368 proviso list. And 2018 “OL provision” = **ordinary law** under **343(3)**
-19. Hindi Diwas = 10 January → **14 September**. 10 Jan = **World** Hindi Day
-20. 394A made Hindi the national language → only an **authoritative Hindi text** of the Constitution (**58th**)
-21. Maithili not in 8th (like Bhojpuri) → **Maithili is in** (92nd). Bhojpuri is not
-22. Santhali script = Devanagari only → **Ol Chiki** is the distinctive fact
-23. Three-language formula = Art. 351 → **policy**, not an article
-24. Kendriya Hindi Samiti = Home Minister → **PM** chairs
-25. 371J = Nagaland / Goa / Ladakh → **Kalyana-Karnataka**. Goa = **371I**. Nagaland = **371A**
-26. Sixth Schedule = Nagaland / Sikkim / Arunachal → **AMTM only**. Those three have **371A / 371F / 371H**
-27. PESA = Sixth Schedule / 1993 → **Fifth Schedule, 1996**
-28. 35A = a Constitutional Amendment → **1954 Presidential Order** under 370
-29. 370 repealed by 103rd/368 → **Presidential orders** Aug 2019; SC 2023 upheld. Article remains, **inoperative**
-30. J&K still a State → **UT with legislature** from **31 Oct 2019** (statehood promised, not yet restored)
-31. Fifth Schedule includes UP → **no SA in UP**. 10 named States only
-32. TAC makes laws like an ADC → TAC is **advisory**. ADC **legislates**
-33. Inner Line = Sixth Schedule → **1873** Regulation. Manipur added **2019**. Meghalaya **not** ILP
-34. 244A = Sixth Schedule → autonomous **State inside Assam** — unused. 6th = **244(2)**
-35. Ladakh is Sixth Schedule → **LAHDC 1995** statute. Demand pending
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Official language (Union)** | **National language** | Hindi in Devanagari (**343**). Constitution **never** names a national language | राजभाषा (संघ) / राष्ट्रभाषा |
+| **8th Schedule** | **Classical language** | Constitutional **list of 22**. Executive **tag** (now **11**) — overlap is **not** 1:1 | 8वीं अनुसूची / शास्त्रीय भाषा |
+| **343 English clock** | **OL Act 1963/67** | Text said **15 years**. Statute keeps English **with** Hindi, no sunset | 15-वर्षीय सीमा / राजभाषा अधिनियम 1963 |
+| **344 Commission** | **1976 OL Committee** | Constitutional, **two** reports (5y / 10y) vs Statutory, **Home Minister** chairs, standing | अनु. 344 आयोग / संसदीय समिति 1976 |
+| **350A** | **350B** | States’ duty: mother-tongue **primary** vs **One** Union officer for linguistic minorities | अनु. 350A (मातृभाषा) / अनु. 350B (विशेष अधिकारी) |
+| **350B officer** | **NCM** | Constitutional, **linguistic** vs Statutory 1992, **religious** | भाषाई अल्पसंख्यक अधिकारी / राष्ट्रीय अल्पसंख्यक आयोग |
+| **345** | **347** | State legislature adopts OL vs **President** may direct a language of a section of the population | अनु. 345 (राज्य राजभाषा) / अनु. 347 (राष्ट्रपति निर्देश) |
+| **8th Schedule language** | **Union official language** | 22 recognised languages vs Only **Hindi** (343). Being in the 8th does **not** make a language the Union OL | 8वीं अनुसूची भाषा / संघ राजभाषा |
+| **Simple law (343(3))** | **368 Amd of 343** | Parliament **provides** for English — ordinary Bill (2018) vs Changing 343’s *text* — special majority, **not** on the federal list | साधारण विधि (343(3)) / संविधान संशोधन (368) |
+| **Fifth Schedule** | **Sixth Schedule** | 10 States · TAC · PESA vs **AMTM** · ADC · no PESA | 5वीं अनुसूची / 6वीं अनुसूची (AMTM) |
+| **371A** | **Sixth Schedule** | Nagaland custom/land vs AMTM autonomous councils | अनु. 371A (नागालैंड) / छठी अनुसूची |
+| **371I** | **371J** | Goa Assembly ≥30 vs Kalyana-Karnataka board + local quota | अनु. 371I (गोवा) / 371J (कल्याण-कर्नाटक) |
+| **370** | **35A** | Temporary J&K article (now inoperative) vs 1954 Order on permanent residents — **not** an Amd | अनु. 370 / अनु. 35A (स्थायी निवासी) |
 
 
 ---

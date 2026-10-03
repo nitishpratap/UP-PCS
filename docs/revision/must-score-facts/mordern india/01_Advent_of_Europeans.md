@@ -54,37 +54,28 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Gama conquered Goa** → Calicut **1498**; **Albuquerque** = Goa **1510**.
-2. **EIC = VOC = 1600** → EIC **1600**, VOC **1602**.
-3. **French company before Dutch** → French **1664** is last in arrival order.
-4. **Hawkins arrived 1611 as James I’s envoy** → arrived **1608**; envoy = **Roe**.
-5. **Roe before Hawkins / both at Akbar’s court** → Hawkins **1608**, Roe **1615**; court = **Jahangir**. EIC charter year still falls in **Akbar’s** reign.
-6. **Pondicherry = Dutch / Chinsurah = French** → Pondicherry **French**; Chinsurah **Dutch**; Chandernagore **French**.
-7. **Serampore = French / Bandel = Dutch** → Serampore **Danish**; Bandel **Portuguese**.
-8. **Aix-la-Chapelle = 1763 / Paris returned Madras** → Aix **1748** (Madras back); Paris **1763**.
-9. **Wandiwash = Plassey / Clive** → Wandiwash **1760**, **Coote vs Lally**. Plassey is Bengal, 1757.
-10. **Carnatic Wars = Anglo-Mysore** → different enemy and decades; Anglo-French Carnatic comes **before** Anglo-Mysore.
-11. **Factory = industrial mill / first Municipal Corp = Calcutta** → factory = **trading post**; Corp = **Madras 1687–88**.
-12. **Almeida after Albuquerque as first Viceroy** → **Almeida 1505** first.
-13. **Arcot = Third Carnatic War** → Arcot **1751** = **Second** War.
-14. **Muhammad Ali = French client** → Muhammad Ali = **English**; Chanda Sahib = French.
-15. **First European fort = Goa** → **Cochin 1503**; Goa is **1510** capital.
-16. **Anwaruddin died in the First Carnatic War** → he was killed at **Ambur 1749**, which opens the **Second** War.
-17. **Surat permanent factory = 1612 / Masulipatnam never temporary** → Swally **1612**; permanent Surat **1613**; Masulipatnam temporary **1611**.
-18. **English never occupied Pondicherry** → they did (**1793**), returned it in **1814**.
-19. **Portuguese left India with the British in 1947** → Portuguese held Goa till **1961**.
-20. **Levant Company = first sea EIC** → Levant **1592** was a **land-route** charter; sea EIC is **1600**.
-21. **Immediate cause of First Carnatic War = Carnatic succession** → succession is Second War; First War spark = **seizure of French ships**.
-22. **Kochi Fort Williams = English Fort William** → Dutch fort at Kochi **1663**; Calcutta Fort William is English.
-23. **Colachel = English vs Dutch / Bedara = Travancore vs Dutch** → Colachel = **Travancore vs Dutch (1741)**; Bedara = **English vs Dutch (1759)**.
-24. **Fort Gustavus = Pulicat / Fort Geldria = Chinsurah** → **Geldria = Pulicat**; **Gustavus = Chinsurah**.
-25. **Dutch left India in 1667 forever** → coaching “sphere split” with Indonesia; factories continued till **Bedara** politics ended and **1824** treaty ceded posts.
-26. **Farman 1717 = Diwani** → Farrukhsiyar trade privilege ≠ revenue Diwani of **1765**.
-27. **Capitanias = cartaze** → capitanias = coastal captaincies; cartaze = sea-pass.
-28. **Swally = permanent Surat factory year** → battle **1612**; permanent factory **1613**.
-29. **Company charter ladder = industrial Factory Acts** → these are EIC monopoly renewals (**1600–1708**), not labour Factory Acts.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Factory | Colony | Trading post (warehouse) vs territorial rule | फैक्टरी / उपनिवेश |
+| EIC 1600 | VOC 1602 | English company vs Dutch company | ईस्ट इंडिया कंपनी / वीओसी |
+| Cartaze | Farman | Portuguese sea-pass vs Mughal land trade grant | कार्टाज़ / फ़रमान |
+| Chinsurah | Chandernagore | Dutch Bengal HQ vs French Bengal HQ | चिन्सुरा / चंद्रनगर |
+| Goa | Pondicherry | Portuguese capital vs French headquarters | गोवा / पांडिचेरी |
+| Aix-la-Chapelle (1748) | Paris (1763) | Ends 1st Carnatic War (Madras returned) vs Ends 3rd Carnatic (French defeat) | एक्स-ला-शापेल / पेरिस |
+| Carnatic Wars | Anglo-Mysore Wars | English vs French vs English vs Hyder/Tipu | कर्नाटक युद्ध / आंग्ल-मैसूर |
+| Hawkins 1608 | Roe 1615–19 | EIC captain at Jahangir’s court vs ambassador of James I | हॉकिन्स / रो |
+| Wandiwash 1760 | Plassey 1757 | Anglo-French battle (Coote) vs Bengal battle (Clive) | वांडिवाश / प्लासी |
+| Presidency | Factory | Madras / Bombay / Bengal administrative unit vs a local trading station | प्रेसीडेंसी / फैक्टरी |
+| Cochin fort 1503 | Goa 1510 | First European fort (Albuquerque, not yet Governor) vs Estado capital | कोचीन / गोवा |
+| Masulipatnam 1611 | Surat 1613 | First English temporary factory vs first permanent English factory | मसूलीपट्टनम / सूरत |
+| Chinsurah | Bandel | Dutch Bengal (Fort Gustavus) vs Portuguese Bengal pocket | चिन्सुरा / बन्देल् |
+| Levant 1592 | EIC 1600 | Land-route charter vs sea East Indies charter | लेवेंट / ईआईसी |
+| Colachel 1741 | Bedara 1759 | Travancore defeats Dutch vs English defeat Dutch | कोलाचेल / बेदारा |
+| Fort Geldria | Fort Gustavus | Dutch Pulicat fort vs Dutch Chinsurah fort | गेल्ड्रिया / गुस्तावस |
+| Lenoir / Dumas | Dupleix | Mid governors before Dupleix vs Carnatic proxy architect **1742–54** | लनोआ–डूमा / डूप्ले |
+| Capitanias | Cartaze | Portuguese coastal captaincies under fort captains vs Portuguese sea-pass | कैपिटानिया / कार्टाज़ |
+| Farman 1717 | Diwani 1765 | Farrukhsiyar trade privilege vs revenue grant after Buxar | फ़रमान 1717 / दीवानी 1765 |
+| Swally 1612 | Surat factory 1613 | Thomas Best’s naval win vs first permanent English factory | स्वाली / सूरत |
 
 
 ---

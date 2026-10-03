@@ -54,35 +54,22 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Cripps = 1946 / Cabinet Mission = 1942** → Cripps **1942**; Cabinet **1946**.
-2. **Wavell/Simla = 1946** → **June–July 1945**.
-3. **C.R. Formula = C.R. Das** → **Rajagopalachari**. Das died 1925.
-4. **Shanti Ghosh = Quit India** → **1931** Bengal revolutionary.
-5. **Rani Jhansi Regiment = 1857** → **INA** women’s regiment.
-6. **INA trials at Agra/Gwalior** → **Red Fort, Delhi**.
-7. **Independence Act = 3 June / 15 August** → Act **18 July 1947**.
-8. **Forward Bloc = 1934 CSP** → Bloc **1939**; CSP **1934**.
-9. **League never joined Interim** → it **did** (Oct 1946) after withdrawing the Mission.
-10. **Cabinet Mission A/R trap** → both facts can be true, but joining the Interim Government does **not** explain the earlier withdrawal.
-11. **Do or Die = Bose** → **Gandhi, 8 Aug 1942**.
-12. **RIN = 1942** → **February 1946**.
-13. **August Offer = Cripps** → Offer **1940**; Cripps **1942**.
-14. **Mountbatten Plan = Independence Act** → Plan **3 June**; Act **18 July**.
-15. **Usha Mehta = Rani Jhansi** → Mehta = **Congress Radio**; Jhansi = **Lakshmi Sehgal / INA**.
-16. **Deliverance Day = Independence Day** → League’s **22 December 1939** after Congress resignations.
-17. **Pakistan coined by Jinnah in 1940** → word **Rahmat Ali, 1933**; League demand crystallised at **Lahore 1940**.
-18. **Cripps = 1946** → **March 1942**; 1946 = Cabinet Mission.
-19. **Quit India slogan coined by Gandhi** → often keyed to **Yusuf Meher Ali**; Gandhi’s mantra = **Do or Die**.
-20. **Gandhi jailed at Ahmednagar Fort in QI** → **Aga Khan Palace**; Ahmednagar held many CWC members.
-21. **Pirpur Report = Cabinet Mission** → League grievance dossier on Congress provinces (**1938**).
-22. **Desh Nayak = Gandhi’s title for Bose** → **Tagore**; Gandhi = **Patriot of Patriots**.
-23. **INA founded by Bose in 1943 only** → first INA **Mohan Singh, 1942**; Bose rebuilds from **July 1943**.
-24. **Wavell was a Cabinet Mission member** → Mission = **Pethick-Lawrence, Cripps, Alexander**.
-25. **Azad was in the Interim Cabinet** → he was **not**; Nehru headed the Interim team.
-26. **Patel led INA defence at Red Fort** → lead counsel **Bhulabhai Desai**.
-27. **Indian Independence Act = 3 June 1947** → Plan **3 June**; Act royal assent **18 July**; freedom **15 August**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Cripps 1942 | Cabinet Mission 1946 | Wartime dominion offer vs transfer plan with grouping | क्रिप्स / कैबिनेट मिशन |
+| Wavell Plan | Mountbatten Plan | 1945 interim executive vs 1947 partition + transfer | वेवेल / माउंटबेटन |
+| Simla 1945 | Cabinet Mission 1946 | Wavell Plan conference vs three-minister plan | शिमला / कैबिनेट मिशन |
+| Forward Bloc | CSP | Bose 1939 left-nationalist vs socialists inside Congress 1934 | फॉरवर्ड ब्लॉक / सीएसपी |
+| INA | Quit India | Armed abroad under Bose vs mass struggle inside India 1942 | आजाद हिंद फौज / भारत छोड़ो |
+| Azad Hind Fauj | Azad Hind Government | Army vs provisional government 21 Oct 1943 | फौज / सरकार |
+| August Offer | Cripps | Aug 1940 Linlithgow vs Mar 1942 Cripps | अगस्त प्रस्ताव / क्रिप्स |
+| C.R. Formula | C.R. Das | Rajagopalachari 1944 vs Swaraj Party Das (dead 1925) | सी.आर. फॉर्मूला |
+| 3 June Plan | Independence Act | Mountbatten framework vs statute 18 July 1947 | 3 जून योजना / अधिनियम |
+| Interim announce | Interim form | **24 Aug 1946** vs **2 Sep 1946** | घोषणा / गठन |
+| Shanti Ghosh | Aruna Asaf Ali | 1931 Bengal revolutionary vs Quit India 1942 | शांति घोष / अरुणा |
+| Congress ministries 1937 | Congress ministries resign 1939 | Formed after provincial elections vs quit over WWII without consultation | कांग्रेस मंत्रिमंडल गठन / त्यागपत्र |
+| RIN Revolt Feb 1946 | Quit India Aug 1942 | Ratings' mutiny, Bombay/Karachi vs Congress mass movement | नौसेना विद्रोह / भारत छोड़ो |
+| Direct Action Day 1946 | Partition Aug 1947 | League's call for mass action vs the final territorial split | डायरेक्ट एक्शन / विभाजन |
 
 
 ---

@@ -54,42 +54,35 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Hydaspes = Beas** → Jhelum = fight; Beas = **stop**.
-2. **Alexander beat the Nandas / sat at Pataliputra** → never crossed the Beas.
-3. **Ambhi fought at Hydaspes as the enemy** → **ally**; enemy = **Porus**.
-4. **Porus was killed** → restored as satrap.
-5. **Aristotle / Megasthenes / Chanakya / Deimachus in the Macedonian column** → no (Deimachus = Bindusara envoy).
-6. **Megasthenes = Alexander’s admiral** → admiral = **Nearchus**; Megasthenes = **Seleucus’s envoy**.
-7. **Seleucus conquered Magadha** → he **ceded** NW tracts, took **500 elephants**.
-8. **Kushans before Sakas** (2023 B) → **Greeks → Sakas → Kushans**.
-9. **Nagarjuna wrote Milinda Panha** → **Nagasena**.
-10. **Menander = Alexander’s general** → 2nd c. BCE Indo-Greek.
-11. **Besnagar pillar = Pushyamitra’s ashwamedha site** → Besnagar is **Heliodorus**; Pushyamitra’s ashwamedha tradition is tied to **Ayodhya** in that stem.
-12. **Kanishka = Indo-Greek** → **Kushan** (Purushapura, era 78 CE).
-13. **Alexander died at Taxila in 326** → **Babylon, 323**.
-14. **First foreigners in the NW = Alexander** → **Achaemenids** (Darius).
-15. **Indo-Greek coins = punch-marked karshapana** → die-struck portraits, Greek + Kharoshthi.
-16. **Sangala = Sagala** → Kathaioi town Alexander stormed ≠ Menander’s Sialkot.
-17. **Kalanos = Dandamis** → one went, one refused.
-18. **Indo-Greeks introduced Gupta gold dinaras** → portrait silver; **gold = Kushan** headline.
-19. **Shaka era = 57 BCE** → **78 CE**; 57 BCE = **Vikrama**.
-20. **Yavana raid on Pataliputra = Alexander 326** → later Indo-Greek / *Yuga Purana* memory.
-21. **Maues = Kushan** → **Shaka** first at Taxila.
-22. **Rudradaman = Indo-Greek** → **Shaka** mahakshatrapa; Junagadh Sanskrit.
-23. **Nahapana = Kardamaka** → **Kshaharata**; beaten by Gautamiputra.
-24. **Gondophares = Shaka** → **Parthian**; Takht-i-Bahi fact.
-25. **Fourth Buddhist Council = Ashoka** → **Kanishka**, Kashmir / Vasumitra.
-26. **Hathigumpha = Kanishka** (2018 option) → **Kharavela**.
-27. **Purushapura = Sagala** → Peshawar Kushan vs Sialkot Indo-Greek.
-28. **Massaga women = Kathaioi / Sangala** → Assakenoi capital **Massaga**.
-29. **Alexander success = good administrator** → not a standard cause; use no central power + army + traitors.
-30. **Kushan kings wore dhoti like Ashoka’s pillar figures** → Mat / coin portraits show **coat, trousers, boots**.
-31. **Chola Nataraja = Kanishka’s Mathura sculpture** → Nataraja is later Tamil bronze; Kushan Mathura = early Shiva linga / Buddha / royal portraits.
-32. **Gandhara = red sandstone of Mathura** → Gandhara = **schist** / Greco-Roman NW; Mathura = **red sandstone** UP.
-33. **Demetrius = Menander** → Demetrius = early push; Menander = greatest / Milinda.
-34. **Vima = founder of Kushans** → founder = **Kujula**; Vima = **gold** headline.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Hydaspes | Hyphasis | **Jhelum** — battle vs Porus vs **Beas** — mutiny / turn-back | झेलम / ब्यास |
+| Ambhi | Porus | Taxila **ally** vs Paurava **enemy-then-satrap** | अंभि / पोरस |
+| Alexander | Seleucus | 326 campaign vs **~305** war/treaty with Chandragupta | सिकंदर / सेल्यूकस |
+| Seleucus | Indo-Greeks | Syrian-Bactrian successor of Alexander vs **Bactrian Greeks inside India** later | सेल्यूकस / इंडो-ग्रीक |
+| Menander | Nagasena | King **Milinda** vs monk of *Milinda Panha* | मेनांडर / नागसेन |
+| Menander | Nagarjuna | Indo-Greek king vs Madhyamaka philosopher | मेनांडर / नागार्जुन |
+| Aristotle | Aristobulus | Tutor, **never in India** vs engineer-historian **on the march** | अरस्तू / अरिस्टोबुलस |
+| Megasthenes | Nearchus | Seleucid **envoy after 303** vs Alexander’s **admiral** | मेगस्थनीज / नियार्कस |
+| Greeks | Sakas | Hellenistic (2nd c. BCE) vs Scythians **after** them (2023) | यूनानी / शक |
+| Indo-Greek | Kushan | Menander / Sagala vs **Kanishka**, Purushapura, era **78 CE** | इंडो-ग्रीक / कुषाण |
+| Bucephala | Nicaea | City for the horse vs victory-city after Hydaspes | बुसेफला / नीकेया |
+| Kalanos | Dandamis | Gymnosophist who *went* with Alexander vs the one who **refused** | कलानोस / दंडामिस |
+| Sagala | Sangala | Menander’s **Sialkot** vs Kathaioi town Alexander **stormed** | सागल / संगला |
+| Vikrama 57 BCE | Shaka 78 CE | Traditional Vikramaditya vs **Kanishka-era** count | विक्रम / शक |
+| Agathocles | Menander | Early Brahmi/Vaishnava coin types vs Milinda / Athena types | अगाथोक्लीज / मेनांडर |
+| Maues | Gondophares | **Shaka** Indo-Scythian first at Taxila vs **Parthian** Pahlava at Takht-i-Bahi | माउस / गोंडोफेरिस |
+| Nahapana | Rudradaman | Kshaharata, beaten by Gautamiputra vs Kardamaka, Junagadh Sanskrit | नहपान / रुद्रदामन |
+| Kujula Kadphises | Vima Kadphises | Kushan **founder/unifier** vs **gold** coin headline | कुजुल / विम |
+| Purushapura | Sagala | Kushan **Peshawar** capital vs Indo-Greek **Sialkot** | पुरुषपुर / सागल |
+| Hathigumpha | Junagadh | Kharavela’s Kalinga cave vs Rudradaman’s Shaka rock | हाथीगुफा / जूनागढ़ |
+| Gondophares | Kanishka | Brief **Parthian** NW vs **Kushan** empire peak | गोंडोफेरिस / कनिष्क |
+| Demetrius I | Menander | First big Indo-Greek **push** vs greatest Indo-Greek / **Milinda** | डेमेट्रियस / मेनांडर |
+| Kujula | Kanishka | Founder / unifier vs imperial **climax** + era **78 CE** | कुजुल / कनिष्क |
+| Gandhara art | Mathura art | NW **schist**, Greco-Roman vs UP **red sandstone**, indigenous | गांधार / मथुरा |
+| Kushan dress | Mauryan dhoti look | Coat + **trousers** + boots vs Indian lower-garment royal memory | कुषाण वेश / धोती |
+| Early Mathura Shiva | Chola Nataraja | Linga / mukhalinga / Oesho under Kushan vs later Tamil **bronze dancer** | मथुरा शिव / चोल नटराज |
+| Booted Surya | Barefoot South Surya | North Indian **udichya-vesa** (Shaka–Kushan) vs southern bare legs | सूर्य जूते / दक्षिणी सूर्य |
 
 
 ---

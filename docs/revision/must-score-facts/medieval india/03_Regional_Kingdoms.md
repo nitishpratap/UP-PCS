@@ -54,29 +54,20 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Tin Darwaza–Ahmedabad is wrong.** Tin Darwaza is at **Bidar**, while Ahmedabad has **Teen Darwaza**.
-2. **Lal Darwaza–Jaunpur is correct.** Do not mark this pair wrong in NOT-matched lists.
-3. **Riyaz-us-Salatin is not Riyaz-ul-Insha.** The first is a history of **Bengal**; the second is **Gawan's letters**.
-4. **Kitab-i-Nauras is not Amuktamalyada.** Ibrahim Adil Shah II wrote the former; Krishnadevaraya wrote the latter.
-5. **Krishnadevaraya was not the founder of Vijayanagara.Harihara I and Bukka I** founded the empire.
-6. **Talikota is not Raichur.** Talikota (1565) was a defeat; Raichur (1520) was Krishnadevaraya's victory.
-7. **Rama Raya died at Talikota.** Krishnadevaraya had already died in **1529**.
-8. **Mahmud Gawan was not the Bahmani founder.Hasan Gangu** founded the Bahmani Kingdom.
-9. **Bijapur is not Bidar.** They are different Deccan centres, and **Gol Gumbaz** stands at Bijapur.
-10. **Bahlul Lodi annexed Jaunpur in 1484**, not Sikandar Lodi.
-11. **Gol Gumbaz is at Bijapur**, not at Hampi or Bidar.
-12. The **nayankara system belongs to Vijayanagara**, not to the Bahmani taraf system.
-13. **Jaunpur is in UP.** It is the only Topic-3 capital inside Uttar Pradesh.
-14. There were **five Deccan Sultanates**, not Jaunpur, because the Sharqi state had already been annexed.
-15. **Abul Hasan Qutb Shah** was the last Golkonda ruler when the Mughals captured it in **1687**.
-
-12. **Jaunpur city** was founded by **Firuz** for **Jauna Khan (MbT)**; the **Sharqi state** was founded by **Malik Sarwar (Khwaja-i-Jahan)**. Last Sharqi = **Hussain Shah**.
-13. **Siraj/Shiraz-i-Hind** = Jaunpur under **Ibrahim Shah**; education/culture explains the title.
-14. **Yusuf Adil Shah ≠ Ahmadnagar**; **Jagatguru / Kitab-i-Nauras / Nauraspur** = **Ibrahim Adil Shah II** of Bijapur.
-15. **Gol Gumbad** = **Muhammad Adil Shah** (Bijapur). **Bahadur Shah** of Gujarat gave **Diu** to the Portuguese.
-16. **Malik Sarwar ≠ Malwa**. **Zain-ul-Abidin (Bud Shah)** abolished **jaziya** and banned **cow slaughter** in Kashmir.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Firuz city (Jaunpur) | Sharqi state (Jaunpur) | City named for **Jauna Khan**; independent state by **Malik Sarwar** | फ़िरोज़ नगर / शर्की राज्य |
+| Yusuf Adil Shah | Malik Ahmad | **Bijapur** founder vs **Ahmadnagar** founder | यूसुफ आदिल / मलिक अहमद |
+| Sharqi architecture | Delhi Sultanate architecture | Jaunpur massive gateways/arches vs Delhi arch-dome-minaret idiom | शर्की स्थापत्य / सल्तनत स्थापत्य |
+| Zain-ul-Abidin | Sikandar Shah (Kashmir) | Bud Shah abolished jaziya vs temple destruction phase | ज़ैन-उल-आबिदीन / सिकंदर शाह |
+| Vijayanagara Empire | Bahmani Kingdom | Hindu south empire vs first major Deccan Muslim kingdom | विजयनगर / बहमनी |
+| Krishnadevaraya | Rama Raya | Tuluva peak (1509–29) vs regent killed Talikota 1565 | कृष्णदेवराय / राम राय |
+| Gulbarga & Bidar | Bijapur | Bahmani capitals (Gulbarga early, Bidar later) vs **Adil Shahi** centre | गुलबर्गा-बीदर / बीजापुर |
+| Riyaz-us-Salatin | Riyaz-ul-Insha | **Bengal** history vs **Gawan's letters** | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
+| Tin Darwaza (Bidar) | Teen Darwaza (Ahmedabad) | **Bidar Fort** gate vs **Ahmedabad** monumental triple gateway | तीन दरवाज़ा (बीदर) / तीन दरवाज़ा (अहमदाबाद) |
+| Battle of Talikota (1565) | Battle of Raichur (1520) | 1565 defeat vs 1520 Krishnadevaraya victory | तालीकोटा (1565) / रायचूर (1520) |
+| Kitab-i-Nauras | Amuktamalyada | Ibrahim Adil Shah II (Bijapur) vs Krishnadevaraya (Telugu) | किताब-ए-नौरस / अमुक्तमाल्यद |
+| Nayankara system | Iqta system | Vijayanagara nayaka military land grants vs Delhi Sultanate muqti | नायककारा / इक्ता |
 
 
 ---

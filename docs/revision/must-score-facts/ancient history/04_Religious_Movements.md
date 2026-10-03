@@ -54,33 +54,30 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **First council at Vaishali** → **Rajagriha**; Vaishali = 2nd (2025).
-2. **Kundalvana before Pataliputra** → Kundalvana is **4th**.
-3. **Nagarjuna wrote Milinda Panha** → **Nagasena** (2023).
-4. **Rahulovada = Ashoka’s Dhamma definition** → **false** (2024).
-5. **Barabar = Buddhist Ajanta** → Barabar = **Ajivika**, Mauryan.
-6. **Aryaka pillars at Bodh Gaya** → **Ghantasala** (2022).
-7. **Vasupujya = Sammed Shikhar** → **Champapuri** (2021).
-8. **Mahavira symbol = serpent** → **lion**; serpent = **Parshva**.
-9. **All 24 nirvana at Sammed Shikhar** → only **20**; four exceptions.
-10. **Chaitya = vihara** → hall vs monastery.
-11. **Buddhism accepts atman** → **anatta**.
-12. **Charvaka = Ajivika** → perception-only vs **niyati**.
-13. **Charaka Samhita = Lokayata** → Ayurveda.
-14. **Ellora 16 = Buddhist** → **Shaiva** Kailasa.
-15. **Lumbini in UP** → **Nepal**; UP = Sarnath + Kushinagar (+ Shravasti, Sankisa, Kaushambi).
-16. **Mahavira founded Jainism / was 1st tirthankara** → 24th; first = **Rishabha**.
-17. **Vallabhi = 2nd Buddhist council** → Jain **Svetambara** canon; Buddhist 2nd = **Vaishali**.
-18. **Digambara: Mahavira married Yashoda** → that is **Svetambara**; Digambara: never married.
-19. **Anekantavada = Buddhist Middle Path** → Jain many-sided real; Middle Path = Buddha.
-20. **Tattvartha Sutra = Digambara-only** → **both** sects (Umasvati).
-21. **Hinayana = Theravada only** → Theravada is the **only surviving** Hinayana school; Sarvastivada and Mahasanghika were separate early lines.
-22. **Mahasanghika = Mahayana** → Vaishali **early split** vs later **great vehicle**.
-23. **Vaibhashika / Sautrantika = separate vehicles** → both are **Sarvastivada subschools**.
-24. **Vajrayana at Buddha's time** → **7th–8th century CE** tantric offshoot of Mahayana.
-25. **All bodhisattvas in one comma line** → learn **Avalokiteshvara, Manjushri, Vajrapani, Maitreya, Tara** as separate facts.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Shramana | Brahmana | Renouncer, often **nastika** vs Vedic priestly orthodoxy | श्रमण / ब्राह्मण |
+| Nastika | Astika | Reject Veda (Buddha, Jina, Ajivika, Charvaka) vs accept Veda | नास्तिक / आस्तिक |
+| Four Noble Truths | Eightfold Path | Diagnosis of dukkha vs the **Magga** prescription | चार आर्य सत्य / अष्टांग मार्ग |
+| Hinayana | Mahayana | **Arhat**, Pali, self-liberation vs **bodhisattva**, Sanskrit | हीनयान / महायान |
+| Mahayana | Vajrayana | Sutra / emptiness vs **tantra**, mantra, Tibet | महायान / वज्रयान |
+| Sthaviravada | Mahasanghika | Vaishali **elders** vs **great assembly** split | स्थविर / महासंघ |
+| Theravada | Sarvastivada | **Pali** south-Asian line vs **Sanskrit** north line (4th Council) | थेरवाद / सर्वास्तिवाद |
+| Mahasanghika | Mahayana | Vaishali **early split** school vs later **great vehicle** | महासंघ / महायान |
+| Vaibhashika | Sautrantika | Sarvastivada **Abhidharma** orthodox vs **sutra-only** | वैभाषिक / सौत्रान्तिक |
+| Nagarjuna | Nagasena | **Madhyamaka** philosopher vs **Milinda Panha** monk | नागार्जुन / नागसेन |
+| Vinaya | Sutta | Monk **rules** vs Buddha’s **discourses** | विनय / सुत्त |
+| Chaitya | Vihara | Prayer hall vs monastery | चैत्य / विहार |
+| Barabar | Ajanta | Mauryan, **Ajivika** gift vs later **Buddhist** painted caves | बराबर / अजंता |
+| Digambara | Svetambara | Sky-clad; women no moksha as women vs white-clad; women can | दिगंबर / श्वेतांबर |
+| Mahavira | Parshvanatha | 24th, **5** vows, **lion**, Pavapuri vs 23rd, **4** vows, **serpent** | महावीर / पार्श्वनाथ |
+| Pavapuri | Sammed Shikhar | **Mahavira** only vs **20** tirthankaras (not Vasupujya) | पावापुरी / सम्मेद शिखर |
+| Charvaka | Ajivika | Materialist, pratyaksha-only vs **fatalist niyati** | चार्वाक / आजीविक |
+| Shaivism | Vaishnavism | Shiva / linga vs Vishnu / avatars | शैव / वैष्णव |
+| Bhagavatism | Vaishnavism | Early **Vasudeva-Krishna** cult vs later full Vishnu tradition | भागवत / वैष्णव |
+| Anekantavada | Syadvada | Many-sided **reality** vs seven-fold **predication** (“syat”) | अनेकान्तवाद / स्याद्वाद |
+| Anatta | Jiva | Buddhism: **no** permanent soul vs Jainism: **real** soul | अनात्मा / जीव |
+| Pataliputra (Jain) | Vallabhi | Early Magadhan compilation / Sthulabhadra vs **final Svetambara canon** | पाटलिपुत्र / वल्लभी |
 
 
 ---

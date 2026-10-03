@@ -54,38 +54,20 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Do or Die = Bose** → **Gandhi, 8 Aug 1942**.
-2. **Inquilab = Bose / Tilak** → **Hasrat coined; Bhagat popularised**.
-3. **First woman INC President = Sarojini** → **Besant 1917**; Sarojini = first **Indian** woman **1925**.
-4. **Gandhi President = Lahore** → **Belgaum 1924 only**.
-5. **2022 Kesari = Gorakhpur** → that slot is **Swadesh**. Kesari = **Pune**.
-6. **Lucknow 1857 = Liyaqat Ali** → **Hazrat Mahal**. Liyaqat = **Allahabad**.
-7. **Hunter 1882 = Jallianwala** → 1882 = **education**; Punjab inquiry = **1919**.
-8. **INA trials = Gwalior / Agra** → **Red Fort**.
-9. **Shanti Ghosh = QI** → **1931** Bengal; QI women = Aruna, Matangini, Kanaklata.
-10. **Abhinav Bharat = Bhagat Singh** → **Savarkar**.
-11. **Vande Mataram = anthem** → **song**. Anthem = **Jana Gana Mana**.
-12. **Salbai = 1765** → **1782**. 1765 = **Allahabad**.
-13. **Young India = Tilak** → **Gandhi**. Tilak = **Kesari / Mahratta**.
-14. **Tilak was Congress President** → **never**.
-15. **Rani Jhansi Regiment = 1857** → **INA**, Lakshmi Sehgal.
-16. **Karachi 1931 = Nehru President** → **Patel**; Nehru = Lahore 1929.
-17. **Faizpur = first English President** → first **village** session; first English = **Yule 1888**.
-18. **GOI 1935 started dyarchy in provinces** → dyarchy provinces = **1919**; 1935 = **autonomy**.
-19. **Jhalkari Bai = Rani Lakshmibai** → she was a **separate** Dalit soldier who resembled the Rani; not the same person.
-20. **Cabinet Mission = solo envoy** → that is **Cripps Mission, 1942**. Cabinet Mission (1946) had **three** members.
-21. **Chandernagore = part of Pondicherry UT** → Chandernagore merged into **West Bengal (1954)**; Pondicherry group is a separate UT.
-22. **Bismil and Ashfaqullah born in different towns** → both born in **Shahjahanpur**, UP.
-23. **Sea of Calamity = Bihar / Madras 1866–67** → that nickname is **Odisha (Orissa) famine 1866–67**.
-24. **Famine Codes = Hunter Commission** → Codes follow **Strachey (1880)**; Hunter **1882** is education.
-25. **Jai Jawan Jai Kisan = Nehru / Devi Lal** → **Lal Bahadur Shastri**.
-26. **Great Sentinel = Bose’s title for Tagore** → **Gandhi** called Tagore the Great Sentinel.
-27. **Operation Vijay always = Goa** → Goa **1961** and Kargil **1999** both used the name; check the year.
-28. **Simla Pact 1972 = Wavell Simla 1945** → **1972** Indira–Bhutto; **1945** is Wavell Conference.
-29. **First woman PM = Indira Gandhi** → world’s first is **Sirimavo Bandaranaike** (Sri Lanka).
-30. **Whitley = constitutional reforms** → **labour** conditions commission (**1929**).
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Do or Die | Give me blood | Gandhi QI vs Bose INA | करो या मरो / खून दो |
+| Inquilab | Swaraj birthright | Hasrat/Bhagat vs Tilak | इंकलाब / स्वराज |
+| Besant 1917 | Sarojini 1925 | First woman INC President vs first **Indian** woman | एनी / सरोजिनी |
+| Kesari (Pune) | Swadesh (Gorakhpur) | Tilak vs 2022 UP place-match | केसरी / स्वदेश |
+| Hunter 1882 | Hunter 1919 | Education vs Jallianwala inquiry | हंटर शिक्षा / हंटर पंजाब |
+| Belgaum 1924 | Lahore 1929 | Only Gandhi President vs Purna Swaraj | बेलगाव / लाहौर |
+| Shanti Ghosh | Aruna Asaf Ali | 1931 Bengal revolutionary vs QI 1942 | शांति / अरुणा |
+| Liyaqat Ali | Hazrat Mahal | Allahabad 1857 vs Lucknow 1857 | लियाकत / हजरत महल |
+| Red Fort | Gwalior Fort | INA trials vs **not** the INA court | लाल किला |
+| Rani Lakshmibai | Jhalkari Bai | The Rani herself vs the Dalit soldier who resembled her in battle | लक्ष्मीबाई / झलकारी बाई |
+| Cripps Mission 1942 | Cabinet Mission 1946 | Solo envoy, failed vs three-member mission with a grouping plan | क्रिप्स / कैबिनेट मिशन |
+| Nehru Report 1928 | Simon Commission 1927 | Indian response vs all-white British body | नेहरू रिपोर्ट / साइमन |
 
 
 ---

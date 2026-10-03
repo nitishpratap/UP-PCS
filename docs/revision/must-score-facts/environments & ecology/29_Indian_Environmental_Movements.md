@@ -39,18 +39,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Appiko = Uttarakhand/UP | **Karnataka** |
-| Chipko = Karnataka | **Uttarakhand 1973** |
-| Silent Valley = Tamil Nadu | **Kerala** |
-| Bishnoi = 1973 Chipko | **1730 Rajasthan** |
-| Medha Patkar = Chipko | **Narmada Bachao** |
-| Appiko = Save W Ghats | **1983 vs 2011+** |
-| NBA = Biodiversity Authority | Context: movement = Narmada |
-| Jungle Bachao = Garhwal | **Singhbhum Jharkhand** |
-| Gaura Devi = Appiko | **Chipko Reni** |
-| Hegde = Chipko | **Appiko** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Bishnoi Movement (1730)** | **Chipko Movement (1973)** | Amrita Devi / Khejri tree sacrifice in Khejarli, Rajasthan vs Gaura Devi / Sunderlal Bahuguna anti-commercial logging in Chamoli (Uttarakhand) | बिश्नोई आंदोलन (1730) / चिपको आंदोलन (1973) |
+| **Chipko Movement (1973)** | **Appiko Movement (1983)** | Himalayan forest conservation in Chamoli (Bahuguna/Chandi Prasad Bhatt) vs Western Ghats forest hugging in Uttara Kannada, Karnataka (Pandurang Hegde) | चिपको (उत्तराखंड) / अप्पिको (कर्नाटक) |
+| **Silent Valley Movement (1970s)** | **Narmada Bachao Andolan (1985+)** | Kunthipuzha river anti-hydro dam protecting lion-tailed macaque in Kerala vs anti-large dam displacement on Narmada (Medha Patkar, Baba Amte) | साइलेंट वैली (केरल) / नर्मदा बचाओ आंदोलन |
+| **Jungle Bachao Andolan (1982)** | **Chipko Movement (1973)** | Singhbhum (Jharkhand) tribals opposing replacement of natural sal with commercial teak ("Greed Game Political Populism") vs tree-hugging in UP hills | जंगल बचाओ (सिंहभूम) / चिपको आंदोलन |
+| **Appiko Movement (1983)** | **Silent Valley (1970s)** | Forest conservation by tree embrace in Karnataka vs grassroots campaign stopping hydro-electric project in Kerala rainforest | अप्पिको (कर्नाटक) / शांत घाटी (केरल) |
+| **Tehri Dam Protest** | **Narmada Bachao Andolan** | High-seismic zone anti-dam fast by Sunderlal Bahuguna on Bhagirathi vs multi-state anti-submergence movement across MP/Gujarat/Maharashtra | टिहरी बांध विरोध / नर्मदा बचाओ |
+| **Gadgil Commission (2011)** | **Kasturirangan Committee (2013)** | WGEEP designated entire Western Ghats as ecologically sensitive (ESZ 1, 2, 3) vs HLWG recommending only 37% area as Eco-Sensitive Area (ESA) | गाडगिल समिति / कस्तूरीरंगन समिति |
 
 
 ---

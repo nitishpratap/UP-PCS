@@ -54,18 +54,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Northern Australia temperate | **Tropical** |
-| Gobi in Russia/Kazakhstan as main | **Mongolia + China** |
-| Masai = West Africa | **East Africa** |
-| Selva false / Terra Roxa false | **Both TRUE** |
-| Engler = Planting Hearth | **Sauer = Hearth; Engler = Floral** |
-| Puszta = Argentina | **Hungary** (Pampas = Argentina) |
-| Permafrost in savanna | **Taiga + Tundra** |
-| Mangrove purely terrestrial | **Transitional coastal** |
-| India has 14 biogeographic zones | **10 zones** |
-| Hotspot = richness alone | **Endemism + habitat loss** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Biome** | **Ecosystem** | Continental-scale geographical region characterized by distinct climate regimes, soil types, and climax vegetation communities (e.g. Tundra, Taiga, Savanna) vs localized structural and functional ecological unit where living organisms interact with abiotic components (e.g. a pond, forest patch) | जीवोम (बायोम, महाद्वीपीय स्तर) / पारिस्थितिकी तंत्र (स्थानीय कार्यात्मक इकाई) |
+| **Taiga (Boreal Forest)** | **Tundra** | World's largest terrestrial biome dominated by evergreen needleleaf coniferous trees (Spruce, Fir, Pine, Larch) in subarctic latitudes south of the tree-line vs cold, treeless arctic and alpine biome dominated by mosses, lichens, dwarf shrubs, underlain by permafrost | टैगा (बोरियल शंकुधारी वन) / टुंड्रा (वृक्षविहीन शीत मरुस्थल) |
+| **Savanna** | **Steppe / Prairie** | Tropical grassland biome characterized by continuous tall grass cover interspersed with scattered, drought-deciduous drought-resistant trees (e.g. Acacia, Baobab) vs temperate mid-latitude semi-arid grassland biome with treeless expanses of short to tall grasses | सवाना (उष्णकटिबंधीय सवृक्ष घास मैदान) / स्टेपी/प्रेयरी (शीतोष्ण घास मैदान) |
+| **Selva** | **Puszta** | Dense equatorial tropical rainforest biome of the Amazon River basin characterized by evergreen multi-tiered canopy and extreme biodiversity vs temperate flat grassland plain of the Pannonian Basin in Hungary characterized by continental climate and fertile chernozem soils | सेल्वा (अमेज़न वर्षावन) / पुस्ज़टा (हंगरी शीतोष्ण घास मैदान) |
+| **Permafrost** | **Mollisols (Chernozem)** | Subsurface ground (soil, sediment, or rock) that remains continuously frozen below 0°C for at least two consecutive years, trapping massive ancient methane and organic carbon deposits vs deep, dark, humus-rich organic soils characteristic of temperate grasslands with highest agricultural fertility | स्थायी हिम मृदा (पर्माफ्रॉस्ट) / चेर्नोज़म (काली उपजाऊ घास मृदा) |
+| **Biodiversity Hotspot** | **Ecological Island** | Large biogeographic region meeting Norman Myers' criteria (≥1,500 endemic plant species and ≥70% primary habitat lost) vs isolated terrestrial habitat surrounded by completely different ecosystems or human urbanization functioning like an oceanic island | जैव विविधता हॉटस्पॉट (ह्रासग्रस्त समृद्ध क्षेत्र) / पारिस्थितिक द्वीप (पृथक वास) |
 
 
 ---

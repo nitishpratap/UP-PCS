@@ -54,19 +54,18 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-- **Rakhigarhi = Haryana**, never UP. Largest ≠ easternmost.
-- **Alamgirpur = eastern** edge. **Manda = northern** (J&K).
-- **Mandi and Hulas = Uttar Pradesh. Padri = Gujarat. Balu = Haryana.
-- **Sahni = Harappa 1921. Banerji = Mohenjo-daro 1922**. Do not swap.
-- **Wheeler ≠ first IVC excavator**. He is the 1946 grid.
-- **C-14 ≠ stone/metal**. Organic only.
-- **Vertical ≠ horizontal**. Time vs plan.
-- **Bhimbetka = Wakankar + MP**, not Harappan, not UP.
-- **Lothal = dock. Dholavira = water**. Both Gujarat.
-- **Sanauli ≠ Alamgirpur**. Chariot 2018, Baghpat.
-- **Mohenjo-daro is in Pakistan**. Boat models = Mohenjo-daro **and** Lothal.
-- Lion Capital find = **Oertel 1904–05**, not Cunningham’s 1835 survey.
-- 2026 Rakhigarhi DNA at **Lucknow lab** does not move the site into UP.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Archaeology | History | Material remains and excavation vs written narrative | पुरातत्व / इतिहास |
+| Stratigraphy | Typology | Layer age vs artefact-style comparison | स्तरिकी / प्रकारिकी |
+| Vertical excavation | Horizontal excavation | Time sequence vs one-period layout | ऊर्ध्वाधर / क्षैतिज |
+| C-14 | Thermoluminescence | Organic carbon vs fired clay/brick | कार्बन-14 / ताप-संदीप्ति |
+| Sahni 1921 | Banerji 1922 | **Harappa** vs **Mohenjo-daro** | साहनी / बनर्जी |
+| Marshall | Wheeler | Announces IVC / mass dig vs **1946** scientific grid | मार्शल / व्हीलर |
+| Rakhigarhi | Alamgirpur | **Haryana**, largest vs **Meerut UP**, easternmost | राखीगढ़ी / आलमगीरपुर |
+| Lothal | Dholavira | Dockyard vs reservoirs and signboard (both Gujarat) | लोथल / धोलावीरा |
+| In-situ | Ex-situ | Conserve on the mound vs shift to a museum | स्थान पर / स्थानांतरित |
+| Bhimbetka | Harappa | Prehistoric rock shelter, **MP** vs IVC city | भीमबेटका / हड़प्पा |
 
 
 ---

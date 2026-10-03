@@ -54,41 +54,34 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. First successful Muslim invader = Arab **Muhammad bin Qasim (712, Sindh / Dahir / Chachnama / Arod)** — not Mahmud or Ghori.
-2. **Mahmud of Ghazni raided and withdrew**; **Muhammad Ghori conquered and stayed**. That is the Ghaznavid vs Ghurid difference.
-3. **Firdausi** wrote **Shahnama** (Mahmud’s court); **Firishta** wrote **Tarikh-i-Firishta** for Bijapur — never swap.
-4. Ghori’s **first defeat in India** = **Naika Devi / Mularaja II near Mount Abu (1178)** — not First Tarain (**1191**, Prithviraj win).
-5. **Second Tarain (1192)** founded lasting Turkish power; **Chandawar (1194)** killed **Jayachandra** at **Firozabad / Yamuna**.
-6. **Ghori** coins show **Lakshmi + Kalma**; **Mahmud** issued bilingual **Arabic–Sanskrit** silver.
-7. **Bakhtiyar Khalji** took Bihar–Bengal (**Odantapuri, Nalanda, Vikramshila, Nadia, Lakhnauti**) — not Aibak.
-8. The Delhi Sultanate begins in **1206** when Aibak took the title of Sultan, not in **1192** when Ghori won Tarain.
-9. **Iltutmish** was the real consolidator of the Sultanate, not Aibak.
-10. **Hamida Banu Begum** was **Humayun's** wife, not Alauddin Khalji's.
-11. **Tughlaqnama** was written by **Ziauddin Barani**, not Ibn Battuta.
-12. **Iqta revenue** went to the Muqti first and was **not deposited directly** in the Sultan's treasury. First Ghori-era iqta charge in India goes to **Aibak (Kuhram–Samana)**.
-13. **Jagirs** were assigned noble land; **Khalsa** was direct crown land.
-14. Balban's centralisation against the nobles is **not fully explained** by Mongol frontier policy alone.
-15. Alauddin's conquest order is **Gujarat → Ranthambor → Chittor → Warangal**.
-16. **Qutub Minar** was built by **Aibak/Iltutmish**; **Alai Darwaza** was built by **Alauddin**.
-17. **Sikandar Lodi** made **Agra** important; **Ibrahim Lodi** was the last Sultan at Panipat.
-18. **Chakla** is a Sultanate unit between Subah and Pargana; it is **not the Mughal Sarkar**.
-19. **Jarib** is a **measuring rope**, not a tax.
-20. **Khareetadar** despatched royal decrees; **Barid** was the spy.
-21. **First Panipat (1526)** is Babur vs Ibrahim Lodi; **Second Panipat (1556)** is Akbar vs Hemu.
-22. **Vidyadhar** is the Chandela who resisted Mahmud (**1019–20**); Somnath raid under **Bhimdev I**, who rebuilt the temple.
-
-23. **Aibak** never took the title **Sultan** (**Malik/Sipahsalar** only); capital **Lahore**; death by **Chaugan**.
-24. **Iltutmish** = Delhi capital, **tanka/jital**, Caliph **khilat 1229**, refused **Mingburni**; rivals ≠ **Altunia**.
-25. **Balban** = **Blood and Iron**, **Zil-i-Ilahi**, **Nawruz**, **Diwan-i-Arz** — he did **not** invent **iqta**.
-26. **Malik Kafur** = **Hazar-Dinari**; Deccan = plunder not full annexation; **Mubarak** alone declared himself **Khalifa**.
-27. After **1306**, Mongol–Sultanate line keyed on the **Ravi**; **Ghari/Charai** and **PDS** are Alauddin facts.
-
-28. **Ghazi Malik** founded the **Tughlaq** line; longest dynasty span = **Tughlaq**; **Timur 1398** under **Nasiruddin Mahmud**.
-29. **Token currency / Daulatabad / Amir-i-Kohi / Holi** = **Muhammad bin Tughlaq**; **Rihla** = Ibn Battuta (Morocco), not Tughlaqnama.
-30. **Firoz** = canals + **Haqq-i-Sharb**, **Diwan-i-Khairat/Bandagan**, **Dar-ul-Shafa**, Haj from treasury, Ashoka pillars (**Topra/Meerut**), Nagarkot translator **Azizuddin Khan** (not Mulla Abdul Baqi).
-31. **Sikandar Lodi** = **Agra (1504)**, **Gulrukhi**, **Gaj-i-Sikandari**, abolished grain zakat; **Ibrahim** = **Khatoli 1518** + **Panipat 1526**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Arabs | Turks | **Qasim 712** Sindh foothold vs Ghazni/Ghori north India | अरब / तुर्क |
+| Ghaznavid | Ghurid | Mahmud raided; Ghori conquered and stayed | गज़नवी / गौर |
+| Firdausi | Firishta | **Shahnama** (Mahmud’s court) vs **Tarikh-i-Firishta** (Bijapur) | फिरदौसी / फरिश्ता |
+| Tarain I | II | **1191** Prithviraj wins; **1192** Ghori wins | तराइन प्रथम / द्वितीय |
+| Naika Devi | Prithviraj | Ghori’s **first India defeat (1178 Abu)** vs Tarain **1191** win | नायका देवी / पृथ्वीराज |
+| Tarain | Chandawar vs Panipat | 1192 Prithviraj; **1194** Jaichand (**Firozabad/Yamuna**); **1526** Ibrahim Lodi | तराइन / चंदावर / पानीपत |
+| Vidyadhar | other Chandelas | Only Chandela who **resisted Mahmud** (**1019–20**) | विद्याधर |
+| Mamluk | Khalji | Turkish slave rulers **1206–1290** vs Turko-Afghan **1290+** | मामलूक / खिलजी |
+| Aibak Lahore | Iltutmish Delhi | Aibak capital **Lahore**; Iltutmish first lasting **Delhi** capital | लाहौर / दिल्ली |
+| Firuz | Ghiyasuddin on Qutub | **Firuz** repaired 4th/added 5th; **Ghiyasuddin Tughlaq** did not build it | कुतुब मीनार |
+| Yalduz/Qabacha | Altunia | Iltutmish rivals vs Razia’s **Bhatinda** rebel | अल्तुनिया |
+| Devgiri | Warangal rulers | **Ramachandra** (Devgiri) vs **Prataparudra** (Warangal) | देवगिरि / वारंगल |
+| Hazar-Dinari | Zafar Khan | **Malik Kafur** vs Mongol-martyr general | हजार दिनारी |
+| Iqta | Khalsa | Assigned revenue to **Muqti** (not direct Sultan deposit) vs **crown** land; **Iltutmish** institutionalised Iqta; **Siyasatnama** = Muqti source | इक्ता / खालसा |
+| Khalsa | Jagir (2025) | Direct Sultan land vs assigned noble land | खालसा / जागीर |
+| Dagh | Chehra | Horse branding vs soldier descriptive roll (Alauddin) | दाग / चेहरा |
+| Sijda | Paibos | Prostration vs kissing feet (Balban rituals) | सिजदा / पैबोस |
+| Barani | Ibn Battuta | Sultanate historian vs Moroccan traveller (**Rihla**) | बरनी / इब्न बतूता |
+| Qutub Minar | Alai Darwaza | Aibak/Iltutmish minar vs **Alauddin** gateway **1311** | क़ुतुब / अलाई दरवाज़ा |
+| Muhammad bin Tughlaq | Firoz Shah | Experiments (Daulatabad, token, Amir-i-Kohi) vs canals, welfare, hereditary iqta | मुहम्मद बिन तुग़लक / फ़िरोज़ शाह |
+| Amir-i-Kohi | Shahna-i-Mandi | Agriculture dept (Muhammad) vs market control (Alauddin) | आमिर-ए-कोही / शहना-ए-मंडी |
+| Haqq-i-Sharb | Ghari/Charai | Firoz irrigation tax vs Alauddin house/grazing taxes | हक़-ए-शर्ब |
+| Gulrukhi | Lakh Baksh | Sikandar Lodi’s pen-name vs Aibak’s generosity title | गुलरुखी |
+| Token Currency (Bronze/Copper) | Tanka & Jital (Silver & Copper standard) | **Muhammad bin Tughlaq (1329–30)** — UPPCS 2008 fact | टोकन मुद्रा |
+| Sikandar Lodi | Ibrahim | **Agra** builder vs **Panipat 1526** last Sultan | सिकंदर / इब्राहिम |
+| chakla | Sarkar | Between Subah and Pargana vs **Mughal** term trap | चकला / सरकार |
 
 
 ---

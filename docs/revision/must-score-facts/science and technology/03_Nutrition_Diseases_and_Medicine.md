@@ -54,22 +54,12 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-
-1. **Kwashiorkor vs marasmus**: Kwashiorkor = protein lack with **oedema**; marasmus = protein-energy lack with **no oedema** and extreme wasting.
-2. **Fat-soluble vitamins**: **A, D, E, K** only — B and C are water-soluble (B12 is stored in liver anyway).
-3. **Night blindness**: Vitamin **A** deficiency — not Vitamin D.
-4. **Rickets vs scurvy**: Rickets/osteomalacia = **D**; scurvy = **C**.
-5. **Beriberi vs pellagra**: Beriberi = **B1**; pellagra = **B3** (4 Ds).
-6. **Minamata vs Itai-Itai**: Minamata = **methyl mercury**; Itai-Itai = **cadmium**.
-7. **Blue baby syndrome**: Excess **nitrates** in water → methemoglobin — not fluoride.
-8. **Malaria vector**: Female *Anopheles* — dengue/chikungunya use *Aedes*.
-9. **Typhoid test**: **Widal** test — not Mantoux (Mantoux is TB).
-10. **Diabetes mellitus vs insipidus**: Mellitus = insulin/glucose; insipidus = **ADH** / water balance.
-11. **Vaccine platforms**: Covaxin = inactivated; Covishield = adenovirus vector; Moderna/Pfizer = **mRNA**.
-12. **Vitamin B12**: Contains **cobalt**; absent in ordinary plant foods.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2024–25** | WHO documented recurring **Nipah virus** cases in Kerala, localized to **Malappuram and Palakkad** districts. | Nipah virus is a zoonotic Henipavirus transmitted by fruit bats (genus ***Pteropus***); causes fatal acute encephalitis; **not** mosquito-borne. |
+| **2025** | Global malaria eradication push: WHO prequalified the second malaria vaccine **R21/Matrix-M** (developed by University of Oxford & Serum Institute of India). | Follows RTS,S/AS01 (Mosquirix); both target the circumsporozoite protein of *Plasmodium falciparum*. |
+| **Still Current** | **Sickle Cell Anaemia Elimination Mission** launched by Prime Minister from Shahdol, Madhya Pradesh, targeting elimination by **2047**. | Focuses on tribal populations; point mutation on chromosome 11 substituting Glutamic acid with Valine ($GAG \rightarrow GUG$). |
+| **COVID Platform Facts** | Diverse COVID-19 vaccine platforms: **Covaxin** = Inactivated whole virus; **Covishield** = Non-replicating chimpanzee adenovirus vector; **Moderna / Pfizer** = mRNA nanoparticle; **Corbevax** = Protein subunit; **ZyCoV-D** = Plasmid DNA (world's first needle-free DNA vaccine, Zydus Cadila). | Frequently tested matching pair in state PSCs (UPPCS 2022 tested Sinovac = inactivated whole virus). |
 
 
 ---

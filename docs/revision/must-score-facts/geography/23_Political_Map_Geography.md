@@ -54,80 +54,58 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **EEZ = 12 nm** — FALSE. Territorial **12**; EEZ **200**.
-2. **McMahon = Pakistan** — FALSE. **China**.
-3. **Durand = India–China** — FALSE. **Pak–Afghan**.
-4. **Longest coast = AP / Kerala** — FALSE among 2018 options. **Gujarat**.
-5. **Longest land border = China** — FALSE. **Bangladesh**.
-6. **Sri Lanka = land neighbour** — FALSE. **Maritime**.
-7. **Suez = Atlantic** — FALSE. **Med + Red Sea**.
-8. **Panama = Med–Red** — FALSE. Atlantic–Pacific.
-9. **Kiel = Suez cousin on Med** — FALSE. North Sea–Baltic.
-10. **Hormuz = Malacca** — FALSE. Hormuz = Gulf oil mouth.
-11. **Nobi/Kanto = Korea** — FALSE. **Japan**.
-12. **Igarka = China** — FALSE. **Russia**.
-13. **Bolivia has a Pacific coast in that 2022 four** — FALSE. **Landlocked**.
-14. **"Vegetation is true index of climate" = Köppen** — FALSE. **Thornthwaite** for that quote; Köppen = letter-code classes.
-15. **Mediterranean = rain all year** — FALSE. **Winter** rain. All-year = **W Europe Cfb**.
-16. **Turkmenistan = Dushanbe** — FALSE. **Ashgabat**. Dushanbe = Tajikistan.
-17. **Yangon = Myanmar capital** — FALSE. **Naypyidaw**.
-18. **Cape Verde = Bamako** — FALSE. **Praia**. Bamako = Mali.
-19. **India = 6th largest / wholly tropical** — FALSE. **7th**; Tropic through middle; north is extra-tropical. **UP is not on the Tropic**.
-20. **Uzbekistan has a sea** — FALSE. It is **double landlocked**.
-21. **Kazakhstan has an ocean coast** — FALSE. Largest landlocked by area; Caspian ≠ ocean access.
-22. **Lesotho = double landlocked Asia** — FALSE. Enclave in South Africa.
-23. **49th Parallel = USA–Mexico** — FALSE. USA–Canada stretch.
-24. **Skip non-PYQ atlas pairs** — FALSE. Next year can ask any Lucent capital, strait, or line.
-
-25. **Horn includes Sudan** — FALSE. Horn = Djibouti, Eritrea, Ethiopia, Somalia.
-26. **Slovenia = Bratislava** — FALSE. Ljubljana. Bratislava = Slovakia.
-27. **Ghana = Dutch Guiana** — FALSE. Gold Coast → Ghana; Dutch Guiana → Suriname.
-28. **Great Britain includes Northern Ireland** — FALSE. That makes the **United Kingdom**.
-29. **Greenland = independent continent / only Europe** — FALSE. Largest island; Denmark politically; N America geographically.
-30. **Armenia / Iraq on Caspian** — FALSE. Caspian five exclude both.
-31. **Indonesia = Oceania** — FALSE. SE Asia.
-32. **Longest world coast = Australia / Brazil** — FALSE. **Canada**.
-33. **Baikonur = Ukraine** — FALSE. **Kazakhstan**.
-34. **Durand = Bangladesh–India** — FALSE. Pak–Afghan. Bangladesh–India = Radcliffe.
-
-35. **Norway = Rising Sun** — FALSE. Rising Sun = **Japan**. Norway = **Midnight Sun**.
-36. **Japan = Morning Calm** — FALSE. Morning Calm = **Korea**.
-37. **Bird Continent = Australia** — FALSE. **South America**.
-38. **Mistress of Eastern Sea = India** — FALSE. **Sri Lanka**.
-39. **Manchester of the East = Tokyo** — FALSE. **Osaka**.
-40. **Pearl of Siberia = Great Bear** — FALSE. **Baikal**.
-41. **Venice of the North = Moscow** — FALSE. **St. Petersburg**.
-42. **City of Smoke = London** — FALSE in that GC key. **Chicago**.
-43. **Ninety East Ridge = Pacific** — FALSE. **Indian Ocean**.
-
-
-### 🗺️ World Political & Geopolitical Essentials (Ghatnachakra Complete)
-- **European Union (EU)**: Headquarters in **Brussels, Belgium**; established under Maastricht Treaty (1993); currently 27 member states.
-- **International Maritime Organization (IMO)**: UN specialized agency; Headquarters in **London, United Kingdom**.
-- **Food and Agriculture Organization (FAO)**: UN specialized agency; Headquarters in **Rome, Italy** (NOT New York).
-- **SAARC (South Asian Association for Regional Cooperation)**: Secretariat located in **Kathmandu, Nepal**; founded in Dhaka (Dec 1985); 8 member nations.
-- **Organization of Turkic States**: Established 2009; founding members: Azerbaijan, Kazakhstan, Kyrgyzstan, Turkiye; Uzbekistan joined as full member in 2019 at Baku.
-- **ASEAN Status**: India has the status of **"Dialogue Partner"** in ASEAN (while Vietnam, Cambodia, Singapore, etc. are full members).
-- **Look East Policy**: Initiated in **1991 by PM P.V. Narasimha Rao**; aimed to cultivate extensive strategic, economic, and cultural partnerships with Southeast Asia.
-- **Southeast Asia Geostrategy**: Pivot region between the Pacific and Indian Oceans with pre-eminent maritime character (Spykman's Rimland theory).
-- **Kailash Mansarovar**: Located in **Chinese Tibet**; Indian pilgrims require a visa to visit.
-- **Distance Units**: **Terrestrial Mile (1,609 metres / 1,760 yards) < Nautical Mile (1,852 metres)**.
-- **Harmattan Wind**: Dry and dusty north-easterly trade wind blowing from Sahara across West Africa into Gulf of Guinea ("The Doctor").
-- **Iberian Peninsula**: Comprises Spain, Portugal, Andorra, and Gibraltar (Greece & Albania are Balkan, NOT Iberian).
-- **Denisovan**: Extinct archaic human species discovered in Denisova Cave (Altai mountains, Siberia) and Baishiya Karst Cave (Tibetan Plateau, Xiahe, Gansu, China).
-- **Kyrgyzstan**: Name derived from 'Kyrk' meaning **forty** ("Country of 40 tribes", celebrated in the epic of Manas).
-- **Venice**: Known as **'Queen of the Adriatic Sea'** ('La Dominante', City of Canals, City of Bridges).
-- **Dendrochronology**: Method of dating and determining tree age by counting annual growth rings on trunk cross-section.
-- **Largest Number of Post Offices**: **India** has the world's largest postal network (>1.59 lakh post offices).
-- **Tallest Flyer Bird**: **Crane** (Ostrich is tallest bird overall but flightless).
-- **Cape Canaveral / Cape Kennedy**: Major US satellite and space launch centre located on coast of **Florida, USA**.
-- **RADARSAT-1**: Canadian satellite that created the first complete high-resolution map of Antarctica (1997).
-- **Copacabana Beach**: Famous 4 km balneario beach in **Rio de Janeiro, Brazil**.
-- **Highest Ground-based Observatory**: Indian Astronomical Observatory at **Hanle** (Ladakh, 4,500 m) & University of Tokyo Atacama Observatory (Chile, 5,640 m).
-- **Christmas in Australia**: Celebrated during **Summer** (Southern Hemisphere tilt).
-- **Great Leap Forward (1958–1962)**: Chinese campaign leading to rural disruption and severe nationwide famine.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Territorial vs EEZ | **12 nm** vs **200 nm** | Swapped | क्षेत्रीय जल / EEZ |
+| Contiguous | **24 nm** | 12 or 200 | सन्निहित |
+| Shelf vs EEZ | Shelf may go to **350 nm**; EEZ stops **200** | Shelf = 12 | महाद्वीपीय मग्नतट |
+| McMahon | **India–China** (Arunachal) | Pakistan / Nepal / Myanmar | मैकमोहन |
+| Durand | **Pakistan–Afghanistan** | India–China | डूरंड |
+| Radcliffe | **1947** India–Pak / Bangladesh | McMahon | रैडक्लिफ |
+| Longest coast | **Gujarat** | AP / MH / Kerala | गुजरात |
+| Longest land border | **Bangladesh** | China / Pakistan | बांग्लादेश |
+| Shortest land border | **Afghanistan** | Bhutan | अफ़ग़ानिस्तान |
+| Suez waters | **Med + Red Sea** | Atlantic | स्वेज |
+| Panama | Atlantic ↔ Pacific | Med–Red | पनामा |
+| Kiel | North Sea ↔ Baltic | Med | कील |
+| Hormuz | Persian Gulf ↔ Gulf of Oman | Malacca | होरमुज़ |
+| Gibraltar | Med ↔ Atlantic | Bosporus | जिब्राल्टर |
+| Bosporus | Black Sea ↔ Marmara | Gibraltar | बोस्फोरस |
+| Mistral / Köppen Cs | Med **winter rain** | Rain all year (that is Cfb W Europe) | भूमध्य |
+| Koppen vs Thornthwaite | **Thornthwaite** = "vegetation is true index of climate" | Köppen letter codes | थॉर्नथ्वेट / कोपेन |
+| Bolivia | **Landlocked** | Uruguay / Peru / Suriname | बोलीविया |
+| Nobi / Kanto | **Japan** | Korea / China | जापान |
+| Igarka | **Russia** | China | इगारका |
+| Cape Verde capital | **Praia** | Bamako (Mali) | प्राइया |
+| India area rank | **7th** largest; **2.4%** of world | 6th; wholly tropical | भारत क्षेत्र |
+| Tropic of Cancer / UP | Passes 8 states — **not UP** | UP on the Tropic | कर्क रेखा |
+| Double landlocked | **Uzbekistan**, Liechtenstein | Nepal / Bolivia as “double” | दोहरा स्थलरुद्ध |
+| Kazakhstan | Largest **landlocked by area** | Has ocean coast | कज़ाखस्तान |
+| Lesotho | **Enclave** inside South Africa | Coastal SA dump | लेसोथो |
+| 49th Parallel | **USA–Canada** (long stretch) | USA–Mexico | 49वीं |
+| 38th Parallel | **North–South Korea** | India–China | 38वीं |
+| Horn of Africa | Djibouti, Eritrea, Ethiopia, Somalia | Includes Sudan | हॉर्न ऑफ अफ्रीका |
+| Slovenia capital | **Ljubljana** | Bratislava (Slovakia) | ल्युब्लियाना |
+| Gold Coast | Old name of **Ghana** | Dutch Guiana / Suriname | गोल्ड कोस्ट |
+| Great Britain vs UK | GB = England+Wales+Scotland | Includes Northern Ireland | ग्रेट ब्रिटेन |
+| Greenland | Denmark politically; N America geographically | Independent continent | ग्रीनलैंड |
+| Caspian littoral | Five states; not Armenia/Iraq | Armenia on Caspian | कैस्पियन |
+| Oceania | Melanesia/Micronesia/Polynesia + Australia | Indonesia included | ओशिआनिया |
+| Laos | Only SE Asia **landlocked** | Cambodia / Thailand | लाओस |
+| Rio Grande | **USA–Mexico** | USA–Canada | रियो ग्रांडे |
+| Baikonur | **Kazakhstan** | Ukraine | बैकोनुर |
+| Midnight Sun vs Rising Sun | Midnight Sun = **Norway** (Arctic); Rising Sun = **Japan** | Swapped | मध्यरात्रि सूर्य / उगता सूर्य |
+| Morning Calm vs Rising Sun | Morning Calm = **Korea**; Rising Sun = Japan | Korea = Japan | सुबह की शांति |
+| Thousand Lakes | **Finland** | Switzerland / Netherlands | हज़ार झीलें |
+| Bird Continent | **South America** | Australia | पक्षी महाद्वीप |
+| Mistress of Eastern Sea | **Sri Lanka** | India / Myanmar | पूर्वी सागर की स्वामिनी |
+| Manchester of the East | **Osaka** | Tokyo / Nagoya | पूर्व का मैनचेस्टर |
+| Pearl of Siberia | **Baikal** | Great Bear | साइबेरिया का मोती |
+| Venice of the North | **St. Petersburg** (usual Russia key) | Moscow / Vladivostok | उत्तर का वेनिस |
+| City of Smoke | **Chicago** | London / Kolkata | धुएँ का शहर |
+| Oil Capital of Europe | **Aberdeen** | Liverpool / Belfast | यूरोप की तेल राजधानी |
+| Land of Promise | **Mindanao** | Java / Cuba | वादा द्वीप |
+| Ninety East Ridge | **Indian Ocean** | Pacific / Atlantic | नाइंटी ईस्ट रिज |
 
 
 ---

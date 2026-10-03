@@ -54,32 +54,33 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Wheat/rice/maize = plantation** — FALSE. **Tea**.
-2. **Vietnam #1 coffee 2016** — FALSE. **Brazil**, then Vietnam.
-3. **Latvia = cocoa** — FALSE. **Côte d’Ivoire / Ghana / Cameroon**.
-4. **Kinta Valley = rubber** — FALSE. **Tin**.
-5. **Gujarat = tea / Assam = wheat / UP = jute** — FALSE. **Kerala = rubber**.
-6. **Jhum = tea estate** — FALSE. **Shifting subsistence**.
-7. **Ladang = Mexico** — FALSE. **Malaysia**. Milpa = Mexico.
-8. **Citrus = equatorial** — FALSE. **Mediterranean**.
-9. **Philippines cane = Dutch** — FALSE. **Spanish and Americans**.
-10. **Rubber originated in Kerala** — FALSE. **Amazon**; Kerala is India’s producer.
-11. **Cocoa originated in West Africa** — FALSE. **Amazon**; Africa is production.
-12. **Colombia first in 2016 coffee four** — FALSE. **Third**.
-13. **Oil palm = Latvia** — FALSE. **Indonesia + Malaysia**.
-14. **Shifting = intensive Ganga rice** — FALSE.
-15. **Brazil lost all coffee** — FALSE. Still the 2016 **#1**.
-16. **China = rice/wheat export king** — FALSE. Volume **producer**; exporters often others.
-17. **Borlaug Nobel = Agriculture** — FALSE. **Peace**.
-18. **Green tea = fermented** — FALSE. **Black** is fermented.
-19. **India = banana export king because it produces most** — FALSE. **Ecuador** ships; India eats.
-20. **Ranching = nomadic herding** — FALSE. Ranching is **commercial**.
-21. **Von Thünen = Whittlesey** — FALSE. Rings vs world-type map.
-22. **India = dairy export king because milk volume #1** — FALSE. Volume ≠ NZ/Netherlands export story.
-23. **Soy = only Asian crop belt** — FALSE. USA–Brazil–Argentina triangle.
-24. **Skip systems because papers asked tea/coffee** — FALSE. Next year can ask any Lucent system or crop belt.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Plantation vs food grain | Tea (also coffee, rubber, cocoa, cane, oil palm, banana) | Wheat / rice / maize as “plantation” | बागान |
+| Producer vs exporter (rice/wheat) | China often **#1 volume**; **not** the classic exporter | China = wheat/rice export king | उत्पादक / निर्यातक |
+| Brazil vs Vietnam coffee | Brazil **#1**; Vietnam **#2** (2016 paper) | Vietnam first | ब्राज़ील / वियतनाम |
+| Arabica vs Robusta | Brazil/Colombia highland = arabica; Vietnam = robusta bulk | Swapped | अरेबिका / रोबस्टा |
+| Cocoa vs coffee Africa | Cocoa = **Côte d’Ivoire + Ghana**; coffee East Africa too (Ethiopia/Uganda) | Latvia as cocoa | कोकोआ |
+| Kerala vs Assam | Rubber **Kerala**; tea volume **Assam** | Assam rubber / Gujarat tea | केरल / असम |
+| Kinta Valley | **Tin** (Malaysia) | Rubber / tea / coffee | किंटा घाटी |
+| Amazon origin vs SE Asia crop | Rubber **and** cocoa **originated** in Amazon; bulk crop now elsewhere | “Origin = Malaysia / Ghana” | अमेज़न |
+| Jhum vs plantation | Jhum = shifting subsistence | Jhum = tea estate | झूम |
+| Ladang vs milpa | Ladang = **Malaysia**; milpa = **Mexico** | Swapped | लदांग / मिल्पा |
+| Roca vs chena | Roca = **Brazil**; chena = **Sri Lanka** | Swapped | रोका / चेना |
+| Cane vs beet | Cane = tropics (**Brazil**); beet = **Europe** | Beet in Kerala | गन्ना / चुकंदर |
+| Citrus belt | **Mediterranean** | Equatorial / Himalayan valleys as *world* fact | नींबू वर्गीय |
+| Oil palm vs rubber | Oil palm volume = **Indonesia + Malaysia** | Oil palm = Kerala only | तेल ताड़ |
+| Black tea vs green tea | Black = **fermented**; green = **not** | Swapped | काली / हरी चाय |
+| Philippines cane | **Spanish and Americans** | Dutch (Indonesia) / British | फिलीपींस |
+| Intensive vs extensive | Intensive = small + labour + monsoon rice; extensive = huge + machines + Prairie wheat | Swapped | सघन / विस्तृत |
+| Producer vs exporter (coffee/tea) | Brazil coffee #1 volume; Kenya often tea **exporter** story | Same word | |
+| Soybean triangle | **USA–Brazil–Argentina** | Only India | सोया |
+| Milk volume vs dairy export | India = milk **volume**; NZ/Netherlands = **export** dairy | India = cheese ship king | दूध |
+| Golden Crescent | AFG–Iran–Pakistan | Includes Iraq | गोल्डन क्रिसेंट |
+| Fazenda vs Chena | Brazil plantation vs Sri Lanka shifting | Fazenda = jhum | फाजेंडा |
+| Mocha vs Kona | Yemen vs Hawaii | Swapped | मोचा / कोना |
+| Olericulture | Vegetables | Call it horticulture-only | शाककृषि |
+| Von Thünen vs Whittlesey | Thünen = **distance rings** from market; Whittlesey = **world type map** | Same theory | |
 
 
 ---

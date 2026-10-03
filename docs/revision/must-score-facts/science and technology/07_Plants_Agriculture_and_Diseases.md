@@ -54,20 +54,12 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-
-1. **Photosynthesis site**: Light reaction in **thylakoid**; Calvin cycle in **stroma**.
-2. **C3 vs C4**: Maize/sugarcane are C4; wheat/rice are typically C3 — photorespiration is high in C3.
-3. **Xylem vs phloem**: Xylem = water/minerals upward; phloem = food translocation.
-4. **Nitrogen fixation**: Root nodules of legumes with *Rhizobium* — not ordinary free soil N2 use by wheat.
-5. **Transpiration pull**: Main ascent of sap in tall trees — capillarity alone is not enough.
-6. **Plant disease examples**: Rust of wheat is fungal; citrus canker is bacterial; tobacco mosaic is viral — do not swap.
-7. **Growth regulators**: Auxin → apical dominance/rooting; gibberellin → stem elongation; cytokinin → cell division; ethylene → ripening; ABA → stress/dormancy.
-8. **Hydroponics**: Soil-less mineral solution culture — soil microbes are not required by definition.
-9. **Chlorophyll centre**: Magnesium is central in chlorophyll — not iron (iron is for haemoglobin analogy trap).
-10. **Photoperiodism**: Flowering depends on day/night length — short-day and long-day plants differ.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **10 February** | **World Pulses Day** observed annually on **10 February** by the UN FAO. | Pulses belong to **Fabaceae (Pea family)**; host symbiotic *Rhizobium* in root nodules to fix atmospheric nitrogen and enrich soil. |
+| **Discovery** | ***Musa indandamanensis*** discovered in Little Andaman Island by BSI scientists. | Wild banana attaining **11 metres height** with unique green flowers and orange-coloured fruit pulp thrice the size of regular banana species. |
+| **Still Current** | FSSAI ban on **Calcium Carbide ($\mathbf{CaC_2}$)** for artificial fruit ripening; promotes safe ripening using **Ethylene gas ($\mathbf{C_2H_4}$)**. | Calcium carbide reacts with moisture to release hazardous **Acetylene gas ($\mathbf{C_2H_2}$)** contaminated with carcinogenic arsenic and phosphorus hydride. |
+| **Still Current** | **Irish Potato Famine (1845)**: Historical cornerstone of plant pathology caused by **Late Blight of Potato (***Phytophthora infestans***)**, which destroyed Ireland's staple potato crop, leading to mass starvation. |
 
 
 ---

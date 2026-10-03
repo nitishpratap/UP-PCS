@@ -47,28 +47,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Valmiki / Sultanpur in UP | **Bihar / Haryana** |
-| Dudhwa = Pilibhit district | **Lakhimpur Kheri** |
-| First Marine NP = Sundarbans | **Gulf of Kutch** |
-| World first NP = Corbett | **Yellowstone 1872** |
-| Simlipal = MP | **Odisha** |
-| Keoladeo = UP | **Rajasthan** |
-| Samaspur / Sarsai Nawar not in UP | **Both are in UP** |
-| Gahirmatha = Marine NP | **Marine sanctuary** |
-| UP has UNESCO natural WH | **None** |
-| Hangul = Gir | **Dachigam** |
-| NP boundary needs Parliament | **State Legislature** |
-| Corbett river = Ganga | **Ramganga + Kosi** |
-| Silent Valley river = Kaveri | **Kunthipuzha** |
-| Ghana = lion | **Birds** (Keoladeo) |
-| Pin Valley = J&K | **Himachal (Lahaul–Spiti)** |
-| Eravikulam = Hoolock | **Nilgiri Tahr** |
-| Periyar = Hangul | **Elephant / tiger** |
-| Desert NP = no people | Habitation **exists**; GIB yes |
-| Nagarhole = Andhra | **Karnataka** (Rajiv Gandhi NP) |
-| Bandipur = Tamil Nadu | **Karnataka** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **National Park (NP)** | **Wildlife Sanctuary (WLS)** | WPA Sec 35; highest protection, no human settlement/grazing, boundaries altered only by State Legislature on NBWL advice vs WPA Sec 18; regulated grazing/traditional rights allowed | राष्ट्रीय उद्यान (NP) / वन्यजीव अभयारण्य (WLS) |
+| **Community Reserve** | **Conservation Reserve** | Established on private or community-owned lands under WPA Sec 36C vs established on government-owned contiguous lands under WPA Sec 36A | सामुदायिक रिज़र्व / संरक्षण रिज़र्व |
+| **First Marine NP** | **First National Park in India** | **Gulf of Kutch Marine NP** (1982, Gujarat) vs **Hailey / Jim Corbett NP** (1936, Uttarakhand) | प्रथम समुद्री उद्यान (कच्छ की खाड़ी) / प्रथम राष्ट्रीय उद्यान (कॉर्बेट 1936) |
+| **Dudhwa National Park** | **Valmiki National Park** | Only National Park in **Uttar Pradesh** (Lakhimpur Kheri) vs only National Park in **Bihar** (West Champaran) | दुधवा राष्ट्रीय उद्यान (यूपी) / वाल्मीकि राष्ट्रीय उद्यान (बिहार) |
+| **Keibul Lamjao NP** | **Khangchendzonga NP** | World's only floating park on Loktak Lake, Manipur (Sangai deer) vs India's only Mixed World Heritage Site in Sikkim | केइबुल लामजाओ (मणिपुर) / कंचनजंगा (सिक्किम) |
+| **Hemis National Park** | **South Button Island NP** | India's largest National Park (Ladakh, snow leopard) vs India's smallest National Park (Andaman & Nicobar, 0.03 km²) | हेमिस (लद्दाख, सबसे बड़ा) / साउथ बटन (अंडमान, सबसे छोटा) |
+| **Biosphere Reserve Core** | **National Park** | Untouched strictly protected sanctuary within UNESCO MAB zoning vs statutory strictly protected area under Wildlife Protection Act, 1972 | बायोस्फीयर कोर क्षेत्र / राष्ट्रीय उद्यान |
 
 
 ---

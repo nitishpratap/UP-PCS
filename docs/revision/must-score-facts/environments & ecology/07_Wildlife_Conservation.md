@@ -54,27 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-| Trap | Correct fact |
-|------|----------------|
-| WPA enacted in 1973 | **1972** — Project Tiger = 1973 |
-| World Wildlife Day = 22 March | **3 March**; Wildlife Week = **2–8 October** |
-| Operation Olivia nesting in August | **Nov–Feb** |
-| Elephant Reserve under WPA | **No** — executive only; covers wild **and captive** |
-| All rhinos in Assam | Also **WB and Dudhwa UP** |
-| Asiatic lion in UP | **Gir, Gujarat only** |
-| Schedule VI = absolute ban | Cultivation needs a **licence** |
-| Schedule I tortoise ≠ tiger level | **Same** maximum protection band |
-| Spider monkey in India | **Central/South America** only |
-| Kharai cannot be domesticated | **Can** be domesticated; swims + mangrove graze |
-| AWBI under EPA 1986 | Under **PCA 1960** (est. 1962) |
-| WWF logo = tiger | **Giant Panda** |
-| Best gharial site = Pulicat | **Chambal** |
-| Tiger Summit 2010 = Delhi | **Saint Petersburg** |
-| Snow leopard in Terai/Gir | **High Himalaya only** |
-| Crocodile project = gharial only | **3 species** |
-| Diclofenac ban = human medicine ban | **Veterinary** use caused crisis |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Wildlife Conservation** | **Wildlife Protection** | Holistic scientific management and preservation of species, populations, and habitats to prevent extinction vs legal punitive enforcement and regulatory prohibition of hunting/poaching under Wildlife Protection Act 1972 | वन्यजीव संरक्षण (वैज्ञानिक प्रबंधन) / वन्यजीव सुरक्षा (कानूनी प्रवर्तन) |
+| **Umbrella Species** | **Flagship Species** | Ecologically wide-ranging species whose expansive habitat protection indirectly shelters the broader biological community (e.g. Tiger, Rhino) vs popular charismatic animal used as an emotional figurehead in conservation marketing (e.g. Giant Panda, Snow Leopard) | छत्र प्रजाति / प्रतीक प्रजाति |
+| **Keystone Species** | **Indicator Species** | Species whose functional role exerts disproportionate control on community structure (loss causes trophic cascade; e.g. Fig tree, Sea Otter) vs species whose physiological response or presence directly indicates environmental conditions (e.g. Lichen, Frogs) | मुख्य आधार (कीस्टोन) प्रजाति / जैव संकेतक प्रजाति |
+| **Project Tiger (1973)** | **Project Elephant (1992)** | Centrally Sponsored Scheme given statutory backing in 2006 under WPA creating the National Tiger Conservation Authority (NTCA) vs Centrally Sponsored Scheme operating through administrative guidelines without statutory authority | प्रोजेक्ट टाइगर (1973, सांविधिक) / प्रोजेक्ट एलिफेंट (1992, गैर-सांविधिक) |
+| **Diclofenac** | **Meloxicam** | Non-steroidal anti-inflammatory drug (NSAID) administered to cattle causing lethal visceral gout and acute renal failure in Gyps vultures (banned in 2006) vs safe, vulture-tested veterinary NSAID recommended as its non-toxic replacement | डाइक्लोफेनाक (गिद्ध नाशक) / मेलोक्सिकैम (सुरक्षित विकल्प) |
+| **Wildlife Protection Act 1972** | **Biological Diversity Act 2002** | Focuses on species protection, hunting bans, protected area network, and trade schedules (MoEFCC/WCCB) vs focuses on sovereign rights over biological resources, fair & equitable benefit sharing (ABS), and traditional knowledge protection (NBA/SBB/BMC) | वन्यजीव संरक्षण अधिनियम 1972 / जैव विविधता अधिनियम 2002 |
+| **Central Zoo Authority (CZA)** | **National Board for Wildlife (NBWL)** | Statutory body under WPA Sec 38A overseeing standards, recognition, and animal exchanges in Indian zoos vs apex advisory body chaired by the Prime Minister framing national wildlife policies and approving PA boundary alterations | केंद्रीय चिड़ियाघर प्राधिकरण / राष्ट्रीय वन्यजीव बोर्ड (NBWL) |
 
 
 ---

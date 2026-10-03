@@ -54,24 +54,23 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **Nautanki** belongs to **UP** (Kanpur and Lucknow). Tamasha belongs to Maharashtra. Jatra belongs to Bengal.
-2. **Yakshagana** belongs to **Karnataka**, not Kerala.
-3. **Koodiyattam** is **Sanskrit theatre**, not Kathakali and not SNA dance no. 9.
-4. Kalidasa (कालिदास) dramas are **three**. *Uttararamacharita* (उत्तररामचरित) is by **Bhavabhuti** (भवभूति).
-5. *Mrichchhakatika* (मृच्छकटिकम्) is by **Shudraka** (शूद्रक). *Mudrarakshasa* (मुद्राराक्षस) is by **Vishakhadatta** (विशाखदत्त). *Sariputraprakarana* (शारिपुत्रप्रकरण) is by **Ashvaghosha** (अश्वघोष).
-6. *Shringara Shataka* (शृंगार शतक) is not by Kalidasa (**Bhartrihari** (भर्तृहरि)).
-7. **Kathputli** is **Rajasthan string**, not Lucknow. **Kundhei** is **Odisha string**.
-8. **Gulabo-Sitabo** is **Lucknow glove**, not Kathputli.
-9. In shadow puppetry, Tholu belongs to AP. Ravana Chhaya belongs to Odisha. Tolpavakoothu belongs to Kerala.
-10. Yavanika is the curtain. Nepathya is backstage.
-11. IPTA is **1943**. NSD is **1959**. SNA is **1952**.
-12. Ramlila is UNESCO folk **theatre**, not a classical dance. **Ramman** belongs to **Uttarakhand**, not UP.
-13. Koothambalam is the Kerala temple stage, not NSD Delhi.
-14. Khayal singing is not Khyal, the Rajasthan folk play.
-15. In Swang, men play women. In Tamasha, women may play men.
-16. **Indra Sabha** is by Amanat, Lucknow, not Kalidasa.
-17. Sitabenga is the amphitheatre (CG). Jogimara next door is the painting fact.
-18. Learn all ten rupakas. Do not stop at Nataka/Prakarana only.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Nataka | Prakarana | Mythic heroic play vs invented social plot | नाटक / प्रकरण |
+| Natya | Nritta | Drama-story vs pure dance | नाट्य / नृत्त |
+| Nautanki | Tamasha | **UP** folk opera vs Maharashtra + lavani | नौटंकी / तमाशा |
+| Ramlila (Braj) | Koodiyattam | Hindi Ramayana folk vs Kerala Sanskrit temple | रामलीला / कूड़ियाट्टम् |
+| Koodiyattam | Kathakali | Sanskrit theatre vs Kerala dance-drama makeup | कूड़ियाट्टम् / कथकली |
+| Yavanika | Nepathya | Curtain vs backstage | यवनिका / नेपथ्य |
+| Kathputli | Shadow puppet | Rajasthan string marionette vs leather silhouette | कठपुतली / छाया |
+| Kalidasa | Bhavabhuti | Shakuntala trio vs **Uttararamacharita** | कालिदास / भवभूति |
+| Rasa | Bhava | Spectator flavour vs actor’s emotion | रस / भाव |
+| String | Glove | Kathputli threads vs Gulabo-Sitabo hand-puppets | सूत्र / दस्ताना |
+| Yakshagana | Koodiyattam | Karnataka Kannada dance-drama vs Kerala Sanskrit temple theatre | यक्षगान / कूड़ियाट्टम् |
+| Ramman | Ramlila | Uttarakhand masked ritual vs UP Ramayana folk play | रम्माण / रामलीला |
+| Mudiyettu | Kathakali | Kerala ritual theatre vs Kerala dance-drama | मुडियेट्टु / कथकली |
+| Tholu Bommalata | Ravana Chhaya | Andhra coloured leather vs Odisha dark deer-skin shadow | तोलू बोम्मलता / रावण छाया |
+| Bidesiya | Nautanki | Bhojpuri migrant play vs UP folk opera | बिदेसिया / नौटंकी |
 
 
 ---

@@ -381,7 +381,7 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     const ansMatch4 = detailsContent.match(/(?:Ans|Answer|Option)[^\w\n\r]*\(?\s*([A-D])\b/i);
     const ansMatch5 = detailsContent.match(/\*\*Ans:\*\*\s*\*\*([A-D])\b/i);
     const ansMatch6 = detailsContent.match(/(?:\*\*|\b)(?:Ans|Answer|Correct Answer|Option)[^\w\n\r]*\(?\s*([A-D])\b/i);
-    const ansMatch7 = detailsContent.match(/(?:^|\n)\s*\*\*([A-D])\*\*/i);
+    const ansMatch7 = detailsContent.match(/(?:^|\n)\s*\*\*([A-D])\.?\*\*/i);
 
     if (ansMatch1) {
       const letters = ansMatch1[1].match(/[A-D]/gi);

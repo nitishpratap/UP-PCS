@@ -54,20 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-
-1. **Prokaryote vs eukaryote nucleus**: Bacteria have **no true nucleus**; DNA lies in the nucleoid. Do not mark a nuclear membrane for prokaryotes.
-2. **Ribosome numbers**: Prokaryotes = **70S**; eukaryotes = **80S** (mitochondria/chloroplasts still have 70S — that is the endosymbiont trap).
-3. **Mitochondria vs chloroplast DNA**: Both have circular DNA and 70S ribosomes; only **chloroplasts** do photosynthesis.
-4. **Mitosis stage for counting chromosomes**: **Metaphase** is best for morphology and count; **Anaphase** is best for chromosome shape (V, L, J, I).
-5. **DNA vs RNA sugar**: DNA has **deoxyribose**; RNA has **ribose**. Thymine is in DNA; uracil replaces it in RNA.
-6. **Transcription vs translation**: Transcription makes **RNA** in the nucleus (eukaryotes); translation makes **protein** on ribosomes.
-7. **Miller–Urey gases**: Classic mix is **CH4 : NH3 : H2 = 2 : 2 : 1**; free **O2 was absent**.
-8. **Cell wall chemistry**: Plants = cellulose; fungi = **chitin**; bacteria = peptidoglycan — do not swap.
-9. **Crossing over**: Occurs in **pachytene of prophase I** of meiosis, not in mitosis.
-10. **Clone vs transgenic**: A clone is a genetic copy; a transgenic organism carries a **foreign inserted gene**.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2024** | Nobel Prize in Physiology or Medicine awarded to **Victor Ambros** and **Gary Ruvkun**. | Discovered **microRNA (miRNA)** and its role in post-transcriptional gene regulation; miRNA silences mRNA after transcription. |
+| **2025** | Nobel Prize in Physiology or Medicine awarded to **Mary E. Brunkow**, **Fred Ramsdell**, and **Shimon Sakaguchi**. | Discovered mechanisms of **peripheral immune tolerance** mediated by regulatory T cells ($T_{reg}$), preventing autoimmune attack. |
+| **2025** | **GenomeIndia Project** completed by Department of Biotechnology (DBT). | Sequenced **10,000 whole genomes** across **83 distinct population groups**; housed at Indian Biological Data Centre (IBDC), Faridabad. |
+| **2025** | Ministry of Agriculture approved commercial release of **two genome-edited rice varieties** developed by ICAR-IARI. | Utilise **SDN-1 / SDN-2** CRISPR edits; exempt from strict GMO transgenic rules under Rule 20 of Environment Protection Act 1989. |
+| **Current Status** | **Bt cotton** remains the **only** transgenic commercial crop approved for cultivation in India (approved by GEAC in **2002**). | Bt brinjal (moratorium 2010) and DMH-11 GM mustard are not cleared for unrestricted farmer-level commercial cultivation. |
 
 
 ---

@@ -54,35 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **TN gets heavy SW monsoon rain** — FALSE. Dry in SW; **NE monsoon** Oct–Dec — 2023 Q54.
-2. **Winter NW rain = retreating monsoon** — FALSE. **Western Disturbances** — 2021 Q36.
-3. **WD rain increases eastward** — FALSE. Decreases **west → east** — 2019 Q83.
-4. **"Vegetation is the true index of climate" = Köppen** — FALSE. **Thornthwaite** — 2018 Q25.
-5. **El Niño increases plankton off Peru** — FALSE. **Reduces** upwelling/plankton — 2023 Q67.
-6. **Jet streams are easterly** — FALSE as a general rule. Mid-latitude jets = **westerly**; **TEJ** is the summer exception — 2024 Q60.
-7. **Shamal = Austria / Mistral = Australia** — FALSE. Shamal = Arabia; Mistral = France.
-8. **Atmosphere heated mainly by short-wave sun** — FALSE. **Long-wave terrestrial** — 2022 Q138.
-9. **+IOD is bad for Indian monsoon** — FALSE. **+IOD helps**; −IOD hurts.
-10. **Ozone UV layer = troposphere** — FALSE. **Stratosphere** — 2018 Q52 / 2023 Q52.
-11. **NE monsoon rains all India** — FALSE. **TN, south AP, Puducherry** only.
-12. **Mango showers in Punjab** — FALSE. **Kerala/Karnataka**.
-13. **Highest albedo = desert sand** — FALSE. **Fresh snow** — 2021 Q66.
-14. **ITCZ / monsoon trough = high pressure** — FALSE. Both are **lows**.
-15. **Nor'westers = Western Disturbances** — FALSE. Nor'westers = **pre-monsoon thunderstorms**; WD = **winter**.
-16. **Harmattan = East African coast** — FALSE. **West Africa** / Gulf of Guinea.
-17. **Willy-willy = Brickfielder** — FALSE. Willy-willy = Australian **cyclone**. Brickfielder = Australian **hot local wind**.
-18. **Bora is a warm Rockies wind** — FALSE. Bora = **cold Adriatic**. Chinook = warm Rockies.
-19. **Active monsoon = trough on Himalaya** — FALSE. Active = trough on **Ganga plain**; break = trough on **Himalaya**.
-20. **Köppen As = Kerala / Konkan** — FALSE. **As** = Tamil Nadu dry **summer**; Kerala/Konkan = **Am**.
-21. **Retreating monsoon = NE monsoon** — FALSE. Retreating = SW withdrawal + Oct heat + BoB cyclones; NE monsoon = SE-coast rain Oct–Dec.
-22. **Monsoon from Hindi / Spanish** — FALSE. Arabic **mausim** (season).
-23. **IOD = west Indian Ocean vs eastern Pacific** — FALSE. West vs **east Indian Ocean** (UPSC 2017).
-24. **Northern jet branch steers India’s winter rain** — FALSE. Tibet splits the jet; **southern** branch (STWJ south of Himalaya) steers WD.
-25. **India lies exactly between the Tropics** — FALSE. Extends to ~**37°6′ N** (subtropical north).
-26. **IMD rainy day = any drizzle** — FALSE. **≥ 2.5 mm** in 24 hours.
-27. **January tropical/subtropical divide = 21 °C / 15 °C** — FALSE. **18 °C** isotherm.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2026** | IMD SW monsoon (दक्षिण-पश्चिम) **below normal (~90% of LPA)** | Seasonal rainfall category | IMD LRF Apr/May 2026 |
+| **2026** | ENSO: **neutral → El Niño** during Jun–Sep 2026 | Weak-monsoon tendency | IMD / MMCFS |
+| **2026** | **IOD neutral** (no +IOD (धनात्मक) offset of El Niño) | Contrast with 2019 +IOD rescue | IMD Jul 2026 |
+| **2026** | Onset over Kerala **4 June** (slightly after normal 1 June) | Onset date trap | USDA / IMD advance |
+| Ongoing | **Mission Mausam** (MoES/IMD) — improved monsoon & severe-weather forecast | Scheme/institution CA | IMD–MHA |
 
 
 ---

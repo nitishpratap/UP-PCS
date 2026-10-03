@@ -54,16 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-* Current account = goods / services / income / transfers — **not** FDI, ECB or IMF loans.
-* Trade deficit ≠ CAD (CAD is broader).
-* Flexible rate = market D&S; “Central Bank determines D&S” is **false**.
-* Appreciation ≠ depreciation; devaluation ≠ market depreciation wording.
-* Remittances **2022**: India 1, Mexico 2, China 3, Philippines 4 → code **2 3 1 4**.
-* FEMA **1999** existence; **1 June 2000** force — FERA ≠ “external debt liability Act”.
-* FDI ≠ FPI ≠ remittance.
-* WTO **has** dispute settlement; HQ Geneva ≠ MC-13 Abu Dhabi.
-* WTO farm rules are not “allow all direct / ban all indirect”.
-* Full capital-account convertibility is **not** the same as current-account convertibility.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2024** | Current account of BoP includes **export and import of goods** — not FDI, ECB or IMF loans. | Capital-account distractors. |
+| **2024** | Flexible exchange rate = market demand–supply of forex; **central bank does not “determine”** that demand–supply. | A true, R false. |
+| **2024** | Remittances **2022** ranks: **India 1 · Mexico 2 · China 3 · Philippines 4**. | Match-list code **2 3 1 4**. |
+| **2024** | **Singapore** as top FDI source (2023–24 teaching); Mauritius tax-treaty shift explains routing change. | Full A/R lives also in Topic 7. |
+| **UKPCS 2024** | **FEMA** came into existence in **1999** (in force **1 June 2000**). | Enactment year ≠ force date. |
+| **UKPCS 2025** | FEMA from **1 June 2000** is true; “FERA is mainly for external debt liability” is **false**. | FERA was forex-control law. |
+| **UKPCS 2025** | WTO **MC-13** venue: **Abu Dhabi** (UAE), not Geneva HQ. | HQ ≠ ministerial venue. |
 
 
 ---

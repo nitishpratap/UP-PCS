@@ -54,20 +54,11 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-
-1. **RBC vs WBC lifespan**: RBC ~**120 days**; many WBCs are short-lived.
-2. **Universal donor/recipient**: O negative ≈ universal donor; AB positive ≈ universal recipient — Rh matters.
-3. **Pacemaker**: **SA node** is the natural pacemaker — not AV node (AV is relay).
-4. **Pulmonary artery**: Carries **deoxygenated** blood — the classic vessel trap.
-5. **Pulmonary vein**: Carries **oxygenated** blood to the left atrium.
-6. **Systole vs diastole**: Systole = contraction; diastole = relaxation.
-7. **Lymph**: Returns tissue fluid; contains lymphocytes — it is **not** the same as blood plasma with RBCs.
-8. **Haemophilia**: Clotting-factor disorder — not a low-RBC anaemia by definition.
-9. **Blood group antigen**: Group A has A antigen; antibodies are anti-B in plasma.
-10. **ECG waves**: P = atrial depolarisation; QRS = ventricular depolarisation; T = ventricular repolarisation.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Historical & Still Tested** | First human heart transplant performed on **3 December 1967** by **Dr. Christiaan Barnard** at Groote Schuur Hospital, Cape Town, South Africa. | Frequently tested in state PSCs; William Harvey discovered blood circulation (1628), but did **not** perform heart transplants. |
+| **National Landmark** | First successful human heart transplant in India performed on **3 August 1994** by **Dr. P. Venugopal** at **AIIMS, New Delhi**. | Landmark in Indian cardiothoracic surgery. |
+| **Still Current** | **World Heart Day** is observed annually on **29 September**; **World Blood Donor Day** is observed on **14 June** (birth anniversary of Karl Landsteiner). | Commemorates discovery of the ABO blood group system by Landsteiner. |
 
 
 ---

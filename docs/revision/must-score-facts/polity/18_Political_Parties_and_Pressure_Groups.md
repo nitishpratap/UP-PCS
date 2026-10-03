@@ -54,30 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. Registration = national party → **29A** only registers. Recognition = **Symbols Order**
-2. CPI is still a national party → **lost 2023**. CPI(M) remains
-3. NPP is a State-only Meghalaya party → **national** since **2019**
-4. BSP is only a UP regional party → **national**; elephant (except Assam)
-5. SP is a national party → **State** party
-6. TMC founded before SP → TMC **1998**, SP **1992**. TDP is **1982**
-7. India is a two-party system → **multi-party**. 2014 majority did not change the *system*
-8. Hung House = 356 at once → invite a combination; **floor test** first
-9. 2024 BJP had a solo majority → **240**. NDA **coalition**
-10. Pressure group = political party → parties **contest**; groups **influence**
-11. AITUC = CPI(M) → **CPI**. **CITU** = CPI(M)
-12. BMS = Congress → **BJP/RSS**. INTUC = Congress
-13. First union = AITUC 1920 → first **union** = **Madras 1918**. AITUC = first **central** federation
-14. Always six national parties → count **after the last ECI review**
-15. SP symbol = “cycle” as a distinct ECI symbol → **bicycle**
-16. Invite the largest party always, even vs a pre-poll alliance → Sarkaria: **pre-poll first**, then largest, then post-poll
-17. Strike is a Fundamental Right → **19(1)(c)** = form unions. Strike **is not** a FR
-18. AITUC first president = Gandhi / Bose → **Lala Lajpat Rai**
-19. RSS is a registered political party → cadre body; **BJP** is the party. BMS is the labour front
-20. FICCI = 1947 → **1927**. ASSOCHAM is **1920**
-21. Official opposition = any second party → needs **10%** of the House
-22. Inner-party elections are a constitutional mandate → **no** article. ECI guidelines only
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Registration (29A)** | **Recognition** | Any association → RUPP vs National / State party (Symbols Order) | पंजीकरण (29A) / मान्यता |
+| **National party** | **State / regional party** | All-India reserved symbol + 4-State tests vs Reserved symbol **in that State** only | राष्ट्रीय दल / राज्य (क्षेत्रीय) दल |
+| **Reserved symbol** | **Free symbol** | Recognised parties vs Unrecognised + independents | आरक्षित प्रतीक / मुक्त प्रतीक |
+| **Political party** | **Pressure group** | Contests elections; seeks **power** vs Does **not** contest (normally); seeks to **influence** | राजनीतिक दल / दबाव समूह |
+| **Interest group** | **Pressure group** | Organised around an interest vs Same body **when it pressures** government | हित समूह / दबाव समूह |
+| **Coalition** | **Hung House** | Two or more parties **govern** vs **No** single party has a majority (may still produce a coalition) | गठबंधन / त्रिशंकु सदन |
+| **AITUC** | **CITU** | **CPI** (1920) vs **CPI(M)** (1970) | एटक (भाकपा) / सीटू (माकपा) |
+| **INTUC** | **BMS** | **Congress** (1947) vs **BJP/RSS** (1955) | इंटक (कांग्रेस) / बीएमएस (संघ) |
 
 
 ---
@@ -122,7 +108,7 @@ D. A-4, B-1, C-2, D-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** BMS–BJP and INTUC–INC are the clean facts. True union table: **AITUC = CPI**, **CITU = CPI(M)**, **UTUC = RSP**.
+**Ans: D** — BMS–BJP and INTUC–INC are the clean facts. True union table: **AITUC = CPI**, **CITU = CPI(M)**, **UTUC = RSP**.
 
 </details>
 
@@ -140,7 +126,7 @@ D. 1, 2, 3 and 4
 
 **Logic:** RPA section 29A provides registration by the ECI. National recognition follows the Symbols Order through one of the current tests, including State-party status in four States.
 
-**Ans: D. 1, 2, 3 and 4. The Representation of the People Act, 1951 provides for the registration of political parties. The registration of political parties is carried out by the Election Commission of India. The Election Commission has decided that a political party shall be eligible to be recognized as a National party if – (i) It secures at least six percent (6%) of the valid votes polled in any four or more states at general election to the House of People (Lok Sabha) or to the State Legislative Assembly (Rajya Vidhan Sabha) and wins at least four seats in the House of People from any State or States, or it wins at least two percent (2%) seats in the House of People (i.e., 11 seats in the existing House having 543 members), and these members should be elected from at least three different States. Currently, there are 6 national political parties in India.**
+**Ans: D** — 1, 2, 3 and 4. The Representation of the People Act, 1951 provides for the registration of political parties. The registration of political parties is carried out by the Election Commission of India. The Election Commission has decided that a political party shall be eligible to be recognized as a National party if – (i) It secures at least six percent (6%) of the valid votes polled in any four or more states at general election to the House of People (Lok Sabha) or to the State Legislative Assembly (Rajya Vidhan Sabha) and wins at least four seats in the House of People from any State or States, or it wins at least two percent (2%) seats in the House of People (i.e., 11 seats in the existing House having 543 members), and these members should be elected from at least three different States. Currently, there are 6 national political parties in India.**
 
 </details>
 
@@ -158,7 +144,7 @@ D. The Supreme Court
 
 **Logic:** Recognition as a National or State party is granted by the Election Commission under the Election Symbols Order, 1968.
 
-**Ans: C. The Election Commission. The Election Commission accords recognition to political parties as National or State Parties in accordance with the norms laid down in the Election Symbols (Reservation and Allotment) Order, 1968.**
+**Ans: C** — The Election Commission. The Election Commission accords recognition to political parties as National or State Parties in accordance with the norms laid down in the Election Symbols (Reservation and Allotment) Order, 1968.**
 
 </details>
 
@@ -176,7 +162,7 @@ D. Speaker of Lok Sabha
 
 **Logic:** The Election Commission recognises political parties under the Symbols Order; neither the President nor the Speaker performs this function.
 
-**Ans: B. Election Commission of India. The Election Commission of India provides recognition to the political parties in India. The Election Symbols (Reservation and Allotment) Order, 1968, provides for the recognition of political parties.**
+**Ans: B** — Election Commission of India. The Election Commission of India provides recognition to the political parties in India. The Election Symbols (Reservation and Allotment) Order, 1968, provides for the recognition of political parties.**
 
 </details>
 
@@ -194,44 +180,37 @@ D. The Law Ministry of Government of India
 
 **Logic:** Both registration under section 29A and recognition under the Symbols Order are administered by the Election Commission of India.
 
-**Ans: B. The Elections Commission of India. Both registration under section 29A and recognition under the Symbols Order are administered by the Election Commission of India.**
+**Ans: B** — The Elections Commission of India. Both registration under section 29A and recognition under the Symbols Order are administered by the Election Commission of India.**
 
 </details>
 
 **Q7.**
+Which one of the following is NOT a recognized condition for a political party to be recognized as a National Party by the Election Commission of India?
 
-A party gets recognition as a national party when –
-
-A. It gets 5% of total votes.
-B. It contests election in all constituencies.
-C. It receives power in more than four States.
-D. It receives 5% of the votes in four States.
+A. It is recognized as a State party in at least four States.
+B. It wins at least 2% of the seats in the Lok Sabha (11 seats) elected from at least three different States.
+C. It secures at least 6% of valid votes polled in four or more States and wins at least 4 Lok Sabha seats.
+D. It secures at least 10% of seats in the Rajya Sabha from four States.
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** None of the printed choices states a valid national-party test. The current routes are 6% in four States plus four Lok Sabha seats, 2% of Lok Sabha seats from three States, or State-party status in four States.
-
-**Ans: No listed option is correct. None states a complete current route to national recognition.**
+**Ans: D** — Representation in the Rajya Sabha is NOT a criterion for National Party status. The three valid criteria are: 6% vote share in 4+ states plus 4 Lok Sabha seats; 2% Lok Sabha seats (11) from 3+ states; or State Party status in 4+ states.
 
 </details>
 
 **Q8.**
+To be recognized as a National Party in India under the vote share route, a party must secure at least what percentage of valid votes in four or more States along with at least 4 Lok Sabha seats?
 
-To be recognized as National Party in India, a party must have secured at least how much percentage of votes in the previous election ?
-
-A. At least 10 percent of valid votes in four or more States
-B. At least 4 percent of valid votes in four or more States
-C. At least 15 percent of valid votes in four or more States
-D. At least 6 percent of valid votes in more than half of the States
-E. None of the above / More than one of the above
+A. 4 percent
+B. 6 percent
+C. 8 percent
+D. 10 percent
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The printed percentages do not state a complete national-party test; the vote route requires 6% in four States plus four Lok Sabha seats.
-
-**Ans: E. None of the above. The vote-share route is 6% in four States together with at least four Lok Sabha seats.**
+**Ans: B** — A party must secure at least 6% of the valid votes polled in four or more States at a general election to the Lok Sabha or Legislative Assembly, AND win at least 4 seats in the Lok Sabha.
 
 </details>
 
@@ -249,7 +228,7 @@ D. Seven states
 
 **Logic:** One independent route to national recognition is State-party status in at least four States.
 
-**Ans: B. Four states. One independent route to national recognition is State-party status in at least four States.**
+**Ans: B** — Four states. One independent route to national recognition is State-party status in at least four States.**
 
 </details>
 
@@ -267,7 +246,7 @@ D. None of the above.
 
 **Logic:** A party may obtain State-party recognition solely by securing 8% of valid votes in the State, even without winning a seat.
 
-**Ans: C. It gets 8% votes in the State either in Lok Sabha or the Assembly election.. According to the Amendment of Election Symbols (Reservation and Allotment) Order, 1968, a party has to live up to at least one of the following qualifications to be acknowledged as a State party- (1) If the party wins at least 3 seats or 3% of the seats whichever is greater, in the State Legislative Assembly; or (2) If it wins a minimum of 1 seat in the Lok Sabha for every 25 seats or any fraction allotted to that concerned State; or (3) If the party wins a Lok Sabha seat with 6 percent of valid votes in the latest Lok Sabha elections or 2 Vidhan Sabha (Legislative Assembly) seats with 6 percent of valid votes in the latest state assembly election; or (4) The status of a State party can still be bestowed upon an entity even if it fails to win any seats in the Lok Sabha or the Assembly, if it manages to win at least 8% of the total votes cast in the entire State. Thus, this is clear that the most suitable option is (c) but U.P.P.S.C has mentioned option (d) as the correct answer in their answer key which is incorrect.**
+**Ans: C** — It gets 8% votes in the State either in Lok Sabha or the Assembly election.. According to the Amendment of Election Symbols (Reservation and Allotment) Order, 1968, a party has to live up to at least one of the following qualifications to be acknowledged as a State party- (1) If the party wins at least 3 seats or 3% of the seats whichever is greater, in the State Legislative Assembly; or (2) If it wins a minimum of 1 seat in the Lok Sabha for every 25 seats or any fraction allotted to that concerned State; or (3) If the party wins a Lok Sabha seat with 6 percent of valid votes in the latest Lok Sabha elections or 2 Vidhan Sabha (Legislative Assembly) seats with 6 percent of valid votes in the latest state assembly election; or (4) The status of a State party can still be bestowed upon an entity even if it fails to win any seats in the Lok Sabha or the Assembly, if it manages to win at least 8% of the total votes cast in the entire State. Thus, this is clear that the most suitable option is (c) but U.P.P.S.C has mentioned option (d) as the correct answer in their answer key which is incorrect.**
 
 </details>
 
@@ -285,7 +264,7 @@ D. None (i) and (ii)
 
 **Logic:** The combined Assembly route requires both 6% valid votes and two Assembly seats; the separate Lok Sabha route is not stated completely.
 
-**Ans: C. Only (i) and (ii). The combined Assembly route requires both 6% valid votes and two Assembly seats; the separate Lok Sabha route is not stated completely.**
+**Ans: C** — Only (i) and (ii). The combined Assembly route requires both 6% valid votes and two Assembly seats; the separate Lok Sabha route is not stated completely.**
 
 </details>
 
@@ -303,7 +282,7 @@ D. Freedom struggle of America
 
 **Logic:** The source attributes the word 'National' to the all-India, anti-colonial character created in reaction to British rule.
 
-**Ans: B. Reaction against British rule. The word ‘National’ in Indian National Congress was influenced by the reaction against British rule.**
+**Ans: B** — Reaction against British rule. The word ‘National’ in Indian National Congress was influenced by the reaction against British rule.**
 
 </details>
 
@@ -321,7 +300,7 @@ D. BSP
 
 **Logic:** The Nationalist Congress Party was formed in 1999 after Sharad Pawar, P.A. Sangma and Tariq Anwar split from the Congress.
 
-**Ans: B. Congress Party. The NCP was formed on June 10, 1999 by Sharad Pawar, P. A. Sangma, and Tariq Anwar after they were expelled from the Indian National Congress (INC), following the dispute relating to Sonia Gandhi’s foreign origin.**
+**Ans: B** — Congress Party. The NCP was formed on June 10, 1999 by Sharad Pawar, P. A. Sangma, and Tariq Anwar after they were expelled from the Indian National Congress (INC), following the dispute relating to Sonia Gandhi’s foreign origin.**
 
 </details>
 
@@ -339,7 +318,7 @@ D. None of these
 
 **Logic:** None of the four listed organisations is among the current six national parties: BJP, INC, AAP, BSP, CPI(M) and NPP.
 
-**Ans: D. None of these. Currently, there are a total of 6 parties in India that satisfy the condition for being a National Party. These are- Bhartiya Janata Party(BJP), Indian National Congress(INC), Bahujan Samaj Party (BSP), Aam Aadmi Party (AAP), Communist Party of India (Marxist) (CPI (M), and National People's Party. Out of the given political parties, no political party satisfies the condition for being a National Party. Thus, option (d) is the correct answer.**
+**Ans: D** — None of these. Currently, there are a total of 6 parties in India that satisfy the condition for being a National Party. These are- Bhartiya Janata Party(BJP), Indian National Congress(INC), Bahujan Samaj Party (BSP), Aam Aadmi Party (AAP), Communist Party of India (Marxist) (CPI (M), and National People's Party. Out of the given political parties, no political party satisfies the condition for being a National Party. Thus, option (d) is the correct answer.**
 
 </details>
 
@@ -357,6 +336,6 @@ D. A.I.A.D.M.K.
 
 **Logic:** TMC received national recognition in 2016, which makes the year-bound answer C; it lost that status in 2023.
 
-**Ans: C. TMC was recognised as a National Party in 2016; that recognition was withdrawn in 2023.**
+**Ans: C** — TMC was recognised as a National Party in 2016; that recognition was withdrawn in 2023.**
 
 </details>

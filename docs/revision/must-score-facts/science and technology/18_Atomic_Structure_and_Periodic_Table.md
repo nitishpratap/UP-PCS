@@ -54,20 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Concept | Trap / Confusion Point | Examiner's Angle | Correct Fact |
-| :--- | :--- | :--- | :--- |
-| **Electron Affinity vs Electronegativity** | Assuming Fluorine has the highest electron affinity. | Most tested chemistry trap in PCS/IAS. | **Chlorine has the highest electron affinity** ($Cl > F > Br > I$); **Fluorine has the highest electronegativity**. |
-| **Abundance: Element vs Metal** | Answering Iron or Silicon as the most abundant metal in crust. | Crust composition trap. | **Oxygen is the #1 element** ($46.6\%$); **Aluminum is the #1 metal** ($8.1\%$). |
-| **Most Abundant Body Metal** | Answering Iron because of hemoglobin blood volume. | Human biochemistry trap. | **Calcium is the #1 metal in the body** ($1.5\%$ of body mass, $1\text{ kg}$ in bones); Iron is only $\approx 4\text{ grams}$. |
-| **Liquid Non-Metal** | Confusing Mercury with Bromine. | State of matter trap. | **Mercury is a liquid metal**; **Bromine is the only liquid non-metal**. |
-| **Nitrogen vs Oxygen $IE$** | Assuming Oxygen has higher ionization energy because it is to the right. | Subshell stability trap. | **Nitrogen has higher $IE_1$ than Oxygen** due to its stable half-filled $2p^3$ subshell. |
-| **Heaviest Subatomic Particle** | Assuming the proton is heavier than the neutron. | Nucleon mass trap. | The **Neutron is the heaviest** ($1.6749 \times 10^{-27}\text{ kg}$ vs proton $1.6726 \times 10^{-27}\text{ kg}$). |
-| **Isobars vs Isotones** | Confusing same mass number with same neutron count. | Nuclear terminology trap. | **Isobars = Same mass number ($A$)**; **Isotones = Same neutron count ($N = A - Z$)**. |
-| **Chromium Configuration** | Writing $3d^4 4s^2$. | Transition metal configuration trap. | Actual configuration is **$[Ar] 3d^5 4s^1$** (half-filled $d$-subshell stability). |
-| **Doped Semiconductor Charge** | Assuming N-type is negatively charged. | Solid state physics trap. | Doped semiconductors (both N-type and P-type) are **strictly electrically neutral**. |
-| **Sodium Storage** | Storing sodium in water instead of kerosene. | Chemical safety trap. | Sodium explodes in contact with water; must be stored in **kerosene oil**. |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Electron Affinity** | **Electronegativity** | Electron affinity is an **absolute thermodynamic energy released** when an electron is added to an isolated neutral gaseous atom ($X + e^- \\to X^-$; unit: $\\text{kJ/mol}$). Electronegativity is a **relative qualitative tendency** of a bonded atom to attract shared electron pairs in a chemical bond (dimensionless Pauling scale). Highest EA = **Chlorine**; Highest EN = **Fluorine**. |
+| **Atomic Number ($Z$)** | **Mass Number ($A$)** | Atomic number ($Z$) equals the **number of protons** in the nucleus (defines the element; integer without units). Mass number ($A$) equals total count of nucleons (**protons + neutrons**). Atoms with same $Z$ and different $A$ are **Isotopes**; atoms with same $A$ and different $Z$ are **Isobars**. |
+| **Orbits (Bohr)** | **Orbitals (Wave Mechanics)** | Orbit is a deterministic 2D circular planar path of an electron around the nucleus (violates Heisenberg's Uncertainty Principle; max electrons $= 2n^2$). Orbital is a 3D probabilistic spatial region where probability of finding an electron is maximum ($>90\\%$; max electrons $= 2$). |
+| **Mendeleev's Law** | **Modern Periodic Law** | Mendeleev: Properties are periodic functions of **Atomic Weights**. Modern (Moseley): Properties are periodic functions of **Atomic Numbers ($Z$)**. Moseley resolved Mendeleev's cobalt-nickel and tellurium-iodine inversions. |
+| **Abundance: Crust vs Body** | **Most Abundant Metal** | In Earth's crust: Most abundant element is **Oxygen ($46.6\\%$)**; most abundant metal is **Aluminum ($8.1\\%$)**. In human body: Most abundant element is **Oxygen ($65\\%$)**; most abundant metal is **Calcium ($1.5\\%$)**. |
+| **Liquid Metal** | **Liquid Non-Metal** | Liquid metal at room temperature is **Mercury ($Hg$, metal)**. Liquid non-metal at room temperature is **Bromine ($Br_2$, non-metal)**. |
+| **$s$-Block** | **$d$-Block** | $s$-block: Groups 1 and 2; valence electrons in outermost $s$-subshell; fixed valency ($+1, +2$); highly electropositive metals. $d$-block: Groups 3 to 12; electrons filling inner $(n-1)d$ subshell; variable oxidation states ($Fe^{2+}, Fe^{3+}$); form colored coordination complexes. |
+| **Lanthanides** | **Actinides** | Lanthanides: Filling $4f$ subshell; $Z=58\\text{--}71$; only Promethium ($Pm$) is radioactive. Actinides: Filling $5f$ subshell; $Z=90\\text{--}103$; **ALL actinides are radioactive**. |
 
 
 ---

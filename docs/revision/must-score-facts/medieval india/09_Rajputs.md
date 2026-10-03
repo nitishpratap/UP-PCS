@@ -54,26 +54,19 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. Do not match **Rana Chunda** with Marwar. The Marwar line uses **Rao** Chunda.
-2. **Khanwa** and **Haldighati** are different battles. Khanwa is **1527** (Sanga). Haldighati is **1576** (Pratap).
-3. **Man Singh** was not a Sisodia. He was a **Kachhwaha** and the Mughal commander at Haldighati.
-4. **Akbar** was not in the Haldighati pass. **Man Singh** commanded the imperial army there.
-5. **Jayata** and **Kumpa** belong to **Marwar**, not Mewar.
-6. **Udai Singh of Mewar** was not Tansen’s patron before Akbar.
-7. Do not confuse **Chittor 1303** (Alauddin) with **Chittor 1567–68** (Akbar).
-8. **Malik Sarwar** did not found Malwa. He founded **Jaunpur**.
-9. **Amar Singh’s peace in 1615** was not Pratap’s surrender. Pratap had died in **1597**.
-10. **Mewar** uses the title **Rana** or **Maharana**. **Marwar** uses **Rao**.
-11. In Alauddin’s Deccan conquest lists, **Warangal** comes **last**, not first.
-12. The fact that **Sanga** had contact with Babur does not mean he stayed allied to him.
-13. Do not call Haldighati a clear **Mughal victory**. Say the Mughals held a **strategic edge** on the plains. Pratap survived.
-14. **Kumbha** is not Pratap. **Vijay Stambha** was built by Kumbha.
-15. **Jaisalmer** comes **before Ranthambore** in Alauddin's extended conquest sequence.
-16. **Rana Hammir** of Mewar is not **Hamir Deva** of Ranthambore.
-17. **Kirti Stambha** is not **Vijay Stambha**. Kirti is the older Jain tower at Chittor.
-18. **Gujarat → Ranthambore → Chittor → Warangal** is the core sequence — option letters differ across papers.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Khanwa | Haldighati | 1527 Babur–Sanga vs 1576 Man Singh–Pratap | खानवा / हल्दीघाटी |
+| Mewar | Marwar | Sisodia Chittor–Udaipur vs Rathore Jodhpur | मेवाड़ / मारवाड़ |
+| Rana Chunda | Rao Chunda | Mewar vs Marwar founder line — 2021 trap | राणा चुंडा / राव चुंडा |
+| Sanga | Pratap | Fought Babur vs fought Akbar | सांगा / प्रताप |
+| Man Singh | Pratap | Kachhwaha on Mughal side vs Sisodia holdout | मान सिंह / प्रताप |
+| Chittor | Udaipur | Old fort (1303, 1568) vs new capital 1559 | चित्तौड़ / उदयपुर |
+| Jauhar | Saka | Women’s immolation vs warriors’ last charge | जौहर / साका |
+| Hamir | Kumbha | 14th c. restorer vs 15th c. Vijay Stambha builder | हमीर / कुम्भा |
+| Rana Hammir | Hamir Deva | Mewar restorer (1326) vs Ranthambore Chauhan (died 1301) | मेवाड़ हमीर / रणथम्भौर हमीर |
+| Vijay Stambha | Kirti Stambha | Kumbha’s victory tower vs older Jain tower, both at Chittor | विजय स्तम्भ / कीर्ति स्तम्भ |
+| Alauddin’s Chittor | Akbar’s | 1303 vs 1567–68 | अलाउद्दीन / अकबर |
 
 
 ---

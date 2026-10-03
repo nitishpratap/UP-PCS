@@ -54,35 +54,27 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Matsya = Mathura** → Mathura = **Surasena**; Matsya = **Viratnagar** (2020).
-2. **Asmaka = Pratishthana/Paithan** in that 2020 list → **Potana**.
-3. **Magadha / Vajji / Anga in UP** → **Bihar**.
-4. **Pataliputra founded by Chandragupta / Ashoka** → **Ajatashatru** seeds / founds; **Udayin** first makes it the **capital**.
-5. **Shishunaga founded Pataliputra** → he **took Avanti** (and some keys give him Varanasi as second capital).
-6. **Shakya = one of the 16** → under Kosala; not the canonical sixteen.
-7. **Alexander defeated the Nandas** → turned at the **Beas**.
-8. **Vajji = Magadhan monarchy** → **gana-sangha**.
-9. **First Magadha conquest = Vajji** → **Anga** (Bimbisara); Vajji = Ajatashatru.
-10. **Kalashoka = First Council** → **Second**, Vaishali.
-11. **Kashi = Kosala** → two mahajanapadas; Varanasi vs Shravasti/Ayodhya.
-12. **Ahichchhatra = Vatsa / Kosala** → **Panchala**; Vatsa = Kaushambi; Kosala = Saket/Shravasti.
-13. **6th c. BCE = Mauryan empire** → mahajanapadas; Mauryas start ~322 BCE.
-14. **Avanti in UP** → **Malwa / MP**.
-15. **Malla capital = Vaishali** → Vaishali = **Vajji**; Malla = **Kushinagar**.
-16. **Pava (Malla) = Pavapuri (Mahavira)** → two different places.
-17. **NBPW = PGW / “only Mauryan”** → NBPW starts in mahajanapada towns.
-18. **Bimbisara annexed Avanti** → **Shishunaga**.
-19. **Mahapadma = Chandragupta** → Nanda founder vs Mauryan founder.
-20. **Kamboja = Asmaka** → horses/NW vs Godavari/south.
-21. **Shakya = 16th mahajanapada** → under Kosala.
-22. **Jarasandha = Haryanka king** → epic/Puranic Brihadratha memory, not the Bimbisara list.
-23. **Udayin (Magadha) = Udayana (Vatsa)** → capital-shifter vs Kaushambi king.
-24. **Yaudheya = Buddha-age “earlier republic”** → later gana; not in that early list.
-25. **Surasena = Kaushambi** → Mathura; Kaushambi = Vatsa.
-26. **First extant coins = gold** → punch-marked **silver** (Aahat).
-27. **Kosala capital = Ahichchhatra** → Ahichchhatra = Panchala.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Janapada | Mahajanapada | Clan territory vs the **16** large states | जनपद / महाजनपद |
+| Monarchy | Gana-sangha | Hereditary king vs oligarchic clan-council | राजतंत्र / गणसंघ |
+| Rajagriha | Pataliputra | Early Magadha capital vs later Ganga–Son capital | राजगृह / पाटलिपुत्र |
+| Ajatashatru (Patali) | Udayin (capital) | Fortifies / founds **Pataligrama** seed vs first makes **Pataliputra** the capital | अजातशत्रु / उदयन |
+| Udayin (Magadha) | Udayana (Vatsa) | Haryanka capital-shifter vs Vatsa king of Kaushambi | उदयन मगध / उदयन वत्स |
+| Matsya | Surasena | **Viratnagar** (Rajasthan) vs **Mathura** | मत्स्य / शूरसेन |
+| Kashi | Kosala | Varanasi vs Ayodhya / **Shravasti** | काशी / कोसल |
+| Vatsa | Panchala | **Kaushambi** vs Ahichchhatra / Kampilya | वत्स / पांचाल |
+| Magadha | Vajji | Magadhan **kingdom** (Bihar) vs Licchavi **republic** (Vaishali) | मगध / वज्जि |
+| Bimbisara | Ajatashatru | Alliances + **Anga** vs parricide + **Vajji** war | बिम्बिसार / अजातशत्रु |
+| Haryanka | Shishunaga | Bimbisara line vs minister who **took Avanti** | हर्यंक / शिशुनाग |
+| Mahapadma | Dhana Nanda | Founder / ekarat vs last Nanda, **Alexander age** | महापद्म / धननन्द |
+| Potana | Pratishthana | Asmaka capital in 2020 paper vs later Satavahana Paithan | पोतन / प्रतिष्ठान |
+| PGW | NBPW | Later Vedic doab grey ware vs **mahajanapada / early historic** deluxe black ware | चित्रित धूसर / उत्तरी काली |
+| Girivraja | Pataliputra | Rajgir five-hill fort vs Ganga–Son city | गिरिव्रज / पाटलिपुत्र |
+| Kushinagar | Pava | Both **Malla** vs Jain **Pavapuri** (Mahavira) in Magadha | कुशीनगर / पावा |
+| Champa | Varanasi | **Anga** river-port vs **Kashi** | चम्पा / वाराणसी |
+| Buddha-age ganas | Yaudheya | Shakya / Licchavi / Malla list vs later plains **gana** (not “earlier republic” stem) | गण / यौधेय |
+| Avantika | Taxila | Ancient name / pole of **Ujjain** vs **Gandhara** university town | अवन्तिका / तक्षशिला |
 
 
 ---

@@ -54,36 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **NDMA chair = Home Minister** — FALSE. **Prime Minister**.
-2. **Zone V = safest / Zone I still exists** — FALSE. **V = highest**; I abolished.
-3. **Entire UP = Zone V** — FALSE. **III–IV**.
-4. **Only Himalaya shakes** — FALSE. **Latur 1993, Koyna 1967**.
-5. **Richter = damage scale** — FALSE. **Mercalli** = intensity.
-6. **S-waves travel through the liquid outer core / both P and S recorded past 105°** — FALSE. **S** stop beyond ~**103°**; **P** miss ~**103–142°**.
-7. **Surface waves arrive first / P waves do most surface damage** — FALSE. Arrival is **P → S → surface**; surface waves usually do worst ground damage.
-8. **Tsunami = wind waves / cyclone swell / tidal wave** — FALSE. **Seafloor displacement**; Japanese **harbour wave**.
-9. **INCOIS = NDMA HQ / IMD Pune** — FALSE. Tsunami warning = **INCOIS, Hyderabad**.
-10. **Kilimanjaro = Ring of Fire** — FALSE. **East African Rift**.
-11. **Cloudburst = any hill rain** — FALSE. **≥100 mm/hour**.
-12. **Heat wave = any day above 35°C** — FALSE. Plains **gate 40°C** + departure/actual cuts.
-13. **Arabian Sea never hits India** — FALSE. **Gujarat/MH** (Tauktae).
-14. **Baguio = Japan; Willy-willy = USA** — FALSE. **PH and Australia**.
-15. **Sendai = 2005–15** — FALSE. That is **Hyogo**. Sendai **2015–30**.
-16. **NPDM = 2005** — FALSE. DM Act **2005**; NPDM **2009**.
-17. **NDMA chair = Home Minister** — FALSE. **Prime Minister**.
-18. **Hazard = disaster always** — FALSE. Disaster needs exposure + weak capacity.
-19. **Skip HVRC / Sendai priorities because recent papers asked zones** — FALSE. Next year can ask the framework from the same topic.
-20. **Arabian Sea never hits India** — FALSE. Gujarat–Maharashtra landfalls exist.
-21. **India is disaster-free** — FALSE (2018 key).
-22. **DPAP = 1952** — FALSE. **1973–74**; 1952 = CDP.
-23. **Gomati vs Yamuna as 2018 biological-disaster river** — paper key **Gomati**.
-24. **2004 deaths = 50 lakh / Bangladesh worst-hit by that wave path** — FALSE. Order **2–3 lakh**; Bangladesh relatively few for wave-direction reasons.
-25. **Joshimath 2023 = same as Kedarnath 2013 rain wall** — FALSE. Joshimath is mainly **subsidence / slope distress**; Kedarnath is a rain–debris–flood cascade.
-26. **GLOF = ordinary Ganga bank flood** — FALSE. **Glacial-lake outburst** (Sikkim Teesta / South Lhonak 2023).
-27. **Cyclones need the equator / form only in mid-monsoon BoB** — FALSE. Need **Coriolis** (usually outside ~5°) and peak in **May–Jun / Oct–Dec**.
-28. **Bhopal = natural earthquake disaster** — FALSE. **Man-made** chemical / industrial (1984).
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Mar 2026** | BIS **IS 1893:2025 / Zone VI withdrawn** | Do **not** replace II–V in the hall | The Hindu / BIS |
+| **2015–30** | Sendai Framework | Successor of Hyogo | UNDRR |
+| **2019** | **CDRI** launched by India | Infrastructure + DRR | MEA / NDMA |
+| **2016 / 2019** | NDMP issued / revised | First Sendai-aligned national plan | NDMA |
+| **2023** | Joshimath subsidence; Sikkim GLOF | Landslide / flood CA | NDMA / news |
+| **2021** | Tauktae (Arabian Sea → Gujarat) | “Arabian Sea never hits west coast” trap | IMD |
+| **2020** | Amphan (BoB → WB/Odisha) | Super cyclone east coast | IMD |
 
 
 ---

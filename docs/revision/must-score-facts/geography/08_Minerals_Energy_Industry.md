@@ -54,42 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **West of Mangalore–Kanpur is mineral-rich** — FALSE. Most major minerals lie **east** of the Mangaluru–Kanpur line.
-2. **Aravalli = richest mineral belt** — FALSE. **Chota Nagpur / NE Peninsular** is richest (“India’s Ruhr”).
-3. **Jharkhand + Karnataka always lead iron** — FALSE for **2021–22**. **Odisha + Chhattisgarh** lead.
-4. **Bailadila = Odisha** — FALSE. **Chhattisgarh**. Gurumahisani = Odisha; Noamundi = Jharkhand; Kudremukh = Karnataka.
-5. **Bauxite = sedimentary basin only** — FALSE. Commonly linked to **laterite** weathering; Odisha lead (**Panchpatmali**).
-6. **MALCO = Chennai** — FALSE. **Mettur, Tamil Nadu**. HINDALCO = Renukoot (UP); BALCO = Korba.
-7. **Maolong = Arunachal** — FALSE. **Meghalaya**.
-8. **Anthracite = softest / lignite = hardest** — FALSE. Rank rises peat → lignite → bituminous → **anthracite** (hardest, highest carbon).
-9. **Singrauli NTPC = northern Chhattisgarh** — FALSE. **MP–UP**; it **is** NTPC’s oldest unit.
-10. **Kashagan = Kuwait** — FALSE. **Kazakhstan**. Ruhr = **Germany**, not Britain.
-11. **CNG / natural gas = butane** — FALSE. **Methane**. LPG is the propane/butane mix.
-12. **Solar / wind = conventional energy** — FALSE. Conventional = coal/oil/gas/nuclear; solar–wind–tidal–biogas–geothermal = **non-conventional**.
-13. **Black Revolution = oilseeds** — FALSE. Oilseeds = **Yellow**; Black = **petroleum**.
-14. **Ahmedabad = largest cotton mill centre** — FALSE. In the cotton **belt** (R true); traditionally **Mumbai** is largest.
-15. **Shivanasamudra = nuclear** — FALSE. **Hydel**; Kalpakkam = nuclear.
-16. **ISA Secretariat = New Delhi / Paris** — FALSE. **Gurugram**. Member count is **not 38**.
-17. **Nuclear / geothermal = stored solar** — FALSE. Wind and biomass are solar-linked.
-18. **Copper city = Chitradurga; Mn city = Bhilwara** — FALSE. Ballari = iron; Katni = bauxite.
-19. **Diu is not the first 100% solar UT** — FALSE. It **is**. First solar airport = **Cochin**, not Ahmedabad.
-20. **UP = Bhilai-class steel state / no coal at all** — FALSE. Facts = **Sonbhadra** energy, **non-coking** Singrauli coal, **Mathura** refinery, **Narora** nuclear, **Shankargarh** silica. Firozabad = **glass**, Moradabad = **brass**.
-21. **Pegu Yoma = tin** — FALSE. **Mineral oil**. Tin = Kinta / Bangka.
-22. **Northern plains = major ore belt** — FALSE. The plains are almost **devoid** of economic minerals.
-23. **India rich in all non-ferrous metals** — FALSE. **Poor except bauxite**.
-24. **Hematite has more Fe than magnetite** — FALSE. Magnetite ~**70%**; hematite is the **quantity** workhorse (~50–60%).
-25. **~80% Indian coal is coking** — FALSE. Most is bituminous **non-coking** (thermal).
-26. **Gondwana = metallic storehouse / Dharwar = coal king** — FALSE. **Dharwar** = metallic minerals; **Gondwana** ≈ **95–99%** coal.
-27. **Vindhyan = iron–gold belt** — FALSE. Sedimentary **limestone / china clay**.
-28. **Tin producer = Assam / J&K** — FALSE. Only **Chhattisgarh** produces tin in recent production data.
-29. **Digboi = largest petrochemical centre** — FALSE. **Oldest** oilfield/refinery centre; **Jamnagar** is the giant complex.
-30. **ISPRL storages include Ankleshwar** — FALSE. **Visakhapatnam, Mangaluru, Padur**.
-31. **Coal reserve order = production order** — FALSE. Proved reserves often **JH > OD > CG**; production often **CG > OD > MP**.
-32. **Zawar = copper** — FALSE. **Zinc–lead** (Udaipur); copper = **Khetri / Malanjkhand**.
-33. **Nathra-ki-Pal = copper of Rajasthan** — FALSE. **Iron ore**.
-34. **Marble = igneous rock** — FALSE. **Metamorphic** (recrystallised limestone); **Makrana** best quality.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2023** | Li inferred resources **Reasi, J&K**; India import-dependent for **Li, Ni, Co** | Frozen 2023 Q77 | MoM / PYQ |
+| **2023** | Union list (संघ सूची) of **24 critical minerals** (Li, Ni, Co, REE, graphite, etc.) | Scheme/list trap | Ministry of Mines |
+| **2023–26** | **Critical Minerals Mission** + auction of critical-mineral blocks | Living CA | PIB / MoM |
+| **2015 / 2025** | **ISA**: India+France, HQ **Gurugram**; **not 38 members**; **OSOWOG** under ISA | 2019 Q63 + 2025 Q109 | ISA / MEA |
+| **Jan 2026** | US announced withdrawal from ISA; ISA continues with **120+** members | Member-count trap | MEA / ET |
+| **2018** | Major solar plant **Mirzapur (मिर्ज़ापुर) (UP)** with **France** | UP energy PYQ | 2020 Q46 |
+| **DFC** | **Western** Dadri (ददरी)–JNPT; **Eastern** Ludhiana–Dankuni — phased commissioning | Corridor syllabus | DFCCIL |
+| **Nuclear** | Kakrapar / Kudankulam expansion; **Narora = only UP** plant | Plant–state | NPCIL |
 
 
 ---

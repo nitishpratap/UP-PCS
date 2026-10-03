@@ -49,25 +49,21 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Buxar before Plassey** → Plassey **1757**, Buxar **1764**.
-2. **1813 ends all Company trade** → tea/China kept; **1833** ends all trade.
-3. **Awadh = Lapse** → **misrule 1856**; Lapse starts **Satara 1848**.
-4. **Victoria Empress in 1858** → Proclamation **1858**; Empress Durbar **1877**.
-5. **Ilbert before Vernacular Press** → Press **1878**, Ilbert **1883**.
-6. **Hunter 1919 = education** → education Hunter is **1882**; 1919 is Punjab inquiry.
-7. **Annulment of Partition in 1905** → Partition **1905**; annulment **1911**.
-8. **Dandi before Lahore Purna Swaraj** → Lahore **Dec 1929**, Dandi **1930**.
-9. **Quit India before Cripps** → both **1942**, but **Cripps first**.
-10. **Cabinet Mission before Wavell Plan** → Wavell/Simla **1945**, Cabinet **1946**.
-11. **Chauri Chaura after Kakori** → Chauri Chaura **1922**, Kakori **1925**.
-12. **First GG of India = Hastings** → Hastings is GG of **Bengal**; GG of India from **1833** = **Bentinck**.
-13. **French Company before Dutch** → Dutch **1602**, French **1664**.
-14. **2nd Afghan under Auckland** → Auckland = **1st**; Lytton = **2nd**.
-15. **Poona Pact before Communal Award** → Award first, then Pact, both **1932**.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Plassey 1757 | Buxar 1764 | Political foothold vs decisive Diwani path | प्लासी / बक्सर |
+| Regulating Act 1773 | Pitt’s India Act 1784 | Creates GG office vs Board of Control | रेगुलेटिंग / पिट्स |
+| Charter 1813 | Charter 1833 | Ends India trade monopoly (tea/China kept) vs GG of India + all trade ends | 1813 / 1833 |
+| Sati 1829 | Widow Remarriage 1856 | Bentinck vs Canning / Vidyasagar | सती / विधवा विवाह |
+| 1st Afghan 1839–42 | 2nd Afghan 1878–80 | Auckland vs Lytton | प्रथम / द्वितीय अफगान |
+| Proclamation 1858 | Empress Durbar 1877 | Crown rule starts vs Kaiser-i-Hind title | 1858 / 1877 |
+| Vernacular Press 1878 | Ilbert Bill 1883 | Lytton gagging vs Ripon judicial equality attempt | प्रेस अधिनियम / इल्बर्ट |
+| Hunter Comm. 1882 | Hunter Cttee 1919 | Education vs Jallianwala inquiry | हंटर आयोग / समिति |
+| Partition 1905 | Annulment 1911 | Curzon vs Hardinge II | बंगाल विभाजन / रद्द |
+| Simon 1927 | Nehru Report 1928 | All-white commission vs Indian constitutional draft | साइमन / नेहरू रिपोर्ट |
+| NCM 1920 | CDM 1930 | First mass non-cooperation vs Salt / Civil Disobedience | असहयोग / सविनय अवज्ञा |
+| Cripps 1942 | Cabinet Mission 1946 | Wartime offer vs three-tier / interim path | क्रिप्स / कैबिनेट मिशन |
+| Chauri Chaura 1922 | Kakori 1925 | NCM ends vs HRA-era train action (UP) | चौरी चौरा / काकोरी |
 
 
 ---

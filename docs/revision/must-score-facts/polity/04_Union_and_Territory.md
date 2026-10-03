@@ -98,7 +98,7 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**B — 2 and 4.** SRC = Fazl Ali (chair), K.M. Panikkar, H.N. Kunzru.
+**Ans: B** — 2 and 4. SRC = Fazl Ali (chair), K.M. Panikkar, H.N. Kunzru.
 
 </details>
 
@@ -113,7 +113,7 @@ D. Altering the name of a State — Power of a State Legislature
 <details>
 <summary>Show answer</summary>
 
-**D.** Name of a State is altered by **Parliament (Art. 3)**.
+**Ans: D** — Name of a State is altered by **Parliament (Art. 3)**.
 
 </details>
 
@@ -128,7 +128,7 @@ D. Official Language — Part XVII
 <details>
 <summary>Show answer</summary>
 
-**C.** Tribunals = Part XIVA. (UTs = Part VIII is correct.)
+**Ans: C** — Tribunals = Part XIVA. (UTs = Part VIII is correct.)
 
 </details>
 
@@ -148,7 +148,7 @@ D. IV, II, III, I
 <details>
 <summary>Show answer</summary>
 
-**B** — I (Part I), III (Part II), IV (Part IV), II (Part IVA).
+**Ans: B** — I (Part I), III (Part II), IV (Part IV), II (Part IVA).
 
 </details>
 
@@ -163,7 +163,7 @@ D. 69th
 <details>
 <summary>Show answer</summary>
 
-**D — 69th Amendment, 1991** (NCT; NCR is a separate statutory region).
+**Ans: D** — 69th Amendment, 1991 (NCT; NCR is a separate statutory region).
 
 </details>
 
@@ -178,7 +178,7 @@ D. Admission of new States
 <details>
 <summary>Show answer</summary>
 
-**D.** Admission = **Art. 2**.
+**Ans: D** — Admission = **Art. 2**.
 
 </details>
 
@@ -193,7 +193,7 @@ D. Article 6 to 11
 <details>
 <summary>Show answer</summary>
 
-**C — 5 to 11.**
+**Ans: C** — Articles 5 to 11.
 
 </details>
 
@@ -208,7 +208,7 @@ D. Part IX
 <details>
 <summary>Show answer</summary>
 
-**B — Part II.**
+**Ans: B** — Part II.
 
 </details>
 
@@ -223,7 +223,7 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**B — 20.**
+**Ans: B** — 20.
 
 </details>
 
@@ -246,7 +246,7 @@ D. None of the above
 
 **Logic:** Present map + Preamble-style description of the Union.
 
-**Ans: C.** Both statements are correct. India is a **Union of States** with **28 States and 8 UTs** and a parliamentary system. Trap: outdated counts such as 29 States or 7/9 UTs.
+**Ans: C** — Both statements are correct. India is a **Union of States** with **28 States and 8 UTs** and a parliamentary system. Trap: outdated counts such as 29 States or 7/9 UTs.
 
 </details>
 
@@ -264,7 +264,7 @@ D. Bharat, Hindustan and India
 
 **Logic:** Art. 1(1) naming formula.
 
-**Ans: A.** **Article 1** says **India, that is Bharat**. Hindustan is not a constitutional name. Trap: adding Hindustan as a third official label.
+**Ans: A** — **Article 1** says **India, that is Bharat**. Hindustan is not a constitutional name. Trap: adding Hindustan as a third official label.
 
 </details>
 
@@ -282,7 +282,7 @@ D. The Union of States
 
 **Logic:** Art. 1 wording — Union not federation.
 
-**Ans: D.** **Article 1** declares India to be a **Union of States**. Territory = States + UTs + acquired territory. Trap: calling it a federation or confederation in the Art. 1 sense.
+**Ans: D** — **Article 1** declares India to be a **Union of States**. Territory = States + UTs + acquired territory. Trap: calling it a federation or confederation in the Art. 1 sense.
 
 </details>
 
@@ -301,7 +301,7 @@ E. Article 5
 
 **Logic:** Art. 3 forms/alters existing map; Art. 2 admits new.
 
-**Ans: C.** **Article 3** empowers Parliament to form a new State by separation or union of existing territory. **Article 2** is admission/establishment of a State that was not already a State of the Union. Trap: swapping Art. 2 and Art. 3.
+**Ans: C** — **Article 3** empowers Parliament to form a new State by separation or union of existing territory. **Article 2** is admission/establishment of a State that was not already a State of the Union. Trap: swapping Art. 2 and Art. 3.
 
 </details>
 
@@ -319,7 +319,7 @@ D. States’ Reorganisation Commission
 
 **Logic:** Who legislates under Art. 3.
 
-**Ans: A.** Only **Parliament** may form a new State under **Article 3**. The President recommends and refers for views; SRC only recommended. Trap: treating the President or SRC as the carving authority.
+**Ans: A** — Only **Parliament** may form a new State under **Article 3**. The President recommends and refers for views; SRC only recommended. Trap: treating the President or SRC as the carving authority.
 
 </details>
 
@@ -337,6 +337,6 @@ D. Supreme Court
 
 **Logic:** Art. 3 boundary power.
 
-**Ans: A.** **Parliament** alters State boundaries under **Article 3**. Trap: Lok Sabha alone or President by fiat.
+**Ans: A** — **Parliament** alters State boundaries under **Article 3**. Trap: Lok Sabha alone or President by fiat.
 
 </details>

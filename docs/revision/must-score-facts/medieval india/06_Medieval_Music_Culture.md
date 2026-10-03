@@ -54,23 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. Tansen's pre-Akbar patron was **not** from Mewar, Malwa, or Gujarat; the correct answer is **Raja Ramchandra of Bhata**.
-2. **Tappa** was **not** refined under Akbar; it developed under **Muhammad Shah**.
-3. **Khayal** was **not** Akbar's signature form; Akbar patronised **dhrupad**, while khayal bloomed under **Muhammad Shah**.
-4. The primary drum of **dhrupad** is **pakhawaj**, not tabla.
-5. **Amir Khusrau** and **Tansen** were **not** contemporaries; Khusrau died in **1325**.
-6. In music-treatise match stems, **Raga Vibodh** is by **Somanath**, not Khusrau (separate from the literary Khusrau pair).
-7. **Sama** does **not** fully explain all Persian music translations as the sole reason — both statements can be true without R explaining A.
-8. **Qawwali** is a Sufi congregational form, not court dhrupad.
-9. **Chaturdandi Prakashika** was **not** written by Pundrik Vitthal; the author is **Venkatraman/Venkatamakhin**.
-10. **Rasa Kaumudi** was **not** written by Somanath; the author is **Sri Kantha**.
-11. **Naqshbandi** Sufis were **not** sama patrons; they opposed music and syncretism.
-12. **Tansen** was **not** a member of the Carnatic Trinity.
-13. **Tarana** and **Tappa** are different: tarana is a syllable-based form linked to Khusrau, while tappa is a later Mughal light form.
-14. **Aurangzeb's** court was **not** the peak of imperial music patronage; patronage declined and shifted to regional centres.
-15. **Sadarang** belongs to the **Muhammad Shah** khayal circle, not Akbar's court.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Dhrupad | Khayal | Oldest + **pakhawaj** vs dominant today + **tabla** | ध्रुपद / ख्याल |
+| Tansen | Amir Khusrau | Akbar dhrupad Navratna vs Sultanate Nizamuddin + qawwali | तानसेन / अमीर खुसरो |
+| Tappa | Thumri | Fast camel-song; **Muhammad Shah** court vs Awadh–Banaras romantic | टप्पा / ठुमरी |
+| Qawwali | Sama | Sufi chorus form linked to Khusrau vs Chishti musical assembly | क़व्वाली / समा |
+| Somanath | Khusrau (Raga Vibodh) | 2021/2022 treatise author vs 2019 literary-list pair | सोमनाथ / खुसरो |
+| Akbar | Muhammad Shah music | Dhrupad peak (Tansen) vs Khayal/Tappa later bloom | अकबर / मुहम्मद शाह |
+| Tabla | Pakhawaj | Khayal/thumri accompaniment vs dhrupad drum | तबला / पखावज |
 
 
 ---

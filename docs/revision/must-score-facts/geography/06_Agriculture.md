@@ -54,43 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Wheat = kharif / cotton = rabi** — FALSE. Wheat **rabi**; cotton **kharif**.
-2. **CACP / RBI / NITI decides MSP** — FALSE. CACP **recommends**; **Cabinet** decides.
-3. **Cane price = cereal MSP** — FALSE. Cane = **FRP** (+ possible SAP).
-4. **Borlaug Nobel = Agriculture** — FALSE. **Peace**.
-5. **Kurien = Green Revolution** — FALSE. Kurien = **White / milk**; Swaminathan = GR.
-6. **Yellow = horticulture** — FALSE. Yellow = **oilseeds**; Golden = horticulture **and honey**.
-7. **UP–Jute / Gujarat–Tea / Assam–Wheat** — FALSE. Correct pair in that set: **Kerala–Rubber**.
-8. **Ahmedabad = India’s largest cotton textile centre** — FALSE. In cotton *region* yes; largest mill centre traditionally **Mumbai**.
-9. **Maharashtra coops explain UP’s lower cane yield** — FALSE. UP leads quantity; Maharashtra leads productivity. Cooperatives do not cause that yield gap.
-10. **CIP potato centre = Aligarh** — FALSE. **Agra (Singna)**; UP is potato leader.
-11. **Sultana/Gulabi/Kali Champa = grapes** — FALSE. They are **guava** varieties. The name Sultana is the grape mix-up.
-12. **ACZ = 127 or 20** — FALSE. Planning ACZ = **15**; NARP ~127; AER ~20.
-13. **Azolla = insecticide** — FALSE. **Biofertiliser** in flooded rice (2023).
-14. **Food entitlements = Swaminathan** — FALSE. **Amartya Sen**.
-15. **Tea = zaid cereal** — FALSE. **Plantation** perennial.
-16. **Only one wheat belt** — FALSE. Ganga–Satluj plains **and** Deccan black-soil wheat.
-17. **Cotton = golden fibre** — FALSE. Cotton = **white gold**; jute = **golden fibre**.
-18. **Any NE state = first organic** — FALSE. **Sikkim** is the first fully organic state.
-19. **India is always rice #1** — FALSE. Textbook rank is **#2 after China**. The **2024–25** GoI claim of first place is a separate recent claim.
-20. **Punjab is always India’s largest rice producer** — FALSE. It is the **yield** king; **West Bengal** often leads **volume**.
-21. **DSR needs more standing water than transplanting** — FALSE. DSR is the **water-saving** method.
-22. **BGREI is a Punjab second Green Revolution** — FALSE. It is an **eastern** rice-system programme.
-23. **India has 20 agro-climatic and 15 agro-ecological regions** — FALSE. Counts are **swapped** (ACZ 15; AER 20).
-24. **First agri university = 1950 / Ludhiana** — FALSE. **Pantnagar, 1960** (later GBPUAT).
-25. **History of Indian Agriculture = Swaminathan** — FALSE. Author is **M.S. Randhawa**.
-26. **Mixed farming = two crops only** — FALSE. Mixed farming = crops **plus livestock**.
-27. **Double cropping = two crops at the same time** — FALSE. That is closer to inter / parallel cropping; double = two crops in **one year**.
-28. **Agmark = egg co-op** — FALSE. It is a **1937** quality grading mark.
-29. **Fertigation works best with rock phosphate** — FALSE. Avoid rock / super phosphate (precipitation).
-30. **Blue Revolution = poultry** — FALSE. Blue = **fisheries / pisciculture**.
-31. **Sugarcane breeding HQ = Lucknow only** — FALSE. Classic breeding institute is **Coimbatore**.
-32. **Coffee Board HQ = Hyderabad** — FALSE. **Bengaluru**.
-33. **Contract farming pioneer = Haryana** — FALSE. Classic pioneer is **Punjab**.
-34. **FAO safe grain moisture = 18%** — FALSE. About **14%**.
-35. **Seed Village = ban buying seed** — FALSE. It trains farmers to produce quality seed for self-use and neighbours at affordable cost.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **May 2026** | CCEA raised MSP for **14 Kharif (खरीफ)** crops, MS 2026–27; common paddy **₹2,441/q** (+₹72); Grade A ₹2,461 | Latest paddy MSP figure | PIB / CCEA |
+| Static rule | MSP for **22 mandated crops**; CACP recommends, Cabinet decides; target **≥1.5×** all-India cost (Budget 2018–19) | Institution > old rupees | PIB |
+| 2025–26 Kharif | Highest MSP hike then: nigerseed, ragi, cotton, sesamum; extra push pulses/oilseeds/**Shree Anna** | Diversification narrative | PIB |
+| Ongoing | **PM-AASHA** (PSS via NAFED/NCCF); **e-NAM**; **PM-KISAN**; **PMFBY** | Scheme names | DA&FW |
+| 2025 | Delhi **bio-decomposer** (fungal mix, free) for stubble | Free fungal mix for stubble-to-manure | PYQ / GNCTD |
 
 
 ---

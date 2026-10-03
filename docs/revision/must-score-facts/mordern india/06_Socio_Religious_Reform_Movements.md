@@ -54,45 +54,22 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Satyashodhak founder = Roy or Ranade** → **Jyotiba Phule (1873)**.
-2. **Phule = peasant / CDM / trade union** → **anti-caste**.
-3. **Tilak supported Age of Consent 1891** → he **opposed** it; **Malabari** advocated it.
-4. **Karve = Sanskrit College** → that is **Vidyasagar**. Karve = Widow Remarriage Association.
-5. **Bethune = child-marriage crusade** → Bethune = **girls’ school, Calcutta**; crusade = **Malabari**.
-6. **Radhasoami = Lahore** → **Agra**. Deva Samaj = **Lahore**, not Banaras.
-7. **Arya Samaj = Roy 1828** → Roy = **Brahmo**; Arya = **Dayanand, 1875**.
-8. **Vivekananda founded the Mission in 1893** → Chicago **1893**; Mission **1897**.
-9. **Sir Syed founded Deoband** → Deoband **1866** = Nanautawi / Gangohi; Sir Syed = **Aligarh 1875**.
-10. **Annie Besant founded Theosophy in 1875** → **Blavatsky and Olcott**, New York.
-11. **Native Marriage Act = 1856 or 1891** → **1872**. 1856 = widow remarriage; 1891 = Age of Consent.
-12. **Prarthana Samaj = Phule** → **Bombay 1867**; Phule = Satyashodhak.
-13. **Aligarh = Deoband** → college modernity vs madrasa revival.
-14. **Sati ban = Roy’s law** → Roy campaigned; **Bentinck, 1829** passed the regulation.
-15. **Periyar never joined NCM / never left Congress** → he did both; left in **1925**.
-16. **SNDP = a Maharashtra or Bengal body** → it is **Kerala**, Ezhava community, founded 1903 under Narayana Guru’s inspiration.
-17. **Self-Respect Movement founded by Narayana Guru** → founder is **Periyar E.V. Ramaswami Naicker, 1925**; Narayana Guru founded SNDP.
-18. **Singh Sabha = a branch of Arya Samaj** → separate Sikh identity movement; it formed partly **against** Arya Samaj’s shuddhi pressure.
-19. **Pandita Ramabai = Secretary, Widow Remarriage Association** → that post is **D.K. Karve’s**; Ramabai ran Sharada Sadan and Mukti Mission.
-20. **Paramahansa Mandali = Prarthana Samaj** → Mandali is **1849, secret**; Prarthana Samaj is **1867, public**.
-21. **Annie Besant founded the Theosophical Society** → founders are **Blavatsky and Olcott, 1875**; Besant became President only in **1907**.
-22. **Wahabi and Ahmadiyya are the same stream** → Wahabi (Rae Bareli) turned militant; Ahmadiyya (Qadian, 1889) stayed peaceful and missionary.
-23. **D.K. Karve only ran the Widow Remarriage Association** → he also founded the **Indian Women’s University in 1916**, renamed **SNDT** in 1920.
-
-24. **Raja title = Bentinck / Brahmo followers** → **Akbar II**.
-25. **Roy opposed Western education** → he **advocated** it; he opposed Sati, child marriage, idolatry.
-26. **Adi Brahmo = Keshab** → Adi = **Debendranath**; Bhartiya/Neo = **Keshab**.
-27. **Atmiya Sabha = Debendranath** → **Roy, 1815**; Tattvabodhini = Debendranath **1839**.
-28. **Martin Luther of India = Roy / Vivekananda** → **Dayanand**.
-29. **Lokahitwadi = Ranade / Tilak** → **Gopal Hari Deshmukh**.
-30. **Dev Samaj = Agra / Roy** → **Shiv Narayan Agnihotri, Lahore 1887**.
-31. **Dharma Sabha = reformist Brahmo** → **Radhakant Deb**, orthodox (**1830**).
-32. **Servants of India = Ranade / Malaviya** → **Gokhale, 1905**.
-33. **Sharda Act = 1891 / Malabari** → **1929**, Har Bilas Sharda; 1891 = Age of Consent.
-34. **Age of Consent = Tilak supported** → **Malabari** advocated; **Tilak opposed**.
-35. **Bahujan Samaj = Ambedkar 1910** → **Mukund Rao Patil** stream; Ambedkar is later/different bodies.
-36. **Ramakrishna Mission founded by Ramakrishna** → founded by **Vivekananda, 1897**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Brahmo Samaj | Arya Samaj | Reasoned monotheism and anti-idolatry vs “Back to the Vedas” and shuddhi | ब्रह्म समाज / आर्य समाज |
+| Aligarh | Deoband | Modern Western-style college vs traditional madrasa revival | अलीगढ़ / देवबंद |
+| Jyotiba Phule | Raja Ram Mohan Roy | Anti-caste work in Maharashtra vs Bengal elite religious reform | ज्योतिबा फुले / राम मोहन राय |
+| Malabari | Tilak (1891) | Pushed the Age of Consent Act vs opposed British interference in Hindu marriage | मालाबारी / तिलक |
+| Vidyasagar | D.K. Karve | Bengal widow remarriage and Sanskrit College vs Widow Remarriage Association in western India | विद्यासागर / कर्वे |
+| Ramakrishna | Vivekananda | Saint of Dakshineswar vs disciple who founded the Mission and spoke at Chicago | रामकृष्ण / विवेकानंद |
+| Prarthana Samaj | Brahmo Samaj | Bombay reform circle vs Bengal origin | प्रार्थना समाज / ब्रह्म समाज |
+| Satyashodhak Samaj | Prarthana Samaj | Phule’s truth-seeking anti-caste sabha vs Ranade’s liberal religious reform | सत्यशोधक / प्रार्थना |
+| Paramahansa Mandali | Prarthana Samaj | Secret 1849 Bombay circle against caste and idolatry vs public 1867 Bombay reform body | परमहंस मंडली / प्रार्थना समाज |
+| SNDP Yogam | Self-Respect Movement | Narayana Guru’s Kerala one-caste-one-god Ezhava uplift vs Periyar’s Tamil anti-Brahmin rationalism | एसएनडीपी / स्वाभिमान आंदोलन |
+| Singh Sabha | Arya Samaj | Sikh identity revival at Amritsar/Lahore vs Dayanand’s Vedic revival; both answered missionary and reform pressure | सिंह सभा / आर्य समाज |
+| Pandita Ramabai | D.K. Karve | Poona/Bombay women’s education, Sharada Sadan and Mukti Mission vs Widow Remarriage Association and SNDT | रमाबाई / कर्वे |
+| Wahabi movement | Ahmadiyya movement | Sayyid Ahmad of Rae Bareli’s militant revivalist stream vs Mirza Ghulam Ahmad’s peaceful messianic stream | वहाबी / अहमदिया |
+| Aligarh | Sir Syed Ahmad Khan | The institution (MAO College, 1875) vs its founder-reformer; always paired, never separated in a match | अलीगढ़ / सर सैयद |
 
 
 ---

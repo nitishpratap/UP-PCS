@@ -54,18 +54,11 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-| Trap | Correct fact |
-|------|----------------|
-| Art **48** vs **48A** | Environment = **48A** (48 = agriculture/cows) |
-| Humus = abiotic? | **No** — organic, biotic-origin |
-| Mangrove = terrestrial? | **No** — coastal/transitional |
-| MoEFCC est. 1972? | **No** — **1985** (1972 = Stockholm) |
-| Lentic = flowing? | **No** — Lentic = **standing** |
-| Wildlife Day = 22 March? | **No** — **3 March** |
-| Agenda 21 = 1995? | **No** — **Rio 1992** |
-| Brundtland = *Limits to Growth*? | **No** — Brundtland = *Our Common Future* (1987) |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2023** | **Amrit Dharohar Scheme** — wetlands conservation; launched on WED 2023 | Wetlands + governance |
+| **2023** | **National Green Hydrogen Mission** | SD / climate policy overlap |
+| **2019** | **NCAP** (राष्ट्रीय स्वच्छ वायु कार्यक्रम) — 132 cities; 20–30% PM2.5/PM10 reduction target by 2024 | Urban (नगरीय) environment governance |
 
 
 ---

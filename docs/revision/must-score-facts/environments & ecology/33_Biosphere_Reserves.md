@@ -33,24 +33,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Nokrek = Manipur | **Meghalaya** |
-| Simlipal = Madhya Pradesh | **Odisha** |
-| UP has a Biosphere Reserve | **Zero** |
-| Nanda Devi = UP | **Uttarakhand** |
-| Manas no longer a BR | Still **national** BR; UNESCO removed 2011 |
-| BR = WPA category | **Executive / MAB**, not WPA Sec 35 |
-| Core allows farming | **No** exploitative use in core |
-| Dudhwa / Valmiki = UP BR | NP / Bihar NP — not UP BR |
-| Agasthyamalai = Assam | **Kerala (+ TN)** |
-| First BR = Nanda Devi | **Nilgiri 1986** |
-| BR only for a few species | Conserves **all forms of life** + sustainable use |
-| Largest BR = Nokrek | **Great Rann of Kutch** (national); Gulf of Mannar often largest UNESCO-certified |
-| Khangchendzonga = HP | **Sikkim**; Cold Desert = HP |
-| Bundala = India | **Sri Lanka** |
-| Nallamalai = Indian BR | **Not** a notified BR |
-| Transition = no people | Transition = **settlements / livelihoods** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Biosphere Reserve (BR)** | **National Park (NP)** | Landscape-level conservation integrating human livelihoods (MAB 3-tier zoning) vs species/habitat preservation strictly excluding human activity | जैवमंडल आरक्षित क्षेत्र / राष्ट्रीय उद्यान |
+| **National BRs in India** | **WNBR (UNESCO) Listed** | Total **18** Biosphere Reserves designated by MoEFCC vs **12** inducted into UNESCO's World Network of Biosphere Reserves | 18 राष्ट्रीय बायोस्फीयर / 12 यूनेस्को WNBR सूची |
+| **First BR in India** | **Latest BR added to WNBR** | **Nilgiri** (1986, TN/KER/KAR) vs **Panna** (2020, Madhya Pradesh) | प्रथम बायोस्फीयर (नीलगिरि 1986) / नवीनतम यूनेस्को (पन्ना 2020) |
+| **Core Zone** | **Buffer Zone** | Legally protected untouched sanctum sanctorum vs zone surrounding core where research, education, and limited tourism are permitted | कोर क्षेत्र (पूर्णतः सुरक्षित) / बफर क्षेत्र (सीमित गतिविधि) |
+| **Buffer Zone** | **Transition Zone** | Managed area buffering the core vs outermost area where local communities, agriculture, and settlements sustainably coexist | बफर जोन / संक्रमण क्षेत्र (बस्तियां/खेती) |
+| **Nokrek Biosphere Reserve** | **Loktak Lake** | Located in Garo Hills, **Meghalaya** (Citrus indica) vs freshwater wetland in **Manipur** | नोकरेक (मेघालय) / लोकटक (मणिपुर) |
+| **Uttar Pradesh BR count** | **Madhya Pradesh BR count** | **Zero** Biosphere Reserves in UP vs **3** Biosphere Reserves in MP (Pachmarhi, Achanakmar-Amarkantak, Panna) | यूपी (शून्य बायोस्फीयर) / म.प्र. (3 बायोस्फीयर) |
 
 
 ---

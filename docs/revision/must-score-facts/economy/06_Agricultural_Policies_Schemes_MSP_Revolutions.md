@@ -54,28 +54,12 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Topic | Classic trap | Correct truth |
-|---|---|---|
-| CACP vs CCEA | CACP finally fixes MSP | CACP **recommends**; **CCEA** approves |
-| Sugarcane price | Sugarcane gets MSP | Sugarcane gets **FRP** (Control Order 1966); States may add **SAP** |
-| MSP formula | Current = C₂ + 50% | Current benchmark = **1.5 × (A₂ + FL)**; C₂ + 50% = Swaminathan recommendation |
-| NDDB vs Flood | Both in 1970 | NDDB **1965**; Operation Flood **1970** |
-| PM-KISAN scope | Still only <2 ha | Expanded **June 2019** to all landholding farmer families (with exclusions) |
-| NFSA issue price | Still quote ₹2/₹3 | Under PMGKAY integration, covered grain is **free through Dec 2028** |
-| PHH vs AAY units | Swap person/household | PHH **5 kg/person**; AAY **35 kg/household** |
-| Golden Fibre vs Silver Fibre | Swap jute/cotton | Golden Fibre = **jute**; Silver Fibre = **cotton** |
-| Sweet Revolution | = sugarcane | Sweet = **beekeeping / honey** |
-| PMFBY compulsory | Always compulsory for loanee farmers | **Voluntary for all** from Kharif **2020** |
-| PMFBY replaced | Only NAIS | Replaced **NAIS and MNAIS** |
-| e-NAM agency / year | FCI / 2015 or 2017 | **SFAC**; launched **14 April 2016** |
-| Palm oil | Inside 22 MSP crops | Uses **Viability Price** under NMEO-OP |
-| FCI vs NAFED | FCI procures all MSP crops | FCI mainly **wheat–rice**; pulses/oilseeds PSS via **NAFED/NCCF** |
-| PM-AASHA | Only two components | **Three**: PSS + PDPS + PPSS |
-| AIF corpus | ₹50,000 Cr or ₹2 lakh Cr | **₹1 lakh crore** (2020–2032) |
-| CPRI location | Agra | **Kufri, Shimla** |
-| Bharat Ratna 2024 | Norman Borlaug | **M.S. Swaminathan** |
-| Agri PSL | 20% or 25% of ANBC | Agriculture **18%** of ANBC |
-| KCC effective rate | Flat 7% forever | Subvention + prompt repayment can make effective rate about **4%** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025 (UKPCS Pre)** | **Dr. Verghese Kurien** is the Father of the White Revolution. **NDDB** was established in **1965** at Anand, Gujarat. | Operation Flood was launched in **1970** — do not confuse NDDB founding (1965) with Flood launch (1970). |
+| **2024 (UPPCS Pre)** | CACP recommends MSP for **22 mandated crops** + **FRP** for sugarcane. | Sugarcane gets **FRP**, not MSP (Sugarcane Control Order, 1966). |
+| **2024 (UKPCS Pre)** | National Commission on Farmers (Swaminathan, 2006) recommended MSP at least **C₂ + 50%**. | Government currently fixes MSP at **1.5 × (A₂ + FL)**, not C₂ + 50%. |
+| **2025–2026 focus** | **PMGKAY** free foodgrain (5 kg/person/month for Priority Households; 35 kg/household/month for AAY) extended under NFSA through **December 2028**. | Older NFSA issue prices of ₹2/₹3 per kg were reduced to **₹0 (100% free)** under the PMGKAY integration. |
 
 
 ---

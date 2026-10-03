@@ -54,19 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-* RBI issues notes (not tax, census, foreign policy); ₹1 is the government exception.
-* MPC = **6** members, **Governor** chairs, CPI **4% ± 2%** — not Finance Minister as Chair.
-* Repo injects; reverse repo / SDF absorbs; CRR = cash with RBI (no interest); SLR = liquid assets with bank.
-* Payments Banks ≠ loan banks; Small Finance Banks can lend.
-* Inclusion: nationalisation + RRBs + village adoption; LBS = **Lead Banking Scheme** (not Loan Banking…).
-* Rural chronology: **RRB 1975 → NABARD 1982 → SHG 1992 → KCC 1998**.
-* SHG pioneer = **NABARD**; group shares repayment burden; RRBs + SCBs finance.
-* Narasimham = banking reforms (cut SLR/CRR); Bhandari = RRB restructuring; Rajan 2008 = next-gen FSR.
-* FSDC Chair = **Finance Minister** — not NITI; CRA regulator = **SEBI**.
-* Plastic / smart money ≈ **credit card**; UPI = Unified Payments Interface.
-* KCC = consumption **and** investment credit; Ombudsman orders are **not** final without further remedy.
-* NABARD = apex refinance — not “RBI is the agri refinance apex” in the UKPCS key.
-* Appreciation ≠ depreciation; exchange-rate regimes deepen in Topic 4/9 as needed.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025 (UKPCS)** | **One State, one RRB** wave: government announced merger of **26** RRBs (ten States / UTs), taking the national RRB count from **43 → 28**. | Merger arithmetic stem. |
+| **2024** | RBI’s standout Prelims function among distractors: **issue of currency notes** (not income tax, census, or foreign policy). | Simple function stem. |
+| **2024** | Financial inclusion steps keyed together: **bank nationalisation + RRBs + village adoption by branches**. | All three count. |
+| **MPC / FIT** | Flexible inflation targeting: headline **CPI 4% ± 2%**; **6-member MPC**; **RBI Governor** chairs (not Finance Minister). | Toolkit identity vs Topic 4 index depth. |
+| **SDF (2022)** | Standing Deposit Facility absorbs liquidity **without** collateral; sits with LAF corridor teaching. | Floor of the corridor story. |
 
 
 ---

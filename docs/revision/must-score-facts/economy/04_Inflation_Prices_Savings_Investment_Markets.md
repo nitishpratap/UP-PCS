@@ -54,14 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-* **Retail / headline** = **CPI (Combined)**; **WPI** = Commerce & Industry, goods only, no services.
-* **Core** excludes food & energy; **headline** includes them.
-* **IIP** and **GDP deflator** are not the retail-inflation key.
-* Inflation helps **debtors**, hurts **bondholders / fixed income**.
-* **Bottleneck** inflation = supply / distribution — hard for demand tools alone.
-* **Disinflation** ≠ **deflation**; **stagflation** = inflation + stagnation.
-* Money market = short-term; capital market = long-term; SEBI ≠ RBI.
-* Repo / MPC instruments live in Topic 3 — this chapter owns the **index** and **market-product** side.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2024 (UPPCS)** | **Retail inflation** in India is measured by **CPI** (not WPI / IIP / GDP deflator). | Four-way index trap. |
+| **2024 (UKPCS)** | Inflation including food and energy = **headline**; stripping them = **core**. | Headline ≠ core. |
+| **2021** | **WPI** released by **Ministry of Commerce and Industry** (OEA / DPIIT). | Not RBI / Finance / Consumer Affairs. |
+| **2021** | **Headline inflation** keyed on **Combined CPI**. | Not WPI or CPI-IW alone. |
+| **FIT link** | RBI targets **CPI** (Combined) at **4% ± 2%** — toolkit detail in Topic 3. | Index choice vs instrument choice. |
 
 
 ---

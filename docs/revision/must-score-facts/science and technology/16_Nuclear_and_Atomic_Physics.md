@@ -54,18 +54,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **The "Fusion is the Basis of Atom Bomb" Trap:**
-   - The Atom Bomb operates strictly on **nuclear fission**. The Hydrogen Bomb operates on **nuclear fusion** (initiated by a fission trigger).
-2. **The "Cadmium is a Fuel or Moderator" Trap:**
-   - Cadmium is **NEITHER a fuel NOR a moderator**; it has a very high neutron absorption cross-section and is used solely in **control rods** to absorb neutrons.
-3. **The "Commercial Reactors Need Highly Enriched Uranium" Trap:**
-   - Commercial power reactors require **Low Enriched Uranium (LEU: $3 - 5\%$)** or even un-enriched natural uranium ($0.7\%$, in PHWRs). Weapons-grade HEU requires $\ge 90\%$ enrichment.
-4. **The "Enrico Fermi Synthesized Transuranics" Trap:**
-   - Enrico Fermi attempted to synthesize transuranics in 1934 but failed. The synthesis of transuranic elements ($Z > 92$) was achieved by **Glenn T. Seaborg**.
-5. **The "Cyclotrons Accelerate Neutrons" Trap:**
-   - A cyclotron relies on the electromagnetic Lorentz force ($\vec{F} = q(\vec{E} + \vec{v} \times \vec{B})$). Because neutrons have **zero electric charge ($q=0$)**, they **cannot be accelerated by a cyclotron**.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Nuclear Fission** | **Nuclear Fusion** | Fission splits heavy nuclei (U-235) into smaller fragments (commercial reactors, A-bomb). Fusion combines light nuclei (deuterium/tritium) at extreme temperature (Sun, H-bomb). |
+| **Moderator** | **Control Rods** | Moderator **slows down fast neutrons** without absorbing them (heavy water, graphite). Control rods **absorb neutrons** to regulate/stop the reaction (Cadmium, Boron). |
+| **Fissile Material** | **Fertile Material** | Fissile isotopes undergo fission with slow thermal neutrons (U-235, Pu-239, U-233). Fertile isotopes are non-fissile but transmute into fissile fuel upon neutron capture (U-238 $\to$ Pu-239, Th-232 $\to$ U-233). |
+| **LEU ($3 - 5\%$)** | **HEU ($> 20\%$)** | Low Enriched Uranium (LEU) fuels civil commercial reactors. Highly Enriched Uranium (HEU) fuels naval reactors ($>50\%$) and nuclear weapons (weapons-grade $\ge 90\%$). |
+| **NPT (1968)** | **CTBT (1996)** | NPT prevents weapon proliferation and divides world into 5 NWS and NNWS (India did not sign). CTBT bans all nuclear test explosions in all environments (not yet in force). |
+| **Atom Bomb** | **Hydrogen Bomb** | Atom bomb is based on **uncontrolled fission** of uranium/plutonium. Hydrogen bomb is based on **uncontrolled fusion** of hydrogen isotopes, triggered by an atomic bomb. |
 
 
 ---

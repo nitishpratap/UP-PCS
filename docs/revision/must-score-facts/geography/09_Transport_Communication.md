@@ -54,45 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **SER HQ = Cuttack** — FALSE. **Garden Reach, Kolkata**.
-2. **NER HQ = Hajipur** — FALSE. **Gorakhpur**. Hajipur = **East Central**.
-3. **Amrit Bharat = 149 new railway lines** — FALSE. It modernises **stations**. As of Feb 2023 about **1,275** stations all-India, of which **149** were in **Uttar Pradesh**.
-4. **Gati Shakti launched 2022** — FALSE. **13 Oct 2021**; seven engines **true**.
-5. **Bharatmala = ports / Sagarmala = highways** — SWAP. Bharatmala = **roads**; Sagarmala = **port-led**.
-6. **Mau is off today’s Purvanchal Expressway** — FALSE for the **built** road (Lucknow–Ballia via Azamgarh–Mau). **Basti** is not on the main alignment. The 2018 stem “will not pass” had a different official key — see that full question in the PYQ bank.
-7. **Atal = world’s longest highway tunnel** — FALSE as a bare claim. **Pir Panjal** is the safe fact.
-8. **Igarka = China** — FALSE. **Russia**.
-9. **NW-1 = Brahmaputra** — FALSE. **Ganga, Haldia–Prayagraj**. NW-2 = Brahmaputra. NW-3 = **Kerala** canal. NW-4 = Kakinada–Puducherry. NW-5 = Talcher–Dhamra.
-10. **Kushinagar not international** — FALSE. Intl on **24 Jun 2020**.
-11. **First solar airport = Delhi / Ahmedabad** — FALSE. **Cochin**.
-12. **Optical fibre = refraction** — FALSE. **Total internal reflection**.
-13. **Motihari–Kathmandu pipeline** — FALSE. **Amlekhganj, Nepal**.
-14. **Paradip = Andhra / Alappuzha = Tamil Nadu** — FALSE. Paradip **Odisha**; Alappuzha **Kerala**.
-15. **UP has a major seaport** — FALSE. Identity = Gorakhpur, NW-1, expressways, Kushinagar/Jewar, 149 Amrit stations.
-16. **National Highways = most of India’s road kilometres** — FALSE. NH are ~**2%** of length but carry ~**40%** of traffic; rural roads are ~**80%** of length.
-17. **Inland waterways already move most Indian cargo** — FALSE. Share is tiny; sea still moves ~**95%** of trade by volume.
-18. **IWAI = NHAI** — FALSE. IWAI (1986) = inland waterways; NHAI (1995) = national highways.
-19. **Only three National Waterways exist** — FALSE. The 2016 Act declared **111**. The first five are the map you must know even if a paper has not yet asked NW-4 or NW-5.
-20. **Kakinada is a major-port-state fact for Odisha** — FALSE. Kakinada = **Andhra Pradesh**; Paradip = **Odisha**.
-21. **East–West Corridor = Dibrugarh–Surat / Dwarka** — FALSE. **Porbandar–Silchar**. Cross with NS at **Jhansi**.
-22. **Konkan Railway = Kerala main line** — FALSE. **Roha–Mangaluru** through MH–Goa–KA.
-23. **SER HQ = Bhubaneswar / SCR HQ = Hyderabad** — FALSE. SER = **Garden Reach, Kolkata**; East Coast = Bhubaneswar; SCR = **Secunderabad**.
-24. **North Western Railway HQ = Jodhpur** — FALSE. **Jaipur**.
-25. **Chennai = deepest natural port** — FALSE. Often **artificial**; Vizag/Paradip depth notes varies by stem.
-26. **Kandla = LNG terminal** — FALSE. LNG terminals are Dahej, Hazira, Kochi, Dabhol, Ennore.
-27. **Old NH-7 is still always the longest NH** — FALSE for current MoRTH data — often **NH-27 EW**; also note the **NH-44** corridor.
-28. **NS–EW meet at Nagpur / Gwalior** — FALSE. **Jhansi**.
-29. **First CNG train = Delhi–Agra** — FALSE. **Rewari–Rohtak**.
-30. **Sethusamudram = Cape Comorin only** — FALSE. Links **Gulf of Mannar** with **Palk Bay**.
-31. **City of Lakes = Jaisalmer** — FALSE. **Udaipur**. Jaipur = **Pink City**.
-32. **Sabarimala = Tamil Nadu / Karnataka** — FALSE. **Kerala**.
-33. **Haflong = Himachal / Kalimpong = Assam** — FALSE. Haflong = **Assam**; Kalimpong = **West Bengal**; Chakrata = **Uttarakhand**; Kufri = **HP**.
-34. **Omkareshwar = Satmala / Pushkar = Mahadeo** — FALSE. Only **Srisailam–Nallamala** was correct in IAS 2015 among those three.
-35. **Charkhari = ghost town** — FALSE. Ghost-town names are Kuldhara, Dhanushkodi, Lakhpat.
-36. **BARC = Karnataka** — FALSE. **Maharashtra**. Thumba = **geomagnetic equator** site in Kerala.
-37. **Moradabad sarees** — FALSE. Brassware; saree map = Chanderi / Banarasi / Kanjivaram.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **13 Oct 2021** | **PM Gati Shakti** National Master Plan launched (not 2022) | Year trap with seven engines |
+| **17 Sep 2022** | **National Logistics Policy** — complements Gati Shakti | Scheme pair |
+| **Feb 2023** | Amrit Bharat: about **1,275** stations all-India; **149** of them in UP for modernisation | 149 = UP stations, not new lines |
+| **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | RVNL + first vertical-lift fact |
+| **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa (गोवा)) | New airline + airport pair |
+| **2024–26** | **Noida International (Jewar)** — UP’s new greenfield intl hub | UP airport CA |
+| **DFC** | Western Dadri (ददरी)–JNPT / Eastern Ludhiana–Dankuni — phased opening | Freight spine |
 
 
 ---

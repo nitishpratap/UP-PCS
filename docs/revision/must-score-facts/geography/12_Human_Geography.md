@@ -54,36 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Ghaziabad = Central Smart City** — FALSE for Mission-100 / 2018–2020 keys. State-2019 list is a **different** tag.
-2. **UP Smart Cities = 12/15/18** — FALSE. Papers key **10**.
-3. **HRIDAY = Prayagraj / Ayodhya** — FALSE. **Varanasi + Mathura**. National total **12**, not 100.
-4. **SPMRM launched 2015** — FALSE as launch year. **21 Feb 2016**.
-5. **Class I town = 10 lakh** — FALSE. **1 lakh**. 10 lakh = million UA.
-6. **Census town = any big village / always a municipality** — FALSE. Triple test **or** statutory town; 75% is **male main** workers.
-7. **AMRUT = 2005** — FALSE. **2015**. **JNNURM = 2005**.
-8. **Rurbanization = M.N. Srinivas** — FALSE in that 2022 set. **G.S. Ghurye**.
-9. **Global Village = UN created it** — FALSE. **Transport + communication**.
-10. **Dispersed villages = Ganga plain / all of Thar** — FALSE. Plains = clustered. **Rajasthan = clustered (water)**. Dispersed = **Meghalaya, UK, HP, Kerala, NE forests**.
-11. **Smart village scheme = MoHUA Smart Cities** — FALSE. SPMRM = **MoRD**.
-12. **NCERT mega city = 10 lakh or only 1 crore** — FALSE. NCERT mega = **> 50 lakh (six)**; metro = **10–50 lakh**; UN megacity = **1 crore**.
-13. **ISAC Culture = Vadodara** — FALSE. Culture **Indore**; Governance **Vadodara**.
-14. **Determinism = Vidal / Possibilism = Ratzel** — SWAP. Determinism = **Ratzel/Semple**; Possibilism = **Vidal**.
-15. **Neo-determinism = free will without limits** — FALSE. **Griffith Taylor** stop-and-go.
-16. **Site = regional location** — FALSE. Site = **local ground**; situation = region.
-17. **Skip nature/scope because recent papers asked Smart Cities** — FALSE. Next year can ask approaches from the same topic.
-14. **Varanasi = major seaport town** — FALSE. Religious–cultural; HRIDAY yes.
-15. **2011 UA rank = Mumbai > Kolkata > Delhi** — that is **2001**. **2011 = Mumbai > Delhi > Kolkata > Chennai**.
-16. **Bhopal = river-bank town like Agra/Patna** — FALSE.
-17. **Hamleted = a census town** — FALSE. Local **panna/para/palli/nagla/dhani**, one village name.
-18. **75% workers in primary sector = census town** — FALSE. Need **non-agriculture** male main workers.
-
-
-### 🌐 Human Geography Core Theories & Concepts (Ghatnachakra Complete)
-- **Neo-Determinism ("Stop-and-Go Determinism" / Scientific Determinism)**: Advanced by **Griffith Taylor**. Holds that humans can accelerate, slow down, or stop nature's programme, but cannot depart from the broad physical conditions nature sets.
-- **Cultural Worlds (Introducing Cultural Geography)**: **J.E. Spencer and W.L. Thomas** divided the world into **11 cultural worlds**.
-- **Migration Theory**: Advanced by **Everett S. Lee** (Push and Pull factors; permanent or semi-permanent change of residence).
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **25 Jun 2015** | Smart Cities Mission + PMAY-U same day | Year pair vs JNNURM 2005 | MoHUA |
+| **Jun 2015** | AMRUT (~500 cities) | 2025 chronology | MoHUA |
+| **1 Oct 2021** | **AMRUT 2.0** — water-secure towns | Successor of AMRUT | PIB / MoHUA |
+| **21 Feb 2016** | **SPMRM** launched (not “2015 launch”) | 2023 Q143 | MoRD |
+| **ISAC-2020** | Indore/Surat best cities; **UP best state**; category winners above | 2022 Q26 | PIB / MoHUA |
+| **100 / 10** | 100 Smart Cities nationally; **10 Central in UP** | 2018 + 2020 | MoHUA |
+| **2019** | UP **State** Smart Cities (7 Nagar Nigams) | Does **not** change 2018/2020 keys of 10 | UP DoUD |
+| Mission window | Smart Cities Mission timeline extended to **31 Mar 2025** | Completing works | MoHUA |
 
 
 ---

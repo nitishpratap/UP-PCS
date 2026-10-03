@@ -54,21 +54,19 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. The Akademi classical count is **eight**, not seven. The one people drop is **Sattriya**, added in **2000**.
-2. **Chhau** is UNESCO-listed martial-folk. It is not the ninth SNA classical dance.
-3. **Kathak** is north Indian. **Kathakali** is Kerala dance-drama. Do not swap them.
-4. **Kathak** the dance is not the **Kathaka** reciter name from Vedic lists.
-5. Kerala has two classical forms: Kathakali (male, tandava, chutti) and Mohiniyattam (female, lasya, white-and-gold).
-6. Manipuri **Ras Lila** is not Braj **Raslila**, which is Uttar Pradesh folk.
-7. **Bihu** is Assam folk. **Sattriya** is Assam classical.
-8. **Garba** UNESCO **2023** is still folk, not classical.
-9. **Tribhanga** is Odissi. **Araimandi** is Bharatanatyam.
-10. **Tarangam** plate dance is Kuchipudi, not Mohiniyattam.
-11. Kathak uses **tabla** and Hindustani music. It does not use the Carnatic mridangam as its marker.
-12. **Cheraw** belongs to **Mizoram**, not Manipur.
-13. Lucknow Kathak belongs to **Uttar Pradesh**. **Kelucharan Mohapatra** is Odissi, not Lucknow Kathak.
-14. **Gotipua** are boys. **Mahari** are temple women.
-15. **Nritta** has no story. **Natya** is drama.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Kathak | Kathakali | North spins + Hindustani vs Kerala dance-drama + chutti | कथक / कथकली |
+| Kathakali | Mohiniyattam | Kerala male, heavy aharya vs Kerala female solo lasya | कथकली / मोहिनीअट्टम् |
+| Bharatanatyam | Odissi | Araimandi geometry vs tribhangi three bends | भरतनाट्यम् / ओडिसी |
+| Bharatanatyam | Kuchipudi | TN temple margam vs AP village dance-drama + plate | भरतनाट्यम् / कुचिपुड़ी |
+| Manipuri Ras Lila | Braj Raslila | Classical Manipur vs **UP folk** Krishna play | मणिपुरी रास / ब्रज रासलीला |
+| Lasya | Tandava | Grace (Parvati / Mohini) vs vigour (Shiva / Kathakali) | लास्य / तांडव |
+| Nritta | Nritya | Pure dance, no story vs expressive abhinaya | नृत्त / नृत्य |
+| Mahari | Gotipua | Odissi temple women vs boys dressed as women | महारी / गोटिपुआ |
+| SNA 8 | Chhau | Official classical eight vs UNESCO martial/folk, **not** the 8 | 8 शास्त्रीय / छऊ |
+| Folk | Tribal | Regional peasant festival vs adivasi ritual | लोक / आदिवासी |
+| Garba | Dandiya | Circle around lamp vs sticks | गरबा / डांडिया |
 
 
 ---

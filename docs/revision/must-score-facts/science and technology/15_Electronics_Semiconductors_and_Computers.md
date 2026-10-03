@@ -54,18 +54,18 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **The "Trojans Self-Replicate" Trap:**
-   - Both viruses and worms self-replicate, but **Trojans do NOT self-replicate or inject code into other files**. They rely on social engineering to trick the user into installing them.
-2. **The "Aadhaar Proves Citizenship" Trap:**
-   - Under Section 9 of the Aadhaar Act, 2016, an Aadhaar card is **proof of identity only, NOT proof of citizenship or domicile**.
-3. **The "1 MB = 1 Million Bytes Exactly" Trap:**
-   - In binary computing, $1\text{ MB} = 1024 \times 1024 = \mathbf{1,048,576\text{ Bytes}}$, which is approximately $1.05\text{ million bytes}$.
-4. **The "USA Signed the 2025 Paris AI Statement" Trap:**
-   - While over 50 countries (including India, France, and China) signed the Statement on Inclusive and Sustainable AI, **both the USA and the UK refused to sign**.
-5. **The "Data Link vs Network Layer Addressing" Trap:**
-   - **MAC addresses ($48\text{ bits}$)** live strictly at **Layer 2 (Data Link Layer)**, while **IP addresses ($32\text{-bit}$ or $128\text{-bit}$)** live at **Layer 3 (Network Layer)**.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Data** | **Information** | Data represents raw, unorganized, unprocessed facts and figures. Information is processed, organized, structured data endowed with contextual meaning. |
+| **Bit** | **Byte vs Nibble** | A bit is a single binary digit ($0$ or $1$). A byte is **$8\text{ bits}$**. A nibble is **$4\text{ bits}$** (half a byte). |
+| **RAM** | **ROM** | RAM is **volatile** primary memory lost on power down. ROM is **non-volatile** firmware memory retaining BIOS/UEFI instructions permanently. |
+| **SRAM** | **DRAM** | SRAM uses flip-flops, requires no refresh, is ultra-fast and expensive (used for CPU Cache). DRAM uses capacitor-transistor cells, requires continuous dynamic electrical refresh (used for Main RAM). |
+| **Virus** | **Worm vs Trojan** | A virus requires a host executable file and human action to propagate. A worm is standalone and self-propagates automatically across networks. A Trojan disguises itself as legitimate software and **does NOT self-replicate**. |
+| **White Hat Hacker** | **Black Hat Hacker (Cracker)** | White hat hacks authorized systems to expose flaws and patch security. Black hat (cracker) breaks into systems unlawfully for sabotage, data theft, or financial fraud. |
+| **Compiler** | **Assembler vs Interpreter** | Compiler translates an entire high-level program into machine code at once. Interpreter translates and executes high-level code line-by-line. Assembler converts low-level assembly mnemonics into machine code. |
+| **IPv4 ($32\text{-bit}$)** | **IPv6 ($128\text{-bit}$)** | IPv4 uses 32 bits ($4\text{ octets}$, $4.3\text{ billion}$ addresses). IPv6 uses 128 bits ($8\text{ groups of } 4\text{ hex digits}$, $3.4 \times 10^{38}$ addresses). |
+| **MAC Address** | **IP Address** | MAC address is a permanent physical hardware address ($48\text{ bits}$) at Layer 2. IP address is a logical network address assigned by router/ISP at Layer 3. |
+| **Augmented Reality (AR)** | **Virtual Reality (VR)** | AR overlays digital computer-generated elements onto the real physical world (e.g. smartphone camera, Pokémon Go). VR completely shuts out the physical world into a simulated immersive digital environment (e.g. VR headsets). |
 
 
 ---

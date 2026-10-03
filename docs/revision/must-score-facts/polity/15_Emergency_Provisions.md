@@ -46,31 +46,17 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-**Wrong stem → correct fact.**
-
-- “356 establishes the Supreme Court” → **Art. 124**. Article 356 is President’s Rule.
-- “352 grounds are still ‘internal disturbance’” → **armed rebellion** (44th Amendment).
-- “352 can rest on the PM’s oral okay” → needs **written Cabinet** advice (44th).
-- “358 applies in an armed-rebellion Emergency” → 358 applies **only** in war / external aggression.
-- “359 can suspend Article 21” → **never** Arts. 20 and 21 (44th).
-- “356 approval needs special majority” → **simple** majority; special majority is for **352**.
-- “352 approval window is 2 months” → **1 month** (44th).
-- “360 was used in 1991 / 1997” → **never** used.
-- “Martial law = Art. 352” → Art. **34** indemnity; there is no martial-law proclamation article.
-- “356 dissolves the Assembly on day one” → *Bommai*: wait for **parliamentary** approval.
-- “Financial Emergency suspends FRs” → **No**.
-- “Lok Sabha life extends automatically for 5 more years” → **1 year** at a time, and not beyond **6 months** after 352 ends.
-- “Rajya Sabha can force revocation of 352” → only a **Lok Sabha** disapproval can force revoke.
-- “Residual powers = Australia” → residuary = **Canada**. Emergency FR-suspension idea = **Germany** (2021).
-- “352 always needed special majority” → original approval was **simple**; the **44th** made it special.
-- “President may take over a High Court under 356” → the President **expressly cannot**.
-- “358 covers every 352, including armed rebellion” → **only** war / external aggression.
-- “353 directions only on the Union List” → directions may cover **any** matter; proviso applies if 352 is territorial.
-- “Martial law = Art. 33” → **33** = armed-forces FR restriction; martial indemnity = **34**.
-- “360 suspends FRs / needs 6-month renewal” → **no** FR switch; it runs till revoked.
-- “Only the Lok Sabha (not State Assemblies) can be extended in 352” → **Art. 172** too — one year at a time.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **352** | **356** | National / security | State constitutional machinery |
+| **352** | **360** | War / aggression / rebellion | Financial stability / credit |
+| **358** | **359** | Art. **19** auto (war/external only) | Other FRs by **order**; not **20 & 21** |
+| **Special majority (352)** | **Simple (356/360)** | Total membership + 2/3 P&V, both Houses | Ordinary majority, both Houses |
+| **1 month (352)** | **2 months (356/360)** | Time to get parliamentary approval | |
+| **Martial law** | **National Emergency** | Military, local, Art. **34** | Constitutional, civilian, **352** |
+| **355** | **356** | Union **duty** to protect States | The **proclamation** that takes over |
+| **National Emergency** | **State Emergency** | Textbook name for **352** | Textbook name for **356** (the Constitution never uses that phrase) |
+| **External 352** | **Internal 352** | War / external aggression (1962, 1971) | Armed rebellion (1975 was still “internal disturbance”) |
 
 
 ---

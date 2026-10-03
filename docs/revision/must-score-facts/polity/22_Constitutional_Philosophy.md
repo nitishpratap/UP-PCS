@@ -54,50 +54,19 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Constitution = constitutionalism | Booklet can exist without **limits** |
-| Constitutional morality = 42nd / a new article | **No text.** Grote → Ambedkar → SC 2018 |
-| Constitutional morality = public morality in Art. 19/25 | Opposite directions |
-| Dicey’s three limbs all apply in India | **Limb 3 does not** |
-| Equality before law = equal protection | Dicey **UK** vs **US** 14th. Art. 14 has **both** |
-| Art. 21 says due process | **Procedure established by law** (Japan). *Maneka* = content |
-| *Gopalan* is still the Art. 21 test | ***Maneka* 1978** |
-| CAD wanted US due process | **B.N. Rau** steered **away** from it |
-| India has no SOP | **Functional** SOP + fusion. Not US rigidity |
-| Art. 50 is a Fundamental Right | **DPSP** |
-| Fusion = no checks | Cabinet-in-House **is** the parliamentary check pattern |
-| Parliamentary system ⇒ parliamentary sovereignty | UK Dicey **≠** India |
-| Judicial review = judicial supremacy | Review is a **tool under** the Constitution |
-| *Kesavananda* created parliamentary sovereignty | It **killed** the unlimited-amendment claim |
-| PIL 2025 A/R | Both true, R explains A: PIL gives weaker sections a path to RoL |
-| CAG/EC are extra-constitutional checks | They are **constitutional** offices |
-| Art. 50 = the whole SOP doctrine | Only **services**; *Ram Jawaya* is the SOP case |
-| *Maneka* deleted the need for a law | *Lex* survives; *jus* was **added** |
-| 24th Amd restored Dicey sovereignty | It buried *Golaknath*’s “amendment = law under 13”. **Basic Structure** still binds 368 |
-| 368(4)(5) still bar the Court | ***Minerva* struck them** |
-| *Marbury* is an Indian article | **US 1803**. India writes review into **13/32/226** |
-| India not secular until 1976 | **Word** = 42nd. **Code** = Arts. **25–28** from 1950 |
-| Indian secularism = US wall | **Positive** / equal respect; Art. **25(2)** allows reform |
-| Socialist = Marxist one-party State | **Democratic** socialism / mixed economy |
-| 1991 deleted Socialist from Preamble | **Did not** |
-| Welfare State invented Part IV in 1976 | Part IV is **1950**. Art. **38** is the lead |
-| Republic added by 42nd | **1950**. 42nd added Socialist + Secular |
-| Preamble liberty = Art. 19’s six freedoms | Preamble **5** (thought…worship). Art. 19 **6** different list |
-| Equality in Preamble has 5 components | **2** — status and opportunity |
-| Fraternity has 3 types | **1** ideal; dignity + unity/integrity are what it *assures* |
-| Federal is a Preamble word | **Not there** |
-| Democracy = majority custom | Free-fair elections **and** constitutional morality (the limitation half) |
-| Preamble lists liberty of person | **Five** are thought…worship. Person/body = **Art. 21** |
-| Thought = Art. 19(1)(a) by name | 19(1)(a) is **speech and expression**. Thought is Preamble |
-| Indian Preamble = French triad only | India **prefixes Justice** |
-| 368 is unlimited because it is “constituent” | Constituent ≠ Dicey-sovereign. **Basic Structure** |
-| Political sovereignty = legal sovereignty | People vs **Constitution** (India) / Parliament (UK) |
-| Integrity in the Preamble invented the idea in 1976 | **16th Amd 1963** already put integrity into **19** and the oaths |
-| Secularism as BS begins only in *Bommai* | *Kesavananda* listed **secular character**; *Bommai* applied it to **356** |
-| Sarva Dharma Sambhava = US wall | Equal **respect**, not equal **absence** |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2023** | SC: NCT **services** (except public order/police/land) with the elected government. Union **Ordinance/Act 2023** tried to park services with the LG | 2018 idea = LG is not a parallel CM. 2023 = the *services* fight. Don’t freeze the statute as if the judgment vanished |
+| **2021** | GNCTD **Amendment Act** enlarges the LG | Statutory push against the 2018 judgment — CA, not a new article |
+| **2018** | *NCT Delhi* (aid-and-advice) · *Navtej* (नवतेज जौहर) (§377) · *Sabarimala* | Constitutional morality **≠** majority custom |
+| **2017** | *Puttaswamy*: privacy = FR; *ADM Jabalpur* majority called wrong | Due-process content of Art. **21** survived Emergency’s worst case |
+| **2015** | **NJAC** (99th) struck | Review of an *amendment* = constitutional supremacy, not “judicial coup” as a syllabus answer |
+| **1994** | *Bommai*: secularism = Basic Structure | A communal State government can justify **356**. floor test; don’t dissolve first |
+| **1978** | *Maneka Gandhi (गांधी)* | The due-process *turn*. Art. 21 words unchanged |
+| **1978** | **44th (44वां संशोधन) Amendment** (44वां संशोधन): Art. **38(2)** inequalities; property out of Part III (मौलिक अधिकार) | Welfare clause thickened; socialism ≠ Art. 31 forever |
+| **1976** | **42nd** (42वां) prints **Socialist, Secular, integrity** | Names the ideals; does **not** invent Arts. 25–28 or Part IV (नीति निर्देशक) |
+| **1973–80** | *Kesavananda* (केशवानंद भारती 1973) → *Minerva* | Parliamentary sovereignty **refused**; constitutional supremacy **locked**. Secular character already in the BS *list* |
+| **1963** | **16th Amd** — sovereignty and integrity in Art. **19** restrictions + 3rd Schedule oaths | Integrity as a *liberty bound* before the Preamble (प्रस्तावना) printed the word (1976) |
 
 
 ---

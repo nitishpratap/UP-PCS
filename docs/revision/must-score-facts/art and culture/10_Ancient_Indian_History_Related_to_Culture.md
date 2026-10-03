@@ -54,21 +54,17 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **Rakhigarhi** is in **Haryana**, not UP. **Mandi, Hulas and Alamgirpur** are in **Uttar Pradesh.
-2. **Alamgirpur** is the **eastern** Harappan edge. **Manda** is the **north** (J&K).
-3. The **Great Bath** is at **Mohenjo-daro**, not Harappa and not Varanasi.
-4. **Boats** are from **Mohenjo-daro and Lothal**, not Kalibangan.
-5. **Gandhara uses **grey schist** and a Greco-Roman style. **Mathura** uses **red sandstone** and is in **Uttar Pradesh.
-6. The **Dancing Girl** is **bronze lost-wax**, not terracotta.
-7. **NBPW** is **Mauryan**, not Harappan painted ware.
-8. **Punch-marked** coins are not the **Gupta gold dinara**.
-9. The **first structural Hindu temple** is **Gupta** (Deogarh / Bhitargaon), not Maurya.
-10. **Barabar** is **Ajivika** and **Ashoka**, in Bihar. It is not Chandragupta’s standard donation card.
-11. **Bhimbetka** is linked to **Wakankar** and is MP prehistoric. It is not Gupta painting.
-12. The **IVC** is **urban** and grew wheat, barley and cotton. **Rigvedic** society is **pastoral**. Maize is not IVC.
-13. **Amaravati** uses **limestone** and **Aryaka-pillars**, not Mathura stone.
-14. **Sreni** is the general guild. **Manigrama** is the 2018 foreign-trade option.
-15. The **Sarnath Lion Capital** is Mauryan. The **Sarnath standing Buddha** is Gupta classical.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Gandhara | Mathura | Grey schist, Greco-Roman Buddha vs **red sandstone**, indigenous, **UP** | गांधार / मथुरा |
+| Mathura | Amaravati | UP red sandstone vs Andhra white limestone narrative | मथुरा / अमरावती |
+| Stupa | Chaitya | Solid relic mound vs rock-cut hall with apse stupa | स्तूप / चैत्य |
+| Rock-cut | Structural | Barabar / chaitya vs Gupta built temple | शैल-कट / संरचनात्मक |
+| Punch-marked | Gupta dinara | Irregular silver/copper vs die-struck **gold** | आहत मुद्रा / दीनार |
+| IVC | Rigvedic | Urban brick + seals vs pastoral | सिंधु / ऋग्वैदिक |
+| Alamgirpur | Rakhigarhi | **UP** eastern edge vs **Haryana** (largest, not UP) | आलमगीरपुर / राखीगढ़ी |
+| Terracotta | Bronze | Mother goddess / plough models vs **Dancing Girl** lost-wax | पकी मिट्टी / कांस्य |
+| Sreni | Nanadesi | General craft guild vs itinerant “many-country” merchants | श्रेणी / नानादेशी |
 
 
 ---

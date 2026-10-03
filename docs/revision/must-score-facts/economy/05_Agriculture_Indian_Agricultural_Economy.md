@@ -54,19 +54,12 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|---|---|---|
-| Agriculture % of GDP | 25-30% | Agriculture contributes **~17-18%** of GDP (2022-23) |
-| Agriculture employment | 60%+ | Agriculture employs **~45-48%** (down significantly) |
-| India's largest soil type | Black soil | **Alluvial soil** is largest (~43%); Black soil = ~15% |
-| Black soil crops | Rice, wheat | Black soil = **Cotton** (primary); "Regur" or "Cotton soil" |
-| Laterite soil suitability | Food grains | Laterite = poor for food; good for **Tea, coffee, rubber, cashew** |
-| Kharif harvesting | March-April | Kharif harvested **September-October** (Rabi harvested March-April) |
-| Major irrigation source | Canals | **Groundwater/tubewells** = largest source (~62% of net irrigated area) |
-| India groundwater | Small user | India = **world's largest groundwater user** (~25% of global extraction) |
-| PMKSY motto | More Crop Per Drop only | Full: **"Har Khet Ko Paani, More Crop Per Drop"** |
-| Average farm size | 2+ hectares | Average farm size = **1.08 ha** (2015-16; declining) |
-| Food grain production | 250 MT | **330 MT** (2022-23, all-time record) |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **IYM / Shree Anna** | UN International Year of Millets **2023**; India brands millets as Shree Anna. | Millet producer / export stems. |
+| **Nano urea / DAP** | IFFCO Kalol commercial nano liquid urea / nano DAP plants. | Place–product identity. |
+| **PM-PRANAM** | Union Budget 2023–24 incentive for states to cut chemical fertilizer use. | Scheme name stem. |
+| **Agri-Stack / DPI** | Digital Public Infrastructure for Agriculture narrative. | Rolling CA — refresh figures from Survey. |
 
 
 ---

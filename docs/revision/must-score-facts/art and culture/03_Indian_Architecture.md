@@ -54,41 +54,31 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. Gopuram ≠ shikhara; vimana ≠ gopuram.
-2. Konark / Khajuraho = Nagara, not Dravida; Brihadeeswara / Shore = Dravida, not Nagara.
-3. Khajuraho and Sanchi = **MP**, not UP. Qutub and Humayun’s Tomb = **Delhi**, not UP.
-4. Vesara = Karnataka hybrid; Lingaraja is Odisha Nagara.
-5. Rathas are rock-cut; Shore Temple is structural — both Pallava, different kings.
-6. Sapt Pagoda / rathas **before** Shore Temple **before** Brihadeeswara **before** Gangaikonda.
-7. Aryaka pillars = Amaravati type, **not** Bodh Gaya.
-8. Ajanta = Buddhist; Ellora = three religions; Kailasa = Ellora 16, not Elephanta.
-9. Adina Masjid = Pandua, **not** Mandu.
-10. Qutub: Aibak started, Iltutmish finished; Alai Darwaza = Alauddin, first true dome.
-11. Buland Darwaza = Gujarat **victory**, not Jahangir’s birth.
-12. Tombs: Babur–Kabul, Humayun–Delhi, Jahangir–Lahore, Shah Jahan–Agra.
-13. Bibi ka Maqbara = Aurangzeb / Rabia Daurani, **not** Shah Jahan.
-14. Gupta = first structural temple (Deogarh, Bhitargaon); not Maurya.
-15. Hathigumpha = Kharavela (Odisha), not Ashoka.
-16. Sarnath WHS = **2026** (tangible), not ICH. Kumbh ICH = **2017**.
-17. Konark = 24 wheels / 7 horses; Black Pagoda ≠ Jagannath (White Pagoda).
-18. Two Udayagiris: Vidisha Gupta ≠ Bhubaneswar Jain (Hathigumpha).
-19. Itimad-ud-Daulah = Agra “Baby Taj”; Salim Chishti = Fatehpur courtyard.
-20. Ramappa = Kakatiya, not Hoysala; Dilwara = Jain Abu marble, not Khajuraho sandstone.
-21. Sarnath capital = four lions (emblem); Vaishali = single lion; Sankisa = elephant; Rampurva = bull + lion.
-22. Moti Masjid Agra = Shah Jahan; Moti Masjid Red Fort Delhi = Aurangzeb.
-23. Konark “12 wheels” shorthand → full chariot has **24** wheels (12 pairs).
-24. Dashavatara at Khajuraho → **Deogarh** (Gupta); Khajuraho is Chandela.
-25. Morena Yogini = Khajuraho Yogini → different sites; Morena = **Devapala** circular.
-26. Ellora = Sakas → **Rashtrakuta**-age multi-faith.
-27. Mahabalipuram = Rashtrakuta → **Pallava**.
-28. Besnagar = Shaiva cave → Heliodorus **Vaishnava Garuda** pillar.
-29. Mandu = UNESCO with Khajuraho/Sanchi/Bhimbetka → Mandu is **not** WHS.
-30. Virupaksha Hampi = Virupaksha Pattadakal → different ages and dynasties.
-31. Jagannath idols = stone like Lingaraja → **neem wood** triad.
-32. Elephanta = Buddhist-only Ajanta twin → mainly **Shaiva** Trimurti (+ smaller Buddhist group).
-33. Draupadi ratha = largest → **smallest** of the Mamalla set.
-34. Palitana = Mount Abu Dilwara → **Shatrunjaya / Bhavnagar**.
-35. Angkor Wat = Java Borobudur → Angkor = **Cambodia** Vishnu; Borobudur = **Java** Buddhist.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Nagara | Dravida | Curvilinear shikhara, no gopuram vs pyramidal vimana + tall gopuram | नागर / द्रविड़ |
+| Shikhara | Vimana | Nagara tower over sanctum vs Dravida tower over sanctum | शिखर / विमान |
+| Gopuram | Shikhara | Dravida **gateway** vs Nagara **sanctum** tower — papers swap these | गोपुरम् / शिखर |
+| Vesara | Nagara | Karnataka hybrid / storeyed vs pure north curvilinear | वेसर / नागर |
+| Stupa | Chaitya | Solid relic mound vs congregational hall with apse stupa | स्तूप / चैत्य |
+| Chaitya | Vihara | Prayer hall vs monastic cells | चैत्य / विहार |
+| Rock-cut | Structural | Living rock (Ajanta, rathas) vs dressed blocks (Brihadeeswara, Shore) | शैल-कट / संरचनात्मक |
+| Rekha deul | Pidha deul | Odisha sanctum tower vs jagamohana pyramidal hall | रेखा देउल / पिढ़ा देउल |
+| Charbagh | Panchayatana | Islamic four-part garden vs Hindu five-shrine plan | चारबाग़ / पंचायतन |
+| Indo-Islamic | Mughal | Sultanate arch-dome (Qutub) vs imperial garden-tomb synthesis (Taj) | भारतीय-इस्लामी / मुग़ल |
+| True arch | Corbel | Voussoirs (Indo-Islamic) vs projecting courses (pre-Islamic temples) | सच्चा मेहराब / कॉर्बेल |
+| Squinch | Pendentive | Corner arch to take a dome vs curved triangle (later) | स्क्विंच / पेंडेंटिव |
+| Latina | Phamsana | Curvilinear sanctum tower vs stepped pyramidal mandapa roof | लतिना / फामसन |
+| Khajuraho Chausath Yogini | Morena Chausath Yogini | Chandela hypaethral vs **Kachchhapaghata Devapala** circular | खजुराहो / मुरैना |
+| Virupaksha Hampi | Virupaksha Pattadakal | Vijayanagara living shrine vs Early Chalukya Dravida | हम्पी / पट्टदकल |
+| Ellora | Sakas | Rashtrakuta-age multi-faith caves vs wrong dynasty trap | एलोरा / शक |
+| Meenakshi Madurai | Pallava | Nayaka / Pandya gopuram peak vs Pallava Mamalla–Rajasimha | मीनाक्षी / पल्लव |
+| Mahabalipuram | Rashtrakuta | **Pallava** rock-cut / Shore vs Ellora Kailasa dynasty | महाबलीपुरम / राष्ट्रकूट |
+| Besnagar Heliodorus | Shaiva cave | **Vaishnava Garuda** pillar vs wrong Shaiva label | बेसनगर / शैव |
+| Dilwara marble | Khajuraho sandstone | Mount Abu Jain Solanki vs Chandela Nagara | दिलवाड़ा / खजुराहो |
+| Arasavalli | Omkareshwar | Sun temple (Andhra) vs Shiva jyotirlinga (MP) | अरासवल्ली / ओंकारेश्वर |
+| Konark 24 wheels | “12 wheels” shorthand | Full chariot has **24** wheels (12 pairs) | कोणार्क चक्र |
+| Mandu | Khajuraho / Sanchi / Bhimbetka | Mandu **not** UNESCO vs MP WHS trio | माण्डू / यूनेस्को |
 
 
 ---

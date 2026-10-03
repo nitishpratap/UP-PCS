@@ -54,42 +54,22 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Jhansi started 11 May 1857** → **June 1857**.
-2. **Bareilly = Hazrat Mahal / Nana / Kunwar** → **Khan Bahadur Khan**.
-3. **Dalhousie accepted Lakshmibai’s heir** → **false**.
-4. **Revolt began at Delhi** → mass outbreak **Meerut 10 May**.
-5. **Awadh annexed by Lapse** → **misrule, 1856**.
-6. **Awadh annexed in 1857–58** → **1856**, a **cause**.
-7. **Kunwar Singh = Jhansi/UP** → **Jagdishpur, Bihar**.
-8. **Nana = Bareilly** → **Kanpur**.
-9. **Zafar ran the army at Delhi** → **Bakht Khan** = field command (**Saheb-e-Alam Bahadur**).
-10. **First Viceroy = Dalhousie** → **Canning**, 1858.
-11. **Company ended on 10 May 1857** → **GOI Act 1858**.
-12. **Rani died at Jhansi in 1857** → **Gwalior, June 1858** (birthplace **Varanasi**).
-13. **INA Rani Jhansi Regiment = 1857** → **Bose / Azad Hind**.
-14. **Pandey hanged at Meerut 10 May** → Barrackpore spark; hanged **8 April** (CO = **Hearsey**).
-15. **1857 = whole of India** → South, Punjab, many princes stayed out (**Jaipur / Chittor** not centres).
-16. **Liyaqat Ali = Lucknow** → **Allahabad**; Lucknow = **Hazrat Mahal**.
-17. **Enfield introduced January 1857** → decision **December 1856**; rumours from January.
-18. **Savarkar denied “First War” label** → that quote is **R.C. Majumdar**; Savarkar coined First War.
-19. **Official historian = Majumdar** → **S.N. Sen** (*Eighteen Fifty-Seven*).
-20. **Conspiracy reading = Lawrence** → **Outram & Taylor**; Lawrence/Seeley = Sepoy Mutiny.
-21. **Symbols = eagle / two swords** → **lotus and chapatis**.
-22. **Assam leader = Kandarpeshwar alone** → **Maniram Dutta** raised him; Maniram hanged.
-23. **Queen’s Proclamation all promises kept equally** → annexation-stop was the clearest follow-through.
-24. **Educated class led 1857** → they largely stayed **neutral**; sahukars often opposed.
-25. **Only a sepoy mutiny everywhere** → Awadh and several UP–Bihar centres mixed **civilian** (peasant/taluqdar) and **sepoy** strands.
-26. **1857 = total failure with no results** → Company ended, Crown began, annexation-stop followed — **partial** structural success without independence.
-27. **Indian Councils Act 1861 = rebel demand granted in 1857** → it is a **Crown-era** sequel after the 1858 settlement.
-28. **Gwalior = May 1857 outbreak centre** → final **1858** theatre after Jhansi/Kalpi; Scindia stayed loyal.
-29. **Nicholson died at Lucknow** → he died taking **Delhi** (Sept 1857); Lucknow = **Lawrence / Havelock / Neill**.
-30. **Queen’s Proclamation = 10 May 1857** → **1 Nov 1858**, Allahabad.
-31. **British PM in 1857 = Gladstone / Churchill** → **Palmerston**.
-32. **Peel Commission = education / ICS** → **army reorganisation** after 1857.
-33. **Max help to British = Holkar alone** → **Scindias of Gwalior** (with Dinkar Rao) are the usual max-help key.
-34. **Tatya Tope = Nana Sahib’s real name** → Tatya = **Ramchandra Pandurang**; Nana = **Dhondho Pant**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Sepoy Mutiny | First War of Independence | British / Lawrence–Seeley name vs Savarkar’s name (1909) | सिपाही विद्रोह / प्रथम स्वतंत्रता संग्राम |
+| Barrackpore | Meerut | Spark on 29 March vs actual start of the war on 10 May | बैरकपुर / मेरठ |
+| Nana Sahib | Tantia Tope | Political leader at Kanpur vs his military commander (Ramchandra Pandurang) | नाना साहेब / तात्या टोपे |
+| Begum Hazrat Mahal | Khan Bahadur Khan | Lucknow / Awadh vs Bareilly | हज़रत महल / खान बहादुर खान |
+| Kunwar Singh | Rani Lakshmibai | Jagdishpur (Bihar) vs Jhansi (dies at Gwalior) | कुंवर सिंह / लक्ष्मीबाई |
+| Annexation of Awadh | Doctrine of Lapse | Awadh taken for “misrule” in 1856 vs states taken when there was no natural heir | अवध अधिग्रहण / विलुप्ति सिद्धांत |
+| Bahadur Shah Zafar | Bakht Khan | Nominal emperor at Delhi vs real military organiser (Saheb-e-Alam Bahadur) | बहादुर शाह ज़फ़र / बख़्त खान |
+| Company rule | Crown rule | Revolt took place under the Company; Crown took over in 1858 | कंपनी शासन / क्राउन शासन |
+| Savarkar | R.C. Majumdar | First War of Independence vs “neither first, nor national, nor a war of independence” | सावरकर / मजूमदार |
+| Outram–Taylor | John Lawrence | Hindu–Muslim conspiracy reading vs pure Sepoy Mutiny reading | आउटराम / लॉरेंस |
+| Maulvi Liaquat Ali | Maulvi Ahmadullah Shah | Allahabad (Khusro Bagh) vs Faizabad | लियाक़त अली / अहमदुल्लाह शाह |
+| Brown Bess | Enfield rifle | Old musket replaced Dec 1856 vs new greased-cartridge rifle | ब्राउन बेस / एन्फ़ील्ड |
+| Jaipur / Chittor | Auwa | Not centres of 1857 vs Thakur Kushal Singh’s Rajasthan rising | जयपुर-चित्तौड़ / आउवा |
+| S.N. Sen | Sir Syed Ahmad Khan | Official historian (*Eighteen Fifty-Seven*, 1957) vs *Asbab-e-Baghawat-e-Hind* (1859) | एस.एन. सेन / सैयद अहमद खान |
 
 
 ---

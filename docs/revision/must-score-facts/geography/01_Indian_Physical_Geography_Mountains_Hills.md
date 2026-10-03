@@ -54,31 +54,11 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Lipulekh is in Ladakh** — FALSE. **Uttarakhand** (India–Nepal–China trijunction).
-2. **Mana Pass is in Himachal** — FALSE. **Niti and Mana** are both **Uttarakhand**.
-3. **Bomdila is a pass** — FALSE. Bomdila is a **town**; the pass is **Bomdi La** (Arunachal).
-4. **Tirupati is on Shevaroy Hills** — FALSE. **Tirumala / Mallamalla (Eastern Ghats)**.
-5. **Kanyakumari is India's southernmost point** — FALSE. **Indira Point (Great Nicobar)** = southernmost territory.
-6. **Aravalli is the youngest range** — FALSE. **Himadri** is youngest among usual options; Aravalli is **oldest**.
-7. **India = 6th largest / wholly tropical** — FALSE. **7th**; **2.4%**; Tropic through the middle; **not** wholly tropical.
-8. **Intertrappean beds have sea fossils** — FALSE. **Freshwater/land** fossils.
-9. **K2 is in the main Himalaya** — FALSE. **Karakoram**.
-10. **Kashmir Valley = Kangra + Dhauladhar** — FALSE. **Pir Panjal + Himadri**.
-11. **Annamalai / Sirumalai are Himalayan** — FALSE. **Tamil Nadu peninsular**.
-12. **Atal Tunnel is the world's longest highway tunnel (unqualified)** — FALSE. **Pir Panjal**; longest **above 10,000 ft**.
-13. **Both Ghats are continuous** — FALSE. **Western = continuous; Eastern = discontinuous**.
-14. **Lakshadweep is volcanic like Andaman** — FALSE. Lakshadweep = **coral**; A&N = **volcanic**.
-15. **Vindhya lies south of Narmada** — FALSE. **Vindhya = north; Satpura = south**.
-16. **Tropic of Cancer crosses UP / Ladakh** — FALSE. **Eight states only** (GJ–RJ–MP–CG–JH–WB–Tripura–Mizoram).
-17. **Standard Meridian = Prayagraj / Lucknow / “only eastern states use IST”** — FALSE. Place = **Mirzapur**; path = **UP–MP–CG–Odisha–AP**; IST = **one zone for all India**. Uttarakhand / Jharkhand / Telangana are **not** on the line.
-18. **Karewa = dun** — FALSE. Karewa = Kashmir **lacustrine** terrace (saffron). Dun = **Shiwalik** longitudinal valley.
-19. **Ten Degree Channel separates Minicoy** — FALSE. **10°** = Andaman–Nicobar. **9°** = Minicoy–rest of Lakshadweep. **8°** = Minicoy–Maldives.
-20. **Palghat is the Mumbai–Pune gap** — FALSE. Palghat / Palakkad = **Kerala–Tamil Nadu**. Bhor Ghat = Mumbai–Pune.
-21. **Gurla Mandhata is an Indian Trans-Himalayan peak** — FALSE. It is in **Tibet**. Namcha Barwa is also **not** in India.
-22. **Whole west coast is submerged** — FALSE. **Konkan** is drowned; **Kerala / Malabar** is emerged.
-23. **Marwar Plateau is west of Aravalli** — FALSE. Plateau = **east**; Thar plain = **west**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Mar 2024** | **Sela Tunnel** (BRO) — all-weather Tezpur–**Tawang** (Arunachal); longest twin-lane tunnel **above ~13,000 ft** | Border tunnel / pass CA | PIB / inauguration |
+| **2025** | **Z-Morh / Sonamarg Tunnel** — all-weather Srinagar–Ladakh (लद्दाख) axis | Pair with Zoji La (ज़ोजिला) | PIB |
+| 2020 / PYQ 2025 | Atal Tunnel qualifier only: longest highway tunnel **above 10,000 ft**, not unqualified world longest | | PIB / BRO |
 
 
 ---

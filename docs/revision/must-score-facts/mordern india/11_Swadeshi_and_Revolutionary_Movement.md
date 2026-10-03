@@ -54,38 +54,27 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Partition annulled in 1905** → annulment **1911**.
-2. **Lucknow Pact = 1911** → **1916**. 1911 = Durbar (annulment + capital).
-3. **Hardinge bomb = Jugantar / Bhagat Singh** → **Anushilan 1912** (Rash Behari).
-4. **Abhinav Bharat = Bhagat Singh** → **Savarkar**.
-5. **Kakori = HSRA / Surya Sen** → **HRA 1925**. HSRA = **1928**. Surya Sen = **Chittagong 1930**.
-6. **Bismil hanged at Shahjahanpur** → born Shahjahanpur; hanged **Gorakhpur**.
-7. **Azad hanged in Kakori** → he **escaped**; died Allahabad **1931**.
-8. **Ghadar after Berlin Committee** → Ghadar **1913**, Berlin **1915**.
-9. **Chittagong before Assembly bomb** → Assembly **1929**, Chittagong **1930**.
-10. **Ambika Chakravarti = Naujawan 1926** → he is **Chittagong**; 2021 odd man out.
-11. **M.A. Ansari = Kanpur Conspiracy** → **not** associated.
-12. **East Bengal and Assam never existed** → it was the **1905** new province.
-13. **NCE = BHU** → NCE **1906** Swadeshi; BHU is Topic 12.
-14. **Assembly bomb meant to kill members** → propaganda bombs; they **courted arrest**.
-15. **India House = Ghadar** → India House is **London / Shyamji**; Ghadar is **San Francisco 1913**.
-
-22. **Kakori = HSRA** → **HRA (1925)**; HSRA only from **1928**.
-23. **Abhinav Bharat = Bhagat Singh / Barindra** → **V.D. Savarkar** (from Mitra Mela).
-24. **Barrah Dacoity = Punjab / Madras** → **East Bengal**, **Pulin Behari Das**.
-25. **India House = Hardayal / Ghadar HQ** → **Shyamji Krishna Varma, London**; Ghadar HQ = **San Francisco**.
-26. **Cama flag = Paris 1907** → **Stuttgart** International Socialist Congress.
-27. **First Ghadar chairman = Hardayal** → **Sohan Singh Bhakna**; Hardayal = torchbearer / organiser.
-28. **Ashfaqulla hanged at Gorakhpur** → **Faizabad**; Gorakhpur = **Bismil**.
-29. **Sarfaroshi ki Tamanna = Ram Prasad Bismil** → **Bismil Azimabadi**.
-30. **RSS = Kakori revolutionary wing** → **Hedgewar’s Hindu social organisation (Nagpur, 1925)** — same year, different body.
-31. **Jatin Das hanged with Bhagat Singh** → he died on **hunger strike (1929)**; hangings = Bhagat–Rajguru–Sukhdev (**1931**).
-32. **Provisional government = Subhas / INA Singapore** → **Mahendra Pratap–Barkatullah at Kabul (1915)** is the WWI provisional government.
-33. **Udham Singh killed General Dyer** → he killed **Michael O’Dwyer**.
-34. **Chittagong = Bhagat Singh / Kakori men** → **Surya Sen (Master-da), 18 April 1930**.
-35. **Muzaffarpur = Alipore trial site** → Muzaffarpur = **Kingsford bomb**; Alipore = **Manicktolla conspiracy trial**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| RSS 1925 (Hedgewar, Nagpur) | HRA / Kakori 1925 | Hindu social organisation vs revolutionary armed treasury action | आरएसएस / एचआरए |
+| *Sarfaroshi* poet Bismil Azimabadi | Ram Prasad Bismil | Poem author (Patna) vs Kakori martyr (Shahjahanpur) | बिस्मिल अजीमाबादी / राम प्रसाद |
+| Dhingra–Wyllie 1909 | Udham–O’Dwyer 1940 | India House London killing vs Jallianwala revenge killing | धिंगरा / ऊधम सिंह |
+| Barrah 1908 | Kakori 1925 | East Bengal Anushilan dacoity vs UP HRA train action | बर्राह / काकोरी |
+| Partition 1905 | Annulment 1911 | Curzon divides Bengal vs Durbar reverses it and moves capital | बंगाल विभाजन / रद्द |
+| Swadeshi | Boycott | Use Indian goods/institutions vs reject British goods/institutions | स्वदेशी / बहिष्कार |
+| Extremist | Revolutionary | Assertive Congress (boycott/Swadeshi) vs secret armed groups | गरम दल / क्रांतिकारी |
+| Anushilan | Jugantar | Secret-society network vs Barindra action circle + *Yugantar* paper | अनुशीलन / युगांतर |
+| HRA 1924 | HSRA 1928 | Republican armed group vs same stream after socialist turn | एचआरए / एचएसआरए |
+| Ghadar 1913 | Berlin Committee 1915 | N. America diaspora party vs wartime Europe plot | ग़दर / बर्लिन समिति |
+| Kakori 1925 | Chittagong 1930 | HRA train treasury (UP) vs Surya Sen armoury (Bengal) | काकोरी / चटगाँव |
+| Hardinge bomb 1912 | Assembly bomb 1929 | Delhi Viceroy procession vs Central Assembly protest | हार्डिंग / असेंबली |
+| Shahjahanpur | Gorakhpur | Bismil’s birthplace vs hanging jail | शाहजहाँपुर / गोरखपुर |
+| Delhi Durbar 1911 | Lucknow Pact 1916 | Annulment + capital vs Congress–League deal | दिल्ली दरबार / लखनऊ |
+| Muzaffarpur 1908 | Alipore 1908 | Kingsford attempt (Khudiram–Chaki) vs Manicktolla conspiracy trial | मुजफ्फरपुर / अलीपुर |
+| India House | Ghadar | London hub (Shyamji) vs 1913 N. America party | इंडिया हाउस / ग़दर |
+| Delhi Durbar 1877 | Delhi Durbar 1911 | Lytton proclaims Victoria Empress of India vs Hardinge annuls partition and shifts the capital | दिल्ली दरबार 1877 / 1911 |
+| Stuttgart flag 1907 | Berlin Committee 1915 | Madam Cama unfurls a tricolour at a Socialist Congress vs a wartime Europe plot with German help | स्टुटगार्ट ध्वज / बर्लिन समिति |
+| Bengal Swadeshi orgs | Bengal revolutionary orgs | Banerjee/Pal/Tagore/Aurobindo open politics vs Anushilan/Jugantar secret action | स्वदेशी संगठन / क्रांतिकारी संगठन |
 
 
 ---

@@ -54,70 +54,37 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| NAM = 1954 / Panchsheel = 1961 | **Panchsheel 1954**. **NAM 1961 Belgrade** |
-| Bandung 1955 = first NAM summit | Bandung is the **mood**. First NAM summit = **Belgrade 1961** |
-| NAM is a military alliance | **No** Art. 5, no HQ army |
-| India has a UNSC veto | **P5 only**. India = elected member, 8 terms, last **2021–22** |
-| G4 already got permanent seats | **Wanted**, not granted. Coffee Club resists |
-| NATO Art. 5 binds India | India is **not** in NATO |
-| AUKUS = Quad | AUKUS = **AUS–UK–US**. Quad **includes India** |
-| World Bank HQ = New York | **Washington D.C.**, same city as IMF. New York = **UN** |
-| IMF = World Bank | IMF = **BOP/quota**. Bank = **projects**. Twins, not clones |
-| WTO HQ = Washington | **Geneva**. 1995. GATT was **1947** |
-| ICJ = ICC | ICJ = UN organ, States. ICC = Rome **1998**, India **not** a party |
-| UNESCO HQ = Geneva | **Paris**. WHO/ILO = **Geneva** |
-| Trusteeship Council abolished | **Inactive 1994**, still a principal organ on paper |
-| India is an ASEAN member | **Dialogue partner**. Member of **BIMSTEC** and **SAARC** |
-| Indonesia is in BIMSTEC | **ASEAN**, not BIMSTEC. BIMSTEC **7** |
-| Maldives / Pakistan in BIMSTEC | Both are **SAARC**, not BIMSTEC |
-| 5th BIMSTEC Summit chaired by India | **Sri Lanka**, Colombo **30 Mar 2022** |
-| SAARC HQ = Dhaka | Charter **Dhaka 1985**. Secretariat **Kathmandu** |
-| Afghanistan always in SAARC | Joined **2007** — 8th member |
-| G20 lotus petals = 7 member-states | **7 continents**. G20 is **19+EU+AU**, not 7 |
-| Kanpur hosted G20 in UP | **Agra, Varanasi, Greater Noida, Lucknow**. Not Kanpur |
-| BRICS 10th summit = China/Brazil | **South Africa, 2018** (Johannesburg) |
-| NDB = IMF | NDB = BRICS bank, **Shanghai** |
-| SCO RATS = Beijing | Secretariat **Beijing**. **RATS = Tashkent** |
-| India in APEC / OECD | **Out of both**. In **G20** |
-| Commonwealth = only monarchies | **London Declaration 1949** — republics can stay (India) |
-| QUAD is a military alliance | **Dialogue**. No Art. 5 |
-| IORA secretariat = Djibouti | **Mauritius**. Djibouti Code ≠ IORA |
-| WHO Traditional Medicine Centre = Haridwar | **Jamnagar**, Gujarat (2022) |
-| Uzbekistan in Shanghai Five | Five = CN RU KZ KG TJ. UZ joins **SCO 2001** |
-| NDB = AIIB | NDB = BRICS **Shanghai**. AIIB = **Beijing**, China-led |
-| India is in G7 | **Guest only**. G20 yes, G7 no |
-| India is in RCEP | **Walked out Nov 2019** |
-| EAS 2020 = Singapore | **Vietnam** chaired 2020 |
-| HDI / HDR = IMF or World Bank | **UNDP** (1990). Programme, not a specialised agency |
-| Jadhav case = ICC | **ICJ**, Hague, consular access |
-| UN Day = 26 June | Charter **signed** 26 June; **in force / UN Day = 24 Oct** |
-| SAARC still holds annual summits | Last leaders’ summit **2014 Kathmandu** |
-| WTO = MFN only among friends | MFN is the default **among members**; National Treatment is the other pillar |
-| SEATO/CENTO = Indian alliances | India **stayed out**; Pakistan was in SEATO/CENTO |
-| Gujral Doctrine = gift to Pakistan | Non-reciprocity toward **smaller** neighbours; Pakistan was **not** in that five |
-| Look East started in 2014 | **1991**. 2014 = **Act East** |
-| SAGAR = Djibouti Code | SAGAR = India’s **2015** phrase. Djibouti Code = **2009 IMO** piracy instrument |
-| India signed Djibouti Code as a Horn-of-Africa coastal State | Regional coastal signatories; India is a **partner**, not Yemen |
-| Monroe = containment of USSR | Monroe **1823** hemisphere. Truman **1947** containment |
-| Panchsheel is in a Schedule of the Constitution | **No**. Art. **51** is the DPSP cousin |
-| 1962 repealed Panchsheel as a syllabus item | Paper still wants the **five** and **1954** |
-| Neutrality = NAM | Swiss *legal* neutrality ≠ issue-by-issue non-alignment |
-| LEMOA = NATO base | Logistics **access**, **2016**, not Art. 5 |
-| India signed NPT after 2008 NSG waiver | Still **not** an NPT party |
-| NFU is a UN treaty | **National doctrine** after Pokhran-II |
-| US was in the League of Nations | **Senate refused**. US **did** found the UN |
-| OIC member = India | **Not a member** (2019 guest only) |
-| ReCAAP = Djibouti Code | ReCAAP **2006 Asia**; Djibouti **2009 WIO** |
-| Uniting for Peace = Indian veto | GA **recommendation** tool, **1950**. No Indian veto |
-| Abstention = veto | **No**. Only a P5 **no** on a substantive draft |
-| Bandung 10 = Panchsheel 5 | Five are *inside* ten; don’t equate the lists |
-| 1954 deal ignored Tibet | Same agreement treats **Tibet as part of China** |
-| Collective security = NATO | Collective **security** = UN Ch. VII. Collective **defence** = NATO Art. 5 |
-| 2+2 is a UN organ | Bilateral **ministerial** format (US/Japan/Australia/Russia) |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2024** | BRICS adds **Egypt (मिस्र), Ethiopia, Iran, UAE** (Saudi invited) | Original 5 still in; this is **expansion**, not a UN organ |
+| **2024** | **Belarus** joins SCO | After **Iran 2023**. RATS still **Tashkent** |
+| **2024** | 19th NAM Summit at **Kampala, Uganda** | NAM is **alive**; India attends; it is still **not** NATO |
+| **2024** | **Sweden** joins NATO (Finland was **2023**) | NATO membership **32**. India still **out** |
+| **2023** | G20 New Delhi Summit **9–10 Sep**; **AU** admitted as a member | India president **Dec 2022–Nov 2023**. Logo = lotus, **7 petals = 7 continents** |
+| **2023** | G20 working meetings in UP: **Agra, Varanasi (वाराणसी), Greater Noida, Lucknow (लखनऊ)** | **Kanpur (कानपुर) was not** a venue (2023 paper) |
+| **2023** | SCO Film Festival **Mumbai** during India’s SCO chair | India chaired SCO **2022–23**; festival **does** show member films |
+| **2023** | **Iran** becomes SCO member | India+Pak were **2017**; Iran is later |
+| **2022** | WHO Global Centre for Traditional Medicine at **Jamnagar** | Not Haridwar (हरिद्वार), not Jaffna, not Johannesburg (2022 paper) |
+| **2022** | 5th BIMSTEC Summit, **Colombo, 30 Mar** | Chair = **Sri Lanka**, not India. Modi **did** address it |
+| **2022** | India’s elected UNSC term **2021–22** ends | 8th elected term. India is **not** P5 |
+| **2021** | G7 Cornwall, **UK chair**; India invited as guest | India is **not** G7. Brazil was **not** the guest in that stem |
+| **2021** | **AUKUS** announced; Quad Leaders’ summit | AUKUS = AUS–UK–US. Quad **includes India** |
+| **2021** | Vaccine Maitri | Outreach colour under “India FP”, not a Charter article |
+| **2020** | EAS 2020 host = **Vietnam**, not Singapore | India **is** in EAS. Match-the-summit papers lie on the city |
+| **2020** | **BECA** signed with the US | Last of the four (चातुर्याम) foundational pacts. **Not** NATO membership |
+| **2019** | India walks out of **RCEP** | Still Act East / ASEAN dialogue partner |
+| **2019** | Jaishankar at **OIC** (Abu Dhabi) as guest | **Guest ≠ member**. India is **not** in the OIC |
+| **2018** | 10th BRICS Summit **Johannesburg** | Host = **South Africa** (2018 paper) |
+| **2018** | **COMCASA** | Comms pact with US — not a base treaty |
+| **2017** | India + Pakistan join **SCO** | SCO is **not** NATO and **not** SAARC |
+| **2017** | **Jeddah Amendment** to the Djibouti Code | Piracy code **widened** to other maritime crime |
+| **2016** | **LEMOA** | Logistics access, not a foreign military base |
+| **2015** | **SAGAR** coined (Mauritius); **NDB** Shanghai | SAGAR = India’s phrase. NDB = BRICS bank, **not** IMF |
+| **2014** | Act East at ASEAN; last SAARC summit **Kathmandu** | Look East **upgraded**. SAARC leaders’ track **stalls** |
+| **2011** | Obama “pivot to Asia” | US FP turn the paper still uses |
+| **2008** | **123 Agreement** + **NSG (एनएसजी) waiver** | Civil nuclear with US; India still **outside NPT** |
+| **1971** | PRC takes UN China seat (Res. **2758**) | India voted **for** PRC. ROC/Taiwan out of the UN seat |
+| **1950** | Uniting for Peace **377(V)** | GA can *recommend* (सिफारिश) if the veto kills the Council |
 
 
 ---
@@ -137,7 +104,7 @@ C. 1946 D. 1947
 
 **Logic:** The Charter was signed in June 1945, but the United Nations legally came into existence on 24 October 1945.
 
-**Ans: B.** The United Nations is an international organization founded
+**Ans: B** — The United Nations is an international organization founded
 in 1945. The draft of the United Nations Charter was finalized
 in a conference held in San Francisco from April to June,
 1945. On 26 June, 1945, 50 nations signed the Charter.
@@ -160,7 +127,7 @@ C. 26th October D. 15th October
 
 **Logic:** UN Day marks the Charter’s entry into force on 24 October 1945.
 
-**Ans: B.** United Nations Day is observed on 24 October, the date on which the UN Charter entered into force in 1945.
+**Ans: B** — United Nations Day is observed on 24 October, the date on which the UN Charter entered into force in 1945.
 
 </details>
 
@@ -175,7 +142,7 @@ A. 6 B. 5 C. 4 D. 3
 
 **Logic:** The Council has five permanent and ten elected members. The elected members serve two-year terms.
 
-**Ans: B.** The United Nations Security Council (UNSC) is one of the
+**Ans: B** — The United Nations Security Council (UNSC) is one of the
 six principal organs of the United Nations and is charged with
 the maintenance of peace and security. The Security Council
 consists of fifteen (15) members, including 5 permanent
@@ -198,7 +165,7 @@ C. Great Britain D. China
 
 **Logic:** Germany is not in the P5; the five are China, France, Russia, the United Kingdom and the United States.
 
-**Ans: A.** Germany is not a permanent member. The P5 are China, France, Russia, the United Kingdom and the United States.
+**Ans: A** — Germany is not a permanent member. The P5 are China, France, Russia, the United Kingdom and the United States.
 
 </details>
 
@@ -215,7 +182,7 @@ C. Mexico D. Canada
 
 **Logic:** Canada lost the June 2020 contest. India, Ireland, Kenya, Mexico and Norway were elected for 2021–22.
 
-**Ans: D.** India began its two-year tenure as a non-permanent member
+**Ans: D** — India began its two-year tenure as a non-permanent member
 of the United Nations Security Council from January 1,
 2021. India will sit in the 15-nation UNSC for the 2021-22
 term as a non-Permanent member. Apart from India Ireland,
@@ -237,7 +204,7 @@ C. 3 D. 5
 
 **Logic:** The United States voted against the Palestine recommendation and the United Kingdom and Switzerland abstained: three members did not support it.
 
-**Ans: C.** In April, 2024, the United Nations Security Council rejected
+**Ans: C** — In April, 2024, the United Nations Security Council rejected
 a proposal regarding the full membership of Palestine in the
 United Nations. The United States of America vetoed this
 proposal, while Switzerland and United Kingdom abstained
@@ -247,29 +214,21 @@ cast negative votes.
 </details>
 
 **Q7.**
+With reference to the decision-making process in the United Nations Security Council (UNSC), consider the following statements:
+1. Decisions on procedural matters require the affirmative vote of nine members.
+2. Decisions on substantive matters require nine affirmative votes, including the concurring votes of the permanent five (P5) members.
 
-According to United Nations Charter which of the
-following statements is not true regarding exercise of
-veto power in the Security Council?
-A. For Security Council decision on every procedural
-matter there should be 9 affirmative votes of its
-members including the 5 votes of five permanent
-members.
-B. Every permanent member of Security Council may
-by use of Veto Power, withhold acceptance on any
-decision.
-C. The word ‘Veto’ has been used under Article 27 of
-UN Charter so that any permanent member may stop
-a resolution going to be passed with a majority.
-D. Any member of Security Council may use Veto Power
-to stop a resolution going to be passed with a majority.
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The printed stem is defective: procedural decisions need nine votes without a P5-concurrence rule, the Charter does not use the word “veto,” and only permanent members possess the substantive veto.
-
-**Ans: *.** No single printed option is defensible. Procedural matters require nine affirmative votes; a permanent member’s concurrence is not required. Only permanent members can veto substantive decisions, and the Charter does not use the word “veto.”
+**Ans: C** — Both 1 and 2 are correct. Under Article 27 of the UN Charter, decisions on procedural matters are made by an affirmative vote of any 9 members, whereas decisions on substantive matters require 9 affirmative votes including the concurring votes of the 5 permanent members.
 
 </details>
 
@@ -287,7 +246,7 @@ D. Trustiship Council
 
 **Logic:** Democratisation demands focus on Security Council composition and the privileged position of the P5.
 
-**Ans: C.** The demand for the democratisation of the UNO is mainly
+**Ans: C** — The demand for the democratisation of the UNO is mainly
 related to the Security Council. The Security Council has
 five permanent members (USA, UK, China, Russia, France)
 only. So countries like India, Brazil, South Africa etc are
@@ -314,7 +273,7 @@ E. None of the above/More than one of the above
 
 **Logic:** Peacekeepers may use force in self-defence and defence of the mandate. The other two statements match the source period.
 
-**Ans: B.** Statement 1 is false, the United Nations Peace-keeper can use
+**Ans: B** — Statement 1 is false, the United Nations Peace-keeper can use
 force in self-defense as well as in 'Defense of the Mandates
 also. Remaining statements 2 and 3 are true. The USA is the
 largest budget contributor to the UN peacekeeping operations
@@ -343,7 +302,7 @@ C. 2 and 3 D. 1 and 2
 
 **Logic:** The Credentials Committee is a nine-member General Assembly committee, normally meeting during the Assembly session; only statement 3 is correct.
 
-**Ans: A.** A United Nations Credentials Committee is appointed at the
+**Ans: A** — A United Nations Credentials Committee is appointed at the
 beginning of each regular session of the General Assembly.
 It consists of nine (9) members who are appointed by the
 General Assembly on proposal of the president. Usually the
@@ -372,7 +331,7 @@ C. 1 and 3 only D. 1, 2 and 3
 
 **Logic:** Observer status is General Assembly practice rather than a Charter category. All three listed incidents of that practice are possible.
 
-**Ans: D.** The General Assembly can grant observer status to nonmember states. Inter-governmental organisations can
+**Ans: D** — The General Assembly can grant observer status to nonmember states. Inter-governmental organisations can
 seek observer status in UN General Assembly. Permanent
 observers in UN General Assembly can maintain missions
 at the UN headquarters. The status of a permanent observer
@@ -395,7 +354,7 @@ C. Kofi Annan D. Kurt Waldheim
 
 **Logic:** António Guterres has served as UN Secretary-General since 1 January 2017.
 
-**Ans: B.** Antonio Guterres is the present Secretary-General of the
+**Ans: B** — Antonio Guterres is the present Secretary-General of the
 United Nations Organisation.
 
 </details>
@@ -414,7 +373,7 @@ D. U-Thant
 
 **Logic:** Boutros Boutros-Ghali of Egypt was the first African Secretary-General.
 
-**Ans: C.** The first African UN Secretary General was Boutros-Boutros
+**Ans: C** — The first African UN Secretary General was Boutros-Boutros
 Ghali. He worked as the 6th UN Secretary-General from 1
 January, 1992 to 31 December, 1996. He was an Egyption
 politician and diplomat. The second African Secretary
@@ -442,7 +401,7 @@ C. Hindi D. Spanish
 
 **Logic:** Hindi is not one of the six UN official languages; Chinese, English, French, Russian, Arabic and Spanish are.
 
-**Ans: C.** Hindi is not an official language of United Nations. English
+**Ans: C** — Hindi is not an official language of United Nations. English
 and French are used as working languages while the six
 official languages are English, French, Spanish, Arabic,
 Chinese and Russian.
@@ -462,6 +421,6 @@ D. English, French, Chinese, Russian, Arabic and Spanish
 
 **Logic:** The complete six-language set is Arabic, Chinese, English, French, Russian and Spanish.
 
-**Ans: D.** The six official languages are Arabic, Chinese, English, French, Russian and Spanish; Hindi and German are not in this set.
+**Ans: D** — The six official languages are Arabic, Chinese, English, French, Russian and Spanish; Hindi and German are not in this set.
 
 </details>

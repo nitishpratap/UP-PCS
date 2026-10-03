@@ -54,20 +54,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-| Trap | Correct fact |
-|------|----------------|
-| Agenda 21 = 1995 | **Rio 1992** |
-| Brundtland = Limits to Growth | ***Our Common Future* 1987** |
-| SD = environment only | **Three pillars balanced** |
-| SD = no development | **Sustainable, not zero, development** |
-| LiFE at COP-25 | **COP26 2021; launched June 2022** |
-| UP SDG report = Finance Dept | **Planning Department** |
-| Circular = identical to green | **Circular ⊂ Green** |
-| MDGs = 17 goals | **MDGs = 8; SDGs = 17** |
-| SDGs only for developing countries | **Universal** |
-| Bhopal → Stockholm 1972 | **Bhopal 1984 → EPA 1986** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Brundtland Report (1987)** | **Limits to Growth (1972)** | UN World Commission on Environment & Development (*Our Common Future*) coining the definition of Sustainable Development vs Club of Rome computer-simulation study modeling impending resource depletion and economic collapse | ब्रंटलैंड रिपोर्ट (1987, सतत विकास) / लिमिट्स टू ग्रोथ (1972) |
+| **Millennium Development Goals (MDGs)** | **Sustainable Development Goals (SDGs)** | 8 anti-poverty targets for 2000–2015 focused primarily on developing nations funded by rich countries vs 17 universal, integrated economic-social-environmental goals (Agenda 2030) adopted in 2015 applying to all nations equally | सहस्राब्दी विकास लक्ष्य (MDGs) / सतत विकास लक्ष्य (SDGs 2030) |
+| **Green Economy** | **Circular Economy** | Macro-economic development paradigm promoting low-carbon growth, resource efficiency, and social equity (UNEP) vs regenerative industrial design philosophy eliminating waste and keeping materials in closed continuous cycles | हरित अर्थव्यवस्था (व्यापक मॉडल) / चक्रीय अर्थव्यवस्था (पुनर्चक्रण लूप) |
+| **Linear Economy** | **Circular Economy** | Traditional unsustainable industrial model based on "take, make, use, and dispose" vs restorative circular model based on "reduce, reuse, repair, refurbish, and recycle" | रैखिक अर्थव्यवस्था (कचरा उत्पादक) / चक्रीय अर्थव्यवस्था (शून्य अपशिष्ट) |
+| **Mission LiFE (2022)** | **Agenda 21 (1992)** | Mass global citizen movement conceptualized by India to replace mindless consumption with mindful individual sustainable lifestyle actions vs Rio 1992 comprehensive non-binding intergovernmental action plan for sustainable governance | मिशन लाइफ (LiFE, व्यक्तिगत जीवनशैली) / एजेंडा 21 (सरकारी कार्ययोजना) |
+| **Natural Capital** | **Manufactured Capital** | World's natural ecological assets including geology, soil, air, water, biodiversity, and ecosystem services vs human-created physical infrastructure, machinery, factories, and financial assets | प्राकृतिक पूंजी (पारिस्थितिक संपदा) / निर्मित पूंजी (मानव-निर्मित संपत्ति) |
 
 
 ---

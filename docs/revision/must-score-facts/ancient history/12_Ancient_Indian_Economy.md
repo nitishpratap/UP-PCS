@@ -54,27 +54,19 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **First Indian coins = Gupta gold** → **punch-marked silver**.
-2. **2022 Shaka proof = dinara** → **silver**, ~33 grains.
-3. **33 grains = gold weight** → silver rupaka. Gold is ~120–144.
-4. **King-queen gold = Chandragupta II** → **Chandragupta I**.
-5. **Lyrist = Chandragupta II** → **Samudragupta**.
-6. **Nishka = Mauryan coin** → Vedic gold **unit**.
-7. **Shreni = 2018 foreign trade** → **Manigrama**.
-8. **Shreni = only northern India** → north **and** south; quality/price/conduct are guild-controlled.
-9. **Nanadesi = Manigrama** → many-lands vs overseas guild.
-10. **Boat models = Dholavira** → **Mohenjo-daro + Lothal**.
-11. **Barbarikon = Broach** → Indus mouth. Broach = **Barygaza**.
-12. **Tamralipti = main Roman port** → **Muziris** / west-south.
-13. **Lothal = Muziris** → Bronze Age dock vs Sangam–Roman pepper.
-14. **IVC = pastoral** → **Urban** (2020). Pastoral = Rigvedic.
-15. **Later Vedic = urban** → **agrarian**.
-16. **Entrepot = any jetty** → warehouse / redistributor.
-17. **Dakshinapatha = only sea** → inland north–Deccan road.
-18. **Yavana = only a Greek king** → Sangam foreign / western trader.
-19. **Only the first statement true** → check whether **both** statements hold before locking “Only 1”.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Punch-marked | Gupta dinara | First **silver** coins vs later **gold** prestige | पंच-मार्क / दीनार |
+| Dinara | Rupaka | Gupta **gold** vs CG II **silver** (~33 grains) | दीनार / रूपक |
+| Nishka | Karshapana | Vedic gold **unit** vs punch-marked **coin** | निष्क / कार्षापण |
+| Shreni | Manigrama | General craft guild vs **foreign** trade (2018) | श्रेणी / मणिग्राम |
+| Nanadesi | Manigrama | Merchants of **many lands** vs overseas **Manigrama** | नानादेशी / मणिग्राम |
+| Lothal | Muziris | Harappan **dock** vs Sangam–Roman **pepper** port | लोथल / मुज़िरिस |
+| Barygaza | Barbarikon | **Broach** vs **Indus-mouth** in Periplus | भरूच / बारबारिकोन |
+| Tamralipti | Broach | East Ganga mouth vs west Narmada mouth | ताम्रलिप्ति / भरूच |
+| Uttarapatha | Dakshinapatha | NW–Ganga highway vs north–**Deccan** | उत्तरापथ / दक्षिणापथ |
+| Port | Entrepot | Landing point vs **warehouse / redistributor** | बंदरगाह / एंट्रेपो |
+| Urban | Pastoral | IVC (2020) vs **Rigvedic** | नगरीय / पशुपालक |
 
 
 ---

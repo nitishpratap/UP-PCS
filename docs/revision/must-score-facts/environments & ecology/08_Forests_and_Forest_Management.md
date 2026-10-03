@@ -54,30 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-| Trap | Correct fact |
-|------|----------------|
-| Bahraich >20% forest | **Chandauli + Shravasti** only |
-| Forest cover = RFA only | Cover exists **outside** notified forest |
-| FCA enacted 1972 | **1980** |
-| JFM = FRA same year | JFM **1990**, FRA **2006** |
-| Social forestry = JFM | Social = **non-forest land**; JFM = degraded forest |
-| FRA IFR cap 10 ha | **4 ha** |
-| Agroforestry Policy 2006 | **2014** |
-| ISFR by CPCB | **FSI Dehradun** |
-| NFP 1952 vs 1988 | Current policy = **1988**; 1952 classes ≠ National Park |
-| CAFRI location | **Jhansi**, not Banda |
-| MP vs Mizoram | MP = **largest area**; Mizoram = **highest %** |
-| RF vs Protected Forest | RF = strictest IFA class |
-| Red Sanders = rainforest | **Dry deciduous** South India / Eastern Ghats |
-| Teak = rainforest | **Tropical moist deciduous**; MP max teak |
-| HP = tropical wet evergreen | **Pine/temperate** belts |
-| Urbanisation = deforestation impact | Urbanisation is a **cause** |
-| Mangrove safety = canopy shelter only | **Extensive roots** |
-| Bhitarkanika in West Bengal | **Odisha** — Brahmani–Baitarni |
-| Gujarat < A&N mangrove | **Gujarat 2nd** after WB (ISFR 2021 style) |
-| Aluminium green = saves forests | Recyclability/eco-profile; wood-substitute R often false |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Forest Cover** | **Tree Cover** | All land patches with tree canopy density ≥10% and area ≥1 hectare irrespective of ownership or legal status (FSI remote sensing) vs scattered tree patches, linear trees along canals/roads, and isolated trees <1 hectare outside recorded forest area | वन आवरण (≥1 हे., ≥10% छतरी) / वृक्ष आवरण (<1 हेक्टेयर) |
+| **Reserved Forest (RF)** | **Protected Forest (PF)** | Highest degree of protection under Indian Forest Act 1927; all activities (grazing, timber felling) are strictly prohibited unless expressly permitted vs forest where all activities are permitted unless specifically prohibited by notification | आरक्षित वन (RF, पूर्णतः प्रतिबंधित) / संरक्षित वन (PF, सशर्त अनुमत) |
+| **Recorded Forest Area (RFA)** | **Forest Cover** | Land legally recorded or notified as forest in government records (RF + PF + Unclassed) regardless of actual tree presence vs physical presence of tree canopy detected by satellite imagery (even on private orchards/tea estates) | अभिलिखित वन क्षेत्र (कानूनी अभिलेख) / वन आवरण (भौतिक वृक्ष आच्छादन) |
+| **Forest Conservation Act (FCA 1980)** | **Forest Rights Act (FRA 2006)** | Central regulatory statute preventing de-reservation or diversion of forest land for non-forest purposes without prior central approval vs restorative rights law vesting individual and community forest rights in traditional forest-dwelling tribes and OTFDs | वन संरक्षण अधिनियम 1980 / वन अधिकार अधिनियम 2006 |
+| **Social Forestry** | **Agroforestry** | Growing trees on non-forest communal lands, roadside strips, and wastelands to meet rural fodder and fuel needs (National Commission on Agriculture 1976) vs deliberate integration of woody perennials (trees/shrubs) with agricultural crops and/or livestock on the same land unit | सामाजिक वानिकी / कृषि वानिकी |
+| **Joint Forest Management (JFM)** | **Community Forest Resource (CFR)** | Collaborative institutional partnership between state forest department and village committees to protect and regenerate degraded forests vs statutory community ownership and governance right recognized under Section 3(1)(i) of FRA 2006 | संयुक्त वन प्रबंधन (JFM) / सामुदायिक वन संसाधन अधिकार (CFR) |
+| **Tropical Wet Evergreen Forest** | **Tropical Moist Deciduous Forest** | Dense multi-layered forest with rainfall >200 cm, no distinct leafless season (Ebony, Mahogany, Rosewood) vs most widespread forest in India with rainfall 100–200 cm, shedding leaves for 6–8 weeks in dry spring (Teak, Sal, Shisham) | उष्णकटिबंधीय आर्द्र सदाबहार / उष्णकटिबंधीय नम पर्णपाती वन |
 
 
 ---

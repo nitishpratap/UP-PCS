@@ -54,22 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **German Silver Silver Content** | Believing German Silver contains a low percentage of silver (e.g., 2–5%). | German Silver contains **$0\%\text{ Silver}$** ($Cu + Zn + Ni$). It is named solely for its silvery appearance. |
-| **Allotrope Stability** | Assuming diamond is the most stable form of carbon because it is the hardest. | **Graphite is thermodynamically most stable** at STP ($\Delta_f H^\circ = 0$). Diamond is metastable ($\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
-| **Amalgam Storing** | Believing all transition metals dissolve in mercury. | **Iron ($Fe$), Cobalt, Nickel, and Platinum do NOT form amalgams**. Mercury is commercially stored in heavy iron containers. |
-| **Galvanization vs. Tinning Scratches** | Assuming both zinc and tin continue protecting iron after being scratched. | **Zinc protects even when scratched** (sacrificial anode). **Tin accelerates rusting** if scratched, because iron is more reactive than tin. |
-| **Aqua Regia Acid Ratio** | Confusing the $3:1$ ratio as $3\text{ parts } HNO_3 + 1\text{ part } HCl$. | Aqua Regia is **$3\text{ parts conc. } HCl + 1\text{ part conc. } HNO_3$** (3 volumes of hydrochloric to 1 of nitric). |
-| **Nitric Acid Hydrogen Evolution** | Thinking active metals like Zinc or Iron liberate $H_2$ from dilute $HNO_3$. | $HNO_3$ is a strong oxidizer and produces nitrogen oxides ($NO_2, NO$), not $H_2$. Only **$Mg$ and $Mn$** evolve $H_2$ with $\approx 1\%$ dilute cold $HNO_3$. |
-| **Rusting Weight Consequence** | Assuming rusted iron weighs less because rust flakes away. | Rusting chemically binds atmospheric oxygen and water ($Fe_2O_3 \cdot xH_2O$); the total weight of the iron piece **increases**. |
-| **Brass vs. Bronze** | Mixing up whether Brass or Bronze contains Tin. | **Brass = Copper + Zinc**. **Bronze = Copper + Tin**. Remember: "Bro**n**ze has Ti**n**". |
-| **Liquid Metals at Room Temp** | Thinking Gallium and Caesium are liquid at room temperature ($25^\circ\text{C}$). | Only **Mercury** is liquid at $25^\circ\text{C}$ (m.p. $-38.8^\circ\text{C}$). Gallium ($29.8^\circ\text{C}$) and Caesium ($28.4^\circ\text{C}$) melt slightly above room temperature (in the palm). |
-| **Fool's Gold Extraction** | Assuming Fool's Gold ($FeS_2$) is an ore mined for metallic iron. | Iron pyrites is mined for **sulphur / sulphuric acid production**, not iron extraction, because sulphur impurities make iron brittle. |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025–2026** | **Critical Minerals Mission & Lithium Reserves** | Geological Survey of India (GSI) exploration of **Lithium** reserves in Reasi (Jammu & Kashmir) and Degana (Rajasthan). Lithium ($Li$, $Z=3$) is the lightest metal and lowest-density solid element ($0.534\text{ g/cm}^3$), with the highest negative standard reduction potential ($-3.04\text{ V}$), making it the bedrock of EV lithium-ion batteries. |
+| **2024** | **UPPCS Prelims 2024** | Question on **German Silver composition**: Highlighted the recurring trap that German Silver contains **$0\%\text{ Silver}$** ($Cu \approx 50\%, Zn \approx 30\%, Ni \approx 20\%$). Named solely for its silvery-white metallic luster. |
+| **2023** | **Noble Prize in Chemistry & Carbon Materials** | Advancements in **Graphene** (single atomic layer of $sp^2$ carbon) and Carbon Nanotubes (CNTs) for supercapacitors and aerospace composites: Graphene exhibits ballistic electrical conductivity and tensile strength $>100$ times higher than structural steel. |
+| **2022** | **UPPCS Prelims 2022** | Core thermodynamic trap: **Graphite** is the thermodynamically most stable allotropic form of carbon at standard temperature and pressure ($298.15\text{ K}, 1\text{ bar}$), with standard enthalpy of formation $\Delta_f H^\circ = 0\text{ kJ/mol}$ (Diamond has $\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
+| **2020** | **UPPCS Prelims 2020** | Characteristic matching of metals: Sodium (soft, cut with a knife), Mercury (liquid metal), Silver (highest electrical conductivity), and Lead (poorest thermal conductor among common commercial metals). |
 
 
 ---

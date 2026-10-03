@@ -54,47 +54,12 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-
-* **Bacterium vs Virus**: Bacteria are living prokaryotes with peptidoglycan walls and ribosomes, killed by antibiotics. Viruses are acellular nucleoproteins (DNA or RNA inside a protein capsid) with no metabolic machinery; **antibiotics are completely ineffective against viruses**.
-* **Synthetic Medium Culturing vs Viruses**: Bacteria and fungi can be cultured on cell-free artificial nutrient media (agar/broth). Viruses cannot be cultured on synthetic media; they require living host cells.
-* **Mycoplasma Trap**: *Mycoplasma* is the smallest organism capable of autonomous growth; it lacks a cell wall and is naturally resistant to penicillin.
-* **The *Haemophilus influenzae* Trap**: Despite its historic name, *Haemophilus influenzae* is a **bacterium** causing purulent pediatric meningitis, acute epiglottitis, and pneumonia (prevented by the Hib vaccine); it does **not** cause Influenza (which is caused by the Influenza virus). Whooping cough is caused by ***Bordetella pertussis***.
-* **Fungi & Mushrooms**: Fungi lack chlorophyll and vascular bundles, possessing chitin walls and glycogen stores. Yeasts, moulds, and mushrooms are fungi. Gucchi (*Morchella*) is a wild, non-cultivable edible Ascomycete fungus of Himalayan conifer forests. Death cap (*Amanita phalloides*) is a lethal poisonous mushroom.
-* **Biological Interactions**:
-  * **Mutualism (+/+)**: Lichens (alga + fungus), Mycorrhiza (fungus + higher plant roots), Fig & Fig wasp (obligate pollination co-evolution), Corals (*Symbiodinium*).
-  * **Commensalism (+/0)**: Barnacles on whales, remora on sharks, cattle egrets with cattle, epiphytic orchids on trees.
-  * **Hyperparasitism**: Parasite of a parasite (Apocrita wasps, Diptera).
-* **Lichens as Bio-indicators**: Lichens do NOT grow in polluted areas; exquisitely sensitive to $SO_2$.
-* **Ecosystem Energetics**: Producers (Trophic Level-I) act as the intermediary between abiotic and biotic components. Primary productivity is measured in $g/m^2/\text{year}$. Chief oceanic primary producers are Diatoms (~45%) and Cyanobacteria; Copepods are primary consumers.
-* **Human Species**: Chinese, American, Indian, and Black African populations all belong to the exact same species: ***Homo sapiens***.
-* **Curd vs Vinegar**: Curd's sour taste is due to **Lactic Acid** fermented by *Lactobacillus*. Vinegar's sour taste is due to **Acetic Acid** fermented by *Acetobacter aceti*.
-* **Biodegradable vs Recyclable**: Wool is a natural protein fibre that decomposes in soil (**biodegradable**). Plastic, glass, and aluminium foil are **non-biodegradable**. Glass and aluminium can be melted down and reformed (**recyclable**), but they will never decompose into organic humus.
-* **DDT & Pesticides**: DDT, BHC (Lindane), and Endosulfan are non-biodegradable chlorinated hydrocarbons that accumulate in body fat and undergo **biomagnification** across trophic levels.
-* **BOD vs COD**: High BOD means high organic pollution and low Dissolved Oxygen ($DO < 4\text{ mg/L}$ kills fish). **COD is always greater than BOD** because COD measures total chemical oxidation of all organics, while BOD measures only biological degradation.
-* **Biogas Components**: Methane ($\mathbf{CH_4}$, **50–70%**) is the primary combustible component, followed by Carbon Dioxide ($\mathbf{CO_2}$, **30–40%**).
-* **Research Institutes Locations**:
-  * CDRI, CIMAP, NBRI, IITR, BSIP, and IISR are all located in **Lucknow**.
-  * IVRI and CARI are at **Izatnagar, Bareilly**.
-  * IIVR is in **Varanasi**; IGFRI is in **Jhansi**; CIRG is in **Mathura**; NSI is in **Kanpur**.
-  * NIV is in **Pune**; NDRI is in **Karnal**; CFTRI is in **Mysuru**; NEERI is in **Nagpur**.
-  * WHO is in **Geneva**; FAO is in **Rome**; UNEP is in **Nairobi**.
-* **Key Science Days**:
-  * **28 February**: National Science Day (Raman Effect discovery in 1928, not Raman's birthday).
-  * **24 March**: World TB Day (Koch's discovery of TB bacillus in 1882).
-  * **7 April**: World Health Day (WHO established in 1948).
-  * **5 June**: World Environment Day (1972 Stockholm Conference).
-  * **26 November**: National Milk Day (Verghese Kurien's birthday).
-  * **1 December**: World AIDS Day.
-* **The Six Seasons (*Shad Ritus*) Order**:
-  1. **Vasanta** (Spring: mid-Feb to mid-Apr, Chaitra–Vaishakha)
-  2. **Grishma** (Summer: mid-Apr to mid-Jun, Jyeshtha–Ashadha; *Zaid* crops)
-  3. **Varsha** (Rains: mid-Jun to mid-Aug, Shravana–Bhadrapada; *Kharif* sowing, mosquitoes)
-  4. **Sharad** (Autumn: mid-Aug to mid-Oct, Ashwina–Kartika; monsoon retreat, "October heat")
-  5. **Hemanta** (Pre-Winter: mid-Oct to mid-Dec, Margashirsha–Pausha; *Rabi* sowing)
-  6. **Shishira** (Winter: mid-Dec to mid-Feb, Magha–Phalguna; peak cold, frost, *Mahawat* winter rains for wheat)
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **28 February** | **National Science Day** observed nationwide across India. | Celebrated to commemorate the landmark discovery of the **Raman Effect (inelastic scattering of light)** by **Sir C. V. Raman on 28 February 1928** (awarded Nobel Prize in Physics in 1930). It does **not** mark Raman's birthday, Fleming's penicillin, or World Environment Day. |
+| **26 November** | **National Milk Day** observed annually in India. | Commemorates the birth anniversary of **Dr. Verghese Kurien**, the "Father of the White Revolution" in India and mastermind of **Operation Flood** (launched in 1970 by NDDB, Anand). Coincides with Constitution Day (*Samvidhan Diwas*). |
+| **Still Current** | **WHO Global Smallpox Eradication (1980)**. | Smallpox remains the **only human infectious disease officially certified as completely eradicated globally from nature** through mass worldwide vaccination initiated by **Edward Jenner's** cowpox inoculation (1796). |
+| **Still Current** | **Antimicrobial Resistance (AMR) & "Superbugs"**. | Indiscriminate and incomplete courses of antibiotics induce selective pressure, promoting plasmid-mediated horizontal gene transfer (via conjugation) and bacterial multidrug resistance (e.g., MRSA — *Methicillin-Resistant Staphylococcus aureus*, NDM-1 — *New Delhi Metallo-beta-lactamase-1*). |
 
 
 ---

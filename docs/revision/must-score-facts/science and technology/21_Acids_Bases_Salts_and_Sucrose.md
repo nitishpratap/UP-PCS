@@ -54,22 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Baking vs. Washing Soda** | Mixing up $NaHCO_3$ and $Na_2CO_3 \cdot 10H_2O$. | **Baking Soda is $NaHCO_3$** (contains Hydrogen). **Washing Soda is $Na_2CO_3 \cdot 10H_2O$** (10 waters). |
-| **Plaster of Paris Water Count** | Forgetting whether PoP has $\frac{1}{2}$ or $2$ water molecules. | **Plaster of Paris has $\frac{1}{2}\text{ H}_2\text{O}$** ($CaSO_4 \cdot \frac{1}{2}H_2O$). **Gypsum has $2\text{ H}_2\text{O}$** ($CaSO_4 \cdot 2H_2O$). |
-| **pH Direction Rules** | Reading fast and accepting "Acids have pH > 7". | **Acids have pH < 7**. **Bases have pH > 7**. pH 7 is neutral at $25^\circ\text{C}$. |
-| **Hot Water Neutrality** | Assuming water at $50^\circ\text{C}$ with pH 6.63 is acidic. | It is **strictly neutral** because $[H^+] = [OH^-]$. Neutrality means equal concentrations, not rigidly pH 7.0. |
-| **Sucrose Reducing Ability** | Assuming all sweet sugars are reducing sugars. | **Sucrose is a NON-REDUCING sugar**. Both anomeric carbons are locked in the glycosidic bond. |
-| **Sweetest Natural Sugar** | Believing glucose or sucrose is the sweetest sugar. | **Fructose is the sweetest natural sugar** ($\sim 170$ vs sucrose 100). |
-| **Ant Sting Acid** | Answering acetic acid for ant bites. | Ant stings inject **Methanoic acid (Formic acid, $HCOOH$)**, not acetic acid. |
-| **Kidney Stone Composition** | Assuming kidney stones are made of uric acid or calcium carbonate. | $\approx 80\%$ of kidney stones are composed of insoluble **Calcium Oxalate ($CaC_2O_4$)**. |
-| **Aspartame Cooking Trap** | Thinking aspartame can be used in baked goods. | Aspartame **decomposes at cooking temperatures**; only sucralose and saccharin are heat-stable. |
-| **Turmeric Color in Base** | Expecting turmeric to turn blue or green in base. | Turmeric turns **reddish-brown in basic solutions** (like soap), and stays yellow in acids. |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025–2026** | **Global Ocean Acidification Monitoring** | Ocean absorption of anthropogenic $CO_2$ produces carbonic acid ($CO_2 + H_2O \rightleftharpoons H_2CO_3 \rightleftharpoons H^+ + HCO_3^-$), dropping surface ocean pH from pre-industrial $8.25$ to $\approx 8.14$. Even this $0.1$ unit drop represents a $\approx 30\%$ increase in $[H^+]$ activity, severely impairing calcium carbonate ($CaCO_3$) calcification by coral reefs and molluscs. |
+| **2025** | **UPPCS Prelims 2025** | Direct question on **pH Scale Inversion & Acid-Base Identification**: Keyed that statements claiming "Acids have pH > 7" or "Bases have pH < 7" are unequivocally false. Re-tested baking soda ($NaHCO_3$) decomposition in soda-acid fire extinguishers ($2NaHCO_3 + H_2SO_4 \to Na_2SO_4 + 2H_2O + 2CO_2 \uparrow$). |
+| **2024** | **UPPCS Prelims 2024** | Question on **Litmus Paper Response**: Acid turns blue litmus paper red; base turns red litmus blue. Litmus is derived naturally from **Lichens** (symbiotic association of fungus and alga). |
+| **2024** | **UPPCS / UKPCS Trends** | Formula: **Baking Soda is $NaHCO_3$** (Sodium hydrogen carbonate); **Washing Soda is $Na_2CO_3 \cdot 10H_2O$** (Sodium carbonate decahydrate); **Plaster of Paris is $CaSO_4 \cdot \frac{1}{2}H_2O$**; **Gypsum is $CaSO_4 \cdot 2H_2O$**. |
+| **2023** | **Biomolecules & Sweeteners** | Testing of **Relative Sweetness Index**: **Fructose** is the sweetest naturally occurring sugar ($1.7\times$ sweeter than sucrose). Cane sugar (**Sucrose**) is a non-reducing disaccharide composed of $\alpha\text{-D-glucose} + \beta\text{-D-fructose}$, hydrolyzing to yield optically inverted **Invert Sugar**. |
 
 
 ---

@@ -54,19 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& Negative-Marking Eliminators
-1. **Steel vs Rubber Trap**: Steel is **more elastic** than rubber ($Y_{\text{steel}} \gg Y_{\text{rubber}}$). Do not confuse everyday stretchiness with physical elasticity (restoring stress per unit strain).
-2. **Bulk Modulus of Rigid Body**: Bulk modulus of a perfectly rigid body is **Infinite ($\infty$)**, NOT zero! Compressibility is zero.
-3. **Capillarity vs Straw Suction**: Straw suction is caused by **atmospheric pressure difference** created by muscular expansion of the mouth cavity, NOT capillarity.
-4. **Viscosity Temperature Dependency**: Liquid viscosity **decreases** with temperature, but gas viscosity **increases** with temperature.
-5. **Melting Ice Water Level**: Melting floating ice cube leaves water level **strictly unchanged**. It does not rise or spill over!
-6. **Excess Pressure Soap Bubble vs Drop**: Soap bubble has **two surfaces** ($\Delta P = 4T/R$). Droplet has **one surface** ($\Delta P = 2T/R$).
-7. **Small Connected Bubbles**: Air flows from the **smaller bubble to the larger bubble** because the smaller bubble has higher internal excess pressure.
-8. **Surface Tension on Charging**: Charging a bubble makes it **expand** (radius increases) due to electrostatic repulsion.
-9. **Iceberg Floating Fractions**: In pure freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface ($89\%$ submerged).
-10. **Iron Needle Floatation**: An iron needle floats on water due to **surface tension**, NOT Archimedes' buoyant force!
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Steel vs Rubber Elasticity** | In physics, **Steel is more elastic than rubber** because steel has a higher Young's Modulus and offers greater restoring force per unit strain. |
+| **Cohesion vs Adhesion** | **Cohesion** is attraction between *like* molecules (water-water, mercury-mercury). **Adhesion** is attraction between *unlike* molecules (water-glass, ink-paper). |
+| **Viscosity of Liquid vs Gas** | With increasing temperature, liquid viscosity **decreases**, but gas viscosity **increases** due to greater molecular momentum exchange. |
+| **Capillary Rise vs Depression** | Water wets glass (acute angle) $\implies$ **capillary rise** with concave meniscus. Mercury does not wet glass (obtuse angle) $\implies$ **capillary depression** with convex meniscus. |
+| **Excess Pressure: Drop vs Bubble** | Liquid drop (one surface): $\Delta P = \frac{2T}{R}$. Soap bubble (two surfaces, inner & outer): $\Delta P = \frac{4T}{R}$. |
+| **Iron Ball in Water vs Mercury** | Iron ball sinks in water ($\text{density } 7.8 > 1.0\text{ g/cm}^3$) but floats in mercury ($\text{density } 7.8 < 13.6\text{ g/cm}^3$). |
+| **Iceberg in Freshwater vs Seawater** | In freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface. |
+| **Straw vs Blotting Paper** | Blotting paper absorbs ink by **capillarity**. Drinking through a straw operates by **atmospheric pressure difference** created by mouth suction, NOT capillarity. |
 
 
 ---

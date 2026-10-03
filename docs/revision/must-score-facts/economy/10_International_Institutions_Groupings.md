@@ -54,15 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-* Bretton Woods twins = IMF + World Bank; **both** HQ **Washington D.C.** — not New York.
-* IBRD ≠ IDA ≠ IFC; IFC ≠ IMF.
-* ADB Manila ≠ AIIB Beijing ≠ NDB Shanghai ≠ ASEAN Jakarta.
-* BRIC term **2001** (O’Neill); first summit **2009**; BRICS name **2010**; 10th Summit **South Africa 2018**.
-* BIMSTEC ≠ ASEAN; **Indonesia** out; Secretariat **Dhaka**; 5th Summit chair **Sri Lanka**.
-* SAARC first in India **1986**; SAARC Secretariat **Kathmandu**.
-* G20 logo: **7 petals = 7 continents**; UP odd venue **Kanpur**.
-* WEF → Global Competitiveness Index; IMF → WEO; UNDP → HDI.
-* Inflated BRICS “~46% of world trade” is the usual NOT-correct line.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025** | Bretton Woods twins set up together; **both HQ in Washington D.C.** — World Bank is **not** in New York. | Only statement 1 correct. |
+| **2025** | BIMSTEC members: Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand — **Indonesia is not**. | ASEAN distractor. |
+| **2023** | India’s G20 logo: lotus with **seven petals** = **seven continents**. | Both statements correct. |
+| **2023** | UP G20 venues included Agra, Varanasi, Greater Noida (and Lucknow) — **not Kanpur**. | Odd-city trap. |
+| **2022** | 5th BIMSTEC Summit (30 Mar 2022): Modi addressed; **chaired by Sri Lanka**, not India. | Only 1 true. |
+| **UKPCS 2025** | BRICS expansion members include Iran, Egypt, Ethiopia, UAE (2024) and **Indonesia (2025)**. | Membership multi-select. |
+| **UKPCS 2024/25** | ASEAN Secretariat **Jakarta**; BIMSTEC Permanent Secretariat **Dhaka**; MC-13 **Abu Dhabi** (Topic 9 neighbour). | HQ / venue traps. |
 
 
 ---

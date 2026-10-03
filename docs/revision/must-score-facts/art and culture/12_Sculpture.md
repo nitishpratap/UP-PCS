@@ -54,21 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **Gandhara = schist + Greco-Roman + NW.Mathura = red sandstone + UP.**
-2. **Amaravati = limestone + Aryaka-pillars**, not Bodh Gaya.
-3. **Sarnath Buddha = Gupta**, not Kushan bulk.
-4. **Bharhut = Shunga**, not Mauryan.
-5. **Early Sanchi = aniconic.** Human Buddha = Kushan onward.
-6. **Dharmachakra ≠ bhumisparsha.** Sermon vs enlightenment.
-7. **Dancing Girl = bronze**, not terracotta.
-8. **Nataraja = Chola lost-wax**, not Hoysala soapstone.
-9. **Khajuraho = Nagara mithuna**, not Dravida.
-10. **Konark = 24 wheels / 7 horses.** Elephanta ≠ Konark.
-11. **Udayagiri Varaha = MP Gupta.** Odisha Udayagiri–Khandagiri = Jain caves.
-12. **Didarganj = Mauryan polish Yakshi**, not a Buddha.
-13. **Dhokra ≠ Chola temple bronze.**
-14. **Chunar polish = Mauryan pillars.** Hoysala = soapstone.
-15. Mathura cuts **Jain and Buddhist** images. It is not Buddha-only.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Gandhara | Mathura | Grey **schist**, Greco-Roman, NW vs red **sandstone**, indigenous, **UP** | गांधार / मथुरा |
+| Mathura | Amaravati | Free-standing red-sandstone icons vs Andhra **limestone** narrative panels | मथुरा / अमरावती |
+| Mathura Kushan | Gupta Sarnath | Heavy volume vs transparent robe + spiritual calm | कुषाण / गुप्त |
+| Aniconic | Iconic | Wheel, tree, throne vs human Buddha from Kushan | अनिकोनिक / साकार |
+| Mauryan polish | Gupta finish | Mirror Chunar surface vs smooth idealism, not that polish | मौर्य / गुप्त |
+| Chola Nataraja | IVC Dancing Girl | Processional Shiva bronze vs Harappan lost-wax girl | नटराज / नर्तकी |
+| Khajuraho | Konark | Chandela mithuna vs Ganga Sun-chariot wheels | खजुराहो / कोणार्क |
+| Chola bronze | Dhokra | Temple lost-wax utsava murti vs tribal bell-metal | चोल / ढोकरा |
 
 
 ---

@@ -54,19 +54,10 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-- India WHS is **45**, not 43. UP is **4**, not 3. Add **Sarnath 2026**.
-- **Varanasi ghats** are still Tentative. Sarnath ≠ the ghats.
-- **Khajuraho** is MP, not UP. **Humayun’s Tomb** is Delhi, not UP.
-- Only mixed WHS = **Khangchendzonga**, Sikkim. Kaziranga is **natural**.
-- **Jaipur City (2019)** ≠ **Jantar Mantar (2010)**. Session city = **Baku**.
-- **Ramappa** is Telangana **2021**. Hoysala is Karnataka **2023**. Do not swap.
-- Maratha landscapes include **Gingee, TN**, not Maharashtra-only.
-- World Heritage Day is **18 April**, not 18 May and not 17 October.
-- **1972** sites vs **2003** living heritage. Do not reverse.
-- Ramsar ≠ WHS. **Keoladeo** is a rare both. **Sultanpur** and **Rudrasagar** are not WHS.
-- **Bharatanatyam / Kathak / Nautanki** are not named ICH. **Deepavali now is** (2025).
-- Kutiyattam **2001** Masterpiece and **2008** RL are the **same** element.
-- ASI-protected ≠ UNESCO inscribed.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Idealistic Theory** | Culture grows from **divine inspiration**, intuition, or higher ideas perceived by individuals or groups. |
+| **Materialistic Theory** | **Physical environment**, climate, and **means of production** shape culture first. |
 
 
 ---

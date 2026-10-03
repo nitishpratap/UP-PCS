@@ -54,39 +54,32 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-30. **Blue Water** = **Almeida**; **Goa 1510** = **Albuquerque** (not 1499).
-31. First fort = **Cochin 1503**; first permanent English factory = **Surat 1613** (Masulipatnam 1611 temporary).
-32. **Hooghly** = Portuguese piracy; **Chinsurah** = Dutch; **Serampore** = Danish.
-33. **Levant 1592** precedes EIC **1600**; emperor at EIC founding = **Akbar**.
-34. Immediate First Carnatic spark = **capture of French ships**; peace = **Aix-la-Chapelle**, not Paris.
-35. **Ambur 1749** opens Second Carnatic; **Wandiwash 1760** = Coote beats **Lally**.
-36. **Peter Mundy** is English, not Portuguese.
-
-20. **Bahadur Shah I (1707)** ≠ **Bahadur Shah Zafar (1837–57)**.
-21. **1717 farman** = **Farrukh Siyar**, not Akbar or Jahangir.
-22. **Peacock Throne / Nadir 1739** = **Muhammad Shah Rangeela**.
-23. **Sayyid brothers** = king-makers; **Zulfiqar Khan** backed **Jahandar** only.
-24. **Chin Qilich / Nizam** ≠ **Mubariz Khan**; **Asaf Jah** from **Muhammad Shah**.
-25. Jai Singh observatories exclude **Allahabad**; include **Mathura**.
-26. Zafar’s pension was about **one lakh/month**, not “less than one lakh”.
-
-1. **William Hawkins** did not arrive in **1611**. He reached India in **1608**.
-2. **Sir Thomas Roe** did not come in **1608**. He served as ambassador in **1615–19**.
-3. Among early European travellers, **Ralph Fitch** (1580s) precedes Bernier and Hawkins.
-4. **Vasco da Gama** did not take Goa. **Albuquerque** captured it in **1510**.
-5. The English EIC charter is **1600**. The Dutch VOC charter is **1602**, not 1600.
-6. **Pondicherry** is French. It is not Dutch or Danish.
-7. **Tranquebar** is Danish. It is not French.
-8. **Serampore** is Danish, not French.
-9. **François Bernier** was French, not British.
-10. **Aix-la-Chapelle (1748)** is not **Paris (1763)**.
-11. **Saadat Khan** founded Awadh. He is not the Bengal Nawab **Murshid Quli Khan**.
-12. **Awadh annexation in 1856** came before the **Indigo Revolt of 1859**.
-13. The **1600** charter was a trade monopoly. It did not make the EIC ruler of India from day one.
-14. **Hawkins** and **Roe** served at **Jahangir’s** court, not Akbar’s.
-15. **Shuja-ud-Daula** of Awadh is not **Shuja** in Aurangzeb’s **1658** Banaras fight.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Blue Water | Cartaze | Almeida’s ocean monopoly line vs Portuguese sea-pass fee | ब्लू वॉटर / कार्टाज़ |
+| Almeida | Albuquerque | First Viceroy / Blue Water vs real founder / Goa 1510 | अल्मेदा / अल्बुकर्क |
+| Levant | EIC 1600 | 1592 land-route charter vs sea company under Akbar | लेवेंट / ईआईसी |
+| Masulipatnam 1611 | Surat 1613 | Temporary English factory vs first permanent | मसूलिपत्तनम / सूरत |
+| St. Thome | Wandiwash | 1st Carnatic French win vs 1760 British win over Lally | सेंट थॉम / वांडीवाश |
+| Hooghly | Chinsurah | Portuguese piracy base vs Dutch Fort Gustavus | हुगली / चिन्सुरा |
+| Gama | Albuquerque | 1498 Calicut vs 1510 Goa | गामा / अल्बुकर्क |
+| Hawkins | Roe | 1608 trader-envoy vs 1615–19 ambassador | हॉकिन्स / रो |
+| EIC 1600 | VOC 1602 | English charter vs Dutch company | ईआईसी / वीओसी |
+| Cartaze | Farman | Portuguese sea-pass vs Mughal grant | कार्टाज़ / फ़रमान |
+| Pondicherry | Tranquebar | French vs Danish | पांडिचेरी / ट्रैंकेबार |
+| Chandernagore | Serampore | French Bengal vs Danish Bengal | चंद्रनगर / श्रीरामपुर |
+| Surat | Madras vs Calcutta | 1612 / 1640 / ~1698 | सूरत / मद्रास / कलकत्ता |
+| Aix-la-Chapelle | Paris | 1748 1st Carnatic vs 1763 Seven Years’ War | 1748 / 1763 |
+| Dupleix | Clive | French Carnatic vs English Arcot/Plassey | डुप्ले / क्लाइव |
+| Bahadur Shah I | Zafar | 1707 successor of Aurangzeb vs last Mughal 1837–57 | बहादुर शाह I / ज़फ़र |
+| Rangeela | Farrukh Siyar | Muhammad Shah (Peacock Throne / Nadir) vs 1717 Bengal farman | रंगीला / फ़र्रुख़ |
+| Sayyid brothers | Zulfiqar Khan | King-makers vs Jahandar’s kingmaker | सैय्यद / ज़ुल्फ़िक़ार |
+| Nizam | Saadat Khan | Hyderabad 1724 vs Awadh 1722 | निज़ाम / सआदत |
+| 5 Observatories (Delhi, Jaipur, Ujjain, Varanasi, Mathura) | Non-observatory cities (Agra, Allahabad) | Five cities including Mathura; not Allahabad | जय सिंह |
+| Saadat Khan | Murshid Quli | Awadh 1722 vs Bengal Nawabi | सआदत / मुर्शिद क़ुली |
+| Fitch | Bernier | English 1580s vs French Aurangzeb court | फिच / बर्नियर |
+| 1608 | 1611 | Hawkins arrives **1608** vs trap year **1611** | 1608 / 1611 |
+| Awadh 1722 | annex 1856 | Nawabi start vs Dalhousie end | 1722 / 1856 |
 
 
 ---

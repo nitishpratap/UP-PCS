@@ -54,69 +54,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Ozone = troposphere** — FALSE. **Stratosphere**.
-2. **El Niño → more Peruvian fish** — FALSE. **Less** upwelling / plankton.
-3. **SH deflection = right / magnetic** — FALSE. **Coriolis, left**.
-4. **All jets are easterly** — FALSE. **Westerly**; TEJ is the easterly exception.
-5. **ITCZ = high pressure** — FALSE. **Low**.
-6. **Atmosphere heated by incoming short-wave** — FALSE. **Long-wave from Earth**.
-7. **Argon is a GHG** — FALSE.
-8. **Kyoto = ozone / save water** — FALSE. **Climate / carbon credit**. Montreal = ozone.
-9. **Kilimanjaro = Ring of Fire** — FALSE. **East African Rift**.
-10. **Perihelion = NH summer** — FALSE. **Early January**.
-11. **Seasons = changing distance from Sun** — FALSE. **Tilt**.
-12. **IST only east of Mirzapur** — FALSE. **Whole India**.
-13. **India = 6th largest / wholly tropical** — FALSE. **7th**; **2.4%**; Tropic through the middle.
-14. **Nuclear/geothermal = stored solar** — FALSE.
-15. **Fold = Vosges; fault = Himalaya** — swapped. Himalaya = **fold**; Vosges = **block**.
-16. **Hottest planet = Mercury** — FALSE. **Venus**.
-17. **Largest moon = Titan / our Moon** — FALSE. **Ganymede**.
-18. **Solar eclipse at Full Moon** — FALSE. **New Moon**. Lunar = Full.
-19. **Roaring Forties = 40°N trades** — FALSE. **~40°S westerlies**.
-20. **Nebular theory = Wegener / Hoyle** — FALSE. **Kant–Laplace**. Wegener = drift; Hoyle = Steady State.
-21. **Sial = ocean floor** — FALSE. **Continents**. Sima = ocean.
-22. **Kilimanjaro / Stromboli = same belt** — FALSE. Stromboli = **Mediterranean**; Kilimanjaro = **E. African Rift**.
-23. **All 100 insolation units heat the air directly** — FALSE. ~**35** reflected; surface ~**51**; air then heated by **long-wave**.
-
-24. **Seasons caused by perihelion** — FALSE. Seasons = **axial tilt**.
-25. **Main jet streams = easterly** — FALSE. Main jets are **westerly**; TEJ is the exception.
-26. **Skip spheres / rock cycle / plate types because recent papers asked ozone** — FALSE. Next year can ask any standard NCERT angle from this topic.
-27. **Kilimanjaro = Ring of Fire** — FALSE. **East African Rift**.
-28. **Hottest planet = Mercury / densest = Jupiter** — FALSE. Hottest = **Venus**; densest mean = **Earth**.
-29. **Stratosphere = weather layer** — FALSE. Weather = **troposphere**. Stratosphere = ozone + jet flight (little weather).
-30. **Aurora = mesosphere** — FALSE. **Ionosphere / thermosphere**.
-31. **Horse latitudes = low pressure** — FALSE. Subtropical **high** ~30°.
-32. **Eye of cyclone is 10°C colder** — FALSE. Eye is **warmer**.
-33. **Jet streams = NH only** — FALSE. Both hemispheres.
-34. **Fresh snow = lowest albedo** — FALSE. Fresh snow has **highest** albedo among common options.
-29. **Ganymede = Saturn’s moon / largest moon = Titan** — FALSE. **Ganymede = Jupiter**; Titan = Saturn’s largest.
-30. **Chandrasekhar limit ≈ Eddington / Fowler name alone** — FALSE. ~**1.44 M☉** white-dwarf limit; black-hole path above collapse residue note.
-31. **Nebula = solar-system member** — FALSE. Nebulae are star-forming clouds, not planets/asteroids/comets of the Sun’s family.
-32. **Brittle star = pulsar class** — FALSE. Marine animal; pulsars / quasars / black holes are cosmic.
-33. **Mercury albedo > Earth** — FALSE. Earth albedo higher (~0.3 vs ~0.1).
-34. **Equator through Mexico / Capricorn through Bolivia** — FALSE. Check country lists carefully.
-35. **0°–0° on land / in India** — FALSE. Intersection in **Atlantic** (Gulf of Guinea).
-36. **Solar eclipse at Full Moon / lunar at New Moon** — SWAP. Solar = **New**; lunar = **Full**.
-37. **Granite = metamorphic** — FALSE. **Igneous**; gneiss is its metamorphic child.
-38. **Fossils common in granite** — FALSE. Fossils favour **sedimentary** rocks.
-39. **Most volcanic gas = CO₂ / SO₂** — FALSE. **Water vapour** leads.
-40. **Magma = surface melt** — FALSE. Surface = **lava**; magma is underground.
-41. **Aconcagua = active like Etna** — FALSE. Peak / not active in GC keys; Etna–Vesuvius–Fuji are active.
-42. **Kilimanjaro = Ring of Fire / always extinct** — FALSE. **East African Rift**; mainly **dormant** framing.
-43. **No volcanoes possible in Circum-Pacific** — FALSE. That belt is the **maximum** volcanic belt.
-44. **Baltic Sea = volcanic hotspot** — FALSE. Classic “eruptions do **not** occur” option among seas.
-45. **Epicentre = underground rupture** — FALSE. That is the **focus/hypocentre**; epicentre is the surface point above it.
-46. **Richter step = 100× energy** — FALSE. ~**10×** amplitude and ~**32×** energy; Mercalli measures **intensity**.
-47. **S-waves travel through liquid outer core** — FALSE. **Solids only**; that makes the S shadow.
-48. **Ring of Fire includes forest fires** — FALSE. Quakes + volcanoes around the **Pacific**.
-49. **NW India quakes = coral / volcano only** — FALSE. Mainly **Indian–Eurasian plate** convergence.
-50. **2004 tsunami killed 50 lakh** — FALSE. Order of ~**2–3 lakh**; Bangladesh had few deaths for wave-direction reasons.
-51. **Tsunami is Latin / Arabic** — FALSE. **Japanese** harbour wave.
-
-### 🛰️ Satellite Orbits Master Fact (Ghatnachakra Complete)
-- **Geostationary Satellite Orbit**: Revolves at a **fixed altitude of approximately 35,786 km** directly above Earth's equator. Orbital period matches Earth's rotation (23 hours 56 minutes 4 seconds), appearing stationary from ground.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2013–14** | Mangalyaan / MOM | First Indian Mars orbiter (2024) | ISRO |
+| **2023** | Aditya-L1 | Solar mission — not Mars | ISRO |
+| **1987 / 1997** | Montreal vs Kyoto (क्योटो) | Ozone vs climate | UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) / UNFCCC (यूएनएफसीसीसी) |
+| **2015** | Paris Agreement (पेरिस समझौता) | NDC successor to Kyoto path | UNFCCC |
+| **2018** | Science — Mars subglacial lake | 2018 Q85 | Science |
+| **2026** | El Niño tendency vs Indian monsoon | IMD |
 
 
 ---

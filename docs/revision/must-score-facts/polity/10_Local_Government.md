@@ -54,51 +54,12 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-- **PRIs are in Part VI / IV:Part IX**.
-- **National PR Day = 2 October:24 April**. 2 Oct = Nagaur inauguration / Gandhi.
-- **Gram Sabha = all residents:registered voters** of that GP.
-- **Gram Sabha powers fixed by the Centre:** by **State law**.
-- **Panchayat elections = ECI:SEC (243K)**.
-- **SEC removed like ECI / SC judge:** like an **HC judge**.
-- **Tenure 6 years / during pleasure:5 years** from first meeting.
-- **Women = 1/4 of reserved seats:≥ 1/3** of **total** seats **and** of SC/ST seats.
-- **Constitution mandates 50% women:** floor is **1/3**; 50% is **State law**.
-- **Intermediate tier always exists:** optional if State pop. **≤ 20 lakh**.
-- **All 29 subjects automatically with PRIs:** State **may** endow (243G).
-- **Ashok Mehta = 3-tier / block first:2-tier**; **district** first.
-- **GVK Rao = block-level planning:district**. Block = **Dantwala**.
-- **Nyaya Panchayat is a BR Mehta tier:No** — Singhvi; not in 73rd as a tier.
-- **PESA = 1993 / 1995 / 6th Schedule:1996**, **5th Schedule**.
-- **64th Amd enacted PRIs:failed in RS** (1989); 73rd did it.
-- **Age 25 for GP member:21** (243F).
-- **Dissolved Panchayat’s successor gets a fresh 5 years:** only the **remainder**.
-- **97th Part IXB binds all State coops:struck for State coops (2021)**; FR 19(1)(c) stays.
-- **UP intermediate = Panchayat Samiti:Kshetra Panchayat**.
-- **DPC = Zila Panchayat:** DPC is a **planning** body (PRIs **+** ULBs); ZP is a PRI.
-- **11th Schedule has urban planning:** that is **12th** (18 subjects).
-- **PESA States include Nagaland / 6th Sch.:10 Fifth-Schedule States** only.
-- **Parliament extends Part IX to Nagaland / Meghalaya / Mizoram:** those three opt in only by **their own legislature**. Parliament’s PESA route is **Fifth Schedule** only.
-- **Coop board can be superseded for years:243ZL: max 6 months** (banks: 1 year).
-- **Ripon = 73rd:** Ripon **1882**; 73rd **1992–93**.
-- **Municipal age 25:21** (243V) — same as Panchayat.
-- **ECI conducts Corporation elections:SEC (243ZA)**.
-- **64th and 65th = local government:** those **failed**; enacted pair is **73rd + 74th**.
-- **Mayor is the executive of a Corporation:Commissioner** is; Mayor is political / ceremonial in the default model.
-- **Cantonment Board = 74th municipality:Cantonments Act, MoD**; President = **Station Commander**.
-- **Notified Area Committee is elected:all nominated**.
-- **Ward Committee in every town:** only if pop. **≥ 3 lakh**.
-- **MPC composition = DPC (4/5):** MPC **≥ 2/3**; metro pop. **≥ 10 lakh**.
-- **12th Schedule has 29 subjects:18**. 29 = **11th**.
-- **First Municipal Corporation = Calcutta:Madras, 1688**.
-- **74th in force 24 April 1993:1 June 1993**.
-- **Urban Art. 40:No.** Art. 40 is **village** panchayats only.
-- **Ward Committee = urban Gram Sabha:** committee of **councillors**, not all voters.
-- **NAC = Nagar Panchayat:** NAC = **nominated**; NP = **elected 243Q**.
-- **NDMC = typical 74th corporation:** largely **nominated**.
-- **Development Authority = municipality:not elected**; often holds town-planning in practice.
-- **Property tax is a Union tax:** main **own** municipal tax.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Amendment** | **73rd Act, 1992** (Force: **24 Apr 1993**) | **74th Act, 1992** (Force: **1 June 1993** (1 जून)) |
+| **Part & Articles** | **Part IX** (भाग IX) (Articles **243 to 243-O**) | **Part IXA (नगरपालिका)** (Articles **243-P to 243-ZG**) |
+| **Schedule** | **11th Schedule** (11वीं) (contains **29** subjects) | **12th Schedule** (12वीं) (contains **18** subjects) |
+| **Subject List** | Entry **5** of **State List** (राज्य सूची) | Entry **5** of **State List** |
 
 
 ---
@@ -172,15 +133,16 @@ D. 73rd and 74th
 
 **Q5.**
 Which one of the following is not correctly matched?
+
 A. G.V.K. Rao Committee – Planning at the Block Level
-B. Dantwala Committee – Rural Credit
+B. Dantwala Committee – Block-Level Planning
 C. Santhanam Committee – Panchayati Raj Finances
 D. Ashok Mehta Committee – Panchayati Raj Institutions
 
 <details>
 <summary>Show answer</summary>
 
-**A is a false pair** (GVK Rao = **district**). **B is also a false pair** (Dantwala = **block-level planning**). C and D are correct.
+**Ans: A** — G.V.K. Rao Committee (1985) was on Administrative Arrangements for Rural Development and recommended making the District the basic unit for planning. Dantwala Committee (1978) was on Block-Level Planning.
 
 </details>
 
@@ -272,33 +234,65 @@ D. 1993
 </details>
 
 **Q12.**
-Match Committees with years: Balwant Rai Mehta 1957 · Ashok Mehta 1977 · L.M. Singhvi 1986 · P.K. Thungon 1988.
-Code: A-1, B-2, C-3, D-4
+Match List-I (Committees on Panchayati Raj) with List-II (Year of Appointment):
+
+List-I:
+a. Balwant Rai Mehta Committee
+b. Ashok Mehta Committee
+c. L.M. Singhvi Committee
+d. P.K. Thungon Committee
+
+List-II:
+1. 1957
+2. 1977
+3. 1986
+4. 1988
+
+Select the correct code:
+A. a-2, b-1, c-3, d-4
+B. a-1, b-2, c-3, d-4
+C. a-1, b-2, c-4, d-3
+D. a-2, b-1, c-4, d-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: that code (option B in the paper).**
+**Ans: B** — Balwant Rai Mehta (1957), Ashok Mehta (1977), L.M. Singhvi (1986), P.K. Thungon (1988).
 
 </details>
 
 **Q13.**
-Chronology of committees: B.R. Mehta · Ashok Mehta · G.V.K. Rao · L.M. Singhvi.
+Arrange the following Panchayati Raj committees in chronological order of their constitution:
+1. Balwant Rai Mehta Committee
+2. Ashok Mehta Committee
+3. G.V.K. Rao Committee
+4. L.M. Singhvi Committee
+
+Select the correct sequence from the codes given below:
+A. 1, 2, 3, 4
+B. 1, 3, 2, 4
+C. 2, 1, 3, 4
+D. 2, 1, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: 1957 → 1977 → 1985 → 1986** (III – I – IV – II).
+**Ans: A** — Chronological order: Balwant Rai Mehta (1957) → Ashok Mehta (1977) → G.V.K. Rao (1985) → L.M. Singhvi (1986).
 
 </details>
 
 **Q14.**
-In India the First Municipal Corporation was set up in which one among the following places?
+In India, the first Municipal Corporation was set up in which one among the following places?
+
+A. Calcutta
+B. Bombay
+C. Madras
+D. Delhi
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Madras (Chennai), 1688.**
+**Ans: C** — In India, the first Municipal Corporation was set up in Madras (Chennai) in the year 1688.
 
 </details>
 

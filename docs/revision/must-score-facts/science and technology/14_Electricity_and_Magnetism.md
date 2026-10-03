@@ -52,18 +52,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **The "Current Density is Scalar" Trap:**
-   - Electric current ($I$) is scalar, but **current density ($\vec{j} = I/A$) is a VECTOR quantity** pointing in the direction of positive charge motion.
-2. **The "Transformer Works on DC" Trap:**
-   - A transformer **cannot work on direct current**. Connecting DC provides constant flux ($d\Phi/dt = 0$), inducing zero secondary EMF and destroying the primary coil.
-3. **The "Heavier Bulb has Less Resistance" Paradox:**
-   - A $100\text{ W}$ bulb has **lower resistance** than a $40\text{ W}$ bulb ($R = V^2/P$). When connected in parallel, the $100\text{ W}$ bulb glows brighter; but when connected in series, the $40\text{ W}$ bulb glows brighter!
-4. **The "Graphite in Cathode" Trap:**
-   - Graphite is used exclusively in the **ANODE** of Lithium-ion batteries. Cathodes use Cobalt, Lithium, and Nickel (NMC) or Iron (LFP).
-5. **The "Fuse Wire has High Melting Point" Trap:**
-   - A fuse wire must have **HIGH RESISTIVITY and a LOW MELTING POINT ($183^\circ\text{C}$)** so that it melts rapidly during an overcurrent surge.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Electric Current ($I$)** | **Current Density ($\vec{j}$)** | Current is a **scalar** ($I = Q/t$ in Amperes). Current density is a **vector** ($\vec{j} = I/A$ in $\text{A/m}^2$, pointing along drift of positive charge). |
+| **Electric Power ($P$)** | **Electric Energy ($E$)** | Power is rate of doing electrical work ($P = VI = I^2 R = V^2/R$ in Watts). Energy is power integrated over time ($E = P \cdot t$ in Joules or $\text{kWh}$). |
+| **AC Dynamo** | **DC Dynamo** | AC dynamo uses **slip rings** (continuous rings). DC dynamo uses a **commutator** (split rings) to mechanically rectify alternating induced EMF into DC. |
+| **Step-Up Transformer** | **Step-Down Transformer** | Step-Up increases voltage ($N_s > N_p, V_s > V_p$) while decreasing current. Step-Down decreases voltage ($N_s < N_p, V_s < V_p$) while increasing current. **Both conserve power: $V_p I_p \approx V_s I_s$**. |
+| **Fuse Wire** | **Heater Element (Nichrome)** | Fuse wire requires **low melting point ($183^\circ\text{C}$)** and high resistivity to melt quickly under fault. Heater wire requires **high melting point ($1400^\circ\text{C}$)** and high resistivity to stay red-hot without melting. |
+| **LED** | **CFL** | LED emits light via solid-state **electroluminescence** (GaAs, $50k-100k\text{ h}$, no toxic mercury). CFL uses gas discharge through **mercury vapour** exciting phosphor ($6k-15k\text{ h}$). |
+| **Photovoltaic Cell** | **Photodiode** | Photovoltaic cell **generates electric power** from incident light (solar panels). Photodiode **senses light** as a light-controlled switch (reverse-biased detector). |
 
 
 ---

@@ -54,35 +54,24 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. Bhakti did **not** start with Kabir; the **Alvars and Nayanars** of south India in the **7th century** are the earliest phase.
-2. **Kabir and Guru Nanak** were separate persons, and Kabir did not found Sikhism.
-3. **Mardana** was Nanak's disciple, not his guru, so do not reverse the pair.
-4. **Surdas** was a disciple of **Vallabhacharya**, not Ramananda.
-5. **Tughlaqnama** is not by Ibn Battuta; that is a wrong topic bleed from another question.
-6. **Nizamuddin** belongs to **Delhi**, never Multan.
-7. **Fawaid-ul-Fuad** was compiled by **Amir Hasan Sijzi**, not Amir Khusrau.
-8. **Ramcharitmanas** was written in **Awadhi**, not Sanskrit.
-9. **Vallabhacharya** taught **Shuddhadvaita**, not Dvaita (Madhva taught Dvaita).
-10. **Namdev** always comes before **Kabir** in chronology.
-11. **Chaitanya** was a **saguna Krishna** devotee, not a nirguna saint.
-12. **Chishti** saints rejected state wealth, while **Suhrawardi** saints accepted patronage.
-13. **Gangabai — Ganesh Dev Leela** is the wrong poetess–composition pair.
-14. **Tulsidas** (16th century) came **after** Kabir and Nanak, so do not place him earlier.
-15. **Gorakhnath** belonged to the **Nathpanthi** tradition, not the Chishti order or mainstream Bhakti sants.
-16. **Gita Govinda** (Jayadeva) is **not** the **Bhagavad Gita** — do not swap Radha–Krishna poetry with Krishna's battlefield sermon.
-17. **Basavanna** belongs to **12th-century Karnataka Lingayat** reform — not north Indian Rama/Krishna sant line.
-18. **Baba Farid** was **Chishti (Ajodhan)**, not Suhrawardi (Multan); his verses are in the **Adi Granth** alongside Kabir and Namdev.
-19. **Jnaneshwari** is **Jnaneshwar's Marathi Gita commentary** — not Tulsidas's Awadhi Ramayana.
-
-20. **Amarmul** = Kabir–Dharamdas dialogues; **Bijak** = Kabirpanthi scripture.
-21. **Rasik Priya** = **Keshavdas**, not Raskhan (**Prem Vatika**).
-22. Chishti order name = **Chisht (Afghanistan)**; Indian centre = **Ajmer** under Moinuddin (**Usman Haruni**'s disciple).
-23. **Shaikh-ul-Hind** = **Salim Chishti**; **Mehboob-i-Ilahi** = **Nizamuddin**; **Chirag-i-Delhi** = **Nasiruddin**.
-24. **Naqshbandi** opposed **Sama**; **Firdausi** centres on **Bihar**; **Ulema** ≠ Sufi term.
-25. **Tulsidas** = Rajapur (**Chitrakoot**), wife **Ratnawali**, contemporaries **Akbar–Jahangir**.
-26. **Shankaradeva** = Assam/Kamarupa Vaishnavism; **Malukdas** = **Kada** (Kaushambi).
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Saguna | Nirguna | Formed deity (Krishna/Rama) vs formless one God (Kabir/Nanak) | सगुण / निर्गुण |
+| Alvar | Nayanar | Vishnu devotees vs Shiva devotees (both south, early) | आल्वर / नायनार |
+| Ramananda | Ramanuja | North Rama bhakti (Banaras) vs South philosopher (Vishishtadvaita) | रामानंद / रामानुज |
+| Chishti | Suhrawardi | Reject wealth/state vs accept patronage and office | चिश्ती / सुहरावर्दी |
+| Advaita | Vishishtadvaita | Shankara (world=maya) vs Ramanuja (soul distinct yet united) | अद्वैत / विशिष्टाद्वैत |
+| Surdas | Tulsidas | Braj Krishna (Sursagar) vs Awadhi Rama (Ramcharitmanas) | सूरदास / तुलसीदास |
+| Mirabai | Andal | Rajasthan Krishna devotee vs Tamil Alvar woman saint | मीराबाई / आंडाल |
+| Basavanna | Ramanuja | Karnataka Lingayat reform (anti-caste, Ishtalinga) vs Tamil Vishishtadvaita philosopher | बसवन्ना / रामानुज |
+| Jnaneshwar | Namdev | Varkari founder (Jnaneshwari Gita) vs earlier Vithoba saint in same line | ज्ञानेश्वर / नामदेव |
+| Baba Farid | Kabir | Chishti saint (Ajodhan); verses in Adi Granth vs nirguna Kashi weaver-saint | बाबा फरीद / कबीर |
+| Pir | Guru | Sufi spiritual master (silsilah) vs Bhakti preceptor | पीर / गुरु |
+| Amarmul | Bijak | Kabir–Dharamdas dialogues vs main Kabirpanthi scripture | अमरमूल / बीजक |
+| Prem Vatika | Rasik Priya | **Raskhan** vs **Keshavdas** | प्रेम वाटिका / रसिक प्रिया |
+| Chisht (Afghanistan) | Ajmer | Order name origin vs Moinuddin's Indian centre | चिश्त / अजमेर |
+| Ulema | Shaikh | Islamic law scholars vs Sufi guide authorised to teach | उलेमा / शेख |
+| Firdausi | Chishti core | **Bihar** (Yahya Maneri line) vs Delhi–Ajmer Chishti belt | फिरदौसी / चिश्ती |
 
 
 ---

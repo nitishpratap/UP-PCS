@@ -40,22 +40,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-| Trap | Correct fact |
-|------|----------------|
-| Energy flow is cyclic | **Unidirectional** — nutrients cycle, energy does not |
-| All pyramids always upright | Only **energy** pyramid is always upright |
-| Grazing chain starts from dead matter | Starts from **living green plants** |
-| Sun is Trophic Level 1 | Sun = energy **source**; **Producer = T1** |
-| 10% rule by Darwin | **Lindeman 1942** |
-| Food web makes energy cyclic | Each pathway is **one-way** |
-| Biomass pyramid measures energy flow | Biomass = **g/m²**; energy = **kcal/m²/yr** |
-| Open ocean = inverted number pyramid | Open ocean / pond = inverted **biomass** pyramid |
-| Man is only secondary consumer | Man is **primary + secondary** consumer |
-| Virus is a decomposer | Decomposers = **fungi + bacteria** |
-| Food chain within one species | Food chains are **across** feeding links, not within one species |
-| Highest DDT in grasshopper | Highest in top consumer (e.g. **snake**) |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Food Chain** | **Food Web** | Single linear sequence of organisms where nutrients and energy transfer through feeding vs complex network of interconnected, interlocking food chains providing alternative feeding pathways | खाद्य श्रृंखला / खाद्य जाल |
+| **Grazing Food Chain (GFC)** | **Detritus Food Chain (DFC)** | Begins with living green photosynthetic plants (producers) and drives terrestrial energy vs begins with dead organic matter (detritus) decomposed by fungi and bacteria | चराई खाद्य श्रृंखला / अपरद (अवशेष) खाद्य श्रृंखला |
+| **Upright Pyramid of Biomass** | **Inverted Pyramid of Biomass** | Characteristic of terrestrial grasslands and forests where producer biomass far exceeds herbivores vs characteristic of aquatic/pond ecosystems where standing crop of phytoplankton is smaller than zooplankton/fish | सीधा जैवभार पिरामिड (स्थलीय) / उल्टा जैवभार पिरामिड (जलीय/तालाब) |
+| **10% Energy Transfer Law** | **Bioaccumulation** | Raymond Lindeman (1942) principle that only ~10% of energy transfers from one trophic level to the next vs progressive buildup of non-biodegradable chemicals within an individual organism over time | 10% ऊर्जा नियम (लिंडमैन) / जैव संचय (बायोएक्यूमुलेशन) |
+| **Bioaccumulation** | **Biomagnification** | Increase in toxicant concentration within a single organism's tissues through direct absorption from water/food vs increase in toxic chemical concentration (e.g. DDT, mercury) across successive trophic levels of a food chain | जैव संचय (एक जीव में) / जैव आवर्धन (खाद्य श्रृंखला में) |
+| **Primary Consumer** | **Secondary Consumer** | Herbivores feeding directly on autotrophic green plants (cow, deer, zooplankton) vs primary carnivores that hunt and feed on herbivores (frog, fox, small fish) | प्राथमिक उपभोक्ता (शाकाहारी) / द्वितीयक उपभोक्ता (मांसाहारी) |
+| **Pyramid of Energy** | **Pyramid of Numbers** | Always universally upright in all ecosystems because energy is irretrievably lost as metabolic heat at each level vs can be upright (grassland) or inverted (single large tree supporting thousands of birds/parasites) | ऊर्जा पिरामिड (सदैव सीधा) / संख्या पिरामिड |
 
 
 ---

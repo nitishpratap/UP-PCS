@@ -54,38 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Simlipal = Madhya Pradesh** — FALSE. **Odisha**.
-2. **Nokrek = Manipur** — FALSE. **Meghalaya**.
-3. **Nanda Devi = Uttar Pradesh** — FALSE. **Uttarakhand**.
-4. **Botanical garden = in-situ** — FALSE. **Ex-situ**.
-5. **Dudhwa = Bahraich / Pilibhit** — FALSE. **Lakhimpur Kheri** (2022).
-6. **Pilibhit / Amangarh = National Parks** — FALSE. They are **Tiger Reserves**; only NP = Dudhwa.
-7. **Chandraprabha = Sonbhadra** — FALSE. **Chandauli** (2023).
-8. **Diversity increases toward poles** — FALSE. It **decreases**.
-9. **MISHTI started 2019** — FALSE. Budget **2023–24**; aim = restore mangroves.
-10. **Olivia in August** — FALSE. Nesting **~Nov–May**; Coast Guard, Odisha.
-11. **Rudrasagar / Sultanpur in UP** — FALSE. Tripura / Haryana.
-12. **Ballia has no ecology to ask** — FALSE. Near-nil *forest*; **Surha Tal** is Ramsar.
-13. **Evergreen = largest Indian forest** — FALSE. **Moist deciduous**.
-14. **Coral death = ocean cooling** — FALSE. **~2°C warming**.
-15. **Project Tiger launched 1972 as open fact** — Open recall = **1 April 1973**; 2018 MCQ omitted 1973.
-16. **Hotspots = 18** — FALSE. **Four** hotspots; **18** biosphere reserves.
-17. **Nanda Devi = first BR** — FALSE. **Nilgiri (1986)** is first.
-18. **Forest cover % = Recorded Forest Area %** — FALSE. ISFR cover ≠ legal RFA.
-19. **Four hotspots = Eastern Himalaya + Western Himalaya + Western Ghats + Andaman** — FALSE. The four are Himalaya, Western Ghats–Sri Lanka, Indo-Burma, and Sundaland (**Nicobar**).
-20. **Dry evergreen = Western Ghat rain forest** — FALSE. It is the **Tamil Nadu / Coromandel** NE-monsoon belt.
-21. **Chir pine is an alpine juniper scrub** — FALSE. Chir is **sub-tropical pine** at about 1000–2000 m in the western Himalaya.
-22. **Hotspots exist only in the tropics** — FALSE. Mediterranean, SW Australia and Chilean temperate forest are hotspots too.
-23. **Northern Himalayan slopes denser than southern** — FALSE. **Southern** slopes denser (more rain + sun).
-24. **Tree-line higher in Western Himalaya** — FALSE. Tree-line is **lower** in the west.
-25. **Vembanad = Karnataka** — FALSE. **Kerala**.
-26. **Flame of the forest = Teak / Bauhinia** — FALSE. **Butea monosperma (Palash / Dhak)**; UP state flower.
-27. **Katha from Sal / Babool** — FALSE. From **khair**.
-28. **Mahogany = Himalayan species** — FALSE. Tropical evergreen; Himalayan set = juniper, fir, spruce, deodar, birch.
-29. **Cinchona grows in Chhattisgarh** — FALSE. Assam / Kerala / West Bengal evergreen belts.
-30. **Birch = Nilgiris / Aravallis / Vindhyas** — FALSE. **Himalayas**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **5 Jun 2026** | **Surha Tal / JP Narayan BS (Ballia)** = India’s **100th Ramsar**; UP **13th** | Count + latest UP site | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) / PIB |
+| **2025–26** | UP Ramsar adds Patna (पटना) BS, Sheikha Jheel, Surha Tal (full names in N.6) | State list (राज्य सूची) | MoEFCC |
+| **Budget 2023–24** | **MISHTI** mangrove restoration — not a 2019 start | Mangrove scheme year | Budget |
+| Static | Olivia (Coast Guard (तटरक्षक बल), Odisha, Nov–May); coral warming 2024 PYQ | Coastal ops | ICG / PYQ |
+| ISFR | Use the **report year in the question**; 2017 = 21.54% is a frozen PYQ | Figure trap | FSI |
 
 
 ---

@@ -54,29 +54,22 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-**Wrong stem → fact.** (Same facts as above; this is the trap list.)
-
-- Art. 155 = removal of Governor → **Appointment**; removal = **156 pleasure**.
-- One person cannot be Governor of two States → **Can** — 7th Amd proviso to **153**.
-- Art. 162 = executive power of State → that’s **154**; **162 = extent**.
-- Governor always on CoM advice → **except discretion** (163).
-- Governor can pardon a death sentence → **No** — only the President.
-- LC can be dissolved → **Never**; it can be **abolished** (169).
-- LC minimum 50 / 1/4 of LA → **min 40; max 1/3 of LA**.
-- CoM min 10 in a State → **12** including CM (91st).
-- CoM responsible to both Houses → **LA only**.
-- President must assent if a reserved Bill is re-passed → **No** — unlike the Governor under 200.
-- AG removed like an HC judge → **pleasure of the Governor**.
-- RS-style Chairman of LC is the Governor → LC elects its **own** Chairman from among members.
-- State legislature has a joint sitting → **No** — Art. **197**, LA prevails.
-- Bill starting in LC and rejected by LA is saved by 197 → **dies**.
-- SPSC members removed by the Governor → **appointed** by Governor, **removed by the President**.
-- Art. 192 disqualification decided by the Speaker → **Governor + binding EC** (defection excepted).
-- Governor’s ordinance needs no one’s instructions → **President’s instructions** in three listed cases.
-- CM must be from the Assembly → can be from the **Council**; or a non-member for **6 months**.
-- Tribal welfare minister optional in all States → **compulsory** in CG, JH, MP, Odisha.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Art. 155 appointment | Art. 156 pleasure / removal | 155 ≠ removal | नियुक्ति / पदच्युति |
+| Art. 154 vesting | Art. 162 extent | Power vested vs **extent** of power | 154 / 162 |
+| Art. 72 death pardon | Art. 161 Governor pardon | Only President for death / court-martial | क्षमा |
+| LC abolished | LC dissolved | Can be **abolished** (169); **never dissolved** | विधान परिषद |
+| CoM min 12 | “Min 10” trap | Floor is **12** including CM (91st) | मंत्रिपरिषद |
+| CoM to LA only | “Both Houses” claim | Collective responsibility to **Assembly only** | सामूहिक उत्तरदायित्व |
+| Art. 200 re-passage | Art. 201 reserved Bill | Governor bound after re-passage path vs President **still free** | 200 / 201 |
+| SPSC appointment | SPSC removal | Governor appoints vs **President** removes | राज्य लोक सेवा आयोग |
+| State joint sitting | Art. 197 | **No** joint sitting; Assembly prevails | संयुक्त बैठक नहीं |
+| LC-origin Bill | Assembly rejection | Bill **dies** if Assembly rejects | परिषद विधेयक |
+| NCT-style LG | State Governor | Different Centre tether; State Governor = 153–162 scheme | उपराज्यपाल / राज्यपाल |
+| Tribal welfare minister | All States optional | **Compulsory** in CG, JH, MP, Odisha | जनजातीय कल्याण |
+| LC Chairman | Governor as automatic Chair | Council elects its **own** Chairman from members | परिषद सभापति |
+| One Governor, one State | 7th Amd proviso | Same person **may** govern two or more States | एक व्यक्ति दो राज्य |
 
 
 ---

@@ -54,22 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Voting Ink Compound** | Answering silver chloride or silver iodide for election ink. | Election ink contains **Silver Nitrate ($AgNO_3$, Lunar Caustic)**. |
-| **Heavy Water Identity** | Confusing heavy water with mineral-rich hard water. | Heavy water is **Deuterium Oxide ($D_2O$)**; hard water is $H_2O$ containing dissolved $Ca^{2+}/Mg^{2+}$. |
-| **Water Hardness Types** | Swapping temporary and permanent hardness salts. | **Temporary = Bicarbonates** ($Ca(HCO_3)_2$). **Permanent = Chlorides and Sulphates** ($CaCl_2, MgSO_4$). |
-| **Father of Indian Chemistry** | Confusing P. C. Ray with C. V. Raman or J. C. Bose. | **Acharya P. C. Ray** is the Father of Indian Chemistry (mercurous nitrite, Bengal Chemicals). |
-| **Calomel vs. Corrosive Sublimate** | Mixing up $Hg_2Cl_2$ and $HgCl_2$. | **Calomel = $Hg_2Cl_2$** (mercurous, insoluble). **Corrosive Sublimate = $HgCl_2$** (mercuric, toxic). |
-| **Sindoor Chemical Identity** | Guessing mercuric oxide or calcium carbonate for Sindoor. | Sindoor / Red Lead / Minium is **Trilead Tetroxide ($Pb_3O_4$)**. |
-| **Saltpetre vs. Chile Saltpetre** | Confusing potassium and sodium nitrates. | **Saltpetre (Nitre) = $KNO_3$**. **Chile Saltpetre = $NaNO_3$**. |
-| **Barium Meal Compound** | Writing barium chloride or barium carbonate for X-rays. | Only insoluble **Barium Sulphate ($BaSO_4$)** is non-toxic and used as a radiopaque meal. |
-| **Eosin Dye Purpose** | Confusing Eosin with blue vitriol or rodenticides. | Eosin is the **red coloring dye in commercial Red Ink** and biological tissue stains. |
-| **Noble Gas Distractors** | Assuming Actinium is a noble gas. | Actinium ($Ac, Z=89$) is an **actinide transition metal**, NOT a noble gas (Group 18). |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2024–2025** | **Nobel Prize in Chemistry (2024)** | Awarded to **David Baker** (computational protein design) and **Demis Hassabis & John M. Jumper** (AI protein structure prediction via AlphaFold2), decoding the 3D structures of virtually all 200 million identified biological proteins. |
+| **2024** | **Election Chemistry — Voter's Indelible Ink** | In the 2024 Indian General Elections, Mysore Paints & Varnish Ltd. supplied indelible voter ink containing **Silver Nitrate ($AgNO_3$, Lunar Caustic)**. When applied to the fingernail, $AgNO_3$ reacts with skin proteins and ambient sunlight to photochemically precipitate insoluble black metallic silver ($Ag$), which cannot be washed off with soap or organic solvents. |
+| **2023** | **UPPCS Prelims 2023** | Questions on Gas Nicknames & Element Groups: **Laughing gas** confirmed as **Nitrous Oxide ($N_2O$)**. Identified that **Actinium ($Ac, Z=89$)** is an actinide transition element, NOT a noble gas (Group 18). |
+| **2023** | **Nobel Prize in Chemistry (2023)** | Awarded to **Moungi Bawendi, Louis Brus, and Alexei Ekimov** for the discovery and synthesis of **Quantum Dots** (semiconductor nanocrystals whose optical properties are governed by quantum size confinement, widely used in QLED televisions and bio-imaging). |
+| **2020** | **UPPCS Prelims 2020** | Classic Master Match Set: Blue vitriol (fungicide), Eosin (red ink), Silver iodide (artificial rain), and Zinc phosphide (rodenticide). |
 
 
 ---

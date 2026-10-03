@@ -43,18 +43,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Desertification = only desert expansion | **ASDM productivity loss** |
-| UNCCD = climate treaty | **Desertification**; UNFCCC = climate |
-| UNCCD signed at Rio 1992 | **Adopted 1994** |
-| Afforestation causes degradation | **Prevents** it |
-| Gully = sheet | Different stages |
-| Drought = desertification | Related, **not identical** |
-| LDN year 2025/2040 | **2030** |
-| Chambal only in one state | **MP–UP–Rajasthan** |
-| DPAP = 1994 | **1973–74** |
-| Normal erosion = focus | **Accelerated** erosion is |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Desertification** | **Land Degradation** | Land degradation specifically occurring in arid, semi-arid, and dry sub-humid areas (drylands) from climatic variations and human activities vs any reduction in productive potential of land everywhere | मरुस्थलीकरण (शुष्क क्षेत्र) / भूमि क्षरण (सामान्य भूमि) |
+| **Drought** | **Desertification** | Temporary natural period of deficient precipitation over months/years vs persistent, long-term degradation and loss of biological/economic productivity in dryland soils | सूखा (अस्थायी जल संकट) / मरुस्थलीकरण (स्थायी भूमि ह्रास) |
+| **Sheet Erosion** | **Gully Erosion** | Uniform, imperceptible removal of thin topsoil layer by surface runoff on gentle slopes vs formation of deep pronounced ravines and gorges rendering land unfit for cultivation (Chambal Badlands) | परत अपरदन (अदृश्य मिट्टी ह्रास) / अवनलिका अपरदन (बीहड़ निर्माण) |
+| **UNCCD (1994)** | **UNFCCC (1992)** | Only legally binding international agreement linking environment and development to sustainable land management in drylands vs framework treaty for combating greenhouse gases | मरुस्थलीकरण संधि (UNCCD) / जलवायु संधि (UNFCCC) |
+| **Land Degradation Neutrality (LDN)** | **Net Zero Emissions** | Target under SDG 15.3 ensuring no net loss of healthy land resources by 2030 vs balancing anthropogenic GHG emissions with equivalent carbon removals | भूमि क्षरण तटस्थता (LDN) / नेट जीरो उत्सर्जन |
 
 
 ---

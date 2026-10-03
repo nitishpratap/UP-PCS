@@ -54,26 +54,20 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap Topic | Common Student Confusion / Mistake | Accurate Must-Score Reality & Razor-Sharp Rule |
-| :--- | :--- | :--- |
-| **Einstein's Nobel Prize** | Believing Einstein received the Nobel Prize for the Theory of Relativity. | Einstein was awarded the 1921 Nobel Prize **strictly for the Law of the Photoelectric Effect** ($E_k = h\nu - \phi$). Relativity was omitted due to contemporary committee debates. |
-| **BrahMos Range & Category**| Calling BrahMos a ballistic missile or assuming its range was always 500 km. | BrahMos is a **supersonic cruise missile** (Mach 2.8–3.0). Its range was originally capped at **290 km** under MTCR guidelines, and only extended to **450–500 km** after India's MTCR entry in 2016. |
-| **Agni-V MIRV Test** | Confusing Agni-V's first launch with Mission Divyastra. | Agni-V was first test-fired in 2012. **Mission Divyastra (11 March 2024)** was specifically the maiden test of Agni-V equipped with **Multiple Independently Targetable Re-entry Vehicles (MIRV)**. |
-| **Pralay vs Prithvi** | Confusing Pralay with the older Prithvi missile. | Prithvi is a liquid-fueled ballistic missile developed in the 1980s under IGMDP. Pralay is a modern, solid-fueled **quasi-ballistic battlefield missile** (150–500 km) capable of evasive mid-course maneuvers. |
-| **Mitra Shakti vs Sampriti** | Confusing Mitra Shakti (Sri Lanka) with Sampriti (Bangladesh). | **Mitra Shakti** is strictly with **Sri Lanka**. **Sampriti** is with **Bangladesh**. **Maitree** is with **Thailand**. |
-| **Geostationary Altitude** | Confusing 35,786 km with 22,236 km. | The altitude is **$35,786\text{ km}$**, which equals **$22,236\text{ miles}$**. Must-Score stems deliberately swap units to trap candidates! |
-| **NavIC Orbit Breakdown** | Believing all 7 NavIC satellites are in geostationary orbits. | NavIC comprises **3 in Geostationary Orbit (GEO)** and **4 in inclined Geosynchronous Orbit (GSO)**. |
-| **First Indian Satellite** | Confusing Aryabhata with Rohini or APPLE. | **Aryabhata (1975)** was India's 1st artificial satellite (launched from USSR). **Rohini RS-1 (1980)** was India's 1st satellite launched by an indigenous Indian rocket (SLV-3). **APPLE (1981)** was India's 1st experimental geostationary communication satellite. |
-| **New START Expiry** | Believing New START is still active or valid until 2030. | New START **officially expired on 5 February 2026** without renewal. Russia suspended participation in February 2023. |
-| **NATO Membership Count** | Remembering NATO as having 30 members. | NATO now has **32 members** following Finland's accession (31st in 2023) and Sweden's accession (32nd on 7 March 2024). |
-| **Pycnocline vs Thermocline** | Confusing density gradient with temperature gradient in oceanography. | **Pycnocline** is strictly the zone of rapid **density** change. **Thermocline** is the zone of rapid **temperature** change. |
-| **National Science Day Date** | Assuming National Science Day marks Sir C.V. Raman's birthday. | National Science Day (**28 February**) marks the discovery of the **Raman Effect (1928)**. Raman's birthday was **7 November 1888**! |
-| **Polar Research Station Locations** | Placing Himadri in Antarctica or Bharati in the Arctic. | **Himadri** and **IndARC** are in the **Arctic (Svalbard, Norway)**. **Dakshin Gangotri, Maitri, and Bharati** are in **Antarctica**. |
-| **Nanotechnology in Nature** | Believing nanoparticles are exclusively synthetic and never occur naturally. | Interplanetary cosmic dust, volcanic aerosols, and biological viruses are natural nanoparticles. |
-| **OLED vs LCD Flexibility** | Assuming LCD screens can be woven into flexible clothing. | Only **OLED** can be fabricated on flexible plastic substrates and roll-up textiles; LCD requires rigid glass and backlights. |
-| **Fissile Materials: Hiroshima vs Nagasaki** | Confusing the core fissile materials of the 1945 atomic bombs. | **Little Boy** (Hiroshima) used **Uranium-235**. **Fat Man** (Nagasaki) used **Plutonium-239**. |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Ballistic Missile** | **Cruise Missile** | Ballistic missiles (e.g., Prithvi, Agni) are rocket-powered during initial boost phase only, leave the atmosphere, and follow an unpowered arcing gravitational trajectory. Cruise missiles (e.g., BrahMos, Nirbhay) are jet-propelled continuously throughout flight, remain within the atmosphere, and fly at low altitudes following terrain contours. |
+| **BrahMos** | **Nirbhay** | BrahMos is a **supersonic** cruise missile (Mach 2.8–3.0, range 290–500 km) using a liquid ramjet engine. Nirbhay is a **subsonic** cruise missile (Mach 0.7, range 1,000 km) using a turbofan engine. |
+| **Endo-atmospheric** | **Exo-atmospheric** | Endo-atmospheric refers to interceptions occurring **inside Earth's atmosphere** (altitude < 30 km, e.g., AAD / Ashwin). Exo-atmospheric refers to interceptions occurring **outside the sensible atmosphere** in space (altitude > 50 km, e.g., PAD / Prithvi Air Defence). |
+| **MTCR** | **HCoC** | MTCR (1987, 35 partners) is an informal export control cartel targeting delivery systems carrying $\ge 500\text{ kg}$ payload over $\ge 300\text{ km}$. HCoC (2002, 145 states) is a multilateral transparency code requiring pre-launch notifications of ballistic missiles and space rockets. |
+| **Australia Group** | **Wassenaar Arrangement** | Australia Group (1985, 43 members) controls exports of **chemical and biological agents** and dual-use equipment. Wassenaar Arrangement (1996, 42 states) controls exports of **conventional arms and dual-use technologies**. |
+| **Homi Bhabha** | **Vikram Sarabhai** | Dr. Homi J. Bhabha = Father of the **Indian Nuclear Program** (TIFR, BARC). Dr. Vikram Sarabhai = Father of the **Indian Space Program** (PRL, TERLS, ISRO). |
+| **A.P.J. Abdul Kalam** | **Satish Dhawan** | Kalam = Project Director of **SLV-3**; Chief Architect of **IGMDP** (Prithvi, Agni, Trishul, Akash, Nag); 11th President. Dhawan = Longest-serving ISRO Chairman; built satellite communications; spaceport **SDSC SHAR** named in his honor. |
+| **Discovery** | **Invention** | Discovery uncovers a pre-existing natural phenomenon or law (e.g., Röntgen discovered X-rays; Fleming discovered Penicillin; Raman discovered Raman scattering). Invention creates a man-made machine or synthetic device that does not exist in nature (e.g., Bell invented the telephone; Maiman invented the laser; Edison invented the light bulb). |
+| **Einstein's Nobel Prize** | **Theory of Relativity** | Einstein won the 1921 Nobel Prize in Physics **strictly for the Law of the Photoelectric Effect**, *not* for the Theory of Relativity. |
+| **Ramjet** | **Scramjet** | Ramjet decelerates air to **subsonic** velocities inside the combustion chamber (optimal at Mach 2–5). Scramjet maintains **supersonic** airflow throughout the entire combustor (optimal at **> Mach 6**). |
+| **NavIC** | **GPS / Galileo** | NavIC is a **regional** navigation system (7 satellites covering India + 1,500 km). GPS and Galileo are **global** navigation constellations (24+ satellites in Medium Earth Orbit). |
+| **Comet Orbit** | **Asteroid Orbit** | Asteroids have relatively circular orbits primarily in the Asteroid Belt between Mars and Jupiter. Comets follow **highly elongated, eccentric elliptical orbits**; comet tails always point **away from the Sun** due to solar wind and radiation pressure. |
 
 
 ---

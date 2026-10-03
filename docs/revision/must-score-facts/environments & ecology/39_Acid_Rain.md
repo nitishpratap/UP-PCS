@@ -34,18 +34,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Normal rain pH = 7 | **~5.6** |
-| Acidic pH > 7 | **Acidic < 7** |
-| CO₂ = main severe acid rain gas | **Weak only**; SO₂/NOx drive strong acids |
-| Montreal = acid rain | **Ozone**; Gothenburg/CLRTAP for acidifying |
-| Acid rain = only liquid rain | Includes **dry deposition** |
-| SO₂ lighter than air | **Heavier** |
-| Taj damage from CO₂ alone | **SO₂ + acid → gypsum** |
-| Lichens love polluted SO₂ air | **Die / indicate pollution** |
-| FGD removes only NOx | Mainly **SO₂** |
-| Neutral rain = natural rain | Natural rain already **slightly acidic** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Normal Rain** | **Acid Rain** | Slightly acidic with pH ~5.6 due to dissolved atmospheric CO₂ forming weak carbonic acid (H₂CO₃) vs precipitation with pH < 5.6 caused by anthropogenic SO₂ and NOx | सामान्य वर्षा (pH 5.6) / अम्ल वर्षा (pH < 5.6) |
+| **Sulfuric Acid (H₂SO₄)** | **Nitric Acid (HNO₃)** | Contributes ~60–70% of total acid precipitation (emitted mainly by coal thermal power plants) vs contributes ~30–40% (emitted by automobile engines and fertilizers) | सल्फ्यूरिक अम्ल (60-70%) / नाइट्रिक अम्ल (30-40%) |
+| **Wet Acid Deposition** | **Dry Acid Deposition** | Acidic compounds deposited on Earth via rain, fog, sleet, or snow vs acidic gases, sulfate, and nitrate particles settling directly on soil and buildings without precipitation | आर्द्र निक्षेपण (वर्षा/कोहरा) / शुष्क निक्षेपण (धूल/गैस कण) |
+| **Marble Cancer** | **Eutrophication** | Yellowing and pitting of calcium carbonate monuments (Taj Mahal) reacting with sulfuric acid to form soluble gypsum vs excess nutrient loading in water bodies causing algal blooms | संगमरमर कैंसर (ताजमहल क्षरण) / सुपोषण (शैवाल प्रस्फुटन) |
+| **Gothenburg Protocol (1999)** | **Montreal Protocol (1987)** | UNECE protocol to abate acidification, eutrophication, and ground-level ozone (SO₂, NOx, VOCs, NH₃) vs UNEP protocol phasing out ozone-depleting chlorofluorocarbons | गोथेनबर्ग प्रोटोकॉल (अम्लीकरण) / मॉन्ट्रियल प्रोटोकॉल (ओजोन) |
 
 
 ---

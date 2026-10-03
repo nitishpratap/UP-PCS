@@ -45,20 +45,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-| Trap | Correct fact |
-|------|----------------|
-| Montreal = climate treaty | **Ozone/ODS** |
-| Agenda 21 signed 1995 | **Rio 1992** |
-| Brundtland = Limits to Growth | ***Our Common Future* 1987** |
-| CITES born at Rio 1992 | **1973 Washington** |
-| Ramsar = forests | **Wetlands** |
-| CMS = CITES | **Migration vs trade** |
-| Vienna = binding ODS phase-out | **Framework; Montreal = binding** |
-| Kyoto = Paris model | **Annex binding vs universal NDCs** |
-| Stockholm POPs = Stockholm 1972 | **2001 POPs treaty — different** |
-| UNEP HQ Geneva | **Nairobi** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Stockholm Conference (1972)** | **Rio Earth Summit (1992)** | First UN global conference on the Human Environment that placed environment on the global political agenda and created UNEP vs UN Conference on Environment and Development (UNCED) that produced Rio Declaration, Agenda 21, CBD, UNFCCC, and UNCCD | स्टॉकहोम सम्मेलन 1972 (UNEP उद्भव) / रियो पृथ्वी शिखर सम्मेलन 1992 (रियो संधियां) |
+| **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Annex-I developed nations bound by legal emission targets with punitive compliance mechanisms vs universal bottom-up framework where all 196+ nations self-determine mitigation contributions (NDCs) with five-yearly global stocktakes | क्योटो प्रोटोकॉल (शीर्ष-से-नीचे बाध्यकारी) / पेरिस समझौता (स्वैच्छिक NDCs) |
+| **Basel Convention (1989)** | **Rotterdam Convention (1998)** | Restricts and regulates transboundary movements and disposal of hazardous wastes (especially preventing dumping in developing countries) vs establishes legally binding Prior Informed Consent (PIC) procedure for hazardous international trade chemicals and pesticides | बासेल कन्वेंशन (खतरनाक अपशिष्ट आवागमन) / रॉटरडैम कन्वेंशन (पूर्व सूचित सहमति) |
+| **Stockholm Convention (2001)** | **Minamata Convention (2013)** | Mandates the global elimination, restriction, and unintentional release reduction of Persistent Organic Pollutants (POPs - "Dirty Dozen") vs global treaty designed to protect human health and the environment from anthropogenic emissions and releases of toxic Mercury (Hg) | स्टॉकहोम संधि (POPs उन्मूलन) / मिनामाता संधि (पारा प्रदूषण नियंत्रण) |
+| **Ramsar Convention (1971)** | **Convention on Migratory Species (CMS / Bonn 1979)** | Dedicated specifically to the ecological conservation and sustainable wise use of internationally significant wetlands and waterfowl habitats vs treaty dedicated to the conservation of terrestrial, aquatic, and avian migratory wild animal species across range states | रामसर कन्वेंशन (आर्द्रभूमि संरक्षण) / बॉन कन्वेंशन (प्रवासी प्रजाति संरक्षण) |
+| **CITES (1973)** | **Convention on Biological Diversity (CBD 1992)** | International trade treaty strictly regulating commercial import/export of endangered wild flora and fauna through Appendices I, II, III vs comprehensive framework convention covering in-situ/ex-situ conservation, sustainable use, and fair benefit-sharing | साइट्स (CITES, वन्यजीव व्यापार) / जैव विविधता संधि (CBD, समग्र संरक्षण) |
 
 
 ---

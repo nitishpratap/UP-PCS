@@ -54,28 +54,26 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Vayu Purana = Gupta administration** → false. 2023 Q29 Only 1.
-2. **Shriparvatiya = Vakataka** → **Ikshvaku** (Nagarjunakonda).
-3. **Purana Qila = a Mahapurana** → Delhi **fort**.
-4. **Harappan script = readable hieroglyphs** → still **unread**.
-5. **Ziggurat = pyramid** → temple tower vs **tomb**.
-6. **Kakatiya capital = Devagiri** → **Warangal**. Devagiri = Yadava.
-7. **Warangal = Ramchandra Dev** → 2018 bait. Ramachandra = **Yadava**.
-8. **Prataparudra founded Kakatiyas** → he is the **last** (1323).
-9. **Rudrama = Chola / Hoysala** → **Kakatiya**, daughter of Ganapati.
-10. **Thousand Pillar = Palampet / inside the fort** → **Hanamkonda**.
-11. **Ramappa = Karnataka / Andhra** → **Telangana**, UNESCO **2021**.
-12. **Charvaka wrote Charaka Samhita** → physician vs materialist.
-13. **Charaka = 100 chapters / 5 sections** → **120 / 8**.
-14. **Kosambi wrote *Early History of India*** → **Smith**. Kosambi = *Introduction to the Study*.
-15. **Basham = Marxist historian** → cultural survey. Marxist fact = **Kosambi**.
-16. **Buddhism = Charvaka** → Buddhism keeps **rebirth**.
-17. **Nyaya = Kanada** → Nyaya = **Gautama**. Kanada = Vaisheshika.
-18. **Kakatiyas ruled the UP doab** → **Telangana**.
-19. **Meluhha = Egypt** → Mesopotamia’s name for the **Indus** land.
-20. **Independent Kakatiyas till 1687** → end **1323**. 1687 is Golconda.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Mesopotamia | Egypt | Two rivers + city-states vs **one Nile** + unified pharaoh | मेसोपोटामिया / मिस्र |
+| Ziggurat | Pyramid | Stepped **temple** vs royal **tomb** | जिग्गुरात / पिरामिड |
+| Cuneiform | Hieroglyphs | Clay wedges vs **picture** signs | कीलाक्षर / चित्रलिपि |
+| Indus script | Oracle bones | Still **unread** vs earliest **readable** Chinese | सिन्धु लिपि / अस्थि लेख |
+| Mahapurana | Upapurana | 18 major (5 traits) vs 18 **minor** | महापुराण / उपपुराण |
+| Vishnu Purana | Vayu Purana | **Mauryan** list vs **not** Gupta admin | विष्णु / वायु |
+| Matsya Purana | Vishnu Purana | Longest **Andhra / Satavahana** list vs **Mauryan** genealogy | मत्स्य / विष्णु |
+| Ikshvaku | Vakataka | Puranic **Shriparvatiya** vs Vidarbha | इक्ष्वाकु / वाकाटक |
+| Charvaka | Charaka | Materialist school vs **Ayurveda** compiler | चार्वाक / चरक |
+| Charvaka | Buddhism | Denies rebirth vs accepts **karma/rebirth** | चार्वाक / बौद्ध |
+| Kakatiya | Yadava | **Warangal** vs **Devagiri** | काकतीय / यादव |
+| Warangal | Hanamkonda | Fort capital vs **Thousand Pillar** town | वारंगल / हनमकोंडा |
+| Ganapati | Rudrama | Peak expander vs **queen** (his daughter) | गणपतिदेव / रुद्रमा |
+| Rudrama | Prataparudra II | Female monarch vs **last** king, fall **1323** | रुद्रमा / प्रतापरुद्र |
+| Ramappa | Thousand Pillar | Palampet **UNESCO 2021** vs Hanamkonda | रामप्पा / सहस्र स्तंभ |
+| Jayaswal | Smith | *Hindu Polity* vs *Early History of India* | जयसवाल / स्मिथ |
+| Kosambi | Basham | Marxist *Introduction* vs cultural *Wonder* | कोसांबी / बैशम |
+| Charaka | Sushruta | Internal medicine **120/8** vs **surgery** | चरक / सुश्रुत |
 
 
 ---

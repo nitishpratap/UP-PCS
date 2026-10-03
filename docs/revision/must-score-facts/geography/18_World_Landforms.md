@@ -54,51 +54,46 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Kilimanjaro = Ring of Fire** — FALSE. **East African Rift**.
-2. **Pampas = Brazil** — FALSE. **Argentina**. Brazil = **Campos**.
-3. **Gibson = Brazil** — FALSE. **Australia**.
-4. **Gobi in Kazakhstan / Russia** — FALSE for the 2025 code. **Mongolia + China**.
-5. **Sahara smaller than Gobi** — FALSE. Sahara is the giant.
-6. **Borneo = volcanic island** — FALSE. **Sunda shelf**; three countries.
-7. **Maquis = California** — FALSE. **Chaparral**. Maquis = Med basin.
-8. **Fynbos = Chile** — FALSE. **South Africa**. Chile = **Matorral**.
-9. **Land of Big Games = Sahara** — FALSE. **Tropical savanna**.
-10. **Mediterranean rain in summer** — FALSE. **Winter**.
-11. **Taiga = treeless** — FALSE. That’s **tundra**.
-12. **Selva = Brazilian soil** — FALSE. Selva = **forest**; soil = **Terra Roxa**.
-13. **Pyrenees = Italy** — FALSE. **Spain–France**. Italy = **Apennine**.
-14. **Toubkal = Algeria** — FALSE. **Morocco**. Hoggar = Algeria.
-15. **Etna = Pacific** — FALSE. **Italy / Mediterranean**.
-16. **Australia = largest island** — FALSE. Australia is a **continent**; largest island = **Greenland**.
-17. **Hot deserts only on east coasts** — FALSE. Classic set = **west** coasts + cold currents + Horse Latitudes.
-18. **Pamir = highest large plateau** — FALSE. That is **Tibet**; Pamir = **Roof of the world** phrase.
-19. **Chernozem = equatorial laterite** — FALSE. Chernozem = temperate grassland / steppe–prairie.
-20. **Skip mountain families because papers asked country matches** — FALSE. Fold / block / residual can all appear.
-17. **Atlas = France/Spain** — FALSE. That is **Pyrenees**. Atlas peak Toubkal = **Morocco**.
-18. **Pamir = highest large plateau** — FALSE. Phrase is Pamir; **Tibet** is the highest large plateau.
-19. **Colorado Plateau = lava** — FALSE. **Columbia** is lava; Colorado holds the **Grand Canyon**.
-20. **Aconcagua = Chile** — FALSE. **Argentina**. Chimborazo = Ecuador.
-21. **Africa = fewest countries / Australia = largest continent** — FALSE. Africa has the **most countries**; Asia is largest by area; Australia is **smallest**.
-22. **Guyana = Africa** — FALSE. **South America**.
-23. **Highest mean elevation = Asia** — FALSE. **Antarctica**.
-24. **Sierra Nevada = young fold like Alps** — FALSE. **Block** mountain.
-25. **Telegraphic Plateau = Indian Ocean** — FALSE. **North Atlantic Ridge**.
-26. **Death Valley = cold Siberia** — FALSE. Hot **rift** in **California**.
-27. **Thar = emptiest desert** — FALSE. **Most densely populated** desert.
-28. **Europe has the worst desertification** — FALSE. **Least** among continents in GC framing.
-29. **Downs = tropical grassland** — FALSE. Downs are **temperate** (Australia).
-30. **Veld = Australia** — FALSE. Veld = **South Africa**; Australia = Downs.
-31. **Selvas = grassland** — FALSE. Selvas = Amazon **tropical rainforest**.
-32. **Savanna forest check = burrowers + soil only** — FALSE. Lead trio = **fire + grazers + seasonal rain**.
-
-33. **Falklands = Indian Ocean** — FALSE. **South Atlantic**.
-34. **Galápagos = Peru** — FALSE. **Ecuador** (volcanic Pacific).
-35. **Socotra = Oman** — FALSE. **Yemen** (UNESCO 2008).
-36. **Japan N→S = Hokkaido–Kyushu–Honshu** — FALSE. **Hokkaido → Honshu → Shikoku → Kyushu**.
-37. **Borneo = volcanic dump like Hawaii** — FALSE for standard/UPPCS. **Sunda shelf**; three countries.
-38. **Tinian = Polynesia** — FALSE. Marianas / Micronesia set.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Andes vs Himalaya | Andes = **longest** fold chain; Himalaya = **highest** | Swapped | एंडीज़ / हिमालय |
+| Kilimanjaro vs Fuji | Kilimanjaro = **E African Rift**; Fuji = Ring of Fire | Kilimanjaro in Pacific | किलिमंजारो |
+| Pyrenees vs Alps | Pyrenees = **Spain–France**; Alps = Switzerland / C Europe | Alps on Spain–France MCQ | पिरेनीज़ |
+| Apennine vs Balkan | Apennine = **Italy**; Balkan = **Bulgaria** | Swapped | एपिनाइन / बाल्कन |
+| Atlas vs Hoggar | Atlas high peak **Toubkal = Morocco**; Hoggar = **Algeria** | Both “North Africa” dump | अटलास / होगार |
+| Gobi vs Sahara | Gobi = **cold**, Mongolia+China; Sahara = **hot**, Africa | Gobi in Kazakhstan | गोबी |
+| Gibson vs Sonoran | Gibson = **Australia**; Sonoran = **USA** | Gibson–Brazil | गिब्सन |
+| Pampas vs Campos | Pampas = **Argentina**; Campos = **Brazil** | Pampas–Brazil/Chile | पम्पास |
+| Prairie vs Steppe | Prairie = N America; Steppe = Eurasia | Names swapped | प्रेयरी / स्टेपी |
+| Savanna vs hot desert | “Land of Big Games” = **Savanna**, not Sahara | Desert = safari trap | सवाना |
+| Maquis vs Chaparral | Maquis = **Med basin**; Chaparral = **California** | Same shrub, wrong coast | माकी / चैपरैल |
+| Fynbos vs Matorral | Fynbos = **South Africa**; Matorral = **Chile** | Swapped SH west coasts | फिनबॉस |
+| Taiga vs Tundra | Taiga = **conifer forest**; Tundra = **treeless** cold | Both “cold vegetation” | टैगा / टुंड्रा |
+| Borneo vs Java | Borneo = **Sunda shelf**, not volcanic dump; Java = volcanic arc | “All Indonesia = volcano” | बोर्नियो |
+| Greenland vs New Guinea | Greenland = **largest island**; New Guinea = 2nd | Australia is a continent | ग्रीनलैंड |
+| Med vs monsoon | Med rain = **winter**; monsoon rain = **summer** | Med summer rain | भूमध्यसागरीय |
+| Pamir vs Tibet | Pamir = phrase **Roof of the world**; Tibet = **highest large** plateau | Swapped | पामीर / तिब्बत |
+| Hot desert coasts | **West** coasts + cold currents + subtropical high | East-coast deserts | पश्चिमी तट |
+| Chernozem | Temperate grassland / **steppe–prairie** black soil | Equatorial laterite | चेरनोज़ेम |
+| Residual mountains | Worn leftovers of old folds (Appalachians type) | Young Himalaya | अवशिष्ट |
+| Continent area | Asia largest; **Australia** smallest | Africa largest | महाद्वीप |
+| Most countries | **Africa (~54)** | Europe / Asia | अफ्रीका |
+| Guyana | **South America** | Africa (Gabon/Guinea set) | गुयाना |
+| Highest mean elevation | **Antarctica** | Asia | अंटार्कटिका |
+| Longest range | **Andes** | Himalaya / Rockies | एंडीज़ |
+| Sierra Nevada | **Block** mountain | Young fold with Alps | सिएरा नेवादा |
+| Death Valley | **Rift** + extreme heat (California) | Cold Siberia only | डेथ वैली |
+| Telegraphic Plateau | **N Atlantic Ridge** | Indian Ocean | टेलीग्राफिक |
+| Thar | **Most populated** desert | Sahara densest people | थार |
+| Downs vs tropical | Downs = **temperate** (Australia) | Called tropical | डाउन्स |
+| Selvas vs grassland | Selvas = Amazon **rainforest** | Treated as grassland | सेल्वास |
+| Veld vs Downs | Veld = **South Africa**; Downs = **Australia** | Veld–Australia | वेल्ड / डाउन्स |
+| Faroe | **Sheep Islands** (Denmark) | Canary / Madeira | फेरो |
+| Honshu | Japan’s **largest**; Tokyo | Hokkaido largest | होन्शू |
+| Falklands | **S Atlantic** | Indian Ocean | फॉकलैंड |
+| Galápagos | **Ecuador** | Peru | गैलापागोस |
+| Socotra | **Yemen** | Oman | सोकोत्रा |
+| Majuli | **Brahmaputra** river island | Amazon | माजुली |
 
 
 ---

@@ -54,41 +54,22 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-- **Parliament = two Houses only:+ the President** (Art. 79).
-- **RS seats equal for every State:No** — Fourth Schedule; population-weighted (UP 31 vs Goa 1).
-- **Art. 109 = joint sitting:108**; **109** is Money Bill.
-- **Joint sitting for CAB / Money Bill:Never.**
-- **VP is a member of RS:Ex-officio Chairman**, not a member.
-- **RS dissolved after 6 years:** House is **permanent**; members’ term is 6 years.
-- **Art. 312 = 2/3 of total membership:2/3 present and voting**.
-- **Max UT LS seats = 13 / 15 / present strength:maximum is 20** (Art. 81).
-- **Anglo-Indian LS members still nominated:** ended by **104th**; SC/ST reservation **continues till 25 Jan 2030**.
-- **Speaker elected by ECI:House elects**; ECI has no role.
-- **Chairman (VP) presides over joint sitting:Speaker** does.
-- **60-day absence is automatic disqualification:** House **may declare** the seat vacant.
-- **Office of profit decided by the Speaker:President + binding EC advice** (Art. 103).
-- **Dual membership = instant dual sitting:** LS+RS: choose in **10 days**; Parliament+State: Parliament seat goes after **14 days**.
-- **Privilege covers criminal arrest:No** — only civil cases, 40 days before/after + during session.
-- **Prorogation kills Bills:No** — only notices/motions; Bills survive.
-- **Art. 109 defines Money Bill:110** defines; **109** is procedure.
-- **Money Bill can originate in RS:Never.**
-- **RS can amend a Money Bill:** only **recommend**; LS may accept or reject.
-- **Financial Bill = Finance Bill:Finance** = annual tax Bill; **Financial** = 117(1) or 117(3).
-- **Contingency Fund = Art. 266:267**; 266 = CFI + Public Account.
-- **LS can increase a Demand for Grants:No** — only reduce or refuse.
-- **AG’s salary is charged:No.**
-- **PAC has 15 members from RS:** No — **15 LS + 7 RS**.
-- **Estimates Committee has RS members:** No — **30, all LS**.
-- **PAC chair from ruling party:** Opposition (since **1967**).
-- **Ethics complaint only by an MP:** Wrong — any person may complain if **forwarded by a member**.
-- **Baijayant Panda = Estimates chair (2024–25):** Wrong — he chairs **COPU**; **Sanjay Jaiswal** chairs Estimates.
-- **Zero Hour is the first hour:** first hour = **Question Hour**; Zero Hour **follows** it.
-- **No-confidence in Rajya Sabha:LS only**.
-- **Charged expenditure is not discussed:** it **is discussed**, but **not voted**.
-- **Token grant = policy cut:** token **grant** = ₹1 demand for re-appropriation; policy **cut** reduces a demand to ₹1.
-- **Consultative Committees are House committees:extra-constitutional**; Ministry of Parliamentary Affairs.
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Art. 79 Parliament | “Two Houses only” | President **+** RS **+** LS | संसद |
+| Art. 108 joint sitting | Art. 109 Money Bill procedure | Joint sitting ≠ 109 | संयुक्त बैठक / धन विधेयक |
+| Money Bill (110) | Financial Bill (117) | LS only + RS 14 days vs 117(1)/117(3) paths | धन / वित्तीय |
+| Finance Bill | Financial Bill | Annual tax Bill vs Art. 117 categories | वित्त / वित्तीय |
+| RS permanent House | Member’s 6-year term | House **never** dissolved vs individual term | राज्य सभा |
+| VP as Chairman | VP as RS member | Ex-officio Chairman vs **not** a member | सभापति |
+| Question Hour | Zero Hour | First hour vs **after** Question Hour | प्रश्न / ज़ीरो ऑवर |
+| PAC (22; opp. chair) | Estimates (30 LS-only) | Mixed Houses + opposition chair vs LS-only largest | लोक लेखा / प्राक्कलन |
+| CFI / Public Account (266) | Contingency Fund (267) | Do not park Contingency under 266 | निधि |
+| Charged expenditure | Voted expenditure | Discussed **not** voted vs needs vote | भारित / मतदेय |
+| No-confidence | Rajya Sabha | **Lok Sabha only** | अविश्वास |
+| Civil privilege | Criminal process | Privilege covers civil arrest window, **not** crime | विशेषाधिकार |
+| Anglo-Indian nomination | SC/ST reservation | Ended by **104th** vs continues till **25 Jan 2030** | एंग्लो-इंडियन / आरक्षण |
+| Speaker Money Bill certificate | Office-of-profit decision | Speaker final on Money Bill vs **President + EC** on office of profit | अध्यक्ष / लाभ का पद |
 
 
 ---

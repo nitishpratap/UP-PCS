@@ -54,21 +54,22 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. **Tappa** is **Muhammad Shah**, not Akbar.
-2. Tansen before Akbar is **Ramchandra of Bhata/Rewa**, not Malwa’s Baz Bahadur.
-3. **Raga Vibodh** is **Somanath**, not Venkatamakhin.
-4. **Chaturdandi** is **Venkatamakhin**. It is melakarta, not Ragamala.
-5. The Trinity is Tyagaraja, Dikshitar and Syama Sastri. It is **not Tansen.**
-6. **Tyagaraja** is **Telugu**, not Tamil/Sanskrit.
-7. Dhrupad uses **pakhawaj**. Khayal uses **tabla**. Carnatic uses **mridangam**.
-8. Shehnai is **Bismillah / Varanasi**. Tabla is **Zakir**. Do not swap.
-9. Gharana is not raga. Kirana is a **school**. Yaman is a **raga**.
-10. Tanpura is a **drone**, not a solo sitar-class melody instrument.
-11. Ghatam is **Ghana**, not Avanaddha.
-12. Tansen Samaroh is **Gwalior (MP)**, not Varanasi.
-13. Amir Khusrau’s guru is **Nizamuddin Auliya**. Here he is qawwali/tarana.
-14. **10** thatas are not **72** melakarta.
-15. MS Subbulakshmi is **Carnatic**, first musician Bharat Ratna, not Hindustani khayal.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Hindustani | Carnatic | North improvisation + gharana vs south kriti + 72 melakarta | हिंदुस्तानी / कर्नाटक |
+| Raga | Tala | Melody framework vs beat-cycle | राग / ताल |
+| Dhrupad | Khayal | Oldest + **pakhawaj** vs dominant today + **tabla** | ध्रुपद / ख्याल |
+| Khayal | Thumri | Full classical vs light romantic (Bol Banav) | ख्याल / ठुमरी |
+| Tappa | Thumri | Fast, camel-song origin, **Muhammad Shah** court vs Awadh–Banaras romantic | टप्पा / ठुमरी |
+| Gharana | Raga | Performance school vs melodic framework | घराना / राग |
+| Melakarta | Janya | 72 parent scales vs derived child ragas | मेलकर्ता / जन्य |
+| Tabla | Mridangam | Hindustani khayal vs Carnatic primary drum | तबला / मृदंगम |
+| Tabla | Pakhawaj | Khayal/thumri vs dhrupad | तबला / पखावज |
+| Shehnai | Nadaswaram | Hindustani reed, Banaras vs Carnatic temple reed | शहनाई / नादस्वरम् |
+| Tata | Vitat | Plucked string vs bowed string | तत / वितत |
+| Avanaddha | Ghana | Membrane drum vs solid/idiophone (manjira, ghatam) | अवनद्ध / घन |
+| Tansen | Amir Khusrau | Akbar dhrupad vs Nizamuddin, qawwali/tarana | तानसेन / अमीर खुसरो |
+| Tyagaraja | Tansen | Carnatic Rama kritis vs Hindustani Navaratna | त्यागराज / तानसेन |
 
 
 ---

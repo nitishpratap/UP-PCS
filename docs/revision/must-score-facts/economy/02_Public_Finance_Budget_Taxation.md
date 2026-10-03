@@ -54,20 +54,17 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-* FC = Chair + **four** (not six); report to **President** (not NITI); qualifications by **Parliament** (not President).
-* 14th FC **42%** vs 15th FC **41%**; do not swap Rangarajan (12th) and Reddy (14th).
-* GST = **101st** Amendment; Council chaired by **Union FM**; Centre weight **1/3**.
-* GST subsumed **VAT** and related indirect taxes — not income / corporation / ordinary property tax.
-* **Customs**, **alcohol for human consumption**, **electricity** and **petroleum** stay outside GST until notified.
-* Contingency Fund **267** ≠ Consolidated Fund / Public Account **266**.
-* Fiscal deficit = borrowing need; primary deficit strips interest; revenue deficit is the current gap.
-* DTC → **Income Tax**; Tobin → **forex**; India PCS key for tax-system type → **Degressive**.
-* FRBM (2003) disciplines deficits; Macro-Economic Framework Statement is an **FRBM** document — not Art. 112 alone.
-* AFS is laid by the **FM on behalf of the President** — not the Prime Minister; demands need the **President’s** recommendation.
-* Fiscal policy = **MoF** (tax / spend); monetary policy = **RBI** (rates / CRR).
-* Policy Cut = **₹1**; Token Cut = **₹100**; Vote on Account ≠ full-year grant.
-* Gender Budget start = **2005–06**; TEC India ≠ Educate India; Saptarishi = 2023–24; Viksit Bharat 2024–25 nine priorities exclude “Sustainable Development”.
-* Chakravyuha = **marketism without exit**; tax/GDP and FD/GDP have **not** risen steadily every year.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025 (UPPCS)** | Match 11th–14th FC chairmen: **Khusro → Rangarajan → Kelkar → Y.V. Reddy**. | Rangarajan/Reddy swap is the trap. |
+| **2025 (CA)** | GST Council / Union path toward a simplified rate structure (merit / standard / demerit lanes) after multi-slab years. | Destination GST + Council process still the constitutional spine. |
+| **2024** | GST introduced by the **101st** Amendment (not 73rd / 86th / 91st). | Repeated Amendment stem. |
+| **2024** | CFI **266** · FC **280** · Financial Emergency **360** · CAG **148**. | Article-match table. |
+| **2023** | FC = Chair + **four** members; report goes to the **President**, not NITI. | Both “six members” and “NITI report” fail. |
+| **15th FC period** | Vertical devolution tagged **41%** for States (14th had raised share to **42%**). | Do not swap 42 / 41. |
+| **Budget process** | Annual Financial Statement is laid by the **Finance Minister on behalf of the President** (Art. 112) — not the Prime Minister. | IAS 2024 trap. |
+| **Gender Budget** | First introduced in Union Budget **2005–06**. | Year stem. |
+| **FRBM statements** | **Macro-Economic Framework Statement** is mandated by the **FRBM Act, 2003** (not Art. 112/110 alone). | IAS 2020. |
 
 
 ---

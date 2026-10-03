@@ -54,53 +54,23 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| AG removed like an SC judge | **Pleasure of the President** (2023) |
-| AG = Part XIII | **Part V.** XIII = trade |
-| AG must be an MP / minister | **Neither** |
-| SG is in Article 76 | **Only AG** is |
-| SG has Art. 88 | **AG only** |
-| AdvG = SC-judge qualification | **HC judge** |
-| AdvG removed like HC judge | **Pleasure of the Governor** |
-| Art. 88 in the Vidhan Sabha | **Art. 177** |
-| Advocate General = Accountant General | Law officer vs CAG’s **accounts** officer |
-| CAG = pleasure | **SC-judge removal** |
-| CAG = 3rd Schedule? No | **Yes** he is. AG is the one who is **not** |
-| CAG may take a State governorship later | **148(4)** bars further Union **or** State office |
-| Indian CAG blocks payments in advance | **After** spend |
-| PAC *is* the CAG | PAC **examines** the report |
-| Estimates Committee uses CAG | **No CAG link** |
-| AG’s pay is 2nd Schedule | **Judges + CAG.** AG = President fixes |
-| President’s oath is 3rd Schedule | **Art. 60** |
-| Other ECs removed like the CEC | Only on **CEC’s recommendation** |
-| 2023 Act keeps CJI on the CEC panel | **CJI is out** |
-| SPSC member removed by Governor | **President**, after **SC** inquiry (2021) |
-| SPSC functions extended by President | **State Legislature** (321) |
-| UPSC Chair may become Governor | **319** total bar |
-| UPSC and SPSC retire at the same age | UPSC **65** · SPSC **62** |
-| HC CJ resigns to the Governor | Oath = Governor. Resign = **President** |
-| SC judge resigns to the CJI | **President** (2023) |
-| CJI takes oath under Art. 60 | Art. 60 is the **President’s** oath, *administered by* the CJI |
-| HC CJ sits to 65 | **62** |
-| JPSC is set up by UPSC | **Parliament**, on the States’ request |
-| CEC pay = SC judge (after 2023 Act) | **Cabinet Secretary** alignment |
-| Election Commission = Art. 165 | **324**. 165 = **Advocate General** (2024) |
-| Advocate General of India | **Does not exist.** Union = AG + SG |
-| President resigns to the CJI / PM | To the **Vice-President** (56) |
-| Governor resigns to the CM | To the **President** (156) |
-| Speaker LS resigns to the President | To the **Deputy Speaker** (94) |
-| UPSC Chair and UPSC member have the same 319 bar | Chair = **total** bar. Member may become **Chair** |
-| SEC = CEC | **243K** vs **324** |
-| Regional Commissioners = same removal as CEC | Only on **CEC’s recommendation** |
-| EC can never become CEC | **May**, combined tenure **≤ 6 years** |
-| AG is the Law Minister / a Cabinet member | **Neither.** Law officer, not political executive |
-| RS Chairman resigns to Deputy Chairman | RS Chairman **is the VP** → **President** (67). Deputy Chairman RS → Chairman (**90**) |
-| CJI is on the 2023 CEC panel *and* the Lokpal panel | **Lokpal yes. CEC 2023 no.** Search Committee ≠ Selection Committee |
-| PSC Chair removed only after SC inquiry, always | Misbehaviour → **SC**. Insolvency / paid job / infirmity → President **without** SC (317) |
-| CJI can never take Art. 60 | Only when **acting President** (1969 Act) |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2023** | **CEC Act**: selection = PM + LoP LS + Cabinet Minister (कैबिनेट मंत्री) | **CJI not on the panel** (*Anoop Baranwal* had put CJI there *until a law*) |
+| **2023** | SC judge resignation paper | Address = **President**, not CJI |
+| **2023** | Paper asks AG qualify-as-SC-judge **and** impeachment | Only qualify is true. **Pleasure**, not 124(4) |
+| **2022** | JPSC how created | **Parliament**, if the States request |
+| **2022** | CAG (भारत के नियंत्रक-महालेखापरीक्षक) report examined by? | **PAC** (लोक लेखा समिति), not Estimates (प्राकलन समिति), not “COPU for everything” |
+| **2021** | SPSC member removal | **President** after **SC** inquiry — not Governor, not HC |
+| **2021** | First CEC / first woman CEC | **Sukumar Sen** · **Ramadevi 1990** |
+| **2021** | UPPSC (उत्तर प्रदेश लोक सेवा आयोग) functions extended by | **UP Legislature** (321), not President |
+| **2020** | AG matched to Part XIII | **Wrong.** Part **V** |
+| **2024** | Body–article “correctly matched” | **ECI ≠ 165**. 165 = AdvG. ECI = **324** |
+| **2024** | CAG in a match-list | **148** (with 266 / 280 / 360) |
+| **2023** | 324 / 315 / 280 / 338 match | EC / PSC / FC / NCSC (राष्ट्रीय अनुसूचित जाति आयोग) |
+| **2018** | CJI when PIL “introduced” | **P.N. Bhagwati** (colour). epistolary / continuing mandamus (परमादेश) |
+| **1976** | Accounts compilation taken off CAG | CAG = **auditor only** (2019) |
+| **1971** | CAG DPC Act | Duties live in **statute**, Art. 149 |
 
 
 ---

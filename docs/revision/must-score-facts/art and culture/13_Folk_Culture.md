@@ -54,21 +54,21 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-- Warli is **not** Bihar. **Maharashtra**.
-- Madhubani is **not** Rajasthan. **Bihar**. It is GI, **not** UNESCO ICH.
-- Sanjhi is **not** Jaipur. **Mathura–Vrindavan, Uttar Pradesh.
-- Pushkar **Fair** is Rajasthan. Pushkar **Kumbh May 2025** is **Uttarakhand**. Neither is UP.
-- Surajkund is **Haryana**, not Rajasthan.
-- GI ministry is **Commerce**, not Culture and not Textiles. Registry is **Chennai**, not Delhi.
-- First GI is **Darjeeling Tea 2004**, not Banarasi.
-- Blue Pottery is **Jaipur**, not Lucknow.
-- Moradabad is **brass**. Firozabad is **glass**. Do not swap.
-- Chikankari is **Lucknow**. Banarasi is **Varanasi**.
-- National Handloom Day is **7 August**, not 15 August.
-- Khadi needs **spinning + weaving**. KVIC is **MSME**.
-- Sujni is **Bihar**, not Maharashtra. Uppada Jamdani is **Andhra**, not Karnataka.
-- Shilp Guru ≠ Sant Kabir Award.
-- Saura (Odisha) is not Warli.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Folk art | Classical art | Community, oral, ritual vs codified school (Bharatanatyam, Mughal miniature) | लोक कला / शास्त्रीय कला |
+| Folk tradition | Folk belief | Custom passed socially vs supernatural village worldview | लोक परंपरा / लोक विश्वास |
+| Handloom | Powerloom | Manual loom vs machine mass weave | हथकरघा / पावरलूम |
+| Handloom | Khadi | Hand-woven (yarn may be mill-spun) vs **hand-spun and** hand-woven (KVIC) | हथकरघा / खादी |
+| Handicraft | Handloom | Handmade object (pottery, metal, embroidery) vs cloth woven on a loom | हस्तशिल्प / हथकरघा |
+| GI tag | Trademark | Place + community quality vs a firm’s brand | भौगोलिक संकेत / व्यापार चिह्न |
+| Madhubani | Warli | Bihar Mithila, bright geometric vs Maharashtra tribal white-on-red | मधुबनी / वारली |
+| Chikankari | Zardozi | Lucknow white thread on muslin vs metallic-thread court embroidery | चिकनकारी / ज़रदोज़ी |
+| Surajkund Mela | Pushkar Fair | Haryana February crafts vs Rajasthan Kartik camel fair | सूरजकुंड / पुष्कर मेला |
+| Pushkar Fair | Pushkar Kumbh 2025 | Ajmer **Rajasthan**, Kartik vs **Mana, Uttarakhand**, May | पुष्कर मेला / पुष्कर कुंभ |
+| DC Handicrafts | KVIC | Textiles artisan body vs MSME khadi commission | हस्तशिल्प आयुक्तालय / KVIC |
+| Sant Kabir Award | Shilp Guru | Highest **handloom** weaver honour vs highest **handicraft** artisan honour | संत कबीर / शिल्प गुरु |
+| PEHCHAN | e-Pehchan | Handicraft artisan card **2016** vs handloom worker digital ID **2025** | पहचान / ई-पहचान |
 
 
 ---

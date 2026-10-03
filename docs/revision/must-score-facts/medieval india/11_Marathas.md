@@ -54,32 +54,22 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-20. **Salher 1672** = battlefield win vs Mughals; **Purandar 1665** = treaty with Jai Singh.
-21. **Gaga Bhatt** = coronation priest; **Ramdas** = guru.
-22. **Sangola 1750** (Balaji Bajirao) ≠ **Lanavada 1718** (Balaji Vishwanath).
-23. **Tarabai** at Aurangzeb’s death; do not pick Sambhaji (already dead) or Ahilyabai.
-24. **Kashiraj Pandit** = Panipat III eyewitness; immediate spark = **Timur Shah** expelled from Lahore.
-25. **Ruka** is not Shivaji’s silver coin; **Modi** script = Maratha papers.
-
-1. **Chauth** and **Sardeshmukhi** are different levies. Chauth is **25%** protection. Sardeshmukhi is an extra **10%**.
-2. **Madhav Rao I** ruled **before Narayan Rao**.
-3. Some Peshwa chronology lists skip Madhav and place **Raghoba** after Narayan — always read the four names in the stem.
-4. **Bajirao I** and **Balaji Bajirao** are different Peshwas.
-5. The **Peshwa** was not king in Shivaji’s lifetime. He was one of eight ministers.
-6. **Shivaji** did not fight at Panipat III. He died in **1680**.
-7. **Sadashiv Rao Bhau** commanded at Panipat III. He is not **Bajirao I**.
-8. **Ahmad Shah Abdali** won at Panipat in **1761**. That is not **Nadir Shah** in **1739**.
-9. **Panipat III** is not Panipat I or II.
-10. **Deshmukhs** wanted to remain **Bijapur feudal lords**, not join Shivaji’s swaraj.
-11. **Raigad** is not **Pune**. Raigad is Shivaji’s coronation fort. Pune is the Peshwa seat.
-12. **Purandar (1665)** is not **Lanavada (1718)**.
-13. **Abwab** and **Jamadani** are not Maratha protection terms.
-14. **Sumant** handled foreign affairs. **Amatya** handled finance. Do not swap them.
-15. On each Peshwa chronology stem, read **which four names** are in the list. The option letter changes with the list.
-16. **Torna / Rajgad / Sinhagad** belong to Shivaji’s early rise; do not start his story only at Afzal Khan.
-17. **Mastani** is linked to **Bajirao I**, not Balaji Bajirao.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Chauth | Sardeshmukhi | 25% protection vs extra 10% chief claim | चौथ / सरदेशमुखी |
+| Shivaji | Peshwa | Chhatrapati founder vs later de facto ruler | शिवाजी / पेशवा |
+| Bajirao I | Balaji Bajirao | Father 1720–40 vs son 1740–61 (Panipat) | बाजीराव I / बालाजी बाजीराव |
+| Madhav Rao I | Narayan Rao | 1761–72 recovery vs 1772–73 murdered | माधवराव / नारायणराव |
+| Panipat I | II vs III | 1526 Babur / 1556 Akbar–Hemu / 1761 Maratha–Abdali | पानीपत I / II / III |
+| Abdali | Nadir Shah | Panipat 1761 vs Delhi sack 1739 | अब्दाली / नादिर शाह |
+| Bhau | Bajirao I | 1761 commander vs died 1740 | भाऊ / बाजीराव |
+| Raigad | Pune | Shivaji coronation vs Peshwa seat | रायगढ़ / पुणे |
+| Sangola | Lanavada | 1750 Peshwa supremacy vs 1718 chauth recognition | सांगोला / लानावड़ा |
+| Chauth | Saranzami | 25% protection levy vs jagirdar livelihood land | चौथ / सरंजामी |
+| Deshmukh | Ashtapradhan | Feudal Bijapur chiefs vs Shivaji’s 8 ministers | देशमुख / अष्टप्रधान |
+| Purandar | Lanavada | 1665 Shivaji–Jai Singh vs 1718 Shahu–Mughals | पुरंदर / लणवाडा |
+| Sambhaji | Shahu | Executed 1689 vs released 1707, Peshwa rise | सम्भाजी / शाहू |
+| Sikh Khalsa | Chauth | 1699 Panth vs Maratha 25% levy | खालसा / चौथ |
 
 
 ---

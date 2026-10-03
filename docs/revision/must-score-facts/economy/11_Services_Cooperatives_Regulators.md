@@ -54,21 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-* Tertiary = services; **forestry / fishing / mining ≠ tertiary**; **construction ≠ services** in GVA.
-* **Storage of agri produce** and **marketing** = tertiary; **weaving** = secondary; **dairy farm** = primary.
-* GVA order (recent): **Services > Industry > Agriculture** — “services only 25% of GDP” is false.
-* Within services, finance–real estate–professional is often the largest sub-share of total GVA.
-* CSR = **Companies Act, 2013** + **≥2%** of 3-year average profits — not Act 2014, not 1%.
-* Employee-only / company-direct benefits ≠ CSR; India = first mandatory CSR country.
-* Kotak Committee: separate Chair and MD — “must remain the same” is the wrong statement.
-* MRP = **ceiling** (bargain below OK; charge above unlawful) — not a must-charge price (read booklet Reason carefully).
-* ECOMARC = **environment-friendly** — not ISI “best quality,” not AGMARK, not export/import tag.
-* AGMARK = DMI agri grades (**1937** Act) — **not** FAO / FCI; FPO = processed fruit products; ISO 14001 = environmental management.
-* TRAI = **1997**, HQ **New Delhi**; BSNL ≈ **2000**; Project Arrow = **post offices (2008)**; USOF = rural telecom subsidy fund.
-* IRDAI ≠ PFRDA ≠ SEBI ≠ RBI; IFSCA ≠ all-India SEBI.
-* FSSAI = food; BIS = standards; CCI = competition; TRAI = telecom.
-* Ministry of Cooperation **2021**; Article **43B** cooperatives.
-* Services GDP share ≠ services employment share.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025–26 (S.A.E.)** | Services ≈ **54.35%** of GVA at current prices; Industry ≈ **27.8%**; Agriculture & allied ≈ **17.9%**. | Services > Industry > Agriculture. |
+| **2025** | Consumers may bargain **below MRP**; MRP is a **ceiling** (seller cannot charge above it). | A/R both true; R explains A. |
+| **2021** | **ECOMARC** marks environment-friendly products — not “best quality” alone. | Eco-label trap. |
+| **2019** | Mandatory CSR sits in **Companies Act, 2013** (not a 2014 Act) at **≥2%** of average net profits (not 1%). | Neither statement correct. |
+| **Still current** | **Ministry of Cooperation** (2021) owns the cooperative policy desk at the Centre. | New ministry vs older MoA tag. |
+| **Still current** | **IFSCA** regulates financial services in **GIFT IFSC** (Gujarat). | Not a second RBI for all India. |
+| **Still current** | **IRDAI** HQ **Hyderabad**; **SEBI** / many finance regulators often Mumbai-linked in teaching. | HQ match traps. |
 
 
 ---

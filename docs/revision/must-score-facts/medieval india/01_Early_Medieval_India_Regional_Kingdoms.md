@@ -54,48 +54,37 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Kannauj** is the UP tripartite and Gahadavala seat; do not confuse it with **Kanchi**, the Tamil Pallava capital.
-2. **Mihir Bhoja** was the Gurjara-Pratihara ruler with the title **Adivaraha**; he is not **Bhoja I** of the Paramaras at **Dhara**.
-3. **Brihadishwara (1010)** was built before **Gangaikondacholapuram (~1025)**; the father **Rajaraja I** preceded the son **Rajendra I**.
-4. The **Shore Temple** belongs to the **Pallavas**, not the Cholas.
-5. The **Tripartite Struggle** had exactly three main powers: Pala, Pratihara, and Rashtrakuta; the Cholas were not a Kannauj contestant.
-6. Sena ruler order is **Hemant, Vijaya, Ballal, Lakshman (H-V-B-L)**, not alphabetical.
-7. **Devagiri** is the Yadava capital and **Warangal** is the Kakatiya capital; never swap them.
-8. **Gopala** was **elected** by chiefs; he was not a routine hereditary founder.
-9. **Mahendravarman I** was a **Pallava** ruler, not a Chola.
-10. **Kadungon** revived the **Pandyas**; he was not a Pallava or Chola fact.
-11. **Manyakheta** was the **Rashtrakuta** capital, not a Pratihara or Chalukya capital.
-12. **Khajuraho** belongs to the **Chandelas**, not the Paramaras or Pratiharas.
-13. **Badami** was the Early Chalukya capital; **Kalyani** was the Western Chalukya capital; **Vengi** (**Pedavegi** near **Eluru**) was the Eastern Chalukya capital — not Rajahmundry as the primary identification.
-14. **Ur** was the general village assembly; **Sabha** was the Brahmana **agrahara** assembly.
-15. **Jay Chandra** died at **Chandawar in 1194**, not at Tarain in 1192.
-16. **Kadaram** is **Kedah (Malaysia)**; the **1025** naval expedition against it was led by **Rajendra I**.
-17. **Rajasekhara** served **Mahendrapala I** and **Mahipala I** at the Pratihara court, not Paramara **Bhoja I**.
-18. **Rudramadevi** ruled the Kakatiyas and was recorded in inscriptions as **Rudradeva**.
-19. **Agrahara** grants were **tax-free** villages, not heavily taxed Brahmana settlements.
-20. **Chennakesava** is at **Belur (Hoysala)**; **Hoysalesvara** is at **Halebid**.
-21. Imperial Chola founder is **Vijayalaya (~850)**, not Rajaraja or Parantaka; **Maduraikonda** = Parantaka I.
-22. **Takkolam 949** = Rashtrakuta **Krishna III** vs Chola **Rajaditya** — not Pandya or Hoysala.
-23. **Thotta Variyam** = gardens; **Eri** = tanks; **Pon** = gold — do not swap.
-24. **Taniyur** ≠ Brahmadeya gift; it is a large single-unit village. **Eripatti** = tank-maintenance land.
-25. **Nataraja** = four-handed dancing Shiva; **Dakshinamurti** = teacher facing south.
-26. Northern Sri Lanka = **Rajaraja I**; whole island + Mahendra V = **Rajendra I**.
-27. **72 traders to China (1077)** = **Kulottunga I**, not Rajendra alone.
-28. **Chera capital ≠ Puducherry** → **Vanchi / Karuvur**. **Vanavasi** = Kadamba, not Chalukya.
-29. **Motupalli** = Kakatiya port; Aihole names **Kalidasa** via Ravikirti’s boast.
-30. First standing Chola navy = **Rajaraja I**; “Chola Lake” / Chola Gangam = **Rajendra I**.
-31. **Prithviraj Chauhan** = **Prithviraj III**; Delhi founder city **Dhillika** = **Tomar Anangpal**.
-32. **Vikramashila / Somapura** = **Dharmapala**; **Odantapuri** = **Gopala**; Sailendra five villages = **Devapala**.
-33. **Jejakabhukti ≠ Kaushambi** → Bundelkhand. **Alha–Udal** = Mahoba Chandela.
-34. *Hammir Raso* ≠ Abdur Rehman → **Sharangadeva**. *Prithviraja Vijaya* = **Jayanaka**.
-35. Jurists = Hemadri / Vijnaneshwara / Jimutavahana; **Rajasekhara is not** a jurist.
-36. **Lakshmana Samvat** = **Lakshmana Sena**. **Kumaradevi’s vihara** = **Sarnath**.
-37. Paramara **Bhoja** ≠ Kalachuri **Gangeyadeva**. Bhojshala deity = **Saraswati**.
-38. Solanki capital = **Anhilwada**; Kannauj = **Mahodaya / Mahodaya Shri**.
-39. **Hiranyagarbha** = **Dantidurga**. **Araghatta** = irrigation waterwheel.
-40. **Taxila** is **not** an early-medieval Pala learning centre beside Nalanda / Vikramashila / Odantapuri.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Early Medieval | Delhi Sultanate | ~750–1200 regional/feudal vs from **1206** Turkish rule | प्रारंभिक मध्यकाल / दिल्ली सल्तनत |
+| Tripartite Struggle | South P-C-R-C cycle | Kannauj contest (Pala+Pratihara+Rashtrakuta) vs Tamil–Deccan power rotation | त्रिपक्षीय संघर्ष / दक्षिण चक्र |
+| Pallava | Chola | **Kanchi**, pre-9th structural temples vs **Thanjavur** empire from Vijayalaya **850** | पल्लव / चोल |
+| Early Chalukya | Western Chalukya | **Badami/Vatapi** (6th–8th) vs **Kalyani** (10th–12th) | प्राचीन चालुक्य / पश्चिमी चालुक्य |
+| Ur | Sabha/Mahasabha | General village assembly vs Brahmana **agrahara** assembly | उर / सभा |
+| Nadu | Mandalam | Basic unit (village cluster) vs province (empire had **4**) | नाडु / मंडलम |
+| Mihir Bhoja | Bhoja I (Paramara) | **Pratihara**, title **Adivaraha**, Kannauj vs **Malwa/Dhara** scholar-king | मिहिर भोज / परमार भोज |
+| Gahadavala | Pratihara | 11th–12th Kannauj+Banaras Rajputs vs 8th–10th imperial Kannauj holders | गहड़वाल / गुर्जर-प्रतिहार |
+| Chandela | Paramara | Bundelkhand/**Khajuraho**/Mahoba vs Malwa/**Dhara** | चंदेल / परमार |
+| Devagiri | Warangal | **Yadava** (later Daulatabad) vs **Kakatiya** (Orugallu) | देवगिरी / वारंगल |
+| Kannauj | Kanchi | UP sovereignty prize vs Tamil Pallava capital | कन्नौज / कांची |
+| Shore Temple | Brihadishwara | Pallava Mahabalipuram ~7th vs Chola Rajaraja **1010** Tanjore | शोर मंदिर / बृहदीश्वर |
+| Adivaraha | Gangaikondachola | Mihir Bhoja (Pratihara) vs Rajendra I (Chola) | आदिवराह / गंगैकोंडचोल |
+| Vijayalaya | Rajaraja I | Imperial Chola **founder ~850** vs peak navy / Brihadishwara builder | विजयालय / राजराज |
+| Rajaraja I (N. Lanka) | Rajendra I (whole Lanka) | Northern conquest vs full island + Mahendra V prisoner | राजराज / राजेन्द्र |
+| Thotta Variyam | Eri Variyam | Gardens / horticulture vs tanks and water | तोट्टा / एरी |
+| Eripatti | Taniyur | Tank-maintenance land vs large single-unit village | एरिपट्टी / तनियूर |
+| Nataraja | Dakshinamurti | Four-armed dancing Shiva vs teacher form facing south | नटराज / दक्षिणामूर्ति |
+| Badami / Vatapi | Vanavasi | Early Chalukya capital vs **Kadamba** capital | वातापी / वनवासी |
+| Vengi (Pedavegi) | Rajahmundry | Eastern Chalukya capital **Pedavegi** near **Eluru** vs later seat **Rajamahendravaram** | वेंगी / राजमहेन्द्रवरम |
+| Vanchi / Karur | Madurai | Chera capital vs Pandya capital | वंची / मदुरै |
+| Tarain | Chandawar | **1192** Prithviraj vs **1194** Jay Chandra | तराइन / चंदावर |
+| Mihir Bhoja (Pratihara) | Bhoja (Paramara) | Adivaraha / Kannauj vs Dhara scholar-king / Bhojshala | मिहिर भोज / परमार भोज |
+| Jejakabhukti | Kaushambi | Ancient **Bundelkhand** vs doab city | जेजाकभुक्ति / कौशांबी |
+| Vikramashila | Odantapuri | **Dharmapala** vs **Gopala** (Bihar seats) | विक्रमशिला / ओदन्तपुरी |
+| Prithviraj Raso | Prithviraja Vijaya | Chand Bardai vs **Jayanaka** | पृथ्वीराज रासो / विजय |
+| Hammir Raso | Hammira Mahakavya | **Sharangadeva** vs Nayachandra Suri epic | हम्मीर रासो / महाकाव्य |
+| Rajasekhara | Hemadri / Vijnaneshwara | Pratihara court poet vs early medieval **jurists** | राजशेखर / हेमाद्रि–विज्ञानेश्वर |
+| Anhilwada | Dhara | Solanki capital vs Paramara capital | अणहिलवाड़ / धारा |
 
 
 ---

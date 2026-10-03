@@ -54,26 +54,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Biogas = butane + CO₂ | **Methane + CO₂** |
-| ISA HQ Paris/New Delhi | **Gurugram** |
-| ISA exactly 38 members / all UN | **Outdated / false** |
-| Rajasthan leads wind | **Tamil Nadu wind; Rajasthan solar** |
-| Geothermal from Sun | **Earth interior heat** |
-| Geothermal in Ganga Delta | **Not** a listed province |
-| Tidal = wave energy | **Moon gravity vs wind waves** |
-| Tidal potential in Thar | **Khambhat/Kutch coast** |
-| SHP = 50 MW | **≤25 MW** |
-| Nepal border = zero Indian hydro | **False — Q31** |
-| Grey hydrogen = green | **Grey = fossil gas** |
-| Largest solar park = always Gujarat | **Bhadla, Rajasthan** |
-| Fuel cell = AC | **DC**; heat + water |
-| DCR = TV licences | **Domestic solar PV content** |
-| India #3 silicon wafers | **Not** a wafer leader |
-| Green H₂ Mission 2019 | **January 2023** |
-| Nuclear = renewable in MCQs | **Usually non-renewable category** |
-| Singrauli = hydro | **Thermal power hub** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Solar Photovoltaic (PV)** | **Concentrated Solar Power (CSP)** | Semiconductor solar cells that convert incident sunlight photon energy directly into direct-current electricity via the photoelectric effect vs optical mirrors/lenses that concentrate solar thermal energy to heat a fluid and drive a steam turbine | सौर फोटोवोल्टिक (सीधा विद्युत उत्पादन) / संकेंद्रित सौर ताप (CSP, टरबाइन चालित) |
+| **Green Hydrogen** | **Grey Hydrogen / Blue Hydrogen** | Produced by zero-carbon electrolysis of water powered entirely by renewable electricity (solar/wind) vs produced via steam methane reforming of natural gas releasing unabated CO₂ (Grey) or with carbon capture and storage (Blue) | हरित हाइड्रोजन (शून्य कार्बन जल अपघटन) / धूसर व नीला हाइड्रोजन (जीवाश्म स्रोत) |
+| **Biomass Energy** | **Biogas** | Direct thermal or electrical energy produced by combusting solid organic matter (bagasse, rice husk, wood pellets) vs gaseous fuel mixture consisting primarily of methane (50–70%) and CO₂ generated through anaerobic microbial digestion of organic waste | बायोमास ऊर्जा (ठोस जैविक ईंधन) / बायोगैस (अवायवीय पाचन, मीथेन प्रधान) |
+| **Geothermal Energy** | **Ocean Thermal Energy (OTEC)** | Harnesses natural high-temperature hydrothermal heat and steam from Earth's deep crustal magma reservoirs (e.g. Puga Valley, Ladakh; Manikaran, HP) vs exploits the temperature differential between warm tropical surface ocean water and freezing deep seawater (≥20°C gradient) | भू-तापीय ऊर्जा (पृथ्वी का आंतरिक ताप) / महासागरीय तापीय ऊर्जा (OTEC, सतही-गहन ताप भेद) |
+| **Small Hydro Power (SHP)** | **Large Hydro Power** | Hydropower installations with individual installed capacity up to and including **25 MW** administered under the Ministry of New and Renewable Energy (MNRE) vs large dam-based hydropower plants >25 MW administered under the Ministry of Power | लघु जल विद्युत (≤25 MW, MNRE) / बड़ी जल विद्युत परियोजनाएं (>25 MW) |
+| **International Solar Alliance (ISA)** | **International Renewable Energy Agency (IRENA)** | Treaty-based intergovernmental solar coalition initiated by India and France at COP21 Paris with global HQ in Gurugram, India vs global renewable energy intergovernmental agency covering all renewables founded in 2009 with HQ in Abu Dhabi, UAE | अंतरराष्ट्रीय सौर गठबंधन (ISA, गुरुग्राम) / इरेना (IRENA, अबू धाबी) |
 
 
 ---

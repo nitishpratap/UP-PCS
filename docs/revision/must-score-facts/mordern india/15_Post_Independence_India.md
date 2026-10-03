@@ -54,32 +54,23 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **CDP = 1948** → Etawah **1948**; CDP **2 Oct 1952**.
-2. **Nilokheri = Albert Mayer** → Nilokheri ≈ **S.K. Dey**; Etawah = Mayer.
-3. **SRC = K.T. Shah / Sitaramayya** → **Fazl Ali, Panikkar, Kunzru**. Sitaramayya = **JVP**.
-4. **First linguistic state = Kerala / 1956 Act** → **Andhra, 1 Oct 1953**.
-5. **Adopted = 26 Jan 1950** → Adopted **26 Nov 1949**; commenced **26 Jan 1950**.
-6. **Flag = 22 July 1948 / Jan 1950** → **22 July 1947**.
-7. **FR Sub-Committee = Ambedkar** → **J.B. Kripalani**. Drafting = Ambedkar.
-8. **Union Constitution Committee = Prasad** → **Nehru**. Prasad = Rules / CA President.
-9. **Planning Commission = Art. 280** → 280 = **Finance Commission**. PC = resolution, 1950.
-10. **NITI first VC = Rajiv Kumar** → **Arvind Panagariya**.
-11. **Sustainable growth = 11th Plan** → **12th**. 11th = inclusive growth.
-12. **Economic Cabinet = Finance Commission / Cabinet** → **Planning Commission** (Ashok Chanda).
-13. **Junagadh = Operation Polo** → Polo = **Hyderabad**. Junagadh = **plebiscite**.
-14. **IoA = all subjects / privy purse end** → IoA = **three** subjects; purses end **26th Amendment 1971**.
-15. **Nyaya Panchayat = Balwant Rai Mehta tier** → **Not** a Mehta tier (2024 Q129, Polity T10).
-16. **Bombay split = 1956** → **1 May 1960**.
-17. **Drafting Committee = Dec 1946** → **29 August 1947**.
-18. **NITI replaced Finance Commission** → replaced **Planning Commission**.
-19. **Chandernagore = same as the Pondicherry group** → Chandernagore merged into **West Bengal, 1954**; Pondicherry group is a **separate UT**, de jure only in **1962**.
-20. **Goa joined by referendum, like Pondicherry** → Goa needed **Operation Vijay, 1961**; Portugal refused talks.
-21. **Panchsheel = NAM's founding year** → Panchsheel **1954**; NAM's first summit is **Belgrade, 1961**. Bandung (1955) is a related mood, not the first NAM summit.
-22. **Jinnah was a Constituent Assembly member** → he was **not**.
-23. **Constitution commenced on 26 Nov 1949** → that is **adoption**; commencement = **26 Jan 1950**.
-24. **First CA President = Ambedkar** → temp **Sinha**, permanent **Prasad**; Ambedkar = **Drafting Committee**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Etawah 1948 | CDP 1952 | UP pilot (Mayer) vs nationwide programme | इटावा / सामुदायिक विकास |
+| Etawah | Nilokheri | Mayer village pilot vs S.K. Dey refugee township | इटावा / निलोखेडी |
+| CDP | NES | Intensive projects 1952 vs wider extension 1953 | सीडीपी / एनईएस |
+| IoA | Standstill | Three subjects ceded vs interim status-quo | अधिमिलन / स्टैन्डस्टिल |
+| Junagadh | Hyderabad | Plebiscite vs Police Action 1948 | जूनागढ़ / हैदराबाद |
+| Chandernagore | Pondicherry group | Merged into **West Bengal 1954** vs stayed a separate **UT, de jure 1962** | चंद्रनगर / पुदुचेरी |
+| Pondicherry 1954 | Goa 1961 | French referendum route vs Portuguese military route (**Operation Vijay**) | पुदुचेरी / गोवा |
+| Goa UT 1962 | Goa State 1987 | 12th Amendment made it a UT vs full statehood 25 years later | गोवा संघ शासित / गोवा राज्य |
+| Adopted | Commenced | **26 Nov 1949** vs **26 Jan 1950** | अंगीकृत / लागू |
+| Dhar 1948 | SRC 1953 | Against language basis vs language accepted with limits | धर / एसआरसी |
+| SRC | Act 1956 | Commission (Fazl Ali) vs statute **1 Nov 1956** | आयोग / अधिनियम |
+| Planning Commission | Finance Commission | Extra-constitutional 1950 vs Art. 280 | योजना आयोग / वित्त आयोग |
+| PC | NITI | Plan body 1950–2014 vs think-tank from 2015 | योजना / नीति |
+| 1st Plan | 2nd Plan | Agriculture/CDP vs heavy industry (Mahalanobis) | प्रथम / द्वितीय |
+| Part A | Part B (1950) | Governor’s provinces vs princely unions | ए / बी राज्य |
 
 
 ---

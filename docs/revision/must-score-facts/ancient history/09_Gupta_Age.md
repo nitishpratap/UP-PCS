@@ -54,38 +54,31 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Chandragupta II = Chandragupta Maurya** → Gupta Vikramaditya vs 322 BCE.
-2. **2022 Shaka proof = gold dinara** → **silver**, ~33 grains.
-3. **33 grains = gold weight** → silver rupaka.
-4. **Samudragupta annexed the south** → restored **tributes**.
-5. **Vishnugopa = Magadha** → **Kanchi**.
-6. **Dhananjaya = Avamukta** → **Kusthalapura**. Nilaraja = Avamukta.
-7. **Prayag Prashasti = the pillar itself** → the **text**. Shaft is Ashokan.
-8. **Shringara Shataka = Kalidasa** → **Bhartrihari** (2025).
-9. **Fa-Hien = Hiuen Tsang** → ~400 vs ~630. 2024 order Fa-Hien first.
-10. **Nalanda = Fa-Hien’s main campus memoir** → founder fact **Kumaragupta**. Xuanzang = later.
-11. **Vayu Purana = Gupta admin** → 2023 stmt 2 false.
-12. **Sarnath Buddha = Gandhara** → Gupta vs Kushan.
-13. **Ajanta = default Gupta court painting** → largely **Vakataka**.
-14. **Jayadeva sat with Kalidasa** → 2025 match only. Later poet.
-15. **Bhitari = Samudragupta south list** → **Skandagupta / Hunas**.
-16. **Sandhivigrahika = Samaharta** → Gupta war-peace vs Mauryan collector.
-17. **King-queen gold = Chandragupta II Shaka type** → **Chandragupta I** + Kumaradevi.
-18. **Lyrist coin = Chandragupta II** → **Samudragupta**.
-19. **Allahabad pillar is only Gupta** → Mauryan shaft reused.
-20. **Maukhari pairs treated as imperial Gupta** → Ishanavarman / Jivitagupta II are **later**. **Sarvavarman ≠ Gaya** plate.
-21. **Chapter starts at Chandragupta II** → Sri Gupta → Ghatotkacha → **Chandragupta I** first.
-22. **Ramagupta = hard inscription king** → play-trap (*Devichandraguptam*).
-23. **Devagupta = Chandragupta Maurya** → Devagupta is an alias of **Chandragupta II**.
-24. **Lilavati = Dhanvantari / Gupta maths** → **Bhaskara II**, 12th century.
-25. **Bhitari = outside UP** → **Ghazipur**, Uttar Pradesh.
-26. **Admin ladder skips Vithi** → Bhukti → Vishaya → **Vithi** → Grama.
-27. **Eran sati = Rudradaman** → Goparaja’s widow ~510 CE.
-28. **Tamralipti = only west port** → east Bengal; west = **Bharuch**.
-29. **Pravarasena I = four ashvamedhas of Samudragupta** → **Vakataka** king.
-30. **Mehrauli = Ashoka pillar only** → iron **Vishnu dhvaja** of Chandra / CG II.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Chandragupta I | Chandragupta II | Licchavi marriage founder vs **Vikramaditya**, Shaka war | प्रथम / द्वितीय |
+| Chandragupta II | Chandragupta Maurya | Gupta ~380 CE vs Mauryan **322 BCE** | गुप्त / मौर्य |
+| Samudragupta | Chandragupta II | **Digvijaya** / Prayag vs Shaka silver + Fa-Hien | समुद्रगुप्त / चंद्रगुप्त II |
+| Prayag Prashasti | Allahabad pillar | Harishena’s **text** vs the **shaft** it sits on | प्रशस्ति / स्तंभ |
+| Gold dinara | Silver rupaka | Prestige types vs **2022 Shaka-victory** proof (~33 grains) | दीनार / रूपक |
+| Bhukti | Vishaya | Province (**Uparika**) vs district (**Kumaramatya**) | भुक्ति / विषय |
+| Kalidasa | Bhartrihari | *Meghaduta* (मेघदूत) / *Raghuvamsa* (रघुवंश) vs **Shringara Shataka** (शृंगार शतक) (2025) | कालिदास / भर्तृहरि |
+| Fa-Hien | Hiuen Tsang | CG II ~400 CE vs **Harsha** ~630s | फाह्यान / ह्वेन त्सांग |
+| Kumaragupta I | Skandagupta | **Nalanda** patron vs **Huna** wars (Bhitari) | कुमारगुप्त / स्कंदगुप्त |
+| Somadeva | Kshemendra | *Kathasaritsagara* vs *Brihatkathamanjari* (2025) | सोमदेव / क्षेमेन्द्र |
+| Jayadeva | Trivikrama Bhatta | *Gita Govinda* vs *Nala Champu* (2025) | जयदेव / त्रिविक्रम |
+| Aryabhata | Varahamihira | *Aryabhatiya*, rotation vs *Brihatsamhita* | आर्यभट / वराहमिहिर |
+| Sarnath Buddha | Gandhara Buddha | Gupta **plain drape** vs Kushan Greco-Buddhist | सारनाथ / गांधार |
+| Sandhivigrahika | Samaharta | Gupta peace-and-war minister vs Mauryan collector | संधिविग्रहिक / समाहर्ता |
+| Nalanda | Takshashila | Gupta **Kumaragupta I** vs older **Gandhara** town | नालंदा / तक्षशिला |
+| Vikramashila | Vallabhi | Pala **Dharmapala** vs Maitraka **Gujarat** (also Jain council) | विक्रमशिला / वल्लभी |
+| Gold dinara | Silver rupaka | Prestige types vs **Shaka-victory** proof (~33 grains) | दीनार / रूपक |
+| Dhanvantari | Bhaskara II | Navaratna medicine vs **12th-c.** *Lilavati* | धन्वंतरि / भास्कर |
+| Eran sati | Junagadh | **Goparaja** widow ~510 CE vs Rudradaman / Skandagupta lake texts | एरण सती / जूनागढ़ |
+| Tamralipti | Bhrigukachchha | East Bengal port vs west **Bharuch** port | ताम्रलिप्ति / भृगुकच्छ |
+| Pravarasena I | Prabhavatigupta | Vakataka **Samrat** / 4 ashvamedhas vs Gupta **princess-regent** | प्रवरसेन / प्रभावती |
+| Devagupta | Chandragupta Maurya | CG II alias vs Mauryan founder | देवगुप्त / मौर्य |
+| Vishti | Bhaga | Forced labour as tax vs produce share (~1/6) | विष्टि / भाग |
 
 
 ---

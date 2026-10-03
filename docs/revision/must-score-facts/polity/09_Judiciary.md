@@ -54,63 +54,28 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-- **SC established by 214 / 226:124**.
-- **Resigns to the CJI:President** (SC **and** HC).
-- **Same retirement age:65 vs 62**.
-- **Distinguished jurist for HC:SC only**.
-- **Collegium in the Constitution:judge-made**; NJAC **was** in the text and fell.
-- **First Judges created Collegium:Second (1993)**; First = executive primacy.
-- **Third Judges Collegium is always CJI+4:CJI+4 for SC; CJI+2 for HC**.
-- **NJAC = CJI + Law Minister only:six**: CJI + 2 SC + Law Min + 2 eminent; **any 2 veto**.
-- **Art. 131 covers FRs / private parties / river water:** FR → **32**; private → **no**; water → **262** can **bar** (and **did**).
-- **President/VP election is 131:Art. 71**, not 131.
-- **MP/MLA election petition in SC:High Court** (RPA / 329).
-- **SLP against armed-forces courts:No**.
-- **143 is binding / 143 can always be declined:advisory**; **143(2) shall** report.
-- **SC exclusive on Central laws:43rd** repealed **131A**.
-- **226 narrower than 32:wider**.
-- **227 includes armed-forces tribunals:excepted**.
-- **HC judge resigns to Governor:President** (oath is before Governor).
-- **Common HC needs 368:ordinary law, 231**.
-- **Allahabad is a 1862 Chartered HC:1866**; Chartered three = Calcutta, Bombay, Madras.
-- **Lucknow is a separate HC:bench** of Allahabad (1948 Oudh merger).
-- **Additional HC judge sits till 65:≤ 2 years** and must go at **62**.
-- **Ad hoc SC judge = retired judge:** ad hoc **127** = **sitting HC**; retired = **128**.
-- **HC salary charged on CFI:** salary on **State CFI**; **pension** on **CFI**.
-- **Art. 142 available to HCs:SC only**.
-- **US SC gives advisory opinions:No**; India **yes (143)**.
-- **Tribunals = Part XI:Part XIVA** (42nd). XI = Union–State relations.
-- **323A and 323B both only Parliament:323A Parliament only; 323B Parliament or State**.
-- **CAT ousts the High Court:** *L. Chandra Kumar* — **226/227 survive** (basic structure).
-- **CAT covers armed forces:No** (Armed Forces Tribunal is separate).
-- **PIL is in the Constitution:judge-made** (32/226).
-- **PIL CJI = Hidayatullah / Chandrachud (UPPCS options):** key fact **Bhagwati**.
-- **Fathima Beevi Governor of Kerala:Tamil Nadu** 1997–2001.
-- **First woman HC CJ = Fathima Beevi:** Fathima = first woman **SC** judge. First woman HC CJ = **Leila Seth**.
-- **Review = curative:** review **137**; curative = *Rupa Hurra* **after** review fails.
-- **DJ appointed by High Court:Governor in consultation with HC (233)**. **Control** = HC (**235**).
-- **233(2) 7 years applies to promotees:** only to a person **not already** in Union/State service.
-- **Lok Adalat award is appealable:no appeal**; = civil-court **decree**.
-- **Regular Lok Adalat can decide merits:compromise only**. Merits → **Permanent** Lok Adalat (public utility).
-- **Gram Nyayalaya = Gram Panchayat court:** separate **court** under 2008 Act; Nyayadhikari = JM-I / Civil Judge Jr.
-- **Contempt power is only statutory:129/215 inherent**; 1971 Act only **regulates**.
-- **Truth is no defence in contempt:2006 Amd** — truth + public interest + bona fide.
-- **Criminal contempt needs AG consent always:suo motu does not.** Private motion **does** (s.15).
-- **Subordinate court tries its own contempt:** it **refers** to the **HC**.
-- **AIJS already exists:312** enables it (**42nd**); **not created**; cannot go **below DJ**.
-- **AIJS needs a 368 amendment:** creating law may amend Ch. VI Part VI and is **not** 368.
-- **Family Court = Gram Nyayalaya:** Family Courts Act **1984** (district; DJ-rank). Gram Nyayalaya **2008** (block; JM-I rank).
-- **SAT always = State Administrative Tribunal:** also **Securities Appellate Tribunal** (SEBI) — read the question.
-- **PLA = regular Lok Adalat:** PLA: **pre-litigation + public utility + can decide merits + ₹1 cr cap**.
-- **Gram Nyayalaya bound by Evidence Act:not bound**; natural justice.
-- **NGT is 323A:NGT Act 2010**; environment — 323B-type, not CAT.
-- **AFT matters go to CAT:armed forces excluded** from CAT; **AFT 2007**.
-- ***Sampath Kumar* is the last word on tribunals:** overruled in substance by ***L. Chandra Kumar* (1997)**.
-- **First woman SC judge from the Bar = Fathima Beevi:** Fathima was from **Kerala HC**. First from the **Bar** = **Indu Malhotra (2018)**.
-- **FTC is ADR:No** — it is a regular sessions court on a fast track.
-- **Free legal aid is only for BPL:** also women, SC/ST, workmen, custody, disaster victims… (1987 Act).
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Integrated judiciary | Independent judiciary | One hierarchy apexed in the SC vs separation from executive/legislature | एकीकृत / स्वतंत्र |
+| Art. 124 | Art. 214 | Supreme Court established vs High Court for each State | अनु. 124 / 214 |
+| SC age 65 | HC age 62 | Retirement ages must not be swapped | 65 / 62 |
+| Distinguished jurist | HC qualification | Jurist route for **SC only**; HC needs 10y office or advocacy | विशिष्ट विधिवेत्ता |
+| First Judges Case | Second Judges Case | Executive primacy (1981) vs Collegium born (1993) | प्रथम / द्वितीय न्यायाधीश |
+| CJI+4 Collegium | CJI+2 Collegium | SC appointments vs HC appointments (Third Judges) | सीजेआई+4 / +2 |
+| Art. 131 | Art. 71 | Federal original disputes vs President/VP election disputes | अनु. 131 / 71 |
+| Art. 131 | Art. 262 | Federal disputes vs river water (Parliament may bar courts) | अनु. 131 / 262 |
+| Art. 32 | Art. 226 | SC writs for FR only vs HC writs for FR + any legal right | अनु. 32 / 226 |
+| Art. 136 | Armed-forces courts | SLP is widest but **not** against court-martial type forums | अनु. 136 |
+| Art. 137 | Curative petition | Review first vs *Rupa Hurra* after review fails | पुनर्विचार / क्यूरेटिव |
+| Art. 143(1) | Art. 143(2) | Court **may** decline vs **shall** report (pre-Const treaties) | परामर्शी |
+| Art. 233 | Art. 235 | DJ appointment (Governor + HC) vs **control** with HC | अनु. 233 / 235 |
+| Part XIVA | Part XI | Tribunals (323A–323B) vs Centre–State relations | भाग XIVA / XI |
+| Art. 323A | Art. 323B | Parliament only (admin) vs Parliament **or** State (other) | 323A / 323B |
+| *Sampath Kumar* | *L. Chandra Kumar* | Tribunal as substitute vs tribunal as **supplement**; 226/227 survive | सम्पथ / एल चंद्र |
+| Lok Adalat | Permanent Lok Adalat | Compromise only vs public-utility merits + pre-litigation | लोक अदालत / PLA |
+| Fathima Beevi | Leila Seth | First woman **SC** judge vs first woman **HC Chief Justice** | फातिमा / लीला सेठ |
+| Art. 127 ad hoc | Art. 128 retired | Sitting HC judge vs retired judge sitting | तदर्थ / सेवानिवृत्त |
+| Chartered HCs 1862 | Allahabad 1866 | Calcutta–Bombay–Madras vs Allahabad (not Chartered 1862) | चार्टर्ड / इलाहाबाद |
 
 
 ---
@@ -226,29 +191,32 @@ D. The Prime Minister
 </details>
 
 **Q8.**
-The concept ‘Basic Structure of the Constitution’ was propounded by the Supreme Court in the case of—
-A. *Kesavananda Bharati* (1973)
-B. *Golaknath* (1967)
-C. (other cases)
+The concept of the 'Basic Structure of the Constitution' was propounded by the Supreme Court in which of the following landmark cases?
+
+A. Kesavananda Bharati v. State of Kerala (1973)
+B. Golak Nath v. State of Punjab (1967)
+C. Minerva Mills v. Union of India (1980)
+D. Shankari Prasad v. Union of India (1951)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: *Kesavananda Bharati*, 1973.**
+**Ans: A** — In Kesavananda Bharati v. State of Kerala (1973), a 13-judge bench of the Supreme Court propounded the doctrine of the 'Basic Structure' of the Constitution.
 
 </details>
 
 **Q9.**
-Which one of the following pairs is NOT correctly matched?
-A. Interstate Council – Article 263
-B. Finance Commission – Article 280
-C. Administrative Tribunal – Article 323A
-D. Union Public Service Commission – Article 315
+Which Article of the Constitution of India provides that the law declared by the Supreme Court shall be binding on all courts within the territory of India?
+
+A. Article 141
+B. Article 142
+C. Article 143
+D. Article 136
 
 <details>
 <summary>Show answer</summary>
 
-**Fact: C is correctly matched (323A).** Learn 323A vs 323B from this pair.
+**Ans: A** — Article 141 provides that the law declared by the Supreme Court shall be binding on all courts within the territory of India. Article 142 covers enforcement of decrees and orders for complete justice.
 
 </details>
 

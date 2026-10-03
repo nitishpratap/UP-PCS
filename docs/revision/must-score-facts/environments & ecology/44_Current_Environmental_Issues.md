@@ -53,21 +53,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| LiFE idea at COP-25 Madrid | **COP26 Glasgow 2021**; launch **June 2022** |
-| MISHTI initiated 2019 | **Budget 2023–24** |
-| India net zero 2050 | **2070** |
-| Net zero = emissions to absolute zero | Balance with **removals** |
-| Emissions Gap = IPCC | **UNEP** |
-| Ecological footprint in tCO₂e | Unit = **gha** |
-| Microplastics <5 cm | **<5 mm** |
-| Green H₂ = grey H₂ | Grey = natural gas reforming |
-| Green economy = circular identically | Circular = **material loops**; green = broader |
-| Climate refugee = 1951 legal status | **Not** a formal Convention category |
-| NbS = geoengineering | Ecosystem protect/manage/restore |
-| MISHTI for Ganga basin inland | **Coastal mangroves** |
-| Highest India per capita carbon footprint | High **total**, low **per capita** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Carbon Footprint** | **Ecological Footprint** | Total amount of greenhouse gases (in tonnes of CO₂e) emitted directly/indirectly by an entity vs total biocapacity area (in global hectares, gha) required to sustain a lifestyle | कार्बन पदचिह्न (CO₂e उत्सर्जन) / पारिस्थितिक पदचिह्न (भूमि/संसाधन मांग) |
+| **Net Zero Emissions** | **Gross Zero Emissions** | Balancing residual carbon emissions with equivalent carbon removals via sinks and DACCS vs completely eliminating all greenhouse gas emissions across all sectors without offsets | नेट जीरो (उत्सर्जन-अवशोषण संतुलन) / सकल शून्य (पूर्ण उत्सर्जन शून्यता) |
+| **Green Economy** | **Circular Economy** | Broad macro-framework promoting low-carbon, resource-efficient, and socially inclusive growth vs industrial economic model eliminating waste through closed-loop recycling and repair | हरित अर्थव्यवस्था / चक्रीय अर्थव्यवस्था |
+| **Green Hydrogen** | **Grey Hydrogen / Blue Hydrogen** | Produced by electrolysis of water powered entirely by renewable electricity vs produced from natural gas without carbon capture (Grey) or with carbon capture & storage (Blue) | हरित हाइड्रोजन (नवीकरणीय) / धूसर व नीला हाइड्रोजन |
+| **Primary Microplastics** | **Secondary Microplastics** | Tiny plastic beads (<5mm) intentionally manufactured for cosmetics and industrial pellets vs microscopic plastic fragments resulting from physical weathering and breakdown of larger plastic debris | प्राथमिक माइक्रोप्लास्टिक (निर्मित मनके) / द्वितीयक माइक्रोप्लास्टिक (अपघटित टुकड़े) |
+| **Nature-based Solutions (NbS)** | **Geoengineering** | Ecosystem protection, restoration, and sustainable management to address societal challenges (e.g. mangrove restoration) vs large-scale technological manipulation of Earth's systems (e.g. solar radiation management) | प्रकृति-आधारित समाधान (NbS) / भू-इंजीनियरिंग |
+| **Mission LiFE Genesis** | **Mission LiFE Official Launch** | Conceptualized and introduced by PM Modi at COP26 Glasgow in **November 2021** vs officially launched jointly with UN Secretary-General António Guterres at Ekta Nagar (Kevadia), Gujarat in **October 2022** | मिशन लाइफ विचार (ग्लासगो 2021) / औपचारिक शुभारंभ (केवड़िया 2022) |
 
 
 ---

@@ -54,23 +54,20 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Rakhigarhi in UP / eastern boundary** → **Hisar, Haryana**; east = **Alamgirpur**.
-2. **Mandi = Manda** → Mandi = **Muzaffarnagar, UP**; Manda = **J&K**, northernmost.
-3. **Lothal = Dholavira** → Lothal = **dockyard**; Dholavira = **water + signboard** (UNESCO 2021).
-4. **Boat models at Dholavira** → **Mohenjo-daro + Lothal** (2022).
-5. **Kalibangan / Lothal in UP** → Rajasthan / Gujarat (2018).
-6. **IVC = pastoral** → **Urban**; pastoral = **Rigvedic**.
-7. **Wheeler discovered IVC** → Sahni **1921**, Banerji **1922**, Marshall **1924**.
-8. **Great Bath at Harappa / Dholavira** → **Mohenjo-daro only**.
-9. **Iron / coins / decoded Sanskrit script** → all **false**.
-10. **Horse is definite** → only **Surkotada**, and **disputed**.
-11. **Chanhudaro = citadel city** → bead town, **no citadel**.
-12. **OCP = Mature Harappan grid** → doab ochre pottery.
-13. **Sanauli = Great Bath city** → Baghpat **chariots**, Late Harappan/OCP.
-14. **Balu = UP / Padri = Haryana** → Balu = **Haryana**, Padri = **Gujarat**, Hulas = **UP**.
-15. **Daimabad in Gujarat** → **Maharashtra**; bronzes ≠ Sanauli chariots.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Harappan | Indus Valley | Same culture; named after first site **Harappa** | हड़प्पा / सिंधु घाटी |
+| Citadel | Lower town | Raised **west** platform vs larger **east** residential zone | दुर्ग / निम्न नगर |
+| Alamgirpur | Rakhigarhi | **Easternmost, UP** vs **largest in India, Haryana** | आलमगीरपुर / राखीगढ़ी |
+| Lothal | Dholavira | **Dockyard** vs **reservoirs + signboard** | लोथल / धोलावीरा |
+| Mandi (UP) | Manda (J&K) | **Muzaffarnagar** vs **Chenab, northernmost** | मंडी / मांडा |
+| IVC | Rigvedic | **Urban** vs **pastoral** | नगरीय / पशुपालक |
+| OCP | Mature Harappan | Doab ochre pottery vs urban peak | गेरूआ मृद्भांड |
+| Seal | Script | Steatite object vs unread signs on it | मुद्रा / लिपि |
+| Proto-historic | Historic | Undeciphered Harappan script vs usable written history (~6th c. BCE) | आद्यऐतिहासिक / ऐतिहासिक |
+| Cemetery R-37 | Cemetery H | Mature Harappa coffin cemetery vs Late Harappan urn / fractional burial | आर-37 / सीमेट्री एच |
+| Cow on seals | Unicorn / bull on seals | Cow **absent** vs common seal animals | गाय / एकशृंगी–वृषभ |
+| Sohgaura | Chanhudaro | Mauryan copper-plate village (Gorakhpur) vs Harappan craft town (Sindh) | सोहगौरा / चन्हूदड़ो |
 
 
 ---

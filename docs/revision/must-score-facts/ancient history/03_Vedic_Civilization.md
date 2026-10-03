@@ -54,28 +54,31 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Rigvedic = agrarian / urban** → **Pastoral**; urban = IVC; agrarian = Later Vedic (2020).
-2. **Bhagadugha = gambling / forest / messenger** → **Revenue**; gambling = **Akshavapa** (2023 C).
-3. **Taittiriya / Maitrayani / Kathak = Shukla** → all **Krishna (Black)** Yajurveda; Shukla = **Vajasaneyi** (2018). **Krishna ≠ deity Krishna**.
-4. **Sabha = Samiti = Vidatha** → elders vs tribe vs oldest ritual-share gathering.
-5. **Vedic Sabha = Gram Sabha / Rajya Sabha** → zero link.
-6. **Nishka = coin** → gold **ornament**.
-7. **Purusha Sukta = oldest hymn** → Mandala **X**, late.
-8. **Upanishad = Vedanga** → Shruti / Vedanta, not a limb.
-9. **Iron plough in Rigveda** → **Later Vedic**; RV ayas = copper/bronze.
-10. **Women’s status same throughout** → falls in **Later Vedic**.
-11. **Gayatri = Atharvaveda** → RV **III.62.10**.
-12. **Aitareya Brahmana = Samaveda** → **Rigveda**; Shatapatha = **Shukla Yajurveda**.
-13. **Vidatha still powerful in Later Vedic** → **first to fade**.
-14. **Alamgirpur = Vedic Videha** → **Harappan** east end (Meerut belt).
-15. **Sayana = Vedic rishi** → **14th century** commentator.
-16. **PGW = Sangam south / NBPW** → PGW = **Later Vedic doab**; NBPW = mahajanapada cities (Topic 5).
-17. **Megalithic = PGW** → megaliths = **south/Deccan** Iron Age; PGW = **northwest doab**.
-18. **Iron in Rigveda = shyama ayas** → RV **ayas** = copper/bronze; iron = **Later Vedic**.
-19. **Indra hymns unknown / Vishnu tops RV** → Indra **~250**, Agni **~200**, Soma **~120**; Vishnu **minor** in Rigveda.
-20. **Krishna Yajurveda = Krishna-bhakti text** → Black Yajurveda school (mixed mantra–prose).
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Rigvedic | Later Vedic | **Pastoral**, Punjab, assemblies strong vs **agrarian**, doab, king strong | ऋग्वेदिक / उत्तर वैदिक |
+| Sabha | Samiti | Elders/nobles (later exclusive) vs **general tribal** assembly that **chooses the rajan** | सभा / समिति |
+| Sabha | Vidatha | Political/judicial elite vs **oldest** gathering — **economic + ritual**, women, **fades first** | सभा / विदथ |
+| Bhagadugha | Sangrahitri | Collects king's **share (bhaga)** vs **treasurer** | भागदुघ / संग्रहीतृ |
+| Bhagadugha | Akshavapa | Revenue vs **dice / gambling** officer | भागदुघ / अक्षावाप |
+| Shukla Yajurveda | Krishna Yajurveda | **Vajasaneyi** (mantra & prose separate) vs Taittiriya / Kathaka / Maitrayani (mixed). **Krishna here = Black Yajurveda**, not the god Krishna | शुक्ल / कृष्ण यजुर्वेद |
+| Indra | Agni | **~250** hymns, war/rain vs **~200** hymns, fire / offering-carrier | इन्द्र / अग्नि |
+| Indra (Early) | Prajapati (Later) | War-chief god of Rigveda vs creator / ritual supreme of Later Vedic | इन्द्र / प्रजापति |
+| Vishnu (RV) | Vishnu (Later) | **Minor** in Rigveda vs rises with Rudra in Later Vedic / Upanishadic age | ऋग्वेद विष्णु / उत्तर वैदिक विष्णु |
+| Samhita | Brahmana | Hymns/mantras vs **prose ritual** explanation | संहिता / ब्राह्मण |
+| Aranyaka | Upanishad | Forest **symbolic ritual** vs **Brahman–Atman** philosophy | आरण्यक / उपनिषद् |
+| Varna | Jati | Four-fold (Purusha Sukta; rigid later) vs birth-group (post-Vedic) | वर्ण / जाति |
+| Gavishti | Bali | Cattle-raid / war vs **tribute** to the king | गविष्टि / बलि |
+| Nishka | Coin | Gold **ornament / value-unit** vs coined money (**absent**) | निष्क / मुद्रा |
+| Shruti | Smriti | Heard (Veda corpus) vs remembered (later dharma texts) | श्रुति / स्मृति |
+| Vedanga | Upanishad | Six **limbs** (tools) vs **Vedanta** (end of Veda) | वेदांग / उपनिषद् |
+| PGW | NBPW | Later Vedic **grey painted** doab ware vs mahajanapada **black polished** elite ware | चित्रित धूसर / उत्तरी काली |
+| PGW | OCP | Iron-age **painted grey** vs pre-PGW **ochre-wash** doab rural | PGW / OCP |
+| shyama ayas | ayas (Rigveda) | Later Vedic **iron** vs Early Vedic **copper/bronze** | श्याम आयस / आयस |
+| Trayi | Atharvaveda | Rig–Yajur–Sama liturgical trio vs fourth Veda of charms / household | त्रयी / अथर्ववेद |
+| Karma-kanda | Jnana-kanda | Samhita + Brahmana ritual vs Aranyaka + Upanishad philosophy | कर्मकांड / ज्ञानकांड |
+| Aghanya | Horse sacrifice | Cow “not to be killed” vs Ashvamedha horse rite | अघन्या / अश्वमेध |
+| Sindhu (most named) | Saraswati (most sacred) | Frequency in hymns vs *Naditama* piety | सिन्धु / सरस्वती |
 
 
 ---

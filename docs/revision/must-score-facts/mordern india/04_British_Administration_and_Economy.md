@@ -54,51 +54,31 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-40. **Home Charges include wars outside India** → **no**.
-41. **Imperial Preference = race only** → duty privilege for **British imports**.
-42. **Ryotwari = Cornwallis** → **Munro + Read**; Permanent = Cornwallis.
-43. **Naoroji book = 1900** → **1901**; Syed **rejected** Drain.
-44. **Aurang = treasury officer** → **warehouse**; Banian = Company agent.
-45. Mid-18th-c. Bengal staples ≠ oil-seeds/zinc set → **cotton, silk, saltpetre, opium**.
-
-1. **Munro = Permanent Settlement** → Munro = **Ryotwari**; Cornwallis = **1793**.
-2. **Mackenzie = Ryotwari** → **Mahalwari 1822**.
-3. **Naoroji book = 1900** → **1901**.
-4. **First railway = 1857** → **1853 Bombay–Thane**.
-5. **Penny postage = Hastings 1774** → Hastings started post; **Dalhousie 1854** unified cheap postage.
-6. **Permanent Settlement = all India** → Bengal, Bihar, Orissa, Varanasi belt; ~**19%**.
-7. **Ryot = full owner** → pays government directly; demand stayed high and strict.
-8. **Ripon created first municipal corporation** → **Madras 1688**.
-9. **Drain = deindustrialization** → transfer vs craft decline.
-10. **Railways = Indian welfare only** → troops, trade, guarantee profits.
-11. **Mahalwari = permanent like 1793** → **periodic revision**.
-12. **Collector = revenue clerk only** → also **District Magistrate**, and judge before 1793.
-13. **Commercialization ended famines** → often **raised** famine risk.
-14. **Dalhousie invented telegraph** → **O'Shaughnessy** experimented; Dalhousie expanded.
-15. **Land-system A/R trap** → different British land systems created **different classes of peasantry**; Reason can explain Assertion.
-16. **Moderates A/R trap** → both Assertion and Reason are true, but Reason does **not** explain Assertion.
-17. **Munsiff's Court = highest civil court** → it is the **lowest**; **Sadar Diwani Adalat** is highest.
-18. **Collector kept judicial power after 1793** → Cornwallis stripped it; a separate **District Judge** took over.
-19. **Zamindars kept their policing power after 1793** → abolished; the **thana-daroga** answers to the District Magistrate.
-20. **Haileybury selected by merit ** → by **patronage nomination**; merit begins only with the **Charter Act of 1853**.
-21. **First Indian ICS qualified before 1857** → **Satyendranath Tagore, 1863**.
-22. **Simultaneous ICS ran in India from the start** → only from **1922** (Allahabad/Delhi).
-23. **Railway guarantee rewarded cost control** → it guaranteed **5 percent regardless of cost**, so construction costs ballooned.
-24. **Managing agents owned majority capital** → usually a **minority stake**, majority **control**.
-25. **Nij and ryoti indigo are the same thing** → nij = planter's own land; ryoti = peasant's land under a **dadan** advance.
-26. **Ripon's 1882 Resolution itself handed real power to Indians** → real transfer of local bodies waited for the **1919 dyarchy**.
-27. **1876–78 famine relief was generous** → **Lytton's laissez-faire** kept it deliberately meagre.
-28. **Famine Codes were followed in 1943** → largely **ignored**; the **Woodhead Commission** followed in 1945.
-29. **Mercantilism = free trade** → mercantilism is a **trade monopoly** (to 1813); free trade begins only after.
-30. **Home Charges include overseas wars** → **no**; India Office, pensions, debt, stores in England.
-31. **Imperial Preference = racial discrimination only** → duty privilege for **British imports in India**.
-32. **Sir Syed accepted Drain Theory** → he **rejected** it.
-33. **Aurang = treasury officer** → **warehouse**.
-34. **Mahalwari = main system of Bengal** → Bengal = Permanent Settlement; Mahalwari = UP/NWP–Punjab (~**30%**).
-35. **Deindustrialization begins only after 1857** → commonly dated from **1813**.
-36. **Naoroji never entered British Parliament** → first Indian in Commons **1892** (Liberal Party).
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Permanent Settlement | Ryotwari | Zamindar is proprietor in Bengal (1793) vs direct settlement with the cultivator in Madras/Bombay | स्थायी बंदोबस्त / रैयतवारी |
+| Ryotwari | Mahalwari | Individual cultivator vs the village or mahal as the unit | रैयतवारी / महलवारी |
+| Cornwallis | Munro | Permanent Settlement vs Ryotwari | कॉर्नवालिस / मुनरो |
+| Munro | Mackenzie | Ryotwari vs Mahalwari (1822) | मुनरो / मैकेंज़ी |
+| Drain of Wealth | Deindustrialization | Transfer of Indian wealth to Britain vs decline of Indian handicrafts | धन निष्कासन / विऔद्योगीकरण |
+| Home Charges | Overseas war costs | London-side charges on Indian revenue vs wars outside India (not Home Charges) | होम चार्जेस / विदेशी युद्ध |
+| Imperial Preference | Racial privilege only | Concessions on British imports in India vs a vague “race” label | इंपीरियल प्रेफरेंस |
+| Naoroji | Sir Syed Ahmad Khan | Drain Theory vs rejection of Drain / loyalty to British rule | नौरोजी / सर सैयद |
+| Permanent Settlement ~19% | Ryotwari ~51% | Zamindar Bengal belt vs direct ryot south/west | 19% / 51% |
+| Ripon 1882 | Mayo 1870 | Local self-government resolution vs financial decentralisation | रिपन / मेयो |
+| Hastings post 1774 | Dalhousie post 1854 | Start of Company postal system vs cheap uniform postage | हेस्टिंग्स / डलहौज़ी |
+| Naoroji 1901 | Wood 1854 | Drain book vs education despatch | नौरोजी / वुड |
+| Munsiff's Court | Sadar Diwani Adalat | Lowest civil court, small claims, Indian officer vs final civil court at Calcutta | मुंसिफ़ / सदर दीवानी अदालत |
+| District (Diwani) Judge | Sadar Nizamat Adalat | Same officer doubled as district Magistrate vs the top criminal appeal court at Calcutta | ज़िला न्यायाधीश / सदर निज़ामत अदालत |
+| Haileybury College | Fort William College | Company's England training college (1806) vs Wellesley's Calcutta language college (1800) | हेलीबरी / फोर्ट विलियम |
+| Charter Act 1833 | Charter Act 1853 | Proposed open competition, never enforced vs actually opened competition | चार्टर 1833 / चार्टर 1853 |
+| Guarantee System | Managing Agency System | State-backed 5% return on railway capital vs British firms running Indian companies for fees | गारंटी प्रणाली / प्रबंध अभिकरण |
+| Nij cultivation | Ryoti cultivation | Indigo on planter's own land vs indigo forced on peasant's land under cash advance (dadan) | निज / रैयती |
+| First Cotton Mill (1854) | First Jute Mill (1855) | Bombay (C.N. Dawar) vs Rishra, Bengal (George Acland) | सूती मिल / जूट मिल |
+| Campbell Commission (1866) | Strachey Commission (1880) | Orissa famine (Lawrence) vs Great Famine (Lytton) | कैंपबेल / स्ट्रेची |
+| MacDonnell Commission (1900) | Woodhead Commission (1945) | Post-1899 famine (Curzon) vs Post-1943 Bengal famine | मैकडोनेल / वुडहेड |
+| Herschell (1893) | Fowler (1898) | Closed free silver coinage vs gold-exchange standard at 1s 4d | हर्शेल / फाउलर |
+| Dual economy | Drain of Wealth | Split modern-export pocket vs mass distress vs unrequited transfer of surplus to Britain | द्वैत अर्थव्यवस्था / धन निष्कासन |
 
 
 ---

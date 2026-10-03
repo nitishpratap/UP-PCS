@@ -42,18 +42,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| BOD = blood/altitude oxygen | **Aquatic pollution assay** |
-| Ringelmann = fog/noise/water | **Smoke** |
-| GW Quality Report = CPCB | **CGWB** |
-| Monitoring = audit | Measure ≠ verify compliance |
-| Lichens thrive in dirty air | **Sensitive indicators** |
-| SAFAR = IMD alone / CPCB alone | **IITM** (+ MoEFCC support) |
-| Form V = ISO certificate | Statutory **statement** to SPCB |
-| COD < BOD always | **COD ≥ BOD** |
-| NAMP = real-time only | Mostly **manual**; CAAQMS = continuous |
-| High BOD = clean water | **Dirty** organics |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Environmental Indicator** | **Environmental Monitoring** | Specific quantitative metric reflecting state of an ecosystem (e.g., Lichens for SO₂, E. coli for fecal water contamination) vs continuous systematic collection and analysis of environmental data over time | पर्यावरणीय संकेतक / पर्यावरणीय निगरानी |
+| **Environmental Impact Assessment (EIA)** | **Environmental Audit** | Prospective preventive study predicting ecological impacts of a project *before* environmental clearance vs retrospective verification of legal compliance and emissions *after* commissioning | पर्यावरण प्रभाव आकलन (EIA) / पर्यावरण लेखापरीक्षा |
+| **National Air Monitoring Programme (NAMP)** | **Continuous Ambient Air Quality (CAAQMS)** | Nationwide manual sampling network monitoring SO₂, NO₂, PM10, PM2.5 twice weekly vs automated sensors measuring 12 criteria pollutants with real-time online data | राष्ट्रीय वायु निगरानी (NAMP) / सतत परिवेशी वायु निगरानी (CAAQMS) |
+| **Bioindicator** | **Biomarker** | Organism whose presence/absence indicates environmental quality (Lichens for air, Diatoms/Mayfly for fresh water) vs cellular/biochemical alteration measured in an organism due to chemical exposure | जैव संकेतक (लाइकेन/मेफ्लाई) / जैव मार्कर |
+| **Ringelmann Scale** | **Decibel (dB)** | Visual chart scale (0 to 5) used to measure the apparent density/opacity of industrial smoke emissions vs logarithmic acoustic unit measuring environmental sound levels | रिंगेलमैन पैमाना (धुआं घनत्व) / डेसिबल (ध्वनि तीव्रता) |
 
 
 ---

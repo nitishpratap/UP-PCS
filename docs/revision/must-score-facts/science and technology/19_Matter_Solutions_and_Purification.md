@@ -54,22 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Milk's Colloid Type** | Confusing milk with a Sol or Foam. | Milk is strictly an **Emulsion** (liquid butterfat droplets dispersed in aqueous liquid phase, stabilized by casein protein). |
-| **Rusting Mass Change** | Thinking an iron nail loses weight because rust flakes off. | Rusting is an oxidation process ($4Fe + 3O_2 + 2xH_2O \to 2Fe_2O_3 \cdot xH_2O$); the total weight of the nail **increases** due to added oxygen and water. |
-| **Candle Burning** | Categorizing burning of a candle as solely physical or solely chemical. | It is **both**: melting/vaporization of wax is physical; combustion into $CO_2$ and $H_2O$ is chemical. |
-| **Pressure Cooker Physics** | Believing high pressure itself crushes and cooks food. | High chamber pressure **elevates the boiling point of water** to $\approx 120^\circ\text{C}$, allowing food to cook at a higher temperature. |
-| **Molarity vs. Molality** | Assuming Molarity is preferred in temperature-variable experiments. | Molarity changes with temperature because liquid volume expands. **Molality is temperature-independent** (based on mass) and preferred for colligative calculations. |
-| **Gas in Gas Mixture** | Searching for a colloidal name for a mixture of two gases. | Gases mix completely at the molecular scale to form **homogeneous true solutions**, never colloids. |
-| **Sublimation Candidates** | Believing all white powders sublime upon heating. | $NaCl$ and sugar do not sublime. Common subliming compounds are **camphor, naphthalene, anthracene, $NH_4Cl$, iodine, and dry ice**. |
-| **Colligative Comparison** | Comparing colligative effects based on mass instead of particle count. | Colligative properties depend strictly on the **number of dissolved particles** ($i \times m$). $0.1\text{ m } AlCl_3$ ($i=4$) produces twice the effect of $0.1\text{ m } NaCl$ ($i=2$). |
-| **Reverse Osmosis Flow** | Assuming water flows from dilute to concentrated in RO. | Under applied pressure $P > \Pi$, solvent flows **in reverse**: from concentrated solution across the membrane into pure water. |
-| **Hardy-Schulze Valence** | Thinking higher-mass ions coagulate better regardless of charge. | Coagulation power depends on **ionic charge (valence)**, not atomic weight ($Al^{3+} > Mg^{2+} > Na^+$ for negative sols). |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025–2026** | **Global Desalination & RO Tech** | Mega RO desalination plants in coastal India (Gujarat, Tamil Nadu) utilize **Reverse Osmosis** through thin-film composite polyamide semi-permeable membranes applying hydrostatic pressure $> \Pi$ (osmotic pressure, ~27–30 atm for seawater). |
+| **2024** | **UPPCS Prelims 2024** | Direct question on **Colloidal Classification of Milk**: Identified strictly as an **emulsion** (liquid butterfat droplets dispersed in aqueous liquid phase stabilized by casein protein). Foams, sols, and aerosols were incorrect distractors. |
+| **2024** | **Noble Prize & Quantum Condensates** | Bose-Einstein Condensate (BEC) research in microgravity aboard the ISS Cold Atom Lab (CAL): Atoms cooled to nanokelvin temperatures collapse into the lowest quantum ground state, acting as a single giant "super-atom" (predicted by Satyendra Nath Bose & Albert Einstein, 1924–25; realized by Cornell, Wieman & Ketterle, 1995). |
+| **2023** | **UPPCS / UKPCS Trends** | Frequent testing of **Hardy-Schulze Rule**: Coagulation power of electrolytes increases exponentially with the valence of the active ion ($Al^{3+} > Mg^{2+} > Na^+$ for negative colloidal sols like clay/muddy water). Explains why potash alum ($K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$) rapidly purifies municipal water supplies. |
+| **2022** | **UPPCS Prelims 2022** | Classic trap on **Physical vs. Chemical Change**: Curdling of milk and rusting of iron are irreversible chemical changes, whereas dissolution of sugar in water and melting of wax are physical changes. Burning of a candle involves **both** physical (melting of wax) and chemical (combustion of hydrocarbons into $CO_2 + H_2O$) changes. |
 
 
 ---

@@ -54,23 +54,23 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-1. Nyaya Gautama ≠ Buddha; Kanada ≠ Nyaya; Patanjali ≠ Vaisheshika.
-2. Uttara Mimamsa = Vedanta/Badarayana, not Kapila.
-3. Ramanuja ≠ Dvaita (Madhva); Vallabha = Shuddhadvaita; Nimbarka = Dvaitadvaita.
-4. Sringeri = Yajur/South; Puri = Rig/East — do not swap.
-5. Brahman ≠ Brahmin; Tat tvam asi = Chandogya.
-6. First sermon = Sarnath (UP); enlightenment = Bodh Gaya (Bihar); death = Kushinagar (UP); birth = Lumbini (Nepal).
-7. Councils: Rajagriha first; 3rd = Ashoka/Pataliputra; 4th = Kundalvana/Kanishka.
-8. Milind Panho = Nagasena; Buddhacharita = Ashvaghosha; Nagarjuna = Shunya.
-9. Mahavira = 24th, lion, Pavapuri; Rishabha = bull/Ashtapad; Vasupujya ≠ Shikhar (Champapuri).
-10. Jain Triratna ≠ Buddhist Triratna; Middle Path ≠ Jainism.
-11. Alvars = Vishnu 12; Nayanars = Shiva 63; Andal = woman Alvar.
-12. Kabir ← Ramananda; Surdas ← Vallabha; Ramcharitmanas = Awadhi.
-13. Namdev → Kabir → Nanak → Chaitanya.
-14. Nizamuddin = Delhi not Multan; Fawaid = Hasan Sijzi not Khusrau.
-15. Khalsa = Gobind Singh 1699; Adi Granth = Arjan; Gurmukhi = Angad.
-16. Kumbh = intangible 2017; Qutub/Taj = tangible.
-17. Gangabai ≠ Ganesh Dev Leela; Daya Bai = Vinay Malika.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Astika | Nastika | Accepts Veda as pramana vs rejects Vedic authority | आस्तिक / नास्तिक |
+| Nyaya | Vaisheshika | Logic (Gautama) vs atomism (Kanada) | न्याय / वैशेषिक |
+| Samkhya | Yoga | Theory (25 tattva) vs 8-limb practice | सांख्य / योग |
+| Purva Mimamsa | Uttara Mimamsa | Ritual (Jaimini) vs Vedanta (Badarayana) | पूर्व / उत्तर मीमांसा |
+| Advaita | Vishishtadvaita / Dvaita | Shankara vs Ramanuja vs Madhva | अद्वैत / विशिष्टाद्वैत / द्वैत |
+| Anicca | Anatta | Impermanence vs no-self | अनित्य / अनात्म |
+| Theravada | Mahayana | Arhat / Pali vs Bodhisattva / Sanskrit | थेरवाद / महायान |
+| Digambara | Svetambara | Sky-clad; no women monks vs white-clad; women monks | दिगंबर / श्वेतांबर |
+| Anekantavada | Syadvada | Many-sided reality vs seven-fold “syad” speech | अनेकांतवाद / स्याद्वाद |
+| Saguna | Nirguna | Formed God vs formless Absolute | सगुण / निर्गुण |
+| Alvar | Nayanar | 12 Vaishnava vs 63 Shaiva (Tamil) | आलवार / नायनार |
+| Parshva’s 4 vows | Mahavira’s 5 | Brahmacharya is the added fifth | पार्श्व / महावीर व्रत |
+| Chishti | Naqshbandi | Sama/qawwali, open vs silent dhikr, Sharia-leaning | चिश्ती / नक्शबंदी |
+| Wujud | Shuhud | Unity of being (Ibn Arabi) vs unity of witness (Sirhindi) | वजूद / शुहूद |
+| Tangible WH | Intangible ICH | Monument (Qutub) vs living rite (Kumbh, Yoga) | मूर्त / अमूर्त |
 
 
 ---

@@ -54,26 +54,15 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Emissions Gap = IPCC | **UNEP** |
-| Montreal = climate mitigation | **Ozone**; Kyoto = climate |
-| Carbon credit = Montreal | **Kyoto** |
-| Green Credit = carbon credit | **Not identical** |
-| IPCC sets emission targets | **Science only** |
-| Absolute emitter rank = 10th | ~**3rd** absolute; 2023 Q109 keyed **10th** |
-| Argon is a GHG | **Not** |
-| Fourier missing / modern invent | **Joseph Fourier (1820s)** |
-| GCF = Durban | **Cancun 2010** |
-| Earth Hour = UNEP | **WWF** |
-| Net zero = absolute zero | Balance with **removals** |
-| Nuclear = NAPCC mission | **Not** listed |
-| Milankovitch includes solar irradiance | **No** — eccentricity/obliquity/precession |
-| CDM projects only in Annex-I | Projects in **developing** countries |
-| Argon is a GHG | **Not** |
-| India net zero 2050 | **2070** |
-| LiFE idea at COP-25 | **COP-26** |
-| PAT = carbon credit trading | **ESCerts** (efficiency) |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Global Warming** | **Climate Change** | Long-term rise in Earth's average surface temperature vs broader spectrum of changes including shifts in precipitation, weather extremes, and sea levels | भूमंडलीय तापन / जलवायु परिवर्तन |
+| **Climate Mitigation** | **Climate Adaptation** | Actions to reduce or prevent GHG emissions (renewable energy, carbon taxes) vs actions to adjust and build resilience to actual or expected climate impacts (seawalls, drought crops) | शमन (उत्सर्जन कटौती) / अनुकूलन (अनुकूलनशीलता) |
+| **Carbon Sink** | **Carbon Sequestration** | Natural or artificial reservoir absorbing more carbon than it releases (oceans, forests) vs the process/technique of capturing and storing carbon dioxide | कार्बन सिंक (अवशोषक) / कार्बन पृथक्करण (भंडारण प्रक्रिया) |
+| **Carbon Credit** | **Carbon Tax** | Tradable permit allowing emission of 1 tonne of CO₂ equivalent under cap-and-trade vs direct price levied by government per tonne of GHG emitted | कार्बन क्रेडिट (1 टन CO₂e) / कार्बन कर |
+| **IPCC** | **UNFCCC** | Scientific assessment body established in 1988 by WMO/UNEP (doesn't conduct research) vs multilateral legal treaty framework adopted at Rio 1992 | आईपीसीसी (वैज्ञानिक निकाय) / यूएनएफसीसीसी (कानूनी संधि) |
+| **Emissions Gap Report** | **Adaptation Gap Report** | Annual UNEP report comparing actual NDC pledges vs Paris 1.5°C targets vs annual UNEP assessment of adaptation finance and planning shortfalls | उत्सर्जन अंतराल रिपोर्ट / अनुकूलन अंतराल रिपोर्ट |
+| **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Top-down binding targets on developed countries (Annex-I) vs bottom-up voluntary Nationally Determined Contributions (NDCs) applicable to all | क्योटो प्रोटोकॉल (1997) / पेरिस समझौता (2015) |
 
 
 ---

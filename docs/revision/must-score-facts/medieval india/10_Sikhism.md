@@ -54,29 +54,23 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-25. **Lehna = Angad**; **Sri Chand** and **Mardana** are not successors.
-26. **Manji** = Amar Das; **Masand tenth** = Arjan; **Miri–Piri** = Hargobind; **Khalsa** = Gobind Singh.
-27. **Amritsar** rises from **Akbar’s grant** to **Bibi Bhani** / **Ram Das**, not from Nanak or Gobind Singh.
-28. **Hem Kund** (UK) ≠ Roop Kund; **Nanded / Hazur Sahib** = Gobind Singh’s end.
-29. **Banda Bahadur** = **Lachhman Dev**, not Mahesh Das.
-
-1. **Kabir** did not found Sikhism. **Guru Nanak** founded the line.
-2. **Mardana** was not Nanak’s guru. He was Nanak’s disciple.
-3. **Guru Nanak** did not create the Khalsa. **Guru Gobind Singh** created it in **1699**.
-4. **Sikh Khalsa** of 1699 is not **Mughal Khalsa** crown land — keep the Panth and revenue terms separate.
-5. **Guru Arjan** was not executed under Aurangzeb. **Jahangir** ordered his execution in **1606**.
-6. **Guru Tegh Bahadur** was not martyred in **1606**. **Aurangzeb** had him executed in **1675**.
-7. **Guru Gobind Singh** did not compile the Adi Granth. **Guru Arjan** compiled it in **1604**.
-8. The **Dasam Granth** is not the eternal Guru.
-9. **Guru Hargobind** did not create the Khalsa. He began **Miri-Piri**.
-10. There is **no 11th human Guru**.
-11. **Har Krishan** is the **8th** Guru, not the 10th.
-12. The Khalsa was created at **Anandpur**, not Amritsar.
-13. **1604** and **1606** are different facts. Do not swap compilation and martyrdom.
-14. **Adalat-i-Ala** belongs to **Ranjit Singh** at **Lahore**, not to Nanak.
-15. Sikhism upholds the **householder** path, not forest **sanyasa**, as the ideal.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Lehna | Sri Chand | Nanak’s chosen successor (Angad) vs Nanak’s son (not Guru) | लेहना / श्रीचंद |
+| Manji | Masand | Amar Das’s 22 preaching circles vs Arjan’s tenth collection | मंजी / मसंद |
+| Nanak | Gobind Singh | Founder 1469 vs 10th Guru + Khalsa 1699 | नानक / गोबिंद सिंह |
+| Adi Granth | Guru Granth Sahib | Compiled 1604 by Arjan vs eternal Guru after 1708 | आदि ग्रंथ / गुरु ग्रंथ साहिब |
+| Harmandir | Akal Takht | Golden Temple (spiritual) vs temporal seat (Hargobind) | हरमंदिर / अकाल तख़्त |
+| Miri | Piri | Temporal sword vs spiritual sword (Hargobind) | मीरी / पीरी |
+| Arjan | Tegh Bahadur | 1606 Jahangir vs 1675 Aurangzeb | अर्जुन / तेग बहादुर |
+| Khalsa (Sikh) | Khalsa (Mughal) | 1699 initiated Panth vs crown land | सिख खालसा / मुगल खालसा |
+| Mardana | Nanak | Disciple/rababi vs Guru | मर्दाना / नानक |
+| Anandpur | Amritsar | Khalsa 1699 vs Ram Das tank / Harmandir | अनंदपुर / अमृतसर |
+| Hargobind | Gobind Singh | Miri-Piri start vs Khalsa ritual | हरगोबिंद / गोबिंद सिंह |
+| Har Krishan | Gobind Singh | 8th child Guru vs 10th last human Guru | हर कृष्ण / गोबिंद सिंह |
+| Dasam Granth | Guru Granth | Gobind Singh corpus vs eternal Guru | दसम ग्रंथ / गुरु ग्रंथ |
+| Panj Pyare | Ten Gurus | First five Khalsa 1699 vs 1469–1708 line | पंज प्यारे / दस गुरु |
+| Langar | Sangat | Community kitchen vs congregation | लंगर / संगत |
 
 
 ---

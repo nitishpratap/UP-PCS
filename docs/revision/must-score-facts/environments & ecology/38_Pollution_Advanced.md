@@ -54,29 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Lichens thrive in polluted air | **Sensitive; die back** |
-| Fly ash = secondary pollutant | **Primary**; smog is secondary |
-| Fly ash = SiO₂/CaO only, no toxics | Also **Pb/As/Cu**-type metals |
-| BOD = blood oxygen test | **Aquatic pollution assay** |
-| Groundwater report = CPCB | **CGWB** |
-| Pesticide = biodegradable | **Not** |
-| Photochemical smog without O₃ | **Always contains ozone** |
-| PAN = primary stack gas | **Secondary**; eye irritant |
-| AQI includes CO₂/CH₄ | **Eight** pollutants — **not** those GHGs |
-| Most important indoor = SO₂ | Classic answer often **radon** |
-| Knock-knee = mercury | **Fluoride**; Minamata = **Hg** |
-| Eutrophication = air pollution | **Water** nutrient overload |
-| Cyclone divider = control device | **Not** a standard name |
-| CCAC = unique G20 initiative | Voluntary partnership; focus **CH₄ / BC / HFCs** |
-| Bioremediation cleans all Cd/Pb | **Not** readily/completely |
-| Noisiest UP city distractors | **Moradabad** (Frontier 2022) |
-| Arsenic only = India exclusive | Classic **Bangladesh** fact |
-| NCAP = SAFAR | Programme vs forecast system |
-| Industrial noise day = 55 dB | **75 dB** (CPCB day) |
-| Green muffler = soil fix | **Noise** (tree belts) |
-| Bhopal gas = CO/SO₂ | **MIC**, Dec **1984** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Primary Air Pollutant** | **Secondary Air Pollutant** | Emitted directly from identifiable sources (CO, SO₂, NO, PM) vs formed in atmosphere through photochemical reactions (Ozone, PAN, Smog, Acid Rain) | प्राथमिक प्रदूषक (सीधे उत्सर्जित) / द्वितीयक प्रदूषक (रासायनिक क्रिया) |
+| **Biological Oxygen Demand (BOD)** | **Chemical Oxygen Demand (COD)** | Amount of dissolved O₂ required by aerobic bacteria to decompose organic matter vs amount of oxygen required to chemically oxidize all biodegradable and non-biodegradable matter | जैव रासायनिक ऑक्सीजन मांग (BOD) / रासायनिक ऑक्सीजन मांग (COD) |
+| **Classical (London) Smog** | **Photochemical (Los Angeles) Smog** | Occurs in cool, humid winter mornings; sulfurous, reducing, coal-smoke based vs occurs in dry, sunny afternoons; oxidizing, auto-exhaust NOx + VOCs generating ground ozone and PAN | लंदन स्मॉग (सल्फ्यूरस, अपचायक) / प्रकाश रासायनिक स्मॉग (ऑक्सीकारक) |
+| **Central Pollution Control Board (CPCB)** | **Central Ground Water Board (CGWB)** | Statutory body under Water Act 1974 for overall air/water quality monitoring vs apex subordinate office under Jal Shakti Ministry for groundwater management | सीपीसीबी (प्रदूषण नियंत्रण) / सीजीडब्ल्यूबी (भूजल बोर्ड) |
+| **SAFAR** | **NCAP** | Ministry of Earth Sciences real-time metropolitan air quality forecasting system vs MoEFCC national targeted programme to cut PM2.5/PM10 by 20–30% across 131 non-attainment cities | सफर (सटीक पूर्वानुमान प्रणाली) / राष्ट्रीय स्वच्छ वायु कार्यक्रम |
 
 
 ---

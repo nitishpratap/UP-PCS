@@ -54,23 +54,25 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Facts
-
-1. **Wakankar vs Sankalia vs Vatsa** → Bhimbetka = **Wakankar 1957–58**; Sankalia = Langhnaj/Navdatoli; Vatsa = **Harappan**.
-2. **Bagor vs Sarai Nahar Rai vs Bori** → Bagor = **domestication (RJ)**; SNR = **burials (UP)**; Bori = Paleolithic distractor.
-3. **Baghor = Bagor** → Baghor = **Upper Pal, Son valley MP**; Bagor = **Meso Rajasthan**.
-4. **Mehrgarh = rice / in India / Harappan / no farming because aceramic** → Wheat-barley + cotton, **Balochistan**, **pre-urban**; aceramic = no **pottery**.
-5. **Burzahom / Chirand / Koldihwa swap** → Kashmir **pits**; Bihar **bone**; Belan **rice**. Cattle pen = **Mahagara**, not pits.
-6. **Polished axe = Paleolithic** → **Neolithic**. Handaxe = **Lower Paleolithic / Acheulian**.
-7. **Soanian = Acheulian handaxe** → Soanian = **pebble chopper** (Siwalik); Acheulian = **handaxe-cleaver**.
-8. **Microlith = Paleolithic / Chalcolithic** → **Mesolithic** composite blade.
-9. **All Bhimbetka art is Paleolithic / found in 2003** → Art mostly Meso+; discovery **1957–58**; UNESCO **2003**. **Raisen, Vindhyan**, not Satpura/KA.
-10. **Rock shelter = Ajanta / Lakhudiyar = Bhimbetka** → Shelter = **natural**; Ajanta = **carved**; Lakhudiyar = **Uttarakhand**.
-11. **Chalcolithic = Harappan cities / Gungeria = dock** → Rural copper+stone; OCP = **doab**; Gungeria = **Copper Hoard, MP**.
-12. **Hathnora = sapiens / found by Wakankar** → ***Homo erectus***, **Sonakia 1982**. Attirampakkam = **tools**, Kortallayar TN.
-13. **Inamgaon / Jorwe in Rajasthan** → **Maharashtra**. Ahar = Rajasthan. Navdatoli = **Narmada/Malwa**.
-14. **Lahuradewa = Koldihwa / Belan** → Lahuradewa = **Sant Kabir Nagar**; Belan = Mirzapur–Prayagraj.
-15. **Ash mounds = Gangetic / wild rice at SNR = cultivation** → Ash mounds = **South India**; SNR wild rice = Meso **gathering**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Paleolithic | Neolithic | Chipped handaxe vs polished/ground axe | पुरापाषाण / नवपाषाण |
+| Microlith | Handaxe | Mesolithic composite blade vs Lower Paleolithic biface | सूक्ष्म पाषाण / हाथ कुल्हाड़ी |
+| Bagor | Sarai Nahar Rai | Mesolithic **domestication** (RJ) vs Mesolithic **burials** (UP) | बागोर / सराय नाहर राय |
+| Mehrgarh | Koldihwa | Wheat/barley (Balochistan) vs rice (UP Belan) | मेहरगढ़ / कोलडिहवा |
+| Burzahom | Chirand | Kashmir **pit dwellings** vs Bihar **bone tools** | बुरज़होम / चिरांद |
+| Rock shelter | Carved cave | Natural overhang (Bhimbetka) vs cut cave (Ajanta) | शैल आश्रय / कृत्रिम गुफा |
+| Chalcolithic | Harappan | Rural copper+stone vs urban bronze/planned cities | ताम्रपाषाण / हड़प्पा |
+| Hathnora fossil | Attirampakkam | *Homo erectus* skull vs old **tools** (no fossil) | हथनौरा / अत्तिरमपाक्कम |
+| Wakankar | Sankalia | Bhimbetka discoverer vs Langhnaj/Deccan pioneer | वाकणकर / सांकलिया |
+| OCP | Harappan ware | Doab ochre pottery (Chalcolithic) vs Indus urban pottery | गेरूआ मृद्भांड |
+| **Soanian** | **Acheulian** | NW pebble/chopper (Soan–Siwalik) vs peninsular handaxe-cleaver | सोहन / ऐशूलियन |
+| **Baghor** | **Bagor** | Upper Pal shrine, **Son valley MP** vs Meso domestication, **Rajasthan** | बाघोर / बागोर |
+| Non-geometric microlith | Geometric microlith | Earlier Meso (backed blades) vs later Meso (lunate/triangle/trapeze) | अज्यामितीय / ज्यामितीय |
+| Aceramic Neolithic | Ceramic Neolithic | Mehrgarh Period I (no pottery) vs later pottery levels | बिना मृद्भांड / मृद्भांड युक्त |
+| Prehistoric | Proto-historic | No writing vs undeciphered script (e.g. Indus / Copper Age) | प्रागैतिहासिक / आद्यऐतिहासिक |
+| Damdama triple burial | Sarai Nahar Rai four-skeleton grave | One triple grave at Damdama vs four skeletons in one grave at Sarai Nahar Rai | दमदमा / सराय नाहर राय |
+| Lahuradewa | Mehrgarh | Early Ganga rice (Sant Kabir Nagar) vs NW wheat–barley village (Balochistan) | लहुरादेवा / मेहरगढ़ |
 
 
 ---

@@ -54,58 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **Sambhar = largest saline (any wording)** — FALSE unless **inland**. Else often **Chilika**.
-2. **Chilika in Rajasthan / freshwater** — FALSE. **Odisha coastal lagoon**.
-3. **Kolleru = largest east-coast lagoon** — FALSE. **Chilika**; Kolleru is freshwater.
-4. **Keibul Lamjao on Wular / Dal** — FALSE. **Loktak, Manipur**.
-5. **Jog = highest waterfall** — FALSE. **Kunchikal** (Varahi, KA) for UPPCS. Jog = renown / **width**; Shivanasamudra = **volume**.
-5a. **Lodh / Budha Ghagh on Kanchi or Barakar** — FALSE. On the **Burha** (Latehar).
-5b. **Roopkund in Himachal** — FALSE. **Uttarakhand** Mystery / Skeleton Lake.
-5c. **Periyar Lake is a lagoon / kayal** — FALSE. It is **artificial**. Kayals are Kerala coastal lagoons.
-5d. **Hokera in Punjab / Sasthamkotta in Tamil Nadu** — FALSE. Hokera = **J&K**; Sasthamkotta = **Kerala**.
-6. **Dudhsagar = Karnataka-only** — FALSE. The UPPCS answer places it in **Goa**.
-7. **Chachai–Bihad is correct** — FALSE. That is the **wrong** pair.
-8. **Onega = Canada** — FALSE. **Russia**. Ladoga is also Russia. Michigan = USA-only; Superior is shared USA–Canada.
-9. **Rudrasagar / Sultanpur in UP** — FALSE. **Tripura / Haryana**.
-10. **Bhakra on Beas / Ravi** — FALSE. **Sutlej**; reservoir **Gobind Sagar**.
-11. **Tehri on Alaknanda** — FALSE. **Bhagirathi**, rock-fill.
-12. **Ramganga irrigates 6 lakh ha** — FALSE. **~5.75–5.90 lakh ha**.
-13. **Sardar Sarovar = Indira Sagar** — FALSE. SSP = Narmada **Gujarat**; Indira Sagar = Narmada **MP**.
-14. **Srisailam on Tungabhadra / Pandoh on Ravi** — FALSE. **Krishna / Beas**.
-15. **E-UP/Bihar can fully tap Himalayan hydro to their north** — FALSE. Those ranges lie largely in **Nepal**.
-16. **Sharavati is a Cauvery tributary** — FALSE. It is **west-flowing** to the Arabian Sea.
-17. **Kapildhara is on the Godavari** — FALSE. It is on the **Narmada**.
-18. **Jog is India’s highest waterfall** — FALSE. **Kunchikal** is highest; Nohkalikai is the tallest plunge.
-19. **Hirakud is India’s tallest dam** — FALSE. **Tehri** is tallest. Hirakud is the long earthen dam.
-20. **Idukki is on the Cauvery** — FALSE. **Periyar**, Kerala, arch dam.
-21. **Industry uses most of India’s groundwater** — FALSE. **Agriculture ~92%**.
-22. **Lonar is a volcanic caldera** — FALSE. It is a **meteorite** crater in Deccan basalt.
-
-33. **Dominant irrigation = canals only** — FALSE. Wells/tubewells dominate (~64% together; tubewell ~48.5% in 2018–19).
-34. **IGC source = Bhakra / Gandhi Sagar** — FALSE. **Harike Barrage** (Sutlej–Beas).
-35. **Gang Canal = Indira Gandhi Canal** — FALSE. Gang Canal = **1927** Ganga Singh / Hussainiwala; IGC = longest / Harike / 1958.
-36. **Lower Ganga offtake = Haridwar** — FALSE. **Narora**; Upper Ganga = Bhimgoda/Haridwar.
-37. **Jawai Project = Tamil Nadu** — FALSE. **Rajasthan** (Luni tributary).
-38. **Garland Canal = K.L. Rao** — FALSE. **Dastur**; Visvesvaraya/Rao = linking ideas.
-39. **Farakka carries 75,000 cusec** — FALSE. About **40,000 cusec**.
-40. **Ghaggar feeds IGC** — FALSE.
-41. **Minor irrigation = smallest potential share** — FALSE. Minor (~62%) is the largest potential share.
-42. **Hariyali = second Green Revolution** — FALSE. Watershed / wasteland–water storage (Jan 2003).
-
-43. **Ban Sagar on Narmada** — FALSE. **Son**.
-44. **Harsud submerged by SSP** — FALSE. **Indira Sagar** (2004).
-45. **Shivasamudram = oldest hydro** — FALSE when Sidrapong is an option. Sidrapong **1897**; Shivasamudram **1902**.
-46. **DVC = 1947 / Bhakra first multipurpose** — FALSE. **DVC 1948** is first of independent India.
-47. **Chambal = PB–HR–RJ** — FALSE. **RJ–MP**. Gobind / Pant Sagar are not Chambal.
-48. **Tehri on Alaknanda alone** — FALSE. **Bhagirathi** (+ Bhilangana confluence).
-49. **Nagarjuna Sagar on Godavari / Cauvery** — FALSE. **Krishna**.
-50. **Tilaiya on Konar / Damodar main** — FALSE. **Barakar**.
-51. **Telugu Ganga to Bangalore** — FALSE. **Chennai** (Krishna).
-52. **Rana Pratap Sagar = Madhya Pradesh** — FALSE. **Rajasthan** (Rawatbhata).
-53. **Shivasamudram = Kerala** — FALSE. **Karnataka**.
-54. **Babli = Andhra Pradesh project site** — FALSE. Built by **Maharashtra** on Godavari (disputed by AP/TG).
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **5 Jun 2026** | India designates **100th Ramsar** — **Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia, UP** (World Environment (पर्यावरण) Day (विश्व पर्यावरण दिवस)) | “How many Ramsar in India / latest UP site?” | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) / PIB |
+| **2025–26** | UP Ramsar total **13** — adds **Patna (पटना) BS (Etah)**, **Sheikha/Shekha Jheel (Aligarh (अलीगढ़))**, **Surha Tal (Ballia)** | State-paper list + 2025 Q58 “NOT in UP” | MoEFCC LS annex |
+| **2025** | India among top Ramsar countries in Asia; proposals in pipeline include Sauj Jheel (UP) | Count vs names trap | MoEFCC |
+| Ongoing | **Jal Jeevan Mission** extended (rural tap water) — water-*supply* overlay, not a dam (दाम -)–river fact | Don’t confuse with multipurpose dams | Jal Shakti (शक्ति) |
+| 2019–20 | Six UP Ramsar added in the Jan 2020 window | Number question | UPPCS 2020 |
 
 
 ---

@@ -54,22 +54,13 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-& High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Rayon Origin** | Thinking Rayon is a modified starch or fully synthetic polymer. | Rayon is **regenerated cellulose** (derived from natural wood pulp treated with $NaOH$ and $CS_2$). |
-| **Neoprene Category** | Classifying Neoprene as a thermoplastic. | Neoprene is an **elastomer** (synthetic rubber), not a thermoplastic. |
-| **Advanced Materials Chronology** | Mixing up the discovery timeline of Kevlar, Fullerenes, and Graphene. | **Kevlar (1965)** $\to$ **Fullerenes (1985)** $\to$ **CNTs (1991)** $\to$ **Graphene (2004)** $\to$ **Black Gold (2019)**. |
-| **Teflon Monomer** | Forgetting the chemical formula of Teflon monomer. | Teflon is polymerized from **tetrafluoroethylene ($CF_2=CF_2$)**, not vinyl fluoride or chloroprene. |
-| **Bakelite Application** | Thinking Bakelite melts easily or is recyclable. | Bakelite is a **thermosetting plastic**; it does not melt upon reheating and is non-recyclable. |
-| **Natural Rubber Monomer** | Answering chloroprene for natural rubber. | Natural rubber is **Isoprene** (2-methyl-1,3-butadiene). **Chloroprene** is the monomer of synthetic Neoprene. |
-| **Vulcanizing Agent** | Answering phosphorus or carbon for vulcanization. | Rubber is vulcanized using **$3–5\%$ elemental Sulphur** to form disulphide cross-links. |
-| **Kevlar Composition** | Confusing Kevlar with polyester or aliphatic nylon. | Kevlar is an **aromatic polyamide (aramid)** with rigid benzene rings in its backbone. |
-| **Diamond vs. Graphite Stability** | Assuming diamond is thermodynamically more stable because it is harder. | **Graphite is thermodynamically most stable** at STP ($\Delta_f H^\circ = 0$). Diamond is metastable ($\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
-| **Acetylene Welding Temperature** | Underestimating the oxy-acetylene flame temperature. | Oxy-acetylene burns at **$\approx 3200^\circ\text{C}$**, capable of melting and welding steel structures. |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025–2026** | **Biodegradable Plastics & Biopolymers** | Mandatory phase-out of single-use petroleum-based plastics in India under Plastic Waste Management Rules. Accelerated adoption of **PLA (Polylactic Acid)** derived from fermented corn starch and **PHBV (Poly-$\beta$-hydroxybutyrate-co-$\beta$-hydroxyvalerate)**, which degrade into natural bio-assimilable $CO_2$ and $H_2O$ via bacterial action within 180 days. |
+| **2024** | **UPPCS Prelims 2024** | Direct question on **Rayon Origin**: Keyed that Rayon is a **regenerated cellulose fibre** obtained by chemically treating natural wood pulp or cotton linters. The option "modified starch" is an established distractor. |
+| **2022** | **UPPCS Prelims 2022** | Polymer Class Matching: Identified **Neoprene** strictly as a synthetic **elastomer** (synthetic rubber), not a thermoplastic. Confirmed **Fibroin** is the natural structural protein of silk, not a synthetic polymer. |
+| **2020** | **UPPCS Prelims 2020** | Tested the **Chronological Discovery Order of Carbon & Synthetic Materials**: **Kevlar (1965)** $\to$ **Fullerenes ($C_{60}$, 1985)** $\to$ **Carbon Nanotubes (1991)** $\to$ **Graphene (2004)** $\to$ **Black Gold (2019)**. |
+| **2019** | **UPPCS Prelims 2019** | Highlighted **Kevlar** as a high-strength aromatic polyamide (aramid fibre) utilized in bulletproof vests and lightweight armor due to its high tensile strength-to-weight ratio ($5\times$ steel). |
 
 
 ---

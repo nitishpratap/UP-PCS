@@ -54,35 +54,16 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-* Mixed economy = public + private — not small/large industry or primary/secondary alone; Keynes ≠ Father of Economics (Adam Smith).
-* Labour-surplus ≠ capital-/trade-surplus; lack of natural resources is **not** an Indian-economy trait.
-* Underdeveloped: low PCI + low capital formation — **not** low dependency or tertiary-heavy workforce.
-* Voluntary social service ≠ economic activity.
-* Growth ≠ development; real GNP rise fails development if poverty/unemployment rise; best growth sign = sustained **real PCI**.
-* Hindu rate (Raj Krishna) = NI/GDP ~3.5% — not population/literacy.
-* NI = NNP at **factor cost**; NDP = GDP − Dep (never +); Y = C+I+G+(X−M).
-* Base year = prices for **real** GDP — current **2022–23** (from Feb 2026); 2015 change was base **and** method (GVA basic prices).
-* Unorganised sector / non-monetised output muddies NI; diminishing-cost is **not** a GDP method.
-* Real sector (crops/textiles) ≠ financial sector (bank lending / Masala bonds).
-* High COR → low growth despite high savings; household savings dominate; physical assets top household saving form.
-* Stabilisation (quick, demand) ≠ structural adjustment (gradual, supply); liberalisation pioneered by Manmohan Singh as FM; started with industrial licensing.
-* Meltdown ≠ recession ≠ slowdown definitions — only meltdown correctly = stock-price fall in the UPSC pair.
-* GDP (domestic) vs GNP (+ NFIA); real vs nominal; deflator ≠ CPI key.
-* NITI: 1 Jan **2015**, Cabinet resolution, **PM** Chair, first VC **Panagariya**; no old Plan-fund role; Governors ≠ GC; full-time VC not full-time Chair.
-* Economic & Social Planning = **Concurrent List** — not Union/State exclusive.
-* DMEO = attached office of **NITI** (18 Sep 2015) — not PMO / Cabinet Secretariat / Home.
-* NDC (6 Aug 1952, PM Chair) = final FYP approval — not formally abolished; little work after NITI GC.
-* Finance Commission (Art. 280) ≠ Planning Commission (non-constitutional Plan body).
-* Imperative = command replaces market; indicative = guides market.
-* Gadgil–Mukherjee: **population 60%** highest weight — not performance first.
-* 11th = inclusive; 12th = inclusive + sustainable; 12th is **last** FYP.
-* Plan Holiday **1966–69** ≠ Rolling Plan **1978–80** (Janata / Myrdal).
-* Garibi Hatao slogan (1971) vs Fifth Plan twin objective — read the stem carefully.
-* Bombay Plan ≠ Dhirubhai Ambani; Gandhian Plan = S.N. Agarwal; Sarvodaya = JP Narayan; NPC = Bose + Nehru.
-* Rajiv = early liberalisation phase; 1991 Rao = LPG package.
-* NITI ≠ Finance Commission (Art. 280).
-* Bihar lowest PCI; Maharashtra largest State economy; Naoroji first estimate / V.K.R.V. Rao scientific / Mahalanobis 1949 committee.
-* SDG nodal = **NITI**; Fiscal Health Index 2025 top = **Odisha**; UP FHI = **45.9**.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2026 (MoSPI)** | New National Accounts series with base year **2022–23** (released **27 Feb 2026**); replaces **2011–12**. | Real GDP uses 2022–23 prices; do not quote 2011–12 as current base. |
+| **2025 (NITI FHI)** | **Fiscal Health Index 2025** (FY **2022–23**): **Odisha** topped major States; **Uttar Pradesh** scored **45.9** (7th). | NITI index ranking + UP score stems. |
+| **2025 (UKPCS)** | NITI set up by **Cabinet resolution**; date is **1 Jan 2015** (not 2014); Chairperson is the **Prime Minister** (not President). | Only the resolution statement stands. |
+| **2025 (UKPCS)** | **11th Plan** keyed for **inclusive growth**. | 12th adds sustainable; do not swap. |
+| **2024** | India = **underdeveloped / developing** (textbook structure) + **mixed economy**. Keynes ≠ “Father of Economics”. | Adam Smith is the classical father tag. |
+| **2024** | Development = living standards / welfare; **per capita income growth alone is not enough**. | Growth ≠ development A/R. |
+| **2023 (UPPCS)** | **Voluntary social service** is **not** an economic activity. | Farming / transport / service are. |
+| **2015+** | **DMEO** (18 Sep 2015) is an attached office of **NITI Aayog** (PEO + IEO merged). | Monitor/evaluate GoI programmes — not PMO / Cabinet Secretariat. |
 
 
 ---

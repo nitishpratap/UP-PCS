@@ -54,43 +54,25 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| IB = external / RAW = MHA | **Opposite** |
-| NIA needs State consent like CBI | **Does not** |
-| BHARATPOL = IB or RAW | **CBI** |
-| BSF guards the China border | **ITBP**. BSF = Pak + Bangladesh |
-| SSB = Nepal only | Nepal **and Bhutan** |
-| ITBP HQ = Leh / Itanagar | **New Delhi** |
-| Assam Rifles = ordinary CAPF under only MHA | **Dual** MHA + Army; HQ **Shillong** |
-| NSG = SPG | NSG = strike. SPG **1988** = PM’s close protection |
-| NSC’s SPG = Special Protection Group | **Strategic Policy Group** |
-| NSC = CCS | CCS is a **Cabinet** committee |
-| NCTC is working under IB | **Never established** |
-| Coast Guard = CAPF / MHA | **MoD, 1978** |
-| April 2024 Maoist op = Gadchiroli | **Kanker, Chhattisgarh** |
-| DRG = Maharashtra | **Chhattisgarh**. Maha LWE unit often **C-60** |
-| CRPF raised 1965 | **1939** / Act **1949**. **1965 = BSF** |
-| CISF = riot police | **Industrial / airport / metro** |
-| NATGRID = a CAPF | **Database**, MHA |
-| Police is Union List | **State** List. Union uses 355 + CAPF + Entry 2A |
-| CERT-In = MHA police | **MeitY**, **s.70B**, incident response |
-| NCIIPC = CERT-In wing | **s.70A**, **NTRO**, CII only |
-| I4C = CERT-In | **MHA** cyber-*crime* |
-| NCTC (I4C training) = NCTC terror centre | Terror NCTC **never born** |
-| India signed Budapest Convention | **Not a party** |
-| DPDP 2023 = CERT-In statute | Personal data; **≠** incident response |
-| s.66A still good law | **Struck 2015**. **69A** blocking was **upheld** |
-| UAPA = NSA preventive detention | UAPA = **criminal trial**. NSA = **PD** (Art. 22 preventive detention) |
-| POTA still in force | **Repealed 2004** → teeth into UAPA |
-| UAPA 2019 only bans organisations | Can designate **individuals** (4th Schedule) |
-| AFSPA applies all-India | Only a notified **disturbed area** |
-| AFSPA 1958 covers J&K | J&K has a **1990** Act |
-| s.6 AFSPA = State sanction | **Central** government sanction |
-| Jeevan Reddy repeal is the law | **2005 rec**, **not enacted** |
-| Tripura still under AFSPA | Lifted **May 2015** |
-
----
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **2025** | **BHARATPOL** portal launched for Interpol police cooperation | Built by **CBI** (केन्द्रीय अन्वेषण ब्यूरो), because CBI is India’s Interpol **National Central Bureau**. Not IB, not RAW, not ED |
+| **2024** | April anti-Maoist encounter | **Kanker district, Chhattisgarh** (Abujhmad / Binagunda) — **not Gadchiroli (Maharashtra)**. Forces: **BSF + District Reserve Guard**. DRG is a **Chhattisgarh** police unit; Maharashtra’s LWE unit is **C-60** |
+| **2022** | CERT-In (सर्ट-इन) issued directions on incident reporting | Report specified incidents in **6 hours**; keep logs **5 years**. CERT-In = **MeitY / s.70B**, not MHA |
+| **2022** | AFSPA withdrawn from large parts of **Assam** | AFSPA is a **notification**, not a permanent all-India law. Assam ≠ still fully covered |
+| **2020** | I4C (भारतीय साइबर अपराध समन्वय केंद्र) opened out for States | **MHA** cyber-*crime* coordination + **cybercrime.gov.in**. Different from CERT-In |
+| **2019** | **UAPA** amendment | Centre can list **individuals** as terrorists (Fourth Schedule), not only organisations |
+| **2019** | **NIA** amendment | Wider schedule (trafficking, cyber-terror, counterfeit, arms…) + **extra-territorial** investigation |
+| **2019** | **SPG Act** amendment | SPG as of right = **sitting (बैठक) PM** + family. Ex-PM cover **5 years** from leaving office — **not** lifelong for every former PM |
+| **2019** | **Defence Cyber Agency** raised | **Tri-service, MoD**. Not I4C, not CERT-In |
+| **2018** | NSC (राष्ट्रीय सुरक्षा परिषद)’s Strategic Policy Group recast | **NSA** (not Cabinet Secretary) **chairs** the Strategic Policy Group. This SPG ≠ Special Protection Group 1988 |
+| **2017** | MHA’s **SAMADHAN** for LWE | Strategy acrostic (Smart leadership … No financing) — not a new CAPF (सीएपीएफ) |
+| **2015** | *Shreya Singhal* | IT Act **s.66A struck**; **s.69A** blocking **upheld** |
+| **2015** | Tripura lifted AFSPA | First NE State in that wave to go off the 1958 map (**May 2015**) |
+| **2013** | National Cyber Security Policy | **MeitY**. 2023 draft is **not** the replacement to freeze |
+| **2008** | 26/11 year | **NIA Act** · CRPF **CoBRA** · UAPA given more teeth |
+| **2004** | POTA repealed | Terror chapters **enter UAPA**. CERT-In also born this year (executive) |
+| **2001** | After Parliament attack | **MAC** (बहु-एजेंसी केंद्र) fused inside **IB**. Special Service Bureau renamed **Sashastra Seema Bal** (Nepal + Bhutan) |
 
 
 ---

@@ -54,37 +54,23 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-— Don't Fall For These
-
-1. **One Home Rule League only** → **two**: Tilak **April 1916 Poona**; Besant **September 1916 Madras**.
-2. **Tilak League includes Bombay city** → Bombay city = **Besant**.
-3. **Besant founded Theosophical Society** → **Blavatsky and Olcott, 1875**.
-4. **Baptista = ILO 1919** → Baptista = Tilak League **President**; ILO = **N.M. Joshi**.
-5. **BHU = 1906 / NCE** → BHU **1916**; NCE **1906**.
-6. **Hardinge founded BHU** → **Malaviya** organised; Hardinge laid the **stone**.
-7. **CSP formed January 1934 / Nehru joined** → **Neither**.
-8. **WPP All-India in 1927** → objective true; All-India form **1928** → **Only 2**.
-9. **CSP = CPI** → CSP **inside Congress**; CPI separate.
-10. **INTUC = 1920** → **AITUC 1920**; INTUC **1947**.
-11. **Tilak was Congress President in 1916** → he **never** presided.
-12. **Home Rule = Quit India** → 1916–18 vs 1942.
-13. **Justice Party founded by Besant / Congress** → **Madras non-Brahmin, 1916**.
-14. **Ansari in Kanpur Conspiracy** → he was **not**.
-15. **Kelkar = Tilak League President** → **Secretary**; President = **Baptista**.
-
-16. **1909 = dyarchy** → **separate electorates**; dyarchy = **1919**.
-17. **Lucknow Pact = 1911** → **1916**; 1911 = Delhi Durbar package.
-18. **Congress never accepted separate electorates** → it did, at **Lucknow 1916**.
-19. **Home Rule leagues merged into one in 1916** → they **cooperated**; no permanent 1916 merger.
-20. **Besant founded Theosophical Society** → **Blavatsky + Olcott**.
-21. **Olcott = Home Rule leader** → Theosophy; Home Rule = Tilak / Besant / Subramania Iyer circle.
-22. **Father of Pakistan = Jinnah (Rajendra Prasad tag in this bank)** → **Lord Minto**.
-23. **Tilak League includes Bombay city** → Bombay city = **Besant**.
-24. **Champaran first raised at Calcutta 1906** → Gandhi briefed at **Lucknow 1916**.
-25. **First modern trade union = AITUC 1920** → **Madras Labour Union 1918 (Wadia)**; AITUC is the all-India body.
-26. **AITUC first President = N.M. Joshi** → **Lala Lajpat Rai**; Joshi = organiser / ILO face.
-27. **Kanpur Conspiracy = Khilafat / NCM leaders** → **communist** accused (**1924**).
-28. **Radical Democratic Party = Saumyendra Tagore** → **M.N. Roy (1940)**; Tagore = Revolutionary Communist Party.
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| Morley–Minto 1909 | Lucknow Pact 1916 | British Act creates Muslim separate electorates vs Congress **accepts** them in a bargain | मार्ले–मिंटो / लखनऊ |
+| Home Rule leagues | One merged league 1916 | Two parallel leagues that cooperated vs permanent single body | दो लीग / विलय |
+| Olcott / Blavatsky | Annie Besant | Founded Theosophical Society 1875 vs later leader + Home Rule | अल्कॉट / बेसेंट |
+| Tilak League | Besant League | Apr 1916 Poona, limited provinces vs Sep 1916 Madras, rest of India + Bombay city | तिलक लीग / बेसेंट लीग |
+| Home Rule | Gandhian Swaraj | Wartime constitutional self-govt vs later mass satyagraha | होम रूल / स्वराज |
+| Besant | Blavatsky | Later Theosophy + Home Rule vs co-founder of Theosophical Society 1875 | बेसेंट / ब्लावत्स्की |
+| NCE 1906 | BHU 1916 | Swadeshi national-education body vs Banaras Hindu University | राष्ट्रीय शिक्षा परिषद / बीएचयू |
+| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
+| CSP | CPI | Socialists **inside Congress** (1934) vs separate communist party | सीएसपी / सीपीआई |
+| WPP | CSP | Late-1920s left inside Congress vs 1934 socialist party inside Congress | डब्ल्यूपीपी / सीएसपी |
+| Justice Party | Congress | Madras non-Brahmin regional vs all-India nationalist | जस्टिस पार्टी / कांग्रेस |
+| Baptista | N.M. Joshi | Tilak League President vs ILO 1919 labour rep | बैपटिस्टा / जोशी |
+| Malaviya | Besant (BHU) | Chief BHU organiser vs Central Hindu College nucleus | मालवीय / बेसेंट |
+| Lucknow Pact 1916 | Montagu Declaration 1917 | Congress–League electoral deal vs British statement of policy goal | लखनऊ पैक्ट / मॉण्टेग्यू घोषणा |
+| Montagu Declaration | August Offer 1940 | 1917 promise of responsible government vs 1940 wartime offer to Congress/League | मॉण्टेग्यू / अगस्त प्रस्ताव |
 
 
 ---

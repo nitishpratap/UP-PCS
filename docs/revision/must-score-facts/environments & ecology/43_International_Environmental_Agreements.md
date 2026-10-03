@@ -34,18 +34,14 @@ hide:
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Trap | Correct |
-|------|------|
-| Montreal = climate mitigation | **Ozone**; Kyoto/Paris = climate |
-| Kyoto = save water | **Climate / GHG** |
-| Stockholm Convention = 1972 conference | **POPs 2001** vs UNEP conference 1972 |
-| CITES = IUCN Red List | Trade rules vs risk assessment |
-| CMS = CITES | Migration vs trade |
-| Ramsar = forests/ozone | **Wetlands** |
-| CITES born at Rio 1992 | **1973 Washington** |
-| Paris = Kyoto Annex-only model | **Universal NDCs** |
-| Basel = wildlife trade | **Hazardous waste** |
-| Minamata = all hazardous waste | **Mercury** |
+| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+|---|---|---|---|
+| **Kyoto Protocol (1997)** | **Montreal Protocol (1987)** | Legally binding treaty targeting reduction of 6 greenhouse gases causing climate change vs universally ratified protocol phasing out ozone-depleting chlorofluorocarbons | क्योटो प्रोटोकॉल (जलवायु परिवर्तन) / मॉन्ट्रियल (ओजोन क्षरण) |
+| **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Top-down legally binding reduction targets solely for developed Annex-I countries vs bottom-up voluntary Nationally Determined Contributions (NDCs) applicable to all countries | क्योटो (शीर्ष से नीचे बाध्यकारी) / पेरिस (स्वैच्छिक NDCs) |
+| **Basel Convention (1989)** | **Rotterdam Convention (1998)** | Regulates transboundary movements and disposal of hazardous wastes vs enforces Prior Informed Consent (PIC) procedure for hazardous international trade chemicals | बासेल (खतरनाक अपशिष्ट आवागमन) / रॉटरडैम (पूर्व सूचित सहमति) |
+| **Stockholm Convention (2001)** | **Minamata Convention (2013)** | Mandates global elimination and phase-out of Persistent Organic Pollutants (POPs - "Dirty Dozen") vs protects human health and environment from anthropogenic emissions of toxic mercury (Hg) | स्टॉकहोम (पीओपी कीटनाशक) / मिनामाता (पारा नियंत्रण) |
+| **Ramsar Convention (1971)** | **CITES (1973)** | Intergovernmental treaty dedicated specifically to the conservation and wise use of wetlands of international importance vs treaty controlling illegal commercial wildlife trade | रामसर कन्वेंशन (आर्द्रभूमि) / साइट्स (वन्यजीव व्यापार) |
+| **Stockholm Conference (1972)** | **Rio Earth Summit (1992)** | UN Conference on the Human Environment that led to creation of UNEP vs UN Conference on Environment & Development giving birth to Agenda 21, CBD, UNFCCC, and UNCCD | स्टॉकहोम सम्मेलन 1972 / रियो पृथ्वी शिखर सम्मेलन 1992 |
 
 
 ---
