@@ -31,44 +31,56 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 36 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 48 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. “Vegetation is the true index of climate” is **Thornthwaite (थॉर्नथ्वेट)’s** line, not Köppen (कोपेन)’s letter codes. Controls are climate, soil, relief, biotic factors, and time.
-2. India is a **mega-biodiversity** country. The four (चातुर्याम) hotspots touching India are **Himalaya** (हिमालय), **Western Ghats (पश्चिमी घाट)–Sri Lanka**, **Indo-Burma**, and **Sundaland** (**Nicobar** (निकोबार), not Andaman (अंडमान)). Do not split Himalaya into east and west as if those were the four.
-3. Rain ladder: tropical evergreen **>200 cm**; moist deciduous **100–200 cm** (largest area, about **37%**); dry deciduous **70–100 cm** (about **28%**); thorn below about **70–75 cm**. Semi-evergreen is the mix zone. Some notes put wet evergreen above **250 cm** — both figures appear in standard texts.
+1. “Vegetation is the true index of climate” is **Thornthwaite’s** line, not Köppen’s letter codes. Controls are climate, soil, relief, biotic factors, and time.
+2. India is a **mega-biodiversity** country. The four hotspots touching India are **Himalaya**, **Western Ghats–Sri Lanka**, **Indo-Burma**, and **Sundaland** (**Nicobar**, not Andaman). Do not split Himalaya into east and west as if those were the four.
+3. Rain ladder: tropical evergreen **>200 cm**; moist deciduous **100–200 cm** (largest area, about **37%**); dry deciduous **70–100 cm** (about **28%**); thorn below about **70–75 cm**. Semi-evergreen is the mix zone. Some notes put wet evergreen above **250 cm**.
 4. Champion–Seth teaching heads group into five major classes and about **16** sub-types (moist tropical, dry tropical, subtropical montane, temperate montane, alpine).
-5. **Dry evergreen** of the Tamil Nadu (नाडु) Coromandel grows on about **100 cm** of **north-east monsoon** with jamun–neem–tamarind. It is not Western Ghat wet rainforest.
+5. **Dry evergreen** of the Tamil Nadu Coromandel grows on about **100 cm** of **north-east monsoon** with jamun–neem–tamarind. It is not Western Ghat wet rainforest.
 6. **Chir pine** belts the western Himalaya at about **1000–2000 m**. Alpine moist belts carry rhododendron–birch; dry alpine juniper sits above about **3500 m**. **Shola** forests are South Indian hill patches.
-7. Species diversity (प्रजाति विविधता) **decreases from equator to poles**. Richness is not the same as evenness. Alpha is within one ecosystem (पारिस्थितिकी तंत्र), beta between ecosystems, gamma across a region.
+7. Species diversity **decreases from equator to poles**. Richness is not the same as evenness. Alpha is within one ecosystem, beta between ecosystems, gamma across a region.
 8. India has two realms (Palearctic Himalaya + Indomalayan rest), five biomes, **ten** biogeographic zones, and about **25** provinces.
 9. Evergreen forests of the Western Ghats, north-east, and Andamans are multilayered with rosewood, mahogany, and ebony and do **not** shed all leaves in one dry season. Moist deciduous forests (teak, sal, shisham, sandalwood) shed in the dry season and cover the **largest** area.
-10. Thorn / scrub of Rajasthan, Gujarat, and rain-shadow tracts holds acacia, babool, ber, and khair (xerophytes). Littoral / mangrove forests of deltas hold **sundari** and **pneumatophores** (वात-मूल) and buffer storms.
-11. World vegetation match: **Maquis** = Mediterranean; **Fynbos** = South Africa; **Chaparral** = California; **Matorral** = Chile. Epiphytes peak in equatorial forest; acacia in Sahara; baobab in savanna (सवाना); cedars in Mediterranean.
-12. Latest Forest Cover (ISFR 2023 / teaching benchmark for 2025–2026) stands at **21.76%** of India's TGA (Total Forest + Tree Cover = **25.17%**). Top state by forest area is **Madhya Pradesh**; top state by combined green cover gain is **Chhattisgarh**, followed by **Uttar Pradesh (#2 gainer, +559 sq km)**. **Forest cover is not the same as Recorded Forest Area**. National Forest Policy 1988 aims at about **33%**.
-13. Uttar Pradesh (उत्तर प्रदेश) latest forest cover is **6.24%** of geographical area (Total Forest + Tree Cover = **9.96%**). In UP, districts above 20% forest cover include **Chandauli (~21.6%) and Shravasti (~20.9%)**, not Bahraich (~10.1%). Jaunpur (जौनपुर)–Ghazipur–Ballia have near-nil forest land, yet Ballia holds **Surha Tal** Ramsar. Uttarakhand (उत्तराखंड) forest cover stands at **45.44%** of geographical area (legal RFA is ~**71%**); top forest area is **Pauri Garhwal**, top % is **Nainital**, and lowest is **Udham Singh Nagar**.
+10. Thorn / scrub of Rajasthan, Gujarat, and rain-shadow tracts holds acacia, babool, ber, and khair (xerophytes). Littoral / mangrove forests of deltas hold **sundari** and **pneumatophores** and buffer storms.
+11. World vegetation match: **Maquis** = Mediterranean; **Fynbos** = South Africa; **Chaparral** = California; **Matorral** = Chile. Epiphytes peak in equatorial forest; acacia in Sahara; baobab in savanna; cedars in Mediterranean.
+12. Latest Forest Cover (ISFR 2023 teaching benchmark) stands at about **21.76%** of India’s TGA (Forest + Tree Cover ≈ **25.17%**). Top state by forest **area** is **Madhya Pradesh**. **Forest cover ≠ Recorded Forest Area**. National Forest Policy 1988 aims at about **33%**.
+13. Uttar Pradesh forest cover is about **6.24%** of geographical area (Forest + Tree Cover ≈ **9.96%**). Districts above 20% include **Chandauli** and **Shravasti**, not Bahraich. Ballia has near-nil forest yet holds **Surha Tal** Ramsar. Uttarakhand forest cover is about **45.44%** (legal RFA ~**71%**).
 14. National Parks are stricter than Wildlife Sanctuaries. Biosphere Reserves have **core + buffer + transition**. India has **18** biosphere reserves; **Nilgiri (1986)** was the first.
-15. **In-situ** (स्थान पर) conservation = National Park, Sanctuary, Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र), sacred grove. **Ex-situ** (स्थानांतरित) = zoo, botanical garden (वनस्पति उद्यान), seed bank (बीज बैंक). A botanical garden is **not** in-situ.
-16. Chronology fact: Wildlife Protection (वन्यजीव सुरक्षा) Act **1972** → Project Tiger **1973** → Project Elephant (प्रोजेक्ट एलीफेंट) **1992** → Biological Diversity Act **2002**. Project Tiger launched on **1 April 1973**.
-17. Park–state pairs: **Simlipal = Odisha** (not Madhya Pradesh); **Nokrek = Meghalaya (मेघालय)** (not Manipur); **Nanda Devi (नंदा देवी) = Uttarakhand (उत्तराखंड)** (not Uttar Pradesh); **Agasthyamalai = Kerala and Tamil Nadu**; Manas = Assam; Keoladeo (केवलादेव) = Rajasthan; Kanha (कान्हा) = Madhya Pradesh.
-18. **Dachigam** protects the **Hangul** (Kashmir stag). **Keibul Lamjao** sits on **Loktak** (Manipur) for the Sangai (सांगाइ).
-19. Uttar Pradesh’s **only National Park** is **Dudhwa** (दुधवा) in **Lakhimpur Kheri**. Tiger Reserves are Dudhwa, Pilibhit, Amangarh, and Ranipur — do not invent extra National Parks.
-20. Dudhwa Tiger Reserve = Dudhwa National Park (दुधवा राष्ट्रीय उद्यान) + Kishanpur + **Katarniaghat** (Katarniaghat established **1975**). **Chandraprabha** Wildlife Sanctuary is in **Chandauli**.
-21. Ramsar traps **not** in Uttar Pradesh: Rudrasagar (Tripura), Sultanpur (Haryana), Surinsar–Mansar (Jammu & Kashmir). Surha Tal / JP Narayan Bird Sanctuary, Ballia is India’s **100th Ramsar** and Uttar Pradesh’s 13th.
-22. **MISHTI** restores mangroves and belongs to Budget **2023–24**, not 2019. Mangrove breathing roots are **pneumatophores**. Sundarbans (सुंदरबन) are the sundari mangrove fact.
-23. Coral reefs fact to Andaman & Nicobar, Lakshadweep (लक्षद्वीप), Gulf of Mannar, and Gulf of Kachchh. Coral bleaching (प्रवाल विरंजन) is linked to about **2°C** warming of sea water.
+15. **In-situ** conservation = National Park, Sanctuary, Biosphere Reserve, sacred grove. **Ex-situ** = zoo, botanical garden, seed bank. A botanical garden is **not** in-situ.
+16. Chronology: Wildlife Protection Act **1972** → Project Tiger **1 April 1973** → Project Elephant **1992** → Biological Diversity Act **2002**.
+17. Park–state pairs: **Simlipal = Odisha** (not Madhya Pradesh); **Nokrek = Meghalaya** (not Manipur); **Nanda Devi = Uttarakhand** (not Uttar Pradesh); **Agasthyamalai = Kerala and Tamil Nadu**; Manas = Assam; Keoladeo = Rajasthan; Kanha = Madhya Pradesh.
+18. **Dachigam** protects the **Hangul** (Kashmir stag). **Keibul Lamjao** sits on **Loktak** (Manipur) for the Sangai.
+19. Uttar Pradesh’s **only National Park** is **Dudhwa** (Lakhimpur Kheri). Tiger Reserves are Dudhwa, Pilibhit, Amangarh, and Ranipur — do not invent extra National Parks.
+20. Dudhwa Tiger Reserve = Dudhwa National Park + Kishanpur + **Katarniaghat** (1975). **Chandraprabha** Wildlife Sanctuary is in **Chandauli**.
+21. Ramsar traps **not** in Uttar Pradesh: Rudrasagar (Tripura), Sultanpur (Haryana), Surinsar–Mansar (J&K). **Surha Tal / JP Narayan BS, Ballia** is India’s **100th Ramsar** (5 Jun 2026) and UP’s 13th.
+22. **MISHTI** restores mangroves and belongs to Budget **2023–24**, not 2019. Mangrove breathing roots are **pneumatophores**. Sundarbans are the sundari mangrove fact.
+23. Coral reefs fact to Andaman & Nicobar, Lakshadweep, Gulf of Mannar, and Gulf of Kachchh. Coral bleaching links to about **2°C** warming of sea water.
 24. **Operation Olivia** is the Coast Guard Olive Ridley programme in Odisha. Nesting season is about **November–May**, not August.
 25. Montane vegetation is an altitude elevator: tropical foothills → oak / deodar / chir → alpine → bugyal → snow. Plains rainfall ladders do not replace this altitude logic.
-26. Keystone species (कीस्टोन प्रजाति) collapse an ecosystem if lost; flagship species (प्रतीक (फ्लैगशिप) प्रजाति) are public mascots — do not treat them as the same idea.
+26. Keystone species collapse an ecosystem if lost; flagship species are public mascots — do not treat them as the same idea.
 27. India has about **50,000** rice strains and about **1,000** mango varieties in the usual diversity teaching line.
 28. Tea and rubber estates are **plantations**, not climax evergreen forest. Moist and dry deciduous belong to one monsoon-forest family split by rainfall.
-29. Tropical evergreen is also called **Selvas**. Typical figures: rain **>200 cm**, mean annual temperature above about **22°C**, humidity near **70%** (many notes write humidity **>77%** and wet evergreen **>250 cm**).
-30. **Butea monosperma** is the **flame of the forest**, also called **Dhak** or **Palash**, and is the **state flower of Uttar Pradesh**.
-31. **Katha** is obtained from **khair** wood. **Khejri** is the multipurpose “king of the desert” tree used in social forestry (सामाजिक वानिकी).
-32. Tree-line is **lower** in the **Western** Himalaya (about **3300–3600 m**) than in the Eastern / Central Himalaya (about **3600–3800 m**). Alpine belts also sit higher in the east because that side is nearer the equator and the sea.
-33. **Southern** Himalayan slopes hold **denser** vegetation than northern slopes because they get **more rainfall and sunlight**. Assertion that northern slopes are denser is **false**.
-34. **Deodar** is abundant in the **western** Himalayan temperate belt at about **1500–2500 m**. Among common options (deodar, pine/chir, sal, teak), deodar grows at the **highest** elevation.
-35. Classic mangrove match: **Achra–Ratnagiri = Maharashtra**; **Coondapur = Karnataka**; **Pichavaram = Tamil Nadu**; **Vembanad = Kerala** (not Karnataka). **Silent Valley (साइलेंट वैली) (Kerala)** = tropical evergreen.
-36. **Mahogany** is **not** a Himalayan species (tropical American origin / Indian evergreen belts). Himalayan set = juniper, silver (रूपक) fir, spruce, deodar, birch.
+29. Tropical evergreen is also called **Selvas**. Typical figures: rain **>200 cm**, mean annual temperature above about **22°C**.
+30. **Butea monosperma** is the **flame of the forest** (**Dhak / Palash**) and the **state flower of Uttar Pradesh**.
+31. **Katha** is obtained from **khair** wood. **Khejri** is the multipurpose “king of the desert” tree used in social forestry.
+32. Tree-line is **lower** in the **Western** Himalaya (about **3300–3600 m**) than in the Eastern / Central Himalaya (about **3600–3800 m**).
+33. **Southern** Himalayan slopes hold **denser** vegetation than northern slopes because they get **more rainfall and sunlight**.
+34. **Deodar** is abundant in the **western** Himalayan temperate belt at about **1500–2500 m**. Among deodar, chir, sal, and teak, deodar grows at the **highest** elevation.
+35. Classic mangrove match: **Achra–Ratnagiri = Maharashtra**; **Coondapur = Karnataka**; **Pichavaram = Tamil Nadu**; **Vembanad = Kerala**. **Silent Valley (Kerala)** = tropical evergreen.
+36. **Mahogany** is **not** a Himalayan species. Himalayan set = juniper, silver fir, spruce, deodar, birch.
+37. **Jim Corbett** (Uttarakhand) is India’s **first** National Park (1936 as Hailey NP). **Kaziranga** (Assam) is the one-horned rhinoceros flagship. **Gir** (Gujarat) is the Asiatic lion home.
+38. **Bhitarkanika (Odisha)** is the usual second Indian mangrove block after Sundarbans. West-coast mangroves (MH–Goa–KA) are often scrubby and degraded compared with east-coast deltas.
+39. Several Indian biospheres (Nilgiri, Nanda Devi, Sundarbans, Gulf of Mannar, and others) also sit on UNESCO’s **World Network of Biosphere Reserves**.
+40. Halophytes tolerate salt; mangroves are the main Indian halophyte trees and often grow **pneumatophores** for oxygen in waterlogged mud.
+41. Acclimatization is a short physiological adjustment; adaptation is a longer evolutionary trait — do not swap the two words in stems.
+42. ISFR 2017 frozen PYQ figure for forest cover is **21.54%** — always read the **report year** in the stem before using a later percentage.
+43. FSI (Dehradun) under MoEFCC publishes the biennial **India State of Forest Report**. Very dense / moderately dense / open forest classes are cover categories, not legal RFA classes.
+44. Sacred groves are **in-situ** community conservation patches — group them with NP / WLS / BR, not with zoos.
+45. Project Tiger followed WLPA 1972; open-ended recall of the launch year is **1973** even when some MCQ options omit it.
+46. Sundarbans hold Royal Bengal Tiger and crocodile habitat inside **littoral / tidal** forest — not dry deciduous or alpine.
+47. Coral needs clear, warm, shallow tropical seas and symbiotic **zooxanthellae**; bleaching is heat stress expulsion of those algae, not cooling.
+48. Conservation International hotspot logic is high **endemism** plus heavy **habitat loss** — do not equate the four Indian hotspots with the **18** biosphere reserves.
 
 </details>
 

@@ -35,40 +35,53 @@ Million-city **population (जनसंख्या) ranks**. Missions and settl
 
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 30 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. Human geography studies the **man–environment (पर्यावरण) relationship** and the spatial patterns of human life, settlements and economy.
+1. Human geography studies the **man–environment relationship** and the spatial patterns of human life, settlements and economy.
 2. **Environmental determinism** (Ratzel / Semple) says nature controls culture. **Possibilism** (Vidal de la Blache) says humans choose among nature’s options. **Neo-determinism** (Griffith Taylor) is stop-and-go determinism.
-3. **Site** is the local ground of a settlement. **Situation** is its wider regional location relative (सापेक्ष) to routes, resources and other places.
+3. **Site** is the local ground of a settlement. **Situation** is its wider regional location relative to routes, resources and other places.
 4. A **census town** needs population **≥5,000**, density **≥400/km²**, and **≥75%** of **male main workers** in non-agriculture. It need not be a municipality.
 5. Rural settlements lean on primary activities and lower density. Urban places are statutory towns or census towns.
-6. Village types are **clustered / nucleated**, **semi-clustered**, **hamleted** and **dispersed**. Clustered villages appear on plains, around Rajasthan water points, and for defence in Bundelkhand / Nagaland — do **not** call the Thar (थार) “dispersed by default.”
-7. Dispersed villages typify **Meghalaya (मेघालय), Uttarakhand (उत्तराखंड), Himachal (हिमाचल) Pradesh, Kerala** and many North-East forest–hill tracts. Hamlet local names include **panna, para, palli, nagla and dhani**.
-8. Semi-clustered villages often show a dominant-caste centre with lower strata on the flanks (Gujarat / Rajasthan pair). Linear villages follow a road, river, canal or coast.
-9. Town functions are classed by the **dominant** job: administrative, industrial, transport, commercial, mining, garrison, educational, religious or tourist.
-10. Class I towns have **≥1 lakh** people (468 towns in 2011 held about **60%** of urban population). Classes II–VI step down from 50–99 thousand to under 5 thousand.
-11. In the standard Indian size ladder, metropolitan cities are **10 lakh–50 lakh** and mega cities are **above 50 lakh** — **six** in 2011. A UN megacity is **≥1 crore**. Do not mix these three thresholds.
-12. 2011 million-plus UA rank starts **Mumbai > Delhi > Kolkata > Chennai > Bengaluru > Hyderabad (हैदराबाद)**. There were **53** million-plus UAs; the smallest in that set is often **Kota**. The **2001** order Mumbai > Kolkata > Delhi is a trap for 2011 stems.
-13. An urban agglomeration can be a town with outgrowths, two contiguous towns, or a city with adjoining towns and outgrowths. Outgrowths include railway colonies, campuses, ports and cantonments.
-14. Settlement evolution pairs: ancient **Varanasi (वाराणसी) / Prayag (प्रयाग) / Madurai (मदुरै)**; medieval **Delhi / Agra / Jaipur / Lucknow (लखनऊ)**; modern planned **Chandigarh** (Le Corbusier). Satellite towns include Ghaziabad.
-15. The **Smart Cities Mission** launched on **25 June 2015** for **100** cities under **MoHUA**, implemented through an SPV. ABD means area-based development (retrofit / redevelopment / greenfield) plus pan-city ICT.
-16. Uttar Pradesh (उत्तर प्रदेश)’s **Central / Mission** Smart City list is **10**: Lucknow, Kanpur (कानपुर), Prayagraj (प्रयागराज), Agra, Varanasi, Aligarh (अलीगढ़), Bareilly, Jhansi (झांसी), Moradabad and Saharanpur. **Ghaziabad is not** in that Central-10.
-17. Uttar Pradesh’s **State Smart Cities (2019)** are seven Nagar Nigams (including Ghaziabad, Meerut (मेरठ), Gorakhpur (गोरखपुर), Mathura (मथुरा), Ayodhya (अयोध्या), Firozabad, Shahjahanpur (शाहजहाँपुर)). State list (राज्य सूची) does not rewrite Mission-100 keys.
-18. ISAC-2020 theme pairs: Culture **Indore**, Governance **Vadodara**, Social **Tirupati**, Urban environment **Bhopal**. Best State award went to **Uttar Pradesh** (उत्तर प्रदेश); best cities included Indore and Surat.
-19. **HRIDAY** covers **12** heritage cities. In Uttar Pradesh the pair is **Varanasi and Mathura** — not Prayagraj or Ayodhya.
-20. **SPMRM (Rurban)** was **launched on 21 February 2016** (Cabinet approval 2015). Matching the scheme to **2015** is the classic trap. It is under **MoRD**, not MoHUA.
-21. **Rurbanization** is linked to sociologist **G.S. Ghurye**. McLuhan’s **Global Village** rests on **transport plus communication**.
-22. Scheme chronology: **JNNURM 2005** → Urban Housing Policy **2007** → **AMRUT June 2015** → **Jal Jeevan Mission 2019**. **AMRUT 2.0** is **1 October 2021**. **SAGY** is **2014**.
-23. Smart Cities = **MoHUA**; smart village / Rurban = **MoRD**. Keep the ministries separate.
-24. **Bhopal** is the classic “not on a major river bank” city trap against Agra, Patna (पटना) or Kolkata.
-25. NCR slice of Uttar Pradesh includes Ghaziabad, Noida, Greater Noida and Meerut in the urban–industrial belt.
-26. Hamleted villages break the main settlement into secondary units (**panna / para / palli / nagla / dhani**); they are a rural pattern, not a separate census-town category.
-
----
-27. Economic activities: **primary** (farming, mining, fishing), **secondary** (manufacturing), **tertiary** (services), with **quaternary** for knowledge / R&D in advanced teaching.
-28. Rural settlements lean on primary work and lower density; urban places are **statutory towns** or **census towns**. An **outgrowth** (railway colony, campus, cantonment) can sit inside an urban agglomeration.
-29. Functional town tags to keep: administrative, industrial, transport, commercial, mining, garrison, educational, religious and tourist — classed by the **dominant** job.
-30. Planned modern city classic = **Chandigarh** (Le Corbusier). Ancient urban tags include **Varanasi / Prayag / Madurai**; medieval tags include Delhi / Agra / Jaipur / Lucknow.
+6. Village types are **clustered / nucleated**, **semi-clustered**, **hamleted** and **dispersed**. Clustered villages appear on plains, around Rajasthan water points, and for defence in Bundelkhand / Nagaland — do **not** call the Thar “dispersed by default.”
+7. Dispersed villages typify **Meghalaya, Uttarakhand, Himachal Pradesh, Kerala** and many North-East forest–hill tracts.
+8. Hamlet local names include **panna, para, palli, nagla and dhani**. Semi-clustered villages often show a dominant-caste centre with lower strata on the flanks (Gujarat / Rajasthan).
+9. Linear villages follow a road, river, canal or coast. Circular / radial sketches appear around tanks or forts in coaching diagrams.
+10. Town functions are classed by the **dominant** job: administrative, industrial, transport, commercial, mining, garrison, educational, religious or tourist.
+11. Class I towns have **≥1 lakh** people (468 towns in 2011 held about **60%** of urban population). Classes II–VI step down from 50–99 thousand to under 5 thousand.
+12. In the standard Indian size ladder, metropolitan cities are **10 lakh–50 lakh** and mega cities are **above 50 lakh** — **six** in 2011. A UN megacity is **≥1 crore**.
+13. 2011 million-plus UA rank starts **Mumbai > Delhi > Kolkata > Chennai > Bengaluru > Hyderabad**. There were **53** million-plus UAs. The **2001** order Mumbai > Kolkata > Delhi is a trap.
+14. An urban agglomeration can be a town with outgrowths, two contiguous towns, or a city with adjoining towns and outgrowths. Outgrowths include railway colonies, campuses, ports and cantonments.
+15. Settlement evolution pairs: ancient **Varanasi / Prayag / Madurai**; medieval **Delhi / Agra / Jaipur / Lucknow**; modern planned **Chandigarh** (Le Corbusier). Satellite towns include Ghaziabad.
+16. The **Smart Cities Mission** launched on **25 June 2015** for **100** cities under **MoHUA**, implemented through an SPV. ABD means area-based development plus pan-city ICT.
+17. Uttar Pradesh’s **Central / Mission** Smart City list is **10**: Lucknow, Kanpur, Prayagraj, Agra, Varanasi, Aligarh, Bareilly, Jhansi, Moradabad and Saharanpur. **Ghaziabad is not** in that Central-10.
+18. Uttar Pradesh’s **State Smart Cities (2019)** are seven Nagar Nigams (including Ghaziabad, Meerut, Gorakhpur, Mathura, Ayodhya, Firozabad, Shahjahanpur). State list does not rewrite Mission-100 keys.
+19. ISAC-2020 theme pairs: Culture **Indore**, Governance **Vadodara**, Social **Tirupati**, Urban environment **Bhopal**. Best State award went to **Uttar Pradesh**.
+20. **HRIDAY** covers **12** heritage cities. In Uttar Pradesh the pair is **Varanasi and Mathura** — not Prayagraj or Ayodhya.
+21. **SPMRM (Rurban)** was **launched on 21 February 2016** (Cabinet approval 2015). It is under **MoRD**, not MoHUA.
+22. **Rurbanization** is linked to sociologist **G.S. Ghurye**. McLuhan’s **Global Village** rests on **transport plus communication**.
+23. Scheme chronology: **JNNURM 2005** → Urban Housing Policy **2007** → **AMRUT June 2015** → **Jal Jeevan Mission 2019**. **AMRUT 2.0** is **1 October 2021**. **SAGY** is **2014**.
+24. Smart Cities = **MoHUA**; smart village / Rurban = **MoRD**. Keep the ministries separate.
+25. **Bhopal** is the classic “not on a major river bank” city trap against Agra, Patna or Kolkata.
+26. NCR slice of Uttar Pradesh includes Ghaziabad, Noida, Greater Noida and Meerut in the urban–industrial belt.
+27. Economic activities: **primary** (farming, mining, fishing), **secondary** (manufacturing), **tertiary** (services), with **quaternary** for knowledge / R&D.
+28. Approaches in human geography coaching sets include welfare, behavioural, radical and humanistic lenses on spatial problems.
+29. **Primate city** means one city dominates the urban system far above the second city; **rank-size** expects a more regular step-down of city sizes.
+30. Rural settlements lean on primary work and lower density; urban places are **statutory towns** or **census towns**.
+31. Functional town tags stay classed by the **dominant** job — a transport town may also trade, but the leading function decides the label.
+32. Planned modern city classic = **Chandigarh** (Le Corbusier). Do not park Lucknow or Jaipur as the Le Corbusier planned-city key.
+33. Smart Cities Mission timeline extension note (works to **31 Mar 2025**) does not change the **100 cities / 25 June 2015** launch facts.
+34. PMAY-U shares the **25 June 2015** launch day with Smart Cities — useful chronology glue with AMRUT (also June 2015).
+35. Hamleted villages break the main settlement into secondary units; they remain a **rural** pattern, not a census-town category.
+36. Dispersed settlement is hill/forest/high-rainfall logic (Meghalaya–UK–HP–Kerala), not the default Thar tag.
+37. Clustered settlement on the Ganga plain is the high-density rural norm; defence clustering also appears in Bundelkhand / Nagaland notes.
+38. Mega-city (NCERT >50 lakh) ≠ UN megacity (≥1 crore) ≠ metropolitan (10–50 lakh) — keep the three thresholds apart.
+39. Smallest million-plus UA in the 2011 set is often taught as **Kota** — useful against inventing a Himalayan million city.
+40. Outgrowths (railway colony, campus, cantonment, port colony) can sit inside an **urban agglomeration** without being separate Class-I towns.
+41. HRIDAY is heritage revitalisation; Smart Cities is urban ICT/ABD modernisation — do not treat them as the same mission.
+42. SAGY (2014) is village adoption / MP-linked rural development framing, distinct from SPMRM Rurban clusters.
+43. Global Village is **transport + communication**, not a UN political category alone.
+44. Site vs situation: a river-bank site can have a poor regional situation if routes bypass it — both must be read separately.
+45. Uttar Pradesh Mission-10 Smart Cities never include Ghaziabad; Ghaziabad appears only on the **State 2019** list for that trap.
 
 </details>
 

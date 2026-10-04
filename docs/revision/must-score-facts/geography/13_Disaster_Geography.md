@@ -16,34 +16,48 @@ hide:
 1. Coaching risk fact: **Risk ≈ Hazard × Vulnerability / Capacity**. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
 2. The disaster-management cycle runs **mitigation → preparedness → response → recovery**. Mitigation is before impact; response is during and just after.
 3. Earthquake **focus** is the point **inside** the Earth; **epicentre** is the point on the **surface** above it. **Richter** measures magnitude; **Mercalli** measures intensity / damage.
-4. Seismic waves split into **body** (through the Earth) and **surface** (along the ground). Body waves arrive **P then S**; surface waves come last and do most damage. **P-wave** shadow (छाया) is about **103–142°**; **S-wave** shadow lies beyond about **103°** (liquid outer core). The Himalaya (हिमालय) is India’s highest seismic belt because of **collision and thrust zones**.
-5. India uses seismic **Zones II–V** only (Zone I was dropped in 2002). **Zone V is highest**. A draft Zone VI was **withdrawn in March 2026** — maps still follow the 2016 II–V zones.
-6. Zone V covers the North-East, Himalayan pockets, **Kutch** and the **Andaman (अंडमान) & Nicobar (निकोबार)** belt. Much of Rajasthan and the Deccan (दक्कन) sits in Zones II–III.
-7. About **59%** of India’s landmass is earthquake-prone in NDMA note. Famous shocks: Kangra (कांगड़ा) 1905, Bihar–Nepal 1934, **Koyna 1967 (reservoir-induced)**, **Latur 1993 (peninsular / Killari, Zone III)**, Bhuj 2001, and the **26 December 2004** tsunami.
-8. A **tsunami** (Japanese “harbour wave”) is caused by **seafloor displacement** (quake, landslide or volcano), not by ordinary wind waves or tides. It races fast in deep water and piles up near the coast. India’s warning hub is **INCOIS, Hyderabad (हैदराबाद)**. Hall event: **26 Dec 2004** Sumatra megathrust.
-9. **Kilimanjaro** sits on the East African Rift and is **not** part of the Pacific Ring of Fire.
-10. Landslide belts are the Himalaya, Western Ghats (पश्चिमी घाट) and North-East. pairs include Kedarnath (केदारनाथ) **2013**, Joshimath subsidence **2023**, and Sikkim GLOF **2023**.
-11. Flood types include riverine (Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)), flash floods in hills, urban (नगरीय) floods and coastal storm surge (तूफानी महोर्मि). Drought is classed as meteorological, hydrological and agricultural. IMD drought criteria often use rainfall deficiency **>25%** of normal.
-12. IMD **cloudburst** fact is rainfall **≥100 mm in one hour**, typically in Uttarakhand (उत्तराखंड)–Himachal (हिमाचल)–J&K–North-East hill belts around **1000–2500 m**.
-13. IMD plains heat-wave gate: when **Tmax ≥40°C**, a departure of **4.5–6.4°C** is a heat wave and **>6.4°C** is severe; or actual **≥45°C / ≥47°C**. Criteria also use two stations for two days. Cold-wave plains gate is **Tmin ≤10°C** with a sharp drop.
-14. The **Bay of Bengal** produces **more** cyclones than the Arabian Sea. Peak seasons are roughly **May–June** and **October–December**. Arabian Sea storms can still hit Gujarat–Maharashtra (Tauktae / Kandla note).
-15. Cyclone-name pairs: **Baguio = Philippines**; Hurricane = USA; Typhoon / Taifu = China–Japan; **Willy-willy (विली-विली) = Australia**; cyclone = North Indian Ocean; Cordonazo = Mexico.
-16. 2019 storm–place pairs: Dorian–Bahamas, Hagibis–Japan, Lekima–China, Mitag–Korea, with Indian Ocean names like Amphan, Fani and Tauktae also in the news map.
+4. Seismic waves split into **body** (P, S) and **surface** (Love, Rayleigh). Body waves arrive **P then S**; surface waves come last and do most damage.
+5. **P-wave** shadow is about **103–142°**; **S-wave** shadow lies beyond about **103°** because the outer core is liquid. **P** travels through solids, liquids and gases; **S** through **solids only**.
+6. India uses seismic **Zones II–V** only (Zone I dropped in 2002). **Zone V is highest**. A draft Zone VI was **withdrawn in March 2026** — maps still follow the 2016 II–V zones.
+7. Zone V covers the North-East, Himalayan pockets, **Kutch** and the **Andaman & Nicobar** belt. Much of Rajasthan and the Deccan sits in Zones II–III.
+8. About **59%** of India’s landmass is earthquake-prone in NDMA note. Famous shocks: Kangra 1905, Bihar–Nepal 1934, **Koyna 1967 (reservoir-induced)**, **Latur 1993 (peninsular / Killari)**, Bhuj 2001.
+9. A **tsunami** (Japanese “harbour wave”) is caused by **seafloor displacement**, not ordinary wind waves. India’s warning hub is **INCOIS, Hyderabad**. Hall event: **26 Dec 2004**.
+10. **Kilimanjaro** sits on the East African Rift and is **not** part of the Pacific Ring of Fire.
+11. Landslide belts are the Himalaya, Western Ghats and North-East. Landmark pairs include Kedarnath **2013**, Joshimath subsidence **2023**, and Sikkim GLOF **2023**.
+12. Flood types include riverine (Ganga–Brahmaputra), flash floods in hills, urban floods and coastal storm surge. Drought is meteorological, hydrological and agricultural. IMD drought criteria often use rainfall deficiency **>25%** of normal.
+13. IMD **cloudburst** fact is rainfall **≥100 mm in one hour**, typically in Uttarakhand–Himachal–J&K–North-East hill belts around **1000–2500 m**.
+14. IMD plains heat-wave gate: when **Tmax ≥40°C**, a departure of **4.5–6.4°C** is a heat wave and **>6.4°C** is severe; or actual **≥45°C / ≥47°C**. Cold-wave plains gate is **Tmin ≤10°C** with a sharp drop.
+15. The **Bay of Bengal** produces **more** cyclones than the Arabian Sea. Peak seasons are roughly **May–June** and **October–December**.
+16. Cyclone-name pairs: **Baguio = Philippines**; Hurricane = USA; Typhoon = China–Japan; **Willy-willy = Australia**; cyclone = North Indian Ocean.
 17. **NDMA** is chaired by the **Prime Minister**. **SDMA** is chaired by the **Chief Minister**. **DDMA** is chaired by the District Magistrate / Collector.
-18. Framework years: **DM Act 2005**, **NPDM 2009**, **NDRF 2006** (MHA), **NDMP 2016**, **Sendai Framework 2015–2030** (after Hyogo 2005–15), **CDRI 2019**. International Day for Disaster Risk Reduction is **13 October**.
-19. NEC pair = Union Home Secretary. **NIDM** handles training from Delhi. Its ancestor **NCDM** was set up in **1995** under **IIPA** (not ICSSR / NDMA). India is **not** a disaster-free country.
+18. Framework years: **DM Act 2005**, **NPDM 2009**, **NDRF 2006** (MHA), **NDMP 2016**, **Sendai Framework 2015–2030**, **CDRI 2019**. International Day for DRR is **13 October**.
+19. NEC pair = Union Home Secretary. **NIDM** handles training from Delhi. Its ancestor **NCDM** was set up in **1995** under **IIPA**. India is **not** a disaster-free country.
 20. India’s multi-hazard note: ~**59%** quake-prone, ~**12%** flood-prone, ~**5,700 km** cyclone/tsunami coast, ~**68%** of cultivable area drought-vulnerable.
 21. **Mangroves** cut cyclone and surge impact. **Bhopal 1984** is the classic man-made industrial / chemical disaster.
 22. **DPAP** began in **1973–74**. The earlier Community Development Programme pair is **1952**.
-23. Uttar Pradesh (उत्तर प्रदेश) sits mainly in seismic **Zones III–IV** (not Zone V as a whole-State label). Eastern districts face river floods; Bundelkhand faces drought. Plains heat waves peak in May–June (**Loo** (लू)).
-24. In the 2018 UP paper, the **Gomati** (गोमती) carried the “biological disaster” pollution label among the given rivers.
-25. Hazard is potential danger; disaster is when capacity fails. Do not treat the two words as identical.
-26. Cold-wave and fog risk in western Uttar Pradesh and the Terai (तराई) peaks in **December–January**; plains heat waves (**Loo**) peak in **May–June**.
-27. Surface seismic waves include **Love** and **Rayleigh**; they arrive after body waves and do most damage. **P** waves travel through solids, liquids and gases; **S** waves travel through **solids only**.
-28. Hazard classes include geophysical (quake, volcano, tsunami), hydrological (flood), meteorological (cyclone, heat/cold wave), climatological (drought) and technological / industrial (Bhopal-type).
-29. Landslide triggers include steep slopes, heavy rain, earthquakes, deforestation and toe-cutting of slopes. Avalanche risk sits mainly in high Himalayan snow belts.
-30. Early-warning chain: IMD (weather / cyclone / heat), INCOIS (tsunami / ocean), CWC (floods), GSI / NDMA guidance for landslides — do not dump every warning on one agency.
-31. **Sendai Framework** has **seven** global targets and **four** priorities for action (not six targets / three priorities). Priority 4 includes **Build Back Better** in recovery. It was adopted at the **Third** UN World Conference on DRR (Sendai, Japan).
+23. Uttar Pradesh sits mainly in seismic **Zones III–IV** (not Zone V as a whole-State label). Eastern districts face river floods; Bundelkhand faces drought.
+24. Plains heat waves (**Loo**) peak in **May–June**; cold-wave and fog risk in western UP and the Terai peaks in **December–January**.
+25. In the 2018 UP paper, the **Gomati** carried the “biological disaster” pollution label among the given rivers.
+26. Hazard is potential danger; disaster is when capacity fails. Do not treat the two words as identical.
+27. Hazard classes include geophysical, hydrological, meteorological, climatological and technological / industrial.
+28. Landslide triggers include steep slopes, heavy rain, earthquakes, deforestation and toe-cutting of slopes. Avalanche risk sits mainly in high Himalayan snow belts.
+29. Early-warning chain: **IMD** (weather / cyclone / heat), **INCOIS** (tsunami / ocean), **CWC** (floods), GSI / NDMA guidance for landslides.
+30. **Sendai Framework** has **seven** global targets and **four** priorities for action. Priority 4 includes **Build Back Better**. Adopted at the **Third** UN World Conference on DRR (Sendai, Japan).
+31. Cyclone formation needs warm SST (about **27°C**), Coriolis force, and low vertical wind shear — Arabian Sea can still produce severe storms (e.g. Tauktae).
+32. GLOF means glacial-lake outburst flood; Sikkim **2023** is the teaching CA pair, distinct from ordinary monsoon riverine floods.
+33. Joshimath **2023** = subsidence; Kedarnath **2013** = rain–debris–flood — do not merge the mechanisms.
+34. Pacific **Ring of Fire** holds most of the world’s quakes and volcanoes; India’s Himalayan quakes are mainly **Indian–Eurasian** convergence, not island-arc volcanoes.
+35. Reservoir-induced seismicity classic = **Koyna 1967**; peninsular Stable Continental Region shock classic = **Latur / Killari 1993**.
+36. Storm surge is a coastal cyclone hazard; flash flood is a hill / urban intense-rain hazard — do not label every flood as storm surge.
+37. CDRI (**2019**) is India’s coalition for disaster-resilient infrastructure — distinct from NDMA’s statutory authority role.
+38. Hyogo Framework (**2005–15**) preceded Sendai (**2015–30**); Yokohama is an older DRR conference tag, not the Sendai successor name.
+39. NDRF was raised in **2006** under MHA; DM Act year **2005** is the statute, not the force-raising year.
+40. Heat-wave plains need the **Tmax ≥40°C** gate before departure/actual cuts apply — a warm 36°C afternoon is not automatically a heat wave.
+41. Willy-willy = Australia; Baguio = Philippines; Hurricane = Atlantic/USA naming — regional name swaps are frequent.
+42. Tsunami warning for India is **INCOIS Hyderabad** (MoES), not NDMA HQ and not IMD Pune as the tsunami hub.
+43. Mitigation reduces risk before impact; preparedness stages people and systems; response saves lives in the impact window; recovery rebuilds — including Build Back Better under Sendai Priority 4.
+44. About **12%** flood-prone and **68%** drought-vulnerable cultivable area sit beside the **59%** quake-prone landmass note in multi-hazard stems.
+45. Man-made / technological disasters include industrial chemical events (Bhopal) and can intersect natural triggers (Natech) — India is not “natural disasters only.”
 
 
 ---
@@ -108,262 +122,63 @@ hide:
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
 **Q1.**
-Consider the following programmes and arrange them in correct chronological order.
+Risk in disaster studies is commonly framed as:
 
-1. Food for Work Programme
-2. Community Development Programme
-3. Training of Rural Youth for Self Employment (TRYSEM)
-4. Drought Prone Areas Programme
-
-A. 4, 2, 3, 1
-
-B. 2, 4, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 1, 3
+A. Hazard − Vulnerability
+B. Hazard × Vulnerability / Capacity
+C. Capacity × Vulnerability only
+D. Hazard + Capacity
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — CDP 1952 → DPAP 1973–74 → Food for Work 1977 → TRYSEM 1979.
+**Ans: B.** Risk ≈ Hazard × Vulnerability / Capacity.
+
+**Logic:** Higher capacity lowers risk for the same hazard and vulnerability.
+
 </details>
 
 **Q2.**
-Which of the following volcanoes is not located in the Pacific Ring of Fire?
+With reference to earthquakes, which of the following statements is/are correct?
 
-A. Mount Fuji
+1. Focus is the surface point above the rupture.
+2. Richter measures magnitude; Mercalli measures intensity.
+3. S-waves travel through the liquid outer core.
 
-B. Mount Pinatubo
-
-C. Mount Kilimanjaro
-
-D. Mount St. Helens
+A. Only 2
+B. 1 and 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Kilimanjaro = East African Rift.
+**Ans: A.** Only statement 2 is correct.
+
+**Logic:** Focus is inside; epicentre is surface. S-waves are solids only.
+
 </details>
 
 **Q3.**
-The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?
+India’s seismic zoning map currently uses:
 
-A. The Prime Minister
-
-B. The Home Minister
-
-C. The Defence Minister
-
-D. The Health and Family Welfare Minister
+A. Zones I–V
+B. Zones II–V
+C. Zones I–VI
+D. Only Zone V nationwide
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Official teaching map uses **Zones II–V** (Zone I dropped; draft Zone VI withdrawn).
+
+**Logic:** Zone V is highest, not the only zone.
+
 </details>
 
 **Q4.**
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-**List-I (Tropical cyclones)** A. Baguios B. Hurricanes C. Typhoons D. Willy-Willies
-**List-II (Country)** 1. Australia 2. China 3. Philippines 4. United States of America
-
-A. 3 4 1 2
-
-B. 3 4 2 1
-
-C. 2 3 4 1
-
-D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Philippines, USA, China, Australia.
-</details>
-
-**Q5.**
-Match List-I with List-II:
-**List-I (Typhoon/Hurricane August–September 2019)** A. Dorian B. Hagibis C. Lekima D. Mitag
-**List-II (Most affected country)** 1. Bahamas 2. China 3. Jeju, South Korea 4. Japan
-
-A. 1 2 4 3
-
-B. 1 4 2 3
-
-C. 4 2 3 1
-
-D. 3 4 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Bahamas, Japan, China, Korea.
-</details>
-
-**Q6.**
-Match List-I with List-II:
-**List-I (Different name of tropical cyclone)** A. Willy-Willies B. Taifu C. Baguio D. Hurricanes
-**List-II (Country)** 1. Philippines 2. Australia 3. Japan 4. U.S.A.
-
-A. 3 4 1 2
-
-B. 2 3 4 1
-
-C. 1 3 2 4
-
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Australia, Japan, Philippines, USA.
-</details>
-
-**Q7.**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-**Assertion (A):** The highest concentration of Seismic zones lies in Himalayan region in India.
-
-**Reason (R):** There are many longitudinal thrust zones in Himalayas.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
-**Q8.**
-Which of the following statements are true?
-
-1. Natural disasters cause maximum damage in developing countries.
-2. Bhopal gas tragedy was man-made.
-3. India is a disaster free country.
-4. Mangroves reduce the impact of cyclones.
-
-A. 1, 2 and 3
-
-B. 2, 3 and 4
-
-C. 1, 2 and 4
-
-D. 1, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — (3) is false.
-</details>
-
-**Q9.**
-Which of the following rivers of Uttar Pradesh has been declared a 'Biological Disaster due to environmental pollution'?
-
-A. Yamuna
-
-B. Gomati
-
-C. Sai
-
-D. Tamsa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Gomati.
-</details>
-
-**Q10.**
-As a result of global warming the frequency and severity of which of the following are increasing due to global warming?
-
-A. Cyclones only
-
-B. Storms only
-
-C. Hurricanes only
-
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
-**Q11.** With reference to disaster risk, which of the following statements is/are correct?
-
-1. Coaching risk fact: Risk ≈ Hazard × Vulnerability / Capacity.
-2. A disaster occurs when a hazard hits exposed people or assets and capacity is too weak.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-B. Both 1 and 2
-C. 2 only
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both statements are correct.
-
-**Logic:** Hazard is potential; disaster is when capacity fails.
-
-</details>
-
-**Q12.** Consider the following pairs:
-
-| Term | Meaning |
-|---|---|
-| 1. Focus | Point inside the Earth |
-| 2. Epicentre | Surface point above the focus |
-| 3. Richter | Intensity / damage scale |
-
-Which of the pairs given above is/are correctly matched?
-
-A. Only 2 and 3
-B. Only 1
-C. 1 and 2
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1 and 2 only are correct.
-
-**Logic:** Richter = magnitude; Mercalli = intensity/damage.
-
-</details>
-
-**Q13.** Which of the following is NOT correctly matched?
-
-A. Body waves — P then S through the Earth
-B. Surface waves — arrive last and do most damage
-C. P-wave shadow — about 103–142°
-D. S waves — travel through the liquid outer core
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** S waves do not travel through the liquid outer core.
-
-**Logic:** S-wave shadow lies beyond about 103°.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): India uses seismic Zones II–V only (Zone I dropped in 2002).
-
-Reason (R): Zone V is the highest hazard zone and covers NE, Himalayan pockets, Kutch and Andaman & Nicobar.
-
-Select the correct answer from the code given below:
+Assertion (A): A tsunami is essentially a wind-raised tidal wave.
+Reason (R): India’s tsunami early-warning hub is INCOIS, Hyderabad.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -373,32 +188,306 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Both true; Zone V geography does not by itself explain why Zone I was dropped.
+**Ans: B.** A is false; R is true.
 
-**A/R logic:** Much of Rajasthan and Deccan sits in Zones II–III.
+**A/R logic:** Tsunami = seafloor displacement / harbour-wave origin, not ordinary wind tide.
 
 </details>
 
-**Q15.** Arrange the disaster-management cycle in correct order:
+**Q5.**
+IMD’s cloudburst threshold is rainfall of:
 
-1. Response
-2. Mitigation
-3. Recovery
-4. Preparedness
-
-Select the correct answer from the code given below:
-
-A. 2-1-4-3
-B. 1-2-4-3
-C. 2-4-1-3
-D. 4-2-1-3
+A. ≥50 mm in 24 hours
+B. ≥100 mm in one hour
+C. ≥200 mm in one day
+D. Any rain above normal
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Mitigation → Preparedness → Response → Recovery.
+**Ans: B.** Cloudburst = **≥100 mm in one hour**.
 
-**Logic:** Mitigation is before impact; response is during/just after.
+**Logic:** Heavy rain alone is not the IMD cloudburst definition.
+
+</details>
+
+**Q6.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (Name) | List-II (Region) |
+|---|---|
+| 1. Baguio | A. Philippines |
+| 2. Willy-willy | B. Australia |
+| 3. Hurricane | C. USA / Atlantic naming |
+| 4. Typhoon | D. China–Japan seas |
+
+A. 1-A, 2-B, 3-C, 4-D
+B. 1-B, 2-A, 3-C, 4-D
+C. 1-A, 2-C, 3-B, 4-D
+D. 1-A, 2-B, 3-D, 4-C
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Standard regional cyclone names.
+
+**Logic:** Row order is not the answer code.
+
+</details>
+
+**Q7.**
+NDMA is chaired by the:
+
+A. Union Home Minister
+B. Prime Minister
+C. Cabinet Secretary
+D. Chief of NDRF
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NDMA chair = **Prime Minister**.
+
+**Logic:** SDMA = Chief Minister; DDMA = District Magistrate.
+
+</details>
+
+**Q8.**
+Which of the following year–framework pairs is/are correctly matched?
+
+1. DM Act — 2005
+2. NPDM — 2009
+3. Sendai Framework — 2005–15
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Sendai is **2015–2030**; Hyogo was 2005–15.
+
+</details>
+
+**Q9.**
+Koyna 1967 and Latur 1993 are correctly tagged as:
+
+A. Both pure Himalayan thrust quakes
+B. Reservoir-induced and peninsular / Killari respectively
+C. Both tsunami-generating megathrusts
+D. Both Zone V Himalayan events
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Koyna = reservoir-induced; Latur/Killari = peninsular SCR shock.
+
+**Logic:** “Only Himalaya shakes” is false.
+
+</details>
+
+**Q10.**
+Which volcano is NOT on the Pacific Ring of Fire?
+
+A. Mount Fuji
+B. Mount Pinatubo
+C. Mount Kilimanjaro
+D. Mount St. Helens
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Kilimanjaro = **East African Rift**.
+
+**Logic:** Fuji, Pinatubo and St. Helens are Circum-Pacific.
+
+</details>
+
+**Q11.**
+Consider the following statements:
+
+1. Bay of Bengal produces more cyclones than the Arabian Sea.
+2. Peak cyclone seasons include May–June and October–December.
+3. Arabian Sea never produces severe cyclones affecting India.
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Tauktae-type storms show Arabian Sea can hit the west coast.
+
+</details>
+
+**Q12.**
+Sendai Framework has:
+
+A. Six targets and three priorities
+B. Seven targets and four priorities
+C. Five targets and five priorities
+D. Ten targets and two priorities
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Seven** global targets and **four** priorities (including Build Back Better).
+
+**Logic:** Hyogo-era counts are common distractors.
+
+</details>
+
+**Q13.**
+Assertion (A): Joshimath 2023 and Kedarnath 2013 are the same mechanism labelled differently.
+Reason (R): GLOF refers to a glacial-lake outburst flood.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A is false; R is true.
+
+**A/R logic:** Joshimath = subsidence; Kedarnath 2013 = rain–debris–flood; Sikkim 2023 = GLOF example.
+
+</details>
+
+**Q14.**
+India’s tsunami early-warning centre is at:
+
+A. IMD Pune
+B. NDMA New Delhi
+C. INCOIS Hyderabad
+D. NIDM Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tsunami warning hub = **INCOIS, Hyderabad**.
+
+**Logic:** IMD is weather/cyclone/heat; NIDM is training.
+
+</details>
+
+**Q15.**
+Which of the following is a man-made industrial / chemical disaster classic?
+
+A. Kangra 1905
+B. Bhuj 2001
+C. Bhopal 1984
+D. Amphan 2020
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Bhopal 1984** is the industrial chemical classic.
+
+**Logic:** Others are natural / cyclone tags.
+
+</details>
+
+**Q16.**
+With reference to heat waves on the plains, which statement is correct?
+
+A. Any afternoon above 35°C is a heat wave
+B. Plains gate often needs Tmax ≥40°C before departure/actual criteria apply
+C. Heat waves peak in December–January in the Terai
+D. Cold-wave criteria use Tmax ≥45°C
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Plains heat-wave teaching starts from the **≥40°C** gate.
+
+**Logic:** Dec–Jan is cold-wave/fog season; Loo/heat is May–June.
+
+</details>
+
+**Q17.**
+DPAP began in:
+
+A. 1952
+B. 1973–74
+C. 2005
+D. 2016
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** DPAP = **1973–74**.
+
+**Logic:** 1952 is Community Development Programme.
+
+</details>
+
+**Q18.**
+Which of the following statements is/are correct for Uttar Pradesh?
+
+1. The State as a whole is labelled Zone V.
+2. Eastern districts face river floods.
+3. Bundelkhand faces drought stress.
+
+A. Only 1
+B. 1 and 2
+C. 2 and 3
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statements 2 and 3 are correct.
+
+**Logic:** UP is mainly Zones **III–IV**, not whole-State Zone V.
+
+</details>
+
+**Q19.**
+Arrange chronologically:
+
+1. Hyogo Framework period start
+2. DM Act
+3. Sendai Framework adoption year
+4. CDRI launch
+
+A. 2–1–3–4
+B. 1–2–3–4
+C. 2–3–1–4
+D. 1–2–4–3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Hyogo 2005 → DM Act 2005 → Sendai 2015 → CDRI 2019 (same-year Hyogo/DM Act; order keeps Hyogo framing then statute then Sendai then CDRI).
+
+**Logic:** If forced to split 2005, both Hyogo and DM Act share the year; Sendai and CDRI are later.
+
+</details>
+
+**Q20.**
+Which one of the following pairs is NOT correctly matched?
+
+A. NDRF — raised 2006
+B. International Day for DRR — 13 October
+C. Willy-willy — USA
+D. Mangroves — reduce storm-surge impact
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Willy-willy = **Australia**, not USA.
+
+**Logic:** Hurricane is the USA/Atlantic regional name.
 
 </details>
 

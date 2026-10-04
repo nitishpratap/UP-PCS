@@ -33,38 +33,53 @@ Masai habitat (वास स्थान) remains **East Africa**. Do not “upd
 
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 28 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. Scheduled Tribe (अनुसूचित जनजाति) lists are **state-wise** under **Article 342**. Parliament can amend the lists by law. A community listed in one State need not be listed in another.
-2. STs are about **8.6%** of India’s population (जनसंख्या) (Census 2011). Among the largest groups are **Bhil, Gond (गोंड) and Santhal (संथाल)**. Madhya Pradesh often leads in absolute (निरपेक्ष) ST population.
-3. Lokur Committee criteria for ST listing include primitive traits, distinctive culture, geographical isolation, shyness of contact, and economic backwardness.
-4. There are **75 Particularly Vulnerable Tribal Groups (PVTGs)** (Dhebar PTG renamed PVTG in 2006). **Odisha** (ओडिशा) has the most PVTG communities. **PM-JANMAN** is the main outreach mission.
+1. Scheduled Tribe lists are **state-wise** under **Article 342**. Parliament amends the lists by law. A community listed in one State need not be listed in another.
+2. STs are about **8.6%** of India’s population (Census 2011). Among the largest groups are **Bhil, Gond and Santhal**. **Madhya Pradesh** often leads in absolute ST population.
+3. **Lokur Committee** criteria for ST listing include primitive traits, distinctive culture, geographical isolation, shyness of contact, and economic backwardness.
+4. There are **75 Particularly Vulnerable Tribal Groups (PVTGs)** (Dhebar PTG renamed PVTG in **2006**). **Odisha** has the most PVTG communities. **PM-JANMAN** is the main outreach mission.
 5. PVTG criteria stress pre-agricultural technology, stagnant or declining population, extremely low literacy, and a subsistence economy.
-6. The **Fifth Schedule** (5वीं अनुसूची) covers Scheduled Areas in many States. The **Sixth Schedule** (6वीं अनुसूची) covers autonomous councils in **Assam, Meghalaya (मेघालय), Tripura and Mizoram** only.
-7. State–tribe pairs: **Angami / Rengma = Nagaland**; **Toda / Paliyan = Tamil Nadu (नाडु)**; **Birhor = Jharkhand**; **Khasi (खासी) = Meghalaya** (not Arunachal); **Yanadi = Andhra Pradesh** (not Rajasthan); **Chenchu = Andhra / Telangana**.
-8. **Kuki** is a North-East tribe and is **not** a Uttar Pradesh Scheduled Tribe. **Keria / Kharia** fact to Odisha (also Jharkhand for Kharia). **Bodo = Assam**; **Lepcha = Sikkim**; **Meena = Rajasthan**; **Warli (वारली) = Maharashtra**; **Apatani = Arunachal**.
-9. **Khasi and Garo (गारो)** of Meghalaya are classic **matrilineal** societies.
+6. The **Fifth Schedule** covers Scheduled Areas in many States. The **Sixth Schedule** covers autonomous councils in **Assam, Meghalaya, Tripura and Mizoram** only.
+7. State–tribe pairs: **Angami / Rengma = Nagaland**; **Toda / Paliyan = Tamil Nadu**; **Birhor = Jharkhand**; **Khasi = Meghalaya** (not Arunachal); **Yanadi = Andhra Pradesh**; **Chenchu = Andhra / Telangana**.
+8. **Kuki** is a North-East tribe and is **not** a Uttar Pradesh Scheduled Tribe. **Bodo = Assam**; **Lepcha = Sikkim**; **Meena = Rajasthan**; **Warli = Maharashtra**; **Apatani = Arunachal**.
+9. **Khasi and Garo** of Meghalaya are classic **matrilineal** societies.
 10. Uttar Pradesh has **15** notified ST entries. The classic five are **Tharu, Bhotia, Buksa, Jaunsari and Raji**. UP PVTGs are **Buksa and Raji**.
-11. In Uttar Pradesh, **Tharu** live in the **Terai** (तराई); **Buksa** on the Bijnor fringe; **Saharya** in **Lalitpur**; **Agariya** are linked to **iron smelting** in the Sonbhadra (सोनभद्र)–Mirzapur (मिर्ज़ापुर) belt.
-12. After the 2003 Act, many UP ST notifications are **district-limited**. Two clusters matter: Terai north versus Vindhyan / Sonbhadra south.
-13. Central Indian heartland tribes include **Gond** (गोंड) (with Maria/Muria), **Bhil**, Baiga, Kol, Korku, Sahariya, Halba, Warli and Meena.
-14. Jharkhand core tribes include **Santhal, Munda, Oraon**, Ho, Kharia, Birhor, Bhumij, Asur and **Birjia**. Birjia is **not** an Andaman tribe. Santhali uses the **Ol Chiki** script (लिपि); **Birsa Munda** and the **Hul (हूल) of 1855** are pairs.
-15. **Janjatiya Gaurav Diwas** is observed on **15 November** (Birsa Munda’s birth anniversary).
-16. Andaman **Negrito** natives are Great Andamanese, **Onge**, **Jarawa** and **Sentinelese** (North Sentinel Island). Nicobar (निकोबार) **Mongoloid** groups are Nicobarese and **Shompen** (Great Nicobar PVTG). **Rengma** is not an island tribe.
+11. In Uttar Pradesh, **Tharu** live in the **Terai**; **Buksa** on the Bijnor fringe; **Saharya** in **Lalitpur**; **Agariya** are linked to **iron smelting** in the Sonbhadra–Mirzapur belt.
+12. After the **2003** Act, many UP ST notifications are **district-limited**. Two clusters matter: Terai north versus Vindhyan / Sonbhadra south.
+13. Central Indian heartland tribes include **Gond** (with Maria/Muria), **Bhil**, Baiga, Kol, Korku, Sahariya, Halba, Warli and Meena.
+14. Jharkhand core tribes include **Santhal, Munda, Oraon**, Ho, Kharia, Birhor, Bhumij, Asur and **Birjia**. Birjia is **not** an Andaman tribe.
+15. Santhali uses the **Ol Chiki** script. **Birsa Munda** and the **Hul of 1855** are classic pairs. **Janjatiya Gaurav Diwas** is **15 November** (Birsa’s birth anniversary).
+16. Andaman **Negrito** natives are Great Andamanese, **Onge**, **Jarawa** and **Sentinelese** (North Sentinel Island). Nicobar **Mongoloid** groups are Nicobarese and **Shompen** (Great Nicobar PVTG).
 17. World habitat pairs: **Bushman = Kalahari**; **Eskimo = northern Canada**; **Pygmy = Congo**; **Masai = East Africa** (not West Africa); **Ainu = Japan**; **Punan = Borneo**; Lapps/Sami = Sweden–Finland.
-18. Also: Semang = **Malaysia** (not Indonesia); Bedouin = Arabia; Kirghiz = Central Asia (not Sudan); Maori = New Zealand; Zulu = South Africa; Bantu ≠ Sahara. **Transhumance** = seasonal valley–mountain herding.
-19. Gypsies’ original home = **India**. Africa = cradle of mankind. Cro-Magnon is the most recent among classic fossil-human options.
-20. **Khirghiz** are Central Asian, not Sudanese. **Koryak** live in north-east Siberia, not Alaska.
+18. Also: **Semang = Malaysia** (not Indonesia); Bedouin = Arabia; **Kirghiz = Central Asia** (not Sudan); **Maori = New Zealand**; **Zulu = South Africa**; Bantu ≠ Sahara.
+19. **Transhumance** = seasonal valley–mountain herding. Gypsies’ original home in the usual teaching line = **India**. Cro-Magnon is the most recent among classic fossil-human options.
+20. **Koryak** live in north-east Siberia, not Alaska. **Rengma** is a Nagaland tribe, not an Andaman island tribe.
 21. **IMD** headquarters is New Delhi (**1875**). **ICAR** headquarters is New Delhi (**1929**). **IARI** is at **Pusa, New Delhi** — it is not the apex ICAR council itself.
-22. **FRI** and **ICFRE** are at **Dehradun** (देहरादून). **WII** is also Dehradun but is not the FRI answer. **NDRI** is at **Karnal** (dairy lab). **IVRI** is at **Izatnagar, Bareilly (UP)**. **NDDB** is at **Anand** and ran **Operation Flood** (ऑपरेशन फ्लड) — it is not NDRI.
-23. **IIHR** is at Bengaluru. **CISH** is at Lucknow (लखनऊ). **CSAUAT** is at Kanpur (कानपुर). **Pantnagar** is remembered as the first State Agricultural University tradition.
-24. The **Forest Rights Act** is **2006**. **Adi Karmayogi** (June 2025) is a **Ministry of Tribal Affairs** programme.
-25. Main tribal belts are the North-Eastern hills, the central Indian plateau, western Bhil country, and the Andaman–Nicobar (अंडमान) isolates.
+22. **FRI** and **ICFRE** are at **Dehradun**. **WII** is also Dehradun but is not the FRI answer. **NDRI** is at **Karnal**. **IVRI** is at **Izatnagar, Bareilly (UP)**.
+23. **NDDB** is at **Anand** and ran **Operation Flood** — it is not NDRI. **IIHR** is at Bengaluru. **CISH** is at Lucknow. **CSAUAT** is at Kanpur. **Pantnagar** is the first State Agricultural University tradition.
+24. The **Forest Rights Act** is **2006**. It recognises individual and community forest rights. **Adi Karmayogi** (June 2025) is a **Ministry of Tribal Affairs** programme.
+25. Main tribal belts are the North-Eastern hills, the central Indian plateau, western Bhil country, and the Andaman–Nicobar isolates.
 26. Krishi Vigyan Kendras (KVKs) are the frontline **extension** arms under the ICAR system.
-
----
-27. World habitat extras: **Masai** = East Africa (not West Africa); **Ainu** = Japan; **Punan** = Borneo; Lapps / Sami = Sweden–Finland; **Maori** = New Zealand; **Zulu** = South Africa.
-28. Gypsies’ original home in the usual teaching line = **India**. Transhumance = seasonal valley–mountain herding. Cro-Magnon is the most recent among classic fossil-human options.
+27. **PESA, 1996** extends panchayat provisions to Fifth Schedule areas with special gram-sabha powers over land, minor forest produce and local resources.
+28. **TRIFED** markets tribal products; **Van Dhan Vikas** clusters support value-addition of minor forest produce under MoTA / TRIFED framing.
+29. **Eklavya Model Residential Schools (EMRS)** are the flagship residential schooling network for ST students under the Ministry of Tribal Affairs.
+30. Odisha PVTG names often asked include **Dongria Kondh, Bonda, Juang and Lodha**. Do not park Birjia among Andaman Negrito groups.
+31. **Sentinelese** remain largely isolated on North Sentinel Island; **Jarawa** inhabit the Andaman trunk-road belt — do not treat them as Nicobar Mongoloid groups.
+32. Gond country spans **Madhya Pradesh–Chhattisgarh–Maharashtra–Odisha** belts; Bhil country is strongest in **Rajasthan–Gujarat–MP–Maharashtra**.
+33. **Article 275(1)** grants provide special Central assistance for Scheduled Tribes / Scheduled Areas welfare schemes.
+34. Sixth Schedule autonomous councils (e.g. Bodo / BTC framing) sit only in the four NE States named above — Fifth Schedule States do not get Sixth Schedule councils by default.
+35. **Keria / Kharia** map to **Odisha** (Kharia also Jharkhand). Do not park them as western-desert tribes.
+36. Institute traps: **NDRI = Karnal dairy research**; **NDDB = Anand cooperative board**; **IVRI = Izatnagar veterinary**; **FRI = Dehradun forestry**.
+37. World habitat extras: **Masai = East Africa**; **Ainu = Japan**; **Punan = Borneo**; Lapps / Sami = Sweden–Finland; **Maori = New Zealand**; **Zulu = South Africa**.
+38. **CMFRI** is classically linked to Kochi fisheries research; do not confuse it with FRI Dehradun or IARI Pusa.
+39. Primitive traits + isolation + distinctive culture remain the Lokur spine; economic backwardness alone does **not** make a community ST.
+40. UP ST desk: **15** entries, classic five, PVTGs **Buksa + Raji**, Tharu–Terai / Saharya–Lalitpur / Agariya–iron — keep district-limited notifications after 2003 in mind.
+41. Andaman Negrito set = Great Andamanese, Onge, Jarawa, Sentinelese; Nicobar Mongoloid set = Nicobarese + **Shompen** — **Rengma** is never in either island set.
+42. IMD’s **150-year** anniversary note still keeps headquarters at **New Delhi**; do not move IMD HQ to Pune or Lucknow in institute stems.
+43. **Ministry of Tribal Affairs** (not Social Justice / AYUSH) is the nodal ministry for PM-JANMAN and Adi Karmayogi framing.
+44. Santhal **Hul (1855)** and Birsa’s anti-colonial resistance are separate Jharkhand identity anchors — Janjatiya Gaurav Diwas marks Birsa’s birth, not the Hul date.
+45. Matriliny fact: Khasi–Garo of Meghalaya; do not extend that tag blindly to all North-East tribes.
 
 </details>
 

@@ -15,46 +15,52 @@ hide:
 
 1. Ancient Indian names: **Urvara** = fertile and **Usara** = sterile. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock, and Time (**CLORPT**).
 2. **Edaphic** means a **soil** factor — not climate, biotic, or topography. Residual / sedentary soils form on bedrock (regur, red). Transported / azonal soils are the alluvium of the plains.
-3. World zonal pairs: **Podzol** = cold temperate woods; **Chernozem** = temperate steppe; **Laterite** = hot humid; **Terra Rossa** = limestone/dolomite weathering; **Sierozem** = mid-latitude desert.
-4. Capillary action strongest in **clay** (Clay > silt/loam > sand). Halophytes = saline soils. Contour bunding = **hill slopes**, not desert margins or flood plains.
+3. World zonal pairs: **Podzol** = cold temperate woods; **Chernozem** = temperate steppe; **Laterite** = hot humid; **Terra Rossa** = limestone/dolomite weathering; **Sierozem** = mid-latitude desert. **Terra Roxa** = Brazil’s basaltic coffee soil (not Indian regur).
+4. Capillary action is strongest in **clay** (Clay > silt/loam > sand). Halophytes live on saline soils. Contour bunding belongs on **hill slopes**, not desert margins or flood plains.
 5. Profile downward is **O → A (topsoil) → E → B → C → R**. **Eluviation** washes material **out** of A/E; **illuviation** deposits it **into B**. Young khadar has weak horizons; mature residual soils show clear horizons.
-6. The usual eight-type teaching set is Alluvial, Black / Regur, Red & Yellow, Laterite, Arid, Saline / Usara, Peaty, and Forest / Mountain.
-7. Parent material pairs: crystalline rock → red; Cuddapah–Vindhyan → calcareous / clay; Gondwana → immature poor; Deccan Trap → regur; extra-peninsular sediment → alluvium. Climate can override rock — granite becomes laterite if wet, or sandy if arid.
-8. **Pedocal** soils accumulate lime in arid tracts such as Rajasthan. Himalayan soils develop better on gentler **north-facing** slopes; many south faces are too steep.
-9. **Alluvial** is India’s **largest** soil group (about **33.5%–40%**, covering ~11 lakh sq km). It is rich in potash, lime, and phosphoric acid, but **poor in phosphorus, nitrogen, and humus**. Uttar Pradesh is about **90%** alluvial.
-10. **Khadar** is new, fine, and fertile. **Bangar** is older, coarser, and has **more kankar**. **Bhur** is sandy ridges of the western Gangetic belt. **Rarh** is older West Bengal / Jharkhand fringe upland.
+6. The usual eight-type teaching set is Alluvial, Black / Regur, Red & Yellow, Laterite, Arid / Desert, Saline / Usara, Peaty / Marshy, and Forest / Mountain.
+7. Parent-material pairs: crystalline rock → red; Cuddapah–Vindhyan → calcareous / clay; Gondwana → immature poor; Deccan Trap → regur; extra-peninsular sediment → alluvium. Climate can override rock — granite becomes laterite if wet, or sandy if arid.
+8. **Pedocal** soils accumulate lime in arid tracts such as Rajasthan. Himalayan soils develop better on gentler **north-facing** slopes; many south faces are too steep for deep profiles.
+9. **Alluvial** is India’s **largest** soil group (about **33.5%–40%**, covering ~11 lakh sq km). It is rich in potash and lime but **poor in phosphorus, nitrogen, and humus** (NCERT). Uttar Pradesh is about **90%** alluvial.
+10. **Khadar** is new, fine, and fertile. **Bangar / Bhangar** is older, coarser, and has **more kankar**. **Bhur** is sandy ridges of the western Gangetic belt. **Rarh** is older West Bengal / Jharkhand fringe upland.
 11. **Bhabar** (about 8–16 km) is pebble fans where streams **disappear**. **Tarai** (about 15–30 km) lies south, where streams **re-emerge**; it is moist and nitrogen-rich but phosphorus-poor.
-12. **Black / regur** soils sit mainly on Deccan and Rajmahal Trap (fissure volcanic basalt); Tamil Nadu black may sit on gneiss / schist. Clay is often **≥62%**, montmorillonite is the key clay, and cotton is the crop. Aliases: Tropical Black Earth / Tropical Chernozem. Black soil is **not** Himalayan.
-13. Black soil area is about **16.6% / ~5.46 lakh km²**. High moisture retention capacity, sticky when wet, shrinks and develops wide cracks when dry resulting in **"self-ploughing"**. Lacks nitrogen, phosphorus, and organic matter (humus).
-14. **Red / yellow** soils form on ancient crystalline and metamorphic rocks (granite, gneiss). Colour comes from **ferric oxides** / iron diffusion; looks yellow in hydrated form. Covers ~**8.7 lakh sq km**.
-15. **Laterite** was named by **F. Buchanan in 1807** from Latin *later* (brick). Formed under high temperature and heavy rainfall with alternate wet and dry periods (intense leaching). **Rich in iron and aluminium oxides**, poor in nitrogen, lime, phosphorus, and humus. Most widespread in **Kerala (Malabar coast)** followed by Maharashtra.
-16. **Desert / arid** soils cover ~29 million ha. Western Rajasthan soils have high **calcium content** (alkaline/saline with calcareous kankar base).
-17. **Saline / usara** soils carry sodium, potassium, and magnesium salts. **Gujarat** has the largest saline soil area in India; **Uttar Pradesh** has the largest area of alkaline / sodic wastelands (~2,129 sq km).
-18. **Peaty / kari** soils of Kerala (Kottayam–Alappuzha / Kuttanad), plus Sundarbans and north Bihar pockets, grow paddy after rains. Their black colour is **not** Deccan cotton regur.
-19. **Forest / mountain** soils cover about **8.67%**. Himalayan soils lack humus due to steep slopes and slow decomposition despite dense forest cover.
-20. **Karewa** soils are Kashmir **lacustrine** deposits embedded with moraines, famous for **Zafran (saffron)**, almond, and walnut.
-21. Texture: sand drains, clay holds, loam is best for crops. Clay particles are smaller than **0.002 mm**; silt is **0.002 to 0.06 mm**; fine sand is **0.06 to 2.0 mm**.
-22. **Micronutrient deficiency**: Among copper, iron, manganese, and zinc, **Zinc (Zn)** is the most deficient micronutrient across Indian soils.
-23. Water erosion ladder: **Splash (Raindrop) → Sheet → Rill → Gully → Stream Channel / Ravine**. Gully erosion is responsible for the famous **Chambal Ravines** (badlands), severely affecting **Morena, Bhind, Gwalior, and Shivpuri** in Madhya Pradesh.
-24. **Farmland erosion dynamics**: Farmland erodes most rapidly when planted with row crops like **Sorghum (Jowar)**, while cover crops like **Clover** cause minimum soil erosion.
-25. **Soil fertility vs crop yield**: Methods like crop rotation, mixed cropping, and multiple cropping replenish soil fertility. **Seed modification** improves crop production/yield but does **not** increase soil fertility.
-26. **Agricultural water conservation**: 1. Reduced/zero tillage (prevents moisture loss), 2. Gypsum application (dissolves clay-salt hardpan, enhancing water percolation), 3. Retaining crop residues/mulch (drastically cuts evaporation).
-27. **Usar Soil Reclamation**: Usar soils have **pH > 7**, lack bacteria, nitrogen, and zinc. Reclaimed by **Gypsum (CaSO4·2H2O)**, pyrites, and green manure (NOT lime). Supports tolerant paddy varieties: **Narendra Shankar Usar Paddy-1 and Usar Paddy-2**.
-28. **Soil Acidity & Liming**: Optimal soil pH for crop cultivation is **6.0 to 7.0**. Acidic soils (leached of bases in heavy rainfall areas) are treated with **agricultural lime (CaCO3 / CaO)**.
-29. **Tea soil requirements**: Tea thrives best in **slightly acidic, calcium-free soils** with steep slope drainage (intolerant of waterlogging).
-30. **Alluvial sand gradient**: Sand content of alluvial soil **decreases from west to east** across the Indo-Gangetic Plain.
-31. **Loamy soil balance**: Standard loam consists of approximately **40% sand, 40% clay, and 20% silt**.
-32. **Water retention extremes**: Minimum water retention = **Alluvial sand / sandy soil**; Maximum water retention = **Clay soil**.
-33. **Leguminous nitrogen fixation**: Crops like Pea, Soybeans, Alfalfa, Lupins, Peanuts, and **Black Gram (Urd)** fix atmospheric nitrogen via root nodules and restore soil fertility.
-34. **Laterite vertical chemical gradient**: In laterite soils, the **upper horizons are more acidic** than the inner/lower horizons.
-35. **Excess Iron infertility**: Lateritic soils are rendered relatively infertile by excessive concentrations of iron oxides.
-36. **Old Kachhari Clay**: The older alluvium of the Gangetic plain deposited away from flood zones is called **Bhangar** (contains calcareous kankar nodules).
-37. **Matasi Soil (Chhattisgarh)**: Red-yellow soil covering **55%–60% of Chhattisgarh**; high in iron oxide; red from ferrous oxide, yellow from ferric oxide; prime soil for paddy.
-38. **Soil Leaching Hotspots**: Soil leaching is most severe in **tropical rainforests / high-rainfall monsoon tracts** (Western Ghats, Meghalaya).
-39. **Net Sown Area Comparison**: West Bengal has ~60% net sown area, whereas Andhra Pradesh has ~40% (dominated by red and alluvial soils, not laterite).
-40. **Mitti Bachao Movement**: Started at **Hoshangabad (Narmadapuram), Madhya Pradesh**. World Soil Day is celebrated on **5 December**.
-41. **UP Local Soil Names**: Bundelkhand black = **Mar / Kabar**; Bundelkhand red = **Parua / Rakar**; Vindhyan = **Bhonta / Monta**; Alkaline canal tracts = **Usar / Reh / Kallar / Thur**.
-42. **Saline vs Sodic**: Saline soils have high soluble salts; sodic/alkali soils have high exchangeable sodium and pH > 7. Gypsum treats sodic/alkali; lime treats acidic soil.
+12. **Black / regur** sits mainly on Deccan and Rajmahal Trap basalt; Tamil Nadu black may sit on gneiss / schist. Clay is often **≥62%**, montmorillonite is the key clay, and cotton is the crop. Black soil is **not** Himalayan.
+13. Black soil area is about **16.6% / ~5.46 lakh km²**. It holds moisture well, sticks when wet, and cracks when dry (**self-ploughing**). It lacks nitrogen, phosphorus, and humus.
+14. **Red / yellow** soils form on ancient crystalline and metamorphic rocks. Colour comes from **ferric oxides**; hydrated form looks yellow. Coverage is about **8.7 lakh sq km**.
+15. **Laterite** was named by **F. Buchanan (1807)** from Latin *later* (brick). Hot-wet leaching leaves soils **rich in Fe and Al oxides** but poor in N, lime, P, and humus. Most widespread in **Kerala (Malabar)**, then Maharashtra.
+16. Laterite crops classically include **cashew, tapioca, tea, and coffee** on well-drained slopes — not default cotton (cotton = black / regur).
+17. **Desert / arid** soils cover about **29 million ha**. Western Rajasthan soils are often alkaline/saline with a calcareous **kankar** base and high calcium.
+18. **Saline / usara** soils carry sodium, potassium, and magnesium salts. **Gujarat** has the largest saline soil area; **Uttar Pradesh** has the largest alkaline / sodic wasteland area (~2,129 sq km).
+19. **Peaty / kari** soils of Kerala (Kottayam–Alappuzha / Kuttanad), plus Sundarbans and north Bihar pockets, grow paddy after rains. Their black colour is **not** Deccan cotton regur.
+20. **Forest / mountain** soils cover about **8.67%**. Steep Himalayan slopes often lack deep humus despite forest cover because of erosion and slow accumulation.
+21. **Karewa** soils are Kashmir **lacustrine** deposits with moraines, famous for **saffron (zafran)**, almond, and walnut — not ordinary Gangetic alluvium.
+22. Texture: sand drains, clay holds, loam is best for crops. Clay particles are smaller than **0.002 mm**; silt is **0.002–0.06 mm**; sand is about **0.06–2.0 mm**.
+23. Among copper, iron, manganese, and zinc, **zinc (Zn)** is the most deficient micronutrient across Indian soils.
+24. Water-erosion ladder: **Splash (raindrop) → Sheet → Rill → Gully → Ravine / stream channel**. **Chambal** ravines (badlands) hit Morena, Bhind, Gwalior, and Shivpuri hardest.
+25. Farmland often erodes fastest under row crops such as **sorghum (jowar)**; cover crops such as **clover** keep erosion lowest among common options.
+26. Crop rotation, mixed cropping, and multiple cropping replenish fertility. **Seed modification** raises yield / pest resistance but does **not** raise soil fertility by itself.
+27. Agricultural water tricks: reduced / zero tillage, gypsum on clay–salt hardpans, and residue / mulch to cut evaporation.
+28. Usar / sodic soils have **pH > 7** and need **gypsum (CaSO₄·2H₂O)**, pyrites, or green manure — **not lime**. Tolerant paddy lines include Narendra Usar Paddy–1 and –2.
+29. Optimal crop pH is about **6.0–7.0**. Acid soils of heavy-rain tracts are treated with **agricultural lime (CaCO₃ / CaO)**. Tea prefers **slightly acidic, calcium-poor**, well-drained slopes.
+30. Sand content of Indo-Gangetic alluvium **decreases from west to east**. Minimum water retention = sandy alluvium; maximum = **clay**.
+31. Standard loam is about **40% sand, 40% silt/clay mix teaching**, and **20%** silt in many coaching ratios — loam = balanced texture for crops.
+32. Legumes (pea, soybean, alfalfa, black gram / urd) fix atmospheric nitrogen via root nodules and restore fertility.
+33. In laterite profiles the **upper horizons are more acidic** than lower ones; excess iron oxides also cut fertility.
+34. **Matasi** of Chhattisgarh is red–yellow soil covering about **55–60%** of the state and is prime for paddy; **Kanhar** is the lower black clay — do not swap.
+35. Soil leaching is most severe in **tropical rainforest / high-rainfall monsoon** tracts (Western Ghats, Meghalaya).
+36. West Bengal has about **60%** net sown area; Andhra Pradesh is near **40%** — do not invent laterite as Andhra’s sole soil.
+37. **Mitti Bachao** began at **Hoshangabad (Narmadapuram), Madhya Pradesh**. **World Soil Day** is **5 December** (not 5 June).
+38. UP local names: Bundelkhand black = **Mar / Kabar**; Bundelkhand red = **Parua / Rakar**; Vindhyan = **Bhonta / Monta**; alkaline canal tracts = **Usar / Reh / Kallar / Thur**.
+39. Saline soils = high soluble salts; sodic / alkali = high exchangeable sodium and high pH. **Gypsum** treats sodic; **lime** treats acid — never swap the remedies.
+40. Wind erosion control uses **shelter belts / windbreaks**; gully control uses **check dams / bunds**. Contour ploughing and terracing cut slope wash.
+41. Soil Health Card launched **19 Feb 2015** at **Suratgarh (Rajasthan)** with slogan *Swasth Dharaa, Khet Haraa*. Card reports **12 parameters**. By Jul 2025, **>25 crore** cards had been issued; the scheme now sits under RKVY as **Soil Health and Fertility**.
+42. Acid soils concentrate in the North-East, Western Ghats, Kerala, and other heavy-leaching belts; arid pedocals concentrate lime in the west.
+43. **Doab** belts of the plains are classically alluvial; Bundelkhand mixes red and black; the Tarai is a moist rice–sugarcane fringe south of Bhabar.
+44. Sheet erosion removes a thin uniform layer; rill cuts small channels; gully is the deep stage that creates ravines — do not start the ladder at gully alone.
+45. **ICAR / teaching problem-soil set** pairs saline, alkaline / sodic, and acidic soils as reclaimable classes with distinct chemistry and remedies.
+46. Alluvial soils of the plains support rice–wheat systems where irrigation exists; black soils favour cotton–jowar–soy; red soils need fertiliser for millets and pulses.
+47. Laterite can harden into a brick-like crust when exposed; the name itself points to that brick-making use in humid tropics.
+48. Conservation package for slopes: contour bunding + terracing + cover crops + check dams; for dunes / arid wind: shelter belts and mulching — match method to agent (water vs wind).
 
 
 ---
@@ -127,207 +133,51 @@ hide:
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
 **Q1.**
-With reference to Brazil, which of the following statements is/are correct?
+With reference to soil science terms, which of the following pairs is/are correctly matched?
 
-1. The equatorial rainforests of Brazil are called "Selva".
-2. The fertile dark-coloured soil found there is known as "Terra Roxa".
+1. Edaphic — soil factor
+2. Urvara — sterile soil (ancient Indian usage)
+3. CLORPT — Jenny’s five soil-forming factors
 
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
+A. Only 1
+B. 1 and 3
+C. 2 and 3
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Majority keys treat both as correct. Selva = Brazilian rainforests; Terra Roxa = fertile basaltic coffee soil.
+**Ans: B.** Statements 1 and 3 are correct.
+
+**Logic:** Ancient **Urvara** = fertile; **Usara** = sterile. Statement 2 reverses the pair.
+
 </details>
 
 **Q2.**
-With reference to earthworms, which of the following statements is/are correct?
+Arrange the following soil horizons from the surface downward:
 
-1. Earthworms increase soil fertility and are known as friends of farmers.
-2. Earthworms have two pairs of hearts.
+1. B horizon
+2. A horizon
+3. C horizon
+4. O horizon
 
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
+A. 4-2-1-3
+B. 2-4-1-3
+C. 4-1-2-3
+D. 2-1-4-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Only statement 1 is correct. Earthworms aid fertility ("friends of farmers"); they have five pairs of aortic arches (hearts), not two.
+**Ans: A.** Order is **O → A → B → C** (then R).
+
+**Logic:** Trap is starting at A and skipping the organic O horizon.
+
 </details>
 
 **Q3.**
-Which of the following statements is correct about Laterite Soil?
-
-1. This soil is developed in areas with high temperature and heavy rainfall.
-2. It is poor in iron oxide and aluminium.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Laterite is **rich** in Fe/Al oxides; statement 2 is false.
-</details>
-
-**Q4.**
-Match List-I with List-II and select the correct answer from the code given below.
-| List-I (Day) | List-II (Event) |
-|---|---|
-| A. April 18 | 1. International Tiger Day |
-| B. May 22 | 2. World Heritage Day |
-| C. July 29 | 3. World Soil Day |
-| D. December 5 | 4. International Day of Biodiversity |
-
-A. 4, 3, 2, 1
-
-B. 1, 2, 3, 4
-
-C. 2, 4, 1, 3
-
-D. 3, 2, 1, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — April 18 = World Heritage Day (2); May 22 = Biodiversity (4); July 29 = Tiger Day (1); **5 December = World Soil Day (3)** → code **2, 4, 1, 3**.
-</details>
-
-**Q5.**
-Where was the Mitti Bachao (Save the Soil) Movement started in India?
-
-A. Thane, Maharashtra
-
-B. Mysore, Karnataka
-
-C. Darbhanga, Bihar
-
-D. Hoshangabad, Madhya Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Hoshangabad (Narmadapuram), Madhya Pradesh.
-</details>
-
-**Q6.**
-Which of the following statements is NOT correct?
-
-A. Black soil is locally called 'regur'
-
-B. According to Krabs the regur soil is essentially a mature soil
-
-C. Black soils are highly retentive to moisture
-
-D. Black soil is found in Himalayan region
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Black/regur soils belong to the Deccan Trap region, not the Himalaya.
-</details>
-
-**Q7.**
-Which of the following is concerned with soil?
-
-A. Edaphic
-
-B. Climatic
-
-C. Biotic
-
-D. Topography
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Edaphic = soil-related environmental factor.
-</details>
-
-**Q8.** With reference to soil science basics, which of the following statements is/are correct?
-
-1. Edaphic means a climatic factor.
-2. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock and Time (CLORPT).
-3. Urvara meant sterile and Usara meant fertile in ancient Indian usage.
-
-A. Only 2
-B. Only 2 and 3
-C. Only 1
-D. Only 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Edaphic means a soil factor, not climate. Urvara meant fertile and Usara sterile — do not reverse the pair.
-
-</details>
-
-**Q9.** Arrange the soil profile horizons downward:
-
-1. B
-2. O
-3. A
-4. C
-5. E
-6. R
-
-A. 3–2–5–1–4–6
-B. 2–3–1–5–4–6
-C. 2–3–5–1–4–6
-D. 2–5–3–1–4–6
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** O → A → E → B → C → R.
-
-**Logic:** Eluviation washes out of A/E; illuviation deposits into B.
-
-</details>
-
-**Q10.** Which of the following pairs is/are NOT correctly matched?
-
-1. Alluvial — India’s largest soil group (~40%)
-2. Red soil — India’s largest soil group
-3. Uttar Pradesh — about 90% alluvial
-
-A. 1 only
-B. 2 only
-C. 1 and 3 only
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Pair 2 is wrong.
-
-**Logic:** Do not crown red as the largest group.
-
-</details>
-
-**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Khadar is newer, finer and more fertile than Bangar.
-
-Reason (R): Bangar is older alluvium with more kankar.
+Assertion (A): Black cotton soil is typically associated with the Deccan Trap.
+Reason (R): Black soil is the dominant residual soil of the Himalayan slopes.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -337,92 +187,328 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true and R explains why Bangar differs from Khadar.
+**Ans: C.** (A) is true; (R) is false.
 
-**A/R logic:** Do not claim Khadar has more kankar.
-
-</details>
-
-**Q12.** Match List-I with List-II:
-
-| List-I | List-II |
-|---|---|
-| A. Bhabar | 1. Streams re-emerge; moist belt |
-| B. Tarai | 2. Pebble fans; streams disappear |
-| C. Black / regur | 3. Deccan Trap cotton soil |
-| D. Laterite | 4. Hot-wet leached Fe/Al soil |
-
-*Row order is not the answer code.*
-
-Code:
-
-A. A-2, B-3, C-1, D-4
-B. A-1, B-2, C-3, D-4
-C. A-2, B-1, C-3, D-4
-D. A-3, B-1, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Bhabar=sink; Tarai=re-emerge; regur=Trap; laterite=leached Fe/Al.
-
-**Logic:** Bhabar is not the best rice soil; laterite ≠ every red soil.
+**A/R logic:** Regur forms mainly on Deccan / Rajmahal Trap basalt. Himalaya is **not** a black-soil province.
 
 </details>
 
-**Q13.** With reference to black soil, which of the following statements is/are correct?
+**Q4.**
+With reference to alluvial soils of India, which of the following statements is/are correct?
 
-1. Black soil is typically Himalayan in origin.
-2. It sits mainly on Deccan and Rajmahal Trap; montmorillonite is key clay.
-3. Black soil area is about 46 lakh km² across the Himalayan foothills only.
+1. Alluvial soil is the largest soil group of India.
+2. Khadar is older alluvium with more kankar than bangar.
+3. Uttar Pradesh is predominantly alluvial.
 
 A. 1 and 2
-B. Only 2
-C. Only 3
+B. 1 and 3
+C. Only 2
 D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 2 is correct.
+**Ans: B.** Statements 1 and 3 are correct.
 
-**Logic:** Regur sits mainly on Deccan and Rajmahal Trap with montmorillonite clay. Area is about 16.6% / ~5.46 lakh km², not Himalayan.
+**Logic:** **Khadar** is new/fine; **bangar** is older with more kankar. Statement 2 swaps them.
 
 </details>
 
-**Q14.** Which one of the following is correctly matched?
+**Q5.**
+Laterite soils in India are generally:
 
-A. Laterite — poor in iron and aluminium
-B. Laterite — rich in iron and aluminium; cashew/tapioca belt on Western Ghats
-C. Laterite — default cotton soil of Deccan
-D. Laterite — dominant soil of Rajasthan plains
+A. Rich in nitrogen and humus but poor in iron
+B. Rich in iron and aluminium oxides but poor in nitrogen and humus
+C. Formed mainly under arid pedocal conditions
+D. The default cotton soil of the Deccan
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Laterite is Fe/Al rich on hot-wet rhythm; cotton default is black soil.
+**Ans: B.** Laterite is leached Fe/Al-rich and nutrient-poor.
 
-**Logic:** Named by Buchanan 1807 from later (brick).
+**Logic:** Cotton default is black / regur. Pedocal is arid lime accumulation, not laterite.
 
 </details>
 
-**Q15.** With reference to saline/sodic remedies, which of the following statements is/are correct?
+**Q6.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
 
-1. Gypsum is used for alkali/sodic/usar soils.
-2. Lime is the standard remedy for usar / alkali soils.
-3. Lime is the standard remedy for usar.
+| List-I (Feature) | List-II (Association) |
+|---|---|
+| 1. Bhabar | A. Streams re-emerge; moist belt |
+| 2. Tarai | B. Pebble fans; streams disappear |
+| 3. Karewa | C. Kashmir lacustrine; saffron |
+| 4. Kari | D. Kerala peaty / marshy soil |
 
-A. Only 1 and 2
+A. 1-B, 2-A, 3-C, 4-D
+B. 1-A, 2-B, 3-C, 4-D
+C. 1-B, 2-A, 3-D, 4-C
+D. 1-C, 2-A, 3-B, 4-D
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bhabar = vanish; Tarai = re-emerge; Karewa = Kashmir saffron; Kari = Kerala peat.
+
+**Logic:** Row order is not the answer code. Trap is swapping Bhabar/Tarai or calling kari Deccan black.
+
+</details>
+
+**Q7.**
+Which one of the following is the correct first stage of the water-erosion ladder taught for Indian soils?
+
+A. Sheet erosion
+B. Rill erosion
+C. Splash (raindrop) erosion
+D. Gully erosion
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Splash / raindrop impact is the first stage.
+
+**Logic:** Sheet → rill → gully follow splash. Many stems wrongly start at sheet.
+
+</details>
+
+**Q8.**
+Assertion (A): Gypsum is commonly used to reclaim usar / sodic soils.
+Reason (R): Lime is the standard amendment for alkaline soils with pH above 7.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true; (R) is false.
+
+**A/R logic:** Gypsum treats sodic / usar. **Lime** treats **acid** soils, not alkali.
+
+</details>
+
+**Q9.**
+Among Cu, Fe, Mn and Zn, the micronutrient most commonly deficient in Indian soils is:
+
+A. Copper
+B. Iron
+C. Manganese
+D. Zinc
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Zinc is the most widespread micronutrient deficiency.
+
+**Logic:** Iron deficiency appears in places, but Zn is the standard “most deficient” teaching line.
+
+</details>
+
+**Q10.**
+With reference to soil conservation methods, which of the following pairs is/are correctly matched?
+
+1. Shelter belt — wind erosion / dunes
+2. Check dam — gully control
+3. Contour bunding — desert sand seas as the default site
+
+A. 1 and 2
 B. Only 3
 C. 2 and 3
-D. Only 1
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 is correct.
+**Ans: A.** Statements 1 and 2 are correct.
 
-**Logic:** Gypsum is used for alkali/sodic/usar soils. Lime is for acid soils — do not put lime on usar.
+**Logic:** Contour bunding belongs on **hill slopes**, not desert sand seas.
 
 </details>
 
+**Q11.**
+World Soil Day is observed on:
+
+A. 5 June
+B. 5 December
+C. 22 April
+D. 16 September
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** World Soil Day is **5 December**.
+
+**Logic:** 5 June is World Environment Day — the classic date swap.
+
+</details>
+
+**Q12.**
+Which of the following statements about black / regur soil is/are correct?
+
+1. It shows wide cracks in the dry season (self-ploughing).
+2. Montmorillonite is an important clay mineral in it.
+3. It is characteristically rich in nitrogen and humus.
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Regur is **poor** in N, P and humus despite high moisture retention.
+
+</details>
+
+**Q13.**
+Consider the following pairs:
+
+1. Mar / Kabar — Bundelkhand black soil
+2. Parua / Rakar — Bundelkhand red soil
+3. Matasi — Chhattisgarh black clay of lowlands
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pairs 1 and 2 are correct.
+
+**Logic:** **Matasi** is Chhattisgarh **red–yellow**; **Kanhar** is the lower black clay.
+
+</details>
+
+**Q14.**
+Soil Health Card was launched in 2015 from which place?
+
+A. Suratgarh, Rajasthan
+B. Hoshangabad, Madhya Pradesh
+C. Pantnagar, Uttarakhand
+D. Ludhiana, Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Launch place is **Suratgarh (Rajasthan)**; slogan *Swasth Dharaa, Khet Haraa*.
+
+**Logic:** Hoshangabad is the **Mitti Bachao** place, not SHC launch.
+
+</details>
+
+**Q15.**
+With reference to saline and sodic soils, which of the following is correct?
+
+A. Gujarat leads alkali / sodic wasteland area; UP leads saline area
+B. Gujarat leads saline area; UP leads alkali / sodic wasteland area
+C. Both saline and sodic leadership belong to Rajasthan alone
+D. Lime is the first remedy for both saline and sodic soils
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Gujarat = saline area lead; UP = alkali / sodic wasteland lead.
+
+**Logic:** Remedies differ — gypsum for sodic, drainage/leaching logic for salts; lime is for acid soils.
+
+</details>
+
+**Q16.**
+Assertion (A): Capillary rise of water is generally strongest in clay soils.
+Reason (R): Clay particles create finer pores than sand.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both are true and R explains A.
+
+**A/R logic:** Finer pores in clay strengthen capillary action versus sand.
+
+</details>
+
+**Q17.**
+Which one of the following soils is correctly paired with its famous crop / product?
+
+A. Karewa — cotton of Deccan
+B. Laterite — cashew / tapioca on humid slopes
+C. Peaty kari — wheat of Punjab
+D. Desert soil — tea of Assam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Laterite slopes suit cashew, tapioca, tea and coffee.
+
+**Logic:** Karewa = saffron; kari = Kerala paddy marshes; tea is not a desert-soil crop.
+
+</details>
+
+**Q18.**
+Eluviation and illuviation are correctly distinguished as:
+
+A. Eluviation deposits into B; illuviation washes out of A/E
+B. Eluviation washes out of A/E; illuviation deposits into B
+C. Both mean the same horizon-building process
+D. Both occur only in desert pedocals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** E = wash **out**; I = deposit **in B**.
+
+**Logic:** Letter cue: E-luviation = exit; Il-luviation = into.
+
+</details>
+
+**Q19.**
+Chambal ravines are mainly the product of which stage of water erosion?
+
+A. Splash only
+B. Sheet only
+C. Gully / ravine stage
+D. Wind abrasion alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chambal badlands are the deep **gully / ravine** stage.
+
+**Logic:** Splash and sheet are earlier; wind is not the Chambal teaching agent.
+
+</details>
+
+**Q20.**
+Consider the following statements:
+
+1. Pedocal soils accumulate lime in arid tracts.
+2. Seed modification is a standard method to raise soil fertility.
+3. World Soil Day is celebrated on 5 December.
+
+A. 1 and 2
+B. 1 and 3
+C. Only 2
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 3 are correct.
+
+**Logic:** Seed modification raises yield / resistance, **not** soil fertility by itself.
+
+</details>

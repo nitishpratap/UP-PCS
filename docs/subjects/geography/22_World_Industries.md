@@ -25,27 +25,53 @@ None mandatory.
 
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 25 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. City–industry pairs: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
-2. **Akron** = tyres; **Toulouse** = Airbus; **Silicon Valley** (California) = electronics / IT — not Detroit.
-3. **Igarka** is in **Russia** (Yenisei timber), not China. **Rotterdam** is in the **Netherlands**. **Montevideo** is Uruguay. **Jakarta** is Indonesia.
-4. **Duisburg** is an inland Rhine port, not a Dutch sea mouth. **Entrepôt** classics = Singapore, Rotterdam, Hong Kong. Break-of-bulk points concentrate at ports.
-5. The **Suez Canal** joins the **Mediterranean** and **Red Sea** and cut India–Europe distance by about **7000 km**. It is a **sea-level** cut (no stepped chambers). Lakes north to south: **Manzala → Timsah → Great Bitter → Little Bitter**.
-6. Port Said is at the **north** end of Suez; Suez town is at the **south**.
-7. **Panama** joins Atlantic / Caribbean and Pacific **with stepped chambers** and **Gatun Lake**. **Kiel** joins the North Sea and Baltic.
-8. Location logics: **weight-losing** industries (steel) sit near ore / coking coal; **market-oriented** (bottling) sit near consumers; **aluminium** seeks cheap **hydel**; **footloose** example = electronics / software; oil refining often seeks the port or pipeline end.
-9. Soft location teaching still turns on raw material, power, labour, market and transport — not a single “any city works” rule.
-10. **Ruhr** = Germany heavy industry. **Lancashire** = cotton. **Yorkshire** = wool. **Pittsburgh–Great Lakes** = steel. **Detroit** = autos.
-11. Italy’s industrial triangle is the **Po Basin / Milan–Turin–Genoa** belt.
-12. Japan belts: **Keihin** = Tokyo–Yokohama; **Hanshin** = Osaka–Kobe; **Chukyo** = Nagoya autos. Nicknames: Osaka = Manchester of Japan; Nagoya = Detroit of Japan; Kawasaki = Pittsburgh of Japan; Ivanovo = Russian Manchester.
-13. China’s classic coastal manufacturing belt in this chapter = **Pearl River Delta**. Shanghai leads container volume among common port MCQs; Rotterdam sits at the Rhine mouth.
-14. Shipbuilding volume leaders are **China–South Korea–Japan**. St Petersburg remains the classic European city match.
-15. Textiles often seek labour and market; steel is the classic weight-losing case.
-16. **Chinook** is a warm dry wind of the Rockies; **Foehn** is the Alps equivalent. Both can be true together.
-17. **Mistral** = southern France (**not** Australia). **Shamal** = Arabia (**not** Austria). **Brickfielder** = Australia.
-18. A **willy-willy** is a cyclone name, not a local wind.
-19. More wind pairs: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** = Adriatic cold; **Harmattan** = West Africa; **Sirocco** = Sahara→Med; **Khamsin** = Egypt.
+1. **Weight-losing** industries (iron–steel, sugar, timber) sit near bulky raw materials. **Weight-gaining** industries (bottling, brewing) sit near the **market**.
+2. **Aluminium** and electro-chemicals seek cheap **hydel**. **Oil refining** often sits at a port or pipeline end. **Cement** follows bulky limestone.
+3. **Footloose** industries (electronics, software, diamond cutting) are light and high-value — not tied to a coalfield. **Silicon Valley** (California) = electronics / IT, not Detroit.
+4. Classic location factors are raw material, power, labour, market, transport, agglomeration and government/SEZ — not “any city works.”
+5. City–industry pairs: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
+6. **Akron** = tyres / rubber (USA). **Toulouse** = Airbus. **Seattle** = Boeing. **Hollywood / Los Angeles** = films. Swiss Jura = watches.
+7. Japan nicknames: **Osaka** = Manchester of Japan (cotton); **Nagoya** = Detroit of Japan (autos); **Kawasaki** = Pittsburgh of Japan (steel). **Ivanovo** = Russian Manchester.
+8. Japan belts: **Keihin** = Tokyo–Yokohama; **Hanshin** = Osaka–Kobe; **Chukyo** = Nagoya autos.
+9. **Ruhr** (Germany) = coal, steel, heavy engineering (Essen–Dortmund–Duisburg). **Lancashire** = cotton; **Yorkshire** = wool.
+10. **Pittsburgh–Great Lakes** = steel (Mesabi ore + Appalachian coal story). **Detroit** = automobiles and parts agglomeration.
+11. Italy’s industrial triangle is the **Po Basin / Milan–Turin–Genoa** belt. **Wolfsburg** and **Turin** are classic auto centres.
+12. China’s classic coastal manufacturing story includes the **Pearl River Delta**; **Shanghai** leads common container-port MCQs. Shipbuilding volume leaders = **China–South Korea–Japan**.
+13. Europe coal–steel belt tags: **Saar**, **Lorraine** (France iron/steel), **Sambre–Meuse** (Belgium), **Upper Silesia** (Poland), **Randstad** (Netherlands port + manufacturing).
+14. **Aberdeen** = oil capital of Europe. Japan’s steel is largely **port / market-based** because ore and coal are imported.
+15. **Igarka** is in **Russia** (Yenisei timber), not China. **Rotterdam** is in the **Netherlands**. **Montevideo** = Uruguay. **Jakarta** = Indonesia.
+16. **Duisburg** is an inland **Rhine** port in **Germany**, not a Dutch sea mouth. Break-of-bulk points concentrate at ports and lake/rail junctions.
+17. **Entrepôt** classics = **Singapore, Rotterdam, Hong Kong** — import, store/sort, re-export.
+18. The **Suez Canal** joins the **Mediterranean** and **Red Sea**, cuts India–Europe distance by about **7000 km**, and is a **sea-level** cut (no stepped chambers).
+19. Suez lakes north to south: **Manzala → Timsah → Great Bitter → Little Bitter**. **Port Said** = north end; **Suez** town = south end.
+20. **Panama** joins Atlantic / Caribbean and Pacific **with stepped chambers** and **Gatun Lake**. **Kiel** joins the **North Sea** and **Baltic**.
+21. Shipbuilding likes deep estuaries: Glasgow, St Petersburg, Yokohama, Busan, Belfast. Textiles seek labour + market clusters.
+22. **Chinook** = warm dry Rockies wind; **Foehn** = Alps equivalent. Both can be true together in a multi-statement stem.
+23. **Mistral** = southern France / Rhône (**not** Australia). **Shamal** = Arabia / Persian Gulf (**not** Austria). **Brickfielder** = Australia.
+24. A **willy-willy** is an Australian **cyclone** name, not a local wind like Brickfielder.
+25. More local-wind pairs: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** = Adriatic cold; **Harmattan** = West Africa; **Sirocco** = Sahara→Med; **Khamsin** = Egypt.
+26. Cotton textiles favour humid labour districts (Lancashire, Osaka, Mumbai–Ahmedabad). Wool follows sheep hinterland + mill town (Yorkshire).
+27. Iron–steel classic locations: coalfield, ore field, or lake/port mixing both. Sugar and sawmills pull to bulky perishable cane/timber.
+28. Aircraft needs tech + large airfield (**Toulouse** Airbus; **Seattle** Boeing). Pharma / electronics pull capital and R&D.
+29. **Least-cost** idea: plant sits where assembly + processing + distribution cost is lowest. Ubiquitous inputs (air, water) do not pull location; localised minerals do.
+30. Agglomeration keeps auto parts around Detroit / Nagoya / Turin. Government / SEZ can create planned estates.
+31. Do not swap Suez and Panama: Suez = Med–Red, sea-level cut; Panama = Atlantic–Pacific, with stepped chambers / Gatun.
+32. Do not dump Duisburg into the Netherlands or call Igarka Chinese. Do not park Silicon Valley on Detroit.
+33. Port–country traps: Rotterdam = Netherlands; Montevideo = Uruguay (not Argentina); Jakarta = Indonesia.
+34. **Manchester of the East** tag for Osaka means cotton, not autos. Nagoya holds the auto nickname.
+35. Container / entrepôt story: Shanghai for volume MCQs; Singapore–Rotterdam–Hong Kong for re-export hubs; Rhine mouth = Rotterdam.
+36. Lorraine = France iron–steel; do not park Normandy iron under Germany (that belongs with France in mineral chapters).
+37. Film industry classic = Hollywood / Los Angeles. Watch industry classic = Switzerland (Alps–Jura skilled labour).
+38. Soft teaching still separates **primary** (mines/fields) from **secondary** (this chapter’s factories) — world industries = secondary activities plus Lucent port/canal/wind lists.
+39. **Break-of-bulk** industries (oil refining, flour, lake-steel) concentrate where cargo changes mode — ports, lakes, railheads.
+40. Cold vs warm wind traps: Bora / Mistral are cold or cold-dry Mediterranean stories; Chinook / Foehn / Santa Ana are warm-dry downslope / desert-margin winds.
+41. Harmattan = dusty West African winter wind; Sirocco / Khamsin / Leveche are hot dusty Sahara-outflow families toward the Med / Spain / Egypt.
+42. Industrial region map spine: Ruhr, UK Lancashire/Yorkshire, US Great Lakes–Detroit, Po Basin, Japan Pacific belts, Pearl River Delta, Chotanagpur (India mineral heartland contrast).
+43. When a stem says “Manchester of …”, map cotton. When it says “Detroit of …”, map autos. When it says “Pittsburgh of …”, map steel.
+44. Canal distance / geometry traps: Suez ~7000 km India–Europe saving; Panama uses stepped chambers; Kiel is North Sea–Baltic only.
+45. Local-wind vs cyclone trap: Brickfielder = local wind (Australia); willy-willy = cyclone name (Australia) — do not merge them.
 
 </details>
 

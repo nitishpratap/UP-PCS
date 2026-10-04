@@ -31,42 +31,53 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. India’s first non-synchronous census was in **1872** (some papers key **1871**). The first **synchronous** all-India census was in **1881**.
-2. **1921** is the **Great Divide** year of Indian census history (इतिहास). **2011** was the **15th** census and the **7th** after Independence.
-3. Census 2011 India population was about **121.09 crore**. Decadal growth **2001–11** was **17.64%**. India holds roughly one-sixth of world population in that count.
+2. **1921** is the **Great Divide** year of Indian census history. **2011** was the **15th** census and the **7th** after Independence.
+3. Census 2011 India population was about **121.09 crore**. Decadal growth **2001–11** was **17.64%** (often rounded **17.7%**).
 4. Arithmetic density is **population / total area**. India’s 2011 arithmetic density is **382** persons per km².
 5. Physiological density is **population / net sown area**. Agricultural density is **agricultural population / net sown area**. Do not swap these three density types.
-6. Among States, **Bihar** has the highest density (**1106**). West Bengal and Kerala follow high; Uttar Pradesh (उत्तर प्रदेश) is **829**. **Arunachal Pradesh** has the lowest State density (**17**). Delhi UT is very dense but is not a “lowest density State (न्यूनतम जनघनत्व)” answer.
-7. Core 2011 figures: sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban (नगरीय) share **31.16%**. Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
-8. **Uttar Pradesh** (उत्तर प्रदेश) is the most populous State and has the largest rural population. **Sikkim** is the least populous State. **Nagaland** showed negative growth in 2001–11.
+6. Among States, **Bihar** has the highest density (**1106**). **Arunachal Pradesh** has the lowest State density (**17**). Uttar Pradesh is **829**. Delhi UT is very dense but is not a “lowest density State” answer.
+7. Core 2011 figures: sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban share **31.16%**. SC ~**16.6%**; ST ~**8.6%**.
+8. **Uttar Pradesh** is the most populous State and has the largest rural population. **Sikkim** is the least populous State. **Nagaland** showed negative growth in 2001–11.
 9. Highest State sex ratio is **Kerala**. Among States in the usual 2011 set, lowest sex ratio is **Haryana**. Lowest child sex ratio (rural + urban) is also **Haryana**.
 10. Literacy is highest in **Kerala** and lowest among States in **Bihar**. In Uttar Pradesh, **Shrawasti** has the lowest female literacy among districts.
-11. Absolute (निरपेक्ष) growth is **P₂ − P₁**. Growth rate is the percentage change. **Natural growth = CBR − CDR**. Induced change comes from **migration**.
-12. Replacement-level **TFR is 2.1** children per woman, not “per thousand” (that wording belongs to birth/death rates). NFHS-4 (2015–16) reported **2.2**. NFHS-5 reports about **2.0**.
+11. Absolute growth is **P₂ − P₁**. Growth rate is the percentage change. **Natural growth = CBR − CDR**. Induced change comes from **migration**.
+12. Replacement-level **TFR is 2.1** children per woman, not “per thousand”. NFHS-4 reported **2.2**; NFHS-5 reports about **2.0**.
 13. The National Population Policy **2000** aimed at population stability by **2045**. World Population Day is **11 July**. The World Population Report is associated with **UNFPA**.
 14. The demographic dividend window is the large share of working ages **15–59**, not 60+ or 0–6. Dependency compares young plus aged with workers.
 15. Urbanisation acceleration in the classic curve is linked to the **second stage** of demographic transition. Among religions, **Jains** are the most urbanised.
-16. Demographic Transition Theory is linked to **Thompson** (with **Notestein**). Optimum population is linked to **Edwin Cannan**. Social mal-adjustment is linked to **Henry George**. Malthus argued population grows **geometrically** while food grows **arithmetically**. The Malthusian Theory is a theory of **population**.
-17. The largest internal migration stream is **rural → rural**. Female migration is often for marriage; male migration is often for work. **Immigration** means in-movement; **emigration** means out-movement.
-18. Push factors drive people from the origin; pull factors attract them to the destination. Out-migration sources are often Uttar Pradesh–Bihar; destinations are often Maharashtra–Delhi–Gujarat.
-19. A **census town** needs population **≥5,000**, density **≥400/km²**, and **≥75%** of **male main workers** in non-agriculture.
-20. Census 2011 listed **53** million-plus urban agglomerations. Kanpur (कानपुर) crossed the million mark in **1971**; Lucknow (लखनऊ) in **1981**. 2011 UP UA order is **Kanpur > Lucknow > Ghaziabad > Agra**.
-21. Uttar Pradesh district facts (2011): **Prayagraj** (प्रयागराज) most populous; **Ghaziabad** densest; **Jaunpur** (जौनपुर) among the higher sex-ratio districts; **Shrawasti** lowest female literacy.
-22. Uttar Pradesh holds about **16.5%** of India’s population. Rural share is about **77.7%** against India’s **68.84%**. Urban share is about **22.3%** against India’s **31.16%**. State sex ratio is **912** against India’s **943**. Literacy is about **67.7%** against India’s **74.04%**.
-23. Crowded belts are the Ganga (गंगा) plain and coasts. Sparse belts are the Himalaya (हिमालय), North-East hills, Thar (थार) and dry interior pockets. Distribution factors include terrain, climate, soil, water, minerals, industry, transport and history.
-24. Keep **Census 2011** numbers for Prelims until **Census 2027** results replace them. UN estimates (प्राकलन समिति) that India became the most populous country around **2023** do not rewrite the 2011 tables.
-25. A broad-base population pyramid signals high fertility. Ageing shows earlier in southern States than in the high-fertility northern belt.
-26. Occupational structure is taught as primary / secondary / tertiary. Primary still takes a large share of India’s workforce, with a slow shift toward secondary and tertiary as development proceeds.
-27. Malthus’s **positive** checks raise the death rate (famine, disease, war). **Preventive** checks lower the birth rate (delayed marriage, moral restraint). **Karl Marx** treated surplus population as a product of capitalism, not a natural food-arithmetic law. **Ester Boserup** argued that population growth can push agricultural intensification.
-
----
+16. Demographic Transition Theory is linked to **Thompson** (with **Notestein**). Optimum population is linked to **Edwin Cannan**. Social mal-adjustment is linked to **Henry George**.
+17. Malthus argued population grows **geometrically** while food grows **arithmetically**. Positive checks raise deaths; preventive checks lower births. **Karl Marx** criticised Malthus; **Ester Boserup** stressed agricultural intensification.
+18. The largest internal migration stream is **rural → rural**. Female migration is often for marriage; male migration is often for work. **Immigration** = in; **emigration** = out.
+19. Push factors drive people from the origin; pull factors attract them to the destination. Out-migration sources are often Uttar Pradesh–Bihar; destinations are often Maharashtra–Delhi–Gujarat.
+20. A **census town** needs population **≥5,000**, density **≥400/km²**, and **≥75%** of **male main workers** in non-agriculture.
+21. Census 2011 listed **53** million-plus urban agglomerations. Kanpur crossed the million mark in **1971**; Lucknow in **1981**. 2011 UP UA order is **Kanpur > Lucknow > Ghaziabad > Agra**.
+22. Uttar Pradesh district facts (2011): **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** among higher sex-ratio districts; **Shrawasti** lowest female literacy.
+23. Uttar Pradesh holds about **16.5%** of India’s population. Rural share ~**77.7%** vs India **68.84%**. Urban share ~**22.3%** vs India **31.16%**. State sex ratio **912** vs India **943**. Literacy ~**67.7%** vs India **74.04%**.
+24. Crowded belts are the Ganga plain and coasts. Sparse belts are the Himalaya, North-East hills, Thar and dry interior pockets.
+25. Keep **Census 2011** numbers until **Census 2027** results replace them. UN estimates that India became most populous around **2023** do not rewrite the 2011 tables.
+26. A broad-base population pyramid signals high fertility. Ageing shows earlier in southern States than in the high-fertility northern belt.
+27. Occupational structure is taught as primary / secondary / tertiary. Primary still takes a large share of India’s workforce, with a slow shift toward secondary and tertiary.
 28. **CBR** and **CDR** are expressed **per thousand** of population; **TFR** is children **per woman**. Do not mix the units.
-29. Demographic Transition stages: high birth–high death → falling death (population boom) → falling birth → low birth–low death. Urbanisation acceleration is classically linked to the **second** stage.
-30. Age structure teaching bands are often **0–14**, **15–59** (workers) and **60+**. A broad-base pyramid = high fertility; a top-heavy pyramid = ageing.
-31. Internal migration streams include rural→rural (largest), rural→urban, urban→urban and urban→rural. Inter-state migrants often move from UP–Bihar toward Maharashtra–Delhi–Gujarat.
-32. Literacy in Census 2011 is counted for age **7+**. Effective literacy and crude literacy wordings must not be swapped with school-enrolment rates.
+29. Demographic Transition stages: high birth–high death → falling death (boom) → falling birth → low birth–low death.
+30. Age structure teaching bands are often **0–14**, **15–59** (workers) and **60+**.
+31. **Lorenz curve** is used for **income inequality**, not literacy or sex ratio.
+32. **Social capillarity** is linked to **Arsène Dumont** — aspiration and smaller families — distinct from Henry George’s social mal-adjustment tag.
+33. Literacy in Census 2011 is counted for age **7+**. Do not swap with school-enrolment rates or 0–6 literacy claims.
+34. Physiological density rises when net sown area is scarce relative to population — useful for comparing pressure on farmland across States.
+35. Million-city / UA stems use the **2011** Mumbai > Delhi > Kolkata order; the **2001** Mumbai > Kolkata > Delhi order is a trap.
+36. Sex ratio improved from **933 (2001)** to **943 (2011)**; child sex ratio worsened from **927** to **919** — keep the opposite directions.
+37. Highest urban % among States in the usual set is **Goa**; lowest urban % among large teaching States often points to **Himachal Pradesh**.
+38. SC absolute leader is **Uttar Pradesh**; SC proportion leader is often **Punjab**. ST absolute leader is **Madhya Pradesh**; ST proportion leaders include **Lakshadweep / Mizoram**.
+39. Natural increase can be high even when migration is low; induced change can reshape city growth without a high CBR–CDR gap.
+40. World Population Day (**11 July**) and UNFPA’s World Population Report are the usual international anchors — not IMF or WHO as the report house.
+41. Replacement fertility **2.1** is the long-run stationarity bench; NFHS-5 ~**2.0** means India is near/below replacement in the survey, while Census 2011 still frames older stems.
+42. Dependency ratio rises when the share of children and aged grows relative to **15–59** workers — the dividend fades as ageing advances.
+43. Rural→urban migration is highly visible in metros, but **rural→rural** remains the largest internal stream in Census teaching.
+44. Distribution factors include terrain, climate, soil, water, minerals, industry, transport and history — not density alone.
+45. Census town ≠ always a municipality; statutory town and census town are separate urban doors into the urban count.
 
 </details>
 

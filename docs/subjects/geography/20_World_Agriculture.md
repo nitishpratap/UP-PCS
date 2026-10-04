@@ -25,30 +25,53 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 22 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. In plantation MCQs the classic plantation crop is **tea**, not wheat, rice, or maize. Plantation means estate, capital, monoculture, hired labour, and export. **Fazenda** = Brazil plantation; it is **not** jhum.
-2. Coffee producer order often taught for **2016** is **Brazil > Vietnam > Colombia > Indonesia**. Brazil is mainly **arabica** on Terra Roxa; Vietnam is bulk **robusta**. **Mocha** = Yemen; **Kona** = Hawaii.
-3. Major cocoa producers are **Côte d’Ivoire, Ghana (घन), and Cameroon**. **Latvia** is not a cocoa producer. Cocoa originated in the Amazon; chocolate manufacturing centres (Switzerland, Belgium) are not the same as growers.
-4. India’s rubber fact is **Kerala**. Rubber (*Hevea*) originated in the Amazon; **Henry Wickham** moved seed stock to Ceylon / Malaya. Malaysia’s **Kinta Valley** is **tin**, not rubber. Tree tapping starts after about **6–7 years**.
+2. Coffee producer order often taught for **2016** is **Brazil > Vietnam > Colombia > Indonesia**. Brazil is mainly **arabica** on Terra Roxa; Vietnam is bulk **robusta**. **Mocha** = Yemen; **Kona** = Hawaii. Ethiopia is the arabica **origin** story, not that tonnage king.
+3. Major cocoa producers are **Côte d’Ivoire, Ghana, and Cameroon**. **Latvia** is not a cocoa producer. Cocoa originated in the Amazon; chocolate manufacturing centres (Switzerland, Belgium) are not the same as growers.
+4. India’s rubber fact is **Kerala**. Rubber (*Hevea*) originated in the Amazon; **Henry Wickham** moved seed stock to Ceylon / Malaya. Malaysia’s **Kinta Valley** is **tin**, not rubber. Tree tapping starts after about **6–7 years**. Recent world rubber volume often tags **Thailand**.
 5. Shifting-cultivation names: **Jhum** (NE India), **Podu** (Andhra/Odisha), **Ladang** (Malaysia), **Milpa** (Mexico), **Roca** (Brazil), **Chena** (Sri Lanka), **Caingin** (Philippines), **Taungya** (Myanmar). It needs low density, short crop years and long fallow — not estate tea.
-6. The world **citrus** / vine / olive belt is **Mediterranean** on five **west coasts** near **30–45°**, not equatorial. **Olive** majors = Spain, Italy, Greece.
-7. Philippines cane and coconut history fact: **Spanish and Americans**. Wrong Indian crop–state dumps include Gujarat–tea, UP–jute and Assam–wheat. Right pairs: **Kerala–rubber**; **Assam–tea** volume.
-8. **Oil palm** majors are **Indonesia and Malaysia**. World **sugarcane** leader is **Brazil**; **sugar beet** belongs to temperate **Europe**.
-9. For rice and wheat, **China and India** lead in **volume**, but classic **exporters** are often other countries (Thailand / Vietnam for rice; Russia / USA / Canada and others for wheat). **Golden rice** carries **Vitamin A**.
-10. Rice types: **Indica** (long-grain South / SE Asia), **Japonica** (stickier East Asia), **Javanica** (Indonesia). **IRRI** sits at **Los Baños, Philippines**; classic HYV rice = **IR-8**.
+6. The world **citrus** / vine / olive belt is **Mediterranean** on five **west coasts** near **30–45°** (Med basin, California, C Chile, Cape, SW Australia), not equatorial. **Olive** majors = Spain, Italy, Greece.
+7. Philippines cane and coconut history fact: **Spanish and Americans**. Dutch = Indonesia estates; British = Malaya rubber / Ceylon tea. Wrong Indian crop–state dumps include Gujarat–tea, UP–jute and Assam–wheat. Right pairs: **Kerala–rubber**; **Assam–tea** volume.
+8. **Oil palm** majors are **Indonesia and Malaysia**. World **sugarcane** leader is **Brazil**; **sugar beet** belongs to temperate **Europe** (France / Russia / Ukraine belt).
+9. For rice and wheat, **China and India** lead in **volume**, but classic **exporters** are often other countries (Thailand / Vietnam / India / Pakistan / USA for rice; Russia / USA / Canada / France / Australia for wheat). **Golden rice** carries **Vitamin A**.
+10. Rice types: **Indica** (long-grain South / SE Asia), **Japonica** (stickier East Asia), **Javanica** (Indonesia). **IRRI** sits at **Los Baños, Philippines**; classic HYV rice = **IR-8**. Rice climate ≈ **20–27°C** and **100–200 cm** rain or irrigation.
 11. Wheat needs cool growth and bright ripening (~**50–75 cm** rain). **Winter wheat** = autumn sow in mild-winter belts; **spring wheat** = spring sow in harsh-winter Prairie / Siberia; **durum** = pasta wheat of the Mediterranean.
-12. **Intensive subsistence** = monsoon wet rice. **Extensive commercial grain** = Prairie / Pampas wheat. **Mixed farming** = crops plus livestock (West Europe / US Midwest). Ranching belts = Pampas, Prairie, Veld, Downs.
-13. **Black tea** is fermented; **green tea** is not. The pluck fact is **two leaves and a bud**. Tea likes **20–30°C**, **150–300 cm** rain, slope and acid soil.
-14. **Von Thünen** = market rings around a city (distance rent). **Whittlesey** = about **thirteen** world agricultural region types. Do not merge the two models.
+12. **Intensive subsistence** = monsoon wet rice. **Extensive commercial grain** = Prairie / Pampas / Downs / steppe wheat. **Mixed farming** = crops plus livestock (West Europe / US Midwest). Ranching belts = Pampas, Prairie, Veld, Downs.
+13. **Black tea** is fermented; **green tea** is not; **oolong** is semi-fermented. The pluck fact is **two leaves and a bud**. Tea likes **20–30°C**, **150–300 cm** rain, slope and acid soil. China leads tea volume; Assam leads Indian volume; Kenya is a classic African export name.
+14. **Von Thünen** = market rings around a city (distance rent: dairy/veg → forestry → intensive crops → grain → ranching). **Whittlesey** = about **thirteen** world agricultural region types. Do not merge the two models.
 15. Cotton: long staple = **Egypt / Sudan** (and Sea Island); medium = USA Upland; short staple = India–Pakistan–China belt. Maize volume order often **USA > China > Brazil**; **US Corn Belt** is the classic tag.
-16. Banana: India produces heavily; **Ecuador** is a classic shipper. Silk and wool volume often centre on **China**; Australia is famous for **Merino** wool. **Shahtoosh** = Chiru wool.
+16. Banana: India produces heavily; **Ecuador** is a classic shipper. Silk and wool volume often centre on **China**; Australia is famous for **Merino** wool. **Shahtoosh** = Chiru wool. Pig numbers often tag **China**.
 17. Soy export triangle = **USA–Brazil–Argentina**. India leads world **milk volume**; New Zealand and the Netherlands dominate the dairy-**export** story. World Food Day = **16 October**.
-18. **IRRI** (Philippines) drove HYV rice; **CIMMYT (Mexico)** and **Norman Borlaug** drove HYV wheat — Nobel for **Peace** (**1970**), not “agriculture.” **FAO** HQ = **Rome**.
-19. Term cards: **apiculture** = bees; **viticulture** = grapes; **sericulture** = silk (**China** leads volume); **floriculture** hub = Netherlands; **olericulture** = vegetables; **pisciculture** = fish rearing.
+18. **IRRI** (Philippines) drove HYV rice; **CIMMYT (Mexico)** and **Norman Borlaug** drove HYV wheat — Nobel for **Peace** (**1970**), not “agriculture.” **FAO** HQ = **Rome**. Green Revolution package = HYV + water + fertiliser + pesticide.
+19. Term cards: **apiculture** = bees; **viticulture** = grapes; **sericulture** = silk (**China** leads volume); **floriculture** hub = Netherlands; **olericulture** = vegetables; **pisciculture** = fish rearing; **horticulture** = fruit / veg / flowers.
 20. India often leads milk + banana + castor; China leads tea / tobacco / silk volume stories; Brazil leads cane + coffee #1; Thailand is a rubber story. **Golden Crescent** = Afghanistan–Iran–Pakistan opium.
-21. Jute world is almost entirely **India and Bangladesh** on Ganga–Brahmaputra alluvium — do not treat UP as a jute state.
+21. Jute (“golden fibre”) world is almost entirely **India and Bangladesh** on Ganga–Brahmaputra alluvium — do not treat UP as a jute state.
 22. Plantation vs shifting: plantation = capital estate monoculture for export; shifting = humid-tropics slash-and-burn subsistence. They are not the same system.
+23. Subsistence farming feeds the family with little surplus; **commercial** farming grows for market / export. **Sedentary** stays on fixed fields; nomadic herding and shifting plots **move**.
+24. Mediterranean agriculture grows citrus, vine, olive, winter wheat and vegetables under **winter rain** and dry bright summers — not under equatorial cloud.
+25. Dairy farming classics = NW Europe, Great Lakes, New Zealand, Denmark and the Netherlands. Truck / market gardening sits on **urban fringes** for perishable vegetables, fruit and flowers.
+26. Commercial wheat belts: **Prairies** (Canada–USA), **Pampas** (Argentina), **Downs** (Australia), Ukrainian–Russian **steppe**, and N European plain (France export story).
+27. Millets / coarse grains belong to **drought** belts of Africa and India — low rain, not 200 cm tea slopes.
+28. Coffee climate wants **15–28°C**, **150–250 cm** rain, shade and no frost. Coffee rust (*Hemileia*) is a famous plantation disease linked to Ceylon’s historic tea shift.
+29. Cocoa wants equatorial heat, shade and high rain; pods grow on the trunk (**cauliflory**). Growers ≠ chocolate manufacturers.
+30. Oilseeds map: groundnut tropics; rapeseed / canola cool temperate (Canada–EU–China–India); sunflower temperate (Russia–Ukraine–Argentina). Oil palm ≠ olive; oil palm ≠ rubber.
+31. India coffee belt = Karnataka (Kodagu / Chikmagalur / Hassan) ahead of Kerala and Tamil Nadu — not Assam as coffee king.
+32. Nomadic herding = Sahara–Arabia–Central Asia–tundra subsistence with camel, sheep, yak or reindeer. Livestock **ranching** on Pampas / Downs / Veld is commercial — do not merge the two.
+33. Spice Islands / Maluku story = Indonesia cloves and nutmeg. Vietnam / India / Indonesia share the pepper trade map; cardamom classics = Guatemala and India’s Kerala–Karnataka hills.
+34. Collective / cooperative teaching examples include former USSR kolkhoz, Israel kibbutz and Denmark dairy co-ops — secondary to the main Whittlesey systems.
+35. Producer ≠ exporter remains the chapter rule for rice, wheat, tea, banana and milk: China / India volume leaders often do **not** own the classic export nickname.
+36. Rubber climate wants **25–35°C**, evenly high rain (**>200 cm**), humidity and no frost. Natural rubber ≠ synthetic neoprene chemistry fact.
+37. Tea processing ladder: black = fully fermented; green = not fermented; oolong = semi-fermented; CTC = crush–tear–curl bulk; orthodox = whole-leaf quality.
+38. Whittlesey’s rice-dominant intensive subsistence belts = East / Southeast / South Asia deltas and coasts; intensive without paddy = North China, interior India wheat–millet and Nile-type belts.
+39. Commercial plantation belts in the Whittlesey map include Caribbean estates, NE India–Sri Lanka tea, Malaysia–Indonesia rubber/palm, Brazil coffee and West Africa cocoa.
+40. India cattle inventory is often #1, but beef-export leaders are usually Brazil / Australia / USA — do not equate herd size with beef-ship leadership.
+41. Groundnut and tobacco volume stories often put **China** high; castor oilseed leadership often tags **India** in coaching frames.
+42. Philippines coconut + cane credit is Spanish–American; do not dump Dutch (Indonesia) or British (Malaya) onto that pair.
+43. Von Thünen’s outer ring is livestock ranching; forestry sits near the city because wood is bulky — climate-region names belong to Whittlesey, not Thünen rings.
+44. Hybrid-rice volume association often tags **China**; India’s harvested rice **area** is often the largest even when China leads rice **output**.
+45. World Food Day is **16 October**; FAO HQ is **Rome**; Borlaug’s Nobel is **Peace (1970)** — three separate identity facts that papers still mix.
 
 </details>
 

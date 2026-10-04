@@ -42,58 +42,58 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 48 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. About **77%** of India’s drainage **area** faces the **Bay of Bengal**, about **23%** faces the **Arabian Sea**, and inland basins cover about **8%** of area. Over **90% of river water** still goes to the Bay of Bengal.
-2. Water-share fact: **Brahmaputra about 40%**, **Ganga about 25%**, **Godavari about 6%**. Brahmaputra leads water volume; Ganga leads Indian basin area.
-3. The Western Ghats (पश्चिमी घाट) are the main peninsular divide. From **Amarkantak**, drainage is radial — **Narmada** (नर्मदा) west and **Son** toward the Ganga.
-4. **Ganga** is the largest basin **inside India**. **Godavari** (गोदावरी) is the largest **peninsular** basin. Among Tapti (ताप्ती) / Narmada / Mahanadi / Cauvery alone, **Mahanadi** (महानदी) is the largest basin.
-5. Himalayan rivers are mostly **perennial** (melt plus rain) and include **antecedent** (पूर्ववर्ती) giants. Peninsular rivers are mostly **rain-fed** and graded.
-6. Drainage types: **consequent** (अनुवर्ती) follows original slope; **subsequent** (परवर्ती) follows weak belts later; **antecedent** (Indus, Sutlej (सतलुज), Brahmaputra) cuts rising Himalaya (हिमालय); **superimposed** (अध्यारोपित) (Chambal (चंबल)) inherits an older course.
-7. **Trans-Himalayan** rivers rise north of the Great Himalaya in Tibet and cut through — fact **Sutlej** (सतलुज), and also Indus and Brahmaputra (Tsangpo). Among Jhelum (झेलम) / Sutlej / Ganga / Ravi (रावी), the trans-Himalayan pick is **Sutlej**.
-8. The Indus rises in a Tibet gorge and reaches the Arabian Sea in Pakistan. The five Punjab rivers east to west are **Sutlej–Beas (ब्यास)–Ravi–Chenab (चिनाब)–Jhelum**. Under the Indus Treaty, India gets Ravi, Beas, and Sutlej; Pakistan gets Indus, Jhelum, and Chenab.
-9. Dam (दाम -)–river pairs: **Baglihar = Chenab**, **Pandoh = Beas** (not Ravi), **Srisailam = Krishna** (not Tungabhadra (तुंगभद्रा)).
-10. The Ganga is named only at **Devprayag** (देवप्रयाग) where Alaknanda (अलकनंदा) meets Bhagirathi (भागीरथी). It is about **2525 km** long. In Bangladesh it becomes the **Padma** (पद्मा), meets the Brahmaputra as **Jamuna** (जमुना), then joins the Meghna system to the Bay of Bengal.
-11. Ganga joins: Yamuna (यमुना) at **Prayagraj** (प्रयागराज), Ramganga (रामगंगा) at **Kannauj** (कन्नौज), Ghaghara (घाघरा) at **Chhapra**, Gandak (गंडक) at **Sonpur**, Son at **Patna** (पटना), Kosi (कोसी) at **Kursela**. Left-bank Himalayan tributes include Ramganga, Ghaghara, Gandak, Kosi, and Mahananda (महानंदा); **Gomti** is a plains-origin left-bank river. Right-bank facts are Yamuna, Son, and Damodar (दामोदर).
-12. Yamuna right-bank tributes west to east are **Chambal–Sind (सिंध)–Betwa–Ken**. Chambal joins at Etawah (इटावा); Betwa at **Hamirpur**; Ken at **Banda**. Betwa does **not** meet at Prayagraj.
-13. **Jonk** (जोंक) joins the **Mahanadi**, not the Ganga. **Gandak** (गंडक) is not an Uttar Pradesh river in the usual state list (राज्य सूची). **Punpun** (पुनपुन) meets near Fatuha. Chambal ravines (चंबल) start near **Mhow**.
-14. Panch Prayag upstream to downstream: **Vishnu** (Dhauli (धौली)) → **Nanda** (Nandakini) → **Karn** (Pindar (पिंडर)) → **Rudra** (Mandakini) → **Dev** (Bhagirathi) = Ganga. Badrinath (बद्रीनाथ) is on the **Alaknanda** (अलकनंदा); Kedarnath (केदारनाथ) is on the **Mandakini** (मंदाकिनी).
-15. The eastern **Dhauliganga** (धौलीगंगा) joins the **Kali** (काली), not the Alaknanda. Do not confuse it with the Dhauli of Vishnuprayag (विष्णुप्रयाग).
-16. The Brahmaputra rises as Angsi / Tsangpo, makes a **U-turn at the eastern syntaxial bend near Namcha Barwa**, and enters India as Siang / Dihang (दिहांग). **Majuli** is the classic island. Right-bank north tributes include Subansiri, Manas, Sankosh, and Teesta; left-bank south tributes include Burhi Dihing and Dhansiri.
-17. **Teesta** was captured from the Ganga system into the Brahmaputra. Barak (बराक) becomes Meghna and reaches the Bay of Bengal — it is **not** inland drainage.
-18. Peninsular length fact: **Godavari (~1465 km) > Krishna (~1400) > Narmada (~1312) > Mahanadi (~851) > Tapi (~724)**. Godavari is also called Dakshin / Vriddha Ganga and rises near **Trimbak**.
-19. Origins: Yamuna–Yamunotri (यमुनोत्री), Krishna–Mahabaleshwar, Godavari–Nashik, Mahanadi–Sihawa, Narmada–Amarkantak, Tapi–**Multai (Satpura (सतपुड़ा))** not Western Ghats, Kaveri–Brahmagiri.
-20. **Pranhita** (प्रणहिता) joins **Godavari**. **Hemavati** joins Kaveri. **Malaprabha** joins Krishna. Hyderabad (हैदराबाद) stands on the **Musi**, not the Krishna stem. Ludhiana is on the **Sutlej**, not the Ravi.
-21. West-flowing set: Narmada, Tapi, Mahi (माही), Sabarmati (साबरमती), **Periyar** (पेरियार). East-flowing examples include Pennar (पेन्नार) and Palar. Narmada and Tapi form **estuaries** in rift valleys; most east-flowing peninsular rivers build **deltas**.
-22. **Luni** (लूनी) is inland: upper course fresh, lower course **saline** (लवणीय). The classic fault-valley tag is **Damodar** (दामोदर); Narmada and Tapi are also rift valleys.
-23. Delta (डेल्टा) types: **Arcuate** = Sundarbans (सुंदरबन); **Bird’s-foot** (पक्षी-पाद) = Mississippi (not Ganga). **Moribund** as a **Bengal subdivision** ≠ **Cauvery** as a **moribund lobe** match — read the stem. **Trellis** (जालनुमा) marks folded structure; **radial** marks Amarkantak; **dendritic** (वृक्षाकार) is the common homogeneous pattern.
-24. National Waterways: **NW-1** Ganga–Hooghly (हुगली), **NW-2** Brahmaputra, **NW-3** Kerala, **NW-4** Krishna–Godavari, **NW-5** Brahmani–Mahanadi.
-25. **Ken–Betwa** is the only National Perspective Plan link under implementation, linking Madhya Pradesh and Uttar Pradesh in Bundelkhand.
-26. Uttar Pradesh points: Sangam (संगम) at **Prayagraj**; **Gomti** is Lucknow (लखनऊ)’s river and the pollution tag; **Ghaghara** (घाघरा) is Ayodhya (अयोध्या)’s river; the Ganga–Yamuna **Doab** (दोआब) is the core plain.
-27. Chambal sanctuary spans **Uttar Pradesh, Madhya Pradesh, and Rajasthan** — not Haryana.
-28. Kaveri island sequence includes **Srirangapatna (श्रीरंगपट्टनम)–Shivasamudram–Srirangam**. Bhubaneswar is **not** a Mahanadi-bank city fact in the usual trap set.
-29. East-flowing peninsular rivers north to south often run **Subarnarekha → Mahanadi → Godavari → Krishna → Pennar → Cauvery → Vaigai**.
-30. Indus is the longest of the four (चातुर्याम) Himalayan systems overall, but most of its course lies in Pakistan. Ganga is the longest river **in India**.
-31. Concordant (संगत) drainage follows structure; discordant (असंगत) drainage cuts across it — Himalayan antecedents are the classic discordant case.
-32. **Kosi** (कोसी) is the Sorrow of Bihar; **Damodar** is the Sorrow of Bengal. Do not swap those titles.
-
----
-33. Ganga left-bank Himalayan tributes include Ramganga, Ghaghara, Gandak, Kosi and Mahananda; **Gomti** is plains-origin. Right-bank facts include Yamuna, Son and Damodar.
-34. Peninsular rivers are older, graded and mostly rain-fed; Himalayan rivers are younger, perennial and often antecedent through rising ranges.
-35. Dendritic rivers include the **Ganga** and **Indus** plains, the **Godavari**, the **Mahanadi**, the **Krishna**, and the **Kaveri**.
-36. The Indian **trellis** ground is the old folded belt of **Singhbhum** (Chotanagpur). **Rectangular** streams follow joints on the **Vindhyan** rocks.
-37. **Centripetal** streams drain into **Loktak** and into **Sambhar** (Mendha, Rupangarh).
-38. The **Sharavati** follows a **parallel** pattern down the Western Ghats.
-39. **Ganga Alluvial Depth:** Depth of Gangetic alluvium below the surface is estimated at **4,000–6,000 metres** according to Oldham, and ~**2,000 metres** according to Glennie.
-40. **Son River Origin & Catchment:** Originates from Amarkantak Hill (Sonmuda in Anuppur MP / Sonbachharwar in Gaurela-Pendra-Marwahi CG). Catchment area is **70,055 sq km**, the largest among Ganga's major tributaries (vs Gandak ~45,731, Ramganga ~30,811, Mahananda ~23,700). Flows northward to join Ganga near Patna.
-41. **Kaimur Water Divide:** The **Kaimur Range** acts as the primary watershed dividing the Son system to the south from the Tons/Yamuna system to the north.
-42. **Gandak & Triveni Canal:** In Nepal, the Gandak is known as the **Gandaki or Narayani**, formed by the confluence of the Kali Gandak and Trishulganga. The **Triveni Canal** draws water from the Gandak in West Champaran (Bihar). Gandak joins Ganga at Sonpur (near Patna) and does **not** flow through Uttar Pradesh.
-43. **Ganga in Bihar:** Passes through **12 districts**; maximum length is in **Patna (~99 km)**, followed by **Bhagalpur (~97 km)**. Punpun joins the Ganga at **Fatuha**.
-44. **Kosi System & Kanwar Lake Trap:** Kosi is formed by 7 Himalayan streams (Arun being principal); it does **not** originate from glaciers. Average elevation of the Kosi plain is **30–40 metres**. **Kanwar Lake** (Begusarai, Bihar) is an oxbow lake formed by a cutoff meander of the **Burhi Gandak**, NOT the Gandak.
-45. **Eastern Ghats Origins:** **Nagavali** and **Vamsadhara** rise from the Eastern Ghats. By contrast, **Brahmani** and **Subarnarekha** (origin: Nagri village near Ranchi) originate from the Chotanagpur / Ranchi Plateau.
-46. **Punjab Doabs & Chenab Headwaters:** **Chandra** (Chandra Tal) and **Bhaga** (Bara Lacha La) unite at **Tandi** in the Lahaul valley to form the **Chandrabhaga (Chenab)**. Doabs: **Bist** (Beas–Sutlej), **Bari** (Beas–Ravi), **Rechna** (Ravi–Chenab), **Chaj** (Chenab–Jhelum).
-47. **Gandikota Canyon & S.P. Chatterjee Division:** The spectacular Gandikota canyon ("Grand Canyon of India") in Kadapa (AP) was carved by the **Pennar River**. In S.P. Chatterjee's physiographic division, the Mahanadi Basin is classified under the **Northern Deccan Plateau**.
-48. **Key City Riverbank Anchors:** **Kanpur** is the largest city on the Ganga; **Uttarkashi** is on the Bhagirathi (before Ganga forms); **Leh** is on the **right bank** of the Indus; **Pahalgam** is on the **Lidder**; **Hampi** is on the **Tungabhadra** (not Malaprabha); **Pandharpur** is on the **Chandrabhaga (Bhima)**; **Govindghat** is on the **Alaknanda / Lakshman Ganga** (not Mandakini).
+1. About **77%** of India’s drainage **area** faces the **Bay of Bengal** and about **23%** faces the **Arabian Sea**; inland basins cover ~**8%** of area. Over **90% of river water** still goes to the Bay of Bengal.
+2. Water-share ladder: **Brahmaputra ~40%**, **Ganga ~25%**, **Godavari ~6%**. Brahmaputra leads volume; **Ganga** leads basin area **inside India**.
+3. Western Ghats are the main peninsular divide. From **Amarkantak**, drainage is radial — **Narmada** west and **Son** toward the Ganga.
+4. **Ganga** = largest basin in India; **Godavari** = largest **peninsular** basin. Among Tapi / Narmada / Mahanadi / Cauvery alone, **Mahanadi** is the largest basin.
+5. Himalayan rivers are mostly **perennial** (melt + rain) and often **antecedent**. Peninsular rivers are mostly **rain-fed**, older and graded.
+6. Drainage types: **consequent** follows original slope; **subsequent** follows weak belts later; **antecedent** (Indus, Sutlej, Brahmaputra) cuts rising Himalaya; **superimposed** (Chambal) inherits an older course.
+7. **Trans-Himalayan** rivers rise north of the Great Himalaya in Tibet and cut through — Indus, **Sutlej** and Brahmaputra (Tsangpo). Among Jhelum / Sutlej / Ganga / Ravi, the trans-Himalayan pick is **Sutlej**.
+8. Indus reaches the Arabian Sea in Pakistan. Punjab rivers E→W: **Sutlej–Beas–Ravi–Chenab–Jhelum**. Indus Treaty: India gets Ravi, Beas, Sutlej; Pakistan gets Indus, Jhelum, Chenab.
+9. Dam–river pairs: **Baglihar = Chenab**, **Pandoh = Beas** (≠ Ravi), **Srisailam = Krishna** (≠ Tungabhadra), **Tulbul = Jhelum / Wular**.
+10. The river is named **Ganga** only at **Devprayag** (Alaknanda + Bhagirathi). Length ~**2525 km**. In Bangladesh it is the **Padma**; Brahmaputra is the **Jamuna**; both join the Meghna system to the Bay.
+11. Ganga joins: Yamuna at **Prayagraj**, Ramganga at **Kannauj**, Ghaghara at **Chhapra**, Gandak at **Sonpur**, Son at **Patna**, Kosi at **Kursela**.
+12. Left-bank Himalayan Ganga tributes include Ramganga, Ghaghara, Gandak, Kosi and Mahananda; **Gomti** is a **plains-origin** left-bank river. Right-bank facts: Yamuna, Son, Damodar.
+13. Yamuna right-bank tributes W→E: **Chambal–Sind–Betwa–Ken**. Chambal joins near Etawah; Betwa at **Hamirpur**; Ken at **Banda**. Betwa does **not** meet at Prayagraj.
+14. **Jonk** joins the **Mahanadi**, not the Ganga. **Gandak** does **not** flow through Uttar Pradesh in the usual state list. **Punpun** meets near Fatuha. Chambal ravines start near **Mhow**.
+15. Panch Prayag upstream → downstream: **Vishnu** (Dhauli) → **Nanda** (Nandakini) → **Karn** (Pindar) → **Rudra** (Mandakini) → **Dev** (Bhagirathi) = Ganga. Badrinath is on the **Alaknanda**; Kedarnath is on the **Mandakini**.
+16. The eastern **Dhauliganga** joins the **Kali**, not the Alaknanda — do not confuse it with Vishnuprayag’s Dhauli.
+17. Brahmaputra rises as Angsi / Tsangpo, makes a **U-turn near Namcha Barwa**, and enters India as Siang / Dihang. **Majuli** is the classic river island. North/right tributes include Subansiri, Manas, Sankosh, Teesta; south/left include Burhi Dihing and Dhansiri.
+18. **Teesta** was captured from the Ganga system into the Brahmaputra. **Barak** becomes Meghna and reaches the Bay — it is **not** inland drainage.
+19. Peninsular length ladder: **Godavari (~1465 km) > Krishna (~1400) > Narmada (~1312) > Mahanadi (~851) > Tapi (~724)**. Godavari (Dakshin / Vriddha Ganga) rises near **Trimbak**.
+20. Origins: Yamuna–Yamunotri; Krishna–Mahabaleshwar; Godavari–Nashik / Trimbak; Mahanadi–Sihawa; Narmada–Amarkantak; Tapi–**Multai (Satpura)** not Western Ghats; Kaveri–Brahmagiri.
+21. **Pranhita** → Godavari; **Hemavati** → Kaveri; **Malaprabha** → Krishna. Hyderabad stands on the **Musi**, not the Krishna stem. Ludhiana is on the **Sutlej**, not the Ravi.
+22. West-flowing set: Narmada, Tapi, Mahi, Sabarmati, **Periyar**. Narmada and Tapi form **estuaries** in rift valleys; most east-flowing peninsular rivers build **deltas**.
+23. **Luni** is inland drainage: upper course fresh, lower course **saline**. Classic fault-valley tag = **Damodar**; Narmada and Tapi are also rift valleys.
+24. Delta types: **arcuate** = Sundarbans; **bird’s-foot** = Mississippi (not Ganga). **Trellis** = folded structure (e.g. Singhbhum); **radial** = Amarkantak; **dendritic** = homogeneous slope (Ganga / Godavari / Krishna / Kaveri class).
+25. National Waterways: **NW-1** Ganga–Hooghly; **NW-2** Brahmaputra; **NW-3** Kerala; **NW-4** Krishna–Godavari; **NW-5** Brahmani–Mahanadi. National Waterways Act (2016) lists **106** NWs.
+26. **Ken–Betwa** is the **only** National Perspective Plan link under implementation (Bundelkhand MP–UP; Panna TR forest link).
+27. UP anchors: Sangam at **Prayagraj**; **Gomti** = Lucknow’s river; **Ghaghara** = Ayodhya’s river; core plain = Ganga–Yamuna **Doab**.
+28. National Chambal Sanctuary spans **UP + MP + Rajasthan** — not Haryana.
+29. Kaveri island sequence: **Srirangapatna → Shivasamudram → Srirangam**. Bhubaneswar is **not** a Mahanadi-bank city in the usual trap set.
+30. East-flowing peninsular rivers N→S often run **Subarnarekha → Mahanadi → Godavari → Krishna → Pennar → Cauvery → Vaigai**.
+31. Indus is longest among the four Himalayan systems overall, but most of its course lies in Pakistan. **Ganga** is the longest river **in India**.
+32. Concordant drainage follows structure; **discordant** drainage cuts across it — Himalayan antecedents are the classic discordant case.
+33. **Kosi** = Sorrow of Bihar; **Damodar** = Sorrow of Bengal. Do not swap the titles.
+34. Indian **trellis** ground = folded **Singhbhum** (Chotanagpur). **Rectangular** streams follow joints on **Vindhyan** rocks. **Sharavati** shows a **parallel** Western Ghats pattern.
+35. **Centripetal** streams drain into **Loktak** and into **Sambhar** (Mendha, Rupangarh).
+36. Gangetic alluvium depth teaching: Oldham ~**4000–6000 m**; Glennie ~**2000 m**.
+37. **Son** rises from the Amarkantak belt and has the **largest catchment among major Ganga tributes** in the usual comparison set; it joins the Ganga near Patna.
+38. The **Kaimur Range** divides the Son system (south) from the Tons / Yamuna system (north).
+39. In Nepal, Gandak = **Gandaki / Narayani**. **Triveni Canal** draws Gandak water in West Champaran (Bihar). Gandak joins Ganga at Sonpur and does **not** traverse UP.
+40. In Bihar the Ganga passes through **12 districts**; longest district stretches are often tagged **Patna** then **Bhagalpur**. Punpun joins at **Fatuha**.
+41. Kosi is formed by seven Himalayan streams (**Arun** principal) and is **not** a simple glacier-origin stem. **Kanwar Lake** (Begusarai) is an oxbow of the **Burhi Gandak**, not the Gandak.
+42. **Nagavali** and **Vamsadhara** rise from the Eastern Ghats; **Brahmani** and **Subarnarekha** rise from the Chotanagpur / Ranchi plateau.
+43. **Chandra** and **Bhaga** unite at **Tandi** (Lahaul) to form the **Chenab (Chandrabhaga)**. Punjab doabs: **Bist** (Beas–Sutlej), **Bari** (Beas–Ravi), **Rechna** (Ravi–Chenab), **Chaj** (Chenab–Jhelum).
+44. **Gandikota canyon** (Kadapa, AP) was carved by the **Pennar**. In S.P. Chatterjee’s division, the Mahanadi Basin sits under the **Northern Deccan Plateau**.
+45. City–river anchors: **Kanpur** largest city on the Ganga; **Uttarkashi** on Bhagirathi; **Leh** on the **right bank** of the Indus; **Pahalgam** on the **Lidder**; **Hampi** on the **Tungabhadra**; **Pandharpur** on the Bhima / Chandrabhaga; **Govindghat** on Alaknanda / Lakshman Ganga (≠ Mandakini).
+46. Rectangular / joint-controlled streams on Vindhyan rocks differ from dendritic plains patterns — pattern stems often park both traps together.
+47. **Periyar** is a major west-flowing Kerala river; do not list it with east-coast delta builders like Godavari / Krishna.
+48. River rejuvenation / knickpoints matter for waterfall chapters, but drainage stems still ask rejuvenated Himalayan / peninsular course evidence via gorges and terraces.
+49. Inland drainage classic = **Luni** (Thar) plus centripetal playa catchments such as **Sambhar** — not Barak / Meghna.
+50. Namami Gange / GAP are **cleaning programmes**, not river-origin facts; do not use them to answer confluence or source stems.
 
 </details>
 

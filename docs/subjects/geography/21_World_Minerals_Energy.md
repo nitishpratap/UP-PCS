@@ -47,13 +47,13 @@ D. South Africa
 
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 26 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 46 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. Coalfield–country pairs: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk / Donbass** = Ukraine. **Karaganda** = Kazakhstan coal city.
-2. **Mount Newman / Pilbara / Hamersley** = **iron** in Australia. **Krivoy Rog** = Ukraine iron. **Lorraine** = France. **Kiruna** = Sweden. **Mesabi** = USA. Germany–Normandy iron is **wrong** — **Normandy** is in **France**.
-3. Iron exporters = Australia (**Pilbara**) and Brazil (**Carajás**). China mines iron and still imports heavily. **Hematite** = red bulk ore; **magnetite** = black highest grade.
-4. **Chile** leads copper with northern Andes **porphyry** deposits (**Chuquicamata**, **El Teniente**). Also fact Katanga (DRC), Copperbelt (Zambia), and Bingham (USA).
-5. Malaysia’s **Kinta Valley** = **tin** (cassiterite). Also tin centres: Bangka–Belitung (Indonesia) and the Andes of Bolivia. Myanmar’s **Pegu Yoma** = **mineral oil**, not tin.
+1. Coalfield–country pairs: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk / Donbas** = Ukraine’s coal centre. **Karaganda** = Kazakhstan coal city.
+2. **Mount Newman / Pilbara / Hamersley** = **iron** in Western Australia. **Krivoy Rog** = Ukraine iron. **Lorraine** and **Normandy** = France (Germany–Normandy iron is wrong). **Kiruna** = Sweden magnetite. **Mesabi** = USA Lake Superior.
+3. Iron exporters = Australia (**Pilbara**) and Brazil (**Carajás** / Minas). China mines iron and still imports heavily. **Hematite** = red bulk ore; **magnetite** = black highest grade.
+4. **Chile** leads copper with northern Andes **porphyry** deposits (**Chuquicamata**, **El Teniente**, Escondida). Also fact Katanga (DRC), Copperbelt (Zambia), and Bingham Canyon (USA).
+5. Malaysia’s **Kinta Valley** = **tin** (cassiterite). Also tin centres: Bangka–Belitung (Indonesia) and the Andes of Bolivia. Myanmar’s **Pegu Yoma** = **mineral oil**, not tin (tin sits in Tenasserim).
 6. **Kashagan** oil is in **Kazakhstan**, not Kuwait. **Burgan** = Kuwait. Also fact Ghawar / Dhahran (Saudi), Kirkuk / Zubair (Iraq), Haft Kel (Iran), Baku (Azerbaijan). **Brent** = North Sea light crude.
 7. Natural gas’s main constituent is **methane**. **LPG** (propane–butane) is not the same as **CNG**. Qatar’s **North Field** and Iran’s **South Pars** are one continuous Gulf gas giant.
 8. **Postmasburg** (South Africa) = **manganese** (not uranium / mica / bauxite). Also Mn: Moanda (Gabon), Groote Eylandt (Australia), Nikopol (Ukraine).
@@ -63,12 +63,38 @@ D. South Africa
 12. Phosphate rock king = **Morocco**. Potash names include Canada (Saskatchewan) and the Dead Sea belt. **Iodine** (2018 spelling “lodine”) fact = **Chile** Atacama caliche.
 13. Uranium volume often facts on **Kazakhstan**; Canada **Athabasca**; Australia **Olympic Dam** (U + Cu + Au). **Uranium City** = **Canada**. Thorium / monazite sands = India (Kerala–TN), Brazil, Australia.
 14. **Lithium Triangle** = Chile–Argentina–Bolivia (Brazil is **not** in it). Cobalt volume = **DRC**. REE processing fact = **China**. Tungsten volume often **China**.
-15. Nuclear and geothermal energy are **not** “stored solar”. Wind, biomass and hydro are solar-linked renewables. Coal, oil and gas are conventional non-renewables.
-16. **OPEC** HQ = **Vienna**. Original OPEC five (**1960**): Iran, Iraq, Kuwait, Saudi Arabia, Venezuela. North Sea oil/gas = UK–Norway; West Siberia = Russia’s giant hydrocarbon province.
-17. **Itaipu** = Brazil–Paraguay hydel. **Three Gorges** = China on the Yangtze. Steel tonnage top = **China**.
+15. Nuclear and geothermal energy are **not** “stored solar”. Wind, biomass and hydro are solar-linked renewables. Coal, oil and gas are conventional non-renewables. Tidal energy is linked to the Moon’s gravity in usual teaching.
+16. **OPEC** HQ = **Vienna**. Original OPEC five (**1960**): Iran, Iraq, Kuwait, Saudi Arabia, Venezuela. North Sea oil/gas = UK–Norway; West Siberia = Russia’s giant hydrocarbon province. IAEA HQ is also Vienna — different job.
+17. **Itaipu** = Brazil–Paraguay hydel on the Paraná. **Three Gorges** = China on the Yangtze. Steel tonnage top = **China**.
 18. Ancient **shields** host many metals. Sedimentary **basins** host coal, oil and gas. Andean porphyry belts host copper, with lithium brines nearby in the same broad story.
-19. **German silver** contains **no silver**. **Peace Pipeline** = Iran–Pakistan. Sheet **mica** classic = **India**. Platinum = Bushveld / Norilsk.
-20. Energy classification check: coal / oil / gas = conventional non-renewable; wind / biomass / hydro = renewable solar-linked; nuclear and geothermal stand apart from “stored solar” wording.
+19. **German silver** contains **no silver** (Cu–Ni–Zn). **Peace Pipeline** = Iran–Pakistan. Sheet **mica** classic = **India**. Platinum = Bushveld / Norilsk.
+20. Coal rank rises in carbon from peat → lignite → bituminous → anthracite. Coking coal is for steel; lignite is thermal-only. Pennsylvania anthracite and South Wales are high-rank names.
+21. Coal producer ≠ exporter: China is the huge volume miner–consumer; classic shippers include **Indonesia, Australia, Russia, USA and South Africa**.
+22. Brass = copper + zinc; bronze = copper + tin. Chalcopyrite is the chief copper ore. Do not swap brass / bronze alloys.
+23. Oil reserves names often put Venezuela / Saudi Arabia high; production names often put USA / Saudi / Russia high — freeze a year only when the paper quotes it.
+24. Gas reserves names often tag Russia / Iran / Qatar; LNG export classics = Qatar / Australia / USA. Groningen = historic Netherlands giant; Urengoy = West Siberia volume gas.
+25. Geothermal classics: Iceland (power + heating), New Zealand (Rotorua / Taupo), Philippines (Ring of Fire), USA The Geysers, Italy Larderello (first plant).
+26. Tidal classics: **La Rance** (France) and Sihwa (Korea). India’s potential teaching often ranks Gulf of Khambhat ahead of Kutch.
+27. Nuclear electricity **share** classic = **France**; large **capacity** classic = USA. Main nuclear fuel = uranium.
+28. Solar and wind capacity leadership often tags **China**; high wind-share teaching names include Denmark and the UK.
+29. Saar = Germany–France border coal story; Silesia Upper = Poland coal–steel; Lusatia / Rhineland lignite = Germany — do not dump Saar as an iron-field only.
+30. Australia Hunter Valley and Bowen Basin are export coal names; South Africa Witbank / Highveld are coal tags; India’s Damodar (Jharia coking / Raniganj) is the India-map contrast.
+31. Carajás = Brazil iron (Amazon-side giant); Itabira / Minas Gerais = Brazil iron quadrangle; Cerro Bolívar = Venezuela iron — keep them off the Pilbara list.
+32. Sudbury yields nickel **with** copper; Grasberg (Indonesia) is copper **with** gold — polymetallic traps sit next to pure Cu/Ni dumps.
+33. Morocco phosphate ≠ Moroccan oil; Broken Hill Pb–Zn ≠ Broken Hill iron; Mesabi = iron, not copper.
+34. Silver volume often tags **Mexico** in recent frames; primary aluminium volume often tags **China**; diamond volume often tags **Russia**.
+35. Non-ferrous teaching set = aluminium, copper, zinc, nickel, tin — pig iron and carbon steel are ferrous products.
+36. Ras Tanura = Saudi export / refining terminal; Masjid-i-Suleiman = early Iran commercial oil story; Yenangyaung–Chauk sit with Myanmar’s Pegu Yoma oil belt.
+37. IEA HQ = Paris; IRENA HQ = Abu Dhabi; OPEC and IAEA share Vienna as a city but not as a job description.
+38. Gasohol teaching ≈ 90% gasoline + 10% ethanol — USA classic producer/consumer frame.
+39. First commercial oil teaching often parks Romania (1857 register) beside Drake 1859 Titusville (USA) — two classic “first well” stories, not one exclusive key.
+40. Camphor tree native belt in coaching lists = China / Japan (*Cinnamomum camphora*) — not a mineral, but a GC extras neighbour on the same sheet.
+41. Producer vs exporter for iron and coal: China can lead volume and still import; Australia / Brazil / Indonesia often own the shipping nickname.
+42. Anthracite = highest-rank hard coal; lignite = brown soft thermal coal — swapping them flips coking / thermal logic.
+43. Katanga (DRC) and Zambia Copperbelt are the African copper–cobalt pair opposite Chile’s Andes porphyry story.
+44. Olympic Dam (Australia) is the multi-metal U + Cu + Au deposit — do not park it as a pure gold or pure iron dump.
+45. Hydro needs fall + discharge: Three Gorges / Itaipu / Grand Coulee / Aswan High / Guri are the usual world match bank.
+46. Energy classification check: coal / oil / gas = conventional non-renewable; wind / biomass / hydro = renewable solar-linked; nuclear and geothermal stand apart from “stored solar” wording.
 
 </details>
 
