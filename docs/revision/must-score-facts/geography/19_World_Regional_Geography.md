@@ -13,48 +13,51 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. 1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
-2. 2. The **Nobi** and **Kanto** plains are in **Japan**, not Korea.
-3. 3. Iraq’s **Sunni Triangle** is **Baghdad, Tikrit, and Ramadi**. **Basra** (Shia south) is the trap.
-4. 4. West Asia mountains west to east: **Pontic → Zagros → Hindu Kush → Karakoram (काराकोरम)**.
-5. 5. Central Asia capitals: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**, Kazakhstan **Astana**.
-6. 6. The **Kara Kum** desert is in **Turkmenistan**.
-7. 7. **Borneo** is shared by Indonesia, Malaysia, and Brunei and is **not** a volcanic island dump.
-8. 8. Philippines cane and coconut history (इतिहास) fact: **Spanish and Americans**.
-9. 9. Korea: **Seoul** south, **Pyongyang** north, roughly the **38th parallel**. Nobi/Kanto are not Korean plains.
-10. 10. Palestine map: **Gaza** on the Egypt (मिस्र) side, **West Bank** on the Jordan side, with the **Jordan River / Dead Sea** belt. Neighbours include Israel, Jordan, Egypt, Lebanon, and Syria.
-11. 11. Western Europe has **westerlies** and rain in **all months**.
-12. 12. The **Suez Canal** shortened the India–Europe sea route by about **7000 km**.
-13. 13. **Cape Verde**’s capital is **Praia**. **Bamako** is Mali’s capital — do not swap them.
-14. 14. Maghreb capitals: Morocco **Rabat**, Algeria **Algiers**, Tunisia **Tunis**.
-15. 15. Brazil points: **Selva** (सेल्वा) rainforest and **Terra Roxa** coffee soil are both true.
-16. 16. Australia’s **interior is desert**. The **north is tropical**, not temperate. The **Darling Range** lies in **south-west** Australia.
-17. 17. India’s operational Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri (गंगोत्री)** is not the operational answer.
-18. 18. **Madeira** is Atlantic Portugal and is **not** Caribbean.
-19. 19. Indonesia west to east: **Sumatra → Java → Bali (बलि) → Lombok**.
-20. 20. The **Mekong** delta (डेल्टा) is in **southern Vietnam**, not Cambodia.
-21. 21. South America’s landlocked pair is **Bolivia** and **Paraguay**. Uruguay, Peru, and Suriname have coasts.
-22. 22. **Igarka** is in **Russia**, not China.
-23. 23. New Zealand’s capital is **Wellington**. NZ has North and South Islands with **Cook Strait** and is **not** an Australian state.
-24. 24. **Ethiopia** is landlocked after Eritrea’s secession; **Eritrea** holds the Red Sea coast. The Horn is Ethiopia–Somalia–Eritrea–Djibouti.
-25. 25. Only **double-landlocked** states in the usual set are **Uzbekistan** and **Liechtenstein**.
-26. 26. Capitals that are not the country’s most-famous tourist city: Turkey **Ankara**, Australia **Canberra**, Brazil **Brasília**, UAE **Abu Dhabi**, NZ **Wellington**.
-27. 27. Boundary parallels: **38th** ≈ Koreas; **49th** ≈ Canada–USA.
-28. 28. South Asia map: Nepal and Bhutan are landlocked; Maldives and Sri Lanka are islands; **Kabul** is Afghanistan’s capital. The Caucasus trio is Georgia–Armenia–Azerbaijan; Istanbul is not Turkey’s capital.
-29. 29. **Esperanto** is an artificial world auxiliary language. **Tamil** is an official language of **Singapore**. Spanish is official in Chile/Colombia/Cuba — **not** Congo. **Bahasa** = Indonesia (not Thailand). Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
-30. 30. Great Lakes west→east: **Superior → Michigan → Huron → Erie → Ontario**. The St Lawrence is the seaway outlet.
-31. 31. Maghreb = Morocco–Algeria–Tunisia (sometimes Libya in wider use). Sahel is the semi-arid belt south of the Sahara — not the same as Maghreb.
-32. 32. USA–Canada land border roughly follows the **49th parallel** in the west. Alaska is USA; Greenland is Denmark politically / North America geographically.
-33. 33. East Asia flash cards: Japan’s **Honshu** is the main island; Korea split near the **38th parallel**; China’s capital is **Beijing** (not Shanghai).
-34. **Nobi / Kanto** = **Japan**. Trap: Korea.
-35. **Esperanto** = Artificial world language. Trap: Mountain / seaport.
-36. **Bahasa** = **Indonesia**. Trap: Thailand.
-37. **Tamil abroad** = **Singapore** official set. Trap: Myanmar major.
-38. **Sunni Triangle** = Baghdad, Tikrit, **Ramadi**. Trap: **Basra** (Shia south).
-39. **Pontic vs Zagros** = Pontic = **N Turkey**; Zagros = **W Iran**. Trap: Swapped on W→E list.
-40. **Kara Kum vs Kyzylkum** = Kara Kum = **Turkmenistan**. Trap: Kazakhstan / Tajikistan.
-41. **Tashkent vs Ashgabat** = Tashkent = **Uzbekistan**; Ashgabat = **Turkmenistan**. Trap: Swapped stans.
-42. **Bishkek vs Dushanbe** = Bishkek = **Kyrgyzstan**; Dushanbe = **Tajikistan**. Trap: Swapped.
+1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
+2. The **Nobi** and **Kanto** plains are in **Japan**, not Korea.
+3. Iraq’s **Sunni Triangle** is **Baghdad, Tikrit, and Ramadi**. **Basra** (Shia south) is the trap.
+4. West Asia mountains west to east: **Pontic → Zagros → Hindu Kush → Karakoram**.
+5. Central Asia capitals: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**, Kazakhstan **Astana**.
+6. The **Kara Kum** desert is in **Turkmenistan**. **Kyzylkum** is the neighbouring “red sand” pair often contrasted with Kara Kum.
+7. **Borneo** is shared by Indonesia, Malaysia, and Brunei and is **not** a volcanic island dump.
+8. Philippines cane and coconut history fact: **Spanish and Americans** (not British/Dutch as the first key).
+9. Korea: **Seoul** south, **Pyongyang** north, roughly the **38th parallel**. Nobi/Kanto are not Korean plains.
+10. Palestine map: **Gaza** on the Egypt side, **West Bank** on the Jordan side, with the **Jordan River / Dead Sea** belt.
+11. Western Europe has **westerlies** and rain in **all months** (not Mediterranean winter-only).
+12. The **Suez Canal** shortened the India–Europe sea route by about **7000 km**.
+13. **Cape Verde**’s capital is **Praia**. **Bamako** is Mali’s capital — do not swap them.
+14. Maghreb capitals: Morocco **Rabat**, Algeria **Algiers**, Tunisia **Tunis**. Maghreb ≠ Sahel.
+15. Brazil points: **Selva** rainforest and **Terra Roxa** coffee soil are both true.
+16. Australia’s **interior is desert**. The **north is tropical**, not temperate. The **Darling Range** lies in **south-west** Australia.
+17. India’s operational Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational answer.
+18. **Madeira** is Atlantic Portugal and is **not** Caribbean.
+19. Indonesia west to east: **Sumatra → Java → Bali → Lombok**.
+20. The **Mekong** delta is in **southern Vietnam**, not Cambodia.
+21. South America’s landlocked pair is **Bolivia** and **Paraguay**. Uruguay, Peru, and Suriname have coasts.
+22. **Igarka** is in **Russia**, not China.
+23. New Zealand’s capital is **Wellington**. NZ has North and South Islands with **Cook Strait** and is **not** an Australian state.
+24. **Ethiopia** is landlocked after Eritrea’s secession; **Eritrea** holds the Red Sea coast. The Horn is Ethiopia–Somalia–Eritrea–Djibouti.
+25. Only **double-landlocked** states in the usual set are **Uzbekistan** and **Liechtenstein**.
+26. Capitals that are not the country’s most-famous tourist city: Turkey **Ankara**, Australia **Canberra**, Brazil **Brasília**, UAE **Abu Dhabi**, NZ **Wellington**.
+27. Boundary parallels: **38th** ≈ Koreas; **49th** ≈ Canada–USA (western land border).
+28. South Asia map: Nepal and Bhutan are landlocked; Maldives and Sri Lanka are islands; **Kabul** is Afghanistan’s capital.
+29. The Caucasus trio is Georgia–Armenia–Azerbaijan; Istanbul is not Turkey’s capital (**Ankara** is).
+30. **Esperanto** is an artificial world auxiliary language. **Tamil** is an official language of **Singapore**. **Bahasa** = Indonesia (not Thailand).
+31. Spanish is official in Chile/Colombia/Cuba — **not** Congo. Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
+32. Great Lakes west→east: **Superior → Michigan → Huron → Erie → Ontario**. The St Lawrence is the seaway outlet.
+33. Sahel is the semi-arid belt south of the Sahara — not the same as Maghreb (Morocco–Algeria–Tunisia).
+34. Alaska is USA; Greenland is Denmark politically / North America geographically.
+35. East Asia flash cards: Japan’s **Honshu** is the main island; Korea split near the **38th parallel**; China’s capital is **Beijing** (not Shanghai).
+36. Pontic = northern Turkey; Zagros = western Iran — keep the west→east mountain ladder ordered.
+37. ASEAN map diet often tests mainland SE Asia vs island SE Asia; Mekong countries vs maritime chokepoints (Malacca).
+38. Caribbean vs Atlantic island trap: Madeira/Cape Verde are Atlantic African/Portuguese tags, not West Indies.
+39. Landlocked Africa after Eritrea: Ethiopia; South America: Bolivia and Paraguay — do not add Uruguay.
+40. Astana (Kazakhstan) and Ashgabat (Turkmenistan) capital swaps are common Central Asia traps with Tashkent/Dushanbe/Bishkek.
+41. Palestine neighbours include Israel, Jordan, Egypt, Lebanon and Syria — map units remain West Bank and Gaza.
+42. Northern Australia tropical climate ≠ temperate — a frequent Australia climate stem.
+43. Cook Strait separates NZ North and South Islands; it is not an Australian state boundary.
+44. Double-landlocked means every neighbour is landlocked — Uzbekistan (Central Asia) and Liechtenstein (Europe).
+45. Igarka’s Russia tag pairs with other “not China” Siberian place traps in world regional stems.
 
 
 ---
@@ -145,163 +148,193 @@ hide:
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
 **Q1.**
-With reference to Topic 19 — World Regional Geography, which one of the following is a correct must-score association?
+Nobi and Kanto plains are in:
 
-A. 1. 1. Continent area order: Asia > Africa > North America > South America > Anta
-B. Nobi
-C. Sunni Triangle
-D. Pontic → Zagros → Hindu Kush → Karakoram (काराकोरम)
+A. Korea
+B. Japan
+C. China
+D. Vietnam
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** Both plains are in **Japan**.
 
-**Logic:** From consolidated facts: 1. 1. Continent area order: Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania.
+**Logic:** Korea is the planted trap.
 
 </details>
 
 **Q2.**
-With reference to Topic 19 — World Regional Geography, which one of the following is a correct must-score association?
+Iraq’s Sunni Triangle includes:
 
-A. 1. 1. Continent area order: Asia > Africa > North America > South America > Anta
-B. Nobi
-C. Sunni Triangle
-D. Pontic → Zagros → Hindu Kush → Karakoram (काराकोरम)
+A. Baghdad, Tikrit and Basra
+B. Baghdad, Tikrit and Ramadi
+C. Basra, Mosul and Kirkuk only
+D. Baghdad, Basra and Ramadi
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: B.** Baghdad–Tikrit–**Ramadi**; Basra is Shia south.
 
-**Logic:** From consolidated facts: 2. 2. The Nobi and Kanto plains are in Japan, not Korea.
+**Logic:** Basra substitution is the classic wrong corner.
 
 </details>
 
 **Q3.**
-With reference to Topic 19 — World Regional Geography, which one of the following is a correct must-score association?
+With reference to Central Asia, which pair is/are correct?
 
-A. 1. 1. Continent area order: Asia > Africa > North America > South America > Anta
-B. Nobi
-C. Sunni Triangle
-D. Pontic → Zagros → Hindu Kush → Karakoram (काराकोरम)
+1. Tashkent — Uzbekistan
+2. Ashgabat — Turkmenistan
+3. Bishkek — Tajikistan
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: A.** Statements 1 and 2 are correct.
 
-**Logic:** From consolidated facts: 3. 3. Iraq’s Sunni Triangle is Baghdad, Tikrit, and Ramadi. Basra (Shia south) is the trap.
+**Logic:** Bishkek = **Kyrgyzstan**; Dushanbe = Tajikistan.
 
 </details>
 
 **Q4.**
-With reference to Topic 19 — World Regional Geography, which one of the following is a correct must-score association?
+Assertion (A): Western Europe receives rainfall in all months under westerlies.
+Reason (R): Mediterranean climate also has rainfall in all months like Western Europe.
 
-A. 1. 1. Continent area order: Asia > Africa > North America > South America > Anta
-B. Nobi
-C. Sunni Triangle
-D. Pontic → Zagros → Hindu Kush → Karakoram (काराकोरम)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: C.** A is true; R is false.
 
-**Logic:** From consolidated facts: 4. 4. West Asia mountains west to east: Pontic → Zagros → Hindu Kush → Karakoram (काराकोरम).
+**A/R logic:** Mediterranean rain is mainly **winter**.
 
 </details>
 
 **Q5.**
-With reference to the chapter, which of the following statements is/are correct?
+South America’s landlocked countries are:
 
-1. 1. 1. Continent area order: Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania.
-2. 2. 2. The Nobi and Kanto plains are in Japan, not Korea.
-3. This association is unrelated to the chapter and is always false in prelims stems.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
+A. Bolivia and Uruguay
+B. Bolivia and Paraguay
+C. Paraguay and Peru
+D. Bolivia and Suriname
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** **Bolivia and Paraguay**.
 
-**Logic:** Statements 1 and 2 follow the chapter locks; 3 is planted false.
+**Logic:** Uruguay/Peru/Suriname have coasts.
 
 </details>
 
 **Q6.**
-With reference to the chapter, which of the following statements is/are correct?
+Match List-I with List-II and select the correct answer using the code given below the lists:
 
-1. 3. 3. Iraq’s Sunni Triangle is Baghdad, Tikrit, and Ramadi. Basra (Shia south) is the trap.
-2. 4. 4. West Asia mountains west to east: Pontic → Zagros → Hindu Kush → Karakoram (काराकोरम).
-3. This association is unrelated to the chapter and is always false in prelims stems.
+| List-I (Country) | List-II (Capital) |
+|---|---|
+| 1. Turkey | A. Ankara |
+| 2. Australia | B. Canberra |
+| 3. Brazil | C. Brasília |
+| 4. New Zealand | D. Wellington |
 
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. 1, 2 and 3
+A. 1-A, 2-B, 3-C, 4-D
+B. 1-B, 2-A, 3-C, 4-D
+C. 1-A, 2-C, 3-B, 4-D
+D. 1-A, 2-B, 3-D, 4-C
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: A.** Capitals that are not the tourist-famous cities.
 
-**Logic:** Only 1 and 2 are supported; 3 is false.
+**Logic:** Istanbul/Sydney/Rio/Auckland are distractors outside the key.
 
 </details>
 
 **Q7.**
-With reference to the chapter, which of the following statements is/are correct?
+Double-landlocked states in the usual set are:
 
-1. 5. 5. Central Asia capitals: Uzbekistan Tashkent, Tajikistan Dushanbe, Kyrgyzstan Bishkek, Turkmenistan Ashgabat, Kazakhstan Astana.
-2. 6. 6. The Kara Kum desert is in Turkmenistan.
-3. This association is unrelated to the chapter and is always false in prelims stems.
-
-A. Only 3
-B. 1 and 3
-C. 1 and 2
-D. Only 2
+A. Uzbekistan and Kazakhstan
+B. Uzbekistan and Liechtenstein
+C. Liechtenstein and Switzerland
+D. Bolivia and Paraguay
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: B.** **Uzbekistan** and **Liechtenstein**.
 
-**Logic:** 1 and 2 are true; 3 is false.
+**Logic:** Bolivia/Paraguay are landlocked but not double-landlocked.
 
 </details>
 
 **Q8.**
-With reference to the chapter, which of the following statements is/are correct?
+Madeira is correctly placed in the:
 
-1. 7. 7. Borneo is shared by Indonesia, Malaysia, and Brunei and is not a volcanic island dump.
-2. 8. 8. Philippines cane and coconut history (इतिहास) fact: Spanish and Americans.
-3. This association is unrelated to the chapter and is always false in prelims stems.
-
-A. 1, 2 and 3
-B. Only 1
-C. 2 and 3
-D. 1 and 2
+A. Caribbean
+B. North-east Atlantic (Portugal)
+C. Pacific
+D. Red Sea
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: B.** Atlantic Portugal — not Caribbean.
 
-**Logic:** Only 1 and 2 are true from the consolidated set.
+**Logic:** West Indies dump is the trap.
 
 </details>
 
 **Q9.**
-With reference to the chapter, which of the following statements is/are correct?
+Australia’s north is mainly:
 
-1. 9. 9. Korea: Seoul south, Pyongyang north, roughly the 38th parallel. Nobi/Kanto are not Korean plains.
-2. 10. 10. Palestine map: Gaza on the Egypt (मिस्र) side, West Bank on the Jordan side, with the Jordan River / Dead Sea belt. Neighbours inclu
-3. This association is unrelated to the chapter and is always false in prelims stems.
+A. Temperate
+B. Tropical
+C. Polar
+D. Mediterranean only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Northern Australia = **tropical**; interior = desert.
+
+**Logic:** Temperate is a common wrong climate tag.
+
+</details>
+
+**Q10.**
+Which language–place pair is correct?
+
+A. Bahasa — Thailand
+B. Tamil — official set in Singapore
+C. Spanish — Congo
+D. Esperanto — mountain range in Andes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tamil is in Singapore’s official set; Bahasa = Indonesia; Esperanto = artificial language.
+
+**Logic:** Language–country swaps are frequent.
+
+</details>
+
+**Q11.**
+Consider the following statements:
+
+1. Ethiopia became landlocked after Eritrea’s secession.
+2. Eritrea holds Red Sea coast in the Horn.
+3. Djibouti is landlocked.
 
 A. 1 and 2
 B. Only 3
@@ -311,203 +344,167 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** Statements 1 and 2 are correct.
 
-**Logic:** Statements 1 and 2 follow the chapter locks; 3 is planted false.
-
-</details>
-
-**Q10.**
-With reference to the chapter, which of the following statements is/are correct?
-
-1. 11. 11. Western Europe has westerlies and rain in all months.
-2. 12. 12. The Suez Canal shortened the India–Europe sea route by about 7000 km.
-3. This association is unrelated to the chapter and is always false in prelims stems.
-
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-**Logic:** Only 1 and 2 are supported; 3 is false.
-
-</details>
-
-**Q11.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Nobi / Kanto — Japan
-B. Korea — Japan
-C. Nobi / Kanto — Korea
-D. None of the pairs above is used in this chapter
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-**Logic:** Correct lock is Nobi / Kanto → Japan. Trap is Korea.
+**Logic:** Djibouti has a coast on the Bab-el-Mandeb approaches.
 
 </details>
 
 **Q12.**
-Which one of the following pairs is NOT correctly matched?
+Kara Kum desert is in:
 
-A. Esperanto — Artificial world language
-B. Mountain / seaport — Artificial world language
-C. None of the pairs above is used in this chapter
-D. Esperanto — Mountain / seaport
+A. Kazakhstan
+B. Turkmenistan
+C. Tajikistan
+D. Kyrgyzstan
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: B.** Kara Kum = **Turkmenistan**.
 
-**Logic:** Correct lock is Esperanto → Artificial world language. Trap is Mountain / seaport.
+**Logic:** Stan desert/capital swaps cluster together.
 
 </details>
 
 **Q13.**
-Which one of the following pairs is NOT correctly matched?
+Assertion (A): Igarka is in China.
+Reason (R): Many Siberian place names appear in “not China” traps.
 
-A. Bahasa — Thailand
-B. Bahasa — Indonesia
-C. Thailand — Indonesia
-D. None of the pairs above is used in this chapter
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** A is false (Igarka = **Russia**); R is true as a teaching note.
 
-**Logic:** Correct lock is Bahasa → Indonesia. Trap is Thailand.
+**A/R logic:** Place-country misattribution is the stem’s point.
 
 </details>
 
 **Q14.**
-Which one of the following pairs is NOT correctly matched?
+Indonesia west→east island order begins:
 
-A. Tamil abroad — Singapore official set
-B. Tamil abroad — Myanmar major
-C. Myanmar major — Singapore official set
-D. None of the pairs above is used in this chapter
+A. Java → Sumatra → Bali → Lombok
+B. Sumatra → Java → Bali → Lombok
+C. Bali → Java → Sumatra → Lombok
+D. Sumatra → Bali → Java → Lombok
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: B.** Sumatra → Java → Bali → Lombok.
 
-**Logic:** Correct lock is Tamil abroad → Singapore official set. Trap is Myanmar major.
+**Logic:** Putting Java first is the usual error.
 
 </details>
 
 **Q15.**
-Assertion (A): 1. 1. Continent area order: Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania.
-Reason (R): This reason reverses the standard chapter association and is false.
+Boundary parallels: 38th and 49th refer mainly to:
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+A. Koreas and USA–Canada
+B. India–China and USA–Mexico
+C. Vietnam split and Brazil–Argentina
+D. Egypt–Sudan and France–Spain
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: A.** **38th** ≈ Koreas; **49th** ≈ Canada–USA.
 
-**A/R logic:** A follows the consolidated lock; R is a planted false reason.
+**Logic:** Do not invent India–China parallel keys here.
 
 </details>
 
 **Q16.**
-Assertion (A): This reason reverses the standard chapter association and is false.
-Reason (R): 2. 2. The Nobi and Kanto plains are in Japan, not Korea.
+Which capital–country pair is correct for Maghreb?
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+A. Morocco — Casablanca as capital
+B. Algeria — Algiers
+C. Tunisia — Tripoli
+D. Mali — Praia
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: B.** Algeria = **Algiers**; Morocco capital = **Rabat**; Tunisia = **Tunis**.
 
-**A/R logic:** A is false; R is a true chapter lock.
+**Logic:** Praia = Cape Verde; Bamako = Mali; Tripoli = Libya.
 
 </details>
 
 **Q17.**
-Which one of the following is correctly matched / stated?
+Mekong delta lies in:
 
-A. Seoul
-B. 1. 1. Continent area order: Asia > Africa > North America > South America > Anta
-C. Nobi
-D. Sunni Triangle
+A. Cambodia
+B. Southern Vietnam
+C. Laos
+D. Thailand
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** Southern **Vietnam**.
 
-**Logic:** Supported by: 9. 9. Korea: Seoul south, Pyongyang north, roughly the 38th parallel. Nobi/Kanto are not Korean plains.
+**Logic:** Same Cambodia trap as in rivers/landforms chapters.
 
 </details>
 
 **Q18.**
-Which one of the following is correctly matched / stated?
+Which of the following is/are correct?
 
-A. 1. 1. Continent area order: Asia > Africa > North America > South America > Anta
-B. Gaza
-C. Nobi
-D. Sunni Triangle
+1. Seoul is in South Korea; Pyongyang in North Korea.
+2. China’s capital is Shanghai.
+3. Honshu is Japan’s main island.
+
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: A.** Statements 1 and 3 are correct.
 
-**Logic:** Supported by: 10. 10. Palestine map: Gaza on the Egypt (मिस्र) side, West Bank on the Jordan side, with the Jordan River / Dead Sea belt. Neighbours include Israel, Jordan, Egypt, Lebanon, and S
+**Logic:** China’s capital is **Beijing**.
 
 </details>
 
 **Q19.**
-Which one of the following is correctly matched / stated?
+Cape Verde’s capital is:
 
-A. 1. 1. Continent area order: Asia > Africa > North America > South America > Anta
-B. Nobi
-C. westerlies
-D. Sunni Triangle
+A. Bamako
+B. Praia
+C. Rabat
+D. Dakar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: B.** **Praia**.
 
-**Logic:** Supported by: 11. 11. Western Europe has westerlies and rain in all months.
+**Logic:** Bamako = Mali swap trap.
 
 </details>
 
 **Q20.**
-Which one of the following is correctly matched / stated?
+Which one of the following pairs is NOT correctly matched?
 
-A. 1. 1. Continent area order: Asia > Africa > North America > South America > Anta
-B. Nobi
-C. Sunni Triangle
-D. Suez Canal
+A. Maghreb — Morocco–Algeria–Tunisia
+B. Sahel — semi-arid belt south of Sahara
+C. Cook Strait — Australia–Tasmania
+D. Suez shortening — about 7000 km on India–Europe sea route
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: C.** Cook Strait separates New Zealand’s North and South Islands.
 
-**Logic:** Supported by: 12. 12. The Suez Canal shortened the India–Europe sea route by about 7000 km.
+**Logic:** Tasmania’s water is Bass Strait in Australian teaching.
 
 </details>
-
 

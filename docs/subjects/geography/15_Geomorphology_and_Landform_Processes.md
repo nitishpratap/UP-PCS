@@ -24,62 +24,56 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 52 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 48 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Endogenic** processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. **Exogenic** processes wear and deposit at the surface. **Gradation** = degradation + aggradation.
-2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
+2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays useful.
 3. **Igneous** rocks are primary: **granite** is intrusive (acidic); **basalt** is extrusive (basic). Fossils belong to **sedimentary** rocks.
 4. Igneous bodies: batholith, laccolith, lopolith, phacolith; a **sill** is parallel to beds; a **dyke** cuts across beds.
-5. Metamorphic pairs: **limestone → marble**, **sandstone → quartzite**, **granite → gneiss**, **shale → slate / schist**. Foliated rocks include slate–schist–gneiss; marble and quartzite are non-foliated.
+5. Metamorphic pairs: **limestone → marble**, **sandstone → quartzite**, **granite → gneiss**, **shale → slate / schist**. Marble and quartzite are non-foliated.
 6. **Weathering** breaks rock **in situ**. **Erosion** picks up and carries material. **Denudation** is weathering plus erosion. Chemical routes include carbonation, oxidation, hydrolysis and hydration.
 7. River load moves by traction, saltation, suspension and solution. Agents of erosion are river, wind, glacier, sea, groundwater (karst) and gravity (mass wasting).
-8. Fluvial stages: youth = **V-valley / waterfall / pothole**; mature = **meander / floodplain / levee**; old = **ox-bow / delta (डेल्टा) / peneplain**. Rejuvenation adds knickpoints, terraces and incised meanders.
-9. On a meander, the **concave** bank erodes and the **convex** bank builds a **point bar**. A **yazoo** stream is deferred behind a levee. Mountain-foot dumps are **alluvial (जलोढ़) fans**; coalescing fans form a **bajada**.
-10. Stream genetic types include consequent (अनुवर्ती), subsequent (परवर्ती), obsequent and resequent. **Antecedent** (पूर्ववर्ती) streams cut rising land; **superimposed** (अध्यारोपित) streams inherit a course from a cover; subsequent streams follow structure.
-11. The **only** bird’s-foot (पक्षी-पाद) example is the **Mississippi**. **Arcuate** (चापाकार) examples include the **Nile** and the **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)**. The usual cuspate example is the **Tiber**. East-flowing Indian mouths often build deltas; **Narmada (नर्मदा)** and **Tapi (तापी)** usually form estuaries.
-12. Drainage patterns: **folded** beds → **trellis**; homogeneous rock → **dendritic** (वृक्षाकार); dome → **radial**; joints / faults → **rectangular**.
-13. The classic fault-valley river tag is the **Damodar** (दामोदर), not the Chambal (चंबल). **Narmada–Tapi** are rift / fault-line pairs as well.
-14. The **Imphal** basin is **lacustrine** (lake-filled), not loess or glacial. Kashmir Vale also has lacustrine / structural pairs. **Loess** is wind-laid silt (China belt), not Imphal.
-15. Structure landforms include cuesta, hogback, mesa and butte. A **mesa** is broader than a **butte**. Davis’s humid old-age plain is a **peneplain** with leftover **monadnocks**; King’s arid form is a **pediplain**.
-16. Glacial erosional forms: cirque, arête, horn, **U-valley**, hanging valley, fjord, tarn. Depositional forms: moraine, drumlin, esker, kame, outwash, erratic.
-17. A **fjord** is a drowned glacial trough. A **ria** is a drowned river valley. Do not treat them as the same estuary (ज्वारनदमुख) type.
-18. Aeolian points: **barchan** horns point **downwind**; parabolic dunes often show horns upwind. Yardang, zeugen and mushroom rocks are wind-eroded forms.
-19. Coastal deposition builds **spit, bar, tombolo and lagoon** with longshore drift. Coral reefs include fringing, barrier and atoll types. An **atoll’s shape** is **horseshoe / ring** around a central lagoon (not triangular or rectangular).
-20. Karst needs **limestone plus carbonation**. **Stalactite** hangs from the **ceiling**; **stalagmite** grows from the **floor**. Forms include doline, cave, uvala and polje.
-21. River capture vocabulary includes pirate stream, beheaded stream, wind gap and elbow of capture.
-22. East Indian rivers typically build **deltas**; west-flowing Narmada and Tapi typically form **estuaries** into the Arabian Sea.
+8. Fluvial stages: youth = **V-valley / waterfall / pothole**; mature = **meander / floodplain / levee**; old = **ox-bow / delta / peneplain**. Rejuvenation adds knickpoints, terraces and incised meanders.
+9. On a meander, the **concave** bank erodes and the **convex** bank builds a **point bar**. A **yazoo** stream is deferred behind a levee. Mountain-foot dumps are **alluvial fans**; coalescing fans form a **bajada**.
+10. Stream genetic types include consequent, subsequent, obsequent and resequent. **Antecedent** streams cut rising land; **superimposed** streams inherit a course from a cover.
+11. The **only** bird’s-foot example is the **Mississippi**. **Arcuate** examples include the **Nile** and the **Ganga–Brahmaputra**. The usual cuspate example is the **Tiber**.
+12. East-flowing Indian mouths often build deltas; **Narmada** and **Tapi** usually form estuaries into the Arabian Sea.
+13. Drainage patterns: **folded** beds → **trellis**; homogeneous rock → **dendritic**; dome → **radial**; joints / faults → **rectangular**; inward drain → **centripetal**.
+14. The classic fault-valley river tag is the **Damodar**, not the Chambal. **Narmada–Tapi** are rift / fault-line pairs as well.
+15. The **Imphal** basin is **lacustrine** (lake-filled), not loess or glacial. Kashmir Vale also has lacustrine / structural pairs. **Loess** is wind-laid silt (China belt).
+16. Structure landforms include cuesta, hogback, mesa and butte. A **mesa** is broader than a **butte**. Davis’s humid old-age plain is a **peneplain** with leftover **monadnocks**; King’s arid form is a **pediplain**.
+17. Glacial erosional forms: cirque, arête, horn, **U-valley**, hanging valley, fjord, tarn. Depositional forms: moraine, drumlin, esker, kame, outwash, erratic.
+18. A **fjord** is a drowned glacial trough. A **ria** is a drowned river valley. Do not treat them as the same estuary type.
+19. Aeolian points: **barchan** horns point **downwind**; parabolic dunes often show horns upwind. Yardang, zeugen and mushroom rocks are wind-eroded forms.
+20. Coastal deposition builds **spit, bar, tombolo and lagoon** with longshore drift. Coral reefs include fringing, barrier and atoll types. An **atoll** is horseshoe / ring around a lagoon.
+21. Karst needs **limestone plus carbonation**. **Stalactite** hangs from the **ceiling**; **stalagmite** grows from the **floor**. Forms include doline, cave, uvala and polje.
+22. River capture vocabulary includes pirate stream, beheaded stream, wind gap and elbow of capture.
 23. Conglomerate has rounded pebbles; breccia has angular fragments. Organic sedimentary rock pair includes coal.
-24. Intertrappean beds between Deccan (दक्कन) lava flows hold **land and freshwater** fossils, not marine plant–animal assemblages.
-25. Himadri (हिमाद्रि) is fossil-poor crystalline rock; Lesser Himalaya carries marine fossils; Shiwalik (शिवालिक) holds human remains — keep the three belts distinct when landform stems mix fossils.
+24. Intertrappean beds between Deccan lava flows hold **land and freshwater** fossils, not marine plant–animal assemblages.
+25. Himadri is fossil-poor crystalline rock; Lesser Himalaya carries marine fossils; Shiwalik holds human remains — keep the three belts distinct.
 26. A gorge is a steep mountain cut; a canyon is often the arid stair-step equivalent. U-valley = glacier; V-valley = youthful river.
-27. Mekong source is Tibet; its delta is in **Vietnam**, not Cambodia.
-28. The rock cycle links magma ⇄ igneous → sedimentary → metamorphic → melt, so the same material can reappear as a different rock type after burial, melting or recrystallisation.
-
----
-29. Mass wasting moves material downslope under gravity (creep, slide, flow, fall). It is an agent alongside river, wind, glacier, sea and groundwater.
-30. Glacial depositional set: **moraine, drumlin, esker, kame, outwash, erratic**. Erosional set: cirque, arête, horn, U-valley, hanging valley, fjord, tarn.
-31. Aeolian deposition builds **barchan** (horns downwind) and often **parabolic** dunes (horns upwind). Wind erosion forms yardang, zeugen and mushroom rocks.
-32. Coastal deposition builds spit, bar, tombolo and lagoon with longshore drift. Coral reefs: fringing, barrier and **atoll** (horseshoe / ring around a lagoon).
-33. If the stem calls a moribund delta a **subdivision**, the answer is the **Bengal Delta** (moribund, mature, active). If the stem asks which river’s delta is the moribund **lobe**, the answer is the **Cauvery**. **Krishna (कृष्णा)–Godavari (गोदावरी)** and **Mahanadi (महानदी)** fit neither wording.
-34. The **Irrawaddy** (इरावदी) delta lies in **southern Myanmar**.
-35. The **Nile** (नील) delta lies in **northern Egypt**.
-36. The **Indus** (सिंधु) delta lies in **Sindh, Pakistan**.
-37. The **Danube** (डेन्यूब) delta meets the **Black Sea** in **Romania and Ukraine**.
-38. The **Rhine** (राइन) delta lies in the **Netherlands**.
-39. The **Volga** (वोल्गा) delta lies on the **Caspian Sea**.
-40. The **Niger** (नाइजर) has an inland delta in **Mali** and a sea delta in **Nigeria**.
-41. The **Godavari** (गोदावरी) delta lies in **Andhra Pradesh**.
-42. The **Krishna** (कृष्णा) delta lies in **Andhra Pradesh**.
-43. The **Mahanadi** (महानदी) delta lies in **Odisha**.
-44. The **Cauvery** (कावेरी) delta lies in **Tamil Nadu**.
-45. The **Red River** delta lies in **northern Vietnam**.
-46. The **Amazon** meets the Atlantic in **Brazil** as a broad estuary.
-47. Dendritic rivers include the **Ganga (गंगा)** and **Indus (सिंधु)** plains, the **Godavari (गोदावरी)**, the **Mahanadi (महानदी)**, the **Krishna (कृष्णा)**, and the **Kaveri (कावेरी)**.
-48. From **Amarkantak (अमरकंटक)**, the **Narmada (नर्मदा)** flows west and the **Son (सोन)** flows toward the Ganga. That spread is **radial**. The Mahanadi rises at **Sihawa**, so it is not in this radial set.
-49. The Indian **trellis** ground is the old folded belt of **Singhbhum (सिंहभूम)** on the Chotanagpur plateau.
-50. **Rectangular** streams follow joints on the **Vindhyan (विंध्य)** rocks.
-51. **Centripetal** streams drain into **Loktak (लोकतक)** and into **Sambhar (सांभर)**.
-52. The **Sharavati (शरावती)** follows a **parallel** pattern down the Western Ghats.
+27. The rock cycle links magma ⇄ igneous → sedimentary → metamorphic → melt, so the same material can reappear as a different rock type.
+28. Mass wasting moves material downslope under gravity (creep, slide, flow, fall). It is an agent alongside river, wind, glacier, sea and groundwater.
+29. If the stem calls a moribund delta a **subdivision**, the answer is the **Bengal Delta** (moribund, mature, active). If it asks which river’s delta is the moribund **lobe**, the answer is the **Cauvery**.
+30. World delta locations: **Irrawaddy–southern Myanmar**; **Nile–northern Egypt**; **Indus–Sindh (Pakistan)**; **Danube–Black Sea (Romania/Ukraine)**; **Rhine–Netherlands**; **Volga–Caspian**; **Mekong–Vietnam**.
+31. The **Niger** has an inland delta in **Mali** and a sea delta in **Nigeria**. The **Amazon** meets the Atlantic in **Brazil** as a broad estuary. **Red River** delta = northern Vietnam.
+32. Indian delta States: Godavari and Krishna → **Andhra Pradesh**; Mahanadi → **Odisha**; Cauvery → **Tamil Nadu**.
+33. Dendritic rivers include Ganga and Indus plains, Godavari, Mahanadi, Krishna and Kaveri. From **Amarkantak**, Narmada west and Son toward Ganga give a **radial** spread (Mahanadi at Sihawa is outside that set).
+34. Indian **trellis** ground is the old folded belt of **Singhbhum** on the Chotanagpur plateau. **Rectangular** streams follow joints on **Vindhyan** rocks.
+35. **Centripetal** streams drain into **Loktak** and **Sambhar**. The **Sharavati** follows a **parallel** pattern down the Western Ghats.
+36. Mekong source is Tibet; its delta is in **Vietnam**, not Cambodia.
+37. Antecedent Himalayan streams keep courses while land rises; superimposed streams are let down from an older cover onto different structure below.
+38. Point-bar deposition on the convex bank pairs with cut-bank erosion on the concave bank — the meander migrates laterally toward the cut bank.
+39. Pediplain (King / arid) ≠ peneplain (Davis / humid old age). Monadnocks are resistant leftovers on a peneplain.
+40. Tombolo links an island to the mainland by a depositional bar; a spit is a free depositional finger built by longshore drift.
+41. Karst carbonation needs CO₂-charged water on limestone — sandstone country does not produce classic stalactite caves.
+42. Bird’s-foot delta grows finger distributaries into standing water (Mississippi); arcuate deltas have a bowed seaward front (Nile / Ganga–Brahmaputra).
+43. Bajada is coalesced alluvial fans along a mountain front; a single fan is not yet a bajada.
+44. Erratics are glacier-transported blocks left far from source; they are depositional evidence, not wind yardangs.
+45. Hanging valleys mark tributary glaciers that did not cut as deep as the main U-trough — waterfalls often mark their mouths after ice retreat.
+46. Rejuvenation signs — knickpoints, river terraces, incised meanders — mean renewed downcutting after uplift or base-level fall.
+47. Loess is wind-laid silt; do not tag Imphal basin as loess when the teaching key is lacustrine.
+48. West-flowing Narmada–Tapi estuary habit contrasts with east-coast delta habit — Arabian Sea macrotidal / structural factors sit behind the estuary tag.
 
 </details>
 

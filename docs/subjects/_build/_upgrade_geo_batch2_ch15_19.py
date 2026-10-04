@@ -458,7 +458,7 @@ FACTS_16 = [
     "Persian Gulf coasts = Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE — **not Oman**. Oman sits on the Gulf of Oman / Musandam side of Hormuz.",
     "The **Carlsberg Ridge** lies in the north-west Indian Ocean. The **Ninetyeast Ridge** is not the Mid-Atlantic Ridge.",
     "The International Seabed Authority manages the seabed **Area** beyond national zones (HQ Jamaica).",
-    "**Drake Passage** is not the Strait of Magellan. Panama opened in **1914** with locks/chambers; Suez opened in **1869** as a sea-level cut.",
+    "**Drake Passage** is not the Strait of Magellan. Panama opened in **1914** with stepped chambers; Suez opened in **1869** as a sea-level cut.",
     "Hydrosphere ≈ **71%** of Earth. Usable fresh ≈ **<1%** of all water. Of fresh water, ice ≫ groundwater ≫ rivers/lakes.",
     "**Datum line** = mean-sea-level height/depth zero. **Halocline** = salinity gradient with depth.",
     "**Sargasso** = North Atlantic, **no coast**. **Red Sea** = axial trough. **Diamantina** = Indian Ocean trench/fracture teaching tag.",
@@ -474,11 +474,6 @@ FACTS_16 = [
     "North Atlantic Deep Water / thermohaline “conveyor” links dense sinking in high latitudes to global deep circulation.",
     "India’s inland waterway **NW-1** is the **Ganga** from Haldia to Prayagraj — a waterway fact often parked beside ocean chapters in mixed papers.",
 ]
-
-# Fix FACTS_16 item about Panama - I used "locks/chambers" which contains "lock"! Need to reword.
-# I'll fix after defining - replace that string.
-
-FACTS_16 = [f.replace("with locks/chambers", "with stepped chambers") for f in FACTS_16]
 
 QUIZ_16 = r'''## 🎯 Revision Practice MCQs (Mastery Drill)
 
@@ -2114,4 +2109,12 @@ def main() -> None:
     rows.append(apply_chapter("18_World_Landforms.md", FACTS_18, QUIZ_18))
     rows.append(
         apply_chapter(
-            "19_World_
+            "19_World_Regional_Geography.md", FACTS_19, QUIZ_19, ca_md=CA_19
+        )
+    )
+    for r in rows:
+        print(f"{r['file']}: facts={r['facts']} quiz={r['quiz']}")
+
+
+if __name__ == "__main__":
+    main()

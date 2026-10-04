@@ -14,57 +14,53 @@ hide:
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Endogenic** processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. **Exogenic** processes wear and deposit at the surface. **Gradation** = degradation + aggradation.
-2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
+2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays useful.
 3. **Igneous** rocks are primary: **granite** is intrusive (acidic); **basalt** is extrusive (basic). Fossils belong to **sedimentary** rocks.
 4. Igneous bodies: batholith, laccolith, lopolith, phacolith; a **sill** is parallel to beds; a **dyke** cuts across beds.
-5. Metamorphic pairs: **limestone → marble**, **sandstone → quartzite**, **granite → gneiss**, **shale → slate / schist**. Foliated rocks include slate–schist–gneiss; marble and quartzite are non-foliated.
+5. Metamorphic pairs: **limestone → marble**, **sandstone → quartzite**, **granite → gneiss**, **shale → slate / schist**. Marble and quartzite are non-foliated.
 6. **Weathering** breaks rock **in situ**. **Erosion** picks up and carries material. **Denudation** is weathering plus erosion. Chemical routes include carbonation, oxidation, hydrolysis and hydration.
 7. River load moves by traction, saltation, suspension and solution. Agents of erosion are river, wind, glacier, sea, groundwater (karst) and gravity (mass wasting).
-8. Fluvial stages: youth = **V-valley / waterfall / pothole**; mature = **meander / floodplain / levee**; old = **ox-bow / delta (डेल्टा) / peneplain**. Rejuvenation adds knickpoints, terraces and incised meanders.
-9. On a meander, the **concave** bank erodes and the **convex** bank builds a **point bar**. A **yazoo** stream is deferred behind a levee. Mountain-foot dumps are **alluvial (जलोढ़) fans**; coalescing fans form a **bajada**.
-10. Stream genetic types include consequent (अनुवर्ती), subsequent (परवर्ती), obsequent and resequent. **Antecedent** (पूर्ववर्ती) streams cut rising land; **superimposed** (अध्यारोपित) streams inherit a course from a cover; subsequent streams follow structure.
-11. The **only** bird’s-foot (पक्षी-पाद) example is the **Mississippi**. **Arcuate** (चापाकार) examples include the **Nile** and the **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)**. The usual cuspate example is the **Tiber**. East-flowing Indian mouths often build deltas; **Narmada (नर्मदा)** and **Tapi (तापी)** usually form estuaries.
-12. Drainage patterns: **folded** beds → **trellis**; homogeneous rock → **dendritic** (वृक्षाकार); dome → **radial**; joints / faults → **rectangular**.
-13. The classic fault-valley river tag is the **Damodar** (दामोदर), not the Chambal (चंबल). **Narmada–Tapi** are rift / fault-line pairs as well.
-14. The **Imphal** basin is **lacustrine** (lake-filled), not loess or glacial. Kashmir Vale also has lacustrine / structural pairs. **Loess** is wind-laid silt (China belt), not Imphal.
-15. Structure landforms include cuesta, hogback, mesa and butte. A **mesa** is broader than a **butte**. Davis’s humid old-age plain is a **peneplain** with leftover **monadnocks**; King’s arid form is a **pediplain**.
-16. Glacial erosional forms: cirque, arête, horn, **U-valley**, hanging valley, fjord, tarn. Depositional forms: moraine, drumlin, esker, kame, outwash, erratic.
-17. A **fjord** is a drowned glacial trough. A **ria** is a drowned river valley. Do not treat them as the same estuary (ज्वारनदमुख) type.
-18. Aeolian points: **barchan** horns point **downwind**; parabolic dunes often show horns upwind. Yardang, zeugen and mushroom rocks are wind-eroded forms.
-19. Coastal deposition builds **spit, bar, tombolo and lagoon** with longshore drift. Coral reefs include fringing, barrier and atoll types. An **atoll’s shape** is **horseshoe / ring** around a central lagoon (not triangular or rectangular).
-20. Karst needs **limestone plus carbonation**. **Stalactite** hangs from the **ceiling**; **stalagmite** grows from the **floor**. Forms include doline, cave, uvala and polje.
-21. River capture vocabulary includes pirate stream, beheaded stream, wind gap and elbow of capture.
-22. East Indian rivers typically build **deltas**; west-flowing Narmada and Tapi typically form **estuaries** into the Arabian Sea.
+8. Fluvial stages: youth = **V-valley / waterfall / pothole**; mature = **meander / floodplain / levee**; old = **ox-bow / delta / peneplain**. Rejuvenation adds knickpoints, terraces and incised meanders.
+9. On a meander, the **concave** bank erodes and the **convex** bank builds a **point bar**. A **yazoo** stream is deferred behind a levee. Mountain-foot dumps are **alluvial fans**; coalescing fans form a **bajada**.
+10. Stream genetic types include consequent, subsequent, obsequent and resequent. **Antecedent** streams cut rising land; **superimposed** streams inherit a course from a cover.
+11. The **only** bird’s-foot example is the **Mississippi**. **Arcuate** examples include the **Nile** and the **Ganga–Brahmaputra**. The usual cuspate example is the **Tiber**.
+12. East-flowing Indian mouths often build deltas; **Narmada** and **Tapi** usually form estuaries into the Arabian Sea.
+13. Drainage patterns: **folded** beds → **trellis**; homogeneous rock → **dendritic**; dome → **radial**; joints / faults → **rectangular**; inward drain → **centripetal**.
+14. The classic fault-valley river tag is the **Damodar**, not the Chambal. **Narmada–Tapi** are rift / fault-line pairs as well.
+15. The **Imphal** basin is **lacustrine** (lake-filled), not loess or glacial. Kashmir Vale also has lacustrine / structural pairs. **Loess** is wind-laid silt (China belt).
+16. Structure landforms include cuesta, hogback, mesa and butte. A **mesa** is broader than a **butte**. Davis’s humid old-age plain is a **peneplain** with leftover **monadnocks**; King’s arid form is a **pediplain**.
+17. Glacial erosional forms: cirque, arête, horn, **U-valley**, hanging valley, fjord, tarn. Depositional forms: moraine, drumlin, esker, kame, outwash, erratic.
+18. A **fjord** is a drowned glacial trough. A **ria** is a drowned river valley. Do not treat them as the same estuary type.
+19. Aeolian points: **barchan** horns point **downwind**; parabolic dunes often show horns upwind. Yardang, zeugen and mushroom rocks are wind-eroded forms.
+20. Coastal deposition builds **spit, bar, tombolo and lagoon** with longshore drift. Coral reefs include fringing, barrier and atoll types. An **atoll** is horseshoe / ring around a lagoon.
+21. Karst needs **limestone plus carbonation**. **Stalactite** hangs from the **ceiling**; **stalagmite** grows from the **floor**. Forms include doline, cave, uvala and polje.
+22. River capture vocabulary includes pirate stream, beheaded stream, wind gap and elbow of capture.
 23. Conglomerate has rounded pebbles; breccia has angular fragments. Organic sedimentary rock pair includes coal.
-24. Intertrappean beds between Deccan (दक्कन) lava flows hold **land and freshwater** fossils, not marine plant–animal assemblages.
-25. Himadri (हिमाद्रि) is fossil-poor crystalline rock; Lesser Himalaya carries marine fossils; Shiwalik (शिवालिक) holds human remains — keep the three belts distinct when landform stems mix fossils.
+24. Intertrappean beds between Deccan lava flows hold **land and freshwater** fossils, not marine plant–animal assemblages.
+25. Himadri is fossil-poor crystalline rock; Lesser Himalaya carries marine fossils; Shiwalik holds human remains — keep the three belts distinct.
 26. A gorge is a steep mountain cut; a canyon is often the arid stair-step equivalent. U-valley = glacier; V-valley = youthful river.
-27. Mekong source is Tibet; its delta is in **Vietnam**, not Cambodia.
-28. The rock cycle links magma ⇄ igneous → sedimentary → metamorphic → melt, so the same material can reappear as a different rock type after burial, melting or recrystallisation.
-29. Mass wasting moves material downslope under gravity (creep, slide, flow, fall). It is an agent alongside river, wind, glacier, sea and groundwater.
-30. Glacial depositional set: **moraine, drumlin, esker, kame, outwash, erratic**. Erosional set: cirque, arête, horn, U-valley, hanging valley, fjord, tarn.
-31. Aeolian deposition builds **barchan** (horns downwind) and often **parabolic** dunes (horns upwind). Wind erosion forms yardang, zeugen and mushroom rocks.
-32. Coastal deposition builds spit, bar, tombolo and lagoon with longshore drift. Coral reefs: fringing, barrier and **atoll** (horseshoe / ring around a lagoon).
-33. If the stem calls a moribund delta a **subdivision**, the answer is the **Bengal Delta** (moribund, mature, active). If the stem asks which river’s delta is the moribund **lobe**, the answer is the **Cauvery**. **Krishna (कृष्णा)–Godavari (गोदावरी)** and **Mahanadi (महानदी)** fit neither wording.
-34. The **Irrawaddy** (इरावदी) delta lies in **southern Myanmar**.
-35. The **Nile** (नील) delta lies in **northern Egypt**.
-36. The **Indus** (सिंधु) delta lies in **Sindh, Pakistan**.
-37. The **Danube** (डेन्यूब) delta meets the **Black Sea** in **Romania and Ukraine**.
-38. The **Rhine** (राइन) delta lies in the **Netherlands**.
-39. The **Volga** (वोल्गा) delta lies on the **Caspian Sea**.
-40. The **Niger** (नाइजर) has an inland delta in **Mali** and a sea delta in **Nigeria**.
-41. The **Godavari** (गोदावरी) delta lies in **Andhra Pradesh**.
-42. The **Krishna** (कृष्णा) delta lies in **Andhra Pradesh**.
-43. The **Mahanadi** (महानदी) delta lies in **Odisha**.
-44. The **Cauvery** (कावेरी) delta lies in **Tamil Nadu**.
-45. The **Red River** delta lies in **northern Vietnam**.
-46. The **Amazon** meets the Atlantic in **Brazil** as a broad estuary.
-47. Dendritic rivers include the **Ganga (गंगा)** and **Indus (सिंधु)** plains, the **Godavari (गोदावरी)**, the **Mahanadi (महानदी)**, the **Krishna (कृष्णा)**, and the **Kaveri (कावेरी)**.
-48. From **Amarkantak (अमरकंटक)**, the **Narmada (नर्मदा)** flows west and the **Son (सोन)** flows toward the Ganga. That spread is **radial**. The Mahanadi rises at **Sihawa**, so it is not in this radial set.
-49. The Indian **trellis** ground is the old folded belt of **Singhbhum (सिंहभूम)** on the Chotanagpur plateau.
-50. **Rectangular** streams follow joints on the **Vindhyan (विंध्य)** rocks.
-51. **Centripetal** streams drain into **Loktak (लोकतक)** and into **Sambhar (सांभर)**.
-52. The **Sharavati (शरावती)** follows a **parallel** pattern down the Western Ghats.
+27. The rock cycle links magma ⇄ igneous → sedimentary → metamorphic → melt, so the same material can reappear as a different rock type.
+28. Mass wasting moves material downslope under gravity (creep, slide, flow, fall). It is an agent alongside river, wind, glacier, sea and groundwater.
+29. If the stem calls a moribund delta a **subdivision**, the answer is the **Bengal Delta** (moribund, mature, active). If it asks which river’s delta is the moribund **lobe**, the answer is the **Cauvery**.
+30. World delta locations: **Irrawaddy–southern Myanmar**; **Nile–northern Egypt**; **Indus–Sindh (Pakistan)**; **Danube–Black Sea (Romania/Ukraine)**; **Rhine–Netherlands**; **Volga–Caspian**; **Mekong–Vietnam**.
+31. The **Niger** has an inland delta in **Mali** and a sea delta in **Nigeria**. The **Amazon** meets the Atlantic in **Brazil** as a broad estuary. **Red River** delta = northern Vietnam.
+32. Indian delta States: Godavari and Krishna → **Andhra Pradesh**; Mahanadi → **Odisha**; Cauvery → **Tamil Nadu**.
+33. Dendritic rivers include Ganga and Indus plains, Godavari, Mahanadi, Krishna and Kaveri. From **Amarkantak**, Narmada west and Son toward Ganga give a **radial** spread (Mahanadi at Sihawa is outside that set).
+34. Indian **trellis** ground is the old folded belt of **Singhbhum** on the Chotanagpur plateau. **Rectangular** streams follow joints on **Vindhyan** rocks.
+35. **Centripetal** streams drain into **Loktak** and **Sambhar**. The **Sharavati** follows a **parallel** pattern down the Western Ghats.
+36. Mekong source is Tibet; its delta is in **Vietnam**, not Cambodia.
+37. Antecedent Himalayan streams keep courses while land rises; superimposed streams are let down from an older cover onto different structure below.
+38. Point-bar deposition on the convex bank pairs with cut-bank erosion on the concave bank — the meander migrates laterally toward the cut bank.
+39. Pediplain (King / arid) ≠ peneplain (Davis / humid old age). Monadnocks are resistant leftovers on a peneplain.
+40. Tombolo links an island to the mainland by a depositional bar; a spit is a free depositional finger built by longshore drift.
+41. Karst carbonation needs CO₂-charged water on limestone — sandstone country does not produce classic stalactite caves.
+42. Bird’s-foot delta grows finger distributaries into standing water (Mississippi); arcuate deltas have a bowed seaward front (Nile / Ganga–Brahmaputra).
+43. Bajada is coalesced alluvial fans along a mountain front; a single fan is not yet a bajada.
+44. Erratics are glacier-transported blocks left far from source; they are depositional evidence, not wind yardangs.
+45. Hanging valleys mark tributary glaciers that did not cut as deep as the main U-trough — waterfalls often mark their mouths after ice retreat.
+46. Rejuvenation signs — knickpoints, river terraces, incised meanders — mean renewed downcutting after uplift or base-level fall.
+47. Loess is wind-laid silt; do not tag Imphal basin as loess when the teaching key is lacustrine.
+48. West-flowing Narmada–Tapi estuary habit contrasts with east-coast delta habit — Arabian Sea macrotidal / structural factors sit behind the estuary tag.
 
 
 ---
@@ -163,79 +159,11 @@ hide:
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
 **Q1.**
-With reference to Topic 15 — Geomorphology & Landform Processes, which one of the following is a correct must-score association?
+With reference to rock types, which of the following pairs is/are correctly matched?
 
-A. Endogenic
-B. structure–process–time
-C. Igneous
-D. sill
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-**Logic:** From consolidated facts: 1. Endogenic processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. Exogenic processes wear and deposit at the surface. Gradation = degradation + aggr
-
-</details>
-
-**Q2.**
-With reference to Topic 15 — Geomorphology & Landform Processes, which one of the following is a correct must-score association?
-
-A. Endogenic
-B. structure–process–time
-C. Igneous
-D. sill
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-**Logic:** From consolidated facts: 2. Davis’s cycle of erosion is framed as structure–process–time (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
-
-</details>
-
-**Q3.**
-With reference to Topic 15 — Geomorphology & Landform Processes, which one of the following is a correct must-score association?
-
-A. Endogenic
-B. structure–process–time
-C. Igneous
-D. sill
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-**Logic:** From consolidated facts: 3. Igneous rocks are primary: granite is intrusive (acidic); basalt is extrusive (basic). Fossils belong to sedimentary rocks.
-
-</details>
-
-**Q4.**
-With reference to Topic 15 — Geomorphology & Landform Processes, which one of the following is a correct must-score association?
-
-A. Endogenic
-B. structure–process–time
-C. Igneous
-D. sill
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-**Logic:** From consolidated facts: 4. Igneous bodies: batholith, laccolith, lopolith, phacolith; a sill is parallel to beds; a dyke cuts across beds.
-
-</details>
-
-**Q5.**
-With reference to the chapter, which of the following statements is/are correct?
-
-1. 1. Endogenic processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. Exogenic processes wear and deposit at the
-2. 2. Davis’s cycle of erosion is framed as structure–process–time (youth–mature–old). Penck and King modify timing, but the landform vocabular
-3. This association is unrelated to the chapter and is always false in prelims stems.
+1. Granite — intrusive acidic igneous
+2. Basalt — extrusive basic igneous
+3. Limestone → quartzite
 
 A. 1 and 2
 B. Only 3
@@ -245,287 +173,354 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** Statements 1 and 2 are correct.
 
-**Logic:** Statements 1 and 2 follow the chapter locks; 3 is planted false.
+**Logic:** Limestone → **marble**; sandstone → **quartzite**.
+
+</details>
+
+**Q2.**
+Weathering differs from erosion because weathering:
+
+A. Always transports material to the sea
+B. Breaks rock in situ without requiring transport
+C. Occurs only in deserts
+D. Is identical to mass wasting
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Weathering is **in situ** breakdown; erosion includes transport.
+
+**Logic:** Denudation = weathering + erosion.
+
+</details>
+
+**Q3.**
+The only classic bird’s-foot delta example in the usual set is the:
+
+A. Nile
+B. Ganga–Brahmaputra
+C. Mississippi
+D. Tiber
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mississippi = bird’s-foot; Nile/Ganga–Brahmaputra = arcuate; Tiber = cuspate.
+
+**Logic:** Shape tags are frequently swapped.
+
+</details>
+
+**Q4.**
+Assertion (A): Narmada and Tapi usually form estuaries rather than large deltas.
+Reason (R): Most east-flowing Peninsular rivers build deltas on the Bay of Bengal coast.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both are true contrast facts; R describes east-coast habit rather than directly causing the Narmada–Tapi estuary form.
+
+**A/R logic:** Keep west-coast estuary vs east-coast delta as a paired contrast.
+
+</details>
+
+**Q5.**
+Which drainage pattern develops on homogeneous rock?
+
+A. Trellis
+B. Dendritic
+C. Rectangular
+D. Radial
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Homogeneous lithology → **dendritic**.
+
+**Logic:** Trellis = folded beds; rectangular = joints/faults; radial = dome/volcano.
 
 </details>
 
 **Q6.**
-With reference to the chapter, which of the following statements is/are correct?
+Match List-I with List-II and select the correct answer using the code given below the lists:
 
-1. 3. Igneous rocks are primary: granite is intrusive (acidic); basalt is extrusive (basic). Fossils belong to sedimentary rocks.
-2. 4. Igneous bodies: batholith, laccolith, lopolith, phacolith; a sill is parallel to beds; a dyke cuts across beds.
-3. This association is unrelated to the chapter and is always false in prelims stems.
+| List-I (Feature) | List-II (Association) |
+|---|---|
+| 1. Fjord | A. Drowned glacial trough |
+| 2. Ria | B. Drowned river valley |
+| 3. Barchan horns | C. Point downwind |
+| 4. Stalactite | D. Hangs from cave ceiling |
 
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. 1, 2 and 3
+A. 1-A, 2-B, 3-C, 4-D
+B. 1-B, 2-A, 3-C, 4-D
+C. 1-A, 2-C, 3-B, 4-D
+D. 1-A, 2-B, 3-D, 4-C
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: A.** Standard landform pairs.
 
-**Logic:** Only 1 and 2 are supported; 3 is false.
+**Logic:** Row order is not the answer code. Fjord/ria swap is common.
 
 </details>
 
 **Q7.**
-With reference to the chapter, which of the following statements is/are correct?
+The Imphal basin is best tagged as:
 
-1. 5. Metamorphic pairs: limestone → marble, sandstone → quartzite, granite → gneiss, shale → slate / schist. Foliated rocks include slate–schi
-2. 6. Weathering breaks rock in situ. Erosion picks up and carries material. Denudation is weathering plus erosion. Chemical routes include car
-3. This association is unrelated to the chapter and is always false in prelims stems.
-
-A. Only 3
-B. 1 and 3
-C. 1 and 2
-D. Only 2
+A. Loess basin
+B. Lacustrine basin
+C. Glacial trough only
+D. Volcanic caldera
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: B.** Imphal = **lacustrine** (lake-filled) basin.
 
-**Logic:** 1 and 2 are true; 3 is false.
+**Logic:** Loess is the wind-silt distractor.
 
 </details>
 
 **Q8.**
-With reference to the chapter, which of the following statements is/are correct?
+Which Indian river is the classic fault-valley tag (not Chambal)?
 
-1. 7. River load moves by traction, saltation, suspension and solution. Agents of erosion are river, wind, glacier, sea, groundwater (karst) an
-2. 8. Fluvial stages: youth = V-valley / waterfall / pothole; mature = meander / floodplain / levee; old = ox-bow / delta (डेल्टा) / peneplain.
-3. This association is unrelated to the chapter and is always false in prelims stems.
+A. Godavari
+B. Damodar
+C. Kaveri
+D. Betwa
 
-A. 1, 2 and 3
-B. Only 1
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Damodar** is the fault-valley river tag.
+
+**Logic:** Chambal is the frequent wrong option.
+
+</details>
+
+**Q9.**
+Peneplain and pediplain are correctly distinguished as:
+
+A. Both arid King forms
+B. Davis humid old-age plain vs King arid form
+C. Both glacial plains
+D. Both volcanic plateaus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Peneplain = Davis humid old age; pediplain = King arid.
+
+**Logic:** Monadnocks sit on peneplains as resistant leftovers.
+
+</details>
+
+**Q10.**
+Consider the following statements:
+
+1. Concave bank of a meander erodes.
+2. Convex bank builds a point bar.
+3. Yazoo stream flows freely across the main floodplain without levees.
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** A yazoo is deferred **behind a levee**.
+
+</details>
+
+**Q11.**
+Mekong delta lies in:
+
+A. Cambodia
+B. Southern Vietnam
+C. Thailand
+D. Laos
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mekong delta = **southern Vietnam**.
+
+**Logic:** Cambodia is the classic wrong country.
+
+</details>
+
+**Q12.**
+From Amarkantak, the radial pair often taught is:
+
+A. Mahanadi and Godavari
+B. Narmada and Son
+C. Narmada and Tapi
+D. Son and Damodar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Narmada west and Son toward the Ganga — radial from Amarkantak.
+
+**Logic:** Mahanadi rises at Sihawa, outside that radial set.
+
+</details>
+
+**Q13.**
+Assertion (A): A fjord and a ria are the same drowned-valley type.
+Reason (R): A fjord is a drowned glacial trough.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A is false; R is true.
+
+**A/R logic:** Ria = drowned river valley; fjord = drowned glacial trough.
+
+</details>
+
+**Q14.**
+Centripetal drainage into lakes is classically illustrated by:
+
+A. Sharavati and Western Ghats
+B. Loktak and Sambhar
+C. Singhbhum trellis only
+D. Mississippi bird’s-foot
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Loktak** and **Sambhar** are centripetal examples.
+
+**Logic:** Sharavati = parallel; Singhbhum = trellis.
+
+</details>
+
+**Q15.**
+Which metamorphic pair is correct?
+
+A. Sandstone → marble
+B. Limestone → quartzite
+C. Granite → gneiss
+D. Shale → marble
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Granite → **gneiss**.
+
+**Logic:** Limestone→marble; sandstone→quartzite; shale→slate/schist.
+
+</details>
+
+**Q16.**
+If a stem calls a moribund delta a subdivision of a larger delta, the usual answer is:
+
+A. Cauvery lobe alone as the whole Ganga system
+B. Bengal Delta (moribund / mature / active)
+C. Nile bird’s-foot
+D. Tiber arcuate
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bengal Delta subdivisions = moribund, mature, active.
+
+**Logic:** Cauvery is the moribund **lobe** wording trap in a different stem shape.
+
+</details>
+
+**Q17.**
+Which of the following is/are glacial depositional forms?
+
+1. Moraine
+2. Cirque
+3. Esker
+4. Drumlin
+
+A. 1, 3 and 4
+B. Only 2
 C. 2 and 3
 D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: A.** Cirque is erosional; moraine, esker and drumlin are depositional.
 
-**Logic:** Only 1 and 2 are true from the consolidated set.
-
-</details>
-
-**Q9.**
-With reference to the chapter, which of the following statements is/are correct?
-
-1. 9. On a meander, the concave bank erodes and the convex bank builds a point bar. A yazoo stream is deferred behind a levee. Mountain-foot du
-2. 10. Stream genetic types include consequent (अनुवर्ती), subsequent (परवर्ती), obsequent and resequent. Antecedent (पूर्ववर्ती) streams cut r
-3. This association is unrelated to the chapter and is always false in prelims stems.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-**Logic:** Statements 1 and 2 follow the chapter locks; 3 is planted false.
-
-</details>
-
-**Q10.**
-With reference to the chapter, which of the following statements is/are correct?
-
-1. 11. The only bird’s-foot (पक्षी-पाद) example is the Mississippi. Arcuate (चापाकार) examples include the Nile and the Ganga (गंगा)–Brahmaputr
-2. 12. Drainage patterns: folded beds → trellis; homogeneous rock → dendritic (वृक्षाकार); dome → radial; joints / faults → rectangular.
-3. This association is unrelated to the chapter and is always false in prelims stems.
-
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-**Logic:** Only 1 and 2 are supported; 3 is false.
-
-</details>
-
-**Q11.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Weathering vs erosion — In situ vs transport
-B. Same thing — In situ vs transport
-C. Weathering vs erosion — Same thing
-D. None of the pairs above is used in this chapter
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-**Logic:** Correct lock is Weathering vs erosion → In situ vs transport. Trap is Same thing.
-
-</details>
-
-**Q12.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Granite vs basalt — Intrusive acidic vs extrusive basic
-B. Swapped — Intrusive acidic vs extrusive basic
-C. None of the pairs above is used in this chapter
-D. Granite vs basalt — Swapped
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-**Logic:** Correct lock is Granite vs basalt → Intrusive acidic vs extrusive basic. Trap is Swapped.
-
-</details>
-
-**Q13.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Marble — From sandstone
-B. Marble — From limestone
-C. From sandstone — From limestone
-D. None of the pairs above is used in this chapter
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-**Logic:** Correct lock is Marble → From limestone. Trap is From sandstone.
-
-</details>
-
-**Q14.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Quartzite — From sandstone
-B. Quartzite — From limestone
-C. From limestone — From sandstone
-D. None of the pairs above is used in this chapter
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-**Logic:** Correct lock is Quartzite → From sandstone. Trap is From limestone.
-
-</details>
-
-**Q15.**
-Assertion (A): 1. Endogenic processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. Exogenic processes wear and deposit at the surface. Gradation 
-Reason (R): This reason reverses the standard chapter association and is false.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-**A/R logic:** A follows the consolidated lock; R is a planted false reason.
-
-</details>
-
-**Q16.**
-Assertion (A): This reason reverses the standard chapter association and is false.
-Reason (R): 2. Davis’s cycle of erosion is framed as structure–process–time (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-**A/R logic:** A is false; R is a true chapter lock.
-
-</details>
-
-**Q17.**
-Which one of the following is correctly matched / stated?
-
-A. concave
-B. Endogenic
-C. structure–process–time
-D. Igneous
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-**Logic:** Supported by: 9. On a meander, the concave bank erodes and the convex bank builds a point bar. A yazoo stream is deferred behind a levee. Mountain-foot dumps are alluvial (जलोढ़) fans; coalescin
+**Logic:** Split erosional vs depositional glacial sets carefully.
 
 </details>
 
 **Q18.**
-Which one of the following is correctly matched / stated?
+Indian trellis drainage is classically linked to:
 
-A. Endogenic
-B. Antecedent
-C. structure–process–time
-D. Igneous
+A. Vindhyan rectangular joints only
+B. Singhbhum folded belt on Chotanagpur
+C. Amarkantak radial node
+D. Loktak centripetal basin
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: B.** Trellis ↔ **Singhbhum** folded belt.
 
-**Logic:** Supported by: 10. Stream genetic types include consequent (अनुवर्ती), subsequent (परवर्ती), obsequent and resequent. Antecedent (पूर्ववर्ती) streams cut rising land; superimposed (अध्यारोपित) st
+**Logic:** Vindhyan = rectangular; Amarkantak = radial; Loktak = centripetal.
 
 </details>
 
 **Q19.**
-Which one of the following is correctly matched / stated?
+Arrange fluvial stage features from youth to old age:
 
-A. Endogenic
-B. structure–process–time
-C. only
-D. Igneous
+1. Ox-bow / delta / peneplain
+2. V-valley / waterfall / pothole
+3. Meander / floodplain / levee
+
+A. 2–3–1
+B. 3–2–1
+C. 1–2–3
+D. 2–1–3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: A.** Youth → mature → old.
 
-**Logic:** Supported by: 11. The only bird’s-foot (पक्षी-पाद) example is the Mississippi. Arcuate (चापाकार) examples include the Nile and the Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र). The usual cuspate examp
+**Logic:** V-valley first; meanders mid; ox-bow/delta last.
 
 </details>
 
 **Q20.**
-Which one of the following is correctly matched / stated?
+Which one of the following pairs is NOT correctly matched?
 
-A. Endogenic
-B. structure–process–time
-C. Igneous
-D. folded
+A. Stalagmite — grows from cave floor
+B. Tombolo — links island to mainland
+C. Barchan horns — point upwind
+D. Bajada — coalesced alluvial fans
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: C.** Barchan horns point **downwind**.
 
-**Logic:** Supported by: 12. Drainage patterns: folded beds → trellis; homogeneous rock → dendritic (वृक्षाकार); dome → radial; joints / faults → rectangular.
+**Logic:** Parabolic dunes often show horns upwind — the swap trap.
 
 </details>
-
 

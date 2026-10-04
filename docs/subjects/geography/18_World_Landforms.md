@@ -25,50 +25,53 @@ None mandatory — static world-map chapter. No living scheme tag.
 
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. 1. Area order (largest → smallest): **Asia → Africa → North America → South America → Antarctica → Europe → Australia**. Australia is the **smallest** continent; Africa has the **most countries (~54)**.
-2. 2. Mean elevation leader is **Antarctica** (~2300 m). Europe has the **highest share of plains** in its area. **Guyana** is in **South America**, not Africa.
-3. 3. The **Andes** are the world’s **longest** fold chain. The **Himalaya** (हिमालय) are the **highest**. **Aconcagua** stands in the Andes of Argentina. Length ladder pair: Andes > Rockies > Great Dividing Range > Himalaya.
-4. 4. **Pyrenees** = Spain–France; **Alps** = Switzerland / central Europe (**not England**); **Apennine** = Italy; **Balkan** = Bulgaria; **Urals** mark Europe–Asia. **British Columbia** = “Sea of Mountains.”
-5. 5. **Toubkal** (Atlas) is in **Morocco**. **Hoggar** is in **Algeria**. **Stanley / Rwenzori** is in Uganda. **Kilimanjaro** is in **Tanzania**. **Darling Range** = SW Australia.
-6. 6. **Chimborazo** is in **Ecuador**. The Atlas system is North African — do not place it in France or Spain. **Sierra Nevada** = block mountain (not young fold like Rockies/Alps/Himalaya).
-7. 7. **Kilimanjaro** sits on the **East African Rift** and is **not** in the Pacific Ring of Fire. **Etna** is in Italy / the Mediterranean. Tertiary young folds: Alps, Andes, Himalaya, Rockies, Atlas; Appalachians = **Caledonian / old**.
-8. 8. **Tibet** is the highest large plateau (~4500 m). The **Pamir** is the “**Roof of the world**”. The **Altiplano** is Bolivia–Peru. The **Meseta** / **Madrid** is Spain. **Patagonia Plateau** = mineral storehouse pair.
-9. 9. The **Colorado Plateau** holds the Grand Canyon. The **Columbia Plateau** is a lava plateau. Do not swap the two. **Telegraphic Plateau** sits on the **North Atlantic Ridge** (not Indian Ocean).
-10. 10. Grassland names: **Pampas** = Argentina; **Campos** = Brazil; **Llanos** = Venezuela–Colombia; **Puszta** (पुस्ज़टा) = Hungary; **Prairie** (प्रेयरी) = North America; **Steppe** (स्टेपी) = Eurasia; **Veld** = South Africa; **Downs** = Australia.
-11. 11. **Borneo** is shared by three countries and is **not** a volcanic dump. **Java** and **Sumatra** sit on a volcanic arc.
-12. 12. Island rank by size: **Greenland > New Guinea > Borneo > Madagascar > Baffin > Sumatra > Honshu > Victoria > Great Britain > Ellesmere**. Australia is a continent, not ranked as an island in that list. **Honshu** = Japan’s largest; **Faroe** = Sheep Islands (Denmark).
-13. 13. The **Gobi** lies in **Mongolia and China** only. It is a cold desert, not Russia or Kazakhstan.
-14. 14. Hot-desert size order: **Great Sandy < Gobi < Arabian < Sahara**. The **Sahara** is the largest hot desert. **Thar** (थार) = densest populated desert; **Atacama** = driest; **Europe** has the least desertification (मरुस्थलीकरण) problem among continents.
-15. 15. **Gibson** = Australia (not Brazil). **Sonoran** = USA. **Taklamakan** = China. **Karakum** = Turkmenistan (also Kazakhstan fringe note).
-16. 16. The **Atacama** (N Chile / S Peru — not southern Chile alone) is the driest. The **Namib** is a fog coast. **Patagonia** is Argentina’s rain-shadow / temperate desert.
-17. 17. Hot deserts favour **west coasts** because of the Horse Latitudes (हॉर्स अक्षांश) plus cold ocean currents (~15–30°).
-18. 18. “Land of Big Games” points to the tropical **savanna** (सवाना).
-19. 19. Sclerophyll scrub: **Maquis** = Mediterranean; **Fynbos** = South Africa; **Chaparral** = California; **Matorral** = Chile.
-20. 20. **Epiphytes** mark equatorial forest; **baobab** marks savanna; **cedars** mark the Mediterranean; **acacia** marks the Sahara fringe.
-21. 21. In Brazil, **Selva** (सेल्वा) is the rainforest and **Terra Roxa** is the famous coffee soil — both are Brazil facts.
-22. 22. The **Mediterranean** climate has **winter rain** on five **west coasts** near **30–45°**. Summer is dry under the subtropical high.
-23. 23. **Taiga** is boreal conifer forest. **Tundra** (टुंड्रा) is treeless. Climate letters: Savanna **Aw**, Steppe **BS**, Tundra **ET**.
-24. 24. Volcano pairs: **Rainier** USA; **Etna** Italy; **Paricutin** Mexico; **Apo** Philippines; also Fuji (Japan), Pinatubo (Philippines), St Helens (USA).
-25. 25. Peak continents: **Elbrus** = Europe (Caucasus / Russia); **Mont Blanc** = Alps; **Denali / McKinley** = North America; **Kosciuszko** = Australia mainland; **Cook / Aoraki** = New Zealand Southern Alps.
-26. 26. Temperate grasslands (Prairie, Steppe, Pampas, Veld, Downs) sit on **chernozem**-type wheat soils. Residual and dome mountains are worn or laccolith leftovers, not young fold belts.
-27. 27. **Death Valley** (California) = rift valley, extreme heat, Devil’s Golf Course salt (लवणाध्यक्ष) pan. **Silicon Valley** = California chip belt. **Great Artesian Basin** = Australia. Blind valley / sinkhole = **karst**.
-28. 28. **Arakan Yoma** = Myanmar (India–Myanmar hills: Naga (नागा), Chin, Patkai (पटकाई) / Lushai — not Khasi (खासी) as the boundary trio). **Golan Heights** = Middle East (SW Syria / occupied note). **Black Forest** = Germany (east of Rhine; Vosges west).
-29. 29. Plateau types in teaching: intermontane (**Tibet**), piedmont, and volcanic / lava (**Columbia**, Deccan). **Pamir** = “Roof of the world”; **Altiplano** = Bolivia–Peru.
-30. 30. Valley tags: rift valleys (East Africa, Rhine), glacial U-valleys, and structural vales. **Death Valley** = rift / extreme heat; do not confuse with Silicon Valley.
-31. **Andes vs Himalaya** = Andes = **longest** fold chain; Himalaya = **highest**. Trap: Swapped.
-32. **Kilimanjaro vs Fuji** = Kilimanjaro = **E African Rift**; Fuji = Ring of Fire. Trap: Kilimanjaro in Pacific.
-33. **Pyrenees vs Alps** = Pyrenees = **Spain–France**; Alps = Switzerland / C Europe. Trap: Alps on Spain–France MCQ.
-34. **Apennine vs Balkan** = Apennine = **Italy**; Balkan = **Bulgaria**. Trap: Swapped.
-35. **Atlas vs Hoggar** = Atlas high peak **Toubkal = Morocco**; Hoggar = **Algeria**. Trap: Both “North Africa” dump.
-36. **Gobi vs Sahara** = Gobi = **cold**, Mongolia+China; Sahara = **hot**, Africa. Trap: Gobi in Kazakhstan.
-37. **Gibson vs Sonoran** = Gibson = **Australia**; Sonoran = **USA**. Trap: Gibson–Brazil.
-38. **Pampas vs Campos** = Pampas = **Argentina**; Campos = **Brazil**. Trap: Pampas–Brazil/Chile.
-39. **Prairie vs Steppe** = Prairie = N America; Steppe = Eurasia. Trap: Names swapped.
-40. **Savanna vs hot desert** = “Land of Big Games” = **Savanna**, not Sahara. Trap: Desert = safari trap.
-41. **Maquis vs Chaparral** = Maquis = **Med basin**; Chaparral = **California**. Trap: Same shrub, wrong coast.
-42. **Fynbos vs Matorral** = Fynbos = **South Africa**; Matorral = **Chile**. Trap: Swapped SH west coasts.
+1. Area order (largest → smallest): **Asia → Africa → North America → South America → Antarctica → Europe → Australia**. Australia is the **smallest** continent; Africa has the **most countries (~54)**.
+2. Mean elevation leader is **Antarctica** (~2300 m). Europe has the **highest share of plains** in its area. **Guyana** is in **South America**, not Africa.
+3. The **Andes** are the world’s **longest** fold chain. The **Himalaya** are the **highest**. **Aconcagua** stands in the Andes of Argentina.
+4. Length ladder pair: Andes > Rockies > Great Dividing Range > Himalaya.
+5. **Pyrenees** = Spain–France; **Alps** = Switzerland / central Europe (**not England**); **Apennine** = Italy; **Balkan** = Bulgaria; **Urals** mark Europe–Asia.
+6. **Toubkal** (Atlas) is in **Morocco**. **Hoggar** is in **Algeria**. **Stanley / Rwenzori** is in Uganda. **Kilimanjaro** is in **Tanzania**. **Darling Range** = SW Australia.
+7. **Chimborazo** is in **Ecuador**. The Atlas system is North African. **Sierra Nevada** = block mountain (not young fold like Rockies/Alps/Himalaya).
+8. **Kilimanjaro** sits on the **East African Rift** and is **not** in the Pacific Ring of Fire. **Etna** is in Italy / the Mediterranean.
+9. Tertiary young folds: Alps, Andes, Himalaya, Rockies, Atlas; Appalachians = **Caledonian / old** residual fold belt.
+10. **Tibet** is the highest large plateau (~4500 m). The **Pamir** is the “**Roof of the world**”. The **Altiplano** is Bolivia–Peru. The **Meseta** / Madrid is Spain.
+11. The **Colorado Plateau** holds the Grand Canyon. The **Columbia Plateau** is a lava plateau. Do not swap the two. **Telegraphic Plateau** sits on the **North Atlantic Ridge**.
+12. Grassland names: **Pampas** = Argentina; **Campos** = Brazil; **Llanos** = Venezuela–Colombia; **Puszta** = Hungary; **Prairie** = North America; **Steppe** = Eurasia; **Veld** = South Africa; **Downs** = Australia.
+13. **Borneo** is shared by three countries and is **not** a volcanic dump. **Java** and **Sumatra** sit on a volcanic arc.
+14. Island rank by size: **Greenland > New Guinea > Borneo > Madagascar > Baffin > Sumatra > Honshu > Victoria > Great Britain > Ellesmere**. Australia is a continent, not ranked as an island here.
+15. **Honshu** = Japan’s largest island; **Faroe** = Sheep Islands (Denmark).
+16. The **Gobi** lies in **Mongolia and China** only. It is a cold desert, not Russia or Kazakhstan.
+17. Hot-desert size order: **Great Sandy < Gobi < Arabian < Sahara**. The **Sahara** is the largest hot desert. **Thar** = densest populated desert; **Atacama** = driest.
+18. **Gibson** = Australia (not Brazil). **Sonoran** = USA. **Taklamakan** = China. **Karakum** = Turkmenistan.
+19. The **Atacama** (N Chile / S Peru) is the driest. The **Namib** is a fog coast. **Patagonia** is Argentina’s rain-shadow / temperate desert.
+20. Hot deserts favour **west coasts** because of Horse Latitudes plus cold ocean currents (~15–30°).
+21. “Land of Big Games” points to the tropical **savanna**, not the Sahara.
+22. Sclerophyll scrub: **Maquis** = Mediterranean; **Fynbos** = South Africa; **Chaparral** = California; **Matorral** = Chile.
+23. **Epiphytes** mark equatorial forest; **baobab** marks savanna; **cedars** mark the Mediterranean; **acacia** marks the Sahara fringe.
+24. In Brazil, **Selva** is the rainforest and **Terra Roxa** is the famous coffee soil.
+25. The **Mediterranean** climate has **winter rain** on five **west coasts** near **30–45°**. Summer is dry under the subtropical high.
+26. **Taiga** is boreal conifer forest. **Tundra** is treeless. Climate letters: Savanna **Aw**, Steppe **BS**, Tundra **ET**.
+27. Volcano pairs: **Rainier** USA; **Etna** Italy; **Paricutin** Mexico; **Apo** Philippines; also Fuji (Japan), Pinatubo (Philippines), St Helens (USA).
+28. Peak continents: **Elbrus** = Europe (Caucasus / Russia); **Mont Blanc** = Alps; **Denali / McKinley** = North America; **Kosciuszko** = Australia mainland; **Cook / Aoraki** = New Zealand.
+29. Temperate grasslands (Prairie, Steppe, Pampas, Veld, Downs) sit on **chernozem**-type wheat soils.
+30. **Death Valley** (California) = rift valley, extreme heat. **Silicon Valley** = California chip belt. **Great Artesian Basin** = Australia. Blind valley / sinkhole = **karst**.
+31. **Arakan Yoma** = Myanmar. **Golan Heights** = Middle East (SW Syria / occupied note). **Black Forest** = Germany (east of Rhine; Vosges west).
+32. Plateau types: intermontane (**Tibet**), piedmont, and volcanic / lava (**Columbia**, Deccan).
+33. Valley tags: rift valleys (East Africa, Rhine), glacial U-valleys, and structural vales.
+34. Residual and dome mountains are worn or laccolith leftovers, not young fold belts like the Himalaya.
+35. British Columbia = “Sea of Mountains.” **Patagonia Plateau** = mineral storehouse pair in coaching notes.
+36. Europe has the least desertification problem among continents in the usual teaching contrast.
+37. Young fold vs block: Rockies/Alps/Himalaya/Andes = fold; Sierra Nevada / Vosges–Black Forest class = block / rift flanks.
+38. Equatorial rainforest ≠ Mediterranean sclerophyll ≠ taiga conifers — vegetation belts follow climate, not continent labels alone.
+39. Savanna Aw climate supports large herbivore / “big game” parks; hot desert does not get that tag.
+40. Island size list excludes Australia as an island; Greenland remains largest island.
+41. Atacama dryness pairs with cold current + subtropical high on a west coast — same logic as Namib fog-coast desert.
+42. Pamir phrase “Roof of the world” ≠ Tibet “highest large plateau” — keep the two plateau tags distinct.
+43. Appalachians are old/Caledonian; do not park them with Tertiary Alps–Himalaya–Andes–Rockies young folds.
+44. Pampas–Argentina vs Campos–Brazil vs Llanos–Venezuela/Colombia is the South American grassland triangle.
+45. Maquis–Mediterranean vs Chaparral–California vs Fynbos–South Africa vs Matorral–Chile is the sclerophyll west-coast set.
 
 </details>
 
