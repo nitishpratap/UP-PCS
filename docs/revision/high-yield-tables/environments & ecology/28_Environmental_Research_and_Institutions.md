@@ -62,49 +62,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. BSI | 1. Animals / Fauna |
-| B. ZSI | 2. Plants / Flora |
-| C. NBPGR | 3. New Delhi plant gene bank |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. SBB | 1. Local PBR |
-| B. BMC | 2. State biodiversity board |
-| C. UPSBB | 3. Lucknow state lane |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. FSI | 1. 1906 |
-| B. FRI | 2. 1981 |
-| C. WII | 3. 1982 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. BSI | 1. 1916 |
-| B. ZSI | 2. 1890 |
-| C. NBPGR | 3. 1978 |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -428,3 +385,34 @@ D. NBA = NBPGR Karnal
 **Logic:** Institution year + city.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. BSI | 1. Animals / Fauna |
+| B. ZSI | 2. Plants / Flora |
+| C. NBPGR | 3. New Delhi plant gene bank |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (BSI ↔ Plants / Flora) B → 1 (ZSI ↔ Animals / Fauna) C → 3 (NBPGR ↔ New Delhi plant gene bank). Trap: treating table row order as the answer code.
+
+</details>
+

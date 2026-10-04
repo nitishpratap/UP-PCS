@@ -232,41 +232,6 @@ hide:
 ---
 
 
-### Match Matrix: Author ↔ Work
-
-| List-I (Author) | List-II (Work) |
-| :--- | :--- |
-| A. Mulla Daud | 1. Chandayan |
-| B. Damodar Kavi | 2. Ashiqa |
-| C. Somnath | 3. Padmavati Katha |
-| D. Amir Khusro | 4. Rag Vibodh |
-
----
-
-
-### Match Matrix: Disciple ↔ Guru
-
-| List-I (Disciple) | List-II (Guru) |
-| :--- | :--- |
-| A. Kabir | 1. Guru Nanak Dev |
-| B. Amir Khusrau | 2. Swami Ramananda |
-| C. Surdas | 3. Nizamuddin Auliya |
-| D. Mardana | 4. Vallabhacharya |
-
----
-
-
-### Match Matrix: Historical Work ↔ Subject / Theme
-
-| List-I (Historical Work) | List-II (Subject / Theme) |
-| :--- | :--- |
-| A. Mirat-e-Sikandari | 1. History of Bengal |
-| B. Burhan-e-Masir | 2. History of Bahmani's Ahmadnagar |
-| C. Riyaz-us-Salatin | 3. Mahmud Gawan's letters |
-| D. Riyaz-ul-Insha | 4. Victory / History of Gujarat |
-
----
-
 ### 5.14 Master Fact-Locks — Mughal Literature, Chronicles & Translations
 
 | Book / Text | Author / Translator | Patron / Reign | Core Subject & Exam Lock |
@@ -294,65 +259,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Book ↔ Author
-
-| List-I (Book) | List-II (Author) |
-|---------------|------------------|
-| A. Tabaqat-i-Nasiri | 1. Ziauddin Barani |
-| B. Tarikh-i-Firoz Shahi | 2. Minhaj-us-Siraj |
-| C. Kitab-ul-Hind | 3. Alberuni |
-| D. Taj-ul-Maasir | 4. Hasan Nizami |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Humayunnama | 1. Jahangir |
-| B. Tuzuk-i-Jahangiri | 2. Gulbadan Begum |
-| C. Padshahnama | 3. Abdul Hamid Lahori |
-| D. Muntakhab-ut-Tawarikh | 4. Badauni |
-
----
-
-
-### Match Matrix: Author ↔ Work
-
-| List-I (Author) | List-II (Work) |
-|---|---|
-| A. Mulla Daud | 1. Rag Vibodh |
-| B. Damodar Kavi | 2. Ashiqa |
-| C. Somnath | 3. Chandayan |
-| D. Amir Khusrau | 4. Padmavati Katha |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Razmnama | 1. Persian Mahabharata rendering under Akbar |
-| B. Hindavi bridge literature | 2. Especially Amir Khusrau |
-| C. Hostile Akbar historiography | 3. Badauni |
-| D. Official Akbar panegyric | 4. Abul Fazl |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Futuh-us-Salatin | 1. Isami |
-| B. Alamgirnama | 2. Mirza Muhammad Kazim |
-| C. Fatawa-i-Jahandari | 3. Barani |
-| D. Rihla | 4. Ibn Battuta |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -769,3 +675,35 @@ D. Only 2
 - *Opposing Historiographical Visions:* Abul Fazl (*Akbarnama*) provides the grand imperial ideology; Badauni (*Muntakhab-ut-Tawarikh*) provides the orthodox dissenting counter-narrative.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Historical Work ↔ Subject / Theme**
+
+| List-I (Historical Work) | List-II (Subject / Theme) |
+|---|---|
+| A. Mirat-e-Sikandari | 1. History of Bengal |
+| B. Burhan-e-Masir | 2. History of Bahmani's Ahmadnagar |
+| C. Riyaz-us-Salatin | 3. Mahmud Gawan's letters |
+| D. Riyaz-ul-Insha | 4. Victory / History of Gujarat |
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+
+B. 2 4 1 3
+
+C. 4 1 2 3
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 2 1 3**.
+
+**Logic:** A → 4 (Mirat-e-Sikandari ↔ Victory / History of Gujarat) B → 2 (Burhan-e-Masir ↔ History of Bahmani's Ahmadnagar) C → 1 (Riyaz-us-Salatin ↔ History of Bengal) D → 3 (Riyaz-ul-Insha ↔ Mahmud Gawan's letters). Trap: treating table row order as the answer code.
+
+</details>
+

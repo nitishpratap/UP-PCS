@@ -86,38 +86,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Solar PV | 1. Mirrors → heat → steam |
-| B. CSP | 2. Direct sunlight → electricity |
-| C. NSM/JNNSM | 3. 2010 under NAPCC |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Tidal | 1. ≤25 MW MNRE |
-| B. SHP | 2. Moon-driven sea level |
-| C. Geothermal India | 3. Himalaya, Cambay, West Coast, SONATA… |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. ISA | 1. Farmer solar pumps |
-| B. PM-KUSUM | 2. Gurugram HQ |
-| C. Bhadla | 3. Rajasthan |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -440,3 +408,34 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Physics vs geography.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. ISA | 1. Farmer solar pumps |
+| B. PM-KUSUM | 2. Gurugram HQ |
+| C. Bhadla | 3. Rajasthan |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (ISA ↔ Gurugram HQ) B → 1 (PM-KUSUM ↔ Farmer solar pumps) C → 3 (Bhadla ↔ Rajasthan). Trap: treating table row order as the answer code.
+
+</details>
+

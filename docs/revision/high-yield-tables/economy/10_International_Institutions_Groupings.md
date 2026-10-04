@@ -81,29 +81,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. IMF HQ | 1. Shanghai |
-| B. ADB HQ | 2. Washington D.C. |
-| C. NDB HQ | 3. Manila |
-| D. ASEAN Secretariat | 4. Jakarta |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Jim O’Neill | 1. Soft window of World Bank Group |
-| B. IDA | 2. BRIC acronym, 2001 |
-| C. IFC | 3. Private-sector arm |
-| D. first BRIC Summit | 4. 2009, Russia |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** IMF headquarters: Washington D.C.
@@ -393,3 +370,35 @@ D. Bali
 
 **Ans: B.** Jakarta
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Jim O’Neill | 1. Soft window of World Bank Group |
+| B. IDA | 2. BRIC acronym, 2001 |
+| C. IFC | 3. Private-sector arm |
+| D. first BRIC Summit | 4. 2009, Russia |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Jim O’Neill ↔ BRIC acronym, 2001) B → 1 (IDA ↔ Soft window of World Bank Group) C → 3 (IFC ↔ Private-sector arm) D → 4 (first BRIC Summit ↔ 2009, Russia). Trap: treating table row order as the answer code.
+
+</details>
+

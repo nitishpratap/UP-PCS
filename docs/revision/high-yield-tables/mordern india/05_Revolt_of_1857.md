@@ -137,53 +137,6 @@ hide:
 ---
 
 
-### Match Matrix: Centre ↔ Leader
-
-| List-I (Centre) | List-II (Leader) |
-|-----------------|------------------|
-| A. Kanpur | 1. Begum Hazrat Mahal |
-| B. Lucknow | 2. Nana Sahib / Tantia Tope |
-| C. Bareilly | 3. Kunwar Singh |
-| D. Jagdishpur | 4. Khan Bahadur Khan |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Auwa | 1. Maniram Dutta / Kandarpeshwar Singh |
-| B. Assam | 2. Thakur Kushal Singh |
-| C. Faizabad | 3. Maulvi Liaquat Ali |
-| D. Allahabad | 4. Maulvi Ahmadullah Shah |
-
----
-
-
-### Match Matrix: Reading ↔ Tag
-
-| List-I (Reading) | List-II (Tag) |
-|------------------|---------------|
-| A. Outram & W. Taylor | 1. Sepoy Mutiny |
-| B. John Lawrence / Seeley | 2. Hindu–Muslim conspiracy |
-| C. T.R. Holmes | 3. First War of Independence |
-| D. Savarkar | 4. Civilisation vs barbarism |
-
----
-
-
-### Match Matrix: British Death Theatre ↔ Details
-
-| List-I (British death theatre) | List-II |
-|--------------------------------|---------|
-| A. John Nicholson | 1. Lucknow theatre |
-| B. Henry Lawrence | 2. Taking of Delhi (Sept 1857) |
-| C. Havelock | 3. Lucknow theatre |
-| D. Neill | 4. Lucknow theatre |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Causes (long): Doctrine of Lapse (विलुप्ति सिद्धांत), Awadh annexation 1856 for misrule, heavy revenue, missionary fear, and sepoy service grievances. Immediate spark: greased cartridges.
@@ -556,3 +509,35 @@ D. Sahukars / moneylenders — principal all-India rebel high command
 **Logic:** Social-support limit inside Cause/Course analysis.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Centre ↔ Leader**
+
+| List-I (Centre) | List-II (Leader) |
+|---|---|
+| A. Kanpur | 1. Begum Hazrat Mahal |
+| B. Lucknow | 2. Nana Sahib / Tantia Tope |
+| C. Bareilly | 3. Kunwar Singh |
+| D. Jagdishpur | 4. Khan Bahadur Khan |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Kanpur ↔ Nana Sahib / Tantia Tope) B → 1 (Lucknow ↔ Begum Hazrat Mahal) C → 4 (Bareilly ↔ Khan Bahadur Khan) D → 3 (Jagdishpur ↔ Kunwar Singh). Trap: treating table row order as the answer code.
+
+</details>
+

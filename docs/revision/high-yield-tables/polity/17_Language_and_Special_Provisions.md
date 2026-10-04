@@ -167,28 +167,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Article 350 | 1. One Special Officer for Linguistic Minorities |
-| B. Article 350A | 2. Representation in any language used in Union/State |
-| C. Article 350B | 3. Mother-tongue instruction at primary stage |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. 21st Amendment | 1. Oriya → Odia |
-| B. 71st Amendment | 2. Sindhi |
-| C. 92nd Amendment | 3. Konkani, Manipuri, Nepali |
-| D. 96th Amendment | 4. Bodo, Dogri, Maithili, Santhali |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** 2025 — Bhojpuri not in 8th; Nepali/Dogri/Bodo are.

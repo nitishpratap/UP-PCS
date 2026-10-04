@@ -155,30 +155,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Pallava | 1. Warangal |
-| B. Pandya | 2. Kanchi |
-| C. Yadava | 3. Madura |
-| D. Kakatiya | 4. Devagiri |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Mahendravarman I | 1. Rashtrakuta |
-| B. Kadungon | 2. Pallava |
-| C. Amoghavarsha I | 3. Chola |
-| D. Rajaraja I | 4. Pandya |
-
----
-
-
 ### Comparative Matrix: Feature ↔ Early ↔ Western
 
 | Feature | Early (Badami) | Western (Kalyani) |
@@ -336,77 +312,6 @@ hide:
 
 ---
 
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Mahendravarman I | 1. Rashtrakuta |
-| B. Kadungon | 2. Pallava |
-| C. Amoghavarsha I | 3. Chola |
-| D. Rajaraja I | 4. Pandya |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Pallava | 1. Warangal |
-| B. Pandya | 2. Kanchi |
-| C. Yadava | 3. Madura |
-| D. Kakatiya | 4. Devagiri |
-
----
-
-
-### Match Matrix: Text ↔ Author
-
-| List-I (Text) | List-II (Author) |
-| --- | --- |
-| A. Ramcharita | 1. Padmagupta |
-| B. Navsahasankcharit | 2. Hemchandra |
-| C. Kumarpalacharit | 3. Sandhyakarnandi |
-| D. Vikramankdevacharit | 4. Bilhana (बिल्हण) |
-
----
-
-
-### Match Matrix: Dynasty ↔ Capital / Seat
-
-| List-I (Dynasty) | List-II (Capital / seat) |
-|------------------|--------------------------|
-| A. Pallava | 1. Madurai |
-| B. Pandya | 2. Kanchi |
-| C. Rashtrakuta | 3. Manyakheta |
-| D. Early Chalukya | 4. Badami / Vatapi |
-
----
-
-
-### Match Matrix: Ruler ↔ Dynasty
-
-| List-I (Ruler) | List-II (Dynasty) |
-|----------------|-------------------|
-| A. Mahendravarman | 1. Chola |
-| B. Amoghavarsha | 2. Pallava |
-| C. Rajaraja | 3. Rashtrakuta |
-| D. Kadungon | 4. Pandya |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Kannauj | 1. Saketa |
-| B. Ayodhya | 2. Kanyakubja |
-| C. Varanasi | 3. Kashi / Avimukta |
-| D. Mahoba belt | 4. Jejakabhukti / Bundelkhand |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -830,3 +735,221 @@ D. 1 and 3
 - The South Indian imperial cycle rotated: **Pallava → Chalukya → Rashtrakuta → Chola**.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Pallava | 1. Warangal |
+| B. Pandya | 2. Kanchi |
+| C. Yadava | 3. Madura |
+| D. Kakatiya | 4. Devagiri |
+
+*Row order is not the answer code.*
+
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Pallava ↔ Kanchi) B → 3 (Pandya ↔ Madura) C → 4 (Yadava ↔ Devagiri) D → 1 (Kakatiya ↔ Warangal). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Mahendravarman I | 1. Rashtrakuta |
+| B. Kadungon | 2. Pallava |
+| C. Amoghavarsha I | 3. Chola |
+| D. Rajaraja I | 4. Pandya |
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 4 1 3**.
+
+**Logic:** A → 2 (Mahendravarman I ↔ Pallava) B → 4 (Kadungon ↔ Pandya) C → 1 (Amoghavarsha I ↔ Rashtrakuta) D → 3 (Rajaraja I ↔ Chola). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Mahendravarman I | 1. Rashtrakuta |
+| B. Kadungon | 2. Pallava |
+| C. Amoghavarsha I | 3. Chola |
+| D. Rajaraja I | 4. Pandya |
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+
+B. 2 1 4 3
+
+C. 2 4 1 3
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 4 1 3**.
+
+**Logic:** A → 2 (Mahendravarman I ↔ Pallava) B → 4 (Kadungon ↔ Pandya) C → 1 (Amoghavarsha I ↔ Rashtrakuta) D → 3 (Rajaraja I ↔ Chola). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Pallava | 1. Warangal |
+| B. Pandya | 2. Kanchi |
+| C. Yadava | 3. Madura |
+| D. Kakatiya | 4. Devagiri |
+
+*Row order is not the answer code.*
+
+A. 3 2 4 1
+
+B. 2 4 3 1
+
+C. 2 3 1 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Pallava ↔ Kanchi) B → 3 (Pandya ↔ Madura) C → 4 (Yadava ↔ Devagiri) D → 1 (Kakatiya ↔ Warangal). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Dynasty ↔ Capital / Seat**
+
+| List-I (Dynasty) | List-II (Capital / seat) |
+|---|---|
+| A. Pallava | 1. Madurai |
+| B. Pandya | 2. Kanchi |
+| C. Rashtrakuta | 3. Manyakheta |
+| D. Early Chalukya | 4. Badami / Vatapi |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Pallava ↔ Kanchi) B → 1 (Pandya ↔ Madurai) C → 3 (Rashtrakuta ↔ Manyakheta) D → 4 (Early Chalukya ↔ Badami / Vatapi). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q21.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Ruler ↔ Dynasty**
+
+| List-I (Ruler) | List-II (Dynasty) |
+|---|---|
+| A. Mahendravarman | 1. Chola |
+| B. Amoghavarsha | 2. Pallava |
+| C. Rajaraja | 3. Rashtrakuta |
+| D. Kadungon | 4. Pandya |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Mahendravarman ↔ Pallava) B → 3 (Amoghavarsha ↔ Rashtrakuta) C → 1 (Rajaraja ↔ Chola) D → 4 (Kadungon ↔ Pandya). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q22.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Kannauj | 1. Saketa |
+| B. Ayodhya | 2. Kanyakubja |
+| C. Varanasi | 3. Kashi / Avimukta |
+| D. Mahoba belt | 4. Jejakabhukti / Bundelkhand |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Kannauj ↔ Kanyakubja) B → 1 (Ayodhya ↔ Saketa) C → 3 (Varanasi ↔ Kashi / Avimukta) D → 4 (Mahoba belt ↔ Jejakabhukti / Bundelkhand). Trap: treating table row order as the answer code.
+
+</details>
+

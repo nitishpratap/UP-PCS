@@ -281,30 +281,6 @@ hide:
 ---
 
 
-### Match Matrix: Person ↔ Phrase / Idea
-
-| List-I (Person) | List-II (Phrase / idea) |
-|--------|--------|
-| A. K.M. Munshi | 1. Identity card of the Constitution |
-| B. N.A. Palkhivala | 2. Political horoscope |
-| C. B.R. Ambedkar | 3. Soul of the Constitution (Assembly reference) |
-| D. Thakurdas Bhargava | 4. Heart and soul — Article 32 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Cooperative Federalism | 1. K.C. Wheare |
-| B. Bargaining Federalism | 2. Ivor Jennings |
-| C. Quasi Federalism | 3. Morris-Jones |
-| D. Federalism with Centralising Tendency | 4. Granville Austin |
-
----
-
-
 ### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
@@ -642,3 +618,66 @@ D. open the minds of the Presidents of India
 **Ans: A.** Courts and commentators treat the Preamble as a key to open the **minds of the makers** of the Constitution.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Person ↔ Phrase / Idea**
+
+| List-I (Person) | List-II (Phrase / idea) |
+|---|---|
+| A. K.M. Munshi | 1. Identity card of the Constitution |
+| B. N.A. Palkhivala | 2. Political horoscope |
+| C. B.R. Ambedkar | 3. Soul of the Constitution (Assembly reference) |
+| D. Thakurdas Bhargava | 4. Heart and soul — Article 32 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (K.M. Munshi ↔ Political horoscope) B → 1 (N.A. Palkhivala ↔ Identity card of the Constitution) C → 3 (B.R. Ambedkar ↔ Soul of the Constitution (Assembly reference)) D → 4 (Thakurdas Bhargava ↔ Heart and soul — Article 32). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Cooperative Federalism | 1. K.C. Wheare |
+| B. Bargaining Federalism | 2. Ivor Jennings |
+| C. Quasi Federalism | 3. Morris-Jones |
+| D. Federalism with Centralising Tendency | 4. Granville Austin |
+
+*Row order is not the answer code.*
+
+A. 3 4 1 2
+
+B. 4 3 1 2
+
+C. 4 1 3 2
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **4 3 1 2**.
+
+**Logic:** A → 4 (Cooperative Federalism ↔ Granville Austin) B → 3 (Bargaining Federalism ↔ Morris-Jones) C → 1 (Quasi Federalism ↔ K.C. Wheare) D → 2 (Federalism with Centralising Tendency ↔ Ivor Jennings). Trap: treating table row order as the answer code.
+
+</details>
+

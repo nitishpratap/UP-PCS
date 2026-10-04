@@ -315,53 +315,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. The Story of My Deportation | 1. Surendranath Banerjee |
-| B. Gita Rahasya | 2. Abul Kalam Azad |
-| C. A Nation in Making | 3. Lala Lajpat Rai |
-| D. India Wins Freedom | 4. Bal Gangadhar Tilak |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Mother India (1927) | 1. Lala Lajpat Rai’s reply |
-| B. Unhappy India | 2. Katherine Mayo |
-| C. The Indian War of Independence (1909) | 3. V.D. Savarkar on 1857 |
-| D. Hindutva: Who is a Hindu? (1923) | 4. Savarkar’s separate title |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Dadabhai Naoroji | 1. *Hind Swaraj* |
-| B. M.K. Gandhi | 2. *Poverty and Un-British Rule in India* |
-| C. Jawaharlal Nehru | 3. *The Discovery of India* |
-| D. Abul Kalam Azad | 4. *India Wins Freedom* |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Firangiya | 1. Bhikhari Thakur |
-| B. Batohiya (1911 poem) | 2. Manoranjan Prasad Sinha |
-| C. Bidesiya | 3. Raghuveer Narayan |
-| D. Achhut Kee Shikayat | 4. Heera Dom |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Book ↔ author fact lives here (Topic 10). The political context behind a book (why Naoroji wrote the drain critique, why Savarkar wrote from London) has its fuller home in Topics 9 and 11; this topic keeps only the title-and-author fact plus one line of context.
@@ -725,3 +678,128 @@ D. Bankim Chandra — *The Indian War of Independence* (1909)
 **Logic:** Savarkar history vs Bankim novel.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. The Story of My Deportation | 1. Surendranath Banerjee |
+| B. Gita Rahasya | 2. Abul Kalam Azad |
+| C. A Nation in Making | 3. Lala Lajpat Rai |
+| D. India Wins Freedom | 4. Bal Gangadhar Tilak |
+
+*Row order is not the answer code.*
+
+A. 3 1 4 2
+
+B. 1 3 4 2
+
+C. 3 4 1 2
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **3 1 4 2**.
+
+**Logic:** A → 3 (The Story of My Deportation ↔ Lala Lajpat Rai) B → 1 (Gita Rahasya ↔ Surendranath Banerjee) C → 4 (A Nation in Making ↔ Bal Gangadhar Tilak) D → 2 (India Wins Freedom ↔ Abul Kalam Azad). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Mother India (1927) | 1. Lala Lajpat Rai’s reply |
+| B. Unhappy India | 2. Katherine Mayo |
+| C. The Indian War of Independence (1909) | 3. V.D. Savarkar on 1857 |
+| D. Hindutva: Who is a Hindu? (1923) | 4. Savarkar’s separate title |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 1 4 2 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 4 3**.
+
+**Logic:** A → 1 (Mother India (1927) ↔ Lala Lajpat Rai’s reply) B → 2 (Unhappy India ↔ Katherine Mayo) C → 4 (The Indian War of Independence (1909) ↔ Savarkar’s separate title) D → 3 (Hindutva: Who is a Hindu? (1923) ↔ V.D. Savarkar on 1857). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Dadabhai Naoroji | 1. *Hind Swaraj* |
+| B. M.K. Gandhi | 2. *Poverty and Un-British Rule in India* |
+| C. Jawaharlal Nehru | 3. *The Discovery of India* |
+| D. Abul Kalam Azad | 4. *India Wins Freedom* |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Dadabhai Naoroji ↔ *Poverty and Un-British Rule in India*) B → 1 (M.K. Gandhi ↔ *Hind Swaraj*) C → 3 (Jawaharlal Nehru ↔ *The Discovery of India*) D → 4 (Abul Kalam Azad ↔ *India Wins Freedom*). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Firangiya | 1. Bhikhari Thakur |
+| B. Batohiya (1911 poem) | 2. Manoranjan Prasad Sinha |
+| C. Bidesiya | 3. Raghuveer Narayan |
+| D. Achhut Kee Shikayat | 4. Heera Dom |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 4 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Firangiya ↔ Manoranjan Prasad Sinha) B → 3 (Batohiya (1911 poem) ↔ Raghuveer Narayan) C → 1 (Bidesiya ↔ Bhikhari Thakur) D → 4 (Achhut Kee Shikayat ↔ Heera Dom). Trap: treating table row order as the answer code.
+
+</details>
+

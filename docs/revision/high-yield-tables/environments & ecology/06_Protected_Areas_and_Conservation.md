@@ -120,38 +120,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Conservation Reserve | 1. Private/community land with voluntary consent (Sec. 36B) |
-| B. Community Reserve | 2. Govt/community forest buffer near PA (Sec. 36A) |
-| C. Elephant Reserve | 3. Project Elephant 1992; no WPA statutory basis |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Ramsar Convention | 1. 1982 |
-| B. India joins Ramsar | 2. 1971 |
-| C. WPA | 3. 1972 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Core (BR) | 1. Livelihoods / sustainable use |
-| B. Buffer (BR) | 2. No exploitative use |
-| C. Transition (BR) | 3. Research, education, regulated use |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -483,3 +451,34 @@ D. 1, 2 and 3
 **Logic:** Sultanpur is Haryana.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Ramsar Convention | 1. 1982 |
+| B. India joins Ramsar | 2. 1971 |
+| C. WPA | 3. 1972 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (Ramsar Convention ↔ 1982) B → 2 (India joins Ramsar ↔ 1971) C → 3 (WPA ↔ 1972). Trap: treating table row order as the answer code.
+
+</details>
+

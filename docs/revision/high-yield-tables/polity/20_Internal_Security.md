@@ -162,41 +162,6 @@ hide:
 ---
 
 
-### Match Matrix: Force ↔ Primary Beat
-
-| List-I (Force) | List-II (Primary beat) |
-|----------------|------------------------|
-| A. BSF | 1. China / LAC belt |
-| B. ITBP | 2. Pakistan and Bangladesh borders |
-| C. SSB | 3. Nepal and Bhutan borders |
-| D. CISF | 4. Industry / airports / metro static security |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. IT Act s.66A | 1. Critical Information Infrastructure |
-| B. IT Act s.70A | 2. Struck down in 2015 |
-| C. IT Act s.70B | 3. CERT-In statutory hook |
-| D. IT Act s.66F | 4. Cyber-terrorism |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. NATGRID | 1. Post-26/11 data backbone under MHA |
-| B. SAMADHAN | 2. MHA 2017 LWE strategy acrostic |
-| C. NSA 1980 | 3. Preventive detention (Art. 22 track) |
-| D. UAPA | 4. Criminal trial / terror designation statute |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** RAW was formed on 21 September 1968 under R.N. Kao. It handles external intelligence and reports through the Cabinet Secretariat / NSA line — not MHA.
@@ -526,3 +491,66 @@ D. 1 and 3
 **Logic:** 66A void; 69A blocking upheld; 66F cyber-terrorism.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Force ↔ Primary Beat**
+
+| List-I (Force) | List-II (Primary beat) |
+|---|---|
+| A. BSF | 1. China / LAC belt |
+| B. ITBP | 2. Pakistan and Bangladesh borders |
+| C. SSB | 3. Nepal and Bhutan borders |
+| D. CISF | 4. Industry / airports / metro static security |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (BSF ↔ China / LAC belt) B → 2 (ITBP ↔ Pakistan and Bangladesh borders) C → 3 (SSB ↔ Nepal and Bhutan borders) D → 4 (CISF ↔ Industry / airports / metro static security). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. NATGRID | 1. Post-26/11 data backbone under MHA |
+| B. SAMADHAN | 2. MHA 2017 LWE strategy acrostic |
+| C. NSA 1980 | 3. Preventive detention (Art. 22 track) |
+| D. UAPA | 4. Criminal trial / terror designation statute |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (NATGRID ↔ Post-26/11 data backbone under MHA) B → 2 (SAMADHAN ↔ MHA 2017 LWE strategy acrostic) C → 3 (NSA 1980 ↔ Preventive detention (Art. 22 track)) D → 4 (UAPA ↔ Criminal trial / terror designation statute). Trap: treating table row order as the answer code.
+
+</details>
+

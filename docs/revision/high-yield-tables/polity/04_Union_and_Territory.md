@@ -217,30 +217,6 @@ hide:
 ---
 
 
-### Comparative Matrix: Union Territories ↔ Years Of Creation
-
-| Union Territories | Years of Creation |
-|---|---|
-| A. Lakshadweep | (i) 1961 |
-| B. Daman and Diu | (ii) 1966 |
-| C. Chandigarh | (iii) 1962 |
-| D. Dadra and Nagar Haveli | (iv) 1956 |
-
----
-
-
-### Match Matrix: State ↔ Year
-
-| List-I (State) | List-II (Year) |
-|---|---|
-| A. Nagaland | 1. 2000 |
-| B. Jharkhand | 2. 1962 |
-| C. Telangana | 3. 1975 |
-| D. Sikkim | 4. 2014 |
-
----
-
-
 ### Comparative Matrix: Code ↔ Item
 
 | Code | Item |

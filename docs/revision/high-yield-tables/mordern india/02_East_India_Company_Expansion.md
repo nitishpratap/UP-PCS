@@ -318,53 +318,6 @@ hide:
 ---
 
 
-### Comparative Matrix: Treaty ↔ Year
-
-| Treaty | Year |
-|--------|------|
-| A. Allahabad | 1. 1782 |
-| B. Mangalore | 2. 1769 |
-| C. Salbai | 3. 1765 |
-| D. Madras | 4. 1784 |
-
----
-
-
-### Match Matrix: Treaty ↔ Year / War
-
-| List-I (Treaty) | List-II (Year / war) |
-|-----------------|----------------------|
-| A. Allahabad | 1. First Anglo-Mysore peace |
-| B. Madras | 2. Diwani after Buxar |
-| C. Salbai | 3. Second Anglo-Mysore peace |
-| D. Mangalore | 4. First Anglo-Maratha peace |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Plassey | 1. Hector Munro |
-| B. Buxar | 2. Clive / conspiracy short fight |
-| C. Assaye | 3. Second Maratha theatre |
-| D. Miani | 4. Sindh 1843 |
-
----
-
-
-### Match Matrix: Policy / Man ↔ Tag
-
-| List-I (Policy / man) | List-II (Tag) |
-|-----------------------|---------------|
-| A. Wellesley | 1. Doctrine of Lapse |
-| B. Dalhousie | 2. Subsidiary Alliance |
-| C. Lawrence | 3. Proud Reserve / Forward |
-| D. Lytton | 4. Masterly Inactivity |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Subsidiary Alliance: Hyderabad (1798) → Mysore (1799) → Tanjore (1799) → Awadh (1801) → Peshwa (1802).
@@ -704,3 +657,66 @@ D. Multan
 **Ans: B.** Highest appeal court at **Lahore**.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Policy / Man ↔ Tag**
+
+| List-I (Policy / man) | List-II (Tag) |
+|---|---|
+| A. Wellesley | 1. Doctrine of Lapse |
+| B. Dalhousie | 2. Subsidiary Alliance |
+| C. Lawrence | 3. Proud Reserve / Forward |
+| D. Lytton | 4. Masterly Inactivity |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Wellesley ↔ Subsidiary Alliance) B → 1 (Dalhousie ↔ Doctrine of Lapse) C → 4 (Lawrence ↔ Masterly Inactivity) D → 3 (Lytton ↔ Proud Reserve / Forward). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Treaty ↔ Year**
+
+| List-I (Treaty) | List-II (Year) |
+|---|---|
+| A. Allahabad | 1. 1782 |
+| B. Mangalore | 2. 1769 |
+| C. Salbai | 3. 1765 |
+| D. Madras | 4. 1784 |
+
+*Row order is not the answer code.*
+
+A. 3 4 1 2
+
+B. 4 3 1 2
+
+C. 3 1 4 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **3 4 1 2**.
+
+**Logic:** A → 3 (Allahabad ↔ 1765) B → 4 (Mangalore ↔ 1784) C → 1 (Salbai ↔ 1782) D → 2 (Madras ↔ 1769). Trap: treating table row order as the answer code.
+
+</details>
+

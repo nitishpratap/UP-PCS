@@ -769,149 +769,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Swaraj is my birthright | 1. Gandhi, Quit India 1942 |
-| B. Do or Die | 2. Tilak |
-| C. Give me blood and I will give you freedom | 3. Hasrat Mohani (coined); Bhagat Singh (popularised) |
-| D. Inquilab Zindabad | 4. Subhas Chandra Bose / INA |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. W.C. Bonnerjee 1885 | 1. First Muslim President |
-| B. Badruddin Tyabji 1887 | 2. First session President |
-| C. Annie Besant 1917 | 3. First woman President |
-| D. Sarojini Naidu 1925 | 4. First Indian woman President |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Curzon | 1. Separate electorates 1909 |
-| B. Minto | 2. Partition 1905 |
-| C. Chelmsford | 3. Montford / GoI Act 1919 |
-| D. Irwin | 4. Gandhi–Irwin Pact 1931 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Poverty and Un-British Rule | 1. Gandhi |
-| B. Hind Swaraj | 2. Naoroji (1901) |
-| C. Discovery of India | 3. Azad |
-| D. India Wins Freedom | 4. Nehru |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Willingdon | 1. 3 June Plan |
-| B. Mountbatten | 2. Communal Award 1932 |
-| C. Back to the Vedas | 3. Dayanand Saraswati |
-| D. One caste, one religion, one God | 4. Sri Narayana Guru |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Liyaqat Ali | 1. Lucknow 1857 |
-| B. Begum Hazrat Mahal | 2. Allahabad 1857 |
-| C. Red Fort | 3. INA trials venue |
-| D. Gwalior Fort | 4. Not the INA trials venue in standard key |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Megasthenes | 1. Devaraya II / Zamorin of Calicut |
-| B. Nicolo de Conti | 2. Chandragupta Maurya |
-| C. Abdur Razzaq | 3. Shah Jahan & Aurangzeb |
-| D. Jean-Baptiste Tavernier | 4. Devaraya I (Vijayanagar) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Andhra Kesari | 1. Sardar Vallabhbhai Patel |
-| B. Indian Bismarck | 2. T. Prakasam |
-| C. Indian Einstein | 3. Swami Dayanand Saraswati |
-| D. Martin Luther of India | 4. Acharya Nagarjuna |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Bardoli | 1. Mahatma Gandhi |
-| B. Belur Math | 2. Tipu Sultan |
-| C. Sabarmati | 3. Sardar Vallabhbhai Patel |
-| D. Seringapatam | 4. Sri Ramakrishna Paramahamsa / Vivekananda |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. "Every blow that is hurled on my back will be a nail in the coffin of the British Empire" | 1. Lord Curzon |
-| B. "The Congress is tottering to its fall and one of my greatest ambitions is to assist it to a peaceful demise" | 2. Pandit Jawaharlal Nehru |
-| C. "My ultimate aim is to wipe every tear from every eye" | 3. Lala Lajpat Rai |
-| D. "Back to the Vedas" | 4. Swami Dayanand Saraswati |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Richard Strachey Commission (1880) | 1. Lord Curzon |
-| B. James Lyall Commission (1897) | 2. Lord Lytton |
-| C. Anthony MacDonnell Commission (1900) | 3. Lord Wavell |
-| D. John Woodhead Commission (1943–44) | 4. Lord Elgin II |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Aitchison Commission (1886) | 1. Currency reforms and closing mints to free silver coinage |
-| B. Herschell Committee (1893) | 2. Investigation into industrial and plantation labor conditions |
-| C. Royal Commission on Labour / Whitley Commission (1929) | 3. Categorization of Civil Services into Imperial, Provincial, and Subordinate |
-| D. Butler Committee (1927) | 4. Examination of Crown relationships with Princely States |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** “Swaraj (स्वराज) is my birthright and I shall have it” is Tilak (तिलक). “Do or Die (करो या मरो)” is Gandhi (गांधी) at Quit India (भारत छोड़ो) (8 August 1942).
@@ -1576,3 +1433,221 @@ D. A-1, B-4, C-2, D-3
 
 **Ans: A** — Tilak = "Swaraj is my birthright and I shall have it" (said at 1916 Lucknow session) (2); Gandhi = "Do or Die" (at Gowalia Tank Maidan, Bombay during Quit India 1942 launch) (4); Subhas Chandra Bose = "Tum mujhe khoon do, main tumhe azadi doonga" (address to INA in Burma 1944) (1); Bankim Chandra Chatterjee = "Vande Mataram" (hymn in novel Anandamath) (3).
 </details>
+
+**Q31.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Swaraj is my birthright | 1. Gandhi, Quit India 1942 |
+| B. Do or Die | 2. Tilak |
+| C. Give me blood and I will give you freedom | 3. Hasrat Mohani (coined); Bhagat Singh (popularised) |
+| D. Inquilab Zindabad | 4. Subhas Chandra Bose / INA |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Swaraj is my birthright ↔ Tilak) B → 1 (Do or Die ↔ Gandhi, Quit India 1942) C → 4 (Give me blood and I will give you freedom ↔ Subhas Chandra Bose / INA) D → 3 (Inquilab Zindabad ↔ Hasrat Mohani (coined); Bhagat Singh (popularised)). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q32.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Curzon | 1. Separate electorates 1909 |
+| B. Minto | 2. Partition 1905 |
+| C. Chelmsford | 3. Montford / GoI Act 1919 |
+| D. Irwin | 4. Gandhi–Irwin Pact 1931 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Curzon ↔ Partition 1905) B → 1 (Minto ↔ Separate electorates 1909) C → 3 (Chelmsford ↔ Montford / GoI Act 1919) D → 4 (Irwin ↔ Gandhi–Irwin Pact 1931). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q33.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Poverty and Un-British Rule | 1. Gandhi |
+| B. Hind Swaraj | 2. Naoroji (1901) |
+| C. Discovery of India | 3. Azad |
+| D. India Wins Freedom | 4. Nehru |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Poverty and Un-British Rule ↔ Naoroji (1901)) B → 1 (Hind Swaraj ↔ Gandhi) C → 4 (Discovery of India ↔ Nehru) D → 3 (India Wins Freedom ↔ Azad). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q34.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Willingdon | 1. 3 June Plan |
+| B. Mountbatten | 2. Communal Award 1932 |
+| C. Back to the Vedas | 3. Dayanand Saraswati |
+| D. One caste, one religion, one God | 4. Sri Narayana Guru |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Willingdon ↔ Communal Award 1932) B → 1 (Mountbatten ↔ 3 June Plan) C → 3 (Back to the Vedas ↔ Dayanand Saraswati) D → 4 (One caste, one religion, one God ↔ Sri Narayana Guru). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q35.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Andhra Kesari | 1. Sardar Vallabhbhai Patel |
+| B. Indian Bismarck | 2. T. Prakasam |
+| C. Indian Einstein | 3. Swami Dayanand Saraswati |
+| D. Martin Luther of India | 4. Acharya Nagarjuna |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Andhra Kesari ↔ T. Prakasam) B → 1 (Indian Bismarck ↔ Sardar Vallabhbhai Patel) C → 4 (Indian Einstein ↔ Acharya Nagarjuna) D → 3 (Martin Luther of India ↔ Swami Dayanand Saraswati). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q36.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Bardoli | 1. Mahatma Gandhi |
+| B. Belur Math | 2. Tipu Sultan |
+| C. Sabarmati | 3. Sardar Vallabhbhai Patel |
+| D. Seringapatam | 4. Sri Ramakrishna Paramahamsa / Vivekananda |
+
+*Row order is not the answer code.*
+
+A. 4 3 1 2
+
+B. 3 4 1 2
+
+C. 3 1 4 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 4 1 2**.
+
+**Logic:** A → 3 (Bardoli ↔ Sardar Vallabhbhai Patel) B → 4 (Belur Math ↔ Sri Ramakrishna Paramahamsa / Vivekananda) C → 1 (Sabarmati ↔ Mahatma Gandhi) D → 2 (Seringapatam ↔ Tipu Sultan). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q37.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. "Every blow that is hurled on my back will be a nail in the coffin of the British Empire" | 1. Lord Curzon |
+| B. "The Congress is tottering to its fall and one of my greatest ambitions is to assist it to a peaceful demise" | 2. Pandit Jawaharlal Nehru |
+| C. "My ultimate aim is to wipe every tear from every eye" | 3. Lala Lajpat Rai |
+| D. "Back to the Vedas" | 4. Swami Dayanand Saraswati |
+
+*Row order is not the answer code.*
+
+A. 1 3 2 4
+
+B. 3 2 1 4
+
+C. 3 1 2 4
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **3 1 2 4**.
+
+**Logic:** A → 3 ("Every blow that is hurled on my back will be a nail in the coffin of the British Empire" ↔ Lala Lajpat Rai) B → 1 ("The Congress is tottering to its fall and one of my greatest ambitions is to assist it to a peaceful demise" ↔ Lord Curzon) C → 2 ("My ultimate aim is to wipe every tear from every eye" ↔ Pandit Jawaharlal Nehru) D → 4 ("Back to the Vedas" ↔ Swami Dayanand Saraswati). Trap: treating table row order as the answer code.
+
+</details>
+

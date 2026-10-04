@@ -71,17 +71,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Santhanam Committee | 1. Centre-State Relations |
-| B. Sarkaria Commission | 2. Electoral Reforms |
-| C. Balwant Rai Mehta Committee | 3. Prevention of Corruption |
-| D. Dinesh Goswami Committee | 4. Panchayati Raj |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Santhanam Committee (1962–64): Formed on Prevention of Corruption; recommended the establishment of the Central Vigilance Commission (CVC, 1964).

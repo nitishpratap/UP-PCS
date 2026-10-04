@@ -92,38 +92,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. CO₂ GWP | 1. ~28–36 |
-| B. CH₄ GWP | 2. 1 |
-| C. N₂O GWP | 3. ~265 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Carbon sink | 1. Storage process |
-| B. Sequestration | 2. Net CO₂ absorption |
-| C. Blue carbon | 3. Ocean/coastal sinks |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. HFCs | 1. Later inventories also |
-| B. PFCs | 2. Kyoto F-gas |
-| C. NF₃ | 3. Kyoto F-gas |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -463,3 +431,34 @@ D. 2, 3 and 4 only
 **Logic:** Direct GHGs include F-gases too.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Carbon sink | 1. Storage process |
+| B. Sequestration | 2. Net CO₂ absorption |
+| C. Blue carbon | 3. Ocean/coastal sinks |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (Carbon sink ↔ Net CO₂ absorption) B → 1 (Sequestration ↔ Storage process) C → 3 (Blue carbon ↔ Ocean/coastal sinks). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -100,38 +100,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Energy pyramid | 1. May invert in pond/marine systems |
-| B. Biomass pyramid | 2. Always upright |
-| C. Numbers pyramid | 3. May invert in a parasitic chain |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Classic marine chain start | 1. Phytoplankton / diatoms |
-| B. Primary consumer example | 2. Deer |
-| C. Apex predator example | 3. Tiger |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Grazing start | 1. Dead organic matter |
-| B. Detritus start | 2. Living green plants |
-| C. Driving force | 3. Solar energy |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |

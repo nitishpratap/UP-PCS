@@ -442,30 +442,6 @@ hide:
 ---
 
 
-### Match Matrix: Waterfall ↔ Location
-
-| List-I (Waterfall) | List-II (Location) |
-|---|---|
-| A. Dudhsagar | 1. Karnataka |
-| B. Barkana | 2. Odisha |
-| C. Khandadhar | 3. Himachal Pradesh |
-| D. Palani | 4. Goa |
-
----
-
-
-### Match Matrix: Lake ↔ Location
-
-| List-I (Lake) | List-II (Location) |
-|---|---|
-| A. Sala Lake | 1. Arunachal Pradesh |
-| B. Badkhal Lake | 2. Haryana |
-| C. Loktak Lake | 3. Manipur |
-| D. Kaliveli Lake | 4. Tamil Nadu |
-
----
-
-
 ### Comparative Matrix: Canal Project ↔ Location
 
 | Canal Project | Location |
@@ -485,42 +461,6 @@ hide:
 | 1. Drought-Prone Area Programme | Ministry of Agriculture |
 | 2. Desert Development Programme | Ministry of Environment and Forests |
 | 3. National Watershed Development Project for Rainfed Areas | Ministry of Rural Development |
-
----
-
-
-### Match Matrix: Project ↔ Location
-
-| List-I (Project) | List-II (Location) |
-| --- | --- |
-| A. Bhakhra | 1. Krishna |
-| B. Hirakud | 2. Periyar |
-| C. Idukki | 3. Mahanadi |
-| D. Nagarjuna Sagar | 4. Satluj |
-
----
-
-
-### Comparative Matrix: List–I ↔ List–Ii
-
-| List–I (Rivers) | List–II (Dams) |
-| --- | --- |
-| A. Cauvery | 1. Almatti |
-| B. Krishna | 2. Mettur |
-| C. Narmada | 3. Gandhi Sagar |
-| D. Chambal | 4. Sardar Sarovar |
-
----
-
-
-### Match Matrix: Multipurpose Projects ↔ Rivers
-
-| List-I (Multipurpose Projects) | List-II (Rivers) |
-| --- | --- |
-| A. Idukki | 1. Betwa |
-| B. Matatilla | 2. Godavari |
-| C. Nagarjuna Sagar | 3. Krishna |
-| D. Pochampad | 4. Periyar |
 
 ---
 
@@ -560,18 +500,6 @@ hide:
 ---
 
 
-### Match Matrix: Dam ↔ River
-
-| List-I (Dam) | List-II (River) |
-| --- | --- |
-| A. Doolhasti | 1. Chambal |
-| B. Gandhisagar | 2. Chenab |
-| C. Ukai | 3. Tapi |
-| D. Tawa | 4. Tawa |
-
----
-
-
 ### Comparative Matrix: Reservoirs ↔ States
 
 | Reservoirs | States |
@@ -583,53 +511,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Interstate Water Disputes ↔ No. Of States Involved
-
-| List-I (Interstate Water Disputes) | List-II (No. of States involved) |
-| --- | --- |
-| A. Mahadayi Water Disputes Tribunal | (i) 3 |
-| B. Godavari Water Disputes Tribunal | (ii) 5 |
-| C. Narmada Water Disputes Tribunal | (iii) 4 |
-| D. Mahanadi Water Disputes Tribunal | (iv) 2 |
-
----
-
-
-### Match Matrix: Lakes & Waterfalls ↔ Geographic Locations
-
-| List-I | List-II |
-|---|---|
-| A. Loktak | 1. Mystery / Skeleton Lake, Uttarakhand |
-| B. Roopkund | 2. Phumdis / Keibul Lamjao / Sangai |
-| C. Wular | 3. Largest-freshwater volume fact on Jhelum |
-| D. Kabartal | 4. Bihar oxbow Ramsar |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Hundru | 1. Indravati |
-| B. Dhuandhar | 2. Subarnarekha |
-| C. Chitrakote | 3. Narmada at Bhedaghat |
-| D. Kapildhara | 4. Narmada (not Godavari) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Nagarjuna Sagar | 1. Beas |
-| B. Baglihar / Dulhasti | 2. Krishna |
-| C. Pandoh / Pong | 3. Chenab |
-| D. Tulbul | 4. Jhelum / Wular |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -957,3 +838,190 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Keep DVC year 1948; sorrow title alone does not define ‘first’.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Project ↔ Location**
+
+| List-I (Project) | List-II (Location) |
+|---|---|
+| A. Bhakhra | 1. Krishna |
+| B. Hirakud | 2. Periyar |
+| C. Idukki | 3. Mahanadi |
+| D. Nagarjuna Sagar | 4. Satluj |
+
+*Row order is not the answer code.*
+
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Bhakhra ↔ Periyar) B → 3 (Hirakud ↔ Mahanadi) C → 4 (Idukki ↔ Satluj) D → 1 (Nagarjuna Sagar ↔ Krishna). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Multipurpose Projects ↔ Rivers**
+
+| List-I (Multipurpose Projects) | List-II (Rivers) |
+|---|---|
+| A. Idukki | 1. Betwa |
+| B. Matatilla | 2. Godavari |
+| C. Nagarjuna Sagar | 3. Krishna |
+| D. Pochampad | 4. Periyar |
+
+*Row order is not the answer code.*
+
+A. 4 1 3 2
+
+B. 1 4 3 2
+
+C. 1 3 4 2
+
+D. 1 4 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 4 3 2**.
+
+**Logic:** A → 1 (Idukki ↔ Betwa) B → 4 (Matatilla ↔ Periyar) C → 3 (Nagarjuna Sagar ↔ Krishna) D → 2 (Pochampad ↔ Godavari). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Lakes & Waterfalls ↔ Geographic Locations**
+
+| List-I | List-II |
+|---|---|
+| A. Loktak | 1. Mystery / Skeleton Lake, Uttarakhand |
+| B. Roopkund | 2. Phumdis / Keibul Lamjao / Sangai |
+| C. Wular | 3. Largest-freshwater volume fact on Jhelum |
+| D. Kabartal | 4. Bihar oxbow Ramsar |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Loktak ↔ Phumdis / Keibul Lamjao / Sangai) B → 1 (Roopkund ↔ Mystery / Skeleton Lake, Uttarakhand) C → 3 (Wular ↔ Largest-freshwater volume fact on Jhelum) D → 4 (Kabartal ↔ Bihar oxbow Ramsar). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Hundru | 1. Indravati |
+| B. Dhuandhar | 2. Subarnarekha |
+| C. Chitrakote | 3. Narmada at Bhedaghat |
+| D. Kapildhara | 4. Narmada (not Godavari) |
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+
+B. 2 1 4 3
+
+C. 2 4 3 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 4 1 3**.
+
+**Logic:** A → 2 (Hundru ↔ Subarnarekha) B → 4 (Dhuandhar ↔ Narmada (not Godavari)) C → 1 (Chitrakote ↔ Indravati) D → 3 (Kapildhara ↔ Narmada at Bhedaghat). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Nagarjuna Sagar | 1. Beas |
+| B. Baglihar / Dulhasti | 2. Krishna |
+| C. Pandoh / Pong | 3. Chenab |
+| D. Tulbul | 4. Jhelum / Wular |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Nagarjuna Sagar ↔ Krishna) B → 3 (Baglihar / Dulhasti ↔ Chenab) C → 1 (Pandoh / Pong ↔ Beas) D → 4 (Tulbul ↔ Jhelum / Wular). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q21.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List–I ↔ List–Ii**
+
+| List–I (Rivers) | List–II (Dams) |
+|---|---|
+| A. Cauvery | 1. Almatti |
+| B. Krishna | 2. Mettur |
+| C. Narmada | 3. Gandhi Sagar |
+| D. Chambal | 4. Sardar Sarovar |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Cauvery ↔ Mettur) B → 1 (Krishna ↔ Almatti) C → 4 (Narmada ↔ Sardar Sarovar) D → 3 (Chambal ↔ Gandhi Sagar). Trap: treating table row order as the answer code.
+
+</details>
+

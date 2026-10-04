@@ -181,73 +181,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| --- | --- |
-| A. Dachigam | 1. Madhya Pradesh |
-| B. Keoladeo | 2. Rajasthan |
-| C. Kanha | 3. Kerala |
-| D. Periyar | 4. Jammu and Kashmir |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| --- | --- |
-| A. Indravati | 1. Jharkhand |
-| B. Mollem | 2. Haryana |
-| C. Kalesar | 3. Goa |
-| D. Betla | 4. Chhattisgarh |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Corbett | 1. Haryana |
-| B. Sultanpur | 2. Uttarakhand |
-| C. Rudrasagar | 3. Tripura |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Dachigam | 1. MP — barasingha / Bhoorsingh |
-| B. Kanha | 2. J&K — Hangul |
-| C. Keoladeo | 3. Rajasthan — birds |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. National Chambal | 1. Gujarat largest WLS |
-| B. Wild Ass Sanctuary | 2. UP–MP–Rajasthan; gharial/dolphin |
-| C. Kuno–Palpur | 3. Asiatic lion second-home neighbourhood |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Govind NP | 1. Kullu HP |
-| B. Great Himalayan NP | 2. Tons source region (UK) |
-| C. Salim Ali NP | 3. Srinagar |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -580,3 +513,126 @@ D. A-3, B-1, C-2
 **Logic:** Classic match set.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Dachigam | 1. Madhya Pradesh |
+| B. Keoladeo | 2. Rajasthan |
+| C. Kanha | 3. Kerala |
+| D. Periyar | 4. Jammu and Kashmir |
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+
+B. 2 4 1 3
+
+C. 4 1 2 3
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 2 1 3**.
+
+**Logic:** A → 4 (Dachigam ↔ Jammu and Kashmir) B → 2 (Keoladeo ↔ Rajasthan) C → 1 (Kanha ↔ Madhya Pradesh) D → 3 (Periyar ↔ Kerala). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Indravati | 1. Jharkhand |
+| B. Mollem | 2. Haryana |
+| C. Kalesar | 3. Goa |
+| D. Betla | 4. Chhattisgarh |
+
+*Row order is not the answer code.*
+
+A. 3 4 2 1
+
+B. 4 3 2 1
+
+C. 4 2 3 1
+
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **4 3 2 1**.
+
+**Logic:** A → 4 (Indravati ↔ Chhattisgarh) B → 3 (Mollem ↔ Goa) C → 2 (Kalesar ↔ Haryana) D → 1 (Betla ↔ Jharkhand). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Corbett | 1. Haryana |
+| B. Sultanpur | 2. Uttarakhand |
+| C. Rudrasagar | 3. Tripura |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 3 2 4
+
+C. 1 2 3
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **1 2 3**.
+
+**Logic:** A → 1 (Corbett ↔ Haryana) B → 2 (Sultanpur ↔ Uttarakhand) C → 3 (Rudrasagar ↔ Tripura). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Dachigam | 1. MP — barasingha / Bhoorsingh |
+| B. Kanha | 2. J&K — Hangul |
+| C. Keoladeo | 3. Rajasthan — birds |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 4 3
+
+D. 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 3**.
+
+**Logic:** A → 2 (Dachigam ↔ J&K — Hangul) B → 1 (Kanha ↔ MP — barasingha / Bhoorsingh) C → 3 (Keoladeo ↔ Rajasthan — birds). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -372,41 +372,6 @@ hide:
 ---
 
 
-### Match Matrix: Agent / Product ↔ Source / Action
-
-| List-I (Agent / Product) | List-II (Source / Action) |
-|---|---|
-| A. Streptokinase | 1. Immunosuppressive agent in organ transplants |
-| B. Cyclosporin A | 2. Blood cholesterol-lowering statin |
-| C. *Monascus purpureus* | 3. "Clot buster" enzyme from *Streptococcus* |
-| D. *Aspergillus niger* | 4. Commercial production of Citric acid |
-
----
-
-
-### Match Matrix: Research Institute ↔ City In Up
-
-| List-I (Research Institute) | List-II (City in UP) |
-|---|---|
-| A. Central Drug Research Institute (CDRI) | 1. Izatnagar, Bareilly |
-| B. Indian Veterinary Research Institute (IVRI) | 2. Varanasi |
-| C. Indian Institute of Vegetable Research (IIVR) | 3. Lucknow |
-| D. Indian Grassland and Fodder Research Institute (IGFRI) | 4. Jhansi |
-
----
-
-
-### Match Matrix: Institute ↔ Headquarters City
-
-| List-I (Institute) | List-II (Headquarters City) |
-|---|---|
-| A. National Institute of Virology (NIV) | 1. Karnal, Haryana |
-| B. National Dairy Research Institute (NDRI) | 2. Pune, Maharashtra |
-| C. Central Food Technological Research Institute (CFTRI) | 3. Nagpur, Maharashtra |
-| D. National Environmental Engineering Research Inst. (NEERI) | 4. Mysuru, Karnataka |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** The Four Microbial Groups:
@@ -643,3 +608,35 @@ D. (A) is false, but (R) is true
 **Logic:** Wool and silk are keratin/fibroin proteins, and cotton is cellulose; decomposer bacteria and fungi secrete proteases and cellulases to break them down. Synthetic fabrics (polyester, nylon) resist microbial enzymatic breakdown.
 
 </details>
+
+**Q12.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Research Institute ↔ City In Up**
+
+| List-I (Research Institute) | List-II (City in UP) |
+|---|---|
+| A. Central Drug Research Institute (CDRI) | 1. Izatnagar, Bareilly |
+| B. Indian Veterinary Research Institute (IVRI) | 2. Varanasi |
+| C. Indian Institute of Vegetable Research (IIVR) | 3. Lucknow |
+| D. Indian Grassland and Fodder Research Institute (IGFRI) | 4. Jhansi |
+
+*Row order is not the answer code.*
+
+A. 3 1 2 4
+
+B. 1 3 2 4
+
+C. 3 2 1 4
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **3 1 2 4**.
+
+**Logic:** A → 3 (Central Drug Research Institute (CDRI) ↔ Lucknow) B → 1 (Indian Veterinary Research Institute (IVRI) ↔ Izatnagar, Bareilly) C → 2 (Indian Institute of Vegetable Research (IIVR) ↔ Varanasi) D → 4 (Indian Grassland and Fodder Research Institute (IGFRI) ↔ Jhansi). Trap: treating table row order as the answer code.
+
+</details>
+

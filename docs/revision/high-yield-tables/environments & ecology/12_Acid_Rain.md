@@ -90,38 +90,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Wet deposition | 1. Gases/particles without rain |
-| B. Dry deposition | 2. Acids in rain/snow/fog |
-| C. SO₂ path | 3. → H₂SO₄ |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Acidic | 1. =7 |
-| B. Neutral | 2. <7 |
-| C. Basic | 3. >7 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. H₂SO₄ path | 1. NOx |
-| B. HNO₃ path | 2. SO₂ |
-| C. Baseline weak acid | 3. CO₂ → H₂CO₃ |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |

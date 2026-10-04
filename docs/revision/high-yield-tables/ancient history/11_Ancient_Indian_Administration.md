@@ -158,18 +158,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Dhananjaya | 1. Kanchi |
-| B. Nilaraja | 2. Avamukta |
-| C. Ugrasena | 3. Kusthalapura |
-| D. Vishnugopa | 4. Palaka |
-
----
-
-
 ### Match Matrix: Title ↔ Ruler
 
 | List-I (Title) | List-II (Ruler) |

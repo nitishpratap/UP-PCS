@@ -151,30 +151,6 @@ hide:
 ---
 
 
-### Comparative Matrix: Age ↔ Site
-
-| Age | Site |
-|---|---|
-| A. Palaeolithic Age | (i) Bhimbetka Caves |
-| B. Mesolithic Age | (ii) Burzahom |
-| C. Neolithic Age | (iii) Banas Valley |
-| D. Chalcolithic Age | (iv) Sohan/Soan River Valley |
-
----
-
-
-### Match Matrix: Archaeological Site ↔ Present Location
-
-| List-I (Archaeological site) | List-II (Present location) |
-|---|---|
-| A. Nevasa | 1. Rajasthan |
-| B. Isampur | 2. Tamil Nadu |
-| C. Didwana | 3. Maharashtra |
-| D. Gudiyam cave | 4. Karnataka |
-
----
-
-
 ### Comparative Matrix: Archaeological Site ↔ State ↔ Description
 
 | Archaeological Site | State | Description |

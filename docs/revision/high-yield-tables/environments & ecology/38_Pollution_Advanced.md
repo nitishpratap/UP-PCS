@@ -82,49 +82,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. London smog | 1. NOx + VOCs + sunlight → O₃ + PAN |
-| B. Photochemical smog | 2. SO₂ + smoke |
-| C. PAN | 3. Strong eye irritant |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. CO poisoning | 1. Top indoor pollutant teaching |
-| B. Radon | 2. Carboxyhaemoglobin (~200–300× vs O₂) |
-| C. Fly ash | 3. Thermal-power; bricks/cement use |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. SAFAR | 1. Delhi units teaching |
-| B. WAYU | 2. IITM AQ + weather forecast |
-| C. Green muffler | 3. Tree belts for noise |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. IMO HQ | 1. Mould toxins on grain |
-| B. Aflatoxins | 2. London |
-| C. Steel industry | 3. CO, CO₂, SOx, NOx |
-
----
-
 ## Common Traps
 
 | Trap | Correct |

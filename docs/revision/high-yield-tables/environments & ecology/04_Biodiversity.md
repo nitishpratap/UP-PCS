@@ -134,38 +134,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Alpha diversity | 1. Overall regional diversity |
-| B. Beta diversity | 2. Local habitat mean diversity |
-| C. Gamma diversity | 3. Change between ecosystems |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. CBD | 1. Biosafety / LMOs |
-| B. Cartagena Protocol | 2. ABS |
-| C. Nagoya Protocol | 3. 1992 Rio biodiversity convention |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Dugong | 1. Western Ghats |
-| B. Lion-tailed macaque | 2. Gulf of Mannar / Palk teaching |
-| C. Indian wild ass | 3. Rann of Kachchh |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |

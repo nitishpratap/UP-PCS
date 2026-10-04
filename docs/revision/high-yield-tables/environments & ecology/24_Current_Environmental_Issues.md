@@ -106,50 +106,6 @@ hide:
 ---
 
 
-### Match Matrix: Report ↔ Organisation
-
-| List-I (Report) | List-II (Organisation) |
-| --- | --- |
-| A. Human Development Report | 1. IMF |
-| B. World Economic Outlook | 2. UNEP |
-| C. World Investment Report | 3. UNDP |
-| D. Emissions Gap Report | 4. UNCTAD |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. 1 carbon credit | 1. 2023 eco-action rewards |
-| B. PAT | 2. 1 tCO₂e |
-| C. Green Credit | 3. ESCerts |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. SUP ban push | 1. Lifestyle mission |
-| B. LiFE | 2. ~2022 |
-| C. Loss & Damage Fund | 3. Climate finance politics |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Net zero India | 1. 2023 |
-| B. Green Credit | 2. 2070 |
-| C. MISHTI Budget | 3. Mangroves |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -476,3 +432,64 @@ D. Both 2005
 **Logic:** LiFE years.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. 1 carbon credit | 1. 2023 eco-action rewards |
+| B. PAT | 2. 1 tCO₂e |
+| C. Green Credit | 3. ESCerts |
+
+*Row order is not the answer code.*
+
+A. 2 3 1
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1**.
+
+**Logic:** A → 2 (1 carbon credit ↔ 1 tCO₂e) B → 3 (PAT ↔ ESCerts) C → 1 (Green Credit ↔ 2023 eco-action rewards). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Net zero India | 1. 2023 |
+| B. Green Credit | 2. 2070 |
+| C. MISHTI Budget | 3. Mangroves |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (Net zero India ↔ 2070) B → 1 (Green Credit ↔ 2023) C → 3 (MISHTI Budget ↔ Mangroves). Trap: treating table row order as the answer code.
+
+</details>
+

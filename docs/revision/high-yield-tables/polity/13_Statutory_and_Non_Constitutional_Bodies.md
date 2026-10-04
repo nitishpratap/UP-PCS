@@ -171,38 +171,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. CVC selection | 1. PM, LoP, Union Cabinet Minister |
-| B. CIC selection | 2. PM, Home Minister, LoP |
-| C. CBI Director panel | 3. PM, LoP (LS), CJI |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. NCW Act | 1. 1992 |
-| B. NCM Act | 2. 1990 |
-| C. NCPCR | 3. 2005; children below 18 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. CBI | 1. Statutory 2008; scheduled offences |
-| B. NIA | 2. DSPE 1946 + 1963 resolution; State consent |
-| C. ED | 3. FEMA / PMLA |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** NCPCR (2005) deals with children below 18 and works with State Commissions. The National Commission for Safai Karamcharis is statutory (1993 lineage; PEMSR 2013) and is not Article 338.
@@ -461,3 +429,34 @@ D. None of the Above
 **Ans: C. A special resolution passed by the Union cabinet.**
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. CBI | 1. Statutory 2008; scheduled offences |
+| B. NIA | 2. DSPE 1946 + 1963 resolution; State consent |
+| C. ED | 3. FEMA / PMLA |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (CBI ↔ DSPE 1946 + 1963 resolution; State consent) B → 1 (NIA ↔ Statutory 2008; scheduled offences) C → 3 (ED ↔ FEMA / PMLA). Trap: treating table row order as the answer code.
+
+</details>
+

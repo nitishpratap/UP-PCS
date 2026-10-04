@@ -67,49 +67,6 @@ hide:
 ---
 
 
-### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
-
-| List-I | List-II |
-|--------|--------|
-| A. Troposphere | 1. Ozone layer; T rises with height |
-| B. Stratosphere | 2. Weather; T falls with height |
-| C. Mesosphere | 3. Coldest; most meteors burn |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Homosphere | 1. Separates gases by mass |
-| B. Heterosphere | 2. Well mixed to ~80 km |
-| C. Ionosphere radio | 3. Thermosphere–upper-atmosphere feature |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. N₂ | 1. ~0.04% |
-| B. O₂ | 2. ~78% |
-| C. CO₂ | 3. ~21% |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Tropospheric O₃ | 1. UV shield |
-| B. Stratospheric O₃ | 2. Pollutant / GHG |
-| C. Heterosphere | 3. Above ~80 km mass separation |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -433,3 +390,34 @@ D. Only ocean salinity
 **Logic:** Radio reflection.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. N₂ | 1. ~0.04% |
+| B. O₂ | 2. ~78% |
+| C. CO₂ | 3. ~21% |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (N₂ ↔ ~78%) B → 1 (O₂ ↔ ~0.04%) C → 3 (CO₂ ↔ ~21%). Trap: treating table row order as the answer code.
+
+</details>
+

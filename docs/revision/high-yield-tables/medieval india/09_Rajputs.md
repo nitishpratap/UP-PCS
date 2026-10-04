@@ -99,30 +99,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Rana Hammir | 1. Founded Jodhpur (1459) |
-| B. Rana Kumbha | 2. Mewar restorer after Khalji sack (~1326) |
-| C. Rao Jodha | 3. Vijay Stambha at Chittor |
-| D. Man Singh | 4. Amber; ~7000 zat; Haldighati commander |
-
----
-
-
-### Match Matrix: Clan ↔ Seat
-
-| List-I (Clan) | List-II (Seat) |
-|---------------|----------------|
-| A. Bhati | 1. Bundi–Kota |
-| B. Hada | 2. Jaisalmer |
-| C. Rathore branch | 3. Bikaner |
-| D. Sisodia | 4. Mewar |
-
----
-
-
 ### Comparative Matrix: Ruler ↔ Tag
 
 | Ruler | Tag |
@@ -577,3 +553,66 @@ D. Neither 1 nor 2
 - *Sammel Opponents:* Sher Shah vs Rao Maldeo Rathore of Marwar (1544 CE).
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Rana Hammir | 1. Founded Jodhpur (1459) |
+| B. Rana Kumbha | 2. Mewar restorer after Khalji sack (~1326) |
+| C. Rao Jodha | 3. Vijay Stambha at Chittor |
+| D. Man Singh | 4. Amber; ~7000 zat; Haldighati commander |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Rana Hammir ↔ Mewar restorer after Khalji sack (~1326)) B → 3 (Rana Kumbha ↔ Vijay Stambha at Chittor) C → 1 (Rao Jodha ↔ Founded Jodhpur (1459)) D → 4 (Man Singh ↔ Amber; ~7000 zat; Haldighati commander). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Clan ↔ Seat**
+
+| List-I (Clan) | List-II (Seat) |
+|---|---|
+| A. Bhati | 1. Bundi–Kota |
+| B. Hada | 2. Jaisalmer |
+| C. Rathore branch | 3. Bikaner |
+| D. Sisodia | 4. Mewar |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Bhati ↔ Jaisalmer) B → 1 (Hada ↔ Bundi–Kota) C → 3 (Rathore branch ↔ Bikaner) D → 4 (Sisodia ↔ Mewar). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -59,49 +59,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Ramsar | 1. 1973 wildlife trade |
-| B. CITES | 2. 1971 wetlands |
-| C. CMS/Bonn | 3. 1979 migratory species |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Montreal | 1. 2015 |
-| B. Kyoto | 2. 1987 |
-| C. Paris | 3. 1997 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Basel | 1. Mercury |
-| B. Rotterdam | 2. Hazardous waste |
-| C. Minamata | 3. PIC chemicals |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. CBD | 1. 1971 |
-| B. Ramsar | 2. 1992 |
-| C. CITES | 3. 1973 |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -425,3 +382,124 @@ D. Makes Ramsar = CITES
 **Logic:** Geography ≠ identity.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Ramsar | 1. 1973 wildlife trade |
+| B. CITES | 2. 1971 wetlands |
+| C. CMS/Bonn | 3. 1979 migratory species |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (Ramsar ↔ 1973 wildlife trade) B → 2 (CITES ↔ 1971 wetlands) C → 3 (CMS/Bonn ↔ 1979 migratory species). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Montreal | 1. 2015 |
+| B. Kyoto | 2. 1987 |
+| C. Paris | 3. 1997 |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 3 1
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 1**.
+
+**Logic:** A → 2 (Montreal ↔ 1987) B → 3 (Kyoto ↔ 1997) C → 1 (Paris ↔ 2015). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Basel | 1. Mercury |
+| B. Rotterdam | 2. Hazardous waste |
+| C. Minamata | 3. PIC chemicals |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 1
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 3 1**.
+
+**Logic:** A → 2 (Basel ↔ Hazardous waste) B → 3 (Rotterdam ↔ PIC chemicals) C → 1 (Minamata ↔ Mercury). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. CBD | 1. 1971 |
+| B. Ramsar | 2. 1992 |
+| C. CITES | 3. 1973 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 4 3
+
+D. 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 3**.
+
+**Logic:** A → 2 (CBD ↔ 1992) B → 1 (Ramsar ↔ 1971) C → 3 (CITES ↔ 1973). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -275,18 +275,6 @@ hide:
 ---
 
 
-### Match Matrix: Centre ↔ Industry
-
-| List-I (Centre) | List-II (Industry) |
-|-----------------|-------------------|
-| A. Osaka | 1. Cigar |
-| B. Detroit | 2. Ship building |
-| C. Cuba | 3. Cotton textile |
-| D. St. Petersburg | 4. Automobile |
-
----
-
-
 ### Comparative Matrix: Type ↔ Recall ↔ Example
 
 | Type | Recall | Example |
@@ -401,88 +389,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Centre ↔ Industry
-
-| List-I (Centre) | List-II (Industry) |
-|-----------------|-------------------|
-| A. Osaka | 1. Cigar |
-| B. Detroit | 2. Ship building |
-| C. Cuba | 3. Cotton textile |
-| D. St. Petersburg | 4. Automobile |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Foehn | 1. Argentina |
-| B. Simoom | 2. Kurdistan |
-| C. Santa Ana | 3. California |
-| D. Zonda | 4. Alps |
-
----
-
-
-### Match Matrix: Canal ↔ Waters
-
-| List-I (Canal) | List-II (Waters) |
-|-----------------|------------------|
-| A. Suez | 1. North Sea ↔ Baltic |
-| B. Panama | 2. Med ↔ Red Sea (sea-level) |
-| C. Kiel | 3. Atlantic/Caribbean ↔ Pacific (with stepped chambers) |
-
----
-
-
-### Match Matrix: Wind ↔ Region
-
-| List-I (Wind) | List-II (Region) |
-|----------------|------------------|
-| A. Santa Ana | 1. West Africa |
-| B. Harmattan | 2. California |
-| C. Bora | 3. Egypt |
-| D. Khamsin | 4. Adriatic (cold) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Haboob | 1. Sahara → Med |
-| B. Sirocco | 2. Sudan |
-| C. Leveche | 3. Japan |
-| D. Yamo | 4. Spain |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Lancashire | 1. Wool |
-| B. Yorkshire | 2. Cotton |
-| C. Ruhr | 3. Heavy industry (Germany) |
-| D. Ivanovo | 4. Russian Manchester |
-
----
-
-
-### Match Matrix: City ↔ Tag
-
-| List-I (City) | List-II (Tag) |
-|----------------|---------------|
-| A. Osaka | 1. Auto (Detroit of Japan = Nagoya) |
-| B. Nagoya | 2. Cotton (Manchester of Japan) |
-| C. Kawasaki | 3. Pittsburgh of Japan |
-| D. Detroit | 4. Automobile (USA) |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -830,3 +736,189 @@ D. Only 1
 **Logic:** Do not park Silicon Valley on Detroit.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Centre ↔ Industry**
+
+| List-I (Centre) | List-II (Industry) |
+|---|---|
+| A. Osaka | 1. Cigar |
+| B. Detroit | 2. Ship building |
+| C. Cuba | 3. Cotton textile |
+| D. St. Petersburg | 4. Automobile |
+
+*Row order is not the answer code.*
+
+A. 1 4 2 3
+
+B. 4 1 2 3
+
+C. 1 2 4 3
+
+D. 1 4 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 4 2 3**.
+
+**Logic:** A → 1 (Osaka ↔ Cigar) B → 4 (Detroit ↔ Automobile) C → 2 (Cuba ↔ Ship building) D → 3 (St. Petersburg ↔ Cotton textile). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Centre ↔ Industry**
+
+| List-I (Centre) | List-II (Industry) |
+|---|---|
+| A. Osaka | 1. Cigar |
+| B. Detroit | 2. Ship building |
+| C. Cuba | 3. Cotton textile |
+| D. St. Petersburg | 4. Automobile |
+
+*Row order is not the answer code.*
+
+A. 4 1 2 3
+
+B. 1 4 2 3
+
+C. 1 2 4 3
+
+D. 1 4 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 4 2 3**.
+
+**Logic:** A → 1 (Osaka ↔ Cigar) B → 4 (Detroit ↔ Automobile) C → 2 (Cuba ↔ Ship building) D → 3 (St. Petersburg ↔ Cotton textile). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Canal ↔ Waters**
+
+| List-I (Canal) | List-II (Waters) |
+|---|---|
+| A. Suez | 1. North Sea ↔ Baltic |
+| B. Panama | 2. Med ↔ Red Sea (sea-level) |
+| C. Kiel | 3. Atlantic/Caribbean ↔ Pacific (with stepped chambers) |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 1
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 3 1**.
+
+**Logic:** A → 2 (Suez ↔ Med ↔ Red Sea (sea-level)) B → 3 (Panama ↔ Atlantic/Caribbean ↔ Pacific (with stepped chambers)) C → 1 (Kiel ↔ North Sea ↔ Baltic). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Wind ↔ Region**
+
+| List-I (Wind) | List-II (Region) |
+|---|---|
+| A. Santa Ana | 1. West Africa |
+| B. Harmattan | 2. California |
+| C. Bora | 3. Egypt |
+| D. Khamsin | 4. Adriatic (cold) |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 4 2 3
+
+C. 1 2 3 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **1 2 4 3**.
+
+**Logic:** A → 1 (Santa Ana ↔ West Africa) B → 2 (Harmattan ↔ California) C → 4 (Bora ↔ Adriatic (cold)) D → 3 (Khamsin ↔ Egypt). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Lancashire | 1. Wool |
+| B. Yorkshire | 2. Cotton |
+| C. Ruhr | 3. Heavy industry (Germany) |
+| D. Ivanovo | 4. Russian Manchester |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Lancashire ↔ Wool) B → 2 (Yorkshire ↔ Cotton) C → 3 (Ruhr ↔ Heavy industry (Germany)) D → 4 (Ivanovo ↔ Russian Manchester). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q21.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**City ↔ Tag**
+
+| List-I (City) | List-II (Tag) |
+|---|---|
+| A. Osaka | 1. Auto (Detroit of Japan = Nagoya) |
+| B. Nagoya | 2. Cotton (Manchester of Japan) |
+| C. Kawasaki | 3. Pittsburgh of Japan |
+| D. Detroit | 4. Automobile (USA) |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Osaka ↔ Cotton (Manchester of Japan)) B → 3 (Nagoya ↔ Pittsburgh of Japan) C → 1 (Kawasaki ↔ Auto (Detroit of Japan = Nagoya)) D → 4 (Detroit ↔ Automobile (USA)). Trap: treating table row order as the answer code.
+
+</details>
+

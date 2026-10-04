@@ -327,29 +327,6 @@ hide:
 ---
 
 
-### Match Matrix: Scientist ↔ Discovery / Concept
-
-| List-I (Scientist) | List-II (Discovery / Concept) |
-|---|---|
-| A. Robert Hooke | 1. Identified ribosomes |
-| B. Robert Brown | 2. Postulated *Omnis cellula-e cellula* |
-| C. George Palade | 3. Discovered the cell nucleus |
-| D. Rudolf Virchow | 4. Coined the word cell from cork |
-
----
-
-
-### Match Matrix: Biotechnology Product / Tool ↔ Key Association / Feature
-
-| List-I (Biotechnology Product / Tool) | List-II (Key Association / Feature) |
-|---|---|
-| A. Humulin | 1. Transgenic pest-resistant cotton |
-| B. Ti Plasmid | 2. Recombinant human insulin (1982) |
-| C. *Bacillus thuringiensis* | 3. Gene vector from *Agrobacterium* |
-| D. *Thermus aquaticus* | 4. Source of heat-stable *Taq* polymerase |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Key Specialized Biological Branches:

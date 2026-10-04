@@ -97,38 +97,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. UV-A | 1. Fully blocked |
-| B. UV-B | 2. Reaches surface |
-| C. UV-C | 3. Mostly blocked by ozone |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Montreal | 1. 2016 |
-| B. Vienna | 2. 1987 |
-| C. Kigali | 3. 1985 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Ozone Day | 1. Climate GHGs |
-| B. Kyoto/Paris | 2. 16 September |
-| C. Good ozone layer | 3. Stratosphere |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -456,3 +424,64 @@ D. Montreal repealed UNFCCC
 **Logic:** Issue separation.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Montreal | 1. 2016 |
+| B. Vienna | 2. 1987 |
+| C. Kigali | 3. 1985 |
+
+*Row order is not the answer code.*
+
+A. 2 3 1
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1**.
+
+**Logic:** A → 2 (Montreal ↔ 1987) B → 3 (Vienna ↔ 1985) C → 1 (Kigali ↔ 2016). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Ozone Day | 1. Climate GHGs |
+| B. Kyoto/Paris | 2. 16 September |
+| C. Good ozone layer | 3. Stratosphere |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (Ozone Day ↔ 16 September) B → 1 (Kyoto/Paris ↔ Climate GHGs) C → 3 (Good ozone layer ↔ Stratosphere). Trap: treating table row order as the answer code.
+
+</details>
+

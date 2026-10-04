@@ -151,18 +151,6 @@ hide:
 ---
 
 
-### Match Matrix: Country ↔ Capital
-
-| List-I (Country) | List-II (Capital) |
-|------------------|-------------------|
-| A. Uzbekistan | 1. Tashkent |
-| B. Tajikistan | 2. Dushanbe |
-| C. Kyrgyzstan | 3. Bishkek |
-| D. Turkmenistan | 4. Ashgabat |
-
----
-
-
 ### Comparative Matrix: Country ↔ Capital ↔ Fact
 
 | Country | Capital | Fact |
@@ -419,18 +407,6 @@ hide:
 ---
 
 
-### Match Matrix: Country ↔ Capital
-
-| List-I (Country) | List-II (Capital) |
-|------------------|-------------------|
-| A. Uzbekistan | 1. Tashkent |
-| B. Tajikistan | 2. Dushanbe |
-| C. Kyrgyzstan | 3. Bishkek |
-| D. Turkmenistan | 4. Ashgabat |
-
----
-
-
 ### Comparative Matrix: Note ↔ Fact
 
 | Note | Fact |
@@ -459,30 +435,6 @@ hide:
 ---
 
 
-### Match Matrix: Country ↔ Capital
-
-| List-I (Country) | List-II (Capital) |
-|-------------------|-------------------|
-| A. Uzbekistan | 1. Ashgabat |
-| B. Turkmenistan | 2. Tashkent |
-| C. Kyrgyzstan | 3. Dushanbe |
-| D. Tajikistan | 4. Bishkek |
-
----
-
-
-### Match Matrix: Country ↔ Capital ≠ Tourist Mega-City Trap
-
-| List-I (Country) | List-II (Capital ≠ tourist mega-city trap) |
-|-------------------|---------------------------------------------|
-| A. Turkey | 1. Canberra |
-| B. Australia | 2. Ankara |
-| C. Brazil | 3. Abu Dhabi |
-| D. UAE | 4. Brasília |
-
----
-
-
 ### Comparative Matrix: Item ↔ Association
 
 | Item | Association |
@@ -493,17 +445,6 @@ hide:
 
 ---
 
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. UK | 1. Eng + Scot + Wales |
-| B. Great Britain | 2. GB + Northern Ireland |
-| C. Pontic Mountains | 3. Northern Turkey |
-| D. Zagros | 4. Western Iran |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -853,3 +794,97 @@ D. Only 1 and 3
 **Logic:** Bolivia is landlocked but not double-landlocked in the usual set.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Country ↔ Capital**
+
+| List-I (Country) | List-II (Capital) |
+|---|---|
+| A. Uzbekistan | 1. Tashkent |
+| B. Tajikistan | 2. Dushanbe |
+| C. Kyrgyzstan | 3. Bishkek |
+| D. Turkmenistan | 4. Ashgabat |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Uzbekistan ↔ Tashkent) B → 2 (Tajikistan ↔ Dushanbe) C → 3 (Kyrgyzstan ↔ Bishkek) D → 4 (Turkmenistan ↔ Ashgabat). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Country ↔ Capital**
+
+| List-I (Country) | List-II (Capital) |
+|---|---|
+| A. Uzbekistan | 1. Tashkent |
+| B. Tajikistan | 2. Dushanbe |
+| C. Kyrgyzstan | 3. Bishkek |
+| D. Turkmenistan | 4. Ashgabat |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Uzbekistan ↔ Tashkent) B → 2 (Tajikistan ↔ Dushanbe) C → 3 (Kyrgyzstan ↔ Bishkek) D → 4 (Turkmenistan ↔ Ashgabat). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Country ↔ Capital**
+
+| List-I (Country) | List-II (Capital) |
+|---|---|
+| A. Uzbekistan | 1. Ashgabat |
+| B. Turkmenistan | 2. Tashkent |
+| C. Kyrgyzstan | 3. Dushanbe |
+| D. Tajikistan | 4. Bishkek |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Uzbekistan ↔ Tashkent) B → 1 (Turkmenistan ↔ Ashgabat) C → 4 (Kyrgyzstan ↔ Bishkek) D → 3 (Tajikistan ↔ Dushanbe). Trap: treating table row order as the answer code.
+
+</details>
+

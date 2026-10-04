@@ -109,49 +109,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Conventional (India) | 1. Solar, wind, SHP, biomass… |
-| B. Non-conventional | 2. Coal, oil, gas, large hydro, nuclear |
-| C. SHP cut-off | 3. ≤25 MW |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. ISA | 1. Domestic efficiency |
-| B. BEE | 2. Solar diplomacy / Gurugram |
-| C. E20 | 3. Higher ethanol blend ambition |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Microbial fuel cell | 1. Non-petroleum paving |
-| B. Bioasphalt | 2. Living microbes as catalysts |
-| C. National Hydrogen Board | 3. Set up teaching neighbourhood |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Bioethanol feedstocks | 1. Jatropha, Pongamia, UCO |
-| B. Biodiesel feedstocks | 2. Maize, sugarcane… |
-| C. SPR | 3. Vizag, Mangalore, Padur |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -480,3 +437,34 @@ D. A-3, B-1, C-2
 **Logic:** ISA/BEE/E20.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Conventional (India) | 1. Solar, wind, SHP, biomass… |
+| B. Non-conventional | 2. Coal, oil, gas, large hydro, nuclear |
+| C. SHP cut-off | 3. ≤25 MW |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (Conventional (India) ↔ Coal, oil, gas, large hydro, nuclear) B → 1 (Non-conventional ↔ Solar, wind, SHP, biomass…) C → 3 (SHP cut-off ↔ ≤25 MW). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -459,18 +459,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Lena | 1. Persian Gulf |
-| B. Amur | 2. Arctic Ocean |
-| C. Tigris | 3. Arabian Sea |
-| D. Mahi | 4. Pacific Ocean |
-
----
-
-
 ### Comparative Matrix: River ↔ Country
 
 | River | Country |
@@ -479,90 +467,6 @@ hide:
 | (b) Po | Italy |
 | (c) Rhine | Germany |
 | (d) Rhone | Spain |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Shatt-al-Arab | 1. Vienna |
-| B. Paraguay | 2. Basra |
-| C. Niger | 3. Asuncion |
-| D. Danube | 4. Niamey |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Paris | 1. Paraguay |
-| B. Kinshasa | 2. Chao Phraya |
-| C. Bangkok | 3. Zaire (Congo) |
-| D. Asuncion | 4. Seine |
-
----
-
-
-### Match Matrix: Rivers ↔ Tributaries & Confluences
-
-| List-I | List-II |
-|--------|---------|
-| A. Washington D.C. | 1. River Manzanares |
-| B. Berlin | 2. River Seine |
-| C. Paris | 3. River Spree |
-| D. Madrid | 4. River Potomac |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Berlin | 1. Tiber |
-| B. Lahore | 2. Hudson |
-| C. New York | 3. Ravi |
-| D. Rome | 4. Spree |
-
----
-
-
-### Match Matrix: Rivers ↔ Tributaries & Confluences
-
-| List-I | List-II |
-|--------|---------|
-| A. Bangkok | 1. Irrawaddy |
-| B. Phnom-Penh | 2. Mekong |
-| C. Hanoi | 3. Menam (Chao Phraya) |
-| D. Yangon | 4. Red River |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Khartoum | 1. Zaire |
-| B. Brazzaville | 2. Nile |
-| C. Rotterdam | 3. Seine |
-| D. Paris | 4. Rhine |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Colorado | 1. Aswan |
-| B. Damodar | 2. Kariba |
-| C. Nile | 3. Panchet |
-| D. Zambezi | 4. Hoover |
 
 ---
 
@@ -578,41 +482,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Dam / Project ↔ River
-
-| List-I (Dam / project) | List-II (River) |
-|------------------------|-----------------|
-| A. Three Gorges | 1. Colorado |
-| B. Aswan | 2. Yangtze |
-| C. Itaipu | 3. Nile |
-| D. Hoover | 4. Paraná |
-
----
-
-
-### Match Matrix: Feature ↔ Association
-
-| List-I (Feature) | List-II (Association) |
-|-------------------|------------------------|
-| A. Bird’s-foot delta | 1. Nile / Hwang Ho / Niger |
-| B. Arcuate delta | 2. Mississippi |
-| C. Endorheic lake set | 3. Caspian, Aral, Dead Sea, Chad, Eyre |
-| D. St Lawrence | 4. Great Lakes seaway |
-
----
-
-
-### Match Matrix: River ↔ Direction / Mouth Note
-
-| List-I (River) | List-II (Direction / mouth note) |
-|-----------------|----------------------------------|
-| A. Syr Darya | 1. North out of Baikal |
-| B. Angara | 2. North-west into the Aral |
-| C. Volga | 3. Valdai Hills → Caspian |
-| D. Mekong | 4. Tibet → SE; delta in S. Vietnam |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -954,3 +823,314 @@ D. 2 and 3 only
 **Logic:** Three Gorges is on the Yangtze. Kariba–Zambezi and Hoover–Colorado are correct.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Lena | 1. Persian Gulf |
+| B. Amur | 2. Arctic Ocean |
+| C. Tigris | 3. Arabian Sea |
+| D. Mahi | 4. Pacific Ocean |
+
+*Row order is not the answer code.*
+
+A. 2 4 1 3
+
+B. 4 2 1 3
+
+C. 2 1 4 3
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 4 1 3**.
+
+**Logic:** A → 2 (Lena ↔ Arctic Ocean) B → 4 (Amur ↔ Pacific Ocean) C → 1 (Tigris ↔ Persian Gulf) D → 3 (Mahi ↔ Arabian Sea). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Shatt-al-Arab | 1. Vienna |
+| B. Paraguay | 2. Basra |
+| C. Niger | 3. Asuncion |
+| D. Danube | 4. Niamey |
+
+*Row order is not the answer code.*
+
+A. 3 2 4 1
+
+B. 2 3 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Shatt-al-Arab ↔ Basra) B → 3 (Paraguay ↔ Asuncion) C → 4 (Niger ↔ Niamey) D → 1 (Danube ↔ Vienna). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Paris | 1. Paraguay |
+| B. Kinshasa | 2. Chao Phraya |
+| C. Bangkok | 3. Zaire (Congo) |
+| D. Asuncion | 4. Seine |
+
+*Row order is not the answer code.*
+
+A. 3 4 2 1
+
+B. 4 2 3 1
+
+C. 4 3 2 1
+
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **4 3 2 1**.
+
+**Logic:** A → 4 (Paris ↔ Seine) B → 3 (Kinshasa ↔ Zaire (Congo)) C → 2 (Bangkok ↔ Chao Phraya) D → 1 (Asuncion ↔ Paraguay). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Rivers ↔ Tributaries & Confluences**
+
+| List-I | List-II |
+|---|---|
+| A. Washington D.C. | 1. River Manzanares |
+| B. Berlin | 2. River Seine |
+| C. Paris | 3. River Spree |
+| D. Madrid | 4. River Potomac |
+
+*Row order is not the answer code.*
+
+A. 3 4 2 1
+
+B. 4 2 3 1
+
+C. 4 3 1 2
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **4 3 2 1**.
+
+**Logic:** A → 4 (Washington D.C. ↔ River Potomac) B → 3 (Berlin ↔ River Spree) C → 2 (Paris ↔ River Seine) D → 1 (Madrid ↔ River Manzanares). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Berlin | 1. Tiber |
+| B. Lahore | 2. Hudson |
+| C. New York | 3. Ravi |
+| D. Rome | 4. Spree |
+
+*Row order is not the answer code.*
+
+A. 4 3 1 2
+
+B. 3 4 1 2
+
+C. 4 1 3 2
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 3 1 2**.
+
+**Logic:** A → 4 (Berlin ↔ Spree) B → 3 (Lahore ↔ Ravi) C → 1 (New York ↔ Tiber) D → 2 (Rome ↔ Hudson). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q21.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Rivers ↔ Tributaries & Confluences**
+
+| List-I | List-II |
+|---|---|
+| A. Bangkok | 1. Irrawaddy |
+| B. Phnom-Penh | 2. Mekong |
+| C. Hanoi | 3. Menam (Chao Phraya) |
+| D. Yangon | 4. Red River |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 1 4 2 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 4 3**.
+
+**Logic:** A → 1 (Bangkok ↔ Irrawaddy) B → 2 (Phnom-Penh ↔ Mekong) C → 4 (Hanoi ↔ Red River) D → 3 (Yangon ↔ Menam (Chao Phraya)). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q22.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Khartoum | 1. Zaire |
+| B. Brazzaville | 2. Nile |
+| C. Rotterdam | 3. Seine |
+| D. Paris | 4. Rhine |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Khartoum ↔ Nile) B → 1 (Brazzaville ↔ Zaire) C → 4 (Rotterdam ↔ Rhine) D → 3 (Paris ↔ Seine). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q23.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Colorado | 1. Aswan |
+| B. Damodar | 2. Kariba |
+| C. Nile | 3. Panchet |
+| D. Zambezi | 4. Hoover |
+
+*Row order is not the answer code.*
+
+A. 3 4 1 2
+
+B. 4 1 3 2
+
+C. 4 3 2 1
+
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **4 3 1 2**.
+
+**Logic:** A → 4 (Colorado ↔ Hoover) B → 3 (Damodar ↔ Panchet) C → 1 (Nile ↔ Aswan) D → 2 (Zambezi ↔ Kariba). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q24.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Dam / Project ↔ River**
+
+| List-I (Dam / project) | List-II (River) |
+|---|---|
+| A. Three Gorges | 1. Colorado |
+| B. Aswan | 2. Yangtze |
+| C. Itaipu | 3. Nile |
+| D. Hoover | 4. Paraná |
+
+*Row order is not the answer code.*
+
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Three Gorges ↔ Yangtze) B → 3 (Aswan ↔ Nile) C → 4 (Itaipu ↔ Paraná) D → 1 (Hoover ↔ Colorado). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q25.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Feature ↔ Association**
+
+| List-I (Feature) | List-II (Association) |
+|---|---|
+| A. Bird’s-foot delta | 1. Nile / Hwang Ho / Niger |
+| B. Arcuate delta | 2. Mississippi |
+| C. Endorheic lake set | 3. Caspian, Aral, Dead Sea, Chad, Eyre |
+| D. St Lawrence | 4. Great Lakes seaway |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Bird’s-foot delta ↔ Mississippi) B → 1 (Arcuate delta ↔ Nile / Hwang Ho / Niger) C → 3 (Endorheic lake set ↔ Caspian, Aral, Dead Sea, Chad, Eyre) D → 4 (St Lawrence ↔ Great Lakes seaway). Trap: treating table row order as the answer code.
+
+</details>
+

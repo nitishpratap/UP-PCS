@@ -153,53 +153,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Cripps Mission | 1. 1945 interim executive / Simla conference season |
-| B. Wavell Plan | 2. Mar 1942 dominion-after-war offer |
-| C. Cabinet Mission | 3. 16 May 1946 grouping plan |
-| D. Mountbatten Plan | 4. 3 June 1947 partition + transfer framework |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Interim announced | 1. 2 September 1946 |
-| B. Interim took office | 2. 24 August 1946 |
-| C. League joined Interim | 3. 26 October 1946 |
-| D. Direct Action Day | 4. 16 August 1946 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Ballia | 1. Prati Sarkar |
-| B. Satara | 2. Chittu Pandey (UP) |
-| C. Usha Mehta | 3. Quit India underground radio |
-| D. Lakshmi Sehgal | 4. Rani of Jhansi Regiment |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Forward Bloc | 1. Socialists inside Congress, 1934 |
-| B. CSP | 2. Bose, 1939 |
-| C. August Offer | 3. Linlithgow, 8 August 1940 |
-| D. ‘Do or Die’ | 4. Gandhi, Quit India, 8 August 1942 |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** CSP (सीएसपी) (1934) worked inside Congress; Nehru (नेहरू) never formally joined. Forward Bloc (1939) is Bose’s separate left-nationalist body.
@@ -577,3 +530,35 @@ D. Only 1
 **Logic:** UP tags across ministries → Ramgarh → Ballia.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Forward Bloc | 1. Socialists inside Congress, 1934 |
+| B. CSP | 2. Bose, 1939 |
+| C. August Offer | 3. Linlithgow, 8 August 1940 |
+| D. ‘Do or Die’ | 4. Gandhi, Quit India, 8 August 1942 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Forward Bloc ↔ Bose, 1939) B → 1 (CSP ↔ Socialists inside Congress, 1934) C → 3 (August Offer ↔ Linlithgow, 8 August 1940) D → 4 (‘Do or Die’ ↔ Gandhi, Quit India, 8 August 1942). Trap: treating table row order as the answer code.
+
+</details>
+

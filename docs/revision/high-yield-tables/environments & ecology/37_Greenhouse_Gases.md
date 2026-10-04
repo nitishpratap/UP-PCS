@@ -51,49 +51,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. CO₂ GWP | 1. ~28–36; lifetime ~12 yr |
-| B. CH₄ GWP | 2. 1 |
-| C. N₂O | 3. Very high GWP (~265); fertiliser link |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Tropospheric O₃ | 1. UV shield |
-| B. Stratospheric O₃ | 2. GHG + pollutant |
-| C. CO₂e | 3. Convert GHGs via GWP |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Methane hydrates | 1. Feedback amplifier |
-| B. Water vapour | 2. Arctic/seafloor CH₄ release risk |
-| C. Rice | 3. Emits CH₄ and links to N₂O fertiliser neighbourhood |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Kigali | 1. ODS + GHG |
-| B. CFCs | 2. HFC phase-down |
-| C. Propane | 3. Not a GHG in teaching list |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -420,3 +377,34 @@ D. Becomes only N₂
 **Logic:** Lifetime/two-decade idea.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. CO₂ GWP | 1. ~28–36; lifetime ~12 yr |
+| B. CH₄ GWP | 2. 1 |
+| C. N₂O | 3. Very high GWP (~265); fertiliser link |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (CO₂ GWP ↔ 1) B → 1 (CH₄ GWP ↔ ~28–36; lifetime ~12 yr) C → 3 (N₂O ↔ Very high GWP (~265); fertiliser link). Trap: treating table row order as the answer code.
+
+</details>
+

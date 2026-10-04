@@ -207,17 +207,6 @@ hide:
 ---
 
 
-### Match Matrix: Animal Product / Breed ↔ Source Organism / Origin
-
-| List-I (Animal Product / Breed) | List-II (Source Organism / Origin) |
-|---|---|
-| A. Pashmina | 1. *Pinctada vulgaris* (Mollusc) |
-| B. Muga Silk | 2. Changthangi Goat of Ladakh |
-| C. Pearl | 3. *Antheraea assamensis* of Assam |
-| D. Black Gold Buffalo | 4. Murrah breed of Haryana |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Porifera (sponges) exhibit cellular level of organisation, have thousands of minute incurrent pores (Ostia) and a single large excurrent opening (Osculum), and maintain a unique water canal system lined by flagellated Choanocytes / Collar cells.
@@ -394,3 +383,35 @@ D. Kaziranga National Park
 
 **Ans: C.** Greater Gir Landscape of Gujarat
 </details>
+
+**Q11.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Animal Product / Breed ↔ Source Organism / Origin**
+
+| List-I (Animal Product / Breed) | List-II (Source Organism / Origin) |
+|---|---|
+| A. Pashmina | 1. *Pinctada vulgaris* (Mollusc) |
+| B. Muga Silk | 2. Changthangi Goat of Ladakh |
+| C. Pearl | 3. *Antheraea assamensis* of Assam |
+| D. Black Gold Buffalo | 4. Murrah breed of Haryana |
+
+*Row order is not the answer code.*
+
+A. 1 3 2 4
+
+B. 3 1 2 4
+
+C. 1 2 3 4
+
+D. 1 3 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 3 2 4**.
+
+**Logic:** A → 1 (Pashmina ↔ *Pinctada vulgaris* (Mollusc)) B → 3 (Muga Silk ↔ *Antheraea assamensis* of Assam) C → 2 (Pearl ↔ Changthangi Goat of Ladakh) D → 4 (Black Gold Buffalo ↔ Murrah breed of Haryana). Trap: treating table row order as the answer code.
+
+</details>
+

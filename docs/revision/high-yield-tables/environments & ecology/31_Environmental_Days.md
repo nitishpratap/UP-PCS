@@ -43,49 +43,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. World Water Day | 1. 22 April |
-| B. Earth Day | 2. 22 March |
-| C. Biological Diversity Day | 3. 22 May |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Ozone Day | 1. CITES 1973 |
-| B. Wildlife Day | 2. Montreal 1987 |
-| C. Wetlands Day | 3. Ramsar 1971 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. World No Tobacco Day | 1. 2 October 2014 |
-| B. Swachh Bharat launch | 2. 31 May |
-| C. World Habitat Day | 3. First Monday of October |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. WED | 1. 22 April |
-| B. Earth Day | 2. 5 June |
-| C. Ozone Day | 3. 16 September |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -409,3 +366,94 @@ D. Montreal 1987 only
 **Logic:** Forests Day fact.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. World Water Day | 1. 22 April |
+| B. Earth Day | 2. 22 March |
+| C. Biological Diversity Day | 3. 22 May |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (World Water Day ↔ 22 March) B → 1 (Earth Day ↔ 22 April) C → 3 (Biological Diversity Day ↔ 22 May). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Ozone Day | 1. CITES 1973 |
+| B. Wildlife Day | 2. Montreal 1987 |
+| C. Wetlands Day | 3. Ramsar 1971 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (Ozone Day ↔ Montreal 1987) B → 1 (Wildlife Day ↔ CITES 1973) C → 3 (Wetlands Day ↔ Ramsar 1971). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. WED | 1. 22 April |
+| B. Earth Day | 2. 5 June |
+| C. Ozone Day | 3. 16 September |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 3 2 4
+
+C. 1 2 3
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **1 2 3**.
+
+**Logic:** A → 1 (WED ↔ 22 April) B → 2 (Earth Day ↔ 5 June) C → 3 (Ozone Day ↔ 16 September). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -302,17 +302,6 @@ hide:
 ---
 
 
-### Match Matrix: Crop Plant / Commercial Spice ↔ Morphological Edible Plant Part
-
-| List-I (Crop Plant / Commercial Spice) | List-II (Morphological Edible Plant Part) |
-|---|---|
-| A. Saffron (*Kesar*) | 1. Modified Underground Stem (Tuber) |
-| B. Potato | 2. Dried Stigma and Style |
-| C. Coconut | 3. Fleshy Thalamus (False Fruit) |
-| D. Apple | 4. Cellular and Nuclear Endosperm |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Plant Taxonomy Hierarchy: Categorized from higher to lower: Kingdom $\rightarrow$ Phylum (Division) $\rightarrow$ Class $\rightarrow$ Order $\rightarrow$ Family $\rightarrow$ Genus $\rightarrow$ Species. Species is the basic taxonomic unit consisting of individuals with fundamental morphological similarities capable of interbreeding.

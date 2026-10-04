@@ -64,38 +64,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Project Tiger | 1. 1992 |
-| B. Project Elephant | 2. 1973 |
-| C. Crocodile Project | 3. 1975 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. NBWL | 1. State implementing officer |
-| B. CWLW | 2. PM-chaired national advisory body |
-| C. IRV 2020 | 3. Rhino recovery plan including Dudhwa |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Schedule I | 1. Vermin teaching |
-| B. Schedule V | 2. Maximum protection |
-| C. Schedule VI | 3. Specified plants |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -440,3 +408,94 @@ D. 1, 2 and 3
 **Logic:** Schedule I max protection; Schedule VI licence regime.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Project Tiger | 1. 1992 |
+| B. Project Elephant | 2. 1973 |
+| C. Crocodile Project | 3. 1975 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (Project Tiger ↔ 1973) B → 1 (Project Elephant ↔ 1992) C → 3 (Crocodile Project ↔ 1975). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. NBWL | 1. State implementing officer |
+| B. CWLW | 2. PM-chaired national advisory body |
+| C. IRV 2020 | 3. Rhino recovery plan including Dudhwa |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3**.
+
+**Logic:** A → 1 (NBWL ↔ State implementing officer) B → 2 (CWLW ↔ PM-chaired national advisory body) C → 3 (IRV 2020 ↔ Rhino recovery plan including Dudhwa). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Schedule I | 1. Vermin teaching |
+| B. Schedule V | 2. Maximum protection |
+| C. Schedule VI | 3. Specified plants |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3**.
+
+**Logic:** A → 2 (Schedule I ↔ Maximum protection) B → 1 (Schedule V ↔ Vermin teaching) C → 3 (Schedule VI ↔ Specified plants). Trap: treating table row order as the answer code.
+
+</details>
+

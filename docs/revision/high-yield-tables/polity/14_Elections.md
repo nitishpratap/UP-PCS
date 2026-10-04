@@ -146,27 +146,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. FPTP | 1. President, VP, Rajya Sabha, Councils |
-| B. PR-STV | 2. Lok Sabha and Vidhan Sabha |
-| C. Open ballot (2003) | 3. Rajya Sabha party voting |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Article 329 | 1. SC/ST LS reservation |
-| B. Article 330 | 2. Bar on court interference; petition path |
-| C. Article 332 | 3. SC/ST Assembly reservation |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Article 324 gives the Election Commission superintendence over elections to Parliament, State legislatures, the President, and the Vice-President. It does not cover the Speaker’s election inside the House or Panchayat/ULB polls (those are SEC).

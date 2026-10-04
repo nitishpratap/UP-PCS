@@ -66,49 +66,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Dobson Unit | 1. 16 September |
-| B. World Ozone Day | 2. Column measure (~300 DU avg) |
-| C. Ozone hole season | 3. Antarctic spring Sep–Oct |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Stratospheric O₃ | 1. Pollutant / GHG |
-| B. Tropospheric O₃ | 2. UV shield |
-| C. India’s Ozone Cell | 3. MoEFCC HCFC/cooling compliance |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. ODP | 1. Heat-trapping |
-| B. GWP | 2. Ozone-damage potential |
-| C. NO₂ | 3. Helps regulate stratospheric ozone naturally |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Vienna | 1. 2016 |
-| B. Montreal signing | 2. 1985 |
-| C. Kigali | 3. 1987 |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -428,3 +385,34 @@ D. A-3, B-1, C-2
 **Logic:** Good/bad ozone + Ozone Cell.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Vienna | 1. 2016 |
+| B. Montreal signing | 2. 1985 |
+| C. Kigali | 3. 1987 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (Vienna ↔ 2016) B → 2 (Montreal signing ↔ 1985) C → 3 (Kigali ↔ 1987). Trap: treating table row order as the answer code.
+
+</details>
+

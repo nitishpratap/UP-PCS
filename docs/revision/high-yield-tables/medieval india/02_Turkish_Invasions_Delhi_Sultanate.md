@@ -268,65 +268,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Sultan Garhi | 1. Alauddin Khilji |
-| B. Red Palace | 2. Qutbuddin Aibak |
-| C. Jamat Khana Masjid | 3. Iltutmish |
-| D. Dhai Din Ka Jhopra | 4. Balban |
-
----
-
-
-### Match Matrix: Battle ↔ Year / Result Tag
-
-| List-I (Battle) | List-II (Year / result tag) |
-|-----------------|-----------------------------|
-| A. Mount Abu | 1. 1192; Ghori wins |
-| B. First Tarain | 2. 1178; Ghori’s first India defeat |
-| C. Second Tarain | 3. 1191; Prithviraj wins |
-| D. Chandawar | 4. 1194; Jay Chandra killed |
-
----
-
-
-### Match Matrix: Work ↔ Author / Tag
-
-| List-I (Work) | List-II (Author / tag) |
-|---------------|------------------------|
-| A. Kitab-ul-Yamini | 1. Firdausi |
-| B. Shahnama | 2. Utbi |
-| C. Kitab-ul-Hind | 3. Al-Biruni |
-| D. Rihla | 4. Ibn Battuta |
-
----
-
-
-### Match Matrix: Office / Term ↔ Meaning
-
-| List-I (Office / term) | List-II (Meaning) |
-|------------------------|-------------------|
-| A. Diwan-i-Tan | 1. Accounts |
-| B. Mushrif | 2. Salaries |
-| C. Mustarfi | 3. Audit |
-| D. Khams | 4. One-fifth of war booty |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Ghari / Charai | 1. Firoz irrigation tax |
-| B. Haqq-i-Sharb | 2. Alauddin house/grazing taxes |
-| C. Gulrukhi | 3. Sikandar Lodi pen-name |
-| D. Lakh Baksh | 4. Aibak generosity title |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Sind 712 Cause–Course–Result: Arab push for Indus ports → Qasim took Debal and killed Dahir → Multan–Sindh foothold only, no Gangetic empire.
@@ -761,3 +702,97 @@ D. 1 and 3
 - Contemporary chronicler Minhaj-us-Siraj remarked that Razia possessed all monarchical virtues, but "her gender was considered her fatal defect" by the Turkish grandees (*Chahalgani*).
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Sultan Garhi | 1. Alauddin Khilji |
+| B. Red Palace | 2. Qutbuddin Aibak |
+| C. Jamat Khana Masjid | 3. Iltutmish |
+| D. Dhai Din Ka Jhopra | 4. Balban |
+
+*Row order is not the answer code.*
+
+A. 3 4 1 2
+
+B. 4 3 1 2
+
+C. 3 1 4 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **3 4 1 2**.
+
+**Logic:** A → 3 (Sultan Garhi ↔ Iltutmish) B → 4 (Red Palace ↔ Balban) C → 1 (Jamat Khana Masjid ↔ Alauddin Khilji) D → 2 (Dhai Din Ka Jhopra ↔ Qutbuddin Aibak). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Battle ↔ Year / Result Tag**
+
+| List-I (Battle) | List-II (Year / result tag) |
+|---|---|
+| A. Mount Abu | 1. 1192; Ghori wins |
+| B. First Tarain | 2. 1178; Ghori’s first India defeat |
+| C. Second Tarain | 3. 1191; Prithviraj wins |
+| D. Chandawar | 4. 1194; Jay Chandra killed |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Mount Abu ↔ 1178; Ghori’s first India defeat) B → 3 (First Tarain ↔ 1191; Prithviraj wins) C → 1 (Second Tarain ↔ 1192; Ghori wins) D → 4 (Chandawar ↔ 1194; Jay Chandra killed). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Office / Term ↔ Meaning**
+
+| List-I (Office / term) | List-II (Meaning) |
+|---|---|
+| A. Diwan-i-Tan | 1. Accounts |
+| B. Mushrif | 2. Salaries |
+| C. Mustarfi | 3. Audit |
+| D. Khams | 4. One-fifth of war booty |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Diwan-i-Tan ↔ Salaries) B → 1 (Mushrif ↔ Accounts) C → 3 (Mustarfi ↔ Audit) D → 4 (Khams ↔ One-fifth of war booty). Trap: treating table row order as the answer code.
+
+</details>
+

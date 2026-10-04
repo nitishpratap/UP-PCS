@@ -80,49 +80,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Silent Spring | 1. Garrett Hardin 1968 |
-| B. Tragedy of the Commons | 2. Rachel Carson 1962 |
-| C. Limits to Growth | 3. Club of Rome 1972 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Literature | 1. 51A(g), Van Mahotsav, LiFE |
-| B. Education | 2. Carson, Hardin, Brundtland |
-| C. Awareness | 3. Tbilisi, ECO Clubs |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Tbilisi | 1. June 2022 launch |
-| B. LiFE | 2. 1977 EE conference |
-| C. GSDP | 3. 2017 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Our Common Future | 1. 1962 |
-| B. Silent Spring | 2. 1987 |
-| C. Tragedy of the Commons | 3. 1968 |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -446,3 +403,64 @@ D. Only ISFR publisher
 **Logic:** Awareness/duty fact.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Silent Spring | 1. Garrett Hardin 1968 |
+| B. Tragedy of the Commons | 2. Rachel Carson 1962 |
+| C. Limits to Growth | 3. Club of Rome 1972 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (Silent Spring ↔ Rachel Carson 1962) B → 1 (Tragedy of the Commons ↔ Garrett Hardin 1968) C → 3 (Limits to Growth ↔ Club of Rome 1972). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Our Common Future | 1. 1962 |
+| B. Silent Spring | 2. 1987 |
+| C. Tragedy of the Commons | 3. 1968 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (Our Common Future ↔ 1987) B → 1 (Silent Spring ↔ 1962) C → 3 (Tragedy of the Commons ↔ 1968). Trap: treating table row order as the answer code.
+
+</details>
+

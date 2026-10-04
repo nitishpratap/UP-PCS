@@ -94,29 +94,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. IRDAI | 1. Securities market |
-| B. SEBI | 2. Insurance |
-| C. PFRDA | 3. Competition law |
-| D. CCI | 4. NPS / pensions |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. ECOMARC | 1. Food safety regulator |
-| B. FSSAI | 2. Eco-friendly product mark |
-| C. IFSCA | 3. IFSC financial regulator |
-| D. AGMARK | 4. Agricultural produce grade mark |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Primary = agriculture, forestry, fishing, dairy, mining / quarrying; Secondary = manufacturing and related industrial processing; Tertiary = services.

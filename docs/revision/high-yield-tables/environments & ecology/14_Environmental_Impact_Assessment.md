@@ -86,38 +86,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Category A | 1. SEIAA / SEAC |
-| B. Category B | 2. MoEFCC / EAC |
-| C. B1 | 3. Full EIA (usually with public hearing) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. NGT | 1. MoEFCC online EC portal |
-| B. PARIVESH | 2. Act 2010; EC/pollution appeals |
-| C. SEA | 3. Policies/plans/programmes upstream |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Rapid EIA | 1. All seasons |
-| B. Comprehensive EIA | 2. One season |
-| C. ToR | 3. Fixed at scoping |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -449,3 +417,64 @@ D. 1, 2 and 3
 **Logic:** EAC recommends — MoEFCC grants.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Category A | 1. SEIAA / SEAC |
+| B. Category B | 2. MoEFCC / EAC |
+| C. B1 | 3. Full EIA (usually with public hearing) |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (Category A ↔ SEIAA / SEAC) B → 2 (Category B ↔ MoEFCC / EAC) C → 3 (B1 ↔ Full EIA (usually with public hearing)). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. NGT | 1. MoEFCC online EC portal |
+| B. PARIVESH | 2. Act 2010; EC/pollution appeals |
+| C. SEA | 3. Policies/plans/programmes upstream |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3**.
+
+**Logic:** A → 1 (NGT ↔ MoEFCC online EC portal) B → 2 (PARIVESH ↔ Act 2010; EC/pollution appeals) C → 3 (SEA ↔ Policies/plans/programmes upstream). Trap: treating table row order as the answer code.
+
+</details>
+

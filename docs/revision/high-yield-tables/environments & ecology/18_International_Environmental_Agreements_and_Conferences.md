@@ -101,41 +101,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Montreal/Vienna | 1. Wetlands |
-| B. Kyoto/Paris/UNFCCC | 2. Ozone |
-| C. Ramsar | 3. Climate |
-| D. CITES | 4. Wildlife trade |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Basel | 1. Mercury |
-| B. Rotterdam | 2. Hazardous waste |
-| C. Stockholm POPs | 3. PIC chemicals |
-| D. Minamata | 4. POPs |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Kyoto | 1. 2015 |
-| B. Paris | 2. 1997 |
-| C. Montreal | 3. 1987 |
-
----
-
-
 ### Comparative Matrix: Cop Session ↔ Location
 
 | COP session | Location |
@@ -475,3 +440,96 @@ D. Nagoya 1987 → Montreal 2010
 **Logic:** Biodiversity law family.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Montreal/Vienna | 1. Wetlands |
+| B. Kyoto/Paris/UNFCCC | 2. Ozone |
+| C. Ramsar | 3. Climate |
+| D. CITES | 4. Wildlife trade |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Montreal/Vienna ↔ Ozone) B → 3 (Kyoto/Paris/UNFCCC ↔ Climate) C → 1 (Ramsar ↔ Wetlands) D → 4 (CITES ↔ Wildlife trade). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Basel | 1. Mercury |
+| B. Rotterdam | 2. Hazardous waste |
+| C. Stockholm POPs | 3. PIC chemicals |
+| D. Minamata | 4. POPs |
+
+*Row order is not the answer code.*
+
+A. 3 2 4 1
+
+B. 2 3 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Basel ↔ Hazardous waste) B → 3 (Rotterdam ↔ PIC chemicals) C → 4 (Stockholm POPs ↔ POPs) D → 1 (Minamata ↔ Mercury). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Kyoto | 1. 2015 |
+| B. Paris | 2. 1997 |
+| C. Montreal | 3. 1987 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3**.
+
+**Logic:** A → 2 (Kyoto ↔ 1997) B → 1 (Paris ↔ 2015) C → 3 (Montreal ↔ 1987). Trap: treating table row order as the answer code.
+
+</details>
+

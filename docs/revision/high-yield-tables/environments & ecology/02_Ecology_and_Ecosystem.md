@@ -166,38 +166,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Liebig | 1. 10% energy transfer |
-| B. Shelford | 2. Limiting factor / scarcest resource |
-| C. Lindeman | 3. Tolerance range |
-
----
-
-
-### Match Matrix: Cline ↔ Details
-
-| List-I (Cline) | List-II |
-|----------------|--------|
-| A. Pycnocline | 1. Temperature-with-depth gradient |
-| B. Halocline | 2. Density gradient |
-| C. Thermocline | 3. Salinity gradient |
-
----
-
-
-### Match Matrix: Rivers ↔ Tributaries & Confluences
-
-| List-I | List-II |
-|--------|--------|
-| A. Artificial ecosystem | 1. Ganga river |
-| B. Lotic ecosystem | 2. Aquarium / rice field |
-| C. Lentic ecosystem | 3. Pond / lake |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |

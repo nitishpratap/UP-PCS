@@ -372,17 +372,6 @@ hide:
 ---
 
 
-### Match Matrix: Iron Ore Mine ↔ State
-
-| List-I (Iron Ore Mine) | List-II (State) |
-|---|---|
-| A. Gurumahisani | 1. Jharkhand |
-| B. Bailadila | 2. Karnataka |
-| C. Noamundi | 3. Odisha |
-| D. Kudremukh | 4. Chhattisgarh |
-
----
-
 ### Two geological ages
 
 | Age | Share / quality | Where found |
@@ -457,18 +446,6 @@ hide:
 ---
 
 
-### Match Matrix: Coal Fields ↔ Located
-
-| List-I (Coal Fields) | List-II (Located) |
-|---|---|
-| A. Talcher | 1. Damodar Valley |
-| B. Karanpura | 2. Son Valley |
-| C. Singrauli | 3. Godavari Valley |
-| D. Singareni | 4. Mahanadi Valley |
-
----
-
-
 ### Comparative Matrix: Fuel ↔ Main Composition ↔ Teaching Line
 
 | Fuel | Main composition | Teaching line |
@@ -521,17 +498,6 @@ hide:
 ---
 
 
-### Match Matrix: Refinery ↔ State
-
-| List-I (Refinery) | List-II (State) |
-|---|---|
-| A. Nayara | 1. Assam |
-| B. Manali | 2. Gujarat |
-| C. Numaligarh | 3. Andhra Pradesh |
-| D. Tatipaka | 4. Tamil Nadu |
-
----
-
 ## N.5 Power: thermal, hydro, nuclear, renewables
 
 | Type | Sources | Teaching line |
@@ -570,18 +536,6 @@ hide:
 | **Rawatbhata / RAPP (रावतभाटा)** | Rajasthan (राजस्थान) | Near Kota, Rana Pratap Sagar / राणा प्रताप सागर |
 | **Kalpakkam / MAPS (कल्पक्कम)** | Tamil Nadu (तमिलनाडु) | Madras Atomic Power Station / फास्ट ब्रीडर रिएक्टर |
 | **Narora (नरोरा)** | Uttar Pradesh (उत्तर प्रदेश) | Bulandshahr / बुलंदशहर (गंगा नदी तट, UP का एकमात्र संयंत्र) |
-
----
-
-
-### Match Matrix: Nuclear Power Plant ↔ State
-
-| List-I (Nuclear Power Plant) | List-II (State) |
-|---|---|
-| A. Kudankulam | 1. Karnataka |
-| B. Kakrapar | 2. Tamil Nadu |
-| C. Kaiga | 3. Rajasthan |
-| D. Rawatbhata | 4. Gujarat |
 
 ---
 
@@ -671,209 +625,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Coal Fields ↔ Located
-
-| List-I (Coal Fields) | List-II (Located) |
-|---|---|
-| A. Talcher | 1. Damodar Valley |
-| B. Karanpura | 2. Son Valley |
-| C. Singrauli | 3. Godavari Valley |
-| D. Singareni | 4. Mahanadi Valley |
-
----
-
-
-### Match Matrix: Mineral Exploration Agencies ↔ Headquarters
-
-| List-I (Mineral Exploration Agencies) | List-II (Headquarters) |
-|---|---|
-| A. Oil and Natural Gas Commission | 1. Bhubaneswar |
-| B. Mineral Exploration Corporation Ltd. | 2. Hyderabad |
-| C. National Mineral Development Corporation | 3. Nagpur |
-| D. National Aluminium Company Limited | 4. New Delhi |
-
----
-
-
-### Match Matrix: Centre ↔ Industry
-
-| List-I (Centre) | List-II (Industry) |
-|---|---|
-| A. Osaka | 1. Cigar |
-| B. Detroit | 2. Ship building |
-| C. Cuba | 3. Cotton textile |
-| D. St. Petersburg | 4. Automobile |
-
----
-
-
-### Match Matrix: Revolution ↔ Related With
-
-| List-I (Revolution) | List-II (Related with) |
-|---|---|
-| A. Golden Revolution | 1. Oilseed production |
-| B. Grey Revolution | 2. Horticulture and honey |
-| C. Yellow Revolution | 3. Petroleum production |
-| D. Black Revolution | 4. Fertilizers |
-
----
-
-
-### Match Matrix: Coal Field ↔ Country
-
-| List-I (Coal Field) | List-II (Country) |
-|---|---|
-| A. Appalachian | 1. England |
-| B. Lancashire | 2. Germany |
-| C. Ruhr | 3. Russia |
-| D. Kuzbass | 4. USA |
-
----
-
-
-### Match Matrix: Refinery ↔ State
-
-| List-I (Refinery) | List-II (State) |
-|---|---|
-| A. Nayara | 1. Assam |
-| B. Manali | 2. Gujarat |
-| C. Numaligarh | 3. Andhra Pradesh |
-| D. Tatipaka | 4. Tamil Nadu |
-
----
-
-
-### Match Matrix: Nuclear Power Plant ↔ State
-
-| List-I (Nuclear Power Plant) | List-II (State) |
-|---|---|
-| A. Kudankulam | 1. Karnataka |
-| B. Kakrapar | 2. Tamil Nadu |
-| C. Kaiga | 3. Rajasthan |
-| D. Rawatbhata | 4. Gujarat |
-
----
-
-
-### Match Matrix: Iron Ore Mine ↔ State
-
-| List-I (Iron Ore Mine) | List-II (State) |
-|---|---|
-| A. Gurumahisani | 1. Jharkhand |
-| B. Bailadila | 2. Karnataka |
-| C. Noamundi | 3. Odisha |
-| D. Kudremukh | 4. Chhattisgarh |
-
----
-
-
-### Match Matrix: Rock System ↔ Main Minerals
-
-| List-I (Rock system) | List-II (Main minerals) |
-|---|---|
-| A. Dharwar | 1. Limestone for cement |
-| B. Gondwana | 2. Metallic storehouse |
-| C. Vindhyan | 3. Bulk of Indian coal |
-| D. Tertiary | 4. North-East younger coal |
-
----
-
-
-### Match Matrix: Mine / Area ↔ State
-
-| List-I (Mine / area) | List-II (State) |
-|---|---|
-| A. Bailadila | 1. Odisha |
-| B. Kendujhar | 2. Madhya Pradesh |
-| C. Balaghat | 3. Chhattisgarh |
-| D. Kudremukh | 4. Karnataka |
-
----
-
-
-### Match Matrix: Copper Area ↔ State
-
-| List-I (Copper area) | List-II (State) |
-|---|---|
-| A. Khetri | 1. Telangana |
-| B. Khammam | 2. Rajasthan |
-| C. Mosabani | 3. Jharkhand |
-| D. Malanjkhand | 4. Madhya Pradesh |
-
----
-
-
-### Match Matrix: Valley ↔ Coalfield
-
-| List-I (Valley) | List-II (Coalfield) |
-|---|---|
-| A. Damodar | 1. Talcher |
-| B. Son | 2. Barakar |
-| C. Godavari | 3. Umaria |
-| D. Mahanadi | 4. Singareni |
-
----
-
-
-### Match Matrix: Coalfield / Lignite Centre ↔ State
-
-| List-I (Coalfield / lignite centre) | List-II (State) |
-|---|---|
-| A. Karanpura | 1. Telangana |
-| B. Singareni | 2. Tamil Nadu |
-| C. Neyveli | 3. Jharkhand |
-| D. Korba | 4. Chhattisgarh |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Gurumahisani | 1. Karnataka |
-| B. Bailadila | 2. Odisha |
-| C. Noamundi | 3. Chhattisgarh |
-| D. Kudremukh | 4. Jharkhand |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Tarapur | 1. Uttar Pradesh |
-| B. Kakrapar | 2. Maharashtra |
-| C. Kudankulam | 3. Gujarat |
-| D. Narora | 4. Tamil Nadu |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Mathura | 1. Assam |
-| B. Numaligarh | 2. Uttar Pradesh |
-| C. Manali | 3. Tamil Nadu |
-| D. Barauni | 4. Bihar |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. ONGC | 1. Hyderabad |
-| B. MECL | 2. Delhi |
-| C. NMDC | 3. Nagpur |
-| D. NALCO | 4. Bhubaneswar |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -1186,3 +937,500 @@ D. 1 and 3
 **Logic:** Nuclear plants span multiple states including inland Narora and Rawatbhata.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Iron Ore Mine ↔ State**
+
+| List-I (Iron Ore Mine) | List-II (State) |
+|---|---|
+| A. Gurumahisani | 1. Jharkhand |
+| B. Bailadila | 2. Karnataka |
+| C. Noamundi | 3. Odisha |
+| D. Kudremukh | 4. Chhattisgarh |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Gurumahisani ↔ Karnataka) B → 3 (Bailadila ↔ Odisha) C → 1 (Noamundi ↔ Jharkhand) D → 4 (Kudremukh ↔ Chhattisgarh). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Coal Fields ↔ Located**
+
+| List-I (Coal Fields) | List-II (Located) |
+|---|---|
+| A. Talcher | 1. Damodar Valley |
+| B. Karanpura | 2. Son Valley |
+| C. Singrauli | 3. Godavari Valley |
+| D. Singareni | 4. Mahanadi Valley |
+
+*Row order is not the answer code.*
+
+A. 1 4 2 3
+
+B. 4 1 2 3
+
+C. 4 2 1 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Talcher ↔ Mahanadi Valley) B → 1 (Karanpura ↔ Damodar Valley) C → 2 (Singrauli ↔ Son Valley) D → 3 (Singareni ↔ Godavari Valley). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Refinery ↔ State**
+
+| List-I (Refinery) | List-II (State) |
+|---|---|
+| A. Nayara | 1. Assam |
+| B. Manali | 2. Gujarat |
+| C. Numaligarh | 3. Andhra Pradesh |
+| D. Tatipaka | 4. Tamil Nadu |
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+
+B. 2 1 4 3
+
+C. 2 4 1 3
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 4 1 3**.
+
+**Logic:** A → 2 (Nayara ↔ Gujarat) B → 4 (Manali ↔ Tamil Nadu) C → 1 (Numaligarh ↔ Assam) D → 3 (Tatipaka ↔ Andhra Pradesh). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Nuclear Power Plant ↔ State**
+
+| List-I (Nuclear Power Plant) | List-II (State) |
+|---|---|
+| A. Kudankulam | 1. Karnataka |
+| B. Kakrapar | 2. Tamil Nadu |
+| C. Kaiga | 3. Rajasthan |
+| D. Rawatbhata | 4. Gujarat |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Kudankulam ↔ Tamil Nadu) B → 1 (Kakrapar ↔ Karnataka) C → 4 (Kaiga ↔ Gujarat) D → 3 (Rawatbhata ↔ Rajasthan). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Coal Fields ↔ Located**
+
+| List-I (Coal Fields) | List-II (Located) |
+|---|---|
+| A. Talcher | 1. Damodar Valley |
+| B. Karanpura | 2. Son Valley |
+| C. Singrauli | 3. Godavari Valley |
+| D. Singareni | 4. Mahanadi Valley |
+
+*Row order is not the answer code.*
+
+A. 4 1 2 3
+
+B. 1 4 2 3
+
+C. 4 2 1 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Talcher ↔ Mahanadi Valley) B → 1 (Karanpura ↔ Damodar Valley) C → 2 (Singrauli ↔ Son Valley) D → 3 (Singareni ↔ Godavari Valley). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q21.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Coal Field ↔ Country**
+
+| List-I (Coal Field) | List-II (Country) |
+|---|---|
+| A. Appalachian | 1. England |
+| B. Lancashire | 2. Germany |
+| C. Ruhr | 3. Russia |
+| D. Kuzbass | 4. USA |
+
+*Row order is not the answer code.*
+
+A. 1 4 2 3
+
+B. 4 1 2 3
+
+C. 4 2 1 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Appalachian ↔ USA) B → 1 (Lancashire ↔ England) C → 2 (Ruhr ↔ Germany) D → 3 (Kuzbass ↔ Russia). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q22.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Refinery ↔ State**
+
+| List-I (Refinery) | List-II (State) |
+|---|---|
+| A. Nayara | 1. Assam |
+| B. Manali | 2. Gujarat |
+| C. Numaligarh | 3. Andhra Pradesh |
+| D. Tatipaka | 4. Tamil Nadu |
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+
+B. 2 1 4 3
+
+C. 2 4 1 3
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 4 1 3**.
+
+**Logic:** A → 2 (Nayara ↔ Gujarat) B → 4 (Manali ↔ Tamil Nadu) C → 1 (Numaligarh ↔ Assam) D → 3 (Tatipaka ↔ Andhra Pradesh). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q23.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Nuclear Power Plant ↔ State**
+
+| List-I (Nuclear Power Plant) | List-II (State) |
+|---|---|
+| A. Kudankulam | 1. Karnataka |
+| B. Kakrapar | 2. Tamil Nadu |
+| C. Kaiga | 3. Rajasthan |
+| D. Rawatbhata | 4. Gujarat |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Kudankulam ↔ Tamil Nadu) B → 1 (Kakrapar ↔ Karnataka) C → 4 (Kaiga ↔ Gujarat) D → 3 (Rawatbhata ↔ Rajasthan). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q24.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Iron Ore Mine ↔ State**
+
+| List-I (Iron Ore Mine) | List-II (State) |
+|---|---|
+| A. Gurumahisani | 1. Jharkhand |
+| B. Bailadila | 2. Karnataka |
+| C. Noamundi | 3. Odisha |
+| D. Kudremukh | 4. Chhattisgarh |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Gurumahisani ↔ Karnataka) B → 3 (Bailadila ↔ Odisha) C → 1 (Noamundi ↔ Jharkhand) D → 4 (Kudremukh ↔ Chhattisgarh). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q25.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Rock System ↔ Main Minerals**
+
+| List-I (Rock system) | List-II (Main minerals) |
+|---|---|
+| A. Dharwar | 1. Limestone for cement |
+| B. Gondwana | 2. Metallic storehouse |
+| C. Vindhyan | 3. Bulk of Indian coal |
+| D. Tertiary | 4. North-East younger coal |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Dharwar ↔ Metallic storehouse) B → 3 (Gondwana ↔ Bulk of Indian coal) C → 1 (Vindhyan ↔ Limestone for cement) D → 4 (Tertiary ↔ North-East younger coal). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q26.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Copper Area ↔ State**
+
+| List-I (Copper area) | List-II (State) |
+|---|---|
+| A. Khetri | 1. Telangana |
+| B. Khammam | 2. Rajasthan |
+| C. Mosabani | 3. Jharkhand |
+| D. Malanjkhand | 4. Madhya Pradesh |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Khetri ↔ Rajasthan) B → 1 (Khammam ↔ Telangana) C → 3 (Mosabani ↔ Jharkhand) D → 4 (Malanjkhand ↔ Madhya Pradesh). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q27.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Coalfield / Lignite Centre ↔ State**
+
+| List-I (Coalfield / lignite centre) | List-II (State) |
+|---|---|
+| A. Karanpura | 1. Telangana |
+| B. Singareni | 2. Tamil Nadu |
+| C. Neyveli | 3. Jharkhand |
+| D. Korba | 4. Chhattisgarh |
+
+*Row order is not the answer code.*
+
+A. 3 1 2 4
+
+B. 1 2 3 4
+
+C. 1 3 4 2
+
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **1 3 2 4**.
+
+**Logic:** A → 1 (Karanpura ↔ Telangana) B → 3 (Singareni ↔ Jharkhand) C → 2 (Neyveli ↔ Tamil Nadu) D → 4 (Korba ↔ Chhattisgarh). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q28.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Gurumahisani | 1. Karnataka |
+| B. Bailadila | 2. Odisha |
+| C. Noamundi | 3. Chhattisgarh |
+| D. Kudremukh | 4. Jharkhand |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 1 4 3
+
+C. 1 4 2 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 4 3**.
+
+**Logic:** A → 1 (Gurumahisani ↔ Karnataka) B → 2 (Bailadila ↔ Odisha) C → 4 (Noamundi ↔ Jharkhand) D → 3 (Kudremukh ↔ Chhattisgarh). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q29.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Tarapur | 1. Uttar Pradesh |
+| B. Kakrapar | 2. Maharashtra |
+| C. Kudankulam | 3. Gujarat |
+| D. Narora | 4. Tamil Nadu |
+
+*Row order is not the answer code.*
+
+A. 3 2 4 1
+
+B. 2 3 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Tarapur ↔ Maharashtra) B → 3 (Kakrapar ↔ Gujarat) C → 4 (Kudankulam ↔ Tamil Nadu) D → 1 (Narora ↔ Uttar Pradesh). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q30.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Mathura | 1. Assam |
+| B. Numaligarh | 2. Uttar Pradesh |
+| C. Manali | 3. Tamil Nadu |
+| D. Barauni | 4. Bihar |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Mathura ↔ Uttar Pradesh) B → 1 (Numaligarh ↔ Assam) C → 3 (Manali ↔ Tamil Nadu) D → 4 (Barauni ↔ Bihar). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q31.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. ONGC | 1. Hyderabad |
+| B. MECL | 2. Delhi |
+| C. NMDC | 3. Nagpur |
+| D. NALCO | 4. Bhubaneswar |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 4 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (ONGC ↔ Delhi) B → 3 (MECL ↔ Nagpur) C → 1 (NMDC ↔ Hyderabad) D → 4 (NALCO ↔ Bhubaneswar). Trap: treating table row order as the answer code.
+
+</details>
+

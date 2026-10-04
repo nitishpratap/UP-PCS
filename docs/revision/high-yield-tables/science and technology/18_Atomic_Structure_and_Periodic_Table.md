@@ -186,29 +186,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Law of Octaves | 1. Ernest Rutherford |
-| B. Modern Periodic Law | 2. John Newlands |
-| C. Discovery of Atomic Nucleus | 3. Henry Moseley |
-| D. Uncertainty Principle | 4. Werner Heisenberg |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Alkali Metal | 1. Silicon |
-| B. Halogen | 2. Sodium |
-| C. Metalloid | 3. Chlorine |
-| D. Noble Gas | 4. Argon |
-
----
-
 ## Common Traps
 
 | Concept | Trap / Confusion Point | Examiner's Angle | Correct Fact |

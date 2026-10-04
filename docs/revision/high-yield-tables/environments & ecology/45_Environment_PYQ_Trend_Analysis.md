@@ -322,49 +322,6 @@ hide:
 ---
 
 
-### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
-
-| List-I | List-II |
-|--------|--------|
-| A. 2018–20 avg tagged | 1. ~17.7 |
-| B. 2023–25 avg tagged | 2. ~12 |
-| C. 2023 peak | 3. 25 questions |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Emissions Gap | 1. 2070 |
-| B. India net zero | 2. UNEP |
-| C. DPAP | 3. 1973 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. LiFE false date | 1. 2019 |
-| B. MISHTI false date | 2. COP25 Madrid |
-| C. GEF year | 3. 1991 |
-
----
-
-
-### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
-
-| List-I | List-II |
-|--------|--------|
-| A. 2025 tagged | 1. 25 |
-| B. 2023 peak | 2. 19 |
-| C. Outdated plan | 3. Only 8–10 |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** 2023 was the peak tagged year (25 questions). 2025 stayed strong at 19.
@@ -672,3 +629,64 @@ D. Skip SDGs entirely
 **Logic:** Closes the Environment Practice rewrite logic.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Emissions Gap | 1. 2070 |
+| B. India net zero | 2. UNEP |
+| C. DPAP | 3. 1973 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (Emissions Gap ↔ UNEP) B → 1 (India net zero ↔ 2070) C → 3 (DPAP ↔ 1973). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. LiFE false date | 1. 2019 |
+| B. MISHTI false date | 2. COP25 Madrid |
+| C. GEF year | 3. 1991 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (LiFE false date ↔ COP25 Madrid) B → 1 (MISHTI false date ↔ 2019) C → 3 (GEF year ↔ 1991). Trap: treating table row order as the answer code.
+
+</details>
+

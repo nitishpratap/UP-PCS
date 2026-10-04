@@ -79,41 +79,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Cottage industry | 1. Household / artisan production |
-| B. Navratna | 2. PSU autonomy tier |
-| C. IIP | 3. Industrial production volume |
-| D. SEZ | 4. Special export-oriented zone teaching |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Micro MSME | 1. ≤ ₹50 cr investment / ≤ ₹250 cr turnover |
-| B. Small MSME | 2. ≤ ₹1 cr / ≤ ₹5 cr |
-| C. Medium MSME | 3. ≤ ₹10 cr / ≤ ₹50 cr |
-| D. Karve Committee | 4. 1955 SSI / village industries |
-
----
-
-
-### Match Matrix: Transport Infrastructure ↔ Regions
-
-| List-I | List-II |
-|---|---|
-| A. Bharatmala | 1. Port-led development teaching |
-| B. Sagarmala | 2. Highway / road programme teaching |
-| C. NIP | 3. Infrastructure project pipeline |
-| D. Maharatna | 4. Highest CPSE autonomy tier teaching |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Industrialisation raises manufacturing’s share of output and employment and deepens capital goods capacity.

@@ -199,29 +199,6 @@ hide:
 ---
 
 
-### Match Matrix: Factor Type ↔ Concerned With
-
-| List-I (Factor type) | List-II (Concerned with) |
-|----------------------|--------------------------|
-| A. Edaphic | 1. Slope and altitude |
-| B. Climatic | 2. Soil |
-| C. Topographic | 3. Weather elements |
-
----
-
-
-### Match Matrix: Event / Law ↔ Year
-
-| List-I (Event / law) | List-II (Year) |
-|----------------------|----------------|
-| A. Chipko movement (Reni) | 1. 1986 |
-| B. Environment (Protection) Act | 2. 1973 |
-| C. Joint Forest Management guidelines | 3. 2006 |
-| D. Forest Rights Act | 4. 1990 |
-
----
-
-
 ### Comparative Matrix: Day ↔ Date
 
 | Day | Date |
@@ -233,16 +210,6 @@ hide:
 
 ---
 
-
-### Match Matrix: River ↔ City Association Often Tested
-
-| List-I (River) | List-II (City association often tested) |
-|----------------|-----------------------------------------|
-| A. Ganga | 1. Agra |
-| B. Yamuna | 2. Lucknow |
-| C. Gomti | 3. Varanasi / Kanpur |
-
----
 
 ## Common Traps — Don't Fall For These
 
@@ -547,3 +514,34 @@ D. Only 1
 **Ans: B** — Appiko = **Karnataka** (1983). Chipko = Uttarakhand.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Factor Type ↔ Concerned With**
+
+| List-I (Factor type) | List-II (Concerned with) |
+|---|---|
+| A. Edaphic | 1. Slope and altitude |
+| B. Climatic | 2. Soil |
+| C. Topographic | 3. Weather elements |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (Edaphic ↔ Slope and altitude) B → 2 (Climatic ↔ Soil) C → 3 (Topographic ↔ Weather elements). Trap: treating table row order as the answer code.
+
+</details>
+

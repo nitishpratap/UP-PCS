@@ -141,49 +141,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Grey hydrogen | 1. RE electrolysis |
-| B. Blue hydrogen | 2. Natural gas reform |
-| C. Green hydrogen | 3. Grey + CCS |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. LiFE idea | 1. June 2022 |
-| B. LiFE launch | 2. COP26 2021 |
-| C. Green H₂ mission | 3. Jan 2023; ~5 MMT by 2030 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Carbon footprint | 1. gha |
-| B. Ecological footprint | 2. tCO₂e |
-| C. NbS examples | 3. Mangroves, wetlands, urban forests |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. SUP ban push | 1. SDG 14 |
-| B. Blue economy | 2. 2022 |
-| C. Circular economy | 3. SDG 12 neighbourhood |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -510,3 +467,94 @@ D. Both only mean argon
 **Logic:** Offset reliance difference.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Grey hydrogen | 1. RE electrolysis |
+| B. Blue hydrogen | 2. Natural gas reform |
+| C. Green hydrogen | 3. Grey + CCS |
+
+*Row order is not the answer code.*
+
+A. 2 3 1
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1**.
+
+**Logic:** A → 2 (Grey hydrogen ↔ Natural gas reform) B → 3 (Blue hydrogen ↔ Grey + CCS) C → 1 (Green hydrogen ↔ RE electrolysis). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. LiFE idea | 1. June 2022 |
+| B. LiFE launch | 2. COP26 2021 |
+| C. Green H₂ mission | 3. Jan 2023; ~5 MMT by 2030 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (LiFE idea ↔ COP26 2021) B → 1 (LiFE launch ↔ June 2022) C → 3 (Green H₂ mission ↔ Jan 2023; ~5 MMT by 2030). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Carbon footprint | 1. gha |
+| B. Ecological footprint | 2. tCO₂e |
+| C. NbS examples | 3. Mangroves, wetlands, urban forests |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3**.
+
+**Logic:** A → 2 (Carbon footprint ↔ tCO₂e) B → 1 (Ecological footprint ↔ gha) C → 3 (NbS examples ↔ Mangroves, wetlands, urban forests). Trap: treating table row order as the answer code.
+
+</details>
+

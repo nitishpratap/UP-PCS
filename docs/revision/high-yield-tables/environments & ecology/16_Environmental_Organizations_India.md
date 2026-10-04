@@ -100,38 +100,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. WII | 1. Nagpur |
-| B. FSI | 2. Dehradun |
-| C. NEERI | 3. Dehradun |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. PARIVESH | 1. CSIR lab Nagpur |
-| B. NEERI | 2. MoEFCC online EC portal |
-| C. NBA | 3. Chennai (BDA) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. UPPCB | 1. 1974 creation path |
-| B. CPCB | 2. Lucknow |
-| C. NGT Act | 3. 2010 |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -459,3 +427,34 @@ D. 1, 2 and 3
 **Logic:** Consent ≠ EC; not UNEP.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. WII | 1. Nagpur |
+| B. FSI | 2. Dehradun |
+| C. NEERI | 3. Dehradun |
+
+*Row order is not the answer code.*
+
+A. 2 3 1
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1**.
+
+**Logic:** A → 2 (WII ↔ Dehradun) B → 3 (FSI ↔ Dehradun) C → 1 (NEERI ↔ Nagpur). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -89,30 +89,6 @@ hide:
 ---
 
 
-### Match Matrix: Term ↔ Role / Meaning
-
-| List-I (Term) | List-II (Role / Meaning) |
-|---------------|--------------------------|
-| A. Shiqdar | 1. Accounts at pargana |
-| B. Munshif | 2. Law and order at pargana |
-| C. Amil / Desai | 3. Land revenue collection |
-| D. Patta | 4. State title deed to peasant |
-
----
-
-
-### Match Matrix: Ruler/Dynasty ↔ Monument
-
-| List-I (Ruler/Dynasty) | List-II (Monument) |
-|------------------------|--------------------|
-| A. Ibrahim Shah Sharqi | 1. Atala Mosque, Jaunpur |
-| B. Sher Shah Suri | 2. Sasaram Tomb & Purana Qila |
-| C. Bega Begum / Akbar | 3. Humayun’s Tomb, Delhi |
-| D. Prince Azam Shah | 4. Bibi ka Maqbara, Aurangabad |
-
----
-
-
 ### Comparative Matrix: Item ↔ Tag
 
 | Item | Tag |
@@ -546,3 +522,35 @@ D. Only 2 and 3
 - *Kalinjar Fort Location:* **Kalinjar** is located in Banda district, Bundelkhand, Uttar Pradesh. It was the site of Sher Shah's untimely death in **May 1545 CE**.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Term ↔ Role / Meaning**
+
+| List-I (Term) | List-II (Role / Meaning) |
+|---|---|
+| A. Shiqdar | 1. Accounts at pargana |
+| B. Munshif | 2. Law and order at pargana |
+| C. Amil / Desai | 3. Land revenue collection |
+| D. Patta | 4. State title deed to peasant |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Shiqdar ↔ Law and order at pargana) B → 1 (Munshif ↔ Accounts at pargana) C → 3 (Amil / Desai ↔ Land revenue collection) D → 4 (Patta ↔ State title deed to peasant). Trap: treating table row order as the answer code.
+
+</details>
+

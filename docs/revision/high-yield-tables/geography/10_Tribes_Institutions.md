@@ -239,66 +239,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Jews | 1. Egypt |
-| B. Teda | 2. Iran |
-| C. Beja | 3. Libya |
-| D. Lur | 4. Israel |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Eskimo | 1. Botswana |
-| B. Maasai | 2. Saudi Arabia |
-| C. Bedouins | 3. Canada |
-| D. Bushman | 4. Kenya |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Khirghiz | 1. Japan |
-| B. Bushman | 2. Arab |
-| C. Ainu | 3. Central Asia |
-| D. Bedouin | 4. Kalahari |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Kayak | 1. Boat for transport |
-| B. Inuit | 2. Dog pulled vehicle |
-| C. Umiak | 3. Narrow hunting Boat |
-| D. Sledge | 4. Snow house |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Bushman | 1. Congo |
-| B. Bedouins | 2. Namibia |
-| C. Pigmies | 3. Saudi Arabia |
-| D. Maasai | 4. Kenya |
-
----
-
-
 ### Major Scheduled Tribes & Regional Distribution
 
 | Tribe | State / region |
@@ -309,41 +249,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Up Group ↔ Region / Note
-
-| List-I (UP group) | List-II (Region / note) |
-|---|---|
-| A. Tharu | 1. Terai |
-| B. Buksa | 2. Bijnor fringe |
-| C. Saharya | 3. Lalitpur |
-| D. Agariya | 4. Iron smelting (Sonbhadra–Mirzapur belt) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. CISH | 1. Lucknow |
-| B. CSAUAT | 2. Kanpur |
-| C. IARI | 3. Pusa, New Delhi |
-| D. ICAR HQ | 4. New Delhi (1929 teaching) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Lepcha | 1. Sikkim |
-| B. Bodo | 2. Assam |
-| C. Warli | 3. Maharashtra |
-| D. Apatani | 4. Arunachal Pradesh |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -676,3 +581,190 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Lab vs co-op board is the confused pair.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Jews | 1. Egypt |
+| B. Teda | 2. Iran |
+| C. Beja | 3. Libya |
+| D. Lur | 4. Israel |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Jews ↔ Egypt) B → 2 (Teda ↔ Iran) C → 3 (Beja ↔ Libya) D → 4 (Lur ↔ Israel). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Eskimo | 1. Botswana |
+| B. Maasai | 2. Saudi Arabia |
+| C. Bedouins | 3. Canada |
+| D. Bushman | 4. Kenya |
+
+*Row order is not the answer code.*
+
+A. 4 3 2 1
+
+B. 3 4 2 1
+
+C. 3 2 4 1
+
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 4 2 1**.
+
+**Logic:** A → 3 (Eskimo ↔ Canada) B → 4 (Maasai ↔ Kenya) C → 2 (Bedouins ↔ Saudi Arabia) D → 1 (Bushman ↔ Botswana). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Khirghiz | 1. Japan |
+| B. Bushman | 2. Arab |
+| C. Ainu | 3. Central Asia |
+| D. Bedouin | 4. Kalahari |
+
+*Row order is not the answer code.*
+
+A. 4 3 1 2
+
+B. 3 1 4 2
+
+C. 3 4 1 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **3 4 1 2**.
+
+**Logic:** A → 3 (Khirghiz ↔ Central Asia) B → 4 (Bushman ↔ Kalahari) C → 1 (Ainu ↔ Japan) D → 2 (Bedouin ↔ Arab). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Bushman | 1. Congo |
+| B. Bedouins | 2. Namibia |
+| C. Pigmies | 3. Saudi Arabia |
+| D. Maasai | 4. Kenya |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 3 2 4
+
+C. 1 2 4 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Bushman ↔ Congo) B → 2 (Bedouins ↔ Namibia) C → 3 (Pigmies ↔ Saudi Arabia) D → 4 (Maasai ↔ Kenya). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Up Group ↔ Region / Note**
+
+| List-I (UP group) | List-II (Region / note) |
+|---|---|
+| A. Tharu | 1. Terai |
+| B. Buksa | 2. Bijnor fringe |
+| C. Saharya | 3. Lalitpur |
+| D. Agariya | 4. Iron smelting (Sonbhadra–Mirzapur belt) |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Tharu ↔ Terai) B → 2 (Buksa ↔ Bijnor fringe) C → 3 (Saharya ↔ Lalitpur) D → 4 (Agariya ↔ Iron smelting (Sonbhadra–Mirzapur belt)). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q21.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. CISH | 1. Lucknow |
+| B. CSAUAT | 2. Kanpur |
+| C. IARI | 3. Pusa, New Delhi |
+| D. ICAR HQ | 4. New Delhi (1929 teaching) |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (CISH ↔ Lucknow) B → 2 (CSAUAT ↔ Kanpur) C → 3 (IARI ↔ Pusa, New Delhi) D → 4 (ICAR HQ ↔ New Delhi (1929 teaching)). Trap: treating table row order as the answer code.
+
+</details>
+

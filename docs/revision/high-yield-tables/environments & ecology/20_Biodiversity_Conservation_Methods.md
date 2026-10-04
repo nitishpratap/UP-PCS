@@ -120,38 +120,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Gene bank | 1. Seeds only |
-| B. Seed bank | 2. Broad genetic material |
-| C. Cryopreservation | 3. ~−196°C liquid nitrogen |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. In-situ | 1. Captive breeding centre |
-| B. Ex-situ | 2. Wildlife Sanctuary |
-| C. Cryobank | 3. Liquid nitrogen storage |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Howrah Botanic Garden | 1. 1976/78 line Delhi plants |
-| B. NBPGR | 2. 1787 |
-| C. NBAGR | 3. 1984 Karnal |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -482,3 +450,34 @@ D. Only match-list codes without habitats
 **Logic:** Strategy hierarchy.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Gene bank | 1. Seeds only |
+| B. Seed bank | 2. Broad genetic material |
+| C. Cryopreservation | 3. ~−196°C liquid nitrogen |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (Gene bank ↔ Seeds only) B → 2 (Seed bank ↔ Broad genetic material) C → 3 (Cryopreservation ↔ ~−196°C liquid nitrogen). Trap: treating table row order as the answer code.
+
+</details>
+

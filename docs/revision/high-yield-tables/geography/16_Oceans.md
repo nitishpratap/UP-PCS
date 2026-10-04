@@ -294,18 +294,6 @@ hide:
 ---
 
 
-### Match Matrix: Ocean ↔ Deepest Point
-
-| List-I (Ocean) | List-II (Deepest point) |
-|----------------|-------------------------|
-| A. Pacific | 1. Sunda Trench |
-| B. Arctic | 2. Puerto Rico Trench |
-| C. Indian | 3. Mariana Trench |
-| D. Atlantic | 4. Molloy Deep |
-
----
-
-
 ### Ocean Currents: Characteristics & Climatic Effects
 
 | Current | Type |
@@ -533,78 +521,6 @@ hide:
 ---
 
 
-### Match Matrix: Ocean Currents ↔ Nature & Basins
-
-| List-I | List-II |
-|--------|---------|
-| A. Gulf Stream | 1. Pacific Ocean |
-| B. West Wind Drift | 2. A slow eastward movement of water over the zone of westerly wind |
-| C. Peru Current | 3. Indian Ocean |
-| D. West Australian Current | 4. Warm current |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Aleutian | 1. Indian Ocean |
-| B. Kermadec | 2. North Pacific |
-| C. Sunda | 3. South Pacific |
-| D. S. Sandwich | 4. South Atlantic Ocean |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Pacific Ocean | 1. Java Trench |
-| B. Atlantic Ocean | 2. Eurasian Basin |
-| C. Indian Ocean | 3. Mariana Trench |
-| D. Arctic Ocean | 4. Puerto Rico Trench |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Pacific | 1. Sunda Trench |
-| B. Arctic | 2. Puerto Rico Trench |
-| C. Indian | 3. Mariana Trench |
-| D. Atlantic | 4. Molloy deep |
-
----
-
-
-### Comparative Matrix: Strait ↔ Between
-
-| Strait | Between |
-|--------|---------|
-| A. Gibraltar | iii. Africa and Europe |
-| B. Malacca | i. Indonesia and Malaysia |
-| C. Bering | iv. Asia and North America |
-| D. Hormuz | ii. Gulf of Persia and Gulf of Oman |
-
----
-
-
-### Match Matrix: Lakes & Waterfalls ↔ Geographic Locations
-
-| List-I | List-II |
-|--------|---------|
-| A. Kiel | 1. Mediterranean sea & Red sea |
-| B. Soo | 2. Elbe estuary & Baltic sea |
-| C. Panama | 3. Atlantic ocean & Pacific ocean |
-| D. Suez | 4. Lake superior & lake Huron |
-
----
-
-
 ### Comparative Matrix: Feature ↔ Fact
 
 | Feature | Fact |
@@ -615,53 +531,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Current ↔ Details
-
-| List-I (Current) | List-II |
-|---|---|
-| A. Benguela | 1. Atlantic cold (SW Africa) |
-| B. Humboldt / Peru | 2. Pacific cold |
-| C. Agulhas | 3. Warm; Indian Ocean link |
-| D. Kuroshio | 4. Warm Japan current |
-
----
-
-
-### Match Matrix: Global Landforms ↔ Locations
-
-| List-I | List-II |
-|---|---|
-| A. Suez Canal opening | 1. 1869 |
-| B. Panama Canal opening | 2. 1914 |
-| C. Kiel Canal | 3. North Sea ↔ Baltic |
-| D. Telegraphic Plateau | 4. Part of North Atlantic Ridge |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Grand Banks | 1. Labrador meets Gulf Stream |
-| B. NAD | 2. Blanket of Europe / warm |
-| C. Datum line | 3. Mean sea-level reference |
-| D. Red Sea form | 4. Axial trough |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Türkiye N | 1. Black Sea |
-| B. Türkiye S | 2. Mediterranean |
-| C. Türkiye W | 3. Aegean |
-| D. Türkiye NW | 4. Marmara |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -999,3 +868,35 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Do not treat it like Black Sea coastal geography.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Current ↔ Details**
+
+| List-I (Current) | List-II |
+|---|---|
+| A. Benguela | 1. Atlantic cold (SW Africa) |
+| B. Humboldt / Peru | 2. Pacific cold |
+| C. Agulhas | 3. Warm; Indian Ocean link |
+| D. Kuroshio | 4. Warm Japan current |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Benguela ↔ Pacific cold) B → 1 (Humboldt / Peru ↔ Atlantic cold (SW Africa)) C → 4 (Agulhas ↔ Warm Japan current) D → 3 (Kuroshio ↔ Warm; Indian Ocean link). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -212,17 +212,6 @@ hide:
 ---
 
 
-### Match Matrix: Port ↔ State
-
-| List-I (Port) | List-II (State) |
-|---|---|
-| A. Paradip | 1. Tamil Nadu |
-| B. Tuticorin | 2. Kerala |
-| C. Kakinada | 3. Odisha |
-| D. Alappuzha | 4. Andhra Pradesh |
-
----
-
 ### Major Named Airports in India (Match Desk)
 
 | Airport Name | City / Location | State / UT |
@@ -342,18 +331,6 @@ hide:
 ---
 
 
-### Match Matrix: National Highway ↔ City / Node
-
-| List-I (National Highway) | List-II (City / node) |
-|---|---|
-| A. NH-30 | 1. Jabalpur |
-| B. NH-39 | 2. Khajuraho |
-| C. NH-46 | 3. Bhopal |
-| D. NH-44 | 4. Sagar |
-
----
-
-
 ### Comparative Matrix: Shipyard ↔ State
 
 | Shipyard | State |
@@ -362,101 +339,6 @@ hide:
 | Hindustan Shipyard | Andhra Pradesh |
 | Mazgaon Dock | Maharashtra |
 | Cochin Shipyard | Kerala |
-
----
-
-
-### Match Matrix: Port ↔ State
-
-| List-I (Port) | List-II (State) |
-|---|---|
-| A. Paradip | 1. Tamil Nadu |
-| B. Tuticorin | 2. Kerala |
-| C. Kakinada | 3. Odisha |
-| D. Alappuzha | 4. Andhra Pradesh |
-
----
-
-
-### Match Matrix: Hill Station / Resort ↔ State / Ut
-
-| List-I (Hill station / resort) | List-II (State / UT) |
-|---|---|
-| A. Chakrata | 1. Assam |
-| B. Haflong | 2. Himachal Pradesh |
-| C. Kalimpong | 3. Uttarakhand |
-| D. Kufri | 4. West Bengal |
-
----
-
-
-### Match Matrix: Place ↔ State / Ut
-
-| List-I (Place) | List-II (State / UT) |
-|---|---|
-| A. Gulmarg | 1. Gujarat |
-| B. Kasauli | 2. Himachal Pradesh |
-| C. Udvada | 3. Jammu & Kashmir |
-| D. Point Calimere | 4. Tamil Nadu |
-
----
-
-
-### Match Matrix: Hill Station ↔ State
-
-| List-I (Hill station) | List-II (State) |
-|---|---|
-| A. Keylong | 1. Karnataka |
-| B. Auli | 2. Himachal Pradesh |
-| C. Chikmagalur | 3. Tamil Nadu |
-| D. Ooty | 4. Uttarakhand |
-
----
-
-
-### Match Matrix: Landscape / Meadow / Resort ↔ State / Ut
-
-| List-I (Landscape / meadow / resort) | List-II (State / UT) |
-|---|---|
-| A. Banni grassland | 1. Himachal Pradesh |
-| B. Bugyal | 2. Gujarat |
-| C. Khajjiar | 3. Uttarakhand |
-| D. Pahalgam | 4. Jammu & Kashmir |
-
----
-
-
-### Match Matrix: Place ↔ Known For
-
-| List-I (Place) | List-II (Known for) |
-|---|---|
-| A. Alibag | 1. Major container port (JNPT) |
-| B. Nhava Sheva | 2. Coastal holiday resort belt |
-| C. Ratnagiri | 3. Konkan fishing and Alphonso mango coast |
-
----
-
-
-### Match Matrix: Stadium ↔ City
-
-| List-I (Stadium) | List-II (City) |
-|---|---|
-| A. Aishbagh Stadium | 1. Mumbai |
-| B. Brabourne Stadium | 2. Kanpur |
-| C. Green Park Stadium | 3. Bhopal |
-| D. Eden Gardens | 4. Kolkata |
-
----
-
-
-### Match Matrix: Pilgrimage Centre ↔ State
-
-| List-I (Pilgrimage centre) | List-II (State) |
-|---|---|
-| A. Rameswaram | 1. Gujarat |
-| B. Dwarka | 2. Uttar Pradesh |
-| C. Sarnath | 3. Tamil Nadu |
-| D. Mahakaleshwar (Ujjain) | 4. Madhya Pradesh |
 
 ---
 
@@ -507,41 +389,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Corridor / Tunnel ↔ Fact
-
-| List-I (Corridor / tunnel) | List-II (Fact) |
-|---|---|
-| A. Golden Quadrilateral | 1. Under Rohtang (Pir Panjal) |
-| B. North–South corridor | 2. Delhi–Mumbai–Chennai–Kolkata |
-| C. East–West corridor | 3. Srinagar–Kanyakumari |
-| D. Atal Tunnel | 4. Porbandar–Silchar |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. IWAI | 1. 1986 |
-| B. Major ports (teaching count) | 2. 12 + many non-major |
-| C. National Waterways Act notification | 3. 111 National Waterways |
-| D. NHAI set-up year | 4. 1995 |
-
----
-
-
-### Match Matrix: Port / Place ↔ Details
-
-| List-I (Port / place) | List-II |
-|---|---|
-| A. Paradip | 1. Odisha |
-| B. Tuticorin | 2. Tamil Nadu |
-| C. Kakinada | 3. Andhra Pradesh |
-| D. Alappuzha | 4. Kerala |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -882,3 +729,314 @@ D. A-1, B-2, C-4, D-3
 **Logic:** Do not invent a different major-port count for the teaching spine.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Port ↔ State**
+
+| List-I (Port) | List-II (State) |
+|---|---|
+| A. Paradip | 1. Tamil Nadu |
+| B. Tuticorin | 2. Kerala |
+| C. Kakinada | 3. Odisha |
+| D. Alappuzha | 4. Andhra Pradesh |
+
+*Row order is not the answer code.*
+
+A. 3 1 4 2
+
+B. 1 3 4 2
+
+C. 3 4 1 2
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **3 1 4 2**.
+
+**Logic:** A → 3 (Paradip ↔ Odisha) B → 1 (Tuticorin ↔ Tamil Nadu) C → 4 (Kakinada ↔ Andhra Pradesh) D → 2 (Alappuzha ↔ Kerala). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Port ↔ State**
+
+| List-I (Port) | List-II (State) |
+|---|---|
+| A. Paradip | 1. Tamil Nadu |
+| B. Tuticorin | 2. Kerala |
+| C. Kakinada | 3. Odisha |
+| D. Alappuzha | 4. Andhra Pradesh |
+
+*Row order is not the answer code.*
+
+A. 1 3 4 2
+
+B. 3 1 4 2
+
+C. 3 4 1 2
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 1 4 2**.
+
+**Logic:** A → 3 (Paradip ↔ Odisha) B → 1 (Tuticorin ↔ Tamil Nadu) C → 4 (Kakinada ↔ Andhra Pradesh) D → 2 (Alappuzha ↔ Kerala). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Hill Station / Resort ↔ State / Ut**
+
+| List-I (Hill station / resort) | List-II (State / UT) |
+|---|---|
+| A. Chakrata | 1. Assam |
+| B. Haflong | 2. Himachal Pradesh |
+| C. Kalimpong | 3. Uttarakhand |
+| D. Kufri | 4. West Bengal |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Chakrata ↔ Himachal Pradesh) B → 1 (Haflong ↔ Assam) C → 4 (Kalimpong ↔ West Bengal) D → 3 (Kufri ↔ Uttarakhand). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Place ↔ State / Ut**
+
+| List-I (Place) | List-II (State / UT) |
+|---|---|
+| A. Gulmarg | 1. Gujarat |
+| B. Kasauli | 2. Himachal Pradesh |
+| C. Udvada | 3. Jammu & Kashmir |
+| D. Point Calimere | 4. Tamil Nadu |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 4 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Gulmarg ↔ Himachal Pradesh) B → 3 (Kasauli ↔ Jammu & Kashmir) C → 1 (Udvada ↔ Gujarat) D → 4 (Point Calimere ↔ Tamil Nadu). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Hill Station ↔ State**
+
+| List-I (Hill station) | List-II (State) |
+|---|---|
+| A. Keylong | 1. Karnataka |
+| B. Auli | 2. Himachal Pradesh |
+| C. Chikmagalur | 3. Tamil Nadu |
+| D. Ooty | 4. Uttarakhand |
+
+*Row order is not the answer code.*
+
+A. 2 4 1 3
+
+B. 4 2 1 3
+
+C. 2 1 4 3
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 4 1 3**.
+
+**Logic:** A → 2 (Keylong ↔ Himachal Pradesh) B → 4 (Auli ↔ Uttarakhand) C → 1 (Chikmagalur ↔ Karnataka) D → 3 (Ooty ↔ Tamil Nadu). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q21.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Landscape / Meadow / Resort ↔ State / Ut**
+
+| List-I (Landscape / meadow / resort) | List-II (State / UT) |
+|---|---|
+| A. Banni grassland | 1. Himachal Pradesh |
+| B. Bugyal | 2. Gujarat |
+| C. Khajjiar | 3. Uttarakhand |
+| D. Pahalgam | 4. Jammu & Kashmir |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Banni grassland ↔ Gujarat) B → 3 (Bugyal ↔ Uttarakhand) C → 1 (Khajjiar ↔ Himachal Pradesh) D → 4 (Pahalgam ↔ Jammu & Kashmir). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q22.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Stadium ↔ City**
+
+| List-I (Stadium) | List-II (City) |
+|---|---|
+| A. Aishbagh Stadium | 1. Mumbai |
+| B. Brabourne Stadium | 2. Kanpur |
+| C. Green Park Stadium | 3. Bhopal |
+| D. Eden Gardens | 4. Kolkata |
+
+*Row order is not the answer code.*
+
+A. 1 3 2 4
+
+B. 3 2 1 4
+
+C. 3 1 2 4
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **3 1 2 4**.
+
+**Logic:** A → 3 (Aishbagh Stadium ↔ Bhopal) B → 1 (Brabourne Stadium ↔ Mumbai) C → 2 (Green Park Stadium ↔ Kanpur) D → 4 (Eden Gardens ↔ Kolkata). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q23.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Pilgrimage Centre ↔ State**
+
+| List-I (Pilgrimage centre) | List-II (State) |
+|---|---|
+| A. Rameswaram | 1. Gujarat |
+| B. Dwarka | 2. Uttar Pradesh |
+| C. Sarnath | 3. Tamil Nadu |
+| D. Mahakaleshwar (Ujjain) | 4. Madhya Pradesh |
+
+*Row order is not the answer code.*
+
+A. 1 3 2 4
+
+B. 3 2 1 4
+
+C. 3 1 4 2
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **3 1 2 4**.
+
+**Logic:** A → 3 (Rameswaram ↔ Tamil Nadu) B → 1 (Dwarka ↔ Gujarat) C → 2 (Sarnath ↔ Uttar Pradesh) D → 4 (Mahakaleshwar (Ujjain) ↔ Madhya Pradesh). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q24.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Corridor / Tunnel ↔ Fact**
+
+| List-I (Corridor / tunnel) | List-II (Fact) |
+|---|---|
+| A. Golden Quadrilateral | 1. Under Rohtang (Pir Panjal) |
+| B. North–South corridor | 2. Delhi–Mumbai–Chennai–Kolkata |
+| C. East–West corridor | 3. Srinagar–Kanyakumari |
+| D. Atal Tunnel | 4. Porbandar–Silchar |
+
+*Row order is not the answer code.*
+
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Golden Quadrilateral ↔ Delhi–Mumbai–Chennai–Kolkata) B → 3 (North–South corridor ↔ Srinagar–Kanyakumari) C → 4 (East–West corridor ↔ Porbandar–Silchar) D → 1 (Atal Tunnel ↔ Under Rohtang (Pir Panjal)). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q25.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Port / Place ↔ Details**
+
+| List-I (Port / place) | List-II |
+|---|---|
+| A. Paradip | 1. Odisha |
+| B. Tuticorin | 2. Tamil Nadu |
+| C. Kakinada | 3. Andhra Pradesh |
+| D. Alappuzha | 4. Kerala |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Paradip ↔ Odisha) B → 2 (Tuticorin ↔ Tamil Nadu) C → 3 (Kakinada ↔ Andhra Pradesh) D → 4 (Alappuzha ↔ Kerala). Trap: treating table row order as the answer code.
+
+</details>
+

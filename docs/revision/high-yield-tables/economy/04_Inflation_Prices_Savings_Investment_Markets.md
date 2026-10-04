@@ -63,53 +63,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. CPI | 1. MoC&I / OEA |
-| B. WPI | 2. MoSPI / NSO |
-| C. SEBI | 3. Securities market |
-| D. GDP deflator | 4. Nominal/Real GDP ratio × 100 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. T-bills | 1. Capital market equity |
-| B. Shares | 2. Money market classic |
-| C. Mutual fund NAV | 3. Portfolio value per unit |
-| D. Bond fixed coupon | 4. Hurt in real terms by inflation |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Demand-pull | 1. Input cost surge |
-| B. Cost-push | 2. Excess demand |
-| C. Bottleneck | 3. Supply / distribution constraints |
-| D. Core inflation | 4. Ex-food & fuel |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Money market | 1. New securities issue |
-| B. Capital market | 2. Short-term funds |
-| C. Primary market | 3. Longer-term equity / debt |
-| D. Secondary market | 4. Trading existing securities |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Inflation is a sustained rise in the general price level, which cuts the purchasing power of money.
@@ -431,3 +384,66 @@ D. Only 1
 
 **Ans: B.** S and I are macro flows; repo is a Topic 3 policy rate.
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. CPI | 1. MoC&I / OEA |
+| B. WPI | 2. MoSPI / NSO |
+| C. SEBI | 3. Securities market |
+| D. GDP deflator | 4. Nominal/Real GDP ratio × 100 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (CPI ↔ MoSPI / NSO) B → 1 (WPI ↔ MoC&I / OEA) C → 3 (SEBI ↔ Securities market) D → 4 (GDP deflator ↔ Nominal/Real GDP ratio × 100). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Demand-pull | 1. Input cost surge |
+| B. Cost-push | 2. Excess demand |
+| C. Bottleneck | 3. Supply / distribution constraints |
+| D. Core inflation | 4. Ex-food & fuel |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Demand-pull ↔ Input cost surge) B → 2 (Cost-push ↔ Excess demand) C → 3 (Bottleneck ↔ Supply / distribution constraints) D → 4 (Core inflation ↔ Ex-food & fuel). Trap: treating table row order as the answer code.
+
+</details>
+

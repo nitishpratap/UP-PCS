@@ -76,65 +76,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. 1969 | 1. NABARD |
-| B. 1975 | 2. First major bank nationalisation |
-| C. 1982 | 3. RRBs |
-| D. 1998 | 4. Kisan Credit Card |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. SBI origin story | 1. 2014 inclusion mission |
-| B. PMJDY | 2. Imperial Bank → SBI |
-| C. Basel norms | 3. Capital adequacy standards |
-| D. FEMA lane | 4. RBI forex management tag |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Repo | 1. Cash with RBI |
-| B. Reverse repo / SDF | 2. RBI lends to banks |
-| C. CRR | 3. RBI absorbs liquidity |
-| D. OMO | 4. Buy / sell G-Secs |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. RBI established | 1. 1949 |
-| B. RBI nationalised | 2. 1935 |
-| C. First bank nationalisation wave | 3. 1969 |
-| D. Second bank nationalisation wave | 4. 1980 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Narasimham Committee | 1. Next-gen financial sector reforms (Planning Commission lane) |
-| B. Raghuram Rajan Committee (2008) | 2. Banking / financial structure reforms; CRR–SLR reduction push |
-| C. Bhandari Committee | 3. RRB restructuring |
-| D. R.V. Gupta Committee | 4. Kisan Credit Card design line |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Money is anything generally accepted as a medium of exchange, a unit of account, a store of value and a standard of deferred payment.
@@ -407,3 +348,35 @@ D. Foreign Exchange Rate Stability
 **Ans: C.** Equitable distribution of income and assets is not an objective of monetary policy.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. RBI established | 1. 1949 |
+| B. RBI nationalised | 2. 1935 |
+| C. First bank nationalisation wave | 3. 1969 |
+| D. Second bank nationalisation wave | 4. 1980 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (RBI established ↔ 1949) B → 2 (RBI nationalised ↔ 1935) C → 3 (First bank nationalisation wave ↔ 1969) D → 4 (Second bank nationalisation wave ↔ 1980). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -73,62 +73,6 @@ hide:
 ---
 
 
-### Match Matrix: Tropical Cyclones ↔ Country/Region
-
-| List-I (Tropical cyclones) | List-II (Country/region) |
-| --- | --- |
-| A. Baguios | 1. Australia |
-| B. Hurricanes | 2. China |
-| C. Typhoons | 3. Philippines |
-| D. Willy-Willies | 4. United States of America |
-
----
-
-
-### Match Matrix: Cyclone Name ↔ Country
-
-| List-I (Cyclone name) | List-II (Country) |
-| --- | --- |
-| A. Willy-Willies | 1. Philippines |
-| B. Taifu | 2. Australia |
-| C. Baguio | 3. Japan |
-| D. Hurricanes | 4. U.S.A. |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. NDMA | 1. Response force |
-| B. NDRF | 2. DM Act 2005; PM chairs |
-| C. Sendai | 3. DRR framework |
-
----
-
-
-### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
-
-| List-I | List-II |
-|--------|--------|
-| A. Forest fire season | 1. UK pine-needle scheme |
-| B. Chir pine needles | 2. Roughly Mar–Jun peak |
-| C. Piral Lao–Paise Pao | 3. Himalayan fuel fact |
-
----
-
-
-### Match Matrix: Rivers ↔ Tributaries & Confluences
-
-| List-I | List-II |
-|--------|--------|
-| A. Meteorological drought | 1. Rivers/wells |
-| B. Agricultural drought | 2. Low rain |
-| C. Hydrological drought | 3. Soil moisture |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -454,3 +398,34 @@ D. 1, 2 and 3
 **Logic:** Not Thar-only.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Mountain Peaks ↔ Mountain Ranges / States**
+
+| List-I | List-II |
+|---|---|
+| A. Forest fire season | 1. UK pine-needle scheme |
+| B. Chir pine needles | 2. Roughly Mar–Jun peak |
+| C. Piral Lao–Paise Pao | 3. Himalayan fuel fact |
+
+*Row order is not the answer code.*
+
+A. 2 3 1
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1**.
+
+**Logic:** A → 2 (Forest fire season ↔ Roughly Mar–Jun peak) B → 3 (Chir pine needles ↔ Himalayan fuel fact) C → 1 (Piral Lao–Paise Pao ↔ UK pine-needle scheme). Trap: treating table row order as the answer code.
+
+</details>
+

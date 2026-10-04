@@ -483,53 +483,6 @@ hide:
 ---
 
 
-### Match Matrix: Shifting Name ↔ Region
-
-| List-I (Shifting name) | List-II (Region) |
-|-------------------------|------------------|
-| A. Jhum | 1. Mexico |
-| B. Ladang | 2. NE India |
-| C. Milpa | 3. Malaysia |
-| D. Roca | 4. Brazil |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. IRRI | 1. Rome |
-| B. FAO HQ | 2. Philippines |
-| C. Von Thünen | 3. Thirteen world agricultural types |
-| D. Whittlesey | 4. Market-distance rings |
-
----
-
-
-### Match Matrix: Crop / Tag ↔ Association
-
-| List-I (Crop / tag) | List-II (Association) |
-|----------------------|------------------------|
-| A. Podu | 1. Myanmar |
-| B. Chena | 2. Andhra / Odisha |
-| C. Taungya | 3. Sri Lanka |
-| D. Shahtoosh | 4. Chiru |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Arabica | 1. Vietnam bulk |
-| B. Robusta | 2. Brazil/Colombia highland teaching |
-| C. Black tea | 3. Not fermented |
-| D. Green tea | 4. Fermented |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Oil palm majors are Indonesia and Malaysia. World sugarcane leader is Brazil; sugar beet belongs to temperate Europe.
@@ -875,3 +828,128 @@ D. 2 and 3 only
 **Logic:** Oil palm majors are Indonesia and Malaysia; Spain/Greece are olive majors.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Shifting Name ↔ Region**
+
+| List-I (Shifting name) | List-II (Region) |
+|---|---|
+| A. Jhum | 1. Mexico |
+| B. Ladang | 2. NE India |
+| C. Milpa | 3. Malaysia |
+| D. Roca | 4. Brazil |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Jhum ↔ NE India) B → 3 (Ladang ↔ Malaysia) C → 1 (Milpa ↔ Mexico) D → 4 (Roca ↔ Brazil). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. IRRI | 1. Rome |
+| B. FAO HQ | 2. Philippines |
+| C. Von Thünen | 3. Thirteen world agricultural types |
+| D. Whittlesey | 4. Market-distance rings |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (IRRI ↔ Philippines) B → 1 (FAO HQ ↔ Rome) C → 3 (Von Thünen ↔ Thirteen world agricultural types) D → 4 (Whittlesey ↔ Market-distance rings). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Crop / Tag ↔ Association**
+
+| List-I (Crop / tag) | List-II (Association) |
+|---|---|
+| A. Podu | 1. Myanmar |
+| B. Chena | 2. Andhra / Odisha |
+| C. Taungya | 3. Sri Lanka |
+| D. Shahtoosh | 4. Chiru |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Podu ↔ Andhra / Odisha) B → 3 (Chena ↔ Sri Lanka) C → 1 (Taungya ↔ Myanmar) D → 4 (Shahtoosh ↔ Chiru). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Arabica | 1. Vietnam bulk |
+| B. Robusta | 2. Brazil/Colombia highland teaching |
+| C. Black tea | 3. Not fermented |
+| D. Green tea | 4. Fermented |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Arabica ↔ Brazil/Colombia highland teaching) B → 1 (Robusta ↔ Vietnam bulk) C → 4 (Black tea ↔ Fermented) D → 3 (Green tea ↔ Not fermented). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -135,65 +135,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Junagadh | 1. Operation Polo / Police Action, Sep 1948 |
-| B. Hyderabad | 2. Plebiscite, 1948 |
-| C. Goa, Daman and Diu | 3. Operation Vijay, Dec 1961 |
-| D. Pondicherry group | 4. Kizhoor referendum route; de facto 1954; de jure 1962 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Dhar Commission 1948 | 1. Language accepted with limits |
-| B. SRC 1953 | 2. Resisted language as main basis |
-| C. Planning Commission | 3. Extra-constitutional; March 1950 |
-| D. Finance Commission | 4. Article 280 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Part A | 1. Princely unions |
-| B. Part B | 2. Governor’s provinces |
-| C. Part C | 3. Chief Commissioner’s provinces |
-| D. Part D | 4. Andaman and Nicobar |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. 1st Plan | 1. Mahalanobis; steel plants |
-| B. 2nd Plan | 2. Agriculture, irrigation, CDP |
-| C. 5th Plan | 3. Garibi Hatao association |
-| D. 12th Plan | 4. Last FYP; sustainable growth fact |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Etawah | 1. S.K. Dey refugee township |
-| B. Nilokheri | 2. Albert Mayer UP pilot |
-| C. CDP | 3. Nationwide, 2 Oct 1952 |
-| D. NES | 4. Wider extension, 1953 |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Junagadh — Cause/Course/Result: Nawab’s Pakistan accession vs Hindu-majority state → Indian blockade and local revolt → plebiscite 1948 joins India.
@@ -567,3 +508,35 @@ D. 1st Plan — agriculture, irrigation, CDP stress
 **Logic:** PC vs FC trap.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Junagadh | 1. Operation Polo / Police Action, Sep 1948 |
+| B. Hyderabad | 2. Plebiscite, 1948 |
+| C. Goa, Daman and Diu | 3. Operation Vijay, Dec 1961 |
+| D. Pondicherry group | 4. Kizhoor referendum route; de facto 1954; de jure 1962 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Junagadh ↔ Operation Polo / Police Action, Sep 1948) B → 2 (Hyderabad ↔ Plebiscite, 1948) C → 3 (Goa, Daman and Diu ↔ Operation Vijay, Dec 1961) D → 4 (Pondicherry group ↔ Kizhoor referendum route; de facto 1954; de jure 1962). Trap: treating table row order as the answer code.
+
+</details>
+

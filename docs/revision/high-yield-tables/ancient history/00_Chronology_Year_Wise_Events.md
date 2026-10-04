@@ -172,17 +172,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Fa-Hien | 1. Harsha |
-| B. Megasthenes | 2. Chandragupta II |
-| C. Xuanzang | 3. Chandragupta Maurya |
-| D. Banabhatta | 4. Harshacharita |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Alexander 326–325 BCE (Hydaspes vs Porus; mutiny at Beas) → Chandragupta Maurya c. 321 BCE.

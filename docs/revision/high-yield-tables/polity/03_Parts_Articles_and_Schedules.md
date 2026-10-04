@@ -672,18 +672,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Abolition of Titles | 1. DPSP |
-| B. Organisation of village panchayats | 2. Union and its Territories |
-| C. Education opportunity for child 6–14 | 3. Fundamental Rights |
-| D. India, that is Bharat, is the Union of States | 4. Fundamental Duties |
-
----
-
-
 ### Comparative Matrix: Code ↔ Item
 
 | Code | Item |

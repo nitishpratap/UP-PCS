@@ -216,18 +216,6 @@ hide:
 ---
 
 
-### Match Matrix: Country ↔ Capital
-
-| List-I (Country) | List-II (Capital) |
-|------------------|-------------------|
-| A. Uzbekistan | 1. Tashkent |
-| B. Tajikistan | 2. Dushanbe |
-| C. Kyrgyzstan | 3. Bishkek |
-| D. Turkmenistan | 4. Ashgabat |
-
----
-
-
 ### Comparative Matrix: Sobriquet ↔ Place
 
 | Sobriquet | Place |
@@ -353,18 +341,6 @@ hide:
 ---
 
 
-### Match Matrix: World Islands ↔ Owner Country
-
-| List-I (World Islands) | List-II (Owner Country) |
-|------------------------|-------------------------|
-| A. Aleutian Islands | 1. Russia |
-| B. Bear Islands | 2. Denmark |
-| C. Greenland | 3. Norway |
-| D. Franz Josef Island | 4. U.S.A. |
-
----
-
-
 ### Comparative Matrix: Regions Sometimes Mentioned In News ↔ Country
 
 | Regions sometimes mentioned in news | Country |
@@ -373,18 +349,6 @@ hide:
 | 2. Crimea | Hungary |
 | 3. Mindanao | Philippines |
 | 4. Oromia | Nigeria |
-
----
-
-
-### Match Matrix: Old Name ↔ New Name
-
-| List-I (Old Name) | List-II (New Name) |
-|-------------------|--------------------|
-| A. Siam | 1. Taiwan |
-| B. Formosa | 2. Myanmar |
-| C. Mesopotamia | 3. Thailand |
-| D. Burma | 4. Iraq |
 
 ---
 
@@ -401,30 +365,6 @@ hide:
 ---
 
 
-### Match Matrix: Capital City ↔ Country
-
-| List-I (Capital City) | List-II (Country) |
-|-----------------------|-------------------|
-| A. Kampala | 1. Rwanda |
-| B. Kigali | 2. Uganda |
-| C. Kinshasa | 3. Sudan |
-| D. Khartoum | 4. Democratic Republic of the Congo |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. New South Wales | 1. Brisbane |
-| B. Queensland | 2. Sydney |
-| C. Victoria | 3. Perth |
-| D. Western Australia | 4. Melbourne |
-
----
-
-
 ### Comparative Matrix: Towns Sometimes Mentioned In News ↔ Country
 
 | Towns sometimes mentioned in news | Country |
@@ -436,125 +376,6 @@ hide:
 
 ---
 
-
-### Master Comparison Table
-
-| A | B |
-|---|---|
-| A. Niagara Falls | 1. Pamir |
-| B. The land of thousand lakes | 2. Paris |
-| C. Eiffel Tower | 3. Finland |
-| D. The Roof of the World | 4. New York State |
-
----
-
-
-### Master Comparison Table
-
-| A | B |
-|---|---|
-| A. Dark Continent | 1. Finland |
-| B. The Roof of the World | 2. Bahrain |
-| C. Country of thousand lakes | 3. Africa |
-| D. Pearls Island | 4. Pamir |
-
----
-
-
-### Match Matrix: Country ↔ Capital
-
-| List-I (Country) | List-II (Capital) |
-|---|---|
-| A. Myanmar | 1. Hanoi |
-| B. Cambodia | 2. Vientiane |
-| C. Vietnam | 3. Phnom Penh |
-| D. Laos | 4. Nay Pyi Taw |
-
----
-
-
-### Match Matrix: Country ↔ Capital
-
-| List-I (Country) | List-II (Capital) |
-|---|---|
-| A. Bulgaria | 1. Oslo |
-| B. Georgia | 2. Reykjavik |
-| C. Iceland | 3. Sofia |
-| D. Norway | 4. Tbilisi |
-
----
-
-
-### Match Matrix: Country ↔ Capital
-
-| List-I (Country) | List-II (Capital) |
-|---|---|
-| A. Azerbaijan | 1. Banjul |
-| B. Gambia | 2. Riga |
-| C. Kazakhstan | 3. Baku |
-| D. Latvia | 4. Astana (Nur-Sultan) |
-
----
-
-
-### Match Matrix: Province ↔ Capital City
-
-| List-I (Province) | List-II (Capital City) |
-|---|---|
-| A. New South Wales | 1. Brisbane |
-| B. Queensland | 2. Sydney |
-| C. Victoria | 3. Perth |
-| D. Western Australia | 4. Melbourne |
-
----
-
-
-### Match Matrix: Line ↔ Pair
-
-| List-I (Line) | List-II (Pair) |
-|----------------|----------------|
-| A. McMahon | 1. Pakistan–Afghanistan (1893) |
-| B. Durand | 2. India–China (1914) |
-| C. Radcliffe | 3. 1947 India–Pakistan/Bangladesh |
-| D. 49th Parallel | 4. USA–Canada stretch |
-
----
-
-
-### Match Matrix: Sobriquet ↔ Details
-
-| List-I (Sobriquet) | List-II |
-|---------------------|--------|
-| A. Land of the Midnight Sun | 1. Japan |
-| B. Land of the Rising Sun | 2. Norway |
-| C. Thousand Lakes | 3. (South) Korea |
-| D. Morning Calm | 4. Finland |
-
----
-
-
-### Match Matrix: City Tag ↔ Details
-
-| List-I (City tag) | List-II |
-|--------------------|--------|
-| A. Venice | 1. Golden Gate |
-| B. San Francisco | 2. Canals |
-| C. Chicago | 3. Paris of South America |
-| D. Buenos Aires | 4. City of Smoke |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Istanbul | 1. Gateway to Asia |
-| B. Singapore | 2. Gateway to the West |
-| C. Sri Lanka | 3. White Elephants |
-| D. Thailand | 4. Pearl / Mistress tags (Indian Ocean) |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -910,3 +731,159 @@ D. 2 and 3
 **Logic:** Ankara is Turkey’s capital.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Country ↔ Capital**
+
+| List-I (Country) | List-II (Capital) |
+|---|---|
+| A. Uzbekistan | 1. Tashkent |
+| B. Tajikistan | 2. Dushanbe |
+| C. Kyrgyzstan | 3. Bishkek |
+| D. Turkmenistan | 4. Ashgabat |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Uzbekistan ↔ Tashkent) B → 2 (Tajikistan ↔ Dushanbe) C → 3 (Kyrgyzstan ↔ Bishkek) D → 4 (Turkmenistan ↔ Ashgabat). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Old Name ↔ New Name**
+
+| List-I (Old Name) | List-II (New Name) |
+|---|---|
+| A. Siam | 1. Taiwan |
+| B. Formosa | 2. Myanmar |
+| C. Mesopotamia | 3. Thailand |
+| D. Burma | 4. Iraq |
+
+*Row order is not the answer code.*
+
+A. 1 3 4 2
+
+B. 3 1 4 2
+
+C. 3 4 1 2
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 1 4 2**.
+
+**Logic:** A → 3 (Siam ↔ Thailand) B → 1 (Formosa ↔ Taiwan) C → 4 (Mesopotamia ↔ Iraq) D → 2 (Burma ↔ Myanmar). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Sobriquet ↔ Details**
+
+| List-I (Sobriquet) | List-II |
+|---|---|
+| A. Land of the Midnight Sun | 1. Japan |
+| B. Land of the Rising Sun | 2. Norway |
+| C. Thousand Lakes | 3. (South) Korea |
+| D. Morning Calm | 4. Finland |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Land of the Midnight Sun ↔ Norway) B → 1 (Land of the Rising Sun ↔ Japan) C → 4 (Thousand Lakes ↔ Finland) D → 3 (Morning Calm ↔ (South) Korea). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Master Comparison Table**
+
+| List-I (A) | List-II (B) |
+|---|---|
+| A. Niagara Falls | 1. Pamir |
+| B. The land of thousand lakes | 2. Paris |
+| C. Eiffel Tower | 3. Finland |
+| D. The Roof of the World | 4. New York State |
+
+*Row order is not the answer code.*
+
+A. 4 3 2 1
+
+B. 3 4 2 1
+
+C. 4 2 3 1
+
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 3 2 1**.
+
+**Logic:** A → 4 (Niagara Falls ↔ New York State) B → 3 (The land of thousand lakes ↔ Finland) C → 2 (Eiffel Tower ↔ Paris) D → 1 (The Roof of the World ↔ Pamir). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Master Comparison Table**
+
+| List-I (A) | List-II (B) |
+|---|---|
+| A. Dark Continent | 1. Finland |
+| B. The Roof of the World | 2. Bahrain |
+| C. Country of thousand lakes | 3. Africa |
+| D. Pearls Island | 4. Pamir |
+
+*Row order is not the answer code.*
+
+A. 4 3 1 2
+
+B. 3 4 1 2
+
+C. 3 1 4 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 4 1 2**.
+
+**Logic:** A → 3 (Dark Continent ↔ Africa) B → 4 (The Roof of the World ↔ Pamir) C → 1 (Country of thousand lakes ↔ Finland) D → 2 (Pearls Island ↔ Bahrain). Trap: treating table row order as the answer code.
+
+</details>
+

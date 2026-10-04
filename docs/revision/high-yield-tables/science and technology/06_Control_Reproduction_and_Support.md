@@ -186,17 +186,6 @@ hide:
 ---
 
 
-### Match Matrix: Endocrine Hormone ↔ Specific Physiological Action / Target
-
-| List-I (Endocrine Hormone) | List-II (Specific Physiological Action / Target) |
-|---|---|
-| A. Oxytocin | 1. Elevates blood calcium levels |
-| B. Glucagon | 2. Stimulates milk letdown & uterine contraction |
-| C. Parathyroid Hormone (PTH) | 3. Regulates sleep-wake circadian rhythm |
-| D. Melatonin | 4. Stimulates glycogenolysis to raise blood sugar |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Cerebrum: Largest part of the human brain (~80% of brain mass); seat of intelligence, conscious thought, memory, reasoning, voluntary motor control, speech (Broca's area), and sensation; right and left cerebral hemispheres are joined internally by a broad transverse curved band of white nerve fibres called the Corpus Callosum.

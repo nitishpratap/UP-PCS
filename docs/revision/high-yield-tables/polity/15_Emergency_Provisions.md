@@ -174,27 +174,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Article 358 | 1. Enforcement of named FRs may be suspended by order; 20 & 21 never |
-| B. Article 359 | 2. Article 19 auto-suspends only for war/external aggression |
-| C. Article 355 | 3. Union duty to protect States |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. 352 approval | 1. Simple majority; 2 months |
-| B. 356 approval | 2. Special majority; 1 month |
-| C. 360 approval | 3. Simple majority; 2 months; then till revoked |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** 2024: 352 Assertion–Reason; Financial Emergency matched to 360 (direct PYQ).
@@ -493,3 +472,34 @@ D. Martial law under Article 34
 **Ans: B. President’s Rule under Article 356.**
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. 352 approval | 1. Simple majority; 2 months |
+| B. 356 approval | 2. Special majority; 1 month |
+| C. 360 approval | 3. Simple majority; 2 months; then till revoked |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (352 approval ↔ Special majority; 1 month) B → 1 (356 approval ↔ Simple majority; 2 months) C → 3 (360 approval ↔ Simple majority; 2 months; then till revoked). Trap: treating table row order as the answer code.
+
+</details>
+

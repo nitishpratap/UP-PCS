@@ -173,28 +173,6 @@ hide:
 ---
 
 
-### Match Matrix: Union ↔ Link
-
-| List-I (Union) | List-II (Link) |
-|----------------|----------------|
-| A. AITUC | 1. Congress (1947) |
-| B. INTUC | 2. CPI (1920) |
-| C. BMS | 3. CPI(M) (1970) |
-| D. CITU | 4. BJP/RSS (1955) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Registration | 1. Tenth Schedule |
-| B. Recognition | 2. RPA s.29A |
-| C. Defection | 3. Symbols Order 1968 |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Votes + Seats Route: Polling at least 6% of total valid votes in 4 or more States in a Lok Sabha or State Assembly election, AND winning at least 4 seats in the Lok Sabha from any State or States.
@@ -561,3 +539,65 @@ D. 1 and 2
 **Ans: B. 1, 2 and 3. Bahujan Samaj Party, Samata Party, and Haryana Vikas Party were not a part of the United Front Government during 1996-97.**
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Union ↔ Link**
+
+| List-I (Union) | List-II (Link) |
+|---|---|
+| A. AITUC | 1. Congress (1947) |
+| B. INTUC | 2. CPI (1920) |
+| C. BMS | 3. CPI(M) (1970) |
+| D. CITU | 4. BJP/RSS (1955) |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (AITUC ↔ CPI (1920)) B → 1 (INTUC ↔ Congress (1947)) C → 3 (BMS ↔ CPI(M) (1970)) D → 4 (CITU ↔ BJP/RSS (1955)). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Registration | 1. Tenth Schedule |
+| B. Recognition | 2. RPA s.29A |
+| C. Defection | 3. Symbols Order 1968 |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 3 1
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 1**.
+
+**Logic:** A → 2 (Registration ↔ RPA s.29A) B → 3 (Recognition ↔ Symbols Order 1968) C → 1 (Defection ↔ Tenth Schedule). Trap: treating table row order as the answer code.
+
+</details>
+

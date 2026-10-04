@@ -124,41 +124,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. UP LA | 1. 100 members; 1/3 retire every 2 years |
-| B. UP LC | 2. 403 elected |
-| C. CoM cap (91st) | 3. ≤15% of LA (≈60 incl. CM); floor 12 |
-| D. Art. 371 series for UP | 4. None |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Gram Panchayat head | 1. Adhyaksha |
-| B. Kshetra Panchayat head | 2. Pradhan |
-| C. Zila Panchayat head | 3. Pramukh |
-| D. UP intermediate tier name | 4. Kshetra Panchayat |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Pre-9 Nov 2000 UP | 1. LA 403 · LS 80 · RS 31 |
-| B. Post-reorganisation UP | 2. LA 425 · LS 85 · RS 34 |
-| C. Uttarakhand LA | 3. 70 |
-| D. Uttaranchal rename | 4. 1 Jan 2007 |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** UPPSC HQ is Prayagraj (from 1937). The Governor appoints; the President removes after a Supreme Court path on misbehaviour. Age limit is 62 / six years. Functions are extended by the UP Legislature under Article 321.
@@ -487,3 +452,35 @@ D. Neither 1 nor 2
 **Logic:** Nyaya Panchayat is not a 73rd constitutional tier.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. UP LA | 1. 100 members; 1/3 retire every 2 years |
+| B. UP LC | 2. 403 elected |
+| C. CoM cap (91st) | 3. ≤15% of LA (≈60 incl. CM); floor 12 |
+| D. Art. 371 series for UP | 4. None |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (UP LA ↔ 403 elected) B → 1 (UP LC ↔ 100 members; 1/3 retire every 2 years) C → 3 (CoM cap (91st) ↔ ≤15% of LA (≈60 incl. CM); floor 12) D → 4 (Art. 371 series for UP ↔ None). Trap: treating table row order as the answer code.
+
+</details>
+

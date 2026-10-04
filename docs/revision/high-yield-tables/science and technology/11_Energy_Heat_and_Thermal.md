@@ -157,29 +157,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Zeroth Law of Thermodynamics | 1. Conservation of energy in thermal systems |
-| B. First Law of Thermodynamics | 2. Operational definition of Temperature |
-| C. Second Law of Thermodynamics | 3. Entropy of a pure crystal is zero at absolute zero |
-| D. Third Law of Thermodynamics | 4. Spontaneous processes increase the entropy of the universe |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Cooling of water in an earthen pot | 1. Thermal shock from poor thermal conduction |
-| B. Cracking of thick glass with boiling water | 2. Evaporative cooling extracting latent heat |
-| C. Operation of a domestic bimetallic thermostat | 3. Trapped stationary air layer |
-| D. Heat retention by two thin blankets | 4. Differential linear thermal expansion |
-
----
-
 ## Common Traps
 
 | Concept | Trap / Confusion Point | Examiner's Angle | Correct Fact |

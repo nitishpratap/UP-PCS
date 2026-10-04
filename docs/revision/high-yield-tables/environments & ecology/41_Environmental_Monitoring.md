@@ -79,49 +79,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. NAMP | 1. Real-time air |
-| B. CAAQMS | 2. Manual air trends |
-| C. NWMP | 3. Surface water |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Noise | 1. Visible smoke shade 0–5 |
-| B. Ringelmann | 2. Decibels |
-| C. Consent to Operate | 3. Links permission to monitoring + audit |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. BOD | 1. EMS standard |
-| B. COD | 2. Microbial oxygen demand |
-| C. ISO 14001 | 3. Chemical oxygen demand |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. NCAP | 1. AQI app |
-| B. SAMEER | 2. 2019 city action/monitoring |
-| C. Lichens | 3. SO₂ bio-indicator |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -445,3 +402,64 @@ D. Only WWF Living Planet
 **Logic:** Environmental Statement.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. NAMP | 1. Real-time air |
+| B. CAAQMS | 2. Manual air trends |
+| C. NWMP | 3. Surface water |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (NAMP ↔ Real-time air) B → 2 (CAAQMS ↔ Manual air trends) C → 3 (NWMP ↔ Surface water). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Noise | 1. Visible smoke shade 0–5 |
+| B. Ringelmann | 2. Decibels |
+| C. Consent to Operate | 3. Links permission to monitoring + audit |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3**.
+
+**Logic:** A → 1 (Noise ↔ Visible smoke shade 0–5) B → 2 (Ringelmann ↔ Decibels) C → 3 (Consent to Operate ↔ Links permission to monitoring + audit). Trap: treating table row order as the answer code.
+
+</details>
+

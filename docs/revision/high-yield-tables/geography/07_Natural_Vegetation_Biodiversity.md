@@ -407,102 +407,6 @@ hide:
 ---
 
 
-### Comparative Matrix: Tree ↔ Region
-
-| Tree | Region |
-| --- | --- |
-| A. Teak | 1. Himalayan Tarai Region |
-| B. Deodar | 2. Central India |
-| C. Sundari | 3. Sunderban |
-| D. Cinchona | 4. High Altitude regions of Himalaya |
-
----
-
-
-### Comparative Matrix: Forest ↔ Region
-
-| Forest | Region |
-| --- | --- |
-| A. Tropical moist deciduous | 1. Arunachal Pradesh |
-| B. Tropical dry deciduous | 2. Sahyadris |
-| C. Alpine | 3. Middle Ganga Plain |
-| D. Tropical evergreen | 4. Tarai |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| --- | --- |
-| A. Tropical forest | 1. Sunderbans |
-| B. Conifer forest | 2. Himachal Pradesh |
-| C. Mangroves | 3. Rajasthan |
-| D. Deciduous forest | 4. Silent Valley |
-
----
-
-
-### Comparative Matrix: Mangrove ↔ State
-
-| Mangrove | State |
-| --- | --- |
-| A. Achra Ratnagiri | 1. Karnataka |
-| B. Coondapur | 2. Kerala |
-| C. Pichavaram | 3. Andhra Pradesh |
-| D. Vembanad | 4. Maharashtra |
-| | 5. Tamil Nadu |
-
----
-
-
-### National Parks, Wildlife Sanctuaries & Biosphere Reserves
-
-| National Park | State |
-| --- | --- |
-| A. Simlipal | 1. Karnataka |
-| B. Indravati | 2. Madhya Pradesh |
-| C. Kanha | 3. Chhattisgarh |
-| D. Bandipur | 4. Odisha |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. In-situ | 1. Zoo / botanical garden / seed bank |
-| B. Ex-situ | 2. NP / Sanctuary / Biosphere / sacred grove |
-| C. Nilgiri BR | 3. First Indian biosphere reserve (1986) |
-| D. Botanical garden | 4. Ex-situ, not in-situ |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Achra–Ratnagiri | 1. Kerala |
-| B. Pichavaram | 2. Maharashtra |
-| C. Vembanad | 3. Tamil Nadu |
-| D. Silent Valley | 4. Tropical evergreen, Kerala |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Realms in India | 1. About 25 |
-| B. Biogeographic zones | 2. Two (Palearctic + Indomalayan) |
-| C. Provinces | 3. Ten |
-| D. Keystone vs flagship | 4. Ecosystem collapse vs public mascot |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Dry evergreen of the Tamil Nadu (नाडु) Coromandel grows on about 100 cm of north-east monsoon with jamun–neem–tamarind. It is not Western Ghat wet rainforest.
@@ -843,3 +747,159 @@ D. 4 2 1 3
 
 **Ans: D** — Dachigam–J&K; Keoladeo–Rajasthan; Kanha–Madhya Pradesh; Periyar–Kerala.
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Achra–Ratnagiri | 1. Kerala |
+| B. Pichavaram | 2. Maharashtra |
+| C. Vembanad | 3. Tamil Nadu |
+| D. Silent Valley | 4. Tropical evergreen, Kerala |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Achra–Ratnagiri ↔ Maharashtra) B → 3 (Pichavaram ↔ Tamil Nadu) C → 1 (Vembanad ↔ Kerala) D → 4 (Silent Valley ↔ Tropical evergreen, Kerala). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Tree ↔ Region**
+
+| List-I (Tree) | List-II (Region) |
+|---|---|
+| A. Teak | 1. Himalayan Tarai Region |
+| B. Deodar | 2. Central India |
+| C. Sundari | 3. Sunderban |
+| D. Cinchona | 4. High Altitude regions of Himalaya |
+
+*Row order is not the answer code.*
+
+A. 2 4 3 1
+
+B. 4 2 3 1
+
+C. 2 3 4 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 4 3 1**.
+
+**Logic:** A → 2 (Teak ↔ Central India) B → 4 (Deodar ↔ High Altitude regions of Himalaya) C → 3 (Sundari ↔ Sunderban) D → 1 (Cinchona ↔ Himalayan Tarai Region). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Forest ↔ Region**
+
+| List-I (Forest) | List-II (Region) |
+|---|---|
+| A. Tropical moist deciduous | 1. Arunachal Pradesh |
+| B. Tropical dry deciduous | 2. Sahyadris |
+| C. Alpine | 3. Middle Ganga Plain |
+| D. Tropical evergreen | 4. Tarai |
+
+*Row order is not the answer code.*
+
+A. 4 3 1 2
+
+B. 3 4 1 2
+
+C. 3 1 4 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 4 1 2**.
+
+**Logic:** A → 3 (Tropical moist deciduous ↔ Middle Ganga Plain) B → 4 (Tropical dry deciduous ↔ Tarai) C → 1 (Alpine ↔ Arunachal Pradesh) D → 2 (Tropical evergreen ↔ Sahyadris). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Mangrove ↔ State**
+
+| List-I (Mangrove) | List-II (State) |
+|---|---|
+| A. Achra Ratnagiri | 1. Karnataka |
+| B. Coondapur | 2. Kerala |
+| C. Pichavaram | 3. Andhra Pradesh |
+| D. Vembanad | 4. Maharashtra |
+
+*Row order is not the answer code.*
+
+A. 1 4 3 2
+
+B. 4 3 1 2
+
+C. 4 1 3 2
+
+D. 4 1 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **4 1 3 2**.
+
+**Logic:** A → 4 (Achra Ratnagiri ↔ Maharashtra) B → 1 (Coondapur ↔ Karnataka) C → 3 (Pichavaram ↔ Andhra Pradesh) D → 2 (Vembanad ↔ Kerala). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**National Parks, Wildlife Sanctuaries & Biosphere Reserves**
+
+| List-I (National Park) | List-II (State) |
+|---|---|
+| A. Simlipal | 1. Karnataka |
+| B. Indravati | 2. Madhya Pradesh |
+| C. Kanha | 3. Chhattisgarh |
+| D. Bandipur | 4. Odisha |
+
+*Row order is not the answer code.*
+
+A. 2 4 3 1
+
+B. 4 3 2 1
+
+C. 4 2 1 3
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **4 2 3 1**.
+
+**Logic:** A → 4 (Simlipal ↔ Odisha) B → 2 (Indravati ↔ Madhya Pradesh) C → 3 (Kanha ↔ Chhattisgarh) D → 1 (Bandipur ↔ Karnataka). Trap: treating table row order as the answer code.
+
+</details>
+

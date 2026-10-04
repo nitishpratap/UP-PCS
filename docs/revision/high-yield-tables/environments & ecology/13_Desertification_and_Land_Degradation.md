@@ -83,38 +83,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Thar | 1. Salinization belt teaching |
-| B. Chambal | 2. Wind erosion |
-| C. Punjab–Haryana | 3. Ravines |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Deflation | 1. Sandblasting |
-| B. Abrasion | 2. Lifting of particles |
-| C. Shelter belts | 3. Wind-erosion control |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. DPAP | 1. 2009 |
-| B. DDP | 2. 1973 |
-| C. IWMP | 3. 1977–78 |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -440,3 +408,34 @@ D. 1, 2 and 3
 **Logic:** Thar is wind hotspot.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. DPAP | 1. 2009 |
+| B. DDP | 2. 1973 |
+| C. IWMP | 3. 1977–78 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (DPAP ↔ 2009) B → 2 (DDP ↔ 1973) C → 3 (IWMP ↔ 1977–78). Trap: treating table row order as the answer code.
+
+</details>
+

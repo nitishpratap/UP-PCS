@@ -166,53 +166,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. NCM | 1. Salt and civil-law defiance |
-| B. CDM | 2. Boycott of titles, schools and courts |
-| C. No-changers | 3. Stay out; constructive work (Gaya 1922) |
-| D. Pro-changers / Swarajists | 4. Enter councils and obstruct |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Gandhi–Irwin Pact | 1. 24 September 1932; reserved seats in joint electorate |
-| B. Communal Award | 2. 5 March 1931; Congress–Viceroy truce |
-| C. Poona Pact | 3. 16 August 1932; separate electorates for Depressed Classes |
-| D. Second RTC | 4. Sep–Dec 1931; Gandhi sole Congress representative |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Phoenix Ashram | 1. Ahmedabad bank ashram after move |
-| B. Sabarmati Ashram | 2. Oldest; South Africa, 1904 |
-| C. ‘Mahatma’ title association | 3. Tagore during Champaran era |
-| D. ‘Father of the Nation’ | 4. Subhas Bose, Azad Hind Radio, 1944 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Simon Commission | 1. All-white; Nov 1927 |
-| B. Nehru Report | 2. Dominion draft; Motilal; 1928 |
-| C. Gandhi’s 11 Points | 3. Jan 1930 ultimatum to Irwin |
-| D. Jinnah’s 14 Points | 4. 1929 League charter |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Champaran 1917 fought the tinkathia (तीनकठिया प्रथा) indigo (नील) system (3/20); Raj Kumar Shukla brought Gandhi. This is Gandhi’s first satyagraha in India.
@@ -587,3 +540,66 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Truth-force ≠ mere passive resistance.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Gandhi–Irwin Pact | 1. 24 September 1932; reserved seats in joint electorate |
+| B. Communal Award | 2. 5 March 1931; Congress–Viceroy truce |
+| C. Poona Pact | 3. 16 August 1932; separate electorates for Depressed Classes |
+| D. Second RTC | 4. Sep–Dec 1931; Gandhi sole Congress representative |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Gandhi–Irwin Pact ↔ 5 March 1931; Congress–Viceroy truce) B → 1 (Communal Award ↔ 24 September 1932; reserved seats in joint electorate) C → 3 (Poona Pact ↔ 16 August 1932; separate electorates for Depressed Classes) D → 4 (Second RTC ↔ Sep–Dec 1931; Gandhi sole Congress representative). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Simon Commission | 1. All-white; Nov 1927 |
+| B. Nehru Report | 2. Dominion draft; Motilal; 1928 |
+| C. Gandhi’s 11 Points | 3. Jan 1930 ultimatum to Irwin |
+| D. Jinnah’s 14 Points | 4. 1929 League charter |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Simon Commission ↔ All-white; Nov 1927) B → 2 (Nehru Report ↔ Dominion draft; Motilal; 1928) C → 3 (Gandhi’s 11 Points ↔ Jan 1930 ultimatum to Irwin) D → 4 (Jinnah’s 14 Points ↔ 1929 League charter). Trap: treating table row order as the answer code.
+
+</details>
+

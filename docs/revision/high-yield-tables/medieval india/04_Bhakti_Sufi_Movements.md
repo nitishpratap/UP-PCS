@@ -330,53 +330,6 @@ hide:
 ---
 
 
-### Match Matrix: Saint ↔ Tag
-
-| List-I (Saint) | List-II (Tag) |
-|----------------|---------------|
-| A. Surdas | 1. Awadhi; Ramcharitmanas |
-| B. Tulsidas | 2. Braj; Sursagar |
-| C. Kabir | 3. Nirguna; Bijak; Maghar |
-| D. Mirabai | 4. Rajasthan Krishna devotee |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Advaita | 1. Ramanuja |
-| B. Vishishtadvaita | 2. Shankara |
-| C. Dvaita | 3. Madhva |
-| D. Shuddhadvaita | 4. Vallabhacharya |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Pir | 1. Bhakti preceptor |
-| B. Guru | 2. Sufi spiritual master |
-| C. Ulema | 3. Islamic law scholars |
-| D. Shaikh | 4. Sufi guide authorised to teach |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Chaitanya | 1. Karnataka Lingayat |
-| B. Basavanna | 2. Bengal Gaudiya Vaishnavism |
-| C. Andal | 3. Tamil Alvar woman saint |
-| D. Ravidas | 4. Banaras; Ramananda circle |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Saguna (सगुण) bhakti worships a formed deity such as Rama or Krishna (कृष्ण); Nirguna (निर्गुण) worships the formless One (Kabir, Nanak).
@@ -794,3 +747,66 @@ D. Only 1
 - *Institutional Vocabulary:* Pir / Shaikh / Murshid = Sufi mystic guide (Esoteric); Ulema / Qazi / Mufti = Islamic jurists/scholars (Exoteric); Murid = Sufi disciple; Khanqah = Sufi hospice.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Saint ↔ Tag**
+
+| List-I (Saint) | List-II (Tag) |
+|---|---|
+| A. Surdas | 1. Awadhi; Ramcharitmanas |
+| B. Tulsidas | 2. Braj; Sursagar |
+| C. Kabir | 3. Nirguna; Bijak; Maghar |
+| D. Mirabai | 4. Rajasthan Krishna devotee |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Surdas ↔ Braj; Sursagar) B → 1 (Tulsidas ↔ Awadhi; Ramcharitmanas) C → 3 (Kabir ↔ Nirguna; Bijak; Maghar) D → 4 (Mirabai ↔ Rajasthan Krishna devotee). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Advaita | 1. Ramanuja |
+| B. Vishishtadvaita | 2. Shankara |
+| C. Dvaita | 3. Madhva |
+| D. Shuddhadvaita | 4. Vallabhacharya |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Advaita ↔ Shankara) B → 1 (Vishishtadvaita ↔ Ramanuja) C → 3 (Dvaita ↔ Madhva) D → 4 (Shuddhadvaita ↔ Vallabhacharya). Trap: treating table row order as the answer code.
+
+</details>
+

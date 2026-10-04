@@ -129,43 +129,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Article 16 (2) | 1. No person shall be deprived of his property save by the authority of law. |
-| B. Article 29 (2) | 2. No person can be discriminated against in the matter of public appointment on the ground of race, religion or caste. |
-| C. Article 30 (1) | 3. All minorities whether based on religion or language shall have right to establish and administer educational institutions of their choice. |
-| D. Article 31 (1) | 4. No citizen shall be denied admission into any educational institution maintained by the State, or receiving State aid, on the grounds of religion, race, caste, language or any of them. |
-
----
-
-
-### Comparative Matrix: List - I ↔ List - Ii
-
-| List - I | List - II |
-|---|---|
-| A. Formation of Village Panchayat | 1. Article 44 |
-| B. Uniform Civil Code | 2. Article 48 |
-| C. Agriculture and Animal Husbandry | 3. Article 50 |
-| D. Separation of Judiciary from Executive | 4. Article 51 |
-| E. Promotion of International Peace | 5. Article 50 |
-
----
-
-
-### Match Matrix: Mountain Passes ↔ States / Locations
-
-| List-I | List-II |
-|---|---|
-| A. To foster respect for international law | 1. Article 51-A (h) |
-| B. To have compassion for living creatures | 2. Article 51 (c) |
-| C. To develop spirit of inquiry and reform | 3. Article 50 |
-| D. To separate judiciary from the executive in Public Service of the State | 4. Article 51A (g) |
-
----
-
-
 ### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
@@ -530,3 +493,36 @@ D. Article 13 to Article 17
 **Ans: C.** Right to Equality covers **Articles 14 to 18**.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List - I ↔ List - Ii**
+
+| List - I | List - II |
+|---|---|
+| A. Formation of Village Panchayat | 1. Article 44 |
+| B. Uniform Civil Code | 2. Article 48 |
+| C. Agriculture and Animal Husbandry | 3. Article 50 |
+| D. Separation of Judiciary from Executive | 4. Article 51 |
+|  | 5. Article 50 |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 5
+
+B. 3 2 1 5
+
+C. 2 1 3 5
+
+D. 2 3 5 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 5**.
+
+**Logic:** A → 2 (Formation of Village Panchayat ↔ Article 48) B → 3 (Uniform Civil Code ↔ Article 50) C → 1 (Agriculture and Animal Husbandry ↔ Article 44) D → 5 (Separation of Judiciary from Executive ↔ Article 50). Trap: treating table row order as the answer code.
+
+</details>
+

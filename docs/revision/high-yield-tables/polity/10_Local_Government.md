@@ -187,29 +187,6 @@ hide:
 ---
 
 
-### Match Matrix: Committee ↔ Tag
-
-| List-I (Committee) | List-II (Tag) |
-|--------------------|----------------|
-| A. Balwant Rai Mehta | 1. Two-tier; district first |
-| B. Ashok Mehta | 2. Three-tier foundation |
-| C. Dantwala | 3. Constitutional status; Gram Sabha |
-| D. L.M. Singhvi | 4. Block-level planning |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Article 243O | 1. SEC for municipalities |
-| B. Article 243ZA | 2. Bar on courts in Panchayat electoral matters |
-| C. Article 243ZD | 3. District Planning Committee |
-| D. Article 243ZE | 4. Metropolitan Planning Committee |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** 24 April is National Panchayati Raj Day, marking when the 73rd Amendment came into force (1993).
@@ -484,3 +461,35 @@ D. 75th Amendment
 **Ans: C. 73rd Amendment. The controlling constitutional or historical fact identifies 73rd Amendment as the correct choice; the alternatives do not satisfy the proposition in the stem.**
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Committee ↔ Tag**
+
+| List-I (Committee) | List-II (Tag) |
+|---|---|
+| A. Balwant Rai Mehta | 1. Two-tier; district first |
+| B. Ashok Mehta | 2. Three-tier foundation |
+| C. Dantwala | 3. Constitutional status; Gram Sabha |
+| D. L.M. Singhvi | 4. Block-level planning |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 1 4 3
+
+C. 1 4 2 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 4 3**.
+
+**Logic:** A → 1 (Balwant Rai Mehta ↔ Two-tier; district first) B → 2 (Ashok Mehta ↔ Three-tier foundation) C → 4 (Dantwala ↔ Block-level planning) D → 3 (L.M. Singhvi ↔ Constitutional status; Gram Sabha). Trap: treating table row order as the answer code.
+
+</details>
+

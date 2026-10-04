@@ -325,41 +325,6 @@ hide:
 ---
 
 
-### Match Matrix: Scheme ↔ Year / Note
-
-| List-I (Scheme) | List-II (Year / note) |
-|---|---|
-| A. JNNURM | 1. 2005 |
-| B. AMRUT | 2. June 2015 |
-| C. Smart Cities Mission | 3. 25 June 2015; 100 cities; MoHUA |
-| D. SPMRM | 4. 2016 launch; MoRD |
-
----
-
-
-### Match Matrix: Isac-2020 Theme ↔ City
-
-| List-I (ISAC-2020 theme) | List-II (City) |
-|---|---|
-| A. Culture | 1. Indore |
-| B. Governance | 2. Vadodara |
-| C. Social | 3. Tirupati |
-| D. Urban environment | 4. Bhopal |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Determinism | 1. Ratzel / Semple |
-| B. Possibilism | 2. Vidal de la Blache |
-| C. Neo-determinism | 3. Griffith Taylor |
-| D. Global Village | 4. Transport + communication (McLuhan) |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Environmental determinism (Ratzel / Semple) says nature controls culture. Possibilism (Vidal de la Blache) says humans choose among nature’s options. Neo-determinism (Griffith Taylor) is stop-and-go determinism.
@@ -696,3 +661,97 @@ D. 1 only
 **Logic:** ≥10 lakh is metropolitan, not Class I.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Scheme ↔ Year / Note**
+
+| List-I (Scheme) | List-II (Year / note) |
+|---|---|
+| A. JNNURM | 1. 2005 |
+| B. AMRUT | 2. June 2015 |
+| C. Smart Cities Mission | 3. 25 June 2015; 100 cities; MoHUA |
+| D. SPMRM | 4. 2016 launch; MoRD |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 1 4 3
+
+C. 1 4 2 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 4 3**.
+
+**Logic:** A → 1 (JNNURM ↔ 2005) B → 2 (AMRUT ↔ June 2015) C → 4 (Smart Cities Mission ↔ 2016 launch; MoRD) D → 3 (SPMRM ↔ 25 June 2015; 100 cities; MoHUA). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Isac-2020 Theme ↔ City**
+
+| List-I (ISAC-2020 theme) | List-II (City) |
+|---|---|
+| A. Culture | 1. Indore |
+| B. Governance | 2. Vadodara |
+| C. Social | 3. Tirupati |
+| D. Urban environment | 4. Bhopal |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Culture ↔ Indore) B → 2 (Governance ↔ Vadodara) C → 3 (Social ↔ Tirupati) D → 4 (Urban environment ↔ Bhopal). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Determinism | 1. Ratzel / Semple |
+| B. Possibilism | 2. Vidal de la Blache |
+| C. Neo-determinism | 3. Griffith Taylor |
+| D. Global Village | 4. Transport + communication (McLuhan) |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 3 2 4
+
+C. 1 2 3 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Determinism ↔ Ratzel / Semple) B → 2 (Possibilism ↔ Vidal de la Blache) C → 3 (Neo-determinism ↔ Griffith Taylor) D → 4 (Global Village ↔ Transport + communication (McLuhan)). Trap: treating table row order as the answer code.
+
+</details>
+

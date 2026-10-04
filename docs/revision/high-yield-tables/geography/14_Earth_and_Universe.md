@@ -669,18 +669,6 @@ hide:
 ---
 
 
-### Match Matrix: Volcano ↔ Country
-
-| List-I (Volcano) | List-II (Country) |
-|---|---|
-| A. Rainier | 1. Italy |
-| B. Etna | 2. Mexico |
-| C. Paricutin | 3. Philippines |
-| D. Apo | 4. USA |
-
----
-
-
 ### Comparative Matrix: Term ↔ Quick Recall
 
 | Term | Quick recall |
@@ -736,160 +724,6 @@ hide:
 
 ---
 
-
-### Comparative Matrix: List I ↔ List Ii
-
-| List I (Moon) | List II (Planet) |
-| --- | --- |
-| A. Ganymede | 1. Mars |
-| B. Phobos | 2. Jupiter |
-| C. Titan | 3. Saturn |
-| D. Nix | 4. Pluto |
-
----
-
-
-### Match Matrix: Parent Rock ↔ Metamorphic Product
-
-| List-I (Parent rock) | List-II (Metamorphic product) |
-|---|---|
-| A. Granite | 1. Marble |
-| B. Limestone | 2. Gneiss |
-| C. Sandstone | 3. Quartzite |
-| D. Shale | 4. Slate |
-
----
-
-
-### Match Matrix: Volcano ↔ Location
-
-| List-I (Volcano) | List-II (Location) |
-|---|---|
-| A. Etna | 1. Ross Island / Antarctica |
-| B. Vesuvius | 2. Sicily |
-| C. Erebus | 3. Italy (mainland) |
-| D. Cotopaxi | 4. Ecuador |
-
----
-
-
-### Match Matrix: Volcano ↔ Country
-
-| List-I (Volcano) | List-II (Country) |
-|---|---|
-| A. Rainier | 1. Italy |
-| B. Etna | 2. Mexico |
-| C. Paricutin | 3. Philippines |
-| D. Taal | 4. USA |
-
----
-
-
-### Match Matrix: Mountain / Peak ↔ Country
-
-| List-I (Mountain / peak) | List-II (Country) |
-|---|---|
-| A. Kinabalu | 1. Iran |
-| B. Elburz | 2. Argentina |
-| C. Aconcagua | 3. Tanzania |
-| D. Kilimanjaro | 4. Malaysia |
-
----
-
-
-### Match Matrix: Volcano ↔ Country
-
-| List-I (Volcano) | List-II (Country) |
-|---|---|
-| A. Sabancaya | 1. Italy |
-| B. Etna | 2. Mexico |
-| C. Colima | 3. Indonesia |
-| D. Merapi | 4. Peru |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Focus | 1. Point on surface above hypocentre |
-| B. Epicentre | 2. Initial rupture point inside Earth |
-| C. Seismogram | 3. Graphical record of seismic waves |
-| D. Seismograph | 4. Instrument that records waves |
-
----
-
-
-### Match Matrix: Feature ↔ Ring Of Fire Link
-
-| List-I (Feature) | List-II (Ring of Fire link) |
-|------------------|----------------------------|
-| A. Chile | 1. Pacific-margin seismic arc |
-| B. Japan | 2. Pacific-margin seismic arc |
-| C. Kilimanjaro (East Africa) | 3. **Not** classic Ring of Fire |
-| D. Philippines | 4. Pacific-margin seismic arc |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Australia | 1. Hurricanes |
-| B. China | 2. Willy-Willy |
-| C. India | 3. Typhoons |
-| D. U.S.A. | 4. Cyclones |
-
----
-
-
-### Comparative Matrix: Feature ↔ Location / Fact
-
-| Feature | Location / fact |
-|---|---|
-| 1. Asteroid belt | Between Mars and Jupiter |
-| 2. Largest moon | Ganymede (Jupiter) |
-| 3. Titan | Mars |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Montreal Protocol | 1. Ozone |
-| B. Kyoto Protocol | 2. Climate / GHG |
-| C. Fujita scale | 3. Tornado |
-| D. Saffir–Simpson | 4. Hurricane |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Big Bang | 1. Lemaître / Gamow; Hubble expansion |
-| B. Steady State | 2. Hoyle |
-| C. Nebular hypothesis | 3. Kant–Laplace |
-| D. Milky Way | 4. Barred spiral |
-
----
-
-
-### Match Matrix: Rock ↔ Details
-
-| List-I (Rock) | List-II |
-|---|---|
-| A. Granite → | 1. Gneiss |
-| B. Limestone → | 2. Marble |
-| C. Igneous | 3. Cooled magma/lava; no fossils |
-| D. Sedimentary | 4. Layered + fossils |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -1188,3 +1022,407 @@ D. 1-2-3-4
 **Logic:** Ionosphere reflects radio waves; exosphere hosts many communication satellites.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Volcano ↔ Country**
+
+| List-I (Volcano) | List-II (Country) |
+|---|---|
+| A. Rainier | 1. Italy |
+| B. Etna | 2. Mexico |
+| C. Paricutin | 3. Philippines |
+| D. Apo | 4. USA |
+
+*Row order is not the answer code.*
+
+A. 4 1 2 3
+
+B. 1 4 2 3
+
+C. 4 2 1 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Rainier ↔ USA) B → 1 (Etna ↔ Italy) C → 2 (Paricutin ↔ Mexico) D → 3 (Apo ↔ Philippines). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List I ↔ List Ii**
+
+| List I (Moon) | List II (Planet) |
+|---|---|
+| A. Ganymede | 1. Mars |
+| B. Phobos | 2. Jupiter |
+| C. Titan | 3. Saturn |
+| D. Nix | 4. Pluto |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Ganymede ↔ Jupiter) B → 1 (Phobos ↔ Mars) C → 3 (Titan ↔ Saturn) D → 4 (Nix ↔ Pluto). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Parent Rock ↔ Metamorphic Product**
+
+| List-I (Parent rock) | List-II (Metamorphic product) |
+|---|---|
+| A. Granite | 1. Marble |
+| B. Limestone | 2. Gneiss |
+| C. Sandstone | 3. Quartzite |
+| D. Shale | 4. Slate |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Granite ↔ Gneiss) B → 1 (Limestone ↔ Marble) C → 3 (Sandstone ↔ Quartzite) D → 4 (Shale ↔ Slate). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Volcano ↔ Location**
+
+| List-I (Volcano) | List-II (Location) |
+|---|---|
+| A. Etna | 1. Ross Island / Antarctica |
+| B. Vesuvius | 2. Sicily |
+| C. Erebus | 3. Italy (mainland) |
+| D. Cotopaxi | 4. Ecuador |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 4 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Etna ↔ Sicily) B → 3 (Vesuvius ↔ Italy (mainland)) C → 1 (Erebus ↔ Ross Island / Antarctica) D → 4 (Cotopaxi ↔ Ecuador). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Volcano ↔ Country**
+
+| List-I (Volcano) | List-II (Country) |
+|---|---|
+| A. Rainier | 1. Italy |
+| B. Etna | 2. Mexico |
+| C. Paricutin | 3. Philippines |
+| D. Taal | 4. USA |
+
+*Row order is not the answer code.*
+
+A. 4 1 2 3
+
+B. 1 4 2 3
+
+C. 4 2 1 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Rainier ↔ USA) B → 1 (Etna ↔ Italy) C → 2 (Paricutin ↔ Mexico) D → 3 (Taal ↔ Philippines). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q21.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Mountain / Peak ↔ Country**
+
+| List-I (Mountain / peak) | List-II (Country) |
+|---|---|
+| A. Kinabalu | 1. Iran |
+| B. Elburz | 2. Argentina |
+| C. Aconcagua | 3. Tanzania |
+| D. Kilimanjaro | 4. Malaysia |
+
+*Row order is not the answer code.*
+
+A. 1 4 2 3
+
+B. 4 1 2 3
+
+C. 4 2 1 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Kinabalu ↔ Malaysia) B → 1 (Elburz ↔ Iran) C → 2 (Aconcagua ↔ Argentina) D → 3 (Kilimanjaro ↔ Tanzania). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q22.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Volcano ↔ Country**
+
+| List-I (Volcano) | List-II (Country) |
+|---|---|
+| A. Sabancaya | 1. Italy |
+| B. Etna | 2. Mexico |
+| C. Colima | 3. Indonesia |
+| D. Merapi | 4. Peru |
+
+*Row order is not the answer code.*
+
+A. 1 4 2 3
+
+B. 4 2 1 3
+
+C. 4 1 2 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Sabancaya ↔ Peru) B → 1 (Etna ↔ Italy) C → 2 (Colima ↔ Mexico) D → 3 (Merapi ↔ Indonesia). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q23.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Focus | 1. Point on surface above hypocentre |
+| B. Epicentre | 2. Initial rupture point inside Earth |
+| C. Seismogram | 3. Graphical record of seismic waves |
+| D. Seismograph | 4. Instrument that records waves |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Focus ↔ Initial rupture point inside Earth) B → 1 (Epicentre ↔ Point on surface above hypocentre) C → 3 (Seismogram ↔ Graphical record of seismic waves) D → 4 (Seismograph ↔ Instrument that records waves). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q24.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Feature ↔ Ring Of Fire Link**
+
+| List-I (Feature) | List-II (Ring of Fire link) |
+|---|---|
+| A. Chile | 1. Pacific-margin seismic arc |
+| B. Japan | 2. Pacific-margin seismic arc |
+| C. Kilimanjaro (East Africa) | 3. **Not** classic Ring of Fire |
+| D. Philippines | 4. Pacific-margin seismic arc |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Chile ↔ Pacific-margin seismic arc) B → 2 (Japan ↔ Pacific-margin seismic arc) C → 3 (Kilimanjaro (East Africa) ↔ **Not** classic Ring of Fire) D → 4 (Philippines ↔ Pacific-margin seismic arc). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q25.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Australia | 1. Hurricanes |
+| B. China | 2. Willy-Willy |
+| C. India | 3. Typhoons |
+| D. U.S.A. | 4. Cyclones |
+
+*Row order is not the answer code.*
+
+A. 3 2 4 1
+
+B. 2 3 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Australia ↔ Willy-Willy) B → 3 (China ↔ Typhoons) C → 4 (India ↔ Cyclones) D → 1 (U.S.A. ↔ Hurricanes). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q26.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Montreal Protocol | 1. Ozone |
+| B. Kyoto Protocol | 2. Climate / GHG |
+| C. Fujita scale | 3. Tornado |
+| D. Saffir–Simpson | 4. Hurricane |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 3 2 4
+
+C. 1 2 3 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Montreal Protocol ↔ Ozone) B → 2 (Kyoto Protocol ↔ Climate / GHG) C → 3 (Fujita scale ↔ Tornado) D → 4 (Saffir–Simpson ↔ Hurricane). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q27.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Big Bang | 1. Lemaître / Gamow; Hubble expansion |
+| B. Steady State | 2. Hoyle |
+| C. Nebular hypothesis | 3. Kant–Laplace |
+| D. Milky Way | 4. Barred spiral |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 3 2 4
+
+C. 1 2 4 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Big Bang ↔ Lemaître / Gamow; Hubble expansion) B → 2 (Steady State ↔ Hoyle) C → 3 (Nebular hypothesis ↔ Kant–Laplace) D → 4 (Milky Way ↔ Barred spiral). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q28.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Rock ↔ Details**
+
+| List-I (Rock) | List-II |
+|---|---|
+| A. Granite → | 1. Gneiss |
+| B. Limestone → | 2. Marble |
+| C. Igneous | 3. Cooled magma/lava; no fossils |
+| D. Sedimentary | 4. Layered + fossils |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Granite → ↔ Gneiss) B → 2 (Limestone → ↔ Marble) C → 3 (Igneous ↔ Cooled magma/lava; no fossils) D → 4 (Sedimentary ↔ Layered + fossils). Trap: treating table row order as the answer code.
+
+</details>
+

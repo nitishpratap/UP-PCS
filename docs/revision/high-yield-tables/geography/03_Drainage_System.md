@@ -351,29 +351,6 @@ hide:
 ---
 
 
-### Match Matrix: Rivers ↔ Tributaries & Confluences
-
-| List-I | List-II |
-|---|---|
-| A. Antecedent | 1. Follows original slope |
-| B. Superimposed | 2. Cuts rising Himalaya |
-| C. Consequent | 3. Inherited older course (e.g. Chambal) |
-| D. Subsequent | 4. Later weak-belt tributary |
-
----
-
-
-### Match Matrix: Rivers ↔ Tributaries & Confluences
-
-| List-I | List-II |
-|---|---|
-| A. Pranhita | 1. Kaveri tributary |
-| B. Hemavati | 2. Godavari tributary |
-| C. Malaprabha | 3. Krishna tributary |
-| D. Jonk | 4. Mahanadi tributary |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Ganga is the largest basin inside India. Godavari (गोदावरी) is the largest peninsular basin. Among Tapti (ताप्ती) / Narmada / Mahanadi / Cauvery alone, Mahanadi (महानदी) is the largest basin.

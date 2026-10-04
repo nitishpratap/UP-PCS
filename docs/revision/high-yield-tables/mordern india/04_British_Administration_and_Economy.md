@@ -208,53 +208,6 @@ hide:
 ---
 
 
-### Match Matrix: System ↔ Approx Share / Unit
-
-| List-I (System) | List-II (Approx share / unit) |
-|-----------------|-------------------------------|
-| A. Permanent Settlement | 1. ~51%; ryot |
-| B. Ryotwari | 2. ~19%; zamindar |
-| C. Mahalwari | 3. ~30%; village / mahal |
-| D. Istamrari | 4. Another name for Permanent Settlement |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Mayo 1870 | 1. Father of local self-government resolution |
-| B. Ripon 1882 | 2. Financial decentralisation |
-| C. Montford 1919 | 3. Actual transfer of local self-government under dyarchy |
-| D. Madras 1688 | 4. First Municipal Corporation |
-
----
-
-
-### Match Matrix: Transport Infrastructure ↔ Regions
-
-| List-I | List-II |
-|--------|---------|
-| A. Telegraph experiment | 1. 1853 |
-| B. Bombay–Thane railway | 2. 1851 (O’Shaughnessy) |
-| C. Company postal start | 3. 1774 (Hastings) |
-| D. Uniform penny postage | 4. 1854 (Dalhousie) |
-
----
-
-
-### Match Matrix: Famine / Body ↔ Tag
-
-| List-I (Famine / body) | List-II (Tag) |
-|------------------------|---------------|
-| A. 1876–78 | 1. Linlithgow / WWII Bengal |
-| B. 1943 | 2. Lytton laissez-faire |
-| C. Strachey Commission 1880 | 3. Path to Famine Codes 1883 |
-| D. Woodhead 1945 | 4. Post-1943 inquiry playing down British fault |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Ryotwari (रैयतवाड़ी बंदोबस्त, ~51%) settled revenue with the ryot (रैयत / किसान) in Madras, Bombay, Assam & Coorg (Munro (मुनरो) and Read first tested in Baramahal).
@@ -627,3 +580,66 @@ D. Naoroji 1901 — Wood’s education despatch
 **Logic:** Year/author twin trap.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**System ↔ Approx Share / Unit**
+
+| List-I (System) | List-II (Approx share / unit) |
+|---|---|
+| A. Permanent Settlement | 1. ~51%; ryot |
+| B. Ryotwari | 2. ~19%; zamindar |
+| C. Mahalwari | 3. ~30%; village / mahal |
+| D. Istamrari | 4. Another name for Permanent Settlement |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Permanent Settlement ↔ ~51%; ryot) B → 2 (Ryotwari ↔ ~19%; zamindar) C → 3 (Mahalwari ↔ ~30%; village / mahal) D → 4 (Istamrari ↔ Another name for Permanent Settlement). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Transport Infrastructure ↔ Regions**
+
+| List-I | List-II |
+|---|---|
+| A. Telegraph experiment | 1. 1853 |
+| B. Bombay–Thane railway | 2. 1851 (O’Shaughnessy) |
+| C. Company postal start | 3. 1774 (Hastings) |
+| D. Uniform penny postage | 4. 1854 (Dalhousie) |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Telegraph experiment ↔ 1851 (O’Shaughnessy)) B → 1 (Bombay–Thane railway ↔ 1853) C → 3 (Company postal start ↔ 1774 (Hastings)) D → 4 (Uniform penny postage ↔ 1854 (Dalhousie)). Trap: treating table row order as the answer code.
+
+</details>
+

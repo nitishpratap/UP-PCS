@@ -67,61 +67,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| --- | --- |
-| A. Human Development Report | 1. IMF |
-| B. World Economic Outlook | 2. UNEP |
-| C. World Investment Report | 3. UNDP |
-| D. Emissions Gap Report | 4. UNCTAD |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Keeling Curve | 1. Annual UNEP |
-| B. Emissions Gap Report | 2. Mauna Loa CO₂ since 1958 |
-| C. IPCC | 3. Science assessment; WMO+UNEP parents |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Mitigation | 1. Adjust to impacts |
-| B. Adaptation | 2. Cut emissions / grow sinks |
-| C. Net zero | 3. Balance emissions with removals |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Milankovitch | 1. Cryogenic climate archive |
-| B. Ice cores | 2. Eccentricity, obliquity, precession |
-| C. Deep Carbon Observatory | 3. Deep-Earth carbon mapping |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. India net zero | 1. 2008 |
-| B. NAPCC | 2. 2070 |
-| C. CCTS | 3. 2023 |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -454,3 +399,94 @@ D. Only argon-driven
 **Logic:** AR6 fact.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Keeling Curve | 1. Annual UNEP |
+| B. Emissions Gap Report | 2. Mauna Loa CO₂ since 1958 |
+| C. IPCC | 3. Science assessment; WMO+UNEP parents |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (Keeling Curve ↔ Mauna Loa CO₂ since 1958) B → 1 (Emissions Gap Report ↔ Annual UNEP) C → 3 (IPCC ↔ Science assessment; WMO+UNEP parents). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Mitigation | 1. Adjust to impacts |
+| B. Adaptation | 2. Cut emissions / grow sinks |
+| C. Net zero | 3. Balance emissions with removals |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3**.
+
+**Logic:** A → 1 (Mitigation ↔ Adjust to impacts) B → 2 (Adaptation ↔ Cut emissions / grow sinks) C → 3 (Net zero ↔ Balance emissions with removals). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. India net zero | 1. 2008 |
+| B. NAPCC | 2. 2070 |
+| C. CCTS | 3. 2023 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3**.
+
+**Logic:** A → 2 (India net zero ↔ 2070) B → 1 (NAPCC ↔ 2008) C → 3 (CCTS ↔ 2023). Trap: treating table row order as the answer code.
+
+</details>
+

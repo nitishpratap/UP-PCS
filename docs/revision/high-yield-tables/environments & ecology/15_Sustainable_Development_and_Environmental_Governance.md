@@ -135,39 +135,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. SDG 6 | 1. Climate |
-| B. SDG 7 | 2. Water |
-| C. SDG 13 | 3. Energy |
-| D. SDG 15 | 4. Life on land |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Brundtland Report | 1. 1972 Club of Rome |
-| B. Limits to Growth | 2. 1987 |
-| C. Rio Agenda 21 | 3. 1992 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. SDG 14 | 1. Energy |
-| B. SDG 7 | 2. Life below water |
-| C. SDG 6 | 3. Water |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -494,3 +461,95 @@ D. A UN Security Council seat
 **Logic:** ≠ carbon footprint unit only.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. SDG 6 | 1. Climate |
+| B. SDG 7 | 2. Water |
+| C. SDG 13 | 3. Energy |
+| D. SDG 15 | 4. Life on land |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (SDG 6 ↔ Water) B → 3 (SDG 7 ↔ Energy) C → 1 (SDG 13 ↔ Climate) D → 4 (SDG 15 ↔ Life on land). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Brundtland Report | 1. 1972 Club of Rome |
+| B. Limits to Growth | 2. 1987 |
+| C. Rio Agenda 21 | 3. 1992 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3**.
+
+**Logic:** A → 1 (Brundtland Report ↔ 1972 Club of Rome) B → 2 (Limits to Growth ↔ 1987) C → 3 (Rio Agenda 21 ↔ 1992). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. SDG 14 | 1. Energy |
+| B. SDG 7 | 2. Life below water |
+| C. SDG 6 | 3. Water |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3**.
+
+**Logic:** A → 2 (SDG 14 ↔ Life below water) B → 1 (SDG 7 ↔ Energy) C → 3 (SDG 6 ↔ Water). Trap: treating table row order as the answer code.
+
+</details>
+

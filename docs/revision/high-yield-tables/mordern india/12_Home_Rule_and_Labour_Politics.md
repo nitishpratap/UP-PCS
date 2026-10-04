@@ -158,53 +158,6 @@ hide:
 ---
 
 
-### Match Matrix: Feature ↔ Details
-
-| List-I (Feature) | List-II |
-|------------------|---------|
-| A. Tilak League President | 1. N.C. Kelkar |
-| B. Tilak League Secretary | 2. Joseph Baptista |
-| C. Besant’s papers | 3. *New India* and *Commonweal* |
-| D. Theosophical Society founders | 4. Blavatsky and Olcott, New York 1875 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. AITUC | 1. Congress labour wing (1947) |
-| B. INTUC | 2. CPI stream |
-| C. BMS | 3. BJP-linked (1955) |
-| D. CSP | 4. Socialists inside Congress (1934) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Morley–Minto 1909 | 1. Congress–League electoral bargain |
-| B. Lucknow Pact 1916 | 2. Muslim separate electorates created by British Act |
-| C. Montagu Declaration 1917 | 3. Responsible government as policy goal |
-| D. August Offer 1940 | 4. Wartime dominion-after-war offer with minority veto |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Rajendra Prasad on Minto | 1. ‘Father of Pakistan’ tag for communal electorates |
-| B. Annie Besant | 2. Fabian as well as Theosophist–Home Rule leader |
-| C. AITUC 1920 | 3. Lala Lajpat Rai first president |
-| D. INTUC 1947 | 4. Congress labour wing |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Tilak’s Indian Home Rule League was founded in April 1916 at Poona. Joseph Baptista (बैपटिस्टा) was President; N.C. Kelkar was Secretary.
@@ -575,3 +528,35 @@ D. 1, 2, 4, 3
 **Logic:** Electorates → two leagues → labour federation.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. AITUC | 1. Congress labour wing (1947) |
+| B. INTUC | 2. CPI stream |
+| C. BMS | 3. BJP-linked (1955) |
+| D. CSP | 4. Socialists inside Congress (1934) |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (AITUC ↔ CPI stream) B → 1 (INTUC ↔ Congress labour wing (1947)) C → 3 (BMS ↔ BJP-linked (1955)) D → 4 (CSP ↔ Socialists inside Congress (1934)). Trap: treating table row order as the answer code.
+
+</details>
+

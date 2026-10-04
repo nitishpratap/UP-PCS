@@ -80,49 +80,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. UNDP | 1. Rome; SOFO |
-| B. FAO | 2. New York; HDR/HDI |
-| C. UNESCO | 3. Paris; WH + MAB |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Emissions Gap | 1. UNDP |
-| B. HDR / HDI | 2. UNEP |
-| C. Red List | 3. IUCN |
-
----
-
-
-### Match Matrix: Minerals ↔ Major Mining Basins
-
-| List-I | List-II |
-|--------|--------|
-| A. UNESCO | 1. Environment coordination |
-| B. UNEP | 2. Heritage / education / MAB |
-| C. UNDP | 3. Development coordination |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. IUCN | 1. Living Planet |
-| B. WWF | 2. Red List |
-| C. IPCC | 3. Geneva; science ARs |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -446,3 +403,34 @@ D. 2015 Paris alone
 **Logic:** IPCC birth.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. UNDP | 1. Rome; SOFO |
+| B. FAO | 2. New York; HDR/HDI |
+| C. UNESCO | 3. Paris; WH + MAB |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (UNDP ↔ New York; HDR/HDI) B → 1 (FAO ↔ Rome; SOFO) C → 3 (UNESCO ↔ Paris; WH + MAB). Trap: treating table row order as the answer code.
+
+</details>
+

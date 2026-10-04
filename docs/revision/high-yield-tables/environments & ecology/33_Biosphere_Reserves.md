@@ -93,85 +93,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| --- | --- |
-| A. Simlipal | 1. Kerala |
-| B. Nokrek | 2. Odisha |
-| C. Agasthyamalai | 3. Assam |
-| D. Manas | 4. Meghalaya |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| --- | --- |
-| A. Manas | 1. Madhya Pradesh |
-| B. Sundarbans | 2. Uttar Pradesh |
-| C. Nanda Devi | 3. Assam |
-| D. Pachmarhi | 4. West Bengal |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| --- | --- |
-| A. Similipal | 1. Uttarakhand |
-| B. Pachmarhi | 2. Meghalaya |
-| C. Nandadevi | 3. Madhya Pradesh |
-| D. Nokrek | 4. Odisha |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. First BR (India) | 1. Great Rann of Kutch |
-| B. Largest BR | 2. Nilgiri 1986 |
-| C. Smallest BR | 3. Nokrek |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Simlipal | 1. Meghalaya |
-| B. Nokrek | 2. Odisha |
-| C. Agasthyamalai | 3. Kerala (also TN landscape) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Pachmarhi | 1. Assam |
-| B. Manas | 2. Madhya Pradesh |
-| C. Sundarbans BR | 3. West Bengal |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Core | 1. Livelihoods |
-| B. Buffer | 2. No exploitation |
-| C. Transition | 3. Limited research/education |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -500,3 +421,95 @@ D. A-3, B-1, C-2
 **Logic:** Simlipal/Nokrek/Agasthyamalai.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Simlipal | 1. Kerala |
+| B. Nokrek | 2. Odisha |
+| C. Agasthyamalai | 3. Assam |
+| D. Manas | 4. Meghalaya |
+
+*Row order is not the answer code.*
+
+A. 2 4 1 3
+
+B. 4 2 1 3
+
+C. 2 1 4 3
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 4 1 3**.
+
+**Logic:** A → 2 (Simlipal ↔ Odisha) B → 4 (Nokrek ↔ Meghalaya) C → 1 (Agasthyamalai ↔ Kerala) D → 3 (Manas ↔ Assam). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Simlipal | 1. Meghalaya |
+| B. Nokrek | 2. Odisha |
+| C. Agasthyamalai | 3. Kerala (also TN landscape) |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (Simlipal ↔ Odisha) B → 1 (Nokrek ↔ Meghalaya) C → 3 (Agasthyamalai ↔ Kerala (also TN landscape)). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Core | 1. Livelihoods |
+| B. Buffer | 2. No exploitation |
+| C. Transition | 3. Limited research/education |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 1 2 4
+
+C. 3 2 1
+
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **3 2 1**.
+
+**Logic:** A → 3 (Core ↔ Limited research/education) B → 2 (Buffer ↔ No exploitation) C → 1 (Transition ↔ Livelihoods). Trap: treating table row order as the answer code.
+
+</details>
+

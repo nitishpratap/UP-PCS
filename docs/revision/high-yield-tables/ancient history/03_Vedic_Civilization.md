@@ -212,42 +212,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Rigveda | 1. Musical hymns |
-| B. Yajurveda | 2. Hymns and rituals |
-| C. Samaveda | 3. Charms and spells |
-| D. Atharvaveda | 4. Hymns and prayers |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Rig Veda | i. Gopatha |
-| B. Samaveda | ii. Shatpatha |
-| C. Atharvaveda | iii. Aitariya |
-| D. Yajurveda | iv. Panchvisha |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Kubha | 1. Gandak |
-| B. Parushni | 2. Kabul |
-| C. Sadaneera | 3. Ravi |
-| D. Shutudri | 4. Sutlej |
-
----
-
-
 ### Match Matrix: Assembly / Official ↔ Role
 
 | List-I (Assembly / Official) | List-II (Role) |

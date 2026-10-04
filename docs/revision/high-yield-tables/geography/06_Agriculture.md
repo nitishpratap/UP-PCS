@@ -477,125 +477,6 @@ hide:
 ---
 
 
-### Major Crop Diseases & Causal Agents
-
-| List-I (Plant Disease) | List-II (Cause) |
-|---|---|
-| A. Citrus Canker | 1. Insect |
-| B. Red Rot Disease of Sugarcane | 2. Deficiency of Oxygen |
-| C. Krishnakant Disease of Potato | 3. Bacteria |
-| D. Sahu Disease of Wheat | 4. Fungus |
-
----
-
-
-### Pioneers & Architects of Indian Agriculture
-
-| List-I (Person) | List-II (Concerned with) |
-|---|---|
-| A. M. S. Swaminathan | 1. Social control on Banks |
-| B. L. K. Jha | 2. Milk Production |
-| C. Verghese Kurien | 3. Green Revolution |
-| D. Morarji Desai | 4. Economic Administration Reforms |
-
----
-
-
-### Match Matrix: Revolution ↔ Related With
-
-| List-I (Revolution) | List-II (Related with) |
-|---|---|
-| A. Golden Revolution | 1. Oilseed production |
-| B. Grey Revolution | 2. Horticulture and honey |
-| C. Yellow Revolution | 3. Petroleum production |
-| D. Black Revolution | 4. Fertilizers |
-
----
-
-
-### Match Matrix: Agricultural Revolutions ↔ Associated Sectors
-
-| List-I | List-II |
-| --- | --- |
-| A. Golden | 1. Oilseeds |
-| B. Grey | 2. Horticulture and honey |
-| C. Yellow | 3. Petroleum |
-| D. Black | 4. Fertilisers |
-
----
-
-
-### Match Matrix: Commercial Crops ↔ Leading Producing States
-
-| List-I | List-II |
-| --- | --- |
-| A. Soybean | 1. Gujarat |
-| B. Groundnut | 2. Madhya Pradesh |
-| C. Mustard | 3. Rajasthan |
-| D. Gram (often) | 4. Madhya Pradesh (leader belt) |
-
----
-
-
-### Shifting Cultivation (Jhum) Regional Terminology
-
-| List-I | List-II |
-| --- | --- |
-| A. Jhum | 1. Western Ghats |
-| B. Kumari | 2. North-East India |
-| C. Waltre | 3. Madhya Pradesh–Chhattisgarh |
-| D. Dahiya | 4. South-East Rajasthan |
-
----
-
-
-### Match Matrix: Board ↔ Hq
-
-| List-I (Board) | List-II (HQ) |
-| --- | --- |
-| A. Coffee Board | 1. Kottayam |
-| B. Rubber Board | 2. Bengaluru |
-| C. Tea Board | 3. Guntur |
-| D. Tobacco Board | 4. Kolkata |
-
----
-
-
-### Match Matrix: Millets & Oilseeds ↔ Major Producer Hubs
-
-| List-I | List-II |
-|---|---|
-| A. Jowar | 1. Rajasthan |
-| B. Bajra | 2. Maharashtra |
-| C. Ragi | 3. Karnataka |
-| D. Groundnut | 4. Gujarat |
-
----
-
-
-### Match Matrix: Agricultural Pioneers ↔ Revolutionary Contributions
-
-| List-I | List-II |
-|---|---|
-| A. M.S. Swaminathan | 1. White Revolution / NDDB / Amul |
-| B. Verghese Kurien | 2. Green / Evergreen face |
-| C. Norman Borlaug | 3. Nobel Peace |
-| D. Hiralal Chaudhuri | 4. Blue Revolution (fish) |
-
----
-
-
-### High-Yield Match Matrix
-
-| List-I | List-II |
-|---|---|
-| A. Coffee | 1. Kottayam |
-| B. Tea | 2. Bengaluru |
-| C. Rubber | 3. Kolkata |
-| D. Tobacco | 4. Guntur |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Net sown area (NSA) is land sown at least once a year. Gross cropped area (GCA) counts every sowing. Cropping intensity = GCA / NSA × 100 (about 111% in 1950–51 to about 156% now). About 86% of holdings are small or marginal, and about half of NSA is still rainfed.
@@ -1157,3 +1038,128 @@ D. 1, 2 and 3
 
 **Ans: D** — All 1, 2 and 3 are correct. UP leads nationally in sugarcane (~45%), wheat (~32%), and potato (~30%). Jammu & Kashmir (particularly the karewa plateau of Pampore, Pulwama) is the sole commercial grower of saffron in India. Karnataka produces over 70% of India's coffee (predominantly Arabica and Robusta in Kodagu, Chikkamagaluru, and Hassan), followed by Kerala and Tamil Nadu.
 </details>
+
+**Q31.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Revolution ↔ Related With**
+
+| List-I (Revolution) | List-II (Related with) |
+|---|---|
+| A. Golden Revolution | 1. Oilseed production |
+| B. Grey Revolution | 2. Horticulture and honey |
+| C. Yellow Revolution | 3. Petroleum production |
+| D. Black Revolution | 4. Fertilizers |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Golden Revolution ↔ Horticulture and honey) B → 1 (Grey Revolution ↔ Oilseed production) C → 4 (Yellow Revolution ↔ Fertilizers) D → 3 (Black Revolution ↔ Petroleum production). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q32.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Agricultural Revolutions ↔ Associated Sectors**
+
+| List-I | List-II |
+|---|---|
+| A. Golden | 1. Oilseeds |
+| B. Grey | 2. Horticulture and honey |
+| C. Yellow | 3. Petroleum |
+| D. Black | 4. Fertilisers |
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 4 1 3**.
+
+**Logic:** A → 2 (Golden ↔ Horticulture and honey) B → 4 (Grey ↔ Fertilisers) C → 1 (Yellow ↔ Oilseeds) D → 3 (Black ↔ Petroleum). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q33.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Millets & Oilseeds ↔ Major Producer Hubs**
+
+| List-I | List-II |
+|---|---|
+| A. Jowar | 1. Rajasthan |
+| B. Bajra | 2. Maharashtra |
+| C. Ragi | 3. Karnataka |
+| D. Groundnut | 4. Gujarat |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Jowar ↔ Maharashtra) B → 1 (Bajra ↔ Rajasthan) C → 3 (Ragi ↔ Karnataka) D → 4 (Groundnut ↔ Gujarat). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q34.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Agricultural Pioneers ↔ Revolutionary Contributions**
+
+| List-I | List-II |
+|---|---|
+| A. M.S. Swaminathan | 1. White Revolution / NDDB / Amul |
+| B. Verghese Kurien | 2. Green / Evergreen face |
+| C. Norman Borlaug | 3. Nobel Peace |
+| D. Hiralal Chaudhuri | 4. Blue Revolution (fish) |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (M.S. Swaminathan ↔ Green / Evergreen face) B → 1 (Verghese Kurien ↔ White Revolution / NDDB / Amul) C → 3 (Norman Borlaug ↔ Nobel Peace) D → 4 (Hiralal Chaudhuri ↔ Blue Revolution (fish)). Trap: treating table row order as the answer code.
+
+</details>
+

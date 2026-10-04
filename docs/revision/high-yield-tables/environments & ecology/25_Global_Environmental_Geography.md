@@ -106,85 +106,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| --- | --- |
-| A. Planting Hearth | 1. Hungary |
-| B. Cryophyte Steppe | 2. Adolf Engler |
-| C. World Floral Regions | 3. C.O. Sauer |
-| D. Puszta Grassland | 4. Arctic Tundra |
-
----
-
-
-### Match Matrix: Natural Vegetation ↔ Region
-
-| List-I (Natural Vegetation) | List-II (Region) |
-| --- | --- |
-| A. Epiphytes | 1. Mediterranean |
-| B. Acacia | 2. Equatorial |
-| C. Baobab | 3. Sahara |
-| D. Cedars | 4. Savanna |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. A | 1. Arid |
-| B. B | 2. Tropical |
-| C. C | 3. Temperate |
-| D. E | 4. Polar |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Planting Hearth | 1. Adolf Engler |
-| B. World Floral Regions | 2. C.O. Sauer |
-| C. Puszta | 3. Hungary grassland |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Tropical rainforest | 1. <25 cm rain |
-| B. Desert | 2. Amazon Selva |
-| C. Savanna | 3. Tropical grass with trees |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Masai | 1. Congo |
-| B. Pygmy | 2. East Africa |
-| C. Bushman | 3. Kalahari |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Taiga | 1. Tropical grass+trees |
-| B. Tundra | 2. Boreal conifer |
-| C. Savanna | 3. Moss–lichen treeless |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -521,3 +442,156 @@ D. A-3, B-1, C-2
 **Logic:** East Africa/Congo/Kalahari.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Planting Hearth | 1. Hungary |
+| B. Cryophyte Steppe | 2. Adolf Engler |
+| C. World Floral Regions | 3. C.O. Sauer |
+| D. Puszta Grassland | 4. Arctic Tundra |
+
+*Row order is not the answer code.*
+
+A. 3 4 2 1
+
+B. 4 3 2 1
+
+C. 3 2 4 1
+
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **3 4 2 1**.
+
+**Logic:** A → 3 (Planting Hearth ↔ C.O. Sauer) B → 4 (Cryophyte Steppe ↔ Arctic Tundra) C → 2 (World Floral Regions ↔ Adolf Engler) D → 1 (Puszta Grassland ↔ Hungary). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. A | 1. Arid |
+| B. B | 2. Tropical |
+| C. C | 3. Temperate |
+| D. E | 4. Polar |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (A ↔ Tropical) B → 1 (B ↔ Arid) C → 3 (C ↔ Temperate) D → 4 (E ↔ Polar). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Planting Hearth | 1. Adolf Engler |
+| B. World Floral Regions | 2. C.O. Sauer |
+| C. Puszta | 3. Hungary grassland |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3**.
+
+**Logic:** A → 2 (Planting Hearth ↔ C.O. Sauer) B → 1 (World Floral Regions ↔ Adolf Engler) C → 3 (Puszta ↔ Hungary grassland). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Tropical rainforest | 1. <25 cm rain |
+| B. Desert | 2. Amazon Selva |
+| C. Savanna | 3. Tropical grass with trees |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 4 3
+
+D. 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 3**.
+
+**Logic:** A → 2 (Tropical rainforest ↔ Amazon Selva) B → 1 (Desert ↔ <25 cm rain) C → 3 (Savanna ↔ Tropical grass with trees). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Taiga | 1. Tropical grass+trees |
+| B. Tundra | 2. Boreal conifer |
+| C. Savanna | 3. Moss–lichen treeless |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (Taiga ↔ Tropical grass+trees) B → 2 (Tundra ↔ Boreal conifer) C → 3 (Savanna ↔ Moss–lichen treeless). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -126,29 +126,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Global Peace Index | 1. NITI Aayog |
-| B. World Happiness Report | 2. Institute for Economics and Peace |
-| C. SDG India Index | 3. Gallup-based happiness ranking |
-| D. Doing Business (historical) | 4. World Bank |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. IBC | 1. Real-estate regulation |
-| B. RERA | 2. Insolvency resolution |
-| C. FEMA | 3. Forex management |
-| D. PMLA | 4. Money-laundering law |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Economic Survey 2022–23: response to supply shocks included reducing taxes on fuel and certain imported products.

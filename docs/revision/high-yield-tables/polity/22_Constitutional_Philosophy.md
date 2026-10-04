@@ -160,41 +160,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Gopalan (1950) | 1. Fair/just/reasonable; 14-19-21 together |
-| B. Maneka (1978) | 2. Any procedure in a valid law; FRs in silos |
-| C. Dicey limb 3 | 3. UK story India rejects |
-| D. Art. 50 | 4. DPSP — judiciary↔executive in public services |
-
----
-
-
-### Match Matrix: Preamble Justice ↔ Article Map
-
-| List-I (Preamble justice) | List-II (Article map) |
-|---------------------------|------------------------|
-| A. Social | 1. Article 39 |
-| B. Economic | 2. Articles 15/17 |
-| C. Political | 3. Article 326 |
-| D. Fraternity theme | 4. Dignity + unity and integrity |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Procedural due process | 1. Even a tidy procedure cannot save an unjust law |
-| B. Substantive due process | 2. Hearing / notice / unbiased judge |
-| C. Art. 53 / 79 / 124 | 3. Vesting lines for executive / Parliament / SC |
-| D. Montesquieu | 4. Separation of powers classic |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Constitutionalism means limited government under a higher law. Merely having a written constitution booklet is not enough by itself.
@@ -518,3 +483,35 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Puttaswamy’s overruling line explains why Jabalpur is remembered as constitutionalism’s failure case.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Gopalan (1950) | 1. Fair/just/reasonable; 14-19-21 together |
+| B. Maneka (1978) | 2. Any procedure in a valid law; FRs in silos |
+| C. Dicey limb 3 | 3. UK story India rejects |
+| D. Art. 50 | 4. DPSP — judiciary↔executive in public services |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Gopalan (1950) ↔ Any procedure in a valid law; FRs in silos) B → 3 (Maneka (1978) ↔ UK story India rejects) C → 1 (Dicey limb 3 ↔ Fair/just/reasonable; 14-19-21 together) D → 4 (Art. 50 ↔ DPSP — judiciary↔executive in public services). Trap: treating table row order as the answer code.
+
+</details>
+

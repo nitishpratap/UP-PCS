@@ -109,53 +109,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Adam Smith | 1. First NITI Vice-Chairperson |
-| B. Keynes | 2. Father of Economics (usual tag) |
-| C. Panagariya | 3. Modern macroeconomics landmark |
-| D. Mahalanobis | 4. Second Plan industry model |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. GDP | 1. GDP − depreciation |
-| B. GNP | 2. Domestic territory final output |
-| C. NDP | 3. GNP − depreciation |
-| D. NNP | 4. GDP + NFIA (teaching) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. First Plan | 1. Heavy industry / Mahalanobis |
-| B. Second Plan | 2. Agriculture / irrigation emphasis |
-| C. Eleventh Plan | 3. Inclusive growth slogan |
-| D. Twelfth Plan | 4. Inclusive + sustainable growth tag |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Bombay Plan | 1. Sriman Narayan Agarwal |
-| B. Gandhian Plan | 2. Industrialists (Tata, Birla, Shri Ram…) |
-| C. Sarvodaya Plan | 3. Subhash Chandra Bose / Nehru NPC link |
-| D. National Planning Committee (1938) | 4. Jayaprakash Narayan |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Adam Smith is commonly called the Father of Economics. J.M. Keynes is the father of modern macroeconomics, not the blanket “Father of Economics” tag.
@@ -426,3 +379,35 @@ C. equal to savings rate
 **Ans: B.** In the Tenth Five Year Plan investment rate was higher than savings rate.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Bombay Plan | 1. Sriman Narayan Agarwal |
+| B. Gandhian Plan | 2. Industrialists (Tata, Birla, Shri Ram…) |
+| C. Sarvodaya Plan | 3. Subhash Chandra Bose / Nehru NPC link |
+| D. National Planning Committee (1938) | 4. Jayaprakash Narayan |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Bombay Plan ↔ Industrialists (Tata, Birla, Shri Ram…)) B → 1 (Gandhian Plan ↔ Sriman Narayan Agarwal) C → 4 (Sarvodaya Plan ↔ Jayaprakash Narayan) D → 3 (National Planning Committee (1938) ↔ Subhash Chandra Bose / Nehru NPC link). Trap: treating table row order as the answer code.
+
+</details>
+

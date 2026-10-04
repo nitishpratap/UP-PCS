@@ -129,38 +129,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. IUCN | 1. Wildlife trade |
-| B. CITES | 2. Extinction risk |
-| C. Ramsar | 3. Wetlands / Wise Use |
-
----
-
-
-### Match Matrix: Rivers ↔ Tributaries & Confluences
-
-| List-I | List-II |
-|--------|--------|
-| A. Gangetic dolphin | 1. High Himalaya |
-| B. Snow leopard | 2. Freshwater river dolphin |
-| C. Barasingha | 3. Dudhwa Terai teaching |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. MISHTI | 1. 2 February |
-| B. Wetlands Day | 2. Budget 2023–24 |
-| C. Coral bleaching | 3. Warming / zooxanthellae loss |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -495,3 +463,34 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Risk vs trade.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. MISHTI | 1. 2 February |
+| B. Wetlands Day | 2. Budget 2023–24 |
+| C. Coral bleaching | 3. Warming / zooxanthellae loss |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (MISHTI ↔ Budget 2023–24) B → 1 (Wetlands Day ↔ 2 February) C → 3 (Coral bleaching ↔ Warming / zooxanthellae loss). Trap: treating table row order as the answer code.
+
+</details>
+

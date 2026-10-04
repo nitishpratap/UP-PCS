@@ -148,17 +148,6 @@ hide:
 ---
 
 
-### Match Matrix: Heart Structure / Chamber ↔ Specific Physiological Valve / Vessel
-
-| List-I (Heart Structure / Chamber) | List-II (Specific Physiological Valve / Vessel) |
-|---|---|
-| A. Right Atrioventricular Orifice | 1. Mitral (Bicuspid) Valve |
-| B. Left Atrioventricular Orifice | 2. Tricuspid Valve |
-| C. Exit of Right Ventricle | 3. Ascending Aorta (Aortic Semilunar) |
-| D. Exit of Left Ventricle | 4. Pulmonary Artery (Pulmonary Semilunar) |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Erythrocytes (Red Blood Cells / RBCs): Normal count is 5.0–5.5 million / $\mathbf{mm^3}$ in males and 4.5–5.0 million / $\text{mm}^3$ in females; mature mammalian RBCs are biconcave, circular, and enucleated (lack nucleus, mitochondria, and Golgi bodies; Camel and Llama are exceptions: their RBCs are oval and nucleated).

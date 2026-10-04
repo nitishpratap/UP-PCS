@@ -145,18 +145,6 @@ hide:
 ---
 
 
-### Match Matrix: Coal Field ↔ Country
-
-| List-I (Coal Field) | List-II (Country) |
-|---------------------|-------------------|
-| A. Appalachian | 1. England |
-| B. Lancashire | 2. Germany |
-| C. Ruhr | 3. Russia |
-| D. Kuzbass | 4. USA |
-
----
-
-
 ### Comparative Matrix: Ore ↔ Colour ↔ Fe
 
 | Ore | Colour | Fe | Fact |
@@ -445,65 +433,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Coal Field ↔ Country
-
-| List-I (Coal Field) | List-II (Country) |
-|---------------------|-------------------|
-| A. Appalachian | 1. England |
-| B. Lancashire | 2. Germany |
-| C. Ruhr | 3. Russia |
-| D. Kuzbass | 4. USA |
-
----
-
-
-### Match Matrix: Field / Place ↔ Mineral
-
-| List-I (Field / place) | List-II (Mineral) |
-|-------------------------|-------------------|
-| A. Mount Newman / Pilbara | 1. Tin |
-| B. Kinta Valley | 2. Iron |
-| C. Postmasburg | 3. Gold |
-| D. Witwatersrand | 4. Manganese |
-
----
-
-
-### Match Matrix: Minerals ↔ Major Mining Basins
-
-| List-I | List-II |
-|--------|--------|
-| A. Weipa | 1. Phosphate |
-| B. Morocco | 2. Bauxite |
-| C. Broken Hill | 3. Pb–Zn (Australia) |
-| D. Sudbury | 4. Ni + Cu (Canada) |
-
----
-
-
-### Match Matrix: Field ↔ Country
-
-| List-I (Field) | List-II (Country) |
-|-----------------|-------------------|
-| A. Donetsk | 1. Iraq |
-| B. Kirkuk / Zubair | 2. Ukraine |
-| C. Baku | 3. Azerbaijan |
-| D. North Sea belt | 4. UK–Norway |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Dhahran | 1. Iran |
-| B. Haft Kel | 2. Saudi Arabia |
-| C. Zubair | 3. Iraq |
-| D. Karaganda | 4. Kazakhstan (coal renown) |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -854,3 +783,190 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Shield vs basin is a general rule; Karaganda is a separate coal fact.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Coal Field ↔ Country**
+
+| List-I (Coal Field) | List-II (Country) |
+|---|---|
+| A. Appalachian | 1. England |
+| B. Lancashire | 2. Germany |
+| C. Ruhr | 3. Russia |
+| D. Kuzbass | 4. USA |
+
+*Row order is not the answer code.*
+
+A. 4 1 2 3
+
+B. 1 4 2 3
+
+C. 4 2 1 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Appalachian ↔ USA) B → 1 (Lancashire ↔ England) C → 2 (Ruhr ↔ Germany) D → 3 (Kuzbass ↔ Russia). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Coal Field ↔ Country**
+
+| List-I (Coal Field) | List-II (Country) |
+|---|---|
+| A. Appalachian | 1. England |
+| B. Lancashire | 2. Germany |
+| C. Ruhr | 3. Russia |
+| D. Kuzbass | 4. USA |
+
+*Row order is not the answer code.*
+
+A. 1 4 2 3
+
+B. 4 1 2 3
+
+C. 4 2 1 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Appalachian ↔ USA) B → 1 (Lancashire ↔ England) C → 2 (Ruhr ↔ Germany) D → 3 (Kuzbass ↔ Russia). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Field / Place ↔ Mineral**
+
+| List-I (Field / place) | List-II (Mineral) |
+|---|---|
+| A. Mount Newman / Pilbara | 1. Tin |
+| B. Kinta Valley | 2. Iron |
+| C. Postmasburg | 3. Gold |
+| D. Witwatersrand | 4. Manganese |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Mount Newman / Pilbara ↔ Iron) B → 1 (Kinta Valley ↔ Tin) C → 4 (Postmasburg ↔ Manganese) D → 3 (Witwatersrand ↔ Gold). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Minerals ↔ Major Mining Basins**
+
+| List-I | List-II |
+|---|---|
+| A. Weipa | 1. Phosphate |
+| B. Morocco | 2. Bauxite |
+| C. Broken Hill | 3. Pb–Zn (Australia) |
+| D. Sudbury | 4. Ni + Cu (Canada) |
+
+*Row order is not the answer code.*
+
+A. 1 3 2 4
+
+B. 3 2 1 4
+
+C. 3 1 4 2
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **3 1 2 4**.
+
+**Logic:** A → 3 (Weipa ↔ Pb–Zn (Australia)) B → 1 (Morocco ↔ Phosphate) C → 2 (Broken Hill ↔ Bauxite) D → 4 (Sudbury ↔ Ni + Cu (Canada)). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Field ↔ Country**
+
+| List-I (Field) | List-II (Country) |
+|---|---|
+| A. Donetsk | 1. Iraq |
+| B. Kirkuk / Zubair | 2. Ukraine |
+| C. Baku | 3. Azerbaijan |
+| D. North Sea belt | 4. UK–Norway |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Donetsk ↔ Ukraine) B → 1 (Kirkuk / Zubair ↔ Iraq) C → 3 (Baku ↔ Azerbaijan) D → 4 (North Sea belt ↔ UK–Norway). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q21.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Dhahran | 1. Iran |
+| B. Haft Kel | 2. Saudi Arabia |
+| C. Zubair | 3. Iraq |
+| D. Karaganda | 4. Kazakhstan (coal renown) |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Dhahran ↔ Saudi Arabia) B → 1 (Haft Kel ↔ Iran) C → 3 (Zubair ↔ Iraq) D → 4 (Karaganda ↔ Kazakhstan (coal renown)). Trap: treating table row order as the answer code.
+
+</details>
+

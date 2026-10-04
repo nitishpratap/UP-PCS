@@ -155,17 +155,6 @@ hide:
 ---
 
 
-### Match Matrix: Organ / Cell Type ↔ Key Secretion / Function
-
-| List-I (Organ / Cell Type) | List-II (Key Secretion / Function) |
-|---|---|
-| A. Parietal (Oxyntic) cells | 1. Emulsifying bile salts |
-| B. Gastric Chief cells | 2. Hydrochloric acid & Intrinsic factor |
-| C. Liver hepatocytes | 3. Pepsinogen |
-| D. Intestinal Villi Lacteals | 4. Absorption of Chylomicrons / Fats |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Tooth Enamel is the hardest substance in the human body; secreted by specialized epithelial cells called Ameloblasts; composed of 96% inorganic mineral crystals of Calcium Hydroxyapatite; dentine is secreted by Odontoblasts.

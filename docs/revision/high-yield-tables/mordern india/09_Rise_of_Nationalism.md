@@ -230,53 +230,6 @@ hide:
 ---
 
 
-### Match Matrix: Session ↔ Fact
-
-| List-I (Session) | List-II (Fact) |
-|------------------|----------------|
-| A. Madras 1887 | 1. First English President |
-| B. Allahabad 1888 | 2. First Muslim President |
-| C. Calcutta 1917 | 3. First woman President |
-| D. Kanpur 1925 | 4. First Indian woman President |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Safety Valve Theory | 1. Wealth outflow from India |
-| B. Drain Theory | 2. Hume as a British vent for discontent |
-| C. Un-British rule | 3. Raj betraying British liberal ideals |
-| D. Valentine Chirol on Tilak | 4. ‘Father of Indian Unrest’ |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Bombay 1885 | 1. Dadabhai Naoroji; Swaraj as goal |
-| B. Calcutta 1906 | 2. W.C. Bonnerjee; first session |
-| C. Lahore 1929 | 3. Jawaharlal Nehru; Purna Swaraj |
-| D. Karachi 1931 | 4. Vallabhbhai Patel; Fundamental Rights |
-
----
-
-
-### Match Matrix: Association ↔ Founder / Place Tag
-
-| List-I (Association) | List-II (Founder / place tag) |
-|----------------------|-------------------------------|
-| A. East India Association | 1. Banerjee–Bose; Calcutta 1876 |
-| B. Indian Association | 2. Naoroji; London 1866 |
-| C. Madras Mahajan Sabha | 3. 1884 Madras body |
-| D. Bombay Presidency Association | 4. 1885; Mehta–Telang–Tyabji |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Safety Valve Theory (सेफ्टी वाल्व) treats Hume as a British vent for discontent. The rival view is that Congress grew from decades of Indian political work.
@@ -646,3 +599,35 @@ D. A-2, B-1, C-4, D-3
 **Logic:** East India Association / Indian Association is the highest-yield swap.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Association ↔ Founder / Place Tag**
+
+| List-I (Association) | List-II (Founder / place tag) |
+|---|---|
+| A. East India Association | 1. Banerjee–Bose; Calcutta 1876 |
+| B. Indian Association | 2. Naoroji; London 1866 |
+| C. Madras Mahajan Sabha | 3. 1884 Madras body |
+| D. Bombay Presidency Association | 4. 1885; Mehta–Telang–Tyabji |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (East India Association ↔ Naoroji; London 1866) B → 1 (Indian Association ↔ Banerjee–Bose; Calcutta 1876) C → 3 (Madras Mahajan Sabha ↔ 1884 Madras body) D → 4 (Bombay Presidency Association ↔ 1885; Mehta–Telang–Tyabji). Trap: treating table row order as the answer code.
+
+</details>
+

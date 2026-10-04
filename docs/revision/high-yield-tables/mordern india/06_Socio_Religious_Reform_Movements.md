@@ -223,53 +223,6 @@ hide:
 ---
 
 
-### Match Matrix: Person ↔ Institution / Year
-
-| List-I (Person) | List-II (Institution / year) |
-|-----------------|------------------------------|
-| A. Jyotiba Phule | 1. Prarthana Samaj, 1867 |
-| B. Atmaram Pandurang | 2. Satyashodhak Samaj, 1873 |
-| C. Vivekananda | 3. Ramakrishna Mission, 1897 |
-| D. Dayanand | 4. Arya Samaj, 1875 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Singh Sabha (Amritsar) | 1. 1875, Aligarh |
-| B. MAO College | 2. 1873 |
-| C. Pandita Ramabai — Sharada Sadan | 3. 1889 |
-| D. Self-Respect Movement | 4. 1925 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Dev Samaj | 1. Radhakant Deb, 1830 |
-| B. Dharma Sabha | 2. Shiv Narayan Agnihotri, Lahore 1887 |
-| C. Lokahitwadi | 3. Gokhale, 1905 |
-| D. Servants of India Society | 4. Gopal Hari Deshmukh |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Bahishkrit Hitakarini Sabha | 1. 1851, Bombay |
-| B. Rahnumai Mazdayasnan Sabha | 2. Ambedkar, 1924 |
-| C. Central Hindu College | 3. Annie Besant / Bhagwan Das, 1898 |
-| D. Tattvabodhini Sabha | 4. Debendranath Tagore, 1839 |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Raja Ram Mohan Roy founded Atmiya Sabha (1815) and Brahmo Sabha / Brahmo Samaj (1828). He campaigned against Sati; Bentinck (बेंटिंक) banned Sati in 1829.
@@ -647,3 +600,128 @@ D. 1 and 3
 **Logic:** Phule is Maharashtra anti-caste — not Brahmo Bengal.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Person ↔ Institution / Year**
+
+| List-I (Person) | List-II (Institution / year) |
+|---|---|
+| A. Jyotiba Phule | 1. Prarthana Samaj, 1867 |
+| B. Atmaram Pandurang | 2. Satyashodhak Samaj, 1873 |
+| C. Vivekananda | 3. Ramakrishna Mission, 1897 |
+| D. Dayanand | 4. Arya Samaj, 1875 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Jyotiba Phule ↔ Satyashodhak Samaj, 1873) B → 1 (Atmaram Pandurang ↔ Prarthana Samaj, 1867) C → 3 (Vivekananda ↔ Ramakrishna Mission, 1897) D → 4 (Dayanand ↔ Arya Samaj, 1875). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Singh Sabha (Amritsar) | 1. 1875, Aligarh |
+| B. MAO College | 2. 1873 |
+| C. Pandita Ramabai — Sharada Sadan | 3. 1889 |
+| D. Self-Respect Movement | 4. 1925 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Singh Sabha (Amritsar) ↔ 1873) B → 1 (MAO College ↔ 1875, Aligarh) C → 3 (Pandita Ramabai — Sharada Sadan ↔ 1889) D → 4 (Self-Respect Movement ↔ 1925). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Dev Samaj | 1. Radhakant Deb, 1830 |
+| B. Dharma Sabha | 2. Shiv Narayan Agnihotri, Lahore 1887 |
+| C. Lokahitwadi | 3. Gokhale, 1905 |
+| D. Servants of India Society | 4. Gopal Hari Deshmukh |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Dev Samaj ↔ Shiv Narayan Agnihotri, Lahore 1887) B → 1 (Dharma Sabha ↔ Radhakant Deb, 1830) C → 4 (Lokahitwadi ↔ Gopal Hari Deshmukh) D → 3 (Servants of India Society ↔ Gokhale, 1905). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Bahishkrit Hitakarini Sabha | 1. 1851, Bombay |
+| B. Rahnumai Mazdayasnan Sabha | 2. Ambedkar, 1924 |
+| C. Central Hindu College | 3. Annie Besant / Bhagwan Das, 1898 |
+| D. Tattvabodhini Sabha | 4. Debendranath Tagore, 1839 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Bahishkrit Hitakarini Sabha ↔ Ambedkar, 1924) B → 1 (Rahnumai Mazdayasnan Sabha ↔ 1851, Bombay) C → 3 (Central Hindu College ↔ Annie Besant / Bhagwan Das, 1898) D → 4 (Tattvabodhini Sabha ↔ Debendranath Tagore, 1839). Trap: treating table row order as the answer code.
+
+</details>
+

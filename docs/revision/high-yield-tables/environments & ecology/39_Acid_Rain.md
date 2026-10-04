@@ -76,49 +76,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Wet deposition | 1. Acidic gases/particles without rain |
-| B. Dry deposition | 2. Rain/snow/fog |
-| C. Main strong path | 3. SO₂ → H₂SO₄ (and NOx → HNO₃) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. FGD | 1. Cleaner fuel neighbourhood |
-| B. BS-VI | 2. Flue-gas desulphurisation |
-| C. Catalytic converters | 3. Cut NOx/others in vehicles |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. H₂SO₄ path | 1. NOx |
-| B. HNO₃ path | 2. SO₂ |
-| C. Weak baseline | 3. CO₂ → H₂CO₃ |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Acid rain pH | 1. ~5.6 |
-| B. Normal rain pH | 2. <5.6 |
-| C. Neutral | 3. 7 |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -443,3 +400,34 @@ D. Only UNCCD LDN
 **Logic:** Geography tool.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Acid rain pH | 1. ~5.6 |
+| B. Normal rain pH | 2. <5.6 |
+| C. Neutral | 3. 7 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (Acid rain pH ↔ <5.6) B → 1 (Normal rain pH ↔ ~5.6) C → 3 (Neutral ↔ 7). Trap: treating table row order as the answer code.
+
+</details>
+

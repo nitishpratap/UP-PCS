@@ -198,74 +198,6 @@ hide:
 ---
 
 
-### Match Matrix: Soil Type ↔ State / Region
-
-| List-I (Soil Type) | List-II (State / Region) |
-|:---|:---|
-| A. Alluvial soil | 1. Western Rajasthan |
-| B. Black (Regur) soil | 2. Malabar coast (Kerala) |
-| C. Laterite soil | 3. Uttar Pradesh |
-| D. Desert soil | 4. Maharashtra |
-
----
-
-#### 1. Core Physical & Pedological Diagnostic Triggers
-
-| Diagnostic Clue / Trigger Keyword in Stem | Target Soil / Formation | Key Scientific Rationale & Mechanism | Examiner's Trap / Distractor |
-|:---|:---|:---|:---|
-| **"Self-ploughing"** *(स्वतः जुताई)* / deep polygonal fissures when dry, swelling & unctuous/sticky when wet | **Black Soil / Regur**<br>*(काली / रेगुर मृदा)* | High content of **montmorillonite** clay mineral; swells substantially on hydration, shrinks and cracks wide on drying, causing natural soil churning. | Not alluvial clay; not peaty soil. |
-| **"High moisture retention"** / retains subsoil moisture for months; sustains rainfed rabi crops long after rains cease | **Black Soil / Regur**<br>*(काली / रेगुर मृदा)* | Extremely fine, tight argillaceous texture and high capillary water-holding capacity. | Do not pick Alluvial or Red soil (both drain significantly faster). |
-| **"Bakes like brick"** upon exposure to sun and drying / alternate wet-and-dry tropical leaching | **Laterite Soil**<br>*(लेटराइट मृदा)* | Latin *later* = brick; intense tropical leaching washes away silica and bases (*desilication*), leaving an indurated residual crust of iron and aluminium oxides. | **Trap:** Red soil looks red from iron diffusion, but does **not** bake into rock-hard building bricks. |
-| **"River-borne transported sediments"** / *khadar* (newer, light, annual flood silt) vs *bangar* (older, clayey, terrace alluvium) | **Alluvial Soil**<br>*(जलोढ़ मृदा)* | Deposited by Himalayan and Peninsular rivers; azonal soil covering ~40% (NCERT) to ~46% of India's plain area. | UP and Bihar are overwhelmingly alluvial; do not assume all plain soils are homogeneous bangar. |
-| **"Kankar nodules"** *(कंकड़ / Calcareous nodules)* in lower horizons / impure calcium carbonate concretions | **Old Alluvium (Bangar)** OR **Arid Soil** | Downward leaching and precipitation of calcium carbonate (CaCO₃) in subsoil under sub-humid to arid regimes. | *Khadar* (new alluvium) is completely devoid of kankar; kankar is characteristic of *Bangar*. |
-| **"Thick sandy texture + high soluble salts + impermeable subsoil kankar layer"** | **Desert / Arid Soil**<br>*(मरुस्थलीय मृदा)* | Mechanical disintegration dominates over chemical decay under arid conditions; high evaporation draws salts upward; kankar layer restricts root penetration. | Not permanently barren; highly productive when irrigated (e.g., Indira Gandhi Canal command area). |
-| **"Thin, skeletal, immature profile on steep slopes"** / highly vulnerable to sheet erosion | **Mountain & Forest Soil**<br>*(पर्वतीय मृदा)* | Relief and slope prevent horizon maturation; azonal/skeletal; acidic with raw un-decomposed humus in snow-bound belts; fertile in valley bottoms. | Not regur; not transported plains alluvium. |
-| **"Waterlogged organic mass"** / high humus (40–50%) / dark, heavy, acidic / submerged lowlands | **Peaty & Marshy Soil**<br>*(पीट एवं दलदली मृदा)* | Anaerobic conditions in humid wetlands prevent bacterial oxidation of dead plant matter (e.g., Kuttanad 'Kari' in Kerala). | **Trap:** Dark/black color is from decaying organic humus, **not** basaltic volcanic ash or regur titaniferous magnetite! |
-
----
-
-#### 2. Chemical Fingerprints & Remediation Triggers
-
-| Diagnostic Clue / Chemical Trait in Stem | Soil Type / Problem Class | Required Soil Amendment / Remedy | Examiner's Trap |
-|:---|:---|:---|:---|
-| **White salt efflorescence / crust** on surface (*Reh, Kallar, Thur, Luni, Chopan*) | **Saline Soil**<br>*(लवणीय मृदा / Solonchak)* | Leaching with fresh water + installing underground sub-surface tile drainage; salt-tolerant crops (barley, cotton). | Do not add lime or chemical precipitants; physical flushing and drainage are essential. |
-| **High exchangeable sodium (Na⁺) / pH > 8.5** / black alkali spots (*Usar*) | **Alkaline / Sodic Soil**<br>*(क्षारीय मृदा / Solonetz)* | **Gypsum (CaSO₄·2H₂O)** or Iron Pyrites (FeS₂) to replace exchangeable Na⁺ with Ca²⁺. | **Major Trap:** Adding Lime (CaCO₃) worsens alkaline soil! Lime is exclusively for acidic soils. |
-| **Low soil pH (< 5.5) / high acidity** / strong leaching of bases | **Acidic Soil**<br>*(अम्लीय मृदा - Laterite / Hill soils)* | **Agricultural Lime** (Quicklime CaO, Slaked lime Ca(OH)₂, or Limestone CaCO₃), Dolomite, or Wood Ash. | Never prescribe gypsum for acidic soils; gypsum does not raise soil pH significantly. |
-| **Rich in Potash and Lime, but universally deficient in Nitrogen, Phosphorus & Humus** | **Alluvial & Black Soils of India** | Supplement with NPK fertilizers (ideal Indian ratio **4:2:1**); green manuring with *Dhaincha* or *Sunnhemp*. | Almost all Indian soils (except peaty/forest) are inherently deficient in **Nitrogen, Phosphorus, and Humus**. |
-| **Rich in Iron & Aluminium, severely depleted in Silica, Lime, Magnesia, and Potash** | **Laterite Soil**<br>*(लेटराइट मृदा)* | Requires heavy doses of manures, lime, and nitrogenous-phosphatic fertilizers to sustain plantation crops. | Candidates confuse Laterite with Black soil; Laterite has been leached of its bases and silica. |
-
----
-
-#### 3. Crop Association & Agro-Climatic Match Triggers
-
-| Crop / Vegetation Clue in Stem | Direct Target Soil | Typical Geographic Belt |
-|:---|:---|:---|
-| **Cotton (कपास)** / "Black Cotton Soil" / Rainfed pulses & oilseeds | **Black Soil / Regur** | Deccan Trap: Maharashtra, Malwa (MP), Saurashtra (GJ), North Karnataka |
-| **Zafran / Saffron (केसर / जाफरान)** / Almond & Walnut orchards | **Karewa Soil** *(करेवा)* | Kashmir Valley (Pampore plateau terraces) & Bhadarwah (J&K) |
-| **Cashew nut (काजू)**, Tapioca, Tea, Coffee, Rubber, Cinchona | **Laterite Soil** *(लेटराइट)* | Western Ghats slopes (Malabar/Kerala, Coorg), Meghalaya hills |
-| **Wheat, Rice, Sugarcane, Jute, Mustard** (Intensive foodgrain bowl) | **Alluvial Soil** *(जलोढ़)* | Indo-Gangetic Plains (UP, Bihar, WB, Punjab, Haryana) |
-| **Bajra, Jowar, Ragi, Pulses, Castor, Groundnut** (Rainfed coarse crops) | **Red Soil** *(लाल मृदा)* | Rayalaseema (AP), Tamil Nadu plains, Chotanagpur plateau, Odisha |
-| **Below sea-level paddy farming** in waterlogged backwater polders | **Kuttanad Kari Soil** | Alappuzha & Kottayam districts (Kerala) |
-
----
-
-#### 4. Regional Soil Nomenclature Triggers (UP-PCS Special)
-
-| Local Nomenclature / Clue Phrase | Exact Regional Setting | Associated Soil Class & Properties |
-|:---|:---|:---|
-| **Mar (मार)** | Bundelkhand (Jalaun, Jhansi, Hamirpur) | Deep black clayey regur variant; extremely sticky, highly fertile for gram and wheat. |
-| **Kabar (काबर)** | Bundelkhand (Banda, Hamirpur, Mahoba) | Coarser black soil variant; sets into rock-hard clods upon drying; plowing must be timed precisely. |
-| **Parua / Padwa (परुआ)** | Bundelkhand (Hamirpur, Jalaun, Yamuna ravines) | Light reddish/yellowish sandy loam; responds well to light irrigation and fertilizers. |
-| **Rakar (राकर)** | Bundelkhand (Sloping edges, ravine fringes, hill tops) | Shallow, gravelly, eroded red soil; low water retention; suitable only for *bajra* or sesamum. |
-| **Bhonta / Monta (भोंटा)** | Vindhyan hill tracts (Mirzapur, Sonbhadra, Prayagraj trans-Yamuna) | Coarse, stony, reddish sandstone-derived soil; low fertility, rainfed crops. |
-| **Bhabar (भाबर)** | Sub-Himalayan foothill strip (northern UP / Uttarakhand border) | Porous gravel-and-boulder belt; surface water sinks and flows underground; unsuited for crops. |
-| **Tarai (तराई)** | South of Bhabar strip | Damp, waterlogged silty belt; underground streams re-emerge; high nitrogen & organic matter; sugarcane and paddy belt. |
-| **Bhur (भूर)** | Ganga-Yamuna Doab elevated banks | Undulating, elevated sandy mounds formed by wind-blown sand deposits during dry summer months. |
-| **Matasi (मटासी)** | Chhattisgarh plains (Mahanadi Basin) | Yellowish-red sandy-loam soil on drained higher sites; staple for rainfed rice. |
-
----
-
-
 ### Soil Types, Texture & Agricultural Suitability
 
 | Soil Type | Etymology & Literal Meaning | Climate Belt & Biome | Pedological Formation & Characteristics | Classic Prelims Match / Key Trap |
@@ -604,77 +536,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Day ↔ Event
-
-| List-I (Day) | List-II (Event) |
-|---|---|
-| A. April 18 | 1. International Tiger Day |
-| B. May 22 | 2. World Heritage Day |
-| C. July 29 | 3. World Soil Day |
-| D. December 5 | 4. International Day of Biodiversity |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Podzol | (i) Temperate cold steppe |
-| B. Chernozem | (ii) Cold temperate |
-| C. Spodosols | (iii) Hot and humid |
-| D. Laterite | (iv) Humid cold temperate |
-
----
-
-
-### Match Matrix: Soil Classifications ↔ Characteristics
-
-| List-I | List-II |
-|---|---|
-| A. Bhabar | 1. Streams re-emerge; moist belt |
-| B. Tarai | 2. Pebble fans; streams disappear |
-| C. Black / regur | 3. Deccan Trap cotton soil |
-| D. Laterite | 4. Hot-wet leached Fe/Al soil |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Mar / Kabar | 1. Western–central canal usar/reh |
-| B. Parua / Rakar | 2. Bundelkhand black |
-| C. Usar / Reh / Kallar | 3. Bundelkhand / pathari red |
-| D. Karewa | 4. Kashmir lacustrine saffron terraces |
-
----
-
-
-### Match Matrix: Soil Classifications ↔ Characteristics
-
-| List-I | List-II |
-|---|---|
-| A. Residual / sedentary | 1. Alluvium of plains |
-| B. Transported / azonal | 2. On bedrock (regur/red) |
-| C. Tea soils | 3. Slightly acidic, well-drained |
-| D. Cotton soils | 4. Prefer black / regur |
-
----
-
-
-### Match Matrix: Soil Classifications ↔ Characteristics
-
-| List-I | List-II |
-|---|---|
-| A. Cotton | 1. Laterite |
-| B. Cashew / tapioca | 2. Black / regur |
-| C. Saffron | 3. Karewa |
-| D. Alluvial cereals | 4. Largest soil group plains |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -1267,3 +1128,66 @@ D. A-4, B-1, C-2, D-3
 
 **Ans: A** — Kankar nodules characterize older alluvium Bhangar (2); Brick-like hardening on drying characterizes Laterite (from Latin 'later' = brick) (1); White salt crust on surface characterizes Saline/Usar (4); Shrinkage cracking characterizes Black Regur (3).
 </details>
+
+**Q31.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Soil Classifications ↔ Characteristics**
+
+| List-I | List-II |
+|---|---|
+| A. Bhabar | 1. Streams re-emerge; moist belt |
+| B. Tarai | 2. Pebble fans; streams disappear |
+| C. Black / regur | 3. Deccan Trap cotton soil |
+| D. Laterite | 4. Hot-wet leached Fe/Al soil |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Bhabar ↔ Pebble fans; streams disappear) B → 1 (Tarai ↔ Streams re-emerge; moist belt) C → 3 (Black / regur ↔ Deccan Trap cotton soil) D → 4 (Laterite ↔ Hot-wet leached Fe/Al soil). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q32.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Soil Classifications ↔ Characteristics**
+
+| List-I | List-II |
+|---|---|
+| A. Cotton | 1. Laterite |
+| B. Cashew / tapioca | 2. Black / regur |
+| C. Saffron | 3. Karewa |
+| D. Alluvial cereals | 4. Largest soil group plains |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Cotton ↔ Laterite) B → 2 (Cashew / tapioca ↔ Black / regur) C → 3 (Saffron ↔ Karewa) D → 4 (Alluvial cereals ↔ Largest soil group plains). Trap: treating table row order as the answer code.
+
+</details>
+

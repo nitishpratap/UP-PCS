@@ -418,27 +418,6 @@ hide:
 ---
 
 
-### Match Matrix: Doctrine ↔ Idea
-
-| List-I (Doctrine) | List-II (Idea) |
-|--------------------|----------------|
-| A. Pith and substance | 1. Cannot do indirectly what you cannot do directly |
-| B. Colourable legislation | 2. Incidental encroachment can still be valid |
-| C. Repugnancy | 3. Concurrent clash — Union generally prevails |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Sarkaria | 1. Residuary to States; abolish AIS; repeal 356 |
-| B. Rajamannar | 2. Strong Centre; keep AIS & 356; ISC created |
-| C. Punchhi | 3. Localise 356; time-cap bills under 201 |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Article 252 needs resolutions from two or more States; other States may adopt later; only Parliament can amend or repeal that law. Article 253 needs no State request — treaties and international conferences are enough.

@@ -221,53 +221,6 @@ hide:
 ---
 
 
-### Match Matrix: Person ↔ Tag
-
-| List-I (Person) | List-II (Tag) |
-|-----------------|---------------|
-| A. Cornwallis | 1. Subsidiary Alliance |
-| B. Wellesley | 2. Permanent Settlement 1793 |
-| C. Bentinck | 3. Doctrine of Lapse |
-| D. Dalhousie | 4. Abolition of Sati 1829 |
-
----
-
-
-### Match Matrix: Gg/Viceroy ↔ War / Event
-
-| List-I (GG/Viceroy) | List-II (War / event) |
-|---------------------|------------------------|
-| A. Cornwallis | 1. First Anglo-Afghan War |
-| B. Amherst | 2. Third Anglo-Mysore War |
-| C. Auckland | 3. First Anglo-Burmese War |
-| D. Hardinge I | 4. First Anglo-Sikh War |
-
----
-
-
-### Match Matrix: Act ↔ Core
-
-| List-I (Act) | List-II (Core) |
-|--------------|----------------|
-| A. Charter Act 1853 | 1. Muslim separate electorates |
-| B. Indian Councils Act 1909 | 2. Open competition for civil service |
-| C. GOI Act 1919 | 3. Provincial autonomy (worked) |
-| D. GOI Act 1935 | 4. Provincial dyarchy |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Clive | 1. Dual Government ends 1772 |
-| B. Warren Hastings | 2. Dual Government 1765 |
-| C. Cornwallis | 3. Died at Ghazipur 1805 |
-| D. Canning | 4. First Viceroy; Allahabad Proclamation |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Warren Hastings ended Dual Government in 1772, moved the treasury to Calcutta, faced Banaras 1781, and saw the Asiatic Society (15 Jan 1784). Sir William Jones (जोन्स) founded the Society; Hastings declined the chair. Ring Fence (रिंग फेंस) belongs with Hastings–Wellesley.
@@ -640,3 +593,35 @@ D. Hardinge II — Delhi capital 1911
 **Logic:** 1919 ↔ 1935 Viceroy tag trap.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Gg/Viceroy ↔ War / Event**
+
+| List-I (GG/Viceroy) | List-II (War / event) |
+|---|---|
+| A. Cornwallis | 1. First Anglo-Afghan War |
+| B. Amherst | 2. Third Anglo-Mysore War |
+| C. Auckland | 3. First Anglo-Burmese War |
+| D. Hardinge I | 4. First Anglo-Sikh War |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Cornwallis ↔ Third Anglo-Mysore War) B → 3 (Amherst ↔ First Anglo-Burmese War) C → 1 (Auckland ↔ First Anglo-Afghan War) D → 4 (Hardinge I ↔ First Anglo-Sikh War). Trap: treating table row order as the answer code.
+
+</details>
+

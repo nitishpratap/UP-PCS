@@ -85,18 +85,6 @@ hide:
 ---
 
 
-### Comparative Matrix: Revolution ↔ Commodity
-
-| Revolution | Commodity |
-|---|---|
-| A. Yellow Revolution | 1. Oilseeds |
-| B. Blue Revolution | 2. Fish & Aquaculture |
-| C. Golden Revolution | 3. Fruits & Honey |
-| D. Grey Revolution | 4. Fertilizers |
-
----
-
-
 ### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
@@ -453,3 +441,35 @@ D. 1, 2 and 3
 
 **Ans: A.** 1 and 2 only
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Revolution ↔ Commodity**
+
+| List-I (Revolution) | List-II (Commodity) |
+|---|---|
+| A. Yellow Revolution | 1. Oilseeds |
+| B. Blue Revolution | 2. Fish & Aquaculture |
+| C. Golden Revolution | 3. Fruits & Honey |
+| D. Grey Revolution | 4. Fertilizers |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Yellow Revolution ↔ Oilseeds) B → 2 (Blue Revolution ↔ Fish & Aquaculture) C → 3 (Golden Revolution ↔ Fruits & Honey) D → 4 (Grey Revolution ↔ Fertilizers). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -259,53 +259,6 @@ hide:
 ---
 
 
-### Match Matrix: Body ↔ Focus
-
-| List-I (Body) | List-II (Focus) |
-|---------------|-----------------|
-| A. Hunter Commission 1882 | 1. Calcutta University / higher education |
-| B. Sadler Commission 1917–19 | 2. Primary education under Ripon |
-| C. Hartog Committee 1929 | 3. Post-war official blueprint |
-| D. Sargent Plan 1944 | 4. Primary wastage; consolidate |
-
----
-
-
-### Match Matrix: Up Newspaper ↔ Place
-
-| List-I (UP newspaper) | List-II (Place) |
-|-----------------------|-----------------|
-| A. Swadesh | 1. Hathras |
-| B. Bharat Bandhu | 2. Gorakhpur |
-| C. Satyawadi | 3. Almora |
-| D. Shakti | 4. Agra |
-
----
-
-
-### Match Matrix: Paper / Person ↔ Details
-
-| List-I (Paper / person) | List-II |
-|-------------------------|---------|
-| A. Al-Hilal | 1. Ambedkar |
-| B. Bahishkrit Bharat | 2. Azad |
-| C. Free Hindustan | 3. Tarak Nath Das |
-| D. Ghadar first issue language | 4. Urdu (1 Nov 1913) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Charles Wilkins | 1. English Shakuntala 1789 |
-| B. William Jones | 2. First English Gita |
-| C. Portuguese press | 3. Goa 1556 |
-| D. Hindu College | 4. 1817 |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Wood's Despatch is not 1835; Macaulay's Minute is not 1854.
@@ -677,3 +630,97 @@ D. 1, 2 and 3
 **Logic:** Early Orientalist institutions precede Macaulay/Wood.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Up Newspaper ↔ Place**
+
+| List-I (UP newspaper) | List-II (Place) |
+|---|---|
+| A. Swadesh | 1. Hathras |
+| B. Bharat Bandhu | 2. Gorakhpur |
+| C. Satyawadi | 3. Almora |
+| D. Shakti | 4. Agra |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Swadesh ↔ Gorakhpur) B → 1 (Bharat Bandhu ↔ Hathras) C → 4 (Satyawadi ↔ Agra) D → 3 (Shakti ↔ Almora). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Paper / Person ↔ Details**
+
+| List-I (Paper / person) | List-II |
+|---|---|
+| A. Al-Hilal | 1. Ambedkar |
+| B. Bahishkrit Bharat | 2. Azad |
+| C. Free Hindustan | 3. Tarak Nath Das |
+| D. Ghadar first issue language | 4. Urdu (1 Nov 1913) |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Al-Hilal ↔ Azad) B → 1 (Bahishkrit Bharat ↔ Ambedkar) C → 3 (Free Hindustan ↔ Tarak Nath Das) D → 4 (Ghadar first issue language ↔ Urdu (1 Nov 1913)). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Charles Wilkins | 1. English Shakuntala 1789 |
+| B. William Jones | 2. First English Gita |
+| C. Portuguese press | 3. Goa 1556 |
+| D. Hindu College | 4. 1817 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 3 2 4
+
+C. 1 2 3 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Charles Wilkins ↔ English Shakuntala 1789) B → 2 (William Jones ↔ First English Gita) C → 3 (Portuguese press ↔ Goa 1556) D → 4 (Hindu College ↔ 1817). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -96,39 +96,6 @@ hide:
 ---
 
 
-### Match Matrix: Adaptation ↔ Details
-
-| List-I (Adaptation) | List-II |
-|---------------------|--------|
-| A. Arboreal | 1. Burrows |
-| B. Fossorial | 2. Trees |
-| C. Cursorial | 3. Open plains |
-| D. Xericole | 4. Desert |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Engler | 1. Planting hearths |
-| B. C.O. Sauer | 2. World floral regions |
-| C. Microhabitat | 3. Small subdivision inside a larger habitat |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. AMRUT | 1. 2007 |
-| B. NUHHP | 2. 2015 |
-| C. JJM | 3. 2019 |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -461,3 +428,65 @@ D. A-3, B-1, C-2
 **Logic:** AMRUT 2015; NUHHP 2007; JJM 2019.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Adaptation ↔ Details**
+
+| List-I (Adaptation) | List-II |
+|---|---|
+| A. Arboreal | 1. Burrows |
+| B. Fossorial | 2. Trees |
+| C. Cursorial | 3. Open plains |
+| D. Xericole | 4. Desert |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Arboreal ↔ Burrows) B → 2 (Fossorial ↔ Trees) C → 3 (Cursorial ↔ Open plains) D → 4 (Xericole ↔ Desert). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. AMRUT | 1. 2007 |
+| B. NUHHP | 2. 2015 |
+| C. JJM | 3. 2019 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (AMRUT ↔ 2015) B → 1 (NUHHP ↔ 2007) C → 3 (JJM ↔ 2019). Trap: treating table row order as the answer code.
+
+</details>
+

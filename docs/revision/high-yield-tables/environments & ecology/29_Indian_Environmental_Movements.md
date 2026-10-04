@@ -51,49 +51,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Chipko | 1. Sirsi, Karnataka 1983 |
-| B. Appiko | 2. Reni 1973 |
-| C. Jungle Bachao | 3. Singhbhum 1982 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Bishnoi | 1. 1973 |
-| B. Chipko | 2. 1730 |
-| C. Appiko | 3. 1983 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Medha Patkar | 1. Appiko |
-| B. Panduranga Hegde | 2. Narmada |
-| C. Amrita Devi | 3. Bishnoi/Khejarli |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Silent Valley | 1. 1982 |
-| B. Jungle Bachao | 2. 1970s |
-| C. Save Western Ghats | 3. ~2011 |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -417,3 +374,94 @@ D. 2011 only
 **Logic:** NBA year.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Chipko | 1. Sirsi, Karnataka 1983 |
+| B. Appiko | 2. Reni 1973 |
+| C. Jungle Bachao | 3. Singhbhum 1982 |
+
+*Row order is not the answer code.*
+
+A. 1 3 2
+
+B. 3 1 2 4
+
+C. 1 2 3 4
+
+D. 1 3 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 3 2**.
+
+**Logic:** A → 1 (Chipko ↔ Sirsi, Karnataka 1983) B → 3 (Appiko ↔ Singhbhum 1982) C → 2 (Jungle Bachao ↔ Reni 1973). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Bishnoi | 1. 1973 |
+| B. Chipko | 2. 1730 |
+| C. Appiko | 3. 1983 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3**.
+
+**Logic:** A → 1 (Bishnoi ↔ 1973) B → 2 (Chipko ↔ 1730) C → 3 (Appiko ↔ 1983). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Silent Valley | 1. 1982 |
+| B. Jungle Bachao | 2. 1970s |
+| C. Save Western Ghats | 3. ~2011 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3**.
+
+**Logic:** A → 2 (Silent Valley ↔ 1970s) B → 1 (Jungle Bachao ↔ 1982) C → 3 (Save Western Ghats ↔ ~2011). Trap: treating table row order as the answer code.
+
+</details>
+

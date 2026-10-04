@@ -170,41 +170,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Alagh | 1. 2010 MPI introduction |
-| B. HDR 1990 | 2. Nutrition-based poverty line committee |
-| C. HPI | 3. First HDI report |
-| D. MPI replaces HPI | 4. Introduced in HDR 1997 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Disguised unemployment | 1. Job-search transition |
-| B. Frictional unemployment | 2. Near-zero marginal product surplus labour |
-| C. Cyclical unemployment | 3. Demand slowdown |
-| D. Seasonal unemployment | 4. Agri / season calendar |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Gini | 1. Rural employment guarantee |
-| B. MGNREGA | 2. Inequality measure |
-| C. LFPR | 3. Labour force ÷ population share |
-| D. Capability approach | 4. Sen’s human-development philosophy |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Poverty is the inability to meet a minimum standard of living — measured by income/consumption lines or by multidimensional deprivations.

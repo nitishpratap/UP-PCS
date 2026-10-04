@@ -201,41 +201,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. IMF | 1. Geneva; from GATT 1947 |
-| B. World Bank (IBRD) | 2. Washington, D.C.; BOP / quotas |
-| C. WTO | 3. Washington, D.C.; project loans |
-| D. ICJ | 4. The Hague; 15 judges |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. WHO | 1. Paris; 1945 |
-| B. UNESCO | 2. Geneva; 1948 |
-| C. ILO | 3. Geneva; 1919; tripartite |
-| D. NDB | 4. Shanghai; BRICS bank |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Gujral Doctrine | 1. Non-reciprocity toward smaller neighbours (1996) |
-| B. Monroe Doctrine | 2. 1823 Western Hemisphere |
-| C. Truman Doctrine | 3. 1947 containment |
-| D. No First Use | 4. National nuclear doctrine, not an NPT clause |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Panchsheel was signed on 29 April 1954 in the India–China Tibet trade (पण्याध्यक्ष) agreement. The five principles are mutual respect for sovereignty, non-aggression, non-interference, equality and mutual benefit, and peaceful coexistence.
@@ -583,3 +548,35 @@ means ‘to stay away from international power groups and to
 develop an independent policy.’
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. WHO | 1. Paris; 1945 |
+| B. UNESCO | 2. Geneva; 1948 |
+| C. ILO | 3. Geneva; 1919; tripartite |
+| D. NDB | 4. Shanghai; BRICS bank |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (WHO ↔ Paris; 1945) B → 2 (UNESCO ↔ Geneva; 1948) C → 3 (ILO ↔ Geneva; 1919; tripartite) D → 4 (NDB ↔ Shanghai; BRICS bank). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -633,41 +633,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Loo | 1. Pre-monsoon Kerala–Karnataka rain |
-| B. Kal Baisakhi | 2. Hot dry wind of Indo-Gangetic plains |
-| C. Mango showers | 3. Violent pre-monsoon storms of east/NE India |
-| D. Blossom showers | 4. Coffee-aiding showers of TN/Kerala |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Anabatic | 1. Night downslope drainage |
-| B. Katabatic | 2. Day upslope climb |
-| C. Sea breeze | 3. Day wind toward land |
-| D. Land breeze | 4. Night wind toward sea |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Hurricane | 1. North Indian Ocean generic |
-| B. Typhoon | 2. USA / Atlantic |
-| C. Willy-willies | 3. NW Pacific / Japan |
-| D. Cyclone | 4. Australia |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Western Disturbances are Mediterranean extra-tropical systems that bring winter rain to the north-west. Their rain decreases west to east. They are not the retreating monsoon. Core belt: Punjab, Haryana, Himachal (हिमाचल), Jammu & Kashmir, Uttarakhand (उत्तराखंड), western Uttar Pradesh (उत्तर प्रदेश), and northern Rajasthan.
@@ -975,3 +940,97 @@ D. Only 1
 **Logic:** Cyclones do not form on the equator — Coriolis is near zero.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Loo | 1. Pre-monsoon Kerala–Karnataka rain |
+| B. Kal Baisakhi | 2. Hot dry wind of Indo-Gangetic plains |
+| C. Mango showers | 3. Violent pre-monsoon storms of east/NE India |
+| D. Blossom showers | 4. Coffee-aiding showers of TN/Kerala |
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+
+B. 2 4 1 3
+
+C. 4 1 2 3
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 2 1 3**.
+
+**Logic:** A → 4 (Loo ↔ Coffee-aiding showers of TN/Kerala) B → 2 (Kal Baisakhi ↔ Hot dry wind of Indo-Gangetic plains) C → 1 (Mango showers ↔ Pre-monsoon Kerala–Karnataka rain) D → 3 (Blossom showers ↔ Violent pre-monsoon storms of east/NE India). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Anabatic | 1. Night downslope drainage |
+| B. Katabatic | 2. Day upslope climb |
+| C. Sea breeze | 3. Day wind toward land |
+| D. Land breeze | 4. Night wind toward sea |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Anabatic ↔ Day upslope climb) B → 1 (Katabatic ↔ Night downslope drainage) C → 3 (Sea breeze ↔ Day wind toward land) D → 4 (Land breeze ↔ Night wind toward sea). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Hurricane | 1. North Indian Ocean generic |
+| B. Typhoon | 2. USA / Atlantic |
+| C. Willy-willies | 3. NW Pacific / Japan |
+| D. Cyclone | 4. Australia |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Hurricane ↔ USA / Atlantic) B → 1 (Typhoon ↔ North Indian Ocean generic) C → 4 (Willy-willies ↔ Australia) D → 3 (Cyclone ↔ NW Pacific / Japan). Trap: treating table row order as the answer code.
+
+</details>
+

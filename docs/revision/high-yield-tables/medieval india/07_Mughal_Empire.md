@@ -214,30 +214,6 @@ hide:
 ---
 
 
-### Match Matrix: Battle ↔ Year / Tag
-
-| List-I (Battle) | List-II (Year / tag) |
-|-----------------|----------------------|
-| A. Khanwa | 1. 1556 — Akbar–Bairam vs Hemu |
-| B. Second Panipat | 2. 1527 — Babur vs Rana Sanga |
-| C. Dharmat | 3. Apr 1658 — Aurangzeb vs Jaswant Singh |
-| D. Jajau | 4. 1707 — Bahadur Shah I vs Azam |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Hamida Banu | 1. Wrote Humayunnama |
-| B. Gulbadan Begum | 2. Humayun’s wife |
-| C. Kavindra Acharya Saraswati | 3. Patronised by Shah Jahan |
-| D. Nahr-i-Bihisht | 4. Shahjahanabad canal drawing on Firuz’s Rajabwah |
-
----
-
-
 ### Comparative Matrix: Term ↔ Description
 
 | Term | Description |
@@ -677,3 +653,35 @@ D. Neither 1 nor 2
 - *Foreign vs Domestic Conquests:* Shah Jahan's northwest frontier campaigns (Balkh, Badakhshan, and Qandahar) were expensive failures; Aurangzeb succeeded in annexing Bijapur and Golkonda in the Deccan.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Battle ↔ Year / Tag**
+
+| List-I (Battle) | List-II (Year / tag) |
+|---|---|
+| A. Khanwa | 1. 1556 — Akbar–Bairam vs Hemu |
+| B. Second Panipat | 2. 1527 — Babur vs Rana Sanga |
+| C. Dharmat | 3. Apr 1658 — Aurangzeb vs Jaswant Singh |
+| D. Jajau | 4. 1707 — Bahadur Shah I vs Azam |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Khanwa ↔ 1527 — Babur vs Rana Sanga) B → 1 (Second Panipat ↔ 1556 — Akbar–Bairam vs Hemu) C → 3 (Dharmat ↔ Apr 1658 — Aurangzeb vs Jaswant Singh) D → 4 (Jajau ↔ 1707 — Bahadur Shah I vs Azam). Trap: treating table row order as the answer code.
+
+</details>
+

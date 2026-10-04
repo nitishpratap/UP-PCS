@@ -70,61 +70,6 @@ hide:
 ---
 
 
-### Match Matrix: Report ↔ Organisation
-
-| List-I (Report) | List-II (Organisation) |
-| --- | --- |
-| A. Human Development Report | 1. IMF |
-| B. World Economic Outlook | 2. UNEP |
-| C. World Investment Report | 3. UNDP |
-| D. Emissions Gap Report | 4. UNCTAD |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. UNEP | 1. New York; HDR/HDI |
-| B. UNDP | 2. Nairobi; Emissions Gap/GEO |
-| C. FAO | 3. Rome; SOFO |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Assessment Reports | 1. WWF |
-| B. Living Planet | 2. IPCC |
-| C. Red List | 3. IUCN |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. GEO | 1. UNDP |
-| B. HDR | 2. UNEP |
-| C. SOFO | 3. FAO |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. WMO+UNEP | 1. Living Planet |
-| B. IUCN | 2. Created IPCC |
-| C. WWF | 3. Red List |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -452,3 +397,95 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Related finance facts.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Report ↔ Organisation**
+
+| List-I (Report) | List-II (Organisation) |
+|---|---|
+| A. Human Development Report | 1. IMF |
+| B. World Economic Outlook | 2. UNEP |
+| C. World Investment Report | 3. UNDP |
+| D. Emissions Gap Report | 4. UNCTAD |
+
+*Row order is not the answer code.*
+
+A. 3 1 4 2
+
+B. 1 3 4 2
+
+C. 3 4 1 2
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **3 1 4 2**.
+
+**Logic:** A → 3 (Human Development Report ↔ UNDP) B → 1 (World Economic Outlook ↔ IMF) C → 4 (World Investment Report ↔ UNCTAD) D → 2 (Emissions Gap Report ↔ UNEP). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. UNEP | 1. New York; HDR/HDI |
+| B. UNDP | 2. Nairobi; Emissions Gap/GEO |
+| C. FAO | 3. Rome; SOFO |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (UNEP ↔ Nairobi; Emissions Gap/GEO) B → 1 (UNDP ↔ New York; HDR/HDI) C → 3 (FAO ↔ Rome; SOFO). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. WMO+UNEP | 1. Living Planet |
+| B. IUCN | 2. Created IPCC |
+| C. WWF | 3. Red List |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 1
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 3 1**.
+
+**Logic:** A → 2 (WMO+UNEP ↔ Created IPCC) B → 3 (IUCN ↔ Red List) C → 1 (WWF ↔ Living Planet). Trap: treating table row order as the answer code.
+
+</details>
+

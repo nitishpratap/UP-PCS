@@ -102,49 +102,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. World Water Day | 1. 2 February |
-| B. Wetlands Day | 2. 22 March |
-| C. JJM launch | 3. August 2019 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. CGWB | 1. Groundwater regulation under EPA |
-| B. CGWA | 2. Annual Groundwater Quality Report |
-| C. Atal Bhujal | 3. 2019 groundwater management |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Yamuna Action Plan | 1. 2014 |
-| B. Namami Gange | 2. 1993 |
-| C. NLCP start | 3. June 2001 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Dublin Principles | 1. Local drainage unit |
-| B. Watershed | 2. 1992 IWRM neighbourhood |
-| C. NPCA | 3. NLCP+NWCP merger 2013 |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -477,3 +434,34 @@ D. A-3, B-1, C-2
 **Logic:** CGWB ≠ CGWA.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. World Water Day | 1. 2 February |
+| B. Wetlands Day | 2. 22 March |
+| C. JJM launch | 3. August 2019 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (World Water Day ↔ 22 March) B → 1 (Wetlands Day ↔ 2 February) C → 3 (JJM launch ↔ August 2019). Trap: treating table row order as the answer code.
+
+</details>
+

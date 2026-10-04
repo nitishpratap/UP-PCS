@@ -214,79 +214,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Establishment of Board of Control | 1. Regulating Act, 1773 |
-| B. Establishment of Supreme Court | 2. Pitt’s India Act, 1784 |
-| C. Permission to English Missionaries to work in India | 3. Charter Act, 1813 |
-| D. Appointment of Law Member in Governor-General Council | 4. Charter Act, 1833 |
-
----
-
-
-### Comparative Matrix: List-X ↔ List-Y
-
-| List-X | List-Y |
-|--------|--------|
-| A. First Vice-President of Constituent Assembly | (i) V.T. Krishnamachari |
-| B. Originally the only Congress Member of Drafting Committee | (ii) Jawaharlal Nehru |
-| C. Member of Constituent Assembly representing Rajasthan’s Princely State | (iii) K.M. Munshi |
-| D. Chairman of Union Constitution Committee | (iv) H.C. Mukherjee |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Union Constitution Committee | 1. Dr. Rajendra Prasad |
-| B. Rules of Procedure Committee | 2. J. B. Kripalani |
-| C. Drafting Committee | 3. Dr. B. R. Ambedkar |
-| D. Fundamental Rights Sub-committee | 4. Jawaharlal Nehru |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Fundamental Rights | 1. United Kingdom |
-| B. Parliamentary System | 2. United States |
-| C. Emergency Provisions | 3. Ireland |
-| D. Directive Principles of State Policy | 4. Germany |
-| | 5. Canada |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Fundamental Rights | i. British Constitution |
-| B. Directive Principles of State policy | ii. Canadian Constitution |
-| C. Cabinet Government | iii. Irish Constitution |
-| D. Union-State Relations | iv. U.S. Bill of Rights |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Rule of Law | 1. Australia |
-| B. Procedure established by Law | 2. England |
-| C. Reserving of bill by Governor for President’s consideration | 3. Japan |
-| D. Concurrent List | 4. Canada |
-
----
-
-
 ### Comparative Matrix: Code ↔ Item
 
 | Code | Item |
@@ -655,3 +582,128 @@ D. Government of India Act, 1919
 **Ans: B.** Indian Councils Act **1892** allowed discussion of the budget, not a vote. Supplementary questions came only in **1909**.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Union Constitution Committee | 1. Dr. Rajendra Prasad |
+| B. Rules of Procedure Committee | 2. J. B. Kripalani |
+| C. Drafting Committee | 3. Dr. B. R. Ambedkar |
+| D. Fundamental Rights Sub-committee | 4. Jawaharlal Nehru |
+
+*Row order is not the answer code.*
+
+A. 4 1 3 2
+
+B. 1 4 3 2
+
+C. 4 3 1 2
+
+D. 4 1 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 1 3 2**.
+
+**Logic:** A → 4 (Union Constitution Committee ↔ Jawaharlal Nehru) B → 1 (Rules of Procedure Committee ↔ Dr. Rajendra Prasad) C → 3 (Drafting Committee ↔ Dr. B. R. Ambedkar) D → 2 (Fundamental Rights Sub-committee ↔ J. B. Kripalani). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Fundamental Rights | 1. United Kingdom |
+| B. Parliamentary System | 2. United States |
+| C. Emergency Provisions | 3. Ireland |
+| D. Directive Principles of State Policy | 4. Germany |
+
+*Row order is not the answer code.*
+
+A. 1 4 2 3
+
+B. 4 1 2 3
+
+C. 4 2 1 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Fundamental Rights ↔ Germany) B → 1 (Parliamentary System ↔ United Kingdom) C → 2 (Emergency Provisions ↔ United States) D → 3 (Directive Principles of State Policy ↔ Ireland). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Rule of Law | 1. Australia |
+| B. Procedure established by Law | 2. England |
+| C. Reserving of bill by Governor for President’s consideration | 3. Japan |
+| D. Concurrent List | 4. Canada |
+
+*Row order is not the answer code.*
+
+A. 3 2 4 1
+
+B. 2 4 3 1
+
+C. 2 3 4 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Rule of Law ↔ England) B → 3 (Procedure established by Law ↔ Japan) C → 4 (Reserving of bill by Governor for President’s consideration ↔ Canada) D → 1 (Concurrent List ↔ Australia). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-X ↔ List-Y**
+
+| List-X | List-Y |
+|---|---|
+| A. First Vice-President of Constituent Assembly | 1. V.T. Krishnamachari |
+| B. Originally the only Congress Member of Drafting Committee | 2. Jawaharlal Nehru |
+| C. Member of Constituent Assembly representing Rajasthan’s Princely State | 3. K.M. Munshi |
+| D. Chairman of Union Constitution Committee | 4. H.C. Mukherjee |
+
+*Row order is not the answer code.*
+
+A. 1 3 4 2
+
+B. 3 1 4 2
+
+C. 1 4 3 2
+
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 3 4 2**.
+
+**Logic:** A → 1 (First Vice-President of Constituent Assembly ↔ V.T. Krishnamachari) B → 3 (Originally the only Congress Member of Drafting Committee ↔ K.M. Munshi) C → 4 (Member of Constituent Assembly representing Rajasthan’s Princely State ↔ H.C. Mukherjee) D → 2 (Chairman of Union Constitution Committee ↔ Jawaharlal Nehru). Trap: treating table row order as the answer code.
+
+</details>
+

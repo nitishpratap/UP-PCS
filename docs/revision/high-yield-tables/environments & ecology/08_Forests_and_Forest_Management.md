@@ -97,49 +97,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. VDF | 1. 10–40% |
-| B. MDF | 2. ≥70% |
-| C. OF | 3. 40–70% |
-
----
-
-
-### Match Matrix: Up Belt ↔ Details
-
-| List-I (UP belt) | List-II |
-|------------------|--------|
-| A. Terai | 1. Thorn |
-| B. Vindhyan | 2. Moist deciduous |
-| C. Bundelkhand | 3. Dry deciduous |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. FCA | 1. 2006 |
-| B. FRA | 2. 1980 |
-| C. CAMPA Act | 3. 2016 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. NFP | 1. 1990 |
-| B. JFM | 2. 1988 |
-| C. FRA | 3. 2006 |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -480,3 +437,124 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** High rainfall + WG/NE/A&N distribution.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. VDF | 1. 10–40% |
+| B. MDF | 2. ≥70% |
+| C. OF | 3. 40–70% |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (VDF ↔ 10–40%) B → 2 (MDF ↔ ≥70%) C → 3 (OF ↔ 40–70%). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Up Belt ↔ Details**
+
+| List-I (UP belt) | List-II |
+|---|---|
+| A. Terai | 1. Thorn |
+| B. Vindhyan | 2. Moist deciduous |
+| C. Bundelkhand | 3. Dry deciduous |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 3 1
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 1**.
+
+**Logic:** A → 2 (Terai ↔ Moist deciduous) B → 3 (Vindhyan ↔ Dry deciduous) C → 1 (Bundelkhand ↔ Thorn). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. FCA | 1. 2006 |
+| B. FRA | 2. 1980 |
+| C. CAMPA Act | 3. 2016 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3**.
+
+**Logic:** A → 2 (FCA ↔ 1980) B → 1 (FRA ↔ 2006) C → 3 (CAMPA Act ↔ 2016). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. NFP | 1. 1990 |
+| B. JFM | 2. 1988 |
+| C. FRA | 3. 2006 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 4 3
+
+D. 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 3**.
+
+**Logic:** A → 2 (NFP ↔ 1988) B → 1 (JFM ↔ 1990) C → 3 (FRA ↔ 2006). Trap: treating table row order as the answer code.
+
+</details>
+

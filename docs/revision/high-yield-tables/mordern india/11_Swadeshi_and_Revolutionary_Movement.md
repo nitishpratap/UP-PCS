@@ -164,53 +164,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Abhinav Bharat | 1. Shyamji Krishna Varma |
-| B. India House (London) | 2. V.D. Savarkar |
-| C. Ghadar Party | 3. San Francisco, 1913 |
-| D. Berlin Committee | 4. Wartime Europe plot, 1915 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Central Assembly bomb | 1. Surya Sen; 18 April 1930 |
-| B. Chittagong Armoury Raid | 2. Bhagat Singh & B.K. Dutt; 8 April 1929 |
-| C. Madam Cama’s Stuttgart flag | 3. 1907 |
-| D. Komagata Maru | 4. 1914; Ghadar-era overseas chain |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Shahjahanpur | 1. Bismil hanged |
-| B. Gorakhpur | 2. Bismil born |
-| C. Faizabad | 3. Ashfaqulla hanged |
-| D. Alfred Park, Allahabad | 4. Azad died, 27 Feb 1931 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Partition effective | 1. 7 August 1905 |
-| B. Boycott Resolution | 2. 16 October 1905 |
-| C. Surat Split | 3. 1907 |
-| D. Partition annulled | 4. 1911 Delhi Durbar |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Partition of Bengal was announced in July 1905 and became effective on 16 October 1905. The new province was East Bengal and Assam with capital at Dacca.
@@ -588,3 +541,35 @@ D. A-2, B-1, C-4, D-3
 **Logic:** Two 1905 dates must stay distinct.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Abhinav Bharat | 1. Shyamji Krishna Varma |
+| B. India House (London) | 2. V.D. Savarkar |
+| C. Ghadar Party | 3. San Francisco, 1913 |
+| D. Berlin Committee | 4. Wartime Europe plot, 1915 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Abhinav Bharat ↔ V.D. Savarkar) B → 1 (India House (London) ↔ Shyamji Krishna Varma) C → 3 (Ghadar Party ↔ San Francisco, 1913) D → 4 (Berlin Committee ↔ Wartime Europe plot, 1915). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -98,41 +98,6 @@ hide:
 ---
 
 
-### Match Matrix: Act / Body ↔ Fact
-
-| List-I (Act / body) | List-II (Fact) |
-|---------------------|----------------|
-| A. NDMA | 1. Gram Sabha starts recognition |
-| B. Forest Rights Act, 2006 | 2. PM chairs |
-| C. CPA, 2019 | 3. Creates CCPA; product liability |
-| D. Whistle Blowers Act, 2014 | 4. Public-authority disclosures |
-
----
-
-
-### Match Matrix: Minerals ↔ Major Mining Basins
-
-| List-I | List-II |
-|--------|--------|
-| A. First ARC | 1. Veerappa Moily; 15 reports |
-| B. Second ARC | 2. Morarji Desai / Hanumanthaiah; 20 reports |
-| C. Good Governance Day | 3. 25 December (from 2014) |
-| D. ECO Mark | 4. Environment label for products (1991) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. CPGRAMS | 1. Cabinet Secretariat residual window (1988) |
-| B. DPG | 2. DARPG portal across ministries |
-| C. GeM | 3. Government e-Marketplace (2016) |
-| D. MyGov | 4. Citizen engagement platform (2014) |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** 2025: "Accountability" is not a food-security dimension under NFSA. Consumers can bargain below the MRP. Adi Karmayogi (launched June) belongs to the Ministry of Tribal (आदिवासी) Affairs, not Mission Karmayogi.

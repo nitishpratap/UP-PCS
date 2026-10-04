@@ -68,17 +68,6 @@ hide:
 ---
 
 
-### Match Matrix: Minerals ↔ Major Mining Basins
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Bauxite | 1. Madhya Pradesh |
-| B. Copper | 2. Odisha |
-| C. Gold | 3. Chhattisgarh |
-| D. Coal | 4. Karnataka |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Wheat Ranks: Top Producer States: Uttar Pradesh (उत्तर प्रदेश) (#1) > Madhya Pradesh (#2) > Punjab (#3). Highest productivity/yield (kg/ha): Punjab and Haryana. UP produces over 32% of India's wheat.
@@ -380,3 +369,35 @@ D. Amended by the 44th Constitutional Amendment Act
 - **Key Exam Association:** **Meat & Eggs:** Meat Production: **Uttar Pradesh (#1)** > West Bengal (#2) > Maharashtra (#3). Egg Production: **Andhra Pradesh (#1)** ("Egg Bowl of Asia") > Tamil Nadu (#2).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Minerals ↔ Major Mining Basins**
+
+| List-I | List-II |
+|---|---|
+| A. Bauxite | 1. Madhya Pradesh |
+| B. Copper | 2. Odisha |
+| C. Gold | 3. Chhattisgarh |
+| D. Coal | 4. Karnataka |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Bauxite ↔ Odisha) B → 1 (Copper ↔ Madhya Pradesh) C → 4 (Gold ↔ Karnataka) D → 3 (Coal ↔ Chhattisgarh). Trap: treating table row order as the answer code.
+
+</details>
+

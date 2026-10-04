@@ -258,17 +258,6 @@ hide:
 ---
 
 
-### Match Matrix: Syndrome / Disease ↔ Specific Environmental Toxin / Defect
-
-| List-I (Syndrome / Disease) | List-II (Specific Environmental Toxin / Defect) |
-|---|---|
-| A. Minamata Disease | 1. Excessive Nitrate ($NO_3^-$) in drinking water |
-| B. Itai-Itai Disease | 2. Organic Methyl Mercury ($Hg$) poisoning |
-| C. Blue Baby Syndrome | 3. Cadmium ($Cd$) water contamination |
-| D. Blackfoot Disease | 4. Chronic Arsenic ($As$) exposure |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Calcium is the most abundant mineral element in the human body (~1.5% of body weight; 99% in bones and teeth as hydroxyapatite crystals); Iron is the most abundant essential micromineral (3–4 grams, primarily inside haemoglobin).

@@ -95,38 +95,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. NP | 1. Sec. 18 |
-| B. Sanctuary | 2. Sec. 35 |
-| C. Tiger Reserve | 3. Sec. 38V |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. BDA | 1. 2006 |
-| B. FRA | 2. 2002 |
-| C. NGT Act | 3. 2010 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Art. 48A | 1. Citizen duty |
-| B. Art. 51A(g) | 2. State DPSP env |
-| C. Art. 48 | 3. Agriculture/cattle |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -456,3 +424,64 @@ D. A-3, B-1, C-2
 **Logic:** 48A DPSP; 51A(g) duty; 48 agri.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. NP | 1. Sec. 18 |
+| B. Sanctuary | 2. Sec. 35 |
+| C. Tiger Reserve | 3. Sec. 38V |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (NP ↔ Sec. 18) B → 2 (Sanctuary ↔ Sec. 35) C → 3 (Tiger Reserve ↔ Sec. 38V). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. BDA | 1. 2006 |
+| B. FRA | 2. 2002 |
+| C. NGT Act | 3. 2010 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (BDA ↔ 2002) B → 1 (FRA ↔ 2006) C → 3 (NGT Act ↔ 2010). Trap: treating table row order as the answer code.
+
+</details>
+

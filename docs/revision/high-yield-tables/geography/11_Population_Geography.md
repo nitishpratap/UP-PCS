@@ -153,18 +153,6 @@ hide:
 ---
 
 
-### Match Matrix: Theory ↔ Propounder
-
-| List-I (Theory) | List-II (Propounder) |
-|---|---|
-| A. Optimum Population Theory | 1. Thompson |
-| B. Social Mal-adjustment Theory | 2. Malthus |
-| C. Demographic Transition Theory | 3. Edwin Cannan |
-| D. Population–Food Supply Relationship Theory | 4. Henry George |
-
----
-
-
 ### Comparative Matrix: Item ↔ Uttar Pradesh 2011 ↔ India 2011
 
 | Item | Uttar Pradesh 2011 | India 2011 |
@@ -184,18 +172,6 @@ hide:
 ---
 
 
-### Match Matrix: Theory ↔ Propounder
-
-| List-I (Theory) | List-II (Propounder) |
-|---|---|
-| A. Optimum Population Theory | 1. Thompson |
-| B. Social Mal-adjustment Theory | 2. Malthus |
-| C. Demographic Transition Theory | 3. Edwin Cannan |
-| D. Population–Food Supply Relationship Theory | 4. Henry George |
-
----
-
-
 ### Comparative Matrix: Density Type ↔ Definition
 
 | Density type | Definition |
@@ -206,53 +182,6 @@ hide:
 
 ---
 
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Highest State sex ratio | 1. Kerala |
-| B. Lowest State sex ratio (usual 2011 set) | 2. Haryana |
-| C. Highest literacy (States) | 3. Kerala |
-| D. Lowest literacy (States) | 4. Bihar |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Immigration | 1. In-movement |
-| B. Emigration | 2. Out-movement |
-| C. Push factors | 3. Drive from origin |
-| D. Pull factors | 4. Attract to destination |
-
----
-
-
-### Match Matrix: 2011 Up Ua Order Teaching ↔ Details
-
-| List-I (2011 UP UA order teaching) | List-II |
-|---|---|
-| A. Largest | 1. Kanpur |
-| B. Second | 2. Lucknow |
-| C. Third | 3. Ghaziabad |
-| D. Fourth | 4. Agra |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Karl Marx | 1. Social capillarity |
-| B. Ester Boserup | 2. Surplus population of capitalism |
-| C. Arsène Dumont | 3. Population as a push to farm intensification |
-| D. C.P. Blacker | 4. Five-stage demographic transition |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -563,3 +492,66 @@ D. 1 and 2
 **Logic:** TFR 2.1 is children per woman — “per thousand” belongs to CBR/CDR wording.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Theory ↔ Propounder**
+
+| List-I (Theory) | List-II (Propounder) |
+|---|---|
+| A. Optimum Population Theory | 1. Thompson |
+| B. Social Mal-adjustment Theory | 2. Malthus |
+| C. Demographic Transition Theory | 3. Edwin Cannan |
+| D. Population–Food Supply Relationship Theory | 4. Henry George |
+
+*Row order is not the answer code.*
+
+A. 3 4 1 2
+
+B. 4 3 1 2
+
+C. 3 1 4 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **3 4 1 2**.
+
+**Logic:** A → 3 (Optimum Population Theory ↔ Edwin Cannan) B → 4 (Social Mal-adjustment Theory ↔ Henry George) C → 1 (Demographic Transition Theory ↔ Thompson) D → 2 (Population–Food Supply Relationship Theory ↔ Malthus). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Theory ↔ Propounder**
+
+| List-I (Theory) | List-II (Propounder) |
+|---|---|
+| A. Optimum Population Theory | 1. Thompson |
+| B. Social Mal-adjustment Theory | 2. Malthus |
+| C. Demographic Transition Theory | 3. Edwin Cannan |
+| D. Population–Food Supply Relationship Theory | 4. Henry George |
+
+*Row order is not the answer code.*
+
+A. 4 3 1 2
+
+B. 3 4 1 2
+
+C. 3 1 4 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 4 1 2**.
+
+**Logic:** A → 3 (Optimum Population Theory ↔ Edwin Cannan) B → 4 (Social Mal-adjustment Theory ↔ Henry George) C → 1 (Demographic Transition Theory ↔ Thompson) D → 2 (Population–Food Supply Relationship Theory ↔ Malthus). Trap: treating table row order as the answer code.
+
+</details>
+

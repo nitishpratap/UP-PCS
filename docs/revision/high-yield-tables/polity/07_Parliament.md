@@ -261,15 +261,6 @@ hide:
 ---
 
 
-### Comparative Matrix: List I — State / Union Territory ↔ List Ii — Lok Sabha Seats
-
-| List I — State / Union Territory | List II — Lok Sabha seats |
-|---|---:|
-| A. Chhattisgarh | 1. 11 |
-| B. Maharashtra | 2. 48 |
-| C. West Bengal | 3. 42 |
-| D. Uttarakhand | 4. 5 |
-
 ### High-Yield Data: Code
 
 | Code | A | B | C | D |
@@ -282,31 +273,6 @@ hide:
 ---
 
 
-### Mountain Peaks & Highest Elevations
-
-| List I — Lok Sabha | List II — Speaker |
-|---|---|
-| A. Eleventh | 1. Om Birla |
-| B. Twelfth | 2. P. A. Sangma |
-| C. Fourteenth | 3. Somnath Chatterjee |
-| D. Seventeenth | 4. G. M. C. Balayogi |
-
----
-
-
-### Comparative Matrix: List I — State ↔ List Ii — Lok Sabha Seats
-
-| List I — State | List II — Lok Sabha seats |
-|-------------------|--------------------------:|
-| A. Maharashtra | 1. 48 |
-| B. Chhattisgarh | 2. 11 |
-| C. Andhra Pradesh | 3. 25 |
-| D. West Bengal | 4. 42 |
-| E. Tamil Nadu | 5. 39 |
-
----
-
-
 ### High-Yield Data: Code
 
 | Code | A | B | C | D | E |
@@ -315,42 +281,6 @@ hide:
 | B | 4 | 3 | 5 | 1 | 2 |
 | C | 5 | 4 | 2 | 3 | 1 |
 | D | 1 | 2 | 3 | 4 | 5 |
-
----
-
-
-### Match Matrix: State ↔ Rajya Sabha Seats
-
-| List-I (State) | List-II (Rajya Sabha seats) |
-|----------------|-----------------------------|
-| A. Maharashtra | 1. 16 |
-| B. Karnataka | 2. 18 |
-| C. Bihar | 3. 19 |
-| D. Tamil Nadu | 4. 12 |
-
----
-
-
-### Match Matrix: State ↔ Rajya Sabha Seats
-
-| List-I (State) | List-II (Rajya Sabha seats) |
-|-----------------|-----------------------------|
-| A. Jharkhand | 1. 3 |
-| B. Uttarakhand | 2. 5 |
-| C. Chhattisgarh | 3. 7 |
-| D. Punjab | 4. 6 |
-
----
-
-
-### Match Matrix: State ↔ Rajya Sabha Seats
-
-| List-I (State) | List-II (Rajya Sabha seats) |
-|----------------|-----------------------------|
-| A. Gujarat | 1. 9 |
-| B. Karnataka | 2. 10 |
-| C. Kerala | 3. 11 |
-| D. Odisha | 4. 12 |
 
 ---
 
@@ -471,18 +401,6 @@ hide:
 | B | 15 | 07 | 22 |
 | C | 10 | 05 | 15 |
 | D | 17 | 10 | 27 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Public Accounts Committee | 1. Ad hoc Committee |
-| B. Committee on Petitions | 2. Standing Committee |
-| C. Joint Committee on Stock Market Scam | 3. Financial Committee |
-| D. Departmental Committees | 4. Functional Committee |
 
 ---
 
@@ -861,3 +779,160 @@ D. 31st and 42nd Amendments
 **Ans: C.** The relevant changes were made by the **7th and 31st Constitutional Amendments**.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List I — State / Union Territory ↔ List Ii — Lok Sabha Seats**
+
+| List I — State / Union Territory | List II — Lok Sabha seats |
+|---|---|
+| A. Chhattisgarh | 1. 11 |
+| B. Maharashtra | 2. 48 |
+| C. West Bengal | 3. 42 |
+| D. Uttarakhand | 4. 5 |
+
+*Row order is not the answer code.*
+
+A. 4 2 3 1
+
+B. 2 4 3 1
+
+C. 4 3 2 1
+
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 2 3 1**.
+
+**Logic:** A → 4 (Chhattisgarh ↔ 5) B → 2 (Maharashtra ↔ 48) C → 3 (West Bengal ↔ 42) D → 1 (Uttarakhand ↔ 11). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List I — State ↔ List Ii — Lok Sabha Seats**
+
+| List I — State | List II — Lok Sabha seats |
+|---|---|
+| A. Maharashtra | 1. 48 |
+| B. Chhattisgarh | 2. 11 |
+| C. Andhra Pradesh | 3. 25 |
+| D. West Bengal | 4. 42 |
+|  | 5. 39 |
+
+*Row order is not the answer code.*
+
+A. 1 3 2 4
+
+B. 3 1 2 4
+
+C. 3 2 1 4
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 1 2 4**.
+
+**Logic:** A → 3 (Maharashtra ↔ 25) B → 1 (Chhattisgarh ↔ 48) C → 2 (Andhra Pradesh ↔ 11) D → 4 (West Bengal ↔ 42). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**State ↔ Rajya Sabha Seats**
+
+| List-I (State) | List-II (Rajya Sabha seats) |
+|---|---|
+| A. Maharashtra | 1. 16 |
+| B. Karnataka | 2. 18 |
+| C. Bihar | 3. 19 |
+| D. Tamil Nadu | 4. 12 |
+
+*Row order is not the answer code.*
+
+A. 4 3 1 2
+
+B. 3 1 4 2
+
+C. 3 4 1 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **3 4 1 2**.
+
+**Logic:** A → 3 (Maharashtra ↔ 19) B → 4 (Karnataka ↔ 12) C → 1 (Bihar ↔ 16) D → 2 (Tamil Nadu ↔ 18). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**State ↔ Rajya Sabha Seats**
+
+| List-I (State) | List-II (Rajya Sabha seats) |
+|---|---|
+| A. Jharkhand | 1. 3 |
+| B. Uttarakhand | 2. 5 |
+| C. Chhattisgarh | 3. 7 |
+| D. Punjab | 4. 6 |
+
+*Row order is not the answer code.*
+
+A. 1 4 2 3
+
+B. 4 2 1 3
+
+C. 4 1 3 2
+
+D. 4 1 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Jharkhand ↔ 6) B → 1 (Uttarakhand ↔ 3) C → 2 (Chhattisgarh ↔ 5) D → 3 (Punjab ↔ 7). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**State ↔ Rajya Sabha Seats**
+
+| List-I (State) | List-II (Rajya Sabha seats) |
+|---|---|
+| A. Gujarat | 1. 9 |
+| B. Karnataka | 2. 10 |
+| C. Kerala | 3. 11 |
+| D. Odisha | 4. 12 |
+
+*Row order is not the answer code.*
+
+A. 3 4 1 2
+
+B. 4 3 1 2
+
+C. 3 1 4 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **3 4 1 2**.
+
+**Logic:** A → 3 (Gujarat ↔ 11) B → 4 (Karnataka ↔ 12) C → 1 (Kerala ↔ 9) D → 2 (Odisha ↔ 10). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -65,49 +65,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. UNCCD | 1. 17 June |
-| B. Desertification Day | 2. Adopted 1994 |
-| C. LDN | 3. No net loss healthy land by 2030 (SDG 15.3) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Overgrazing | 1. Raises runoff/erosion |
-| B. Afforestation | 2. Top dryland cause in many facts |
-| C. Deforestation | 3. Helps prevent further degradation |
-
----
-
-
-### Match Matrix: Rivers ↔ Tributaries & Confluences
-
-| List-I | List-II |
-|--------|--------|
-| A. Meteorological drought | 1. Rivers/groundwater stress neighbourhood |
-| B. Agricultural drought | 2. Low rainfall |
-| C. Hydrological drought | 3. Soil moisture / crop stress |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Sheet erosion | 1. Deep badland networks |
-| B. Gully | 2. Thin film removal |
-| C. Ravine | 3. Channel cutting |
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -431,3 +388,34 @@ D. Only AQI controls ravines
 **Logic:** Feedback loop.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. UNCCD | 1. 17 June |
+| B. Desertification Day | 2. Adopted 1994 |
+| C. LDN | 3. No net loss healthy land by 2030 (SDG 15.3) |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (UNCCD ↔ 17 June) B → 2 (Desertification Day ↔ Adopted 1994) C → 3 (LDN ↔ No net loss healthy land by 2030 (SDG 15.3)). Trap: treating table row order as the answer code.
+
+</details>
+

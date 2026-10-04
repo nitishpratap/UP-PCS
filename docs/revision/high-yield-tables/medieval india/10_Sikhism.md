@@ -125,42 +125,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Kabir | 1. Guru Nanak Dev |
-| B. Amir Khusrau | 2. Swami Ramananda |
-| C. Surdas | 3. Nizamuddin Auliya |
-| D. Mardana | 4. Vallabhacharya |
-
----
-
-
-### Match Matrix: Guru ↔ Key Institution / Contribution
-
-| List-I (Guru) | List-II (Key Institution / Contribution) |
-|---------------|------------------------------------------|
-| A. Guru Angad | 1. 22 Manjis; Goindwal langar |
-| B. Guru Amar Das | 2. Gurmukhi standardisation |
-| C. Guru Ram Das | 3. Amritsar / Ramdaspur (Akbar grant to Bibi Bhani) |
-| D. Guru Hargobind | 4. Miri–Piri; Akal Takht |
-
----
-
-
-### Match Matrix: City ↔ Historical Association
-
-| List-I (City) | List-II (Historical Association) |
-|---------------|----------------------------------|
-| A. Patna | 1. Gobind Singh death; eternal Granth (1708) |
-| B. Nanded / Hazur Sahib | 2. Gobind Singh birth (1666) |
-| C. Anandpur Sahib | 3. Khalsa founding (1699) |
-| D. Amritsar | 4. Ramdaspur / Harmandir Sahib |
-
----
-
-
 ### Comparative Matrix: Guru ↔ Tag
 
 | Guru | Tag |
@@ -171,17 +135,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Event ↔ Year / Context
-
-| List-I (Event) | List-II (Year / Context) |
-|----------------|--------------------------|
-| A. Guru Arjan martyrdom | 1. 1675 CE under Aurangzeb |
-| B. Guru Tegh Bahadur martyrdom | 2. 1606 CE under Jahangir |
-| C. Founding of Khalsa | 3. Anandpur Sahib Vaisakhi 1699 CE |
-| D. Eternal Granth investiture | 4. Nanded 1708 CE |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -612,3 +565,97 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - *Guru Innovation Attribution:* **Miri-Piri & Akal Takht** = **Guru Hargobind (6th Guru)**; **Khalsa & Panj Pyare** = **Guru Gobind Singh (10th Guru)**.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Guru ↔ Key Institution / Contribution**
+
+| List-I (Guru) | List-II (Key Institution / Contribution) |
+|---|---|
+| A. Guru Angad | 1. 22 Manjis; Goindwal langar |
+| B. Guru Amar Das | 2. Gurmukhi standardisation |
+| C. Guru Ram Das | 3. Amritsar / Ramdaspur (Akbar grant to Bibi Bhani) |
+| D. Guru Hargobind | 4. Miri–Piri; Akal Takht |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Guru Angad ↔ Gurmukhi standardisation) B → 1 (Guru Amar Das ↔ 22 Manjis; Goindwal langar) C → 3 (Guru Ram Das ↔ Amritsar / Ramdaspur (Akbar grant to Bibi Bhani)) D → 4 (Guru Hargobind ↔ Miri–Piri; Akal Takht). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**City ↔ Historical Association**
+
+| List-I (City) | List-II (Historical Association) |
+|---|---|
+| A. Patna | 1. Gobind Singh death; eternal Granth (1708) |
+| B. Nanded / Hazur Sahib | 2. Gobind Singh birth (1666) |
+| C. Anandpur Sahib | 3. Khalsa founding (1699) |
+| D. Amritsar | 4. Ramdaspur / Harmandir Sahib |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Patna ↔ Gobind Singh birth (1666)) B → 1 (Nanded / Hazur Sahib ↔ Gobind Singh death; eternal Granth (1708)) C → 3 (Anandpur Sahib ↔ Khalsa founding (1699)) D → 4 (Amritsar ↔ Ramdaspur / Harmandir Sahib). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Event ↔ Year / Context**
+
+| List-I (Event) | List-II (Year / Context) |
+|---|---|
+| A. Guru Arjan martyrdom | 1. 1675 CE under Aurangzeb |
+| B. Guru Tegh Bahadur martyrdom | 2. 1606 CE under Jahangir |
+| C. Founding of Khalsa | 3. Anandpur Sahib Vaisakhi 1699 CE |
+| D. Eternal Granth investiture | 4. Nanded 1708 CE |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Guru Arjan martyrdom ↔ 1606 CE under Jahangir) B → 1 (Guru Tegh Bahadur martyrdom ↔ 1675 CE under Aurangzeb) C → 3 (Founding of Khalsa ↔ Anandpur Sahib Vaisakhi 1699 CE) D → 4 (Eternal Granth investiture ↔ Nanded 1708 CE). Trap: treating table row order as the answer code.
+
+</details>
+

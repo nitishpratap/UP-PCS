@@ -101,53 +101,6 @@ hide:
 ---
 
 
-### Match Matrix: Treatise ↔ Author
-
-| List-I (Treatise) | List-II (Author) |
-|-------------------|------------------|
-| A. Ragamala | 1. Somanath |
-| B. Rasa Kaumudi | 2. Pundrik Vitthal |
-| C. Raga Vibodh | 3. Sri Kantha |
-| D. Chaturdandi Prakashika | 4. Venkatamakhin |
-
----
-
-
-### Match Matrix: Form ↔ Tag
-
-| List-I (Form) | List-II (Tag) |
-|---------------|---------------|
-| A. Khayal | 1. Nonsense syllables; Khusrau tradition |
-| B. Tarana | 2. Muhammad Shah / Sadarang–Adarang bloom |
-| C. Thumri | 3. Awadh–Banaras romantic light classical |
-| D. Sama | 4. Chishti musical assembly |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Brihaddeshi | 1. Sharngadeva |
-| B. Sangeet Ratnakar | 2. Matanga |
-| C. Raja Ramchandra (Rewa) | 3. Pre-Akbar Tansen patron |
-| D. Muhammad Shah | 4. Khayal / tappa bloom |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Dhrupad | 1. Tabla |
-| B. Khayal | 2. Pakhawaj |
-| C. Kajri | 3. Mirzapur–Banaras belt |
-| D. Agra gharana | 4. Khayal centre |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Dhrupad is the oldest art form, uses pakhawaj (पखावज), and runs from Man Singh (मान सिंह) Tomar to Tansen (तानसेन).
@@ -560,3 +513,128 @@ D. Only 1
 - *Complete Historical Synthesis:* Sultanate (Khusrau / Qawwali / Tarana) → Early Mughal (Akbar / Tansen / Dhrupad) → Later Mughal (Muhammad Shah / Sadarang / Khayal & Tappa).
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Treatise ↔ Author**
+
+| List-I (Treatise) | List-II (Author) |
+|---|---|
+| A. Ragamala | 1. Somanath |
+| B. Rasa Kaumudi | 2. Pundrik Vitthal |
+| C. Raga Vibodh | 3. Sri Kantha |
+| D. Chaturdandi Prakashika | 4. Venkatamakhin |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Ragamala ↔ Pundrik Vitthal) B → 3 (Rasa Kaumudi ↔ Sri Kantha) C → 1 (Raga Vibodh ↔ Somanath) D → 4 (Chaturdandi Prakashika ↔ Venkatamakhin). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Form ↔ Tag**
+
+| List-I (Form) | List-II (Tag) |
+|---|---|
+| A. Khayal | 1. Nonsense syllables; Khusrau tradition |
+| B. Tarana | 2. Muhammad Shah / Sadarang–Adarang bloom |
+| C. Thumri | 3. Awadh–Banaras romantic light classical |
+| D. Sama | 4. Chishti musical assembly |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Khayal ↔ Muhammad Shah / Sadarang–Adarang bloom) B → 1 (Tarana ↔ Nonsense syllables; Khusrau tradition) C → 3 (Thumri ↔ Awadh–Banaras romantic light classical) D → 4 (Sama ↔ Chishti musical assembly). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Brihaddeshi | 1. Sharngadeva |
+| B. Sangeet Ratnakar | 2. Matanga |
+| C. Raja Ramchandra (Rewa) | 3. Pre-Akbar Tansen patron |
+| D. Muhammad Shah | 4. Khayal / tappa bloom |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Brihaddeshi ↔ Matanga) B → 1 (Sangeet Ratnakar ↔ Sharngadeva) C → 3 (Raja Ramchandra (Rewa) ↔ Pre-Akbar Tansen patron) D → 4 (Muhammad Shah ↔ Khayal / tappa bloom). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Dhrupad | 1. Tabla |
+| B. Khayal | 2. Pakhawaj |
+| C. Kajri | 3. Mirzapur–Banaras belt |
+| D. Agra gharana | 4. Khayal centre |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Dhrupad ↔ Pakhawaj) B → 1 (Khayal ↔ Tabla) C → 3 (Kajri ↔ Mirzapur–Banaras belt) D → 4 (Agra gharana ↔ Khayal centre). Trap: treating table row order as the answer code.
+
+</details>
+

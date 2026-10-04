@@ -337,41 +337,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Tsunami warning hub | 1. INCOIS, Hyderabad |
-| B. NDMA chair | 2. Prime Minister |
-| C. SDMA chair | 3. Chief Minister |
-| D. DDMA chair | 4. District Magistrate / Collector |
-
----
-
-
-### Match Matrix: Local Name ↔ Details
-
-| List-I (Local name) | List-II |
-|---|---|
-| A. Baguio | 1. Philippines |
-| B. Hurricane | 2. USA |
-| C. Willy-willy | 3. Australia |
-| D. Typhoon / Taifu | 4. China–Japan |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Kangra | 1. 1905 |
-| B. Bihar–Nepal | 2. 1934 |
-| C. Bhuj | 3. 2001 |
-| D. Indian Ocean tsunami | 4. 26 Dec 2004 |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Kilimanjaro sits on the East African Rift and is not part of the Pacific Ring of Fire.
@@ -710,3 +675,35 @@ D. A-1, B-2, C-4, D-3
 **Logic:** Sumatra megathrust drove the 2004 tsunami.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Tsunami warning hub | 1. INCOIS, Hyderabad |
+| B. NDMA chair | 2. Prime Minister |
+| C. SDMA chair | 3. Chief Minister |
+| D. DDMA chair | 4. District Magistrate / Collector |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Tsunami warning hub ↔ INCOIS, Hyderabad) B → 2 (NDMA chair ↔ Prime Minister) C → 3 (SDMA chair ↔ Chief Minister) D → 4 (DDMA chair ↔ District Magistrate / Collector). Trap: treating table row order as the answer code.
+
+</details>
+

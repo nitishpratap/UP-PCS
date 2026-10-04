@@ -91,38 +91,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Point source | 1. Farm runoff / roads |
-| B. Non-point source | 2. Chimneys / drains |
-| C. PAN | 3. Strong eye irritant in photochemical smog |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. NCAP | 1. 2020 |
-| B. BS-VI | 2. 2019 |
-| C. Air Act noise inclusion amendment | 3. 1987 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Water Act | 1. 1986 |
-| B. Air Act | 2. 1974 |
-| C. EPA | 3. 1981 |
-
----
-
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
@@ -462,3 +430,34 @@ D. A-3, B-1, C-2
 **Logic:** NCAP 2019; BS-VI 2020; noise via Air Act 1987.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. NCAP | 1. 2020 |
+| B. BS-VI | 2. 2019 |
+| C. Air Act noise inclusion amendment | 3. 1987 |
+
+*Row order is not the answer code.*
+
+A. 1 2 3
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3**.
+
+**Logic:** A → 1 (NCAP ↔ 2020) B → 2 (BS-VI ↔ 2019) C → 3 (Air Act noise inclusion amendment ↔ 1987). Trap: treating table row order as the answer code.
+
+</details>
+

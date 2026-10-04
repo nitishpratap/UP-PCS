@@ -98,41 +98,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Shankari Prasad (1951) | 1. FR cannot be amended (6:5) |
-| B. Sajjan Singh (1965) | 2. 368 can amend FR |
-| C. Golaknath (1967) | 3. Upheld 17th; Mudholkar hint |
-| D. Kesavananda (1973) | 4. Basic Structure ceiling (7:6) |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Puttaswamy (2017) | 1. Privacy = FR under Art. 21 |
-| B. Shreya Singhal (2015) | 2. IT Act s.66A struck |
-| C. Vishaka (1997) | 3. Workplace sexual-harassment guidelines |
-| D. Joseph Shine (2018) | 4. s.497 IPC adultery crime struck |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Waman Rao (1981) | 1. Cut-off date 24 Apr 1973 for 9th Schedule review |
-| B. I.R. Coelho (2007) | 2. 9-judge: post-cut-off 9th Schedule still faces BS |
-| C. Bommai (1994) | 3. Secularism as BS for Art. 356 misuse |
-| D. NJAC (2015) | 4. Judicial independence as BS |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** 1950 Gopalan → 1951 Shankari / 1st Amd → 1960 Berubari / 9th Amd → 1965 Sajjan → 1967 Golaknath → 1971 24th Amd → 24 Apr 1973 Kesavananda (13-j 7:6)

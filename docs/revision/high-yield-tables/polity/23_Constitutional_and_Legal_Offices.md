@@ -158,41 +158,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. ECI | 1. Article 165 |
-| B. Advocate General | 2. Article 324 |
-| C. CAG | 3. Articles 148–151 |
-| D. UPSC | 4. Articles 315–323 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. CEC 2023 panel | 1. Includes CJI (or nominee) |
-| B. Lokpal panel | 2. PM + LoP LS + Cabinet Minister (no CJI) |
-| C. SEC (243K) | 3. Local-body polls |
-| D. ECI (324) | 4. Parliament / State legislature / President–VP polls |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. President resigns | 1. To President |
-| B. Vice-President resigns | 2. To Vice-President |
-| C. Governor resigns | 3. To President |
-| D. CJI resigns | 4. To President |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Article:76 (office) · 88 (Houses) · 105 privileges while performing

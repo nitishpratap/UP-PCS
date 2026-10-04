@@ -184,42 +184,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Kuru | 1. Saket |
-| B. Panchala | 2. Kaushambi |
-| C. Kosala | 3. Ahichchhatra |
-| D. Vatsa | 4. Indraprastha |
-
----
-
-
-### Match Matrix: Mahajanpadas ↔ Capitals
-
-| List-I (Mahajanpadas) | List-II (Capitals) |
-|-----------------------|-------------------|
-| A. Matsya | 1. Mathura |
-| B. Kuru | 2. Potan |
-| C. Sursena | 3. Virat Nagar |
-| D. Asmak | 4. Indraprastha |
-
----
-
-
-### Match Matrix: King ↔ State
-
-| List-I (King) | List-II (State) |
-|---------------|-----------------|
-| A. Pradyot | 1. Magadha |
-| B. Udayana | 2. Vatsa |
-| C. Prasenjit | 3. Avanti |
-| D. Ajatashatru | 4. Kosala |
-
----
-
-
 ### Match Matrix: Mahajanapada ↔ Capital
 
 | List-I (Mahajanapada) | List-II (Capital) |
@@ -618,3 +582,66 @@ D. Only 2 and 3
 **Logic:** Source diversity is itself a Must-Score fact.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Kuru | 1. Saket |
+| B. Panchala | 2. Kaushambi |
+| C. Kosala | 3. Ahichchhatra |
+| D. Vatsa | 4. Indraprastha |
+
+*Row order is not the answer code.*
+
+A. 4 3 1 2
+
+B. 3 4 1 2
+
+C. 4 1 3 2
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 3 1 2**.
+
+**Logic:** A → 4 (Kuru ↔ Indraprastha) B → 3 (Panchala ↔ Ahichchhatra) C → 1 (Kosala ↔ Saket) D → 2 (Vatsa ↔ Kaushambi). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Mahajanpadas ↔ Capitals**
+
+| List-I (Mahajanpadas) | List-II (Capitals) |
+|---|---|
+| A. Matsya | 1. Mathura |
+| B. Kuru | 2. Potan |
+| C. Sursena | 3. Virat Nagar |
+| D. Asmak | 4. Indraprastha |
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 4 1 3**.
+
+**Logic:** A → 2 (Matsya ↔ Potan) B → 4 (Kuru ↔ Indraprastha) C → 1 (Sursena ↔ Mathura) D → 3 (Asmak ↔ Virat Nagar). Trap: treating table row order as the answer code.
+
+</details>
+

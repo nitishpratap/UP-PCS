@@ -230,27 +230,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. First CEC | 1. V.S. Ramadevi |
-| B. First woman CEC | 2. Sukumar Sen |
-| C. Multi-member EC from | 3. 1993 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. GST Council | 1. Executive body |
-| B. NITI Aayog | 2. Constitutional (101st) |
-| C. NHRC | 3. Statutory |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Articles 350, 350A, and 350B came through the 7th Amendment (1956), not the 9th. 350 allows representation in any language; 350A (अनु. 350A) protects mother-tongue instruction at the primary stage; 350B creates one Special Officer for Linguistic Minorities for the whole of India.
@@ -535,3 +514,64 @@ D. Only (i)
 **Ans: D. Only (i).**
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. First CEC | 1. V.S. Ramadevi |
+| B. First woman CEC | 2. Sukumar Sen |
+| C. Multi-member EC from | 3. 1993 |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (First CEC ↔ Sukumar Sen) B → 1 (First woman CEC ↔ V.S. Ramadevi) C → 3 (Multi-member EC from ↔ 1993). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. GST Council | 1. Executive body |
+| B. NITI Aayog | 2. Constitutional (101st) |
+| C. NHRC | 3. Statutory |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3**.
+
+**Logic:** A → 2 (GST Council ↔ Constitutional (101st)) B → 1 (NITI Aayog ↔ Executive body) C → 3 (NHRC ↔ Statutory). Trap: treating table row order as the answer code.
+
+</details>
+

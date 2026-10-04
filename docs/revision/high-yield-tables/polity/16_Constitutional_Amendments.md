@@ -83,100 +83,6 @@ hide:
 ---
 
 
-### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
-
-| List-I: Amendment | List-II: Subject |
-|---|---|
-| A. 13th Amendment | i. Nagaland |
-| B. 18th Amendment | ii. Anti-defection law |
-| C. 39th Amendment | iii. Clarified “State” |
-| D. 52nd Amendment | iv. Elections of the President, Vice-President, Speaker and Prime Minister placed beyond challenge |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I: Provision | List-II: Amendment |
-|---|---|
-| A. Curtailment of judicial review | 1. 61st Amendment |
-| B. Abolition of the Right to Property as a Fundamental Right | 2. 42nd Amendment |
-| C. Lowering voting age from 21 to 18 | 3. 38th Amendment |
-| D. Addition of “Secular” to the Preamble | 4. 44th Amendment |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I: Amendment | List-II: Subject |
-|---|---|
-| A. 69th Amendment Act, 1991 | 1. State-level Rent Tribunals |
-| B. 75th Amendment Act, 1994 | 2. No SC reservation in Arunachal Pradesh Panchayats |
-| C. 80th Amendment Act, 2000 | 3. Constitution of Panchayats |
-| D. 83rd Amendment Act, 2000 | 4. Tenth Finance Commission recommendations |
-|  | 5. NCT status for Delhi |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I: Provision | List-II: Amendment |
-|---|---|
-| A. Right to form cooperative societies under Article 19(1)(c) | i. 81st Amendment, 2000 |
-| B. Protection of SC/ST reservation in backlog vacancies | ii. 91st Amendment, 2003 |
-| C. National Judicial Appointments Commission | iii. 97th Amendment, 2011 |
-| D. Limiting the Council of Ministers | iv. 99th Amendment, 2014 |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I: Amendment | List-II: Provision amended |
-|---|---|
-| A. 94th Amendment Act, 2006 | 1. Article 164 |
-| B. 95th Amendment Act, 2009 | 2. Article 334 |
-| C. 96th Amendment Act, 2011 | 3. Eighth Schedule |
-| D. 103rd Amendment Act, 2019 | 4. Article 15 |
-
----
-
-
-### Comparative Matrix: List-A: Case ↔ List-B: Amendment Challenged
-
-| List-A: Case | List-B: Amendment challenged |
-|---|---|
-| A. Indira Gandhi v Raj Narain | i. 42nd Amendment |
-| B. Minerva Mills v Union of India | ii. 52nd Amendment |
-| C. Kihoto Hollohan v Zachillhu | iii. 39th Amendment |
-| D. P. Sambamurthy v State of A.P. | iv. 32nd Amendment |
-
----
-
-
-### Match Matrix: Amendment ↔ Tag
-
-| List-I (Amendment) | List-II (Tag) |
-|--------------------|----------------|
-| A. 1st (1951) | 1. Socialist/Secular/Integrity; Duties; Mini-Constitution |
-| B. 42nd (1976) | 2. 15(4); 19(2); 31A/31B + 9th Schedule |
-| C. 44th (1978) | 3. Property to 300A; unsuspendable 20/21; Emergency rewrite |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. 25th Amendment | 1. Asserted power to amend Part III; President shall assent |
-| B. 24th Amendment | 2. 31C linked to 39(b)/(c); ‘amount’ language |
-| C. 43rd Amendment | 3. Undid judicial bars such as 32A/131A |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** 2025 — 42nd Preamble (प्रस्तावना) = Socialist + Secular (direct).
@@ -535,3 +441,34 @@ Legislatures according to the requirements of the provision
 of Article 368(2) of the Constitution.**
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Amendment ↔ Tag**
+
+| List-I (Amendment) | List-II (Tag) |
+|---|---|
+| A. 1st (1951) | 1. Socialist/Secular/Integrity; Duties; Mini-Constitution |
+| B. 42nd (1976) | 2. 15(4); 19(2); 31A/31B + 9th Schedule |
+| C. 44th (1978) | 3. Property to 300A; unsuspendable 20/21; Emergency rewrite |
+
+*Row order is not the answer code.*
+
+A. 2 1 3
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3**.
+
+**Logic:** A → 2 (1st (1951) ↔ 15(4); 19(2); 31A/31B + 9th Schedule) B → 1 (42nd (1976) ↔ Socialist/Secular/Integrity; Duties; Mini-Constitution) C → 3 (44th (1978) ↔ Property to 300A; unsuspendable 20/21; Emergency rewrite). Trap: treating table row order as the answer code.
+
+</details>
+

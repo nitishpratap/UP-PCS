@@ -201,42 +201,6 @@ hide:
 ---
 
 
-### Match Matrix: Country ↔ Mountain
-
-| List-I (Country) | List-II (Mountain) |
-|------------------|--------------------|
-| A. Spain–France | 1. Alps |
-| B. Switzerland | 2. Apennine |
-| C. Bulgaria | 3. Pyrenees |
-| D. Italy | 4. Balkan |
-
----
-
-
-### Match Matrix: Mountain ↔ Country
-
-| List-I (Mountain) | List-II (Country) |
-|-------------------|-------------------|
-| A. Atlas | 1. France/Spain |
-| B. Kalimanjaro | 2. Ecuador |
-| C. Chimbrozo | 3. Tanzania |
-| D. Pyrenees | 4. Morocco |
-
----
-
-
-### Match Matrix: Mountain ↔ Country
-
-| List-I (Mountain) | List-II (Country) |
-|-------------------|-------------------|
-| A. Kilimanjaro | 1. Morocco |
-| B. Toubkal | 2. Algeria |
-| C. Stanley | 3. Tanzania |
-| D. Hoggar | 4. Uganda |
-
----
-
-
 ### Comparative Matrix: Kind ↔ Meaning ↔ World Example
 
 | Kind | Meaning | World example |
@@ -355,18 +319,6 @@ hide:
 | **Mt Kenya** | Kenya | Rift. Lower than Kilimanjaro |
 | **Erebus** | Antarctica | Ross Island; southern active |
 | **Hekla** | Iceland | Mid-Atlantic |
-
----
-
-
-### Match Matrix: Volcanic Mountains ↔ Country
-
-| List-I (Volcanic Mountains) | List-II (Country) |
-|-----------------------------|-------------------|
-| A. Mount Rainier | 1. Italy |
-| B. Mount Etna | 2. Mexico |
-| C. Mount Pericutine | 3. Philippines |
-| D. Mount Apo | 4. U.S.A. |
 
 ---
 
@@ -565,42 +517,6 @@ hide:
 ---
 
 
-### Match Matrix: Vegetation Type ↔ Region
-
-| List-I (Vegetation Type) | List-II (Region) |
-|--------------------------|------------------|
-| A. Maquis | 1. California |
-| B. Fynbus | 2. Mediterranean Sea Coastal Region |
-| C. Chaparral | 3. South Africa |
-| D. Matorral | 4. Chile |
-
----
-
-
-### Match Matrix: Natural Vegetation ↔ Region
-
-| List-I (Natural Vegetation) | List-II (Region) |
-|-----------------------------|------------------|
-| A. Epiphytes | 1. Mediterranean |
-| B. Acacia | 2. Equatorial |
-| C. Buobab | 3. Sahara |
-| D. Cedars | 4. Savanna |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Planting Hearth | 1. Hungary |
-| B. Cryophyte Steppe | 2. Adolf Engler |
-| C. World Floral Regions | 3. C.O. Sauer |
-| D. Puszta Grassland | 4. Arctic Tundra |
-
----
-
-
 ### Crop Cultivation, Growing Conditions & Producing States
 
 | Type (Köppen (कोपेन)) | Where | Rain timing | Vegetation / crop |
@@ -621,246 +537,6 @@ hide:
 ---
 
 
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Planting Hearth | 1. Hungary |
-| B. Cryophyte Steppe | 2. Adolf Engler |
-| C. World Floral Regions | 3. C.O. Sauer |
-| D. Puszta Grassland | 4. Arctic Tundra |
-
----
-
-
-### Match Matrix: Country ↔ Mountain
-
-| List-I (Country) | List-II (Mountain) |
-|------------------|--------------------|
-| A. Spain–France | 1. Alps |
-| B. Switzerland | 2. Apennine |
-| C. Bulgaria | 3. Pyrenees |
-| D. Italy | 4. Balkan |
-
----
-
-
-### Match Matrix: Mountain ↔ Country
-
-| List-I (Mountain) | List-II (Country) |
-|-------------------|-------------------|
-| A. Kilimanjaro | 1. Morocco |
-| B. Toubkal | 2. Algeria |
-| C. Stanley | 3. Tanzania |
-| D. Hoggar | 4. Uganda |
-
----
-
-
-### Match Matrix: Volcanic Mountains ↔ Country
-
-| List-I (Volcanic Mountains) | List-II (Country) |
-|-----------------------------|-------------------|
-| A. Mount Rainier | 1. Italy |
-| B. Mount Etna | 2. Mexico |
-| C. Mount Pericutine | 3. Philippines |
-| D. Mount Apo | 4. U.S.A. |
-
----
-
-
-### Match Matrix: Mountain ↔ Country
-
-| List-I (Mountain) | List-II (Country) |
-|-------------------|-------------------|
-| A. Atlas | 1. France/Spain |
-| B. Kalimanjaro | 2. Ecuador |
-| C. Chimbrozo | 3. Tanzania |
-| D. Pyrenees | 4. Morocco |
-
----
-
-
-### Match Matrix: Vegetation Type ↔ Region
-
-| List-I (Vegetation Type) | List-II (Region) |
-|--------------------------|------------------|
-| A. Maquis | 1. California |
-| B. Fynbus | 2. Mediterranean Sea Coastal Region |
-| C. Chaparral | 3. South Africa |
-| D. Matorral | 4. Chile |
-
----
-
-
-### Match Matrix: Natural Vegetation ↔ Region
-
-| List-I (Natural Vegetation) | List-II (Region) |
-|-----------------------------|------------------|
-| A. Epiphytes | 1. Mediterranean |
-| B. Acacia | 2. Equatorial |
-| C. Buobab | 3. Sahara |
-| D. Cedars | 4. Savanna |
-
----
-
-
-### Match Matrix: Global Landforms ↔ Locations
-
-| List-I | List-II |
-|--------|---------|
-| A. Aconcagua | 1. Meseta (Spain) |
-| B. Serengeti | 2. Argentina (Andes) |
-| C. Gibson Desert | 3. Tanzania (savanna belt) |
-| D. Madrid Plateau | 4. Australia |
-
----
-
-
-### Match Matrix: Range ↔ Region
-
-| List-I (Range) | List-II (Region) |
-|----------------|------------------|
-| A. Andes | 1. Central Asia |
-| B. Altai | 2. South America |
-| C. Alps | 3. Europe |
-| D. Appalachians | 4. Eastern USA |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Allegheny | 1. Iran |
-| B. Cantabrian | 2. USA |
-| C. Elburz | 3. Spain |
-| D. Mackenzie | 4. Canada |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Kosciuszko | 1. Europe |
-| B. McKinley (Denali) | 2. Australia |
-| C. Elbrus | 3. North America |
-| D. Kilimanjaro | 4. Africa |
-
----
-
-
-### Match Matrix: Peak ↔ Country
-
-| List-I (Peak) | List-II (Country) |
-|---------------|-------------------|
-| A. Kilimanjaro | 1. Morocco |
-| B. Toubkal | 2. Algeria |
-| C. Stanley | 3. Tanzania |
-| D. Hoggar | 4. Uganda |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|---------|
-| A. Alps | 1. Japan |
-| B. Vosges | 2. France |
-| C. Vindhyas | 3. Europe (Alps belt) |
-| D. Fuji | 4. India |
-
----
-
-
-### Match Matrix: Peak ↔ Continent
-
-| List-I (Peak) | List-II (Continent) |
-|---------------|---------------------|
-| A. Elbrus | 1. Africa |
-| B. Kilimanjaro | 2. Europe |
-| C. Cook (Aoraki) | 3. Oceania / NZ |
-| D. McKinley | 4. North America |
-
----
-
-
-### Match Matrix: Mountain Peaks ↔ Mountain Ranges / States
-
-| List-I | List-II |
-|--------|---------|
-| A. Atlas | 1. Tanzania |
-| B. Kilimanjaro | 2. Ecuador |
-| C. Chimborazo | 3. Morocco (Atlas peak zone) |
-| D. Pyrenees | 4. Spain–France |
-
----
-
-
-### Match Matrix: Range ↔ Region
-
-| List-I (Range) | List-II (Region) |
-|----------------|------------------|
-| A. Allegheny | 1. Iran |
-| B. Cantabrian | 2. USA |
-| C. Elburz | 3. Spain |
-| D. Mackenzie | 4. Canada |
-
----
-
-
-### Match Matrix: Peak ↔ Continent
-
-| List-I (Peak) | List-II (Continent) |
-|---------------|---------------------|
-| A. Kosciuszko | 1. Europe |
-| B. McKinley (Denali) | 2. North America |
-| C. Elbrus | 3. Australia |
-| D. Kilimanjaro | 4. Africa |
-
----
-
-
-### Match Matrix: Grassland ↔ Country / Continent
-
-| List-I (Grassland) | List-II (Country / continent) |
-|--------------------|-------------------------------|
-| A. Steppes | 1. United States of America |
-| B. Prairies | 2. South Africa |
-| C. Welds | 3. Russia |
-| D. Downs | 4. Australia |
-
----
-
-
-### Match Matrix: Grassland ↔ Continent
-
-| List-I (Grassland) | List-II (Continent) |
-|--------------------|---------------------|
-| A. Llanos | 1. North America |
-| B. Steppe | 2. Africa |
-| C. Prairies | 3. Europe |
-| D. Veld | 4. South America |
-
----
-
-
-### Match Matrix: Grasslands ↔ Countries
-
-| List-I (Grasslands) | List-II (Countries) |
-|---------------------|---------------------|
-| A. Pampas | 1. Australia |
-| B. Pustaz | 2. South Africa |
-| C. Veld | 3. Argentina |
-| D. Downs | 4. Hungary |
-
----
-
-
 ### Comparative Matrix: Feature ↔ Association
 
 | Feature | Association |
@@ -871,53 +547,6 @@ hide:
 
 ---
 
-
-### Match Matrix: Range / Peak ↔ Location
-
-| List-I (Range / peak) | List-II (Location) |
-|------------------------|--------------------|
-| A. Pyrenees | 1. Italy |
-| B. Apennine | 2. Spain–France |
-| C. Toubkal | 3. Morocco (Atlas) |
-| D. Kilimanjaro | 4. Tanzania (E African Rift) |
-
----
-
-
-### Match Matrix: Scrub / Biome Tag ↔ Region
-
-| List-I (Scrub / biome tag) | List-II (Region) |
-|-----------------------------|------------------|
-| A. Maquis | 1. California |
-| B. Chaparral | 2. Mediterranean basin |
-| C. Fynbos | 3. Chile |
-| D. Matorral | 4. South Africa |
-
----
-
-
-### Match Matrix: Peak ↔ Continent / Region
-
-| List-I (Peak) | List-II (Continent / region) |
-|----------------|------------------------------|
-| A. Elbrus | 1. Australia mainland |
-| B. Denali / McKinley | 2. Europe (Caucasus) |
-| C. Kosciuszko | 3. North America |
-| D. Aconcagua | 4. Andes (Argentina) |
-
----
-
-
-### Match Matrix: Tag ↔ Place
-
-| List-I (Tag) | List-II (Place) |
-|---------------|-----------------|
-| A. Black Forest | 1. Myanmar hills belt |
-| B. Arakan Yoma | 2. Germany (east of Rhine) |
-| C. Great Artesian Basin | 3. Middle East heights |
-| D. Golan Heights | 4. Australia |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 
@@ -1274,3 +903,593 @@ D. 1, 2, 3 and 4
 **Logic:** Gibson–Brazil is a frequent wrong dump.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Mountain ↔ Country**
+
+| List-I (Mountain) | List-II (Country) |
+|---|---|
+| A. Atlas | 1. France/Spain |
+| B. Kalimanjaro | 2. Ecuador |
+| C. Chimbrozo | 3. Tanzania |
+| D. Pyrenees | 4. Morocco |
+
+*Row order is not the answer code.*
+
+A. 4 2 3 1
+
+B. 2 4 3 1
+
+C. 4 3 2 1
+
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **4 2 3 1**.
+
+**Logic:** A → 4 (Atlas ↔ Morocco) B → 2 (Kalimanjaro ↔ Ecuador) C → 3 (Chimbrozo ↔ Tanzania) D → 1 (Pyrenees ↔ France/Spain). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Mountain ↔ Country**
+
+| List-I (Mountain) | List-II (Country) |
+|---|---|
+| A. Kilimanjaro | 1. Morocco |
+| B. Toubkal | 2. Algeria |
+| C. Stanley | 3. Tanzania |
+| D. Hoggar | 4. Uganda |
+
+*Row order is not the answer code.*
+
+A. 1 3 4 2
+
+B. 3 1 4 2
+
+C. 3 4 1 2
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 1 4 2**.
+
+**Logic:** A → 3 (Kilimanjaro ↔ Tanzania) B → 1 (Toubkal ↔ Morocco) C → 4 (Stanley ↔ Uganda) D → 2 (Hoggar ↔ Algeria). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Volcanic Mountains ↔ Country**
+
+| List-I (Volcanic Mountains) | List-II (Country) |
+|---|---|
+| A. Mount Rainier | 1. Italy |
+| B. Mount Etna | 2. Mexico |
+| C. Mount Pericutine | 3. Philippines |
+| D. Mount Apo | 4. U.S.A. |
+
+*Row order is not the answer code.*
+
+A. 1 4 2 3
+
+B. 4 2 1 3
+
+C. 4 1 2 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Mount Rainier ↔ U.S.A.) B → 1 (Mount Etna ↔ Italy) C → 2 (Mount Pericutine ↔ Mexico) D → 3 (Mount Apo ↔ Philippines). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q19.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Vegetation Type ↔ Region**
+
+| List-I (Vegetation Type) | List-II (Region) |
+|---|---|
+| A. Maquis | 1. California |
+| B. Fynbus | 2. Mediterranean Sea Coastal Region |
+| C. Chaparral | 3. South Africa |
+| D. Matorral | 4. Chile |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 4 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Maquis ↔ Mediterranean Sea Coastal Region) B → 3 (Fynbus ↔ South Africa) C → 1 (Chaparral ↔ California) D → 4 (Matorral ↔ Chile). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q20.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Natural Vegetation ↔ Region**
+
+| List-I (Natural Vegetation) | List-II (Region) |
+|---|---|
+| A. Epiphytes | 1. Mediterranean |
+| B. Acacia | 2. Equatorial |
+| C. Buobab | 3. Sahara |
+| D. Cedars | 4. Savanna |
+
+*Row order is not the answer code.*
+
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Epiphytes ↔ Equatorial) B → 3 (Acacia ↔ Sahara) C → 4 (Buobab ↔ Savanna) D → 1 (Cedars ↔ Mediterranean). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q21.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Mountain ↔ Country**
+
+| List-I (Mountain) | List-II (Country) |
+|---|---|
+| A. Kilimanjaro | 1. Morocco |
+| B. Toubkal | 2. Algeria |
+| C. Stanley | 3. Tanzania |
+| D. Hoggar | 4. Uganda |
+
+*Row order is not the answer code.*
+
+A. 1 3 4 2
+
+B. 3 1 4 2
+
+C. 3 4 1 2
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 1 4 2**.
+
+**Logic:** A → 3 (Kilimanjaro ↔ Tanzania) B → 1 (Toubkal ↔ Morocco) C → 4 (Stanley ↔ Uganda) D → 2 (Hoggar ↔ Algeria). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q22.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Volcanic Mountains ↔ Country**
+
+| List-I (Volcanic Mountains) | List-II (Country) |
+|---|---|
+| A. Mount Rainier | 1. Italy |
+| B. Mount Etna | 2. Mexico |
+| C. Mount Pericutine | 3. Philippines |
+| D. Mount Apo | 4. U.S.A. |
+
+*Row order is not the answer code.*
+
+A. 1 4 2 3
+
+B. 4 2 1 3
+
+C. 4 1 2 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **4 1 2 3**.
+
+**Logic:** A → 4 (Mount Rainier ↔ U.S.A.) B → 1 (Mount Etna ↔ Italy) C → 2 (Mount Pericutine ↔ Mexico) D → 3 (Mount Apo ↔ Philippines). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q23.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Mountain ↔ Country**
+
+| List-I (Mountain) | List-II (Country) |
+|---|---|
+| A. Atlas | 1. France/Spain |
+| B. Kalimanjaro | 2. Ecuador |
+| C. Chimbrozo | 3. Tanzania |
+| D. Pyrenees | 4. Morocco |
+
+*Row order is not the answer code.*
+
+A. 2 4 3 1
+
+B. 4 3 2 1
+
+C. 4 2 1 3
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **4 2 3 1**.
+
+**Logic:** A → 4 (Atlas ↔ Morocco) B → 2 (Kalimanjaro ↔ Ecuador) C → 3 (Chimbrozo ↔ Tanzania) D → 1 (Pyrenees ↔ France/Spain). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q24.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Vegetation Type ↔ Region**
+
+| List-I (Vegetation Type) | List-II (Region) |
+|---|---|
+| A. Maquis | 1. California |
+| B. Fynbus | 2. Mediterranean Sea Coastal Region |
+| C. Chaparral | 3. South Africa |
+| D. Matorral | 4. Chile |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 1 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Maquis ↔ Mediterranean Sea Coastal Region) B → 3 (Fynbus ↔ South Africa) C → 1 (Chaparral ↔ California) D → 4 (Matorral ↔ Chile). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q25.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Natural Vegetation ↔ Region**
+
+| List-I (Natural Vegetation) | List-II (Region) |
+|---|---|
+| A. Epiphytes | 1. Mediterranean |
+| B. Acacia | 2. Equatorial |
+| C. Buobab | 3. Sahara |
+| D. Cedars | 4. Savanna |
+
+*Row order is not the answer code.*
+
+A. 3 2 4 1
+
+B. 2 3 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 3 4 1**.
+
+**Logic:** A → 2 (Epiphytes ↔ Equatorial) B → 3 (Acacia ↔ Sahara) C → 4 (Buobab ↔ Savanna) D → 1 (Cedars ↔ Mediterranean). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q26.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Range ↔ Region**
+
+| List-I (Range) | List-II (Region) |
+|---|---|
+| A. Andes | 1. Central Asia |
+| B. Altai | 2. South America |
+| C. Alps | 3. Europe |
+| D. Appalachians | 4. Eastern USA |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Andes ↔ South America) B → 1 (Altai ↔ Central Asia) C → 3 (Alps ↔ Europe) D → 4 (Appalachians ↔ Eastern USA). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q27.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Allegheny | 1. Iran |
+| B. Cantabrian | 2. USA |
+| C. Elburz | 3. Spain |
+| D. Mackenzie | 4. Canada |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 4 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Allegheny ↔ USA) B → 3 (Cantabrian ↔ Spain) C → 1 (Elburz ↔ Iran) D → 4 (Mackenzie ↔ Canada). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q28.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Peak ↔ Country**
+
+| List-I (Peak) | List-II (Country) |
+|---|---|
+| A. Kilimanjaro | 1. Morocco |
+| B. Toubkal | 2. Algeria |
+| C. Stanley | 3. Tanzania |
+| D. Hoggar | 4. Uganda |
+
+*Row order is not the answer code.*
+
+A. 3 1 4 2
+
+B. 1 3 4 2
+
+C. 3 4 1 2
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **3 1 4 2**.
+
+**Logic:** A → 3 (Kilimanjaro ↔ Tanzania) B → 1 (Toubkal ↔ Morocco) C → 4 (Stanley ↔ Uganda) D → 2 (Hoggar ↔ Algeria). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q29.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Mountain Peaks ↔ Mountain Ranges / States**
+
+| List-I | List-II |
+|---|---|
+| A. Atlas | 1. Tanzania |
+| B. Kilimanjaro | 2. Ecuador |
+| C. Chimborazo | 3. Morocco (Atlas peak zone) |
+| D. Pyrenees | 4. Spain–France |
+
+*Row order is not the answer code.*
+
+A. 1 3 2 4
+
+B. 3 1 2 4
+
+C. 3 2 1 4
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **3 1 2 4**.
+
+**Logic:** A → 3 (Atlas ↔ Morocco (Atlas peak zone)) B → 1 (Kilimanjaro ↔ Tanzania) C → 2 (Chimborazo ↔ Ecuador) D → 4 (Pyrenees ↔ Spain–France). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q30.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Range ↔ Region**
+
+| List-I (Range) | List-II (Region) |
+|---|---|
+| A. Allegheny | 1. Iran |
+| B. Cantabrian | 2. USA |
+| C. Elburz | 3. Spain |
+| D. Mackenzie | 4. Canada |
+
+*Row order is not the answer code.*
+
+A. 3 2 1 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 3 1 4**.
+
+**Logic:** A → 2 (Allegheny ↔ USA) B → 3 (Cantabrian ↔ Spain) C → 1 (Elburz ↔ Iran) D → 4 (Mackenzie ↔ Canada). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q31.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Grasslands ↔ Countries**
+
+| List-I (Grasslands) | List-II (Countries) |
+|---|---|
+| A. Pampas | 1. Australia |
+| B. Pustaz | 2. South Africa |
+| C. Veld | 3. Argentina |
+| D. Downs | 4. Hungary |
+
+*Row order is not the answer code.*
+
+A. 4 3 2 1
+
+B. 3 2 4 1
+
+C. 3 4 1 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Code **3 4 2 1**.
+
+**Logic:** A → 3 (Pampas ↔ Argentina) B → 4 (Pustaz ↔ Hungary) C → 2 (Veld ↔ South Africa) D → 1 (Downs ↔ Australia). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q32.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Range / Peak ↔ Location**
+
+| List-I (Range / peak) | List-II (Location) |
+|---|---|
+| A. Pyrenees | 1. Italy |
+| B. Apennine | 2. Spain–France |
+| C. Toubkal | 3. Morocco (Atlas) |
+| D. Kilimanjaro | 4. Tanzania (E African Rift) |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Pyrenees ↔ Spain–France) B → 1 (Apennine ↔ Italy) C → 3 (Toubkal ↔ Morocco (Atlas)) D → 4 (Kilimanjaro ↔ Tanzania (E African Rift)). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q33.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Scrub / Biome Tag ↔ Region**
+
+| List-I (Scrub / biome tag) | List-II (Region) |
+|---|---|
+| A. Maquis | 1. California |
+| B. Chaparral | 2. Mediterranean basin |
+| C. Fynbos | 3. Chile |
+| D. Matorral | 4. South Africa |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 1 4 3
+
+C. 2 4 1 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Maquis ↔ Mediterranean basin) B → 1 (Chaparral ↔ California) C → 4 (Fynbos ↔ South Africa) D → 3 (Matorral ↔ Chile). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q34.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Tag ↔ Place**
+
+| List-I (Tag) | List-II (Place) |
+|---|---|
+| A. Black Forest | 1. Myanmar hills belt |
+| B. Arakan Yoma | 2. Germany (east of Rhine) |
+| C. Great Artesian Basin | 3. Middle East heights |
+| D. Golan Heights | 4. Australia |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 2 4 1 3
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 4 3**.
+
+**Logic:** A → 2 (Black Forest ↔ Germany (east of Rhine)) B → 1 (Arakan Yoma ↔ Myanmar hills belt) C → 4 (Great Artesian Basin ↔ Australia) D → 3 (Golan Heights ↔ Middle East heights). Trap: treating table row order as the answer code.
+
+</details>
+

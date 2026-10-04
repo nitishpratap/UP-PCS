@@ -476,53 +476,6 @@ hide:
 ---
 
 
-### Match Matrix: Delta Type ↔ Details
-
-| List-I (Delta type) | List-II |
-|---|---|
-| A. Bird’s-foot | 1. Mississippi |
-| B. Arcuate | 2. Nile / Ganga–Brahmaputra |
-| C. Cuspate | 3. Tiber |
-| D. Trellis drainage | 4. Folded beds |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Barchan horns | 1. Point downwind |
-| B. Stalactite | 2. Ceiling |
-| C. Stalagmite | 3. Floor |
-| D. U-valley | 4. Glacier |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Weathering | 1. In situ breakdown |
-| B. Erosion | 2. Pickup and transport |
-| C. Karst | 3. Sinkhole, cave, stalactite |
-| D. Glacier deposition | 4. Moraine, drumlin, esker, kame |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|---|---|
-| A. Cirque / arête / horn | 1. Glacial erosion |
-| B. Moraine / esker / drumlin | 2. Glacial deposition |
-| C. Spit / bar / tombolo | 3. Coastal deposition |
-| D. Sinkhole / cave | 4. Karst |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Endogenic processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. Exogenic processes wear and deposit at the surface. Gradation = degradation + aggradation.
@@ -858,3 +811,66 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Narmada–Tapi are also rift/fault-line pairs.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**Delta Type ↔ Details**
+
+| List-I (Delta type) | List-II |
+|---|---|
+| A. Bird’s-foot | 1. Mississippi |
+| B. Arcuate | 2. Nile / Ganga–Brahmaputra |
+| C. Cuspate | 3. Tiber |
+| D. Trellis drainage | 4. Folded beds |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Bird’s-foot ↔ Mississippi) B → 2 (Arcuate ↔ Nile / Ganga–Brahmaputra) C → 3 (Cuspate ↔ Tiber) D → 4 (Trellis drainage ↔ Folded beds). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Weathering | 1. In situ breakdown |
+| B. Erosion | 2. Pickup and transport |
+| C. Karst | 3. Sinkhole, cave, stalactite |
+| D. Glacier deposition | 4. Moraine, drumlin, esker, kame |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 1 3 2 4
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **1 2 3 4**.
+
+**Logic:** A → 1 (Weathering ↔ In situ breakdown) B → 2 (Erosion ↔ Pickup and transport) C → 3 (Karst ↔ Sinkhole, cave, stalactite) D → 4 (Glacier deposition ↔ Moraine, drumlin, esker, kame). Trap: treating table row order as the answer code.
+
+</details>
+

@@ -202,53 +202,6 @@ hide:
 ---
 
 
-### Match Matrix: State / House ↔ Tag
-
-| List-I (State / house) | List-II (Tag) |
-|------------------------|---------------|
-| A. Vijayanagara | 1. Gulbarga → Bidar |
-| B. Bahmani | 2. Hampi; Harihara–Bukka 1336 |
-| C. Bijapur | 3. Adil Shahi; Gol Gumbaz |
-| D. Golkonda | 4. Qutb Shahi; later Hyderabad |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Ahmadnagar | 1. Barid Shahi |
-| B. Bidar | 2. Nizam Shahi |
-| C. Berar | 3. Imad Shahi |
-| D. Kitab-i-Nauras | 4. Ibrahim Adil Shah II |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Amuktamalyada | 1. Ibrahim Adil Shah II |
-| B. Kitab-i-Nauras | 2. Krishnadevaraya |
-| C. Burhan-e-Masir | 3. Ahmadnagar chronicle |
-| D. Mirat-e-Sikandari | 4. Gujarat narrative |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-|--------|--------|
-| A. Padmavat | 1. Allasani Peddana |
-| B. Manucharitramu | 2. Malik Muhammad Jaisi |
-| C. Riyaz-ul-Insha | 3. Mahmud Gawan |
-| D. Amuktamalyada | 4. Krishnadevaraya |
-
----
-
 ## 🔍 Key Table Observations & Memory Anchors
 
 - **Exam Anchor:** Firuz Shah founded the city of Jaunpur (जौनपुर) in memory of cousin Jauna Khan (Muhammad bin Tughlaq (मुहम्मद बिन तुगलक)); Malik Sarwar (Khwaja-i-Jahan / Malik-us-Sharq) made it independent (~1394); Ibrahim (इब्राहिम) Shah made it Siraj/Shiraz-i-Hind.
@@ -683,3 +636,97 @@ D. 1 and 3
 - *Burhan-e-Masir* = **Ahmadnagar**.
 
 </details>
+
+**Q16.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**State / House ↔ Tag**
+
+| List-I (State / house) | List-II (Tag) |
+|---|---|
+| A. Vijayanagara | 1. Gulbarga → Bidar |
+| B. Bahmani | 2. Hampi; Harihara–Bukka 1336 |
+| C. Bijapur | 3. Adil Shahi; Gol Gumbaz |
+| D. Golkonda | 4. Qutb Shahi; later Hyderabad |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Vijayanagara ↔ Hampi; Harihara–Bukka 1336) B → 1 (Bahmani ↔ Gulbarga → Bidar) C → 3 (Bijapur ↔ Adil Shahi; Gol Gumbaz) D → 4 (Golkonda ↔ Qutb Shahi; later Hyderabad). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q17.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Ahmadnagar | 1. Barid Shahi |
+| B. Bidar | 2. Nizam Shahi |
+| C. Berar | 3. Imad Shahi |
+| D. Kitab-i-Nauras | 4. Ibrahim Adil Shah II |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Ahmadnagar ↔ Nizam Shahi) B → 1 (Bidar ↔ Barid Shahi) C → 3 (Berar ↔ Imad Shahi) D → 4 (Kitab-i-Nauras ↔ Ibrahim Adil Shah II). Trap: treating table row order as the answer code.
+
+</details>
+
+**Q18.**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**(List-I ↔ List-II)**
+
+| List-I | List-II |
+|---|---|
+| A. Padmavat | 1. Allasani Peddana |
+| B. Manucharitramu | 2. Malik Muhammad Jaisi |
+| C. Riyaz-ul-Insha | 3. Mahmud Gawan |
+| D. Amuktamalyada | 4. Krishnadevaraya |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 3 1 4
+
+C. 2 1 3 4
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Code **2 1 3 4**.
+
+**Logic:** A → 2 (Padmavat ↔ Malik Muhammad Jaisi) B → 1 (Manucharitramu ↔ Allasani Peddana) C → 3 (Riyaz-ul-Insha ↔ Mahmud Gawan) D → 4 (Amuktamalyada ↔ Krishnadevaraya). Trap: treating table row order as the answer code.
+
+</details>
+
