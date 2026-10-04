@@ -18,7 +18,7 @@ const MONGODB_URI =
 
 const TARGETS = process.argv.slice(2).length
   ? process.argv.slice(2)
-  : ['economy', 'science and technology', 'census and urbanisation', 'up special'];
+  : ['polity', 'economy', 'science and technology', 'census and urbanisation', 'up special'];
 
 function walkMd(dir) {
   let results = [];

@@ -4005,21 +4005,14 @@
       btn.disabled = true;
       btn.innerHTML = 'Syncing…';
       try {
-        // Revision desks: ALWAYS sync from the markdown file on disk.
-        // DOM extract can miss Match-List / multi-block stems and would
-        // wipe MongoDB down to 1 question if posted as a direct payload.
-        const payload = topicInfo.isRevision
-          ? {
-              subject: topicInfo.subject,
-              chapter: topicInfo.topic,
-              chapter_title: topicInfo.title
-            }
-          : {
-              subject: topicInfo.subject,
-              chapter: topicInfo.topic,
-              chapter_title: topicInfo.title,
-              questions: extractChapterQuestions()
-            };
+        // ALWAYS prefer syncing from the markdown file on disk on the server.
+        // Server's question_parser.js extracts 100% of questions (all PYQs, Ghatnachakra & practice zone)
+        // with exact options and answers, whereas DOM extraction can miss multi-block or unrevealed stems.
+        const payload = {
+          subject: topicInfo.subject,
+          chapter: topicInfo.slug || topicInfo.topic,
+          chapter_title: topicInfo.title
+        };
         const res = await authFetch(`${API_BASE}/sync-questions`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },

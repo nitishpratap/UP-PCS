@@ -1,5 +1,6 @@
 nav:
   - Home: index.md
+  - Daily Planner: daily-planner.md
   - Revision: revision
   - Prep Tracker: tracker-dashboard.md
   - Subject Notes: subjects

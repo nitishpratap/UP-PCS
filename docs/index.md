@@ -13,6 +13,7 @@ hide:
 Shared national GS for **UPPCS** and **UKPCS**. State-only syllabus sits under each subject’s **Uttarakhand** folder. At least **1/3rd** of UKPCS GS questions reference Uttarakhand.
 
 [⚡ Prelims Revision Desk](revision/index.md){ .md-button .md-button--primary }
+[Daily Study Planner](daily-planner.md){ .md-button .md-button--primary }
 [Start Prelims Analysis](prelims-analysis/index.md){ .md-button .md-button--primary }
 [UKPCS Desk](ukpcs/index.md){ .md-button .md-button--primary }
 [Chapter Tracker](chapter-tracker.md){ .md-button .md-button--primary }
@@ -31,6 +32,9 @@ Shared national GS for **UPPCS** and **UKPCS**. State-only syllabus sits under e
 
 [**:material-lightning-bolt: Prelims Revision Desk**
 <span>Must-Score Facts & High-Yield Tables across all 11 subjects. Live MCQs, active stopwatch timing, and 80% Mastery Gate.</span>](revision/index.md){ .study-card }
+
+[**:material-calendar-clock: Daily Study Planner**
+<span>8:00 wake · morning MSF + HYT ratta cycles · office clock · evening one-subject deep read · fillable day logs to 6 Dec.</span>](daily-planner.md){ .study-card }
 
 [**:material-checkbox-marked-outline: Chapter Priority Tracker**
 <span>High / Medium / Least chapters by UPPCS + UKPCS PYQ hits. Tick, filter, and open each note.</span>](chapter-tracker.md){ .study-card }

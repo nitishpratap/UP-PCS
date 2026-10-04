@@ -34,8 +34,21 @@
 | **Nyaya Setu AI Chatbot** | **Department of Justice** under **DISHA** | Voice-first legal assistant | Multimodal, multilingual AI legal help for citizens (voice/text; many Indian languages). Mascot **Dishika**. Multilingual stack linked with **BHASHINI** (ASR / Shrutlekh-type tools). Trap: “Anuvaadini” as the only translation name is weak — official coverage stresses **BHASHINI**. |
 | **PRAVAAH (RBI)** | Launched **28 May 2024**; mandatory path stressed from **1 May 2025** | Regulatory approvals portal | Full form: **Platform for Regulatory Application, Validation And AutHorisation**. Used for RBI authorisations / licences / approvals, including **NBFC** CoR and related requests; also surrender/processing of certificates in that workflow. Trap: not e-Kuber, DAKSH, or UDGAM. |
 | **Samagra Shiksha** | MoE; SSA + RMSA + Teacher Education | School education umbrella | Merged **Sarva Shiksha Abhiyan**, **Rashtriya Madhyamik Shiksha Abhiyan**, and **Teacher Education**. **Mid-Day Meal / PM POSHAN** is **not** a Samagra component — it stays a separate nutrition scheme. |
+| **'Nirbhaya Nisha' Initiative** | **March 2026** <br> (Kerala Government / Kerala Police) | State Police modernization | Night-time women safety network (**9:00 PM to 5:00 AM**) integrating **112 helpline**, **Pol-App SOS**, Pink Patrol, and AI safety poles. |
 
 ---
+
+### 'Nirbhaya Nisha' Initiative | Kerala Police | March 2026
+
+**What happened**
+The **Kerala State Government and Kerala Police** launched the **'Nirbhaya Nisha'** initiative (piloted in late February 2026 by CM Pinarayi Vijayan and officially operationalized statewide on **8 March 2026, International Women's Day**) to protect women traveling during night hours.
+
+**Core facts & Prelims Traps**
+- **Operating Hours:** Night window from **9:00 PM to 5:00 AM**.
+- **Helpline & Emergency Integration:** Linked directly with the national **112 emergency response support system (ERSS)** and a dedicated **SOS button** on the Kerala Police **Pol-App**.
+- **On-Ground Enforcement:** Deploys dedicated "Pink Patrol" vehicles, shadow police teams, and localized patrol jeeps in vulnerable transit zones (railway stations, bus terminals, IT corridors).
+- **Smart Infrastructure:** Installing AI-enabled "safety poles" in dense urban areas featuring panic buttons, two-way audio, and direct feeds to district police control rooms.
+- **Trap:** Do not confuse with UP's *Mission Shakti* or Delhi's *Himmat Plus*. The specific initiative named **Nirbhaya Nisha** belongs to **Kerala**.
 
 ### Nyaya Setu AI Chatbot | launched 29 March 2026 | DISHA / Department of Justice
 

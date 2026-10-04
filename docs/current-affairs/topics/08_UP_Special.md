@@ -33,6 +33,20 @@
 | **Cultural Legend Obituary** | **Varanasi** | **Pt. Chhannulal Mishra** passed away (2 Oct 2025 at 89); Kirana & Benaras gharana; Padma Vibhushan (2020), Yash Bharti; PM Modi's Varanasi proposer in 2014. |
 | **Axiom Mission 4 (Ax-4) Pilot** | **Lucknow** | Group Captain **Shubhanshu Shukla** (born in **Lucknow**) served as Pilot of SpaceX Crew Dragon 'Grace' to the ISS; **1st Indian astronaut on the ISS**, 2nd Indian in orbit after Rakesh Sharma (1984). |
 | **Supercomputer 'Arunika' (Global Rank #251)** | **NCMRWF, Noida (Gautam Buddha Nagar)** | NCMRWF's high-performance weather forecasting supercomputer ranked **#251 globally** in the TOP 500 Supercomputers list (Nov 2025, 5.94 PFlop/s Rmax); 3rd fastest supercomputer in India. |
+| **Sambhav Campaign 6.0 (संभव अभियान 6.0)** | **All 75 Districts of UP** | Flagship nutrition drive (July–Sept 2026); Core theme: *"गर्भावस्था से बाल्यावस्था तक पोषण सुरक्षा"* (Nutritional Security from Pregnancy to Childhood). |
+
+### Sambhav Campaign 6.0 (संभव अभियान 6.0) | July–September 2026 | All 75 Districts
+
+**What happened**
+The Government of Uttar Pradesh launched the 6th edition of its flagship statewide nutrition campaign, **Sambhav Abhiyan 6.0**, across all 75 districts under the Department of Women & Child Development (ICDS) in convergence with the Health and Panchayati Raj departments and UNICEF.
+
+**Core facts & Prelims Traps**
+- **Core Theme:** *"गर्भावस्था से बाल्यावस्था तक पोषण सुरक्षा"* (**Nutritional Security from Pregnancy to Early Childhood**).
+- **Core Focus Area:** Adopts a 'Life-Cycle Approach' concentrating on the critical **First 1,000 Days** of child life (from conception up to 2 years of age).
+- **Key Interventions:**
+  - Identification and digital tracking of **SAM (Severely Acute Malnourished)** and **MAM (Moderately Acute Malnourished)** children on the state's **e-Kavach** digital portal.
+  - Dedicated home visits by Anganwadi workers and ANMs for counselling on complementary feeding, Take Home Ration (THR) recipes, and immunization.
+  - Convergence monitoring at district level via District Nutrition Committees headed by District Magistrates.
 
 ### Jal Pakhwada in UP schools | 16–30 April 2026
 

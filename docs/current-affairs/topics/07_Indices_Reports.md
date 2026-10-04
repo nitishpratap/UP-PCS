@@ -32,6 +32,7 @@
 | **Asia Manufacturing Index (AMI 2026)** | — | **6th** | **China** | Regional manufacturing competitiveness |
 | **Global Startup Ecosystem Report 2026** | Startup Genome | **Bengaluru (15th)** | Silicon Valley | Beijing is Asia's top AI cluster |
 | **Numbeo Crime Index 2026** | Numbeo | — | **Abu Dhabi** | Safest city in the world |
+| **Scenarios Towards Viksit Bharat and Net Zero** | **NITI Aayog** (Feb 2026) | Multi-sectoral Roadmap | — | 11 study reports outlining $30T Viksit Bharat by 2047 and Net Zero by 2070. |
 
 ---
 
@@ -54,6 +55,20 @@ No clean new global index release was locked as a must-score card for January in
 ---
 
 ## February 2026
+
+### "Scenarios Towards Viksit Bharat and Net Zero" | NITI Aayog | February 2026
+
+**What happened**
+In February 2026, **NITI Aayog** released an 11-volume comprehensive assessment titled **"Scenarios Towards Viksit Bharat and Net Zero"**, representing India's first government-led, multi-sectoral roadmap to simultaneously achieve a developed economy (*Viksit Bharat*) by **2047** and **Net Zero greenhouse gas emissions by 2070**.
+
+**Core facts & Prelims Traps**
+- **Publishing Body:** **NITI Aayog** (Trap: Not Ministry of Environment, MoEFCC, or Ministry of Finance).
+- **Working Group Architecture:** Developed collaboratively by **10 inter-ministerial working groups**.
+- **Economic & Decarbonization Targets:**
+  - Projects Indian economy reaching **USD 30 Trillion by 2047**.
+  - Requires cumulative investment of **USD 22.7 trillion by 2070** for green transition.
+  - Shifts India from a consumption-led model to an investment-driven, green-manufacturing economy.
+- **Key Levers:** Mass electrification, expansion of nuclear and renewable capacity, battery storage, green hydrogen, and circular economy under Mission LiFE.
 
 ### Multidimensional poverty figure in the Budget speech
 

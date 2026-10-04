@@ -151,6 +151,68 @@ At the India AI Impact Summit 2026, the Union Health Ministry and MeitY unveiled
 - **SAHI (Strategy for Artificial Intelligence in Healthcare for India):** National guidance framework establishing institutional protocols for clinical validation, ethical AI deployment, algorithmic transparency, and patient data governance.
 - **BODH (Benchmarking Open Data Platform for Health AI):** Developed by **IIT Kanpur** in collaboration with the **National Health Authority (NHA)**. It acts as a privacy-preserving benchmarking engine allowing clinical researchers to evaluate AI models against anonymized real-world health datasets without exposing raw patient data.
 
+### 2nd WHO Global Traditional Medicine Summit | Bharat Mandapam, New Delhi | 17–19 December 2025
+
+**What happened**
+The World Health Organization (WHO) and the Ministry of Ayush, Government of India, jointly organized the **2nd WHO Global Traditional Medicine Summit** at **Bharat Mandapam, New Delhi** from **17 to 19 December 2025**.
+
+**Core facts**
+- **Theme:** *"Restoring balance: The science and practice of health and well-being"*.
+- **Strategic Direction:** Advanced the implementation of the *WHO Global Traditional Medicine Strategy 2025–2034*.
+- **Key Launches by PM Narendra Modi:**
+  - **Traditional Medicine Global Library:** Digital repository indexing 1.6+ million global resources.
+  - **Health & Heritage Innovations (H2I):** Innovation pipeline bridging traditional systems with frontier technologies like AI and biotechnology.
+  - **My Ayush Integrated Services Portal (MAISP):** Unified digital portal for Ayush services and practitioner registration.
+  - **Ayush Mark:** Global quality certification benchmarking standard for herbal and Ayush formulations.
+
+### AYUSH Visa Category (AY) | Ministry of Home Affairs | Notified July 2023
+
+**What happened**
+The Ministry of Home Affairs (MHA) incorporated Chapter 11A into the *Visa Manual, 2019*, creating a dedicated **AYUSH Visa** category on **27 July 2023** to boost Medical Value Travel (MVT) under the *"Heal in India"* initiative.
+
+**Core facts**
+- **Beneficiaries:** Foreign nationals seeking therapeutic care, wellness treatments, and medical management under Indian systems of medicine (Ayurveda, Yoga, Unani, Siddha, and Homoeopathy).
+- **Sub-categories:**
+  - **AY-1:** Primary Ayush patient visa.
+  - **AY-2:** Ayush patient attendant visa.
+  - **e-Ayush Visa & e-Ayush Attendant Visa:** Digital 60-day single/double entry facility.
+- **Validity:** Initial grant up to 1 year (triple entry), extendable by FRRO up to 5 years based on certified medical necessity.
+
+### Pradhan Mantri TB Mukt Bharat Abhiyaan | Launched 9 September 2022
+
+**What happened**
+President **Droupadi Murmu** launched the **Pradhan Mantri TB Mukt Bharat Abhiyaan** to accelerate India's progress toward ending Tuberculosis by **2025** (5 years ahead of the global SDG 3.3 target of 2030).
+
+**Core facts**
+- **Ni-kshay Mitra Initiative:** Community support mechanism where individuals, cooperative societies, elected representatives, NGOs, and corporate entities "adopt" TB patients to provide:
+  1. Nutritional support (food baskets of cereals, millets, pulses, and oil).
+  2. Additional diagnostic support.
+  3. Vocational training for rehabilitated patients.
+- **Direct Benefit Transfer:** Complemented by the **Ni-kshay Poshan Yojana** (DBT assistance for nutritional intake throughout the treatment course).
+
+### First Ayushman Arogya Mandir (Health & Wellness Centre) | 14 April 2018
+
+**What happened**
+Prime Minister **Narendra Modi** inaugurated India's **very first Health and Wellness Centre (now rechristened 'Ayushman Arogya Mandir')** on **14 April 2018 (Ambedkar Jayanti)** at **Jangla (Jaangla), Bijapur District, Chhattisgarh**.
+
+**Core facts**
+- **Pillars of Ayushman Bharat:** Primary tier comprises **1,50,000+ Ayushman Arogya Mandirs (HWCs)** providing Comprehensive Primary Health Care (CPHC) free of cost near homes; secondary/tertiary tier is **PM-JAY** (₹5 lakh annual health cover per family).
+- **Motto / Tagline:** *"Arogyam Paramam Dhanam"* (Health is the Supreme Wealth).
+
+### India's Digital Health Architecture: NHS (2018) & NDHB (2019)
+
+**What happened**
+India developed a layered public digital infrastructure to unify health data systems:
+- **National Health Stack (NHS) — July 2018:** Released by **NITI Aayog** as the foundational blueprint for a digital health ecosystem (Registries, Electronic Health Records, Coverage and Claims engines).
+- **National Digital Health Blueprint (NDHB) — 2019:** Released by the **Ministry of Health and Family Welfare (MoHFW)** (chaired by J. Satyanarayana). Translated the NHS into operational architecture, leading directly to the launch of the **Ayushman Bharat Digital Mission (ABDM)** with ABHA (Ayushman Bharat Health Account) IDs.
+
+### National Telemedicine & Mental Health Digital Platforms
+
+- **e-Sanjeevani:** National Telemedicine Service of the Ministry of Health and Family Welfare. Operates in two models:
+  - *eSanjeevani AB-HWC:* Provider-to-Provider tele-consultation bridging Ayushman Arogya Mandirs with medical specialists in district/medical colleges.
+  - *eSanjeevaniOPD:* Patient-to-Doctor direct tele-consultation on mobile.
+- **Tele-MANAS (Tele Mental Health Assistance and Networking Across States):** Launched on World Mental Health Day (October 2022) with toll-free 24x7 helpline number **14416**, offering free, confidential mental health counselling in multiple Indian languages.
+
 ---
 
 ## March 2026

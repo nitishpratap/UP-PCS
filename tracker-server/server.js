@@ -1103,7 +1103,20 @@ app.post('/api/sync-questions', checkDb, async (req, res) => {
     const { subject, chapter, chapter_title, questions, full } = req.body || {};
     const subjectsDir = path.resolve(__dirname, '../docs/subjects');
 
-    // 1. Direct questions payload provided (e.g., from browser or revision sync script)
+    if (full || (!subject && !chapter)) {
+      const summary = await syncAllQuestions(db, subjectsDir);
+      return res.json({ success: true, mode: 'full', ...summary });
+    }
+
+    // Prefer syncing directly from disk markdown file with robust parser
+    if (subject && chapter) {
+      const syncResult = await findAndSyncChapterFile(db, subject, chapter);
+      if (syncResult && syncResult.count > 0) {
+        return res.json({ success: true, mode: 'disk_sync', ...syncResult });
+      }
+    }
+
+    // Fallback: Direct questions payload provided (e.g. when no file exists on disk)
     if (Array.isArray(questions) && questions.length > 0 && subject && chapter) {
       const qCol = db.collection('questions');
       const cleanSubject = subject.toLowerCase().trim();
@@ -1135,21 +1148,11 @@ app.post('/api/sync-questions', checkDb, async (req, res) => {
       return res.json({ success: true, mode: 'direct_payload', count: bulkOps.length, subject: cleanSubject, chapter });
     }
 
-    if (full || (!subject && !chapter)) {
-      const summary = await syncAllQuestions(db, subjectsDir);
-      return res.json({ success: true, mode: 'full', ...summary });
-    }
-
     if (subject && chapter) {
-      const syncResult = await findAndSyncChapterFile(db, subject, chapter);
-      if (syncResult) {
-        return res.json({ success: true, mode: 'single', ...syncResult });
-      } else {
-        return res.status(404).json({ error: `Chapter file not found for ${subject} / ${chapter}` });
-      }
+      return res.status(404).json({ error: `Chapter file not found for ${subject} / ${chapter}` });
     }
 
-    res.status(400).json({ error: 'Specify either questions array, full: true, or both subject and chapter' });
+    res.status(400).json({ error: 'Specify either subject and chapter, or full: true' });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
@@ -1531,18 +1534,40 @@ app.get('/api/chapter-questions', checkDb, async (req, res) => {
       .replace(/[\(\)\[\]]/g, '')
       .trim();
 
-    const cleanRegex = new RegExp(escapeRegex(cleanTopicStr).replace(/[-_]/g, '[-_ ]'), 'i');
-    const topicRegex = new RegExp(escapeRegex(targetTopic).replace(/[-_]/g, '[-_ ]'), 'i');
+    // Use word boundary if targetTopic ends in digits (e.g. "Topic 1") so it doesn't match "Topic 10", "Topic 11", etc.
+    let topicRegexStr = escapeRegex(targetTopic).replace(/[-_]/g, '[-_ ]');
+    if (/\d+$/.test(targetTopic.trim())) {
+      topicRegexStr = topicRegexStr + '(?!\\d)';
+    }
+    const topicRegex = new RegExp(`\\b${topicRegexStr}`, 'i');
+
+    const orClauses = [
+      { chapter: { $regex: topicRegex } },
+      { chapter_title: { $regex: topicRegex } }
+    ];
+
+    if (cleanTopicStr.length >= 2) {
+      let cleanRegexStr = escapeRegex(cleanTopicStr).replace(/[-_]/g, '[-_ ]');
+      if (/\d+$/.test(cleanTopicStr.trim())) {
+        cleanRegexStr = cleanRegexStr + '(?!\\d)';
+      }
+      const cleanRegex = new RegExp(`\\b${cleanRegexStr}`, 'i');
+      orClauses.push({ chapter: { $regex: cleanRegex } });
+      orClauses.push({ chapter_title: { $regex: cleanRegex } });
+    }
+
+    const topicNumMatch = targetTopic.match(/^topic\s*(\d+)$/i);
+    if (topicNumMatch) {
+      const num = parseInt(topicNumMatch[1], 10);
+      const padded = num < 10 ? `0${num}` : `${num}`;
+      const prefixRegex = new RegExp(`^${padded}_`, 'i');
+      orClauses.push({ chapter: { $regex: prefixRegex } });
+    }
 
     function buildQuery() {
       return {
         subject: { $regex: subjectRegex },
-        $or: [
-          { chapter: { $regex: topicRegex } },
-          { chapter: { $regex: cleanRegex } },
-          { chapter_title: { $regex: topicRegex } },
-          { chapter_title: { $regex: cleanRegex } }
-        ]
+        $or: orClauses
       };
     }
 
@@ -1568,14 +1593,17 @@ app.get('/api/chapter-questions', checkDb, async (req, res) => {
       .sort({ q_num: 1 })
       .toArray();
 
-    // On-demand sync from markdown when empty OR revision desk looks truncated
+    // On-demand sync from markdown when empty, requested resync, or revision desk looks truncated
     // (a bad browser Sync used to wipe MSF chapters down to 1 DOM-parsed Q).
     const isRevisionTopic =
       /^msf__/i.test(targetTopic) ||
       /^hyt__/i.test(targetTopic) ||
       /must score facts|high yield tables/i.test(normSubject);
+    const resyncRequested = req.query.resync === 'true' || req.query.force_sync === 'true';
     const needsFileSync =
-      questions.length === 0 || (isRevisionTopic && questions.length < 5);
+      resyncRequested ||
+      questions.length === 0 ||
+      (isRevisionTopic && questions.length < 5);
     if (needsFileSync) {
       await findAndSyncChapterFile(db, subject, targetTopic);
       questions = await db.collection('questions')

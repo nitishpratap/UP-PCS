@@ -134,6 +134,12 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | Defence plant | **Sher** AK-203 at **Korwa, Amethi** |
 | Expressways (Aug) | Ganga Expressway $\rightarrow$ **Haridwar**; **Jhansi Link** Expressway |
 | Soft industry | YEIDA electronics / Jewar manufacturing push |
+| UP Nutrition | **Sambhav 6.0** (Theme: *"गर्भावस्था से बाल्यावस्था तक पोषण सुरक्षा"*, July–Sept 2026, all 75 districts) |
+| Women Safety | **Nirbhaya Nisha** (Kerala Police night safety 9 PM–5 AM; 112 + Pol-App SOS; March 2026) |
+| Global Summit | **2nd WHO Traditional Medicine Global Summit** (Bharat Mandapam, New Delhi; 17–19 Dec 2025) |
+| Climate & Economy | **"Scenarios Towards Viksit Bharat and Net Zero"** (NITI Aayog, Feb 2026; $30T by 2047, Net Zero 2070) |
+| Health Tourism | **AYUSH Visa** (Ministry of Home Affairs, July 2023; for treatment under Indian systems of medicine) |
+| Disease Missions | **PM TB Mukt Bharat Abhiyaan** (Sept 2022; target 2025; Ni-kshay Mitra community adoption) |
 
 ---
 
