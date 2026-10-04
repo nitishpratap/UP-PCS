@@ -1568,8 +1568,15 @@ app.get('/api/chapter-questions', checkDb, async (req, res) => {
       .sort({ q_num: 1 })
       .toArray();
 
-    // If 0 questions found in DB, attempt on-demand sync from markdown file on disk
-    if (questions.length === 0) {
+    // On-demand sync from markdown when empty OR revision desk looks truncated
+    // (a bad browser Sync used to wipe MSF chapters down to 1 DOM-parsed Q).
+    const isRevisionTopic =
+      /^msf__/i.test(targetTopic) ||
+      /^hyt__/i.test(targetTopic) ||
+      /must score facts|high yield tables/i.test(normSubject);
+    const needsFileSync =
+      questions.length === 0 || (isRevisionTopic && questions.length < 5);
+    if (needsFileSync) {
       await findAndSyncChapterFile(db, subject, targetTopic);
       questions = await db.collection('questions')
         .find(buildQuery())

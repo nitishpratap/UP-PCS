@@ -4005,13 +4005,21 @@
       btn.disabled = true;
       btn.innerHTML = 'Syncing…';
       try {
-        const domQuestions = topicInfo.isRevision ? extractChapterQuestions() : [];
-        const payload = {
-          subject: topicInfo.subject,
-          chapter: topicInfo.topic,
-          chapter_title: topicInfo.title,
-          questions: domQuestions
-        };
+        // Revision desks: ALWAYS sync from the markdown file on disk.
+        // DOM extract can miss Match-List / multi-block stems and would
+        // wipe MongoDB down to 1 question if posted as a direct payload.
+        const payload = topicInfo.isRevision
+          ? {
+              subject: topicInfo.subject,
+              chapter: topicInfo.topic,
+              chapter_title: topicInfo.title
+            }
+          : {
+              subject: topicInfo.subject,
+              chapter: topicInfo.topic,
+              chapter_title: topicInfo.title,
+              questions: extractChapterQuestions()
+            };
         const res = await authFetch(`${API_BASE}/sync-questions`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
