@@ -66,39 +66,12 @@ hide:
 
 ### Current Affairs anchors
 
-| | Correct | Usual wrong option | Hindi |
-|--|---------|-------------------|-------|
-| New Orleans is on the | **Mississippi** | Missouri (Missouri joins Mississippi at **St Louis**) | न्यू ऑर्लीन्स |
-| Hyderabad (India) is on the | **Musi** | Godavari / Paleru | मुसी |
-| Mekong flows | **South / south-east** | South-west | मेकांग |
-| Mekong delta is in | **Southern Vietnam** | Cambodia | मेकांग डेल्टा |
-| Limpopo Capricorn | Crosses **twice** | Once only | लिम्पोपो |
-| Mahaweli | **Sri Lanka** | India / Bangladesh | महावेली |
-| Inselberg | **Wind** residual | Glacier | इंसेलबर्ग |
-| Grand Canyon river | **Colorado** | Missouri / St Lawrence | ग्रैंड कैन्यन |
-| Berlin river | **Spree** | Rhine | बर्लिन |
-| Vienna river | **Danube** | Volga | वियना |
-| USA–Mexico border river | **Rio Grande** | Colorado or Mississippi | रियो ग्रांडे |
-| Lake Onega is in | **Russia** | Canada | ओनेगा |
-| Lake Michigan lies | **Wholly in the USA** | Shared USA–Canada (Superior / Huron / Erie / Ontario are shared) | मिशिगन |
-| Largest lake on Earth | **Caspian** (saline) | Superior | कैस्पियन |
-| Largest **fresh** lake by **area** | **Superior** | Caspian / Baikal | सुपीरियर |
-| Deepest lake + most fresh **volume** | **Baikal** | “Largest lake” | बैकाल |
-| Longest river (tradition) | **Nile** | Amazon | नील |
-| Largest **discharge** / basin | **Amazon** | Nile | अमेज़न |
-| Highest waterfall | **Angel** (Venezuela) | Victoria | एंजेल |
-| Victoria Falls is on the | **Zambezi** | Nile / Niagara | विक्टोरिया |
-| Most countries on one river | **Danube** (~10) | Rhine | डेन्यूब |
-| Busiest European inland navigation | **Rhine** | Danube | राइन |
-| Budapest is on the | **Danube** | Rhine | बुडापेस्ट |
-| Cologne is on the | **Rhine** | Danube | कोलोन |
-| Khartoum stands at | **White Nile + Blue Nile** | Only one of them | खार्तूम |
-| Congo uniqueness | **Deepest** + crosses Equator **twice** | Amazon does both | कांगो |
-| Tanganyika vs Baikal | Tanganyika **2nd** deepest / longest fresh | Tanganyika deepest | टंगाईका |
-| Titicaca | Highest **navigable** | Highest of any puddle | टिटिकाका |
-| Dead Sea | Lowest land + hypersaline | Ordinary sea | मृत सागर |
-| Niger | **Paradox** (inland arc first) | Straight to Gulf | नाइजर |
-| Volga mouth | **Caspian** | Black Sea | वोल्गा |
+| Year | Fact | Why it matters | Source |
+|------|------|----------------|--------|
+| Static | GERD on Blue Nile (Ethiopia) | Dam–river pair | News / atlas |
+| Static | Aral / Chad shrinkage (Amu–Syr diversion for Aral) | Endorheic lake stems | Atlas |
+| **UKPCS 2025** | Grand Canyon — Colorado River | City/river style stem | UKPCS |
+| Static | Nile length vs Amazon discharge | Superlative swap | Coaching |
 
 ---
 

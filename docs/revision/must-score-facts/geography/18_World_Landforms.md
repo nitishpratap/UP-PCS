@@ -66,46 +66,12 @@ hide:
 
 ### Current Affairs anchors
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Andes vs Himalaya | Andes = **longest** fold chain; Himalaya = **highest** | Swapped | एंडीज़ / हिमालय |
-| Kilimanjaro vs Fuji | Kilimanjaro = **E African Rift**; Fuji = Ring of Fire | Kilimanjaro in Pacific | किलिमंजारो |
-| Pyrenees vs Alps | Pyrenees = **Spain–France**; Alps = Switzerland / C Europe | Alps on Spain–France MCQ | पिरेनीज़ |
-| Apennine vs Balkan | Apennine = **Italy**; Balkan = **Bulgaria** | Swapped | एपिनाइन / बाल्कन |
-| Atlas vs Hoggar | Atlas high peak **Toubkal = Morocco**; Hoggar = **Algeria** | Both “North Africa” dump | अटलास / होगार |
-| Gobi vs Sahara | Gobi = **cold**, Mongolia+China; Sahara = **hot**, Africa | Gobi in Kazakhstan | गोबी |
-| Gibson vs Sonoran | Gibson = **Australia**; Sonoran = **USA** | Gibson–Brazil | गिब्सन |
-| Pampas vs Campos | Pampas = **Argentina**; Campos = **Brazil** | Pampas–Brazil/Chile | पम्पास |
-| Prairie vs Steppe | Prairie = N America; Steppe = Eurasia | Names swapped | प्रेयरी / स्टेपी |
-| Savanna vs hot desert | “Land of Big Games” = **Savanna**, not Sahara | Desert = safari trap | सवाना |
-| Maquis vs Chaparral | Maquis = **Med basin**; Chaparral = **California** | Same shrub, wrong coast | माकी / चैपरैल |
-| Fynbos vs Matorral | Fynbos = **South Africa**; Matorral = **Chile** | Swapped SH west coasts | फिनबॉस |
-| Taiga vs Tundra | Taiga = **conifer forest**; Tundra = **treeless** cold | Both “cold vegetation” | टैगा / टुंड्रा |
-| Borneo vs Java | Borneo = **Sunda shelf**, not volcanic dump; Java = volcanic arc | “All Indonesia = volcano” | बोर्नियो |
-| Greenland vs New Guinea | Greenland = **largest island**; New Guinea = 2nd | Australia is a continent | ग्रीनलैंड |
-| Med vs monsoon | Med rain = **winter**; monsoon rain = **summer** | Med summer rain | भूमध्यसागरीय |
-| Pamir vs Tibet | Pamir = phrase **Roof of the world**; Tibet = **highest large** plateau | Swapped | पामीर / तिब्बत |
-| Hot desert coasts | **West** coasts + cold currents + subtropical high | East-coast deserts | पश्चिमी तट |
-| Chernozem | Temperate grassland / **steppe–prairie** black soil | Equatorial laterite | चेरनोज़ेम |
-| Residual mountains | Worn leftovers of old folds (Appalachians type) | Young Himalaya | अवशिष्ट |
-| Continent area | Asia largest; **Australia** smallest | Africa largest | महाद्वीप |
-| Most countries | **Africa (~54)** | Europe / Asia | अफ्रीका |
-| Guyana | **South America** | Africa (Gabon/Guinea set) | गुयाना |
-| Highest mean elevation | **Antarctica** | Asia | अंटार्कटिका |
-| Longest range | **Andes** | Himalaya / Rockies | एंडीज़ |
-| Sierra Nevada | **Block** mountain | Young fold with Alps | सिएरा नेवादा |
-| Death Valley | **Rift** + extreme heat (California) | Cold Siberia only | डेथ वैली |
-| Telegraphic Plateau | **N Atlantic Ridge** | Indian Ocean | टेलीग्राफिक |
-| Thar | **Most populated** desert | Sahara densest people | थार |
-| Downs vs tropical | Downs = **temperate** (Australia) | Called tropical | डाउन्स |
-| Selvas vs grassland | Selvas = Amazon **rainforest** | Treated as grassland | सेल्वास |
-| Veld vs Downs | Veld = **South Africa**; Downs = **Australia** | Veld–Australia | वेल्ड / डाउन्स |
-| Faroe | **Sheep Islands** (Denmark) | Canary / Madeira | फेरो |
-| Honshu | Japan’s **largest**; Tokyo | Hokkaido largest | होन्शू |
-| Falklands | **S Atlantic** | Indian Ocean | फॉकलैंड |
-| Galápagos | **Ecuador** | Peru | गैलापागोस |
-| Socotra | **Yemen** | Oman | सोकोत्रा |
-| Majuli | **Brahmaputra** river island | Amazon | माजुली |
+| Year | Fact | Why it matters | Source |
+|------|------|----------------|--------|
+| Static | Andes longest vs Himalaya highest | Fold-chain swap | Atlas |
+| Static | Kilimanjaro = East African Rift (not Ring of Fire) | Volcano belt trap | Coaching |
+| Static | Hot-desert west-coast + cold-current logic | Desert location stems | NCERT |
+| Static | Grassland name set (Pampas / Campos / Llanos / Prairie / Steppe) | Match-list diet | Lucent |
 
 ---
 

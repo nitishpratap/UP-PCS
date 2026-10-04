@@ -23,7 +23,12 @@
 
 ## Current Affairs (this topic)
 
-None mandatory — static political-map chapter.
+| Year | Fact | Why it matters | Source |
+|------|------|----------------|--------|
+| Static | Korea **38th** parallel / USA–Canada **49th** parallel | Boundary-line stems | Atlas |
+| Static | Central Asian capital set (Tashkent–Dushanbe–Bishkek–Ashgabat–Astana) | Stan capital swaps | Atlas |
+| **2023–26** | West Asia / Palestine map units (Gaza, West Bank) remain high-visibility | Map CA without rewriting physical facts | News / UN |
+| Static | India Antarctic operational pair **Maitri + Bharati** | Polar station stem | MoES / MEA |
 
 ---
 

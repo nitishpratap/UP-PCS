@@ -101,13 +101,14 @@ def extract_first_md_table_after(text: str, heading_pat: str) -> str | None:
     if hit:
         return hit
 
-    # Otherwise read the first details body after the heading (Confused Pairs toggle).
-    dm = re.search(r"</summary>\s*(.*?)</details>", rest, re.S | re.I)
-    if dm:
-        hit = first_table(dm.group(1))
-        if hit:
-            return hit
-    return first_table(rest)
+    # For Confused Pairs, the table lives inside the first matching details body.
+    # Do NOT fall through into later details (e.g. Must-score / teaching) or reuse
+    # an unrelated table when scraping Current Affairs.
+    if re.search(r"confused|st-toggle-confused", heading_pat, re.I):
+        dm = re.search(r"</summary>\s*(.*?)</details>", rest, re.S | re.I)
+        if dm:
+            return first_table(dm.group(1))
+    return None
 
 
 def extract_quiz_block(text: str) -> str | None:

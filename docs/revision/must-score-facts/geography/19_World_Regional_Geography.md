@@ -66,40 +66,12 @@ hide:
 
 ### Current Affairs anchors
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Nobi / Kanto | **Japan** | Korea | नोबी / कांतो |
-| Esperanto | Artificial world language | Mountain / seaport | एस्पेरान्तो |
-| Bahasa | **Indonesia** | Thailand | बहासा |
-| Tamil abroad | **Singapore** official set | Myanmar major | तमिल |
-| Sunni Triangle | Baghdad, Tikrit, **Ramadi** | **Basra** (Shia south) | सुन्नी त्रिभुज |
-| Pontic vs Zagros | Pontic = **N Turkey**; Zagros = **W Iran** | Swapped on W→E list | पोंटिक / ज़ाग्रोस |
-| Kara Kum vs Kyzylkum | Kara Kum = **Turkmenistan** | Kazakhstan / Tajikistan | काराकुम |
-| Tashkent vs Ashgabat | Tashkent = **Uzbekistan**; Ashgabat = **Turkmenistan** | Swapped stans | ताशकंद |
-| Bishkek vs Dushanbe | Bishkek = **Kyrgyzstan**; Dushanbe = **Tajikistan** | Swapped | बिश्केक |
-| Darling vs Great Dividing | Darling = **SW** Australia; GDR = **east** | Darling on east coast | डार्लिंग रेंज |
-| N Australia climate | **Tropical** | Temperate (2025 R) | उत्तरी ऑस्ट्रेलिया |
-| Cape Verde capital | **Praia** | Bamako (**Mali**) | केप वर्डे |
-| Madeira | NE **Atlantic** (Portugal) | Caribbean | मदेरा |
-| Maitri / Bharati | Both **operational** Antarctica | Dakshin Gangotri still open | मैत्री / भारती |
-| W Europe rain | **All months** (westerlies) | Mediterranean winter-only | पश्चिमी यूरोप |
-| Philippines cane/coconut | **Spanish and Americans** | British / Dutch | फिलीपींस |
-| Palestine vs Israel map | West Bank + Gaza as units | “No such region on map” | फिलिस्तीन |
-| Seoul vs Pyongyang | Seoul = **South**; Pyongyang = **North** | Swapped | सियोल / प्योंगयांग |
-| Sumatra vs Java | Sumatra is **west** of Java | Java first on W→E list | सुमात्रा / जावा |
-| Bali vs Lombok | Bali **west** of Lombok (Wallace Line between them) | Lombok before Bali | बाली / लॉम्बोक |
-| Mekong delta | **S Vietnam** | Cambodia | मेकांग डेल्टा |
-| Bolivia vs Uruguay | Bolivia = **landlocked**; Uruguay has Atlantic | Uruguay landlocked | बोलीविया |
-| Igarka | **Russia** (Yenisei) | China | इगारका |
-| Casablanca vs Rabat | Rabat = **capital** | Casablanca | रबात |
-| UK vs Great Britain | UK = GB + **N Ireland**; GB = Eng+Scot+Wales | Ireland in UK | यूके |
-| Ethiopia vs Eritrea | Ethiopia **landlocked**; Eritrea has Red Sea | Ethiopia still coastal | इथियोपिया |
-| Bolivia vs Paraguay | **Both** landlocked S America | Only one of them | पराग्वे |
-| NZ vs Tasmania | NZ = separate country, capital **Wellington** | NZ is an Australian state | न्यूज़ीलैंड |
-| Continent size | Asia largest; Australia / Oceania smallest inhabited | Europe largest | महाद्वीप |
-| Double landlocked | **Uzbekistan** / Liechtenstein | Any coastal state | दोहरा स्थलरुद्ध |
-| 38th vs 49th parallel | Korea DMZ vs Canada–USA | Swapped | 38° / 49° |
-| Capital ≠ mega-city | Ankara / Canberra / Brasília / Abu Dhabi | Istanbul / Sydney / Rio / Dubai | राजधानी |
+| Year | Fact | Why it matters | Source |
+|------|------|----------------|--------|
+| Static | Korea **38th** parallel / USA–Canada **49th** parallel | Boundary-line stems | Atlas |
+| Static | Central Asian capital set (Tashkent–Dushanbe–Bishkek–Ashgabat–Astana) | Stan capital swaps | Atlas |
+| **2023–26** | West Asia / Palestine map units (Gaza, West Bank) remain high-visibility | Map CA without rewriting physical facts | News / UN |
+| Static | India Antarctic operational pair **Maitri + Bharati** | Polar station stem | MoES / MEA |
 
 ---
 

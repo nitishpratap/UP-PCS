@@ -69,44 +69,12 @@ hide:
 
 ### Current Affairs anchors
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Weathering vs erosion | In situ vs **transport** | Same thing | अपक्षय / अपरदन |
-| Granite vs basalt | Intrusive acidic vs **extrusive basic** | Swapped | ग्रेनाइट / बेसाल्ट |
-| Marble | From **limestone** | From sandstone | संगमरमर |
-| Quartzite | From **sandstone** | From limestone | क्वार्टजाइट |
-| Gneiss | From **granite** | From shale | नाइस |
-| Trellis | **Folded** structures | Dendritic on folds | जाल / जाली |
-| Bird’s-foot delta | **Mississippi only** | Ganga / Nile / a second river | पक्षी-पाद |
-| Arcuate delta | **Nile, Ganga–Brahmaputra** | Mississippi | चापाकार |
-| Moribund wording | **Subdivision → Bengal**; **lobe → Cauvery** | One answer for both | मृतप्राय |
-| Mekong delta | **Southern Vietnam** | Cambodia | मेकांग |
-| Nile delta | **Northern Egypt** | Sudan / Ethiopia | नील |
-| Indus delta | **Sindh, Pakistan** | Indian west coast | सिंधु |
-| Irrawaddy delta | **Southern Myanmar** | Thailand | इरावदी |
-| Danube delta | **Black Sea (Romania–Ukraine)** | Hungary | डेन्यूब |
-| Volga delta | **Caspian Sea** | Black Sea | वोल्गा |
-| Niger deltas | **Mali inland; Nigeria at the sea** | One mouth only | नाइजर |
-| Imphal basin | **Lacustrine** | Loess / glacial | झीलकृत |
-| Barchan horns | Point **downwind** | Upwind | बरखान |
-| Stalactite | **Ceiling** | Floor | स्टैलेक्टाइट |
-| Stalagmite | **Floor** | Ceiling | स्टैलेग्माइट |
-| U-valley vs V-valley | Glacier vs **river youth** | Swapped | U / V |
-| Fjord | Glacial trough drowned | Any estuary | फियोर्ड |
-| East vs west India mouth | **Delta** vs **estuary** | All India deltas | डेल्टा / ज्वारनदमुख |
-| Fault-valley river | **Damodar** (2019) | Chambal (ravines) | भ्रंश घाटी |
-| Antecedent vs superimposed | Cuts rising land vs **inherited** on cover | Swapped | पूर्ववर्ती / अध्यारोपित |
-| Consequent vs subsequent | Follows slope vs **follows structure** | Same | अनुगामी / परवर्ती |
-| Sill vs dyke | **Parallel** to beds vs **cuts** beds | Swapped | सिल / डाइक |
-| Conglomerate vs breccia | Rounded pebbles vs **angular** | Swapped | समूहिका / ब्रेशिया |
-| Peneplain vs pediplain | Davis humid old-age vs **King arid** | Same word | समप्राय मैदान / पदस्थली |
-| Mesa vs butte | Broad flat cap vs **narrow remnant** | Swapped | मेसा / ब्यूट |
-| Cuesta vs hogback | Gentle dip + steep scarp vs **steep both sides** | Same landform | क्वेस्टा / हॉगबैक |
-| Atoll shape | **Horseshoe / ring** around a lagoon | Triangular / rectangular / rod | एटॉल आकार |
-| Ria vs fjord | Drowned **river** vs drowned **glacier** | Same estuary | रिया / फियोर्ड |
-| Gorge vs canyon | Steep mountain cut vs **arid stair-step** | Always identical | गॉर्ज / कैनियन |
-| Endogenic vs exogenic | Interior build vs surface wear | Same | अंतर्जात / बहिर्जात |
-| Weathering vs denudation | In situ breakdown vs weathering+erosion | Same | अपक्षय ≠ अनाच्छादन |
+| Year | Fact | Why it matters | Source |
+|------|------|----------------|--------|
+| Static | Trellis / bird’s-foot / Imphal lacustrine surface | Process stems stay map-static | NCERT / coaching |
+| Static | Mekong delta = southern Vietnam (not Cambodia) | Country trap in delta stems | Atlas |
+| Static | Moribund wording: Bengal subdivision vs Cauvery lobe | Two different stem shapes | Coaching |
+| Static | Himalaya fossil belts (Himadri / Lesser / Shiwalik) | Mixed landform–fossil stems | NCERT |
 
 ---
 

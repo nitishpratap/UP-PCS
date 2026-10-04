@@ -19,7 +19,12 @@
 
 ## Current Affairs (this topic)
 
-None mandatory — static world-map chapter. No living scheme tag.
+| Year | Fact | Why it matters | Source |
+|------|------|----------------|--------|
+| Static | Andes longest vs Himalaya highest | Fold-chain swap | Atlas |
+| Static | Kilimanjaro = East African Rift (not Ring of Fire) | Volcano belt trap | Coaching |
+| Static | Hot-desert west-coast + cold-current logic | Desert location stems | NCERT |
+| Static | Grassland name set (Pampas / Campos / Llanos / Prairie / Steppe) | Match-list diet | Lucent |
 
 ---
 

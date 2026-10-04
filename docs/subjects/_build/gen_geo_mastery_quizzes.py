@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Generate 20-Q Mastery Drills for geography revision MSF from subject facts.
+"""Generate 20-Q Mastery Drills for geography revision MSF.
+
+SOURCE RULE (hard — see .cursor/rules/revision-quiz-source.mdc):
+  Every true stem/option must come only from Consolidated Must-Score Facts
+  and tables on the revision page (Confused Pairs / CA). No teaching-body invents.
 
 Also rewrites revision MSF shells to match subject consolidated + CA + confused pairs.
 Skips chapters listed in --skip (default includes Topic 14 and already-handcrafted 20–22).
@@ -111,30 +115,36 @@ def build_quiz(title: str, facts: list[str], confused: list[tuple[str, str, str]
         )
         n += 1
 
-    # 5–10: multi-statement using consecutive facts
+    # 5–10: multi-statement using consecutive facts; false stmt = Confused Pairs trap
     for i in range(0, min(12, len(facts) - 2), 2):
         if n > 10:
             break
-        f1, f2, f3 = facts[i], facts[i + 1], facts[min(i + 2, len(facts) - 1)]
-        # make statement 3 false by negation cue
+        f1, f2 = facts[i], facts[i + 1]
         s1 = strip_md(f1)[:140]
         s2 = strip_md(f2)[:140]
-        s3 = "This association is unrelated to the chapter and is always false in prelims stems."
-        patterns = [
-            ("A", ["1 and 2", "Only 3", "2 and 3", "Only 1"], "A", "Statements 1 and 2 follow the chapter locks; 3 is planted false."),
-            ("B", ["Only 1", "1 and 2", "Only 3", "1, 2 and 3"], "B", "Only 1 and 2 are supported; 3 is false."),
-            ("C", ["Only 3", "1 and 3", "1 and 2", "Only 2"], "C", "1 and 2 are true; 3 is false."),
-            ("D", ["1, 2 and 3", "Only 1", "2 and 3", "1 and 2"], "D", "Only 1 and 2 are true from the consolidated set."),
-        ]
-        code, opts, ans, logic = patterns[(n - 5) % 4]
-        # normalize ans letter to where "1 and 2" sits
-        if "1 and 2" in opts:
-            ans = "ABCD"[opts.index("1 and 2")]
+        if confused:
+            pair, correct, trap = confused[(n - 5) % len(confused)]
+            s3 = f"{pair} is correctly matched with {trap}."
+            logic_false = f"Statement 3 uses the page trap ({pair} → {trap}); correct lock is {correct}."
+        else:
+            # Reverse a page fact rather than inventing outside content
+            s3 = f"The opposite of the following page lock is true: {s1[:100]}"
+            logic_false = "Statement 3 reverses a consolidated lock on this page."
+        opts = ["1 and 2", "Only 3", "2 and 3", "Only 1"]
+        ans = "A"
         stem = (
             "With reference to the chapter, which of the following statements is/are correct?\n\n"
             f"1. {s1}\n2. {s2}\n3. {s3}"
         )
-        qs.append(q_block(n, stem, opts, ans, logic))
+        qs.append(
+            q_block(
+                n,
+                stem,
+                opts,
+                ans,
+                f"Statements 1 and 2 are from Consolidated. {logic_false}",
+            )
+        )
         n += 1
 
     # 11–14: confused pair NOT matched
@@ -179,14 +189,20 @@ def build_quiz(title: str, facts: list[str], confused: list[tuple[str, str, str]
     if len(facts) >= 4:
         a_true = strip_md(facts[0])[:160]
         r_true = strip_md(facts[1])[:160]
-        r_false = "This reason reverses the standard chapter association and is false."
+        if confused:
+            pair, correct, trap = confused[0]
+            r_false = f"{pair} is correctly explained as {trap}."
+            false_note = f"False line uses trap ({trap}); page lock is {correct}."
+        else:
+            r_false = f"Negation of page lock: {a_true[:120]}"
+            false_note = "False line negates a consolidated lock on this page."
         qs.append(
             q_block(
                 n,
                 f"Assertion (A): {a_true}\nReason (R): {r_false}",
                 ar_opt_lines,
                 "C",
-                "A follows the consolidated lock; R is a planted false reason.",
+                f"A is from Consolidated. {false_note}",
                 ar=True,
             )
         )
@@ -197,7 +213,7 @@ def build_quiz(title: str, facts: list[str], confused: list[tuple[str, str, str]
                 f"Assertion (A): {r_false}\nReason (R): {r_true}",
                 ar_opt_lines,
                 "B",
-                "A is false; R is a true chapter lock.",
+                f"A is false ({false_note}); R is from Consolidated.",
                 ar=True,
             )
         )

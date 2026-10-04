@@ -5,51 +5,65 @@
 
 ---
 
-<details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 42 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+## Current Affairs (this topic)
 
-1. 1. **Wheat Ranks:** Top Producer States: **Uttar Pradesh (उत्तर प्रदेश) (#1)** > Madhya Pradesh (#2) > Punjab (#3). Highest productivity/yield (kg/ha): **Punjab** and **Haryana**. UP produces over **32%** of India's wheat.
-2. 2. **Rice Ranks:** Top Producer States: **West Bengal (#1)** > Uttar Pradesh (#2) > Punjab (#3). Highest productivity/yield: **Punjab**. Rice is India's principal kharif (खरीफ) crop and largest cultivated area.
-3. 3. **Total Foodgrains:** Top Producer States: **Uttar Pradesh (#1)** > Madhya Pradesh (#2) > Punjab (#3). UP accounts for nearly **19%** of the nation's total foodgrain output.
-4. 4. **Sugarcane Ranks:** Top Producer States: **Uttar Pradesh (#1)** > Maharashtra (#2) > Karnataka (#3). UP leads in planted area, cane output, and operational sugar mills; Maharashtra frequently competes in final processed white sugar yield.
-5. 5. **Cotton Ranks ("White Gold"):** Top Producer States: **Gujarat (#1)** > Maharashtra (#2) > Telangana (#3). Cultivated primarily in the Deccan (दक्कन) black lava soil (Regur (रेगुर)).
-6. 6. **Jute & Mesta ("Golden Fibre"):** Top Producer States: **West Bengal (#1)** > Bihar (#2) > Assam (#3). West Bengal accounts for more than **75%** of national jute production (Hooghly (हुगली) river basin).
-7. 7. **Tea Ranks:** Top Producer States: **Assam (#1)** > West Bengal (#2) > Tamil Nadu (नाडु) (#3). Assam alone yields over **52%** of India's tea. Nilgiri (नीलगिरि) hills lead in South India.
-8. 8. **Coffee Ranks:** Top Producer States: **Karnataka (#1)** > Kerala (#2) > Tamil Nadu (#3). Karnataka yields over **70%** of India's coffee (Kodagu, Chikmagalur, Hassan). Historic (ऐतिहासिक) birthplace: **Baba Budan Giri** hills.
-9. 9. **Natural Rubber:** Top Producer States: **Kerala (#1)** > Tripura (#2) > Karnataka (#3). Kerala produces over **72%** of India's natural rubber (Kottayam is rubber capital).
-10. 10. **Total Pulses:** Top Producer States: **Madhya Pradesh (#1)** > Maharashtra (#2) > Rajasthan (#3). Gram (Chana) leader is **Madhya Pradesh**; Tur/Arhar leader is **Maharashtra**.
-11. 11. **Total Oilseeds:** Top Producer States: **Rajasthan (#1)** > Madhya Pradesh (#2) > Gujarat (#3). Rapeseed & Mustard leader is **Rajasthan** (थार); Groundnut leader is **Gujarat**; Soybean leader is **Maharashtra** / **Madhya Pradesh** ("Soya State").
-12. 12. **Spices:** Top Producer States: **Madhya Pradesh (#1)** > Rajasthan (#2) > Gujarat (#3). Black Pepper (काली मिर्च): Kerala & Karnataka; Turmeric: Maharashtra & Telangana; Ginger: MP; Cardamom: Kerala (Cardamom Hills, Idukki).
-13. 13. **Fruits & Vegetables:** Total Fruits: **Andhra Pradesh (#1)** > Maharashtra (#2) > Uttar Pradesh (#3). Total Vegetables: **Uttar Pradesh (#1)** > West Bengal (#2) > Madhya Pradesh (#3). Mango, Guava, and Potato: **Uttar Pradesh (#1)**. Banana: **Andhra Pradesh (#1)**.
-14. 14. **Livestock & Milk:** Milk: **India ranks #1 globally**. Within India: **Uttar Pradesh (#1)** > Rajasthan (#2) > Madhya Pradesh (#3). Total livestock population (जनसंख्या): **Uttar Pradesh (#1)**.
-15. 15. **Meat & Eggs:** Meat Production: **Uttar Pradesh (#1)** > West Bengal (#2) > Maharashtra (#3). Egg Production: **Andhra Pradesh (#1)** ("Egg Bowl of Asia") > Tamil Nadu (#2).
-16. 16. **Fisheries:** Inland Fish: **Andhra Pradesh (#1)** > West Bengal (#2). Marine Fish: **Gujarat (#1)** > Tamil Nadu (#2) > Kerala (#3). Total Fish: **Andhra Pradesh (#1)**.
-17. 17. **Coal in India (Reserves vs Production Trap):** Top in Reserves: **Jharkhand (#1)** > Odisha (#2) > Chhattisgarh (#3) > West Bengal (#4). Top in Production: **Chhattisgarh (#1)** > Odisha (#2) > Madhya Pradesh (#3) > Jharkhand (#4). Major fields: Jharia, Bokaro, Raniganj, Korba, Talcher.
-18. 18. **Iron Ore in India:** Top in Reserves: **Odisha (#1)** > Jharkhand (#2) > Chhattisgarh (#3) > Karnataka (#4). Top in Production: **Odisha (#1, >52%)** > Chhattisgarh (#2) > Karnataka (#3). Hematite in Odisha/Jharkhand (Badampahar, Noamundi, Bailadila in CG); Magnetite in Karnataka (Kudremukh, Bababudan).
-19. 19. **Bauxite (Aluminium Ore):** Top in Reserves & Production: **Odisha (#1)** holds >51% of reserves and produces >65% of India's bauxite (Panchpatmali in Koraput, Kalahandi) > Andhra Pradesh > Gujarat > Jharkhand (Lohardaga).
-20. 20. **Copper Ore in India (Reserves vs Production Trap):** Top in Reserves: **Rajasthan (#1, Khetri)** > Jharkhand (Singhbhum) > MP. Top in Production: **Madhya Pradesh (#1, Malanjkhand in Balaghat)** > Rajasthan (#2) > Jharkhand (#3).
-21. 21. **Manganese Ore:** Top in Reserves: **Odisha (#1)** > Karnataka (#2) > MP (#3). Top in Production: **Madhya Pradesh (#1, Balaghat)** > Maharashtra (#2) > Odisha (#3).
-22. 22. **Chromite (Chrome Ore):** **Odisha** (ओडिशा) possesses >90% of reserves and accounts for nearly **100%** of national production (Sukinda Valley in Jajpur).
-23. 23. **Lead & Zinc:** **Rajasthan** possesses >89% of reserves and accounts for **100%** of national production (Zawar mines in Udaipur (उदयपुर), Rampura-Agucha in Bhilwara).
-24. 24. **Gold in India:** Top in Inferred Resources: **Bihar (Jamui)** > Rajasthan > Karnataka. Top in Operating Mine Production: **Karnataka (99%+)** (Hutti & historic Kolar fields).
-25. 25. **Diamond in India:** Reserves & 100% Active Production: **Madhya Pradesh (#1)** (Majhgawan mine in Panna district).
-26. 26. **Mica:** Top in Production: **Andhra Pradesh (#1, Nellore mica belt)** > Rajasthan > Odisha. (Koderma in Jharkhand was the historic mica capital of the world).
-27. 27. **Crude Oil & Petroleum:** Onshore Crude Oil: **Rajasthan (#1, Barmer - Mangala field)** > Gujarat > Assam (Digboi is Asia's oldest operating oilfield). Offshore: **Mumbai High** is the largest single offshore source.
-28. 28. **Nuclear Minerals:** Uranium: **Andhra Pradesh (Tummalapalle)** has the largest reserve; **Jharkhand (Jaduguda in East Singhbhum)** is the oldest operating mine. Thorium: **Kerala and Tamil Nadu** monazite coastal beach placer sands.
-29. 29. **Global Agricultural Leaders:** Wheat & Rice: **China (#1)** > India (#2). Sugarcane: **Brazil (#1)** > India (#2). Cotton: **China (#1)** > India (#2) > USA (#3). Tea: **China (#1)** > India (#2). Coffee: **Brazil (#1)** > Vietnam (#2) > Colombia (#3). Milk: **India (#1)** > USA (#2).
-30. 30. **Global Mineral Leaders:** Coal: **China (#1, >50% of world)** > India (#2) > USA (#3). Iron Ore: **Australia (#1)** > Brazil (#2) > China (#3) > India (#4). Crude Petroleum: **USA (#1)** > Saudi Arabia (#2) > Russia (#3). Copper: **Chile (#1)** > Peru (#2) > DR Congo (#3). Bauxite: **Australia (#1)** > Guinea (#2) > China (#3). Gold: **China (#1)** > Australia (#2) > Russia (#3). Uranium: **Kazakhstan (#1, >43%)** > Canada (#2) > Namibia (#3).
-31. 31. Horticulture board / crop HQ reminders for ranks: potato / mango / guava leadership often **Uttar Pradesh**; banana / eggs / inland fish often **Andhra Pradesh**; marine fish often **Gujarat**.
-32. 32. Keep **reserves vs production** traps alive for coal (Jharkhand reserves vs Chhattisgarh production) and copper (Rajasthan reserves vs Madhya Pradesh production).
-33. **Coal: Top Reserves** = **Coal: Top Production**. Trap: **Jharkhand** (Jharia/Bokaro) vs **Chhattisgarh / Odisha**.
-34. **Copper: Top Reserves** = **Copper: Top Production**. Trap: **Rajasthan** (Khetri belt) vs **Madhya Pradesh** (Malanjkhand, Balaghat).
-35. **Iron Ore: Top Reserves** = **Iron Ore: Top Production**. Trap: **Odisha** (reserves & production) vs **Chhattisgarh** (Bailadila - rank 2).
-36. **Bauxite: Top State** = **Chromite: Top State**. Trap: **Odisha** (Panchpatmali/Koraput) vs **Odisha** (Sukinda Valley, nearly 100%).
-37. **Lead & Zinc: Top State** = **Mica: Top State**. Trap: **Rajasthan** (Zawar/Rampura-Agucha, 100%) vs **Andhra Pradesh** (Nellore belt).
-38. **Gold: Inferred Reserves** = **Gold: Actual Production**. Trap: **Bihar** (Jamui deposits) vs **Karnataka** (Hutti Gold Mines, 99%+).
-39. **Diamond: Top State** = **Uranium: Top Mine**. Trap: **Madhya Pradesh** (Panna) vs **Jharkhand** (Jaduguda) / AP (Tummalapalle).
-40. **Wheat: Top Producer** = **Rice: Top Producer**. Trap: **Uttar Pradesh** (Wheat, Sugarcane, Potato) vs **West Bengal** (Rice, Jute).
-41. **Highest Wheat Productivity** = **Highest Wheat Production**. Trap: **Punjab** (kg/hectare yield) vs **Uttar Pradesh** (total gross tonnage).
-42. **Total Pulses: Top State** = **Total Oilseeds: Top State**. Trap: **Madhya Pradesh** (Gram/Pulses) vs **Rajasthan** (Mustard/Oilseeds).
+| Year | Fact | Why it matters | Source |
+|------|------|----------------|--------|
+| Rolling | IBM / Agriculture Annual Report rank updates | Reserves vs production crowns can move | IBM / MoA&FW |
+| Static | Odisha iron–bauxite–chromite sweep | Mineral State cluster | IBM |
+| Static | UP wheat–sugarcane–potato–milk cluster | State rank cluster | MoA&FW |
+| Static | China vs India global agri ranks; Kazakhstan uranium | World rank stems | FAO / USGS style tables |
+
+---
+
+<details class="st-chapter-toggle st-toggle-facts" markdown="1">
+<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+
+1. Wheat producers: **Uttar Pradesh (#1)** > Madhya Pradesh > Punjab. Highest yield (kg/ha): **Punjab / Haryana**. UP grows over **32%** of India’s wheat.
+2. Rice producers: **West Bengal (#1)** > Uttar Pradesh > Punjab. Highest yield: **Punjab**. Rice is India’s principal kharif cereal by area.
+3. Total foodgrains: **Uttar Pradesh (#1)** > Madhya Pradesh > Punjab. UP is about **19%** of national foodgrain output.
+4. Sugarcane: **Uttar Pradesh (#1)** > Maharashtra > Karnataka. UP leads area, cane and mills; Maharashtra often competes in processed white sugar.
+5. Cotton (“White Gold”): **Gujarat (#1)** > Maharashtra > Telangana. Grown mainly on Deccan **regur** (black lava soil).
+6. Jute & mesta (“Golden Fibre”): **West Bengal (#1)** > Bihar > Assam. West Bengal holds more than **75%** of jute (Hooghly basin).
+7. Tea: **Assam (#1)** > West Bengal > Tamil Nadu. Assam alone is over **52%** of India’s tea. Nilgiri leads South India.
+8. Coffee: **Karnataka (#1)** > Kerala > Tamil Nadu. Karnataka is over **70%** (Kodagu, Chikmagalur, Hassan). Historic birthplace: **Baba Budan Giri**.
+9. Natural rubber: **Kerala (#1)** > Tripura > Karnataka. Kerala is over **72%** (Kottayam rubber capital tag).
+10. Total pulses: **Madhya Pradesh (#1)** > Maharashtra > Rajasthan. Gram leader **MP**; tur/arhar leader **Maharashtra**.
+11. Total oilseeds: **Rajasthan (#1)** > Madhya Pradesh > Gujarat. Mustard **Rajasthan**; groundnut **Gujarat**; soybean **MP/Maharashtra**.
+12. Spices (aggregate): **Madhya Pradesh (#1)** > Rajasthan > Gujarat. Black pepper: Kerala/Karnataka; cardamom: Kerala (Idukki).
+13. Total fruits: **Andhra Pradesh (#1)**. Total vegetables: **Uttar Pradesh (#1)**. Mango, guava, potato: **UP (#1)**. Banana: **Andhra Pradesh (#1)**.
+14. Milk: **India #1 globally**; within India **Uttar Pradesh (#1)** > Rajasthan > Madhya Pradesh. Total livestock population leader: **Uttar Pradesh**.
+15. Meat: **Uttar Pradesh (#1)**. Eggs: **Andhra Pradesh (#1)** (“Egg Bowl of Asia”) > Tamil Nadu.
+16. Inland fish: **Andhra Pradesh (#1)**. Marine fish: **Gujarat (#1)**. Total fish: **Andhra Pradesh (#1)**.
+17. Coal reserves: **Jharkhand (#1)** > Odisha > Chhattisgarh. Coal production: **Chhattisgarh (#1)** > Odisha > Madhya Pradesh > Jharkhand.
+18. Iron ore reserves and production leader: **Odisha** (production often **>52%**). Hematite belts in Odisha/Jharkhand/CG; magnetite in Karnataka (Kudremukh).
+19. Bauxite reserves and production leader: **Odisha** (Panchpatmali / Koraput–Kalahandi) — often **>50%** reserves and **>65%** output.
+20. Copper reserves: **Rajasthan (Khetri) #1**. Copper production: **Madhya Pradesh (Malanjkhand, Balaghat) #1**.
+21. Manganese reserves: **Odisha #1**. Manganese production: **Madhya Pradesh (Balaghat) #1**.
+22. Chromite: **Odisha** holds **>90%** reserves and nearly **100%** production (Sukinda, Jajpur).
+23. Lead and zinc: **Rajasthan** holds the overwhelming reserve and essentially **100%** production (Zawar, Rampura-Agucha).
+24. Gold: inferred resources leader often **Bihar (Jamui)**; operating mine production **Karnataka (~99%+)** (Hutti; historic Kolar).
+25. Diamond: reserves and active production **Madhya Pradesh (Panna / Majhgawan)**.
+26. Mica production leader: **Andhra Pradesh (Nellore belt)**. Historic mica capital tag: **Koderma (Jharkhand)**.
+27. Onshore crude oil: **Rajasthan (Barmer–Mangala) #1** > Gujarat > Assam (**Digboi** = Asia’s oldest operating oilfield). Offshore flagship: **Mumbai High**.
+28. Uranium: largest reserve tag **Andhra Pradesh (Tummalapalle)**; oldest operating mine **Jharkhand (Jaduguda)**. Thorium: Kerala–Tamil Nadu monazite beach sands.
+29. Global agri leaders: wheat & rice **China > India**; sugarcane **Brazil > India**; cotton **China > India**; tea **China > India**; coffee **Brazil > Vietnam**; milk **India #1**.
+30. Global mineral leaders: coal **China**; iron ore **Australia**; crude oil **USA**; copper **Chile**; bauxite **Australia**; gold **China**; uranium **Kazakhstan**.
+31. Horticulture reminder: potato/mango/guava → **UP**; banana/eggs/inland fish → **Andhra Pradesh**; marine fish → **Gujarat**.
+32. Reserves vs production traps to keep live: coal (Jharkhand vs Chhattisgarh) and copper (Rajasthan vs Madhya Pradesh).
+33. White Gold = cotton; Golden Fibre = jute — fibre nicknames are swapped in options constantly.
+34. Wheat production crown (**UP**) ≠ wheat productivity crown (**Punjab/Haryana**).
+35. Rice production crown (**West Bengal**) ≠ rice productivity crown (**Punjab**).
+36. Sugarcane cane/mills leadership (**UP**) can diverge from processed sugar leadership contests with **Maharashtra**.
+37. Odisha’s mineral sweep in teaching: iron ore, bauxite and chromite leadership often sit together — still keep copper/manganese production with MP where keyed.
+38. Rajasthan’s sweep: oilseeds/mustard, lead-zinc, and onshore crude — do not park chromite here.
+39. Karnataka coffee + gold production pairing is common; Bihar gold is the inferred-resource trap against Hutti output.
+40. Assam tea vs Karnataka coffee is the plantation-state swap pair.
+41. Gujarat leads cotton and marine fish; Andhra Pradesh leads eggs, inland fish and banana — west vs south coastal specialisation.
+42. MP leads pulses and often soybean; Rajasthan leads mustard/oilseeds — Central India vs dry-west oilseed logic.
+43. India’s global milk #1 does not automatically make it #1 in every livestock product; eggs still key to Andhra Pradesh domestically.
+44. Digboi (Assam) is heritage oil; Barmer–Mangala is the modern onshore volume leader tag.
+45. Thorium placer sands (Kerala–TN) are distinct from uranium mine/reserve tags (Jaduguda / Tummalapalle).
 
 </details>
 

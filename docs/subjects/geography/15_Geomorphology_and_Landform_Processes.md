@@ -18,7 +18,12 @@ Endogenic / Exogenic Processes | Rocks — Igneous, Sedimentary, Metamorphic | R
 
 ## Current Affairs (this topic)
 
-Process chapter — no living scheme tag. Static PYQ surface (trellis (जालनुमा), deltas, Imphal) is the diet. Mekong/Himalaya (हिमालय) fossils do not need a yearly CA refresh.
+| Year | Fact | Why it matters | Source |
+|------|------|----------------|--------|
+| Static | Trellis / bird’s-foot / Imphal lacustrine surface | Process stems stay map-static | NCERT / coaching |
+| Static | Mekong delta = southern Vietnam (not Cambodia) | Country trap in delta stems | Atlas |
+| Static | Moribund wording: Bengal subdivision vs Cauvery lobe | Two different stem shapes | Coaching |
+| Static | Himalaya fossil belts (Himadri / Lesser / Shiwalik) | Mixed landform–fossil stems | NCERT |
 
 ---
 
