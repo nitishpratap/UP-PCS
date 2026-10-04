@@ -13,55 +13,91 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **1921** is the **Great Divide** year of Indian census history (इतिहास). **2011** was the **15th** census and the **7th** after Independence.
-2. **Uttar Pradesh** (उत्तर प्रदेश) is the most populous State and has the largest rural population. **Sikkim** is the least populous State. **Nagaland** showed negative growth in 2001–11.
-3. **CBR** and **CDR** are expressed **per thousand** of population; **TFR** is children **per woman**. Do not mix the units.
-4. **Distribution** is the spread of people across space.
-5. **Density** is persons per unit area (with special NCERT variants for agricultural pressure).
-6. **Composition** covers age, sex, literacy, rural–urban status, religion, caste/tribe and occupation.
-7. **Dynamics** covers births, deaths, natural growth, fertility and migration.
-8. **1921** is the **Great Divide** — the first decade of decline in the growth rate after the modern census series.
-9. **Census 2011** is the **15th** census and the **7th** after Independence.
-10. **Nagaland** recorded **negative** state-level growth in 2001–11.
-11. **Sikkim** is the **least populous** state.
-12. **Terrain** — plains favour dense settlement; steep Himalaya and many NE hills remain sparse.
-13. **Climate** — moderate (नरम दल) monsoon belts attract people; extreme cold, arid or very wet zones deter dense living.
-14. **Soil** — fertile alluvium of the Ganga plain and many deltas supports intensive farming and denser villages.
-15. **Water** — perennial rivers and irrigation raise carrying capacity.
-16. **Settled agriculture and early civilisation** kept river plains crowded for centuries.
-17. **Minerals and industry** pull people toward mining–industrial belts (ple parts of Chotanagpur (छोटानागपुर) and coastal industrial hubs).
-18. **Transport networks** thicken settlement along roads and railways.
-19. **Urbanisation and jobs** concentrate migrants in metros such as Delhi, Mumbai, Kolkata, Bengaluru, Chennai, Hyderabad (हैदराबाद) and Ahmedabad (अहमदाबाद).
-20. **Absolute growth** is the difference between population at two dates (P₂ − P₁).
-21. **Growth rate** expresses that change as a **percentage** of the base population.
-22. **Natural growth** comes from births and deaths only: **CBR − CDR**.
-23. **Induced growth** comes from **migration** (people moving in or out).
-24. **Crude Birth Rate (CBR)** and **Crude Death Rate (CDR)** are live births and deaths per **1,000** mid-year population.
-25. **Total Fertility Rate (TFR)** is the average number of children **per woman**.
-26. **National Population Policy 2000** aimed for replacement fertility and a **stable population by 2045**.
-27. **World Population Day** is **11 July**.
-28. **Immigration** means movement **into** a place; **emigration** means movement **out** of a place.
-29. **Push factors** make the origin less attractive — unemployment, poverty, drought (सूखा), flood, conflict, or lack of services.
-30. **Pull factors** make the destination more attractive — jobs, education, better wages, urban amenities, and industrial hubs.
-31. **Demographic dividend** exists while the **15–59** share is high and dependency is manageable.
-32. **Dependency ratio** note compares young + aged dependents with the working-age population.
-33. **Dependency ratio** compares young plus aged dependents with the working-age population.
-34. **Preventive checks** lower the birth rate: delayed marriage, celibacy and moral restraint.
-35. **Neo-Malthusians** later kept the food-pressure idea but stressed **birth control** as the main check.
+1. India’s first non-synchronous census was in **1872** (some papers key **1871**). The first **synchronous** all-India census was in **1881**.
+2. **1921** is the **Great Divide** year of Indian census history (इतिहास). **2011** was the **15th** census and the **7th** after Independence.
+3. Census 2011 India population was about **121.09 crore**. Decadal growth **2001–11** was **17.64%**. India holds roughly one-sixth of world population in that count.
+4. Arithmetic density is **population / total area**. India’s 2011 arithmetic density is **382** persons per km².
+5. Physiological density is **population / net sown area**. Agricultural density is **agricultural population / net sown area**. Do not swap these three density types.
+6. Among States, **Bihar** has the highest density (**1106**). West Bengal and Kerala follow high; Uttar Pradesh (उत्तर प्रदेश) is **829**. **Arunachal Pradesh** has the lowest State density (**17**). Delhi UT is very dense but is not a “lowest density State (न्यूनतम जनघनत्व)” answer.
+7. Core 2011 figures: sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban (नगरीय) share **31.16%**. Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
+8. **Uttar Pradesh** (उत्तर प्रदेश) is the most populous State and has the largest rural population. **Sikkim** is the least populous State. **Nagaland** showed negative growth in 2001–11.
+9. Highest State sex ratio is **Kerala**. Among States in the usual 2011 set, lowest sex ratio is **Haryana**. Lowest child sex ratio (rural + urban) is also **Haryana**.
+10. Literacy is highest in **Kerala** and lowest among States in **Bihar**. In Uttar Pradesh, **Shrawasti** has the lowest female literacy among districts.
+11. Absolute (निरपेक्ष) growth is **P₂ − P₁**. Growth rate is the percentage change. **Natural growth = CBR − CDR**. Induced change comes from **migration**.
+12. Replacement-level **TFR is 2.1** children per woman, not “per thousand” (that wording belongs to birth/death rates). NFHS-4 (2015–16) reported **2.2**. NFHS-5 reports about **2.0**.
+13. The National Population Policy **2000** aimed at population stability by **2045**. World Population Day is **11 July**. The World Population Report is associated with **UNFPA**.
+14. The demographic dividend window is the large share of working ages **15–59**, not 60+ or 0–6. Dependency compares young plus aged with workers.
+15. Urbanisation acceleration in the classic curve is linked to the **second stage** of demographic transition. Among religions, **Jains** are the most urbanised.
+16. Demographic Transition Theory is linked to **Thompson** (with **Notestein**). Optimum population is linked to **Edwin Cannan**. Social mal-adjustment is linked to **Henry George**. Malthus argued population grows **geometrically** while food grows **arithmetically**. The Malthusian Theory is a theory of **population**.
+17. The largest internal migration stream is **rural → rural**. Female migration is often for marriage; male migration is often for work. **Immigration** means in-movement; **emigration** means out-movement.
+18. Push factors drive people from the origin; pull factors attract them to the destination. Out-migration sources are often Uttar Pradesh–Bihar; destinations are often Maharashtra–Delhi–Gujarat.
+19. A **census town** needs population **≥5,000**, density **≥400/km²**, and **≥75%** of **male main workers** in non-agriculture.
+20. Census 2011 listed **53** million-plus urban agglomerations. Kanpur (कानपुर) crossed the million mark in **1971**; Lucknow (लखनऊ) in **1981**. 2011 UP UA order is **Kanpur > Lucknow > Ghaziabad > Agra**.
+21. Uttar Pradesh district facts (2011): **Prayagraj** (प्रयागराज) most populous; **Ghaziabad** densest; **Jaunpur** (जौनपुर) among the higher sex-ratio districts; **Shrawasti** lowest female literacy.
+22. Uttar Pradesh holds about **16.5%** of India’s population. Rural share is about **77.7%** against India’s **68.84%**. Urban share is about **22.3%** against India’s **31.16%**. State sex ratio is **912** against India’s **943**. Literacy is about **67.7%** against India’s **74.04%**.
+23. Crowded belts are the Ganga (गंगा) plain and coasts. Sparse belts are the Himalaya (हिमालय), North-East hills, Thar (थार) and dry interior pockets. Distribution factors include terrain, climate, soil, water, minerals, industry, transport and history.
+24. Keep **Census 2011** numbers for Prelims until **Census 2027** results replace them. UN estimates (प्राकलन समिति) that India became the most populous country around **2023** do not rewrite the 2011 tables.
+25. A broad-base population pyramid signals high fertility. Ageing shows earlier in southern States than in the high-fertility northern belt.
+26. Occupational structure is taught as primary / secondary / tertiary. Primary still takes a large share of India’s workforce, with a slow shift toward secondary and tertiary as development proceeds.
+27. Malthus’s **positive** checks raise the death rate (famine, disease, war). **Preventive** checks lower the birth rate (delayed marriage, moral restraint). **Karl Marx** treated surplus population as a product of capitalism, not a natural food-arithmetic law. **Ester Boserup** argued that population growth can push agricultural intensification.
+28. **CBR** and **CDR** are expressed **per thousand** of population; **TFR** is children **per woman**. Do not mix the units.
+29. Demographic Transition stages: high birth–high death → falling death (population boom) → falling birth → low birth–low death. Urbanisation acceleration is classically linked to the **second** stage.
+30. Age structure teaching bands are often **0–14**, **15–59** (workers) and **60+**. A broad-base pyramid = high fertility; a top-heavy pyramid = ageing.
+31. Internal migration streams include rural→rural (largest), rural→urban, urban→urban and urban→rural. Inter-state migrants often move from UP–Bihar toward Maharashtra–Delhi–Gujarat.
+32. Literacy in Census 2011 is counted for age **7+**. Effective literacy and crude literacy wordings must not be swapped with school-enrolment rates.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Current Affairs anchors
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
 | **Census 2011** | Official number set until **Census 2027** | Every density/SR/literacy MCQ | ORGI |
 | **NFHS-5** | TFR ~**2.0** nationally | NFHS-4 (2015–16) figure used in 2018 was **2.2** | MoHFW |
 | **UNFPA** | World Population Report | 2021 Q79 | UNFPA |
 | **~2023** | UN estimate: India most populous | CA only — 2011 still 2nd in Census table | UN / UNFPA |
 | **NPP 2000** | Stable population **2045** | Policy year fact | MoHFW |
 | **11 July** | World Population Day | 2018 Q114 | UN |
+
+---
+
+### Confused pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| First census | **1872** non-sync; paper **1871** (2023) | 1881 as “first ever” | प्रथम जनगणना |
+| First synchronous | **1881** | 1872 | समकालिक |
+| 2011 rank | **15th** / **7th** after Independence | 14th / 8th | 15वीं |
+| Density India | **382** | 324 (2001) | 382 |
+| Highest density **state** | **Bihar** | WB / UP / Delhi | बिहार |
+| Lowest density | **Arunachal** | HP / Mizoram | अरुणाचल |
+| Sex ratio | **943** | CSR 919 | 943 |
+| Lowest CSR (rural+urban) | **Haryana** | UP / J&K | हरियाणा |
+| Literacy | **74.04%**, age **7+** | 0–6 / 18+ | 74.04 |
+| TFR 2.1 | Children **per woman** | “per thousand” (that is CBR) | कुल प्रजनन दर |
+| Natural growth | **CBR − CDR** | Includes migration | प्राकृतिक वृद्धि |
+| Dividend | **15–59** | 60+ or 0–6 | जनसांख्यिकीय लाभांश |
+| Acceleration (urban curve) | **2nd stage** | 3rd / 4th | द्वितीय |
+| Most urbanised religion | **Jains** | Christians | जैन |
+| Kanpur / Lucknow million | **1971 / 1981** | 1961/1971 | कानपुर 1971 |
+| Shrawasti | Lowest **female literacy** district (UP) | Balrampur / Bahraich | श्रावस्ती |
+| Lorenz curve | **Income inequality** | Illiteracy | लोरेंज |
+| World Population Report | **UNFPA** | IMF / WHO / UNDP | यूएनएफपीए |
+| Arithmetic density | **Population / total area** | Physiological density | अंकगणितीय घनत्व |
+| Physiological density | **Population / net sown area** | Agricultural density | शारीरिक घनत्व |
+| Natural vs induced growth | Natural = CBR−CDR; induced = migration | Same thing | प्राकृतिक ≠ प्रेरित |
+| Immigration / emigration | In / out | Swap | आप्रवास / उत्प्रवास |
+| SC / ST share (2011) | SC ~**16.6%** · ST ~**8.6%** | Swap or invent | अनुसूचित जाति / जनजाति |
+| Optimum Population | **Edwin Cannan** | Robbins / Dalton / Carr-Saunders as the first name | अनुकूलतम जनसंख्या |
+| Social mal-adjustment | **Henry George** | Dalton’s “maladjustment” formula, or Malthus | सामाजिक कुसमायोजन |
+| Demographic Transition | **Thompson** (Notestein also) | Cannan / Malthus | जनांकिकीय संक्रमण |
+| Population–food | **Malthus** | Marx (he criticises Malthus) | जनसंख्या–खाद्य |
+| Geometric vs arithmetic | Population **geometric**; food **arithmetic** | Swap the two progressions | गुणोत्तर / समानांतर |
+| Positive vs preventive checks | Positive = **death** up; preventive = **birth** down | Swap | धनात्मक / निवारक नियंत्रण |
+| Social capillarity | **Arsène Dumont** | Henry George | सामाजिक केशिका |
 
 
 ---
@@ -347,3 +383,4 @@ D. 1981 and 1991 respectively
 
 **Ans: C**
 </details>
+

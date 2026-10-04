@@ -43,11 +43,33 @@ hide:
 28. **Historical Census Chronology:** First non-synchronous Census: **1872** under **Lord Mayo (मेयो)**. First complete synchronous modern decennial Census: **1881** under **Lord Ripon (रिपन)** (Census Commissioner W.C. Plowden). Census of **1921** is called the **"Year of the Great Divide"** (only census with negative population growth rate of -0.31%).
 29. **Census Legal & Administrative Framework:** Governed by the **Census Act, 1948** (piloted in Constituent Assembly (संविधान सभा) by Sardar Vallabhbhai Patel). Census is Entry **69** of the **Union List** (संघ सूची) (Seventh Schedule, Art. 246). Office of Registrar General and Census Commissioner of India operates under the **Ministry of Home Affairs (MHA)**.
 30. **Census 2011 Mascot & Tagline:** 15th National Census (7th since 1947). Mascot: **Female Enumerator (प्रगणक शिक्षिका)**. Motto: *"Our Census, Our Future"* (हमारी जनगणना, हमारा भविष्य). Census Commissioner was **C. Chandramouli**.
-31. **Total Population:** ~121 Crore (Rural: 68.8%, Urban: 31.2%)
-32. **Decadal Growth Rate:** 17.7% (Meghalaya highest at 27.9%, Nagaland negative at -0.6%)
-33. **Density:** 382 persons / sq. km (Bihar highest: 1106, Arunachal lowest: 17)
-34. **Sex Ratio:** 943 (Kerala highest: 1084, Haryana lowest: 879)
-35. **Child Sex Ratio (0-6 yrs):** 919 (Mizoram/Meghalaya high, Haryana lowest: 834)
+
+
+---
+
+## ⚡ Confused Pairs & Common Examiner Traps
+
+### Confused pairs
+
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Highest SC Count** | **Highest SC Percentage** | **Uttar Pradesh** (4.13 Cr absolute) vs **Punjab** (31.9% proportion) | सर्वाधिक अ.जा. संख्या (यूपी) / सर्वाधिक अ.जा. प्रतिशत (पंजाब) |
+| **Highest ST Count** | **Highest ST Percentage** | **Madhya Pradesh** (1.53 Cr absolute) vs **Lakshadweep / Mizoram** (94.8% / 94.4%) | सर्वाधिक अ.ज.जा. संख्या (म.प्र.) / सर्वाधिक अ.ज.जा. प्रतिशत (लक्षद्वीप/मिजोरम) |
+| **Highest Population State** | **Highest Density State** | **Uttar Pradesh** (19.98 Cr population) vs **Bihar** (1,106 persons/km²) | सर्वाधिक जनसंख्या (यूपी) / सर्वाधिक घनत्व (बिहार) |
+| **Lowest Density State** | **Lowest Population State** | **Arunachal Pradesh** (17 persons/km²) vs **Sikkim** (6.10 Lakh population) | न्यूनतम जनघनत्व (अरुणाचल) / न्यूनतम जनसंख्या (सिक्किम) |
+| **Overall Sex Ratio (2011)** | **Child Sex Ratio (0–6 yrs)** | **943** (improved from 933 in 2001) vs **919** (worsened from 927 in 2001) | कुल लिंगानुपात (943) / शिशु लिंगानुपात (919) |
+| **Highest Sex Ratio State** | **Highest Sex Ratio UT** | **Kerala (1,084)** vs **Puducherry (1,037)** | सर्वाधिक लिंगानुपात राज्य (केरल) / केंद्रशासित (पुदुचेरी) |
+| **Lowest Sex Ratio State** | **Lowest Sex Ratio UT** | **Haryana (879)** vs **Daman & Diu (618)** | न्यूनतम लिंगानुपात राज्य (हरियाणा) / केंद्रशासित (दमन एवं दीव) |
+| **Negative Decadal Growth (India)** | **Negative Growth (Uttarakhand)** | **Nagaland (-0.6%)** at State level vs **Pauri Garhwal (-1.41%) & Almora (-1.28%)** | ऋणात्मक वृद्धि राज्य (नागालैंड) / उत्तराखंड जिले (पौड़ी व अल्मोड़ा) |
+| **Highest Literacy State** | **Highest Female Literacy State** | **Kerala (94.0%)** vs **Kerala (92.1%)** (Lowest female literacy: **Rajasthan 52.1%**) | सर्वाधिक साक्षरता (केरल) / न्यूनतम महिला साक्षरता (राजस्थान) |
+| **UP Highest Density** | **UP Highest Population** | **Ghaziabad (3,971)** vs **Prayagraj (59.54 Lakh)** | यूपी सर्वाधिक घनत्व (गाजियाबाद) / सर्वाधिक जनसंख्या (प्रयागराज) |
+| **UP Highest Sex Ratio** | **UP Highest Child Sex Ratio** | **Jaunpur (1,024)** vs **Balrampur (950)** | यूपी सर्वाधिक लिंगानुपात (जौनपुर) / शिशु लिंगानुपात (बलरामपुर) |
+| **UP Lowest Sex Ratio** | **UP Lowest Child Sex Ratio** | **Gautam Buddha Nagar (851)** vs **Baghpat (841)** | यूपी न्यूनतम लिंगानुपात (गौतम बुद्ध नगर) / शिशु लिंगानुपात (बागपत) |
+| **UP Highest Literacy** | **UP Highest Female Literacy** | **Gautam Buddha Nagar (80.12%)** vs **Kanpur Nagar (75.05%)** | यूपी सर्वाधिक साक्षरता (गौतम बुद्ध नगर) / महिला साक्षरता (कानपुर नगर) |
+| **UP Lowest Literacy (Total/M/F)** | **UP Lowest Density** | **Shrawasti** (lowest in total 46.7%, male 57.2%, female 34.8%) vs **Lalitpur (242)** | यूपी न्यूनतम साक्षरता (श्रावस्ती) / न्यूनतम जनघनत्व (ललितपुर) |
+| **UP Highest Urban %** | **UP Lowest Urban %** | **Ghaziabad (67.6%)** vs **Shrawasti (3.5%)** | यूपी सर्वाधिक नगरीकरण % (गाजियाबाद) / न्यूनतम (श्रावस्ती) |
+| **Census 1872** | **Census 1881** | **Lord Mayo** (first, incomplete) vs **Lord Ripon** (first synchronous decennial) | प्रथम जनगणना (मेयो 1872) / प्रथम समकालिक नियमित (रिपन 1881) |
+| **Year of Great Divide (1921)** | **Year of Population Explosion (1951–81)** | **1921** (negative growth -0.31%) vs **1961–1971** (highest growth 24.80%) | महान विभाजक वर्ष (1921) / जनसंख्या विस्फोट काल |
 
 
 ---
@@ -313,3 +335,4 @@ D. It was established during the First Five-Year Plan period
 - **Key Exam Association:** **Religious Distribution:** Hindus: **79.80% (96.63 Cr)**; Muslims: **14.23% (17.22 Cr)**; Christians: **2.30% (2.78 Cr)**; Sikhs: **1.72% (2.08 Cr)**; Buddhists: **0.70% (84.4 Lakh)**; Jains: **0.37% (44.5 Lakh)**. Highest Muslim proportion (%): Lakshadweep (96.5%), J&K (68.3%), Assam (34.2%), West Bengal (27.0%), Kerala (26.6%). Highest Christian proportion (%): Nagaland (87.9%), Mizoram (87.2%), Meghalaya (74.6%). Highest Jain proportion: Maharashtra (1.25%).
 - This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
 </details>
+

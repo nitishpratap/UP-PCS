@@ -13,49 +13,105 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Innocent passage** applies in the territorial sea. **Transit passage** applies in international straits.
-2. **McMahon Line** = India–China (1914). **Durand Line** = Pakistan–Afghanistan (1893). **Radcliffe Line** = 1947 India–Pakistan/Bangladesh.
-3. **Panama** = Atlantic–Pacific canal. **Kiel** = North Sea–Baltic.
-4. **Bolivia** is landlocked among common South America traps. **Laos** = only SE Asia landlocked. **Nobi/Kanto** = Japan. **Igarka** = Russia.
-5. **Thornthwaite** (थॉर्नथ्वेट) is the true **vegetation** climate index. **Köppen** gives letter-code climate classes. Mediterranean = **winter rain**. Western Europe = rain **all months** plus westerlies (**Cfb**).
-6. **Cape Verde** capital = **Praia**. **Bamako** = Mali. Only common double-landlocked states: **Uzbekistan** and **Liechtenstein**.
-7. **49th Parallel** ≈ USA–Canada. **38th Parallel** ≈ Koreas. Maginot ≈ France–Germany; Rio Grande ≈ USA–Mexico.
-8. **Norway** = Land of the Midnight Sun (Arctic Circle). **Japan** = Land of the Rising Sun. **Finland** = Thousand Lakes. **(South) Korea** = Morning Calm. **Thailand** = White Elephants.
-9. **South America** = Bird Continent. **Sri Lanka** = Mistress of the Eastern Sea / Pearl of the Indian Ocean. **Singapore** = Gateway to Asia. **Istanbul** = Gateway to the West.
-10. **Pamir** = Roof of the World. **Baikal** = Pearl of Siberia. **Bahrain** = Island of Pearls. **Aberdeen** = Oil Capital of Europe. **Ninety East Ridge** = Indian Ocean.
-11. **Internal waters** inside the baselines are under full sovereignty — ports and lagoons included.
-12. **The Area** is the seabed beyond national jurisdiction — the common heritage of mankind. The **ISA** headquarters is in Kingston, Jamaica.
-13. **Innocent passage** applies in the territorial sea.
-14. **Transit passage** applies in international straits. It is stronger and cannot be switched off like innocent passage.
-15. **Not** the Pakistan, Nepal, or Myanmar line (2018).
-16. **LoC** — India–Pakistan in J&K (ceasefire line, later LoC). Not McMahon.
-17. **LAC** — India–China actual control in the west/middle. Not Radcliffe.
-18. **Sir Creek** — India–Pakistan creek, Kutch/Sindh; maritime.
-19. **Laos** is the only classic landlocked sovereign state in mainland Southeast Asia.
-20. **Chad** is a frequent African landlocked option.
-21. **South Sudan** is landlocked. Its capital is **Juba**. It sits on the White Nile.
-22. **Bolivia** is landlocked. Suriname, Uruguay and Peru are not.
-23. **Norway** is the classic **Land of the Midnight Sun**. Parts of Canada, Sweden, Russia, Iceland, and Finland also see it.
-24. **Bolivia** is landlocked (with Paraguay).
-25. **Uzbekistan**. **Liechtenstein**. Only these two in the usual Prelims fact.
-26. **Lesotho** is an enclave wholly inside **South Africa**. **Eswatini** (Swaziland) is also landlocked in southern Africa but not a full enclave like Lesotho.
-27. **Af** — tropical rainforest, rain all year (Amazon, Congo, Indonesia).
-28. **Am** — tropical monsoon (west-coast India, parts of SE Asia).
-29. **Aw** — savanna (सवाना), wet–dry (Deccan (दक्कन), African savanna, Brazilian cerrado).
-30. **BWh** — hot desert (Sahara, Arabia, Thar (थार), Australia interior).
-31. **BWk** — cold desert (Gobi). **BSh/BSk** — steppe (Sahel, Prairie (प्रेयरी) edge).
-32. **Cs** — Mediterranean: **winter rain**, dry summer; five west-coast patches.
-33. **Cfa** — humid subtropical (SE USA, east China).
-34. **Cfb** — marine west coast with rain in **all months**. Classic home is **Western Europe** under the westerlies (2024 both).
-35. **Df/Dw** — humid continental / subarctic (Canada, Siberia).
+1. UNCLOS: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf may extend to **350 nm**, but that does **not** push EEZ water beyond 200.
+2. **Innocent passage** applies in the territorial sea. **Transit passage** applies in international straits.
+3. **McMahon Line** = India–China (1914). **Durand Line** = Pakistan–Afghanistan (1893). **Radcliffe Line** = 1947 India–Pakistan/Bangladesh.
+4. India has **seven** land neighbours (Pakistan, Afghanistan via Wakhan/PoK, China, Nepal, Bhutan, Myanmar, Bangladesh). Maritime neighbours are **Sri Lanka** and the **Maldives**.
+5. Longest Indian **state** coastline = **Gujarat**. Longest land border = **Bangladesh**. Shortest land border = **Afghanistan**. Mainland plus islands coastline ≈ **7516 km**.
+6. The **Suez Canal** joins Med and Red Sea, shortens India–Europe by about **7000 km**, and lakes run Manzala → Timsah → Great Bitter → Little Bitter.
+7. **Panama** = Atlantic–Pacific canal. **Kiel** = North Sea–Baltic.
+8. Straits: **Hormuz** = Gulf oil; **Malacca** = Indian Ocean–South China Sea; **Gibraltar** = Med–Atlantic; **Bosporus** = Black Sea–Marmara; **Bering** = Russia–USA.
+9. Area ladder: Russia > Canada > USA > China > Brazil > Australia > **India (7th)**. Longest world coastline = **Canada** (then Indonesia, Russia, Philippines, Japan, Australia in the usual set).
+10. Central Asia capital set: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**.
+11. **Bolivia** is landlocked among common South America traps. **Laos** = only SE Asia landlocked. **Nobi/Kanto** = Japan. **Igarka** = Russia.
+12. **Thornthwaite** (थॉर्नथ्वेट) is the true **vegetation** climate index. **Köppen** gives letter-code climate classes. Mediterranean = **winter rain**. Western Europe = rain **all months** plus westerlies (**Cfb**).
+13. India is the **seventh**-largest country, about **2.4%** of world land, with the Tropic of Cancer (कर्क रेखा) through the middle — so India is **not** wholly tropical. The Tropic does **not** cross **Uttar Pradesh** (उत्तर प्रदेश).
+14. **Cape Verde** capital = **Praia**. **Bamako** = Mali. Only common double-landlocked states: **Uzbekistan** and **Liechtenstein**.
+15. Uttar Pradesh’s only foreign neighbour is **Nepal**.
+16. Largest landlocked country by area = **Kazakhstan**. Most populous landlocked = **Ethiopia**. **Lesotho** is an enclave inside South Africa.
+17. **49th Parallel** ≈ USA–Canada. **38th Parallel** ≈ Koreas. Maginot ≈ France–Germany; Rio Grande ≈ USA–Mexico.
+18. Equator traps: Egypt (मिस्र) and Mexico are **not** equatorial countries in the usual MCQ sense.
+19. India’s nine coastal states include Gujarat as the longest; Telangana is not coastal.
+20. Oder–Neisse is the historic (ऐतिहासिक) Germany–Poland line; do not confuse it with McMahon or Durand.
+21. Shelf rights beyond 200 nm (up to 350) are seabed rights — they do not create a wider EEZ water column.
+22. Horn of Africa = Djibouti, Eritrea, Ethiopia, Somalia (**not Sudan**). Balkans = Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Greece, Kosovo, Montenegro, North Macedonia, Romania, Serbia, Slovenia, European Türkiye — **Austria not** Balkan. Oceania excludes **Indonesia**. Caspian five exclude Armenia/Iraq.
+23. Capitals ≠ famous cities: Australia **Canberra**; Japan **Tokyo**; Nigeria **Abuja**; Myanmar **Naypyidaw**; Slovenia **Ljubljana** (Bratislava = Slovakia).
+24. Old names: Siam→Thailand; Formosa→Taiwan; Gold Coast→Ghana (घन); Dutch Guiana→**Suriname**; Southern Rhodesia→Zimbabwe.
+25. Greenland = Denmark politically / N America geographically. Gaza borders **Egypt + Israel**. Afghanistan does **not** border Russia.
+26. Most megacities are coastal as **ocean gateways**. Alaska = USA; Malta = Mediterranean; Baikonur = **Kazakhstan**.
+27. **Norway** = Land of the Midnight Sun (Arctic Circle). **Japan** = Land of the Rising Sun. **Finland** = Thousand Lakes. **(South) Korea** = Morning Calm. **Thailand** = White Elephants.
+28. **South America** = Bird Continent. **Sri Lanka** = Mistress of the Eastern Sea / Pearl of the Indian Ocean. **Singapore** = Gateway to Asia. **Istanbul** = Gateway to the West.
+29. City tags: **Venice** = canals; **Osaka** = Manchester of the East; **San Francisco** = Golden Gate; **Chicago** = City of Smoke; **Buenos Aires** = Paris of South America; **St. Petersburg** = Venice of the North.
+30. **Pamir** = Roof of the World. **Baikal** = Pearl of Siberia. **Bahrain** = Island of Pearls. **Aberdeen** = Oil Capital of Europe. **Ninety East Ridge** = Indian Ocean.
+31. India’s land neighbours are seven; maritime neighbours are Sri Lanka and Maldives. Longest land border = **Bangladesh**; shortest = **Afghanistan** (via Wakhan / PoK teaching).
+32. Sobriquet diet extras: **Venice** = canals; **Osaka** = Manchester of the East; **Chicago** = City of Smoke; **Pamir** = Roof of the World; **Baikal** = Pearl of Siberia.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Current Affairs anchors
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| Territorial vs EEZ | **12 nm** vs **200 nm** | Swapped | क्षेत्रीय जल / EEZ |
+| Contiguous | **24 nm** | 12 or 200 | सन्निहित |
+| Shelf vs EEZ | Shelf may go to **350 nm**; EEZ stops **200** | Shelf = 12 | महाद्वीपीय मग्नतट |
+| McMahon | **India–China** (Arunachal) | Pakistan / Nepal / Myanmar | मैकमोहन |
+| Durand | **Pakistan–Afghanistan** | India–China | डूरंड |
+| Radcliffe | **1947** India–Pak / Bangladesh | McMahon | रैडक्लिफ |
+| Longest coast | **Gujarat** | AP / MH / Kerala | गुजरात |
+| Longest land border | **Bangladesh** | China / Pakistan | बांग्लादेश |
+| Shortest land border | **Afghanistan** | Bhutan | अफ़ग़ानिस्तान |
+| Suez waters | **Med + Red Sea** | Atlantic | स्वेज |
+| Panama | Atlantic ↔ Pacific | Med–Red | पनामा |
+| Kiel | North Sea ↔ Baltic | Med | कील |
+| Hormuz | Persian Gulf ↔ Gulf of Oman | Malacca | होरमुज़ |
+| Gibraltar | Med ↔ Atlantic | Bosporus | जिब्राल्टर |
+| Bosporus | Black Sea ↔ Marmara | Gibraltar | बोस्फोरस |
+| Mistral / Köppen Cs | Med **winter rain** | Rain all year (that is Cfb W Europe) | भूमध्य |
+| Koppen vs Thornthwaite | **Thornthwaite** = "vegetation is true index of climate" | Köppen letter codes | थॉर्नथ्वेट / कोपेन |
+| Bolivia | **Landlocked** | Uruguay / Peru / Suriname | बोलीविया |
+| Nobi / Kanto | **Japan** | Korea / China | जापान |
+| Igarka | **Russia** | China | इगारका |
+| Cape Verde capital | **Praia** | Bamako (Mali) | प्राइया |
+| India area rank | **7th** largest; **2.4%** of world | 6th; wholly tropical | भारत क्षेत्र |
+| Tropic of Cancer / UP | Passes 8 states — **not UP** | UP on the Tropic | कर्क रेखा |
+| Double landlocked | **Uzbekistan**, Liechtenstein | Nepal / Bolivia as “double” | दोहरा स्थलरुद्ध |
+| Kazakhstan | Largest **landlocked by area** | Has ocean coast | कज़ाखस्तान |
+| Lesotho | **Enclave** inside South Africa | Coastal SA dump | लेसोथो |
+| 49th Parallel | **USA–Canada** (long stretch) | USA–Mexico | 49वीं |
+| 38th Parallel | **North–South Korea** | India–China | 38वीं |
+| Horn of Africa | Djibouti, Eritrea, Ethiopia, Somalia | Includes Sudan | हॉर्न ऑफ अफ्रीका |
+| Slovenia capital | **Ljubljana** | Bratislava (Slovakia) | ल्युब्लियाना |
+| Gold Coast | Old name of **Ghana** | Dutch Guiana / Suriname | गोल्ड कोस्ट |
+| Great Britain vs UK | GB = England+Wales+Scotland | Includes Northern Ireland | ग्रेट ब्रिटेन |
+| Greenland | Denmark politically; N America geographically | Independent continent | ग्रीनलैंड |
+| Caspian littoral | Five states; not Armenia/Iraq | Armenia on Caspian | कैस्पियन |
+| Oceania | Melanesia/Micronesia/Polynesia + Australia | Indonesia included | ओशिआनिया |
+| Laos | Only SE Asia **landlocked** | Cambodia / Thailand | लाओस |
+| Rio Grande | **USA–Mexico** | USA–Canada | रियो ग्रांडे |
+| Baikonur | **Kazakhstan** | Ukraine | बैकोनुर |
+| Midnight Sun vs Rising Sun | Midnight Sun = **Norway** (Arctic); Rising Sun = **Japan** | Swapped | मध्यरात्रि सूर्य / उगता सूर्य |
+| Morning Calm vs Rising Sun | Morning Calm = **Korea**; Rising Sun = Japan | Korea = Japan | सुबह की शांति |
+| Thousand Lakes | **Finland** | Switzerland / Netherlands | हज़ार झीलें |
+| Bird Continent | **South America** | Australia | पक्षी महाद्वीप |
+| Mistress of Eastern Sea | **Sri Lanka** | India / Myanmar | पूर्वी सागर की स्वामिनी |
+| Manchester of the East | **Osaka** | Tokyo / Nagoya | पूर्व का मैनचेस्टर |
+| Pearl of Siberia | **Baikal** | Great Bear | साइबेरिया का मोती |
+| Venice of the North | **St. Petersburg** (usual Russia key) | Moscow / Vladivostok | उत्तर का वेनिस |
+| City of Smoke | **Chicago** | London / Kolkata | धुएँ का शहर |
+| Oil Capital of Europe | **Aberdeen** | Liverpool / Belfast | यूरोप की तेल राजधानी |
+| Land of Promise | **Mindanao** | Java / Cuba | वादा द्वीप |
+| Ninety East Ridge | **Indian Ocean** | Pacific / Atlantic | नाइंटी ईस्ट रिज |
+
+---
+
+### Confused pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
 | Territorial vs EEZ | **12 nm** vs **200 nm** | Swapped | क्षेत्रीय जल / EEZ |
 | Contiguous | **24 nm** | 12 or 200 | सन्निहित |
 | Shelf vs EEZ | Shelf may go to **350 nm**; EEZ stops **200** | Shelf = 12 | महाद्वीपीय मग्नतट |
@@ -454,3 +510,4 @@ D. Cape Verde – Bamako
 **Ans: D** — Cape Verde = **Praia**. Bamako = Mali.
 
 </details>
+

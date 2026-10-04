@@ -13,49 +13,71 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Akron** = tyres; **Toulouse** = Airbus; **Silicon Valley** (California) = electronics / IT — not Detroit.
-2. **Igarka** is in **Russia** (Yenisei timber), not China. **Rotterdam** is in the **Netherlands**. **Montevideo** is Uruguay. **Jakarta** is Indonesia.
-3. **Duisburg** is an inland Rhine port, not a Dutch sea mouth. **Entrepôt** classics = Singapore, Rotterdam, Hong Kong. Break-of-bulk points concentrate at ports.
-4. **Panama** joins Atlantic / Caribbean and Pacific **with stepped chambers** and **Gatun Lake**. **Kiel** joins the North Sea and Baltic.
-5. **Ruhr** = Germany heavy industry. **Lancashire** = cotton. **Yorkshire** = wool. **Pittsburgh–Great Lakes** = steel. **Detroit** = autos.
-6. **Chinook** is a warm dry wind of the Rockies; **Foehn** is the Alps equivalent. Both can be true together.
-7. **Mistral** = southern France (**not** Australia). **Shamal** = Arabia (**not** Austria). **Brickfielder** = Australia.
-8. **Weight-losing** raw material (iron ore, sugarcane, timber) pulls the mill **near the source**.
-9. **Weight-gaining** industries (bottling, brewing) sit near the **market**.
-10. **Ubiquitous** inputs (air, water) do not pull the plant; **localised** minerals do.
-11. **Singapore**, Rotterdam and Hong Kong are classic entrepôts.
-12. **Lake Manzala** — near Port Said / Mediterranean
-13. **Lake Timsah** — Ismailia
-14. **Great Bitter Lake**
-15. **Little Bitter Lake** — towards Suez / Red Sea
-16. **Osaka = automobile** — FALSE. **Cotton**. Detroit = auto.
-17. **Cuba = shipbuilding** — FALSE. **Cigar**. St. Petersburg = ships.
-18. **Igarka = China** — FALSE. **Russia**.
-19. **Suez = Atlantic + Med** — FALSE. **Red Sea + Med**.
-20. **Suez cut = 10,000 km** — FALSE. **~7,000 km**.
-21. **Suez lakes start at Little Bitter** — FALSE. North door = **Manzala**.
-22. **Panama = Med–Red** — FALSE. That is Suez. Panama = Atlantic–Pacific.
-23. **Kiel = Med** — FALSE. **North Sea–Baltic**.
-24. **Mistral = Australia** — FALSE. **France**. Brickfielder = Australia.
-25. **Shamal = Austria** — FALSE. **Arabia**.
-26. **Chinook is cold** — FALSE. Warm **and dry**.
-27. **Foehn = Rockies** — FALSE. **Alps**. Chinook = Rockies.
-28. **Rotterdam = Germany** — FALSE. **Netherlands**.
-29. **Montevideo = Argentina** — FALSE. **Uruguay**.
-30. **Lancashire = wool** — FALSE. **Cotton**. Yorkshire = wool.
-31. **Hanshin = Tokyo** — FALSE. Osaka–Kobe. Keihin = Tokyo–Yokohama.
-32. **Suez has Panama-style facts** — FALSE. Suez is **sea-level**.
-33. **Willy-willy = Brickfielder** — FALSE. Willy-willy is a **cyclone**.
-34. **Duisburg = Netherlands sea port** — FALSE. **German inland** Rhine port.
-35. **Toulouse = Boeing** — FALSE. **Airbus**. Boeing = Seattle.
+1. City–industry pairs: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
+2. **Akron** = tyres; **Toulouse** = Airbus; **Silicon Valley** (California) = electronics / IT — not Detroit.
+3. **Igarka** is in **Russia** (Yenisei timber), not China. **Rotterdam** is in the **Netherlands**. **Montevideo** is Uruguay. **Jakarta** is Indonesia.
+4. **Duisburg** is an inland Rhine port, not a Dutch sea mouth. **Entrepôt** classics = Singapore, Rotterdam, Hong Kong. Break-of-bulk points concentrate at ports.
+5. The **Suez Canal** joins the **Mediterranean** and **Red Sea** and cut India–Europe distance by about **7000 km**. It is a **sea-level** cut (no stepped chambers). Lakes north to south: **Manzala → Timsah → Great Bitter → Little Bitter**.
+6. Port Said is at the **north** end of Suez; Suez town is at the **south**.
+7. **Panama** joins Atlantic / Caribbean and Pacific **with stepped chambers** and **Gatun Lake**. **Kiel** joins the North Sea and Baltic.
+8. Location logics: **weight-losing** industries (steel) sit near ore / coking coal; **market-oriented** (bottling) sit near consumers; **aluminium** seeks cheap **hydel**; **footloose** example = electronics / software; oil refining often seeks the port or pipeline end.
+9. Soft location teaching still turns on raw material, power, labour, market and transport — not a single “any city works” rule.
+10. **Ruhr** = Germany heavy industry. **Lancashire** = cotton. **Yorkshire** = wool. **Pittsburgh–Great Lakes** = steel. **Detroit** = autos.
+11. Italy’s industrial triangle is the **Po Basin / Milan–Turin–Genoa** belt.
+12. Japan belts: **Keihin** = Tokyo–Yokohama; **Hanshin** = Osaka–Kobe; **Chukyo** = Nagoya autos. Nicknames: Osaka = Manchester of Japan; Nagoya = Detroit of Japan; Kawasaki = Pittsburgh of Japan; Ivanovo = Russian Manchester.
+13. China’s classic coastal manufacturing belt in this chapter = **Pearl River Delta**. Shanghai leads container volume among common port MCQs; Rotterdam sits at the Rhine mouth.
+14. Shipbuilding volume leaders are **China–South Korea–Japan**. St Petersburg remains the classic European city match.
+15. Textiles often seek labour and market; steel is the classic weight-losing case.
+16. **Chinook** is a warm dry wind of the Rockies; **Foehn** is the Alps equivalent. Both can be true together.
+17. **Mistral** = southern France (**not** Australia). **Shamal** = Arabia (**not** Austria). **Brickfielder** = Australia.
+18. A **willy-willy** is a cyclone name, not a local wind.
+19. More wind pairs: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** = Adriatic cold; **Harmattan** = West Africa; **Sirocco** = Sahara→Med; **Khamsin** = Egypt.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Current Affairs anchors
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| Osaka | **Cotton textile** | Auto / ship | ओसाका |
+| Detroit | **Automobile** | Cotton | डेट्रॉइट |
+| Cuba | **Cigar** | Ship | क्यूबा |
+| St. Petersburg | **Shipbuilding** | Cotton | सेंट पीटर्सबर्ग |
+| Igarka | **Russia** (Yenisei timber) | China | इगारका |
+| Rotterdam | **Netherlands** | Germany / Belgium | रॉटरडैम |
+| Montevideo | **Uruguay** | Argentina | मोंटेवीडियो |
+| Suez waters | **Mediterranean + Red Sea** | Atlantic as a canal bank | स्वेज |
+| Suez cut | **~7,000 km** India–Europe | 5,000 / 10,000 | 7,000 किमी |
+| Suez lakes N→S | Manzala → Timsah → Great Bitter → Little Bitter | Reverse / skip Timsah | मंज़ाला पहले |
+| Panama | Atlantic (Caribbean) ↔ **Pacific** | Med ↔ Red (that is Suez) | पनामा |
+| Kiel | North Sea ↔ **Baltic** | Med | कील |
+| Chinook | Warm **dry**, **Rockies** | Cold wind | चिनूक |
+| Foehn | **Alps**, warm dry | Australia | फॉन |
+| Mistral | Southern **France** (Rhône) | **Australia** | मिस्ट्रल |
+| Shamal | **Arabia / Persian Gulf** | **Austria** | शमाल |
+| Brickfielder | **Australia** | France | ब्रिकफील्डर |
+| Santa Ana | **California** | Spain | सांता आना |
+| Harmattan | West Africa | Alps | हरमट्टन |
+| Bora | Adriatic (cold) | Warm Chinook dump | बोरा |
+| Suez vs Panama | Suez = no facts, Med–Red; Panama = **facts**, Atlantic–Pacific | Swap | स्वेज / पनामा |
+| Duisburg | Inland Rhine port, **Germany** | Netherlands / sea entrepôt | ड्यूसबर्ग |
+| Willy-willy | Australian **cyclone** | Local wind like Brickfielder | विली-विली |
+| Akron | **Tyres / rubber** (USA) | Steel | एक्रॉन |
+| Toulouse | **Airbus** | Boeing (Seattle) | टूलूज़ |
+| Khamsin | **Egypt** | Australia | खामसिन |
+| Osaka vs Detroit (Japan) | Osaka = **Manchester** (cotton); Nagoya = **Detroit** (auto) | Swap nicknames | |
+| Footloose vs steel | Footloose = electronics / R&D; steel = ore + coal | Electronics on coalfield only | |
+| Silicon Valley | California Bay Area **electronics / IT** | Detroit auto dump | सिलिकॉन वैली |
+
+---
+
+### Confused pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
 | Osaka | **Cotton textile** | Auto / ship | ओसाका |
 | Detroit | **Automobile** | Cotton | डेट्रॉइट |
 | Cuba | **Cigar** | Ship | क्यूबा |
@@ -440,3 +462,4 @@ D. 2, 3 and 4
 **Logic:** Keihin = Tokyo–Yokohama; Hanshin = Osaka–Kobe; Chukyo = Nagoya autos. Osaka = Manchester of Japan; Nagoya = Detroit of Japan — do not swap nicknames.
 
 </details>
+

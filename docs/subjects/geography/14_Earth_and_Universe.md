@@ -53,48 +53,58 @@ D. Jupiter
 
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 38 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. Big Bang is linked to **Lemaître** / **Gamow** (~**13.7–13.8 bn yr**) and **Hubble** expansion. Steady State is **Hoyle**. Nebular is **Kant–Laplace**. The Milky Way is a **barred spiral** galaxy.
-2. **Chandrasekhar limit** ≈ **1.44 M☉** sets the white-dwarf ceiling; beyond that path → neutron star / black hole. A galactic year for the Sun is ~**22.5–25 crore** years. IAU lists **88** constellations; **Saptarishi** points to the Pole Star.
-3. Solar-system order mnemonic is **MVEMJSUN**. **Venus** is hottest (greenhouse). **Earth** has the highest mean density. **Jupiter** is largest. **Saturn** has the clearest rings. **Mercury** has the fastest orbit and (with Venus) **no moon**.
-4. The asteroid belt lies between **Mars and Jupiter**. The largest moon is **Ganymede** (Jupiter — not Saturn). Titan belongs to Saturn; Phobos and Deimos belong to Mars. **Copernicus** is the classic heliocentric name.
-5. In the 2022 Prelims set, Saturn’s atmosphere is linked with **methane**. Mars is the classic life-candidate planet (including the 2018 subsurface-lake news). **Mangalyaan** was India’s first Mars orbiter.
-6. A **solar eclipse** occurs at **New Moon**. A **lunar eclipse** occurs at **Full Moon**. Sunlight takes about **8 minutes 20 seconds** to reach Earth. Sun’s energy is **nuclear fusion**. One **AU** ≈ **149.6 million km**.
-7. Earth **rotates** in about **24 hours** (day–night) and **revolves** in about **365¼ days** (year / leap year). **Perihelion** is about **3–4 January**; **aphelion** about **4 July**.
-8. Seasons are caused by the **23½° axial tilt**, not by perihelion distance. Equinoxes are about **21 March / 23 September**; solstices about **21 June / 22 December**.
-9. One degree of latitude is about **111 km**. Tropics sit at **23½°**; polar circles at **66½°**. Time zones use roughly **15° = 1 hour**. **0° latitude and 0° longitude** meet in the **Atlantic** (Gulf of Guinea).
-10. India’s Standard Time is based on **82°30′ E** near **Mirzapur** (मिर्ज़ापुर) and is **GMT + 5 hours 30 minutes** for the whole country. The International Date Line is near **180°** (zigzag); the west side is a day ahead.
-11. Atmosphere layers: **troposphere** (क्षोभमंडल) holds weather; **stratosphere** (समतापमंडल) holds the **ozone** UV shield and is nearly weather-free (**ideal for jet flight**); mesosphere (मध्यमंडल) is coldest; **ionosphere** reflects radio waves and hosts auroras; **exosphere** hosts communication satellites.
-12. Earth’s atmosphere is heated mainly by **long-wave terrestrial radiation (भौमिक विकिरण)**, not by direct short-wave alone. Normal lapse rate is about **6.5°C/km**. Permanent gases = **N₂, O₂, Ar**; CO₂ / O₃ / vapour vary. Albedo = **reflecting** power (fresh snow highest). Max heating belt often ~**20°N**. Same-latitude Agra vs Darjeeling contrast is an **altitude** fact. Cyclone names: Hurricane–USA, Typhoon–China Sea, Willy-Willy (विली-विली)–Australia, Baguio–Philippines. Tornado scale = **Fujita**; hurricane = **Saffir–Simpson**.
-13. Diffusion / scattering of light is linked to **dust** in one Prelims set. **Weather** is short-term; **climate** is the long-term average.
-14. Greenhouse gases include water vapour, CO₂, CH₄, N₂O, O₃ and CFCs. **Argon is not** a greenhouse gas. **Kyoto** (क्योटो) deals with climate / carbon; **Montreal** deals with ozone.
-15. **El Niño** is a warm eastern Pacific / Peru current phase with **less upwelling**, so **plankton and fish fall**. It can disturb the Indian monsoon.
-16. Coriolis deflects to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere**. It is zero at the equator (Ferrel’s law).
-17. Jet streams are mainly high-altitude **westerlies** (polar jet and subtropical jet). The **Tropical Easterly Jet (TEJ (उष्णकटिबंधीय पूर्वी जेट))** is the summer easterly exception. Speeds can reach **300–500 km/h**. “All jets are easterly” is false.
-18. Pressure belts: ITCZ / equatorial **low** (doldrums (डोलड्रम)); subtropical **high** near **30°** (horse latitudes (हॉर्स अक्षांश)); subpolar low near **60°**; polar high. Planetary winds are trades, westerlies and polar easterlies.
-19. **Roaring Forties** are strong westerlies near **40°S** (with Furious Fifties / Shrieking Sixties farther south). The ITCZ is a **low**; belts shift with the solstice seasons.
-20. Interior shells: **Sial** (continental crust), **Sima** (oceanic crust), **Nife** (core). Discontinuities: crust–**Moho**–mantle–**Gutenberg** (~2900 km, S-wave stop)–**Lehmann**–inner core.
-21. P-wave shadow (छाया) is about **103–142°**; S-wave shadow lies beyond about **103°** because the outer core is liquid.
-22. **Wegener (1912)** proposed continental drift with **Pangaea** and **Panthalassa**. Plate margins are divergent, convergent or transform. New ocean crust forms by **sea-floor spreading**.
-23. **Fold mountains** include the Himalaya (हिमालय), Alps, Andes and Rockies. **Fault / block mountains** include the Vosges, Black Forest, Sierra Nevada and Rhine graben.
-24. Volcano types: shield (**Mauna Loa**), composite (**Fuji / Etna / Vesuvius**), cinder (**Paricutin**), fissure (**Deccan** (दक्कन)), caldera (**Krakatoa**). **Stromboli** is the “lighthouse of the Mediterranean.” **Barren Island** is India’s only active volcano (Andaman (अंडमान)).
-25. Match pairs: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** is East African Rift, **not** Ring of Fire.
-26. Earthquake–volcano belts include the Pacific **Ring of Fire**, Mid-Atlantic Ridge, Alpine–Himalayan belt and East African Rift. India’s seismic map uses Zones II–V.
-27. Earth’s spheres — lithosphere, atmosphere, hydrosphere and biosphere — interact. Rocks cycle among igneous, sedimentary and metamorphic states.
-28. Heat budget: about **35**/100 of insolation (सूर्यताप) is reflected (albedo) and about **51**/100 reaches the surface; surface heating then returns as **long-wave** radiation.
-29. Nuclear and geothermal energy (भू-तापीय ऊर्जा) are **not** forms of stored solar energy. India’s Tropic of Cancer (कर्क रेखा) runs through the **middle** of the country — India is not wholly tropical and is not split into equal tropical halves by that line alone.
-30. Pluto was reclassified as a **dwarf planet** by the IAU in **2006**. Neptune is the farthest true planet and the coldest among the eight.
-31. The Moon always shows roughly the same face because its rotation period ≈ its revolution (~**27.3 days**). Weight on the Moon is about **1/6** of weight on Earth. Apollo 11 landed in the **Sea of Tranquillity (1969)**.
-32. Light-year measures **distance**. Star colour tracks **temperature**. Brittle star is **not** an astronomical object. Earth Day (पृथ्वी दिवस) is **22 April**.
-33. **Igneous** = cooled magma/lava (no fossils); **sedimentary** = layered + fossils; **metamorphic** = heat/pressure remake. Granite → **gneiss**; limestone → **marble**; sandstone → **quartzite**; shale → **slate**.
-34. Most abundant volcanic gas is **water vapour**. Magma is underground; lava is surface melt. **Stromboli** = Mediterranean lighthouse; **Barren Island** = India’s only confirmed active volcano; Circum-Pacific / **Ring of Fire** has the densest volcanic belt.
-35. Earthquake **focus/hypocentre** is the rupture point; **epicentre** is the surface point above it. **P** waves are fastest (all states of matter); **S** waves solids only; surface waves are slowest and most damaging. **Richter** = magnitude (~10× amplitude / ~32× energy per step); **Mercalli** = intensity.
-36. **Tsunami** is Japanese for harbour wave. Ring of Fire ≈ **90%** of world quakes. NW India shakes mainly from **Indian–Eurasian** plate convergence. 2004 Indian Ocean and 2011 **Fukushima** are the classic tsunami case studies.
-
----
-37. Day and night length vary with seasons because of axial tilt; on equinox day and night are about equal everywhere. Arctic / Antarctic Circles mark 24-hour day or night at solstice.
-38. Plate boundary types: **divergent** (new crust / mid-ocean ridge), **convergent** (trenches / fold mountains), **transform** (side-slip faults). Himalaya = continent–continent collision.
+1. **Big Bang** is linked to **Lemaître** / **Gamow** (~**13.7–13.8 bn yr**) with **Hubble** redshift expansion. **Steady State** is **Hoyle–Bondi–Gold**. Solar-system **Nebular** theory is **Kant–Laplace**. **Otto Schmidt** = interstellar dust capture by the Sun.
+2. The **Milky Way** is a **barred spiral**. **Andromeda (M31)** is the nearest major spiral and the farthest naked-eye object. **Chandrasekhar limit** ≈ **1.44 M☉** is the white-dwarf ceiling; above it the path runs to neutron star / black hole.
+3. One **galactic year** for the Sun is ~**22.5–25 crore** years. IAU lists **88** constellations; **Saptarishi** points to the Pole Star. A **light-year** measures **distance**; star colour tracks **temperature** (blue hottest). **Brittle star** is a sea animal, not a star class.
+4. Planet order from the Sun is **MVEMJSUN**. **Venus** is hottest (greenhouse / “veiled planet”) and rotates **retrograde**. **Earth** has the highest mean density. **Jupiter** is largest. **Saturn** has the clearest rings. **Mercury** has the fastest orbit; Mercury and Venus have **no moon**.
+5. **Copernicus** is the classic heliocentric name. **Kepler** gave planetary-motion laws; **Newton** explained orbits by universal gravitation. **Uranus** (Herschel, 1781) tilts ~**98°** (“planet on its side”) and also rotates retrograde. **Neptune** is farthest and coldest among the eight and has the longest year (~**165** Earth years).
+6. Largest moon is **Ganymede** (Jupiter — not Titan). **Titan** (Saturn) has a thick atmosphere. Mars moons are **Phobos** and **Deimos**. Asteroid belt sits between **Mars and Jupiter**; **Trojans** share Jupiter’s orbit at L4/L5 (~60° ahead/behind).
+7. A **meteor** burns in the **mesosphere**; an unburned fragment on ground is a **meteorite**. A **comet** tail always points **away from the Sun**; Halley’s period is ~**76** years. **Pluto** became a **dwarf planet** (IAU, Prague, **24 Aug 2006**; MPC number **134340**).
+8. A **solar eclipse** occurs at **New Moon**; a **lunar eclipse** at **Full Moon**. Sunlight takes ~**8 min 20 s** to reach Earth. Sun’s energy is **nuclear fusion**. One **AU** ≈ **149.6 million km**. Photosphere ≈ **6000°C**; corona is the outer solar atmosphere.
+9. In the 2022 set, Saturn’s atmosphere is linked with **methane**. Mars is the classic life-candidate planet (2018 subsurface-lake news). **Mangalyaan / MOM** = India’s first Mars orbiter. **Aditya-L1** = solar; **Chandrayaan** = lunar — do not swap.
+10. Earth **rotates** ~**24 h** (day–night, west→east) and **revolves** ~**365¼ days** (year / leap year). Shape is an **oblate spheroid**. **Perihelion** ≈ **3–4 January**; **aphelion** ≈ **4 July**.
+11. Seasons come from **23½° axial tilt**, not perihelion distance. Equinoxes ≈ **21 March / 23 September**; solstices ≈ **21 June / 22 December**. On equinox, day and night are about equal everywhere; Arctic / Antarctic Circles mark 24-hour day or night at solstice.
+12. One degree of latitude ≈ **111 km**. Tropics = **23½°**; polar circles = **66½°**. Heat zones: torrid between tropics, temperate to 66½°, frigid to the poles. **Great circles** = Equator + **all meridians**; a parallel such as **60°N is not** a great circle.
+13. **0° lat and 0° long** meet in the **Atlantic** (Gulf of Guinea), not on land. **Not** on Equator: **Mexico**, **Equatorial Guinea**, **Rwanda**. **Not** on Cancer: **Iran**. **Not** on Capricorn: **Bolivia**.
+14. India’s area rank is **7th** (not 6th); land share ≈ **2.4%**. Tropic of Cancer runs through the **middle** of India — India is **not** wholly tropical. **Uttar Pradesh** does **not** lie on the Tropic of Cancer.
+15. **IST** is based on **82°30′ E** near **Mirzapur (UP)** and is **GMT + 5 h 30 min** for the **whole** country. Time zones use ~**15° = 1 hour** (**1° = 4 min**). **IDL** ≈ **180°** (zigzag); the **west** side is a day ahead.
+16. Earth’s spheres: **lithosphere** (crust + upper mantle), **atmosphere**, **hydrosphere**, **biosphere** (where the other three meet). Rocks cycle among igneous, sedimentary and metamorphic states.
+17. Atmosphere upward order: **troposphere → stratosphere → mesosphere → thermosphere/ionosphere → exosphere**. Weather lives in the **troposphere**; **ozone UV shield** sits in the **stratosphere** (ideal for jet flight); mesosphere is coldest / meteors burn; ionosphere reflects radio waves and hosts auroras.
+18. Dry-air abundance: **N₂ (~78%) → O₂ (~21%) → Ar (~0.93%) → CO₂ (~0.04%)**. Permanent gases = **N₂, O₂, Ar**; variable = vapour, CO₂, O₃, dust. **Argon is not** a greenhouse gas. **Ozone (O₃)** is variable.
+19. Atmosphere is heated mainly by **long-wave terrestrial radiation**, not direct short-wave alone. Normal lapse ≈ **6.5°C/km**. **Albedo** = reflecting power (fresh snow highest). Max heating belt often ~**20°N**. Same-latitude **Agra vs Darjeeling** contrast is an **altitude** fact.
+20. Heat budget (NCERT 100-unit picture): about **35**/100 insolation is reflected (planetary albedo) and about **51**/100 reaches the surface; surface returns **long-wave**. **Nuclear** and **geothermal** energy are **not** stored solar energy.
+21. Greenhouse gases include water vapour, CO₂, CH₄, N₂O, O₃ and CFCs. **Montreal** = ozone / CFCs; **Kyoto** / **Paris** = climate / GHG path. Ozone-hole focus = **Antarctica** in spring.
+22. **Weather** is short-term; **climate** is the long-term average. Light scattering / diffusion is classically linked to **dust**. Earth Day is **22 April**.
+23. Cyclone regional names: **Hurricane**–USA, **Typhoon**–China Sea, **Willy-Willy**–Australia, **Baguio**–Philippines. Tornado scale = **Fujita**; hurricane = **Saffir–Simpson**. Cumulonimbus = thunder / intense rain.
+24. **El Niño** = warm eastern Pacific / Peru phase with **less upwelling**, so **plankton and fish fall**; it can disturb the Indian monsoon. **La Niña** is the cold opposite phase.
+25. **Coriolis** deflects to the **right in the NH** and **left in the SH**; it is **zero at the equator** (Ferrel’s law).
+26. Jet streams are mainly high-altitude **westerlies** (polar + subtropical). **Tropical Easterly Jet (TEJ)** is the summer easterly exception (~14°N). Speeds can reach **300–500 km/h**. “All jets are easterly” is false.
+27. Pressure belts: **ITCZ** / doldrums = equatorial **low**; horse latitudes = subtropical **high** ~**30°**; subpolar low ~**60°**; polar high. Planetary winds = trades, westerlies, polar easterlies. Belts shift with the solstice seasons.
+28. **Roaring Forties** = strong westerlies near **40°S** (Furious Fifties / Shrieking Sixties farther south). Mediterranean winter rain links to southward belt shift around NH winter solstice.
+29. Interior shells: **Sial** (continental crust), **Sima** (oceanic crust), **Nife** (core). Discontinuities: crust–**Moho**–mantle–**Gutenberg** (~**2900 km**, S-wave stop)–**Lehmann**–inner core.
+30. **P-wave** shadow ≈ **103–142°**; **S-wave** shadow beyond ~**103°** because the outer core is **liquid**. **P** waves are fastest (all states); **S** waves solids only; surface waves are slowest and most damaging.
+31. **Wegener (1912)** proposed continental drift with **Pangaea** and **Panthalassa**. Plate margins: **divergent** (MOR / new crust), **convergent** (trenches / fold mountains), **transform** (side-slip). New ocean crust forms by **sea-floor spreading**. Himalaya = continent–continent collision.
+32. **Fold mountains**: Himalaya, Alps, Andes, Rockies. **Fault / block mountains**: Vosges, Black Forest, Sierra Nevada, Rhine graben.
+33. **Igneous** = cooled magma/lava (**no fossils**); **sedimentary** = layered + fossils; **metamorphic** = heat/pressure remake. Pairs: granite → **gneiss**; limestone → **marble**; sandstone → **quartzite**; shale → **slate**. Magma = underground; lava = surface melt.
+34. Volcano types: shield (**Mauna Loa**), composite (**Fuji / Etna / Vesuvius**), cinder (**Paricutin**), fissure (**Deccan**), caldera (**Krakatoa**). Most abundant volcanic gas = **water vapour**. **Stromboli** = “lighthouse of the Mediterranean.” **Barren Island** = India’s only confirmed active volcano (Andaman).
+35. Match pairs: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** = East African Rift (**dormant**), **not** Ring of Fire. **Aconcagua** is a peak, not an active-volcano match like Etna.
+36. Earthquake–volcano belts: Pacific **Ring of Fire** (~**90%** of world quakes), Mid-Atlantic Ridge, Alpine–Himalayan belt, East African Rift. India’s seismic map uses Zones **II–V**. NW India shakes mainly from **Indian–Eurasian** convergence.
+37. Earthquake **focus / hypocentre** = rupture point inside Earth; **epicentre** = surface point above it. **Richter** = magnitude (~**10×** amplitude / ~**32×** energy per step); **Mercalli** = intensity. **Tsunami** = Japanese for harbour wave; classic cases = **2004** Indian Ocean and **2011 Fukushima**.
+38. The Moon always shows roughly the same face because rotation ≈ revolution (~**27.3 days** sidereal). Weight on the Moon ≈ **1/6** of Earth weight. Apollo 11 (**1969**) landed in the **Sea of Tranquillity**. Moon has **no atmosphere**, no twilight, no sound.
+39. Humidity terms: absolute vs relative humidity; dew point is the temperature where air becomes saturated. Fog is a cloud on the ground; frost forms when dew freezes.
+40. Local mountain winds often asked: **chinook** (warm downslope, Rockies), **mistral** (cold, Rhône), **bora** (cold Adriatic), **foehn** (Alps warm downslope), **loo** (hot dry North Indian summer wind).
+41. Homosphere (mixed major-gas ratios) roughly reaches ~**80–100 km**; above that the **heterosphere** sorts gases more by molecular weight.
+42. Temperature **inversion** = temperature rises with height in a short layer; common on calm valley nights and can trap pollution near the ground.
+43. Prime Meridian land set in coaching lists includes UK, France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana — **not Niger / Nigeria**. Cairo ≈ **30° E** ≈ **+2 h** on GMT.
+44. China keeps **one** official time zone despite its width; India also keeps **one** (IST). Russia has the most time zones among large states in the usual teaching map.
+45. If the Pole Star is on your **left**, you are walking **east**. If stars rise **perpendicular to the horizon**, the observer is on the **Equator**.
+46. Inner planets are rocky terrestrials; outer set is gas giants (**Jupiter, Saturn**) plus ice giants (**Uranus, Neptune**). Sun holds ~**99.8–99.9%** of solar-system mass; H:He in the Sun is roughly **3:1**.
+47. Kuiper Belt = icy leftovers beyond Neptune; **Oort Cloud** = far comet reservoir. A nebula is a star-forming cloud, **not** a solar-system “member” like planets/moons/asteroids/comets.
+48. Earth’s axis makes about **66½°** with the orbital plane (complement of 23½°). Sidereal day ≈ **23 h 56 min**; mean solar day = **24 h**. Century years are leap only if divisible by **400**.
+49. India’s Tropic of Cancer states matter for map stems; do not park UP on Cancer. Nuclear fission energy and Earth’s internal heat (geothermal) are the classic “**not** from the Sun” pair in energy stems.
+50. Plate-tectonic quick map: divergent = plates apart / MOR; convergent = trenches or collision mountains; transform = side-slip faults (e.g. San Andreas class). Himalaya ≠ fault-block Vosges type.
 
 </details>
 

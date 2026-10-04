@@ -13,49 +13,80 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Mount Newman / Pilbara / Hamersley** = **iron** in Australia. **Krivoy Rog** = Ukraine iron. **Lorraine** = France. **Kiruna** = Sweden. **Mesabi** = USA. Germany–Normandy iron is **wrong** — **Normandy** is in **France**.
-2. **Chile** leads copper with northern Andes **porphyry** deposits (**Chuquicamata**, **El Teniente**). Also fact Katanga (DRC), Copperbelt (Zambia), and Bingham (USA).
-3. **Kashagan** oil is in **Kazakhstan**, not Kuwait. **Burgan** = Kuwait. Also fact Ghawar / Dhahran (Saudi), Kirkuk / Zubair (Iraq), Haft Kel (Iran), Baku (Azerbaijan). **Brent** = North Sea light crude.
-4. **Postmasburg** (South Africa) = **manganese** (not uranium / mica / bauxite). Also Mn: Moanda (Gabon), Groote Eylandt (Australia), Nikopol (Ukraine).
-5. **Lithium Triangle** = Chile–Argentina–Bolivia (Brazil is **not** in it). Cobalt volume = **DRC**. REE processing fact = **China**. Tungsten volume often **China**.
-6. **OPEC** HQ = **Vienna**. Original OPEC five (**1960**): Iran, Iraq, Kuwait, Saudi Arabia, Venezuela. North Sea oil/gas = UK–Norway; West Siberia = Russia’s giant hydrocarbon province.
-7. **Itaipu** = Brazil–Paraguay hydel. **Three Gorges** = China on the Yangtze. Steel tonnage top = **China**.
-8. **German silver** contains **no silver**. **Peace Pipeline** = Iran–Pakistan. Sheet **mica** classic = **India**. Platinum = Bushveld / Norilsk.
-9. **Brass** is copper plus zinc.
-10. **Bronze** (कांस्य) is copper plus tin.
-11. **Chile** is leading producer in that paper.
-12. **Reserves** names: Venezuela, Saudi Arabia, Iran, Canada (oil sands), Iraq.
-13. **Production** names: USA, Saudi Arabia, Russia (ranks move).
-14. **LPG** is propane plus butane. LPG is not the same as CNG.
-15. **LNG** is methane cooled to liquid for **ship** trade (Qatar, Australia).
-16. **Associated** gas comes with oil in the same field.
-17. **Non-associated** gas comes from gas-only fields (Qatar North Field / Iran South Pars, Groningen, Urengoy).
-18. **Nuclear** — radioactive minerals
-19. **Geothermal** — Earth’s internal heat
-20. **Tidal** — Moon’s gravity
-21. **La Rance** — France
-22. **Sudbury** (Canada) yields nickel with copper.
-23. **Norilsk** (Russia) is another Ni–Cu name.
-24. **Broken Hill** and Mount Isa are Australian names.
-25. **Ruhr = Britain / France / Russia** — FALSE. **Germany**.
-26. **Kuzbass = Ukraine** — FALSE. **Russia**. Donetsk = Ukraine.
-27. **Appalachian = England** — FALSE. **USA**. Lancashire = England.
-28. **Mount Newman = manganese** — FALSE. **Iron**, Australia. Mn = **Postmasburg**.
-29. **Germany–Normandy iron** — FALSE. Normandy = **France**.
-30. **Chile has no copper** — FALSE. 2022 **leading** + Andes **porphyry**.
-31. **Kinta = rubber** — FALSE. **Tin**.
-32. **Pegu Yoma = tin** — FALSE. **Mineral oil**.
-33. **Kuwait = Kashagan** — FALSE. Kashagan = **Kazakhstan**. Kuwait = **Burgan**.
-34. **LPG = methane / CNG** — FALSE. CNG = methane; LPG = propane+butane.
-35. **Iodine = Japan 2018** — FALSE. **Chile**.
+1. Coalfield–country pairs: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk / Donbass** = Ukraine. **Karaganda** = Kazakhstan coal city.
+2. **Mount Newman / Pilbara / Hamersley** = **iron** in Australia. **Krivoy Rog** = Ukraine iron. **Lorraine** = France. **Kiruna** = Sweden. **Mesabi** = USA. Germany–Normandy iron is **wrong** — **Normandy** is in **France**.
+3. Iron exporters = Australia (**Pilbara**) and Brazil (**Carajás**). China mines iron and still imports heavily. **Hematite** = red bulk ore; **magnetite** = black highest grade.
+4. **Chile** leads copper with northern Andes **porphyry** deposits (**Chuquicamata**, **El Teniente**). Also fact Katanga (DRC), Copperbelt (Zambia), and Bingham (USA).
+5. Malaysia’s **Kinta Valley** = **tin** (cassiterite). Also tin centres: Bangka–Belitung (Indonesia) and the Andes of Bolivia. Myanmar’s **Pegu Yoma** = **mineral oil**, not tin.
+6. **Kashagan** oil is in **Kazakhstan**, not Kuwait. **Burgan** = Kuwait. Also fact Ghawar / Dhahran (Saudi), Kirkuk / Zubair (Iraq), Haft Kel (Iran), Baku (Azerbaijan). **Brent** = North Sea light crude.
+7. Natural gas’s main constituent is **methane**. **LPG** (propane–butane) is not the same as **CNG**. Qatar’s **North Field** and Iran’s **South Pars** are one continuous Gulf gas giant.
+8. **Postmasburg** (South Africa) = **manganese** (not uranium / mica / bauxite). Also Mn: Moanda (Gabon), Groote Eylandt (Australia), Nikopol (Ukraine).
+9. Bauxite → aluminium: **Weipa / Gove / Darling Range** (Australia); **Guinea** for reserves renown; Les Baux (France) is the name origin. Mount Newman is **iron**, not bauxite.
+10. Gold: **Witwatersrand** (South Africa historic); Kalgoorlie (Australia); modern volume often **China**. Diamond: **Kimberley** / kimberlite (South Africa); Golconda is historical **India**.
+11. Nickel: **Sudbury** (Canada) and **Norilsk** (Russia). Chromite: **Bushveld** (South Africa) and Great Dyke (Zimbabwe). Lead–zinc: **Broken Hill** / Mount Isa (Australia).
+12. Phosphate rock king = **Morocco**. Potash names include Canada (Saskatchewan) and the Dead Sea belt. **Iodine** (2018 spelling “lodine”) fact = **Chile** Atacama caliche.
+13. Uranium volume often facts on **Kazakhstan**; Canada **Athabasca**; Australia **Olympic Dam** (U + Cu + Au). **Uranium City** = **Canada**. Thorium / monazite sands = India (Kerala–TN), Brazil, Australia.
+14. **Lithium Triangle** = Chile–Argentina–Bolivia (Brazil is **not** in it). Cobalt volume = **DRC**. REE processing fact = **China**. Tungsten volume often **China**.
+15. Nuclear and geothermal energy are **not** “stored solar”. Wind, biomass and hydro are solar-linked renewables. Coal, oil and gas are conventional non-renewables.
+16. **OPEC** HQ = **Vienna**. Original OPEC five (**1960**): Iran, Iraq, Kuwait, Saudi Arabia, Venezuela. North Sea oil/gas = UK–Norway; West Siberia = Russia’s giant hydrocarbon province.
+17. **Itaipu** = Brazil–Paraguay hydel. **Three Gorges** = China on the Yangtze. Steel tonnage top = **China**.
+18. Ancient **shields** host many metals. Sedimentary **basins** host coal, oil and gas. Andean porphyry belts host copper, with lithium brines nearby in the same broad story.
+19. **German silver** contains **no silver**. **Peace Pipeline** = Iran–Pakistan. Sheet **mica** classic = **India**. Platinum = Bushveld / Norilsk.
+20. Energy classification check: coal / oil / gas = conventional non-renewable; wind / biomass / hydro = renewable solar-linked; nuclear and geothermal stand apart from “stored solar” wording.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Current Affairs anchors
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| Ruhr | **Germany** | Britain / France / Russia | रुहर |
+| Kuzbass | **Russia** | Ukraine / Germany | कुजबास |
+| Donetsk | **Ukraine** coal | Kyiv / Kharkiv as the coal answer | दोनेत्स्क |
+| Appalachian | **USA** | England | अप्लेशियन |
+| Lancashire | **England** | USA / Germany | लंकाशायर |
+| Mount Newman | **Iron**, Australia | Mn / Cu / bauxite | माउंट न्यूमैन |
+| Krivoy Rog | **Ukraine** iron | Russia | क्रिवॉय रोग |
+| Normandy iron | **France** | Germany (2020 wrong pair) | नॉर्मंडी |
+| Karaganda | Kazakhstan (coal renown; 2020 iron list accepted) | Kuwait oil | कारागांदा |
+| Chile copper | **Andes porphyry**, N Chile | “Chile has no copper” | चिली तांबा |
+| Kinta Valley | **Tin** | Rubber / tea / coffee | किंटा |
+| Pegu Yoma | **Mineral oil** | Tin (that is Kinta / Bangka / Tenasserim) | पेगू योमा |
+| Kashagan | **Kazakhstan** | Kuwait | कशागन |
+| Burgan | **Kuwait** | Kashagan dump | बुर्गान |
+| Haft Kel | **Iran** | Iraq | हफ्त केल |
+| Zubair | **Iraq** | Iran | ज़ुबैर |
+| Dhahran | **Saudi Arabia** | Kuwait | धहरान |
+| Methane | Natural gas **and** CNG | LPG (propane/butane) | मीथेन |
+| Nuclear vs solar | Nuclear **not** stored solar | Marking only wind as non-solar | नाभिकीय |
+| Iodine | **Chile** | Japan / USA / China as the 2018 fact | आयोडीन |
+| Postmasburg | **Manganese**, South Africa | Uranium / mica / bauxite | पोस्टमासबर्ग |
+| Weipa vs Newman | Weipa = **bauxite**; Newman = **iron** | Swap | वीपा / न्यूमैन |
+| Witwatersrand | **Gold**, South Africa | Postmasburg Mn dump | विटवाटरसैंड |
+| Sudbury | Canada **Ni + Cu** | Tin / oil | सडबरी |
+| North Field / South Pars | Qatar / Iran — **same** Gulf gas giant | Two unrelated fields | नॉर्थ फील्ड |
+| OPEC vs IAEA | Both **Vienna**; OPEC = oil, IAEA = nuclear | Swap jobs | वियना |
+| Brass vs bronze | Brass = Cu+Zn; bronze = Cu+Sn | Swap | पीतल / कांसा |
+| Morocco | **Phosphate** reserves | Oil / copper | मोरक्को |
+| Broken Hill | Australia **Pb–Zn** | Iron / tin | ब्रोकन हिल |
+| Lithium Triangle | **Chile–Argentina–Bolivia** (brines) | Brazil in the triangle | लिथियम |
+| Rare earths | **China** dominates processing | “India has zero REE” | दुर्लभ मृदा |
+| German silver | Cu–Ni–Zn (**no Ag**) | Contains silver | जर्मन सिल्वर |
+| Peace Pipeline | Iran–Pakistan gas | Russia–Europe only | पीस पाइपलाइन |
+| Uranium City | **Canada** | Australia / USA | यूरेनियम सिटी |
+| Kinta Valley | **Tin** (Malaysia) | Rubber | किंटा घाटी |
+| Carajás vs Newman | Both **iron**; Carajás = Brazil, Newman = Australia | Swap countries | काराजास |
+| Producer vs exporter (coal/iron) | China often huge **volume**; Australia/Indonesia **ship** | China = export king | |
+
+---
+
+### Confused pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
 | Ruhr | **Germany** | Britain / France / Russia | रुहर |
 | Kuzbass | **Russia** | Ukraine / Germany | कुजबास |
 | Donetsk | **Ukraine** coal | Kyiv / Kharkiv as the coal answer | दोनेत्स्क |
@@ -428,3 +459,4 @@ D. Methane
 **Ans: D**
 
 </details>
+
