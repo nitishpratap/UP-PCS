@@ -31,53 +31,48 @@
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 34 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 40 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-### 1. The Constitutional Skeleton
-| Feature | Panchayati Raj (Rural) | Urban Local Bodies |
-|---------|------------------------|--------------------|
-| **Amendment** | **73rd Act, 1992** (Force: **24 Apr 1993**) | **74th Act, 1992** (Force: **1 June 1993** (1 जून)) |
-| **Part & Articles** | **Part IX** (भाग IX) (Articles **243 to 243-O**) | **Part IXA (नगरपालिका)** (Articles **243-P to 243-ZG**) |
-| **Schedule** | **11th Schedule** (11वीं) (contains **29** subjects) | **12th Schedule** (12वीं) (contains **18** subjects) |
-| **Subject List** | Entry **5** of **State List** (राज्य सूची) | Entry **5** of **State List** |
-
-### 2. Evolution & Committees
-| Committee / Event | Key Fact / Recommendation |
-|-------------------|---------------------------|
-| **Lord Ripon (रिपन) (1882)** | Magna Carta of local self-government; "Father of local self-govt". |
-| **Hobhouse (1907)** | Royal Commission on Decentralization. |
-| **Community Dev. Prog (1952)** | Failure of CDP (सीडीपी) & NES (एनईएस) (1953) led to BR Mehta Committee. |
-| **Balwant Rai Mehta (1957)** | Recommended **3-tier system**, democratic decentralization. |
-| **Santhanam (1963)** | Focused on **Panchayati Raj Finances**. |
-| **Ashok Mehta (1977)** | **2-tier system**, district as first point, official party participation. |
-| **Dantwala (1978)** | Focused on **Block-level planning**. |
-| **G.V.K. Rao (1985)** | **District** planning; warned of "grass without roots". |
-| **L.M. Singhvi (1986)** | **Constitutional status** push, Gram Sabha importance, Nyaya (न्याय) Panchayats. |
-| **Thungon (1988)** | Constitutional status, 5-year term, State Finance Commission. |
-| **Gadgil (1988)** | Drafted the skeleton which became the basis of the 73rd AM Act. |
-| **64th Bill (1989)** | Rajiv Gandhi (गांधी) govt bill passed Lok Sabha (लोकसभा) but **failed in Rajya Sabha (राज्यसभा)**. |
-
-### 3. Must-Know Structural (संरचनात्मक) Facts
-- **Gram Sabha (243A):** Comprises **registered voters** of the village, not all residents. Powers are fixed by **State law**, not Central notification.
-- **Three Tiers (243B):** Village, intermediate, and district. Intermediate tier is **optional** if State population (जनसंख्या) is **≤ 20 lakh**.
-- **Election (243C / 243R):** All *seats* at all levels are filled by **direct** election. The chairperson's election mode is decided by State law (usually indirect, but UP Pradhan is direct).
-- **Reservation (243D / 243T):** SC/ST reserved in proportion to population. **Women** get **at least 1/3 (floor)** of total seats and chairpersons. OBC (अन्य पिछड़ा वर्ग) reservation is optional. UP gives 50% to women by State law.
-- **Term & Age (243E, 243F / 243U, 243V):** **5-year** term. Early dissolution (विघटन) requires elections within **6 months**, remaining term only. Minimum age is **21 years** (not 25).
-- **State Finance Commission (243-I / 243Y):** Constituted by **Governor** every **5 years** to recommend (सिफारिश) tax sharing and grants.
-- **State Election Commission (243K / 243ZA):** Appointed by Governor. Runs PRI and ULB polls (not ECI). Removed like a **High Court judge**.
-- **Article 243O / 243ZG:** Bars courts from interfering in local electoral matters (similar to Art 329 for Parliament/Assemblies).
-- **DPC (243ZD):** District Planning Committee consolidates rural & urban plans. At least **4/5** members elected.
-- **MPC (243ZE):** Metropolitan Planning Committee for pop **≥ 10 lakh**. At least **2/3** members elected.
-- **Exemptions (243M):** Part IX does **not** apply to **Nagaland, Meghalaya (मेघालय), Mizoram**, hill areas of Manipur, and Darjeeling Gorkha Hill Council.
-- **PESA Act, 1996:** Extends Part IX to **Fifth Schedule** (5वीं अनुसूची) areas (10 States) but NOT to Sixth Schedule (6वीं अनुसूची).
-- **Cooperatives (97th Amd, 2011):** Part IXB (243ZH-243ZT). Art 43B DPSP (राज्य के नीति निदेशक तत्व) and Art 19(1)(c) FR. In 2021, SC struck down its application to State cooperatives.
-- **Cantonment Board:** Set up under Cantonments Act (2006). Falls under **Ministry of Defence**. Station Commander is ex-officio President (not 74th Amd ULB).
-
-### 4. Urban Local Bodies (Part IXA) — decidable spine
-- **Three types (Article 243Q):** **Nagar Panchayat** (transitional area), **Municipal Council** (smaller urban area), and **Municipal Corporation** (larger urban area). The **Governor** classifies; the Constitution does **not** fix one all-India population cut-off.
-- **Mayor vs Municipal Commissioner:** The **Mayor** is the political / ceremonial head; the **Municipal Commissioner** (usually IAS, State-appointed) is the executive. India follows the Commissioner system, not a US strong-mayor model.
-- **Ward Committee (Article 243S):** Mandatory in a municipality with population **≥ 3 lakh**. It is a committee of councillors — **not** an urban Gram Sabha (Part IXA has no urban Gram Sabha).
-- **First municipal corporation:** **Madras, 1688**; Bombay and Calcutta followed in **1726**.
+1. Local Self-Government is a subject listed under **Entry 5 of the State List (List II)** in the Seventh Schedule; **Lord Ripon’s Resolution of 1882** is hailed as the **'Magna Carta of Local Self-Government in India'**, earning him the title 'Father of Local Self-Government in India'.
+2. **Article 40** (Gandhian Directive Principle in Part IV) directs the State to 'organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government'.
+3. **Community Development Programme (CDP):** Launched on **2 October 1952** with US Ford Foundation assistance; its failure due to bureaucratic inertia led to the appointment of the Balwant Rai Mehta Committee.
+4. **Balwant Rai Mehta Committee (January 1957):** Submitted report in November 1957; recommended the establishment of a **3-tier Panchayati Raj system**: (1) **Gram Panchayat** at village level (directly elected); (2) **Panchayat Samiti** at block level (indirectly elected, key executive body); (3) **Zila Parishad** at district level (advisory/supervisory, chaired by District Collector); coined the concept of **'Democratic Decentralisation'**.
+5. First Panchayati Raj System: Inaugurated by Prime Minister Jawaharlal Nehru on **2 October 1959 at Nagaur, Rajasthan**; **Andhra Pradesh** became the second State to adopt Panchayati Raj in 1959.
+6. **Ashok Mehta Committee (December 1977):** Appointed by Janata Party government; submitted report in August 1978; recommended replacing 3-tier system with a **2-tier system**: **Zila Parishad** at district level (executive pivot) and **Mandal Panchayat** (cluster of villages with 15,000–20,000 population); recommended official participation of political parties and a Minister for Panchayati Raj.
+7. **G.V.K. Rao Committee (1985):** Appointed by Planning Commission; observed that development administration was becoming bureaucratized, reducing PRIs to **'grass without roots'**; recommended District Development Commissioner (DDC) and making Zila Parishad the apex planning body.
+8. **L.M. Singhvi Committee (1986):** Appointed by Rajiv Gandhi government; first committee to strongly recommend that Panchayati Raj institutions should be **constitutionally recognized, protected, and preserved**; recommended constitutional provisions for regular, free, and fair elections.
+9. **P.K. Thungon Committee (1988):** Sub-committee of Parliamentary Consultative Committee; recommended constitutional status, fixed 5-year tenure, State Finance Commission, and district collector as chief executive of Zila Parishad.
+10. **V.N. Gadgil Committee (1988):** Committee on Policy and Programmes; recommended 3-tier system, direct elections for members, fixed 5-year term, reservations for SC/ST/women, and State Election and Finance Commissions; became the blueprint for the 73rd Amendment Bill.
+11. The **73rd Constitutional Amendment Act, 1992** received presidential assent on 20 April 1993 and came into force on **24 April 1993** (celebrated annually as **National Panchayati Raj Day**); inserted **Part IX (Articles 243 to 243-O)** and the **11th Schedule (29 functional subjects)**.
+12. **Gram Sabha (Article 243A):** The foundational pillar of the Panchayati Raj system; a body consisting of all **persons registered in the electoral rolls** of a village within the Panchayat area (not all residents, only registered adult voters); exercises powers as determined by State Legislature.
+13. **Three Tiers of Panchayati Raj (Article 243B):** Mandates a 3-tier structure in every State: (1) Village level (Gram Panchayat); (2) Intermediate level (Panchayat Samiti / Block); (3) District level (Zila Parishad); Exception: States having a **population not exceeding 20 lakh** have the option **NOT to constitute the intermediate tier**.
+14. **Election of Members and Chairpersons (Article 243C):** All seats across all three tiers are filled by **Direct Election** from territorial constituencies; Chairpersons at intermediate and district levels are elected **indirectly** by and from amongst elected members; Chairperson at village level is elected in such manner as the State Legislature determines (direct or indirect; directly elected in UP).
+15. **Reservation of Seats (Article 243D):** Mandatory reservations for **Scheduled Castes (SC)** and **Scheduled Tribes (ST)** in proportion to their population in the Panchayat area (both seats and offices of chairpersons, rotated among constituencies).
+16. Women's Reservation Floor: **Not less than one-third (33.3%)** of the total number of seats and chairpersons at all levels **MUST be reserved for women** (including within SC/ST quota); several States (e.g., Bihar 2006, UP, MP, Rajasthan) have raised this to **50% reservation for women by State legislation** (the constitutional floor remains 1/3rd).
+17. OBC Reservation Discretion: Article 243D(6) permits the **State Legislature** to provide reservations for Backward Classes (OBCs) in seats or chairperson offices at its own discretion (it is **optional**, not constitutionally mandatory).
+18. Arunachal Pradesh Exemption: The **83rd Constitutional Amendment Act, 2000** amended Article 243D to provide that **no reservation for Scheduled Castes** is required in Arunachal Pradesh, as the State is wholly inhabited by tribal populations with zero SC population.
+19. **Duration of Panchayats (Article 243E):** Fixed term of **5 years** from the date appointed for its first meeting; if dissolved prematurely, elections must be completed within **6 months**; a reconstituted Panchayat continues **ONLY for the remainder of the 5-year period** (unless the remaining period is < 6 months, in which case elections are held for a fresh 5-year term).
+20. **Qualifications for Membership (Article 243F):** Minimum age for contesting Panchayat elections is **21 years** (unlike 25 for Lok Sabha/Assembly); all disqualification questions are referred to such authority as the State Legislature provides.
+21. **State Finance Commission - SFC (Article 243-I):** The **Governor** of a State constitutes an SFC **every 5 years** to review the financial position of Panchayats and recommend principles for: (1) distribution of net tax proceeds between State and PRIs; (2) assignment of taxes to PRIs; (3) grants-in-aid from State Consolidated Fund; recommendations and Action Taken Report (ATR) laid before State Legislature.
+22. Under **Article 280(3)(bb)** (inserted by 73rd Amd), the Central Finance Commission must recommend measures to augment the Consolidated Fund of a State to supplement the resources of Panchayats on the basis of the recommendations of the State Finance Commission.
+23. **State Election Commission - SEC (Article 243K):** Superintendence, direction, and control of electoral rolls and conduct of all elections to Panchayats (and Municipalities under Art. 243ZA) are vested in the State Election Commissioner, **appointed by the Governor**.
+24. Security of Tenure of SEC: The State Election Commissioner can be **removed from office ONLY in like manner and on like grounds as a Judge of a High Court**; his conditions of service cannot be varied to his disadvantage after appointment.
+25. Bar to Interference by Courts (**Article 243-O**): Validity of any law relating to delimitation of constituencies or allotment of seats cannot be questioned in court; no election to any Panchayat can be called in question except by an **election petition** presented to such authority as provided by State law.
+26. **Exempted Areas from Part IX (Article 243M):** Part IX does **NOT apply** to: (1) The States of **Nagaland, Meghalaya, and Mizoram**; (2) The Hill areas of Manipur (where District Councils exist); (3) Scheduled Areas under 5th Schedule and Tribal Areas under 6th Schedule; (4) Darjeeling Gorkha Hill Council area in West Bengal.
+27. **PESA Act, 1996 (Panchayats Extension to Scheduled Areas Act):** Enacted on recommendation of the **Bhuria Committee (1995)** to extend Part IX provisions to **Fifth Schedule Areas** across 10 States; gives supreme authority to the **Gram Sabha** to approve plans, safeguard customary laws, manage minor water bodies, grant prospecting licenses for minor minerals, enforce prohibition, and ownership over **Minor Forest Produce (MFP)**.
+28. **74th Constitutional Amendment Act, 1992:** Came into force on **1 June 1993**; inserted **Part IXA (Articles 243-P to 243-ZG)** and the **12th Schedule (18 functional subjects)** for Urban Local Bodies (ULBs).
+29. Three Types of Municipalities (**Article 243Q**): (1) **Nagar Panchayat** (for a transitional area from rural to urban); (2) **Municipal Council** (for a smaller urban area); (3) **Municipal Corporation (Nagar Nigam)** (for a larger urban area); areas are determined and notified by the **Governor** based on population density, revenue, and non-agricultural employment.
+30. Industrial Townships: The Governor may notify an urban area as an **Industrial Township** under the proviso to Article 243Q, in which case a municipality **need not be constituted** (services provided by the industry, e.g., Jamshedpur).
+31. **Wards Committees (Article 243S):** Mandatory constitution of Wards Committees in all municipalities having a **population of 3 lakh or more**; composition and territorial area determined by State Legislature.
+32. Reservations in Municipalities (**Article 243T**): Exactly parallels Article 243D: proportional reservation for SC/STs; **minimum 1/3rd seats and chairperson offices reserved for women**; discretionary OBC reservation by State law.
+33. Duration and Age for Municipalities (**Articles 243U & 243V**): Fixed term of **5 years**; dissolution elections within **6 months**; minimum age to contest is **21 years**.
+34. **District Planning Committee - DPC (Article 243ZD):** Mandatory in every State at the district level to consolidate plans prepared by Panchayats and Municipalities and draft a development plan for the district as a whole; **not less than 4/5ths (80%) of members** must be elected by and from amongst elected members of Zila Parishad and Municipalities in proportion to rural and urban population.
+35. **Metropolitan Planning Committee - MPC (Article 243ZE):** Mandatory for every Metropolitan area (population of **10 lakh or more**); **not less than 2/3rds (66.7%) of members** must be elected by and from amongst elected members of Municipalities and chairpersons of Panchayats in the metropolitan area.
+36. Urban Local Bodies Evolution: The first Municipal Corporation in India was established at **Madras in 1688** by Royal Charter; followed by **Bombay and Calcutta in 1726**.
+37. Types of Urban Local Bodies in India: (1) Municipal Corporation (headed politically by **Mayor** and administratively by State-appointed **Municipal Commissioner**); (2) Municipality (Municipal Council / Board); (3) Notified Area Committee; (4) Town Area Committee; (5) Cantonment Board; (6) Township; (7) Port Trust; (8) Special Purpose Agency.
+38. **Cantonment Boards:** Established under the **Cantonments Act, 2006** (earlier 1924 Act) for municipal administration of civilian populations in cantonment areas; administrative control rests with the **Union Ministry of Defence** (NOT Ministry of Housing & Urban Affairs); the **Station Commander** is the ex-officio President; Executive Officer is appointed by Central Government (IDES officer).
+39. Compulsory Provisions under 73rd/74th Amendments (Binding on States): Organisation of Gram Sabha; 3-tier PRIs (intermediate optional for < 20 lakh); direct elections to all seats; indirect elections for chairperson at intermediate/district levels; 21 years voting/contesting age; mandatory SC/ST proportional quota; 1/3rd women quota; 5-year fixed term; State Election Commission; State Finance Commission.
+40. Voluntary Provisions (Left to State Discretion): Voting rights to MPs/MLAs in PRIs/ULBs; OBC reservations; giving financial powers to levy taxes; devolution of powers on 29 subjects (11th Schedule) and 18 subjects (12th Schedule) to make local bodies institutions of self-government.
 
 </details>
 

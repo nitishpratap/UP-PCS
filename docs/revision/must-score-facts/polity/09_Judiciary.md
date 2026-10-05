@@ -13,49 +13,57 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **2019:** SC strength **34** (CJI + 33).
-2. **2019:** AP & Telangana High Courts **split** (1 Jan) — number of HCs = **25**.
-3. **2015:** NJAC struck down 4:1; Collegium restored.
-4. **2013:** Manipur, Meghalaya (मेघालय), Tripura HCs — newest trio before 2019 split.
-5. **2023:Fathima Beevi (फातिमा)** died; Mediation Act.
-6. **2025:** PIL A/R on rule of law + access to justice.
-7. **Article 124** establishes the Supreme Court. It sits in **Delhi** under Article **130**. Strength moved from **8** (CJI plus 7) to **34** judges in **2019**. Retirement age for an SC judge is **65**.
-8. **Article 129** makes the Supreme Court a **court of record**. **Article 141** makes its law binding on all courts. **Article 142** allows complete justice and is available to the **Supreme Court only**, not High Courts. A Constitution Bench under **145(3)** needs at least **five** judges.
-9. **Article 131** is the Supreme Court’s **exclusive original** jurisdiction in federal disputes between the Union and States or among States. It does **not** cover Fundamental Rights (मौलिक अधिकार), private parties, or river-water disputes where Parliament has barred the Court.
-10. **Article 32** (अनुच्छेद 32) is a Fundamental Right and gives the Supreme Court writ jurisdiction for **Fundamental Rights only**. **Article 226** is **wider** — High Courts can issue writs for Fundamental Rights **and** any other legal right.
-11. **Article 136** Special Leave Petition is the Supreme Court’s widest appellate power, but it does **not** apply to judgments of **armed-forces courts**. **Article 137** is review. **Article 143** advisory opinions are **not binding**; under **143(1)** the Court **may** decline, and under **143(2)** it **shall** report on pre-Constitution treaty questions.
-12. **Gram Nyayalayas** (2008 Act; in force **2 October 2009**) are separate courts, not Gram Panchayat courts, and are **not bound** by the Evidence Act. **Fast Track Courts** are ordinary sessions courts on a fast track — they are **not** ADR. An All-India Judicial Service under **Article 312** is enabled but **not yet created** and cannot go below District Judge rank.
-13. **Fathima Beevi** (1989) was the first woman Supreme Court judge; she later became Governor of **Tamil Nadu (नाडु)**, not Kerala. **Anna Chandy** was the first woman High Court judge. **Leila Seth** (लीला सेठ) was the first woman High Court Chief Justice. **Indu Malhotra** (2018) was the first woman SC judge elevated directly from the **Bar**.
-14. **Integrated:one** hierarchy: district/sessions → High Court → Supreme Court. SC is the **apex for the Union and the States**. Canadian flavour.
-15. **Independent:** separate from the executive/legislature (Arts. **124–147, 214–231, 50**). Not the same thing as “integrated”.
-16. **USA contrast:** the USA runs a **dual** system — federal courts apply federal law, and state courts apply state law.
-17. **Part / Articles:** SC: **Part V, Ch. IV, Arts. 124–147**. HC: **Part VI, Ch. V, Arts. 214–231**. Subordinate: **233–237**. Tribunals: **Part XIVA (323A–323B)**.
-18. **Art. 50:** DPSP (राज्य के नीति निदेशक तत्व) — separate the judiciary from the executive in the **public services of the State**.
-19. **Art. 124:** The Constitution establishes the **Supreme Court of India**.
-20. **Arts. 124A–C** created the **National Judicial Appointments Commission (NJAC)**.
-21. **Art. 125** lets Parliament fix the salaries of Supreme Court judges by law.
-22. **Art. 126** lets the President appoint an **Acting Chief Justice of India** when the office is vacant or the CJI is absent.
-23. **Art. 127** allows the appointment of an **ad hoc judge** to the Supreme Court.
-24. **Art. 128** allows a **retired judge** to sit and act as a Supreme Court judge.
-25. **Art. 129** makes the Supreme Court a **court of record**.
-26. **Art. 130** fixes the Supreme Court's seat at **Delhi**.
-27. **Art. 131** gives the Supreme Court **exclusive original jurisdiction** in federal disputes.
-28. **Art. 132** allows an appeal to the Supreme Court from a High Court judgment on a **constitutional** question.
-29. **Art. 133** allows a **civil appeal** to the Supreme Court from a High Court judgment.
-30. **Art. 134** allows a **criminal appeal** to the Supreme Court from a High Court judgment.
-31. **Art. 134A**, inserted by the **44th Amendment (1978)**, requires a High Court to consider granting a certificate under Arts. 132, 133 or 134 as soon as it delivers the judgment.
-32. **Art. 135** lets the Supreme Court exercise the jurisdiction of the old **Federal Court** in any leftover matters, until Parliament provides otherwise.
-33. **Art. 136** gives the Supreme Court a discretionary power to grant **Special Leave to Appeal (SLP)**.
-34. **Art. 137** allows the Supreme Court to **review** its own judgment or order.
-35. **Art. 138** allows Parliament to **enlarge** the Supreme Court's jurisdiction by law.
+1. India possesses a **single integrated judicial system** adopted from the **Government of India Act, 1935**; the Supreme Court stands at the apex, exercising superintendence over State High Courts and subordinate courts, enforcing both Union and State laws.
+2. The **Supreme Court of India** was inaugurated on **28 January 1950**; it succeeded both the **Federal Court of India** (established under GOI Act 1935 in 1937) and the **Judicial Committee of the Privy Council** (the highest appellate body during colonial rule); the first Chief Justice of India was **H.J. Kania**.
+3. **Seat of the Supreme Court (Article 130):** The Supreme Court normally sits in **Delhi**; however, the Chief Justice of India is authorized to appoint other place(s) as the seat of the Supreme Court, but only **with the prior approval of the President**.
+4. **Strength of Supreme Court (Article 124(1)):** Originally fixed at **8 judges (1 CJI + 7 other judges)**; Parliament has increased it periodically by law: to 11 (1956), 14 (1960), 18 (1977), 26 (1986), 31 (2009), and currently **34 judges (1 CJI + 33 other judges)** under the Supreme Court (Number of Judges) Amendment Act, 2019.
+5. **Appointment of Supreme Court Judges (Article 124(2)):** Appointed by the **President**; in appointing the CJI, the outgoing CJI is consulted; in appointing other judges, consultation with the CJI is mandatory.
+6. **The Collegium System:** Not mentioned in the Constitution; evolved through three landmark judgments: (1) ***First Judges Case (S.P. Gupta 1981)***: Executive primacy; consultation did not mean concurrence; (2) ***Second Judges Case (1993)***: CJI primacy; consultation meant **concurrence**; Collegium created consisting of **CJI + 2 seniormost SC judges**; (3) ***Third Judges Case (Presidential Reference 1998)***: Expanded Collegium to **CJI + 4 seniormost SC judges**; recommendation requires consensus of at least 4 out of 5.
+7. **NJAC Struck Down:** The **99th Constitutional Amendment Act, 2014** and the National Judicial Appointments Commission (NJAC) Act, 2014 sought to replace the Collegium; struck down in October 2015 in the ***Fourth Judges Case (Advocates-on-Record Association 2015)*** as unconstitutional and violative of the **Independence of Judiciary (Basic Structure)**.
+8. Qualifications for Supreme Court Judge (Art. 124(3)): Must be a citizen of India; AND either: (a) Judge of a High Court for at least **5 years**; OR (b) Advocate of a High Court for at least **10 years**; OR (c) In the opinion of the President, a **distinguished jurist**. *No minimum age is prescribed in the Constitution*.
+9. **Tenure and Resignation (Article 124(2)):** Holds office until attaining the age of **65 years**; resigns by writing under his hand addressed to the **President**; age question is determined by such authority as Parliament provides by law.
+10. **Removal of SC Judge (Article 124(4) & Judges Inquiry Act, 1968):** Removed by order of the President after an address by Parliament presented in the same session; grounds are limited to **'Proved Misbehaviour'** or **'Incapacity'**.
+11. Removal Procedure: Motion must be signed by **100 Lok Sabha members or 50 Rajya Sabha members**; investigated by a 3-member statutory committee (SC judge + HC Chief Justice + distinguished jurist); if found guilty, motion must be passed in each House by a **Special Majority** (majority of total membership + not less than 2/3rd members present and voting). No SC judge has ever been successfully removed (Justice V. Ramaswami in 1993 and Justice Dipak Misra faced motions that failed).
+12. **Salaries and Allowances (Article 125):** Determined by Parliament; CJI salary is ₹2.8 lakh/month, other SC judges ₹2.5 lakh/month; **charged upon the Consolidated Fund of India** (non-votable); cannot be varied to their disadvantage during their tenure, except during a **Financial Emergency (Article 360)**.
+13. Ban on Practice (Art. 124(7)): A retired Supreme Court judge is **completely debarred from pleading or acting in any court or before any authority within the territory of India**.
+14. **Acting Chief Justice (Article 126):** Appointed by the President when the office of CJI is vacant, or CJI is temporarily absent or unable to perform his duties.
+15. **Ad Hoc Judges (Article 127):** If there is a lack of quorum of permanent judges to hold or continue any SC session, the **Chief Justice of India can appoint a High Court Judge as an ad hoc judge of the Supreme Court** for a temporary period, with the **previous consent of the President** and after consultation with the Chief Justice of the concerned High Court.
+16. Retired Judges in SC (**Article 128**): The CJI may, with the previous consent of the President, request a retired SC or HC judge to sit and act as a judge of the Supreme Court.
+17. **Court of Record (Article 129):** The Supreme Court is a Court of Record having all powers of such court including the **power to punish for contempt of itself**; its records and judgments have evidentiary value and cannot be questioned when produced before any court.
+18. **Original Jurisdiction (Article 131):** Exclusive jurisdiction to resolve federal disputes between: (a) Government of India and one or more States; (b) GOI and State(s) on one side and other State(s) on the other; (c) Two or more States. Dispute must involve a **legal right** (not political). *Pre-constitutional treaties, inter-state water disputes (Art. 262), and Finance Commission matters are excluded from Art. 131*.
+19. **Writ Jurisdiction (Article 32):** Guarantees right to move SC for enforcement of Fundamental Rights; SC issues Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari; unlike Article 226, SC writ jurisdiction is **confined strictly to Fundamental Rights**.
+20. **Appellate Jurisdiction (Articles 132–136):** (1) Constitutional matters (Art. 132 - HC certificate under Art. 134A); (2) Civil matters (Art. 133 - substantial question of law of general importance); (3) Criminal matters (Art. 134 - death sentence awarded/enhanced); (4) **Special Leave Petition - SLP (Article 136)**: plenary discretionary power of SC to grant special leave to appeal against any judgment/order from any court/tribunal in India (*except military tribunals/courts-martial*).
+21. **Review Jurisdiction (Article 137):** Supreme Court has the power to review any judgment pronounced or order made by it; ensures errors can be corrected (e.g., Curative Petitions originated from ***Rupa Ashok Hurra v. Ashok Hurra 2002***).
+22. **Complete Justice (Article 142):** Empowers the Supreme Court to pass such decree or make such order as is necessary for doing **complete justice in any cause or matter pending before it**; enforceable throughout India (used in Babri Masjid case, Union Carbide Bhopal gas leak).
+23. **Advisory Jurisdiction (Article 143):** President may refer to SC for opinion: (1) Any question of law or fact of public importance (SC **may refuse** to give opinion, e.g., Babri Masjid reference 1993); (2) Any dispute arising out of pre-constitutional treaty/agreement (SC **must give** opinion). The advisory opinion is **non-binding** on the President.
+24. **Binding Law (Article 141):** The law declared by the Supreme Court is **binding on all courts** within the territory of India.
+25. **High Courts in India (Part VI, Articles 214–232):** Article 214 mandates a High Court for each State; however, **Article 231** empowers Parliament by law to establish a **Common High Court for two or more States, or for two or more States and a UT** (e.g., Punjab & Haryana HC; Guwahati HC; Bombay HC). Currently there are **25 High Courts** in India (25th is Andhra Pradesh HC at Amaravati, established 1 January 2019).
+26. High Courts with Multiple States/UTs: (1) **Bombay HC**: Maharashtra, Goa, Dadra & Nagar Haveli and Daman & Diu (benches at Nagpur, Aurangabad, Panaji); (2) **Guwahati HC**: Assam, Nagaland, Mizoram, Arunachal Pradesh; (3) **Punjab and Haryana HC**: Punjab, Haryana, Chandigarh; (4) **Calcutta HC**: West Bengal, Andaman & Nicobar Islands (bench at Port Blair); (5) **Madras HC**: Tamil Nadu, Puducherry; (6) **Kerala HC**: Kerala, Lakshadweep; (7) **Jammu & Kashmir and Ladakh HC**: J&K, Ladakh.
+27. Only Two UTs have their own separate High Courts: **NCT of Delhi (since 1966)** and **Jammu & Kashmir**; other UTs fall under neighboring State High Courts.
+28. **Appointment of High Court Judges (Article 217):** Appointed by the **President**; in appointing CJ of HC, President consults CJI and the Governor of the State; in appointing other HC judges, CJ of that HC is also consulted; under Collegium rules, CJI consults 2 seniormost SC judges.
+29. Qualifications for High Court Judge (Art. 217(2)): Citizen of India; AND either: (a) Held a **judicial office in India for at least 10 years**; OR (b) **Advocate of a High Court for at least 10 years**. *A distinguished jurist CANNOT be appointed as an HC judge (this provision exists only for the Supreme Court!)*.
+30. **Tenure and Retirement Age:** A High Court judge holds office until attaining the age of **62 years** (raised from 60 to 62 by the **15th Amendment Act, 1963**; proposal to raise to 65 is pending); resigns by writing to the **President** (NOT to Governor).
+31. Removal of High Court Judge: Removed by the **President** on the same grounds (**Proved Misbehaviour or Incapacity**) and through the **exact same parliamentary procedure (Special Majority under Art. 124(4))** as a Supreme Court judge.
+32. **Oath of High Court Judge (Article 219):** Administered by the **Governor of the State** (or person appointed by him); *remuneration is charged on State Consolidated Fund, but pension is charged on Consolidated Fund of India*.
+33. Transfer of High Court Judges (**Article 222**): The **President** may, after consultation with the Chief Justice of India, transfer a judge from one High Court to any other High Court; requires recommendation of CJI + 4 seniormost SC judges + CJs of both High Courts.
+34. **Writ Jurisdiction of High Court (Article 226):** Can issue writs for enforcement of **Fundamental Rights AND for any other legal purpose**; thus, HC writ jurisdiction is **broader in scope than SC's under Article 32**; however, Article 226 is a discretionary remedy, whereas Article 32 is itself a Fundamental Right.
+35. Territorial Reach of Article 226: Added by **15th Amendment, 1963** under Art. 226(2): High Court can issue writs to any government or authority outside its territorial jurisdiction if the **cause of action arises, wholly or in part, within its territorial limits**.
+36. **Supervisory Jurisdiction of High Court (Article 227):** High Court has superintendence over **all courts and tribunals throughout its territorial jurisdiction** (both administrative and judicial superintendence; *military courts and tribunals are excluded*); broader than appellate power.
+37. High Court as a Court of Record (**Article 215**): Power to punish for contempt of itself and subordinate courts.
+38. **Subordinate Courts (Part VI, Articles 233–237):** **Article 233**: District Judges are appointed, posted, and promoted by the **Governor of the State in consultation with the High Court**; qualification: advocate for ≥ 7 years or in judicial service; **Article 235**: Control over subordinate courts is vested in the **High Court**.
+39. Hierarchy of Subordinate Judiciary: On Civil side: District Judge Court → Sub-Judge Court → Munsiff Court; On Criminal side: Sessions Judge Court → Chief Judicial Magistrate (CJM) Court → Judicial Magistrate Court. When the highest district judicial officer hears civil cases, he is termed **District Judge**; when hearing criminal cases, he is termed **Sessions Judge** (can award **capital punishment/death sentence**, which requires **mandatory confirmation by High Court** under Section 366 CrPC / Section 407 BNSS before execution).
+40. **National Legal Services Authority (NALSA):** Constituted under the **Legal Services Authorities Act, 1987** to give effect to **Article 39A** (free legal aid); CJI is Patron-in-Chief; organizes **Lok Adalats** (statutory forum for amicable settlement; award is deemed a decree of a civil court and is **final and binding with no appeal**).
+41. **Gram Nyayalayas Act, 2008:** Established Gram Nyayalayas at intermediate panchayat level for speedy and inexpensive justice; presided over by **Nyayadhikari** (equal to Judicial Magistrate First Class); guided by principles of natural justice.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Confused pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
 | Integrated judiciary | Independent judiciary | One hierarchy apexed in the SC vs separation from executive/legislature | एकीकृत / स्वतंत्र |
 | Art. 124 | Art. 214 | Supreme Court established vs High Court for each State | अनु. 124 / 214 |
 | SC age 65 | HC age 62 | Retirement ages must not be swapped | 65 / 62 |
@@ -320,3 +328,4 @@ D. Sapru (Sir Tej Bahadur Sapru)
 **Ans: D. Sapru (Sir Tej Bahadur Sapru) The Sapru Committee Report of 1945 made recommendations for the appointment of Supreme Court and High Court judges.**
 
 </details>
+

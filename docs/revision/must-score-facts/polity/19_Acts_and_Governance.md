@@ -13,49 +13,47 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **2025:** "Accountability" is **not** a food-security dimension under NFSA. Consumers can bargain below the MRP. **Adi Karmayogi** (launched June) belongs to the **Ministry of Tribal (आदिवासी) Affairs**, not Mission Karmayogi.
-2. **2024:** NFSA covers **75%/50%** (rural/urban (नगरीय)), and was **not** enforced on 5 July 2010. ICT-based e-governance **reduces cost** and **increases citizen input** — it does **not** cut transparency or add red-tape.
-3. **2022:** PESA was passed in **1996**.
-4. **2021:** The **NDMA** (आपदा प्राधिकरण) is chaired by the **PM**. The ECO Mark denotes environment-safe goods. The Wages Code does **not** include Contract Labour.
-5. **2019:** MKSS is linked to **RTI**. NFSA's woman-head provision was also tested.
-6. **2019–24 (running themes):** the CPA, 2019; the RTI Amendment; the CAA's 2024 upholding; Mission Karmayogi (2020); the CBC (2021); and the lateral-entry debate (2018–24).
-7. **NDRF** as a **force** is not the same as the National Disaster **Response Fund**. Do not swap the two.
-8. **PESA 1996** (पेसा) (notified **24 December**) extends Part IX (भाग IX) to **Fifth Schedule** (5वीं अनुसूची) areas in **ten** States. It strengthens Gram Sabha control over land, minor forest produce, minerals, and intoxicants. It does **not** apply where there is no Fifth Schedule area.
-9. **POCSO 2012** (पॉक्सो) covers sexual offences against children **under 18**. Section **19** makes reporting mandatory. Investigation has a **two-month** push. Trials are in-camera. The nodal ministry is **Women and Child Development**.
-10. **RPA 1950** covers electoral rolls and seat allocation. **RPA 1951** covers conduct of elections, election petitions, and party registration under section **29A**.
-11. **Transparency** is not the same as **accountability**. Social audit under MGNREGA section **17** is Gram Sabha-led. Meghalaya (मेघालय) (**2017**) passed the first State social-audit Act. Social audit is **not** a CAG (भारत के नियंत्रक-महालेखापरीक्षक) audit (कैग लेखापरीक्षा).
-12. **Sevottam** (**2006**, DARPG) has three modules: Citizen Charter, Grievance Redress, and Capability Building. It uses the Charter; it is not merely another name for the Charter.
-13. **PRAGATI** (प्रगति) (**25 March 2015**) is a PMO ICT review platform. It is **not** a Digital India pillar. **CPGRAMS** (सीपीजीआरएएमएस) (DARPG) is not the same as the older Cabinet Secretariat **DPG** (लोक शिकायत निदेशालय) window (**1988**).
-14. **PESA** was passed in **1996**, and it applies only to **Fifth-Schedule** areas.
-15. **RPA 1950** covers electoral rolls; **RPA 1951** covers the conduct of elections.
-16. **Section 4** requires **suo motu / proactive disclosure** by public authorities.
-17. **Section 8** lists exemptions — sovereignty, security, Cabinet papers, commercial confidence, fiduciary relationships, **privacy (clause j)**, and ongoing investigations, among others.
-18. **Section 22** makes RTI **override** the Official Secrets Act only **to the extent of any inconsistency** — the OSA is **not repealed**.
-19. **Section 24** exempts listed intelligence and security organisations, except for allegations of **corruption or human-rights violations**.
-20. **Product liability** can attach to the manufacturer, seller, or service provider for a defect or deficiency.
-21. **National Consumer Day** is **24 December**; **World Consumer Rights Day** is **15 March** — do not swap the two.
-22. **Section 19** makes reporting **mandatory**; failure to report attracts imprisonment up to **6 months** and/or a fine.
-23. **OCI (Overseas Citizen of India)** is a **statutory status**, not dual citizenship — India does **not** ordinarily allow a person to hold two passports.
-24. **MGNREGA, 2005** guarantees **100 days** of wage employment; while MKSS is sometimes linked to it as an option, MKSS's **primary** key fact remains **RTI**.
-25. **Digital India, NeGP, e-Kranti, UMANG,** and **DigiLocker** all sit under **MeitY**.
-26. **Mission Karmayogi**, the **CCS Conduct Rules**, and **lateral entry** all sit under the **DoPT**.
-27. **Adi Karmayogi (2025)** sits under the **Ministry of Tribal Affairs** — not the DoPT.
-28. **PRAGATI, e-Samiksha,** and the **DPG** all sit under the **PMO / Cabinet Secretariat** — not MeitY, and not DARPG.
-29. **G2C** (government to citizen) includes UMANG, DigiLocker, passport services, DBT, and IRCTC.
-30. **G2B** (government to business) includes **GeM**, GSTN, MCA21, and e-Biz.
-31. **G2G** (government to government) includes e-Office, PFMS, CCTNS, and the e-Courts backend.
-32. **G2E** (government to employee) includes e-HRMS and iGOT Karmayogi.
-33. **e-Kranti (2015)**, meaning the electronic delivery of services, is **pillar 5 of Digital India** — it is not a rival mission to Digital India.
-34. **NeSDA** is DARPG's assessment tool that scores how well States and ministries actually deliver services online.
-35. **PRAGATI (25 March 2015)** is the PM's own monthly video-review platform, combining grievance redressal, programme review, and project monitoring in one chair.
+1. **Right to Information (RTI) Act, 2005:** Enacted to promote transparency, accountability, and contain corruption in public authorities; roots lie in the Mazdoor Kisan Shakti Sangathan (MKSS) grassroots movement led by **Aruna Roy in Rajasthan (1990s)**.
+2. Legislative History of RTI: Tamil Nadu was the **first State to pass an RTI Act in 1997** (followed by Goa in 1997); Parliament passed the Freedom of Information Act, 2002 (never enforced); the comprehensive **Right to Information Act, 2005** received presidential assent on **15 June 2005** and came into full force on **12 October 2005**.
+3. Constitutional Foundation of RTI: In ***State of U.P. v. Raj Narain (1975)*** and ***SP Gupta (1981)***, the Supreme Court held that the **Right to Information is an inalienable component of Freedom of Speech and Expression under Article 19(1)(a)** of the Constitution.
+4. Definition of 'Public Authority' (Section 2(h)): Includes any authority or body established or constituted: (a) by or under the Constitution; (b) by any law made by Parliament or State Legislature; (c) by notification issued by government; and includes **any non-government organization (NGO) substantially financed directly or indirectly by funds provided by the appropriate Government**.
+5. Time Limits under RTI (Section 7): (1) General request = within **30 days** of application; (2) If application is made to an Assistant Public Information Officer (APIO) = within **35 days**; (3) If information concerns the **LIFE OR LIBERTY OF A PERSON = MUST BE PROVIDED WITHIN 48 HOURS**; (4) Third-party information = within **40 days**.
+6. Fees and Deemed Refusal: Application fee is ₹10; information is **provided completely FREE OF COST to persons below the poverty line (BPL)**; if a public authority fails to give information within the specified time limit, it is deemed a refusal and information **must be provided FREE OF COST to all applicants** thereafter.
+7. Exemptions from Disclosure (Section 8(1)): 10 categories exempt from disclosure: sovereignty/integrity of India, security/scientific/economic interests of State, contempt of court, parliamentary privilege, commercial confidence/intellectual property, information received in confidence from foreign government, endanger life/safety of any person, impede investigation/prosecution, Cabinet papers (until decision taken), and unwarranted invasion of privacy.
+8. Public Interest Override (Section 8(2)): A public authority **may allow access to information** even if it falls under exemptions, if **public interest in disclosure outweighs the harm to protected interests**.
+9. RTI Overriding Effect (Section 22): The RTI Act has **overriding effect** over the **Official Secrets Act, 1923** and any other law inconsistent with it.
+10. Exempted Intelligence & Security Agencies (Section 24 & Second Schedule): Agencies like IB, RAW, Directorate of Revenue Intelligence (DRI), and CAPFs are exempt from the RTI Act; **Exception**: Information pertaining to **allegations of corruption and human rights violations IS NOT EXEMPT** (human rights violations require approval of Central/State Information Commission and must be provided within **45 days**).
+11. Appeals Structure under RTI: **First Appeal** lies to the First Appellate Authority (senior officer in the department) within **30 days**; **Second Appeal** lies to the **Central Information Commission (CIC) or State Information Commission (SIC)** within **90 days**; decision of the Commission is binding.
+12. **Disaster Management Act, 2005:** Enacted following the 2004 Indian Ocean Tsunami; provides an institutional mechanism for drawing up disaster management plans and holistic response; came into force in January 2006.
+13. **National Disaster Management Authority - NDMA (Section 3):** Apex body for disaster management in India; **Chairperson = PRIME MINISTER OF INDIA**; consists of other members not exceeding 9, nominated by the Chairperson (one designated Vice-Chairperson with Cabinet Minister rank).
+14. **State Disaster Management Authority - SDMA (Section 14):** Apex body at State level; **Chairperson = CHIEF MINISTER OF THE STATE**; consists of other members not exceeding 9 nominated by CM.
+15. **District Disaster Management Authority - DDMA (Section 25):** Apex body at district level; **Co-chaired by the District Magistrate / Collector / Deputy Commissioner AND the elected Chairperson of the Zila Parishad** (ex-officio Co-Chairperson).
+16. **National Disaster Response Force - NDRF (Section 44):** Specialist multi-skilled force constituted for disaster response; personnel deputed from Central Armed Police Forces (BSF, CRPF, CISF, ITBP, SSB, Assam Rifles); headed by a **Director General (DG)** appointed by Central Government.
+17. Funds under Disaster Management Act: (1) **National Disaster Response Fund (NDRF)**: Managed by Central Government under Section 46 for meeting emergency expenses; (2) **National Disaster Mitigation Fund (NDMF)**; parallel State Disaster Response Fund (SDRF) and District Disaster Response Fund (DDRF).
+18. **Right to Education (RTE) Act, 2009:** Enacted to give statutory effect to **Article 21A**; came into force on **1 April 2010**; guarantees free and compulsory elementary education (Class 1 to 8) to all children of **6 to 14 years**.
+19. Key RTE Provisions: **Section 12(1)(c)** mandates **at least 25% reservation of seats** in Class 1 (or pre-school) in private unaided schools for children belonging to **economically weaker sections and disadvantaged groups**; prohibits screening tests and capitation fees; pupil-teacher ratio (PTR) fixed at **30:1 for primary** and **35:1 for upper primary**.
+20. RTE Prohibitions: Completely bans physical punishment, mental harassment, unrecognized schools, private tuition by teachers, and deployment of teachers for non-educational work (except decennial census, disaster relief, and elections).
+21. **Whistleblowers Protection Act, 2014:** Enacted to establish a mechanism to receive complaints relating to disclosure of corruption or wilful misuse of power against any public servant, and to provide safeguards against victimization of whistleblowers; designated competent authority is the **Central Vigilance Commission (CVC)**.
+22. **Citizen’s Charter:** Originates from the **Citizen's Charter initiative in the UK (1991)** under Prime Minister John Major; represents a voluntary written declaration by public service providers outlining commitments regarding standards, quality, transparency, choice, accessibility, and grievance redressal.
+23. Citizen's Charter in India: First adopted at the Chief Ministers' Conference in **May 1997**; coordinated by the **Department of Administrative Reforms and Public Grievances (DARPG)**; **Citizen's Charters are NOT legally enforceable in courts of law** (voluntary administrative standards).
+24. Sevottam Model: A quality management framework developed by DARPG in 2006 to assess public service delivery; rests on 3 modules: (1) Citizen’s Charter; (2) Public Grievance Redress Mechanism; (3) Service Delivery Capability.
+25. **Centralised Public Grievance Redress and Monitoring System (CPGRAMS):** Online web-enabled platform developed by NIC and DARPG in 2007; facilitates 24x7 lodging and tracking of grievances against Central and State government departments.
+26. **E-Governance Initiatives:** National e-Governance Plan (NeGP) approved in 2006 with 31 Mission Mode Projects; **Digital India Programme** launched on **1 July 2015** with 3 vision areas: (1) Digital Infrastructure as core utility; (2) Governance and Services on Demand; (3) Digital Empowerment of citizens.
+27. **Digital Personal Data Protection (DPDP) Act, 2023:** Regulates the processing of digital personal data; establishes the **Data Protection Board of India** as an adjudicatory body; imposes penalties of up to **₹250 crore** for failure to prevent personal data breaches; grounds for processing include consent and 'legitimate uses'.
+28. Section 4 of RTI Act (Proactive Disclosure): Mandates that every public authority shall maintain all its records catalogued and indexed, and **suo motu publish 17 categories of information** within 120 days of enactment, minimizing the need for citizens to file formal RTI requests.
+29. Lokpal Inquiry and Prosecution Wings: Under the Lokpal Act 2013, Lokpal has its own **Inquiry Wing** headed by Director of Inquiry and **Prosecution Wing** headed by Director of Prosecution; can utilize any government agency including CBI.
+30. Timeline for Lokpal Inquiries: Preliminary inquiry must be completed within **90 days** (extendable by 90 days); investigation must be completed within **6 months**; trial before Special Court must be completed within **1 year** (extendable up to 2 years).
+31. Citizen's Charter Bill, 2011: The Right of Citizens for Time Bound Delivery of Goods and Services and Redressal of their Grievances Bill, 2011 lapsed upon dissolution of 15th Lok Sabha; however, over 20 States (including UP under UP Janhit Guarantee Act, 2011) have enacted their own **Public Service Delivery Guarantee Acts** providing statutory timelines and penalties for delay.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Confused pairs
+
+| Term A | Term B | Core Difference | Hindi Terminology |
+|--------|--------|-----------------|-------------------|
 | **RTI 2005** | **RTE 2009** | Information statute (MKSS) vs Education statute (86th / 21A) | आरटीआई 2005 / आरटीई 2009 |
 | **NFSA 2013** | **RTE 1 Apr 2010** | Food law; **not** 5 Jul 2010 vs School law commencement | खाद्य सुरक्षा 2013 / आरटीई लागू |
 | **PESA 1996** | **73rd 1993** | Extends Part IX to **5th Sch.** vs Constitutional PRI skeleton | पेसा 1996 / 73वां संशोधन |
@@ -317,3 +315,4 @@ D. Chief Judicial Magistrate
 **Ans: B. Judicial Magistrate First Class**
 
 </details>
+

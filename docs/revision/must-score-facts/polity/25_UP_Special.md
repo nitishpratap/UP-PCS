@@ -13,49 +13,48 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **UPPSC** HQ is **Prayagraj** (from **1937**). The Governor appoints; the **President** removes after a Supreme Court path on misbehaviour. Age limit is **62** / six years. Functions are extended by the **UP Legislature** under Article **321**.
-2. **Oath (Art. 159):** before the **Chief Justice of the Allahabad High Court** (or a person appointed by the President)
-3. **First woman Governor** of an Indian State. Died in office, Lucknow, **2 Mar 1949**
-4. **Not the first CM:** first CM = **Govind Ballabh Pant**. First woman CM = **Sucheta Kripalani (1963–67)**
-5. **Appointment / term:** President; **5 years**; holds office during pleasure; can be transferred; one person may be Governor of more than one State (153)
-6. **Council of Ministers (91st):** including the CM, **not more than 15%** of the LA. 15% of **403 ≈ 60**. Floor in any State is **12**. Collectively responsible to the **LA**
-7. **Secretariat:Lucknow** (with Raj Bhavan and Vidhan Bhavan). Do not raata a 2026 occupant’s name as if it were in the Constitution
-8. **Before Uttarakhand:425**. Seat freeze till the census after **2026** — so **403** is the number the paper uses
-9. **Article:170** (composition) · **172** (5 years) · **174** (summon (आहूत करना) / prorogue / dissolve)
-10. **Quorum (गणपूर्ति) (189):10 members or 1/10** of total membership (सदन की कुल सदस्य संख्या का), **whichever is greater**
-11. **Speaker:** elected from among MLAs. Resigns to the **Deputy Speaker** (179). Continues after dissolution (विघटन) until the new House first meets
-12. **Presidential college:** only the **403 elected MLAs** vote (not LC, not nominated). UP MLA vote-value is the **highest** among States (textbook **208**)
-13. **Term:6 years**. Can only be **abolished** under Art. **169**, not dissolved
-14. **Chairman:** elected **from among LC members** — not the Governor, not the CM. Resigns to the **Deputy Chairman** (183)
-15. **36** elected by **local bodies** (municipalities, district boards…)
-16. **8 graduates** of 3 years’ standing, resident in UP
-17. **8 teachers** in institutions not lower than secondary, 3 years’ standing
-18. **36** elected by **MLAs**, from persons who are **not** MLAs
-19. **12 nominated by the Governor** — literature, science, art, **co-operative movement**, social service
-20. **Reservation in the 80:17 Scheduled Caste (अनुसूचित जाति)** seats. **Zero Scheduled Tribe (अनुसूचित जनजाति)** Lok Sabha seats from UP
-21. **How the 31 RS seats are filled:** elected by the **403 MLAs**, proportional representation by single transferable vote, **6-year** term, **1/3** retire every two years. The Governor does **not** nominate anyone to the Rajya Sabha
-22. **Lucknow Bench:United Provinces High Courts (Amalgamation) Order, 1948**. The **Chief Court of Oudh** (Lucknow, set up **1925**) was merged. There is **no** third permanent bench (Meerut (मेरठ)/Noida demands are not law)
-23. **Not** a Chartered High Court of **1862** (Bombay, Calcutta, Madras)
-24. **The 18 divisions:** Agra · Aligarh (अलीगढ़) · **Ayodhya** (old Faizabad) · Azamgarh · Bareilly · Basti · Chitrakoot (चित्रकूट) · **Devipatan** (HQ **Gonda**) · Gorakhpur (गोरखपुर) · Jhansi (झांसी) · Kanpur (कानपुर) · Lucknow · Meerut · Mirzapur (मिर्ज़ापुर) · Moradabad · **Prayagraj** · Saharanpur · Varanasi (वाराणसी)
-25. **Devipatan (2025 geography fact):** Bahraich · Balrampur · Gonda · Shravasti
-26. **Extend functions (321):Uttar Pradesh State Legislature** — not the President, not the PM, not DoPT
-27. **Further office (319):** Chair may later be UPSC Chair or Chair of **another** SPSC — not a random Union/State post
-28. **One** Commission for both Panchayats and municipalities
-29. **Report:** to the **Governor**, who lays it in **both Houses** (UP is bicameral) with an **action-taken** note
-30. **First in India:Maharashtra, 1971** (not UP)
-31. **Appoint:Governor**, after consultation with the **Chief Justice of the Allahabad High Court** and the **Leader of Opposition**
-32. **Gram Sabha (243A):** all **persons on the electoral roll** of that Gram Panchayat — not “every resident”, not the Panches sitting (बैठक) as a board. Powers = **State law**
-33. **DPC (243ZD):** every district. At least **4/5** elected from PRI + ULB members. Consolidates rural **and** urban draft plans
-34. **PESA does not apply** — UP has **no Fifth Schedule** areas. **6th Schedule** (6वीं अनुसूची) does not apply (ADCs = Assam, Meghalaya (मेघालय), Tripura, Mizoram)
-35. **Mayor** = political head. **Nagar Ayukt / Municipal Commissioner (नगर आयुक्त)** = State-appointed **executive**
+1. **State Name and Capital History:** The territory was designated as **North-Western Provinces in 1836**; merged with Oudh in 1877 as North-Western Provinces and Oudh; renamed **United Provinces of Agra and Oudh in 1902**; shortened to **United Provinces in 1937**; officially renamed **Uttar Pradesh on 24 January 1950** (celebrated annually as **UP Diwas**); state capital was Agra (1836), shifted to Allahabad (1858), partially to Lucknow (1921), and declared full capital at **Lucknow in 1935**.
+2. **Vidhan Sabha (State Legislative Assembly):** Directly elected lower house; total strength is **403 seats** (404th nominated Anglo-Indian seat discontinued by 104th Amendment Act, 2020); **84 seats are reserved for Scheduled Castes (SC)** and **2 seats are reserved for Scheduled Tribes (ST)** (Sonbhadra: Duddhi and Obra constituencies); highest assembly strength in India.
+3. **Vidhan Parishad (State Legislative Council):** Permanent upper house of the bicameral state legislature; total strength is **100 seats** (highest in India); breakdown: 36 elected by Local Authorities, 36 elected by MLAs, 8 elected by Graduates, 8 elected by Teachers, and **10 nominated by the Governor** (special knowledge in literature, science, art, cooperative movement, social service); term is 6 years, 1/3rd retiring every 2 years.
+4. **Representation in Union Parliament:** Uttar Pradesh has the largest parliamentary contingent in India: **80 Lok Sabha Seats** (of which **17 seats are reserved for SC**, and **0 seats for ST**) and **31 Rajya Sabha Seats** (highest in the country, elected by UP MLAs via PR-STV).
+5. **First Political Leaders of UP:** First Governor of United Provinces / UP: **Sarojini Naidu** (15 August 1947 – 2 March 1949, first woman Governor of a State in India); First Chief Minister of UP: **Pandit Govind Ballabh Pant** (1950–1954); First Woman Chief Minister of UP (and India's first woman CM): **Sucheta Kripalani** (October 1963 – March 1967); First Deputy Chief Minister: Chaudhary Charan Singh.
+6. First Presiding Officers: First Speaker of UP Vidhan Sabha was **Purushottam Das Tandon**; First Chairman of UP Vidhan Parishad was **Sir Sita Ram** (pre-independence) and **Chandra Bhal** (post-independence).
+7. **High Court of Judicature at Allahabad:** Established under the Indian High Courts Act, 1861 at **Agra on 17 March 1866** (first Chief Justice: **Sir Walter Morgan**); shifted to **Allahabad (Prayagraj) in 1869**; Chief Court of Oudh was merged with Allahabad High Court in **1948, creating the permanent Lucknow Bench**; Allahabad High Court has the highest sanctioned judicial strength in India (**160 judges**).
+8. Principal Seat vs Bench Jurisdiction: Principal seat is at **Prayagraj (Allahabad)**; **Lucknow Bench** exercises territorial jurisdiction over 12 districts: Lucknow, Ayodhya (Faizabad), Barabanki, Rae Bareli, Amethi, Sultanpur, Pratapgarh, Gonda, Bahraich, Shravasti, Balrampur, and Hardoi.
+9. **President's Rule in UP (Article 356):** Uttar Pradesh has been placed under President's Rule **10 times** (the highest in India, tied with Manipur); first imposed on **25 February 1968** under Governor B. Gopala Reddy; last imposed in **May 2002** (short-lived prior to Mayawati-BJP coalition).
+10. **Council of Ministers Size in UP:** Under **Article 164(1A)** (91st Amendment, 2003), the total number of Ministers including the Chief Minister cannot exceed **15% of 403 seats = 60 Ministers**; minimum strength cannot be less than 12.
+11. **UP Panchayati Raj Structure:** Operates a **3-tier Panchayati Raj system** governed by the **UP Panchayat Raj Act, 1947** (for Gram Panchayats) and the **UP Kshettra Panchayats and Zila Panchayats Adhiniyam, 1961**; all 75 districts have **Zila Panchayats** (headed by elected Zila Panchayat Adhyaksha), **Kshettra Panchayats** (blocks headed by Block Pramukh), and **Gram Panchayats** (villages headed by directly elected Gram Pradhan).
+12. Women's Reservation in UP Panchayats: Under Section 11-A of UP Panchayat Raj Act, **women are provided 33.3% (1/3rd) reservation** of seats and Pradhan offices (constitutional floor); UP has moved statutory proposals for 50% reservation.
+13. Minimum Age in UP Local Polls: Minimum age to contest as Gram Pradhan, Kshettra Panchayat member, or Zila Panchayat member is **21 years**.
+14. **UP Urban Local Governance:** Governed by the **UP Municipalities Act, 1916** (for Nagar Palika Parishads and Nagar Panchayats) and the **UP Municipal Corporation Act, 1959** (for Nagar Nigams); currently UP has **17 Municipal Corporations (Nagar Nigams)** (Lucknow, Kanpur, Agra, Varanasi, Prayagraj, Meerut, Bareilly, Aligarh, Moradabad, Gorakhpur, Firozabad, Jhansi, Saharanpur, Ghaziabad, Mathura-Vrindavan, Ayodhya, and Shahjahanpur - 17th Nagar Nigam created 2018).
+15. Nagar Nigam Executive Structure: Politically headed by a **directly elected Mayor (Mahapaur)**; administrative executive power is vested in the **Municipal Commissioner (Nagar Ayukt)**, who is a senior IAS officer appointed by the State Government.
+16. **UP State Election Commission (SEC):** Constituted in **April 1994** under Article 243K and 243ZA to conduct elections to PRIs and ULBs; State Election Commissioner is appointed by the **Governor** and enjoys removal security equal to a **High Court Judge**.
+17. **UP State Finance Commission (SFC):** Constituted by the Governor under Article 243-I and 243-Y every **5 years**; the first UP SFC was constituted in 1994 chaired by **Bhalchandra Shukla**.
+18. **UP Public Service Commission (UPPSC):** Constituted on **1 April 1937** under the Government of India Act, 1935; governed under **Articles 315–323**; headquarters located at **Prayagraj (Allahabad)**; Chairman and members are appointed by the **Governor**, but can be **removed ONLY by the PRESIDENT OF INDIA** under Article 317.
+19. **UP Lokayukta:** Established under the **UP Lokayukta and Up-Lokayuktas Act, 1975**; the first Lokayukta of UP was **Justice Vishwambhar Dayal (1977)**; in 2012, the tenure of UP Lokayukta was extended from 6 years to **8 years**.
+20. **UP State Human Rights Commission (UPSHRC):** Constituted in **October 2002** under the Protection of Human Rights Act, 1993; headquarters at **Lucknow**; headed by a former CJ or Judge of High Court appointed by Governor; **removable ONLY by the President**.
+21. **UP State Information Commission (UPSIC):** Constituted in **September 2005** under the Right to Information Act, 2005; headquarters at **Lucknow**; headed by State Chief Information Commissioner and up to 10 State Information Commissioners.
+22. **UP State Commission for Women:** Constituted in **2002** under the UP State Commission for Women Act, 2004 (reconstituted 2013); protects women's legal rights and reviews welfare policies.
+23. **UP Janhit Guarantee Act, 2011 (Right to Service Act):** Enacted to guarantee delivery of notified public services within stipulated time limits, with provision for daily fines on defaulting officers.
+24. **Administrative Divisions in UP:** Divided into **18 Administrative Divisions** (headed by Divisional Commissioners), **75 Districts** (headed by District Magistrates), and over **350 Tehsils** (headed by Sub-Divisional Magistrates - SDMs).
+25. **17 SC Reserved Lok Sabha Constituencies in UP:** Agra, Aligarh, Barabanki, Bulandshahr, Chandauli (earlier)/Etawah, Hardoi, Hathras, Jalaun, Kaushambi, Machhlishahr, Misrikh, Mohanlalganj, Nagina, Robertsganj, Shahjahanpur, Bansgaon, and Lalganj; there are **ZERO ST reserved Lok Sabha seats** in UP.
+26. **Police Commissionerate System in UP:** Introduced in January 2020 to vest magisterial powers (under CrPC/BNSS) in senior IPS officers (Police Commissioner); currently operational in **7 major urban districts: Lucknow, Gautam Buddha Nagar (Noida), Kanpur Nagar, Varanasi, Agra, Prayagraj, and Ghaziabad**.
+27. **State Vigilance Commission in UP:** Established in **1964** (modeled on the Central Santhanam Commission) under administrative orders to investigate corruption complaints against state government servants.
+28. **UP State Legal Services Authority (UPSLSA):** Established under the Legal Services Authorities Act, 1987 with headquarters at **Lucknow**; patron-in-chief is the Chief Justice of Allahabad High Court; organizes regular National and State **Lok Adalats**.
+29. **UP Administrative Tribunal:** Set up in **1976** under the UP Public Services (Tribunals) Act, 1976 for adjudication of service disputes of state government employees; headquarters at **Lucknow**.
+30. First Woman Governor and Chief Minister: UP holds the unique distinction of having India's **First Woman Governor (Sarojini Naidu, 1947)** and **First Woman Chief Minister (Sucheta Kripalani, 1963)**; furthermore, **Mayawati** served as Chief Minister of UP 4 times.
+31. Longest-Serving Chief Minister of UP: As of 2024–2026, **Yogi Adityanath** holds the record for the **longest continuous serving Chief Minister of Uttar Pradesh** (surpassing Dr. Sampurnanand's earlier record of 5 years and 345 days).
+32. Chief Ministers of UP who became Prime Ministers of India: Two former Chief Ministers of Uttar Pradesh rose to become Prime Minister of India: **Chaudhary Charan Singh** and **Vishwanath Pratap (V.P.) Singh**.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Current Affairs anchors
+
+| Year | What happened | What you mark |
+|------|-----------------|---------------|
 | **2025** | Devipatan division districts (geography paper) | **Gonda** division: Bahraich, Balrampur, Gonda, Shravasti |
 | **2023** | UP in Parliament | RS **31** and LS **80** — **both** true |
 | **2022** | LA strengths “NOT matched” | **Manipur 62** is wrong (**60**). UP **403** is right |
@@ -67,6 +66,34 @@ hide:
 | **2021** | Who extends UPPSC functions? | **UP State Legislature** (321) |
 | **2013** | Union Lokpal (लोकपाल) Act | UP already had Lokayukta **1975** |
 | **1866** | Allahabad HC | Letters Patent **17 Mar**; first seat **Agra** (आगरा) |
+
+---
+
+### Confused pairs
+
+| Term A | Term B | Core difference | Hindi Terminology |
+| -------- | -------- | ----------------- | -------- / -------- |
+| **UP capital** | **UP High Court** | **Lucknow** | Principal seat **Prayagraj**; Lucknow = **Bench** |
+| **Lucknow Bench** | **Second High Court** | Permanent bench of Allahabad HC (1948) | Uttarakhand’s HC is **Nainital** (2000) — a different court |
+| **UP LA 403** | **Art. 170 cap** | Actual elected strength | Constitutional max **500** / min **60** |
+| **UP LC 100** | **Art. 171 cap** | Actual strength | Max **1/3 of LA** (= 134) and min **40** |
+| **LS 80** | **RS 31** | Directly elected from UP | Indirect; largest RS contingent |
+| **Pre-2000 UP** | **Post-9 Nov 2000** | LA 425 · LS 85 · RS 34 | LA **403** · LS **80** · RS **31** |
+| **Hindi (1951)** | **Urdu (1989)** | Official language | **Second** official language |
+| **Allahabad HC 1866** | **Chartered HCs 1862** | NWP Letters Patent; first seat **Agra** | Bombay, Calcutta, Madras |
+| **First Governor** | **First CM** | **Sarojini Naidu** | **Govind Ballabh Pant** |
+| **Uttaranchal** | **Uttarakhand** | Name from **9 Nov 2000** | Rename **1 Jan 2007** |
+| **UPPSC** | **UPSC** | SPSC · HQ **Prayagraj** · retire **62** | Union · Delhi · retire **65** |
+| **UP SEC** | **ECI** | Panchayat + ULB polls (243K / 243ZA) | Parliament + State **legislature** + President/VP |
+| **UP SFC (243I/Y)** | **Union FC (280)** | Governor; PRI + municipal share | President; Union–State CFI share |
+| **Lokayukta** | **Lokpal** | UP Act **1975** + Up-Lokayukta | Union Act **2013** |
+| **Kshetra Panchayat** | **Panchayat Samiti** | UP’s intermediate tier | Generic / other-State name |
+| **Nagar Nigam** | **Nagar Palika Parishad** | Municipal Corporation (1959 Act) | Municipal Council (1916 Act) |
+| **Mayor** | **Nagar Ayukt** | Political head of a Nigam | State-appointed **executive** |
+| **Cantonment Board** | **Nagar Nigam** | Defence / Cantonments Act | 74th municipality |
+| **Noida / GNIDA / YEIDA** | **Nagar Nigam** | Industrial development **authority** (243Q exception) | Elected 74th municipality |
+| **Art. 371 States** | **Uttar Pradesh** | Special provisions in 371–371J | **None** |
+| **CoM cap (91st)** | **Art. 164 pleasure** | ≤ **15%** of LA (UP ≈ **60** incl. CM); floor **12** | Governor dismisses a ministry that has lost the floor |
 
 
 ---
@@ -386,3 +413,4 @@ D. 2 and 3
 **Logic:** Cantonment Boards are under Defence / Cantonments Act.
 
 </details>
+

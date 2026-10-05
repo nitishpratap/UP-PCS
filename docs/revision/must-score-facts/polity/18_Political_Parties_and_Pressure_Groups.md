@@ -13,49 +13,46 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Votes + Seats Route:** Polling at least **6% of total valid votes** in **4 or more States** in a Lok Sabha or State Assembly election, **AND** winning at least **4 seats in the Lok Sabha** from any State or States.
-2. **Lok Sabha Seats Route:** Winning at least **2% of total seats in the Lok Sabha** (i.e., $543 \times 2\% = \mathbf{11\text{ seats}}$), and these elected members must represent **at least 3 different States**.
-3. **Multi-State Recognition Route:** Being recognized as a **State Party in at least 4 States**.
-4. **6% Votes + 2 MLAs:** Polling at least **6% of valid votes** in the State Assembly election **AND** winning at least **2 Assembly seats (MLAs)**.
-5. **6% Votes + 1 MP:** Polling at least **6% of valid votes** in the State during a Lok Sabha election **AND** winning at least **1 Lok Sabha seat (MP)** from that State.
-6. **3% Seats or 3 MLAs:** Winning at least **3% of the total Assembly seats** or **3 seats in the Legislative Assembly**, whichever is higher.
-7. **1 MP per 25 LS Seats:** Winning at least **1 Lok Sabha seat for every 25 seats** allotted to that State (or any fraction thereof).
-8. **8% Vote-Share Alone (2011 Rule):** Polling at least **8% of the total valid votes** in the State in an Assembly or Lok Sabha election, **even if it wins ZERO seats**.
-9. **2022** — TDP 1982 → BSP 1984 → SP 1992 → TMC 1998; union–party match.
-10. **2023** — CPI (सीपीआई) **loses** national status; AAP **gains**.
-11. **2024** — 6 national parties; BJP 240 → NDA coalition; electoral bonds **struck** (*ADR* Feb 2024 — anonymous party funding gone).
-12. **2019** — NPP first NE national party.
-13. **INTUC** (इंटक) (**1947**) is linked to the **Congress** (कांग्रेस). **BMS** (बीएमएस) (**1955**) is linked to the **BJP/RSS**. **CITU** (सीटू) (**1970**) is linked to the **CPI(M)**. **UTUC** (यूटीयूसी) (**1949**) is linked to the **RSP**.
-14. **Multi-party** — not two-party (UK/US) and not one-party (China). Duverger’s FPTP→two-party **fails** here because of **region + caste + language**.
-15. **Dominant-party phases** — Congress **1952–67** (Kothari) · BJP **2014–24** majority. Phase ≠ system.
-16. **Weak ideology** (most) — catch-all. Exceptions: **Left**, **BJP–RSS** stream.
-17. **Personality / dynasty** — SP, DMK, NC, RJD, NCP, Congress after Nehru (नेहरू) — favourite criticism.
-18. **Traditional cleavages** — caste, religion, language, region **over** class (except Left belts).
-19. **Regionalisation** after **1967** — State parties as **kingmakers** at the Centre (TDP, JD(U), BJD, DMK, TMC).
-20. **Factionalism** — split → ECI **Para 15** (name + symbol).
-21. **Poor inner democracy** — no binding statute. ECI guidelines on office-bearers / elections inside parties — **soft**.
-22. **Extra-constitutional origin** — parties older than the Republic (INC **1885**); Constitution caught up via **10th Schedule (1985)**.
-23. **Coalition arithmetic** — Centre **1989–2014** and again **2024**; States since **1967**.
-24. **Register** — **s.29A** RPA 1951 → ECI. Result: **RUPP** — can contest, **no** reserved symbol.
-25. **Recognise** — **Election Symbols (Reservation and Allotment) Order, 1968**. Result: **National** or **State** party.
-26. **Symbol** — same Order. **Reserved** (recognised) vs **free** (RUPP + independents).
-27. **Split** — **Para 15** of the Order. ECI allots **name + symbol** (*Sadiq Ali*). Legislature majority is **a** test, not the only test.
-28. **6%** valid votes in LS **or** Assembly elections in **four** States **and4** LS seats.
-29. **2%** of LS seats (**11** of 543) from at least **three** States.
-30. **6%** votes in that State’s Assembly **or** LS poll **and2** MLAs **or1** MP.
-31. **3%** of Assembly seats **or 3 seats**, whichever is more.
-32. **1** LS seat per **25** LS seats from that State (minimum 1).
-33. **8%** of total valid votes in the State (**even with zero seats** — 2011 add-on).
-34. **Reserved:** national party = **same symbol in every State**. State party = reserved **in that State**; elsewhere it is a free/other symbol.
-35. **Free:** independents + RUPPs pick from the State free list.
+1. India has a **multi-party system** characterized by national, state (regional), and unrecognized registered political parties; the Constitution originally contained no reference to political parties, mentioning them only upon the insertion of the **Tenth Schedule (Anti-Defection Law) by the 52nd Amendment, 1985**.
+2. **Registration of Political Parties:** Governed by **Section 29A of the Representation of the People Act, 1951**; parties register with the **Election Commission of India (ECI)**; must bear allegiance to the Constitution, principles of socialism, secularism, and democracy, and uphold sovereignty, unity, and integrity of India.
+3. Allotment of Symbols: Regulated by the **Election Symbols (Reservation and Allotment) Order, 1968** issued by the ECI; symbols are divided into **Reserved Symbols** (exclusive to recognized National and State parties) and **Free Symbols** (available to independent candidates and unrecognized parties).
+4. Disputes regarding Party Symbols/Splits: Under **Paragraph 15 of the Election Symbols Order, 1968**, the **Election Commission of India is the SOLE AUTHORITY to decide disputes among rival sections or splinter groups of a recognized political party**; confirmed in ***Sadiq Ali v. Election Commission of India (1972)*** (ECI applies majority test in legislative and organizational wings).
+5. **Criteria for Recognition as a NATIONAL PARTY (any ONE of the following 3 conditions):**
+6. Condition 1 (Votes + Seats): Secures **at least 6% of valid votes polled in ANY 4 OR MORE STATES** at a general election to Lok Sabha or State Assembly, **AND wins at least 4 SEATS in the Lok Sabha** from any State or States.
+7. Condition 2 (Lok Sabha Seats): Wins **at least 2% of total seats in the Lok Sabha** (11 seats in a 543-member House) at a general election, and these members are elected from **not less than 3 DIFFERENT STATES**.
+8. Condition 3 (State Party Status): Recognized as a **State Party in AT LEAST 4 STATES**.
+9. **Current National Parties in India (as of 2024–2026):** There are **6 recognized National Parties**: (1) **Bharatiya Janata Party (BJP)** [Symbol: Lotus]; (2) **Indian National Congress (INC)** [Symbol: Hand]; (3) **Bahujan Samaj Party (BSP)** [Symbol: Elephant]; (4) **Communist Party of India (Marxist) - CPI(M)** [Symbol: Hammer, Sickle and Star]; (5) **Aam Aadmi Party (AAP)** [Symbol: Broom - recognized April 2023]; (6) **National People's Party (NPP)** [Symbol: Book - first party from Northeast to get National status in 2019].
+10. Deregognized National Parties: In April 2023, ECI withdrew national party status from three parties: **All India Trinamool Congress (TMC)**, **Nationalist Congress Party (NCP)**, and **Communist Party of India (CPI)** due to failure to meet performance benchmarks.
+11. **Criteria for Recognition as a STATE PARTY (any ONE of the following 5 conditions):**
+12. State Condition 1: Secures **at least 6% of valid votes polled in the State** at a general election to the Legislative Assembly, **AND wins at least 2 SEATS in that Assembly**.
+13. State Condition 2: Secures **at least 6% of valid votes polled in the State** at a general election to the Lok Sabha from that State, **AND wins at least 1 SEAT in the Lok Sabha** from that State.
+14. State Condition 3: Wins **at least 3% of the total number of seats in the Legislative Assembly**, OR **at least 3 seats in the Assembly**, whichever is more.
+15. State Condition 4: Wins **at least 1 seat in the Lok Sabha for every 25 seats** (or any fraction thereof) allotted to that State in Lok Sabha.
+16. State Condition 5 (Added in 2011): Secures **at least 8% of the total valid votes polled in the State** at a general election to Lok Sabha or Legislative Assembly (even if it **wins ZERO seats**!).
+17. Privileges of Recognized Parties: Allotment of exclusive reserved symbol; free broadcast/telecast time on Doordarshan and All India Radio during general elections; supply of free copies of electoral rolls; eligibility to nominate **up to 40 Star Campaigners** (unrecognized registered parties can nominate up to 20 star campaigners); travelling expenses of star campaigners are **not added to candidate's expenditure**.
+18. Review of Recognition Status: Under the 2016 amendment to the Symbols Order, the ECI reviews the recognized status of political parties **every 10 years (two consecutive general elections)** rather than every 5 years.
+19. **Pressure Groups in India:** Non-governmental interest organizations that seek to influence government public policy, legislation, and administration without attempting to capture political power or contest elections directly; described as the **'Invisible Empire' (S.E. Finer)** or 'Third Chamber of Parliament'.
+20. Techniques of Pressure Groups: (1) Lobbying government departments and legislators; (2) Public campaigning and demonstrations; (3) Petitions and public hearings; (4) Bandhs, strikes, and dharnas; (5) Strategic public interest litigation (PIL); (6) Providing expert testimony to Parliamentary committees.
+21. Classification of Pressure Groups in India: (1) **Business Groups**: FICCI (Federation of Indian Chambers of Commerce and Industry - 1927, founded on advice of Mahatma Gandhi), ASSOCHAM (1920), CII (Confederation of Indian Industry); (2) **Trade Unions**: AITUC (1920, first president Lala Lajpat Rai - linked with CPI), INTUC (1947 - Congress), BMS (Bharatiya Mazdoor Sangh, 1955 - RSS/BJP, largest trade union in India), CITU (1970 - CPM), HMS (1948); (3) **Agrarian / Peasant Groups**: All India Kisan Sabha (AIKS - 1936, Lucknow, Swami Sahajanand Saraswati), Bharatiya Kisan Union (BKU - Mahendra Singh Tikait), Shetkari Sanghatana (Sharad Joshi); (4) **Student Organizations**: ABVP (1949), NSUI (1971), SFI (1970), AISF (1936); (5) **Professional Bodies**: Indian Medical Association (IMA), Bar Council of India (BCI); (6) **Caste & Community Groups**: Harijan Sevak Sangh, Nadar Mahajana Sangam, Maratha Kranti Morcha; (7) **Tribal Groups**: All Bodo Students Union (ABSU), Mizo National Front (originally famine relief group).
+22. Differences between Pressure Groups and Political Parties: Political parties seek to capture government power and field candidates, whereas pressure groups never contest elections directly; political parties have broad multidimensional ideologies, whereas pressure groups focus specifically on advancing particular sectional interests.
+23. Contribution and Funding Regulations: Under Section 29C of RPA 1951, political parties must submit an annual **Contribution Report** to the ECI declaring all donations received above **₹20,000** from individuals and companies; failure to submit disentitles party from tax exemption under Section 13A of the Income Tax Act, 1961.
+24. Ban on Foreign Contributions: The **Foreign Contribution (Regulation) Act - FCRA, 2010** strictly prohibits political parties and candidates for election from accepting foreign contributions (subject to 2016/2018 retrospective amendments permitting funding from foreign entities having majority Indian shareholding).
+25. **Difference between Recognized and Unrecognized Parties:** A recognized party (National or State) gets an exclusive reserved symbol across India or the State; an unrecognized registered party must choose from the list of **'Free Symbols'** notified by the ECI for each election.
+26. **Section 29B and 29C of RPA 1951:** Section 29B permits political parties to accept voluntary contributions from any individual or company (excluding government companies); Section 29C mandates reporting of all donations **exceeding ₹20,000** to the ECI before the due date for filing income tax returns.
+27. Tax Exemption to Political Parties (**Section 13A of Income Tax Act, 1961**): 100% exemption from income tax on income from house property, other sources, capital gains, and voluntary contributions, provided: (1) party is registered under Section 29A of RPA; (2) maintains audited accounts; (3) **no donation exceeding ₹2,000 is received in cash**.
+28. **Almond and Powell Typology of Pressure Groups:** Classified into 4 categories: (1) **Institutional Pressure Groups** (formally organized within government structure: IAS Association, Armed Forces officers); (2) **Associational Pressure Groups** (formally organized for specific interests: FICCI, CII, IMA); (3) **Anomic Pressure Groups** (spontaneous, issue-based, unorganized: riots, street demonstrations); (4) **Non-Associational Pressure Groups** (informal, based on kinship, caste, religion, language).
+29. Rajni Kothari on Indian Party System: Described the post-independence dominant single-party rule of Congress (1947–1967) as the **'Congress System'** — a party of consensus with other parties acting as parties of pressure.
+30. Coalition Eras in India: The first coalition government at the Centre was formed in **1977 by the Janata Party** under Morarji Desai; stable multi-party coalition era spanned **National Democratic Alliance (NDA - 1999–2004)** and **United Progressive Alliance (UPA - 2004–2014)**.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Confused pairs
+
+| Term A | Term B | Core Difference | Hindi Terminology |
+|--------|--------|-----------------|-------------------|
 | **Registration (29A)** | **Recognition** | Any association → RUPP vs National / State party (Symbols Order) | पंजीकरण (29A) / मान्यता |
 | **National party** | **State / regional party** | All-India reserved symbol + 4-State tests vs Reserved symbol **in that State** only | राष्ट्रीय दल / राज्य (क्षेत्रीय) दल |
 | **Reserved symbol** | **Free symbol** | Recognised parties vs Unrecognised + independents | आरक्षित प्रतीक / मुक्त प्रतीक |
@@ -339,3 +336,4 @@ D. A.I.A.D.M.K.
 **Ans: C** — TMC was recognised as a National Party in 2016; that recognition was withdrawn in 2023.**
 
 </details>
+

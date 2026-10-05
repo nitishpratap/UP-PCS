@@ -13,49 +13,46 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Article:76** (office) · **88** (Houses) · **105** privileges while performing
-2. **Appointment:President**. Qualification: same as a **Supreme Court judge** (Art. **124**): citizen + 5y HC judge / 10y HC advocate / distinguished jurist
-3. **Tenure:none fixed** in the text. **Removal:pleasure of the President**. **Not** the SC-judge impeachment path
-4. **Resignation:** to the **President**. **Oath:not** a Third Schedule form
-5. **Powers:** advise GoI on legal matters the President refers · appear for the Union in SC/HC · **right of audience in all Indian courts** (76(3)) · other duties the President assigns / law confers · **Contempt of Courts Act s.15** — AG’s (or SG’s) consent is used for some criminal-contempt motions; that does **not** make him a judge
-6. **Parliament:** Art. **88** — take part in **both** Houses and their committees; **no vote**. **Not** a minister / Cabinet member by this office
-7. **Practice:not** a government servant. Private briefs **OK** except **against the Government of India** / in a matter he has advised on
-8. **Pay:** fixed by the **President**. **Not** 2nd Schedule / not CFI-charged as a judge/CAG
-9. **First:M.C. Setalvad**. Assisted by **Solicitor General** → Additional SGs → ASGs — those rungs are **not** Art. 76
-10. **Article:none.** Art. 76 names the **Attorney General** only
-11. **Appointment:** Union Government / President on government advice (executive). Law Officers (Conditions of Service) rules — don’t freeze a clause number
-12. **Rank:second** law officer. Below AG, above Additional Solicitors General
-13. **Qualification:** not written in the Constitution (there is no 76-clone). In practice a senior advocate; **not** “must be SC-judge qualified” as a *text* fact
-14. **Tenure / removal:** contract / pleasure of the government. **No** impeachment. **No Article 148(4) bar**
-15. **Oath:not** Third Schedule. **Parliament:no Art. 88.** Cannot speak in the Houses *by virtue of this office*
-16. **Article:165** (office) · **177** (State House(s))
-17. **Appointment:Governor**. Qualification: same as a **High Court judge** (Art. **217**): citizen + **10y** judicial office **or10y** HC advocate. **No “distinguished jurist”** limb (that limb is SC-only)
-18. **Tenure:none fixed**. **Removal:pleasure of the Governor**. Not HC-judge impeachment
-19. **Resignation:** to the **Governor**. **Oath:not** Third Schedule
-20. **Powers:** advise the State government · appear in courts **in the State** · duties the Governor assigns
-21. **Legislature:** Art. **177** — speak in the State Assembly / Council and committees; **no vote**
-22. **Practice:** private briefs OK except **against the State**. Pay: Governor determines
-23. **Article:148** office · **149** duties as Parliament by law · **150** form of accounts · **151** reports
-24. **Appointment:President** (warrant under his hand and seal (मुद्रा), **148(1)**). Qualification **not** written as “SC-judge qualify” (unlike AG). Conditions = **law** (DPC Act 1971)
-25. **Tenure:6 years or 65**, whichever is earlier
-26. **Removal:like a Supreme Court judge** (address of both Houses, special majority, proved misbehaviour/incapacity) — **not** pleasure
-27. **Resignation:** to the **President**. **Oath:Third Schedule**, before the **President** (same form-family as SC judges)
-28. **Further office:** Art. **148(4)** — **not eligible** for further **Union or State** office. No minister may instruct him; he is **not** a PAC member
-29. **Pay:Second Schedule**; **charged** on CFI; not varied to his disadvantage after appointment
-30. **Powers:** audit Union **and** State accounts (CFI, Contingency Fund (आकस्मिकता निधि), Public Account (लोक लेखा), financed bodies as the 1971 Act says). **Three audits**: financial · compliance · performance
-31. **Reports:** Union → **President** → Parliament. State → **Governor** → State legislature. Examined by **PAC** (civil). **COPU** = PSU slice. **Estimates Committee has no CAG**
-32. **Law:CAG’s (Duties, Powers and Conditions of Service) Act, 1971**
-33. **First (independent India):V. Narahari Rao**. Accounting split from audit **1976** — Indian CAG is auditor only (2019 PYQ)
-34. **Field:Accountant General** in a State = CAG’s officer. **≠ Advocate General**
-35. **Article:315–323**. Chair is one member of the Commission the President appoints (**316**)
+1. **Attorney General for India (Article 76, Part V):** The first and highest law officer of the Government of India; appointed by the **President**; must possess qualifications required to be appointed a **Judge of the Supreme Court** (citizen of India; 5 yrs HC judge, 10 yrs HC advocate, or distinguished jurist in President's opinion).
+2. Tenure and Removal of AG: The Constitution **does NOT fix the tenure or salary** of the Attorney General; holds office during the **pleasure of the President**; receives remuneration determined by the President (not charged on Consolidated Fund); by long-standing convention, tenders resignation when the Council of Ministers resigns.
+3. Rights and Privileges of AG (**Article 88**): Has the **right of audience in all courts throughout India**; has the **right to speak and participate in proceedings of both Houses of Parliament (Lok Sabha & Rajya Sabha)** and any Parliamentary Committee of which he may be named a member, but **HAS NO RIGHT TO VOTE**; enjoys all parliamentary privileges and immunities under **Article 105**.
+4. Limitations on AG: Does not belong to the Central Cabinet; is not a full-time government servant; **is NOT debarred from private legal practice**, but cannot advise or hold brief against the Government of India, nor defend accused persons in criminal prosecutions without GOI permission; the first Attorney General of India was **M.C. Setalvad (1950–1963)** (longest-serving AG).
+5. **Solicitor General and Additional Solicitors General:** Law officers created to assist the Attorney General in performing official duties; **THE SOLICITOR GENERAL IS NOT A CONSTITUTIONAL OFFICE** (not mentioned in the Constitution; statutory/executive creation); does not enjoy Article 88 privileges in Parliament.
+6. **Advocate General for the State (Article 165, Part VI):** The highest law officer in the State; appointed by the **Governor**; must possess qualifications required to be appointed a **Judge of a High Court** (citizen; held judicial office for 10 years or advocate of HC for 10 years; *distinguished jurist criterion does NOT apply for HC/Advocate General*).
+7. Tenure and Rights of Advocate General (**Article 177**): Holds office during the **pleasure of the Governor**; remuneration fixed by Governor; has the right to speak and take part in proceedings of **both Houses of State Legislature** (Assembly and Council) and its committees, but **HAS NO RIGHT TO VOTE**; enjoys all state legislative privileges under **Article 194**.
+8. **Cabinet Secretary of India:** The administrative head of the Cabinet Secretariat and the **senior-most civil servant of the Republic of India**; ex-officio Chairman of the **Civil Services Board**; acts as the principal advisor to the Prime Minister on administrative matters and coordinates inter-ministerial policy.
+9. Appointment and Tenure of Cabinet Secretary: Drawn from the senior-most ranks of the Indian Administrative Service (IAS); tenure is normally **2 years**, extendable up to 4 or 5 years under Fundamental Rule 56(d); ranks **Rank 11 in the Warrant of Precedence** (along with the Attorney General).
+10. **Principal Secretary to the Prime Minister:** Administrative head of the Prime Minister's Office (PMO); handles high-priority policy coordination, national security coordination, and executive oversight.
+11. **Warrant of Precedence (Order of Precedence, 1979 Notification):** Official state protocol order maintained by the Ministry of Home Affairs determining ceremonial precedence at state occasions and public functions; has no legal application to day-to-day administrative powers.
+12. Precedence Hierarchy (Ranks 1 to 5): **Rank 1**: President of India → **Rank 2**: Vice-President of India → **Rank 3**: Prime Minister of India → **Rank 4**: **Governors of States** within their respective States → **Rank 5**: Former Presidents (and Rank 5A: Deputy Prime Minister, if any).
+13. Precedence Hierarchy (Ranks 6 to 8): **Rank 6**: **Chief Justice of India (CJI) and Speaker of the Lok Sabha** (*Both have EXACT EQUAL protocol rank!*) → **Rank 7**: Union Cabinet Ministers, Chief Ministers within their States, Deputy Chairman of NITI Aayog (former Planning Commission), Former Prime Ministers, Leaders of Opposition in Rajya Sabha and Lok Sabha → **Rank 7A**: **Holders of Bharat Ratna** → **Rank 8**: Ambassadors Extraordinary & Plenipotentiary, Chief Ministers outside their respective States, Governors outside their respective States.
+14. Precedence Hierarchy (Ranks 9 to 11): **Rank 9**: **Judges of the Supreme Court of India** → **Rank 9A**: **Chief Election Commissioner (CEC), Comptroller and Auditor General (CAG)**, and Chairperson of UPSC (*All three hold equal Rank 9A*) → **Rank 10**: Deputy Chairman of Rajya Sabha, Deputy Speaker of Lok Sabha, Deputy Chief Ministers, Ministers of State of the Union → **Rank 11**: **Attorney General for India, Cabinet Secretary**, Lieutenant Governors within their UTs.
+15. Precedence Comparison Traps: (1) Lok Sabha Speaker (Rank 6) ranks ABOVE Union Cabinet Ministers (Rank 7); (2) Bharat Ratna awardees (Rank 7A) rank ABOVE Supreme Court Judges (Rank 9); (3) Supreme Court Judges (Rank 9) rank ABOVE the CEC and CAG (Rank 9A); (4) CEC and CAG (Rank 9A) rank ABOVE the Attorney General and Cabinet Secretary (Rank 11).
+16. **Attorney General vs Solicitor General vs Advocate General (Master Comparison):** AG (Art. 76, Central constitutional post, SC judge qualification, Art. 88 right in Parliament); Advocate General (Art. 165, State constitutional post, HC judge qualification, Art. 177 right in State Legislature); Solicitor General (Non-constitutional, statutory/executive post, assists AG, no right in Parliament).
+17. **Civil Services Board (CSB):** Mandated by the Supreme Court in *Prakash Singh (2006)* and notified in 2014; headed by the **Cabinet Secretary at the Centre** and by the **Chief Secretary in States**; recommends postings and transfers of senior civil servants, ensuring minimum fixed tenures to prevent arbitrary political transfers.
+18. **Cabinet Secretariat Structure:** Functions directly under the **Prime Minister of India**; administrative head is the **Cabinet Secretary**; provides secretarial assistance to the Cabinet and Cabinet Committees; administers the **Government of India (Transaction of Business) Rules, 1961** and **Government of India (Allocation of Business) Rules, 1961**.
+19. **Comptroller and Auditor General under CAG Act, 1971:** Under Section 10, CAG compiles accounts of States; under Section 13, audits all expenditure from Consolidated Fund; under Section 14, audits all bodies substantially financed by government grants (> 50% or ₹1 crore); audits government companies under Companies Act, 2013.
+20. Detailed Protocol Comparison in Warrant of Precedence: Rank 1: President → Rank 2: Vice-President → Rank 3: Prime Minister → Rank 4: Governors in their States → Rank 5: Former Presidents → Rank 6: CJI & Speaker LS → Rank 7: Union Cabinet Ministers & CMs in States → Rank 7A: Bharat Ratna → Rank 9: SC Judges → Rank 9A: CEC, CAG, UPSC Chairman → Rank 10: RS Deputy Chairman, LS Deputy Speaker, MoS → Rank 11: Attorney General & Cabinet Secretary.
+21. **Advocate-on-Record (AOR) System in Supreme Court:** Under Supreme Court Rules, 2013, **only an Advocate-on-Record is entitled to act and plead on behalf of a litigant in the Supreme Court**; an advocate must practice for 4 years, train for 1 year with a senior AOR, and pass a specialized examination conducted by the Supreme Court.
+22. **Senior Advocates Designation:** Under Section 16 of the Advocates Act, 1961, the Supreme Court or High Court may designate an advocate as **Senior Advocate** with their consent if of opinion that by virtue of ability, standing at the bar, or special knowledge, they deserve such distinction; Senior Advocates cannot file a vakalatnama or appear without an instructing advocate/AOR.
+23. **Public Prosecutor (Section 24 CrPC / Section 18 BNSS):** Appointed by the Central or State Government in High Courts and District Courts for conducting prosecutions on behalf of the State; considered an independent officer of the court whose duty is not to secure conviction at all costs, but to assist the court in arriving at truth.
+24. **Secretary-General of Lok Sabha and Rajya Sabha:** The permanent administrative and bureaucratic head of the Secretariat of each House; holds protocol rank equivalent to **Cabinet Secretary** (Rank 11); appointed by the Speaker (in Lok Sabha) and Chairman (in Rajya Sabha); assists Presiding Officers on parliamentary procedure and rules.
+25. **Comptroller and Auditor General's Institutional Independence:** CAG cannot be removed except by Presidential order following special majority address by Parliament; salary cannot be varied to disadvantage; completely debarred from further government post; administrative expenses **charged upon Consolidated Fund of India**.
+26. **Differences between Public Accounts Committee and CAG:** The CAG is the **'external auditor'** who examines accounts and drafts audit reports; the Public Accounts Committee (PAC) is the **'parliamentary scrutiny body'** that examines CAG reports; CAG acts as the **'friend, philosopher, and guide'** of the PAC during evidence sessions.
+27. **Central Vigilance Commissioner vs Comptroller & Auditor General:** CAG audits financial accounts and propriety of expenditure post-facto for both Union and States; CVC supervises anti-corruption vigilance, disciplinary proceedings, and CBI investigations relating to public corruption in Central government agencies.
+28. **Chief Election Commissioner in Order of Precedence:** The CEC, along with the CAG and UPSC Chairperson, occupies **Rank 9A in the Warrant of Precedence**, which places them higher than the Attorney General (Rank 11) and Deputy Ministers, but immediately below Supreme Court Judges (Rank 9).
+29. **Principal Secretary to Prime Minister:** Administrative head of PMO; created under Lal Bahadur Shastri's tenure (initially headed by L.K. Jha); holds protocol rank of Cabinet Minister or Minister of State; acts as the primary administrative clearing-house for Prime Ministerial directives.
+30. **Parliamentary Committee on Privileges:** Examines cases of breach of privileges of the House or its members; in Lok Sabha, consists of **15 members** nominated by Speaker; in Rajya Sabha, consists of **10 members** nominated by Chairman.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Current Affairs anchors
+
+| Year | What happened | What you mark |
+|------|-----------------|---------------|
 | **2023** | **CEC Act**: selection = PM + LoP LS + Cabinet Minister (कैबिनेट मंत्री) | **CJI not on the panel** (*Anoop Baranwal* had put CJI there *until a law*) |
 | **2023** | SC judge resignation paper | Address = **President**, not CJI |
 | **2023** | Paper asks AG qualify-as-SC-judge **and** impeachment | Only qualify is true. **Pleasure**, not 124(4) |
@@ -71,6 +68,33 @@ hide:
 | **2018** | CJI when PIL “introduced” | **P.N. Bhagwati** (colour). epistolary / continuing mandamus (परमादेश) |
 | **1976** | Accounts compilation taken off CAG | CAG = **auditor only** (2019) |
 | **1971** | CAG DPC Act | Duties live in **statute**, Art. 149 |
+
+---
+
+### Confused pairs
+
+| Term A | Term B | Core difference | Hindi Terminology |
+| -------- | -------- | ----------------- | -------- / -------- |
+| **Attorney General (76)** | **Solicitor General** | Constitutional; Art. **88** | **Not** in the text; no 88 |
+| **Attorney General** | **Advocate General (165)** | Union; President; **SC**-judge qualify | State; Governor; **HC**-judge qualify |
+| **AG / AdvG** | **CAG / SC judge** | **Pleasure** — no impeachment article | Removal **like SC judge** (CAG) / impeachment (judge) |
+| **AG** | **CAG** | May take private briefs (not vs GoI); further office **not** barred by 76 | **148(4)** no further Union/State office |
+| **CAG** | **Accountant General** | Union constitutional auditor | CAG’s **field** officer in a State |
+| **Advocate General** | **Accountant General** | State’s *law* officer (165) | State’s *accounts* officer (CAG’s man) |
+| **3rd Schedule oath** | **Art. 60 / 69 / 159** | Judges, CAG, ministers, MPs/MLAs | President / VP / Governor — **not** 3rd Schedule |
+| **2nd Schedule** | **AG’s pay** | CAG + judges (charged) | President fixes; **not** charged on CFI as a 2nd-Sch office |
+| **UK Comptroller** | **Indian CAG** | Can **block** a payment first | **Audits after** the money has gone |
+| **CEC** | **Other Election Commissioners** | Removed **like SC judge** | Removed only on **CEC’s recommendation** |
+| **UPSC Chairman** | **UPSC member** (Art. 319) | **No** further Union/State office | May become UPSC **Chair** or an **SPSC Chair** |
+| **SPSC: appoint** | **SPSC: remove** | **Governor** | **President** (after SC inquiry on misbehaviour) |
+| **CJI / SC judge oath** | **CJ HC / HC judge oath** | Before **President** | Before **Governor** |
+| **HC judge oath** | **HC judge resignation** | **Governor** | **President** |
+| **CJI age** | **CJ HC age** | **65** | **62** |
+| **CEC (324)** | **SEC (243K)** | Parliament / President / VP polls | Local bodies |
+| **President resigns** | **CJI resigns** | To the **VP** (56) | To the **President** (124) |
+| **ECI Art.** | **AdvG Art.** | **324** | **165** (2024 trap) |
+| **CEC 2023 panel** | **Lokpal panel** | PM + LoP LS + Cabinet Minister (**no CJI**) | **Includes CJI** (or an SC judge he nominates) |
+| **LS Speaker resigns** | **RS Chairman resigns** | To **Deputy Speaker** (94) | RS Chairman **is the VP** → resigns to the **President** (67) |
 
 
 ---
@@ -393,3 +417,4 @@ D. CEC — removal like Supreme Court judge
 **Logic:** Pleasure is AG/AdvG story; hard path is CAG/judges/CEC.
 
 </details>
+

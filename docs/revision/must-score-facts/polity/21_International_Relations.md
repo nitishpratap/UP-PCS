@@ -13,49 +13,46 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Panchsheel** was signed on **29 April 1954** in the India–China Tibet trade (पण्याध्यक्ष) agreement. The five principles are mutual respect for sovereignty, non-aggression, non-interference, equality and mutual benefit, and peaceful coexistence.
-2. **Bandung 1955** echoed the same five principles at the Afro-Asian conference. Panchsheel is the India–China five; Bandung is the wider conference that used them.
-3. **Non-alignment** is a **policy**. **NAM** is a **movement**, founded at **Belgrade 1961** by Nehru (नेहरू), Nasser, Tito (with Sukarno and Nkrumah). India hosted the **7th** Summit in Delhi (**1983**). NAM is **not** a military alliance and is **not** NATO.
-4. **NATO** was founded on **4 April 1949** in Washington. Article **5** is collective defence. HQ is **Brussels**. Membership is **32** after Finland (**2023**) and Sweden (**2024**). India is **not** a member.
-5. **AUKUS** (**2021**) is Australia–UK–US (nuclear submarines). **QUAD** is India–Japan–US–Australia as a **dialogue**. Do not merge AUKUS with QUAD.
-6. **Uniting for Peace** (GA Resolution **377(V), 1950**) lets the General Assembly recommend action if a veto paralyses the Security Council. Abstention is **not** a veto. The PRC replaced the ROC in China’s UN seat in **1971**.
-7. **Bretton Woods 1944** created the **IMF** and **IBRD (World Bank)**. **Both** have headquarters in **Washington, D.C.** The World Bank is **not** headquartered in New York.
-8. **WHO** is Geneva (**1948**). **UNESCO** is Paris (**1945**). **ILO** is Geneva (**1919**, tripartite). **ICJ** has **15** judges for **nine**-year terms at The Hague. India is **not** a party to the Rome Statute **ICC**.
-9. **SAARC** has **eight** members (1985 Dhaka; HQ **Kathmandu**) and includes Pakistan and Maldives. **ASEAN** has **ten** members (HQ **Jakarta**); India is **not** a member. **BIMSTEC** has **seven** members (**1997**) and does **not** include Indonesia, Pakistan, China, or Maldives.
-10. **G20** is **19 + EU + AU (from 2023)**. India held the presidency (प्रेसीडेंसी) in **2022–23**. The New Delhi logo’s lotus with **seven** petals stands for **seven continents**. UP G20 venues included Agra, Varanasi, Greater Noida, and Lucknow — **not** Kanpur.
-11. **BRICS** leaders’ summits began in **2009**; South Africa joined around **2010/11**. The **NDB** is in **Shanghai**. The **10th** summit was Johannesburg **2018**. **2024** expansion brought in Egypt, Ethiopia, Iran, and UAE (Saudi Arabia invited).
-12. **IORA** HQ is in **Mauritius**. The **Commonwealth** has about **56** members with a London base; republics can remain members after **1949**. India is **out** of **APEC** and **OECD**.
-13. **NDB** (BRICS, Shanghai) is not **AIIB** (Beijing, China-led). India is a member of AIIB but NDB is the BRICS bank fact.
-14. **Five Eyes** is US–UK–Canada–Australia–New Zealand intelligence sharing. **CSTO** is Russia-led. **SEATO / CENTO** are dead. Warsaw Pact ended with the Cold War.
-15. **Article 51** (DPSP) directs the State to promote **international peace and security**, just and honourable relations, respect for international law and treaty obligations, and settlement of disputes by arbitration — the constitutional footing for foreign-policy ideals, not a Fundamental Right.
-16. **1947–64 Nehru:** Panchsheel · NAM seed · UN activism · Afro-Asian solidarity. **Not** “India had no friends”
-17. **1971:** Indo–Soviet Treaty of Peace, Friendship — a **tilt**, still not a NATO-style membership
-18. **1991:** Look East (Narasimha Rao) as LPG opens Asia
-19. **1998:** Pokhran-II — nuclear doctrine later (NFU is policy, not a treaty)
-20. **2014–:** Neighbourhood First · **Act East** · **SAGAR** · Indo-Pacific · Quad *as a dialogue*
-21. **Look East (1991)** — economic + ASEAN door after 1991
-22. **Act East (2014**, Nay Pyi Taw ASEAN) — Look East **plus** security, connectivity, NE as a bridge. **RCEP walkout Nov 2019** is *not* a repeal of Act East
-23. **SAGAR (2015**, Mauritius) — **Security and Growth for All in the Region** — Indian Ocean, not a NATO
-24. **Neighbourhood First** (2014 framing) — immediate ring first. SAARC stalled (includes Pakistan); BIMSTEC is the Bay-of-Bengal workaround
-25. **Vaccine Maitri (2021)** — COVID vaccine outreach — CA colour, not a new “doctrine article”
-26. **NPT 1968** / **CTBT 1996** — India is **not** a signatory
-27. **123 Agreement** with US **2008** — civil nuclear; enabled NSG. **NSG waiver 2008** — India trades nuclear *without* being an NPT member
-28. **GSOMIA 2002** · **LEMOA 2016** (logistics access, **not** a base treaty, **not** NATO) · **COMCASA 2018** (was CISMOA) · **BECA 2020** (geo-spatial / maps)
-29. **Equality** and mutual benefit
-30. **Peaceful co-existence**
-31. **NIEO** — 1970s NAM/G77 push for a **New International Economic Order** — economics, not Art. 5
-32. **P5:China · France · Russia · UK · USA**. Each has a **veto** on *substantive* (not merely procedural) decisions
-33. **Uniting for Peace** — GA Res **377(V), 3 Nov 1950** — if the Council is **veto-paralysed**, the **General Assembly** can meet in emergency special session (पंगु सत्र) and *recommend* measures (Korea / Suez). **Does not** give India a veto
-34. **Art. 4** = consultation (used more often than 5). **Art. 5** invoked once — after **9/11**
-35. **Warsaw Pact1955 → dissolved 1991** — USSR’s answer to NATO. Dead
+1. **Constitutional Foundation of Foreign Policy (Article 51, Part IV):** Directs the State to endeavor to: (a) promote international peace and security; (b) maintain just and honorable relations between nations; (c) foster respect for international law and treaty obligations; (d) encourage settlement of international disputes by arbitration.
+2. Dualist vs Monist System: India follows the **'Dualist' approach to international law**; an international treaty signed and ratified by the Government of India **does not automatically become part of domestic law** unless incorporated into domestic legislation by an Act of Parliament.
+3. **Parliamentary Treaty Power (Article 253):** Empowers Parliament to make any law for the whole or any part of the territory of India for implementing any **treaty, agreement, or convention** with any other country or decisions made at any international conference, even if the subject matter falls exclusively under the **State List (List II)**.
+4. Treaty-Making Executive Power: Under **Articles 73 and 246 (Entry 14 of Union List)**, entering into treaties and agreements with foreign countries and implementing them is the **exclusive domain of the Union Executive and Parliament**.
+5. **Panchsheel (Five Principles of Peaceful Coexistence):** Signed on **29 April 1954** in the preamble to the Sino-Indian Agreement on Trade and Intercourse between Tibet Region of China and India (signed by Jawaharlal Nehru and Chinese Premier Zhou Enlai).
+6. The Five Panchsheel Principles: (1) Mutual respect for each other's territorial integrity and sovereignty; (2) Mutual non-aggression; (3) Mutual non-interference in each other's internal affairs; (4) Equality and mutual benefit; (5) Peaceful coexistence; incorporated into the 10-point declaration at the **Bandung Conference (1955)**.
+7. **Non-Aligned Movement (NAM):** Founded at the **Belgrade Conference in 1961** under the leadership of **Jawaharlal Nehru (India), Josip Broz Tito (Yugoslavia), Gamal Abdel Nasser (Egypt), Kwame Nkrumah (Ghana), and Sukarno (Indonesia)**; aimed to maintain foreign policy autonomy without joining the Western (NATO) or Eastern (Warsaw Pact) Cold War blocs.
+8. **United Nations Structure:** The UN Charter came into force on **24 October 1945** (UN Day); India was an original founding signatory of the UN Charter (signed 26 June 1945 at San Francisco); UN comprises 6 principal organs: General Assembly, Security Council, Economic and Social Council (ECOSOC), Trusteeship Council (suspended 1994), International Court of Justice (ICJ, The Hague), and Secretariat.
+9. **UN Security Council (UNSC):** Consists of **15 members**: **5 Permanent Members (P5: China, France, Russia, UK, USA)** possessing veto power, and **10 Non-Permanent Members** elected by the UN General Assembly for a **2-year term** (India has served as an elected UNSC member 8 times, most recently in 2021–2022).
+10. **G4 Nations:** Formed in 2005 comprising **India, Brazil, Germany, and Japan**; mutually support each other's bids for permanent seats on an expanded UN Security Council.
+11. **Indo-Pak Key Bilateral Accords:** (1) **Indus Waters Treaty (1960)**: Brokered by World Bank; signed by Nehru and Ayub Khan; allocates Eastern rivers (Ravi, Beas, Sutlej) to India and Western rivers (Indus, Jhelum, Chenab) primarily to Pakistan; (2) **Tashkent Declaration (10 January 1966)**: Brokered by USSR Premier Alexei Kosygin after 1965 war; signed by Lal Bahadur Shastri and Ayub Khan; (3) **Shimla Agreement (2 July 1972)**: Signed by Indira Gandhi and Zulfikar Ali Bhutto after 1971 war; converted 1949 ceasefire line into **Line of Control (LoC)**; committed both nations to resolve disputes **bilaterally** without third-party intervention; (4) **Lahore Declaration (1999)**: Signed by Atal Bihari Vajpayee and Nawaz Sharif.
+12. **Indo-China Key Boundary Markers:** (1) **McMahon Line**: 890 km boundary between British India and Tibet agreed at the **Simla Convention of 1914**; recognized by India as the legal border in the Eastern sector (Arunachal Pradesh); rejected by China; (2) **Line of Actual Control (LAC)**: De facto military demarcation dividing Indian-controlled territory from Chinese-controlled territory (Western sector: Ladakh; Middle sector: Uttarakhand/HP; Eastern sector: Arunachal/Sikkim).
+13. Indo-China Bilateral Agreements on Peace and Tranquility: (1) **1993 Agreement** on Maintenance of Peace and Tranquility along the LAC; (2) **1996 Agreement** on Confidence-Building Measures (banning firearms within 2 km of LAC); (3) **Border Defense Cooperation Agreement (BDCA, 2013)**.
+14. **Neighborhood First Policy & Act East Policy:** (1) **Gujral Doctrine (1996)**: Propounded by I.K. Gujral; non-reciprocal concessions by India to smaller South Asian neighbors without expecting reciprocity; (2) **Look East Policy (1991)**: Initiated by P.V. Narasimha Rao to deepen ties with ASEAN; upgraded to **'Act East Policy'** by Narendra Modi at the East Asia Summit in Myanmar in **2014**.
+15. **SAARC (South Asian Association for Regional Cooperation):** Established on **8 December 1985 in Dhaka**; permanent Secretariat is at **Kathmandu, Nepal**; 8 member states: India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives, and **Afghanistan** (admitted 2007 at 14th summit in New Delhi).
+16. **BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation):** Formed on **6 June 1997 via Bangkok Declaration**; Secretariat is at **Dhaka, Bangladesh**; 7 member states: 5 South Asian (India, Bangladesh, Bhutan, Nepal, Sri Lanka) and 2 Southeast Asian (**Myanmar and Thailand**); connects South Asia with Southeast Asia.
+17. **Quad (Quadrilateral Security Dialogue):** Strategic diplomatic dialogue between **India, United States, Japan, and Australia**; first initiated in 2007 by Japanese PM Shinzo Abe, revived in 2017; focuses on a free, open, inclusive, and prosperous **Indo-Pacific**.
+18. **BRICS:** Coined as 'BRIC' by Goldman Sachs economist Jim O'Neill in 2001; first summit held in **Yekaterinburg, Russia (2009)**; **South Africa joined in 2010**; established the **New Development Bank (NDB)** headquartered at **Shanghai, China**; expanded in 2024 to include Egypt, Ethiopia, Iran, UAE, and Saudi Arabia.
+19. **Shanghai Cooperation Organisation (SCO):** Created in **2001 in Shanghai**; permanent Secretariat at **Beijing**; Regional Anti-Terrorist Structure (RATS) based at **Tashkent, Uzbekistan**; **India and Pakistan became full members on 9 June 2017** at the Astana Summit in Kazakhstan; Iran became 9th member in 2023, Belarus 10th member in 2024.
+20. **G20 (Group of Twenty):** Premier forum for international economic cooperation founded in 1999; India held the **G20 Presidency from 1 December 2022 to 30 November 2023**; 18th G20 Summit held at **Bharat Mandapam, New Delhi (September 2023)** under theme *'Vasudhaiva Kutumbakam' (One Earth, One Family, One Future)*; historic induction of the **African Union (AU)** as a permanent member under India's presidency.
+21. **I2U2 Group:** Mini-lateral grouping formed in 2021 comprising **India, Israel, United States, and United Arab Emirates**; focuses on joint investments in water, energy, transportation, space, health, and food security; dubbed the 'West Asian Quad'.
+22. **India and UN Peacekeeping Operations:** India is historically one of the **largest cumulative troop-contributing countries (TCC)** to UN Peacekeeping Missions; deployed the first all-women peacekeeping contingent in **Liberia in 2007**; served in over 50 missions since 1950.
+23. **Chabahar Port Agreement:** Trilateral agreement between **India, Iran, and Afghanistan** signed in 2016 for development of Shahid Beheshti terminal at Chabahar, providing India sea-land access to Central Asia and Afghanistan bypassing Pakistan; in May 2024, India signed a 10-year long-term contract to operate Chabahar.
+24. **International Solar Alliance (ISA):** Joint initiative launched by **India and France** at COP21 Paris in **November 2015**; headquarters located at **Gurugram, Haryana** (first international intergovernmental organization headquartered in India); open to all UN member states.
+25. **Coalition for Disaster Resilient Infrastructure (CDRI):** Global partnership launched by Prime Minister Narendra Modi at the UN Climate Action Summit in **New York in September 2019**; Secretariat located in **New Delhi**.
+26. **Regional Comprehensive Economic Partnership (RCEP):** Mega free-trade agreement between ASEAN and FTA partners; **India decided to WITHDRAW from RCEP in November 2019 at the Bangkok summit** to protect domestic agriculture, dairy, and manufacturing sectors from dumping.
+27. **Indo-Pacific Oceans Initiative (IPOI):** Proposed by India at the 14th East Asia Summit in Bangkok in **November 2019**; rests on 7 pillars including maritime security, maritime ecology, and trade connectivity.
+28. **Colombo Security Conclave:** Regional maritime security grouping founded by **India, Sri Lanka, and Maldives**; expanded to include **Mauritius** (with Bangladesh and Seychelles as observers); focuses on maritime safety, counter-terrorism, and cyber security in the Indian Ocean.
+29. **Polar Research Stations:** India operates permanent scientific research stations: in **Antarctica**: **Dakshin Gangotri (1983 - abandoned)**, **Maitri (1989)**, and **Bharati (2012)**; in the **Arctic**: **Himadri (2008)** at Ny-Ålesund, Svalbard, Norway; India became an Observer in the **Arctic Council in 2013**.
+30. **India's Nuclear Doctrine (2003):** Adopted on **4 January 2003** by the Cabinet Committee on Security; core tenets: (1) **'No First Use' (NFU)** — nuclear weapons will only be used in retaliation against a nuclear attack on Indian territory or forces; (2) **Credible Minimum Deterrence**; (3) Non-use against non-nuclear weapon states; (4) Retaliatory authorization rests exclusively with the **Nuclear Command Authority (NCA)** headed politically by the **Prime Minister of India**.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Current Affairs anchors
+
+| Year | What happened | What you mark |
+|------|-----------------|---------------|
 | **2024** | BRICS adds **Egypt (मिस्र), Ethiopia, Iran, UAE** (Saudi invited) | Original 5 still in; this is **expansion**, not a UN organ |
 | **2024** | **Belarus** joins SCO | After **Iran 2023**. RATS still **Tashkent** |
 | **2024** | 19th NAM Summit at **Kampala, Uganda** | NAM is **alive**; India attends; it is still **not** NATO |
@@ -85,6 +82,44 @@ hide:
 | **2008** | **123 Agreement** + **NSG (एनएसजी) waiver** | Civil nuclear with US; India still **outside NPT** |
 | **1971** | PRC takes UN China seat (Res. **2758**) | India voted **for** PRC. ROC/Taiwan out of the UN seat |
 | **1950** | Uniting for Peace **377(V)** | GA can *recommend* (सिफारिश) if the veto kills the Council |
+
+---
+
+### Confused pairs
+
+| Term A | Term B | Core difference | Hindi Terminology |
+| -------- | -------- | ----------------- | -------- / -------- |
+| **Non-alignment (policy)** | **NAM (movement)** | Nehru’s *judgment* | **1961 Belgrade** club of States |
+| **NAM** | **NATO** | No Art. 5, no HQ army | **1949** military alliance, Art. **5** |
+| **Panchsheel** | **Bandung 1955** | **29 Apr 1954** India–China five | Afro-Asian conference that **echoed** the five |
+| **UNSC** | **UNGA** | 15; P5 veto; peace/security | 193; one-state-one-vote; recommendations |
+| **P5 veto** | **ICJ judgment** | Political block in the Council | Court — different organ, Hague |
+| **G4** | **Uniting for Consensus** | India–Japan–Germany–Brazil want permanent seats | Italy/Pakistan-led **Coffee Club** — no new permanents |
+| **Look East** | **Act East** | Rao **1991**, trade/ASEAN | Modi **2014**, security + connectivity too |
+| **AUKUS** | **QUAD** | **2021** AUS–UK–US (subs) | India–Japan–US–Australia *dialogue* |
+| **Djibouti Code 2009** | **Jeddah Amd 2017** | Piracy / armed robbery | Broader maritime crime (trafficking, IUU fishing…) |
+| **Monroe Doctrine** | **Truman Doctrine** | 1823, Western Hemisphere | **1947**, contain the USSR |
+| **Non-alignment** | **Neutrality** | Issue-by-issue, still takes sides on merits | Swiss-style *legal* non-participation in wars |
+| **Collective security** | **Collective defence** | UN Chapter **VII** — system vs a *breach of peace* | NATO Art. **5** — allies vs an attack on one of them |
+| **NATO Art. 4** | **NATO Art. 5** | Consultation | Armed attack = attack on all |
+| **LEMOA** | **COMCASA / BECA** | 2016 logistics *access* | 2018 comms compatibility / 2020 geo-spatial *maps* |
+| **NPT** | **Nuclear doctrine (NFU)** | Treaty India **did not sign** | National *policy*, not a UN treaty |
+| **ReCAAP 2006** | **Djibouti Code 2009** | Asia piracy, Singapore ISC | WIO / Gulf of Aden, IMO |
+| **Uniting for Peace** | **P5 veto** | GA Res **377(V) 1950** — GA can recommend if SC is stuck | One P5 “no” kills a *substantive* Council draft |
+| **IMF** | **World Bank (IBRD)** | BOP / exchange / quota / SDR | Project / reconstruction loans. **Both Washington** |
+| **IBRD** | **IDA** | Middle-income loans | Soft credits to the poorest |
+| **GATT 1947** | **WTO 1995** | Treaty among contracting parties | Organisation + DSM |
+| **ICJ** | **ICC** | UN organ, Hague, States | Rome Statute criminal court; **India not a party** |
+| **SAARC** | **BIMSTEC** | 8; includes **Pakistan + Maldives**; HQ Kathmandu | 7; **no Pak, no Maldives, no Indonesia**; Bay of Bengal |
+| **ASEAN** | **BIMSTEC** | 10 SE Asia; India **not** a member | 7; India **is** a member |
+| **QUAD** | **AUKUS** | IN–JP–US–AU dialogue | AUS–UK–US subs |
+| **APEC / OECD** | **G20** | India **out** of both | India **in**; 2023 president |
+| **WHO** | **UNESCO** | Geneva, health, 1948 | Paris, education/culture/WH, 1945 |
+| **G7** | **G20** | 7 rich + EU; India **not** a member (guest only) | 19+EU+AU; India **in**; 2023 president |
+| **NDB (BRICS)** | **AIIB** | BRICS bank, **Shanghai**, 2014 Fortaleza | China-led, **Beijing**; India is a *member* of AIIB, not its owner-club name |
+| **UN specialised agency** | **UN programme** | WHO, UNESCO, ILO, IMF, IBRD — own treaties | UNDP / UNICEF / UNHCR — GA/ECOSOC programmes. **HDI = UNDP, not IMF** |
+| **Shanghai Five 1996** | **SCO 2001** | CN–RU–KZ–KG–TJ (**no Uzbekistan**) | Five **+ Uzbekistan** (then India/Pak 2017…) |
+| **RCEP** | **ASEAN** | Mega FTA; **India walked out Nov 2019** | 10-member club; India still **not** a member |
 
 
 ---
@@ -424,3 +459,4 @@ D. English, French, Chinese, Russian, Arabic and Spanish
 **Ans: D** — The six official languages are Arabic, Chinese, English, French, Russian and Spanish; Hindi and German are not in this set.
 
 </details>
+

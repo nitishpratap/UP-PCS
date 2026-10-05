@@ -13,118 +13,95 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Muslim separate electorates** began with the **Indian Councils Act, 1909** (Morley–Minto). The Communal Award of **1932** was not the first such device.
-2. **S.P. Sinha** was the first Indian member of the Viceroy’s Executive Council under the **1909** reforms.
-3. **C. Rajagopalachari** was the first Indian Governor-General (**1948–50**). Mountbatten was the last British Governor-General, not the first Indian one.
-4. **Supreme Court at Calcutta** was established in **1774**; first Chief Justice was **Sir Elijah Impey** (not Lemaister).
-5. **Board of Control** handled political / territorial matters; **Court of Directors** handled commercial matters.
-6. **Lord Cornwallis** was the first Governor-General to enjoy both powers.
-7. **₹1 lakh** annually was granted for education / revival of literature and science.
-8. **General Committee of Public Instruction (1823)** administered the ₹1 lakh grant.
-9. **Orientalist (प्राच्यवादी)–Anglicist (आंग्लवादी) Controversy** followed: Prinsep and H.H. Wilson backed oriental learning; Charles Trevelyan led the Anglicists for English medium.
-10. **Section 87** said no person of India or the Crown would be debarred from Company office on grounds of religion, place of birth, descent or colour — later treated as the foundation for Indian share in administration.
-11. **No differentiation** was yet made between Central and Provincial subjects.
-12. **Portfolio system:** Canning introduced departmental portfolios in practice (**1859**); the **1861 Act gave legal recognition**.
-13. **Dyarchy in provinces** (dual rule) was introduced by the **Government of India Act 1919** (Montagu–Chelmsford Reforms), dividing provincial subjects into Reserved and Transferred.
-14. **Reserved subjects** (administration of justice, police, prisons, land revenue, irrigation, forests, press) — Governor and Executive Councillors; **not** responsible to the legislature.
-15. **Transferred subjects** (education, health, local self-government, agriculture, public works) — Indian ministers responsible to the Legislative Council.
-16. **Council of State** (Upper House) — statute spoke of about **60** members (rules later set roughly **33 elected + 27 nominated**).
-17. **Legislative Assembly** (Lower House) — originally about **140** (100 elected + 40 nominated); rules later raised it to about **143–145**.
-18. **Provided for** establishment of **Reserve Bank of India** to control currency and credit — actual statute is **RBI Act, 1934** (operations from **1 April 1935**). Do not write “RBI was created only by GOI Act 1935” as a blunt fact.
-19. **1909 (Morley–Minto):** first introduced for **Muslims**.
-20. **1919 (Montagu–Chelmsford):** extended to Sikhs, Indian Christians, Anglo-Indians, Europeans.
-21. **Communal Award, 1932:** further extended separate electorates to **Depressed Classes** (among others).
-22. **Poona Pact, 1932:** replaced Depressed Classes’ separate electorates with **reserved seats in a joint electorate**.
-23. **All-British** composition — **no Indian member** → nationwide boycott (बहिष्कार) (“Simon Go Back”).
-24. **1st RTC (प्रथम) (Nov 1930–Jan 1931):** Congress absent (Civil Disobedience (सविनय अवज्ञा)); princes and other parties attended.
-25. **Gandhi–Irwin (इरविन) Pact (गांधी-इरविन) (5 March 1931):** Congress agreed to join 2nd RTC (द्वितीय गोलमेज); CDM suspended.
-26. **2nd RTC (Sep–Dec 1931):** Gandhi as sole Congress representative; also Sarojini Naidu, Madan Mohan Malaviya (मालवीय), etc.
-27. **Dr. Rajendra Prasad did NOT participate** in the 2nd RTC.
-28. **3rd RTC (Nov–Dec 1932):** Congress absent again; limited attendance → White Paper (1933) → Joint Select Committee → **GOI Act 1935**.
-29. **Dr. S. Radhakrishnan** was **not** a member of the Interim Government.
-30. **GG / Viceroy line (coaching fact):** first Viceroy = **Canning**; last Viceroy (माउंटबेटन) = **Mountbatten**; last British GG of Independent India = **Mountbatten**; first Indian GG = **C. Rajagopalachari**.
-31. **Initial strength 389** = **292** (British Indian provinces) + **93** (Princely States) + **4** (Chief Commissioner’s Provinces) — often remembered as **296 + 93**.
-32. **Congress** won about **208** provincial seats; **Muslim League** about **73**; others about **15** — League later **boycotted** early sittings after Direct Action politics.
-33. **Mahatma Gandhi (महात्मा गांधी) was not a member** of the Constituent Assembly.
-34. **Objectives Resolution** moved by **Jawaharlal Nehru** on **13 December 1946** (fifth meeting of the first session); adopted **22 January 1947** — philosophical base of the Constitution (later reflected in Preamble).
-35. **Maulana Azad** argued for deferring adult franchise by **15 years**; Rajendra Prasad and Nehru backed immediate UAF in the Constitution.
+1. The **Regulating Act of 1773** marked the first step towards British parliamentary control over the East India Company; it designated the Governor of Bengal as the **Governor-General of Bengal** (**Warren Hastings** was the first) assisted by a Council of four members.
+2. The Regulating Act, 1773 provided for the establishment of a **Supreme Court at Fort William, Calcutta (1774)**, consisting of a Chief Justice (**Sir Elijah Impey**) and three other judges.
+3. The **Act of Settlement, 1781** (Declaratory Act) exempted the actions of the Governor-General in Council and Company public servants done in their official capacity from the jurisdiction of the Supreme Court at Calcutta.
+4. **Pitt’s India Act of 1784** established a system of **Double Government**: the **Court of Directors** managed commercial operations, while a new 6-member **Board of Control** managed political, military, and revenue affairs in India.
+5. Under the **Act of 1786**, **Lord Cornwallis** was granted the power to override his Council in extraordinary circumstances concerning peace or safety, and was simultaneously appointed both Governor-General and Commander-in-Chief.
+6. The **Charter Act of 1793** extended the East India Company’s commercial trade monopoly for another **20 years** and mandated that salaries of Board of Control members be paid out of Indian revenues ('Home Charges').
+7. The **Charter Act of 1813** abolished the commercial monopoly of the Company in India, opening Indian trade to all British merchants, with two exceptions: trade in **tea** and trade with **China** remained Company monopolies; it also set aside **₹1 lakh annually** for the promotion of education in India.
+8. The **Charter Act of 1833** made the Governor-General of Bengal the **Governor-General of India** (**Lord William Bentinck** became the first Governor-General of India), centralising all civil and military authority.
+9. The Charter Act of 1833 completely ended the commercial activities of the East India Company, converting it into a purely administrative body; it also added a **fourth member (Law Member — Lord Macaulay)** to the Governor-General’s Council.
+10. Under the **Charter Act of 1853**, the legislative and executive functions of the Governor-General’s Council were separated for the first time, establishing a 6-member **Indian (Central) Legislative Council**; it also introduced an **open competitive examination for the Indian Civil Services (ICS)** (Macaulay Committee on Civil Services appointed in 1854).
+11. The **Government of India Act, 1858** (Act for the Better Government of India) ended East India Company rule following the 1857 revolt, transferring sovereignty directly to the British Crown; it abolished the Board of Control and Court of Directors.
+12. The 1858 Act created the office of the **Secretary of State for India** (a member of the British Cabinet assisted by a 15-member Council of India) and redesignated the Governor-General as the **Viceroy of India** (**Lord Canning** became the first Viceroy).
+13. The **Indian Councils Act of 1861** initiated representative institutions by associating Indians with legislation (Lord Canning nominated the Raja of Benaras, Maharaja of Patiala, and Sir Dinkar Rao to his Council in 1862) and restored legislative decentralisation to Bombay and Madras Presidencies.
+14. The 1861 Act gave statutory recognition to the **Portfolio System** introduced by Lord Canning in 1859, and empowered the Viceroy to issue **Ordinances** with a validity of 6 months during emergencies without his Council’s concurrence.
+15. The **Indian Councils Act of 1892** increased the non-official membership in central and provincial councils, introduced the principle of **indirect election** through nominations on recommendations of local bodies, and allowed members to **discuss the budget** (without voting or asking supplementary questions).
+16. The **Indian Councils Act of 1909 (Morley-Minto Reforms)** introduced **separate electorates for Muslims**, legally institutionalising communalism (Lord Minto is known as the 'Father of Communal Electorate'); it also permitted members to move resolutions and ask **supplementary questions** on the budget.
+17. Under the 1909 Act, **Satyendra Prasad Sinha** became the first Indian appointed to the Viceroy’s Executive Council as the Law Member.
+18. The **Government of India Act, 1919 (Montagu-Chelmsford Reforms)** introduced **Dyarchy (द्वैध शासन)** in provincial governments, dividing provincial subjects into **Transferred Subjects** (administered by Governor with ministers responsible to legislative council) and **Reserved Subjects** (administered by Governor and his executive council without legislative accountability).
+19. The 1919 Act introduced for the first time **Bicameralism** at the Centre (Council of State and Legislative Assembly), direct elections, and extended separate electorates to **Sikhs, Indian Christians, Anglo-Indians, and Europeans**.
+20. The 1919 Act provided for the establishment of a **Public Service Commission** (the **Central Public Service Commission** was set up in **1926** on the recommendation of the Lee Commission of 1923–24) and created the **Chamber of Princes (Narendra Mandal)** in 1921.
+21. The **Simon Commission** was appointed in **November 1927** under Sir John Simon with **7 all-British members** (no Indian representation); its 1930 report recommended the abolition of dyarchy and establishment of provincial autonomy.
+22. The **Nehru Report (August 1928)**, drafted by a committee chaired by Motilal Nehru, was the first major Indian attempt to draft a complete constitutional framework; it demanded **Dominion Status**, Fundamental Rights, adult franchise, and rejected separate electorates in favor of joint electorates with reservation.
+23. The **Communal Award** announced by British Prime Minister Ramsay MacDonald on **16 August 1932** extended separate electorates to the **Depressed Classes**; Mahatma Gandhi protested via a fast unto death in Yerwada Jail, culminating in the **Poona Pact (24 September 1932)** between Dr. B.R. Ambedkar and Congress leaders, which retained joint electorates but increased reserved seats for Depressed Classes.
+24. The **Government of India Act, 1935** was the most voluminous pre-independence constitutional document; it proposed an **All-India Federation** (consisting of British Indian provinces and princely states) which **never came into effect** because princely states refused to join.
+25. The 1935 Act abolished provincial dyarchy and introduced **Provincial Autonomy**; it introduced dyarchy at the Centre (which never took operational effect) and introduced **bicameralism in 6 out of 11 provinces** (Bengal, Bombay, Madras, Bihar, Assam, and United Provinces).
+26. The 1935 Act divided legislative powers into three lists: **Federal List (59 items)**, **Provincial List (54 items)**, and **Concurrent List (36 items)**; **Residuary Powers** were vested exclusively in the **Governor-General (Viceroy)**.
+27. The 1935 Act established the **Federal Court of India** (inaugurated on **1 October 1937** with Sir Maurice Gwyer as first CJI) and provided for the establishment of the **Reserve Bank of India** (RBI Act passed in 1934, RBI began operations on 1 April 1935).
+28. The **August Offer of 8 August 1940** (by Viceroy Lord Linlithgow) proposed dominion status after the war and acknowledged for the first time that framing a new constitution would be 'primarily the responsibility of Indians themselves'.
+29. The **Cripps Mission (March 1942)** under Sir Stafford Cripps proposed an elected Constituent Assembly after World War II to frame an Indian Dominion constitution; it was rejected by Congress (Gandhi called it a 'post-dated cheque on a crashing bank') and by the Muslim League (which demanded a separate Pakistan).
+30. The **Wavell Plan** was presented at the **Shimla Conference (June–July 1945)** proposing an Executive Council with equal Hindu and Muslim representation (except Viceroy and Commander-in-Chief); it broke down due to the Muslim League’s insistence on nominating all Muslim members.
+31. The **Cabinet Mission** arrived in India in **March 1946** consisting of three British Cabinet ministers: **Lord Pethick-Lawrence** (Secretary of State), **Sir Stafford Cripps**, and **A.V. Alexander**; it rejected the demand for a sovereign Pakistan and proposed a 3-tier Union and the framework for electing the Constituent Assembly.
+32. The **Constituent Assembly** was constituted in **November 1946** under the Cabinet Mission Plan with an initial strength of **389 members** (292 from British provinces, 93 from Princely States, and 4 from Chief Commissioners’ Provinces: Delhi, Ajmer-Merwara, Coorg, British Baluchistan); after partition, membership was reduced to **299** (229 provinces + 70 princely states).
+33. Members of the Constituent Assembly were **indirectly elected** by the provincial legislative assemblies using Proportional Representation by Single Transferable Vote (**PR-STV**); princely state representatives were nominated by their rulers; the Assembly comprised roughly **15 women members**; **Mahatma Gandhi and M.A. Jinnah were NOT members**.
+34. The Constituent Assembly held its first meeting on **9 December 1946**; **Dr. Sachchidananda Sinha** was elected as the temporary/interim President following the French practice of electing the oldest member.
+35. On **11 December 1946**, **Dr. Rajendra Prasad** was elected permanent President of the Assembly, with **H.C. Mukherjee** and **V.T. Krishnamachari** as Vice-Presidents; **Sir B.N. Rau** was appointed the **Constitutional Adviser** to the Assembly.
+36. On **13 December 1946**, Jawaharlal Nehru moved the historic **'Objectives Resolution'**, outlining the foundational philosophy of the Constitution; it was unanimously adopted on **22 January 1947** and later became the basis of the **Preamble**.
+37. The **Drafting Committee** was appointed on **29 August 1947** consisting of 7 members chaired by **Dr. B.R. Ambedkar**: N. Gopalaswami Ayyangar, Alladi Krishnaswamy Iyer, Dr. K.M. Munshi, Syed Mohammad Saadulla, N. Madhava Rau (replaced B.L. Mitter), and T.T. Krishnamachari (replaced D.P. Khaitan).
+38. Key Constituent Assembly Committees and Chairpersons: Union Powers & Union Constitution Committees = **Jawaharlal Nehru**; Provincial Constitution Committee & Advisory Committee on Fundamental Rights, Minorities and Tribal Areas = **Sardar Vallabhbhai Patel**; Steering Committee & Rules of Procedure = **Dr. Rajendra Prasad**; Minorities Sub-Committee = **H.C. Mukherjee**; Fundamental Rights Sub-Committee = **J.B. Kripalani**.
+39. The **Mountbatten Plan (3 June Plan, 1947)** laid down the partition scheme; the **Indian Independence Act, 1947** received royal assent on **18 July 1947** and created two sovereign Dominions (India and Pakistan) effective **15 August 1947**.
+40. The **National Flag** (designed by Pingali Venkayya with a 3:2 ratio and 24 spokes in the Ashoka Chakra) was adopted on **22 July 1947**; the **National Anthem (Jana Gana Mana)** and **National Song (Vande Mataram)** were adopted on **24 January 1950**.
+41. The Constitution was adopted, enacted, and signed by 284 members on **26 November 1949** (**Constitution Day / Samvidhan Diwas**); while provisions relating to citizenship, elections, provisional parliament, and temporary articles came into force immediately, the remaining provisions came into full force on **26 January 1950** (commemorating the 1930 Purna Swaraj declaration).
+42. The original Constitution was handwritten and calligraphed in English by **Prem Behari Narain Raizada** in flowing italic style and illuminated/decorated by artists from Shantiniketan led by **Nandalal Bose** and Beohar Rammanohar Sinha; the Hindi version was calligraphed by **Vasant Krishan Vaidya**; the seal of the Constituent Assembly was the **Elephant**.
 
-
-### ⏳ Constitutional Development Acts Chronology (1773–1947)
-
-```text
-                Constitutional Development Acts Chronology (1773–1947)
-                                        │
-           1773: Regulating Act (GG of Bengal: Warren Hastings; SC at Calcutta 1774)
-                                        │
-           1784: Pitt's India Act (Dual Government: Board of Control & Court of Directors)
-                                        │
-           1793: Charter Act (Company monopoly extended 20 yrs; Home charges from India)
-                                        │
-           1813: Charter Act (Trade monopoly ended except Tea & China; 1 Lakh for education)
-                                        │
-           1833: Charter Act (GG of India: William Bentinck; trade ended; Law Member Macaulay)
-                                        │
-           1853: Charter Act (Separated Executive & Legislature; Open competition for ICS)
-                                        │
-           1858: Government of India Act (Crown Rule; Secretary of State & Council; Viceroy Canning)
-                                        │
-           1861: Indian Councils Act (Portfolio system; Ordinance power; Decentralization restored)
-                                        │
-           1892: Indian Councils Act (Indirect elections; Budget discussion without voting)
-                                        │
-           1909: Morley-Minto Reforms (Separate electorates for Muslims; S.P. Sinha in Council)
-                                        │
-           1919: Montagu-Chelmsford Reforms (Dyarchy in Provinces; Bicameral Centre; Central PSC 1926)
-                                        │
-           1935: Government of India Act (Provincial Autonomy; Federal Court 1937; Federation proposed)
-                                        │
-           1947: Indian Independence Act (Assent 18 July; Partition into India & Pakistan Dominions)
-```
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
-| **GG of Bengal vs GG of India** | **1773** Bengal (Warren Hastings); **1833** India (William Bentinck) | Calling 1773 = GG of India | बंगाल ≠ भारत |
-| **Board of Control vs Court of Directors** | Board = **political**; Directors = **commercial** | Swapping their respective functions | बोर्ड = राजनीति; निदेशक = व्यापार |
-| **Act of 1786** | GG may **overrule** Council; Cornwallis = first GG + Commander-in-Chief | Crediting 1784 Pitt's India Act alone | 1786 ओवररूल |
-| **First SC Chief Justice at Calcutta** | **Sir Elijah Impey** (1774) | Lemaister or Chambers | इम्पे (1774) |
-| **ICS Open Competition** | **Charter 1853** (Macaulay Committee 1854) | Charter 1833 (only recommended the spirit) | 1853 खुली परीक्षा |
-| **1813 Revenue Control** | Remained with **Company** for another 20 years | Claiming Parliament directly took revenues in 1813 | राजस्व = कंपनी |
-| **Portfolio System** | Legal recognition = **Indian Councils Act 1861** (practice from 1859) | Confusing with 1858, 1892, or 1909 | पोर्टफोलियो = 1861 |
-| **Budget Discussion vs Supplementary Qs** | Discuss budget = **1892**; Asking supplementary Qs = **1909** | Giving 1892 supplementary questioning power | 1892 पूरक नहीं |
-| **Muslim Separate Electorates** | Began in **1909** (Morley-Minto Reforms) | Marking Communal Award 1932 as the first device | 1909 मुस्लिम पृथक निर्वाचन |
-| **Dyarchy vs Provincial Autonomy** | Dyarchy in Provinces = **1919**; Provincial Autonomy = **1935** | Swapping or treating Dyarchy as central | द्वैध (1919) / स्वायत्तता (1935) |
-| **1935 Federation / Centre Dyarchy** | **Never operated** in practice | Assuming Federation ran like Provincial Autonomy | संघ / केंद्र द्वैध नहीं चले |
-| **Residuary Powers under 1935 Act** | Vested in the **Viceroy / Governor-General** | Claiming they were given to Federal Legislature | अवशिष्ट = वायसराय |
-| **Residuary Powers (Constitution)** | Borrowed from **Canada** (vested in Centre) | Claiming Australia | अवशिष्ट = कनाडा |
-| **Concurrent List Source** | Borrowed from **Australia** | Claiming Canada | समवर्ती = ऑस्ट्रेलिया |
-| **Federal Court of India** | Inaugurated **1 Oct 1937**; first CJ **Sir Maurice Gwyer** | Saying it was established in 1935 alone | 1937 ग्वायर |
-| **Communal Award vs Poona Pact** | Award = Separate electorates; Poona Pact = **Reserved seats + Joint electorate** | Swapping the electoral systems | पूना = संयुक्त निर्वाचन |
-| **Communal Award Year** | **1932** (Ramsay MacDonald) | 1933 (frequent UPPCS year trap) | 1932 |
-| **2nd RTC Attendance** | Mahatma Gandhi **attended**; Dr. Rajendra Prasad **did not go** | Listing Rajendra Prasad as Congress delegate | प्रसाद नहीं गए |
-| **Interim Government Dates** | Announced **24 Aug 1946**; took office **2 Sep 1946** | Mixing announcement date with swearing-in date | 24 अगस्त घोषणा / 2 सित. शपथ |
-| **Constitution Adoption vs Enforcement** | Adopted **26 Nov 1949**; Enforced **26 Jan 1950** | Swapping adoption and commencement dates | अंगीकरण / प्रवर्तन |
-| **Sir B.N. Rau vs Dr. B.R. Ambedkar** | Rau = **Constitutional Adviser**; Ambedkar = **Drafting Committee Chairman** | Swapping advisor with drafting chair | राऊ = सलाहकार; अम्बेडकर = अध्यक्ष |
-| **Reserve Bank of India (RBI) Creation** | Statutory source = **RBI Act 1934** (started 1 Apr 1935); GOI 1935 only provided for it | "Created by GOI Act 1935 alone" | RBI = 1934 अधिनियम |
-| **First Viceroy of India** | **Lord Canning** (1858; same man was last Company GG) | Naming Mountbatten as first Viceroy | कैनिंग = पहला वायसराय |
-| **First Indian Governor-General** | **C. Rajagopalachari** (1948–50) | Naming Mountbatten as first Indian GG | राजगोपालाचारी |
-| **Chamber of Princes (Narendra Mandal)** | Established under **GOI Act 1919** (~120 members; 1st Chancellor Ganga Singh) | Confusing with 1909 or 1935 | नरेंद्र मंडल = 1919 |
-| **Mahatma Gandhi in Constituent Assembly** | **Not a member** of the Constituent Assembly | Listing Gandhi among CA drafting members | गांधी सदस्य नहीं थे |
-| **CA Election Method** | **Indirect election** (by provincial assemblies via PR-STV) | Assuming Universal Adult Franchise at CA stage | अप्रत्यक्ष चुनाव |
-| **CA Idea vs Formal Demand** | Idea = **M.N. Roy (1934)**; first formal demand = **Swaraj Party, Ranchi (May 1934)** | Crediting only Congress 1935 resolution | स्वराज पार्टी / एम.एन. रॉय |
-| **Temporary vs Permanent CA President** | Temporary = **Dr. Sachchidananda Sinha**; Permanent = **Dr. Rajendra Prasad** | Swapping temporary and permanent chairs | सिन्हा अस्थायी / प्रसाद स्थायी |
-| **Temporary vs Permanent CA Vice-President** | Temporary Deputy = **Frank Anthony**; Permanent VPs = **H.C. Mukherjee & V.T. Krishnamachari** | Swapping interim deputy with permanent VP | एंथनी / मुखर्जी |
-| **Minorities Sub-Committee Chair** | **H.C. Mukherjee** | Naming Sardar Patel as chair of this sub-committee | अल्पसंख्यक = मुखर्जी |
-| **Advisory Committee on Fundamental Rights** | **Sardar Vallabhbhai Patel** (parent committee) | Confusing with Minorities Sub-Committee | सलाहकार = पटेल |
-| **Flag Ad-hoc Committee** | **Dr. Rajendra Prasad** (appointed 23 June 1947) | Crediting J.B. Kripalani or Ambedkar | ध्वज समिति = प्रसाद |
-| **Election Commission Source** | **Indigenous original design** | Saying it was borrowed from UK or USA | निर्वाचन आयोग स्वदेशी |
-| **CA Initial Strength Breakdown** | **292 (Provinces) + 93 (Princely States) + 4 (Chief Comm.) = 389** | Calling total 296+93 without 4 breakdown | 292 + 93 + 4 = 389 |
-| **Calligrapher vs Drafting Chair** | **Prem Behari Narain Raizada** (Calligrapher) vs **Ambedkar** (Drafting Chair) | Saying Ambedkar calligraphed the manuscript | रायज़ादा = सुलेखक |
-| **English vs Hindi Calligrapher** | **Prem Behari Narain Raizada** (English) vs **Vasant Krishan Vaidya** (Hindi) | Assuming the same person wrote both versions | अंग्रेज़ी = रायज़ादा; हिंदी = वैद्य |
+### Confused pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| GG of Bengal vs GG of India | **1773** Bengal (Hastings); **1833** India (Bentinck) | Call 1773 = GG of India | बंगाल ≠ भारत |
+| Board of Control vs Court of Directors | Board = **political**; Directors = **commercial** | Swap | बोर्ड = राजनीति |
+| Act of 1786 | GG may **overrule** Council; Cornwallis = first GG+CinC | Credit 1784 alone | 1786 ओवररूल |
+| First SC Chief Justice | **Sir Elijah Impey** | Lemaister | इम्पे |
+| ICS open competition | **Charter 1853** (implemented) | Charter 1833 (only spirit / §87) | 1853 खुली परीक्षा |
+| 1813 revenue control | Remained with **Company** for 20 years | Say Parliament took revenues in 1813 | राजस्व = कंपनी |
+| Portfolio system | Legal recognition = **1861** (practice from 1859) | 1858 / 1892 / 1909 | पोर्टफोलियो = 1861 |
+| Budget discuss vs supplementary Q | Discuss budget = **1892**; supplementary Q = **1909** | Give 1892 supplementary power | 1892 पूरक नहीं |
+| Muslim separate electorates | Begin **1909** | Communal Award 1932 as “first” | 1909 मुस्लिम |
+| Dyarchy vs Provincial Autonomy | **1919** provinces; **1935** autonomy | Swap or call both central | द्वैध / स्वायत्तता |
+| 1935 Federation / Centre Dyarchy | **Never operated** | Assume they ran like Autonomy | संघ / केंद्र द्वैध नहीं चले |
+| Residuary under 1935 | With **Viceroy / GG** | Federal Legislature | अवशिष्ट = वायसराय |
+| Residuary (Constitution source) | **Canada** | Australia | अवशिष्ट = कनाडा |
+| Concurrent List source | **Australia** | Canada | समवर्ती = ऑस्ट्रेलिया |
+| Federal Court | Began **1 Oct 1937**; first CJ **Maurice Gwyer** | Say established in 1935 alone | 1937 ग्वायर |
+| Communal Award vs Poona Pact | Award = separate for Depressed Classes; Poona = **reserved + joint** | Swap | पूना = संयुक्त |
+| Award year | **1932** | 1933 (2019 trap) | 1932 |
+| 2nd RTC attendance | Gandhi **yes**; Rajendra Prasad **no** | Prasad as Congress delegate | प्रसाद नहीं |
+| Interim date | Announced **24 Aug 1946**; office **2 Sep 1946** | Mix the two | 24 अगस्त घोषणा |
+| Adopt vs Enforce | **26 Nov 1949** / **26 Jan 1950** | Swap | अंगीकरण / प्रवर्तन |
+| B.N. Rau vs Ambedkar | Rau = **Constitutional Adviser**; Ambedkar = **Drafting Chair** | Swap titles | राऊ सलाहकार |
+| RBI creation | **RBI Act 1934**; GOI 1935 only *provided for* | “Created by GOI Act 1935 alone” | RBI = 1934 अधिनियम |
+| First Viceroy | **Lord Canning** (same man = last Company GG) | Mountbatten as first | कैनिंग पहला वायसराय |
+| First Indian GG | **C. Rajagopalachari** (1948–50) | Mountbatten | राजगोपालाचारी |
+| Chamber of Princes | **GOI Act 1919** (~120); first Chancellor **Ganga Singh** | 1909 / 1935 | नरेंद्र मंडल = 1919 |
+| Gandhi in CA | **Not a member** | List him among CA framers | गांधी सदस्य नहीं |
+| CA election method | **Indirect** (provincial assemblies; PR-STV) | Universal adult franchise at CA stage | अप्रत्यक्ष चुनाव |
+| CA idea vs formal demand | Idea = **M.N. Roy**; first formal demand = **Swaraj Party, Ranchi 1934** | Credit only Congress 1935 | स्वराज पार्टी |
+| Temporary vs permanent CA chair | Temp = **Sinha**; permanent = **Rajendra Prasad** | Swap | सिन्हा अस्थायी |
+| Temp vs permanent CA Vice-Chair | Temp Deputy = **Frank Anthony**; permanent VP = **H.C. Mukherjee** | Swap | एंथनी / मुखर्जी |
+| Minorities Sub-Committee | **H.C. Mukherjee** (Chair) | Sardar Patel as chair of this sub-committee | अल्पसंख्यक = मुखर्जी |
+| Advisory Committee | **Sardar Patel** (parent committee) | Confuse with Minorities Sub-Chair | सलाहकार = पटेल |
+| Flag Ad hoc Committee | **Rajendra Prasad** (23 June 1947) | Credit Kripalani / Ambedkar as chair | ध्वज = प्रसाद |
+| Election Commission source | **Indian original** | Say borrowed from Ireland/UK/USA | निर्वाचन आयोग स्वदेशी |
+| CA strength breakdown | **292 + 93 + 4 = 389** | Call total 296+93 only | 292+93+4 |
+| Calligrapher vs Drafting Chair | **Prem Behari Narain Raizada** (calligrapher) vs **Ambedkar** (Drafting Chair) | Say Ambedkar calligraphed the manuscript | रायज़ादा = सुलेखक |
+| English vs Hindi Calligrapher | **Prem Behari Narain Raizada** (English) vs **Vasant Krishan Vaidya** (Hindi) | Assume same person wrote both | अंग्रेज़ी = रायज़ादा; हिंदी = वैद्य |
 
 
 ---
@@ -622,3 +599,4 @@ D. IV, I, II, III
 
 **Ans: A** — First met 9 Dec 1946 (I) → Drafting Committee appointed 29 Aug 1947 (II) → Constitution adopted 26 Nov 1949 (III) → Commencement 26 Jan 1950 (IV).
 </details>
+

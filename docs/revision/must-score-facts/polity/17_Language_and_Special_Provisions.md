@@ -13,49 +13,53 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **2025** — Bhojpuri **not** in 8th; Nepali/Dogri/Bodo **are**.
-2. **2024** — 350B ≠ per State; ≠ 9th Amd; classical = **11** (3 Oct Cabinet); J&K Assembly polls; Ladakh (लद्दाख) 6th-Schedule demand pending.
-3. **2023** — English initially **15 years**; OL = Part **XVII**; SC upholds 370 orders; Part X = Scheduled/Tribal Areas.
-4. **2011** — 96th: Oriya → **Odia**.
-5. **1987** — **58th / 394A** Hindi authoritative text.
-6. **1949** — Hindi Diwas **14 Sep** (Munshi–Ayyangar).
-7. **2019** — 370 inoperative; J&K + Ladakh UTs **31 Oct**.
-8. **2020** — 371J = Hyderabad-Karnataka.
-9. **2022** — PESA year **1996**.
-10. **Bhojpuri, English, Rajasthani, Tulu, and Khasi (खासी)** are **not** in the Eighth Schedule. Being in the Eighth Schedule does **not** make a language the Union official language.
-11. **343(1)** — Union OL = **Hindi in Devanagari**. Numerals = **international form of Indian numerals** (not Devanagari digits as the default).
-12. **343(2)** — English **may continue** for Union official purposes for **15 years** from commencement → clock in the text = **26 Jan 1965**.
-13. **343(3)** — Parliament **may** provide for English (and/or Hindi) **even after** 15 years — hook for the 1963 Act.
-14. **344** — Official Language Commission — see card below.
-15. **345** — State legislature **may** adopt **one or more** languages in use in the State **or Hindi** as the State OL. Until then, English continues in the State.
-16. **346** — official language for **Union–State** and **inter-State** communication. Two States may agree to use Hindi between them.
-17. **347** — if a demand is made, **President** may direct that a language spoken by a **section** of a State’s population be officially recognised **throughout or in part of** that State.
-18. **348(1)** — **SC, every HC, Bills, Acts, ordinances, orders, by-laws** — **English**, until Parliament otherwise provides.
-19. **348(2)** — **Governor**, with **President’s consent**, may authorise Hindi or a State OL in the **High Court** (not automatically in the SC).
-20. **348(3)** — State may use its OL for Bills/Acts, but an **English translation** published in the Gazette is the **authoritative** text.
-21. **349** — during the first **15 years**, a Bill touching 348 needs **President’s prior sanction** after he has considered the **344** report.
-22. **350** — any person may submit a **representation for redress** to any Union or State authority in **any language used in the Union or the State**.
-23. **350A** — **7th Amd (1956)**. States / local authorities to endeavour **mother-tongue** instruction at the **primary** stage for linguistic-minority children. President **may direct**.
-24. **350B** — **7th Amd**. **One** Special Officer **for India** (not per State) — card below.
-25. **351** — Union’s **duty** to **promote Hindi**, so it becomes a medium of expression for India’s **composite culture**; draw from Hindustani (हिंदुस्तानी) and the **8th Schedule** (without interfering with other languages).
-26. **Ordinary law** — **343(3)** continue English · **120** language of Parliament · **210** State legislature · **348** language of SC/HC/Acts. **Simple** majority — **not** a 368 Bill. This is the usual UPPCS key.
-27. **Constitution Amd** — changing the **text of 343/344/351**. **368 special** (total membership (सदन की कुल सदस्य संख्या का) + 2/3 P&V). **Not** on the State-ratification list.
-28. **120** — business of Parliament in **Hindi or English**. A member who cannot may speak her **mother tongue** with the Speaker’s / Chairman’s permission. Parliament **may by law** otherwise provide.
-29. **210** — same scheme for a **State legislature** (Hindi / official language of the State / English).
-30. **English may continue** in addition to Hindi for Union official purposes and for Parliament **indefinitely** — no new 15-year bomb.
-31. **s.4 Committee (1976)** — **Committee of Parliament on Official Language**: **30** (20 LS + 10 RS), chaired by the **Union Home Minister**. Standing. **≠** the 344 Commission.
-32. **Department of Official Language**, **MHA**, created **June 1975**.
-33. **Region A** — UP, Bihar, MP, Rajasthan, Haryana, HP, Uttarakhand (उत्तराखंड), Chhattisgarh, Jharkhand, Delhi, A&N. A→A **in Hindi**.
-34. **Region B** — Gujarat, Maharashtra, Punjab, Chandigarh, DNH & DD, **Goa**. Hindi **or** English; Hindi replies expected.
-35. **Region C** — all other States/UTs (South, East, NE). English; Hindi optional.
+1. **Part XVII (Articles 343–351)** of the Constitution deals with the **Official Language**; divided into 4 chapters: Ch. 1 Language of the Union (343–344), Ch. 2 Regional Languages (345–347), Ch. 3 Language of the Supreme Court and High Courts (348–349), and Ch. 4 Special Directives (350–351).
+2. **No National Language:** The Constitution of India **DOES NOT declare any National Language** (*Rashtrabhasha*); it provides only for the **Official Language of the Union** (*Rajbhasha*).
+3. **Official Language of the Union (Article 343(1)):** Mandates that the official language of the Union shall be **Hindi in Devanagari script**; the form of numerals to be used for the official purposes of the Union shall be the **international form of Indian numerals** (1, 2, 3...).
+4. English Continuation Provision (Article 343(2)): Provided that for a period of **15 years from 26 January 1950 (up to 26 January 1965)**, English would continue to be used for all official purposes of the Union for which it was being used before; Article 343(3) empowered Parliament to provide by law for continued use of English after 15 years.
+5. **Official Languages Act, 1963 (amended 1967):** Enacted to provide that the English language **'may' continue to be used in addition to Hindi** for all official purposes of the Union and for transaction of business in Parliament indefinitely (bilingual policy); mandated Hindi and English for resolutions, rules, contracts, and reports.
+6. **Official Language Commission (Article 344(1)):** The President constitutes an Official Language Commission at the expiration of 5 years from 1950, and again at the expiration of 10 years; the **First Official Language Commission was appointed in 1955 chaired by B.G. Kher** (submitted report in 1956).
+7. **Committee of Parliament on Official Language (Article 344(4)):** Constituted to examine recommendations of the Kher Commission; consists of **30 members (20 from Lok Sabha + 10 from Rajya Sabha)** elected by PR-STV; by convention, chaired by the **Union Home Minister**.
+8. Language of State Administration (**Article 345**): The Legislature of a State may by law adopt **any one or more of the languages in use in the State or Hindi** as the language(s) to be used for all or any of the official purposes of that State; until the State legislature so provides, English continues.
+9. Language of Inter-State Communication (**Article 346**): The language authorized for official purposes of the Union (Hindi/English) is the language for communication between one State and another, and between a State and the Union; two or more States may agree to use Hindi among themselves.
+10. Language of Supreme Court and High Courts (**Article 348**): Until Parliament by law otherwise provides, **all proceedings in the Supreme Court and in every High Court, and all authoritative texts of Bills, Acts, Ordinances, and Rules, SHALL BE IN THE ENGLISH LANGUAGE**.
+11. Hindi in High Courts (Article 348(2)): The **Governor of a State can, with the PREVIOUS CONSENT OF THE PRESIDENT**, authorize the use of Hindi or the official language of the State in proceedings of the High Court (except for judgments, decrees, and orders which must remain in English); utilized in High Courts of **Uttar Pradesh (Allahabad HC), Bihar, MP, and Rajasthan**.
+12. Special Directives — Redressal of Grievance (**Article 350**): Every person is entitled to submit a representation for the redress of any grievance to any officer or authority of the Union or a State in **any of the languages used in the Union or in the State** (cannot be rejected on grounds of language).
+13. **Instruction in Mother Tongue (Article 350A):** Inserted by the **7th Amendment Act, 1956**; directs every State and local authority to endeavor to provide adequate facilities for **instruction in the mother tongue at the primary stage of education to children belonging to linguistic minority groups**; President may issue necessary directions to any State.
+14. **Special Officer for Linguistic Minorities (Article 350B):** Inserted by the **7th Amendment Act, 1956**; appointed by the **President**; investigates all matters relating to safeguards provided for linguistic minorities; submits reports to President; designated as the **Commissioner for Linguistic Minorities** with headquarters at **Prayagraj (Allahabad)**.
+15. **Development of Hindi (Article 351):** Sets a constitutional duty on the Union to promote the spread of the Hindi language, develop it so that it serves as a medium of expression for all elements of the composite culture of India, drawing its vocabulary primarily from **Sanskrit** and secondarily from other languages.
+16. **Classical Languages of India:** Government of India instituted criteria for Classical Language status in 2004 (high antiquity of early texts over 1,500–2,000 years, valuable heritage, original literary tradition).
+17. Chronology of Classical Languages: (1) **Tamil (2004)**; (2) **Sanskrit (2005)**; (3) **Telugu (2008)**; (4) **Kannada (2008)**; (5) **Malayalam (2013)**; (6) **Odia (2014)**; in **October 2024**, Union Cabinet approved Classical status for **5 new languages**: (7) **Marathi**, (8) **Pali**, (9) **Prakrit**, (10) **Assamese**, and (11) **Bengali** (taking total to **11 Classical Languages**).
+18. **Eighth Schedule Language Additions Evolution:** Originally 14 languages in 1950; **Sindhi** added by 21st Amendment, 1967; **Konkani, Manipuri, and Nepali (KMN)** added by 71st Amendment, 1992; **Bodo, Dogri, Maithili, and Santhali (BDMS)** added by 92nd Amendment, 2003; total is **22 languages**; *neither English nor Bhojpuri is in the 8th Schedule*.
+19. **Special Provisions for States (Part XXI, Articles 371 to 371-J):** Enacted to meet regional aspirations, protect tribal customary laws, and address regional developmental disparities through asymmetric federalism.
+20. **Article 371 (Maharashtra and Gujarat):** Authorizes the President to direct Governors to establish separate development boards for **Vidarbha, Marathwada, and the rest of Maharashtra**, and for **Saurashtra, Kutch, and the rest of Gujarat**.
+21. **Article 371A (Nagaland):** Inserted by 13th Amd 1962 following 16-point agreement; **no Act of Parliament** relating to: (1) religious or social practices of Nagas; (2) Naga customary law; (3) ownership/transfer of land; applies to Nagaland unless the **State Legislative Assembly so decides by a resolution**; Governor has special responsibility for law and order.
+22. **Article 371B (Assam):** Inserted by 22nd Amd 1969; provides for a Committee of the Assam Legislative Assembly consisting of members elected from the tribal areas of Assam.
+23. **Article 371C (Manipur):** Inserted by 27th Amd 1971; provides for a Committee of Manipur Assembly consisting of members elected from the **Hill Areas** of Manipur; Governor submits annual reports to President.
+24. **Article 371D & 371E (Andhra Pradesh & Telangana):** Inserted by 32nd Amd 1973 (extended to Telangana in 2014); provides equitable opportunities in education and public employment across distinct regions (Rayalaseema, Coastal Andhra, Telangana); Art. 371E authorizes Parliament to establish a **Central University in Andhra Pradesh**.
+25. **Article 371F (Sikkim):** Inserted by **36th Amendment Act, 1975** upon admission of Sikkim; Legislative Assembly of Sikkim consists of not less than **32 members**; special protection for rights and interests of different sections of Sikkim's population.
+26. **Article 371G (Mizoram):** Inserted by 53rd Amd 1986 following Mizo Accord; parliamentary acts regarding religious/social practices of Mizos, customary law, and land transfer apply only if **State Legislative Assembly passes a resolution**; Assembly has minimum **40 members**.
+27. **Article 371H (Arunachal Pradesh):** Inserted by 55th Amd 1986; Governor has **special responsibility with respect to law and order** in Arunachal Pradesh (acting in his individual judgment); Assembly has minimum **30 members**.
+28. **Article 371-I (Goa):** Inserted by 56th Amd 1987; provides that the Legislative Assembly of Goa shall consist of **not less than 40 members**.
+29. **Article 371-J (Karnataka):** Inserted by **98th Amendment Act, 2012**; provides special provisions for **Hyderabad-Karnataka region** (6 backward districts: Bellary, Bidar, Gulbarga, Koppal, Raichur, Yadgir; renamed Kalyana-Karnataka); establishes a separate development board and quota in regional educational institutions and state government jobs.
+30. **Article 370 Abrogation (August 2019):** Constitution (Application to Jammu and Kashmir) Order, 2019 (C.O. 272 and C.O. 273) issued under Article 370(1) and 370(3) rendered all clauses of **Article 370 inoperative**, applying all provisions of the Indian Constitution to J&K uniformly; upheld by a 5-judge bench of the Supreme Court in December 2023.
+31. Mnemonic for Articles 371 to 371J: **NAMASMAGK** (371A Nagaland, 371B Assam, 371C Manipur, 371D Andhra, 371F Sikkim, 371G Mizoram, 371H Arunachal, 371-I Goa, 371-J Karnataka).
+32. **Section 3(3) of Official Languages Act, 1963:** Mandates the **compulsory use of both Hindi and English** for resolutions, general orders, rules, notifications, administrative reports, press communiques, contracts, agreements, licenses, permits, and tender notices issued by the Central Government.
+33. **Department of Official Language:** Created in **June 1975** as an independent department under the **Ministry of Home Affairs** to ensure compliance with constitutional and statutory provisions regarding official language.
+34. **Kendriya Hindi Samiti (Central Hindi Committee):** Apex policy-making body for promotion and progressive use of Hindi; constituted in **1967**; chaired by the **Prime Minister of India**; includes key Union Cabinet ministers and Chief Ministers.
+35. Official Language Rules, 1976 (Regions A, B, C): Categorizes India into 3 linguistic regions for official communication: **Region A** (Hindi speaking: UP, MP, Bihar, Rajasthan, Haryana, HP, Uttarakhand, Jharkhand, CG, Delhi); **Region B** (Punjab, Gujarat, Maharashtra, Chandigarh); **Region C** (all other southern and north-eastern States).
+36. Language in State Assemblies (**Article 210**): Business in State Legislature transacted in official language(s) of State, or Hindi, or English; Presiding Officer may permit any member unable to express himself in these languages to address the House in his mother tongue.
+37. **Article 347 (Special Provision relating to language spoken by a section of population):** On a demand made, the **President may**, if satisfied that a substantial proportion of population of a State desires the use of any language spoken by them, direct that such language **shall also be officially recognized throughout that State or any part thereof**.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Confused pairs
+
+| Term A | Term B | Core Difference | Hindi Terminology |
+|--------|--------|-----------------|-------------------|
 | **Official language (Union)** | **National language** | Hindi in Devanagari (**343**). Constitution **never** names a national language | राजभाषा (संघ) / राष्ट्रभाषा |
 | **8th Schedule** | **Classical language** | Constitutional **list of 22**. Executive **tag** (now **11**) — overlap is **not** 1:1 | 8वीं अनुसूची / शास्त्रीय भाषा |
 | **343 English clock** | **OL Act 1963/67** | Text said **15 years**. Statute keeps English **with** Hindi, no sunset | 15-वर्षीय सीमा / राजभाषा अधिनियम 1963 |
@@ -347,3 +351,4 @@ D. Article 351
 **Ans: C. Article 350A. It was inserted by the Seventh Amendment Act, 1956.**
 
 </details>
+

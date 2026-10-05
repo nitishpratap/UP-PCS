@@ -58,7 +58,7 @@ hide:
   <div class="rev-row-main">
     <a href="02_Features_of_the_Constitution/" class="rev-row-link">Topic 2 — Features of the Constitution</a>
     <div class="rev-row-meta">
-      <span class="rev-pill rev-pill-qs">⚡ 30 MCQs</span>
+      <span class="rev-pill rev-pill-qs">⚡ 15 MCQs</span>
       <span class="rev-pill rev-pill-gate">80% Pass Gate</span>
     </div>
   </div>

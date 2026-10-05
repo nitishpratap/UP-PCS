@@ -13,41 +13,52 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **2024:** 352 Assertion–Reason; Financial Emergency matched to **360** (direct PYQ).
-2. **1978:44th Amendment** rewrite — every 352 / 358 / 359 question.
-3. **1994:** *Bommai* — 356 is justiciable.
-4. **1975–77:** Internal Emergency — why the 44th exists.
-5. **Never:** Art. **360** (“Which has never been used?”).
-6. **1977–78:** Shah Commission on 1975 excesses.
-7. **1992:** UP President’s Rule after Babri (Leading state).
-8. **President’s Rule** uses **Article 356** (अनुच्छेद 356), linked to the Union’s duty under **355** and the directions-gateway under **365**. Parliamentary approval is needed within **two months** by **simple majority** in both Houses.
-9. **Financial Emergency (360)** is for a threat to India’s financial stability or credit. It has **never been used**. Approval window is **two months** by simple majority; it then continues until revoked — there is **no** six-month renewal clock like 352/356.
-10. **Martial law** is military control in a locality, with indemnity possible under **Article 34**. It is **not** a substitute for National Emergency. Under 352 the civilian Constitution continues with emergency overlays.
-11. **Article 355** is the Union’s **duty** to protect States against external aggression and internal disturbance and to ensure that State government runs with the Constitution. **356** is the **proclamation** that takes over when that machinery fails.
-12. **Art. 353:** The Union may give **directions** to States on any matter, and Parliament may make laws as if the matter were on the **Union List** (संघ सूची).
-13. **353 proviso (44th):** If 352 is confined to a **part** of India, directions or laws for **other** States are allowed only as required for that Emergency.
-14. **Art. 354:** The President may modify **revenue distribution** (Arts. 268–279) while 352 is on; the order is laid in Parliament.
-15. **Art. 250:** Parliament’s **State-List** power for the emergency area; the law dies **six months** after 352 ends.
-16. **Art. 251:** If a Union law under 249/250 clashes with a State law, the **Union law prevails** for the clash.
-17. **1962** was the China war — an external Emergency.
-18. **1971** was the Pakistan war — an external Emergency; it overlapped with 1975 for a time.
-19. **1975–77** was proclaimed on “internal disturbance” and ran from **25 June 1975 to 21 March 1977** (about 21 months).
-20. **MISA** (Maintenance of Internal Security Act) was the detention statute of the 1975 Emergency — name it; do not turn this into a police manual.
-21. **Art. 355** is the Union’s duty: protect every State against external aggression and internal disturbance, **and** ensure government is carried on as the Constitution provides.
-22. **Art. 365** is the gateway: if a State **fails to comply** with Union directions, the President **may** hold that 356 is attracted.
-23. **Sarkaria** (सरकारिया आयोग) said: keep 356, use it as a **last resort**, insist on a floor test, and put **material facts** in the proclamation.
-24. **Punchhi** said: **localise** 356 (district, not whole State) where possible, and use **355** first.
-25. **Rajamannar** said: **repeal** 356.
-26. **Secularism** is a basic feature; anti-secular State action can justify 356.
-27. **All** State Money Bills and other financial Bills are **reserved** for the President.
+1. **Part XVIII (Articles 352–360)** of the Constitution contains the Emergency Provisions, designed to enable the Union government to meet grave threats to national security, constitutional machinery, or financial stability; converts the federal structure into a **unitary system without formal constitutional amendment**.
+2. Three Types of Emergencies: (1) **National Emergency (Article 352)**; (2) **President's Rule / State Emergency (Article 356)**; (3) **Financial Emergency (Article 360)**.
+3. Emergency framework borrowing: The administrative machinery and distribution of emergency powers are drawn from the **Government of India Act, 1935**, while the provision for **suspension of Fundamental Rights during emergency** was borrowed from the **Weimar Constitution of Germany**.
+4. **National Emergency (Article 352):** Proclaimed by the President when the security of India or any part thereof is threatened by **War, External Aggression, or Armed Rebellion**; can be declared for the whole of India or a specific geographical part (42nd Amd 1976).
+5. External vs Internal Emergency: An emergency declared on grounds of **War or External Aggression** is termed **'External Emergency'**; an emergency declared on the ground of **Armed Rebellion** is termed **'Internal Emergency'**.
+6. 44th Amendment Safeguard — Armed Rebellion: Originally, the third ground was **'Internal Disturbance'**; the **44th Constitutional Amendment Act, 1978** substituted **'Armed Rebellion'** for 'Internal Disturbance' to prevent arbitrary political misuse as occurred in June 1975.
+7. 44th Amendment Safeguard — Written Cabinet Advice: Under **Article 352(3)** (inserted by 44th Amd), the President can issue a proclamation of emergency **ONLY upon the written recommendation of the Union Cabinet** (Prime Minister + other Ministers of Cabinet rank under Art. 75), not on the oral advice of the Prime Minister alone.
+8. Parliamentary Approval for Article 352: Must be approved by **both Houses of Parliament within 1 MONTH** from date of issue (shortened from 2 months by 44th Amd); if Lok Sabha is dissolved, approved by Rajya Sabha within 1 month and then by Lok Sabha within **30 days** of its first sitting.
+9. Majority Required for Approval: Must be approved by a **Special Majority** in each House (majority of total membership + not less than **2/3rd of members present and voting**; 44th Amd replaced simple majority).
+10. Duration and Renewal: Once approved, remains in force for **6 months**; can be extended indefinitely for successive periods of **6 months at a time**, with each extension requiring a fresh resolution passed by special majority.
+11. Revocation of National Emergency (**Article 352(7) & (8)**): Can be revoked by President at any time by subsequent proclamation (does not require parliamentary approval); **Mandatory Disapproval**: The Lok Sabha can pass a resolution disapproving the continuation of emergency by a **Simple Majority**; if **1/10th of total Lok Sabha members** give written notice to the Speaker (or President if House not in session), a special sitting of Lok Sabha must be held within **14 days** to consider disapproval.
+12. Historical Invocations of Article 352: Declared **3 times**: (1) **October 1962** (Chinese aggression in NEFA, revoked Jan 1968); (2) **December 1971** (Indo-Pak War, Bangladesh liberation); (3) **25 June 1975** (declared on grounds of 'Internal Disturbance' by President Fakhruddin Ali Ahmed on Indira Gandhi's advice; both 1971 and 1975 emergencies revoked in March 1977).
+13. Effects on Centre-State Relations: Executive power of Union extends to giving executive directions to any State on any matter (**Art. 353(a)**); Parliament is empowered to make laws on any subject in the **State List (Article 250)** (State Legislature is NOT suspended, but concurrent parliamentary dominance applies); laws made by Parliament on State List lapse **6 months** after emergency ceases.
+14. Effect on Fundamental Rights — Article 358: Automatically suspends the **Six Democratic Freedoms guaranteed under Article 19**; operates **ONLY during an External Emergency** (War or External Aggression); under 44th Amendment, **Article 19 CANNOT be suspended during an emergency declared on grounds of Armed Rebellion**.
+15. Effect on Fundamental Rights — Article 359: Empowers the President by order to suspend the **right to move any court for the enforcement of specified Fundamental Rights** (the rights themselves are not suspended, only their legal remedy is suspended); applies to both external and internal emergency.
+16. Inviolable Rights under Article 359: The **44th Amendment Act, 1978** amended Article 359 to stipulate that the President **CANNOT suspend the right to enforce Articles 20 and 21 under any circumstances**; right to protection in respect of conviction for offences (Art. 20) and right to life and personal liberty (Art. 21) remain fully enforceable even during National Emergency (overruling the infamous ***ADM Jabalpur v. Shivkant Shukla 1976 - Habeas Corpus case***).
+17. **President's Rule / State Emergency (Article 356):** Imposed by the President on receipt of a report from the **Governor** of a State or otherwise, when satisfied that a situation has arisen in which the **government of the State cannot be carried on in accordance with the provisions of the Constitution**.
+18. **Article 365 as Ground for President's Rule:** Where any State fails to comply with or give effect to any direction given by the Union in exercise of its executive power, it shall be lawful for the President to hold that a situation has arisen under which the State government cannot be carried on in accordance with the Constitution.
+19. Parliamentary Approval for Article 356: Must be approved by **both Houses of Parliament within 2 MONTHS** from the date of issue; requires only a **Simple Majority** of members present and voting in each House.
+20. Duration of Article 356: Once approved, continues for **6 months**; can be extended for a maximum period of **3 years** with parliamentary approval every 6 months.
+21. 44th Amendment 1-Year Restriction on Article 356: Beyond **1 year**, President's Rule can be extended only if **TWO conditions** are simultaneously met: (1) A proclamation of National Emergency is in operation in whole of India or part of the State; AND (2) The **Election Commission certifies** that holding general assembly elections in the State is difficult.
+22. Consequences of President's Rule: President dismisses State Council of Ministers headed by Chief Minister; Governor administers the State with Chief Secretary/advisors; President either **suspends or dissolves the State Legislative Assembly**; powers of State Legislature are declared to be exercisable by **Parliament**.
+23. Landmark Case — ***S.R. Bommai v. Union of India (1994)***: 9-judge Constitution bench established: (1) Proclamation under Article 356 is subject to **Judicial Review** on grounds of mala fides or extraneous considerations; (2) The Legislative Assembly **CANNOT BE DISSOLVED until Parliament approves the proclamation** (can only be suspended initially); (3) If court strikes down proclamation, it has power to **reactivate and restore the dissolved Assembly and Ministry**; (4) Secularism is part of the Basic Structure (state government acting against secularism can be dismissed).
+24. Historical Invocations of Article 356: First imposed in **Punjab in June 1951**; **Uttar Pradesh** has experienced President's Rule the most times (**10 times**); Manipur also 10 times; Kerala and Punjab around 9 times each; the only States that have never had President's Rule are **Chhattisgarh and Telangana** (since their formation).
+25. **Financial Emergency (Article 360):** Proclaimed by President if satisfied that a situation has arisen whereby the **financial stability or credit of India or any part thereof is threatened**; must be approved by Parliament within **2 MONTHS by Simple Majority**; remains in force indefinitely until revoked (no periodic re-approval required).
+26. Consequences of Article 360: Union executive can direct States to observe canons of financial propriety; President can direct reduction of salaries and allowances of all persons serving in the Union and States, **including Judges of the Supreme Court and High Courts**; all Money Bills and financial bills passed by State Legislatures can be reserved for President's consideration.
+27. Invocation Fact: A Financial Emergency under Article 360 **HAS NEVER BEEN DECLARED IN INDIA** so far.
+28. **President's Rule in Uttar Pradesh:** UP has been placed under President's Rule **10 times** (the highest along with Manipur); first imposed in UP in **February 1968** under Governor B. Gopala Reddy; longest stretch was from October 1995 to March 1997.
+29. **S.R. Bommai Bench Strict Tests (1994):** The Supreme Court laid down 6 negative tests where Article 356 CANNOT be used: (1) Where a ministry resigns or is dismissed and Governor does not explore alternative ministry; (2) Where Governor unilaterally assesses majority without a **Floor Test** in the Assembly; (3) Where ruling party suffers defeat in Lok Sabha elections; (4) Internal disturbances not amounting to complete paralysis; (5) Severe corruption allegations; (6) Financial difficulties.
+30. Floor Test Primacy: In *S.R. Bommai*, SC established that the **Floor of the Assembly is the ONLY forum** for testing the majority of the Ministry, not the subjective opinion of the Governor.
+31. **Article 355 Duty of the Union:** 'It shall be the duty of the Union to protect every State against external aggression and internal disturbance and to ensure that the government of every State is carried on in accordance with the provisions of this Constitution'; acts as the constitutional justification for invoking Articles 352 and 356.
+32. Difference between Articles 358 and 359: Article 358 automatically suspends **Article 19** throughout India without Presidential order (only during external emergency); Article 359 requires a **Presidential Order**, does not suspend the rights themselves but only their legal enforcement, applies to specified FRs (excluding 20 & 21), and can apply to the whole or part of India.
+33. Impact of National Emergency on Lok Sabha Life: Under Article 83(2) proviso, Parliament can by law extend the 5-year life of the **Lok Sabha for 1 year at a time**, for an unlimited number of times, but cannot extend beyond **6 months** after the emergency has ceased; the 5th Lok Sabha (1971–1977) was extended twice.
+34. Impact on State Legislative Assembly Life: Under Article 172(1) proviso, Parliament can similarly extend the normal term of any **State Legislative Assembly for 1 year at a time** during a National Emergency.
+35. Fundamental Rights in Financial Emergency: Under Article 360, **NO Fundamental Rights are suspended**; the executive only acquires powers over financial allocations and salary cuts.
+36. Judicial Review of Emergency Proclamations: The 38th Amendment (1975) made President's satisfaction final and non-justiciable; the **44th Amendment (1978) deleted this clause**; in ***Minerva Mills (1980)*** and ***S.R. Bommai (1994)***, SC established that both National Emergency and President's Rule are **subject to judicial review** on grounds of mala fides or irrationality.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Confused pairs
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
 | **352** | **356** | National / security | State constitutional machinery |
 | **352** | **360** | War / aggression / rebellion | Financial stability / credit |
 | **358** | **359** | Art. **19** auto (war/external only) | Other FRs by **order**; not **20 & 21** |
@@ -344,3 +355,4 @@ D. writing by the Council of Ministers including Ministers of State
 **Ans: C. Writing by the Union Cabinet under Article 352(3).**
 
 </details>
+

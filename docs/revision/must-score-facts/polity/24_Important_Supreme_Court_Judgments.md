@@ -13,49 +13,46 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **1950** *Gopalan* → **1951** *Shankari* / 1st Amd → **1960** *Berubari* / 9th Amd → **1965** *Sajjan* → **1967** *Golaknath* → **1971** 24th Amd → **24 Apr 1973** *Kesavananda* (13-j **7:6**)
-2. **1975** *Indira Gandhi* / 39th → **1976** *Jabalpur* / 42nd → **1978** *Maneka* / 44th → **1980** *Minerva* → **1981** *Waman Rao* + First Judges → **1986** *Mehta* Oleum
-3. **1992** *Sawhney* + *Kihoto* → **1993** Second Judges (CJI+**2**) → **1994** *Bommai* → **1997** *Vishaka* → **1998** Third Judges (CJI+**4** / HC CJI+**2**)
-4. **2006** *Rameshwar Prasad* → **2007** *Coelho* → **2013** *Lily Thomas* → **2015** *Shreya* + NJAC **4:1** → **2016** *Nabam Rebia* → **2017** *Puttaswamy* → **2018** *Navtej* + *Joseph Shine*
-5. **Bench:** 6-judge. **H.J. Kania** CJ. **Fazl Ali** dissent
-6. **Fazl Ali:** 19 and 21 should be read **together**; procedure must be reasonable
-7. **Severability:** s.14 of the PD Act (barred the court from seeing the grounds of detention) was **struck**; the rest of the Act **stood**
-8. **Later:** the silo / “any procedure” reading (रीडिंग) is replaced by ***Maneka* 1978**. The need for a **valid law** remains
-9. **Art. 15(4)** — special provision for socially and educationally backward classes + SC/ST. Direct reply to *State of Madras vs Champakam Dorairajan* (1951), which had struck a caste-based admissions GO as violating 15/29
-10. **Art. 19(2)** — added three more grounds to restrict speech: **public order**, **friendly relations with foreign States**, **incitement to an offence**
-11. **Art. 19(6)** — a State monopoly / nationalisation is a **reasonable restriction** on 19(1)(g)
-12. **Arts. 31A, 31B + 9th Schedule** — agrarian-reform / “estate” laws **listed in the 9th Schedule** cannot be declared void for violating Fundamental Rights. The Schedule started with **13 ActsPetitioner’s argument:** Art. **13(2)** says the State shall not make any “**law**” that takes away a Fundamental Right. A constitutional amendment is a law. The 1st Amd abridges Part III. Therefore it is void.
-13. **Bench:** 5-judge. **Patanjali (योग) Sastri**
-14. **Bench:** 5-judge. **Gajendragadkar** CJ
-15. **Mudholkar J.:** separate opinion — does the Constitution have “**basic features**” that even 368 cannot destroy? (He points to the idea; he does **not** strike the 17th)
-16. **Hidayatullah J.:** also doubts *Shankari* on 13 vs 368
-17. **Bench:11-judge**. **K. Subba Rao** CJ. Majority **6:5**
-18. **Prospective overruling:** first major Indian use. The new rule applies only to **future** amendments. The **1st and 17th Amendments already made remain valid** — so the Punjab laws in the 9th Schedule **stood**
-19. **No court shall question** whether the law really gives effect to 39(b) or (c)
-20. **Overrules** *Golaknath* on “FR cannot be amended”
-21. **24th Amd upheld** — the power to amend FR exists — and is then **capped** by basic structure
-22. **25th Amd / 31C:** limb 1 (39(b)(c) shield from 14/19) **valid**. Limb 2 (no judicial review) **struck**
-23. **29th Amd** itself **upheld**; a law sitting in the 9th Schedule can still be tested against **basic structure**
-24. **Preamble is part** of the Constitution (*Berubari* 1960 had said it is not). It can be amended, but not so as to destroy basic structure
-25. **Sikri’s list** (not a closed Article): supremacy of the Constitution · republican and democratic form of government · **secular** character · separation of powers · **federal** character
-26. **24 April 1973** is later used as the 9th-Schedule cut-off (*Waman Rao*, *Coelho*)
-27. **26 April 1973:A.N. Ray** is appointed CJI, superseding Shelat, Grover and Hegde (judges on the *Kesavananda* majority side)
-28. **Bench:** 5-judge. **A.N. Ray** CJ
-29. **Features named here:democracy** · **free and fair elections** · **rule of law** · **judicial review**
-30. **Bench:** 5-judge. Majority **4:1**. Majority: **Ray, Beg, Chandrachud, Bhagwati**
-31. **Khanna:** Art. 21 is not the *source* of the right to life; even without 21 the State cannot kill or detain except under the **authority of law**
-32. **44th Amendment, 1978:** Art. 359 rewritten — the right to move a court for Arts. **20 and 21 cannot be suspended**
-33. ***Puttaswamy* (2017):** 9-judge — the *Jabalpur* majority was **wrongly decided**; Khanna was right
-34. **Bench:7-judge**. **M.H. Beg** CJ. The opinion you mark is **P.N. Bhagwati**
-35. **Bench:Y.V. Chandrachud** CJ. Majority **4:1** (Bhagwati partly apart)
+1. ***A.K. Gopalan v. State of Madras (1950)***: The Supreme Court took a narrow, literal view of **Article 21**, holding that 'procedure established by law' means law enacted by the legislature, and courts cannot judge whether the law is reasonable or fair; held that Articles 19 and 21 are mutually exclusive compartmentalized silos.
+2. ***State of Madras v. Champakam Dorairajan (1951)***: Struck down caste-based communal reservations in medical/engineering colleges as violative of Article 15(1); held that Fundamental Rights prevail over Directive Principles; led directly to the enactment of the **1st Constitutional Amendment Act, 1951 (inserting Article 15(4))**.
+3. ***Re: Berubari Union Case (1960)***: 8-judge bench held that: (1) The Preamble is **NOT a part of the Constitution**; (2) Parliament's power under **Article 3 does NOT include the power to cede Indian territory** to a foreign country; cession can only be effected by an Amendment under **Article 368** (leading to 9th Amendment Act, 1960).
+4. ***Golaknath v. State of Punjab (1967)***: 11-judge bench ruled (6:5) that **Fundamental Rights are given a transcendental and inviolable position** and Parliament **CANNOT amend Part III** to abridge or take away Fundamental Rights; applied the doctrine of **'Prospective Overruling'**; led to the 24th Amendment Act, 1971.
+5. ***Kesavananda Bharati v. State of Kerala (24 April 1973)***: The most famous judgment in Indian constitutional history; 13-judge bench ruled (7:6) that: (1) Overruled Golaknath and upheld Parliament's power to amend any part of the Constitution; (2) Propounded the **Basic Structure Doctrine** — Parliament cannot alter the basic features or framework of the Constitution; (3) Overruled Berubari, holding that the **Preamble IS AN INTEGRAL PART of the Constitution** and can be amended under Article 368 without altering the basic structure.
+6. ***Indira Nehru Gandhi v. Raj Narain (1975)***: The Supreme Court struck down **Clause (4) of Article 329A** (inserted by 39th Amendment, 1975 to insulate the election of the Prime Minister from judicial review) as violative of the **Basic Structure**; held that **Free and Fair Elections, Rule of Law, and Judicial Review** are basic features.
+7. ***ADM Jabalpur v. Shivkant Shukla (1976 - Habeas Corpus Case)***: 5-judge bench ruled (4:1) that during a proclamation of Emergency under Article 352, no person has locus standi to move any writ petition under Article 226 for Habeas Corpus to challenge illegal detention; **Justice H.R. Khanna delivered the heroic sole dissent**, upholding personal liberty; overturned by 44th Amendment and formally declared perverse and overruled in *Puttaswamy (2017)*.
+8. ***Maneka Gandhi v. Union of India (1978)***: Completely overruled the narrow Gopalan doctrine; established that: (1) Procedure under Article 21 must be **'just, fair, and reasonable'** (reading American **'Due Process of Law'** into Article 21); (2) Articles 14, 19, and 21 are not separate silos but form a connected **'Golden Triangle'** (a law depriving personal liberty under Art. 21 must also satisfy the tests of Arts. 14 and 19).
+9. ***Minerva Mills v. Union of India (1980)***: Struck down Section 4 and Section 55 of the 42nd Amendment Act; held that: (1) A limited amending power is itself a basic feature; (2) The Indian Constitution is founded on the bedrock of the **balance between Part III and Part IV**; to give absolute primacy to one over the other is to destroy the harmony of the Constitution.
+10. ***Mohd. Ahmed Khan v. Shah Bano Begum (1985)***: SC ruled that Section 125 of CrPC (maintenance for divorced wives) applies to Muslim women as well, irrespective of personal law; urged the implementation of a **Uniform Civil Code under Article 44**; prompted the Rajiv Gandhi government to pass the Muslim Women (Protection of Rights on Divorce) Act, 1986.
+11. ***Indira Sawhney v. Union of India (1992 - Mandal Case)***: 9-judge bench: (1) Upheld 27% reservation for OBCs in public employment; (2) Struck down 10% economic reservation for poor among forward castes (later introduced via 103rd Amd); (3) Introduced the **'Creamy Layer' exclusion** for OBCs; (4) Ruled that **total reservations CANNOT EXCEED 50%**, except in extraordinary circumstances; (5) Held that reservations cannot be granted in **promotions** (countered by 77th Amd).
+12. ***S.R. Bommai v. Union of India (1994)***: 9-judge bench on Article 356: (1) Proclamation of President's Rule is subject to **Judicial Review**; (2) The Assembly cannot be dissolved until Parliament approves the proclamation; (3) **Floor Test** is the only constitutional forum to prove majority; (4) **Secularism is part of the Basic Structure**.
+13. ***Vishaka v. State of Rajasthan (1997)***: Laid down the **Vishaka Guidelines** to prevent sexual harassment of women at the workplace under Articles 14, 19(1)(g), and 21, drawing upon the CEDAW convention; culminated in the **PoSH Act, 2013**.
+14. ***I.R. Coelho v. State of Tamil Nadu (2007 - Ninth Schedule Case)***: 9-judge bench ruled that there can be no blanket immunity from judicial review for laws in the Ninth Schedule; any law placed in the **Ninth Schedule after 24 April 1973** (Kesavananda judgment date) is **open to judicial review** if it violates Fundamental Rights or damages the Basic Structure.
+15. ***Lily Thomas v. Union of India (2013)***: Struck down Section 8(4) of RPA 1951; sitting MPs/MLAs convicted for offences with imprisonment of **2 or more years are IMMEDIATELY DISQUALIFIED** without any 3-month protection.
+16. ***PUCL v. Union of India (2013 - NOTA Case)***: Directed ECI to introduce **'None of the Above' (NOTA)** option in EVMs to protect the secrecy of a voter's choice to cast a negative vote under Article 19(1)(a).
+17. ***National Legal Services Authority (NALSA) v. Union of India (2014)***: Recognized **Transgender Persons as a 'Third Gender'**; affirmed their fundamental rights under Articles 14, 15, 19(1)(a), and 21.
+18. ***Supreme Court Advocates-on-Record Association v. Union of India (2015 - NJAC Case)***: Struck down the **99th Constitutional Amendment Act, 2014 and the NJAC Act** as unconstitutional; restored the Collegium system, holding that the primacy of the judiciary in judicial appointments is a facet of the **Independence of Judiciary (Basic Structure)**.
+19. ***Shayara Bano v. Union of India (2017 - Triple Talaq Case)***: 5-judge bench declared the practice of **Talaq-e-Biddat (instantaneous triple talaq) unconstitutional and void** by 3:2 majority, holding it manifestly arbitrary under Article 14.
+20. ***Justice K.S. Puttaswamy (Retd.) v. Union of India (2017 - Privacy Case)***: Unanimous 9-judge Constitution bench declared that the **Right to Privacy is a Fundamental Right guaranteed under Article 21** as well as part of the freedoms guaranteed by Part III; formally overruled *A.K. Gopalan, M.P. Sharma (1954)*, and *ADM Jabalpur (1976)*.
+21. ***Navtej Singh Johar v. Union of India (2018)***: Unanimous 5-judge Constitution bench **decriminalized consensual homosexual sex between adults**, reading down **Section 377 of the Indian Penal Code (IPC)** as violative of Articles 14, 15, 19, and 21.
+22. ***Joseph Shine v. Union of India (2018)***: Struck down **Section 497 of the IPC (Adultery)** as unconstitutional and manifestly arbitrary under Articles 14 and 21, holding that women cannot be treated as chattel or property of their husbands.
+23. ***Janhit Abhiyan v. Union of India (2022 - EWS Case)***: 5-judge bench upheld the validity of the **103rd Constitutional Amendment Act, 2019** providing **10% reservation to Economically Weaker Sections (EWS)** in education and public employment by a 3:2 majority; held that reservation solely based on economic criteria does not violate the Basic Structure and that the 50% ceiling from *Indira Sawhney* applies only to caste-based reservations.
+24. ***Association for Democratic Reforms (ADR) v. Union of India (February 2024 - Electoral Bonds Case)***: Unanimous 5-judge bench headed by CJI D.Y. Chandrachud **struck down the Electoral Bonds Scheme as unconstitutional**, holding that anonymous political funding violates the voter's **Right to Information under Article 19(1)(a)** of the Constitution.
+25. ***Bank Nationalisation Case (R.C. Cooper v. Union of India, 1970)***: 11-judge bench struck down the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1969; established that the **effect of legislative action on fundamental rights is the test**, not merely the object or form of the law (rejecting the object test of *Gopalan*).
+26. ***Privy Purses Abolition Case (Madhav Rao Scindia v. Union of India, 1971)***: Struck down the Presidential Order derecognizing the rulers of former princely states and abolishing their privy purses as unconstitutional; led to the **26th Constitutional Amendment Act, 1971** which terminated privy purses and princely privileges.
+27. ***Aruna Ramchandra Shanbaug v. Union of India (2011)***: Supreme Court recognized the legality of **Passive Euthanasia** (withdrawal of life support for patients in permanent vegetative state) under strict judicial guidelines; later expanded in ***Common Cause v. Union of India (2018)*** recognizing the right to die with dignity and **Living Wills (Advance Medical Directives)** under Article 21.
+28. ***Subhash Kashinath Mahajan v. State of Maharashtra (2018)***: SC introduced safeguards regarding immediate arrest under SC/ST (Prevention of Atrocities) Act; Parliament countered by passing the **SC/ST (Prevention of Atrocities) Amendment Act, 2018**, restoring immediate arrest without preliminary inquiry; upheld by SC in *Prathvi Raj Chauhan (2020)*.
+29. ***Supriyo @ Supriya Chakraborty v. Union of India (October 2023)***: 5-judge Constitution bench unanimously held that there is **no fundamental right to marry** under the Indian Constitution; refused to recognize same-sex marriage, holding that legal recognition of queer marriage is a matter of legislative policy for Parliament, not the judiciary.
+30. ***Electoral Bonds Case (February 2024)***: In *ADR v. Union of India*, a 5-judge bench headed by CJI D.Y. Chandrachud unanimously invalidated the Electoral Bonds Scheme, holding that corporate funding without disclosure violates the voter's **Right to Information under Article 19(1)(a)**, creating an unconstitutional quid pro quo between political donors and ruling parties.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Current Affairs anchors
+
+| Year | What happened | What you mark |
+|------|-----------------|---------------|
 | **2018** | *Navtej* on homosexuality | **s.377 IPC**, not Art. 377 (UPPCS Q79) |
 | **2018** | *Joseph Shine* | s.497 adultery **struck** as a crime |
 | **2017** | *Puttaswamy* 9-judge | Privacy = FR; *Jabalpur* majority **wrong** |
@@ -70,6 +67,32 @@ hide:
 | **2007** | *Coelho* 9-judge | 9th Schedule (9वीं अनुसूची) post-**24 Apr 1973** still faces BS |
 | **1980** | *Minerva* | 368(4)(5) **dead** |
 | **24 Apr 1973** | *Kesavananda* | The date *and* the doctrine |
+
+---
+
+### Confused pairs
+
+| Term A | Term B | Core difference | Hindi Terminology |
+| -------- | -------- | ----------------- | -------- / -------- |
+| ***Gopalan* 1950** | ***Maneka* 1978** | Any procedure in a valid law; FRs in **silos** | Procedure must be **fair/just/reasonable**; **14-19-21** together |
+| ***Golaknath* 1967** | ***Kesavananda* 1973** | FR **cannot** be amended | FR **can**; **basic structure** cannot |
+| ***Shankari / Sajjan*** | ***Golaknath*** | 368 includes Part III | 368 is “law” under **13** → Part III frozen |
+| ***Berubari* 1960** | ***Kesavananda* 1973** | Preamble **not** part of the Constitution | Preamble **is** part |
+| **9th Schedule** | **9th Amendment** | 1st Amd **1951** — FR-shield for listed laws | **1960** — Berubari / boundary |
+| ***Waman Rao* 1981** | ***I.R. Coelho* 2007** | Cut-off date **24 Apr 1973** | 9-judge fact: post-cut-off 9th Schedule still faces **BS** |
+| ***Kesavananda*** | ***Minerva Mills*** | Invented the ceiling | Struck 42nd’s “no court / unlimited 368”; FR–DPSP **harmony** |
+| ***ADM Jabalpur* 1976** | **44th Amd / *Puttaswamy* 2017** | Majority: no Art. 21 habeas in Emergency | 44th: **20 & 21** cannot be suspended. *Puttaswamy*: majority was **wrong** |
+| **Art. 13 “law”** | **Art. 368 amendment** | Ordinary legislation | 24th → **13(4)**: amendment is **not** 13-law. Still capped by BS |
+| **Sikri list** | **Later BS additions** | Supremacy, republic/democracy, secular, SOP, federal | *Indira*: RoL / review / free-fair polls. *Minerva*: limited 368 + FR–DPSP. *Bommai*: secularism/federalism for **356**. *NJAC*: judicial independence |
+| **First Judges 1981** | **Second Judges 1993** | Consultation ≠ concurrence; **executive** primacy | Consultation = concurrence; **CJI+2** Collegium |
+| **Second Judges** | **Third Judges 1998** | SC Collegium = CJI + **2** | SC Collegium = CJI + **4**; HC = CJI + **2** |
+| **Collegium** | **NJAC (99th)** | Judge-made; not in the text | Was **in** Arts. 124A–C; **struck 16 Oct 2015** |
+| ***Kihoto* 1992** | **Speaker “final”** | 10th Schedule **valid** | Para 7 ouster **dies**; Speaker’s order is **reviewable** |
+| ***Indra Sawhney*** | **77th Amd** | No reservation in **promotion** | **16(4A)** restores SC/ST promotion |
+| ***Vishaka* 1997** | **POSH Act 2013** | Court-made guidelines (CEDAW) | Statute takes over; guidelines were a **stop-gap** |
+| ***Navtej* 2018** | **Art. 377** | **s.377 IPC** (consensual adult sex struck) | Art. 377 = **transitory CAG** provision — **not** this case (2018 PYQ) |
+| ***Joseph Shine*** | **Divorce adultery** | s.497 **crime** struck | Adultery can still be a **civil** matrimonial ground |
+| ***M.C. Mehta* Oleum** | **Rylands v Fletcher** | **Absolute** liability — no exceptions | English **strict** liability — several exceptions |
 
 
 ---
@@ -389,3 +412,4 @@ D. Both 1 and 2
 **Logic:** Absolute liability has no Rylands-style exceptions.
 
 </details>
+

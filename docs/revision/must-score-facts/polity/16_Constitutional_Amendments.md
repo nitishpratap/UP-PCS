@@ -13,49 +13,51 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **2025** — 42nd Preamble (प्रस्तावना) = Socialist + Secular (direct).
-2. **2024** — Kesavananda (केशवानंद भारती 1973) chronology; 42nd = **1976**; GST (वस्तु एवं सेवा कर) = **101st**; local bodies = **73rd+74th**.
-3. **2021** — Golaknath (गोलकनाथ 1967) → 24th → Kesavananda → 42nd (order trap); *Rajendra N. Shah* — 97th Part IXB (सहकारिता) dead for **State** co-ops.
-4. **2019** — 43A workers (42nd DPSP (राज्य के नीति निदेशक तत्व)).
-5. **2022** — RTE = **86th** not 103rd; Delhi NCT = **69th**; *Janhit Abhiyan* upholds EWS (103rd valid).
-6. **2023** — 106th women 33% — **not** yet in force; waits delimitation.
-7. **No** joint sitting (108 does not apply). If one House rejects, the Bill **dies**.
-8. **Supreme Court / High Courts**
-9. **7th Schedule** distribution
-10. **15(4)** — special provision for SEBCs + SC/ST (opens the reservation door after *Champakam*).
-11. **19(2)** — added **public order, friendly relations with foreign States, incitement to an offence**.
-12. **19(6)** — State monopoly / nationalisation is a reasonable restriction.
-13. **31A** — saving of laws taking **estates** (agrarian reform).
-14. **31B + 9th Schedule** — laws listed in the Schedule **cannot be void for FR**. Started with **13** Acts.
-15. **Article 222** provides for the transfer of High Court judges.
-16. **Article 231** allows a common High Court for two or more States.
-17. **Article 241** provides for a High Court for Union Territories.
-18. **Article 350A** directs mother-tongue instruction at the **primary** stage.
-19. **Article 350B** created **one** Special Officer for Linguistic Minorities for **all of India** — a **7th Amendment**, not 9th, insertion, and a constitutional office, not a commission.
-20. **Articles 239 and 239A** deal with the administration of Union Territories as a class.
-21. **Article 258A** lets a **Stateentrust** functions to the Union, the reverse of Article 258.
-22. **13(4)** — nothing in Art. 13 applies to a **368** amendment.
-23. **368(1)** — Parliament **may** amend **any** provision.
-24. **31C born** — a law giving effect to **39(b) and 39(c)** cannot be void for **14 / 19**.
-25. **35th, 1974** — Sikkim as an **“associate State”**; a **10th Schedule** held the terms of association.
-26. **36th** — full statehood; that **old 10th Schedule repealed**.
-27. **52nd, 1985** — inserted the **present** 10th Schedule (defection). Two different 10th Schedules — **do not mix**.
-28. **61st** = adult suffrage age **18**.
-29. **62nd, 1989** = extended **SC/ST + Anglo-Indian** reservation (a **334** extension, not franchise).
-30. **63rd / 64th / 65th** = failed or unrelated local-body / SC-ST Bills — **not** the voting-age Amd.
-31. **239AB** — President may suspend 239AA machinery (Delhi analogue of **356**).
-32. **70th, 1992** included **NCT + Puducherry** in the **Presidential electoral college** (54/55). **Not** the Amd that created NCT.
-33. **21A** — free and compulsory education, **6–14** — a **FR** (State shall provide).
-34. **45** recast: early childhood care and education **below 6**. Old 45 was education **till 14**.
-35. **51A(k)** — parent / guardian **duty** to provide education **6–14** — the **11th** Fundamental Duty.
+1. **Part XX (Article 368)** governs the amendment of the Constitution; Parliament exercises **Constituent Power** to amend by way of addition, variation, or repeal any provision of the Constitution in accordance with the procedure laid down in Article 368; borrowed from the **South African Constitution**.
+2. Procedure for Amendment under Article 368: An amendment Bill can be introduced in **EITHER House of Parliament (Lok Sabha or Rajya Sabha)**; it **CANNOT be introduced in a State Legislature**; can be introduced by a Minister or a Private Member, and **DOES NOT require prior recommendation of the President**.
+3. Separate Passage Mandatory: An amendment Bill must be passed in **each House separately by a Special Majority**; **there is NO provision for a Joint Sitting** of both Houses under Article 108 to resolve a deadlock on a Constitutional Amendment Bill (if either House rejects it, the bill dies).
+4. Assent of President Mandatory: Under the **24th Constitutional Amendment Act, 1971**, the President **MUST give assent** to a Constitutional Amendment Bill passed by Parliament; the President **cannot withhold assent nor return the bill** for reconsideration.
+5. **Three Methods of Constitutional Amendment:** (1) By **Simple Majority of Parliament** (outside Article 368); (2) By **Special Majority of Parliament** (under Article 368); (3) By **Special Majority of Parliament AND Ratification by Legislatures of not less than half the States** (under Article 368 for federal provisions).
+6. Amendments by **Simple Majority (Outside Art. 368)**: (a) Admission or establishment of new States (Art. 2); (b) Formation of new States and alteration of areas/boundaries/names (Art. 3); (c) Abolition or creation of State Legislative Councils (**Art. 169**); (d) Second Schedule emoluments; (e) Quorum in Parliament; (f) Rules of procedure; (g) Official language; (h) Elections to Parliament/Assemblies; (i) 5th and 6th Schedules.
+7. Amendments by **Special Majority (Article 368)**: Requires: (1) A majority of the **Total Membership of the House** (> 50% of total seats); AND (2) A majority of **not less than 2/3rds of the members of that House present and voting**; covers Fundamental Rights (Part III), DPSPs (Part IV), and all other provisions not covered by simple majority or state ratification.
+8. Amendments by **Special Majority PLUS State Ratification**: Required for provisions affecting federal structure: (a) Election of President (Arts. 54 & 55); (b) Extent of executive power of Union and States (Arts. 73 & 162); (c) Supreme Court and High Courts (Arts. 124–147, 214–231); (d) Distribution of legislative powers (7th Schedule Lists); (e) Representation of States in Parliament (4th Schedule); (f) Article 368 itself.
+9. State Ratification Rules: Requires ratification by resolutions passed by the **Legislatures of not less than HALF of the States** by a **Simple Majority** of members present and voting; there is **no time limit** prescribed in the Constitution within which States must ratify or reject.
+10. **Evolution of Amending Power & Basic Structure:** (1) ***Shankari Prasad (1951)***: Upheld 1st Amendment; ruled Parliament under Art. 368 can amend Fundamental Rights; 'law' in Art. 13 applies only to ordinary law; (2) ***Sajjan Singh (1965)***: Reaffirmed Shankari Prasad; (3) ***Golaknath (1967)***: 11-judge bench (6:5) overruled earlier cases, holding Fundamental Rights are transcendental and unamendable under Art. 368.
+11. **24th Constitutional Amendment Act, 1971:** Enacted to overcome Golaknath; amended Article 13 (inserted Art. 13(4)) and Article 368 (inserted Art. 368(3)) declaring that constitutional amendments are not 'law' within the meaning of Article 13; affirmed Parliament's power to amend any part including Part III; made Presidential assent compulsory.
+12. ***Kesavananda Bharati v. State of Kerala (24 April 1973)***: Largest Constitution bench in Indian legal history (**13 judges**, 7:6 verdict); upheld the validity of 24th Amendment, but propounded the **Basic Structure Doctrine**: Parliament has wide constituent power to amend any part of the Constitution including Fundamental Rights, but **CANNOT alter the Basic Structure or framework** of the Constitution.
+13. ***Minerva Mills v. Union of India (1980)***: Struck down clauses (4) and (5) inserted in Article 368 by the 42nd Amendment (which had claimed unlimited amending power); held that **a limited amending power is itself a Basic Feature** of the Constitution; reaffirmed balance between Part III and Part IV.
+14. **1st Constitutional Amendment Act, 1951:** Inserted **Article 31A, Article 31B, and the Ninth Schedule** to insulate land reforms and abolition of Zamindari from judicial review; inserted **Article 15(4)** allowing special provisions for advancement of SEBCs/SCs/STs (following *Champakam Dorairajan*); added three new grounds of reasonable restriction on freedom of speech under Art. 19(2): public order, friendly relations with foreign states, and incitement to an offence.
+15. **7th Constitutional Amendment Act, 1956:** Implemented recommendations of the States Reorganisation Commission; abolished Part A, B, C, D classification, creating **14 States and 6 UTs**; permitted common High Courts (Art. 231) and appointment of same Governor for two or more States (Art. 153); inserted **Articles 350A and 350B** (Linguistic Minorities).
+16. **21st Amendment Act, 1967:** Added **Sindhi** as the 15th language in the **Eighth Schedule**.
+17. **42nd Constitutional Amendment Act, 1976 ('Mini-Constitution'):** Enacted during the Emergency on Swaran Singh Committee recommendations: (1) Added **'Socialist, Secular, Integrity'** to Preamble; (2) Added **Part IVA (Fundamental Duties, Art. 51A)**; (3) Added **Part XIVA (Tribunals, Arts. 323A–323B)**; (4) Transferred **5 subjects from State List to Concurrent List** (Education, Forests, Weights/Measures, Wildlife, Administration of Justice); (5) Made President bound by Cabinet advice; (6) Extended Lok Sabha/Assembly tenure from 5 to 6 years; (7) Added DPSPs 39A, 43A, 48A.
+18. **44th Constitutional Amendment Act, 1978:** Enacted by Janata Party government to undo Emergency excesses: (1) Restored 5-year tenure of Lok Sabha and Assemblies; (2) Substituted **'Armed Rebellion'** for 'Internal Disturbance' in Art. 352; (3) Mandated **written Cabinet advice** for National Emergency; (4) **Barred suspension of Articles 20 and 21** during emergency; (5) **Deleted Right to Property** from Part III (Arts. 19(1)(f) & 31), making it a legal right under **Article 300A**; (6) Limited President's advice to one reconsideration.
+19. **52nd Constitutional Amendment Act, 1985:** Added the **Tenth Schedule (Anti-Defection Law)**, disqualifying legislators for defection.
+20. **61st Constitutional Amendment Act, 1988:** Lowered the voting age for Lok Sabha and Legislative Assemblies from **21 years to 18 years** by amending **Article 326** (effective 28 March 1989).
+21. **69th Constitutional Amendment Act, 1991:** Inserted **Article 239AA**, redesignating Union Territory of Delhi as the **National Capital Territory (NCT) of Delhi** with a 70-member Legislative Assembly and 7-member Council of Ministers.
+22. **71st Amendment Act, 1992:** Added **Konkani, Manipuri, and Nepali** (KMN) to the **Eighth Schedule**, raising recognized languages to 18.
+23. **73rd & 74th Amendment Acts, 1992:** Added **Part IX (Panchayats, 11th Sch)** and **Part IXA (Municipalities, 12th Sch)**.
+24. **86th Constitutional Amendment Act, 2002:** Revolutionized education: (1) Inserted **Article 21A** making free and compulsory education for children aged **6 to 14 years** a Fundamental Right; (2) Substituted **Article 45** (DPSP) for early childhood care up to age 6; (3) Added **11th Fundamental Duty** under **Article 51A(k)**.
+25. **91st Constitutional Amendment Act, 2003:** (1) Capped size of Council of Ministers at **15% of Lower House strength** (Art. 75(1A) & 164(1A); minimum 12 in States); (2) Barred defectors from holding ministerial office; (3) **Deleted the 1/3rd split exemption** under the Tenth Schedule, requiring **at least 2/3rd members to merge**.
+26. **92nd Amendment Act, 2003:** Added **Bodo, Dogri, Maithili, and Santhali** (BDMS) to the **Eighth Schedule**, taking the total to **22 languages**.
+27. **97th Constitutional Amendment Act, 2011:** Conferred constitutional status on Co-operatives: Art. 19(1)(c) right to form co-operatives; Art. 43B DPSP; inserted **Part IXB (Arts. 243ZH to 243ZT)**.
+28. **99th Constitutional Amendment Act, 2014:** Created the National Judicial Appointments Commission (NJAC); **struck down as unconstitutional by Supreme Court in October 2015** as violative of basic structure.
+29. **100th Constitutional Amendment Act, 2015:** Ratified the 1974 Land Boundary Agreement and 2011 Protocol between **India and Bangladesh**, exchanging 111 enclaves to Bangladesh and acquiring 51 enclaves.
+30. **101st Constitutional Amendment Act, 2016:** Introduced the **Goods and Services Tax (GST)** in force from **1 July 2017**; inserted **Articles 246A, 269A, and 279A (GST Council)**.
+31. **102nd Constitutional Amendment Act, 2018:** Conferred constitutional status on the **National Commission for Backward Classes (NCBC)** by inserting **Article 338B**; inserted **Article 342A** (President's power to notify Central OBC list).
+32. **103rd Constitutional Amendment Act, 2019:** Inserted **Article 15(6) and Article 16(6)**, providing up to **10% reservation for Economically Weaker Sections (EWS)** in educational institutions and public employment; upheld by SC in ***Janhit Abhiyan (2022)***.
+33. **104th Constitutional Amendment Act, 2020:** Amended Article 334 to **extend reservation of seats for SCs and STs in Lok Sabha and State Assemblies for another 10 years (up to 25 January 2030)**; **discontinued nomination of 2 Anglo-Indian members** to Lok Sabha and 1 member to State Assemblies.
+34. **105th Constitutional Amendment Act, 2021:** Amended Article 342A to clarify that **State Governments and UTs maintain their own separate state lists of Socially and Educationally Backward Classes (OBCs)**, restoring State powers post-*Maratha reservation case*.
+35. **106th Constitutional Amendment Act, 2023 (Nari Shakti Vandan Adhiniyam):** Inserts Articles 330A, 332A, and 239AA(2)(b) reserving **one-third (33%) of all seats for women** in the **Lok Sabha, State Legislative Assemblies, and the Legislative Assembly of NCT of Delhi**; applies for 15 years; operational after first post-enactment delimitation based on subsequent census.
 
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+### Confused pairs
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
 | **Simple majority** | **Special (368)** | Ordinary legislative majority; **outside** 368 | Total membership + 2/3 P&V |
 | **368 only** | **368 + States** | Unitary-looking amendments | Federal provisions; **half** State legislatures |
 | **13** | **368** | Laws inconsistent with FR void | Power to **amend** the Constitution |
@@ -303,3 +305,4 @@ D. (A) is false, but (R) is true.
 **Ans: A** — Both (A) and (R) are correct, and (R) is the correct explanation of (A), subject to the basic structure limitation.
 
 </details>
+
