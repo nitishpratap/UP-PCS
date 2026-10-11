@@ -25,7 +25,7 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Starch digestion begins in the **mouth (buccal cavity)**; salivary glands secrete **Ptyalin (Salivary Amylase)** at optimum pH 6.8, hydrolysing ~30% of dietary starch into the disaccharide **Maltose**; protein and fat digestion do **not** occur in the mouth.
 2. The adult human dental formula is **$\frac{2123}{2123} \times 2 = 32$** (2 Incisors, 1 Canine, 2 Premolars, 3 Molars per quadrant); milk / deciduous dental formula of children is **$\frac{2102}{2102} \times 2 = 20$** (**Premolars are completely absent in milk dentition**).
@@ -81,6 +81,11 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
 43. Normal human urine is slightly acidic (**pH $\mathbf{\sim 6.0}$**); pale yellow colour is due to the pigment **Urochrome** (derived from the metabolic breakdown of haemoglobin).
 44. **Renal Calculi (Kidney Stones)**: Solid crystalline deposits formed inside renal pelvis and calyces, primarily composed of insoluble **Calcium Oxalate ($CaC_2O_4$)** crystals.
 45. **Gout**: Painful metabolic arthritis caused by the deposition of sharp **Monosodium Urate / Uric Acid crystals** in synovial joints (most commonly the metatarsophalangeal joint of the big toe) due to hyperuricaemia.
+46. **Juxtaglomerular Apparatus (JGA) & Macula Densa**: Specialized cellular complex located where the distal convoluted tubule contacts the afferent arteriole; macula densa senses low sodium/chloride delivery, triggering JG granular cells to release the enzyme **Renin**, activating the systemic vasoconstrictor and salt-retaining cascade.
+47. **Counter-Current Multiplier & Exchanger**: Descending limb of the Loop of Henle is permeable to water but impermeable to electrolytes; the ascending limb is impermeable to water but actively transports $NaCl$ into the medullary interstitium; paired with hairpin **Vasa Recta** capillaries, this maintains a steep osmotic gradient ($300\text{ mOsm/L}$ at the cortex to $1200\text{ mOsm/L}$ in deep renal medulla), enabling humans to excrete hypertonic urine up to 4 times more concentrated than blood plasma.
+48. **Bile Salts & Micelle Formation**: Bile salts (sodium glycocholate and taurocholate) possess amphipathic structure (hydrophilic head, hydrophobic tail); they emulsify large dietary lipid droplets into microscopic droplets and form spherical aggregates called **Micelles** ($4–7\text{ nm}$), which ferry monoglycerides and free fatty acids to the apical brush-border membrane of intestinal enterocytes for passive diffusion.
+49. **Gastrointestinal Sphincters & Valves**: Flow of ingested matter is regulated by specialized muscular sphincters: **Lower Esophageal / Gastroesophageal (Cardiac) Sphincter** prevents gastric acid reflux into the esophagus; **Pyloric Sphincter** meters chyme release into the duodenum; **Ileocaecal Valve** prevents backflow of fecal contents from the caecum into the ileum; **Internal (involuntary) and External (voluntary) Anal Sphincters** control defecation.
+50. **Physiological vs Anatomical Dead Space**: **Anatomical dead space** is the volume of the conducting respiratory airways (nose, pharynx, larynx, trachea, bronchi, bronchioles $\approx 150\text{ mL}$ in adults) where gas exchange cannot occur; in healthy individuals, anatomical dead space equals **physiological dead space**; elevated physiological dead space occurs when alveoli are ventilated but poorly perfused (e.g., in emphysema or pulmonary embolism).
 
 </details>
 
@@ -1270,6 +1275,9 @@ D. Ileum – Jejunum – Duodenum
 </details>
 
 **Q-ST21. R.A.S./R.T.S. (Re. Exam) (Pre) 2013**
+
+Which of the following enzymes is correctly matched with its biological function?
+
 A. Acid – Mitochondrial marker phosphatase enzymes related to oxidative functions.  
 B. E. coli restriction – cuts DNA at specific endonuclease-II places.  
 C. Acrosin – cortical granules of ovum secrete it to prevent polyspermic fertilization.  
@@ -1427,6 +1435,9 @@ D. Neither 1 nor 2
 </details>
 
 **Q-ST30. M.P. P.C.S. (Pre) 2016**
+
+In adult human beings, the primary organs of external respiration are the:
+
 A. Gills  
 B. Trachea  
 C. Skin  

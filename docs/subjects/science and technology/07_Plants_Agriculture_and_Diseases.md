@@ -26,33 +26,58 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 25 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. **Plant Taxonomy Hierarchy**: Categorized from higher to lower: **Kingdom $\rightarrow$ Phylum (Division) $\rightarrow$ Class $\rightarrow$ Order $\rightarrow$ Family $\rightarrow$ Genus $\rightarrow$ Species**. **Species** is the basic taxonomic unit consisting of individuals with fundamental morphological similarities capable of interbreeding.
 2. **Augustin Pyramus de Candolle (A.P. de Candolle)**: Swiss botanist who **first coined the term "Taxonomy" (1813)** and first used internal **vascular tissue characteristics** to divide plants into *Vasculares* (with vascular bundles) and *Cellulares* (without vascular bundles). (Linnaeus is the "Father of Modern Taxonomy").
 3. **Plant Tissues**: **Apical Meristem** (vertical height / primary growth); **Intercalary Meristem** (internode bases, re-growth of grazed grasses); **Lateral Meristem / Cambium** (secondary growth, increases **girth / diameter** of stems).
 4. **Simple Permanent Tissues**: **Parenchyma** (living packing tissue, modified into **Aerenchyma** with large air chambers in aquatic hydrophytes for buoyancy); **Collenchyma** (living with pectin corner thickenings, provides mechanical flexibility); **Sclerenchyma** (dead, heavily lignified; commercial jute/hemp fibres and gritty sclereids/stone cells of guava and pear).
-5. **Complex Vascular Tissues**:
+5. **Complex Vascular Tissues (Xylem and Phloem)**: **Xylem** conducts water and dissolved mineral salts unidirectionally from roots to leaves; composed of Tracheids, Vessels (unique to angiosperms), Xylem Fibres, and Xylem Parenchyma (only living xylem cell); **Phloem** translocates photosynthetic organic solutes bidirectionally from source to sink; composed of Sieve Tubes (enucleated at maturity), Companion Cells, Phloem Fibres (bast fibres), and Phloem Parenchyma.
 6. **Ascent of Sap**: Driven by **Transpiration Pull** based on the **Cohesion-Tension Theory** of **Dixon and Joly (1894)**. Positive **Root Pressure** causes **Guttation** through marginal leaf **Hydathodes** in moist early mornings.
-7. **Modified Underground Stems (Food Storage)**:
-8. **Modified Storage Roots (NOT Stems)**:
+7. **Modified Underground Stems (Food Storage)**: **Rhizome**: Prostrate horizontal underground stem with distinct nodes, internodes, and scale leaves (e.g., **Ginger, Turmeric, Banana**); **Tuber**: Swollen distal end of underground branch bearing eyes/axillary buds (e.g., **Potato**); **Bulb**: Reduced disc-like stem surrounded by concentric fleshy scale leaves (e.g., **Onion, Garlic**); **Corm**: Solid, unbranched, vertically growing swollen underground stem (e.g., **Colocasia / Arbi, Amorphophallus / Zamikand, Saffron / Crocus**).
+8. **Modified Storage Roots (NOT Stems)**: Derived from the root system, lack nodes, internodes, and scale leaves: **Tuberous Adventitious Root** (e.g., **Sweet Potato / Shakarkand**); **Conical Taproot** (e.g., **Carrot**, rich in $\beta$-carotene); **Fusiform Taproot** (e.g., **Radish**); **Napiform Taproot** (e.g., **Beetroot, Turnip / Shalgam**).
 9. **Aerial Stem Storage**: In **Sugarcane (*Saccharum officinarum*, Family Gramineae/Poaceae)**, sucrose is stored predominantly in the **aerial stalk / stem** (propagated by stem cuttings with nodes).
 10. **The Pea Family (Fabaceae / Leguminosae)**: Dicotyledonous plants with root nodules harbouring nitrogen-fixing bacteria: **Pea (*Pisum sativum*, herb with leaf tendrils)**, **Groundnut / Peanut (*Arachis hypogaea*)**, **Horse-gram / Kulthi (*Macrotyloma uniflorum*)**, **Soybean (*Glycine max*)**.
-11. **Spices & Floral Parts**:
-12. **True Fruits vs False Fruits**:
-13. **Fruit Classifications & Edible Anatomy**:
-14. **Plant Pigments Master Fact**:
-15. **Plant Odour & Pungency Chemistry**:
-16. **Commercial Fibres & Economic Products**:
-17. **Ecological Plant Adaptations**:
-18. **Temperature Adaptations in Ecology**:
+11. **Spices & Floral Anatomy**: **Clove (*Laung*)** is the dried unopened **flower bud** of *Syzygium aromaticum* (contains eugenol); **Saffron (*Kesar*)** consists of the dried **stigma and style** of *Crocus sativus*; **Cinnamon (*Dalchini*)** is the dried **inner bark** of *Cinnamomum verum*; **Black Pepper** is the dried unripe **berry/drupe** fruit of *Piper nigrum*; **Cardamom (*Elaichi*)** is the dried **capsule fruit and seeds** of *Elettaria cardamomum*.
+12. **True Fruits vs False Fruits**: **True Fruits** develop exclusively from the fertilized ovary of a flower (e.g., **Mango, Grape, Tomato, Banana**); **False Fruits (Pseudocarps)** develop from other floral parts like the fleshy receptacle / thalamus in addition to the ovary (e.g., **Apple and Pear** are pomes where the edible part is the fleshy thalamus; **Cashew Nut** where the fleshy stalk is the swollen peduncle; **Strawberry** where the edible part is the fleshy thalamus).
+13. **Fruit Classifications & Edible Morphology**: **Drupe (Stone Fruit)**: Single seed enclosed in a hard stony endocarp (e.g., **Mango** where edible part is fleshy **mesocarp**; **Coconut** where edible part is the cellular and liquid **endosperm**); **Berry**: Fleshy throughout with multiple seeds (e.g., Tomato, Guava); **Hesperidium**: Berry with leathery glandular peel and endocarpic juicy hair segments (e.g., Orange, Lemon); **Syconus / Sorosis (Composite Fruits)**: Derived from whole inflorescence (e.g., **Fig, Pineapple, Mulberry, Jackfruit**); **Litchi**: Edible part is the fleshy succulent **Aril** (outgrowth of the funicle).
+14. **Plant Pigments Master Fact**: **Chlorophyll**: Green photosynthetic pigment containing central **Magnesium ($Mg^{2+}$)**; **Lycopene**: Bright red carotenoid in ripe **tomatoes**; **Anthocyanin**: Water-soluble vacuolar pigment responsible for red/purple/blue colours in **apple skin, beetroot, purple cabbage, and rose petals**; **Carotene**: Orange pigment in **carrots**; **Betacyanin**: Red-violet pigment in **beetroot**; **Curcumin**: Yellow phenolic compound in **turmeric**; **Capsanthin**: Red carotenoid pigment in **ripe red chillies**; **Xanthophyll / Lutein**: Yellow pigment in egg yolk and autumn leaves.
+15. **Plant Odour & Pungency Chemistry**: **Pungency of Chillies**: Caused by the alkaloid **Capsaicin**; **Pungency of Mustard Oil**: Caused by the sulfur glucoside **Allyl Isothiocyanate** (hydrolyzed from sinigrin by myrosinase); **Pungency of Garlic**: Caused by the sulfur-containing amino acid derivative **Allicin**; **Pungency & Tearing in Onions**: Caused by volatile **Syn-propanethial-S-oxide** (formed by the enzyme lachrymatory factor synthase acting on S-alkenyl-L-cysteine sulfoxides); **Bitterness in Bitter Gourd (Karela)**: Caused by tetracyclic triterpene glucosides called **Momordicines**.
+16. **Commercial Fibres & Economic Products**: **Cotton**: Surface epidermal hairs of seeds (*Gossypium*), composed of nearly pure **Cellulose (~90%)**; **Jute and Sunn Hemp**: Phloem / bast sclerenchyma fibres extracted by biological water retting; **Cork**: Harvested from the outer protective bark (*phellem*) of the Mediterranean cork oak tree ***Quercus suber***; **Natural Rubber**: Polyisoprene polymer harvested as milky latex from the bark of ***Hevea brasiliensis***; **Quinine**: Powerful antimalarial alkaloid extracted from the dried stem bark of the ***Cinchona tree*** (*Cinchona calisaya / ledgeriana*); **Triticale**: First man-made artificial cereal hybrid developed by cross-breeding **Wheat (*Triticum*) $\times$ Rye (*Secale*)**.
+17. **Ecological Plant Adaptations**: **Hydrophytes**: Aquatic plants with poorly developed roots, reduced vascular tissue, thin cuticle, and extensive **Aerenchyma** tissue for buoyancy (e.g., *Hydrilla, Eichhornia, Lotus*); **Xerophytes**: Desert drought-adapted plants with sunken stomata, thick waxy cuticle, reduced scale-like leaves or spines to minimize transpiration, and fleshy photosynthetic stems (**Phylloclade**, e.g., *Opuntia, Cactus*); **Halophytes**: Salt-tolerant mangrove vegetation growing in coastal saline marshes; develop specialized negatively geotropic breathing roots called **Pneumatophores** that emerge vertically out of saline mud to absorb oxygen (e.g., *Rhizophora, Avicennia*).
+18. **Epiphytes & Velamen Tissue**: **Epiphytes** are space-parasites that grow physically supported upon branches of other trees for sunlight without drawing nutrition or water from the host (e.g., **Vanda, Orchids**); they absorb moisture directly from humid atmospheric air using specialized spongy, hygroscopic aerial root tissue called **Velamen**.
 19. **Forensic Utility of Diatoms**: **Diatoms** are unicellular photosynthetic algae with indestructible silica shells (*frustules*); inhalation of water during drowning draws diatoms into the bloodstream and internal organs (bone marrow, liver); **presence of diatoms in closed organs is a definitive forensic test confirming death by drowning**.
-20. **Insectivorous & Carnivorous Plants**: Grow in acidic, waterlogged bogs **severely deficient in nitrates/nitrogen**; photosynthesise carbohydrates normally, but trap and digest small insects using proteases to fulfill nitrogen demands:
-21. **Photosynthesis Physiology**:
-22. **Plant Respiration & Cold Storage**: Cold storage extends fruit and vegetable shelf life because **low temperatures slow down the rate of cellular respiration and enzymatic activity** (UPPCS 2021).
-23. **Phytohormones Master List**:
-24. **Biological Nitrogen Fixation (BNF) & Biofertilisers**:
-25. **Crop Diseases & Nutritional Disorders**:
+20. **Insectivorous & Carnivorous Plants**: Grow in acidic, waterlogged bogs **severely deficient in nitrates/nitrogen**; photosynthesise carbohydrates normally, but trap and digest small insects using proteases to fulfill nitrogen demands: **Pitcher Plant (*Nepenthes*)** (leaf lamina modified into hollow pitcher, leaf apex into lid), **Venus Flytrap (*Dionaea*)**, **Sundew (*Drosera*)**, and **Bladderwort (*Utricularia*)**.
+21. **Photosynthesis Light Reactions (Photochemical Phase)**: Occurs in the **Thylakoid membranes / Grana** of chloroplasts; light energy absorbed by chlorophyll pigments excites electrons in Photosystems II and I; driven by the **Hill Reaction / Photolysis of Water**: water molecules are split into protons, electrons, and **Oxygen gas ($O_2$)**: $$2H_2O \rightarrow 4H^+ + 4e^- + O_2\uparrow$$; **all oxygen liberated during photosynthesis originates from water ($H_2O$), NOT from carbon dioxide ($CO_2$)** (proven by Ruben and Kamen using heavy oxygen isotope $^{18}O$); generates assimilatory power in the form of **ATP and NADPH**.
+22. **Photosynthesis Dark Reactions (Calvin Cycle / Biosynthetic Phase)**: Occurs in the **Stroma** of chloroplasts; does not directly require light, but uses ATP and NADPH produced during light reactions; atmospheric $CO_2$ is fixed by the primary carboxylating enzyme **RuBisCO (Ribulose-1,5-bisphosphate carboxylase-oxygenase)**, the most abundant protein on Earth; primary stable product is 3-phosphoglyceric acid (3-PGA, a 3-carbon compound, hence **$C_3$ pathway**).
+23. **$C_3$ vs $C_4$ vs CAM Pathways**: **$C_3$ Plants**: Moderate climates (e.g., Wheat, Rice, Barley, Soybean); suffer from wasteful **Photorespiration** under high temperature; **$C_4$ Plants**: Tropical grasses (e.g., **Maize, Sugarcane, Sorghum / Jowar, Bajra**); exhibit specialized **Kranz Anatomy** (bundle sheath cells surrounded by mesophyll); fix $CO_2$ initially using **PEP Carboxylase** into 4-carbon Oxaloacetic Acid (OAA); show **zero photorespiration** and high water-use efficiency; **CAM Plants**: Succulents and epiphytes (e.g., **Pineapple, Agave, Cactus, Opuntia**); open stomata at night (**Scotoactive stomata**) to fix $CO_2$ into malic acid, keeping stomata closed during scorching daylight to conserve water.
+24. **Action Spectrum of Photosynthesis**: Photosynthesis absorbs light in the Photosynthetically Active Radiation (PAR) spectrum ($400–700\text{ nm}$); maximal photosynthetic rate occurs under **Red Light** ($\sim 660\text{ nm}$) followed by **Blue Light**; **Green Light** is reflected by chlorophyll and is least effective for photosynthesis.
+25. **Plant Respiration & Cold Storage**: Plant respiration is an oxidative catabolic process converting glucose and oxygen into $CO_2$, $H_2O$, and ATP; in agricultural post-harvest storage, cold storage extends fruit and vegetable shelf life because **low temperatures drastically slow down the rate of cellular respiration, transpiration, and ethylene synthesis** (UPPCS 2021).
+26. **Auxins (Indole-3-Acetic Acid / IAA)**: Synthesised in stem apical meristems; promotes **Apical Dominance** (inhibits growth of lateral axillary buds); stimulates root initiation in stem cuttings; synthetic auxin **2,4-D (2,4-Dichlorophenoxyacetic acid)** is widely used as a selective weedicide / herbicide to eradicate broad-leaved dicot weeds in cereal crop fields without harming monocot crops.
+27. **Gibberellins (Gibberellic Acid / $GA_3$)**: Discovered by **Eiichi Kurosawa (1926)** from the fungus *Gibberella fujikuroi* causing "foolish seedling" (*Bakanae*) disease in rice; promotes stem internode elongation (bolting in rosette plants like cabbage), breaks seed and bud dormancy, and induces **parthenocarpy** (seedless fruit production) in grapes and apples.
+28. **Cytokinins (Zeatin / Kinetin)**: Discovered by Skoog and Miller; naturally abundant in regions of rapid cell division (coconut milk, corn kernels); promotes **cell division (cytokinesis)**, delays leaf senescence (**Richmond-Lang Effect**), and breaks apical dominance by promoting lateral bud outgrowth.
+29. **Ethylene ($C_2H_4$)**: The **only gaseous plant hormone**; synthesised in ripening fruits and aging tissues; acts as the primary natural **Fruit Ripening Hormone**; commercial fruit ripening uses **Ethephon (Ethrel)**, which releases ethylene; *Lucent trap*: artificial ripening with calcium carbide ($CaC_2$) releases toxic **Acetylene gas ($C_2H_2$)**, which mimics ethylene but leaves dangerous arsenic and phosphorus residues.
+30. **Abscisic Acid (ABA / "Stress Hormone")**: Naturally occurring sesquiterpene plant growth inhibitor; induces **closure of stomata** during acute water deficit / drought to prevent transpirational water loss; promotes seed dormancy and accelerates abscission of leaves and flowers; acts as an antagonist to gibberellins.
+31. **Photoperiodism & Vernalization**: **Photoperiodism**: Physiological response of plants to the relative length of daylight and darkness; mediated by the photoreceptor pigment **Phytochrome** (exists in red-absorbing $P_r$ and far-red-absorbing $P_{fr}$ forms); **Vernalization**: Promotion of flowering by exposure to a prolonged period of low winter temperatures ($1–7^\circ\text{C}$); prevents precocious reproductive development in autumn, common in winter varieties of wheat and barley.
+32. **Biological Nitrogen Fixation (BNF)**: Conversion of inert atmospheric dinitrogen ($N_2$) into ammonia ($NH_3$) catalyzed by the oxygen-sensitive microbial enzyme complex **Nitrogenase**; nitrogenase contains **Molybdenum and Iron (Mo-Fe protein)**; protected from oxygen poisoning inside legume root nodules by the oxygen-scavenging pink-red pigment **Leghaemoglobin**.
+33. **Symbiotic Nitrogen Fixers**: ***Rhizobium leguminosarum*** forms symbiotic root nodules with leguminous crops (Pea, Gram, Lentil, Soybean); ***Frankia*** is an actinomycete that fixes nitrogen in non-leguminous trees (e.g., *Casuarina, Alnus*); ***Anabaena azollae*** is a cyanobacterium living in the leaf cavities of the tiny free-floating freshwater fern ***Azolla pinnata*** (widely applied as an exceptionally productive biofertiliser in flooded wetland **paddy / rice fields**).
+34. **Free-Living & Associative Biofertilisers**: **Free-living Aerobic Nitrogen Fixers**: ***Azotobacter*** (applied in wheat, maize, cotton crops); **Free-living Anaerobic Fixers**: ***Clostridium***; **Associative Symbionts**: ***Azospirillum*** (colonizes rhizosphere of sorghum, maize, sugarcane); **Cyanobacteria / Blue-Green Algae (BGA)**: *Nostoc, Anabaena, Tolypothrix, Aulosira* fix nitrogen via specialized thick-walled cells called **Heterocysts** in alkaline flooded soils.
+35. **Mycorrhiza & Phosphorus Solubilization**: **Mycorrhiza** is a mutualistic symbiotic association between fungal hyphae and roots of higher plants (e.g., *Glomus* genus); fungal hyphae vastly expand the root absorption surface, selectively absorbing immobile soil **Phosphorus ($P$)** and water for the plant, while the host plant provides carbohydrates to the fungus; **VAM (Vesicular-Arbuscular Mycorrhiza)** is an apex biofertiliser for phosphate nutrition.
+36. **Macronutrients in Plant Nutrition**: Plants require 9 essential macronutrients absorbed in large quantities ($>10\text{ mmol/kg}$ dry matter): **Carbon ($C$), Hydrogen ($H$), Oxygen ($O$)** (framework elements from air and water); primary fertilizer elements **Nitrogen ($N$), Phosphorus ($P$), Potassium ($K$)**; and secondary elements **Calcium ($Ca$), Magnesium ($Mg$), Sulfur ($S$)**.
+37. **Micronutrients in Plant Nutrition**: Essential trace elements required in minute quantities ($<10\text{ mmol/kg}$ dry matter): **Iron ($Fe$), Manganese ($Mn$), Copper ($Cu$), Zinc ($Zn$), Boron ($B$), Molybdenum ($Mo$), Chlorine ($Cl$), Nickel ($Ni$)**; **Zinc** is required for auxin (IAA) synthesis; **Boron** is essential for pollen germination and sugar translocation; **Molybdenum** is a component of nitrate reductase and nitrogenase; **Magnesium** is the central metal ion of chlorophyll.
+38. **Classic Plant Nutritional Deficiency Disorders**: **Khaira Disease of Rice**: Caused by severe **Zinc ($Zn$) deficiency**; symptoms include reddish-brown chlorotic spots on young leaves; treated by spraying zinc sulfate ($ZnSO_4$); discovered by Y.L. Nene at Pantnagar; **Marsh Spot of Pea**: Caused by **Manganese ($Mn$) deficiency**; **Whiptail of Cauliflower**: Caused by **Molybdenum ($Mo$) deficiency**; **Black Heart of Potato**: Caused by **Oxygen deficiency / hypoxia** in poorly ventilated cold storage warehouses; **Hollow Heart of Potato**: Caused by excessive nitrogen fertilizer and rapid growth; **Browning / Hollow Stem of Cauliflower**: Caused by **Boron ($B$) deficiency**.
+39. **Fungal Diseases of Cereal Crops**: **Late Blight of Potato**: Caused by the oomycete fungus ***Phytophthora infestans***; devastated Ireland's potato harvest, causing the catastrophic **Irish Famine (1845–1849)**; **Ergot of Rye and Bajra**: Caused by ***Claviceps purpurea***; replaces grain with dark poisonous sclerotia containing ergotamine and lysergic acid alkaloids; ingestion causes painful gangrenous and convulsive ergotism ("St. Anthony's Fire"); **Loose Smut of Wheat**: Internally seed-borne fungal disease caused by ***Ustilago tritici***; transforms ears into a mass of black powdery spores; **Black Stem Rust of Wheat**: Caused by heteroecious fungus ***Puccinia graminis tritici*** (requires wheat and barberry host plants to complete lifecycle; pioneered in India by Dr. K.C. Mehta).
+40. **Bacterial & Viral Crop Diseases Drill**: **Bacterial Blight of Rice**: Caused by ***Xanthomonas oryzae***; produces translucent water-soaked lesions and kresek seedling wilt; **Citrus Canker**: Caused by ***Xanthomonas axonopodis pv. citri***; produces raised corky necrotic lesions on leaves and fruit of lemons and limes; **Crown Gall Disease**: Plant tumors caused by the soil bacterium ***Agrobacterium tumefaciens*** (harbours the tumor-inducing Ti plasmid used as a natural genetic engineer in biotechnology); **Tobacco Mosaic Disease (TMD)**: Caused by Tobacco Mosaic Virus (TMV, first isolated in crystalline form by Wendell Stanley, 1935); **Bunchy Top of Banana**: Caused by Banana bunchy top virus transmitted by the banana aphid *Pentalonia nigronervosa*; **Yellow Vein Mosaic of Bhindi (Okra)**: Devastating viral disease transmitted by the insect vector **Whitefly (*Bemisia tabaci*)**.
+41. **Nematode Crop Infestations**: **Root-knot disease** in tobacco, tomato, and eggplant crops is caused by the microscopic endoparasitic soil nematode ***Meloidogyne incognita***; infects roots inducing characteristic giant multinucleated gall cells, stunting plant growth; controlled modernly using **RNA interference (RNAi) / gene silencing** technology.
+42. **Organic Farming & Vermicomposting**: Organic farming avoids synthetic fertilizers, chemical pesticides, and GMOs; relies on crop rotations, green manures, and **Vermicompost**; vermicompost is produced by earthworm species like ***Eisenia foetida*** (red wigglers) digesting animal dung and farm biomass; earthworm castings are enriched with available nitrogen, phosphorus, exchangeable potassium, and beneficial soil microbes.
+43. **Green Manuring Crops**: Sowing and plowing green succulent leguminous crops into the soil at flowering stage to enrich organic matter and nitrogen: apex green manure crops are **Dhaincha (*Sesbania aculeata*)**, **Sunn hemp (*Crotalaria juncea*)**, **Cowpea / Lobia (*Vigna unguiculata*)**, and **Guar / Cluster bean (*Cyamopsis tetragonoloba*)**; Dhaincha is exceptionally tolerant of waterlogging and alkaline/saline soils.
+44. **Major Cash Crops & Agricultural Classification**: **Kharif Crops**: Sown in June–July at onset of monsoon, harvested in September–October (e.g., **Rice/Paddy, Maize, Jowar, Bajra, Cotton, Groundnut, Soybean, Jute, Arhar/Tur**); **Rabi Crops**: Sown in October–November (winter), harvested in March–April (e.g., **Wheat, Barley, Mustard / Rapeseed, Gram / Chickpea, Pea, Potato, Linseed**); **Zaid Crops**: Grown between March and June summer months (e.g., **Watermelon, Muskmelon, Cucumber, Gourd, Fodder crops**).
+45. **Genetically Modified (GM) Crops in India**: **Bt Cotton** is the **only GM commercial crop permitted for commercial cultivation in India** (approved in 2002 by the Genetic Engineering Appraisal Committee / GEAC); incorporates the *Cry1Ac* and *Cry2Ab* endotoxin genes from soil bacterium *Bacillus thuringiensis* targeting American bollworm; **Bt Brinjal** was placed under commercial moratorium in 2010; **GM Mustard (DMH-11)** is a hybrid mustard developed by Delhi University using the barnase-barstar system.
+46. **Pesticides & Bio-Pesticides Drill**: **DDT (Dichlorodiphenyltrichloroethane)**: Persistent organochlorine insecticide; bioaccumulates and biomagnifies up trophic levels, causing thinning of eggshells in raptor birds; largely banned globally under the Stockholm Convention; **Bio-pesticides**: Environmentally safe formulations derived from natural organisms, including **Neem-based formulations** containing the triterpenoid limonoid **Azadirachtin** (antifeedant and insect growth regulator from *Azadirachta indica*), and fungal bio-agents like ***Trichoderma viride*** (controls fungal root pathogens).
+47. **Hydroponics & Aeroponics**: **Hydroponics**: Technique of cultivating terrestrial plants in a sterile **soil-less water culture** containing precisely calibrated aqueous mineral nutrient solutions (developed by Julius von Sachs, 1860); **Aeroponics**: Growing plants suspended in an air or mist environment without soil or aggregate medium, roots misted periodically with nutrient-rich sprays; maximizes root oxygenation and water efficiency.
+48. **Plant Cell Totipotency & Tissue Culture**: **Totipotency** is the intrinsic cellular capacity of any nucleated plant cell / explant to regenerate into a complete, fertile multicellular plant organism (concept formulated by Gottlieb Haberlandt, 1902); utilized in commercial **Micropropagation** to mass-produce pathogen-free clonal plantlets (e.g., Banana, Orchids, Potato) in sterile synthetic media containing balanced auxin and cytokinin ratios.
+49. **Polyembryony & Parthenocarpy**: **Polyembryony**: Phenomenon of occurrence of more than one embryo in a single seed (discovered by Antony van Leeuwenhoek, 1719 in citrus seeds); prominent in **Citrus (Orange, Lemon)** and **Mango**; **Parthenocarpy**: Formation and development of fruits without fertilization of ovules, yielding naturally seedless fruits (e.g., **Banana, Pineapple, Seedless Grapes**); can be induced artificially by applying auxins or gibberellins.
+50. **Key Botanical Taxonomy & Economic Families Drill**: **Poaceae / Gramineae (Grass Family)**: Rice, Wheat, Maize, Sugarcane, Bamboo (fastest-growing woody grass); **Fabaceae / Leguminosae (Pulse Family)**: Gram, Pea, Arhar, Soybean, Groundnut; **Solanaceae (Nightshade Family)**: Potato, Tomato, Brinjal, Chilli, Tobacco (*Nicotiana tabacum*, leaves rich in nicotine), Belladonna (*Atropa belladonna*, source of atropine); **Brassicaceae / Cruciferae (Mustard Family)**: Mustard, Radish, Cabbage, Cauliflower, Turnip; **Cucurbitaceae (Gourd Family)**: Bottle gourd, Bitter gourd, Cucumber, Pumpkin, Watermelon; **Malvaceae (Mallow Family)**: Cotton, Okra / Bhindi, Hibiscus.
 
 </details>
 
@@ -505,6 +530,9 @@ D. Food
 </details>
 
 **Q-ST2. UPPCS Pre 2021**
+
+Fruits stored in a cold chamber exhibit a longer storage life because:
+
 A. Exposure to sunlight is prevented  
 B. Concentration of CO₂ in the environment is increased  
 C. Rate of respiration is decreased  
@@ -727,6 +755,9 @@ D. Acetic acid
 </details>
 
 **Q-ST16. UPPCS Pre 2015**
+
+Tearing during the cutting or peeling of an onion is caused by the release of:
+
 A. Sulphonic acid  
 B. Sulfenic acid  
 C. Amino acid  
@@ -837,6 +868,9 @@ D. Stenothermal
 </details>
 
 **Q-ST23. UPPCS Pre 1996 / Lower Pre 1998**
+
+Roots of desert plants (xerophytes) grow exceptionally deep into the soil because:
+
 A. High temperature of the soil stimulates the growth of roots  
 B. Roots grow in search of water  
 C. Soil does not contain water, hence becomes compact and presses roots  
@@ -1244,6 +1278,9 @@ D. Manganese
 </details>
 
 **Q-ST49. UP Lower Sub (Pre) 2013**
+
+Which of the following chemical elements is a core constituent of the chlorophyll molecule?
+
 A. Iron  
 B. Copper  
 C. Magnesium  
@@ -1387,6 +1424,9 @@ D. Violet
 </details>
 
 **Q-ST58. U.P. Lower Sub (Spl) (Pre) 2008**
+
+Artificial light can perform which of the following functions in green plants?
+
 A. Destroy chlorophyll  
 B. Synthesise chlorophyll  
 C. Bring about photosynthesis  
@@ -1814,6 +1854,9 @@ D. Both (A) and (R) are true and (R) is correct explanation of (A).
 </details>
 
 **Q-ST84. UPPCS (Mains) 2009**
+
+Late blight (caused by Phytophthora infestans) is a destructive plant disease affecting:
+
 A. Groundnut  
 B. Mustard  
 C. Wheat  
@@ -2086,6 +2129,9 @@ D. Java grass
 </details>
 
 **Q-ST101. UPPCS (Pre) 2009**
+
+The dry fruit/edible seed 'Chilgoza' is obtained from which gymnosperm plant?
+
 A. Pine  
 B. Palm  
 C. Cycas  
@@ -2636,6 +2682,9 @@ D. Mangnese
 </details>
 
 **Q-ST134. UPPCS (Mains) 2010**
+
+'Khaira disease' of paddy (rice crop) is caused by the physiological deficiency of:
+
 A. Fe  
 B. Mn  
 C. N  
@@ -2709,6 +2758,9 @@ D. Potassium deficiency
 </details>
 
 **Q-ST139. UPPCS (Mains) 2002**
+
+Yellow vein mosaic disease in Bhindi (okra) is transmitted from plant to plant by:
+
 A. Aphids  
 B. Whitefly  
 C. Leafhopper  
@@ -2807,6 +2859,9 @@ E. None of the above / More than one of the above
 </details>
 
 **Q-ST4. 67th BPSC Re-Exam 2022**
+
+Insectivorous plants (pitcher plant, sundew) grow in soils deficient in:
+
 A. Water  
 B. Magnesium  
 C. Nitrogen  
@@ -2909,6 +2964,9 @@ D. Sweet Potato
 </details>
 
 **Q-ST10. RAS/RTS Re-Exam 2013**
+
+Phreatophytes are specialized desert plants characterized by having:
+
 A. Succulent stem (100–200 mm thick)  
 B. Lipid accumulation in leaves  
 C. Long (20–30 ft / metres) tap roots  
@@ -3247,6 +3305,9 @@ E. None of the above/More than one of the above
 </details>
 
 **Q-ST30. R.A.S./R.T.S. (Pre) 1992**
+
+During the process of photosynthesis, green plants perform which gaseous exchange?
+
 A. Taking nitrogen and releasing oxygen  
 B. Taking CO2 and releasing oxygen  
 C. Taking oxygen and releasing CO2  
@@ -3276,6 +3337,9 @@ E. None of the above/More than one of the above
 </details>
 
 **Q-ST32. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
+
+Which gas is absorbed by autotrophic green plants from the atmosphere for photosynthesis?
+
 A. Oxygen  
 B. Nitrogen  
 C. Carbon monoxide  
@@ -3328,6 +3392,9 @@ D. None of the above statements is correct
 </details>
 
 **Q-ST35. 43rd B.P.S.C. (Pre) 1999**
+
+In green plants, the overall reactions of photosynthesis can take place during the:
+
 A. Night  
 B. Day and night  
 C. Day or night  
@@ -3356,6 +3423,9 @@ D. Photosynthesis
 </details>
 
 **Q-ST37. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+In eukaryotic plant cells, the process of photosynthesis takes place in the:
+
 A. Nucleus  
 B. Mitochondria  
 C. Chloroplast  
@@ -3385,6 +3455,9 @@ D. Yellow and violet
 </details>
 
 **Q-ST39. 68th B.P.S.C. (Pre) 2022**
+
+Which spectral wavelengths of visible sunlight are most strongly absorbed by chlorophyll?
+
 A. red and blue  
 B. green and blue  
 C. green and red  
@@ -3444,6 +3517,9 @@ photosynthesis is transformed into :
 </details>
 
 **Q-ST43. Chhattisgarh P.C.S. (Pre) 2017**
+
+During the biochemical process of photosynthesis:
+
 A. Solar energy converts into heat energy  
 B. Solar energy converts into kinetic energy  
 C. Solar energy converts into potential energy  
@@ -3667,6 +3743,9 @@ D. None of the above
 </details>
 
 **Q-ST57. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Vascular terrestrial plants absorb liquid water and dissolved inorganic minerals from the:
+
 A. chlorophyll  
 B. atmosphere  
 C. light  
@@ -3806,6 +3885,9 @@ D. Applying fertilizers containing radioactive elements
 </details>
 
 **Q-ST66. M.P.P.C.S. (Pre) 2017**
+
+In flowering angiosperm plants, male haploid pollen grains are produced inside the:
+
 A. Shoot apex  
 B. Root apex  
 C. Anthers  
@@ -4476,6 +4558,9 @@ D. Wheat
 </details>
 
 **Q-ST104. I.A.S. (Pre) 2000**
+
+Which stimulant alkaloid substance is commonly found in cola soft beverages?
+
 A. Caffeine  
 B. Nicotine  
 C. Tannin  
@@ -4569,6 +4654,9 @@ D. Argemone
 </details>
 
 **Q-ST110. R.A.S./R.T.S. (Pre) 1994**
+
+Botanically, an edible apple or pear is classified as a:
+
 A. Flower  
 B. Leave  
 C. Fruit  
@@ -4792,6 +4880,9 @@ D. Olericulture
 </details>
 
 **Q-ST3. Uttarakhand Lower Sub. Pre 2010**
+
+The larvae of the commercial silk moth (Bombyx mori) feed exclusively on the leaves of:
+
 A. Reetha leaves  
 B. Ficus leaves  
 C. Peach leaves  
@@ -4823,6 +4914,9 @@ D. Azolla
 </details>
 
 **Q-ST5. Uttarakhand P.C.S. (Pre) 2007**
+
+The aquatic fern Azolla is widely utilized as an effective biofertilizer in combination with:
+
 A. Blue-green algae  
 B. Bone meal  
 C. Cow dung  

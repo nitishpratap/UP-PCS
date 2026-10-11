@@ -25,7 +25,7 @@ Blood Composition (Plasma, Albumin, Globulin, Fibrinogen) | Formed Elements: Ery
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 45 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Blood is a specialized fluid connective tissue consisting of **~55% liquid Plasma** and **~45% cellular Formed Elements**; slightly alkaline with a normal physiological **pH of 7.35–7.45**; total blood volume in a healthy adult is **5 to 6 litres** (~7–8% of body weight).
 2. Blood plasma is 90–92% water; plasma proteins include **Albumin** (maintains colloidal osmotic / oncotic pressure, ~4 g/dL), **Globulins** ($\alpha, \beta, \gamma$ — $\gamma$-globulins act as circulating **antibodies**), and **Fibrinogen** (essential for blood clotting); **$\text{Serum} = \text{Plasma} - \text{Clotting Factors (Fibrinogen)}$**.
@@ -121,6 +121,11 @@ Blood Composition (Plasma, Albumin, Globulin, Fibrinogen) | Formed Elements: Ery
     - Contains **Red Pulp** (vascular sinusoids that filter blood, remove old worn-out erythrocytes and blood-borne pathogens) and **White Pulp** (lymphoid sheaths housing T and B lymphocytes).
     - Functions: **Graveyard of RBCs**, **Blood Bank** (can contract to release stored red blood cells into systemic circulation during acute haemorrhage), and major antibody-producing lymphoid organ.
 45. **Cardiopulmonary Resuscitation (CPR)**: Emergency life-saving procedure comprising chest compressions (depth 5–6 cm at a rate of 100–120 compressions/minute) combined with artificial rescue breaths to manually preserve blood circulation to the brain and vital organs during cardiac arrest.
+46. **Frank-Starling Law of the Heart**: States that within physiological limits, the stroke volume of the heart increases in response to an increase in the end-diastolic volume (venous return); greater myocardial stretch before contraction lengthens sarcomeres closer to optimal overlap, generating greater contractile force during subsequent ventricular systole.
+47. **Coronary Sinus & Thebesian Veins**: Venous blood draining the left ventricular myocardium collects in the great cardiac vein, empties into the wide **Coronary Sinus**, and discharges directly into the right atrium; minute **Thebesian Veins (Venae Cordis Minimae)** drain inner myocardial layers directly into all four cardiac chambers, bypassing major coronary veins.
+48. **Hematopoietic Stem Cell Lineages**: Pluripotent hematopoietic stem cells (HSCs) in the red bone marrow differentiate into two primary progenitor lineages: the **Myeloid Lineage** (gives rise to erythrocytes, megakaryocytes/platelets, monocytes, and granulocytes) and the **Lymphoid Lineage** (gives rise to T-lymphocytes, B-lymphocytes, and Natural Killer cells).
+49. **Inherited Coagulation Factor Deficiencies (Hemophilia)**: **Hemophilia A (Classic Hemophilia)** is caused by a congenital deficiency of clotting **Factor VIII** (anti-hemophilic globulin); **Hemophilia B (Christmas Disease)** is caused by a deficiency of clotting **Factor IX**; both are X-linked recessive genetic traits transmitted by asymptomatic carrier mothers predominantly to male offspring.
+50. **Sphygmomanometer & Auscultatory Korotkoff Sounds**: Arterial blood pressure is measured clinically using an inflatable arm cuff and mercury or aneroid **Sphygmomanometer** (invented by Scipione Riva-Rocci); the physician inflates the cuff above systolic pressure and auscultates over the brachial artery with a stethoscope; the onset of tapping **Korotkoff sounds** marks Systolic BP (120 mm Hg), and their total disappearance marks Diastolic BP (80 mm Hg).
 
 </details>
 
@@ -533,6 +538,9 @@ D. Myoglobin
 </details>
 
 **Q-ST17. UPPCS (Pre) 1990**
+
+The red colour of human blood is due to the presence of:
+
 A. Plasma  
 B. Haemoglobin  
 C. Haemocynin  
@@ -546,6 +554,9 @@ D. W.B.C.
 </details>
 
 **Q-ST18. Uttarakhand U.D.A./L.D.A. (Pre) 2003**
+
+Which pigment is responsible for imparting red colour to the blood in vertebrates?
+
 A. Cutin  
 B. Chlorophyll  
 C. Haemocynin  
@@ -621,6 +632,9 @@ D. Landsteiner
 </details>
 
 **Q-ST23. UP UDA/LDA (Mains) 2010**
+
+The 'Rh factor' in blood grouping derives its name from which organism?
+
 A. Ape  
 B. Human  
 C. Monkey  
@@ -1088,6 +1102,9 @@ D. Secretion coming out from the pituitary gland
 </details>
 
 **Q-ST9. 47th B.P.S.C. (Pre) 2005**
+
+Which metallic mineral is present in the prosthetic group of haemoglobin?
+
 A. Copper  
 B. Silver  
 C. Gold  

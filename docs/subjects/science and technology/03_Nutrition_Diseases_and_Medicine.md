@@ -26,7 +26,7 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 32 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. By mass, **Oxygen** is the most abundant element in the human body (~65%), followed by Carbon (~18.5%), Hydrogen (~9.5%), and Nitrogen (~3.2%); by total number of atoms, **Hydrogen** is the most abundant.
 2. **Calcium** is the most abundant mineral element in the human body (~1.5% of body weight; 99% in bones and teeth as hydroxyapatite crystals); **Iron** is the most abundant essential micromineral (3–4 grams, primarily inside haemoglobin).
@@ -52,14 +52,32 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 22. **Vitamin B7 (Biotin / Vitamin H)**: Sulfur-containing coenzyme for carboxylation reactions; raw egg white contains the protein **Avidin**, which binds biotin tightly and blocks absorption, causing induced biotin deficiency.
 23. **Vitamin B9 (Folic Acid / Folate)**: Required for DNA synthesis and purine/thymidylate production; deficiency causes **Megaloblastic Anaemia**; maternal folate deficiency in periconceptional period causes fatal **Neural Tube Defects (Spina Bifida and Anencephaly)** in newborns.
 24. **Vitamin B12 (Cyanocobalamin)**: The only vitamin containing a metallic trace element (**Cobalt**); absent in ordinary plant foods; synthesized exclusively by microorganisms; absorbs in the terminal ileum mediated by **Castle's Intrinsic Factor** secreted by gastric parietal cells; deficiency causes **Pernicious Anaemia** (megaloblastic anaemia + irreversible subacute combined degeneration of the spinal cord).
-25. Mineral toxicity and environmental water syndromes:
-26. **Bacterial Diseases**:
-27. **Viral Diseases**:
-28. **Protozoan Diseases**:
-29. **Cancer Biology & Classification**:
-30. **Diabetes Mellitus vs Diabetes Insipidus**:
-31. **Vaccine Classification & Modern Immunology**:
-32. **Clinical Diagnostic Tests & Instruments Drill**:
+25. **Minamata Disease**: Severe neurological disease caused by methylmercury poisoning from consuming contaminated fish and shellfish in Minamata Bay, Japan; damages sensory cortex and cerebellum, producing ataxia, sensory numbness, and tremors.
+26. **Itai-Itai Disease ("Ouch-Ouch" Disease)**: Chronic **Cadmium ($Cd$)** poisoning occurring in Toyama Prefecture, Japan; causes severe painful osteomalacia, multiple bone fractures, and renal tubular dysfunction.
+27. **Blue Baby Syndrome (Infantile Methemoglobinemia)**: Caused by high **Nitrate ($NO_3^-$)** concentrations in rural drinking water ($>45\text{ mg/L}$); intestinal microbes convert nitrate to nitrite, which oxidizes hemoglobin $Fe^{2+}$ into $Fe^{3+}$ **Methemoglobin**, incapable of releasing oxygen to tissues, producing cyanotic slate-blue skin discoloration.
+28. **Blackfoot Disease & Arsenicosis**: Chronic **Arsenic ($As$)** toxicity from contaminated tube-well groundwater (prevalent in the Ganga-Brahmaputra alluvial plains of West Bengal and eastern UP); causes severe peripheral vascular gangrene (Blackfoot disease) and hyperkeratosis.
+29. **Fluorosis (Skeletal and Dental)**: Chronic ingestion of excess **Fluoride ($F^-$)** in groundwater ($>1.5\text{ mg/L}$); causes mottling of dental enamel (Dental Fluorosis), calcification of spinal ligaments, and crippling skeletal deformities ("Knock-knee" syndrome / Genu valgum).
+30. **Wilson's Disease**: Autosomal recessive inborn error of copper metabolism leading to toxic accumulation of **Copper ($Cu$)** in the liver, brain basal ganglia, and cornea (pathognomonic golden-brown **Kayser-Fleischer rings** in the cornea).
+31. **Cholera**: Caused by the comma-shaped bacterium ***Vibrio cholerae***; transmitted via fecal-oral contamination of water/food; secretes cholera enterotoxin stimulating massive intestinal chloride secretion, resulting in profuse painless **"rice-water" diarrhea** and severe lethal dehydration; treated with Oral Rehydration Solution (ORS).
+32. **Tuberculosis (TB)**: Chronic infectious airborne disease caused by acid-fast bacillus ***Mycobacterium tuberculosis*** (discovered by **Robert Koch, 1882**); primarily attacks lungs (pulmonary TB); confirmed by sputum smear, chest X-ray, and **Mantoux Tuberculin Skin Test**; protected by the **BCG (Bacille Calmette-Guérin)** live attenuated vaccine; treated via WHO **DOTS (Directly Observed Treatment, Short-course)**.
+33. **Typhoid Fever (Enteric Fever)**: Caused by the rod-shaped Gram-negative bacterium ***Salmonella typhi***; transmitted via contaminated food and water; classic signs include step-ladder remittent fever, coated tongue, relative bradycardia, and intestinal ulceration; confirmed by the **Widal Test** (detects agglutinating antibodies against O and H antigens).
+34. **Tetanus (Lockjaw / धनुस्तंभ)**: Caused by anaerobic, spore-forming, drumstick-shaped soil bacterium ***Clostridium tetani***; enters via contaminated lacerations and rustic puncture wounds; releases the neurotoxin **Tetanospasmin**, which blocks inhibitory glycine/GABA release, causing painful involuntary spasms of masseter muscles (trismus / lockjaw) and arched body posture (opisthotonos); prevented by tetanus toxoid (TT) vaccine.
+35. **Diphtheria**: Acute bacterial infection caused by ***Corynebacterium diphtheriae***; forms a thick, grey, leathery pseudomembrane over the tonsils and pharynx, causing lethal airway asphyxiation; confirmed by the **Schick Test**; prevented as part of the **DPT (Diphtheria, Pertussis, Tetanus)** trivalent pediatric vaccine.
+36. **Leprosy (Hansen's Disease / कुष्ठ रोग)**: Chronic mycobacterial infection caused by ***Mycobacterium leprae*** (discovered by **Gerhard Hansen, 1873**); targets cooler peripheral nerves and skin; produces hypopigmented anaesthetic skin macules and claw hands; cured by standard **Multi-Drug Therapy (MDT)** (Rifampicin, Dapsone, and Clofazimine).
+37. **Poliomyelitis (Polio)**: Enteroviral infection transmitted via fecal-oral route; the **Poliovirus** destroys anterior horn motor neurons of the spinal cord, causing asymmetric flaccid paralysis; prevented by **Salk Vaccine** (inactivated injectable polio vaccine, Jonas Salk, 1952) and **Sabin Vaccine** (live attenuated oral polio vaccine drops, Albert Sabin, 1961).
+38. **Rabies (Hydrophobia / अलर्क रोग)**: Fatal neurotropic bullet-shaped rhabdovirus infection transmitted through saliva via bites of rabid mammals (dogs, wolves, bats); virus ascends peripheral nerves into the CNS, causing intense pharyngeal spasm upon attempting to swallow water (**Hydrophobia**); pathognomonic diagnostic **Negri bodies** form inside cerebral neurons; post-exposure rabies vaccine was developed by **Louis Pasteur (1885)**.
+39. **Dengue Fever ("Breakbone Fever")**: Caused by the **Dengue flavivirus** (4 serotypes: DENV 1–4); transmitted by the diurnal day-biting mosquito ***Aedes aegypti*** (the tiger mosquito); hallmarks are acute retro-orbital headache, high fever, severe arthralgia/myalgia ("breakbone"), and precipitous drop in **blood platelet count (thrombocytopenia)**; also transmits Chikungunya and Zika viruses.
+40. **Malaria**: Mosquito-borne parasitic disease caused by protozoan parasites of the genus ***Plasmodium*** (*P. vivax, P. falciparum, P. malariae, P. ovale*); transmitted exclusively by the bite of infected female ***Anopheles*** mosquitoes; **Sir Ronald Ross (1897, Secunderabad, India)** discovered the mosquito transmission vector; *P. falciparum* causes lethal **Malignant Tertian / Cerebral Malaria**; natural treatment is **Quinine** (extracted from the bark of the **Cinchona tree**, *Cinchona calisaya*).
+41. **Kala-Azar (Visceral Leishmaniasis / Dumdum Fever)**: Caused by flagellated protozoan ***Leishmania donovani***; transmitted by the vector **Sandfly (*Phlebotomus argentipes*)**; endemic in Bihar, Jharkhand, and eastern UP; infects the reticuloendothelial system, causing massive hepatosplenomegaly, severe anaemia, and dark skin hyperpigmentation.
+42. **Sleeping Sickness (African Trypanosomiasis)**: Caused by protozoan flagellate ***Trypanosoma brucei***; transmitted by the bite of the **Tsetse fly (*Glossina palpalis*)**; attacks the central nervous system, producing daytime sleepiness and fatal coma.
+43. **Amoebiasis (Amoebic Dysentery)**: Protozoan intestinal infection caused by ***Entamoeba histolytica***; invades large intestinal mucosa producing characteristic "flask-shaped" ulcers; causes frequent bloody stools with mucus, abdominal cramps, and potential metastatic amoebic liver abscesses.
+44. **Cancer Biology & Classification**: Malignant neoplasia characterized by uncontrolled cellular proliferation and loss of contact inhibition: **Carcinoma** (cancers of epithelial origin; accounts for ~85% of all human cancers, e.g., breast, lung, cervical, colon cancer); **Sarcoma** (cancers of mesenchymal/connective tissue origin, e.g., bone/osteosarcoma, muscle, cartilage); **Leukemia** (cancer of hematopoietic white blood cells in bone marrow); **Lymphoma** (cancer of lymphatic nodal tissue, e.g., Hodgkin's disease).
+45. **Oncogenes & Metastasis**: Normal cells contain regulatory genes called **Proto-oncogenes**, which mutate into active cancer-causing **Oncogenes** under exposure to physical, chemical, or biological carcinogens; **Metastasis** (detachment, bloodstream dissemination, and colonisation of distant organ sites by malignant tumor cells) is the single most definitive clinical hallmark of malignancy.
+46. **Diabetes Mellitus**: Metabolic disorder caused by absolute deficiency of insulin (**Type 1 Diabetes**, autoimmune destruction of pancreatic beta cells) or peripheral tissue insulin resistance (**Type 2 Diabetes**); characterized by fasting hyperglycemia, **Glycosuria** (glucose in urine), polyuria (excessive urination), polydipsia (excessive thirst), and polyphagia; diagnosed by Fasting Blood Sugar and **$HbA_{1c}$ test** ($\ge 6.5\%$ indicates diabetes).
+47. **Diabetes Insipidus**: Rare endocrinological disorder completely unrelated to insulin or blood sugar levels; caused by deficiency of **Antidiuretic Hormone (ADH / Vasopressin)** secreted by the posterior pituitary or renal insensitivity to ADH; characterized by massive excretion of extremely dilute, hypotonic urine (up to 15–20 litres/day) and extreme thirst; urine is non-sweet (lacks glucose entirely).
+48. **Vaccine Platforms**: **Inactivated / Killed Vaccines**: Pathogen destroyed by heat or chemical formalin (e.g., Covaxin, Salk Polio vaccine, Rabies vaccine); **Live Attenuated Vaccines**: Weakened living pathogen inducing strong lifelong immunity (e.g., BCG, MMR, Sabin Oral Polio vaccine, Yellow Fever vaccine); **Subunit / Recombinant Vaccines**: Specific antigenic fragments (e.g., Hepatitis B recombinant surface antigen, Corbevax); **mRNA Vaccines**: Synthetic mRNA in lipid nanoparticles (e.g., Pfizer-BioNTech, Moderna); **DNA Vaccines**: Plasmid DNA encoding viral antigen (e.g., ZyCoV-D, world's first needle-free plasmid DNA vaccine).
+49. **Landmark Clinical Diagnostic Tests**: **ELISA (Enzyme-Linked Immunosorbent Assay)** and **Western Blot**: Standard screening and confirmatory tests for HIV / AIDS antibodies; **Widal Test**: Diagnostic agglutination test for Typhoid fever; **Mantoux Test / Tuberculin Skin Test**: Diagnostic delayed hypersensitivity test for Tuberculosis exposure; **Schick Test**: Susceptibility test for Diphtheria; **Biopsy / Histopathology**: Gold-standard definitive diagnostic test for cancer malignancy; **Amniocentesis**: Prenatal testing of amniotic fluid for fetal chromosomal abnormalities (e.g., Down syndrome), strictly regulated in India under the PCPNDT Act to prevent female foeticide.
+50. **Clinical Diagnostic Instruments**: **Electrocardiogram (ECG)**: Graphical recording of cardiac electrical conduction; **Electroencephalogram (EEG)**: Recording of cerebral cortex neuroelectrical activity (diagnoses epilepsy, coma, brain death); **Electromyogram (EMG)**: Recording of skeletal muscle and peripheral nerve electrical potential; **Endoscopy**: Uses flexible fiber-optic bundles applying **Total Internal Reflection** to inspect hollow internal viscera (stomach, duodenum).
 
 </details>
 
@@ -287,6 +305,9 @@ D. Vitamin C
 </details>
 
 **Q-ST7. UPPCS Pre 2019**
+
+Which of the following diseases is caused by the regular consumption of polished rice?
+
 A. Beriberi  
 B. Goitre  
 C. Night blindness  
@@ -350,6 +371,9 @@ D. Nutrient and medicinal effect
 </details>
 
 **Q-ST11. UPPCS (Pre) 2012**
+
+Casimir Funk is credited with the discovery and naming of:
+
 A. Vitamins  
 B. Hormones  
 C. Proteins  
@@ -2199,6 +2223,9 @@ D. 2 3 4 1
 </details>
 
 **Q-ST124. UPPCS (Mains) 2007 / Uttarakhand U.P.A/L.D.A. (Pre) 2003**
+
+Sleeping sickness (African Trypanosomiasis) is caused by:
+
 A. Deficiency of Vitamin-A  
 B. Deficiency of calcium in body  
 C. Rising of blood pressure  
@@ -2487,6 +2514,9 @@ D. Young men & women
 </details>
 
 **Q-ST143. UPPCS (Pre) 2017**
+
+Deficiency of iodine in the human diet causes which of the following diseases?
+
 A. Night Blindness  
 B. Cancer  
 C. Goitre  
@@ -3213,6 +3243,9 @@ D. Use of plain convex lens
 </details>
 
 **Q-ST187. UPPCS (Pre) (Re. Exam) 2015**
+
+A person suffering from myopia (near-sightedness) can see:
+
 A. Nearby objects clearly  
 B. Distant objects clearly  
 C. Nearby as well as distant objects clearly  
@@ -3304,6 +3337,9 @@ D. Vertebral joints
 </details>
 
 **Q-ST193. R.A.S./R.T.S. (Pre) 1993 / Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+Nutritional deficiency of iron in the human body leads to:
+
 A. Filaria  
 B. Malaria  
 C. Anaemia  
@@ -3379,6 +3415,9 @@ D. Prions
 </details>
 
 **Q-ST198. UPPCS (Pre) 1991**
+
+Dialysis is used in clinical medicine when there is dysfunction or failure of the:
+
 A. Kidney  
 B. Spleen  
 C. Heart  
@@ -3483,6 +3522,9 @@ D. T.B.
 </details>
 
 **Q-ST205. UPPCS (Mains) 2014**
+
+The most common side effect associated with the use of the Copper-T intrauterine device (IUD) is:
+
 A. Bleeding  
 B. Pain  
 C. Perforation  
@@ -3512,6 +3554,9 @@ D. Brain
 </details>
 
 **Q-ST207. UPPCS (Pre) 2024**
+
+In emergency medicine, what does the abbreviation 'CPR' stand for?
+
 A. Cardio Programme Rescue  
 B. Cardiac Pulsatile Revision  
 C. Cardiopulmonary Resuscitation  
@@ -4266,6 +4311,9 @@ D. Pneumonia – Eyes
 </details>
 
 **Q-ST18. Uttarakhand P.C.S. (Pre) 2006**
+
+Jaundice is a pathological disease affecting which vital organ of the human body?
+
 A. Pancreas  
 B. Stomach  
 C. Liver  
@@ -4384,6 +4432,9 @@ D. None of these
 </details>
 
 **Q-ST6. 70th B.P.S.C. (Pre) (Re-Exam) 2024**
+
+Which of the following groups of vitamins is stored in the human liver?
+
 A. A, B, C and D vitamins  
 B. Only A and B vitamins  
 C. A, B and C vitamins  
@@ -4748,6 +4799,9 @@ D. 1, 2 and 3
 </details>
 
 **Q-ST28. M.P.P.C.S. (Pre) 1993**
+
+Which essential nutrient is practically deficient or lacking in milk?
+
 A. Vitamin  
 B. Iron  
 C. Fat  
@@ -6149,6 +6203,9 @@ E. None of the above / More than one of the above
 </details>
 
 **Q-ST112. I.A.S. (Pre) 1993**
+
+Scratching an itch provides temporary relief because:
+
 A. It removes the outer dust in the skin  
 B. It kills the germs  
 C. It stimulates certain nerves which direct the brain to increase the production of antihistaminic chemicals  
@@ -6442,6 +6499,9 @@ D. Vitamin E
 </details>
 
 **Q-ST130. R.A.S./R.T.S. (Pre) 1997**
+
+Anthrax (Woolsorter's disease) is primarily an acute infectious disease affecting:
+
 A. Horse  
 B. Cow  
 C. Man  
@@ -7044,6 +7104,9 @@ D. *Giardia lamblia*
 </details>
 
 **Q23.**
+
+In clinical diabetic management, the Glycated Haemoglobin (HbA1c) test measures the:
+
 A. Blood platelet count  
 B. Average blood glucose level over the preceding 3 months  
 C. Renal glomerular filtration rate  

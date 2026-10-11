@@ -1107,6 +1107,9 @@ D. Functional segment of DNA is called genes.
 </details>
 
 **Q-ST6. UPPCS Pre 1995**
+
+The study of zoology deals with:
+
 A. Living animals only  
 B. Living plants only  
 C. Both living and dead animals  
@@ -1349,6 +1352,9 @@ D. Plant Kingdom – Phylum – Class – Order
 </details>
 
 **Q-ST21. UPPCS Pre 1995**
+
+A bacterium can be observed with the help of a:
+
 A. Naked eye  
 B. Compound microscope  
 C. Hand lens  
@@ -1427,6 +1433,9 @@ D. Sweet Pea
 </details>
 
 **Q-ST26. UPPCS (Pre) 2002**
+
+The Human Genome Project is directly associated with:
+
 A. Blood grouping  
 B. Mapping of genes  
 C. Mapping of nerve centers  
@@ -2219,6 +2228,9 @@ D. Malacology
 </details>
 
 **Q-ST7. Uttarakhand PCS Pre 2005**
+
+Palaeobotany deals with the study of:
+
 A. Fossil of animals  
 B. Algae  
 C. Fungi  
@@ -2297,6 +2309,9 @@ D. Ichthyology
 </details>
 
 **Q-ST12. Uttarakhand UDA/LDA Pre 2007**
+
+Which of the following is NOT a direct sub-branch of biological and medical life sciences?
+
 A. Physiology  
 B. Psychology  
 C. Pathology  
@@ -3136,6 +3151,9 @@ D. Sugar-phosphate backbone
 </details>
 
 **Q-ST45. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Genetic variation in offspring during sexual reproduction occurs due to:
+
 A. Blending of genes  
 B. Chromosomal changes  
 C. Shuffling of genes  
@@ -3242,6 +3260,9 @@ D. None of these
 </details>
 
 **Q-ST52. 43rd B.P.S.C. (Pre) 1999**
+
+Who synthesized the gene artificially in the laboratory for the first time?
+
 A. Miller  
 B. Khorana  
 C. D. Weris  
@@ -3285,6 +3306,9 @@ D. None of these
 </details>
 
 **Q-ST55. Chhattisgarh P.C.S. (Pre) 2019**
+
+In human beings, the number of chromosomes in a normal somatic cell:
+
 A. Increase by age  
 B. Decrease by age  
 C. Is constant  
